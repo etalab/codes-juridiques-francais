@@ -7,3 +7,4 @@
 - [Section 5 : Du jugement](section-5)
 - [Section 6 : Du jugement par défaut et de l'opposition](section-6)
 - [Section 7 : De la procédure simplifiée](section-7)
+- [Section 8 : De la comparution sur reconnaissance préalable de culpabilité](section-8)

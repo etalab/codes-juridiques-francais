@@ -10,4 +10,6 @@ Les personnes physiques coupables des infractions prévues par les sections 1 et
 
 4° L'exclusion des marchés publics à titre définitif ou pour une durée de cinq ans au plus ;
 
-5° La confiscation du fonds de commerce destiné à l'hébergement de personnes et ayant servi à commettre l'infraction prévue à l'article 225-14.
+5° La confiscation du fonds de commerce destiné à l'hébergement de personnes et ayant servi à commettre l'infraction prévue à l'article 225-14 ;
+
+6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités prévues par l'article 131-5-1.

@@ -14,4 +14,6 @@ Le règlement qui réprime une contravention peut prévoir, lorsque le coupable 
 
 6° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de conduire n'est pas exigé, pour une durée de trois ans au plus ;
 
-7° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière.
+7° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ;
+
+8° L'obligation d'accomplir, le cas échéant à ses frais, un stage de citoyenneté.
