@@ -1,3 +1,0 @@
-# BUDGET ANNEXE DES PRESTATIONS SOCIALES AGRICOLES *BAPSA*
-
-- [Article 159 ter A](article-159-ter-a.md)
