@@ -2,32 +2,40 @@
 
 Les tribunaux administratifs désignés ci-après sont présidés par un président hors classe et composés de plusieurs chambres dont le nombre est fixé comme suit :
 
-Bordeaux : trois chambres ;
+Amiens : deux chambres.
 
-Clermont-Ferrand : deux chambres ;
+Bordeaux : trois chambres.
 
-Grenoble : quatre chambres ;
+Caen : deux chambres.
 
-Lille : trois chambres ;
+Clermont-Ferrand : deux chambres.
 
-Lyon : trois chambres ;
+Grenoble : quatre chambres.
 
-Marseille : cinq chambres ;
+Lille : quatre chambres.
 
-Montpellier : trois chambres ;
+Lyon : quatre chambres.
 
-Nantes : trois chambres ;
+Marseille : cinq chambres.
 
-Nice : trois chambres ;
+Montpellier : trois chambres.
 
-Orléans : trois chambres ;
+Nancy : deux chambres.
 
-Poitiers : deux chambres ;
+Nantes : trois chambres.
 
-Rennes : quatre chambres ;
+Nice : trois chambres.
 
-Strasbourg : trois chambres ;
+Orléans : trois chambres.
 
-Toulouse : deux chambres ;
+Poitiers : deux chambres.
 
-Versailles : cinq chambres.
+Rennes : quatre chambres.
+
+Rouen : deux chambres.
+
+Strasbourg : trois chambres.
+
+Toulouse : deux chambres.
+
+Versailles : six chambres.
