@@ -1,4 +1,5 @@
 # Section 2 : Dégrèvements.
 
+- [Article 1075](article-1075.md)
 - [Article 1076](article-1076.md)
 - [Article 1079](article-1079.md)

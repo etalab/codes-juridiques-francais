@@ -8,3 +8,4 @@
 - [Article 693](article-693.md)
 - [Article 694](article-694.md)
 - [Article 695](article-695.md)
+- [Article 696-1](article-696-1.md)
