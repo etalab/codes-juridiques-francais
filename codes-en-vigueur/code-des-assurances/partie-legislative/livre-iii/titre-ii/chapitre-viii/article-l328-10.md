@@ -8,4 +8,4 @@ Les peines [*sanctions*] prévues à l'article 433 de la loi n° 66-537 du 24 ju
 
 3° Pour provoquer des souscriptions de contrats, auront publié les noms de personnes désignées contrairement à la vérité comme étant ou devant être attachées à l'entreprise à un titre quelconque ;
 
-4° Auront procédé à toutes autres déclarations ou dissimulations frauduleuses dans tous documents produits au ministre de l'économie et des finances ou portés à la connaissance du public.
+4° Auront procédé à toutes autres déclarations ou dissimulations frauduleuses dans tous documents produits au ministre chargé de l'économie et des finances ainsi qu'à la commission de contrôle des assurances ou portés à la connaissance du public.

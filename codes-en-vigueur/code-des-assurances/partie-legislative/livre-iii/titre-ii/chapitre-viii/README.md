@@ -10,7 +10,6 @@
 - [Article L328-9](article-l328-9.md)
 - [Article L328-10](article-l328-10.md)
 - [Article L328-11](article-l328-11.md)
-- [Article L328-12](article-l328-12.md)
 - [Article L328-13](article-l328-13.md)
 - [Article L328-14](article-l328-14.md)
 - [Article L328-15](article-l328-15.md)
