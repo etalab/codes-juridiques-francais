@@ -6,7 +6,6 @@
 - [Paragraphe IV : SIGNAUX D'AVERTISSEMENT.](paragraphe-iv)
 - [Paragraphe V : PLAQUES.](paragraphe-v)
 - [Paragraphe VI : RÉCEPTION DES CYCLOMOTEURS.](paragraphe-vi)
-- [Paragraphe VII : CONDUITE DES CYCLOMOTEURS.](paragraphe-vii)
 - [Paragraphe VIII : Immatriculation.](paragraphe-viii)
 - [PARAGRAPHE IX : CONTRÔLE ROUTIER.](paragraphe-ix)
 - [Article R188](article-r188.md)
