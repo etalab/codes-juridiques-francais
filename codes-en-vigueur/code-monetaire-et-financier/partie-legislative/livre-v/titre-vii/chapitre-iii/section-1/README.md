@@ -5,4 +5,6 @@
 - [Article L573-3](article-l573-3.md)
 - [Article L573-4](article-l573-4.md)
 - [Article L573-5](article-l573-5.md)
+- [Article L573-6](article-l573-6.md)
+- [Article L573-7](article-l573-7.md)
 - [Article L573-8](article-l573-8.md)

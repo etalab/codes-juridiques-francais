@@ -12,4 +12,4 @@ Tout actionnaire a droit, dans les conditions et délais déterminés par décre
 
 5° Du montant global, certifié par les commissaires aux comptes des sommes ouvrant droit aux déductions fiscales visées à l'article 238 bis AA du code général des impôts ainsi que de la liste des actions nominatives de parrainage, de mécénat ;
 
-6° De la liste et de l'objet des conventions portant sur des opérations courantes conclues à des conditions normales.
+6° De la liste et de l'objet des conventions portant sur des opérations courantes conclues à des conditions normales, établis conformément aux articles L. 225-39 et L. 225-87.

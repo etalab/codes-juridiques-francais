@@ -6,4 +6,4 @@ Le comité des établissements de crédit et des entreprises d'investissement co
 
 Le comité des établissements de crédit et des entreprises d'investissement est destinataire des informations données par les autorités compétentes des autres Etats membres sur des prestataires de services d'investissement qui fournissent des services d'investissement en France en libre établissement ou en libre prestation de services conformément aux dispositions du présent code.
 
-Le comité des établissement de crédit et des entreprises d'investissement communique, sans délai, l'ensemble de ces listes au conseil des marchés financiers et à la commission des opérations de bourse.
+Le comité des établissement de crédit et des entreprises d'investissement communique, sans délai, l'ensemble de ces listes à l'Autorité des marchés financiers.

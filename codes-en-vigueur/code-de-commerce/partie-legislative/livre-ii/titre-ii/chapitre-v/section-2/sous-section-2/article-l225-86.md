@@ -1,6 +1,6 @@
 # Article L225-86
 
-Toute convention intervenant directement ou par personne interposée entre la société et l'un des membres du directoire ou du conseil de surveillance, un actionnaire disposant d'une fraction des droits de vote supérieure à 5 % ou, s'il s'agit d'une société actionnaire, la société la contrôlant au sens de l'article L. 233-3 doit être soumise à l'autorisation préalable du conseil de surveillance.
+Toute convention intervenant directement ou par personne interposée entre la société et l'un des membres du directoire ou du conseil de surveillance, un actionnaire disposant d'une fraction des droits de vote supérieure à 10 % ou, s'il s'agit d'une société actionnaire, la société la contrôlant au sens de l'article L. 233-3 doit être soumise à l'autorisation préalable du conseil de surveillance.
 
 Il en est de même des conventions auxquelles une des personnes visées à l'alinéa précédent est indirectement intéressée.
 
