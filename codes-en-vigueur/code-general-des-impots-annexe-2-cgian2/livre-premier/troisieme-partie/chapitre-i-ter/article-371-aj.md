@@ -1,6 +1,6 @@
 # Article 371 AJ
 
-I. 1 Sous réserve des dispositions des 2 et 3, les chambres de commerce et d'industrie créent les centres de formalités des entreprises compétents pour :
+I. 1. Sous réserve des dispositions des 2 et 3, les chambres de commerce et d'industrie créent les centres de formalités des entreprises compétents pour :
 
 a) Les commerçants ;
 
@@ -30,7 +30,7 @@ a) Les membres des professions libérales ;
 
 b) Les employeurs dont les entreprises ne sont pas immatriculées au registre du commerce et des sociétés, au répertoire des métiers ou au registre des entreprises de la batellerie artisanale.
 
-6. Les chambres d'agriculture créent les centres compétents pour les personnes physiques et morales exerçant à titre principal des activités agricoles, à l'exclusion des personnes visées aux 1 à 4.
+6. Les chambres d'agriculture créent les centres compétents pour les personnes physiques et morales exerçant à titre principal des activités agricoles.
 
 7. Les centres des impôts créent les centres compétents pour les personnes suivantes dès lors qu'elles ne relèvent pas des dispositions des 1 à 6 et qu'elles n'ont pas d'autres obligations déclaratives que statistiques et fiscales :
 
