@@ -2,3 +2,4 @@
 
 - [Section II : Etendue de l'obligation d'assurance.](section-ii)
 - [Section III : Franchises, exclusions de garantie et déchéances.](section-iii)
+- [Section IV : Contrôle de l'obligation d'assurance](section-iv)
