@@ -10,13 +10,13 @@ Toutefois, les personnes qui effectuent des opérations occasionnelles soumises 
 
 II. 1. Dans la mesure où les biens et les services sont utilisés pour les besoins de leurs opérations imposables, et à la condition que ces opérations ouvrent droit à déduction, la taxe dont les redevables peuvent opérer la déduction est, selon le cas :
 
-a) Celle qui figure sur les factures d'achat qui leur sont délivrées par leurs vendeurs, dans la mesure où ces derniers étaient légalement autorisés à la faire figurer sur lesdites factures ;
+a) Celle qui figure sur les factures établies conformément aux dispositions de l'article 289 et si la taxe pouvait légalement figurer sur lesdites factures ;
 
 b) Celle qui est perçue à l'importation ;
 
 c) Celle qui est acquittée par les redevables eux-mêmes lors de l'achat ou de la livraison à soi-même des biens ou des services ;
 
-d) Celle qui correspond aux factures d'acquisition intracommunautaire délivrées par leurs vendeurs dont le montant figure sur la déclaration de recettes conformément au b du 5 de l'article 287.
+d) Celle qui correspond aux factures d'acquisition intracommunautaire établies conformément à la réglementation communautaire dont le montant figure sur la déclaration de recettes conformément au b du 5 de l'article 287.
 
 2. La déduction ne peut pas être opérée si les redevables ne sont pas en possession soit desdites factures, soit de la déclaration d'importation sur laquelle ils sont désignés comme destinataires réels. Pour les acquisitions intracommunautaires, la déduction ne peut être opérée que si les redevables ont fait figurer sur la déclaration mentionnée au d du 1 toutes les données nécessaires pour constater le montant de la taxe due au titre de ces acquisitions et détiennent des factures établies conformément à la réglementation communautaire. Toutefois, les redevables qui n'ont pas porté sur la déclaration mentionnée au d du 1 le montant de la taxe due au titre d'acquisitions intracommunautaires sont autorisés à opérer la déduction lorsque cette taxe a été payée au Trésor.
 
