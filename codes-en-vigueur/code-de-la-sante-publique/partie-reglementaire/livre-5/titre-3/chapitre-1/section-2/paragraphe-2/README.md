@@ -3,6 +3,7 @@
 - [Article R5151](article-r5151.md)
 - [Article R5153](article-r5153.md)
 - [Article R5154](article-r5154.md)
+- [Article R5154 bis](article-r5154-bis.md)
 - [Article R5155](article-r5155.md)
 - [Article R5156](article-r5156.md)
 - [Article R5157](article-r5157.md)
