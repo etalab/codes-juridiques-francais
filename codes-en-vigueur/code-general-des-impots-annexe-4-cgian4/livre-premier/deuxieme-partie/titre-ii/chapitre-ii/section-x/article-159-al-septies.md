@@ -1,91 +1,91 @@
 # Article 159 AL septies
 
-Le taux de la taxe parafiscale mentionnée à l'article 365 de l'annexe II au code général des impôts est fixé comme suit :
+Le taux de la taxe parafiscale mentionnée à l'article 365 de l'annexe II au code général des impôts est fixé, pour les recettes perçues à compter du 1er janvier 2002, comme suit :
 
-I. PUBLICITE RADIODIFFUSEE.
+I. - Publicité radiodiffusée
 
-De 300.000 F à 1.5 million F inclus ... 3000 F [*francs*]
+De 45 734,71 à 228 673,53 euros inclus : 526 euros
 
-De 1,5 à 3 millions F inclus ... 7.500 F
+De 228 673,53 à 457 347,05 euros inclus : 1 314 euros
 
-De 3 à 6 millions F inclus ... 15.750 F
+De 457 347,05 à 914 694,10 euros inclus : 2 761 euros
 
-De 6 à 9 millions F inclus ... 27.000 F
+De 914 694,10 à 1 372 041,16 euros inclus : 4 734 euros
 
-De 9 à 15 millions F inclus ... 45.000 F
+De 1 372 041,16 à 2 286 735,26 euros inclus : 7 889 euros
 
-De 15 à 21 millions F inclus ... 71.250 F
+De 2 286 735,26 à 3 201 429,36 euros inclus : 12 492 euros
 
-De 21 à 30 millions F inclus ... 102.000 F
+De 3 201 429,36 à 4 573 470,52 euros inclus : 17 882 euros
 
-De 30 à 45 millions F inclus ... 150.000 F
+De 4 573 470,52 à 6 860 205,78 euros inclus : 26 297 euros
 
-De 45 à 60 millions F inclus ... 217.500 F
+De 6 860 205,78 à 9 146 941,03 euros inclus : 38 131 euros
 
-De 60 à 90 millions F inclus ... 310.500 F
+De 9 146 941,03 à 13 720 411,55 euros inclus : 54 435 euros
 
-De 90 à 120 millions F inclus ... 435.000 F
+De 13 720 411,55 à 18 293 882,07 euros inclus : 76 263 euros
 
-De 120 à 150 millions F inclus ... 585.000 F
+De 18 293 882,07 à 22 867 352,59 euros inclus : 102 560 euros
 
-De 150 à 180 millions F inclus ... 720.000 F
+De 22 867 352,59 à 27 440 823,10 euros inclus : 126 228 euros
 
-De 180 à 210 millions F inclus ... 855.000 F
+De 27 440 823,10 à 32 014 293,62 euros inclus : 149 896 euros
 
-De 210 à 240 millions F inclus ... 990.000 F
+De 32 014 293,62 à 36 587 764,14 euros inclus : 173 563 euros
 
-De 240 à 270 millions F inclus ... 1.125.000 F
+De 36 587 764,14 à 41 161 234,65 euros inclus : 197 231 euros
 
-De 270 à 300 millions F inclus ... 1.260.000 F
+De 41 161 234,65 à 45 734 705,17 euros inclus : 220 899 euros
 
-De 300 à 330 millions F inclus ... 1.395.000 F
+De 45 734 705,17 à 50 308 175,69 euros inclus : 244 566 euros
 
-De 330 à 360 millions F inclus ... 1.530.000 F
+De 50 308 175,69 à 54 881 646,21 euros inclus : 268 234 euros
 
-De 360 à 390 millions F inclus ... 1.665.000 F
+De 54 881 646,21 à 59 455 116,72 euros inclus : 291 902 euros
 
-De 390 à 420 millions F inclus ... 1.800.000 F
+De 59 455 116,72 à 64 028 587,24 euros inclus : 315 569 euros
 
-Au-dessus de 420 millions F ... 1.965.000 F.
+Au-dessus de 64 028 587,24 euros : 344 497 euros
 
-II. PUBLICITE TELEVISEE
+II. - Publicité télévisée
 
-Jusqu'à 3 millions F inclus ... 3.850 F [*francs*]
+Jusqu'à inclus 457 347,05 euros inclus : 991 euros
 
-De 3 à 6 millions F inclus ... 11.430 F
+De 457347,05 à 914 694,10 euros inclus : 2 942 euros
 
-De 6 à 15 millions F inclus ... 27.000 F
+De 914694,10 à 2 286 735,26 euros inclus : 6 953 euros
 
-De 15 à 30 millions F inclus ... 63.570 F
+De 2 286 735,26 à 4 573 470,52 euros inclus : 17 660 euros
 
-De 30 à 60 millions F inclus ... 157.710 F
+De 4 573 470,52 à 9 146 941,03 euros inclus : 40 617 euros
 
-De 60 à 120 millions F inclus ... 359.140 F
+De 9 146 941,03 à 18 293 882,07 euros inclus : 92 492 euros
 
-De 120 à 180 millions F inclus ... 707.140 F
+De 18 293 882,07 à 27 440 823,10 euros inclus : 182 116 euros
 
-De 180 à 240 millions F inclus ... 1.105.710 F
+De 27 440 823,10 à 36 587 764,14 euros inclus : 284 764 euros
 
-De 240 à 300 millions F inclus ... 1.427.140 F
+De 36 587 764,14 à 45 734 705,17 euros inclus : 367 544 euros
 
-De 300 à 360 millions F inclus ... 1.765.710 F
+De 45 734 705,17 à 54 881 646,21 euros inclus : 454 740 euros
 
-De 360 à 420 millions F inclus ... 2.117.140 F
+De 54 881 646,21 à 64 028 587,24 euros inclus : 545 246 euros
 
-De 420 à 480 millions F inclus ... 2.442.360 F
+De 64 028 587,24 à 73 175 528,27 euros inclus : 629 133 euros
 
-De 480 à 540 millions F inclus ... 2.785.710 F
+De 73 175 528,27 à 82 322 469,31 euros inclus : 717 431 euros
 
-De 540 à 600 millions F inclus ... 3.128.570 F
+De 82 322 469,31 à 91 469 410,34 euros inclus : 805 731 euros
 
-De 600 à 660 millions F inclus ... 3.471.430 F
+De 91 469 410,34 à 100 616 351,38 euros inclus : 894 030 euros
 
-De 660 à 720 millions F inclus ... 3.314.290 F
+De 100 616 351,38 à 109 763 292,41 euros inclus : 982 324 euros<RL    De 109 763 292,41 à 118 910 233,45 euros inclus :
 
-De 720 à 780 millions F inclus ... 4.157.140 F
+1 070 628 euros<RL    De 118 910 233,45 à 128 057 174,48 euros inclus :
 
-De 780 à 840 millions F inclus ... 4.500.000 F
+1 158 928 euros<RL    De 128057174,48 à 137204115,51 euros inclus :
 
-De 840 à 900 millions F inclus ... 4.842.850 F
+1 247 224 euros
 
-Au-dessus de 900 millions F ... 5.185.710 F.
+Au-dessus 137 204 115,51 euros : 1 335 527 euros
