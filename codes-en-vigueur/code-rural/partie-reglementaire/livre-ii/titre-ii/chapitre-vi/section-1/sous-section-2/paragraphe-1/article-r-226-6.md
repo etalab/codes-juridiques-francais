@@ -4,9 +4,9 @@ Il est institué une commission nationale qui statue sur les appels formés cont
 
 - une personnalité désignée par le ministre chargé de la chasse, président ;
 
-- le directeur de l'Office national de la chasse, membre de droit, ou son représentant ;
+- le directeur de l'Office national de la chasse et de la faune sauvage, membre de droit, ou son représentant ;
 
-- quatre représentants du conseil d'administration de l'Office national de la chasse, désignés par ce conseil ;
+- quatre représentants du conseil d'administration de l'Office national de la chasse et de la faune sauvage, désignés par ce conseil ;
 
 - le président de l'assemblée permanente des chambres d'agriculture, membre de droit, ou son représentant ;
 
