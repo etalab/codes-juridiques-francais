@@ -11,6 +11,5 @@
 - [Article 73](article-73.md)
 - [Article 73 C](article-73-c.md)
 - [Article 73 D](article-73-d.md)
-- [Article 73 A](article-73-a.md)
 - [Article 73 B](article-73-b.md)
 - [Régime simplifié](regime-simplifie)

@@ -12,7 +12,6 @@
 - [Titre XI : Zones franches.](titre-xi)
 - [Titre XI bis : Régimes particuliers à certains départements et régimes des échanges entre les différentes parties du territoire douanier](titre-xi-bis)
 - [Titre XI ter : Importations des territoires d'outre-mer de la République, d'Algérie, du Maroc et des Nouvelles-Hébrides et exportations à destination de ces territoires et pays](titre-xi-ter)
-- [Titre XII : Contentieux](titre-xii)
 - [Titre XIII : La commission de conciliation et d'expertise douanière.](titre-xiii)
 - [Titre XV : Le comité du contentieux fiscal, douanier et des changes.](titre-xv)
 - [Titre XIV : Contentieux des relations financières avec l'étranger](titre-xiv)

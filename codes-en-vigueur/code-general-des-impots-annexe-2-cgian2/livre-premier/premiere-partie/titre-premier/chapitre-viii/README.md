@@ -6,7 +6,6 @@
 - [III : Prélèvement d'un tiers sur les plus-values réalisées par des personnes physiques ou sociétés qui ne sont pas fiscalement domiciliées en France](iii)
 - [IV : Réévaluation des immobilisations non amortissables](iv)
 - [V : Réévaluation des immobilisations amortissables](v)
-- [VI : Déduction fiscale pour investissement](vi)
 - [VII : Souscription de parts de copropriété de navires](vii)
 - [VII bis : Sociétés de capital-risque](vii-bis)
 - [VII ter : Fonds communs de placement à risques](vii-ter)
