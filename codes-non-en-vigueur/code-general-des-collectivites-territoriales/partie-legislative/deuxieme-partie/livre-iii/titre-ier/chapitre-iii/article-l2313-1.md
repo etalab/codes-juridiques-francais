@@ -14,7 +14,7 @@ Dans les communes de 3 500 habitants et plus, les documents budgétaires, sans p
 
 4° Des tableaux de synthèse des comptes administratifs afférents au dernier exercice connu des organismes de coopération intercommunale dont est membre la commune ;
 
-5° Du bilan certifié conforme du dernier exercice connu des organismes dans lesquels la commune détient une part du capital ou au bénéfice desquels la commune a garanti un emprunt ou versé une subvention supérieure à 500 000 F ou représentant plus de 50 p. 100 du budget de l'organisme ;
+5° Du bilan certifié conforme du dernier exercice connu des organismes dans lesquels la commune détient une part du capital ou au bénéfice desquels la commune a garanti un emprunt ou versé une subvention supérieure à 75 000 euros ou représentant plus de 50 p. 100 du budget de l'organisme ;
 
 6° D'un tableau retraçant l'encours des emprunts garantis par la commune ainsi que l'échéancier de leur amortissement ;
 

@@ -8,7 +8,7 @@
 
 3° De procéder, dans les limites fixées par le conseil municipal, à la réalisation des emprunts destinés au financement des investissements prévus par le budget et de passer à cet effet les actes nécessaires ;
 
-4° De prendre toute décision concernant la préparation, la passation, l'exécution et le règlement des marchés de travaux, de fournitures et de services qui peuvent être passés sans formalités en raison de leur montant, lorsque les crédits sont inscrits au budget ;.
+4° De prendre toute décision concernant la préparation, la passation, l'exécution et le règlement des marchés de travaux, de fournitures et de services qui peuvent être passés sans formalités préalables en raison de leur montant, lorsque les crédits sont inscrits au budget ;.
 
 5° De décider de la conclusion et de la révision du louage de choses pour une durée n'excédant pas douze ans ;
 
@@ -20,7 +20,7 @@
 
 9° D'accepter les dons et legs qui ne sont grevés ni de conditions ni de charges ;
 
-10° De décider l'aliénation de gré à gré de biens mobiliers jusqu'à 30 000 F ;
+10° De décider l'aliénation de gré à gré de biens mobiliers jusqu'à 4 600 euros ;
 
 11° De fixer les rémunérations et de régler les frais et honoraires des avocats, notaires, avoués, huissiers de justice et experts ;
 
