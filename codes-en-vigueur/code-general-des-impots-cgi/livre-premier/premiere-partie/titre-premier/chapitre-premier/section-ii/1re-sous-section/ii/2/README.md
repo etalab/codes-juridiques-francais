@@ -30,7 +30,6 @@
 - [Article 39 quinquies H](article-39-quinquies-h.md)
 - [Article 39 D](article-39-d.md)
 - [Article 39 sexies](article-39-sexies.md)
-- [Article 39 octies](article-39-octies.md)
 - [Article 39 octies C](article-39-octies-c.md)
 - [Article 39 octies D](article-39-octies-d.md)
 - [Article 39 octies A](article-39-octies-a.md)
