@@ -1,6 +1,6 @@
 # Article L4-1
 
-Par dérogation aux dispositions de l'article L. 4, le président du tribunal administratif ou le magistrat qu'il désigne à cette fin et ayant atteint au moins le grade de conseiller de 1re classe statue en audience publique et après audition du commissaire du Gouvernement :
+Par dérogation aux dispositions de l'article L. 4, le président du tribunal administratif ou le magistrat qu'il désigne à cette fin et ayant atteint au moins le grade de premier conseiller statue en audience publique et après audition du commissaire du Gouvernement :
 
 1° Sur les litiges relatifs aux déclarations de travaux exemptés de permis de construire ;
 
