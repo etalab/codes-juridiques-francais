@@ -1,6 +1,7 @@
 # Section 2 : Cotisations.
 
 - [Article 1123](article-1123.md)
+- [Article 1124](article-1124.md)
 - [Article 1126](article-1126.md)
 - [Article 1127](article-1127.md)
 - [Article 1129](article-1129.md)
