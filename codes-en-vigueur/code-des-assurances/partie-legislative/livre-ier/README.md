@@ -6,6 +6,6 @@
 - [Titre IV : Les assurances de groupe](titre-iv)
 - [Titre V : Le contrat de capitalisation](titre-v)
 - [Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation](titre-vi)
-- [Titre VII : Le contrat d'assurance maritime](titre-vii)
+- [Titre VII : Le contrat d'assurance maritime et d'assurance fluviale et lacustre](titre-vii)
 - [Titre VIII : Loi applicable aux contrats d'assurance de dommages pour les risques situés sur le territoire d'un ou plusieurs Etats membres des communautés européennes](titre-viii-loi)
 - [Titre IX : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle](titre-ix)
