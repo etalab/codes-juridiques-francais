@@ -8,7 +8,7 @@ Le conseil d'administration de l'Office national des forêts comprend vingt-deux
 
 - deux représentants du ministère de l'agriculture, à savoir :
 
-le directeur général de l'administration et du financement et le chef du service des forêts, membres de droit ;
+le directeur des affaires financières et économiques et le directeur des forêts, membres de droit ;
 
 - trois représentants du ministre chargé des finances et du domaine, à savoir : le directeur du budget, le directeur de la comptabilité publique et le directeur général des impôts, membres de droit ;
 
