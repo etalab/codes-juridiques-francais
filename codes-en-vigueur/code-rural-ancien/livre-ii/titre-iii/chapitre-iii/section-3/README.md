@@ -1,7 +1,6 @@
 # Section 3 : Des importations et des exportations.
 
 - [Article 244](article-244.md)
-- [Article 245](article-245.md)
 - [Article 246](article-246.md)
 - [Article 247](article-247.md)
 - [Article 248](article-248.md)
