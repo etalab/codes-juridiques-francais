@@ -1,5 +1,5 @@
-# Chapitre Ier : Carte d'invalidité et droits y afférents
+# Chapitre Ier : Droits attachés à la qualité de pensionné.
 
-- [Section 1 : Réduction sur les transports ferroviaires.](section-1)
-- [Section 2 : Réduction sur les transports routiers.](section-2)
+- [Section 1 : Réduction sur les chemins de fer.](section-1)
+- [Section 2 : Cartes de priorité.](section-2)
 - [Section 3 : Droit de priorité.](section-3)

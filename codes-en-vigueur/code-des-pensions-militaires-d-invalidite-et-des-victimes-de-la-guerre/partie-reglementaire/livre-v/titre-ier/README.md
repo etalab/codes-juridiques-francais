@@ -1,5 +1,5 @@
-# Titre Ier : Offices des anciens combattants et victimes de guerre.
+# Titre Ier : Offices des anciens combattants et victimes de la guerre
 
-- [Chapitre Ier : Office national.](chapitre-ier)
-- [Chapitre II : Offices départementaux, offices d'outre-mer et comités locaux.](chapitre-ii)
-- [Chapitre III : Ecoles de rééducation professionnelle](chapitre-iii)
+- [Chapitre Ier : Office national](chapitre-ier)
+- [Chapitre II : Offices départementaux](chapitre-ii)
+- [Chapitre III : Etablissements attachés aux offices](chapitre-iii)

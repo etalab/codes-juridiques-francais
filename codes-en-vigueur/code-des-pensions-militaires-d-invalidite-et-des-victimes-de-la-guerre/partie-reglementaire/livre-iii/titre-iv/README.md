@@ -1,4 +1,4 @@
-# Titre IV : Pupilles de la Nation.
+# Titre IV : Pupilles de la nation.
 
 - [Chapitre II : Protection et aide de l'Etat.](chapitre-ii)
 - [Chapitre III : Dispositions particulières.](chapitre-iii)

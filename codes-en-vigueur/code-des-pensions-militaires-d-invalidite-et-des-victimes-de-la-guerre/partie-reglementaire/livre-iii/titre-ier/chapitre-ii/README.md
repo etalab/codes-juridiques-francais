@@ -1,4 +1,5 @@
-# Chapitre II : Retraite du combattant
+# Chapitre II : Retraite du combattant.
 
-- [Section 1 : Attribution et paiement de la retraite.](section-1)
-- [Section 2 : Citoyens français n'ayant pas servi dans l'armée française.](section-2)
+- [Section 1 : Payement de la retraite du combattant.](section-1)
+- [Section 2 : Algérie et pays d'outre-mer.](section-2)
+- [Section 3 : Dispositions diverses.](section-3)

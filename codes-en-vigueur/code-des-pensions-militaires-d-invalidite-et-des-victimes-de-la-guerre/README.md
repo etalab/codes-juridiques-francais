@@ -1,5 +1,5 @@
 # Code des pensions militaires d'invalidité et des victimes de la guerre
 
 - [Partie législative](partie-legislative)
-- [Partie réglementaire - Décrets simples](partie-reglementaire)
+- [Partie réglementaire - Arrêtés](partie-reglementaire)
 - [Annexes](annexes)

@@ -1,4 +1,5 @@
-# Chapitre Ier : Carte du combattant
+# Chapitre Ier : Carte du combattant.
 
-- [Section 1 : Algérie.](section-1)
-- [Section 2 : Pays d'outre-mer.](section-2)
+- [Section 1 : De la qualité de combattant](section-1)
+- [Section 2 : Procédure d'attribution de la carte.](section-2)
+- [Article A115](article-a115.md)
