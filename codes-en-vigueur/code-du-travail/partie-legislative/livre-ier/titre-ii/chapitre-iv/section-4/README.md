@@ -5,3 +5,4 @@
 - [Article L124-17](article-l124-17.md)
 - [Article L124-18](article-l124-18.md)
 - [Article L124-19](article-l124-19.md)
+- [Article L124-20](article-l124-20.md)
