@@ -6,3 +6,4 @@
 - [Article L222-5](article-l222-5.md)
 - [Article L222-6](article-l222-6.md)
 - [Article L222-7](article-l222-7.md)
+- [Article LO222-2](article-lo222-2.md)
