@@ -6,3 +6,4 @@
 - [Article L92](article-l92.md)
 - [Article L93](article-l93.md)
 - [Article L95](article-l95.md)
+- [Article L96](article-l96.md)
