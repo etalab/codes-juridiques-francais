@@ -1,3 +1,5 @@
-# Article D320.
+# Article D320
 
-Les dispositions de l'article 29 du Code pénal [* article abrogé *] ne font pas obstacle à ce que les condamnés en état d'interdiction légale puissent, dans les conditions et limites fixées au présent titre, disposer eux-mêmes des fonds figurant à leur compte nominatif et en recevoir directement le solde à leur sortie.
+Toutes les sommes qui échoient aux détenus sont considérées comme ayant un caractère alimentaire, dans la mesure où elles n'excèdent pas chaque mois 200 Euros. Cette somme est doublée à l'occasion des fêtes de fin d'année.
+
+Elles sont dès lors entièrement versées à la part disponible jusqu'à concurrence de cette provision alimentaire et, pour le surplus, elles sont soumises à répartition dans les proportions ci-après déterminées, sous réserve des dispositions particulières concernant les rentes, les pensions et les indemnités.
