@@ -1,4 +1,5 @@
 # Chapitre IV : SALAIRE
 
-- [SECTION 1 : RETENUES SUR LE SALAIRE.](section-1)
-- [SECTION 2 : ECONOMAT](section-2)
+- [Section 1 : Salaire.](section-1)
+- [Section 2 : Retenues sur le salaire.](section-2)
+- [Section 3 : Economat.](section-3)

@@ -7,3 +7,4 @@
 - [Titre VII : Dispositions relatives aux agents de l'Etat et aux agents des collectivités locales.](titre-vii)
 - [Titre VIII : PROTECTION SOCIALE DES STAGIAIRES DE LA FORMATION PROFESSIONNELLE .](titre-viii)
 - [Article L900-2](article-l900-2.md)
+- [Article L900-4](article-l900-4.md)
