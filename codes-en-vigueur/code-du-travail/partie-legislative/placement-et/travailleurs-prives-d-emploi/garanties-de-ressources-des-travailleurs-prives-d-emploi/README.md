@@ -1,6 +1,0 @@
-# GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI .
-
-- [DISPOSITIONS GENERALES](dispositions-generales)
-- [Article L351-19](article-l351-19.md)
-- [Article L351-20](article-l351-20.md)
-- [CREATIONS D'ENTREPRISES PAR LES SALARIES PRIVES D'EMPLOI.](creations-d-entreprises-par)
