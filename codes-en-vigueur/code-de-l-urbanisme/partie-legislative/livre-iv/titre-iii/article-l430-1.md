@@ -16,4 +16,6 @@ f) aux immeubles ou parties d'immeubles inscrits sur l'inventaire supplémentair
 
 g) dans les zones de protection du patrimoine architectural et urbain créées en application de l'article 70 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat.
 
-Toutefois, les immeubles classés en application de la loi du 31 décembre 1913, ainsi que les sites classés en application de la loi du 2 mai 1930, demeurent régis par les dispositions particulières de ces lois.
+Toutefois, les immeubles classés en application de la loi du 31 décembre 1913, ainsi que les sites classés en application de la loi du 2 mai 1930, demeurent régis par les dispositions particulières de ces lois ;
+
+h) Dans les communes qui ne sont pas dotées d'un plan local d'urbanisme ou d'un plan d'occupation des sols approuvé, dans des périmètres délimités par délibération du conseil municipal.
