@@ -2,5 +2,3 @@
 
 - [Chapitre 1er : Gestion des risques et fonds.](chapitre-1er)
 - [Chapitre 2 : Dotations - Budgets - Etats prévisionnels](chapitre-2)
-- [Chapitre 3 : Gestion financière](chapitre-3)
-- [Chapitre 4 : Comptabilité.](chapitre-4)
