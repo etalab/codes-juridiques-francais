@@ -6,10 +6,12 @@ a. 120 F pour la carte d'identité professionnelle des voyageurs ou représentan
 
 b. (Abrogé);
 
-c. 150 F (2) pour toutes autres cartes d'identité.
+c. ((160 F)) (M) pour toutes autres cartes d'identité.
 
 Le droit de timbre se substitue, le cas échéant, aux diverses taxes auxquelles donnait ouverture, en vertu de la loi précitée, la carte visée au a.
 
 (1) Annexe III, art. 313 AS.
 
 (2) Tarif applicable à compter du 15 janvier 1992.
+
+(M) Modification. Ces dispositions s'appliquent à compter du 15 janvier 1998.

@@ -1,6 +1,6 @@
 # Article 810
 
-I. L'enregistrement des apports donne lieu au paiement d'un droit fixe de 500 F (1).
+I. L'enregistrement des apports donne lieu au paiement d'un droit fixe de ((1 500 F)) (M).
 
 II. (Abrogé).
 
@@ -14,7 +14,7 @@ En cas de non-respect de l'engagement de conservation des titres, la différence
 
 Toutefois, la reprise n'est pas effectuée en cas de donation, si le donataire prend, dans l'acte, et respecte l'engagement de conserver les titres jusqu'au terme de la cinquième année suivant l'apport ou le changement du régime fiscal.
 
-((La reprise n'est pas davantage effectuée en cas de cession, si le cessionnaire prend, dans l'acte, et respecte l'engagement de conserver les titres jusqu'au terme de la cinquième année suivant le changement de régime fiscal lorsque ce dernier intervient entre le 1er janvier 1997 et le 31 décembre 1998)) (M).
+La reprise n'est pas davantage effectuée en cas de cession, si le cessionnaire prend, dans l'acte, et respecte l'engagement de conserver les titres jusqu'au terme de la cinquième année suivant le changement de régime fiscal lorsque ce dernier intervient entre le 1er janvier 1997 et le 31 décembre 1998.
 
 Les biens qui ont bénéficié de la réduction du taux à 1 p. cent en 1991 ou ont supporté le droit fixe prévu au troisième alinéa sont soumis au droit de mutation à titre onéreux s'ils sont attribués, lors du partage social, à un associé autre que l'apporteur et au régime prévu au 3° du I de l'article 809 s'ils sont apportés à une autre société passible de l'impôt sur les sociétés.
 
@@ -26,6 +26,4 @@ IV. Le droit fixe mentionné au I se substitue aux droits proportionnels visés 
 
 V. (Abrogé).
 
-(1) A compter du 15 janvier 1992.
-
-(M) Modification de la loi 96-1182.
+(M) Modification.

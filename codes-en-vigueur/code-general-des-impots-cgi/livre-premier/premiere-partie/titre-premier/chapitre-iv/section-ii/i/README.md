@@ -1,6 +1,7 @@
 # I : Bénéfices et revenus imposables
 
 - [1° : Financement en capital d'oeuvres cinématographiques ou audiovisuelles](1)
+- [2° : Souscription de parts de copropriété de navires de commerce](2)
 - [Article 236](article-236.md)
 - [Article 236 bis](article-236-bis.md)
 - [Article 236 ter](article-236-ter.md)
@@ -19,7 +20,6 @@
 - [Article 238 bis B](article-238-bis-b.md)
 - [Article 238 bis G](article-238-bis-g.md)
 - [Article 238 bis GA](article-238-bis-ga.md)
-- [Article 238 bis HA](article-238-bis-ha.md)
 - [Article 238 bis HC](article-238-bis-hc.md)
 - [Article 238 bis HN](article-238-bis-hn.md)
 - [Article 238 A](article-238-a.md)

@@ -1,7 +1,7 @@
 # II : Impôt sur les spectacles, jeux et divertissements
 
+- [1° : Champ d'application.](1)
 - [2° : Tarif](2)
-- [3° : Appareils automatiques - Obligations](3)
 - [4° : Exonérations](4)
 - [5° : Demi-tarif](5)
 - [6° : Assiette et liquidation](6)

@@ -1,6 +1,6 @@
 # Article 828
 
-I. Sont soumis à un droit fixe d'enregistrement ou à une taxe fixe de publicité foncière de 1.220 F :
+I. Sont soumis à un droit fixe d'enregistrement ou à une taxe fixe de publicité foncière de 1 500 F :
 
 1° (Abrogé).
 
@@ -12,4 +12,4 @@ Toutefois, pour les sociétés assujetties à la taxe sur la valeur ajoutée, en
 
 II. (Abrogé).
 
-(1) Article abrogé par la loi n°85-729 du 18 juillet 1985.
+(1) Article abrogé par la loi n° 85-729 du 18 juillet 1985.
