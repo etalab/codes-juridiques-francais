@@ -2,7 +2,7 @@
 
 I. La déclaration dont la production est prévue aux articles 53 A et 302 septies A bis du code général des impôts et ses annexes bis et ter doivent mentionner :
 
-a. La récapitulation des éléments d'imposition ;
+a. ((La récapitulation des éléments concourant à la détermination du résultat, ainsi que le montant des recettes nettes soumises aux contributions mentionnées aux articles 234 bis et 234 nonies du code général des impôts)) (M) ;
 
 b. Le nom et l'adresse du ou des comptables ou experts chargés de tenir la comptabilité ou d'en contrôler les résultats généraux en précisant si ces techniciens font partie ou non du personnel salarié de l'entreprise ;
 
@@ -10,7 +10,7 @@ c. Eventuellement le nom et l'adresse du centre de gestion agréé auquel le con
 
 d. Les renseignements nécessaires à l'établissement et au contrôle de l'impôt.
 
-I bis. (Dispositions devenues sans objet) (M).
+I bis. (Dispositions devenues sans objet).
 
 II. Les contribuables visés à l'article 53 A du code général des impôts sont tenus de joindre à la déclaration et aux annexes visées au I, le bilan, le compte de résultat, le tableau des immobilisations, le tableau des amortissements, le tableau des provisions et l'état des échéances des créances et des dettes. Ils doivent également joindre, le cas échéant, la liste des filiales et participations ainsi qu'une information détaillée ayant trait aux points suivants :
 
@@ -32,4 +32,4 @@ IV. Les déclarations et les documents qui y sont joints doivent être remis en 
 
 Il en est délivré récépissé sur demande du contribuable.
 
-(M) Modification de la loi.
+(M) Modification.
