@@ -1,4 +1,4 @@
 # Code de la sécurité sociale
 
-- [Partie réglementaire - Décrets simples](partie-reglementaire)
+- [Partie réglementaire - Arrêtés](partie-reglementaire)
 - [Annexes](annexes)
