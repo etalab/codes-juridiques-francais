@@ -7,3 +7,4 @@
 - [Article D245](article-d245.md)
 - [Article D246](article-d246.md)
 - [Article D247](article-d247.md)
+- [Article D248](article-d248.md)
