@@ -10,7 +10,9 @@ A compter du 1er janvier 2003, les communautés urbaines perçoivent une dotatio
 
 Les communautés de communes ne faisant pas application des dispositions de l'article 1609 nonies C du code général des impôts ne peuvent percevoir, à compter de la troisième année d'attribution de la dotation dans la même catégorie, une attribution par habitant supérieure à 120 % de la dotation par habitant perçue l'année précédente.
 
-Les disponibilités dégagées par la mise en oeuvre des dispositions de l'alinéa précédent sont réparties à l'ensemble des établissements de la catégorie visée à ce même alinéa, selon les dispositions de l'article L. 5211-30 sans que la dotation de base et la dotation de péréquation ne soient pondérées par le coefficient d'intégration fiscale.
+Toutefois, les dispositions de l'alinéa précédent ne s'appliquent pas aux communautés de communes créées depuis le 1er janvier 1992 tant que leur attribution par habitant reste inférieure à 120 % de l'attribution par habitant perçue en application des dispositions du premier et du deuxième alinéa de l'article L. 5211-32.
+
+Les disponibilités dégagées par la mise en oeuvre des dispositions du cinquième alinéa du présent article sont réparties à l'ensemble des établissements de la catégorie visée à ce même alinéa, selon les dispositions de l'article L. 5211-30 sans que la dotation de base et la dotation de péréquation ne soient pondérées par le coefficient d'intégration fiscale.
 
 Les communautés urbaines faisant application des dispositions de l'article 1609 nonies C du code général des impôts et qui sont issues de la transformation de communautés urbaines existantes l'année de promulgation de la loi n° 99-586 du 12 juillet 1999 relative au renforcement et à la simplification de la coopération intercommunale ne peuvent percevoir en 2000 une dotation par habitant supérieure à 1,5 fois la dotation par habitant qu'elles percevaient l'année précédant leur transformation.
 
