@@ -4,7 +4,7 @@ La déclaration mentionnée à l'article 87 du code général des impôts doit c
 
 1° Concernant le déclarant :
 
-a) ((Les noms et prénoms ou raison sociale, adresse, numéro SIRET et code APE (Activité principale exercée).)) (M) Les entreprises à établissements multiples indiquent l'établissement qui a déposé la déclaration de résultats ;
+a) Les noms et prénoms ou raison sociale, adresse, numéro SIRET et code APE (Activité principale exercée). Les entreprises à établissements multiples indiquent l'établissement qui a déposé la déclaration de résultats ;
 
 b) L'effectif au dernier jour ouvrable de l'année précédente ;
 
@@ -12,11 +12,11 @@ c) Le montant de la taxe sur les salaires ;
 
 2° Concernant chaque salarié rétribué l'année précédente :
 
-a) Son identification : nom patronymique, le cas échéant nom de l'époux, prénoms, sexe, date et lieu de naissance ;
+a) Son identification : nom patronymique, le cas échéant nom de l'époux, prénoms, sexe, date et lieu de naissance, numéro d'inscription au répertoire national d'identification des personnes physiques pour les seules déclarations des personnes ou organismes mentionnés au I de l'article R.* 81 A-1 du livre des procédures fiscales ;
 
 b) L'adresse de son domicile au 31 décembre de l'année du revenu ;
 
-c) La nature, la période et les conditions d'exercice de l'emploi ((ainsi que le code emploi PCS (nomenclature des Professions et catégories socioprofessionnelles) ;)) (M)
+c) La nature, la période et les conditions d'exercice de l'emploi ainsi que le code emploi PCS (nomenclature des Professions et catégories socioprofessionnelles) ;
 
 d) Le montant des sommes payées pendant l'année en distinguant ;
 
@@ -43,5 +43,3 @@ g) Lorsque l'établissement est assujetti à la taxe sur les salaires :
 - les renseignements utiles à la liquidation de la taxe lorsque le salarié a été payé par plusieurs établissements dépendant d'une même entreprise ;
 
 3° Le total pour l'ensemble des salariés de l'établissement et de l'entreprise des sommes mentionnées au 2° ci-dessus.
-
-(M) Modification.
