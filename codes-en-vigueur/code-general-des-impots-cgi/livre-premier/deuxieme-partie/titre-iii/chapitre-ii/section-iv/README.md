@@ -8,3 +8,4 @@
 - [E : Produits des exploitations forestières.](e)
 - [H : Huiles.](h)
 - [J : Farines.](j)
+- [K : Céréales.](k)
