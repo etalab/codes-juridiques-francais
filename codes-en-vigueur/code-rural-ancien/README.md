@@ -8,6 +8,7 @@
 - [Livre V bis : De l'exploitation agricole dans les rapports entre époux.](livre-v-bis)
 - [Livre VII : Dispositions sociales](livre-vii)
 - [Livre VIII : Formation professionnelle et recherche](livre-viii)
+- [Article 40-3](article-40-3.md)
 - [Article 162](article-162.md)
 - [Article 237](article-237.md)
 - [Article 375](article-375.md)
