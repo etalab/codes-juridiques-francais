@@ -1,5 +1,6 @@
 # LES COMITES D'ENTREPRISE
 
+- [BILAN SOCIAL .](bilan-social)
 - [CHAMP D'APPLICATION .](champ-d-application)
 - [CONDITIONS DE LICENCIEMENT DES REPRESENTANTS DU PERSONNEL .](conditions-de-licenciement-des-representants-du-personnel)
 - [FONCTIONNEMENT .](fonctionnement)
