@@ -8,3 +8,4 @@
 - [Section V bis : Rachat d'une entreprise par ses salariés](section-v-bis)
 - [Section VI : Report en arrière des déficits](section-vi)
 - [Section VII : Bénéfice imposable des caisses de crédit mutuel agricole et rural](section-vii)
+- [Section VIII : Régime des groupes de sociétés](section-viii)
