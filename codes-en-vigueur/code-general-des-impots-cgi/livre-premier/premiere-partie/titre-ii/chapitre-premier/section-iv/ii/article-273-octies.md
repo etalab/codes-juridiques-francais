@@ -14,4 +14,4 @@ a) Qui sont effectuées en vertu d'un contrat de commission à l'achat ou à la 
 
 b) Ou qui aboutissent à la livraison de produits imposables par des personnes qui ne sont pas redevables de la taxe, à l'exception des opérations portant sur les objets d'occasion et les animaux vivants de boucherie et de charcuterie ;
 
-c) Ou qui sont réalisées par des personnes établies en France qui s'entremettent dans la livraison de biens ou l'exécution des services par des redevables qui n'ont pas établi dans la Communauté économique européenne le siège de leur activité, un établissement stable, leur domicile ou leur résidence habituelle.
+c) Ou qui sont réalisées par des personnes établies en France qui s'entremettent dans la livraison de biens ou l'exécution des services par des redevables qui n'ont pas établi dans la Communauté européenne le siège de leur activité, un établissement stable, leur domicile ou leur résidence habituelle.

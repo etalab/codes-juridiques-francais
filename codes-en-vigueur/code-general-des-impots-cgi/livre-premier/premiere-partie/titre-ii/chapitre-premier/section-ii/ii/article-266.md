@@ -8,7 +8,7 @@ b. Pour les opérations ci-après, par le montant total de la transaction :
 
 Opérations réalisées par un intermédiaire mentionné au V de l'article 256 et au III de l'article 256 bis (2) ;
 
-Opérations réalisées par les personnes établies en France qui s'entremettent dans la livraison de biens ou l'exécution de services par des redevables qui n'ont pas établi dans la Communauté économique européenne le siège de leur activité, un établissement stable, leur domicile ou leur résidence habituelle (2) ;
+Opérations réalisées par les personnes établies en France qui s'entremettent dans la livraison de biens ou l'exécution de services par des redevables qui n'ont pas établi dans la Communauté européenne le siège de leur activité, un établissement stable, leur domicile ou leur résidence habituelle (2) ;
 
 b bis) Pour la livraison ou l'acquisition intracommunautaire d'un travail à façon, par toutes les sommes, valeurs, biens ou services qui constituent la contrepartie du travail fourni et des matériaux apportés par le façonnier (2) ;
 
@@ -26,9 +26,9 @@ e. Pour les opérations d'entremise effectuées par les agences de voyages et le
 
 f. Pour les travaux immobiliers, par le montant des marchés, mémoires ou factures ;
 
-Des décrets peuvent fixer des bases minimales ou forfaitaires d'imposition pour les achats imposables.
+g. (2);
 
-g. Par la différence entre le prix de vente et le prix d'achat pour les ventes de biens acquis auprès d'un particulier ou d'un assujetti n'ayant pas eu droit à déduction lors de leur achat, importation,  acquisition intracommunautaire, ou livraison à soi-même, autres que celles portant sur les biens visés au 13° de l'article 257. Cette disposition n'est pas applicable aux biens dont l'importation est exonérée en application du 9° du II de l'article 291 (2);
+Des décrets peuvent fixer des bases minimales ou forfaitaires d'imposition pour les achats imposables.
 
 h. Pour les opérations d'entremise effectuées par les concessionnaires d'ouvrages de circulation routière, par la différence entre le montant total des péages et la fraction de ceux-ci affectée au financement des travaux de construction et des grosses réparations des ouvrages concédés et au paiement des redevances proportionnelles versées à l'autorité concédante.
 
@@ -65,13 +65,3 @@ Ces dispositions s'appliquent aux offices publics d'aménagement et de construct
 4° (Abrogé).
 
 5° Lorsqu'un bail à construction a fait l'objet de l'option prévue à l'article 260-5°, il est fait abstraction, pour la détermination de la base d'imposition, de la valeur du droit de reprise des constructions lorsque celles-ci doivent devenir la propriété du bailleur en fin de bail.
-
-(1) Voir Annexe III, art. 76-1.
-
-(2) Dispositions en vigueur le 1er janvier 1993.
-
-(3) Annexe III, art. 76-3. Pour la définition des oeuvres d'art originales, voir même Annexe, art. 71.
-
-(4) Ces dispositions s'appliquent à compter du 1er octobre 1991, loi 91-716 art. 3 II.
-
-(5) Annexe II, art. 248.

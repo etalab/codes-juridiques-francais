@@ -6,7 +6,7 @@ a) A la recette des impôts compétente pour la perception des taxes sur le chif
 
 b) A la recette des impôts dont relève le domicile de l'acheteur, et dans les trente jours, en cas d'achat direct par un particulier ;
 
-c) A la recette des impôts dont relève le domicile du vendeur en cas de vente dans un autre Etat membre de la Communauté économique européenne ;
+c) A la recette des impôts dont relève le domicile du vendeur en cas de vente dans un autre Etat membre de la Communauté européenne ;
 
 d) A la recette des douanes s'il s'agit d'une exportation.
 

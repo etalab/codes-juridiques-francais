@@ -20,7 +20,7 @@ Les éléments d'actif désignés à l'alinéa précédent s'entendent uniquemen
 
 50 % pour la généralité des publications et 70 % pour les quotidiens, du bénéfice des exercices 1978 et 1979.
 
-Les éléments d'actif [*définition*] désignés à l'alinéa précédent s'entendent uniquement des matériels, terrains, constructions et prises de participations dans des entreprises d'imprimerie, dans la mesure où ils sont strictement nécessaires à l'exploitation du journal.
+Les éléments d'actif désignés à l'alinéa précédent s'entendent uniquement des matériels, terrains, constructions et prises de participations dans des entreprises d'imprimerie, dans la mesure où ils sont strictement nécessaires à l'exploitation du journal.
 
 L'exclusion des terrains et participations prévue à la dernière phrase du premier alinéa du 1 bis A bis est applicable pour l'utilisation de la provision constituée en vertu du premier alinéa.
 
@@ -46,12 +46,14 @@ La limite des deux tiers prévue aux deux alinéas précédents ne s'applique ni
 
 Les réclamations et les recours contentieux relatifs aux décisions d'inscription sur la liste sont instruits par le département de l'intérieur.
 
-1 bis C bis. Les entreprises de presse ne bénéficient pas du régime prévu aux 1 bis A et 1 bis A bis pour la partie des publications qu'elles impriment hors d'un état membre de la Communauté économique européenne.
+1 bis C bis. Les entreprises de presse ne bénéficient pas du régime prévu aux 1 bis A et 1 bis A bis pour la partie des publications qu'elles impriment hors d'un état membre de la ((Communauté européenne)) (M).
 
 1 ter. Les éléments d'actif acquis au moyen des bénéfices ou des provisions mentionnés au présent article sont amortis pour un montant égal à la fraction du prix d'achat ou de revient qui a été prélevée sur lesdits bénéfices ou provisions.
 
-Sans préjudice de l'application des dispositions de l'article 39-1-5°, dixième alinéa, les provisions non utilisées conformément à leur objet avant la fin de la cinquième année suivant celle de leur constitution sont rapportées aux bénéfices soumis à l'impôt au titre de ladite année.
+Sans préjudice de l'application des dispositions du dixième alinéa du 5° du 1 de l'article 39, les provisions non utilisées conformément à leur objet avant la fin de la cinquième année suivant celle de leur constitution sont rapportées aux bénéfices soumis à l'impôt au titre de ladite année.
 
 2. Les entreprises de presse attributaires de biens de presse, bénéficiant d'un des contrats prévus à l'article 9 de la loi n° 54-782 du 2 août 1954 ou remises en possession de leurs biens en vertu d'une dation en payement des indemnités dues à raison du transfert, qui emploient des journalistes ou salariés non journalistes ayant perdu leur emploi à la suite de la suspension d'entreprises de presse prononcée dans le cadre d'application de l'ordonnance du 30 septembre 1944, et qui ne se trouvent pas dans l'un des cas prévus à l'article 20-1° et 2° de la loi du 2 août 1954 précitée, sont autorisées à déduire de leur bénéfice net, pour l'établissement de l'impôt, les provisions constituées par elles en vue du paiement des indemnités calculées en tenant compte de l'ancienneté acquise par ces journalistes et salariés au service de l'ancienne entreprise, qu'elles doivent verser en cas de licenciement de ces derniers.
 
 (1) Annexe IV, art. 4 octies.
+
+(M) Modification.

@@ -1,8 +1,8 @@
 # Article 262
 
-I. Sont exonérées de la taxe sur la valeur ajoutée [*TVA*] les exportations de biens meubles corporels ainsi que les prestations de services qui leur sont directement liées (1). Ne sont pas considérées comme des exportations les livraisons de biens expédiés ou transportés à destination du territoire d'un autre Etat membre de la Communauté économique européenne entrant dans le champ d'application de la directive (CEE) n° 77-388 modifiée du 17 mai 1977 du Conseil des communautés européennes.
+I. Sont exonérées de la taxe sur la valeur ajoutée les exportations de biens meubles corporels ainsi que les prestations de services qui leur sont directement liées (1). Ne sont pas considérées comme des exportations les livraisons de biens expédiés ou transportés à destination du territoire d'un autre Etat membre de la Communauté européenne entrant dans le champ d'application de la directive n° 77-388 modifiée du 17 mai 1977 du Conseil des communautés européennes.
 
-Sont assimilées à des exportations de biens les livraisons de biens expédiés ou transportés hors du territoire des Etats membres de la Communauté économique européenne par l'acheteur qui n'est pas établi en France ou pour son compte, à l'exclusion :
+Sont assimilées à des exportations de biens les livraisons de biens expédiés ou transportés hors du territoire des Etats membres de la Communauté européenne par l'acheteur qui n'est pas établi en France ou pour son compte, à l'exclusion :
 
 a. Des biens d'équipement et d'avitaillement des bateaux de plaisance, des avions de tourisme ou de tous autres moyens de transport à usage privé ;
 
@@ -10,7 +10,7 @@ b. Des biens expédiés ou transportés par des personnes résidant dans un pays
 
 II. Sont également exonérés de la taxe sur la valeur ajoutée :
 
-1° Les prestations de services consistant en travaux portant sur des biens meubles acquis ou importés en vue de faire l'objet de ces travaux et expédiés ou transportés en dehors du territoire des Etats membres de la Communauté économique européenne par le prestataire de services ou par le preneur établi ((hors de France)) (1') ou pour leur compte ;
+1° Les prestations de services consistant en travaux portant sur des biens meubles acquis ou importés en vue de faire l'objet de ces travaux et expédiés ou transportés en dehors du territoire des Etats membres de la Communauté économique européenne par le prestataire de services ou par le preneur établi hors de France (1') ou pour leur compte ;
 
 2° Les opérations de livraison, de réparation, de transformation, d'entretien, d'affrètement et de location portant sur :
 
@@ -52,13 +52,13 @@ Les prestations de services afférents aux livraisons mentionnées au présent 1
 
 13° bis Les livraisons de biens placés sour les régimes énumérés aux a et b du 13°, ainsi que les prestations de services portant sur ces biens, avec maintien d'une des situations définies auxdits a et b (6) ;
 
-13° ter Les livraisons de biens placés sous le régime de l'admission temporaire en exonération totale des droits à l'importation ou sous l'une des procédures du transit externe ou transit communautaire interne avec maintien de ce régime ou de ces procédures, ainsi que les prestations de services afférentes à ces livraisons  (6) ;
+13° ter Les livraisons de biens placés sous le régime de l'admission temporaire en exonération totale des droits à l'importation ou sous l'une des procédures du transit externe ou transit communautaire interne avec maintien de ce régime ou de ces procédures, ainsi que les prestations de services afférentes à ces livraisons (6) ;
 
 14° Les prestations de services se rapportant à l'importation de biens et dont la valeur est comprise dans la base d'imposition de l'importation.
 
 (1) Annexe III, art. 73 G, 73 H et 74.
 
-(1') Modification de la loi 93-1353, dispositions applicables à compter du 1er janvier 1993.
+(1') Dispositions applicables à compter du 1er janvier 1993.
 
 (2) Annexe IV, art. 42 à 46.
 

@@ -2,7 +2,9 @@
 
 I  Le remboursement forfaitaire institué par l'article 298 quater bénéficie :
 
-a) Aux exploitants agricoles qui vendent des animaux de boucherie et de charcuterie définis par décret (1), soit à une personne redevable de la taxe sur la valeur ajoutée au titre de ces mêmes animaux, soit, en vue de l'abattage, à une personne redevable de la taxe sur la valeur ajoutée au titre de la vente des viandes provenant des animaux susvisés, soit à des personnes morales non assujetties qui réalisent des acquisitions intracommunautaires imposables dans l'Etat membre de la Communauté économique européenne où arrive le bien expédié ou transporté, soit à l'exportation ;    b) Aux exploitants agricoles qui vendent les mêmes animaux à des exploitants agricoles bénéficiaires du remboursement forfaitaire en vertu des dispositions du a.
+a) Aux exploitants agricoles qui vendent des animaux de boucherie et de charcuterie définis par décret (1), soit à une personne redevable de la taxe sur la valeur ajoutée au titre de ces mêmes animaux, soit, en vue de l'abattage, à une personne redevable de la taxe sur la valeur ajoutée au titre de la vente des viandes provenant des animaux susvisés, soit à des personnes morales non assujetties qui réalisent des acquisitions intracommunautaires imposables dans l'Etat membre de la Communauté européenne où arrive le bien expédié ou transporté, soit à l'exportation ;
+
+b) Aux exploitants agricoles qui vendent les mêmes animaux à des exploitants agricoles bénéficiaires du remboursement forfaitaire en vertu des dispositions du a.
 
 II  Le remboursement forfaitaire alloué au revendeur est liquidé sur la différence entre le prix de vente et le prix d'achat de l'animal vivant.
 
