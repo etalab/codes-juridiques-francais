@@ -1,3 +1,0 @@
-# STATUT JURIDIQUE DES SYNDICATS
-
-- [CAPACITE CIVILE .](capacite-civile)

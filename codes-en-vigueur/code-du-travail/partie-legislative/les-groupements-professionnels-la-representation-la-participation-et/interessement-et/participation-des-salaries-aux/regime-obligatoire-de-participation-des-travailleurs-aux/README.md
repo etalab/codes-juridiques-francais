@@ -2,4 +2,3 @@
 
 - [Article L442-5](article-l442-5.md)
 - [Article L442-7](article-l442-7.md)
-- [Article L442-11](article-l442-11.md)

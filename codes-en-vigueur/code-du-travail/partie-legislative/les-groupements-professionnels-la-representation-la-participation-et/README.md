@@ -2,5 +2,4 @@
 
 - [EDUCATION OUVRIERE ET FORMATION SYNDICALE](education-ouvriere-et)
 - [INTERESSEMENT ET PARTICIPATION](interessement-et)
-- [LES COMITES D'ENTREPRISE](les-comites-d-entreprise)
 - [LES SYNDICATS PROFESSIONNELS](les-syndicats-professionnels)

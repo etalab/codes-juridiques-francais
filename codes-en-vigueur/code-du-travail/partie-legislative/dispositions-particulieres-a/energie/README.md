@@ -1,3 +1,0 @@
-# ENERGIE - INDUSTRIES EXTRACTIVES
-
-- [DELEGUES MINEURS](delegues-mineurs)

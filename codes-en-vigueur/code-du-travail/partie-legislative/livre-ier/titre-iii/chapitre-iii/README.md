@@ -1,4 +1,0 @@
-# Chapitre III : CONVENTIONS SUSCEPTIBLES D'ETRE ETENDUES ET PROCEDURE D'EXTENSION .
-
-- [Article L133-6](article-l133-6.md)
-- [Article L133-18](article-l133-18.md)

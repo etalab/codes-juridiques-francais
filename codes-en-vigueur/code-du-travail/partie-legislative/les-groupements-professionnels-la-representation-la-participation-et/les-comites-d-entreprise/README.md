@@ -1,3 +1,0 @@
-# LES COMITES D'ENTREPRISE
-
-- [BILAN SOCIAL .](bilan-social)
