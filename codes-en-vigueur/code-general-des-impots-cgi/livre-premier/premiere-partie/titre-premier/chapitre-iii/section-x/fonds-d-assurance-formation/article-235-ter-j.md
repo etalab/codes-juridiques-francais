@@ -1,6 +1,6 @@
 # Article 235 ter J
 
-I  Les employeurs sont tenus de remettre à la recette des impôts compétente une déclaration en double exemplaire, indiquant notamment le montant de la participation à laquelle ils étaient tenus et les dépenses effectivement consenties en vertu de l'article L 950-2 du code du travail.
+I  Les employeurs sont tenus de remettre à la recette des impôts compétente une déclaration en double exemplaire, indiquant notamment le montant de la participation à laquelle ils étaient tenus et les dépenses effectivement consenties en vertu de l'article L 951-1 du code du travail.
 
 La déclaration des employeurs mentionnés à l'article 235 ter F doit être accompagnée soit du procès-verbal de la délibération du comité d'entreprise, soit du procès-verbal de carence.
 
