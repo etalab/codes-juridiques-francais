@@ -1,8 +1,8 @@
 # Article 291
 
-I  Les importations de biens sont soumises à la taxe sur la valeur ajoutée.
+I Les importations de biens sont soumises à la taxe sur la valeur ajoutée.
 
-II  Toutefois, sont exonérés :
+II Toutefois, sont exonérés :
 
 1° Les biens destinés à être placés sous l'un des régimes douaniers suivants : entrepôt, magasins et aires de dédouanement, perfectionnement actif, transit, ainsi que les prestations de services relatives à ces biens (1);
 
@@ -16,13 +16,15 @@ Cet arrêté détermine également les modalités d'application du présent para
 
 3° Les produits suivants :
 
-- organes, sang et lait humains;
+organes, sang et lait humains;
 
-- devises, billets de banque et monnaies qui sont des moyens de paiement légaux, à l'exception des billets et monnaies de collection;     - or à l'état de minerai;
+devises, billets de banque et monnaies qui sont des moyens de paiement légaux, à l'exception des billets et monnaies de collection;
 
-- or brut en masses ou lingots, grenailles, or natif, déchets et débris d'ouvrages;
+or à l'état de minerai;
 
-- déchets neufs d'industrie et matières de récupération;
+or brut en masses ou lingots, grenailles, or natif, déchets et débris d'ouvrages;
+
+déchets neufs d'industrie et matières de récupération;
 
 4° L'or, sous toutes ses formes, importé par les instituts d'émission;
 
@@ -32,9 +34,9 @@ Cet arrêté détermine également les modalités d'application du présent para
 
 7° Les prothèses dentaires importées par les dentistes ou prothésistes dentaires;
 
-8° Les oeuvres d'art originales, les timbres, objets de collection ou d'antiquité, lorsque l'importation est réalisée directement à destination, soit de négociants qui destinent ces oeuvres ou objets à la revente, soit d'établissements agréés par le ministre de la culture et de la communication; les conditions d'application de ces dispositions sont fixées par arrêté du ministre du budget (5);
+8° Les oeuvres d'art originales, les timbres, objets de collection ou d'antiquité, lorsque l'importation est réalisée directement à destination d'établissements agréés par le ministre de la culture et de la communication; les conditions d'application de ces dispositions sont fixées par arrêté du ministre du budget (5) (art. 5 VII, modification en vigueur le 1er octobre 1991);
 
-9° Les objets d'occasion, d'antiquité ou de collection, oeuvres d'art originales, pierres précieuses et perles visés au a du 3° du 1 de l'article 261 lorsqu'ils sont importés en vue d'une vente aux enchères publiques soumise au droit proportionnel d'enregistrement prévu à l'article 733.
+9° Les objets d'occasion, d'antiquité ou de collection, oeuvres d'art originales répondant aux conditions qui sont fixées par décret (6), pierres précieuses et perles, lorsqu'ils sont importés en vue d'une vente aux enchères publiques, par un assujetti à la taxe sur la valeur ajoutée redevable de la taxe au titre de cette vente ou exonéré en application du I de l'article 262 (art. 4 III, entrée en vigueur le 29 juillet 1991).
 
 III  Sont également exonérées de la taxe sur la valeur ajoutée :
 
@@ -50,6 +52,8 @@ III  Sont également exonérées de la taxe sur la valeur ajoutée :
 
 (3) Arrêté du 30 décembre 1983 (JO du 25 janvier 1984).
 
-(4)  Annexe IV, art. 42 à 46.
+(4) Annexe IV, art. 42 à 46.
 
-(5)  Annexe IV, art. 50 nonies et 50 decies.
+(5) Annexe IV, art. 50 decies.
+
+(6) Annexe III, art. 71 A.
