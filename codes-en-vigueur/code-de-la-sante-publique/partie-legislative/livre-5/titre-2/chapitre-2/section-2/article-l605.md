@@ -2,7 +2,9 @@
 
 Des décrets en Conseil d'Etat précisent les conditions d'application des articles L. 601 à L. 604 ci-dessus, et notamment :
 
-1° Les règles concernant la présentation et la dénomination des spécialités pharmaceutiques ;    2° Les justifications, y compris celles relatives à l'étiquetage des spécialités, qui doivent être fournies à l'appui des demandes d'autorisation de mise sur le marché et qui comprennent obligatoirement la vérification de l'existence des propriétés définies à l'article L. 601 ci-dessus par des experts possédant les qualifications techniques et professionnelles fixées par le même décret ;
+1° Les règles concernant la présentation et la dénomination des spécialités pharmaceutiques ;
+
+2° Les justifications, y compris celles relatives à l'étiquetage des spécialités, qui doivent être fournies à l'appui des demandes d'autorisation de mise sur le marché et qui comprennent obligatoirement la vérification de l'existence des propriétés définies à l'article L. 601 ci-dessus par des experts possédant les qualifications techniques et professionnelles fixées par le même décret ;
 
 3° Les conditions dans lesquelles interviennent les décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché ainsi que les règles de procédure applicables aux recours ouverts contre lesdites décisions ;
 
@@ -12,7 +14,7 @@ Des décrets en Conseil d'Etat précisent les conditions d'application des artic
 
 Les litiges concernant cette rémunération relevant des tribunaux judiciaires ;
 
-6° Les règles applicables à l'expérimentation des médicaments.
+6° Les règles applicables à l'expérimentation des médicaments en vue de leur autorisation de mise sur le marché ainsi qu'aux essais organisés après la délivrance de cette autorisation.
 
 7° Les restrictions qui peuvent être apportées dans l'intérêt de la santé publique à la délivrance de certains médicaments ;
 
