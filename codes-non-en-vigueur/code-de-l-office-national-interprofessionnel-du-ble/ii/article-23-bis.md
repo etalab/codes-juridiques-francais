@@ -1,6 +1,6 @@
 # Article 23 bis
 
-Lorsque les effets ou warrants avalisés par l'office national interprofessionnel des céréales dans la métropole auront dû être réglés, en tout ou en partie, par cet établissement, au lieu et place du débiteur auquel l'aval avait été accordé, ce débiteur devra verser à l'office national interprofessionnel des céréales des intérêts de retard calculés, à compter de l'échéance, à un taux supérieur de 2 % au taux de l'avance par lui obtenue en contrepartie desdits effets ou warrants ; soit, en ce qui concerne les coopératives, au taux de l'avance qui lui avait été consentie par la caisse de crédit agricole à l'ordre de laquelle ces effets ou warrants avaient été souscrits ou endossés ; soit, en ce qui concerne les négociants agréés, au taux de l'avance consentie par l'établissement financier auprès duquel les effets avaient été escomptés. Le taux des intérêts de retard dus dans ces conditions à l'office national interprofessionnel des céréales ne pourra, en aucun cas, être inférieur à 5 %.
+Lorsque l'Office national interprofessionnel des céréales aura été appelé à payer en tout ou partie aux lieu et place du débiteur auquel son aval avait été donné, ce débiteur devra verser à l'Office national interprofessionnel des céréales des intérêts de retard calculés, à compter de l'échéance, à un taux supérieur de 2 p. 100 à celui de l'avance ayant fait l'objet de l'aval.
 
 L'office national interprofessionnel du blé possédera, pour le recouvrement de sa créance en principal et intérêts, un privilège ainsi défini :
 
