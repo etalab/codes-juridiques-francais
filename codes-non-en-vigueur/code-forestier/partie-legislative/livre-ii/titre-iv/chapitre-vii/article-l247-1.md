@@ -4,7 +4,7 @@ En vue de constituer des unités de gestion forestière, il peut être créé de
 
 Elles regroupent des propriétaires de bois, forêts ou terrains à boiser ainsi que des terrains à vocation pastorale inclus à titre accessoire dans leur périmètre.
 
-Ces associations syndicales sont libres. Elles sont constituées et fonctionnent conformément à la loi du 21 juin 1865 sur les associations syndicales, sous réserve des dispositions suivantes.
+Ces associations syndicales sont libres. Elles sont constituées et fonctionnent conformément à l'ordonnance n° 2004-632 du 1er juillet 2004 relative aux associations syndicales de propriétaires, sous réserve des dispositions suivantes.
 
 Dès lors qu'elles remplissent les conditions prévues par l'article L. 222-1, ces associations syndicales élaborent pour la partie forestière de leur périmètre un plan simple de gestion qui est présenté à l'agrément du centre régional de la propriété forestière au nom des propriétaires.
 
