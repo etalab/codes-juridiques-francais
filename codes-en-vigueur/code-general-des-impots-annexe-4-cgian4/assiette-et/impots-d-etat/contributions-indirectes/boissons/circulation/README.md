@@ -1,6 +1,5 @@
 # CIRCULATION.
 
-- [Article 54-0 BT](article-54-0-bt.md)
 - [Article 54-0 E](article-54-0-e.md)
 - [Article 54 I](article-54-i.md)
 - [Article 54 C](article-54-c.md)

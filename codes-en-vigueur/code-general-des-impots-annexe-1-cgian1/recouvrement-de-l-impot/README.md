@@ -1,3 +1,0 @@
-# RECOUVREMENT DE L'IMPOT
-
-- [PROCEDURES](procedures)

@@ -1,3 +1,0 @@
-# REMISES ET TRANSACTIONS
-
-- [RECOUVREMENT DE L'IMPOT](recouvrement-de-l-impot)

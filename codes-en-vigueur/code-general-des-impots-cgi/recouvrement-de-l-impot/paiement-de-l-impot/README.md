@@ -1,6 +1,5 @@
 # PAIEMENT DE L'IMPOT
 
-- [CONTRIBUTIONS INDIRECTES (VOIR ANNEXE IV ART. 193)](contributions-indirectes-voir-annexe-iv-art)
 - [DISPOSITIONS COMMUNES.](dispositions-communes)
 - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (PAIEMENT PAR CHEQUE : ANNEXE IV ART. 199 A 204).](enregistrement-publicite-fonciere-et)
 - [IMPOTS DIRECTS ET TAXES ASSIMILEES.](impots-directs-et)

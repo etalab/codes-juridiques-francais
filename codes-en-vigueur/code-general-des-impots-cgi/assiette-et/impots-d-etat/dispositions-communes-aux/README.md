@@ -1,6 +1,5 @@
 # DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS ET AUX TAXES SUR LE CHIFFRE D'AFFAIRES
 
 - [Article 1378 quater](article-1378-quater.md)
-- [REGIME DU FORFAIT (BENEFICES INDUSTRIELS ET COMMERCIAUX *BIC*, TAXES SUR LE CHIFFRE D'AFFAIRES *TCA*).](regime-du-forfait-benefices-industriels-et)
 - [DETERMINATION DU PRIX DE REVIENT DES TERRAINS OU ENSEMBLES IMMOBILIERS.](determination-du-prix-de-revient-des-terrains-ou)
 - [RECEPISSE DE CONSIGNATION.](recepisse-de-consignation)

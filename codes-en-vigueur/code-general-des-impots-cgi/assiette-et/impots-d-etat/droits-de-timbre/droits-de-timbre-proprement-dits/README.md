@@ -21,7 +21,6 @@
 - [Article 925](article-925.md)
 - [Article 927](article-927.md)
 - [Article 928](article-928.md)
-- [Article 932](article-932.md)
 - [Article 935](article-935.md)
 - [Article 938](article-938.md)
 - [Article 944](article-944.md)

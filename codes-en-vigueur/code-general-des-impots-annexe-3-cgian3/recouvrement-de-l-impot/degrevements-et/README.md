@@ -1,4 +1,3 @@
 # DEGREVEMENTS ET RESTITUTIONS D'IMPOTS
 
-- [JURIDICTION CONTENTIEUSE.](juridiction-contentieuse)
 - [JURIDICTION GRACIEUSE.](juridiction-gracieuse)

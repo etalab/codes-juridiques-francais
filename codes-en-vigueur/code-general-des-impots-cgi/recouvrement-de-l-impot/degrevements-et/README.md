@@ -4,4 +4,3 @@
 - [Article 1965 A](article-1965-a.md)
 - [Article 1965 FA](article-1965-fa.md)
 - [JURIDICTION CONTENTIEUSE.](juridiction-contentieuse)
-- [JURIDICTION GRACIEUSE.](juridiction-gracieuse)
