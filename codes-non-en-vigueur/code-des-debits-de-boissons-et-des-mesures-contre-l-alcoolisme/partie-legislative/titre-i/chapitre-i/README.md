@@ -13,3 +13,4 @@
 - [Article L11](article-l11.md)
 - [Article L13](article-l13.md)
 - [Article L13-1](article-l13-1.md)
+- [Article L13-2](article-l13-2.md)

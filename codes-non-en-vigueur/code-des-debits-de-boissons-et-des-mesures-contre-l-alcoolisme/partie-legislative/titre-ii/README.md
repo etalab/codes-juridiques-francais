@@ -4,4 +4,7 @@
 - [Chapitre II : Ouvertures, mutations et transferts.](chapitre-ii)
 - [Chapitre III : Péremption des licences.](chapitre-iii)
 - [Chapitre IV : Débits temporaires.](chapitre-iv)
+- [Chapitre V : Zones protégées.](chapitre-v)
 - [Chapitre VI : Associations et cercles privés.](chapitre-vi)
+- [Chapitre VII : Grands ensembles d'habitation.](chapitre-vii)
+- [Chapitre VIII : Zones industrielles.](chapitre-viii)
