@@ -7,5 +7,6 @@
 - [Article L20](article-l20.md)
 - [Article L21](article-l21.md)
 - [Article L23](article-l23.md)
+- [Article L27](article-l27.md)
 - [Article L28](article-l28.md)
 - [Article L29](article-l29.md)
