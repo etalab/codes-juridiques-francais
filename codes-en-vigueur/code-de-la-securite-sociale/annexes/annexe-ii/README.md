@@ -67,6 +67,7 @@
 - [Article Annexe II : Tableau n° 61](article-annexe-ii-tableau-no-61.md)
 - [Article Annexe II : Tableau n° 64](article-annexe-ii-tableau-no-64.md)
 - [Article Annexe II : Tableau n° 67](article-annexe-ii-tableau-no-67.md)
+- [Article Annexe II : Tableau n° 68](article-annexe-ii-tableau-no-68.md)
 - [Article Annexe II : Tableau n° 71](article-annexe-ii-tableau-no-71.md)
 - [Article Annexe II : Tableau n° 72](article-annexe-ii-tableau-no-72.md)
 - [Article Annexe II : Tableau n° 75](article-annexe-ii-tableau-no-75.md)
