@@ -4,4 +4,4 @@ Pour l'élection des membres des chambres de commerce et d'industrie, chaque él
 
 Pour l'élection des délégués consulaires, chaque électeur ne dispose que d'une seule voix.
 
-Le droit de vote aux élections des membres des chambres de commerce et d'industrie et des délégués consulaires peut être exercé par procuration ou par correspondance dans des conditions fixées par décret en Conseil d'Etat. Chaque électeur ne peut disposer que d'une seule procuration.
+Le droit de vote aux élections des membres des chambres de commerce et d'industrie est exercé par correspondance ou par voie électronique. En cas d'utilisation par un même électeur au titre de la même qualité des deux modes de vote, seul le vote par voie électronique est considéré comme valide.
