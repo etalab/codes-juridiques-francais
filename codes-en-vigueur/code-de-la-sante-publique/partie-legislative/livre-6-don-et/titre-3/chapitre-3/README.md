@@ -7,6 +7,8 @@
 - [Article L674-5](article-l674-5.md)
 - [Article L674-6](article-l674-6.md)
 - [Article L674-7](article-l674-7.md)
+- [Article L674-9](article-l674-9.md)
+- [Article L674-10](article-l674-10.md)
 - [Article L675-1](article-l675-1.md)
 - [Article L675-2](article-l675-2.md)
 - [Article L675-3](article-l675-3.md)

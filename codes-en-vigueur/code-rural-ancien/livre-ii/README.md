@@ -12,3 +12,4 @@
 - [Titre IX : Des pénalités.](titre-ix)
 - [Titre X : De la protection des végétaux.](titre-x)
 - [Titre XI : Dispositions particulières à la collectivité territoriale de Mayotte.](titre-xi)
+- [Titre XII : Agence française de sécurité sanitaire des aliments](titre-xii)

@@ -7,6 +7,8 @@
 - [Article 511-6](article-511-6.md)
 - [Article 511-7](article-511-7.md)
 - [Article 511-8](article-511-8.md)
+- [Article 511-8-1](article-511-8-1.md)
+- [Article 511-8-2](article-511-8-2.md)
 - [Article 511-9](article-511-9.md)
 - [Article 511-10](article-511-10.md)
 - [Article 511-11](article-511-11.md)

@@ -8,3 +8,4 @@
 - [Chapitre 7 : Biberons à tube et tétines](chapitre-7)
 - [Chapitre 8 : Produits cosmétiques](chapitre-8)
 - [Chapitre 9 : Autres substances et objets](chapitre-9)
+- [Chapitre 10 : Matières premières à usage pharmaceutique](chapitre-10)
