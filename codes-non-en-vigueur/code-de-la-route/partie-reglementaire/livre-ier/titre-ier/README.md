@@ -1,7 +1,6 @@
 # TITRE Ier : DISPOSITIONS GÉNÉRALES RELATIVES À LA CIRCULATION ROUTIÈRE ET APPLICABLES À TOUS LES USAGERS DE LA ROUTE
 
 - [Paragraphe Ier : CONDUITE DES VÉHICULES ET DES ANIMAUX.](paragraphe-ier)
-- [Paragraphe 2 : VITESSE.](paragraphe-2)
 - [Paragraphe II : VITESSE.](paragraphe-ii)
 - [Paragraphe III : CROISEMENTS ET DÉPASSEMENTS.](paragraphe-iii)
 - [Paragraphe IV : INTERSECTIONS DE ROUTES - PRIORITÉ DE PASSAGE.](paragraphe-iv)
