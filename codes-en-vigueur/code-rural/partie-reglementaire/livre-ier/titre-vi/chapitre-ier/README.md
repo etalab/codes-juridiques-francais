@@ -7,5 +7,4 @@
 - [Section 5 : Bornage.](section-5)
 - [Section 6 : Conservation et surveillance.](section-6)
 - [Section 7 : Dispositions relatives à l'écoulement des eaux, aux plantations, à l'élagage et au curage des fossés.](section-7)
-- [Section 8 : Dispositions diverses.](section-8)
 - [Section 9 : Dispositions diverses.](section-9)
