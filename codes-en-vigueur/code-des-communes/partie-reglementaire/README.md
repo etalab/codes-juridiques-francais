@@ -6,4 +6,3 @@
 - [LIVRE 16 : Administration et services communaux](livre-16)
 - [ADMINISTRATION DE LA COMMUNE](administration-de-la-commune)
 - [Administration et services communaux](administration-et)
-- [Personnel communal](personnel-communal)
