@@ -1,6 +1,5 @@
 # Section 3 : Conseil d'Etat.
 
-- [Article L94](article-l94.md)
 - [Article L95](article-l95.md)
 - [Article L96](article-l96.md)
 - [Article L97](article-l97.md)
