@@ -7,3 +7,5 @@
 - [Article L130-5](article-l130-5.md)
 - [Article L130-6](article-l130-6.md)
 - [Article L130-7](article-l130-7.md)
+- [Article L130-8](article-l130-8.md)
+- [Article L130-9](article-l130-9.md)

@@ -17,4 +17,5 @@
 - [Article 131-33](article-131-33.md)
 - [Article 131-34](article-131-34.md)
 - [Article 131-35](article-131-35.md)
+- [Article 131-35-1](article-131-35-1.md)
 - [Article 131-36](article-131-36.md)
