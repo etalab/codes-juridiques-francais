@@ -8,3 +8,4 @@
 - [Article A36](article-a36.md)
 - [Article A37](article-a37.md)
 - [Article A38](article-a38.md)
+- [Article A39](article-a39.md)
