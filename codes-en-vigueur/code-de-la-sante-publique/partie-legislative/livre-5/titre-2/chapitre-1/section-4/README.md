@@ -1,5 +1,6 @@
 # Section 4 : Règles générales de la pharmacie d'officine
 
+- [Article L588-1](article-l588-1.md)
 - [Article L589](article-l589.md)
 - [Article L590](article-l590.md)
 - [Article L591](article-l591.md)
