@@ -1,0 +1,3 @@
+# REDEVANCE DEPARTEMENTALE DES MINES.
+
+- [Article 304](article-304.md)

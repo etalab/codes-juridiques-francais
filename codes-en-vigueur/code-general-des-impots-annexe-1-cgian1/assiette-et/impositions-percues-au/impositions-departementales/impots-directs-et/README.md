@@ -1,0 +1,3 @@
+# IMPOTS DIRECTS ET TAXES ASSIMILEES
+
+- [REDEVANCE DEPARTEMENTALE DES MINES.](redevance-departementale-des-mines)
