@@ -4,4 +4,3 @@
 - [2° : Publicité de l'impôt](2)
 - [Délivrance de documents aux contribuables.](delivrance-de-documents-aux)
 - [Article L103](article-l103.md)
-- [Publicité de l'impôt.](publicite-de-l-impot)

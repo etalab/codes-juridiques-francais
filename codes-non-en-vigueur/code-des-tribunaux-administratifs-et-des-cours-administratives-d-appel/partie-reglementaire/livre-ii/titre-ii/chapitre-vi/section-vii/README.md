@@ -1,6 +1,5 @@
 # SECTION VII : Les dépens.
 
-- [PARAGRAPHE I : Les dépens.](paragraphe-i)
 - [Article R217](article-r217.md)
 - [Article R218](article-r218.md)
 - [Article R219](article-r219.md)
