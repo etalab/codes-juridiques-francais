@@ -1,8 +1,8 @@
 # Article L730-5
 
-Le décret instituant le périmètre de protection interdit, à l'intérieur de celui-ci, l'extension, le déplacement ou la création de tout établissement dans lequel une personne physique ou morale pratique, à titre autre que de détail, soit des ventes portant sur les produits, soit sur des opérations accessoires à ces ventes, dont les listes sont fixées par arrêté interministériel comme il est prévu à l'article L. 730-4.
+Le décret instituant le périmètre de référence interdit, à l'intérieur de celui-ci, l'extension, le déplacement ou la création de tout établissement dans lequel une personne physique ou morale pratique, à titre autre que de détail, soit des ventes portant sur les produits, soit sur des opérations accessoires à ces ventes, dont les listes sont fixées par arrêté interministériel comme il est prévu à l'article L. 730-4.
 
-Cette interdiction ne s'applique pas aux producteurs et groupements de producteurs pour les produits qui proviennent d'exploitations sises à l'intérieur du périmètre de protection.
+Cette interdiction ne s'applique pas aux producteurs et groupements de producteurs pour les produits qui proviennent d'exploitations sises à l'intérieur du périmètre de référence.
 
 N'est pas considéré comme une création d'établissement le changement de titulaire du fonds de commerce.
 
