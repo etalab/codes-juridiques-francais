@@ -6,4 +6,4 @@ La commission délibère en nombre impair ; ses décisions sont prises à la maj
 
 Ses membres sont tenus au secret des délibérations.
 
-Le ministre chargé de la défense nationale désigne le secrétaire de la commission.
+Le ministre chargé des armées désigne le secrétaire de la commission.

@@ -2,7 +2,7 @@
 
 L'affectation individuelle de défense des magistrats du corps judiciaire et des personnels indispensables au fonctionnement des juridictions et qui sont désignés par des instructions du Premier ministre est décidée :
 
-- en ce qui concerne les personnels soumis aux obligations du service militaire, par le ministre chargé de la défense nationale sur demande du ministre responsable de l'emploi de défense auquel ces personnels doivent ^etre affectés ;
+- en ce qui concerne les personnels soumis aux obligations du service militaire, par le ministre chargé des armées sur demande du ministre responsable de l'emploi de défense auquel ces personnels doivent ^etre affectés ;
 
 - en ce qui concerne les personnels non soumis aux obligations du service militaire, par le ministre responsable de l'emploi de défense auquel ces personnels doivent ^etre affectés.
 

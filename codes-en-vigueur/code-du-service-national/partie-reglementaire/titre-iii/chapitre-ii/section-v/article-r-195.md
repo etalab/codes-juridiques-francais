@@ -8,4 +8,4 @@ D'une part :
 
 - les services territoriaux et les services administratifs communaux ainsi que les organismes rattachés.
 
-D'autre part, dans chacune des catégories d'activité énumérées aux tableaux I, II et III de l'annexe II du présent code, les entreprises et établissements dont la liste est arr^etée par le représentant du Gouvernement, qui reçoit à cet effet la délégation du Premier ministre.
+D'autre part, dans chacune des catégories d'activité énumérées aux tableaux I, II, III et IV de l'annexe II du présent code, les entreprises et établissements dont la liste est arr^etée par le représentant de l'Etat, qui reçoit à cet effet la délégation du Premier ministre.

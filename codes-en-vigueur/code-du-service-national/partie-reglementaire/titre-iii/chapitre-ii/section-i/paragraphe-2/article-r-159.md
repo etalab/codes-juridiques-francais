@@ -4,4 +4,4 @@ Les demandes d'affectation individuelle à un corps de défense sont établies p
 
 Les demandes d'affectation individuelle à l'un des organismes visés à l'article R. 151 sont établies, suivant le cas, par l'autorité administrative responsable ou par le chef d'entreprise ou d'établissement.
 
-Les demandes d'affectation individuelle de défense sont instruites à la diligence du service du recrutement. Ce dernier enregistre et notifie les décisions d'affectation individuelle.
+Les demandes d'affectation individuelle de défense sont instruites à la diligence de la direction du service national. Cette derniere enregistre et notifie les décisions d'affectation individuelle.

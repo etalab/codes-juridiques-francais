@@ -1,4 +1,4 @@
-# PARAGRAPHE 1 : Dispositions générales.
+# PARAGRAPHE 1 : Affectation.
 
 - [Article R*201-1](article-r-201-1.md)
 - [Article R*201-2](article-r-201-2.md)

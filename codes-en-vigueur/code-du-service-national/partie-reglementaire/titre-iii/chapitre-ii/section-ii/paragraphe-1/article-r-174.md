@@ -4,4 +4,4 @@ Dans les circonstances prévues aux articles 2 et 6 de l'ordonnance n° 59-147 d
 
 L'autorité compétente est le ministre responsable de l'organisme où sont opérés les licenciements. Le pouvoir de décision de ce ministre peut ^etre délégué au préfet de zone et sous-délégué au préfet du département, dans des conditions qui sont fixées par instruction du Premier ministre.
 
-La décision intervient dans le mois qui suit la demande. Les décisions sont enregistrées et notifiées à la diligence du service du recrutement.
+La décision intervient dans le mois qui suit la demande. Les décisions sont enregistrées et notifiées à la diligence de la direction du service national.
