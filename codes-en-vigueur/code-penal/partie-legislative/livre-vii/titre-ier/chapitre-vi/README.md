@@ -1,18 +1,4 @@
 # Chapitre VI : Adaptation du livre V.
 
-- [Article 716-1](article-716-1.md)
-- [Article 716-2](article-716-2.md)
-- [Article 716-3](article-716-3.md)
-- [Article 716-4](article-716-4.md)
 - [Article 716-5](article-716-5.md)
-- [Article 716-6](article-716-6.md)
-- [Article 716-7](article-716-7.md)
 - [Article 716-8](article-716-8.md)
-- [Article 716-9](article-716-9.md)
-- [Article 716-10](article-716-10.md)
-- [Article 716-11](article-716-11.md)
-- [Article 716-12](article-716-12.md)
-- [Article 716-13](article-716-13.md)
-- [Article 716-14](article-716-14.md)
-- [Article 716-15](article-716-15.md)
-- [Article 716-16](article-716-16.md)
