@@ -6,4 +6,4 @@ Chaque part fait l'objet d'une attribution forfaitaire, dont le montant est dét
 
 Ce barème tient compte de l'état d'avancement des procédures engagées et de la nature des documents à établir. Il peut prévoir des majorations pour compenser les dépenses d'études liées à la complexité des documents à établir.
 
-Le montant de la deuxième part versée à chaque commune ou établissement public de coopération intercommunale est fixé en tenant compte de la nature et de l'importance des missions confiées aux services déconcentrés de l'Etat qui sont mis gratuitement à sa disposition en application de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat.
+Le montant de la deuxième part versée à chaque commune ou établissement public de coopération intercommunale est fixé en tenant compte de la nature et de l'importance des missions confiées aux services déconcentrés de l'Etat qui sont mis gratuitement à sa disposition en application de l'article L. 121-7 du code de l'urbanisme.
