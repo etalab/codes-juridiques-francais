@@ -8,7 +8,7 @@
 
 4. Si les résultats d'une société du groupe sont imposables selon les modalités prévues à l'article 217 bis, les sommes qui leur sont ajoutées ou retranchées pour la détermination du résultat ou de la plus-value ou de la moins-value nette à long terme d'ensemble, ne sont retenues que pour les deux tiers de leur montant.
 
-5. Pour le calcul de la participation et de la réserve spéciale de participation prévues par ((les articles L442-1 à L442-17 du code du travail)) (M), chaque société du groupe retient le bénéfice imposable de l'exercice et l'impôt sur les sociétés déterminés comme si elle était imposée séparément.
+5. Pour le calcul de la participation et de la réserve spéciale de participation prévues par les articles L442-1 à L442-17 du code du travail, chaque société du groupe retient le bénéfice imposable de l'exercice et l'impôt sur les sociétés déterminés comme si elle était imposée séparément.
 
 6. a) (Abrogé).
 
@@ -36,4 +36,12 @@ Dans cette situation, si la personne morale mentionnée au premier alinéa du pr
 
 Par exception aux dispositions de la première phrase du cinquième alinéa de l'article 223 A, la durée du premier exercice des sociétés du groupe ainsi formé peut être inférieure ou supérieure à douze mois, sans préjudice de l'application des dispositions de l'article 37. L'option mentionnée à l'alinéa ci-dessus comporte l'indication de la durée de cet exercice.
 
-La société mère visée au premier alinéa du présent d ajoute au résultat d'ensemble de l'exercice qui y est également mentionné les sommes dont la réintégration est prévue aux articles 223 F, 223 R ainsi qu'au b du présent 6 du fait de la sortie du groupe de toutes les sociétés qui le composaient.
+La société mère visée au premier alinéa du présent d ajoute au résultat d'ensemble de l'exercice qui y est également mentionné les sommes dont la réintégration est prévue aux articles 223 F, 223 R ainsi qu'au b du présent 6 du fait de la sortie du groupe de toutes les sociétés qui le composaient.    ((e. Les dispositions du c sont applicables lorsque la société mère d'un groupe fait l'objet d'une scission dans les conditions prévues à l'article 210 B. Chaque société bénéficiaire des apports procède aux réintégrations mentionnées au troisième alinéa du c, d'une part, à raison des sommes affectées à la branche qu'elle a reçue et, d'autre part, à raison d'une fraction des sommes qui ne peuvent être affectées aux branches apportées ; cette fraction est égale au rapport existant entre la valeur de l'actif net qu'elle a reçu et la valeur totale de l'actif net de la société scindée, telles que ces valeurs apparaissent dans le traité de scission.
+
+Pour l'application des dispositions du présent e, la société absorbante et la société absorbée visées au c s'entendent respectivement de chacune des sociétés bénéficiaires des apports et de la société scindée)) (M).
+
+(1) Dispositions applicables à l'impôt dû par les sociétés sur leurs résultats des exercices clos à compter du 31 décembre 1989.
+
+[*Cf. Instruction 1995-01-17 4H-2-95*].
+
+(M) Modification de la loi 96-314. Ces dispositions s'appliquent aux opérations de scission intervenues à compter du 1er avril 1996.
