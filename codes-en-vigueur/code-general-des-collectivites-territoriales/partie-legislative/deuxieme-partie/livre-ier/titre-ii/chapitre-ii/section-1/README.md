@@ -6,3 +6,4 @@
 - [Article L2122-4](article-l2122-4.md)
 - [Article L2122-5](article-l2122-5.md)
 - [Article L2122-6](article-l2122-6.md)
+- [Article LO2122-4-1](article-lo2122-4-1.md)
