@@ -5,3 +5,4 @@
 - [Section 4 : Distillation obligatoire.](section-4)
 - [Section 5 : Plantations.](section-5)
 - [Section 6 : Dispositions diverses.](section-6)
+- [Section 7 : Arrachage de vignes.](section-7)
