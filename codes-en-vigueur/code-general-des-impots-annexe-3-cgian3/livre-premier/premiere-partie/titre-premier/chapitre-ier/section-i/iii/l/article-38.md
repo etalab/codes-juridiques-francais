@@ -10,6 +10,14 @@ c. Eventuellement le nom et l'adresse du centre de gestion agréé auquel le con
 
 d. Les renseignements nécessaires à l'établissement et au contrôle de l'impôt.
 
+I bis. Pour l'application des dispositions du c du I de l'article 219 du code général des impôts, la déclaration mentionnée au I fait apparaître distinctement :
+
+a) Les renseignements permettant d'assurer le suivi de la somme algébrique des résultats comptables réalisés au titre d'exercices ouverts à compter du 1er janvier 1989 diminuée des distributions antérieures soumises au supplément d'impôt ;
+
+b) Pour les sociétés membres d'un groupe défini à l'article 223 A du code général des impôts, les renseignements permettant d'assurer le suivi de la somme algébrique des résultats comptables réalisés au titre d'exercices au cours desquels la société est membre du groupe diminuée des distributions exonérées en application du dernier alinéa de l'article 223 H du code général des impôts ;
+
+c) Les sommes réputées distribuées en application des articles 109 à 115 ter du même code.
+
 II. Les contribuables visés à l'article 53 A du code général des impôts sont tenus de joindre à la déclaration et aux annexes visées au I, le bilan, le compte de résultat, le tableau des immobilisations, le tableau des amortissements, le tableau des provisions et l'état des échéances des créances et des dettes. Ils doivent également joindre, le cas échéant, la liste des filiales et participations ainsi qu'une information détaillée ayant trait aux points suivants :
 
 Dérogations aux prescriptions comptables ;
