@@ -2,5 +2,3 @@
 
 - [Article 93](article-93.md)
 - [Article 93-1](article-93-1.md)
-- [Article 94 ter](article-94-ter.md)
-- [Article 97](article-97.md)
