@@ -4,7 +4,7 @@ La décision accordant à un condamné le bénéfice de la libération condition
 
 1° Avoir satisfait à une épreuve de semi-liberté ou de placement à l'extérieur sans surveillance dont les modalités sont déterminées par ladite décision ;
 
-2° Remettre tout ou partie de son compte nominatif au comité de probation et d'assistance aux libérés, à charge par ledit comité de restitution par fractions ;
+2° Remettre tout ou partie de son compte nominatif au service pénitentiaire d'insertion et de probation, à charge pour ledit service de restitution par fractions ;
 
 3° S'engager dans les armées de terre, de mer ou de l'air dans les cas où la loi l'autorise, ou rejoindre une formation des forces armées s'il s'agit d'un détenu appartenant à un contingent d'âge présent ou appelé sous les drapeaux, ou s'il s'agit d'un militaire en activité de service ;
 
