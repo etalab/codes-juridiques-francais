@@ -10,7 +10,7 @@ Peuvent être constituées en réserves nationales les réserves de chasse et de
 
 Les réserves nationales sont constituées par arrêté du ministre de la chasse publié au Journal officiel. Il statue conjointement avec le ministre chargé de la mer, lorsque la réserve s'étend en zone de chasse maritime.
 
-Les réserves nationales de chasse et de faune sauvage sont gérées, dans les conditions définies par arrêté du ministre chargé de la chasse, par l'Office national de la chasse ou tout autre organisme habilité suivant un programme de gestion ayant notamment pour objet :
+Les réserves nationales de chasse et de faune sauvage sont gérées, dans les conditions définies par arrêté du ministre chargé de la chasse, par l'Office national de la chasse et de la faune sauvage ou tout autre organisme habilité suivant un programme de gestion ayant notamment pour objet :
 
 1° La protection des espèces de gibier menacées ;
 
