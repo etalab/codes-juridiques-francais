@@ -20,7 +20,7 @@ II. - Les instruments financiers à terme sont :
 
 3. Les contrats d'échange ;
 
-4. Les instruments financiers à terme sur toutes marchandises, soit lorsqu'ils font l'objet, en suite de négociation, d'un enregistrement par une chambre de compensation d'instruments financiers ou d'appels de couvertures périodiques, soit lorsqu'ils offrent la possibilité que les marchandises sous-jacentes ne soient pas livrées moyennant un règlement monétaire par le vendeur ;
+4. Les instruments financiers à terme sur toutes marchandises ou quotas d'émission de gaz à effet de serre, soit lorsqu'ils font l'objet, en suite de négociation, d'un enregistrement par une chambre de compensation d'instruments financiers ou d'appels de couvertures périodiques, soit lorsqu'ils offrent la possibilité que les marchandises sous-jacentes ne soient pas livrées moyennant un règlement monétaire par le vendeur ;
 
 5. Les contrats d'options d'achat ou de vente d'instruments financiers ;
 
