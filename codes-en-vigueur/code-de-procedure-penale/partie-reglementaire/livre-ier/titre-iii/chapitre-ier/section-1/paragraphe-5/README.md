@@ -1,5 +1,6 @@
 # Paragraphe 5 : Examens médical et médico-psychologique.
 
+- [Article D16](article-d16.md)
 - [Article D18](article-d18.md)
 - [Article D19](article-d19.md)
 - [Article D21](article-d21.md)
