@@ -14,4 +14,4 @@ c. Pour l'impôt sur les sociétés : la période d'imposition, le montant de l'
 
 A l'appui des renseignements visés aux b ou c, les requérants doivent produire une attestation régulière du comptable justifiant du paiement de l'impôt.
 
-IV. Dans le cas visé au cinquième alinéa du II de l'article 49 quater, la demande doit mentionner, en outre, tous renseignements permettant de déterminer le montant de la taxe proportionnelle ou de la retenue à la source dont la société bénéficiaire de l'avance, du prêt ou de l'acompte a été, le cas échéant, dispensée, à raison de ses propres distributions, en vertu des articles 145 et 146 du code général des impôts.
+IV. Dans le cas visé au cinquième alinéa du II de l'article 49 quater, la demande doit mentionner, en outre, tous renseignements permettant de déterminer le montant de la taxe proportionnelle ou de la retenue à la source dont la société bénéficiaire de l'avance, du prêt ou de l'acompte a été, le cas échéant, dispensée, à raison de ses propres distributions, en vertu de l'article 145 du code général des impôts.
