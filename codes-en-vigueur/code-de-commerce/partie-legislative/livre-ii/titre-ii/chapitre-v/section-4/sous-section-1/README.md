@@ -17,7 +17,6 @@
 - [Article L225-135](article-l225-135.md)
 - [Article L225-135-1](article-l225-135-1.md)
 - [Article L225-136](article-l225-136.md)
-- [Article L225-137](article-l225-137.md)
 - [Article L225-138](article-l225-138.md)
 - [Article L225-138-1](article-l225-138-1.md)
 - [Article L225-139](article-l225-139.md)

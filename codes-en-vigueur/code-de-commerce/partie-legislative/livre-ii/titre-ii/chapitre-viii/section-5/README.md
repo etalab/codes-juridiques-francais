@@ -3,8 +3,6 @@
 - [Article L228-38](article-l228-38.md)
 - [Article L228-39](article-l228-39.md)
 - [Article L228-40](article-l228-40.md)
-- [Article L228-41](article-l228-41.md)
-- [Article L228-42](article-l228-42.md)
 - [Article L228-43](article-l228-43.md)
 - [Article L228-44](article-l228-44.md)
 - [Article L228-45](article-l228-45.md)

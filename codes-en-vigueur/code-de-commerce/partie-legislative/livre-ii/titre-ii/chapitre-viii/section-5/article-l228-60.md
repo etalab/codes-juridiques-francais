@@ -7,5 +7,3 @@ Toutefois, un ou plusieurs obligataires ont la faculté, dans les conditions pr�
 L'assemblée ne peut délibérer sur une question qui n'est pas inscrite à l'ordre du jour.
 
 Sur deuxième convocation, l'ordre du jour de l'assemblée ne peut être modifié.
-
-Les dispositions de l'article L. 225-114 sont applicables.

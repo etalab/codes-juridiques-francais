@@ -18,7 +18,6 @@
 - [Article L228-22](article-l228-22.md)
 - [Article L228-23](article-l228-23.md)
 - [Article L228-24](article-l228-24.md)
-- [Article L228-25](article-l228-25.md)
 - [Article L228-26](article-l228-26.md)
 - [Article L228-27](article-l228-27.md)
 - [Article L228-28](article-l228-28.md)
