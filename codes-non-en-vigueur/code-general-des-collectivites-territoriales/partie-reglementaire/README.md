@@ -1,0 +1,8 @@
+# Partie réglementaire
+
+- [LIVRE V : DISPOSITIONS APPLICABLES A LA COLLECTIVITE DEPARTEMENTALE DE MAYOTTE](livre-v)
+- [PREMIERE PARTIE : DISPOSITIONS GÉNÉRALES](premiere-partie)
+- [DEUXIEME PARTIE : LA COMMUNE](deuxieme-partie)
+- [TROISIEME PARTIE : LE DÉPARTEMENT](troisieme-partie)
+- [QUATRIEME PARTIE : LA RÉGION](quatrieme-partie)
+- [CINQUIEME PARTIE : LA COOPERATION LOCALE](cinquieme-partie)

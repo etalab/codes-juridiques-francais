@@ -1,0 +1,15 @@
+# CHAPITRE Ier : Régime juridique des actes pris par les autorités communales
+
+- [Article L2131-1](article-l2131-1.md)
+- [Article L2131-2](article-l2131-2.md)
+- [Article L2131-3](article-l2131-3.md)
+- [Article L2131-4](article-l2131-4.md)
+- [Article L2131-5](article-l2131-5.md)
+- [Article L2131-6](article-l2131-6.md)
+- [Article L2131-7](article-l2131-7.md)
+- [Article L2131-8](article-l2131-8.md)
+- [Article L2131-9](article-l2131-9.md)
+- [Article L2131-10](article-l2131-10.md)
+- [Article L2131-11](article-l2131-11.md)
+- [Article L2131-12](article-l2131-12.md)
+- [Article L2131-13](article-l2131-13.md)

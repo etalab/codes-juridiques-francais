@@ -32,7 +32,7 @@ Un décret en Conseil d'Etat fixe les conditions de cette reconnaissance et les 
 
 4. (abrogé).
 
-5. Le bénéfice des dispositions du 1 et du 1 ter est subordonné à la condition que soient jointes à la déclaration des revenus des pièces justificatives, répondant à un modèle fixé par un arrêté attestant le total du montant et la date des versements ainsi que l'identité des bénéficiaires. A défaut, la réduction d'impôt est refusée sans notification de redressement préalable.
+5. Le bénéfice des dispositions du 1 et du 1 ter est subordonné à la condition que soient jointes à la déclaration des revenus des pièces justificatives, répondant à un modèle fixé par un arrêté attestant le total du montant et la date des versements ainsi que l'identité des bénéficiaires. A défaut, la réduction d'impôt est refusée sans proposition de rectification préalable.
 
 Toutefois, pour l'application du 3, les reçus délivrés pour les dons et les cotisations d'un montant égal ou inférieur à 3 000 euros ne mentionnent pas la dénomination du bénéficiaire. Un décret en Conseil d'Etat détermine les modalités d'application de cette disposition.
 
