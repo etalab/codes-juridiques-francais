@@ -11,6 +11,7 @@
 - [Article D499](article-d499.md)
 - [Article D502](article-d502.md)
 - [Article D504](article-d504.md)
+- [Article D506](article-d506.md)
 - [Article D513](article-d513.md)
 - [Article D514](article-d514.md)
 - [Article D515](article-d515.md)
