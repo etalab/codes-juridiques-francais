@@ -1,5 +1,6 @@
 # Chapitre II : Associations foncières urbaines.
 
+- [Article L322-8](article-l322-8.md)
 - [Article L322-9](article-l322-9.md)
 - [Article L322-12](article-l322-12.md)
 - [Article L322-13](article-l322-13.md)
