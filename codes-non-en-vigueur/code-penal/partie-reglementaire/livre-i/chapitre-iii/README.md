@@ -1,5 +1,7 @@
 # Chapitre III : Des peines et des autres condamnations qui peuvent ^etre prononcées pour crimes ou délits.
 
+- [Article 44-1](article-44-1.md)
+- [Article 44-2](article-44-2.md)
 - [Article 45](article-45.md)
 - [Article 46](article-46.md)
 - [Article 47](article-47.md)
@@ -9,6 +11,7 @@
 - [Article 53](article-53.md)
 - [Article 54](article-54.md)
 - [Article R2](article-r2.md)
+- [Article R2-1](article-r2-1.md)
 - [Article R3](article-r3.md)
 - [Article R4](article-r4.md)
 - [Article R5](article-r5.md)
