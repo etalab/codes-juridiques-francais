@@ -4,6 +4,7 @@
 - [Article 226](article-226.md)
 - [Article 226 bis](article-226-bis.md)
 - [Article 226 A](article-226-a.md)
+- [Article 227 bis](article-227-bis.md)
 - [Article 228](article-228.md)
 - [Article 229](article-229.md)
 - [Article 229 B](article-229-b.md)
