@@ -1,3 +1,0 @@
-# TITRE VI : FINANCES DE LA COLLECTIVITE DEPARTEMENTALE
-
-- [Chapitre III : Recettes](chapitre-iii)
