@@ -4,7 +4,7 @@ L'organisation autonome des professions agricoles est chargée de servir aux ass
 
 1° Soit, pour ceux qui ne peuvent bénéficier d'une pension de retraite, une allocation dans les conditions prévues aux articles 1111 à 1120 inclus s'ils ont exercé cette activité pendant quinze ans au moins ;
 
-2° Soit une pension de retraite dans les conditions prévues aux articles 1120-1 à 1122-5.
+2° Soit une pension de retraite dans les conditions prévues au paragraphe 2 de la présente section.
 
 Par dérogation aux prescriptions du premier alinéa du présent article, l'interruption d'activité résultant d'un fait de guerre ou de maladie ou d'infirmité graves empêchant toute activité professionnelle ne privera pas le requérant du droit à l'allocation.
 
