@@ -1,0 +1,3 @@
+# Article D312-59-1
+
+Les instituts thérapeutiques, éducatifs et pédagogiques accueillent les enfants, adolescents ou jeunes adultes qui présentent des difficultés psychologiques dont l'expression, notamment l'intensité des troubles du comportement, perturbe gravement la socialisation et l'accès aux apprentissages. Ces enfants, adolescents et jeunes adultes se trouvent, malgré des potentialités intellectuelles et cognitives préservées, engagés dans un processus handicapant qui nécessite le recours à des actions conjugées et à un accompagnement personnalisé tels que définis au II de l'article D. 312-59-2.
