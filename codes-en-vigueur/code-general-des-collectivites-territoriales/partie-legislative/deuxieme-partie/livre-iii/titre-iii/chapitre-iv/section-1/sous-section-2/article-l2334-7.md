@@ -17,3 +17,7 @@ si l'évolution des ressources de la dotation globale de fonctionnement, en appl
 dans le cas contraire, ces montants progressent de la moitié du taux d'évolution de l'ensemble des ressources affectées à la dotation globale de fonctionnement.
 
 En 1996, la dotation forfaitaire de l'ensemble des communes, calculée selon les modalités prévues ci-dessus, est majorée, d'une part, de 97,5 millions de francs, répartis au prorata de leurs populations, et, d'autre part, de 22 millions de francs, répartis au prorata du nombre des écoles primaires et maternelles situées sur leur territoire à la rentrée scolaire 1994. Les sommes correspondant à cette dernière compensation sont reversées par les communes bénéficiaires aux groupements de communes dont elles sont membres lorsque ceux-ci sont compétents en matière de fonctionnement des établissements d'enseignement élémentaire et préélémentaire. Les années suivantes, ces majorations évoluent selon les modalités définies aux sixième à huitième alinéas.
+
+Article 118
+
+A compter de 1999, la dotation forfaitaire des communes qui, en application de l'article 10 de la loi n° 91-429 du 13 mai 1991 instituant une dotation de solidarité urbaine et un fonds de solidarité des communes de la région d'Ile-de-France, réformant la dotation globale de fonctionnement des communes et des départements et modifiant le code des communes, ont contribué à partir de 1991 au financement de la dotation de solidarité urbaine, et qui bénéficiaient en 1997 de cette même dotation, est relevée d'un pourcentage égal à 8,9 %.

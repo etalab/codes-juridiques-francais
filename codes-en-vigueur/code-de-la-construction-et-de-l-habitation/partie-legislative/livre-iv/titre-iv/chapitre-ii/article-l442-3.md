@@ -6,6 +6,6 @@ A compter du 13 novembre 1982 [*date*] et nonobstant toute disposition ou stipul
 
 - des dépenses d'entretien courant et des menues réparations sur les éléments d'usage commun de la chose louée, qui ne sont pas la conséquence d'une erreur de conception ou d'un vice de réalisation ;
 
-- du droit de bail et des impositions qui correspondent à des services dont le locataire profite directement.
+- de la contribution annuelle représentative du droit de bail et des impositions qui correspondent à des services dont le locataire profite directement.
 
 La liste de ces charges est fixée par décret en Conseil d'Etat.

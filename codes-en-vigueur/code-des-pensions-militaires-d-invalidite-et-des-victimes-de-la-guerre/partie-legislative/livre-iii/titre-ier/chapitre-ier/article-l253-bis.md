@@ -12,4 +12,4 @@ Une commission d'experts, comportant notamment des représentants des intéress�
 
 Les adaptations visées au premier alinéa ci-dessus ainsi que les modalités d'application du présent article, et notamment les périodes à prendre en considération pour les différents théâtres d'opérations, seront fixées par décret en Conseil d'Etat ; un arrêté interministériel énumérera les catégories de formations constituant les forces supplétives françaises.
 
-Une durée des services en Algérie d'au moins dix-huit mois est reconnue équivalente à la participation aux actions de feu et de combat exigée au deuxième alinéa ci-dessus.
+Une durée des services en Algérie d'au moins quinze mois est reconnue équivalente à la participation aux actions de feu et de combat exigée au deuxième alinéa ci-dessus.
