@@ -1,6 +1,7 @@
 # I bis : Bénéfices industriels et commerciaux
 
 - [1 : Imposition de certains profits immobiliers](1)
+- [4 bis : Provisions pour risques afférents à certaines opérations d'assurance et de réassurance](4-bis)
 - [Article 4 à 14](article-4-a-14.md)
 - [5 : Provision pour investissement en faveur des entreprises de presse](5)
 - [6 : Amortissement dégressif des biens d'équipement](6)

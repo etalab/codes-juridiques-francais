@@ -15,6 +15,7 @@
 - [XIV bis : Sociétés civiles de moyens](xiv-bis)
 - [XVII : Sociétés civiles autorisées à faire publiquement appel à l'épargne.](xvii)
 - [XVII bis : Personnes morales passibles de l'impôt sur les sociétés ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble.](xvii-bis)
+- [XVIII : Déclaration des commissions, courtages, ristournes, honoraires, des droits d'auteur, des rémunérations d'associés et des parts de bénéfices](xviii)
 - [XX : Attribution de l'avoir fiscal aux non-résidents](xx)
 - [XIX : Déclaration des revenus de capitaux mobiliers (IFU)](xix)
 - [XXI : Mesures de publicité](xxi)

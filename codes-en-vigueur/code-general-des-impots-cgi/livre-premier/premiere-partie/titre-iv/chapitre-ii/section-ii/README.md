@@ -2,4 +2,6 @@
 
 - [I : Cartes d'entrée dans les casinos.](i)
 - [II : Cartes d'identité et de séjour](ii)
+- [V : Formalités administratives.](v)
 - [VII : Permis de chasser](vii)
+- [VIII : Véhicules à moteur](viii)

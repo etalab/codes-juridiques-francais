@@ -1,5 +1,6 @@
 # a : Dispositions communes aux successions et aux donations
 
+- [Article 779](article-779.md)
 - [Article 780](article-780.md)
 - [Article 781](article-781.md)
 - [Article 782](article-782.md)
