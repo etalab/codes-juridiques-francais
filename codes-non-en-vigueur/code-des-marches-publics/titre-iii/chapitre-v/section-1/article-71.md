@@ -14,7 +14,7 @@ II. - Par dérogation dûment motivée dans le rapport de présentation, lorsque
 
 III. - Dans les cas prévus au I et au II, pour des raisons dûment justifiées par l'impossibilité pour une seule entreprise de réaliser la totalité des prestations ou par la nécessité d'assurer la sécurité d'approvisionnement, il peut être passé des marchés avec plusieurs titulaires comportant des lots portant sur des prestations identiques, à la condition que le marché fixe expressément les conditions dans lesquelles les bons de commande seront attribués aux différents titulaires.
 
-IV. - La personne publique peut lancer une procédure d'appel d'offres et conclure, pour les mêmes prestations, des marchés sans minimum ni maximum avec plusieurs titulaires qu'elle remettra ensuite en compétition, préalablement à l'émission de chaque bon de commande, lorsque cette procédure est rendue nécessaire :
+IV. - La personne publique peut lancer une procédure d'appel d'offres et conclure, pour les mêmes prestations, des marchés sans minimum ni maximum avec plusieurs titulaires qu'elle remettra ensuite en compétition, pour l'attribution des bons de commande, lorsque cette procédure est rendue nécessaire :
 
 a) Soit par la forte volatilité des prix des produits ;
 
@@ -26,7 +26,7 @@ Le règlement de la consultation annonce que ces marchés donneront lieu à remi
 
 La remise en compétition prévue à l'alinéa précédent a lieu dans des formes et délais identiques pour tous les candidats en assurant la confidentialité des réponses. Le contenu de chaque réponse est enregistré.
 
-La personne responsable du marché ou son représentant pour l'Etat et pour les établissements publics de santé et les établissements publics sociaux ou médico-sociaux, ou la commission d'appel d'offres pour les collectivités territoriales choisit l'attributaire du bon de commande.
+La personne responsable du marché ou son représentant choisit l'attributaire du bon de commande.
 
 Dans les cas prévus aux a et b, le prix peut ne pas être indiqué dans le marché, mais ce dernier doit néanmoins contenir tous les éléments permettant de le déterminer au moment de l'émission de chaque bon de commande.
 
