@@ -7,7 +7,6 @@
 - [Article 92 B ter](article-92-b-ter.md)
 - [Article 92 B quinquies](article-92-b-quinquies.md)
 - [Article 92 B sexies](article-92-b-sexies.md)
-- [Article 92 B decies](article-92-b-decies.md)
 - [Article 92 E](article-92-e.md)
 - [Article 92 F](article-92-f.md)
 - [Article 92 G](article-92-g.md)

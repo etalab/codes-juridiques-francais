@@ -17,6 +17,5 @@
 - [Section XVI : Prélèvement sur les bénéfices des entreprises exploitant des gisements d'hydrocarbures](section-xvi)
 - [Section XVII : Contribution sur l'impôt sur les sociétés](section-xvii)
 - [Section XVIII : Contribution temporaire sur l'impôt sur les sociétés](section-xviii)
-- [Article 234 quinquies](article-234-quinquies.md)
 - [Article 234 septies](article-234-septies.md)
 - [Article 234 nonies](article-234-nonies.md)
