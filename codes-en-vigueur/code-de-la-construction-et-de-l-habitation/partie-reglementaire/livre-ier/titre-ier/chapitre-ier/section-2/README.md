@@ -17,5 +17,4 @@
 - [Article R*111-14-1](article-r-111-14-1.md)
 - [Article R*111-15](article-r-111-15.md)
 - [Article R*111-16](article-r-111-16.md)
-- [Article R111-16](article-r111-16.md)
 - [Article R*111-17](article-r-111-17.md)
