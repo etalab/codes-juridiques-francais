@@ -26,3 +26,4 @@
 - [6. : Télégrammes avec collationnement.](6)
 - [7. : Télégrammes téléphonés par l'expéditeur ou déposés par ligne d'intérêt privé téléphonique ou télégraphique.](7)
 - [8. : Télégrammes à remettre par exprès (service international).](8)
+- [9. : Télégrammes à remettre par poste (régime international).](9)
