@@ -1,6 +1,6 @@
 # Article R555-3
 
-Sont punis d'une amende de 2500 à 5000 F :
+Sont punis de l'amende prévue par le 5° de l'article R. 25 du code pénal pour les contraventions de la 5ème classe :
 
 - ceux qui ont vendu, mis en vente, exposé ou détenu en vue de la vente ou cédé à titre gratuit des semences récoltées en dehors des peuplements classés ou des plants issus de telles semences ;
 
