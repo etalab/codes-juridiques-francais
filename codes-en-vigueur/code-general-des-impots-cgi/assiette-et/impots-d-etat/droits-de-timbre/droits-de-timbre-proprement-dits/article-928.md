@@ -1,6 +1,6 @@
 # Article 928
 
-Est fixé à 0,50 F [*montant*], y compris le droit de la décharge donnée par le destinataire, et pour chacun des transports effectués en grande ou en petite vitesse, le droit de timbre des récépissés, bulletins d'expédition ou autres pièces en tenant lieu, délivrés par les administrations des voies ferrées d'intérêt général ou local ou des tramways aux expéditeurs, lorsque ces derniers ne demandent pas de lettre de voiture.
+Est fixé à 1 F [*montant*] y compris le droit de la décharge donnée par le destinataire, et pour chacun des transports effectués en grande ou en petite vitesse, le droit de timbre des récépissés, bulletins d'expédition ou autres pièces en tenant lieu, délivrés par les administrations des voies ferrées d'intérêt général ou local ou des tramways aux expéditeurs, lorsque ces derniers ne demandent pas de lettre de voiture.
 
 Le récépissé énonce la nature, le poids et la désignation des colis, le nom et l'adresse du destinataire, le prix total du transport et le délai dans lequel ce transport doit être effectué [*mentions*]. Un double du récépissé accompagne l'expédition et est remis au destinataire.
 
