@@ -10,7 +10,6 @@
 - [Article R*111-8](article-r-111-8.md)
 - [Article R*111-9](article-r-111-9.md)
 - [Article R*111-10](article-r-111-10.md)
-- [Article R*111-11](article-r-111-11.md)
 - [Article R*111-12](article-r-111-12.md)
 - [Article R*111-13](article-r-111-13.md)
 - [Article R*111-14](article-r-111-14.md)
