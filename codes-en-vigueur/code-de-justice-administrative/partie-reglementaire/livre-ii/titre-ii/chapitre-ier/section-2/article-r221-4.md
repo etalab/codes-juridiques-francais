@@ -52,8 +52,8 @@ Rouen : trois chambres ;
 
 Saint-Denis : deux chambres ;
 
-Strasbourg : quatre chambres ;
+Strasbourg : cinq chambres ;
 
 Toulouse : quatre chambres ;
 
-Versailles : sept chambres.
+Versailles : huit chambres.
