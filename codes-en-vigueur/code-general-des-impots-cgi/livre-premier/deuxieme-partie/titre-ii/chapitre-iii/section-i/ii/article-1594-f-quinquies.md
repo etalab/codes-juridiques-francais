@@ -1,8 +1,8 @@
 # Article 1594 F quinquies
 
-((Sont soumises à la taxe de publicité foncière ou au droit d'enregistrement au taux de 0,60 %)) (M) :
+Sont soumises à la taxe de publicité foncière ou au droit d'enregistrement au taux de 0,60 % :
 
-A. Lorsqu'elles donnent lieu au paiement de la taxe sur la valeur ajoutée en vertu du 7° de l'article 257, les mutations à titre onéreux d'immeubles autres que ceux mentionnés ((au I du A de l'article 1594-0 G)) (M) ;
+A. Lorsqu'elles donnent lieu au paiement de la taxe sur la valeur ajoutée en vertu du 7° de l'article 257, les mutations à titre onéreux d'immeubles autres que ceux mentionnés au I du A de l'article 1594-0 G ;
 
 B. Sans préjudice de l'application des dispositions du 7° de l'article 257, les mutations de propriété faites entre les propriétaires participant aux opérations de rénovation urbaine et l'organisme de rénovation. Toutefois, en ce qui concerne la taxe ou le droit afférents aux biens remis aux anciens propriétaires en contre-partie de leur créance sur un organisme de rénovation, le bénéfice de la réduction de taux ne peut être invoqué qu'à concurrence du montant de la créance sur l'organisme de rénovation.
 
@@ -20,13 +20,13 @@ L'apport du bien acquis dans les conditions prévues au premier et au deuxième 
 
 Lorsque la jouissance de biens acquis dans les conditions prévues aux deux premiers alinéas est concédée à titre onéreux à l'une des sociétés visées au troisième alinéa, le bénéfice du taux réduit est maintenu si l'acquéreur ou ses ayants cause à titre gratuit continuent de mettre personnellement en valeur lesdits biens dans le cadre de la société, jusqu'à l'expiration du délai de cinq ans à compter de leur date d'acquisition.
 
-II. ((Les acquisitions)) (M) d'immeubles visées au I faites sous les mêmes conditions en vue de l'installation d'un descendant majeur de l'acquéreur. En pareil cas, l'engagement d'exploiter est pris par le descendant. L'aliénation ou la location du bien acquis consentie à titre onéreux par l'acquéreur au descendant installé n'entraîne pas la déchéance du bénéfice du taux réduit.
+II. Les acquisitions d'immeubles visées au I faites sous les mêmes conditions en vue de l'installation d'un descendant majeur de l'acquéreur. En pareil cas, l'engagement d'exploiter est pris par le descendant. L'aliénation ou la location du bien acquis consentie à titre onéreux par l'acquéreur au descendant installé n'entraîne pas la déchéance du bénéfice du taux réduit.
 
 E. I. Les acquisitions d'immeubles ruraux situés dans les territoires ruraux de développement prioritaire délimités par le décret n° 94-1139 du 26 décembre 1994 modifié qui sont effectuées par les agriculteurs bénéficiaires des aides à l'installation des jeunes agriculteurs prévue aux articles R343-9 et R343-13 du code rural, que les intéressés soient exploitants individuels ou associés d'une société civile à objet agricole, pour la fraction du prix ou de la valeur n'excédant pas 650.000 F, quel que soit le nombre des acquisitions, sous réserve qu'elles interviennent au cours des quatre années suivant l'octroi des aides, que l'acte précise la valeur des terres acquises depuis cette date par l'acquéreur ayant bénéficié du tarif réduit et soit appuyé d'un certificat délivré sans frais par le directeur départemental de l'agriculture et de la forêt précisant la date de l'octroi des aides.
 
 II. Les acquisitions d'immeubles ruraux situés dans les zones prévues au I, sous réserve que l'acquéreur prenne, dans l'acte d'acquisition, l'engagement, pour lui et ses ayants cause à titre gratuit, de justifier, au plus tard au terme d'un délai d'un an à compter de la date du transfert de propriété, que le bien acquis a été donné à bail à long terme à un jeune agriculteur bénéficiaire des aides à l'installation.
 
-((Ce taux)) (M) s'applique aux acquisitions effectuées par l'acquéreur à hauteur d'une valeur globale n'excédant pas 650 000 F.
+Ce taux s'applique aux acquisitions effectuées par l'acquéreur à hauteur d'une valeur globale n'excédant pas 650 000 F.
 
 F. Les ventes résultant de l'application des articles L128-4 à L128-7 du code rural relatifs à la mise en valeur agricole des terres incultes, des terres laissées à l'abandon et des terres insuffisamment exploitées de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane.
 
@@ -36,14 +36,10 @@ Pour les acquisitions, le bénéfice du régime de faveur est subordonné à l'e
 
 Les modalités d'application du présent G sont fixées par décret.
 
-H. ((Les acquisitions, par une société de crédit-bail, d'immeubles)) (M) dont elle concède immédiatement la jouissance au vendeur par un contrat de crédit-bail, à la condition que ce dernier fasse l'objet d'une publication si cette formalité est obligatoire en application des dispositions de l'article 28 du décret n° 55-22 du 4 janvier 1955 modifié.
+H. Les acquisitions, par une société de crédit-bail, d'immeubles dont elle concède immédiatement la jouissance au vendeur par un contrat de crédit-bail, à la condition que ce dernier fasse l'objet d'une publication si cette formalité est obligatoire en application des dispositions de l'article 28 du décret n° 55-22 du 4 janvier 1955 modifié.
 
-I. ((Les acquisitions par une société agréée pour le financement des économies d'énergie, d'installations de caractère immobilier)) (M) dont elle concède immédiatement la jouissance au vendeur par un contrat de crédit-bail, à la condition que ce dernier fasse l'objet d'une publication si cette formalité est obligatoire en application des dispositions de l'article 28 du décret n° 55-22 du 4 janvier 1955 modifié.
-
-Ces dispositions s'appliquent seulement aux acquisitions effectuées dans le cadre de l'exercice des activités exonérées d'impôt sur les sociétés en application du 3° sexies de l'article 208.
+I. (supprimé)
 
 J. Les cessions de constructions provisoires, réalisées en application de l'article L 60 du code du domaine de l'Etat.
 
 K. Dans les départements d'outre-mer, les acquisitions de terrains compris dans le périmètre de lotissements qui sont agréés dans des conditions fixées par décret.
-
-(M) Modification.

@@ -1,6 +1,6 @@
 # Article 1609 duovicies
 
-Il est perçu une taxe spéciale (1) incluse dans le prix des billets d'entrée dans les salles de spectacles cinématographiques quels que soient le procédé de fixation ou de transmission et la nature du support des oeuvres ou documents audiovisuels qui y sont présentés.
+Il est perçu une taxe spéciale incluse dans le prix des billets d'entrée dans les salles de spectacles cinématographiques quels que soient le procédé de fixation ou de transmission et la nature du support des oeuvres ou documents audiovisuels qui y sont présentés.
 
 Les représentations assujetties au paiement de la taxe spéciale sont soumises aux dispositions du code de l'industrie cinématographique.
 
@@ -69,8 +69,6 @@ La taxe spéciale est perçue dans les salles où sont donnés au moins deux sé
 Le montant de la taxe ne peut entrer en compte dans la détermination de l'assiette des divers impôts, taxes et droits de toute nature autres que la taxe sur la valeur ajoutée auxquels est soumise la recette normale des salles de spectacles cinématographiques.
 
 Le contentieux de la taxe est assuré et les infractions en matière d'assiette sont sanctionnées selon les règles propres à la taxe sur la valeur ajoutée.
-
-Les sanctions applicables à la taxe spéciale sur le prix des places cinématographiques ne peuvent être mises en recouvrement avant l'expiration d'un délai de trente jours à compter de la notification du document par lequel l'administration a fait connaître au contrevenant la sanction qu'elle se propose d'appliquer, les motifs de celle-ci et la possibilité dont dispose l'intéressé de présenter dans ce délai ses observations.
 
 Le produit de la taxe est porté en recettes au compte d'affectation spéciale institué par l'article 76 de la loi de finances pour 1960 (n° 59-1454 du 26 décembre 1959).
 

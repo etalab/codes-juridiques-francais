@@ -1,4 +1,4 @@
-# 2 : Paiement mensuel de l'impôt sur le revenu
+# 2 : Paiement mensuel de la contribution annuelle sur les revenus locatifs
 
 - [Article 1681 C](article-1681-c.md)
 - [Article 1681 D](article-1681-d.md)

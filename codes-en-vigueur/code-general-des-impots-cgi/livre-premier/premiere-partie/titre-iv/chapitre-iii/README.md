@@ -6,7 +6,6 @@
 - [Section III : Taxes sur les véhicules à moteur](section-iii)
 - [Section IV : Taxe sur les défrichements.](section-iv)
 - [Section V bis : Droit fixe de procédure.](section-v-bis)
-- [Section V ter : Droit forfaitaire de délivrance d'ampliation](section-v-ter)
 - [Section VI : Droits de sceau](section-vi)
 - [Section 0I bis : Taxe sur la valeur vénale des immeubles possédés en France par des entités juridiques](section-0i-bis)
 - [Section 0I ter : Prélèvement sur les sommes versées par les organismes d'assurances et assimilés à raison des contrats d'assurances en cas de décès](section-0i-ter)

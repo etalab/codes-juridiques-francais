@@ -16,7 +16,7 @@ Les titres échangés dans le cadre de l'une des opérations visées aux 7 et 7 
 
 Le délai mentionné au premier alinéa du présent c n'est pas interrompu en cas de fusion entre la personne morale participante et la société émettrice si l'opération est placée sous le régime prévu à l'article 210 A.
 
-Les titres prêtés dans les conditions du chapitre V ((modifié)) (M) de la loi n° 87-416 du 17 juin 1987 sur l'épargne ne peuvent être pris en compte par les parties au contrat de prêt pour l'application du régime fiscal des sociétés mères.
+Les titres prêtés dans les conditions du chapitre V modifié de la loi n° 87-416 du 17 juin 1987 sur l'épargne ne peuvent être pris en compte par les parties au contrat de prêt pour l'application du régime fiscal des sociétés mères.
 
 De même, les valeurs, titres ou effets qui sont mis en pension dans les conditions prévues par la loi n° 93-1444 du 31 décembre 1993 portant diverses dispositions relatives à la Banque de France, à l'assurance, au crédit et aux marchés financiers, ne peuvent être pris en compte pour l'application du régime défini au présent article par les parties à l'opération de pension.
 
@@ -40,7 +40,7 @@ d. Aux dividendes distribués aux actionnaires des sociétés immobilières pour
 
 e. Aux dividendes distribués aux actionnaires des sociétés agréées pour le financement des télécommunications visées à l'article 1er de la loi n° 69-1160 du 24 décembre 1969 et des sociétés qui redistribuent les dividendes d'une société immobilière pour le commerce et l'industrie en application du quatrième alinéa de l'article 208 3° quinquies.
 
-f. Aux produits distribués aux associés des sociétés agréées pour le financement des économies d'énergie (Sofergie) et résultant de l'exercice des activités exonérées en application du 3° sexies de l'article 208 ;
+f. (supprimé)
 
 g. Aux produits et plus-values nets distribués par les sociétés de capital-risque exonérés en application du 3° septies de l'article 208.
 
@@ -55,7 +55,5 @@ g. Aux produits et plus-values nets distribués par les sociétés de capital-ri
 En ce qui concerne les actions visées aux 1° et 2°, aucun pourcentage minimal de participation n'est exigé pour l'application du régime défini au présent article.
 
 8. (Transféré sous le paragraphe 6 d du ci-dessus).
-
-(M) Modification de la loi 96-597.
 
 (1) Ces dispositions s'appliquent pour la détermination des résultats des exercices ouverts à compter du 1er janvier 1993.

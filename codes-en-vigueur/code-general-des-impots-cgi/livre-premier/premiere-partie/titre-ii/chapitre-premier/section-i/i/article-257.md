@@ -12,7 +12,7 @@ Sont également soumis à la taxe sur la valeur ajoutée :
 
 6° Les opérations qui portent sur des immeubles, des fonds de commerce ou des actions ou parts de sociétés immobilières et dont les résultats doivent être compris dans les bases de l'impôt sur le revenu au titre des bénéfices industriels ou commerciaux ;
 
-7° Les opérations concourant à la production ou à la livraison d'immeubles (1).
+7° Les opérations concourant à la production ou à la livraison d'immeubles.
 
 Ces opérations sont imposables même lorsqu'elles revêtent un caractère civil.
 
@@ -24,7 +24,7 @@ Sont notamment visés par le premier alinéa, les terrains pour lesquels, dans u
 
 Ces dispositions ne sont pas applicables aux terrains acquis par des personnes physiques en vue de la construction d'immeubles que ces personnes affectent à un usage d'habitation.
 
-Toutefois, lorsque le cédant est une collectivité territoriale ou un groupement de collectivités territoriales, il peut, sur option, soumettre la cession à la taxe sur la valeur ajoutée (2).
+Toutefois, lorsque le cédant est une collectivité territoriale ou un groupement de collectivités territoriales, il peut, sur option, soumettre la cession à la taxe sur la valeur ajoutée.
 
 Un décret en Conseil d'Etat détermine les modalités d'application des troisième et quatrième alinéas ;
 
@@ -62,7 +62,7 @@ Un décret en Conseil d'Etat définit les conditions d'application des b et c ;
 
 1. Sont assimilés à des livraisons de biens effectuées à titre onéreux :
 
-a) Le prélèvement par un assujetti d'un bien de son entreprise pour ses besoins privés ou ceux de son personnel ou qu'il transmet à titre gratuit ou, plus généralement, qu'il affecte à des fins étrangères à son entreprise, lorsque ce bien ou les éléments le composant ont ouvert droit à une déduction complète ou partielle de la taxe sur la valeur ajoutée. Toutefois, ne sont pas visés les prélèvements effectués pour les besoins de l'entreprise pour donner des cadeaux de faible valeur et des échantillons. Le montant à retenir pour l'imposition des prélèvements correspondant aux cadeaux de faible valeur est fixé par arrêté (3). Cette limite s'applique par objet et par an pour un même bénéficiaire ;
+a) Le prélèvement par un assujetti d'un bien de son entreprise pour ses besoins privés ou ceux de son personnel ou qu'il transmet à titre gratuit ou, plus généralement, qu'il affecte à des fins étrangères à son entreprise, lorsque ce bien ou les éléments le composant ont ouvert droit à une déduction complète ou partielle de la taxe sur la valeur ajoutée. Toutefois, ne sont pas visés les prélèvements effectués pour les besoins de l'entreprise pour donner des cadeaux de faible valeur et des échantillons. Le montant à retenir pour l'imposition des prélèvements correspondant aux cadeaux de faible valeur est fixé par arrêté. Cette limite s'applique par objet et par an pour un même bénéficiaire ;
 
 b) L'affectation par un assujetti aux besoins de son entreprise d'un bien produit, construit, extrait, transformé, acheté, importé ou ayant fait l'objet d'une acquisition intracommunautaire dans le cadre de son entreprise lorsque l'acquisition d'un tel bien auprès d'un autre assujetti, réputée faite au moment de l'affectation, ne lui ouvrirait pas droit à déduction complète parce que le droit à déduction de la taxe afférente au bien fait l'objet d'une exclusion ou d'une limitation ou peut faire l'objet d'une régularisation ; cette disposition s'applique notamment en cas d'affectation de biens à des opérations situées hors du champ d'application de la taxe sur la valeur ajoutée ;
 
@@ -76,9 +76,9 @@ a) L'utilisation d'un bien affecté à l'entreprise pour les besoins privés de 
 
 b) Les prestations de services à titre gratuit effectuées par l'assujetti pour ses besoins privés ou pour ceux de son personnel ou, plus généralement, à des fins étrangères à son entreprise.
 
-3. Un décret en Conseil d'Etat (4) définit les opérations désignée ci-dessus ainsi que le moment où la taxe devient exigible ;
+3. Un décret en Conseil d'Etat définit les opérations désignée ci-dessus ainsi que le moment où la taxe devient exigible ;
 
-9° Les livraisons qu'un non-assujetti à la taxe sur la valeur ajoutée se fait à lui-même et qui portent sur les viandes des animaux de boucherie et de charcuterie tels qu'ils sont définis par décret (5) ;
+9° Les livraisons qu'un non-assujetti à la taxe sur la valeur ajoutée se fait à lui-même et qui portent sur les viandes des animaux de boucherie et de charcuterie tels qu'ils sont définis par décret ;
 
 10° Les achats à des non-assujettis à la taxe sur la valeur ajoutée :
 
@@ -90,32 +90,18 @@ c) De conserves alimentaires ;
 
 d) (Abrogé à compter du 1er janvier 1995) ;
 
-11° Les quantités de boissons manquantes chez les marchands en gros en sus des déductions et soumises aux droits indirects ;
+11° Les quantités de boissons manquantes chez les entrepositaires agréés en sus des déductions et soumises aux droits indirects ;
 
 12° (Abrogé) ;
 
-13° La cession d'aéronefs ou d'éléments d'aéronefs par les compagnies de navigation aérienne mentionnées au 4° du II de l'article 262 d'autres compagnies ne remplissant pas les conditions fixées à cet article. Les modalités d'application de cette disposition sont fixées, en tant que de besoin, par des arrêtés du ministre de l'économie et des finances (6) ;
+13° La cession d'aéronefs ou d'éléments d'aéronefs par les compagnies de navigation aérienne mentionnées au 4° du II de l'article 262 d'autres compagnies ne remplissant pas les conditions fixées à cet article. Les modalités d'application de cette disposition sont fixées, en tant que de besoin, par des arrêtés du ministre de l'économie et des finances ;
 
 14° (Abrogé) ;
 
-15° Les biens et produits mentionnés aux 2° et 3° du II de l'article 262 lorsqu'ils cessent d'être utilisés dans les conditions prévues par cet article. Les modalités d'application de cette disposition sont fixées, en tant que de besoin, par des arrêtés du ministre de l'économie et des finances (7) ;
+15° Les biens et produits mentionnés aux 2° et 3° du II de l'article 262 lorsqu'ils cessent d'être utilisés dans les conditions prévues par cet article. Les modalités d'application de cette disposition sont fixées, en tant que de besoin, par des arrêtés du ministre de l'économie et des finances ;
 
 16° et 17° (Abrogés) ;
 
 18° La redevance pour droit d'usage des appareils récepteurs de télévision prévue par l'article 53 de la loi 86-1067 du 30 septembre 1986 modifiée relative à la liberté de communication ;
 
 19° Les sommes attribuées par les sociétés de course au titre des gains de course réalisés par les entraîneurs pour les chevaux dont ils sont propriétaires.
-
-(1) Voir Annexe II, art. 243 à 259.
-
-(2) Ces dispositions s'appliquent aux ventes ayant acquis date certaine à compter du 22 octobre 1998.
-
-(3) Voir Annexe IV, art. 23 N.
-
-(4) Voir Annexe II, art. 173 à 175.
-
-(5) Annexe III, art. 65 A.
-
-(6) Annexe IV, art. 45.
-
-(7) Annexe IV, art. 42 à 46.
