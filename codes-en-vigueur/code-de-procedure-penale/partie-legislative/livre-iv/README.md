@@ -12,3 +12,4 @@
 - [Titre X : Des infractions commises à l'étranger](titre-x)
 - [Titre XII : Des demandes présentées en vue d'être relevé des interdictions, déchéances, incapacités ou mesures de publication](titre-xii)
 - [Titre XIII : De la poursuite, de l'instruction et du jugement des infractions en matière économique et financière](titre-xiii)
+- [Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction](titre-xiv)
