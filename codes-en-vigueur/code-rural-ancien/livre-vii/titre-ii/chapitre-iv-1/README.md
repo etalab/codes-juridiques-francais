@@ -4,7 +4,6 @@
 - [Article 1142-2](article-1142-2.md)
 - [Article 1142-3](article-1142-3.md)
 - [Article 1142-4](article-1142-4.md)
-- [Article 1142-5](article-1142-5.md)
 - [Article 1142-6](article-1142-6.md)
 - [Article 1142-8](article-1142-8.md)
 - [Article 1142-9](article-1142-9.md)

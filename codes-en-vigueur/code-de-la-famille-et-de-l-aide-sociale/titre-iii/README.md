@@ -7,7 +7,6 @@
 - [Chapitre V : Aide sociale aux personnes agées](chapitre-v)
 - [Chapitre VI : Aide sociale aux personnes handicapées](chapitre-vi)
 - [Chapitre VII : Aide médicale](chapitre-vii)
-- [Chapitre VIII : Mesure d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale](chapitre-viii)
 - [Chapitre IX : Dispositions concernant les étrangers](chapitre-ix)
 - [Article 124](article-124.md)
 - [Article 124-1](article-124-1.md)
