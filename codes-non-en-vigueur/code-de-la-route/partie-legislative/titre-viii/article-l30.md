@@ -14,6 +14,6 @@ Il est procédé, dans les services de l'Etat et sous l'autorité et le contrôl
 
 6° Des procès-verbaux des infractions mentionnées à l'article L. 11-1 ayant donné lieu au paiement d'une amende forfaitaire ou à l'émission d'un titre exécutoire de l'amende forfaitaire majorée ;
 
-7° De toutes décisions judiciaires à caractère définitif en tant qu'elles portent restriction de validité, suspension, annulation et interdiction de délivrance d'un permis de conduire, ou qu'elles emportent réduction du nombre de points du permis de conduire ;
+7° De toutes décisions judiciaires à caractère définitif en tant qu'elles portent restriction de validité, suspension, annulation et interdiction de délivrance d'un permis de conduire, ou qu'elles emportent réduction du nombre de points du permis de conduire ainsi que de l'exécution d'une composition pénale ;
 
 8° De toute modification du nombre de points affectant un permis de conduire dans les conditions définies aux articles L. 11 et suivants du présent code.
