@@ -1,6 +1,7 @@
 # Section 4 : Dispositions financières.
 
 - [Article D811-53](article-d811-53.md)
+- [Article D811-54](article-d811-54.md)
 - [Article D811-55](article-d811-55.md)
 - [Article D811-56](article-d811-56.md)
 - [Article D811-57](article-d811-57.md)
