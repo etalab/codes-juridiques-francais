@@ -2,3 +2,4 @@
 
 - [Article 363 A](article-363-a.md)
 - [Article 363 B](article-363-b.md)
+- [Article 363 B bis](article-363-b-bis.md)
