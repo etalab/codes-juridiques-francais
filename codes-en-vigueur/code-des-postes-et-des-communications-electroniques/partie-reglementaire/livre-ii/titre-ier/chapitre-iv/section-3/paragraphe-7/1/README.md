@@ -2,4 +2,3 @@
 
 - [Article D343](article-d343.md)
 - [Article D344](article-d344.md)
-- [Article D345](article-d345.md)
