@@ -2,6 +2,7 @@
 
 - [Chapitre 3-1 : Des piscines et baignades](chapitre-3-1)
 - [Chapitre 5-1 : Des radiations ionisantes.](chapitre-5-1)
+- [Chapitre 5-2 : Lutte contre les nuisances sonores individuelles](chapitre-5-2)
 - [CHAPITRE 1 : REGLEMENTS SANITAIRES.](chapitre-1)
 - [Chapitre 2 : Lutte contre les épidémies](chapitre-2)
 - [Chapitre 3 : Des eaux potables](chapitre-3)

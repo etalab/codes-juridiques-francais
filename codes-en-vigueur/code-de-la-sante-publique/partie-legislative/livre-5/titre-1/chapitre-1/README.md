@@ -2,8 +2,11 @@
 
 - [Article L511](article-l511.md)
 - [Article L511-1](article-l511-1.md)
+- [Article L511-2](article-l511-2.md)
+- [Article L511-3](article-l511-3.md)
 - [Article L512](article-l512.md)
 - [Article L512-1](article-l512-1.md)
+- [Article L512-2](article-l512-2.md)
 - [Article L513](article-l513.md)
 - [Article L513-1](article-l513-1.md)
 - [Article L514](article-l514.md)
