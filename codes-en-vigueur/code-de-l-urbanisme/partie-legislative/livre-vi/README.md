@@ -4,4 +4,5 @@
 - [Article L600-2](article-l600-2.md)
 - [Article L600-3](article-l600-3.md)
 - [Article L600-4](article-l600-4.md)
+- [Article L600-4-1](article-l600-4-1.md)
 - [Article L600-5](article-l600-5.md)
