@@ -2,6 +2,7 @@
 
 - [Article R353-70](article-r353-70.md)
 - [Article R353-71](article-r353-71.md)
+- [Article R353-72](article-r353-72.md)
 - [Article R353-73](article-r353-73.md)
 - [Article R353-74](article-r353-74.md)
 - [Article R353-75](article-r353-75.md)

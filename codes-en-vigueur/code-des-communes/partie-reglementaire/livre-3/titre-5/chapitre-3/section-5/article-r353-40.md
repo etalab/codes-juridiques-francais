@@ -4,6 +4,6 @@ Les sergents sont nommés parmi les caporaux et caporaux-chefs titulaires du bre
 
 Pour l'attribution des notes à l'examen de fin du cours, les candidats bénéficient d'une majoration d'un point par année de service dans le grade.
 
-Le jury d'examen est désigné par le conseil d'administration du corps.
+Les membres des jurys d'examen sont désignés par les préfets.
 
 Les sergents parvenus au 6° échelon de leur grade sont nommés au grade de sergent-chef.
