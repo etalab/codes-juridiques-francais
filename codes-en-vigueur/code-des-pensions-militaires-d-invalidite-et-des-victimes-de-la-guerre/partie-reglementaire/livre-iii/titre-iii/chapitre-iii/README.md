@@ -8,7 +8,3 @@
 - [Section 6 : Médaille de la France libérée.](section-6)
 - [Section 7 : Insigne des pères, mères, veuves et veufs des "Morts pour la France".](section-7)
 - [Section 8 : Insigne des victimes civiles.](section-8)
-- [Article R392](article-r392.md)
-- [Article R393](article-r393.md)
-- [Article R394](article-r394.md)
-- [Article R395-1](article-r395-1.md)

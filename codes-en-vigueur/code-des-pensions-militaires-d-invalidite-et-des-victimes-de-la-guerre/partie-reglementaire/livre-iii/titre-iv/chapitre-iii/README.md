@@ -4,4 +4,3 @@
 - [Section 2 : Algérie.](section-2)
 - [Section 3 : Territoires d'outre-mer.](section-3)
 - [Section 4 : Pupilles résidant à l'étranger.](section-4)
-- [Article R563](article-r563.md)
