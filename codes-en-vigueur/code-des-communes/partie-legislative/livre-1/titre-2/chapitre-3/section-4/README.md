@@ -1,4 +1,4 @@
-# SECTION 4 : Régime de retraite des maires et adjoints.
+# SECTION 4 : Retraite des élus municipaux.
 
 - [Article L123-10](article-l123-10.md)
 - [Article L123-11](article-l123-11.md)
