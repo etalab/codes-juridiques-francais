@@ -1,7 +1,7 @@
 # Section 1 : Dispositions générales
 
 - [Sous-section 1 : Temps et heures d'interdiction](sous-section-1)
-- [Sous-section 2 : Taille minimale des poissons.](sous-section-2)
+- [Sous-section 2 : Taille minimale des poissons et des écrevisses.](sous-section-2)
 - [Sous-section 3 : Nombre de captures autorisées, conditions de capture.](sous-section-3)
 - [Sous-section 4 : Procédés et modes de pêche autorisés.](sous-section-4)
 - [Sous-section 5 : Procédés et modes de pêche prohibés.](sous-section-5)
