@@ -8,6 +8,6 @@ a. soit subi une condamnation à une peine afflictive et infamante ou infamante 
 
 b. soit fait l'objet d'un procès-verbal régulier suivi d'une transaction ou d'une condamnation définitive pour fabrication ou transport clandestins d'alcool ;
 
-c. soit fait l'objet d'une condamnation pour ivresse publique ou d'une condamnation en application des articles L234-1, L234-8 et L234-11  du code de la route ;
+c. soit fait l'objet d'une condamnation pour ivresse publique ou d'une condamnation en application des articles L. 234-1 et L. 234-8 du code de la route.
 
 d. soit fait l'objet d'une condamnation en application de l'article 312 du code pénal ou d'une mesure de déchéance ou du retrait du droit de garde en application des articles 1er et 2 de la loi du 24 juillet 1889 sur la protection des enfants maltraités ou moralement abandonnés.

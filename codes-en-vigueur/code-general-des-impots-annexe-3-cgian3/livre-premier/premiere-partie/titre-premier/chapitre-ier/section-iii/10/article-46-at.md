@@ -32,6 +32,6 @@ d) Fait l'objet à la date de son retrait de la circulation :
 
 e) N'est pas gagé ;
 
-f) N'est pas économiquement irréparable au sens des articles L. 326-10 et L. 326-11 du code de la route.
+f) N'est pas économiquement irréparable au sens des articles L. 327-1 et L. 327-2 du code de la route.
 
 IV. - La destruction d'un véhicule répondant aux conditions énoncées au III, réalisée conformément aux dispositions du I, et l'acquisition ou la première souscription d'un contrat de location avec option d'achat ou de location souscrit pour une durée d'au moins deux ans d'un véhicule répondant aux conditions énoncées au II sont concomitantes.
