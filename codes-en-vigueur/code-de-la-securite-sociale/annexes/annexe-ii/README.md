@@ -58,6 +58,7 @@
 - [Article Annexe II : Tableau n° 28](article-annexe-ii-tableau-no-28.md)
 - [Article Annexe II : Tableau n° 29](article-annexe-ii-tableau-no-29.md)
 - [Article Annexe II : Tableau n° 32](article-annexe-ii-tableau-no-32.md)
+- [Article Annexe II : Tableau n° 34](article-annexe-ii-tableau-no-34.md)
 - [Article Annexe II : Tableau n° 37 TER](article-annexe-ii-tableau-no-37-ter.md)
 - [Article Annexe II : Tableau n° 39](article-annexe-ii-tableau-no-39.md)
 - [Article Annexe II : Tableau n° 46](article-annexe-ii-tableau-no-46.md)
