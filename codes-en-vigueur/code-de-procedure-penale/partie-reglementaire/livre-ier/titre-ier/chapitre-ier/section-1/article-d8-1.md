@@ -10,7 +10,7 @@ Les offices centraux de police judiciaire relevant de l'article R. 15-18 sont le
 
 4° Office central pour la répression du banditisme ;
 
-5° Office central pour la répression du vol d'oeuvres et objets d'art ;
+5° Office central de lutte contre le trafic des biens culturels ;
 
 6° Office central pour la répression du trafic des armes, des munitions, des produits explosifs et des matières nucléaires, biologiques et chimiques ;
 
