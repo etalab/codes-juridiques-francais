@@ -26,4 +26,6 @@ II. - Lorsque, dans les limites ainsi définies, et dans le cadre des attributio
 
 La convention prévoit la création d'une commission composée d'un ou de plusieurs représentants des collectivités territoriales concernées et de l'Office national des forêts qui se prononce, pour chaque projet, sur les commandes passées par l'Office national des forêts à des prestataires dans le cadre des missions qui lui sont confiées par des collectivités publiques par voie de convention.
 
-Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+III. - L'Office national des forêts peut, dans le cadre des missions confiées aux maisons des services au public prévues à l'article 27 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations, contribuer, en zone de revitalisation rurale, au maintien de services au public ne relevant pas de ses compétences.
+
+IV. - Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
