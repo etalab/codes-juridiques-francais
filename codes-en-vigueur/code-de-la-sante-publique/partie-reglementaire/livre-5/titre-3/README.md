@@ -7,4 +7,3 @@
 - [Chapitre 6 : Thermomètres médicaux.](chapitre-6)
 - [Chapitre 7 : Biberons à tube et tétines.](chapitre-7)
 - [Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact.](chapitre-9)
-- [Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.](chapitre-1er-bis)
