@@ -1,3 +1,0 @@
-# NULLITE DES DELIBERATIONS
-
-- [DELIBERATIONS NULLES DE  DROIT .](deliberations-nulles-de-droit)
