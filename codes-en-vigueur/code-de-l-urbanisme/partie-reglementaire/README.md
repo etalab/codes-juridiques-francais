@@ -5,7 +5,6 @@
 - [Livre III : Aménagement foncier.](livre-iii)
 - [LIVRE IV : Règles générales à l'acte de construire et à divers modes d'utilisation du sol](livre-iv)
 - [Livre V : Implantation des services, établissements et entreprises](livre-v)
-- [Droit de préemption Zones à urbaniser par priorité.](droit-de-preemption-zones-a)
 - [Règles relatives à l'acte de construire et à divers modes d'utilisation](regles-relatives-a)
 - [Aménagement foncier](amenagement-foncier)
 - [Aménagement foncier Dispositions financières](amenagement-foncier-dispositions-financieres)
