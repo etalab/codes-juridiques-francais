@@ -14,5 +14,6 @@
 - [Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat.](convention-type-conclue-entre-l-etat-et-m-ou)
 - [Document prévu par l'article 1er de la présente convention.](document-prevu-par)
 - [Engagements de portée générale prévus par les annexes I et II à l'article R. 353-1.](engagements-de-portee-generale-prevus-par)
+- [Clauses types de la convention de garantie fixées en application de l'article R. 453-8.](clauses-types-de-la-convention-de-garantie-fixees-en-application-de-l-article-r)
 - [Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11.](normes-minimales-d-habitabilite-des-logements-vendus-en-application-de-l-article-r)
 - [Statuts types des sociétés anonymes de crédit immobilier.](statuts-types-des-societes-anonymes-de-credit-immobilier)

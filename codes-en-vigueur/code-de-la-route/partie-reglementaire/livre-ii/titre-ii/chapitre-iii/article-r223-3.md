@@ -1,6 +1,6 @@
 # Article R223-3
 
-I. - Lors de la constatation d'une infraction, l'auteur de celle-ci est informé que cette infraction est susceptible d'entraîner le retrait d'un certain nombre de points si elle est constatée par le paiement d'une amende forfaitaire ou par une condamnation définitive.
+I. - Lors de la constatation d'une infraction, l'auteur de celle-ci est informé que cette infraction est susceptible d'entraîner le retrait d'un certain nombre de points si sa réalité est établie dans les conditions prévues à l'article L. 223-1.
 
 II. - Il est informé également de l'existence d'un traitement automatisé des retraits et reconstitutions de points et de la possibilité pour lui d'accéder aux informations le concernant. Ces mentions figurent sur le document qui lui est remis par l'agent verbalisateur ou communiqué par les services de police ou de gendarmerie. Le droit d'accès aux informations ci-dessus mentionnées s'exerce dans les conditions fixées par les articles L. 225-1 à L. 225-9.
 

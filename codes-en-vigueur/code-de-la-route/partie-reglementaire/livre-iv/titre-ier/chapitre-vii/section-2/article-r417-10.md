@@ -6,6 +6,8 @@ II. - Est considéré comme gênant la circulation publique, l'arrêt ou le stat
 
 1° Sur les trottoirs, les passages ou accotements réservés à la circulation des piétons ;
 
+1° bis Sur les bandes et pistes cyclables ainsi qu'en bordure des bandes cyclables ;
+
 2° Sur les emplacements réservés à l'arrêt ou au stationnement des véhicules de transport public de voyageurs, des taxis ou des véhicules affectés à un service public ;
 
 3° Entre le bord de la chaussée et une ligne continue lorsque la largeur de la voie restant libre entre cette ligne et le véhicule ne permet pas à un autre véhicule de circuler sans franchir ou chevaucher la ligne ;
