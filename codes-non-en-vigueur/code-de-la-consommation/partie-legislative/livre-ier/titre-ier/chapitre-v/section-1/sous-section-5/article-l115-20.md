@@ -6,4 +6,4 @@ Après avis des syndicats de défense intéressés, l'Institut national des appe
 
 Il donne son avis sur les dispositions nationales relatives à l'étiquetage et à la présentation de chacun des produits relevant de sa compétence. Il peut être consulté sur toute autre question relative aux appellations d'origine.
 
-Il contribue à la promotion et à la défense de ces appellations d'origine en France et à l'étranger.
+Il contribue, en France et à l'étranger, à la promotion et à la défense des appellations d'origine mentionnées dans la présente section, ainsi qu'à la défense des appellations d'origine protégées et des indications géographiques protégées mentionnées à la section III du présent chapitre.
