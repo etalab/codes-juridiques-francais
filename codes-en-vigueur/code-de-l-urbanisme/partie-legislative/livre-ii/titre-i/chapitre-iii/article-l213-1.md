@@ -10,7 +10,7 @@ En cas de contrat de location-accession régi par les dispositions de la loi n°
 
 Ne sont pas soumis au droit de préemption :
 
-a) Les immeubles construits ou acquis par les organismes visés à l'article L. 411-2 du code de la construction et de l'habitation et qui sont leur propriété, ainsi que les immeubles construits par les sociétés coopératives d'habitations à loyer modéré de location-attribution :
+a) Les immeubles construits ou acquis par les organismes visés à l'article L. 411-2 du code de la construction et de l'habitation et qui sont leur propriété, ainsi que les immeubles construits par les sociétés coopératives d'habitations à loyer modéré de location-attribution ;
 
 b) Les immeubles qui font l'objet d'un contrat de vente d'immeuble à construire dans les conditions prévues par les articles 1601-1 et suivants du code civil, sauf lorsque ces dispositions sont appliquées à des bâtiments existants ;
 
@@ -18,6 +18,6 @@ c) Les parts ou actions de sociétés d'attribution visées aux titres II et III
 
 d) Les immeubles cédés au locataire en exécution de la promesse de vente insérée dans un contrat de crédit-bail immobilier conclu en application du 2° de l'article premier de la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le crédit-bail, modifiée par l'ordonnance n° 67-837 du 28 septembre 1967 relative aux opérations de crédit-bail et aux sociétés immobilières pour le commerce et l'industrie, avec l'une des entreprises visées à l'article 2 de la même loi ;
 
-e) Les immeubles qui font l'objet d'une mise en demeure d'acquérir en application des articles L. 111-10, L. 123-2, L123-17 ou L. 311-2 du présent code ou de l'article L. 11-7 du code de l'expropriation pour cause d'utilité publique.
+e) Les immeubles qui font l'objet d'une mise en demeure d'acquérir en application des articles L. 111-10, L. 123-2, L123-17 ou L. 311-2 du présent code ou de l'article L. 11-7 du code de l'expropriation pour cause d'utilité publique ;
 
-f) Dans les communes où l'ensemble des logements locatifs sociaux au sens du 3° de l'article L. 234-10 du code des communes représente moins de 20 p. 100 des résidences principales, les immeubles dont l'aliénation est agréée par le représentant de l'Etat dans le département en vue d'accroître l'offre de logements sociaux.
+f) Pendant la durée d'application d'un arrêté préfectoral pris sur le fondement de l'article L. 302-9-1 du code de la construction et de l'habitation, l'aliénation d'un immeuble ou d'un terrain destiné à être affecté à une opération ayant fait l'objet de la convention prévue au même article.
