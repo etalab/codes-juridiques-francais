@@ -1,6 +1,6 @@
 # Article R555-4
 
-Sont punis d'une amende de 600 à 1000 F :
+Sont punis d'une amende de 1200 à 3000 F :
 
 - ceux qui ont vendu, mis en vente, exposé ou détenu en vue de la vente ou cédé à titre gratuit des parties de plantes ou les plants qui en sont issus, n'appartenant pas à un clone inscrit au catalogue des espèces et variétés de plantes cultivées ;
 

@@ -1,6 +1,6 @@
 # Article R331-4
 
-Quiconque arrache des plants dans les bois et forêts est puni d'une amende de 1000 à 2000 F.
+Quiconque arrache des plants dans les bois et forêts est puni d'une amende de 3000 à 6000 F.
 
 Il peut en outre être prononcé un emprisonnement de dix jours à un mois.
 

@@ -1,6 +1,6 @@
 # Article R223-1
 
-Une amende de 160 à 600 F est prononcée contre le propriétaire du fonds :
+Une amende de 600 à 1200 F est prononcée contre le propriétaire du fonds :
 
 1° En cas de coupe non conforme aux dispositions de l'article L. 222-1 ou des alinéas 1er, 2 et 3 de l'article L. 222-2, ou non autorisée conformément à l'article L. 222-4 ;
 

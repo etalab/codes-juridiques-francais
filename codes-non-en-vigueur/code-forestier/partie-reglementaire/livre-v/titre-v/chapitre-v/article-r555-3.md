@@ -1,6 +1,6 @@
 # Article R555-3
 
-Sont punis d'une amende de 600 à 2000 F :
+Sont punis d'une amende de 1200 à 3000 F :
 
 - ceux qui ont vendu, mis en vente, exposé ou détenu en vue de la vente ou cédé à titre gratuit des semences récoltées en dehors des peuplements classés ou des plants issus de telles semences ;
 
