@@ -2,7 +2,9 @@
 
 1. Le président de la commission peut prescrire toutes auditions de personne, recherche ou analyses qu'il juge utiles à l'instruction de l'affaire.
 
-2. Après examen de mémoires éventuellement produits et après avoir convoqué le parties ou leurs représentants pour être entendus, ensemble et contradictoirement, dans leurs observations, la commission, à moins d'accord entre les parties, fixe un délai au terme duquel, après avoir délibéré, elle fait connaître ses conclusions qui sont prises à la majorité de ses membres.
+Lorsque la contestation ne porte pas sur l'espèce, l'origine ou la valeur des marchandises, le président constate, par une décision non susceptible de recours, l'incompétence de la commission.
+
+2. Après examen de mémoires éventuellement produits et après avoir convoqué les parties ou leurs représentants pour être entendus, ensemble et contradictoirement, dans leurs observations, la commission, à moins d'accord entre les parties, fixe un délai au terme duquel, après avoir délibéré, elle fait connaître ses conclusions qui sont prises à la majorité de ses membres.
 
 3. Lorsque les parties sont tombées d'accord avant l'expiration du délai prévu au 2 du présent article, la commission leur donne acte de cet accord en précisant son contenu.
 

@@ -26,6 +26,8 @@ Pour les actions acquises avant le 1er janvier 1990, le prix d'acquisition est r
 
 5. En cas de vente ultérieure de titres reçus à l'occasion d'une opération d'offre publique, de fusion, de scission, d'absorption d'un fonds commun de placement par une société d'investissement à capital variable, de conversion, de division ou de regroupement, réalisée conformément à la réglementation en vigueur, le gain net est calculé à partir du prix ou de la valeur d'acquisition des titres échangés.
 
+Ces dispositions cessent de s'appliquer aux ventes de titres reçus à l'occasion d'une opération d'offre publique, de fusion, de scission ou d'absorption d'un fonds commun de placement par une société d'investissement à capital variable réalisée à compter du 1er janvier 1992.
+
 5 bis. En cas d'absorption d'une société d'investissement à capital variable par un fonds commun de placement réalisée conformément à la réglementation en vigueur, les gains nets résultant de la cession ou du rachat des parts reçues en échange ou de la dissolution du fonds absorbant sont réputés être constitués par la différence entre le prix effectif de cession ou de rachat des parts reçues en échange, net des frais et taxes acquittés par le cédant, et le prix de souscription ou d'achat des actions de la société d'investissement à capital variable absorbée remises à l'échange.
 
 6. Les pertes subies au cours d'une année sont imputables exclusivement sur les gains de même nature réalisés au cours de la même année ou des cinq années suivantes.
