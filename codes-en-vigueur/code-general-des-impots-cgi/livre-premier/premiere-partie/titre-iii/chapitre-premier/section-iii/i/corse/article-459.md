@@ -4,4 +4,4 @@ Les titres de mouvement destinés, en vertu des articles 443, 445 et 445 A, à l
 
 Les transports de vin ou de vendanges effectués en totalité à l'intérieur des départements de Corse, en exonération du droit de circulation, doivent être accompagnés de titres de mouvement spéciaux délivrés par les services de la direction générale des impôts.
 
-Les titres de mouvement établis pour les vins en provenance de Corse accompagnés de certificats d'origine, délivrés par les services de la viticulture de la direction générale des impôts en Corse, doivent reproduire l'appellation d'origine attribuée à ces vins.
+[**] Les titres de mouvement établis pour les vins en provenance de Corse accompagnés de certificats d'origine, délivrés par l'administration en Corse, doivent reproduire l'appellation d'origine attribuée à ces vins.[**]
