@@ -2,4 +2,3 @@
 
 - [Chapitre Ier : Enseignement à titre onéreux.](chapitre-ier)
 - [Chapitre II : Etablissements d'enseignement à titre onéreux.](chapitre-ii)
-- [Article L29](article-l29.md)
