@@ -60,7 +60,6 @@
 - [Article 826](article-826.md)
 - [Article 827](article-827.md)
 - [Article 828](article-828.md)
-- [Article 829](article-829.md)
 - [Article 830](article-830.md)
 - [Article 831](article-831.md)
 - [Article 832](article-832.md)

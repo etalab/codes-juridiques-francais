@@ -1,5 +1,4 @@
 # DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS ET AUX TAXES SUR LE CHIFFRE D'AFFAIRES
 
-- [Article 1378 quater](article-1378-quater.md)
 - [DETERMINATION DU PRIX DE REVIENT DES TERRAINS OU ENSEMBLES IMMOBILIERS.](determination-du-prix-de-revient-des-terrains-ou)
 - [RECEPISSE DE CONSIGNATION.](recepisse-de-consignation)

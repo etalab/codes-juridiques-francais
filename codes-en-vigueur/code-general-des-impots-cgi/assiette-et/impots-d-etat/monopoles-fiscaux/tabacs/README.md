@@ -1,6 +1,5 @@
 # TABACS
 
-- [Article 566](article-566.md)
 - [Article 568](article-568.md)
 - [Article 570](article-570.md)
 - [Article 575 I](article-575-i.md)

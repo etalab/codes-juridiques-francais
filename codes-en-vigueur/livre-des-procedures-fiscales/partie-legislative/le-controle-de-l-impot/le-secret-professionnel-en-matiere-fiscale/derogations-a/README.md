@@ -1,7 +1,6 @@
 # DEROGATIONS A LA REGLE DU SECRET PROFESSIONNEL.
 
 - [Article L116](article-l116.md)
-- [Article L120](article-l120.md)
 - [Article L134 A](article-l134-a.md)
 - [Article L139](article-l139.md)
 - [Article L145](article-l145.md)
