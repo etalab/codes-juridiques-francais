@@ -34,4 +34,6 @@ Les recettes du budget de la communauté urbaine comprennent :
 
 16. Le produit des participations aux dépenses d'équipement publics à la charge des bénéficiaires d'autorisations de construire en vertu des dispositions de l'article L. 332-9  du code de l'urbanisme.
 
+17. La participation à la diversité de l'habitat prévue à l'article L. 332-17 du code de l'urbanisme.
+
 (1) Voir également l'article 1609 bis du code général des impôts.
