@@ -1,5 +1,5 @@
 # Article 247
 
-Le comité consultatif de règlement amiable doit faire connaître son avis dans un délai de six mois, compté à partir de la notification, au titulaire du marché, de la décision du ministre de saisir le comité. Ce délai peut toutefois être prolongé par décision motivée du président du comité.
+Conformément à l'article 69 de la loi du 17 avril 1906 portant fixation du budget général des dépenses et des recettes de l'exercice 1906, l'Etat peut, pour la liquidation de ses dépenses de travaux et de fournitures, recourir à l'arbitrage tel qu'il est réglé par le livre III du code de procédure civile.
 
-L'avis du comité consultatif est un document d'ordre intérieur et confidentiel. Il ne peut être produit ni utilisé par les parties devant les tribunaux.
+Toutefois ce recours doit être autorisé par un décret rendu en conseil des ministres et contresigné par le ministre compétent et le ministre de l'économie et des finances.
