@@ -6,3 +6,5 @@
 - [Article L8 B](article-l8-b.md)
 - [Article L9](article-l9.md)
 - [Article L9-1](article-l9-1.md)
+- [Article L9-2](article-l9-2.md)
+- [Article L9-3](article-l9-3.md)
