@@ -3,6 +3,7 @@
 - [Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées](chapitre-iii-1)
 - [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer.](chapitre-iii-2)
 - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.](chapitre-iv-1)
+- [Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.](chapitre-iv-2)
 - [Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration.](chapitre-ier)
 - [Chapitre II : Assurances sociales](chapitre-ii)
 - [Chapitre III : Prestations familiales](chapitre-iii)
