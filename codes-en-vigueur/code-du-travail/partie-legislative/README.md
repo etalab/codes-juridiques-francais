@@ -1,7 +1,6 @@
 # Partie législative ancienne
 
 - [FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE .](formation-professionnelle-continue-dans-le-cadre-de-l-education-permanente)
-- [LIVRE 1 : CONVENTIONS RELATIVES AU TRAVAIL](livre-1)
 - [Livre Ier : Conventions relatives au travail](livre-ier)
 - [Livre II : Réglementation du travail](livre-ii)
 - [Livre 3 : PLACEMENT ET EMPLOI](livre-3)

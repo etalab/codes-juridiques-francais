@@ -1,3 +1,0 @@
-# Article 357
-
-Quand il aura été statué sur la garde d'un mineur par une décision de justice, provisoire ou définitive, ou par une convention judiciairement homologuée, le père, la mère, ou toute personne qui ne représentera par ce mineur à ceux qui ont le droit de le réclamer ou qui, même sans fraude ou violence l'enlèvera ou le détournera ou le fera enlever ou détourner des mains de ceux auxquels sa garde aura été confiée, ou des lieux où ces derniers l'auront placé, sera puni d'un emprisonnement d'un mois à un an [*sanction, durée*], et d'une amende de 500 F à 30.000 F [*montant*]. Si le coupable a été déclaré déchu de l'autorité parentale, l'emprisonnement pourra être élevé jusqu'à trois ans.
