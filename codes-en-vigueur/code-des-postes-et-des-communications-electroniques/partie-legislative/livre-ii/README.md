@@ -1,4 +1,4 @@
-# LIVRE II : Le service des télécommunications
+# LIVRE II : Les télécommunications
 
 - [TITRE Ier : Dispositions générales](titre-ier)
 - [TITRE II : Etablissement et entretien des lignes et des installations de télécommunications.](titre-ii)
