@@ -1,4 +1,4 @@
-# Section 1 : Interdiction et réglementation des plantations et des semis d'essences forestières.
+# Section 1 : L'interdiction et la réglementation des semis, plantations et replantations d'essences forestières.
 
 - [Article R*126-1](article-r-126-1.md)
 - [Article R*126-2](article-r-126-2.md)
@@ -11,3 +11,4 @@
 - [Article R*126-9](article-r-126-9.md)
 - [Article R*126-10](article-r-126-10.md)
 - [Article R*126-10-1](article-r-126-10-1.md)
+- [Article R126-10-1](article-r126-10-1.md)
