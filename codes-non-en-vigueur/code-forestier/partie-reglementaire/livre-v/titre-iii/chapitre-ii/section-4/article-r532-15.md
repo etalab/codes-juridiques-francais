@@ -1,6 +1,6 @@
 # Article R532-15
 
-Les prêts en numéraire prévus par le c du 1° de l'article R. 532-1 peuvent être accordés pour permettre l'exécution des opérations suivantes :
+Les prêts en numéraire prévus par le c du 1° de l'article R. 532-1 peuvent être accordés par le préfet de région pour permettre l'exécution des opérations suivantes :
 
 1° Travaux de reconstitution, d'amélioration et d'extension forestières, y compris les travaux connexes et les travaux d'entretien indispensables à leur réussite, réalisés dans un délai de quatre ans à compter du 31 décembre de l'année de la décision accordant le prêt ;
 
