@@ -1,3 +1,3 @@
 # Article D511-8
 
-Le directeur de l'Institut national de la consommation participe de droit aux travaux du Conseil national de la consommation. Il peut se faire représenter.
+Participent de plein droit aux travaux du Conseil national de la consommation les représentants des organismes dont la liste est fixée par arrêté du ministre chargé de la consommation.
