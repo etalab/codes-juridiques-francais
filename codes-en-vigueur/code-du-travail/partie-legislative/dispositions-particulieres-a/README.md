@@ -5,7 +5,6 @@
 - [ARTISTES, AUTEURS, COMPOSITEURS, GENS DE LETTRES](artistes-auteurs-compositeurs-gens-de-lettres)
 - [ASSISTANCES MATERNELLES](assistances-maternelles)
 - [ASSISTANTES MATERNELLES.](assistantes-maternelles)
-- [BATIMENTS ET TRAVAUX PUBLICS](batiments-et)
 - [CONCIERGES ET EMPLOYES D'IMMEUBLES A USAGE D'HABITATION .](concierges-et)
 - [TRANSPORTS ET TELECOMMUNICATIONS](transports-et)
 - [VOYAGEURS, REPRESENTANTS ET PLACIERS *VRP* .](voyageurs-representants-et)
