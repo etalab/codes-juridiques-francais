@@ -1,9 +1,5 @@
 # Article A132-10
 
-A partir de l'exercice 1977, la quote-part des commissions et autres charges à inscrire en dépenses du compte technique mentionné à l'article A. 132-3 est établie en comparant les dépenses réelles afférentes aux contrats visés à l'article A. 132-1 avec une norme de dépenses définie à l'article A. 132-11.
+Le montant des participations aux bénéfices des assurés peut être affecté directement aux provisions mathématiques ou porté, partiellement ou totalement, à la provision pour participation aux excédents mentionnée à l'article R. 331-3. Les sommes portées à cette dernière provision sont affectées à la provision mathématique ou versées aux assurés au cours des cinq exercices suivant celui au titre duquel elles ont été portées à la provision pour participation aux excédents.
 
-Les dépenses réelles et la norme de dépenses sont calculées brutes de réassurance. Jusqu'au 31 décembre 1984, elles sont diminuées du montant des commissions de réassurance comptabilisées en recettes de l'exercice.
-
-Si les dépenses réelles sont inférieures à la norme de dépenses, l'entreprise porte dans le compte technique la moitié de la somme des dépenses réelles et de la norme de dépenses.
-
-Si les dépenses réelles excèdent la norme de dépenses, l'entreprise porte dans le compte technique le montant de la norme de dépenses majoré du tiers de l'excédent des dépenses réelles par rapport à la norme.
+Les sommes figurant à la clôture des comptes de l'exercice 1981 à la provision pour participation aux excédents mentionnée à l'article R. 331-3 sont affectées à la provision mathématique ou versées aux assurés au plus tard le 31 décembre 1986, date à laquelle sont arrêtés les comptes relatifs à cet exercice.
