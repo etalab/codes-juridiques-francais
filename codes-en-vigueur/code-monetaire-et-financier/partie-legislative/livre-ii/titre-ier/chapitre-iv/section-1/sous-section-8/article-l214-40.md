@@ -16,7 +16,7 @@ Le conseil de surveillance décide de l'apport des titres aux offres d'achat ou 
 
 Le conseil de surveillance est chargé notamment de l'examen de la gestion financière, administrative et comptable du fonds. Il peut demander à entendre la société de gestion, le dépositaire et le commissaire aux comptes du fonds qui sont tenus de déférer à sa convocation. Il décide des fusions, scissions ou liquidations. Le règlement du fonds précise les transformations et les modifications du règlement qui ne peuvent être décidées sans l'accord du conseil de surveillance. Sans préjudice des compétences de la société de gestion mentionnées à l'article L. 214-25 et de celles du liquidateur prévues à l'article L. 214-31, le conseil de surveillance peut agir en justice pour défendre ou faire valoir les droits ou intérêts des porteurs.
 
-Le conseil de surveillance adopte un rapport annuel mis à la disposition de chaque porteur de parts et dont le contenu est précisé par un règlement de la Commission des opérations de bourse. Il s'assure de la diffusion régulière par l'entreprise de l'information aux porteurs de parts.
+Le conseil de surveillance adopte un rapport annuel mis à la disposition de chaque porteur de parts et dont le contenu est précisé par un règlement de l'Autorité des marchés financiers. Il s'assure de la diffusion régulière par l'entreprise de l'information aux porteurs de parts.
 
 Les porteurs de parts peuvent opter pour un rachat en espèces des parts du fonds.
 

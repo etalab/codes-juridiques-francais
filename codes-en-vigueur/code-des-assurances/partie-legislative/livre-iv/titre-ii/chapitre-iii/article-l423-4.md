@@ -12,8 +12,8 @@ Les décisions du conseil de surveillance sont prises à la majorité simple. Ch
 
 Le directoire est composé de trois membres nommés par le conseil de surveillance, qui confère à l'un d'eux la qualité de président. Les membres du directoire ne peuvent exercer en même temps des fonctions au sein des entreprises adhérentes au fonds de garantie, ni recevoir de rétribution de l'une d'elles. Son président ne peut exercer ses fonctions qu'après agrément du ministre chargé de l'économie.
 
-Le ministre chargé de l'économie ou son représentant ainsi que le président de la Commission de contrôle des assurances ou son représentant peuvent, à leur demande, être entendus par le conseil de surveillance et le directoire.
+Le ministre chargé de l'économie ou son représentant ainsi que le président de la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance ou son représentant peuvent, à leur demande, être entendus par le conseil de surveillance et le directoire.
 
-La Commission de contrôle des assurances entend le président du directoire du fonds de garantie pour toute question concernant une entreprise d'assurance pour laquelle elle envisage de mettre en oeuvre les dispositions du présent chapitre.
+La Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance entend le président du directoire du fonds de garantie pour toute question concernant une entreprise d'assurance pour laquelle elle envisage de mettre en oeuvre les dispositions du présent chapitre.
 
-Le président du directoire est également entendu, à sa demande, par la Commission de contrôle des assurances.
+Le président du directoire est également entendu, à sa demande, par la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance.

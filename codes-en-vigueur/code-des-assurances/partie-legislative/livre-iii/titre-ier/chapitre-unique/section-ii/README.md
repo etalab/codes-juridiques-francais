@@ -9,7 +9,6 @@
 - [Article L310-17](article-l310-17.md)
 - [Article L310-18](article-l310-18.md)
 - [Article L310-18-1](article-l310-18-1.md)
-- [Article L310-18-2](article-l310-18-2.md)
 - [Article L310-19](article-l310-19.md)
 - [Article L310-19-1](article-l310-19-1.md)
 - [Article L310-20](article-l310-20.md)

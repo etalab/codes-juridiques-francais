@@ -1,6 +1,6 @@
 # Article L312-16
 
-Un règlement du comité de la réglementation bancaire et financière précise :
+Un arrêté du ministre chargé de l'économie précise :
 
 1. Le plafond d'indemnisation par déposant, les modalités et délais d'indemnisation ainsi que les règles relatives à l'information de la clientèle ;
 
@@ -16,4 +16,4 @@ Un règlement du comité de la réglementation bancaire et financière précise 
 
 7. Les conditions et les modalités de nomination des membres du conseil de surveillance, ainsi que la durée de leur mandat.
 
-Ce règlement ne peut être modifié qu'après avis du président du directoire du fonds de garantie des dépôts.
+Cet arrêté ne peut être modifié qu'après avis du président du directoire du fonds de garantie des dépôts.

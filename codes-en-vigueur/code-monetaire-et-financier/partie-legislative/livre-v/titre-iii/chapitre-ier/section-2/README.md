@@ -5,3 +5,4 @@
 - [Article L531-6](article-l531-6.md)
 - [Article L531-7](article-l531-7.md)
 - [Article L531-8](article-l531-8.md)
+- [Article L531-9](article-l531-9.md)

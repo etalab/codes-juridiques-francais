@@ -1,14 +1,6 @@
 # Section 5 : Du contrôle des sociétés anonymes.
 
 - [Article L225-218](article-l225-218.md)
-- [Article L225-219](article-l225-219.md)
-- [Article L225-220](article-l225-220.md)
-- [Article L225-221](article-l225-221.md)
-- [Article L225-222](article-l225-222.md)
-- [Article L225-223](article-l225-223.md)
-- [Article L225-224](article-l225-224.md)
-- [Article L225-225](article-l225-225.md)
-- [Article L225-226](article-l225-226.md)
 - [Article L225-227](article-l225-227.md)
 - [Article L225-228](article-l225-228.md)
 - [Article L225-229](article-l225-229.md)

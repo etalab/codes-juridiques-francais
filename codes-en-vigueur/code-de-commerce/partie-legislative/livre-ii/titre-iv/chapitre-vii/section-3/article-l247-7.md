@@ -8,8 +8,6 @@ Est puni des peines prévues à l'article L. 247-6, au cas où la liquidation d'
 
 3° (supprimé) ;
 
-4° De ne pas convoquer au moins une fois par an les associés pour leur rendre des comptes annuels, en cas de continuation de l'exploitation sociale ;
-
-5° De continuer d'exercer ses fonctions à l'expiration de son mandat, sans en demander le renouvellement ;
+4° et 5° : Paragraphes abrogés.
 
 6° De ne pas déposer à un compte ouvert dans un établissement de crédit au nom de la société en liquidation, dans le délai de quinze jours à compter de la décision de répartition, les sommes affectées aux répartitions entre les associés et les créanciers, ou de ne pas déposer à la Caisse des dépôts et consignations, dans le délai d'un an à compter de la clôture de la liquidation, les sommes attribuées à des créanciers ou à des associés et non réclamées par eux.

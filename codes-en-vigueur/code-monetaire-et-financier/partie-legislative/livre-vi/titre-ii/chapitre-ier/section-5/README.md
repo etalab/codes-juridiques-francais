@@ -4,6 +4,3 @@
 - [Article L621-23](article-l621-23.md)
 - [Article L621-24](article-l621-24.md)
 - [Article L621-25](article-l621-25.md)
-- [Article L621-26](article-l621-26.md)
-- [Article L621-26-1](article-l621-26-1.md)
-- [Article L621-27](article-l621-27.md)

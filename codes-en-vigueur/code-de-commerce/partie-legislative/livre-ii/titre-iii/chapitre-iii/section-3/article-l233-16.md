@@ -8,7 +8,7 @@ II. - Le contrôle exclusif par une société résulte :
 
 2° Soit de la désignation, pendant deux exercices successifs, de la majorité des membres des organes d'administration, de direction ou de surveillance d'une autre entreprise. La société consolidante est présumée avoir effectué cette désignation lorsqu'elle a disposé au cours de cette période, directement ou indirectement, d'une fraction supérieure à 40 % des droits de vote, et qu'aucun autre associé ou actionnaire ne détenait, directement ou indirectement, une fraction supérieure à la sienne ;
 
-3° Soit du droit d'exercer une influence dominante sur une entreprise en vertu d'un contrat ou de clauses statutaires, lorsque le droit applicable le permet et que la société dominante est actionnaire ou associée de cette entreprise.
+3° Soit du droit d'exercer une influence dominante sur une entreprise en vertu d'un contrat ou de clauses statutaires, lorsque le droit applicable le permet. (1)
 
 III. - Le contrôle conjoint est le partage du contrôle d'une entreprise exploitée en commun par un nombre limité d'associés ou d'actionnaires, de sorte que les décisions résultent de leur accord.
 

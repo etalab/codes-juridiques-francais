@@ -7,4 +7,3 @@
 - [Sous-section 4 : Assemblée générale](sous-section-4)
 - [Sous-section 5 : Dispositions comptables](sous-section-5)
 - [Sous-section 6 : Fusion](sous-section-6)
-- [Sous-section 7 : Contrôle.](sous-section-7)
