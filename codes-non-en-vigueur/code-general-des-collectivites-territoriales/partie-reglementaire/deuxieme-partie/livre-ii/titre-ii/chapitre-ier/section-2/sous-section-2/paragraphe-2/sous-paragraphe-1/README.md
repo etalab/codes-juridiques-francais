@@ -6,5 +6,4 @@
 - [Article R2221-38](article-r2221-38.md)
 - [Article R2221-39](article-r2221-39.md)
 - [Article R2221-40](article-r2221-40.md)
-- [Article R2221-41](article-r2221-41.md)
 - [Article R2221-42](article-r2221-42.md)

@@ -10,4 +10,6 @@ Le directeur assure, sous l'autorité et le contrôle du président du conseil d
 
 4° Il peut faire assermenter certains agents nommés par lui et agréés par le haut-commissaire ;
 
-5° Il est l'ordonnateur de la régie et, à ce titre, prescrit l'exécution des recettes et des dépenses.
+5° Il est l'ordonnateur de la régie et, à ce titre, prescrit l'exécution des recettes et des dépenses ;
+
+6° Il prend les décisions pour lesquelles il a reçu délégation en vertu des dispositions du c de l'article L. 2221-5-1 du code général des collectivités territoriales.

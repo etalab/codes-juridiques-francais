@@ -4,4 +4,3 @@
 - [Article R323-34](article-r323-34.md)
 - [Article R323-35](article-r323-35.md)
 - [Article R323-36](article-r323-36.md)
-- [Article R323-37](article-r323-37.md)
