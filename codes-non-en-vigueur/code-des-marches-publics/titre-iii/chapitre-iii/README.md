@@ -2,7 +2,6 @@
 
 - [Section 1 : Organisation de la publicité.](section-1)
 - [Section 2 : Information des candidats.](section-2)
-- [Section 3 : Conditions d'accès à la commande publique relatives à la situation fiscale et sociale des candidats ou aux difficultés des entreprises.](section-3)
 - [Section 4 : Présentation des candidatures.](section-4)
 - [Section 5 : Présentation des offres.](section-5)
 - [Section 6 : Les groupements des candidatures ou des offres.](section-6)
