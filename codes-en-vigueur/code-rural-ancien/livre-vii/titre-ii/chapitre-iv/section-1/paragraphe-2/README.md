@@ -6,3 +6,4 @@
 - [Article 1122-1](article-1122-1.md)
 - [Article 1122-2](article-1122-2.md)
 - [Article 1122-2-1](article-1122-2-1.md)
+- [Article 1122-2-2](article-1122-2-2.md)
