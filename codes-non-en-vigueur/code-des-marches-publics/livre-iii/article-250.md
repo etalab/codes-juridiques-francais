@@ -4,4 +4,4 @@ Sauf les exceptions prévues par l'article 321 les marchés sont des contrats é
 
 Ils sont passés après mise en concurrence dans les conditions et sous les réserves prévues au titre Ier suivant.
 
-Les marchés doivent être conclus avant tout commencement d'exécution.
+Les marchés doivent être notifiés avant tout commencement d'exécution.
