@@ -1,3 +1,0 @@
-# DISPOSITIONS DIVERSES
-
-- [COMMISSIONS ADMINISTRATIVES DES IMPOTS.](commissions-administratives-des-impots)

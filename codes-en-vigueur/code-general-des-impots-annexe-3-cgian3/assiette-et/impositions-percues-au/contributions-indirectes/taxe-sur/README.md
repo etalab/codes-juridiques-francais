@@ -1,3 +1,0 @@
-# TAXE SUR LES PRODUITS DES EXPLOITATIONS FORESTIERES.
-
-- [Article 332 bis](article-332-bis.md)

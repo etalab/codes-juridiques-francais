@@ -1,3 +1,0 @@
-# LES REMISES ET TRANSACTIONS A TITRE GRACIEUX.
-
-- [Article L250](article-l250.md)
