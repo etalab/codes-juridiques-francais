@@ -21,3 +21,5 @@ Les offices centraux de police judiciaire relevant de l'article R. 15-18 sont le
 9° Office central de lutte contre la criminalité liée aux technologies de l'information et de la communication ;
 
 10° Office central chargé des disparitions inquiétantes de personnes.
+
+11° Office central chargé des personnes recherchées ou en fuite.
