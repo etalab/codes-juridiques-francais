@@ -4,4 +4,4 @@ L'assurance prévue au présent chapitre prend en charge la couverture partielle
 
 Un décret en Conseil d'Etat détermine les mesures d'application de l'alinéa précédent et, en particulier, la ou les périodes de remplacement ouvrant droit au bénéfice de l'avantage ci-dessus prévu ainsi que la durée maximale d'attribution dudit avantage. En cas d'adoption, la ou les périodes de remplacement se situent nécessairement après l'arrivée de l'enfant au foyer, la durée maximale d'attribution de la prestation étant égale à la moitié de celle qui est prévue en cas de maternité.
 
-Les dépenses afférentes au service de cette prestation sont couvertes par une cotisation additionnelle à la cotisation prévue par l'article 1106-6.
+Les dépenses afférentes au service de cette prestation sont financées par la cotisation prévue par l'article 1106-6.

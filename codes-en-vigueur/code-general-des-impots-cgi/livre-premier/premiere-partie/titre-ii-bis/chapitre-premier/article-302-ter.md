@@ -1,6 +1,6 @@
 # Article 302 ter
 
--  1. Le chiffre d'affaires et le bénéfice imposables sont fixés forfaitairement en ce qui concerne les entreprises dont le chiffre d'affaires annuel n'excède pas 500.000 F s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place, ou de fournir le logement, ou 150.000 F [*montant plafond*] s'il s'agit d'autres entreprises.
+1. Le chiffre d'affaires et le bénéfice imposables sont fixés forfaitairement en ce qui concerne les entreprises dont le chiffre d'affaires annuel n'excède pas 500.000 F s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place, ou de fournir le logement, ou 150.000 F [*montant plafond*] s'il s'agit d'autres entreprises.
 
 Lorsque l'activité d'une entreprise ressortit à la fois aux deux catégories définies ci-dessus, le régime du forfait n'est applicable que si son chiffre d'affaires global annuel n'excède pas 500.000 F et si le chiffre d'affaires annuel afférent aux activités de la deuxième catégorie ne dépasse pas 150.000 F.
 
@@ -22,19 +22,19 @@ Ces dispositions ne sont pas applicables en cas de changement d'activité.
 
 - les opérations de location de matériels ou de biens de consommation durable, sauf lorsqu'elles présentent un caractère accessoire et connexe pour une entreprise industrielle ou commerciale.
 
+Les opérations visées au 8° du I de l'article 35 ;
+
 2 bis. Les forfaits doivent tenir compte des réalités des petites entreprises et, en particulier, de l'évolution des marges dans l'activité considérée et de celle des charges imposées à l'entreprise. Ils sont, sous réserve d'une adaptation à chaque entreprise, établis sur la base des monographies professionnelles nationales ou régionales, élaborées par l'administration et communiquées aux organisations professionnelles qui peuvent présenter leurs observations.
 
 3 et 4  (Abrogés).
 
-5.  Les forfaits de chiffre d'affaires et de bénéfice sont établis par année civile (1) et pour une période de deux ans; les montants servant de base à l'impôt peuvent être différents pour chacune des deux années de cette période.
+5. Les forfaits de chiffre d'affaires et de bénéfice sont établis par année civile (1) et pour une période de deux ans; les montants servant de base à l'impôt peuvent être différents pour chacune des deux années de cette période.
 
-6.  Les forfaits sont conclus après l'expiration de la première année de la période biennale pour laquelle ils sont fixés.
+6. Les forfaits sont conclus après l'expiration de la première année de la période biennale pour laquelle ils sont fixés.
 
-7.  Les forfaits peuvent être modifiés en cas de changement d'activité ou de législation nouvelle.
+7. Les forfaits peuvent être modifiés en cas de changement d'activité ou de législation nouvelle.
 
-8.  Ils peuvent faire l'objet d'une reconduction tacite pour une durée d'un an renouvelable.
-
-Dans ce cas, le montant du forfait retenu pour l'application de l'impôt est celui qui a été fixé pour la seconde année de la période biennale.
+8. Ils peuvent faire l'objet d'une reconduction tacite pour une durée d'un an renouvelable. Dans ce cas, le montant du forfait retenu pour l'application de l'impôt est celui qui a été fixé pour la seconde année de la période biennale.
 
 9. Ces forfaits peuvent être dénoncés :
 
