@@ -7,4 +7,3 @@
 - [Article 163 E](article-163-e.md)
 - [Article 163 F](article-163-f.md)
 - [Article 163 G](article-163-g.md)
-- [OUVERTURE D'OPTIONS DE SOUSCRIPTION OU D'ACHAT D'ACTIONS AU BENEFICE DU PERSONNEL DES SOCIETES.](ouverture-d-options-de-souscription-ou)
