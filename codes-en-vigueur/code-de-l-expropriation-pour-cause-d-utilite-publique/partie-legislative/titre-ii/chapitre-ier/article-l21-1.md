@@ -12,6 +12,8 @@ Peuvent être cédés de gré à gré ou concédés temporairement à des person
 
 - d'opérations de résorption de l'habitat insalubre ainsi que d'opérations régies par les articles 25 et 26 de la loi n° 70-612 du 10 juillet 1970 ;
 
+2° bis Les immeubles en état manifeste d'abandon expropriés en application de l'article L. 2243-4 du code général des collectivités territoriales, les immeubles expropriés et situés dans un ensemble immobilier faisant l'objet d'un plan de sauvegarde en application de l'article L. 615-1 du code de la construction et de l'habitation, les immeubles expropriés en vue de leur restauration en application de l'article L. 313-4-1 du code de l'urbanisme ;
+
 3° Les immeubles expropriés en vue de l'épuration des eaux provenant d'un établissement industriel, commercial, artisanal ou agricole et, d'une façon générale, les immeubles expropriés en vue d'éviter la pollution des eaux par des déversements, écoulements, jets, dépôts directs ou indirects de matières de cet établissement, lorsque ce résultat ne peut être obtenu que par des travaux s'étendant en dehors de l'établissement ;
 
 4° Les immeubles expropriés compris dans le plan d'aménagement touristique ou sportif des abords d'un plan d'eau créé ou aménagé par l'Etat, les départements, les communes, les associations foncières ou les groupements de ces collectivités ainsi que leurs concessionnaires ;

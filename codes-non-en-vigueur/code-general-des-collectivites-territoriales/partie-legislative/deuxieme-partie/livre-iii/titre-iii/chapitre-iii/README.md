@@ -11,3 +11,4 @@
 - [Section 9 : Redevance  pour  l'enlèvement  des  déchets,  ordures  et résidus, redevance d'enlèvement des ordures ménagères sur les terrains de camping et redevance spéciale](section-9)
 - [Section 10 : Redevance d'accès aux pistes de ski de fond balisées.](section-10)
 - [Section 11 : Redevances dues pour le transport et la distribution de l'électricité et de gaz](section-11)
+- [Section 12 : Stationnement payant à durée limitée sur voirie](section-12)

@@ -1,8 +1,8 @@
 # Article L300-2
 
-I - Le conseil municipal délibère sur les objectifs poursuivis et sur les modalités d'une concertation associant, pendant toute la durée de l'élaboration du projet, les habitants, les associations locales et les autres personnes concernées dont les représentants de la profession agricole, avant :
+I - Le conseil municipal ou l'organe délibérant de l'établissement public de coopération intercommunale délibère sur les objectifs poursuivis et sur les modalités d'une concertation associant, pendant toute la durée de l'élaboration du projet, les habitants, les associations locales et les autres personnes concernées dont les représentants de la profession agricole, avant :
 
-a) Toute modification ou révision du plan d'occupation des sols qui ouvre à l'urbanisation tout ou partie d'une zone d'urbanisation future ;
+a) Toute élaboration ou révision du schéma de cohérence territoriale ou du plan local d'urbanisme ;
 
 b) Toute création, à son initiative, d'une zone d'aménagement concerté ;
 
@@ -14,6 +14,4 @@ A l'issue de cette concertation, le maire en présente le bilan devant le consei
 
 Le dossier définitif du projet est alors arrêté par le conseil municipal et tenu à la disposition du public.
 
-II - Lorsque la commune fait partie d'un établissement public de coopération intercommunale, auquel elle a délégué compétence pour conduire l'une des opérations mentionnées ci-dessus ou qui est compétent en cette matière de par la loi, cet établissement est tenu aux mêmes obligations qu'il exerce dans des conditions fixées en accord avec la commune.
-
-III - Les autres personnes publiques ayant l'initiative d'opérations d'aménagement sont tenues aux mêmes obligations. Elles organisent la concertation dans des conditions fixées en accord avec la commune.
+II - Les autres personnes publiques ayant l'initiative d'opérations d'aménagement sont tenues aux mêmes obligations. Elles organisent la concertation dans des conditions fixées après avis de la commune.

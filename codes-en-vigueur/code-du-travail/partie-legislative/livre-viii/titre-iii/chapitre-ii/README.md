@@ -5,3 +5,4 @@
 - [Section 5 : Aide à la création d'entreprise](section-5)
 - [Section 6 : Aide à la création d'emploi](section-6)
 - [Section 7 : Aide à la réinsertion professionnelle](section-7)
+- [Section 8 : Dispositions régissant l'emploi de certaines catégories de travailleurs](section-8)
