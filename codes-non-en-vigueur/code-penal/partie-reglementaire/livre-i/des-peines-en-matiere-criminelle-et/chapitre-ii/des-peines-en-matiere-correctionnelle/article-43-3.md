@@ -8,6 +8,8 @@ Lorsqu'un délit est puni de l'emprisonnement, le tribunal peut prononcer à tit
 
 3° Confiscation d'un ou de plusieurs véhicules dont le prévenu est propriétaire ;
 
+3° bis Immobilisation, pendant une durée de six mois au plus, d'un ou plusieurs véhicules, dont le prévenu est propriétaire, selon des modalités déterminées par un décret en Conseil d'Etat ;
+
 4° Interdiction de détenir ou de porter, pendant une durée de cinq ans au plus, une arme soumise à autorisation ;
 
 5° Retrait du permis de chasser avec interdiction de solliciter la délivrance d'un nouveau permis pendant une durée de cinq ans au plus ;
