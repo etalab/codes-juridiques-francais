@@ -1,0 +1,3 @@
+# Article A213-2
+
+Au plus tard le 15 juin de chaque année, les entreprises d'assurance déposent à l'agence centrale des organismes de sécurité sociale un état indiquant pour l'année précédente : le montant des primes émises ou des encaissements et le montant des annulations ou remboursements ; le montant des primes constituant l'assiette de la cotisation ; le taux de la cotisation ; le montant brut des cotisations ; le montant net des cotisations ; le montant des acomptes trimestriels effectivement versés ; éventuellement l'excédent résultant des versements antérieurs ; le solde net à payer ou le montant de l'excédent à imputer sur les versements trimestriels postérieurs.
