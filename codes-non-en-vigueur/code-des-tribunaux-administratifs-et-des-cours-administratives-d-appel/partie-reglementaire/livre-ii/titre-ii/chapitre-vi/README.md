@@ -6,6 +6,7 @@
 - [SECTION IV : La décision.](section-iv)
 - [SECTION V : La demande d'avis sur une question de droit.](section-v)
 - [Section V bis : La demande d'avis sur le dossier d'un recours pour excès de pouvoir transmis par le tribunal administratif de Papeete.](section-v-bis)
+- [Section V ter : La demande d'avis sur le dossier d'un recours pour excès de pouvoir transmis par le tribunal administratif de Nouvelle-Calédonie.](section-v-ter)
 - [SECTION VI : La notification de la décision.](section-vi)
 - [SECTION VII : Les dépens.](section-vii)
 - [SECTION VIII : L'exécution de la décision.](section-viii)

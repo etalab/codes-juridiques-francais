@@ -3,3 +3,4 @@
 - [Section I : L'exercice de l'autorité parentale](section-i)
 - [Section II : L'assistance éducative](section-ii)
 - [Section III : Délégation, déchéance et retrait partiel de l'autorité parentale.](section-iii)
+- [Section IV : Dispositions relatives à l'administrateur ad hoc](section-iv)
