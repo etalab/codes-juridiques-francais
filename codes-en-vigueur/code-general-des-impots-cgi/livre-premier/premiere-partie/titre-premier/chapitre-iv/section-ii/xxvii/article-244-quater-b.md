@@ -2,15 +2,15 @@
 
 I. Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel peuvent bénéficier d'un crédit d'impôt égal à 50 % de l'excédent des dépenses de recherche exposées au cours d'une année par rapport à la moyenne des dépenses de même nature, revalorisées de la hausse des prix à la consommation, exposées au cours des deux années précédentes.
 
-((Le crédit d'impôt est égal à 50 % des dépenses de recherche de la première année au cours de laquelle l'entreprise expose des dépenses de cette nature)) (M).
+Le crédit d'impôt est égal à 50 % des dépenses de recherche de la première année au cours de laquelle l'entreprise expose des dépenses de cette nature.
 
-Le crédit d'impôt est plafonné pour chaque entreprise, y compris les sociétés de personnes, à 40 millions de francs. Il s'apprécie en prenant en compte la fraction du crédit d'impôt ((positif ou négatif)) (M) correspondant aux parts des associés de sociétés de personnes mentionnées aux articles 8 et 238 bis L et aux droits des membres de groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C.
+Le crédit d'impôt est plafonné pour chaque entreprise, y compris les sociétés de personnes, à 40 millions de francs. Il s'apprécie en prenant en compte la fraction du crédit d'impôt positif ou négatif correspondant aux parts des associés de sociétés de personnes mentionnées aux articles 8 et 238 bis L et aux droits des membres de groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C.
 
-((Les dispositions du présent article s'appliquent, sur option de l'entreprise, aux dépenses exposées au cours des années 1999 à 2003 par les entreprises qui ont fait application du crédit d'impôt recherche au titre de 1998, par celles qui n'ont pas renouvelé leur option au titre des périodes 1993 à 1995 et 1996 à 1998, ou par celles qui n'ont jamais opté pour le régime du crédit d'impôt recherche. L'option doit être exercée au titre de 1999, ou au titre de l'année au cours de laquelle l'entreprise réalise ses premières dépenses de recherche éligibles au crédit d'impôt recherche.
+Les dispositions du présent article s'appliquent, sur option de l'entreprise, aux dépenses exposées au cours des années 1999 à 2003 par les entreprises qui ont fait application du crédit d'impôt recherche au titre de 1998, par celles qui n'ont pas renouvelé leur option au titre des périodes 1993 à 1995 et 1996 à 1998, ou par celles qui n'ont jamais opté pour le régime du crédit d'impôt recherche. L'option doit être exercée au titre de 1999, ou au titre de l'année au cours de laquelle l'entreprise réalise ses premières dépenses de recherche éligibles au crédit d'impôt recherche.
 
-((Le crédit d'impôt des entreprises n'ayant pas renouvelé leur option au titre des périodes 1993 à 1995 et 1996 à 1998 est calculé à compter de 1999 par application, le cas échéant, de l'article 199 ter B aux dépenses de recherche exposées depuis la dernière option valablement exercée.
+Le crédit d'impôt des entreprises n'ayant pas renouvelé leur option au titre des périodes 1993 à 1995 et 1996 à 1998 est calculé à compter de 1999 par application, le cas échéant, de l'article 199 ter B aux dépenses de recherche exposées depuis la dernière option valablement exercée.
 
-((La fraction du crédit d'impôt qui résulte de la prise en compte de dépenses prévues au h et au i du II exposées à compter du 1er janvier 1999 est plafonnée pour chaque entreprise à 650 000 F par période de trois ans consécutifs)) (M).
+La fraction du crédit d'impôt qui résulte de la prise en compte de dépenses prévues au h et au i du II exposées à compter du 1er janvier 1999 est plafonnée pour chaque entreprise à 650 000 F par période de trois ans consécutifs.
 
 II. Les dépenses de recherche ouvrant droit au crédit d'impôt sont :
 
@@ -26,9 +26,11 @@ Ce pourcentage est fixé à :
 
 2° 100 p. 100 des dépenses de personnel qui se rapportent aux chercheurs et techniciens de recherche affectés exclusivement dans les territoires ruraux de développement prioritaire et dans les zones d'aménagement du territoire mentionnés à la dernière phrase du premier alinéa de l'article 1465.
 
-((d. Les dépenses exposées pour la réalisation d'opérations de même nature confiées à des organismes de recherche publics ou à des universités ;
+((3° 100 p. 100 des dépenses de personnel qui se rapportent aux personnes titulaires d'un doctorat ou d'un diplôme équivalent pendant les douze premiers mois suivant leur recrutement à la condition que le contrat de travail de ces personnes soit à durée indéterminée et que l'effectif salarié de l'entreprise ne soit pas inférieur à celui de l'année précédente)) (M) (1).
 
-((d bis. Les dépenses exposées pour la réalisation d'opérations de même nature confiées à des organismes de recherche privés agréés par le ministre chargé de la recherche, ou à des experts scientifiques ou techniques agréés dans les mêmes conditions)) (M) ;
+d. Les dépenses exposées pour la réalisation d'opérations de même nature confiées à des organismes de recherche publics ou à des universités ;
+
+d bis. Les dépenses exposées pour la réalisation d'opérations de même nature confiées à des organismes de recherche privés agréés par le ministre chargé de la recherche, ou à des experts scientifiques ou techniques agréés dans les mêmes conditions ;
 
 e) Les frais de prise et de maintenance de brevets ;
 
@@ -52,13 +54,13 @@ h) Les dépenses liées à l'élaboration de nouvelles collections exposées par
 
 4° Les frais de dépôt des dessins et modèles.
 
-((i. Les dépenses liées à l'élaboration de nouvelles collections confiée par les entreprises industrielles du secteur textile-habillement-cuir à des stylistes ou bureaux de style agréés selon des modalités définies par décret)) (M) (1).
+i. Les dépenses liées à l'élaboration de nouvelles collections confiée par les entreprises industrielles du secteur textile-habillement-cuir à des stylistes ou bureaux de style agréés selon des modalités définies par décret.
 
 Les dépenses visées aux a et 2° du h du II ne sont pas retenues pour le calcul du crédit d'impôt recherche lorsque les immobilisations concernées ont bénéficié du crédit d'impôt prévu à l'article 220 septies.
 
-III. Les subventions publiques reçues par les entreprises à raison des opérations ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce crédit. Il en est de même des sommes reçues par les organismes ou experts désignés ((au d et au d bis du II)) (M), pour le calcul de leur propre crédit d'impôt.
+III. Les subventions publiques reçues par les entreprises à raison des opérations ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce crédit. Il en est de même des sommes reçues par les organismes ou experts désignés au d et au d bis du II, pour le calcul de leur propre crédit d'impôt.
 
-En outre, en cas de transfert de personnels, d'immobilisations ou de contrats mentionnés au ((d et d bis du II) (M), entre entreprises ayant des liens de dépendance directe ou indirecte, ou résultant de fusions, scissions, apports ou opérations assimilées, il est fait abstraction, pour le calcul de la variation des dépenses de recherche, de la part de cette variation provenant exclusivement du transfert.
+En outre, en cas de transfert de personnels, d'immobilisations ou de contrats mentionnés au d et d bis du II, entre entreprises ayant des liens de dépendance directe ou indirecte, ou résultant de fusions, scissions, apports ou opérations assimilées, il est fait abstraction, pour le calcul de la variation des dépenses de recherche, de la part de cette variation provenant exclusivement du transfert.
 
 IV. (Périmé).
 
@@ -74,7 +76,7 @@ IV ter. (Périmé).
 
 V. (Périmé).
 
-VI. Un décret fixe les conditions d'application du présent article. Il en adapte les dispositions aux cas d'exercice de durée inégale ou ne coïncidant pas avec l'année civile (6).
+VI. Un décret fixe les conditions d'application du présent article. Il en adapte les dispositions aux cas d'exercice de durée inégale ou ne coïncidant pas avec l'année civile.
 
 (M) Modification.
 
