@@ -9,3 +9,4 @@
 - [Section V bis : Droit fixe de procédure.](section-v-bis)
 - [Section V ter : Droit forfaitaire de délivrance d'ampliation](section-v-ter)
 - [Section VI : Droits de sceau](section-vi)
+- [Section 0I bis : Taxe sur la valeur vénale des immeubles possédés en France par des entités juridiques](section-0i-bis)

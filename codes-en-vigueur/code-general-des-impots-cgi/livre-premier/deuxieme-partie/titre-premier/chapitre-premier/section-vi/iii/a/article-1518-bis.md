@@ -38,6 +38,8 @@ p. Au titre de 1996, à 1 pour les propriétés non bâties et pour les immeuble
 
 q. au titre de 1997, à 1 pour les propriétés non bâties, pour les immeubles industriels ne relevant pas de l'article 1500 et à 1,01 pour l'ensemble des autres propriétés bâties.
 
-((r. Au titre de 1998, à 1 pour les propriétés non bâties et pour les immeubles industriels ne relevant pas de l'article 1500 et 1,011 pour l'ensemble des autres propriétés bâties)) (M).
+r. Au titre de 1998, à 1 pour les propriétés non bâties et pour les immeubles industriels ne relevant pas de l'article 1500 et 1,011 pour l'ensemble des autres propriétés bâties.
+
+((s. Au titre de 1999, à 1,01 pour les propriétés non bâties, pour les immeubles industriels ne relevant pas de l'article 1500 et pour l'ensemble des autres propriétés bâties)) (M).
 
 (M) Modification.

@@ -2,7 +2,7 @@
 
 Le résultat d'ensemble est déterminé par la société mère en faisant la somme algébrique des résultats de chacune des sociétés du groupe, déterminés dans les conditions de droit commun ou selon les modalités prévues à l'article 217 bis.
 
-En ce qui concerne la détermination des résultats des exercices ouverts avant le 1er janvier 1993, le résultat d'ensemble est diminué de la quote-part de frais et charges comprise dans ses résultats par une société du groupe à raison de sa participation dans une autre société du groupe.
+En ce qui concerne la détermination des résultats des exercices ouverts avant le 1er janvier 1993, ((ou clos à compter du 31 décembre 1998)) (M), le résultat d'ensemble est diminué de la quote-part de frais et charges comprise dans ses résultats par une société du groupe à raison de sa participation dans une autre société du groupe.
 
 Pour la détermination du résultat des exercices ouverts à compter du 1er janvier 1995, les dividendes reçus par une société du groupe à raison de sa participation dans une autre société du groupe sont retranchés du résultat d'ensemble s'ils n'ouvrent pas droit à l'application du régime mentionné au 1 de l'article 145.
 
@@ -22,8 +22,8 @@ b. Au titre des exercices au cours desquels la société rachetée n'est plus me
 
 c. Si les titres cédés à la société membre du groupe ont été acquis immédiatement auparavant, auprès de personnes autres que celles mentionnées au septième alinéa du présent article, et en vue de rétrocession.
 
+(M) Modification.
+
 (1) Ces dispositions s'appliquent aux opérations de scission intervenues à compter du 1er avril 1996.
 
 (2) Les dispositions relatives aux provisions pour risques entrent en vigueur pour la détermination des résultats des exercices ouverts à compter du 1er janvier 1992.
-
-(M) Modification.

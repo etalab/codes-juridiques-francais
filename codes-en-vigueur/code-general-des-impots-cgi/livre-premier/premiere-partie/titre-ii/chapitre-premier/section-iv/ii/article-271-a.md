@@ -16,25 +16,25 @@ Si le montant de la taxe déductible au titre des biens ne constituant pas des i
 
 Elle naît lors du dépôt de la dernière déclaration de taxes sur le chiffre d'affaires sur laquelle est soustraite la déduction de référence.
 
-Toutefois, la créance naît au plus tard lors du dépôt de la déclaration de taxes sur le chiffre d'affaires souscrite au titre des opérations du mois de décembre 1994 ou du quatrième trimestre de l'année 1994, à concurrence du montant de la déduction de référence soustrait au 31 décembre 1994 conformément aux règles définies aux 1 et 2. La quote-part de la déduction de référence non soustraite n'est alors pas convertie en créance et elle n'est plus soumise aux dispositions du 2 (1).
+Toutefois, la créance naît au plus tard lors du dépôt de la déclaration de taxes sur le chiffre d'affaires souscrite au titre des opérations du mois de décembre 1994 ou du quatrième trimestre de l'année 1994, à concurrence du montant de la déduction de référence soustrait au 31 décembre 1994 conformément aux règles définies aux 1 et 2. La quote-part de la déduction de référence non soustraite n'est alors pas convertie en créance et elle n'est plus soumise aux dispositions du 2.
 
-Cette créance n'est ni cessible ni négociable ; elle peut toutefois être donnée en nantissement ou cédée à titre de garantie dans les conditions prévues par la loi n° 81-1 du 2 janvier 1981 facilitant le crédit aux entreprises, modifiée par la loi n° 84-46 du 24 janvier 1984 ((modifiée)) (M) relative à l'activité et au contrôle de établissements de crédit.
+Cette créance n'est ni cessible ni négociable ; elle peut toutefois être donnée en nantissement ou cédée à titre de garantie dans les conditions prévues par la loi n° 81-1 du 2 janvier 1981 facilitant le crédit aux entreprises, modifiée par la loi n° 84-46 du 24 janvier 1984 modifiée relative à l'activité et au contrôle de établissements de crédit.
 
 Elle est transférée en cas de fusion, scission, cession d'entreprise ou apport partiel d'actif.
 
 Toute dépréciation ou moins-value de cette créance éventuellement constatée demeure sans incidence pour la détermination du résultat imposable.
 
-Des décrets en Conseil d'Etat déterminent les conditions et modalités de remboursement, de gestion, de transfert et de nantissement des titres. Le remboursement des titres intervient à hauteur de 10 p. 100 au minimum pour l'année 1994 et pour les années suivantes de 5 p. 100 par an au minimum du montant de la créance constatée pour l'ensemble des redevables et dans un délai maximal de vingt ans, et en cas de cessation définitive d'activité (2).
+Des décrets en Conseil d'Etat déterminent les conditions et modalités de remboursement, de gestion, de transfert et de nantissement des titres. Le remboursement des titres intervient à hauteur de 10 p. 100 au minimum pour l'année 1994 et pour les années suivantes de 5 p. 100 par an au minimum du montant de la créance constatée pour l'ensemble des redevables et dans un délai maximal de vingt ans, et en cas de cessation définitive d'activité.
 
 La créance porte intérêt à un taux fixé par arrêté du ministre du budget sans que ce taux puisse excéder 4,5 p. 100. Les modalités de paiement de ces intérêts sont fixées par arrêté conjoint des ministres de l'économie et du budget.
 
-4. Les redevables adressent au service des impôts dont ils relèvent un document conforme au modèle prescrit par l'administration et mentionnant le calcul et le montant de leur déduction de référence ainsi que les modalités d'imputation de leurs droits à déduction dans les conditions fixées aux 1 et 2. Ce document est joint à la dernière déclaration de taxes sur le chiffre d'affaires sur laquelle est soustraite la déduction de référence. Dans le cas visé au troisième alinéa du 3, ce document mentionne le montant de la déduction de référence soustrait au 31 décembre 1994. Il est joint à la déclaration de taxes sur le chiffre d'affaires comprenant les opérations de décembre 1994 ou du quatrième trimestre de l'année 1994. (1)
+4. Les redevables adressent au service des impôts dont ils relèvent un document conforme au modèle prescrit par l'administration et mentionnant le calcul et le montant de leur déduction de référence ainsi que les modalités d'imputation de leurs droits à déduction dans les conditions fixées aux 1 et 2. Ce document est joint à la dernière déclaration de taxes sur le chiffre d'affaires sur laquelle est soustraite la déduction de référence. Dans le cas visé au troisième alinéa du 3, ce document mentionne le montant de la déduction de référence soustrait au 31 décembre 1994. Il est joint à la déclaration de taxes sur le chiffre d'affaires comprenant les opérations de décembre 1994 ou du quatrième trimestre de l'année 1994.
 
 Les redevables qui n'ont pas déposé leurs déclarations de taxes sur le chiffre d'affaires au titre de la période de référence ou qui n'ont pas déposé le document prévu au premier alinéa ne peuvent bénéficier de la créance prévue au 3 qu'après que leur situation a été régularisée.
 
 5. Lorsque le montant de la déduction de référence n'excède pas 10 000 F, les redevables qui sont placés sous le régime réel normal d'imposition de la taxe sur la valeur ajoutée ne sont pas tenus de soustraire cette déduction de référence dans les conditions prévues au 1. Ces redevables adressent cependant au service des impôts dont ils relèvent le document prévu au 4.
 
-6. Les dispositions du 1 ne s'appliquent pas aux redevables qui sont placés sous le régime d'imposition du forfait. Le forfait de la taxe sur la valeur ajoutée fixé au titre de 1993 tient compte d'un complément de taxe déductible égal à un douzième de la taxe grevant les services et les biens ne constituant pas des immobilisations acquis au cours de cette année.
+6. (abrogé).
 
 7. Les dispositions du 1 ne s'appliquent pas non plus aux redevables qui relèvent du régime simplifié d'imposition. Le complément de taxe déductible résultant des dispositions du 3 du I de l'article 271 est porté sur la première déclaration de régularisation de taxes sur le chiffre d'affaires qui comprend les droits à déduction nés en juillet 1993.
 
@@ -67,9 +67,3 @@ Les pénalités prévues à l'article 1729 sont applicables, sauf dans le cas o�
 6° Les rappels ou dégrèvements prévus aux 1°, 2°, 4° et 5° ne sont pas effectués lorsqu'ils résultent d'inexactitudes de la taxe déductible afférente à la période de référence n'ayant fait l'objet d'aucune régularisation et qui ne peuvent être rectifiées du fait de la prescription.
 
 10. Les dispositions du 3 du I de l'article 271 et du présent article s'appliquent aux achats, acquisitions intracommunautaires, importations, livraisons de biens et services pour lesquels le droit à déduction a pris naissance après le 30 juin 1993.
-
-(1) Cf. Instruction 1995-01-11 3D-2-95.
-
-(M) Modification.
-
-(2) Cf. Arrêté 1994-04-13 JORF 23 avril 1994, Décret 94-296 1994-04-06 JORF 16 avril 1994.

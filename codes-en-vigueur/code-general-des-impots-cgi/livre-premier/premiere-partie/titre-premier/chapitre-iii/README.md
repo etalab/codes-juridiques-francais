@@ -4,7 +4,7 @@
 - [Section 0II : Imposition forfaitaire annuelle des sociétés](section-0ii)
 - [Section I : Taxe d'apprentissage](section-i)
 - [Section II : Taxe sur les salaires](section-ii)
-- [Section II bis : Taxe annuelle sur les locaux à usage de bureaux perçue dans la région Ile-de-France](section-ii-bis)
+- [Section II bis : Taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux et les locaux de stockage perçue dans la région Ile-de-France](section-ii-bis)
 - [Section V : Redevance fixe des mines.](section-v)
 - [Section VI : Taxe sur les services d'informations ou interactifs à caractère pornographique](section-vi)
 - [Section VII : Cotisation perçue au titre de la participation des employeurs à l'effort de construction.](section-vii)

@@ -11,5 +11,4 @@
 - [8 : Amortissement des biens donnés en location ou mis à disposition](8)
 - [8 quater : Majoration d'amortissement des immobilisations acquises ou créées au moyen de certaines primes](8-quater)
 - [9 : Contrôle des frais généraux - Obligations des entreprises](9)
-- [11 : Passage du régime du bénéfice réel ou du régime simplifié au régime du forfait - Exercice clos en cours d'année.](11)
 - [12 : Régime simplifié d'imposition](12)

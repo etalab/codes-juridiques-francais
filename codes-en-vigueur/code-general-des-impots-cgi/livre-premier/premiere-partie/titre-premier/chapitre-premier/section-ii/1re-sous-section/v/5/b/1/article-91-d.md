@@ -10,4 +10,4 @@ Les taux du crédit d'impôt mentionnés aux deuxième et troisième alinéas so
 
 Le crédit d'impôt ne s'applique pas aux arrérages correspondant à une pension liquidée avant le soixantième anniversaire du contribuable ou du plus âgé des époux soumis à imposition commune.
 
-Le crédit d'impôt est régi, en toute hypothèse, par les règles de l'article 158 bis.
+Le crédit d'impôt est régi, en toute hypothèse, par les règles du I de l'article 158 bis.

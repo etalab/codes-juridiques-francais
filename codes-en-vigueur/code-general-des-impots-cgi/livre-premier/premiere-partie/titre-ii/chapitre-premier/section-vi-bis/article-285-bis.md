@@ -1,6 +1,6 @@
 # Article 285 bis
 
-1. Les éditeurs, sociétés de perception et de répartition de droits et les producteurs qui versent des droits mentionnés au premier alinéa du 2° du III de l'article 293 B doivent, sauf lorsque l'auteur a renoncé à ce dispositif en application du 3, retenir sur le montant de ces droits la taxe sur la valeur ajoutée due par l'auteur et acquitter cette taxe au Trésor.
+1. Les éditeurs, sociétés de perception et de répartition de droits et les producteurs qui versent des droits mentionnés au 2 du III de l'article 293 B doivent, sauf lorsque l'auteur a renoncé à ce dispositif en application du 3, retenir sur le montant de ces droits la taxe sur la valeur ajoutée due par l'auteur et acquitter cette taxe au Trésor.
 
 2. A défaut d'indication contraire de l'auteur formulée dans les conditions prévues au 3, les sommes qui lui sont dues par les personnes mentionnées au 1 sont réputées passibles de la retenue de taxe sur la valeur ajoutée, y compris en ce qui concerne les auteurs qui bénéficient de la franchise mentionnée au III de l'article 293 B.
 

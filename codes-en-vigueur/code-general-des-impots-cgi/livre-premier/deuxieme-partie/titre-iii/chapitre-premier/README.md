@@ -3,7 +3,6 @@
 - [Section I : Taxe pour frais de chambres de commerce et d'industrie](section-i)
 - [Section II : Taxe pour frais de chambres de métiers et de l'artisanat](section-ii)
 - [Section II bis : Dispositions communes à la taxe pour frais de chambres de commerce et d'industrie et à la taxe pour frais de chambres de métiers](section-ii-bis)
-- [Section III : Taxe perçue au profit du budget annexe des prestations sociales agricoles](section-iii)
 - [Section IV : Taxe pour frais de chambres d'agriculture](section-iv)
 - [Section VII bis : Taxe spéciale d'équipement perçue au profit des établissements publics fonciers](section-vii-bis)
 - [Section VIII : Taxe spéciale d'équipement perçue au profit de l'établissement public d'aménagement de la Basse-Seine](section-viii)

@@ -56,6 +56,7 @@
 - [Article 39 AE](article-39-ae.md)
 - [Article 39 AF](article-39-af.md)
 - [Article 39 B](article-39-b.md)
+- [Article 39 CA](article-39-ca.md)
 - [Article 39 E](article-39-e.md)
 - [Article 39 F](article-39-f.md)
 - [Article 40](article-40.md)

@@ -1,6 +1,5 @@
 # Titre premier : Impôts directs et taxes assimilées
 
-- [Chapitre I ter : Contribution complémentaire à l'impôt sur le revenu.](chapitre-i-ter)
 - [Chapitre Ier quater : Taxe sur les produits de placement soumis à prélèvement libératoire.](chapitre-ier-quater)
 - [Chapitre II : Impôt sur les bénéfices des sociétés et autres personnes morales](chapitre-ii)
 - [Chapitre III : Taxes diverses](chapitre-iii)
