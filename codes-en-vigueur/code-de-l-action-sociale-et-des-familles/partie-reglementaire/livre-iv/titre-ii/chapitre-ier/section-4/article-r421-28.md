@@ -1,0 +1,3 @@
+# Article R421-28
+
+Le fait pour toute personne, informée par le président du conseil général de la mise en demeure mentionnée à l'article L. 421-6 ou d'une mesure de refus, de suspension ou de retrait d'agrément, d'employer une personne en situation irrégulière est punie de la peine d'amende prévue pour les contraventions de la quatrième classe.

@@ -1,0 +1,3 @@
+# Article D311-15
+
+Le conseil donne son avis et peut faire des propositions sur toute question intéressant le fonctionnement de l'établissement ou du service notamment sur l'organisation intérieure et la vie quotidienne, les activités, l'animation socio-culturelle et les services thérapeutiques, les projets de travaux et d'équipements, la nature et le prix des services rendus, l'affectation des locaux collectifs, l'entretien des locaux, les relogements prévus en cas de travaux ou de fermeture, l'animation de la vie institutionnelle et les mesures prises pour favoriser les relations entre ces participants ainsi que les modifications substantielles touchant aux conditions de prises en charge.

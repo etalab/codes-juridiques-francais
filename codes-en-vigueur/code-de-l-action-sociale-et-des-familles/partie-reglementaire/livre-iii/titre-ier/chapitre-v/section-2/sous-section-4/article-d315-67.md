@@ -1,0 +1,3 @@
+# Article D315-67
+
+Pour les actes de gestion courante relatifs aux besoins de fonctionnement de l'établissement, à l'accueil et au suivi des personnes bénéficiaires d'une prise en charge et aux personnels, le directeur d'un établissement public social ou médico-social peut, sous sa surveillance et sous sa responsabilité, déléguer sa signature au sein de l'établissement qu'il dirige, à un ou plusieurs directeurs membres de l'équipe de direction ou appartenant à l'un des corps de directeurs de la fonction publique hospitalière ou à un ou plusieurs fonctionnaires appartenant à un corps ou occupant un emploi classé dans la catégorie A ou en leur absence, dans la catégorie B.

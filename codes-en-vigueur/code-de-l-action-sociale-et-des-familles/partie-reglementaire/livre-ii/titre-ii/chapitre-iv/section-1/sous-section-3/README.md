@@ -1,0 +1,16 @@
+# Sous-section 3 : Rôle du conseil de famille.
+
+- [Article R224-12](article-r224-12.md)
+- [Article R224-13](article-r224-13.md)
+- [Article R224-14](article-r224-14.md)
+- [Article R224-15](article-r224-15.md)
+- [Article R224-16](article-r224-16.md)
+- [Article R224-17](article-r224-17.md)
+- [Article R224-18](article-r224-18.md)
+- [Article R224-19](article-r224-19.md)
+- [Article R224-20](article-r224-20.md)
+- [Article R224-21](article-r224-21.md)
+- [Article R224-22](article-r224-22.md)
+- [Article R224-23](article-r224-23.md)
+- [Article R224-24](article-r224-24.md)
+- [Article R224-25](article-r224-25.md)

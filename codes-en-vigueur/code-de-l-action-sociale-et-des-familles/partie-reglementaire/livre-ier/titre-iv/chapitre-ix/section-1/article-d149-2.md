@@ -1,0 +1,3 @@
+# Article D149-2
+
+Le comité national peut être consulté par le ministre chargé des personnes âgées sur tout projet, programme ou étude intéressant les personnes âgées. Il peut également examiner de sa propre initiative toute autre question relative à la politique sociale ou médico-sociale concernant les retraités et les personnes âgées. Il remet au ministre chargé des personnes âgées avant le 1er octobre de chaque année, un rapport sur l'application de la politique relative aux prestations de services et aux équipements sociaux et médico-sociaux intéressant les retraités et personnes âgées pendant l'année écoulée.

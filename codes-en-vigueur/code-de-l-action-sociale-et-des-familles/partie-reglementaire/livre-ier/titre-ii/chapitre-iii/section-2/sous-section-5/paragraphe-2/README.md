@@ -1,0 +1,15 @@
+# Paragraphe 2 : Dispositions relatives aux sections d'arrondissement et aux autres services du centre d'action sociale.
+
+- [Article R123-49](article-r123-49.md)
+- [Article R123-50](article-r123-50.md)
+- [Article R123-51](article-r123-51.md)
+- [Article R123-52](article-r123-52.md)
+- [Article R123-53](article-r123-53.md)
+- [Article R123-54](article-r123-54.md)
+- [Article R123-55](article-r123-55.md)
+- [Article R123-56](article-r123-56.md)
+- [Article R123-57](article-r123-57.md)
+- [Article R123-58](article-r123-58.md)
+- [Article R123-59](article-r123-59.md)
+- [Article R123-60](article-r123-60.md)
+- [Article R123-61](article-r123-61.md)

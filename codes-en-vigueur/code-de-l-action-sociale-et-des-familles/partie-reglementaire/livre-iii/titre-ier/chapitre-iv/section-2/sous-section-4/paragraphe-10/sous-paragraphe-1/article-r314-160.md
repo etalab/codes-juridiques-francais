@@ -1,0 +1,3 @@
+# Article R314-160
+
+Le tarif afférent à la dépendance recouvre l'ensemble des prestations d'aide et de surveillance nécessaires à l'accomplissement des actes essentiels de la vie, qui ne sont pas liées aux soins que la personne âgée est susceptible de recevoir. Ces prestations correspondent aux surcoûts hôteliers directement liés à l'état de dépendance des personnes hébergées, qu'il s'agisse des interventions relationnelles, d'animation et d'aide à la vie quotidienne et sociale ou des prestations de services hôtelières et fournitures diverses concourant directement à la prise en charge de cet état de dépendance.

@@ -1,0 +1,3 @@
+# Article R314-175
+
+Afin de comparer les niveaux de prestations délivrées et de contribuer à une allocation optimale des ressources entre établissements, le préfet calcule la valeur nette moyenne départementale du point relatif aux aides-soignants et aux aides médico-psychologiques concernant les établissements du département relevant de l'article R. 314-158. Cette valeur est égale au quotient des frais de personnel relatifs aux aides-soignants et aux aides médico-psychologiques qui ont été constatés au dernier compte administratif et qui entrent dans le calcul des tarifs journaliers afférents aux soins par le nombre de points dans les groupes iso-ressources 1 à 6 issu de la valorisation pour le même exercice prévue au deuxième alinéa de l'article R. 314-172.

@@ -1,0 +1,3 @@
+# Article R242-15
+
+Les règles relatives à la prise en charge des frais de transport individuel des élèves et étudiants handicapés vers les établissements scolaires et universitaires sont fixées par les dispositions des articles 1 à 4 du décret n° 84-478 du 19 juin 1984 relatif aux conditions d'application de l'article 29 de la loi n° 83-663 du 22 juillet 1983 en ce qui concerne le transport des élèves et étudiants gravement handicapés et, pour la région Ile-de-France, par les dispositions des articles 1 à 7 du décret n° 77-864 du 22 juillet 1977 fixant les conditions d'application de l'article 8 de la loi n° 75-534 du 30 juin 1975 d'orientation en faveur des personnes handicapées.

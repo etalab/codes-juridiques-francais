@@ -1,0 +1,3 @@
+# Article R314-187
+
+Dans le cas où les tarifs journaliers afférents aux soins ne sont pas susceptibles d'être pris en charge soit au titre de l'aide médicale, soit par un organisme d'assurance maladie, ou par tout autre organisme public, les intéressés ou, à défaut, un tiers, souscrivent un engagement d'acquitter les frais de toute nature afférents au régime choisi. Ils sont tenus, sauf dans les cas d'urgence, de verser au moment de leur entrée dans l'établissement une provision renouvelable calculée sur la base de la durée estimée du séjour. En cas de sortie avant l'expiration du délai prévu, la fraction dépassant le nombre de jours de présence est restituée.

@@ -1,0 +1,3 @@
+# Article R147-26
+
+La conservation des demandes et déclarations prévues à l'article L. 147-2, des copies et des renseignements prévus à l'article L. 147-5, des plis prévus aux articles L. 222-6, L. 543-14, L. 551-2, L. 561-2, L. 571-2, ainsi que des demandes mentionnées au 2° de l'article R. 147-25, est assurée par le Conseil national pour l'accès aux origines personnelles dans des conditions de sécurité garantissant le secret médical et le respect de la confidentialité de l'ensemble de ces documents, dont l'accès est réservé aux seules personnes que le secrétaire général du conseil national habilite à en connaître.
