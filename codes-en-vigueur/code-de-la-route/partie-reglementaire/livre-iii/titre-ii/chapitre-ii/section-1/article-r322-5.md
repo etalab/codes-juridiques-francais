@@ -19,3 +19,5 @@ II. - La carte grise portant la mention de la mutation ou de la revente par un p
 III. - Le ministre chargé des transports définit par arrêté pris après avis du ministre de l'intérieur les conditions d'application du présent article, notamment en ce qui concerne les véhicules vendus par les domaines, aux enchères publiques ou à la suite d'une décision judiciaire, les véhicules de collection et ceux démunis de carte grise.
 
 IV. - Le fait, pour tout propriétaire, de maintenir en circulation un véhicule sans avoir obtenu un certificat d'immatriculation dans les conditions fixées au présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.
+
+L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
