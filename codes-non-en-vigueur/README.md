@@ -1,5 +1,6 @@
 # Codes non en vigueur
 
+- [Code du blé](code-du-ble)
 - [Code de commerce](code-de-commerce)
 - [Code de la route](code-de-la-route)
 - [Code des marchés publics](code-des-marches-publics)
