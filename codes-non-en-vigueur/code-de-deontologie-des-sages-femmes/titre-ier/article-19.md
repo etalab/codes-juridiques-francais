@@ -1,3 +1,13 @@
 # Article 19
 
-Il est interdit à une sage-femme inscrite au tableau de l'ordre d'exercer, en même temps que la profession de sage-femme, toute autre activité incompatible avec la dignité professionnelle. Il lui est notamment interdit d'exercer tout autre métier ou toute autre profession susceptible de lui permettre d'accroître ses bénéfices par ses prescriptions ou ses conseils d'ordre professionnel *non cumul d'emploi*.
+Sont interdits à la sage-femme :
+
+1° Tout acte de nature à procurer à une patiente un avantage matériel injustifié ou illicite ;
+
+2° Toute ristourne en argent ou en nature faite à une patiente ;
+
+3° Toute commission à quelque personne que ce soit ;
+
+4° L'acceptation d'une commission pour un acte médical quelconque, et notamment pour un examen, la prescription de médicaments ou appareils, ou l'orientation vers un établissement de soins ;
+
+5° Tout versement ou acceptation clandestins d'argent entre praticiens.

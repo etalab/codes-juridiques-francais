@@ -1,3 +1,3 @@
 # Article 4
 
-Le secret professionnel s'impose à toute sage-femme, sauf dérogations établies par la loi.
+Les sages-femmes ont le devoir d'entretenir et de perfectionner leurs connaissances.

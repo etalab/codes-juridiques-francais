@@ -1,5 +1,5 @@
 # Article 63
 
-Toute association ou société entre deux ou plusieurs sages-femmes ou toute autre personne doit faire l'objet d'un contrat écrit qui respecte l'indépendance professionnelle de chacune d'elles.
+Dans le cas où les sages-femmes sont interrogées au cours d'une procédure disciplinaire, elles sont tenues de révéler tous les faits utiles à l'instruction parvenus à leur connaissance dans la mesure compatible avec le respect du secret professionnel.
 
-Les projets de contrats doivent être communiqués au conseil départemental de l'ordre qui vérifie leur conformité avec les principes du présent code, ainsi que, s'il en existe, avec les clauses essentielles des contrats types établis par le conseil national.
+Toute déclaration volontairement inexacte faite au conseil de l'ordre par une sage-femme peut donner lieu à des poursuites disciplinaires.

@@ -1,9 +1,3 @@
 # Article 11
 
-Les seules indications qu'une sage-femme est autorisée à faire mentionner sur les feuilles d'ordonnance ou dans un annuaire sont :
-
-1° Celles qui facilitent ses relations avec ses clientes, nom, prénoms, adresse, numéro de téléphone, jours et heures de consultation, compte chèques postaux ;
-
-2° Les titres et fonctions reconnus valables par le conseil national de l'ordre ;
-
-3° Les distinctions honorifiques reconnues par la République française.
+Il est interdit aux sages-femmes de distribuer à des fins lucratives des remèdes, appareils ou tous autres produits présentés comme ayant un intérêt pour la santé. Il leur est interdit de délivrer des médicaments non autorisés [*actes de commerce*].

@@ -1,4 +1,4 @@
-# Titre Ier : Devoirs généraux des sages-femmes.
+# Titre Ier : Devoirs généraux.
 
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)

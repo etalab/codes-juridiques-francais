@@ -1,15 +1,5 @@
 # Article 14
 
-Sont interdits :
+La sage-femme doit s'interdire dans les investigations ou les actes qu'elle pratique comme dans les traitements qu'elle prescrit de faire courir à sa patiente ou à l'enfant un risque injustifié.
 
-1° Tout versement ou acceptation clandestins d'argent entre praticiens ;
-
-2° Toute commission versée à quelque personne que ce soit ;
-
-3° L'acceptation d'une commission pour un acte médical quelconque et notamment pour examens, prescriptions de médicaments, d'appareils, envoi dans une clinique ;
-
-4° Toute ristourne en argent ou en nature faite à une patiente ;
-
-5° Tout acte de nature à procurer pour la patiente un bénéfice illicite ;
-
-6° Toute facilité accordée à quiconque se livre à l'exercice illégal de la médecine ou de la profession de sage-femme.
+La sage-femme ne peut proposer aux patientes ou à leur entourage, comme salutaires ou efficaces, des remèdes ou des procédés insuffisamment validés sur le plan scientifique.

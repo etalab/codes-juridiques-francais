@@ -1,6 +1,6 @@
 # Code de déontologie des sages-femmes
 
-- [Titre Ier : Devoirs généraux des sages-femmes.](titre-ier)
+- [Titre Ier : Devoirs généraux.](titre-ier)
 - [Titre IV : Devoirs de confraternité](titre-iv)
-- [Titre V : Devoirs des sages-femmes vis-à-vis des professions médicales, paramédicales et des auxiliaires médicaux](titre-v)
-- [Titre VI : Association entre sages-femmes et toute autre personne](titre-vi)
+- [Titre V : Devoirs vis-à-vis des membres des autres professions de santé.](titre-v)
+- [Titre VI : Dispositions diverses.](titre-vi)

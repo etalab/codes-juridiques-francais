@@ -1,3 +1,3 @@
 # Article 15
 
-Il est interdit à une sage-femme, de donner des consultations gratuites ou moyennant salaire ou honoraires, dans les locaux commerciaux où sont mis en vente des médicaments ou appareils que cette sage-femme prescrit ou utilise, ainsi que dans les dépendances desdits locaux.
+Une sage-femme qui se trouve en présence d'une femme enceinte, d'une parturiente, d'une accouchée ou d'un nouveau-né en danger immédiat ou qui est informée d'un tel danger doit lui porter assistance ou s'assurer que les soins nécessaires sont donnés.

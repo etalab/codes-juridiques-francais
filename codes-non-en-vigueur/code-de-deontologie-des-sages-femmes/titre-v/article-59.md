@@ -1,3 +1,3 @@
 # Article 59
 
-Dans le cas ou une sage-femme est placée par le médecin auprès d'une parturiente elle ne doit jamais accepter de se substituer  à lui au moment de l'accouchement, sauf en cas de force majeure.
+Les sages-femmes doivent entretenir de bons rapports, dans l'intérêt des patientes, avec les membres des professions de santé. Elles doivent respecter l'indépendance professionnelle de ceux-ci.

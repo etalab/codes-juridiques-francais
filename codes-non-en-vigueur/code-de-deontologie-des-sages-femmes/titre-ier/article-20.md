@@ -1,3 +1,3 @@
 # Article 20
 
-Il est interdit à toute sage-femme qui remplit un mandat politique ou une fonction administrative d'en user à des fins professionnelles pour accroître sa clientèle.
+Est interdite à la sage-femme toute facilité accordée à quiconque se livre à l'exercice illégal de la médecine ou de la profession de sage-femme.
