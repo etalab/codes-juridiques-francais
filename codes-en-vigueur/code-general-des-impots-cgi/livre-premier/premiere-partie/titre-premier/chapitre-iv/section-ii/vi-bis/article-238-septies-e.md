@@ -1,12 +1,12 @@
 # Article 238 septies E
 
-I. - Constitue une prime de remboursement :
+I. Constitue une prime de remboursement :
 
-1. Pour les emprunts négociables visés à l'article 118, les titres de créances négociables visés à l'article 124 B et tous autres titres ou contrats d'emprunt ou de capitalisation non négociables, émis ou conclus à compter du 1er janvier 1993, la différence entre les sommes ou valeurs à recevoir quelle que soit leur nature, à l'exception des intérêts linéaires versés chaque année à échéances régulières et restant à recevoir après l'acquisition, et celles versées lors de la souscription ou de l'acquisition ;
+1. Pour les emprunts négociables visés à l'article 118 (( et aux 6° et 7° de l'article 120 )) (1) , les titres de créances négociables visés à l'article 124 B et tous autres titres ou contrats d'emprunt ou de capitalisation (( négociables ou non )) (1), émis ou conclus à compter du 1er janvier 1993, la différence entre les sommes ou valeurs à recevoir quelle que soit leur nature, à l'exception des intérêts linéaires versés chaque année à échéances régulières et restant à recevoir après l'acquisition, et celles versées lors de la souscription ou de l'acquisition ;
 
 2. Pour les emprunts ou titres de même nature démembrés à compter du 1er janvier 1993, la différence entre les sommes ou valeurs à recevoir quelle que soit leur nature et le prix d'acquisition du droit au paiement du principal, d'intérêts ou de toute autre rémunération de l'emprunt, ou du titre représentatif de l'un de ces droits.
 
-Le cas échéant, pour l'application du présent article, la prime    comprend la différence entre la valeur actuelle du titre après détachement des droits d'achat, de souscription, d'échange ou d'option prévus au contrat et sa valeur de remboursement.
+Le cas échéant, pour l'application du présent article, la prime comprend la différence entre la valeur actuelle du titre après détachement des droits d'achat, de souscription, d'échange ou d'option prévus au contrat et sa valeur de remboursement.
 
 Les dispositions du présent I sont applicables à un emprunt qui fait l'objet d'émissions successives et d'une cotation en bourse unique si une partie de cet emprunt a été émise à compter du 1er janvier 1993.
 
@@ -35,3 +35,5 @@ III. - Pour l'application des dispositions du 5° du 1 de l'article 39, les prov
 IV. - Pour chaque exercice, les sommes imposées en application du II sont indiquées en annexe à la déclaration prévue à l'article 53 A et sont déterminées à partir d'un état qui fait apparaître, pour chaque catégorie de titres ou contrats de même nature, les éléments retenus pour le calcul de ces sommes. Cet état doit être représenté à toute réquisition de l'administration.
 
 V. - Les dispositions du présent article ne sont pas applicables aux titres détenus par les personnes physiques dans le cadre de la gestion de leur patrimoine privé.
+
+(1) Modifications de la loi 93-1353.
