@@ -6,6 +6,6 @@ Le conseil de famille peut, toutefois, autoriser la vente à l'amiable soit par 
 
 L'apport en société d'un immeuble ou d'un fonds de commerce a lieu à l'amiable. Il est autorisé par le conseil de famille sur le rapport d'un expert que désigne le juge des tutelles.
 
-Les valeurs mobilières qui sont inscrites à une cote officielle sont vendues par le ministère d'une société de bourse.
+Les valeurs mobilières qui sont inscrites à une cote officielle sont vendues par le ministère d'un prestataire de services d'investissement.
 
-Les autres valeurs mobilières sont vendues aux enchères par le ministère d'une société de bourse ou d'un notaire désigné dans la délibération qui autorise la vente. Le conseil de famille pourra néanmoins, sur le rapport d'un expert désigné par le juge des tutelles, en autoriser la vente de gré à gré aux prix et stipulations qu'il détermine.
+Les autres valeurs mobilières sont vendues aux enchères par le ministère d'un prestataire de services d'investissement ou d'un notaire désigné dans la délibération qui autorise la vente. Le conseil de famille pourra néanmoins, sur le rapport d'un expert désigné par le juge des tutelles, en autoriser la vente de gré à gré aux prix et stipulations qu'il détermine.
