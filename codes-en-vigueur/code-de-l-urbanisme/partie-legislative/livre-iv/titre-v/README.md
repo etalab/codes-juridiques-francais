@@ -1,3 +1,3 @@
 # TITRE V :Dispositions diverses
 
-- [CHAPITRE I : Dispositions propres à certaines utilisations de surfaces baties](chapitre-i)
+- [Chapitre I : Dispositions propres à certaines utilisations des surfaces bâties](chapitre-i)

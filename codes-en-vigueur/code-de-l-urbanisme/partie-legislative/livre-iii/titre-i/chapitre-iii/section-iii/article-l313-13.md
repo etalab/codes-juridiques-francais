@@ -1,3 +1,3 @@
 # Article L313-13
 
-La loi de finances détermine chaque année les conditions de financement des opérations prévues par le présent chapitre.
+Les opérations visées au présent chapitre peuvent faire l'objet de subventions prévues à l'article L. 312-1 [*aide de l'Etat*].

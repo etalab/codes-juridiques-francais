@@ -1,0 +1,5 @@
+# Article L430-5
+
+Dans les communes visées à l'article L. 430-1 a, et sans préjudice des dispositions de la loi n° 75-1351 du 31 décembre 1975 relative à la protection des occupants de locaux à usage d'habitation, le permis de démolir peut être refusé si, dans un intérêt social, il est nécessaire de sauvegarder le patrimoine immobilier bâti. Il peut être accordé, sous réserve pour le titulaire du permis de démolir d'assurer avant le commencement des travaux le relogement, dans certaines conditions, des locataires, preneurs ou occupants de bonne foi, ainsi que, le cas échéant, de construire, à la place de l'immeuble qui fait l'objet de la demande, ou à un emplacement proche de celui-ci, des logements destinés à reloger les intéressés.
+
+Dans les cas visés aux alinéas autres que l'alinéa a de l'article L. 430-1, le permis de démolir peut être refusé ou n'être accordé que sous réserve de l'observation de prescriptions spéciales si les travaux envisagés sont de nature à compromettre la protection ou la mise en valeur des quartiers, des monuments et des sites.

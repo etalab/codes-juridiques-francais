@@ -6,3 +6,4 @@
 - [Déclaration préalable de travaux](declaration-prealable-de-travaux)
 - [Infractions.](infractions)
 - [Permis de construire](permis-de-construire)
+- [Permis de démolir.](permis-de-demolir)
