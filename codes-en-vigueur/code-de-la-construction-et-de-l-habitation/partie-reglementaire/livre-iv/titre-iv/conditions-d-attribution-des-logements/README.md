@@ -5,6 +5,8 @@
 - [Article R441-19](article-r441-19.md)
 - [Article R441-20](article-r441-20.md)
 - [Article R441-21](article-r441-21.md)
+- [Article R441-22](article-r441-22.md)
+- [Article R441-23](article-r441-23.md)
 - [Article R*441-24](article-r-441-24.md)
 - [Article R441-26](article-r441-26.md)
 - [Article R441-27](article-r441-27.md)
