@@ -1,4 +1,4 @@
-# SOUS-SECTION 3 : PRIORITE D'EMPLOI ET DE PLACEMENT DES TRAVAILLEURS HANDICAPES.
+# Sous-section 3 : Priorité d'emploi et de placement des travailleurs handicapés.
 
 - [Article D323-11](article-d323-11.md)
 - [Article D323-12](article-d323-12.md)
