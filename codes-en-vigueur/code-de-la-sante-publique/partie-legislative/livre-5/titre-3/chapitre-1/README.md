@@ -1,6 +1,7 @@
 # Chapitre 1 : Substances vénéneuses.
 
 - [Article L626](article-l626.md)
+- [Article L626-1](article-l626-1.md)
 - [Article L627](article-l627.md)
 - [Article L627-1](article-l627-1.md)
 - [Article L627-2](article-l627-2.md)
