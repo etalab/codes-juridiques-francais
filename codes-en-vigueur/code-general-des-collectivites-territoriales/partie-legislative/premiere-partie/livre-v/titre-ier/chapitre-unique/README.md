@@ -1,4 +1,4 @@
-# CHAPITRE unique.
+# CHAPITRE UNIQUE
 
 - [Article L1511-1](article-l1511-1.md)
 - [Article L1511-2](article-l1511-2.md)

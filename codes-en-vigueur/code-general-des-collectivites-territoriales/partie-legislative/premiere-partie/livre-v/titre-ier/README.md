@@ -1,3 +1,3 @@
-# TITRE Ier : AIDES AUX ENTREPRISES
+# TITRE Ier : DEVELOPPEMENT ECONOMIQUE
 
-- [CHAPITRE unique.](chapitre-unique)
+- [CHAPITRE UNIQUE](chapitre-unique)
