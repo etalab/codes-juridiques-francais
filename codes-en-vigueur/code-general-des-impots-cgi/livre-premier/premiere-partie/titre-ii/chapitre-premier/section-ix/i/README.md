@@ -4,3 +4,4 @@
 - [Article 295](article-295.md)
 - [Article 296](article-296.md)
 - [Article 296 bis](article-296-bis.md)
+- [Article 296 ter](article-296-ter.md)

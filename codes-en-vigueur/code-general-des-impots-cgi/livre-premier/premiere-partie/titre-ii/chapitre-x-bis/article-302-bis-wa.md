@@ -10,7 +10,7 @@ IV. - La redevance n'est pas perçue :
 
 1. Lors de la vente ou de la cession directe sur le marché par un pêcheur, au détaillant ou au consommateur, d'une quantité n'excédant pas celle prévue à l'article 3 du règlement (CEE) n° 3703/85 de la Commission du 23 décembre 1985 établissant les modalités d'application relatives aux normes communes de commercialisation pour certains poissons frais ou réfrigérés ;
 
-2. En cas de retrait définitif dans le cadre de l'organisation commune des marchés instituée par le règlement (CEE) n° 3759/92 du Conseil, du 17 décembre 1992, portant organisation commune des marchés dans le secteur des produits de la pêche et de l'aquaculture ;
+2. En cas de retrait définitif dans le cadre de l'organisation commune des marchés instituée par le règlement (CE) n° 104/2000 du Conseil du 17 décembre 1999, portant organisation commune des marchés dans le secteur des produits de la pêche et de l'aquaculture ;
 
 3. En cas de débarquement direct de poissons frais par un navire de pêche battant pavillon d'un pays tiers à la Communauté européenne.
 

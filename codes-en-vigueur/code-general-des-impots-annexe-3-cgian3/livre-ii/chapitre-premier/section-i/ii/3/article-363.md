@@ -1,5 +1,3 @@
 # Article 363
 
-La société  qui estime que le montant des acomptes déjà versés au titre d'un exercice est égal ou supérieur aux cotisations dont elle sera finalement redevable pour cet exercice  peut se dispenser d'effectuer de nouveaux versements d'acomptes en remettant au comptable du Trésor chargé du recouvrement des impôts directs avant la date de majoration, fixée à l'article 364, du prochain versement à effectuer une déclaration datée et signée.
-
-Si  par la suite  cette déclaration est reconnue inexacte de plus du dixième la majoration de 10 % [*sanction, pénalité*], visée à l'article 364, sera appliquée aux sommes qui n'auront pas été versées aux échéances prévues.
+Les versements effectués par les sociétés d'investissements immobiliers cotées au titre du quatrième alinéa du 2 de l'article 1663 du code général des imp<CB>ts sont accompagnés d'un bordereau de versement daté et signé, établi sur papier libre ou par voie électronique, indiquant la désignation, l'adresse et le numéro SIRET de la société versante, la nature et le montant du versement, l'échéance à laquelle il se rapporte ainsi que la base de calcul.

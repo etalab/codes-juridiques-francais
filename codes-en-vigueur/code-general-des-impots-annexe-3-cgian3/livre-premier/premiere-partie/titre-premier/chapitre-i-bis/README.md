@@ -20,6 +20,8 @@
 - [Section XI : Régime des amortissements réputés différés en période déficitaire en cas de reprise ou de transfert d'activités](section-xi)
 - [Section XII : Réduction du taux de l'impôt sur les sociétés pour certaines sociétés qui incorporent une fraction de leur bénéfice au capital](section-xii)
 - [Section XII bis : Réduction du taux de l'impôt sur les sociétés pour les petites entreprises.](section-xii-bis)
+- [Section XII ter : Réduction du taux de l'impôt sur les sociétés pour les sociétés d'investissements immobiliers cotées](section-xii-ter)
 - [Section XIII : Déduction des investissements réalisés outre-mer](section-xiii)
 - [Section XV : Amortissement exceptionnel pour la souscription en numéraire de parts de sociétés d'investissement régional ou d'investissement régional ou d'investissement pour le développement rural](section-xv)
 - [Section XIV : Amortissement exceptionnel pour la souscription de parts de sociétés d'épargne forestière](section-xiv)
+- [Section 0I bis : Exonération édictée en faveur des sociétés d'investissements immobiliers cotées](section-0i-bis)

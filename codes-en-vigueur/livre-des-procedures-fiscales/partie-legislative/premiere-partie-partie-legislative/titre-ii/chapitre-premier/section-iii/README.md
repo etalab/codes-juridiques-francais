@@ -9,4 +9,5 @@
 - [Article L45 A](article-l45-a.md)
 - [Article L45 B](article-l45-b.md)
 - [Article L45 E](article-l45-e.md)
+- [Article L45 F](article-l45-f.md)
 - [Article L46](article-l46.md)

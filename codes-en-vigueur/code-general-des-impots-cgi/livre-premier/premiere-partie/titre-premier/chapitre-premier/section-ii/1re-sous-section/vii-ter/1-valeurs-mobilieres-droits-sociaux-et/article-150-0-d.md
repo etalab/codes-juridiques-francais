@@ -22,7 +22,7 @@ Ces dispositions ne sont pas applicables lorsque la cession porte sur des droits
 
 5. En cas de cession de titres après la clôture d'un plan d'épargne en actions défini à l'article 163 quinquies D ou leur retrait au-delà de la huitième année, le prix d'acquisition est réputé égal à leur valeur à la date où le cédant a cessé de bénéficier, pour ces titres, des avantages prévus aux 5° bis et 5° ter de l'article 157 et au IV de l'article 163 quinquies D.
 
-6. Le gain net réalisé depuis l'ouverture du plan d'épargne en actions défini à l'article 163 quinquies D s'entend de la différence entre la valeur liquidative du plan ou la valeur de rachat pour les contrats de capitalisation à la date du retrait et le montant des versements effectués sur le plan depuis la date de son ouverture.
+6. Le gain net réalisé depuis l'ouverture du plan d'épargne en actions défini à l'article 163 quinquies D s'entend de la différence entre la valeur liquidative du plan ou la valeur de rachat pour les contrats de capitalisation à la date du retrait et le montant des versements effectués sur le plan depuis la date de son ouverture, à l'exception de ceux afférents aux retraits ou rachats réalisés dans les conditions de la deuxième phrase du 2 du II de l'article 150-0 A.
 
 7. Le prix d'acquisition des titres acquis en vertu d'un engagement d'épargne à long terme est réputé égal au dernier cours coté au comptant de ces titres précédant l'expiration de cet engagement.
 

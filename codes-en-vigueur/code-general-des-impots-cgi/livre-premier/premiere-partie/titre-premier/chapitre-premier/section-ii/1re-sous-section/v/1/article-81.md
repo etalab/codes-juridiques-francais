@@ -113,3 +113,7 @@ d. (disjoint)
 32° L'indemnité de cessation d'activité prévue au V de l'article 41 de la loi de financement de la sécurité sociale pour 1999 (n° 98-1194 du 23 décembre 1998).
 
 33° L'indemnité de cessation anticipée d'activité versée en application d'une convention collective de branche, d'un accord professionnel ou interprofessionnel, d'un accord d'entreprise, du contrat de travail ou d'une disposition unilatérale de l'employeur aux marins exposés ou ayant été exposés à l'amiante admis au bénéfice d'une allocation de cessation anticipée d'activité visée au 9° de l'article L. 12 du code des pensions de retraite des marins français du commerce, de pêche ou de plaisance.
+
+34° ...
+
+35° L'aide financière de l'Etat mentionnée à l'article L. 351-24 du code du travail.(1)
