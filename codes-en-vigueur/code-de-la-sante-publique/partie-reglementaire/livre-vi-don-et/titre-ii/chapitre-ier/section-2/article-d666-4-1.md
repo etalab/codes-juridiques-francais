@@ -53,3 +53,5 @@ V. - Un arrêté du ministre chargé de la santé peut prévoir :
 4. Les conditions d'utilisation des prélèvements en cause au vu des résultats des tests et analyses supplémentaires ;
 
 5. Des analyses biologiques et tests de dépistage à effectuer chez les donneurs de plasma.
+
+Le dépistage génomique viral du VIH 1 et du VHC est effectué sur les prélèvements de sang ou de composants du sang destinés à la préparation de produits sanguins labiles.
