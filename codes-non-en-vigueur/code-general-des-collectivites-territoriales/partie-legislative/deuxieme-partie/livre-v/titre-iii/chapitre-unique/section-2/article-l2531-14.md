@@ -37,3 +37,5 @@ Les sommes nécessaires sont prélevées sur les ressources du fonds avant appli
 VI. - Les communes qui n'étaient pas éligibles au fonds de solidarité des communes de la région d'Ile-de-France en 1999 au titre de l'indice synthétique défini au II et qui le deviennent en 2000, 2001, 2002 et 2003 en application du 1° ou du 2° du I perçoivent 20 % de leur attribution du fonds en 2000, 40 % en 2001, 60 % en 2002 et 80 % en 2003.
 
 A compter de 2004, ces communes perçoivent l'intégralité de leur attribution du fonds.
+
+VII. - Lorsque le recensement général de population de 1999 fait apparaître une variation de la population d'une commune, cette variation est prise en compte, pour l'application des dispositions du présent article, dans les conditions prévues aux troisième et quatrième alinéas de l'article L. 2334-2.
