@@ -18,3 +18,4 @@
 - [Section 0I ter : Déductions fiscales ou réductions d'impôt accordées au titre de certains investissements réalisés outre-mer](section-0i-ter)
 - [Section 0I quater : Financement en capital d'oeuvres cinématographiques ou audiovisuelles](section-0i-quater)
 - [Section 0I quinquies : Financement en capital de la pêche artisanale](section-0i-quinquies)
+- [Section 0I sexies : Mécénat d'entreprises](section-0i-sexies)

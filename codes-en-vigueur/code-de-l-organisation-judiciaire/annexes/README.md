@@ -4,6 +4,7 @@
 - [Article Annexe Tableau II](article-annexe-tableau-ii.md)
 - [Article Annexe Tableau IV](article-annexe-tableau-iv.md)
 - [Article Annexe Tableau IV bis](article-annexe-tableau-iv-bis.md)
+- [Article Annexe Tableau IV ter](article-annexe-tableau-iv-ter.md)
 - [Article Annexe Tableau IV quater](article-annexe-tableau-iv-quater.md)
 - [Article Annexe Tableau IV quinquies](article-annexe-tableau-iv-quinquies.md)
 - [Article Annexe Tableau V](article-annexe-tableau-v.md)
