@@ -26,4 +26,6 @@ Les sections connaissent des affaires qui leur sont envoyées par le président 
 
 3. La ou les commissions départementales des impôts directs et des taxes sur le chiffre d'affaires sont installées au chef lieu du département.
 
+4. Pour le département de Paris, les représentants de l'administration appelés à siéger au sein de la commission départementale des impôts directs et des taxes sur le chiffre d'affaires sont désignés par le directeur chargé de la direction spécialisée des impôts pour la région d'Ile-de-France et pour Paris.
+
 V. - Le quorum est égal à la moitié du nombre des membres appelés à siéger, quelle que soit la formation.
