@@ -6,7 +6,7 @@ Cette déclaration doit mentionner à part les livraisons en France, les livrais
 
 En outre, elle doit être appuyée, selon le cas :
 
-Des attestations des clients de l'exploitant indiquant les versements faits pendant l'année considérée (1). Ces attestations sont conformes aux modèles indiqués par l'administration. Toutefois, cette disposition ne s'applique pas aux ventes visées au III de l'article 264 faites à de simples consommateurs;
+Des attestations des clients de l'exploitant indiquant les versements faits pendant l'année considérée (1). Ces attestations sont conformes aux modèles indiqués par l'administration.
 
 De la copie des déclarations en douane;
 

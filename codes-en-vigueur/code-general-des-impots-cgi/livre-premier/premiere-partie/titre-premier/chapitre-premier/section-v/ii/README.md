@@ -13,7 +13,6 @@
 - [25° : Prime pour l'emploi](25)
 - [3° : Réduction d'impôt accordée au titre des cotisations versées aux organisations syndicales](3)
 - [6° : Réduction d'impôt accordée au titre des frais de scolarité des enfants poursuivant des études secondaires ou supérieures](6)
-- [8° : Réduction d'impôt accordée au titre des dépenses afférentes à l'habitation principale.](8)
 - [9° : Réduction d'impôt accordée au titre de certaines primes d'assurances](9)
 - [Article 193](article-193.md)
 - [Article 193 bis](article-193-bis.md)
