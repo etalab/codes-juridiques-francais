@@ -2,6 +2,7 @@
 
 - [I. : Employeurs occupant dix salariés et plus](i)
 - [Article 235 ter C](article-235-ter-c.md)
+- [Article 235 ter GA](article-235-ter-ga.md)
 - [Article 235 ter GB](article-235-ter-gb.md)
 - [Article 235 ter GC](article-235-ter-gc.md)
 - [Fonds d'assurance-formation.](fonds-d-assurance-formation)
