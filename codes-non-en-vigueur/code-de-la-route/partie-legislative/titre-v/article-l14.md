@@ -1,10 +1,10 @@
 # Article L14
 
-La suspension du permis de conduire pendant trois ans au plus peut être ordonnée par le jugement, en cas de condamnation prononcée à l'occasion de la conduite d'un véhicule pour l'une des infractions suivantes :
+La suspension du permis de conduire pendant trois ans au plus peut être ordonnée par le jugement, en cas de condamnation prononcée pour l'une des infractions suivantes :
 
-1° Infractions prévues par les articles L. 1er à L. 4, L. 7, L. 9 et L. 19 du présent code ;
+1° Infractions prévues par les articles L. 1er à L. 4-1, L. 7, L. 9, L. 9-1 et L. 19 ;
 
-2° [*abrogé*]
+2° (abrogé).
 
 3° Contraventions à la police de la circulation routière et à la réglementation relative à l'assurance obligatoire des véhicules terrestres à moteur prévues par décret en Conseil d'Etat.
 
