@@ -1,3 +1,0 @@
-# SURETES ET PRIVILEGES
-
-- [CONTRIBUTIONS INDIRECTES.](contributions-indirectes)
