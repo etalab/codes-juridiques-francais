@@ -11,3 +11,4 @@
 - [Paragraphe IX : PLAQUES ET INSCRIPTIONS.](paragraphe-ix)
 - [Paragraphe X : RÉCEPTION.](paragraphe-x)
 - [PARAGRAPHE XI : IMMATRICULATION.](paragraphe-xi)
+- [PARAGRAPHE XIII : CONTRÔLE ROUTIER.](paragraphe-xiii)
