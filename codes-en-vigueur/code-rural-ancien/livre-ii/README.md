@@ -1,13 +1,4 @@
 # Livre II : Des animaux et des végétaux
 
-- [Titre II : De la garde des animaux domestiques et sauvages apprivoisés ou tenus en captivité](titre-ii)
 - [Titre III : De la lutte contre les maladies des animaux](titre-iii)
-- [Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux](titre-iv)
-- [Titre IV bis : Des importations, échanges intracommunautaires et exportations d'animaux vivants, de produits et denrées animales ou d'origine animale](titre-iv-bis)
-- [Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité.](titre-v)
-- [Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques.](titre-vi)
 - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.](titre-viii)
-- [Titre IX : Des pénalités.](titre-ix)
-- [Titre X : De la protection des végétaux.](titre-x)
-- [Titre XI : Dispositions particulières à la collectivité territoriale de Mayotte.](titre-xi)
-- [Titre XII : Agence française de sécurité sanitaire des aliments](titre-xii)
