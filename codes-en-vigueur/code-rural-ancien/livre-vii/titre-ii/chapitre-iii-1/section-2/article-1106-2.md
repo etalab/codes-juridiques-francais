@@ -24,4 +24,6 @@ II. - L'assurance ne comporte en aucun cas l'attribution d'indemnités journali�
 
 III. - Les prestations prévues aux 1° et 2° du paragraphe I du présent article sont servies dans les mêmes conditions que dans le régime des assurances sociales agricoles pour les catégories correspondantes.
 
-IV. - Des décrets fixeront les conditions de liaison et de coordination entre les contrôles médicaux des régimes d'assurances sociales et le contrôle médical de l'aide sociale. Ce contrôle sera organisé sous l'égide du haut comité médical.
+IV. - Les dispositions des articles L.315-1, L.315-2, et L.315-3 du code de la sécurité sociale sont applicables au régime d'assurance maladie, invalidité et maternité des personnes non salariées des professions agricoles.
+
+Des décrets fixeront les conditions de liaison et de coordination entre les contrôles médicaux des régimes d'assurances sociales et le contrôle médical de l'aide sociale. Ce contrôle sera organisé sous l'égide du haut comité médical.
