@@ -2,6 +2,7 @@
 
 - [Article R13](article-r13.md)
 - [Article R14](article-r14.md)
+- [Article R*15](article-r-15.md)
 - [Article R*16](article-r-16.md)
 - [Article R*16-1](article-r-16-1.md)
 - [Article R*17](article-r-17.md)
