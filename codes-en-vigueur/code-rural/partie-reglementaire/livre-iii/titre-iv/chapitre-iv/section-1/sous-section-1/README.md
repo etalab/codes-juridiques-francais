@@ -6,4 +6,3 @@
 - [Article R344-5](article-r344-5.md)
 - [Article R344-6](article-r344-6.md)
 - [Article R344-7](article-r344-7.md)
-- [Article R344-8](article-r344-8.md)
