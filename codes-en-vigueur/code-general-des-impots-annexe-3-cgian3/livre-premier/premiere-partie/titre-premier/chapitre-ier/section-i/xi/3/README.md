@@ -2,4 +2,3 @@
 
 - [Article 41-0 A bis](article-41-0-a-bis.md)
 - [Article 41 DA](article-41-da.md)
-- [Article 41 DB](article-41-db.md)
