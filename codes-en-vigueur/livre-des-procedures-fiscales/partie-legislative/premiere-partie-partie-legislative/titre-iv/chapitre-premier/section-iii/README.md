@@ -7,6 +7,7 @@
 - [4° : Responsabilité des dirigeants et gérants de sociétés](4)
 - [6° : Liquidation des biens.](6)
 - [8° : Procédure accélérée](8)
+- [9° : Contrainte par corps.](9)
 - [Avis à tiers détenteur.](avis-a)
 - [Liquidation judiciaire.](liquidation-judiciaire)
 - [Contrainte par corps.](contrainte-par)
