@@ -1,3 +1,0 @@
-# ASSIETTE ET CONTROLE DE L'IMPOT
-
-- [PROCEDURE DE REGLEMENT PARTICULIERE](procedure-de-reglement-particuliere)
