@@ -16,3 +16,4 @@
 - [Article 670](article-670.md)
 - [Article 671](article-671.md)
 - [Article 672](article-672.md)
+- [Article 673](article-673.md)
