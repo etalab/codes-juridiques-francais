@@ -30,6 +30,7 @@
 - [Article D121-29](article-d121-29.md)
 - [Article D121-30](article-d121-30.md)
 - [Article D121-31](article-d121-31.md)
+- [Article D121-31 bis](article-d121-31-bis.md)
 - [Article D121-32](article-d121-32.md)
 - [Article D121-33](article-d121-33.md)
 - [Article D121-34](article-d121-34.md)
