@@ -1,18 +1,3 @@
 # 7 : Contribution annuelle représentative du droit de bail et contribution additionnelle à la contribution annuelle représentative du droit de bail.
 
-- [Article 375](article-375.md)
-- [Article 376](article-376.md)
-- [Article 377](article-377.md)
-- [Article 378](article-378.md)
-- [Article 379](article-379.md)
-- [Article 380](article-380.md)
-- [Article 381](article-381.md)
-- [Article 381 bis](article-381-bis.md)
-- [Article 381 ter](article-381-ter.md)
-- [Article 381 quater](article-381-quater.md)
-- [Article 381 quinquies](article-381-quinquies.md)
-- [Article 381 sexies](article-381-sexies.md)
-- [Article 381 septies](article-381-septies.md)
-- [Article 381 octies](article-381-octies.md)
-- [Article 381 nonies](article-381-nonies.md)
 - [Article 381 decies](article-381-decies.md)
