@@ -1,5 +1,6 @@
 # Sous-section II : Le jugement rendu par défaut et le jugement réputé contradictoire.
 
+- [Article 471](article-471.md)
 - [Article 472](article-472.md)
 - [Article 473](article-473.md)
 - [Article 474](article-474.md)
