@@ -62,6 +62,7 @@
 - [Article Annexe II : Tableau n° 43](article-annexe-ii-tableau-no-43.md)
 - [Article Annexe II : Tableau n° 45](article-annexe-ii-tableau-no-45.md)
 - [Article Annexe II : Tableau n° 46](article-annexe-ii-tableau-no-46.md)
+- [Article Annexe II : Tableau n° 47](article-annexe-ii-tableau-no-47.md)
 - [Article Annexe II : Tableau n° 49](article-annexe-ii-tableau-no-49.md)
 - [Article Annexe II : Tableau n° 49 bis](article-annexe-ii-tableau-no-49-bis.md)
 - [Article Annexe II : Tableau n° 50](article-annexe-ii-tableau-no-50.md)
