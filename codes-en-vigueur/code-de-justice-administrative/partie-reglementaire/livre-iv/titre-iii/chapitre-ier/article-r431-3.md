@@ -6,7 +6,7 @@ Toutefois, les dispositions du premier alinéa de l'article R. 431-2 ne sont pas
 
 2° Aux litiges en matière de contributions directes, de taxes sur le chiffre d'affaires et de taxes assimilées ;
 
-3° Aux litiges d'ordre individuel concernant les agents publics ;
+3° Aux litiges d'ordre individuel concernant les fonctionnaires ou agents de l'Etat et des autres personnes ou collectivités publiques ainsi que les agents ou employés de la Banque de France ;
 
 4° Aux litiges en matière de pensions, d'aide sociale, d'aide personnalisée au logement, d'emplois réservés et d'indemnisation des rapatriés ;
 
