@@ -6,4 +6,4 @@ Le supplément doit satisfaire aux mêmes conditions de fond et de forme que la 
 
 Le supplément ne peut pas être vendu isolément, ni faire l'objet d'un abonnement séparé.
 
-Lorsque le supplément n'est pas déposé dans le même bureau de poste que la publication principale à laquelle il se rattache, il est taxé séparément.
+Lorsque le supplément n'est pas déposé dans le même établissement que la publication principale à laquelle il se rattache, il est taxé séparément.
