@@ -6,4 +6,5 @@
 - [Article 73 B](article-73-b.md)
 - [Article 73 E](article-73-e.md)
 - [Article 73 F](article-73-f.md)
+- [Article 73 G](article-73-g.md)
 - [Article 73 H](article-73-h.md)
