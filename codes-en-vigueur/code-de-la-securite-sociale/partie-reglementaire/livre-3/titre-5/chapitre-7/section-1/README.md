@@ -12,5 +12,4 @@
 - [Article D357-9](article-d357-9.md)
 - [Article D357-10](article-d357-10.md)
 - [Article D357-11](article-d357-11.md)
-- [Article D357-11-1](article-d357-11-1.md)
 - [Article D357-12](article-d357-12.md)
