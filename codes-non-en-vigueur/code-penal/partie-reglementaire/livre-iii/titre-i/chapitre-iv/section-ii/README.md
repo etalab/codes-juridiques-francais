@@ -1,0 +1,7 @@
+# Section II : De la forfaiture et des crimes et délits des fonctionnaires publics dans l'exercice de leurs fonctions.
+
+- [Paragraphe 1 : Des soustractions commises par les dépositaires publics.](paragraphe-1)
+- [Paragraphe 5 : Des abus d'autorité](paragraphe-5)
+- [Article 166](article-166.md)
+- [Article 167](article-167.md)
+- [Article 168](article-168.md)
