@@ -5,7 +5,6 @@
 - [Chapitre VI : Taxe perçue au profit du comité des fruits à cidre et des productions cidricoles.](chapitre-vi)
 - [Chapitre VII : Taxe parafiscale pour le financement de certains organismes interprofessionnels de vins.](chapitre-vii)
 - [Chapitre IX : Fonds national de développement agricole](chapitre-ix)
-- [Chapitre X : Taxe parafiscale des industries de l'habillement](chapitre-x)
 - [Chapitre XI : Taxe parafiscale de stockage du secteur céréalier.](chapitre-xi)
 - [Chapitre XII : Taxe parafiscale pour le financement des actions du secteur céréalier.](chapitre-xii)
 - [Chapitre XIV : Taxe parafiscale perçue au profit d'un fonds de soutien à l'expression radiophonique.](chapitre-xiv)
