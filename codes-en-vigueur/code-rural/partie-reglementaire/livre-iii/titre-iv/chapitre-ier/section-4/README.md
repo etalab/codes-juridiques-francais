@@ -21,3 +21,6 @@
 - [Article R341-16](article-r341-16.md)
 - [Article R*341-17](article-r-341-17.md)
 - [Article R341-17](article-r341-17.md)
+- [Article R*341-18](article-r-341-18.md)
+- [Article R*341-19](article-r-341-19.md)
+- [Article R*341-20](article-r-341-20.md)
