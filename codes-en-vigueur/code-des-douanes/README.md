@@ -7,7 +7,6 @@
 - [Titre V : Régimes douaniers suspensifs, exportation temporaire, dépôts spéciaux](titre-v)
 - [Titre VI : Dépôt de douane](titre-vi)
 - [Titre VII : Opérations privilégiées](titre-vii)
-- [Titre VIII : Circulation et détention des marchandises à l'intérieur du territoire douanier](titre-viii)
 - [Titre IX : Navigation](titre-ix)
 - [Titre X : Taxes diverses perçues par la douane](titre-x)
 - [Titre XI : Zones franches.](titre-xi)
