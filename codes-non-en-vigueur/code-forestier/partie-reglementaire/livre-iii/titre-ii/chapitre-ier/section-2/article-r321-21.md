@@ -10,4 +10,4 @@ Pour l'application de l'article L. 21-1 (5°) du code de l'expropriation pour ca
 
 4° Sociétés d'aménagement foncier et d'établissement rural en ce qui concerne les immeubles destinés à être mis en culture ou société d'économie mixte d'aménagement pour les terrains affectés à l'habitation.
 
-En application de l'article L. 321-10, le produit des cessions est mis à la disposition du ministre de l'agriculture.
+Lorsque le produit des cessions et soultes est attribué à l'Etat en application de l'article L. 321-10, les crédits correspondants sont mis à la disposition du ministre chargé des forêts.
