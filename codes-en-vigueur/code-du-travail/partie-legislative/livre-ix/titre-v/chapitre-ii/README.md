@@ -4,5 +4,4 @@
 - [Article L952-2](article-l952-2.md)
 - [Article L952-3](article-l952-3.md)
 - [Article L952-4](article-l952-4.md)
-- [Article L952-5](article-l952-5.md)
 - [Article L952-6](article-l952-6.md)

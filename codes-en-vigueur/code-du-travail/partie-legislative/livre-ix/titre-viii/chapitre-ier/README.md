@@ -8,7 +8,3 @@
 - [Article L981-6](article-l981-6.md)
 - [Article L981-7](article-l981-7.md)
 - [Article L981-8](article-l981-8.md)
-- [Article L981-9](article-l981-9.md)
-- [Article L981-10](article-l981-10.md)
-- [Article L981-11](article-l981-11.md)
-- [Article L981-12](article-l981-12.md)
