@@ -18,6 +18,8 @@ d) aux contribuables qui créent une activité dans le cadre d'une concentration
 
 Pour l'ensemble des sociétés d'un même groupe, le montant de l'exonération accordée ne peut excéder le montant visé au IX, dans la limite du résultat d'ensemble du groupe.
 
+I bis. Les bénéfices mentionnés au I sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à hauteur de 20 %, 40 %, 60 % ou 80 % de leur montant selon qu'ils sont réalisés respectivement au cours de la première, deuxième, troisième ou quatrième période de douze mois suivant la période d'exonération visée au I.
+
 II. Le bénéfice ouvrant droit à l'exonération au titre d'un exercice ou d'une année d'imposition est celui déclaré selon les modalités prévues aux articles 50-0, 53 A, 72, 74 A ou fixé conformément aux articles 65 A et 65 B et diminué des produits bruts ci-après qui restent imposables dans les conditions de droit commun :
 
 a) produits des actions ou parts de sociétés, résultats de sociétés ou organismes soumis au régime prévu à l'article 8 lorsqu'ils ne proviennent pas d'une activité exercée en Corse, et résultats de cession des titres de ces sociétés ;
@@ -58,15 +60,7 @@ VIII. L'effectif salarié est apprécié au dernier jour de l'exercice ou de l'a
 
 IX. En aucun cas, le montant de bénéfice exonéré ne peut excéder 61 000 euros par période de douze mois.
 
-X. 1° La fraction des bénéfices exonérée dans les conditions du 2° du IV doit être maintenue dans l'exploitation. Cette condition est remplie si :
-
-a) le compte de l'exploitant individuel n'est pas, pendant la durée d'application du dispositif, inférieur au total des fonds propres investis dans l'entreprise à la clôture du premier exercice d'application du régime, et des bénéfices exonérés ;
-
-b) pour les sociétés, la fraction exonérée des bénéfices est porté à une réserve spéciale au plus tard le 31 décembre de l'année suivant celle de la réalisation des bénéfices.
-
-Pour l'application du présent 1°, lorsque le contribuable bénéficie à la fois des dispositions du 2° du IV et du V, le bénéfice exonéré est réputé provenir en priorité du bénéfice déterminé en application du V.
-
-2° Les bénéfices qui ne sont pas maintenus dans l'exploitation pour un motif autre que la compensation de pertes sont rapportés au résultat de l'exercice en cours lors de ce prélèvement.
+X. (abrogé)
 
 XI. Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies, 208 sexies, 208 quater A ou du régime prévu au présent article, le contribuable peut opter pour ce dernier régime ou demander, le cas échéant, l'agrément prévu au I ou au VI, avant le 1er juillet 1997 s'il exerce déjà son activité en Corse ou, dans le cas contraire, dans les six mois suivant celui de la création de son activité. L'option est irrévocable.
 
