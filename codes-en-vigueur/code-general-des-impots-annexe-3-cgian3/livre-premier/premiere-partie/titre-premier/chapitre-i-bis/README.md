@@ -16,6 +16,7 @@
 - [Section VI quater : Crédit d'impôt au titre des emplois créés.](section-vi-quater)
 - [Section VII : Bénéfice imposable des caisses de crédit mutuel agricole et rural](section-vii)
 - [Section VIII : Régime des groupes de sociétés](section-viii)
+- [Section VIII bis : Régime de taxation au tonnage](section-viii-bis)
 - [Section IX : Entreprises nouvelles bénéficiant des dispositions de l'article 44 septies](section-ix)
 - [Section XI : Régime des amortissements réputés différés en période déficitaire en cas de reprise ou de transfert d'activités](section-xi)
 - [Section XII : Réduction du taux de l'impôt sur les sociétés pour certaines sociétés qui incorporent une fraction de leur bénéfice au capital](section-xii)
