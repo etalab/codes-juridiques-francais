@@ -5,3 +5,4 @@
 - [Chapitre III : Protection contre les risques d'incendie et de panique dans les immeubles recevant du public.](chapitre-iii)
 - [Chapitre IV : Adaptation des constructions pour le temps de guerre.](chapitre-iv)
 - [Chapitre V : Sécurité de certains équipements d'immeubles par destination.](chapitre-v)
+- [Chapitre VII : Gardiennage ou surveillance de certains immeubles d'habitation.](chapitre-vii)
