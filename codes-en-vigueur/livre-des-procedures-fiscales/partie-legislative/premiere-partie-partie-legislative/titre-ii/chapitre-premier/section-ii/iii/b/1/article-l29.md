@@ -12,6 +12,6 @@ Toutefois, sous les conditions déterminées par l'administration, peuvent être
 
 4° Les personnes qui justifient de la nécessité de faire emploi d'appareils de distillation pour des usages déterminés et qui ne mettent en oeuvre aucune matière alcoolique.
 
-Ces dispenses ne peuvent être accordées qu'aux détenteurs pourvus d'une autorisation personnelle toujours révocable donnée par l'administration.
+Ces dispenses ne peuvent être accordées qu'aux détenteurs pourvus d'une autorisation personnelle toujours révocable donnée par le directeur régional des douanes et droits indirects.
 
 (1) Voir code général des impôts, annexe IV, art. 51.
