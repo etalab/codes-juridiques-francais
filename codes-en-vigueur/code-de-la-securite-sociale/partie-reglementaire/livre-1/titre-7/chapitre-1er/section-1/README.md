@@ -1,6 +1,5 @@
 # Section 1 : Dispositions générales.
 
-- [Article D171-1](article-d171-1.md)
 - [Article D171-2](article-d171-2.md)
 - [Article D171-3](article-d171-3.md)
 - [Article D171-4](article-d171-4.md)
