@@ -2,4 +2,5 @@
 
 - [Titre Ier : Règles communes aux assurances de dommages non maritimes et aux assurances de personnes](titre-ier)
 - [Titre II : Règles relatives aux assurances de dommages non maritimes](titre-ii)
+- [Titre IV : Les assurances de groupe](titre-iv)
 - [Titre VI : Dispositions diverses relatives aux contrats d'assurance et de capitalisation](titre-vi)
