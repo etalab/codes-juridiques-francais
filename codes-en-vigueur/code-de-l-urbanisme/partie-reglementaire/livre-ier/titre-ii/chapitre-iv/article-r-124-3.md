@@ -1,3 +1,0 @@
-# Article R*124-3
-
-Les plans d'urbanisme et projets d'aménagement dont l'établissement a été prescrit ou la révision ordonnée antérieurement au 30 décembre 1967 [*date limite*] et qui n'ont pu être rendus publics avant le 1er juillet 1970 ou approuvés avant le 1er juillet 1971 peuvent, à la condition que leur présentation et leur contenu soient rendus conformes aux dispositions des articles R. 123-15 à R. 123-24 être instruits, rendus publics puis approuvés comme plans d'occupation des sols suivant les formes et procédures instituées par le chapitre III du présent titre ou par les articles R. 141-5 et R. 141-6 sans qu'il soit besoin de modifier les actes ayant prescrit leur établissement ou ordonné leur révision.
