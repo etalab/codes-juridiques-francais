@@ -4,15 +4,15 @@ Dans les eaux de la 2e catégorie mentionnées au 1° de l'article L. 235-1 du c
 
 Seuls peuvent être autorisés :
 
-1° Plusieurs filets de type Araignée ou Tramail, d'une longueur cumulée maximum de 60 mètres, ou un carrelet de 25 mètres carrés de superficie au maximum, ou un filet de type Coulette dont l'écartement des branches est inférieur ou égal à 3 mètres, ou un filet de type Coul de 1,50 mètre de diamètre maximum ;
+1° Plusieurs filets de type Araignée ou de type Tramail, d'une longueur cumulée maximum de 60 mètres, ou un carrelet de 25 mètres carrés de superficie au maximum, ou un filet de type Coulette dont l'écartement des branches est inférieur ou égal à 3 mètres, ou un filet de type Coul de 1,50 mètre de diamètre maximum ;
 
 2° Un épervier ;
 
 3° Trois nasses ;
 
-4° Six bosselles à anguilles ou six nasses de type anguillère à écrevisses ou à lamproie ;
+4° Des bosselles à anguilles, des nasses de type anguillère, à écrevisses, à lamproie, au nombre total de six au maximum ;
 
-5° Six balances à écrevisses ou à crevettes ;
+5° Des balances à écrevisses, des balances à crevettes, au nombre total de six au maximum ;
 
 6° Des lignes de fond munies pour l'ensemble d'un maximum de dix-huit hameçons ;
 
