@@ -5,3 +5,4 @@
 - [Article *200](article-200.md)
 - [Article *201](article-201.md)
 - [Article 201 bis](article-201-bis.md)
+- [Article 201 ter](article-201-ter.md)
