@@ -6,3 +6,4 @@
 - [Titre IV : Alsaciens et Lorrains](titre-iv)
 - [Titre V : Militaires et assimilés originaires d'Algérie et des pays d'outre-mer](titre-v)
 - [Titre VI : Etrangers.](titre-vi)
+- [Titre VII : Admission de certains étrangers, ainsi que de certains Français victimes de circonstances particulières, au bénéfice des dispositions du présent code.](titre-vii)

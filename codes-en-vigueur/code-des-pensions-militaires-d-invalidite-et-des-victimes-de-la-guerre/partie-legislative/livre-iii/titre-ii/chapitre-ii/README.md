@@ -2,3 +2,4 @@
 
 - [Section 1 : De la qualité de déporté et interné de la Résistance.](section-1)
 - [Section 2 : Droits des déportés et internés résistants.](section-2)
+- [Section 3 : Dispositions diverses.](section-3)

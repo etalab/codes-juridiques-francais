@@ -1,0 +1,5 @@
+# Paragraphe 2 : Militaires.
+
+- [Article L397](article-l397.md)
+- [Article L398](article-l398.md)
+- [Article L400](article-l400.md)
