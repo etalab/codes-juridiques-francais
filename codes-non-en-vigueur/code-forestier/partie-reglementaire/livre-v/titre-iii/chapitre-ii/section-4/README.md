@@ -5,4 +5,3 @@
 - [Article R532-17](article-r532-17.md)
 - [Article R532-18](article-r532-18.md)
 - [Article R532-19](article-r532-19.md)
-- [Article R532-20](article-r532-20.md)
