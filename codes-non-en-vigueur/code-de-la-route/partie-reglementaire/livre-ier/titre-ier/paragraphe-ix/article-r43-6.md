@@ -10,4 +10,4 @@ Tout conducteur se trouvant dans la nécessité absolue d'immobiliser son véhic
 
 La circulation sur les bandes d'arrêt d'urgence est interdite.
 
-Les dispositions du présent article ne s'appliquent pas aux véhicules des services d'entretien, de police, de gendarmerie, de lutte contre l'incendie, aux véhicules d'intervention des unités mobiles hospitalières, aux ambulances et autres véhicules équipés des dispositifs de la catégorie B prévue à l'article R. 92 (5°) lorsqu'ils circulent à l'occasion d'interventions urgentes et nécessaires.
+Les dispositions du présent article ne s'appliquent pas aux véhicules des services d'entretien, de police, de gendarmerie, des douanes, de lutte contre l'incendie, aux véhicules d'intervention des unités mobiles hospitalières, aux ambulances et autres véhicules équipés des dispositifs de la catégorie B prévue à l'article R. 92 (5°) lorsqu'ils circulent à l'occasion d'interventions urgentes et nécessaires.

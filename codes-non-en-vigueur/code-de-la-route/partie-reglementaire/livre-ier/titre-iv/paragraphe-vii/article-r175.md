@@ -16,6 +16,6 @@ Au cas où les motocyclettes sont équipées d'un side-car, ce dernier doit en o
 
 Ces feux doivent être homologués et installés dans des conditions fixées par arrêté du ministre chargé des transports.
 
-Les motocyclettes des services de police et de gendarmerie, de lutte contre l'incendie et des unités mobiles hospitalières peuvent être équipées des feux spéciaux prévus pour la catégorie A définie à l'article R. 92 (5°).
+Les motocyclettes des services de police et de gendarmerie, des douanes, de lutte contre l'incendie et des unités mobiles hospitalières peuvent être équipées des feux spéciaux prévus pour la catégorie A définie à l'article R. 92 (5°).
 
 Lorsque la remorque d'une motocyclette ou son chargement sont susceptibles de masquer les dispositifs de signalisation prévus aux 2° et 3° du présent article, la remorque doit être munie des dispositifs correspondants.
