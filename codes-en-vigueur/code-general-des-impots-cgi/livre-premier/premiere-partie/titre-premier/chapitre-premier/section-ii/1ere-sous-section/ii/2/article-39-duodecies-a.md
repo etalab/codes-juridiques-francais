@@ -6,4 +6,6 @@
 
 3. Lors de l'acceptation de la promesse unilatérale de vente par le titulaire des droits mentionnés au 1, le prix de revient du bien acquis est majoré du prix d'achat de ces mêmes droits. Ce bien est réputé amorti à concurrence des sommes déduites en application du 2.
 
-4. En cas de cession ultérieure d'un bien acquis à l'échéance d'un contrat de crédit-bail, la plus-value réalisée est considérée comme une plus-value à court terme à hauteur des amortissements pratiqués sur le prix de revient du bien augmentés des amortissements que l'entreprise aurait pu pratiquer comme il est indiqué au 1 pendant la période au cours de laquelle elle a été titulaire du contrat.
+4. En cas de cession ultérieure d'un bien acquis à l'échéance d'un contrat de crédit-bail, la plus-value réalisée est considérée comme une plus-value à court terme à hauteur des amortissements pratiqués sur le prix de revient du bien augmentés des amortissements que l'entreprise aurait pu pratiquer comme il est indiqué au 1 pendant la période au cours de laquelle elle a été titulaire du contrat.    5. Les dispositions du 4 s'appliquent aux cessions de biens intervenues à compter du 1er octobre 1989.
+
+Un décret fixe les modalités d'application des dispositions du présent article ainsi que les obligations déclaratives.
