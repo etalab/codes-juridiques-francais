@@ -6,6 +6,7 @@
 - [Code général des impôts, annexe 3, CGIAN3.](code-general-des-impots-annexe-3-cgian3)
 - [Code général des impôts, annexe 4, CGIAN4.](code-general-des-impots-annexe-4-cgian4)
 - [Code général des impôts, CGI.](code-general-des-impots-cgi)
+- [Code de déontologie des architectes](code-de-deontologie-des-architectes)
 - [Code de l'artisanat](code-de-l-artisanat)
 - [Code de l'aviation civile](code-de-l-aviation-civile)
 - [Code de l'expropriation pour cause d'utilité publique](code-de-l-expropriation-pour-cause-d-utilite-publique)
