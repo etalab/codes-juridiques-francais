@@ -12,3 +12,4 @@
 - [Article R*2-10](article-r-2-10.md)
 - [Article R*2-11](article-r-2-11.md)
 - [Article R*2-12](article-r-2-12.md)
+- [Article R2-12](article-r2-12.md)
