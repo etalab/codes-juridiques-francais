@@ -2,4 +2,3 @@
 
 - [Chapitre Ier : Dispositions communes](chapitre-ier)
 - [Chapitre unique.](chapitre-unique)
-- [Chapitre III : Gestion du patrimoine](chapitre-iii)
