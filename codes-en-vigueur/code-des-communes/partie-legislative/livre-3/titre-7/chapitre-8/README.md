@@ -1,6 +1,7 @@
 # CHAPITRE 8 : Abattoirs et établissements frigorifiques publics.
 
 - [Article L378-1](article-l378-1.md)
+- [Article L378-2](article-l378-2.md)
 - [Article L378-3](article-l378-3.md)
 - [Article L378-4](article-l378-4.md)
 - [Article L378-5](article-l378-5.md)

@@ -4,3 +4,4 @@
 - [SECTION 2 : Fonctionnement.](section-2)
 - [SECTION 3 : Dispositions applicables aux membres des conseils municipaux.](section-3)
 - [SECTION 4 : Attributions des conseils municipaux.](section-4)
+- [SECTION 5 : Nullité des délibérations des conseils municipaux](section-5)

@@ -1,3 +1,3 @@
 # Dispositions générales.
 
-- [Article L312-5](article-l312-5.md)
+- [Article L312-2](article-l312-2.md)
