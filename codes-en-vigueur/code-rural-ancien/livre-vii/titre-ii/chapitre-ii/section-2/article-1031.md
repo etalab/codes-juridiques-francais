@@ -18,6 +18,6 @@ Les dispositions des articles 1033-1 à 1036 et 1143 à 1143-5 s'appliquent au r
 
 Le versement des cotisations est suspendu pendant la période du service national ou en cas d'appel sous les drapeaux.
 
-Des cotisations forfaitaires peuvent être fixées par arrêté interministériels pour certaines catégories de travailleurs salariés ou assimilés.
+Des cotisations forfaitaires peuvent être fixées par arrêté interministériel pour certaines catégories de travailleurs salariés ou assimilés.
 
-La rémunération des personnes mentionnées au 1 de l'article L. 128 du code du travail dont l'activité n'excède pas la durée fixée par le décret prévu à l'article L. 241-11 du code de la sécurité sociale ne donne pas lieu à cotisations d'assurances sociales agricoles.
+La rémunération des personnes mentionnées au 1 de l'article L. 128 du code du travail dont l'activité n'excède pas la durée fixée par le décret prévu à l'article L. 241-11 du code de la sécurité sociale ne donne pas lieu à cotisations d'assurances sociales agricoles à la charge de l'employeur.
