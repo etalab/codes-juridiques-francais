@@ -2,7 +2,6 @@
 
 - [Article L11-4](article-l11-4.md)
 - [Article L11-6](article-l11-6.md)
-- [Article L13](article-l13.md)
 - [Article L14](article-l14.md)
 - [Article L15](article-l15.md)
 - [Article L16](article-l16.md)
