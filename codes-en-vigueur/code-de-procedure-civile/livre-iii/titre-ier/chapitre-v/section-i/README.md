@@ -3,7 +3,6 @@
 - [Sous-section I : La compétence.](sous-section-i)
 - [Sous-section III : Les demandes.](sous-section-iii)
 - [Sous-section IV : L'enquête sociale et les décisions relatives à l'exercice de l'autorité parentale.](sous-section-iv)
-- [Sous-section V : La prestation compensatoire.](sous-section-v)
 - [Sous-section VI : La publicité des jugements de divorce.](sous-section-vi)
 - [Sous-section VII : La modification des mesures accessoires.](sous-section-vii)
 - [Article 1075-2](article-1075-2.md)

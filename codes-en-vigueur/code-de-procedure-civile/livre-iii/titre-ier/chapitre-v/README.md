@@ -6,4 +6,3 @@
 - [Section IV : Le divorce demandé par un époux et accepté par l'autre.](section-iv)
 - [Section V : La séparation de corps.](section-v)
 - [Section VI : Le divorce sur conversion de la séparation de corps.](section-vi)
-- [Section VII : Dispositions diverses.](section-vii)
