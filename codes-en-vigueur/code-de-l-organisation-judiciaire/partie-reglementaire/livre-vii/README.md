@@ -10,3 +10,4 @@
 - [Titre IX : Participation aux commissions non juridictionnelles](titre-ix)
 - [Titre X : Audiences foraines](titre-x)
 - [Titre XI : Assistance du juge par le secrétaire de la juridiction](titre-xi)
+- [Titre XII : Maisons de justice et du droit](titre-xii)
