@@ -5,3 +5,4 @@
 - [Article L34](article-l34.md)
 - [Article L35](article-l35.md)
 - [Article L35 bis](article-l35-bis.md)
+- [Article L35 ter](article-l35-ter.md)
