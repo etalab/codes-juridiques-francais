@@ -1,4 +1,4 @@
-# TAXE SUR LES DEFRICHEMENTS
+# TAXE SUR LES CONVENTIONS D'ASSURANCES
 
 - [Article 991](article-991.md)
 - [Article 995](article-995.md)
