@@ -1,6 +1,5 @@
 # Livre VII : Dispositions particulières à certaines professions
 
-- [Titre Ier : Energie](titre-ier)
 - [Titre II : Industries de transformation](titre-ii)
 - [Titre III : Bâtiments et travaux publics](titre-iii)
 - [Titre IV : Transports et télécommunications](titre-iv)
