@@ -2,4 +2,4 @@
 
 - [Chapitre Ier : Contrat d'apprentissage.](chapitre-ier)
 - [Chapitre II : Contrat de travail](chapitre-ii)
-- [Chapitre IV : SALAIRES](chapitre-iv)
+- [Chapitre IV : SALAIRE](chapitre-iv)
