@@ -18,7 +18,7 @@ Licence de pilote de réception d'hélicoptères (1) ;
 
 Catégorie Transport aérien :
 
-Licence de pilote de ligne d'avions,
+Licence de pilote de ligne d'avion,
 
 Licence de pilote professionnel de 1re classe d'avion,
 
@@ -36,9 +36,9 @@ Licence de pilote professionnel de 1re classe d'avion,
 
 Licence de pilote professionnel d'avion,
 
-Licence de pilote de ligne d'hélicoptère,
+Licence de pilote de ligne d'hélicoptère;
 
-Licence de pilote professionnel d'hélicoptère (2) ;
+Licence de pilote professionnel d'hélicoptère (2).
 
 2° Registres B
 
@@ -48,7 +48,7 @@ Licence d'ingénieur navigant d'essais,
 
 Licence de mécanicien navigant possédant la qualification Essais et réceptions,
 
-Licence de radionavigant possédant la qualification Essais et réceptions ;
+Licence de radio navigant possédant la qualification Essais et réceptions ;
 
 Catégorie Transport aérien :
 
@@ -56,7 +56,9 @@ Licence de navigateur,
 
 Licence de mécanicien navigant,
 
-Licence de radionavigant ;
+Licence de radio navigant ;
+
+Licence d'ingénieur navigant de l'aviation civile.
 
 Catégorie Travail aérien :
 
@@ -64,7 +66,7 @@ Licence de navigateur,
 
 Licence de mécanicien navigant,
 
-Licence de radionavigant ;
+Licence de radio navigant ;
 
 Licence d'ingénieur navigant de l'aviation civile (3) ;
 
@@ -92,8 +94,4 @@ Catégorie Travail aérien :
 
 Certificat de sécurité sauvetage.
 
-(1) Décret n° 79-144 du 17 janvier 1979 (art. 1er).
-
-(2) Décret n° 69-1 du 2 janvier 1969 (art. 1er).
-
-(3) Décret n° 85-57 du 17 janvier 1985 (art. 1er).
+Donnent également droit à l'inscription aux registres les titres délivrés par les autres Etats membres de la Communauté économique européenne et validés par le ministre chargé de l'aviation civile ou, dans le domaine des essais et réceptions, par le ministre de la défense, sous réserve qu'ils soient en cours de validité.
