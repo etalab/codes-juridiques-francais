@@ -5,4 +5,3 @@
 - [TROISIEME PARTIE : LE DÉPARTEMENT](troisieme-partie)
 - [QUATRIÈME PARTIE : LA RÉGION](quatrieme-partie)
 - [CINQUIÈME PARTIE : LA COOPÉRATION LOCALE](cinquieme-partie)
-- [Article L3534-7](article-l3534-7.md)
