@@ -1,7 +1,5 @@
-# Chapitre II : Les actes de l'état civil
+# Section I : De la rectification des actes de l'état civil.
 
-- [Section I : De la rectification des actes de l'état civil.](section-i)
-- [Section III : De la transcription et de la mention des décisions sur les registres de l'état civil](section-iii)
 - [Article 1046](article-1046.md)
 - [Article 1047](article-1047.md)
 - [Article 1048](article-1048.md)
@@ -14,4 +12,3 @@
 - [Article 1053](article-1053.md)
 - [Article 1054](article-1054.md)
 - [Article 1055](article-1055.md)
-- [Article 1056](article-1056.md)
