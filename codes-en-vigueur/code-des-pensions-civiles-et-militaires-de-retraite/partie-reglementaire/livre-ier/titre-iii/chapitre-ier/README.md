@@ -6,4 +6,3 @@
 - [Article D11](article-d11.md)
 - [Article D12](article-d12.md)
 - [Article D13](article-d13.md)
-- [Article D14](article-d14.md)
