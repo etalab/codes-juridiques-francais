@@ -15,6 +15,7 @@
 - [Article 43-6](article-43-6.md)
 - [Article 43-8](article-43-8.md)
 - [Article 43-9](article-43-9.md)
+- [Article 43-10](article-43-10.md)
 - [Article 43-11](article-43-11.md)
 - [Article R1](article-r1.md)
 - [Article R1-2](article-r1-2.md)
