@@ -2,6 +2,7 @@
 
 - [Article 679](article-679.md)
 - [Article 680](article-680.md)
+- [Article 681](article-681.md)
 - [Article 682](article-682.md)
 - [Article 683](article-683.md)
 - [Article 684](article-684.md)
