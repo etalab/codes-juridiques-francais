@@ -14,7 +14,7 @@ Chaque comité régional est informé notamment des contrats de progrès quinque
 
 Dans les régions d'outre-mer, les conventions tripartites mentionnées à l'alinéa précédent précisent les conditions dans lesquelles l'Association nationale pour la formation professionnelle des adultes apporte un concours technique aux interventions des associations régionales pour la formation professionnelle des adultes.
 
-Les comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi comprennent des représentants élus des collectivités territoriales. Ces comités se réunissent au moins une fois par an sous la présidence du préfet du département qui, à cette occasion, présente le bilan de la politique de l'emploi et de la formation professionnelle dans le département.
+Les comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi comprennent [*composition*] des représentants élus des collectivités territoriales et les parlementaires du département. Ces comités se réunissent au moins une fois par an sous la présidence du préfet du département qui, à cette occasion, présente le bilan de la politique de l'emploi et de la formation professionnelle dans le département.
 
 Les membres non fonctionnaires des comités visés à l'alinéa précédent bénéficient pendant les heures qu'ils consacrent à leur mission d'une rémunération, dans le cas où elle n'est pas prévue par ailleurs, et perçoivent le remboursement de leurs frais de déplacement.
 
