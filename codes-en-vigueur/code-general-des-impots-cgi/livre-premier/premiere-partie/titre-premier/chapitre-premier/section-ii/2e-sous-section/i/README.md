@@ -16,7 +16,6 @@
 - [Article 160 A](article-160-a.md)
 - [Article 161](article-161.md)
 - [Article 162](article-162.md)
-- [Article 163](article-163.md)
 - [Article 163 bis](article-163-bis.md)
 - [Article 163 bis C](article-163-bis-c.md)
 - [Article 163 bis D](article-163-bis-d.md)

@@ -4,9 +4,13 @@
 
 2. Sous réserve des dispositions de l'article 239 ter, les sociétés civiles sont également passibles dudit impôt, même lorsqu'elles ne revêtent pas l'une des formes visées au 1, si elles se livrent à une exploitation ou à des opérations visées aux articles 34 et 35.
 
-3. Sont soumises à l'impôt sur les sociétés si elles optent pour leur assujettissement à cet impôt dans les conditions prévues à l'article 239 :
+Toutefois les sociétés civiles dont l'activité principale entre dans le champ d'application de l'article 63 peuvent bénéficier des dispositions de l'article 72 bis.
+
+3. Sont soumises à l'impôts sur les sociétés si elles optent pour leur assujettissement à cet impôt dans les conditions prévues à l'article 239 :
 
 Les sociétés en nom collectif ;
+
+Les sociétés civiles mentionnées au 1° de l'article 8 ;
 
 Les sociétés en commandite simple ;
 
@@ -28,7 +32,7 @@ b. De l'exploitation des propriétés agricoles ou forestières ;
 
 c. Des revenus de capitaux mobiliers dont ils disposent - à l'exception des dividendes des sociétés françaises - lorsque ces revenus n'entrent pas dans le champ d'application de la retenue à la source visée à l'article 119 bis ; ces revenus sont comptés dans le revenu imposable pour leur montant brut ;
 
-D. Des dividendes des sociétés immobilières et des sociétés agréées visées aux 3° ter à 3° sexies de l'article 208 et à l'article 208 B perçus à compter du 1er janvier 1987. Ces dividendes sont comptés dans le revenu imposable pour leur montant brut.
+d. Des dividendes des sociétés immobilières et des sociétés agréées visées aux 3° ter à 3° sexies de l'article 208 et à l'article 208 B perçus à compter du 1er janvier 1987. Ces dividendes sont comptés dans le revenu imposable pour leur montant brut.
 
 5 bis. Les associations intermédiaires agréées en application de l'article L128 du code du travail sont soumises à l'impôt sur les sociétés dans les conditions prévues au 5 ;
 
@@ -46,11 +50,11 @@ Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions d'appli
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article (4).
 
-9° Les caisses de crédit mutuel agricole et rural affiliées à la fédération centrale du crédit mutuel agricole et rural visée à l'article 20 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit sont assujetties à l'impôt sur les sociétés dans les conditions de droit commun (5).
+9. Les caisses de crédit mutuel agricole et rural affiliées à la fédération centrale du crédit mutuel agricole et rural visée à l'article 20 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit sont assujetties à l'impôt sur les sociétés dans les conditions de droit commun.
 
-Un décret fixe les conditions d'application du présent paragraphe (6).
+Un décret fixe les conditions d'application du présent paragraphe (5).
 
-10. Les caisses d'épargne et de prévoyance et les caisses de crédit municipal sont assujetties à l'impôt sur les sociétés (7).
+10. Les caisses d'épargne et de prévoyance et les caisses de crédit municipal sont assujetties à l'impôt sur les sociétés (6).
 
 (1) Voir Annexe III, art. 46 quater-0 A.
 
@@ -60,8 +64,6 @@ Un décret fixe les conditions d'application du présent paragraphe (6).
 
 (4) Annexe II, art. 102 RA à 102 RC.
 
-(5) Disposition applicable aux exercices ouverts à compter du 1er janvier 1985.
+(5) Annexe III, art. 46 quater-0 Z à 46 quater-0 ZC.
 
-(6) Annexe III, art. 46 quater-0 Z à 46 quater-0 ZC.
-
-(7) Voir art. 217 octies.
+(6) Voir art. 217 octies.
