@@ -10,7 +10,7 @@
 
 4° Construction, aménagement et entretien des locaux scolaires dans les zones et secteurs mentionnées aux 2° et 3° et réalisés ou déterminés par la communauté ; à l'expiration d'un délai de dix ans à dater de leur mise en service, la propriété et l'entretien de ces locaux sont transférés, sur sa demande, à la commune sur le territoire de laquelle ils sont situés ; en ce cas, les conditions de prise en charge des annuités d'emprunt afférentes à ces locaux sont déterminées par délibérations concordantes du conseil de communauté et du conseil municipal intéressé ;
 
-5° Services d'incendie et de secours ;
+5° Services d'incendie et de secours sous réserve des dispositions du chapitre IV du titre II du livre IV de la première partie ;
 
 6° Transports urbains de voyageurs ;
 
