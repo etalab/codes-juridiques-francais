@@ -1,3 +1,3 @@
 # Article R6
 
-Le tribunal administratif de Paris comprend sept sections. Chacune d'elles comporte deux chambres.
+Le tribunal administratif de Paris comprend treize chambres réparties en sections.

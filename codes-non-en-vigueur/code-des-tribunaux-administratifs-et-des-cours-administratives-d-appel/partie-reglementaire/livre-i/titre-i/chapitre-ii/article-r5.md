@@ -8,7 +8,7 @@ Bordeaux : trois chambres ;
 
 Caen : deux chambres ;
 
-Châlons-sur-Marne : deux chambres ;
+Châlons-en-Champagne : deux chambres ;
 
 Clermont-Ferrand : deux chambres ;
 
@@ -21,6 +21,8 @@ Lille : cinq chambres ;
 Lyon : cinq chambres ;
 
 Marseille : six chambres ;
+
+Melun : cinq chambres ;
 
 Montpellier : quatre chambres ;
 
@@ -44,4 +46,4 @@ Strasbourg : quatre chambres ;
 
 Toulouse : trois chambres ;
 
-Versailles : sept chambres.
+Versailles : six chambres.
