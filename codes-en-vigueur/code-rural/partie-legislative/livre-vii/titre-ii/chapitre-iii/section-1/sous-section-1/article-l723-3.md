@@ -20,6 +20,8 @@ Les caisses comprennent obligatoirement les sections suivantes :
 
 6° bis Assurance contre les accidents du travail et les maladies professionnelles des personnes non salariées mentionnées à l'article L. 752-1 ;
 
+6° ter Assurance vieillesse complémentaire obligatoire des non-salariés agricoles ;
+
 7° Le cas échéant, des sections assurances complémentaires facultatives maladie, invalidité et maternité et assurance vieillesse des non-salariés agricoles.
 
 Les caisses de mutualité sociale agricole peuvent créer toute autre section qui s'avérerait nécessaire après autorisation de l'autorité administrative.
