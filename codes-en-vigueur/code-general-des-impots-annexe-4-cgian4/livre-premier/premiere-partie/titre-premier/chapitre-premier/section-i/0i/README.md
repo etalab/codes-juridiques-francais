@@ -2,4 +2,3 @@
 
 - [Article 02](article-02.md)
 - [Article 02 bis](article-02-bis.md)
-- [Article 03](article-03.md)
