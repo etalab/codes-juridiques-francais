@@ -1,5 +1,7 @@
 # Titre 2 : Contrôle sanitaire aux frontières.
 
+- [Article L52](article-l52.md)
+- [Article L53](article-l53.md)
 - [Article L55](article-l55.md)
 - [Article L56](article-l56.md)
 - [Article L57](article-l57.md)
