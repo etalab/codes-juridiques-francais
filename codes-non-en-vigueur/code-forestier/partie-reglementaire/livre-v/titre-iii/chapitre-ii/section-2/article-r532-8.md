@@ -1,11 +1,9 @@
 # Article R532-8
 
-Les subventions en espèces pouvant être allouées sont déterminées par l'application au montant du devis estimatif approuvé par l'autorité compétente d'un pourcentage fixé dans les limites suivantes :
+Les subventions accessoires en espèces peuvent être accordées :
 
-- 10 à 30 p. 100 pour les opérations mentionnées à l'article R. 532-7 (3°) ;
+1° Conjointement aux bons subventions ou aux subventions en nature pour la réalisation de travaux connexes liés à l'opération de plantation et de semis ;
 
-- 20 à 50 p. 100 pour les opérations mentionnées à l'article R. 532-7 (1°, 2°, 6° et 9°) ;
+2° Pour la réalisation de travaux d'élagage.
 
-- 30 à 80 p. 100 pour les opérations mentionnées à l'article R. 532-7 (4°, 5° et 7°).
-
-Un arrêté conjoint des ministres chargés de l'économie et des finances et du ministre de l'agriculture fixe les conditions et les modalités d'attribution des subventions prévues à l'article R. 532-7 (8°).
+Les subventions accessoires ne peuvent excéder 50 p. 100 du montant hors taxes du projet concernant ces travaux approuvé par l'administration.
