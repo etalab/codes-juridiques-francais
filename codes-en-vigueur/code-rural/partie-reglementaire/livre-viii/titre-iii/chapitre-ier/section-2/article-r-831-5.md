@@ -1,6 +1,6 @@
 # Article R*831-5
 
-Le conseil d'administration se réunit aussi souvent qu'il est nécessaire et au moins quatre fois par an, sur convocation de son président qui en fixe l'ordre du jour.
+Le conseil d'administration se réunit aussi souvent qu'il est nécessaire et au moins quatre fois par an, sur convocation de son président.
 
 Le conseil d'administration ne délibère valablement que si la majorité de ses membres est présente. Si le quorum n'est pas atteint, le conseil est de nouveau convoqué avec le même, ordre du jour dans un délai maximal de trois semaines ; il délibère alors valablement sans condition de quorum.
 

@@ -1,6 +1,6 @@
 # Article R*831-10
 
-Un conseil scientifique est institué auprès du président du conseil d'administration.
+Un conseil scientifique assiste le président de l'institut et le directeur général.
 
 Il est constitué de personnalités scientifiques extérieures à l'institut, de responsables scientifiques de la recherche publique, de l'enseignement supérieur, des instituts ou centres techniques et de développement du secteur agricole, des industries liées à l'agriculture ainsi que de représentants élus des chercheurs et des ingénieurs de l'institut.
 
