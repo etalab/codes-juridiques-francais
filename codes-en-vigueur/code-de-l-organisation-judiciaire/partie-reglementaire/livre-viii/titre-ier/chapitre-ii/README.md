@@ -1,5 +1,6 @@
 # Chapitre II : Fonctionnement
 
+- [Article R*812-2](article-r-812-2.md)
 - [Article R*812-4](article-r-812-4.md)
 - [Article R*812-5](article-r-812-5.md)
 - [Article R*812-6](article-r-812-6.md)
