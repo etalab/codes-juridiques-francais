@@ -1,4 +1,3 @@
 # DES PEINES EN MATIERE CRIMINELLE ET CORRECTIONNELLE, ET DE LEURS EFFETS
 
-- [Chapître II](chapitre-ii)
 - [CHAPITRE III](chapitre-iii)
