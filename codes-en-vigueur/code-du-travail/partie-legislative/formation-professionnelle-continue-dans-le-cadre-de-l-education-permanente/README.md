@@ -3,7 +3,6 @@
 - [AIDE DE L'ETAT .](aide-de-l-etat)
 - [CONGE DE FORMATION .](conge-de-formation)
 - [CONVENTIONS DE FORMATION PROFESSIONNELLE .](conventions-de-formation-professionnelle)
-- [INSTITUTIONS DE LA FORMATION PROFESSIONNELLE .](institutions-de-la-formation-professionnelle)
 - [PROTECTION SOCIALE DES STAGIAIRES DE LA FORMATION PROFESSIONNELLE .](protection-sociale-des-stagiaires-de-la-formation-professionnelle)
 - [PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION  PROFESSIONNELLE  CONTINUE .](participation-des-employeurs-au)
 - [AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION  PROFESSIONNELLE .](aides-financieres-accordees-aux)
