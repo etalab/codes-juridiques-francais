@@ -10,6 +10,7 @@
 - [Article 74-0 E](article-74-0-e.md)
 - [Article 74-0 F](article-74-0-f.md)
 - [Article 74-0 G](article-74-0-g.md)
+- [Article 74-0 G bis](article-74-0-g-bis.md)
 - [Article 74-0 H](article-74-0-h.md)
 - [Article 74-0 J](article-74-0-j.md)
 - [Article 74-0 K](article-74-0-k.md)
