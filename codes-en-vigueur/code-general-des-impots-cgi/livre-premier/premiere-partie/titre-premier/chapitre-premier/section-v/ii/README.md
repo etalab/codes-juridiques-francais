@@ -5,7 +5,7 @@
 - [11° : Réduction d'impôt accordée au titre des investissements immobiliers locatifs.](11)
 - [12° : Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer](12)
 - [13° : Réduction d'impôt au titre des souscriptions au capital de sociétés nouvelles.](13)
-- [14° : Réduction d'impôt au titre des souscriptions au numéraire au capital de sociétés non cotées.](14)
+- [14° : Réduction d'impôt accordée au titre des souscriptions en numéraire au capital des sociétés ainsi qu'au titre des souscriptions de parts de fonds communs de placement dans l'innovation](14)
 - [17° : Réduction ou crédit d'impôt accordé au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet](17)
 - [18° : Réduction d'impôt accordée au titre des dons faits par les particuliers](18)
 - [3° : Réduction d'impôt accordée au titre des cotisations versées aux organisations syndicales](3)
