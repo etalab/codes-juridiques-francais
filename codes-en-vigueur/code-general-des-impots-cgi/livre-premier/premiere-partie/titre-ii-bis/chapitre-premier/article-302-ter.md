@@ -12,9 +12,11 @@ Pour la détermination du chiffre d'affaires annuel, les ventes d'essence, de su
 
 Ces dispositions ne sont pas applicables en cas de changement d'activité.
 
+1 ter. Les entreprises normalement placées sous le régime du forfait peuvent opter pour un régime réel d'imposition, selon des modalités fixées par décret en Conseil d'Etat.
+
 2. Sont exclues du régime du forfait :
 
-a) les sociétés ou organismes dont les résultats sont imposés selon le régime des sociétés de personnes défini à l'article 8, à l'exception des sociétés civiles soumises au régime du bénéfice forfaitaire agricole dont l'activité principale entre dans le champ d'application de l'article 63 et qui sont visées au 2 de l'article 206 (1)
+a) les sociétés ou organismes dont les résultats sont imposés selon le régime des sociétés de personnes défini à l'article 8, à l'exception des sociétés civiles soumises au régime du bénéfice forfaitaire agricole dont l'activité principale entre dans le champ d'application de l'article 63 et qui sont visées au 2 de l'article 206.
 
 b) les personnes morales passibles de l'impôt sur les sociétés;
 
@@ -30,9 +32,9 @@ f) Les opérations visées au 8° du I de l'article 35 ;
 
 3 et 4  (Abrogés).
 
-5. Les forfaits de chiffre d'affaires et de bénéfice sont établis par année civile (2) et pour une période de deux ans; les montants servant de base à l'impôt peuvent être différents pour chacune des deux années de cette période.
+5. Les forfaits de chiffre d'affaires et de bénéfice sont établis par année civile (1) et pour une période de deux ans; les montants servant de base à l'impôt peuvent être différents pour chacune des deux années de cette période.
 
-((Par exception aux dispositions du premier alinéa, le chiffre d'affaires et le bénéfice sont fixés par année civile pour les périodes d'imposition couvertes par les procédures de taxation d'office ou d'évaluation d'office prévues au 3° de l'article L. 66 et au 1° de l'article L. 73 du livre des procédures fiscales)) (M).
+Par exception aux dispositions du premier alinéa, le chiffre d'affaires et le bénéfice sont fixés par année civile pour les périodes d'imposition couvertes par les procédures de taxation d'office ou d'évaluation d'office prévues au 3° de l'article L. 66 et au 1° de l'article L. 73 du livre des procédures fiscales.
 
 6. Les forfaits sont conclus après l'expiration de la première année de la période biennale pour laquelle ils sont fixés.
 
@@ -48,8 +50,4 @@ b) par l'administration, pendant les trois premiers mois des mêmes années.
 
 10. (Transféré sous l'article L8 du livre des procédures fiscales).
 
-(1) Cette disposition s'applique pour la détermination des résultats imposables des exercices ouverts à compter du 1er janvier 1996. [*Cf. Instruction 1996-08-20 4G-3-96.*]
-
-(2) En cas de passage du régime du bénéfice réel ou du régime simplifié à celui du forfait, voir Annexe II, art. 38.
-
-(M) Modification de la loi 96-1181.
+(1) En cas de passage du régime du bénéfice réel ou du régime simplifié à celui du forfait, voir Annexe II, art. 38.
