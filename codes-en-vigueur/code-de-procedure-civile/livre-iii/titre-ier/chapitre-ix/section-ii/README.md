@@ -1,6 +1,8 @@
 # Section II : L'assistance éducative
 
+- [Article 1184](article-1184.md)
 - [Article 1186](article-1186.md)
+- [Article 1189](article-1189.md)
 - [Article 1193](article-1193.md)
 - [Article 1194](article-1194.md)
 - [Article 1195](article-1195.md)
