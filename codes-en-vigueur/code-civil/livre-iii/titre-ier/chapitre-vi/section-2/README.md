@@ -1,5 +1,6 @@
 # Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles.
 
+- [Article 843](article-843.md)
 - [Article 845](article-845.md)
 - [Article 846](article-846.md)
 - [Article 847](article-847.md)
