@@ -12,4 +12,3 @@
 - [Livre VII : Dispositions particulières à certaines professions](livre-vii)
 - [LIVRE VIII : DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM TITRE III : PLACEMENT ET EMPLOI](livre-viii)
 - [Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente.](livre-ix)
-- [CONFLITS DU TRAVAIL](conflits-du-travail)

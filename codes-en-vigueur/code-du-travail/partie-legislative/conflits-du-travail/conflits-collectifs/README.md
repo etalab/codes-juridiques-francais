@@ -1,3 +1,0 @@
-# CONFLITS COLLECTIFS
-
-- [LA GREVE .](la-greve)

@@ -1,3 +1,0 @@
-# CONFLITS DU TRAVAIL
-
-- [CONFLITS COLLECTIFS](conflits-collectifs)
