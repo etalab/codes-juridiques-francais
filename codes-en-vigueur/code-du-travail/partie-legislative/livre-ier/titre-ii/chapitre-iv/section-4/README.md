@@ -7,3 +7,4 @@
 - [Article L124-18](article-l124-18.md)
 - [Article L124-19](article-l124-19.md)
 - [Article L124-20](article-l124-20.md)
+- [Article L124-21](article-l124-21.md)

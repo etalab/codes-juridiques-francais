@@ -2,7 +2,7 @@
 
 1. Les intérêts de retard sont calculés à partir du premier jour du mois suivant celui au cours duquel l'impôt aurait dû être acquitté.
 
-2. Toutefois, en ce qui concerne les impôts sur les revenus et les taxes accessoires, autres que l'impôt sur les sociétés, la taxe d'apprentissage, la participation des employeurs au financement de la formation professionnelle continue, les retenues opérées au titre de l'impôt sur le revenu et de la taxe sur les salaires, le point de départ du calcul des intérêts de retard prévus à l'article 1728 et à l'article L 62 du livre des procédures fiscales est le 1er juillet de l'année suivant celle au titre de laquelle l'imposition est établie.
+2. Toutefois, en ce qui concerne les impôts sur les revenus et les taxes accessoires, autres que l'impôt sur les sociétés, la taxe d'apprentissage, la participation des employeurs au développement de la formation professionnelle continue, les retenues opérées au titre de l'impôt sur le revenu et de la taxe sur les salaires, le point de départ du calcul des intérêts de retard prévus à l'article 1728 et à l'article L 62 du livre des procédures fiscales est le 1er juillet de l'année suivant celle au titre de laquelle l'imposition est établie.
 
 En cas d'imposition établie dans les conditions fixées aux articles 201 à 204, ce point de départ est le premier jour du quatrième mois suivant celui de l'expiration du délai de déclaration.
 
