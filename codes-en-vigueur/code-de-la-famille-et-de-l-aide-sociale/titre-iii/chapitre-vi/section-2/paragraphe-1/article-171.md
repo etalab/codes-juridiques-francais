@@ -1,3 +1,0 @@
-# Article 171
-
-Le grand infirme qui peut se livrer à un travail régulier constituant l'exercice normal d'une profession et comportant une rémunération mensuelle au moins égale au minimum de la pension vieillesse accordée aux assurés sociaux à l'âge de soixante-cinq ans ou celui qui, après apprentissage ou rééducation, justifie ne pouvoir travailler effectivement pour une cause de force majeure, reçoit une allocation de compensation dont le taux varie, selon l'état de l'infirme, entre 40 et 60 p. 100 de la majoration prévue à l'article 314 du Code de la sécurité sociale. Le taux de l'allocation de compensation est fixé à 90 p. 100 de ladite majoration lorsque l'état de l'infirme nécessite l'aide constante d'une tierce personne.
