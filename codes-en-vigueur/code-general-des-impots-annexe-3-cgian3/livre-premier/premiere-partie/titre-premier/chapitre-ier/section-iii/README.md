@@ -2,6 +2,7 @@
 
 - [1° : Retenue à la source sur les salaires, droits d'auteur et rémunérations versés aux auteurs, artistes et sportifs domiciliés fiscalement en France](1)
 - [10° : Crédit d'impôt pour l'acquisition ou la location de certains véhicules automobiles](10)
+- [11° : Réduction d'impôt pour intérêts des prêts à la consommation](11)
 - [3° : Réduction d'impôt au titre de certains investissements réalisés outre-mer](3)
 - [5° : Réduction d'impôt au titre des souscriptions en numéraire au capital de sociétés non cotées](5)
 - [6° : Réduction d'impôt au titre des souscriptions de parts de fonds communs de placement dans l'innovation](6)
