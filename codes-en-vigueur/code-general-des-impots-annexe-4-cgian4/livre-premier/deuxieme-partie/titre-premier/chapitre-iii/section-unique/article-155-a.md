@@ -20,6 +20,6 @@ Strasbourg, fixé par décret du 27 septembre 1925, modifié par arrêtés des 1
 
 3° Périmètres résultant de la délimitation des ports maritimes de Calais, Boulogne-sur-Mer, Caen, Cherbourg, Brest, Quimper, Lorient, La Rochelle, Bayonne, Sète.
 
-4° Périmètre limitant les terrains concédés à l'office national de la navigation au port de Bonneuil-sur-Marne, tel qu'il résulte du plan annexé au règlement d'exploitation approuvé par décision ministérielle du 27 août 1953, complétée par décisions ministérielles des 13 février 1965 et 1er juillet 1966.
+4° Périmètre limitant les terrains concédés aux voies navigables de France au port de Bonneuil-sur-Marne, tel qu'il résulte du plan annexé au règlement d'exploitation approuvé par décision ministérielle du 27 août 1953, complétée par décisions ministérielles des 13 février 1965 et 1er juillet 1966.
 
 5° Périmètre du port de Gennevilliers tel qu'il résulte du plan annexé au décret n° 67-791 du 11 septembre 1967.
