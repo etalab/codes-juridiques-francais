@@ -8,6 +8,7 @@
 - [Article 74 A](article-74-a.md)
 - [Article 74 A bis](article-74-a-bis.md)
 - [Article 74 B](article-74-b.md)
+- [Article 74 B bis](article-74-b-bis.md)
 - [Article 74 E](article-74-e.md)
 - [Article 74 F](article-74-f.md)
 - [Article 74 G](article-74-g.md)
