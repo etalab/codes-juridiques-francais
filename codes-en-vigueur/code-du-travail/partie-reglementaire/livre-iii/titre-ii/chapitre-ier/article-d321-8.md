@@ -12,6 +12,4 @@ Cinq mois de salaire brut pour le salarié âgé de cinquante-cinq ans et de moi
 
 Six mois de salaire brut pour le salarié âgé de cinquante-six ans et plus.
 
-Toutefois, dans les entreprises employant habituellement moins de vingt salariés, les cotisations fixées par l'alinéa précédent sont réduites de moitié.
-
 L'âge du salarié s'apprécie à la date à laquelle le contrat de travail prend fin.
