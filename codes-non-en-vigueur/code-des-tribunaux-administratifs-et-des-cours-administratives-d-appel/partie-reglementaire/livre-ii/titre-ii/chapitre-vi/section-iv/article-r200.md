@@ -10,4 +10,4 @@ Ils font apparaître la date de l'audience et la date à laquelle ils ont été 
 
 Ils sont motivés.
 
-Les noms des membres qui ont concouru à la décision y sont mentionnés.
+Les noms du ou des magistrats qui ont rendu la décision y sont mentionnés.

@@ -1,6 +1,6 @@
 # Article R17
 
-Les jugements des tribunaux administratifs sont rendus par une formation de trois membres.
+Sauf lorsqu'ils relèvent d'un magistrat statuant seul en application des dispositions législatives du présent code, les jugements des tribunaux administratifs sont rendus par une formation de trois membres.
 
 Chaque tribunal administratif peut, à titre exceptionnel, se réunir en formation plénière. Lorsque les membres présents à la séance sont en nombre pair, le dernier conseiller dans l'ordre du tableau ne siège pas.
 
