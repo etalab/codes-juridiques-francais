@@ -1,0 +1,12 @@
+# Sous-section 1 : Opérations consécutives au décès (R)
+
+- [Paragraphe 1 : Soins de conservation (R).](paragraphe-1)
+- [Paragraphe 2 : Moulage (R).](paragraphe-2)
+- [Paragraphe 3 : Transport de corps avant mise en bière (R).](paragraphe-3)
+- [Paragraphe 4 : Mise en bière et fermeture du cercueil (R).](paragraphe-4)
+- [Paragraphe 5 : Transport de corps après mise en bière (R).](paragraphe-5)
+- [Paragraphe 6 : Dépôt temporaire (R).](paragraphe-6)
+- [Paragraphe 7 : Inhumation (R).](paragraphe-7)
+- [Paragraphe 8 : Crémation (R).](paragraphe-8)
+- [Paragraphe 9 : Exhumation (R).](paragraphe-9)
+- [Paragraphe 10 : Dispositions diverses (R).](paragraphe-10)

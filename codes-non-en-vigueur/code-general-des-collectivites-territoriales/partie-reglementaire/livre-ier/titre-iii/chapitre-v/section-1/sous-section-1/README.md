@@ -1,0 +1,7 @@
+# Sous-section 1 : Garanties accordées dans l'exercice du mandat.
+
+- [Article R4135-4](article-r4135-4.md)
+- [Article R4135-5](article-r4135-5.md)
+- [Article R4135-6](article-r4135-6.md)
+- [Article R4135-7](article-r4135-7.md)
+- [Article R4135-8](article-r4135-8.md)
