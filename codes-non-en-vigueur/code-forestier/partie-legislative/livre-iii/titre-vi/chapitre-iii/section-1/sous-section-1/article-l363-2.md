@@ -4,7 +4,7 @@ Le défrichement des bois et forêts est interdit.
 
 Toutefois, des dérogations peuvent être accordées par l'autorité administrative :
 
-En dehors des périmètres de protection visés au 3° de l'article L. 52-1 du code rural et lorsque la conservation des bois n'est pas nécessaire :
+Lorsque la conservation des bois n'est pas nécessaire :
 
 - au maintien des terres sur les montagnes ou sur les pentes ;
 
@@ -22,6 +22,6 @@ En dehors des périmètres de protection visés au 3° de l'article L. 52-1 du c
 
 - à l'équilibre biologique d'une région ou au bien-être de la population ;
 
-- à l'aménagement des périmètres visés au 2° de l'article L. 52-1 du code rural.
+- à l'aménagement des périmètres mentionnés au 4° de l'article L. 126-1 du code rural.
 
 Le droit de défricher ne peut être exercé que pendant dix ans à compter de la date d'autorisation.

@@ -1,5 +1,9 @@
 # Article L322-4
 
-Si les intéressés n'exécutent pas les travaux prescrits en application de l'article L. 322-3, la commune peut y pourvoir d'Office après mise en demeure du propriétaire et à la charge de celui-ci.
+Si les intéressés n'exécutent pas les travaux prescrits en application de l'article L. 322-3, la commune y pourvoit d'office après mise en demeure du propriétaire et à la charge de celui-ci.
 
-Les dépenses auxquelles donnent lieu les travaux dont l'exécution d'Office est ordonnée par le maire peuvent être financées par le département, par des groupements de collectivités territoriales ou des syndicats mixtes. Dans ce cas, est émis un titre de perception à l'encontre des propriétaires intéressés, d'un montant correspondant au mémoire des travaux faits, arrêté et rendu exécutoire.
+Les dépenses auxquelles donnent lieu les travaux sont des dépenses obligatoires pour la commune. Le maire émet un titre de perception du montant correspondant aux travaux effectués à l'encontre des propriétaires intéressés. Il est procédé au recouvrement de cette somme au bénéfice de la commune, comme en matière de créances de l'Etat étrangères à l'impôt et au domaine.
+
+En cas de carence du maire dans l'exercice de ses pouvoirs de police définis par l'article L. 322-3 et le présent article, le représentant de l'Etat dans le département se substitue à la commune après une mise en demeure restée sans résultat. Le coût des travaux de débroussaillement effectués par l'Etat est mis à la charge de la commune qui procède au recouvrement de cette somme dans les conditions prévues à l'alinéa précédent.
+
+Les départements, les groupements de collectivités territoriales ou les syndicats mixtes peuvent contribuer au financement des dépenses laissées à la charge des communes.

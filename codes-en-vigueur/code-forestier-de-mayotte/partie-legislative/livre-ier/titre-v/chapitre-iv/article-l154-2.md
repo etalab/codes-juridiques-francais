@@ -2,7 +2,7 @@
 
 Le recouvrement de toutes les amendes forestière s ou agroforestières est confié aux comptables du Trésor.
 
-Ces comptables sont également chargés des recouvrements des restitutions, frais et dommages-intérêts résultant des jugements rendus pour délits et contraventions sur les biens forestiers ou agroforestiers soumis au régime forestier.
+Ces comptables sont également chargés des recouvrements des restitutions, frais et dommages-intérêts résultant des jugements rendus pour délits et contraventions sur les biens forestiers ou agroforestiers relevant du régime forestier.
 
 L'autorité administrative chargée des forêts peut admettre les délinquants insolvables à se libérer des amendes, réparations civiles et frais au moyen de prestations en nature consistant en tous travaux forestiers d'intérêt public, et notamment en travaux d'entretien et d'amélioration sur les biens forestiers ou agroforestiers ou sur les voies traversant ces biens.
 

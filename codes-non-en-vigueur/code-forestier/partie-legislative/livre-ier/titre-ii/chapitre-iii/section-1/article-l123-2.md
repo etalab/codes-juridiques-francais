@@ -1,3 +1,3 @@
 # Article L123-2
 
-Une décision de l'autorité supérieure fixe, au vu des résultats de chaque exercice, la part des excédents qui, après affectation des sommes nécessaires aux investissements, sera versée au budget général de l'Etat.
+Les autorités de tutelle fixent, au vu des résultats de chaque exercice, la part du bénéfice net après impôts qui, après affectation aux réserves pour financer le cycle d'exploitation et les investissements, et en tenant compte du niveau de la provision pour variation de conjoncture, sera versée à l'Etat. Une partie de ce versement est affectée au financement de l'achat de forêts ou de terrains à boiser par l'Etat.

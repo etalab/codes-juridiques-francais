@@ -1,3 +1,3 @@
 # Article L311-5
 
-Préalablement à toute demande d'autorisation de lotissement dans un terrain boisé ne rentrant pas dans les exceptions de l'article L. 311-2, l'intéressé est tenu d'obtenir une autorisation de défrichement.
+Lorsque la réalisation d'une opération ou de travaux soumis à une autorisation administrative, à l'exception de celle prévue par le titre Ier du livre V du code de l'environnement, nécessite également l'obtention de l'autorisation de défrichement prévue à l'article L. 311-1, celle-ci doit être obtenue préalablement à la délivrance de cette autorisation administrative.

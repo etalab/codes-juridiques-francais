@@ -4,4 +4,6 @@ Les contrats d'assurance garantissant les dommages d'incendie ou tous autres dom
 
 Sont exclus les contrats garantissant les dommages d'incendie causés aux récoltes non engrangées, aux cultures et au cheptel vif hors bâtiments.
 
+Sont également exclus les contrats garantissant les dommages d'incendie causés aux bois sur pied.
+
 En outre, si l'assuré est couvert contre les pertes d'exploitation, cette garantie est étendue aux effets des tempêtes, ouragans ou cyclones, dans les conditions du contrat correspondant.

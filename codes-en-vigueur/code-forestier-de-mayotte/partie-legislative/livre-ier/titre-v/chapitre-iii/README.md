@@ -1,4 +1,4 @@
-# Chapitre III : Poursuite des délits et contraventions commis dans les biens forestiers et agroforestiers soumis au régime forestier.
+# Chapitre III : Poursuite des délits et contraventions commis dans les biens forestiers et agroforestiers relevant du régime forestier.
 
 - [Article L153-1](article-l153-1.md)
 - [Article L153-2](article-l153-2.md)

@@ -1,6 +1,6 @@
 # Article L111-1
 
-Sont soumis au régime forestier et administrés conformément aux dispositions du présent livre :
+Relèvent du régime forestier et sont administrés conformément aux dispositions du présent livre :
 
 1° Les forêts et terrains à boiser qui font partie du domaine de l'Etat ou sur lesquels l'Etat a des droits de propriété indivis ;
 
@@ -8,4 +8,4 @@ Sont soumis au régime forestier et administrés conformément aux dispositions 
 
 3° Les terrains reboisés par l'Etat en exécution de l'article L. 541-2 jusqu'à libération complète du débiteur ou de ses ayants droit ;
 
-4° Les bois, forêts et terrains à boiser, propriété d'un groupement forestier constitué dans les conditions prévues à l'article L. 243-3.
+4° Les bois, forêts et terrains à boiser, propriété d'un groupement forestier lorsque plus de la moitié de la surface des terrains que celui-ci possède lui a été apportée par des personnes morales mentionnées au 2°.

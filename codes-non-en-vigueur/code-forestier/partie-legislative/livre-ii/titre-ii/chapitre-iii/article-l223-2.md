@@ -1,3 +1,9 @@
 # Article L223-2
 
-Jusqu'à l'approbation par le centre régional des plans simples de gestion correspondants, sont considérées comme coupes extraordinaires justiciables d'une autorisation préalable du centre, ou avant son installation, d'une autorisation de l'administration, les coupes assises dans les massifs boisés de plus de cent hectares d'un seul tenant, traités en taillis sous futaie ou en futaie composée en majorité d'essences feuillues, ayant pour effet d'appauvrir de plus de 50 p. 100, sur la surface exploitée, le volume de futaie sur pied existant à la date du 8 août 1963.
+I. - En cas de coupe abusive mentionnée à l'article L. 223-1, l'interruption de la coupe ou de l'enlèvement des bois, ainsi que la saisie des matériaux et du matériel de chantier peut être ordonnée dans les conditions prévues à l'article L. 313-6 pour les travaux de défrichement illicite.
+
+Est puni d'un emprisonnement de six mois et d'une amende portée au double du montant prévu au premier alinéa de l'article L. 223-1 le fait de continuer la coupe en violation d'une décision administrative ou judiciaire en ordonnant l'interruption.
+
+II. - Le propriétaire qui a été condamné en application de l'article L. 223-1 doit, à la demande de l'autorité administrative, présenter au centre régional de la propriété forestière un avenant au plan simple de gestion applicable aux bois concernés par la coupe. A défaut d'avenant présenté dans le délai imparti, le plan simple de gestion est réputé caduc.
+
+III. - En outre, l'autorité administrative, après avis du centre régional de la propriété forestière, peut imposer au propriétaire du fonds la réalisation, dans un délai fixé par elle, de travaux de reconstruction forestière sur les fonds parcourus par la coupe.

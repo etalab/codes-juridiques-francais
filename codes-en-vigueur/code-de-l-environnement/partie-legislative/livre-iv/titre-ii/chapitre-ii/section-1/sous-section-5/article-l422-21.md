@@ -6,6 +6,8 @@ I. - Les statuts de chaque association doivent prévoir l'admission dans celle-c
 
 2° Soit propriétaires ou détenteurs de droits de chasse ayant fait apport de leurs droits de chasse ainsi que, s'ils sont titulaires d'un permis de chasser, leurs conjoints, ascendants et descendants, gendres et belles-filles du ou des conjoints apporteurs ;
 
+2° bis Soit personnes ayant fait apport de leurs droits de chasse attachés à une ou des parcelles préalablement au transfert de la propriété de celles-ci à un groupement forestier, ainsi que, s'ils sont titulaires d'un permis de chasser, leurs conjoints, ascendants et descendants, gendres et belles-filles du ou des conjoints apporteurs ;
+
 3° Soit preneurs d'un bien rural lorsque le propriétaire a fait apport de son droit de chasse ;
 
 4° Soit propriétaires d'un terrain soumis à l'action de l'association et devenus tels en vertu d'une succession ou d'une donation entre héritiers lors d'une période de cinq ans.

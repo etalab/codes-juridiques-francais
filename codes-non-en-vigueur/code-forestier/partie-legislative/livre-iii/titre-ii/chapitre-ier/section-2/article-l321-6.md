@@ -1,6 +1,8 @@
 # Article L321-6
 
-Les dispositions du présent article s'appliquent aux massifs forestiers situés dans les régions de "Corse", "Languedoc-Roussillon" et "Provence, Alpes, Côte d'Azur" et dans les départements limitrophes.
+Les dispositions du présent article s'appliquent aux massifs forestiers situés dans les régions Aquitaine, Corse, Languedoc-Roussillon, Midi-Pyrénées, Poitou-Charentes, Provence-Alpes-Côte d'Azur et dans les départements de l'Ardèche et de la Drôme, à l'exclusion de ceux soumis à des risques faibles figurant sur une liste arrêtée par le représentant de l'Etat dans le département concerné après avis de la commission départementale de la sécurité et de l'accessibilité.
+
+Pour chacun des départements situés dans ces régions, le représentant de l'Etat élabore un plan départemental ou, le cas échéant, régional de protection des forêts contre les incendies, définissant des priorités par massif forestier. Le projet de plan est soumis, pour avis, aux collectivités territoriales concernées et à leurs groupements. L'avis est réputé favorable s'il n'est pas donné dans un délai de deux mois.
 
 Dans ces massifs, lorsque les incendies, par leur ampleur, leur fréquence ou leurs conséquences risquent de compromettre la sécurité publique ou de dégrader les sols et les peuplements forestiers, les travaux d'aménagement et d'équipement pour prévenir les incendies, en limiter les conséquences et reconstituer la forêt sont déclarés d'utilité publique à la demande du ministre chargé des forêts, d'une collectivité territoriale ou d'un groupement de collectivités territoriales. Les travaux d'aménagement qui contribuent au cloisonnement de ces massifs par une utilisation agricole des sols peuvent, dans les mêmes conditions, être déclarés d'utilité publique.
 

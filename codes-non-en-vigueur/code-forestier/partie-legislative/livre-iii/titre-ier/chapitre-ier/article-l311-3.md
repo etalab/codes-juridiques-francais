@@ -6,7 +6,7 @@ L'autorisation de défrichement peut être refusée lorsque la conservation des 
 
 2° A la défense du sol contre les érosions et envahissements des fleuves, rivières ou torrents ;
 
-3° A l'existence des sources et cours d'eau ;
+3° A l'existence des sources, cours d'eau et zones humides et plus généralement à la qualité des eaux ;
 
 4° A la protection des dunes et des côtes contre les érosions de la mer et les envahissements de sable ;
 
@@ -14,10 +14,8 @@ L'autorisation de défrichement peut être refusée lorsque la conservation des 
 
 6° A la salubrité publique ;
 
-7° A la nécessité d'assurer le ravitaillement national en bois et produits dérivés en ce qui concerne les bois provenant de reboisements exécutés en application du livre IV, titres II et III, et du livre V ;
+7° A la valorisation des investissements publics consentis pour l'amélioration en quantité ou en qualité de la ressource forestière, lorsque les bois ont bénéficié d'aides publiques à la constitution ou à l'amélioration des peuplements forestiers ;
 
-8° A l'équilibre biologique d'une région ou au bien-être de la population ;
+8° A l'équilibre biologique d'une région ou d'un territoire présentant un intérêt remarquable et motivé du point de vue de la préservation des espèces animales ou végétales et de l'écosystème ou au bien-être de la population ;
 
-9° A l'aménagement des périmètres d'actions forestières et des zones dégradées mentionnés au 2° et au 3° de l'article 52-1 du code rural.
-
-10° A la protection contre l'incendie de l'ensemble forestier dans lequel est incluse la parcelle en cause.
+9° A la protection des personnes et des biens et de l'ensemble forestier dans le ressort duquel ils sont situés, contre les risques naturels, notamment les incendies et les avalanches.

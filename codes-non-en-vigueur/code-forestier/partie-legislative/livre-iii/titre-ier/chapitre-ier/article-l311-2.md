@@ -2,10 +2,6 @@
 
 Sont exceptés des dispositions de l'article L. 311-1 :
 
-1° Les jeunes bois pendant les vingt premières années après leurs semis ou plantations, sauf si ces semis ou plantations ont été réalisés en remplacement de bois défrichés, comme il est prévu au cinquième alinéa de l'article L. 313-1, ou conservés à titre de réserves boisées en vertu de l'article L. 311-4 ou bien exécutés en application du livre IV, titres II et III, et du livre V ;
+1° Les bois de superficie inférieure à un seuil compris entre 0,5 et 4 hectares, fixé par département ou partie de département par le représentant de l'Etat dans le département, sauf s'ils font partie d'un autre bois dont la superficie, ajoutée à la leur, atteint ou dépasse le seuil fixé selon les modalités précitées ;
 
-2° Les parcs ou jardins clos et attenants à une habitation principale, lorsque l'étendue close est inférieure à 10 ha ;
-
-3° Les bois de moins de 4 ha, sauf s'ils font partie d'un autre bois qui complète la contenance à 4 ha, ou s'ils sont situés sur le sommet ou la pente d'une montagne, ou bien s'ils proviennent de reboisements exécutés en application du livre IV, titres II et III, et du livre V.
-
-4° Les bois situés dans une zone agricole délimitée en application de l'article 52-4 du code rural, si le défrichement a pour but une mise en valeur agricole ou pastorale.
+2° Les parcs ou jardins clos et attenants à une habitation principale, lorsque l'étendue close est inférieure à 10 hectares. Toutefois, lorsque les défrichements projetés dans ces parcs sont liés à la réalisation d'une opération d'aménagement prévue au titre Ier du livre III du code de l'urbanisme ou d'une opération de construction soumise à autorisation au titre de ce code, cette surface est abaissée à un seuil compris entre 0,5 et 4 hectares, fixé par département ou partie de département par le représentant de l'Etat dans le département.

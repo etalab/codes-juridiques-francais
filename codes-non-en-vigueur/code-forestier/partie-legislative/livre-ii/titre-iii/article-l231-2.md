@@ -1,3 +1,3 @@
 # Article L231-2
 
-Les procès-verbaux dressés par les gardes des bois des particuliers sont, dans le délai d'un mois à dater de l'affirmation, remis au procureur de la République.
+Sans préjudice de l'application des dispositions de l'article L. 343-1, les procès-verbaux dressés par les gardes particuliers sont adressés, sous peine de nullité, au procureur de la République dans les trois jours qui suivent leur clôture.

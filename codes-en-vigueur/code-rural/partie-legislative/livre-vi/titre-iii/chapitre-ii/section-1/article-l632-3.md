@@ -6,7 +6,7 @@ Les accords conclus dans le cadre d'une organisation interprofessionnelle reconn
 
 2° L'adaptation et la régularisation de l'offre ;
 
-3° La mise en oeuvre, sous le contrôle de l'Etat, de règles de mise en marché, de prix et de conditions de paiement ;
+3° La mise en oeuvre, sous le contrôle de l'Etat, de règles de mise en marché, de prix et de conditions de paiement. Cette disposition ne s'applique pas aux produits forestiers ;
 
 4° La qualité des produits : à cet effet, les accords peuvent notamment prévoir l'élaboration et la mise en oeuvre de disciplines de qualité et de règles de définition, de conditionnement, de transport et de présentation, si nécessaire jusqu'au stade de la vente au détail des produits ; pour les appellations d'origine contrôlées, ces accords peuvent notamment prévoir la mise en oeuvre de procédures de contrôle de la qualité ;
 

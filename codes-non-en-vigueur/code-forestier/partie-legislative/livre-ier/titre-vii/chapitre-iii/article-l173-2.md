@@ -1,6 +1,6 @@
 # Article L173-2
 
-Les forêts et terrains soumis au régime forestier et appartenant au département sont inaliénables et imprescriptibles.
+Les forêts et terrains relevant du régime forestier et appartenant au département sont inaliénables et imprescriptibles.
 
 Peuvent être acquis par le département, par voie d'expropriation pour cause d'utilité publique :
 

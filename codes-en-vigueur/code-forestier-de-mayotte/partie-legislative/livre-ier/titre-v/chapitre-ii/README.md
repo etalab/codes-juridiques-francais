@@ -1,4 +1,4 @@
-# Chapitre II : Constatation des délits et contraventions commis dans les biens forestiers et agroforestiers soumis au régime forestier.
+# Chapitre II : Constatation des délits et contraventions commis dans les biens forestiers et agroforestiers relevant du régime forestier.
 
 - [Article L152-1](article-l152-1.md)
 - [Article L152-2](article-l152-2.md)

@@ -12,4 +12,4 @@ Sont remboursés dans les conditions et modalités fixées pour le remboursement
 
 Pour le calcul de leurs droits à remboursement, tous les bénéficiaires susmentionnés sont classés dans le groupe I défini à l'article 2 du décret précité du 10 août 1966 modifié.
 
-Les frais exposés par le président et les administrateurs d'un centre régional à l'occasion des réunions de la commission nationale professionnelle de la propriété forestière sont remboursés dans les mêmes conditions que les frais occasionnés par les déplacements des agents de l'Etat et autres personnes qui collaborent aux conseils, comités, commissions et autres organismes consultatifs qui apportent leur concours à l'Etat.
+Les frais exposés par le président et les administrateurs d'un centre régional à l'occasion des réunions du Centre national professionnel de la propriété forestière sont remboursés dans les mêmes conditions que les frais occasionnés par les déplacements des agents de l'Etat et autres personnes qui collaborent aux conseils, comités, commissions et autres organismes consultatifs qui apportent leur concours à l'Etat.

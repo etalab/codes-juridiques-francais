@@ -1,3 +1,5 @@
 # Article L321-5-3
 
-Pour l'application du présent titre, on entend par débroussaillement la destruction par tous moyens des broussailles et morts-bois et, si leur maintien en l'état est de nature à favoriser la propagation des incendies, la suppression des végétaux et sujets d'essences forestières ou autres lorsqu'ils présentent un caractère dominé, dépérissant ou une densité excessive de peuplement, ainsi que l'élagage des sujets conservés.
+Pour l'application du présent titre, on entend par débroussaillement les opérations dont l'objectif est de diminuer l'intensité et de limiter la propagation des incendies par la réduction des combustibles végétaux en garantissant une rupture de la continuité du couvert végétal et en procédant à l'élagage des sujets maintenus et à l'élimination des rémanents de coupes.
+
+Le représentant de l'Etat dans le département arrête les modalités d'application du présent article en tenant compte des particularités de chaque massif.

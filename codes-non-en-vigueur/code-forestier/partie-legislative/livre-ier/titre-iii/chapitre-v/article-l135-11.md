@@ -1,3 +1,5 @@
 # Article L135-11
 
-Les acheteurs de coupes et leurs cautions sont responsables du paiement des amendes et restitutions encourues pour délits et contraventions forestiers commis dans la coupe par les facteurs, gardes-coupes, ouvriers, bûcherons, voituriers et tous autres employés par les acheteurs.
+L'acheteur de coupes est responsable des infractions au présent code commises dans la coupe.
+
+Il est responsable sur le plan civil solidairement avec sa caution, ou avec ses autres garanties selon les modalités prévues aux clauses de la vente, de la réparation de tout dommage commis par ses salariés, préposés et toutes entreprises intervenant en son nom et pour son compte.
