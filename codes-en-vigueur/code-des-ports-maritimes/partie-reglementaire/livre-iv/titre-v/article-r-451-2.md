@@ -1,0 +1,5 @@
+# Article R**451-2
+
+Les voies ferrées des quais sont soumises, quel que soit leur régime, à la surveillance d'un service spécial de contrôle. Un arrêté du ministre chargé des transports, sur la proposition du ministre chargé des ports maritimes, désigne les agents chargés de ce service spécial de contrôle et règle les conditions relatives aux frais de ce service.
+
+Toutefois, pour les voies ferrées des quais qui ne sont pas concédées et pour celles qui sont raccordées à un réseau d'intérêt général ou local desservant le port et concédées au même concessionnaire, les attributions de ce service spécial sont limitées au contrôle de la construction et de l'entretien des voies du port et de leur exploitation technique. L'organisation des services des catégories de contrôle comprenant le matériel et la traction (sauf le matériel spécialisé aux voies du port), l'exploitation commerciale, le travail des agents, le contrôle financier, est réglé par les dispositions réglementaires en vigueur concernant la surveillance et le contrôle exercés par l'Etat sur les chemins de fer d'intérêt général et les voies ferrées d'intérêt local.

@@ -1,0 +1,5 @@
+# Article R**421-4
+
+Sur les sections à rails noyés où l'emplacement de la voie ferrée est accessible aux véhicules routiers, l'entretien du pavage ou de l'empierrement de la surface affectée à la circulation sur la voie ferrée est réglé pour chaque concession par le cahier des charges qui indique le service chargé d'exécuter cet entretien, ainsi que la répartition des dépenses. Sur celles des voies publiques empruntées par la voie ferrée qui ne relèvent pas de l'autorité concédante, l'entretien est assuré par le concessionnaire dans l'entre-rail ainsi que dans une zone de 50 cm de chaque côté des rails, à moins qu'il n'en ait été décidé autrement par le cahier des charges, après accord avec l'autorité de qui relèvent ces voies publiques.
+
+Sur les sections où l'emplacement de la voie ferrée n'est pas accessible aux véhicules routiers, l'entretien, qui est à la charge du concessionnaire, comprend la surface entière occupée par les voies, augmentée, s'il y a lieu, d'une zone déterminée par le cahier des charges.
