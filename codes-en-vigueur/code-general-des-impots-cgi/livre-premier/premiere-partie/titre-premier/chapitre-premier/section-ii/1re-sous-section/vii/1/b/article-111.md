@@ -12,6 +12,6 @@ c. Les rémunérations et avantages occultes ;
 
 d. La fraction des rémunérations qui n'est pas déductible en vertu du 1° du 1 de l'article 39 ;
 
-e. Les dépenses et charges dont la déduction pour l'assiette de l'impôt sur les sociétés est interdite en vertu des dispositions des premier et cinquième alinéas du 4 de l'article 39.
+e. Les dépenses et charges dont la déduction pour l'assiette de l'impôt sur les sociétés est interdite en vertu des dispositions du premier alinéa et du c du 4 de l'article 39.
 
 (1) Annexe III, art. 49 bis à 49 sexies.
