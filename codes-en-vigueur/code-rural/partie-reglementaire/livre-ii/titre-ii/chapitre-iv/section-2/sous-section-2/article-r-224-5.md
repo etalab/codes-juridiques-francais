@@ -2,7 +2,7 @@
 
 Par dérogation aux dispositions de l'article R. 224-4, les espèces de gibier figurant au tableau ci-après ne peuvent être chassées que pendant les périodes comprises entre les dates et aux conditions spécifiques de chasse suivantes :
 
-Date d'ouverture spécifique au plus tôt le ..., date de clôture spécifique au plus tard le ....
+Espèces, date d'ouverture spécifique au plus tôt le ..., date de clôture spécifique au plus tard le ....
 
 Gibier sédentaire :
 
@@ -20,11 +20,11 @@ Conditions spécifiques de chasse :
 
 Avant la date d'ouverture générale, ces espèces ne peuvent être chassées qu'à l'approche ou à l'affût par les détenteurs d'une autorisation préfectorale individuelle.
 
-Sanglier, 1er septembre, dernier jour de février.
+Sanglier, 15 août, dernier jour de février.
 
 Conditions spécifiques de chasse :
 
-Hors la période d'ouverture générale, la chasse du sanglier ne peut être pratiquée qu'en battue dans les conditions fixées par l'arrêté du préfet.
+Hors la période d'ouverture générale, la chasse du sanglier ne peut être pratiquée qu'en battue, ou à l'affût, ou à l'approche, dans les conditions fixées par l'arrêté du préfet.
 
 Grand tétras, troisième dimanche de septembre, 1er novembre.
 
