@@ -2,6 +2,7 @@
 
 - [Article D30](article-d30.md)
 - [Article D31](article-d31.md)
+- [Article D32](article-d32.md)
 - [Article D33](article-d33.md)
 - [Article D34](article-d34.md)
 - [Article D35](article-d35.md)
