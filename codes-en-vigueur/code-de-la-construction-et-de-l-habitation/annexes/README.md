@@ -6,3 +6,5 @@
 - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour personnes âgées.](convention-conclue-entre-l-etat-l-organisme-proprietaire-et)
 - [Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat.](convention-type-conclue-entre-l-etat-et-m-ou)
 - [Normes minimales d'habitabilité](normes-minimales-d-habitabilite)
+- [Document prévu par l'article 1er des annexes I et II à l'article R. 353-1.](document-prevu-par)
+- [Engagements de portée générale prévus par les annexes I et II à l'article R. 353-1.](engagements-de-portee-generale-prevus-par)
