@@ -13,4 +13,5 @@
 - [Titre XII : Des contrats aléatoires.](titre-xii)
 - [Titre XIII : Du mandat](titre-xiii)
 - [Titre XIV : Du cautionnement.](titre-xiv)
+- [Titre XX : De la prescription et de la possession.](titre-xx)
 - [Dispositions générales](dispositions-generales)
