@@ -7,3 +7,5 @@
 - [Article 672](article-672.md)
 - [Article 673](article-673.md)
 - [Article 674](article-674.md)
+- [Article 674-1](article-674-1.md)
+- [Article 674-2](article-674-2.md)
