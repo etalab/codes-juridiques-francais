@@ -1,6 +1,6 @@
 # Article L363-7
 
-En cas d'infraction aux dispositions des articles L. 363-2 et L. 363-4, le propriétaire est condamné à une amende calculée à raison de 1800 au moins et de 15000 F au plus par hectare de bois défriché. Toute fraction d'hectare est comptée pour un hectare en application de l'article L. 363-21.
+En cas d'infraction aux dispositions des articles L. 363-2 et L. 363-4, le propriétaire est condamné à une amende calculée à raison de 25000 F au plus par hectare de bois défriché. Toute fraction d'hectare est comptée pour un hectare en application de l'article L. 363-21.
 
 L'amende sera triplée en cas de défrichement de réserves boisées dont la conservation est imposée au propriétaire en application de l'article L. 363-4.
 
@@ -12,4 +12,4 @@ Les dispositions de l'alinéa précédent sont applicables si, dix-huit mois apr
 
 Sont assimilées au délit de défrichement toute transformation de la destination forestière d'une parcelle ainsi que toute remise en cause de l'équilibre forestier.
 
-En cas de récidive, une peine d'emprisonnement de quinze jours à deux mois pourra en outre être prononcée.
+En cas de récidive, une peine d'emprisonnement de deux mois pourra en outre être prononcée.

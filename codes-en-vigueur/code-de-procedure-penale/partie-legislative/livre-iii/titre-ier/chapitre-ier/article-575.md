@@ -16,4 +16,4 @@ Toutefois, son seul pourvoi est recevable dans les cas suivants :
 
 6° Lorsque l'arrêt ne satisfait pas, en la forme, aux conditions essentielles de son existence légale ;
 
-7° En matière d'atteintes aux droits individuels telles que définies aux articles 114 à 122 et 341 à 344 du code pénal.
+7° En matière d'atteintes aux droits individuels telles que définies aux articles 224-1 à 224-5 et 432-4 à 432-6 du code pénal.

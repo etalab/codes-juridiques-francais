@@ -12,3 +12,4 @@
 - [Article 1068](article-1068.md)
 - [Article 1069](article-1069.md)
 - [Article 1070](article-1070.md)
+- [Article 1072](article-1072.md)

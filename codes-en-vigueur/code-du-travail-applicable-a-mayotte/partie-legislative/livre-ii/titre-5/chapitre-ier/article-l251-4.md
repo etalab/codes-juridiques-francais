@@ -8,4 +8,6 @@ Après avis du chef du service de l'inspection du travail, la juridiction adopte
 
 Le contrôle de l'exécution des mesures prescrites est exercé par l'inspecteur du travail. S'il y a lieu, celui-ci saisit le juge des référés, qui peut ordonner la fermeture totale ou partielle de l'établissement pendant le temps nécessaire pour assurer ladite exécution.
 
-Le chef d'entreprise qui, dans les délais prévus, n'a pas présenté le plan visé au deuxième alinéa ci-dessus ou n'a pas pris les mesures nécessaires à la réalisation du plan arrêté par le juge en vertu du troisième alinéa est puni d'une amende de 2 000 à 120 000 F [*montant*] ainsi que des peines prévues à l'article L. 251-7.
+Le chef d'entreprise qui, dans les délais prévus, n'a pas présenté le plan visé au deuxième alinéa ci-dessus ou n'a pas pris les mesures nécessaires à la réalisation du plan arrêté par le juge en vertu du troisième alinéa est puni d'une amende de 120 000 F (1) [*montant*] ainsi que des peines prévues à l'article L. 251-7.
+
+(1) Amende applicable depuis le 8 mars 1991.

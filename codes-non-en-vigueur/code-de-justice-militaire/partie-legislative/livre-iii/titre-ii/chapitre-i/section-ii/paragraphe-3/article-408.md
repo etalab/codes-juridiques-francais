@@ -1,6 +1,6 @@
 # Article 408
 
-Est puni de la réclusion criminelle à temps de dix à vingt ans, tout militaire qui déserte à bande armée.
+Est puni de la réclusion criminelle à temps de vingt ans, tout militaire qui déserte à bande armée.
 
 Si le coupable est officier, il est puni du maximum de cette peine.
 

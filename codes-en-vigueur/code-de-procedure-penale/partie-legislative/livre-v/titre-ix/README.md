@@ -3,7 +3,6 @@
 - [Chapitre Ier : Dispositions applicables aux personnes physiques](chapitre-ier)
 - [Article 782](article-782.md)
 - [Article 783](article-783.md)
-- [Article 784](article-784.md)
 - [Article 785](article-785.md)
 - [Article 786](article-786.md)
 - [Article 787](article-787.md)
@@ -18,4 +17,3 @@
 - [Article 796](article-796.md)
 - [Article 797](article-797.md)
 - [Article 798](article-798.md)
-- [Article 799](article-799.md)

@@ -8,4 +8,5 @@
 - [Article L355-28](article-l355-28.md)
 - [Article L355-29](article-l355-29.md)
 - [Article L355-30](article-l355-30.md)
+- [Article L355-31](article-l355-31.md)
 - [Article L355-32](article-l355-32.md)

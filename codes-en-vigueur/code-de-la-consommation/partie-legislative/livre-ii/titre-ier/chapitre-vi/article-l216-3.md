@@ -8,8 +8,8 @@ En ce cas, et dans tous les autres cas où les tribunaux sont autorisés à ordo
 
 Au cas de suppression, de dissimulation ou de lacération totale ou partielle des affiches ordonnées par le jugement de condamnation, il sera procédé de nouveau à l'exécution intégrale des dispositions du jugement relatives à l'affichage.
 
-Lorsque la suppression, la dissimulation ou la lacération totale ou partielle aura été opérée volontairement par le condamné, à son instigation ou par ses ordres, elle entraînera contre celui-ci l'application d'une peine d'amende de 500 F à 15 000 F.
+Lorsque la suppression, la dissimulation ou la lacération totale ou partielle aura été opérée volontairement par le condamné, à son instigation ou par ses ordres, elle entraînera contre celui-ci l'application d'une peine d'amende de 25 000 F [*sanctions pénales*].
 
-La récidive de suppression, de dissimulation ou de lacération volontaire d'affiches par le condamné, à son instigation ou par ses ordres, sera punie d'un emprisonnement de six jours à un mois et d'une amende de 1 000 F à 20 000 F.
+La récidive de suppression, de dissimulation ou de lacération volontaire d'affiches par le condamné, à son instigation ou par ses ordres, sera punie d'un emprisonnement d'un mois et d'une amende de 50 000 F.
 
 Lorsque l'affichage aura été ordonné à la porte des magasins du condamné, l'exécution du jugement ne pourra être entravée par la vente du fonds de commerce réalisée postérieurement à la première décision qui a ordonné l'affichage.

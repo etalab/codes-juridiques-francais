@@ -1,6 +1,6 @@
 # Article L23-1
 
-Les fonctionnaires du corps des commandants et officiers de paix affectés à une circonscription territoriale ne dépassant pas le ressort de la cour d'appel, nominativement désignés par arrêté des ministres de la justice et de l'intérieur après avis conforme de la commission prévue à l'article 16 (3°) du code de procédure pénale, ont la qualité d'officier de police judiciaire, uniquement dans les limites de cette circonscription, pour rechercher et constater les infractions au code de la route et les infractions prévues par les articles 319, 320 et R. 40 (4°) du code pénal de celles commises en relation avec des manifestations sur la voie publique, et de toutes autres infractions.
+Les fonctionnaires du corps des commandants et officiers de paix affectés à une circonscription territoriale ne dépassant pas le ressort de la cour d'appel, nominativement désignés par arrêté des ministres de la justice et de l'intérieur après avis conforme de la commission prévue à l'article 16 (3°) du code de procédure pénale, ont la qualité d'officier de police judiciaire, uniquement dans les limites de cette circonscription, pour rechercher et constater les infractions au code de la route et les infractions prévues par les articles 221-6 et 222-19 et R. 40 (4°) du code pénal de celles commises en relation avec des manifestations sur la voie publique, et de toutes autres infractions.
 
 Ces fonctionnaires ne peuvent en aucun cas décider des mesures de garde à vue ni procéder à la visite des véhicules.
 

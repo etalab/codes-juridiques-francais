@@ -1,10 +1,10 @@
 # Article L21
 
-Les infractions aux dispositions des articles L. 17, L. 18, L. 19 et L. 20 sont punies d'une amende de 50 000 F à 500 000 F. Le maximum de l'amende peut être porté à 50 p. 100 du montant des dépenses consacrées à l'opération illégale.
+Les infractions aux dispositions des articles L. 17, L. 18, L. 19 et L. 20 sont punies d'une amende de 500 000 F [*sanctions pénales*]. Le maximum de l'amende peut être porté à 50 p. 100 du montant des dépenses consacrées à l'opération illégale.
 
 En cas de récidive, le tribunal peut interdire pendant une durée de un à cinq ans la vente de la boisson alcoolique qui a fait l'objet de l'opération illégale.
 
-Le tribunal peut, compte tenu des circonstances de fait, décider que les personnes morales sont en totalité ou en partie solidairement responsables du paiement des amendes et des frais de justice mis à la charge de leurs dirigeants ou de leurs préposés.
+Le tribunal peut, compte tenu des circonstances de fait, décider que les personnes morales sont en totalité ou en partie solidairement responsables du paiement des amendes mises à la charge de leurs dirigeants ou de leurs préposés.
 
 Le tribunal ordonne, s'il y a lieu, la suppression, l'enlèvement ou la confiscation de la publicité interdite aux frais des délinquants.
 

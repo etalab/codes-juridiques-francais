@@ -10,6 +10,6 @@ Sans préjudice, s'il y a lieu, de plus fortes peines prononcées par la loi, l'
 
 4° Avoir usé de violence envers les personnes ;
 
-5° Avoir fait usage d'un avion, d'une automobile ou de tout autre véhicule pour se rendre sur le lieu de l'infraction ou pour s'en éloigner sera puni d'un emprisonnement de six jours à quatre mois et d'une amende de 6 000 à 15 000 F.
+5° Avoir fait usage d'un avion, d'une automobile ou de tout autre véhicule pour se rendre sur le lieu de l'infraction ou pour s'en éloigner sera puni d'un emprisonnement de quatre mois et d'une amende de 25 000 F.
 
 En cas d'application simultanée du premier alinéa du présent article et de l'article L. 228-9, les peines sont portées au double.

@@ -1,3 +1,3 @@
 # Article L91
 
-Toute infraction aux interdictions prévues à l'article précédent sera punie d'une amende de 3.000 F à 6.000 F. En cas de récidive, l'amende pourra être portée de 6.000 F à 15.000 F, et une peine de prison de six mois à un an.
+Toute infraction aux interdictions prévues à l'article précédent sera punie d'une amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la 5ème classe [*sanctions pénales*]. En cas de récidive, l'amende sera de 25.000 F et la peine de prison d'un an.

@@ -1,6 +1,5 @@
 # Chapitre II : Du sursis avec mise à l'épreuve
 
-- [Article 738](article-738.md)
 - [Article 739](article-739.md)
 - [Article 740](article-740.md)
 - [Article 741](article-741.md)
@@ -9,15 +8,9 @@
 - [Article 741-3](article-741-3.md)
 - [Article 742](article-742.md)
 - [Article 742-1](article-742-1.md)
-- [Article 742-2](article-742-2.md)
-- [Article 742-3](article-742-3.md)
-- [Article 742-4](article-742-4.md)
 - [Article 743](article-743.md)
 - [Article 744](article-744.md)
 - [Article 744-1](article-744-1.md)
 - [Article 744-2](article-744-2.md)
-- [Article 744-3](article-744-3.md)
-- [Article 745](article-745.md)
-- [Article 745-1](article-745-1.md)
 - [Article 746](article-746.md)
 - [Article 747](article-747.md)

@@ -1,6 +1,6 @@
 # Article L313-1
 
-En cas d'infraction aux dispositions de l'article L. 311-1, le propriétaire est condamné à une amende calculée à raison de 2000 à 10000000 F par hectare de bois défriché.
+En cas d'infraction aux dispositions de l'article L. 311-1, le propriétaire est condamné à une amende calculée à raison de 10000000 F par hectare de bois défriché.
 
 La peine prévue à l'alinéa précédent peut être prononcée contre les utilisateurs du sol, les bénéficiaires des opérations de défrichement, les entrepreneurs ou autres personnes responsables de l'exécution desdites opérations.
 

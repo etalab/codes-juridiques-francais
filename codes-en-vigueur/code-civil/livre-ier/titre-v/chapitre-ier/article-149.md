@@ -8,4 +8,4 @@ Si la résidence actuelle du père ou de la mère est inconnue, et s'il n'a pas 
 
 Du tout, il sera fait mention sur l'acte de mariage.
 
-Le faux serment prêté dans les cas prévus au présent article et aux articles suivants du présent chapitre sera puni des peines édictées par l'article 363 du code pénal [*sanctions*].
+Le faux serment prêté dans les cas prévus au présent article et aux articles suivants du présent chapitre sera puni des peines édictées par l'article 434-13 du code pénal.

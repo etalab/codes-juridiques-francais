@@ -4,6 +4,6 @@ Est réputée désertion avec complot toute désertion effectuée de concert par
 
 La désertion avec complot à l'intérieur est punie :
 
-a) En temps de paix, d'un emprisonnement de un à cinq ans. Si le coupable est officier, la destitution peut, en outre, être prononcée ;
+a) En temps de paix, de cinq ans d'emprisonnement. Si le coupable est officier, la destitution peut, en outre, être prononcée ;
 
-b) En temps de guerre, de la réclusion criminelle à temps de cinq à dix ans.
+b) En temps de guerre, de la réclusion criminelle à temps de dix ans.

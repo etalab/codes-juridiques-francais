@@ -4,6 +4,6 @@ Il est interdit de donner le nom de "sociétés d'habitations à loyer modéré"
 
 Il est interdit, dans les mêmes conditions, aux personnes physiques et morales autres que les organismes mentionnés à l'article L. 411-2, de faire usage, dans leurs contrats, prospectus, affiches et tous autres documents, de toute appellation susceptible de faire naître une confusion avec les organismes ci-dessus indiqués.
 
-Les contrevenants au présent article sont passibles d'une amende de 2000 F à 30000 F et d'un emprisonnement d'un à trois mois [*sanction*].
+Les contrevenants au présent article sont passibles d'une amende de 30 000 F et d'un emprisonnement de trois mois [*sanction*].
 
 Les tribunaux peuvent ordonner l'insertion et l'affichage des jugements et la suppression des appellations interdites, à peine d'une astreinte pour chaque jour de retard.

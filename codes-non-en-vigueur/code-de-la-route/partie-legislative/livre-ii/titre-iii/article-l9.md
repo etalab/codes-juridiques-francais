@@ -1,6 +1,8 @@
 # Article L9
 
-Sera punie [*sanction*] d'un emprisonnement de six mois à cinq ans [*durée*] et d'une amende de 500 F à 20 000 F (2), ou de l'une de ces deux peines seulement : [*infraction*]
+Sera punie [*sanction*] d'un emprisonnement de cinq ans [*durée*] et d'une amende 25 000 F, ou de l'une de ces deux peines seulement :
+
+[*délit*]
 
 1° Toute personne qui aura volontairement fait usage d'une plaque ou d'une inscription apposée sur un véhicule à moteur ou remorqué, portant un numéro, un nom ou un domicile faux ou supposé ;
 

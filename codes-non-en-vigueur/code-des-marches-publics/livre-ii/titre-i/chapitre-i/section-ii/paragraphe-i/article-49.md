@@ -8,7 +8,9 @@ Toute personne condamnée pour infraction à une disposition du code général d
 
 Toute personne morale sous le couvert de laquelle le condamné agirait pour se soustraire à cette interdiction ;
 
-Toute entreprise redevable de l'impôt fraudé lorsque la personne condamnée qui a fait l'objet de l'interdiction est un dirigeant de droit ou de fait de l'entreprise. Cette exclusion s'applique pendant toute la durée de l'interdiction et cesse si ce dirigeant en est relevé dans les conditions prévues à l'article 55-1 du code pénal.    L'exclusion prononcée en application du présent paragraphe cesse de plein droit lorsque l'entreprise n'emploie plus la personne condamnée.
+Toute entreprise redevable de l'impôt fraudé lorsque la personne condamnée qui a fait l'objet de l'interdiction est un dirigeant de droit ou de fait de l'entreprise. Cette exclusion s'applique pendant toute la durée de l'interdiction et cesse si ce dirigeant en est relevé dans les conditions prévues à l'article 132-21 du code pénal.
+
+L'exclusion prononcée en application du présent paragraphe cesse de plein droit lorsque l'entreprise n'emploie plus la personne condamnée.
 
 II - Les dispositions du paragraphe I sont applicables aux entreprises qui exécutent en qualité de sous-traitant une partie des commandes susvisées.
 

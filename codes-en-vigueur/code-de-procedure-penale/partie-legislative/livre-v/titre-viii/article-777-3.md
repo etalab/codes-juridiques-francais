@@ -6,4 +6,4 @@ Aucun fichier ou recueil de données nominatives détenu par une personne quelco
 
 Toutefois, une condamnation pénale pourra toujours être invoquée en justice par la victime de l'infraction.
 
-Toute infraction aux dispositions qui précèdent sera punie des peines prévues à l'article 44 de la loi visée à l'alinéa 1er.
+Toute infraction aux dispositions qui précèdent sera punie des peines encourues pour le délit prévu à l'article 226-21 du code pénal.

@@ -6,4 +6,4 @@ Pendant une deuxième période pouvant aller jusqu'à dix ans, le pâturage peut
 
 Dans les départements déterminés par décret, les dispositions des deux alinéas précédents sont applicables en cas d'incendie de landes et maquis. Toutefois, dans ce cas, la période d'interdiction du pâturage peut être réduite par l'autorité administrative.
 
-Ceux qui passent outre aux interdictions prévues par le présent article sont punis d'une amende de 100 à 15000 F, sans préjudice s'il y a lieu, des dommages-intérêts.
+Ceux qui passent outre aux interdictions prévues par le présent article sont punis d'une amende de 25000 F, sans préjudice s'il y a lieu, des dommages-intérêts.

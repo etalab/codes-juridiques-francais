@@ -14,4 +14,3 @@
 - [Article L629-1](article-l629-1.md)
 - [Article L629-2](article-l629-2.md)
 - [Article L630](article-l630.md)
-- [Article L630-1](article-l630-1.md)

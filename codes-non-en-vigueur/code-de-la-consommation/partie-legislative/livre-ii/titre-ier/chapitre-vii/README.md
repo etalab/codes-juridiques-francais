@@ -8,5 +8,4 @@
 - [Article L217-6](article-l217-6.md)
 - [Article L217-7](article-l217-7.md)
 - [Article L217-8](article-l217-8.md)
-- [Article L217-9](article-l217-9.md)
 - [Article L217-10](article-l217-10.md)
