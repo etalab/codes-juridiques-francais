@@ -28,3 +28,4 @@
 - [XXIV : Sociétés civiles visées à l'article 20 de la loi n° 64-1247 du 16 décembre 1964 instituant le bail à construction et relative aux opérations d'urbanisation.](xxiv)
 - [XXVI : Prélèvements sur les plus-values prévues à l'article 244 bis.](xxvi)
 - [XXVII : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales.](xxvii)
+- [XXVIII : Crédit d'impôt pour dépenses de formation professionnelle.](xxviii)
