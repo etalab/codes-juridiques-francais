@@ -1,0 +1,7 @@
+# Article 340
+
+La collectivité ou l'établissement contractant doit verser des acomptes, suivant les modalités fixées par le marché, à tout titulaire d'un marché prévoyant un délai d'exécution supérieur à trois mois s'il justifie avoir accompli, pour l'exécution dudit marché l'une des prestations suivantes soit par lui-même, soit par l'intermédiaire de sous-traitants lorsque ceux-ci ne sont pas bénéficiaires d'un paiement direct en application des dispositions de l'article 359 bis :
+
+1° Dépôt sur le chantier, en usine ou en atelier des approvisionnements - matériaux, matières premières, objets fabriqués, etc. - destinés à entrer dans la composition des travaux ou des fournitures qui font l'objet du marché, sous réserve qu'ils aient été acquis par le titulaire du marché en toute propriété et effectivement payés par lui et qu'ils soient lotis d'une manière telle que leur destination ne fasse aucun doute et qu'ils puissent être facilement contrôlés par la collectivité ou l'établissement contractant ;
+
+2° Accomplissement d'opérations intrinsèques d'exécution des travaux ou fournitures constatées soit par des attachements ou des décomptes pour les situations périodiques, soit dans des procès-verbaux administratifs dressés après la réalisation de chaque phase technique fixée au marché. Lorsque ces opérations intrinsèques ont été exécutées par des sous-traitants, le titulaire du marché doit fournir la preuve de leur paiement.
