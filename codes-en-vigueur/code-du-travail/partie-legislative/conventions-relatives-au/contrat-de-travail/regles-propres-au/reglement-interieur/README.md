@@ -7,5 +7,3 @@
 - [Article L122-37](article-l122-37.md)
 - [Article L122-38](article-l122-38.md)
 - [Article L122-39](article-l122-39.md)
-- [Article L122-40](article-l122-40.md)
-- [Article L122-42](article-l122-42.md)
