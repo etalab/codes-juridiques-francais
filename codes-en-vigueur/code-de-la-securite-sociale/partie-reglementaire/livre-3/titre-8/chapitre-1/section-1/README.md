@@ -1,4 +1,4 @@
-# Section 1 : Bénéficiaires du complément familial, de l'allocation au jeune enfant, de l'allocation parentale d'éducation - Personnes assumant la charge d'un handicapé.
+# Section 1 : Bénéficiaires du complément familial, de l'allocation pour jeune enfant, de l'allocation parentale d'éducation - Personnes assumant la charge d'un handicapé.
 
 - [Article D381-1](article-d381-1.md)
 - [Article D381-2](article-d381-2.md)
