@@ -6,9 +6,9 @@ Sont exonérés du droit de timbre de dimension :
 
 1° a. Les minutes, originaux et expéditions des actes d'échange d'immeubles ;
 
-b. Les minutes, originaux et expéditions des actes ou procès-verbaux de vente ou licitation d'immeubles dont le prix n'est pas supérieur à 5 000 F.
+b. Les minutes, originaux et expéditions des actes ou procès-verbaux de vente ou licitation d'immeubles dont le prix n'est pas supérieur à 760 euros.
 
-Les cahiers des charges ne sont soumis au timbre de dimension qu'après la réalisation des ventes ou adjudications et seulement si le prix excède 5 000 F.
+Les cahiers des charges ne sont soumis au timbre de dimension qu'après la réalisation des ventes ou adjudications et seulement si le prix excède 760 euros.
 
 L'exonération du timbre n'est pas applicable aux actes, procès-verbaux et cahiers des charges susvisés qui contiennent des dispositions indépendantes dans le sens de l'article 671. Pourtant, ne peuvent pas être considérés comme dispositions indépendantes, pour l'application du présent article, la procuration donnée dans l'un de ces actes pour toucher le prix ou la soulte, ou vendre les immeubles compris sur un cahier des charges ou procès-verbal de mise en vente, ainsi que toute déclaration de command contenue en l'acte même, ou encore tout paiement par subrogation effectué par un tiers en l'acquit de l'acquéreur ;
 
@@ -34,7 +34,7 @@ L'exonération du timbre n'est pas applicable aux actes, procès-verbaux et cahi
 
 16° Le répertoire visé à l'article 1002.
 
-3. Pièces et écrits divers ;
+3. Pièces et écrits divers.
 
 1° Les bordereaux d'inscription, ainsi que les pièces produites par les requérants pour obtenir l'accomplissement des formalités hypothécaires et qui restent déposées au bureau des hypothèques.
 
@@ -56,7 +56,7 @@ Ces pièces mentionnent expressément qu'elles sont destinées à être déposé
 
 9° (périmé).
 
-10° Les chèques-vacances institués par l'ordonnance n° 82-283 du 26 mars 1982 modifiée portant création des chèques-vacances ;
+10° les chèques-vacances conformément à l'article L. 411-7 du code du tourisme reproduit ;
 
 11° Les offres préalables de prêts rédigés conformément aux dispositions des chapitres II et III du titre I du livre III du code de la consommation ;
 
