@@ -3,7 +3,6 @@
 - [Article 209 bis](article-209-bis.md)
 - [Article 209 quater A](article-209-quater-a.md)
 - [Article 209 sexies](article-209-sexies.md)
-- [Article 209 A](article-209-a.md)
 - [Article 210 ter](article-210-ter.md)
 - [Article 212](article-212.md)
 - [Article 214](article-214.md)

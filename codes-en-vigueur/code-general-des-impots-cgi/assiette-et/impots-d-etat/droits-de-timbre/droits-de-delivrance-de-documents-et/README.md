@@ -5,7 +5,6 @@
 - [Article 949](article-949.md)
 - [Article 950](article-950.md)
 - [Article 958](article-958.md)
-- [Article 959](article-959.md)
 - [Article 960](article-960.md)
 - [Article 961](article-961.md)
 - [Article 962](article-962.md)
