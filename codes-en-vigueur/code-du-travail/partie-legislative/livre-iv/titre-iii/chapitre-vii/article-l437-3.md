@@ -1,5 +1,0 @@
-# Article L437-3
-
-Le temps passé par les membres titulaires ou par leurs suppléants aux séances de la commission prévue à l'article L. 437-1 est payé comme temps de travail. Il n'est pas déduit des vingt heures prévues au premier alinéa de l'article L. 434-1 du Code du travail [*crédit d'heures de délégation*] au bénéfice des membres titulaires du comité d'entreprise.
-
-Le temps passé par les membres titulaires ou, en cas d'empêchement, par leurs suppléants pour les visites de l'entreprise qui précèdent ou suivent les séances du comité d'entreprise ou de la commission prévue à l'article L. 437-1 et qui ont pour objet l'amélioration des conditions de travail est rémunéré comme temps de travail ; ce temps n'est pas déduit des vingt heures prévues au premier alinéa de l'article L. 434-1 au bénéfice des membres titulaires du comité d'entreprise. Le nombre d'heures consacré aux visites de l'entreprise sera déterminé par accord entre l'employeur et les salariés ; toutefois, un décret en fixera le minimum en fonction de la surface couverte développée de l'établissement, des effectifs occupés et de la nature de l'activité.
