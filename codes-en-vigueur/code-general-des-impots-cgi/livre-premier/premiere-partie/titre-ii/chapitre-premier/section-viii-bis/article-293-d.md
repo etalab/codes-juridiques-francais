@@ -10,4 +10,8 @@ II. Les chiffres d'affaires mentionnés au III de l'article 293 B sont constitu�
 
 2° Des livraisons et des cessions de droits visées au 2° du I II de l'article 293 B.
 
-III. Pour l'application des dispositions prévues à l'article 293 B, les limites de 70 000 F et 245 000 F sont ajustées au prorata du temps d'exploitation de l'entreprise ou d'exercice de l'activité pendant l'année de référence.
+III. Pour l'application des dispositions prévues à l'article 293 B, les limites de ((100 000 F)) (M) et 245 000 F sont ajustées au prorata du temps d'exploitation de l'entreprise ou d'exercice de l'activité pendant l'année de référence.
+
+(M) Modification de la loi 96-314. Ces dispositions du sont applicables à compter du 1er janvier 1997.
+
+[*Cf. Instructions 1997-01-02 3F-1-97, 1997-01-02 5G-1-97, 1997-01-02 4Q-1-97*].
