@@ -7,6 +7,7 @@
 - [Article R4](article-r4.md)
 - [Article R4-1](article-r4-1.md)
 - [Article R4-2](article-r4-2.md)
+- [Article R5](article-r5.md)
 - [Article R5-1](article-r5-1.md)
 - [Article R5-2](article-r5-2.md)
 - [Article R5-3](article-r5-3.md)

@@ -4,7 +4,11 @@ Sera puni des peines d'emprisonnement et d'amende prévues pour les contraventio
 
 1° Les sens imposés à la circulation ;
 
-" 2° La vitesse des véhicules à moteur avec ou sans remorque ou semi-remorque lorsque la vitesse constatée est supérieure de 20 km/h ou plus à la vitesse maximale autorisée si celle-ci est inférieure à 130 km/h, ou bien lorsque la vitesse constatée est supérieure de 30 km/h ou plus à la vitesse maximale autorisée si celle-ci est égale ou supérieure à 130 km/h. "
+2° La vitesse des véhicules à moteur avec ou sans remorque ou semi-remorque :
+
+" - soit lorsque cette vitesse n'a pas été réduite conformément aux dispositions du présent code, autres que celles prévues à l'article R. 232-1 et au dernier alinéa de l'article R. 10 ;
+
+" - soit lorsque la vitesse constatée est supérieure de 30 km/h ou plus à la vitesse maximale autorisée. "
 
 3° Les croisements et dépassements ;
 
