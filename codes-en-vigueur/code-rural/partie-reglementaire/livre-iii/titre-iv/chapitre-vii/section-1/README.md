@@ -7,3 +7,4 @@
 - [Article R*347-5](article-r-347-5.md)
 - [Article R347-6](article-r347-6.md)
 - [Article R347-7](article-r347-7.md)
+- [Article R347-7 bis](article-r347-7-bis.md)
