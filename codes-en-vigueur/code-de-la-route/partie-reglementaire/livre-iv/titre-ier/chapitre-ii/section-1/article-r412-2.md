@@ -12,4 +12,4 @@ III. - Toutefois, l'utilisation d'un système homologué de retenue pour enfant 
 
 3° Pour tout enfant transporté dans un taxi, dans un véhicule de remise ou tout autre véhicule affecté au transport public routier de personnes, ou dans un véhicule de transport en commun.
 
-IV. - Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la deuxième classe.
+IV. - Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.

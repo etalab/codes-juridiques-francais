@@ -10,4 +10,6 @@ II. - Par exception à cette règle, tout conducteur doit dépasser par la droit
 
 III. - Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
-IV. - Le fait de contrevenir au I donne lieu de plein droit à la réduction de trois points du permis de conduire.
+IV. - Tout conducteur coupable de l'infraction prévue au présent article encourt également la peine complémentaire de suspension du permis de conduire, pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en dehors de l'activité professionnelle.
+
+V. - Le fait de contrevenir aux dispositions du présent article donne lieu de plein droit à la réduction de trois points du permis de conduire.

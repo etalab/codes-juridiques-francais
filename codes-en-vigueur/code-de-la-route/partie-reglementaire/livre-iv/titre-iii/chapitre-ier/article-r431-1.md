@@ -6,4 +6,6 @@ Le fait, pour tout conducteur ou passager, de contrevenir aux dispositions du pr
 
 Conformément à l'article L. 431-1, le véhicule à deux roues à moteur dont le conducteur circule sans être coiffé d'un casque peut être immobilisé dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
-Lorsque cette contravention est commise par le conducteur, elle donne lieu de plein droit à la réduction d'un point du permis de conduire.
+Lorsque cette contravention est commise par le conducteur, elle donne lieu de plein droit à la réduction de trois points du permis de conduire.
+
+Les dispositions du présent article ne sont pas applicables aux conducteurs ou passagers portant la ceinture de sécurité lorsque le véhicule a été réceptionné avec ce dispositif.
