@@ -2,6 +2,7 @@
 
 - [Article 1791](article-1791.md)
 - [Article 1793 A](article-1793-a.md)
+- [Article 1794](article-1794.md)
 - [Article 1797](article-1797.md)
 - [Article 1798](article-1798.md)
 - [Article 1799](article-1799.md)

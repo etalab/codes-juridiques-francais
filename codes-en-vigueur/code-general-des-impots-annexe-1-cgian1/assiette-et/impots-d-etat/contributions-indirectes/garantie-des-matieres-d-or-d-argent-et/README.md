@@ -2,7 +2,6 @@
 
 - [Article 204](article-204.md)
 - [Article 205](article-205.md)
-- [Article 212](article-212.md)
 - [Article 215](article-215.md)
 - [Article 216](article-216.md)
 - [Article 217](article-217.md)
