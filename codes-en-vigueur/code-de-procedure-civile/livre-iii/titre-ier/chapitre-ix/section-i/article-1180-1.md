@@ -1,6 +1,6 @@
 # Article 1180-1
 
-La déclaration conjointe prévue à l'article 374 du Code civil est recueillie par le juge des tutelles du lieu où demeure l'enfant. Le juge établit un procès-verbal dont il remet une copie à chacun des parents.
+La déclaration conjointe prévue à l'article 374 du Code civil est recueillie par le juge aux affaires familiales du lieu où demeure l'enfant. Le juge établit un procès-verbal dont il remet une copie à chacun des parents.
 
 En cas de refus, le juge [*pouvoirs*] statue par ordonnance motivée.
 
