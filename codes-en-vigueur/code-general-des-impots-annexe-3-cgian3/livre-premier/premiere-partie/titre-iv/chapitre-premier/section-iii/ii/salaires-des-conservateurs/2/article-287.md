@@ -1,6 +1,6 @@
 # Article 287
 
-Il est alloué un salaire fixe de 50 F :
+Il est alloué un salaire fixe de 100 F :
 
 Pour chaque publication ne donnant pas ouverture au salaire proportionnel, notamment :
 
@@ -22,7 +22,9 @@ Pour chaque publication ne donnant pas ouverture au salaire proportionnel, notam
 
 9° Pour la publication de chaque état descriptif de division et de chaque acte modificatif d'état descriptif de division ;
 
-10° Pour la publication de chaque convention passée en application de l'article L. 351-2 du code de la construction et de l'habitation ;    11° Pour la publication des actes constatant la modification de la forme juridique de personnes morales, lorsque cette modification n'emporte pas création d'un être moral nouveau ;
+10° Pour la publication de chaque convention passée en application de l'article L. 351-2 du code de la construction et de l'habitation ;
+
+11° Pour la publication des actes constatant la modification de la forme juridique de personnes morales, lorsque cette modification n'emporte pas création d'un être moral nouveau ;
 
 12° Pour la publication des demandes en justice mentionnées à l'article 28-4°-c du décret du 4 janvier 1955 ainsi que des demandes en justice, procès-verbaux et déclarations visées au 2 de l'article 37 du même décret ;
 
