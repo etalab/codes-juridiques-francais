@@ -7,7 +7,6 @@
 - [Article 334-4](article-334-4.md)
 - [Article 334-5](article-334-5.md)
 - [Article 334-6](article-334-6.md)
-- [Article 334-7](article-334-7.md)
 - [Article 334-8](article-334-8.md)
 - [Article 334-9](article-334-9.md)
 - [Article 334-10](article-334-10.md)
