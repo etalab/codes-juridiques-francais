@@ -10,4 +10,4 @@ Les commandants et officiers de paix mentionnés ci-dessus qui n'ont pas obtenu 
 
 Les gradés et gardiens de la paix de la police nationale affectés à une circonscription territoriale ne dépassant pas le ressort de la cour d'appel peuvent, dans les limites de cette circonscription et dans les conditions fixées par l'article 20 du code de procédure pénale, exercer les attributions attachées à leur qualité d'agent de police judiciaire pour la recherche et la constatation des mêmes catégories d'infractions.
 
-Les fonctionnaires mentionnés aux alinéas 4 et 5 ci-dessus sont placés sous la surveillance du procureur général et sous le contrôle de la chambre d'accusation, conformément aux articles 224 à 229 du code de procédure pénale.
+Les fonctionnaires mentionnés aux alinéas 4 et 5 ci-dessus sont placés sous la surveillance du procureur général et sous le contrôle de la chambre de l'instruction, conformément aux articles 224 à 229 du code de procédure pénale.
