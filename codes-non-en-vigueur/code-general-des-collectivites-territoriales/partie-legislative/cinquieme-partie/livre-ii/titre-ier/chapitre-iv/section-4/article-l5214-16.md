@@ -6,7 +6,7 @@
 
 2° Actions de développement économique intéressant l'ensemble de la communauté. Quand la communauté de communes opte pour le régime fiscal défini à l'article 1609 nonies C du code général des impôts, l'aménagement, la gestion et l'entretien des zones d'activité industrielle, commerciale, tertiaire, artisanale, touristique, portuaire ou aéroportuaire d'intérêt communautaire sont inclus dans cette compétence ;
 
-II. - La communauté de communes doit par ailleurs exercer dans les mêmes conditions des compétences relevant d'au moins un des quatre groupes suivants :
+II. - La communauté de communes doit par ailleurs exercer dans les mêmes conditions des compétences relevant d'au moins un des cinq groupes suivants :
 
 1° Protection et mise en valeur de l'environnement, le cas échéant dans le cadre de schémas départementaux ;
 
@@ -14,7 +14,11 @@ II. - La communauté de communes doit par ailleurs exercer dans les mêmes condi
 
 3° Création, aménagement et entretien de la voirie ;
 
-4° Construction, entretien et fonctionnement d'équipements culturels et sportifs et d'équipements de l'enseignement préélémentaire et élémentaire.
+4° Construction, entretien et fonctionnement d'équipements culturels et sportifs et d'équipements de l'enseignement préélémentaire et élémentaire ;
+
+5° Action sociale d'intérêt communautaire.
+
+Lorsque la communauté de communes exerce la compétence action sociale d'intérêt communautaire, elle peut en confier la responsabilité pour tout ou partie à un centre intercommunal d'action sociale constitué dans les conditions fixées à l'article L. 123-5 du code de l'action sociale et des familles.
 
 III. - La définition des compétences transférées au sein de chacun des groupes est fixée par la majorité qualifiée requise pour la création de la communauté.
 

@@ -40,6 +40,8 @@ Lorsqu'une commune ne dispose d'aucune ressource au titre des quatre taxes direc
 
 Le montant total des attributions revenant en métropole aux communes éligibles comptant 200 000 habitants et plus est égal au produit de leur population par le montant moyen de l'attribution par habitant perçue l'année précédente par ces communes.
 
+Les communes bénéficiant d'une augmentation de leur attribution au titre de la dotation de solidarité urbaine et de cohésion sociale supérieure à 20 % ne bénéficient de l'augmentation éventuelle des montants calculés en application des alinéas précédents qu'à hauteur d'un montant correspondant à une augmentation égale au plus à 30 %.
+
 V. - La majoration de la dotation nationale de péréquation est répartie entre les communes éligibles comptant moins de 200 000 habitants en proportion de leur population et de l'écart relatif entre le potentiel financier moyen par habitant, calculé à partir de la seule taxe professionnelle, de l'ensemble des communes appartenant au même groupe démographique et le potentiel financier par habitant de la commune, calculé à partir de la seule taxe professionnelle.
 
 Seules sont éligibles les communes dont le potentiel financier par habitant est inférieur de 15 % au potentiel financier par habitant du même groupe démographique.
@@ -48,6 +50,6 @@ VI. - Lorsqu'une commune cesse en 2005 d'être éligible à la part principale o
 
 Lorsqu'en 2005 l'attribution au titre de la part principale ou de la majoration de la dotation nationale de péréquation revenant à une commune éligible diminue par rapport à 2004, cette commune perçoit une garantie, au titre de la part principale ou de la majoration, lui permettant de bénéficier en 2005 du montant perçu en 2004.
 
-VII. - Aucune attribution calculée en application des paragraphes précédents n'est versée si son montant est inférieur ou égal à 300 Euros.
+VII. - Aucune attribution calculée en application des paragraphes précédents n'est versée si son montant est inférieur ou égal à 300 euros.
 
 VIII - Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat. A défaut, le décret n° 85-260 du 22 février 1985 relatif aux modalités de répartition des ressources du fonds national de péréquation de la taxe professionnelle et du fonds national de péréquation et le décret n° 85-1314 du 11 décembre 1985 relatif aux modalités de répartition des ressources du fonds national de péréquation de la taxe professionnelle et du Fonds national de péréquation dans les départements d'outre-mer s'appliquent, en ce qui concerne le présent article.

@@ -1,7 +1,3 @@
 # Article L321-3
 
-Ces établissements sont créés par décret en Conseil d'Etat après avis du ou des conseils généraux et des conseils municipaux intéressés.
-
-Toutefois, lorsque leur zone d'activité territoriale s'étend sur plus de cent communes, le décret de création est pris en Conseil d'Etat et en conseil des ministres, après avis des conseils généraux intéressés.
-
-Dans le département de la Guyane, lorsque la zone d'activité de l'établissement s'étend sur tout le territoire du département, le décret de création est pris en Conseil d'Etat, après avis du conseil régional et du conseil général.
+Les établissements visés aux a et b de l'article L. 321-1 sont créés par décret en Conseil d'Etat après avis des conseils régionaux, des conseils généraux, des organes délibérants des établissements publics de coopération intercommunale compétents en matière d'aménagement de l'espace communautaire, d'équilibre social de l'habitat et de développement économique et des conseils municipaux des communes de plus de 20 000 habitants non membres de ces établissements situés dans leur périmètre de compétence. L'avis est réputé favorable s'il n'est pas émis dans un délai de trois mois.

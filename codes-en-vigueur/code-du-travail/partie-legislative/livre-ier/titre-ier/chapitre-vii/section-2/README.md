@@ -1,5 +1,6 @@
 # Section 2 : Conditions du contrat.
 
+- [Article L117-5](article-l117-5.md)
 - [Article L117-5-1](article-l117-5-1.md)
 - [Article L117-6](article-l117-6.md)
 - [Article L117-7](article-l117-7.md)

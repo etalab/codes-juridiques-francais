@@ -32,8 +32,6 @@ b. L'allocation de reconnaissance prévue aux I et I bis de l'article 47 de la l
 
 9° bis Les rentes viagères servies en représentation de dommages-intérêts en vertu d'une condamnation prononcée judiciairement pour la réparation d'un préjudice corporel ayant entraîné pour la victime une incapacité permanente totale l'obligeant à avoir recours à l'assistance d'une tierce personne pour effectuer les actes ordinaires de la vie ;
 
-9° ter La prestation de compensation servie en vertu des dispositions de l'article L. 245-1 du code de l'action sociale et des familles ;
-
 10° Les rentes viagères servies par application de l'article 96 de la loi du 30 décembre 1928, de l'article 5 de la loi du 17 septembre 1932, de l'article 1er de la loi du 1er octobre 1936 et de l'article 6 de la loi n° 652 du 26 juin 1942 ;
 
 11° (Abrogé) ;
@@ -46,7 +44,7 @@ b. L'allocation de reconnaissance prévue aux I et I bis de l'article 47 de la l
 
 14° bis Les pensions temporaires d'orphelin, à concurrence de l'allocation aux adultes handicapés, lorsqu'elles remplacent cette allocation en tout ou partie du fait de la loi ;
 
-14° ter L'indemnité prévue par l'article L. 1121-11 du code de la santé publique ;
+14° ter L'indemnité prévue par l'article L. 1124-2 du code de la santé publique ;
 
 15° Les prestations, visées aux articles L. 325-1 et L. 325-2 du code rural dans le cadre de l'entraide entre agriculteurs.
 
@@ -78,9 +76,7 @@ Les dispositions du premier alinéa bénéficient également, dans les mêmes co
 
 Cette exonération est subordonnée à la condition que le salarié se conforme aux obligations qui sont mises à sa charge par le titre III de l'ordonnance susvisée du 27 septembre 1967 et les textes pris pour son application ;
 
-19° bis l'avantage résultant de la contribution de l'employeur à l'acquisition des chèques-vacances conformément à l'article L. 411-5 du code du tourisme ci-après reproduit :
-
-"Art. L. 411-5 - L'avantage résultant de la contribution de l'employeur à l'acquisition des chèques-vacances par les salariés est exonéré de l'impôt sur le revenu, dans la limite du salaire minimum de croissance apprécié sur une base mensuelle" ;
+19° bis Le complément de rémunération résultant de la contribution de l'employeur à l'acquisition de chèques-vacances par les salariés, dans les conditions fixées par l'ordonnance n° 82-283 du 26 mars 1982 modifiée, dans la limite du salaire minimum de croissance apprécié sur une base mensuelle ;
 
 20° Les attributions gratuites d'actions :
 
@@ -118,10 +114,10 @@ d. (disjoint)
 
 33° L'indemnité de cessation anticipée d'activité versée en application d'une convention collective de branche, d'un accord professionnel ou interprofessionnel, d'un accord d'entreprise, du contrat de travail ou d'une disposition unilatérale de l'employeur aux marins exposés ou ayant été exposés à l'amiante admis au bénéfice d'une allocation de cessation anticipée d'activité visée au 9° de l'article L. 12 du code des pensions de retraite des marins français du commerce, de pêche ou de plaisance.
 
-33° bis Les indemnités versées, sous quelque forme que ce soit, aux victimes de l'amiante ou à leurs ayants droit par le Fonds d'indemnisation des victimes de l'amiante en application de l'article 53 de la loi de financement de la sécurité sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ou par décision de justice ;
+33° bis Les indemnités versées, sous quelque forme que ce soit, aux victimes de l'amiante ou à leurs ayants droit par le Fonds d'indemnisation des victimes de l'amiante en application de l'article 53 de la loi de financement de la sécurité sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ou par décision de justice (1) ;
 
 34° abrogé
 
 35° L'aide financière de l'Etat mentionnée à l'article L. 351-24 du code du travail.
 
-36° Les salaires versés aux enfants âgés de vingt et un ans au plus au 1er janvier de l'année d'imposition en rémunération d'une activité exercée pendant leurs congés scolaires ou universitaires, dans la limite de deux fois le montant mensuel du salaire minimum de croissance.
+36° Les salaires versés aux enfants âgés de vingt et un ans au plus au 1er janvier de l'année d'imposition en rémunération d'une activité exercée pendant leurs congés scolaires ou universitaires, dans la limite de deux fois le montant mensuel du salaire minimum de croissance (2).

@@ -1,4 +1,4 @@
-# CHAPITRE I : Etablissements publics d'aménagement.
+# Chapitre I : Etablissements publics fonciers et d'aménagement.
 
 - [Article L321-1](article-l321-1.md)
 - [Article L321-2](article-l321-2.md)

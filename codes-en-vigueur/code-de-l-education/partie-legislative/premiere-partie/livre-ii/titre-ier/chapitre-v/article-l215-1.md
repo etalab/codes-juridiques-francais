@@ -2,7 +2,7 @@
 
 Les compétences de la collectivité territoriale de Corse en matière d'éducation et de formation professionnelle sont fixées par les dispositions des articles L. 4424-1 à L. 4424-5 et L. 4424-34 du code général des collectivités territoriales, ci-après reproduites :
 
-Art. L. 4424-1. - La collectivité territoriale de Corse établit et transmet au représentant de l'Etat, après consultation du conseil économique, social et culturel de Corse et compte tenu des orientations fixées par le plan, le schéma prévisionnel des formations des collèges, des lycées, des établissements d'enseignement professionnel, des établissements d'enseignement artistique, des établissements d'éducation spéciale, des écoles de formation maritime et aquacole, des établissements d'enseignement agricole mentionnés à l'article L. 811-8 du code rural et des centres d'information et d'orientation.
+Art. L. 4424-1. - La collectivité territoriale de Corse établit et transmet au représentant de l'Etat, après consultation du conseil économique, social et culturel de Corse et compte tenu des orientations fixées par le plan, le schéma prévisionnel des formations des collèges, des lycées, des établissements d'enseignement professionnel, des établissements d'enseignement artistique, des établissements d'éducation spéciale, des lycées professionnels maritimes, des établissements d'enseignement agricole mentionnés à l'article L. 811-8 du code rural et des centres d'information et d'orientation.
 
 Elle associe les représentants désignés par les établissements d'enseignement privé sous contrat à l'élaboration de ce schéma.
 
@@ -41,5 +41,3 @@ Art. L. 4424-34. - La collectivité territoriale de Corse assure la mise en oeuv
 Elle élabore, en concertation avec l'Etat et après consultation des départements et du conseil économique, social et culturel de Corse, le plan régional de développement de la formation professionnelle des jeunes et des adultes, dont elle assure la mise en oeuvre.
 
 A l'occasion de la mise en oeuvre de ce plan, la collectivité territoriale de Corse signe une convention, notamment avec l'Association nationale pour la formation professionnelle des adultes, dont elle arrête le programme des formations et le programme des opérations d'équipement pour la Corse.
-
-Elle assure les actions d'insertion professionnelle des jeunes dans les conditions prévues pour les régions aux articles L. 4253-6 à L. 4253-10.

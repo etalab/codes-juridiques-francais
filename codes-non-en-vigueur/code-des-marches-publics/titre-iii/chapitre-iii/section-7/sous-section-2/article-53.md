@@ -2,7 +2,7 @@
 
 I. - Les offres non conformes à l'objet du marché sont éliminées.
 
-II. - Pour attribuer le marché au candidat qui a présenté l'offre économiquement la plus avantageuse, la personne publique se fonde sur divers critères variables selon l'objet du marché, notamment le coût d'utilisation, la valeur technique de l'offre, son caractère innovant, ses performances en matière de protection de l'environnement, le délai d'exécution, les qualités esthétiques et fonctionnelles, le service après-vente et l'assistance technique, la date et le délai de livraison, le prix des prestations.
+II. - Pour attribuer le marché au candidat qui a présenté l'offre économiquement la plus avantageuse, la personne publique se fonde sur divers critères variables selon l'objet du marché, notamment le coût d'utilisation, la valeur technique de l'offre, son caractère innovant, ses performances en matière de protection de l'environnement, ses performances en matière d'insertion professionnelle des publics en difficulté, le délai d'exécution, les qualités esthétiques et fonctionnelles, le service après-vente et l'assistance technique, la date et le délai de livraison, le prix des prestations.
 
 D'autres critères peuvent être pris en compte, s'ils sont justifiés par l'objet du marché.
 

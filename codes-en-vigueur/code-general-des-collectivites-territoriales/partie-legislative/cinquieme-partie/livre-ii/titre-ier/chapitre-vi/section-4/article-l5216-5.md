@@ -12,7 +12,7 @@ I. - La communauté d'agglomération exerce de plein droit au lieu et place des 
 
 dispositifs contractuels de développement urbain, de développement local et d'insertion économique et sociale d'intérêt communautaire ; dispositifs locaux, d'intérêt communautaire, de prévention de la délinquance.
 
-II. - La communauté d'agglomération doit en outre exercer au lieu et place des communes au moins trois compétences parmi les cinq suivantes :
+II. - La communauté d'agglomération doit en outre exercer au lieu et place des communes au moins trois compétences parmi les six suivantes :
 
 1° Création ou aménagement et entretien de voirie d'intérêt communautaire ; création ou aménagement et gestion de parcs de stationnement d'intérêt communautaire ;
 
@@ -22,7 +22,11 @@ II. - La communauté d'agglomération doit en outre exercer au lieu et place des
 
 4° En matière de protection et de mise en valeur de l'environnement et du cadre de vie : lutte contre la pollution de l'air, lutte contre les nuisances sonores, élimination et valorisation des déchets des ménages et déchets assimilés ou partie de cette compétence dans les conditions fixées par l'article L. 2224-13 ;
 
-5° Construction, aménagement, entretien et gestion d'équipements culturels et sportifs d'intérêt communautaire.
+5° Construction, aménagement, entretien et gestion d'équipements culturels et sportifs d'intérêt communautaire ;
+
+6° Action sociale d'intérêt communautaire.
+
+Lorsque la communauté d'agglomération exerce la compétence action sociale d'intérêt communautaire, elle peut en confier la responsabilité pour tout ou partie à un centre intercommunal d'action sociale constitué dans les conditions fixées à l'article L. 123-5 du code de l'action sociale et des familles.
 
 Le choix de ces compétences est arrêté par décision des conseils municipaux des communes intéressées dans les conditions de majorité qualifiée requise pour la création.
 
