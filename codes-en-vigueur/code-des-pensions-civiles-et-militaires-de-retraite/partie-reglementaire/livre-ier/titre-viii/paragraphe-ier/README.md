@@ -1,6 +1,7 @@
 # Paragraphe Ier : Concession et révision de la pension.
 
 - [Article D20](article-d20.md)
+- [Article D21](article-d21.md)
 - [Article D22](article-d22.md)
 - [Article D23](article-d23.md)
 - [Article D24](article-d24.md)
