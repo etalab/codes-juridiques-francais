@@ -5,7 +5,6 @@
 - [Article 157](article-157.md)
 - [Article 157 bis](article-157-bis.md)
 - [Article 158](article-158.md)
-- [Article 158 ter](article-158-ter.md)
 - [Article 159 quinquies](article-159-quinquies.md)
 - [Article 160 bis](article-160-bis.md)
 - [Article 160 quater](article-160-quater.md)

@@ -4,7 +4,6 @@
 - [Section 3 : Du régime auquel les condamnés sont soumis](section-3)
 - [Section 4 : Du travail des détenus](section-4)
 - [Section 5 : De la répartition du produit du travail](section-5)
-- [Section 6 : Du juge de l'application des peines, de la chambre des appels correctionnels statuant en matière d'application des peines et la commission de l'application des peines](section-6)
 - [Section VII : Du placement à l'extérieur, du régime de semi-liberté et des permissions de sortir.](section-vii)
 - [Section 8 : De la suspension de peine prévue par l'article 720-1-1](section-8)
 - [Section 9 : De la mise à exécution de certaines peines privatives de liberté à l'égard des condamnés libres](section-9)

@@ -4,7 +4,6 @@
 - [Chapitre II : Les actes de l'état civil](chapitre-ii)
 - [Chapitre III : Le répertoire civil](chapitre-iii)
 - [Chapitre IV : Les absents](chapitre-iv)
-- [Chapitre V : Le divorce et la séparation de corps](chapitre-v)
 - [Chapitre VI : La filiation et les subsides](chapitre-vi)
 - [Chapitre VII : La déclaration d'abandon](chapitre-vii)
 - [Chapitre VIII : L'adoption](chapitre-viii)

@@ -4,7 +4,6 @@
 - [Section I quater : Fonds de garantie contre les accidents de circulation et de chasse](section-i-quater)
 - [Section V : Fonds national de garantie des calamités agricoles](section-v)
 - [Section V bis : Fonds de garantie des calamités agricoles dans les départements d'outre-mer](section-v-bis)
-- [Section V ter : Fonds de compensation des risques de l'assurance de la construction.](section-v-ter)
 - [Section V quater : Fonds de prévention des risques naturels majeurs](section-v-quater)
 - [Section VI : Groupements de communes. Taxe locale d'équipement](section-vi)
 - [Section IX : Association pour le développement de la formation professionnelle dans les transports](section-ix)

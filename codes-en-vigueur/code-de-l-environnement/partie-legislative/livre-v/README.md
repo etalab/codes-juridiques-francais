@@ -6,5 +6,4 @@
 - [Titre IV : Déchets](titre-iv)
 - [Titre V : Dispositions particulières à certains ouvrages ou installations](titre-v)
 - [Titre VI : Prévention des risques naturels](titre-vi)
-- [Titre VII : Prévention des nuisances acoustiques et visuelles](titre-vii)
 - [Titre VIII : Protection du cadre de vie](titre-viii)

@@ -2,5 +2,3 @@
 
 - [Paragraphe 1 : De la semi-liberté et du placement à l'extérieur](paragraphe-1)
 - [Paragraphe 2 : Du placement sous surveillance électronique](paragraphe-2)
-- [Article 132-25](article-132-25.md)
-- [Article 132-26](article-132-26.md)

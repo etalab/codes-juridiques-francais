@@ -4,7 +4,6 @@
 - [Article 46 AG septies](article-46-ag-septies.md)
 - [Article 46 AG octies](article-46-ag-octies.md)
 - [Article 46 AG nonies](article-46-ag-nonies.md)
-- [Article 46 AG decies](article-46-ag-decies.md)
 - [Article 46 AG undecies](article-46-ag-undecies.md)
 - [Article 46 AG duodecies](article-46-ag-duodecies.md)
 - [Article 46 AG terdecies](article-46-ag-terdecies.md)

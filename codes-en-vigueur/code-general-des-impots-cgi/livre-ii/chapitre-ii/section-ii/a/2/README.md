@@ -18,4 +18,3 @@
 - [Article 1770 quinquies](article-1770-quinquies.md)
 - [Article 1770 septies](article-1770-septies.md)
 - [Article 1770 octies](article-1770-octies.md)
-- [Article 1770 nonies](article-1770-nonies.md)

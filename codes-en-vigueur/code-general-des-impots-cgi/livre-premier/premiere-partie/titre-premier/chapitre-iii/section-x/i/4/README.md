@@ -1,8 +1,0 @@
-# 4° : Fonds d'assurance-formation.
-
-- [Article 235 ter HB](article-235-ter-hb.md)
-- [Article 235 ter HC](article-235-ter-hc.md)
-- [Article 235 ter HD](article-235-ter-hd.md)
-- [Article 235 ter J](article-235-ter-j.md)
-- [Article 235 ter JA](article-235-ter-ja.md)
-- [Article 235 ter K](article-235-ter-k.md)

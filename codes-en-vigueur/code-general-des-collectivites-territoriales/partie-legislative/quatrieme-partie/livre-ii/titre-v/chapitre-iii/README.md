@@ -2,5 +2,4 @@
 
 - [Section 1 : Garanties d'emprunts.](section-1)
 - [Section 2 : Participation au capital de sociétés.](section-2)
-- [Section 3 : Aides directes et indirectes.](section-3)
 - [Section 4 : Insertion professionnelle des jeunes.](section-4)
