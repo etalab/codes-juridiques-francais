@@ -8,7 +8,6 @@
 - [Article 728](article-728.md)
 - [Article 729](article-729.md)
 - [Article 730](article-730.md)
-- [Article 731](article-731.md)
 - [Article 732](article-732.md)
 - [Article 733](article-733.md)
 - [Article 734](article-734.md)
