@@ -1,7 +1,5 @@
 # Article L232-20
 
-Dans le délai d'un mois à compter de la notification de l'attribution de la prestation, le bénéficiaire doit déclarer au président du conseil général le ou les salariés ou le service d'aide à domicile à la rémunération desquels est utilisée la prestation spécifique dépendance. Tout changement ultérieur de salarié ou de service doit être déclaré dans les mêmes conditions.
+Les recours contre les décisions relatives à l'allocation personnalisée d'autonomie sont formés devant les commissions départementales mentionnées à l'article L. 134-6, dans des conditions et selon les modalités prévues aux articles L. 134-1 à L. 134-10.
 
-Il peut employer un ou plusieurs membres de sa famille à l'exception de son conjoint ou de son concubin. Il fait mention du lien de parenté avec son salarié dans sa déclaration et précise que ledit salarié n'est ni son conjoint ni son concubin.
-
-Le bénéficiaire de la prestation spécifique dépendance est informé qu'à défaut de la déclaration mentionnée au premier alinéa, dans le délai fixé au même alinéa, le versement de la prestation est suspendu.
+Lorsque le recours est relatif à l'appréciation du degré de perte d'autonomie, la commission départementale mentionnée à l'article L. 134-6 recueille l'avis d'un médecin titulaire d'un diplôme universitaire de gériatrie ou d'une capacité en gérontologie et gériatrie, choisi par son président sur une liste établie par le conseil départemental de l'ordre des médecins.

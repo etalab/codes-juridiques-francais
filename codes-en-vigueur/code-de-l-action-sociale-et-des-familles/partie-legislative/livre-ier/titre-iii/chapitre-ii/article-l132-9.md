@@ -10,4 +10,4 @@ Aucune inscription ne pourra être prise lorsque la valeur globale des biens de 
 
 Les formalités relatives à l'inscription de l'hypothèque mentionnée ci-dessus, ainsi qu'à sa radiation, ne donnent lieu à aucune perception au profit du Trésor.
 
-Les prestations d'aide sociale à domicile, la prestation spécifique dépendance et la prise en charge du forfait journalier mentionnées à l'article L. 132-8 ne sont pas garanties par l'inscription d'une hypothèque légale.
+Les prestations d'aide sociale à domicile et la prise en charge du forfait journalier mentionnées à l'article L. 132-8 ne sont pas garanties par l'inscription d'une hypothèque légale.

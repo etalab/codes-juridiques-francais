@@ -1,0 +1,3 @@
+# Article L232-17
+
+Chaque département transmet, dans des conditions fixées par décret, au fonds institué par l'article L. 232-21, à la fois des données comptables relatives aux dépenses nettes d'allocation personnalisée d'autonomie et des données statistiques et comptables relatives au développement du dispositif d'allocation personnalisée d'autonomie, à ses principales caractéristiques et notamment à celles de ses bénéficiaires ainsi qu'à l'activité des équipes médico-sociales et au suivi des conventions visées respectivement aux articles L. 232-3 et L. 232-13, de façon à alimenter un système d'information organisé par décret pris après avis de la Commission nationale de l'informatique et des libertés.
