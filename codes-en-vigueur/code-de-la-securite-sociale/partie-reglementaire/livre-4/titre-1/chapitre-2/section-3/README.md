@@ -7,4 +7,5 @@
 - [Sous-section 9 : Salariés désignés pour sièger dans certains organismes.](sous-section-9)
 - [Sous-section 10 : Personnes bénéficiaires d'un revenu minimum d'insertion.](sous-section-10)
 - [Sous-section 11 : Demandeurs d'emploi](sous-section-11)
+- [Sous-section 12 : Salariés bénéficiaires d'un congé de représentation](sous-section-12)
 - [Article D412-1](article-d412-1.md)
