@@ -7,4 +7,3 @@
 - [Titre V : Règlement des litiges.](titre-v)
 - [Article 39](article-39.md)
 - [Article 40](article-40.md)
-- [Article 249](article-249.md)

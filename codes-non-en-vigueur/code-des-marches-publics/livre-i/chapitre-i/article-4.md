@@ -1,10 +1,8 @@
 # Article 4
 
-La commission centrale des marchés est composée de quatre sections :
+La commission centrale des marchés est composée de trois sections :
 
 - une section administrative ;
-
-- une section des prix ;
 
 - une section économique ;
 

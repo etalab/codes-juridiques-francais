@@ -1,6 +1,6 @@
 # Article 34
 
-Les services de l'Etat et les établissements publics de l'Etat, quel que soit leur caractère, peuvent demander que leurs achats de matériels soit effectués par l'union des groupements d'achats publics, régie par les dispositions du décret n° 68-54 du 17 janvier 1968 modifié.
+Les services de l'Etat et les établissements publics de l'Etat, quel que soit leur caractère, peuvent demander que leurs achats de matériels soit effectués par l'union des groupements d'achats publics.
 
 Les départements, les communes et leurs établissements publics bénéficient de la même possibilité.
 

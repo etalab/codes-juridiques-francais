@@ -1,11 +1,9 @@
 # Article 84
 
-Les marchés par adjudication comportent obligatoirement :
+La procédure des marchés passés par adjudication comporte une ouverture des offres et une attribution provisoire du marché en séance publique.
 
-1° La publicité de l'ouverture des soumissions et de l'attribution provisoire du marché ;
+La personne responsable du marché doit fixer un prix maximum au-delà duquel aucune attribution ne peut être prononcée.
 
-2° L'attribution du marché, s'il a été reçu au moins une soumission répondant aux conditions de l'adjudication ;
-
-3° L'attribution du marché au soumissionnaire le moins-disant.    La personne responsable du marché doit fixer un prix maximum au-delà duquel aucune attribution ne peut être prononcée.
+L'attribution provisoire du marché est faite au moins-disant s'il a été reçu au moins une offre répondant aux conditions de l'adjudication.
 
 L'adjudication peut être ouverte ou restreinte.

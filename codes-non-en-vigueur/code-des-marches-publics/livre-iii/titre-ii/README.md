@@ -1,5 +1,4 @@
 # Titre II : Garanties exigées des titulaires de marchés
 
-- [Section I : Cautionnement.](section-i)
-- [Section II : Garanties autres que le cautionnement.](section-ii)
-- [Section III : Dérogations au régime des garanties.](section-iii)
+- [Section I : Retenue de garantie.](section-i)
+- [Section II : Autres garanties.](section-ii)

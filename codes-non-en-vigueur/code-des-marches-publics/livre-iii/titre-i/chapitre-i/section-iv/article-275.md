@@ -1,5 +1,5 @@
 # Article 275
 
-Les prestations faisant l'objet d'un marché sont réglées soit par des prix unitaires appliqués aux quantités réellement livrées ou exécutées, soit par des prix forfaitaires.
+Les prix des prestations faisant l'objet d'un marché sont soit des prix unitaires appliqués aux quantités réellement livrées ou exécutées, soit des prix forfaitaires appliqués à tout ou partie du marché quelles que soient les quantités. Les marchés sont conclus à prix initial définitif.
 
-Le prix est ferme lorsqu'il ne peut être modifié à raison des variations des conditions économiques ; dans le cas contraire, les conditions de détermination du prix de règlement sont expressément prévues par le marché.
+Qu'il soit forfaitaire ou unitaire, le prix est ferme lorsqu'il ne peut être modifié à raison des variations économiques ; dans le cas contraire, les conditions de détermination du prix de règlement sont expressément prévues par le marché.

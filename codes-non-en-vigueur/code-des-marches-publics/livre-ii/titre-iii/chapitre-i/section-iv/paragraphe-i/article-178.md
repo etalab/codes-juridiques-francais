@@ -22,4 +22,4 @@ IV. - En cas de désaccord sur le montant d'un acompte ou du solde, le mandateme
 
 V. - L'avance forfaitaire prévue à l'article 154 du présent code est mandatée sans formalité dans le délai d'un mois compté à partir de la date d'effet de l'acte qui emporte commencement d'exécution du marché.
 
-Toutefois, si un cautionnement a été prévu au marché, l'avance ne peut être mandatée avant que le titulaire ait justifié la constitution dudit cautionnement.
+Si le titulaire doit constituer une garantie à première demande ou une caution, l'avance ne peut être mandatée avant que cette garantie ou cette caution ait été constituée.

@@ -1,9 +1,5 @@
 # Article 336
 
-Une avance dite "avance forfaitaire" peut être accordée par l'autorité compétente au titulaire du marché.
+Une avance, dite "avance forfaitaire", peut être accordée par l'autorité compétente au titulaire du marché dans les conditions prévues à l'article 154.
 
-Dans tous les cas, le titulaire peut refuser le versement de l'avance forfaitaire.
-
-Sous réserve des dispositions des articles 188 et 355, son montant est fixé au maximum à 5 p. 100 du montant des prestations à exécuter dans les douze premiers mois après la date d'effet de l'acte qui emporte commencement d'exécution du marché.
-
-Ce montant ne peut être ni révisé ni actualisé.
+La collectivité ou l'établissement peut en outre demander la constitution d'une garantie à première demande ou, si les deux parties en sont d'accord, d'une caution personnelle et solidaire garantissant tout ou partie du remboursement de cette avance.

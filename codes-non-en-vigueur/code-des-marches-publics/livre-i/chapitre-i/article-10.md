@@ -1,5 +1,13 @@
 # Article 10
 
-La section économique est chargée d'étudier les répercussions des marchés de l'Etat, des collectivités locales, des établissements publics, des sociétés nationales et des sociétés d'économie mixte sur les divers secteurs de l'économie nationale, de proposer toutes mesures susceptibles d'améliorer le placement des commandes de fournitures et de travaux, notamment par l'établissement de programmes d'achats, d'examiner les problèmes posés par la centralisation des achats par l'union des groupements d'achats publics mentionnée à l'article 34 et de donner son avis sur les fournitures auxquelles cette centralisation doit être étendue.
+La section économique est chargée d'étudier les incidences des marchés de l'Etat, des collectivités locales, des établissements, des entreprises, des organismes et des sociétés d'économie mixte soumis au contrôle économique et financier de l'Etat.
 
-La section économique peut proposer au comité de coordination visé à l'article 4 la création de groupes spécialisés dans l'examen des marchés concernant certaines catégories de travaux ou de fournitures.    Sur rapport de la direction générale du commerce intérieur et des prix, la section économique examine chaque année les conditions d'application du livre IV et le développement des procédures d'achats groupés sur le plan local.
+Elle propose toute mesure d'optimisation des achats publics et favorisant le libre jeu de la concurrence.
+
+Elle formule des avis sur les questions relatives aux prix dans les marchés publics.
+
+Elle propose les mesures permettant l'amélioration de l'information des services d'achats ainsi que leur fonctionnement et peut faire réaliser des audits des services acheteurs de l'Etat et de ses établissements publics autres que ceux ayant le caractère industriel et commercial.
+
+Elle peut, à leur demande, faire réaliser des audits des services acheteurs des collectivités locales et de leurs établissements publics.
+
+La section économique peut proposer la mise en place de structures favorisant le développement des procédures d'achats groupés sur le plan national ou local.

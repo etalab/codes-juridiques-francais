@@ -1,6 +1,6 @@
 # Article 42
 
-L'inexactitude de la déclaration établie en application du 2° de l'article 41 peut entraîner les sanctions suivantes ou l'une d'entre elles seulement :
+L'inexactitude des renseignements prévus aux 2°, 3°, 4°, 5° et 6° de l'article 50 peut entraîner les sanctions suivantes ou l'une d'entre elles seulement :
 
 1° Par décision du ministre intéressé, l'exclusion temporaire ou définitive de l'entreprise des marchés passés par les services relevant de son autorité. L'entreprise est invitée, au préalable, à présenter ses observations ; la décision d'exclusion, qui doit être motivée, lui est notifiée. Cette décision est portée à la connaissance du secrétaire général de la commission centrale des marchés, qui en assure la publication au Bulletin officiel des annonces des marchés publics visés à l'article 38 ;
 

@@ -1,13 +1,15 @@
 # Article *50
 
-Les cahiers des charges doivent rappeler l'interdiction visée à l'article 49.
+A l'appui des candidatures ou des offres, il ne peut être exigé que :
 
-Les offres et soumissions présentées ou souscrites à l'occasion des marchés doivent contenir la déclaration que l'entreprise au nom de laquelle elles sont établies ne tombe pas sous l'interdiction dont il s'agit.
+1° Des renseignements ou pièces relatives à la nature et aux conditions générales d'exploitation de l'entreprise, à ses moyens techniques, à ses références, aux pouvoirs de la personne habilitée pour l'engager et, en ce qui concerne les marchés passés pour les besoins de la défense, à sa nationalité ;
 
-Le défaut de déclaration n'est pas de nature à faire écarter l'offre ou la soumission, mais le marché ne pourra être notifié qu'à la condition formelle que cette déclaration y soit insérée.
+2° Si l'entreprise est en redressement judiciaire, la copie du ou des jugements prononcés à cet effet ;
 
-Le service contractant est fondé à provoquer les explications et à demander les justifications qu'il peut estimer utiles.
+3° La déclaration que le candidat ne tombe pas sous le coup des interdictions visées aux articles 48, 49 et 49-1, ou d'une interdiction équivalente prononcée dans un autre pays ;
 
-Les sous-traitants sont tenus de remettre aux services contractants une déclaration de même nature.
+4° Les références du certificat visé à l'article 60 ;
 
-La déclaration prévue aux alinéas précédents, n'est pas exigible en matière d'achats sur factures et de travaux sur mémoires, effectués dans les limites autorisées par l'article 123.
+5° Les attestations visées à l'article 55 ; le cas échéant, la déclaration que le candidat verse à ses salariés leurs indemnités de congés payés et ne les met pas au chômage pour cause d'intempéries ;
+
+6° Les documents ou attestations figurant à l'article R. 324-4 du code du travail.

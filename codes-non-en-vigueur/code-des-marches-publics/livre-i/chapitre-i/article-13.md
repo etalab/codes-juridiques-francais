@@ -20,7 +20,7 @@ La section technique comprend les membres suivants :
 
 - deux représentants du ministre de l'économie et des finances, au titre respectivement de la direction générale de la concurrence et des prix et de la direction du personnel et des services généraux ;
 
-- le commissaire à la normalisation ou son représentant ;
+- le délégué interministériel aux normes ou son représentant ;
 
 - deux représentants des professions traitant habituellement des marchés de travaux avec les administrations publiques, désignés par le ministre de l'équipement ;
 

@@ -1,3 +1,5 @@
 # Article *47
 
-Les candidats au marché doivent indiquer, dans leur offre ou dans leur soumission, la nature et le montant de chacune des prestations qu'ils envisagent de sous-traiter.
+Sous réserve des dispositions des articles 48 à 60 du présent code, les entrepreneurs ou fournisseurs peuvent librement se porter candidats aux marchés publics.
+
+Sous réserve des dispositions des articles 61 à 73, ils bénéficient d'une égalité de traitement dans l'examen de leurs candidatures ou de leurs offres.

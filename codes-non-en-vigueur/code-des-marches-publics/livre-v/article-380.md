@@ -1,6 +1,6 @@
 # Article 380
 
-Outre les avis publiés dans les conditions prévues aux articles 38, 38 bis et 38 ter, les avis d'adjudication, d'appel d'offres, d'appel public de candidatures, d'information ou d'attribution sont publiés au Journal officiel des communautés européennes.
+Outre les avis publiés dans les conditions prévues à l'article 38, les avis d'adjudication, d'appel d'offres, d'appel public de candidatures, d'information ou d'attribution sont publiés au Journal officiel des communautés européennes.
 
 Pour les marchés de fournitures, les avis d'adjudication, d'appel d'offres, d'appel public de candidatures ou d'information font connaître les motifs des dérogations éventuelles aux normes nationales. Pour les marchés de travaux, ces avis contiennent les motifs de ces dérogations, sauf s'ils figurent dans les cahiers des charges, et indiquent également si les variantes sont prohibées.
 

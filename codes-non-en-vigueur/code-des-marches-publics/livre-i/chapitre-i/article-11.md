@@ -2,30 +2,30 @@
 
 La section économique comprend les membres suivants :
 
-Un conseiller maître à la Cour des comptes, président ;
+Une personnalité désignée par le ministre chargé de l'économie et des finances, président ;
 
 Le commissaire général au Plan ou son représentant ;
 
-Cinq représentants du ministre de l'économie et des finances au titre :
+Six représentants du ministre chargé de l'économie et des finances au titre :
 
-De la direction du budget ;
+- de la direction du budget ;
 
-De la direction générale de la concurrence et des prix ;
+- de la direction générale de la concurrence, de la consommation et de la répression des fraudes ;
 
-De la direction du Trésor ;
+- de la direction du Trésor ;
 
-De la direction de la comptabilité publique ;
+- de la direction de la comptabilité publique ;
 
-De la direction de la prévision ;
+- de la direction de la prévision ;
 
-Un représentant du ministre de la défense ;
+- de l'Institut national des statistiques et des études économiques ;
 
-Deux représentants du ministre de l'équipement, dont l'un au titre des travaux de génie civil et l'autre au titre des travaux de bâtiment ;
+Un représentant du ministre chargé de la défense ;
 
-Deux représentants du ministre de l'industrie, dont l'un au titre de la petite et moyenne industrie ;
+Deux représentants du ministre chargé de l'équipement, dont l'un au titre des travaux de génie civil et l'autre au titre des travaux de bâtiment ;
 
-Un représentant du ministre de l'agriculture ;
+Deux représentants du ministre chargé de l'industrie, dont l'un au titre de la petite et moyenne industrie ;
 
-Un représentant du ministre des postes et télécommunications.
+Un représentant du ministre chargé de l'agriculture ;
 
-Lorsque la section économique délibère sur les problèmes posés par la centralisation des achats par l'administration des domaines, elle s'adjoint le chef du service des domaines au ministère de l'économie et des finances ou son représentant.
+Un représentant du ministre chargé des postes et télécommunications.

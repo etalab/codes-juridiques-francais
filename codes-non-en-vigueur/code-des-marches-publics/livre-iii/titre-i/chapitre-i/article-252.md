@@ -1,8 +1,8 @@
 # Article 252
 
-L'inexactitude de la déclaration établie en application du 2° de l'article 251 peut entraîner les sanctions suivantes ou l'une d'entre elles seulement :
+L'inexactitude des renseignements prévus aux 2°, 3°, 4°, 5° et 6° de l'article 50 peut entraîner les sanctions suivantes ou l'une d'entre elles seulement :
 
-1° Par décision du commissaire de la République intéressé, l'exclusion temporaire ou définitive de l'entreprise des marchés passés par les collectivités ou établissements publics placés sous son contrôle. L'entreprise est invitée, au préalable, à présenter ses observations. La décision d'exclusion, qui doit être motivée, lui est notifiée.
+1° Par décision du préfet intéressé, l'exclusion temporaire ou définitive de l'entreprise des marchés passés par les collectivités ou établissements publics placés sous son contrôle. L'entreprise est invitée, au préalable, à présenter ses observations. La décision d'exclusion, qui doit être motivée, lui est notifiée.
 
 Cette décision est portée à la connaissance du secrétaire général de la commission centrale des marchés, qui en assure la publication au Bulletin officiel des annonces des marchés publics visé à l'article 38.
 

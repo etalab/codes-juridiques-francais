@@ -1,6 +1,6 @@
 # Article 354
 
-Lorsque le marché est pour partie financé au moyen de subventions de l'Etat ou d'une autre collectivité publique et que ces subventions constituent des droits acquis et échus, la collectivité bénéficiaire doit, dans le délai de quinze jours à compter du point de départ déterminé au troisième alinéa de l'article 353, demander l'attribution d'un acompte sur la subvention à la collectivité qui l'accorde.
+Lorsque le marché est pour partie financé au moyen de subventions de l'Etat ou d'une autre collectivité publique et que ces subventions constituent des droits acquis et échus, la collectivité bénéficiaire doit, dans le délai de quinze jours à compter du point de départ déterminé à l'article 180, demander l'attribution d'un acompte sur la subvention à la collectivité qui l'accorde.
 
 Cette demande doit être appuyée des justifications réglementaires.
 
