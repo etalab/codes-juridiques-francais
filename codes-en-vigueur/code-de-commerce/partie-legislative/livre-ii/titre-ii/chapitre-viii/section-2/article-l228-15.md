@@ -4,7 +4,7 @@ Les titulaires d'actions à dividende prioritaire sans droit de vote sont réuni
 
 Tout actionnaire possédant des actions à dividende prioritaire sans droit de vote peut participer à l'assemblée spéciale. Toute clause contraire est réputée non écrite.
 
-L'assemblée spéciale des actionnaires à dividende prioritaire sans droit de vote peut émettre un avis avant toute décision de l'assemblée générale. Elle statue alors à la majorité des voix exprimées par les actionnaires présents ou représentés. Dans le cas ou il est procédé à un scrutin, il n'est pas tenu compte des bulletins blancs. L'avis est transmis à la société. Il est porté à la connaissance de l'assemblée générale et consigné à son procès-verbal.
+L'assemblée spéciale des actionnaires à dividende prioritaire sans droit de vote peut émettre un avis avant toute décision de l'assemblée générale. Elle statue alors à la majorité des voix exprimées par les actionnaires présents ou représentés. Dans le cas où il est procédé à un scrutin, il n'est pas tenu compte des bulletins blancs. L'avis est transmis à la société. Il est porté à la connaissance de l'assemblée générale et consigné à son procès-verbal.
 
 L'assemblée spéciale peut désigner un ou, si les statuts le prévoient, plusieurs mandataires chargés de représenter les actionnaires à dividende prioritaire sans droit de vote à l'assemblée générale des actionnaires et, le cas échéant, d'y exposer leur avis avant tout vote de cette dernière. Cet avis est consigné au procès-verbal de l'assemblée générale.
 
