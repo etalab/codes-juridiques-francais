@@ -2,7 +2,6 @@
 
 - [Titre I : Des navires et autres bâtiments de mer](titre-i)
 - [Titre IV : Du capitaine.](titre-iv)
-- [Titre V : De l'engagement et des loyers des matelots et gens de l'équipage.](titre-v)
 - [Titre VI : Des chartes-parties, affrètements ou nolissements.](titre-vi)
 - [Titre IX : Des contrats à la grosse.](titre-ix)
 - [Titre X : Des assurances.](titre-x)
