@@ -8,4 +8,4 @@ Les crédits de la dotation globale d'équipement attribués aux établissements
 
 L'ensemble des crédits mentionnés aux deux précédents alinéas est attribué par le représentant de l'Etat dans le département aux différents bénéficiaires mentionnés à l'article L. 2334-33, sous la forme de subventions pour la réalisation d'une opération déterminée correspondant à une dépense réelle directe d'investissement.
 
-Ces subventions doivent leur être notifiées en totalité au cours du premier trimestre de l'année civile ; dès réception de la notification, les communes peuvent engager les travaux auxquels se rapportent les subventions.
+Ces subventions doivent leur être notifiées en totalité au cours du premier trimestre de l'année civile.
