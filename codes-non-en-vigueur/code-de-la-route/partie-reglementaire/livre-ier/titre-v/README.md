@@ -9,5 +9,6 @@
 - [Paragraphe V : PLAQUES.](paragraphe-v)
 - [Paragraphe VI : RÉCEPTION DES CYCLOMOTEURS.](paragraphe-vi)
 - [Paragraphe VII : CONDUITE DES CYCLOMOTEURS.](paragraphe-vii)
+- [Paragraphe VIII : Immatriculation.](paragraphe-viii)
 - [Article R188](article-r188.md)
 - [Article R188-1](article-r188-1.md)
