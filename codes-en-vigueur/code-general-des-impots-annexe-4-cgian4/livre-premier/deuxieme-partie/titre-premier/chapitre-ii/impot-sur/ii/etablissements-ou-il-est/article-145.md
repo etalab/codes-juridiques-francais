@@ -10,7 +10,7 @@ Le produit de la vente des billets d'entrée ne doit pas être confondu avec les
 
 Les directeurs, entrepreneurs, propriétaires des établissements visés au premier alinéa sont tenus en outre de remettre dans les trois premiers jours de chaque décade ou de chaque mois, selon les indications qu'ils reçoivent à ce sujet, au service des impôts qui leur est désigné un relevé indiquant le montant total du chiffre des recettes effectuées pendant la décade ou le mois précédent et d'acquitter, dans les trois jours suivants, le montant de l'impôt exigible d'après ce relevé (1).
 
-Le livre prescrit par le présent article  ainsi que la comptabilité et les pièces justificatives des opérations effectuées par les établissements soumis à l'impôt  doivent être conservés par l'établissement pendant le délai prévu à l'article L. 82 du livre des procédures fiscales [*obligation de conservation*] pour être représentés à tout vérificateur.
+Le livre prescrit par le présent article  ainsi que la comptabilité et les pièces justificatives des opérations effectuées par les établissements soumis à l'impôt  doivent être conservés par l'établissement selon les modalités prévues au I de l'article L. 102 B du livre des procédures fiscales [*obligation de conservation*] pour être représentés à tout vérificateur.
 
 Lorsqu'un établissement  par la nature de ses opérations  n'est assujetti à l'impôt sur les spectacles qu'à certaines heures de la journée  ou pour des salles spéciales  les opérations à inscrire sur le carnet visé au présent article ne concernent que celles pour lesquelles l'impôt sur les spectacles est dû. Il y a lieu d'opérer dans ce cas comme s'il y avait  en fait  deux établissements entièrement distincts.
 

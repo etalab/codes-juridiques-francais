@@ -2,4 +2,4 @@
 
 Les registres mis par l'administration à la disposition des exploitants de distillerie pour recevoir les déclarations prévues au présent règlement doivent être tenus sans blanc, surcharge ou rature.
 
-Ils doivent demeurer constamment à la disposition des agents des impôts et être conservés en bon état jusqu'à l'expiration du délai prévu à l'article L. 82 du livre des procédures fiscales.
+Ils doivent demeurer constamment à la disposition des agents des impôts et être conservés en bon état selon les modalités prévues au I de l'article L. 102 B du livre des procédures fiscales.

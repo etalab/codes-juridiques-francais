@@ -4,7 +4,7 @@ Il est pourvu aux dépenses ordinaires des chambres de métiers, de leurs instan
 
 Cette taxe comprend :
 
-a. un droit fixe par ressortissant, dont le maximum fixé à 444 F (1) est révisable lors du vote de la loi de finances de l'année. Ce droit fait obligatoirement l'objet d'une majoration comprise entre 50 % et 80 % de ce maximum en vue de financer des actions de formation continue ;
+a. un droit fixe par ressortissant, dont le maximum fixé à 462 F (1) est révisable lors du vote de la loi de finances de l'année. Ce droit fait obligatoirement l'objet d'une majoration comprise entre 50 % et 80 % de ce maximum en vue de financer des actions de formation continue ;
 
 b. un droit additionnel à la taxe professionnelle, dont le produit est arrêté par les chambres de métiers sans pouvoir excéder 50 % [*pourcentage*] de celui du droit fixe, et sans que puisse être pris en compte pour son calcul la majoration prévue au a.
 
@@ -12,4 +12,4 @@ Toutefois, le régime applicable dans les départements du Bas-Rhin, du Haut-Rhi
 
 Les chefs d'entreprises individuelles titulaires de l'allocation supplémentaire du fonds national de solidarité prévue par la loi n° 56-639 du 30 juin 1956 sont dégrevés d'office de la taxe.
 
-(1) Le maximum de 444 F s'applique à compter de 1989.
+(1) A compter de 1990.

@@ -7,3 +7,4 @@
 - [Article 313 J](article-313-j.md)
 - [Article 313 K](article-313-k.md)
 - [Article 313 N](article-313-n.md)
+- [Article 313 O](article-313-o.md)
