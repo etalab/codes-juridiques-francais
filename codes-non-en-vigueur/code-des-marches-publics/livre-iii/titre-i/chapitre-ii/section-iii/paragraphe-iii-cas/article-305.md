@@ -9,3 +9,5 @@ Lorsque le concours ne porte que sur l'établissement d'un projet, le programme 
 Le programme du concours doit indiquer si, et dans quelles conditions, les hommes de l'art auteurs des projets seront appelés à coopérer à l'exécution de leur projet primé, sous réserve du respect de la réglementation en vigueur en matière d'honoraires d'architectes et hommes de l'art.
 
 Les primes, récompenses ou avantages sont alloués sur proposition du jury par décision de la collectivité ou de l'établissement contractant. Ils peuvent ne pas être accordés, en tout ou partie, si les projets reçus ne sont pas jugés satisfaisants.
+
+Pour les établissements d'hospitalisation publics et les hospices publics, cette décision est soumise à l'approbation du représentant de l'Etat.
