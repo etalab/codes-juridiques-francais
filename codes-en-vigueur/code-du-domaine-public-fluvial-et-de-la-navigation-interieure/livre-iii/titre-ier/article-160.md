@@ -1,6 +1,6 @@
 # Article 160
 
-Il est tenu, dans chaque bureau d'immatriculation français des bateaux de navigation intérieure, un répertoire des patrons bateliers. Les renseignements qui y sont contenus sont centralisés par l'office national de la navigation.
+Il est tenu, dans chaque bureau d'immatriculation français des bateaux de navigation intérieure, un répertoire des patrons bateliers. Les renseignements qui y sont contenus sont centralisés par les Voies navigables de France.
 
 Tout patron batelier doit être inscrit dans le répertoire des patrons bateliers du lieu d'immatriculation de son bateau. Si le patron batelier possède deux bateaux, ceux-ci doivent être obligatoirement immatriculés au même lieu. Toutefois, en ce qui concerne les bateaux immatriculés déjà au moment de la promulgation du présent statut, l'inscription sera faite au lieu d'immatriculation du bateau immatriculé en dernier lieu, sans obligation de mutation de l'immatriculation du premier.
 

@@ -2,7 +2,7 @@
 
 Les décrets de radiation sont pris après consultation :
 
-a) De l'office national de la navigation et des services civils, départements et chambres de commerce intéressés ;
+a) De Voies navigables de France et des services civils, départements et chambres de commerce intéressés ;
 
 b) Des organisations professionnelles de la batellerie.
 
