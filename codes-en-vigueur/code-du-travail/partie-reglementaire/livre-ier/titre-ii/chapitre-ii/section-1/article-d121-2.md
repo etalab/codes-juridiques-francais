@@ -2,26 +2,40 @@
 
 En application de l'article L. 122-3 (2°), les secteurs d'activité dans lesquels des contrats à durée déterminée peuvent être conclus pour les emplois pour lesquels il est d'usage constant de ne pas recourir au contrat à durée indéterminée en raison de la nature de l'activité exercée et du caractère par nature temporaire de ces emplois sont les suivants :
 
-- les exploitations forestières ;
+Les exploitations forestières ;
 
-- la manutention portuaire ;
+La réparation navale ;
 
-- la réparation navale ;
+Le déménagement ;
 
-- le déménagement ;
+L'hôtellerie et la restauration ;
 
-- l'hôtellerie et la restauration ;
+Les spectacles ;
 
-- les spectacles ;
+L'action culturelle ;
 
-- l'action culturelle ;
+L'audiovisuel ;
 
-- l'audiovisuel ;
+L'information ;
 
-- l'information ;
+La production cinématographique ;
 
-- la production cinématographique ;
+L'enseignement ;
 
-- l'enseignement ;
+Les activités d'enquête et de sondage ;
 
-- les activités d'enquête et de sondage.
+L'édition phonographique ;
+
+Les centres de loisirs et de vacances ;
+
+L'entreposage et le stockage de la viande ;
+
+Le sport professionnel ;
+
+Le bâtiment et les travaux publics pour les chantiers à
+
+l'étranger ;
+
+Les activités de coopération, d'assistance technique, d'ingénierie et de recherche à l'étranger ;
+
+La recherche scientifique réalisée par des chercheurs étrangers résidant temporairement en France.
