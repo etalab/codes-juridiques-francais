@@ -1,6 +1,7 @@
 # Chapitre Ier : Dispositions générales.
 
 - [Article 401](article-401.md)
+- [Article 402](article-402.md)
 - [Article 404](article-404.md)
 - [Article 406](article-406.md)
 - [Article 407](article-407.md)
