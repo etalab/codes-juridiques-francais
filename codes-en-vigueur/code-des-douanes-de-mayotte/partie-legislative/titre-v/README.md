@@ -6,3 +6,4 @@
 - [Chapitre IV : Entrepôt de douane (entrepôt industriel).](chapitre-iv)
 - [Chapitre V : Usines exercées par la douane.](chapitre-v)
 - [Chapitre VI : Admission temporaire.](chapitre-vi)
+- [Chapitre VII : Exportation temporaire.](chapitre-vii)

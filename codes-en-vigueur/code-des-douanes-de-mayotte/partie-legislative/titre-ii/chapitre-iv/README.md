@@ -5,3 +5,4 @@
 - [Section 3 : Droit de communication](section-3)
 - [Section 4 : Contrôle douanier des envois par la poste.](section-4)
 - [Section 5 : Présentation des passeports.](section-5)
+- [Section 6 : Livraisons surveillées.](section-6)
