@@ -4,9 +4,11 @@ L'allocation de logement prévue aux articles L. 831-1 et suivants est calculée
 
 Le loyer mensuel payé par les personnes résidant dans un ensemble doté de services collectifs est réputé égal à :
 
-788 F pour les jeunes travailleurs, les chômeurs et les personnes bénéficiaires du revenu minimum d'insertion ;
+400 F pour les étudiants lorsqu'ils sont logés en résidence universitaire ;
 
-957 F pour les personnes âgées d'au moins soixante-cinq ans ou d'au moins soixante ans en cas d'inaptitude au travail, ainsi que pour les personnes infirmes mentionnées au 3° de l'article L. 831-2.
+981 F pour les personnes âgées d'au moins soixante-cinq ans ou d'au moins soixante ans en cas d'inaptitude au travail, ainsi que pour les personnes infirmes mentionnées au 3° de l'article L. 831-2 ;
+
+808 F pour les personnes autres que celles mentionnées ci-dessus.
 
 Ces montants sont augmentés de la majoration forfaitaire prévue à l'article D. 542-21.
 

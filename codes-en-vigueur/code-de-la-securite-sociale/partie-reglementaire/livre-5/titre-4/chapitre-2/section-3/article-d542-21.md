@@ -5,3 +5,7 @@ Pour l'application des articles D. 542-5 et 542-20, le loyer principal effective
 Les plafonds mensuels de loyer et la majoration forfaitaire représentative des charges varient en fonction de la taille de la famille. Les plafonds de loyers varient en outre en fonction du lieu d'implantation du logement compte tenu de zones géographiques définies par arrêté.
 
 Les montants mensuels des plafonds de loyers et de la majoration forfaitaire représentative des charges sont fixés par arrêté du ministre chargé de la sécurité sociale, du ministre chargé du budget, du ministre chargé de l'agriculture et du ministre chargé du logement.
+
+Le loyer mensuel payé par les étudiants logés en résidence universitaire est réputé égal à 400 F [*montant*].
+
+Ce montant est augmenté de la majoration forfaitaire représentative des charges.
