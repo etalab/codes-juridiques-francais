@@ -2,3 +2,5 @@
 
 - [Article R5052](article-r5052.md)
 - [Article R5052-1](article-r5052-1.md)
+- [Article R5052-2](article-r5052-2.md)
+- [Article R5052-3](article-r5052-3.md)
