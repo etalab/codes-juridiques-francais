@@ -1,6 +1,7 @@
 # Chapitre IV : Dispositions communes.
 
 - [Article 1009](article-1009.md)
+- [Article 1009-1](article-1009-1.md)
 - [Article 1010](article-1010.md)
 - [Article 1011](article-1011.md)
 - [Article 1012](article-1012.md)

@@ -1,6 +1,7 @@
 # Sous-titre Ier : Dispositions communes.
 
 - [Article 528](article-528.md)
+- [Article 528-1](article-528-1.md)
 - [Article 529](article-529.md)
 - [Article 530](article-530.md)
 - [Article 531](article-531.md)
