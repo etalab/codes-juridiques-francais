@@ -6,4 +6,4 @@ En matière criminelle, la Cour de cassation prononce le renvoi du procès, savo
 
 - devant une cour d'assises autre que celle qui a rendu l'arrêt, si l'arrêt est annulé pour cause de nullité commise à la cour d'assises ;
 
-- devant un tribunal civil autre que celui où s'est faite l'instruction, si l'arrêt est annulé seulement du chef des intérêts civils.
+- devant une cour d'appel autre que celle dans le ressort de laquelle siège la cour d'assises qui a rendu l'arrêt, si l'arrêt est annulé seulement du chef des intérêts civils.
