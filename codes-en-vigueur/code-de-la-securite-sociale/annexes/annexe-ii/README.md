@@ -8,6 +8,7 @@
 - [Article Annexe II tableau 11](article-annexe-ii-tableau-11.md)
 - [Article Annexe II tableau 12](article-annexe-ii-tableau-12.md)
 - [Article Annexe II tableau 13](article-annexe-ii-tableau-13.md)
+- [Article Annexe II tableau 19](article-annexe-ii-tableau-19.md)
 - [Article Annexe II tableau 25](article-annexe-ii-tableau-25.md)
 - [Article Annexe II tableau 30](article-annexe-ii-tableau-30.md)
 - [Article Annexe II tableau 31](article-annexe-ii-tableau-31.md)
