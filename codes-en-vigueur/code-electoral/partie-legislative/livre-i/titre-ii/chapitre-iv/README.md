@@ -1,6 +1,5 @@
 # Chapitre IV : Incompatibilités
 
-- [Article L141](article-l141.md)
 - [Article LO137](article-lo137.md)
 - [Article LO138](article-lo138.md)
 - [Article LO139](article-lo139.md)
