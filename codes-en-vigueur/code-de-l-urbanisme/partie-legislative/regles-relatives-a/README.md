@@ -3,7 +3,6 @@
 - [Dispositions relatives aux modes particuliers d'utilisation du sol.](dispositions-relatives-aux)
 - [Certificat d'urbanisme](certificat-d-urbanisme)
 - [Contrôle](controle)
-- [Déclaration préalable de travaux](declaration-prealable-de-travaux)
 - [Infractions.](infractions)
 - [Permis de construire](permis-de-construire)
 - [Permis de démolir.](permis-de-demolir)
