@@ -1,6 +1,5 @@
 # Chapitre VI : L'équarrissage.
 
-- [Section 2 : Dispositions relatives à l'indemnisation judiciaire des dégâts causés aux récoltes.](section-2)
 - [Article L226-1](article-l226-1.md)
 - [Article L226-2](article-l226-2.md)
 - [Article L226-3](article-l226-3.md)

@@ -1,7 +1,5 @@
 # Sous-section 1 : La rage.
 
-- [Article L223-7](article-l223-7.md)
-- [Article L223-8](article-l223-8.md)
 - [Article L223-9](article-l223-9.md)
 - [Article L223-10](article-l223-10.md)
 - [Article L223-11](article-l223-11.md)

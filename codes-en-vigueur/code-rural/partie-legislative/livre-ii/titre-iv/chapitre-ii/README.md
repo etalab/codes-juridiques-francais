@@ -1,6 +1,5 @@
 # Chapitre II : L'ordre des vétérinaires.
 
-- [Section 1 : Réserves naturelles établies par décret](section-1)
 - [Article L242-1](article-l242-1.md)
 - [Article L242-2](article-l242-2.md)
 - [Article L242-3](article-l242-3.md)
