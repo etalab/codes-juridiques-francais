@@ -6,7 +6,7 @@ En cas de vente à un professionnel n'agissant qu'en tant qu'intermédiaire, la 
 
 Lors de la revente du véhicule, le dernier négociant propriétaire du véhicule doit remettre à l'acquéreur le certificat d'immatriculation sur lequel il aura porté la mention Revendu le .... à M ...., accompagné de la déclaration d'achat en sa possession.
 
-Dans chacun des cas définis aux alinéas précédents, la remise de la carte grise doit être accompagnée du certificat de non-opposition au transfert du certificat d'immatriculation.
+Dans chacun des cas définis aux alinéas précédents, la remise de la carte grise doit être accompagnée du certificat de non-opposition au transfert du certificat d'immatriculation et de l'attestation d'inscription ou de non-inscription de gage établis depuis moins d'un mois par le préfet qui a délivré la précédente carte grise ou par le préfet compétent pour délivrer la nouvelle, ou par voie électronique lorsque la demande est présentée par l'intermédiaire du site internet du ministère de l'intérieur.
 
 Le ministre chargé des transports définit par arrêté pris après avis du ministre de l'intérieur les conditions d'application du présent article, notamment en ce qui concerne les véhicules tombés dans une succession, vendus aux enchères publiques ou à la suite d'une décision judiciaire, et les véhicules de location.
 
