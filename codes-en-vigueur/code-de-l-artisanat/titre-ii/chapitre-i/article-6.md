@@ -5,3 +5,5 @@ Les chambres de métiers sont instituées par décrets pris sur le rapport du mi
 Elles sont des établissements publics.
 
 Il peut être créé une ou plusieurs chambres de métiers par département. Une chambre de métiers peut se diviser en autant de sections qu'elle le juge utile.
+
+Le transfert du siège d'une chambre de métiers est autorisé par arrêté du ministre chargé de l'artisanat.
