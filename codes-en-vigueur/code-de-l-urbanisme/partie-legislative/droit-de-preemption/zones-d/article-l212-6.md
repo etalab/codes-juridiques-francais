@@ -1,3 +1,0 @@
-# Article L212-6
-
-Lorsqu'un terrain compris dans la zone d'aménagement différé fait ultérieurement l'objet d'une expropriation pour cause d'utilité publique /A/ou lorsqu'il est incorporé à une zone à urbaniser en priorité se substituant à tout ou partie d'une zone d'aménagement différé/A/LOI  1328 ART. 28// la date de référence [*estimation du prix*] prévue au II de l'article 21 de l'ordonnance n. 58-997 du 23 octobre 1958 modifiée est non un an avant l'ouverture de l'enquête préalable /A/ou avant la publication de l'arrêté ou du décret instituant la zone à urbaniser en priorité/A/LOI  1328 ART. 28// mais un an avant la publication de la décision administrative instituant la zone d'aménagement différé, sous réserve de ce qui est dit à l'article L. 213-1.
