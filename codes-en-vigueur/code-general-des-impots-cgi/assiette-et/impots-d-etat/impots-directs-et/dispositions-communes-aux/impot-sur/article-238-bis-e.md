@@ -1,0 +1,13 @@
+# Article 238 bis E
+
+I Jusqu'au 31 décembre 1980, les bénéfices industriels et commerciaux et les bénéfices agricoles réalisés dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion par des entreprises soumises au régime de l'imposition d'après le bénéfice réel pourront être affranchis de l'impôt sur le revenu ou de l'impôt sur les sociétés, selon le cas, dans la mesure où ces entreprises prendront l'engagement de les investir dans des exploitations dont la création ou l'extension seront considérées comme essentielles pour assurer, dans le cadre des directives gouvernementales, le développement économique et social desdits départements ou dans la construction de maisons d'habitation.
+
+L'exonération prévue à l'alinéa précédent est subordonnée à la condition que les investissements projetés aient été préalablement agréés par le ministre de l'économie et des finances après avis des commissions prévues aux articles 121 V bis à 121 V decies de l'annexe IV au code général des impôts. Sauf autorisation accordée par le ministre de l'économie et des finances, elle ne peut excéder la somme de 200.000 F par emploi créé lorsque l'investissement agréé porte sur des équipements d'exploitation. Le produit de l'exonération est soumis au régime fiscal défini à l'article 42 septies.
+
+L'exonération ne sera définitivement acquise que si les investissements sont effectués dans un délai de deux ans à partir de la clôture de l'exercice au cours duquel les bénéfices auront été réalisés.
+
+Lorsque l'autorité compétente prévue au deuxième alinéa, saisie d'un programme d'investissement échelonné sur plusieurs exercices, juge opportun de hâter l'exécution du programme agréé, elle peut autoriser l'entreprise requérante à réaliser les différentes tranches de travaux sans interruption et lors même que ne seraient pas encore connus les résultats des exercices postérieurs au premier exercice dont les bénéfices doivent servir au financement des investissements, sauf à imputer, le moment venu, la fraction desdits investissements non couverts par les bénéfices de ce premier exercice sur les bénéfices des exercices consécutifs dans la limite du délai stipulé au premier alinéa. Dans la mesure de cette imputation, les bénéfices dont il s'agit profitent de l'exonération visée au même alinéa.
+
+II Un décret en Conseil d'Etat (1) fixe les conditions et limites dans lesquelles les dispositions du I seront étendues aux revenus de toute nature qui sont assujettis à l'impôt sur le revenu dans les départements de la Guadeloupe, de la Guyane, de la Martinique ou de la Réunion.
+
+1) Annexe II, art. 164.

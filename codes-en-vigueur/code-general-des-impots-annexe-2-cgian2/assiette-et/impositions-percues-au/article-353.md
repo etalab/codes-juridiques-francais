@@ -1,0 +1,5 @@
+# Article 353
+
+Sont soumises à la taxe prévue à l'article 352 les ventes réalisées par les fabricants et les transformateurs, les opérations de façon et les importations portant sur les matières premières textiles désignées à l'article 2 du décret n° 63-1075 du 25 octobre 1963, sur les matières obtenues par découpage de films extrudés en vue d'un emploi textile et sur les articles textiles, à l'exception des articles de confection sur lesquels est perçue une cotisation au profit du centre d'études techniques des industries de l'habillement, contenant, par rapport à leur poids total, plus de 50 % de telles matières premières ou matières.
+
+Sont également soumises à ladite taxe les livraisons des matières premières textiles, matières et articles visés ci-dessus que les entreprises se font à elles-mêmes pour être utilisés dans la fabrication de produits ou articles non imposables à cette taxe et contenant, par rapport à leur poids total, plus de 25 % de ces matières premières, matières ou articles.

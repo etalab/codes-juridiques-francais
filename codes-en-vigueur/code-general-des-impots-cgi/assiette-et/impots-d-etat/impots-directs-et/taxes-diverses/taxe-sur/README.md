@@ -1,3 +1,16 @@
-# TAXE SUR LES SALAIRES.
+# TAXE SUR LES ENCOURS DE CREDITS.
 
 - [Article 231](article-231.md)
+- [Article 231 bis C](article-231-bis-c.md)
+- [Article 231 bis D](article-231-bis-d.md)
+- [Article 231 bis DA](article-231-bis-da.md)
+- [Article 231 bis E](article-231-bis-e.md)
+- [Article 231 bis F](article-231-bis-f.md)
+- [Article 231 bis G](article-231-bis-g.md)
+- [Article 231 bis H](article-231-bis-h.md)
+- [Article 235 ter N](article-235-ter-n.md)
+- [Article 235 ter O](article-235-ter-o.md)
+- [Article 235 ter P](article-235-ter-p.md)
+- [Article 235 ter Q](article-235-ter-q.md)
+- [Article 235 ter R](article-235-ter-r.md)
+- [Article 235 ter S](article-235-ter-s.md)

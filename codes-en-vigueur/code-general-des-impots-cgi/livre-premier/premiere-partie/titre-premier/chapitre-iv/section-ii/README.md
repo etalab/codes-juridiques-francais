@@ -1,0 +1,17 @@
+# Section II : Impôt sur le revenu et impôt sur les sociétés
+
+- [I : Bénéfices et revenus imposables](i)
+- [I bis : Réévaluation des immobilisations non amortissables](i-bis)
+- [I ter : Réévaluation des immobilisations amortissables](i-ter)
+- [II : Régime fiscal des groupements forestiers et de leurs membres](ii)
+- [VII : Plus-values réalisées par les entreprises à l'occasion de la construction et de la vente d'immeubles affectés principalement à l'habitation](vii)
+- [VIII : Imposition des plus-values dégagées à l'occasion de l'aliénation de terrains à bâtir](viii)
+- [XIII : Régime fiscal des sociétés civiles ayant pour objet la construction d'immeubles en vue de la vente](xiii)
+- [XV : Régime fiscal des syndicats mixtes de gestion forestière et des groupements syndicaux forestiers](xv)
+- [XVII : Sociétés civiles autorisées à faire publiquement appel à l'épargne.](xvii)
+- [XVII bis : Personnes morales passibles de l'impôt sur les sociétés ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble.](xvii-bis)
+- [XX : Attribution de l'avoir fiscal aux non-résidents](xx)
+- [XXI : Mesures de publicité](xxi)
+- [XXIII bis : Imposition des plus-values réalisées par les personnes physiques ou sociétés qui ne sont pas fiscalement domiciliées en France](xxiii-bis)
+- [XXIV : Sociétés civiles visées à l'article 20 de la loi n° 64-1247 du 16 décembre 1964 instituant le bail à construction et relative aux opérations d'urbanisation.](xxiv)
+- [XXVI : Prélèvements sur les plus-values prévues à l'article 244 bis.](xxvi)

@@ -1,0 +1,17 @@
+# IMPOTS DIRECTS ET TAXES ASSIMILEES.
+
+- [Article 1658](article-1658.md)
+- [Article 1659](article-1659.md)
+- [Article 1661](article-1661.md)
+- [Article 1662](article-1662.md)
+- [Article 1663](article-1663.md)
+- [Article 1678 quater](article-1678-quater.md)
+- [Article 1679 bis B](article-1679-bis-b.md)
+- [Article 1679 ter](article-1679-ter.md)
+- [Article 1679 quater A](article-1679-quater-a.md)
+- [Article 1679 quater B](article-1679-quater-b.md)
+- [Article 1679 quinquies](article-1679-quinquies.md)
+- [Article 1681 C](article-1681-c.md)
+- [Article 1681 D](article-1681-d.md)
+- [Article 1681 B](article-1681-b.md)
+- [Article 1685](article-1685.md)

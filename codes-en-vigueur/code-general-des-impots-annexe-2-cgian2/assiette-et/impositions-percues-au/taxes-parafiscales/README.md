@@ -1,0 +1,17 @@
+# TAXES PARAFISCALES.
+
+- [Article 339](article-339.md)
+- [Article 340](article-340.md)
+- [Article 341](article-341.md)
+- [Article 342](article-342.md)
+- [Article 345](article-345.md)
+- [Article 346](article-346.md)
+- [Article 347](article-347.md)
+- [Article 350](article-350.md)
+- [Article 363 D](article-363-d.md)
+- [Article 363 A](article-363-a.md)
+- [Article 364](article-364.md)
+- [Article 365](article-365.md)
+- [Article 366](article-366.md)
+- [Article 367](article-367.md)
+- [Article 368](article-368.md)

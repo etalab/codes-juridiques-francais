@@ -1,0 +1,3 @@
+# TAXE SUR LES PRODUITS DES EXPLOITATIONS FORESTIERES.
+
+- [Article 157 bis](article-157-bis.md)

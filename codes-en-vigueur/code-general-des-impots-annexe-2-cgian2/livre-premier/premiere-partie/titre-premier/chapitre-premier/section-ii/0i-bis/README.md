@@ -1,0 +1,14 @@
+# 0I bis : Détaxation du revenu investi en actions.
+
+- [Article 75-0 I](article-75-0-i.md)
+- [Article 75-0 L](article-75-0-l.md)
+- [Article 75-0 M](article-75-0-m.md)
+- [Article 75-0 F](article-75-0-f.md)
+- [Article 75-0 G](article-75-0-g.md)
+- [Article 75-0 K](article-75-0-k.md)
+- [Article 75-0 Q](article-75-0-q.md)
+- [Article 75-0 R](article-75-0-r.md)
+- [Article 75-0 S](article-75-0-s.md)
+- [Article 75-0 U](article-75-0-u.md)
+- [Article 75-0 W](article-75-0-w.md)
+- [*ACTIONS COTEES OU ASSIMILEES DE SOCIETES FRANCAISES, CERTIFICATS PETROLIERS COTES, DROITS OU BONS DE SOUSCRIPTION OU D'ATTRIBUTION ATTACHES A CES TITRES, ACTIONS DE SICAV, PARTS DE FONDS COMMUNS DE PLACEMENT, SOUSCRIPTION AUX OPERATIONS DE CONSTITUTION OU D'AUGMENTATION DE CAPITAL EN NUMERAIRE REALISEES PAR DES SOCIETES PAR ACTIONS OU DES SARL*](actions-cotees-ou)

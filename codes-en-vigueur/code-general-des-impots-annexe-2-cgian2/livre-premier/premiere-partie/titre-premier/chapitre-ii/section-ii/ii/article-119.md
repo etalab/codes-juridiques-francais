@@ -1,0 +1,3 @@
+# Article 119
+
+Lorsqu'une société française imposée sous l'un des régimes définis aux articles 104 à 123 est elle-même contrôlée par une société agréée, le résultat de la société contrôlée à prendre en considération pour la détermination du résultat consolidé de l'autre société est la fraction, définie à l'article 116-1-c, de son résultat d'ensemble tel qu'il résulte de l'application des articles 104 à 112 ou de son résultat consolidé tel qu'il résulte de l'application des articles 113 à 123. La fraction correspondante de l'impôt sur les sociétés établi au nom de la société contrôlée peut être imputée sur l'impôt sur les sociétés dû par l'autre société. A défaut d'imputation, cette fraction peut être restituée dans la mesure où elle correspond à un impôt payé en France.

@@ -1,0 +1,3 @@
+# ASSOCIATIONS AGREEES DES PROFESSIONS LIBERALES.
+
+- [Article 1649 quater G](article-1649-quater-g.md)

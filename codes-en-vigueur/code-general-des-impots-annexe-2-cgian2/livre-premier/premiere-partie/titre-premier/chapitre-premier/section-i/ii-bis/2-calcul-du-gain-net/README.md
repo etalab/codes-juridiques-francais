@@ -1,0 +1,3 @@
+# 2° Calcul du gain net imposable
+
+- [*GAINS NETS EN CAPITAL REALISES A L'OCCASION DE LA CESSION A TITRE ONEREUX DE VALEURS MOBILIERES OU DE DROITS SOCIAUX - PLUS-VALUES*](gains-nets-en-capital-realises-a)

@@ -1,0 +1,3 @@
+# Article 396 ter
+
+Lorsqu'une opération de fusion ou de scission devenue définitive après le 30 décembre 1976 et avant la date d'entrée en vigueur du décret n° 77-550 du 1er juin 1977 a donné ouverture à la perception du droit d'apport de 1,20 % prévu à l'article 816 du code général des impôts, la société bénéficiaire des apports est autorisée à demander dans le délai de réclamation le remboursement des sommes perçues au titre dudit droit dont elle n'aurait pas supporté la charge, si la ou les sociétés apporteuses de biens non amortissables avaient procédé à la réévaluation et à l'incorporation au capital en franchise d'impôt prévues par l'article 238 bis I du code précité.

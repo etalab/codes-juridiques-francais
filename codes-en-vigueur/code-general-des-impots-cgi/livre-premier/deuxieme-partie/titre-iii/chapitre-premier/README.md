@@ -1,0 +1,7 @@
+# Chapitre premier : Impôts directs et taxes assimilées
+
+- [Section I : Taxe pour frais de chambres de commerce et d'industrie](section-i)
+- [Section III : Taxe perçue au profit du budget annexe des prestations sociales agricoles](section-iii)
+- [Section IV : Taxe pour frais de chambres d'agriculture](section-iv)
+- [Section XIII : Impositions perçues par les organismes chargés de la création d'une agglomération nouvelle](section-xiii)
+- [Section XIII bis : Dispositions applicables à l'ensemble des groupements de communes](section-xiii-bis)

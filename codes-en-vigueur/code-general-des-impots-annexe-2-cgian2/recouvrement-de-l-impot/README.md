@@ -1,0 +1,18 @@
+# RECOUVREMENT DE L'IMPOT
+
+- [Article 397](article-397.md)
+- [Article 398](article-398.md)
+- [Article 399](article-399.md)
+- [Article 401](article-401.md)
+- [Article 402](article-402.md)
+- [Article 403](article-403.md)
+- [Article 404](article-404.md)
+- [Article 405](article-405.md)
+- [Article 406](article-406.md)
+- [COMPETENCE DES FONCTIONNAIRES DE LA DIRECTION GENERALE DES IMPOTS.](competence-des-fonctionnaires-de-la-direction-generale-des-impots)
+- [DROIT DE COMMUNICATION.](droit-de-communication)
+- [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS](degrevements-et)
+- [SURETES ET PRIVILEGES.](suretes-et)
+- [PAIEMENT DE L'IMPOT](paiement-de-l-impot)
+- [PENALITES](penalites)
+- [PROCEDURES.](procedures)

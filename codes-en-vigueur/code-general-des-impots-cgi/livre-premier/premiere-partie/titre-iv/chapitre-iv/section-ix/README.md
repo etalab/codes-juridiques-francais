@@ -1,0 +1,15 @@
+# Section IX : Dispositions diverses
+
+- [10° : Patrimoine artistique national](10)
+- [12° : Réunion de l'usufruit à la nue-propriété](12)
+- [2° : Actes de dépôt](2)
+- [3° : Actes de l'état civil](3)
+- [4° : Actes, archives, registres et documents détruits par suite d'événements de guerre, de sinistre ou de tout autre fait](4)
+- [5° : Attribution gratuite d'actions ou de parts sociales au personnel des entreprises](5)
+- [6° : Certificats de vie](6)
+- [7° : Contrat d'apprentissage](7)
+- [8° : Contrat et certificat de travail](8)
+- [9° : Mariages. Dissentiment des parents](9)
+- [Publicité foncière - Réforme - Dispositions transitoires](publicite-fonciere)
+- [Achats en vue de la revente](achats-en-vue)
+- [Warrants](warrants)

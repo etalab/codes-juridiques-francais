@@ -1,0 +1,3 @@
+# Article 163
+
+Un compte spécial est tenu dans les conditions suivantes : en reprise, figurent les restes reconnus au recensement final de l'année précédente dans les alambics et vaisseaux à l'état de produits non achevés. Successivement, sont inscrites les déclarations de fabrication et les quantités d'alcool y énoncées. Lors des recensements on déduit du total les restes en produits non achevés reconnus dans les alambics et vaisseaux déclarés. La différence, en alcool pur, représente la quantité sur laquelle doit être calculée l'allocation supplémentaire dans le cas de manquants non couverts par les déductions normales.

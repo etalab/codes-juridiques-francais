@@ -1,0 +1,3 @@
+# Article 104
+
+Lorsqu'elles sont agréées à cet effet par le ministre de l'économie et des finances, les sociétés et autres personnes morales françaises passibles de l'impôt sur les sociétés sont autorisées à retenir pour l'assiette des impôts établis sur la réalisation et la distribution de leurs bénéfices, en plus des résultats visés à l'article 209-I du code général des impôts, les résultats de l'ensemble de leurs exploitations directes qui sont situées hors de la France métropolitaine et des départements d'outre-mer et qui existent à la date de l'agrément ou qui sont créées ou acquises ultérieurement.

@@ -1,0 +1,3 @@
+# TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES.
+
+- [Article 384 C](article-384-c.md)

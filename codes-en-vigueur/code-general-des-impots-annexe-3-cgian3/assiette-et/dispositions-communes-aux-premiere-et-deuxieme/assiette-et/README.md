@@ -1,0 +1,3 @@
+# ASSIETTE ET CONTROLE DE L'IMPOT
+
+- [PROCEDURE DE REGLEMENT SIMPLIFIE.](procedure-de-reglement-simplifie)

@@ -1,0 +1,3 @@
+# PROCEDURE DE REGLEMENT SIMPLIFIE.
+
+- [Article 344 J](article-344-j.md)

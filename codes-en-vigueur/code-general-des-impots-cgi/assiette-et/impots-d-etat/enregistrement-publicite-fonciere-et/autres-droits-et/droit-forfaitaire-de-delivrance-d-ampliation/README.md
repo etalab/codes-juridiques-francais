@@ -1,0 +1,3 @@
+# DROIT FORFAITAIRE DE DELIVRANCE D'AMPLIATION.
+
+- [Article 1018 B](article-1018-b.md)

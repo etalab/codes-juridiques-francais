@@ -1,0 +1,4 @@
+# Section II : Taxe sur les salaires
+
+- [Article 231 bis I](article-231-bis-i.md)
+- [Article 231 bis J](article-231-bis-j.md)

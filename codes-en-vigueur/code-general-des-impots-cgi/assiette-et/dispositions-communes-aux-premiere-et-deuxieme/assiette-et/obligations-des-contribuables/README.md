@@ -1,0 +1,10 @@
+# OBLIGATIONS DES CONTRIBUABLES.
+
+- [Article 1649 bis A](article-1649-bis-a.md)
+- [Article 1649 ter](article-1649-ter.md)
+- [Article 1649 ter C](article-1649-ter-c.md)
+- [Article 1649 ter D](article-1649-ter-d.md)
+- [Article 1649 ter A](article-1649-ter-a.md)
+- [Article 1649 ter B](article-1649-ter-b.md)
+- [Article 1649 ter E](article-1649-ter-e.md)
+- [Article 1649 quater](article-1649-quater.md)

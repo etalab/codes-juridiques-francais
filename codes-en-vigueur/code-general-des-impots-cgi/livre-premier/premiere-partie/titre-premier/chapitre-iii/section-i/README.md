@@ -1,0 +1,8 @@
+# Section I : Taxe d'apprentissage
+
+- [Article 226](article-226.md)
+- [Article 226 bis](article-226-bis.md)
+- [Article 228](article-228.md)
+- [Article 229](article-229.md)
+- [Article 230 C](article-230-c.md)
+- [Article 230 D](article-230-d.md)

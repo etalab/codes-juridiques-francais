@@ -1,0 +1,3 @@
+# MODALITES DE L'ESSAI DES METAUX PRECIEUX.
+
+- [Article 529](article-529.md)
