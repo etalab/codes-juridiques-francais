@@ -4,7 +4,7 @@ Pour pouvoir faire l'objet d'une décision favorable, les demandeurs de prêts a
 
 a) Ni transformés en locaux commerciaux ou professionnels ;
 
-b) Ni affectés à la location saisonnière ou en meublé ;
+b) Ni affectés à la location en meublé, à l'exception des       logements-foyers tels que définis à l'article R. 351-55,       ni affectés à la location saisonnière;
 
 c) Ni utilisés comme résidence secondaire ;
 
