@@ -1,3 +1,4 @@
-# Paragraphe 1er : Enseignement scolaire
+# Paragraphe 1er : Enseignement
 
 - [Article D452](article-d452.md)
+- [Article D454](article-d454.md)
