@@ -12,7 +12,7 @@ d) Le vice-président du conseil général des ponts et chaussées ou son repré
 
 e) Le directeur de la sécurité et de la circulation routières ou son représentant ;
 
-f) Le directeur du Trésor ou son représentant ;
+f) Le directeur général de l'Agence des participations de l'Etat ou son représentant ;
 
 g) Le directeur de la prévision ou son représentant ;
 
