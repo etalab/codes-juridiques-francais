@@ -12,4 +12,4 @@ Le Conseil d'Etat est compétent en premier et dernier ressort pour connaître d
 
 5° Les élections à l'assemblée territoriale de Wallis-et-Futuna, conformément à l'article 13-12 de la loi n° 61-814 du 29 juillet 1961 conférant aux îles Wallis et Futuna le statut de territoire d'outre-mer ;
 
-6° Les élections au Conseil supérieur des Français de l'étranger, conformément à l'article 9 de la loi n° 82-471 du 7 juin 1982 relative au Conseil supérieur des Français de l'étranger.
+6° Les élections à l'Assemblée des Français de l'étranger, conformément à l'article 9 de la loi n° 82-471 du 7 juin 1982 relative à l'Assemblée des Français de l'étranger.

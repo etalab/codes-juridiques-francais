@@ -2,3 +2,4 @@
 
 - [Article L1522-4](article-l1522-4.md)
 - [Article L1522-5](article-l1522-5.md)
+- [Article L1522-6](article-l1522-6.md)

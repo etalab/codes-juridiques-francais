@@ -16,7 +16,7 @@ Sont exonérés de la taxe sur la valeur ajoutée :
 
 2° (Abrogé) ;
 
-3° les prestations réalisées dans le cadre de l'entraide entre agriculteurs définie par les articles L325-1 à L325-3 du code rural. Cette exonération pourra être étendue par décret en Conseil d'Etat aux départements d'outre-mer (1) ;
+3° les prestations réalisées dans le cadre de l'entraide entre agriculteurs définie par les articles L325-1 à L325-3 du code rural. Cette exonération pourra être étendue par décret en Conseil d'Etat aux départements d'outre-mer ;
 
 4° les opérations effectuées par les pêcheurs et armateurs à la pêche, à l'exception des pêcheurs en eau douce, en ce qui concerne la vente des produits de leur pêche (poissons, crustacés, coquillages frais ou conservés à l'état frais par un procédé frigorifique) ;
 
@@ -84,9 +84,9 @@ b. les opérations de vente de terrains leur appartenant effectuées sans but lu
 
 c. (Devenu sans objet) ;
 
-d. Les opérations immobilières résultant de l'application des dispositions des articles L141-1 à L141-5 du code rural, réalisées par les sociétés d'aménagement foncier et d'établissement rural constituées en application de l'article L141-1 du même code et agréées par le ministre de l'agriculture et le ministre du budget (2).
+d. Les opérations immobilières résultant de l'application des dispositions des articles L141-1 à L141-5 du code rural, réalisées par les sociétés d'aménagement foncier et d'établissement rural constituées en application de l'article L141-1 du même code et agréées par le ministre de l'agriculture et le ministre du budget.
 
-Ces dispositions ne s'appliquent pas aux cessions d'immeubles acquis postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990 (3).
+Ces dispositions ne s'appliquent pas aux cessions d'immeubles acquis postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990.
 
 d bis. toutes les cessions effectuées par les sociétés d'aménagement foncier et d'établissement rural au titre de l'article L. 141-1 du code rural, dont la destination répond aux dispositions dudit article et qui sont assorties d'un engagement de l'acquéreur pris pour lui et ses ayants cause de conserver cette destination pendant un délai de dix ans à compter du transfert de propriété.
 
@@ -113,6 +113,8 @@ Ces dispositions s'appliquent aux offices publics d'aménagement et de construct
 7° les mutations résultant des contrats de location-attribution ou de location-vente visés à l'article 1378 quinquies ainsi que les livraisons que les sociétés se font à elles-mêmes des immeubles qui sont l'objet de ces contrats ;
 
 8° les livraisons à soi-même d'immeubles construits par les sociétés civiles immobilières constituées par les organismes régis par la réglementation sur les habitations à loyer modéré en vue de favoriser l'accession à la propriété.
+
+9° Lorsqu'elles entrent dans le champ d'application du 7° de l'article 257, les ventes à leurs occupants, dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière, de logements ayant fait l'objet de la livraison à soi-même prévue au cinquième alinéa du c du 1 du 7° de l'article 257 (1).
 
 6. (Abrogé).
 
@@ -164,7 +166,7 @@ l'organisme ne doit procéder à aucune distribution directe ou indirecte de bé
 
 les membres de l'organisme et leurs ayants droit ne doivent pas pouvoir être déclarés attributaires d'une part quelconque de l'actif, sous réserve du droit de reprise des apports.
 
-Tous les organismes concernés par les a, b et c sont placés sous le régime du chiffre d'affaires réel ; un décret en Conseil d'Etat détermine leurs obligations ainsi que l'étendue et les modalités d'exercice de leurs droits à déduction (4) ;
+Tous les organismes concernés par les a, b et c sont placés sous le régime du chiffre d'affaires réel ; un décret en Conseil d'Etat détermine leurs obligations ainsi que l'étendue et les modalités d'exercice de leurs droits à déduction ;
 
 1° bis les opérations effectuées par les associations intermédiaires conventionnées, visées à l'article L. 322-4-16-3 du code du travail, dont la gestion est désintéressée dans les conditions prévues au 1° ;
 
@@ -172,8 +174,10 @@ Tous les organismes concernés par les a, b et c sont placés sous le régime du
 
 2° (Abrogé) ;
 
-3° les ventes portant sur les articles fabriqués par des groupements d'aveugles ou de travailleurs handicapés, agréés dans les conditions prévues par la loi n° 72-616 du 5 juillet 1972, ainsi que les réparations effectuées par ces groupements. Ils peuvent toutefois, sur leur demande, renoncer à l'exonération dans les conditions et selon les modalités prévues par décret en Conseil d'Etat (5) ;
+3° les ventes portant sur les articles fabriqués par des groupements d'aveugles ou de travailleurs handicapés, agréés dans les conditions prévues par la loi n° 72-616 du 5 juillet 1972, ainsi que les réparations effectuées par ces groupements. Ils peuvent toutefois, sur leur demande, renoncer à l'exonération dans les conditions et selon les modalités prévues par décret en Conseil d'Etat ;
 
 4° (Abrogé) ;
 
 8. et 9. (Abrogés).
+
+(1) Ces dispositions s'appliquent aux opérations qui ont bénéficié d'une décision d'agrément délivrée postérieurement au 26 mars 2004.

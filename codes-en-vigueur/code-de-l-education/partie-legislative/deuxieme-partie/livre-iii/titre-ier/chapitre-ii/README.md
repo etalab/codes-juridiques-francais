@@ -9,3 +9,4 @@
 - [Section 7 : L'enseignement des problèmes démographiques.](section-7)
 - [Section 8 : L'enseignement d'éducation civique.](section-8)
 - [Section 9 : L'éducation à la santé et à la sexualité](section-9)
+- [Section 10 : Prévention et information sur les toxicomanies.](section-10)
