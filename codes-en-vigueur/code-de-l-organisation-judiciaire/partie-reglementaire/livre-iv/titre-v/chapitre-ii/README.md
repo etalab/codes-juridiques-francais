@@ -1,4 +1,4 @@
-# Chapitre II : Les commissions techniques de sécurité sociale
+# Chapitre II : Le contentieux technique
 
-- [Section I : Les commissions régionales](section-i)
-- [Section II : La commission nationale technique](section-ii)
+- [Section I : Les tribunaux du contentieux de l'incapacité](section-i)
+- [Section II : La Cour nationale de l'incapacité et de la tarification de l'assurance des accidents du travail](section-ii)
