@@ -1,7 +1,6 @@
 # I : Revenu imposable.
 
 - [Article 156](article-156.md)
-- [Article 157](article-157.md)
 - [Article 158](article-158.md)
 - [Article 163 bis C](article-163-bis-c.md)
 - [Article 163 quinquies C](article-163-quinquies-c.md)

@@ -2,6 +2,5 @@
 
 - [1 : Produits des actions et parts sociales - Revenus assimilés](1)
 - [2 bis : Retenue à la source de l'impôt sur le revenu.](2-bis)
-- [4 bis : Prélèvement sur les produits des bons ou contrats de capitalisation.](4-bis)
 - [4 ter : Prélèvement sur les produits de placement à revenu fixe.](4-ter)
 - [5 : Exonérations et régimes spéciaux](5)
