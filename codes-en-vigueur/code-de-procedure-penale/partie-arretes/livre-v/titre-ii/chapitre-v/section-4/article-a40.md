@@ -8,7 +8,7 @@ Le Président de la République ;
 
 Les membres du Gouvernement (Premier ministre, ministres et secrétaires d'Etat), en particulier le garde des sceaux, ministre de la justice ;
 
-Le Médiateur ;
+le Médiateur de la République et ses délégués départementaux ;
 
 Le directeur du cabinet du ministre de la justice, l'inspecteur général des services judiciaires, le chef de l'inspection des services pénitentiaires, les directeurs du ministère de la justice et les magistrats et fonctionnaires de ces directions ;
 
@@ -80,12 +80,6 @@ IV. - Doivent être assimilés aux autorités françaises :
 
 Les députés au Parlement européen ;
 
-Le président de la Commission européenne des droits de l'homme de Strasbourg ;
-
-Le secrétariat de la Commission européenne des droits de l'homme ;
-
-Tous membres de la Commission européenne des droits de l'homme ;
-
 Le président de la Cour européenne des droits de l'homme ;
 
 Le greffe de la Cour européenne des droits de l'homme ;
@@ -98,4 +92,12 @@ Tous membres du Comité européen pour la prévention de la torture et des peine
 
 Le président du Tribunal communautaire de première instance, Luxembourg ;
 
-Le président de la Cour de justice des Communautés européennes, Luxembourg.
+Le président de la Cour de justice des Communautés européennes, Luxembourg ;
+
+Le président du Comité des Nations unies contre la torture, Genève ;
+
+Tous membres du Comité des Nations unies contre la torture, Genève ;
+
+Le président du Comité des droits de l'homme, Genève ;
+
+Tous membres du Comité des droits de l'homme, Genève.
