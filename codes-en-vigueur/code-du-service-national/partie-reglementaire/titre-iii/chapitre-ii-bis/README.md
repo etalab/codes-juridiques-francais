@@ -3,6 +3,7 @@
 - [PARAGRAPHE 1 : Affectation.](paragraphe-1)
 - [SECTION I : Service actif dans la police nationale.](section-i)
 - [PARAGRAPHE 2 : Missions.](paragraphe-2)
+- [SECTION II : Disponibilité et réserve dans la police nationale.](section-ii)
 - [PARAGRAPHE 3 : Hiérarchie - Avancement.](paragraphe-3)
 - [PARAGRAPHE 4 : Permissions.](paragraphe-4)
 - [PARAGRAPHE 5 : Récompenses.](paragraphe-5)
