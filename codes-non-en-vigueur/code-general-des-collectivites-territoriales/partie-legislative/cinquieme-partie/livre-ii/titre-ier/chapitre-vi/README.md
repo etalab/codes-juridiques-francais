@@ -6,4 +6,3 @@
 - [Section 4 : Compétences](section-4)
 - [Section 5 : Dispositions financières](section-5)
 - [Section 6 : Dissolution.](section-6)
-- [Article L5216-10](article-l5216-10.md)
