@@ -5,5 +5,5 @@
 - [Chapitre III : Les écoles de commerce.](chapitre-iii)
 - [Chapitre V : Les écoles supérieures militaires.](chapitre-v)
 - [Chapitre VI : Les écoles sanitaires et sociales.](chapitre-vi)
-- [Chapitre VII : Les écoles nationales de la marine marchande.](chapitre-vii)
+- [Chapitre VII : Les écoles de la marine marchande.](chapitre-vii)
 - [Chapitre VIII : La Fondation nationale des sciences politiques.](chapitre-viii)
