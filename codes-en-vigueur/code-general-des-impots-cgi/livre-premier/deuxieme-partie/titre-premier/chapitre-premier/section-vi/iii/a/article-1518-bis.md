@@ -47,3 +47,5 @@ t. Au titre de 2000, à 1,01 pour les propriétés non bâties, pour les immeubl
 u. au titre de 2001, à 1.01 pour les propriétés non bâties, pour les immeubles industriels ne relevant pas de l'article 1500 et pour l'ensemble des autres propriétés bâties.
 
 v. Au titre de 2002, à 1,01 pour les propriétés non bâties, à 1,01 pour les immeubles industriels ne relevant pas de l'article 1500 et pour l'ensemble des autres propriétés bâties.
+
+w. Au titre de 2003, à 1,015 pour les propriétés non bâties, à 1,015 pour les immeubles industriels ne relevant pas de l'article 1500 et pour l'ensemble des autres propriétés bâties.

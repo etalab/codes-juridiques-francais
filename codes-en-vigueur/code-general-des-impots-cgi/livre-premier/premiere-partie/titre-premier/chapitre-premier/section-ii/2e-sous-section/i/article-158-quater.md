@@ -17,3 +17,5 @@ Les dispositions des articles 158 bis et 158 ter ne sont pas applicables aux pro
 7° Par les personnes morales implantées dans les zones prévues au 5° de l'article 2 de la loi n° 86-793 du 2 juillet 1986 autorisant le Gouvernement à prendre diverses mesures d'ordre économique et social, lorsque ces distributions proviennent de produits nets exonérés en application de l'article 208 quinquies ;
 
 8° Par les sociétés exonérées de précompte dans les conditions prévues au 8° du 3 de l'article 223 sexies.
+
+9° par les sociétés d'investissements immobiliers cotées et leurs filiales visées à l'article 208 C et prélevés sur les bénéfices exonérés en application du premier alinéa du II de cet article et sur les bénéfices ayant été soumis à l'imposition prévue au IV de l'article 219.

@@ -4,6 +4,6 @@ Conformément à l'article L. 431-14 du code des assurances, il est perçu au pr
 
 Les contrats couvrant les chantiers ouverts à compter du 1er janvier 1986 et comportant des garanties autres que celles visées au premier alinéa doivent distinguer la partie de la prime ou cotisation afférente à ces dernières garanties.
 
-Le taux de la contribution est de 8,5 % en ce qui concerne les primes ou cotisations d'assurance payées par les entreprises artisanales et de 25,5 % en ce qui concerne les autres primes ou cotisations d'assurance.
+Le taux de la contribution est de 4 % (1) en ce qui concerne les primes ou cotisations d'assurance payées par les entreprises artisanales et de 12,5 % (1) en ce qui concerne les autres primes ou cotisations d'assurance.
 
 Cette contribution, appelée lors de l'émission annuelle de la prime, est recouvrée suivant les mêmes règles, sous les mêmes garanties et les mêmes sanctions que la taxe sur les conventions d'assurance prévue aux articles 991 et suivants.

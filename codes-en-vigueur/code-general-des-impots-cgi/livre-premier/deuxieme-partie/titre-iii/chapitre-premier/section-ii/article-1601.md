@@ -6,7 +6,7 @@ Cette taxe est acquittée par les chefs d'entreprises individuelles ou les soci�
 
 Cette taxe est composée :
 
-a. d'un droit fixe par ressortissant, arrêté par les chambres de métiers dans la limite d'un montant maximum fixé à 101 euros ;
+a. d'un droit fixe par ressortissant, arrêté par les chambres de métiers dans la limite d'un montant maximum fixé à 105 euros ;
 
 b. d'un droit additionnel à la taxe professionnelle, dont le produit est arrêté par les chambres de métiers ; celui-ci ne peut excéder 50 % du produit du droit fixe.
 

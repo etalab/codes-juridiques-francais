@@ -3,3 +3,5 @@
 Lorsqu'une personne morale soumise à l'impôt sur les sociétés cesse d'y être assujettie, ses bénéfices et réserves, capitalisés ou non, sont réputés distribués aux associés en proportion de leurs droits.
 
 Cette disposition est applicable, le cas échéant, au prorata des résultats qui cessent d'être soumis à cet impôt.
+
+Les dispositions du présent article ne sont pas applicables aux sociétés admises au bénéfice du régime prévu à l'article 208 C.

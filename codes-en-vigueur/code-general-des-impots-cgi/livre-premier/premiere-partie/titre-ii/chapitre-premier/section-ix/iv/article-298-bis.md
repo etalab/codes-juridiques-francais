@@ -14,9 +14,9 @@ Ils peuvent cependant opter pour leur imposition d'après le régime simplifié 
 
 II. Sont soumis de plein droit au régime simplifié prévu au I :
 
-1° Les exploitants agricoles dont les activités sont, par leur nature ou leur importance, assimilables à celles exercées par des industriels ou des commerçants, même si ces opérations constituent le prolongement de l'activité agricole.
+1° Les exploitants agricoles dont les activités sont, par leur nature ou leur importance, assimilables à celles exercées par des industriels ou des commerçants, même si ces opérations constituent le prolongement de l'activité agricole à l'exception de celles de ces opérations considérées comme entrant dans les usages habituels et normaux de l'agriculture.
 
-2° Pour leurs opérations de vente d'animaux vivants de boucherie et de charcuterie, les exploitants agricoles qui, en raison des caractéristiques de leur exploitation, exercent une influence notable sur le marché local de ces animaux.
+2° (abrogé)
 
 3° Pour leurs activités agricoles, les personnes qui effectuent des opérations commerciales d'achat, d'importation, d'acquisition intracommunautaire, de vente, de commission et de courtage portant sur des animaux vivants de boucherie et de charcuterie.
 
@@ -44,4 +44,4 @@ Les caractéristiques des activités soumises obligatoirement à la taxe sur la 
 
 III bis. Les recettes accessoires commerciales et non commerciales, passibles de la taxe sur la valeur ajoutée, réalisées par un exploitant agricole soumis pour ses opérations agricoles au régime simplifié prévu au I peuvent être imposées selon ce régime lorsque le montant total des recettes accessoires taxes comprises n'excède pas, au titre de l'année civile précédente, 30 000 euros et 30 % du montant des recettes taxes comprises provenant de ses activités agricoles.
 
-IV. En cas de cession ou de cessation de leur activité, les exploitants agricoles sont tenus de souscrire dans les trente jours la déclaration prévue au 1° du I ou, le cas échéant, au deuxième alinéa du I de l'article 1693 bis.
+IV. En cas de cession ou de cessation de leur activité, les exploitants agricoles sont tenus de souscrire dans les trente jours la déclaration prévue au 1° du I ou, le cas échéant, au troisième alinéa du I de l'article 1693 bis.

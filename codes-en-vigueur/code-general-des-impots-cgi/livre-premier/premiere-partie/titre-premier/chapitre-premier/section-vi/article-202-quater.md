@@ -10,4 +10,4 @@ II. - Lorsque les dispositions du I s'appliquent, les créances et les dettes qu
 
 III. - Les dispositions des I et II s'appliquent sur option conjointe du contribuable visé au I et des sociétés mentionnées au II.
 
-IV. - Les dispositions du I s'appliquent pour l'imposition des revenus des contribuables pour lesquels l'application de l'article 202 résulte d'un événement intervenu entre le 1er janvier 2000 et le 31 décembre 2002.
+IV. - Les dispositions du I s'appliquent pour l'imposition des revenus des contribuables pour lesquels l'application de l'article 202 résulte d'un événement intervenu entre le 1er janvier 2000 et le 31 décembre 2005.
