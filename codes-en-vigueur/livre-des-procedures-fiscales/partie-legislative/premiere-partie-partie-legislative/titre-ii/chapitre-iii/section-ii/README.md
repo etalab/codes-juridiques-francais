@@ -7,3 +7,4 @@
 - [V : Dérogations au profit des officiers ministériels](v)
 - [VI : Dérogations au profit des autorités et des organismes chargés de l'application de la législation sociale](vi)
 - [VII : Dérogations au profit d'organismes divers](vii)
+- [Article L113](article-l113.md)
