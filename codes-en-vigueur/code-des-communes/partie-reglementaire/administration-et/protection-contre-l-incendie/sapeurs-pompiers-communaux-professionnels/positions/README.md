@@ -1,3 +1,0 @@
-# POSITIONS
-
-- [ACTIVITE - CONGE .](activite)
