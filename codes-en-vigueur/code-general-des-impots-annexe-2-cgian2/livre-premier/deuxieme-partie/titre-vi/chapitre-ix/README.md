@@ -2,4 +2,4 @@
 
 - [Section I : Taxe parafiscale sur certaines viandes.](section-i)
 - [Section II : Taxe parafiscale sur les vins.](section-ii)
-- [Taxe parafiscale sur les céréales et le riz.](taxe-parafiscale-sur)
+- [Taxe parafiscale sur les graines oléagineuses.](taxe-parafiscale-sur)
