@@ -8,5 +8,6 @@
 - [Titre VI : De la vente](titre-vi)
 - [Titre VII : De l'échange](titre-vii)
 - [Titre VIII : Du contrat de louage](titre-viii)
+- [Titre X : Du prêt](titre-x)
 - [Titre XIV : Du cautionnement.](titre-xiv)
 - [Dispositions générales](dispositions-generales)
