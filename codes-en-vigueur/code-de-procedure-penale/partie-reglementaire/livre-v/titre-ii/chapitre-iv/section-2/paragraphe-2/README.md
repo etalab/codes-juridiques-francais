@@ -1,9 +1,11 @@
 # Paragraphe 2 : Dispositions générales
 
 - [Article D216](article-d216.md)
+- [Article D217](article-d217.md)
 - [Article D218](article-d218.md)
 - [Article D219](article-d219.md)
 - [Article D220](article-d220.md)
+- [Article D221](article-d221.md)
 - [Article D223](article-d223.md)
 - [Article D224](article-d224.md)
 - [Article D225](article-d225.md)
