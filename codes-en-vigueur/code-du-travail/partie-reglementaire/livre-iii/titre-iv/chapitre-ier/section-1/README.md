@@ -1,3 +1,0 @@
-# SECTION 1 : TRAVAILLEURS ETRANGERS.
-
-- [Article D341-3](article-d341-3.md)
