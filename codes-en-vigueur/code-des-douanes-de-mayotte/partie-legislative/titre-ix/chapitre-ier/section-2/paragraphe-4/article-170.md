@@ -2,7 +2,7 @@
 
 1. Sous réserve des dispositions du 2 ci-dessous, les articles incorporés hors du territoire de Mayotte à des navires francisés dans ce territoire sont traités comme s'ils étaient importés directement dans la partie du territoire douanier où se trouve le port d'attache, pour y recevoir le même affectation.
 
-Il y a, toutefois, exonération de tous droits et taxes lorsque le montant des réparations n'exède pas 2000 F par tonneau de jauge ou, quel que soit le montant de celles-ci, lorsque le navire s'est trouvé contraint à se faire réparer hors du territoire douanier ; dans ce dernier cas, il doit être justifié de la nécessité invoquée au moyen d'une attestation du consul français du port de radoub, délivrée, le cas échéant, sur rapport d'expert provoqué par ledit consul.
+Il y a, toutefois, exonération de tous droits et taxes lorsque le montant des réparations n'exède pas 305 euros par tonneau de jauge ou, quel que soit le montant de celles-ci, lorsque le navire s'est trouvé contraint à se faire réparer hors du territoire douanier ; dans ce dernier cas, il doit être justifié de la nécessité invoquée au moyen d'une attestation du consul français du port de radoub, délivrée, le cas échéant, sur rapport d'expert provoqué par ledit consul.
 
 Lorsqu'il s'agit de transformation, d'aménagements et d'incorporations n'ayant pas le caractère de réparations, les dispositions du présent article ne s'appliquent pas.
 
