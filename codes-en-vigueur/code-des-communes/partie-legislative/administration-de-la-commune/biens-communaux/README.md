@@ -1,0 +1,4 @@
+# BIENS COMMUNAUX
+
+- [REGIME DE  CERTAINS BIENS IMMOBILIERS SOUMIS A UN DROIT DE JOUISSANCE EXCLUSIF](regime-de-certains-biens-immobiliers-soumis-a-un)
+- [ACQUISITION,  LOCATION ET AFFECTATION DE BIENS .](acquisition-location-et)

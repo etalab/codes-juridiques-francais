@@ -1,0 +1,18 @@
+# AGENTS NOMMES DANS DES EMPLOIS PERMANENTS A TEMPS NON COMPLET .
+
+- [Positions .](positions)
+- [PRESTATIONS FAMILIALES .](prestations-familiales)
+- [RECRUTEMENT .](recrutement)
+- [CENTRE DE FORMATION DES PERSONNELS COMMUNAUX](centre-de-formation-des-personnels-communaux)
+- [Cessation de fonctions](cessation-de-fonctions)
+- [DISCIPLINE](discipline)
+- [Dispositions générales et organiques](dispositions-generales-et)
+- [Notation, avancement et discipline](notation-avancement-et)
+- [Recrutement, formation et promotion sociale](recrutement-formation-et)
+- [Rémunération et effectifs .](remuneration-et)
+- [REMUNERATIONS ET EFFECTIFS .](remunerations-et)
+- [Sécurité sociale, pensions, hygiène et sécurité](securite-sociale-pensions-hygiene-et)
+- [Article L421-2](article-l421-2.md)
+- [Article L421-4](article-l421-4.md)
+- [Article L421-7](article-l421-7.md)
+- [Article L421-10](article-l421-10.md)

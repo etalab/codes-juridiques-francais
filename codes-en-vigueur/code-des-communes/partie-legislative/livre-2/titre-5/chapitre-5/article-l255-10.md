@@ -1,0 +1,3 @@
+# Article L255-10
+
+Lorsque la zone [*d'agglomération nouvelle*] prévue à l'article L. 171-7 a été établie dans l'aire géographique d'une communauté urbaine, le conseil de communauté peut décider, lorsqu'il statue sur la prise en charge de l'aménagement de l'agglomération nouvelle dans les conditions fixées à l'article L. 171-5, que les dispositions budgétaires, financières et fiscales prévues par les textes en vigueur à l'égard des communes et par les dispositions [*applicables à la communauté urbaine*] du chapitre III du présent titre sont applicables, dans la zone susvisée, de la même manière qu'aux autres parties du territoire de la communauté urbaine.

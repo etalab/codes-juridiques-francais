@@ -1,0 +1,7 @@
+# SECTION 4 : La police municipale.
+
+- [Article L181-40](article-l181-40.md)
+- [Article L181-42](article-l181-42.md)
+- [Article L181-43](article-l181-43.md)
+- [Article L181-44](article-l181-44.md)
+- [Article L181-47](article-l181-47.md)

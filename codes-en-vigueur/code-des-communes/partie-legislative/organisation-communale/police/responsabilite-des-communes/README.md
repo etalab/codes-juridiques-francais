@@ -1,0 +1,3 @@
+# RESPONSABILITE DES COMMUNES
+
+- [DISPOSITIONS GENERALES .](dispositions-generales)

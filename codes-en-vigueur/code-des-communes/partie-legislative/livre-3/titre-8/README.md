@@ -1,0 +1,5 @@
+# TITRE 8 : Participation à des entreprises privées.
+
+- [Article L381-3](article-l381-3.md)
+- [Article L381-5](article-l381-5.md)
+- [Article L381-6](article-l381-6.md)
