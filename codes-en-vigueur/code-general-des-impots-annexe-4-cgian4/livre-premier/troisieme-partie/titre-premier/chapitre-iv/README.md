@@ -12,4 +12,3 @@
 - [Article 164 AV](article-164-av.md)
 - [Article 164 AW](article-164-aw.md)
 - [Article 164 AX](article-164-ax.md)
-- [Article 164 AY](article-164-ay.md)
