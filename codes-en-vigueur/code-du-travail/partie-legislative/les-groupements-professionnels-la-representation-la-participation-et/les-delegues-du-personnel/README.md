@@ -8,7 +8,6 @@
 - [Article L420-6](article-l420-6.md)
 - [Article L420-7](article-l420-7.md)
 - [Article L420-8](article-l420-8.md)
-- [Article L420-9](article-l420-9.md)
 - [Article L420-10](article-l420-10.md)
 - [Article L420-11](article-l420-11.md)
 - [Article L420-12](article-l420-12.md)
