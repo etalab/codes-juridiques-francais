@@ -10,5 +10,6 @@
 - [Article 370](article-370.md)
 - [Article 371](article-371.md)
 - [Article 371-1](article-371-1.md)
+- [Article 372](article-372.md)
 - [Article 373](article-373.md)
 - [Article 373-1](article-373-1.md)
