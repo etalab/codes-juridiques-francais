@@ -1,6 +1,6 @@
 # Article 396 bis
 
-1. L'inscription des sommes privilégiées dues au Trésor prescrite à l'article 1929 quater-1 du code général des impôts est faite :
+1. L'inscription des sommes privilégiées dues au Trésor prescrite à l'article 1929 quater 1 du code général des impôts est faite :
 
 1° Si le redevable est une personne physique, au greffe du tribunal de commerce ou du tribunal de grande instance statuant commercialement, dans le ressort duquel se trouve son principal établissement commercial ;
 
@@ -8,13 +8,17 @@
 
 3° Si le redevable est une personne morale de droit privé non immatriculée au registre du commerce et des sociétés, au greffe du tribunal de grande instance dans le ressort duquel se trouve son siège.
 
-Pour les redevables visés aux 2° et 3° dont le siège n'est pas situé sur le territoire métropolitain ou dans les départements d'outre-mer *DOM*, l'inscription est requise, selon le cas, au greffe du tribunal de commerce ou du tribunal de grande instance statuant commercialement ou au greffe du tribunal de grande instance dans le ressort duquel se trouve le principal établissement du redevable.
+Pour les redevables visés aux 2° et 3° dont le siège n'est pas situé sur le territoire métropolitain ou dans les départements d'outre-mer, l'inscription est requise, selon le cas, au greffe du tribunal de commerce ou du tribunal de grande instance statuant commercialement ou au greffe du tribunal de grande instance dans le ressort duquel se trouve le principal établissement du redevable.
 
-2. Lorsque la publicité est faite à titre obligatoire, en application de l'article 1929 quater-4 du code général des impôts, l'inscription des sommes déterminées dans les conditions fixées au 3 dudit article doit être requise au plus tard *date limite* :
+2. Lorsque la publicité est faite à titre obligatoire, en application de l'article 1929 quater 1 du code général des impôts, l'inscription des sommes déterminées dans les conditions fixées au 3 dudit article doit être requise au plus tard [*date limite*] :
 
-Le 31 janvier pour les sommes dues à la date du 31 décembre de l'année précédente ;
+- Le 28 ou 29 février pour les sommes dues au 31 décembre de l'année précédente ;
 
-Le 31 juillet pour les sommes dues à la date du 30 juin de l'année courante.
+- Le 31 mai pour les sommes dues au 31 mars de l'année courante ;
+
+- Le 31 août pour les sommes dues au 30 juin de l'année courante ;
+
+- Le 30 novembre pour les sommes dues au 30 septembre de l'année courante.
 
 L'octroi de délais de paiement ne fait pas obstacle à l'application des dispositions du présent article.
 
@@ -26,13 +30,13 @@ b. Désignation du comptable public requérant ;
 
 c. Nom, prénoms, raison ou dénomination sociale, adresse de l'établissement principal ou du siège du redevable ;
 
-d. Montant des sommes dues au Trésor au dernier jour du semestre civil précédant l'inscription.
+d. Montant des sommes dues au Trésor au dernier jour du trimestre civil précédant l'inscription.
 
 Le comptable avise le contribuable qu'il a requis une inscription à son encontre.
 
 4. Un des exemplaires du bordereau prévu au 3 est restitué ou renvoyé au comptable par le greffier, après avoir été revêtu de la mention d'inscription qui comprend la date de celle-ci et le numéro sous lequel elle a été faite. Le second exemplaire portant les mêmes mentions est conservé au greffe pour constituer le registre des inscriptions ; le greffier tient en outre un répertoire alphabétique.
 
-5. Lorsqu'un redevable a contesté une imposition ayant fait l'objet d'une inscription et qu'il bénéficie du sursis de paiement dans les conditions prévues aux articles L 277 à L 279 du livre des procédures fiscales, il peut faire mentionner par le greffier l'existence de la contestation ; cette mention est portée en marge de l'inscription.
+5. Lorsqu'un redevable a contesté une imposition ayant fait l'objet d'une inscription et qu'il bénéficie du sursis de paiement dans les conditions prévues aux articles L. 277 à L. 279 du livre des procédures fiscales, il peut faire mentionner par le greffier l'existence de la contestation ; cette mention est portée en marge de l'inscription.
 
 Le redevable doit produire à cet effet une attestation délivrée par le comptable chargé du recouvrement de l'imposition contestée.
 
