@@ -1,6 +1,6 @@
 # Article L242-29
 
-Est puni d'un emprisonnement de six mois et d'une amende de 30000 F le fait, pour le président ou les administrateurs d'une société anonyme, lorsque les capitaux propres de la société, du fait de pertes constatées dans les documents comptables, deviennent inférieurs à la moitié du capital social :
+Est puni d'un emprisonnement de six mois et d'une amende de 4500 euros le fait, pour le président ou les administrateurs d'une société anonyme, lorsque les capitaux propres de la société, du fait de pertes constatées dans les documents comptables, deviennent inférieurs à la moitié du capital social :
 
 1° De ne pas, dans les quatre mois qui suivent l'approbation des comptes ayant fait apparaître ces pertes, convoquer l'assemblée générale extraordinaire à l'effet de décider s'il y a lieu à dissolution anticipée de la société ;
 

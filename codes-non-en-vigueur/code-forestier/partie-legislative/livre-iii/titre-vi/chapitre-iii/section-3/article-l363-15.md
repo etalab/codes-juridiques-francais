@@ -1,6 +1,6 @@
 # Article L363-15
 
-La coupe ou l'enlèvement de choux-palmistes non autorisé par l'autorité administrative est puni d'une amende de 25000 F sans préjudice de tous dommages-intérêts et de l'application des dispositions des articles L. 351-1 et L. 351-3. En outre, une peine d'emprisonnement de deux ans peut être prononcée.
+La coupe ou l'enlèvement de choux-palmistes non autorisé par l'autorité administrative est puni d'une amende de 3 750 euros sans préjudice de tous dommages-intérêts et de l'application des dispositions des articles L. 351-1 et L. 351-3. En outre, une peine d'emprisonnement de deux ans peut être prononcée.
 
 Aucun chou-palmiste ne peut être transporté, mis en vente ou détenu sans être poinçonné et accompagné d'un laissez-passer délivré dans les conditions fixées par décret en Conseil d'Etat.
 

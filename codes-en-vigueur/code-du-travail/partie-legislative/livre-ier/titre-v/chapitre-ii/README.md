@@ -6,3 +6,4 @@
 - [Section 4 : Cautionnement.](section-4)
 - [Section 5 : Groupements d'employeurs.](section-5)
 - [Section 6 : Corruption](section-6)
+- [Section 7 : Violation des secrets de fabrique](section-7)

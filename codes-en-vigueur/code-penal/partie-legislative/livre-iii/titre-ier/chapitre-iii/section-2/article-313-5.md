@@ -10,4 +10,4 @@ La filouterie est le fait par une personne qui sait être dans l'impossibilité 
 
 4° De se faire transporter en taxi ou en voiture de place.
 
-La filouterie est punie de six mois d'emprisonnement et de 50 000 F d'amende.
+La filouterie est punie de six mois d'emprisonnement et de 7 500 euros d'amende.

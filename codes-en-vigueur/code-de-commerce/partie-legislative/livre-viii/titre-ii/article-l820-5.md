@@ -1,6 +1,6 @@
 # Article L820-5
 
-Est puni d'un an d'emprisonnement et de 100000 F d'amende le fait, pour toute personne :
+Est puni d'un an d'emprisonnement et de 15000 euros d'amende le fait, pour toute personne :
 
 1° De faire usage du titre de commissaire aux comptes ou de titres quelconques tendant à créer une similitude ou une confusion avec celui-ci, sans être régulièrement inscrite sur la liste prévue au I de l'article L. 225-219 et avoir prêté serment dans les conditions prévues à l'article L. 225-223 ;
 

@@ -4,4 +4,4 @@ L'arrêt portant règlement de juges est signifié aux parties intéressées. Ce
 
 L'opposition emporte effet suspensif si la chambre criminelle en décide ainsi.
 
-L'opposition est jugée dans les quinze jours de l'arrivée des pièces au greffe de la Cour de cassation. Si l'opposition est rejetée, la chambre criminelle peut condamner le demandeur à une amende civile de 100 F.
+L'opposition est jugée dans les quinze jours de l'arrivée des pièces au greffe de la Cour de cassation. Si l'opposition est rejetée, la chambre criminelle peut condamner le demandeur à une amende civile de 15 euros.

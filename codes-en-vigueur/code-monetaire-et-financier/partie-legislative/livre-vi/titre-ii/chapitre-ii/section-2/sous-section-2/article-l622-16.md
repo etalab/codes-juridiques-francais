@@ -6,6 +6,6 @@ II. - En matière disciplinaire, le conseil agit soit d'office, soit à la deman
 
 III. - Les sanctions applicables sont l'avertissement, le blâme, l'interdiction à titre temporaire ou définitif de l'exercice de tout ou partie des services fournis. Ces interdictions emportent, selon le cas, suspension ou retrait de l'autorisation prévue à l'article L. 532-1 pour le service concerné.
 
-En outre, le Conseil des marchés financiers peut prononcer, soit à la place, soit en sus de ces sanctions, une sanction pécuniaire dont le montant ne peut être supérieur à cinq millions de francs ou au décuple du montant des profits éventuellement réalisés. Les sommes sont versées au fonds de garantie auquel est affiliée la personne sanctionnée ou, à défaut, au Trésor public.
+En outre, le Conseil des marchés financiers peut prononcer, soit à la place, soit en sus de ces sanctions, une sanction pécuniaire dont le montant ne peut être supérieur à 750000 euros ou au décuple du montant des profits éventuellement réalisés. Les sommes sont versées au fonds de garantie auquel est affiliée la personne sanctionnée ou, à défaut, au Trésor public.
 
 IV. - La commission bancaire et le comité des établissements de crédit et des entreprises d'investissement sont informés de toute mesure d'interdiction à titre temporaire ou définitif de tout ou partie des activités.

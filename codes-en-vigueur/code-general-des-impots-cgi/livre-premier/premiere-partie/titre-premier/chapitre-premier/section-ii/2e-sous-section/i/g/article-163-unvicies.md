@@ -1,6 +1,6 @@
 # Article 163 unvicies
 
-Le montant maximal des sommes déductibles annuellement en application des dispositions de l'article 238 bis HN est de 500 000 F pour les contribuables célibataires, veufs ou divorcés, et de 1 000 000 F pour les contribuables mariés soumis à imposition commune. La déduction, pour un investissement déterminé, est opérée au titre de chaque année de versement.
+Le montant maximal des sommes déductibles annuellement en application des dispositions de l'article 238 bis HN est de 76 000 euros pour les contribuables célibataires, veufs ou divorcés, et de 152 000 euros pour les contribuables mariés soumis à imposition commune. La déduction, pour un investissement déterminé, est opérée au titre de chaque année de versement.
 
 Les dispositions du premier alinéa sont applicables en cas de souscription des parts de copropriété par l'intermédiaire de sociétés à responsabilité limitée mentionnées à l'article 239 bis AA qui ont opté pour le régime fiscal des sociétés de personnes et de sociétés à responsabilité limitée à associé unique qui n'ont pas opté pour l'assujettissement à l'impôt sur les sociétés, ou par l'intermédiaire de fonds de placement quirataire.
 

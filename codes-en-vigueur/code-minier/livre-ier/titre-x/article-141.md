@@ -1,6 +1,6 @@
 # Article 141
 
-Est puni d'une peine d'emprisonnement de deux ans et d'une amende de 200 000 F le fait :
+Est puni d'une peine d'emprisonnement de deux ans et d'une amende de 30 000 euros le fait :
 
 1° D'exploiter une mine ou de disposer d'une substance concessible sans détenir un titre d'exploitation ou une autorisation tels qu'ils sont respectivement prévus aux articles 21, 22, 68 et 68-9 ;
 

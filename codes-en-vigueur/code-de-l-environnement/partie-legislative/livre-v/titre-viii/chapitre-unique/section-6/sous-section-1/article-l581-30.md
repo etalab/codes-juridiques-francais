@@ -1,6 +1,6 @@
 # Article L581-30
 
-A l'expiration du délai de quinze jours, dont le point de départ se situe au jour de la notification de l'arrêté, la personne à qui il a été notifié est redevable d'une astreinte de cinq cents francs par jour et par publicité, enseigne ou préenseigne maintenue. Ce montant est réévalué chaque année, en fonction de l'évolution du coût de la vie, dans des conditions fixées par décret en Conseil d'Etat.
+A l'expiration du délai de quinze jours, dont le point de départ se situe au jour de la notification de l'arrêté, la personne à qui il a été notifié est redevable d'une astreinte de 84,61 (1) euros par jour et par publicité, enseigne ou préenseigne maintenue. Ce montant est réévalué chaque année, en fonction de l'évolution du coût de la vie, dans des conditions fixées par décret en Conseil d'Etat.
 
 L'astreinte n'est pas applicable à l'affichage d'opinion ou à la publicité relative aux activités des associations, mentionnés à l'article L. 581-13, sauf lorsque cet affichage ou cette publicité ont été apposés à un emplacement publicitaire prohibé en exécution d'un contrat conclu entre l'exploitant de cet emplacement et la personne pour le compte de qui ils ont été réalisés.
 

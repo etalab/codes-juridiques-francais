@@ -10,7 +10,7 @@ Seront punis des peines portées par l'article L. 213-1 :
 
 4° Ceux qui exposeront, mettront en vente ou vendront, connaissant leur destination, des produits, objets ou appareils propres à effectuer la falsification des denrées servant à l'alimentation de l'homme ou des animaux, des boissons ou des produits agricoles ou naturels et ceux qui auront provoqué à leur emploi par le moyen de brochures, circulaires, prospectus, affiches, annonces ou instructions quelconques.
 
-Si la substance falsifiée ou corrompue ou si la substance médicamenteuse falsifiée est nuisible à la santé de l'homme ou de l'animal, l'emprisonnement sera de quatre ans et l'amende de 500 000 F [*sanctions pénales*].
+Si la substance falsifiée ou corrompue ou si la substance médicamenteuse falsifiée est nuisible à la santé de l'homme ou de l'animal, l'emprisonnement sera de quatre ans et l'amende de 75 000 euros.
 
 Ces peines seront applicables même au cas où la falsification nuisible serait connue de l'acheteur ou du consommateur.
 

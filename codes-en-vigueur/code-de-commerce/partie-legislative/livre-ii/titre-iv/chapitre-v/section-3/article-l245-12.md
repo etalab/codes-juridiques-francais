@@ -1,6 +1,6 @@
 # Article L245-12
 
-Est puni d'une amende de 40000 F le fait :
+Est puni d'une amende de 6000 euros le fait :
 
 1° Pour le président, les administrateurs, les directeurs généraux, les gérants, les commissaires aux comptes, les membres du conseil de surveillance ou les employés de la société débitrice ou de la société garante de tout ou partie des engagements de la société débitrice ainsi que pour leurs ascendants, descendants ou conjoints de représenter des obligataires à leur assemblée générale, ou d'accepter d'être les représentants de la masse des obligataires ;
 

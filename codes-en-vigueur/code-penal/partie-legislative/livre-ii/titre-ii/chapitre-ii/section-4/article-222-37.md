@@ -1,6 +1,6 @@
 # Article 222-37
 
-Le transport, la détention, l'offre, la cession, l'acquisition ou l'emploi illicites de stupéfiants sont punis de dix ans d'emprisonnement et de 50 000 000 F d'amende [* taux *].
+Le transport, la détention, l'offre, la cession, l'acquisition ou l'emploi illicites de stupéfiants sont punis de dix ans d'emprisonnement et de 7 500 000 euros d'amende.
 
 Est puni des mêmes peines le fait de faciliter, par quelque moyen que ce soit, l'usage illicite de stupéfiants, de se faire délivrer des stupéfiants au moyen d'ordonnances fictives ou de complaisance, ou de délivrer des stupéfiants sur la présentation de telles ordonnances en connaissant leur caractère fictif ou complaisant.
 

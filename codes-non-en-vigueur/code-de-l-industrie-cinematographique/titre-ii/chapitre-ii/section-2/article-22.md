@@ -1,6 +1,6 @@
 # Article 22
 
-Indépendamment de la saisie administrative du film, sera punie de 300000 F d'amende [*taux*] toute infraction aux prescriptions de la section précédente et des textes pris pour son application, et notamment :
+Indépendamment de la saisie administrative du film, sera punie de 45000 euros d'amende [*taux*] toute infraction aux prescriptions de la section précédente et des textes pris pour son application, et notamment :
 
 La mise en circulation ou la représentation d'un film cinématographique sans visa d'exploitation ou en violation des conditions stipulées au visa ;
 

@@ -14,4 +14,4 @@ Les formes et conditions des concessions et autorisations sont fixées par décr
 
 Les enclos piscicoles créés sans autorisation avant le 1er janvier 1986 font l'objet, à la demande de leur propriétaire, d'une procédure de régularisation par l'administration, dans des conditions fixées par décret. Les propriétaires doivent avoir déposé leur demande avant le 1er janvier 1999.
 
-Ceux qui ont créé des piscicultures sans concession ou sans autorisation sont punis de 25 000 F d'amende et condamnés à remettre les lieux en état, sous astreinte définie à l'article L. 437-20, sans préjudice de l'application des dispositions du présent titre.
+Ceux qui ont créé des piscicultures sans concession ou sans autorisation sont punis de 3 750 euros d'amende et condamnés à remettre les lieux en état, sous astreinte définie à l'article L. 437-20, sans préjudice de l'application des dispositions du présent titre.

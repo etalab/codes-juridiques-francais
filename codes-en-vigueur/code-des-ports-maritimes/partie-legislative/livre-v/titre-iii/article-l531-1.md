@@ -6,7 +6,7 @@ Les contraventions aux dispositions du présent livre sont constatées par les a
 
 a) Avertissement ;
 
-b) Sanction pécuniaire dans la limite de 30000 F ;
+b) Sanction pécuniaire dans la limite de 4 500 euros ;
 
 c) En cas de nouvelle infraction dans le délai d'un an, la sanction mentionnée à l'alinéa précédent et l'interdiction temporaire d'utilisation de l'outillage public ou l'une de ces deux sanctions seulement ;
 

@@ -1,6 +1,6 @@
 # Article L428-5
 
-I. - Est puni de quatre mois d'emprisonnement et d'une amende de 25 000 F le fait de :
+I. - Est puni de quatre mois d'emprisonnement et d'une amende de 3 750 euros le fait de :
 
 1° Chasser sur le terrain d'autrui sans son consentement, si ce terrain est attenant à une maison habitée ou servant à l'habitation, et s'il est entouré d'une clôture continue faisant obstacle à toute communication avec les héritages voisins ;
 

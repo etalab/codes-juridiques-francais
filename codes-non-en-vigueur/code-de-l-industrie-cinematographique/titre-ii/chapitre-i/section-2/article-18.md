@@ -1,6 +1,6 @@
 # Article 18
 
-L'absence de déclaration de recettes au centre national de la cinématographie dans les délais réglementaires, l'envoi de fausses déclarations de quelque nature qu'elles soient, ainsi que les manoeuvres tendant à les permettre, rendent leurs auteurs passibles d'un emprisonnement de trois mois et d'une amende de 120000 francs, ou de l'une de ces deux peines seulement, sans préjudice de l'application éventuelle des articles 313-1, 313-7 et 313-8 du code pénal.
+L'absence de déclaration de recettes au centre national de la cinématographie dans les délais réglementaires, l'envoi de fausses déclarations de quelque nature qu'elles soient, ainsi que les manoeuvres tendant à les permettre, rendent leurs auteurs passibles d'un emprisonnement de trois mois et d'une amende de 18 000 euros, ou de l'une de ces deux peines seulement, sans préjudice de l'application éventuelle des articles 313-1,313-7 et 313-8 du code pénal.
 
 Ces dispositions s'appliquent à toutes personnes dirigeant, administrant ou exploitant une entreprise cinématographique, de même qu'à toutes celles qui auront participé aux infractions ou les auront sciemment favorisées.
 

@@ -6,4 +6,4 @@ Ils ne peuvent planter d'arbres ni se clore par haies ou autrement qu'à une dis
 
 Les propriétés riveraines d'un cours d'eau domanial rayé de la nomenclature des voies navigables ou flottables ou classé dans le domaine public par application de l'article 2-1 ainsi que les propriétés riveraines d'un lac domanial sont grevées sur chaque rive de cette dernière servitude de 3,25 mètres , dite servitude de "marchepied". Lorsqu'un cours d'eau est déjà grevé de la servitude prévue par le décret n° 59-96 du 7 janvier 1959, cette dernière servitude est maintenue.
 
-Tout contrevenant sera passible d'un amende de 1800 F et devra, en outre, remettre les lieux en état ou, à défaut, payer les frais de la remise en état d'office par l'administration.
+Tout contrevenant sera passible d'un amende de 274 euros et devra, en outre, remettre les lieux en état ou, à défaut, payer les frais de la remise en état d'office par l'administration.

@@ -8,6 +8,6 @@ Si un changeur manuel a enfreint une disposition du présent titre ou du titre V
 
 3. L'interdiction d'exercer la profession de changeur manuel.
 
-En outre, la commission bancaire peut prononcer soit à la place, soit en sus de ces sanctions, une sanction pécuniaire au plus égale à deux cent cinquante mille francs.
+En outre, la commission bancaire peut prononcer soit à la place, soit en sus de ces sanctions, une sanction pécuniaire au plus égale à 37500 euros.
 
 Les sommes correspondantes sont recouvrées par le Trésor public et versées au budget de l'Etat.

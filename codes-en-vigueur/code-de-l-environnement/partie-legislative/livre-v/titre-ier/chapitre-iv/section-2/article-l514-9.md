@@ -1,6 +1,6 @@
 # Article L514-9
 
-I. - Le fait d'exploiter une installation sans l'autorisation requise est puni d'un an d'emprisonnement et de 500 000 F d'amende.
+I. - Le fait d'exploiter une installation sans l'autorisation requise est puni d'un an d'emprisonnement et de 75 000 euros d'amende.
 
 II. - En cas de condamnation, le tribunal peut interdire l'utilisation de l'installation. L'interdiction cesse de produire effet si une autorisation est délivrée ultérieurement dans les conditions prévues par le présent titre. L'exécution provisoire de l'interdiction peut être ordonnée.
 

@@ -1,6 +1,6 @@
 # Article L462-5
 
-Est puni de [*taux*] 25 000 F d'amende :
+Est puni de 3750 euros d'amende :
 
 1° Le fait, pour quiconque, d'ouvrir ou de faire fonctionner un établissement où est dispensé un enseignement de la danse sans s'acquitter des obligations prévues à l'article L. 462-1 relatives à la déclaration, à l'hygiène, à la sécurité, au contrôle médical, à l'âge d'admission des élèves et à l'assurance ou de maintenir en activité un établissement où est dispensé un enseignement de la danse frappé d'une décision d'interdiction ;
 

@@ -1,18 +1,18 @@
 # Article 53
 
-A compter du 1er janvier 1960 [*point de départ*], la taxe de sortie de films proportionnelle à leur métrage, calculée sur la longueur de la copie acceptée par la censure est maintenue en vigueur dans les conditions suivantes :
+A compter du 1er janvier 1960, la taxe de sortie de films proportionnelle à leur métrage, calculée sur la longueur de la copie acceptée par la censure est maintenue en vigueur dans les conditions suivantes :
 
 Cette taxe est perçue pour chaque film, lors de la délivrance du visa d'exploitation.
 
 Son montant est fixé comme suit :
 
-- films de long métrage parlant français : 4,50 F par mètre ;
+- films de long métrage parlant français : 0,69 euros par mètre ;
 
 - films de long métrage étrangers exploités en version originale :
 
-0,5 F par mètre ;
+0,08 euros par mètre ;
 
-- films de court métrage : 0,5 F par mètre.
+- films de court métrage : 0,08 euros par mètre.
 
 La prorogation et le renouvellement de visas de films ne donnent pas lieu à la perception de la taxe de sortie.
 

@@ -14,9 +14,7 @@ b) aux contribuables exerçant une activité de gestion ou de location d'immeubl
 
 c) aux contribuables exerçant une activité dans l'un des secteurs suivants : industrie charbonnière, sidérurgie, fibres synthétiques, pêche, construction et réparation de navires d'au moins 100 tonnes de jauge brute, construction automobile ;
 
-d) aux contribuables qui créent une activité dans le cadre d'une concentration ou d'une restructuration d'activités préexistantes exercées en Corse ou qui reprennent de telles activités sauf pour la durée restant à courir, si l'activité reprise est déjà placée sous le régime d'exonération prévu au présent article ;
-
-Lorsque le contribuable est une société membre d'un groupe fiscal visé à l'article 223 A, le bénéfice exonéré est celui de cette société déterminé dans les conditions prévues aux II et III du présent article et au 4 de l'article 223 I.
+d) aux contribuables qui créent une activité dans le cadre d'une concentration ou d'une restructuration d'activités préexistantes exercées en Corse ou qui reprennent de telles activités sauf pour la durée restant à courir, si l'activité reprise est déjà placée sous le régime d'exonération prévu au présent article. Lorsque le contribuable est une société membre d'un groupe fiscal visé à l'article 223 A, le bénéfice exonéré est celui de cette société déterminé dans les conditions prévues aux II et III du présent article et au 4 de l'article 223 I.
 
 Pour l'ensemble des sociétés d'un même groupe, le montant de l'exonération accordée ne peut excéder le montant visé au IX, dans la limite du résultat d'ensemble du groupe.
 
@@ -58,7 +56,7 @@ VII. Les agréments mentionnés aux I et VI sont délivrés dans les conditions 
 
 VIII. L'effectif salarié est apprécié au dernier jour de l'exercice ou de l'année d'imposition en prenant en compte les salariés bénéficiant d'un contrat de travail à durée indéterminée ou d'une durée de trois mois au moins. Les salariés à temps partiel sont pris en compte au prorata de la durée du temps de travail prévue à leur contrat.
 
-IX. En aucun cas, le montant de bénéfice exonéré ne peut excéder 400 000 F par période de douze mois.
+IX. En aucun cas, le montant de bénéfice exonéré ne peut excéder 61 000 euros par période de douze mois.
 
 X. 1° La fraction des bénéfices exonérée dans les conditions du 2° du IV doit être maintenue dans l'exploitation. Cette condition est remplie si :
 

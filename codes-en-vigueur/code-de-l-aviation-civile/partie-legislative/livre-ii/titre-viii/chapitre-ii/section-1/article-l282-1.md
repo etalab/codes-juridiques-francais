@@ -1,6 +1,6 @@
 # Article L282-1
 
-Sera puni d'un emprisonnement de cinq ans et d'une amende de 120 000 F ou de l'une de ces deux peines seulement sans préjudice, le cas échéant, de l'application des dispositions des articles 322-1 à 322-11 et 322-15 du code pénal réprimant les destructions, dégradations et détériorations, quiconque aura volontairement :
+Sera puni d'un emprisonnement de cinq ans et d'une amende de 18 000 euros ou de l'une de ces deux peines seulement sans préjudice, le cas échéant, de l'application des dispositions des articles 322-1 à 322-11 et 322-15 du code pénal réprimant les destructions, dégradations et détériorations, quiconque aura volontairement :
 
 1° Détruit ou endommagé les immeubles ou installations destinés à assurer le contrôle de la circulation des aéronefs, les télécommunications aéronautiques, l'aide à la navigation aérienne ou l'assistance météorologique ;
 

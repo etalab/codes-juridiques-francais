@@ -6,7 +6,7 @@ Si les faits incriminés ne constituent qu'une faute de discipline, l'administra
 
 Si les faits incriminés constituent une contravention de police, prévue à l'article 36, l'administrateur des affaires maritimes saisit le procureur de la République qui transmet le procès-verbal à l'officier du ministère public près le tribunal de police compétent. S'il s'agit d'une contravention prévue à l'article 36 bis, il saisit : en France métropolitaine le président du tribunal maritime commercial, dans les départements d'outre-mer le procureur de la République.
 
-Dans le cas de contraventions passibles d'une amende supérieure à 3000 F  [*sanction - montant - taux résultant de la loi 89-469 1989-07-10*] commises par des mineurs de dix-huit ans, il est procédé conformément aux dispositions du 2° du dernier alinéa du présent article.
+Dans le cas de contraventions passibles d'une amende supérieure à 450 euros commises par des mineurs de dix-huit ans, il est procédé conformément aux dispositions du 2° du dernier alinéa du présent article.
 
 Si les faits incriminés constituent un crime ou un délit, l'administrateur des affaires maritimes saisit :
 

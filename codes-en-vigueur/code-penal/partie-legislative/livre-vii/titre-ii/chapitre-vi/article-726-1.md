@@ -2,7 +2,7 @@
 
 L'article 511-3 est ainsi rédigé :
 
-" Art. 511-3. - Le fait de prélever un organe sur une personne vivante majeure sans avoir recueilli son consentement ou sans l'avoir préalablement éclairée sur les risques et les conséquences de l'acte est puni de sept ans d'emprisonnement et de 700 000 F d'amende.
+" Art. 511-3. - Le fait de prélever un organe sur une personne vivante majeure sans avoir recueilli son consentement ou sans l'avoir préalablement éclairée sur les risques et les conséquences de l'acte est puni de sept ans d'emprisonnement et de 100 000 euros d'amende.
 
 " Est puni des mêmes peines le fait de prélever un organe sur un donneur vivant mineur ou sur un donneur vivant majeur faisant l'objet d'une mesure de protection légale. Toutefois, un prélèvement de moelle osseuse sur un mineur au profit de son frère ou de sa soeur peut être autorisé par un comité médical constitué dans les conditions fixées par la réglementation applicable localement, sous réserve du consentement de chacun des titulaires de l'autorité parentale ou du représentant légal du mineur.
 
