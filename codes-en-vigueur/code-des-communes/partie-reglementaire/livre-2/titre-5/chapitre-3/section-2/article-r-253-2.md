@@ -1,3 +1,0 @@
-# Article R*253-2
-
-Pour l'application de l'article L. 253-6 et jusqu'à une date qui sera fixée par décret, le prélèvement au profit de la communauté urbaine s'opère sur la dotation forfaitaire correspondant aux sommes perçues en 1978 au titre de l'attribution de garantie prévue à l'article L. 234-3 en ce qui concerne le versement représentatif de la taxe sur les salaires. Ce prélèvement ne porte que sur la part de cette dotation qui excède le montant du minimum par habitant fixé par l'article L. 234-16. Son taux est de 25 p. 100 et le conseil de la communauté peut décider de le porter à 75 p. 100.
