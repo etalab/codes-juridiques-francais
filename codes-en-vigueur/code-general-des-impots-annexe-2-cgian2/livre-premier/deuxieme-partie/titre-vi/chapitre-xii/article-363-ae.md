@@ -4,9 +4,7 @@ Est autorisée au titre de la campagne de commercialisation 1987-1988 et pendant
 
 Toutefois, sont exonérées de la taxe les céréales de qualité courante échangées contre des céréales de semence certifiées, dans la limite d'un plafond fixé par décret.
 
-II. Les éleveurs-producteurs de céréales peuvent obtenir, dans les conditions prévues au deuxième alinéa du II de l'article 1618 octies du code général des impôts, la restitution de la taxe correspondant aux quantités de céréales contenues dans les aliments qu'ils acquièrent pour la nourriture animale.
-
-Le droit à restitution ne peut s'exercer qu'auprès d'un seul collecteur agréé, dans la limite globale de 150 tonnes par campagne et à concurrence des quantités de céréales équivalentes produites par l'éleveur et livrées audit collecteur agréé.
+II. (Sans objet : Loi 90-1169 1990-12-29 art. 51 II).
 
 III. Après déduction des frais de recouvrement, le produit de la taxe est réparti entre l'office national interprofessionnel des céréales [*ONIC*], le fonds de solidarité des céréaliculteurs et des éleveurs et l'institut technique des céréales et des fourrages.
 
