@@ -2,7 +2,6 @@
 
 - [Permis de construire à titre précaire.](permis-de-construire-a-titre)
 - [Dispositions relatives aux modes particuliers d'utilisation du sol.](dispositions-relatives-aux)
-- [Certificat d'urbanisme](certificat-d-urbanisme)
 - [Contrôle](controle)
 - [Infractions.](infractions)
 - [Permis de construire](permis-de-construire)
