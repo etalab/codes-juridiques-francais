@@ -1,0 +1,15 @@
+# SECTION 2 : Surveillance des opérations consécutives au décès.
+
+- [Article R364-1](article-r364-1.md)
+- [Article R364-2](article-r364-2.md)
+- [Article R364-3](article-r364-3.md)
+- [Article R364-4](article-r364-4.md)
+- [Article R364-5](article-r364-5.md)
+- [Article R364-6](article-r364-6.md)
+- [Article R364-7](article-r364-7.md)
+- [Article R364-8](article-r364-8.md)
+- [Article R364-9](article-r364-9.md)
+- [Article R364-10](article-r364-10.md)
+- [Article R364-11](article-r364-11.md)
+- [Article R364-12](article-r364-12.md)
+- [Article R364-13](article-r364-13.md)

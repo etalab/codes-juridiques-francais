@@ -1,0 +1,16 @@
+# SECTION 8 : Cessation de fonctions.
+
+- [Article R353-105](article-r353-105.md)
+- [Article R353-106](article-r353-106.md)
+- [Article R353-107](article-r353-107.md)
+- [Article R353-108](article-r353-108.md)
+- [Article R353-109](article-r353-109.md)
+- [Article R353-110](article-r353-110.md)
+- [Article R353-111](article-r353-111.md)
+- [Article R353-112](article-r353-112.md)
+- [Article R353-113](article-r353-113.md)
+- [Article R353-114](article-r353-114.md)
+- [Article R353-115](article-r353-115.md)
+- [Article R353-116](article-r353-116.md)
+- [Article R353-117](article-r353-117.md)
+- [Article R353-118](article-r353-118.md)
