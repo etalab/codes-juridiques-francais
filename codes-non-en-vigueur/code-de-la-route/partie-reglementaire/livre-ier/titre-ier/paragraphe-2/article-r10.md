@@ -10,9 +10,9 @@ En dehors des agglomérations, la vitesse des véhicules est limitée à :
 
 3° 90 km/h sur les autres routes.
 
-Dans la traversée des agglomérations, la vitesse des véhicules est limitée à 60 km/h.
+" Dans la traversée des agglomérations, la vitesse des véhicules est limitée à 50 km/h.
 
-Toutefois, sur tout ou partie des sections faisant partie d'une route à grande circulation et situées à l'intérieur d'une agglomération, cette limite peut être relevée à 80 km/h par arrêté du commissaire de la République pris après consultation du maire et du président du conseil général, s'il s'agit d'une voie départementale, et après avis du directeur départemental de l'équipement et du chef de police ou de gendarmerie territorialement compétent pour surveiller le respect par les usagers des limites de vitesse dans l'agglomération considérée.
+" Toutefois, cette limite peut être relevée à 70 km/h sur les sections de route, qu'elles soient classées ou non routes à grande circulation, où les accès des riverains et les traversées des piétons sont en nombre limité et sont protégés par des dispositifs appropriés. Pour les routes à grande circulation, la décision est prise par arrêté du préfet, après consultation du ou des maires des communes intéressées et celle du président du conseil général s'il s'agit d'une voie départementale. Dans les autres cas, elle est prise par le maire dans les mêmes conditions. "
 
 En cas de pluie ou d'autres précipitations, les vitesses maximales sont abaissées à :
 
