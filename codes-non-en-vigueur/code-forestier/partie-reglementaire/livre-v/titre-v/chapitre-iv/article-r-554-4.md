@@ -1,0 +1,3 @@
+# Article R*554-4
+
+Le ministre de l'agriculture, sur avis du comité technique permanent de sélection des plantes cultivées, et dans les conditions prévues à l'article 17 de la directive susmentionnée du conseil des communautés européennes, peut interdire, pour tout ou partie du territoire français, la commercialisation des matériels forestiers de reproduction issus d'un matériel de base inscrit au catalogue commun mentionné à l'article R. 554-1, si l'utilisation de ces matériels est susceptible d'avoir une influence défavorable sur la sylviculture française en raison de leurs caractères génétiques.
