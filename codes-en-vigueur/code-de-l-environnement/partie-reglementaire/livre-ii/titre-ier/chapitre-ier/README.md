@@ -5,3 +5,4 @@
 - [Section 3 : Protection des biotopes](section-3)
 - [Section 4 : Réglementation particulière aux produits antiparasitaires et assimilés](section-4)
 - [Section 5 : Prises de vues ou de son](section-5)
+- [Section 6 : Conseil scientifique régional du patrimoine naturel](section-6)
