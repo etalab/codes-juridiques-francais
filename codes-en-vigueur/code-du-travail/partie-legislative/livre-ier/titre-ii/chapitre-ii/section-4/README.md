@@ -2,6 +2,7 @@
 
 - [Article L122-18](article-l122-18.md)
 - [Article L122-20](article-l122-20.md)
+- [Article L122-20-1](article-l122-20-1.md)
 - [Article L122-21](article-l122-21.md)
 - [Article L122-22](article-l122-22.md)
 - [Article L122-23](article-l122-23.md)
