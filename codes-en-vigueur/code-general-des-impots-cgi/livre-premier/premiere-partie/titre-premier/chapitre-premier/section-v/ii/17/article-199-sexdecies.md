@@ -6,7 +6,7 @@ Dans le cas où le contribuable bénéficie de la réduction prévue au premier 
 
 La réduction d'impôt est égale à 50 % du montant des dépenses effectivement supportées, retenues dans la limite de 7 400 euros et de 10 000 euros pour les dépenses engagées à compter du 1er janvier 2003. Ce plafond est porté à 13 800 euros pour les contribuables mentionnés au 3° de l'article L. 341-4 du code de la sécurité sociale, ainsi que pour les contribuables ayant à leur charge une personne, vivant sous leur toit, mentionnée au 3° dudit article, ou un enfant donnant droit au complément d'allocation d'éducation spéciale prévu par le deuxième alinéa de l'article L. 541-1 du code de la sécurité sociale.
 
-L'aide financière mentionnée à l'article L129-3 du code du travail n'est pas déduite du montant des dépenses mentionnées au troisième alinéa.
+Ainsi qu'il est dit au premier alinéa de l'article L. 129-3 du code du travail, l'aide financière mentionnée à cet article n'est pas déduite du montant des dépenses à retenir pour l'assiette de la réduction d'impôt mentionnée au présent article.
 
 La réduction d'impôt est accordée sur présentation des pièces justifiant du paiement des salaires et des cotisations sociales, de l'identité du bénéficiaire, de la nature et du montant des prestations payées à l'association, l'entreprise ou l'organisme définis au premier alinéa (2).
 

@@ -2,7 +2,9 @@
 
 - [Chapitre VII bis : Taxe sur la publicité télévisée](chapitre-vii-bis)
 - [Chapitre VII ter : Taxe sur les services de télévision](chapitre-vii-ter)
+- [Chapitre VII quater : Taxe sur la publicité diffusée par voie de radiodiffusion sonore et de télévision](chapitre-vii-quater)
 - [Chapitre VIII bis : Taxe sur certaines dépenses de publicité](chapitre-viii-bis)
+- [Chapitre VIII ter : Taxe sur le chiffre d'affaires des exploitants agricoles](chapitre-viii-ter)
 - [Chapitre IX : Redevance sanitaire d'abattage](chapitre-ix)
 - [Chapitre X : Redevance sanitaire de découpage](chapitre-x)
 - [Chapitre X bis : Redevances sanitaires sur les produits de la pêche et de l'aquaculture](chapitre-x-bis)

@@ -1,10 +1,15 @@
 # 3° : Dispositions particulières applicables aux bailleurs de logements intermédiaires et sociaux
 
 - [Article 2 duodecies](article-2-duodecies.md)
+- [Article 2 duodecies A](article-2-duodecies-a.md)
 - [Article 2 terdecies](article-2-terdecies.md)
 - [Article 2 quaterdecies](article-2-quaterdecies.md)
+- [Article 2 quaterdecies A](article-2-quaterdecies-a.md)
+- [Article 2 quaterdecies B](article-2-quaterdecies-b.md)
 - [Article 2 quindecies](article-2-quindecies.md)
 - [Article 2 sexdecies](article-2-sexdecies.md)
+- [Article 2 sexdecies-0 A](article-2-sexdecies-0-a.md)
+- [Article 2 sexdecies-0 A bis](article-2-sexdecies-0-a-bis.md)
 - [Article 2 sexdecies A](article-2-sexdecies-a.md)
 - [Article 2 septdecies](article-2-septdecies.md)
 - [Article 2 octodecies](article-2-octodecies.md)

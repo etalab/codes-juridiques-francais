@@ -14,7 +14,7 @@ d) L'engagement de louer le logement non meublé, pendant une durée de six ans 
 
 2° Une copie du bail ;
 
-3° Une attestation de conformité du logement aux normes définies en annexe au décret n° 99-244 du 29 mars 1999 ou, à défaut, une déclaration sur l'honneur du respect de ces normes ;
+3° Alinéa abrogé.
 
 4° Une copie de l'avis d'imposition ou de non-imposition du locataire établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location.
 

@@ -50,23 +50,23 @@ L'écart constaté entre le taux de la taxe additionnelle à la taxe professionn
 
 1. Cette réduction s'effectue pendant la durée suivante :
 
-- sur une période de dix ans, lorsque le taux le moins élevé résultant des produits votés par chacune des chambres de commerce et d'industrie dissoutes au titre de l'année de la création de la chambre est inférieur à 10 % du taux le plus élevé ;
+a. sur une période de dix ans, lorsque le taux le moins élevé résultant des produits votés par chacune des chambres de commerce et d'industrie dissoutes au titre de l'année de la création de la chambre est inférieur à 10 % du taux le plus élevé ;
 
-- sur neuf ans, lorsque le taux le moins élevé est égal ou supérieur à 10 % du taux le plus élevé et inférieur à 20 % ;
+b. sur neuf ans, lorsque le taux le moins élevé est égal ou supérieur à 10 % du taux le plus élevé et inférieur à 20 % ;
 
-- sur huit ans, lorsque le taux le moins élevé est égal ou supérieur à 20 % du taux le plus élevé et inférieur à 30 % ;
+c. sur huit ans, lorsque le taux le moins élevé est égal ou supérieur à 20 % du taux le plus élevé et inférieur à 30 % ;
 
-- sur sept ans, lorsque le taux le moins élevé est égal ou supérieur à 30 % du taux le plus élevé et inférieur à 40 % ;
+d. sur sept ans, lorsque le taux le moins élevé est égal ou supérieur à 30 % du taux le plus élevé et inférieur à 40 % ;
 
-- sur six ans, lorsque le taux le moins élevé est égal ou supérieur à 40 % du taux le plus élevé et inférieur à 50 % ;
+e. sur six ans, lorsque le taux le moins élevé est égal ou supérieur à 40 % du taux le plus élevé et inférieur à 50 % ;
 
-- sur cinq ans, lorsque le taux le moins élevé est égal ou supérieur à 50 % du taux le plus élevé et inférieur à 60 % ;
+f. sur cinq ans, lorsque le taux le moins élevé est égal ou supérieur à 50 % du taux le plus élevé et inférieur à 60 % ;
 
-- sur quatre ans, lorsque le taux le moins élevé est égal ou supérieur à 60 % du taux le plus élevé et inférieur à 70 % ;
+g. sur quatre ans, lorsque le taux le moins élevé est égal ou supérieur à 60 % du taux le plus élevé et inférieur à 70 % ;
 
-- sur trois ans, lorsque le taux le moins élevé est égal ou supérieur à 70 % du taux le plus élevé et inférieur à 80 % ;
+h. sur trois ans, lorsque le taux le moins élevé est égal ou supérieur à 70 % du taux le plus élevé et inférieur à 80 % ;
 
-- sur deux ans, lorsque le taux le moins élevé est égal ou supérieur à 80 % du taux le plus élevé et inférieur à 90 %.
+i. sur deux ans, lorsque le taux le moins élevé est égal ou supérieur à 80 % du taux le plus élevé et inférieur à 90 %.
 
 Lorsque le taux le moins élevé est égal ou supérieur à 90 % du taux le plus élevé, le taux de la chambre de commerce et d'industrie nouvellement constituée s'applique dès la première année.
 

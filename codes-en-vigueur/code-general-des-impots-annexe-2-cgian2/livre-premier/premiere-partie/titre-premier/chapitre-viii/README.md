@@ -9,4 +9,5 @@
 - [VI : Déduction fiscale pour investissement](vi)
 - [VII : Souscription de parts de copropriété de navires](vii)
 - [VII bis : Sociétés de capital-risque](vii-bis)
+- [VII ter : Fonds communs de placement à risques](vii-ter)
 - [VIII : Réductions d'impôts pour l'achat de biens culturels](viii)

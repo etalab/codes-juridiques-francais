@@ -4,9 +4,9 @@
 
 a. Les titres de participations doivent revêtir la forme nominative ou être déposés dans un établissement désigné par l'administration ;
 
-b. les titres de participation doivent représenter au moins 5 p. 100 du capital de la société émettrice ; ce pourcentage s'apprécie à la date de mise en paiement des produits de la participation.
+b. les titres de participation doivent représenter au moins 5 % du capital de la société émettrice ; ce pourcentage s'apprécie à la date de mise en paiement des produits de la participation.
 
-Si, à la date mentionnée au premier alinéa, la participation dans le capital de la société émettrice est réduite à moins de 5 p. 100 du fait de l'exercice d'options de souscription d'actions dans les conditions prévues à l'article L. 225-183 du code de commerce, le régime des sociétés mères lui reste applicable si ce pourcentage est à nouveau atteint à la suite de la première augmentation de capital suivant cette date et au plus tard dans un délai de trois ans ;
+Si, à la date mentionnée au premier alinéa, la participation dans le capital de la société émettrice est réduite à moins de 5 % du fait de l'exercice d'options de souscription d'actions dans les conditions prévues à l'article L. 225-183 du code de commerce, le régime des sociétés mères lui reste applicable si ce pourcentage est à nouveau atteint à la suite de la première augmentation de capital suivant cette date et au plus tard dans un délai de trois ans ;
 
 c. Les titres de participations doivent avoir été souscrits à l'émission. A défaut, la personne morale participante doit avoir pris l'engagement de les conserver pendant un délai de deux ans.
 
@@ -42,6 +42,8 @@ f. (abrogé pour les exercices ouverts à compter du 1er janvier 2000).
 
 g. Aux produits et plus-values nets distribués par les sociétés de capital-risque exonérés en application du 3° septies de l'article 208.
 
+h. aux bénéfices distribués aux actionnaires des sociétés d'investissements immobiliers cotées et de leurs filiales visées à l'article 208 C et prélevés sur les bénéfices exonérés en application du premier alinéa du II de cet article.
+
 7. Le régime fiscal des sociétés mères ne peut s'appliquer aux produits des actions des sociétés immobilières d'investissement régies par le I de l'article 33 de la loi n° 63-254 du 15 mars 1963 et des sociétés immobilières de gestion régies par l'article 1er du décret n° 63-683 du 13 juillet 1963 que dans les cas et pendant les périodes ci-après :
 
 1° Pendant vingt-cinq ans à compter de leur émission, pour les actions souscrites en espèces et entièrement libérées par les sociétés participantes avant le 1er janvier 1966 ;
@@ -50,7 +52,7 @@ g. Aux produits et plus-values nets distribués par les sociétés de capital-ri
 
 3° Jusqu'au 31 décembre 1985, pour les actions acquises ou souscrites et libérées par les sociétés participantes avant la promulgation de la loi n° 63-254 du 15 mars 1963, dans le capital de sociétés immobilières conventionnées admises à bénéficier des dispositions de l'ordonnance n° 58-876 du 24 septembre 1958.
 
-En ce qui concerne les actions visées aux 1°, aucun pourcentage minimal de participation n'est exigé pour l'application du régime défini au présent article.
+En ce qui concerne les actions visées au 1°, aucun pourcentage minimal de participation n'est exigé pour l'application du régime défini au présent article.
 
 8. (Transféré sous le paragraphe 6 d ci-dessus).
 

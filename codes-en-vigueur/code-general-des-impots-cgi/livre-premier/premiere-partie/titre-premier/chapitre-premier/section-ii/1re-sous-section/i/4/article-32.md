@@ -18,4 +18,4 @@ d) Parts de sociétés, autres que celles visées à l'article 1655 ter, qui don
 
 4. Les contribuables qui souhaitent renoncer au bénéfice des dispositions du 1 peuvent opter pour la détermination de leur revenu net foncier dans les conditions prévues aux articles 28 et 31.
 
-L'option est exercée pour une période de cinq ans dans le délai prévu pour le dépôt de la déclaration mentionnée à l'article 170 de la première année au titre de laquelle elle s'applique. Irrévocable durant cette période, elle est valable tant que le contribuable reste de manière continue dans le champ d'application du 1 (2).
+L'option est exercée pour une période de trois ans dans le délai prévu pour le dépôt de la déclaration mentionnée à l'article 170 de la première année au titre de laquelle elle s'applique. Irrévocable durant cette période, elle est valable tant que le contribuable reste de manière continue dans le champ d'application du 1 (2).

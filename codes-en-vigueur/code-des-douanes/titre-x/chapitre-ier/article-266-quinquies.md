@@ -14,4 +14,4 @@ b) Comme combustible pour la fabrication sous le régime de l'usine exercée des
 
 4. Les livraisons taxables sont exprimées en milliers de kilowatt/heures, après arrondissement au millier le plus voisin.
 
-5. (alinéa supprimé).
+5. Le tarif de la taxe est fixé à 1,19 euros par millier de kilowattheures.

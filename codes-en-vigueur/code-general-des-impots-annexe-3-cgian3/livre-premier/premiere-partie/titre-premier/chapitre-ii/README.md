@@ -10,6 +10,7 @@
 - [Section II quinquies : Entreprises implantées en Corse](section-ii-quinquies)
 - [Section III : Restitution d'impôts consécutive au remboursement des sommes visées à l'article 111 du code général des impôts](section-iii)
 - [Section V bis : Crédit d'impôt pour dépenses de formation.](section-v-bis)
+- [Section V quater : Crédit d'impôt pour certains investissements réalisés et exploités en Corse](section-v-quater)
 - [Section VI : Indemnités de congé payé](section-vi)
 - [Section VII : Opérations de crédit-bail](section-vii)
 - [Section 0I bis : Personnes morales passibles de l'impôt sur les sociétés, ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble](section-0i-bis)

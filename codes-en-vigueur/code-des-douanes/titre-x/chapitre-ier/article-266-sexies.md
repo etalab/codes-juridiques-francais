@@ -22,11 +22,11 @@ b) Toute personne qui extrait, produit ou introduit, en provenance d'un autre Et
 
 8. a. Tout exploitant d'un établissement industriel ou commercial ou d'un établissement public à caractère industriel et commercial dont certaines installations sont soumises à autorisation au titre du livre V (titre Ier) du code de l'environnement ;
 
-b. Tout exploitant d'un établissement mentionné au a dont les activités, figurant sur une liste établie par décret en Conseil d'Etat après avis du Conseil supérieur des installations classées, font courir, par leur nature ou leur volume, des risques particuliers à l'environnement ;
+b. Tout exploitant d'un établissement mentionné au a dont les activités, figurant sur une liste établie par décret en Conseil d'Etat après avis du Conseil supérieur des installations classées, font courir, par leur nature ou leur volume, des risques particuliers à l'environnement.
 
 II. - La taxe ne s'applique pas :
 
-1. Aux installations d'élimination de déchets industriels spéciaux exclusivement affectées à la valorisation comme matière ;
+1. Aux installations d'élimination de déchets industriels spéciaux exclusivement affectées à la valorisation comme matière ni aux installations d'élimination de déchets exclusivement affectées à l'amiante-ciment ;
 
 2. a. Aux aéronefs de masse maximale au décollage inférieure à deux tonnes ;
 
@@ -37,3 +37,5 @@ b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protect
 4. Aux lubrifiants, aux préparations pour lessives, y compris les préparations auxiliaires de lavage, aux produits adoucissants ou assouplissants pour le linge, aux matériaux d'extraction, aux produits antiparasitaires à usage agricole et aux produits assimilés mentionnés respectivement au a du 4 et aux 5, 6 et 7 du I du présent article lorsque la première livraison après fabrication nationale consiste en une expédition directe à destination d'un Etat membre de la Communauté européenne ou en une exportation ;
 
 5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers.
+
+III. - Sont exonérées de la taxe mentionnée au I, dans la limite de 20 % de la quantité annuelle totale de déchets reçus par installation, les réceptions de matériaux ou déchets inertes. Sont considérés comme déchets inertes les déchets qui ne se décomposent pas, ne brûlent pas et ne produisent aucune autre réaction physique ou chimique, ne sont pas biodégradables et ne détériorent pas d'autres matières avec lesquelles ils entrent en contact, d'une manière susceptible d'entraîner une pollution de l'environnement ou de nuire à la santé humaine.

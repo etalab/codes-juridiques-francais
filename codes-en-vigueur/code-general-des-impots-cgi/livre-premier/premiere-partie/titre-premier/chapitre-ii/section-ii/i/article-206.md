@@ -44,6 +44,8 @@ c. Des revenus de capitaux mobiliers dont ils disposent, à l'exception des divi
 
 d. Des dividendes des sociétés immobilières et des sociétés agréées visées aux 3° ter à 3° sexies de l'article 208 et à l'article 208 B perçus à compter du 1er janvier 1987. Ces dividendes sont comptés dans le revenu imposable pour leur montant brut.
 
+e. des dividendes des sociétés d'investissements immobiliers cotées visées à l'article 208 C et prélevés sur les bénéfices exonérés en application du premier alinéa du II de cet article.
+
 5 bis. Les associations intermédiaires conventionnées, visées à l'article L. 322-4-16-3 du code du travail, dont la gestion est désintéressée et les associations de services aux personnes, agréées en application de l'article L129-1 du même code sont soumises à l'impôt sur les sociétés dans les conditions prévues au 5.
 
 6. 1° La caisse nationale de crédit agricole, les caisses régionales de crédit agricole mutuel mentionnées à l'article L. 512-21 du code monétaire et financier et les caisses locales de crédit agricole mutuel affiliées à ces dernières sont assujetties à l'impôt sur les sociétés dans les conditions de droit commun.
@@ -64,4 +66,4 @@ Un décret fixe les conditions d'application du présent 9 (5).
 
 10. Les caisses d'épargne et de prévoyance et les caisses de crédit municipal sont assujetties à l'impôt sur les sociétés ;
 
-11. (abrogé).
+11. (abrogé à compter de la date d'entrée en vigueur de la loi n° 2002-73 du 17 janvier 2002).<RL

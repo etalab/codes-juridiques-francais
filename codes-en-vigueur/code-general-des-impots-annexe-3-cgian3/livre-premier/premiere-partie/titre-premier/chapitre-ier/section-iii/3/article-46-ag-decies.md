@@ -2,21 +2,21 @@
 
 I. Pour l'application du 3° du 3 de l'article 199 undecies du code général des impôts, les montants annuels du loyer et des ressources du locataire ne peuvent excéder les limites suivantes :
 
-1. Pour les baux conclus en 2002, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface habitable à :
+1. Pour les baux conclus en 2003, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface habitable à :
 
-1° 123 Euros dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte. Ce plafond est révisé chaque année le 1er janvier dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation hors tabac de chacun des quatre départements d'outre-mer ;
+1° 126 euros dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte. Ce plafond est révisé chaque année le 1er janvier dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation hors tabac de chacun des quatre départements d'outre-mer ;
 
-2° 164 Euros dans les territoires d'outre-mer et dans la collectivité territoriale de Saint-Pierre-et-Miquelon. Ce plafond est révisé chaque année le 1er janvier dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
+2° 169 euros dans les territoires d'outre-mer et dans la collectivité territoriale de Saint-Pierre-et-Miquelon. Ce plafond est révisé chaque année le 1er janvier dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
 
 Pour le calcul de ces plafonds, il est fait application de la dernière variation annuelle publiée par l'Institut national de la statistique et des études économiques au 1er décembre de l'année qui précède celle de la conclusion du bail.
 
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Pour les baux conclus en 2002, les plafonds annuels de ressources sont fixés à :
+Pour les baux conclus en 2003, les plafonds annuels de ressources sont fixés à :
 
-1°  21 808 Euros pour une personne seule et 43 616 Euros pour un couple marié soumis à imposition commune dans les départements d'outre-mer et la collectivité territoriale de Mayotte. Ces sommes sont majorées de 2 523 Euros par personne à charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 3 371 Euros par enfant à partir du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1.
+1°  22 330 euros pour une personne seule et 44 660 euros pour un couple marié soumis à imposition commune dans les départements d'outre-mer et la collectivité territoriale de Mayotte. Ces sommes sont majorées de 2 584 euros par personne à charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 3 452 euros par enfant à partir du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1.
 
-2° 21 851 Euros pour une personne seule et 43 702 Euros pour un couple marié soumis à imposition commune dans les territoires d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon. Ces sommes sont majorées de 2 528 Euros par personne à charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 3 378 Euros par enfant à partir du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1.
+2° 22 446 euros pour une personne seule et 44 892 euros pour un couple marié soumis à imposition commune dans les territoires d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon. Ces sommes sont majorées de 2 597 euros par personne à charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 3 470 Euros par enfant à partir du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1.
 
 3. Dans le cas mentionné au troisième alinéa du 4 de l'article 199 undecies du code général des impôts, les conditions prévues au 1 et au 2 s'apprécient en tenant compte du montant :
 
