@@ -1,12 +1,8 @@
 # Chapitre Ier : Affranchissement.
 
-- [Article D37](article-d37.md)
 - [Article D38](article-d38.md)
-- [Article D40](article-d40.md)
 - [Article D41](article-d41.md)
-- [Article D41-1](article-d41-1.md)
 - [Article D42](article-d42.md)
-- [Article D43](article-d43.md)
 - [Article D44](article-d44.md)
 - [Article D45](article-d45.md)
 - [Article D46](article-d46.md)
