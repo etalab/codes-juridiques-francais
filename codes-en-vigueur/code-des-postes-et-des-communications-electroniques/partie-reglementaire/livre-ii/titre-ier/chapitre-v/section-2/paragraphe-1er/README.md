@@ -1,5 +1,8 @@
 # Paragraphe 1er : Régime général.
 
+- [Article D369](article-d369.md)
+- [Article D370](article-d370.md)
+- [Article D371](article-d371.md)
 - [Article D374](article-d374.md)
 - [Article D375](article-d375.md)
 - [Article D376](article-d376.md)
