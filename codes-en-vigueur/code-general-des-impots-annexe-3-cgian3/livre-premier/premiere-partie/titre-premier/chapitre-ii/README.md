@@ -8,3 +8,4 @@
 - [Section V : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales.](section-v)
 - [Section 0I bis : Personnes morales passibles de l'impôt sur les sociétés, ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble](section-0i-bis)
 - [Section 0I ter : Déductions fiscales ou réductions d'impôt accordées au titre de certains investissements réalisés outre-mer](section-0i-ter)
+- [Section 0I quater : Financement en capital d'oeuvres cinématographiques ou audiovisuelles](section-0i-quater)

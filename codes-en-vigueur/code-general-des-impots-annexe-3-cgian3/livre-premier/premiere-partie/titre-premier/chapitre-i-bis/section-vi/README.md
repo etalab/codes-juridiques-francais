@@ -1,5 +1,6 @@
 # Section VI : Report en arrière des déficits
 
+- [I : Sociétés agréées au régime du bénéfice consolidé](i)
 - [II : Sociétés agréées au régime de l'intégration fiscale.](ii)
 - [Article 46 quater-0 V](article-46-quater-0-v.md)
 - [Article 46 quater-0 T](article-46-quater-0-t.md)

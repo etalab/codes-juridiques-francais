@@ -6,3 +6,4 @@
 - [Section IV : Modalités d'application du précompte.](section-iv)
 - [Section V : Profits de construction](section-v)
 - [Section VI : Report en arrière des déficits](section-vi)
+- [Section VII : Bénéfice imposable des caisses de crédit mutuel agricole et rural](section-vii)
