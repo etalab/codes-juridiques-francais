@@ -1,5 +1,6 @@
 # Section II : Taxe professionnelle
 
+- [I : Dispositions générales](i)
 - [II : Exonérations](ii)
 - [III : Base d'imposition](iii)
 - [IV : Disposition transitoire](iv)

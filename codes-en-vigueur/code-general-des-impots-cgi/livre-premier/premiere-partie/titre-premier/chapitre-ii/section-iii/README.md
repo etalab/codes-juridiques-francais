@@ -11,6 +11,8 @@
 - [Article 210 quinquies](article-210-quinquies.md)
 - [Article 210 sexies](article-210-sexies.md)
 - [Article 210 B](article-210-b.md)
+- [Article 211](article-211.md)
+- [Article 211 bis](article-211-bis.md)
 - [Article 211 ter](article-211-ter.md)
 - [Article 213](article-213.md)
 - [Article 216](article-216.md)
