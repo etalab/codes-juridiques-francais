@@ -14,12 +14,22 @@ Toutefois, en cas de liquidation d'entreprise au cours d'un exercice ouvert à c
 
 A raison de quinze quarante-cinquièmes de son montant pour les moins-values subies au cours d'un exercice clos avant le 1er janvier 1984.
 
-A raison de seize quarante-cinquièmes de son montant pour les  moins-values subies au cours d'un exercice clos à compter du 1er  janvier 1984.
+A raison de seize quarante-cinquièmes de son montant pour les moins-values subies au cours d'un exercice clos à compter du 1er janvier 1984.
 
-En cas de liquidation d'entreprise au cours d'un exercice ouvert à compter du 1er janvier 1988, l'excédent des moins-values à long terme peut être déduit du bénéfice de l'exercice de liquidation à raison des quinze quarante-deuxièmes de son montant selon que les moins-values ont été subies au cours d'un exercice clos avant le 1er janvier 1984 ou à compter de cette date.    En cas de liquidation d'entreprise au cours d'un exercice ouvert à compter du 1er janvier 1989, l'excédent des moins-values à long terme sur les plus-values à long terme peut être déduit du bénéfice de l'exercice de liquidation à raison des quinze trente-neuvièmes ou des seize trente-neuvièmes de son montant selon que les moins-values ont été subies au cours d'un exercice clos avant le 1er janvier 1984 ou à compter de cette date.
+En cas de liquidation d'entreprise au cours d'un exercice ouvert à compter du 1er janvier 1988, l'excédent des moins-values à long terme peut être déduit du bénéfice de l'exercice de liquidation à raison des quinze quarante-deuxièmes de son montant selon que les moins-values ont été subies au cours d'un exercice clos avant le 1er janvier 1984 ou à compter de cette date.
+
+En cas de liquidation d'entreprise au cours d'un exercice ouvert à compter du 1er janvier 1989, l'excédent des moins-values à long terme sur les plus-values à long terme peut être déduit du bénéfice de l'exercice de liquidation à raison des quinze trente-neuvièmes ou des seize trente-neuvièmes de son montant selon que les moins-values ont été subies au cours d'un exercice clos avant le 1er janvier 1984 ou à compter de cette date.
+
+En cas de liquidation d'entreprise au cours d'un exercice ouvert à compter du 1er janvier 1990, l'excédent des moins-values à long terme sur les plus-values à long terme peut être déduit du bénéfice de l'exercice de liquidation à raison des quinze trente-septièmes ou des seize trente-septièmes de son montant selon que les moins-values ont été subies au cours d'un exercice clos avant le 1er janvier 1984 ou à compter de cette date.
+
+En cas de liquidation d'entreprise au cours d'un exercice ouvert à compter du 1er janvier 1991, l'excédent des moins-values à long terme sur les plus-values à long terme peut être déduit du bénéfice de l'exercice de liquidation à raison des quinze trente-quatrièmes ou des seize trente-quatrièmes de son montant selon que les moins-values ont été subies au cours d'un exercice clos avant le 1er janvier 1984 ou à compter de cette date.
 
 II. 1. Le montant net des plus-values à long terme qui proviennent de la cession de terrains ou d'immeubles assimilés, tels qu'ils sont définis au I de l'article 691, est taxé au taux de 26 %.
 
 Ce montant peut être compensé avec le déficit d'exploitation de l'exercice, mais ne peut être diminué du montant des moins-values afférentes aux autres éléments de l'actif immobilisé.
 
 2. Les dispositions du 1 sont applicables aux plus-values afférentes aux titres des sociétés dont l'actif est constitué principalement par des biens définis au I de l'article 691.
+
+3. Pour l'application des dispositions des 1 et 2, les terrains expropriés qui ne remplissent pas les conditions mentionnées aux a et b du II de l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique ne sont pas considérés comme des biens entrant dans le champ d'application de l'article 691 (1).
+
+(1) Disposition applicable aux plus-values réalisées à compter du 1er janvier 1991.

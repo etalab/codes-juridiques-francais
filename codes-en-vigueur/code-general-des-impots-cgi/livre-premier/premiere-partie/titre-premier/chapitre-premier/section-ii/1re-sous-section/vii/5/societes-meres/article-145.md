@@ -26,7 +26,7 @@ b bis. Aux dividendes déduits, en application des dispositions de l'article 214
 
 b ter. Aux produits des actions à dividende prioritaire sans droit de vote prévues par l'article 177-1 de la loi n° 66-537 du 24 juillet 1966 (2).
 
-c. (Périmé)    d. Sous réserve des dispositions du troisième alinéa du 3° quater de l'article 208, aux produits des actions des sociétés immobilières pour le commerce et l'industrie visées à l'article 5 de l'ordonnance n° 67-837 du 28 septembre 1967.
+c. (Périmé)    d. Aux dividendes distribués aux actionnaires des sociétés immobilières pour le commerce et l'industrie visés au cinquième alinéa du 3° quater de l'article 208 et prélevés sur les bénéfices exonérés visés au quatrième alinéa du 3° quater du même article. "
 
 e. Aux dividendes distribués aux actionnaires des sociétés agréées pour le financement des télécommunications visées à l'article 1er de la loi n° 69-1160 du 24 décembre 1969 et des sociétés qui redistribuent les dividendes d'une société immobilière pour le commerce et l'industrie en application du quatrième alinéa de l'article 208-3° quinquies.RL>    f. Aux produits distribués aux associés des sociétés agréées pour le financement des économies d'énergie (Sofergie) et résultant de l'exercice des activités exonérées en application du 3° sexies de l'article 208 ;    g. Aux produits et plus-values nets distribués par les sociétés de capital-risque exonérés en application du 3° septies de l'article 208.
 

@@ -8,5 +8,6 @@
 - [Section VI : Redevables de la taxe](section-vi)
 - [Section VII : Obligations des redevables](section-vii)
 - [Section VIII : Importations](section-viii)
+- [Section VIII bis : Franchise en base](section-viii-bis)
 - [Section IX : Régimes spéciaux](section-ix)
 - [Section X : Modalités d'application](section-x)

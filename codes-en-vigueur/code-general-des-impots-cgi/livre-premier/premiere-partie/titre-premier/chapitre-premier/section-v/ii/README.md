@@ -1,6 +1,7 @@
 # II : Impôt sur le revenu
 
 - [1° : Imputation des retenues à la source et crédits d'impôt](1)
+- [3° : Réduction d'impôt accordée au titre des cotisations versées aux organisations syndicales](3)
 - [9° : Réduction d'impôt accordée au titre de certaines primes d'assurances](9)
 - [Article 193](article-193.md)
 - [Article 193 bis](article-193-bis.md)
@@ -17,6 +18,6 @@
 - [Article 199](article-199.md)
 - [15° ter : Réduction d'impôt accordée au titre de l'aide à domicile et de l'hébergement en établissement de long séjour.](15-ter)
 - [Imputation des retenues à la source et crédits d'impôt.](imputation-des-retenues-a)
-- [Réduction d'impôt accordée au titre des dépenses afférentes à l'habitation principale.](reduction-d-impot-accordee-au-titre)
+- [Réduction d'impôt accordée au titre de l'hébergement en établissement de long séjour ou en section de cure médicale](reduction-d-impot-accordee-au-titre)
 - [Réduction d'impôt au titre des souscriptions au capital de sociétés nouvelles](reduction-d-impot-au-titre)
 - [Réduction d'impôt accordée aux adhérents de centres de gestion ou d'associations agréés.](reduction-d-impot-accordee-aux)

@@ -1,4 +1,4 @@
-# Réduction d'impôt accordée au titre des dépenses afférentes à l'habitation principale.
+# Réduction d'impôt accordée au titre de l'hébergement en établissement de long séjour ou en section de cure médicale
 
 - [Article 199 quater C](article-199-quater-c.md)
 - [Article 199 quater D](article-199-quater-d.md)
@@ -12,4 +12,5 @@
 - [Article 199 decies](article-199-decies.md)
 - [Article 199 decies A](article-199-decies-a.md)
 - [Article 199 undecies](article-199-undecies.md)
+- [Article 199 quindecies](article-199-quindecies.md)
 - [Article 200](article-200.md)

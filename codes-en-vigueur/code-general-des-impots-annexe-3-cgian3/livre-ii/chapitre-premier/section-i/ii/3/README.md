@@ -8,4 +8,6 @@
 - [Article 363](article-363.md)
 - [Article 364](article-364.md)
 - [Article 365](article-365.md)
+- [Article 365 bis](article-365-bis.md)
 - [Article 366](article-366.md)
+- [Article 366 A](article-366-a.md)

@@ -1,4 +1,6 @@
 # XI : Dispositions communes aux différentes catégories de revenus
 
 - [3° : Obligations des gestionnaires de fonds salariaux.](3)
-- [4° : Versements à fonds perdus en faveur de la construction](4)
+- [4° : Locations ou sous-locations en faveur des personnes défavorisées : obligations des contribuables exonérés d'impôt sur le revenu.](4)
+- [6° : Locations ou sous-locations en faveur des personnes défavorisées : obligations des contribuables exonérés d'impôt sur le revenu.](6)
+- [Locations ou sous-locations en faveur des personnes défavorisées : obligations des contribuables exonérés d'impôt sur le revenu.](locations-ou)

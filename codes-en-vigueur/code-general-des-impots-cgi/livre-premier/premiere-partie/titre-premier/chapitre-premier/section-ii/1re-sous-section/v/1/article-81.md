@@ -1,6 +1,6 @@
 # Article 81
 
-Sont affranchis de l'impôt [*exonérations*] :
+Sont affranchis de l'impôt *exonérations* :
 
 1° Les allocations spéciales destinées à couvrir les frais inhérents à la fonction ou à l'emploi et effectivement utilisées conformément à leur objet ;
 
@@ -8,7 +8,7 @@ Sont affranchis de l'impôt [*exonérations*] :
 
 b (Transféré sous l'article 80 ter-b) ;
 
-2° Les prestations familiales énumérées par l'article L 511-1 du code de la sécurité sociale, l'allocation de salaire unique, l'allocation de la mère au foyer et l'allocation pour frais de garde, maintenues dans le cadre des articles 12 et 13 de la loi n° 77-765 du 12 juillet 1977 instituant le complément familial, l'allocation aux adultes handicapés, les suppléments de revenu familial prévus par la loi n° 80-545 du 17 juillet 1980 portant diverses dispositions en vue d'améliorer la situation des familles nombreuses ;
+2° Les prestations familiales énumérées par l'article L. 511-1 du code de la sécurité sociale, l'aide à la famille pour l'emploi d'une assistante maternelle agréée et l'allocation de garde d'enfant à domicile visées respectivement aux articles L. 841-1 et L. 842-1 du même code, l'allocation de salaire unique, l'allocation de salaire unique, l'allocation de la mère au foyer et l'allocation pour frais de garde, maintenues dans le cadre des articles 12 et 13 de la loi n° 77-765 du 12 juillet 1977 instituant le complément familial, l'allocation aux adultes handicapés, les suppléments de revenu familial prévus par la loi n° 80-545 du 17 juillet 1980 portant diverses dispositions en vue d'améliorer la situation des familles nombreuses ;
 
 2° bis L'allocation de logement prévue par les articles L831-1 à L831-7 du code de la sécurité sociale, ainsi que le montant de l'aide personnalisée au logement prévue par les articles L 351-1 à L 351-14 du code de la construction et de l'habitation ;
 
@@ -44,7 +44,7 @@ b (Transféré sous l'article 80 ter-b) ;
 
 15° Les prestations, visées à l'article 20 de la loi n° 62-933 du 8 août 1962 complémentaire à la loi d'orientation agricole, dans le cadre de l'entraide entre agriculteurs.
 
-Ces dispositions pourront être étendues par décret en conseil d'Etat (1) aux départements d'outre-mer [*DOM*] ;
+Ces dispositions pourront être étendues par décret en conseil d'Etat (1) aux départements d'outre-mer *DOM* ;
 
 16° L'attribution gratuite par une société à l'ensemble de son personnel d'actions ou parts sociales de son capital dans les conditions prévues à l'article 220 bis ;
 
@@ -58,9 +58,11 @@ Ces dispositions pourront être étendues par décret en conseil d'Etat (1) aux 
 
 17° ter Le versement complémentaire effectué par les sociétés coopératives ouvrières de production en application de l'article 40 de la loi n° 78-763 du 19 juillet 1978 portant statut de ces sociétés, à l'occasion de l'émission de parts sociales destinées exclusivement à leurs salariés ;
 
-18° Les sommes versées par l'entreprise en application d'un plan d'épargne d'entreprise établi conformément aux dispositions du chapitre III de l'ordonnance n° 86-1134 du 21 octobre 1986.
+18° Les sommes versées par l'entreprise en application d'un plan d'épargne d'entreprise établi conformément aux dispositions du chapitre III de l'ordonnance n° 86-1134 du 21 octobre 1986 modifiée ;
 
 18° bis Dans la limite d'un montant égal à la moitié du plafond annuel moyen retenu pour le calcul des cotisations de sécurité sociale, les sommes reçues au titre de l'intéressement et affectées à la réalisation d'un plan d'épargne d'entreprise ;
+
+Les dispositions de l'alinéa précédent bénéficient également, dans les mêmes conditions et limites aux dividendes des actions de travail attribuées aux salariés des sociétés anonymes à participation ouvrière régies par la loi du 26 avril 1917, à compter du 1er janvier 1991 ;
 
 19° Dans la limite de 21,50 F [*montant*] par titre (2), le complément de rémunération résultant de la contribution de l'employeur à l'acquisition par le salarié des titres-restaurant émis conformément aux dispositions du titre III de l'ordonnance n° 67-830 du 27 septembre 1967, lorsque cette contribution est comprise entre un minimum et un maximum fixés par arrêté du ministre de l'économie et des finances (3).
 
@@ -70,16 +72,28 @@ Cette exonération est subordonnée à la condition que le salarié se conforme 
 
 20° Les attributions gratuites d'actions :
 
-a. De la Régie nationale des usines Renault faites à des salariés de la Régie en application de l'article 2 de la loi n° 70-11 du 2 janvier 1970 ;    b. (Abrogé).    c. Des sociétés centrales d'assurances définies à l'article L 322-12 du code des assurances, faites au personnel des entreprises nationales d'assurances en application des articles L 322-13 et L 322-22 du code précité ;    d. De la société nationale d'étude et de construction de moteurs d'aviation *SNECMA* et de la société nationale industrielle aérospatiale *SNIAS*, faites au personnel de ces entreprises en application de l'article 1er de la loi n° 73-9 du 4 janvier 1973.    21° (Abrogé).    22° Les indemnités de départ en retraite, prévues au premier alinéa de l'article L122-14-13 du code du travail (6) dans la limite de 20 000 F.    23° L'indemnité compensatoire pour frais de transport instituée par les décrets n°s 89-251 du 20 avril 1989, 89-372 du 8 juin 1989 et 89-537 du 3 août 1989.
+a. (Abrogé);    b. (Abrogé).
+
+c. Des sociétés centrales d'assurances définies à l'article L 322-12 du code des assurances, faites au personnel des entreprises nationales d'assurances en application des articles L 322-13 et L 322-22 du code précité ;
+
+d. De la société nationale d'étude et de construction de moteurs d'aviation *SNECMA* et de la société nationale industrielle aérospatiale *SNIAS*, faites au personnel de ces entreprises en application de l'article 1er de la loi n° 73-9 du 4 janvier 1973.
+
+21° (Abrogé).
+
+22° Les indemnités de départ en retraite, prévues au premier alinéa de l'article L122-14-13 du code du travail (6) dans la limite de 20 000 F.
+
+23° L'indemnité compensatoire pour frais de transport instituée par les décrets n°s 89-251 du 20 avril 1989, 89-372 du 8 juin 1989 et 89-537 du 3 août 1989.
 
 (1) Voir décret n° 64-285 du 2 avril 1964 (J.O. du 4).
 
-(2) Chiffre applicable depuis le 1er janvier 1990 ; cette limite        était antérieurement de 18 F.
+(2) Chiffre applicable depuis le 1er janvier 1990 ; cette limite était antérieurement de 18 F.
 
 (3) Annexe IV, art. 23 M.
 
 (4) Annexe II, art. 39.
 
-(5) Modifiée par l'article 31-II-1 de la loi n° 83-1179 du 29        décembre 1983.
+(5) Modifiée par l'article 31-II-1 de la loi n° 83-1179 du 29 décembre 1983.
 
 (6) Code du travail, art. L122-14-13.
+
+(+) En ce qui concerne la taxe sur les salaires, voir art. 231.

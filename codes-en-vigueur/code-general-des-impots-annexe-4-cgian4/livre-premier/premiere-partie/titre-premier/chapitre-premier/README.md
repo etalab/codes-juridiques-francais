@@ -6,3 +6,4 @@
 - [Section II : Traitements et salaires](section-ii)
 - [Section III : Revenus des capitaux mobiliers](section-iii)
 - [Section III bis : Revenu global](section-iii-bis)
+- [Section IV : Calcul de l'impôt](section-iv)
