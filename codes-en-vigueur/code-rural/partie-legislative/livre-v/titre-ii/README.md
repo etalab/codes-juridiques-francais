@@ -8,3 +8,4 @@
 - [Chapitre VI : Dissolution, liquidation.](chapitre-vi)
 - [Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle](chapitre-vii)
 - [Chapitre IX : Dispositions pénales, dispositions d'application.](chapitre-ix)
+- [Chapitre X : Dispositions particulières à la collectivité territoriale de Mayotte.](chapitre-x)
