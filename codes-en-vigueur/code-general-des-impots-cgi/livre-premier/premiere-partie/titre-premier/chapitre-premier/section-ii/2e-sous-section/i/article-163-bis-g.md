@@ -8,7 +8,7 @@ II. - Les sociétés par actions dont les titres ne sont pas admis aux négociat
 
 1. La société doit être passible en France de l'impôt sur les sociétés ;
 
-2. Le capital de la société doit être détenu directement et de manière continue pour 25 % au moins par des personnes physiques ou par des personnes morales détenues par des personnes physiques. Pour la détermination de ce pourcentage, les participations des sociétés de capital-risque, des sociétés de développement régional et des sociétés financières d'innovation ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 1 bis de l'article 39 terdecies entre la société bénéficiaire de l'apport et ces dernières sociétés. De même, ce pourcentage ne tient pas compte des participations des fonds communs de placement à risques ou des fonds communs de placement dans l'innovation ;
+2. Le capital de la société doit être détenu directement et de manière continue pour 25 % au moins par des personnes physiques ou par des personnes morales détenues par des personnes physiques. Pour la détermination de ce pourcentage, les participations des sociétés de capital-risque, des sociétés de développement régional et des sociétés financières d'innovation ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la société bénéficiaire de l'apport et ces dernières sociétés. De même, ce pourcentage ne tient pas compte des participations des fonds communs de placement à risques ou des fonds communs de placement dans l'innovation ;
 
 3. La société n'a pas été créée dans le cadre d'une concentration, d'une restructuration, d'une extension ou d'une reprise d'activités préexistantes, sauf si elle répond aux conditions prévues par le I de l'article 39 quinquies H.
 
@@ -18,6 +18,4 @@ L'assemblée générale extraordinaire peut déléguer au conseil d'administrati
 
 IV. - Un décret précise les modalités d'application du présent article, notamment les obligations déclaratives incombant aux titulaires des bons et aux sociétés émettrices.
 
-V. - Abrogé (1).
-
-(1) Ces dispositions s'appliquent à compter du 27 avril 2000.
+V. (Abrogé à compter du 27 avril 2000).
