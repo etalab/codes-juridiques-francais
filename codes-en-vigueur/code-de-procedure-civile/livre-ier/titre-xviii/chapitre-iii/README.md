@@ -8,3 +8,4 @@
 - [Article 714](article-714.md)
 - [Article 715](article-715.md)
 - [Article 717](article-717.md)
+- [Article 718](article-718.md)
