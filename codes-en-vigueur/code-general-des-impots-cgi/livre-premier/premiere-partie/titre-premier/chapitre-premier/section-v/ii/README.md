@@ -1,18 +1,14 @@
 # II : Impôt sur le revenu
 
 - [1° : Imputation des retenues à la source et crédits d'impôt](1)
-- [11° : Réduction d'impôt accordée au titre des investissements immobiliers locatifs réalisés dans des résidences de tourisme classées dans les zones de revitalisation rurale.](11)
 - [12° : Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer](12)
 - [14° : Réduction d'impôt accordée au titre des souscriptions en numéraire au capital des sociétés ainsi qu'au titre des souscriptions de parts de fonds communs de placement dans l'innovation](14)
 - [15° : Réduction d'impôt accordée au titre du rachat d'une entreprise par ses salariés](15)
 - [16° : Réduction d'impôt accordée au titre des dépenses afférentes à la dépendance](16)
 - [17° : Réduction ou crédit d'impôt accordé au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet](17)
-- [18° : Réduction d'impôt accordée au titre des intérêts des prêts à la consommation](18)
 - [19° : Réduction d'impôt accordée au titre des prestations compensatoires réglées en capital ou par attribution d'un bien ou d'un droit](19)
 - [2° : Réduction d'impôt accordée aux adhérents de centres de gestion ou d'associations agréés](2)
 - [20° : Réduction d'impôt accordée au titre des dons faits par les particuliers](20)
-- [21° : Crédit d'impôt accordé au titre des dépenses d'entretien afférentes à l'habitation principale.](21)
-- [22° : Crédit d'impôt pour l'acquisition de certains gros équipements.](22)
 - [24° : Crédit d'impôt pour l'acquisition ou la location de certains véhicules automobiles.](24)
 - [3° : Réduction d'impôt accordée au titre des cotisations versées aux organisations syndicales](3)
 - [4° : Réduction d'impôt accordée au titre des frais de garde des jeunes enfants.](4)

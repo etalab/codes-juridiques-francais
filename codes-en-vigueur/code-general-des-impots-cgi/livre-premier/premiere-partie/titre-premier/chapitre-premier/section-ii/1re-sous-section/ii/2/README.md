@@ -27,7 +27,6 @@
 - [Article 39 quinquies E](article-39-quinquies-e.md)
 - [Article 39 quinquies F](article-39-quinquies-f.md)
 - [Article 39 quinquies FA](article-39-quinquies-fa.md)
-- [Article 39 quinquies FB](article-39-quinquies-fb.md)
 - [Article 39 quinquies FC](article-39-quinquies-fc.md)
 - [Article 39 quinquies G](article-39-quinquies-g.md)
 - [Article 39 quinquies GA](article-39-quinquies-ga.md)

@@ -13,7 +13,6 @@
 - [19° : Zones à urbaniser](19)
 - [2° : Crédit à la construction immobilière.](2)
 - [3° : Crédit mutuel et coopération agricoles](3)
-- [4° : Crédit national.](4)
 - [5° : Obligations négociables - Régimes spéciaux](5)
 - [6° : Emprunts émis en France par les organisations internationales](6)
 - [7° : Emprunts contractés à l'étranger](7)

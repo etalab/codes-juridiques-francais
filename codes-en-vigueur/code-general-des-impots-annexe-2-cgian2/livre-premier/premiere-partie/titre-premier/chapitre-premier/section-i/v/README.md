@@ -2,4 +2,3 @@
 
 - [1 : Valeurs mobilières, droits sociaux et titres assimilés](1)
 - [2 : Biens et droits mobiliers ou immobiliers.](2)
-- [1° Plus-value imposable.](1-plus-value-imposable)

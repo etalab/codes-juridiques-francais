@@ -1,6 +1,5 @@
 # Section II : Collectivités publiques, établissements publics ou d'utilité publique
 
-- [1° : Transports de voyageurs dans la région parisienne.](1)
 - [10° : Ports autonomes](10)
 - [11° : Expropriation et servitudes pour cause d'utilité publique](11)
 - [12° : Parcs nationaux](12)
@@ -11,7 +10,6 @@
 - [2° : Etablissements d'utilité publique](2)
 - [3° : Comités professionnels de développement économique](3)
 - [4° : Etat](4)
-- [5° : Etablissements publics à caractère scientifique et culturel](5)
 - [6° : Conservatoire de l'espace littoral et des rivages lacustres](6)
 - [7° : Collectivités locales, établissements publics locaux et sociétés publiques locales](7)
 - [8°  : Etablissements publics de coopération intercommunale](8)
