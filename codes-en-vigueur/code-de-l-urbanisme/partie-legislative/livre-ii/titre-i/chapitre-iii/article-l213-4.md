@@ -4,7 +4,7 @@ A défaut d'accord amiable, le prix d'acquisition est fixé par la juridiction c
 
 Le prix est fixé, payé ou, le cas échéant, consigné selon les règles applicables en matière d'expropriation. Toutefois, dans ce cas :
 
-a) La date de référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique est, pour ce qui concerne les zones d'aménagement différé, un an avant la publication de l'acte instituant la zone et, pour ce qui concerne les biens soumis au droit de préemption urbain, la date du plus récent des actes rendant public, approuvant ou modifiant le plan d'occupation des sols pour la zone dans laquelle sont situés ces biens ;
+a) La date de référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique est, pour ce qui concerne les zones d'aménagement différé, un an avant la publication de l'acte instituant la zone et, pour ce qui concerne les biens soumis au droit de préemption urbain, la date du plus récent des actes rendant public, approuvant ou modifiant le plan d'occupation des sols et délimitant la zone dans laquelle sont situés les biens.
 
 b) Les améliorations, les transformations ou les changements d'affectation opérés par le propriétaire postérieurement à la date mentionnée au a) ci-dessus ne sont pas présumés revêtir un caractère spéculatif ;
 
