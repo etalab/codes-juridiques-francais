@@ -1,5 +1,6 @@
 # Section 2 : Procédure
 
+- [Article 698](article-698.md)
 - [Article 698-1](article-698-1.md)
 - [Article 698-2](article-698-2.md)
 - [Article 698-3](article-698-3.md)

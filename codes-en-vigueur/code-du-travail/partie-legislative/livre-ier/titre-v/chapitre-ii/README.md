@@ -5,3 +5,4 @@
 - [Section 3 : Marchandage](section-3)
 - [Section 4 : Cautionnement.](section-4)
 - [Section 5 : Groupements d'employeurs.](section-5)
+- [Section 6 : Corruption](section-6)

@@ -1,7 +1,7 @@
 # Chapitre II : Des infractions contre l'honneur ou le devoir
 
 - [Section I : De la capitulation.](section-i)
-- [Section II : De la trahison et du complot militaire.](section-ii)
+- [Section II : Du complot militaire.](section-ii)
 - [Section III : Des pillages.](section-iii)
 - [Section IV : Des destructions.](section-iv)
 - [Section V : Du faux, de la falsification, des détournements.](section-v)

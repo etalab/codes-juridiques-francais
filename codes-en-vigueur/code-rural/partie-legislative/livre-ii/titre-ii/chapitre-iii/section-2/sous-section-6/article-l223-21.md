@@ -4,7 +4,7 @@ La délivrance et le visa du permis de chasser peuvent être refusés :
 
 1° Aux alcooliques signalés à l'autorité sanitaire comme étant présumés dangereux, par application des dispositions de l'article L. 355-2 du code de la santé publique ;
 
-2° A tout individu qui, par une condamnation judiciaire, a été privé de l'un ou de plusieurs des droits énumérés dans l'article 42 du code pénal, autres que le droit de port d'armes ;
+2° A tout individu qui, par une condamnation judiciaire, a été privé de l'un ou de plusieurs des droits énumérés dans l'article 131-26 du code pénal, autres que le droit de port d'armes ;
 
 3° A tout condamné à un emprisonnement de plus de six mois pour rébellion ou violence envers les agents de l'autorité publique ;
 
