@@ -96,9 +96,11 @@ Topographies de produits semi-conducteurs : dépôt et conservation ; inscriptio
 
 Récompenses industrielles : enregistrement d'un palmarès, d'une récompense ou transcription d'une déclaration de cession ou de transmission.
 
-7. Registres nationaux des brevets, marques, dessins et modèles :
+7. Registres nationaux des brevets, marques, dessins, modèles et registre national spécial des logiciels :
 
-Demande d'inscription.
+Demande d'inscription ;
+
+Renouvellement de l'inscription d'un nantissement du droit d'exploitation des logiciels.
 
 8. Registre national du commerce et des sociétés :
 
