@@ -1,6 +1,7 @@
 # Section II : Des agents de change et courtiers.
 
 - [Article 74](article-74.md)
+- [Article 75](article-75.md)
 - [Article 76](article-76.md)
 - [Article 79](article-79.md)
 - [Article 80](article-80.md)
