@@ -1,8 +1,8 @@
 # Article L423-18
 
-Dans toute entreprise ou organisme mentionné à l'article L. 421-1, le chef d'entreprise doit chaque année informer le personnel par affichage de l'organisation des élections en vue de la désignation des délégués du personnel. Le document affiché précise la date du premier tour de ces élections qui doit se placer au plus tard le quarante-cinquième jour suivant celui de l'affichage [*mention*].
+Dans toute entreprise ou organisme mentionné à l'article L. 421-1, le chef d'entreprise doit chaque année informer le personnel par affichage de l'organisation des élections en vue de la désignation des délégués du personnel. Le document affiché précise la date envisagée pour le premier tour de ces élections qui doit se placer au plus tard le quarante-cinquième jour suivant celui de l'affichage [*mention*].
 
-Les organisations syndicales intéressées sont en même temps invitées par le chef d'entreprise à établir les listes de leurs candidats aux fonctions de délégué du personnel.
+Les organisations syndicales intéressées sont en même temps invitées par le chef d'entreprise à négocier le protocole d'accord préélectoral et à établir les listes de leurs candidats aux fonctions de délégué du personnel.
 
 Dans le cas d'un renouvellement de l'institution, cette invitation doit être faite un mois avant l'expiration du mandat des délégués en exercice [*délai*]. Le premier tour des élections doit avoir lieu dans la quinzaine qui précède l'expiration de ce mandat.
 

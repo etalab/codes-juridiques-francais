@@ -12,6 +12,6 @@ Une création d'officine peut toutefois être accordée dans une commune dépour
 
 La population dont il est tenu compte pour l'application de l'article L. 571 du Code de la santé publique est la population municipale totale, telle qu'elle est définie par le décret ayant ordonné le dernier dénombrement général de la population [*dispositions réglementaires*].
 
-Si les besoins de la population l'exigent, des dérogations à ces règles peuvent être accordées [*autorisations dérogatoires*]. Les dérogations visées à l'article L. 571 du Code de la santé publique peuvent être accordées par le préfet [*autorité compétente*] sur la proposition du chef du service régional de l'action sanitaire et sociale, après avis du pharmacien inspecteur régional de la santé, du conseil régional de l'ordre des pharmaciens et des syndicats professionnels [*dernière phrase : dispositions réglementaires*].
+Si les besoins de la population l'exigent, des dérogations à ces règles peuvent être accordées [*autorisations dérogatoires*] par le préfet après avis du chef de service régional des affaires sanitaires et sociales, du pharmacien inspecteur régional de la santé, du conseil régional de l'ordre des pharmaciens et des syndicats professionnels [*dernière phrase : dispositions réglementaires*].
 
 Dans tous les cas, le préfet peut imposer une distance minimum entre deux officines.
