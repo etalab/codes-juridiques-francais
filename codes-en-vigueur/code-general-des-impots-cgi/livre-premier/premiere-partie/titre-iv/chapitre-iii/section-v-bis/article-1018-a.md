@@ -4,17 +4,17 @@ Les décisions des juridictions répressives, à l'exception de celles qui ne st
 
 Ce droit est de :
 
-1° 150 F pour les ordonnances pénales ;
+1° 22 euros pour les ordonnances pénales ;
 
-2° 150 F pour les autres décisions des tribunaux de police et celles des juridictions qui ne statuent pas sur le fond ;
+2° 22 euros pour les autres décisions des tribunaux de police et celles des juridictions qui ne statuent pas sur le fond ;
 
-3° 600 F pour les décisions des tribunaux correctionnels ;
+3° 90 euros pour les décisions des tribunaux correctionnels ;
 
-4° 800 F pour les décisions des cours d'appel statuant en en matière correctionnelle et de police ;
+4° 120 euros pour les décisions des cours d'appel statuant en matière correctionnelle et de police ;
 
-5° 2 500 F pour les décisions des cours d'assises.
+5° 375 euros pour les décisions des cours d'assises.
 
-Il est de 1 000 F pour les décisions de la Cour de cassation statuant en matière criminelle, correctionnelle ou de police.
+Il est de 150 euros pour les décisions de la Cour de cassation statuant en matière criminelle, correctionnelle ou de police.
 
 Les décisions rendues sur le fond s'entendent des jugements et arrêts des cours et tribunaux qui statuent sur l'action publique et qui ont pour effet, si aucune voie de recours n'est ouverte ou n'est exercée, de mettre fin à la procédure.
 

@@ -1,4 +1,4 @@
-# 2. Biens et droits mobiliers ou immobiliers
+# 2. Biens et droits mobiliers et immobiliers.
 
 - [Article 150 I](article-150-i.md)
 - [Article 150 V](article-150-v.md)

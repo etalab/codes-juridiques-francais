@@ -22,13 +22,13 @@ II. Sont soumis de plein droit au régime simplifié prévu au I :
 
 4° Les personnes qui effectuent des opérations commerciales d'importation, d'acquisition intracommunautaire, de vente, de commission et de courtage portant sur des animaux vivants de boucherie et de charcuterie.
 
-5° Les exploitants agricoles, lorsque le montant moyen des recettes de l'ensemble de leurs exploitations, calculé sur deux années civiles consécutives, dépasse 300.000 F. L'assujettissement prend effet à compter du 1er janvier de l'année suivante et au plus tôt le 1er janvier 1983.
+5° Les exploitants agricoles, lorsque le montant moyen des recettes de l'ensemble de leurs exploitations, calculé sur deux années civiles consécutives, dépasse 46 000 euros. L'assujettissement prend effet à compter du 1er janvier de l'année suivante et au plus tôt le 1er janvier 1983.
 
-Lorsque la moyenne des recettes, non comprise la taxe sur la valeur ajoutée, calculée sur trois années civiles consécutives d'assujettissement, devient inférieure à 300.000 F, les exploitants agricoles peuvent cesser d'être soumis au régime simplifié à compter du 1er janvier suivant, à condition qu'ils le signalent au service des impôts avant le 1er février et qu'ils n'aient pas bénéficié, au cours de cette période de trois ans, de remboursement de crédit de taxe.
+Lorsque la moyenne des recettes, non comprise la taxe sur la valeur ajoutée, calculée sur trois années civiles consécutives d'assujettissement, devient inférieure à 46 000 euros, les exploitants agricoles peuvent cesser d'être soumis au régime simplifié à compter du 1er janvier suivant, à condition qu'ils le signalent au service des impôts avant le 1er février et qu'ils n'aient pas bénéficié, au cours de cette période de trois ans, de remboursement de crédit de taxe.
 
 Pour les groupements agricoles d'exploitation en commun dont tous les associés participent effectivement et régulièrement à l'activité du groupement par leur travail personnel, la moyenne des recettes mentionnée aux premier et deuxième alinéa est fixée à 60 % de la limite prévue pour les exploitants individuels multipliée par le nombre d'associés.
 
-Toutefois, elle est égale à la limite prévue pour les exploitants individuels multipliée par le nombre d'associés lorsque la moyenne des recettes du groupement est inférieure ou égale à 900.000 F.
+Toutefois, elle est égale à la limite prévue pour les exploitants individuels multipliée par le nombre d'associés lorsque la moyenne des recettes du groupement est inférieure ou égale à 138 000 euros.
 
 6° Les bailleurs de biens ruraux qui ont exercé l'option autorisée par le 6° de l'article 260.
 
@@ -38,10 +38,10 @@ II bis. - Par dérogation aux dispositions des I et II, en cas de décès d'un e
 
 III. L'option peut être exercée distinctement pour les ventes d'animaux vivants de boucherie et de charcuterie et pour les autres activités agricoles.
 
-Les conditions et les modalités de l'option sont fixées par décret en conseil d'Etat. Ce décret, qui énumère les animaux de boucherie et de charcuterie dont la vente peut faire l'objet d'une option spéciale, peut notamment prévoir l'identification ou le marquage des animaux et la tenue d'une comptabilité matière les concernant .
+Les conditions et les modalités de l'option sont fixées par décret en conseil d'Etat. Ce décret, qui énumère les animaux de boucherie et de charcuterie dont la vente peut faire l'objet d'une option spéciale, peut notamment prévoir l'identification ou le marquage des animaux et la tenue d'une comptabilité matière les concernant.
 
-Les caractéristiques des activités soumises obligatoirement à la taxe sur la valeur ajoutée en application du II sont précisées en tant que de besoin par décret en conseil d'Etat, après avis des organisations professionnelles intéressées.
+Les caractéristiques des activités soumises obligatoirement à la taxe sur la valeur ajoutée en application du II, sont précisées en tant que de besoin par décret en Conseil d'Etat, après avis des organisations professionnelles intéressées.
 
-III bis. Les recettes accessoires commerciales et non commerciales, passibles de la taxe sur la valeur ajoutée, réalisées par un exploitant agricole soumis pour ses opérations agricoles au régime simplifié prévu au I peuvent être imposées selon ce régime lorsque le montant total des recettes accessoires taxes comprises n'excède pas, au titre de l'année civile précédente, 200 000 F et 30 p. 100 du montant des recettes taxes comprises provenant de ses activités agricoles.
+III bis. Les recettes accessoires commerciales et non commerciales, passibles de la taxe sur la valeur ajoutée, réalisées par un exploitant agricole soumis pour ses opérations agricoles au régime simplifié prévu au I peuvent être imposées selon ce régime lorsque le montant total des recettes accessoires taxes comprises n'excède pas, au titre de l'année civile précédente, 30 000 euros et 30 % du montant des recettes taxes comprises provenant de ses activités agricoles.
 
 IV. En cas de cession ou de cessation de leur activité, les exploitants agricoles sont tenus de souscrire dans les trente jours la déclaration prévue au 1° du I ou, le cas échéant, au deuxième alinéa du I de l'article 1693 bis.

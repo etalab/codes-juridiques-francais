@@ -31,4 +31,5 @@
 - [XXVI : Prélèvements sur les plus-values prévues à l'article 244 bis.](xxvi)
 - [XXVII : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales ou agricoles](xxvii)
 - [XXVIII : Crédit d'impôt pour dépenses de formation.](xxviii)
+- [XXIX : Crédit d'impôt pour dépenses d'adhésion à un groupement de prévention agréé](xxix)
 - [0I bis : Transferts d'actifs hors de France, réalisés par les entreprises](0i-bis)

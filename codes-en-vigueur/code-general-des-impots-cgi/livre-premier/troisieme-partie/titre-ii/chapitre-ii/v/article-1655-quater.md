@@ -12,7 +12,7 @@ b) A la demande du comité professionnel institué en application de l'article 3
 
 A quantités constantes, les mouvements du stock, produit par produit, destinés à maintenir sa qualité physique, se font valeur pour valeur.
 
-Les versements des associés à la société sont déductibles de leurs résultats imposables à concurrence des frais de gestion et des charges financières de la société et d'une somme de 400 millions de francs représentant les premières charges de remboursement de l'emprunt souscrit par la société pour constituer son stock initial.
+Les versements des associés à la société sont déductibles de leurs résultats imposables à concurrence des frais de gestion et des charges financières de la société et d'une somme de 61 000 000 d'euros représentant les premières charges de remboursement de l'emprunt souscrit par la société pour constituer son stock initial.
 
 Les actions de cette société ne peuvent être cédées qu'avec l'autorisation des ministres. Dans ce cas, les sommes qui ont été déduites au titre du remboursement de l'emprunt sont rapportées au résultat imposable de l'associé.
 

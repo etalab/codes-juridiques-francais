@@ -8,9 +8,9 @@ a. Exercent en France une activité industrielle, commerciale ou artisanale au s
 
 b. Sont nouvelles au sens de l'article 44 sexies ou créées dans le cadre de l'extension d'une activité préexistante si elles remplissent les conditions du II du même article ou créées dans les conditions des cinq premiers alinéas de l'article 44 septies et, s'il s'agit de sociétés, ne sont pas détenues à plus de 50 p. 100 par une entreprise individuelle ;
 
-c. Réalisent à la clôture de l'exercice de création ou de reprise et des deux exercices suivants un chiffre d'affaires qui n'excède pas 30 millions de francs lorsque l'activité principale est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place ou de fournir le logement, ou 10 millions s'il s'agit d'autres entreprises ;
+c. Réalisent à la clôture de l'exercice de création ou de reprise et des deux exercices suivants un chiffre d'affaires qui n'excède pas 4 600 000 euros lorsque l'activité principale est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place ou de fournir le logement, ou 1 530 000 euros s'il s'agit d'autres entreprises ;
 
-d. (Abrogé) ;
+d. (Abrogé pour les prêts consentis au cours des exercices ouverts à compter du 1er janvier 1996).
 
 Ces dispositions sont également applicables lorsque les bénéficiaires sont des travailleurs non salariés relevant des groupes de professions mentionnés au 1° de l'article L615-1 du code de la sécurité sociale et répondent aux conditions définies aux b, et c ci-dessus sous réserve de leur adaptation par un décret en Conseil d'Etat.
 
@@ -18,9 +18,9 @@ Les créateurs de l'entreprise nouvelle ou de la société nouvelle ne doivent p
 
 Les prêts à taux privilégié sont ceux comportant une durée minimale de sept ans ou, en cas de remboursement anticipé, une durée de vie moyenne d'au moins cinq ans, moyennant un taux de rémunération n'excédant pas deux tiers de celui mentionné au premier alinéa du 3° du 1 de l'article 39.
 
-Les dispositions du présent I ne s'appliquent pas lorsque l'entreprise nouvelle ou reprise exerce une activité bancaire, financière, d'assurance, de gestion ou de location d'immeubles (1).
+Les dispositions du présent I ne s'appliquent pas lorsque l'entreprise nouvelle ou reprise exerce une activité bancaire, financière, d'assurance, de gestion ou de location d'immeubles.
 
-II. La provision spéciale constituée en franchise d'impôt est égale à la moitié des sommes effectivement versées au titre du prêt ou à 75 p. 100 du montant effectivement souscrit en capital ; elle ne peut excéder 300 000 F pour un même salarié.
+II. La provision spéciale constituée en franchise d'impôt est égale à la moitié des sommes effectivement versées au titre du prêt ou à 75 p. 100 du montant effectivement souscrit en capital ; elle ne peut excéder 46 000 euros pour un même salarié.
 
 Les sommes déduites du bénéfice d'un exercice, au titre de la provision spéciale, ne peuvent excéder 25 % du bénéfice net imposable de l'exercice précédent.
 
@@ -34,8 +34,4 @@ a. les sociétés qui détiennent plus de 50 p. 100 du capital de la société q
 
 b. les sociétés dont le capital est détenu pour plus de 50 p. 100 par une société détenant plus de 50 p. 100 du capital de la société qui employait les créateurs de l'entreprise.
 
-IV. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives (2).
-
-(1) Dispositions applicables aux prêts consentis à compter du 1er octobre 1993.
-
-(2) Voir les articles 10 G bis et 10 G ter de l'annexe III.
+IV. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives (1).
