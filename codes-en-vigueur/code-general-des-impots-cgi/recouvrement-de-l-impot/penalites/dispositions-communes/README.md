@@ -12,6 +12,5 @@
 - [Article 1739](article-1739.md)
 - [Article 1740](article-1740.md)
 - [Article 1741](article-1741.md)
-- [Article 1751](article-1751.md)
 - [Article 1756 bis](article-1756-bis.md)
 - [Article 1756 ter](article-1756-ter.md)

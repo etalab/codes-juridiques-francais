@@ -1,3 +1,0 @@
-# EXERCICE DES POURSUITES PENALES.
-
-- [Article L246](article-l246.md)
