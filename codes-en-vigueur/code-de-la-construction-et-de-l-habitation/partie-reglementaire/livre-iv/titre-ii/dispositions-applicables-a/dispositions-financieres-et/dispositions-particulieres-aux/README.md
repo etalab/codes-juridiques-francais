@@ -19,8 +19,6 @@
 - [Article R423-57](article-r423-57.md)
 - [Article R423-58](article-r423-58.md)
 - [Article R423-62](article-r423-62.md)
-- [Article R423-63](article-r423-63.md)
-- [Article R423-64](article-r423-64.md)
 - [Article R423-65](article-r423-65.md)
 - [Article R423-66](article-r423-66.md)
 - [Article R423-67](article-r423-67.md)
