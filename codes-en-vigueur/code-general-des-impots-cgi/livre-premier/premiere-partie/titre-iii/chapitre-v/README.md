@@ -4,3 +4,4 @@
 - [Section III : Registres portatifs.](section-iii)
 - [Section IV : Entreprises de transport.](section-iv)
 - [Section V : Modification des tarifs d'impôts indirects.](section-v)
+- [Section VIII : Frais de surveillance.](section-viii)
