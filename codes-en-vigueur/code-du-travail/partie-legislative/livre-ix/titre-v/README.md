@@ -1,6 +1,7 @@
 # Titre V : De la participation des employeurs au développement de la formation professionnelle continue.
 
 - [Article L950-1](article-l950-1.md)
+- [Article L950-2](article-l950-2.md)
 - [Article L950-2-1](article-l950-2-1.md)
 - [Article L950-2-2](article-l950-2-2.md)
 - [Article L950-2-3](article-l950-2-3.md)

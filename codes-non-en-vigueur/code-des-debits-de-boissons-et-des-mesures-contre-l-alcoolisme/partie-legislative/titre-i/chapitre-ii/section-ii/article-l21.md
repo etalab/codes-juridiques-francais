@@ -1,8 +1,8 @@
 # Article L21
 
-Tout importateur, fabricant, entrepositaire, négociant ou débitant en boissons qui aura effectué, fait effectuer ou maintenu une publicité interdite par les articles L. 17 et L. 18 sera puni d'une amende de 3.000 F à 40.000 F.
+Toute personne qui aura effectué, fait effectuer, maintenu ou fait maintenir une publicité interdite sera punie d'un emprisonnement de deux mois à deux ans et d'une amende de 50.000 F à 500.000 F ou de l'une de ces deux peines seulement. Le maximum de l'amende peut être porté à 50 p. 100 du montant des dépenses consacrées à la publicité illégale.
 
-Toute infraction aux dispositions de l'article L. 20 sera punie d'une amende de 500 F à 8.000 F.
+Toute infraction aux dispositions de l'article L. 20 sera punie d'une amende de 500 F à 8000 F.
 
 Les peines prévues aux deux alinéas précédents sont applicables aux entrepreneurs en publicité, courtiers en publicité, annonceurs et fabricants d'objets publicitaires, ainsi qu'aux directeurs de publication, d'émission ou de production qui auront effectué, fait effectuer et maintenu une publicité illégale.
 

@@ -1,7 +1,9 @@
 # Article L18
 
-Sous réserve des dispositions prévues à l'alinéa 2 de l'article L. 17, la publicité relative aux boissons du troisième groupe dont la fabrication et la vente ne sont pas prohibées est libre lorsqu'elle indique exclusivement la dénomination et la composition du produit, le nom et l'adresse du fabricant, des agents et dépositaires.
+Toute publicité en faveur des boissons contenant plus de un degré d'alcool doit comporter un conseil de modération concernant la consommation de ces produits alcooliques. Elle ne peut présenter les boissons comme dotées ou dénuées d'effets physiologiques ou psychologiques. Elle ne doit comporter aucune incitation dirigée vers les mineurs ni évoquer d'aucune façon la sexualité, le sport, le travail, les machines et véhicules à moteur. Elle ne doit pas avoir recours à des personnalités connues pour une activité n'ayant pas de rapport avec la production ou la distribution de boissons alcooliques.
 
-Le conditionnement ne pourra être reproduit que s'il comporte exclusivement la dénomination et la composition du produit, le nom et l'adresse du fabricant, des agents et dépositaires.
+Le conditionnement ne peut être reproduit que s'il répond aux exigences mentionnées au premier alinéa du présent article.
 
-Toute publicité comportant d'autres mentions que celles prévues au premier alinéa du présent article est interdite, sous quelque forme que ce soit.
+Quand les éléments caractéristiques des publicités pour les boissons alcooliques, notamment la marque, la dénomination, les graphiques ou les couleurs déposés, sont utilisés dans des activités de parrainage ou dans une publicité, les dispositions régissant la publicité pour les boissons alcooliques s'appliquent à ces activités de parrainage ou à cette publicité.
+
+Un décret en Conseil d'Etat prévoit, en tant que de besoin, les modalités que doivent respecter les messages et supports publicitaires pour être conformes à ces obligations.

@@ -14,7 +14,7 @@ c) Cinq administrateurs élus par les délégués du troisième collège à la m
 
 2° Deux représentants des familles dont l'un relève du deuxième collège et l'autre du premier ou du troisième collège et qui sont désignés par l'union nationale des associations familiales sur la proposition des associations familiales rurales ; le mandat de ces deux administrateurs est également fixé à cinq ans.
 
-3° Siègent également, avec voix consultative, deux représentants du personnel de la caisse de mutualité sociale agricole, désignés par le comité d'entreprise et pris en son sein.
+3° Siègent également, avec voix consultative, trois représentants du personnel de la caisse, désignés par le comité d'entreprise et pris en son sein, à raison de deux représentants des employés et assimilés et d'un représentant des cadres et assimilés.
 
 Les administrateurs centraux des deuxième et troisième collèges ainsi que l'administrateur central représentant les familles qui appartient au deuxième collège forment le comité central de la protection sociale des salariés agricoles.
 

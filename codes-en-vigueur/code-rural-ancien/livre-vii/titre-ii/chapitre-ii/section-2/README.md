@@ -3,7 +3,6 @@
 - [Article 1031](article-1031.md)
 - [Article 1031-1](article-1031-1.md)
 - [Article 1032](article-1032.md)
-- [Article 1033](article-1033.md)
 - [Article 1033-1](article-1033-1.md)
 - [Article 1034](article-1034.md)
 - [Article 1035](article-1035.md)
