@@ -1,6 +1,7 @@
 # Chapitre III : Du remembrement rural.
 
 - [Article 22](article-22.md)
+- [Article 23-1](article-23-1.md)
 - [Article 24](article-24.md)
 - [Article 31](article-31.md)
 - [Article 32](article-32.md)
