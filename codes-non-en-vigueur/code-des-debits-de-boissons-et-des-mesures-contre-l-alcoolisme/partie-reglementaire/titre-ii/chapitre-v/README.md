@@ -11,3 +11,4 @@
 - [Article R*2-9](article-r-2-9.md)
 - [Article R*2-10](article-r-2-10.md)
 - [Article R*2-11](article-r-2-11.md)
+- [Article R*2-12](article-r-2-12.md)
