@@ -8,3 +8,4 @@
 - [Article R222-30](article-r222-30.md)
 - [Article R222-31](article-r222-31.md)
 - [Article R222-32](article-r222-32.md)
+- [Article R222-33](article-r222-33.md)
