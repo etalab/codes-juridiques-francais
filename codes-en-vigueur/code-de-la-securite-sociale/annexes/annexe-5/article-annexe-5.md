@@ -2,110 +2,120 @@
 
 III. - Caisses mutuelles régionales des professions libérales
 
-I. Caisse mutuelle parisienne des professions libérales.
+(A) : NOMBRE de membres des conseils d'administration (toutes catégories comprises)
 
-a) Nombre de sièges de représentant des personnes affiliées au titre de l'exercice d'une profession juridique ou judiciaire attribué à chaque région ou groupe de régions :
+(B) : Professions juridiques ou judiciaires : Actifs
 
-Région Ile-de-France : 6 sièges
+(C) : Professions juridiques ou judiciaires : Retraités
 
-b) Nombre de sièges de représentant des personnes affiliées au titre de l'exercice des autres professions libérales attribué à chaque région ou groupe de régions :
+(D) : Autres professions libérales : Actifs
 
-Région Ile-de-France : 19 sièges
+(E) : Autres professions libérales : Retraités
 
-II. Caisse mutuelle provinciale des professions libérales.
+!---------------------------------------------------------------!
 
-a) Nombre de sièges de représentant des personnes affiliées au titre de l'exercice d'une profession juridique ou judiciaire attribué à chaque région ou groupe de régions :
+!                          CAISSE                               !
 
-Région Nord - Pas-de-Calais
+!---------------------------------------------------------------!
 
-Région Picardie
+!     Caisse mutuelle parisienne des professions libérales      !
 
-Région Champagne-Ardenne
+!-------------------------------!------!-----!-----!------!-----!
 
-Région Lorraine
+!                               !      !    NOMBRE DE MEMBRES   !
 
-Région Alsace
+!                               !      !    représentants des   !
 
-Nombre de sièges : 1
+!    CIRCONSCRIPTION            !  A   !      assurés           !
 
-Région Bourgogne
+!                               !      !-----!-----!------!-----!
 
-Région Franche-Comté
+!                               !      !  B  !  C  !  D   !  E  !
 
-Région Rhône-Alpes
+!-------------------------------!------!-----!-----!------!-----!
 
-Nombre de sièges : 1
+!    Ile-de-France              !  33  !  5  !  1  !  14  !  5  !
 
-Région Provence Alpes-Côte d'Azur
+!-------------------------------!------!-----!-----!------!-----!
 
-Région Corse
+!---------------------------------------------------------------!
 
-Région Languedoc-Roussillon
+!                          CAISSE                               !
 
-Nombre de sièges : 2
+!---------------------------------------------------------------!
 
-Région Aquitaine
+!    Caisse mutuelle provinciale des professions libérales      !
 
-Région Midi-Pyrénées
+!-------------------------------!------!-----!-----!------!-----!
 
-Nombre de sièges : 1
+!                               !      !    NOMBRE DE MEMBRES   !
 
-Région Auvergne
+!                               !      !    représentants des   !
 
-Région Limousin
+!    CIRCONSCRIPTIONS           !  A   !      assurés           !
 
-Région Poitou-Charentes
+!                               !      !-----!-----!------!-----!
 
-Région Centre
+!                               !      !  B  !  C  !  D   !  E  !
 
-Nombre de sièges : 1
+!-------------------------------!------!-----!-----!------!-----!
 
-Région Bretagne
+!  Nord - Pas-de-Calais         !      !     !     !      !     !
 
-Région Pays de la Loire
+!  Picardie                     !      !     !     !      !     !
 
-Région Haute-Normandie
+!  Champagne-Ardenne            !      !  1  !     !   4  !  1  !
 
-Région Basse-Normandie
+!-------------------------------!------!-----!-----!------!-----!
 
-Nombre de sièges : 1
+!  Lorraine                     !      !     !     !      !     !
 
-TOTAL : 7 sièges
+!  Alsace                       !      !     !     !      !     !
 
-b) Nombre de sièges de représentant des personnes affiliées au titre de l'exercice des autres professions libérales attribué à chaque région ou groupe de régions :
+!  Bourgogne                    !      !     !     !      !     !
 
-Région Nord - Pas-de-Calais : 1 siège
+!  Franche-Comté                !      !  1  !     !   4  !  1  !
 
-Région Picardie : 1 siège
+!-------------------------------!------!-----!-----!------!-----!
 
-Région Champagne-Ardenne : 1 siège
+!  Rhône-Alpes                 !      !     !     !      !     !
 
-Région Lorraine : 1 siège
+!  Provence-Alpes-Côte d'Azur  !      !     !     !      !     !
 
-Région Alsace : 1 siège
+!  Corse                        !      !  2  !  1  !   3  !  1  !
 
-Région Bourgogne, Région Franche-Comté : 2 sièges
+!-------------------------------!------!-----!-----!------!-----!
 
-Région Rhône-Alpes : 3 sièges
+!  Languedoc-Roussillon         !      !     !     !      !     !
 
-Région Provence-Alpes-Côte d'Azur, Région Corse : 3 sièges
+!  Aquitaine                    !      !  1  !     !   3  !  1  !
 
-Région Languedoc-Roussillon : 1 siège
+!-------------------------------!------!-----!-----!------!-----!
 
-Région Aquitaine : 2 sièges
+!  Midi-Pyrénées                !      !     !     !      !     !
 
-Région Midi-Pyrénées : 2 sièges
+!  Auvergne                     !      !     !     !      !     !
 
-Région Auvergne, Région Limousin : 1 siège
+!  Limousin                     !      !  1  !     !   2  !  1  !
 
-Région Poitou-Charentes : 1 siège
+!-------------------------------!------!-----!-----!------!-----!
 
-Région Centre : 1 siège
+!  Poitou-Charentes             !      !     !     !      !     !
 
-Région Pays de la Loire : 2 sièges
+!  Centre                       !      !     !     !      !     !
 
-Région Bretagne : 1 siège
+!  Bretagne                     !      !     !     !      !     !
 
-Région Haute-Normandie, Région Basse-Normandie : 2 sièges
+!  Pays de la Loire             !      !  1  !     !   4  !  1  !
 
-TOTAL : 26 sièges
+!-------------------------------!------!-----!-----!------!-----!
+
+!  Haute-Normandie              !      !     !     !      !     !
+
+!  Basse-Normandie              !      !     !     !      !     !
+
+!-------------------------------!------!-----!-----!------!-----!
+
+!  Total                        !  42  !  7  !  1  !  20  !  6  !
+
+!-------------------------------!------!-----!-----!------!-----!
