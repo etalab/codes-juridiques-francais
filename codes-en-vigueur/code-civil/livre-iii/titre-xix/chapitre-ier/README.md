@@ -4,7 +4,6 @@
 - [Article 2204-1](article-2204-1.md)
 - [Article 2206](article-2206.md)
 - [Article 2207](article-2207.md)
-- [Article 2208](article-2208.md)
 - [Article 2209](article-2209.md)
 - [Article 2210](article-2210.md)
 - [Article 2211](article-2211.md)

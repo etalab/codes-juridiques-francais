@@ -9,7 +9,6 @@
 - [Article 815-7](article-815-7.md)
 - [Article 816](article-816.md)
 - [Article 817](article-817.md)
-- [Article 818](article-818.md)
 - [Article 819](article-819.md)
 - [Article 820](article-820.md)
 - [Article 821](article-821.md)
