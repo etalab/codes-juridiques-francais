@@ -4,4 +4,5 @@
 - [Section 2 : Détachement.](section-2)
 - [Section 3 : Disponibilité.](section-3)
 - [Section 4 : Position "sous les drapeaux".](section-4)
+- [Section 5 : Congé postnatal.](section-5)
 - [Article L848](article-l848.md)
