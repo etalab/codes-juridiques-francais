@@ -10,7 +10,7 @@ Sont exonérés de la taxe spéciale sur les conventions d'assurances :
 
 4° Les contrats d'assurances sur corps, marchandises transportées et responsabilité civile du transporteur, des aéronefs souscrits contre les risques de toute nature de navigation aérienne ;
 
-5° Les contrats d'assurances sur la vie et assimilés y compris les contrats de rente viagère (1) ;
+5° Les contrats d'assurances sur la vie et assimilés y compris les contrats de rente viagère ;
 
 5° bis (Abrogé) ;
 
@@ -22,7 +22,7 @@ Sont exonérés de la taxe spéciale sur les conventions d'assurances :
 
 9° Les contrats de garantie souscrits auprès des entreprises d'assurances en application de l'article L214-47 du code monétaire et financier et de l'article 9 modifié du décret n° 89-158 du 9 mars 1989 portant application des articles 26 et 34 à 42 de la loi n° 88-1201 du 23 décembre 1988 modifiée et relatif aux fonds communs de créances ;
 
-10° Les contrats souscrits par le Centre national de transfusion sanguine pour le compte des centres de transfusion sanguine auprès du groupement d'assureurs des risques de transfusion sanguine pour satisfaire aux conditions de l'assurance obligatoire des dommages causés aux donneurs et aux receveurs de sang humain et de produits sanguins d'origine humaine (2) ;
+10° Les contrats souscrits par le Centre national de transfusion sanguine pour le compte des centres de transfusion sanguine auprès du groupement d'assureurs des risques de transfusion sanguine pour satisfaire aux conditions de l'assurance obligatoire des dommages causés aux donneurs et aux receveurs de sang humain et de produits sanguins d'origine humaine ;
 
 11° Les assurances contre les risques de toute nature relatifs aux véhicules terrestres à moteur utilitaires d'un poids total autorisé en charge supérieur à 3,5 tonnes ;
 
@@ -32,10 +32,10 @@ Cette exonération s'applique, dans les mêmes conditions, aux camions, camionne
 
 13° Les contrats d'assurance maladie complémentaire couvrant les personnes physiques ou morales qui exercent exclusivement ou principalement une des professions agricoles ou connexes à l'agriculture définies aux articles L722-4, L722-9, au 1° de l'article L722-10 et aux articles L722-21, L722-28, L722-29, L731-25 et L741-2 du code rural ainsi que leurs salariés et les membres de la famille de ces personnes, lorsqu'ils vivent avec elles sur l'exploitation.
 
-14° Les contrats d'assurance dépendance (3) ;
+14° Les contrats d'assurance dépendance ;
 
-15° Les contrats d'assurance maladie relatifs à des opérations individuelles et collectives à adhésion facultative à la condition que l'organisme ne recueille pas d'informations médicales auprès de l'assuré au titre de ce contrat ou des personnes souhaitant bénéficier de cette couverture et que les cotisations ou les primes ne soient pas fixées en fonction de l'état de santé de l'assuré (4) ;
+15° Les contrats d'assurance maladie relatifs à des opérations individuelles et collectives à adhésion facultative à la condition que l'organisme ne recueille pas d'informations médicales auprès de l'assuré au titre de ce contrat ou des personnes souhaitant bénéficier de cette couverture, que les cotisations ou les primes ne soient pas fixées en fonction de l'état de santé de l'assuré, que ces garanties ne couvrent pas la participation mentionnée au II de l'article L. 322-2 du code de la sécurité sociale et qu'elles respectent les conditions mentionnées à l'article L. 871-1 du même code ;
 
-16° Les contrats d'assurance maladie relatifs à des opérations collectives à adhésion obligatoire à la condition que les cotisations ou les primes ne soient pas fixées en fonction de l'état de santé de l'assuré (4).
+16° Les contrats d'assurance maladie relatifs à des opérations collectives à adhésion obligatoire à la condition que les cotisations ou les primes ne soient pas fixées en fonction de l'état de santé de l'assuré, que ces garanties ne couvrent pas la participation mentionnée au II de l'article L. 322-2 du code de la sécurité sociale et qu'elles respectent les conditions mentionnées à l'article L. 871-1 du même code ;
 
 17° Les cotisations versées par les exploitants de remontées mécaniques dans le cadre du système mutualiste d'assurance contre les aléas climatiques.

@@ -3,6 +3,8 @@
 - [Section 4-2 : Règles particulières aux salariés devenus physiquement inaptes à leur emploi](section-4-2)
 - [Section 4-3 : Dispositions particulières aux personnes exerçant une activité dans la réserve opérationnelle](section-4-3)
 - [Section 4-4 : Règles particulières aux personnes ayant souscrit un engagement à servir dans la réserve opérationnelle](section-4-4)
+- [Section 4-5 : Règles particulières aux salariés ayant souscrit un engagement à servir dans la réserve de sécurité civile](section-4-5)
+- [Section 4-6 : Règles particulières applicables aux salariés participant à des opérations de secours](section-4-6)
 - [Section 5-1 : Règles particulières aux salariés victimes d'un accident du travail ou d'une maladie professionnelle.](section-5-1)
 - [Section 5-2 : Congé et période de travail à temps partiel pour la création ou la reprise d'entreprise et congé sabbatique](section-5-2)
 - [SECTION 1 : CONTRAT A DUREE DETERMINEE.](section-1)

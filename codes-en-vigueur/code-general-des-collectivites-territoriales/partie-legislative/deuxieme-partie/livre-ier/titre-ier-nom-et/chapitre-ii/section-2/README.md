@@ -4,6 +4,7 @@
 - [Article L2112-3](article-l2112-3.md)
 - [Article L2112-4](article-l2112-4.md)
 - [Article L2112-5](article-l2112-5.md)
+- [Article L2112-5-1](article-l2112-5-1.md)
 - [Article L2112-6](article-l2112-6.md)
 - [Article L2112-7](article-l2112-7.md)
 - [Article L2112-8](article-l2112-8.md)

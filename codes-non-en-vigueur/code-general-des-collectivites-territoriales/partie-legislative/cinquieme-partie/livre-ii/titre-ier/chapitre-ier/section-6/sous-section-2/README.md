@@ -3,6 +3,7 @@
 - [Article L5211-28](article-l5211-28.md)
 - [Article L5211-31](article-l5211-31.md)
 - [Article L5211-32](article-l5211-32.md)
+- [Article L5211-32-1](article-l5211-32-1.md)
 - [Article L5211-33](article-l5211-33.md)
 - [Article L5211-34](article-l5211-34.md)
 - [Article L5211-35](article-l5211-35.md)

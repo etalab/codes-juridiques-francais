@@ -7,3 +7,4 @@
 - [Article L2215-5](article-l2215-5.md)
 - [Article L2215-6](article-l2215-6.md)
 - [Article L2215-7](article-l2215-7.md)
+- [Article L2215-8](article-l2215-8.md)
