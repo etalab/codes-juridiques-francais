@@ -4,6 +4,7 @@
 - [Paragraphe d) Visite de reprise.](paragraphe-d)
 - [Paragraphe a) Les médecins du travail.](paragraphe-a)
 - [Paragraphe b) Visites d'embauchage.](paragraphe-b)
+- [Article D822-1](article-d822-1.md)
 - [Article D822-2](article-d822-2.md)
 - [Article D822-3](article-d822-3.md)
 - [Article D822-4](article-d822-4.md)

@@ -1,4 +1,4 @@
 # Dispositions particulières
 
 - [Dispositions applicables à la ville de Paris.](dispositions-applicables-a)
-- [Dispositions applicables aux communes de la région d'Ile-de-France *région parisienne*](dispositions-applicables-aux)
+- [DISPOSITIONS APPLICABLES AUX COMMUNES DES DEPARTEMENTS D'OUTRE-MER (D.O.M.)](dispositions-applicables-aux)
