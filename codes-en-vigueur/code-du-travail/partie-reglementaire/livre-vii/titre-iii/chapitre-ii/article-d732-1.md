@@ -7,3 +7,5 @@ Le service des congés payés est assuré par des caisses constituées à cet ef
 34, à l'exception du sous-groupe 34-9.
 
 Le régime institué par le présent chapitre s'applique également aux carrières annexées aux entreprises susvisées ainsi qu'aux ateliers, chantiers et autres établissements travaillant exclusivement pour le fonctionnement et l'entretien de ces entreprises, qu'ils soient ou non annexés à celles-ci.
+
+Le régime institué par le présent chapitre s'applique également aux entreprises [*non établies en France et détachant temporairement des salariés*] mentionnées à l'article D. 341-5.
