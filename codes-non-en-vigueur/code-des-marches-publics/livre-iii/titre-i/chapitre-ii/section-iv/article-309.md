@@ -1,3 +1,9 @@
 # Article 309
 
-Les collectivités locales et leurs établissements publics peuvent conclure des marchés négociés pour des travaux, fournitures ou services dont la valeur n'excède pas, pour le montant total de l'opération, des seuils fixés, pour chaque catégorie, par arrêté conjoint du ministre de l'économie et des finances et des ministres intéressés.
+Pour les marchés mentionnés au 11° du I de l'article 104 :
+
+- lorsque le montant annuel présumé des services est inférieur à 700 000 F, la commission d'appel d'offres émet un avis ;
+
+- lorsqu'il est égal ou supérieur à 700 000 F, la commission d'appel d'offres attribue le marché.
+
+A cette fin, l'autorité compétente met à la disposition des membres de la commission toutes les propositions initiales des entreprises avant d'engager la négociation et, à l'issue de celle-ci, leurs propositions finales.
