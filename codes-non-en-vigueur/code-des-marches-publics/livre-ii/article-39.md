@@ -6,4 +6,4 @@ Ils sont passés après mise en concurrence, dans les conditions et sous les ré
 
 Ils sont soumis à des contrôles dont les modalités sont fixées par le titre IV.
 
-Sous réserve des dispositions de l'article 105, les marchés doivent être conclus avant tout commencement d'exécution.
+Les marchés doivent être notifiés avant tout commencement d'exécution.
