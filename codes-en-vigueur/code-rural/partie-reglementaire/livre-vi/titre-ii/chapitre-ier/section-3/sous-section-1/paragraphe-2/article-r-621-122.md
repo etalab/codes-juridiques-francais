@@ -20,6 +20,12 @@ L'office est doté d'un conseil de direction qui comprend, outre son président 
 
 9° Deux personnalités représentant les consommateurs, nommées par le ministre chargé de l'agriculture sur proposition du ministre chargé de la consommation et après consultation du conseil national de la consommation ;
 
-10° Quatre représentants des pouvoirs publics dont deux désignés par le ministre chargé de l'agriculture, un par le ministre chargé de l'économie et un par le ministre chargé du budget ;
+10° Quatre représentants de l'Etat :
+
+- le directeur des politiques économique et internationale et le directeur des affaires financières au ministère chargé de l'agriculture ou leurs représentants ;
+
+- le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
+
+- le directeur du budget ou son représentant ;
 
 11° Trois personnalités représentant le secteur des alcools d'origine viti-vinicole, dont une au titre des distillateurs du secteur coopératif, nommées par arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de l'économie.
