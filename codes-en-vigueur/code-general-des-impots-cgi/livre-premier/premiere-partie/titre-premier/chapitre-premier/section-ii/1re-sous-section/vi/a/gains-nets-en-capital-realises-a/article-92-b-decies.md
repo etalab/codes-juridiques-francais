@@ -10,7 +10,7 @@ Le report est subordonné à la condition que le contribuable en fasse la demand
 
 a) Au cours des cinq années précédant la cession, le cédant doit avoir été salarié de la société dont les titres sont cédés ou y avoir exercé l'une des fonctions énumérées au 1° de l'article 885 O bis ;
 
-b) Le produit de la cession doit être investi dans la souscription en numéraire au capital initial ou dans l'augmentation de capital en numéraire d'une société créée depuis moins de sept ans à la date de l'apport. Les droits sociaux émis en contrepartie de l'apport doivent être intégralement libérés lors de leur souscription ;
+b) Le produit de la cession doit être investi dans la souscription en numéraire au capital initial ou dans l'augmentation de capital en numéraire d'une société créée depuis moins de ((quinze ans)) (M) à la date de l'apport. Les droits sociaux émis en contrepartie de l'apport doivent être intégralement libérés lors de leur souscription ;
 
 c) La société bénéficiaire de l'apport doit exercer une activité autre que celles mentionnées au deuxième alinéa du 2 du I de l'article 44 sexies et, sans avoir exercé d'option pour un autre régime d'imposition, être passible en France de l'impôt sur les sociétés de plein droit ou sur option ;
 
@@ -31,3 +31,5 @@ h) Les personnes mentionnées au g ne doivent ni être associées de la sociét�
 6. Lorsque les titres reçus en contrepartie de l'apport font l'objet d'une opération d'échange dans les conditions prévues au II de l'article 92 B ou au 4 du I ter de l'article 160, l'imposition de la plus-value antérieurement reportée en application du 1 peut, à la demande du contribuable, être reportée de nouveau au moment où s'opérera la transmission, le rachat, le remboursement ou l'annulation des nouveaux titres reçus, à condition que la plus-value réalisée lors de cet échange soit elle-même reportée.
 
 7. Un décret précise les modalités d'application du présent article, notamment les obligations déclaratives des contribuables.
+
+(M) Modification. Cette modification s'applique à compter du 1er septembre 1998.
