@@ -2,7 +2,7 @@
 
 Le lieu de dépôt des déclarations fiscales est fixé au service chargé des grandes entreprises créé par arrêté pour :
 
-1° Les personnes physiques ou morales ou groupements de personnes de droit ou de fait dont, à la clôture de l'exercice, le chiffre d'affaires hors taxes ou le total de l'actif brut figurant au bilan est supérieur ou égal à 600 millions d'euros ;
+1° Les personnes physiques ou morales ou groupements de personnes de droit ou de fait dont, à la clôture de l'exercice, le chiffre d'affaires hors taxes ou le total de l'actif brut figurant au bilan est supérieur ou égal à 400 millions d'euros ;
 
 2° Les personnes physiques ou morales ou groupements de personnes de droit ou de fait détenant à la clôture de l'exercice, directement ou indirectement, plus de la moitié du capital ou des droits de vote d'une personne morale ou d'un groupement mentionné au 1° ;
 
