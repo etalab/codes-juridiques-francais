@@ -1,4 +1,3 @@
 # IMPOTS D'ETAT
 
 - [IMPOTS DIRECTS ET TAXES ASSIMILEES](impots-directs-et)
-- [TAXES SUR LE CHIFFRE D'AFFAIRES](taxes-sur)
