@@ -1,6 +1,6 @@
 # Article 142
 
-Est puni d'une peine d'emprisonnement d'un an et d'une amende de 100 000 F le fait :
+Est puni d'une peine d'emprisonnement d'un an et d'une amende de 15 000 euros le fait :
 
 1° D'effectuer les travaux de recherches de mines :
 
@@ -20,7 +20,7 @@ Est puni d'une peine d'emprisonnement d'un an et d'une amende de 100 000 F le fa
 
 6° De ne pas justifier, sur réquisition du préfet, que les travaux d'exploitation sont soumis à une direction unique et coordonnés dans un intérêt commun, ou de ne pas désigner la personne représentant la direction unique, dans les conditions prévues par l'article 78 ;
 
-7° De ne pas déclarer, pendant la validité du titre minier, l'arrêt définitif de travaux ou d'installations, ainsi que les mesures envisagées pour protéger les intérêts mentionnés aux articles 79 et 79-1, dans les conditions prévues par le premier alinéa de l'article 84 ;
+7° De ne pas déclarer, pendant la validité du titre minier, l'arrêt définitif de travaux ou d'installations, ainsi que les mesures envisagées pour protéger les intérêts mentionnés aux articles 79 et 79-1, dans les conditions prévues par l'article 91 ;
 
 8° D'effectuer un sondage, un ouvrage souterrain ou un travail de fouille, quel qu'en soit l'objet et dont la profondeur dépasse 10 mètres, sans justifier de la déclaration prévue à l'article 131 ;
 
