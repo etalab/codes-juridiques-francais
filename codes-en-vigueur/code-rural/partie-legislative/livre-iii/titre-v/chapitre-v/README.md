@@ -1,3 +1,3 @@
-# Chapitre V : Dispositions d'application aux territoires d'outre-mer et à la collectivité territoriale de Mayotte.
+# Chapitre V : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française, à Wallis et Futuna et à Mayotte.
 
 - [Article L355-1](article-l355-1.md)

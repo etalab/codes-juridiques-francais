@@ -8,3 +8,4 @@
 - [Chapitre VI : Commission nationale des labels et des certifications de produits agricoles et alimentaires.](chapitre-vi)
 - [Article L640-1](article-l640-1.md)
 - [Article L640-2](article-l640-2.md)
+- [Article L640-3](article-l640-3.md)
