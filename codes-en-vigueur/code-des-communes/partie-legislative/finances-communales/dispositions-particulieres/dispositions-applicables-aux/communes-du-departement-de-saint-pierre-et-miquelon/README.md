@@ -1,4 +1,3 @@
 # COMMUNES DU DEPARTEMENT DE SAINT-PIERRE-ET-MIQUELON
 
 - [Article L262-10](article-l262-10.md)
-- [Article L262-15](article-l262-15.md)
