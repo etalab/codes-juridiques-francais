@@ -38,14 +38,18 @@ Ce délai n'est pas exigé lorsque le donateur ou le défunt ont été parties a
 
 L'exonération ne s'applique pas aux parts de groupements fonciers agricoles qui sont détenues ou qui ont été détenues par une société civile régie par la loi n° 70-1300 du 31 décembre 1970 fixant le régime applicable aux sociétés civiles autorisées à faire publiquement appel à l'épargne ou par une entreprise d'assurance ou de capitalisation ;
 
+Les dispositions de la loi n° 70-1299 du 31 décembre 1970 relative aux groupements fonciers agricoles [*GFA*] peuvent être étendues et adaptées aux départements d'outre-mer par décret en Conseil d'Etat, après avis des conseils généraux de ces départements (2).
+
 5° Les reversions de rentes viagères entre époux ou entre parents en ligne directe ;
 
 6° La transmission par décès du bénéfice du contrat de travail à salaire différé dont la dévolution est régie par l'article 64 du décret du 29 juillet 1939 relatif à la famille et à la natalité françaises.
 
 2. 1° (Abrogé).
 
-2° Les successions et donations entre vifs, à concurrence des trois-quarts de leur montant, intéressant les propriétés en nature de bois et forêts, à condition que soient appliquées les dispositions prévues aux articles 703, 1840 G bis-II et III, et 1929-3 ;    3° Les biens donnés à bail dans les conditions prévues aux articles L. 416-1 à L. 416-6, L. 416-8 et L. 416-9 du code rural, à concurrence des trois quarts de leur valeur, sous réserve des dispositions de l'article 793 bis (2).
+2° Les successions et donations entre vifs, à concurrence des trois-quarts de leur montant, intéressant les propriétés en nature de bois et forêts, à condition que soient appliquées les dispositions prévues aux articles 703, 1840 G bis-II et III, et 1929-3 ;    3° Les biens donnés à bail dans les conditions prévues aux articles L. 416-1 à L. 416-6, L. 416-8 et L. 416-9 du code rural, à concurrence des trois quarts de leur valeur, sous réserve des dispositions de l'article 793 bis (3).
 
 (1) Pour l'application du 4° dans les départements d'outre-mer, se reporter à l'article 822 IV.
+
+(2) Voir décret n° 179-146 du 14 février 1979.
 
 (2) Ces dispositions s'appliquent aux successions ouvertes et aux donations consenties à compter du 1er juillet 1992.
