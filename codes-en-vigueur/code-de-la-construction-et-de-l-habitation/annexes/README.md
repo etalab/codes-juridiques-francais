@@ -13,3 +13,4 @@
 - [Document prévu par l'article 1er de la présente convention.](document-prevu-par)
 - [Engagements de portée générale prévus par les annexes I et II à l'article R. 353-1.](engagements-de-portee-generale-prevus-par)
 - [Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11.](normes-minimales-d-habitabilite-des-logements-vendus-en-application-de-l-article-r)
+- [Statuts types des sociétés anonymes de crédit immobilier.](statuts-types-des-societes-anonymes-de-credit-immobilier)
