@@ -5,4 +5,5 @@
 - [Article 235 ter GA](article-235-ter-ga.md)
 - [Article 235 ter GB](article-235-ter-gb.md)
 - [Article 235 ter GC](article-235-ter-gc.md)
+- [Article 235 ter H](article-235-ter-h.md)
 - [Fonds d'assurance-formation.](fonds-d-assurance-formation)
