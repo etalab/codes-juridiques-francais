@@ -4,7 +4,6 @@
 - [Section I : Des privilèges sur les meubles](section-i)
 - [Section 2 : Des privilèges spéciaux sur les immeubles.](section-2)
 - [Section 3 : Des privilèges généraux sur les immeubles.](section-3)
-- [Section III : Des privilèges généraux sur les immeubles](section-iii)
 - [Section 4 : Comment se conservent les privilèges.](section-4)
 - [Article 2095](article-2095.md)
 - [Article 2096](article-2096.md)
