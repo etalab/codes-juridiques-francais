@@ -4,7 +4,7 @@ Dans chaque département, il est interdit de mettre en vente, de vendre, d'achet
 
 Il est interdit de mettre en vente, de vendre, de transporter, de colporter ou d'acheter sciemment du gibier mort soumis au plan de chasse non muni du bracelet de marquage ou non accompagné d'une attestation justifiant l'origine.
 
-Le ministre de l'agriculture, après avis du Conseil national de la chasse et de la faune sauvage, peut réglementer la mise en vente, la vente, l'achat, le transport et le colportage des animaux classés comme nuisibles et régulièrement détruits dans les conditions prévues aux articles 373 et 393.
+Un décret, après avis du Conseil national de la chasse et de la faune sauvage, peut réglementer la mise en vente, la vente, l'achat, le transport et le colportage des animaux classés comme nuisibles et régulièrement détruits dans les conditions prévues aux articles 373 et 393.
 
 Il est également interdit en toute saison de mettre en vente, de vendre, de transporter, de colporter ou même d'acheter sciemment le gibier tué à l'aide d'engins ou d'instruments prohibés.
 
@@ -18,6 +18,6 @@ Dans le cas prévu à l'article 371-1, la recherche du gibier de montagne pourra
 
 Il est interdit, même en temps d'ouverture de la chasse, de transporter du gibier vivant sans permis de transport délivré par le directeur général des eaux et forêts ou par le conservateur des eaux et forêts du lieu d'origine du gibier ou par leurs délégués.
 
-Il est interdit, en temps de fermeture, d'enlever les nids, de prendre ou de détruire, de colporter ou de mettre en vente, de vendre ou d'acheter, de transporter ou d'exporter les oeufs ou les couvées de perdrix, faisans, cailles et de tous autres oiseaux, ainsi que les portées ou petits de tous animaux qui n'auront pas été déclarés nuisibles par des arrêtés du ministre de l'agriculture.
+Il est interdit, en temps de fermeture, d'enlever les nids, de prendre ou de détruire, de colporter ou de mettre en vente, de vendre ou d'acheter, de transporter ou d'exporter les oeufs ou les couvées de perdrix, faisans, cailles et de tous autres oiseaux, ainsi que les portées ou petits de tous animaux sous réserve des dispositions relatives aux animaux nuisibles.
 
 Les détenteurs du droit de chasse et leurs préposés auront le droit de recueillir, pour les faire couver, les oeufs mis à découvert par la fauchaison ou l'enlèvement des récoltes.
