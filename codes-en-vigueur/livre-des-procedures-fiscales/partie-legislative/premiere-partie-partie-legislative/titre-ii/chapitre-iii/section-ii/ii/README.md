@@ -1,6 +1,7 @@
 # II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics
 
 - [Article L115](article-l115.md)
+- [Article L116](article-l116.md)
 - [Article L117](article-l117.md)
 - [Article L118](article-l118.md)
 - [Article L119](article-l119.md)
