@@ -1,6 +1,7 @@
 # Sous-section 2 : De la détention provisoire
 
 - [Article 144](article-144.md)
+- [Article 145-3](article-145-3.md)
 - [Article 146](article-146.md)
 - [Article 147](article-147.md)
 - [Article 148](article-148.md)
