@@ -9,5 +9,4 @@
 - [Article R*333-7](article-r-333-7.md)
 - [Article R*333-9](article-r-333-9.md)
 - [Article R*333-11](article-r-333-11.md)
-- [Article R*333-12](article-r-333-12.md)
 - [Article R*333-13](article-r-333-13.md)
