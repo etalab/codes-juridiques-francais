@@ -1,6 +1,7 @@
 # II : Impôt sur les spectacles, jeux et divertissements
 
 - [3° : Appareils automatiques - Obligations](3)
+- [4° : Exonérations](4)
 - [6° : Assiette et liquidation](6)
 - [7° : Obligations des exploitants.](7)
 - [8° : Répartition de l'impôt](8)

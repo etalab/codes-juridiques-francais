@@ -15,5 +15,4 @@
 - [Section VII : Bénéfice imposable des caisses de crédit mutuel agricole et rural](section-vii)
 - [Section VIII : Régime des groupes de sociétés](section-viii)
 - [Section IX : Entreprises nouvelles bénéficiant des dispositions de l'article 44 septies](section-ix)
-- [Section X : Obligations déclaratives relatives au supplément d'impôt sur les sociétés.](section-x)
 - [Section XI : Régime des amortissements réputés différés en période déficitaire en cas de reprise ou de transfert d'activités](section-xi)

@@ -5,3 +5,4 @@
 - [Section III : Mesures particulières](section-iii)
 - [Section IV : Prescription de l'action en vue du recouvrement](section-iv)
 - [Article L252](article-l252.md)
+- [Article L252 A](article-l252-a.md)
