@@ -1,6 +1,6 @@
 # LIVRE III : EMPLOI
 
 - [TITRE Ier : DÉCLARATION DE MOUVEMENTS DE MAIN-D'OEUVRE TRAVAIL CLANDESTIN](titre-ier)
-- [TITRE II : AIDES À L'EMPLOI INTERVENTION DU FONDS NATIONAL DE L'EMPLOI *FNE*](titre-ii)
+- [TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité territoriale](titre-ii)
 - [TITRE III : MAIN-D'OEUVRE ÉTRANGÈRE.](titre-iii)
 - [TITRE IV : PÉNALITÉS](titre-iv)
