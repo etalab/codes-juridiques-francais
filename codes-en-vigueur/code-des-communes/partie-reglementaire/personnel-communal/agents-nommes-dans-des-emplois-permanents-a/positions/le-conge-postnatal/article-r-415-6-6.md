@@ -1,5 +1,0 @@
-# Article R*415-6-6
-
-Si une nouvelle maternité ou adoption survient alors que le père se trouve placé en position de congé postnatal, la mère, si elle est agent communal, a droit sur sa demande à être placée en position de congé postnatal du chef du nouvel enfant, à compter du jour qui suit l'expiration de son congé pour couches et allaitement ou de son congé pour adoption. Dans ce cas, le père est réintégré de plein droit pour compter du jour qui suit l'expiration du congé pour couches et allaitement ou du congé d'adoption dont bénéficie la mère. Il peut cependant être réintégré, s'il en formule la demande au moins deux mois à l'avance, à une date comprise entre la naissance du nouvel enfant et l'expiration du congé pour couches et allaitement ou du congé d'adoption de la mère.
-
-Dans cette même hypothèse, si la mère ne sollicite pas le bénéfice d'un congé postnatal ou parental, un nouveau congé postnatal, qui succède au précédent, est accordé au père sur sa demande à compter de la naissance ou de l'arrivée au foyer du nouvel enfant adoptif. La demande doit en être formulée un mois avant la date présumée de la naissance ou de l'arrivée de l'enfant adoptif.

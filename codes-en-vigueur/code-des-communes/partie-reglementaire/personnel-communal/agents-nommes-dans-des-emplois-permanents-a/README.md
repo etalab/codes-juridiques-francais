@@ -2,4 +2,3 @@
 
 - [Dispositions générales et organiques](dispositions-generales-et)
 - [Recrutement, formation et promotion sociale](recrutement-formation-et)
-- [POSITIONS](positions)
