@@ -18,7 +18,9 @@ Le cas échéant, la plus-value ainsi calculée est majorée des amortissements 
 
 En cas de moins-value, celle-ci est diminuée des mêmes amortissements différés.
 
-III. Les dispositions du 2 du II s'appliquent également lors de la sortie du groupe d'une des sociétés qui ont cédé une immobilisation à une autre société du groupe ou lors de la sortie du groupe de la société qui est propriétaire de cette immobilisation.    Dans ce cas, la plus-value ou la moins-value est calculée en prenant pour premier terme de la différence :
+III. Les dispositions du 2 du II s'appliquent également lors de la sortie du groupe d'une des sociétés qui ont cédé une immobilisation à une autre société du groupe ou lors de la sortie du groupe de la société qui est propriétaire de cette immobilisation ou lors de l'apport d'une immobilisation amortissable entre sociétés du groupe lorsque cet apport bénéficie des dispositions de l'article 210 A du code général des impôts.
+
+Dans ce cas, la plus-value ou la moins-value est calculée en prenant pour premier terme de la différence :
 
 Pour une immobilisation amortissable, sa valeur nette comptable dans les écritures de la société qui en est propriétaire ;
 
