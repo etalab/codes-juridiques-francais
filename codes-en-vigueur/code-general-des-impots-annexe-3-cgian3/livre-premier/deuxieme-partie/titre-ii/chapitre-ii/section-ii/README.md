@@ -1,5 +1,6 @@
 # Section II : Taxe spéciale sur le prix des places de spectacles cinématographiques.
 
+- [Article 333 bis](article-333-bis.md)
 - [Article 333 bis C](article-333-bis-c.md)
 - [Article 333 bis D](article-333-bis-d.md)
 - [Article 333 bis A](article-333-bis-a.md)
