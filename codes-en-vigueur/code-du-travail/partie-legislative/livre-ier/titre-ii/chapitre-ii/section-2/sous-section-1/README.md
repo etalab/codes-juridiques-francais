@@ -1,19 +1,14 @@
-# Section 2 : Résiliation du contrat de travail à durée indéterminée
+# Sous-section 1 : Résiliation du contrat
 
-- [Sous-section 1 : Résiliation du contrat](sous-section-1)
 - [Article L122-4](article-l122-4.md)
 - [Article L122-5](article-l122-5.md)
 - [Article L122-6](article-l122-6.md)
 - [Article L122-7](article-l122-7.md)
 - [Article L122-8](article-l122-8.md)
-- [Article L122-9](article-l122-9.md)
 - [Article L122-10](article-l122-10.md)
 - [Article L122-11](article-l122-11.md)
 - [Article L122-12](article-l122-12.md)
-- [Article L122-12-1](article-l122-12-1.md)
 - [Article L122-13](article-l122-13.md)
-- [Article L122-14](article-l122-14.md)
-- [Article L122-14-1](article-l122-14-1.md)
 - [Article L122-14-2](article-l122-14-2.md)
 - [Article L122-14-3](article-l122-14-3.md)
 - [Article L122-14-4](article-l122-14-4.md)
@@ -24,4 +19,3 @@
 - [Article L122-14-10](article-l122-14-10.md)
 - [Article L122-14-11](article-l122-14-11.md)
 - [Article L122-14-12](article-l122-14-12.md)
-- [Article L122-14-13](article-l122-14-13.md)
