@@ -1,6 +1,5 @@
 # CIRCULATION.
 
-- [Article 54-0 E](article-54-0-e.md)
 - [Article 54 I](article-54-i.md)
 - [Article 54 C](article-54-c.md)
 - [Article 54 D](article-54-d.md)
