@@ -16,7 +16,7 @@ Cette commission, dont les membres sont nommés par arrêté du ministre de l'in
 
 - le préfet de police ;
 
-- deux préfets désignés par le ministre de l'intérieur ;
+- deux représentants de l'Etat dans le département désignés par le ministre de l'intérieur ;
 
 - deux maires désignés par le ministre de l'intérieur ;
 
