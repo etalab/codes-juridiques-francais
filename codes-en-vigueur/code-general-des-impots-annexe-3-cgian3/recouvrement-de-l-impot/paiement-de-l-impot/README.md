@@ -1,5 +1,4 @@
 # PAIEMENT DE L'IMPOT
 
 - [ENREGISTREMENT - PUBLICITE FONCIERE.](enregistrement)
-- [DROITS DE TIMBRE.](droits-de-timbre)
 - [IMPOTS DIRECTS ET TAXES ASSIMILEES.](impots-directs-et)
