@@ -25,3 +25,5 @@ b) Vaccin, toxine ou sérum, définis comme tous agents utilisés en vue de prov
 9° Trousse, toute préparation qui doit être reconstituée ou combinée avec des radionucléides dans le produit radiopharmaceutique final ;
 
 10° Précurseur, tout autre radionucléide produit pour le marquage radioactif d'une autre substance avant administration.
+
+11° Médicament homéopathique, tout médicament obtenu à partir de produits, substances ou compositions appelés souches homéopathiques, selon un procédé de fabrication homéopathique décrit par la pharmacopée européenne, la pharmacopée française ou, à défaut, par les pharmacopées utilisées de façon officielle dans un autre Etat membre de la Communauté européenne. Un médicament homéopathique peut aussi contenir plusieurs principes.

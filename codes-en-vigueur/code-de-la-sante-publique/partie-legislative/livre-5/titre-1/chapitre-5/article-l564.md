@@ -1,6 +1,6 @@
 # Article L564
 
-Dans tous les établissements mentionnés à l'article L. 562 et dans tous les lieux publics, les pharmaciens inspecteurs de la santé ont qualité pour [*attributions*] rechercher et constater les infractions aux dispositions du présent livre, aux lois sur la répression des fraudes et aux lois et règlements qui concernent l'exercice de la pharmacie. Même en dehors des établissements précités, les pharmaciens inspecteurs ont qualité pour rechercher et constater les infractions aux dispositions des articles L. 551 et L. 552.
+Dans tous les établissements mentionnés à l'article L. 562 et dans tous les lieux publics, les pharmaciens inspecteurs de la santé ont qualité pour [*attributions*] rechercher et constater les infractions aux dispositions du présent livre, aux lois sur la répression des fraudes et aux lois et règlements qui concernent l'exercice de la pharmacie. Même en dehors des établissements précités, les pharmaciens inspecteurs ont qualité pour rechercher et constater les infractions aux dispositions des articles L. 551-1 à L. 551-10.
 
 Outre les officiers et agents de police judiciaire agissant conformément aux dispositions du code de procédure pénale, les inspecteurs de la pharmacie peuvent rechercher et constater par procès-verbal les infractions aux dispositions législatives et réglementaires dont ils contrôlent l'application conformément à l'article L. 562.
 
