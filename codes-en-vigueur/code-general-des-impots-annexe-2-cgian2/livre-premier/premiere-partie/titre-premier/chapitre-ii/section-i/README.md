@@ -4,5 +4,3 @@
 - [2° : Bénéfice imposable de la caisse centrale et des caisses départementales et interdépartementales de crédit mutuel](2)
 - [3° : Bénéfice imposable du fonds de garantie des banques populaires.](3)
 - [Article 100](article-100.md)
-- [Article 101](article-101.md)
-- [Article 102](article-102.md)

@@ -20,4 +20,3 @@
 - [8° : Produits financiers bénéficiant aux organisations internationales aux Etats souverains étrangers, à leurs banques centrales ou institutions financières](8)
 - [9° : Emprunts émis par l'Etat](9)
 - [Sociétés mères (Voir Annexe II, les articles 54 à 56)](societes-meres-voir-annexe-ii)
-- [Sociétés mères.](societes-meres)

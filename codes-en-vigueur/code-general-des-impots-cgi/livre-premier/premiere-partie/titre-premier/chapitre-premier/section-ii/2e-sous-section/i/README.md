@@ -33,7 +33,6 @@
 - [Article 163 quinquies B](article-163-quinquies-b.md)
 - [Article 163 A](article-163-a.md)
 - [b : Détaxation du revenu investi en actions](b)
-- [Copropriétés de navires](coproprietes-de-navires)
 - [Créateurs d'entreprises.](createurs-d-entreprises)
 - [e : Plan d'épargne en vue de la retraite.](e)
 - [f : Copropriétés de navires](f)

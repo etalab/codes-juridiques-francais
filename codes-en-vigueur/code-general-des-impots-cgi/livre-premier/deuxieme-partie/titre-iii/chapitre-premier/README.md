@@ -1,6 +1,5 @@
 # Chapitre premier : Impôts directs et taxes assimilées
 
-- [Section 0I : Contributions et prélèvements sociaux perçus au profit de la caisse nationale des allocations familiales, du fonds de solidarité vieillesse et de la caisse nationale d'allocation vieillesse des travailleurs salariés](section-0i)
 - [Section I : Taxe pour frais de chambres de commerce et d'industrie](section-i)
 - [Section II : Taxe pour frais de chambres de métiers et de l'artisanat](section-ii)
 - [Section II bis : Dispositions communes à la taxe pour frais de chambres de commerce et d'industrie et à la taxe pour frais de chambres de métiers](section-ii-bis)

@@ -7,4 +7,3 @@
 - [5° : Réduction d'impôt au titre des souscriptions en numéraire au capital de sociétés non cotées](5)
 - [7° : Réduction d'impôt pour dépenses de formation du chef d'entreprise](7)
 - [8° : Réduction d'impôt au titre du rachat d'une entreprise par ses salariés.](8)
-- [Réduction d'impôt pour certains investissements dans l'immobilier locatif - Obligations.](reduction-d-impot-pour-certains-investissements-dans-l-immobilier-locatif)

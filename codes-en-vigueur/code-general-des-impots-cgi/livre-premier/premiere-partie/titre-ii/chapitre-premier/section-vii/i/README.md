@@ -9,4 +9,3 @@
 - [A  quater : Tenue des registres](a-quater)
 - [B : Déclarations de recettes](b)
 - [E : Etat récapitulatif des clients](e)
-- [F : Déclaration des échanges de biens entre les Etats membres de la Communauté économique européenne](f)

@@ -4,4 +4,3 @@
 - [D : Obligations des employeurs](d)
 - [A : Heures supplémentaires et complémentaires](a)
 - [B : Déduction des intérêts d'emprunts : obligations des contribuables et des intermédiaires](b)
-- [Rachat d'une entreprise par ses salariés.](rachat-d-une-entreprise-par-ses)

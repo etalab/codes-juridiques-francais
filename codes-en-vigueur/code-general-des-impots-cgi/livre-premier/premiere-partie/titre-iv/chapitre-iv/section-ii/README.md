@@ -16,5 +16,3 @@
 - [7° : Collectivités locales, établissements publics locaux et sociétés publiques locales](7)
 - [8°  : Etablissements publics de coopération intercommunale](8)
 - [9° : Départements d'outre-mer](9)
-- [Collectivités locales et établissements publics locaux](collectivites-locales-et)
-- [Réquisitions](requisitions)

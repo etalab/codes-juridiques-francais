@@ -14,7 +14,4 @@
 - [7° : Contrat d'apprentissage](7)
 - [8° : Contrat et certificat de travail](8)
 - [9° : Mariages. Dissentiment des parents](9)
-- [Indivisions successorales en Corse - Régime temporaire](indivisions-successorales-en-corse)
-- [Publicité foncière - Réforme - Dispositions transitoires](publicite-fonciere)
-- [Privatisations](privatisations)
 - [Achats en vue de la revente](achats-en-vue)

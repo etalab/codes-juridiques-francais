@@ -35,4 +35,3 @@
 - [XXX : Crédit d'impôt pour accroissement de la durée d'utilisation des équipements et pour réduction de la durée hebdomadaire de travail.](xxx)
 - [XXVIX : Crédit d'impôt pour dépenses d'adhésion à un groupement de prévention agréé.](xxvix)
 - [0I bis : Transferts d'actifs hors de France, réalisés par les entreprises](0i-bis)
-- [bénéfices visés aux chapitres I à III](benefices-vises-aux)

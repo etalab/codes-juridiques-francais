@@ -24,7 +24,6 @@
 - [Article 197 A](article-197-a.md)
 - [Article 197 B](article-197-b.md)
 - [Article 199](article-199.md)
-- [Article 199 terdecies-0 A](article-199-terdecies-0-a.md)
 - [Imputation des retenues à la source et crédits d'impôt.](imputation-des-retenues-a)
 - [Réduction d'impôt accordée au titre des dépenses afférentes à l'habitation principale.](reduction-d-impot-accordee-au-titre)
 - [Réduction d'impôt au titre des souscriptions au capital de sociétés nouvelles](reduction-d-impot-au-titre)
