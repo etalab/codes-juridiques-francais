@@ -4,7 +4,6 @@
 - [Article 868](article-868.md)
 - [Article 868-1](article-868-1.md)
 - [Article 869](article-869.md)
-- [Article 870](article-870.md)
 - [Article 872](article-872.md)
 - [Article 873](article-873.md)
 - [Article 873-1](article-873-1.md)

@@ -4,4 +4,4 @@ Les personnes poursuivies pour l'une des infractions mentionnées à l'article 7
 
 Cette expertise peut être ordonnée dès le stade de l'enquête par le procureur de la République.
 
-Cette expertise est communiquée à l'administration pénitentiaire en cas de condamnation à une peine privative de liberté, afin de faciliter le suivi médical et psychologique en détention prévu par l'article.
+Cette expertise est communiquée à l'administration pénitentiaire en cas de condamnation à une peine privative de liberté, afin de faciliter le suivi médical et psychologique en détention prévu par l'article 717-1.
