@@ -1,5 +1,7 @@
-# Section 4 : Conseil départemental de la chasse et de la faune sauvage.
+# Section 4 : Fédérations départementales des chasseurs
 
+- [Sous-section 1 : Adhésion et participations exigibles des adhérents.](sous-section-1)
+- [Sous-section 2 : Régime budgétaire et comptable.](sous-section-2)
 - [Article R*221-27](article-r-221-27.md)
 - [Article R*221-28](article-r-221-28.md)
 - [Article R*221-29](article-r-221-29.md)
