@@ -6,7 +6,7 @@
 - [LIVRE 4 : PROFESSIONS MEDICALES ET AUXILIAIRES MEDICAUX](livre-4)
 - [Livre 5 : Pharmacie](livre-5)
 - [Livre 6 : Utilisation thérapeutique de produits d'origine humaine](livre-6)
-- [LIVRE 7 : LABORATOIRES](livre-7)
+- [LIVRE 7 : HOPITAUX ET HOSPICES PUBLICS](livre-7)
 - [Livre 8 : Institutions](livre-8)
 - [LIVRE 9 : PERSONNEL](livre-9)
 - [Livre IX : Personnel](livre-ix)
