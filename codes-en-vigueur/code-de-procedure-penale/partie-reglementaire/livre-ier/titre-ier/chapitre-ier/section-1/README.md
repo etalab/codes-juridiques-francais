@@ -1,6 +1,5 @@
 # Section 1 : Dispositions générales
 
-- [Article D1](article-d1.md)
 - [Article D2](article-d2.md)
 - [Article D2-1](article-d2-1.md)
 - [Article D3](article-d3.md)
