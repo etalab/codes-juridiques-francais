@@ -8,4 +8,4 @@ L'organisation du temps de travail des bénéficiaires doit permettre à ceux-ci
 
 Les organismes payeurs mentionnés à l'article L. 262-30 transmettent à l'agence d'insertion la liste des bénéficiaires de l'allocation du revenu minimum d'insertion ainsi que les informations nécessaires à l'élaboration du contrat d'insertion par l'activité.
 
-Lorsqu'elles sont conservées sur support informatique, les informations mentionnées à l'alinéa précédent sont transmises dans les conditions prévues à l'article 15 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+Lorsqu'elles sont conservées sur support informatique, les informations mentionnées à l'alinéa précédent sont transmises dans les conditions prévues au chapitre IV de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
