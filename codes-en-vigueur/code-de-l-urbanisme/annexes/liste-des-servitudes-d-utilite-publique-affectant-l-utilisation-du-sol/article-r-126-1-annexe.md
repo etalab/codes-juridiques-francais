@@ -36,6 +36,10 @@ Périmètres de protection autour des réserves naturelles instituées en applic
 
 Parcs nationaux créés en application de la loi n° 60-708 du 22 juillet 1960.
 
+e) Zones agricoles protégées.
+
+Zones agricoles protégées délimitées et classées en application de l'article L. 112-2 du code rural.
+
 B. - Patrimoine culturel.
 
 a) Monuments historiques.
