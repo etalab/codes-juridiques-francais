@@ -18,6 +18,6 @@ Les organismes professionnels ou organes centraux représentant les établisseme
 
 La Banque de France est déliée du secret professionnel pour la diffusion, aux établissements de crédit et aux services financiers susvisés, des informations nominatives contenues dans le fichier.
 
-Il est interdit à la Banque de France, aux établissements de crédit et aux services financiers de La Poste de remettre à quiconque copie, sous quelque forme que ce soit, des informations contenues dans le fichier, même à l'intéressé lorsqu'il exerce son droit d'accès conformément à l'article 35 de la loi n° 78-17 du 6 janvier 1978 précitée, sous peine des sanctions prévues aux articles 43 et 44 de la même loi.
+Il est interdit à la Banque de France, aux établissements de crédit et aux services financiers de La Poste de remettre à quiconque copie, sous quelque forme que ce soit, des informations contenues dans le fichier, même à l'intéressé lorsqu'il exerce son droit d'accès conformément à l'article 39 de la loi n° 78-17 du 6 janvier 1978 précitée, sous peine des sanctions prévues aux articles 43 et 44 de la même loi.
 
 Art. L. 333-5. - Un arrêté du ministre, pris après avis de la Commission nationale de l'informatique et des libertés et du Comité consultatif du secteur financier, fixe notamment les modalités de collecte, d'enregistrement, de conservation et de consultation de ces informations."

@@ -8,3 +8,6 @@
 - [Article L611-15](article-l611-15.md)
 - [Article L611-16](article-l611-16.md)
 - [Article L611-17](article-l611-17.md)
+- [Article L611-18](article-l611-18.md)
+- [Article L611-19](article-l611-19.md)
+- [Article L611-20](article-l611-20.md)
