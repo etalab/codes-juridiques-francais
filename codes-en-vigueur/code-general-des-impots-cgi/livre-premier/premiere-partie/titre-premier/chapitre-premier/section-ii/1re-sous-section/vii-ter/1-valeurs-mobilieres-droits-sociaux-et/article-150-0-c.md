@@ -12,7 +12,7 @@ a) Au cours des trois années précédant la cession ou depuis la création de l
 
 b) Le produit de la cession doit être investi dans la souscription en numéraire au capital initial ou dans l'augmentation de capital en numéraire d'une société créée depuis moins de quinze ans à la date de l'apport. Les droits sociaux émis en contrepartie de l'apport doivent être intégralement libérés lors de leur souscription ;
 
-c) La société bénéficiaire de l'apport doit exercer une activité autre que celles mentionnées au quatrième alinéa du I de l'article 44 sexies et, sans avoir exercé d'option pour un autre régime d'imposition, être passible en France de l'impôt sur les sociétés de plein droit ou sur option ;
+c) La société bénéficiaire de l'apport doit exercer une activité autre que celles mentionnées au sixième alinéa du I de l'article 44 sexies et, sans avoir exercé d'option pour un autre régime d'imposition, être passible en France de l'impôt sur les sociétés de plein droit ou sur option ;
 
 d) La société bénéficiaire de l'apport ne doit pas avoir été créée dans le cadre d'une concentration, d'une restructuration, d'une extension ou d'une reprise d'activités préexistantes, sauf si elle répond aux conditions prévues par le I de l'article 39 quinquies H ;
 
@@ -28,7 +28,7 @@ h) Les personnes mentionnées au g ne doivent ni être associées de la sociét�
 
 5. Le non-respect de l'une des conditions prévues pour l'application du présent article entraîne, nonobstant toutes dispositions contraires, l'exigibilité immédiate de l'impôt sur la plus-value, sans préjudice de l'intérêt de retard prévu à l'article 1727 décompté de la date à laquelle cet impôt aurait dû être acquitté.
 
-6. A compter du 1er janvier 2000, lorsque les titres reçus en contrepartie de l'apport font l'objet d'une opération d'échange dans les conditions du quatrième alinéa de l'article 150 A bis ou dans les conditions prévues à l'article 150-0 B, l'imposition de la plus-value antérieurement reportée en application du 1 est reportée de plein droit au moment où s'opérera la transmission, le rachat, le remboursement ou l'annulation des nouveaux titres reçus.
+6. A compter du 1er janvier 2000, lorsque les titres reçus en contrepartie de l'apport font l'objet d'une opération d'échange dans les conditions prévues au II de l'article 150 UB et à l'article 150-0 B, l'imposition de la plus-value antérieurement reportée en application du 1 est reportée de plein droit au moment où s'opérera la transmission, le rachat, le remboursement ou l'annulation des nouveaux titres reçus.
 
 7. (Abrogé)
 

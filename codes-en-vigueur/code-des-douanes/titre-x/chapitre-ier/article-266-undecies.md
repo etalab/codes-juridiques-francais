@@ -1,6 +1,6 @@
 # Article 266 undecies
 
-Les assujettis liquident et acquittent la taxe mentionnée à l'article 266 sexies sous la forme d'une déclaration annuelle et de trois acomptes. Chaque acompte est égal à un tiers du montant de la taxe due au titre de l'année précédente et fait l'objet d'un paiement au plus tard les 10 avril, 10 juillet et 10 octobre.
+A l'exclusion de ceux mentionnés au 9 du I de l'article 266 sexies, les assujettis liquident et acquittent la taxe mentionnée à l'article 266 sexies sous la forme d'une déclaration annuelle et de trois acomptes. Chaque acompte est égal à un tiers du montant de la taxe due au titre de l'année précédente et fait l'objet d'un paiement au plus tard les 10 avril, 10 juillet et 10 octobre.
 
 Les redevables déposent, au plus tard le 10 avril de chaque année et pour la première fois le 10 avril 2003, la déclaration de la taxe due au titre de l'année précédente, ainsi que tous les éléments nécessaires au contrôle et à l'établissement de celle-ci. La forme de la déclaration et les énonciations qu'elle doit contenir sont fixées conformément aux dispositions du 4 de l'article 95.
 

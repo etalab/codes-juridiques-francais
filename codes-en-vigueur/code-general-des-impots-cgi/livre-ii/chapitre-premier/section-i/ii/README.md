@@ -10,5 +10,4 @@
 - [6 : Taxe sur les salaires](6)
 - [7 : Cotisation perçue au titre de la participation des employeurs à l'effort de construction](7)
 - [7 bis : Participation des employeurs au développement de la formation professionnelle continue](7-bis)
-- [8 : Prélèvement à la charge des sociétés](8)
 - [10 : Taxe professionnelle](10)

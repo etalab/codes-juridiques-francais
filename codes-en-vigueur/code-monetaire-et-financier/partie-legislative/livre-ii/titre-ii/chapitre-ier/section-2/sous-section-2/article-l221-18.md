@@ -5,3 +5,5 @@ Le plan d'épargne populaire ouvre droit, moyennant des versements à un compte 
 Il peut être ouvert un plan par contribuable ou par chacun des époux soumis à une imposition commune.
 
 Le montant des versements est plafonné dans une limite fixée par voie réglementaire.
+
+A compter du 25 septembre 2003, il ne peut plus être ouvert de plans d'épargne populaire.

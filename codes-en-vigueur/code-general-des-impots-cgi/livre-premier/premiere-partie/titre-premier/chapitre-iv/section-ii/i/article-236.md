@@ -13,5 +13,3 @@ Ces dispositions sont applicables aux subventions acquises au cours des exercice
 II. Lorsqu'une entreprise acquiert un logiciel, le coût de revient de celui-ci peut être amorti en totalité dès la fin de la période des onze mois consécutifs suivant le mois de cette acquisition.
 
 Cet amortissement exceptionnel s'effectue au prorata du nombre de mois restant à courir entre le premier jour du mois de la date d'acquisition du logiciel et la clôture de l'exercice ou la fin de l'année. Le solde est déduit à la clôture de l'exercice suivant ou au titre de l'année suivante.
-
-Les dispositions du quatrième alinéa du I de l'article 209 ne sont pas applicables à l'amortissement prévu par les premier et deuxième alinéas.

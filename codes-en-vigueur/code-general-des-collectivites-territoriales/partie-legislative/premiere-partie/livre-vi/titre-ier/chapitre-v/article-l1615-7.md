@@ -1,6 +1,6 @@
 # Article L1615-7
 
-- Les immobilisations cédées ou mises à disposition au profit d'un tiers ne figurant pas au nombre des collectivités ou établissements bénéficiaires du Fonds de compensation pour la taxe sur la valeur ajoutée ne peuvent donner lieu à une attribution dudit fonds.
+Les immobilisations cédées ou mises à disposition au profit d'un tiers ne figurant pas au nombre des collectivités ou établissements bénéficiaires du Fonds de compensation pour la taxe sur la valeur ajoutée ne peuvent donner lieu à une attribution dudit fonds.
 
 Toutefois, constituent des opérations ouvrant droit à une attribution du Fonds de compensation pour la taxe sur la valeur ajoutée les constructions mises en chantier, acquises à l'état neuf ou ayant fait l'objet d'une rénovation en 1992 ou en 1993, pour lesquelles les travaux sont achevés au plus tard le 31 décembre 1995 :
 
@@ -21,3 +21,5 @@ c) Données en gestion par des communes de moins de 3 500 habitants à des organ
 Constituent également des opérations ouvrant droit à une attribution du Fonds de compensation pour la taxe sur la valeur ajoutée les constructions mises en chantier, acquises à l'état neuf ou ayant fait l'objet d'une rénovation, mentionnées à l'article L. 1311-4-1, pour lesquelles les travaux ont reçu un commencement d'exécution au plus tard le 31 décembre 2007 et qui sont mises à disposition de l'Etat à titre gratuit.
 
 Par dérogation, les communes et les établissements publics de coopération intercommunale bénéficient des attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au titre des dépenses d'investissement exposées sur leurs immobilisations affectées à l'usage d'alpage.
+
+Par dérogation au premier alinéa, les collectivités territoriales et leurs groupements bénéficient des attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au titre de leurs dépenses d'investissement réalisées sur la période 2003-2005, sous maîtrise d'ouvrage publique, en matière d'infrastructures passives intégrant leur patrimoine dans le cadre du plan d'action relatif à l'extension de la couverture du territoire par les réseaux de téléphonie mobile.

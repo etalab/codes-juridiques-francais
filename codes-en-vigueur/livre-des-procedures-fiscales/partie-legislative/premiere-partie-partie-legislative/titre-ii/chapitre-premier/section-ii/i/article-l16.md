@@ -2,7 +2,7 @@
 
 En vue de l'établissement de l'impôt sur le revenu, l'administration peut demander au contribuable des éclaircissements. Elle peut, en outre, lui demander des justifications au sujet de sa situation et de ses charges de famille, des charges retranchées du revenu net global ou ouvrant droit à une réduction d'impôt sur le revenu en application des articles 156, 199 sexies et 199 septies du code général des impôts, ainsi que des avoirs ou revenus d'avoirs à l'étranger.
 
-L'administration peut demander au contribuable des justifications sur tous les éléments servant de base à la détermination du revenu foncier tels qu'ils sont définis aux articles 28 à 33 quinquies du code général des impôts ainsi que des gains de cession de valeurs mobilières ou de droits sociaux tels qu'ils sont définis aux articles 150-0 A à 150-0 E du même code.
+L'administration peut demander au contribuable des justifications sur tous les éléments servant de base à la détermination du revenu foncier tels qu'ils sont définis aux articles 28 à 33 quinquies du code général des impôts ainsi que des gains de cession de valeurs mobilières ou de droits sociaux tels qu'ils sont définis aux articles 150-0 A à 150-0 E du même code et des plus-values telles qu'elles sont définies aux articles 150 U à 150 VH du même code.
 
 Les demandes visées aux alinéas précédents doivent indiquer explicitement les points sur lesquels elles portent et mentionner à l'intéressé le délai de réponse dont il dispose en fonction des textes en vigueur.
 

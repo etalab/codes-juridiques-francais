@@ -14,4 +14,4 @@ Le taux réduit de 5,5 % s'applique également aux indemnités de toute nature p
 
 4. Les livraisons à soi-même mentionnées au 7° bis de l'article 257.
 
-II. (Abrogé pour les ventes ayant acquis date certaine à compter du 22 octobre 1998).
+5. Les ventes de droits immobiliers démembrés de logements sociaux neufs à usage locatif mentionnés aux 2 et 3, lorsque l'usufruitier bénéficie d'un prêt prévu à l'article R. 331-1 du code de la construction et de l'habitation et a conclu avec l'Etat une convention en application du 3° et du 5° de l'article L. 351-2 du même code.

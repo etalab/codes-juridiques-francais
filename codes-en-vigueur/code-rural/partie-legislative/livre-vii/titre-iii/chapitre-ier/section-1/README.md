@@ -1,4 +1,4 @@
-# Section 1 : Budget annexe des prestations sociales agricoles.
+# Section 1 : Fonds de financement des prestations sociales des non-salariés agricoles.
 
 - [Article L731-1](article-l731-1.md)
 - [Article L731-2](article-l731-2.md)

@@ -28,10 +28,12 @@ b. Le montant de ce dernier impôt.
 
 6° Par les sociétés de capital-risque lorsque ces distributions proviennent de produits et plus-values nets exonérés en application du 3° septies de l'article 208 ;
 
+6° bis Par les sociétés uni-personnelles d'investissement à risque définies à l'article 208 D lorsque ces distributions sont prélevées sur des bénéfices exonérés en application de ce même article.
+
 7° Par les personnes morales implantées dans les zones prévues au 5° de l'article 2 de la loi n° 86-793 du 2 juillet 1986 autorisant le Gouvernement à prendre diverses mesures d'ordre économique et social, lorsque ces distributions proviennent de produits nets exonérés en application de l'article 208 quinquies ;
 
 8° Par les sociétés qui, à la date de la distribution ainsi qu'à la clôture de l'exercice dont les résultats sont distribués, ont pour activité exclusive la gestion d'un portefeuille de titres de participations, ont deux tiers au moins de leur actif immobilisé composé de participations dans des sociétés dont le siège social est situé hors de France qui ouvrent droit au régime prévu aux articles 145 et 216 et retirent de ces participations deux tiers au moins de leur bénéfice comptable hors plus-values.
 
 Toutefois, l'exonération de précompte ne s'applique que pour la partie de la distribution qui provient des dividendes de ces participations ;
 
-9° par les sociétés d'investissements immobiliers cotées et leurs filiales visées à l'article 208 C et prélevés sur les bénéfices exonérés en application du premier alinéa du II de cet article.
+9° par les sociétés d'investissements immobiliers cotées et leurs filiales visées à l'article 208 C et prélevés sur les bénéfices exonérés en application du premier alinéa du II de cet article et sur les bénéfices ayant été soumis à l'imposition prévue au IV de l'article 219.
