@@ -1,6 +1,5 @@
 # Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux
 
-- [Article R*5016](article-r-5016.md)
 - [Article R5016](article-r5016.md)
 - [Article R*5017](article-r-5017.md)
 - [Article R*5018](article-r-5018.md)

@@ -1,3 +1,0 @@
-# PARAGRAPHE 3 : CONSEIL NATIONAL *DE L'ORDRE DES MEDECINS*.
-
-- [Article L411](article-l411.md)
