@@ -9,3 +9,5 @@ Si la responsabilité du tiers auteur de l'accident est entière ou si elle est 
 La victime ou ses ayants droit sont admis à faire valoir les droits résultant pour eux de l'action en indemnité formée en application des dispositions du premier alinéa ci-dessus par priorité sur ceux de l'assureur en ce qui concerne son action en remboursement.
 
 Ne sont pas regardés comme des tiers pour l'application du présent article, sauf dans le cas où le dommage résulte d'une faute intentionnelle commise par eux, le conjoint, les enfants, descendants, alliés en ligne directe, préposés, employés, ouvriers ou domestiques du chef d'entreprise ou d'exploitation ainsi que toute personne vivant habituellement au foyer de celui-ci.
+
+La victime ou ses ayants droit doivent appeler l'organisme assureur  en déclaration de jugement commun ; à défaut, la nullité du jugement sur le fond pourra être demandée pendant deux ans à compter de la date à partir de laquelle ledit jugement est devenu définitif, soit à la requête du ministère public, soit à la demande de l'assureur ou du tiers responsable lorsque ces derniers y ont intérêt.
