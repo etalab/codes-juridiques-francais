@@ -3,3 +3,4 @@
 - [Paragraphe 1 : Autorisation administrative.](paragraphe-1)
 - [PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES.](paragraphe-2)
 - [Paragraphe 3 : Fonctionnement des établissements](paragraphe-3)
+- [Article R5146](article-r5146.md)
