@@ -6,4 +6,6 @@ Toutefois, la circulation de véhicules dont le poids total en charge dépasse l
 
 2. Le montant de la taxe est exigible d'avance.
 
-3. Lorsque la taxe est recouvrée sur la base du tarif trimestriel, toute somme non réglée dans le délai de deux mois suivant la date d'exigibilité donne lieu à application d'une majoration de 10 % qui ne peut être inférieure à 10 F.
+3. Lorsque la taxe est recouvrée sur la base du tarif trimestriel, toute somme non réglée dans le délai de deux mois suivant la date d'exigibilité donne lieu à application d'une majoration de 10 %.
+
+Cette majoration n'est mise en recouvrement que lorsque son montant excède 50 F.
