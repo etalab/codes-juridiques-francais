@@ -3,6 +3,7 @@
 - [Article L124-4](article-l124-4.md)
 - [Article L124-4-2](article-l124-4-2.md)
 - [Article L124-4-3](article-l124-4-3.md)
+- [Article L124-4-4](article-l124-4-4.md)
 - [Article L124-4-5](article-l124-4-5.md)
 - [Article L124-4-7](article-l124-4-7.md)
 - [Article L124-4-8](article-l124-4-8.md)

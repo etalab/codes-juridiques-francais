@@ -5,5 +5,3 @@ Les membres titulaires du comité d'entreprise qui, à la date de promulgation d
 Le temps consacré à cette formation est pris sur le temps de travail et il est rémunéré comme tel. Il n'est pas déduit du temps qui, en application de l'article L. 434-1, est alloué aux membres du comité d'entreprise pour l'exercice de leurs fonctions [*crédit d'heures*]. Il est imputé sur la durée du congé d'éducation ouvrière.
 
 Le financement de la formation instituée au présent article est pris en charge par le comité d'entreprise.
-
-Un décret détermine, en tant que de besoin, les modalités d'application du présent article et notamment les limites de la prise en charge par l'employeur.
