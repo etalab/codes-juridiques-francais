@@ -2,7 +2,6 @@
 
 - [Titre I : Des commerçants.](titre-i)
 - [Titre II : Des livres de commerce.](titre-ii)
-- [Titre III : Des sociétés.](titre-iii)
 - [Titre V : Des bourses de commerce, agents de change et courtiers](titre-v)
 - [Titre VI : Du gage et des commissionnaires](titre-vi)
 - [Titre VII : Des achats et des ventes.](titre-vii)
