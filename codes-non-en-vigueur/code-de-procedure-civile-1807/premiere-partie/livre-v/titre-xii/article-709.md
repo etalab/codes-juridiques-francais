@@ -10,4 +10,4 @@ Faute de dénonciation ou de la mention de la déclaration dans lesdits délais,
 
 Les frais de la dénonciation faite par un autre intéressé seront supportés par le surenchérisseur qui aura négligé de faire la mention.
 
-La dénonciation est faite sans qu'il y ait à prendre expédition de la déclaration de surenchère par simple acte d'avocat ; cet acte contient avenir pour la première audience utile qui suit l'expiration d'un délai de vingt jours, à l'effet de faire prononcer la validité de la surenchère au cas où elle serait contestée ; il fixe en même temps la date de la nouvelle adjudication, laquelle ne peut avoir lieu que trente jours après celui de l'audience éventuelle.
+La dénonciation est faite sans qu'il y ait à prendre expédition de la déclaration de surenchère par simple acte d'avocat ; cet acte contient avenir pour la première audience utile qui suit l'expiration d'un délai de vingt jours, à l'effet de faire prononcer la validité de la surenchère au cas où elle serait contestée ; il fixe en même temps la date de la nouvelle adjudication, laquelle ne peut avoir lieu que quarante jours après celui de l'audience éventuelle.
