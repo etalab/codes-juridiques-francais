@@ -1,6 +1,6 @@
 # Article 313-9
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions définies aux articles 313-1 à 313-3.
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions définies aux articles 313-1 à 313-3 et à l'article 313-6-1.
 
 Les peines encourues par les personnes morales sont :
 

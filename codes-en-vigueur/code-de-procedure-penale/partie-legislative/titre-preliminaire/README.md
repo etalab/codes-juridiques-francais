@@ -21,6 +21,7 @@
 - [Article 2-17](article-2-17.md)
 - [Article 2-18](article-2-18.md)
 - [Article 2-19](article-2-19.md)
+- [Article 2-20](article-2-20.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 4-1](article-4-1.md)

@@ -12,6 +12,8 @@ Les informations relatives à l'existence, la catégorie et la validité du perm
 
 5° Aux militaires de la gendarmerie ou aux fonctionnaires de la police nationale habilités à effectuer des contrôles routiers en application des dispositions du présent code ;
 
+5° bis Aux agents de police judiciaire adjoints et aux gardes champêtres, aux seules fins d'identifier les auteurs des infractions au présent code qu'ils sont habilités à constater ;
+
 6° Aux autorités administratives civiles ou militaires pour les personnes employées ou susceptibles d'être employées comme conducteur de véhicule à moteur ;
 
 7° Aux entreprises d'assurances pour les personnes dont elles garantissent ou sont appelées à garantir la responsabilité encourue du fait des dommages causés par les véhicules à moteur.
