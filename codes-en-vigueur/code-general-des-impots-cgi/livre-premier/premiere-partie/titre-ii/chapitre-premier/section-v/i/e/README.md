@@ -6,3 +6,4 @@
 - [Article 281 bis B](article-281-bis-b.md)
 - [Article 281 bis E](article-281-bis-e.md)
 - [Article 281 bis F](article-281-bis-f.md)
+- [Article 281 bis G](article-281-bis-g.md)
