@@ -8,6 +8,7 @@
 - [Article L150-6](article-l150-6.md)
 - [Article L150-7](article-l150-7.md)
 - [Article L150-8](article-l150-8.md)
+- [Article L150-9](article-l150-9.md)
 - [Article L150-10](article-l150-10.md)
 - [Article L150-11](article-l150-11.md)
 - [Article L150-12](article-l150-12.md)
