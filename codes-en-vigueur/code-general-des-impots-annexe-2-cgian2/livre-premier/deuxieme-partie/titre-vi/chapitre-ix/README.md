@@ -1,3 +1,3 @@
 # Chapitre IX : Fonds national de développement agricole
 
-- [Taxe parafiscale sur les vins.](taxe-parafiscale-sur)
+- [Taxe parafiscale sur certaines viandes.](taxe-parafiscale-sur)
