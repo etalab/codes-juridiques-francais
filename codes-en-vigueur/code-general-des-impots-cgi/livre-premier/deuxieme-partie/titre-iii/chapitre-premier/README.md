@@ -1,6 +1,5 @@
 # Chapitre premier : Impôts directs et taxes assimilées
 
-- [Section 0I : Contribution perçue au profit de la caisse nationale des allocations familiales.](section-0i)
 - [Section I : Taxe pour frais de chambres de commerce et d'industrie](section-i)
 - [Section II : Taxe pour frais de chambres de métiers et de l'artisanat](section-ii)
 - [Section II bis : Dispositions communes à la taxe pour frais de chambres de commerce et d'industrie et à la taxe pour frais de chambres de métiers](section-ii-bis)
