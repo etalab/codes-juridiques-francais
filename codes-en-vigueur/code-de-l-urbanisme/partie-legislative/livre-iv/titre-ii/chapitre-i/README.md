@@ -1,6 +1,7 @@
 # Chapitre I : Régime général.
 
 - [Article L421-2-2](article-l421-2-2.md)
+- [Article L421-2-3](article-l421-2-3.md)
 - [Article L421-2-4](article-l421-2-4.md)
 - [Article L421-2-5](article-l421-2-5.md)
 - [Article L421-2-7](article-l421-2-7.md)
@@ -9,3 +10,4 @@
 - [Article L421-5](article-l421-5.md)
 - [Article L421-6](article-l421-6.md)
 - [Article L421-7](article-l421-7.md)
+- [Article L421-9](article-l421-9.md)

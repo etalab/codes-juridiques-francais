@@ -6,4 +6,5 @@
 - [Article L165-28](article-l165-28.md)
 - [Article L165-29](article-l165-29.md)
 - [Article L165-30](article-l165-30.md)
+- [Article L165-31](article-l165-31.md)
 - [Article L165-32](article-l165-32.md)
