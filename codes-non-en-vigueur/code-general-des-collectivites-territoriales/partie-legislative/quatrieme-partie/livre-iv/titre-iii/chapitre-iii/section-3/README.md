@@ -7,3 +7,4 @@
 - [Sous-section 5 : Energie, ressources minières et développement industriel.](sous-section-5)
 - [Sous-section 6 : Transports.](sous-section-6)
 - [Sous-section 7 : Logement.](sous-section-7)
+- [Sous-section 8 : Routes](sous-section-8)

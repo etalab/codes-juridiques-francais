@@ -6,7 +6,7 @@
 <tbody>
 <tr>
 <td width="154">
-<p>Numéros du tarif des douanes</p>
+<p>Numéro du tarif des douanes</p>
 </td>
 <td width="154">
 <p>Désignation des produits</p>
@@ -71,3 +71,5 @@ b) pour le gazole, le taux de la taxe intérieure de consommation applicable à 
 2 bis. Les produits visés au 1 ci-dessus peuvent être admis en exonération totale ou partielle de la taxe par le Conseil régional aux conditions qu'il fixe.
 
 3. En cas de relèvement des taux de la taxe spéciale dans les conditions prévues au paragraphe ci-dessus, ce relèvement s'applique aux produits déclarés pour la consommation avant la date du changement de tarif et existant en stock à cette date chez les importateurs, producteurs, raffineurs, négociants et distributeurs de produits pétroliers et assimilés, à l'exception des produits se trouvant dans les cuves des stations-service.
+
+4. Par dérogation aux dispositions du présent article, les communes de Saint-Barthélemy et de Saint-Martin fixent, par délibération du conseil municipal et dans la limite de 1,50 F par litre de carburant consommé, les taux de la taxe spéciale de consommation sur les produits visés au premier alinéa et perçoivent cette taxe sur leur territoire, en lieu et place du Conseil régional. Les recettes correspondantes sont affectées à des fonds d'investissement destinés à financer l'entretien et la modernisation de la voirie des îles de Saint-Barthélemy et de Saint-Martin. En conséquence, les communes de Saint-Barthélemy et de Saint-Martin ne bénéficient plus du reversement aux communes par la région de la Guadeloupe du produit de la taxe spéciale de consommation sur les produits visés au premier alinéa.

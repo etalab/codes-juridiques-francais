@@ -4,7 +4,7 @@
 
 Sont associés à cette élaboration l'Etat, le département et les communes. Les chambres d'agriculture, les chambres de commerce et d'industrie et les chambres de métiers le sont également, à leur demande, ainsi que les organisations professionnelles intéressées.
 
-Le projet de schéma d'aménagement, assorti des avis des conseils consultatifs régionaux, est mis à la disposition du public pendant deux mois, par le président, avant son adoption par le conseil régional.
+Le projet de schéma d'aménagement, assorti des avis du conseil général et des conseils consultatifs régionaux, est mis à la disposition du public pendant deux mois, par le président, avant son adoption par le conseil régional.
 
 Le schéma d'aménagement régional est approuvé par décret en Conseil d'Etat.
 
