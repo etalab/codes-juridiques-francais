@@ -5,3 +5,4 @@
 - [Section 3 : Les prestataires de services d'investissement](section-3)
 - [Section 4 : Les intermédiaires en biens divers](section-4)
 - [Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux](section-5)
+- [Section 6 : Obligations relatives à la lutte contre le blanchiment de capitaux](section-6)

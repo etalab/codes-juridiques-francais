@@ -1,11 +1,11 @@
 # Article L954-5
 
-L'article L. 443-1 est modifié ainsi qu'il suit :
+Le dernier alinéa de l'article L. 442-3 est remplacé par quatre alinéas ainsi rédigés :
 
-I. - Au 1°, les mots : " visés aux articles L. 326-1 à L. 326-3 du code rural " sont remplacés par les mots : " prévus par les dispositions de droit rural applicables dans le territoire " ;
+" La cessation de l'annonce publicitaire peut être ordonnée par le juge d'instruction ou par le tribunal saisi des poursuites, soit sur réquisition du ministère public, soit d'office. La mesure ainsi prise est exécutoire nonobstant toutes voies de recours.
 
-II. - Au 3°, les mots : " à l'article 403 du code général des impôts " sont remplacés par les mots : " par les dispositions du code des impôts applicable dans le territoire. "
+Mainlevée peut en être donnée par la juridiction qui l'a ordonnée ou qui est saisie du dossier. La mesure cesse d'avoir effet en cas de décision de non-lieu ou de relaxe.
 
-III. - Le 4° est ainsi rédigé :
+Les décisions statuant sur les demandes de mainlevée peuvent faire l'objet d'un recours devant la cour d'appel.
 
-" 4° A soixante-quinze jours après le jour de livraison pour les achats de boissons alcooliques passibles des droits de circulation prévus par le code des impôts applicable dans le territoire ".
+La cour d'appel statue dans un délai de dix jours à compter de la réception des pièces. "
