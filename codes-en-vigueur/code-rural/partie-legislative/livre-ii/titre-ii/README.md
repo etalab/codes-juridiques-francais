@@ -10,3 +10,5 @@
 - [Chapitre VIII : Dispositions pénales](chapitre-viii)
 - [Chapitre IX : Dispositions particulières aux départements du Bas-Rhin du Haut-Rhin et de la Moselle.](chapitre-ix)
 - [Article L220-1](article-l220-1.md)
+- [Article L220-2](article-l220-2.md)
+- [Article L220-3](article-l220-3.md)
