@@ -4,4 +4,4 @@ Ceux qui transportent, vendent ou détiennent, sans laissez-passer valable, des 
 
 En cas de récidive, la peine d'emprisonnement est toujours applicable et peut être portée à un mois.
 
-Les mêmes peines sont applicables à ceux qui transportent, vendent ou détiennent, sans laissez-passer valable soit un ou plusieurs choux-palmistes régulièrement poinçonnés et marqués, soit une ou plusieurs fougères arborescentes, soit un ou plusieurs fanjans. Les amendes prononcées, en application du présent article, ne peuvent être supérieures à 2000 F.
+Les mêmes peines sont applicables à ceux qui transportent, vendent ou détiennent, sans laissez-passer valable soit un ou plusieurs choux-palmistes régulièrement poinçonnés et marqués, soit une ou plusieurs fougères arborescentes, soit un ou plusieurs fanjans. Les amendes prononcées, en application du présent article, ne peuvent être supérieures à 6000 F.
