@@ -1,5 +1,6 @@
 # VII : Revenus des capitaux mobiliers
 
+- [1 : Produits des actions et parts sociales - Revenus assimilés](1)
 - [2 bis : Retenue à la source de l'impôt sur le revenu.](2-bis)
 - [4 : Revenus des créances, dépôts et cautionnements.](4)
 - [4 bis : Prélèvement sur les produits des bons ou contrats de capitalisation.](4-bis)

@@ -1,5 +1,6 @@
 # Section V : Calcul de l'impôt
 
+- [Article 219](article-219.md)
 - [Article 219 bis](article-219-bis.md)
 - [Article 219 ter](article-219-ter.md)
 - [Article 219 quater](article-219-quater.md)
