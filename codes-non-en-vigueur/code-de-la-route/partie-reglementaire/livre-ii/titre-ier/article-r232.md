@@ -19,3 +19,5 @@ Sera puni des peines d'emprisonnement et d'amende prévues pour les contraventio
 8° Les manoeuvres interdites par les dispositions de l'article R. 43-6 (alinéas 1 et 2) ;
 
 9° Les obligations ou interdictions définies par l'article R. 29.
+
+10° les restrictions de circulation édictées en vertu de l'article R. 53 à l'occasion des courses et épreuves sportives. "
