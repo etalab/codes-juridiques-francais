@@ -1,6 +1,7 @@
 # Chapitre V : Gestion
 
 - [Section 1 : Plan de chasse.](section-1)
+- [Section 2 : Prélèvement maximal autorisé.](section-2)
 - [Article R*225-1](article-r-225-1.md)
 - [Article R*225-2](article-r-225-2.md)
 - [Article R*225-3](article-r-225-3.md)
