@@ -2,4 +2,5 @@
 
 - [Section 1 : Dispositions communes relatives aux services d'incendie et de secours](section-1)
 - [Section 2 : Dispositions relatives au service départemental d'incendie et de secours](section-2)
+- [Section 3 : Dispositions relatives à la formation des sapeurs-pompiers volontaires](section-3)
 - [Section 4 : Dispositions diverses.](section-4)

@@ -26,7 +26,7 @@ a) Justifier de la nécessité de s'installer sans satisfaire à la condition de
 
 b) S'engager à suivre une formation complémentaire en vue d'acquérir un diplôme ou un titre mentionné au 4° ci-dessus dans un délai qui ne peut excéder la durée de l'étude prévisionnelle d'installation présentée à l'appui de sa demande conformément à l'article R. 343-5.
 
-L'avis de la commission mixte départementale porte en particulier sur les justifications présentées à l'appui de la demande.
+L'avis de la commission départementale d'orientation de l'agriculture porte en particulier sur les justifications présentées à l'appui de la demande.
 
 La moitié de la dotation d'installation mentionnée à l'article R. 343-9 est réservée. Cette part conditionnelle est libérée par le préfet lorsque le candidat justifie qu'il remplit les conditions de capacité professionnelle prévues au 4° ci-dessus ; elle ne peut plus être payée si le candidat ne justifie pas de ces conditions dans le délai de l'étude prévisionnelle.
 

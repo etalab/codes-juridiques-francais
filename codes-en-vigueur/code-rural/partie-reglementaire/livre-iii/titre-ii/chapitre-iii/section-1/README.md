@@ -1,7 +1,9 @@
 # Section 1 : Reconnaissance des groupements.
 
 - [Article R*323-1](article-r-323-1.md)
+- [Article R*323-2](article-r-323-2.md)
 - [Article R323-2](article-r323-2.md)
+- [Article R*323-3](article-r-323-3.md)
 - [Article R323-3](article-r323-3.md)
 - [Article R323-4](article-r323-4.md)
 - [Article R*323-5](article-r-323-5.md)
