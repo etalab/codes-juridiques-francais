@@ -6,3 +6,4 @@
 - [Section 4 : Ventes directes](section-4)
 - [Section 5 : Ventes ou prestations avec primes](section-5)
 - [Section 6 : Loteries publicitaires](section-6)
+- [Section 8 : Publicité et pratiques commerciales concernant les préparations pour nourrissons](section-8)
