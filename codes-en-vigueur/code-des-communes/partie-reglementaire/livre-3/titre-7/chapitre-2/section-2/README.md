@@ -1,6 +1,5 @@
 # SECTION 2 : Régime financier des services d'assainissement, redevance d'assainissement.
 
-- [Article R*372-6](article-r-372-6.md)
 - [Article R*372-7](article-r-372-7.md)
 - [Article R*372-8](article-r-372-8.md)
 - [Article R*372-9](article-r-372-9.md)

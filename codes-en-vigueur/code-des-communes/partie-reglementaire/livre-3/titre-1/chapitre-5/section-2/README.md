@@ -13,5 +13,3 @@
 - [Article R*315-13](article-r-315-13.md)
 - [Article R*315-14](article-r-315-14.md)
 - [Article R*315-15](article-r-315-15.md)
-- [Article R315-16](article-r315-16.md)
-- [Article R*315-17](article-r-315-17.md)

@@ -4,4 +4,3 @@
 - [SECTION 2 : Concessions funéraires.](section-2)
 - [SECTION 3 : Chambres funéraires.](section-3)
 - [SECTION 4 : Crémations.](section-4)
-- [SECTION 5 : Dispositions diverses.](section-5)
