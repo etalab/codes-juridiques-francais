@@ -1,6 +1,6 @@
 # Article 122
 
-1. La société agréée est autorisée à imputer sur le montant de l'impôt sur les sociétés dont elle est redevable, au titre de chaque exercice, à raison du résultat consolidé, les prélèvements fiscaux effectués, au titre du même exercice, hors de la France métropolitaine et des départements d'outre-mer, sur les bénéfices de ses exploitations directes et indirectes.
+1. La société agréée est autorisée à imputer sur le montant de l'impôt sur les sociétés et du précompte dont elle est redevable, au titre de chaque exercice, à raison du résultat consolidé, les prélèvements fiscaux effectués, au titre du même exercice, hors de la France métropolitaine et des départements d'outre-mer, sur les bénéfices de ses exploitations directes et indirectes.
 
 Les prélèvements fiscaux s'entendent des impôts de quotité, exprimés en unité monétaire, assis sur un résultat fiscal, non déductibles de ce résultat et qui sont versés, à titre définitif et sans contrepartie, au profit d'Etats souverains, d'Etats membres d'Etats fédéraux ou confédérés ou de territoires non souverains jouissant de l'autonomie financière par rapport à l'Etat souverain dont ils dépendent.
 
@@ -20,6 +20,4 @@ En ce qui concerne les exploitations indirectes, cette imputation porte sur la f
 
 La limite de l'imputation est calculée, au titre de l'exercice sur les bénéfices duquel la distribution est prélevée, à partir du total ainsi formé.
 
-5. Les montants des impôts étrangers imputables sont convertis en francs français à la date de clôture de l'exercice au titre duquel ils ont été acquittés. Il incombe à la société agréée d'apporter la preuve du paiement effectif de ces impôts. Les rappels ou les dégrèvements d'impôts imputables doivent être notifiés à l'administration dans le délai mentionné au 3 de l'article 128. Les bases de l'impôt sur les sociétés dû au titre de l'exercice auquel se rapportent ces rappels ou ces dégrèvements sont régularisées en conséquence (1).
-
-(1) Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 1992.
+5. Les montants des impôts étrangers imputables sont convertis en francs français à la date de clôture de l'exercice au titre duquel ils ont été acquittés. Il incombe à la société agréée d'apporter la preuve du paiement effectif de ces impôts. Les rappels ou les dégrèvements d'impôts imputables doivent être notifiés à l'administration dans le délai mentionné au 3 de l'article 128. Les bases de l'impôt sur les sociétés dû au titre de l'exercice auquel se rapportent ces rappels ou ces dégrèvements sont régularisées en conséquence.
