@@ -11,5 +11,6 @@
 - [Chapitre IX : Des relations des détenus avec l'extérieur](chapitre-ix)
 - [Chapitre X : Des actions de préparation à la réinsertion des détenus](chapitre-x)
 - [Chapitre XI : De différentes catégories de détenus](chapitre-xi)
+- [Article D50](article-d50.md)
 - [Article D51](article-d51.md)
 - [Article D52](article-d52.md)

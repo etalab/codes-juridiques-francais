@@ -9,3 +9,6 @@
 - [Article D370](article-d370.md)
 - [Article D371](article-d371.md)
 - [Article D372](article-d372.md)
+- [Article D372-1](article-d372-1.md)
+- [Article D372-2](article-d372-2.md)
+- [Article D372-3](article-d372-3.md)

@@ -6,3 +6,4 @@
 - [Article D79](article-d79.md)
 - [Article D80](article-d80.md)
 - [Article D81](article-d81.md)
+- [Article D82](article-d82.md)
