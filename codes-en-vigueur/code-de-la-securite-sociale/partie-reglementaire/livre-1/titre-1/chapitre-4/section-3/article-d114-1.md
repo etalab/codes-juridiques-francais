@@ -46,6 +46,8 @@ k) Le président du conseil d'administration de l'association générale des ins
 
 l) Le président du conseil d'administration de l'association des régimes de retraites complémentaires.
 
+m) Un représentant désigné par la fédération nationale de la mutualité française.
+
 6° Le président du Centre national des professions de santé ainsi que deux représentants des organisations professionnelles de médecins et trois représentants des établissements de soins désignés par le ministre chargé de la sécurité sociale.
 
 7° Six personnalités qualifiées désignées pour leur compétence particulière par le ministre chargé de la sécurité sociale.
