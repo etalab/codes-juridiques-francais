@@ -10,4 +10,6 @@ L'Etat contrôle, en outre, dans des conditions fixées par voie réglementaire,
 
 Les départements sont consultés sur la définition et le contenu des formations.
 
+La Caisse nationale de solidarité pour l'autonomie mentionnée à l'article L. 14-10-1 participe aux travaux relatifs à la définition et au contenu des formations qui concernent les personnels salariés et non salariés engagés dans la prévention et la compensation des handicaps et de la perte d'autonomie.
+
 Un décret fixe les modalités d'application du présent article et, notamment, les sanctions encourues en cas de non-respect des prescriptions du présent article.

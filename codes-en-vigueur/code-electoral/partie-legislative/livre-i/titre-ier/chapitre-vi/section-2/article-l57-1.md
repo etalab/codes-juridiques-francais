@@ -6,7 +6,9 @@ Les machines à voter doivent être d'un modèle agréé par arrêté du ministr
 
 - comporter un dispositif qui soustrait l'électeur aux regards pendant le vote ;
 
-- permettre plusieurs élections de type différent le même jour à compter du 1er janvier 1991  ;
+- permettre aux électeurs handicapés de voter de façon autonome, quel que soit leur handicap ;
+
+- permettre plusieurs élections de type différent le même jour à compter du 1er janvier 1991 ;
 
 - permettre l'enregistrement d'un vote blanc ;
 

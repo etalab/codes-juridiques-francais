@@ -16,7 +16,7 @@ Le président du conseil général décide :
 
 2° De l'octroi de la prestation spécifique dépendance mentionnée à la section 1 du chapitre 2 du titre III du livre II ;
 
-3° De l'octroi de l'allocation compensatrice aux personnes handicapées, mentionnée à l'article L. 245-1, dans les conditions prévues par les articles L. 245-2 à L. 245-9.
+3° Paragraphe abrogé
 
 4° De l'octroi de l'allocation de revenu minimum d'insertion dans les conditions prévues au chapitre II du titre VI du livre II.
 

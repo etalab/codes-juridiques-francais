@@ -7,3 +7,4 @@
 - [Titre V : Territoire des îles Wallis et Futuna](titre-v)
 - [Titre VI : Polynésie française](titre-vi)
 - [Titre VII : Nouvelle-Calédonie](titre-vii)
+- [Titre VIII : Terres australes et antarctiques françaises](titre-viii)
