@@ -2,6 +2,7 @@
 
 - [Paragraphe 1er : CONDUITE DES VÉHICULES ET DES ANIMAUX.](paragraphe-1er)
 - [Paragraphe Ier : CONDUITE DES VÉHICULES ET DES ANIMAUX.](paragraphe-ier)
+- [Paragraphe 2 : VITESSE.](paragraphe-2)
 - [Paragraphe II : VITESSE.](paragraphe-ii)
 - [Paragraphe III : CROISEMENTS ET DÉPASSEMENTS.](paragraphe-iii)
 - [Paragraphe IV : INTERSECTIONS DE ROUTES - PRIORITÉ DE PASSAGE.](paragraphe-iv)
