@@ -1,4 +1,4 @@
-# Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public.
+# Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales.
 
 - [Article A60](article-a60.md)
 - [Article A61](article-a61.md)
