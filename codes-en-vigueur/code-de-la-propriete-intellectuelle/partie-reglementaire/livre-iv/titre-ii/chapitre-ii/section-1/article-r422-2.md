@@ -4,7 +4,7 @@ L'inscription sur la liste prévue à l'article R. 422-1 est subordonnée aux co
 
 1° Offrir ou s'engager à offrir dans un délai de trois mois au public les services prévus à l'article L. 422-1 soit à titre individuel ou en groupe, soit comme salarié d'un autre conseil en propriété industrielle ou d'une société de conseil en propriété industrielle ;
 
-2° Etre de nationalité française ou ressortissant d'un autre Etat membre de l'Union européenne ;
+2° Etre de nationalité française ou ressortissant d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ;
 
 3° Avoir un domicile ou un établissement professionnel en France ;
 

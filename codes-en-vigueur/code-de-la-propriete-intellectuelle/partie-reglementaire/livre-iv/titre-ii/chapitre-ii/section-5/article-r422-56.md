@@ -13,3 +13,5 @@ La chambre de discipline, prévue à l'article L. 422-10 pour connaître des man
 5° Deux personnalités qualifiées.
 
 Les membres désignés aux 1°, 2°, 4° et 5° ont des suppléants nommés dans les mêmes conditions.
+
+La chambre de discipline connaît également des manquements à leurs obligations des autres personnes admises à exercer en France des activités relevant de la profession de conseil en propriété industrielle.
