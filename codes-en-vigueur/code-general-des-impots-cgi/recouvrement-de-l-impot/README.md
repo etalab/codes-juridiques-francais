@@ -1,6 +1,5 @@
 # RECOUVREMENT DE L'IMPOT
 
-- [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS](degrevements-et)
 - [SURETES ET PRIVILEGES](suretes-et)
 - [PAIEMENT DE L'IMPOT](paiement-de-l-impot)
 - [PENALITES](penalites)

@@ -36,6 +36,4 @@
 - [Article 1840 N](article-1840-n.md)
 - [Article 1840 N bis](article-1840-n-bis.md)
 - [Article 1840 N quater](article-1840-n-quater.md)
-- [Article 1840 O](article-1840-o.md)
-- [Article 1840 R](article-1840-r.md)
 - [Article 1840 W bis](article-1840-w-bis.md)

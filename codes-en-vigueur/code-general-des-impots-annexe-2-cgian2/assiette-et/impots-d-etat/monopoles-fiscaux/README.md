@@ -1,3 +1,0 @@
-# MONOPOLES FISCAUX
-
-- [TABACS.](tabacs)

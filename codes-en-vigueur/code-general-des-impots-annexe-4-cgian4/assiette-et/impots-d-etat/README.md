@@ -4,5 +4,4 @@
 - [CONTRIBUTIONS INDIRECTES](contributions-indirectes)
 - [DROITS DE TIMBRE](droits-de-timbre)
 - [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE](droits-d-enregistrement-et)
-- [MONOPOLES FISCAUX](monopoles-fiscaux)
 - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES](taxes-sur)
