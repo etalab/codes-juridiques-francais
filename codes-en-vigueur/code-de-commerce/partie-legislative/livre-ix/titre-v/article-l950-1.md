@@ -16,4 +16,4 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 
 7° Le livre VII, à l'exception des articles L. 711-5, L. 711-9, L. 720-1 à L. 730-17.
 
-8° Le livre VIII, à l'exception des articles L. 812-1 à L. 813-2.
+8° Le livre VIII, à l'exception des articles L. 812-1 à L. 813-1.
