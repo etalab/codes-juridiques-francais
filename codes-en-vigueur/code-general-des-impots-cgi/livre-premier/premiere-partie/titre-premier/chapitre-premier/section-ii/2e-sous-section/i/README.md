@@ -1,5 +1,6 @@
 # I : Revenu imposable
 
+- [i : Investissements réalisés dans les départements et territoires d'outre-mer et les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon.](i)
 - [c : Financement en capital d'oeuvres cinématographiques ou audiovisuelles.](c)
 - [Article 156](article-156.md)
 - [Article 157](article-157.md)
