@@ -4,3 +4,5 @@
 - [Article R302-25](article-r302-25.md)
 - [Article R302-26](article-r302-26.md)
 - [Article R302-27](article-r302-27.md)
+- [Article R302-28](article-r302-28.md)
+- [Article R302-29](article-r302-29.md)
