@@ -1,0 +1,16 @@
+# Section 1 : Organisation et fonctionnement des services médicaux du travail.
+
+- [Paragraphe c) Examens médicaux périodiques des salariés.](paragraphe-c)
+- [Paragraphe d) Visite de reprise.](paragraphe-d)
+- [Paragraphe a) Les médecins du travail.](paragraphe-a)
+- [Paragraphe b) Visites d'embauchage.](paragraphe-b)
+- [Article D822-2](article-d822-2.md)
+- [Article D822-3](article-d822-3.md)
+- [Article D822-4](article-d822-4.md)
+- [Article D822-5](article-d822-5.md)
+- [Article D822-6](article-d822-6.md)
+- [Article D822-7](article-d822-7.md)
+- [Article D822-8](article-d822-8.md)
+- [Article D822-9](article-d822-9.md)
+- [Paragraphe e) Examens complémentaires.](paragraphe-e)
+- [Paragraphe f) Surveillance de l'hygiène des entreprises.](paragraphe-f)

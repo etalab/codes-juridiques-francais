@@ -1,0 +1,4 @@
+# PAIEMENT DU SALAIRE
+
+- [MODE DE PAIEMENT DU SALAIRE .](mode-de-paiement-du-salaire)
+- [PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE .](privileges-et)

@@ -1,0 +1,3 @@
+# Article L147-2
+
+Les sommes mentionnées à l'article précédent ne doivent pas être confondues avec le salaire fixe ni lui être substituées, sauf dans le cas où un salaire minimum a été garanti par l'employeur.

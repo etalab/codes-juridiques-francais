@@ -1,0 +1,3 @@
+# Article L761-10
+
+L'autorité administrative établit chaque année [*périodicité*] une liste des entreprises de journaux ou périodiques qui ont pris pour la durée de l'année considérée l'engagement de payer aux journalistes employés par eux et, d'une manière générale, à toute personne mentionnée à l'article L. 761-2 qui est à leur service, des salaires non inférieurs à ceux qui ont été fixés, pour chaque catégorie professionnelle et pour chaque département ou chaque région, par décision d'une commission mixte comprenant des représentants des organisations professionnelles de directeurs ou entrepreneurs de journaux et périodiques et de journalistes.

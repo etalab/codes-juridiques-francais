@@ -12,4 +12,4 @@
 - [Aménagement foncier Organismes d'exécution](amenagement-foncier-organismes-d-execution)
 - [Droit de préemption](droit-de-preemption)
 - [Implantation des services, établissements et entreprises](implantation-des-services-etablissements-et)
-- [Règles générales d'aménagement et d'urbanisme Prévisions et règles d'urbanisme](regles-generales-d-amenagement-et)
+- [Règles générales d'aménagement et d'urbanisme Espaces boisés](regles-generales-d-amenagement-et)

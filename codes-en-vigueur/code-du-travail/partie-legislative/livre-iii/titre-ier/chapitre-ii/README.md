@@ -1,0 +1,3 @@
+# Chapitre II : PLACEMENT PRIVE
+
+- [SECTION 2 : PLACEMENT PAYANT.](section-2)
