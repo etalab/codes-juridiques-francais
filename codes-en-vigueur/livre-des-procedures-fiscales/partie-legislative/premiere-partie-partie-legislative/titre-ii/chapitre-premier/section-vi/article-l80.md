@@ -4,4 +4,4 @@ L'administration peut effectuer toutes les compensations entre l'impôt sur le r
 
 Des compensations peuvent être pratiquées dans les mêmes conditions en ce qui concerne les droits d'enregistrement, la taxe de publicité foncière exigible sur les actes qui donnent lieu à la formalité fusionnée en application de l'article 647 du code général des impôts et les droits de timbre, perçus au profit de l'Etat.
 
-Les compensations de droits sont opérées dans les mêmes conditions au profit du contribuable qui a fait l'objet d'un redressement lorsqu'il démontre qu'une taxation excessive a été établie à son détriment ou lorsque le redressement fait apparaître une double imposition.
+Les compensations de droits sont opérées dans les mêmes conditions au profit du contribuable qui a fait l'objet d'une rectification lorsqu'il démontre qu'une taxation excessive a été établie à son détriment ou lorsque la rectification fait apparaître une double imposition.
