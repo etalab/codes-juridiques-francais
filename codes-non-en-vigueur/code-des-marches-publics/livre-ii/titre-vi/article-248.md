@@ -1,0 +1,3 @@
+# Article 248
+
+La personne responsable du marché informe le bureau d'adjudication, la commission d'appel d'offres, la commission ou le jury prévus aux articles 98, 99, 108 bis et 108 ter de l'exécution de chaque marché, dont le montant est supérieur au seuil visé au 10° du I de l'article 104, dans les trois mois qui suivent la date de mandatement du solde du marché. Cette information comporte au moins le montant initial du marché, le montant total des sommes effectivement versées et, le cas échéant, les raisons de l'écart entre ces deux montants, ainsi que les modifications substantielles ayant affecté la consistance du marché.

@@ -1,0 +1,3 @@
+# Article *53
+
+Sont pris en considération, pour l'application de l'article 52, les impôts directs, les contributions indirectes, les taxes sur le chiffre d'affaires, les taxes assimilées, les droits d'enregistrement, les cotisations de sécurité sociale et d'allocations familiales, les cotisations aux caisses de congés payés et de chômage intempéries, pour lesquels les délais des déclarations nécessaires à l'assiette sont échus à la date du 31 décembre de l'année précédant celle au cours de laquelle a eu lieu l'avis d'adjudication, l'appel d'offres ou l'offre de l'administration, ainsi que tous impôts et cotisations visés ci-dessus, qui sont devenus exigibles à cette date, avec les majorations et pénalités y afférentes.

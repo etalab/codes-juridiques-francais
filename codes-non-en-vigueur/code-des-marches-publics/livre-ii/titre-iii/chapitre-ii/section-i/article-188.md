@@ -1,0 +1,7 @@
+# Article 188
+
+L'autorité qui a traité avec l'entrepreneur ou fournisseur remet à celui-ci une copie certifiée conforme de l'original revêtue d'une mention dûment signée, comme l'original, par l'autorité dont il s'agit et indiquant que cette pièce est délivrée en unique exemplaire en vue de la notification éventuelle d'une cession ou d'un nantissement de créance.
+
+Toutefois, pour tout marché prévoyant plusieurs comptables assignataires, l'autorité contractante doit fournir autant d'exemplaires que de comptables à la condition de spécifier, dans la mention apposée sur chacun de ces documents, qu'il est le seul destiné à être remis entre les mains de tel comptable expressément désigné à l'exclusion de tous autres mentionnés au marché. Si la remise de la copie certifiée conforme à l'entrepreneur ou au fournisseur est impossible en raison du secret exigé pour la défense ou pour toute autre cause, l'intéressé peut demander à l'autorité avec laquelle il a traité un extrait en autant d'exemplaires qu'il existe de comptables assignataires. Ledit extrait doit porter la mention prévue plus haut et contenir les indications compatibles avec le secret exigé. Il remplacera la copie certifiée conforme visée au premier alinéa du présent article.
+
+S'il est procédé à une modification dans la désignation du comptable ou dans les conditions du règlement, l'autorité contractante annote la copie certifiée conforme, ou l'extrait visé à l'alinéa précédent, d'une mention constatant la modification.

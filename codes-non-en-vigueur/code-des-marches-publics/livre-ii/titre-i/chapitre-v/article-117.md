@@ -1,0 +1,11 @@
+# Article 117
+
+Les cahiers des clauses administratives générales doivent contenir des clauses par lesquelles l'entrepreneur ou le fournisseur, sans préjudice de l'observation des prescriptions législatives et réglementaires relatives à la protection des travailleurs, s'engage à observer les conditions suivantes en ce qui concerne les chantiers ou ateliers organisés ou fonctionnant en vue de l'exécution du marché :
+
+1° Faire connaître, huit jours au moins avant l'ouverture des chantiers ou ateliers susvisés au service départemental de la main-d'oeuvre compétent pour le lieu où s'exécuteront les travaux, ses besoins de main-d'oeuvre par profession, avec toutes indications utiles concernant les conditions de travail, de salaire, et généralement tous renseignements de nature à intéresser les chômeurs en quête d'emploi. Il doit renouveler ces indications en temps opportun, toutes les fois qu'il se trouve dans l'obligation de procéder à de nouveaux embauchages, notamment par suite de l'extension des travaux. Il doit accueillir les candidats présentés par le service départemental de la main-d'oeuvre. Toutefois, sa liberté d'embauche reste entière et il n'est pas tenu d'engager les ouvriers qui ne présentent pas les aptitudes requises. Il doit, en cas de refus en indiquer le motif sur le coupon de réponse de la carte de présentation délivrée par le service et qui est renvoyée à celui-ci par l'entrepreneur ;
+
+2° Payer aux ouvriers un salaire normal égal pour chaque profession, et dans chaque profession pour chaque catégorie d'ouvriers, au taux couramment appliqué dans la localité ou la région où le travail est exécuté. Les heures supplémentaires de travail faites par les ouvriers au-delà de la durée légale sont majorées dans les conditions prévues par la législation en vigueur ou par les conventions collectives de travail applicables dans la profession et dans la région si celles-ci prévoient des taux supérieurs ;
+
+3° Assurer, en tout état de cause, à son personnel les autres conditions de travail qui peuvent être fixées par les conventions collectives ou les usages pour chaque profession et, dans chaque profesion, pour chaque catégorie d'ouvriers, dans la localité ou la région où le travail est exécuté.
+
+Dans les cas prévus à l'article 104, 1° et 2°, l'insertion des clauses et conditions ci-dessus énoncées est facultative.
