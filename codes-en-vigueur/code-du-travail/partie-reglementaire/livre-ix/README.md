@@ -2,4 +2,3 @@
 
 - [Titre Ier : Des institutions de la formation professionnelle](titre-ier)
 - [Titre IV : De l'aide de l'Etat.](titre-iv)
-- [Titre VIII : Modalités d'application dans les départements d'outre-mer des articles L. 960-16 et L. 960-18](titre-viii)
