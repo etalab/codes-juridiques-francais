@@ -8,6 +8,8 @@
 - [Article R*814-22](article-r-814-22.md)
 - [Article R*814-23](article-r-814-23.md)
 - [Article R*814-24](article-r-814-24.md)
+- [Article R814-33](article-r814-33.md)
+- [Article R814-34](article-r814-34.md)
 - [Article R814-35](article-r814-35.md)
 - [Article R814-36](article-r814-36.md)
 - [Article R814-37](article-r814-37.md)
