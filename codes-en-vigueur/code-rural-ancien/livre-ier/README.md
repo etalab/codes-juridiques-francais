@@ -7,4 +7,3 @@
 - [Titre V : Des eaux nuisibles](titre-v)
 - [Titre VI : Equipement rural](titre-vi)
 - [Titre VII : Du contrôle des structures des exploitations agricoles.](titre-vii)
-- [Titre VIII : De l'aménagement des superficies des exploitations et propriétés agricoles dans les départements de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane.](titre-viii)
