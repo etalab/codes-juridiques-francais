@@ -1,5 +1,6 @@
 # Section 1 : Dispositions générales
 
+- [Article 306](article-306.md)
 - [Article 307](article-307.md)
 - [Article 309](article-309.md)
 - [Article 310](article-310.md)
