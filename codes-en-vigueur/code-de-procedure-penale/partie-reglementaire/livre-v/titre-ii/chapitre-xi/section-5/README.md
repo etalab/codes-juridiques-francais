@@ -2,3 +2,5 @@
 
 - [Article D514](article-d514.md)
 - [Article D515](article-d515.md)
+- [Article D518](article-d518.md)
+- [Article D519](article-d519.md)
