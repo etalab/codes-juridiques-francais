@@ -1,5 +1,6 @@
 # Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.
 
+- [Article 1142-12](article-1142-12.md)
 - [Article 1142-13](article-1142-13.md)
 - [Article 1142-14](article-1142-14.md)
 - [Article 1142-15](article-1142-15.md)

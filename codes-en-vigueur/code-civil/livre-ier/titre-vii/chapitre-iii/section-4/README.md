@@ -1,5 +1,6 @@
 # Section 4 : De l'action à fins de subsides
 
+- [Article 342](article-342.md)
 - [Article 342-1](article-342-1.md)
 - [Article 342-2](article-342-2.md)
 - [Article 342-3](article-342-3.md)
