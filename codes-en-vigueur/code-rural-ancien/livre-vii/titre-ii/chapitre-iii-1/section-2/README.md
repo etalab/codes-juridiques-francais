@@ -1,5 +1,6 @@
 # Section 2 : Prestations.
 
+- [Article 1106-2](article-1106-2.md)
 - [Article 1106-3](article-1106-3.md)
 - [Article 1106-3-1](article-1106-3-1.md)
 - [Article 1106-4](article-1106-4.md)
