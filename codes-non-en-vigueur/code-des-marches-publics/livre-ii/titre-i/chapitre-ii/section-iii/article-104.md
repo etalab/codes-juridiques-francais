@@ -28,7 +28,7 @@ b) De maintenir ou de développer, dans le cadre des mesures qui ont été préa
 
 8° Pour les marchés de services :
 
-a) Ayant pour objet des services d'assurances ou des services bancaires ou d'investissement. Ces marchés ne font pas référence aux cahiers des clauses administratives générales prévus à l'article 112 ;
+a) Ayant pour objet des services d'assurance, ou des services bancaires ou d'investissement autres que les services mentionnés au 1 ou au 2 de l'article 39-1. Ces marchés ne font pas référence aux cahiers des clauses administratives générales prévus à l'article 112 ;
 
 b) (paragraphe annulé par décision du Conseil d'Etat)
 

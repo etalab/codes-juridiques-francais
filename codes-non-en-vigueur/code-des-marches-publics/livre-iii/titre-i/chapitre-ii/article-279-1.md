@@ -26,7 +26,7 @@ Tous les membres du jury ont voix délibérative.
 
 Le directeur départemental de la concurrence, de la consommation et de la répression des fraudes et le comptable public ou leurs représentants assistent avec voix consultative et leurs observations sont consignées au procès-verbal.
 
-V. - Les prestations sont transmises de manière anonyme au jury. Celui-ci les analyse, en vérifie la conformité au règlement de la consultation du marché et en propose un classement fondé sur les critères d'appréciation indiqués dans l'avis d'appel public à la concurrence.
+V. - Le jury analyse les prestations, en vérifie la conformité au règlement de la consultation du marché et en propose un classement fondé sur les critères d'appréciation indiqués dans l'avis d'appel public à la concurrence.
 
 Le cas échéant, il propose la réduction ou la suppression des indemnités à verser aux participants dont les prestations ne sont pas strictement conformes au règlement de la consultation du marché.
 
