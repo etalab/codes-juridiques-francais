@@ -9,5 +9,4 @@
 - [Article L39-6](article-l39-6.md)
 - [Article L40](article-l40.md)
 - [Article L43](article-l43.md)
-- [Article L44](article-l44.md)
 - [Article L45](article-l45.md)

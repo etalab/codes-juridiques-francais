@@ -4,7 +4,6 @@
 - [Titre II : Production](titre-ii)
 - [Chapitre III : Sucrages](chapitre-iii)
 - [Titre III : Importation](titre-iii)
-- [Chapitre IV : Vins mousseux](chapitre-iv)
 - [Titre IV : Commerce](titre-iv)
 - [Titre V : Circulation](titre-v)
 - [Titre VI : Imposition](titre-vi)
