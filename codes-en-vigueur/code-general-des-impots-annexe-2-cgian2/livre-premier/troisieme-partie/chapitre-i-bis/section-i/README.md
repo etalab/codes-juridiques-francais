@@ -1,7 +1,9 @@
 # Section I : Centres de gestion agréés
 
 - [Article 371 I](article-371-i.md)
+- [Article 371 LC](article-371-lc.md)
 - [Article 371 C](article-371-c.md)
+- [Article 371 LD](article-371-ld.md)
 - [Article 371 D](article-371-d.md)
 - [Article 371 A](article-371-a.md)
 - [Article 371 E](article-371-e.md)
@@ -11,3 +13,6 @@
 - [Article 371 H](article-371-h.md)
 - [Article 371 J](article-371-j.md)
 - [Article 371 K](article-371-k.md)
+- [Article 371 LA](article-371-la.md)
+- [Article 371 LB](article-371-lb.md)
+- [Article 371 LE](article-371-le.md)
