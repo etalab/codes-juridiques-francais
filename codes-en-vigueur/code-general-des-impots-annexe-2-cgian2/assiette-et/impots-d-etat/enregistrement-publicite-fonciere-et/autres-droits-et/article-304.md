@@ -2,7 +2,7 @@
 
 Sont exonérés de la taxe :
 
-1° Les véhicules ayant plus de vingt ans d'âge ou plus de vingt-cinq ans d'âge selon qu'il s'agit de motocyclettes ou d'autres véhicules ;
+1° Les véhicules ayant plus de vingt-cinq ans d'âge ;
 
 2° Les véhicules mentionnés à l'article R 105 du code de la route, qui sont destinés normalement au transport en commun de personnes ;
 
@@ -17,3 +17,5 @@ Sont exonérés de la taxe :
 7° Les véhicules appartenant aux voyageurs, représentants de commerce et placiers [*VRP*], titulaires de la carte professionnelle d'identité instituée par la loi modifiée du 8 octobre 1919, et délivrée, validée ou renouvelée depuis moins d'un an.
 
 L'exonération prévue au 7° est limitée à un seul véhicule par propriétaire.
+
+(1) Annexe IV, art. 121 V.
