@@ -1,0 +1,3 @@
+# PARAGRAPHE 3 : MODALITES D'APPLICATION.
+
+- [Article L284-1](article-l284-1.md)

@@ -1,0 +1,5 @@
+# Article L167
+
+Si un enfant tombe malade chez une nourrice ou une gardienne et que les parents n'aient pas pris de mesures nécessaires pour qu'il reçoive les soins médicaux, la nourrice ou la gardienne, après avoir appelé le médecin pour la première visite, en informe le maire qui prononce l'admission d'urgence à l'aide médicale sauf recours contre les parents et, éventuellement, le bureau des nourrices.
+
+Si l'enfant placé chez une nourrice ou une gardienne ne paraît pas recevoir tous les soins matériels ou moraux nécessaires, le directeur départemental de la Santé [*autorité compétente*] peut, après mise en demeure adressée aux parents, prononcer le retrait de l'enfant de chez la nourrice ou la gardienne et le placer provisoirement chez une autre personne. Il en réfère ensuite au préfet qui statue en ce qui concerne le placement définitif de l'enfant et le retrait du certificat de la nourrice prévu à l'article 170 ci-après. Il peut interdire, le cas échéant, à cette dernière, de recevoir de nouveaux enfants.

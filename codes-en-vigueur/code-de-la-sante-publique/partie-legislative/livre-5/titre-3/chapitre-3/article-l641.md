@@ -1,0 +1,7 @@
+# Article L641
+
+Il est interdit à tout producteur ou fabricant d'essences pouvant servir à la fabrication des boissons alcooliques, telles que les essences d'anis, de badiane, de fenouil, d'hysope, ainsi qu'aux producteurs ou fabricants d'anéthol, de procéder à la vente ou à l'offre, à titre gratuit, desdits produits à toutes personnes autres que les fabricants de boissons ayant qualité d'entrepositaires vis-à-vis de l'Administration des contributions indirectes, les pharmaciens, les parfumeurs, les fabricants de produits alimentaires ou industriels et les négociants exportateurs directs [*habilitation*].
+
+La revente de ces produits en nature sur le marché intérieur est interdite à toutes ces catégories à l'exception des pharmaciens qui ne peuvent les délivrer que sur ordonnance médicale et doivent inscrire les prescriptions qui les concernent sur leur registre d'ordonnances [*obligation*].
+
+Sans préjudice des interdictions visées à l'article 1768 [*nouvel article 1817*] du Code général des impôts, des décrets pris en conseil des ministres fixeront les conditions dans lesquelles les essences visées à l'alinéa 1er du présent article ainsi que les essences d'absinthe et produits assimilés ou susceptibles de les suppléer, pourront, sous quelque forme que ce soit, être importés, fabriqués, mis en circulation, détenus ou vendus. Ils ne pourront être mis en vente dans les territoires d'outre-mer [*interdiction*].

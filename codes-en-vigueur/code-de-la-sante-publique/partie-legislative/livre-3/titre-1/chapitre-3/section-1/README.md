@@ -1,0 +1,7 @@
+# Section 1 : Organisation médico-technique.
+
+- [Article L242](article-l242.md)
+- [Article L243](article-l243.md)
+- [Article L244](article-l244.md)
+- [Article L245](article-l245.md)
+- [Article L246](article-l246.md)

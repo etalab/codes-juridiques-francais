@@ -1,0 +1,3 @@
+# SECTION 2 : BUREAU MUNICIPAL D'HYGIENE.
+
+- [Article L772](article-l772.md)

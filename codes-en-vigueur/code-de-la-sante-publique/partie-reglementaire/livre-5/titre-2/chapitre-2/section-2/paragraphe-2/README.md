@@ -1,0 +1,3 @@
+# PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE.
+
+- [Article R5142-1](article-r5142-1.md)
