@@ -8,7 +8,7 @@ Les supports de cet enregistrement sont placés sous scellés et déposés au gr
 
 L'enregistrement sonore peut être utilisé devant la cour d'assises, jusqu'au prononcé de l'arrêt ; s'il l'est au cours de la délibération, les formalités prévues au troisième alinéa de l'article 347 sont applicables. L'enregistrement sonore peut encore être utilisé devant la Cour de cassation saisie d'une demande en révision, ou, après cassation ou annulation sur demande en révision, devant la juridiction de renvoi, en ce qui concerne les déclarations faites par des personnes qui ne peuvent plus être entendues.
 
-Les scellés sont ouverts par le premier président ou par un magistrat délégué par lui, en présence du condamné assisté de son conseil, ou eux dûment appelés, ou en présence de l'une des personnes visées à l'article 623 (3°), ou elles dûment appelées.
+Les scellés sont ouverts par le premier président ou par un magistrat délégué par lui, en présence du condamné assisté de son avocat, ou eux dûment appelés, ou en présence de l'une des personnes visées à l'article 623 (3°), ou elles dûment appelées.
 
 Après présentation des scellés, le premier président fait procéder par un expert à une transcription de l'enregistrement qui est jointe au dossier de la procédure.
 

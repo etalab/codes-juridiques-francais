@@ -1,5 +1,6 @@
 # Section 9 : De l'expertise
 
+- [Article 156](article-156.md)
 - [Article 157](article-157.md)
 - [Article 157-1](article-157-1.md)
 - [Article 158](article-158.md)

@@ -19,5 +19,3 @@ Le procès-verbal est transmis au procureur de la République, copie en ayant é
 Si elle n'est suivie à l'égard de la personne qui a été retenue d'aucune procédure d'enquête ou d'exécution adressée à l'autorité judiciaire, la vérification d'identité ne peut donner lieu à une mise en mémoire sur fichiers et le procès-verbal ainsi que toutes les pièces se rapportant à la vérification sont détruits dans un délai de six mois sous le contrôle du procureur de la République.
 
 Dans le cas où il y a lieu à procédure d'enquête ou d'exécution adressée à l'autorité judiciaire et assortie du maintien en garde à vue, la personne retenue doit être aussitôt informée de son droit de faire aviser le procureur de la République de la mesure dont elle fait l'objet.
-
-Les prescriptions énumérées au présent article sont imposées à peine de nullité.

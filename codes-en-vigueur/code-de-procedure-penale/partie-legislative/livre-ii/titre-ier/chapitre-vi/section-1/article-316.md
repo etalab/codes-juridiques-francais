@@ -1,6 +1,6 @@
 # Article 316
 
-Tous incidents contentieux sont réglés par la cour, le ministère public, les parties ou leurs conseils entendus.
+Tous incidents contentieux sont réglés par la cour, le ministère public, les parties ou leurs avocats entendus.
 
 Ces arrêts ne peuvent préjuger du fond.
 
