@@ -4,7 +4,7 @@ Une taxe sur la publicité télévisée est due par les personnes qui assurent l
 
 Elle est assise sur le message publicitaire selon les tarifs suivants :
 
-a) 1,5 euro par message dont le prix est au plus égal à 150 euros ;
+a) abrogé
 
 b) 3,80 euros par message dont le prix est supérieur à 150 euros et au plus égal à 1 520 euros ;
 

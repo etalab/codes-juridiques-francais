@@ -5,7 +5,6 @@
 - [Article L4433-3](article-l4433-3.md)
 - [Article L4433-3-1](article-l4433-3-1.md)
 - [Article L4433-3-2](article-l4433-3-2.md)
-- [Article L4433-3-3](article-l4433-3-3.md)
 - [Article L4433-3-4](article-l4433-3-4.md)
 - [Article L4433-4](article-l4433-4.md)
 - [Article L4433-4-1](article-l4433-4-1.md)
