@@ -6,7 +6,7 @@ Si l'exercice d'options de souscription d'actions dans les conditions prévues �
 
 Les sociétés du groupe restent soumises à l'obligation de déclarer leurs résultats qui peuvent être vérifiés dans les conditions prévues par les articles L. 13, L. 47 et L. 57 du livre des procédures fiscales. La société mère supporte, au regard des droits et des pénalités visées à l'article 2 de la loi n° 87-502 du 8 juillet 1987 modifiant les procédures fiscales et douanières, les conséquences des infractions commises par les sociétés du groupe.
 
-Seules peuvent être membres du groupe les sociétés qui ont donné leur accord et dont les résultats sont soumis à l'impôt sur les sociétés dans les conditions de droit commun ou selon les modalités prévues à l'article 217 bis.
+Seules peuvent être membres du groupe les sociétés qui ont donné leur accord et dont les résultats sont soumis à l'impôt sur les sociétés dans les conditions de droit commun ou selon les modalités prévues aux articles 214 et 217 bis.
 
 Les sociétés du groupe doivent ouvrir et clore leurs exercices aux mêmes dates ; les exercices ont une durée de douze mois. L'option mentionnée au premier alinéa est notifiée avant la date d'ouverture de l'exercice au titre duquel le régime défini au présent article s'applique. Toutefois, l'option produit immédiatement effet, pour les exercices ouverts au cours des six premiers mois de l'année 1988, si elle est formulée avant le 1er juillet 1988. L'option est valable cinq ans.
 

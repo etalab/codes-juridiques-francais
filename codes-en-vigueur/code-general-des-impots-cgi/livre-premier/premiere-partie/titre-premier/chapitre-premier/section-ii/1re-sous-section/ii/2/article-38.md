@@ -26,25 +26,39 @@ Lorsque des établissements de crédit ou des maisons de titres mentionnés à l
 
 5. Le profit ou la perte résultant de cessions de titres par un fonds commun de placement est compris dans le résultat de l'exercice au cours duquel les parts du fonds sont cédées par l'entreprise. Le profit ou la perte est déterminé par différence entre le prix de cession et la valeur des parts au bilan de l'entreprise (2).
 
-5 bis. Le profit ou la perte résultant de l'échange de titres consécutif à la fusion ou à la scission de sociétés d'investissement à capital variable et de fonds communs de placement est compris dans le résultat imposable de l'exercice au cours duquel les titres reçus en échange sont cédés. Lors de l'échange, ces derniers titres sont inscrits au bilan pour la valeur comptable des titres échangés.
+5 bis. Le profit ou la perte résultant de l'échange de titres consécutif à la fusion ou à la scission de sociétés d'investissement à capital variable et de fonds communs de placement est compris dans le résultat imposable de l'exercice au cours duquel les titres reçus en échange sont cédés. Dans ce cas, le profit ou la perte résultant de la cession ultérieure de ces titres est déterminé par rapport à la valeur que les titres remis à l'échange avaient du point de vue fiscal.
+
+Toutefois, en cas d'échange avec soulte, le profit réalisé est, à concurrence du montant de la soulte reçue, compris dans le bénéfice de l'exercice au cours duquel intervient l'échange.
+
+Les dispositions des deux alinéas qui précèdent ne sont pas applicables si la soulte excède 10 p. 100 de la valeur nominale des parts ou actions reçues, ou si elle excède le profit réalisé (3).
 
 6. 1° Par exception aux 1 et 2, le profit ou la perte résultant de l'exécution de contrats à terme d'instruments financiers en cours à la clôture de l'exercice est compris dans les résultats de cet exercice ; il est déterminé d'après le cours constaté au jour de la clôture sur le marché sur lequel le contrat a été conclu.
 
-Ces dispositions s'appliquent aux contrats, options et autres instruments financiers à terme conclus en France ou à l'étranger, qui sont cotés sur une bourse de valeurs ou traités sur un marché ou par référence à un marché (3) ;
+Ces dispositions s'appliquent aux contrats, options et autres instruments financiers à terme conclus en France ou à l'étranger, qui sont cotés sur une bourse de valeurs ou traités sur un marché ou par référence à un marché (4) ;
 
-2° Dans le cas où un contrat à terme d'instruments financiers en cours à la clôture de l'exercice a pour cause exclusive de compenser le risque d'une opération de l'exercice suivant, traitée sur un marché de nature différente, l'imposition du profit réalisé sur le contrat est reportée au dénouement de celui-ci, à condition que les opérations dont la compensation est envisagée figurent sur le document prévu au 3° (4) ;
+2° Dans le cas où un contrat à terme d'instruments financiers en cours à la clôture de l'exercice a pour cause exclusive de compenser le risque d'une opération de l'exercice suivant, traitée sur un marché de nature différente, l'imposition du profit réalisé sur le contrat est reportée au dénouement de celui-ci, à condition que les opérations dont la compensation est envisagée figurent sur le document prévu au 3° (5) ;
 
 2° bis Le profit sur un contrat à terme portant sur des devises et ayant pour seul objet la couverture du risque de change d'une opération future est imposé au titre du ou des mêmes exercices que l'opération couverte à la condition que cette dernière soit identifiée dès l'origine par un acte ou un engagement précis et mesurable pris à l'égard d'un tiers. Les profits concernés et l'opération couverte doivent être mentionnés sur un document annexé à la déclaration des résultats de chaque exercice et établi conformément au modèle fixé par l'administration.
 
 3° Lorsqu'une entreprise a pris des positions symétriques, la perte sur une de ces positions n'est déductible du résultat imposable que pour la partie qui excède les gains non encore imposés sur les positions prises en sens inverse.
 
-Pour l'application de ces dispositions, une position s'entend de la détention directe ou indirecte, de contrats à terme d'instruments financiers, de valeurs mobilières, de devises, de titres de créances négociables, de prêts ou d'emprunts ou d'un engagement portant sur ces éléments.
+Pour l'application de ces dispositions, une position [*définition*] s'entend de la détention directe ou indirecte, de contrats à terme d'instruments financiers, de valeurs mobilières, de devises, de titres de créances négociables, de prêts ou d'emprunts ou d'un engagement portant sur ces éléments.
 
 Des positions sont qualifiées de symétriques si leurs valeurs ou leurs rendements subissent des variations corrélées telles que le risque de variation de valeur ou de rendement de l'une d'elles est compensé par une autre position, sans qu'il soit nécessaire que les positions concernées soient de même nature ou prises sur la même place, ou qu'elles aient la même durée.
 
-Les positions symétriques prises au cours de l'exercice et celles qui sont en cours à la clôture doivent être mentionnées sur un document annexé à la déclaration de résultats de l'exercice. A défaut, la perte sur une position n'est pas déductible du résultat imposable (5).
+Les positions symétriques prises au cours de l'exercice et celles qui sont en cours à la clôture doivent être mentionnées sur un document annexé à la déclaration de résultats de l'exercice. A défaut, la perte sur une position n'est pas déductible du résultat imposable (6).
 
-7. Le profit ou la perte résultant de l'échange sans soulte d'actions effectué dans le cadre d'une offre publique d'échange, réalisée conformément à la réglementation en vigueur, est compris dans le résultat de l'exercice au cours duquel les actions reçues en échange sont cédées. Les actions reçues en échange sont inscrites au bilan pour la même valeur comptable que celle des actions échangées (6).
+7. Le profit ou la perte résultant de l'échange d'actions effectué dans le cadre d'une offre publique d'échange, réalisée conformément à la réglementation en vigueur, est compris dans le résultat de l'exercice au cours duquel les actions reçues en échange sont cédées. Dans ce cas, le profit ou la perte résultant de la cession ultérieure de ces titres est déterminé par rapport à la valeur que les actions remises à l'échange avaient du point de vue fiscal. Toutefois, en cas d'échange avec soulte, la plus-value réalisée est, à concurrence du montant de la soulte reçue, comprise dans le bénéfice de l'exercice au cours duquel intervient l'échange. Le montant imposable peut bénéficier du régime des plus-values à long terme prévu à l'article 39 duodecies, dans la limite de la plus-value réalisée sur les titres détenus depuis deux ans au moins.
+
+Ces dispositions ne sont pas applicables si la soulte dépasse 10 p. 100 de la valeur nominale des parts ou des actions attribuées ou si la soulte reçue excède la plus-value réalisée.
+
+Pour les opérations réalisées au cours d'exercices clos à compter du 31 décembre 1991, les dispositions du présent paragraphe ne sont pas applicables si l'un des coéchangistes remet à l'échange des actions émises lors d'une augmentation de capital réalisée par une société qui détient directement ou indirectement une participation dans l'autre société avec laquelle l'échange est réalisé ou par une société détenue directement ou indirectement par cette dernière (7).
+
+7 bis. Le profit ou la perte réalisé lors de l'échange de droits sociaux résultant d'une fusion de sociétés, ou d'une scission de société bénéficiant du régime prévu à l'article 210 B, peut être compris dans le résultat de l'exercice au cours duquel les droits sociaux reçus en échange sont cédés. Dans ce cas, le profit ou la perte résultant de la cession ultérieure de ces droits sociaux est déterminé par rapport à la valeur que les droits sociaux remis à l'échange avaient du point de vue fiscal.
+
+Toutefois, en cas d'échange avec soulte, la plus-value réalisée est, à concurrence du montant de la soulte reçue, comprise dans le bénéfice de l'exercice au cours duquel intervient l'échange. Le montant imposable peut bénéficier du régime des plus-values à long terme prévu à l'article 39 duodecies, dans la limite de la plus-value réalisée sur les titres détenus depuis deux ans au moins.
+
+Ces dispositions ne sont pas applicables si la soulte dépasse 10 p. 100 de la valeur nominale des parts ou des actions attribuées ou si la soulte excède la plus-value réalisée (7).
 
 8. 1° La plus-value de cession séparée de valeurs mobilières et de droits de souscription qui leur sont attachés, acquis pour un prix unique, est calculée par référence à la fraction du prix d'acquisition afférente à chacun de ces éléments.
 
@@ -62,7 +76,7 @@ Les provisions qui sont transférées au poste d'écart d'équivalence ainsi que
 
 3° En cas de cession de titres mentionnés au 2°, la plus-value ou la moins-value est déterminée en fonction de leur prix de revient ;
 
-4° Un décret définit les modalités d'application du présent article ainsi que les obligations déclaratives des entreprises qui appliquent la méthode d'évaluation prévue au 1° (7).
+4° Un décret définit les modalités d'application du présent article ainsi que les obligations déclaratives des entreprises qui appliquent la méthode d'évaluation prévue au 1° (8).
 
 10. La plus-value de cession d'un immeuble par une société civile immobilière non soumise à l'impôt sur les sociétés dont les parts ont été affectées par une société d'assurance à la couverture de contrats d'assurance sur la vie à capital variable prévus par l'article L. 131-1 du code des assurances est comprise dans le résultat imposable de la société d'assurance sous déduction des profits de réévaluation constatés lors des estimations annuelles de ces parts dans les comptes de la société d'assurance.
 
@@ -70,14 +84,14 @@ La moins-value de même nature est retenue dans les mêmes conditions, et ne peu
 
 (1) En ce qui concerne les plus-values réalisées dans le cadre des opérations de nationalisation, voir art. 248 A.
 
-(2) Disposition applicable pour la détermination des résultats des exercices clos à compter du 16 avril 1986. Pour les exercices en cours à cette date, voir loi n°86-824 du 11 juillet 1986, art. 21-II.
+(2) Disposition applicable pour la détermination des résultats des exercices clos à compter du 16 avril 1986. Pour les exercices en cours à cette date, voir loi n° 86-824 du 11 juillet 1986, art. 21-II.
 
-(3) Voir annexe III, art. 2 A.
+(3) Dispositions applicables à compter du 1er janvier 1991.
 
-(4) Voir annexe III, art. 2 B.
+(4) Voir annexe III, art. 2 A.
 
-(5) Voir annexe III, art. 2 C.
+(5) Voir annexe III, art. 2 B.
 
-(6) Ces dispositions s'appliquent aux opérations d'échange réalisées à compter du 1er janvier 1988.
+(6) Voir annexe III, art. 2 C.
 
-(7) Voir annexe III, art. 38 B.
+(7) Ces dispositions s'appliquent aux opérations qui affectent les résultats des exercices ouverts à compter du 1er janvier 1992. (8) Voir annexe III, art. 38 B.

@@ -1,6 +1,6 @@
 # Article 635
 
-Doivent être enregistrés dans le délai d'un mois à compter de leur date [*point de départ*] :
+Doivent être enregistrés dans le délai d'un mois à compter de leur date :
 
 1. Sous réserve des dispositions des articles 637 et 647 :
 
@@ -32,8 +32,8 @@ Doivent être enregistrés dans le délai d'un mois à compter de leur date [*po
 
 7° Les actes portant cession d'actions, de parts de fondateurs ou de parts bénéficiaires ou cession de parts sociales dans les sociétés dont le capital n'est pas divisé en actions ;
 
-8° Lorsque le loyer annuel excède 10.000 F [*montant*], les acte portant mutation de jouissance de fonds de commerce ou de clientèles et de droits de chasse ou de droits de pêche ;
+8° Lorsque le loyer annuel excède 12.000 F, les acte portant mutation de jouissance de fonds de commerce ou de clientèles et de droits de chasse ou de droits de pêche ;
 
-9° Lorsque le loyer annuel excède 10.000 F, les actes portant mutation de jouissance à durée limitée d'immeubles ruraux.
+9° Lorsque le loyer annuel excède 12.000 F, les actes portant mutation de jouissance à durée limitée d'immeubles ruraux.
 
 (1) Voir Annexe IV, art. 60.

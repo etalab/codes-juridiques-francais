@@ -7,3 +7,4 @@
 - [Article 150 septies](article-150-septies.md)
 - [Article 150 octies](article-150-octies.md)
 - [Article 150 nonies](article-150-nonies.md)
+- [Article 150 decies](article-150-decies.md)

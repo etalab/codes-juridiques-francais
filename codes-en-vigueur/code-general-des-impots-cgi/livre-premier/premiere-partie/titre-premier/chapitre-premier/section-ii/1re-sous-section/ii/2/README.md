@@ -4,6 +4,7 @@
 - [Article 37](article-37.md)
 - [Article 38](article-38.md)
 - [Article 38 bis](article-38-bis.md)
+- [Article 38 bis C](article-38-bis-c.md)
 - [Article 38 bis A](article-38-bis-a.md)
 - [Article 38 bis B](article-38-bis-b.md)
 - [Article 38 ter](article-38-ter.md)

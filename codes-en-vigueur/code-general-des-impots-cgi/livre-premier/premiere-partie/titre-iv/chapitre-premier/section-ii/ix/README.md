@@ -2,3 +2,4 @@
 
 - [Article 843](article-843.md)
 - [Article 843 A](article-843-a.md)
+- [Article 843 B](article-843-b.md)

@@ -1,4 +1,4 @@
-# Réduction d'impôt accordée au titre des dépenses afférentes à l'habitation principale.
+# Réduction d'impôt accordée au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet.
 
 - [Article 199 quater D](article-199-quater-d.md)
 - [Article 199 sexies](article-199-sexies.md)
@@ -11,4 +11,5 @@
 - [Article 199 decies](article-199-decies.md)
 - [Article 199 undecies](article-199-undecies.md)
 - [Article 199 quindecies](article-199-quindecies.md)
+- [Article 199 sexdecies](article-199-sexdecies.md)
 - [Article 200](article-200.md)
