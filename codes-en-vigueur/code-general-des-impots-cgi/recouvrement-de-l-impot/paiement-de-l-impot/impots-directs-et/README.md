@@ -12,4 +12,3 @@
 - [Article 1681 C](article-1681-c.md)
 - [Article 1681 D](article-1681-d.md)
 - [Article 1681 B](article-1681-b.md)
-- [Article 1685](article-1685.md)
