@@ -12,6 +12,8 @@
 - [Article 131-28](article-131-28.md)
 - [Article 131-29](article-131-29.md)
 - [Article 131-30](article-131-30.md)
+- [Article 131-30-1](article-131-30-1.md)
+- [Article 131-30-2](article-131-30-2.md)
 - [Article 131-31](article-131-31.md)
 - [Article 131-32](article-131-32.md)
 - [Article 131-33](article-131-33.md)

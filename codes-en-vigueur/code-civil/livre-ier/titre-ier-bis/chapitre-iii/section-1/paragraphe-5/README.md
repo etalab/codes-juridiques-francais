@@ -11,5 +11,6 @@
 - [Article 21-22](article-21-22.md)
 - [Article 21-23](article-21-23.md)
 - [Article 21-24](article-21-24.md)
+- [Article 21-24-1](article-21-24-1.md)
 - [Article 21-25](article-21-25.md)
 - [Article 21-25-1](article-21-25-1.md)
