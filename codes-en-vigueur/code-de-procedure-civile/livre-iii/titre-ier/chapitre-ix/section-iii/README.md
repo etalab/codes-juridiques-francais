@@ -6,5 +6,6 @@
 - [Article 1204](article-1204.md)
 - [Article 1205](article-1205.md)
 - [Article 1206](article-1206.md)
+- [Article 1207](article-1207.md)
 - [Article 1209](article-1209.md)
 - [Article 1210](article-1210.md)
