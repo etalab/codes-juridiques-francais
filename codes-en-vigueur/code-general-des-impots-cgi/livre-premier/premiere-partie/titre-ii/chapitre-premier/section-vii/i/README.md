@@ -8,3 +8,4 @@
 - [A ter : Numéro individuel d'identification](a-ter)
 - [A  quater : Tenue des registres](a-quater)
 - [B : Déclarations de recettes](b)
+- [F : Déclaration des échanges de biens entre les Etats membres de la Communauté économique européenne](f)

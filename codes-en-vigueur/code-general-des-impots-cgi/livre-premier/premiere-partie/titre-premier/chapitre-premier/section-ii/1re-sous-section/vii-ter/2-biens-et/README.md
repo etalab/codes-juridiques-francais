@@ -19,5 +19,6 @@
 - [Article 150 O](article-150-o.md)
 - [Article 150 P](article-150-p.md)
 - [Article 150 Q](article-150-q.md)
+- [Article 150 R](article-150-r.md)
 - [Article 150 S](article-150-s.md)
 - [Article 150 T](article-150-t.md)
