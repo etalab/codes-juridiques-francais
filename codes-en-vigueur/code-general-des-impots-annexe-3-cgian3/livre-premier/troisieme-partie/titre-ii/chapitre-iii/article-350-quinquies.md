@@ -20,6 +20,8 @@ La direction générale des douanes et droits indirects reçoit :
 
 9° Les déclarations et exerce les compétences mentionnées au premier alinéa de l'article 425 du code général des impôts ainsi qu'aux articles 308, 343, 455, 483, 502 et 1565 du même code ;
 
-10° La déclaration mentionnée à l'article 1560 ter du code général des impôts ;
+10° La déclaration mentionnée à l'article ((1565 quinquies)) (M) du code général des impôts ;
 
 11° La déclaration de cesser en application de l'article 1570 du code général des impôts.
+
+(M) Modification.
