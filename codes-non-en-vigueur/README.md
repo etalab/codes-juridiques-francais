@@ -5,6 +5,7 @@
 - [Code de commerce](code-de-commerce)
 - [Code de déontologie des chirurgiens-dentistes](code-de-deontologie-des-chirurgiens-dentistes)
 - [Code de déontologie des médecins](code-de-deontologie-des-medecins)
+- [Code de déontologie des sages-femmes](code-de-deontologie-des-sages-femmes)
 - [Code de l'enseignement technique](code-de-l-enseignement-technique)
 - [Code de l'industrie cinématographique](code-de-l-industrie-cinematographique)
 - [Code de la nationalité française.](code-de-la-nationalite-francaise)
