@@ -1,5 +1,6 @@
 # Chapitre III : Des hypothèques.
 
+- [Section 1 : Des hypothèques légales.](section-1)
 - [Section 2 : Des hypothèques judiciaires.](section-2)
 - [Section 3 : Des hypothèques conventionnelles.](section-3)
 - [Section IV : Du rang que les hypothèques ont entre elles.](section-iv)
