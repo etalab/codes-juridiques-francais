@@ -5,6 +5,7 @@
 - [Article 709](article-709.md)
 - [Article 710](article-710.md)
 - [Article 711](article-711.md)
+- [Article 712](article-712.md)
 - [Article 713](article-713.md)
 - [Article 714](article-714.md)
 - [Article 715](article-715.md)
