@@ -10,6 +10,8 @@ Les marchés sont passés après une mise en concurrence préalable dans les cas
 
 2° Pour les travaux, fournitures ou services qui, après adjudication ou appel d'offres, n'ont fait l'objet d'aucune soumission ou offre ou pour lesquels il n'a été proposé que des soumissions ou des offres inacceptables ;
 
+Dans ce cas, l'autorité compétente est tenue de consulter par écrit au moins la moitié des candidats ayant adressé une offre ;
+
 3° Dans les cas d'urgence, pour les travaux, fournitures ou services que l'administration doit faire exécuter au lieu et place de l'entrepreneur ou du fournisseur défaillant ;
 
 4° Pour l'exécution des travaux, fournitures ou services, dans les cas d'urgence impérieuse motivée par des circonstances imprévisibles ne permettant pas de respecter les délais prévus aux sections 1 et 2 du présent chapitre ;
@@ -24,9 +26,9 @@ b) De maintenir ou de développer, dans le cadre des mesures qui ont été préa
 
 7° Pour les fournitures ou services qu'il importe de choisir ou de faire exécuter en certains lieux à raison de leur nature particulière et de l'emploi auquel ils sont destinés ;
 
-8° Pour les besoins ne pouvant être satisfaits que par une prestation nécessitant l'emploi d'un brevet d'invention, d'une licence ou de droits exclusifs ;
+8° (paragraphe abrogé).
 
-9° Pour les études et pour les prestations faisant suite à plusieurs marchés de définition dans les conditions prévues aux articles 106 à 111 ;
+9° Pour les études industrielles, les études de maîtrise d'oeuvre définies à l'article 107.
 
 10° Pour les travaux, fournitures ou services dont la valeur n'excède pas, pour le montant total de l'opération, un seuil de 700 000 F (T.T.C.).
 
@@ -42,16 +44,6 @@ Il en est ainsi dans les cas suivants :
 
 2° Lorsque les besoins ne peuvent être satisfaits que par une prestation qui, à cause des nécessités techniques, d'investissements préalables importants, d'installations spéciales ou de savoir-faire, ne peut être confiée qu'à un entrepreneur ou un fournisseur déterminé.
 
-3° Pour de nouveaux travaux consistant dans la répétition d'ouvrages similaires confiés au titulaire d'un premier marché, à condition :
-
-a) Que ces travaux soient conformes à un projet technique de base résultant soit d'études faites par l'administration, soit d'un concours lancé par elle ;
-
-b) Que le premier marché ait été passé après adjudication ou appel d'offres ;
-
-c) Que la possibilité de recourir à cette procédure ait été indiquée dès la mise en concurrence du premier marché ;
-
-d) Que cette procédure soit remise en oeuvre dans les trois ans qui suivent la notification du premier marché ;
-
-e) Que cette procédure procure une amélioration manifeste des conditions financières du marché par rapport au marché précédent.
+3° Pour les prestations mentionnées à la dernière phrase de l'article 108.
 
 Ces marchés sont dispensés de l'avis d'appel public à la concurrence prévu à l'article 38.

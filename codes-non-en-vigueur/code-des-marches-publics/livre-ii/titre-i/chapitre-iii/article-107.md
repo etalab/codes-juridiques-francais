@@ -1,5 +1,5 @@
 # Article 107
 
-Les marchés d'études sont dits "de définition" lorsqu'ils ont pour objet d'explorer les possibilités et les conditions d'établissement d'un marché ultérieur ; ces marchés doivent permettre de préciser les buts et performances à atteindre, les techniques de base à utiliser, les moyens en personnel et en matériel à mettre en oeuvre. Ils doivent également permettre d'estimer le niveau du prix des prestations, les modalités de sa détermination et de prévoir les différentes phases de l'exécution des prestations. Il peut être passé plusieurs marchés de définition pour un même objet.
+Les marchés d'études sont dits "marchés d'études industrielles" lorsqu'ils ont pour objet la conception d'un matériel ou d'un équipement répondant à des spécifications particulières définies par la personne publique contractante.
 
-Les marchés d'études sont dits "de maîtrise d'oeuvre" lorsqu'ils ont pour objet, conformément aux dispositions de l'article 7 de la loi du 12 juillet 1985 susvisée, d'apporter une réponse architecturale, technique et économique au programme défini par le maître de l'ouvrage.
+Les marchés d'études sont dits de "maîtrise d'oeuvre" lorsqu'ils ont pour objet, conformément aux dispositions de l'article 7 de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'oeuvre privée, d'apporter une réponse architecturale, technique et économique au programme défini par le maître de l'ouvrage.

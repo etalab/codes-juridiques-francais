@@ -4,3 +4,4 @@
 - [Paragraphe II : Sélection des candidatures.](paragraphe-ii)
 - [Paragraphe III : Sélection des offres.](paragraphe-iii)
 - [Paragraphe IV : Dispositions spécifiques de l'appel d'offres avec concours.](paragraphe-iv)
+- [Paragraphe V : Procédure d'appel d'offres sur performances.](paragraphe-v)
