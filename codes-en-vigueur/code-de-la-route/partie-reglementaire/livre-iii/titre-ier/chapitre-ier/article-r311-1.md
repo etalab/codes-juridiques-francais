@@ -12,7 +12,11 @@ Pour l'application du présent code, les termes ci-après ont le sens qui leur e
 
 - cycle : véhicule ayant au moins deux roues et propulsé exclusivement par l'énergie musculaire des personnes se trouvant sur ce véhicule, notamment à l'aide de pédales ou de manivelles ;
 
-- cyclomoteur : véhicule à deux ou trois roues équipé d'un moteur d'une cylindrée ne dépassant pas 50 cm3 s'il est à combustion interne ou d'une puissance maximale nette n'excédant pas 4 kilowatts pour les autres types de moteur, et ayant une vitesse maximale par construction ne dépassant pas 45 km/h ;
+- "cyclomoteur" : véhicule à deux ou trois roues dont la vitesse maximale par construction ne dépasse pas 45 km/h et équipé :
+
+a) Pour un cyclomoteur à deux roues, d'un moteur d'une cylindrée ne dépassant pas 50 cm3 s'il est à combustion interne ou d'une puissance maximale nette n'excédant pas 4 kilowatts pour les autres types de moteur ;
+
+b) Pour un cyclomoteur à trois roues, d'un moteur d'une cylindrée ne dépassant pas 50 cm3 s'il est à allumage commandé ou d'une puissance maximale nette n'excédant pas 4 kilowatts pour les autres types de moteur ;
 
 - engin de service hivernal : véhicule à moteur de transport de marchandises, d'un poids total autorisé en charge supérieur à 3,5 tonnes ou tracteur agricole appartenant aux collectivités gestionnaires des voies publiques ou aux personnes agissant pour leur compte, lorsqu'ils sont équipés d'outils spécifiques destinés à lutter contre le verglas ou la neige sur les voies ouvertes à la circulation publique ; un arrêté du ministre chargé des transports définit les caractéristiques de ces outils ;
 
@@ -44,9 +48,7 @@ Pour l'application du présent code, les termes ci-après ont le sens qui leur e
 
 - véhicule d'intérêt général prioritaire : véhicule des services de police, de gendarmerie, des douanes, de lutte contre l'incendie et d'intervention des unités mobiles hospitalières ;
 
-- véhicule d'intérêt général bénéficiant de facilités de passage :
-
-ambulance de transport sanitaire, véhicule d'intervention d'Electricité de France et de Gaz de France, du service de la surveillance de la Société nationale des chemins de fer français, véhicule de transports de fonds de la Banque de France, du ministère de la justice affecté au transport de détenus, des associations médicales concourant à la permanence des soins, des médecins lorsqu'ils participent à la garde départementale et engin de service hivernal ;
+- véhicule d'intérêt général bénéficiant de facilités de passage : ambulance de transport sanitaire, véhicule d'intervention d'Electricité de France et de Gaz de France, du service de la surveillance de la Société nationale des chemins de fer français, véhicule de transports de fonds de la Banque de France, du ministère de la justice affecté au transport de détenus, des associations médicales concourant à la permanence des soins, des médecins lorsqu'ils participent à la garde départementale et engin de service hivernal ;
 
 - véhicule spécialisé dans les opérations de remorquage : véhicule dont l'aménagement comporte un engin de levage installé à demeure permettant le remorquage d'un véhicule en panne ou accidenté avec ou sans soulèvement du train avant ou du train arrière de ce dernier ;
 
