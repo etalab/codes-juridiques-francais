@@ -10,7 +10,6 @@
 - [Article 265 B](article-265-b.md)
 - [Article 266](article-266.md)
 - [Article 266 bis](article-266-bis.md)
-- [Article 266 ter](article-266-ter.md)
 - [Article 266 quater](article-266-quater.md)
 - [Article 266 quinquies](article-266-quinquies.md)
 - [Article 266 sexies](article-266-sexies.md)
