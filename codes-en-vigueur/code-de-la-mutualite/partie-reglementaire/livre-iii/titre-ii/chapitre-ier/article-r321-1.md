@@ -4,9 +4,9 @@ Pour l'application des dispositions du présent titre, les risques mentionnés �
 
 1. Accidents.
 
-2. Incapacité de travail ou invalidité résultant de la maladie et autres risques comportant le service de prestations au-delà d'un an [*durée*].
+2. Incapacité de travail ou invalidité résultant de la maladie et autres risques comportant le service de prestations au-delà d'un an.
 
-3. Opérations comportant des engagements dont l'exécution dépend de la vie humaine (vieillesse, vie, décès).
+3. Opérations comportant des engagements dont l'exécution dépend de la durée de la vie humaine (vieillesse, vie, décès).
 
 4. Prévoyance collective mentionnée à l'article L. 121-1 (2e alinéa).
 
