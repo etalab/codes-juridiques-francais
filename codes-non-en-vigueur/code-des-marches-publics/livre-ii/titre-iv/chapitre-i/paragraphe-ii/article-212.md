@@ -8,7 +8,7 @@ Sont adressés à la commission spécialisée compétente sous réserve des disp
 
 3° Tout projet de convention fixant, en vue de marchés à passer, les modalités de détermination des prix d'une catégorie de prestations ;
 
-4° Tout projet de marché de reconduction passé en application du 3° du II de l'article 104, dont le montant est inférieur au seuil de compétence, si le marché auquel il fait suite a été envoyé à la commission ou si, ajouté au montant de ce marché, le montant cumulé dépasse le seuil de compétence ;
+4° (paragraphe abrogé).
 
 5° Tout projet d'avenant à un marché ayant été envoyé à la commission, ainsi que les avenants qui, en raison de leur montant ou des clauses qu'ils contiennent, rendent les marchés auxquels ils se rapportent passibles d'un examen. Toutefois, la commission peut dispenser d'envoi les projets d'avenants remplissant les conditions qu'elle définit ;
 

@@ -18,7 +18,7 @@ b) Pour l'attribution d'un marché de maîtrise d'oeuvre relatif à des ouvrages
 
 c) Pour l'attribution d'un marché de maîtrise d'oeuvre qui ne confie aucune mission de conception au titulaire.
 
-Dans ces trois cas, il est fait application des dispositions du cinquième alinéa du présent article.
+Dans ces trois cas, il est fait application des dispositions du quatrième alinéa du présent article.
 
 Lorsque plusieurs marchés de définition ayant le même objet ont été passés à des titulaires différents, il peut être confié, sans nouvelle mise en compétition, un marché de maîtrise d'oeuvre à l'auteur de la solution retenue si celle-ci l'a été après avis d'une commission composée comme le jury prévu à l'article 108 ter.
 

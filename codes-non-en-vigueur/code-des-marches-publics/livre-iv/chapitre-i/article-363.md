@@ -6,7 +6,7 @@ La commission de coordination des commandes publiques du département a pour mis
 
 - les services de l'Etat, les établissements publics de l'Etat autres que ceux ayant le caractère industriel et commercial ;
 
-- les collectivités visées à l'article 249 du présent code.
+- les collectivités visées à l'article 250 du présent code.
 
 2° D'étudier plus particulièrement la possibilité et l'opportunité de grouper certaines de ces commandes au stade de l'appel à la concurrence.
 

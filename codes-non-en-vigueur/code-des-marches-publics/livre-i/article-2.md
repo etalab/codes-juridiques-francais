@@ -18,7 +18,7 @@ d) Les modalités de règlement de ces sommes ;
 
 e) Les conditions de paiement prévues par le projet de contrat de sous-traitance et le cas échéant celles de variation des prix.
 
-Il doit lui remettre également la déclaration du sous-traitant prévue à l'article 50 ci-après.
+Il doit lui remettre également une déclaration du sous-traitant indiquant qu'il ne tombe pas sous le coup des interdictions visées au 3° de l'article 50 ci-après.
 
 Dans le cas où la demande est présentée après la conclusion du marché, le titulaire de celui-ci, soit remet contre récépissé à la collectivité ou à l'établissement public contractant, soit lui adresse par lettre recommandée, avec demande d'avis de réception, une déclaration spéciale contenant les renseignements susmentionnés.
 

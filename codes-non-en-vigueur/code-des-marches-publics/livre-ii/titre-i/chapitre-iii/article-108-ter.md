@@ -4,7 +4,7 @@ Les concours de maîtrise d'oeuvre sont organisés dans les conditions suivantes
 
 Le délai de réception des candidatures ne peut être inférieur à vingt et un jours à compter de la date d'envoi de l'avis d'appel de candidatures à la publication ou au Bulletin officiel des annonces des marchés publics. En cas d'urgence ne résultant pas de son fait, la personne responsable du marché peut réduire ce délai à quinze jours au moins.
 
-La liste des candidats admis à concourir est arrêtée par la personne responsable du marché, après avis d'un jury composé comme il est dit au dernier alinéa du présent article. Le jury dresse un procès-verbal dans lequel il relate les circonstances de son examen et formule son avis motivé.
+La liste des candidats admis à concourir est arrêtée par la personne responsable du marché, après avis d'un jury composé comme il est dit à l'avant-dernier alinéa du présent article. Le jury dresse un procès-verbal dans lequel il relate les circonstances de son examen et formule son avis motivé.
 
 Le dossier de consultation comporte notamment le programme de l'opération et le règlement du concours.
 

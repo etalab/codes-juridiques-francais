@@ -4,4 +4,4 @@ Les dispositions prévues aux articles 336 à 354 ci-dessus s'appliquent aux sou
 
 La caution constituée par le titulaire en application du deuxième alinéa de l'article 352 garantit le remboursement de l'avance.
 
-L'avance forfaitaire dont les modalités de versement aux sous-traitants bénéficiaires du paiement direct sont déterminées au II de l'article 186 bis est définie à l'article 336. La caution personnelle et solidaire mentionnée au III de l'article 186 bis est définie à l'article 327.
+L'avance forfaitaire dont les modalités de versement aux sous-traitants bénéficiaires du paiement direct sont déterminées au II de l'article 186 bis est définie à l'article 336.

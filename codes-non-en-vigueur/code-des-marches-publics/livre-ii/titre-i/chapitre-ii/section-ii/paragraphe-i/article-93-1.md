@@ -8,7 +8,7 @@ Toutefois, le règlement de la consultation peut prescrire que les plis contenan
 
 A leur réception, les plis contenant les candidatures ou les offres sont enregistrés dans leur ordre d'arrivée sur un registre spécial. Ces prescriptions sont appliquées sous la responsabilité d'un agent placé sous l'autorité de la personne responsable du marché.
 
-Les plis contenant les candidatures ou les offres sont ouverts par la commission prévue à l'article 83 ; en cas d'appel d'offres avec concours, ils sont ouverts par le jury prévu à l'article 98-1.
+Les plis contenant les candidatures ou les offres sont ouverts par la commission prévue à l'article 83 ; en cas d'appel d'offres avec concours, ils sont ouverts par le jury prévu à l'article 98.
 
 La séance d'ouverture des plis n'est pas publique ; les candidats n'y sont pas admis.
 

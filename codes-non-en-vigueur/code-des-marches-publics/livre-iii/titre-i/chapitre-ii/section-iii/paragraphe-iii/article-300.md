@@ -6,7 +6,7 @@ En cas d'urgence ne résultant pas de son fait, le représentant légal de la co
 
 La commission élimine les offres non conformes à l'objet du marché ; elle choisit librement l'offre qu'elle juge la plus intéressante, en tenant compte du prix des prestations, de leur coût d'utilisation, de leur valeur technique, des garanties professionnelles et financières présentées par chacun des candidats et du délai d'exécution.
 
-La commission peut décider que d'autres considérations entrent en ligne de compte ; celles-ci doivent avoir été spécifiées dans l'avis d'appel d'offres. Sont toutefois prohibées les considérations qui ne seraient pas justifiées par l'objet du marché ou ses conditions d'exécution.
+La commission peut décider que d'autres considérations entrent en ligne de compte ; celles-ci doivent avoir été spécifiées dans le règlement de la consultation. Sont toutefois prohibées les considérations qui ne seraient pas justifiées par l'objet du marché ou ses conditions d'exécution.
 
 Dans le cas où plusieurs offres jugées les plus intéressantes sont tenues pour équivalentes, tous éléments considérés, la commission, pour départager les candidats, peut demander à ceux-ci de présenter de nouvelles offres. Hormis ce cas, la commission ne peut discuter avec les candidats que pour leur faire préciser ou compléter la teneur de leurs offres.
 

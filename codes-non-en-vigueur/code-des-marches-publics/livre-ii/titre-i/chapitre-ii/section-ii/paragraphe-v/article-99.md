@@ -10,7 +10,7 @@ Chaque concurrent est entendu par la commission, dans des conditions de stricte 
 
 L'attribution du marché est prononcée par une décision motivée de la personne responsable du marché, après que la commission a formulé un avis annexé au procès-verbal.
 
-Il peut être prévu l'allocation de primes, récompenses ou avantages à ceux des concurrents qui ont fourni des prestations, autres que la simple présentation d'une offre, et dont les objets ont été les mieux classés.
+Il peut être prévu l'allocation de primes, récompenses ou avantages à ceux des concurrents qui ont fourni des prestations, autres que la simple présentation d'une offre, et dont les projets ont été les mieux classés.
 
 Les marchés précisent que ces primes ne sont pas incluses dans leur montant.
 
