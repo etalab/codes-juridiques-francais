@@ -26,13 +26,9 @@ e. Pour les opérations d'entremise effectuées par les agences de voyages et le
 
 f. Pour les travaux immobiliers, par le montant des marchés, mémoires ou factures ;
 
-g. Par la différence entre le prix de vente et le prix d'achat en ce qui concerne :
-
-- les ventes d'objets d'occasion, autres que celles portant sur les biens visés à l'article 257-13° ou à l'article 261-3-1°-A ;
-
-- les ventes d'oeuvres d'art originales répondant aux conditions qui sont fixées par décret, lequel précise également les modalités de détermination de l'assiette de la taxe (3).
-
 Des décrets peuvent fixer des bases minimales ou forfaitaires d'imposition pour les achats imposables.
+
+g. Par la différence entre le prix de vente et le prix d'achat pour les ventes de biens acquis auprès d'un particulier ou d'un assujetti n'ayant pas eu droit à déduction lors de leur acquisition, importation ou livraison à soi-même, autres que celles portant sur les biens visés au 13° de l'article 257. Cette disposition n'est pas applicable aux biens dont l'importation est exonérée en application du 9° du II de l'article 291 ;
 
 h. Pour les opérations d'entremise effectuées par les concessionnaires d'ouvrages de circulation routière, par la différence entre le montant total des péages et la fraction de ceux-ci affectée au financement des travaux de construction et des grosses réparations des ouvrages concédés et au paiement des redevances proportionnelles versées à l'autorité concédante.
 
@@ -69,11 +65,3 @@ Ces dispositions s'appliquent aux offices publics d'aménagement et de construct
 4° (Abrogé).
 
 5° Lorsqu'un bail à construction a fait l'objet de l'option prévue à l'article 260-5°, il est fait abstraction, pour la détermination de la base d'imposition, de la valeur du droit de reprise des constructions lorsque celles-ci doivent devenir la propriété du bailleur en fin de bail.
-
-(1) Voir Annexe III, art. 76-1.
-
-(2) Voir, toutefois, art. 267 bis.
-
-(3) Annexe III, art. 76-3. Pour la définition des oeuvres d'art originales, voir même Annexe, art. 71.
-
-(4) Annexe II, art. 248.
