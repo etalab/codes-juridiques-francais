@@ -2,4 +2,6 @@
 
 - [Article 244 duodecies](article-244-duodecies.md)
 - [Article 244 terdecies](article-244-terdecies.md)
+- [Article 244 quaterdecies](article-244-quaterdecies.md)
+- [Article 244 quindecies](article-244-quindecies.md)
 - [Article 244 sexdecies](article-244-sexdecies.md)
