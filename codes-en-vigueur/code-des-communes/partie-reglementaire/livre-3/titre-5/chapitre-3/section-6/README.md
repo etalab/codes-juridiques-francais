@@ -1,5 +1,6 @@
 # SECTION 6 : Discipline.
 
+- [Article R353-60](article-r353-60.md)
 - [Article R353-61](article-r353-61.md)
 - [Article R353-62](article-r353-62.md)
 - [Article R353-63](article-r353-63.md)

@@ -6,3 +6,4 @@
 - [CHAPITRE 8 : Sapeurs-pompiers communaux](chapitre-8)
 - [CHAPITRE 10 : Sapeurs-pompiers communaux](chapitre-10)
 - [CHAPITRE 16 : Sapeurs-pompiers communaux](chapitre-16)
+- [CHAPITRE 18 : Dispositions applicables aux sapeurs-pompiers communaux non professionnels](chapitre-18)
