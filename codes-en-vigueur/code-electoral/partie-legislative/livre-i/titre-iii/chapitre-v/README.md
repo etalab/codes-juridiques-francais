@@ -1,5 +1,6 @@
 # Chapitre V : Propagande
 
+- [Article L210-2](article-l210-2.md)
 - [Article L211](article-l211.md)
 - [Article L212](article-l212.md)
 - [Article L213](article-l213.md)
