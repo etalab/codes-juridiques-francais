@@ -5,3 +5,4 @@
 - [Article 284 quater](article-284-quater.md)
 - [Article 284 quinquies](article-284-quinquies.md)
 - [Article 284 sexies](article-284-sexies.md)
+- [Article 284 sexies bis](article-284-sexies-bis.md)
