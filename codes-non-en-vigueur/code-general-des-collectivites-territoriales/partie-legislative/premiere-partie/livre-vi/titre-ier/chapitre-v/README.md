@@ -9,3 +9,4 @@
 - [Article L1615-9](article-l1615-9.md)
 - [Article L1615-10](article-l1615-10.md)
 - [Article L1615-11](article-l1615-11.md)
+- [Article L1615-12](article-l1615-12.md)
