@@ -1,5 +1,6 @@
 # Section 3 : Prestations.
 
+- [Article 1039](article-1039.md)
 - [Article 1041](article-1041.md)
 - [Article 1042](article-1042.md)
 - [Article 1043](article-1043.md)
