@@ -4,6 +4,7 @@
 - [Article 1236](article-1236.md)
 - [Article 1237](article-1237.md)
 - [Article 1238](article-1238.md)
+- [Article 1239](article-1239.md)
 - [Article 1240](article-1240.md)
 - [Article 1240-1](article-1240-1.md)
 - [Article 1240-2](article-1240-2.md)
