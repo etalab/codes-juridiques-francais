@@ -4,6 +4,4 @@ Un agent de change, ou courtier ne peut, dans aucun cas et sous aucun prétexte,
 
 Il ne peut s'intéresser directement ni indirectement, sous son nom, ou sous un nom interposé, dans aucune entreprise commerciale.
 
-Les interdictions ci-dessus ne font pas obstacle à ce que les agents de change assurent, dans les conditions fixées par le règlement de leur compagnie, la gestion de portefeuilles de valeurs mobilières.
-
-Les courtiers d'assurances maritimes peuvent toutefois, dans des conditions définies par décret en Conseil d'Etat, participer à des entreprises ayant pour activité principale le courtage d'assurances non maritimes ou de réassurances.
+Les interdictions ci-dessus ne font pas obstacle à ce que les agents de change, dans les conditions fixées par le règlement de leur compagnie, assurent la gestion de portefeuilles de valeurs mobilières et fassent eux-mêmes la contrepartie des opérations qui leur sont confiées sur les titres inscrits à la cote figurant au relevé quotidien des valeurs non admises à la cote.
