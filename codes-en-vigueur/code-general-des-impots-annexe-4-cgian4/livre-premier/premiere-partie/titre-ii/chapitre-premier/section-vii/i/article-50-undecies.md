@@ -1,102 +1,170 @@
 # Article 50 undecies
 
-1. La liste des matériels d'équipement destinés à l'industrie hôtelière et touristique  dont l'importation dans les départements de la Guadeloupe  de la Martinique et de la Réunion peut avoir lieu en franchise de la taxe sur la valeur ajoutée  est fixée ainsi qu'il suit     :
+1. La liste des matériels d'équipement destinés à l'industrie hôtelière et touristique  dont l'importation dans les départements de la Guadeloupe  de la Martinique et de la Réunion peut avoir lieu en franchise de la taxe sur la valeur ajoutée  est fixée ainsi qu'il suit :
 
-NUMERO DU TARIF des droits de douane d'importation 40-06 à 40-07
+NUMERO DU TARIF des droits de douane d'importation / DESIGNATION DES PRODUITS
 
-DESIGNATION DES PRODUITS
+40-06 à 40-07 : Tous produits de ces positions.
+
+40-10 : Courroies transporteuses ou de transmission, en caoutchouc vulcanisé.
+
+Ex 42-05 : Articles de maroquinerie n'ayant pas le caractère de contenant (sous-mains, signets, etc.) en cuir naturel ou reconstitué.
+
+Ex 44-16 : Futailles, cuves, baquets et autres ouvrages de tonnellerie et leurs parties en bois.
+
+44-19 : Articles en bois pour la table ou la cuisine.
+
+Ex 44-21-90
+
+Ustensiles de ménage en bois.
+
+46-01-20
+
+Nattes, paillassons et claies en matières végétales.
+
+46-02
+
+Ouvrages de vannerie obtenus directement en forme à partir de matières à tresser ou confectionnés à l'aide des articles du n° 46-01 ; ouvrages en luffa.
+
+Ex 48-14
+
+Papiers peints et revêtements muraux similaires.
+
+49-10
+
+Calendriers de tous genres, imprimés, y compris les blocs de calendriers à effeuiller.
+
+50-07
+
+Tissus de soie ou de déchets de soie.
+
+51-11 à 51-13
 
 Tous produits de ces positions.
 
-NUMEROS DU TARIF des droits de douane d'importation 40-10
+52-08 à 52-12
 
-DESIGNATION DES PRODUITS
+Tous produits de ces positions.
 
-Courroies transporteuses ou de transmission, en caoutchouc vulcanisé.
+53-09 à 53-11
 
-NUMERO DU TARIF des droits de douane d'importation Ex 42-05
+Tous produits de ces positions.
 
-DESIGNATION DES PRODUITS
+54-07 à 54-08
 
-Articles de maroquinerie n'ayant pas le caractère de contenant (sous-mains, signets, etc.) en cuir naturel ou reconstitué.
+Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 44-16
+55-12 à 55-15
 
-DESIGNATION DES PRODUITS Futailles, cuves, baquets et autres ouvrages de tonnellerie et leurs parties en bois.
+Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation 44-19
+55-16
 
-DESIGNATION DES PRODUITS Articles en bois pour la table ou la cuisine.
+Tissus de fibres artificielles discontinues.
 
-NUMERO DU TARIF des droits de douane d'importation 4420
+56-04
 
-DESIGNATION DES PRODUITS Ouvrages de tabletterie et de petite ébénisterie (boîtes, coffrets, étuis, écrins, plumiers, portemanteaux, lampadaires et autres appareils d'éclairage, etc.), objets d'ornement, d'étagère et article de parure en bois ; parties en bois de ces ouvrages ou objets.
+Fils et cordes de caoutchouc, recouverts de textiles, fils textiles, lames et formes similaires des numéros 54-04 ou 54-05, imprégnés, enduits, recouverts ou gainés de caoutchouc ou de matières plastique.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 44-21-90
+57-01 à 57-03
 
-DESIGNATION DES PRODUITS Ustensiles de ménage en bois.
+Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation 46-01-20
+57-05
 
-DESIGNATION DES PRODUITS Nattes, paillassons et claies en matières végétales.
+Autres tapis et revêtements de sol en matières textiles, même confectionnés.
 
-NUMERO DU TARIF des droits de douane d'importation 46-02
+58-01 à 58-05
 
-DESIGNATION DES PRODUITS Ouvrages de vannerie obtenus directement en forme à partir de matières à tresser ou confectionnés à l'aide des articles du n° 46-01 ; ouvrages en luffa.
+Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation Ex 48-14
+58-09 à 58-11
 
-DESIGNATION DES PRODUITS Papiers peints et revêtements muraux similaires.
+Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation 49-10
+59-02
 
-DESIGNATION DES PRODUITS Calendriers de tous genres, imprimés, y compris les blocs de calendriers à effeuiller.
+Nappes tramées pour pneumatiques obtenues à partir de fils à haute ténacité de nylon ou d'autres polyamides de polyesters ou de rayonne viscose.
 
-NUMERO DU TARIF des droits de douane d'importation 50-07
+59-04 à 59-07
 
-DESIGNATION DES PRODUITS Tissus de soie ou de déchets de soie.
+Tous produits de ces positions.
 
-NUMERO DU TARIF des droits de douane d'importation 51-11 à 51-13
+59-09
 
-DESIGNATION DES PRODUITS Tous produits de ces positions. NUMERO DU TARIF des droits de douane d'importation 52-08 à 52-12
+Tuyaux pour pompes et tuyaux similaires en matières textiles, même avec armatures ou accessoires en autres matières.
 
-DESIGNATION DES PRODUITS Tous produits de ces positions.
+Ex 59-11
 
-NUMERO DU TARIF des droits de douane d'importation 53-09 à 53-11
+Produits et articles textiles pour usages techniques visés à la note 7 du présent chapitre à l'exclusion des gazes et toiles à bluter, même confectionnées.
 
-DESIGNATION DES PRODUITS Tous produits de ces positions.
+Ex 63-01
 
-NUMERO DU TARIF des droits de douane d'importation 54-07 à 54-08
+Couvertures autres que les couvertures chauffantes électriques. 63-02 à 63-04
 
-Tous produits de ces positions. NUMERO DU TARIF des droits de douane d'importation 55-12 à 55-15
+Tous produits de ces positions.
 
-DESIGNATION DES PRODUITS Tous produits de ces positions. NUMERO DU TARIF des droits de douane d'importation 55-16
+63-06
 
-DESIGNATION DES PRODUITS Tissus de fibres artificielles discontinues. NUMERO DU TARIF des droits de douane d'importation 56-04
+Bâches, voiles pour embarcations, planches à voile ou chars à voile stores d'extérieur, tentes et articles de campement.
 
-DESIGNATION DES PRODUITS Fils et cordes de caoutchouc, recouverts de textiles, fils textiles, lames et formes similaires des numéros 54-04 ou 54-05, imprégnés, enduits, recouverts ou gainés de caoutchouc ou de matières plastique. NUMEROS DU TARIF des droits de douane d'importation 57-01 à 57-03 DESIGNATION DES PRODUITS Tous produits de ces positions. NUMERO DU TARIF des droits de douane d'importation 57-05 DESIGNATION DES PRODUITS Autres tapis et revêtements de sol en matières textiles, même confectionnés. NUMEROS DU TARIF des droits de douane d'importation 58-01 à 58-05 DESIGNATION DES PRODUITS Tous produits de ces positions. NUMEROS DU TARIF des droits de douane d'importation 58-09 à 58-11 DESIGNATION DES PRODUITS Tous produits de ces positions. NUMERO DU TARIF des droits de douane d'importation 59-02 DESIGNATION DES PRODUITS Nappes tramées pour pneumatiques obtenues à partir de fils à haute ténacité de nylon ou d'autres polyamides de polyesters ou de rayonne viscose.
+63-08
 
-NUMERO DU TARIF des droits de douane d'importation 59-04 à 59-07 DESIGNATION DES PRODUITS Tous produits de ces positions. NUMERO DU TARIF des droits de douane d'importation 59-09 DESIGNATION DES PRODUITS Tuyaux pour pompes et tuyaux similaires en matières textiles, même avec armatures ou accessoires en autres matières. NUMERO DU TARIF des droits de douane d'importation Ex 59-11 DESIGNATION DES PRODUITS Produits et articles textiles pour usages techniques visés à la note 7 du présent chapitre à l'exclusion des gazes et toiles à bluter, même confectionnées. NUMERO DU TARIF des droits de douane d'importation Ex 63-01 DESIGNATION DES PRODUITS Couvertures autres que les couvertures chauffantes électriques. NUMEROS DU TARIF des droits de douane d'importation 63-02 à 63-04 DESIGNATION DES PRODUITS Tous produits de ces positions. NUMEROS DU TARIF des droits de douane d'importation 63-06 DESIGNATION DES PRODUITS Bâches, voiles pour embarcations, planches à voile ou chars à voile stores d'extérieur, tentes et articles de campement. NUMEROS DU TARIF des droits de douane d'importation 63-08 DESIGNATION DES PRODUITS Assortiments composés de pièces de tissus et de fils, même avec accessoires pour la confection de tapis, de tapisseries, de nappes de table ou de serviettes brodées, ou d'articles textiles similaires, en emballages pour la vente au détail. NUMEROS DU TARIF des droits de douane d'importation 66-01 DESIGNATION DES PRODUITS Parapluies, ombrelles et parasols (y compris les parapluies cannes, les parasols de jardin et articles similaires). NUMEROS DU TARIF des droits de douane d'importation Ex 66-03 DESIGNATION DES PRODUITS Parties, garnitures et accessoires pour articles des n° 66-01. NUMEROS DU TARIF des droits de douane d'importation 68-06 DESIGNATION DES PRODUITS Laines de laitier, de scories, de roche et laines minérales similaires ; vermiculite expansée, argiles expansées, mousse de scories et produits minéraux similaires expansés ; mélanges et ouvrages en matières minérales à usages d'isolants thermiques ou sonores ou pour l'absorption du son, à l'exclusion de ceux des numéros 68-11, 68-12 ou de chapitre 69.
+Assortiments composés de pièces de tissus et de fils, même avec accessoires pour la confection de tapis, de tapisseries, de nappes de table ou de serviettes brodées, ou d'articles textiles similaires, en emballages pour la vente au détail.
 
-NUMERO DU TARIF des droits de douane d'importation 69-09 DESIGNATION DES PRODUITS Appareils et articles pour usages chimiques ou autres usages techniques, en céramique ; auges, bacs et récipients similaires pour l'économie rurale, en céramique ; cruchons et récipients similaires de transport où d'emballage en céramique. NUMERO DU TARIF des droits de douane d'importation 69-11 et 69-12 DESIGNATION DES PRODUITS Tous produits de ces positions.
+66-01
 
-NUMERO DU TARIF des droits de douane d'importation 70-07 DESIGNATION DES PRODUITS Verre de sécurité, consistant en verres trempés ou formés de feuilles contrecollées. NUMERO DU TARIF des droits de douane d'importation 70-09 DESIGNATION DES PRODUITS Miroirs en verre, même encadrés, y compris les miroirs rétroviseurs. NUMERO DU TARIF des droits de douane d'importation 70-10-90 Bonbonnes, bouteilles, flacons, bocaux, pots, emballages tubulaires, autres récipients de transport ou d'emballage, en verre ; bocaux à conserves en verre ; bouchons, couvercles et autres dispositifs de fermeture, en verre. NUMERO DU TARIF des droits de douane d'importation 70-13 DESIGNATION DES PRODUITS Objets en verre pour le service de la table, pour la cuisine, la toilette, le bureau, l'ornementation des appartements ou usages similaires, autres que ceux des n°s 70-10 ou 70-18.
+Parapluies, ombrelles et parasols (y compris les parapluies cannes, les parasols de jardin et articles similaires).
 
-NUMERO DU TARIF des droits de douane d'importation Ex 71-14
+NUMEROS DU TARIF des droits de douane d'importation
 
-DESIGNATION DES PRODUITS Articles d'orfèvrerie et leurs parties, plaqués ou doublés de métaux précieux.
+Ex 66-03
+
+Parties, garnitures et accessoires pour articles des n° 66-01.
+
+68-06
+
+Laines de laitier, de scories, de roche et laines minérales similaires ; vermiculite expansée, argiles expansées, mousse de scories et produits minéraux similaires expansés ; mélanges et ouvrages en matières minérales à usages d'isolants thermiques ou sonores ou pour l'absorption du son, à l'exclusion de ceux des numéros 68-11, 68-12 ou de chapitre 69.
+
+69-09
+
+Appareils et articles pour usages chimiques ou autres usages techniques, en céramique ; auges, bacs et récipients similaires pour l'économie rurale, en céramique ; cruchons et récipients similaires de transport où d'emballage en céramique.
+
+69-11 et 69-12
+
+Tous produits de ces positions.
+
+70-07
+
+Verre de sécurité, consistant en verres trempés ou formés de feuilles contrecollées.
+
+70-09
+
+Miroirs en verre, même encadrés, y compris les miroirs rétroviseurs.
+
+70-10-90
+
+Bonbonnes, bouteilles, flacons, bocaux, pots, emballages tubulaires, autres récipients de transport ou d'emballage, en verre ; bocaux à conserves en verre ; bouchons, couvercles et autres dispositifs de fermeture, en verre.
+
+70-13
+
+Objets en verre pour le service de la table, pour la cuisine, la toilette, le bureau, l'ornementation des appartements ou usages similaires, autres que ceux des n°s 70-10 ou 70-18.
+
+Ex 71-14
+
+Articles d'orfèvrerie et leurs parties, plaqués ou doublés de métaux précieux.
 
 NUMERO DU TARIF des droits de douane d'importation 73-10
 
-DESIGNATION DES PRODUITS Tous les produits de cette position. NUMERO DU TARIF des droits de douane d'importation 73-21 et 73-22
+Tous les produits de cette position. 73-21 et 73-22
 
-DESIGNATION DES PRODUITS Tous produits de ces positions.
+Tous produits de ces positions.
 
 NUMERO DU TARIF des droits de douane d'importation Ex 73-23
 
 DESIGNATION DES PRODUITS Articles de ménage ou d'économie domestique et leurs parties, en fonte, fer ou acier.
 
-NUMERO DU TARIF des droits de douane d'importation 73-28
+NUMERO DU TARIF des droits de douane d'importation 73-26
 
 DESIGNATION DES PRODUITS Autres ouvrages en fer ou en acier.
 
@@ -176,10 +244,6 @@ NUMERO DU TARIF des droits de douane d'importation 84-18
 
 DESIGNATION DES PRODUITS Réfrigérateurs, congélateurs-conservateurs et autres matériels, machines et appareils pour la reproduction du froid, à équipement électrique ou autre ; pompes à chaleur autres que les machines et appareils pour le conditionnement de l'air du n° 84-15.
 
-NUMERO DU TARIF des droits de douane d'importation 8419.81
-
-DESIGNATION DES PRODUITS Percolateurs.
-
 NUMERO DU TARIF des droits de douane d'importation Ex 84-22
 
 DESIGNATION DES PRODUITS Machines à laver la vaisselle.
@@ -194,7 +258,7 @@ DESIGNATION DES PRODUITS Machines à laver le linge, même avec dispositif de s�
 
 NUMERO DU TARIF des droits de douane d'importation Ex 84-51
 
-DESIGNATION DES PRODUITS Machines et appareils (autres que les machines du n° 84-50) pour le lavage, l'essorage, le séchage, le repassage, le pressage (y compris les presses à fixer) le blanchiment, la teinture, l'apprêt, le finissage.
+DESIGNATION DES PRODUITS Machines et appareils (autres que les machines du n° 84-50) pour le lavage, le nettoyage, l'essorage, le séchage, le repassage, le pressage (y compris les presses à fixer) le blanchiment, la teinture, l'apprêt, le finissage.
 
 84-52
 
@@ -210,7 +274,9 @@ DESIGNATION DES PRODUITS Autres machines et appareils de bureau (duplicateurs he
 
 NUMERO DU TARIF des droits de douane d'importation Ex 84-73
 
-DESIGNATION DES PRODUITS Parties et accessoires (autres que les coffrets, housses et similaires) reconnaissables comme étant exclusivement ou principalement destinés aux machines ou appareils des n°s 84-69, 84-70, 84-72.
+DESIGNATION DES PRODUITS Parties et accessoires (autres que les coffrets, housses et similaires) reconnaissables comme étant exclusivement ou principalement destinés aux machines ou appareils des n°s 84-69,
+
+84-70, 84-72.
 
 NUMERO DU TARIF des droits de douane d'importation 84-76
 
@@ -238,17 +304,13 @@ NUMERO DU TARIF des droits de douane d'importation 85-27
 
 DESIGNATION DES PRODUITS Appareils récepteurs pour la radiotéléphonie, la radiotélégraphie ou la radiodiffusion, même combinés, sous une même enveloppe, à un appareil d'enregistrement ou de reproduction du son ou à un appareil d'horlogerie.
 
-NUMERO DU TARIF des droits de douane d'importation 8528
-
-DESIGNATION DES PRODUITS Appareils récepteurs de télévision.
-
 NUMERO DU TARIF des droits de douane d'importation Ex 85-29
 
 DESIGNATION DES PRODUITS Parties reconnaissables comme étant exclusivement ou principalement destinées aux appareils du n° 85-27.
 
 NUMERO DU TARIF des droits de douane d'importation Ex 87-03
 
-DESIGNATION DES PRODUITS Voitures de tourisme et autres véhicules automobiles principalement conçus pour le transport de personnes (autres que ceux du n° 87-02) y compris les voitures du type " break ", comportant un minimum de sept places assises.
+DESIGNATION DES PRODUITS Voitures de tourisme et autres véhicules automobiles principalement conçus pour le transport de personnes (autres que ceux du n° 87-02) y compris les voitures du type "break", comportant un minimum de sept places assises.
 
 NUMERO DU TARIF des droits de douane d'importation 87-15
 
@@ -280,10 +342,6 @@ NUMERO DU TARIF des droits de douane d'importation 92-01
 
 DESIGNATION DES PRODUITS Pianos, même automatiques ; clavecins et autres instruments à cordes à clavier.
 
-NUMERO DU TARIF des droits de douane d'importation 9202.90
-
-DESIGNATION DES PRODUITS Harpes.
-
 NUMERO DU TARIF des droits de douane d'importation 92-07
 
 DESIGNATION DES PRODUITS Instruments de musique dont le son est produit ou doit être amplifié par des moyens électriques (orgues, guitares, accordéons par exemple).
@@ -304,12 +362,12 @@ NUMERO DU TARIF des droits de douane d'importation 96-17
 
 DESIGNATION DES PRODUITS Bouteilles isolantes et autres récipients isothermiques montés, dont l'isolation est assurée par le vide, ainsi que leurs parties (à l'exclusion des ampoules en verre).
 
-2. L'exonération dont sont susceptibles de bénéficier les voitures pour le transport des personnes comportant un minimum de sept places assises, reprises au paragraphe ci-dessus (n° Ex 87-02 Ex A) est subordonnée [*condition*] à l'affectation exclusive de ces véhicules au service de la clientèle et limitée en outre à un véhicule par hôtel de 20 à 100 chambres et à deux véhicules par hôtel de plus de 100 chambres.
+2. L'exonération dont sont susceptibles de bénéficier les voitures pour le transport des personnes comportant un minimum de sept places assises, reprises au paragraphe ci-dessus (n° Ex 87-02 Ex A) est subordonnée à l'affectation exclusive de ces véhicules au service de la clientèle et limitée en outre à un véhicule par hôtel de 20 à 100 chambres et à deux véhicules par hôtel de plus de 100 chambres.
 
-3. Pour bénéficier de la franchise de la taxe sur la valeur ajoutée  les importateurs doivent [*obligation*] :
+3. Pour bénéficier de la franchise de la taxe sur la valeur ajoutée  les importateurs doivent :
 
 1° En faire la demande sur la déclaration d'importation;
 
-2° Déposer à l'appui de la déclaration d'importation une attestation en double exemplaire indiquant les nom  prénoms profession ou raison sociale et adresse du destinataire  ainsi que la nature  la quantité et la valeur des produits importés [*mentions*].
+2° Déposer à l'appui de la déclaration d'importation une attestation en double exemplaire indiquant les nom prénoms profession ou raison sociale et adresse du destinataire ainsi que la nature  la quantité et la valeur des produits importés.
 
 Cette attestation devra porter l'engagement  pour le cas où les produits ne recevraient pas l'affectation justifiant l'exonération de la taxe sur la valeur ajoutée  d'acquitter à la recette des impôts la taxe devenue exigible  sans préjudice des pénalités prévues aux articles 1727, 1729, 1731 et 1784 à 1786 du code général des impôts.

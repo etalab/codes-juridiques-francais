@@ -1,6 +1,8 @@
 # Article 50 duodecies
 
-I. La liste des produits  matériaux de construction  engrais et outillages industriels et agricoles dont l'importation dans les départements de la Guadeloupe  de la Martinique et de la Réunion peut avoir lieu en franchise de la taxe sur la valeur ajoutée  est fixée ainsi qu'il suit :
+I. La liste des produits, matériaux de construction, engrais et outillages industriels et agricoles dont l'importation dans les départements de la Guadeloupe, de la Martinique et de la Réunion peut avoir lieu en franchise de la taxe sur la valeur ajoutée, est fixée ainsi qu'il suit :
+
+NUMEROS DU TARIF des droits de douane d'importation
 
 15-15-11-00
 
@@ -138,7 +140,21 @@ NUMEROS DU TARIF des droits de douane d'importation
 
 DESIGNATION DES PRODUITS
 
-Ciments, mortiers, bétons et compositions similaires réfractaires autres que les produits du n° 38-01.
+Ciments, mortiers, bétons et compositions similaires réfractaires autres que les produits du n° 38-01. NUMEROS DU TARIF des droits de douane d'importation
+
+3823
+
+DESIGNATION DES PRODUITS
+
+Produits chimiques non dénommés à usage de peinture pour la construction.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+3901 à 3920
+
+DESIGNATION DES PRODUITS
+
+Matériaux des numéros ci-contre destinés à la construction (éléments fixes uniquement).
 
 NUMEROS DU TARIF des droits de douane d'importation
 
@@ -155,6 +171,18 @@ Ex 39-25
 DESIGNATION DES PRODUITS
 
 Articles d'équipement pour la construction en matières plastiques, non dénommés ni compris ailleurs (éléments fixes uniquement).
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+4011
+
+4012
+
+4013
+
+DESIGNATION DES PRODUITS
+
+Chambres à air et pneumatiques, pour véhicules à traction animale.
 
 NUMEROS DU TARIF des droits de douane d'importation
 
@@ -254,7 +282,13 @@ Ex 68-03
 
 DESIGNATION DES PRODUITS
 
-Ardoises pour toitures ou pour façades.
+Ardoises pour toitures ou pour façades. NUMEROS DU TARIF des droits de douane d'importation
+
+6807
+
+DESIGNATION DES PRODUITS
+
+Chappes d'étanchéité du numéro ci-contre.
 
 NUMEROS DU TARIF des droits de douane d'importation
 
@@ -263,6 +297,14 @@ NUMEROS DU TARIF des droits de douane d'importation
 DESIGNATION DES PRODUITS
 
 Tous produits de ces positions.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+6812.90
+
+DESIGNATION DES PRODUITS
+
+Carreaux de revêtement à base d'amiante.
 
 NUMEROS DU TARIF des droits de douane d'importation
 
@@ -600,6 +642,14 @@ Tous produits de ces positions.
 
 NUMEROS DU TARIF des droits de douane d'importation
 
+8411
+
+DESIGNATION DES PRODUITS
+
+Turbines à gaz.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
 84-12
 
 DESIGNATION DES PRODUITS
@@ -746,9 +796,7 @@ NUMEROS DU TARIF des droits de douane d'importation
 
 Ex 84-23-90
 
-DESIGNATION DES PRODUITS
-
-Parties et poids des appareils de la position 84-23-20, 84-23-82, 84-23-89.
+DESIGNATION DES PRODUITS Parties et poids des appareils de la position 84-23-20, 84-23-82, 84-23-89.
 
 NUMEROS DU TARIF des droits de douane d'importation
 
@@ -840,11 +888,43 @@ Arbres de transmission (y compris les arbres à cames et vilebrequins) et manive
 
 NUMEROS DU TARIF des droits de douane d'importation
 
+8484
+
+DESIGNATION DES PRODUITS
+
+Joints métalloplastiques, jeux et assortiments de joints de composition différente pour moteurs de véhicules repris aux n°s 8701, 8702, 8704, 8705.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+8485
+
+DESIGNATION DES PRODUITS
+
+Parties de machines ou d'appareils, non dénommées ni comprises ailleurs dans le présent chapitre, ne comportant pas de connexions électriques, de parties isolées électriquement, de bobinages, de contacts ou d'autres caractéristiques électriques.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
 85-01
 
 DESIGNATION DES PRODUITS
 
 Moteurs et machines génératrices électriques à l'exclusion des groupes électrogènes.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+8503
+
+DESIGNATION DES PRODUITS
+
+Parties reconnaissables comme étant exclusivement ou principalement destinées aux machines des n°s 8501 ou 8502.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+8504
+
+DESIGNATION DES PRODUITS
+
+Transformateurs électriques, convertisseurs électriques statiques (redresseurs, par exemple bobines de réactance et selfs).
 
 NUMEROS DU TARIF des droits de douane d'importation
 
@@ -952,6 +1032,22 @@ Tous les produits de ces positions.
 
 NUMEROS DU TARIF des droits de douane d'importation
 
+8703.2110
+
+8703.2190
+
+8703.2219
+
+8703.2290
+
+8703.2319
+
+DESIGNATION DES PRODUITS
+
+Ambulances.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
 87-04 à 87-05
 
 DESIGNATION DES PRODUITS
@@ -973,6 +1069,14 @@ Ex 87-07
 DESIGNATION DES PRODUITS
 
 Carrosseries des véhicules automobiles des n°s 87-01, 87-02, 87-04, 87-05 y compris les cabines.
+
+NUMEROS DU TARIF des droits de douane d'importation
+
+8709
+
+DESIGNATION DES PRODUITS
+
+Chariots de manutention automobiles, leurs parties et leurs pièces détachées.
 
 NUMEROS DU TARIF des droits de douane d'importation
 
@@ -1032,7 +1136,7 @@ Tous produits de cette position.
 
 NUMEROS DU TARIF des droits de douane d'importation
 
-Ex 90-25
+90-25
 
 DESIGNATION DES PRODUITS
 
@@ -1088,7 +1192,7 @@ Meubles en pierre.
 
 NUMEROS DU TARIF des droits de douane d'importation
 
-Ex 94-05
+94-05
 
 DESIGNATION DES PRODUITS
 
@@ -1102,4 +1206,4 @@ DESIGNATION DES PRODUITS
 
 Constructions préfabriquées.
 
-II. La liste des produits cités au I est complétée par le pain    (ex 19-05) et le riz (10-06).
+II. La liste des produits cités au I est complétée par le pain (ex 19-05) et le riz (10-06).
