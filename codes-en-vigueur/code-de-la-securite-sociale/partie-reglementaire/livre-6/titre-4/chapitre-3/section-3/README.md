@@ -1,5 +1,7 @@
 # Section 3 : Ouverture du droit et liquidation des allocations de réversion.
 
+- [Article D643-5](article-d643-5.md)
+- [Article D643-5-1](article-d643-5-1.md)
 - [Article D643-6](article-d643-6.md)
 - [Article D643-7](article-d643-7.md)
 - [Article D643-8](article-d643-8.md)
