@@ -4,7 +4,7 @@ La communication des comptes annuels des sociétés de perception et de réparti
 
 A. - En ce qui concerne la gestion financière de la société :
 
-1. Dans le respect des règles comptables usuelles en matière de constatation de produits et de charges, un compte de gestion conforme à l'annexe 1 (Nota).
+1. Dans le respect des règles comptables usuelles en matière de constatation de produits et de charges, un compte de gestion conforme à l'annexe 1.
 
 Les sociétés concernées auront également la faculté :
 
@@ -41,5 +41,7 @@ B. - En ce qui concerne la mise en oeuvre des actions dont le financement est pr
 2. Une description des procédures d'attribution ;
 
 3. Un commentaire des orientations suivies en la matière par la société.
+
+4. La liste des conventions mentionnées à l'article R. 321-10.
 
 C. - Une information annuelle sur les actions éventuellement engagées pour la défense des catégories professionnelles concernées par leur objet social.
