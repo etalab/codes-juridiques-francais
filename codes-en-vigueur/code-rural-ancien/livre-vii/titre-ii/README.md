@@ -4,6 +4,7 @@
 - [Chapitre II : Assurances sociales](chapitre-ii)
 - [Chapitre III : Prestations familiales](chapitre-iii)
 - [Chapitre IV : Assurance vieillesse des personnes non salariées](chapitre-iv)
+- [Article 1002](article-1002.md)
 - [Article 1003](article-1003.md)
 - [Article 1003-1](article-1003-1.md)
 - [Article 1003-2](article-1003-2.md)
