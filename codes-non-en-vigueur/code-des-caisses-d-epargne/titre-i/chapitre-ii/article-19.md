@@ -1,6 +1,6 @@
 # Article 19
 
-Les caisses d'épargne sont tenues de verser à la caisse des dépôts et consignations toutes les sommes qu'elles reçoivent des déposants, sous la réserve des fonds jugés nécessaires pour assurer le service des remboursements, ces sommes sont employées par la caisse des dépôts et consignations :
+Sous la réserve des fonds jugés nécessaires pour assurer le service des remboursements, ces sommes sont employées par la caisse des dépôts et consignations :
 
 1° En valeurs émises par l'Etat français et en valeurs ou prêts jouissant de sa garantie ;
 

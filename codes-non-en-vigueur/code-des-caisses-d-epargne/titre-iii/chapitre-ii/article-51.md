@@ -1,3 +1,3 @@
 # Article 51
 
-Un décret pris sur le rapport du ministre de l'économie et des finances, après avis de la commission supérieure des caisses d'épargne et de la commission de surveillance de la caisse des dépôts et consignations, fixe chaque année, avant le 1er novembre pour l'exercice suivant, compte tenu notamment du revenu des valeurs du portefeuille et du compte courant avec le Trésor représentant les fonds provenant des caisses d'épargne les taux des intérêts servis par les caisses d'épargne à leurs déposants. Des taux d'intérêts différents peuvent être fixés pour le premier livret et pour le livret supplémentaire. L'intérêt servi par la caisse des dépôts et consignations aux caisses d'épargne est supérieur de 0,75 % à celui servi aux déposants.
+Le taux de l'intérêt servi par la Caisse des dépôts et consignations aux caisses d'épargne et de prévoyance sur les fonds provenant du premier livret est supérieur de 0,75 p. 100 à celui qui est servi aux déposants.
