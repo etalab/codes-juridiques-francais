@@ -1,3 +1,4 @@
-# Section I : Droit d'enregistrement et taxe de publicité foncière
+# Section I : Droit départemental d'enregistrement et taxe départementale de publicité foncière
 
 - [I : Dispositions générales.](i)
+- [II : Régime spécial](ii)
