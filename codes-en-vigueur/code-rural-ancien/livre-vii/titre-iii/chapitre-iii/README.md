@@ -10,6 +10,7 @@
 - [Article 1234-9](article-1234-9.md)
 - [Article 1234-10](article-1234-10.md)
 - [Article 1234-11](article-1234-11.md)
+- [Article 1234-12](article-1234-12.md)
 - [Article 1234-13](article-1234-13.md)
 - [Article 1234-14](article-1234-14.md)
 - [Article 1234-15](article-1234-15.md)
