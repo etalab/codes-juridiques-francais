@@ -7,4 +7,3 @@
 - [Article D346](article-d346.md)
 - [Article D347](article-d347.md)
 - [Article D348](article-d348.md)
-- [Article D348-1](article-d348-1.md)
