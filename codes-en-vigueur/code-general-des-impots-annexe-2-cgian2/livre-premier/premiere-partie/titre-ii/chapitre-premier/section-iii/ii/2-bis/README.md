@@ -5,5 +5,7 @@
 - [Article 242-0 C](article-242-0-c.md)
 - [Article 242-0 A](article-242-0-a.md)
 - [Article 242-0 E](article-242-0-e.md)
+- [Article 242-0 G](article-242-0-g.md)
+- [Article 242-0 H](article-242-0-h.md)
 - [Article 242-0 J](article-242-0-j.md)
 - [Article 242-0 K](article-242-0-k.md)
