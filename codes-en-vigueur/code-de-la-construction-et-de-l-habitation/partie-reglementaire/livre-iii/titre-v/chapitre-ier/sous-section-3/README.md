@@ -7,4 +7,5 @@
 - [Article R351-14](article-r351-14.md)
 - [Article R351-15](article-r351-15.md)
 - [Article R351-16](article-r351-16.md)
+- [Article R351-16 BIS](article-r351-16-bis.md)
 - [Article R351-17](article-r351-17.md)
