@@ -1,6 +1,5 @@
 # JURIDICTION GRACIEUSE.
 
-- [Article 428](article-428.md)
 - [Article 434](article-434.md)
 - [Article 435](article-435.md)
 - [Article 438](article-438.md)
