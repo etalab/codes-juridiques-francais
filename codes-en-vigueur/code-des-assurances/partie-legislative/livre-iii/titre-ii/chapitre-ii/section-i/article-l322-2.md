@@ -1,6 +1,6 @@
 # Article L322-2
 
-Nul ne peut à un titre quelconque fonder, diriger, administrer une entreprise soumise au contrôle de l'Etat en vertu de l'article L. 310-1, ni une entreprise de réassurance :
+Nul ne peut à un titre quelconque fonder, diriger, administrer une entreprise soumise au contrôle de l'Etat en vertu de l'article L. 310-1, ou de l'article L. 310-1-1, ni une société de participations d'assurance :
 
 1° S'il a fait l'objet d'une condamnation :
 
@@ -10,7 +10,7 @@ b) Pour violation des dispositions des articles 441-1, 151-1, 432-11 et 441-8, 4
 
 c) Pour vol, escroquerie ou abus de confiance ;
 
-d) Pour un délit puni par des lois spéciales, des peines prévues aux articles 313-1 à 313-3, 313-4, et 1 du code pénal ;
+d) Pour un délit puni par des lois spéciales, des peines prévues aux articles 313-1 à 313-3, 313-4 et 1 du code pénal ;
 
 e) Pour soustractions commises par dépositaires publics, extorsion de fonds ou valeurs, banqueroute, atteinte au crédit de l'Etat ou infraction à la législation sur les changes ;
 

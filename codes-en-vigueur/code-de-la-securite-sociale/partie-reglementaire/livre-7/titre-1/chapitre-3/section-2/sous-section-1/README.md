@@ -4,3 +4,4 @@
 - [Article D713-4](article-d713-4.md)
 - [Article D713-5](article-d713-5.md)
 - [Article D713-7](article-d713-7.md)
+- [Article D713-7-2](article-d713-7-2.md)

@@ -10,4 +10,4 @@ Toutefois, le préfet peut, par arrêté, autoriser la pêche :
 
 4° Des aloses et des lamproies à toute heure dans les parties non salées des cours d'eau et des canaux mentionnés à l'alinéa 2 de l'article L. 236-10 ;
 
-5° De la carpe à toute heure dans les parties de cours d'eau et plans d'eau de 2e catégorie qu'il désigne.
+5° De la carpe à toute heure dans les parties de cours d'eau ou les plans d'eau de 2e catégorie et pendant une période qu'il détermine.
