@@ -1,6 +1,6 @@
 # Article L231-1
 
-Les délits et contraventions commis sur les biens forestiers ou agroforestiers non soumis au régime forestier sont recherchés et constatés par les gardes des bois et forêts des particuliers, par les gardes champêtres des communes, les gendarmes et, en général, par tous officiers de police judiciaire chargés de rechercher et de constater les délits ruraux, ainsi que par les personnels commissionnés et assermentés de l'Etat ou de la collectivité territoriale.
+Les délits et contraventions commis sur les biens forestiers ou agroforestiers ne relevant pas du régime forestier sont recherchés et constatés par les gardes des bois et forêts des particuliers, par les gardes champêtres des communes, les gendarmes et, en général, par tous officiers de police judiciaire chargés de rechercher et de constater les délits ruraux, ainsi que par les personnels commissionnés et assermentés de l'Etat ou de la collectivité départementale.
 
 Les procès-verbaux font foi jusqu'à preuve contraire.
 
