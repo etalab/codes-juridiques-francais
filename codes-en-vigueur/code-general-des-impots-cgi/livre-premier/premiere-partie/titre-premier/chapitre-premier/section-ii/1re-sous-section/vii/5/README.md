@@ -11,4 +11,5 @@
 - [2° : Crédit à la construction immobilière.](2)
 - [3° : Crédit mutuel et coopération agricoles](3)
 - [5° : Obligations négociables - Régimes spéciaux](5)
+- [6° : Emprunts émis en France par les organisations internationales](6)
 - [8° : Produits financiers bénéficiant aux organisations internationales aux Etats souverains étrangers, à leurs banques centrales ou institutions financières](8)
