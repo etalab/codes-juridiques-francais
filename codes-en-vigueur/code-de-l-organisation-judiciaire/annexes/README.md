@@ -7,4 +7,5 @@
 - [Article Annexe Tableau VI](article-annexe-tableau-vi.md)
 - [Article Annexe Tableau VII](article-annexe-tableau-vii.md)
 - [Article Annexe Tableau XII](article-annexe-tableau-xii.md)
+- [Article Annexe Tableau XIII](article-annexe-tableau-xiii.md)
 - [Article Annexe Tableau des costumes](article-annexe-tableau-des-costumes.md)
