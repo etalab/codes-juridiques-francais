@@ -1,6 +1,6 @@
 # Article R26
 
-Seront punis d'amende, [*sanction*] depuis 30 F jusqu'à 250 F [*taux résultant du décret 85-956 du 11 septembre 1985*] inclusivement :
+Seront punis d'amende, [*sanction*] depuis 30 F jusqu'à 250 F [*taux résultant du décret 89-989 du 29 décembre 1989*] inclusivement :
 
 1. Ceux qui auront négligé d'entretenir, réparer ou nettoyer les fours, cheminées ou usines où l'on fait usage du feu ;
 
@@ -30,6 +30,6 @@ Seront punis d'amende, [*sanction*] depuis 30 F jusqu'à 250 F [*taux résultant
 
 14. Ceux qui auront laissé passer leurs bestiaux ou leurs bêtes de trait, de charge ou de monture, sur le terrain d'autrui, avant l'enlèvement de la récolte ;
 
-15. Ceux qui auront contrevenu aux décrets et arrêtés légalement faits par l'autorité administrative ou aux arrêtés publiés par l'autorité municipale.
+15. Ceux qui auront contrevenu aux décrets et arrêtés légalement faits.
 
 16. Abrogé par le décret 134 du 13 février 1973.
