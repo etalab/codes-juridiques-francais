@@ -10,13 +10,13 @@ Le propriétaire ou l'Office national des forêts pour les forêts domaniales ad
 
 Lorsque la déclaration est souscrite après l'expiration de ce délai, l'exonération s'applique à compter du 1er janvier de l'année suivant celle du dépôt de la déclaration, pour les périodes définies au premier alinéa, diminuée du nombre d'années qui sépare celle du dépôt de la déclaration de la dixième année suivant celle de l'achèvement de la coupe définitive.
 
-Le contenu du certificat et les conditions de constatation de la réussite de l'opération de régénération naturelle sont fixés par un décret qui comporte des dispositions particulières en cas de dégradations naturelles exceptionnelles ;
+Le contenu du certificat et les conditions de constatation de la réussite de l'opération de régénération naturelle sont fixés par un décret qui comporte des dispositions particulières en cas de dégradations naturelles exceptionnelles (2);
 
 1° ter A compter du 1er janvier de l'année suivant la promulgation de la loi n° 2001-602 du 9 juillet 2001 précitée, à concurrence de 25  % du montant de la taxe, les terrains boisés présentant un état de futaie irrégulière en équilibre de régénération pendant les quinze années suivant la constatation de cet état. Cette exonération est renouvelable.
 
 Le propriétaire ou l'Office national des forêts pour les forêts domaniales adresse, avant le 1er janvier de la première année au titre de laquelle l'application ou le renouvellement de celle-ci est demandé, une déclaration à l'administration indiquant la liste des parcelles concernées accompagnée d'un certificat datant de moins d'un an établi au niveau départemental par l'administration chargée des forêts ou par un agent assermenté de l'Office national des forêts constatant l'état d'équilibre de régénération.
 
-Le contenu du certificat et les conditions de constatation de l'état d'équilibre sont fixés par un décret qui comporte des dispositions particulières en cas de dégradations naturelles exceptionnelles ;
+Le contenu du certificat et les conditions de constatation de l'état d'équilibre sont fixés par un décret qui comporte des dispositions particulières en cas de dégradations naturelles exceptionnelles (3) ;
 
 2° (Abrogé) ;
 

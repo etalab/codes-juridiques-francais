@@ -12,6 +12,7 @@
 - [Article 80 nonies](article-80-nonies.md)
 - [Article 80 decies](article-80-decies.md)
 - [Article 80 undecies](article-80-undecies.md)
+- [Article 80 undecies A](article-80-undecies-a.md)
 - [Article 80 duodecies](article-80-duodecies.md)
 - [Article 80 terdecies](article-80-terdecies.md)
 - [Article 81](article-81.md)

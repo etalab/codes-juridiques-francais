@@ -10,3 +10,4 @@
 - [Article 140 undecies](article-140-undecies.md)
 - [Article 140 duodecies](article-140-duodecies.md)
 - [Article 140 terdecies](article-140-terdecies.md)
+- [Article 140 quaterdecies](article-140-quaterdecies.md)

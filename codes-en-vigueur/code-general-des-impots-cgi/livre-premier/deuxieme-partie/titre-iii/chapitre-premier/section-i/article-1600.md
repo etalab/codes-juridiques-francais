@@ -34,4 +34,4 @@ En l'absence de telles conventions, le produit arrêté par les chambres de comm
 
 Dans un département où il n'y a qu'une chambre de commerce et d'industrie le rôle comprend les redevables de la taxe pour frais de chambres de commerce de tout le département. S'il y a dans le département plusieurs chambres de commerce et d'industrie, le rôle de chacune d'elles comprend les redevables de la taxe qui sont imposés dans sa circonscription.
 
-Un décret détermine les conditions d'application de la taxe prévue au présent article.
+Un décret détermine les conditions d'application de la taxe prévue au présent article (2).

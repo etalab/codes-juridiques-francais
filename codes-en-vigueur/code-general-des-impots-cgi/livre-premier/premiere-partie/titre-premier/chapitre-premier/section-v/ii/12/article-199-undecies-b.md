@@ -12,7 +12,7 @@ La réduction d'impôt prévue au premier alinéa est pratiquée au titre de l'a
 
 Pour les contribuables qui, dans le cadre de l'activité ayant ouvert droit à réduction, ne participent pas à l'exploitation au sens des dispositions du 1° bis du I de l'article 156, le montant de la réduction d'impôt ne peut excéder, au titre d'une année, 50 % de l'impôt dû avant application de celle-ci et avant imputation de l'avoir fiscal, des crédits d'impôt et des prélèvements ou retenues non libératoires. L'excédent éventuel, dans la limite du solde de l'impôt dû, s'impute sur l'impôt dû au titre de l'année suivante exclusivement, dans la même limite de 50 % diminuée, le cas échéant, du montant de la réduction d'impôt afférente aux investissements de cette même année.
 
-Si le montant de la réduction d'impôt excède l'impôt dû par les contribuables autres que ceux visés au sixième alinéa, l'excédent constitue une créance sur l'Etat d'égal montant. Cette créance est utilisée pour le paiement de l'impôt sur le revenu dû au titre des années suivantes jusqu'à la cinquième année inclusivement. La fraction non utilisée est remboursée à l'expiration de cette période dans la limite d'un montant d'investissement de 1 525 000 euros (1).
+Si le montant de la réduction d'impôt excède l'impôt dû par les contribuables autres que ceux visés au sixième alinéa, l'excédent constitue une créance sur l'Etat d'égal montant. Cette créance est utilisée pour le paiement de l'impôt sur le revenu dû au titre des années suivantes jusqu'à la cinquième année inclusivement. La fraction non utilisée est remboursée à l'expiration de cette période dans la limite d'un montant d'investissement de 1 525 000 euros.
 
 Si, dans le délai de cinq ans de son acquisition ou de sa création ou pendant sa durée normale d'utilisation si elle est inférieure, l'investissement ayant ouvert droit à réduction d'impôt est cédé ou cesse d'être affecté à l'activité pour laquelle il a été acquis ou créé, ou si l'acquéreur cesse son activité, la réduction d'impôt pratiquée fait l'objet d'une reprise au titre de l'année au cours de laquelle cet événement est intervenu.
 
@@ -22,9 +22,9 @@ Lorsque l'investissement est réalisé par une société ou un groupement visés
 
 La réduction d'impôt prévue au présent I s'applique aux investissements productifs mis à la disposition d'une entreprise dans le cadre d'un contrat de location si les conditions mentionnées aux quatorzième à dix-septième alinéas du I de l'article 217 undecies sont remplies et si 60 % de la réduction d'impôt sont rétrocédés à l'entreprise locataire sous forme de diminution du loyer et, le cas échéant, du prix de cession du bien à l'exploitant. Si, dans le délai de cinq ans de la mise à disposition du bien loué ou pendant sa durée normale d'utilisation si elle est inférieure, l'une des conditions visées au présent alinéa cesse d'être respectée, la réduction d'impôt pratiquée fait l'objet d'une reprise au titre de l'année au cours de laquelle cet événement se réalise.
 
-II. 1. Les investissements mentionnés au I et dont le montant total par programme et par exercice est supérieur à 760 000 euros (1) ne peuvent ouvrir droit à réduction que s'ils ont reçu un agrément préalable du ministre chargé du budget dans les conditions prévues au deuxième alinéa du III de l'article 217 undecies.
+II. 1. Les investissements mentionnés au I et dont le montant total par programme et par exercice est supérieur à 760 000 euros ne peuvent ouvrir droit à réduction que s'ils ont reçu un agrément préalable du ministre chargé du budget dans les conditions prévues au deuxième alinéa du III de l'article 217 undecies.
 
-Les dispositions du premier alinéa sont également applicables aux investissements mentionnés au I et dont le montant total par programme et par exercice est supérieur à 300 000 euros (1), lorsque le contribuable ne participe pas à l'exploitation au sens des dispositions du 1° bis du I de l'article 156.
+Les dispositions du premier alinéa sont également applicables aux investissements mentionnés au I et dont le montant total par programme et par exercice est supérieur à 300 000 euros, lorsque le contribuable ne participe pas à l'exploitation au sens des dispositions du 1° bis du I de l'article 156.
 
 2. Ceux des investissements mentionnés au I qui concernent les secteurs des transports, de la navigation de plaisance, de la pêche maritime, de la production et de la diffusion audiovisuelles et cinématographiques, des services informatiques ou qui consistent en la construction d'hôtel ou de résidences à vocation touristique ou parahôtelière, ou la rénovation d'hôtel, ou qui sont nécessaires à l'exploitation d'une concession de service public local à caractère industriel ou commercial ne peuvent ouvrir droit à réduction que s'ils ont reçu un agrément préalable du ministre chargé du budget délivré dans les conditions prévues aux deuxième et troisième alinéas du III de l'article 217 undecies.
 
@@ -36,6 +36,4 @@ III. Le régime issu du présent article est applicable aux investissements réa
 
 3° Des biens meubles corporels commandés mais non encore livrés au 1er janvier 2001, si la commande a été accompagnée du versement d'acomptes égaux à 50 % au moins de leur prix.
 
-IV. Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'application des I et II du présent article.
-
-(1) Ces dispositions s'appliquent à l'impôt sur le revenu établi au titre de l'année 2001.
+IV. Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'application des I et II du présent article (1).
