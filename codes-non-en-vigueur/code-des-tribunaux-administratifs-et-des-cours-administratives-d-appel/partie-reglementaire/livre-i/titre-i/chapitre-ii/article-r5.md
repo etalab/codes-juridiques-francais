@@ -4,11 +4,13 @@ Les tribunaux administratifs désignés ci-après sont présidés par un présid
 
 Amiens : trois chambres ;
 
+Besançon : deux chambres ;
+
 Bordeaux : trois chambres ;
 
 Caen : deux chambres ;
 
-Châlons-en-Champagne : deux chambres ;
+Châlons-sur-Marne : deux chambres ;
 
 Clermont-Ferrand : deux chambres ;
 
