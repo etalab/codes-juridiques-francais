@@ -7,3 +7,4 @@
 - [E : Obligations des usagers](e)
 - [F : Responsabilités attachées à l'utilisation des machines](f)
 - [G : Révocation des autorisations de placer et d'utiliser les machines](g)
+- [H : Compétence des agents de la direction générale des douanes et droits indirects](h)

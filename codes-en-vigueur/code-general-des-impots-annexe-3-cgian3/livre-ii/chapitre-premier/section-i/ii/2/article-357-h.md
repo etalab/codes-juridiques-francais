@@ -8,7 +8,7 @@ Si le foyer fiscal dispose d'autres catégories de revenus, la baisse constatée
 
 II. - Pour bénéficier des délais de paiement mentionnés au I, les contribuables doivent produire à l'appui de leur demande les pièces justifiant le montant des revenus.
 
-Les contribuables qui ont fait l'objet d'une procédure d'imposition d'office en ce qui concerne l'impôt sur le revenu faisant l'objet de la demande de délais de paiement ne peuvent bénéficier des dispositions de cet article.
+Les contribuables qui ont fait l'objet d'une procédure d'imposition d'office en ce qui concerne l'impôt sur le revenu faisant l'objet de la demande de délais de paiement ne peuvent bénéficier des dispositions du I.
 
 III. - Les délais de paiement prévus au I courent à compter du mois de la demande et jusqu'au 31 mars de l'année suivant celle de la mise en recouvrement de l'imposition.
 

@@ -6,4 +6,4 @@ Sont considérées comme non rémunérées, au sens du 4 de l'article 238 bis, l
 
 Un organisme mentionné au 4 de l'article 238 bis peut agir en tant qu'intermédiaire pour le compte d'établissements financiers qui verseraient des aides rémunérées à condition de ne percevoir aucune rémunération à ce titre.
 
-Les entreprises sont informées par l'organisme de la conformité de l'aide accordée au règlement (CE) n° 70/2001 de la Commission du 12 janvier 2001 susvisé lorsque celui-ci leur notifie l'aide. La décision leur notifiant l'octroi de l'aide précise que ce règlement est à leur disposition au siège de l'organisme.
+Les entreprises sont informées par l'organisme de la conformité de l'aide accordée au règlement (CE) n° 70/2001 de la Commission du 12 janvier 2001 lorsque celui-ci leur notifie l'aide. La décision leur notifiant l'octroi de l'aide précise que ce règlement est à leur disposition au siège de l'organisme.
