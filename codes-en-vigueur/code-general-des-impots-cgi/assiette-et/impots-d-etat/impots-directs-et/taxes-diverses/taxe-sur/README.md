@@ -10,6 +10,4 @@
 - [Article 231 bis H](article-231-bis-h.md)
 - [Article 231 bis K](article-231-bis-k.md)
 - [Article 235 ter V](article-235-ter-v.md)
-- [Article 235 ter T](article-235-ter-t.md)
-- [Article 235 ter U](article-235-ter-u.md)
 - [Article 235 ter W](article-235-ter-w.md)

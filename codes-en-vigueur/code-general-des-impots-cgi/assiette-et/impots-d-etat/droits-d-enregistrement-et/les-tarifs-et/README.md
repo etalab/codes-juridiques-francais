@@ -44,7 +44,6 @@
 - [Article 812 A](article-812-a.md)
 - [Article 813](article-813.md)
 - [Article 814 A](article-814-a.md)
-- [Article 815](article-815.md)
 - [Article 816](article-816.md)
 - [Article 816 A](article-816-a.md)
 - [Article 817](article-817.md)
