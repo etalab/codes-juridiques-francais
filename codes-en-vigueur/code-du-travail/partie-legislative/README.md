@@ -16,4 +16,3 @@
 - [DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS](dispositions-particulieres-a)
 - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*](dispositions-speciales-aux)
 - [CONFLITS DU TRAVAIL](conflits-du-travail)
-- [LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES](les-groupements-professionnels-la-representation-la-participation-et)

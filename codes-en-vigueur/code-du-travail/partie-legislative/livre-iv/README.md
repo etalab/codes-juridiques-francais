@@ -4,7 +4,6 @@
 - [Titre II : Les délégués du personnel](titre-ii)
 - [Titre III : Les comités d'entreprise](titre-iii)
 - [Titre IV : Intéressement et participation](titre-iv)
-- [Titre V : EDUCATION OUVRIERE ET FORMATION SYNDICALE](titre-v)
 - [Titre VI : DISPOSITIONS COMMUNES RELATIVES AU DROIT D'EXPRESSION DES SALARIES](titre-vi)
 - [Titre VII : FONDS SALARIAUX](titre-vii)
 - [Titre VIII : Pénalités](titre-viii)
