@@ -12,7 +12,7 @@ Sont membres de toutes les sections :
 
 4° Le président de la chambre d'agriculture ou son représentant ;
 
-5° Les six représentants des organisations syndicales d'exploitants agricoles à vocation générale mentionnées à l'article R. 313-1.
+5° Les huit représentants des organisations syndicales d'exploitants agricoles à vocation générale mentionnées à l'article R. 313-1.
 
 Conformément à l'avis de la commission départementale d'orientation de l'agriculture, le préfet désigne les autres membres de la commission appelés à siéger dans chaque section en fonction de son objet.
 
