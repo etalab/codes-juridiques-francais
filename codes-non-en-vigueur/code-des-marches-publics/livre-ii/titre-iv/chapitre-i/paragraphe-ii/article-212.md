@@ -2,7 +2,7 @@
 
 Sont adressés à la commission spécialisée compétente sous réserve des dispositions des articles 213 et 217 :
 
-1° Tout projet de marché dont le montant est supérieur à un seuil fixé selon les modalités prévues à l'article 207 ;
+1° Tout projet de marché dont le montant est supérieur à un seuil fixé selon les modalités prévues à l'article 206 ;
 
 2° Tout projet de marché ayant pour objet des prestations intellectuelles ou des constructions de prototypes qui contient des clauses relatives à des droits de propriété industrielle ou intellectuelle ; toutefois, la commission peut dispenser d'envoi les projets de marchés remplissant les conditions qu'elle définit ;
 
@@ -14,4 +14,4 @@ Sont adressés à la commission spécialisée compétente sous réserve des disp
 
 6° Certaines catégories de projets de marchés définies par décision du ministre intéressé qui, bien que non passés par ses services, entraînent des dépenses financées totalement ou partiellement par son département ou par un établissement public de l'Etat placé sous sa tutelle.
 
-Parmi les projets de marchés ou d'avenants énumérés ci-dessus, le président de la commission ou son délégué choisit ceux qui sont soumis à l'examen de la commission. Les projets de conventions mentionnés au 3° font obligatoirement l'objet d'un examen.
+Parmi les projets de marchés, de conventions ou d'avenants énumérés ci-dessus, le président de la commission ou son délégué choisit ceux qui sont soumis à l'examen de la commission.

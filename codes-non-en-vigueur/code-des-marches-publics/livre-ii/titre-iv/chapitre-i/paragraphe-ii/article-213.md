@@ -14,4 +14,4 @@ Les dossiers d'appel à la concurrence et les projets de marchés qui leur font 
 
 2° Les projets de marchés types fixant les prescriptions techniques et administratives communes à une catégorie de prestations. Ces projets font obligatoirement l'objet d'un examen.
 
-Les marchés passés selon ces marchés types et qui sont conformes, pour les prix, à des conventions approuvées par la commission spécialisée sont dispensés d'envoi.
+Les marchés passés conformément aux marchés types et qui sont conformes, pour les prix, à des conventions qui ont fait l'objet d'une décision de non-examen ou qui ont été approuvées par la commission spécialisée sont dispensés d'envoi.
