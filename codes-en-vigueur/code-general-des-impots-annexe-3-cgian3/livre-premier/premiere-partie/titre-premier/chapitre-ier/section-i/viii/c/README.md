@@ -1,5 +1,6 @@
 # C : Prélèvement sur les produits de placements à revenu fixe
 
+- [Article 41 duodecies C](article-41-duodecies-c.md)
 - [Article 41 duodecies D](article-41-duodecies-d.md)
 - [Article 41 duodecies A](article-41-duodecies-a.md)
 - [Article 41 duodecies B](article-41-duodecies-b.md)

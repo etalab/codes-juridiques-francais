@@ -17,6 +17,8 @@
 - [Article 211 bis](article-211-bis.md)
 - [Article 211 ter](article-211-ter.md)
 - [Article 213](article-213.md)
+- [Article 214](article-214.md)
+- [Article 214 B](article-214-b.md)
 - [Article 216](article-216.md)
 - [Article 216 bis](article-216-bis.md)
 - [Article 216 ter](article-216-ter.md)

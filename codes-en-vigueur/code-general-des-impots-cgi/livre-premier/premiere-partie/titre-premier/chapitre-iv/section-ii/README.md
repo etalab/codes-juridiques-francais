@@ -7,6 +7,7 @@
 - [I quinquies : Régime fiscal des sociétés créées de fait](i-quinquies)
 - [I sexies : Obligation des sociétés en participation](i-sexies)
 - [II : Régime fiscal des groupements forestiers et de leurs membres](ii)
+- [VI bis : Primes de remboursement et intérêts capitalisés](vi-bis)
 - [VII : Plus-values réalisées par les entreprises à l'occasion de la construction et de la vente d'immeubles affectés principalement à l'habitation](vii)
 - [VIII : Imposition des plus-values dégagées à l'occasion de l'aliénation de terrains à bâtir](viii)
 - [XIII : Régime fiscal des sociétés civiles ayant pour objet la construction d'immeubles en vue de la vente](xiii)
