@@ -2,7 +2,7 @@
 
 Les fonctions d'agent comptable de la régie sont remplies par le comptable de la commune.
 
-Toutefois, lorsque les recettes annuelles d'exploitation excèdent 9 000 000 F CFP (494 722 FF), ces fonctions peuvent être confiées à un comptable spécial par délibération du conseil municipal prise après avis du conseil d'exploitation et du trésorier-payeur général.
+Toutefois, lorsque les recettes annuelles d'exploitation excèdent 75 419,89 euros, ces fonctions peuvent être confiées à un comptable spécial par délibération du conseil municipal prise après avis du conseil d'exploitation et du trésorier-payeur général.
 
 L'agent qui remplit les fonctions de comptable spécial est nommé par le haut-commissaire sur proposition du maire.
 
