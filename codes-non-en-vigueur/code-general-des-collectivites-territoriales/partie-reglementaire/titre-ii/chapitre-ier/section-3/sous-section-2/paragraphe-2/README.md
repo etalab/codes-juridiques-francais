@@ -1,10 +1,3 @@
 # Paragraphe 2 : Régime financier (R)
 
 - [Sous-paragraphe 2 : Budget (R)](sous-paragraphe-2)
-- [Article R2221-58](article-r2221-58.md)
-- [Article R2221-59](article-r2221-59.md)
-- [Article R2221-60](article-r2221-60.md)
-- [Article R2221-61](article-r2221-61.md)
-- [Article R2221-62](article-r2221-62.md)
-- [Article R2221-63](article-r2221-63.md)
-- [Article R2221-64](article-r2221-64.md)
