@@ -12,6 +12,8 @@ Bénéficient également du présent régime :
 
 5° Les bénéficiaires des allocations mentionnées au sixième alinéa (4°) de l'article L. 322-4 du code du travail pour les accidents survenus par le fait ou à l'occasion des actions favorisant leur reclassement ;
 
-6° Les bénéficiaires des allocations versées au titre de l'article L. 322-3 du code du travail pour les accidents survenus par le fait ou à l'occasion des actions favorisant leur conversion.
+6° Les bénéficiaires des allocations versées au titre de l'article L. 322-3 du code du travail pour les accidents survenus par le fait ou à l'occasion des actions favorisant leur conversion ;
+
+7° Les salariés agricoles désignés, dans les conditions définies à l'article L. 225-8 du code du travail, pour siéger dans une instance instituée par une disposition législative ou réglementaire auprès d'une autorité de l'Etat, pour les accidents survenus par le fait ou à l'occasion de leurs missions, dans la mesure où ils ne bénéficient pas à un autre titre des dispositions du présent article.
 
 En ce qui concerne les personnes visées au présent article, des décrets déterminent à qui incombent les obligations de l'employeur et fixent les bases des cotisations et celles des indemnités.
