@@ -1,3 +1,3 @@
 # Chapitre IX : Fonds national de développement agricole
 
-- [Taxe parafiscale sur certaines viandes.](taxe-parafiscale-sur)
+- [Taxe parafiscale sur les graines oléagineuses.](taxe-parafiscale-sur)
