@@ -1,6 +1,7 @@
 # Titre III : Du jugement des contraventions
 
 - [Chapitre Ier : De la compétence du tribunal de police](chapitre-ier)
+- [Chapitre II : De la procédure simplifiée](chapitre-ii)
 - [Chapitre III : De la saisine du tribunal de police](chapitre-iii)
 - [Chapitre IV : De l'instruction définitive devant le tribunal de police](chapitre-iv)
 - [Chapitre V : Du jugement par défaut et de l'opposition](chapitre-v)
