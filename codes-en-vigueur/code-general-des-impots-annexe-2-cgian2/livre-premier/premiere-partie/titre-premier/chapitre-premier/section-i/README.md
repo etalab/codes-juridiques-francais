@@ -1,5 +1,6 @@
 # Section I : Détermination des bénéfices ou revenus nets des diverses catégories de revenus
 
+- [I : Bénéfices industriels et commerciaux](i)
 - [I bis : Bénéfices industriels et commerciaux](i-bis)
 - [II : Traitements et salaires](ii)
 - [II bis : Bénéfices non commerciaux](ii-bis)
