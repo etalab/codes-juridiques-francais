@@ -1,13 +1,11 @@
 # Article R*153-1
 
-Les transactions prévues par l'article L. 153-2 deviennent définitives par l'approbation qui leur est donnée :
+La proposition de transaction mentionnée à l'article L. 153-2 relève de la compétence du directeur régional de l'agriculture et de la forêt.
 
-- par les chefs de services régionaux d'aménagement forestier lorsque les condamnations encourues ou prononcées, y compris les réparations civiles, n'excèdent pas 10 000 F ;
+Ce fonctionnaire transmet la proposition de transaction au procureur de la République dans un délai de quatre mois pour les contraventions et d'un an pour les délits à compter de la clôture du procès-verbal.
 
-- par le ministre de l'agriculture ou par le haut fonctionnaire de l'administration centrale qu'il délègue à cet effet lorsque les condamnations encourues ou prononcées, y compris les réparations civiles, excèdent 10 000 F.
+La proposition précise la somme que l'auteur de l'infraction sera invité à payer au Trésor public ainsi que le délai imparti.
 
-Sont réservées à l'approbation du ministre ou de son délégué les transactions à intervenir ;
+Lorsque le procureur de la République a donné son accord sur la proposition de transaction, l'autorité administrative la notifie en double exemplaire, par lettre recommandée avec demande d'avis de réception, à l'auteur de l'infraction. Ce dernier dispose d'un mois pour l'accepter et, en ce cas, retourne un exemplaire signé de la proposition.
 
-- avant jugement, sur toute poursuite correctionnelle emportant une peine d'emprisonnement ;
-
-- après jugement, sur toutes infractions réprimées par une peine d'emprisonnement.
+L'action publique est éteinte lorsque l'auteur de l'infraction a payé dans le délai imparti.
