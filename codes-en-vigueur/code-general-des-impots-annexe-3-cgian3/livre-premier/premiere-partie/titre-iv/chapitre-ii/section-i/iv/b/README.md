@@ -3,3 +3,4 @@
 - [1° : Paiement à forfait.](1)
 - [2° : Bulletins de dépôt de bagages](2)
 - [3° : Récépissés et bulletins d'expédition](3)
+- [Bulletins de dépôt de bagages.](bulletins-de-depot-de-bagages)

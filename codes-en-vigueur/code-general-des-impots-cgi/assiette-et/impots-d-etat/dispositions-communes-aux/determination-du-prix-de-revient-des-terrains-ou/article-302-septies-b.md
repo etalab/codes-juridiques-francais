@@ -13,3 +13,5 @@ II  Constituent du point de vue fiscal, un élément du prix de revient de l'ens
 - la taxe locale d'équipement visée à l'article 1585 A;
 
 - comme il est dit à l'article L 142-2 du code de l'urbanisme, la taxe départementale d'espaces verts.
+
+- la taxe pour le financement des dépenses des conseils d'architecture, d'urbanisme et de l'environnement prevue par l'article 1599 B.

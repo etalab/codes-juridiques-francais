@@ -6,4 +6,4 @@
 
 3. Les pièces établies sont réunies en deux liasses relatives l'une aux paiements faits à des personnes ayant en France leur domicile réel ou leur siège social et l'autre aux paiements faits à des personnes domiciliées ou ayant leur siège hors de France [*à l'étranger*].
 
-4. Ces liasses ainsi que l'état visé à l'article 188 H sont conservés à la disposition de l'administration pendant le délai prévu à l'article 2002 bis du code général des impôts.
+4. Ces liasses ainsi que l'état visé à l'article 188 H sont conservés à la disposition de l'administration pendant le délai prévu à l'article L. 82 du livre des procédures fiscales.

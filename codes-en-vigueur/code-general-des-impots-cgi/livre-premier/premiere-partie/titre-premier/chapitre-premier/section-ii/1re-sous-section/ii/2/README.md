@@ -19,6 +19,7 @@
 - [Article 40 sexies](article-40-sexies.md)
 - [Article 40 B](article-40-b.md)
 - [Article 41](article-41.md)
+- [Article 41 bis](article-41-bis.md)
 - [Article 42 septies](article-42-septies.md)
 - [Article 42 octies](article-42-octies.md)
 - [Article 43 bis](article-43-bis.md)

@@ -5,3 +5,4 @@
 - [4 : Retenues à la source et prélèvements sur les revenus de valeurs mobilières](4)
 - [5 : Taxe d'apprentissage](5)
 - [6 : Taxe sur les salaires](6)
+- [8 : Prélèvement à la charge des sociétés](8)

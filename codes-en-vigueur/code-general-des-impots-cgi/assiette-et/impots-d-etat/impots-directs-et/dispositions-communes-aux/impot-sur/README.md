@@ -20,6 +20,7 @@
 - [Article 239 quater A](article-239-quater-a.md)
 - [Article 240](article-240.md)
 - [Article 241](article-241.md)
+- [Article 241 bis](article-241-bis.md)
 - [Article 242](article-242.md)
 - [Article 242 ter A](article-242-ter-a.md)
 - [Article 243](article-243.md)

@@ -1,67 +1,72 @@
 # Article 575 A
 
-Pour les différents groupes de produits définis à l'article 575, le taux normal, le minimum de perception, le droit de seuil et le taux réduit sont fixés conformément au tableau ci-après :
+Pour les différents groupes de produits définis à l'article 575, le taux normal et le minimum de perception sont fixés conformément taux réduit sont fixés conformément au tableau ci-après (1) :
 
--------------------------------------------------------------------- :                     :   TAUX  :  MINIMUM   :  MONTANT  :  TAUX   :
+---------------------------------------------------------:
 
 <table>
 <tr>
-<td> :      GROUPES        : normal  :     de     : du droit  : réduit  :</td>
+<td> :                     :   TAUX  :       MINIMUM          :</td>
 </tr>
 <tr>
-<td> :                     :         : perception :  de seuil :         :</td>
+<td> :      GROUPES        : normal  :     de perception      :</td>
 </tr>
 <tr>
-<td> :        DE           :---------:------------:-----------:---------:</td>
+<td> :                     :         :                        :</td>
 </tr>
 <tr>
-<td> :                     :  Pour-  :    Par mille unités    :  Pour-  :</td>
+<td> :        DE           :         :                        :</td>
 </tr>
 <tr>
-<td> :     PRODUITS        : centage :  ou par mille grammes  : centage :</td>
+<td> :                     :         :    Par mille unités    :</td>
 </tr>
 <tr>
-<td> :                     :         :                        :         :</td>
+<td> :     PRODUITS        :         :  ou par mille grammes  :</td>
 </tr>
 <tr>
-<td> :---------------------:---------:------------------------:---------:</td>
+<td> :                     :         :                        :</td>
 </tr>
 <tr>
-<td> :                     :         :      F     :     F     :         :</td>
+<td> :---------------------:---------:------------------------:</td>
 </tr>
 <tr>
-<td> :                     :         :            :           :         :</td>
+<td> :                     :         :            F           :</td>
 </tr>
 <tr>
-<td> : Cigarettes          :  47,20  :     30     :     -     :    -    :</td>
+<td> :                     :         :                        :</td>
 </tr>
 <tr>
-<td> : Cigares à enveloppe :         :            :           :         :</td>
+<td> : Cigarettes          :  49,20  :           30           :</td>
 </tr>
 <tr>
-<td> :  extérieure en      :         :            :           :         :</td>
+<td> : Cigares à enveloppe :         :                        :</td>
 </tr>
 <tr>
-<td> :  tabac naturel      :  22,50  :     34     :    112    :  14,70  :</td>
+<td> :  extérieure en      :         :                        :</td>
 </tr>
 <tr>
-<td> : Cigares à enveloppe :         :            :           :         :</td>
+<td> :  tabac naturel      :  24,50  :           34           :</td>
 </tr>
 <tr>
-<td> :  extérieure en      :         :            :           :         :</td>
+<td> : Cigares à enveloppe :         :                        :</td>
 </tr>
 <tr>
-<td> :  tabac reconstitué  :  26,20  :     39     :    130    :  17     :</td>
+<td> :  extérieure en      :         :                        :</td>
 </tr>
 <tr>
-<td> : Tabacs à fumer      :  37,50  :     12     :     35    :  27,80  :</td>
+<td> :  tabac reconstitué  :  28,20  :           39           :</td>
 </tr>
 <tr>
-<td> : Tabacs à priser     :  31,40  :      8     :     -     :    -    :</td>
+<td> : Tabacs à fumer      :  39,50  :           12           :</td>
 </tr>
 <tr>
-<td> : Tabacs à mâcher     :  19,60  :      7     :     -     :    -    :</td>
+<td> : Tabacs à priser     :  33,40  :            8           :</td>
+</tr>
+<tr>
+<td> : Tabacs à mâcher    :  21,60  :            7           :</td>
 </tr>
 </table>
 
---------------------------------------------------------------------
+-----------------------------------------------------------
+
+(1) Dispositions applicables à compter du 1er février 1982.

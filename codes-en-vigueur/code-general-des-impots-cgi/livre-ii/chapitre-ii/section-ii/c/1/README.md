@@ -1,6 +1,7 @@
 # 1 : Sanctions fiscales
 
 - [Article 1791](article-1791.md)
+- [Article 1793 A](article-1793-a.md)
 - [Article 1797](article-1797.md)
 - [Article 1798](article-1798.md)
 - [Article 1799](article-1799.md)
@@ -8,5 +9,6 @@
 - [Article 1800](article-1800.md)
 - [Article 1801](article-1801.md)
 - [Article 1802](article-1802.md)
+- [Article 1804](article-1804.md)
 - [Article 1804 A](article-1804-a.md)
 - [Article 1804 B](article-1804-b.md)

@@ -2,6 +2,7 @@
 
 - [Article 1726](article-1726.md)
 - [Article 1727](article-1727.md)
+- [Article 1727 A](article-1727-a.md)
 - [Article 1728](article-1728.md)
 - [Article 1730](article-1730.md)
 - [Article 1731 A](article-1731-a.md)
@@ -24,3 +25,5 @@
 - [Article 1755 bis](article-1755-bis.md)
 - [Article 1756 bis](article-1756-bis.md)
 - [Article 1756 ter](article-1756-ter.md)
+- [Article 1756 quater](article-1756-quater.md)
+- [Article 1756 quinquies](article-1756-quinquies.md)

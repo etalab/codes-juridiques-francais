@@ -6,3 +6,4 @@
 - [Section V : Calcul de la taxe](section-v)
 - [Section VI : Obligations des redevables](section-vi)
 - [Section VIII : Régimes spéciaux](section-viii)
+- [Section IX : Exploitants agricoles](section-ix)

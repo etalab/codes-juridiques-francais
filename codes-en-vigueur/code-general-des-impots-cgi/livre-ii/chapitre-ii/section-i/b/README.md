@@ -1,6 +1,8 @@
 # B : Sanctions pénales.
 
+- [Article 1741 A](article-1741-a.md)
 - [Article 1742](article-1742.md)
+- [Article 1743](article-1743.md)
 - [Article 1745](article-1745.md)
 - [Article 1746](article-1746.md)
 - [Article 1747](article-1747.md)

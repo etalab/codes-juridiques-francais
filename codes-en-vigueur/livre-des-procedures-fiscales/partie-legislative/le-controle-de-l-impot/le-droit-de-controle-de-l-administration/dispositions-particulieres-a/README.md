@@ -1,3 +1,15 @@
 # DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS.
 
 - [Article L16](article-l16.md)
+- [Article L17](article-l17.md)
+- [Article L20](article-l20.md)
+- [Article L23 A](article-l23-a.md)
+- [Article L24](article-l24.md)
+- [Article L36](article-l36.md)
+- [Article L38](article-l38.md)
+- [Article L39](article-l39.md)
+- [Article L40](article-l40.md)
+- [Article L41](article-l41.md)
+- [Article L42](article-l42.md)
+- [Article L43](article-l43.md)
+- [Article L44](article-l44.md)

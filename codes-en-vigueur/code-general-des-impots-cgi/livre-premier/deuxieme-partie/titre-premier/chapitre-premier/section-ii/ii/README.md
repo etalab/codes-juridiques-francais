@@ -3,3 +3,4 @@
 - [C : Exonérations temporaires](c)
 - [D : Base d'imposition](d)
 - [A : Propriétés imposables](a)
+- [E : Dégrèvements spéciaux](e)

@@ -4,3 +4,4 @@
 - [Article 49 ter](article-49-ter.md)
 - [Article 49 quater](article-49-quater.md)
 - [Article 49 quinquies](article-49-quinquies.md)
+- [Article 49 sexies](article-49-sexies.md)
