@@ -2,7 +2,7 @@
 
 I. La liquidation de la contribution est faite par la société et le montant, arrondi au franc le plus voisin, en est versé par elle sans avis d'imposition sous déduction du versement anticipé déjà réglé, au plus tard le jour de l'expiration du délai fixé pour la remise de la déclaration prévue au 1 de l'article 223 du code général des impôts.
 
-Ce versement est effectué à la caisse du comptable du Trésor chargé du recouvrement des impôts directs habilité à recevoir le versement anticipé ou, s'il n'est pas dû de versement anticipé, au comptable du Trésor du lieu d'imposition défini par l'article 218 A du code général des impôts. Il est accompagné du bordereau-avis de liquidation.
+Ce versement est effectué à la caisse du comptable du Trésor chargé du recouvrement des impôts directs habilité à recevoir le versement anticipé ou, s'il n'est pas dû de versement anticipé, au comptable du Trésor du lieu d'imposition défini par l'article 218 A du code général des impôts.
 
 II. Si le solde de liquidation n'a pas été intégralement versé le 15 du mois suivant celui au cours duquel il était exigible en vertu du I, la majoration de 10 p. 100 visée à l'article 1762 du code général des impôts est appliquée aux sommes non réglées.
 
