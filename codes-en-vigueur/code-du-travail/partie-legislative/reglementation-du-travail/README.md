@@ -1,4 +1,0 @@
-# REGLEMENTATION DU TRAVAIL
-
-- [CONGES ANNUELS](conges-annuels)
-- [HYGIENE ET SECURITE .](hygiene-et)

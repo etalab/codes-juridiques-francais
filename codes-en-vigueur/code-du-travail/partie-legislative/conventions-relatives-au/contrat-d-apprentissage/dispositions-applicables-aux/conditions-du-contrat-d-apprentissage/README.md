@@ -1,3 +1,0 @@
-# CONDITIONS DU CONTRAT D'APPRENTISSAGE .
-
-- [Article L117-5](article-l117-5.md)

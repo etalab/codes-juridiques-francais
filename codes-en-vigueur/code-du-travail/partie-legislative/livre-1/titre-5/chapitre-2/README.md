@@ -1,4 +1,3 @@
 # Chapitre 2 : CONTRAT DE TRAVAIL
 
 - [SECTION 2 : TRAVAIL TEMPORAIRE.](section-2)
-- [SECTION 3 : MARCHANDAGE](section-3)

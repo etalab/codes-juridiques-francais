@@ -1,3 +1,0 @@
-# REGLEMENTATION DU TRAVAIL HYGIENE ET SECURITE .
-
-- [Article L231-3-1](article-l231-3-1.md)
