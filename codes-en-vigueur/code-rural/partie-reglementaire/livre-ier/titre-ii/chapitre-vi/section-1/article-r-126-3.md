@@ -2,7 +2,7 @@
 
 Dans les communes qui sont comprises dans une zone définie en application du 1° de l'article L. 126-1, la commission communale ou intercommunale d'aménagement foncier, constituée dans les conditions prévues aux articles L. 121-2 à L. 121-5, propose un projet de création de périmètres à l'intérieur desquels :
 
-1° Soit tous semis et plantations d'essences forestières, ou les semis et plantations de certaines essences forestières seulement, sont interdits, sans exception possible ;
+1° Soit tous semis et plantations d'essences forestières, ou les semis et plantations de certaines essences forestières seulement, sont interdits, sans exception possible autre, éventuellement, que des semis ou plantations destinés à la création de boisements linéaires ou à l'installation de sujets isolés ;
 
 2° Soit tous semis et plantations d'essences forestières, ou les semis et plantations de certaines essences forestières seulement, sont subordonnés à l'absence d'opposition du préfet, qui a la faculté de les interdire ou de les réglementer.
 
