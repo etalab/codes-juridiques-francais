@@ -1,4 +1,4 @@
-# Chapitre Ier : DES AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION PROFESSIONNELLE.
+# Chapitre Ier : Des aides financières accordées aux stagiaires de formation professionnelle.
 
 - [Article L961-1](article-l961-1.md)
 - [Article L961-2](article-l961-2.md)

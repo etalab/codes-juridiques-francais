@@ -5,7 +5,7 @@
 - [Titre III : DES DROITS INDIVIDUELS ET DES DROITS COLLECTIFS DES    SALARIES EN MATIERE DE FORMATION](titre-iii)
 - [Titre IV : De l'aide de l'Etat.](titre-iv)
 - [Titre V : De la participation des employeurs au développement de la formation professionnelle continue.](titre-v)
-- [Titre VI : DES AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION PROFESSIONNELLE](titre-vi)
+- [Titre VI : Des aides financières accordées aux stagiaires de formation professionnelle et de leur protection sociale](titre-vi)
 - [Titre VII : Dispositions relatives aux agents de l'Etat et aux agents des collectivités locales.](titre-vii)
 - [Titre VIII : Des formations professionnelles en alternance.](titre-viii)
 - [Titre IX : DISPOSITIONS DIVERSES](titre-ix)

@@ -6,4 +6,6 @@ Passé ce délai, la désignation est purgée de tout vice sans que l'employeur 
 
 Le tribunal d'instance statue dans les dix jours [*délai*] sans frais ni forme de procédure et sur simple avertissement donné trois jours à l'avance à toutes les parties intéressées. La décision peut être déférée à la Cour de cassation [*pourvoi*].
 
+Lorsqu'une contestation rend indispensable le recours à une mesure d'instruction, les dépenses afférentes à cette mesure sont à la charge de l'Etat.
+
 En cas de réduction importante et durable de l'effectif en dessous de cinquante salariés, la suppression du mandat de délégué syndical est subordonnée à un accord entre le chef d'entreprise et l'ensemble des organisations syndicales représentatives. A défaut d'accord, le directeur départemental du travail et de l'emploi peut décider que le mandat de délégué syndical prend fin.

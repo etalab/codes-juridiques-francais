@@ -1,4 +1,4 @@
-# Titre VI : DES AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION PROFESSIONNELLE
+# Titre VI : Des aides financières accordées aux stagiaires de formation professionnelle et de leur protection sociale
 
-- [Chapitre Ier : DES AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION PROFESSIONNELLE.](chapitre-ier)
+- [Chapitre Ier : Des aides financières accordées aux stagiaires de formation professionnelle.](chapitre-ier)
 - [Chapitre II : De la protection sociale des stagiaires de la formation professionnelle.](chapitre-ii)
