@@ -2,11 +2,11 @@
 
 Ne peuvent prendre part aux ventes ni par eux-mêmes, ni par personnes interposées, directement ou indirectement, soit comme parties principales, soit comme associés ou cautions :
 
-1° Les ingénieurs, techniciens et agents de l'Etat ou de la collectivité territoirale chargés des forêts, ainsi que les fonctionnaires chargés de présider ou de concourir aux ventes et les receveurs du produit des coupes.
+1° Les ingénieurs, techniciens et agents de l'Etat ou de la collectivité départementale chargés des forêts, ainsi que les fonctionnaires chargés de présider ou de concourir aux ventes et les receveurs du produit des coupes.
 
-Ceux qui passent outre à ces interdictions sont punis d'une amende qui ne peut excéder le quart ni être moindre du douzième du montant de la vente et ils sont, en outre, passibles de l'emprisonnement et de l'interdiction prévus par l'article 175 du code pénal ;
+Ceux qui passent outre à ces interdictions sont punis d'une amende qui ne peut excéder le quart ni être moindre du douzième du montant de la vente et ils sont, en outre, passibles de cinq ans d'emprisonnement et des peines complémentaires mentionnées à l'article 432-17 du code pénal pour le délit de prise illégale d'intérêts prévu par l'article 432-12 du même code.
 
-2° Les parents et alliés en ligne directe, les frères et beaux-frères, oncles et neveux des ingénieurs, techniciens et agents de l'Etat ou de la collectivité territoriale chargés des forêts.
+2° Les parents et alliés en ligne directe, les frères et beaux-frères, oncles et neveux des ingénieurs, techniciens et agents de l'Etat ou de la collectivité départementale chargés des forêts.
 
 Ceux qui passent outre à ces interdictions sont punis d'une amende égale à celle qui est prévue au 1° ;
 
