@@ -11,6 +11,7 @@
 - [19° : Réduction d'impôt accordée au titre des dons faits par les particuliers](19)
 - [2° : Réduction d'impôt accordée aux adhérents de centres de gestion ou d'associations agréés](2)
 - [21° : Crédit d'impôt accordé au titre des dépenses d'entretien afférentes à l'habitation principale.](21)
+- [22° : Crédit d'impôt pour l'acquisition de certains gros équipements.](22)
 - [3° : Réduction d'impôt accordée au titre des cotisations versées aux organisations syndicales](3)
 - [4° : Réduction d'impôt accordée au titre des frais de garde des jeunes enfants.](4)
 - [6° : Réduction d'impôt accordée au titre des frais de scolarité des enfants poursuivant des études secondaires ou supérieures](6)

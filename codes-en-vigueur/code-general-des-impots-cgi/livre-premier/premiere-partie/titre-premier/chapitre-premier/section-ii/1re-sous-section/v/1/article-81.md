@@ -70,7 +70,7 @@ L'exonération s'applique sous réserve du dépôt de l'accord d'intéressement,
 
 Les dispositions du premier alinéa bénéficient également, dans les mêmes conditions et limites aux dividendes des actions de travail attribuées aux salariés des sociétés anonymes à participation ouvrière régies par la loi du 26 avril 1917, à compter du 1er janvier 1991 ;
 
-19° Dans la limite de 28 F par titre, le complément de rémunération résultant de la contribution de l'employeur à l'acquisition par le salarié des titres-restaurant émis conformément aux dispositions du titre III de l'ordonnance n° 67-830 du 27 septembre 1967, lorsque cette contribution est comprise entre un minimum et un maximum fixés par arrêté du ministre de l'économie et des finances.
+19° Dans la limite de 30 F par titre, le complément de rémunération résultant de la contribution de l'employeur à l'acquisition par le salarié des titres-restaurant émis conformément aux dispositions du titre III de l'ordonnance n° 67-830 du 27 septembre 1967, lorsque cette contribution est comprise entre un minimum et un maximum fixés par arrêté du ministre de l'économie et des finances.
 
 Cette exonération est subordonnée à la condition que le salarié se conforme aux obligations qui sont mises à sa charge par le titre III de l'ordonnance susvisée du 27 septembre 1967 et les textes pris pour son application ;
 
@@ -105,5 +105,7 @@ d. (disjoint)
 29° Les vacations horaires et l'allocation de vétérance personnelle ou de réversion, servies aux sapeurs-pompiers volontaires ou à leurs ayants droit, en application du titre II de la loi n° 96-370 du 3 mai 1996 relative au développement du volontariat dans les corps de sapeurs-pompiers ;
 
 30° Le pécule versé en application de la loi n° 96-1111 du 19 décembre 1996 relative aux mesures en faveur du personnel militaire dans le cadre de la professionnalisation des armées (1).
+
+31° Les avantages résultant des opérations définies au 1° du 11 de l'article 39, dans la limite globale de 10 000 F par salarié, apprécié sur l'ensemble de la période couverte par l'accord mentionné au 2° du même article.
 
 (1) Disposition applicable du 1er janvier 1997 au 31 décembre 2002.

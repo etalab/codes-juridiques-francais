@@ -8,6 +8,8 @@
 - [Article L5334-6](article-l5334-6.md)
 - [Article L5334-7](article-l5334-7.md)
 - [Article L5334-8](article-l5334-8.md)
+- [Article L5334-8-1](article-l5334-8-1.md)
+- [Article L5334-8-2](article-l5334-8-2.md)
 - [Article L5334-9](article-l5334-9.md)
 - [Article L5334-10](article-l5334-10.md)
 - [Article L5334-11](article-l5334-11.md)

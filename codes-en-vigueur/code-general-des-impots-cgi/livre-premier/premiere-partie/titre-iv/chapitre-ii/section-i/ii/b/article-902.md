@@ -64,7 +64,7 @@ Ces pièces mentionnent expressément qu'elles sont destinées à être déposé
 
 13° Les contrats de prêt sur gage consentis par les caisses de crédit municipal ;
 
-14° Les minutes, originaux et expéditions ainsi que leurs annexes des actes constatant la formation de sociétés en nom collectif, en commandite simple, à responsabilité limitée et par actions ainsi que des sociétés civiles à objet agricole ;
+14° Les minutes, originaux et expéditions ainsi que leurs annexes des actes constatant la formation de sociétés en nom collectif, en commandite simple, à responsabilité limitée et par actions ainsi que des sociétés civiles à objet agricole et coopératives agricoles ;
 
 15° Les prêts de titres effectués dans les conditions du chapitre V de la loi n° 87-416 du 17 juin 1987 sur l'épargne et les remises en garantie de valeurs, titres, effets ou sommes d'argent prévues à l'article 52 de la loi n° 96-597 du 2 juillet 1996 de modernisation des activités financières ;
 

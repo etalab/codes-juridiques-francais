@@ -12,3 +12,4 @@
 - [Section 10 : Redevance d'accès aux pistes de ski de fond balisées.](section-10)
 - [Section 11 : Redevances dues pour le transport et la distribution de l'électricité et de gaz](section-11)
 - [Section 12 : Stationnement payant à durée limitée sur voirie](section-12)
+- [Section 13 : Taxe sur les activités commerciales non salariées à durée saisonnière](section-13)

@@ -1,6 +1,6 @@
 # Article 199 undecies
 
-1. Il est institué une réduction d'impôt sur le revenu pour les contribuables qui investissent dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, dans les territoires d'outre-mer et les collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon jusqu'au 31 décembre 2002.
+1. Il est institué une réduction d'impôt sur le revenu pour les contribuables qui investissent dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, dans les territoires d'outre-mer et les collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon jusqu'au 31 décembre 2000.
 
 Elle s'applique :
 
@@ -24,11 +24,11 @@ La réduction d'impôt prévue au premier alinéa s'applique aux souscriptions e
 
 Les souscripteurs de parts ou actions des sociétés mentionnées au présent 1 doivent s'engager à les conserver pendant cinq ans à compter de la date de la souscription.
 
-2. Pour ouvrir droit à la réduction d'impôt, la constitution ou l'augmentation du capital des sociétés mentionnées au 1 et dont le montant est supérieur à 30.000.000 F doit avoir été portée, préalablement à sa réalisation, à la connaissance du ministre chargé du budget, et n'avoir pas appelé d'objection motivée de sa part dans un délai de trois mois. Il en est de même de la construction d'un ou plusieurs immeubles ayant fait l'objet d'un seul permis de construire dont le prix de revient est supérieur à 30 000 000 F ou de l'acquisition de logements situés dans de tels immeubles.
+2. Pour ouvrir droit à la réduction d'impôt, la constitution ou l'augmentation du capital des sociétés mentionnées au 1 et dont le montant est supérieur à 30 000 000 F doit avoir été portée, préalablement à sa réalisation, à la connaissance du ministre chargé du budget, et n'avoir pas appelé d'objection motivée de sa part dans un délai de trois mois. Il en est de même de la construction d'un ou plusieurs immeubles ayant fait l'objet d'un seul permis de construire dont le prix de revient est supérieur à 30 000 000 F ou de l'acquisition de logements situés dans de tels immeubles.
 
 3. La réduction d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année d'achèvement de l'immeuble, ou de son acquisition si elle est postérieure, ou de souscription des parts ou actions, et des quatre années suivantes. Chaque année, la base de la réduction est égale à 20 p. 100 des sommes effectivement payées à la date où le droit à réduction d'impôt est né.
 
-Pour la détermination de l'impôt dû au titre des années 1986 à 1989, la réduction d'impôt est égale à 50 p. 100 de la base définie au premier alinéa. Pour les revenus des années 1990 à 2006, elle est égale à 25 p. 100.
+Pour la détermination de l'impôt dû au titre des années 1986 à 1989, la réduction d'impôt est égale à 50 p. 100 de la base définie au premier alinéa. Pour les revenus des années 1990 à 2004, elle est égale à 25 p. 100.
 
 Toutefois, pour les acquisitions ou constructions de logements neufs à usage locatif ou à usage d'habitation principale ou les souscriptions au capital de sociétés ayant pour objet de construire ou d'acquérir de tels logements, qui sont visées au deuxième alinéa du 1 et réalisées à compter du 1er juillet 1993, la réduction d'impôt est portée à 50 p. 100 de la base définie au premier alinéa pour les années 1993 à 1996 lorsque le contribuable ou la société s'engage à louer nu l'immeuble dans les six mois de son achèvement ou de son acquisition si elle est postérieure pendant cinq ans au moins à des personnes qui en font leur habitation principale, ou si le bénéficiaire en fait lui-même son habitation principale.
 
