@@ -2,4 +2,6 @@
 
 - [Article R351-58](article-r351-58.md)
 - [Article R351-60](article-r351-60.md)
+- [Article R351-61](article-r351-61.md)
+- [Article R351-62-1](article-r351-62-1.md)
 - [Article R351-64](article-r351-64.md)
