@@ -8,7 +8,6 @@
 - [Article 1759 ter](article-1759-ter.md)
 - [Article 1762 quinquies](article-1762-quinquies.md)
 - [Article 1762 A](article-1762-a.md)
-- [Article 1763 C](article-1763-c.md)
 - [Article 1763 A](article-1763-a.md)
 - [Article 1763 B](article-1763-b.md)
 - [Article 1765 bis](article-1765-bis.md)
