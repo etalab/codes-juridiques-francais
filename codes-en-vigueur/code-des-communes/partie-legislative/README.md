@@ -8,4 +8,3 @@
 - [Administration et services communaux](administration-et)
 - [FINANCES COMMUNALES](finances-communales)
 - [Organisation communale](organisation-communale)
-- [Personnel communal](personnel-communal)
