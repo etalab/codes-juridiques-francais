@@ -4,6 +4,7 @@
 - [Article 265 ter](article-265-ter.md)
 - [Article 265 quater](article-265-quater.md)
 - [Article 265 quinquies](article-265-quinquies.md)
+- [Article 265 sexies](article-265-sexies.md)
 - [Article 265 A](article-265-a.md)
 - [Article 265 B](article-265-b.md)
 - [Article 266](article-266.md)

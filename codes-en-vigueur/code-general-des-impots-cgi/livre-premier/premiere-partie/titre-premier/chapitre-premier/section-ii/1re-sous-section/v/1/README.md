@@ -6,5 +6,6 @@
 - [Article 80 quinquies](article-80-quinquies.md)
 - [Article 80 sexies](article-80-sexies.md)
 - [Article 80 septies](article-80-septies.md)
+- [Article 81](article-81.md)
 - [Article 81 bis](article-81-bis.md)
 - [Article 81 ter](article-81-ter.md)

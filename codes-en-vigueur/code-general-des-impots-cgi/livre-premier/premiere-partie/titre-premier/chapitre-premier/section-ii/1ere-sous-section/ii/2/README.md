@@ -10,6 +10,7 @@
 - [Article 39 quinquies F](article-39-quinquies-f.md)
 - [Article 39 quinquies FA](article-39-quinquies-fa.md)
 - [Article 39 octies B](article-39-octies-b.md)
+- [Article 39 duodecies A](article-39-duodecies-a.md)
 - [Article 39 terdecies](article-39-terdecies.md)
 - [Article 39 quaterdecies](article-39-quaterdecies.md)
 - [Article 39 A](article-39-a.md)

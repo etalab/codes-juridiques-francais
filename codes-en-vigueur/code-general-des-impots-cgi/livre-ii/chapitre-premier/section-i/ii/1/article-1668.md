@@ -12,4 +12,6 @@ Les sociétés créées à compter du 1er janvier 1977 sont, au cours des douze 
 
 4. Le supplément d'impôt prévu au c du paragraphe I de l'article 219 est acquitté le dernier jour du mois qui suit la mise en paiement de la distribution.
 
+Toutefois, le paiement du supplément d'impôt dû en application du troisième alinéa du d du paragraphe I de l'article 219 est effectué le dernier jour du mois qui suit la clôture de l'exercice au cours duquel l'événement mentionné au même alinéa intervient.
+
 1)  Annexe III, art. 358 à 366.

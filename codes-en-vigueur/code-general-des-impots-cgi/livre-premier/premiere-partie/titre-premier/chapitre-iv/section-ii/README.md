@@ -30,3 +30,4 @@
 - [XXVI : Prélèvements sur les plus-values prévues à l'article 244 bis.](xxvi)
 - [XXVII : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales.](xxvii)
 - [XXVIII : Crédit d'impôt pour dépenses de formation professionnelle.](xxviii)
+- [bénéfices visés aux chapitres I à III](benefices-vises-aux)
