@@ -12,5 +12,4 @@
 - [Article D385-10](article-d385-10.md)
 - [Article D385-11](article-d385-11.md)
 - [Article D385-12](article-d385-12.md)
-- [Article D385-13](article-d385-13.md)
 - [Article D385-14](article-d385-14.md)
