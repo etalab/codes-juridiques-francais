@@ -5,3 +5,4 @@
 - [Section 3 : Règles de fonctionnement](section-3)
 - [Article L611-1](article-l611-1.md)
 - [Article L611-2](article-l611-2.md)
+- [Article L611-5](article-l611-5.md)
