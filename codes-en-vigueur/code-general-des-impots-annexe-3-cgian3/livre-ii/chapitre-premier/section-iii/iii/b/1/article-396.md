@@ -4,7 +4,7 @@ Le crédit de paiement fractionné prévu à l'article 1717 du code général de
 
 1° des mutations par décès [*succession*];
 
-2° des apports en société prévus aux articles 809-I-3o  809-II et 812-I-1° et 2° du code précité;
+2° des apports en société prévus aux articles 809-I-3o  809-II et au 1° du I de l'article 812 du  code précité;
 
 3° des acquisitions effectuées dans le cadre des dispositions de l'article 88 de la loi no 67-563 du 13 juillet 1967 sur le règlement judiciaire  la liquidation des biens  la faillite personnelle et les banqueroutes;
 

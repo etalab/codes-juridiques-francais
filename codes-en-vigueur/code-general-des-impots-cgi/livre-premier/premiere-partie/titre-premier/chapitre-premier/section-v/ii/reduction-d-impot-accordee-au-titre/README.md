@@ -1,5 +1,7 @@
-# Réduction d'impôt accordée au titre des investissements immobiliers locatifs.
+# Réduction d'impôt accordée au titre des frais de garde des jeunes enfants.
 
+- [Article 199 quater C](article-199-quater-c.md)
+- [Article 199 quater D](article-199-quater-d.md)
 - [Article 199 sexies](article-199-sexies.md)
 - [Article 199 sexies C](article-199-sexies-c.md)
 - [Article 199 sexies A](article-199-sexies-a.md)

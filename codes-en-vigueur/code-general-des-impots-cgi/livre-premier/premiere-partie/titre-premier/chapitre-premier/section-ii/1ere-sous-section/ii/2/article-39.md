@@ -36,7 +36,7 @@ Si des dégrèvements sont ultérieurement accordés sur ces impôts, leur monta
 
 4° bis. Le prélèvement opéré au titre de l'article 4 modifié de la loi n° 51-675 du 24 mai 1951, relative à la construction navale, et faisant l'objet d'un ordre de versement émis au cours de l'exercice ;
 
-4° ter. La taxe sur les encours de crédits prévue à l'article 235 ter N ; toutefois, cette taxe ne peut être portée dans les charges déductibles qu'au titre de l'exercice clos après son paiement ;
+4° ter (Abrogé) ;
 
 5° Les provisions constituées en vue de faire face à des pertes ou charges nettement précisées et que des événements en cours rendent probables, à condition qu'elles aient été effectivement constatées dans les écritures de l'exercice. Toutefois, ne sont pas déductibles les provisions que constitue une entreprise en vue de faire face au versement d'allocations en raison du départ à la retraite ou préretraite des membres ou anciens membres de son personnel, ou de ses mandataires sociaux,    La dépréciation des oeuvres d'art inscrites à l'actif d'une entreprise peut donner lieu à la constitution d'une provision. Cette dépréciation doit être constatée par un expert agréé par le ministre chargé de la culture lorsque le coût d'acquisition de l'oeuvre est supérieur à 50 000 F..
 

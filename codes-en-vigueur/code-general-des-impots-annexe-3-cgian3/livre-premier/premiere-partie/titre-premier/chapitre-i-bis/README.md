@@ -10,3 +10,4 @@
 - [Section VI : Report en arrière des déficits](section-vi)
 - [Section VII : Bénéfice imposable des caisses de crédit mutuel agricole et rural](section-vii)
 - [Section VIII : Régime des groupes de sociétés](section-viii)
+- [Section IX : Entreprises nouvelles bénéficiant des dispositions de l'article 44 septies](section-ix)
