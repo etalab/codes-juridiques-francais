@@ -4,7 +4,7 @@ La déclaration nominative préalable à l'embauche mentionnée à l'article L. 
 
 a) Dénomination sociale ou nom et prénoms de l'employeur, numéro d'immatriculation de l'entreprise ou numéro sous lequel les cotisations de sécurité sociale sont versées ;
 
-b) Nom patronymique, prénoms, nationalité, date et lieu de naissance du salarié ainsi que son numéro d'identification s'il est déjà immatriculé à la sécurité sociale ;
+b) Nom de famille, prénoms, nationalité, date et lieu de naissance du salarié ainsi que son numéro d'identification s'il est déjà immatriculé à la sécurité sociale ;
 
 c) Date et heure d'embauche ;
 
