@@ -16,11 +16,11 @@ Cette taxe, dont la perception est confiée au service des impôts, est fixée �
 
 FRACTION DE LA VALEUR TAXABLE / TARIF APPLICABLE
 
-N'excédant pas 150.000 F / 0 %
+N'excédant pas 150 000 F : 0 %
 
-Comprise entre 150.000 F et 700.000 F / 0,40 %
+Comprise entre 150 000 F et 700 000 F : 0,40 %
 
-Supérieure à 700.000 F / 1 %.
+Supérieure à 700 000 F : 1 %.
 
 La taxe est soumise aux règles qui gouvernent l'exigibilité, la restitution et le recouvrement des droits ou de la taxe auxquels elle s'ajoute (1).
 
@@ -30,11 +30,11 @@ La taxe est soumise aux règles qui gouvernent l'exigibilité, la restitution et
 
 2° (Abrogé) ;
 
-3° Ventes d'objets donnés en gage prévues par l'article 93 du code de commerce ;
+3° Ventes d'objets donnés en gage prévues par l'article L. 521-3 du code de commerce ;
 
-4° Ventes opérées en vertu de l'article L342-11 du code rural ;
+4° Ventes opérées en vertu de l'article L. 342-11 du code rural ;
 
-5° Ventes opérées en vertu de la loi du 8 août 1913 modifiée sur les warrants hôteliers en cas de non-paiement du warrant ;
+5° Ventes opérées en vertu du chapitre III du titre II du livre V du code de commerce en cas de non-paiement du warrant ;
 
 6° Ventes de marchandises avariées par suite d'événements de mer et de débris de navires naufragés ;
 

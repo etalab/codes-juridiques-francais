@@ -16,6 +16,7 @@
 - [Article 39 bis](article-39-bis.md)
 - [Article 39 bis A](article-39-bis-a.md)
 - [Article 39 ter](article-39-ter.md)
+- [Article 39 ter A](article-39-ter-a.md)
 - [Article 39 ter B](article-39-ter-b.md)
 - [Article 39 quinquies](article-39-quinquies.md)
 - [Article 39 quinquies I](article-39-quinquies-i.md)

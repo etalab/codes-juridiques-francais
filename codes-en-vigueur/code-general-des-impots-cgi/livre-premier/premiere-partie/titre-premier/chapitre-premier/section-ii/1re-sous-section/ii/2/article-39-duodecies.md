@@ -22,7 +22,7 @@ b. aux moins-values subies lors de la cession de biens amortissables, quelle que
 
 6. Pour l'application du présent article, les cessions de titres compris dans le portefeuille sont réputées porter par priorité sur les titres de même nature acquis ou souscrits à la date la plus ancienne.
 
-Pour l'application des dispositions du premier alinéa, les titres reçus en rémunération d'un apport partiel d'actif soumis au régime prévu à l'article 210 B et ceux qui sont acquis ou souscrits indépendamment de l'opération d'apport constituent deux catégories distinctes de titres jusqu'à la fin du délai de trois ans (2) prévu à l'article 210 B. Les cessions de titres intervenues dans ce délai sont réputées porter en priorité sur les titres acquis ou souscrits indépendamment de l'opération d'apport.
+Pour l'application des dispositions du premier alinéa, les titres reçus en rémunération d'un apport partiel d'actif soumis au régime prévu à l'article 210 B et ceux qui sont acquis ou souscrits indépendamment de l'opération d'apport constituent deux catégories distinctes de titres jusqu'à la fin du délai de trois ans prévu à l'article 210 B. Les cessions de titres intervenues dans ce délai sont réputées porter en priorité sur les titres acquis ou souscrits indépendamment de l'opération d'apport.
 
 7.
 
@@ -30,17 +30,17 @@ DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS JUSQU'AU 31 DECEMBRE 1995.
 
 Le régime fiscal des plus-values prévu par le présent article et les articles suivants n'est pas applicable aux plus-values réalisées par les sociétés de crédit-bail ou plus généralement les sociétés qui ont pour objet social la location d'équipements, sur la vente des éléments de l'actif immobilisé faisant l'objet d'une location dans le cadre de leur activité.
 
-DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A COMPTER DU 1er JANVIER 1995.
+DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A COMPTER DU 1er JANVIER 1996.
 
 Le régime fiscal des plus-values prévu par le présent article et les articles suivants n'est pas applicable aux plus-values réalisées :
 
-a. par les entreprises effectuant des opérations visées aux 1° et 2° de la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le crédit-bail lors de la cession des éléments de leur actif immobilisé faisant l'objet d'un contrat de crédit-bail ;
+a. par les entreprises effectuant des opérations visées aux 1 et 2 de l'article L. 313-7 du code monétaire et financier lors de la cession des éléments de leur actif immobilisé faisant l'objet d'un contrat de crédit-bail ;
 
 b. par les sociétés qui ont pour objet social la location d'équipements lors de la cession des éléments de l'actif immobilisé faisant l'objet d'une location dans le cadre de leur activité.
 
 Ces dispositions ne s'appliquent que lorsque l'élément cédé a été préalablement loué avant d'être vendu et que l'acheteur est le locataire lui-même.
 
-8. En cas de cession par le prêteur initial de titres qui lui sont restitués à l'issue d'un contrat de prêt mentionné à l'article 31 modifié de la loi n° 87-416 du 17 juin 1987 sur l'épargne, le délai de deux ans prévu aux 2 et 4 s'apprécie à compter de la date de la première inscription à son bilan des titres prêtés.
+8. En cas de cession par le prêteur initial de titres qui lui sont restitués à l'issue d'un contrat de prêt mentionné à l'article L. 432-6 du code monétaire et financier, le délai de deux ans prévu aux 2 et 4 s'apprécie à compter de la date de la première inscription à son bilan des titres prêtés.
 
 9. Lorsque la vente d'un élément de l'actif immobilisé est annulée ou résolue pendant un exercice postérieur à celui au cours duquel la vente est intervenue, le cédant inscrit à son bilan cet élément ainsi que les amortissements et provisions de toute nature y afférents tels qu'ils figuraient dans ses comptes annuels à la date de la cession.
 
@@ -55,5 +55,3 @@ Ces dispositions sont applicables pour la détermination des résultats des exer
 10. Lorsqu'une société ou un organisme qui cesse d'être soumis à l'un des régimes mentionnés au premier alinéa du II de l'article 202 ter cède des éléments de l'actif immobilisé inscrits au bilan d'ouverture du premier exercice ou de la première période d'imposition dont les résultats sont soumis à l'impôt sur les sociétés, le délai de deux ans prévu aux 2 et 4 est apprécié à compter de la date d'ouverture de cet exercice ou de cette période d'imposition. La fraction de la plus-value correspondant aux amortissements visés au deuxième alinéa du II du même article est considérée comme à court terme pour l'application du b du 2.
 
 (1) Ces dispositions sont applicables pour la détermination des plus-values ou moins-values réalisées au cours des exercices clos à compter du 31 décembre 1993.
-
-(2) Ces dispositions s'appliquent aux opérations d'apports partiels d'actif et de scissions réalisées à compter du 15 septembre 1999 et à celles déjà réalisées à cette date pour lesquelles les engagements de conservation sont en cours au 15 septembre 1999.

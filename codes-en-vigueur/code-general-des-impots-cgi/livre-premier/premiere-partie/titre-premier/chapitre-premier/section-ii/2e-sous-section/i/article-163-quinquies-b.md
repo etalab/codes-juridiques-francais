@@ -8,13 +8,15 @@ II. L'exonération est subordonnée aux conditions suivantes :
 
 1° Pour les souscriptions de parts effectuées entre le 1er janvier 1984 et le 31 décembre 1989, ces fonds doivent être soumis aux dispositions du titre II bis de la loi n° 79-594 du 13 juillet 1979 relative aux fonds communs de placement et leurs actifs doivent être constitués de façon constante et pour 40 % au moins de titres, y compris les obligations convertibles, émis.
 
-a. Aux fins d'augmentations de capital en numéraire réalisées après le 1er janvier 1984 par des sociétés soumises à l'impôt sur les sociétés exerçant une activité visée à l'article 34 et dont les actions ne sont pas admises ((aux négociations sur un marché réglementé)) (M) (1).
+a. Aux fins d'augmentations de capital en numéraire réalisées après le 1er janvier 1984 par des sociétés soumises à l'impôt sur les sociétés exerçant une activité visée à l'article 34 et dont les actions ne sont pas admises aux négociations sur un marché réglementé.
 
 b. Ou aux fins de constitution du capital de sociétés définies au a, réalisée par apport en numéraire après le 1er janvier 1984 ;
 
 1° bis Pour les souscriptions de parts effectuées à compter du 1er janvier 1990, les fonds doivent avoir 50 p. 100 de leurs actifs constitués par des titres remplissant les conditions prévues aux premier et troisième alinéas du I de l'article 1er modifié de la loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier.
 
 Toutefois, jusqu'au 31 décembre 1992, l'exonération s'applique si toute augmentation de l'actif des fonds est investie pour 50 p. 100 au moins en titres visés au premier alinéa du I de l'article 1er de la loi précitée.
+
+1° ter Les fonds doivent avoir 50 % de leurs actifs constitués par des titres remplissant les conditions prévues aux quatrième à neuvième alinéas de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 précitée ;
 
 2° Les sommes ou valeurs réparties doivent être immédiatement réinvesties dans le fonds et demeurer indisponibles pendant la période visée au I, premier alinéa ;
 
@@ -24,8 +26,4 @@ III. Les sommes ou valeurs qui ont été exonérées d'impôt sur le revenu en v
 
 Toutefois, l'exonération est maintenue en cas de cession des parts par le contribuable lorsque lui-même ou l'un des époux soumis à une imposition commune se trouve dans l'un des cas suivants : invalidité correspondant au classement dans la deuxième ou troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, décès, départ à la retraite ou licenciement.
 
-IV. Un décret fixe les obligations incombant aux porteurs de parts ainsi qu'aux gérants et dépositaires des fonds mentionnés au titre II bis de la loi n° 79-594 du 13 juillet 1979 complétée par la loi n° 83-1 du 3 janvier 1983, art. 23 et de ceux remplissant les conditions prévues au II 2°.
-
-(M) Modification.
-
-(1) Loi 98-1267 1998-12-30 art. 27 XV : Les dispositions du présent article sont applicables à compter de la date d'entrée en vigueur de la loi n° 96-597 du 2 juillet 1996 de modernisation des activités financières.
+IV. Un décret fixe les obligations incombant aux porteurs de parts ainsi qu'aux gérants et dépositaires des fonds mentionnés au titre II bis de la loi n° 79-594 du 13 juillet 1979 complétée par la loi n° 83-1 du 3 janvier 1983, art. 23 et de ceux remplissant les conditions prévues au II 1°.

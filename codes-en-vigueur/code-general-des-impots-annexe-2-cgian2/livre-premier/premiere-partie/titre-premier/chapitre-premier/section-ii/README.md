@@ -5,6 +5,7 @@
 - [III : Épargne investie.](iii)
 - [IV : Options de souscription ou d'achat d'actions au bénéfice du personnel des sociétés](iv)
 - [V : Plan d'épargne populaire.](v)
+- [V bis : Plan d'épargne en actions](v-bis)
 - [VI : Déduction des pensions alimentaires](vi)
 - [VII : Déduction des investissements réalisés outre-mer.](vii)
 - [Article 91 undecies](article-91-undecies.md)

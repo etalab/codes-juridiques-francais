@@ -12,7 +12,7 @@ Sont exonérés des droits de mutation à titre gratuit :
 
 Il est statué sur le caractère de bienfaisance de la disposition par le décret rendu en conseil d'Etat ou l'arrêté préfectoral qui en autorise l'acceptation ;
 
-5° Les dons et legs faits aux associations d'enseignement supérieur reconnues d'utilité publique conformément à l'article 7 de la loi du 18 mars 1880 et aux sociétés d'éducation populaire gratuite reconnues d'utilité publique et subventionnées par l'Etat ;
+5° Les dons et legs faits aux associations d'enseignement supérieur reconnues d'utilité publique et aux sociétés d'éducation populaire gratuite reconnues d'utilité publique et subventionnées par l'Etat ;
 
 6° Les dons et legs de sommes d'argent ou d'immeubles faits aux établissements pourvus de la personnalité civile autres que ceux visés au I de l'article 794 avec obligation, pour les bénéficiaires, de consacrer ces libéralités à l'achat d'oeuvres d'art, de monuments ou d'objets ayant un caractère historique, de livres, d'imprimés ou de manuscrits, destinés à figurer dans une collection publique, ou à l'entretien d'une collection publique ;
 
@@ -26,4 +26,4 @@ Il est statué sur le caractère de bienfaisance de la disposition par le décre
 
 11° Les dons et legs faits aux établissements publics ou d'utilité publique autres que ceux visés au I de l'article 794, aux sociétés particulières ou autres groupements régulièrement constitués, en tant qu'ils sont affectés, par la volonté expresse du donateur ou du testateur, à l'érection de monuments aux morts de la guerre ou à la gloire de nos armes et des armées alliées.
 
-12° Les dons et legs d'immeubles situés dans les zones définies à l'article L243-1 du code rural, faits au profit du Conservatoire de l'espace littoral et des rivages lacustres.
+12° Conformément à l'article L322-8 du code de l'environnement, les dons et legs d'immeubles situés dans les zones définies à l'article L322-1 du code précité, faits au profit du Conservatoire de l'espace littoral et des rivages lacustres.

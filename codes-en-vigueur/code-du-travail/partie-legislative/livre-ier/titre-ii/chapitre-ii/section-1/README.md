@@ -22,3 +22,4 @@
 - [Article L122-3-14](article-l122-3-14.md)
 - [Article L122-3-15](article-l122-3-15.md)
 - [Article L122-3-16](article-l122-3-16.md)
+- [Article L122-3-17](article-l122-3-17.md)

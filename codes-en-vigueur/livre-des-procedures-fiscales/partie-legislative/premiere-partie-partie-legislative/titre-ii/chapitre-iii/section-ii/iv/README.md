@@ -1,6 +1,7 @@
 # IV : Dérogations au profit des autorités judiciaires et des juridictions
 
 - [Article L140](article-l140.md)
+- [Article L140 A](article-l140-a.md)
 - [Article L141](article-l141.md)
 - [Article L141 A](article-l141-a.md)
 - [Article L142](article-l142.md)

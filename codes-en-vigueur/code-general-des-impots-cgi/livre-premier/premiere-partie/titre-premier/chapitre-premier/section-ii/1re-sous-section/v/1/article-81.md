@@ -10,7 +10,7 @@ Toutefois, lorsque leur montant est fixé par voie législative, ces allocations
 
 b (Transféré sous le b de l'article 80 ter) ;
 
-2° Les prestations familiales énumérées par l'article L. 511-1 du code de la sécurité sociale, l'aide à la famille pour l'emploi d'une assistante maternelle agréée ainsi que la majoration de cette aide et l'allocation de garde d'enfant à domicile visées respectivement aux articles L. 841-1 et L. 842-1 du même code, l'allocation de salaire unique, l'allocation de salaire unique, l'allocation de la mère au foyer et l'allocation pour frais de garde, maintenues dans le cadre des articles 12 et 13 de la loi n° 77-765 du 12 juillet 1977 instituant le complément familial, l'allocation aux adultes handicapés et les suppléments de revenu familial prévus par la loi n° 80-545 du 17 juillet 1980 portant diverses dispositions en vue d'améliorer la situation des familles nombreuses ;
+2° Les prestations familiales énumérées par l'article L. 511-1 du code de la sécurité sociale, l'aide à la famille pour l'emploi d'une assistante maternelle agréée ainsi que la majoration de cette aide et l'allocation de garde d'enfant à domicile visées respectivement aux articles L. 841-1 et L. 842-1 du même code, l'allocation de salaire unique, l'allocation de la mère au foyer et l'allocation pour frais de garde, maintenues dans le cadre des articles 12 et 13 de la loi n° 77-765 du 12 juillet 1977 instituant le complément familial et l'allocation aux adultes handicapés ;
 
 2° bis L'allocation de logement prévue par les articles L831-1 à L831-7 du code de la sécurité sociale, ainsi que le montant de l'aide personnalisée au logement prévue par les articles L 351-1 à L 351-14 du code de la construction et de l'habitation ;
 
@@ -42,9 +42,9 @@ b (Transféré sous le b de l'article 80 ter) ;
 
 14° bis Les pensions temporaires d'orphelin, à concurrence de l'allocation aux adultes handicapés, lorsqu'elles remplacent cette allocation en tout ou partie du fait de la loi ;
 
-14° ter L'indemnité prévue par l'article L209-15 du code de la santé publique ;
+14° ter L'indemnité prévue par l'article L. 1124-2 du code de la santé publique ;
 
-15° Les prestations, visées aux articles L325-1 et L325-2 du code rural.
+15° Les prestations, visées aux articles L325-1 et L325-2 du code rural, dans le cadre de l'entraide entre agriculteurs.
 
 Ces dispositions pourront être étendues par décret en conseil d'Etat aux départements d'outre-mer ;
 
@@ -58,13 +58,13 @@ Ces dispositions pourront être étendues par décret en conseil d'Etat aux dép
 
 b. L'indemnité mensuelle et l'indemnité supplémentaire versées dans le cadre de l'accomplissement du volontariat civil en application de l'article L 122-12 du code du service national ;
 
-17° bis Le versement complémentaire de l'entreprise effectué à l'occasion de l'émission et de l'achat en bourse d'actions réservées aux salariés et mentionné aux articles 208-14 et 208-18 modifié de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales ;
+17° bis Le versement complémentaire de l'entreprise effectué à l'occasion de l'émission et de l'achat en bourse d'actions réservées aux salariés et mentionné aux articles L. 225-192 et L. 225-196 du code de commerce ;
 
 17° ter Le versement complémentaire effectué par les sociétés coopératives ouvrières de production en application de l'article 40 de la loi n° 78-763 du 19 juillet 1978 portant statut de ces sociétés, à l'occasion de l'émission de parts sociales destinées exclusivement à leurs salariés ;
 
 18° Les sommes versées par l'entreprise en application de plans d'épargne constitués conformément aux dispositions du chapitre III du titre IV du livre IV du code du travail ;
 
-18° bis Dans la limite d'un montant égal à la moitié du plafond annuel moyen retenu pour le calcul des cotisations de sécurité sociale, les sommes reçues au titre de l'intéressement et affectées à la réalisation de plans d'épargne constitués conformément aux dispositions du chapitre III du titre IV du livre IV du code du travail ;
+18° bis Dans la limite d'un montant égal à la moitié du plafond annuel moyen retenu pour le calcul des cotisations de sécurité sociale, les sommes reçues au titre de l'intéressement et affectées à la réalisation de plans d'épargne constitués conformément au chapitre III du titre IV du livre IV du code du travail ;
 
 L'exonération s'applique sous réserve du dépôt de l'accord d'intéressement, dans les conditions prévues au huitième alinéa de l'article L. 441-2 du code du travail, à la direction départementale du travail, de l'emploi et de la formation professionnelle du lieu où il a été conclu
 
@@ -96,16 +96,20 @@ d. (disjoint)
 
 25° La valeur des actions de la société Air France que l'Etat cède gratuitement à ceux de ses salariés qui consentent une réduction de leurs salaires pendant une durée de trois ans, dans les conditions fixées par l'article 17 de la loi n° 94-679 du 8 août 1994 et pour la durée de leur carrière professionnelle dans les conditions fixées par l'article 51 de la loi n° 98-546 du 2 juillet 1998 portant diverses dispositions d'ordre économique et financier.
 
-26° L'indemnisation ou, le cas échéant, la valeur des actions attribuées à ce titre, prévue à l'article 79-1 du titre VI relatif aux sociétés anonymes à participation ouvrière de la loi modifiée du 24 juillet 1867 ;
+26° L'indemnisation ou, le cas échéant, la valeur des actions attribuées à ce titre, prévue à l'article L. 225-270 du code de commerce ;
 
 27° L'allocation forfaitaire complémentaire, les aides spécifiques au logement et les aides spécifiques en faveur des conjoints survivants servies en application de la loi n° 94-488 du 11 juin 1994 relative aux rapatriés anciens membres des formations supplétives et assimilés ou victimes de la captivité en Algérie ;
 
-28° Lorsqu'elle est prise en charge par l'employeur, la part salariale du complément de cotisation d'assurance vieillesse, prévue à l'article 1031-3 du code rural ;
+28° Lorsqu'elle est prise en charge par l'employeur, la part salariale du complément de cotisation d'assurance vieillesse, prévue à l'article L. 741-24 du code rural ;
 
 29° Les vacations horaires et l'allocation de vétérance personnelle ou de réversion, servies aux sapeurs-pompiers volontaires ou à leurs ayants droit, en application du titre II de la loi n° 96-370 du 3 mai 1996 relative au développement du volontariat dans les corps de sapeurs-pompiers ;
 
 30° Le pécule versé en application de la loi n° 96-1111 du 19 décembre 1996 relative aux mesures en faveur du personnel militaire dans le cadre de la professionnalisation des armées (1).
 
-31° Les avantages résultant des opérations définies au 1° du 11 de l'article 39, dans la limite globale de 10 000 F par salarié, apprécié sur l'ensemble de la période couverte par l'accord mentionné au 2° du même article.
+31° Les avantages résultant des opérations définies au 1° du 11 de l'article 39, dans la limite globale de 10 000 F par salarié, apprécié sur l'ensemble de la période couverte par l'accord mentionné au 2° du même article (2).
+
+32° L'indemnité de cessation d'activité prévue au V de l'article 41 de la loi de financement de la sécurité sociale pour 1999 (n° 98-1194 du 23 décembre 1998).
 
 (1) Disposition applicable du 1er janvier 1997 au 31 décembre 2002.
+
+(2) Disposition applicable aux opérations effectuées dans le cadre d'accords conclus entre le 1er janvier 2001 et le 31 décembre 2002.

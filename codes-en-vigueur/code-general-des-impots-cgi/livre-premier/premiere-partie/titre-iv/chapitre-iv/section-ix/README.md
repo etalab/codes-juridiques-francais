@@ -7,6 +7,7 @@
 - [13° : Warrants](13)
 - [14° : Indivisions successorales en Corse. Régime temporaire](14)
 - [15° : Privatisations](15)
+- [16° : Acquisitions de bois et forêts et de terrains destinés au reboisement](16)
 - [2° : Actes de dépôt](2)
 - [3° : Actes de l'état civil](3)
 - [4° : Actes, archives, registres et documents détruits par suite d'événements de guerre, de sinistre ou de tout autre fait](4)

@@ -12,16 +12,12 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
 Toutefois, l'exonération ne s'applique pas :
 
-a. Aux prestations d'hébergement fournies dans les hôtels de tourisme classés, ((les villages de vacances classés ou agréés)) (M) (1) et les résidences de tourisme classées lorsque ces dernières sont destinées à l'hébergement des touristes et qu'elles sont louées par un contrat d'une durée d'au moins neuf ans à un exploitant qui a souscrit un engagement de promotion touristique à l'étranger dans les conditions fixées par un décret en Conseil d'Etat ;
+a. Aux prestations d'hébergement fournies dans les hôtels de tourisme classés, les villages de vacances classés ou agréés et les résidences de tourisme classées lorsque ces dernières sont destinées à l'hébergement des touristes et qu'elles sont louées par un contrat d'une durée d'au moins neuf ans à un exploitant qui a souscrit un engagement de promotion touristique à l'étranger dans les conditions fixées par un décret en Conseil d'Etat ;
 
 b. Aux prestations de mise à disposition d'un local meublé ou garni lorsque l'exploitant offre, en plus de l'hébergement, le petit déjeuner, le nettoyage quotidien des locaux, la fourniture de linge de maison et la réception de la clientèle et qu'il est immatriculé au registre du commerce et des sociétés au titre de cette activité ;
 
 c. Aux locations de locaux nus, meublés ou garnis consenties par bail commercial à l'exploitant d'un établissement d'hébergement qui remplit les conditions fixées au a ou au b.
 
-((d. Aux prestations d'hébergement fournies dans les villages résidentiels de tourisme, lorsque ces derniers sont destinés à l'hébergement des touristes et qu'ils sont loués par un contrat d'une durée d'au moins neuf ans à un exploitant, dans des conditions fixées par décret en Conseil d'Etat.
+d. Aux prestations d'hébergement fournies dans les villages résidentiels de tourisme, lorsque ces derniers sont destinés à l'hébergement des touristes et qu'ils sont loués par un contrat d'une durée d'au moins neuf ans à un exploitant, dans des conditions fixées par décret en Conseil d'Etat.
 
-((Ces villages résidentiels de tourisme s'inscrivent dans une opération de réhabilitation de l'immobilier de loisirs définie par décret en Conseil d'Etat.)) (M)
-
-(M) Modification.
-
-(1) Ces dispositions s'appliquent à compter du 1er janvier 1999.
+Ces villages résidentiels de tourisme s'inscrivent dans une opération de réhabilitation de l'immobilier de loisirs définie par l'article L. 318-5 du code de l'urbanisme.

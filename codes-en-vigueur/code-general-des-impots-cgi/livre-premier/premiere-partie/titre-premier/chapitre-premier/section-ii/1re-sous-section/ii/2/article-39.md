@@ -30,7 +30,7 @@ Un décret fixe les conditions d'application de ces dispositions, notamment en c
 
 2° Sauf s'ils sont pratiqués par une copropriété de navires, une copropriété de cheval de course ou d'étalon, les amortissements réellement effectués par l'entreprise, dans la limite de ceux qui sont généralement admis d'après les usages de chaque nature d'industrie, de commerce ou d'exploitation et compte tenu des dispositions de l'article 39 A, y compris ceux qui auraient été différés au cours d'exercices antérieurs déficitaires, sous réserve des dispositions de l'article 39 B.
 
-Les décrets en Conseil d'Etat prévus à l'article 273 fixent les conséquences des déductions prévues à l'article 271 sur la comptabilisation et l'amortissement des biens;
+Les décrets en Conseil d'Etat prévus à l'article 273 fixent les conséquences des déductions prévues à l'article 271 sur la comptabilisation et l'amortissement des biens ;
 
 3° Les intérêts servis aux associés à raison des sommes qu'ils laissent ou mettent à la disposition de la société, en sus de leur part du capital, quelle que soit la forme de la société, dans la limite de ceux calculés à un taux égal à la moyenne annuelle des taux effectifs moyens pratiqués par les établissements de crédit pour des prêts à taux variable aux entreprises, d'une durée initiale supérieure à deux ans.
 
@@ -90,15 +90,15 @@ Un arrêté du ministre de l'économie et des finances fixe les limites dans les
 
 Les provisions qui, en tout ou en partie, reçoivent un emploi non conforme à leur destination ou deviennent sans objet au cours d'un exercice ultérieur sont rapportées aux résultats dudit exercice. Lorsque le rapport n'a pas été effectué par l'entreprise elle-même, l'administration peut procéder aux redressements nécessaires dès qu'elle constate que les provisions sont devenues sans objet. Dans ce cas, les provisions sont, s'il y a lieu, rapportées aux résultats du plus ancien des exercices soumis à vérification.
 
-Par dérogation aux dispositions des premier et treizième alinéas, la provision pour dépréciation qui résulte éventuellement de l'estimation du portefeuille est soumise au régime fiscal des moins-values à long terme défini au 2 du I de l'article 39 quindecies ; si elle devient ultérieurement sans objet, elle est comprise dans les plus-values à long terme de l'exercice, visées au 1 du I de l'article 39 quindecies. La provision pour dépréciation constituée antérieurement, le cas échéant, sur des titres prêtés dans les conditions prévues au chapitre V modifié de la loi n° 87-416 du 17 juin 1987 sur l'épargne n'est pas réintégrée ; elle doit figurer sur une ligne distincte au bilan et demeurer inchangée jusqu'à la restitution de ces titres.
+Par dérogation aux dispositions des premier et treizième alinéas, la provision pour dépréciation qui résulte éventuellement de l'estimation du portefeuille est soumise au régime fiscal des moins-values à long terme défini au 2 du I de l'article 39 quindecies ; si elle devient ultérieurement sans objet, elle est comprise dans les plus-values à long terme de l'exercice, visées au 1 du I de l'article 39 quindecies. La provision pour dépréciation constituée antérieurement, le cas échéant, sur des titres prêtés dans les conditions prévues à l'article L. 432-6 du code monétaire et financier n'est pas réintégrée ; elle doit figurer sur une ligne distincte au bilan et demeurer inchangée jusqu'à la restitution de ces titres.
 
 Toutefois, pour les exercices ouverts à partir du 1er janvier 1974, les titres de participation ne peuvent faire l'objet d'une provision que s'il est justifié d'une dépréciation réelle par rapport au prix de revient. Pour l'application de cette disposition, sont présumés titres de participation les actions acquises en exécution d'une offre publique d'achat ou d'échange ainsi que les titres ouvrant droit au régime fiscal des sociétés mères.
 
 Les provisions pour dépréciation, en ce qui concerne les titres et actions susvisés, précédemment comptabilisées seront rapportées aux résultats des exercices ultérieurs à concurrence du montant des provisions de même nature constituées à la clôture de chacun de ces exercices ou, le cas échéant, aux résultats de l'exercice de cession.
 
-La dépréciation de titres prêtés dans les conditions du chapitre V modifié de la loi n° 87-416 du 17 juin 1987 sur l'épargne ne peut donner lieu, de la part du prêteur ou de l'emprunteur, à la constitution d'une provision. De même le prêteur ne peut constituer de provision pour dépréciation de la créance représentative de ces titres ;
+La dépréciation de titres prêtés dans les conditions prévues à l'article L. 432-6 du code monétaire et financier ne peut donner lieu, de la part du prêteur ou de l'emprunteur, à la constitution d'une provision. De même le prêteur ne peut constituer de provision pour dépréciation de la créance représentative de ces titres ;
 
-La dépréciation des valeurs, titres ou effets qui sont l'objet d'une pension dans les conditions prévues par la loi n° 93-1444 du 31 décembre 1993 portant diverses dispositions relatives à la Banque de France, à l'assurance, au crédit et aux marchés financiers, ne peut donner lieu, de la part du cessionnaire, à la constitution d'une provision déductible sur le plan fiscal.
+La dépréciation des valeurs, titres ou effets qui sont l'objet d'une pension dans les conditions prévues par les articles L. 432-12 à L. 432-19 du code monétaire et financier , ne peut donner lieu, de la part du cessionnaire, à la constitution d'une provision déductible sur le plan fiscal.
 
 Par exception aux dispositions du quatorzième alinéa qui précède, la provision éventuellement constituée par une entreprise en vue de faire face à la dépréciation d'une participation dans une filiale implantée à l'étranger n'est admise sur le plan fiscal que pour la fraction de son montant qui excède les sommes déduites en application des dispositions des articles 39 octies A et 39 octies B et non rapportées au résultat de l'entreprise. Cette disposition s'applique pour la détermination des résultats des exercices ouverts à compter du 1er janvier 1988.
 
@@ -122,7 +122,7 @@ Les provisions pour indemnités de licenciement constituées en vue de faire fac
 
 7° Les dépenses engagées dans le cadre de manifestations de caractère philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial, culturel ou concourant à la mise en valeur du patrimoine artistique, à la défense de l'environnement naturel ou à la diffusion de la culture, de la langue et des connaissances scientifiques françaises, lorsqu'elles sont exposées dans l'intérêt direct de l'exploitation ;
 
-2. Les transactions, amendes, confiscations, pénalités de toute nature mises à la charge des contrevenants aux dispositions légales régissant les prix, le ravitaillement, la répartition des divers produits, l'assiette et le recouvrement des impôts, contributions et taxes, ne sont pas admises en déduction des bénéfices soumis à l'impôt.
+2. Les transactions, amendes, confiscations, pénalités de toute nature mises à la charge des contrevenants aux dispositions légales régissant la liberté des prix et de la concurrence, le ravitaillement, la répartition des divers produits, l'assiette et le recouvrement des impôts, contributions et taxes, ne sont pas admises en déduction des bénéfices soumis à l'impôt.
 
 2 bis. A compter de l'entrée en vigueur sur le territoire de la République de la convention sur la lutte contre la corruption d'agents publics étrangers dans les transactions commerciales internationales, les sommes versées ou les avantages octroyés, directement ou par des intermédiaires, au profit d'un agent public au sens du 4 de l'article 1er de ladite convention ou d'un tiers pour que cet agent agisse ou s'abstienne d'agir dans l'exécution de fonctions officielles, en vue d'obtenir ou conserver un marché ou un autre avantage indu dans des transactions commerciales internationales, ne sont pas admis en déduction des bénéfices soumis à l'impôt.
 
@@ -134,9 +134,9 @@ Pour l'application de cette disposition, les dirigeants s'entendent, dans les so
 
 Sauf justifications, les dispositions du premier alinéa sont applicables :
 
-a) A l'amortissement des véhicules immatriculés dans la catégorie des voitures particulières pour la fraction de leur prix d'acquisition qui dépasse 120.000 F ;
+a) A l'amortissement des véhicules immatriculés dans la catégorie des voitures particulières pour la fraction de leur prix d'acquisition qui dépasse 120 000 F.
 
-b) En cas d'opérations de crédit bail ou de location, à l'exception des locations de courte durée n'excédant pas trois mois non renouvelables, portant sur des voitures particulières, à la part du loyer supportée par le locataire et correspondant à l'amortissement pratiqué par le bailleur pour la fraction du prix d'acquisition du véhicule excédant 120.000 F ;
+b) En cas d'opérations de crédit bail ou de location, à l'exception des locations de courte durée n'excédant pas trois mois non renouvelables, portant sur des voitures particulières, à la part du loyer supportée par le locataire et correspondant à l'amortissement pratiqué par le bailleur pour la fraction du prix d'acquisition du véhicule excédant 120 000 F ;
 
 c) Aux dépenses de toute nature résultant de l'achat, de la location ou de toute autre opération faite en vue d'obtenir la disposition de yachts ou de bateaux de plaisance à voile ou à moteur ainsi que de leur entretien ; les amortissements sont regardés comme faisant partie de ces dépenses.
 
@@ -168,7 +168,7 @@ Lorsqu'elles augmentent dans une proportion supérieure à celle des bénéfices
 
 7. Les dépenses exposées pour la tenue de la comptabilité et, éventuellement, pour l'adhésion à un centre de gestion agréé ne sont pas prises en compte pour la détermination du résultat imposable lorsqu'elles sont supportées par l'Etat du fait de la réduction d'impôt mentionnée à l'article 199 quater B.
 
-8. Si un fonds de commerce, un fonds artisanal ou l'un de leurs éléments incorporels non amortissables est loué dans les conditions prévues au 3° de l'article 1er de la loi n° 66-455 du 2 juillet 1966 modifiée relative aux entreprises pratiquant le crédit-bail, la quote-part de loyers prise en compte pour la fixation du prix de vente convenu pour l'acceptation de la promesse unilatérale de vente n'est pas déductible pour l'assiette de l'impôt sur les bénéfices dû par le locataire. Elle doit être indiquée distinctement dans le contrat de crédit-bail.
+8. Si un fonds de commerce, un fonds artisanal ou l'un de leurs éléments incorporels non amortissables est loué dans les conditions prévues au 3 de l'article L. 313-7 du code monétaire et financier, la quote-part de loyers prise en compte pour la fixation du prix de vente convenu pour l'acceptation de la promesse unilatérale de vente n'est pas déductible pour l'assiette de l'impôt sur les bénéfices dû par le locataire. Elle doit être indiquée distinctement dans le contrat de crédit-bail.
 
 Un décret fixe les modalités d'application de ces dispositions, notamment les obligations déclaratives.
 
@@ -178,7 +178,7 @@ Ces dispositions s'appliquent aux charges sociales et fiscales attachées à ces
 
 Un décret fixe les modalités d'application du présent 9.
 
-10. Si un immeuble est loué dans les conditions prévues au 2° de l'article 1er de la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le crédit-bail, la quote-part de loyers prise en compte pour la détermination du prix de cession de l'immeuble à l'issue du contrat et se rapportant à des éléments non amortissables n'est pas déductible du résultat imposable du crédit-preneur.
+10. Si un immeuble est loué dans les conditions prévues au 2 de l'article L. 313-7 du code monétaire et financier, la quote-part de loyers prise en compte pour la détermination du prix de cession de l'immeuble à l'issue du contrat et se rapportant à des éléments non amortissables n'est pas déductible du résultat imposable du crédit-preneur.
 
 Toutefois, pour les opérations concernant les immeubles achevés après le 31 décembre 1995 et affectés à titre principal à usage de bureaux entrant dans le champ d'application de la taxe prévue à l'article 231 ter, autres que ceux situés dans les zones d'aménagement du territoire et dans les territoires ruraux de développement prioritaire définis à la dernière phrase du premier alinéa de l'article 1465 et dans les zones de redynamisation urbaine, définis au I bis et, à compter du premier janvier 1997, au I ter de l'article 1466 A, la quote-part de loyer prise en compte pour la détermination du prix de cession de l'immeuble à l'issue du contrat n'est déductible du résultat imposable du crédit-preneur que dans la limite des frais d'acquisition de l'immeuble et de l'amortissement que le crédit-preneur aurait pu pratiquer s'il avait été propriétaire du bien objet du contrat.
 

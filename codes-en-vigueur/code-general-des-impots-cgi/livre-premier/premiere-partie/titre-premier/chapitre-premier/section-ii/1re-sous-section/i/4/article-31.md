@@ -16,19 +16,19 @@ b ter) Dans les secteurs sauvegardés définis aux articles L. 313-1 à L. 313-3
 
 b quater) Dans les zones franches urbaines telles que définies au B du 3 de l'article 42 modifié de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire, les travaux de démolition rendus nécessaires par le réaménagement d'un ou plusieurs immeubles, dès lors que le représentant de l'Etat dans le département a donné son accord à la convention mentionnée au cinquième alinéa du 3° du I de l'article 156, à l'exclusion des travaux de construction, de reconstruction ou d'agrandissement. Toutefois, constituent des charges de la propriété déductibles pour la détermination du revenu net les travaux de reconstitution de toiture ou de murs extérieurs d'immeubles existants prévus par la même convention et rendus nécessaires par ces démolitions. Pour l'application de ces dispositions, les conditions mentionnées au cinquième alinéa du 3° du I de l'article 156 doivent être remplies ;
 
-Les obligations déclaratives incombant aux contribuables concernés par les dispositions prévues au premier alinéa sont fixées par décret (1) ;
+Les obligations déclaratives incombant aux contribuables concernés par les dispositions prévues au premier alinéa sont fixées par décret ;
 
 c) Les impositions, autres que celles incombant normalement à l'occupant, perçues, à raison desdites propriétés, au profit des collectivités locales, de certains établissements publics ou d'organismes divers ainsi que la taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux et les locaux de stockage perçue dans la région d'Ile-de-France prévue à l'article 231 ter ;
 
 d) Les intérêts de dettes contractées pour la conservation, l'acquisition, la construction, la réparation ou l'amélioration des propriétés ;
 
-e) Une déduction forfaitaire fixée à 14 % des revenus bruts et représentant les frais de gestion, l'assurance à l'exclusion de celle visée au a bis et l'amortissement. Lorsque l'une des options prévues au f et au g est exercée, la déduction, fixée à 6 p. 100, représente les frais de gestion et l'assurance à l'exclusion de celle visée au a bis. La déduction forfaitaire au taux de 14 % est de nouveau applicable à l'expiration de l'application du régime visé au g ;
+e) Une déduction forfaitaire fixée à 14 % des revenus bruts et représentant les frais de gestion, l'assurance à l'exclusion de celle visée au a bis et l'amortissement. Lorsque l'une des options prévues au f et au g est exercée, la déduction, fixée à 6 p. 100, représente les frais de gestion et l'assurance à l'exclusion de celle visée au a bis. La déduction forfaitaire au taux de 14 % est de nouveau applicable à l'expiration de l'application du régime visé au g.
 
 Le taux de cette déduction est porté à 35 p. 100 pour les revenus des dix premières années de location des logements ouvrant droit à la réduction visée au II de l'article 199 nonies à la condition que ces logements soient loués à titre de résidence principale pendant les six années qui suivent celle de leur achèvement ou de leur acquisition si elle est postérieure. En cas de non-respect de l'engagement ou de cession du logement, le supplément de déduction pratiqué à ce titre fait l'objet d'une reprise au titre de l'année de la rupture de l'engagement ou de la cession.
 
-Ce taux est accordé dans les mêmes conditions pour les revenus fonciers perçus par les contribuables qui, pour la gestion de leur patrimoine personnel, souscrivent entre le 1er juin 1986 et le 31 décembre 1989 à la constitution des sociétés civiles régies par la loi n° 70-1300 du 31 décembre 1970 modifiée fixant le régime applicable aux sociétés civiles de placement immobilier autorisées à faire publiquement appel à l'épargne ou aux augmentations de capital de telles sociétés constituées durant la même période, lorsque le produit de cette souscription est exclusivement destiné à financer la construction ou l'acquisition d'immeubles locatifs neufs situés en France et affectés pour les trois quarts au moins de leur superficie à usage d'habitation principale du locataire.
+Ce taux est accordé dans les mêmes conditions pour les revenus fonciers perçus par les contribuables qui, pour la gestion de leur patrimoine personnel, souscrivent entre le 1er juin 1986 et le 31 décembre 1989 à la constitution des sociétés civiles régies par la section 3 du chapitre IV du titre Ier du livre II du code monétaire et financier ou aux augmentations de capital de telles sociétés constituées durant la même période, lorsque le produit de cette souscription est exclusivement destiné à financer la construction ou l'acquisition d'immeubles locatifs neufs situés en France et affectés pour les trois quarts au moins de leur superficie à usage d'habitation principale du locataire.
 
-Le taux de 35 p. 100 mentionné au deuxième alinéa est ramené à 25 p. 100 pour les investissements qui ouvrent droit à la réduction d'impôt dans les conditions mentionnées au I de l'article 199 decies A.
+Le taux de 35 p. 100 mentionné au deuxième alinéa, est ramené à 25 p. 100 pour les investissements qui ouvrent droit à la réduction d'impôt dans les conditions mentionnées au I de l'article 199 decies A.
 
 Le taux de déduction mentionné au premier alinéa est fixé à 25 % pour les revenus des six premières années de location des logements qui ne peuvent donner lieu à l'un ou l'autre des régimes prévus au f et au g et qui, répondant aux normes d'habitabilité telles que définies par décret, sont loués par une personne physique ou une société non soumise à l'impôt sur les sociétés en vertu d'un bail conclu à compter du 1er janvier 1999. Le contribuable ou la société propriétaire doit s'engager à louer le logement nu pendant une durée de six ans au moins à des personnes qui en font leur habitation principale. Cet engagement prévoit, en outre, que le loyer et les ressources du locataire appréciées à la date de conclusion du bail ne doivent pas excéder des plafonds fixés par décret et que la location ne peut être conclue avec un membre du foyer fiscal, un ascendant ou un descendant du contribuable, une personne occupant déjà le logement ou, si celui-ci est la propriété d'une société non soumise à l'impôt sur les sociétés, l'un de ses associés ou un membre du foyer fiscal, un ascendant ou un descendant d'un associé. Les associés des sociétés précitées s'engagent à conserver leurs parts pendant au moins six ans. Un contribuable ne peut, pour un même logement ou une même souscription de titres, pratiquer la réduction d'impôt mentionnée à l'article 199 undecies A et bénéficier de la déduction forfaitaire au taux de 25 % prévue au présent alinéa. Lorsque la location est suspendue à l'issue d'une période d'au moins trois ans au profit d'un ascendant ou d'un descendant du contribuable, la déduction forfaitaire s'applique au taux de 14 % et la période de mise à disposition du logement au profit d'un ascendant ou d'un descendant n'est pas prise en compte pour la durée de location minimale de six ans. Cette période de mise à disposition du logement ne peut excéder neuf ans.
 
@@ -42,7 +42,7 @@ Tant que la condition de loyer prévue au cinquième alinéa demeure remplie, le
 
 Sous réserve que les conditions de loyer et de ressources du nouveau locataire prévues au cinquième alinéa soient remplies, le taux majoré demeure également applicable en cas de changement de titulaire du bail.
 
-Le taux de déduction mentionné à la première phrase du premier alinéa est fixé à 6 % pour les revenus des neuf premières années de location des logements ouvrant droit à la réduction d'impôt prévue à l'article 199 decies E.
+Le taux de déduction mentionné à la première phrase du premier alinéa est fixé à 6 % pour les revenus des neuf premières années de location des logements ouvrant droit à la réduction d'impôt prévue à l'article 199 decies E ;
 
 f. pour les logements situés en France, acquis neufs ou en l'état futur d'achèvement entre le 1er janvier 1996 et le 31 décembre 1998 et à la demande du contribuable, une déduction au titre de l'amortissement égale à 10 p. 100 du prix d'acquisition du logement pour les quatre premières années et à 2 p. 100 de ce prix pour les vingt années suivantes. La période d'amortissement a pour point de départ le premier jour du mois de l'achèvement de l'immeuble ou de son acquisition si elle est postérieure.
 
@@ -60,7 +60,7 @@ La période d'amortissement a pour point de départ le premier jour du mois d'ac
 
 Les dispositions des premier à cinquième alinéas s'appliquent dans les mêmes conditions lorsque les immeubles sont la propriété d'une société non soumise à l'impôt sur les sociétés à la condition que les porteurs de parts s'engagent à conserver les titres jusqu'à l'expiration de la durée de neuf ans mentionnée au troisième alinéa et au 1 du quatrième alinéa.
 
-Le revenu net foncier de l'année au cours de laquelle l'un des engagements définis aux six alinéas précédents n'est pas respecté est majoré du montant des amortissements déduits. Pour son imposition, la fraction du revenu net foncier correspondant à cette majoration est divisée par le nombre d'années civiles pendant lesquelles l'amortissement a été déduit ; le résultat est ajouté au revenu global net de l'année de la rupture de l'engagement et l'impôt correspondant est égal au produit de la cotisation supplémentaire ainsi obtenue par le nombre d'années utilisé pour déterminer le quotient. En cas d'invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, de licenciement ou de décès du contribuable ou de l'un des époux soumis à imposition commune, cette majoration ne s'applique pas.
+Le revenu net foncier de l'année au cours de laquelle l'un des engagements définis aux troisième à sixième alinéa n'est pas respecté est majoré du montant des amortissements déduits. Pour son imposition, la fraction du revenu net foncier correspondant à cette majoration est divisée par le nombre d'années civiles pendant lesquelles l'amortissement a été déduit ; le résultat est ajouté au revenu global net de l'année de la rupture de l'engagement et l'impôt correspondant est égal au produit de la cotisation supplémentaire ainsi obtenue par le nombre d'années utilisé pour déterminer le quotient. En cas d'invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, de licenciement ou de décès du contribuable ou de l'un des époux soumis à imposition commune, cette majoration ne s'applique pas.
 
 Pour un même logement, les dispositions du présent f sont exclusives de l'application des dispositions des articles 199 nonies à 199 undecies A.
 
@@ -72,7 +72,7 @@ Les dispositions du présent f s'appliquent, sous les mêmes conditions, aux log
 
 Pour l'application des dispositions du neuvième alinéa, les contribuables doivent joindre à la déclaration des revenus mentionnée au troisième alinéa une copie de la notification de l'arrêté délivrant le permis de construire et de la déclaration d'achèvement des travaux accompagnée des pièces attestant de sa réception en mairie.
 
-Un décret en Conseil d'Etat détermine les modalités d'application du présent f, notamment les obligations déclaratives incombant aux contribuables et aux sociétés qui y sont mentionnés, ainsi que les modalités de décompte des déductions pratiquées au titre des amortissements considérés (2) ;
+Un décret en Conseil d'Etat détermine les modalités d'application du présent f, notamment les obligations déclaratives incombant aux contribuables et aux sociétés qui y sont mentionnés, ainsi que les modalités de décompte des déductions pratiquées au titre des amortissements considérés  ;
 
 g) Pour les logements situés en France, acquis neufs ou en l'état futur d'achèvement à compter du 1er janvier 1999, et à la demande du contribuable, une déduction au titre de l'amortissement égale à 8 % du prix d'acquisition du logement pour les cinq premières années et à 2,5 % de ce prix pour les quatre années suivantes. La période d'amortissement a pour point de départ le premier jour du mois de l'achèvement de l'immeuble ou de son acquisition si elle est postérieure.
 
@@ -98,26 +98,20 @@ Le revenu net foncier de l'année au cours de laquelle l'un des engagements déf
 
 Lorsque le bénéficiaire de l'une des allocations de logement prévues aux articles L. 542-1 et L. 831-1 du code de la sécurité sociale est locataire d'un logement ouvrant droit aux dispositions du huitième alinéa, cette allocation est versée au bailleur.
 
-Pour un même logement, les dispositions du présent g sont exclusives de l'application des dispositions des articles 199 undecies (3) ou 199 undecies A.
+Pour un même logement, les dispositions du présent g sont exclusives de l'application des dispositions des articles 199 undecies ou 199 undecies A.
 
 2° Pour les propriétés rurales :
 
-a) Les dépenses énumérées ;
+a) Les dépenses énumérées aux a à d du 1° ;
 
 b) Les primes d'assurances ;
 
 c) Les dépenses d'amélioration non rentables afférentes aux éléments autres que les locaux d'habitation et effectivement supportées par le propriétaire. Les dépenses engagées pour la construction d'un nouveau bâtiment d'exploitation rurale, destiné à remplacer un bâtiment de même nature, vétuste ou inadapté aux techniques modernes de l'agriculture, sont considérées comme des dépenses d'amélioration non rentables à condition que la construction nouvelle n'entraîne pas une augmentation du fermage ;
 
-c bis) Dans les conditions fixées par décret, les dépenses d'amélioration et de construction, qui s'incorporent aux bâtiments d'exploitation rurale, destinées à satisfaire aux obligations prévues par les textes d'application de la loi n° 76-663 du 19 juillet 1976 modifiée relative aux installations classées pour la protection de l'environnement ;
+c bis) Dans les conditions fixées par décret, les dépenses d'amélioration et de construction, qui s'incorporent aux bâtiments d'exploitation rurale, destinées à satisfaire aux obligations prévues au titre Ier du livre V du code de l'environnement, relatif aux installations classées pour la protection de l'environnement ;
 
-d) Une déduction forfaitaire fixée à 14 % des revenus bruts et représentant les frais de gestion et l'amortissement. En ce qui concerne les constructions nouvelles, reconstructions et additions de construction qui bénéficient de l'exonération de quinze ans de taxe foncière sur les propriétés bâties prévue à l'article 1385 II bis, le taux de la déduction forfaitaire est porté à 15 % pendant la durée de cette exonération; le taux de 15 % s'applique également aux revenus provenant des biens ruraux placés sous le régime des baux à long terme mentionnés au 2° de l'article 743 (5) ;
+d) Une déduction forfaitaire fixée à 14 % des revenus bruts et représentant les frais de gestion et l'amortissement. En ce qui concerne les constructions nouvelles, reconstructions et additions de construction qui bénéficient de l'exonération de quinze ans de taxe foncière sur les propriétés bâties prévue à l'article 1385 II bis, le taux de la déduction forfaitaire est porté à 15 % pendant la durée de cette exonération ; le taux de 15 % s'applique également aux revenus provenant des biens ruraux placés sous le régime des baux à long terme mentionnés au 2° de l'article 743 ;
 
 e) (Devenu sans objet).
 
 II. (Transféré sous l'article 156 II 1° ter).
-
-(1) Voir Annexe III, art. 41 DP à 41 DR.
-
-(2) Voir Annexe II, art. 1 à 1 D.
-
-(3) Voir Annexe III, art. 2 duodecies à 2 vicies.

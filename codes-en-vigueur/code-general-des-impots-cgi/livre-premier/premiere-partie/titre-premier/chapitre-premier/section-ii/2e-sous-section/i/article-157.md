@@ -6,7 +6,7 @@ N'entrent pas en compte pour la détermination du revenu net global :
 
 2° bis (Périmé) ;
 
-3° Les lots et les primes de remboursement attachés aux bons et obligations émis en France avec l'autorisation du ministre de l'économie et des finances à l'exception des primes de remboursement attachées aux titres émis à compter du 1er juin 1985 lorsqu'elles sont supérieures à 5 % du nominal et de celles distribuées ou réparties à compter du 1er janvier 1989 par un organisme de placement collectif en valeurs mobilières visé par la loi n° 88-1201 du 23 décembre 1988 modifiée lorsque ces primes représentent plus de 10 p. 100 du montant de la distribution ou de la répartition.
+3° Les lots et les primes de remboursement attachés aux bons et obligations émis en France avec l'autorisation du ministre de l'économie et des finances, à l'exception des primes de remboursement attachées aux titres émis à compter du 1er juin 1985 lorsqu'elles sont supérieures à 5 % du nominal et de celles distribuées ou réparties à compter du 1er janvier 1989 par un organisme de placement collectif en valeurs mobilières visé par les articles L. 214-2 et suivants du code monétaire et financier lorsque ces primes représentent plus de 10 p. 100 du montant de la distribution ou de la répartition.
 
 Ces dispositions ne sont pas applicables aux primes de remboursement définies au II de l'article 238 septies A.
 
@@ -32,9 +32,9 @@ b. Leur montant sur la durée de vie de l'emprunt n'excède pas 5 p. 100 du prix
 
 7° bis (Disposition périmée) ;
 
-7° ter La rémunération des sommes déposées sur les livrets d'épargne populaire ouverts dans les conditions prévues par la loi n° 82-357 du 27 avril 1982 ;
+7° ter La rémunération des sommes déposées sur les livrets d'épargne populaire ouverts dans les conditions prévues par les articles L. 221-13 à L. 221-17 du code monétaire et financier ;
 
-7° quater Les intérêts des sommes déposées sur les livrets jeunes ouverts et fonctionnant dans les conditions prévues à l'article 28 de la loi n° 96-314 du 12 avril 1996 portant diverses dispositions d'ordre économique et financier ;
+7° quater Les intérêts des sommes déposées sur les livrets jeunes ouverts et fonctionnant dans les conditions prévues aux articles L. 221-24 à L. 221-26 du code monétaire et financier ;
 
 8° (disposition devenue sans objet)
 
@@ -50,7 +50,7 @@ b. Leur montant sur la durée de vie de l'emprunt n'excède pas 5 p. 100 du prix
 
 a) aux travailleurs, salariés de l'artisanat, des ateliers industriels, des chantiers et de l'agriculture ;
 
-b) aux aides familiaux ou aux associés d'exploitation désignés au 2° du I de l'article 1106-1 du code rural et aux articles L. 321-6 et suivants du même code ;
+b) aux aides familiaux ou aux associés d'exploitation désignés au 2° de l'article L. 722-10 du code rural et aux articles L. 321-6 et suivants du même code ;
 
 c) aux aides familiaux et associés d'exploitation de l'artisanat ;
 
@@ -60,9 +60,9 @@ Il en est de même de la prime versée au travailleur manuel qui procède effect
 
 Il ne peut être ouvert qu'un compte par contribuable ou un pour chacun des époux soumis à une imposition commune.
 
-Les sommes déposées sur le compte prévu au premier alinéa ne peuvent excéder un plafond fixé par décret dans la limite de 30.000 F par compte.
+Les sommes déposées sur le compte prévu au premier alinéa ne peuvent excéder un plafond fixé par décret dans la limite de 30 000 F par compte.
 
-9° quinquies Les intérêts des sommes inscrites sur les livrets d'épargne-entreprise ouverts dans les conditions fixées par l'article 1er de la loi n° 84-578 du 9 juillet 1984 modifiée sur le développement de l'initiative économique.
+9° quinquies Les intérêts des sommes inscrites sur les livrets d'épargne-entreprise ouverts dans les conditions fixées par l'article 1er de la loi n° 84-578 du 9 juillet 1984 modifiée, sur le développement de l'initiative économique.
 
 10° à 13° (Dispositions périmées) ;
 
@@ -84,15 +84,13 @@ Les sommes déposées sur le compte prévu au premier alinéa ne peuvent excéde
 
 22° Le versement de la prime d'épargne et de ses intérêts capitalisés ainsi que le versement au-delà de la huitième année qui suit l'ouverture du plan d'épargne populaire des produits capitalisés et de la rente viagère.
 
-Il en est de même lorsque le retrait des fonds intervient avant la fin de la huitième année à la suite du décès du titulaire du plan ou dans les deux ans du décès du conjoint soumis à imposition commune ou de l'un des événements suivants survenu à l'un d'entre eux :
+Il en est de même lorsque le retrait des fonds intervient avant la fin de la huitième année, à la suite du décès du titulaire du plan ou dans les deux ans du décès du conjoint soumis à imposition commune ou de l'un des événements suivants survenu à l'un d'entre eux :
 
 a) expiration des droits aux allocations d'assurance chômage prévues par le code du travail en cas de licenciement ;
 
-b) cessation d'activité non salariée à la suite d'un jugement de liquidation judiciaire en application des dispositions de la loi n° 85-98 du 25 janvier 1985 modifiée relative au redressement et à la liquidation judiciaires des entreprises ;
+b) cessation d'activité non salariée à la suite d'un jugement de liquidation judiciaire en application des dispositions du titre II du livre VI du code de commerce ;
 
 c) invalidité correspondant au classement dans les deuxième ou troisième catégories prévues à l'article L. 341-4 du code de la sécurité sociale.
-
-(Périmé).
 
 Il en est de même des produits provenant du retrait de fonds ainsi que, le cas échéant, de la prime d'épargne et de ses intérêts capitalisés lorsque le retrait intervient à compter du 1er janvier 1996 et est effectué :
 

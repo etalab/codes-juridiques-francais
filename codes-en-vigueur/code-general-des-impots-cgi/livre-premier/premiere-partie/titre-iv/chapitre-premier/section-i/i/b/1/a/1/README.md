@@ -4,4 +4,5 @@
 - [Article 652](article-652.md)
 - [Article 653](article-653.md)
 - [Article 654](article-654.md)
+- [Article 654 bis](article-654-bis.md)
 - [Article 655](article-655.md)

@@ -1,6 +1,6 @@
 # Article 204-0 bis
 
-I. ((L'indemnité de fonction perçue par l'élu local, définie dans le code général des collectivités territoriales et au titre III modifié de la loi n° 92-108 du 3 février 1992 relative aux conditions d'exercice des mandats locaux)) (M) est soumise à une retenue à la source libératoire de l'impôt sur le revenu.
+I. L'indemnité de fonction perçue par l'élu local, définie dans le code général des collectivités territoriales et au titre III modifié de la loi n° 92-108 du 3 février 1992 relative aux conditions d'exercice des mandats locaux est soumise à une retenue à la source libératoire de l'impôt sur le revenu.
 
 La base de cette retenue est constituée par le montant net de l'indemnité, minorée de la fraction représentative de frais d'emploi.
 
@@ -8,7 +8,7 @@ La retenue est calculée par application du barème prévu à l'article 197 dét
 
 Les limites des tranches de ce barème annuel sont réduites proportionnellement à la période à laquelle se rapporte le paiement de l'indemnité de fonctions et à la durée d'exercice du mandat pendant cette période.
 
-La fraction représentative des frais d'emploi est fixée forfaitairement. Cette fraction est égale à 100 p. 100 des indemnités versées pour les maires dans les communes de moins de 1 000 habitants. En cas de cumul de mandats, les fractions sont cumulables dans la limite d'une fois et demie la fraction représentative des frais d'emploi pour un maire d'une commune de moins de 1 000 habitants.
+La fraction représentative des frais d'emploi est fixée forfaitairement. Cette fraction est égale à 100 p. 100 des indemnités versées pour les maires dans les communes de moins de 500 habitants. En cas de cumul de mandats, les fractions sont cumulables dans la limite d'une fois et demie la fraction représentative des frais d'emploi pour un maire d'une commune de moins de 500 habitants.
 
 La fraction représentative des frais d'emploi est revalorisée dans les mêmes proportions que l'indemnité de fonction.
 
@@ -23,5 +23,3 @@ Cette disposition s'applique aux indemnités de fonction perçues à compter du 
 2° L'option peut être exercée avant le 1er janvier de l'année au titre de laquelle l'impôt sur le revenu est établi. Elle s'applique tant qu'elle n'a pas été expressément dénoncée dans les mêmes conditions. Les modalités d'application, et notamment les obligations déclaratives, sont fixées par décret.
 
 Cette disposition s'applique aux indemnités de fonction perçues à compter du 1er janvier 1994.
-
-(M) Modification de la loi.
