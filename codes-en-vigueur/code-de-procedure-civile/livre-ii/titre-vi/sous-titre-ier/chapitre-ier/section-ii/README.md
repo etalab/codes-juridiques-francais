@@ -14,4 +14,5 @@
 - [Article 945](article-945.md)
 - [Article 945-1](article-945-1.md)
 - [Article 946](article-946.md)
+- [Article 947](article-947.md)
 - [Article 949](article-949.md)

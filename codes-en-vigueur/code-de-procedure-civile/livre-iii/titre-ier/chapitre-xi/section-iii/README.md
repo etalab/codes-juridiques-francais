@@ -1,6 +1,7 @@
 # Section III : La tutelle.
 
 - [Article 1243](article-1243.md)
+- [Article 1244](article-1244.md)
 - [Article 1245](article-1245.md)
 - [Article 1246](article-1246.md)
 - [Article 1247](article-1247.md)
@@ -14,4 +15,6 @@
 - [Article 1255](article-1255.md)
 - [Article 1257](article-1257.md)
 - [Article 1258](article-1258.md)
+- [Article 1259](article-1259.md)
+- [Article 1260](article-1260.md)
 - [Article 1261](article-1261.md)

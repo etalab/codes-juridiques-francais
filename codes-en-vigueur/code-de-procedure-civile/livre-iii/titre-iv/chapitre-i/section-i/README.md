@@ -13,6 +13,7 @@
 - [Article 1415](article-1415.md)
 - [Article 1416](article-1416.md)
 - [Article 1417](article-1417.md)
+- [Article 1418](article-1418.md)
 - [Article 1419](article-1419.md)
 - [Article 1420](article-1420.md)
 - [Article 1421](article-1421.md)
