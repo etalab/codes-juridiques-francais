@@ -4,6 +4,8 @@
 - [Article D526](article-d526.md)
 - [Article D527](article-d527.md)
 - [Article D530](article-d530.md)
+- [Article D532](article-d532.md)
+- [Article D533](article-d533.md)
 - [Article D534](article-d534.md)
 - [Article D536](article-d536.md)
 - [Article D537](article-d537.md)
