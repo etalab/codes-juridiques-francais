@@ -4,4 +4,5 @@
 - [Titre II : De la détention](titre-ii)
 - [Titre III : De la libération conditionnelle](titre-iii)
 - [Titre VI : De la contrainte par corps](titre-vi)
+- [Titre VII : De l'interdiction de séjour](titre-vii)
 - [Titre XI : Le comité de probation et d'assistance aux libérés](titre-xi)
