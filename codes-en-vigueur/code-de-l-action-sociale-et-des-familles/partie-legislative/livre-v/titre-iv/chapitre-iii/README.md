@@ -1,4 +1,4 @@
-# Chapitre III : Pupilles de l'Etat et procédures administratives en vue de l'adoption.
+# Chapitre III : Familles et aide sociale à l'enfance.
 
 - [Article L543-1](article-l543-1.md)
 - [Article L543-2](article-l543-2.md)
