@@ -3,6 +3,7 @@
 - [Article L218-10](article-l218-10.md)
 - [Article L218-11](article-l218-11.md)
 - [Article L218-12](article-l218-12.md)
+- [Article L218-13](article-l218-13.md)
 - [Article L218-14](article-l218-14.md)
 - [Article L218-15](article-l218-15.md)
 - [Article L218-16](article-l218-16.md)
