@@ -8,6 +8,7 @@
 - [Article L627-4](article-l627-4.md)
 - [Article L627-5](article-l627-5.md)
 - [Article L627-6](article-l627-6.md)
+- [Article L627-7](article-l627-7.md)
 - [Article L628-1](article-l628-1.md)
 - [Article L628-2](article-l628-2.md)
 - [Article L628-3](article-l628-3.md)
