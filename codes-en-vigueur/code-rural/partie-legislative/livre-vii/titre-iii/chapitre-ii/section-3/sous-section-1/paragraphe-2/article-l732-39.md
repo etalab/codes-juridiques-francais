@@ -1,8 +1,8 @@
 # Article L732-39
 
-Le service d'une pension de retraite ou allocation prenant effet postérieurement au 1er janvier 1986, liquidée par le régime d'assurance vieillesse des personnes non salariées des professions agricoles et dont l'entrée en jouissance intervient à compter du soixantième anniversaire de l'intéressé ou ultérieurement, est subordonné à la cessation définitive de l'activité non salariée et, pour les assurés exerçant une activité salariée, à la rupture définitive de tout lien professionnel avec l'employeur.
+Le service d'une pension de retraite, prenant effet postérieurement au 1er janvier 1986, liquidée par le régime d'assurance vieillesse des personnes non salariées des professions agricoles et dont l'entrée en jouissance intervient à compter du soixantième anniversaire de l'intéressé ou ultérieurement, est subordonné à la cessation définitive de l'activité non salariée agricole.
 
-Le service d'une pension de retraite ou allocation liquidée par le régime d'assurance vieillesse des personnes non salariées des professions agricoles est suspendu dès lors que l'assuré reprend une activité non salariée agricole.
+Le service d'une pension de retraite liquidée par le régime d'assurance vieillesse des personnes non salariées des professions agricoles est suspendu dès lors que l'assuré reprend une activité non salariée agricole.
 
 Il est également suspendu lorsque l'assuré reprend, en qualité de salarié agricole, une activité sur l'exploitation mise en valeur ou dans l'entreprise exploitée à la date de la cessation d'activité non salariée.
 
@@ -14,4 +14,4 @@ Sous réserve des dispositions de l'article L. 815-2 du code de la sécurité so
 
 A titre transitoire, et jusqu'à l'intervention du schéma directeur départemental des structures agricoles déterminant la superficie mentionnée à l'alinéa précédent, cette superficie est fixée par voie réglementaire.
 
-Les dispositions des trois premiers alinéas du présent article ne sont pas opposables à l'assuré qui demande le bénéfice d'une pension au titre de l'article L. 732-29 du présent code et des articles L. 351-15, L. 634-3-1 et L. 643-8-1 du code de la sécurité sociale.
+Les dispositions des trois premiers alinéas du présent article ne sont pas opposables à l'assuré qui demande le bénéfice d'une pension au titre de l'article L. 732-29 du présent code et des articles L. 351-15 et L. 634-3-1 du code de la sécurité sociale.
