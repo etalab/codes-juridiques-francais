@@ -4,7 +4,7 @@ Sont exonérés de la taxe :
 
 1° Les véhicules ayant plus de vingt-cinq ans d'âge ;
 
-2° Les véhicules mentionnés à l'article R 105 du code de la route, qui sont destinés normalement au transport en commun de personnes ;
+2° Les véhicules mentionnés à l'article R. 317-24 du code de la route, qui sont destinés normalement au transport en commun de personnes ;
 
 3° Les véhicules affectés au transport des personnes, bénéficiaires d'une autorisation spéciale de stationnement à des emplacements réservés sur la voie publique et dont les conditions de transport sont conformes à un tarif réglementaire, ainsi que les taxis collectifs visés au c du 2° de l'article 3 du décret n° 49-1473 du 14 novembre 1949 modifié ;
 
