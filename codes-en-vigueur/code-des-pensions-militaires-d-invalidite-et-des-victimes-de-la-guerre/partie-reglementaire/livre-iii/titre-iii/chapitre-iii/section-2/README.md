@@ -7,5 +7,3 @@
 - [Article A184](article-a184.md)
 - [Article A185](article-a185.md)
 - [Article A186-1](article-a186-1.md)
-- [Article D275](article-d275.md)
-- [Article D276](article-d276.md)

@@ -5,4 +5,3 @@
 - [Article A327](article-a327.md)
 - [Article A328](article-a328.md)
 - [Article A329](article-a329.md)
-- [Article D568](article-d568.md)

@@ -1,6 +1,5 @@
 # Chapitre II : Voies de recours.
 
-- [Section 3 : Dispositions diverses.](section-3)
 - [Article A4](article-a4.md)
 - [Article A5](article-a5.md)
 - [Article A6](article-a6.md)

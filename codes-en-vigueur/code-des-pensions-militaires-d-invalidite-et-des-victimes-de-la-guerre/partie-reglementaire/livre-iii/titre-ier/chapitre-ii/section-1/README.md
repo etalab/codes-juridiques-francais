@@ -10,5 +10,3 @@
 - [Article A151](article-a151.md)
 - [Article A152](article-a152.md)
 - [Article A153](article-a153.md)
-- [Article D264](article-d264.md)
-- [Article D265](article-d265.md)
