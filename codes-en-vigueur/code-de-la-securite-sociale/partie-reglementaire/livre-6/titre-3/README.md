@@ -4,4 +4,3 @@
 - [Chapitre 3 : Dispositions communes en matière d'organisation administrative et financière](chapitre-3)
 - [Chapitre 4 : Prestations](chapitre-4)
 - [Chapitre 5 : Régimes complémentaires d'assurance vieillesse](chapitre-5)
-- [Chapitre 6 : Action sociale des caisses](chapitre-6)

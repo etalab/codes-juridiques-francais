@@ -1,7 +1,5 @@
 # Sous-section 3 : Assurance maternité.
 
-- [Article D615-4](article-d615-4.md)
-- [Article D615-4-1](article-d615-4-1.md)
 - [Article D615-4-2](article-d615-4-2.md)
 - [Article D615-4-3](article-d615-4-3.md)
 - [Article D615-4-4](article-d615-4-4.md)
