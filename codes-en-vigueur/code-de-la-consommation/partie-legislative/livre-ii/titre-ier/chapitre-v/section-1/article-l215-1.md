@@ -8,7 +8,7 @@ Sont qualifiés pour procéder dans l'exercice de leurs fonctions à la recherch
 
 3° Les vétérinaires inspecteurs, les préposés sanitaires, les agents techniques sanitaires ;
 
-4° Les médecins inspecteurs départementaux de la santé ;
+4° Les médecins inspecteurs de santé publique et les pharmaciens inspecteurs de santé publique ;
 
 5° Les agents de l'Institut français de recherche pour l'exploitation de la mer ;
 

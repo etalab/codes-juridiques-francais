@@ -12,7 +12,7 @@ Sont réservées aux pharmaciens, sauf les dérogations prévues aux articles L.
 
 5° La vente des plantes médicinales inscrites à la pharmacopée sous réserve des dérogations établies par décret ;
 
-6° La vente au détail et toute dispensation au public des huiles essentielles dont la liste est fixée par décret ainsi que de leurs dilutions et préparations ne constituant ni des produits cosmétiques ou d'hygiène corporelle, ni des produits à usage ménager, ni des denrées ou boissons alimentaires ;
+6° La vente au détail et toute dispensation au public des huiles essentielles dont la liste est fixée par décret ainsi que de leurs dilutions et préparations ne constituant ni des produits cosmétiques ni des produits à usage ménager, ni des denrées ou boissons alimentaires ;
 
 7° La vente au détail et toute dispensation au public des aliments lactés diététiques pour nourrissons et des aliments de régime destinés aux enfants du premier âge (moins de quatre mois), dont les caractéristiques sont fixées par arrêté conjoint du ministre chargé de la santé et du ministre chargé de la consommation.
 

@@ -6,5 +6,5 @@
 - [Chapitre 5 : Abortifs](chapitre-5)
 - [Chapitre 6 : Thermomètres médicaux.](chapitre-6)
 - [Chapitre 7 : Biberons à tube et tétines](chapitre-7)
-- [Chapitre 8 : Produits cosmétiques et produits d'hygiène corporelle](chapitre-8)
+- [Chapitre 8 : Produits cosmétiques](chapitre-8)
 - [Chapitre 9 : Autres substances et objets](chapitre-9)

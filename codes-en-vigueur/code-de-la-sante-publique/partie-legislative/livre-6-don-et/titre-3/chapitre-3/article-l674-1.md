@@ -9,3 +9,5 @@ Le retrait ne peut intervenir qu'après un délai d'un mois suivant une mise en 
 La décision de retrait est publiée au Journal officiel de la République française.
 
 En cas de retrait de l'autorisation prévue à l'article L. 673-5, la décision est prise après avis motivé de la Commission nationale de médecine et de biologie de la reproduction et du diagnostic prénatal.
+
+Le retrait temporaire ou définitif des autorisations mentionnées aux articles L. 671-12, L. 672-7 et L. 672-13 est de droit lorsqu'il est demandé par l'Agence française de sécurité sanitaire des produits de santé.

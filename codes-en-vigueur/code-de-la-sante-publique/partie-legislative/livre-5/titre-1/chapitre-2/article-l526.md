@@ -6,4 +6,4 @@ Il délibère sur les affaires soumises à son examen par son président, par le
 
 Il règle tous les rapports dans le cadre professionnel entre les pharmaciens agréés comme maîtres de stage et les étudiants stagiaires.
 
-Le conseil régional peut demander à l'inspecteur divisionnaire de la santé de faire effectuer des enquêtes par les inspecteurs de la pharmacie. Il est saisi du résultat de ces enquêtes.
+Le conseil régional peut demander à l'inspecteur divisionnaire de la santé de faire effectuer des enquêtes par les pharmaciens inspecteurs de santé publique. Il est saisi du résultat de ces enquêtes.
