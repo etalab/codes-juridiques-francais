@@ -6,4 +6,6 @@ Il assure, en liaison avec l'office du développement agricole et rural, les act
 
 Le représentant de l'Etat dans la collectivité territoriale de Corse assiste de plein droit aux réunions du conseil d'administration et est destinataire de ses délibérations.
 
-La gestion de l'office est assurée par un directeur nommé sur proposition du président de l'office par arrêté délibéré en conseil exécutif.
+La gestion de l'office est assurée par un directeur nommé sur proposition du président de l'office par arrêté délibéré en conseil exécutif. Le conseil d'administration de l'office est composé à titre majoritaire de représentants élus de l'Assemblée de Corse.
+
+L'office d'équipement hydraulique de Corse cesse d'exister lorsque la collectivité territoriale de Corse reprend l'exercice de ses missions.
