@@ -1,6 +1,5 @@
 # Section 1 : Des effets de la filiation naturelle et de ses modes d'établissement en général.
 
-- [Article 334](article-334.md)
 - [Article 334-1](article-334-1.md)
 - [Article 334-2](article-334-2.md)
 - [Article 334-3](article-334-3.md)
