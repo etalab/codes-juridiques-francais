@@ -4,4 +4,3 @@
 - [Biens communaux](biens-communaux)
 - [Dons et legs](dons-et)
 - [Marchés.](marches)
-- [Travaux communaux](travaux-communaux)
