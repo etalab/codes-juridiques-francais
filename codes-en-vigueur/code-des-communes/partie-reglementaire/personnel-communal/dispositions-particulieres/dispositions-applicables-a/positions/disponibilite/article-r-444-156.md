@@ -1,5 +1,5 @@
 # Article R*444-156
 
-Le fonctionnaire mis en disponibilité sur sa demande n'a droit à aucun traitement.
+Le fonctionnaire mis en disponibilité n'a droit à aucune rémunération.
 
-Toutefois, le fonctionnaire placé en disponibilité en application du 5° de l'article R. 444-154 [*pour élever un enfant de moins de huit ans ou atteint d'une infirmité exigeant des soins continus*] perçoit la totalité des prestations familiales obligatoires.
+Toutefois, le fonctionnaire mis en disponibilité en application du 5° de l'article R. 444-154 peut percevoir une indemnité dans des conditions fixées par décret.

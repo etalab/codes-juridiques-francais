@@ -1,3 +1,5 @@
 # Article R*444-160
 
-Lorsque, à l'expiration d'une disponibilité sur demande, le fonctionnaire n'est pas reconnu physiquement apte à reprendre ses fonctions par le médecin de l'administration, il est maintenu dans la position de disponibilité sans traitement pour une durée ne pouvant excéder celle prévue à l'article R. 444-153 [*relatif à la durée de la disponibilité prononcée d'office pour raison de santé*].
+Le fonctionnaire qui a formulé avant l'expiration de la période de mise en disponibilité une demande de réintégration est maintenu en disponibilité jusqu'à ce qu'un poste lui soit assigné.
+
+Toutefois au cas où il ne peut être réintégré pour cause d'inaptitude physique, il est soit mis en disponibilité d'office dans les conditions prévues à l'article R. 444-151, soit radié des cadres, s'il est reconnu définitivement inapte.
