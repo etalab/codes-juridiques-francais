@@ -4,7 +4,7 @@ Le taux du prélèvement pour frais d'assiette et de perception à opérer sur l
 
 Les provisions à constituer annuellement par le fonds de revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur, en garantie des majorations qu'il rembourse aux entreprises d'assurance, sont calculées sur les bases ci-après :
 
-Table de mortalité P.F. 1960-1964 MKH annexée à l'article A. 335-1 ;
+Table de mortalité P.F. 1960-1964 MKH annexée au présent article ;
 
 Taux d'intérêt de 4,50 %.
 
