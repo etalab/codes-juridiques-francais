@@ -4,6 +4,7 @@
 - [Article 265 ter](article-265-ter.md)
 - [Article 265 A](article-265-a.md)
 - [Article 265 B](article-265-b.md)
+- [Article 266](article-266.md)
 - [Article 266 bis](article-266-bis.md)
 - [Article 266 ter](article-266-ter.md)
 - [Article 267](article-267.md)

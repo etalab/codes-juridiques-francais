@@ -1,6 +1,6 @@
 # Article 347
 
-1. La commission départementale prévue à l'article 1651 du code général des impôts est valablement constituée lorsque les organismes chargés de désigner les représentants des contribuables ont disposé d'un délai d'un mois pour procéder à cette désignation à partir de la demande qui leur a été adressée par le président de la commission ou en ce qui concerne les personnes visées à l'article 1653 A-I-3o et 4o du même code  par le directeur des services fiscaux.
+1. La commission départementale prévue à l'article 1651 du code général des impôts est valablement constituée lorsque les organismes chargés de désigner les représentants des contribuables ont disposé d'un délai d'un mois pour procéder à cette désignation à partir de la demande qui leur a été adressée par le président de la commission ou en ce qui concerne les personnes visées à l'article 1653 A-I-4° et 5° du même code  par le directeur des services fiscaux.
 
 La commission se réunit sur la convocation de son président.
 
