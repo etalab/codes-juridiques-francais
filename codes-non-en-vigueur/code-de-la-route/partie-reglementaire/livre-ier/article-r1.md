@@ -8,9 +8,9 @@ Le terme chaussée désigne la ou les parties de la route normalement utilisées
 
 Le terme voie désigne l'une quelconque des subdivisions de la chaussée ayant une largeur suffisante pour permettre la circulation d'une file de véhicules ;
 
-Le terme piste cyclable désigne une chaussée exclusivement réservée aux cycles et cyclomoteurs ;
+Le terme piste cyclable désigne une chaussée exclusivement réservée aux cycles à deux ou trois roues ;
 
-Le terme bande cyclable désigne, sur une chaussée à plusieurs voies, la voie exclusivement réservée aux cycles et cyclomoteurs ;
+Le terme bande cyclable désigne, sur une chaussée à plusieurs voies, la voie exclusivement réservée aux cycles à deux ou trois roues ;
 
 Le terme bretelle de raccordement autoroutière désigne les routes reliant les autoroutes au reste du réseau routier ;
 
