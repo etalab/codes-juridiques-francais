@@ -19,3 +19,5 @@
 8° De représenter la commune soit en demandant, soit en défendant ;
 
 9° De prendre, à défaut des propriétaires ou des détenteurs du droit de chasse, à ce dûment invités, toutes les mesures nécessaires à la destruction des animaux nuisibles, de requérir, dans les conditions fixées à l'article L. 227-5 du code rural, les habitants avec armes et chiens propres à la chasse de ces animaux, à l'effet de détruire ces derniers, de surveiller et d'assurer l'exécution des mesures ci-dessus et d'en dresser procès-verbal.
+
+10° De procéder aux enquêtes de recensement.

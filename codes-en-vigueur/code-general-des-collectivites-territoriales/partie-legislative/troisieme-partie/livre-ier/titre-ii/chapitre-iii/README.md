@@ -5,4 +5,5 @@
 - [Section 3 : Indemnités des titulaires de mandats départementaux](section-3)
 - [Section 4 : Protection sociale](section-4)
 - [Section 5 : Responsabilité du département en cas d'accident](section-5)
-- [Section 6 : Responsabilité des élus.](section-6)
+- [Section 6 : Responsabilité et protection des élus](section-6)
+- [Section 7 : Honorariat des conseillers généraux](section-7)

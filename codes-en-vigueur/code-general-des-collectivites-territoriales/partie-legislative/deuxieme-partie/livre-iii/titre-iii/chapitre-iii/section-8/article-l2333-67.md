@@ -11,3 +11,5 @@ Le taux de versement est fixé ou modifié par délibération du conseil municip
 Toutefois, les communautés de communes et communautés d'agglomération ont la faculté de majorer de 0,05 % les taux maxima mentionnés aux alinéas précédents.
 
 Cette faculté est également ouverte aux communautés urbaines et aux autorités organisatrices de transports urbains auxquelles ont adhéré une communauté urbaine, une communauté d'agglomération ou une communauté de communes.
+
+En cas d'extension d'un périmètre de transports urbains résultant de la création ou de l'extension du périmètre d'un établissement public de coopération intercommunale doté d'une fiscalité propre ou d'un syndicat mixte auquel a adhéré un établissement public de coopération intercommunale doté d'une fiscalité propre, le taux du versement destiné au financement des transports en commun applicable sur le territoire des communes nouvellement incluses peut être réduit par décision de l'organe délibérant, pour une durée maximale de cinq ans à compter de cette inclusion, par rapport au taux applicable sur le territoire des autres communes.

@@ -34,4 +34,4 @@ IV. - La communauté d'agglomération peut transférer certaines de ses compéte
 
 V. - Par convention passée avec le département, une communauté d'agglomération peut exercer pour le département tout ou partie des compétences d'aide sociale que celui-ci lui confie.
 
-VI. - La communauté d'agglomération peut attribuer des fonds de concours aux communes membres afin de contribuer à la réalisation ou au fonctionnement d'équipements d'intérêt commun.
+VI. - La communauté d'agglomération peut attribuer des fonds de concours aux communes membres afin de contribuer à la réalisation ou au fonctionnement d'équipements dont l'utilité dépasse manifestement l'intérêt communal.
