@@ -6,4 +6,3 @@
 - [Article D493](article-d493.md)
 - [Article D494](article-d494.md)
 - [Article D495](article-d495.md)
-- [Article D497](article-d497.md)
