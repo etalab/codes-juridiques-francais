@@ -7,5 +7,3 @@
 - [Article 2066](article-2066.md)
 - [Article 2067](article-2067.md)
 - [Article 2068](article-2068.md)
-- [Article 2069](article-2069.md)
-- [Article 2070](article-2070.md)
