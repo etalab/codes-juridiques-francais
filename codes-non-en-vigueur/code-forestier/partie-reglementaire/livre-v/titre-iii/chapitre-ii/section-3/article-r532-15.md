@@ -1,6 +1,6 @@
 # Article R532-15
 
-Les primes à l'investissement forestier sont attribuées par le ministre de l'agriculture au vu d'un devis descriptif et estimatif des travaux projetés, agréé par l'administration.
+Les primes à l'investissement forestier sont attribuées par le ministre de l'agriculture pour les forêts domaniales et par le commissaire de la République pour les autres forêts,  au vu d'un devis descriptif et estimatif des travaux projetés, préalablement agréé.
 
 Le montant de ces primes ne peut excéder 40 p. 100 de la dépense totale afférente aux travaux agréés.
 
