@@ -1,3 +1,0 @@
-# PARTICIPATION A DES  ENTREPRISES PRIVEES .
-
-- [Article L381-9](article-l381-9.md)
