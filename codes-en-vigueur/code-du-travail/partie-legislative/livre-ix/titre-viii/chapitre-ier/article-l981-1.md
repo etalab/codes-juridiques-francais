@@ -6,7 +6,7 @@ Il doit être passé par écrit [*condition de forme*]. Il fait l'objet d'un dé
 
 L'employeur s'engage, pour la durée prévue, à fournir un emploi au jeune et à lui assurer une formation qui lui permettra d'acquérir une qualification professionnelle entrant dans le champ d'application de l'article 8 de la loi n° 71-577 du 16 juillet 1971 d'orientation sur l'enseignement technologique ou une qualification professionnelle reconnue dans les classifications d'une convention collective de branche ou figurant sur une liste établie par la commission paritaire nationale de l'emploi de la branche professionnelle.
 
-Les enseignements généraux, professionnels et technologiques dispensés pendant la durée du contrat doivent être au minimum d'une durée égale à 25 p. 100 de la durée totale du contrat.
+Les enseignements généraux, professionnels et technologiques dispensés pendant la durée du contrat doivent être au minimum d'une durée égale à 25 p. 100 de la durée totale du contrat. Toutefois, lorsqu'il existe un accord de branche ou une convention, l'un et l'autre étendus, la durée de ces enseignements est celle fixée par la convention ou l'accord.
 
 Les dispositions de l'article L. 122-3-10, premier alinéa, du présent code, ne s'appliquent pas au contrat de qualification.
 
