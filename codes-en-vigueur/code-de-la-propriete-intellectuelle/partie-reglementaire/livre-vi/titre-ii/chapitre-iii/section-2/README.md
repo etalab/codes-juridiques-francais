@@ -1,0 +1,15 @@
+# Section 2 : Liste des espèces végétales, durée et portée du droit
+
+- [Article R623-55](article-r623-55.md)
+- [Article R623-56](article-r623-56.md)
+- [Article R623-57](article-r623-57.md)
+- [Article R623-58](article-r623-58.md)
+- [Article R623-59](article-r623-59.md)
+- [Article R623-60](article-r623-60.md)
+- [Article R623-61](article-r623-61.md)
+- [Article R623-62](article-r623-62.md)
+- [Article R623-63](article-r623-63.md)
+- [Article R623-64](article-r623-64.md)
+- [Article R623-65](article-r623-65.md)
+- [Article R623-66](article-r623-66.md)
+- [Article R623-67](article-r623-67.md)
