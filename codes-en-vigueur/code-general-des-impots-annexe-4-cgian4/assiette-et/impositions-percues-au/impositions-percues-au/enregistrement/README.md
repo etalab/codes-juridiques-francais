@@ -1,3 +1,0 @@
-# ENREGISTREMENT
-
-- [REGIONS.](regions)

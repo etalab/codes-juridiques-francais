@@ -1,3 +1,0 @@
-# DROITS DE TIMBRE
-
-- [DROITS DE DELIVRANCE DE DOCUMENTS ET PERCEPTIONS DIVERSES.](droits-de-delivrance-de-documents-et)

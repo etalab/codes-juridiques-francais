@@ -1,4 +1,0 @@
-# CONTRIBUTIONS INDIRECTES
-
-- [BOISSONS - VINS ET CIDRES.](boissons)
-- [MONOPOLES FISCAUX](monopoles-fiscaux)

@@ -1,3 +1,0 @@
-# CONTRIBUTIONS INDIRECTES
-
-- [BOISSONS](boissons)

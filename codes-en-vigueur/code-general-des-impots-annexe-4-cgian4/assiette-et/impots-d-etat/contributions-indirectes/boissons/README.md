@@ -1,3 +1,0 @@
-# BOISSONS
-
-- [ALCOOLS](alcools)
