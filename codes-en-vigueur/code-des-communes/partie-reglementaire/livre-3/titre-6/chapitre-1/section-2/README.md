@@ -1,6 +1,5 @@
 # SECTION 2 : Concessions funéraires.
 
-- [Article R*361-18](article-r-361-18.md)
 - [Article R*361-19](article-r-361-19.md)
 - [Article R*361-20](article-r-361-20.md)
 - [Article R361-21](article-r361-21.md)

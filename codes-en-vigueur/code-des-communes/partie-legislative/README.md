@@ -5,4 +5,3 @@
 - [LIVRE 3 : Administration et services communaux](livre-3)
 - [LIVRE 4 : Personnel communal](livre-4)
 - [LIVRE 5 : Dispositions finales.](livre-5)
-- [FINANCES COMMUNALES](finances-communales)
