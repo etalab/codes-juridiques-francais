@@ -7,3 +7,11 @@ L'agrément est accordé, sur demande de la mutuelle ou de l'union, pour les op�
 Les dispositions du présent article s'appliquent en cas d'extension de l'activité de l'organisme ou de modification substantielle de ses conditions d'exercice.
 
 Les opérations d'acceptation en réassurance ne sont pas soumises à l'agrément.
+
+Avant l'octroi d'un agrément à une mutuelle ou union régie par le livre II du présent code qui est :
+
+a) Soit un organisme subordonné à un organisme assureur agréé dans un autre Etat membre ou partie à l'accord sur l'Espace économique européen ;
+
+b) Soit un organisme subordonné à l'organisme de référence d'un organisme assureur agréé dans un autre Etat membre ou partie à l'accord sur l'Espace économique européen ;
+
+c) Soit un organisme contrôlé par une personne, physique ou morale, qui contrôle également un organisme assureur agréé dans un autre Etat membre ou partie à l'accord sur l'Espace économique européen, les autorités compétentes de l'autre Etat partie à l'accord sur l'Espace économique européen concerné sont consultées.
