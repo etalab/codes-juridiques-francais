@@ -6,9 +6,9 @@ Sera puni des peines d'emprisonnement et d'amende prévues pour les contraventio
 
 2° La vitesse des véhicules à moteur avec ou sans remorque ou semi-remorque :
 
-- soit lorsque cette vitesse n'a pas été réduite conformément aux dispositions du présent code;
+- soit lorsque cette vitesse n'a pas été réduite conformément aux dispositions du présent code ;
 
-- soit lorsque la vitesse constatée est supérieure de 30 km/h ou plus à la vitesse maximale autorisée.
+- soit lorsque la vitesse constatée dépasse de moins de 50 km/h la vitesse maximale autorisée.
 
 3° Les croisements et dépassements ;
 
