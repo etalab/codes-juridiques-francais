@@ -1,0 +1,3 @@
+# Article D811-34
+
+L'agrément ne peut être accordé par le comité départemental que si [*condition préalable*] la ou les personnes responsables de la formation des apprentis présentent des garanties de moralité et sont titulaires d'un diplôme de l'enseignement technologique ou justifient d'un temps d'exercice du métier d'au moins trois années [*durée minimum*] à un niveau minimal de qualification qui est déterminé par le comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi. Celui-ci peut demander à l'intéressé de suivre des stages de formation qui seront organisés à cet effet.

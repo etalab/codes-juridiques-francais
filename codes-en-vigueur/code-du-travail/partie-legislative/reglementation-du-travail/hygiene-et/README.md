@@ -8,3 +8,5 @@
 - [Article L231-3](article-l231-3.md)
 - [Article L231-4](article-l231-4.md)
 - [Article L231-5](article-l231-5.md)
+- [Article L231-8](article-l231-8.md)
+- [Article L231-9](article-l231-9.md)

@@ -1,0 +1,3 @@
+# Article D811-76
+
+Les personnels de direction et d'enseignement relevant des chambres de métiers et qui sont déjà en fonctions dans des cours professionnels ou organismes de formation existant avant le 1er octobre 1973 [*date limite*] sont maintenus en fonctions de plein droit pendant la durée des accords provisoires concernant ces cours ou organismes, ainsi qu'à partir de la transformation de ceux-ci en centres de formation d'apprentis ou en annexes de centres de formation d'apprentis, sous réserve qu'ils satisfassent aux conditions posées aux articles L. 116-5 (alinéa 1 et 2) et L. 119-3 (dernier alinéa).

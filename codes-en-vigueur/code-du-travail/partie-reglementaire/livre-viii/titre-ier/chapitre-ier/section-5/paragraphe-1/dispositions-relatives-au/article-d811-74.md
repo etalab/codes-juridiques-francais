@@ -1,0 +1,5 @@
+# Article D811-74
+
+Conformément aux dispositions du dernier alinéa de l'article L. 119-3, les personnels en fonctions à la date du 1er octobre 1973 dans les cours professionnels ou organismes de formation d'apprentis de toute nature, qui ne satisfont pas aux règles définies par les articles D. 811-24 et D. 811-25 mais qui possèdent les qualifications qui étaient exigées avant ladite date, compte tenu de la date de leur recrutement ou de leur nomination pour occuper les postes auxquels ils sont parvenus, sont autorisés de plein droit à continuer d'assurer leurs fonctions pendant la durée des accords provisoires concernant ces cours et organismes.
+
+Conformément à l'article L. 116-5 (alinéa 2) ils seront ultérieurement admis par le comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi, sur leur demande, à exercer leurs fonctions dans les centres de formation d'apprentis issus des organismes bénéficiant d'un accord de transformation. Le comité départemental pourra toutefois subordonner cette admission à la condition que l'intéressé ait accompli avec succès, dans le délai maximum de deux ans, le stage prévu audit article.
