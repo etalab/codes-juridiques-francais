@@ -10,6 +10,7 @@
 - [Titre VIII : Du jugement des infractions commises à l'audience des cours et tribunaux](titre-viii)
 - [Titre IX : Des crimes et délits commis par des magistrats et certains fonctionnaires](titre-ix)
 - [Titre X : Des infractions commises à l'étranger](titre-x)
+- [Titre XI : Des crimes et délits en matière militaire et en matière de sûreté de l'Etat](titre-xi)
 - [Titre XII : Des demandes présentées en vue d'être relevé des interdictions, déchéances, incapacités ou mesures de publication](titre-xii)
 - [Titre XIII : De la poursuite, de l'instruction et du jugement des infractions en matière économique et financière](titre-xiii)
 - [Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction](titre-xiv)
