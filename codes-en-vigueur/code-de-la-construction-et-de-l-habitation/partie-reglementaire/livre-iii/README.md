@@ -4,4 +4,4 @@
 - [Titre III : Prêts pour la construction, l'acquisition et l'amélioration d'habitations donnant lieu à l'aide personnalisée au logement.](titre-iii)
 - [Titre IV : Organismes consultatifs.](titre-iv)
 - [Titre V : Aide personnalisée au logement.](titre-v)
-- [Titre VI : Organismes consultatifs](titre-vi)
+- [Titre VI : Organismes consultatifs.](titre-vi)
