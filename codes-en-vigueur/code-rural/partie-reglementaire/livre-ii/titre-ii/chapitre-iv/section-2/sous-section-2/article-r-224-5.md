@@ -16,8 +16,6 @@ Mouflon, 1er septembre.
 
 Chamois, isard lorsqu'ils sont soumis au plan de chasse légal, 1er septembre.
 
-Date de clôture spécifique au plus tard le dernier jour de février.
-
 Conditions spécifiques de chasse :
 
 Avant la date d'ouverture générale, ces espèces ne peuvent être chassées qu'à l'approche ou à l'affût par les détenteurs d'une autorisation préfectorale individuelle.
