@@ -8,7 +8,7 @@ II. L'exonération est subordonnée aux conditions suivantes :
 
 1° Pour les souscriptions de parts effectuées entre le 1er janvier 1984 et le 31 décembre 1989, ces fonds doivent être soumis aux dispositions du titre II bis de la loi n° 79-594 du 13 juillet 1979 relative aux fonds communs de placement et leurs actifs doivent être constitués de façon constante et pour 40 % au moins de titres, y compris les obligations convertibles, émis.
 
-a. Aux fins d'augmentations de capital en numéraire réalisées après le 1er janvier 1984 par des sociétés soumises à l'impôt sur les sociétés exerçant une activité visée à l'article 34 et dont les actions ne sont pas admises à la cote officielle ou à la cote du second marché ;
+a. Aux fins d'augmentations de capital en numéraire réalisées après le 1er janvier 1984 par des sociétés soumises à l'impôt sur les sociétés exerçant une activité visée à l'article 34 et dont les actions ne sont pas admises ((aux négociations sur un marché réglementé)) (M) (1).
 
 b. Ou aux fins de constitution du capital de sociétés définies au a, réalisée par apport en numéraire après le 1er janvier 1984 ;
 
@@ -26,4 +26,6 @@ Toutefois, l'exonération est maintenue en cas de cession des parts par le contr
 
 IV. Un décret fixe les obligations incombant aux porteurs de parts ainsi qu'aux gérants et dépositaires des fonds mentionnés au titre II bis de la loi n° 79-594 du 13 juillet 1979 complétée par la loi n° 83-1 du 3 janvier 1983, art. 23 et de ceux remplissant les conditions prévues au II 2°.
 
-(1) Annexe III, art. 41 W à 41 X. Voir également Annexe III, art. 39 quater, 39 quinquies, 41 sexdecies G, 280 A et livre des procédures fiscales, art. R 87-1.
+(M) Modification.
+
+(1) Loi 98-1267 1998-12-30 art. 27 XV : Les dispositions du présent article sont applicables à compter de la date d'entrée en vigueur de la loi n° 96-597 du 2 juillet 1996 de modernisation des activités financières.

@@ -1,6 +1,6 @@
 # Article 8
 
-Sous réserve des dispositions de l'article 6, les associés des sociétés en nom collectif et les commandités des sociétés en commandite simple sont, lorsque ces sociétés n'ont pas opté pour le régime fiscal des sociétés de capitaux, personnellement soumis à l'impôt sur le revenu pour la part de bénéfices sociaux correspondant à leurs droits dans la société.
+Sous réserve des dispositions de l'article 6, les associés des sociétés en nom collectif et les commandités des sociétés en commandite simple sont, lorsque ces sociétés n'ont pas opté pour le régime fiscal des sociétés de capitaux, personnellement soumis à l'impôt sur le revenu pour la part de bénéfices sociaux correspondant à leurs droits dans la société. En cas de démembrement de la propriété de tout ou partie des parts sociales, l'usufruitier est soumis à l'impôt sur le revenu pour la quote-part correspondant aux droits dans les bénéfices que lui confère sa qualité d'usufruitier. Le nu-propriétaire n'est pas soumis à l'impôt sur le revenu à raison du résultat imposé au nom de l'usufruitier.
 
 Il en est de même, sous les mêmes conditions :
 
@@ -16,10 +16,6 @@ Il en est de même, sous les mêmes conditions :
 
 b) Des associés d'une exploitation agricole à responsabilité limitée formée uniquement entre personnes parentes en ligne directe ou entre frères et soeurs et, le cas échéant, les conjoints de ces personnes ;
 
-En cas de décès d'un de ces associés, ce régime n'est pas remis en cause si ses enfants entrent dans la société (1) ;
+En cas de décès d'un de ces associés, ce régime n'est pas remis en cause si ses enfants entrent dans la société ;
 
-c) Des associés d'une exploitation agricole à responsabilité limitée créée à compter du 1er janvier 1989 à l'occasion de l'apport de tout ou partie d'une exploitation individuelle et constituée uniquement entre l'apporteur et un exploitant qui s'installe ainsi que, le cas échéant, entre les membres de leurs familles qui leur sont apparentés dans les conditions fixées au b ci-dessus sous réserve que l'exploitation agricole à responsabilité limitée réponde aux conditions fixées ((au 1° de l'article R343-10 du code rural)) (M relatif aux aides à l'installation des jeunes agriculteurs.
-
-(1) Cette disposition est applicable à compter des impositions dues au titre de l'exercice 1990.
-
-(M) Modification.
+c) Des associés d'une exploitation agricole à responsabilité limitée créée à compter du 1er janvier 1989 à l'occasion de l'apport de tout ou partie d'une exploitation individuelle et constituée uniquement entre l'apporteur et un exploitant qui s'installe ainsi que, le cas échéant, entre les membres de leurs familles qui leur sont apparentés dans les conditions fixées au b ci-dessus sous réserve que l'exploitation agricole à responsabilité limitée réponde aux conditions fixées au 1° de l'article R343-10 du code rural relatif aux aides à l'installation des jeunes agriculteurs.

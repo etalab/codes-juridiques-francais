@@ -28,3 +28,4 @@
 - [Article 1740 septies](article-1740-septies.md)
 - [Article 1740 octies](article-1740-octies.md)
 - [Article 1740 nonies](article-1740-nonies.md)
+- [Article 1740 decies](article-1740-decies.md)

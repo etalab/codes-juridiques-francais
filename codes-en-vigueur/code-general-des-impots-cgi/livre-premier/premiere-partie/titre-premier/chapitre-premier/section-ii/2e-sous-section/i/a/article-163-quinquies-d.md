@@ -10,7 +10,7 @@ II. 1. Les parts des fonds mentionnés au 2° de l'article 92 D ne peuvent figur
 
 Les sommes versées sur un plan d'épargne en actions ne peuvent être employées à l'acquisition de titres offerts dans les conditions mentionnées à l'article 80 bis.
 
-2. ((Les titres ou parts dont la souscription a permis au titulaire du plan de bénéficier des avantages fiscaux résultant des dispositions des 2° quater et 2° quinquies de l'article 83, des articles 83 ter, 150 U, 150 V, 163 quinquies A, 163 quinquies B, 163 septdecies, 199 undecies, 199 terdecies et 199 terdecies A, du I bis de l'article 163 bis C, du troisième alinéa de l'article 726 ainsi que du III ter de l'article 810 ne peuvent figurer dans le plan)) (M).
+2. Les titres ou parts dont la souscription a permis au titulaire du plan de bénéficier des avantages fiscaux résultant des dispositions des 2° quater et 2° quinquies de l'article 83, des articles 83 ter, 150 U, 150 V, 163 quinquies B, 163 septdecies, 199 undecies, 199 terdecies et 199 terdecies A, du I bis de l'article 163 bis C, du ((deuxième alinéa du II)) (M) de l'article 726 ainsi que du III ter de l'article 810 ne peuvent figurer dans le plan.
 
 3. Le titulaire du plan, son conjoint et leurs ascendants et descendants ne doivent pas, pendant la durée du plan, détenir ensemble, directement ou indirectement, plus de 25 p. 100 des droits dans les bénéfices de sociétés dont les titres figurent au plan ou avoir détenu cette participation à un moment quelconque au cours des cinq années précédant l'acquisition de ces titres dans le cadre du plan.
 

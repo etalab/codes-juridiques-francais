@@ -10,7 +10,7 @@ Ces taux peuvent être majorés de 5 ou 10 points par le conseil municipal.
 
 2. L'abattement facultatif à la base, que le conseil municipal peut instituer, est égal à 5, 10 ou 15 % de la valeur locative moyenne des habitations de la commune.
 
-3. Sans préjudice de l'application de l'abattement prévu au 2, le conseil municipal peut accorder un abattement à la base de 5, 10 ou 15 % aux contribuables ((dont le montant des revenus de l'année précédente n'excède pas la limite prévue à l'article 1417)) (M) et dont l'habitation principale a une valeur locative inférieure à 130 % de la moyenne communale. Ce pourcentage est augmenté de 10 points par personne à charge.
+3. Sans préjudice de l'application de l'abattement prévu au 2, le conseil municipal peut accorder un abattement à la base de 5, 10 ou 15 % aux contribuables dont le montant des revenus de l'année précédente n'excède pas la limite prévue à l'article 1417 et dont l'habitation principale a une valeur locative inférieure à 130 % de la moyenne communale. Ce pourcentage est augmenté de 10 points par personne à charge.
 
 4. La valeur locative moyenne est déterminée en divisant le total des valeurs locatives d'habitation de la commune, abstraction faite des locaux exceptionnels, par le nombre des locaux correspondants.
 
@@ -28,16 +28,16 @@ III. Sont considérés comme personnes à la charge du contribuable :
 
 Ses enfants ou les enfants qu'il a recueillis lorsqu'ils répondent à la définition donnée pour le calcul de l'impôt sur le revenu ;
 
-Ses ascendants ou ceux de son conjoint âgés de plus de soixante dix ans ou infirmes lorsqu'ils résident avec lui ((et que leurs revenus de l'année précédente n'excèdent pas la limite prévue à l'article 1417)) (M).
+Ses ascendants ou ceux de son conjoint âgés de plus de soixante dix ans ou infirmes lorsqu'ils résident avec lui et que leurs revenus de l'année précédente n'excèdent pas la limite prévue à l'article 1417.
 
 IV. La valeur locative moyenne servant de base au calcul de l'abattement obligatoire pour charges de famille et des abattements facultatifs à la base est majorée chaque année proportionnellement à la variation des valeurs locatives des logements résultant de l'application des articles 1518 et 1518 bis.
 
 Les abattements, fixés en valeur absolue conformément au 5 du II, sont majorés proportionnellement à la variation des valeurs locatives des logements résultant de l'application des articles 1518 et 1518 bis.
 
-V. Les modalités de calcul de la valeur locative moyenne ainsi que les modalités d'arrondissement des abattements sont fixées par décret en Conseil d'Etat (1) (2).
-
-(M) Modification de la loi 96-1181.
+V. ((La valeur locative moyenne ainsi que les abattements sont arrondis au franc le plus proche. La fraction de franc égale à 0,50 est comptée pour 1)) (M).
 
 (1) Annexe II, art. 310 H.
 
 (2) Pour l'application de cet article, voir l'article 1639 A bis.
+
+(M) Modification.

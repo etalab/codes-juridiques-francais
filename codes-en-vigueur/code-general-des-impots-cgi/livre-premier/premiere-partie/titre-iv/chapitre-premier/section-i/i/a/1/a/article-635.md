@@ -10,7 +10,7 @@ Doivent être enregistrés dans le délai d'un mois à compter de leur date :
 
 3° Les actes portant transmission de propriété ou d'usufruit de biens immeubles ;
 
-4° Les actes portant mutation de jouissance à vie ou à durée illimitée de biens immeubles ;
+4° Les actes portant mutation de jouissance à vie ou à durée illimitée de biens immeubles de fonds de commerce ou de clientèles ;
 
 5° Les actes constatant la formation, la prorogation, la transformation ou la dissolution d'une société, l'augmentation, l'amortissement ou la réduction de son capital ;
 
@@ -32,8 +32,8 @@ Doivent être enregistrés dans le délai d'un mois à compter de leur date :
 
 7° Les actes portant cession d'actions, de parts de fondateurs ou de parts bénéficiaires ou cession de parts sociales dans les sociétés dont le capital n'est pas divisé en actions ;
 
-8° Lorsque le loyer annuel excède 12.000 F, les acte portant mutation de jouissance de fonds de commerce ou de clientèles et de droits de chasse ou de droits de pêche ;
+7° bis Les actes portant cession de participations dans des personnes morales à prépondérance immobilière au sens du dernier alinéa du 2° du I de l'article 726 ;
 
-9° Lorsque le loyer annuel excède 12.000 F, les actes portant mutation de jouissance à durée limitée d'immeubles ruraux.
+8° 9° (Abrogés) ;
 
 (1) Voir Annexe IV, art. 60.

@@ -11,6 +11,7 @@
 - [Article L122](article-l122.md)
 - [Article L123](article-l123.md)
 - [Article L124](article-l124.md)
+- [Article L124 A](article-l124-a.md)
 - [Article L125](article-l125.md)
 - [Article L126](article-l126.md)
 - [Article L127](article-l127.md)

@@ -1,6 +1,6 @@
 # Article 275 ter B
 
-La demande d'agrément en qualité d'organisme de contrôle est déposée auprès de la direction générale des douanes et droits indirects et de la direction générale des stratégies industrielles du ministère de l'industrie, qui l'instruisent conjointement.
+La demande d'agrément en qualité d'organisme de contrôle est déposée auprès de la direction générale des douanes et droits indirects et de la direction générale de l'industrie, des technologies de l'information et des postes qui l'instruisent conjointement.
 
 Est jointe à la demande une description des moyens et des méthodes de contrôle et d'essai qui seront mis en oeuvre par l'organisme et, notamment, des méthodes statistiques et d'évaluation périodique du système de contrôle interne de la qualité employées.
 

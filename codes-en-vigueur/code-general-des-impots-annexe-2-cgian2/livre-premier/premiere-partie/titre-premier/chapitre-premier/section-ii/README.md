@@ -6,4 +6,5 @@
 - [IV : Options de souscription ou d'achat d'actions au bénéfice du personnel des sociétés](iv)
 - [V : Plan d'épargne populaire.](v)
 - [VI : Déduction des pensions alimentaires](vi)
+- [VII : Déduction des investissements réalisés outre-mer.](vii)
 - [0I ter : Créateurs d'entreprises.](0i-ter)

@@ -1,7 +1,7 @@
 # II : Impôt sur le revenu
 
 - [1° : Imputation des retenues à la source et crédits d'impôt](1)
-- [11° : Réduction d'impôt accordée au titre des investissements immobiliers locatifs.](11)
+- [11° : Réduction d'impôt accordée au titre des investissements immobiliers locatifs réalisés dans des résidences de tourisme classées dans les zones de revitalisation rurale.](11)
 - [12° : Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer](12)
 - [13° : Réduction d'impôt accordée au titre des souscriptions au capital de sociétés nouvelles.](13)
 - [14° : Réduction d'impôt accordée au titre des souscriptions en numéraire au capital des sociétés ainsi qu'au titre des souscriptions de parts de fonds communs de placement dans l'innovation](14)
@@ -30,3 +30,4 @@
 - [Article 197 A](article-197-a.md)
 - [Article 197 B](article-197-b.md)
 - [Article 199](article-199.md)
+- [11° bis : Réduction d'impôt accordée au titre des investissements immobiliers locatifs réalisés dans des résidences de tourisme classées dans les zones de revitalisation rurales](11-bis)

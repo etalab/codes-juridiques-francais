@@ -17,3 +17,5 @@ A compter de 1990, la somme prévue aux premier et quatrième alinéas est relev
 Toutefois, par dérogation aux règles de l'article 1663, l'impôt restant dû est exigible en totalité dès la mise en recouvrement des rôles, si tout ou partie d'un acompte n'a pas été versé le 15 du mois suivant celui au cours duquel il est devenu exigible.
 
 4. Le contribuable qui estime que le montant du premier versement effectué au titre d'une année est égal ou supérieur aux cotisations dont il sera finalement redevable pourra se dispenser du second versement prévu pour cette année en remettant au comptable du Trésor chargé du recouvrement des impôts directs du lieu d'imposition, quinze jours avant la date d'exigibilité de ce dernier versement, une déclaration datée et signée.
+
+5. Les acomptes mentionnés au 1 sont arrondis au franc le plus proche. La fraction de franc égale à 0,50 est comptée pour 1.

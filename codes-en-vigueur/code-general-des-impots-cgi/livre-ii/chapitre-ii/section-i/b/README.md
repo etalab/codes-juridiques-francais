@@ -13,3 +13,4 @@
 - [Article 1751](article-1751.md)
 - [Article 1753](article-1753.md)
 - [Article 1753 bis A](article-1753-bis-a.md)
+- [Article 1753 bis B](article-1753-bis-b.md)

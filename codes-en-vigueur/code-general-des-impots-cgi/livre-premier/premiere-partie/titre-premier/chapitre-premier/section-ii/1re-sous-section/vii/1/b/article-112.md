@@ -6,9 +6,9 @@ Ne sont pas considérés comme revenus distribués :
 
 Sous réserve des dispositions du 3°, ne sont pas considérés comme des apports pour l'application de la présente disposition :
 
-a. Les réserves incorporées au capital;
+a. Les réserves incorporées au capital ;
 
-b. Les sommes incorporées au capital ou aux réserves (primes de fusion ((ou de scission))) à l'occasion ((d'une fusion ou d'une scission de sociétés)) (M).
+b. Les sommes incorporées au capital ou aux réserves (primes de fusion ou de scission à l'occasion ((d'une fusion ou d'une scission de sociétés.
 
 2° Les amortissements de tout ou partie de leur capital social, parts d'intérêt ou commandites, effectués par les sociétés concessionnaires de l'Etat, des départements, des communes ou autres collectivités publiques, lorsque ces amortissements sont justifiés par la caducité de tout ou partie de l'actif social notamment par dépérissement progressif ou par obligation de remise de concessions à l'autorité concédante. Le caractère d'amortissement de l'opération et la légitimité de l'exonération seront constatés, dans chaque cas, dans des conditions fixées par décret (1).
 
@@ -24,8 +24,8 @@ c. Sur les sommes incorporées au capital ou aux réserves (primes de fusion) à
 
 5° (Abrogé)
 
-6° Les sommes ou valeurs attribuées aux actionnaires au titre du rachat de leurs actions, lorsque ce rachat est effectué dans les conditions prévues aux articles 217-1 ou 217-2 à 217-5, modifiés, de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, modifiés par la loi n° 81-1162 du 30 décembre 1981 relative à la mise en harmonie du droit des sociétés commerciales avec la deuxième directive adoptée par le Conseil des communautés européennes le 13 décembre 1976.
-
-(M) Modification. Ces dispositions sont applicables à compter du 1er janvier 1995.
+6° Les sommes ou valeurs attribuées aux actionnaires au titre du rachat de leurs actions, lorsque ce rachat est effectué dans les conditions prévues aux articles 217-1 ou 217-2 à 217-5, modifiés, de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, modifiés par la loi n° 81-1162 du 30 décembre 1981 relative à la mise en harmonie du droit des sociétés commerciales avec la deuxième directive adoptée par le Conseil des communautés européennes le 13 décembre 1976. ((Le régime des plus-values prévu, selon les cas, aux articles 39 duodecies, 92 B ou 160 est alors applicable)) (M).
 
 (1) Annexe III, art. 41 bis à 41 quinquies.
+
+(M) Modification.

@@ -31,6 +31,7 @@
 - [Article 39 quinquies G](article-39-quinquies-g.md)
 - [Article 39 quinquies GA](article-39-quinquies-ga.md)
 - [Article 39 quinquies GB](article-39-quinquies-gb.md)
+- [Article 39 quinquies GC](article-39-quinquies-gc.md)
 - [Article 39 quinquies H](article-39-quinquies-h.md)
 - [Article 39 D](article-39-d.md)
 - [Article 39 sexies](article-39-sexies.md)

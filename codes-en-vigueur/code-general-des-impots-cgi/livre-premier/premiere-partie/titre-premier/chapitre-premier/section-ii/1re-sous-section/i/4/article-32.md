@@ -10,8 +10,10 @@ a) Monuments historiques et assimilés ou immeubles en nue-propriété, donnés 
 
 b) Immeubles au titre desquels est demandé le bénéfice des dispositions du b ter ou du b quater du 1° du I de l'article 31 ou de celles du deuxième ou du cinquième alinéa du 3° du I de l'article 156 ;
 
-c) Logements neufs au titre desquels est demandé le bénéfice de la déduction forfaitaire de 35 % ou 25 % ou de la déduction au titre de l'amortissement prévues au e et au f du 1° du I de l'article 31 ;
+((c. Logements neufs au titre desquels est demandé le bénéfice de l'une des déductions forfaitaires prévues aux deuxième à cinquième alinéas du e du 1° du I de l'article 31 ou de l'une des déductions au titre de l'amortissement prévues au f et au g du 1° du I de l'article 31)) (M) ;
 
 d) Parts de sociétés, autres que celles visées à l'article 1655 ter, qui donnent en location des immeubles nus et dont les résultats sont imposés dans les conditions prévues à l'article 8.
 
 3. L'option pour le régime défini au 1 est exercée pour une période de trois ans lors du dépôt de la déclaration des revenus de la première année au titre de laquelle elle s'applique. Irrévocable durant cette période, elle est renouvelable tacitement sauf renonciation expresse dans le délai de dépôt de la déclaration des revenus de l'année qui suit chaque période triennale. Toutefois, elle cesse immédiatement de produire ses effets au titre de l'année au cours de laquelle le seuil prévu au 1 est dépassé ou l'une des exclusions mentionnées au 2 est applicable.
+
+(M) Modification. [*Dispositif Besson*].

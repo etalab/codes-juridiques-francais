@@ -10,7 +10,9 @@ Cette déclaration ne concerne pas :
 
 3° Les intérêts des bons et titres placés sous le régime fiscal de l'anonymat.
 
-Elle doit être faite dans des conditions et délais fixés par décret (1). Une copie de cette déclaration doit être adressée aux bénéficiaires ds revenus concernés.
+Elle doit être faite dans des conditions et délais fixés par décret. Une copie de cette déclaration doit être adressée aux bénéficiaires ds revenus concernés.
+
+Elle est obligatoirement transmise à l'administration fiscale selon un procédé informatique par le déclarant qui a souscrit au moins trente mille déclarations au cours de l'année précédente (1).
 
 1 bis. Les dispositions du 1 sont applicables aux revenus imposables dans les conditions prévues par l'article 238 septies B. La déclaration doit être faite par la personne chez laquelle les titres ou droits sont déposés ou inscrits en compte ou, dans les autres cas, par l'emprunteur.
 
@@ -18,8 +20,6 @@ Elle doit être faite dans des conditions et délais fixés par décret (1). Une
 
 3. Les personnes qui interviennent à un titre quelconque, dans la conclusion des contrats de prêts ou dans la rédaction des actes qui les constatent sont tenues de déclarer à l'administration la date, le montant et les conditions du prêt ainsi que les noms et adresses du prêteur et de l'emprunteur.
 
-Cette déclaration est faite dans des conditions et délais fixés par décret (2).
+Cette déclaration est faite dans des conditions et délais fixés par décret.
 
-(1) Voir Annexe III, art. 49 D à 49 I.
-
-(2) Annexe III, art. 49 B.
+(1) Ces dispositions s'appliquent à compter des revenus imposables au titre de l'année 1999.

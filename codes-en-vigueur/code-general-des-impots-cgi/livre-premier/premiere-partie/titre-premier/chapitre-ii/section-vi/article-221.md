@@ -12,7 +12,7 @@ Il en est de même, sous réserve des dispositions de l'article 221 bis, lorsque
 
 2 quater La transformation en société d'investissement à capital variable d'une société non exonérée de l'impôt sur les sociétés entraîne les mêmes conséquences fiscales que la liquidation de la société transformée.
 
-3 Le changement de nationalité d'une société par actions et le transfert de son siège social à l'étranger n'entraînent pas l'application des dispositions du 2, premier alinéa, lorsqu'ils sont décidés par l'assemblée générale dans les conditions prévues à l'article 154 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales.
+3 Le changement de nationalité d'une société par actions et le transfert de son siège social à l'étranger n'entraînent pas l'application des dispositions du 2, premier alinéa, lorsqu'ils sont décidés par l'assemblée générale dans les conditions prévues à l'article 154 de la loi n° 66-537 du 24 juillet 1966 ((modifiée)) (M) sur les sociétés commerciales.
 
 4 (Disposition périmée).
 
@@ -21,3 +21,5 @@ Il en est de même, sous réserve des dispositions de l'article 221 bis, lorsque
 6 Lorsqu'une société d'intérêt collectif agricole renonce au statut défini aux articles L. 531-1 à L. 535-4 du code rural, les dispositions du premier alinéa du 2 ne s'appliquent pas si cette renonciation ne s'accompagne pas d'un changement de régime fiscal.
 
 (1) Voir Annexe II, art. 372.
+
+(M) Modification.

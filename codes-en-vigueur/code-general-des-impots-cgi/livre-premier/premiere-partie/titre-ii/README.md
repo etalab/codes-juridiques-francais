@@ -7,6 +7,8 @@
 - [Chapitre VIII bis : Taxe sur certaines dépenses de publicité](chapitre-viii-bis)
 - [Chapitre IX : Redevance sanitaire d'abattage](chapitre-ix)
 - [Chapitre X : Redevance sanitaire de découpage](chapitre-x)
+- [Chapitre X bis : Redevances sanitaires sur les produits de la pêche et de l'aquaculture](chapitre-x-bis)
+- [Chapitre X ter : Redevance sanitaire pour le contrôle de certaines substances et de leurs résidus](chapitre-x-ter)
 - [Chapitre XI : Taxe forfaitaire sur les livraisons de postes émetteurs-récepteurs fonctionnant sur les canaux banalisés](chapitre-xi)
 - [Chapitre XII : Taxe forfaitaire sur les actes des huissiers de justice](chapitre-xii)
 - [Chapitre XIII : Taxe due par les entreprises de transports publics aériens.](chapitre-xiii)

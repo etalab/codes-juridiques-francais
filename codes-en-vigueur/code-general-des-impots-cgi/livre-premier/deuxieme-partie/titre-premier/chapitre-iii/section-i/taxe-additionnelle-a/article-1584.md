@@ -2,7 +2,7 @@
 
 1. Est perçue, au profit des communes de plus de 5.000 habitants, ainsi que de celles d'une population inférieure classées comme stations balnéaires, thermales, climatiques, de tourisme et de sports d'hiver, une taxe additionnelle aux droits d'enregistrement ou à la taxe de publicité foncière exigibles sur les mutations à titre onéreux :
 
-1° D'immeubles et de droits immobiliers situés sur leur territoire ;
+1° D'immeubles et de droits immobiliers situés sur leur territoire. La taxe additionnelle n'est pas perçue lorsque la mutation est soumise au droit proportionnel de 0,60 % ;
 
 2° De meubles corporels mentionnés au 2° de l'article 733 vendus publiquement dans la commune ;
 
@@ -14,23 +14,21 @@
 
 Cette taxe, dont la perception est confiée au service des impôts, est fixée à 1,20 p. cent. Le taux est fixé à 0,40 p. cent pour les mutations à titre onéreux visées au 2°. Pour les mutations visées aux 3°, 4° et 5° ci-dessus constatées par un acte passé ou une convention conclue à compter du 10 mai 1993, les taux de la taxe sont fixés à :
 
-FRACTION DE LA VALEUR TAXABLE : TARIF APPLICABLE
+FRACTION DE LA VALEUR TAXABLE / TARIF APPLICABLE
 
-N'excédant pas 150.000 F : 0 %
+N'excédant pas 150.000 F / 0 %
 
-Comprise entre 150.000 F et 700.000 F : 0,40 %
+Comprise entre 150.000 F et 700.000 F / 0,40 %
 
-Supérieure à 700.000 F : 1 %.
-
-Dans le cas prévu au 1° du premier alinéa, elle s'ajoute au droit départemental d'enregistrement ou à la taxe départementale de publicité foncière mentionnés ((aux articles 1594 A, sauf lorsque la mutation est soumise au droit proportionnel de 0,60 %, et 1594 F)) (M).
+Supérieure à 700.000 F / 1 %.
 
 La taxe est soumise aux règles qui gouvernent l'exigibilité, la restitution et le recouvrement des droits ou de la taxe auxquels elle s'ajoute (1).
 
 2. La taxe additionnelle prévue au 1 ne s'applique pas aux ventes publiques de meubles énumérées ci-après :
 
-1° Ventes d'instruments et autres objets mobiliers dépendant d'une exploitation agricole;
+1° Ventes d'instruments et autres objets mobiliers dépendant d'une exploitation agricole ;
 
-2° (Abrogé);
+2° (Abrogé) ;
 
 3° Ventes d'objets donnés en gage prévues par l'article 93 du code de commerce ;
 
@@ -48,6 +46,4 @@ La taxe est soumise aux règles qui gouvernent l'exigibilité, la restitution et
 
 10° (Abrogé)
 
-(M) Modification.
-
-(1) La perception de cette taxe a été étendue aux communes du département de la Guyane par l'article 10-I de la loi n° 71-1025 du 24 décembre 1971, dans les territoires de la Nouvelle-Calédonie et des îles Wallis-et-Futuna par l'article 12 II de l'ordonnance 96-267 du 28 mars 1996, JO du 31, en vigueur le 1er mai 1996.
+(1) La perception de cette taxe a été étendue aux communes du département de la Guyane par l'article 10-I de la loi n° 71-1025 du 24 décembre 1971.
