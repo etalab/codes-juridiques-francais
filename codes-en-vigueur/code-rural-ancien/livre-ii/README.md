@@ -10,3 +10,4 @@
 - [Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.](titre-viii)
 - [Titre IX : Des pénalités.](titre-ix)
 - [Titre X : De la protection des végétaux.](titre-x)
+- [Titre XI : Dispositions particulières à la collectivité territoriale de Mayotte.](titre-xi)
