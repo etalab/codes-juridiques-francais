@@ -4,6 +4,5 @@
 - [CHAPITRE II : Dispositions relatives au contrat emploi-solidarité.](chapitre-ii)
 - [Chapitre III : Dispositions relatives aux contrats de retour à l'emploi](chapitre-iii)
 - [Chapitre IV : Dispositions particulières relatives à l'emploi des jeunes](chapitre-iv)
-- [Chapitre V : Dispositions relatives à l'aide à la création d'entreprise à l'initiative de demandeurs d'emploi](chapitre-v)
 - [Chapitre VI : Placement](chapitre-vi)
 - [Chapitre VII : Indemnisation du chômage](chapitre-vii)
