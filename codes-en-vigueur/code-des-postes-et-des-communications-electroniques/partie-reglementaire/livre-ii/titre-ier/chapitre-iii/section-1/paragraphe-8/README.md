@@ -19,6 +19,7 @@
 - [26. : Télégrammes expédiés ou remis dans les trains et les aéronefs.](26)
 - [27. : Télégrammes-lettres.](27)
 - [28. : Télégrammes R.C.T. du régime international.](28)
+- [29. : Radiotélégrammes.](29)
 - [3. : Télégrammes des services postaux financiers.](3)
 - [30. : Avis de service taxés.](30)
 - [4. : Phototélégrammes.](4)
