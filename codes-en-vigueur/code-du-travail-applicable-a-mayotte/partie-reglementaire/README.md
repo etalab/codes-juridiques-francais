@@ -1,4 +1,4 @@
-# Partie réglementaire  - Décrets simples
+# Partie réglementaire - Décrets en Conseil d'Etat
 
 - [Livre 1er : Conventions relatives au travail](livre-1er)
 - [LIVRE Ier : Conventions relatives au travail](livre-ier)

@@ -4,7 +4,7 @@ En cas d'accident du travail survenu dans une entreprise où ont été relevés 
 
 A cet effet, la juridiction enjoint à l'entreprise de présenter, dans un délai qu'elle fixe, un plan de réalisation de ces mesures accompagné de l'avis motivé des représentants du personnel.
 
-Après avis du chef du service de l'inspection du travail, la juridiction adopte le plan présenté. A défaut de présentation ou d'adoption d'un tel plan, elle condamne l'entreprise à exécuter pendant une période qui ne saurait excéder cinq ans un plan de nature à faire disparaître les manquements visés ci-dessus.
+Après avis du directeur du travail, de l'emploi et de la formation professionnelle, la juridiction adopte le plan présenté. A défaut de présentation ou d'adoption d'un tel plan, elle condamne l'entreprise à exécuter pendant une période qui ne saurait excéder cinq ans un plan de nature à faire disparaître les manquements visés ci-dessus.
 
 Le contrôle de l'exécution des mesures prescrites est exercé par l'inspecteur du travail. S'il y a lieu, celui-ci saisit le juge des référés, qui peut ordonner la fermeture totale ou partielle de l'établissement pendant le temps nécessaire pour assurer ladite exécution.
 
