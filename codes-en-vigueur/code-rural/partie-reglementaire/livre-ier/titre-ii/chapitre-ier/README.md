@@ -5,3 +5,4 @@
 - [Section 3 : Financement et exécution des opérations.](section-3)
 - [Section 5 : Dispositions conservatoires et clôture des opérations.](section-5)
 - [Section 6 : Dispositions pénales.](section-6)
+- [Section 7 : Cas de certaines petites parcelles.](section-7-cas)
