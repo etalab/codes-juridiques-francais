@@ -24,4 +24,4 @@ IV. - Les calculs de la provision mathématique théorique mentionnée à l'arti
 
 La provision mathématique théorique ne peut être inférieure à celle qui résulterait de l'utilisation des tables prévues au premier tiret du 2° du premier alinéa de l'article A. 931-10-10.
 
-Les institutions et les unions peuvent répartir sur une période allant jusqu'à l'exercice 2011 inclus les effets sur le calcul de la provision mathématique théorique du changement de taux d'intérêt utilisé pour ce calcul.
+Les institutions et les unions peuvent répartir sur une période allant jusqu'à l'exercice 2015 inclus les effets sur le calcul de la provision mathématique théorique du changement de taux d'intérêt utilisé pour ce calcul.
