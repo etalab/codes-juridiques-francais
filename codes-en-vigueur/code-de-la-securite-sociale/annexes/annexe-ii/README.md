@@ -1,6 +1,5 @@
 # Annexe II : Tableaux des maladies professionnelles prévus à l'article R. 461-3
 
-- [Article Annexe II tableau 1](article-annexe-ii-tableau-1.md)
 - [Article Annexe II tableau 2](article-annexe-ii-tableau-2.md)
 - [Article Annexe II tableau 5](article-annexe-ii-tableau-5.md)
 - [Article Annexe II tableau 8](article-annexe-ii-tableau-8.md)
@@ -31,8 +30,6 @@
 - [Article Annexe II tableau 49](article-annexe-ii-tableau-49.md)
 - [Article Annexe II tableau 50](article-annexe-ii-tableau-50.md)
 - [Article Annexe II tableau 51](article-annexe-ii-tableau-51.md)
-- [Article Annexe II tableau 52](article-annexe-ii-tableau-52.md)
-- [Article Annexe II tableau 57](article-annexe-ii-tableau-57.md)
 - [Article Annexe II tableau 62](article-annexe-ii-tableau-62.md)
 - [Article Annexe II tableau 63](article-annexe-ii-tableau-63.md)
 - [Article Annexe II tableau 65](article-annexe-ii-tableau-65.md)
@@ -42,7 +39,6 @@
 - [Article Annexe II tableau 73](article-annexe-ii-tableau-73.md)
 - [Article Annexe II tableau 74](article-annexe-ii-tableau-74.md)
 - [Article Annexe II tableau 76](article-annexe-ii-tableau-76.md)
-- [Article Annexe II tableau 79](article-annexe-ii-tableau-79.md)
 - [Article Annexe II tableau 82](article-annexe-ii-tableau-82.md)
 - [Article Annexe II tableau 84](article-annexe-ii-tableau-84.md)
 - [Article Annexe II : Tableau n° 1](article-annexe-ii-tableau-no-1.md)
