@@ -3,7 +3,6 @@
 - [Article L439](article-l439.md)
 - [Article L439-1](article-l439-1.md)
 - [Article L439-2](article-l439-2.md)
-- [Article L440](article-l440.md)
 - [Article L441](article-l441.md)
 - [Article L442](article-l442.md)
 - [Article L443](article-l443.md)
