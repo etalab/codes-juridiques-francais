@@ -8,6 +8,7 @@
 - [15° : Réduction d'impôt accordée au titre du rachat d'une entreprise par ses salariés](15)
 - [17° : Réduction ou crédit d'impôt accordé au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet](17)
 - [18° : Réduction d'impôt accordée au titre des intérêts des prêts à la consommation](18)
+- [19° : Réduction d'impôt accordée au titre des dons faits par les particuliers](19)
 - [2° : Réduction d'impôt accordée aux adhérents de centres de gestion ou d'associations agréés](2)
 - [3° : Réduction d'impôt accordée au titre des cotisations versées aux organisations syndicales](3)
 - [4° : Réduction d'impôt accordée au titre des frais de garde des jeunes enfants.](4)
