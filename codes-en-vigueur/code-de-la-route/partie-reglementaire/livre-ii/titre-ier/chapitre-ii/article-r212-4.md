@@ -4,9 +4,9 @@ L'autorisation d'enseigner ne peut être délivrée aux personnes qui ont fait l
 
 I. - Délits d'atteinte à la personne humaine prévus par le code pénal :
 
-- atteinte involontaire à la vie (art. 221-6) ;
+- atteinte involontaire à la vie (art. 221-6-1) ;
 
-- atteinte à l'intégrité physique ou psychique de la personne (art. 222-9 à 222-13, 222-14 [3° et 4°], 222-19 et 222-20, 222-27 à 222-33) ;
+- atteinte à l'intégrité physique ou psychique de la personne (art. 222-9 à 222-13, 222-14 [3° et 4°], 222-19-1 et 222-20-1, 222-2 à 222-33) ;
 
 - mise en danger de la vie d'autrui (art. 223-1) ;
 
@@ -68,19 +68,23 @@ V. - Délits prévus par le code du travail :
 
 VI. - Délits prévus par le code de la route :
 
-- conduite sous l'empire d'un état alcoolique ou en état d'ivresse, délit de fuite, refus de se soumettre aux vérifications destinées à établir la preuve de l'état alcoolique, refus d'obtempérer ou obstacle à l'immobilisation du véhicule, grand excès de vitesse en récidive, organisation de courses de véhicules à moteur sans autorisation (art. L. 224-5, L. 231-1, L. 233-1, L. 234-1, L. 234-8, L. 411-7 et L. 413-1) ;
+- conduite sous l'empire d'un état alcoolique ou en état d'ivresse, délit de fuite, refus de se soumettre aux vérifications destinées à établir la preuve de l'état alcoolique, conduite après usage de stupéfiants, refus de se soumettre aux vérifications destinées à établir la preuve de l'usage de stupéfiants, refus d'obtempérer ou obstacle à l'immobilisation du véhicule, grand excès de vitesse en récidive, organisation de courses de véhicules à moteur sans autorisation (art. L. 224-5, L. 231-1, L. 233-1, L. 234-1, L. 234-8, L. 235-1, L. 235-3, L. 411-7 et L. 413-1) ;
 
 - entrave à la circulation (art. L. 412-1) ;
 
 - circulation sans plaques ou avec de fausses plaques, modification du dispositif de limitation de vitesse par construction des véhicules de transports routiers, absence à bord du véhicule du transport routier de certains documents, destruction ou détournement d'un véhicule confisqué (art. L. 234-12 (III), L. 317-1 à L. 317-4, L. 325-4 et L. 325-5) ;
 
-- conduite en récidive d'un véhicule sans être titulaire du permis de conduire correspondant à la catégorie du véhicule considéré, conduite d'un véhicule malgré la rétention, la suspension ou l'annulation du permis de conduire (art. L. 221-2 et L. 224-16) ;
+- conduite en récidive d'un véhicule sans être titulaire du permis de conduire correspondant à la catégorie du véhicule considéré, conduite d'un véhicule malgré la rétention, l'invalidation, la suspension ou l'annulation du permis de conduire (art. L. 221-2, L. 223-5 et L. 224-16) ;
 
 - enseignement de la conduite des véhicules terrestres à moteur sans autorisation ou en violation d'une mesure de suspension (art. L. 212-4) ;
 
 - usage du nom d'une personne pour enregistrement, au nom de cette personne, d'une condamnation judiciaire ou d'une décision administrative (art. L. 225-7 et L. 330-6) ;
 
 - usage d'un faux nom ou d'une fausse qualité pour obtenir des renseignements sur un conducteur (art. L. 225-8 et L. 330-7).
+
+- délits liés à la commercialisation de dispositifs ayant pour objet d'augmenter la puissance du moteur d'un cyclomoteur (art. L. 317-5 à L. 317-8) ;
+
+- délits liés à la commercialisation de dispositifs destinés à déceler la présence ou à perturber le fonctionnement des systèmes de constatation des infractions à la circulation routière (art. L. 413-2 à L. 413-5).
 
 VII. - Délit prévu par le code de la santé publique :
 
