@@ -1,12 +1,12 @@
 # Article L212-8
 
-Une convention ou un accord collectif étendu ou une convention ou un accord d'entreprise ou d'établissement peut prévoir que la durée hebdomadaire du travail peut varier sur tout ou partie de l'année à condition que, sur un an, cette durée n'excède pas un plafond de 1 600 heures. La convention ou l'accord peut fixer un plafond inférieur. La convention ou l'accord doit préciser les données économiques et sociales justifiant le recours à la modulation.
+Une convention ou un accord collectif étendu ou une convention ou un accord d'entreprise ou d'établissement peut prévoir que la durée hebdomadaire du travail peut varier sur tout ou partie de l'année à condition que, sur un an, cette durée n'excède pas un plafond de 1 607 heures. La convention ou l'accord peut fixer un plafond inférieur. La convention ou l'accord doit préciser les données économiques et sociales justifiant le recours à la modulation.
 
 Les conventions ou accords définis par le présent article doivent respecter les durées maximales quotidiennes et hebdomadaires définies par les deuxièmes alinéas des articles L. 212-1 et L. 212-7.
 
 Les heures effectuées au-delà de la durée légale, dans les limites fixées par la convention ou l'accord, ne sont pas soumises aux dispositions des articles L. 212-5 et L. 212-5-1 et ne s'imputent pas sur les contingents annuels d'heures supplémentaires prévus à l'article L. 212-6.
 
-Constituent des heures supplémentaires soumises aux dispositions des articles L. 212-5, L. 212-5-1 et L. 212-6 les heures effectuées au-delà de la durée maximale hebdomadaire fixée par la convention ou l'accord, ainsi que, à l'exclusion de ces dernières, les heures effectuées au-delà de 1 600 heures ou d'un plafond inférieur fixé par la convention ou l'accord.
+Constituent des heures supplémentaires soumises aux dispositions des articles L. 212-5, L. 212-5-1 et L. 212-6 les heures effectuées au-delà de la durée maximale hebdomadaire fixée par la convention ou l'accord, ainsi que, à l'exclusion de ces dernières, les heures effectuées au-delà de 1 607 heures ou d'un plafond inférieur fixé par la convention ou l'accord.
 
 Les conventions et accords définis par le présent article doivent fixer le programme indicatif de la répartition de la durée du travail, les modalités de recours au travail temporaire, les conditions de recours au chômage partiel pour les heures qui ne sont pas prises en compte dans la modulation, ainsi que le droit à rémunération et à repos compensateur des salariés n'ayant pas travaillé pendant la totalité de la période de modulation de la durée du travail et des salariés dont le contrat de travail a été rompu au cours de cette même période.
 
