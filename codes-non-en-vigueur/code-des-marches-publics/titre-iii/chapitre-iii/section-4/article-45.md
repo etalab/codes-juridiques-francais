@@ -2,7 +2,7 @@
 
 A l'appui des candidatures, il ne peut être exigé que :
 
-1° Des renseignements permettant d'évaluer les capacités professionnelles, techniques et financières du candidat et des documents relatifs aux pouvoirs de la personne habilitée pour l'engager et, en ce qui concerne les marchés passés pour les besoins de la défense, à sa nationalité. Au titre de ces capacités professionnelles, peuvent figurer des renseignements sur le savoir-faire des candidats en matière de protection de l'environnement.
+1° Des renseignements permettant d'évaluer les capacités professionnelles, techniques et financières du candidat et des documents relatifs aux pouvoirs de la personne habilitée pour l'engager et, en ce qui concerne les marchés passés pour les besoins de la défense, à sa nationalité. Au titre de ces capacités professionnelles, peuvent figurer des renseignements sur le savoir-faire des candidats en matière de protection de l'environnement et sur le respect de l'obligation d'emploi mentionnée à l'article L. 323-1 du code du travail.
 
 Pour justifier de ses capacités professionnelles, techniques et financières, le candidat peut demander que soient également prises en compte les capacités professionnelles, techniques et financières d'un ou de plusieurs sous-traitants. Dans ce cas, il doit justifier des capacités de ce ou ces sous-traitants et du fait qu'il en dispose pour l'exécution du marché.
 
