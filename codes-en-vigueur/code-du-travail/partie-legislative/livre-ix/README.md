@@ -13,6 +13,7 @@
 - [Article L900-3](article-l900-3.md)
 - [Article L900-4](article-l900-4.md)
 - [Article L900-4-1](article-l900-4-1.md)
+- [Article L900-4-2](article-l900-4-2.md)
 - [Article L900-5](article-l900-5.md)
 - [Article L900-6](article-l900-6.md)
 - [Article L900-7](article-l900-7.md)

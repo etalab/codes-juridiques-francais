@@ -6,6 +6,6 @@ Cette habilitation, qui vise à s'assurer de la qualité des programmes de forma
 
 La demande d'habilitation fait apparaître les capacités de l'organisme de formation à accueillir des handicapés.
 
-Le représentant de l'Etat dans la région présente chaque année [*périodicité*] au comité régional de la formation professionnelle, de la promotion sociale et de l'emploi, la liste des organismes de formation ayant obtenu l'habilitation d'un ou plusieurs programmes de formation.
+Le représentant de l'Etat dans la région présente chaque année au comité de coordination régional de l'emploi et de la formation professionnelle, la liste des organismes de formation ayant obtenu l'habilitation d'un ou plusieurs programmes de formation.
 
 Un décret en Conseil d'Etat détermine les dispositions transitoires relatives à l'habilitation, les critères et les modalités d'octroi, de renouvellement, de refus ou de retrait de l'habilitation et sa durée de validité ainsi que les conditions de participation des différentes administrations à l'ensemble de ces procédures.

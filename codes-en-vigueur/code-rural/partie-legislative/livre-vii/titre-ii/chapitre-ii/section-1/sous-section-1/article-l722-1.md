@@ -2,7 +2,7 @@
 
 Le régime de protection sociale des non-salariés des professions agricoles est applicable aux personnes non salariées occupées aux activités ou dans les exploitations, entreprises ou établissements énumérés ci-dessous :
 
-1° Exploitations de culture et d'élevage de quelque nature qu'elles soient, exploitations de dressage, d'entraînement, haras ainsi qu'établissements de toute nature dirigés par l'exploitant agricole en vue de la transformation, du conditionnement et de la commercialisation des produits agricoles lorsque ces activités constituent le prolongement de l'acte de production, ou structures d'accueil touristique qui ont pour support l'exploitation ;
+1° Exploitations de culture et d'élevage de quelque nature qu'elles soient, exploitations de dressage, d'entraînement, haras ainsi qu'établissements de toute nature dirigés par l'exploitant agricole en vue de la transformation, du conditionnement et de la commercialisation des produits agricoles lorsque ces activités constituent le prolongement de l'acte de production, ou structures d'accueil touristique, précisées en tant que de besoin par décret, situées sur l'exploitation ou dans les locaux de celle-ci, notamment d'hébergement et de restauration ;
 
 2° Entreprises de travaux agricoles définis à l'article L. 722-2 ;
 

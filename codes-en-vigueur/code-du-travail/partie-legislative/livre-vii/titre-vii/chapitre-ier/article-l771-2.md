@@ -8,4 +8,4 @@ Sont applicables aux salariés mentionnés à l'article L. 771-1, dans leurs rap
 
 - Livre II, titre II, chapitre Ier (Repos hebdomadaire) ; chapitre II (Jours fériés) ; chapitre VI (Congés pour événements familiaux) ;
 
-L'article L. 122-46 et le dernier alinéa de l'article L. 123-1 [*harcèlement sexuel*].
+- les articles L. 122-46, L. 122-49 et L. 122-53.

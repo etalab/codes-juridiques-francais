@@ -17,3 +17,5 @@ Les types d'actions de formation qui entrent dans le champ d'application des dis
 7. Les actions de formation continue relative à la radioprotection des personnes prévues à l'article L. 1333-11 du code de la santé publique.
 
 Entrent également dans le champ d'application des dispositions relatives à la formation professionnelle continue les actions permettant de réaliser un bilan de compétences. Elles ont pour objet de permettre à des travailleurs d'analyser leurs compétences professionnelles et personnelles ainsi que leurs aptitudes et leurs motivations afin de définir un projet professionnel et, le cas échéant, un projet de formation.
+
+Il en est de même des actions permettant aux travailleurs de faire valider les acquis de leur expérience en vue de l'acquisition d'un diplôme, d'un titre à finalité professionnelle ou d'un certificat de qualification figurant sur une liste établie par la commission paritaire nationale de l'emploi d'une branche professionnelle, enregistrés dans le répertoire national des certifications professionnelles visé à l'article L. 335-6 du code de l'éducation.

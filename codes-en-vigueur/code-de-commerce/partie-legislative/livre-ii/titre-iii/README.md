@@ -8,3 +8,4 @@
 - [Chapitre VI : De la fusion et de la scission](chapitre-vi)
 - [Chapitre VII : De la liquidation](chapitre-vii)
 - [Chapitre VIII : Des injonctions de faire](chapitre-viii)
+- [Chapitre IX : Des licenciements](chapitre-ix)
