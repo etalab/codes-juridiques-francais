@@ -2,6 +2,5 @@
 
 - [Article L124-10](article-l124-10.md)
 - [Article L124-11](article-l124-11.md)
-- [Article L124-12](article-l124-12.md)
 - [Article L124-13](article-l124-13.md)
 - [Article L124-13-1](article-l124-13-1.md)
