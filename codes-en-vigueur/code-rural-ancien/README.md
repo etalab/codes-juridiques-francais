@@ -6,4 +6,3 @@
 - [Livre V : Crédit agricole](livre-v)
 - [Livre VII : Dispositions sociales](livre-vii)
 - [Livre VIII : Formation professionnelle et recherche](livre-viii)
-- [Article 1143-2](article-1143-2.md)
