@@ -39,6 +39,7 @@
 - [Article Annexe II : Tableau n° 7](article-annexe-ii-tableau-no-7.md)
 - [Article Annexe II : Tableau n° 9](article-annexe-ii-tableau-no-9.md)
 - [Article Annexe II : Tableau n° 14](article-annexe-ii-tableau-no-14.md)
+- [Article Annexe II : Tableau n° 16](article-annexe-ii-tableau-no-16.md)
 - [Article Annexe II : Tableau n° 20](article-annexe-ii-tableau-no-20.md)
 - [Article Annexe II : Tableau n° 20 BIS](article-annexe-ii-tableau-no-20-bis.md)
 - [Article Annexe II : Tableau n° 21](article-annexe-ii-tableau-no-21.md)
