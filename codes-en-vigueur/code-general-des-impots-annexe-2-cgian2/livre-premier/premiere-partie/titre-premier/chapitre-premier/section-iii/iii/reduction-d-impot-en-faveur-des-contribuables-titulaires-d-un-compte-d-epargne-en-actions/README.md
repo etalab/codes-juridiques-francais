@@ -4,6 +4,7 @@
 - [Article 95 C](article-95-c.md)
 - [Article 95 D](article-95-d.md)
 - [Article 95 A](article-95-a.md)
+- [Article 95 B](article-95-b.md)
 - [Article 95 E](article-95-e.md)
 - [Article 95 F](article-95-f.md)
 - [Article 95 G](article-95-g.md)

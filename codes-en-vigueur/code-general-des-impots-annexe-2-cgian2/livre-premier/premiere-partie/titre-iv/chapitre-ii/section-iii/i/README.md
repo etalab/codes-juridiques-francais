@@ -2,8 +2,11 @@
 
 - [Article 305](article-305.md)
 - [Article 305 I](article-305-i.md)
+- [Article 305 C](article-305-c.md)
 - [Article 305 D](article-305-d.md)
+- [Article 305 A](article-305-a.md)
 - [Article 305 B](article-305-b.md)
 - [Article 305 E](article-305-e.md)
+- [Article 305 F](article-305-f.md)
 - [Article 305 G](article-305-g.md)
 - [Article 305 H](article-305-h.md)
