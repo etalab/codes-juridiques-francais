@@ -1,211 +1,271 @@
 # Article D54
 
-Il y a une maison d'arrêt auprès de chaque cour d'assises. Toutefois, les accusés ressortissant aux cours d'assises du Gers, de la Haute-Savoie et du Vaucluse sont retenus respectivement à la maison d'arrêt d'Agen, à la maison d'arrêt de Bonneville et à la maison d'arrêt d'Avignon.
+Il y a une maison d'arrêt auprès de chaque cour d'assises. Toutefois, les accusés ressortissant aux cours d'assises du Gers et de la Haute-Savoie sont retenus respectivement à la maison d'arrêt d'Agen et à la maison d'arrêt de Bonneville.
 
 La liste des tribunaux de grande instance auprès desquels il n'y a pas de maison d'arrêt est fixée conformément au tableau ci-dessous, qui détermine en outre la ou les maisons d'arrêt où sont retenus les prévenus ou appelants ressortissant à ces juridictions.
 
-COURS D'APPEL : AGEN
+I- COURS D'APPEL
 
-JURIDICTION : Auch.
+II- JURIDICTIONS
 
-PRISON DE RATTACHEMENT : Agen.
+III- PRISONS DE RATTACHEMENT
 
-JURIDICTION : Marmande.
+I- Agen
 
-PRISON DE RATTACHEMENT : Agen.
+II- Auch
 
-COURS D'APPEL : AIX.
+III- Agen.
 
-JURIDICTION : Tarascon.
+II- Marmande
 
-PRISON DE RATTACHEMENT : Avignon.
+III- Agen.
 
-COURS D'APPEL : AMIENS.
+I- Aix-en-Provence
 
-JURIDICTION : Abbeville.
+II- Tarascon
 
-PRISON DE RATTACHEMENT : Amiens.
+III- Avignon - Le Pontet.
 
-JURIDICTION : Laon.
+I- Amiens
 
-PRISON DE RATTACHEMENT : Saint-Quentin et Soissons.
+II- Abbeville
 
-JURIDICTION : Péronne.
+III- Amiens.
 
-PRISON DE RATTACHEMENT : Amiens et Saint-Quentin.
+II- Péronne
 
-JURIDICTION : Senlis.
+III- Amiens.
 
-PRISON DE RATTACHEMENT : Compiègne.
+II- Saint-Quentin
 
-COURS D'APPEL : ANGERS.
+III- Laon.
 
-JURIDICTION : Saumur.
+II- Senlis
 
-PRISON DE RATTACHEMENT : Angers.
+III- Liancourt.
 
-COURS D'APPEL : BESANCON.
+II- Soissons
 
-JURIDICTION : Dôle.
+III- Laon.
 
-PRISON DE RATTACHEMENT : Besançon.
+I- Angers
 
-COURS D'APPEL : BORDEAUX.
+II- Saumur
 
-JURIDICTION : Bergerac.
+III- Angers.
 
-PRISON DE RATTACHEMENT : Périgueux.
+I- Besançon
 
-JURIDICTION : Libourne.
+II- Dole
 
-PRISON DE RATTACHEMENT : Bordeaux.
+III- Besançon.
 
-COURS D'APPEL : CHAMBERY.
+I- Bordeaux
 
-JURIDICTION : Albertville.
+II- Bergerac
 
-PRISON DE RATTACHEMENT : Chambéry.
+III- Périgueux.
 
-JURIDICTION : Annecy.
+II- Libourne
 
-PRISON DE RATTACHEMENT : Bonneville.
+III- Bordeaux-Gradignan.
 
-JURIDICTION : Thonon-les-Bains.
+I- Caen
 
-PRISON DE RATTACHEMENT : Bonneville.
+II- Argentan
 
-COURS D'APPEL : DOUAI.
+III- Alençon et Caen.
 
-JURIDICTION : Avesnes-sur-Helpe.
+II- Avranches
 
-PRISON DE RATTACHEMENT : Valenciennes.
+III- Saint-Malo et Coutances.
 
-JURIDICTION : Boulogne.
+II- Lisieux
 
-PRISON DE RATTACHEMENT : Béthune et Saint-Omer.
+III- Caen.
 
-JURIDICTION : Hazebrouck.
+I- Chambéry
 
-PRISON DE RATTACHEMENT : Saint-Omer.
+II- Anneçy
 
-COURS D'APPEL : GRENOBLE.
+III- Bonneville.
 
-JURIDICTION : Vienne.
+II- Thonon-les-Bains
 
-PRISON DE RATTACHEMENT : Lyon. COURS D'APPEL : LYON.
+III- Bonneville.
 
-JURIDICTION : Belley.
+I- Colmar
 
-PRISON DE RATTACHEMENT : Chambéry.
+II- Saverne
 
-JURIDICTION : Montbrison.
+III- Strasbourg.
 
-PRISON DE RATTACHEMENT : Saint-Etienne.
+I- Dijon
 
-JURIDICTION : Villefranche-sur-Saône.
+II- Mâcon
 
-PRISON DE RATTACHEMENT : Lyon et Trévoux.
+III- Varennes-le-Grand.
 
-COURS D'APPEL : METZ.
+I- Douai
 
-JURIDICTION : Thionville.
+II- Boulogne-sur-Mer
 
-PRISON DE RATTACHEMENT : Metz.
+III- Longuenesse.
 
-COURS D'APPEL : MONTPELLIER.
+II- Cambrai
 
-JURIDICTION : Narbonne.
+III- Douai.
 
-PRISON DE RATTACHEMENT : Carcassonne.
+II- Hazebrouck
 
-JURIDICTION : Millau.
+III- Longuenesse.
 
-PRISON DE RATTACHEMENT : Rodez.
+I- Grenoble
 
-COURS D'APPEL : NANCY.
+II- Bourgoin-Jallieu
 
-JURIDICTION : Saint-Dié.
+III- Saint-Quentin-Fallavier.
 
-PRISON DE RATTACHEMENT : Remiremont en Epinal.
+I- Limoges
 
-COURS D'APPEL : NIMES.
+II- Brive-la-Gaillarde
 
-JURIDICTION : Carpentras.
+III- Tulle.
 
-PRISON DE RATTACHEMENT : Avignon.
+I- Lyon
 
-COURS D'APPEL : PARIS.
+II- Belley
 
-JURIDICTION : Bobigny.
+III- Chambéry.
 
-PRISON DE RATTACHEMENT : Fleury-Mérogis et Fresnes.
+II- Montbrizon
 
-JURIDICTION : Sens.
+III- Saint-Etienne - La Talaudière.
 
-PRISON DE RATTACHEMENT : Auxerre.
+II- Roanne
 
-COURS D'APPEL : PAU.
+III- Villefranche-sur-Saône et Saint-Etienne - La Talaudière.
 
-JURIDICTION : Dax.
+I- Metz
 
-PRISON DE RATTACHEMENT : Bayonne et Mont-de-Marsan.
+II- Thionville
 
-COURS D'APPEL : POITIERS.
+III- Metz.
 
-JURIDICTION : La Rochelle.
+I- Montpellier
 
-PRISON DE RATTACHEMENT : Fontenay-le-Comte.
+II- Narbonne
 
-JURIDICTION : Rochefort.
+III- Carcassonne.
 
-PRISON DE RATTACHEMENT : Saintes.
+II- Millau
 
-JURIDICTION : Bressuire.
+III- Rodez.
 
-PRISON DE RATTACHEMENT : Fontenay-le-Comte.
+I- Nancy
 
-JURIDICTION : Les Sables-d'Olonne.
+II- Briey
 
-PRISON DE RATTACHEMENT : La Roche-sur-Yon.
+III- Metz.
 
-COURS D'APPEL : RENNES.
+II- Saint-Dié
 
-JURIDICTION : Dinan.
+III- Epinal.
 
-PRISON DE RATTACHEMENT : Saint-Malo.
+II- Verdun
 
-JURIDICTION : Guingamp.
+III- Bar-le-Duc.
 
-PRISON DE RATTACHEMENT : Saint-Brieuc.
+I- Nîmes
 
-JURIDICTION : Morlaix.
+II- Alès
 
-PRISON DE RATTACHEMENT : Brest et Saint-Brieuc. COURS D'APPEL :
+III- Nîmes.
 
-RIOM.
+II- Carpentras
 
-JURIDICTION : Cusset.
+III- Avignon - Le Pontet.
 
-PRISON DE RATTACHEMENT : Moulins-Yzeure.
+I- Orléans
 
-COURS D'APPEL : ROUEN.
+II- Montargis
 
-JURIDICTION : Bernay.
+III- Orléans.
 
-PRISON DE RATTACHEMENT : Evreux.
+I- Paris
 
-COURS D'APPEL : TOULOUSE.
+II- Fontainebleau
 
-JURIDICTION : Saint-Gaudens.
+III- Melun et Fleury-Mérogis.
 
-PRISON DE RATTACHEMENT : Toulouse.
+II- Sens
 
-JURIDICTION : Castres.
+III- Auxerre.
 
-PRISON DE RATTACHEMENT : Albi et Toulouse.
+I- Pau
 
-COURS D'APPEL : VERSAILLES.
+II- Dax
 
-JURIDICTION : Nanterre.
+III- Bayonne et Mont-de-Marsan.
 
-PRISON DE RATTACHEMENT : M.A. des Yvelines.
+I- Poitiers
+
+II- La Rochelle
+
+III- Fontenay-le-Comte.
+
+II- Bressuire
+
+III- Fontenay-le-Comte.
+
+II- Les Sables-d'Olonne
+
+III- La Roche-sur-Yon.
+
+I- Rennes
+
+II- Dinan
+
+III- Saint-Malo.
+
+II- Guingamp
+
+III- Saint-Brieuc.
+
+II- Morlaix
+
+III- Brest et Saint-Brieuc.
+
+II- Quimper
+
+III- Brest et Lorient-Ploemeur.
+
+II- Saint-Nazaire
+
+III- Nantes.
+
+I- Riom
+
+II- Cusset
+
+III- Moulins-Yzeure.
+
+I- Rouen
+
+II- Bernay
+
+III- Evreux.
+
+II- Dieppe
+
+III- Rouen et Caen.
+
+I- Toulouse
+
+II- Saint-Gaudens
+
+III- Toulouse-Seysses.
+
+II- Castres
+
+III- Albi et Toulouse-Seysses.
