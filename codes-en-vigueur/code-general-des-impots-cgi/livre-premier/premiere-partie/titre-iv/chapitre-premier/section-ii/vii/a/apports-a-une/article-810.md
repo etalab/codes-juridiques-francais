@@ -22,6 +22,6 @@ IV. Les taux visés au II et au III sont réduits à 0,60 % :
 
 a. Pour les apports donnant lieu au paiement de la taxe sur la valeur ajoutée et concernant des immeubles autres que les terrains à bâtir et biens assimilés mentionnés à l'article 691-I ;
 
-b. Pour les apports immobiliers constatés dans les actes visés aux articles 822-I-1° et 2°, 826-2°, 828-II, 830-a, b, c et 831-I qui, à raison des apports mobiliers, sont exonérés ou soumis à un droit fixe.
+b. Pour les apports immobiliers constatés dans les actes visés aux articles 822-I-1° et 2°, 826-2°, 828-II, 830 a, c et 831-I qui, à raison des apports mobiliers, sont exonérés ou soumis à un droit fixe.
 
 V. Sont exonérés du droit ou de la taxe prévus au II, les apports donnant lieu au paiement de la taxe sur la valeur ajoutée [*TVA*] et concernant des terrains à bâtir et biens assimilés mentionnés à l'article 691-I.
