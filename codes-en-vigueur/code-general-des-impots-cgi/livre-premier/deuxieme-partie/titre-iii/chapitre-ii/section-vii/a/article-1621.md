@@ -68,14 +68,16 @@ La taxe spéciale est perçue dans les salles où sont données au moins deux s�
 
 Le montant de la taxe ne peut entrer en compte dans la détermination de l'assiette des divers impôts, taxes et droits de toute nature, autres que la TVA, auxquels est soumise la recette normale des salles de spectacles cinématographiques.
 
-La constatation et la perception de la taxe sont assurées par le service des impôts selon les règles propres aux contributions indirectes.
+Le contentieux de la taxe est assuré et les infractions en matière d'assiette sont sanctionnées selon les règles propres à la taxe sur la valeur ajoutée.
 
-Le produit de la taxe est porté en recettes au compte d'affectation spéciale institué par l'article 76 de la loi de finances pour 1960 (no 59-1454 du 26 décembre 1959).
+Les sanctions applicables à la taxe spéciale sur le prix des places cinématographiques ne peuvent être mises en recouvrement avant l'expiration d'un délai de trente jours à compter de la notification du document par lequel l'administration a fait connaître au contrevenant la sanction qu'elle se propose d'appliquer, les motifs de celle-ci et la possibilité dont dispose l'intéressé de présenter dans ce délai ses observations.
+
+Le produit de la taxe est porté en recettes au compte d'affectation spéciale institué par l'article 76 de la loi de finances pour 1960 (n° 59-1454 du 26 décembre 1959).
 
 La taxe spéciale prévue au premier alinéa n'est pas perçue dans les salles des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.
 
-1)  Annexe III, art. 333 bis.
+(1) Annexe III, art. 333 bis.
 
-3)  Annexe III, art. 333 bis A à 333 bis D.
+(3) Annexe III, art. 333 bis A à 333 bis D.
 
-4)  Annexe III, art. 333 ter à 333 septies.
+(4) Annexe III, art. 333 ter à 333 septies.

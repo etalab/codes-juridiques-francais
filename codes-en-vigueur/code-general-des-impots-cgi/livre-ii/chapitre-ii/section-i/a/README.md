@@ -22,3 +22,4 @@
 - [Article 1740 quater](article-1740-quater.md)
 - [Article 1740 quinquies](article-1740-quinquies.md)
 - [Article 1740 sexies](article-1740-sexies.md)
+- [*FACTURES DE COMPLAISANCE*.](factures-de-complaisance)
