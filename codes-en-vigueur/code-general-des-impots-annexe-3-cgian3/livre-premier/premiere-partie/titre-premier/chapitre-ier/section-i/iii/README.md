@@ -4,6 +4,7 @@
 - [C : Provisions pour hausse des prix](c)
 - [D : Provisions pour reconstitution des gisements](d)
 - [M : Renseignements à fournir par les entreprises à l'appui de la déclaration prévue à l'article 53 A du code général des impôts](m)
+- [A : Opérations réalisées sur des marchés financiers à terme](a)
 - [B : Provision pour fluctuation des cours](b)
 - [E : Provisions pour investissement à l'étranger](e)
 - [F : Amortissement exceptionnel - Construction d'immeubles industriels et commerciaux.](f)
