@@ -1,5 +1,6 @@
 # Titre IV : Droits à pension des ascendants.
 
+- [Article L67](article-l67.md)
 - [Article L68](article-l68.md)
 - [Article L69](article-l69.md)
 - [Article L70](article-l70.md)
