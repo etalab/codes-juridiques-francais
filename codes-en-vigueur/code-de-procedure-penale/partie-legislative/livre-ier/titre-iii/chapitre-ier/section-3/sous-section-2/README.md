@@ -7,3 +7,4 @@
 - [Article 100-4](article-100-4.md)
 - [Article 100-5](article-100-5.md)
 - [Article 100-6](article-100-6.md)
+- [Article 100-7](article-100-7.md)
