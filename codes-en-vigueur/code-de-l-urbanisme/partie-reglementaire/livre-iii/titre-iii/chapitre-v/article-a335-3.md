@@ -1,3 +1,3 @@
 # Article A335-3
 
-La subvention est accordée par décision du préfet de région après avis de la commission administrative régionale et de l'établissement public régional.
+La décision attributive de subvention est établie par le préfet, conformément à la décision d'utilisation du préfet de région.
