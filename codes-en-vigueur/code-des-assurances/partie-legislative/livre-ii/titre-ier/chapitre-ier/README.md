@@ -3,3 +3,4 @@
 - [Section I : Personnes assujetties.](section-i)
 - [Section II : Etendue de l'obligation d'assurance.](section-ii)
 - [Section VI : Procédures d'indemnisation.](section-vi)
+- [Section VII : Pénalités.](section-vii)
