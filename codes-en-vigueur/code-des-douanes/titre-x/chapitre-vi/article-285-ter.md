@@ -2,7 +2,7 @@
 
 Il est institué au profit des régions de Guadeloupe, de Guyane, de Martinique et de la Réunion une taxe due par les entreprises de transport public aérien et maritime. Elle est ajoutée au prix demandé aux passagers. Elle est assise sur le nombre de passagers embarquant dans ces régions.
 
-Les tarifs de cette taxe peuvent être modulés selon le mode de transport utilisé et la distance parcourue. Ils sont fixés par chaque conseil régional dans la limite de 30 F par passager.
+Les tarifs de cette taxe peuvent être modulés selon le mode de transport utilisé et la distance parcourue. Ils sont fixés par chaque conseil régional dans la limite de 4,57 euros par passager.
 
 La taxe est due au titre des billets émis à compter du premier jour du quatrième mois qui suit la date de publication de la délibération du conseil régional.
 

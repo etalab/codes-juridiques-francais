@@ -8,7 +8,7 @@ b) entre les ports d'un de ces mêmes territoires ;
 
 c) entre les ports de la Guadeloupe, de la Guyane et de la Martinique.
 
-2. Les escales ou relâches volontaires à l'étranger n'ont pas pour effet de modifier le caractère de ces opérations, à moins qu'il ne soit justifié qu'au cours desdites escales ou relâches, le navire remorqué a embarqué ou débarqué des marchandises représentant ensemble, en tonneaux d'affrètement, le tiers au moins de la jauge nette ou subi des réparations dont le coût excède 3 F par tonneau de jauge brute totale.
+2. Les escales ou relâches volontaires à l'étranger n'ont pas pour effet de modifier le caractère de ces opérations, à moins qu'il ne soit justifié qu'au cours desdites escales ou relâches, le navire remorqué a embarqué ou débarqué des marchandises représentant ensemble, en tonneaux d'affrètement, le tiers au moins de la jauge nette ou subi des réparations dont le coût excède 0,46 euro par tonneau de jauge brute totale.
 
 3. Toutefois, le pavillon étranger peut être admis à pratiquer les opérations de remorquage susvisées dans le cas où il n'existerait pas de remorqueur français disponible ou suffisant sur place ni dans les ports français plus proches que les ports d'attache des remorqueurs étrangers qui pourraient être requis.
 

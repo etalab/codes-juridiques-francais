@@ -2,7 +2,7 @@
 
 I. - En cas de poursuite pour infraction à l'obligation, édictée par l'article L. 322-3, de débroussailler ou de maintenir en état débroussaillé, le tribunal peut, après avoir déclaré le prévenu coupable, décider l'ajournement du prononcé de la peine contraventionnelle assorti d'une injonction de respecter ces dispositions.
 
-Il impartit un délai pour l'exécution des travaux nécessaires. L'injonction est assortie d'une astreinte dont il fixe le taux, qui ne peut être inférieur à 200 F et supérieur à 500 F par jour et par hectare soumis à l'obligation de débroussaillement. Il fixe également la durée maximale pendant laquelle cette astreinte est applicable.
+Il impartit un délai pour l'exécution des travaux nécessaires. L'injonction est assortie d'une astreinte dont il fixe le taux, qui ne peut être inférieur à 30,49 euros et supérieur à 76,22 euros par jour et par hectare soumis à l'obligation de débroussaillement. Il fixe également la durée maximale pendant laquelle cette astreinte est applicable.
 
 L'ajournement ne peut intervenir qu'une fois : il peut être ordonné même si le prévenu ne comparaît pas en personne. L'exécution provisoire de la décision d'ajournement avec injonction peut être ordonnée.
 
