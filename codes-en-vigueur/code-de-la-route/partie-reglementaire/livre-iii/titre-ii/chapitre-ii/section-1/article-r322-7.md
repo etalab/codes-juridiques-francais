@@ -4,6 +4,6 @@ En cas de changement de domicile ou d'établissement d'affectation et dans le mo
 
 Lorsqu'il s'agit d'un véhicule faisant l'objet soit d'un crédit-bail, soit d'un contrat de location de deux ans ou plus, la déclaration doit être adressée au préfet du département du nouveau domicile du locataire. Toutefois, pour tout véhicule affecté à titre principal à un établissement du locataire pour les besoins de cet établissement, la déclaration doit être adressée au préfet du département du nouvel établissement d'affectation.
 
-Pour l'accomplissement des formalités prévues au présent article, le propriétaire doit justifier de son identité et déclarer, selon le cas, son domicile ou l'adresse de l'établissement d'affectation ou de mise à disposition, ou celle du locataire, dans les conditions fixées par le ministre chargé des transports après avis du ministre de l'intérieur.
+Pour l'accomplissement des formalités prévues au présent article, le propriétaire doit justifier de son identité et, selon le cas, de son domicile ou de l'adresse de l'établissement d'affectation ou de mise à disposition, ou de celle du locataire, dans les conditions fixées par le ministre chargé des transports après avis du ministre de l'intérieur.
 
 Le fait, pour tout propriétaire, de ne pas effectuer la déclaration ou de ne pas respecter le délai prévu au présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.

@@ -1,6 +1,6 @@
 # Article R322-1
 
-Tout propriétaire d'un véhicule à moteur, d'une remorque dont le poids total autorisé en charge est supérieur à 500 kilogrammes ou d'une semi-remorque, qui souhaite le mettre en circulation pour la première fois, doit adresser au préfet du département de son domicile une demande de certificat d'immatriculation en justifiant de son identité et en déclarant son domicile.
+Tout propriétaire d'un véhicule à moteur, d'une remorque dont le poids total autorisé en charge est supérieur à 500 kilogrammes ou d'une semi-remorque, qui souhaite le mettre en circulation pour la première fois, doit adresser au préfet du département de son domicile une demande de certificat d'immatriculation en justifiant de son identité et de son domicile.
 
 Toutefois, lorsque le propriétaire est une personne morale ou une entreprise individuelle, la demande de certificat d'immatriculation doit être adressée au préfet du département de l'établissement inscrit au registre du commerce et des sociétés ou au répertoire des métiers, auquel le véhicule doit être affecté à titre principal pour les besoins de cet établissement. Le propriétaire doit justifier de son identité et de l'adresse de l'établissement d'affectation du véhicule.
 
