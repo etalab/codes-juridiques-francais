@@ -5,4 +5,3 @@
 - [CHAPITRE III : Camping et stationnement des caravanes.](chapitre-iii)
 - [Chapitre V : Remontées mécaniques et aménagements de domaine skiable.](chapitre-v)
 - [Article L441-1](article-l441-1.md)
-- [Article L441-4](article-l441-4.md)
