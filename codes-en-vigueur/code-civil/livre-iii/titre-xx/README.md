@@ -5,3 +5,4 @@
 - [Chapitre III : Des causes qui empêchent la prescription.](chapitre-iii)
 - [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.](chapitre-iv)
 - [Chapitre V : Du temps requis pour prescrire.](chapitre-v)
+- [Chapitre VI : De la protection possessoire.](chapitre-vi)
