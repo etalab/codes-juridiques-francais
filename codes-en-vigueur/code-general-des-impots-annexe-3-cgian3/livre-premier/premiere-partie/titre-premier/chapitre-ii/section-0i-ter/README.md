@@ -1,10 +1,13 @@
 # Section 0I ter : Déductions fiscales ou réductions d'impôt accordées au titre de certains investissements réalisés outre-mer
 
+- [Article 46 quaterdecies I](article-46-quaterdecies-i.md)
 - [Article 46 quaterdecies C](article-46-quaterdecies-c.md)
 - [Article 46 quaterdecies D](article-46-quaterdecies-d.md)
 - [Article 46 quaterdecies A](article-46-quaterdecies-a.md)
 - [Article 46 quaterdecies B](article-46-quaterdecies-b.md)
 - [Article 46 quaterdecies BA](article-46-quaterdecies-ba.md)
+- [Article 46 quaterdecies E](article-46-quaterdecies-e.md)
 - [Article 46 quaterdecies F](article-46-quaterdecies-f.md)
+- [Article 46 quaterdecies G](article-46-quaterdecies-g.md)
 - [Article 46 quaterdecies H](article-46-quaterdecies-h.md)
 - [*DOM - TVA*.](dom-tva)
