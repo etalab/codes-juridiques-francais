@@ -1,4 +1,3 @@
 # Section 3 : Contrats ou conventions pluriannuels
 
-- [Article R313-15](article-r313-15.md)
-- [Article R313-16](article-r313-16.md)
+- [Sous-section 2 : Modalités de tarification des établissements mentionnés au II de l'article L. 313-12.](sous-section-2)
