@@ -8,6 +8,7 @@
 - [Code du travail applicable à Mayotte.](code-du-travail-applicable-a-mayotte)
 - [Code général des impôts, CGI.](code-general-des-impots-cgi)
 - [Code de commerce](code-de-commerce)
+- [Code de déontologie des agents de police municipale.](code-de-deontologie-des-agents-de-police-municipale)
 - [Code de déontologie des architectes](code-de-deontologie-des-architectes)
 - [Code de justice administrative](code-de-justice-administrative)
 - [Code de l'artisanat](code-de-l-artisanat)
