@@ -2,4 +2,3 @@
 
 - [TITRE Ier : Règles générales](titre-ier)
 - [TITRE II : Dispositions propres à certaines catégories d'opérations](titre-ii)
-- [Règles générales](regles-generales)
