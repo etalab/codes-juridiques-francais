@@ -11,3 +11,7 @@ Lorsque ces scellés sont fermés, ils ne peuvent être ouverts et les documents
 Si les nécessités de l'instruction ne s'y opposent pas, copie ou photocopie des documents placés sous main de justice peuvent être délivrées à leurs frais, dans le plus bref délai, aux intéressés qui en font la demande.
 
 Si la saisie porte sur des espèces, lingots, effets ou valeurs dont la conservation en nature n'est pas nécessaire à la manifestation de la vérité ou à la sauvegarde des droits des parties, il peut autoriser le greffier à en faire le dépôt à la Caisse des dépôts et consignations ou à la Banque de France.
+
+Lorsque la saisie porte sur des billets de banque ou pièces de monnaie libellés en euros contrefaits, le juge d'instruction ou l'officier de police judiciaire par lui commis doit transmettre, pour analyse et identification, au moins un exemplaire de chaque type de billets ou pièces suspectés faux au centre d'analyse national habilité à cette fin. Le centre d'analyse national peut procéder à l'ouverture des scellés. Il en dresse inventaire dans un rapport qui doit mentionner toute ouverture ou réouverture des scellés. Lorsque les opérations sont terminées, le rapport et les scellés sont déposés entre les mains du greffier de la juridiction compétente. Ce dépôt est constaté par procès-verbal.
+
+Les dispositions du précédent alinéa ne sont pas applicables lorsqu'il n'existe qu'un seul exemplaire d'un type de billets ou de pièces suspectés faux, tant que celui-ci est nécessaire à la manifestation de la vérité.

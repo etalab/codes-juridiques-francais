@@ -13,3 +13,5 @@ Le niveau de la rémunération des parts sociales détenues par les sociétaires
 La création d'une société locale d'épargne doit être préalablement approuvée par la caisse d'épargne et de prévoyance à laquelle la société locale d'épargne est affiliée, ainsi que par la Caisse nationale des caisses d'épargne et de prévoyance.
 
 L'ensemble des sociétés locales d'épargne affiliées à chaque caisse d'épargne et de prévoyance constitue une seule entité pour l'application de l'article 145 du code général des impôts.
+
+Les dispositions de l'article 16 de la loi n° 47-1775 du 10 septembre 1947 précitée ne s'appliquent pas aux sociétés locales d'épargne.

@@ -1,4 +1,5 @@
 # Codes non en vigueur
 
+- [Code de la consommation](code-de-la-consommation)
 - [Code des marchés publics](code-des-marches-publics)
 - [Code général des collectivités territoriales](code-general-des-collectivites-territoriales)

@@ -6,7 +6,7 @@
 
 2° Les actes à caractère réglementaire pris par les autorités régionales dans les domaines qui relèvent de leur compétence en application de la loi ;
 
-3° Les conventions relatives aux marchés et aux emprunts ainsi que les conventions de concession ou d'affermage de services publics locaux à caractère industriel ou commercial ;
+3° Les conventions relatives aux marchés à l'exception des marchés passés sans formalité préalable en raison de leur montant, et aux emprunts ainsi que les conventions de concession ou d'affermage de services publics locaux à caractère industriel ou commercial ;
 
 4° Les décisions individuelles relatives à la nomination, à l'avancement de grade, à l'avancement d'échelon, aux sanctions soumises à l'avis du conseil de discipline et au licenciement d'agents de la région ;
 
