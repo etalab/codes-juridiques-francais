@@ -1,5 +1,6 @@
 # Chapitre Ier : Taxes intérieures.
 
+- [Article 265 bis](article-265-bis.md)
 - [Article 265 ter](article-265-ter.md)
 - [Article 265 A](article-265-a.md)
 - [Article 265 B](article-265-b.md)
