@@ -6,7 +6,7 @@
 
 2° De fixer, dans les limites déterminées par le conseil municipal, les tarifs des droits de voirie, de stationnement, de dépôt temporaire sur les voies et autres lieux publics et, d'une manière générale, des droits prévus au profit de la commune qui n'ont pas un caractère fiscal ;
 
-3° De procéder, dans les limites fixées par le conseil municipal, à la réalisation des emprunts destinés au financement des investissements prévus par le budget et de passer à cet effet les actes nécessaires ;
+3° De procéder, dans les limites fixées par le conseil municipal, à la réalisation des emprunts destinés au financement des investissements prévus par le budget, et aux opérations financières utiles à la gestion des emprunts, y compris les opérations de couvertures des risques de taux et de change, et de passer à cet effet les actes nécessaires ;
 
 4° De prendre toute décision concernant la préparation, la passation, l'exécution et le règlement des marchés de travaux, de fournitures et de services qui peuvent être passés sans formalités préalables en raison de leur montant, lorsque les crédits sont inscrits au budget ;.
 
