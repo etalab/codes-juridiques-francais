@@ -5,3 +5,4 @@
 - [Article 1180](article-1180.md)
 - [Article 1180-1](article-1180-1.md)
 - [Article 1180-2](article-1180-2.md)
+- [Article 1180-3](article-1180-3.md)
