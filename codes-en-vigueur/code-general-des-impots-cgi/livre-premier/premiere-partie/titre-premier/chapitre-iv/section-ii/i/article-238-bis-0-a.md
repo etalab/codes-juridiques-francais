@@ -20,12 +20,10 @@ En cas d'acquisition par l'entreprise lors d'une vente aux enchères publiques, 
 
 Lorsque le bien est transféré à l'Etat dans les conditions prévues au 1, le compte de provision spéciale est soldé par le crédit du compte d'immobilisation correspondant.
 
-6. Pendant cette période, le bien doit être exposé au public. Il peut être placé en dépôt auprès d'une région, d'un département, d'une commune, de leurs établissements publics ou d'un établissement public à caractère scientifique, culturel ou professionnel défini à l'article 24 de la loi n° 84-52 du 26 janvier 1984 sur l'enseignement supérieur. Une convention, passée entre le donateur, l'Etat et la collectivité ou l'établissement intéressé, détermine les conditions de dépôt.
+6. Pendant cette période, le bien doit être exposé au public. Il peut être placé en dépôt auprès d'une région, d'un département, d'une commune, de leurs établissements publics ou d'un établissement public à caractère scientifique, culturel ou professionnel défini à l'article L. 711-2 du code de l'éducation. Une convention, passée entre le donateur, l'Etat et la collectivité ou l'établissement intéressé, détermine les conditions de dépôt.
 
-7. Lorsque le tribunal prononce la liquidation judiciaire ou autorise la cession de l'entreprise en application des dispositions de la loi n° 85-98 du 25 janvier 1985 ((modifiée)) (M) relative au redressement et à la liquidation judiciaires des entreprises avant le terme prévu du délai fixé au 1, la propriété du bien est transférée à l'Etat.
+7. Lorsque le tribunal prononce la liquidation judiciaire ou autorise la cession de l'entreprise en application des dispositions du titre II du livre VI du code de commerce avant le terme prévu du délai fixé au 1, la propriété du bien est transférée à l'Etat.
 
 8. Lorsque la propriété du bien ne peut être transférée à l'Etat dans les conditions prévues au 1, et en dehors de l'hypothèse visée au 7, les sommes inscrites au compte de provision spéciale sont rapportées au résultat de l'exercice au cours duquel il apparaît que le bien ne peut plus être transféré.
 
 Dans ce cas, il est fait application de l'intérêt de retard prévu à l'article 1727, à compter de la date à laquelle les sommes ont été déduites.
-
-(M) Modification de la loi.

@@ -2,7 +2,7 @@
 
 Doivent acquitter la taxe sur les salaires visée à l'article 231 du code général des impôts, dans les conditions et délais et sous les sanctions prévus par les articles 1679, 1679 A, 1679 bis, 1727, 1728, 1729, 1731 et 1736 dudit code et 50, 51, 369 et le 1 de l'article 374, les organismes coopératifs, mutualistes et professionnels agricoles énumérés ci-après :
 
-Caisses de mutualité sociale agricole ainsi que les caisses d'assurances mutuelles agricoles constituées conformément à l'article 1235 du code rural ;
+Caisses de mutualité sociale agricole ainsi que les caisses d'assurances mutuelles agricoles constituées conformément à l'article L. 771-1 du code rural ;
 
 Caisses de crédit agricole mutuel ;
 

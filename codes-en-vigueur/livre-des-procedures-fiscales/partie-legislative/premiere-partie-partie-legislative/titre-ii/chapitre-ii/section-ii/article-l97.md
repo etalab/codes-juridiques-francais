@@ -10,7 +10,7 @@ Doivent adresser chaque année à l'administration des impôts un relevé récap
 
 4° Les caisses mutuelles régionales d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles ;
 
-5° Les sociétés et organismes qui assurent le service des prestations prévues par les articles 1234-1 à 1234-18 du code rural relatifs à l'assurance des personnes non salariées contre les accidents et les maladies professionnelles dans l'agriculture.
+5° Les sociétés et organismes qui assurent le service des prestations prévues par les articles L752-1 à L752-21 du code rural relatifs à l'assurance des personnes non salariées contre les accidents et les maladies professionnelles dans l'agriculture.
 
 Ce relevé mentionne, notamment, le montant des honoraires versés par les assurés aux praticiens.
 
