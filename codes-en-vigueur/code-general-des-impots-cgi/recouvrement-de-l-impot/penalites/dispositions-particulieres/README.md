@@ -48,5 +48,4 @@
 - [Article 1840 N sexies](article-1840-n-sexies.md)
 - [Article 1840 O](article-1840-o.md)
 - [Article 1840 R](article-1840-r.md)
-- [Article 1840 W](article-1840-w.md)
 - [Article 1840 W bis](article-1840-w-bis.md)
