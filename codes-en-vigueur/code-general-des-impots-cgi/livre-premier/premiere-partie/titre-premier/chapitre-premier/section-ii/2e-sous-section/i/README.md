@@ -15,6 +15,7 @@
 - [Article 163 bis](article-163-bis.md)
 - [Article 163 bis D](article-163-bis-d.md)
 - [Article 163 bis A](article-163-bis-a.md)
+- [Article 163 bis B](article-163-bis-b.md)
 - [Article 163 quinquies](article-163-quinquies.md)
 - [b : Détaxation du revenu investi en actions](b)
 - [Détaxation du revenu investi en actions](detaxation-du-revenu-investi-en-actions)
