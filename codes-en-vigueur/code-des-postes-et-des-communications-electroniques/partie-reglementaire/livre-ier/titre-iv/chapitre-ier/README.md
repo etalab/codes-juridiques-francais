@@ -11,6 +11,8 @@
 - [Article D66](article-d66.md)
 - [Article D67](article-d67.md)
 - [Article D68](article-d68.md)
+- [Article D69](article-d69.md)
+- [Article D70](article-d70.md)
 - [Article D71](article-d71.md)
 - [Article D72](article-d72.md)
 - [Article D73](article-d73.md)
