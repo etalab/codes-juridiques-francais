@@ -2,6 +2,7 @@
 
 - [1° : Imputation des retenues à la source et crédits d'impôt](1)
 - [11° : Réduction d'impôt accordée au titre des investissements immobiliers locatifs.](11)
+- [18° : Réduction d'impôt accordée au titre des dons faits par les particuliers](18)
 - [3° : Réduction d'impôt accordée au titre des cotisations versées aux organisations syndicales](3)
 - [9° : Réduction d'impôt accordée au titre de certaines primes d'assurances](9)
 - [Article 193](article-193.md)
