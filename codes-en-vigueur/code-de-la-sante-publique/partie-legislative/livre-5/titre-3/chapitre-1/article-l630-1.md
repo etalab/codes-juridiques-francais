@@ -5,3 +5,5 @@ Sans préjudice de l'application des articles 23 et suivants de l'ordonnance n°
 L'interdiction du territoire français entraîne de plein droit la reconduite du condamné à la frontière à l'expiration de sa peine.
 
 Le condamné sera dans tous les cas soumis aux dispositions des articles 27, 28 et 35 bis de l'ordonnance précitée.
+
+En cas de condamnation à l'interdiction définitive du territoire, le condamné ne pourra demander à bénéficier des dispositions de l'article 55-1 du code pénal.
