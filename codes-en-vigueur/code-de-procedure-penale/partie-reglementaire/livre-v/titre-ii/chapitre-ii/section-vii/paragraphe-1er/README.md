@@ -1,7 +1,5 @@
 # Paragraphe 1er : Dispositions communes
 
-- [Article D119](article-d119.md)
-- [Article D120](article-d120.md)
 - [Article D121](article-d121.md)
 - [Article D121-1](article-d121-1.md)
 - [Article D122](article-d122.md)
