@@ -5,3 +5,4 @@
 - [Article L140-3](article-l140-3.md)
 - [Article L140-4](article-l140-4.md)
 - [Article L140-5](article-l140-5.md)
+- [Article L140-6](article-l140-6.md)
