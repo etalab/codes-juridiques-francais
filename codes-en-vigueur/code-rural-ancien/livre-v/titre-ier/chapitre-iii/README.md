@@ -1,6 +1,5 @@
 # Chapitre III : Ressources.
 
-- [Article 645](article-645.md)
 - [Article 647](article-647.md)
 - [Article 648](article-648.md)
 - [Article 649](article-649.md)
