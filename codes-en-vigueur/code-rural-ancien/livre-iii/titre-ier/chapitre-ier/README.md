@@ -1,5 +1,6 @@
 # Chapitre Ier : De l'exercice du droit de chasse.
 
+- [Article 365](article-365.md)
 - [Article 366 ter](article-366-ter.md)
 - [Article 371](article-371.md)
 - [Article 371-1](article-371-1.md)
