@@ -4,6 +4,7 @@
 - [Article 932](article-932.md)
 - [Article 933](article-933.md)
 - [Article 934](article-934.md)
+- [Article 936](article-936.md)
 - [Article 938](article-938.md)
 - [Article 940](article-940.md)
 - [Article 941](article-941.md)
