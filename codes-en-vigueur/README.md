@@ -4,6 +4,7 @@
 - [Code général des impôts, CGI.](code-general-des-impots-cgi)
 - [Code de l'artisanat](code-de-l-artisanat)
 - [Code de la santé publique](code-de-la-sante-publique)
+- [Code de procédure pénale](code-de-procedure-penale)
 - [Code des douanes](code-des-douanes)
 - [Code du travail maritime](code-du-travail-maritime)
 - [Code minier](code-minier)

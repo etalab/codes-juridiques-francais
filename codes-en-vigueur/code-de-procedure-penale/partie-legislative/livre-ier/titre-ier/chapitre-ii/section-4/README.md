@@ -1,0 +1,3 @@
+# Section 4 : Du ministère public près le tribunal de police
+
+- [Article 47](article-47.md)
