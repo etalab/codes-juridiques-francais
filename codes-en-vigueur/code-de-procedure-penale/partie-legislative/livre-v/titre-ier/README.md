@@ -2,7 +2,6 @@
 
 - [Chapitre Ier : Dispositions générales](chapitre-ier)
 - [Article 707](article-707.md)
-- [Article 708](article-708.md)
 - [Article 713-1](article-713-1.md)
 - [Article 713-2](article-713-2.md)
 - [Article 713-3](article-713-3.md)
