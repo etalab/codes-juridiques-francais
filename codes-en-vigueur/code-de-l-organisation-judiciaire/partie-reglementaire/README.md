@@ -8,4 +8,3 @@
 - [Livre VI : Les juridictions pénales](livre-vi)
 - [Livre VII : Dispositions communes à plusieurs juridictions](livre-vii)
 - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats](livre-viii)
-- [Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance.](livre-ix)
