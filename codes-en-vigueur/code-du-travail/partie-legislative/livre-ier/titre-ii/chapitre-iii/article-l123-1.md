@@ -8,6 +8,8 @@ b) Refuser d'embaucher une personne, prononcer une mutation, résilier ou refuse
 
 c) Prendre en considération du sexe toute mesure, notamment en matière de rémunération, de formation, d'affectation, de qualification, de classification, de promotion professionnelle ou de mutation.
 
+En cas de litige relatif à l'application du présent article, le salarié concerné ou le candidat à un recrutement présente des éléments de fait laissant supposer l'existence d'une discrimination, directe ou indirecte, fondée sur le sexe ou la situation de famille. Au vu de ces éléments, il incombe à la partie défenderesse de prouver que sa décision est justifiée par des éléments objectifs étrangers à toute discrimination. Le juge forme sa conviction après avoir ordonné, en cas de besoin, toutes les mesures d'instruction qu'il estime utiles.
+
 Un décret en Conseil d'Etat détermine, après avis des organisations d'employeurs et de salariés les plus représentatives au niveau national, la liste des emplois et des activités professionnelles pour l'exercice desquels l'appartenance à l'un ou l'autre sexe constitue la condition déterminante. Cette liste est révisée périodiquement dans les mêmes formes.
 
 Nul ne peut prendre en considération le fait que la personne intéressée a subi ou refusé de subir les agissements définis à l'article L. 122-46, ou bien a témoigné de tels agissements [*harcèlement sexuel*] ou les a relatés, pour décider, notamment en matière d'embauche, de rémunération, de formation, d'affectation, de qualification, de classification, de promotion professionnelle, de mutation, de résiliation, de renouvellement de contrat de travail ou de sanctions disciplinaires.
