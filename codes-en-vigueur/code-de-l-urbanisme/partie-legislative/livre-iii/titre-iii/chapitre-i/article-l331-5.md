@@ -1,0 +1,3 @@
+# Article L331-5
+
+Il est ouvert au compte spécial de commerce "Fonds national d'aménagement foncier et d'urbanisme" une section C intitulée "Réserves foncières" destinée à retracer le financement des acquisitions de terrains dans les zones d'aménagement différé instituées par les articles L. 212-1 et suivants ainsi que le préfinancement des acquisitions d'immeubles ou d'ensembles de droits sociaux donnant vocation à l'attribution en propriété ou en jouissance d'un immeuble ou d'une partie d'immeuble dans les zones d'intervention foncière instituées en application des articles L. 211-1 et L. 211-13 ou au titre des emplacements réservés visés à l'article L. 123-9.

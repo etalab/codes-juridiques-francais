@@ -1,0 +1,3 @@
+# Article L317-10
+
+Dans les communes où, en vertu des contrats en vigueur, l'extension des canalisations d'eau potable et de gaz et des réseaux d'électricité sur les voies publiques incombe aux compagnies concessionnaires, si les travaux correspondant à cette extension sont exécutés, sur les voies privées, aux frais des associations syndicales, les compagnies concessionnaires versent entre les mains du receveur de l'association syndicale une contribution annuelle destinée à assurer l'amortissement de la dépense. Cette contribution est de 10 p. 100 [*taux*] du montant des sommes dues par les usagers.
