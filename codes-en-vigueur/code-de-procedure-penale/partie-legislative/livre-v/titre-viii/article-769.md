@@ -6,7 +6,7 @@ Sont retirées du casier judiciaire les fiches relatives à des condamnations ef
 
 Sont également retirés du casier judiciaire :
 
-1° Les jugements prononçant la faillite personnelle ou l'interdiction prévue par l'article 192 de la loi n° 85-98 du 25 janvier 1985 précitée lorsque ces mesures sont effacées par un jugement de clôture pour extinction du passif, par la réhabilitation ou à l'expiration du délai de cinq ans à compter du jour où ces condamnations sont devenues définitives ainsi que le jugement prononçant la liquidation judiciaire à l'égard d'une personne physique, à l'expiration d'un délai de cinq ans à compter du jour où ce jugement est devenu définitif ou après le prononcé d'un jugement de clôture pour extinction du passif.
+1° Les jugements prononçant la faillite personnelle ou l'interdiction prévue par l'article 192 de la loi n° 85-98 du 25 janvier 1985 précitée lorsque ces mesures sont effacées par un jugement de clôture pour extinction du passif, par la réhabilitation ou à l'expiration du délai de cinq ans à compter du jour où ces condamnations sont devenues définitives ainsi que le jugement prononçant la liquidation judiciaire à l'égard d'une personne physique, à l'expiration d'un délai de cinq ans à compter du jour où ce jugement est devenu définitif ou après le prononcé d'un jugement emportant réhabilitation.
 
 Toutefois, si la durée de la faillite personnelle ou de l'interdiction est supérieure à cinq ans, la condamnation relative à ces mesures demeure mentionnée sur les fiches du casier judiciaire pendant la même durée ;
 
