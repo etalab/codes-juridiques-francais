@@ -20,7 +20,7 @@ b) Les recettes suivantes :
 
 2° Le produit de la taxe sur la publicité frappant les affiches, réclames et enseignes lumineuses, de la taxe sur les véhicules publicitaires et de la taxe sur les emplacements publicitaires fixes ;
 
-3° Dans les communes visées à l'article L. 2333-26, le produit de la taxe de séjour ou de la taxe de séjour forfaitaire, de la taxe sur les entreprises spécialement intéressées à la prospérité de la station ;
+3° Dans les communes visées à l'article L. 2333-26, le produit de la taxe de séjour ou de la taxe de séjour forfaitaire ;
 
 4° Le produit de la taxe sur les remontées mécaniques ;
 

@@ -1,6 +1,6 @@
 # Article L342-2
 
-Sans préjudice des dispositions particulières prévues au troisième alinéa de l'article L. 214-36, le démarchage en vue d'opérations sur valeurs mobilières n'est autorisé que dans les limites et sous les conditions prévues par le présent chapitre.
+Sans préjudice des dispositions particulières prévues au huitième alinéa de l'article L. 214-36, le démarchage en vue d'opérations sur valeurs mobilières n'est autorisé que dans les limites et sous les conditions prévues par le présent chapitre.
 
 Constitue une activité de démarchage le fait de se rendre habituellement au domicile ou à la résidence des personnes, ou sur leurs lieux de travail, ou dans des lieux publics, en vue de conseiller la souscription, l'achat, l'échange ou la vente de valeurs mobilières ou une participation à des opérations sur ces valeurs.
 
