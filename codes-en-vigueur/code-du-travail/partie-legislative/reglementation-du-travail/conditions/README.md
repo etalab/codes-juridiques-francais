@@ -1,3 +1,0 @@
-# CONDITIONS
-
-- [DUREE](duree)
