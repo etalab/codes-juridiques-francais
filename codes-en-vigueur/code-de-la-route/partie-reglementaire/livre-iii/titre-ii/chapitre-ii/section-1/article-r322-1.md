@@ -8,8 +8,6 @@ Pour un véhicule de location, la demande de certificat d'immatriculation doit �
 
 Pour un véhicule faisant l'objet soit d'un contrat de crédit-bail, soit d'un contrat de location de deux ans ou plus, la demande de certificat d'immatriculation doit être adressée au préfet du département du domicile du locataire. Toutefois, lorsque ce véhicule doit être affecté à titre principal à un établissement du locataire pour les besoins de cet établissement, la demande doit être adressée au préfet du département de cet établissement. Le propriétaire doit justifier de son identité et déclarer, selon le cas, l'adresse du domicile du locataire ou celle de l'établissement d'affectation.
 
-Les dispositions du présent article ne sont applicables ni aux cyclomoteurs à trois roues non munis d'une carrosserie ni aux cyclomoteurs à deux roues.
-
 Les dispositions du présent article ne sont pas applicables aux machines agricoles automotrices et aux véhicules ou appareils agricoles remorqués, appartenant à une exploitation agricole, à une entreprise de travaux agricoles ou à une coopérative d'utilisation de matériel agricole, ainsi qu'aux véhicules ou appareils agricoles remorqués dont le poids total en charge est inférieur à 1,5 tonne.
 
 Un arrêté du ministre chargé des transports, pris après avis du ministre de l'intérieur, fixe les conditions d'application du présent article.

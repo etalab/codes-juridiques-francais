@@ -2,7 +2,7 @@
 
 I. - Il est interdit d'administrer, de mettre sur le marché, d'introduire sur le territoire métropolitain ou dans les départements d'outre-mer et de détenir, en vue d'administrer, même dans un but thérapeutique, aux animaux des espèces dont la chair ou les produits sont destinés à l'alimentation humaine, des produits contenant des stilbènes, leurs dérivés, sels ou esters, ainsi que les substances à action thyréostatique.
 
-II. - Il est interdit de mettre sur le marché ou d'introduire sur le territoire métropolitain ou dans les départements d'outre-mer, pour des animaux des espèces dont la chair ou les produits sont destinés à l'alimentation humaine, ou d'administrer à de tels animaux des substances à activité anabolisante, anticatabolisante ou bêta-agoniste.
+II. - Il est interdit de mettre sur le marché ou d'introduire sur le territoire métropolitain ou dans les départements d'outre-mer, pour des animaux des espèces dont la chair ou les produits sont destinés à l'alimentation humaine, ou d'administrer à de tels animaux des substances à activité anabolisante, anticatabolisante ou bêta-agoniste. Il est interdit aux personnes ayant la garde de ces animaux de détenir sans justification ces substances.
 
 Toutefois, certaines de ces substances peuvent, dans des conditions fixées par décret, entrer dans la composition de médicaments vétérinaires satisfaisant aux conditions prévues au titre IV du livre Ier de la cinquième partie du code de la santé publique. L'administration de ces médicaments est subordonnée à des conditions particulières ; elle ne peut être effectuée que par ou sous la responsabilité d'un vétérinaire ayant satisfait aux obligations prévues à l'article L. 241-1.
 

@@ -1,6 +1,6 @@
 # Article L234-3
 
-En cas de non-respect des dispositions de l'article L. 234-2, ainsi qu'en cas d'administration aux animaux des espèces dont la chair ou les produits sont destinés à la consommation humaine, d'une substance ou composition relevant de l'article L. 5144-1 du code de la santé publique qui bénéficie d'une autorisation au titre des réglementations relatives aux médicaments vétérinaires ou aux substances destinées à l'alimentation animale, sans respect des conditions prévues respectivement au V de l'article L. 234-2 ou par décret, les vétérinaires inspecteurs habilités en vertu de l'article L. 231-2 peuvent ordonner l'exécution de tout ou partie des mesures suivantes :
+En cas de non-respect des dispositions de l'article L. 234-2, ainsi qu'en cas d'administration aux animaux des espèces dont la chair ou les produits sont destinés à la consommation humaine, d'une substance ou composition relevant de l'article L. 5144-1 du code de la santé publique qui bénéficie d'une autorisation au titre des réglementations relatives aux médicaments vétérinaires ou aux substances destinées à l'alimentation animale, sans respect des conditions prévues respectivement au VI de l'article L. 234-2 ou par décret, les vétérinaires inspecteurs habilités en vertu de l'article L. 231-2 peuvent ordonner l'exécution de tout ou partie des mesures suivantes :
 
 1° La séquestration, le recensement, le marquage de tout ou partie des animaux de l'exploitation ;
 
