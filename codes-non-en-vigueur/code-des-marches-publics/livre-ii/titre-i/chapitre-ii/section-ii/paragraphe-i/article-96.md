@@ -8,4 +8,4 @@ La séance d'ouverture des plis contenant les offres n'est pas publique ; les ca
 
 Seuls peuvent être ouverts les plis qui ont été reçus dans les conditions fixées à l'article 95 au plus tard à la date limite qui a été fixée pour la réception des offres.
 
-Les offres contenues dans l'enveloppe intérieure, qui est alors ouverte sont enregistrées dans toutes leurs parties essentielles y compris les pièces jointes. La commission dresse un procès-verbal des opérations d'ouverture, qui ne peut être rendu public, ni communiqué à aucun candidat.
+Les offres contenues dans l'enveloppe intérieure, qui est alors ouverte sont enregistrées dans toutes leurs parties essentielles y compris les pièces jointes. La commission dresse un procès-verbal des opérations d'ouverture, qui ne peut être rendu public, ni communiqué à aucun candidat. Le cas échéant, sont également prises en considération et enregistrées au procès-verbal les offres reçues dans les conditions autorisées par le règlement de la consultation.

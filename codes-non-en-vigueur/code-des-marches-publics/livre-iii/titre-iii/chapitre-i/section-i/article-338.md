@@ -1,6 +1,6 @@
 # Article 338
 
-Le remboursement de l'avance forfaitaire visée à l'article 336 commence lorsque le montant des sommes nettes mandatées au titre du marché atteint ou dépasse soixante-dix pour cent de son montant initial. Il doit être terminé lorsque le montant des sommes nettes mandatées atteint quatre-vingts pour cent.
+Le remboursement de l'avance forfaitaire visée à l'article 336, effectué par précompte sur les sommes dues ultérieurement au titulaire à titre d'acomptes ou de solde, commence lorsque le montant des prestations exécutées au titre du marché atteint ou dépasse 65 p. 100 de son montant initial. Il doit être terminé lorsque le montant des prestations exécutées atteint 80 p. 100.
 
 Les avances visées à l'article 337 sont remboursées à un rythme qui peut être fixé par le marché, par précompte sur les sommes dues ultérieurement au titulaire à titre d'acomptes ou de solde. Le rythme de remboursement tient compte de la proportion dans la partie du marché déjà exécutée des éléments ayant donné lieu à avances.
 

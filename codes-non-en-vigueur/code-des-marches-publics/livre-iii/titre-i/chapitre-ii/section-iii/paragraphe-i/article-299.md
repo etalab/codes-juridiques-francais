@@ -1,6 +1,6 @@
 # Article 299
 
-Les plis contenant les offres sont ouverts par une commission composée comme le bureau d'adjudication visé par l'article 282. Le président de la commission désigne en outre les personnalités qui seront appelées à y siéger en raison de leur compétence établie dans la matière qui fait l'objet de l'appel d'offres. Ces personnalités ont voix consultative.
+Les plis contenant les offres sont ouverts par une commission composée comme le bureau d'adjudication visé par l'article 282. Le président de la commission désigne en outre les personnalités qui seront appelées à y siéger en raison de leur compétence établie dans la matière qui fait l'objet de l'appel d'offres. Ces personnalités ont voix consultative. Le cas échéant, sont également prises en considération et enregistrées au procès-verbal les offres reçues dans les conditions autorisées par le règlement de la consultation.
 
 Pour les établissements d'hospitalisation publics et les hospices publics, ces personnalités ont voix délibérative. De plus, la composition de la commission est soumise à l'approbation du représentant de l'Etat qui peut prescrire la désignation de membres choisis par lui ou récuser un ou des membres proposés.
 
