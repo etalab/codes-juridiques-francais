@@ -7,3 +7,5 @@ En outre, le tribunal pourra prononcer la confiscation des objets sur lesquels a
 Le tribunal pourra prononcer à l'encontre de la personne condamnée l'exclusion des marchés publics pour une durée de cinq ans au plus.
 
 En cas de récidive, les peines d'emprisonnement et d'amende peuvent être portées au double.
+
+Toutefois, en cas de travail clandestin d'un mineur soumis à l'obligation scolaire, les peines encourues sont de cinq ans d'emprisonnement et de 75000 euros d'amende.
