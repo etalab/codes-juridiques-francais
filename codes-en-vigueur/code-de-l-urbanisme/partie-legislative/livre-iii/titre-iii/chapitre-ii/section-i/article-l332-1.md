@@ -8,7 +8,9 @@ a) En cas d'application du 5° de l'article L. 123-1 ;
 
 b) Dans les zones urbaines, lorsque le dépassement est justifié par des prescriptions d'urbanisme ou d'architecture et que, avec l'accord de l'autorité administrative, les propriétaires des terrains voisins acceptent de transférer une quantité de leurs possibilités de construction équivalente au dépassement en cause ;
 
-c) Lorsque le propriétaire a obtenu le transfert des possibilités de construction prévu à l'article L. 123-2.
+c) Lorsque le propriétaire a obtenu le transfert des possibilités de construction prévu à l'article L. 123-2 ;
+
+d) Lorsque le conseil municipal a décidé de les exonérer, les travaux portant sur des logements à usage locatif construits avec le concours financier de l'Etat en application du 3° de l'article L. 351-2 du code de la construction et de l'habitation destinés aux personnes défavorisées mentionnées à l'article 1er de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement et faisant l'objet d'un permis de construire délivré entre la date de publication de la loi n° 98-657 du 29 juillet 1998 d'orientation relative à la lutte contre les exclusions et le 31 décembre 2002.
 
 Pour les parcelles grevées d'inscriptions de privilèges ou d'hypothèques, le transfert des possibilités de construction prévu au b et c de l'alinéa précédent, ne peut intervenir qu'après radiation de ces inscriptions, en tant qu'elles grèvent lesdites possibilités de construction ; cette radiation ne peut être faite qu'avec l'accord des créanciers.
 

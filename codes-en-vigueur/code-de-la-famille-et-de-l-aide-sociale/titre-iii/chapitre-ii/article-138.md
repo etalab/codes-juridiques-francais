@@ -12,6 +12,6 @@ Les membres élus et les membres nommés le sont en nombre égal au sein du cons
 
 Les membres élus par le conseil municipal ou par l'organe délibérant de l'établissement public de coopération intercommunale et les membres nommés par le maire ou le président de l'établissement public de coopération intercommunale le sont à la suite de chaque renouvellement du conseil municipal et pour la durée du mandat de ce conseil. Leur mandat est renouvelable.
 
-Au nombre des membres nommés doivent figurer un représentant des associations familiales désigné sur proposition de l'union départementale des associations familiales, un représentant des associations de retraités et de personnes âgées du département et un représentant des associations de personnes handicapées du département.
+Au nombre des membres nommés doivent figurer un représentant des associations qui oeuvrent dans le domaine de l'insertion et de la lutte contre les exclusions, un représentant des associations familiales désigné sur proposition de l'union départementale des associations familiales, un représentant des associations de retraités et de personnes âgées du département et un représentant des associations de personnes handicapées du département.
 
 Sauf disposition contraire, les modalités et conditions d'application des articles 136 à 140 du présent code sont fixées par décret en Conseil d'Etat.
