@@ -10,6 +10,6 @@ Ils assurent le financement de la rémunération des stagiaires mentionnés à l
 
 Un décret en Conseil d'Etat détermine les conditions et les modalités de calcul et de versement de ces rémunérations. Leur gestion peut être confiée par voie de convention à un établissement public de l'Etat à caractère administratif, aux institutions mentionnées à l'article L. 351-21 ou à l'Association nationale pour la formation professionnelle des adultes.
 
-Le même décret détermine les mesures d'adaptation nécessaires à l'application des règles de l'alinéa précédent au cas des stagiaires à temps partiel.
+Le même décret détermine les mesures d'adaptation nécessaires à l'application des règles de l'alinéa précédent au cas des stagiaires à temps partiel et des stagiaires suivant un enseignement à distance.
 
 L'Etat et les régions peuvent participer, en outre, dans les conditions prévues à l'article L. 931-11, à la rémunération des stagiaires bénéficiant d'un congé individuel de formation.
