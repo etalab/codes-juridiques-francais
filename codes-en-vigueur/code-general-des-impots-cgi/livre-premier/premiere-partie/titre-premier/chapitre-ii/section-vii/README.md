@@ -5,4 +5,5 @@
 - [Article 223 bis](article-223-bis.md)
 - [Article 223 ter](article-223-ter.md)
 - [Article 223 quater](article-223-quater.md)
+- [Article 223 quinquies](article-223-quinquies.md)
 - [Article 223 quinquies A](article-223-quinquies-a.md)
