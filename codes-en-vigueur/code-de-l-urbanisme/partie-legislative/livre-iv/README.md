@@ -6,5 +6,4 @@
 - [TITRE IV : dispositions relatives aux modes particuliers            d'utilisation du sol.&lt;F&gt; CHAPITRE I : Autorisations de clôture.](titre-iv)
 - [TITRE V :Dispositions diverses](titre-v)
 - [Titre VI : Contrôle.](titre-vi)
-- [Titre VII : Départements d'outre-mer.](titre-vii)
 - [Titre VIII : Infractions.](titre-viii)
