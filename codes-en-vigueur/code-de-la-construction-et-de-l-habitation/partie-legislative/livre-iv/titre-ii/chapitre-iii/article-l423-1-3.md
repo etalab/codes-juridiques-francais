@@ -1,6 +1,6 @@
 # Article L423-1-3
 
-Les conseils d'administration ou les conseils de surveillance des sociétés créées en application de l'article L. 423-1-1 comprennent des représentants des locataires des logements gérés par elles et appartenant à leurs actionnaires, élus selon les dispositions communes aux organismes publics et aux sociétés anonymes d'habitations à loyer modéré prévues aux quatrième et cinquième alinéas de l'article L. 422-2-1.
+Les conseils d'administration ou les conseils de surveillance des sociétés créées en application de l'article L. 423-1-1 comprennent des représentants des locataires des logements gérés par elles et appartenant à leurs actionnaires, élus selon les dispositions communes aux organismes publics et aux sociétés anonymes d'habitations à loyer modéré prévues au quatrième alinéa de l'article L. 422-2-1.
 
 A cet effet et par dérogation aux articles L. 225-17 et L. 225-69 du code de commerce, le nombre des membres du conseil d'administration ou du conseil de surveillance peut excéder de deux le nombre d'administrateurs ou de membres du conseil de surveillance fixé par ces articles.
 
