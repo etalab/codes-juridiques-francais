@@ -1,5 +1,7 @@
 # Article R188
 
-Le terme cyclomoteur désigne tout véhicule pourvu d'un moteur thermique auxiliaire d'une cylindrée n'excédant pas 50 centimètres cubes, possédant les caractéristiques normales des cycles quant à leurs possibilités d'emploi et dont la vitesse de marche ne peut excéder par construction 45 kilomètres à l'heure. Les cyclomoteurs à deux roues ne doivent posséder ni embrayage ni boîte de vitesses non automatiques (1).
+Le terme "cyclomoteur" désigne tout véhicule à deux ou trois roues équipé d'un moteur d'une cylindrée ne dépassant pas 50 centimètres cubes s'il est à combustion interne (ou d'une puissance maximale nette n'excédant pas quatre kilowatts pour les autres types de moteur), et ayant une vitesse maximale par construction ne dépassant pas quarante-cinq kilomètres à l'heure.
 
-Un arrêté du ministre des transports et du ministre de l'industrie définit les conditions d'application et de contrôle des dispositions du présent article et fixe ses délais d'application.
+La largeur des cyclomoteurs à deux roues ne peut excéder un mètre. Le poids à vide des cyclomoteurs à trois roues ne peut excéder 270 kilogrammes et leur charge utile ne peut excéder 300 kilogrammes.
+
+Le ministre chargé des transports fixe par arrêté les conditions d'application du présent article.

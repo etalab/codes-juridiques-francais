@@ -1,7 +1,11 @@
 # Article R196
 
-En outre, tout cycle ou cyclomoteur doit être muni, de jour et de nuit, d'un ou plusieurs dispositifs réfléchissants de couleur rouge visibles de l'arrière et de dispositifs réfléchissants visibles latéralement.
+Tout cycle doit être muni, de jour comme de nuit, d'un ou    de plusieurs dispositifs réfléchissants de couleur rouge visibles de l'arrière et de dispositifs réfléchissants visibles latéralement.
 
-Les pédales des cycles doivent également comporter des dispositifs réfléchissants de couleur orange.
+Tout cyclomoteur ou quadricycle léger à moteur doit être muni d'un ou de deux catadioptres arrière non triangulaires. Les cyclomoteurs à trois roues et quadricycles légers à moteur dont la largeur dépasse un mètre doivent être munis de deux catadioptres arrière non triangulaires.
 
-Un arrêté du ministre de l'équipement et de l'aménagement du territoire fixe les caractéristiques et les conditions d'installation de ces dispositifs.
+Tout cyclomoteur à deux roues doit être muni d'un ou de deux catadioptres latéraux non triangulaires. Les cyclomoteurs à trois roues et quadricycles légers à moteur peuvent être munis de tels catadioptres.
+
+Les pédales des cycles doivent comporter des dispositifs réfléchissants orange. Les pédales des cyclomoteurs et quadricycles légers doivent comporter des catadioptres, sauf dans le cas des cyclomoteurs à deux roues à pédales rétractables.
+
+Le ministre chargé des transports fixe par arrêté les conditions d'application du présent article.

@@ -1,7 +1,15 @@
 # Article R182
 
-Les dispositions des articles R. 97, R. 99 et R. 102 du présent code sont applicables aux véhicules visés au présent titre.
+Tout véhicule visé au présent titre doit porter d'une manière apparente sur une plaque, dite plaque du constructeur, les indications suivantes :
 
-Toutefois, la plaque de constructeur prévue à l'article R. 97 ne porte pas obligatoirement l'indication du poids total autorisé en charge (P.T.A.C.) mais elle doit comporter l'indication de la catégorie à laquelle le véhicule appartient, dans des conditions fixées par arrêté du ministre chargé des transports.
+- le nom du constructeur ;
 
-En outre, ces véhicules ne portent qu'une plaque d'immatriculation placée à l'arrière.
+- la marque de réception ;
+
+- le numéro d'identification ;
+
+- le niveau sonore à l'arrêt et le régime moteur correspondant.
+
+Le numéro d'identification doit être frappé à froid de façon à être facilement lisible à un endroit accessible du châssis ou du cadre, sur la partie droite du véhicule.
+
+Le ministre chargé des transports fixe par arrêté les conditions d'application du présent article.
