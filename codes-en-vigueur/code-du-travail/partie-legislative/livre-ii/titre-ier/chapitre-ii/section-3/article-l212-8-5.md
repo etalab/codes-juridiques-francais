@@ -5,5 +5,3 @@ Par dérogation aux dispositions des articles L. 143-2 et L. 144-2, une conventi
 Toutefois, lorsque les heures supplémentaires sont effectuées au-delà des limites prévues par la convention ou l'accord collectif étendu ou par la convention ou l'accord d'entreprise ou d'établissement mentionnés à l'alinéa ci-dessus, les rémunérations correspondantes sont payées avec le salaire du mois considéré.
 
 En cas de rupture du contrat de travail pour motif économique intervenant après ou pendant une période de modulation, le salarié conserve le supplément de rémunération qu'il a, le cas échéant, perçu par rapport au nombre d'heures effectivement travaillées.
-
-Les dispositions du présent article sont applicables aux salariés [*agricoles*] mentionnés à l'article 1144 (1° à 7° et 10°) du code rural.
