@@ -1,10 +1,10 @@
 # Article L122-3-1
 
-Le contrat de travail à durée déterminée doit être établi par écrit [*condition de forme*] et comporter la définition précise de son motif [*mention obligatoire*] ; à défaut, il est réputé conclu pour une durée indéterminée.
+Le contrat de travail à durée déterminée doit être établi par écrit et comporter la définition précise de son motif ; à défaut, il est réputé conclu pour une durée indéterminée.
 
 Il doit, notamment, comporter :
 
-- le nom et la qualification du salarié remplacé lorsqu'il est conclu au titre du 1° de l'article L. 122-1-1 ;
+- le nom et la qualification de la personne remplacée lorsqu'il est conclu au titre du 1° de l'article L. 122-1-1 ;
 
 - la date d'échéance du terme et, le cas échéant, une clause de renouvellement lorsqu'il comporte un terme précis ;
 
@@ -20,4 +20,4 @@ Il doit, notamment, comporter :
 
 - le nom et l'adresse de la caisse de retraite complémentaire ainsi que, le cas échéant, ceux de l'organisme de prévoyance.
 
-Le contrat de travail doit être transmis au salarié, au plus tard dans les deux jours suivant l'embauche [*délai*].
+Le contrat de travail doit être transmis au salarié, au plus tard dans les deux jours suivant l'embauche.
