@@ -6,7 +6,6 @@
 - [Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et la société mixte de construction.](convention-type-conclue-en-application-de-l-article-l)
 - [Clauses types des statuts des sociétés anonymes de coordination d'organismes d'habitations à loyer modéré.](clauses-types-des-statuts-des-societes-anonymes-de-coordination-d-organismes-d-habitations-a)
 - [Engagements de portée générale applicables à tout programme conventionné.](engagements-de-portee-generale-applicables-a)
-- [Statuts types d'une société anonyme coopérative de production d'habitations à loyer modéré.](statuts-types-d-une-societe-anonyme-cooperative-de-production-d-habitations-a)
 - [Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution.](statuts-types-des-societes-anonymes-cooperatives-d-habitations-a)
 - [Statuts types des sociétés anonymes d'habitations à loyer modéré.](statuts-types-des-societes-anonymes-d-habitations-a)
 - [Clauses types applicables aux sociétés immobilières locatives mentionnées à l'article L. 313-1-2.](clauses-types-applicables-aux)
