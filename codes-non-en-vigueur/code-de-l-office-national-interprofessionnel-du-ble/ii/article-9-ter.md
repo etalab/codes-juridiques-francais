@@ -1,0 +1,7 @@
+# Article 9 ter
+
+A partir du 1er juillet de chaque année, tous les blés livrés aux organismes stockeurs de la métropole seront réputés être des blés de la nouvelle récolte. Ces blés seront réglés, jusqu'à la fixation du prix nouveau, dans les conditions indiquées à l'article 6 en ce qui concerne les livraisons aux négociants, et à l'article 17, en ce qui concerne les livraisons aux coopératives et organismes assimilés. Toutefois, les dispositions du présent alinéa ne sont pas applicables aux blés placés avant le 1er juillet sous le régime des livraisons différées et livrés après cette date aux coopératives et organismes assimilés. A titre transitoire, la date du 1er août est substituée à celle du 1er juillet pour l'application du présent alinéa à l'année 1938.
+
+Jusqu'à ce qu'ait été le prix nouveau, les organismes stockeurs ne pourront vendre aux industries utilisatrices les blés de la nouvelle récolte. Cette interdiction s'appliquera en ce qui concerne les coopératives de meunerie, aux farines provenant de la mouture desdits blés. Au cas où le ravitaillement des industries utilisatrices ne pourrait être assuré à l'aide des blés anciens, le stock constitué en application de l'article 15 bis ci-après sera mis sur le marché dans la mesure nécessaire pour effectuer la soudure.
+
+Toute infraction aux dispositions dudit article et des décrets rendus pour son application sera punie de l'amende prévue à l'avant-dernier alinéa de l'article 10 bis du présent code.
