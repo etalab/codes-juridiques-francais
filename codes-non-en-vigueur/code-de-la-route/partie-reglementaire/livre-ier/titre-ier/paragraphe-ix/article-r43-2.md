@@ -12,7 +12,7 @@ Sauf les exceptions prévues à l'article R. 43-4, l'accès des autoroutes est i
 
 5° Des véhicules à traction non mécanique ;
 
-6° Des cyclomoteurs soumis ou non à immatriculation et de tous autres véhicules à propulsion mécanique non soumis à immatriculation.
+6° Des cyclomoteurs soumis ou non à immatriculation et de tous autres véhicules à propulsion mécanique non soumis à immatriculation ;
 
 7° Des ensembles de véhicules qui, d'après l'article R. 47, ne peuvent circuler sans autorisation spéciale ;
 
@@ -20,6 +20,8 @@ Sauf les exceptions prévues à l'article R. 43-4, l'accès des autoroutes est i
 
 9° Des tracteurs et matériels agricoles et des matériels de travaux publics visés à l'article R. 138 ;
 
-10° Des véhicules automobiles ou ensembles de véhicules qui ne seraient pas, par construction, capables d'atteindre en palier une vitesse minimum de 40 kilomètres/heure.
+10° Des véhicules automobiles ou ensembles de véhicules qui ne seraient pas, par construction, capables d'atteindre en palier une vitesse minimum de 40 kilomètres/heure ;
 
-11° Des tricycles et quadricycles à moteur.
+11° Des tricycles à moteur dont la puissance n'excède pas 15 kilowatts et dont le poids à vide n'excède pas 550 kilogrammes ;
+
+12° Des quadricycles à moteur.
