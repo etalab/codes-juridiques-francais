@@ -3,6 +3,7 @@
 - [Article 157 bis](article-157-bis.md)
 - [Article 158 bis](article-158-bis.md)
 - [Article 158 ter](article-158-ter.md)
+- [Article 158 quater](article-158-quater.md)
 - [Article 159](article-159.md)
 - [Article 159 quinquies](article-159-quinquies.md)
 - [Article 160](article-160.md)
