@@ -8,3 +8,4 @@
 - [Article R244-2](article-r244-2.md)
 - [Article R245](article-r245.md)
 - [Article R246](article-r246.md)
+- [Article R247](article-r247.md)
