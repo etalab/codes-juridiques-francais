@@ -9,6 +9,8 @@
 - [Article R661-18](article-r661-18.md)
 - [Article R661-19](article-r661-19.md)
 - [Article R*661-20](article-r-661-20.md)
+- [Article R661-20](article-r661-20.md)
 - [Article R661-21](article-r661-21.md)
 - [Article R*661-22](article-r-661-22.md)
+- [Article R661-22](article-r661-22.md)
 - [Article R661-23](article-r661-23.md)
