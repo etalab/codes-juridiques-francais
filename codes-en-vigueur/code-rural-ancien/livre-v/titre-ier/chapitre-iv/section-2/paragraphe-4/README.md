@@ -1,6 +1,5 @@
 # Paragraphe 4 : Prêts aux victimes de calamités agricoles.
 
-- [Article 675-2](article-675-2.md)
 - [Article 676](article-676.md)
 - [Article 677](article-677.md)
 - [Article 678](article-678.md)
