@@ -1,6 +1,5 @@
-# Section III : Délégation, déchéance et retrait partiel de l'autorité parentale.
+# Section III : Délégation, retrait total et partiel de l'autorité parentale
 
-- [Article 1201](article-1201.md)
 - [Article 1202](article-1202.md)
 - [Article 1203](article-1203.md)
 - [Article 1204](article-1204.md)

@@ -8,4 +8,4 @@ La signification à avocat fait courir le délai d'appel contre toutes les parti
 
 Le délai d'appel est de quinze jours à compter de la signification du jugement à avocat ; l'acte d'appel est signifié au domicile de l'avocat, et au domicile réel du saisi s'il n'a pas d'avocat. Il contient assignation et l'énonciation des griefs, à peine de nullité.
 
-L'appel n'est recevable que si la somme contestée excède celle de 1 950 euros quel que soit, d'ailleurs, le montant des créances des contestants et les sommes à distribuer.
+L'appel n'est recevable que si la somme contestée excède celle de 3 800 euros quel que soit, d'ailleurs, le montant des créances des contestants et les sommes à distribuer.
