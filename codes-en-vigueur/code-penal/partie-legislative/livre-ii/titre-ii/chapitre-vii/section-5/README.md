@@ -14,4 +14,6 @@
 - [Article 227-25](article-227-25.md)
 - [Article 227-26](article-227-26.md)
 - [Article 227-27](article-227-27.md)
+- [Article 227-27-1](article-227-27-1.md)
 - [Article 227-28](article-227-28.md)
+- [Article 227-28-1](article-227-28-1.md)

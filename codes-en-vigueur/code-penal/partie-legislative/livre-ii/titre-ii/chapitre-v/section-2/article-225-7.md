@@ -18,6 +18,8 @@ Le proxénétisme est puni de dix ans d'emprisonnement et de 10 000 000 F d'amen
 
 8° Avec l'emploi de la contrainte, de violences ou de manoeuvres dolosives ;
 
-9° Par plusieurs personnes agissant en qualité d'auteur ou de complice, sans qu'elles constituent une bande organisée.
+9° Par plusieurs personnes agissant en qualité d'auteur ou de complice, sans qu'elles constituent une bande organisée ;
+
+10° Grâce à l'utilisation, pour la diffusion de messages à destination d'un public non déterminé, d'un réseau de télécommunications.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le présent article.

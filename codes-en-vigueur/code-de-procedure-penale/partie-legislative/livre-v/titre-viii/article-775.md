@@ -1,6 +1,6 @@
 # Article 775
 
-Le bulletin n° 2 est le relevé des fiches du casier judiciaire applicables à la même personne, à l'exclusion de celles concernant les décisions suivantes :
+Le bulletin n° 2 est le relevé des fiches du casier judiciaire applicables à la même personne, à l'exclusion de celles concernant les décisions suivantes  :
 
 1° Les décisions prononcées en vertu des articles 2, 8, 15, 16, 18 et 28 de l'ordonnance n. 45-174 du 2 février 1945 modifiée, relative à l'enfance délinquante ;
 
@@ -8,7 +8,7 @@ Le bulletin n° 2 est le relevé des fiches du casier judiciaire applicables à 
 
 3° Les condamnations prononcées pour contraventions de police ;
 
-4° Les condamnations assorties du bénéfice du sursis, avec ou sans mise à l'épreuve, lorsqu'elles doivent être considérées comme non avenues ;
+4° Les condamnations assorties du bénéfice du sursis, avec ou sans mise à l'épreuve, lorsqu'elles doivent être considérées comme non avenues ; toutefois, si a été prononcé le suivi socio-judiciaire prévu par l'article 131-36-1 du code pénal ou la peine d'interdiction d'exercer une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs, la décision continue de figurer au bulletin n° 2 pendant la durée de la mesure ;
 
 6° Les condamnations auxquelles sont applicables les dispositions de l'article 343 du code de justice militaire ;
 

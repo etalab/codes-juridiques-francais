@@ -14,4 +14,6 @@ Le viol est puni de vingt ans de réclusion criminelle :
 
 6° Lorsqu'il est commis par plusieurs personnes agissant en qualité d'auteur ou de complice ;
 
-7° Lorsqu'il est commis avec usage ou menace d'une arme.
+7° Lorsqu'il est commis avec usage ou menace d'une arme ;
+
+8° Lorsque la victime a été mise en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à destination d'un public non déterminé, d'un réseau de télécommunications.
