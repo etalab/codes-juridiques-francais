@@ -1,6 +1,6 @@
 # Article L216-7
 
-La suspension de commercialisation des marchandises qui ont donné lieu à des poursuites pour infraction aux dispositions des chapitres II à VI et des textes pris pour leur application peut être ordonnée par le juge d'instruction ou le tribunal saisi des poursuites.
+La suspension de commercialisation des marchandises qui ont donné lieu à des poursuites pour infraction aux dispositions du présent livre et des textes pris pour leur application peut être ordonnée par le juge d'instruction ou le tribunal saisi des poursuites.
 
 La mesure est exécutoire nonobstant appel. Mainlevée peut en être donnée par la juridiction qui l'a ordonnée ou qui est saisie du dossier. La mesure cesse d'avoir effet en cas de décision de non-lieu ou de relaxe.
 
