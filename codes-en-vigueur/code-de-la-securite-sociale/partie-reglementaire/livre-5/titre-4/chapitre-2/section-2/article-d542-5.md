@@ -8,7 +8,7 @@ Dans laquelle :
 
 2°)   K représente le coefficient de prise en charge déterminé par la formule :
 
-K = 0,9 - R / 95 654 x N
+K = 0,9 - R / 98 524 x N
 
 Dans laquelle :
 
@@ -20,23 +20,23 @@ Le coefficient K est arrondi à deux décimales par défaut.
 
 3°) - L représente selon le cas :
 
-Soit le loyer principal effectivement payé défini à l'article D. 542-20 et éventuellement ramené au plafond mentionné à l'article D. 542-21 ;
+Soit le loyer principal effectivement payé défini à l'article D. 542-20 et éventuellement ramené au plafond mentionné à l'article D. 542-21 ou en cas de location de meublé calculé dans les conditions prévues à l'article D. 542-30 ;
 
 Soit la somme prise en compte, dont il est fait état aux articles D. 542-25 et D. 542-28 et éventuellement ramenée au plafond mentionné à l'article D. 542-27 ;
 
 4°) - C représente une majoration forfaitaire au titre des charges ;
 
-5° Lo représente le loyer minimum. Ce loyer minimum est la part de loyer L tel que défini ci-dessus qui doit rester à la charge de l'allocataire compte tenu des ressources du foyer définies aux articles D. 542-8 à D. 542-11 et de la composition de la famille. Il est égal à un pourcentage desdites ressources déterminé comme suit :
+5° Lo représente le loyer minimum. Ce loyer minimum est la part de loyer L tel que défini ci-dessus, qui doit rester à la charge de l'allocataire compte tenu des ressources du foyer définies aux articles D. 542-8 à D. 542-11 et de la composition de la famille. Il est égal à un pourcentage desdites ressources déterminé comme suit :
 
-0 p. 100 pour la tranche de ressources inférieure ou égale à 6 354 F ;
+0 p. 100 pour la tranche de ressources inférieure ou égale à 6 545 F ;
 
-3 p. 100 pour la tranche de ressources comprise entre 6 354 F et 9 143 F ;
+3 p. 100 pour la tranche de ressources comprise entre 6 545 F et 9 417 F ;
 
-26 p. 100 pour la tranche de ressources comprise entre 9 143 F et 11 744 F ;
+26 p. 100 pour la tranche de ressources comprise entre 9 417 F et 12 096 F ;
 
-29 p. 100 pour la tranche de ressources comprise entre 11 744 F et 18 286 F ;
+29 p. 100 pour la tranche de ressources comprise entre 12 096 F et 18 835 F ;
 
-41 p. 100 pour la tranche de ressources supérieure à 18 286 F.
+41 p. 100 pour la tranche de ressources supérieure à 18 835 F.
 
 Les limites inférieures et supérieures de chacune de ces tranches sont affectées des coefficients (ou nombre de parts) ci-après :
 
@@ -52,6 +52,6 @@ Les limites inférieures et supérieures de chacune de ces tranches sont affect�
 
 Ce dernier coefficient est majoré de 0,5 par enfant ou par personne à charge supplémentaire.
 
-Le loyer minimum ainsi obtenu est majoré d'un montant égal à 425 F.
+Le loyer minimum ainsi obtenu est majoré d'un montant égal à 438 F.
 
 Le loyer minimum est arrondi au franc inférieur.
