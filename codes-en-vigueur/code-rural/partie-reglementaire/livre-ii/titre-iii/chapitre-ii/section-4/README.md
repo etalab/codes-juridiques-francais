@@ -1,12 +1,5 @@
 # Section 4 : Contrôle des peuplements.
 
-- [Article R*232-3](article-r-232-3.md)
-- [Article R*232-4](article-r-232-4.md)
-- [Article R*232-5](article-r-232-5.md)
-- [Article R*232-6](article-r-232-6.md)
-- [Article R*232-7](article-r-232-7.md)
-- [Article R*232-8](article-r-232-8.md)
-- [Article R*232-9](article-r-232-9.md)
 - [Article R232-10](article-r232-10.md)
 - [Article R232-11](article-r232-11.md)
 - [Article R232-12](article-r232-12.md)

@@ -4,4 +4,3 @@
 - [Sous-section 2 : Commissions nationale et départementale d'indemnisation](sous-section-2)
 - [Sous-section 3 : Conditions de l'indemnisation des dégâts de gibier.](sous-section-3)
 - [Sous-section 4 : Procédure d'indemnisation.](sous-section-4)
-- [Sous-section 5 : Dispositions diverses.](sous-section-5)

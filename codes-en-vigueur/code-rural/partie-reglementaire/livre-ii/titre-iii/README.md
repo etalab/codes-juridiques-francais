@@ -7,4 +7,3 @@
 - [Chapitre V : Droit de pêche](chapitre-v)
 - [Chapitre VI : Conditions d'exercice du droit de pêche](chapitre-vi)
 - [Chapitre VII : Recherche et constatation des infractions](chapitre-vii)
-- [Chapitre VIII : Transaction, poursuites et règles d'application des peines](chapitre-viii)
