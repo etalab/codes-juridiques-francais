@@ -28,7 +28,7 @@ Sont considérés comme travaux agricoles :
 
 - les travaux de création, restauration et entretien des parcs et jardins ;
 
-6° Les gardes-chasse, gardes-pêche, gardes forestiers, jardiniers, jardiniers gardes de propriété et, de manière générale, toute personne qui, n'ayant pas la qualité d'entrepreneur, est occupée par des groupements ou des particuliers à la mise en état et à l'entretien des jardins ;
+6° Les gardes-chasse, gardes-pêche, gardes forestiers, jardiniers, jardiniers gardes de propriété et, de manière générale, toute personne qui, n'ayant pas la qualité d'entrepreneur, est occupée par des groupements et sociétés de toute nature ou des particuliers à la mise en état et à l'entretien des jardins ;
 
 7° Les salariés des organismes de mutualité agricole, des caisses de crédit agricole mutuel, des chambres d'agriculture, du centre national pour l'aménagement des structures des exploitations agricoles, des coopératives agricoles, des sociétés d'intérêt collectif agricole, des sociétés à caractère coopératif dites fruitières, des sociétés agricoles diverses, des syndicats agricoles, des associations syndicales de propriétaires dont l'objet est agricole et, d'une manière générale, de tout groupement professionnel agricole ainsi que les salariés de toute société ou groupement créé, après la publication de la loi n° 88-1202 du 30 décembre 1988 relative à l'adaptation de l'exploitation agricole à son environnement économique et social, dans leur champ d'activité, par les organismes précités, à condition que leur participation constitue plus de 50 p. 100 du capital ;
 

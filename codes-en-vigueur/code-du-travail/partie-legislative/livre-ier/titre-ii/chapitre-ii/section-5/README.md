@@ -3,6 +3,7 @@
 - [Article L122-25](article-l122-25.md)
 - [Article L122-25-1](article-l122-25-1.md)
 - [Article L122-25-2](article-l122-25-2.md)
+- [Article L122-25-3](article-l122-25-3.md)
 - [Article L122-26](article-l122-26.md)
 - [Article L122-26-1](article-l122-26-1.md)
 - [Article L122-26-2](article-l122-26-2.md)

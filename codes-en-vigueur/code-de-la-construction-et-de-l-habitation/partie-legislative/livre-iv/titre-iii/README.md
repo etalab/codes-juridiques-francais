@@ -2,3 +2,4 @@
 
 - [Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré.](chapitre-ier)
 - [Chapitre II : Prêts aux autres organismes et collectivités.](chapitre-ii)
+- [Chapitre III : Marchés des organismes d'habitations à loyer modéré.](chapitre-iii)
