@@ -2,3 +2,4 @@
 
 - [Chapitre Ier : Des crimes et des délits flagrants](chapitre-ier)
 - [Chapitre II : De l'enquête préliminaire](chapitre-ii)
+- [Chapitre III : Des contrôles d'identité](chapitre-iii)
