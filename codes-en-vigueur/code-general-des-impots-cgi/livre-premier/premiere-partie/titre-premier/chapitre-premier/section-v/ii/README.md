@@ -1,7 +1,7 @@
 # II : Impôt sur le revenu
 
 - [1° : Imputation des retenues à la source et crédits d'impôt](1)
-- [10° : Réduction d'impôt accordée au titre des sommes déposées dans les fonds salariaux.](10)
+- [10° : Réduction d'impôt accordée au titre des sommes déposées dans le fonds salariaux.](10)
 - [11° : Réduction d'impôt accordée au titre des investissements immobiliers locatifs.](11)
 - [12° : Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer](12)
 - [13° : Réduction d'impôt au titre des souscriptions au capital de sociétés nouvelles.](13)
