@@ -4,3 +4,4 @@
 - [Article 1122-4](article-1122-4.md)
 - [Article 1122-5](article-1122-5.md)
 - [Article 1122-6](article-1122-6.md)
+- [Article 1122-7](article-1122-7.md)

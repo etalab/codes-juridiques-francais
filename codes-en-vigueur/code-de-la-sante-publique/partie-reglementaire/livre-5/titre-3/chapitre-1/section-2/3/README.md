@@ -1,6 +1,8 @@
 # 3 : Substances stupéfiantes.
 
+- [Article R5171](article-r5171.md)
 - [Article R5172](article-r5172.md)
+- [Article R5173](article-r5173.md)
 - [Article R5174](article-r5174.md)
 - [Article R5175](article-r5175.md)
 - [Article R5176](article-r5176.md)

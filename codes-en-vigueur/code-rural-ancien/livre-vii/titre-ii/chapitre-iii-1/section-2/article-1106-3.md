@@ -2,7 +2,7 @@
 
 Les prestations allouées en application de l'article 1106-2 sont celles que prévoit la section III du chapitre II du présent titre, à l'exclusion des indemnités journalières et des prestations des assurances décès et vieillesse, sous les réserves suivantes :
 
-1° Les diverses prestations sont fixées dans les conditions et limites établies par décret contresigné du ministre de l'agriculture, du ministre de la santé publique et de la population et du ministre des finances et des affaires économiques, par les statuts et règlements des organismes d'assurance visés au deuxième alinéa de l'article 1106-9.
+1° Les diverses prestations sont fixées dans les conditions et limites établies par décret contresigné du ministre de l'agriculture, du ministre chargé des affaires sociales et du ministre de l'économie et des finances, par les statuts et règlements des organismes d'assurance visés au deuxième alinéa de l'article 1106-9.
 
 Ces statuts et règlements sont approuvés par le ministre de l'agriculture. Ils doivent être conformes aux dispositions obligatoires des statuts et règlements types approuvés dans les mêmes formes.
 
@@ -10,7 +10,7 @@ Ils précisent notamment les tarifs de responsabilité ;
 
 2° Les prestations d'invalidité sont dues aux chefs d'exploitation et d'entreprise, ainsi qu'aux aides familiaux et associés d'exploitation mentionnés à l'article 1106-1 (I 1°, 2° et 5°) dans le cas où, en raison de son état de santé, l'intéressé est reconnu comme totalement inapte à l'exercice de la profession agricole.
 
-Elles sont également allouées aux chefs d'exploitation ou d'entreprise mentionnés à l'article 1106-1 (I 1°) qui présentent une invalidité réduisant au moins des deux tiers leur capacité à l'exercice de la profession agricole, à condition qu'ils n'aient exercé cette profession au cours des cinq dernières années qu'avec le concours de leur conjoint et d'un seul salarié ou d'un seul aide familial.
+Elles sont également allouées aux chefs d'exploitation ou d'entreprise mentionnés au deuxième alinéa (1°) du paragraphe I de l'article 1106-1 ainsi qu'aux époux coexploitants et aux associés exploitants d'une exploitation agricole à responsabilité limitée, constituée conformément à la loi n° 85-697 du 11 juillet 1985 relative à l'entreprise unipersonnelle à responsabilité limitée et à l'exploitation agricole à responsabilité limitée, qui présentent une invalidité réduisant au moins des deux tiers leur capacité à l'exercice de la profession agricole.
 
 Les invalides, leurs conjoints et leurs enfants à charge bénéficient des prestations en nature de la présente assurance pour la maladie, la maternité et, lorsqu'ils n'exercent pas d'activité professionnelle, pour les accidents qui leur surviennent.
 

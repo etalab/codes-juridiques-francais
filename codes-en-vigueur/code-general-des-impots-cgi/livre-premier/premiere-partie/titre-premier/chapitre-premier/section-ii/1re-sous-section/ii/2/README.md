@@ -20,6 +20,7 @@
 - [Article 39 octies A](article-39-octies-a.md)
 - [Article 39 nonies](article-39-nonies.md)
 - [Article 39 undecies](article-39-undecies.md)
+- [Article 39 duodecies](article-39-duodecies.md)
 - [Article 39 quindecies A](article-39-quindecies-a.md)
 - [Article 39 octodecies](article-39-octodecies.md)
 - [Article 39 AA](article-39-aa.md)
