@@ -1,6 +1,0 @@
-# LIVRE III : FINANCES COMMUNALES
-
-- [TITRE Ier : BUDGET ET COMPTES](titre-ier)
-- [TITRE II : DÉPENSES](titre-ii)
-- [TITRE III : RECETTES](titre-iii)
-- [TITRE IV : COMPTABILITÉ](titre-iv)

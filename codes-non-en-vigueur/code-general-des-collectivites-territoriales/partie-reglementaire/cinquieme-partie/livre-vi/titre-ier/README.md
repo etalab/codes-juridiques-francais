@@ -1,3 +1,0 @@
-# TITRE Ier : CONVENTION INTERRÉGIONALE (R)
-
-- [CHAPITRE UNIQUE](chapitre-unique)

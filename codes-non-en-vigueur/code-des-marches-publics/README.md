@@ -1,5 +1,8 @@
-# Code des marchés publics (édition 1964)
+# Code des marchés publics (édition 2001)
 
-- [Livre I : Dispositions générales applicables aux marchés publics.](livre-i)
-- [Livre II : Marchés de l'Etat et de ses établissements publics autres que ceux ayant le caractère industriel et commercial.](livre-ii)
-- [Livre III : Marchés passés au nom des collectivités territoriales et de leurs établissements publics](livre-iii)
+- [Titre Ier : Champ d'application et principes fondamentaux.](titre-ier)
+- [Titre II : Dispositions générales](titre-ii)
+- [Titre III : Passation des marchés](titre-iii)
+- [Titre IV : Exécution des marchés](titre-iv)
+- [Titre V : Dispositions relatives au contrôle](titre-v)
+- [Titre VI : Dispositions diverses](titre-vi)

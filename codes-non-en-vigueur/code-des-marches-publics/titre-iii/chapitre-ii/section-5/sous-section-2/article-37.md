@@ -1,0 +1,5 @@
+# Article 37
+
+La procédure propre aux marchés de conception-réalisation est une modalité particulière d'appel d'offres sur performances qui n'est applicable qu'aux marchés qui portent à la fois sur l'établissement des études et sur l'exécution des travaux pour la réalisation des ouvrages mentionnés à l'article 1er de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'oeuvre privée.
+
+Il ne peut être recouru à cette procédure que si des motifs d'ordre technique rendent nécessaire l'association de l'entrepreneur aux études de l'ouvrage. Ces motifs doivent être liés à la destination ou aux techniques de réalisation de l'ouvrage. Sont concernés des ouvrages dont la finalité majeure est une production dont le processus conditionne la conception et la réalisation ainsi que des ouvrages dont les caractéristiques, telles que des dimensions exceptionnelles ou des difficultés techniques particulières, exigent de faire appel aux moyens et à la technicité propres des entreprises.
