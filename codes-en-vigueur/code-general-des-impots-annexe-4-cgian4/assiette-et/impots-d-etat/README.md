@@ -3,7 +3,6 @@
 - [DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS *IR, IS* ET AUX TAXES SUR LE CHIFFRE D'AFFAIRES](dispositions-communes-aux)
 - [CONTRIBUTIONS INDIRECTES](contributions-indirectes)
 - [DROITS DE TIMBRE](droits-de-timbre)
-- [AUTRES DROITS ET TAXES](autres-droits-et)
 - [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE](droits-d-enregistrement-et)
 - [IMPOTS DIRECTS ET TAXES ASSIMILEES](impots-directs-et)
 - [MONOPOLES FISCAUX](monopoles-fiscaux)

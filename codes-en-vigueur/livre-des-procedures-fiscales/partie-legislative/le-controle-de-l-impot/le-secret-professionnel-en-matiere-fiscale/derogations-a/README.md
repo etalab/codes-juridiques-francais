@@ -9,6 +9,5 @@
 - [Article L156](article-l156.md)
 - [Article L159](article-l159.md)
 - [Article L160](article-l160.md)
-- [Article L163](article-l163.md)
 - [Article L167](article-l167.md)
 - [Article L167 A](article-l167-a.md)
