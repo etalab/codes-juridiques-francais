@@ -13,4 +13,5 @@
 - [Article 36](article-36.md)
 - [Article 36 bis](article-36-bis.md)
 - [Article 36 ter](article-36-ter.md)
+- [Article 37](article-37.md)
 - [Article 38](article-38.md)
