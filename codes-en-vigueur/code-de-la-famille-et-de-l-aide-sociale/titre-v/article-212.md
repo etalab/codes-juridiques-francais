@@ -1,0 +1,3 @@
+# Article 212
+
+En cas de fermeture d'un établissement, volontaire ou ordonnée en vertu de l'article 210, le préfet prend les mesures nécessaires en vue de pourvoir à l'accueil des personnes qui y étaient hébergées. Il peut, à cette fin assortir d'un délai la décision de fermeture. Il peut également désigner un administrateur provisoire de l'établissement pour une durée qui ne peut être supérieure à six mois. Cet administrateur accomplit, au nom du préfet et pour le compte de l'établissement, les actes d'administration nécessaires à son fonctionnement, ainsi que les travaux urgents exigés par la sécurité des personnes hébergées.
