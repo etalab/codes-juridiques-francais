@@ -19,6 +19,5 @@
 - [EMPLOI](emploi)
 - [CONTROLE DE L'APPLICATION DE LA LEGISLATION ET DE LA REGLEMENTATION DU TRAVAIL](controle-de-l-application-de-la-legislation-et)
 - [LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES](les-groupements-professionnels-la-representation-la-participation-et)
-- [PLACEMENT ET EMPLOI](placement-et)
 - [REGLEMENTATION DU TRAVAIL HYGIENE ET SECURITE .](reglementation-du-travail-hygiene-et)
 - [REGLEMENTATION DU TRAVAIL](reglementation-du-travail)
