@@ -18,9 +18,9 @@ Ces taux peuvent être majorés de 5 ou 10 points par le conseil municipal.
 
 Pour les impositions établies au titre de 1995 et des années suivantes, les conseils municipaux peuvent, par délibération prise dans les conditions prévues à l'article 1639 A bis, décider de ramener, immédiatement ou progressivement, les abattements supérieurs au niveau maximum de droit commun au niveau des abattements de droit commun.
 
-II bis. Pour le calcul de la taxe d'habitation que perçoivent les départements, les communautés urbaines et les districts, les organes délibérants de ces collectivités et groupements peuvent, dans les conditions prévues au présent article et à l'article 1639 A bis, décider de fixer eux-mêmes le montant des abattements applicables aux valeurs locatives brutes.
+II bis. Pour le calcul de la taxe d'habitation que perçoivent les départements et les établissements publics de coopération intercommunale à fiscalité propre, les organes délibérants de ces collectivités et établissements publics peuvent, dans les conditions prévues au présent article et à l'article 1639 A bis, décider de fixer eux-mêmes le montant des abattements applicables aux valeurs locatives brutes.
 
-Dans ce cas, la valeur locative moyenne servant de référence pour le calcul des abattements est la valeur locative moyenne des habitations du département, de la communauté urbaine ou du district.
+Dans ce cas, la valeur locative moyenne servant de référence pour le calcul des abattements est la valeur locative moyenne des habitations du département, ou de l'établissement public de coopération intercommunale à fiscalité propre ;
 
 En l'absence de délibération, les abattements applicables sont ceux résultant des votes des conseils municipaux, calculés sur la valeur locative moyenne de la commune.
 
@@ -34,10 +34,8 @@ IV. La valeur locative moyenne servant de base au calcul de l'abattement obligat
 
 Les abattements, fixés en valeur absolue conformément au 5 du II, sont majorés proportionnellement à la variation des valeurs locatives des logements résultant de l'application des articles 1518 et 1518 bis.
 
-V. ((La valeur locative moyenne ainsi que les abattements sont arrondis au franc le plus proche. La fraction de franc égale à 0,50 est comptée pour 1)) (M).
+V. La valeur locative moyenne ainsi que les abattements sont arrondis au franc le plus proche. La fraction de franc égale à 0,50 est comptée pour 1 (1).
 
 (1) Annexe II, art. 310 H.
 
-(2) Pour l'application de cet article, voir l'article 1639 A bis.
-
-(M) Modification.
+Pour l'application de cet article, voir l'article 1639 A bis.

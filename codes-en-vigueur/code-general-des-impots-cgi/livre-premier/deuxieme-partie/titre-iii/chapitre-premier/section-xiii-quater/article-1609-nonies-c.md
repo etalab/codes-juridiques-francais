@@ -26,7 +26,7 @@ Cette délibération ne peut être modifiée ultérieurement, sauf pour les éta
 
 Pour l'application de cette disposition, la réduction des écarts de taux s'opère, chaque année, par parts égales ; dans le cas où le dispositif de réduction des écarts de taux est déjà en cours, l'écart est réduit chaque année, par parts égales en proportion du nombre d'années restant à courir conformément à la durée fixée par la délibération.
 
-Lorsqu'un établissement public de coopération intercommunale faisant application du régime prévu au II de l'article 1609 quinquies C opte pour le régime prévu au présent article ou devient soumis à ce régime, le taux constaté dans une commune l'année précédente est le taux appliqué en dehors des zones d'activités économiques existant sur son territoire antérieurement au changement de régime ; le taux constaté l'année précédente dans chaque zone ou fraction de zone si celle-çi est implantée sur le territoire de plusieurs communes est alors assimilé à celui d'une commune membre supplémentaire pour l'application des dispositions du présent III.
+c. Lorsqu'un établissement public de coopération intercommunale faisant application du régime prévu au II de l'article 1609 quinquies C opte pour le régime prévu au présent article ou devient soumis à ce régime, le taux constaté dans une commune l'année précédente est le taux appliqué en dehors des zones d'activités économiques existant sur son territoire antérieurement au changement de régime ; le taux constaté l'année précédente dans chaque zone ou fraction de zone si celle-ci est implantée sur le territoire de plusieurs communes est alors assimilé à celui d'une commune membre supplémentaire pour l'application des dispositions du présent III.
 
 2° Au titre des années suivant la première année d'application des dispositions du 1°, le taux de taxe professionnelle est fixé par le conseil de l'établissement public de coopération intercommunale dans les conditions prévues au II de l'article 1636 B decies lorsqu'il est fait application du I du présent article.
 
@@ -58,7 +58,7 @@ Toutefois, dans le cas où une diminution des bases imposables de taxe professio
 
 Lorsque, avant la publication de la loi n° 99-586 du 12 juillet 1999 précitée, l'attribution de compensation était calculée en tenant compte de la contribution des communes à un syndicat, l'organe délibérant de l'établissement public de coopération intercommunale réduit le montant de l'attribution de compensation à due concurrence de la diminution du montant de la contribution demandée aux communes par le syndicat.
 
-2° L'attribution de compensation est égale au produit de taxe professionnelle, y compris la compensation prévue au I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), et, le cas échéant, les compensations prévues au B de l'article 4 de la loi n° 96-987 du 14 novembre 1996 relative à la mise en oeuvre du pacte de relance pour la ville ou au B de l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la zone franche de Corse, versées antérieurement aux communes, mais hors compensation prévue au IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986), perçu par elle l'année précédant l'institution du taux de taxe professionnelle communautaire diminué du coût net des charges transférées calculé dans les conditions définies au IV. Cette attribution est recalculée, dans les conditions prévues au IV, lors de chaque nouveau transfert de charges.
+2° L'attribution de compensation est égale au produit de taxe professionnelle, y compris la compensation prévue au I du D de l'article 44 modifié de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), et, le cas échéant, les compensations prévues au B de l'article 4 de la loi n° 96-987 du 14 novembre 1996 relative à la mise en oeuvre du pacte de relance pour la ville ou au B de l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la zone franche de Corse, versées antérieurement aux communes, mais hors compensation prévue au IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986), perçu par elle l'année précédant l'institution du taux de taxe professionnelle communautaire diminué du coût net des charges transférées calculé dans les conditions définies au IV. Cette attribution est recalculée, dans les conditions prévues au IV, lors de chaque nouveau transfert de charges.
 
 3° Lorsqu'il est fait application à un établissement public de coopération intercommunale doté d'une fiscalité propre des dispositions du présent article, l'attribution de compensation versée chaque année aux communes membres est égale à la différence constatée l'année précédant celle de la première application de ces dispositions, entre :
 
@@ -90,9 +90,9 @@ Lorsqu'il s'agit d'une communauté urbaine, elle institue une dotation de solida
 
 Ces critères sont déterminés notamment en fonction :
 
-- de l'écart du revenu par habitant de la commune au revenu moyen par habitant de l'établissement public de coopération intercommunale ;
+a. de l'écart du revenu par habitant de la commune au revenu moyen par habitant de l'établissement public de coopération intercommunale ;
 
-- de l'insuffisance de potentiel fiscal par habitant de la commune au regard du potentiel fiscal communal moyen par habitant sur le territoire de l'établissement public de coopération intercommunale.
+b. de l'insuffisance de potentiel fiscal par habitant de la commune au regard du potentiel fiscal communal moyen par habitant sur le territoire de l'établissement public de coopération intercommunale.
 
 Des critères complémentaires peuvent être choisis par le conseil.
 

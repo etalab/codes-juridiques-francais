@@ -10,9 +10,9 @@ Les directeurs régionaux des douanes et droits indirects sont compétents, dans
 
 4. Autorisation spéciale de décharge des quantités de boissons de raisins secs imparfaites ou avariées délivrée aux fabricants, prévue par le dernier alinéa de l'article 140 de l'annexe III au code général des impôts ;
 
-5. (Devenu sans objet) (M)
+5. (sans objet)
 
-6. Décisions relatives à l'autorisation prévue à l'article 178 octies A de l'annexe III au code général des impôts ;
+6. (sans objet)
 
 7. Agrément des procédés de dénaturation des essences d'absinthe et produits assimilés, prévu par le premier alinéa de l'article 178 P de l'annexe III au code général des impôts ;
 
@@ -26,7 +26,7 @@ Les directeurs régionaux des douanes et droits indirects sont compétents, dans
 
 12. Autorisation préalable des personnes qui désirent importer, acquérir à titre gratuit ou onéreux, obtenir en location, faire réparer ou transformer un ou plusieurs appareils ou portions d'appareils propres à la distillation, à la fabrication ou au repassage d'eaux-de-vie ou d'esprits, prévue par l'article 50 C de l'annexe IV au code général des impôts ;
 
-13. (Devenu sans objet) (M)
+13. (sans objet)
 
 14. Autorisation de remplacement de la couleur blanche par la teinte naturelle d'une capsule représentative de droits, prévue par l'article 54-0 B de l'annexe IV au code général des impôts ;
 
@@ -38,7 +38,7 @@ Les directeurs régionaux des douanes et droits indirects sont compétents, dans
 
 18. Octroi des dérogations à l'emploi obligatoire des capsules fiscales pour le conditionnement des vins, prévu par le deuxième alinéa de l'article 54-0 U de l'annexe IV au code général des impôts ;
 
-19. Autorisation donnée aux marchands en gros de boissons d'apposer eux-mêmes, sur les capsules qu'ils utilisent, le timbre et les mentions réglementaires, prévue par le deuxième alinéa de l'article 54-0 V de l'annexe IV au code général des impôts ;
+19. Autorisation donnée aux entrepositaires agréés de boissons d'apposer eux-mêmes, sur les capsules qu'ils utilisent, le timbre et les mentions réglementaires, prévue par le deuxième alinéa de l'article 54-0 V de l'annexe IV au code général des impôts ;
 
 20. Agrément des machines destinées à insculper et imprimer les timbres et mentions réglementaires sur les capsules représentatives des droits indirects sur l'alcool, les vins et cidres, prévu par le deuxième alinéa de l'article 54-0 V de l'annexe IV au code général des impôts ;
 
@@ -56,9 +56,9 @@ Les directeurs régionaux des douanes et droits indirects sont compétents, dans
 
 27. Habilitation à apposer des marques fiscales pour les spiritueux, prévue par l'article 54 nonies de l'annexe IV au code général des impôts ;
 
-28. Autorisation d'utilisation de bouteilles d'une capacité supérieure à trois litres pour la circulation de spiritueux destinés à la consommation de bouche, prévue par les articles 55 B et 55 D de l'annexe IV au code général des impôts ;
+28. (sans objet)
 
-29. Autorisation pour les personnes non titulaires d'une licence permettant la vente de spiritueux, de recevoir sous acquit-à-caution les spiritueux nécessaires à la fabrication de leurs produits, prévue par les articles 55 B et 55 C de l'annexe IV au code général des impôts ;
+29. (sans objet)
 
 30. Autorisation délivrée aux établissements de spectacles de faire usage de distributeurs automatiques pour la délivrance de billets, prévue par l'article 128 de l'annexe IV au code général des impôts ;
 
@@ -71,5 +71,3 @@ Les directeurs régionaux des douanes et droits indirects sont compétents, dans
 34. Autorisation d'utiliser des machines à timbrer, prévue par le premier alinéa de l'article 164 AD de l'annexe IV au code général des impôts ;
 
 35. Décisions relatives aux réclamations contentieuses prévues à l'article R. 198-10 du livre des procédures fiscales.
-
-(M) Modification.

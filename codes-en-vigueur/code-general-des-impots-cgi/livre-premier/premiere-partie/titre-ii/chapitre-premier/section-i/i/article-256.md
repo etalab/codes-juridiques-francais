@@ -2,7 +2,7 @@
 
 I. Sont soumises à la taxe sur la valeur ajoutée les livraisons de biens et les prestations de services effectuées à titre onéreux par un assujetti agissant en tant que tel.
 
-II. 1° Est considéré comme livraison d'un bien [*définition*], le transfert du pouvoir de disposer d'un bien meuble corporel comme un propriétaire.
+II. 1° Est considéré comme livraison d'un bien, le transfert du pouvoir de disposer d'un bien meuble corporel comme un propriétaire.
 
 2° Sont notamment considérés comme des biens meubles corporels :
 
@@ -12,7 +12,7 @@ l'électricité, le gaz, la chaleur, le froid et les biens similaires.
 
 a) Le transfert de propriété d'un bien meuble corporel opéré en vertu d'une réquisition de l'autorité publique ;
 
-b) (Abrogé par la loi 95-1347) ;
+b) (Abrogé à compter du 1er janvier 1996).
 
 c) La remise matérielle d'un bien meuble corporel en vertu d'un contrat qui prévoit la location de ce bien pendant une certaine période ou sa vente à tempérament et qui est assorti d'une clause selon laquelle la propriété de ce bien est normalement acquise au détenteur ou à ses ayants droit au plus tard lors du paiement de la dernière échéance ;
 
@@ -28,7 +28,9 @@ b) A faire l'objet de travaux à condition que le bien soit réexpédié ou tran
 
 c) A faire l'objet d'une installation ou d'un montage.
 
-IV. 1° Les opérations autres que celles qui sont définies au II, notamment la cession ou la concession de biens meubles incorporels, le fait de s'obliger à ne pas faire ou à tolérer un acte ou une situation, ((les opérations de façon)) (M) et les travaux immobiliers, sont considérés comme des prestations de services ;
+d. A faire l'objet de livraisons à bord des moyens de transport, effectuées par l'assujetti, dans les conditions mentionnées au c du 1 de l'article 8 de la directive 77/388/CEE du Conseil du 17 mai 1977 (1).
+
+IV. 1° Les opérations autres que celles qui sont définies au II, notamment la cession ou la concession de biens meubles incorporels, le fait de s'obliger à ne pas faire ou à tolérer un acte ou une situation, les opérations de façon et les travaux immobiliers, sont considérés comme des prestations de services ;
 
 2° Sont également considérées comme des prestations de services (Disposition à caractère interprétatif) :
 
@@ -36,12 +38,10 @@ a) Les opérations, y compris la négociation, portant sur les devises, les bill
 
 Le chiffre d'affaires afférent à ces opérations est constitué par le montant des profits et autres rémunérations.
 
-Sont considérés comme des monnaies et billets de collection, les pièces en or, en argent ou autre métal, ainsi que les billets qui ne sont pas normalement utilisés dans leur fonction comme moyen de paiement légal ou qui présentent un intérêt numismatique ;
+Sont considérés comme des monnaies et billets de collection, les pièces en or autres que celles visées au 2 de l'article 298 sexdecies A  en argent ou autre métal, ainsi que les billets qui ne sont pas normalement utilisés dans leur fonction comme moyen de paiement légal ou qui présentent un intérêt numismatique ;
 
 b) Les opérations portant sur les actions, les parts de sociétés ou d'associations, les obligations et les autres titres, à l'exclusion des titres représentatifs de marchandises et des parts d'intérêt dont la possession assure en droit ou en fait l'attribution en propriété ou en jouissance d'un bien immeuble ou d'une fraction d'un bien immeuble.
 
 Le chiffre d'affaires afférent aux opérations, autres que celles de garde et de gestion, mentionnées ci-dessus est constitué par le montant des profits et autres rémunérations.
 
 V. L'assujetti, agissant en son nom propre mais pour le compte d'autrui, qui s'entremet dans une livraison de bien ou une prestation de services, est réputé avoir personnellement acquis et livré le bien, ou reçu et fourni les services considérés.
-
-(M) Modification de la loi.

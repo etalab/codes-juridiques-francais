@@ -7,3 +7,4 @@
 - [5 : Sociétés mères et filiales](5)
 - [6 : Contrôle des revenus mobiliers. Obligations des collectivités émettrices et des intermédiaires](6)
 - [7 : Sociétés de capital-risque. Obligations des actionnaires](7)
+- [3-0 bis : Revenus des valeurs mobilières émises hors de France et revenus assimilés](3-0-bis)

@@ -1,6 +1,6 @@
 # Article 1664
 
-1. En ce qui concerne les contribuables qui auront été compris dans les rôles de l'année précédente pour une somme au moins égale à 1.500 F, l'impôt sur le revenu donne lieu, par dérogation aux dispositions de l'article 1663 et en l'absence d'option pour le paiement mensuel telle qu'elle est prévue à l'article 1681 A, à deux versements d'acomptes le 31 janvier et le 30 avril de l'année suivant celle au cours de laquelle sont réalisés les revenus servant de base de calcul de l'impôt.
+1. En ce qui concerne les contribuables qui auront été compris dans les rôles de l'année précédente pour une somme au moins égale à 1.500 F, l'impôt sur le revenu ainsi que la contribution mentionnée à l'article 234 undecies donnent lieu (1), par dérogation aux dispositions de l'article 1663 et en l'absence d'option pour le paiement mensuel telle qu'elle est prévue à l'article 1681 A, à deux versements d'acomptes le 31 janvier et le 30 avril de l'année suivant celle au cours de laquelle sont réalisés les revenus servant de base de calcul de l'impôt.
 
 Le montant de chaque acompte est égal au tiers des cotisations mises à la charge du redevable dans les rôles concernant la dernière année au titre de laquelle il a été imposé.
 
@@ -19,3 +19,5 @@ Toutefois, par dérogation aux règles de l'article 1663, l'impôt restant dû e
 4. Le contribuable qui estime que le montant du premier versement effectué au titre d'une année est égal ou supérieur aux cotisations dont il sera finalement redevable pourra se dispenser du second versement prévu pour cette année en remettant au comptable du Trésor chargé du recouvrement des impôts directs du lieu d'imposition, quinze jours avant la date d'exigibilité de ce dernier versement, une déclaration datée et signée.
 
 5. Les acomptes mentionnés au 1 sont arrondis au franc le plus proche. La fraction de franc égale à 0,50 est comptée pour 1.
+
+(1) Dispositions applicables aux revenus perçus à compter du 1er janvier 2001.

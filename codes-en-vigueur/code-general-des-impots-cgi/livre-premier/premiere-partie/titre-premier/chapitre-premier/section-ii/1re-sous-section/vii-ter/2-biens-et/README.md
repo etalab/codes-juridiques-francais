@@ -15,6 +15,7 @@
 - [Article 150 F](article-150-f.md)
 - [Article 150 G](article-150-g.md)
 - [Article 150 H](article-150-h.md)
+- [Article 150 H bis](article-150-h-bis.md)
 - [Article 150 J](article-150-j.md)
 - [Article 150 K](article-150-k.md)
 - [Article 150 N](article-150-n.md)

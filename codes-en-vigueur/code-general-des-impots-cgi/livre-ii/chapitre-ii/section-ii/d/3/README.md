@@ -16,4 +16,5 @@
 - [Article 1840 G sexies](article-1840-g-sexies.md)
 - [Article 1840 G septies](article-1840-g-septies.md)
 - [Article 1840 G octies](article-1840-g-octies.md)
+- [Article 1840 G nonies](article-1840-g-nonies.md)
 - [Article 1840 GA](article-1840-ga.md)

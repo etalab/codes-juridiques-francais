@@ -6,9 +6,9 @@ Cette taxe est acquittée par les chefs d'entreprises individuelles ou les soci�
 
 Cette taxe est composée :
 
-- d'un droit fixe par ressortissant, arrêté par les chambres de métiers dans la limite d'un montant maximum fixé à 623 F ;
+a. d'un droit fixe par ressortissant, arrêté par les chambres de métiers dans la limite d'un montant maximum fixé à 623 F ;
 
-- d'un droit additionnel à la taxe professionnelle, dont le produit est arrêté par les chambres de métiers ; celui-ci ne peut excéder 50 % du produit du droit fixe.
+b. d'un droit additionnel à la taxe professionnelle, dont le produit est arrêté par les chambres de métiers ; celui-ci ne peut excéder 50 % du produit du droit fixe.
 
 Toutefois, à titre exceptionnel, les chambres de métiers sont autorisées à porter le produit du droit additionnel jusqu'à 75 % du produit du droit fixe, afin de mettre en oeuvre des actions ou réaliser des investissements dans le cadre de conventions, qui peuvent être pluriannuelles, conclues avec l'Etat. Les autorités chargées de prendre les arrêtés d'autorisation de ces dépassements du droit additionnel et de signer les conventions correspondantes sont définies par décret en Conseil d'Etat.
 

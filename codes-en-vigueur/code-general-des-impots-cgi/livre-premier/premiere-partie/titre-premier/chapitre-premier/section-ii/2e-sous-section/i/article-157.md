@@ -18,19 +18,17 @@ a. Leur nature est en relation directe avec l'investissement financé ;
 
 b. Leur montant sur la durée de vie de l'emprunt n'excède pas 5 p. 100 du prix d'émission.
 
-4° Les pensions, prestations et allocations affranchies de
+4° Les pensions, prestations et allocations affranchies de l'impôt en vertu de l'article 81 ;
 
-l'impôt en vertu de l'article 81 ;
+5° (abrogé).
 
-5° Les produits et plus-values que procurent les placements effectués dans le cadre d'un plan d'épargne en vue de la retraite ainsi que les avoirs fiscaux et crédits d'impôt attachés à ces produits et remboursés par l'Etat ; ces sommes s'ajoutent aux versements effectués sur le plan (1) ;
-
-5° bis Les produits et plus-values que procurent les placements effectués dans le cadre du plan d'épargne en actions défini à l'article 163 quinquies D ainsi que les avoirs fiscaux et crédits d'impôt restitués (2) ; toutefois, à compter de l'imposition des revenus de 1997, les produits, avoirs fiscaux et crédits d'impôt restitués procurés par des placements effectués en actions ou parts de sociétés qui ne sont pas admises aux négociations sur un marché réglementé, à l'exception des intérêts versés dans les conditions prévues à l'article 14 de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération aux titres de capital de sociétés régies par cette loi, ne bénéficient de cette exonération que dans la limite de 10 % du montant de ces placements ;
+5° bis Les produits et plus-values que procurent les placements effectués dans le cadre du plan d'épargne en actions défini à l'article 163 quinquies D ainsi que les avoirs fiscaux et crédits d'impôt restitués ; toutefois, à compter de l'imposition des revenus de 1997, les produits, avoirs fiscaux et crédits d'impôt restitués procurés par des placements effectués en actions ou parts de sociétés qui ne sont pas admises aux négociations sur un marché réglementé, à l'exception des intérêts versés dans les conditions prévues à l'article 14 de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération aux titres de capital de sociétés régies par cette loi, ne bénéficient de cette exonération que dans la limite de 10 % du montant de ces placements ;
 
 5° ter La rente viagère, lorsque le plan d'épargne en actions défini à l'article 163 quinquies D se dénoue après huit ans par le versement d'une telle rente ;
 
 6° Les gratifications allouées aux vieux travailleurs à l'occasion de la délivrance de la médaille d'honneur par le ministère des affaires sociales ;
 
-7° Les intérêts des sommes inscrites sur les livrets des caisses d'épargne à l'exception des intérêts des livrets supplémentaires ouverts dans les conditions prévues ((par décret)) (M) ;
+7° Les intérêts des sommes inscrites sur les livrets des caisses d'épargne à l'exception des intérêts des livrets supplémentaires ouverts dans les conditions prévues par décret ;
 
 7° bis (Disposition périmée) ;
 
@@ -48,13 +46,13 @@ l'impôt en vertu de l'article 81 ;
 
 9° bis Les intérêts des sommes inscrites sur les comptes d'épargne-logement ouverts en application des articles L. 315-1 à L. 315-6 du code de la construction et de l'habitation ainsi que la prime d'épargne versée aux titulaires de ces comptes ;
 
-9° ter Les intérêts versés au titulaire du compte d'épargne sur livret ouvert en application de l'article 80 de la loi n° 76-1232 du 29 décembre 1976 (3) :
+9° ter Les intérêts versés au titulaire du compte d'épargne sur livret ouvert en application de l'article 80 de la loi n° 76-1232 du 29 décembre 1976 :
 
 a) aux travailleurs, salariés de l'artisanat, des ateliers industriels, des chantiers et de l'agriculture ;
 
 b) aux aides familiaux ou aux associés d'exploitation désignés au 2° du I de l'article 1106-1 du code rural et aux articles L. 321-6 et suivants du même code ;
 
-c) aux aides familiaux et associés d'exploitation de l'artisanat (M) ;
+c) aux aides familiaux et associés d'exploitation de l'artisanat ;
 
 Il en est de même de la prime versée au travailleur manuel qui procède effectivement à la création ou au rachat d'une entreprise artisanale ;
 
@@ -110,14 +108,4 @@ Le retrait partiel de fonds intervenu dans les conditions prévues ci-dessus n'e
 
 Lorsque le retrait entraîne la clôture du plan, la somme des primes d'épargne et de leurs intérêts capitalisés, le cas échéant, est immédiatement versée.
 
-Un décret en Conseil d'Etat précise les modalités d'application ainsi que les obligations déclaratives des contribuables et des intermédiaires (4).
-
-(1) Annexe III, 41 ZC et 41 ZG.
-
-(2) Annexe III, 41 ZW.
-
-(M) Modification.
-
-(3) A compter de la date de promulgation de la loi n° 84-578 du 9 juillet 1984, il ne peut plus être ouvert de livrets. Les livrets d'épargne au profit des travailleurs manuels peuvent être transformés en livret d'épargne-entreprise dans les conditions fixées par le décret n° 85-68 du 22 janvier 1985 (J.O. du 23).
-
-(4) Annexe II articles 91 quater A et 91 quater B.
+Un décret en Conseil d'Etat précise les modalités d'application ainsi que les obligations déclaratives des contribuables et des intermédiaires.

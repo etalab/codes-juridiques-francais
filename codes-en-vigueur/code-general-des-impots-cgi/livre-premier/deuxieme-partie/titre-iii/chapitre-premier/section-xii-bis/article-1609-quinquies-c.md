@@ -24,7 +24,7 @@ Des taux d'imposition différents du taux communautaire fixé en application des
 
 2° bis En cas d'incorporation d'une commune ou partie de commune dans une zone d'activités économiques, les dispositions du III de l'article 1638 quater sont applicables.
 
-3° Les établissements publics de coopération intercommunale soumis aux dispositions du présent paragraphe bénéficient de la compensation prévue au IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986), au lieu et place de leurs communes membres pour les pertes de bases de taxe professionnelle résultant, dans la zone d'activités économiques, de l'application de l'article 1469 A bis et du dernier alinéa du II de l'article 1478.
+3° Les établissements publics de coopération intercommunale soumis aux dispositions du présent paragraphe bénéficient de la compensation prévue au IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986), au lieu et place de leurs communes membres pour les pertes de bases de taxe professionnelle résultant, dans la zone d'activités économiques, de l'application du dernier alinéa du II de l'article 1478.
 
 Pour le calcul de cette compensation :
 

@@ -4,7 +4,7 @@ Sont également exonérés de l'impôt sous réserve des dispositions de l'artic
 
 1° (Abrogé)
 
-1° bis - Les sociétés d'investissement qui sont constituées et fonctionnent dans les conditions prévues au titre II de l'ordonnance n° 45-2710 du 2 novembre 1945, pour la partie des bénéfices provenant des produits nets de leur portefeuille ou des plus-values qu'elles réalisent sur la vente des titres ou parts sociales faisant partie de ce portefeuille. Ces sociétés cesseront de bénéficier des dispositions du présent alinéa trois ans après leur création, si leurs actions ne sont pas ((admises aux négociations sur un marché réglementé)) (M) (1) avant ce délai ;
+1° bis - Les sociétés d'investissement qui sont constituées et fonctionnent dans les conditions prévues au titre II de l'ordonnance n° 45-2710 du 2 novembre 1945, pour la partie des bénéfices provenant des produits nets de leur portefeuille ou des plus-values qu'elles réalisent sur la vente des titres ou parts sociales faisant partie de ce portefeuille. Ces sociétés cesseront de bénéficier des dispositions du présent alinéa trois ans après leur création, si leurs actions ne sont pas admises aux négociations sur un marché réglementé avant ce délai ;
 
 1° bis A - Les sociétés d'investissement à capital variable [*SICAV*] régies par la loi n° 88-1201 du 23 décembre 1988 modifiée pour les bénéfices réalisés dans le cadre de leur objet légal ;
 
@@ -58,7 +58,7 @@ Les dividendes reçus de la société immobilière pour le commerce et l'industr
 
 L'exonération totale ou partielle est subordonnée à la condition que les dividendes non soumis à l'impôt sur les sociétés provenant de la société immobilière pour le commerce et l'industrie soient redistribués par la société apporteuse avant la fin de l'exercice qui suit celui de leur encaissement.
 
-3° sexies Les sociétés agréées dans les conditions prévues par l'article 30 de la loi n° 80-531 du 15 juillet 1980 modifiée relative aux économies d'énergie et à l'utilisation de la chaleur (Sofergie) pour leurs activités autres que celles autorisées par le II de l'article 87 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986) ; l'exonération concerne la partie de leur bénéfice net provenant des opérations de crédit-bail et de location ou des plus-values qu'elles réalisent dans le cadre des opérations de crédit-bail ;
+3° sexies (supprimé)
 
 3° septies Les sociétés de capital-risque qui fonctionnent dans les conditions prévues à l'article 1er de la loi n° 85-695 du 11 juillet 1985 modifiée sur les produits et plus-values nets provenant de leur portefeuille ;
 
@@ -71,7 +71,3 @@ L'exonération totale ou partielle est subordonnée à la condition que les divi
 Toutefois, ces organismes demeurent éventuellement soumis à l'impôt dans les conditions prévues à l'article 206 5 ;
 
 6° Les établissements publics pour leurs opérations de lotissement et de vente de terrains leur appartenant.
-
-(M) Modification.
-
-(1) Loi 98-1267 1998-12-30 art. 27 XV : Les dispositions du présent article sont applicables à compter de la date d'entrée en vigueur de la loi n° 96-597 du 2 juillet 1996 de modernisation des activités financières (4 juillet 1996).

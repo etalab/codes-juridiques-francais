@@ -10,10 +10,8 @@ Sont assujettis au timbre d'après la dimension du papier employé, les minutes,
 
 4° Actes portant engagement pour le paiement ou le remboursement de sommes ou valeurs mobilières ;
 
-5° Bulletins de souscription d'actions (1) et pouvoirs délivrés par les actionnaires en vue de leur représentation aux assemblées générales. Toutefois, à compter du 11 mars 1987, les pouvoirs délivrés par les actionnaires en vue de leur représentation aux assemblées générales sont dispensés de ce droit (2) ;
+5° Bulletins de souscription d'actions (1)
 
 6° (Abrogé)
 
 (1) Voir Annexe IV, art. 93 H bis à 93 H quater.
-
-(2) Voir article 96 C.
