@@ -11,5 +11,3 @@
 - [Article L520-9](article-l520-9.md)
 - [Article L520-10](article-l520-10.md)
 - [Article L520-11](article-l520-11.md)
-- [Article L520-12](article-l520-12.md)
-- [Article L520-13](article-l520-13.md)
