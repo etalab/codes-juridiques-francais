@@ -7,6 +7,7 @@
 - [Article 39 quinquies C](article-39-quinquies-c.md)
 - [Article 39 quinquies A](article-39-quinquies-a.md)
 - [Article 39 quinquies FB](article-39-quinquies-fb.md)
+- [Article 39 quinquies G](article-39-quinquies-g.md)
 - [Article 39 quinquies H](article-39-quinquies-h.md)
 - [Article 39 D](article-39-d.md)
 - [Article 39 sexies](article-39-sexies.md)

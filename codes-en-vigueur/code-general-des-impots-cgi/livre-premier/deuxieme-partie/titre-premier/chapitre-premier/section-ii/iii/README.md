@@ -2,4 +2,5 @@
 
 - [C : Mutations cadastrales et mutations de cotes.](c)
 - [D : Déclaration des constructions nouvelles ainsi que des changements de consistance, d'affectation ou d'utilisation](d)
+- [A : Lieu d'imposition](a)
 - [B : Débiteur de l'impôt](b)

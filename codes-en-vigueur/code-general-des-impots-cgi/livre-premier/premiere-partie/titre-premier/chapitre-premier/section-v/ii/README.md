@@ -11,5 +11,6 @@
 - [Article 197 A](article-197-a.md)
 - [Article 197 B](article-197-b.md)
 - [Article 199](article-199.md)
+- [Imputation des retenues à la source et crédits d'impôt.](imputation-des-retenues-a)
 - [Réduction d'impôt accordée au titre des sommes déposées dans les fonds salariaux.](reduction-d-impot-accordee-au-titre)
 - [Réduction d'impôt accordée aux contribuables titulaires d'un compte d'épargne en actions.](reduction-d-impot-accordee-aux)

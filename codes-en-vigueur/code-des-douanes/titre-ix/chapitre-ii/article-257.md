@@ -1,5 +1,5 @@
 # Article 257
 
-1. Les transports effectués entre les ports de la France métropolitaine sont réservés au pavillon français.
+1. Les transports effectués entre les ports de la France métropolitaine sont réservés au pavillon français. Toutefois, le ministre chargé de la marine marchande peut autoriser un navire étranger à assurer un transport déterminé.
 
-2. Les transports autres que ceux d'hydrocarbures effectués entre les ports de la France métropolitaine et les ports algériens sont réservés aux navires battant pavillon de la France ou de l'Algérie ou affrétés par l'un ou l'autre des deux pays.
+2. (dénonciation de l'accord franco-algérien relatif aux transports maritimes ; la dénonciation a pris effet le 1er août 1988).
