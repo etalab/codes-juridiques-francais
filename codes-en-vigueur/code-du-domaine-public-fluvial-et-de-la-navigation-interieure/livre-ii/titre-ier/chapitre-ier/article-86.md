@@ -1,0 +1,3 @@
+# Article 86
+
+Le transfert d'immatriculation d'un bureau à un autre ne peut être effectué que si le propriétaire du bateau présente un état négatif de transcription de saisie. La demande de transfert à laquelle est joint cet état négatif doit être adressée par écrit au bureau dans le registre duquel le bateau est immatriculé. Elle est remise à ce bureau par le propriétaire qui est tenu de présenter le certificat d'immatriculation ainsi que l'extrait des inscriptions hypothécaires. L'autorité chargée dudit bureau procède sans délai au transfert de l'immatriculation et notifie ce transfert au greffier du tribunal de commerce du lieu de l'immatriculation primitive.

@@ -1,0 +1,3 @@
+# Article 159
+
+Est patron batelier, au sens et aux effets du présent titre, toute personne de l'un ou de l'autre sexe dont la profession est d'effectuer des transports de marchandises par voie de navigation intérieure et qui, à cet effet, dispose au plus, en qualité de propriétaire, de copropriétaire ou d'usufruitier, soit d'un bateau automoteur, à l'exclusion de tout bateau non automoteur, soit de deux bateaux non automoteurs, à l'exclusion de tout bateau automoteur, ces bateaux devant être immatriculés dans un bureau d'immatriculation français des bateaux de navigation intérieure et être conduits par la personne susvisée ou par les membres de sa famille.
