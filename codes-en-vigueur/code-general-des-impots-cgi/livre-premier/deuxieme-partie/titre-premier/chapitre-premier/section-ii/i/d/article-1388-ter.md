@@ -4,7 +4,7 @@ I. - Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et 
 
 L'abattement est applicable pour les impositions établies au titre des cinq années suivant celle de l'achèvement des travaux qui doit intervenir au plus tard le 31 décembre 2016.
 
-La nature des travaux ouvrant droit à l'abattement est fixée par arrêté conjoint du ministre chargé de l'outre-mer, du ministre chargé du logement et du ministre chargé du budget.
+La nature des travaux ouvrant droit à l'abattement ainsi que leur conformité au regard des dispositions du premier alinéa sont fixées par arrêté conjoint du ministre chargé de l'outre-mer, du ministre chargé du logement et du ministre chargé du budget.
 
 II. - Pour bénéficier de l'abattement prévu au I, les organismes ou sociétés concernés doivent adresser au service des impôts du lieu de situation des biens, avant le 1er janvier de l'année suivant celle de l'achèvement des travaux, une déclaration conforme au modèle établi par l'administration comportant tous les éléments d'identification des biens. Cette déclaration doit être accompagnée des documents justifiant de l'octroi et du versement de la subvention par l'Etat ainsi que de la réalisation des travaux. Lorsque la déclaration est souscrite hors délai, l'abattement s'applique pour la période restant à courir après le 31 décembre de l'année de la souscription.
 
