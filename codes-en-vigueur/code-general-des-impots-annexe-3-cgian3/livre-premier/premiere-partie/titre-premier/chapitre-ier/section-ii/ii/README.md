@@ -4,6 +4,7 @@
 - [Article 41 L](article-41-l.md)
 - [Article 41 M](article-41-m.md)
 - [Article 41 K](article-41-k.md)
+- [Article 41 N](article-41-n.md)
 - [Article 41 O](article-41-o.md)
 - [Article 41 P](article-41-p.md)
 - [Article 41 Q](article-41-q.md)
