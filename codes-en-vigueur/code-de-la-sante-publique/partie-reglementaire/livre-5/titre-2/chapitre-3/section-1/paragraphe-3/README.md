@@ -8,3 +8,4 @@
 - [Article R5146-15](article-r5146-15.md)
 - [Article R5146-16](article-r5146-16.md)
 - [Article R5146-17](article-r5146-17.md)
+- [Article R5146-17 bis](article-r5146-17-bis.md)
