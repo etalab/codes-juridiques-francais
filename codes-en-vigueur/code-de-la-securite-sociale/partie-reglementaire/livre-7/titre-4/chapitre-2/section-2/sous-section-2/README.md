@@ -1,0 +1,18 @@
+# Sous-section 2 : Dispositions communes au régime des professions artisanales et à celui des professions industrielles et commerciales.
+
+- [Article D742-18](article-d742-18.md)
+- [Article D742-19](article-d742-19.md)
+- [Article D742-20](article-d742-20.md)
+- [Article D742-21](article-d742-21.md)
+- [Article D742-22](article-d742-22.md)
+- [Article D742-23](article-d742-23.md)
+- [Article D742-24](article-d742-24.md)
+- [Article D742-25](article-d742-25.md)
+- [Article D742-27](article-d742-27.md)
+- [Article D742-28](article-d742-28.md)
+- [Article D742-29](article-d742-29.md)
+- [Article D742-30](article-d742-30.md)
+- [Article D742-31](article-d742-31.md)
+- [Article D742-32](article-d742-32.md)
+- [Article D742-33](article-d742-33.md)
+- [Article D742-34](article-d742-34.md)

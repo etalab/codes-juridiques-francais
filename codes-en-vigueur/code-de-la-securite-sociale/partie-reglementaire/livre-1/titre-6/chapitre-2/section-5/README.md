@@ -1,0 +1,17 @@
+# Section 5 : Etablissements de soins.
+
+- [Article D162-3](article-d162-3.md)
+- [Article D162-4](article-d162-4.md)
+- [Article D162-5](article-d162-5.md)
+- [Article D162-6](article-d162-6.md)
+- [Article D162-7](article-d162-7.md)
+- [Article D162-8](article-d162-8.md)
+- [Article D162-9](article-d162-9.md)
+- [Article D162-10](article-d162-10.md)
+- [Article D162-11](article-d162-11.md)
+- [Article D162-12](article-d162-12.md)
+- [Article D162-13](article-d162-13.md)
+- [Article D162-14](article-d162-14.md)
+- [Article D162-15](article-d162-15.md)
+- [Article D162-16](article-d162-16.md)
+- [Article D162-17](article-d162-17.md)

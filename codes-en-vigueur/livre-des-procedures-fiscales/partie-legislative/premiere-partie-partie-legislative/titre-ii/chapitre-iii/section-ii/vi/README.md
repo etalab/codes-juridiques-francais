@@ -3,6 +3,7 @@
 - [Article L152](article-l152.md)
 - [Article L152 A](article-l152-a.md)
 - [Article L153](article-l153.md)
+- [Article L154](article-l154.md)
 - [Article L155](article-l155.md)
 - [Article L156](article-l156.md)
 - [Article L157](article-l157.md)

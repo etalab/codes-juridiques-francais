@@ -1,0 +1,3 @@
+# LIVRE VII : REGIMES DIVERS
+
+- [DISPOSITIONS DIVERSES](dispositions-diverses)
