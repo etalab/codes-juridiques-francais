@@ -9,3 +9,4 @@
 - [Sous-section 4 : Calcul de l'aide personnalisée au logement.](sous-section-4)
 - [Sous-section 5 : Prime de déménagement.](sous-section-5)
 - [Sous-section 6 : Modalités de liquidation et de versement.](sous-section-6)
+- [Dispositions particulières aux logements-foyers](dispositions-particulieres-aux)
