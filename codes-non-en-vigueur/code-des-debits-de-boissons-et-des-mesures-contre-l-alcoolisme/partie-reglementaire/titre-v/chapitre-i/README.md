@@ -10,6 +10,7 @@
 - [Article R*21](article-r-21.md)
 - [Article R*22](article-r-22.md)
 - [Article R*23](article-r-23.md)
+- [Article R*24](article-r-24.md)
 - [Article R*26](article-r-26.md)
 - [Article R*27](article-r-27.md)
 - [Article R*28](article-r-28.md)
