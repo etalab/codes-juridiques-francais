@@ -28,6 +28,7 @@
 - [Article 1740](article-1740.md)
 - [Article 1741](article-1741.md)
 - [Article 1742](article-1742.md)
+- [Article 1743](article-1743.md)
 - [Article 1744](article-1744.md)
 - [Article 1745](article-1745.md)
 - [Article 1746](article-1746.md)
