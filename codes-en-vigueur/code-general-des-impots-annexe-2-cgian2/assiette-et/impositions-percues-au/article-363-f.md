@@ -1,33 +1,25 @@
 # Article 363 F
 
-I. Il est institué au profit du fonds national de développement agricole et à la charge des producteurs une taxe parafiscale sur les oléagineux.
+I. Il est institué au profit de l'association nationale pour le developpement agricole [*ANDA*], pour être versée au fonds national de développement agricole [*FNDA*] , une taxe parafiscale sur les graines oléagineuses : colza, navette, tournesol et soja, et sur les graines protéagineuses, pois, fève, féverole et lupin doux, livrées par les producteurs aux intermédiaires agréés ou aux organismes collecteurs.
 
-II. Le montant maximum de la taxe est fixé à :
+Cette taxe est applicable pour une durée de trois campagnes à compter de la campagne de commercialisation 1985-1986 pour le colza la navette et le tournesol et de deux campagnes à compter de la campagne de commercialisation 1986-1987 pour le soja, les pois, fève, féverole et lupin doux.
 
-1,2 % du prix d'intervention communautaire applicable au colza par tonne de graines de colza ;
+II. La taxe est mise à la charge des producteurs [*redevables*]. Elle est retenue [*fait générateur*] par les intermédiaires agrées ou par les organismes collecteurs lors du paiement des graines oléagineuses et protéagineuses aux producteurs. Le poids des graines à la reception est, pour le calcul de la taxe, ramené à la qualité type arrêtée pour chaque campagne par le conseil des communautés européennes conformément aux dispositions des règlements n° 136-66 du 22 septembre 1966 modifié, 1614-79 du 24 juillet 1979 et 1431-82 du 18 mai 1982 modifié.
 
-1,2 % du prix d'intervention communautaire applicable à la navette par tonne de graines de navette ;
+III. Les taux maximum de la taxe sont les suivants :
 
-1,2 % du prix d'intervention communautaire applicable au tournesol par tonne de graines de tournesol.
+a. Pour les graines de colza, navette et tournesol : 1 % du prix d'intervention fixé par le conseil des communautés européennes ;
 
-Le montant de la taxe effectivement perçue à la suite de l'entrée en vigueur du présent décret est fixé à 0,5 % des prix d'intervention communautaire par tonne de graines de colza, de navette et de tournesol.
+b. Pour les graines de soja : 1% [*pourcentage*] du prix d'objectif fixé par les mêmes autorités ;
 
-Le décret fixant le régime financier des oléagineux peut modifier le taux dans la limite des pourcentages maximums fixée au premier alinéa.
+c. Pour les graines de pois, fève, féverole et lupin doux :
 
-Pour chaque campagne le décret fixant le régime financier des oléagineux constate :
+0,95 % du prix minimum fixé par les mêmes autorités.
 
-Les prix d'intervention de base en vigueur à l'ouverture des campagnes de commercialisation ;
+Un arrêté du ministre de l'économie, des finances et du budget et du ministre de l'agriculture fixe les montants de la taxe effectivement perçue dans les limites prévues ci-dessus (1).
 
-Le taux de conversion en francs français de l'ECU en vigueur à cette date dans le secteur agricole, et détermine sur ces bases le montant de la taxe exprimé en francs par tonne à percevoir sur les graines oléagineuses pour la campagne.
+IV. La taxe est perçue par la direction générale des impôts auprés des intermédiaires agréés ou des organismes collecteurs. Elle est établie et recouvrée selon les règles et sous les garanties et sanctions prévues en matière de contributions indirectes.
 
-En cours de campagne, le montant de la taxe peut être modifié par décret en raison des variations des prix d'intervention de base ou de la valeur en francs français de l'ECU dans le secteur agricole.
+Les sommes exigibles sont liquidées sur production, par les intermédiaires agréés ou les organismes collecteurs, de déclarations conformes aux modèles fixés par la direction générales des impôts et transmises à cette administration dans les dix premiers jours du mois suivant celui au titre duquel la taxe est applicable. Elle doivent être acquittées au plus tard [*date limite*] le 25 du mois de la déclaration.
 
-Ces montants calculés à partir des prix d'intervention de base définis ci-dessus sont arrondis au décime le plus proche.
-
-III. La taxe est assise sur le poids à la réception des graines oléagineuses livrées par les producteurs aux intermédiaires agréés, ramené à la qualité type arrêtée, pour chaque campagne, par le conseil des communautés économiques européennes, conformément aux dispositions de l'article 22 du règlement n° 136/66/CEE.
-
-IV. La taxe est perçue par la direction générale des impôts auprès des intermédiaires agréés. Elle est établie et recouvrée selon les règles et sous les garanties et sanctions prévues en matière de contributions indirectes.
-
-Les sommes exigibles sont liquidées sur production par les intermédiaires agréés de déclarations conformes aux modèles fixés par la direction générale des impôts et transmises à cette administration dans les dix premiers jours du mois suivant celui au titre duquel la taxe est applicable.
-
-Elles doivent être obligatoirement acquittées au plus tard le 25 du mois de la déclaration [*date limite*].
+(1) Pour la campagne 1985-1986, arrêté du 24 septembre 1985  (J.O. du 25).
