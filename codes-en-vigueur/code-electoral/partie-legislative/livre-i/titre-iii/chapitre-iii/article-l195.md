@@ -38,6 +38,8 @@ Ne peuvent être élus membres du conseil général :
 
 18° Les membres du cabinet du président du conseil général et du président du conseil régional, les directeurs généraux, les directeurs, les directeurs adjoints, les chefs de service et les chefs de bureau de conseil général et de conseil régional dans la circonscription où ils exercent ou ont exercé leurs fonctions depuis moins de six mois ;
 
-Les délais mentionnés aux troisième (2°) à dix-neuvième (18°) alinéas ci-dessus ne sont pas opposables aux candidats qui, au jour de l'élection, auront été admis à faire valoir leurs droits à la retraite.
+19° Les membres du cabinet du président de l'Assemblée et les membres du cabinet du président du conseil exécutif de Corse, les directeurs généraux, les directeurs, directeurs adjoints, chefs de service et chefs de bureau de la collectivité territoriale de Corse et de ses établissements publics dans les départements de la Corse-du-Sud et de la Haute-Corse, s'ils y exercent leurs fonctions ou les ont exercées depuis moins de six mois.
+
+Les délais mentionnés aux troisième (2°) à vingtième (19°) alinéas ci-dessus ne sont pas opposables aux candidats qui, au jour de l'élection, auront été admis à faire valoir leurs droits à la retraite.
 
 Est également inéligible, pendant un an, le président de conseil général qui n'a pas déposé l'une des déclarations prévues à l'article 2 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique.

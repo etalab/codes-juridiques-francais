@@ -1,6 +1,7 @@
-# Livre IV : Election des conseillers régionaux
+# Livre IV : Election des conseillers régionaux et des conseillers de l'Assemblée de Corse
 
 - [Chapitre Ier : Composition des conseils régionaux et durée du mandat des conseillers](chapitre-ier)
+- [Titre Ier : Election des conseillers régionaux](titre-ier)
 - [Chapitre II : Mode de scrutin](chapitre-ii)
 - [Chapitre III : Conditions d'éligibilité et inéligibilités](chapitre-iii)
 - [Chapitre IV : Incompatibilités](chapitre-iv)
