@@ -10,12 +10,12 @@ II. 1. La taxe est assise sur le montant hors taxe sur la valeur ajoutée des ab
 
 a) Des sommes versées par les annonceurs, pour la diffusion de leurs messages publicitaires, aux redevables concernés ou aux régisseurs de messages publicitaires. Ces sommes font l'objet d'un abattement forfaitaire de 4 % ;
 
-b) Du produit de la redevance pour droit d'usage des appareils de télévision encaissé par les redevables concernés, à l'exception de la Société nationale de radiodiffusion et de télévision d'outre-mer.
+b) Du produit de la redevance pour droit d'usage des appareils de télévision encaissé par les redevables concernés, à l'exception de la Société nationale de radiodiffusion et de télévision d'outre-mer ;
+
+c. Des sommes versées directement ou indirectement par les opérateurs de communications électroniques aux redevables concernés, ou à des personnes auxquelles ces redevables en ont confié l'encaissement, à raison des appels téléphoniques à revenus partagés, des connexions à des services télématiques et des envois de minimessages qui sont liés à la diffusion de leurs programmes, à l'exception des programmes servant une grande cause nationale ou d'intérêt général.
 
 III. L'exigibilité de la taxe est constituée par l'encaissement du produit de la redevance et par le versement des autres sommes mentionnées au II.
 
 IV. Les redevables ou leurs représentants procèdent à la liquidation de la taxe due au titre de l'année civile précédente lors du dépôt de leur déclaration de taxe sur la valeur ajoutée du mois de mars ou du premier trimestre de l'année civile.
 
-V. La taxe est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe (1).
-
-(1) Ces dispositions s'appliquent à compter du 1er janvier 1998.
+V. La taxe est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.

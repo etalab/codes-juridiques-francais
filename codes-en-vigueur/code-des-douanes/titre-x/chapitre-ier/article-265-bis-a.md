@@ -10,9 +10,11 @@ c) 37 euros par hectolitre pour l'alcool éthylique d'origine agricole incorpor�
 
 2. Pour bénéficier de la réduction de la taxe intérieure de consommation, les unités de production des esters méthyliques d'huile végétale, d'alcool éthylique et de ses dérivés doivent être agréées par le ministre chargé du budget après avis du ministre chargé de l'agriculture et du ministre chargé de l'industrie, sur procédure d'appel à candidatures publiée au Journal officiel des Communautés européennes.
 
+2 bis. Pour l'année 2005, des agréments pour 130000 tonnes supplémentaires par rapport aux agréments accordés en 2004 seront lancés par appel d'offres communautaire.
+
 3. La durée de validité des agréments délivrés ne peut excéder six ans.
 
-4. L'opérateur dont les unités sont agréées est tenu de mettre à la consommation en France ou de céder aux fins de mise à la consommation en France la quantité annuelle de biocarburants fixée par l'agrément qui lui a été accordé. Il est également tenu de mettre en place auprès d'une banque ou d'un établissement financier une caution égale à 20 % du montant total de la réduction de la taxe intérieure de consommation correspondant à la quantité de biocarburants qu'il doit mettre à la consommation au cours de la même année en application de la décision d'agrément.
+4. L'opérateur dont les unités sont agréées est tenu de mettre à la consommation en France ou de céder aux fins de mise à la consommation en France la quantité annuelle de biocarburants fixée par l'agrément qui lui a été accordé. Le transfert d'une partie d'un agrément délivré à une unité de production est autorisé au profit d'une autre unité agréée d'un même opérateur. Ce transfert donne lieu à accord préalable de l'administration des douanes. L'opérateur est également tenu de mettre en place auprès d'une banque ou d'un établissement financier une caution égale à 20 % du montant total de la réduction de la taxe intérieure de consommation correspondant à la quantité de biocarburants qu'il doit mettre à la consommation au cours de la même année en application de la décision d'agrément.
 
 En cas de mise à la consommation ou de cession aux fins de mise à la consommation en France d'une quantité inférieure à la quantité annuelle fixée par l'agrément, cette dernière peut être réduite dans les conditions fixées par décret.
 

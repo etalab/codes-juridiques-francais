@@ -6,7 +6,9 @@ Cette taxe est acquittée par les chefs d'entreprises individuelles ou les soci�
 
 Cette taxe est composée :
 
-a. D'un droit fixe par ressortissant, égal à la somme des droits fixes arrêtés par la chambre de métiers, la chambre régionale de métiers et l'Assemblée permanente des chambres de métiers dans la limite d'un montant maximum fixé respectivement à 93,50 Euros, 7 Euros et 12,50 Euros ;
+a. D'un droit fixe par ressortissant, égal à la somme des droits fixes arrêtés par la chambre de métiers, la chambre régionale de métiers et l'Assemblée permanente des chambres de métiers dans la limite d'un montant maximum fixé respectivement à 95,50 euros, 7 euros et 12,50 euros pour les chambres de métiers et de l'artisanat de Guadeloupe, de Martinique, de Guyane et de La Réunion, le montant maximum du droit fixe est fixé à 102,50 euros ;
+
+Pour 2005, le montant maximum du droit fixe des chambres de métiers et de l'artisanat est exceptionnellement majoré de 1 euro afin de permettre le financement de l'organisation des élections aux chambres de métiers et de l'artisanat ; cette majoration n'est pas prise en compte dans le calcul du droit additionnel à la taxe professionnelle ;
 
 b. d'un droit additionnel à la taxe professionnelle, dont le produit est arrêté par les chambres de métiers ; celui-ci ne peut excéder 50 % du produit du droit fixe revenant aux chambres de métiers majoré d'un coefficient de 1,12.
 
