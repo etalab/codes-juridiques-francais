@@ -1,5 +1,6 @@
 # Section 1 : Des règles communes aux baux des maisons et des biens ruraux.
 
+- [Article 1714](article-1714.md)
 - [Article 1715](article-1715.md)
 - [Article 1716](article-1716.md)
 - [Article 1717](article-1717.md)
