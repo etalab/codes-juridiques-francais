@@ -7,6 +7,7 @@
 - [Article **R13-66](article-r13-66.md)
 - [Article **R13-67](article-r13-67.md)
 - [Article **R13-68](article-r13-68.md)
+- [Article R13-69](article-r13-69.md)
 - [Article R13-70](article-r13-70.md)
 - [Article **R13-71](article-r13-71.md)
 - [Article **R13-72](article-r13-72.md)
