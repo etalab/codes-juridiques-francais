@@ -2,3 +2,4 @@
 
 - [Article R244-1](article-r244-1.md)
 - [Article R244-2](article-r244-2.md)
+- [Article R245](article-r245.md)
