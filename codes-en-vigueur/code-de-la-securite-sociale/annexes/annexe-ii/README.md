@@ -2,7 +2,6 @@
 
 - [Article Annexe II tableau 10](article-annexe-ii-tableau-10.md)
 - [Article Annexe II tableau 12](article-annexe-ii-tableau-12.md)
-- [Article Annexe II tableau 42](article-annexe-ii-tableau-42.md)
 - [Article Annexe II tableau 44](article-annexe-ii-tableau-44.md)
 - [Article Annexe II tableau 44 bis](article-annexe-ii-tableau-44-bis.md)
 - [Article Annexe II tableau 47](article-annexe-ii-tableau-47.md)
