@@ -1,4 +1,4 @@
-# Chapitre II : Le fonds de garantie contre les actes de terrorisme.
+# Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.
 
 - [Article L422-1](article-l422-1.md)
 - [Article L422-2](article-l422-2.md)
