@@ -2,4 +2,3 @@
 
 - [Bibliothèques et musées](bibliotheques-et)
 - [Protection contre l'incendie](protection-contre-l-incendie)
-- [Services communaux](services-communaux)
