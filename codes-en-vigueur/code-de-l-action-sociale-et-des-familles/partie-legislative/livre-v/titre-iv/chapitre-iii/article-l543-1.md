@@ -1,3 +1,5 @@
 # Article L543-1
 
-Les articles L. 224-1 à L. 224-9 et L. 225-1 à L. 225-7 sont applicables à Mayotte, sous réserve des adaptations prévues au présent chapitre.
+Une union territoriale des associations familiales peut être constituée par les associations ayant leur siège à Mayotte.
+
+Les dispositions des articles L. 211-1 à L. 211-5, L. 211-7 à L. 211-12 et L. 211-14 du présent code lui sont applicables.

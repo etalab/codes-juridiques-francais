@@ -1,9 +1,7 @@
 # Article L224-7
 
-Les renseignements mentionnés au 4° de l'article L. 224-5 sont conservés sous la responsabilité du président du conseil général qui les tient à la disposition de l'enfant majeur, de son représentant légal, s'il est mineur, ou de ses descendants en ligne directe majeurs, s'il est décédé.
+Les renseignements et le pli fermé mentionnés à l'article L. 222-6, ainsi que l'identité des personnes qui ont levé le secret, sont conservés sous la responsabilité du président du conseil général qui les transmet au Conseil national pour l'accès aux origines personnelles, sur la demande de celui-ci.
 
-Toutefois le mineur capable de discernement peut, après accord de son représentant légal, en obtenir communication avec l'assistance d'une personne habilitée à cet effet par le président du conseil général.
+Sont également conservées sous la responsabilité du président du conseil général les demandes et déclarations transmises par le Conseil national pour l'accès aux origines personnelles en application de l'article L. 147-4.
 
-Les renseignements à caractère médical ne peuvent être communiqués à l'enfant majeur, à son représentant légal, s'il est mineur, ou à ses descendants en ligne directe majeurs, s'il est décédé, que par l'intermédiaire d'un médecin désigné par l'intéressé à cet effet.
-
-Si la ou les personnes qui ont demandé le secret de leur identité lèvent celui-ci, ladite identité est conservée sous la responsabilité du président du conseil général.
+Les renseignements concernant la santé des père et mère de naissance, les origines de l'enfant, les raisons et circonstances de sa remise au service de l'aide à l'enfance, ainsi que l'identité des père et mère de naissance, s'ils ont levé le secret de leur identité, sont tenus à la disposition de l'enfant majeur, de ses représentants légaux ou de lui-même avec l'accord de ceux-ci s'il est mineur, de son tuteur s'il est majeur placé sous tutelle, de ses descendants en ligne directe majeurs s'il est décédé.

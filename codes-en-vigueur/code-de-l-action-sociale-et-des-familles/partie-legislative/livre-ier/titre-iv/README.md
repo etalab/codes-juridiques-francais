@@ -5,3 +5,5 @@
 - [Chapitre IV : Observatoire national de la pauvreté et de l'exclusion sociale.](chapitre-iv)
 - [Chapitre V : Coordination des interventions.](chapitre-v)
 - [Chapitre VI : Consultation des personnes handicapées](chapitre-vi)
+- [Chapitre VII : Conseil national pour l'accès aux origines personnelles](chapitre-vii)
+- [Chapitre VIII : Conseil supérieur de l'adoption et Autorité centrale pour l'adoption internationale](chapitre-viii)
