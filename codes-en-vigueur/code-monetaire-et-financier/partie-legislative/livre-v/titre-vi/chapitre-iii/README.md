@@ -1,4 +1,4 @@
-# Chapitre III : Autres obligations de vigilance des organismes financiers
+# Chapitre III : Autres obligations de vigilance
 
 - [Article L563-1](article-l563-1.md)
 - [Article L563-1-1](article-l563-1-1.md)
