@@ -1,4 +1,0 @@
-# DISPOSITIONS PROVISOIRES
-
-- [ACCORDS PROVISOIRES .](accords-provisoires)
-- [DISPOSITIONS TRANSITOIRES RELATIVES A L'AGREMENT DES EMPLOYEURS .](dispositions-transitoires-relatives-a)
