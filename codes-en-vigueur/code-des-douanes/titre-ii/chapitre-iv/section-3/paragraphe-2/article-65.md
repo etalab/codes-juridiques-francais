@@ -35,3 +35,9 @@ b) Par documents, on entend l'ensemble des livres, registres, notes et pièces j
 6° L'administration des douanes est autorisée, sous réserve de réciprocité, à fournir aux autorités qualifiées des pays étrangers tous renseignements, certificats, procès-verbaux et autres documents susceptibles d'établir la violation des lois et règlements applicables à l'entrée ou à la sortie de leur territoire.
 
 7° Pour l'application des dispositions relatives à l'assistance mutuelle entre les autorités administratives des Etats membres de la Communauté européenne en matière de réglementation douanière ou agricole, les agents des douanes sont autorisés à mettre en oeuvre les dispositions du présent article pour le contrôle des opérations douanières ou agricoles réalisées dans les autres Etats membres.
+
+8° Sous réserve de réciprocité, l'administration des douanes et droits indirects peut communiquer aux autorités compétentes des Etats membres de la Communauté européenne des renseignements et documents pour l'établissement des droits indirects grevant les huiles minérales.
+
+Elle peut faire état, à titre de preuve, des renseignements et documents fournis par les autorités compétentes des Etats membres de la Communauté européenne.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent 8°.

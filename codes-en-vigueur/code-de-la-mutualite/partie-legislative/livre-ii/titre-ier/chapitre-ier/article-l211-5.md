@@ -6,7 +6,7 @@ Les opérations faites en application de la convention de substitution sont cons
 
 Les organismes qui ont le projet de se substituer à d'autres ne peuvent conclure une telle convention qu'au plus tôt deux mois après avoir informé de ce projet la commission de contrôle mentionnée à l'article L. 510-1. Les organismes qui se sont substitués à d'autres sont tenus d'informer la commission de contrôle au plus tard deux mois avant la modification ou la résiliation de la convention.
 
-A compter de l'entrée en vigueur de la convention, les mutuelles et unions auxquelles un autre organisme s'est substitué ne sont pas soumises aux dispositions des articles L. 212-1, L. 212-2, L. 212-3 et L. 212-15 à L. 212-22.
+A compter de l'entrée en vigueur de la convention, les mutuelles et unions auxquelles un autre organisme s'est substitué ne sont pas soumises aux dispositions des articles L. 212-1, L. 212-3 et L. 212-15 à L. 212-22.
 
 Elles sont également dispensées de nommer un commissaire aux comptes lorsque la mutuelle ou l'union avec laquelle elles ont passé convention établit leurs comptes annuels. Dans ce cas, le commissaire aux comptes de l'organisme qui s'est substitué à elles certifie les comptes annuels.
 
