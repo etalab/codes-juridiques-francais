@@ -1,6 +1,5 @@
 # Partie législative
 
-- [Livre I : Contrat](livre-i)
 - [Livre Ier : Le contrat](livre-ier)
 - [Livre II : Assurances obligatoires](livre-ii)
 - [Livre III : Les entreprises.](livre-iii)
