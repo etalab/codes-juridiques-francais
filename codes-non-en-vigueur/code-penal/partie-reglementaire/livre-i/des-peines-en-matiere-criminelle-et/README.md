@@ -2,4 +2,5 @@
 
 - [CHAPITRE I](chapitre-i)
 - [Chapître II](chapitre-ii)
+- [CHAPITRE III](chapitre-iii)
 - [CHAPITRE V](chapitre-v)
