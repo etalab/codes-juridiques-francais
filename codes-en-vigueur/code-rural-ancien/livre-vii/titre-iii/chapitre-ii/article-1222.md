@@ -5,3 +5,5 @@ Les assurés des professions agricoles bénéficiaires de l'assurance facultativ
 Pour les assurés facultatifs dont la rente a été liquidée sur un gain inférieur au salaire moyen susvisé, la rente nouvelle est égale à celle que le titulaire aurait obtenue sur la base d'un gain annuel de 2 760 F, cette rente étant réduite dans la proportion du gain déclaré par rapport au salaire moyen, sans pouvoir être inférieure à celle qui résulterait du gain annuel minimum susceptible d'être déclaré au titre de l'assurance facultative.
 
 Toutefois, les assurés facultatifs dont la rente a été liquidée au titre d'un accident du travail survenu avant le 1er avril 1943 bénéficient sans conditions de la majoration prévue à l'alinéa 1er du présent article.
+
+Les dispositions de l'article 1234-26-1 sont applicables aux rentes servies aux assurés de professions agricoles bénéficiaires de l'assurance facultative.
