@@ -22,7 +22,7 @@ Le montant ainsi réparti :
 
 Cette majoration, égale à 80 % de la fraction de dépenses excédant le seuil de 30 %, est prise en charge par le fonds et minore, à due concurrence, les montants à répartir en fonction des trois critères visés ci-dessus.
 
-Des acomptes sont versés aux départements. Ils sont établis sur la base des trois critères visés ci-dessus, dans la limite de 80 % des recettes disponibles du fonds après prise en compte des dépenses visées au 2° et au 3° . Ils sont régularisés au cours de l'exercice suivant par application de l'ensemble des critères ainsi définis, dans la limite des recettes de l'exercice au titre duquel est effectuée la régularisation.
+Des acomptes sont versés aux départements. Ils sont établis sur la base des trois critères visés ci-dessus et correspondent au minimum à 90 % des recettes disponibles du fonds après prise en compte des dépenses visées aux 2°, 3° et 4°. Ils sont régularisés au cours de l'exercice suivant par application de l'ensemble des critères ainsi définis, dans la limite des recettes de l'exercice au titre duquel est effectuée la régularisation.
 
 En aucun cas, les dépenses relatives à l'allocation personnalisée d'autonomie de chaque département ne peuvent excéder un montant moyen par bénéficiaire égal à 80 % du montant au 1er janvier 2001 de la majoration pour tierce personne mentionnée à l'article L. 335-1 du code de la sécurité sociale revalorisée, chaque année, comme les prix à la consommation hors tabac aux termes du rapport économique et financier annexé au projet de loi de finances pour l'année civile à venir. Les dépenses effectuées en dépassement de ce seuil sont prises en charge en totalité par le fonds et minorent, à due concurrence, les montants à répartir.
 
@@ -34,10 +34,20 @@ Ces dépenses sont retracées dans une section spécifique du Fonds de financeme
 
 Les projets de modernisation de l'aide à domicile sont agréés par le ministre chargé de l'action sociale et financés par le fonds dans la limite des crédits disponibles ;
 
-3° Le remboursement des frais de gestion du fonds.
+3° Le remboursement des frais de gestion du fonds ;
+
+4° Un concours spécifique versé à titre exceptionnel pour 2003 aux départements dont le rapport entre, d'une part, les dépenses au titre de l'allocation personnalisée d'autonomie en 2003 après déduction du concours prévu au 1° au titre de 2003 et, d'autre part, le potentiel fiscal tel que défini au 1°, est supérieur à un taux fixé par décret. Ce concours peut faire l'objet d'acomptes.
+
+Ce concours est réparti entre les départements concernés en fonction du montant du rapport défini à l'alinéa précédent. Les modalités de la répartition sont fixées par décret.
+
+Ce concours est égal à une fraction du montant de l'emprunt visé au 3° du III. Cette fraction est fixée par décret dans la limite de 20 % de ce montant ;
+
+5° Les dépenses relatives au remboursement de l'emprunt mentionné au III.
 
 III. - Les recettes affectées au financement des dépenses prévues au II sont constituées par :
 
 1° Une participation des régimes obligatoires de base d'assurance vieillesse, représentative d'une fraction identique pour tous les régimes, déterminée par voie réglementaire, des sommes consacrées par chacun de ceux-ci en 2000 aux dépenses d'aide ménagère à domicile au bénéfice des personnes âgées dépendantes remplissant la condition de perte d'autonomie mentionnée à l'article L. 232-2 ; cette fraction ne peut être inférieure à la moitié ni supérieure aux trois quarts des sommes en cause ;
 
-2° Une fraction du produit des contributions sociales mentionnées aux articles L. 136-1, L. 136-6, L. 136-7 et L. 136-7-1 du code de la sécurité sociale.
+2° Une fraction du produit des contributions sociales mentionnées aux articles L. 136-1, L. 136-6, L. 136-7 et L. 136-7-1 du code de la sécurité sociale ;
+
+3° A titre exceptionnel en 2003, un emprunt souscrit par le fonds au cours de l'exercice 2003, dont le montant et la durée de remboursement sont fixés par décret, pour aider les départements à faire face à la montée en charge de l'allocation personnalisée d'autonomie.
