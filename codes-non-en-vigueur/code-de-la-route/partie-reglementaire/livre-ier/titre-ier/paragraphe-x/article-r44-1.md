@@ -5,3 +5,5 @@ Peuvent toutefois ne pas donner lieu à la signalisation prévue à l'article pr
 1° Les mesures temporaires applicables sur tout le territoire ;
 
 2° Les mesures concernant certaines catégories de véhicules ou ensembles de véhicules.
+
+Peuvent également ne pas donner lieu à la signalisation prévue à l'article précédent les mesures de suspension ou de restriction de la circulation, propres à limiter l'ampleur et les effets d'une pointe de pollution sur la population, prises par le préfet dans les zones qu'il a définies à cet effet.
