@@ -3,7 +3,7 @@
 - [I : Bénéfices et revenus imposables](i)
 - [I bis : Réévaluation des immobilisations non amortissables](i-bis)
 - [I ter : Réévaluation des immobilisations amortissables](i-ter)
-- [I quater : Détermination de la part de bénéfices correspondant aux droits détenus dans une société de personnes ou un groupement d'intérêt économique.](i-quater)
+- [I quater : Détermination de la part de bénéfices correspondant aux droits détenus dans une société de personnes, une copropriété de cheval de course ou d'étalon, un groupement d'intérêt économique](i-quater)
 - [I quinquies : Régime fiscal des sociétés créées de fait](i-quinquies)
 - [I sexies : Obligation des sociétés en participation](i-sexies)
 - [II : Régime fiscal des groupements forestiers et de leurs membres](ii)

@@ -14,7 +14,7 @@ Par dérogation aux dispositions de l'alinéa qui précède, les bénéfices inv
 
 5° Le paiement d'une redevance spéciale liquidée sur la base du poids des substances extraites ou de leur volume. Le tarif et les modalités du paiement de cette redevance et de la répartition de son produit entre l'Etat et les collectivités locales sont fixés, pour toute la durée d'application du régime, par l'arrêté prononçant l'agrément de la société.
 
-II. Les demandes d'agrément doivent indiquer de façon précise l'objet de la société et son programme d'équipement. Elles doivent être présentées avant le 31 décembre 1996               au ministre de l'économie et des finances qui les soumet, pour avis, à la commission centrale instituée par l'article 18 du décret n° 52-152 du 13 février 1952 (1), laquelle s'adjoint, pour la circonstance, le directeur général des douanes et des droits indirects ou son représentant.
+II. Les demandes d'agrément doivent indiquer de façon précise l'objet de la société et son programme d'équipement. Elles doivent être présentées avant le 31 décembre 2001 au ministre de l'économie et des finances qui les soumet, pour avis, à la commission centrale instituée par l'article 18 du décret n° 52-152 du 13 février 1952 (1), laquelle s'adjoint, pour la circonstance, le directeur général des douanes et des droits indirects ou son représentant.
 
 L'arrêté d'agrément définit :
 
