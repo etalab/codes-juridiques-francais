@@ -20,7 +20,7 @@ En cas d'égalité de restes, le mandat revient à la liste qui a obtenu le plus
 
 Si les listes en cause ont également recueilli le même nombre de suffrages, le mandat est attribué au plus âgé des candidats susceptibles d'être proclamés élus.
 
-- Lorsqu'il s'agit d'un établissement public de coopération intercommunale ou d'un syndicat mixte, par le président de cet établissement ou de ce syndicat et par un nombre de membres égal à celui prévu pour la composition de la commission de la collectivité au nombre d'habitants le plus élevé, désignés par l'assemblée délibérante de l'établissement ; le comptable de l'établissement ou du syndicat assiste aux réunions de la commission. Toutefois, si le nombre des membres prévus ne peut être atteint, il est procédé à leur désignation dans les conditions prévues à l'alinéa suivant.
+- Lorsqu'il s'agit d'un établissement public de coopération intercommunale ou d'un syndicat mixte, par le président de cet établissement ou de ce syndicat ou son représentant et par un nombre de membres égal à celui prévu pour la composition de la commission de la collectivité au nombre d'habitants le plus élevé, désignés par l'assemblée délibérante de l'établissement ; le comptable de l'établissement ou du syndicat assiste aux réunions de la commission. Toutefois, si le nombre des membres prévus ne peut être atteint, il est procédé à leur désignation dans les conditions prévues à l'alinéa suivant.
 
 - Lorsqu'il s'agit d'un autre établissement public local, par le représentant légal de l'établissement, ou son représentant, président, et par deux membres de l'assemblée délibérante, désignés par celle-ci ; le comptable de l'établissement assiste aux réunions de la commission.
 

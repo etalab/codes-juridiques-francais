@@ -6,7 +6,7 @@ La propagande ou la publicité, directe ou indirecte, en faveur des boissons alc
 
 2° Par voie de radiodiffusion sonore pour les catégories de radios et dans les tranches horaires déterminées par décret en Conseil d'Etat ;
 
-3° Sous forme d'affiches et d'enseignes dans les zones de production, sous forme d'affichettes et d'objets à l'intérieur des lieux de vente à caractère spécialisé, dans des conditions définies par décret en Conseil d'Etat ;
+3° Sous forme d'affiches et d'enseignes ; sous forme d'affichettes et d'objets à l'intérieur des lieux de vente à caractère spécialisé, dans des conditions définies par décret en Conseil d'Etat ;
 
 4° Sous forme d'envoi par les producteurs, les fabricants, les importateurs, les négociants, les concessionnaires ou les entrepositaires, de messages, de circulaires commerciales, de catalogues et de brochures, dès lors que ces documents ne comportent que les mentions prévues à l'article L. 18 et les conditions de vente des produits qu'ils proposent ;
 
