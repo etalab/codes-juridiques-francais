@@ -1,6 +1,5 @@
 # Titre Ier : De l'aménagement foncier
 
-- [Chapitre Ier : Dispositions communes aux divers modes d'aménagement foncier](chapitre-ier)
 - [Chapitre II : De la réorganisation de la propriété foncière](chapitre-ii)
 - [Chapitre III : Du remembrement rural.](chapitre-iii)
 - [Chapitre IV : De certains échanges en propriété ou en jouissance et de certaines cessions d'immeubles ruraux.](chapitre-iv)
