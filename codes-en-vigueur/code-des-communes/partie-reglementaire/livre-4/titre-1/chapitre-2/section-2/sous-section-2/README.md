@@ -9,6 +9,7 @@
 - [Article R412-61](article-r412-61.md)
 - [Article R412-62](article-r412-62.md)
 - [Article R412-63](article-r412-63.md)
+- [Article R412-64](article-r412-64.md)
 - [Article R412-65](article-r412-65.md)
 - [Article R412-66](article-r412-66.md)
 - [Article R412-67](article-r412-67.md)
