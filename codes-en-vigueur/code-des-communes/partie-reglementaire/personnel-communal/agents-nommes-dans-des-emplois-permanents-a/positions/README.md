@@ -1,6 +1,5 @@
 # POSITIONS
 
-- [CONGE POSTNATAL .](conge-postnatal)
 - [La disponibilité .](la-disponibilite)
 - [Le congé postnatal .](le-conge-postnatal)
 - [Le détachement .](le-detachement)
