@@ -1,7 +1,6 @@
 # LIQUIDATION DE LA TAXE.
 
 - [Article 215](article-215.md)
-- [Article 221](article-221.md)
 - [Article 233 C](article-233-c.md)
 - [Article 233 D](article-233-d.md)
 - [Article 233 A](article-233-a.md)
