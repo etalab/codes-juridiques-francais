@@ -1,6 +1,6 @@
 # Article L29
 
-Les détenteurs d'appareils ou de portions d'appareils propres à la distillation, à la fabrication ou au repassage d'eaux-de-vie ou d'esprits sont tenus de représenter à toute demande du service des impôts les appareils scellés ou non scellés en leur possession. Tant qu'ils ont la libre disposition des appareils les détenteurs sont astreints aux visites et vérifications des agents des impôts dans les conditions déterminées à l'article L. 32 en ce qui concerne les distillateurs de profession.
+Les détenteurs d'appareils ou de portions d'appareils propres à la distillation, à la fabrication ou au repassage d'eaux-de-vie ou d'esprits sont tenus de représenter à toute demande de l'administration les appareils scellés ou non scellés en leur possession. Tant qu'ils ont la libre disposition des appareils les détenteurs sont astreints aux visites et vérifications des agents des impôts dans les conditions déterminées à l'article L. 32 en ce qui concerne les distillateurs de profession.
 
 Toutefois, sous les conditions déterminées par l'administration, peuvent être dispensés des visites de nuit :
 
