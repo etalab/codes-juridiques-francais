@@ -9,4 +9,3 @@
 - [Article Annexe I : Chapitre III](article-annexe-i-chapitre-iii.md)
 - [Article Annexe I : Chapitre IV](article-annexe-i-chapitre-iv.md)
 - [Article Annexe I : Chapitre V](article-annexe-i-chapitre-v.md)
-- [Article Annexe I relative aux règles de l'air](article-annexe-i-relative-aux-regles-de-l-air.md)

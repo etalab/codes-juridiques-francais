@@ -7,4 +7,3 @@
 - [Article Annexe II : Chapitre III](article-annexe-ii-chapitre-iii.md)
 - [Article Annexe II : Chapitre IV](article-annexe-ii-chapitre-iv.md)
 - [Article Annexe II : Chapitre V](article-annexe-ii-chapitre-v.md)
-- [Article Annexe II relative aux services de la circulation aérienne](article-annexe-ii-relative-aux-services-de-la-circulation-aerienne.md)
