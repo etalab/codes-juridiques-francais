@@ -6,6 +6,7 @@
 - [Article 38 bis](article-38-bis.md)
 - [Article 38 bis A](article-38-bis-a.md)
 - [Article 38 bis B](article-38-bis-b.md)
+- [Article 38 ter](article-38-ter.md)
 - [Article 38 quater](article-38-quater.md)
 - [Article 39 C](article-39-c.md)
 - [Article 39 bis](article-39-bis.md)
