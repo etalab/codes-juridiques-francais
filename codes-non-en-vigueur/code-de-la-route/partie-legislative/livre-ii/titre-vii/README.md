@@ -1,3 +1,0 @@
-# TITRE VII : ENSEIGNEMENT DE LA CONDUITE DES VÉHICULES À MOTEUR.
-
-- [Article L29](article-l29.md)
