@@ -3,3 +3,4 @@
 - [Chapitre Ier : Droit à l'aide médicale de l'Etat.](chapitre-ier)
 - [Chapitre II : Modalités d'admission.](chapitre-ii)
 - [Chapitre III : Dispositions financières.](chapitre-iii)
+- [Chapitre IV : Prise en charge des soins urgents](chapitre-iv)

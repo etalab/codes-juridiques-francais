@@ -12,11 +12,15 @@ d. D'organismes visés au 4 de l'article 238 bis ;
 
 e. D'associations cultuelles et de bienfaisance qui sont autorisées à recevoir des dons et legs, ainsi que des établissements publics des cultes reconnus d'Alsace-Moselle.
 
-f) D'organismes sans but lucratif qui procèdent à la fourniture gratuite de repas à des personnes en difficulté, qui contribuent à favoriser leur logement ou qui procèdent, à titre principal, à la fourniture gratuite des soins mentionnés au 1° du 4 de l'article 261 à des personnes en difficulté.
+f) Abrogé
 
-Ouvrent également droit à la réduction d'impôt les frais engagés dans le cadre d'une activité bénévole et en vue strictement de la réalisation de l'objet social d'un organisme mentionné aux deuxième à septième alinéas, lorsque ces frais, dûment justifiés, ont été constatés dans les comptes de l'organisme et que le contribuable a renoncé expressément à leur remboursement. Ces dispositions s'appliquent aux frais engagés à compter de la date d'entrée en vigueur de la loi n° 2000-627 du 6 juillet 2000 modifiant la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives.
+Ouvrent également droit à la réduction d'impôt les frais engagés dans le cadre d'une activité bénévole et en vue strictement de la réalisation de l'objet social d'un organisme mentionné aux deuxième à sixième alinéas, lorsque ces frais, dûment justifiés, ont été constatés dans les comptes de l'organisme et que le contribuable a renoncé expressément à leur remboursement. Ces dispositions s'appliquent aux frais engagés à compter de la date d'entrée en vigueur de la loi n° 2000-627 du 6 juillet 2000 modifiant la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives.
 
 1 bis. Pour l'application des dispositions du 1, lorsque les dons et versements effectués au cours d'une année excèdent la limite de 20 %, l'excédent est reporté successivement sur les années suivantes jusqu'à la cinquième inclusivement et ouvre droit à la réduction d'impôt dans les mêmes conditions.
+
+1 ter Le taux de la réduction d'impôt visée au 1 est porté à 66 % pour les versements effectués au profit d'organismes sans but lucratif qui procèdent à la fourniture gratuite de repas à des personnes en difficulté, qui contribuent à favoriser leur logement ou qui procèdent, à titre principal, à la fourniture gratuite des soins mentionnés au 1° du 4 de l'article 261 à des personnes en difficulté. Ces versements sont retenus dans la limite de 414 euros pour l'imposition des revenus de l'année 2003. Il n'en est pas tenu compte pour l'application de la limite mentionnée au 1.
+
+La limite de versements mentionnée au premier alinéa est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu de l'année précédant celle des versements. Le montant obtenu est arrondi, s'il y a lieu, à l'euro supérieur.
 
 2. Les fondations et associations reconnues d'utilité publique peuvent, lorsque leurs statuts ont été approuvés à ce titre par décret en Conseil d'Etat, recevoir des versements pour le compte d'oeuvres ou d'organismes mentionnés au 1.
 
@@ -28,7 +32,7 @@ Un décret en Conseil d'Etat fixe les conditions de cette reconnaissance et les 
 
 4. (abrogé).
 
-5. Le bénéfice des dispositions du 1 est subordonné à la condition que soient jointes à la déclaration des revenus des pièces justificatives, répondant à un modèle fixé par un arrêté attestant le total du montant et la date des versements ainsi que l'identité des bénéficiaires. A défaut, la réduction d'impôt est refusée sans notification de redressement préalable.
+5. Le bénéfice des dispositions du 1 et du 1 ter est subordonné à la condition que soient jointes à la déclaration des revenus des pièces justificatives, répondant à un modèle fixé par un arrêté attestant le total du montant et la date des versements ainsi que l'identité des bénéficiaires. A défaut, la réduction d'impôt est refusée sans notification de redressement préalable.
 
 Toutefois, pour l'application du 3, les reçus délivrés pour les dons et les cotisations d'un montant égal ou inférieur à 3 000 euros ne mentionnent pas la dénomination du bénéficiaire. Un décret en Conseil d'Etat détermine les modalités d'application de cette disposition.
 
@@ -37,3 +41,5 @@ Toutefois, pour l'application du 3, les reçus délivrés pour les dons et les c
 L'identité du bénéficiaire n'est pas mentionnée pour les dons et cotisations versés à des organismes visés au e du 1 et au 3 lorsque, dans ce dernier cas, les versements sont d'un montant égal ou inférieur à 3 000 euros.
 
 La réduction d'impôt accordée est remise en cause lorsque ces contribuables ne peuvent pas justifier des versements effectués par la présentation des pièces justificatives mentionnées au premier alinéa du 5.
+
+7. Abrogé

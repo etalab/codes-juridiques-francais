@@ -31,4 +31,5 @@
 - [XXVII : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales ou agricoles](xxvii)
 - [XXVIII : Crédit d'impôt pour dépenses de formation.](xxviii)
 - [XXIX : Crédit d'impôt pour dépenses d'adhésion à un groupement de prévention agréé](xxix)
+- [XXXI : Crédit d'impôt famille](xxxi)
 - [0I bis : Transferts d'actifs hors de France, réalisés par les entreprises](0i-bis)

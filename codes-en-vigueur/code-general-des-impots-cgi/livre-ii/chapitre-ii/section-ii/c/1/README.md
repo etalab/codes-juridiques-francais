@@ -2,6 +2,7 @@
 
 - [Article 1791](article-1791.md)
 - [Article 1791 bis](article-1791-bis.md)
+- [Article 1791 ter](article-1791-ter.md)
 - [Article 1793 A](article-1793-a.md)
 - [Article 1794](article-1794.md)
 - [Article 1795 bis](article-1795-bis.md)

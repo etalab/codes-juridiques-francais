@@ -5,6 +5,8 @@
 - [Article L237](article-l237.md)
 - [Article L238](article-l238.md)
 - [Article L239](article-l239.md)
+- [Article L239 A](article-l239-a.md)
+- [Article L239 B](article-l239-b.md)
 - [Article L240](article-l240.md)
 - [Article L241](article-l241.md)
 - [Article L242](article-l242.md)

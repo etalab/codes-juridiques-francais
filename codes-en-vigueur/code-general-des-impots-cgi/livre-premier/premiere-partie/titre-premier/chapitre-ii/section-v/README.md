@@ -17,3 +17,5 @@
 - [Article 220 A](article-220-a.md)
 - [Article 220 B](article-220-b.md)
 - [Article 220 E](article-220-e.md)
+- [Article 220 F](article-220-f.md)
+- [Article 220 G](article-220-g.md)

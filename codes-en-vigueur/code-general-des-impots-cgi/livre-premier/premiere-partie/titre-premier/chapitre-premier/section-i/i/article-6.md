@@ -1,6 +1,6 @@
 # Article 6
 
-1. Chaque contribuable est imposable à l'impôt sur le revenu, tant en raison de ses bénéfices et revenus personnels que de ceux de ses enfants et des personnes considérés comme étant à sa charge au sens des articles 196 et 196 A bis. Les revenus perçus par les enfants réputés à charge égale de l'un et l'autre de leurs parents sont, sauf preuve contraire, réputés également partagés entre les parents (1).
+1. Chaque contribuable est imposable à l'impôt sur le revenu, tant en raison de ses bénéfices et revenus personnels que de ceux de ses enfants et des personnes considérés comme étant à sa charge au sens des articles 196 et 196 A bis. Les revenus perçus par les enfants réputés à charge égale de l'un et l'autre de leurs parents sont, sauf preuve contraire, réputés également partagés entre les parents.
 
 Sauf application des dispositions des 4 et 5, les personnes mariées sont soumises à une imposition commune pour les revenus perçus par chacune d'elles et ceux de leurs enfants et des personnes à charge mentionnés au premier alinéa ; cette imposition est établie au nom de l'époux, précédée de la mention "Monsieur ou Madame".
 
@@ -12,11 +12,11 @@ Les partenaires liés par un pacte civil de solidarité défini à l'article 515
 
 1° L'imposition de ses revenus dans les conditions de droit commun ;
 
-2° Le rattachement au foyer fiscal dont elle faisait partie avant sa majorité, si le contribuable auquel elle se rattache accepte ce rattachement et inclut dans son revenu imposable les revenus perçus pendant l'année entière par cette personne ; le rattachement peut être demandé à l'un ou à l'autre des parents lorsque ceux-ci sont imposés séparément.
+2° Le rattachement au foyer fiscal dont elle faisait partie avant sa majorité, si le contribuable auquel elle se rattache accepte ce rattachement et inclut dans son revenu imposable les revenus perçus pendant l'année entière par cette personne ; le rattachement peut être demandé, au titre des années qui suivent celle au cours de laquelle elle atteint sa majorité, à l'un ou à l'autre des parents lorsque ceux-ci sont imposés séparément.
 
 Si la personne qui demande le rattachement est mariée, l'option entraîne le rattachement des revenus du ménage aux revenus de l'un ou des parents de l'un des conjoints.
 
-3° Le rattachement au foyer fiscal qui l'a recueillie après qu'elle soit devenue orpheline de père et de mère, si le contribuable auquel elle se rattache accepte ce rattachement et inclut dans son revenu imposable les revenus perçus pendant l'année entière par cette personne (2).
+3° Le rattachement au foyer fiscal qui l'a recueillie après qu'elle soit devenue orpheline de père et de mère, si le contribuable auquel elle se rattache accepte ce rattachement et inclut dans son revenu imposable les revenus perçus pendant l'année entière par cette personne.
 
 4. Les époux font l'objet d'impositions distinctes :
 

@@ -53,6 +53,7 @@
 - [Article 39 AA bis](article-39-aa-bis.md)
 - [Article 39 AA ter](article-39-aa-ter.md)
 - [Article 39 AA quater](article-39-aa-quater.md)
+- [Article 39 AA quinquies](article-39-aa-quinquies.md)
 - [Article 39 AB](article-39-ab.md)
 - [Article 39 AC](article-39-ac.md)
 - [Article 39 AD](article-39-ad.md)

@@ -1,6 +1,6 @@
 # Article L2334-4
 
-- Le potentiel fiscal d'une commune est déterminé par application aux bases communales des quatre taxes directes locales du taux moyen national d'imposition à chacune de ces taxes. Il est majoré du montant, pour la dernière année connue, de la compensation prévue au I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998).
+Le potentiel fiscal d'une commune est déterminé par application aux bases communales des quatre taxes directes locales du taux moyen national d'imposition à chacune de ces taxes. Il est majoré du montant, pour la dernière année connue, de la compensation prévue au I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998).
 
 Pour l'application de l'alinéa précédent :
 
@@ -23,6 +23,8 @@ Toutefois, en cas d'augmentation ou de diminution des bases de taxe professionne
 Cette disposition ne s'applique pas la première année d'application des dispositions de l'article 1609 nonies C ou du II de l'article 1609 quinquies C du code général des impôts.
 
 Le potentiel fiscal visé au sixième alinéa est majoré du montant, pour la dernière année connue, de la compensation prévue au I du D de l'article 44 de la loi de finances pour 1999 précitée. Ce montant est réparti entre les communes membres de l'établissement public de coopération intercommunale au prorata des diminutions de base de taxe professionnelle dans chacune de ces communes qui donnent lieu à compensation.
+
+Pour les établissements publics de coopération intercommunale issus de la transformation d'un syndicat ou d'une communauté d'agglomération nouvelle, le potentiel fiscal des communes qui étaient membres du syndicat ou de la communauté et qui font partie du nouvel établissement public de coopération intercommunale est calculé en 2004 conformément aux premier à onzième alinéas.
 
 Lorsque, à compter de l'année de promulgation de la loi n° 99-1126 du 28 décembre 1999 modifiant le code général des collectivités territoriales et relative à la prise en compte du recensement général de population de 1999 pour la répartition des dotations de l'Etat aux collectivités locales, l'institution du régime fiscal prévu à l'article 1609 nonies C du code général des impôts entraîne pour des communes membres de l'établissement public de coopération intercommunale faisant application de ce régime la cessation de l'application des dispositions de l'article 11 de la loi n° 80-10 du 10 janvier 1980 portant aménagement de la fiscalité directe locale, les bases retenues pour déterminer leur potentiel fiscal tiennent compte de la correction de potentiel fiscal appliquée la dernière année précédant l'institution de ce régime.
 

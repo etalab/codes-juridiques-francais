@@ -9,6 +9,7 @@
 - [Article 208 quater](article-208-quater.md)
 - [Article 208 quater A](article-208-quater-a.md)
 - [Article 208 quinquies](article-208-quinquies.md)
+- [Article 208 D](article-208-d.md)
 - [Article 208 sexies](article-208-sexies.md)
 - [Article 208 A](article-208-a.md)
 - [Article 208 B](article-208-b.md)

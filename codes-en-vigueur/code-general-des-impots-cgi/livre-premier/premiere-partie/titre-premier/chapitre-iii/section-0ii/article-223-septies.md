@@ -20,7 +20,7 @@ Les personnes morales passibles de l'impôt sur les sociétés sont assujetties 
 
 Le chiffre d'affaires à prendre en considération s'entend du chiffre d'affaires, tous droits et taxes compris, du dernier exercice clos.
 
-Cette imposition n'est pas applicable aux organismes sans but lucratif visés au 5 de l'article 206 ainsi qu'aux personnes morales exonérées de l'impôt sur les sociétés en vertu des articles 207 et 208.
+Cette imposition n'est pas applicable aux organismes sans but lucratif visés au 5 de l'article 206 ainsi qu'aux personnes morales exonérées de l'impôt sur les sociétés en vertu des articles 207, 208 et 208 D.
 
 Les sociétés dont le capital est constitué pour la moitié au moins par des apports en numéraire sont, pour leurs trois premières années d'activité, exonérées de cette imposition.
 

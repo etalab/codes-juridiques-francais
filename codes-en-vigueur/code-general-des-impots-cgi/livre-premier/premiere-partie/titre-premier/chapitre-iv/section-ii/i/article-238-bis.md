@@ -10,7 +10,7 @@ c) Des établissements d'enseignement supérieur ou d'enseignement artistique, p
 
 d) Des sociétés ou organismes publics ou privés agréés à cet effet par le ministre chargé du budget en vertu de l'article 4 de l'ordonnance n° 58-882 du 25 septembre 1958 relative à la fiscalité en matière de recherche scientifique et technique ;
 
-e) D'organismes publics ou privés dont la gestion est désintéressée et qui ont pour activité principale l'organisation de festivals ayant pour objet la présentation au public d'oeuvres dramatiques, lyriques, musicales, chorégraphiques, cinématographiques et de cirque, à la condition que les versements soient affectés à cette activité. Cette disposition ne s'applique pas aux organismes qui présentent des oeuvres à caractère pornographique ou incitant à la violence.
+e) D'organismes publics ou privés dont la gestion est désintéressée et qui ont pour activité principale la présentation au public d'oeuvres dramatiques, lyriques, musicales, chorégraphiques, cinématographiques et de cirque, à la condition que les versements soient affectés à cette activité. Cette disposition ne s'applique pas aux organismes qui présentent des oeuvres à caractère pornographique ou incitant à la violence.
 
 Les organismes mentionnés au b peuvent, lorsque leurs statuts ont été approuvés à ce titre par décret en Conseil d'Etat, recevoir des versements pour le compte d'oeuvres ou d'organismes mentionnés au a.
 
@@ -24,7 +24,7 @@ Les versements ne sont pas déductibles pour la détermination du bénéfice imp
 
 3. (abrogé).
 
-4. La déduction mentionnée au 1 peut être effectuée, dans la limite prévue au 2, pour les dons versés aux organismes agréés dans les conditions prévues à l'article 1649 nonies et dont l'objet exclusif est de verser des aides financières permettant la réalisation d'investissements tels que définis au c de l'article 2 du règlement (CE) n° 70/2001 de la Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides d'Etat en faveur des petites et moyennes entreprises ou de fournir des prestations d'accompagnement à des petites et moyennes entreprises telles qu'elles sont définies à l'annexe I à ce règlement.
+4. Ouvrent également droit, et dans les mêmes conditions, à la réduction d'impôt prévue au 1 les dons versés aux organismes agréés dans les conditions prévues à l'article 1649 nonies et dont l'objet exclusif est de verser des aides financières permettant la réalisation d'investissements tels que définis au c de l'article 2 du règlement (CE) n° 70/2001 de la Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides d'Etat en faveur des petites et moyennes entreprises ou de fournir des prestations d'accompagnement à des petites et moyennes entreprises telles qu'elles sont définies à l'annexe I à ce règlement.
 
 L'agrément est délivré à l'organisme s'il s'engage à respecter continûment l'ensemble des conditions suivantes :
 
@@ -41,7 +41,3 @@ L'agrément est délivré à l'organisme s'il s'engage à respecter continûment
 L'agrément accordé aux organismes qui le sollicitent pour la première fois porte sur une période comprise entre la date de sa notification et le 31 décembre  de la deuxième année qui suit cette date. En cas de demande de renouvellement d'agrément, ce dernier, s'il est accordé, l'est pour une période de cinq ans.
 
 Un décret fixe les modalités d'application du présent article, notamment les dispositions relatives aux statuts des organismes bénéficiaires des dons, les conditions de retrait de l'agrément et les informations relatives aux entreprises aidées que les organismes communiquent au ministre ayant délivré l'agrément.
-
-5. (abrogé).
-
-6. (Abrogé).

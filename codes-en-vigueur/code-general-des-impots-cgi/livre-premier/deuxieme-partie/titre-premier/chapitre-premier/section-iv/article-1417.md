@@ -22,8 +22,12 @@ Ce montant est majoré :
 
 a) du montant des charges déduites en application des articles 163 septdecies, 163 octodecies A, 163 vicies, 163 unvicies, 163 duovicies et 163 tervicies ;
 
-b) du montant des bénéfices exonérés en application des articles 44 sexies, 44 octies et 44 decies sous déduction, le cas échéant, de l'abattement prévu au 4 bis de l'article 158 ;
+a bis) Du montant de l'abattement mentionné au 2° du 3 de l'article 158 pour sa fraction qui excède l'abattement non utilisé prévu au 5° du 3 du même article (1);
+
+b) du montant des bénéfices exonérés en application des articles 44 sexies, 44 sexies A, 44 octies et 44 decies sous déduction, le cas échéant, de l'abattement prévu au 4 bis de l'article 158 ;
 
 c) du montant des revenus soumis aux prélèvements libératoires opérés en application de l'article 125 A, de ceux visés à l'article 81 A, de ceux mentionnés au I de l'article 204-0 bis retenus pour leur montant net de frais d'emploi et pour lesquels l'option prévue au III du même article n'a pas été exercée, de ceux perçus par les fonctionnaires des organisations internationales, ainsi que de ceux exonérés par application d'une convention internationale relative aux doubles impositions.
 
-2° (Abrogé à compter des impositions établies au titre de 2000).
+d. Du montant des plus-values exonérées en application du 7 du III de l'article 150-0 A.
+
+2°) Abrogé (à compter des impositions établies au titre de 2000.)

@@ -22,7 +22,7 @@ c) Actions ou parts d'organismes de placement collectif en valeurs mobilières q
 
 d) Parts de fonds communs de placement à risques, de fonds d'investissement de proximité, de fonds communs de placement dans l'innovation, actions de sociétés de capital risque ou de sociétés financières d'innovation ;
 
-e) Actions émises par des sociétés qui exercent une activité autre que les activités mentionnées au quatrième alinéa du I de l'article 44 sexies et dont les titres ne sont pas admis aux négociations sur un marché réglementé ;
+e) Actions émises par des sociétés qui exercent une activité autre que les activités mentionnées au sixième alinéa du I de l'article 44 sexies et dont les titres ne sont pas admis aux négociations sur un marché réglementé ;
 
 f) Titres admis aux négociations sur les marchés réglementés de valeurs de croissance de l'Espace économique européen, ou les compartiments de valeurs de croissance de ces marchés, dont la liste est fixée par arrêté du ministre chargé de l'économie.
 

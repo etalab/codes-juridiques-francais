@@ -28,7 +28,7 @@ Ces dispositions ne sont pas applicables aux emprunts dont le remboursement est 
 
 Un décret fixe les conditions d'application de ces dispositions, notamment en ce qui concerne les modalités d'option et les obligations déclaratives.
 
-2° Sauf s'ils sont pratiqués par une copropriété de navires, une copropriété de cheval de course ou d'étalon, les amortissements réellement effectués par l'entreprise, dans la limite de ceux qui sont généralement admis d'après les usages de chaque nature d'industrie, de commerce ou d'exploitation et compte tenu des dispositions de l'article 39 A, y compris ceux qui auraient été différés au cours d'exercices antérieurs déficitaires, sous réserve des dispositions de l'article 39 B.
+2° Sauf s'ils sont pratiqués par une copropriété de navires, une copropriété de cheval de course ou d'étalon, les amortissements réellement effectués par l'entreprise, dans la limite de ceux qui sont généralement admis d'après les usages de chaque nature d'industrie, de commerce ou d'exploitation et compte tenu des dispositions de l'article 39 A, sous réserve des dispositions de l'article 39 B.
 
 Les décrets en Conseil d'Etat prévus à l'article 273 fixent les conséquences des déductions prévues à l'article 271 sur la comptabilisation et l'amortissement des biens;
 
@@ -118,7 +118,7 @@ Dans l'hypothèse où cette obligation de renouvellement est mise à la charge d
 
 Les provisions pour indemnités de licenciement constituées en vue de faire face aux charges liées aux licenciements pour motif économique ne sont pas déductibles des résultats des exercices clos à compter du 15 octobre 1997. Les provisions pour indemnités de licenciement constituées à cet effet et inscrites au bilan à l'ouverture du premier exercice clos à compter du 15 octobre 1997 sont rapportées aux résultats imposables de cet exercice.
 
-Les provisions constituées en vue de faire face au risque de change afférent aux prêts soumis, sur option, aux dispositions prévues au quatrième alinéa du 4 de l'article 38 ne sont pas déductibles du résultat imposable (1).
+Les provisions constituées en vue de faire face au risque de change afférent aux prêts soumis, sur option, aux dispositions prévues au quatrième alinéa du 4 de l'article 38 ne sont pas déductibles du résultat imposable.
 
 6° La contribution de solidarité visée à l'article 33 de l'ordonnance n° 67-828 du 23 septembre 1967 et la taxe sur les grandes surfaces issue de l'article 3 modifié de la loi n° 72-657 du 13 juillet 1972 instituant des mesures en faveur de certaines catégories de commerçants et artisans âgés. Le fait générateur de cette contribution ou de cette taxe est constitué par l'existence de l'entreprise débitrice au 1er janvier de l'année au titre de laquelle elle est due ;
 
@@ -136,9 +136,9 @@ Pour l'application de cette disposition, les dirigeants s'entendent, dans les so
 
 Sauf justifications, les dispositions du premier alinéa sont applicables :
 
-a) A l'amortissement des véhicules immatriculés dans la catégorie des voitures particulières pour la fraction de leur prix d'acquisition qui dépasse 18 300 euros (2) ;
+a) A l'amortissement des véhicules immatriculés dans la catégorie des voitures particulières pour la fraction de leur prix d'acquisition qui dépasse 18 300 euros ;
 
-b) En cas d'opérations de crédit bail ou de location, à l'exception des locations de courte durée n'excédant pas trois mois non renouvelables, portant sur des voitures particulières, à la part du loyer supportée par le locataire et correspondant à l'amortissement pratiqué par le bailleur pour la fraction du prix d'acquisition du véhicule excédant 18 300 euros (2) ;
+b) En cas d'opérations de crédit bail ou de location, à l'exception des locations de courte durée n'excédant pas trois mois non renouvelables, portant sur des voitures particulières, à la part du loyer supportée par le locataire et correspondant à l'amortissement pratiqué par le bailleur pour la fraction du prix d'acquisition du véhicule excédant 18 300 euros ;
 
 c) Aux dépenses de toute nature résultant de l'achat, de la location ou de toute autre opération faite en vue d'obtenir la disposition de yachts ou de bateaux de plaisance à voile ou à moteur ainsi que de leur entretien ; les amortissements sont regardés comme faisant partie de ces dépenses.
 
@@ -210,10 +210,4 @@ a - lorsque l'une détient directement ou par personne interposée la majorité 
 
 b - lorsqu'elles sont placées l'une et l'autre, dans les conditions définies au a, sous le contrôle d'une même tierce entreprise.
 
-Les modalités d'application du présent 12 sont fixées par décret en Conseil d'Etat (3).
-
-(1) Ces dispositions sont applicables pour la détermination des résultats des exercices clos à compter du 31 décembre 2001.
-
-(2) Cette limite de 18 300 euros s'applique aux exercices clos à compter du 1er janvier 2002.
-
-(3) Ces dispositions s'appliquent aux redevances prises en compte à compter du 1er janvier 2002 dans les résultats des concédants et concessionnaires.
+Les modalités d'application du présent 12 sont fixées par décret en Conseil d'Etat.

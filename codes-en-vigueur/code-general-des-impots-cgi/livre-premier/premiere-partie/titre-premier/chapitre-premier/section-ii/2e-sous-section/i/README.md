@@ -27,6 +27,7 @@
 - [Article 163 bis G](article-163-bis-g.md)
 - [Article 163 quinquies](article-163-quinquies.md)
 - [Article 163 quinquies C](article-163-quinquies-c.md)
+- [Article 163 quinquies C bis](article-163-quinquies-c-bis.md)
 - [Article 163 quinquies B](article-163-quinquies-b.md)
 - [Article 163 A](article-163-a.md)
 - [d : Créateurs d'entreprises.](d)
