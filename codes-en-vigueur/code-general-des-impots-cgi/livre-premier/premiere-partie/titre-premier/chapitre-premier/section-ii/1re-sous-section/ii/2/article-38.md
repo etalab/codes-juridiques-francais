@@ -12,7 +12,7 @@ Pour les prestations continues rémunérées notamment par des intérêts ou des
 
 Pour les travaux d'entreprise donnant lieu à réception complète ou partielle, à la date de cette réception, même si elle est seulement provisoire ou faite avec réserves, ou à celle de la mise à la disposition du maître de l'ouvrage si elle est antérieure.
 
-La livraison au sens du premier alinéa s'entend de la remise matérielle du bien lorsque le contrat de vente comporte une clause de réserve de propriété.
+La livraison [*définition*] au sens du premier alinéa s'entend de la remise matérielle du bien lorsque le contrat de vente comporte une clause de réserve de propriété.
 
 Ces dispositions s'appliquent à la détermination des résultats imposables des exercices clos à compter du 31 décembre 1978. Les produits qui, en application de la législation précédemment en vigueur, ont déjà servi à la détermination des résultats d'exercices antérieurs sont déduits pour la détermination des résultats des exercices auxquels les sommes correspondantes doivent désormais être rattachées.
 
@@ -22,7 +22,7 @@ Les travaux en cours sont évalués au prix de revient.
 
 4. Pour l'application des 1 et 2, les écarts de conversion des devises ainsi que des créances et dettes libellées en monnaies étrangères par rapport aux montants initialement comptabilisés sont déterminés à la clôture de chaque exercice en fonction du dernier cours de change et pris en compte pour la détermination du résultat imposable de l'exercice.
 
-Lorsque des établissements de crédit ou des maisons de titres mentionnés à l'article 38 bis A évaluent les titres libellés en monnaie étrangère à la clôture de chaque exercice en fonction du dernier cours de change connu, les écarts de conversion constatés sont pris en compte pour la détermination du résultat imposable de l'exercice. A la clôture de chaque exercice, le prix de revient des titres est augmenté ou diminué, selon les cas, des écarts de conversion mentionnés à ce même alinéa. Ces dispositions sont applicables aux écarts de change relatifs à la période postérieure à l'ouverture du premier exercice clos à compter du 31 décembre 1990.
+Lorsque des établissements de crédit mentionnés à l'article 38 bis A évaluent les titres libellés en monnaie étrangère à la clôture de chaque exercice en fonction du dernier cours de change connu, les écarts de conversion constatés sont pris en compte pour la détermination du résultat imposable de l'exercice. A la clôture de chaque exercice, le prix de revient des titres est augmenté ou diminué, selon les cas, des écarts de conversion mentionnés à ce même alinéa. Ces dispositions sont applicables aux écarts de change relatifs à la période postérieure à l'ouverture du premier exercice clos à compter du 31 décembre 1990.
 
 5. Le profit ou la perte résultant de cessions de titres par un fonds commun de placement est compris dans le résultat de l'exercice au cours duquel les parts du fonds sont cédées par l'entreprise. Le profit ou la perte est déterminé par différence entre le prix de cession et la valeur des parts au bilan de l'entreprise (2).
 
@@ -64,7 +64,7 @@ Ces dispositions ne sont pas applicables si la soulte dépasse 10 p. 100 de la v
 
 La fraction afférente aux droits de souscription est égale à la différence entre le prix unique et le prix de la valeur mobilière à la date de la souscription ou de l'acquisition. Le prix s'entend de la valeur actuelle pour les obligations.
 
-2° La différence entre la valeur actuelle d'une obligation assortie de droits de souscription et sa valeur de remboursement est considérée, pour l'imposition du souscripteur, comme une prime de remboursement. Toutefois celle-ci n'est soumise aux dispositions du paragraphe I de l'article 238 septies B du code général des impôts que si son montant excède 15 p. 100 de la valeur actuelle de l'obligation.
+2° La différence entre la valeur actuelle d'une obligation assortie de droits de souscription et sa valeur de remboursement est considérée, pour l'imposition du souscripteur, comme une prime de remboursement. Toutefois, pour les titres émis avant le 1er janvier 1993, celle-ci n'est soumise aux dispositions du paragraphe I de l'article 238 septies B du code général des impôts que si son montant excède 15 p. 100 de la valeur actuelle de l'obligation.
 
 3° Les sommes reçues par une entreprise lors de l'émission de droits de souscription ou d'acquisition de valeurs mobilières sont comprises dans ses résultats imposables de l'exercice de péremption de ces droits lorsqu'ils n'ont pas été exercés.
 
