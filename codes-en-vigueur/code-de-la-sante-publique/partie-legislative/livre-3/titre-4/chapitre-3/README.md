@@ -1,5 +1,5 @@
-# Chapitre 3 : Modes de placement dans les établissements de soins
+# Chapitre 3 : Modes d'hospitalisation sans consentement dans les établissements
 
-- [Section 1 : Placement volontaire.](section-1)
-- [Section 2 : Placement d'office.](section-2)
-- [Section 3 : Dispositions communes *au placement volontaire ou d'office*.](section-3)
+- [Section 1 : Hospitalisation sur demande d'un tiers.](section-1)
+- [Section 2 : Hospitalisation d'office.](section-2)
+- [Section 3 : Dispositions communes.](section-3)

@@ -1,4 +1,4 @@
-# Section 1 : Placement volontaire.
+# Section 1 : Hospitalisation sur demande d'un tiers.
 
 - [Article L333](article-l333.md)
 - [Article L334](article-l334.md)
