@@ -9,6 +9,7 @@
 - [Titre VII : De l'échange](titre-vii)
 - [Titre VIII : Du contrat de louage](titre-viii)
 - [Titre X : Du prêt](titre-x)
+- [Titre XI : Du dépôt et du séquestre](titre-xi)
 - [Titre XII : Des contrats aléatoires.](titre-xii)
 - [Titre XIII : Du mandat](titre-xiii)
 - [Titre XIV : Du cautionnement.](titre-xiv)
