@@ -9,6 +9,4 @@
 - [Article 41 P](article-41-p.md)
 - [Article 41 Q](article-41-q.md)
 - [Article 41 R](article-41-r.md)
-- [Article 41 S](article-41-s.md)
 - [Article 41 T](article-41-t.md)
-- [Article 41 U](article-41-u.md)
