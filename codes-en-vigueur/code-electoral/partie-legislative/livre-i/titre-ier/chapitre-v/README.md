@@ -8,3 +8,4 @@
 - [Article L52](article-l52.md)
 - [Article L52-1](article-l52-1.md)
 - [Article L52-2](article-l52-2.md)
+- [Article L52-3](article-l52-3.md)

@@ -1,4 +1,4 @@
-# LIVRE VIII : DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM TITRE III : PLACEMENT ET EMPLOI
+# Livre VIII : Dispositions spéciales aux départements d'outre-mer
 
 - [Titre préliminaire.](titre-preliminaire)
 - [CHAPITRE Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE .](chapitre-ier)
