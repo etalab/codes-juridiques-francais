@@ -1,4 +1,4 @@
-# Réduction d'impôt accordée au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet.
+# Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer.
 
 - [Article 199 quater D](article-199-quater-d.md)
 - [Article 199 sexies](article-199-sexies.md)

@@ -7,3 +7,4 @@
 - [III : Revenus des capitaux mobiliers](iii)
 - [V : Plus-values de cession à titre onéreux de biens ou de droits de toute nature](v)
 - [V bis : Dispositions communes](v-bis)
+- [VII : Dispositions communes](vii)

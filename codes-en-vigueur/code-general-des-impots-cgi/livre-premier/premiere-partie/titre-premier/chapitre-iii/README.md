@@ -13,3 +13,4 @@
 - [Section XI : Prélèvement spécial sur les bénéfices résultant de la vente, la location ou l'exploitation d'oeuvres pornographiques ou d'incitation à la violence](section-xi)
 - [Section XV : Contribution des institutions financières.](section-xv)
 - [Section XIV : Taxe sur les excédents de provisions des entreprises d'assurances de dommages](section-xiv)
+- [Section XVI : Prélèvement sur les bénéfices des entreprises exploitant des gisements d'hydrocarbures](section-xvi)
