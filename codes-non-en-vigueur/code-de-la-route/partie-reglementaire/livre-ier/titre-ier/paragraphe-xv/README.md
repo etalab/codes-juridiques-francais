@@ -1,3 +1,0 @@
-# PARAGRAPHE XV : COURSES ET ÉPREUVES SPORTIVES.
-
-- [Article R53](article-r53.md)
