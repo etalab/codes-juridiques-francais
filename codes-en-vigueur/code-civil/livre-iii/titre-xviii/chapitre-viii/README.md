@@ -6,3 +6,4 @@
 - [Article 2187](article-2187.md)
 - [Article 2190](article-2190.md)
 - [Article 2191](article-2191.md)
+- [Article 2192](article-2192.md)
