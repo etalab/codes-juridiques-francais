@@ -13,5 +13,6 @@
 - [Article 1219](article-1219.md)
 - [Article 1221](article-1221.md)
 - [Article 1224](article-1224.md)
+- [Article 1226](article-1226.md)
 - [Article 1230](article-1230.md)
 - [Article 1232](article-1232.md)
