@@ -11,5 +11,4 @@
 - [Article 73 C](article-73-c.md)
 - [Article 73 A](article-73-a.md)
 - [Article 73 B](article-73-b.md)
-- [diverses catégories de revenus](diverses-categories-de-revenus)
 - [Régime simplifié](regime-simplifie)

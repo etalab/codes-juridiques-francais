@@ -5,4 +5,3 @@
 - [Article 199 sexies D](article-199-sexies-d.md)
 - [Article 199 sexies A](article-199-sexies-a.md)
 - [Article 199 sexies B](article-199-sexies-b.md)
-- [*INTERETS D'EMPRUNT*](interets-d-emprunt)

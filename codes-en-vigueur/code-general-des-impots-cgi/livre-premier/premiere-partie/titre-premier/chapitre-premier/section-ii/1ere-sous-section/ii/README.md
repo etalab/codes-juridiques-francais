@@ -1,3 +1,0 @@
-# II : Bénéfices industriels et commerciaux
-
-- [2 : Détermination des bénéfices imposables.](2)

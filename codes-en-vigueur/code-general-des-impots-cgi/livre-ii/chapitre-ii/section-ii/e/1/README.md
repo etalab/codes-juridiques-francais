@@ -1,7 +1,6 @@
 # 1 : Sanctions fiscales
 
 - [Article 1840 I](article-1840-i.md)
-- [Article 1840 M](article-1840-m.md)
 - [Article 1840 H](article-1840-h.md)
 - [Article 1840 J](article-1840-j.md)
 - [Article 1840 N](article-1840-n.md)

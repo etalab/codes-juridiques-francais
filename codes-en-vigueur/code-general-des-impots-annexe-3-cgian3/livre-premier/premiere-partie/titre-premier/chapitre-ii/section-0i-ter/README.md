@@ -11,4 +11,3 @@
 - [Article 46 quaterdecies F](article-46-quaterdecies-f.md)
 - [Article 46 quaterdecies G](article-46-quaterdecies-g.md)
 - [Article 46 quaterdecies H](article-46-quaterdecies-h.md)
-- [*DOM - TVA*.](dom-tva)
