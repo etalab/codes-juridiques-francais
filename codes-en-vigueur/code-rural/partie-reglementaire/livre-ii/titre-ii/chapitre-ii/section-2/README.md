@@ -1,3 +1,6 @@
-# Section 2 : Réserves de chasse.
+# Section 2 : Réserves de chasse et de faune sauvage
 
+- [Sous-section 1 : Institution des réserves de chasse et de faune sauvage.](sous-section-1)
+- [Sous-section 2 : Fonctionnement des réserves de chasse et de faune sauvage.](sous-section-2)
+- [Sous-section 3 : Réserves nationales.](sous-section-3)
 - [Article R*222-82](article-r-222-82.md)
