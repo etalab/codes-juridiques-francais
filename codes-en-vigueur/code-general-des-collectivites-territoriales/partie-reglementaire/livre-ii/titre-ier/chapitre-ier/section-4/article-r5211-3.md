@@ -1,6 +1,6 @@
 # Article R5211-3
 
-Pour l'application des dispositions de l'article L. 2123-3 relatif au crédit d'heures :
+Pour l'application des dispositions de l'article L. 2123-2 relatif au crédit d'heures :
 
 1° Le président, les vice-présidents et les membres de l'organe délibérant de l'un des établissements publics de coopération intercommunale mentionnés aux articles L. 5212-1, L. 5332-1 et L. 5711-1 sont, lorsqu'ils n'exercent pas de mandat municipal, assimilés respectivement au maire, aux adjoints au maire et aux conseillers municipaux de la commune la plus peuplée de cet établissement public ;
 
