@@ -6,6 +6,5 @@
 - [Article D70-2](article-d70-2.md)
 - [Article D72](article-d72.md)
 - [Article D73](article-d73.md)
-- [Article D73-1](article-d73-1.md)
 - [Article D74](article-d74.md)
 - [Article D75](article-d75.md)
