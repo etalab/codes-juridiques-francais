@@ -1,4 +1,4 @@
-# TITRE VIII : Infractions.
+# Titre VIII : Infractions.
 
 - [Article L480-1](article-l480-1.md)
 - [Article L480-2](article-l480-2.md)

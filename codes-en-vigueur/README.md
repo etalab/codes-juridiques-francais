@@ -35,6 +35,7 @@
 - [Code des juridictions financières](code-des-juridictions-financieres)
 - [Code des ports maritimes](code-des-ports-maritimes)
 - [Code du domaine de l'Etat](code-du-domaine-de-l-etat)
+- [Code du patrimoine](code-du-patrimoine)
 - [Code du service national](code-du-service-national)
 - [Code du travail](code-du-travail)
 - [Code du travail maritime](code-du-travail-maritime)
