@@ -5,3 +5,5 @@ En cas de démission de l'ensemble des membres de la chambre, de dissolution, d'
 La délégation spéciale est nommée par arrêté du commissaire de la République intervenant dans les quinze jours de la constatation d'une absence totale de membres de la chambre d'agriculture.
 
 La délégation spéciale élit son président. Les pouvoirs de cette délégation spéciale sont limités aux actes d'administration conservatoires et urgents. En aucun cas il n'est permis au président de la délégation d'engager les finances de la chambre au-delà des ressources disponibles de l'exercice courant. La délégation ne prend aucune décision définitive concernant le personnel, sauf celles imposées par les textes.
+
+Les membres de la délégation spéciale sont indemnisés dans les conditions prévues à l'article R. 511-85.
