@@ -12,4 +12,4 @@ En vue du calcul du prélèvement, sont admis en déduction du bénéfice net to
 
 5° Les plus-values réalisées sur la cession d'éléments de l'actif immobilisé ou de valeurs constituant le portefeuille.
 
-En outre, les contribuables passibles de l'impôt sur le revenu sont admis à déduire de leur bénéfice net total, en vue de l'assiette du prélèvement, les déficits antérieurs de leur entreprise, dans les conditions prévues à l'article 209-I, deuxième alinéa, du code général des impôts.
+En outre, les contribuables passibles de l'impôt sur le revenu sont admis à déduire de leur bénéfice net total, en vue de l'assiette du prélèvement, les déficits antérieurs de leur entreprise, dans les conditions prévues à l'article 209-I, troisième alinéa, du code général des impôts.
