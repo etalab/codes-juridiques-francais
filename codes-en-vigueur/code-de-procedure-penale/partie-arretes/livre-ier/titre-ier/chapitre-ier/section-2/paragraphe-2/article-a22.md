@@ -1,11 +1,15 @@
 # Article A22
 
-Pour l'application de l'article R. 10 du Code de procédure pénale et aux fins de constater l'aptitude à la fonction d'officier de police judiciaire en ce qui concerne les infractions prévues à l'article L. 23-1 du Code de la route des fonctionnaires du corps des commandants et officiers de paix de la police nationale, l'examen technique comporte les épreuves suivantes :
+Pour l'application de l'article 16 (4°) du code de procédure pénale, et aux fins de constater l'aptitude à la fonction d'officier de police judiciaire de la police nationale, il est organisé un examen comportant :
 
-1° Une épreuve écrite, de caractère pratique, en droit pénal général et droit pénal spécial ;
+1° Une épreuve écrite sur des notions de droit pénal, de procédure pénale ou de libertés publiques (durée : trois heures).
 
-2° Une épreuve écrite, de caractère pratique, en procédure pénale et police judiciaire ;
+2° Une épreuve écrite pratique de procédure sur un cas de crime ou de délit (durée : quatre heures).
 
-3° Une épreuve orale en droit administratif, libertés publiques et procédure pénale.
+3° Une épreuve orale en libertés publiques et en procédure pénale.
 
-Chacune de ces épreuves est notée de 0 à 20. Toute note égale ou inférieure à 5 sur 20 est éliminatoire. Nul ne peut être déclaré admis à cet examen s'il n'a obtenu au moins 30 points.
+La valeur de chaque épreuve est constatée par une note de 0 à 20.
+
+Toute note égale ou inférieure à 5 dans l'une des épreuves est éliminatoire.
+
+Nul ne pourra être considéré comme ayant satisfait à l'examen s'il ne totalise 30 points au moins pour l'ensemble des trois épreuves.

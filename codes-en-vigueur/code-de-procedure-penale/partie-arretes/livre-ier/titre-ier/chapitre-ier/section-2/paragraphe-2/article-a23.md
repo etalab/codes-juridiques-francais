@@ -6,73 +6,119 @@ Procédure pénale
 
 L'action publique et l'action civile.
 
-Le ministère public.
+Les autorités investies par la loi de fonctions de police judiciaire.
 
-Les juridictions d'instruction.
-
-La police administrative et la police judiciaire.
-
-Les officiers et agents de police judiciaire.
+Les cadres juridiques et les actes de la mission de police judiciaire.
 
 Le contrôle de la mission de police judiciaire.
 
-La procédure applicable aux crimes et délits flagrants.
-
-L'enquête préliminaire.
-
-La force probante des actes de police judiciaire.
-
-Les actes de police judiciaire et l'article L. 23-1 du code de la route.
-
-La procédure applicable aux contraventions.
-
-Les commissions rogatoires.
+L'instruction préparatoire.
 
 Les mandats de justice.
 
-Les règles particulières de procédure applicables aux mineurs.
+La détention provisoire et le contrôle judiciaire.
 
-L'organisation judiciaire en matière pénale : cour d'assises, cour d'appel, tribunal correctionnel, tribunal de police.
+La nullité des actes de procédure.
 
-Droit pénal
+La procédure applicable aux mineurs.
 
-L'infraction en général (éléments constitutifs ; classification en crimes, délits et contraventions ; intérêts de cette distinction).
+Les juridictions judiciaires pénales.
 
-La tentative punissable (commencement d'exécution et désistement volontaire).
+L'exécution des décisions de justice pénale.
 
-La responsabilité pénale.
+Droit pénal général
 
-Les causes de non-imputabilité.
+A. - Généralités sur la législation pénale.
 
-Les faits justificatifs.
+B. - L'infraction pénale :
 
-Les excuses absolutoires et les excuses atténuantes.
+- les principes généraux de la responsabilité pénale ;
 
-Les circonstances aggravantes et les circonstances atténuantes.
+- la classification des infractions et l'organisation judiciaire en matière pénale ;
 
-La complicité.
+- les éléments constitutifs de l'infraction ;
 
-Le concours d'infractions.
+- la tentative ;
 
-La récidive.
+- la complicité ;
 
-Le casier judiciaire.
+- la responsabilité pénale des personnes morales ;
 
-Le sursis.
+- les faits justificatifs légaux.
 
-Les peines, leur exécution, la libération conditionnelle.
+C. - La sanction.
 
-L'extinction des peines.
+Notions générales (classification des sanctions et des mesures de sûreté, modalités de mise en oeuvre des sanctions, période de sûreté, cause d'atténuation, d'exemption, d'aggravation, de suspension, d'extinction de la peine).
 
-Les infractions prévues par les articles 319, 320 et R. 40 (4°) du code pénal.
+Droit pénal spécial
 
-Les infractions à la police de la circulation routière.
+A. - Infractions contre les personnes :
 
-Libertés publiques
+- les atteintes volontaires à la vie/meurtres assassinat, empoisonnement ;
 
-Introduction générale aux libertés publiques (sources, régime juridique, garanties et protection des libertés publiques).
+- les atteintes involontaires à la vie/homicide involontaire ;
 
-Les libertés individuelles et la vie privée :
+- les atteintes volontaires à l'intégrité de la personne/torture et actes de barbarie, violences, menaces ;
+
+- les atteintes involontaires à l'intégrité de la personne ;
+
+- les agressions sexuelles/viol, autres agressions sexuelles, harcèlement sexuel ;
+
+- l'usage et le trafic de stupéfiants ;
+
+- la mise en danger de la personne/risques causés à autrui, délaissement de la personne hors d'état de se protéger, entraves aux mesures d'assistance, omission de porter secours, expérimentation sur la personne, interruption illégale de la grossesse, provocation au suicide ;
+
+- les atteintes à la liberté de la personne/enlèvement et séquestration ;
+
+- les atteintes à la dignité de la personne/proxénétisme, conditions de travail et d'hébergement contraires à la dignité de la personne, le respect dû aux morts ;
+
+- les atteintes aux mineurs et à la famille/délaissement du mineur, abandon de famille, atteintes à l'exercice de l'autorité parentale, atteintes à la filiation, les délits de mise en péril des mineurs.
+
+B. - Infractions contre les biens :
+
+- le vol ;
+
+- l'escroquerie ;
+
+- l'abus frauduleux de l'état d'ignorance ;
+
+- les détournements ;
+
+- les abus de biens sociaux ;
+
+- la filouterie ;
+
+- l'extorsion ;
+
+- le chantage ;
+
+- le recel ;
+
+- l'immunité familiale ;
+
+- les menaces ;
+
+- les destructions, dégradations, détériorations ;
+
+- les atteintes aux systèmes de traitement automatisé de données.
+
+C. - Infractions contre la nation, l'Etat et la paix publique :
+
+- l'association de malfaiteurs ;
+
+- les faux ;
+
+- les crimes et délits commis par ou contre un fonctionnaire.
+
+D. - Les infractions à la police de la circulation routière.
+
+E. - Les problèmes internationaux et européens de la législation pénale :
+
+- libertés publiques ;
+
+- introductions générales aux libertés publiques ;
+
+- les libertés individuelles et la vie privée ;
 
 - la sûreté ou liberté individuelle ;
 
@@ -80,9 +126,9 @@ Les libertés individuelles et la vie privée :
 
 - le respect de la vie privée, du domicile et des correspondances ;
 
-- le respect de la personne et les lois antidiscriminatoires.
+- le respect de la personne et les lois antidiscriminatoires ;
 
-Les libertés d'expression collective :
+- les libertés d'expression collectives ;
 
 - la liberté d'association ;
 
@@ -90,48 +136,20 @@ Les libertés d'expression collective :
 
 - le régime des manifestations ;
 
-- le régime des attroupements.
+- le régime des attroupements ;
 
-La liberté de la presse.
+- la liberté de la presse ;
 
-Les libertés à contenu économique et social :
+- les libertés à contenu économique et social ;
 
 - la liberté syndicale ;
 
 - le droit de grève ;
 
-- la liberté du commerce et de l'industrie.
-
-Les libertés contemporaines :
+- les libertés contemporaines ;
 
 - la motivation des décisions administratives ;
 
 - l'accès aux documents administratifs ;
 
 - l'informatique et les libertés.
-
-Droit administratif.
-
-La hiérarchie des normes de droit.
-
-La loi et le règlement (élaboration et contrôle).
-
-L'organisation juridictionnelle :
-
-- les juridictions de l'ordre judiciaire (juridictions de droit commun et juridictions d'exception) ;
-
-- les juridictions de l'ordre administratif (notions de procédure contentieuse) ;
-
-- le tribunal des conflits ;
-
-- les voies de recours.
-
-L'organisation territoriale :
-
-- notions de décentralisation et déconcentration ;
-
-- les collectivités territoriales (commune, département, région) ;
-
-- la représentation de l'Etat dans chaque collectivité territoriale ;
-
-- le préfet.
