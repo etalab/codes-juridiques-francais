@@ -1,6 +1,6 @@
 # Article R221-54
 
-Le ministre de l'agriculture répartit chaque année (n) entre toutes les chambres d'agriculture la cotisation globale due aux centres régionaux de la propriété forestière et fixée par l'article L. 221-6 à la moitié du montant des taxes perçues la même année par l'ensemble de ces compagnies sur tous les immeubles classés au cadastre en nature de bois.
+Le ministre de l'agriculture répartit chaque année (n) entre toutes les chambres d'agriculture la cotisation globale due aux centres régionaux de la propriété forestière et au Centre national professionnel de la propriété forestière et fixée par l'article L. 221-6 à la moitié du montant des taxes perçues la même année par l'ensemble de ces compagnies sur tous les immeubles classés au cadastre en nature de bois.
 
 La part de cette cotisation globale d'année (n) incombant à chaque chambre départementale d'agriculture est donnée par la formule suivante :
 
