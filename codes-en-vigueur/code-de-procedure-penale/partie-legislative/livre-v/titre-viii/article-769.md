@@ -2,7 +2,7 @@
 
 Il est fait mention sur les fiches du casier judiciaire des peines ou dispenses de peines prononcées après ajournement du prononcé de la peine, des grâces, commutations ou réductions de peines, des décisions qui suspendent ou qui ordonnent l'exécution d'une première condamnation, des décisions prises en application du deuxième alinéa de l'article 713-3 ou du premier alinéa de l'article 713-6, des décisions de libération conditionnelle et de révocation, des décisions de suspension de peine, des décisions qui rapportent ou suspendent les arrêtés d'expulsion, ainsi que la date de l'expiration de la peine et du paiement de l'amende.
 
-Sont retirées du casier judiciaire les fiches relatives à des condamnations effacées par une amnistie, par la réhabilitation de plein droit ou judiciaire ou réformées en conformité d'une décision de rectification du casier judiciaire. Il en est de même, sauf en ce qui concerne les condamnations prononcées pour des faits imprescriptibles, des fiches relatives à des condamnations prononcées depuis plus de quarante ans [*délai*] et qui n'ont pas été suivies d'une nouvelle condamnation à une peine criminelle ou correctionnelle.
+Sont retirées du casier judiciaire les fiches relatives à des condamnations effacées par une amnistie, par la réhabilitation de plein droit ou judiciaire ou réformées en conformité d'une décision de rectification du casier judiciaire. Il en est de même, sauf en ce qui concerne les condamnations prononcées pour des faits imprescriptibles, des fiches relatives à des condamnations prononcées depuis plus de quarante ans et qui n'ont pas été suivies d'une nouvelle condamnation à une peine criminelle ou correctionnelle.
 
 Sont également retirés du casier judiciaire :
 
@@ -16,4 +16,6 @@ Toutefois, si la durée de la faillite personnelle ou de l'interdiction est sup�
 
 4° Les dispenses de peines, à l'expiration d'un délai de trois ans à compter du jour où la condamnation est devenue définitive ;
 
-5° Les condamnations pour contravention, à l'expiration d'un délai de trois ans à compter du jour où ces condamnations sont devenues définitives.
+5° Les condamnations pour contravention, à l'expiration d'un délai de trois ans à compter du jour où ces condamnations sont devenues définitives ;
+
+6° Les mentions relatives à la composition pénale, à l'expiration d'un délai de trois ans à compter du jour où l'exécution de la mesure a été constatée, si la personne n'a pas, pendant ce délai, soit subi de condamnation à une peine criminelle ou correctionnelle, soit exécuté une nouvelle composition pénale.

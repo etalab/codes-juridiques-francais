@@ -5,6 +5,7 @@
 - [Article 80-1](article-80-1.md)
 - [Article 80-2](article-80-2.md)
 - [Article 80-3](article-80-3.md)
+- [Article 80-4](article-80-4.md)
 - [Article 81](article-81.md)
 - [Article 81-1](article-81-1.md)
 - [Article 82](article-82.md)

@@ -21,3 +21,4 @@
 - [Titre XXI : De la protection des témoins](titre-xxi)
 - [Titre XXII : Saisine pour avis de la Cour de cassation](titre-xxii)
 - [Titre XXIII : De l'utilisation de moyens de télécommunications au cours de la procédure](titre-xxiii)
+- [Titre XXIV : Dispositions relatives à la juridiction de proximité](titre-xxiv)

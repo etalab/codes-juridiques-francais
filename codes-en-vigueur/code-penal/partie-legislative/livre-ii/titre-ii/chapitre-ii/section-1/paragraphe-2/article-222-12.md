@@ -22,8 +22,10 @@ L'infraction définie à l'article 222-11 est punie de cinq ans d'emprisonnement
 
 10° Avec usage ou menace d'une arme ;
 
-11° Lorsque les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif, ou, à l'occasion des entrées ou des sorties des élèves, aux abords d'un tel établissement.
+11° Lorsque les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif, ou, à l'occasion des entrées ou des sorties des élèves, aux abords d'un tel établissement ;
 
-Les peines encourues sont portées à dix ans d'emprisonnement et à 150000 euros d'amende lorsque l'infraction définie à l'article 222-11 est commise sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le mineur. Les peines sont portées à sept ans d'emprisonnement et 100000 euros d'amende lorsque cette infraction est commise dans deux des circonstances prévues aux 1° à 10° du présent article. Les peines sont portées à dix ans d'emprisonnement et 150000 euros d'amende lorsqu'elle est commise dans trois de ces circonstances.
+12° Par un majeur agissant avec l'aide ou l'assistance d'un mineur.
+
+Les peines encourues sont portées à dix ans d'emprisonnement et à 150000 euros d'amende lorsque l'infraction définie à l'article 222-11 est commise sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le mineur. Les peines sont portées à sept ans d'emprisonnement et 100000 euros d'amende lorsque cette infraction est commise dans deux des circonstances prévues aux 1° à 12° du présent article. Les peines sont portées à dix ans d'emprisonnement et 150000 euros d'amende lorsqu'elle est commise dans trois de ces circonstances.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le précédent alinéa.
