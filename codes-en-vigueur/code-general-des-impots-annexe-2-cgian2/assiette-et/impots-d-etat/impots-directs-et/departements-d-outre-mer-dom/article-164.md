@@ -1,3 +1,0 @@
-# Article 164
-
-Les dispositions de l'article 238 bis E-I du code général des impôts sont étendues, sous les mêmes conditions, aux revenus de toute nature qui sont assujettis à l'impôt sur le revenu, dans les départements de la Guadeloupe, de la Guyane, de la Martinique ou de la Réunion, dans la mesure où les bénéficiaires de ces revenus prendront l'engagement de les investir, soit dans la souscription au capital de sociétés dont l'activité sera considérée comme essentielle pour assurer, dans le cadre des directives gouvernementales, le développement économique et social desdits départements, soit dans la souscription aux emprunts obligataires que ces sociétés seraient autorisées à émettre.

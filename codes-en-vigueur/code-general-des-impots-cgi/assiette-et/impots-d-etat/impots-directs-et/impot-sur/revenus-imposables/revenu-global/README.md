@@ -11,4 +11,3 @@
 - [Article 163 terdecies](article-163-terdecies.md)
 - [Article 164 A](article-164-a.md)
 - [Article 168](article-168.md)
-- [Article 169](article-169.md)

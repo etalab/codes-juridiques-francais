@@ -14,7 +14,6 @@
 - [Article 918](article-918.md)
 - [Article 919](article-919.md)
 - [Article 919 A](article-919-a.md)
-- [Article 921](article-921.md)
 - [Article 922](article-922.md)
 - [Article 923](article-923.md)
 - [Article 924](article-924.md)

@@ -1,3 +1,0 @@
-# Article 111 B
-
-Ce pourcentage est déterminé forfaitairement d'après les résultats d'une période d'épreuve choisie d'un commun accord entre la direction des services fiscaux et l'entreprise intéressée. Il est obtenu en appliquant la formule suivante :   P = T x 100                                    ----------                                        R    dans laquelle P représente le pourcentage cherché  T le montant total des droits de timbre-quittance exigibles pendant la période retenue et R le montant total des recettes pendant la même période. Le pourcentage obtenu est obligatoirement arrondi au centime supérieur.

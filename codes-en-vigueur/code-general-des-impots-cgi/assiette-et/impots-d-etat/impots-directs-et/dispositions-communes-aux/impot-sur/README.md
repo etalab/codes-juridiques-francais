@@ -7,8 +7,6 @@
 - [Article 238](article-238.md)
 - [Article 238 bis](article-238-bis.md)
 - [Article 238 bis A](article-238-bis-a.md)
-- [Article 238 bis E](article-238-bis-e.md)
-- [Article 238 bis H](article-238-bis-h.md)
 - [Article 238 septies](article-238-septies.md)
 - [Article 238 terdecies](article-238-terdecies.md)
 - [Article 238 A](article-238-a.md)
