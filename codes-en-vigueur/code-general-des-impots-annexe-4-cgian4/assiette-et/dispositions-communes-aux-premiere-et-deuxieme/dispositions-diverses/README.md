@@ -1,3 +1,0 @@
-# DISPOSITIONS DIVERSES
-
-- [DISPOSITIONS COMMUNES.](dispositions-communes)

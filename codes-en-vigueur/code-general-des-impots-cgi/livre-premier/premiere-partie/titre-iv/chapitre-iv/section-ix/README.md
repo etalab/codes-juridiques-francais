@@ -12,7 +12,6 @@
 - [9° : Mariages. Dissentiment des parents](9)
 - [Indivisions successorales en Corse - Régime temporaire](indivisions-successorales-en-corse)
 - [Publicité foncière - Réforme - Dispositions transitoires](publicite-fonciere)
-- [Attribution gratuite d'actions ou de parts sociales au personnel des entreprises.](attribution-gratuite-d-actions-ou)
 - [Privatisations](privatisations)
 - [Achats en vue de la revente](achats-en-vue)
 - [Warrants](warrants)

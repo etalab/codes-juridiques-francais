@@ -1,6 +1,5 @@
 # Réduction d'impôt accordée au titre de l'hébergement en établissement de long séjour ou en section de cure médicale
 
-- [Article 199 quater C](article-199-quater-c.md)
 - [Article 199 quater D](article-199-quater-d.md)
 - [Article 199 sexies](article-199-sexies.md)
 - [Article 199 sexies C](article-199-sexies-c.md)
