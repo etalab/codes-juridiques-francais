@@ -1,6 +1,6 @@
 # Chapitre Ier : Les agréments.
 
-- [Section I : Agrément administratif.](section-i)
+- [Section I : Agrément administratif des entreprises françaises](section-i)
 - [Section II : Agrément spécial.](section-ii)
 - [Section III : Conditions des agréments.](section-iii)
 - [Section IV : Dispositions particulières aux départements et territoires d'outre-mer.](section-iv)
