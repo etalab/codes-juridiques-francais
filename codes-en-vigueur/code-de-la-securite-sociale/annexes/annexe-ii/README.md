@@ -14,6 +14,7 @@
 - [Article Annexe II tableau 19](article-annexe-ii-tableau-19.md)
 - [Article Annexe II tableau 25](article-annexe-ii-tableau-25.md)
 - [Article Annexe II tableau 30](article-annexe-ii-tableau-30.md)
+- [Article Annexe II tableau 30 bis](article-annexe-ii-tableau-30-bis.md)
 - [Article Annexe II tableau 31](article-annexe-ii-tableau-31.md)
 - [Article Annexe II tableau 33](article-annexe-ii-tableau-33.md)
 - [Article Annexe II tableau 36](article-annexe-ii-tableau-36.md)
