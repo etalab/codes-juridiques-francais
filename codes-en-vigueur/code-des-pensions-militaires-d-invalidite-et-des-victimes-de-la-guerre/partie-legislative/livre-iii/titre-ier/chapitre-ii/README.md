@@ -1,5 +1,6 @@
 # Chapitre II : Retraite du combattant.
 
+- [Article L255](article-l255.md)
 - [Article L256 bis](article-l256-bis.md)
 - [Article L257](article-l257.md)
 - [Article L259](article-l259.md)
