@@ -9,7 +9,6 @@
 - [Aménagement foncier](amenagement-foncier)
 - [Aménagement foncier Dispositions financières](amenagement-foncier-dispositions-financieres)
 - [Aménagement foncier Opérations d'aménagement](amenagement-foncier-operations-d-amenagement)
-- [Aménagement foncier Organisme d'exécution](amenagement-foncier-organisme-d-execution)
 - [Aménagement foncier Organismes d'exécution](amenagement-foncier-organismes-d-execution)
 - [Droit de préemption Dispositions applicables aux zones à urbaniser en priorité](droit-de-preemption-dispositions-applicables-aux)
 - [Droit de préemption](droit-de-preemption)
