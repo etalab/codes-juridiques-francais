@@ -16,7 +16,7 @@ Ne sont pas éligibles dans le ressort où ils exercent leurs fonctions :
 
 7° les directeurs et les chefs de bureau de préfecture et les secrétaires en chef de sous-préfecture ;
 
-7° bis les directeurs généraux, les directeurs, directeurs adjoints, chefs de service et chefs de bureau de conseil général et de conseil régional ;
+7° bis les membres du cabinet du président du conseil général et du président du conseil régional, les directeurs généraux, les directeurs, directeurs adjoints, chefs de service et chefs de bureau de conseil général et de conseil régional ;
 
 8° en tant que chargés d'une circonscription territoriale de voirie : les ingénieurs en chef, ingénieurs en chef adjoints et ingénieurs des ponts et chaussées, les ingénieurs divisionnaires et ingénieurs des travaux publics de l'État, les chefs de section principaux et chefs de section des travaux publics de l'État ;
 
