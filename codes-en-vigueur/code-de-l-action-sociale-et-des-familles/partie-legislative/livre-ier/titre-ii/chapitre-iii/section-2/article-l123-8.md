@@ -6,6 +6,6 @@ La délibération du conseil d'administration qui rend l'acceptation définitive
 
 Le centre communal ou intercommunal d'action sociale est représenté en justice et dans les actes de la vie civile par son président.
 
-Les règles qui régissent la comptabilité des communes sont applicables aux centres communaux ou intercommunaux d'action sociale.
+Les règles qui régissent la comptabilité des communes sont applicables aux centres communaux ou intercommunaux d'action sociale. Les règles qui régissent la comptabilité des établissements sociaux et médico-sociaux publics autonomes sont applicables aux établissements et aux services mentionnés à l'article L. 312-1 qui sont gérés par des centres communaux ou intercommunaux d'action sociale.
 
 Les délibérations du conseil d'administration ne sont soumises à l'avis ou à l'avis conforme du conseil municipal que dans les cas prévus aux articles L. 2121-34 et L. 2241-5 du code général des collectivités territoriales.
