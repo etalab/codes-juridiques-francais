@@ -5,3 +5,4 @@
 - [Article R*811-3](article-r-811-3.md)
 - [Article R*811-4](article-r-811-4.md)
 - [Article R*811-5](article-r-811-5.md)
+- [Article R*811-6](article-r-811-6.md)
