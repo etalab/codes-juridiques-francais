@@ -1,7 +1,5 @@
 # ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.
 
-- [Article 384-0 A](article-384-0-a.md)
-- [Article 384-0 B](article-384-0-b.md)
 - [Article 384 C](article-384-c.md)
 - [Article 384 bis](article-384-bis.md)
 - [Article 384 ter](article-384-ter.md)
