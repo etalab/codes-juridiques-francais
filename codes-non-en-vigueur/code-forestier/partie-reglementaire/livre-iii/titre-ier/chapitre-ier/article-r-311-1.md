@@ -12,6 +12,8 @@ La demande d'autorisation est faite en double exemplaire. Elle est accompagnée 
 
 3° Selon les cas, de l'étude d'impact ou de la notice prévue par les articles 2 et 4 du décret n° 77-1141 du 12 octobre 1977.
 
+4° D'une déclaration de l'auteur de la demande indiquant si, à sa connaissance, les terrains ont été ou non parcourus par un incendie durant les quinze années précédant l'année de la demande.
+
 La demande est remise ou adressée sous pli recommandé avec demande d'avis de réception à la sous-préfecture où elle est enregistrée.
 
 Elle est visée par le sous-préfet qui rend ou renvoie, selon le cas, l'un des exemplaires au demandeur et transmet l'autre au directeur départemental de l'agriculture qui l'instruit.
