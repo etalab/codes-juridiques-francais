@@ -20,6 +20,6 @@ Le temps pendant lequel les marins ayant accompli au moins dix ans [*durée*] de
 
 8° Le temps pendant lequel les marins ayant accompli au moins cinq ans de navigation professionnelle ont été investis d'un mandat parlementaire, à la condition qu'ils n'aient cessé de naviguer que pour exercer ce mandat.
 
-9° Les périodes pendant lesquelles, avant d'avoir atteint un âge fixé par voie réglementaire, les marins sont privés d'emploi [*chômeurs*] et perçoivent un revenu de remplacement au sens des articles L. 351-1 et L. 351-6-1 du Code du travail.
+9° Les périodes pendant lesquelles, avant d'avoir atteint un âge fixé par voie réglementaire, les marins sont privés d'emploi [*chômeurs*] et perçoivent un revenu de remplacement au sens des articles L. 351-1 et L. 351-6-1 du Code du travail ou une allocation de conversion au sens du 4° de l'article L. 322-4 du code du travail.
 
 La prise en compte de services accomplis par les marins dans d'autres positions spéciales afférentes à leur profession peut être autorisée par voie réglementaire.
