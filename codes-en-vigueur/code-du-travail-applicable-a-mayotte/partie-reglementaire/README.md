@@ -4,7 +4,6 @@
 - [LIVRE Ier : Conventions relatives au travail](livre-ier)
 - [Livre 2 : Réglementation du travail](livre-2)
 - [LIVRE II : Réglementation du travail](livre-ii)
-- [Livre 3 : Emploi](livre-3)
 - [LIVRE III : Emploi](livre-iii)
 - [LIVRE IV : Les groupements professionnels - La représentation des salariés](livre-iv)
 - [Livre 5 : Conflits du travail](livre-5)
