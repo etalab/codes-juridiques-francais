@@ -6,3 +6,4 @@
 - [Titre 4 : Informations communiquées par le promoteur au ministre chargé de la santé dans sa lettre d'intention.](titre-4)
 - [Titre 5 : Dispositions financières.](titre-5)
 - [Titre 6 : Fichier national des personnes qui se prêtent à des recherches biomédicales sans bénéfice individuel direct.](titre-6)
+- [Titre 7 : Assurance des promoteurs de recherches biomédicales](titre-7)
