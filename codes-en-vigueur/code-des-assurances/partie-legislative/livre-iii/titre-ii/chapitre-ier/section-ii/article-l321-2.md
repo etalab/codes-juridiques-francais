@@ -4,4 +4,4 @@ Les entreprises étrangères ne peuvent pratiquer, sur le territoire de la Répu
 
 Un décret en Conseil d'Etat, pris après avis du conseil national des assurances, détermine les modalités d'application de l'alinéa précédent et fixe notamment les conditions que doit remplir le mandataire général.
 
-les dispositions du présent article ne sont pas applicables aux entreprises mentionnées au 5° de l'article L. 310-1 et dont le siège social est établi sur le territoire d'un Etat membre de la Communauté économique européenne.
+Les dispositions du présent article ne sont pas applicables aux entreprises mentionnées à l'article L. 310-1 et dont le siège social est établi sur le territoire d'un Etat membre de la Communauté économique européenne.
