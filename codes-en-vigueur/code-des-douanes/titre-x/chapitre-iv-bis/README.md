@@ -2,5 +2,6 @@
 
 - [Article 284 bis](article-284-bis.md)
 - [Article 284 ter](article-284-ter.md)
+- [Article 284 quater](article-284-quater.md)
 - [Article 284 quinquies](article-284-quinquies.md)
 - [Article 284 sexies](article-284-sexies.md)
