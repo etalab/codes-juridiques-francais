@@ -6,5 +6,6 @@
 - [Article L230-1](article-l230-1.md)
 - [Article L231](article-l231.md)
 - [Article L233](article-l233.md)
+- [Article L234](article-l234.md)
 - [Article L235](article-l235.md)
 - [Article L236](article-l236.md)
