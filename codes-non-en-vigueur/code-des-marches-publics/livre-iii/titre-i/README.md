@@ -5,3 +5,4 @@
 - [Chapitre III : Dispositions particulières aux marchés d'études.](chapitre-iii)
 - [Chapitre V : Protection  de la main d'oeuvre et conditions du travail.](chapitre-v)
 - [Chapitre VI : Protection des transports maritimes français.](chapitre-vi)
+- [Chapitre VII : Travaux sur mémoires et achats sur factures.](chapitre-vii)
