@@ -1,10 +1,10 @@
 # Article L32
 
-Sans préjudice de l'application des lois d'amnistie, les informations relatives aux condamnations judiciaires, aux amendes forfaitaires et aux mesures administratives affectant le permis de conduire doivent être effacées lorsque s'est écoulé un délai de six ans sans que soit à nouveau intervenue une décision judiciaire, une mesure administrative mentionnée au 3° de l'article L. 30 ou une mesure établissant la réalité d'une infraction dans les conditions prévues à l'article L. 11-1.
+Sans préjudice de l'application des lois d'amnistie, les informations relatives aux condamnations judiciaires, aux compositions pénales, aux amendes forfaitaires et aux mesures administratives affectant le permis de conduire doivent être effacées lorsque s'est écoulé un délai de six ans sans que soit à nouveau intervenue une décision judiciaire, une mesure administrative mentionnée au 3° de l'article L. 30 ou une mesure établissant la réalité d'une infraction dans les conditions prévues à l'article L. 11-1.
 
 Le délai prévu à l'alinéa précédent court :
 
-1° Pour les condamnations judiciaires, à compter du jour où la dernière condamnation est devenue définitive ;
+1° Pour les condamnations judiciaires, à compter du jour où la dernière condamnation est devenue définitive pour les compositions pénales, à compter du jour où la mesure est exécutée ;
 
 2° Pour les amendes forfaitaires, à compter du jour du paiement de la dernière amende, ou de l'émission du titre exécutoire de cette amende ;
 
