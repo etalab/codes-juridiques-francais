@@ -1,5 +1,6 @@
 # Sous-section 1 : Opérations du budget général.
 
+- [Article R*511-72](article-r-511-72.md)
 - [Article R*511-73](article-r-511-73.md)
 - [Article R511-74](article-r511-74.md)
 - [Article R511-75](article-r511-75.md)
@@ -9,6 +10,7 @@
 - [Article R511-79](article-r511-79.md)
 - [Article R511-80](article-r511-80.md)
 - [Article R511-81](article-r511-81.md)
+- [Article R511-82](article-r511-82.md)
 - [Article R*511-83](article-r-511-83.md)
 - [Article R*511-84](article-r-511-84.md)
 - [Article R*511-85](article-r-511-85.md)
