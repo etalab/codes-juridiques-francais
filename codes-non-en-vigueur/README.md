@@ -4,6 +4,7 @@
 - [Code du blé](code-du-ble)
 - [Code de commerce](code-de-commerce)
 - [Code de déontologie des chirurgiens-dentistes](code-de-deontologie-des-chirurgiens-dentistes)
+- [Code de déontologie médicale](code-de-deontologie-medicale)
 - [Code de déontologie vétérinaire](code-de-deontologie-veterinaire)
 - [Code de justice militaire](code-de-justice-militaire)
 - [Code de l'enseignement technique](code-de-l-enseignement-technique)
