@@ -1,3 +1,3 @@
 # Article L314-1
 
-Il est institué une taxe perçue à l'occasion du défrichement de surfaces en nature de bois ou de forêts. Donnent également ouverture à la taxe les faits de défrichement indirect définis au troisième alinéa de l'article L. 313-1.
+Une taxe est due à l'occasion de toute décision, expresse ou tacite, autorisant un défrichement en application des articles L. 311-1, L. 312-1 ou L. 363-2.

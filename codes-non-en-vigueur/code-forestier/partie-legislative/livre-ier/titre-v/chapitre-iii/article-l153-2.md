@@ -1,3 +1,3 @@
 # Article L153-2
 
-L'administration chargée des forêts est autorisée à transiger, avant jugement définitif, sur la poursuite des délits et contraventions mentionnés à l'article précédent. Après jugement définitif, la transaction ne peut porter que sur les peines et réparations pécuniaires.
+L'autorité administrative chargée des forêts a le droit, après accord du procureur de la République, de transiger sur la poursuite des délits et contraventions mentionnés à l'article précédent selon les modalités fixées par décret en Conseil d'Etat.

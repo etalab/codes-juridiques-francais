@@ -7,3 +7,5 @@ Sont exceptés des dispositions de l'article L. 311-1 :
 2° Les parcs ou jardins clos et attenants à une habitation principale, lorsque l'étendue close est inférieure à 10 ha ;
 
 3° Les bois de moins de 4 ha, sauf s'ils font partie d'un autre bois qui complète la contenance à 4 ha, ou s'ils sont situés sur le sommet ou la pente d'une montagne, ou bien s'ils proviennent de reboisements exécutés en application du livre IV, titres II et III, et du livre V.
+
+4° Les bois situés dans une zone agricole délimitée en application de l'article 52-4 du code rural, si le défrichement a pour but une mise en valeur agricole ou pastorale.

@@ -2,8 +2,10 @@
 
 Le taux de la taxe est fixé à :
 
-6000 F par hectare de superficie défrichée lorsque le défrichement a pour objet des opérations d'urbanisation ou d'implantation industrielle ;
+- 1 franc par mètre carré de surface à défricher lorsque le défrichement a pour objet des opérations de mise en culture ;
 
-3000 F par hectare de superficie défrichée dans les autres cas.
+3 francs par mètre carré de surface à défricher dans les autres cas.
 
-Toutefois dans ces derniers cas, lorsque le montant de la taxe due par un redevable pour une année dans un département donné n'excède pas 3000 F, la cotisation correspondante n'est pas perçue et, lorsque ce montant est compris entre 3000 F et 6000 F, la cotisation correspondante est établie sous déduction d'une décote égale à la différence entre le montant de la cotisation et 6000 F.
+Toutefois, le montant de la taxe due par le redevable est au minimun de 5000 francs, quelle que soit la surface à défricher, lorsque le défrichement a pour objet de permettre la construction d'un bâtiment autre qu'à usage agricole.
+
+Lorsque le terrain dont le défrichement a été taxé à 1 franc par mètre carré ou exempté de taxe change de destination dans un délai de dix ans à compter de l'autorisation, le complément de la taxe correspond à la nouvelle destination est immédiatement exigible.

@@ -1,5 +1,5 @@
 # Article L223-5
 
-Le ministre peut, avant jugement définitif, accorder, dans les conditions fixées par règlement d'administration publique, le bénéfice d'une transaction sur la poursuite des infractions mentionnées aux articles L. 223-3 et L. 223-4. Cette transaction ne peut excéder 1000 F par infraction.
+Pour les infractions mentionnées aux articles L. 223-3 et L. 223-4, l'autorité administrative chargée des forêts a le droit, après accord du procureur de la République, de transiger selon les modalités fixées par décret en Conseil d'Etat.
 
-Indépendamment des sanctions mentionnées à l'article L. 223-3, le ministre, sur avis des centres régionaux, peut prescrire l'exécution de mesures de reconstitution forestière.
+Indépendamment des sanctions mentionnées à l'article L. 223-3, cette autorité peut prescrire l'exécution de mesures de reconstitution forestière, après avis du centre régional de la propriété forestière.
