@@ -8,4 +8,4 @@ Les prêts en numéraire prévus par le c du 1° de l'article R. 532-1 peuvent �
 
 3° Achat de matériels spécialisés de nature à améliorer la productivité des travaux de reboisement et de sylviculture ;
 
-4° Création, modernisation, concentration ou équipement d'entreprises de travaux sylvicoles, d'exploitation forestière ou de scieries ainsi que d'entreprises prestataires de services ou de sociétés de crédit-bail ayant le même objet.
+4° Création, modernisation, concentration ou équipement d'entreprises de travaux sylvicoles, ou d'exploitation forestière ainsi que d'entreprises prestataires de services ou de sociétés de crédit-bail ayant le même objet.

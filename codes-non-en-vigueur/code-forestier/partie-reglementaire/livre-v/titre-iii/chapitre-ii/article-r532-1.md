@@ -2,7 +2,7 @@
 
 Le fonds forestier national peut intervenir :
 
-1° Soit en finançant des opérations tendant à la reconstitution, à l'amélioration ou à l'extension forestière, à l'équipement, à la protection et à la conservation de la forêt, à l'amélioration de la gestion forestière et de la qualité des produits forestiers ainsi qu'à l'amélioration de la productivité des travaux de reboisement et de sylviculture, des entreprises d'exploitation forestière et des scieries, par l'attribution de :
+1° Soit en finançant des opérations tendant à la reconstitution, à l'amélioration ou à l'extension forestière, à l'équipement, à la protection et à la conservation de la forêt, à l'amélioration de la gestion forestière et de la qualité des produits forestiers ainsi qu'à l'amélioration de la productivité des travaux de reboisement et de sylviculture, des entreprises d'exploitation forestière, par l'attribution de :
 
 a) Bons subventions, subventions en nature et subventions accessoires en espèces dans les conditions fixées aux sections 1 et 2 du présent chapitre ;
 
@@ -24,8 +24,18 @@ c) Réalisation de l'inventaire permanent des ressources forestières ;
 
 d) Réalisation d'études ou de missions techniques ou économiques concernant la forêt, ses produits et les industries forestières en France ou à l'étranger ;
 
-e) Actions de recherche et de développement, d'information ou de promotion intéressant l'accroissement ou l'amélioration des ressources forestières, leur mobilisation et leur transformation ;
+e) Actions de recherche et de développement, d'information ou de promotion intéressant l'accroissement ou l'amélioration des ressources forestières, leur mobilisation et leur transformation ainsi que le développement et la promotion des emplois du bois ;
 
 f) Expertises techniques ou financières de dossiers de demande d'aide concernant des opérations mentionnées au paragraphe 1° du présent article ;
 
 g) Appui aux initiatives économiques et financières d'organismes coopératifs, mutualistes ou bancaires tendant à favoriser l'investissement forestier et la mobilisation des ressources forestières.
+
+3° Soit en contribuant au financement :
+
+- du centre technique du bois et de l'ameublement ;
+
+- de l'association nationale pour le développement agricole ;
+
+- des centres régionaux de la propriété forestière,
+
+sur le fondement de conventions pluriannuelles passées entre l'Etat et les organismes bénéficiaires.
