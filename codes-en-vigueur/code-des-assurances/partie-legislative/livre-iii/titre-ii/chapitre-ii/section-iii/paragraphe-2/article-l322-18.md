@@ -13,3 +13,5 @@ c) Trois représentants de l'Etat, désignés par le ministre de l'économie et 
 d) Un représentant du personnel, nommé par arrêté du ministre de l'économie et des finances sur proposition des organisations syndicales les plus représentatives ;
 
 e) Un ou deux représentants des actionnaires autres que l'Etat, selon que la part de ces actionnaires dans le capital de la société ne dépasse pas ou dépasse 10 % ; l'un au moins de ces membres représente les personnes physiques détentrices d'actions ; ces représentants sont élus selon des modalités fixées par décret en Conseil d'Etat.
+
+f) Le président du conseil d'administration de la société centrale concernée.
