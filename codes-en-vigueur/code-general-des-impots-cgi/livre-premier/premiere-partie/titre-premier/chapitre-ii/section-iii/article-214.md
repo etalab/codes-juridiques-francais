@@ -4,9 +4,7 @@
 
 1° En ce qui concerne les sociétés coopératives de consommation, les bonis provenant des opérations faites avec les associés et distribués à ces derniers au prorata de la commande de chacun d'eux;
 
-2° En ce qui concerne les sociétés coopératives ouvrières de production [*SCOP*], la part des bénéfices nets qui est distribuée aux travailleurs dans les conditions prévues au 3° de l'article 33 de la loi n° 78-763 du 19 juillet 1978 portant statut des sociétés coopératives ouvrières de production sauf lorsqu'il est fait application des dispositions prévues à l'article 26 de cette loi et qu'un ou plusieurs associés non-employés détiennent directement ou indirectement plus de la moitié du capital;
-
-3° (Abrogé)
+2° En ce qui concerne les sociétés coopératives ouvrières de production [*SCOP*], la part des bénéfices nets qui est distribuée aux travailleurs dans les conditions prévues au 3° de l'article 33 de la loi n° 78-763 du 19 juillet 1978 portant statut des sociétés coopératives ouvrières de production ;    3° (Abrogé)
 
 4° (Disposition périmée).
 
@@ -21,6 +19,8 @@ A titre transitoire, les sociétés visées à l'alinéa précédent pourront d�
 33 1/3 p. 100 de leur montant au titre de 1992.
 
 6° La fraction éventuelle des ristournes déduites en vertu des 1°, 2° et 5° qui dépasse 50 p. 100 des excédents pouvant être répartis d'un exercice est réintégrée au résultat du même exercice à concurrence des sommes apportées ou mises à disposition de la coopérative par les bénéficiaires au cours des deux exercices suivants.
+
+7° Les dispositions des 1° et 2° ne sont pas applicables aux sociétés dont plus de 50 p. 100 du capital est détenu par des associés non coopérateurs, définis au 1 quinquies de l'article 207, et des titulaires de certificats coopératifs d'investissement ou de certificats coopératifs d'associés, à l'exception des sociétés coopératives ouvrières de production dont la majorité du capital est détenue par une autre société coopérative ouvrière de production dans les conditions prévues à l'article 25 de la loi n° 78-763 du 19 juillet 1978 portant statut des sociétés coopératives ouvrières de production.
 
 1 bis. Lorsqu'une société exerce l'option pour le régime de groupe mentionné à l'article 223 A, les dispositions du 1 ci-dessus ne sont pas applicables pour la détermination des résultats des exercices clos au cours de la période de cinq ans à compter de la date d'ouverture du premier exercice au titre duquel elle a exercé cette option.
 

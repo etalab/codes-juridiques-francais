@@ -6,7 +6,7 @@ a) L'obligation pour chaque coopérateur d'utiliser les services de la société
 
 b) L'obligation pour la société de ne faire d'opérations qu'avec ses seuls associés coopérateurs ;
 
-c) La limitation à 6 p. 100 net au maximum de l'intérêt versé au capital souscrit par les associés coopérateurs ;
+c) La limitation de l'intérêt versé au capital souscrit par les associés coopérateurs à un taux au plus égal au taux fixé par l'article 14 de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération ;
 
 d) La répartition des excédents annuels disponibles entre les associés coopérateurs proportionnellement aux opérations qu'ils ont réalisées avec leur coopérative lors de l'exercice ;
 

@@ -9,3 +9,5 @@ Cette augmentation, qui ne pourra intervenir qu'après présentation à l'assemb
 Les deux opérations cumulées ne peuvent toutefois aboutir à une augmentation de capital social supérieure à celle qui résulterait de l'application du barème visé l'alinéa 2 ci-dessus.
 
 L'augmentation de capital donne lieu à majoration de la valeur nominale des parts sociales antérieurement émises ou à distribution de nouvelles parts sociales.
+
+Les dispositions de l'article 11 bis du dernier alinéa de l'article 16 et du dernier alinéa de l'article 18 de la loi n° 47-1775 du 10 septembre 1947 ne sont pas applicables.
