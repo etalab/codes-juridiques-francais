@@ -1,6 +1,6 @@
 # Article R233
 
-Sera punie d'une amende de 250 à 600 F [*sanction, (1)*] , toute personne qui aura contrevenu aux dispositions du livre Ier concernant:
+Sera punie de l'amende prévue pour les contraventions de la 2ème classe toute personne qui aura contrevenu aux dispositions du livre Ier concernant:
 
 1° La conduite des véhicules et des animaux, en dehors des cas prévus aux autres articles du présent code ;
 
