@@ -6,11 +6,13 @@ Amiens : Aisne, Oise, Somme ;
 
 Bastia : Corse-du-Sud, Haute-Corse ;
 
-Besançon : Doubs, Jura, Haute-Saône, territoire de Belfort ;
+Besançon : Doubs, Jura, Haute-Saône, Territoire de Belfort ;
 
 Bordeaux : Dordogne, Gironde, Lot-et-Garonne ;
 
 Caen : Calvados, Manche, Orne ;
+
+Cergy-Pontoise : Seine-Saint-Denis, Val-d'Oise ;
 
 Châlons-en-Champagne : Ardennes, Aube, Marne, Haute-Marne ;
 
@@ -40,7 +42,7 @@ Nice : Alpes-Maritimes, Var ;
 
 Orléans : Cher, Eure-et-Loir, Indre-et-Loire, Loir-et-Cher, Loiret ;
 
-Paris : Ville de Paris, Hauts-de-Seine, Seine-Saint-Denis ;
+Paris : Ville de Paris, Hauts-de-Seine ;
 
 Pau : Gers, Landes, Pyrénées-Atlantiques, Hautes-Pyrénées ;
 
@@ -54,7 +56,7 @@ Strasbourg : Moselle, Bas-Rhin, Haut-Rhin ;
 
 Toulouse : Ariège, Aveyron, Haute-Garonne, Lot, Tarn, Tarn-et-Garonne ;
 
-Versailles : Essonne, Val-d'Oise, Yvelines ;
+Versailles : Essonne, Yvelines ;
 
 Basse-Terre : Guadeloupe ;
 
@@ -70,4 +72,4 @@ Saint-Pierre : Saint-Pierre-et-Miquelon ;
 
 Papeete : Polynésie française ;
 
-Nouméa : Nouvelle-Calédonie.
+Nouvelle-Calédonie : Nouvelle-Calédonie.

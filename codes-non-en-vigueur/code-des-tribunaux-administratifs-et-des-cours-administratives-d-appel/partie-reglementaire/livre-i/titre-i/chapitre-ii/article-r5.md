@@ -4,25 +4,31 @@ Les tribunaux administratifs désignés ci-après sont composés de plusieurs ch
 
 Amiens : trois chambres ;
 
+Bastia : deux chambres ;
+
 Besançon : deux chambres ;
 
 Bordeaux : trois chambres ;
 
 Caen : deux chambres ;
 
+Cergy-Pontoise : cinq chambres ;
+
 Châlons-en-Champagne : deux chambres ;
 
 Clermont-Ferrand : deux chambres ;
 
-Dijon : deux chambres ;
+Dijon : trois chambres ;
 
 Grenoble : cinq chambres ;
 
 Lille : cinq chambres ;
 
+Limoges : deux chambres ;
+
 Lyon : six chambres ;
 
-Marseille : six chambres ;
+Marseille : sept chambres ;
 
 Melun : cinq chambres ;
 
@@ -42,11 +48,11 @@ Poitiers : trois chambres ;
 
 Rennes : cinq chambres ;
 
-Rouen : deux chambres ;
+Rouen : trois chambres ;
 
 Strasbourg : quatre chambres ;
 
-Toulouse : trois chambres ;
+Toulouse : quatre chambres ;
 
 Versailles : six chambres.
 
