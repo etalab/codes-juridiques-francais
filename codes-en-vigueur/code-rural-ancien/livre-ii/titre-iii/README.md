@@ -8,4 +8,5 @@
 - [Article 215-1](article-215-1.md)
 - [Article 215-2](article-215-2.md)
 - [Article 215-3](article-215-3.md)
+- [Article 215-4](article-215-4.md)
 - [Article 215-5](article-215-5.md)
