@@ -4,6 +4,7 @@
 - [Chapitre II : Mode de scrutin](chapitre-ii)
 - [Chapitre III : Conditions d'éligibilité et inéligibilités](chapitre-iii)
 - [Chapitre IV : Incompatibilités](chapitre-iv)
+- [Chapitre IV bis : Déclarations de candidature](chapitre-iv-bis)
 - [Chapitre V : Propagande](chapitre-v)
 - [Chapitre VI : Opérations préparatoires au scrutin](chapitre-vi)
 - [Chapitre IX : Contentieux](chapitre-ix)
