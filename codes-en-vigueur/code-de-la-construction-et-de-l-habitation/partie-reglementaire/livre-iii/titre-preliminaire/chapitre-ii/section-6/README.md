@@ -6,3 +6,7 @@
 - [Article R302-27](article-r302-27.md)
 - [Article R302-28](article-r302-28.md)
 - [Article R302-29](article-r302-29.md)
+- [Article R302-30](article-r302-30.md)
+- [Article R302-31](article-r302-31.md)
+- [Article R302-32](article-r302-32.md)
+- [Article R302-33](article-r302-33.md)
