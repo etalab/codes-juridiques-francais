@@ -6,4 +6,3 @@
 - [LIVRE 4 : Personnel communal](livre-4)
 - [LIVRE 5 : Dispositions finales.](livre-5)
 - [FINANCES COMMUNALES](finances-communales)
-- [Organisation communale](organisation-communale)
