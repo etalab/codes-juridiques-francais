@@ -1,5 +1,6 @@
 # 3 : Autres sanctions et mesures diverses
 
+- [Article 1840 R](article-1840-r.md)
 - [Article 1840 S](article-1840-s.md)
 - [Article 1840 T](article-1840-t.md)
 - [Article 1840 T bis](article-1840-t-bis.md)

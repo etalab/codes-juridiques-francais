@@ -2,6 +2,7 @@
 
 - [1 : Définition du bénéfice de l'exploitation agricole](1)
 - [2 : Evaluation forfaitaire](2)
+- [2 ter : Régime transitoire.](2-ter)
 - [3 : Imposition d'après le bénéfice réel](3)
 - [5 : Régime spécial applicable aux exploitations forestières](5)
 - [5 bis : Régime spécial des cultures agréées dans les départements d'outre-mer](5-bis)

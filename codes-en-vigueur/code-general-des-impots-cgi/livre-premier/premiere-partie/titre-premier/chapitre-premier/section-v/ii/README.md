@@ -4,6 +4,7 @@
 - [9° : Réduction d'impôt accordée au titre de certaines primes d'assurances](9)
 - [Article 193](article-193.md)
 - [Article 193 bis](article-193-bis.md)
+- [Article 194](article-194.md)
 - [Article 196](article-196.md)
 - [Article 196 bis](article-196-bis.md)
 - [Article 196 A bis](article-196-a-bis.md)

@@ -6,3 +6,4 @@
 - [Section IV : Procédures de rectification](section-iv)
 - [Section V : Procédures d'imposition d'office](section-v)
 - [Section VI : Conséquences et limites des procédures de rectification](section-vi)
+- [Section VII : Sanctions fiscales](section-vii)

@@ -1,6 +1,6 @@
 # Article L434-6
 
-Le comité d'entreprise peut se faire assister d'un expert-comptable de son choix en vue de l'examen annuel des comptes prévus à l'article L. 432-4, alinéa 9 et 13, et, dans la limite de deux fois par exercice, en vue de l'examen des documents mentionnés au quatorzième alinéa du même article. Il peut également se faire assister d'un expert-comptable dans les conditions prévues à l'article L. 432-5 et lorsque la procédure de consultation prévue à l'article L. 321-3 pour licenciement économique d'ordre structurel ou conjoncturel doit être mise en oeuvre.
+Le comité d'entreprise peut se faire assister d'un expert-comptable de son choix en vue de l'examen annuel des comptes prévus à l'article L. 432-4, alinéa 9 et 13, et, dans la limite de deux fois par exercice, en vue de l'examen des documents mentionnés au quatorzième alinéa du même article. Il peut également se faire assister d'un expert-comptable dans les conditions prévues à l'article L. 432-5 et lorsque la procédure de consultation prévue à l'article L. 321-3 pour licenciement économique doit être mise en oeuvre.
 
 La mission de l'expert-comptable porte sur tous les éléments d'ordre économique, financier ou social nécessaires à l'intelligence des comptes et à l'appréciation de la situation de l'entreprise.
 
@@ -14,4 +14,4 @@ Le recours à l'expert visé au quatrième alinéa du présent article fait l'ob
 
 Le comité d'entreprise peut faire appel à tout expert rémunéré par ses soins pour la préparation de ses travaux. Le recours à un expert donne lieu à délibération du comité d'entreprise. L'expert choisi par le comité dispose des documents détenus par le comité d'entreprise. Il a accès au local du comité et, dans des conditions définies par accord entre l'employeur et la majorité des membres élus du comité, aux autres locaux de l'entreprise.
 
-Les experts visés ci-dessus sont tenus aux obligations de secret et de discrétion tels que définis à l'article L. 432-6.
+Les experts visés ci-dessus sont tenus aux obligations de secret et de discrétion tels que définis à l'article L. 432-7.
