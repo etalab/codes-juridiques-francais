@@ -8,6 +8,7 @@
 - [Sous-section 6 : Dispositions diverses.](sous-section-6)
 - [Sous-section 7 : Dispositions pénales.](sous-section-7)
 - [Sous-section 8 : Classement des cours d'eau, canaux et plans d'eau en deux catégories.](sous-section-8)
+- [Article R*236-1](article-r-236-1.md)
 - [Article R*236-2](article-r-236-2.md)
 - [Article R*236-3](article-r-236-3.md)
 - [Article R*236-4](article-r-236-4.md)
