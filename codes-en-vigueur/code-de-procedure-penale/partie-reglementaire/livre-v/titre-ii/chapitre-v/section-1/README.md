@@ -1,5 +1,6 @@
 # Section 1 : De la police intérieure
 
+- [Article D241](article-d241.md)
 - [Article D242.](article-d242.md)
 - [Article D243](article-d243.md)
 - [Article D244](article-d244.md)
