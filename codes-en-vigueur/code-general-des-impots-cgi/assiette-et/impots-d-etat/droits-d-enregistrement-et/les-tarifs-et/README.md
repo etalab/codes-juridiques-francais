@@ -23,7 +23,6 @@
 - [Article 732](article-732.md)
 - [Article 749](article-749.md)
 - [Article 750 ter](article-750-ter.md)
-- [Article 752](article-752.md)
 - [Article 758](article-758.md)
 - [Article 760](article-760.md)
 - [Article 764](article-764.md)
