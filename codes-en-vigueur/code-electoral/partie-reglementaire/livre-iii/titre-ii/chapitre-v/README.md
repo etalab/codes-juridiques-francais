@@ -1,4 +1,4 @@
-# Chapitre V : Dispositions relatives à l'élection du sénateur de la collectivité territoriale de Mayotte
+# Chapitre V : Dispositions applicables à l'élection du sénateur de Mayotte
 
-- [Article R*179-8](article-r-179-8.md)
-- [Article R*179-9](article-r-179-9.md)
+- [Article R179](article-r179.md)
+- [Article R179-1](article-r179-1.md)

@@ -1,3 +1,3 @@
-# Chapitre III : Dispositions relatives à l'élection des conseillers généraux de la collectivité territoriale de Mayotte
+# Chapitre III : Dispositions applicables à l'élection des conseillers généraux de Mayotte
 
-- [Article R*179-6](article-r-179-6.md)
+- [Article R178](article-r178.md)
