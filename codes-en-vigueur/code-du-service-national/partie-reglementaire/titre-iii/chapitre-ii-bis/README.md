@@ -1,16 +1,4 @@
 # CHAPITRE II bis : Service dans la police nationale
 
-- [PARAGRAPHE 1 : Affectation.](paragraphe-1)
 - [SECTION I : Service actif dans la police nationale.](section-i)
-- [PARAGRAPHE 2 : Missions.](paragraphe-2)
 - [SECTION II : Disponibilité et réserve dans la police nationale.](section-ii)
-- [PARAGRAPHE 3 : Hiérarchie - Avancement.](paragraphe-3)
-- [PARAGRAPHE 4 : Permissions.](paragraphe-4)
-- [PARAGRAPHE 5 : Récompenses.](paragraphe-5)
-- [PARAGRAPHE 6 : Indemnités - Hébergement et alimentation.](paragraphe-6)
-- [PARAGRAPHE 7 : Tenue.](paragraphe-7)
-- [PARAGRAPHE 8 : Transports.](paragraphe-8)
-- [PARAGRAPHE 9 : Soins.](paragraphe-9)
-- [PARAGRAPHE 10 : Inaptitude physique.](paragraphe-10)
-- [PARAGRAPHE 11 : Libération du service actif.](paragraphe-11)
-- [PARAGRAPHE 12 : Dispositions diverses.](paragraphe-12)
