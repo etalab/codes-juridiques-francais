@@ -7,3 +7,4 @@
 - [Article L602-3](article-l602-3.md)
 - [Article L602-4](article-l602-4.md)
 - [Article L603](article-l603.md)
+- [Article L605](article-l605.md)
