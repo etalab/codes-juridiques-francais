@@ -6,7 +6,7 @@
 
 2  L'assiette de la taxe sur la valeur ajoutée applicable aux produits pétroliers est déterminée conformément aux dispositions ci-après :
 
-1° Sauf en ce qui concerne les gaz de pétrole et autres hydrocarbures gazeux repris aux numéros 27-11-11, 27-11-14, ex 27-11-19, ex 27-11-21, 27-11-29 du tarif des douanes et non destinés à être utilisés comme carburants, la valeur imposable lors de la mise à la consommation est fixée forfaitairement, pour chaque trimestre de l'année civile, par décision du directeur général des douanes et des droits indirects, sur proposition du directeur des carburants.
+1° Sauf en ce qui concerne les gaz de pétrole et autres hydrocarbures gazeux repris aux numéros 27-11-14, ex 27-11-19, ex 27-11-21, 27-11-29 du tarif des douanes et non destinés à être utilisés comme carburants, la valeur imposable lors de la mise à la consommation est fixée forfaitairement, pour chaque trimestre de l'année civile, par décision du directeur général des douanes et des droits indirects, sur proposition du directeur des carburants.
 
 En ce qui concerne les produits autres que le gaz comprimé destiné à être utilisé comme carburant, cette valeur est établie sur la base du prix C.A.F. moyen des produits importés, ou faisant l'objet d'une acquisition intracommunautaire (1), majoré du montant des droits de douane applicables aux produits de l'espèce en régime de droit commun en tarif minimum et des taxes et redevances perçues lors de la mise à la consommation, à l'exception de la taxe sur la valeur ajoutée.
 
@@ -48,6 +48,6 @@ Ce transfert s'effectue sous le couvert de certificats de transfert de droits à
 
 5  La déduction de la taxe sur la valeur ajoutée qui a grevé les biens ou services autres que ceux visés au 4-2° peut être opérée indifféremment auprès de la direction générale des douanes et droits indirects ou auprès de la direction générale des impôts.
 
-6  Les dispositions du 4-1° et 2° ne s'appliquent pas en ce qui concerne les gaz de pétrole et autres hydrocarbures gazeux relevant des positions 27-11-11, 27-11-14, ex 27-11-19, ex 27-11-21, 27-11-29 du tarif des douanes et repris au tableau B de l'article 265 du code des douanes sous les indices d'identification 30, 33, 35, 37, 38 et 39.
+6  Les dispositions du 4-1° et 2° ne s'appliquent pas en ce qui concerne les gaz de pétrole et autres hydrocarbures gazeux relevant des positions 27-11-14, ex 27-11-19, ex 27-11-21, 27-11-29 du tarif des douanes et repris au tableau B de l'article 265 du code des douanes sous les indices d'identification 33, 35 et 39.
 
 7  (Transféré sous l'article L 45 C du livre des procédures fiscales).
