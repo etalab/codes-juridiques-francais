@@ -19,7 +19,6 @@
 - [Article D412-52](article-d412-52.md)
 - [Article D412-53](article-d412-53.md)
 - [Article D412-54](article-d412-54.md)
-- [Article D412-55](article-d412-55.md)
 - [Article D412-56](article-d412-56.md)
 - [Article D412-57](article-d412-57.md)
 - [Article D412-58](article-d412-58.md)
