@@ -22,7 +22,7 @@ a) 1,875 % du bénéfice imposable retenu dans la limite de huit fois le montant
 
 b) Ou 2,5 % du montant annuel du plafond mentionné à l'article L. 241-3 du code de la sécurité sociale.
 
-Les revenus exonérés en application des articles 44 sexies à 44 decies sont retenus pour l'appréciation du montant du bénéfice imposable mentionné aux 1°, 2° et 3°. Il n'est pas tenu compte des plus-values et moins-values professionnelles à long terme.
+Les revenus exonérés en application des articles 44 sexies à 44 undecies sont retenus pour l'appréciation du montant du bénéfice imposable mentionné aux 1°, 2° et 3°. Il n'est pas tenu compte des plus-values et moins-values professionnelles à long terme.
 
 3° Il est complété par un III ainsi rédigé :
 
