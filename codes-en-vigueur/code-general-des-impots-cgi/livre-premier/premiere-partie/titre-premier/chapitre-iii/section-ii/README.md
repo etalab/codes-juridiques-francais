@@ -12,3 +12,4 @@
 - [Article 231 bis H](article-231-bis-h.md)
 - [Article 231 bis J](article-231-bis-j.md)
 - [Article 231 bis K](article-231-bis-k.md)
+- [Article 231 bis N](article-231-bis-n.md)

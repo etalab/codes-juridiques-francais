@@ -7,3 +7,4 @@
 - [Article 1639 A](article-1639-a.md)
 - [Article 1639 A bis](article-1639-a-bis.md)
 - [Article 1639 B](article-1639-b.md)
+- [Article 1640 A](article-1640-a.md)

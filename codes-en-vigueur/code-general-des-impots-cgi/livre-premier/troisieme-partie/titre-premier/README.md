@@ -1,5 +1,6 @@
 # Titre premier : Assiette et contrôle de l'impôt
 
+- [Chapitre I bis : Mesures de contrôle des opérations réalisées en espèces et des transferts de sommes, titres ou valeurs.](chapitre-i-bis)
 - [Chapitre I ter : Centres de gestion agréés,  associations de gestion et de comptabilité et associations agréées des professions libérales](chapitre-i-ter)
 - [Chapitre II : Casier fiscal](chapitre-ii)
 - [Chapitre IV : Exonérations fiscales contractuelles et agréments](chapitre-iv)

@@ -4,6 +4,7 @@
 - [Section I bis : Entreprises créées en Corse](section-i-bis)
 - [Section II : Monuments historiques. Charges déductibles pour les organismes non lucratifs](section-ii)
 - [Section III : Intérêts de livrets supplémentaires de caisses d'épargne](section-iii)
+- [Section III bis : Supplément d'impôt sur les sociétés](section-iii-bis)
 - [Section IV : Modalités d'application du précompte.](section-iv)
 - [Section V : Profits de construction](section-v)
 - [Section V bis : Rachat d'une entreprise par ses salariés](section-v-bis)
@@ -11,3 +12,4 @@
 - [Section VII : Bénéfice imposable des caisses de crédit mutuel agricole et rural](section-vii)
 - [Section VIII : Régime des groupes de sociétés](section-viii)
 - [Section IX : Entreprises nouvelles bénéficiant des dispositions de l'article 44 septies](section-ix)
+- [Section X : Obligations déclaratives relatives au supplément d'impôt sur les sociétés.](section-x)

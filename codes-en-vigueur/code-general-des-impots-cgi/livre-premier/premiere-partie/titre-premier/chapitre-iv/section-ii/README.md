@@ -30,4 +30,6 @@
 - [XXVI : Prélèvements sur les plus-values prévues à l'article 244 bis.](xxvi)
 - [XXVII : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales.](xxvii)
 - [XXVIII : Crédit d'impôt pour dépenses de formation professionnelle.](xxviii)
+- [XXX : Crédit d'impôt pour accroissement de la durée d'utilisation des équipements et pour réduction de la durée hebdomadaire de travail.](xxx)
+- [XXVIX : Crédit d'impôt pour dépenses d'adhésion à un groupement de prévention agréé.](xxvix)
 - [bénéfices visés aux chapitres I à III](benefices-vises-aux)

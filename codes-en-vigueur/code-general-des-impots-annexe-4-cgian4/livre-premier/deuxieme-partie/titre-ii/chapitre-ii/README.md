@@ -8,3 +8,4 @@
 - [Section VII quater : Taxe perçue au profit du comité de développement des industries françaises de l'ameublement.](section-vii-quater)
 - [Section VII quinquies : Taxe parafiscale des industries textiles.](section-vii-quinquies)
 - [Section IX : Taxe parafiscale des industries de l'habillement et de la maille.](section-ix)
+- [Section X : Taxe parafiscale perçue au profit du fonds de soutien à l'expression radiophonique.](section-x)

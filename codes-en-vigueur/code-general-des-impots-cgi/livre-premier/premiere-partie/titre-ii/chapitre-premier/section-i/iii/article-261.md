@@ -34,7 +34,7 @@ c. (Abrogé) ;
 
 3. (Biens usagés. Déchets neufs d'industrie et matières de récupération) :
 
-1° a. Sous réserve, le cas échéant, des dispositions de l'article 257-13° et 15°, les ventes de biens usagés faites par les personnes qui les ont utilisés pour les besoins de leurs exploitations. Toutefois, cette exonération ne s'applique pas aux biens dans la commercialisation desquels elle provoque des distorsions d'imposition. La liste de ces biens est établie par arrêté du ministre de l'économie et des finances après avis des professions intéressées (3) ;
+1° a. Sous réserve, le cas échéant, des dispositions de l'article 257-13° et 15°, les ventes de biens usagés faites par les personnes qui les ont utilisés pour les besoins de leurs exploitations.    Toutefois, l'exonération ne s'applique pas aux biens qui ont ouvert droit à déduction complète ou partielle de la taxe sur la valeur ajoutée lors de leur acquisition, importation ou livraison à soi-même (3).
 
 b. (Disposition périmée) ;
 
@@ -88,6 +88,14 @@ c. (Devenu sans objet) ;
 
 d. Les opérations immobilières résultant de l'application des dispositions de l'article 15 modifié de la loi n° 60-808 du 5 août 1960 d'orientation agricole, réalisées par les sociétés d'aménagement foncier et d'établissement rural constituées en application de ce même article et agréées par le ministre de l'agriculture et le ministre du budget (4) ;
 
+Ces dispositions ne s'appliquent pas aux cessions d'immeubles acquis postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990.
+
+d bis. Toutes les cessions effectuées par les sociétés d'aménagement foncier et d'établissement rural qui, ayant pour objet le maintien, la création ou l'agrandissement d'exploitations agricoles, sont assorties d'un engagement de l'acquéreur pris pour lui et ses ayants cause de conserver la destination des immeubles acquis pendant un délai de dix ans à compter du transfert de propriété.
+
+La même exonération s'applique aux cessions de parcelles boisées à condition que l'ensemble de ces parcelles n'excède pas dix hectares ou, dans le cas contraire, ne soit pas susceptible d'aménagement ou d'exploitation régulière au sens du décret du 28 juin 1930 fixant les conditions d'application de l'article 15 de la loi de finances du 16 avril 1930 ou de l'article L. 222-1 du code forestier.
+
+Les dispositions des deux alinéas précédents ne s'appliquent qu'aux cessions des immeubles acquis postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990.
+
 e. (Disposition périmée) ;
 
 f. (Abrogé) ;
@@ -140,9 +148,13 @@ d. Le caractère désintéressé de la gestion résulte de la réunion des condi
 
 Tous les organismes concernés par les a, b et c sont placés sous le régime du chiffre d'affaires réel ; un décret en Conseil d'Etat détermine leurs obligations ainsi que l'étendue et les modalités d'exercice de leurs droits à déduction (5) ;
 
-1° bis Les opérations effectuées par les associations intermédiaires agréées en application de l'article L128 du code du travail, dans les conditions prévues au 1° ;    2° (Abrogé).
+1° bis Les opérations effectuées par les associations intermédiaires agréées en application de l'article L128  du code du travail, dans les conditions prévues au 1° ;
+
+2° (Abrogé).
 
 3° Les ventes portant sur les articles fabriqués par des groupements d'aveugles ou de travailleurs handicapés, agréés dans les conditions prévues par la loi n° 72-616 du 5 juillet 1972, ainsi que les réparations effectuées par ces groupements. Ils peuvent toutefois, sur leur demande, renoncer à l'exonération dans les conditions et selon les modalités prévues à l'égard des personnes mentionnées à l'article 260-1° ;
+
+4° (Abrogé) ;
 
 8. et 9. (Abrogés).
 
@@ -150,7 +162,7 @@ Tous les organismes concernés par les a, b et c sont placés sous le régime du
 
 (2) Voir décret n° 64-285 du 2 avril 1964 (J.O. du 4).
 
-(3) Annexe IV, art. 24.
+(3) Ces dispositions ne s'appliquent pas aux biens cédés à des personnes qui ont souscrit un contrat de crédit-bail ou de location avec option d'achat avant le 8 septembre 1989.
 
 (4) Cf. décret n° 61-610 du 14 juin 1961 (J.O. du 15).
 

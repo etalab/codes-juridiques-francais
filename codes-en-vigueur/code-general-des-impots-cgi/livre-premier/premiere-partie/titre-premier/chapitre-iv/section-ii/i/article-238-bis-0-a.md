@@ -14,7 +14,7 @@ L'offre de don peut également porter sur un bien que l'entreprise se propose d'
 
 En cas d'acquisition par l'entreprise lors d'une vente aux enchères publiques, l'offre ne peut être acceptée que pour une valeur égale au prix déterminé lors de la vente.
 
-4. La déduction s'effectue au cours de la période prévue au 1, par fractions égales, dans la limite mentionnée au deuxième alinéa du 1 de l'article 238 bis.
+4. La déduction s'effectue au cours de la période prévue au 1, par fractions égales, dans la limite mentionnée au 2 de l'article 238 bis.
 
 5. L'entreprise inscrit à un compte de provision spéciale les sommes correspondant aux déductions opérées en application du 4.
 

@@ -1,20 +1,16 @@
 # Article 902
 
-Sont exonérés du droit de timbre de dimension :
-
-1. Mutations à titre onéreux d'immeubles.
+Sont exonérés du droit de timbre de dimension : 1. Mutations à titre onéreux d'immeubles.
 
 1° a. Les minutes, originaux et expéditions des actes d'échange d'immeubles ;
 
-b. Les minutes, originaux et expéditions des actes ou procès-verbaux de vente ou licitation d'immeubles dont le prix n'est pas supérieur à 5.000 F.
+b. Les minutes, originaux et expéditions des actes ou procès-verbaux de vente ou licitation d'immeubles dont le prix n'est pas supérieur à 5.000 F [*montant*].
 
-Les cahiers des charges ne sont soumis au timbre de dimension qu'après la réalisation des ventes ou adjudications et seulement si le prix excède 5.000 F .
+Les cahiers des charges ne sont soumis au timbre de dimension qu'après la réalisation des ventes ou adjudications et seulement si le prix excède 5.000 F.
 
 L'exonération du timbre n'est pas applicable aux actes, procès-verbaux et cahiers des charges susvisés qui contiennent des dispositions indépendantes dans le sens de l'article 671. Pourtant, ne peuvent pas être considérés comme dispositions indépendantes, pour l'application du présent article, la procuration donnée dans l'un de ces actes pour toucher le prix ou la soulte, ou vendre les immeubles compris sur un cahier des charges ou procès-verbal de mise en vente, ainsi que toute déclaration de command contenue en l'acte même, ou encore tout paiement par subrogation effectué par un tiers en l'acquit de l'acquéreur ;
 
-2° Les actes visés aux articles 696, 706, 707, 712 et 715.
-
-2. Actes judiciaires, extrajudiciaires et registres divers.
+2° Les actes visés aux articles 696, 706, 707, 712 et 715. 2. Actes judiciaires, extrajudiciaires et registres divers.
 
 1° Les actes des huissiers de justice à l'exception de ceux visés à l'article 635-1-3° à 7° et 2-2° à 9° pour lesquels l'original remis à la partie ou à son représentant est seul exonéré ;
 
@@ -50,7 +46,7 @@ Ces pièces mentionnent expressément qu'elles sont destinées à être déposé
 
 6° Les titres-restaurants émis conformément aux dispositions du titre III de l'ordonnance n° 67-830 du 27 septembre 1967 et des textes pris pour son application (1) ;
 
-7° (Disposition devenue sans objet);
+7° (Disposition devenue sans objet : décret n° 83-359 du 2 mai 1983, art. 21) ;
 
 8° (Abrogé) ;
 
@@ -58,7 +54,7 @@ Ces pièces mentionnent expressément qu'elles sont destinées à être déposé
 
 10° Les chèques-vacances institués par l'ordonnance n° 82-283 du 26 mars 1982 portant création des chèques-vacances.
 
-11° Les offres préalables de prêts rédigés conformément aux dispositions de la loi n° 79-596 du 13 juillet 1979 relative à l'information et à la protection des emprunteurs dans le domaine immobilier.
+11° Les offres préalables de prêts rédigés conformément aux dispositions de la loi n° 79-596 du 13 juillet 1979, modifiée relative à l'information et à la protection des emprunteurs dans le domaine immobilier.
 
 12° Les conventions d'ouverture d'un compte pour le développement industriel (CODEVI) prévues à l'article 4 du décret n° 83-872 du 30 septembre 1983 ; cette disposition s'applique à compter du 3 octobre 1983 ;
 
