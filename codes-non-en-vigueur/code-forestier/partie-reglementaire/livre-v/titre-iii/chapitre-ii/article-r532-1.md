@@ -1,6 +1,6 @@
 # Article R532-1
 
-Le fonds forestier national peut intervenir :
+Le Fonds forestier national peut intervenir :
 
 1° Soit en finançant des opérations tendant à la reconstitution, à l'amélioration ou à l'extension forestière, à l'équipement, à la protection et à la conservation de la forêt, à l'amélioration de la gestion forestière et de la qualité des produits forestiers ainsi qu'à l'amélioration de la productivité des travaux de reboisement et de sylviculture, des entreprises d'exploitation forestière, par l'attribution de :
 
@@ -32,10 +32,16 @@ g) Appui aux initiatives économiques et financières d'organismes coopératifs,
 
 3° Soit en contribuant au financement :
 
-- du centre technique du bois et de l'ameublement ;
+- du Centre technique du bois et de l'ameublement ;
 
-- de l'association nationale pour le développement agricole ;
+- de l'Association nationale pour le développement agricole ;
 
-- des centres régionaux de la propriété forestière,
+- des centres régionaux de la propriété forestière ;
+
+- de l'Institut pour le développement forestier ;
+
+- de la Fédération nationale des communes forestières de France ;
+
+- du Comité national pour le développement du bois,
 
 sur le fondement de conventions pluriannuelles passées entre l'Etat et les organismes bénéficiaires.
