@@ -1,3 +1,0 @@
-# FONDS NATIONAL DE GARANTIE DES CALAMITES AGRICOLES.
-
-- [Article 310 quater](article-310-quater.md)

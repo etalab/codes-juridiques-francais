@@ -1,3 +1,0 @@
-# OBLIGATIONS DES CONTRIBUABLES
-
-- [BONS DE REMIS.](bons-de-remis)

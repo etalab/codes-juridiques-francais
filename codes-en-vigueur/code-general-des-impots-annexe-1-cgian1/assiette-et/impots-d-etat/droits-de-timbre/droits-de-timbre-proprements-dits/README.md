@@ -1,3 +1,0 @@
-# DROITS DE TIMBRE PROPREMENTS DITS.
-
-- [Article 237](article-237.md)

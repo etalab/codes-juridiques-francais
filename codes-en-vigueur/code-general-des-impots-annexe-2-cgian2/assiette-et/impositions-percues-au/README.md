@@ -17,8 +17,4 @@
 - [Article 363 F](article-363-f.md)
 - [Article 363 FA](article-363-fa.md)
 - [Article 363 Y](article-363-y.md)
-- [Article 364](article-364.md)
-- [Article 365](article-365.md)
-- [Article 366](article-366.md)
-- [Article 367](article-367.md)
 - [TAXES PARAFISCALES.](taxes-parafiscales)
