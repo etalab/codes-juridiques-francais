@@ -1,6 +1,7 @@
 # SECTION 1 : Service télégraphique
 
 - [Paragraphe 1 : Ouverture des bureaux télégraphiques.](paragraphe-1)
+- [Paragraphe 2 : Dépôt des télégrammes.](paragraphe-2)
 - [Paragraphe 3 : Rédaction des télégrammes](paragraphe-3)
 - [Paragraphe 4 : Compte des mots.](paragraphe-4)
 - [Paragraphe 5 : Remise des télégrammes.](paragraphe-5)

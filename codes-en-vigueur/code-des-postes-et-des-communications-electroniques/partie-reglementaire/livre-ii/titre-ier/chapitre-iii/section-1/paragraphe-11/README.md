@@ -4,3 +4,4 @@
 - [2. : Rédaction.](2)
 - [3. : Dépôt.](3)
 - [4. : Application des tarifs.](4)
+- [6. : Remise.](6)
