@@ -3,7 +3,7 @@
 - [Convention type A.P.L. : résidences sociales.](convention-type-a-p-l)
 - [Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat.](convention-conclue-en-application-de-l-article-l)
 - [Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements.](convention-conclue-en-application-des-articles-l)
-- [Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré relative à une cité de promotion familiale.](convention-type-conclue-en-application-de-l-article-l)
+- [Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et la société mixte de construction.](convention-type-conclue-en-application-de-l-article-l)
 - [Engagements de portée générale applicables à tout programme conventionné.](engagements-de-portee-generale-applicables-a)
 - [Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution.](statuts-types-des-societes-anonymes-cooperatives-d-habitations-a)
 - [Convention type pour les établissements de crédit consentant des prêts conventionnés.](convention-type-pour-les-etablissements-de-credit-consentant-des-prets-conventionnes)
