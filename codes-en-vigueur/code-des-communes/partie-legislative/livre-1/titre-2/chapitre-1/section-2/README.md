@@ -1,6 +1,7 @@
 # SECTION 2 : Fonctionnement.
 
 - [Article L121-9](article-l121-9.md)
+- [Article L121-10](article-l121-10.md)
 - [Article L121-11](article-l121-11.md)
 - [Article L121-12](article-l121-12.md)
 - [Article L121-13](article-l121-13.md)

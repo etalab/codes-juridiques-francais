@@ -5,5 +5,6 @@
 - [Article L142-7](article-l142-7.md)
 - [Article L142-8](article-l142-8.md)
 - [Article L142-9](article-l142-9.md)
+- [Article L142-10](article-l142-10.md)
 - [Article L142-11](article-l142-11.md)
 - [Article L142-12](article-l142-12.md)
