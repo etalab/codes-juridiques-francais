@@ -25,6 +25,7 @@
 - [Code du travail maritime](code-du-travail-maritime)
 - [Code électoral](code-electoral)
 - [Code minier](code-minier)
+- [Code rural](code-rural)
 - [Code rural ancien](code-rural-ancien)
 - [Code de la construction et de l'habitation.](code-de-la-construction-et-de-l-habitation)
 - [Code de la famille et de l'aide sociale.](code-de-la-famille-et-de-l-aide-sociale)
