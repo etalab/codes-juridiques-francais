@@ -4,4 +4,5 @@
 - [Titre II : Sécurité et protection contre l'incendie.](titre-ii)
 - [Titre III : Chauffage et ravalement des immeubles](titre-iii)
 - [Titre IV : Dispositions relatives à l'industrie du bâtiment.](titre-iv)
+- [Titre V : Contrôle et dispositions pénales.](titre-v)
 - [Titre VI : Dispositions particulières aux départements d'outre-mer.](titre-vi)
