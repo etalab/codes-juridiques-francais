@@ -1,6 +1,6 @@
 # Article L311-4
 
-Il est établi, dans chaque zone d'aménagement concerté, un plan d'aménagement de zone compatible avec les orientations du schéma directeur, s'il en existe un. Ce plan prend en considération les dispositions du programme local de l'habitat lorsqu'il existe. Il comporte tout ou partie des éléments énumérés aux articles L. 123-1 et L. 130-1. et précise les mesures destinées à préserver la qualité des paysages. Il est élaboré par la personne publique qui a pris l'initiative de la création de la zone.
+Il est établi, dans chaque zone d'aménagement concerté, un plan d'aménagement de zone compatible avec les orientations du schéma directeur, s'il en existe un. Ce plan prend en considération les dispositions du programme local de l'habitat lorsqu'il existe et les orientations du plan de déplacements urbains lorsqu'il existe. Il comporte tout ou partie des éléments énumérés aux articles L. 123-1 et L. 130-1. et précise les mesures destinées à préserver la qualité des paysages. Il est élaboré par la personne publique qui a pris l'initiative de la création de la zone.
 
 Sont associés à cette élaboration l'Etat et la commune et, à leur demande, et dans les formes que la personne publique qui a prix l'initiative de la création de la zone détermine, la région et le département ; l'autorité compétente pour créer la zone d'aménagement concerté peut demander que soit recueilli l'avis de tout organisme ou association ayant compétence en matière de construction, d'aménagement ou d'urbanisme.
 
