@@ -14,7 +14,7 @@ Sans préjudice des dispositions relatives au contrôle métrologique, l'étique
 
 6° Le nom ou la raison sociale et l'adresse du fabricant ou du conditionneur ou d'un vendeur établi à l'intérieur du territoire de la Communauté européenne ;
 
-7° L'indication du lot de fabrication ;
+7° L'indication du lot ;
 
 8° Le lieu d'origine ou de provenance chaque fois que l'omission de cette mention est de nature à créer une confusion dans l'esprit de l'acheteur sur l'origine ou la provenance réelle de la denrée alimentaire ;
 
