@@ -3,4 +3,3 @@
 - [Article L745-11-1](article-l745-11-1.md)
 - [Article L745-11-2](article-l745-11-2.md)
 - [Article L745-11-3](article-l745-11-3.md)
-- [Article L745-12](article-l745-12.md)
