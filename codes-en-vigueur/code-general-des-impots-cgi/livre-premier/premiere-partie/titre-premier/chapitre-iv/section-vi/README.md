@@ -3,3 +3,4 @@
 - [1° : Plus-values mobilières réalisées par les entreprises](1)
 - [2° : Plus-values mobilières réalisées par les particuliers](2)
 - [3° : Subrogation des obligations](3)
+- [4° : Redevances versées par les sociétés nationalisées](4)
