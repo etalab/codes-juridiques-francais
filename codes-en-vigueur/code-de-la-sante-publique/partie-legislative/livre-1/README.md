@@ -6,3 +6,4 @@
 - [Titre 3 : Mesures d'hygiène particulières](titre-3)
 - [Titre 4 : Lutte contre les intoxications](titre-4)
 - [Titre 5 : Dossier de suivi médical](titre-5)
+- [Titre 6 : Médecine prédictive et identification génétique](titre-6)

@@ -5,4 +5,5 @@
 - [Section 3 : De la dénonciation calomnieuse.](section-3)
 - [Section 4 : De l'atteinte au secret.](section-4)
 - [Section 5 : Des atteintes aux droits de la personne résultant des fichiers ou des traitements informatiques.](section-5)
-- [Section 6 : Peines complémentaires applicables aux personnes physiques.](section-6)
+- [Section 6 : Des atteintes à la personne résultant de l'étude génétique de ses caractéristiques ou de l'identification par ses empreintes génétiques.](section-6)
+- [Section 7 : Peines complémentaires applicables aux personnes physiques.](section-7)
