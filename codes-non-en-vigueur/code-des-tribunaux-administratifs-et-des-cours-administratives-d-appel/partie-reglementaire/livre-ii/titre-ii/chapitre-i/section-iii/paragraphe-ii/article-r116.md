@@ -12,6 +12,8 @@ Toutefois, sont dispensés de ministère d'avocat devant la cour administrative 
 
 4° De pensions, d'aide sociale, d'emplois réservés, d'indemnisation des rapatriés.
 
+Sont également dispensées du ministère d'avocat les requêtes dirigées contre les décisions des tribunaux administratifs statuant sur les recours pour excès de pouvoir contre les actes des diverses autorités administratives.
+
 En cas de dispense, les parties peuvent agir et se présenter elles-mêmes. Elles peuvent aussi se faire représenter par un des mandataires mentionnés à l'article R. 108.
 
-Les parties peuvent, le cas échéant, réclamer le bénéfice de l'aide judiciaire.
+Les parties peuvent, le cas échéant, réclamer le bénéfice de l'aide juridictionnelle.
