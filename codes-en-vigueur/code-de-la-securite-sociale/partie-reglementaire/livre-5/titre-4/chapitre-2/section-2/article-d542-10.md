@@ -8,6 +8,8 @@
 
 - de l'abattement mentionné à l'article 157 bis du code général des impôts en faveur des personnes âgées ou invalides.
 
+Est toutefois exclue du décompte des ressources l'allocation mentionnée à l'article 4 de la loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion et servie soit à l'allocataire ou à son conjoint ou concubin, soit aux personnes définies à l'article D. 542-9.
+
 Il est fait abstraction des déductions opérées en vertu de l'article 156-1 du code général des impôts au titre des reports des déficits constatés au cours d'une année antérieure à celle qui est prise en considération.
 
 Lorsque les ressources de l'année de référence de l'allocataire ou de son conjoint ne proviennent pas d'une activité salariée [*non-salariée*] et que ces ressources ne sont pas connues au moment de la demande ou du réexamen des droits, il est tenu compte des dernières ressources connues et déterminées dans les conditions prévues aux alinéas précédents. Ces ressources sont revalorisées par application du taux d'évolution en moyenne annuelle de l'indice général des prix à la consommation des ménages [*indexation*] pour l'année civile de référence figurant dans le rapport économique et financier annexé au projet de loi de finances.
