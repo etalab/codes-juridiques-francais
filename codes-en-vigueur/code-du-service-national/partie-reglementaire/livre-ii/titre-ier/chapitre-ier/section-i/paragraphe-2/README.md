@@ -7,6 +7,8 @@
 - [Article R*8-1](article-r-8-1.md)
 - [Article R*8-2](article-r-8-2.md)
 - [Article R*9](article-r-9.md)
+- [Article R*9-1](article-r-9-1.md)
+- [Article R*9-2](article-r-9-2.md)
 - [Article R*9-3](article-r-9-3.md)
 - [Article R*9-4](article-r-9-4.md)
 - [Article R*10](article-r-10.md)
