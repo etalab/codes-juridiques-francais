@@ -9,3 +9,5 @@
 - [Article 316](article-316.md)
 - [Article 317](article-317.md)
 - [Article 318](article-318.md)
+- [Article 318-1](article-318-1.md)
+- [Article 318-2](article-318-2.md)

@@ -1,0 +1,18 @@
+# Section III : Scrutin et opérations électorales.
+
+- [Article R413-5](article-r413-5.md)
+- [Article R413-6](article-r413-6.md)
+- [Article R413-7](article-r413-7.md)
+- [Article R413-8](article-r413-8.md)
+- [Article R413-9](article-r413-9.md)
+- [Article R413-10](article-r413-10.md)
+- [Article R413-11](article-r413-11.md)
+- [Article R413-12](article-r413-12.md)
+- [Article R413-13](article-r413-13.md)
+- [Article R413-14](article-r413-14.md)
+- [Article R413-15](article-r413-15.md)
+- [Article R413-16](article-r413-16.md)
+- [Article R413-17](article-r413-17.md)
+- [Article R413-18](article-r413-18.md)
+- [Article R413-19](article-r413-19.md)
+- [Article R413-20](article-r413-20.md)
