@@ -12,7 +12,9 @@ c) Des accidents des titulaires de retraites ou d'allocations de vieillesse agri
 
 d) Des rechutes consécutives aux accidents du travail survenus antérieurement à la date d'application de la loi n° 66-950 du 22 décembre 1966, aux assujettis visés à l'article 1106-1 (I, 1° à 5° inclus), lorsque ces accidents ont été pris en charge au titre de l'adhésion du chef d'exploitation aux dispositions du titre III du présent livre ;
 
-e) Des suites des accidents survenus dans un régime obligatoire d'assurance maladie dont relevaient, soit en qualité d'assurés, soit en qualité d'ayants droit, les personnes visées à l'article 1106-1 I avant leur assujettissement au présent régime.
+e) Des suites des accidents survenus dans un régime obligatoire d'assurance maladie dont relevaient, soit en qualité d'assurés, soit en qualité d'ayants droit, les personnes visées à l'article 1106-1 I avant leur assujettissement au présent régime ;
+
+f) Des accidents survenus aux personnes visées au 1°, 2° et 5° du paragraphe I de l'article 1106-1 dans l'exercice d'une activité secondaire non salariée non-agricole.
 
 3° De l'invalidité.
 
