@@ -4,11 +4,11 @@ Peuvent exercer, sur leur demande, leur droit de vote par procuration dans les c
 
 I. - les électeurs appartenant à l'une des catégories ci-après et que des obligations dûment constatées retiennent éloignés de la commune sur la liste électorale de laquelle ils sont inscrits :
 
-1° les marins du commerce (inscrits maritimes, agents du service général et pêcheurs);
+1° les marins du commerce (inscrits maritimes, agents du service général et pêcheurs) ;
 
-2° les militaires;
+2° les militaires ;
 
-3° les fonctionnaires, cheminots et agents des services publics appelés en déplacement par les nécessités de leur service;
+3° les fonctionnaires, cheminots et agents des services publics appelés en déplacement par les nécessités de leur service ;
 
 4° le personnel navigant de l'aéronautique civile ;
 
@@ -20,7 +20,7 @@ I. - les électeurs appartenant à l'une des catégories ci-après et que des ob
 
 8° les journalistes titulaires de la carte professionnelle en déplacement par nécessité de service ;
 
-9° les voyageurs et représentants qui exercent leur activité dans les conditions prévues par les articles L. 751-1 et suivants du code du travail ;
+9° les voyageurs et représentants qui exercent leur activité dans les conditions prévues par les articles L. 751-1 et suivants du Code du travail ;
 
 10° les agents commerciaux ;
 
@@ -60,7 +60,7 @@ II. - les électeurs appartenant à l'une des catégories ci-après, qu'ils se t
 
 4° les titulaires d'une pension de vieillesse, allouée au titre d'une législation de sécurité sociale, bénéficiant de la majoration pour assistance d'une tierce personne ;
 
-5° les victimes d'accidents de travail bénéficiant d'une rente correspondant à un taux égal ou supérieur à 85 %;
+5° les victimes d'accidents de travail bénéficiant d'une rente correspondant à un taux égal ou supérieur à 85 % ;
 
 6° les personnes âgées et infirmes bénéficiant d'une prise en charge pour aide d'une tierce personne ;
 
@@ -68,6 +68,4 @@ II. - les électeurs appartenant à l'une des catégories ci-après, qu'ils se t
 
 8° les malades, femmes en couches, infirmes ou incurables qui, en raison de leur état de santé ou de leur condition physique, seront dans l'impossibilité de se déplacer le jour du scrutin ;
 
-9° les personnes placées en détention provisoire et les détenus purgeant une peine n'entraînant pas une incapacité électorale ;
-
-III. - les électeurs qui ont leur résidence et exercent leur activité professionnelle hors du département où se trouve leur commune d'inscription ainsi que leur conjoint.
+9° les personnes placées en détention provisoire et les détenus purgeant une peine n'entraînant pas une incapacité électorale.
