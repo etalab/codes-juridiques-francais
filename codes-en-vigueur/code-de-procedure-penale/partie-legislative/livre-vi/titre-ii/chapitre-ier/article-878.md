@@ -1,6 +1,6 @@
 # Article 878
 
-Pour l'application du présent code dans la collectivité territoriale de Mayotte :
+Pour l'application du présent code à Mayotte :
 
 Les termes : "cour d'appel" ou : "chambre des appels correctionnels" ou : "chambre de l'instruction" sont remplacés par les termes : "tribunal supérieur d'appel" ;
 
@@ -10,7 +10,7 @@ Les termes : "cour d'assises" ou : "la cour et le jury" sont remplacés par les 
 
 Le terme : "département" est remplacé par les termes : "collectivité territoriale" ;
 
-Le terme : "préfet" est remplacé par les termes : "représentant du Gouvernement" et les termes : "arrêté préfectoral" par les termes :  "arrêté du représentant du Gouvernement".
+Le terme : "préfet" est remplacé par les termes : "représentant du Gouvernement" et les termes : "arrêté préfectoral" par les termes : "arrêté du représentant du Gouvernement".
 
 De même, les références à des dispositions non applicables dans la collectivité territoriale sont remplacées par les références aux dispositions applicables localement ayant le même objet.
 

@@ -1,6 +1,6 @@
-# Titre II : Dispositions applicables dans la collectivité territoriale de Mayotte
+# Titre II : Dispositions applicables à Mayotte
 
-- [Chapitre Ier : Dispositions générales.](chapitre-ier)
+- [Chapitre Ier : Dispositions générales](chapitre-ier)
 - [Chapitre II : Des enquêtes.](chapitre-ii)
 - [Chapitre III : Des juridictions d'instruction.](chapitre-iii)
 - [Chapitre IV : De la cour criminelle.](chapitre-iv)
