@@ -1,5 +1,6 @@
 # Sous-section I : Compétence d'attribution
 
+- [Article R*321-3](article-r-321-3.md)
 - [Article R*321-4](article-r-321-4.md)
 - [Article R*321-5](article-r-321-5.md)
 - [Article R*321-7](article-r-321-7.md)
