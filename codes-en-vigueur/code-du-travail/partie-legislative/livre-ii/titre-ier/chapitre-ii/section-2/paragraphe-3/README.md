@@ -1,0 +1,3 @@
+# PARAGRAPHE 3 : ENCOURAGEMENT A LA PRATIQUE DU SPORT.
+
+- [Article L212-4-8](article-l212-4-8.md)
