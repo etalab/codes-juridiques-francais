@@ -6,3 +6,4 @@
 - [Article R124-6](article-r124-6.md)
 - [Article R124-7](article-r124-7.md)
 - [Article R124-8](article-r124-8.md)
+- [Article R124-9](article-r124-9.md)
