@@ -2,6 +2,7 @@
 
 - [Article D69-1](article-d69-1.md)
 - [Article D70](article-d70.md)
+- [Article D70-1](article-d70-1.md)
 - [Article D70-2](article-d70-2.md)
 - [Article D72](article-d72.md)
 - [Article D73](article-d73.md)
