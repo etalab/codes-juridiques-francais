@@ -1,3 +1,3 @@
-# Titre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale
+# Titre IV : MAIN-D'OEUVRE ETRANGERE
 
-- [Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère](chapitre-ier)
+- [Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE](chapitre-ier)

@@ -1,3 +1,3 @@
-# Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère
+# Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
 
-- [Section 1 : Travailleurs étrangers.](section-1)
+- [SECTION 1 : TRAVAILLEURS ETRANGERS.](section-1)
