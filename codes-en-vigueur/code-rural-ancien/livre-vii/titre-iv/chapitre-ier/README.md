@@ -7,7 +7,6 @@
 - [Article 1239](article-1239.md)
 - [Article 1240](article-1240.md)
 - [Article 1240-1](article-1240-1.md)
-- [Article 1240-2](article-1240-2.md)
 - [Article 1241](article-1241.md)
 - [Article 1242](article-1242.md)
 - [Article 1243](article-1243.md)
