@@ -16,7 +16,4 @@
 - [8°  : Etablissements publics de coopération intercommunale](8)
 - [9° : Départements d'outre-mer](9)
 - [Collectivités locales et établissements publics locaux](collectivites-locales-et)
-- [Conservatoire de l'espace littoral et des rivages lacustres.](conservatoire-de-l-espace-littoral-et)
-- [Parcs nationaux.](parcs-nationaux)
 - [Réquisitions](requisitions)
-- [Transports de voyageurs dans la région parisienne.](transports-de-voyageurs-dans-la-region-parisienne)

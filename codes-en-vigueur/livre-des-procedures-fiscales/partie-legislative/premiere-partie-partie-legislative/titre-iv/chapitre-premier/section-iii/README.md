@@ -8,7 +8,6 @@
 - [6° : Liquidation des biens.](6)
 - [8° : Procédure accélérée](8)
 - [9° : Contrainte par corps.](9)
-- [Avis à tiers détenteur.](avis-a)
 - [Liquidation judiciaire.](liquidation-judiciaire)
 - [Contrainte par corps.](contrainte-par)
 - [Vente de fonds de commerce.](vente-de-fonds-de-commerce)
