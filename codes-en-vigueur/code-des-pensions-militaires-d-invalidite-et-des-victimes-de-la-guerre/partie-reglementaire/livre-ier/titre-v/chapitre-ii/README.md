@@ -1,6 +1,5 @@
 # Chapitre II : Voies de recours.
 
-- [Article A4](article-a4.md)
 - [Article A5](article-a5.md)
 - [Article A6](article-a6.md)
 - [Article A7](article-a7.md)
