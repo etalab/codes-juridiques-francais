@@ -1,3 +1,0 @@
-# JOURNALISTES PROFESSIONNELS .
-
-- [Article L761-2](article-l761-2.md)

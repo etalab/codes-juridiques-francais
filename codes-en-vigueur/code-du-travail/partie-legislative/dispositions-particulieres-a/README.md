@@ -2,7 +2,6 @@
 
 - [EMPLOYES DE MAISON .](employes-de-maison)
 - [ENERGIE - INDUSTRIES EXTRACTIVES](energie)
-- [JOURNALISTES PROFESSIONNELS .](journalistes-professionnels)
 - [DISPOSITIONS RELATIVES A CERTAINES CATEGORIES DE TRAVAILLEURS ET D'ENTREPRISES](dispositions-relatives-a)
 - [ARTISTES, AUTEURS, COMPOSITEURS, GENS DE LETTRES](artistes-auteurs-compositeurs-gens-de-lettres)
 - [BATIMENTS ET TRAVAUX PUBLICS](batiments-et)
