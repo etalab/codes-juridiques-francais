@@ -4,7 +4,6 @@
 - [Article 768-1](article-768-1.md)
 - [Article 769](article-769.md)
 - [Article 769-1](article-769-1.md)
-- [Article 769-2](article-769-2.md)
 - [Article 770](article-770.md)
 - [Article 771](article-771.md)
 - [Article 772](article-772.md)

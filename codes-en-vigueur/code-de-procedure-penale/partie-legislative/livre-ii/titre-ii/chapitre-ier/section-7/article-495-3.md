@@ -2,7 +2,7 @@
 
 Dès qu'elle est rendue, l'ordonnance pénale est transmise au ministère public qui, dans les dix jours, peut soit former opposition par déclaration au greffe du tribunal, soit en poursuivre l'exécution.
 
-Cette ordonnance est portée à la connaissance du prévenu par lettre recommandée avec demande d'avis de réception.
+Cette ordonnance est portée à la connaissance du prévenu par lettre recommandée avec demande d'avis de réception. Elle peut également être portée à la connaissance du prévenu par le procureur de la République, directement ou par l'intermédiaire d'une personne habilitée.
 
 Le prévenu est informé qu'il dispose d'un délai de quarante-cinq jours à compter de cette notification pour former opposition à l'ordonnance et que cette opposition permettra que l'affaire fasse l'objet d'un débat contradictoire et public devant le tribunal correctionnel, au cours duquel il pourra être assisté par un avocat, dont il pourra demander la commission d'office. Le prévenu est également informé que le tribunal correctionnel, s'il l'estime coupable des faits qui lui sont reprochés, aura la possibilité de prononcer contre lui une peine d'emprisonnement si celle-ci est encourue pour le délit ayant fait l'objet de l'ordonnance.
 

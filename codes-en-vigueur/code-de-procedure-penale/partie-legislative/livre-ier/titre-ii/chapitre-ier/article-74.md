@@ -7,3 +7,5 @@ Le procureur de la République se rend sur place s'il le juge nécessaire et se 
 Sauf si elles sont inscrites sur une des listes prévues à l'article 157, les personnes ainsi appelées prêtent, par écrit, serment d'apporter leur concours à la justice en leur honneur et en leur conscience.
 
 Le procureur de la République peut aussi requérir information pour recherche des causes de la mort.
+
+Les dispositions des trois premiers alinéas sont également applicables en cas de découverte d'une personne grièvement blessée lorsque la cause de ses blessures est inconnue ou suspecte.

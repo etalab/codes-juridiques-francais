@@ -5,3 +5,5 @@ Lorsque les opérations d'expertise sont terminées, les experts rédigent un ra
 Lorsque plusieurs experts ont été désignés et s'ils sont d'avis différents ou s'ils ont des réserves à formuler sur des conclusions communes, chacun d'eux indique son opinion ou ses réserves en les motivant.
 
 Le rapport et les scellés, ou leurs résidus, sont déposés entre les mains du greffier de la juridiction qui a ordonné l'expertise ; ce dépôt est constaté par procès-verbal.
+
+Avec l'accord du juge d'instruction, les experts peuvent, directement et par tout moyen, communiquer les conclusions de leur rapport aux officiers de police judiciaire chargés de l'exécution de la commission rogatoire.

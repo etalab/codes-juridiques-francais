@@ -4,7 +4,7 @@ Les décisions des juridictions répressives, à l'exception de celles qui ne st
 
 Ce droit est de :
 
-1° 22 euros pour les ordonnances pénales ;
+1° 22 euros pour les ordonnances pénales en matière contraventionnelle ou correctionnelle  ;
 
 2° 22 euros pour les autres décisions des tribunaux de police et celles des juridictions qui ne statuent pas sur le fond ;
 
