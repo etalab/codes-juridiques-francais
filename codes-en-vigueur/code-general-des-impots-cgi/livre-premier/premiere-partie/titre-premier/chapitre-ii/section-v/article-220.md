@@ -6,9 +6,9 @@ Toutefois, la déduction à opérer de ce chef ne peut excéder la fraction de c
 
 b) En ce qui concerne les revenus de source étrangère visés aux articles 120 à 123, l'imputation est limitée au montant du crédit correspondant à l'impôt retenu à la source à l'étranger ou à la décote en tenant lieu, tel qu'il est prévu par les conventions internationales.
 
-c) En ce qui concerne les dividendes et produits distribués par les sociétés d'investissement visées aux 1° bis et 1° bis A de l'article 208, les sociétés de développement régional visées au 1° ter de l'article précité et les sociétés de capital-risque visées au 3° septies du même article au titre de l'exercice précédent, la société ou personne morale actionnaire a droit à l'imputation d'une quote-part du montant total des crédits d'impôt et avoirs fiscaux attachés aux produits du portefeuille encaissés, au cours de cet exercice, par la société distributrice. Le droit à imputation de chaque société ou personne morale actionnaire est déterminé en proportion de sa part dans les dividendes distribués, au titre du même exercice. Il ne peut excéder celui normalement attaché aux revenus distribués par les sociétés françaises ordinaires. Le montant à imputer est compris dans les bases de l'impôt sur les sociétés.
+c) En ce qui concerne les dividendes et produits distribués par les sociétés d'investissement visées aux 1° bis et 1° bis A de l'article 208, les sociétés de développement régional visées au 1° ter de l'article précité et les sociétés de capital-risque visées au 3° septies du même article au titre de l'exercice précédent, la société ou personne morale actionnaire a droit à l'imputation d'une quote-part du montant total des crédits d'impôt attachés aux produits du portefeuille encaissés, au cours de cet exercice, par la société distributrice. Le droit à imputation de chaque société ou personne morale actionnaire est déterminé en proportion de sa part dans les dividendes distribués, au titre du même exercice. Il ne peut excéder celui normalement attaché aux revenus distribués par les sociétés françaises ordinaires. Le montant à imputer est compris dans les bases de l'impôt sur les sociétés.
 
-Lorsque les sociétés d'investissement admises au bénéfice du régime prévu aux 1° et 1° bis A de l'article 208 ne peuvent transférer à leurs actionnaires tout ou partie des crédits d'impôt et avoirs fiscaux attachés aux produits de leur portefeuille encaissés au cours d'un exercice, les crédits et avoirs non utilisés sont susceptibles d'être reportés sur les quatre exercices suivants. Cette disposition est applicable aux crédits d'impôt et avoirs fiscaux afférents aux revenus encaissés au cours d'exercices ouverts postérieurement au 31 décembre 1966.
+Lorsque les sociétés d'investissement admises au bénéfice du régime prévu aux 1° et 1° bis A de l'article 208 ne peuvent transférer à leurs actionnaires tout ou partie des crédits d'impôt attachés aux produits de leur portefeuille encaissés au cours d'un exercice, les crédits non utilisés sont susceptibles d'être reportés sur les quatre exercices suivants. Cette disposition est applicable aux crédits d'impôt afférents aux revenus encaissés au cours d'exercices ouverts postérieurement au 31 décembre 1966.
 
 2. (Disposition périmée).
 
@@ -18,6 +18,4 @@ Lorsque les sociétés d'investissement admises au bénéfice du régime prévu 
 
 4. bis (Sans objet).
 
-5. Les conditions d'application du 1 sont fixées par décret en conseil d'Etat (1).
-
-(1) Annexe II, art. 135 à 140.
+5. Les conditions d'application du 1 sont fixées par décret en Conseil d'Etat.
