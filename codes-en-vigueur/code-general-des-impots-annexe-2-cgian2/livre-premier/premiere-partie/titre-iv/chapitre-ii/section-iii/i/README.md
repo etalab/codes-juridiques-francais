@@ -1,5 +1,6 @@
 # I : Bourses de valeurs
 
+- [Article 305](article-305.md)
 - [Article 305 I](article-305-i.md)
 - [Article 305 D](article-305-d.md)
 - [Article 305 B](article-305-b.md)
