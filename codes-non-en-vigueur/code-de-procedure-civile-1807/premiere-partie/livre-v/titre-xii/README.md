@@ -1,5 +1,6 @@
 # Titre XII : De la saisie immobilière.
 
+- [Article 673](article-673.md)
 - [Article 674](article-674.md)
 - [Article 675](article-675.md)
 - [Article 676](article-676.md)
@@ -27,6 +28,7 @@
 - [Article 700](article-700.md)
 - [Article 701](article-701.md)
 - [Article 702](article-702.md)
+- [Article 703](article-703.md)
 - [Article 704](article-704.md)
 - [Article 705](article-705.md)
 - [Article 707](article-707.md)
