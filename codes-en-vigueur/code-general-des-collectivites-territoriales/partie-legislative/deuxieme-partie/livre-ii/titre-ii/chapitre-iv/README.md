@@ -5,3 +5,4 @@
 - [Section 3 : Ordures ménagères et autres déchets](section-3)
 - [Section 4 : Halles, marchés et poids publics](section-4)
 - [Section 5 : Abattoirs.](section-5)
+- [Section 6 : Distribution et production d'électricité.](section-6)
