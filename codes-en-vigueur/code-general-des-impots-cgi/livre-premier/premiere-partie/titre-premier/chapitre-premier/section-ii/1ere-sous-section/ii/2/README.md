@@ -1,6 +1,7 @@
 # 2 : Détermination des bénéfices imposables.
 
 - [Article 38](article-38.md)
+- [Article 38 bis A](article-38-bis-a.md)
 - [Article 38 ter](article-38-ter.md)
 - [Article 39](article-39.md)
 - [Article 39 C](article-39-c.md)
