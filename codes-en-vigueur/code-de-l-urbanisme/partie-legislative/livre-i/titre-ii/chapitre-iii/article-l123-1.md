@@ -12,7 +12,7 @@ Ils peuvent, en outre :
 
 3° déterminer des règles concernant l'aspect extérieur des constructions, leurs dimensions et l'aménagement de leurs abords ;
 
-4° fixer pour chaque zone ou partie de zone, en fonction notamment de la capacité des équipements collectifs existants ou en cours de réalisation et de la nature des constructions à édifier, un ou des coefficients d'occupation des sols qui déterminent, éventuellement pour chaque nature de construction, la densité de construction qui y est admise ;
+4° fixer pour chaque zone ou partie de zone, en fonction notamment de la capacité des équipements collectifs existants ou en cours de réalisation et de la nature des constructions à édifier, un ou des coefficients d'occupation des sols qui déterminent, éventuellement pour chaque nature de construction, la densité de construction qui est admise ;
 
 5° délimiter les zones ou parties de zones dans lesquelles la reconstruction sur place ou l'aménagement de bâtiments existants pourra, pour des motifs d'urbanisme ou d'architecture, être imposé ou autorisé avec une densité au plus égale à celle qui était initialement bâtie, nonobstant les règles fixées au 4° ci-dessus ;
 
@@ -24,7 +24,9 @@ Ils peuvent, en outre :
 
 9° localiser, dans les zones urbaines, les terrains cultivés à protéger et inconstructibles quels que soient les équipements éventuels qui les desservent.
 
-Les règles mentionnées au 2° ci-dessus peuvent prévoir des normes de construction différentes de celles qui résultent de l'application du coefficient d'occupation du sol, soit en raison des prescriptions d'urbanisme ou d'architecture, soit en raison de l'existence de projets tendant à renforcer la capacité des équipements collectifs.
+10° Délimiter les secteurs dans lesquels la délivrance du permis de construire peut être subordonnée à la démolition de tout ou partie des bâtiments existants sur le terrain où l'implantation de la construction est envisagée.
+
+Les règles mentionnées aux 2° et 3° ci-dessus peuvent prévoir des normes de construction différentes de celles qui résultent de l'application du coefficient d'occupation du sol, soit en raison des prescriptions d'urbanisme ou d'architecture, soit en raison de l'existence de projets tendant à renforcer la capacité des équipements collectifs.
 
 Les règles et servitudes définies par un plan d'occupation des sols ne peuvent faire l'objet d'aucune dérogation, à l'exception des adaptations mineures rendues nécessaires par la nature du sol, la configuration des parcelles ou le caractère des constructions avoisinantes.
 

@@ -1,6 +1,8 @@
 # TITRE II : Etablissement et entretien des lignes et des installations de télécommunications.
 
 - [Article L46](article-l46.md)
+- [Article L47](article-l47.md)
+- [Article L47-1](article-l47-1.md)
 - [Article L48](article-l48.md)
 - [Article L49](article-l49.md)
 - [Article L50](article-l50.md)
