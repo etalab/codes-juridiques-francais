@@ -6,3 +6,4 @@
 - [Sous-section 4 : Service de santé et de secours médical du service départemental d'incendie et de secours (R)](sous-section-4)
 - [Sous-section 5 : Organisation comptable et financière du service départemental d'incendie et de secours (R)](sous-section-5)
 - [Article R1424-1](article-r1424-1.md)
+- [Article R1424-1-1](article-r1424-1-1.md)
