@@ -10,4 +10,4 @@ Toutefois, le préfet peut, par arrêté, autoriser la pêche :
 
 4° Des aloses et des lamproies à toute heure dans les zones mentionnées à l'article L. 436-10 ;
 
-5° De la carpe à toute heure dans les parties de cours d'eau ou les plans d'eau de 2e catégorie et pendant une période qu'il détermine.
+5° De la carpe à toute heure dans les parties de cours d'eau et de plans d'eau de 2e catégorie et pendant une période qu'il détermine. Toutefois, depuis une demi-heure après le coucher du soleil jusqu'à une demi-heure avant son lever, aucune carpe capturée par les pêcheurs amateurs aux lignes ne peut être maintenue en captivité ou transportée.
