@@ -1,5 +1,6 @@
 # Chapitre III : La vérification et le recouvrement des dépens.
 
+- [Article 704](article-704.md)
 - [Article 705](article-705.md)
 - [Article 707](article-707.md)
 - [Article 709](article-709.md)
