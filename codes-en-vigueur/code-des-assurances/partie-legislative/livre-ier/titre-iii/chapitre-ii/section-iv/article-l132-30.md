@@ -1,6 +1,6 @@
 # Article L132-30
 
-Les entreprises ayant pour objet l'acquisition d'immeubles au moyen de constitution de rentes viagères sont astreintes dans leur fonctionnement aux prescriptions ci-après.
+Les contrats comportant des opérations d'acquisition d'immeubles au moyen de la constitution de rentes viagères sont soumis aux dispositions du présent article.
 
 Les crédirentiers conservent individuellement pour le service de leurs rentes, même à l'encontre de toute convention contraire, le privilège de l'article 2103, 1°, du code civil sur l'immeuble cédé. S'il existe des héritiers en ligne directe des crédirentiers, ces derniers ne peuvent traiter avec l'assureur qu'après y avoir été autorisés par jugement rendu en chambre du conseil sur simple requête.
 

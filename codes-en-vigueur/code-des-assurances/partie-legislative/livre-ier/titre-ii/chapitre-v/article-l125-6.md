@@ -14,6 +14,4 @@ Le bureau central de tarification fixe des abattements spéciaux dont les montan
 
 Lorsqu'un assuré s'est vu refuser par trois entreprises d'assurance l'application des dispositions du présent chapitre, il peut saisir le bureau central de tarification, qui impose à l'une des entreprises d'assurance concernées, que choisit l'assuré, de le garantir contre les effets des catastrophes naturelles.
 
-Toute entreprise d'assurance ayant maintenu son refus de garantir un assuré dans les conditions fixées par le bureau central de tarification est considérée comme ne fonctionnant plus conformément à la réglementation en vigueur et encourt le retrait de l'agrément administratif prévu à l'article L. 321-1.
-
-Est nulle toute clause des traités de réassurance tendant à exclure le risque de catastrophe naturelle de la garantie de réassurance en raison des conditions d'assurance fixées par le bureau central de tarification.
+Toute entreprise d'assurance ayant maintenu son refus de garantir un assuré dans les conditions fixées par le bureau central de tarification est considérée comme ne fonctionnant plus conformément à la réglementation en vigueur et encourt le retrait de l'agrément administratif prévu aux articles L. 321-1 ou L. 321-7 à L. 321-9.    Est nulle toute clause des traités de réassurance tendant à exclure le risque de catastrophe naturelle de la garantie de réassurance en raison des conditions d'assurance fixées par le bureau central de tarification.

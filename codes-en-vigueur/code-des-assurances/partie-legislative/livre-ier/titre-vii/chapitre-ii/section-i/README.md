@@ -10,4 +10,3 @@
 - [Article L172-8](article-l172-8.md)
 - [Article L172-9](article-l172-9.md)
 - [Article L172-10](article-l172-10.md)
-- [Article L172-10-1](article-l172-10-1.md)
