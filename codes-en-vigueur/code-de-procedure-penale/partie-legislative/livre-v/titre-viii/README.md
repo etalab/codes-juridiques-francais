@@ -9,6 +9,7 @@
 - [Article 774](article-774.md)
 - [Article 775](article-775.md)
 - [Article 775-1](article-775-1.md)
+- [Article 775-2](article-775-2.md)
 - [Article 776](article-776.md)
 - [Article 777](article-777.md)
 - [Article 777-1](article-777-1.md)
