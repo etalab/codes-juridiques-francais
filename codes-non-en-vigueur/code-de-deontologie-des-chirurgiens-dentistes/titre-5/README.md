@@ -1,6 +1,7 @@
 # Titre 5 : De l'exercice de la profession
 
 - [Article 62](article-62.md)
+- [Article 63](article-63.md)
 - [Article 66](article-66.md)
 - [Article 67](article-67.md)
 - [Article 71](article-71.md)
