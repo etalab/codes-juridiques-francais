@@ -5,3 +5,5 @@ L'Etat est représenté en défense par le préfet ou le préfet de région lors
 Devant les tribunaux administratifs de Papeete et de Nouvelle-Calédonie, les recours, les mémoires en défense et les mémoires en intervention présentés au nom de l'Etat sont signés soit par le ministre chargé des territoires d'outre-mer ou son délégué, soit par le haut-commissaire ou son délégué.
 
 Devant le tribunal administratif de Mamoudzou, les recours, les mémoires en défense et les mémoires en intervention présentés au nom de l'Etat sont signés soit par le ministre chargé de l'outre-mer ou son délégué, soit par le représentant du Gouvernement ou son délégué.
+
+Devant le tribunal administratif de Mata-Utu, les recours, les mémoires en défense et les mémoires en intervention présentés au nom de l'Etat sont signés soit par le ministre chargé de l'outre-mer ou son délégué, soit par l'administrateur supérieur ou son délégué.
