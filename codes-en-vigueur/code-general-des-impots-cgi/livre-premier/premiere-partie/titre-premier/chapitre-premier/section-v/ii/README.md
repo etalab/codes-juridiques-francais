@@ -13,5 +13,5 @@
 - [Article 197 B](article-197-b.md)
 - [Article 199](article-199.md)
 - [Imputation des retenues à la source et crédits d'impôt.](imputation-des-retenues-a)
-- [Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer.](reduction-d-impot-accordee-au-titre)
+- [Réduction d'impôt accordée au titre des dépenses afférentes à l'habitation principale.](reduction-d-impot-accordee-au-titre)
 - [Réduction d'impôt accordée aux contribuables titulaires d'un compte d'épargne en actions.](reduction-d-impot-accordee-aux)
