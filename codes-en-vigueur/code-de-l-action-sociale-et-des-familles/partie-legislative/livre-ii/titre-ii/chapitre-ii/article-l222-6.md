@@ -1,9 +1,11 @@
 # Article L222-6
 
+Toute femme qui demande, lors de son accouchement, la préservation du secret de son admission et de son identité par un établissement de santé est informée des conséquences juridiques de cette demande et de l'importance pour toute personne de connaître ses origines et son histoire. Elle est donc invitée à laisser, si elle l'accepte, des renseignements sur sa santé et celle du père, les origines de l'enfant et les circonstances de la naissance ainsi que, sous pli fermé, son identité. Elle est informée de la possibilité qu'elle a de lever à tout moment le secret de son identité et, qu'à défaut, son identité ne pourra être communiquée que dans les conditions prévues à l'article L. 147-6. Elle est également informée qu'elle peut à tout moment donner son identité sous pli fermé ou compléter les renseignements qu'elle a donnés au moment de la naissance. Les prénoms donnés à l'enfant et, le cas échéant, mention du fait qu'ils l'ont été par la mère, ainsi que le sexe de l'enfant et la date, le lieu et l'heure de sa naissance sont mentionnés à l'extérieur de ce pli. Ces formalités sont accomplies par les personnes visées à l'article L. 223-7 avisées sous la responsabilité du directeur de l'établissement de santé. A défaut, elles sont accomplies sous la responsabilité de ce directeur.
+
 Les frais d'hébergement et d'accouchement des femmes qui ont demandé, lors de leur admission dans un établissement public ou privé conventionné, à ce que le secret de leur identité soit préservé, sont pris en charge par le service de l'aide sociale à l'enfance du département siège de l'établissement.
 
 Sur leur demande ou avec leur accord, les femmes mentionnées au premier alinéa bénéficient d'un accompagnement psychologique et social de la part du service de l'aide sociale à l'enfance.
 
-Pour l'application du premier alinéa, aucune pièce d'identité n'est exigée et il n'est procédé à aucune enquête.
+Pour l'application des deux premiers alinéas, aucune pièce d'identité n'est exigée et il n'est procédé à aucune enquête.
 
-Lorsque le nom du père ou de la mère de l'enfant figure dans l'acte de naissance établi dans le délai prévu par les articles 55 et suivants du code civil, la prise en charge des frais d'hébergement et d'accouchement par le service n'est pas de droit.
+Les frais d'hébergement et d'accouchement dans un établissement public ou privé conventionné des femmes qui, sans demander le secret de leur identité, confient leur enfant en vue d'adoption sont également pris en charge par le service de l'aide sociale à l'enfance du département, siège de l'établissement.

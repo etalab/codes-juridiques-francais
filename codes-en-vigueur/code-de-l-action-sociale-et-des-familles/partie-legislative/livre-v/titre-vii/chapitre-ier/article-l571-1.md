@@ -1,0 +1,17 @@
+# Article L571-1
+
+I. Les articles L. 147-1 à L. 147-11 sont applicables en Nouvelle-Calédonie.
+
+II. - Pour l'application de l'article L. 147-1, la référence :
+
+"L. 222-6" est remplacée par la référence : "L. 571-2".
+
+III. - Pour l'application de l'article L. 147-3, les mots : "du président du conseil général" sont remplacés par les mots : "au président de l'assemblée de province territorialement compétente".
+
+IV. - Pour l'application de l'article L. 147-4, les mots : "au président du conseil général" sont remplacés par les mots : "au président de l'assemblée de province territorialement compétente".
+
+V. - Pour l'application du cinquième alinéa de l'article L. 147-5, les mots : "établissements de santé et les services départementaux" sont remplacés par les mots : "services communaux".
+
+VI. - Pour l'application en Nouvelle-Calédonie, le second alinéa de l'article L. 147-8 est ainsi rédigé :
+
+"Sous réserve des dispositions de l'article 6 de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le secret en matière de statistiques, les administrations ou services de l'Etat sont tenus de réunir et de communiquer au conseil national les renseignements dont ils disposent permettant de déterminer les adresses de la mère et du père de naissance."
