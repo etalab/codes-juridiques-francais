@@ -8,4 +8,6 @@ Lorsque la chaussée est bordée de chaque côté par une piste cyclable, les ut
 
 Les conducteurs de cycles peuvent circuler sur les aires piétonnes, sauf dispositions différentes prises par l'autorité investie du pouvoir de police, à la condition de conserver l'allure du pas et de ne pas occasionner de gêne aux piétons.
 
+Hors agglomération, les conducteurs de cycles peuvent circuler sur les accotements équipés d'un revêtement routier.
+
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende prévue pour les contraventions de la deuxième classe.
