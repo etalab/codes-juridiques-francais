@@ -7,3 +7,5 @@ S'ils estiment qu'il y a lieu d'interroger la personne mise en examen et sauf d�
 La personne mise en examen peut, cependant, renoncer au bénéfice de cette disposition par déclaration expresse devant le juge d'instruction ou le magistrat désigné par la juridiction et fournir aux experts, en présence de son avocat, les explications nécessaires à l'exécution de leur mission. La personne mise en examen peut également, par déclaration écrite remise par elle aux experts et annexée par ceux-ci à leur rapport, renoncer à l'assistance de son avocat pour une ou plusieurs auditions.
 
 Toutefois, les médecins et les psychologues experts chargés d'examiner la personne mise en examen peuvent lui poser les questions nécessaires à l'accomplissement de leur mission, hors la présence du juge et des avocats.
+
+Les dispositions du présent article sont également applicables à la personne bénéficiant des dispositions de l'article 104.
