@@ -6,3 +6,5 @@
 - [Titre IV : Dispositions diverses](titre-iv)
 - [Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.](titre-v)
 - [Titre VI : Français résidant à l'étranger](titre-vi)
+- [Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger.](titre-vii)
+- [Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger.](titre-viii)
