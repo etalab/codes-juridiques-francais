@@ -14,6 +14,6 @@ Seul l'un des deux psychiatres mentionnés aux 1° et 3° pourra exercer dans un
 
 Les membres de la commission ne peuvent être membres du conseil d'administration d'un établissement hospitalier accueillant des malades atteints de troubles mentaux dans le département du ressort de la commission [*incompatibilité*].
 
-Ils ne peuvent, en dehors du cadre des attributions de la commission, faire état des informations qu'ils ont pu recueillir sur les personnes dont la situation leur a été présentée. Sous réserve des dispositions des 4° et 6° de l'article L. 332-4, ils sont soumis au secret professionnel dans les conditions prévues par l'article 378 du code pénal.
+Ils ne peuvent, en dehors du cadre des attributions de la commission, faire état des informations qu'ils ont pu recueillir sur les personnes dont la situation leur a été présentée. Sous réserve des dispositions des 4° et 6° de l'article L. 332-4, ils sont soumis au secret professionnel dans les conditions prévues par les articles 226-13 et 226-14 du code pénal.
 
 La commission désigne, en son sein, son président, dans des conditions fixées par voie réglementaire.

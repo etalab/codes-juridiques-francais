@@ -4,10 +4,8 @@ Tout produit cosmétique ou tout produit d'hygiène corporelle doit avant sa mis
 
 Un exemplaire du dossier doit être tenu en permanence à la disposition des autorités compétentes [*information*]. La formule intégrale du produit doit être transmise aux centres de traitement des intoxications désignés par un arrêté interministériel.
 
-L'obligation d'indiquer dans le dossier et de transmettre aux centres de traitement des intoxications visés à l'alinéa précédent la formule intégrale du produit ne s'applique pas [*non*] aux parfums proprement dits et aux compositions parfumantes, pour lesquels doivent toutefois être indiqués et transmis la liste et le dosage des supports et des produits [*substances vénéneuses, colorants, conservateurs, bactéricides et fongicides*]
+L'obligation d'indiquer dans le dossier et de transmettre aux centres de traitement des intoxications visés à l'alinéa précédent la formule intégrale du produit ne s'applique pas [*non*] aux parfums proprement dits et aux compositions parfumantes, pour lesquels doivent toutefois être indiqués et transmis la liste et le dosage des supports et des produits [*substances vénéneuses, colorants, conservateurs, bactéricides et fongicides*] prévus aux articles L. 658-5 et L. 658-6 du présent code entrant éventuellement dans leur composition.
 
-prévus aux articles L. 658-5 et L. 658-6 du présent code entrant éventuellement dans leur composition.
-
-Les personnes ayant accès aux dossiers ou aux formules visées au présent article sont tenues au secret professionnel selon les modalités prévues à l'article 378 du code pénal, sauf à l'égard des autorités judiciaires.
+Les personnes ayant accès aux dossiers ou aux formules visées au présent article sont tenues au secret professionnel selon les modalités prévues aux articles 226-13 et 226-14 du code pénal, sauf à l'égard des autorités judiciaires.
 
 Un décret fixe les conditions permettant la protection, notamment dans les centres de traitement des intoxications, du secret de la formule intégrale du produit, ainsi que de celle des composants mentionnés au dossier de fabrication et délivrés par des fournisseurs exclusifs et responsables.
