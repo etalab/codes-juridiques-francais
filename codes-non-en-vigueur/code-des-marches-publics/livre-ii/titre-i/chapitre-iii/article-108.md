@@ -1,0 +1,3 @@
+# Article 108
+
+La passation d'un marché d'études, autre qu'un marché d'ingénierie et d'architecture, doit être précédée d'un recensement des personnes physiques ou morales qualifiées pour procéder aux études considérées. Sous réserve des dispositions de l'article 104, le marché est passé sur appel d'offres ou négocié après mise en compétition. Le titulaire est choisi en tenant compte de sa compétence, de ses références, des moyens dont il dispose, des solutions techniques et du prix offert. L'étude qui fait suite à plusieurs marchés de définition ayant le même objet peut être attribuée, sur la base de ses propositions, à l'auteur de la solution retenue, sans nouvelle mise en compétition.
