@@ -8,4 +8,7 @@
 - [Article L442-6](article-l442-6.md)
 - [Article L442-7](article-l442-7.md)
 - [Article L442-8](article-l442-8.md)
+- [Article L442-8-1](article-l442-8-1.md)
+- [Article L442-8-2](article-l442-8-2.md)
+- [Article L442-8-3](article-l442-8-3.md)
 - [Article L442-9](article-l442-9.md)
