@@ -1,6 +1,6 @@
 # Article R10-2
 
-Les véhicules transportant des matières dangereuses, dont le poids total (défini comme à l'article R. 10-1) est supérieur à 12 tonnes, sont astreints à ne pas dépasser les vitesses suivantes :
+Les véhicules transportant des matières dangereuses, dont le poids total (défini comme à l'article R. 10-1) est supérieur à 12 tonnes ainsi que les véhicules circulant sous couvert d'une autorisation de transport exceptionnel, sont astreints à ne pas dépasser les vitesses suivantes :
 
 1° Sur les autoroutes : 80 km/h ;
 
