@@ -1,7 +1,5 @@
 # Section 3 : Des infractions relatives aux obligations
 
-- [Article L245-7](article-l245-7.md)
-- [Article L245-8](article-l245-8.md)
 - [Article L245-9](article-l245-9.md)
 - [Article L245-10](article-l245-10.md)
 - [Article L245-11](article-l245-11.md)
