@@ -23,3 +23,5 @@ Dans les branches d'activité à caractère saisonnier, ces délais de protectio
 L'interruption du fait de l'entrepreneur de travail temporaire ou la notification qu'il a faite du non-renouvellement de la mission d'un travailleur temporaire, délégué syndical, est soumise à la procédure prévue ci-dessus.
 
 La règle prévue à l'alinéa ci-dessus est applicable dans le cas de la décision prévue à la dernière phrase de l'article L. 423-10.
+
+En cas de redressement judiciaire, tout licenciement d'un salarié mentionné aux précédents alinéas est soumis à la procédure définie au présent article.

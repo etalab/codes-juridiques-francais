@@ -8,6 +8,8 @@ Le comité d'entreprise est obligatoirement saisi en temps utile des projets de 
 
 Le comité est informé et consulté sur les modifications de l'organisation économique ou juridique de l'entreprise, notamment en cas de fusion, de cession, de modification importante des structures de production de l'entreprise ainsi que lors de l'acquisition ou de la cession de filiales au sens de l'article 354 de la loi n° 66-537 du 24 juillet 1966 modifiée. Le chef d'entreprise doit indiquer les motifs des modifications projetées et consulter le comité sur les mesures qui sont envisagées à l'égard des salariés lorsque ces modifications comportent des conséquences pour ceux-ci. Il est également tenu de consulter le comité d'entreprise lorsqu'il prend une participation dans une société et de l'informer lorsqu'il a connaissance d'une prise de participation dont son entreprise est l'objet.
 
+Il est également informé et consulté avant toute déclaration de cessation des paiements et lorsque l'entreprise fait l'objet d'une procédure de redressement judiciaire, avant toute décision relative à la poursuite de l'activité ainsi que lors de l'élaboration du projet de plan de redressement de l'entreprise dans les conditions prévues aux articles 20, 25 et 89 de la loi n° 85-98 du 25 janvier 1985 précitée. La ou les personnes qu'il a désignées selon les dispositions de l'article 226 de ladite loi sont entendues par le tribunal compétent dans les conditions fixées aux articles 6, 23, 36, 61 et 68 de ladite loi.
+
 Il est habilité à donner un avis sur les augmentations de prix. Il peut être consulté par les autorités chargées de la fixation et du contrôle des prix.
 
 Le comité d'entreprise est consulté chaque année sur la politique de recherche de l'entreprise.
