@@ -4,7 +4,7 @@ Sont habilités à constater les infractions aux dispositions des articles L. 24
 
 1° Les agents des douanes commissionnés ;
 
-2° Les fonctionnaires et agents assermentés et commissionnés à cet effet par le ministre chargé de la protection de la nature et qui peuvent être en outre commissionnés pour la constatation des infractions en matière de chasse et de pêche commises dans les réserves naturelles ;
+2° Les agents commissionnés, à cet effet, par l'autorité administrative, assermentés auprès du tribunal de grande instance auquel est rattaché leur domicile et qui peuvent être, en outre, commissionnés pour la constatation des infractions en matière de chasse et de pêche commises dans les réserves naturelles ;
 
 3° Les agents de l'Etat et de l'Office national des forêts commissionnés pour constater les infractions en matière forestière, de chasse, de pêche, d'inspection sanitaire, de protection des animaux ou de protection des végétaux, dans l'étendue des circonscriptions pour lesquelles ils sont assermentés ;
 

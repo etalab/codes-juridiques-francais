@@ -8,3 +8,4 @@
 - [Article L372-5](article-l372-5.md)
 - [Article L372-6](article-l372-6.md)
 - [Article L372-7](article-l372-7.md)
+- [Article L372-8](article-l372-8.md)
