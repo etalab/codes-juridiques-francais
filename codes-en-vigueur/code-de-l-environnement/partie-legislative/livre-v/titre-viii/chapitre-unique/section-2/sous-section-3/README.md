@@ -4,5 +4,4 @@
 - [Article L581-9](article-l581-9.md)
 - [Article L581-10](article-l581-10.md)
 - [Article L581-11](article-l581-11.md)
-- [Article L581-12](article-l581-12.md)
 - [Article L581-13](article-l581-13.md)
