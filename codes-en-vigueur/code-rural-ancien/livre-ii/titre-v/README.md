@@ -1,6 +1,10 @@
 # Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité.
 
 - [Article 276](article-276.md)
+- [Article 276-1](article-276-1.md)
+- [Article 276-2](article-276-2.md)
+- [Article 276-3](article-276-3.md)
+- [Article 276-4](article-276-4.md)
 - [Article 277](article-277.md)
 - [Article 278](article-278.md)
 - [Article 279](article-279.md)
@@ -13,3 +17,4 @@
 - [Article 283-3](article-283-3.md)
 - [Article 283-4](article-283-4.md)
 - [Article 283-5](article-283-5.md)
+- [Article 283-6](article-283-6.md)

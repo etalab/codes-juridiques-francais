@@ -2,6 +2,7 @@
 
 - [Article 224](article-224.md)
 - [Article 225](article-225.md)
+- [Article 225-1](article-225-1.md)
 - [Article 226](article-226.md)
 - [Article 227](article-227.md)
 - [Article 228](article-228.md)
@@ -14,6 +15,7 @@
 - [Article 232-3](article-232-3.md)
 - [Article 232-4](article-232-4.md)
 - [Article 232-5](article-232-5.md)
+- [Article 232-5-1](article-232-5-1.md)
 - [Article 232-6](article-232-6.md)
 - [Article 232-7](article-232-7.md)
 - [Article 233](article-233.md)
