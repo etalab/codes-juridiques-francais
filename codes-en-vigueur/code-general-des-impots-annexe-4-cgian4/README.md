@@ -4,4 +4,3 @@
 - [Livre premier : Assiette et liquidation de l'impôt](livre-premier)
 - [IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS](impositions-percues-au)
 - [ASSIETTE ET LIQUIDATION DE L'IMPOT](assiette-et)
-- [RECOUVREMENT DE L'IMPOT](recouvrement-de-l-impot)
