@@ -1,4 +1,4 @@
-# Réduction d'impôt accordée au titre des dépenses afférentes à l'habitation principale.
+# Réduction d'impôt accordée au titre des dons faits par les particuliers
 
 - [Article 199 quater C](article-199-quater-c.md)
 - [Article 199 quater D](article-199-quater-d.md)
@@ -11,3 +11,4 @@
 - [Article 199 nonies](article-199-nonies.md)
 - [Article 199 decies](article-199-decies.md)
 - [Article 199 undecies](article-199-undecies.md)
+- [Article 200](article-200.md)
