@@ -1,13 +1,19 @@
 # Article 312 ter
 
-Tout projet de marché fait l'objet d'un rapport du représentant légal de la collectivité ou de l'établissement public qui :
+Tout marché ou avenant fait l'objet d'un rapport du représentant légal de la collectivité ou de l'établissement public qui :
 
-1° Définit la nature et l'étendue des besoins à satisfaire ;
+1° Définit la nature et l'étendue des besoins à satisfaire, ainsi que le montant prévu de l'opération ;
 
-2° Expose l'économie générale du marché et son déroulement prévu, ainsi que le prix envisagé ;
+2° Expose l'économie générale du marché ou de l'avenant, son déroulement prévu, ainsi que le prix envisagé ;
 
-3° Motive le choix de l'entrepreneur ou du fournisseur et expose, dans le cas des articles 309, 312 et 312 bis, le déroulement des négociations avec le titulaire.
+3° Indique les motifs du choix du mode de passation adopté, et notamment, le cas échéant, le recours au délai d'urgence ou au marché négocié, ainsi que les mesures prises pour assurer la compétition entre les candidats ;
 
-4° Précise dans la mesure du possible, pour les marchés de fournitures, si les produits proviennent de la Communauté économique européenne, d'un Etat non membre de la Communauté économique européenne signataire de l'accord général sur les tarifs douaniers et le commerce ou d'un autre Etat.
+4° Rend compte du déroulement de la procédure suivie ;
 
-Ce rapport est inclus dans le dossier qui est transmis au représentant de l'Etat.
+5° Expose, le cas échéant, les raisons de l'introduction de critères de sélection des candidatures ou des offres autres que ceux prévus aux articles 288, 297 bis et 300, et les motifs du choix de l'offre retenue ;
+
+6° Indique les dérogations éventuellement apportées aux normes françaises homologuées ;
+
+7° Précise en matière de fournitures si la fourniture provient d'un pays membre de la Communauté économique européenne, d'un autre pays signataire de l'accord général sur les tarifs douaniers et le commerce ou d'un autre pays.
+
+Ce rapport est transmis en même temps que le marché au représentant de l'Etat.
