@@ -7,3 +7,5 @@ a) N'a pas commencé à exploiter ou fait des préparatifs effectifs et sérieux
 b) N'a pas commercialisé le produit objet du brevet en quantité suffisante pour satisfaire aux besoins du marché français.
 
 Il en est de même lorsque l'exploitation prévue au a) ci-dessus ou la commercialisation prévue au b) ci-dessus a été abandonnée depuis plus de trois ans.
+
+Pour l'application du présent article, l'importation de produits objets de brevets fabriqués dans un Etat partie à l'accord instituant l'Organisation mondiale du commerce est considérée comme une exploitation de ce brevet.
