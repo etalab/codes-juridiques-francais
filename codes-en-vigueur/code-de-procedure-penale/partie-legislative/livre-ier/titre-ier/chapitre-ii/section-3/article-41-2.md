@@ -48,4 +48,6 @@ Les compositions pénales exécutées sont inscrites au bulletin n° 1 du casier
 
 Les dispositions du présent article ne sont applicables ni aux mineurs de dix-huit ans ni en matière de délits de presse, de délits d'homicides involontaires ou de délits politiques.
 
+Le président du tribunal peut désigner, aux fins de validation de la composition pénale, tout juge du tribunal ainsi que tout juge de proximité exerçant dans le ressort du tribunal.
+
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
