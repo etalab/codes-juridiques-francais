@@ -5,5 +5,6 @@
 - [Paragraphe III : ÉCLAIRAGE.](paragraphe-iii)
 - [Paragraphe IV : SIGNAUX D'AVERTISSEMENT.](paragraphe-iv)
 - [Paragraphe 5 : PLAQUES.](paragraphe-5)
+- [Paragraphe VI : RÉCEPTION DES CYCLOMOTEURS.](paragraphe-vi)
 - [Paragraphe VII : CONDUITE DES CYCLOMOTEURS.](paragraphe-vii)
 - [Article R188-1](article-r188-1.md)
