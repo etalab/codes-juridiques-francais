@@ -40,7 +40,7 @@ Dans les départements d'outre-mer, le conseil général peut exonérer de la ta
 
 - les logements à vocation très sociale.
 
-La taxe est soumise aux règles qui gouvernent l'assiette, la liquidation, le recouvrement et le contentieux de la taxe locale d'équipement.
+La taxe est soumise aux règles qui gouvernent l'assiette, la liquidation, le recouvrement, les sanctions et le contentieux de la taxe locale d'équipement.
 
 La taxe est assise sur la valeur de l'ensemble immobilier déterminée conformément aux paragraphes I et II de l'article 1585 D du code général des impôts. Par délibération, le conseil général en fixe le taux, qui peut varier suivant les catégories de construction, sans pouvoir excéder 2 p. 100.
 

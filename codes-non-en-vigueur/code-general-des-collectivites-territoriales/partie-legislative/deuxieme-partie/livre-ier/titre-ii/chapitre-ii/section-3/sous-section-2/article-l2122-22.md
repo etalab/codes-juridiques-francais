@@ -35,3 +35,5 @@
 16° D'intenter au nom de la commune les actions en justice ou de défendre la commune dans les actions intentées contre elle, dans les cas définis par le conseil municipal ;
 
 17° De régler les conséquences dommageables des accidents dans lesquels sont impliqués des véhicules municipaux dans la limite fixée par le conseil municipal.
+
+18° De donner, en application de l'article L. 324-1 du code de l'urbanisme, l'avis de la commune préalablement aux opérations menées par un établissement public foncier local.

@@ -24,7 +24,7 @@ c) Prise en considération d'un programme d'aménagement d'ensemble et détermin
 
 a) Programme local de l'habitat ;
 
-b) Politique du logement d'intérêt communautaire ; politique du logement social ; action en faveur du logement des personnes défavorisées par des opérations d'intérêt communautaire ;
+b) Politique du logement d'intérêt communautaire ; aides financières au logement social d'intérêt communautaire ; actions en faveur du logement social d'intérêt communautaire ; action en faveur du logement des personnes défavorisées par des opérations d'intérêt communautaire ;
 
 c) Opérations programmées d'amélioration de l'habitat, actions de réhabilitation et résorption de l'habitat insalubre, lorsqu'elles sont d'intérêt communautaire ;
 

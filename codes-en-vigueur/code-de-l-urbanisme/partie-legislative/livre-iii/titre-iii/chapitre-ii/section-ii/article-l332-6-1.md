@@ -2,15 +2,15 @@
 
 Les contributions aux dépenses d'équipements publics prévus au 2° de l'article L. 332-6 sont les suivantes :
 
-1° a) La participation pour dépassement du coefficient d'occupation des sols prévue à l'article L. 332-1 ;
+1° a) Abrogé
 
-b) Le versement pour dépassement du plafond légal de densité prévu à l'article L. 112-2 ;
+b) Abrogé
 
 c) La taxe départementale des espaces naturels sensibles prévue à l'article L. 142-2 ;
 
 d) La taxe pour le financement des dépenses des conseils d'architecture, d'urbanisme et de l'environnement prévue à l'article 1599 B du code général des impôts ;
 
-e) La taxe spéciale d'équipement prévue à l'article 1599 OB du code général des impôts.
+e) La taxe spéciale d'équipement prévue à l'article 1599-0B du code général des impôts.
 
 2° a) La participation pour raccordement à l'égout prévue à l'article L. 35-4 du code de la santé publique ;
 
@@ -18,7 +18,7 @@ b) La participation destinée à la réalisation de parcs publics de stationneme
 
 c) La participation spécifique pour la réalisation d'équipements publics exceptionnels prévue à l'article L. 332-8 ;
 
-d) La participation demandée pour la réalisation des équipements des services publics industriels ou commerciaux concédés, affermés ou exploités en régie rendus nécessaires pour la réalisation de l'opération. Lorsque la capacité de ces équipements excède les besoins de l'opération, seule la fraction du coût proportionnelle à ces besoins peut être mise à sa charge ;.
+d) La participation au financement des voies nouvelles et réseaux prévue à l'article L. 332-11-1 ;
 
 e) Les cessions gratuites de terrains destinés à être affectés à certains usages publics qui, dans la limite de 10 p. 100 de la superficie du terrain auquel s'applique la demande, peuvent être exigées des bénéficiaires d'autorisations portant sur la création de nouveaux bâtiments ou de nouvelles surfaces construites ;
 
