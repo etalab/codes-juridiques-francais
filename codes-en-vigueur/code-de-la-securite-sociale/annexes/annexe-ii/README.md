@@ -80,7 +80,6 @@
 - [Article Annexe II : Tableau n° 86](article-annexe-ii-tableau-no-86.md)
 - [Article Annexe II : Tableau n° 87](article-annexe-ii-tableau-no-87.md)
 - [Article Annexe II : Tableau n° 88](article-annexe-ii-tableau-no-88.md)
-- [ANNEXE N° 5 (mentionnée à l'article R. 611-45).](annexe-5)
 - [Article TABLEAU 1](article-tableau-1.md)
 - [Article TABLEAU 10 bis](article-tableau-10-bis.md)
 - [Article TABLEAU 15](article-tableau-15.md)
