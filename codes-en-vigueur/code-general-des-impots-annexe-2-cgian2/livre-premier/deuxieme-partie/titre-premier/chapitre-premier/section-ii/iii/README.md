@@ -6,4 +6,3 @@
 - [Article 310 HF](article-310-hf.md)
 - [Article 310 HG](article-310-hg.md)
 - [Article 310 HH](article-310-hh.md)
-- [Article 310 HI](article-310-hi.md)

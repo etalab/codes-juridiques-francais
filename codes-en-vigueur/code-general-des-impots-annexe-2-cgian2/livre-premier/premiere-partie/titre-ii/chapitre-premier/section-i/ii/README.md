@@ -1,6 +1,5 @@
 # II : Opérations imposables sur option
 
-- [3 bis : Vente d'articles fabriqués par des groupements d'aveugles ou de travailleurs.](3-bis)
 - [5 bis : Personnes qui ont passé un bail à construction](5-bis)
 - [6 : Collectivités locales](6)
 - [7 : Bailleurs de biens ruraux](7)

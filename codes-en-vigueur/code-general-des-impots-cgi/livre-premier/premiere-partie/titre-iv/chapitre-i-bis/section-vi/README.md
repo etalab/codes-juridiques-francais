@@ -2,5 +2,4 @@
 
 - [Article 885 V](article-885-v.md)
 - [Article 885 V bis](article-885-v-bis.md)
-- [Article 885 V ter](article-885-v-ter.md)
 - [Article 885 U](article-885-u.md)
