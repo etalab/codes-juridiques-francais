@@ -1,6 +1,7 @@
 # Sous-section 1 : Dispositions communes.
 
 - [Article L5211-21](article-l5211-21.md)
+- [Article L5211-21-1](article-l5211-21-1.md)
 - [Article L5211-22](article-l5211-22.md)
 - [Article L5211-23](article-l5211-23.md)
 - [Article L5211-24](article-l5211-24.md)

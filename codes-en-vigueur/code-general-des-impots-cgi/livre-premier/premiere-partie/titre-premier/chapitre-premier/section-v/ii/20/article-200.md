@@ -36,7 +36,7 @@ Un décret en Conseil d'Etat fixe les conditions de cette reconnaissance et les 
 
 Toutefois, pour l'application du 3, les reçus délivrés pour les dons et les cotisations d'un montant égal ou inférieur à 3 000 euros ne mentionnent pas la dénomination du bénéficiaire. Un décret en Conseil d'Etat détermine les modalités d'application de cette disposition.
 
-6. Par dérogation aux dispositions du premier alinéa du 5 et jusqu'à l'imposition des revenus de l'année 2003, le bénéfice de la réduction d'impôt est accordé aux contribuables qui transmettent la déclaration de leurs revenus par voie électronique, en application de l'article 1649 quater B ter, à la condition que soient mentionnés sur cette déclaration l'identité de chaque organisme bénéficiaire et le montant total des versements effectués au profit de chacun d'entre eux au titre de l'année d'imposition des revenus.
+6. Par dérogation aux dispositions du premier alinéa du 5 et jusqu'à l'imposition des revenus de l'année 2006, le bénéfice de la réduction d'impôt est accordé aux contribuables qui transmettent la déclaration de leurs revenus par voie électronique, en application de l'article 1649 quater B ter, à la condition que soient mentionnés sur cette déclaration l'identité de chaque organisme bénéficiaire et le montant total des versements effectués au profit de chacun d'entre eux au titre de l'année d'imposition des revenus.
 
 L'identité du bénéficiaire n'est pas mentionnée pour les dons et cotisations versés à des organismes visés au e du 1 et au 3 lorsque, dans ce dernier cas, les versements sont d'un montant égal ou inférieur à 3 000 euros.
 

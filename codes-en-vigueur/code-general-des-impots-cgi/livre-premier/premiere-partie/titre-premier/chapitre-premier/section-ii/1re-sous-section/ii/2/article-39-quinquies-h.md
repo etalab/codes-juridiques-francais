@@ -6,7 +6,7 @@ Les dispositions du premier alinéa sont applicables lorsque les entreprises bé
 
 a. Exercent en France une activité industrielle, commerciale ou artisanale au sens de l'article 34 ;
 
-b. Sont nouvelles au sens de l'article 44 sexies ou créées dans le cadre de l'extension d'une activité préexistante si elles remplissent les conditions du II du même article ou créées dans les conditions des cinq premiers alinéas de l'article 44 septies et, s'il s'agit de sociétés, ne sont pas détenues à plus de 50 p. 100 par une entreprise individuelle ;
+b. Sont nouvelles au sens de l'article 44 sexies ou créées dans le cadre de l'extension d'une activité préexistante si elles remplissent les conditions du II du même article ou créées dans les conditions du I de l'article 44 septies et, s'il s'agit de sociétés, ne sont pas détenues à plus de 50 p. 100 par une entreprise individuelle ;
 
 c. Réalisent à la clôture de l'exercice de création ou de reprise et des deux exercices suivants un chiffre d'affaires qui n'excède pas 4 600 000 euros lorsque l'activité principale est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place ou de fournir le logement, ou 1 530 000 euros s'il s'agit d'autres entreprises ;
 

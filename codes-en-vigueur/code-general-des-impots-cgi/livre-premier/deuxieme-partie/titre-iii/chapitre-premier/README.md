@@ -4,6 +4,7 @@
 - [Section II : Taxe pour frais de chambres de métiers et de l'artisanat](section-ii)
 - [Section II bis : Dispositions communes à la taxe pour frais de chambres de commerce et d'industrie et à la taxe pour frais de chambres de métiers](section-ii-bis)
 - [Section IV : Taxe pour frais de chambres d'agriculture](section-iv)
+- [Section V : Redevance audiovisuelle](section-v)
 - [Section VII bis : Taxe spéciale d'équipement perçue au profit des établissements publics fonciers](section-vii-bis)
 - [Section VIII : Taxe spéciale d'équipement perçue au profit de l'établissement public d'aménagement de la Basse-Seine](section-viii)
 - [Section IX bis : Taxe spéciale d'équipement perçue au profit de l'établissement public foncier du Nord - Pas-de-Calais](section-ix-bis)

@@ -8,6 +8,10 @@ a) Les dépenses de réparation et d'entretien, les frais de gérance et de rém
 
 a bis) le montant des primes d'assurances versées au titre de la garantie du risque de loyers impayés. Lorsque le contrat comporte également la garantie d'autres risques, la fraction des primes destinée à couvrir le risque de loyers impayés doit être distinguée ;
 
+a ter) Le montant des dépenses supportées pour le compte du locataire par le propriétaire dont celui-ci n'a pu obtenir le remboursement, au 31 décembre de l'année du départ du locataire ;
+
+a quater) Les provisions pour dépenses, comprises ou non dans le budget prévisionnel de la copropriété, prévues aux articles 14-1 et 14-2 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis, supportées par le propriétaire, diminuées du montant des provisions déduites l'année précédente qui correspond à des charges couvertes par la déduction forfaitaire prévue au e ou qui ne sont pas déductibles ;
+
 b) Les dépenses d'amélioration afférentes aux locaux d'habitation, à l'exclusion des frais correspondant à des travaux de construction, de reconstruction ou d'agrandissement ;
 
 b bis) Les dépenses d'amélioration afférentes aux locaux professionnels et commerciaux destinées à protéger ces locaux des effets de l'amiante ou à faciliter l'accueil des handicapés, à l'exclusion des frais correspondant à des travaux de construction, de reconstruction ou d'agrandissement ;

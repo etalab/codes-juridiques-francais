@@ -9,6 +9,7 @@
 - [Article 1767](article-1767.md)
 - [Article 1768](article-1768.md)
 - [Article 1768 bis](article-1768-bis.md)
+- [Article 1768 bis A](article-1768-bis-a.md)
 - [Article 1768 ter](article-1768-ter.md)
 - [Article 1768 quater](article-1768-quater.md)
 - [Article 1768 quinquies](article-1768-quinquies.md)
@@ -17,3 +18,4 @@
 - [Article 1770 quinquies](article-1770-quinquies.md)
 - [Article 1770 septies](article-1770-septies.md)
 - [Article 1770 octies](article-1770-octies.md)
+- [Article 1770 nonies](article-1770-nonies.md)
