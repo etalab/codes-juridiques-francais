@@ -16,4 +16,6 @@ La propagande ou la publicité, directe ou indirecte, en faveur des boissons alc
 
 7° En faveur des musées, universités, confréries ou stages d'initiation oenologique à caractère traditionnel ainsi qu'en faveur de présentations, de dégustations, dans des conditions définies par décret.
 
+8° Sous forme d'offre, à titre gratuit ou onéreux, d'objets strictement réservés à la consommation de boissons contenant de l'alcool, marqués à leurs noms, par les producteurs et les fabricants de ces boissons, à l'occasion de la vente directe de leurs produits aux consommateurs et aux distributeurs ou à l'occasion de la visite touristique des lieux de fabrication.
+
 Toute opération de parrainage est interdite lorsqu'elle a pour objet ou pour effet la propagande ou la publicité, directe ou indirecte, en faveur des boissons alcooliques.

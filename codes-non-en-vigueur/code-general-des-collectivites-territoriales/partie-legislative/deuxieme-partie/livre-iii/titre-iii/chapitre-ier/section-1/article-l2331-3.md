@@ -31,3 +31,5 @@ b) Les recettes suivantes :
 7° Le versement destiné aux transports en commun ;
 
 8° Le produit de la taxe sur les passagers prévue à l'article L. 211-2 du code des ports maritimes.
+
+9° Le produit des taxes sur les convois, les inhumations et les crémations prévus à l'article L. 2223-22.
