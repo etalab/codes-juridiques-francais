@@ -27,6 +27,7 @@
 - [Article 700](article-700.md)
 - [Article 701](article-701.md)
 - [Article 702](article-702.md)
+- [Article 704](article-704.md)
 - [Article 705](article-705.md)
 - [Article 707](article-707.md)
 - [Article 708](article-708.md)
