@@ -12,4 +12,6 @@ A l'appui des candidatures ou des offres, il ne peut être exigé que :
 
 5° Les certificats, attestations et déclarations visés à l'article 55 ; le cas échéant, la déclaration que le candidat verse à ses salariés leurs indemnités de congés payés et ne les met pas au chômage pour cause d'intempéries ;
 
-6° Les documents ou attestations figurant à l'article R. 324-4 du code du travail.
+6° Les documents ou attestations figurant à l'article R. 324-4 du code du travail ;
+
+7° L'attestation sur l'honneur que le candidat n'a pas fait l'objet, au cours des cinq dernières années, d'une condamnation inscrite au bulletin n° 2 du casier judiciaire pour les infractions visées aux articles L. 324-9, L. 324-10, L. 341-6, L. 125-1 et L. 125-3 du code du travail.

@@ -1,10 +1,12 @@
 # Article *49
 
-Conformément à l'article 50 de la loi n° 52-401 du 14 avril 1952, modifié par l'article 56 de la loi n° 78-753 du 17 juillet 1978 :
+Conformément à l'article 50 de la loi n° 52-401 du 14 avril 1952, modifié par l'article 56 de la loi n° 78-753 du 17 juillet 1978 et à l'article 27 de la loi n° 97-210 du 11 mars 1997 :
 
 I - Ne peut obtenir de commandes de la part de l'Etat et des établissement publics visés à l'article 39 du présent code :
 
 Toute personne condamnée pour infraction à une disposition du code général des impôts prévoyant des sanctions pénales et à l'encontre de laquelle le tribunal a prononcé l'interdiction d'obtenir de telles commandes ;
+
+Toute personne ayant fait l'objet, au cours des cinq dernières années, d'une condamnation inscrite au bulletin n° 2 du casier judiciaire pour les infractions visées aux articles L. 324-9, L. 324-10, L. 341-6, L. 125-1 et L. 125-3 du code du travail ;
 
 Toute personne morale sous le couvert de laquelle le condamné agirait pour se soustraire à cette interdiction ;
 
