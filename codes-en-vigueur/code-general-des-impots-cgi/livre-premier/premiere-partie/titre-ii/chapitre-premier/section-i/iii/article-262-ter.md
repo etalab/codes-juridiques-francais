@@ -14,4 +14,4 @@ II. Sont également exonérées de la taxe sur la valeur ajoutée les acquisitio
 
 2° Dont l'importation serait exonérée en application du II de l'article 291 du code général des impôts ;
 
-3° Pour lesquelles l'acquéreur non établi en France et qui n'y réalise pas des livraisons de biens ou des prestations de services bénéficierait du droit à remboursement total en application du 4 de l'article 271 de la taxe qui serait due au titre de l'acquisition.
+3° Pour lesquelles l'acquéreur non établi en France et qui n'y réalise pas des livraisons de biens ou des prestations de services bénéficierait du droit à remboursement total en application du V de l'article 271 de la taxe qui serait due au titre de l'acquisition.
