@@ -8,7 +8,6 @@
 - [Article D501-1](article-d501-1.md)
 - [Article D503](article-d503.md)
 - [Article D505](article-d505.md)
-- [Article D507](article-d507.md)
 - [Article D508](article-d508.md)
 - [Article D512](article-d512.md)
 - [Article D518](article-d518.md)
