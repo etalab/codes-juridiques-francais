@@ -5,3 +5,4 @@
 - [Chapitre III : Conciliation](chapitre-iii)
 - [Chapitre IV : Médiation.](chapitre-iv)
 - [Chapitre V : Arbitrage](chapitre-v)
+- [Chapitre VI : Dispositions finales.](chapitre-vi)
