@@ -4,4 +4,6 @@ Chaque cour administrative d'appel est composée de chambres dont le nombre est 
 
 Paris : cinq chambres ;
 
-Bordeaux, Lyon, Marseille, Nancy et Nantes : trois chambres.
+Bordeaux, Douai, Lyon, Marseille, Nancy et Nantes :
+
+trois chambres.

@@ -20,7 +20,7 @@ Grenoble : cinq chambres ;
 
 Lille : cinq chambres ;
 
-Lyon : cinq chambres ;
+Lyon : six chambres ;
 
 Marseille : six chambres ;
 
@@ -40,7 +40,7 @@ Pau : deux chambres ;
 
 Poitiers : trois chambres ;
 
-Rennes : quatre chambres ;
+Rennes : cinq chambres ;
 
 Rouen : deux chambres ;
 
