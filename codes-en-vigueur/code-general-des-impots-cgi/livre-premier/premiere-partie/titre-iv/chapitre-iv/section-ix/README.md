@@ -11,5 +11,6 @@
 - [8° : Contrat et certificat de travail](8)
 - [9° : Mariages. Dissentiment des parents](9)
 - [Publicité foncière - Réforme - Dispositions transitoires](publicite-fonciere)
+- [Attribution gratuite d'actions ou de parts sociales au personnel des entreprises.](attribution-gratuite-d-actions-ou)
 - [Achats en vue de la revente](achats-en-vue)
 - [Warrants](warrants)
