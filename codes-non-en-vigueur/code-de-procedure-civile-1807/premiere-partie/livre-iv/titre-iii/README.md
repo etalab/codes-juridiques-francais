@@ -1,5 +1,6 @@
 # Titre III : De la prise à partie.
 
+- [Article 505](article-505.md)
 - [Article 506](article-506.md)
 - [Article 507](article-507.md)
 - [Article 508](article-508.md)
