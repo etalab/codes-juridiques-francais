@@ -1,6 +1,7 @@
 # Titre XIV : De l'ordre.
 
 - [Article 749](article-749.md)
+- [Article 751](article-751.md)
 - [Article 752](article-752.md)
 - [Article 753](article-753.md)
 - [Article 754](article-754.md)
