@@ -1,4 +1,0 @@
-# DES PEINES EN MATIERE CRIMINELLE ET CORRECTIONNELLE, ET DE LEURS EFFETS
-
-- [CHAPITRE I](chapitre-i)
-- [Chapître II](chapitre-ii)

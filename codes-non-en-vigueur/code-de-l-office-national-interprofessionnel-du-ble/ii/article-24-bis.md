@@ -1,5 +1,0 @@
-# Article 24 bis
-
-Dans tous les cas où des coopératives de blé ou des organismes assimilés auront enfreint des prescriptions légales ou réglementaires et ne seront pas conformés aux observations qui leur auront été faites à cet égard par les organismes ou par les agents habilités à les contrôler, le comité d'administration de l'Office national interprofessionnel du blé pourra décider selon les circonstances, soit de suspendre en tout ou partie soit de réduire ou de supprimer complètement, pendant un laps de temps déterminé ou de façon définitive, l'attribution ou le paiement des primes, allocations et subventions de toute nature qui pourraient être accordées à ces coopératives de blé ou organismes assimilés, sur les ressources budgétaires de l'Office national interprofessionnel du blé ou sur celles de la caisse de garantie et du fonds spécial dont ledit office assure la gestion.
-
-En cas d'infraction grave, les sanctions édictées à l'alinéa qui précède pourront être appliquées alors même que des observations n'auraient pas encore été faites au groupement intéressé.
