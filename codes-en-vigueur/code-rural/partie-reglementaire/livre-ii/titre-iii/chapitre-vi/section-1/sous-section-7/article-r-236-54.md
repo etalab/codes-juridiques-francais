@@ -2,7 +2,7 @@
 
 Sera puni de l'amende prévue pour les contraventions de la 3e classe :
 
-1° Le fait de pêcher pendant les temps d'interdiction prévus par les articles R. 236-6, R. 236-7, R. 236-11 et R. 236-12 ;
+1° Le fait de pêcher pendant les temps d'interdiction prévus par les articles R. 236-6, R. 236-7, R. 236-11, R. 236-12 et R. 236-16 ;
 
 2° Le fait de pêcher pendant les heures d'interdiction prévues par les articles R. 236-18 à R. 236-22 ;
 
@@ -14,7 +14,7 @@ Sera puni de l'amende prévue pour les contraventions de la 3e classe :
 
 6° Le fait d'organiser un concours de pêche dans un cours d'eau de 1re catégorie sans avoir obtenu l'autorisation prévue à l'article R. 236-29 ou sans respecter les prescriptions de l'autorisation ;
 
-7° Le fait de ne pas respecter les prescriptions fixées par les arrêtés du préfet pris en application de l'article R. 236-50 ;
+7° Le fait de ne pas respecter les prescriptions fixées par les arrêtés du préfet pris en application des articles R. 236-16 et R. 236-50 ;
 
 8° Le fait d'être trouvé, la nuit, porteur ou muni, hors de son domicile, d'instruments, filets ou engins de pêche prohibés destinés à être utilisés dans les eaux soumises aux dispositions de la présente section.
 
