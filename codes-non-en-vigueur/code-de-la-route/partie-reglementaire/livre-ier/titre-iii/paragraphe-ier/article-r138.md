@@ -10,7 +10,7 @@ et ci-dessous énumérés et définis
 
 1° Tracteurs agricoles : véhicules automoteurs spécialement conçus pour tirer ou actionner tous matériels normalement destinés à l'exploitation agricole.
 
-Sont exclus de cette définition les véhicules automoteurs dont la vitesse de marche par construction peut excéder 30 km par heure en palier.
+Sont exclus de cette définition les véhicules automoteurs dont la vitesse de marche par construction peut excéder 40 km par heure en palier.
 
 2° Machines agricoles automotrices : appareils pouvant évoluer par leurs propres moyens, normalement destinés à l'exploitation agricole et dont la vitesse de marche par construction ne peut excéder 25 km par heure en palier.
 
