@@ -1,5 +1,6 @@
 # Chapitre IV : Infractions concernant la police de la navigation.
 
+- [Article 65](article-65.md)
 - [Article 66](article-66.md)
 - [Article 68](article-68.md)
 - [Article 72](article-72.md)
