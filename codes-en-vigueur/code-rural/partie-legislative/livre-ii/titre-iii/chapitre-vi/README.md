@@ -4,4 +4,3 @@
 - [Section 2 : Les importations et exportations.](section-2)
 - [Section 3 : Les échanges intracommunautaires.](section-3)
 - [Section 4 : Dispositions diverses.](section-4)
-- [Section 5 : Commercialisation.](section-5)

@@ -3,6 +3,7 @@
 - [Article R11-14-1](article-r11-14-1.md)
 - [Article R11-14-2](article-r11-14-2.md)
 - [Article R11-14-3](article-r11-14-3.md)
+- [Article R11-14-4](article-r11-14-4.md)
 - [Article R11-14-5](article-r11-14-5.md)
 - [Article R11-14-6](article-r11-14-6.md)
 - [Article R11-14-7](article-r11-14-7.md)
@@ -12,4 +13,5 @@
 - [Article R11-14-11](article-r11-14-11.md)
 - [Article R11-14-12](article-r11-14-12.md)
 - [Article R11-14-13](article-r11-14-13.md)
+- [Article R11-14-14](article-r11-14-14.md)
 - [Article R11-14-15](article-r11-14-15.md)

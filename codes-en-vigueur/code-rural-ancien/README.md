@@ -1,6 +1,5 @@
 # Code rural (ancien)
 
-- [Livre Ier : Régime du sol](livre-ier)
 - [Livre II : Des animaux et des végétaux](livre-ii)
 - [Livre IV : Institutions et groupements professionnels agricoles](livre-iv)
 - [Livre V : Crédit agricole](livre-v)

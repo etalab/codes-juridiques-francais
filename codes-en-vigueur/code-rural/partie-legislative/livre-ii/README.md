@@ -7,5 +7,3 @@
 - [Titre V : La protection des végétaux](titre-v)
 - [Titre VI : L'agence française de sécurité sanitaire des aliments](titre-vi)
 - [Titre VII : Dispositions particulières aux départements d'outre-mer ainsi qu'à Mayotte et Saint-Pierre-et-Miquelon](titre-vii)
-- [Article L200-1](article-l200-1.md)
-- [Article L200-2](article-l200-2.md)

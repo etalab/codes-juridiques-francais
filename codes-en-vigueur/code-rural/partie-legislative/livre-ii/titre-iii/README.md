@@ -7,6 +7,3 @@
 - [Chapitre V : Dispositions relatives à l'alimentation animale.](chapitre-v)
 - [Chapitre VI : Les importations, échanges intracommunautaires et exportations](chapitre-vi)
 - [Chapitre VII : Dispositions pénales.](chapitre-vii)
-- [Chapitre VIII : Transaction - Poursuites et règles d'application des peines](chapitre-viii)
-- [Chapitre IX : Dispositions d'application.](chapitre-ix)
-- [Article L230-1](article-l230-1.md)
