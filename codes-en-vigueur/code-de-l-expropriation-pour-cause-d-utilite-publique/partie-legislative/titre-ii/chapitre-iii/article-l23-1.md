@@ -1,6 +1,6 @@
 # Article L23-1
 
-Ainsi qu'il est dit à l'article 10 de la loi n° 62-933 du 8 août 1962, complémentaire à la loi d'orientation agricole modifiée par les articles 22 I et 22 II de la loi n° 67-1253 du 30 décembre 1967 :
+Ainsi qu'il est dit aux articles L. 123-24 à L. 123-26 et L. 352-1 du code rural ;
 
 "Lorsque les expropriations en vue de la réalisation de grands ouvrages publics sont susceptibles de compromettre la structure des exploitations dans une zone déterminée, l'obligation sera faite au maître de l'ouvrage, dans l'acte déclaratif d'utilité publique, de remédier aux dommages causés en participant financièrement à l'exécution d'opérations de remembrement et de travaux connexes et à l'installation sur des exploitations nouvelles comparables des agriculteurs dont l'exploitation aurait disparue ou serait gravement déséquilibrée ou, s'ils l'acceptent, à la reconversion de leur activité.
 
