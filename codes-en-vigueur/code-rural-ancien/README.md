@@ -3,6 +3,7 @@
 - [Livre Ier : Régime du sol](livre-ier)
 - [Livre II : Des animaux et des végétaux](livre-ii)
 - [Livre III : La chasse et la pêche](livre-iii)
+- [Livre IV : Institutions et groupements professionnels agricoles](livre-iv)
 - [Livre V : Crédit agricole](livre-v)
 - [Livre VI : Baux ruraux](livre-vi)
 - [Livre VII : Dispositions sociales](livre-vii)
