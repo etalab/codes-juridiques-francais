@@ -2,4 +2,3 @@
 
 - [Article 366 L](article-366-l.md)
 - [Article 366 M](article-366-m.md)
-- [Article 366 N](article-366-n.md)

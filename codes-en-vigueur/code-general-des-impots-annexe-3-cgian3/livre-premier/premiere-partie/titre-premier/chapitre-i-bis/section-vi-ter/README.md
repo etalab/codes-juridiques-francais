@@ -5,4 +5,3 @@
 - [Article 46 quater-0 YH](article-46-quater-0-yh.md)
 - [Article 46 quater-0 YI](article-46-quater-0-yi.md)
 - [Article 46 quater-0 YJ](article-46-quater-0-yj.md)
-- [Article 46 quater-0 YK](article-46-quater-0-yk.md)
