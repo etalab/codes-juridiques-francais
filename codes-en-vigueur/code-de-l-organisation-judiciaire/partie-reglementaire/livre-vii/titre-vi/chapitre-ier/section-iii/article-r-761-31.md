@@ -18,4 +18,6 @@ L'assemblée des fonctionnaires émet un avis sur :
 
 8° Les conditions de travail du personnel et les problèmes de sécurité ;
 
-9° Les questions intéressant le fonctionnement interne de la juridiction.
+9° Les questions intéressant le fonctionnement interne de la juridiction ;
+
+10° les projets de convention constitutive d'une maison de justice et du droit.
