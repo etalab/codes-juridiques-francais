@@ -1,6 +1,6 @@
 # Article R143-2
 
-Le bulletin de paie prévu à l'article L. 143-3 comporte obligatoirement [*mentions obligatoires*] :
+Le bulletin de paie prévu à l'article L. 143-3 comporte obligatoirement :
 
 1° Le nom et l'adresse de l'employeur ainsi que, le cas échéant, la désignation de l'établissement dont dépend le salarié ;
 
@@ -32,4 +32,4 @@ Le bulletin de paie doit comporter en caractères apparents une mention incitant
 
 Le livre de paie prévu à l'article L. 143-5 est tenu par ordre de date, sans blancs, lacunes, ratures, surcharges ni apostilles. Il est coté, paraphé et visé dans la forme ordinaire et sans frais, soit par un juge du tribunal de première instance, soit par l'inspecteur du travail.
 
-L'employeur est tenu [*obligation*] de conserver ce livre pendant cinq ans à dater de sa clôture.
+L'employeur est tenu de conserver ce livre pendant cinq ans à dater de sa clôture.
