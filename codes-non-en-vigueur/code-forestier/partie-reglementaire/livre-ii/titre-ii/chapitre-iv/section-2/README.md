@@ -4,3 +4,4 @@
 - [Sous-Section 2 : Contrats conclus pour une durée comprise entre cinq et dix ans.](sous-section-2)
 - [Article R*224-4](article-r-224-4.md)
 - [Article R224-5](article-r224-5.md)
+- [Article R224-6](article-r224-6.md)
