@@ -9,5 +9,4 @@
 - [Article 1825 D](article-1825-d.md)
 - [Article 1825 A](article-1825-a.md)
 - [Article 1825 B](article-1825-b.md)
-- [Article 1825 E](article-1825-e.md)
 - [Article 1825 F](article-1825-f.md)

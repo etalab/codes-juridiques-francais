@@ -64,7 +64,7 @@ Pour les productions à partir de matières premières alcooliques, les entrées
 
 c) Le cas échéant, d'un compte de subdivision du compte principal, pour les alcools et les boissons alcooliques logés dans des fûts en bois non pourvus d'un revêtement intérieur ou extérieur destiné à assurer l'étanchéité.
 
-2° Par exception aux dispositions du 1° ci-dessus, la comptabilité matières des fabricants de vinaigre n'est constituée que d'un compte principal. Ce compte retrace les réceptions et détentions de liquides cités à l'article 515 du code général des impôts, ainsi que les produits issus de leur transformation en dilutions acéto-alcooliques.
+2° Dispositions devenues sans objet.
 
 3° Par exception aux dispositions du 1° ci-dessus, la comptabilité matières des fabricants de bières est constituée :
 
@@ -72,7 +72,7 @@ a) D'un compte principal décrivant les réceptions, détentions et expéditions
 
 b) D'un compte de subdivision du compte principal, pour les bières logées dans des fûts en bois non pourvus d'un revêtement intérieur ou extérieur destiné à assurer l'étanchéité.
 
-VII. - Sans que cela fasse obstacle aux dispositions de l'article 515 du code général des impôts et de l'article 70 de l'annexe I audit code, la comptabilité matières est tenue :
+VII. - Sans que cela fasse obstacle aux dispositions de l'article 70 de l'annexe I au code général des impôts, la comptabilité matières est tenue :
 
 1° Par tarif d'imposition, en volume d'alcool pur et en volume effectif, pour les alcools et les produits alcooligènes mentionnés à l'article 338 du code général des impôts, sous réserve des dispositions relatives aux comptes d'âge ou de vieillissement prévus par les textes réglementaires en vigueur et les règlements des organismes interprofessionnels ;
 
