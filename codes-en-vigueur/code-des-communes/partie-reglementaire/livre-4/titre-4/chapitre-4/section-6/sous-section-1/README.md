@@ -1,5 +1,6 @@
 # SOUS-SECTION 1 : Activité, congés.
 
+- [PARAGRAPHE 1 : Service à temps partiel.](paragraphe-1)
 - [PARAGRAPHE 2 : Congés annuels.](paragraphe-2)
 - [PARAGRAPHE 3 : Autorisations spéciales d'absence.](paragraphe-3)
 - [PARAGRAPHE 4 : Congés de maladie.](paragraphe-4)
