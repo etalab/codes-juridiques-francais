@@ -18,7 +18,7 @@ d) aux contribuables qui créent une activité dans le cadre d'une concentration
 
 Pour l'ensemble des sociétés d'un même groupe, le montant de l'exonération accordée ne peut excéder le montant visé au IX, dans la limite du résultat d'ensemble du groupe.
 
-II. Le bénéfice ouvrant droit à l'exonération au titre d'un exercice ou d'une année d'imposition est celui déclaré selon les modalités prévues aux articles 50-0, 53 A, 72, 74 A ou fixé conformément à l'article 65 A et diminué des produits bruts ci-après qui restent imposables dans les conditions de droit commun :
+II. Le bénéfice ouvrant droit à l'exonération au titre d'un exercice ou d'une année d'imposition est celui déclaré selon les modalités prévues aux articles 50-0, 53 A, 72, 74 A ou fixé conformément aux articles 65 A et 65 B et diminué des produits bruts ci-après qui restent imposables dans les conditions de droit commun :
 
 a) produits des actions ou parts de sociétés, résultats de sociétés ou organismes soumis au régime prévu à l'article 8 lorsqu'ils ne proviennent pas d'une activité exercée en Corse, et résultats de cession des titres de ces sociétés ;
 
