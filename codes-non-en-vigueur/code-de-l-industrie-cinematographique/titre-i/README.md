@@ -4,3 +4,4 @@
 - [Chapitre I : Organisation administrative et financière.](chapitre-i)
 - [Article 2](article-2.md)
 - [Chapitre II : Modalités d'application et sanctions.](chapitre-ii)
+- [Article 2-1](article-2-1.md)
