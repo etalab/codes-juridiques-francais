@@ -4,3 +4,4 @@
 - [Section 2 : Périmètres d'actions forestières.](section-2)
 - [Section 3 : Zones dégradées.](section-3)
 - [Section 4 : Aménagement foncier agricole et forestier.](section-4)
+- [Section 5 : Protection des boisements linéaires, haies et plantations d'alignements.](section-5)
