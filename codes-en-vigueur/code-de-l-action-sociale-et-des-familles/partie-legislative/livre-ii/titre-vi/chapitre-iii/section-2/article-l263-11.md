@@ -1,9 +1,5 @@
 # Article L263-11
 
-La commission locale d'insertion comprend :
+La commission locale d'insertion comprend notamment des représentants des services de l'Etat, des communes et des établissements publics de coopération intercommunale compétents situés dans le ressort de la commission, des organismes chargés de l'emploi et de la formation professionnelle et des personnes de droit public ou privé oeuvrant dans le domaine de l'insertion et de la lutte contre la pauvreté et l'exclusion.
 
-- en nombre égal, des représentants des services de l'Etat désignés par le représentant de l'Etat dans le département, dont au moins un au titre du service public de l'emploi, et des représentants du conseil général désignés par le président du conseil général, dont au moins un conseiller général élu dans le ressort de la commission ;
-
-- des représentants des communes du ressort de la commission, dont au moins un de la commune siège, nommés conjointement par le représentant de l'Etat dans le département et le président du conseil général, sur proposition des maires des communes concernées ;
-
-- des représentants du système éducatif, d'institutions, d'entreprises, d'organismes ou d'associations intervenant dans le domaine économique et social ou en matière de formation professionnelle, nommés conjointement par le représentant de l'Etat dans le département et par le président du conseil général.
+Le président du conseil général arrête la liste des membres de la commission, désignés le cas échéant par la collectivité ou la personne morale qu'ils représentent, et en désigne le président.

@@ -6,4 +6,4 @@ Ces modalités doivent permettre notamment de mieux prendre en compte les spéci
 
 1° Les modalités de fixation de l'allocation et de détermination des ressources prises en compte pour le calcul de l'allocation de revenu minimum d'insertion notamment en ce qui concerne les personnes non salariées des professions agricoles ;
 
-2° Les règles relatives aux modalités de calcul, de déconcentration, de gestion et d'affectation de la participation financière de l'Etat qui s'ajoute à la participation financière des départements, prévue à l'article L. 263-5.
+2° Alinéa abrogé.
