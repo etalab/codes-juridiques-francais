@@ -1,0 +1,3 @@
+# Article A422-10
+
+La construction des usines productrices d'énergie électrique et de gaz, à l'exception des locaux à usage d'habitation ou de bureaux, la construction des sous-stations, postes de transformation, postes de compression et de détente, les travaux concernant le transport et la distribution de l'énergie électrique par lignes aériennes sont exemptés de permis de construire, à condition que le directeur départemental de l'équipement ait donné son avis favorable à la réalisation des bâtiments ou des travaux, compte tenu de l'environnement, des prescriptions d'urbanisme et des diverses servitudes administratives applicables à l'emplacement considéré.

@@ -1,0 +1,3 @@
+# Article A422-7
+
+Les travaux non exemptés par l'article A. 422-5 et ceux qui ne sont pas assujettis à la procédure normale du permis de construire ne peuvent être entrepris qu'après communication du plan de masse au chef de service départemental de l'équipement dans le délai de vingt jours avant leur exécution ou la passation des marchés. Le chef du service départemental de l'équipement doit faire connaître son avis sur ce plan dans un délai de vingt jours à dater de sa réception. Le défaut de réponse dans ce délai implique son accord. En cas de désaccord, la décision est prise par le ministre chargé de l'urbanisme et le ministre chargé des armées.

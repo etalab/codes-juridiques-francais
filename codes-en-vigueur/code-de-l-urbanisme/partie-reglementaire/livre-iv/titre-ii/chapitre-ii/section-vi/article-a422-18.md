@@ -1,0 +1,3 @@
+# Article A422-18
+
+La construction de bâtiments scolaires du premier degré, du second degré, de l'enfance inadaptée et de l'enseignement technique est exemptée de permis de construire, à condition que le directeur départemental de l'équipement soit saisi, un mois au moins avant la consultation de la commission départementale des opérations immobilières, /M/de l'architecture et des espaces protégés/M/ARR. 09-09-1977 : et de l'architecture//, d'un dossier comprenant l'ensemble des pièces prévues par l'annexe 5 de l'instruction du 15 janvier 1970 sur l'application du décret n. 69-825 du 28 août 1969.

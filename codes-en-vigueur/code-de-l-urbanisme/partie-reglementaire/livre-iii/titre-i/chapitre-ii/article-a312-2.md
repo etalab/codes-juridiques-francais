@@ -1,0 +1,3 @@
+# Article A312-2
+
+La surface bâtie de référence visée à l'article R. 312-6 (alinéa 2) est celle d'un logement d'une surface habitable de 55 mètres carrés comportant trois pièces principales, cuisine, salle d'eau, W.C., dégagements, volume de rangement. Ce logement est considéré comme équipé en eau, gaz, électricité ; l'immeuble n'est pas doté d'ascenseur. Les matériaux employés sont de bonne qualité courante assurant une durabilité et une isolation thermique et phonique satisfaisantes et ne nécessitant pas une mise en oeuvre coûteuse. Le bâtiment ne comporte ni sujétion architecturale particulière ni fondations exceptionnelles.

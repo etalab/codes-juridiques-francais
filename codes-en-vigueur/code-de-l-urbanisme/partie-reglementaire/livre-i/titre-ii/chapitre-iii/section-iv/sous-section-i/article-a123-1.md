@@ -1,0 +1,3 @@
+# Article A123-1
+
+Dans les communes pour lesquelles l'établissement d'un plan d'occupation des sols a été prescrit, les ouvertures d'établissements dangereux, insalubres ou incommodes de 3e classe, entrant dans une des catégories figurant à l'article A. 123-3, ainsi que les extensions ou modifications apportées dans les conditions d'exploitation des établissements de cette nature déjà existants, sont soumises à une autorisation préalable délivrée sur la demande des intéressés par le préfet, après avis de la commission départementale d'urbanisme, sans qu'il soit nécessaire de procéder à une enquête de commodo et incommodo.

@@ -1,0 +1,3 @@
+# Article A311-7
+
+Pour les zones d'aménagement concerté à usage dominant d'activités industrielles et pour celles à usage dominant de commerce ou d'entrepôt, le programme et l'échéancier sont approuvés et les moyens publics de financement sont définis au vu du dossier visé à l'article R. 311-11 et sur le rapport du préfet de région par décision du ministre chargé de l'urbanisme prise sur avis conforme du ministre de l'intérieur, du ministre de l'économie et des finances, du ministre chargé de l'aménagement du territoire, et du ministre de l'industrie, lorsque la décision de création n'est pas de la compétence du préfet.

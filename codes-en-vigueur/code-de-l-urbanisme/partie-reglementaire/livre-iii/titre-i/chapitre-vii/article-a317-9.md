@@ -1,0 +1,3 @@
+# Article A317-9
+
+Les honoraires versés au technicien chargé, par les associations syndicales d'aménagement des lotissements défectueux, d'établir les avant-projets des travaux entrepris pour l'aménagement des lotissements défectueux bénéficiant de subventions et de prêts au titre des articles L. 317-1 à L. 317-15, de diriger et de surveiller l'exécution de ces travaux sont calculés dans les conditions générales fixées par la loi n. 48-1530 du 29 septembre 1948 et par l'arrêté interministériel du 7 mars 1949, pour les agents des services publics de l'Etat et des collectivités locales et par le décret /M/n. 49-165 du 7 février 1949, /M/ARR. 09-09-1977 : n. 73-207 du 28 février 1973// pour les techniciens privés.

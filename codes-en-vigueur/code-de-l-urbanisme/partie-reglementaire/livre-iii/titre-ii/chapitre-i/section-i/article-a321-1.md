@@ -1,0 +1,3 @@
+# Article A321-1
+
+Conformément à l'article 2 (2., b) de l'arrêté du 13 janvier 1970 modifié portant application du décret n. 69-825 du 28 août 1969, sont dispensées de l'examen des commissions instituées par le décret du 28 août 1969, sous réserve que leur coût n'excède pas l'évaluation effectuée par les services fiscaux (domaines), les acquisitions d'immeubles poursuivies, en vue de la réalisation de zones d'habitation, par les collectivités locales et les établissements publics groupant ces collectivités ou en dépendant, ainsi que par les personnes et organismes de toute nature visés à l'article 4 du décret précité et placés sous le contrôle de ces collectivités et établissements.

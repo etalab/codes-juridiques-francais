@@ -1,0 +1,3 @@
+# Article A123-5
+
+Conformément à l'article 3 (alinéa 1er) de l'arrêté du 13 janvier 1970 modifié portant application de l'article 52 du décret n. 69-825 du 28 août 1969, sont dispensées de l'examen des commissions [*des opérations immobilières de l'architecture et des espaces protégés*] instituées par le décret du 28 août 1969, sous réserve que leur prix n'excède pas l'évaluation effectuée par les services fiscaux (domaines) ou qu'il soit fixé comme en matière d'expropriation, les acquisitions de terrains [*réservés*] effectuées dans les conditions prévues par l'article L. 123-9 [*droit de délaissement*].
