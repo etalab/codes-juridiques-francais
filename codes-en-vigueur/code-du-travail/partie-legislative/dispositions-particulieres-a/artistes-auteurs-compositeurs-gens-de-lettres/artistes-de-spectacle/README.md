@@ -1,3 +1,0 @@
-# ARTISTES DE SPECTACLE
-
-- [PLACEMENT .](placement)
