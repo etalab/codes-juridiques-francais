@@ -1,4 +1,4 @@
-# Chapitre I : Modalités de règlement des marchés.
+# Chapitre I : Modalités de règlement des marchés
 
 - [Section I : Avances.](section-i)
 - [Section II : Acomptes.](section-ii)
