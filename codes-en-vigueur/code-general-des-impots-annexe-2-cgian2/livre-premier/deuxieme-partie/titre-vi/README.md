@@ -10,3 +10,4 @@
 - [Chapitre X : Taxe parafiscale des industries de l'habillement et de la maille.](chapitre-x)
 - [Chapitre XI : Taxe parafiscale de stockage du secteur céréalier.](chapitre-xi)
 - [Chapitre XII : Taxe parafiscale pour le financement des actions du secteur céréalier.](chapitre-xii)
+- [Chapitre premier : Dispositions générales.](chapitre-premier)

@@ -4,6 +4,7 @@
 - [2 : Evaluation forfaitaire](2)
 - [2 ter : Régime transitoire.](2-ter)
 - [3 : Imposition d'après le bénéfice réel](3)
+- [4 : Dispositions communes au régime transitoire d'imposition et aux régimes d'imposition d'après le bénéfice réel.](4)
 - [5 : Régime spécial applicable aux exploitations forestières](5)
 - [5 bis : Régime spécial des cultures agréées dans les départements d'outre-mer](5-bis)
 - [6 : Répartition du bénéfice en cas de bail à portion de fruits, de changement d'exploitant ou de décès de l'exploitant](6)

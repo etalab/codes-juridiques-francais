@@ -1,6 +1,7 @@
 # V : Bénéfices de l'exploitation agricole
 
 - [C : Option pour l'un des régimes d'imposition d'après le bénéfice réel.](c)
+- [C bis : Régime transitoire d'imposition](c-bis)
 - [D : Dispositions applicables en cas de changement de régime d'imposition](d)
 - [A : Détermination du régime réel d'imposition](a)
 - [B : Détermination et imposition du bénéfice des exploitants soumis à un régime réel](b)

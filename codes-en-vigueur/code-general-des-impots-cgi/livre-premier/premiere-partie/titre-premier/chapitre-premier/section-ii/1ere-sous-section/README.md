@@ -1,5 +1,6 @@
 # 1ere Sous-section : Détermination des bénéfices ou revenus nets des diverses catégories de revenus
 
+- [I : Revenus fonciers](i)
 - [II : Bénéfices industriels et commerciaux](ii)
 - [V : Traitements, salaires, pensions et rentes viagères](v)
 - [VI : Bénéfices des professions non commerciales](vi)
