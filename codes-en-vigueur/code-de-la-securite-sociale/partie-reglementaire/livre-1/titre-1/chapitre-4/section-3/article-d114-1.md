@@ -12,25 +12,25 @@ La commission des comptes de la sécurité sociale, placée sous la présidence 
 
 a) Cinq par les organisations syndicales les plus représentatives des salariés ;
 
-b) Trois par le conseil national du patronat français ;
+b) Trois par le conseil national du patronat français  ;
 
-c) Un par la confédération générale des petites et moyennes entreprises ;
+c) Un par la confédération générale des petites et moyennes entreprises  ;
 
-d) Un par la fédération nationale des syndicats d'exploitants agricoles ;
+d) Un par la fédération nationale des syndicats d'exploitants agricoles  ;
 
 e) Un par l'assemblée permanente des chambres de métiers ;
 
 f) Un par l'union nationale des associations familiales.
 
-5° a) Le président du conseil d'administration de l'agence centrale des organismes de sécurité sociale ;
+5° a) Le président du conseil d'administration de l'agence centrale des organismes de sécurité sociale  ;
 
 b) Le président du conseil d'administration de la Caisse nationale de l'assurance maladie des travailleurs salariés ;
 
 c) Le président du conseil d'administration de la Caisse nationale d'assurance vieillesse des travailleurs salariés ;
 
-d) Le président du conseil d'administration de la Caisse nationale des allocations familiales ;
+d) Le président du conseil d'administration de la Caisse nationale des allocations familiales  ;
 
-e) Le président du conseil central d'administration de la mutualité sociale agricole ;
+e) Le président du conseil central d'administration de la mutualité sociale agricole  ;
 
 f) Le président du conseil d'administration de la Caisse nationale d'assurance vieillesse des professions libérales ;
 
@@ -50,6 +50,6 @@ l) Le président du conseil d'administration de l'association des régimes de re
 
 m) Un représentant désigné par la fédération nationale de la mutualité française.
 
-6° Le président du Centre national des professions de santé ainsi que trois représentants des organisations professionnelles de médecins et trois représentants des établissements de soins désignés par le ministre chargé de la sécurité sociale.
+6° Le président du Centre national des professions de santé ainsi que quatre représentants des organisations professionnelles de médecins et trois représentants des établissements de soins désignés par le ministre chargé de la sécurité sociale.
 
 7° Sept personnalités qualifiées désignées pour leur compétence particulière par le ministre chargé de la sécurité sociale.
