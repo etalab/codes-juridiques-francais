@@ -14,4 +14,4 @@ Tout projet de marché fait l'objet d'un rapport de la personne responsable du m
 
 Ce rapport est inclus dans le dossier soumis aux contrôles fixés par chaque ministre comme il est dit à l'article 202.
 
-6° Précise, dans toute la mesure du possible, le pays d'origine, s'il s'agit d'un marché de fournitures.
+6° Précise dans la mesure du possible, pour les marchés de fournitures, si les produits proviennent de la Communauté économique européenne, d'un Etat non membre de la Communauté économique européenne signataire de l'accord général sur les tarifs douaniers et le commerce ou d'un autre Etat.
