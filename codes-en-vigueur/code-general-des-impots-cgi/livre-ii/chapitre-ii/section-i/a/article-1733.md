@@ -8,7 +8,7 @@ En ce qui concerne les droits d'enregistrement ou la taxe de publicité foncièr
 
 II. Pour l'application du I, sont assimilés à une insuffisance de déclaration lorsqu'ils ne sont pas justifiés :
 
-a) Les charges ouvrant droit aux réductions d'imp^ot prévues aux articles 199 sexies, 199 sexies C et 199 septies ;
+a) Les charges ouvrant droit aux réductions d'impôt prévues aux articles 199 quater E, 199 sexies, 199 sexies C et 199 septies ;
 
 b) Les dépenses de tenue de comptabilité et d'adhésion à un centre de gestion ou à une association agréés ouvrant droit à la réduction d'impôt prévue à l'article 199 quater B ;
 
@@ -19,6 +19,8 @@ d) Les dépenses de recherche et de formation professionnelle ouvrant droit aux 
 e) Les dépôts dans les fonds salariaux ouvrant droit à la réduction d'impôt prévue à l'article 199 octies ;
 
 f) La base sur laquelle a été calculée la réduction prévue à l'article 199 nonies.
+
+g) Les souscriptions en numéraire ouvrant droit au crédit d'impôt prévu à l'article 220 sexies. "
 
 III. Pour l'application du I, la base sur laquelle a été calculée la réduction d'impôt prévue à l'article 199 nonies est assimilée à une insuffisance de déclaration en cas de non-respect de l'engagement ou de cession du logement.
 

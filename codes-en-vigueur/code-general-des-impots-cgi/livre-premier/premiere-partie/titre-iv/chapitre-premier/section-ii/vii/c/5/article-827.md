@@ -8,4 +8,4 @@ Cette disposition est applicable aux sociétés anonymes de crédit immobilier d
 
 2° Les attributions de logements faites par les sociétés coopératives en application du deuxième alinéa de l'article 80 de la loi n° 53-80 du 7 février 1953.
 
-II. Les actes constitutifs de sociétés, lorsqu'ils ne mentionnent que l'apport de marchés concernant la construction d'immeubles à usage principal d'habitation, effectué à titre pur et simple à des sociétés qui se constituent en vue de l'exécution de ces marchés entre personnes appartenant aux divers corps de métiers appelés à y concourir, sont enregistrés au droit fixe de 430 F [*montant*].
+II. (Abrogé).
