@@ -3,6 +3,7 @@
 - [Article 1715](article-1715.md)
 - [Article 1716](article-1716.md)
 - [Article 1717](article-1717.md)
+- [Article 1719](article-1719.md)
 - [Article 1720](article-1720.md)
 - [Article 1721](article-1721.md)
 - [Article 1722](article-1722.md)

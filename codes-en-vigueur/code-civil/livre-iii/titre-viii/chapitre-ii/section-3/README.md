@@ -1,6 +1,5 @@
 # Section 3 : Des règles particulières aux baux à ferme.
 
-- [Article 1763](article-1763.md)
 - [Article 1764](article-1764.md)
 - [Article 1765](article-1765.md)
 - [Article 1766](article-1766.md)
