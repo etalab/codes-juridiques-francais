@@ -15,7 +15,6 @@
 - [DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS](dispositions-particulieres-a)
 - [CONVENTIONS RELATIVES AU TRAVAIL](conventions-relatives-au)
 - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*](dispositions-speciales-aux)
-- [CONFLITS DE TRAVAIL](conflits-de-travail)
 - [CONFLITS DU TRAVAIL](conflits-du-travail)
 - [EMPLOI](emploi)
 - [CONTROLE DE L'APPLICATION DE LA LEGISLATION ET DE LA REGLEMENTATION DU TRAVAIL](controle-de-l-application-de-la-legislation-et)
