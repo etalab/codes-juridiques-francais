@@ -8,7 +8,6 @@
 - [II ter : Provisions pour risques afférents aux opérations de crédit à moyen et à long terme réalisées par les établissements de crédit pour le financement des ventes ou travaux à l'étranger.](ii-ter)
 - [II quater : Provisions des entreprises de presse](ii-quater)
 - [III : Provisions pour reconstitution des gisements](iii)
-- [III bis : Provision pour prêts d'installation consentis par les entreprises à leurs salariées.](iii-bis)
 - [IV : Provision pour implantation commerciale à l'étranger](iv)
 - [VIII : Contrôle des frais généraux. Obligations des entreprises](viii)
 - [IX : Evaluation des stocks et des travaux en cours](ix)
