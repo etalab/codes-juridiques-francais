@@ -4,11 +4,13 @@ Sont habilités à rechercher et à constater les infractions aux dispositions d
 
 1° Les agents du Conseil supérieur de la pêche commissionnés à cet effet par décision ministérielle, et assermentés ;
 
-2° Les ingénieurs du génie rural, des eaux et des forêts, les ingénieurs des travaux et les agents qualifiés chargés de la police de la pêche dans les directions départementales de l'agriculture et de la forêt et à l'Office national des forêts, les ingénieurs et agents qualifiés des services chargés de la navigation, commissionnés à cet effet par décision ministérielle et assermentés ;
+2° Les ingénieurs du génie rural, des eaux et des forêts, les ingénieurs des travaux et les agents qualifiés chargés de la police de la pêche dans les directions départementales de l'agriculture et de la forêt, les ingénieurs et agents qualifiés des services chargés de la navigation, commissionnés à cet effet par décision ministérielle et assermentés ;
 
-3° Les gardes champêtres ;
+3° Les ingénieurs en service à l'Office national des forêts et les agents assermentés de cet établissement visés à l'article L. 122-7 du code forestier ;
 
-4° Les agents de l'Office national de la chasse commissionnés à cet effet par le ministre chargé de la protection de la nature et assermentés dans la circonscription à laquelle ils sont affectés.
+4° Les gardes champêtres ;
+
+5° Les agents de l'Office national de la chasse commissionnés à cet effet par le ministre chargé de la protection de la nature et assermentés dans la circonscription à laquelle ils sont affectés.
 
 Les agents commissionnés du Conseil supérieur de la pêche peuvent contrôler les conditions dans lesquelles, au-delà de la limite de salure des eaux, est pratiquée la pêche des espèces de poissons vivant alternativement dans les eaux douces et dans les eaux salées.
 
