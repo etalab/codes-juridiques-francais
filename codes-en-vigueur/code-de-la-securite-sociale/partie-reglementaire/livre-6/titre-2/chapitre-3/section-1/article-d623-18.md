@@ -4,7 +4,7 @@ L'agent comptable est, dans les conditions définies ci-après, personnellement 
 
 1°) de l'encaissement régulier des ordres de recette qui lui sont remis par le directeur ;
 
-2°) de l'encaissement, à leur échéance, des créances constatées par un contrat, une convention ou un titre de propriété dont il assure la conservation par application de l'article D. 253-58 ;
+2°) de l'encaissement, à leur échéance, des créances constatées par un contrat, une convention ou un titre de propriété dont il assure la conservation par application de l'article D. 253-28 ;
 
 3°) de l'exécution des dépenses qu'il est tenu de faire ;
 
