@@ -19,3 +19,5 @@ L'autorisation de défrichement peut être refusée lorsque la conservation des 
 8° A l'équilibre biologique d'une région ou au bien-être de la population ;
 
 9° A l'aménagement des périmètres d'actions forestières et des zones dégradées mentionnés au 2° et au 3° de l'article 52-1 du code rural.
+
+10° A la protection contre l'incendie de l'ensemble forestier dans lequel est incluse la parcelle en cause.

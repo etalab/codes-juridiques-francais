@@ -22,6 +22,8 @@ b) De priver une exploitation agricole d'un bâtiment essentiel à son fonctionn
 
 3° Nonobstant les dispositions du 1° du paragraphe I ci-dessus, les aggrandissements ou reunions d'exploitations pour les biens dont la distance par rapport au siège de l'exploitation du demandeur est supérieur à un maximum fixé par le schéma directeur départemental des structures agricoles, sans que ce maximum puisse être inférieur à cinq kilomètres.
 
+4° A titre transitoire et jusqu'au 30 juin 1993, les créations ou extensions de capacité des ateliers hors sol, au-delà d'un seuil de capacité de production et selon des modalités fixées par décret, susceptibles de remettre en cause l'équilibre des structures sociales qui caractérisent cette activité.
+
 III. - Sont soumise à déclaration préalable les opérations effectuées dans les cas ci-après :
 
 1° Lorsque les biens pour lesquels la déclaration est présentée par le propriétaire jusqu'à quatre fois la surface minimum d'installation, lorsque les les biens pour lesquels la déclaration d'exploiter est sollicitée par le propriétaire ou par l'un de ses descendants ont  été recueillis par succession ou à la suite du règlement de la succession ou par donation d'un parent ou allié jusqu'au troisième degré inclus, à condition que :
@@ -50,7 +52,7 @@ c) la superficie de l'exploitation constituée ou agrandie et les revenus extra-
 
 5° Lorsque, en cas de décès, d'incapacité ou de cessation d'activité consécutif au départ en retraite de l'exploitant, l'exploitation est reprise par le conjoint participant à l'exploitation ou y ayant participé effectivement au cours des cinq années antérieures au décès ou à l'incapacité ou au départ à la retraite ;
 
-6° Lorsque la réunion d'exploitations agricoles résulte de la réunion entre les mains de l'un d'entre eux des biens que chacun des deux époux méttait en valeur avant leur mariage
+6° Lorsque la réunion d'exploitations agricoles résulte de la réunion entre les mains de l'un d'entre eux des biens que chacun des deux époux méttait en valeur avant leur mariage ;
 
 7° Pour les cessions d'immeubles opérées par une société d'aménagement foncier et d'établissement rural lorsqu'elles relèvent de la procédure définie aux paragraphes I et II ci-dessus, sauf en cas de suppression d'une unité économique indépendante dont la superficie est égale ou supérieure au seuil défini au a du 2° du paragraphe II.
 
