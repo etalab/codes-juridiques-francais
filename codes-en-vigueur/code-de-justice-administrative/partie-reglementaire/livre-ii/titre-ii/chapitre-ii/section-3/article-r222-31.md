@@ -1,3 +1,3 @@
 # Article R222-31
 
-En cas d'absence ou d'empêchement de certains de ses membres, la cour administrative d'appel peut siéger en formation plénière avec cinq membres seulement, désignés de la manière indiquée à l'article R. 222-30.
+En cas d'absence ou d'empêchement, les présidents des cours administratives d'appel sont remplacés par le président de chambre le plus ancien dans l'ordre du tableau.
