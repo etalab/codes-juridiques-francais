@@ -5,3 +5,4 @@
 - [Article L2215-3](article-l2215-3.md)
 - [Article L2215-4](article-l2215-4.md)
 - [Article L2215-5](article-l2215-5.md)
+- [Article L2215-7](article-l2215-7.md)

@@ -10,4 +10,6 @@ L'infraction définie à l'article 222-29 est punie de dix ans d'emprisonnement 
 
 4° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur ou de complice ;
 
-5° Lorsqu'elle est commise avec usage ou menace d'une arme.
+5° Lorsqu'elle est commise avec usage ou menace d'une arme ;
+
+6° Lorsqu'elle a été commise à raison de l'orientation sexuelle de la victime.

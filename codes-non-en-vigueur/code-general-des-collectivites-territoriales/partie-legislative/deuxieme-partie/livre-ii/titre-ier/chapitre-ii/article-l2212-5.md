@@ -1,8 +1,10 @@
 # Article L2212-5
 
-- Sans préjudice de la compétence générale de la police nationale et de la gendarmerie nationale, les agents de police municipale exécutent, dans la limite de leurs attributions et sous son autorité, les tâches relevant de la compétence du maire que celui-ci leur confie en matière de prévention et de surveillance du bon ordre, de la tranquillité, de la sécurité et de la salubrité publiques.
+Sans préjudice de la compétence générale de la police nationale et de la gendarmerie nationale, les agents de police municipale exécutent, dans la limite de leurs attributions et sous son autorité, les tâches relevant de la compétence du maire que celui-ci leur confie en matière de prévention et de surveillance du bon ordre, de la tranquillité, de la sécurité et de la salubrité publiques.
 
 Ils sont chargés d'assurer l'exécution des arrêtés de police du maire et de constater par procès-verbaux les contraventions auxdits arrêtés. Sans préjudice des compétences qui leur sont dévolues par des lois spéciales, ils constatent également par procès-verbaux les contraventions aux dispositions du code de la route dont la liste est fixée par décret en Conseil d'Etat.
+
+Ils peuvent également constater par rapport le délit prévu par l'article L. 126-3 du code de la construction et de l'habitation.
 
 Ils exercent leurs fonctions sur le territoire communal, dans les conditions prévues aux quatrième à septième alinéas de l'article 21 du code de procédure pénale.
 

@@ -9,5 +9,6 @@
 - [Article 434-33](article-434-33.md)
 - [Article 434-34](article-434-34.md)
 - [Article 434-35](article-434-35.md)
+- [Article 434-35-1](article-434-35-1.md)
 - [Article 434-36](article-434-36.md)
 - [Article 434-37](article-434-37.md)
