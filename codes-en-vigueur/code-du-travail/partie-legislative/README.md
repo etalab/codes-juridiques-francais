@@ -5,7 +5,7 @@
 - [Livre Ier : Conventions relatives au travail](livre-ier)
 - [Livre II : Réglementation du travail](livre-ii)
 - [Livre 3 : PLACEMENT ET EMPLOI](livre-3)
-- [Livre III : EMPLOI](livre-iii)
+- [Livre III : PLACEMENT](livre-iii)
 - [Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés](livre-iv)
 - [Livre V : Conflits du travail](livre-v)
 - [Livre VI : Contrôle de l'application de la législation et de la réglementation du travail](livre-vi)
