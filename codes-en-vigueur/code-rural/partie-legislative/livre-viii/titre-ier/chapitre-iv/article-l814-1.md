@@ -1,6 +1,6 @@
 # Article L814-1
 
-Le Conseil national de l'enseignement agricole est présidé par le ministre de l'agriculture et composé de soixante membres ainsi répartis :
+Le Conseil national de l'enseignement agricole est présidé par le ministre de l'agriculture et composé de soixante-quatre membres ainsi répartis :
 
 1° a) Huit représentants de l'Etat ;
 
@@ -14,7 +14,9 @@ d) Six représentants des associations et organismes responsables d'établisseme
 
 3° a) Dix représentants des organisations représentatives des parents d'élèves de l'enseignement agricole dont deux au moins représentant les organisations représentatives des parents d'élèves des établissements d'enseignement agricole privés ayant passé un contrat avec l'Etat et un représentant des organisations nationales représentatives des associations familiales rurales ;
 
-b) Dix représentants des organisations professionnelles et syndicats représentatifs des employeurs, des exploitants et des salariés agricoles.
+b) Dix représentants des organisations professionnelles et syndicats représentatifs des employeurs, des exploitants et des salariés agricoles ;
+
+4° Quatre représentants des élèves et étudiants.
 
 Ce conseil peut également comprendre, à titre consultatif et dans la limite du dixième de ses membres, des personnalités désignées en raison de leurs compétences, notamment dans le domaine de la recherche et des activités para-agricoles.
 

@@ -16,6 +16,12 @@ Deux mois avant l'exécution des travaux, le preneur doit communiquer au bailleu
 
 Le preneur ne peut construire ou faire construire un bâtiment d'habitation sur un bien compris dans le bail que s'il a obtenu au préalable l'accord écrit du bailleur. Il exécute alors les travaux à ses frais et supporte les impôts et taxes afférents au bâtiment construit.
 
+En ce qui concerne les travaux imposés par l'autorité administrative, le preneur notifie au bailleur la proposition de réaliser les travaux.
+
+Le bailleur peut décider de les prendre en charge dans un délai fixé en accord avec le preneur.
+
+En cas de refus du bailleur ou s'il ne répond pas dans les deux mois de la notification, ou s'il ne respecte pas son engagement d'exécuter les travaux prescrits dans le délai convenu, le preneur est réputé disposer de l'accord du bailleur pour l'exécution de ces travaux.
+
 3. Pour tous autres travaux d'amélioration, le preneur doit obtenir l'autorisation du bailleur. A cet effet, il lui notifie sa proposition ainsi qu'à un comité technique départemental dont la composition et les conditions d'intervention sont fixées par décret en Conseil d'Etat. Le bailleur peut décider de les exécuter à ses frais dans un délai fixé en accord avec le preneur. S'il refuse ou s'il ne répond pas dans les deux mois de la notification, le preneur en informe le comité technique départemental qui dispose d'un délai de deux mois pour rendre son avis.
 
 Le preneur peut exécuter ou faire exécuter les travaux si aucune opposition à un avis favorable du comité n'a été formée par le bailleur auprès du tribunal paritaire, si le tribunal n'a pas admis la recevabilité ou le bien-fondé des motifs de l'opposition dont il a été saisi, ou si le bailleur n'a pas entrepris, dans le délai prévu, les travaux qu'il s'est engagé à exécuter.

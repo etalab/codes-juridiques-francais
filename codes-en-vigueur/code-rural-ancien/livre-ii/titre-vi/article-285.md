@@ -18,7 +18,7 @@ l'uvéite isolée ;
 
 l'anémie infectieuse des équidés.
 
-Sont considérés comme atteints d'anémie infectieuse des équidés et peuvent donner lieu à rédhibition les animaux qui ont fait l'objet d'une recherche de la maladie par des épreuves effectuées selon des procédés et critères approuvés par la commission nationale vétérinaire et dont le résultat a été reconnu positif par un laboratoire agréé par le ministre chargé de l'agriculture.
+Sont considérés comme atteints d'anémie infectieuse des équidés et peuvent donner lieu à rédhibition les animaux qui ont fait l'objet d'une recherche de la maladie par des épreuves effectuées selon des procédés et critères approuvés par la commission nationale vétérinaire et dont le résultat a été reconnu positif par un laboratoire agréé par le ministre de l'agriculture.
 
 Pour l'espèce porcine :
 
@@ -34,7 +34,11 @@ Sont considérés comme tuberculeux et peuvent donner lieu à rédhibition :
 
 2° les animaux qui ont réagi à l'épreuve de la tuberculine, exclusivement pratiquée suivant les procédés approuvés par le comité consultatif des épizooties ou qui ont été reconnus tuberculeux par tout autre procédé approuvé par ledit comité.
 
-Pour les espèces bovine et caprine :
+La rhino-trachéite infectieuse.
+
+Sont considérés comme atteints de rhino-trachéite infectieuse et peuvent donner lieu à rédhibition les animaux qui ont fait l'objet d'une recherche de la maladie par des épreuves effectuées selon des procédés et des critères fixés par le ministre chargé de l'agriculture avec résultat positif.
+
+Pour les espèces bovines, ovine et caprine :
 
 la brucellose.
 

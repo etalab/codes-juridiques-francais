@@ -24,6 +24,8 @@ Les conditions d'agrément de ces laboratoires ainsi que la nature de ces examen
 
 9° Les fonctionnaires ou agents mentionnés à l'article 309-7-1 et intervenant dans les limites prévues par ledit article.
 
+9° (10°) Les fonctionnaires et agents contractuels relevant du service des haras, des courses et de l'équitation du ministère chargé de l'agriculture peuvent être spécialement habilités à réaliser l'identification électronique complémentaire des équidés sous l'autorité médicale d'un vétérinaire, dans des conditions fixées par un décret en Conseil d'Etat.
+
 b) Les castrations des animaux autres que les équidés et les carnivores domestiques ;
 
 c) Les soins de première urgence autres que ceux nécessités par les maladies contagieuses.
