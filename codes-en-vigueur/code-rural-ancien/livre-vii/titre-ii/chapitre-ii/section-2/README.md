@@ -1,7 +1,6 @@
 # Section 2 : Cotisations.
 
 - [Article 1031](article-1031.md)
-- [Article 1031-1](article-1031-1.md)
 - [Article 1031-2](article-1031-2.md)
 - [Article 1031-3](article-1031-3.md)
 - [Article 1031-4](article-1031-4.md)
