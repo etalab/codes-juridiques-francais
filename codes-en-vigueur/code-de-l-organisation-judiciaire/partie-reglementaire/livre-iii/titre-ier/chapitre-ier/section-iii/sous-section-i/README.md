@@ -10,7 +10,6 @@
 - [Article R311-21](article-r311-21.md)
 - [Article R*311-22](article-r-311-22.md)
 - [Article R*311-23](article-r-311-23.md)
-- [Article R*311-24](article-r-311-24.md)
 - [Article R*311-25](article-r-311-25.md)
 - [Article R*311-26](article-r-311-26.md)
 - [Article R*311-27](article-r-311-27.md)

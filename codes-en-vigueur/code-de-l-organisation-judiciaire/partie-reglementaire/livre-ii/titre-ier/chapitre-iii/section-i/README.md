@@ -8,7 +8,6 @@
 - [Article R*213-6](article-r-213-6.md)
 - [Article R*213-7](article-r-213-7.md)
 - [Article R*213-8](article-r-213-8.md)
-- [Article R*213-9](article-r-213-9.md)
 - [Article R*213-10](article-r-213-10.md)
 - [Article R*213-11](article-r-213-11.md)
 - [Article R*213-12](article-r-213-12.md)
