@@ -3,7 +3,3 @@
 - [Chapitre I : Le tribunal des affaires de sécurité sociale (2).](chapitre-i)
 - [Chapitre II : Les commissions techniques de sécurité sociale](chapitre-ii)
 - [Article L411-1](article-l411-1.md)
-- [Article L411-5](article-l411-5.md)
-- [Article L411-6](article-l411-6.md)
-- [Article L411-7](article-l411-7.md)
-- [Article L411-10](article-l411-10.md)
