@@ -14,3 +14,4 @@
 - [Article R*131-12](article-r-131-12.md)
 - [Article R*131-13](article-r-131-13.md)
 - [Article R*131-17](article-r-131-17.md)
+- [Article R*131-18](article-r-131-18.md)
