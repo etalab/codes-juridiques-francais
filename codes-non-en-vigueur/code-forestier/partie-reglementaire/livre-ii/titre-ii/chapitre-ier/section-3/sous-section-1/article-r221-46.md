@@ -1,6 +1,6 @@
 # Article R221-46
 
-Les fonctions de président et d'administrateur de centre régional de la propriété forestière sont exclusives de toute rémunération sous quelque forme que ce soit.
+Les fonctions de président et d'administrateur de centre régional de la propriété forestière sont exclusives de toute rémunération sous quelque forme que ce soit. Toutefois, les présidents et les administrateurs des centres régionaux de la propriété forestière peuvent être indemnisés de la perte de leur temps de travail sur la base du salaire de l'ouvrier agricole le mieux rémunéré du département où le centre régional a son siège dans des conditions fixées par arrêté conjoint du ministre chargé du budget et du ministre de l'agriculture.
 
 Sont remboursés dans les conditions et modalités fixées pour le remboursement des frais occasionnés par les déplacements des personnels civils sur le territoire métropolitain lorsqu'ils sont à la charge des budgets des établissements publics nationaux à caractère administratif :
 

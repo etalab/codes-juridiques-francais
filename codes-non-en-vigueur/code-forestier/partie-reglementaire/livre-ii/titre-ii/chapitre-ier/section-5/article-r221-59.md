@@ -1,3 +1,5 @@
 # Article R221-59
 
-Le ministre de l'agriculture nomme, pour exercer les fonctions définies à l'article L. 221-7, auprès de chaque centre régional de la propriété forestière, un ingénieur délégué appartenant au corps des ingénieurs du génie rural, des eaux et des forêts.
+Le commissaire de la République de la région où le centre régional de la propriété forestière a son siège est le représentant de l'autorité supérieure remplissant le rôle de commissaire du Gouvernement mentionné à l'article L. 221-7.
+
+Il peut se faire suppléer par le secrétaire général pour les affaires régionales, le directeur régional de l'agriculture et de la forêt ou le chef du service chargé de la forêt et du bois à la direction régionale de l'agriculture et de la forêt.

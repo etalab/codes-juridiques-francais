@@ -1,6 +1,6 @@
 # Article R222-10
 
-Lorsqu'un propriétaire demande à bénéficier des dispositions des articles 703 ou 793 du code général des impôts relatives aux exonérations en matière de droits de mutation pour une forêt assujettie à l'établissement d'un plan simple de gestion, l'ingénieur délégué, dont l'intervention est prévue par les articles L. 221-7 et L. 222-3, doit :
+Lorsqu'un propriétaire demande à bénéficier des dispositions des articles 703 ou 793 du code général des impôts relatives aux exonérations en matière de droits de mutation pour une forêt assujettie à l'établissement d'un plan simple de gestion, le commissaire du Gouvernement dont l'intervention est prévue par les articles L. 221-7 et L. 222-3, doit :
 
 - soit approuver la confirmation par le centre du plan simple de gestion d'une forêt déjà agréé, dans le cas où le propriétaire a demandé le bénéfice des exonérations fiscales précitées ;
 
