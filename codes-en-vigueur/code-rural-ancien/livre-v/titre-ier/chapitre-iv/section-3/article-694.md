@@ -1,0 +1,3 @@
+# Article 694
+
+Le pécule attribué à tout militaire engagé, rengagé ou commissionné au moment de sa libération, dans les conditions déterminées par l'article 80 de la loi du 31 mars 1928 sur le recrutement de l'armée et les textes qui l'ont modifiée ou complétée, peut, avec le consentement ou sur la demande du militaire, être affecté, sans préjudice des sommes dues en exécution de l'article 75 de la loi précitée, à l'achat d'une propriété rurale, l'intéressé pouvant demander le surplus de la valeur du bien acquis, un prêt à une caisse de crédit agricole mutuel par application du présent livre. Dans ce cas, l'intérêt afférent au prêt est bonifié de 0,25 % à raison de chacun des enfants légitimes de l'emprunteur, vivants et âgés de moins de seize ans.
