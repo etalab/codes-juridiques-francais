@@ -5,4 +5,4 @@
 - [Titre 3 : Obligations du marin envers l'armateur et réglementation du travail à bord des navires](titre-3)
 - [Titre 4 : Obligations de l'armateur envers le marin](titre-4)
 - [Titre 6 : Dispositions spéciales à certaines catégories de marins](titre-6)
-- [Titre 7 : Litiges entre armateurs et marins](titre-7)
+- [Titre 7 : Des litiges entre armateurs et marins](titre-7)
