@@ -1,3 +1,3 @@
-# Section 2 : Périmètres d'actions forestières.
+# Section 2 : Entretien des terrains interdits de boisement.
 
 - [Article R*126-11](article-r-126-11.md)
