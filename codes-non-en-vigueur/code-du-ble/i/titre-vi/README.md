@@ -3,6 +3,7 @@
 - [Article 17](article-17.md)
 - [Article 19](article-19.md)
 - [Article 19 bis](article-19-bis.md)
+- [Article 19 ter](article-19-ter.md)
 - [Article 19 quater](article-19-quater.md)
 - [Article 20](article-20.md)
 - [Article 20 bis](article-20-bis.md)
