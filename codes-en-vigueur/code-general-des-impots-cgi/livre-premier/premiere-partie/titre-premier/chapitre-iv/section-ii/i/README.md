@@ -15,7 +15,6 @@
 - [Article 238 bis](article-238-bis.md)
 - [Article 238 bis-0 A](article-238-bis-0-a.md)
 - [Article 238 bis C](article-238-bis-c.md)
-- [Article 238 bis AA](article-238-bis-aa.md)
 - [Article 238 bis AB](article-238-bis-ab.md)
 - [Article 238 bis B](article-238-bis-b.md)
 - [Article 238 bis G](article-238-bis-g.md)
