@@ -7,4 +7,3 @@
 - [Article 199 ter](article-199-ter.md)
 - [Article 219 bis](article-219-bis.md)
 - [Article 220](article-220.md)
-- [Article 220 ter](article-220-ter.md)
