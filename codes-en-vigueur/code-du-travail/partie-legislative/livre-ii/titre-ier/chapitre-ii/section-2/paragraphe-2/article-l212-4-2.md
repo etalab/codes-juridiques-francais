@@ -6,7 +6,9 @@ Sont considérés comme horaires à temps partiel [*définition*] les horaires i
 
 Sont considérés comme salariés à temps partiel les salariés dont la durée de travail mensuelle est inférieure d'au moins un cinquième à celle qui résulte de l'application, sur cette même période, de la durée légale du travail ou de la durée du travail fixée conventionnellement pour la branche ou l'entreprise.
 
-Pour la détermination de la limite supérieure applicable aux horaires à temps partiel, la durée du travail à retenir est arrondie au nombre entier d'heures immédiatement supérieur à celui qui résulte de l'application des deux alinéas précédents.
+Sont également considérés comme salariés à temps partiel les salariés occupés selon une alternance de périodes travaillées et non travaillées dont la durée de travail annuelle est inférieure d'au moins un cinquième à celle qui résulte de l'application sur cette même période de la durée légale du travail ou de la durée du travail fixée conventionnellement pour la branche ou l'entreprise diminuée des heures correspondant aux jours de congés légaux ou conventionnels.
+
+Pour la détermination de la limite supérieure applicable aux horaires à temps partiel, la durée du travail à retenir est arrondie au nombre entier d'heures immédiatement supérieur à celui qui résulte de l'application des trois alinéas précédents.
 
 Les horaires de travail à temps partiel peuvent être pratiqués après avis du comité d'entreprise ou, à défaut, des délégués du personnel ; cet avis est transmis dans un délai de quinze jours à l'inspecteur du travail [*délai*].
 
@@ -20,6 +22,6 @@ Les périodes d'essai des salariés à temps partiel ne peuvent avoir une durée
 
 Compte tenu de la durée de leur travail et de leur ancienneté dans l'entreprise, leur rémunération est proportionnelle à celle du salarié qui, à qualification égale, occupe à temps complet un emploi équivalent dans l'établissement ou l'entreprise.
 
-Pour la détermination des droits liés à l'ancienneté, la durée de celle-ci est décomptée pour les salariés employés à temps partiel comme s'ils avaient été occupés à temps complet.
+Pour la détermination des droits liés à l'ancienneté, la durée de celle-ci est décomptée pour les salariés employés à temps partiel comme s'ils avaient été occupés à temps complet, les périodes non travaillées étant prises en compte en totalité.
 
 L'indemnité de licenciement et l'indemnité de départ à la retraite des salariés ayant été occupés à temps complet et à temps partiel dans la même entreprise sont calculées proportionnellement aux périodes d'emploi effectuées selon l'une et l'autre de ces deux modalités depuis leur entrée dans l'entreprise [*montant*].
