@@ -1,4 +1,4 @@
-# Section 1 : Organisation et fonctionnement de la commission de surendettement des particuliers.
+# Section 1 : Organisation et fonctionnement de la commission de surendettement des particuliers
 
 - [Article R331-1](article-r331-1.md)
 - [Article R331-2](article-r331-2.md)
