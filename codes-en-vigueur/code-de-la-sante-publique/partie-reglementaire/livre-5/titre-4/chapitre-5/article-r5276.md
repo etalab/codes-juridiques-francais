@@ -6,6 +6,6 @@ La demande d'homologation concerne un produit ou appareil ayant dépassé le sta
 
 La demande accompagnée du dossier technique est enregistrée par le secrétariat de la commission lorsque toutes les pièces requises sont fournies. Le demandeur est avisé de cet enregistrement.
 
-Un arrêté du ministre chargé de la santé fixe la liste des pièces qui doivent accompagner la demande d'homologation et de celles que doit comporter le dossier technique.
+Un arrêté du ministre chargé de la santé fixe la liste des pièces qui doivent accompagner la demande d'homologation ou de renouvellement d'homologation et de celles que doit comporter le dossier technique.
 
 Dans des cas exceptionnels, le ministre chargé de la santé peut autoriser la production d'un dossier simplifié.
