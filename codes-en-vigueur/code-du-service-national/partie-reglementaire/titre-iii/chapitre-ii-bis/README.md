@@ -11,3 +11,4 @@
 - [PARAGRAPHE 9 : Soins.](paragraphe-9)
 - [PARAGRAPHE 10 : Inaptitude physique.](paragraphe-10)
 - [PARAGRAPHE 11 : Libération du service actif.](paragraphe-11)
+- [PARAGRAPHE 12 : Dispositions diverses.](paragraphe-12)

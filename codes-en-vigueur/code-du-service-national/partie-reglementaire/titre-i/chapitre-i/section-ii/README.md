@@ -6,6 +6,7 @@
 - [Article R15-1](article-r15-1.md)
 - [Article R15-2](article-r15-2.md)
 - [Article R15-3](article-r15-3.md)
+- [Article R*15-4](article-r-15-4.md)
 - [Article R*16](article-r-16.md)
 - [Article R*16-1](article-r-16-1.md)
 - [Article R*17](article-r-17.md)
