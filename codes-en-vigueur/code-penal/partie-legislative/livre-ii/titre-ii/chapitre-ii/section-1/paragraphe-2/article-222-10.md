@@ -12,6 +12,8 @@ L'infraction définie à l'article 222-9 est punie de quinze ans de réclusion c
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
 
+5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une race ou une religion déterminée ;
+
 6° Par le conjoint ou le concubin de la victime ;
 
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission ;
