@@ -12,7 +12,7 @@ Les poissons et écrevisses des espèces précisées ci-après ne peuvent être 
 
 0,35 mètre pour la truite de mer et le cristivomer ;
 
-0,35 mètre pour le sandre dans les eaux de la 2e catégorie ;
+0,40 mètre pour le sandre dans les eaux de la 2e catégorie ;
 
 0,30 mètre pour les aloses, l'ombre commun et le corégone ;
 
