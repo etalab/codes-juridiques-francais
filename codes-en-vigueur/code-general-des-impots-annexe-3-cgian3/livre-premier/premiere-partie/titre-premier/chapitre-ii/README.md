@@ -8,7 +8,6 @@
 - [Section II bis : Déclarations concernant les revenus de capitaux mobiliers](section-ii-bis)
 - [Section II ter : Déclaration à produire par les entreprises nouvelles bénéficiant des dispositions de l'article 44 sexies du code général des impôts](section-ii-ter)
 - [Section III : Restitution d'impôts consécutive au remboursement des sommes visées à l'article 111 du code général des impôts](section-iii)
-- [Section V : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales.](section-v)
 - [Section V bis : Crédit d'impôt pour dépenses de formation.](section-v-bis)
 - [Section V ter : Crédit d'impôt pour accroissement de la durée d'utilisation des équipements et pour réduction de la durée hebdomadaire de travail.](section-v-ter)
 - [Section VI : Indemnités de congé payé](section-vi)
