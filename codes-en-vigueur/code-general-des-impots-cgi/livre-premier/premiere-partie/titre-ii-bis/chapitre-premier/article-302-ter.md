@@ -1,6 +1,6 @@
 # Article 302 ter
 
-1. Le chiffre d'affaires et le bénéfice imposables sont fixés forfaitairement en ce qui concerne les entreprises dont le chiffre d'affaires annuel n'excède pas 500.000 F s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place, ou de fournir le logement, ou 150.000 F [*montant plafond*] s'il s'agit d'autres entreprises.
+1. Le chiffre d'affaires et le bénéfice imposables sont fixés forfaitairement en ce qui concerne les entreprises dont le chiffre d'affaires annuel n'excède pas 500.000 F s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place, ou de fournir le logement, ou 150.000 F s'il s'agit d'autres entreprises.
 
 Lorsque l'activité d'une entreprise ressortit à la fois aux deux catégories définies ci-dessus, le régime du forfait n'est applicable que si son chiffre d'affaires global annuel n'excède pas 500.000 F et si le chiffre d'affaires annuel afférent aux activités de la deuxième catégorie ne dépasse pas 150.000 F.
 
@@ -13,6 +13,8 @@ Pour la détermination du chiffre d'affaires annuel, les ventes d'essence, de su
 Ces dispositions ne sont pas applicables en cas de changement d'activité.
 
 2. Sont exclues du régime du forfait :
+
+((les sociétés ou organismes dont les résultats sont imposés selon le régime des sociétés de personnes défini à l'article 8, à l'exception des sociétés civiles soumises au régime du bénéfice forfaitaire agricole dont l'activité principale entre dans le champ d'application de l'article 63 et qui sont visées au 2 de l'article 206)) (1)
 
 - les personnes morales passibles de l'impôt sur les sociétés;
 
@@ -28,7 +30,7 @@ Les opérations visées au 8° du I de l'article 35 ;
 
 3 et 4  (Abrogés).
 
-5. Les forfaits de chiffre d'affaires et de bénéfice sont établis par année civile (1) et pour une période de deux ans; les montants servant de base à l'impôt peuvent être différents pour chacune des deux années de cette période.
+5. Les forfaits de chiffre d'affaires et de bénéfice sont établis par année civile (2) et pour une période de deux ans; les montants servant de base à l'impôt peuvent être différents pour chacune des deux années de cette période.
 
 6. Les forfaits sont conclus après l'expiration de la première année de la période biennale pour laquelle ils sont fixés.
 
@@ -44,4 +46,6 @@ Les opérations visées au 8° du I de l'article 35 ;
 
 10. (Transféré sous l'article L8 du livre des procédures fiscales).
 
-(1) En cas de passage du régime du bénéfice réel ou du régime simplifié à celui du forfait, voir Annexe II, art. 38.
+(1) Modification de la loi. Cette disposition s'applique pour la détermination des résultats imposables des exercices ouverts à compter du 1er janvier 1996. [*Cf. Instruction 1996-08-20 4G-3-96.*]
+
+(2) En cas de passage du régime du bénéfice réel ou du régime simplifié à celui du forfait, voir Annexe II, art. 38.
