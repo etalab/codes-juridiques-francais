@@ -19,3 +19,4 @@
 - [Article L263-24](article-l263-24.md)
 - [Article L263-25](article-l263-25.md)
 - [Article L263-26](article-l263-26.md)
+- [Article L263-27](article-l263-27.md)
