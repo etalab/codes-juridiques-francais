@@ -7,4 +7,3 @@
 - [Chapitre V : Pouvoirs d'enquête](chapitre-v)
 - [Chapitre VI : Dispositions communes](chapitre-vi)
 - [Chapitre VII : Dispositions particulières](chapitre-vii)
-- [Chapitre VIII : Prévention en matière d'alimentation humaine et animale](chapitre-viii)
