@@ -4,4 +4,4 @@ Les dispositions du présent livre ont pour objet de fixer les règles relatives
 
 A ces habitations peuvent être adjoints, dans les conditions fixées par décision administrative, des jardins, dépendances ou annexes.
 
-En outre, les ensembles d'habitations mentionnés aux premiers alinéas peuvent comprendre accessoirement des locaux à usage commun et toutes constructions nécessaires à la vie économique et sociale de ces ensembles, à l'exclusion des débits de boissons des catégories 2, 3 et 4 indiquées à l'article L. 22 du code des débits de boissons et des mesures contre l'alcoolisme.
+En outre, les ensembles d'habitations mentionnés aux premiers alinéas peuvent comprendre accessoirement des locaux à usage commun et toutes constructions nécessaires à la vie économique et sociale de ces ensembles.
