@@ -17,3 +17,6 @@
 - [Article R*213-15](article-r-213-15.md)
 - [Article R*213-16](article-r-213-16.md)
 - [Article R*213-17](article-r-213-17.md)
+- [Article R*213-17-1](article-r-213-17-1.md)
+- [Article R*213-17-2](article-r-213-17-2.md)
+- [Article R*213-17-3](article-r-213-17-3.md)
