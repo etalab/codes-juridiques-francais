@@ -1,4 +1,4 @@
-# Section 2 : Des sanctions disciplinaires et des mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale
+# Section 2 : Du régime disciplinaire et des mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale
 
-- [Paragraphe 1er : Sanctions disciplinaires](paragraphe-1er)
+- [Paragraphe 1er : Du régime disciplinaire](paragraphe-1er)
 - [Paragraphe 2 : Mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale](paragraphe-2)
