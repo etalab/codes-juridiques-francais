@@ -9,4 +9,3 @@
 - [Code des marchés publics](code-des-marches-publics)
 - [Code forestier](code-forestier)
 - [Code général des collectivités territoriales](code-general-des-collectivites-territoriales)
-- [Code des débits de boissons et des mesures contre l'alcoolisme](code-des-debits-de-boissons-et-des-mesures-contre-l-alcoolisme)
