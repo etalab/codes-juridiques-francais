@@ -12,4 +12,3 @@
 - [Article D245-10](article-d245-10.md)
 - [Article D245-11](article-d245-11.md)
 - [Article D245-12](article-d245-12.md)
-- [Article D245-13](article-d245-13.md)
