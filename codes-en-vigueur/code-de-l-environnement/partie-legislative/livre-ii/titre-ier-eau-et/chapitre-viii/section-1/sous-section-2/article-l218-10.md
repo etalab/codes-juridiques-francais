@@ -1,6 +1,6 @@
 # Article L218-10
 
-I. - Est puni de deux ans d'emprisonnement et de 1 000 000 F d'amende le fait, pour tout capitaine d'un navire français soumis aux dispositions de la convention internationale pour la prévention de la pollution par les navires, faite à Londres le 2 novembre 1973, telle que modifiée par le protocole du 17 février 1978 et par ses modificatifs ultérieurs régulièrement approuvés ou ratifiés, entrant dans les catégories ci-après :
+I. - Est puni de quatre ans d'emprisonnement et de 600 000 euros d'amende le fait, pour tout capitaine d'un navire français soumis aux dispositions de la convention internationale pour la prévention de la pollution par les navires, faite à Londres le 2 novembre 1973, telle que modifiée par le protocole du 17 février 1978 et par ses modificatifs ultérieurs régulièrement approuvés ou ratifiés, entrant dans les catégories ci-après :
 
 1° Navires-citernes d'une jauge brute égale ou supérieure à 150 tonneaux ;
 
