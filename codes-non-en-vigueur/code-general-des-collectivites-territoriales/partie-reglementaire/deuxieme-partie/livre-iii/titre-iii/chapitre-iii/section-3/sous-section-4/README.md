@@ -5,6 +5,7 @@
 - [Article D2333-17](article-d2333-17.md)
 - [Article D2333-18](article-d2333-18.md)
 - [Article D2333-19](article-d2333-19.md)
+- [Article D2333-21](article-d2333-21.md)
 - [Article D2333-23](article-d2333-23.md)
 - [Article D2333-25](article-d2333-25.md)
 - [Article D2333-26](article-d2333-26.md)
