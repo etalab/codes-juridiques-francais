@@ -1,3 +1,0 @@
-# COMITE DES FINANCES LOCALES
-
-- [Article L234-20](article-l234-20.md)

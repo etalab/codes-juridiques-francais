@@ -1,8 +1,6 @@
 # CALCUL DE L'IMPOT.
 
 - [Article 187](article-187.md)
-- [Article 194](article-194.md)
-- [Article 195](article-195.md)
 - [Article 196 bis](article-196-bis.md)
 - [Article 196 A](article-196-a.md)
 - [Article 196 B](article-196-b.md)

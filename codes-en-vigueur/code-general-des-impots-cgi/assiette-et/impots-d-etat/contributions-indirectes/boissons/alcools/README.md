@@ -51,5 +51,4 @@
 - [Article 399](article-399.md)
 - [Article 400](article-400.md)
 - [Article 403](article-403.md)
-- [Article 406 D](article-406-d.md)
 - [Article 406 A](article-406-a.md)
