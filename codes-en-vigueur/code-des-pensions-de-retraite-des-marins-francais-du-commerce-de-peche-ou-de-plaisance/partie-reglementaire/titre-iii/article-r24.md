@@ -10,9 +10,9 @@ Marins (cas général)
 
 Contribution patronale (%) : 17,70
 
-Cotisation ouvrière (%)    : 10,90
+Cotisation ouvrière (%)    : 11,90
 
-TOTAL                      : 28,60
+TOTAL                      : 29,60
 
 DESIGNATION :
 
@@ -20,9 +20,9 @@ Etrangers admis à concourir à pension
 
 Contribution patronale (%) : 17,70
 
-Cotisation ouvrière (%)    : 10,90
+Cotisation ouvrière (%)    : 11,90
 
-TOTAL                      : 28,60
+TOTAL                      : 29,60
 
 DESIGNATION :
 
