@@ -16,7 +16,7 @@ V  Le taux maximum de la taxe est fixé ainsi qu'il suit par kilogramme de viand
 
 - pour la viande de porc : 0,25 % du prix de base communautaire par kilogramme de viande de porc abattu;
 
-- pour la viande de mouton : 0,09 % du prix de seuil, tel qu'il est fixé par l'office national interprofessionnel bétail-viande par kilogramme de viande de mouton.
+- pour la viande de mouton : 0,09 % du prix de base communautaire par kilogramme de viande de mouton.
 
 Un arrêté conjoint du ministre de l'économie et des finances et du ministre de l'agriculture fixe le taux de la taxe dans la limite des maxima ci-dessus (1) et les montants en F/kilogramme net applicables pour une année civile et par espèce compte tenu des modalités mentionnées à l'article 302 bis G du code général des impôts.
 

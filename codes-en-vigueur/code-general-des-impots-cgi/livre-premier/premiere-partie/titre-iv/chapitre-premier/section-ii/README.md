@@ -8,4 +8,5 @@
 - [VI : Mutations à titre gratuit](vi)
 - [VII : Actes et conventions concernant les sociétés, personnes morales et groupements](vii)
 - [IX : Actes des huissiers de justice](ix)
+- [X : Inscriptions de privilèges et d'hypothèques](x)
 - [XI : Actes divers](xi)

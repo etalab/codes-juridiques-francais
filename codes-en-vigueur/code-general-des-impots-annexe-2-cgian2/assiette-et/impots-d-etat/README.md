@@ -1,7 +1,6 @@
 # IMPOTS D'ETAT
 
 - [CONTRIBUTIONS INDIRECTES](contributions-indirectes)
-- [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE](droits-d-enregistrement-et)
 - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE](enregistrement-publicite-fonciere-et)
 - [IMPOTS DIRECTS ET TAXES ASSIMILEES](impots-directs-et)
 - [IMPOTS DIRECTS](impots-directs)
