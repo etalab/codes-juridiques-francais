@@ -1,0 +1,17 @@
+# Section 1 : De la faculté de rachat.
+
+- [Article 1659](article-1659.md)
+- [Article 1660](article-1660.md)
+- [Article 1661](article-1661.md)
+- [Article 1662](article-1662.md)
+- [Article 1663](article-1663.md)
+- [Article 1664](article-1664.md)
+- [Article 1665](article-1665.md)
+- [Article 1666](article-1666.md)
+- [Article 1667](article-1667.md)
+- [Article 1668](article-1668.md)
+- [Article 1669](article-1669.md)
+- [Article 1670](article-1670.md)
+- [Article 1671](article-1671.md)
+- [Article 1672](article-1672.md)
+- [Article 1673](article-1673.md)

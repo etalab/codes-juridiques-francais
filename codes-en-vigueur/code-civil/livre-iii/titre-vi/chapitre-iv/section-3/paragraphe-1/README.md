@@ -1,0 +1,17 @@
+# Paragraphe 1 : De la garantie en cas d'éviction.
+
+- [Article 1626](article-1626.md)
+- [Article 1627](article-1627.md)
+- [Article 1628](article-1628.md)
+- [Article 1629](article-1629.md)
+- [Article 1630](article-1630.md)
+- [Article 1631](article-1631.md)
+- [Article 1632](article-1632.md)
+- [Article 1633](article-1633.md)
+- [Article 1634](article-1634.md)
+- [Article 1635](article-1635.md)
+- [Article 1636](article-1636.md)
+- [Article 1637](article-1637.md)
+- [Article 1638](article-1638.md)
+- [Article 1639](article-1639.md)
+- [Article 1640](article-1640.md)
