@@ -19,3 +19,5 @@ b) Les membres non-salariés de leur famille travaillant sur l'exploitation ou d
 c) Les organismes mentionnés au 6° de l'article L. 722-20.
 
 Les personnes qui bénéficient des prestations en nature de l'assurance maladie du régime des salariés agricoles en qualité de titulaire d'un avantage de vieillesse, d'un avantage d'invalidité ou d'une rente d'accident du travail de ce régime sont rattachées au deuxième collège. Les personnes qui bénéficient des prestations en nature de l'assurance maladie du régime des non-salariés agricoles, en qualité de titulaires d'un avantage de vieillesse ou d'invalidité de ce régime, sont rattachées au collège électoral auquel elles appartenaient à la date de cessation de leur activité agricole non-salariée.
+
+Les personnes qui, du fait d'une activité agricole exercée précédemment, continuent d'avoir droit aux prestations d'assurance maladie sont rattachées au collège dont elles relevaient avant de cesser leur activité.

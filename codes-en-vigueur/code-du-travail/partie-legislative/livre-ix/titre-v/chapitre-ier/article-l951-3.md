@@ -16,7 +16,7 @@ b)  La rémunération des salariés en congé, les cotisations de sécurité soc
 
 c) Le remboursement aux employeurs occupant moins de cinquante salariés de tout ou partie de l'indemnité versée en application de l'article L. 122-3-5 du présent code au salarié recruté par contrat à durée déterminée pour remplacer un salarié parti en congé individuel de formation ;
 
-d) Les frais de gestion des organismes paritaires agréés, dans les limites fixées par arrêté conjoint du ministre chargé du budget et du ministre chargé de la formation professionnelle.
+d) Les frais de gestion et d'information des organismes paritaires agréés, dans les limites fixées par arrêté du ministre chargé de la formation professionnelle.
 
 Les emplois de fonds qui ne répondent pas aux règles posées par le présent article et par les textes pris pour son application donnent lieu à un reversement de même montant par l'organisme paritaire agréé au Trésor public.
 

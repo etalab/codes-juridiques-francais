@@ -2,7 +2,7 @@
 
 La procédure de mise en demeure prévue à l'article L. 231-4 est applicable en cas d'infraction aux dispositions du présent titre et des décrets pris pour son application qui sont relatives :
 
-Aux conditions de qualification exigées des médecins et des infirmières ou infirmiers des services médicaux du travail ;
+Aux conditions de qualification exigées des médecins et des infirmières ou infirmiers des services de santé au travail ;
 
 Aux modalités d'établissement du contrat de travail des médecins du travail ;
 
@@ -16,6 +16,6 @@ A l'obligation de former des secouristes dans les ateliers où sont effectués d
 
 A l'organisation d'un service de garde de nuit dans les établissements travaillant de jour et de nuit ;
 
-A l'installation matérielle du service médical du travail.
+A l'installation matérielle du service de santé au travail.
 
 Le délai minimum de la mise en demeure est fixé à un mois.

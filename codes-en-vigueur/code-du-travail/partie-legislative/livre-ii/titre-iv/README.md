@@ -1,4 +1,4 @@
-# Titre IV : Médecine du travail.
+# Titre IV : Services de santé au travail.
 
 - [Article L241-1](article-l241-1.md)
 - [Article L241-2](article-l241-2.md)

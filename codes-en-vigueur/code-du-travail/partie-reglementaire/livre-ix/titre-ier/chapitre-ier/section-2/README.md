@@ -1,4 +1,4 @@
-# Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi.
+# Section 2 : Attributions, composition et fonctionnement des comités départementaux de l'emploi.
 
 - [Article D910-7](article-d910-7.md)
 - [Article D910-8](article-d910-8.md)

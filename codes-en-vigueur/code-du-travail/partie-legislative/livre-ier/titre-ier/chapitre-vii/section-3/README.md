@@ -4,3 +4,4 @@
 - [Article L117-15](article-l117-15.md)
 - [Article L117-16](article-l117-16.md)
 - [Article L117-17](article-l117-17.md)
+- [Article L117-18](article-l117-18.md)

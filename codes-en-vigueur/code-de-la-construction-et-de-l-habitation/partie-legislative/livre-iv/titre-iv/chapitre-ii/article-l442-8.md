@@ -6,6 +6,4 @@ Les contrevenants sont exclus de tous les avantages et bénéfices concédés pa
 
 Les dispositions des alinéas qui précèdent ne sont pas applicables aux oeuvres de caractère social, telles que les maisons d'étudiants et les foyers de travailleurs, dès lors qu'elles ne poursuivent aucun but lucratif. Ces dispositions ne sont pas non plus applicables aux logements pour étudiants et aux logements-foyers gérés directement par un organisme d'habitations à loyer modéré et qui répondent à des conditions fixées par décret en Conseil d'Etat.
 
-Le loyer des maisons destinées à l'habitation collective qui sont affectées à des locations meublées peut être majoré du prix de location des meubles. Ce dernier prix ne doit pas lui-même dépasser le montant du loyer principal calculé suivant les dispositions en vigueur en matière d'habitations à loyer modéré.
-
 Peuvent être exigés en sus le montant des prestations, taxes et fournitures individuelles et tous impôts et taxes perçus à l'occasion des locations en meublé.

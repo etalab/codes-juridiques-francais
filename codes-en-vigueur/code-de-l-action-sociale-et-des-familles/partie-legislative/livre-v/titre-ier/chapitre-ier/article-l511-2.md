@@ -1,3 +1,3 @@
 # Article L511-2
 
-Un décret en Conseil d'Etat fixe, pour ces départements, les mesures rendues nécessaires pour l'application de l'article L. 511-1.
+Toute personne dénuée de ressources et âgée de plus de seize ans doit recevoir de la commune dans laquelle elle se trouve un abri, l'entretien indispensable, les soins et prescriptions nécessaires en cas de maladie ainsi que des funérailles décentes. L'aide est accordée sans préjudice du droit de réclamer le remboursement des frais à la commune dans laquelle la personne dénuée de ressources a son domicile de secours communal.
