@@ -7,7 +7,7 @@
 - [Chapitre V : De la discipline et de la sécurité des prisons](chapitre-v)
 - [Chapitre VI : Des mouvements de détenus](chapitre-vi)
 - [Chapitre VII : De la gestion des biens et de l'entretien des détenus](chapitre-vii)
-- [Chapitre VIII : De l'hygiène et du service sanitaire](chapitre-viii)
+- [Chapitre VIII : De l'hygiène et de l'organisation sanitaire](chapitre-viii)
 - [Chapitre IX : Des relations des détenus avec l'extérieur](chapitre-ix)
 - [Chapitre X : Des actions de préparation à la réinsertion des détenus](chapitre-x)
 - [Chapitre XI : De différentes catégories de détenus](chapitre-xi)
