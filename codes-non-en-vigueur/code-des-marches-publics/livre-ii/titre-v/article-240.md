@@ -1,21 +1,35 @@
 # Article 240
 
-Le comité comprend six membres :
+I. - Le Comité consultatif national comprend six membres qui ont voix délibérative, savoir :
 
-Un conseiller d'Etat ou un conseiller maître à la Cour des comptes, en activité ou en retraite, président ;
+1° Un conseiller d'Etat ou un conseiller maître à la Cour des comptes, en activité ou honoraire, président ;
 
-Un membre du Conseil d'Etat ou un magistrat de la Cour des comptes, en activité ou en retraite, ayant au moins le grade de maître des requêtes ou de conseiller référendaire, vice-président ;
+2° Un membre du Conseil d'Etat ou un magistrat de la Cour des comptes, en activité ou honoraire, vice-président ;
 
-Deux fonctionnaires, en activité, du ou des départements ministériels concernés par l'affaire soumise au comité ;
+3° Deux fonctionnaires, en activité ou honoraires qui appartiennent ou qui, lorsqu'ils étaient en activité, appartenaient au département ministériel concerné par l'affaire soumise au comité ;
 
-Deux représentants de la profession à laquelle appartient l'entreprise intéressée.
+4° Deux personnalités compétentes appartenant au même secteur d'activité que le titulaire du marché.
 
-Le président et le vice-président sont nommés par arrêté du Premier ministre, sur proposition du vice-président du Conseil d'Etat et du premier président de la Cour des comptes. Ils ne peuvent tous deux appartenir au même corps.
+Le comité comprend en outre un représentant du ministre chargé du budget, qui a voix consultative.
 
-Si le nombre d'affaires soumises au comité le rend nécessaire, il peut être nommé d'autres vice-présidents, choisis dans les mêmes conditions que le vice-président précité. La séance est alors présidée soit par le président du comité, soit par l'un des vice-présidents, l'assesseur étant un autre vice-président. Si le président de séance appartient au Conseil d'Etat, le vice-président doit être un magistrat à la Cour des comptes et réciproquement.
+II. - Chaque comité consultatif régional ou interrégional comprend six membres qui ont voix délibérative, à savoir :
 
-Les autres membres du comité sont désignés à l'occasion de chaque affaire par le président sur des listes arrêtées comme il est dit ci-dessous.
+1° Un président et un vice-président choisis parmi les magistrats de l'ordre administratif, en activité ou honoraires ;
 
-Pour chaque département ministériel, un arrêté du ministre fixe la liste des fonctionnaires compétents pour siéger au comité.
+2° Deux fonctionnaires de l'Etat, en activité ou honoraires, dont l'un au moins appartient ou, lorsqu'il était en activité, appartenait au département ministériel concerné par l'affaire soumise au comité ;
 
-Pour chaque profession, le ministre responsable du secteur d'activité fixe, après consultation des organisations professionnelles les plus représentatives, la liste des personnes compétentes pour siéger au comité.
+3° Deux personnalités compétentes appartenant au même secteur d'activité que le titulaire du marché.
+
+Chaque comité comprend, en outre, le comptable public assignataire des paiements relatifs au marché litigieux, qui a voix consultative.
+
+III. - Le président et le vice-président de chaque comité sont nommés par arrêté du Premier ministre, sur proposition, selon le cas, du vice-président du Conseil d'Etat ou du premier président de la Cour des comptes. Ils ne peuvent appartenir au même corps.
+
+Leur mandat est limité à cinq ans ; il est renouvelable.
+
+Si le nombre des affaires soumises à un comité le rend nécessaire, d'autres vice-présidents, choisis dans les mêmes conditions, peuvent être nommés. La séance est alors présidée soit par le président du comité, soit par l'un des vice-présidents, l'assesseur étant un autre vice-président, qui ne peut appartenir au même corps.
+
+Les autres membres de chaque comité sont choisis à l'occasion de chaque affaire par le président sur des listes établies par le Premier ministre.
+
+Les listes de fonctionnaires sont établies, pour chaque comité, après avis du ministre compétent. Les listes de personnalités compétentes sont établies après consultation des organisations professionnelles les plus représentatives et après avis du ministre responsable du secteur d'activité, pour le comité national, du préfet dans le ressort duquel ces personnalités ont leur domicile, pour les comités régionaux ou interrégionaux.
+
+Les membres d'un comité ne doivent pas avoir eu à connaître antérieurement de l'affaire qui leur est soumise.
