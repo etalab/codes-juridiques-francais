@@ -5,4 +5,3 @@
 - [Article L5211-28](article-l5211-28.md)
 - [Article L5211-29](article-l5211-29.md)
 - [Article L5211-30](article-l5211-30.md)
-- [Article L5211-31](article-l5211-31.md)

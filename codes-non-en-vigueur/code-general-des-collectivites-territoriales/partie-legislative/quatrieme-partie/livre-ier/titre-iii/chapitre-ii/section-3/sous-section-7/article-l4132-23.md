@@ -9,3 +9,5 @@ Dans les conditions qu'il définit, le conseil régional peut affecter aux group
 Le président du conseil régional peut, dans les conditions fixées par le conseil régional et sur proposition des représentants de chaque groupe, affecter aux groupes d'élus une ou plusieurs personnes. Le conseil régional ouvre au budget de la région, sur un chapitre spécialement créé à cet effet, les crédits nécessaires à ces dépenses, sans qu'ils puissent excéder 25 p. 100 du montant total des indemnités versées chaque année aux membres du conseil régional.
 
 Le président du conseil régional est l'ordonnateur des dépenses susmentionnées.
+
+L'élu responsable de chaque groupe d'élus décide des conditions et des modalités d'exécution du service confié que ces collaborateurs accomplissent auprès de ces groupes au sein de l'organe délibérant.

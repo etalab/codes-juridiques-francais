@@ -7,8 +7,4 @@
 - [Article L5211-5](article-l5211-5.md)
 - [Article L5211-6](article-l5211-6.md)
 - [Article L5211-7](article-l5211-7.md)
-- [Article L5211-8](article-l5211-8.md)
-- [Article L5211-9](article-l5211-9.md)
-- [Article L5211-10](article-l5211-10.md)
-- [Article L5211-11](article-l5211-11.md)
 - [Article L5211-12](article-l5211-12.md)

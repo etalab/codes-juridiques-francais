@@ -1,4 +1,3 @@
-# Section 2 : Commission départementale de la coopération intercommunale
+# Section 2 : Création
 
-- [Sous-section 1 : Composition.](sous-section-1)
-- [Sous-section 2 : Attributions.](sous-section-2)
+- [Article L5211-5](article-l5211-5.md)
