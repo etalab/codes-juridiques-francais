@@ -1,6 +1,6 @@
 # Article R321-8
 
-La communication des comptes annuels des sociétés de perception et de répartition des droits, prévue en application du 1° de l'article L. 321-5 à tout associé et en application du premier alinéa de l'article L. 321-12, au ministre chargé de la culture doit comporter :
+La communication des comptes annuels des sociétés de perception et de répartition des droits, prévue en application de l'article R. 321-6-1 à tout associé et en application du premier alinéa de l'article L. 321-12, au ministre chargé de la culture doit comporter :
 
 A. - En ce qui concerne la gestion financière de la société :
 
