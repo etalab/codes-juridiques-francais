@@ -14,4 +14,4 @@ b) Toutes les autres contraventions prévues à l'article R. 248 (1° et 2°) lo
 
 3° Les agents des douanes ont compétence pour constater par procès-verbal les contraventions aux dispositions des articles R. 48 à R. 51, R. 53-2 et R. 54 à R. 58 du présent code ;
 
-4° Les agents du concessionnaire d'une autoroute ou d'un ouvrage routier ouvert à la circulation publique et régulièrement soumis à péage ont, après avoir été agréés par le commissaire de la République et été assermentés conformément à l'article R. 252 ci-après, compétence pour constater par procès-verbal les contraventions aux dispositions des articles R. 43-9 et R. 235-1 du présent code.
+4° Les agents du concessionnaire d'une autoroute ou d'un ouvrage routier ouvert à la circulation publique et régulièrement soumis à péage ont, après avoir été agréés par le commissaire de la République et été assermentés conformément à l'article R. 252 ci-après, compétence pour constater par procès-verbal les contraventions aux dispositions des articles R. 43-9 et R. 235-1 du présent code ainsi que les infractions prévues aux articles R.211-14, R.211-17, R.211-21-1, R.211-21-2 du code des assurances.
