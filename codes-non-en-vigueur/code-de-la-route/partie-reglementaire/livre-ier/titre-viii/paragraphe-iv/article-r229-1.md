@@ -4,7 +4,7 @@ Peuvent effectuer des missions de police de circulation en qualité d'agents dû
 
 1° Les gendarmes auxiliaires placés sous le commandement de militaires de la gendarmerie ;
 
-2° Les policiers auxiliaires placés sous le commandement de fonctionnaires de la police nationale ;
+2° Les policiers auxiliaires et adjoints de sécurité placés sous le commandement de fonctionnaires de la police nationale ;
 
 3° Certains personnels militaires des unités de circulation de l'arme du train pour assurer l'acheminement des véhicules militaires.
 
