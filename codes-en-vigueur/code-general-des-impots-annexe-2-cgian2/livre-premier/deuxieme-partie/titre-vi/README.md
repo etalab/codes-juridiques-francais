@@ -7,7 +7,7 @@
 - [Chapitre VII : Taxe parafiscale pour le financement de certains organismes interprofessionnels de vins.](chapitre-vii)
 - [Chapitre VIII : Taxe perçue au profit du comité de développement des industries françaises de l'ameublement.](chapitre-viii)
 - [Chapitre IX : Fonds national de développement agricole](chapitre-ix)
-- [Chapitre X : Taxe parafiscale des industries de l'habillement et de la maille.](chapitre-x)
+- [Chapitre X : Taxe parafiscale des industries de l'habillement](chapitre-x)
 - [Chapitre XI : Taxe parafiscale de stockage du secteur céréalier.](chapitre-xi)
 - [Chapitre XII : Taxe parafiscale pour le financement des actions du secteur céréalier.](chapitre-xii)
 - [Chapitre XIII : Taxe parafiscale perçue au profit du bureau national interprofessionnel des calvados et eaux-de-vie de cidre et de poiré.](chapitre-xiii)
