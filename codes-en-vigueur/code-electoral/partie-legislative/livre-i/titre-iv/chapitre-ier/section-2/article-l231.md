@@ -4,21 +4,21 @@ Ne sont pas éligibles dans le ressort où ils exercent ou ont exercé leurs fon
 
 Ne peuvent être élus conseillers municipaux dans les communes situées dans le ressort où ils exercent ou ont exercé leurs fonctions depuis moins de six mois :
 
-1° Les magistrats des cours d'appel  ;
+1° Les magistrats des cours d'appel ;
 
-2° Les membres des tribunaux administratifs et des chambres régionales des comptes  ;
+2° Les membres des tribunaux administratifs et des chambres régionales des comptes ;
 
-3° Les officiers des armées de terre, de mer et de l'air, dans les communes comprises dans le ressort de leur commandement territorial  ;
+3° Les officiers des armées de terre, de mer et de l'air, dans les communes comprises dans le ressort de leur commandement territorial ;
 
-4° Les magistrats des tribunaux de grande instance et d'instance  ;
+4° Les magistrats des tribunaux de grande instance et d'instance ;
 
-5° Les fonctionnaires des corps actifs de la police nationale  ;
+5° Les fonctionnaires des corps actifs de la police nationale ;
 
-6° Les comptables des deniers communaux et les entrepreneurs de services municipaux  ;
+6° Les comptables des deniers communaux agissant en qualité de fonctionnaire et les entrepreneurs de services municipaux ;
 
-7° Les directeurs et les chefs de bureau de préfecture et les secrétaires en chef de sous-préfecture  ;
+7° Les directeurs et les chefs de bureau de préfecture et les secrétaires en chef de sous-préfecture ;
 
-8° Les directeurs de cabinet du président du conseil général et du président du conseil régional, les directeurs généraux, les directeurs, les directeurs adjoints, chefs de service et chefs de bureau de conseil général et de conseil régional, le directeur de cabinet du président de l'assemblée et le directeur de cabinet du président du conseil exécutif de Corse, les directeurs généraux, les directeurs, les directeurs adjoints, chefs de service et chefs de bureau de la collectivité territoriale de Corse et de ses établissements publics ;.
+8° Les directeurs de cabinet du président du conseil général et du président du conseil régional, les directeurs généraux, les directeurs, les directeurs adjoints, chefs de service et chefs de bureau de conseil général et de conseil régional, le directeur de cabinet du président de l'assemblée et le directeur de cabinet du président du conseil exécutif de Corse, les directeurs généraux, les directeurs, les directeurs adjoints, chefs de service et chefs de bureau de la collectivité territoriale de Corse et de ses établissements publics ;
 
 9° En tant que chargés d'une circonscription territoriale de voirie : les ingénieurs en chef, ingénieurs divisionnaires et ingénieurs des travaux publics de l'Etat, les chefs de section principaux et chefs de section des travaux publics de l'Etat.
 

@@ -1,6 +1,7 @@
 # SECTION 1 : CONTRAT A DUREE DETERMINEE.
 
 - [Sous-section 1 : Règles générales](sous-section-1)
+- [Sous-section 2 : Le contrat vendanges](sous-section-2)
 - [Article L122-1](article-l122-1.md)
 - [Article L122-1-1](article-l122-1-1.md)
 - [Article L122-1-2](article-l122-1-2.md)
