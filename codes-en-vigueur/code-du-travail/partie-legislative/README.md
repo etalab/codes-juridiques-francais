@@ -1,10 +1,14 @@
 # Partie législative ancienne
 
+- [FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE .](formation-professionnelle-continue-dans-le-cadre-de-l-education-permanente)
 - [Livre Ier : Conventions relatives au travail](livre-ier)
 - [Livre II : Réglementation du travail](livre-ii)
+- [Livre III : Placement et emploi](livre-iii)
 - [Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés](livre-iv)
 - [Livre VI : Contrôle de l'application de la législation et de la réglementation du travail](livre-vi)
 - [Livre VII : Dispositions particulières à certaines professions](livre-vii)
+- [Livre VIII : Dispositions spéciales aux départements d'outre-mer](livre-viii)
+- [Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE](livre-ix)
 - [DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS](dispositions-particulieres-a)
 - [CONVENTIONS RELATIVES AU TRAVAIL](conventions-relatives-au)
 - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*](dispositions-speciales-aux)
