@@ -1,4 +1,0 @@
-# 3° : Obligations particulières au régime simplifié d'imposition d'après le bénéfice réel.
-
-- [Article 38 sexdecies RB](article-38-sexdecies-rb.md)
-- [Article 38 sexdecies RB bis](article-38-sexdecies-rb-bis.md)

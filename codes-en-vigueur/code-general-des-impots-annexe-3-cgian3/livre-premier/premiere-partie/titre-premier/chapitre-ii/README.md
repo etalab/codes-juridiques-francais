@@ -2,7 +2,6 @@
 
 - [Section 00I : Sociétés d'investissement](section-00i)
 - [Section 0I : Sociétés de personnes et assimilées](section-0i)
-- [Section 001 : Sociétés d'investissement](section-001)
 - [Section I : Déclarations des commissions, courtages, ristournes, honoraires et droits d'auteur](section-i)
 - [Section II : Déclaration de certaines rémunérations d'associés et parts de bénéfices](section-ii)
 - [Section II bis : Déclarations concernant les revenus de capitaux mobiliers](section-ii-bis)

@@ -2,8 +2,6 @@
 
 - [Article 41 duovicies](article-41-duovicies.md)
 - [Article 41 duovicies D](article-41-duovicies-d.md)
-- [Article 41 duovicies A](article-41-duovicies-a.md)
-- [Article 41 duovicies B](article-41-duovicies-b.md)
 - [Article 41 duovicies E](article-41-duovicies-e.md)
 - [Article 41 duovicies F](article-41-duovicies-f.md)
 - [Article 41 duovicies G](article-41-duovicies-g.md)
