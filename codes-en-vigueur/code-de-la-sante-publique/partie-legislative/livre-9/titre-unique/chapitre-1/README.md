@@ -1,3 +1,0 @@
-# CHAPITRE 1 : DISPOSITIONS GENERALES.
-
-- [Article L793](article-l793.md)

@@ -7,5 +7,4 @@
 - [Article L822](article-l822.md)
 - [Article L823](article-l823.md)
 - [Article L824](article-l824.md)
-- [Article L825](article-l825.md)
 - [Article L826](article-l826.md)

@@ -7,5 +7,4 @@
 - [Livre 5 : Pharmacie](livre-5)
 - [Livre 6 : Utilisation thérapeutique de produits d'origine humaine](livre-6)
 - [Livre 8 : Institutions](livre-8)
-- [LIVRE 9 : PERSONNEL](livre-9)
 - [Livre IX : Personnel](livre-ix)
