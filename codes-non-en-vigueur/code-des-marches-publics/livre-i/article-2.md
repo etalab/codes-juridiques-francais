@@ -22,7 +22,7 @@ Il doit lui remettre également la déclaration du sous-traitant prévue à l'ar
 
 Dans le cas où la demande est présentée après la conclusion du marché, le titulaire de celui-ci, soit remet contre récépissé à la collectivité ou à l'établissement public contractant, soit lui adresse par lettre recommandée, avec demande d'avis de réception, une déclaration spéciale contenant les renseignements susmentionnés.
 
-Le titulaire doit en outre établir que le nantissement dont le marché a pu faire l'objet ne fait pas obstacle au paiement direct du sous-traitant en produisant soit l'exemplaire unique du marché qui lui a été délivré, soit une attestation du comptable assignataire de la dépense.
+Le titulaire doit en outre établir que la cession ou le nantissement de créance résultant du marché ne fait pas obstacle au paiement direct du sous-traitant en produisant soit l'exemplaire unique du marché qui lui a été délivré, soit une attestation du comptable assignataire de la dépense.
 
 III. - Lorsque la demande est présentée dans l'offre ou la soumission, la notification du marché emporte acceptation du sous-traitant et agrément des conditions de paiement.
 
