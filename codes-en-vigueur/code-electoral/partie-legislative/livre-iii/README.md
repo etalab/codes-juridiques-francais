@@ -1,18 +1,4 @@
 # Livre III : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon et à la collectivité territoriale de Mayotte
 
-- [Chapitre Ier : Dispositions communes](chapitre-ier)
 - [Titre Ier : Dispositions applicables à la collectivité territoriale de Saint-Pierre-et-Miquelon](titre-ier)
-- [Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Saint-Pierre-et-Miquelon](chapitre-ii)
 - [Titre II : Dispositions particulières à la collectivité territoriale de Mayotte](titre-ii)
-- [Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon](chapitre-iii)
-- [Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux dans la collectivité territoriale de Saint-Pierre-et-Miquelon](chapitre-iv)
-- [Chapitre V : Dispositions applicables à l'élection du sénateur de la collectivité territoriale de Saint-Pierre-et-Miquelon](chapitre-v)
-- [Article L329](article-l329.md)
-- [Article L330](article-l330.md)
-- [Article L331](article-l331.md)
-- [Article L331-1](article-l331-1.md)
-- [Article L331-2](article-l331-2.md)
-- [Article L332](article-l332.md)
-- [Article L332-1](article-l332-1.md)
-- [Article L333](article-l333.md)
-- [Article L334](article-l334.md)
