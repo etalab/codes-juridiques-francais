@@ -2,6 +2,7 @@
 
 - [Article 1725](article-1725.md)
 - [Article 1726](article-1726.md)
+- [Article 1727 A](article-1727-a.md)
 - [Article 1729](article-1729.md)
 - [Article 1735 bis](article-1735-bis.md)
 - [Article 1737](article-1737.md)
