@@ -12,6 +12,7 @@
 - [VIII : Imposition des plus-values dégagées à l'occasion de l'aliénation de terrains à bâtir](viii)
 - [XI bis : Régime fiscal de certaines sociétés à responsabilité limitée - Option pour le régime des sociétés de personnes](xi-bis)
 - [XII : Plus-values de liquidation distribuées par certaines sociétés.](xii)
+- [XII bis : Transformation d'une société d'intérêt collectif agricole en société coopérative agricole ou en union de sociétés coopératives agricoles.](xii-bis)
 - [XIII : Régime fiscal des sociétés civiles ayant pour objet la construction d'immeubles en vue de la vente](xiii)
 - [XV : Régime fiscal des syndicats mixtes de gestion forestière et des groupements syndicaux forestiers](xv)
 - [XIV : Régime fiscal des groupements d'intérêt économique et de leurs membres](xiv)

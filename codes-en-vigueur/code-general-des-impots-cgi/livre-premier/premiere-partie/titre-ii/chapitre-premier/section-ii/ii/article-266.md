@@ -8,6 +8,8 @@ b. Pour les opérations ci-après, par le montant total de la transaction :
 
 - opérations d'entremise qui ne sont pas rémunérées exclusivement par une commission dont le taux est fixé au préalable d'après le prix, la quantité ou la nature des biens ou des services ou qui ne donnent pas lieu à reddition de compte au commettant du prix auquel le mandataire a traité avec l'autre contractant ;
 
+- opérations effectuées en vertu d'un contrat de commission à l'achat ou à la vente portant sur des déchets neufs d'industrie ou des matières de récupération ;
+
 - opérations d'entremise qui aboutissent à la livraison de produits imposables par les personnes qui ne sont pas redevables de la taxe, à l'exception des opérations portant sur les objets d'occasion et les animaux vivants de boucherie et de charcuterie ;
 
 - opérations réalisées par les personnes établies en France qui s'entremettent dans la livraison de biens ou l'exécution de services par des redevables qui n'ont pas établi en France le siège de leur activité, un établissement stable, leur domicile ou leur résidence habituelle ;

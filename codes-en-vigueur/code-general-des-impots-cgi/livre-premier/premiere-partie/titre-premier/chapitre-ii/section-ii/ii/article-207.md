@@ -48,11 +48,13 @@ Les sociétés coopératives agricoles et leurs unions sont tenues de produire, 
 
 7° Les sociétés coopératives de construction qui procèdent, sans but lucratif, au lotissement et à la vente de terrains leur appartenant. Cette exonération est également applicable sous les mêmes conditions aux sociétés d'économie mixte dont les statuts sont conformes aux clauses types annexées au décret n° 69-295 du 24 mars 1969, ainsi qu'aux groupements dits de "Castors" dont les membres effectuent des apports de travail ;
 
-8° Les sociétés coopératives de construction désignées à l'article 1378 sexies (3).
+8° Les sociétés coopératives de construction désignées à l'article 1378 sexies.
 
-2. Les sociétés anonymes françaises de financement de recherches et d'exploitation des gisements d'hydrocarbures liquides ou gazeux, dont la constitution est approuvée par arrêté du ministre de l'économie et des finances et du ministre de l'industrie, sont exonérées de l'impôt sur les sociétés pour la partie des bénéfices provenant des produits nets de leur portefeuille ou des plus-values qu'elles réalisent sur la vente des titres ou parts sociales faisant partie de ce portefeuille, lorsqu'elles se conforment aux dispositions ci-après : [*conditions*]
+1 bis. Lorsque les sociétés coopératives agricoles ou leurs unions émettent des certificats coopératifs d'investissement, l'exonération visée au 1 n'est pas applicable à la fraction des résultats correspondant à la part du montant nominal des certificats coopératifs dans le capital social.
 
-a. Ces sociétés doivent avoir pour objet exclusif toutes opérations se rattachant à la gestion d'un portefeuille de valeurs mobilières et de parts sociales émises par les sociétés qui se livrent à la recherche et à l'exploitation des gisements d'hydrocarbures liquides ou gazeux, au raffinage, au stockage, au transport ou à la distribution des hydrocarbures liquides ou gazeux ainsi qu'à la pétroléo-chimie.
+Les résultats sont déterminés selon les règles fixées par l'article 209, avant déduction des ristournes.
+
+2. Les sociétés anonymes françaises de financement de recherches et d'exploitation des gisements d'hydrocarbures liquides ou gazeux, dont la constitution est approuvée par arrêté du ministre de l'économie et des finances et du ministre de l'industrie, sont exonérées de l'impôt sur les sociétés pour la partie des bénéfices provenant des produits nets de leur portefeuille ou des plus-values qu'elles réalisent sur la vente des titres ou parts sociales faisant partie de ce portefeuille, lorsqu'elles se conforment aux dispositions ci-après : [*conditions*]    a. Ces sociétés doivent avoir pour objet exclusif toutes opérations se rattachant à la gestion d'un portefeuille de valeurs mobilières et de parts sociales émises par les sociétés qui se livrent à la recherche et à l'exploitation des gisements d'hydrocarbures liquides ou gazeux, au raffinage, au stockage, au transport ou à la distribution des hydrocarbures liquides ou gazeux ainsi qu'à la pétroléo-chimie.
 
 Chaque société ne peut consacrer au financement des sociétés autres que celles qui se livrent à la recherche ou à l'exploitation des gisements d'hydrocarbures dans les pays faisant partie de la zone franc à la date de publication du décret n° 62-1025 du 18 août 1962 plus de 25 % du total des sommes placées et des sommes disponibles pour le placement.
 

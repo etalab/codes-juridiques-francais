@@ -4,13 +4,13 @@ I a Lorsque les bénéficiaires des revenus de capitaux mobilier visés aux arti
 
 Ces dispositions ne sont pas applicables à la retenue à la source pratiquée sur les intérêts des obligations visés au deuxième alinéa du III de l'article 125 A.
 
-Pour tous les contribuables, qu'ils soient ou non tenus de souscrire une déclaration pour l'assiette de l'impôt sur le revenu, les sommes retenues à la source seront restituées, dans la mesure où elles ne pourront être admises à imputation sur l'impôt sur le revenu par suite de son montant inférieur ou de sa non-exigibilité dans des conditions qui seront fixées par décret en conseil d'Etat (1).
+Pour tous les contribuables, qu'ils soient ou non tenus de souscrire une déclaration pour l'assiette de l'impôt sur le revenu, les sommes retenues à la source seront restituées [*remboursement*], dans la mesure où elles ne pourront être admises à imputation sur l'impôt sur le revenu par suite de son montant inférieur ou de sa non-exigibilité dans des conditions qui seront fixées par décret en conseil d'Etat (1).
 
 b En ce qui concerne les revenus de source étrangère visés aux articles 120 à 123, l'imputation est limitée au montant du crédit correspondant à l'impôt retenu à la source à l'étranger ou à la décote en tenant lieu, tel qu'il est prévu par les conventions internationales.
 
 I bis (Abrogé).
 
-II Les actionnaires des sociétés d'investissement ou des sociétés assimilées visées à l'article 208-1° à 1° quinquies peuvent effectuer l'imputation de tout ou partie des crédits d'impôt et avoirs fiscaux attachés aux produits du portefeuille de ces sociétés dans les mêmes conditions que s'ils avaient perçu directement ces revenus.
+II Les actionnaires des sociétés d'investissement ou des sociétés assimilées visées aux 1° à 1° quinquies de l'article 208 et des sociétés de capital-risque visés au 3° septies du même article peuvent effectuer l'imputation de tout ou partie des crédits d'impôt et avoirs fiscaux attachés aux produits du portefeuille de ces sociétés dans les mêmes conditions que s'ils avaient perçu directement ces revenus.
 
 Pour chaque exercice, la société calcule la somme totale à l'imputation de laquelle donnent droit les revenus encaissés par elle.
 
@@ -22,4 +22,4 @@ Lorsque les sociétés d'investissement admises au bénéfice du régime prévu 
 
 III (Abrogé).
 
-1) Annexe II, art. 92 à 95.
+(1) Annexe II, art. 92 à 95.

@@ -8,3 +8,5 @@
 - [Article 92 F](article-92-f.md)
 - [Article 92 G](article-92-g.md)
 - [Article 92 H](article-92-h.md)
+- [Article 92 J](article-92-j.md)
+- [Article 92 K](article-92-k.md)

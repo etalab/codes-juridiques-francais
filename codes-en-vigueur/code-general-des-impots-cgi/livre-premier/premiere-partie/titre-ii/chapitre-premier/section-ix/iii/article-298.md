@@ -22,33 +22,33 @@ La valeur imposable peut être révisée au cours du trimestre par décision du 
 
 1° bis. Ouvrent droit à déduction de la taxe sur la valeur ajoutée, dans les conditions fixées par les articles 271 à 273, les achats, importations, livraisons et services portant sur :
 
-a  Les fiouls lourds (ex 27-10-00-79 du tarif des douanes) utilisés comme combustibles;
+a) Les fiouls lourds (ex 27-10-00-79 du tarif des douanes) utilisés comme combustibles;
 
-b  Les fractions légères (ex 27-10-00-25 et ex 27-10-00-39 du tarif des douanes) utilisées comme combustibles;
+b) Les fractions légères (ex 27-10-00-25 et ex 27-10-00-39 du tarif des douanes) utilisées comme combustibles;
 
-c  Les propanes (ex 27-11-12-99 du tarif des douanes) et les butanes (ex 27-11-13-90 du tarif des douanes) utilisés comme combustibles;
+c) Les propanes (ex 27-11-12-99 du tarif des douanes) et les butanes (ex 27-11-13-90 du tarif des douanes) utilisés comme combustibles;
 
-d  Les produits pétroliers et assimilés visés au tableau B de l'article 265 du code des douanes, utilisés comme matières premières ou agents de fabrication.
+d) Les produits pétroliers et assimilés visés au tableau B de l'article 265 du code des douanes, utilisés comme matières premières ou agents de fabrication.
 
 Pour l'application du d, on entend par matières premières [*définition*] les produits entrant dans la composition de produits passibles de la taxe sur la valeur ajoutée et par agents de fabrication [*définition*] les matières ou produits qui, normalement et sans entrer dans le produit fini, sont détruits ou perdent leurs qualités spécifiques au cours des opérations de fabrication d'un produit soumis à la taxe sur la valeur ajoutée à l'exclusion des produits utilisés pour la carburation, la lubrification proprement dite ou la combustion, sous réserve de ce qui est dit aux a, b et c.
 
-1° ter a. La taxe sur la valeur ajoutée afférente aux achats, importations, livraisons et services portant sur le gazole utilisé comme carburant est déductible à concurrence de 50 % de son montant, dans les conditions prévues aux articles 271 à 273.
+1° ter a) La valeur ajoutée afférente aux achats, importations, livraisons et services portant sur le gazole utilisé comme carburant est déductible dans les conditions prévues aux articles 271 à 273.
 
-Ce pourcentage est porté à 60 % pour 1988, 70 % pour 1989, 80 % pour 1990, 90 % pour 1991 et 100 % pour les années suivantes.
+La déduction est limitée à 95 p. 100 du montant de la taxe pour le premier semestre de 1991. Toutefois, cette limitation n'est pas applicable à la taxe afférente au gazole utilisé pour la réalisation de transports internationaux.
 
-Pour la taxe afférente au gazole [*gas-oil*] utilisé pour la réalisation de transports internationaux, le pourcentage est porté à 50 p. 100 pour 1985, 65 p. 100 pour 1986, 85 p. 100 jusqu'au 31 octobre 1987 et 100 p. 100 au-delà de cette date.
+La déductibilité de la taxe sur la valeur ajoutée est limitée à 80 p. 100 de son montant pour les dépenses afférentes au gazole utilisé pour un véhicule, un engin ou leur location, exclu du droit à déduction en application des dispositions de l'article 273. Cette disposition n'est pas applicable aux véhicules ou engins affectés à l'enseignement de la conduite.
 
 Sont considérés comme des transports internationaux [*définition*] les transports exonérés de la taxe sur la valeur ajoutée en vertu des articles 262 et 291-II.
 
 Le gazole [*définition ou gas-oil*] visé au présent article s'entend du produit relevant de la position 27-10-00-69 du tarif des douanes et repris au tableau B de l'article 265 du code des douanes sous l'indice d'identification 22.
 
-b. Les dispositions du a sont applicables au gaz de pétrole liquéfié (ex 27-11-19 du tarif des douanes) utilisé comme carburant routier ;
+b) Les dispositions du a sont applicables au gaz de pétrole liquéfié (ex 27-11-19 du tarif des douanes) utilisé comme carburant routier ;
 
-1° quater. La taxe sur la valeur ajoutée afférente aux achats, importations, livraisons et services portant sur le fioul [*fuel*] domestique utilisé pour des usages agricoles est déductible à concurrence de 50 p. 100 de son montant, dans les conditions fixées aux articles 271 à 273, par les personnes visées à l'article 298 bis, par les coopératives d'utilisation de matériel agricole et par les entrepreneurs de travaux agricoles.
+1° quater. La taxe sur la valeur ajoutée afférente aux achats, importations, livraisons et services portant sur le fioul [*fuel*] domestique et le coke de pétrole est déductible dans les conditions fixées aux articles 271 à 273.
 
-La taxe sur la valeur ajoutée afférente aux achats, importations, livraisons et services portant sur le fioul domestique utilisé comme carburant pour la réalisation de transports fluviaux est déductible, à concurrence de 50 p. 100 de son montant, dans les conditions prévues aux articles 271 à 273.
+La déduction est limitée à 50 p. 100 du montant de la taxe pour 1991.
 
-Le fioul [*fuel*] domestique visé au présent article s'entend du produit mentionné au tableau B de l'article 265 du code des douanes ;
+Le fioul domestique et le coke de pétrole visés au présent article s'entendent des produits mentionnés sous ces appellations au tableau B de l'article 265 du code des douanes.
 
 1° quinquies. La taxe sur la valeur ajoutée afférente aux achats, importations, livraisons et services portant sur les carburéacteurs mentionnés à la position 27 10 00 du tableau B de l'article 265 du code des douanes est déductible, dans les conditions prévues aux articles 271 à 273, lorsqu'ils sont utilisés pour les besoins de transports aériens publics de voyageurs ou de marchandises.
 
@@ -68,4 +68,4 @@ Ce transfert s'effectue sous le couvert de certificats de transfert de droits à
 
 6  Les dispositions du 4-1° et 2° ne s'appliquent pas en ce qui concerne les gaz de pétrole et autres hydrocarbures gazeux relevant des positions 27-11-11, 27-11-14, ex 27-11-19, ex 27-11-21, 27-11-29 du tarif des douanes et repris au tableau B de l'article 265 du code des douanes sous les indices d'identification 30, 33, 35, 37, 38 et 39.
 
-7  (Transféré sous l'article L 45 C du livre des procédures fiscales).
+7 (Transféré sous l'article L 45 C du livre des procédures fiscales).

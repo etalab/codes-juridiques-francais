@@ -20,13 +20,17 @@ b. Les achats d'objets visés à l'article 257-10°-d opérés en vue d'une vent
 
 c. (Abrogé) ;
 
-4° Les opérations à terme sur marchandises réalisées sur le marché mentionné à l'article 5 de la loi du 28 mars 1885 sur les marchés à terme à l'exclusion de celles qui déterminent l'arrêt de la filière ;    5° (Abrogé).
+4° Les opérations à terme sur marchandises réalisées sur le marché mentionné à l'article 5 de la loi du 28 mars 1885 sur les marchés à terme à l'exclusion de celles qui déterminent l'arrêt de la filière ;
+
+5° (Abrogé).
 
 2. (Agriculture et pêche) :
 
 1° (Abrogé) ;
 
-2° (Abrogé) ;    3° Les prestations réalisées dans le cadre de l'entraide entre agriculteurs définie par l'article 20 de la loi n° 62-933 du 8 août 1962 complémentaire à la loi d'orientation agricole. Cette exonération pourra être étendue par décret en Conseil d'Etat aux départements d'outre-mer (2) ;
+2° (Abrogé) ;
+
+3° Les prestations réalisées dans le cadre de l'entraide entre agriculteurs définie par l'article 20 de la loi n° 62-933 du 8 août 1962 complémentaire à la loi d'orientation agricole. Cette exonération pourra être étendue par décret en Conseil d'Etat aux départements d'outre-mer (2) ;
 
 4° Les opérations effectuées par les pêcheurs et armateurs à la pêche, en ce qui concerne la vente des produits de leur pêche (poissons, crustacés, coquillages frais ou conservés à l'état frais par un procédé frigorifique) ;
 
@@ -34,17 +38,25 @@ c. (Abrogé) ;
 
 3. (Biens usagés. Déchets neufs d'industrie et matières de récupération) :
 
-1° a. Sous réserve, le cas échéant, des dispositions de l'article 257-13° et 15°, les ventes de biens usagés faites par les personnes qui les ont utilisés pour les besoins de leurs exploitations.    Toutefois, l'exonération ne s'applique pas aux biens qui ont ouvert droit à déduction complète ou partielle de la taxe sur la valeur ajoutée lors de leur acquisition, importation ou livraison à soi-même (3).
+1° a. Sous réserve, le cas échéant, des dispositions de l'article 257-13° et 15°, les ventes de biens usagés faites par les personnes qui les ont utilisés pour les besoins de leurs exploitations.
+
+Toutefois, l'exonération ne s'applique pas aux biens qui ont ouvert droit à déduction complète ou partielle de la taxe sur la valeur ajoutée lors de leur acquisition, importation ou livraison à soi-même (3).
 
 b. (Disposition périmée) ;
 
-2° Les opérations de vente, de commission et de courtage portant sur les déchets neufs d'industrie et sur les matières de récupération.
+2° Les livraisons de déchets neufs d'industrie et de matières de récupération effectuées :
+
+a. Par les entreprises qui ne disposent pas d'installation permanente ;
+
+b. Par les entreprises qui, disposant d'une installation permanente, ont réalisé au cours de l'année précédente un montant de chiffre d'affaires portant sur ces produits inférieur à 6.000.000 F ;
 
 4. (Professions libérales et activités diverses) :
 
 1° Les soins dispensés aux personnes par les membres des professions médicales et paramédicales ainsi que les travaux d'analyse de biologie médicale et les fournitures de prothèses dentaires par les dentistes et les prothésistes ,
 
-1° bis Les frais d'hospitalisation et de traitement dans les établissements de soins mentionnés à l'article 31 de la loi n° 70-1318 du 31 décembre 1970 portant réforme hospitalière.    2° Les livraisons, commissions, courtages et façons portant sur les organes, le sang et le lait humains ;
+1° bis Les frais d'hospitalisation et de traitement dans les établissements de soins mentionnés à l'article 31 de la loi n° 70-1318 du 31 décembre 1970 portant réforme hospitalière.
+
+2° Les livraisons, commissions, courtages et façons portant sur les organes, le sang et le lait humains ;
 
 3° Le transport de malades ou de blessés à l'aide de véhicules spécialement aménagés à cet effet effectué par des personnes visées à l'article L. 51-2 du code de la santé publique [*exonération des transports sanitaires par ambulances*] ;
 
@@ -68,7 +80,7 @@ b. les cours ou leçons relevant de l'enseignement scolaire, universitaire, prof
 
 6° Les prestations fournies par les interprètes des oeuvres de l'esprit, les traducteurs et interprètes de langues étrangères, les guides et accompagnateurs, les sportifs, les artistes du spectacle et les dresseurs d'animaux ;
 
-7° Les prestations effectuées par les avocats, les avocats au Conseil d'Etat et à la Cour de cassation et les avoués d'appel, lorsqu'elles relèvent de leur activité spécifique telle qu'elle est définie par la réglementation applicable à leur profession ;
+7° (Abrogé) (à compter du 1er avril 1991);
 
 8° (Abrogé).
 
@@ -88,13 +100,13 @@ c. (Devenu sans objet) ;
 
 d. Les opérations immobilières résultant de l'application des dispositions de l'article 15 modifié de la loi n° 60-808 du 5 août 1960 d'orientation agricole, réalisées par les sociétés d'aménagement foncier et d'établissement rural constituées en application de ce même article et agréées par le ministre de l'agriculture et le ministre du budget (4) ;
 
-Ces dispositions ne s'appliquent pas aux cessions d'immeubles acquis postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990.
+Ces dispositions ne s'appliquent pas aux cessions d'immeubles acquis postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990 (5).
 
 d bis. Toutes les cessions effectuées par les sociétés d'aménagement foncier et d'établissement rural qui, ayant pour objet le maintien, la création ou l'agrandissement d'exploitations agricoles, sont assorties d'un engagement de l'acquéreur pris pour lui et ses ayants cause de conserver la destination des immeubles acquis pendant un délai de dix ans à compter du transfert de propriété.
 
 La même exonération s'applique aux cessions de parcelles boisées à condition que l'ensemble de ces parcelles n'excède pas dix hectares ou, dans le cas contraire, ne soit pas susceptible d'aménagement ou d'exploitation régulière au sens du décret du 28 juin 1930 fixant les conditions d'application de l'article 15 de la loi de finances du 16 avril 1930 ou de l'article L. 222-1 du code forestier.
 
-Les dispositions des deux alinéas précédents ne s'appliquent qu'aux cessions des immeubles acquis postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990.
+Les dispositions des deux alinéas précédents ne s'appliquent qu'aux cessions des immeubles acquis postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990 (5).
 
 e. (Disposition périmée) ;
 
@@ -146,7 +158,7 @@ d. Le caractère désintéressé de la gestion résulte de la réunion des condi
 
 - les membres de l'organisme et leurs ayants droit ne doivent pas pouvoir être déclarés attributaires d'une part quelconque de l'actif, sous réserve du droit de reprise des apports.
 
-Tous les organismes concernés par les a, b et c sont placés sous le régime du chiffre d'affaires réel ; un décret en Conseil d'Etat détermine leurs obligations ainsi que l'étendue et les modalités d'exercice de leurs droits à déduction (5) ;
+Tous les organismes concernés par les a, b et c sont placés sous le régime du chiffre d'affaires réel ; un décret en Conseil d'Etat détermine leurs obligations ainsi que l'étendue et les modalités d'exercice de leurs droits à déduction (6) ;
 
 1° bis Les opérations effectuées par les associations intermédiaires agréées en application de l'article L128  du code du travail, dans les conditions prévues au 1° ;
 
@@ -162,8 +174,10 @@ Tous les organismes concernés par les a, b et c sont placés sous le régime du
 
 (2) Voir décret n° 64-285 du 2 avril 1964 (J.O. du 4).
 
-(3) Ces dispositions ne s'appliquent pas aux biens cédés à des personnes qui ont souscrit un contrat de crédit-bail ou de location avec option d'achat avant le 8 septembre 1989.
+(3) Ces dispositions ne s'appliquent pas aux biens cédés à des personnes qui ont souscrit un contrat de crédit-bail ou de location avec option d'achat avant le 8 septembre 1989, ni aux véhicules destinés à la location simple, inscrits à l'actif des entreprises de location avant le 8 septembre 1989, si ces véhicules sont cédés à des personnes autres que des négociants en biens d'occasion (Loi n° 89-935 du 29 décembre 1989, art. 31 I 2 et 3).
 
 (4) Cf. décret n° 61-610 du 14 juin 1961 (J.O. du 15).
 
-(5) Annexe II, art. 242 B et 242 octies.
+(5) Loi complémentaire à la loi n° 88-1202 du 30 décembre 1988 relative à l'adaptation de l'exploitation agricole à son environnement économique et social (JO du 25 janvier 1990).
+
+(6) Annexe II, art. 242 B et 242 octies.
