@@ -20,6 +20,7 @@
 - [Article L536](article-l536.md)
 - [Article L537](article-l537.md)
 - [Article L538](article-l538.md)
+- [Article L538-1](article-l538-1.md)
 - [Article L539](article-l539.md)
 - [Article L540](article-l540.md)
 - [Article L541](article-l541.md)
