@@ -1,9 +1,10 @@
-# 2. Biens et droits mobiliers et immobiliers.
+# 2. Biens et droits mobiliers ou immobiliers
 
 - [Article 150 L](article-150-l.md)
 - [Article 150 F](article-150-f.md)
 - [Article 150 G](article-150-g.md)
 - [Article 150 J](article-150-j.md)
+- [Article 150 K](article-150-k.md)
 - [Article 150 N bis](article-150-n-bis.md)
 - [Article 150 O](article-150-o.md)
 - [Article 150 Q](article-150-q.md)
