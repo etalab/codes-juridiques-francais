@@ -1,6 +1,5 @@
 # TAXE SUR LES ENCOURS DE CREDITS.
 
-- [Article 231](article-231.md)
 - [Article 231 bis C](article-231-bis-c.md)
 - [Article 231 bis D](article-231-bis-d.md)
 - [Article 231 bis DA](article-231-bis-da.md)

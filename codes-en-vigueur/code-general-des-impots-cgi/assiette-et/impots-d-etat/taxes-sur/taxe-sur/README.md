@@ -1,4 +1,3 @@
 # TAXE SUR LES METAUX PRECIEUX, LES BIJOUX, LES OBJETS D'ART, DE COLLECTION ET D'ANTIQUITE.
 
-- [Article 302 bis A](article-302-bis-a.md)
 - [CHAMP D'APPLICATION](champ-d-application)

@@ -6,4 +6,3 @@
 - [Article 1009](article-1009.md)
 - [Article 1009 A](article-1009-a.md)
 - [Article 1009 B](article-1009-b.md)
-- [Article 1010](article-1010.md)

@@ -14,7 +14,6 @@
 - [Article 81](article-81.md)
 - [Article 81 bis](article-81-bis.md)
 - [Article 82](article-82.md)
-- [Article 84](article-84.md)
 - [Article 86](article-86.md)
 - [Article 90](article-90.md)
 - [Article 91 bis](article-91-bis.md)

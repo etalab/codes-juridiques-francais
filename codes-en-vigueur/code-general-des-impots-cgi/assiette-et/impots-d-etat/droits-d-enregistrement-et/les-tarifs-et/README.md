@@ -46,7 +46,6 @@
 - [Article 802](article-802.md)
 - [Article 804](article-804.md)
 - [Article 806](article-806.md)
-- [Article 808](article-808.md)
 - [Article 809](article-809.md)
 - [Article 810](article-810.md)
 - [Article 811](article-811.md)
