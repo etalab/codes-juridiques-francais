@@ -7,4 +7,5 @@
 - [Section 5 : Contrôle du commerce extérieur et prohibitions](section-5)
 - [Section 6 : Restrictions d'entrée, de sortie, de tonnage et de conditionnement.](section-6)
 - [Section 7 : Octroi de la clause transitoire.](section-7)
+- [Section 8 : Transport direct.](section-8)
 - [Section 9 : Règlements généraux des douanes.](section-9)
