@@ -2,3 +2,4 @@
 
 - [Section I : Règles générales.](section-i)
 - [Section II : Règles particulières aux entreprises pratiquant les opérations d'assurance obligatoire en matière de circulation des véhicules terrestres à moteur](section-ii)
+- [Section III : Règles relatives à l'affectation comptable des actifs transférés avec un portefeuille de contrats.](section-iii)
