@@ -33,5 +33,3 @@ b) Des méthodes et moyens de fabrication, de conditionnement ou de contrôle co
 10° De recueillir les données, notamment en terme d'évaluation scientifique et technique, nécessaires à la préparation des décisions relatives à la politique du médicament et de participer à l'application des décisions prises en la matière ;
 
 11° De mener toutes études, recherches, actions de formation ou d'information dans les domaines relevant de sa compétence.
-
-L'agence peut, en outre, à la demande des services concernés, procéder à tous contrôles ou expertises techniques relatifs à la qualité des eaux minérales ou de sources, de leurs conditions de captage, de transport et de conditionnement.

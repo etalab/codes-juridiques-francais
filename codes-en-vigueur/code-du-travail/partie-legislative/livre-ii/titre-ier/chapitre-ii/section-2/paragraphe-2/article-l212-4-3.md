@@ -2,9 +2,9 @@
 
 Le contrat de travail des salariés à temps partiel est un contrat écrit [*condition de forme*].
 
-Il mentionne notamment la qualification du salarié, les éléments de la rémunération et, par dérogation aux articles L. 143-2 et L. 144-2, les modalités de calcul de la rémunération mensualisée lorsque le salarié est occupé à temps partiel sur une base annuelle.
+Il mentionne notamment la qualification du salarié, les éléments de la rémunération et peut prévoir, par dérogation aux articles L. 143-2 et L. 144-2, les modalités de calcul de la rémunération mensualisée indépendamment de l'horaire réel du mois lorsque le salarié est occupé à temps partiel sur une base annuelle.
 
-Il mentionne également la durée hebdomadaire ou, le cas échéant, mensuelle prévue et, sauf pour les salariés des associations d'aide à domicile, la répartition de la durée du travail entre les jours de la semaine ou les semaines du mois. Il précise, le cas échéant, la définition, sur l'année, des périodes travaillées et non travaillées, ainsi que la répartition des heures de travail à l'intérieur de ces périodes.
+Il mentionne également la durée hebdomadaire ou, le cas échéant, mensuelle prévue et, sauf pour les salariés des associations d'aide à domicile, la répartition de la durée du travail entre les jours de la semaine ou les semaines du mois. Il précise, le cas échéant, la durée annuelle de travail du salarié et, sauf pour les associations d'aide à domicile mentionnées à l'article L. 241-10 du code de la sécurité sociale, la définition, sur l'année, des périodes travaillées et non travaillées, ainsi que la répartition des heures de travail à l'intérieur de ces périodes.
 
 Il définit, en outre, les conditions de la modification éventuelle de cette répartition, qui doit être notifiée au salarié sept jours au moins avant la date à laquelle cette modification doit intervenir.
 
