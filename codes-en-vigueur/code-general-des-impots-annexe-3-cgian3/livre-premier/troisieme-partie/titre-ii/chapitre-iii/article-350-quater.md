@@ -30,4 +30,6 @@ III. La direction générale des douanes et droits indirects est compétente :
 
 2° Pour requérir la représentation du registre mentionné à l'article 330 du code général des impôts ;
 
-3° Pour recevoir après saisie les ouvrages d'or, d'argent et de platine en application de l'article 541 du code général des impôts.
+3° Pour recevoir après saisie les ouvrages d'or ((ou contenant de l'or)) (1), d'argent et de platine en application de l'article 541 du code général des impôts.
+
+(1) Modification.

@@ -1,4 +1,4 @@
-# Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer.
+# Réduction d'impôt accordée au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet.
 
 - [Article 199 quater D](article-199-quater-d.md)
 - [Article 199 quater F](article-199-quater-f.md)
@@ -10,6 +10,7 @@
 - [Article 199 octies A](article-199-octies-a.md)
 - [Article 199 nonies](article-199-nonies.md)
 - [Article 199 decies](article-199-decies.md)
+- [Article 199 decies D](article-199-decies-d.md)
 - [Article 199 decies B](article-199-decies-b.md)
 - [Article 199 undecies](article-199-undecies.md)
 - [Article 199 quindecies](article-199-quindecies.md)

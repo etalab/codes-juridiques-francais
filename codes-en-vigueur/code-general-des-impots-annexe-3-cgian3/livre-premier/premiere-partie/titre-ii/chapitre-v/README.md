@@ -2,6 +2,7 @@
 
 - [Article 111 quater L](article-111-quater-l.md)
 - [Article 111 quater M](article-111-quater-m.md)
+- [Article 111 quater LA](article-111-quater-la.md)
 - [Article 111 quater N](article-111-quater-n.md)
 - [Article 111 quater O](article-111-quater-o.md)
 - [Article 111 quater P](article-111-quater-p.md)

@@ -10,6 +10,7 @@
 - [Section VIII : Taxe spéciale d'équipement perçue au profit de l'établissement public d'aménagement de la Basse-Seine](section-viii)
 - [Section IX : Taxe spéciale d'équipement perçue au profit de l'établissement public de la métropole lorraine.](section-ix)
 - [Section IX bis : Taxe spéciale d'équipement perçue au profit de l'établissement public foncier du Nord - Pas-de-Calais](section-ix-bis)
+- [Section IX ter : Taxe spéciale d'équipement perçue au profit de l'Etablissement public d'aménagement en Guyane](section-ix-ter)
 - [Section X : Impositions perçues au profit des communautés urbaines](section-x)
 - [Section XI : Impositions perçues au profit des syndicats de communes et des syndicats mixtes](section-xi)
 - [Section XII : Impositions perçues au profit des districts.](section-xii)

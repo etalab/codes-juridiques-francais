@@ -12,6 +12,8 @@ c. Les titres de participation doivent avoir été souscrits à l'émission. A d
 
 Les titres prêtés dans les conditions du chapitre V de la loi n° 87-416 du 17 juin 1987 sur l'épargne ne peuvent être pris en compte par les parties au contrat de prêt pour l'application du régime fiscal des sociétés mères.
 
+((De même, les valeurs, titres ou effets qui sont mis en pension dans les conditions prévues par la loi n° 93-1444 du 31 décembre 1993 portant diverses dispositions relatives à la Banque de France, à l'assurance, au crédit et aux marchés financiers, ne peuvent être pris en compte pour l'application du régime défini au présent article par les parties à l'opération de pension)) (M).
+
 2. 3. 4. (Abrogés).
 
 4 bis (Abrogé).
@@ -24,7 +26,7 @@ a. Aux produits des actions de sociétés d'investissement, des sociétés de d�
 
 b. b bis. (Abrogés).
 
-b ter. Aux produits des titres auxquels ne sont pas attachés des droits de vote.
+b ter. Aux produits des titres auxquels ne sont pas attachés des droits de vote (1).
 
 c. (Périmé)
 
@@ -48,4 +50,6 @@ En ce qui concerne les actions visées aux 1° et 2°, aucun pourcentage minimal
 
 8. (Transféré sous le paragraphe 6-d du ci-dessus).
 
-(1) Annexe II, art. 102 F.
+(M) Modification de la loi 93-1444.
+
+(1) Ces dispositions s'appliquent pour la détermination des résultats des exercices ouverts à compter du 1er janvier 1993.

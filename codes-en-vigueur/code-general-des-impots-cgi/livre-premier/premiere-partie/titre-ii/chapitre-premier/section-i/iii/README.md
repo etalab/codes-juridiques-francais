@@ -11,4 +11,5 @@
 - [Article 262 bis](article-262-bis.md)
 - [Article 262 ter](article-262-ter.md)
 - [Article 262 quater](article-262-quater.md)
+- [Article 262 quinquies](article-262-quinquies.md)
 - [Article 263](article-263.md)

@@ -1,5 +1,6 @@
 # III : Mutations de propriété à titre onéreux de meubles
 
+- [0A : Dispositions générales](0a)
 - [C : Cessions de droit à un bail d'immeuble et conventions assimilées](c)
 - [D : Cessions de droits sociaux](d)
 - [A : Cessions de fonds de commerce et de clientèles et conventions assimilées](a)

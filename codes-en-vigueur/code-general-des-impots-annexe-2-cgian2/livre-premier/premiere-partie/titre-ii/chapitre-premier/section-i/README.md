@@ -2,3 +2,4 @@
 
 - [I : Opérations obligatoirement imposables](i)
 - [II : Opérations imposables sur option](ii)
+- [III : Exonérations](iii)

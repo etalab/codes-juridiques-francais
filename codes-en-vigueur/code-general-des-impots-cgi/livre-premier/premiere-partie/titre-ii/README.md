@@ -6,4 +6,5 @@
 - [Chapitre IX : Redevance sanitaire d'abattage](chapitre-ix)
 - [Chapitre X : Redevance sanitaire de découpage](chapitre-x)
 - [Chapitre XI : Taxe forfaitaire sur les livraisons de postes émetteurs-récepteurs fonctionnant sur les canaux banalisés](chapitre-xi)
+- [Chapitre XII : Taxe forfaitaire sur les actes des huissiers de justice](chapitre-xii)
 - [Chapitre premier : Taxe sur la valeur ajoutée](chapitre-premier)

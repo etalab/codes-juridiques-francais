@@ -4,7 +4,7 @@ La taxe sur la valeur ajoutée [*TVA*] est perçue au taux réduit de 5,50 % en 
 
 a. Les prestations relatives :
 
-- à la fourniture de logement et aux trois quarts du prix de pension ou de demi-pension dans les établissements d'hébergement autres que les hôtels de tourisme de catégorie 4 étoiles luxe ; ce taux s'applique aux locations meublées dans les mêmes conditions que pour les établissements d'hébergement (1) ;
+- à la fourniture de logement et aux trois quarts du prix de pension ou de demi-pension dans les établissements d'hébergement ; ce taux s'applique aux locations meublées dans les mêmes conditions que pour les établissements d'hébergement (1) (Modification de la loi) ;
 
 - à la fourniture de logement et de nourriture dans les maisons de retraite ;
 
@@ -69,15 +69,3 @@ f. Les prestations pour lesquelles les avocats, les avocats au Conseil d'Etat et
 g) Les cessions des droits patrimoniaux reconnus par la loi aux auteurs des oeuvres de l'esprit et aux artistes-interprètes ainsi que de tous droits portant sur les oeuvres cinématographiques et sur les livres.
 
 Cette disposition n'est pas applicable aux cessions de droits portant sur des oeuvres d'architecture et des logiciels.
-
-(1) Annexe IV, art. 30.
-
-(2) Annexe III, art. 85 bis.
-
-(3) Disposition à caractère interprétatif.
-
-(4) Annexe IV, art. 31.
-
-(5) Disposition applicable à compter du 1er avril 1991.
-
-La loi 91-647 du 10 juillet 1991, en vigueur le 1er janvier 1992, art. 74 : les mots "aide juridictionnelle" remplacent les mots "aide judiciaire ou indemnisation des commissions et désignations d'office".

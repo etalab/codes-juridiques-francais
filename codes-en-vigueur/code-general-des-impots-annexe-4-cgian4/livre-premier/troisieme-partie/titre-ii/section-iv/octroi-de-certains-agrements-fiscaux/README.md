@@ -7,3 +7,4 @@
 - [Article 170 septies B](article-170-septies-b.md)
 - [Article 170 septies E](article-170-septies-e.md)
 - [Article 170 octies](article-170-octies.md)
+- [Article 170 decies](article-170-decies.md)

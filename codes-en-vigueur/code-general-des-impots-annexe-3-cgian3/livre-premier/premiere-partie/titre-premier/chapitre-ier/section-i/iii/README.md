@@ -3,6 +3,7 @@
 - [L : Déclarations et documents](l)
 - [C : Provisions pour hausse des prix](c)
 - [D : Provisions pour reconstitution des gisements](d)
+- [D bis : Provisions pour prêts d'installation consentis par les entreprises à leurs salariés](d-bis)
 - [M : Renseignements à fournir par les entreprises à l'appui de la déclaration prévue à l'article 53 A du code général des impôts](m)
 - [A : Opérations réalisées sur des marchés financiers à terme](a)
 - [A bis: Régime fiscal des contrats d'échange de taux d'intérêt ou de devises réalisés par les établissements de crédit.](a-bis)

@@ -11,4 +11,5 @@
 - [Article 1762 quater](article-1762-quater.md)
 - [Article 1762 quinquies](article-1762-quinquies.md)
 - [Article 1762 sexies](article-1762-sexies.md)
+- [Article 1762 septies](article-1762-septies.md)
 - [(MAJORATION POUR DEFAUT OU RETARD DE PAIEMENT)](majoration-pour-defaut-ou)

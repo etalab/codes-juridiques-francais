@@ -13,3 +13,13 @@ II. L'imposition de la plus-value constatée lors de l'apport par un associé de
 Les dispositions du premier alinéa ne s'appliquent pas aux plus-values constatées à l'occasion d'apports en sociétés visés aux I et II de l'article 151 octies.
 
 III. Pour l'application des dispositions du premier alinéa du I, les contrats de crédit-bail conclus dans les conditions prévues aux 1° et 2° de l'article 1er de la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le crédit-bail sont considérés comme des immobilisations lorsque les loyers versés ont été déduits pour la détermination du bénéfice non commercial.
+
+((IV. 1. Pour l'application des dispositions du premier alinéa du I aux immeubles acquis dans les conditions prévues au 6 de l'article 93 et précédemment donnés en sous-location, l'imposition de la plus-value consécutive au changement de régime fiscal peut, sur demande expresse du contribuable, être reportée au moment où s'opérera la transmission de l'immeuble ou, le cas échéant, la transmission ou le rachat de tout ou partie des titres de la société propriétaire de l'immeuble ou sa dissolution.
+
+((2. Cette disposition s'applique aux plus-values réalisées à compter du 1er janvier 1990.
+
+((3. L'acte qui constate le transfert de propriété des immeubles mentionnés au 1 consécutivement à l'acceptation de la promesse unilatérale de vente doit indiquer si le nouveau propriétaire, ou les associés s'il s'agit d'une société, demandent le report de l'imposition de la plus-value dans les conditions prévues au 1. A défaut, les dispositions du 1 ne sont pas applicables.
+
+((4. Un décret fixe les conditions d'application du présent IV, notamment les obligations déclaratives des contribuables)) (M).
+
+(M) Modification de la loi.

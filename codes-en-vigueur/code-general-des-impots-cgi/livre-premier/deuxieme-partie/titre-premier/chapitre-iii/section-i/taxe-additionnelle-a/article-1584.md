@@ -1,6 +1,6 @@
 # Article 1584
 
-1. Est perçue, au profit des communes de plus de 5.000 habitants [*nombre*], ainsi que de celles d'une population inférieure classées comme stations balnéaires, thermales, climatiques, de tourisme et de sports d'hiver, une taxe additionnelle aux droits d'enregistrement ou à la taxe de publicité foncière exigibles sur les mutations à titre onéreux :
+1. Est perçue, au profit des communes de plus de 5.000 habitants, ainsi que de celles d'une population inférieure classées comme stations balnéaires, thermales, climatiques, de tourisme et de sports d'hiver, une taxe additionnelle aux droits d'enregistrement ou à la taxe de publicité foncière exigibles sur les mutations à titre onéreux :
 
 1° D'immeubles et de droits immobiliers situés sur leur territoire;
 
@@ -46,7 +46,7 @@ La taxe est soumise aux règles qui gouvernent l'exigibilité, la restitution et
 
 4° Ventes opérées en vertu de l'article L342-11 du code rural ;
 
-5° Ventes opérées en vertu de la loi du 8 août 1913 sur les warrants hôteliers en cas de non-paiement du warrant;
+5° Ventes opérées en vertu de la loi du 8 août 1913 ((modifiée)) (1') sur les warrants hôteliers en cas de non-paiement du warrant;
 
 6° Ventes de marchandises avariées par suite d'événements de mer et de débris de navires naufragés;
 
@@ -59,3 +59,5 @@ La taxe est soumise aux règles qui gouvernent l'exigibilité, la restitution et
 10° (Abrogé)
 
 (1) La perception de cette taxe a été étendue aux communes du département de la Guyane par l'article 10-I de la loi n° 71-1025 du 24 décembre 1971.
+
+(1') Modification de la loi.

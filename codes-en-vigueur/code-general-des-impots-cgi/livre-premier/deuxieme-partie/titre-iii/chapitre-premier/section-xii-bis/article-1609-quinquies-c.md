@@ -24,6 +24,8 @@ b) Le taux moyen pondéré de la taxe d'habitation et des taxes foncières est �
 
 c) La variation des taux définis aux a et b est celle constatée l'année précédant celle au titre de laquelle la communauté de communes vote le taux de taxe professionnelle applicable dans la zone d'activités économiques.
 
+((2° bis En cas d'incorporation d'une commune ou partie de commune dans une zone d'activités économiques, les dispositions du III de l'article 1638 quater sont applicables)) (1) ;
+
 3° Les groupements de communes soumis aux dispositions du présent paragraphe bénéficient de la compensation prévue au IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986), modifié par l'article 46 de la loi de finances pour 1992 (n° 91-1322 du 30 décembre 1991), et de l'article 124 de la loi n° 92-125 du 6 février 1992 d'orientation relative à l'administration territoriale de la République au lieu et place de leurs communes membres pour les pertes de bases de taxe professionnelle résultant, dans la zone d'activités économiques, de l'application de l'article 1469 A bis et du dernier alinéa du II de l'article 1478.
 
 Pour le calcul de cette compensation :
@@ -33,3 +35,5 @@ a) Le taux de taxe professionnelle à retenir est le taux moyen pondéré de tax
 b) Les recettes fiscales à retenir, la première année d'application des dispositions du présent paragraphe pour le calcul de la réfaction de 2 p. 100 prévue au IV bis de l'article 6 précité, s'entendent du montant de la taxe professionnelle perçu par les communes membres, l'année précédente, dans la zone d'activités économiques ; ce montant est, le cas échéant, majoré des recettes fiscales perçues, la même année, par le groupement ayant opté pour le régime fiscal prévu au présent paragraphe ou, lorsqu'il s'agit d'une communauté de communes, par le groupement dont celle-ci est issue.
 
 III. Les dispositions de l'article 1609 nonies C sont applicables aux communautés de communes par délibération du conseil de communauté statuant à la majorité des trois quarts. Cette décision demeure applicable tant qu'elle n'a pas été rapportée dans les mêmes conditions.
+
+(1) Modification de la loi.
