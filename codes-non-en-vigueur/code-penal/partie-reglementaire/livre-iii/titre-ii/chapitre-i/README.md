@@ -6,3 +6,4 @@
 - [Section IV : Attentats aux moeurs](section-iv)
 - [Section V : Arrestations illégales et séquestrations de personnes.](section-v)
 - [Section VI : Crimes et délits tendant à emp^echer ou détruire la preuve de l'état civil d'un enfant ou à compromettre son existence ; enlèvement de mineurs ; abandon de famille ; infractions aux lois sur les inhumations](section-vi)
+- [Section VII : Faux témoignage, atteinte à la vie privée, dénonciation calomnieuse, révélation de secrets](section-vii)
