@@ -8,6 +8,8 @@ Le conseil d'administration délibère sur les orientations stratégiques pluria
 
 Le directeur général prend au nom de l'Etat les décisions qui relèvent de la compétence de l'agence.
 
+Le directeur général émet également les avis et recommandations qui relèvent de la compétence de l'agence.
+
 Un conseil scientifique, dont le président est désigné par les ministres chargés de la santé, de l'agriculture et de la consommation après avis dudit conseil, veille à la cohérence de la politique scientifique de l'agence.
 
 L'agence est soumise à un régime administratif, budgétaire, financier et comptable et à un contrôle de l'Etat adaptés à la nature particulière de sa mission, définis par le présent chapitre et précisés par décret en Conseil d'Etat.
