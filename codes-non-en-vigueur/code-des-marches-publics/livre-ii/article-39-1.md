@@ -1,6 +1,6 @@
-# Article 250 bis
+# Article 39-1
 
-Par dérogation aux dispositions de l'article 250, ne sont pas soumis aux dispositions du présent livre les marchés ayant pour objet :
+Par dérogation aux dispositions de l'article 39, ne sont pas soumis aux dispositions du présent livre les marchés ayant pour objet :
 
 1° Des emprunts ou des engagements de financement, qu'ils soient destinés à la couverture d'un besoin de financement ou de trésorerie, des services relatifs à l'émission, à l'achat, à la vente ou au transfert de titres ou d'autres instruments financiers ;
 
