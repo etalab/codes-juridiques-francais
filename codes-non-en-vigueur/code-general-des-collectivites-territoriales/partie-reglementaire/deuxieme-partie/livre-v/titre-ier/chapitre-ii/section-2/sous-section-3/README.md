@@ -2,6 +2,8 @@
 
 - [Article R2512-22](article-r2512-22.md)
 - [Article R2512-23](article-r2512-23.md)
+- [Article R2512-24](article-r2512-24.md)
+- [Article R2512-25](article-r2512-25.md)
 - [Article R2512-26](article-r2512-26.md)
 - [Article R2512-27](article-r2512-27.md)
 - [Article R2512-28](article-r2512-28.md)
