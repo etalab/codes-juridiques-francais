@@ -6,4 +6,4 @@ Chaque versement anticipé est égal à 0,825 % du montant de l'impôt sur les s
 
 Le versement anticipé dont l'échéance est comprise entre la date de clôture d'un exercice ou la fin d'une période d'imposition et l'expiration du délai de déclaration fixé au deuxième alinéa du 1 de l'article 223 du code général des impôts est calculé et régularisé, au taux de 0,825 %, dans les conditions fixées aux troisième et quatrième alinéas de l'article 360.
 
-Sont dispensées des versements anticipés les sociétés pour lesquelles le montant de la contribution sociale calculée sur l'impôt sur les sociétés de référence n'excède pas 152 euros.
+Sont dispensées des versements anticipés les sociétés pour lesquelles le montant de la contribution sociale calculée sur l'impôt sur les sociétés de référence n'excède pas 3 000 euros.
