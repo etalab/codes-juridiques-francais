@@ -7,4 +7,6 @@
 - [Section 5 : Dispositions conservatoires et clôture des opérations.](section-5)
 - [Section 6 : Dispositions pénales.](section-6)
 - [Section 7 : Dispositions d'application.](section-7)
+- [Section 7 : Cas de certaines petites parcelles.](section-7-cas)
+- [Section 8 : Dispositions d'application.](section-8)
 - [Article L121-1](article-l121-1.md)

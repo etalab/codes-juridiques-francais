@@ -7,3 +7,5 @@ Ces boisements, haies et plantations sont identifiés par un plan et un descript
 Leur destruction est soumise à l'autorisation préalable du préfet, donnée après avis de la commission départementale d'aménagement foncier s'il s'agit d'éléments identifiés en application du 6° de l'article L. 123-8 du présent code.
 
 Les boisements linéaires, haies et plantations d'alignement protégés en application du présent article bénéficient des aides publiques et des exonérations fiscales attachées aux bois, forêts et terrains à boiser. Ils peuvent donner lieu à la passation d'un contrat d'entretien avec le propriétaire ou le preneur.
+
+A la demande du propriétaire, le préfet peut également, sur avis de la commission départementale d'aménagement foncier, prononcer la protection de vergers de hautes tiges.

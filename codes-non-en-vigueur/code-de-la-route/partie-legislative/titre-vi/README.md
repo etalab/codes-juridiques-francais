@@ -4,6 +4,7 @@
 - [Article L21-1](article-l21-1.md)
 - [Article L22](article-l22.md)
 - [Article L23](article-l23.md)
+- [Article L23-2](article-l23-2.md)
 - [Article L24](article-l24.md)
 - [Article L25](article-l25.md)
 - [Article L25-1](article-l25-1.md)
