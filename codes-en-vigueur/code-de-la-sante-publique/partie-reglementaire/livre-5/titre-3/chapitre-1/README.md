@@ -1,7 +1,7 @@
 # CHAPITRE 1 : SUBSTANCES VENENEUSES
 
 - [SECTION 1 : GENERALITES.](section-1)
-- [SECTION 2 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE](section-2)
-- [SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE](section-3)
+- [Section 2 : Substances dangereuses, stupéfiantes ou psychotropes](section-2)
+- [Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact](section-3)
 - [SECTION 4 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE](section-4)
 - [SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS](section-5)
