@@ -4,7 +4,7 @@
 - [Chapitre II : Territoire de chasse](chapitre-ii)
 - [Chapitre III : Permis de chasser.](chapitre-iii)
 - [Chapitre IV : Exercice de la chasse](chapitre-iv)
-- [Chapitre V : Plan de chasse.](chapitre-v)
+- [Chapitre V : Gestion](chapitre-v)
 - [Chapitre VI : Indemnisation des dégâts de gibier](chapitre-vi)
 - [Chapitre VII : Destruction des animaux nuisibles et louveterie](chapitre-vii)
 - [Chapitre VIII : Dispositions pénales](chapitre-viii)
