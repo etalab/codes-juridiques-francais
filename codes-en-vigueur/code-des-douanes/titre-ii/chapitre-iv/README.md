@@ -6,3 +6,4 @@
 - [Section 5 : Contrôles douaniers des envois par la poste.](section-5)
 - [Section 6 : Présentation des passeports.](section-6)
 - [Section 7 : Livraisons surveillées.](section-7)
+- [Section 8 : Retenue provisoire des personnes dans le cadre de la convention d'application de l'accord de Schengen du 14 juin 1985.](section-8)
