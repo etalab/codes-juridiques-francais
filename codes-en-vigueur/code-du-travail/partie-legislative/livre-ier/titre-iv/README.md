@@ -1,4 +1,4 @@
-# Titre IV : Salaire.
+# Titre IV : SALAIRES
 
 - [Chapitre préliminaire : Egalité de rémunération entre les hommes et les femmes.](chapitre-preliminaire)
 - [Chapitre Ier : Salaire minimum de croissance](chapitre-ier)

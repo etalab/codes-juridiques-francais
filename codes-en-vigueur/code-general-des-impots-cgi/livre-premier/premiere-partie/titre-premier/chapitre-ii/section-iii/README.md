@@ -10,6 +10,7 @@
 - [Article 210 C](article-210-c.md)
 - [Article 210 ter](article-210-ter.md)
 - [Article 210 quinquies](article-210-quinquies.md)
+- [Article 210 D](article-210-d.md)
 - [Article 210 sexies](article-210-sexies.md)
 - [Article 210 B](article-210-b.md)
 - [Article 211](article-211.md)
