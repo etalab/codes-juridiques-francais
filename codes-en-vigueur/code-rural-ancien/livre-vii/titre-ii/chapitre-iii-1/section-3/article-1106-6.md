@@ -10,6 +10,8 @@ Toutefois, pour les personnes assujetties au titre d'une activité autre que la 
 
 Dans le bail à métayage, le revenu cadastral retenu pour l'application au preneur du présent article est la partie du revenu cadastral de l'exploitation qui correspond à ses droits dans le partage des fruits.
 
+L'assiette des cotisations dues par les associés exploitants d'une exploitation agricole à responsabilité limitée constituée conformément à la loi n° 85-697 du 11 juillet 1985 relative à l'entreprise unipersonnelle à responsabilité limitée et à l'exploitation agricole à responsabilité limitée est répartie entre les associés exploitants dans les conditions prévues à l'article 1065.
+
 Les cotisations dues pour les assujettis prévus au 6° du I de l'article 1106-1 pour la couverture des risques assurés et des dépenses complémentaires y afférentes sont intégralement à la charge des assureurs débiteurs des pensions d'invalidité mentionnées au B de l'article 1234-3. Les modalités de détermination de ces cotisations sont fixées par décret en Conseil d'Etat.
 
 Les opérations financières relatives au présent chapitre sont retracées, en recettes et en dépenses, dans le budget annexe des prestations sociales agricoles.

@@ -1,5 +1,6 @@
 # Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration.
 
+- [Article 1004](article-1004.md)
 - [Article 1005](article-1005.md)
 - [Article 1006](article-1006.md)
 - [Article 1007](article-1007.md)

@@ -1,6 +1,6 @@
 # Article L411-58
 
-Le bailleur a le droit de refuser le renouvellement du bail s'il veut reprendre le bien loué pour lui-même ou au profit d'un descendant majeur ou mineur émancipé de plein droit.
+Le bailleur a le droit de refuser le renouvellement du bail s'il veut reprendre le bien loué pour lui-même ou au profit du conjoint ou d'un descendant majeur ou mineur émancipé de plein droit.
 
 Toutefois, le preneur peut s'opposer à la reprise lorsque lui-même, ou en cas de copreneurs l'un d'entre eux, se trouve à moins de cinq ans de l'âge auquel peut lui être accordée l'indemnité viagère de départ prévue par l'article 27 de la loi du 8 août 1962 complémentaire à la loi d'orientation agricole. Dans ce cas, le bail est prorogé de plein droit pour une durée égale à celle qui doit permettre au preneur ou à l'un des copreneurs d'atteindre cet âge. Pendant cette période, aucune cession du bail n'est possible. Le preneur doit, dans les quatre mois du congé qu'il a reçu, notifier au propriétaire par lettre recommandée avec demande d'avis de réception, sa décision de s'opposer à la reprise ou saisir directement le tribunal paritaire en contestation de congé.
 
@@ -12,4 +12,4 @@ Si l'opération envisagée est subordonnée à une autorisation en application d
 
 Si le bénéficiaire de la reprise se trouve, à l'expiration du congé donné conformément aux dispositions de l'article L. 411-47, soumis aux obligations du service national, la date d'effet du congé est reportée à la fin de l'année culturale du retour de l'intéressé à la vie civile.
 
-Lorsque le bien loué a été aliéné moyennant le versement d'une rente viagère servie pour la totalité ou pour l'essentiel sous forme de prestations de services personnels, le droit de reprise ne peut être exercé sur le bien dans les neuf premières années suivant la date d'acquisition.
+Lorsque le bien loué a été aliéné moyennant le versement d'une rente viagère servie pour totalité ou pour l'essentiel sous forme de prestations de services personnels, le droit de reprise ne peut être exercé sur le bien dans les neuf premières années suivant la date d'acquisition.

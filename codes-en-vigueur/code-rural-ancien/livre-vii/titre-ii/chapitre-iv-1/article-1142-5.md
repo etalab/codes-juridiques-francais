@@ -1,6 +1,6 @@
-# Article 1121
+# Article 1142-5
 
-Les chefs d'exploitation ou d'entreprise agricoles qui ont exercé à titre exclusif ou à titre principal une activité non salariée agricole ont droit à une retraite qui comprend :
+Les chefs d'exploitation ou d'entreprise agricoles qui ont exercé à titre exclusif ou à titre principal une activité non salariée agricole, ont droit à une retraite qui comprend :
 
 1° Une pension de retraite forfaitaire dont le montant maximal attribué pour trente-sept années et demie au moins d'activité non salariée agricole est égal à celui que fixe l'article 1116 pour l'allocation de vieillesse. Lorsque la durée d'activité a été inférieure à trente-sept années et demie, le montant de la retraite est calculé proportionnellement à cette durée ;
 
@@ -11,5 +11,3 @@ Pour les assurés qui demandent la liquidation de leurs droits à retraite avant
 Le total de la retraite forfaitaire et de la retraite proportionnelle ne peut dépasser un montant qui est fixé en fonction du nombre d'annuités des intéressés et par référence au montant des retraites servies par le régime général de la sécurité sociale.
 
 Les conditions d'application des dispositions ci-dessus sont fixées par décret en Conseil d'Etat.
-
-Un décret fixe les modalités selon lesquelles sont prises en compte pour le calcul de la retraite proportionnelle les cotisations versées par des exploitants agricoles au titre des assurances sociales agricoles obligatoires ou facultatives.

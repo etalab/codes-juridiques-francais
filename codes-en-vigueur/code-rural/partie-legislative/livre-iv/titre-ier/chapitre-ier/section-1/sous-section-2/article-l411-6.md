@@ -1,6 +1,6 @@
 # Article L411-6
 
-Par dérogation à l'article précédent, au moment du renouvellement du bail, le preneur ne peut refuser l'introduction d'une clause de reprise à la fin de la sixième année suivant ce renouvellement au profit d'un ou de plusieurs descendants majeurs ou mineurs émancipés, qui devront exploiter personnellement dans les conditions fixées à l'article L. 411-59.
+Par dérogation à l'article précédent, au moment du renouvellement du bail, le preneur ne peut refuser l'introduction d'une clause de reprise à la fin de la sixième année suivant ce renouvellement au profit du conjoint ou d'un ou de plusieurs descendants majeurs ou mineurs émancipés, qui devront exploiter personnellement dans les conditions fixées à l'article L. 411-59.
 
 Lorsqu'une clause de reprise en cours de bail figure dans le bail initial ou le bail renouvelé, elle ne peut s'exercer que dans les conditions prévues à l'alinéa qui précède, sauf s'il s'agit d'un bail conclu ou renouvelé au nom du propriétaire ou d'un copropriétaire mineur, qui peut, à compter de sa majorité ou de son émancipation, exciper à son profit de la clause inscrite dans le bail à l'expiration de chaque période triennale en vue d'exploiter personnellement dans les conditions susmentionnées.
 
