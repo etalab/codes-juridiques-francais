@@ -14,6 +14,7 @@
 - [Article 469-2](article-469-2.md)
 - [Article 469-3](article-469-3.md)
 - [Article 469-4](article-469-4.md)
+- [Article 469-5](article-469-5.md)
 - [Article 470](article-470.md)
 - [Article 470-1](article-470-1.md)
 - [Article 471](article-471.md)
