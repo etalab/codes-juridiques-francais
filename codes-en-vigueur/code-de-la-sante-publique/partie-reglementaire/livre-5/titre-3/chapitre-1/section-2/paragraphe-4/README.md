@@ -1,3 +1,0 @@
-# PARAGRAPHE 4 : SUBSTANCES DANGEREUSES (TABLEAU C).
-
-- [Article R5167](article-r5167.md)

@@ -3,5 +3,3 @@
 - [SECTION 1 : GENERALITES.](section-1)
 - [Section 2 : Substances dangereuses, stupéfiantes ou psychotropes](section-2)
 - [Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact](section-3)
-- [SECTION 4 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE](section-4)
-- [SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS](section-5)
