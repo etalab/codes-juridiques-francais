@@ -8,5 +8,6 @@
 - [Article 46 AG undecies](article-46-ag-undecies.md)
 - [Article 46 AG duodecies](article-46-ag-duodecies.md)
 - [Article 46 AG terdecies](article-46-ag-terdecies.md)
+- [Article 46 AG terdecies A](article-46-ag-terdecies-a.md)
 - [Article 46 AG quaterdecies](article-46-ag-quaterdecies.md)
 - [Article 46 AG quindecies](article-46-ag-quindecies.md)
