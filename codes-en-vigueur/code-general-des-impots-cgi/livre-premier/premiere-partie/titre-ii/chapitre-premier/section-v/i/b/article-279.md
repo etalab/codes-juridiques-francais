@@ -6,7 +6,7 @@ a. Les prestations relatives :
 
 à la fourniture de logement et aux trois quarts du prix de pension ou de demi-pension dans les établissements d'hébergement ; ce taux s'applique aux locations meublées dans les mêmes conditions que pour les établissements d'hébergement ;
 
-à la fourniture de logement et de nourriture dans les maisons de retraite. Ce taux s'applique également aux prestations exclusivement liées à l'état de dépendance des personnes âgées hébergées dans ces établissements et qui sont dans l'incapacité d'accomplir les gestes essentiels de la vie quotidienne ;
+A la fourniture de logement et de nourriture dans les maisons de retraite et les établissements accueillant des personnes handicapées. Ce taux s'applique également aux prestations exclusivement liées, d'une part, à l'état de dépendance des personnes âgées et, d'autre part, aux besoins d'aide des personnes handicapées, hébergées dans ces établissements et qui sont dans l'incapacité d'accomplir les gestes essentiels de la vie quotidienne ;
 
 à la fourniture de logement dans les terrains de camping classés, lorsque l'exploitant du terrain de camping délivre une note dans les conditions fixées au a ter, assure l'accueil et consacre 1,5 % de son chiffre d'affaires total hors taxes à des dépenses de publicité, ou si l'hébergement est assuré par un tiers lorsque celui-ci consacre 1,5 % de son chiffre d'affaires total en France à la publicité ;
 
@@ -18,7 +18,7 @@ a quater (Abrogé) ;
 
 a quinquies Les prestations de soins dispensées par les établissements thermaux autorisés dans les conditions fixées par l'article L. 162-21 du code de la sécurité sociale ;
 
-b. 1° Les remboursements et les rémunérations versés par les communes ou leurs groupements aux exploitants des services de distribution d'eau et d'assainissement (1).
+b. 1° Les remboursements et les rémunérations versés par les communes ou leurs groupements aux exploitants des services de distribution d'eau et d'assainissement.
 
 2° Les taxes, surtaxes et redevances perçues sur les usagers des réseaux d'assainissement ;
 
@@ -52,7 +52,7 @@ b quinquies les droits d'entrée dans les salles de spectacles cinématographiqu
 
 b sexies (Abrogé) ;
 
-b septies les travaux sylvicoles et d'exploitation forestière réalisés au profit d'exploitants agricoles, y compris les travaux d'entretien des sentiers forestiers (2) ;
+b septies les travaux sylvicoles et d'exploitation forestière réalisés au profit d'exploitants agricoles, y compris les travaux d'entretien des sentiers forestiers ;
 
 b octies les abonnements souscrits par les usagers afin de recevoir :
 
@@ -68,7 +68,9 @@ Les attractions, manèges, spectacles, loteries, jeux et divertissements sportif
 
 Lorsqu'un prix forfaitaire et global donne l'accès à l'ensemble des manifestations organisées, l'exploitant doit faire apparaître dans sa comptabilité une ventilation des recettes correspondant à chaque taux. La détermination de l'assiette de l'impôt s'effectue sur une base réelle ;
 
-b decies les abonnements relatifs aux livraisons d'électricité et de gaz combustible, distribués par réseaux publics ;
+b decies Les abonnements relatifs aux livraisons d'électricité d'une puissance maximale inférieure ou égale à 36 kilovoltampères et de gaz naturel combustible, distribués par réseaux.
+
+La puissance maximale prise en compte correspond à la totalité des puissances maximales souscrites par un même abonné sur un même site ;
 
 c, d, e (Abrogés à compter du 1er janvier 1993) ;
 
@@ -80,4 +82,4 @@ Cette disposition n'est pas applicable aux cessions de droits portant sur des oe
 
 h. Les prestations de collecte, de tri et de traitement des déchets visés aux articles L. 2224-13 et L. 2224-14 du code général des collectivités territoriales, portant sur des matériaux ayant fait l'objet d'un contrat conclu entre une commune ou un établissement public de coopération intercommunale et un organisme ou une entreprise agréé au titre de l'article L. 541-2 du code de l'environnement ;
 
-i. Jusqu'au 31 décembre 2003, les prestations de services fournies par des entreprises agréées en application du II de l'article L. 129-1 du code du travail.
+i. les prestations de services fournies par des entreprises agréées en application du II de l'article L. 129-1 du code du travail.

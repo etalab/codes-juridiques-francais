@@ -1,11 +1,17 @@
 # Article L522-3
 
-Le conseil d'administration comprend en nombre égal :
+Le conseil d'administration comprend :
 
-1° Des représentants de la région, du département, dont le président du conseil général et des représentants des communes ou des établissements publics de coopération intercommunale ;
+1° Des représentants des services de l'Etat dans le département ;
 
-2° Des représentants des services de l'Etat dans le département ;
+2° Des représentants du département ;
 
-3° Des personnalités qualifiées choisies au sein d'associations ou d'institutions intervenant dans le domaine de l'insertion et de la lutte contre le chômage, nommées en nombre égal par le représentant de l'Etat dans le département et le président du conseil général.
+3° Des représentants de la région et des communes ou des établissements publics de coopération intercommunale ;
 
-Le conseil d'administration comprend en outre un représentant du personnel avec voix consultative.
+4° Des personnalités qualifiées choisies au sein d'associations ou d'institutions intervenant dans le domaine de l'insertion sociale et professionnelle.
+
+Les représentants du département constituent la majorité des membres.
+
+Le conseil d'administration comprend, en outre, un représentant du personnel avec voix consultative.
+
+Le président du conseil général arrête la liste des membres du conseil d'administration, désignés le cas échéant par la collectivité ou la personne morale qu'ils représentent.

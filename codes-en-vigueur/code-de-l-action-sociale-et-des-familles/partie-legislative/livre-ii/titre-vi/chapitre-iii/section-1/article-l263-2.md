@@ -1,6 +1,10 @@
 # Article L263-2
 
-Le conseil départemental d'insertion est coprésidé par le représentant de l'Etat dans le département et le président du conseil général ou leurs délégués. Les membres du conseil départemental d'insertion sont nommés conjointement par le président du conseil général et le représentant de l'Etat dans le département. Le conseil comprend notamment des représentants de la région, du département et des communes, des représentants d'institutions, d'entreprises, d'organismes ou d'associations intervenant dans le domaine économique et social ou en matière de formation professionnelle et des membres des commissions locales d'insertion.
+Un conseil départemental d'insertion, composé notamment de représentants des services de l'Etat, des collectivités territoriales, des organismes chargés de l'emploi et de la formation professionnelle et des autres personnes de droit public ou privé, notamment des associations, oeuvrant dans le domaine de l'insertion et de la lutte contre l'exclusion, est placé auprès du président du conseil général.
+
+Le conseil départemental d'insertion émet un avis sur le programme départemental d'insertion. Il est informé de son exécution.
+
+Le président du conseil général préside le conseil départemental d'insertion et arrête la liste de ses membres. Les membres mentionnés au premier alinéa sont désignés par les personnes morales qu'ils représentent.
 
 Le président de chaque commission locale d'insertion ou le représentant qu'il désigne est membre de droit du conseil départemental d'insertion.
 

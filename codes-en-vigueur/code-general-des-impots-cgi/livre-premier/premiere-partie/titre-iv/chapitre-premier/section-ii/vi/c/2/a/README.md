@@ -9,4 +9,6 @@
 - [Article 784 A](article-784-a.md)
 - [Article 785](article-785.md)
 - [Article 786](article-786.md)
+- [Article 787 C](article-787-c.md)
 - [Article 787 A](article-787-a.md)
+- [Article 787 B](article-787-b.md)

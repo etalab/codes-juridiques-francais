@@ -4,10 +4,8 @@ Pour l'exercice de leur mission, les organismes payeurs mentionnés à l'article
 
 Les informations demandées tant par les organismes instructeurs mentionnés aux articles L. 262-14 et L. 262-15 que par les organismes payeurs mentionnés à l'article L. 262-30 doivent être limitées aux données nécessaires à l'identification de la situation du demandeur en vue de l'attribution de l'allocation et de la conduite des actions d'insertion.
 
-Les personnels des organismes précités ne peuvent communiquer les informations recueillies dans l'exercice de leur mission qu'au représentant de l'Etat dans le département, au président du conseil général et au président de la commission locale d'insertion définie à l'article L. 263-10.
+Les personnels des organismes précités ne peuvent communiquer les informations recueillies dans l'exercice de leur mission qu'au président du conseil général et au président de la commission locale d'insertion définie à l'article L. 263-10.
 
 Les organismes payeurs transmettent à ceux-ci ainsi qu'aux présidents des centres communaux d'action sociale et aux organismes instructeurs concernés la liste des personnes percevant une allocation de revenu minimum d'insertion.
 
 Lorsqu'elles sont conservées sur support informatique, les informations mentionnées au présent article peuvent faire l'objet de transmission entre les organismes susmentionnés, dans les conditions prévues à l'article 15 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. Un décret fixe les modalités d'information des bénéficiaires qui font l'objet d'un contrôle défini dans le présent article.
-
-La nature des informations que les collectivités publiques et les organismes associés à la gestion du revenu minimum d'insertion sont tenus de fournir, aux fins d'établissement des statistiques, à l'Etat et aux autres collectivités et organismes associés est déterminée par décret.

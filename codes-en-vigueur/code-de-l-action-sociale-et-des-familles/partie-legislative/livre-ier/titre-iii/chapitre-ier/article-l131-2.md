@@ -18,6 +18,8 @@ Le président du conseil général décide :
 
 3° De l'octroi de l'allocation compensatrice aux personnes handicapées, mentionnée à l'article L. 245-1, dans les conditions prévues par les articles L. 245-2 à L. 245-9.
 
+4° De l'octroi de l'allocation de revenu minimum d'insertion dans les conditions prévues au chapitre II du titre VI du livre II.
+
 Ces prestations peuvent être améliorées dans les conditions prévues à l'article L. 121-4.
 
 La commission d'admission à l'aide sociale décide, selon une procédure fixée par voie réglementaire :

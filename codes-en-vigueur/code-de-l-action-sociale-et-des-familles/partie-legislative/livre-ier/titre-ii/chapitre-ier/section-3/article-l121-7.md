@@ -6,7 +6,7 @@ Sont à la charge de l'Etat au titre de l'aide sociale :
 
 2° Les frais d'aide médicale de l'Etat, mentionnée au titre V du livre II ;
 
-3° L'allocation de revenu minimum d'insertion, mentionnée au chapitre II du titre VI du livre II ;
+3° Alinéa abrogé.
 
 4° L'allocation simple aux personnes âgées, mentionnée à l'article L. 231-1 ;
 
