@@ -4,7 +4,9 @@ I. - Lors des contrôles effectués dans les limites de leur compétence et dans
 
 1° Des marchandises soumises à une obligation communautaire de marquage C.E. et dépourvues de ce marquage ;
 
-2° Des marchandises qui, bien que portant le marquage C.E., sont cependant manifestement non conformes à la réglementation du marquage qui leur est applicable.
+2° Des marchandises qui, bien que portant le marquage C.E., sont cependant manifestement non conformes à la réglementation du marquage qui leur est applicable ;
+
+3° Des marchandises qui, bien que munies d'une déclaration C.E. de conformité ou d'aptitude à l'emploi présumant de leur conformité ou d'aptitude à l'emploi présumant de leur conformité aux exigences essentiellement en vertu de la réglementation les concernant, sont cependant non conformes à celles-ci.
 
 Le procureur de la République est informé sans délai par les agents de contrôle de la mesure de consignation.
 

@@ -1,4 +1,4 @@
-# Chapitre II : Navigation réservée.
+# Chapitre II : Dispositions particulières.
 
 - [Article 257](article-257.md)
 - [Article 258](article-258.md)
