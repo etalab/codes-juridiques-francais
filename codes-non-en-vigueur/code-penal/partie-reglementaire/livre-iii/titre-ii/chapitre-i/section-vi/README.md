@@ -2,3 +2,4 @@
 
 - [Paragraphe 1 : Crimes et délits envers l'enfant.](paragraphe-1)
 - [Paragraphe 2 : Enlèvement de mineurs.](paragraphe-2)
+- [Paragraphe 3 : Infraction aux lois sur les inhumations.](paragraphe-3)
