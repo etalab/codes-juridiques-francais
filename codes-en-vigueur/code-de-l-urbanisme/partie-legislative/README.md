@@ -5,4 +5,3 @@
 - [Livre III : Aménagement foncier.](livre-iii)
 - [Livre IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol](livre-iv)
 - [Livre V : Implantation des services, établissements et entreprises](livre-v)
-- [Prévisions et règles d'urbanisme](previsions-et)
