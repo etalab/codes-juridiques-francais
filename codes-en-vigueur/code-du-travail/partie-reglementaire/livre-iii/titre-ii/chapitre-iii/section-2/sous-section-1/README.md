@@ -13,6 +13,3 @@
 - [Article D323-3-11](article-d323-3-11.md)
 - [Article D323-3-12](article-d323-3-12.md)
 - [Article D323-3-13](article-d323-3-13.md)
-- [Article D323-3-14](article-d323-3-14.md)
-- [Article D323-3-15](article-d323-3-15.md)
-- [Article D323-3-16](article-d323-3-16.md)
