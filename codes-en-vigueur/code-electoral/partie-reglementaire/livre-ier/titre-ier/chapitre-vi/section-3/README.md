@@ -1,6 +1,7 @@
 # Section 3 : Vote par procuration
 
 - [Article R*72](article-r-72.md)
+- [Article R*72-1](article-r-72-1.md)
 - [Article R*72-2](article-r-72-2.md)
 - [Article R*73](article-r-73.md)
 - [Article R*74](article-r-74.md)
