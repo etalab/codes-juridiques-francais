@@ -18,4 +18,6 @@ Le Conseil d'Etat est compétent pour connaître en premier et dernier ressort :
 
 8° Des recours en interprétation et des recours en appréciation de légalité des actes dont le contentieux relève en premier et dernier ressort du Conseil d'Etat ;
 
-9° Des recours dirigés contre les décisions ministérielles prises en matière de contrôle des concentrations économiques.
+9° Des recours dirigés contre les décisions ministérielles prises en matière de contrôle des concentrations économiques ;
+
+10° Des recours dirigés contre les sanctions administratives prises par le directeur général du Centre national de la cinématographie en application de l'article 13 du code de l'industrie cinématographique.
