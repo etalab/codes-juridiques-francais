@@ -4,7 +4,7 @@ Les modalités selon lesquelles le tribunal administratif examine les recours en
 
 " Art. 22 bis. - I. - L'étranger qui fait l'objet d'un arrêté préfectoral de reconduite à la frontière peut, dans les quarante-huit heures suivant sa notification lorsque l'arrêté est notifié par voie administrative ou dans les sept jours lorsqu'il est notifié par voie postale, demander l'annulation de cet arrêté au président du tribunal administratif.
 
-Le président ou son délégué statue dans un délai de quarante-huit heures à compter de sa saisine. Il peut se transporter au siège de la juridiction la plus proche du lieu où se trouve l'étranger, si celui-ci est retenu en application de l'article 35 bis de la présente ordonnance.
+Le président ou son délégué statue dans un délai de soixante-douze heures à compter de sa saisine. Il peut se transporter au siège de la juridiction la plus proche du lieu où se trouve l'étranger, si celui-ci est retenu en application de l'article 35 bis de la présente ordonnance.
 
 L'étranger peut demander au président du tribunal ou à son délégué le concours d'un interprète et la communication du dossier contenant les pièces sur la base desquelles la décision attaquée a été prise.
 
@@ -18,4 +18,4 @@ III. - Si l'arrêté de reconduite à la frontière est annulé, il est immédia
 
 IV. - Le jugement du président du tribunal administratif ou de son délégué est susceptible d'appel dans un délai d'un mois devant le président de la section du contentieux du Conseil d'Etat ou un conseiller d'Etat délégué par lui. Cet appel n'est pas suspensif.
 
-A compter d'une date fixée par décret en Conseil d'Etat, cet appel sera interjeté, dans les mêmes conditions, devant le président de la cour administrative d'appel territorialement compétente ou un membre de cette cour désigné par lui. Le même décret fixe les conditions d'application de cette disposition. "
+A compter d'une date fixée par décret en Conseil d'Etat, cet appel sera interjeté, dans les mêmes conditions, devant le président de la cour administrative d'appel territorialement compétente ou un membre de cette cour désigné par lui. Le même décret fixe les conditions d'application de cette disposition".
