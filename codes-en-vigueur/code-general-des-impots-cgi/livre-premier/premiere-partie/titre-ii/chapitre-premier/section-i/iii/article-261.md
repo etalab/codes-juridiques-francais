@@ -18,8 +18,6 @@ Sont exonérés de la taxe sur la valeur ajoutée :
 
 b. Les achats d'objets visés à l'article 257-10°-d opérés en vue d'une vente aux enchères publiques imposée comme il est dit ci-dessus ;
 
-c. (Abrogé) ;
-
 4° Les opérations à terme sur marchandises réalisées sur le marché mentionné à l'article 5 de la loi du 28 mars 1885 sur les marchés à terme à l'exclusion de celles qui déterminent l'arrêt de la filière ;
 
 5° (Abrogé).
@@ -76,9 +74,7 @@ b. Par les entreprises qui, disposant d'une installation permanente, ont réalis
 
 b. les cours ou leçons relevant de l'enseignement scolaire, universitaire, professionnel, artistique ou sportif, dispensés par des personnes physiques qui sont rémunérées directement par leurs élèves ;
 
-5° Les prestations de services et les livraisons de biens effectuées dans le cadre de leur activité libérale par les auteurs des oeuvres de l'esprit désignées à l'article 3 de la loi n° 57-298 du 11 mars 1957 sur la propriété littéraire et artistique, à l'exclusion des opérations réalisées par les architectes et les auteurs de logiciels ;
-
-6° Les prestations fournies par les interprètes des oeuvres de l'esprit, les traducteurs et interprètes de langues étrangères, les guides et accompagnateurs, les sportifs, les artistes du spectacle et les dresseurs d'animaux ;
+5° 6° (Abrogé) (art. 5 VII, à compter du 1er octobre 1991);
 
 7° (Abrogé) (à compter du 1er avril 1991);
 
@@ -100,13 +96,13 @@ c. (Devenu sans objet) ;
 
 d. Les opérations immobilières résultant de l'application des dispositions de l'article 15 modifié de la loi n° 60-808 du 5 août 1960 d'orientation agricole, réalisées par les sociétés d'aménagement foncier et d'établissement rural constituées en application de ce même article et agréées par le ministre de l'agriculture et le ministre du budget (4) ;
 
-Ces dispositions ne s'appliquent pas aux cessions d'immeubles acquis postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990 (5).
+Ces dispositions ne s'appliquent pas aux cessions d'immeubles acquis postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990.
 
 d bis. Toutes les cessions effectuées par les sociétés d'aménagement foncier et d'établissement rural qui, ayant pour objet le maintien, la création ou l'agrandissement d'exploitations agricoles, sont assorties d'un engagement de l'acquéreur pris pour lui et ses ayants cause de conserver la destination des immeubles acquis pendant un délai de dix ans à compter du transfert de propriété.
 
 La même exonération s'applique aux cessions de parcelles boisées à condition que l'ensemble de ces parcelles n'excède pas dix hectares ou, dans le cas contraire, ne soit pas susceptible d'aménagement ou d'exploitation régulière au sens du décret du 28 juin 1930 fixant les conditions d'application de l'article 15 de la loi de finances du 16 avril 1930 ou de l'article L. 222-1 du code forestier.
 
-Les dispositions des deux alinéas précédents ne s'appliquent qu'aux cessions des immeubles acquis postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990 (5).
+Les dispositions des deux alinéas précédents ne s'appliquent qu'aux cessions des immeubles acquis postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990.
 
 e. (Disposition périmée) ;
 
@@ -158,7 +154,7 @@ d. Le caractère désintéressé de la gestion résulte de la réunion des condi
 
 - les membres de l'organisme et leurs ayants droit ne doivent pas pouvoir être déclarés attributaires d'une part quelconque de l'actif, sous réserve du droit de reprise des apports.
 
-Tous les organismes concernés par les a, b et c sont placés sous le régime du chiffre d'affaires réel ; un décret en Conseil d'Etat détermine leurs obligations ainsi que l'étendue et les modalités d'exercice de leurs droits à déduction (6) ;
+Tous les organismes concernés par les a, b et c sont placés sous le régime du chiffre d'affaires réel ; un décret en Conseil d'Etat détermine leurs obligations ainsi que l'étendue et les modalités d'exercice de leurs droits à déduction (5) ;
 
 1° bis Les opérations effectuées par les associations intermédiaires agréées en application de l'article L128  du code du travail, dans les conditions prévues au 1° ;
 
@@ -174,10 +170,8 @@ Tous les organismes concernés par les a, b et c sont placés sous le régime du
 
 (2) Voir décret n° 64-285 du 2 avril 1964 (J.O. du 4).
 
-(3) Ces dispositions ne s'appliquent pas aux biens cédés à des personnes qui ont souscrit un contrat de crédit-bail ou de location avec option d'achat avant le 8 septembre 1989, ni aux véhicules destinés à la location simple, inscrits à l'actif des entreprises de location avant le 8 septembre 1989, si ces véhicules sont cédés à des personnes autres que des négociants en biens d'occasion (Loi n° 89-935 du 29 décembre 1989, art. 31 I 2 et 3).
+(3) Ces dispositions ne s'appliquent pas aux biens cédés à des personnes qui ont souscrit un contrat de crédit-bail ou de location avec option d'achat avant le 8 septembre 1989.
 
 (4) Cf. décret n° 61-610 du 14 juin 1961 (J.O. du 15).
 
-(5) Loi complémentaire à la loi n° 88-1202 du 30 décembre 1988 relative à l'adaptation de l'exploitation agricole à son environnement économique et social (JO du 25 janvier 1990).
-
-(6) Annexe II, art. 242 B et 242 octies.
+(5) Annexe II, art. 242 B et 242 octies.
