@@ -5,3 +5,4 @@
 - [Sous-Section 3 : Associations syndicales, travaux.](sous-section-3)
 - [Sous-Section 4 : Direction de la lutte.](sous-section-4)
 - [Sous-Section 5 : Aide technique et financière de l'Etat.](sous-section-5)
+- [Sous-Section 6 : Voies de défense contre l'incendie.](sous-section-6)
