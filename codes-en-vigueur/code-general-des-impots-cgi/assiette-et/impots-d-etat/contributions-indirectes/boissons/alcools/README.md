@@ -3,7 +3,6 @@
 - [Article 311 bis](article-311-bis.md)
 - [Article 313](article-313.md)
 - [Article 315](article-315.md)
-- [Article 346](article-346.md)
 - [Article 349](article-349.md)
 - [Article 358](article-358.md)
 - [Article 359](article-359.md)
