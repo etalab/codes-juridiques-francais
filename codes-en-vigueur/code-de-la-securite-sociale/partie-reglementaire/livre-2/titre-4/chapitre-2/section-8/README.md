@@ -8,4 +8,3 @@
 - [Article D242-25](article-d242-25.md)
 - [Article D242-26](article-d242-26.md)
 - [Article D242-27](article-d242-27.md)
-- [Article D242-28](article-d242-28.md)
