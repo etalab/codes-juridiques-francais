@@ -4,6 +4,6 @@ Il est établi au profit de l'Institut national des appellations d'origine un dr
 
 0,50 F par hectolitre ou 5 F par hectolitre d'alcool pur pour les boissons alcoolisées autres que les vins ;
 
-0,05 F par kilogramme pour les produits agroalimentaires autres que les vins et les boissons alcoolisées.
+0,05 F par kilogramme pour les produits agroalimentaires ou forestiers autres que les vins et les boissons alcoolisées.
 
 Il est exigible annuellement.

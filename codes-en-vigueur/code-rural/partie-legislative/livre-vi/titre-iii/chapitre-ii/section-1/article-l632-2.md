@@ -29,3 +29,5 @@ Ces accords sont adoptés à l'unanimité des professions membres de l'interprof
 Les dispositions du présent paragraphe ne s'appliquent pas si l'une des parties à l'accord détient une position dominante sur le marché du produit concerné.
 
 Ces accords sont notifiés, dès leur conclusion et avant leur entrée en application, au ministre de l'agriculture, au ministre chargé de l'économie et au Conseil de la concurrence. Un avis mentionnant leur conclusion est publié au Bulletin officiel de la concurrence, de la consommation et de la répression des fraudes.
+
+Les dispositions du présent paragraphe ne s'appliquent pas aux produits forestiers.

@@ -10,6 +10,6 @@ Ces cotisations sont assises sur les quantités, exprimées en unités de masse 
 
 5 F par hectolitre ou 50 F par hectolitre d'alcool pur pour les boissons alcoolisées autres que les vins ;
 
-0,50 F par kilogramme pour les produits agroalimentaires autres que les vins et les boissons alcoolisées.
+0,50 F par kilogramme pour les produits agroalimentaires ou forestiers autres que les vins et les boissons alcoolisées.
 
 Elles sont exigibles annuellement. Un arrêté conjoint du ministre de l'agriculture et du ministre chargé du budget fixe, par appellation, le montant de ces cotisations après avis des comités nationaux concernés de l'Institut national des appellations d'origine.

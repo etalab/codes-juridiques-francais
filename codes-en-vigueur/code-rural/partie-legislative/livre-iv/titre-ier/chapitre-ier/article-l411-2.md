@@ -4,7 +4,7 @@ Les dispositions de l'article L. 411-1 ne sont pas applicables :
 
 - aux conventions conclues en application de dispositions législatives particulières ;
 
-- aux concessions et aux conventions portant sur l'utilisation des forêts ou des biens soumis au régime forestier, y compris sur le plan agricole ou pastoral ;
+- aux concessions et aux conventions portant sur l'utilisation des forêts ou des biens relevant du régime forestier, y compris sur le plan agricole ou pastoral ;
 
 - aux conventions conclues en vue d'assurer l'entretien des terrains situés à proximité d'un immeuble à usage d'habitation et en constituant la dépendance ;
 

@@ -10,9 +10,11 @@ Cette taxe tient lieu de participation forfaitaire aux dépenses du département
 
 Le produit de la taxe peut également être utilisé :
 
-- pour l'aménagement et l'entretien d'espaces naturels, boisés ou non, appartenant aux collectivités locales ou à leurs établissements publics et ouverts au public, ou appartenant à des propriétaires privés à la condition qu'ils aient fait l'objet d'une convention passée en application de l'article L. 130-5 ;
+- pour l'aménagement et l'entretien d'espaces naturels, boisés ou non, appartenant aux collectivités publiques ou à leurs établissements publics et ouverts au public, ou appartenant à des propriétaires privés à la condition qu'ils aient fait l'objet d'une convention passée en application de l'article L. 130-5 ;
 
-- pour l'acquisition, l'aménagement et la gestion des sentiers figurant sur un plan départemental des itinéraires de promenade et de randonnée, établi dans les conditions prévues à l'article 56 de la loi n° 83-663 du 22 juillet 1983 complétant la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat, ainsi que des chemins et servitudes de halage et de marchepied des voies d'eau domaniales concédées qui ne sont pas ouvertes à la circulation générale et pour l'acquisition, par voie amiable ou par exercice du droit de préemption mentionné à l'article L. 142-3, l'aménagement et la gestion des chemins le long des autres cours d'eau et plans d'eau.
+- pour l'acquisition, l'aménagement et la gestion des sentiers figurant sur un plan départemental des itinéraires de promenade et de randonnée, établi dans les conditions prévues à l'article 56 de la loi n° 83-663 du 22 juillet 1983 complétant la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat, ainsi que des chemins et servitudes de halage et de marchepied des voies d'eau domaniales concédées qui ne sont pas ouvertes à la circulation générale et pour l'acquisition, par voie amiable ou par exercice du droit de préemption mentionné à l'article L. 142-3, l'aménagement et la gestion des chemins le long des autres cours d'eau et plans d'eau ;
+
+- pour l'acquisition par un département, une commune, un établissement public de coopération intercommunale ou le Conservatoire de l'espace littoral et des rivages lacustres, de bois et forêts ou de droits sociaux donnant vocation à l'attribution en propriété ou en jouissance de bois et forêts, sous réserve de leur ouverture au public dans les conditions prévues à l'article L. 142-10.
 
 Cette taxe est perçue sur la totalité du territoire du département.
 
@@ -28,7 +30,7 @@ d) les immeubles classés parmi les monuments historiques ou inscrit à l'invent
 
 e) les bâtiments et les installations et travaux divers reconstruits après sinistre dans les conditions fixées au paragraphe II de l'article 1585 D du code général des impôts.
 
-f) Les installations et travaux divers qui sont destinés à être affectés à un service public ou d'utilité publique et réalisés par l'Etat, les collectivités locales ou leurs groupements ou l'un des services et organismes enumérés par le décret pris pour l'application du 1° du I de l'article 1585 C du code général des imp<CB>ts.
+f) Les installations et travaux divers qui sont destinés à être affectés à un service public ou d'utilité publique et réalisés par l'Etat, les collectivités locales ou leurs groupements ou l'un des services et organismes enumérés par le décret pris pour l'application du 1° du I de l'article 1585 C du code général des impôts.
 
 Le conseil général peut exonérer de la taxe départementale des espaces naturels sensibles, les locaux à usage d'habitation principale édifiés pour leur compte ou à titre de prestation de services par les organismes mentionnés à l'article L. 411-2 du code de la construction et de l'habitation et par les sociétés d'économie mixte définies par la loi n° 83-597 du 7 juillet 1983 ou celles à capitaux publics majoritaires réalisant des locaux à usage d'habitation principale financés à titre prépondérant au moyen de prêts ouvrant droit au bénéfice des dispositions prévues au titre V du livre III du code de la construction et de l'habitation.
 
