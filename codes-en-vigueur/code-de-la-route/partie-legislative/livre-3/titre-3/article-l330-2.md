@@ -10,6 +10,8 @@ I. - Ces informations, à l'exception de celles relatives aux gages constitués 
 
 4° Aux militaires de la gendarmerie ou aux fonctionnaires de la police nationale habilités à effectuer des contrôles routiers en application des dispositions du présent code ;
 
+4° bis Aux agents de police judiciaire adjoints et aux gardes champêtres, aux seules fins d'identifier les auteurs des infractions au présent code qu'ils sont habilités à constater ;
+
 5° Aux fonctionnaires habilités à constater des infractions au présent code, aux seules fins d'identifier les auteurs de ces infractions ;
 
 6° Aux préfets, pour l'exercice de leurs compétences en matière de circulation des véhicules ;
