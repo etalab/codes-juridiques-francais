@@ -4,8 +4,8 @@ Ne sont pas applicables à la collectivité territoriale de Saint-Pierre-et-Miqu
 
 1° L'article L. 241-2 ;
 
-2° L'article L. 243-3 ;
+2° (Abrogé)
 
-3° L'article L. 245-10 ;
+3° (Abrogé)
 
 4° Le titre V du livre III.
