@@ -14,6 +14,5 @@
 - [EMPLOI](emploi)
 - [LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES](les-groupements-professionnels-la-representation-la-participation-et)
 - [PLACEMENT ET EMPLOI](placement-et)
-- [PLACEMENTS ET EMPLOI](placements-et)
 - [FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE](formation-professionnelle-continue-dans-le-cadre-de-l-education-permanente)
 - [REGLEMENTATION DU TRAVAIL](reglementation-du-travail)
