@@ -12,6 +12,8 @@ Toutefois, l'intéressé n'est forclos qu'après un délai de deux mois à compt
 
 2° Dans le contentieux de l'excès de pouvoir, si la mesure sollicitée ne peut être prise que par décision ou sur avis des assemblées locales ou de tous autres organismes collégiaux.
 
+3° Dans le cas où la réclamation tend à obtenir l'exécution d'une décision de la juridiction administrative.
+
 La date du dépôt de la réclamation à l'administration, constatée par tous moyens, doit être établie à l'appui de la requête.
 
 Les dispositions du présent article ne dérogent pas aux textes qui ont introduit des délais spéciaux d'une autre durée.
