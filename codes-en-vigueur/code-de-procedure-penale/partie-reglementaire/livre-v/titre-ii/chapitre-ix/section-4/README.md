@@ -3,3 +3,4 @@
 - [Article D424](article-d424.md)
 - [Article D424-1](article-d424-1.md)
 - [Article D425](article-d425.md)
+- [Article D426](article-d426.md)
