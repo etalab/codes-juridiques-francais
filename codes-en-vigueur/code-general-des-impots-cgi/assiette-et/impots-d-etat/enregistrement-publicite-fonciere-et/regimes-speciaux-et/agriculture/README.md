@@ -1,6 +1,5 @@
 # AGRICULTURE.
 
-- [Article 1024](article-1024.md)
 - [Article 1025](article-1025.md)
 - [Article 1028](article-1028.md)
 - [Article 1032](article-1032.md)
