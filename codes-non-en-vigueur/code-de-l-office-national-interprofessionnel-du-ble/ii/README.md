@@ -18,6 +18,7 @@
 - [Article 15 ter](article-15-ter.md)
 - [Article 16 bis](article-16-bis.md)
 - [Article 17](article-17.md)
+- [Article 18](article-18.md)
 - [Article 18 bis](article-18-bis.md)
 - [Article 20](article-20.md)
 - [Article 21](article-21.md)
