@@ -5,3 +5,4 @@
 - [Article 434-40](article-434-40.md)
 - [Article 434-41](article-434-41.md)
 - [Article 434-42](article-434-42.md)
+- [Article 434-43](article-434-43.md)

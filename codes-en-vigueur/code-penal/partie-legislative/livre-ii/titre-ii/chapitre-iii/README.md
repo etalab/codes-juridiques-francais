@@ -6,4 +6,5 @@
 - [Section 4 : De l'expérimentation sur la personne humaine.](section-4)
 - [Section 5 : De l'interruption illégale de la grossesse.](section-5)
 - [Section 6 : De la provocation au suicide.](section-6)
+- [Section 6 bis : De l'abus frauduleux de l'état d'ignorance ou de faiblesse.](section-6-bis)
 - [Section 7 : Peines complémentaires applicables aux personnes physiques.](section-7)
