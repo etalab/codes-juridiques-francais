@@ -2,6 +2,7 @@
 
 - [Article L1612-3](article-l1612-3.md)
 - [Article L1612-4](article-l1612-4.md)
+- [Article L1612-5](article-l1612-5.md)
 - [Article L1612-6](article-l1612-6.md)
 - [Article L1612-7](article-l1612-7.md)
 - [Article L1612-8](article-l1612-8.md)
