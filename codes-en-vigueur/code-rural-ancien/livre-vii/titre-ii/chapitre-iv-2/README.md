@@ -2,7 +2,6 @@
 
 - [Article 1142-12](article-1142-12.md)
 - [Article 1142-13](article-1142-13.md)
-- [Article 1142-14](article-1142-14.md)
 - [Article 1142-15](article-1142-15.md)
 - [Article 1142-16](article-1142-16.md)
 - [Article 1142-17](article-1142-17.md)
