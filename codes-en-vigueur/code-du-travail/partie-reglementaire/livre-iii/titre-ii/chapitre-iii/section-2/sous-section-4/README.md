@@ -1,6 +1,8 @@
 # Sous-section 4 : Travail protégé.
 
 - [Article D323-17](article-d323-17.md)
+- [Article D323-18](article-d323-18.md)
+- [Article D323-20](article-d323-20.md)
 - [Article D323-21](article-d323-21.md)
 - [Article D323-22](article-d323-22.md)
 - [Article D323-23](article-d323-23.md)
