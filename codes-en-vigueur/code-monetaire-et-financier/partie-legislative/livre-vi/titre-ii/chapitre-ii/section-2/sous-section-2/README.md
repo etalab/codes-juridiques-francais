@@ -13,3 +13,4 @@
 - [Article L622-18](article-l622-18.md)
 - [Article L622-19](article-l622-19.md)
 - [Article L622-20](article-l622-20.md)
+- [Article L622-20-1](article-l622-20-1.md)

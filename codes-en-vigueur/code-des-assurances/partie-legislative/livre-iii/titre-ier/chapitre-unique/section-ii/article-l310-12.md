@@ -12,4 +12,6 @@ La commission peut décider de soumettre au contrôle toute personne physique ou
 
 La commission veille également au respect, par les entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1-1 et les sociétés de participations d'assurance définies à l'article L. 345-1, des dispositions législatives et réglementaires qui leur sont applicables en vertu du présent livre. Un arrêté du ministre chargé de l'économie détermine la nature, la périodicité et le contenu des informations et des documents que les entreprises mentionnées au présent alinéa sont tenues de communiquer périodiquement à la commission de contrôle des assurances pour lui permettre d'exercer sa mission.
 
+La commission s'assure également que les dispositions du titre VI du livre V du code monétaire et financier sont appliquées par les entreprises mentionnées à l'article L. 310-1 ainsi que par les personnes physiques ou morales mentionnées au cinquième alinéa et soumises à son contrôle.
+
 Le mandat des membres de la présente commission à la date de publication de la loi n° 97-277 du 25 mars 1997 créant les plans d'épargne retraite est prolongé jusqu'au 31 décembre 2000.

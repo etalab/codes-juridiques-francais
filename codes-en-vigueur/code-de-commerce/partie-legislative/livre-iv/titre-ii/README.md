@@ -6,3 +6,4 @@
 - [Article L420-4](article-l420-4.md)
 - [Article L420-5](article-l420-5.md)
 - [Article L420-6](article-l420-6.md)
+- [Article L420-7](article-l420-7.md)

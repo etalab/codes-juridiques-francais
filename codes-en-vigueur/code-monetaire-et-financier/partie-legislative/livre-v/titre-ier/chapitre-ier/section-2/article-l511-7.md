@@ -12,6 +12,6 @@ Les interdictions définies à l'article L. 511-5 ne font pas obstacle à ce qu'
 
 5. Emettre des bons et cartes délivrés pour l'achat auprès d'elle, d'un bien ou d'un service déterminé ;
 
-6. Remettre des espèces en garantie d'un prêt de titres en application du 3 de l'article L. 432-6 ;
+6. Remettre des espèces en garantie d'une opération sur instruments financiers ou d'une opération de prêt de titres régies par les dispositions de l'article L. 431-7 ;
 
-7. Prendre ou mettre en pension des valeurs mobilières, des titres de créances négociables sur un marché réglementé français ou étranger ou des effets publics.
+7. Prendre ou mettre en pension des instruments financiers et effets publics visés à l'article L. 432-12.

@@ -1,6 +1,6 @@
 # Article L233-10
 
-I. - Sont considérées comme agissant de concert les personnes qui ont conclu un accord en vue d'acquérir ou de céder des droits de vote ou en vue d'exercer des droits de vote pour mettre en oeuvre une politique commune vis-à-vis de la société.
+I. - Sont considérées comme agissant de concert les personnes qui ont conclu un accord en vue d'acquérir ou de céder des droits de vote, ou en vue d'exercer des droits de vote pour mettre en oeuvre une politique commune vis-à-vis de la société.
 
 II. - Un tel accord est présumé exister :
 

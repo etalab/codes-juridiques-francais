@@ -8,3 +8,4 @@
 - [Article L462-6](article-l462-6.md)
 - [Article L462-7](article-l462-7.md)
 - [Article L462-8](article-l462-8.md)
+- [Article L462-9](article-l462-9.md)

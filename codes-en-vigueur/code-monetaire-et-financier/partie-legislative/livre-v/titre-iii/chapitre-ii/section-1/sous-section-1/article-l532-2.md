@@ -14,6 +14,8 @@ Pour délivrer l'agrément à une entreprise d'investissement, le comité des é
 
 6. Dispose d'un programme d'activité approuvé pour chacun des métiers qu'elle entend exercer.
 
+Le comité peut assortir l'agrément de conditions particulières visant à préserver l'équilibre de la structure financière de l'entreprise. Le comité peut également subordonner l'octroi de l'agrément au respect d'engagements souscrits par l'entreprise requérante.
+
 Le comité peut refuser l'agrément lorsque l'exercice de la mission de surveillance de l'entreprise requérante est susceptible d'être entravé soit par l'existence de liens de capital ou de contrôle directs ou indirects entre l'entreprise et d'autres personnes physiques ou morales, soit par l'existence de dispositions législatives ou réglementaires d'un Etat qui n'est pas partie à l'accord sur l'Espace économique européen et dont relèvent une ou plusieurs de ces personnes.
 
 Le comité des établissements de crédit et des entreprises d'investissement statue dans un délai de trois mois à compter de la transmission de la requête par le conseil des marchés financiers. Sa décision est motivée et notifiée au demandeur.

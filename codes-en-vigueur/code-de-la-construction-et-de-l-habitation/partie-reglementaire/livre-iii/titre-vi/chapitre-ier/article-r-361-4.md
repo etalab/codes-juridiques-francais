@@ -92,7 +92,7 @@ c) Pour les constructeurs, les maîtres d'oeuvre et les entreprises du Bâtiment
 
 - l'Association française des banques ;
 
-- la Chambre syndicale des banques populaires ;
+- la Banque fédérale des banques populaires ;
 
 - la Fédération française des sociétés d'assurances.
 

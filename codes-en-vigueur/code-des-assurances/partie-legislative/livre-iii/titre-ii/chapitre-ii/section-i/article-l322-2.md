@@ -20,7 +20,7 @@ g) Pour recel des choses obtenues à la suite de ces infractions ;
 
 h) Par application des dispositions des articles 75 et 77 à 84 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit.
 
-i) ou par application de l'article L. 627 du code de la santé publique ou de l'article 415 du code des douanes.
+i) Par application des articles 222-38, 324-1 et 324-2 du code pénal ou de l'article 415 du code des douanes.
 
 2° S'il a été condamné à une peine d'emprisonnement supérieure à deux mois en application de l'article 66 du décret du 30 octobre 1935 modifié unifiant le droit en matière de chèque.
 
@@ -31,5 +31,7 @@ i) ou par application de l'article L. 627 du code de la santé publique ou de l'
 5° S'il a fait l'objet d'une mesure de destitution de fonctions d'officier ministériel en vertu d'une décision judiciaire.
 
 Ces interdictions peuvent également être prononcées par les tribunaux à l'encontre de toute personne condamnée pour infractions à la législation ou à la réglementation des assurances.
+
+Les personnes appelées à fonder, diriger ou administrer une entreprise ou une société mentionnée au premier alinéa doivent posséder la compétence ainsi que l'expérience nécessaires à leur fonction.
 
 Les dispositions du présent article sont applicables au mandataire général désigné par les entreprises opérant en régime d'établissement.

@@ -4,7 +4,7 @@ Il sera statué par des décrets en Conseil d'Etat sur les mesures à prendre po
 
 1° La fabrication et l'importation des marchandises autres que celles visées aux articles 258, 259 et 262 du code rural ainsi que la vente, la mise en vente, l'exposition, la détention et la distribution à titre gratuit de toutes marchandises visées par les chapitres II à VI ;
 
-2° Les modes de présentation ou les inscriptions de toute nature sur les marchandises elles-mêmes, les emballages, les factures, les documents commerciaux ou documents de promotion, en ce qui concerne notamment : la nature, les qualités substantielles, la composition, la teneur en principes utiles, l'espèce, l'origine, l'identité, la quantité, l'aptitude à l'emploi, les modes d'emploi ainsi que les marques spéciales facultatives ou obligatoires apposées sur les marchandises françaises exportées à l'étranger ;
+2° Les modes de présentation ou les inscriptions de toute nature sur les marchandises elles-mêmes, les emballages, les factures, les documents commerciaux ou documents de promotion, en ce qui concerne notamment : le mode de production, la nature, les qualités substantielles, la composition, la teneur en principes utiles, l'espèce, l'origine, l'identité, la quantité, l'aptitude à l'emploi, les modes d'emploi ainsi que les marques spéciales facultatives ou obligatoires apposées sur les marchandises françaises exportées à l'étranger ;
 
 3° La définition, la composition et la dénomination des marchandises de toute nature, les traitements licites dont elles peuvent être l'objet, les caractéristiques qui les rendent impropres à la consommation ;
 
