@@ -8,4 +8,6 @@ Peuvent seuls être imputés sur le fonds de réserve institué par l'article pr
 
 3° Les frais du contrôle institué par l'article 67 ;
 
-4° Sur décision du ministre de l'économie et des finances, les dépenses exceptionnelles dont la nature intéresse l'ensemble des caisses d'épargne.
+4° Sur décision du ministre de l'économie et des finances, les dépenses exceptionnelles dont la nature intéresse l'ensemble des caisses d'épargne ;
+
+5° La dotation à prélever pour concourir aux frais de contrôle du centre national des caisses d'épargne et de prévoyance institué par l'article 4 de la loi n° 83-558 du 1er Juillet 1983 portant réforme des caisses d'épargne et de prévoyance.
