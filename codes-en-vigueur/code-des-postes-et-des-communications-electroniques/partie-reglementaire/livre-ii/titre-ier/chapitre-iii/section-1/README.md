@@ -10,4 +10,3 @@
 - [Paragraphe 11 : Télégrammes d'Etat](paragraphe-11)
 - [Paragraphe 12 : Ordre de transmission des télégrammes.](paragraphe-12)
 - [Paragraphe 13 : Remboursement.](paragraphe-13)
-- [Paragraphe 14 : Prescriptions diverses.](paragraphe-14)

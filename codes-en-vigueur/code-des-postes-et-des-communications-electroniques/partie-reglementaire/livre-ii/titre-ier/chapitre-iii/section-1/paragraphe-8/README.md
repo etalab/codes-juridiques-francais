@@ -2,8 +2,6 @@
 
 - [10. : Télégrammes à remettre pendant la nuit.](10)
 - [11. : Télégrammes à remettre seulement pendant les heures de distribution du service de jour.](11)
-- [12. : Télégrammes à remettre ouverts (régime intérieur seulement).](12)
-- [13. : Télégramme avec reçu (régime intérieur seulement).](13)
 - [14. : Télégrammes à remettre en main propre.](14)
 - [15. : Télégrammes adressés "télégraphe restant" ou "poste restante".](15)
 - [16. : Télégrammes à faire suivre sur l'ordre de l'expéditeur.](16)
@@ -15,7 +13,6 @@
 - [21. : Télégrammes avec réponse payée.](21)
 - [22. : Télégrammes avec accusé de réception.](22)
 - [23. : Délivrance à l'expéditeur d'une copie certifiée conforme au texte remis au destinataire.](23)
-- [25. : Télégrammes téléphonés à l'arrivée.](25)
 - [26. : Télégrammes expédiés ou remis dans les trains et les aéronefs.](26)
 - [27. : Télégrammes-lettres.](27)
 - [28. : Télégrammes R.C.T. du régime international.](28)
@@ -24,6 +21,5 @@
 - [30. : Avis de service taxés.](30)
 - [4. : Phototélégrammes.](4)
 - [6. : Télégrammes avec collationnement.](6)
-- [7. : Télégrammes téléphonés par l'expéditeur ou déposés par ligne d'intérêt privé téléphonique ou télégraphique.](7)
 - [8. : Télégrammes à remettre par exprès (service international).](8)
 - [9. : Télégrammes à remettre par poste (régime international).](9)
