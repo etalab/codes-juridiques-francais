@@ -1,0 +1,6 @@
+# Partie législative
+
+- [LIVRE Ier : ORGANISATION COMMUNALE](livre-ier)
+- [LIVRE II : FINANCES COMMUNALES](livre-ii)
+- [LIVRE III : ADMINISTRATION ET SERVICES COMMUNAUX](livre-iii)
+- [LIVRE IV : PERSONNEL COMMUNAL](livre-iv)

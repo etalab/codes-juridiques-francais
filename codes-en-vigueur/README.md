@@ -28,6 +28,7 @@
 - [Code de procédure pénale](code-de-procedure-penale)
 - [Code des assurances](code-des-assurances)
 - [Code des communes](code-des-communes)
+- [Code des communes de la Nouvelle-Calédonie](code-des-communes-de-la-nouvelle-caledonie)
 - [Code des douanes](code-des-douanes)
 - [Code des douanes de Mayotte](code-des-douanes-de-mayotte)
 - [Code des juridictions financières](code-des-juridictions-financieres)
