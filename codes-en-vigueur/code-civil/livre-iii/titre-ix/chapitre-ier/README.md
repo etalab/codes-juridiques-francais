@@ -2,6 +2,7 @@
 
 - [Article 1832](article-1832.md)
 - [Article 1832-1](article-1832-1.md)
+- [Article 1832-2](article-1832-2.md)
 - [Article 1833](article-1833.md)
 - [Article 1834](article-1834.md)
 - [Article 1835](article-1835.md)
