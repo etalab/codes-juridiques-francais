@@ -14,7 +14,7 @@ Les enfants placés sous tutelle du titulaire de la pension ou de son conjoint, 
 
 Les enfants recueillis à son foyer par le titulaire de la pension ou son conjoint, qui justifie, dans les conditions fixées par décret en Conseil d'Etat, en avoir assumé la charge effective et permanente.
 
-III. - A l'exception des enfants décédés par faits de guerre, les enfants devront avoir été élevés pendant au moins neuf ans, soit avant leurseizième anniversaire, soit avant l'âge où ils ont cessé d'être à charge au sens de l'article L. 527 du code de la sécurité sociale.
+III. - A l'exception des enfants décédés par faits de guerre, les enfants devront avoir été élevés pendant au moins neuf ans, soit avant leurseizième anniversaire, soit avant l'âge où ils ont cessé d'être à charge au sens des articles L. 512-3 et R. 512-2 à R. 512-3 du code de la sécurité sociale.
 
 Pour satisfaire la condition de durée ci-dessus, il sera tenu compte, le cas échéant, du temps pendant lequel les enfants auront été élevés par le conjoint après le décès du titulaire.
 
