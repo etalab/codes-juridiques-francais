@@ -4,7 +4,7 @@ Les Français peuvent, sous réserve de leur aptitude et dans la limite des empl
 
 A la date du dépôt de leur demande, ils doivent être âgés de plus de dix-huit ans et de moins de vingt-six ans.
 
-Le volontariat est conclu pour une durée de douze mois. Il est renouvelable chaque année. La durée totale du volontariat ne peut excéder soixante mois.
+Le volontariat est conclu pour une durée de douze mois qui peut être fractionnées si la nature de l'activité concernée le permet. Il est renouvelable chaque année. La durée totale du volontariat ne peut excéder soixante mois.
 
 Il est souscrit au titre d'une armée ou d'une formation rattachée.
 
