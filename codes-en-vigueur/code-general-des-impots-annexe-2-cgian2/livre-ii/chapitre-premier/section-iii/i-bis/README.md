@@ -2,3 +2,4 @@
 
 - [Article 384 D](article-384-d.md)
 - [Article 384 E](article-384-e.md)
+- [Article 384 F](article-384-f.md)
