@@ -1,5 +1,6 @@
 # I : Revenu imposable
 
+- [Article 157 bis](article-157-bis.md)
 - [Article 158 bis](article-158-bis.md)
 - [Article 158 ter](article-158-ter.md)
 - [Article 159](article-159.md)
