@@ -5,7 +5,6 @@
 - [14. : Télégrammes à remettre en main propre.](14)
 - [15. : Télégrammes adressés "télégraphe restant" ou "poste restante".](15)
 - [16. : Télégrammes à faire suivre sur l'ordre de l'expéditeur.](16)
-- [17. : Télégrammes à ne pas faire suivre (régime intérieur seulement).](17)
 - [18. : Télégrammes réexpédiés.](18)
 - [19. : Télégrammes multiples.](19)
 - [2. : Télégrammes de presse.](2)
