@@ -2,4 +2,3 @@
 
 - [Article 1142-3](article-1142-3.md)
 - [Article 1142-4](article-1142-4.md)
-- [Article 1142-5](article-1142-5.md)
