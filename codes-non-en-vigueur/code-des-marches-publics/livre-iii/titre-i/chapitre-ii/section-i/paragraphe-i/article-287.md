@@ -2,8 +2,4 @@
 
 Les résultats de chaque adjudication sont constatés par un procès-verbal relatant les circonstances de l'opération.
 
-Pour les établissements d'hospitalisation publics et les hospices publics, si le procès-verbal n'est pas approuvé par le représentant de l'Etat, l'adjudicataire provisoire en est avisé. Il est alors dégagé de ses obligations.
-
-Lorsque le procès-verbal donne lieu à approbation, et que celle-ci est refusée par l'autorité de tutelle, l'adjudicataire provisoire en est avisé. Il est alors dégagé de ses obligations.
-
-Sous réserve de l'approbation de ce procès-verbal dans le cas des marchés passés par les établissements d'hospitalisation publics et les hospices publics, le marché devient définitif du fait de la signature de l'acte d'engagement par l'autorité compétente de la collectivité ou de l'établissement contractant. Les cahiers des charges fixent le délai dans lequel la notification de la signature du marché doit intervenir. A l'expiration de ce délai, si cette notification n'est pas intervenue, l'adjudicataire provisoire peut retirer la soumission qu'il a présentée ; mais s'il n'a pas usé de cette faculté avant la notification n'est pas intervenue, l'adjudicataire provisoire peut retirer la soumission qu'il a présentée ; mais s'il n'a pas usé de cette faculté avant la notification de la signature du marché, il est engagé irrévocablement vis-à-vis de la collectivité ou de l'établissement contractant par cette notification.
+Si le représentant légal de la collectivité ou de l'établissement contractant ne donne passuite à l'adjudication, l'adjudicataire provisoire en est avisé. Il en va de même pour les établissements d'hospitalisation publics et les hospices publics, si le marché n'est pas approuvé par le représentant de l'Etat.
