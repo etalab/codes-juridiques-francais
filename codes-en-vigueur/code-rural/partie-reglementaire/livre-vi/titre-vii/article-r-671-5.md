@@ -10,7 +10,7 @@ b) De ne pas identifier ou de ne pas faire identifier un ovin ou un caprin né s
 
 c) De ne pas faire identifier un animal dès qu'il entre sur le territoire français, dans les conditions définies à l'article R. 653-34 ;
 
-d) De ne pas tenir et mettre à jour le registre des ovins ou caprins, dans les conditions définies à l'article R. 653-35 ;
+d) (alinéa supprimé) ;
 
 e) De contrevenir aux règles de maintien de l'identification, dans les conditions définies à l'article R. 653-35 ;
 
