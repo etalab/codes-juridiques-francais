@@ -7,3 +7,4 @@
 - [Section 5 : De l'utilisation d'un document délivré par une administration publique comportant des mentions devenues incomplètes ou inexactes.](section-5)
 - [Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés.](section-6)
 - [Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances.](section-7)
+- [Section 8 : De l'intrusion dans les établissements scolaires.](section-8)
