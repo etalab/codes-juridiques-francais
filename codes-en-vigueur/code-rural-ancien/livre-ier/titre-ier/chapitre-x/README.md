@@ -7,4 +7,3 @@
 - [Article 58-21](article-58-21.md)
 - [Article 58-22](article-58-22.md)
 - [Article 58-23](article-58-23.md)
-- [Article 58-24](article-58-24.md)
