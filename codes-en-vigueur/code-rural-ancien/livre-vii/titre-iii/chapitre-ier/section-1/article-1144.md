@@ -4,7 +4,7 @@ Il est institué un régime d'assurance obligatoire contre les accidents du trav
 
 1° les salariés occupés dans les exploitations de culture et d'élevage de quelque nature qu'elles soient, les exploitations de dressage, d'entraînement, les haras ainsi que dans les établissements de toute nature dirigés par l'exploitant agricole en vue de la transformation, du conditionnement et de la commercialisation des produits agricoles lorsque ces activités constituent le prolongement de l'acte de production ou dans les structures d'accueil touristique qui ont pour support l'exploitation.
 
-2° Les ouvriers et employés occupés dans les établissements de conchyliculture et de pisciculture et établissements assimilés, à l'exception de ceux qui relèvent du régime social des marins ;
+2° Les ouvriers et employés occupés dans les établissements de conchyliculture et de pisciculture et établissements assimilés ainsi qu'aux pêcheurs maritimes à pied professionnels tels que définis par le décret en Conseil d'Etat prévu par la loi n° 85-542 du 22 mai 1985 modifiant le décret du 9 janvier 1852 sur l'exercice de la pêche maritime, à l'exception de ceux qui relèvent du régime social des marins ;
 
 3° Les ouvriers et employés occupés à des travaux forestiers et les salariés des entreprises de travaux forestiers.
 

@@ -1,6 +1,6 @@
 # Article 10-7
 
-Les dispositions des articles 10-2, 10-4, 10-6 et 102-24 ne sont pas applicables aux contrats conclus :
+Les dispositions des articles 10-2,10-4,10-6 et 102-24 ne sont pas applicables aux contrats conclus :
 
 1° Au titre des dispositions législatives et réglementaires destinées à favoriser l'embarquement de certaines catégories de demandeurs d'emploi ;
 
@@ -12,6 +12,4 @@ Les dispositions des articles 10-2, 10-4, 10-6 et 102-24 ne sont pas applicables
 
 5° Pour pourvoir des emplois à caractère saisonnier ;
 
-6° Pour l'exécution de marchés internationaux intéressant des activités temporaires déterminées par décret ;
-
-7° Pour pourvoir aux emplois exclusivement rémunérés à la part.
+6° Pour l'exécution de marchés internationaux intéressant des activités temporaires déterminées par décret.
