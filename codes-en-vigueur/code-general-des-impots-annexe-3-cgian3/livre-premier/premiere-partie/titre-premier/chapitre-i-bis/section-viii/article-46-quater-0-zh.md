@@ -1,8 +1,8 @@
 # Article 46 quater-0 ZH
 
-I. - La plus-value ou la moins-value mentionnée au premier alinéa de l'article 223 F du code général des impôts s'entend de la plus-value acquise ou de la moins-value subie depuis la date d'inscription du bien au bilan de la société du groupe qui a effectué la première cession à une autre société du même groupe.
+I. (Sans objet).
 
-II. Pour l'application des dispositions du même article, la société mère doit :
+II. Pour l'application des dispositions de l'article 223 F, la société mère doit :
 
 1. Réintégrer au résultat d'ensemble de chaque exercice une somme égale à la fraction de l'annuité fiscale d'amortissements pratiquée par la société cessionnaire, qui excède la dotation fiscale calculée dans les mêmes conditions et au même taux que cette annuité, sur la valeur nette que l'immobilisation amortissable avait, du point de vue fiscal, dans les écritures de la société du groupe qui a effectué la première cession à une autre société du même groupe. Cette dernière valeur est, le cas échéant, diminuée des amortissements différés en contravention aux dispositions de l'article 39 B du code déjà cité.
 
@@ -18,9 +18,7 @@ Le cas échéant, la plus-value ainsi calculée est majorée des amortissements 
 
 En cas de moins-value, celle-ci est diminuée des mêmes amortissements différés.
 
-III. Les dispositions du 2 du II s'appliquent également lors de la sortie du groupe d'une des sociétés qui ont cédé une immobilisation à une autre société du groupe ou lors de la sortie du groupe de la société qui est propriétaire de cette immobilisation.
-
-Dans ce cas, la plus-value ou la moins-value est calculée en prenant pour premier terme de la différence :
+III. Les dispositions du 2 du II s'appliquent également lors de la sortie du groupe d'une des sociétés qui ont cédé une immobilisation à une autre société du groupe ou lors de la sortie du groupe de la société qui est propriétaire de cette immobilisation.    Dans ce cas, la plus-value ou la moins-value est calculée en prenant pour premier terme de la différence :
 
 Pour une immobilisation amortissable, sa valeur nette comptable dans les écritures de la société qui en est propriétaire ;
 
