@@ -4,4 +4,3 @@
 - [Article L2123-8](article-l2123-8.md)
 - [Article L2123-9](article-l2123-9.md)
 - [Article L2123-10](article-l2123-10.md)
-- [Article L2123-11](article-l2123-11.md)

@@ -10,4 +10,4 @@ II. - Leur protection, leur mise en valeur, leur restauration, leur remise en é
 
 3° Le principe pollueur-payeur, selon lequel les frais résultant des mesures de prévention, de réduction de la pollution et de lutte contre celle-ci doivent être supportés par le pollueur ;
 
-4° Le principe de participation, selon lequel chacun doit avoir accès aux informations relatives à l'environnement, y compris celles relatives aux substances et activités dangereuses.
+4° Le principe de participation, selon lequel chacun a accès aux informations relatives à l'environnement, y compris celles relatives aux substances et activités dangereuses, et le public est associé au processus d'élaboration des projets ayant une incidence importante sur l'environnement ou l'aménagement du territoire.

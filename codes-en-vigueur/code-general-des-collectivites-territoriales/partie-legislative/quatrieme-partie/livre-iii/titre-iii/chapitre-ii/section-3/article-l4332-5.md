@@ -12,4 +12,6 @@ Les dépenses réalisées en application de l'expérimentation prévue au troisi
 
 A compter du 1er janvier 2002, les dépenses réalisées en application des dispositions prévues à l'article 21-1 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs n'entrent pas dans l'assiette du prélèvement, à due concurrence, de la compensation forfaitaire des charges transférées.
 
+Les dépenses réalisées en application de l'expérimentation prévue aux articles 104, 105 et 111 de la loi n° 2002-276 du 27 février 2002 relative à la démocratie de proximité n'entrent pas dans l'assiette du prélèvement, à due concurrence, de la compensation forfaitaire des charges transférées.
+
 Le prélèvement cesse d'être opéré lorsque, dans une région, le taux de chômage de la pénultième année, tel qu'il est calculé par l'Institut national de la statistique et des études économiques, est supérieur au taux de chômage annuel moyen de l'ensemble des régions métropolitaines.

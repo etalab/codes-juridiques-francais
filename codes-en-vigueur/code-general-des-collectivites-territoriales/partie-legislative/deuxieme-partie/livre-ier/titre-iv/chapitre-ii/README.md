@@ -1,4 +1,4 @@
-# CHAPITRE II : Participation des habitants à la vie locale.
+# CHAPITRE II : Consultation des électeurs sur les affaires communales.
 
 - [Article L2142-1](article-l2142-1.md)
 - [Article L2142-2](article-l2142-2.md)

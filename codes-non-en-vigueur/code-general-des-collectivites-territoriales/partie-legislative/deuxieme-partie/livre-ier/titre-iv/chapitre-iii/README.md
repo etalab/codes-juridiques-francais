@@ -3,4 +3,3 @@
 - [Article L2143-1](article-l2143-1.md)
 - [Article L2143-2](article-l2143-2.md)
 - [Article L2143-3](article-l2143-3.md)
-- [Article L2143-4](article-l2143-4.md)

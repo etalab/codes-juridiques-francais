@@ -20,6 +20,6 @@ III. - La définition des compétences transférées au sein de chacun des group
 
 IV. - L'intérêt communautaire des compétences exercées au sein des groupes mentionnés aux I et II est déterminé à la majorité qualifiée requise pour la création de la communauté de communes. ;
 
-V. - La communauté de communes peut attribuer des fonds de concours aux communes membres afin de contribuer à la réalisation ou au fonctionnement d'équipements d'intérêt commun.
+V. - La communauté de communes peut attribuer des fonds de concours aux communes membres afin de contribuer à la réalisation ou au fonctionnement d'équipements dont l'utilité dépasse manifestement l'intérêt communal.
 
 VI. - La communauté de communes, lorsqu'elle est dotée d'une compétence dans ce domaine, peut exercer le droit de préemption urbain dans les périmètres fixés, après délibération concordante de la ou des communes concernées, par le conseil de communauté pour la mise en oeuvre de la politique communautaire d'équilibre social de l'habitat.

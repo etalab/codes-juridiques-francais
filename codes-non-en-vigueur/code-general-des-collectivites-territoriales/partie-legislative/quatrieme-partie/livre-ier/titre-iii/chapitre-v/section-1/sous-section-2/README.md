@@ -4,4 +4,3 @@
 - [Article L4135-6](article-l4135-6.md)
 - [Article L4135-7](article-l4135-7.md)
 - [Article L4135-8](article-l4135-8.md)
-- [Article L4135-9](article-l4135-9.md)
