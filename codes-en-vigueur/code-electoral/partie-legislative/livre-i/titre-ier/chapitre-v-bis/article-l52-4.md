@@ -1,6 +1,6 @@
 # Article L52-4
 
-Pendant l'année précédant le premier jour du mois d'une élection et jusqu'à la date du tour de scrutin où l'élection a été acquise, un candidat à cette élection ne peut avoir recueilli des fonds en vue du financement de sa campagne que par l'intermédiaire d'un mandataire nommément désigné par lui, qui est soit une association de financement électorale, soit une personne physique dénommée "le mandataire financier".
+Pendant l'année précédant le premier jour du mois d'une élection et jusqu'à la date du tour de scrutin où l'élection a été acquise, un candidat à cette élection ne peut avoir recueilli des fonds en vue du financement de sa campagne que par l'intermédiaire d'un mandataire nommément désigné par lui, qui est soit une association de financement électorale, soit une personne physique dénommée "le mandataire financier". Un même mandataire ne peut être commun à plusieurs candidats.
 
 Lorsque le candidat a décidé de recourir à une association de financement électorale ou à un mandataire financier, il ne peut régler les dépenses occasionnées par sa campagne électorale que par leur intermédiaire, à l'exception du montant du cautionnement éventuel et des dépenses prises en charge par un parti ou groupement politique.
 
