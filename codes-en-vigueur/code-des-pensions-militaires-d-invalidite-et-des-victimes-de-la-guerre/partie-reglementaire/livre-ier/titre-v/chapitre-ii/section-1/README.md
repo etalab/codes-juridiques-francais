@@ -6,6 +6,5 @@
 - [Paragraphe 4 : Remplacement des membres du tribunal cessant leurs fonctions en cours de mandat.](paragraphe-4)
 - [Paragraphe 5 : Attributions du greffier du tribunal.](paragraphe-5)
 - [Paragraphe 6 : Représentation au tribunal des membres de la Résistance et des combattants volontaires de la Résistance.](paragraphe-6)
-- [Paragraphe 7 : Sections des tribunaux de pensions.](paragraphe-7)
 - [Paragraphe 8 : Procédure normale.](paragraphe-8)
 - [Paragraphe 9 : Procédure sommaire.](paragraphe-9)
