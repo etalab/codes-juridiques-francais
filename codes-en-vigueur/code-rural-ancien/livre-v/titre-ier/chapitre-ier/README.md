@@ -2,6 +2,7 @@
 
 - [Article 615](article-615.md)
 - [Article 616](article-616.md)
+- [Article 618](article-618.md)
 - [Article 619](article-619.md)
 - [Article 620](article-620.md)
 - [Article 621](article-621.md)
