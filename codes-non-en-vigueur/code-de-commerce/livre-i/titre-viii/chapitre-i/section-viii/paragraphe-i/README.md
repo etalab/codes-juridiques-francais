@@ -2,6 +2,7 @@
 
 - [Article 147](article-147.md)
 - [Article 148 A](article-148-a.md)
+- [Article 148 B](article-148-b.md)
 - [Article 149](article-149.md)
 - [Article 150](article-150.md)
 - [Article 151](article-151.md)
