@@ -10,6 +10,7 @@
 - [16° : Caisses de mutualité sociale agricole](16)
 - [17° : Formules de chèques non barrées](17)
 - [18° : Opérations de transfert de fonds à l'étranger](18)
+- [19° : Déplacements intracommunautaires de biens. Assujettis et façonniers astreints à la tenue d'un registre des biens. Obligations du titulaire de l'entrepôt fiscal](19)
 - [2° : Employeurs et débirentiers](2)
 - [20° : Intermédiaires sur le MATIF, le MONEP et en matière de bons d'options.](20)
 - [21° : Organisme gestionnaire d'un plan d'épargne en actions](21)
