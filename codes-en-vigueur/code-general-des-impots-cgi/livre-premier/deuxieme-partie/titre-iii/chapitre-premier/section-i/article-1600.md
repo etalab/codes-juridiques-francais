@@ -54,7 +54,7 @@ Les décisions relatives aux produits transmises aux services fiscaux dans les c
 
 IV. - Une chambre de commerce et d'industrie créée par dissolution de deux ou plusieurs chambres de commerce et d'industrie vote le produit de la taxe additionnelle à la taxe professionnelle à compter de l'année suivant celle de sa création.
 
-Le produit voté est, pour la première année qui suit celle de la création de la chambre de commerce et d'industrie, égal au maximum à la somme des produits votés l'année précédente par chacune des chambres dissoutes majoré, le cas échéant, dans les conditions prévues au I.
+Le produit voté est, pour la première année qui suit celle de la création de la chambre de commerce et d'industrie, égal au maximum à la somme des produits votés l'année précédente par chacune des chambres dissoutes majoré, le cas échéant, dans les conditions prévues au II.
 
 L'écart constaté entre le taux de la taxe additionnelle à la taxe professionnelle appliqué au profit de la chambre de commerce et d'industrie nouvellement constituée et le taux de la taxe additionnelle à la taxe professionnelle des chambres de commerce et d'industrie dissoutes est, chaque année, réduit dans les conditions fixées aux 1 et 2 :
 
@@ -92,4 +92,4 @@ V. - En cas de création postérieurement au 1er octobre d'une chambre de commer
 
 Les exonérations applicables antérieurement à la création d'une nouvelle chambre de commerce et d'industrie sont maintenues pour la durée restant à courir.
 
-VI. - En cas de création d'une nouvelle chambre au cours d'une période de réduction d'écarts de taux résultant d'une création antérieure par dissolution de chambres, les calculs visés au II sont effectués en comparant les taux d'imposition additionnelle à la taxe professionnelle de la chambre issue de la première dissolution et de la chambre tierce, la période de réduction des écarts de taux ne pouvant être plus courte que le nombre d'années restant à courir pour achever la première opération de création.
+VI. - En cas de création d'une nouvelle chambre au cours d'une période de réduction d'écarts de taux résultant d'une création antérieure par dissolution de chambres, les calculs visés au IV sont effectués en comparant les taux d'imposition additionnelle à la taxe professionnelle de la chambre issue de la première dissolution et de la chambre tierce, la période de réduction des écarts de taux ne pouvant être plus courte que le nombre d'années restant à courir pour achever la première opération de création.
