@@ -7,5 +7,4 @@
 - [Le détachement .](le-detachement)
 - [Position hors cadre .](position-hors-cadre)
 - [Position "sous les drapeaux" .](position-sous-les-drapeaux)
-- [ACTIVITE](activite)
 - [Article L415-1](article-l415-1.md)

@@ -1,3 +1,0 @@
-# PROTECTION DE LA MAIN-D'OEUVRE NATIONALE .
-
-- [Article L832-1](article-l832-1.md)
