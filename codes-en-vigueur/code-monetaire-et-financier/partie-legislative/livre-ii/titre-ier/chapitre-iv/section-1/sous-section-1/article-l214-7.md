@@ -1,3 +1,3 @@
 # Article L214-7
 
-Le règlement d'un fonds commun de placement et les statuts d'une SICAV peuvent prévoir, dans des limites et conditions fixées par décret, la possibilité de procéder à des opérations d'achat ou de vente sur des marchés à terme réglementés. La liste de ces marchés est arrêtée par le ministre chargé de l'économie.
+L'organisme de placement collectif en valeurs mobilières peut conclure des contrats constituant des instruments financiers à terme dans des limites et conditions fixées par décret en Conseil d'Etat.
