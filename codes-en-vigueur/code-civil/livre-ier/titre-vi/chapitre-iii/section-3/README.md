@@ -3,6 +3,7 @@
 - [Article 286](article-286.md)
 - [Article 287](article-287.md)
 - [Article 287-1](article-287-1.md)
+- [Article 287-2](article-287-2.md)
 - [Article 288](article-288.md)
 - [Article 289](article-289.md)
 - [Article 290](article-290.md)

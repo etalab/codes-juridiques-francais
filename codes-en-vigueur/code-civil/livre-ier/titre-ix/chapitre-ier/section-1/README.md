@@ -8,4 +8,5 @@
 - [Article 373-2](article-373-2.md)
 - [Article 373-3](article-373-3.md)
 - [Article 373-4](article-373-4.md)
+- [Article 373-5](article-373-5.md)
 - [Article 374](article-374.md)
