@@ -4,7 +4,7 @@ Le service public de l'enseignement supérieur s'attache à développer et à va
 
 Il assure la liaison nécessaire entre les activités d'enseignement et de recherche. Il offre un moyen privilégié de formation à la recherche et par la recherche.
 
-Il participe à la politique de développement scientifique et technologique, reconnue comme priorité nationale, en liaison avec les grands organismes nationaux de recherche. Il contribue à la mise en oeuvre des objectifs définis par la loi n° 82-610 du 15 juillet 1982 d'orientation et de programmation pour la recherche et le développement technologique de la France.
+Il participe à la politique de développement scientifique et technologique, reconnue comme priorité nationale, en liaison avec les grands organismes nationaux de recherche. Il contribue à la mise en oeuvre des objectifs définis par le code de la recherche.
 
 Il concourt à la politique d'aménagement du territoire par l'implantation et le développement dans les régions d'équipes de haut niveau scientifique. Il renforce les liens avec les secteurs socio-économiques publics et privés.
 
