@@ -2,6 +2,7 @@
 
 - [Section 4-1 : Règles particulières aux salariés candidats ou élus à l'Assemblée nationale ou au Sénat.](section-4-1)
 - [Section 5-1 : Règles particulières aux salariés victimes d'un accident du travail ou d'une maladie professionnelle.](section-5-1)
+- [Section 5-2 : Congé pour la création d'entreprise, congé sabbatique](section-5-2)
 - [SECTION 1 : CONTRAT A DUREE DETERMINEE.](section-1)
 - [Section 2 : Résiliation du contrat de travail à durée indéterminée](section-2)
 - [Section 3 : Conséquences de la rupture du contrat.](section-3)
