@@ -5,4 +5,5 @@
 - [Paragraphe 3 : Jaugeage des navires.](paragraphe-3)
 - [Paragraphe 4 : Droit de francisation et de navigation.](paragraphe-4)
 - [Paragraphe 5 : Acte de francisation.](paragraphe-5)
+- [Paragraphe 6 : Réparations de navires français hors du territoire douanier.](paragraphe-6)
 - [Paragraphe 7 : Ventes de navires francisés.](paragraphe-7)
