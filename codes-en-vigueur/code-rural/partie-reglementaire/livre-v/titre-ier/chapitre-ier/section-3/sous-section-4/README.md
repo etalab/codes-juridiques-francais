@@ -6,3 +6,4 @@
 - [Article R*511-39](article-r-511-39.md)
 - [Article R*511-40](article-r-511-40.md)
 - [Article R*511-41](article-r-511-41.md)
+- [Article R*511-42](article-r-511-42.md)
