@@ -1,4 +1,4 @@
-# Chapitre III : Contributions et taxes autres que celles prévues par le code général des impôts
+# Chapitre III : Taxes, redevances ou versements non prévus par le code général des impôts
 
 - [Section 3 : Taxe sur la publicité frappant les affiches, réclames et enseignes lumineuses](section-3)
 - [Section 4 : Redevances dues pour le transport et la distribution de l'électricité, du gaz et pour les oléoducs (R)](section-4)
