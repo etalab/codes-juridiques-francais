@@ -5,3 +5,4 @@
 - [Section II : Incidence des résultats des exploitations directes ou indirectes situées à l'étranger](section-ii)
 - [Section III : Imputation de l'impôt sur le revenu (retenue à la source) sur le montant de l'impôt sur les sociétés](section-iii)
 - [Section IV : Lieu d'imposition](section-iv)
+- [Section V : Sociétés de capital-risque.](section-v)
