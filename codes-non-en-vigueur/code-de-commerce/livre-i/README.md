@@ -5,4 +5,5 @@
 - [Titre III : Des sociétés.](titre-iii)
 - [Titre IV : Du registre du commerce.](titre-iv)
 - [Titre V : Des bourses de commerce, agents de change et courtiers](titre-v)
+- [Titre VI : Du gage et des commissionnaires](titre-vi)
 - [Titre VII : Des achats et des ventes.](titre-vii)
