@@ -4,5 +4,6 @@
 - [V : Traitements, salaires, pensions et rentes viagères](v)
 - [VI : Bénéfices des professions non commerciales](vi)
 - [VII : Revenus des capitaux mobiliers](vii)
+- [VII bis : Profits réalisés sur les marchés à terme et sur les marchés d'options négociables.](vii-bis)
 - [VII ter : Plus-values de cession à titre onéreux de biens ou de droits de toute nature](vii-ter)
 - [VIII : Dispositions communes aux différentes catégories de revenus](viii)
