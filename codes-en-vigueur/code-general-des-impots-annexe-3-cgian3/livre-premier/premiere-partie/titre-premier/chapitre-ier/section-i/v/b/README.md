@@ -2,5 +2,6 @@
 
 - [Article 38 sexdecies I](article-38-sexdecies-i.md)
 - [Article 38 sexdecies E](article-38-sexdecies-e.md)
+- [Article 38 sexdecies F](article-38-sexdecies-f.md)
 - [Article 38 sexdecies GA](article-38-sexdecies-ga.md)
 - [Régime réel simplifié](regime-reel-simplifie)
