@@ -17,3 +17,5 @@ II. - Ces statuts doivent prévoir également le nombre minimum des adhérents �
 III. - Sauf s'il a manifesté son opposition à la chasse dans les conditions fixées par le 5° de l'article L. 422-10, le propriétaire non chasseur dont les terrains sont incorporés dans le territoire de l'association est à sa demande et gratuitement membre de l'association, sans être tenu à l'éventuelle couverture du déficit de l'association. L'association effectue auprès de lui les démarches nécessaires.
 
 IV. - Le propriétaire ou le détenteur de droits de chasse ayant exercé un droit à opposition ne peut prétendre à la qualité de membre de l'association, sauf décision souveraine de l'association communale de chasse agréée.
+
+V. - Outre les dispositions énumérées ci-dessus, les statuts de chaque association doivent comporter des clauses obligatoires déterminées par décret en Conseil d'Etat.

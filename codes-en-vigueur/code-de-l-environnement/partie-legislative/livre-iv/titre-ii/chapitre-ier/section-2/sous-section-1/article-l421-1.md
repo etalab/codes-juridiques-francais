@@ -1,6 +1,6 @@
 # Article L421-1
 
-I. - L'Office national de la chasse et de la faune sauvage est un établissement public de l'Etat à caractère administratif. Il a pour mission de réaliser des études, des recherches et des expérimentations concernant la conservation, la restauration et la gestion de la faune sauvage et ses habitats et la mise en valeur de celle-ci par la chasse. Dans ces domaines, il délivre des formations. Il participe à la mise en valeur et la surveillance de la faune sauvage ainsi qu'au respect de la réglementation relative à la police de la chasse.
+I. - L'Office national de la chasse et de la faune sauvage est un établissement public de l'Etat à caractère administratif placé sous la double tutelle des ministres chargés de la chasse et de l'agriculture. Il a pour mission de réaliser des études, des recherches et des expérimentations concernant la conservation, la restauration et la gestion de la faune sauvage et ses habitats et la mise en valeur de celle-ci par la chasse. Dans ces domaines, il délivre des formations. Il participe à la mise en valeur et la surveillance de la faune sauvage ainsi qu'au respect de la réglementation relative à la police de la chasse.
 
 Il apporte à l'Etat son concours pour l'évaluation de l'état de la faune sauvage ainsi que le suivi de sa gestion, et sa capacité d'expertise et son appui technique pour l'élaboration des orientations régionales visées au I de l'article L. 421-7 ainsi que l'évaluation des documents de gestion de la faune sauvage et de l'amélioration de la qualité de ses habitats.
 
