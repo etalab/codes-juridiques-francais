@@ -8,9 +8,9 @@ Sont considérés comme travailleurs à domicile ceux qui satisfont aux conditio
 
 Il n'y a pas lieu de rechercher :
 
-- s'il existe entre eux et le donneur d'ouvrage un lien de subordination juridique ;
+- s'il existe entre eux et le donneur d'ouvrage un lien de subordination juridique sous réserve de l'application des dispositions de l'article L. 120-3 ;
 
-- s'ils travaillent sous la surveillance immédiate et habituelle du donneur d'ouvrage :
+- s'ils travaillent sous la surveillance immédiate et habituelle du donneur d'ouvrage ;
 
 - si le local où ils travaillent et le matériel qu'ils emploient, quelle qu'en soit l'importance leur appartiennent ;
 

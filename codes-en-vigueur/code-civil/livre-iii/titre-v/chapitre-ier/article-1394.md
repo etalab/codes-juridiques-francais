@@ -6,4 +6,4 @@ Au moment de la signature du contrat, le notaire délivre aux parties un certifi
 
 Si l'acte de mariage mentionne qu'il n'a pas été fait de contrat, les époux seront, à l'égard des tiers, réputés mariés sous le régime de droit commun, à moins que, dans les actes passés avec ces tiers, ils n'aient déclaré avoir fait un contrat de mariage.
 
-En outre, si l'un des époux est commerçant lors du mariage ou le devient ultérieurement, le contrat de mariage doit être publié dans les conditions et sous les sanctions prévues par les règlements relatifs au registre du commerce.
+En outre, si l'un des époux est commerçant lors du mariage ou le devient ultérieurement, le contrat de mariage et ses modifications doivent être publiés, à son initiative et sous sa seule responsabilité, dans les conditions et sous les sanctions prévues par les dispositions législatives et réglementaires relatives au registre du commerce et des sociétés.
