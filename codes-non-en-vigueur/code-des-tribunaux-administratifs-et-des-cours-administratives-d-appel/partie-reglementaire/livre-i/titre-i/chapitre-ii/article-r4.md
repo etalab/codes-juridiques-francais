@@ -60,6 +60,8 @@ Cayenne : Guyane ;
 
 Fort-de-France : Martinique ;
 
+Mamoudzou : Mayotte ;
+
 Saint-Denis : la Réunion ;
 
 Saint-Pierre : Saint-Pierre-et-Miquelon ;

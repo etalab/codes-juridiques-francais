@@ -6,4 +6,4 @@ Si le jugement a été signifié par huissier de justice, le délai court à dat
 
 Par dérogation aux dispositions du premier alinéa, le délai d'appel contre un jugement avant-dire-droit, qu'il tranche ou non une question au principal, court jusqu'à l'expiration du délai d'appel contre le jugement qui règle définitivement le fond du litige.
 
-Dans les territoires de la Polynésie française et de la Nouvelle-Calédonie et dépendances, le délai d'appel de deux mois est porté à trois mois.
+Dans la collectivité territoriale de Mayotte et dans les territoires de la Polynésie française et de la Nouvelle-Calédonie, le délai d'appel de deux mois est porté à trois mois.

@@ -5,3 +5,5 @@ Lorsque la notification doit être faite à l'Etat, et sauf lorsque la décision
 Une copie est également transmise au préfet ainsi que, s'il y a lieu, à l'autorité qui assure la défense de l'Etat devant la juridiction, lorsque le jugement, l'ordonnance ou l'arrêt n'a pas à lui être notifié.
 
 Devant les tribunaux administratifs de Papeete et de Nouméa, l'expédition est adressée dans tous les cas au haut-commissaire.
+
+Devant le tribunal administratif de Mamoudzou, l'expédition est adressée au représentant du Gouvernement.
