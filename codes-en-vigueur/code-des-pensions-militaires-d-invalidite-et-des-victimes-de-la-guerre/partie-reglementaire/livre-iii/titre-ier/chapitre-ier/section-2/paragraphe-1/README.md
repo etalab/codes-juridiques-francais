@@ -10,5 +10,6 @@
 - [Article A134-3](article-a134-3.md)
 - [Article A134-4](article-a134-4.md)
 - [Article A134-5](article-a134-5.md)
+- [Article A134-6](article-a134-6.md)
 - [Article A135](article-a135.md)
 - [Article A136](article-a136.md)
