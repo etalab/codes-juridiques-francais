@@ -4,7 +4,7 @@ Il est institué auprès du représentant de l'Etat dans le département, qui la
 
 La commission est consultée sur le projet, élaboré par le représentant de l'Etat dans le département, qui détermine les priorités de la politique d'orientation des productions et d'aménagement des structures d'exploitation au niveau départemental.
 
-Elle donne son avis sur les projets de contrat type susceptibles d'être proposés aux exploitants, en application des dispositions de l'article L. 311-3.
+Elle donne son avis sur les projets de contrat type susceptibles d'être proposés aux exploitants, en application des dispositions relatives aux contrats d'agriculture durable.
 
 Elle est informée de l'utilisation au plan départemental des crédits affectés par la Communauté européenne, par l'Etat et par les collectivités territoriales dans le domaine des activités agricoles et forestières.
 
