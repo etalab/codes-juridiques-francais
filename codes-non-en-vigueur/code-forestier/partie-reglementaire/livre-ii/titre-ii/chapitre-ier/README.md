@@ -5,4 +5,3 @@
 - [Section 3 : Administration générale.](section-3)
 - [Section 4 : Dispositions financières et comptables.](section-4)
 - [Section 5 : Conseil technique auprès des centres régionaux de la propriété forestière.](section-5)
-- [Section 6 : Commission nationale professionnelle de la propriété forestière.](section-6)
