@@ -1,0 +1,3 @@
+# Article L14-3
+
+Les contestations relatives au relogement des locataires ou occupants de locaux d'habitation ou à usage professionnel sont également instruites et jugées conformément aux dispositions du présent chapitre. S'il est tenu au relogement, l'expropriant est valablement libéré par l'offre aux intéressés d'un local correspondant à leurs besoins et n'excédant pas les normes HLM. Lorsque l'expropriation a porté sur une maison individuelle, le relogement doit, si cela est possible, être offert dans un local de type analogue, n'excédant pas les normes HLM et situé dans la même commune ou une commune limitrophe. Le juge fixe également le montant de l'indemnité de déménagement et, s'il y a lieu, d'une indemnité de privation de jouissance.

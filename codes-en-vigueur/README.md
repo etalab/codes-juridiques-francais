@@ -7,6 +7,7 @@
 - [Code général des impôts, CGI.](code-general-des-impots-cgi)
 - [Code de l'artisanat](code-de-l-artisanat)
 - [Code de l'aviation civile](code-de-l-aviation-civile)
+- [Code de l'expropriation pour cause d'utilité publique](code-de-l-expropriation-pour-cause-d-utilite-publique)
 - [Code de l'urbanisme](code-de-l-urbanisme)
 - [Code de la santé publique](code-de-la-sante-publique)
 - [Code de la sécurité sociale.](code-de-la-securite-sociale)

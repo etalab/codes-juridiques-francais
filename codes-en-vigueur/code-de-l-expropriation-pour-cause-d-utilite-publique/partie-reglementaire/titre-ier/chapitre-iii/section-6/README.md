@@ -1,0 +1,18 @@
+# Section 6 : Paiement et consignation.
+
+- [Article **R13-62](article-r13-62.md)
+- [Article **R13-63](article-r13-63.md)
+- [Article **R13-64](article-r13-64.md)
+- [Article R13-65](article-r13-65.md)
+- [Article **R13-66](article-r13-66.md)
+- [Article **R13-67](article-r13-67.md)
+- [Article **R13-68](article-r13-68.md)
+- [Article R13-70](article-r13-70.md)
+- [Article **R13-71](article-r13-71.md)
+- [Article **R13-72](article-r13-72.md)
+- [Article R13-73](article-r13-73.md)
+- [Article **R13-74](article-r13-74.md)
+- [Article **R13-75](article-r13-75.md)
+- [Article **R13-76](article-r13-76.md)
+- [Article **R13-77](article-r13-77.md)
+- [Article R13-78](article-r13-78.md)
