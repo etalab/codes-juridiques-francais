@@ -14,7 +14,9 @@ d. Au titre de 1984, à 1,10 pour les immeubles industriels autres que ceux vis�
 
 e. Au titre de 1985, à 1,06 pour les immeubles industriels autres que ceux visés à l'article 1500 et à 1,08 pour les propriétés bâties autres que les immeubles industriels susvisés ainsi que pour les propriétés non bâties.
 
-f. Au titre de 1986, à 1,06 pour les immeubles industriels autres que ceux visés à l'article 1500 et à 1,08 pour les propriétés bâties autres que les immeubles industriels susvisés ainsi que pour les propriétés non bâties, et au titre de 1987, multipliées par un coefficient égal à 0,959    g. Au titre de 1987, à 1,01 pour les propriétés non bâties, à 1,03 pour les immeubles industriels ne relevant pas de l'article 1500 et à 1,05 pour les autres propriétés bâties.
+f. Au titre de 1986, à 1,06 pour les immeubles industriels autres que ceux visés à l'article 1500 et à 1,08 pour les propriétés bâties autres que les immeubles industriels susvisés ainsi que pour les propriétés non bâties, et au titre de 1987, multipliées par un coefficient égal à 0,959.
+
+g. Au titre de 1987, à 1,01 pour les propriétés non bâties, à 1,03 pour les immeubles industriels ne relevant pas de l'article 1500 et à 1,05 pour les autres propriétés bâties.
 
 h. Au titre de 1988, à 1 pour les propriétés non bâties, à 1,01 pour les immeubles industriels ne relevant pas de l'article 1500 et à 1,03 pour l'ensemble des autres propriétés non bâties.
 
@@ -24,4 +26,10 @@ j. Au titre de 1990, à 1 pour les propriétés non bâties et pour les immeuble
 
 k. Au titre de 1991, à 1 pour les propriétés non bâties, à 1,01 pour les immeubles industriels ne relevant pas de l'article 1500, et à 1,03 pour l'ensemble des autres propriétés bâties.
 
-l. Au titre de 1992, à 1 pour les propriétés non bâties et pour les immeubles industriels ne relevant pas de l'article 1500 et à 1,01 pour l'ensemble des autres propriétés bâties.    m) Au titre de 1993, à 1 pour les propriétés non bâties, à 1,01 pour les immeubles industriels ne relevant pas de l'article 1500 et à 1,03 pour l'ensemble des autres propriétés bâties.
+l. Au titre de 1992, à 1 pour les propriétés non bâties et pour les immeubles industriels ne relevant pas de l'article 1500 et à 1,01 pour l'ensemble des autres propriétés bâties.
+
+m. Au titre de 1993, à 1 pour les propriétés non bâties, à 1,01 pour les immeubles industriels ne relevant pas de l'article 1500 et à 1,03 pour l'ensemble des autres propriétés bâties.
+
+n. Au titre de 1994, à 1 pour les propriétés non bâties, à 1,01 pour les immeubles industriels ne relevant pas de l'article 1500 et à 1,03 pour l'ensemble des autres propriétés bâties.
+
+o. Au titre de 1995, à 1 pour les propriétés non bâties et pour les immeubles industriels ne relevant pas de l'article 1500 et à 1,02 pour l'ensemble des autres propriétés bâties.
