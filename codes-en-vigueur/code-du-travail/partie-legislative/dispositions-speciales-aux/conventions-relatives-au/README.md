@@ -1,3 +1,0 @@
-# CONVENTIONS RELATIVES AU TRAVAIL
-
-- [SALAIRE MINIMUM DE CROISSANCE .](salaire-minimum-de-croissance)
