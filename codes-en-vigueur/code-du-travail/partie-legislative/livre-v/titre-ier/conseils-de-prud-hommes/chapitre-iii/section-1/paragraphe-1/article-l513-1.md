@@ -1,12 +1,14 @@
 # Article L513-1
 
-Pour être électeurs, les salariés et les employeurs doivent être âgés de seize ans accomplis, exercer une activité professionnelle ou être sous contrat d'apprentissage ou être involontairement privés d'emploi, et n'avoir encouru aucune des condamnations mentionnées aux articles L. 5 et L. 6 du code électoral.
+Pour être électeurs, les salariés et les employeurs doivent être âgés de seize ans accomplis, exercer une activité professionnelle ou être sous contrat d'apprentissage  ou être involontairement privés d'emploi, et n'avoir encouru aucune des condamnations mentionnées aux articles L. 5 et L. 6 du code électoral.
 
 Sont électeurs dans les sections de l'industrie, du commerce et des services commerciaux, de l'agriculture et des activités diverses, les employés, les ouvriers, les chefs d'atelier de famille travaillant eux-mêmes, les gens de maison, les apprentis et plus généralement tous les salariés non visés à l'alinéa ci-dessous.
 
 Sont électeurs dans la section de l'encadrement : les ingénieurs ainsi que les salariés qui, même s'ils n'exercent pas de commandement, ont une formation équivalente constatée ou non par un diplôme ; les salariés qui, ayant acquis une formation technique, administrative, juridique, commerciale ou financière, exercent un commandement par délégation de l'employeur ; les agents de maîtrise qui ont une délégation écrite de commandement ; les voyageurs, représentants et placiers.
 
 Sont électeurs employeurs les personnes qui emploient pour leur compte ou pour le compte d'autrui un ou plusieurs salariés.
+
+Les artisans, commerçants et agriculteurs peuvent donner mandat, par écrit, à leur conjoint collaborateur mentionné au répertoire des métiers, au registre du commerce et des sociétés ou au registre de protection sociale agricole, de se substituer à eux en vue de l'inscription sur la liste électorale. Un décret en Conseil d'Etat détermine les conditions d'application de cette disposition.
 
 Sont également électeurs employeurs les associés en nom collectif, les présidents des conseils d'administration, les directeurs généraux et directeurs, les cadres détenant sur un service, un département ou un établissement de l'entreprise, une délégation particulière d'autorité, établie par écrit, permettant de les assimiler à un employeur.
 
