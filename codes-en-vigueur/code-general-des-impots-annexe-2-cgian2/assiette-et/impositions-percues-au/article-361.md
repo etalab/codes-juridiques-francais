@@ -8,8 +8,6 @@ Le taux maximum de la taxe est fixé à :
 
 20 F par hectolitre d'alcool pur pour le calvados et les eaux-de-vie de cidre et de poiré;
 
-20 F par hectolitre d'alcool pur pour les alcools de cidre et de poiré réservés à l'Etat.
-
 Un arrêté du ministre de l'économie et des finances, du ministre chargé du budget et du ministre de l'agriculture fixe dans la limite de ce taux maximum le taux applicable (1).
 
 (1) Annexe IV, art. 159 AM.
