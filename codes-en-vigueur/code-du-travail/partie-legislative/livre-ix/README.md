@@ -11,5 +11,6 @@
 - [Titre IX : Dispositions diverses et dispositions pénales](titre-ix)
 - [Article L900-1](article-l900-1.md)
 - [Article L900-2](article-l900-2.md)
+- [Article L900-2-1](article-l900-2-1.md)
 - [Article L900-3](article-l900-3.md)
 - [Article L900-4](article-l900-4.md)

@@ -20,3 +20,4 @@
 - [Article 1022](article-1022.md)
 - [Article 1023](article-1023.md)
 - [Article 1023-1](article-1023-1.md)
+- [Article 1023-2](article-1023-2.md)

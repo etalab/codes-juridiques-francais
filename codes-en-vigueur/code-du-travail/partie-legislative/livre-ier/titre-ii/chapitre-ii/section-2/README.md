@@ -22,3 +22,5 @@
 - [Article L122-14-9](article-l122-14-9.md)
 - [Article L122-14-10](article-l122-14-10.md)
 - [Article L122-14-11](article-l122-14-11.md)
+- [Article L122-14-12](article-l122-14-12.md)
+- [Article L122-14-13](article-l122-14-13.md)

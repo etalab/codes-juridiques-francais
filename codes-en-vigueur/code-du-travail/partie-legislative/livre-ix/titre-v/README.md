@@ -7,6 +7,7 @@
 - [Article L950-2-3](article-l950-2-3.md)
 - [Article L950-2-4](article-l950-2-4.md)
 - [Article L950-2-5](article-l950-2-5.md)
+- [Article L950-2-6](article-l950-2-6.md)
 - [Article L950-3](article-l950-3.md)
 - [Article L950-4](article-l950-4.md)
 - [Article L950-5](article-l950-5.md)

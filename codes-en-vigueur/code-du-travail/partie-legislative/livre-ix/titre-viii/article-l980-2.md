@@ -8,8 +8,8 @@ L'employeur s'engage, pour la durée prévue, à fournir un emploi au jeune et �
 
 Les enseignements généraux, professionnels et technologiques dispensés pendant la durée du contrat doivent être au minimum d'une durée égale à 25 p. 100 de la durée totale du contrat.
 
-Les dispositions du premier alinéa de l'article L. 122-3-12 ne sont pas applicables au contrat de qualification.
+Les dispositions du premier alinéa de l'article L. 122-3-11 ne sont pas applicables au contrat de qualification.
 
-Les dispositions de l'article L. 122-3-11, premier alinéa, du présent code, ne s'appliquent pas au contrat de qualification.
+Les dispositions de l'article L. 122-3-10, premier alinéa, du présent code, ne s'appliquent pas au contrat de qualification.
 
 Les entreprises de travail temporaire peuvent également embaucher des jeunes de seize à vingt-cinq ans dans les conditions définies au présent article. Les activités professionnelles en relation avec les enseignements reçus sont alors exercées dans le cadre des missions régies par le chapitre IV du titre II du livre Ier.
