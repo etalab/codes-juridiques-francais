@@ -16,4 +16,6 @@ Les offices centraux de police judiciaire relevant de l'article R. 15-18 sont le
 
 7° Office central pour la répression de la grande délinquance financière ;
 
-8° Office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre.
+8° Office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre ;
+
+9° Office central de lutte contre la criminalité liée aux technologies de l'information et de la communication.
