@@ -4,8 +4,6 @@ Pour le recouvrement des taxes sur le chiffre d'affaires et des taxes assimilée
 
 Le privilège s'exerce dans les conditions prévues à l'article 1920-1.
 
-En cas de faillite (1), liquidation des biens ou règlement judiciaire, le privilège porte sur le montant du principal, augmenté des intérêts de retard afférents aux six mois précédant le jugement déclaratif. Toutes amendes encourues sont abandonnées.
-
 Toutefois, les dispositions du présent article ne concernent pas le recouvrement des taxes susvisées à l'importation pour lesquelles il est fait application de l'article 379 du code des douanes.
 
 La remise en paiement d'obligations cautionnées, visée à l'article 1692, dernier alinéa, laisse subsister dans leur intégralité au profit de tous ceux qui les acquittent les privilèges et garanties accordés au Trésor par le présent article.
