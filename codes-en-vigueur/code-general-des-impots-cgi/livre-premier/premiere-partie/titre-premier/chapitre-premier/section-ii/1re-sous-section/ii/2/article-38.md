@@ -12,9 +12,9 @@ Pour les prestations continues rémunérées notamment par des intérêts ou des
 
 Pour les travaux d'entreprise donnant lieu à réception complète ou partielle, à la date de cette réception, même si elle est seulement provisoire ou faite avec réserves, ou à celle de la mise à la disposition du maître de l'ouvrage si elle est antérieure.
 
-La livraison [*définition*] au sens du premier alinéa s'entend de la remise matérielle du bien lorsque le contrat de vente comporte une clause de réserve de propriété.
+La livraison au sens du premier alinéa s'entend de la remise matérielle du bien lorsque le contrat de vente comporte une clause de réserve de propriété.
 
-Ces dispositions s'appliquent à la détermination des résultats imposables des exercices clos à compter du 31 décembre 1978. Les produits qui, en application de la législation précédemment en vigueur, ont déjà servi à la détermination des résultats d'exercices antérieurs sont déduits pour la détermination des résultats des exercices auxquels les sommes correspondantes doivent désormais être rattachées.
+Ces dispositions s'appliquent à la détermination des résultats imposables des exercices clos à compter du 31 décembre 1978. Les produits qui, en application de la législation précédemment en vigueur, ont déjà servi à la détermination des résultats d'exercices antérieurs sont déduits pour la détermination des résultats des exercices auxquels les sommes correspondantes doivent désormais être rattachées. (1 a).
 
 3. Pour l'application des 1 et 2, les stocks sont évalués au prix de revient ou au cours du jour de la clôture de l'exercice, si ce cours est inférieur au prix de revient.
 
@@ -22,7 +22,7 @@ Les travaux en cours sont évalués au prix de revient.
 
 4. Pour l'application des 1 et 2, les écarts de conversion des devises ainsi que des créances et dettes libellées en monnaies étrangères par rapport aux montants initialement comptabilisés sont déterminés à la clôture de chaque exercice en fonction du dernier cours de change et pris en compte pour la détermination du résultat imposable de l'exercice.
 
-Lorsque des établissements de crédit mentionnés à l'article 38 bis A évaluent les titres libellés en monnaie étrangère à la clôture de chaque exercice en fonction du dernier cours de change connu, les écarts de conversion constatés sont pris en compte pour la détermination du résultat imposable de l'exercice. A la clôture de chaque exercice, le prix de revient des titres est augmenté ou diminué, selon les cas, des écarts de conversion mentionnés à ce même alinéa. Ces dispositions sont applicables aux écarts de change relatifs à la période postérieure à l'ouverture du premier exercice clos à compter du 31 décembre 1990.
+Lorsque des établissements de crédit mentionnés à l'article 38 bis A évaluent les titres libellés en monnaie étrangère à la clôture de chaque exercice en fonction du dernier cours de change connu, les écarts de conversion constatés sont pris en compte pour la détermination du résultat imposable de l'exercice. A la clôture de chaque exercice, le prix de revient des titres est augmenté ou diminué, selon les cas, des écarts de conversion mentionnés à ce même alinéa. ((Toutefois, lorsque les établissements concernés détiennent des titres d'investissement mentionnés à l'article 38 bis B et des titres de participation, libellés en monnaie étrangère et dont l'acquisition a été financée en francs, les écarts de conversion mentionnés au présent alinéa et constatés sur ces titres ne sont pas pris en compte dans le résultat fiscal de l'exercice ; dans ce cas, sur le plan fiscal, le prix de revient de ces titres ne tient pas compte des écarts de conversion)) (1'). Ces dispositions sont applicables aux écarts de change relatifs à la période postérieure à l'ouverture du premier exercice clos à compter du 31 décembre 1990.
 
 5. Le profit ou la perte résultant de cessions de titres par un fonds commun de placement est compris dans le résultat de l'exercice au cours duquel les parts du fonds sont cédées par l'entreprise. Le profit ou la perte est déterminé par différence entre le prix de cession et la valeur des parts au bilan de l'entreprise (2).
 
@@ -36,19 +36,21 @@ Les dispositions des deux alinéas qui précèdent ne sont pas applicables si la
 
 Ces dispositions s'appliquent aux contrats, options et autres instruments financiers à terme conclus en France ou à l'étranger, qui sont cotés sur une bourse de valeurs ou traités sur un marché ou par référence à un marché (4) ;
 
-2° Dans le cas où un contrat à terme d'instruments financiers en cours à la clôture de l'exercice a pour cause exclusive de compenser le risque d'une opération de l'exercice suivant, traitée sur un marché de nature différente, l'imposition du profit réalisé sur le contrat est reportée au dénouement de celui-ci, à condition que les opérations dont la compensation est envisagée figurent sur le document prévu au 3° (5) ;
+2° Dans le cas où un contrat à terme d'instruments financiers en cours à la clôture de l'exercice a pour cause exclusive de compenser le risque d'une opération de ((l'un des deux exercices suivants)) (1'), traitée sur un marché de nature différente, l'imposition du profit réalisé sur le contrat est reportée au dénouement de celui-ci, à condition que les opérations dont la compensation est envisagée figurent sur le document prévu au 3° (5) (5') ;
 
 2° bis Le profit sur un contrat à terme portant sur des devises et ayant pour seul objet la couverture du risque de change d'une opération future est imposé au titre du ou des mêmes exercices que l'opération couverte à la condition que cette dernière soit identifiée dès l'origine par un acte ou un engagement précis et mesurable pris à l'égard d'un tiers. Les profits concernés et l'opération couverte doivent être mentionnés sur un document annexé à la déclaration des résultats de chaque exercice et établi conformément au modèle fixé par l'administration.
 
 3° Lorsqu'une entreprise a pris des positions symétriques, la perte sur une de ces positions n'est déductible du résultat imposable que pour la partie qui excède les gains non encore imposés sur les positions prises en sens inverse.
 
-Pour l'application de ces dispositions, une position [*définition*] s'entend de la détention directe ou indirecte, de contrats à terme d'instruments financiers, de valeurs mobilières, de devises, de titres de créances négociables, de prêts ou d'emprunts ou d'un engagement portant sur ces éléments.
+Pour l'application de ces dispositions, une position s'entend de la détention directe ou indirecte, de contrats à terme d'instruments financiers, de valeurs mobilières, de devises, de titres de créances négociables, de prêts ou d'emprunts ou d'un engagement portant sur ces éléments.
 
 Des positions sont qualifiées de symétriques si leurs valeurs ou leurs rendements subissent des variations corrélées telles que le risque de variation de valeur ou de rendement de l'une d'elles est compensé par une autre position, sans qu'il soit nécessaire que les positions concernées soient de même nature ou prises sur la même place, ou qu'elles aient la même durée.
 
 Les positions symétriques prises au cours de l'exercice et celles qui sont en cours à la clôture doivent être mentionnées sur un document annexé à la déclaration de résultats de l'exercice. A défaut, la perte sur une position n'est pas déductible du résultat imposable (6).
 
-7. Le profit ou la perte résultant de l'échange d'actions effectué dans le cadre d'une offre publique d'échange, réalisée conformément à la réglementation en vigueur, est compris dans le résultat de l'exercice au cours duquel les actions reçues en échange sont cédées. Dans ce cas, le profit ou la perte résultant de la cession ultérieure de ces titres est déterminé par rapport à la valeur que les actions remises à l'échange avaient du point de vue fiscal. Toutefois, en cas d'échange avec soulte, la plus-value réalisée est, à concurrence du montant de la soulte reçue, comprise dans le bénéfice de l'exercice au cours duquel intervient l'échange. Le montant imposable peut bénéficier du régime des plus-values à long terme prévu à l'article 39 duodecies, dans la limite de la plus-value réalisée sur les titres détenus depuis deux ans au moins.
+7. Le profit ou la perte résultant de l'échange d'actions effectué dans le cadre d'une offre publique d'échange ((ou de la conversion d'obligations en actions)) (6'), réalisée conformément à la réglementation en vigueur, est compris dans le résultat de l'exercice au cours duquel les actions reçues en échange sont cédées. Dans ce cas, le profit ou la perte résultant de la cession ultérieure de ces titres est déterminé par rapport à la valeur que les actions remises à l'échange ((ou les obligations converties)) (6') avaient du point de vue fiscal.
+
+Toutefois, en cas d'échange (ou de conversion)) (6') avec soulte, la plus-value réalisée est, à concurrence du montant de la soulte reçue, comprise dans le bénéfice de l'exercice au cours duquel intervient l'échange ((ou la conversion)) (6'). Le montant imposable peut bénéficier du régime des plus-values à long terme prévu à l'article 39 duodecies, dans la limite de la plus-value réalisée sur les ((actions)) (6') détenus depuis deux ans au moins.
 
 Ces dispositions ne sont pas applicables si la soulte dépasse 10 p. 100 de la valeur nominale des parts ou des actions attribuées ou si la soulte reçue excède la plus-value réalisée.
 
@@ -84,6 +86,10 @@ La moins-value de même nature est retenue dans les mêmes conditions, et ne peu
 
 (1) En ce qui concerne les plus-values réalisées dans le cadre des opérations de nationalisation, voir art. 248 A.
 
+(1 a) Cf. Instruction 1994-08-11 4A-11-94 pour les honoraires perçus par les entreprises d'expert-comptable.
+
+(1') Modification de la loi 93-1353. Cf. Instruction 1994-03-07 4A-6-94 et Instruction 1994-04-20 4A-9-94.
+
 (2) Disposition applicable pour la détermination des résultats des exercices clos à compter du 16 avril 1986. Pour les exercices en cours à cette date, voir loi n° 86-824 du 11 juillet 1986, art. 21-II.
 
 (3) Dispositions applicables à compter du 1er janvier 1991.
@@ -92,6 +98,12 @@ La moins-value de même nature est retenue dans les mêmes conditions, et ne peu
 
 (5) Voir annexe III, art. 2 B.
 
+(5") Ces dispositions s'appliquent pour déterminer les résultats des exercices ouverts à compter du 1er janvier 1994.
+
 (6) Voir annexe III, art. 2 C.
 
-(7) Ces dispositions s'appliquent aux opérations qui affectent les résultats des exercices ouverts à compter du 1er janvier 1992. (8) Voir annexe III, art. 38 B.
+(6') Modification de la loi 94-679. Ces dispositions s'appliquent aux conversions d'obligations en actions réalisées à compter du 1er janvier 1993
+
+(7) Ces dispositions s'appliquent aux opérations qui affectent les résultats des exercices ouverts à compter du 1er janvier 1992.
+
+(8) Voir annexe III, art. 38 B.
