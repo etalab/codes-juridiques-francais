@@ -1,4 +1,4 @@
-# TITRE II : PROCÉDURE D'APPLICATION DE L'AMENDE FORFAITAIRE.
+# TITRE II : Perte et reconstitution du nombre de points affectés au permis de conduire.
 
 - [Article R255](article-r255.md)
 - [Article R256](article-r256.md)
