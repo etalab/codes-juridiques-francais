@@ -14,6 +14,7 @@
 - [Code de l'organisation judiciaire](code-de-l-organisation-judiciaire)
 - [Code de l'urbanisme](code-de-l-urbanisme)
 - [Code de la mutualité](code-de-la-mutualite)
+- [Code de la propriété intellectuelle](code-de-la-propriete-intellectuelle)
 - [Code de la santé publique](code-de-la-sante-publique)
 - [Code de la sécurité sociale.](code-de-la-securite-sociale)
 - [Code de la voirie routière](code-de-la-voirie-routiere)

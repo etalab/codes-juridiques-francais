@@ -1,0 +1,18 @@
+# Section 1 : Délivrance des certificats d'obtention végétale
+
+- [Article L623-1](article-l623-1.md)
+- [Article L623-2](article-l623-2.md)
+- [Article L623-3](article-l623-3.md)
+- [Article L623-4](article-l623-4.md)
+- [Article L623-5](article-l623-5.md)
+- [Article L623-6](article-l623-6.md)
+- [Article L623-7](article-l623-7.md)
+- [Article L623-8](article-l623-8.md)
+- [Article L623-9](article-l623-9.md)
+- [Article L623-10](article-l623-10.md)
+- [Article L623-11](article-l623-11.md)
+- [Article L623-12](article-l623-12.md)
+- [Article L623-13](article-l623-13.md)
+- [Article L623-14](article-l623-14.md)
+- [Article L623-15](article-l623-15.md)
+- [Article L623-16](article-l623-16.md)
