@@ -4,7 +4,6 @@
 - [Article L120](article-l120.md)
 - [Article L134 A](article-l134-a.md)
 - [Article L139](article-l139.md)
-- [Article L140](article-l140.md)
 - [Article L145](article-l145.md)
 - [Article L153](article-l153.md)
 - [Article L154](article-l154.md)
