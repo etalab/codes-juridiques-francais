@@ -5,3 +5,5 @@ Si la perquisition a lieu dans un domicile autre que celui de la personne mise e
 Le juge d'instruction doit se conformer aux dispositions des articles 57 (alinéa 2) et 59.
 
 Toutefois, il a l'obligation de provoquer préalablement toutes mesures utiles pour que soit assuré le respect du secret professionnel et des droits de la défense.
+
+Les dispositions des articles 56-1, 56-2 et 56-3 sont applicables aux perquisitions effectuées par le juge d'instruction.
