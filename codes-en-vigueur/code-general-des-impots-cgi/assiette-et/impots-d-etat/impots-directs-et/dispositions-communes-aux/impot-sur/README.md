@@ -1,4 +1,4 @@
-# IMPOT SUR LE REVENU, IMPOT SUR LES SOCIETES ET TAXES VISEES AU CHAPITRE III.
+# IMPOT SUR LE REVENU *IR* ET IMPOT SUR LES SOCIETES *IS*.
 
 - [Article 236](article-236.md)
 - [Article 237 bis](article-237-bis.md)
@@ -7,6 +7,8 @@
 - [Article 238](article-238.md)
 - [Article 238 bis](article-238-bis.md)
 - [Article 238 bis A](article-238-bis-a.md)
+- [Article 238 bis HA](article-238-bis-ha.md)
+- [Article 238 bis HB](article-238-bis-hb.md)
 - [Article 238 septies](article-238-septies.md)
 - [Article 238 terdecies](article-238-terdecies.md)
 - [Article 238 A](article-238-a.md)
@@ -17,6 +19,7 @@
 - [Article 240](article-240.md)
 - [Article 241](article-241.md)
 - [Article 242](article-242.md)
+- [Article 242 ter A](article-242-ter-a.md)
 - [Article 243](article-243.md)
 - [Article 244 bis](article-244-bis.md)
 - [Article 247 bis](article-247-bis.md)

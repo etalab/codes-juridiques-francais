@@ -10,5 +10,6 @@
 - [IMPOTS DIRECTS ET TAXES ASSIMILEES](impots-directs-et)
 - [IMPOTS DIRECTS](impots-directs)
 - [MONOPOLES FISCAUX](monopoles-fiscaux)
+- [TAXE SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES](taxe-sur)
 - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES](taxes-sur)
 - [TAXE DE PUBLICITE FONCIERE](taxe-de-publicite-fonciere)

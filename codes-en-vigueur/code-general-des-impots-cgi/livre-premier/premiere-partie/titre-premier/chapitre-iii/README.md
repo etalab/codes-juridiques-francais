@@ -1,5 +1,6 @@
 # Chapitre III : Taxes diverses
 
+- [Section 0II : Imposition forfaitaire annuelle des sociétés](section-0ii)
 - [Section I : Taxe d'apprentissage](section-i)
 - [Section II : Taxe sur les salaires](section-ii)
 - [Section V : Redevance fixe des mines.](section-v)
