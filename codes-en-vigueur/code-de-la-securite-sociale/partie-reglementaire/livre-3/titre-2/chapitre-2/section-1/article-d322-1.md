@@ -14,9 +14,11 @@ La liste des affections comportant un traitement prolongé et une thérapeutique
 
 - cirrhose du foie décompensée ;
 
-- déficit immunitaire primitif grave nécessitant un traitement prolongé et déficit immunitaire acquis grave (syndrome immuno-déficitaire acquis) ;
+- déficit immunitaire primitif grave nécessitant un traitement prolongé, infection par le virus de l'immuno-déficience humaine ;
 
-- diabète insulino-dépendant ou non insulino-dépendant ne pouvant pas être équilibré par le seul régime ;    - forme grave d'une affection neuro-musculaire (dont miopathie) ;    - hémoglobinopathie homozygote ;
+- diabète insulino-dépendant ou non insulino-dépendant ne pouvant pas être équilibré par le seul régime ;
+
+- forme grave d'une affection neuro-musculaire (dont miopathie) ;    - hémoglobinopathie homozygote ;
 
 - hémophilie ;
 
