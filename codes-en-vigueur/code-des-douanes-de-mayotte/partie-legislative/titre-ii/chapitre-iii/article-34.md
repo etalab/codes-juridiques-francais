@@ -4,4 +4,4 @@ I. - L'administration des douanes est autorisée à communiquer les informations
 
 II. - La communication de ces informations ne peut être effectuée qu'à des fonctionnaires du grade d'administrateur civil ou à des agents remplissant des fonctions de même importance.
 
-III. - Les personnes ayant à connaître et à utiliser les informations ainsi communiquées sont, dans les conditions et sous les peines prévues à l'article 378 du code pénal, tenues au secret professionnel pour tout ce qui concerne lesdites informations.
+III. - Les personnes ayant à connaître et à utiliser les informations ainsi communiquées sont, dans les conditions et sous les peines fixées par l'article 226-13 du code pénal, tenues au secret professionnel pour tout ce qui concerne lesdites informations.
