@@ -1,6 +1,6 @@
 # Article 230
 
-La demande adressée au comité départemental en vue d'obtenir une exonération doit être jointe à la déclaration.
+La demande adressée à la commission départementale compétente en matière d'emploi et d'insertion en vue d'obtenir une exonération doit être jointe à la déclaration.
 
 Lorsque cette demande est déposée après l'expiration du délai prévu pour le dépôt de la déclaration, le montant de l'exonération à laquelle aurait pu prétendre l'assujetti est réduit de 10 % en cas de retard n'excédant pas un mois. Si le retard dépasse un mois, sans excéder deux mois, l'exonération est réduite de 50 %. Au-delà de deux mois de retard, la demande est rejetée.
 
