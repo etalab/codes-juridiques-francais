@@ -24,9 +24,9 @@ II. - L'avance forfaitaire prévue à l'article 154 est versée, sur leur demand
 
 La limite fixée au premier alinéa de l'article 154 est appréciée par référence au montant prévisionnel des sommes à payer, tel qu'il figure dans l'un des documents mentionnés au I ci-dessus.
 
-L'avance forfaitaire est fixée à 5 % de ce montant dans la limite des prestations à exécuter par le sous-traitant au cours des douze premiers mois suivant la date de commencement de leur exécution ; cette avance est mandatée dans le délai d'un mois compté à partir du commencement d'exécution du sous-traité.
+L'avance forfaitaire est fixée à 5 p. 100 de ce montant dans la limite des prestations à exécuter par le sous-traitant au cours des douze premiers mois suivant la date de commencement de leur exécution.
 
-Toutefois, si un cautionnement a été prévu par le marché, l'avance ne peut être mandatée avant que le titulaire ait constitué ledit cautionnement en garantie de cette avance.
+Le point de départ des délais prévus au V de l'article 178 et au VII de l'article 178 bis est la date du commencement d'exécution du contrat de sous-traitance. Toutefois, si un cautionnement a été prévu par le marché, l'avance ne peut être mandatée et, le cas échéant, l'autorisation d'émettre une lettre de change-relevé pour ladite avance envoyée avant que le titulaire ait constitué ledit cautionnement en garantie de cette avance.
 
 Dans le cas où le titulaire sous-traite une part du marché postérieurement à la conclusion de celui-ci, le paiement de l'avance forfaitaire au sous-traitant est subordonné, s'il y a lieu, au remboursement de la partie de l'avance forfaitaire versée au titulaire au titre des prestations sous-traitées.
 
