@@ -1,4 +1,4 @@
-# Section 2 : Dispositions applicables aux voitures particulières et aux camionnettes.
+# Section 2 : Agrément des contrôleurs, des installations et des réseaux
 
 - [Article R323-6](article-r323-6.md)
 - [Article R323-7](article-r323-7.md)
