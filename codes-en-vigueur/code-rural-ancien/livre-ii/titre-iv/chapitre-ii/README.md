@@ -4,6 +4,7 @@
 - [Article 264-1](article-264-1.md)
 - [Article 264-2](article-264-2.md)
 - [Article 264-3](article-264-3.md)
+- [Article 264-4](article-264-4.md)
 - [Article 265](article-265.md)
 - [Article 266](article-266.md)
 - [Article 267](article-267.md)
