@@ -6,5 +6,6 @@
 - [Article 214-1](article-214-1.md)
 - [Article 215](article-215.md)
 - [Article 215-1](article-215-1.md)
+- [Article 215-2](article-215-2.md)
 - [Article 215-3](article-215-3.md)
 - [Article 215-5](article-215-5.md)
