@@ -1,6 +1,5 @@
 # REVENU GLOBAL.
 
-- [Article 163](article-163.md)
 - [Article 163 bis C](article-163-bis-c.md)
 - [Article 163 bis A](article-163-bis-a.md)
 - [Article 163 bis AA](article-163-bis-aa.md)
