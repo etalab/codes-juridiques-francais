@@ -5,4 +5,5 @@
 - [C : Betteraves.](c)
 - [A bis : Alcools soumis au droit de consommation.](a-bis)
 - [E : Produits des exploitations forestières.](e)
+- [H : Huiles.](h)
 - [J : Farines.](j)

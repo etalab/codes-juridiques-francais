@@ -2,3 +2,4 @@
 
 - [Article 1679](article-1679.md)
 - [Article 1679 bis](article-1679-bis.md)
+- [Article 1679 A](article-1679-a.md)

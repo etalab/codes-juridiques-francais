@@ -4,5 +4,6 @@
 - [Article 1756](article-1756.md)
 - [Article 1756 bis](article-1756-bis.md)
 - [Article 1756 ter](article-1756-ter.md)
+- [Article 1756 quinquies](article-1756-quinquies.md)
 - [Article 1756 sexies](article-1756-sexies.md)
 - [Article 1756 septies](article-1756-septies.md)
