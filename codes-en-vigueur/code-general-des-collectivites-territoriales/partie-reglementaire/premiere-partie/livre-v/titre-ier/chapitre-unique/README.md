@@ -1,6 +1,5 @@
 # CHAPITRE UNIQUE
 
-- [Section 1 : Aides directes (R)](section-1)
 - [Section 2 : Aides indirectes (R)](section-2)
 - [Section 3 : Garanties d'emprunts (R).](section-3)
 - [Section 4 : Participation à des sociétés de garantie (R).](section-4)
