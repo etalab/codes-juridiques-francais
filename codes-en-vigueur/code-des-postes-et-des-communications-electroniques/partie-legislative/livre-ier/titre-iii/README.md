@@ -1,4 +1,4 @@
-# TITRE III : Responsabilité de l'administration.
+# TITRE III : Responsabilité de l'exploitant public.
 
 - [Article L7](article-l7.md)
 - [Article L8](article-l8.md)
