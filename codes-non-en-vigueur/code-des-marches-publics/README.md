@@ -4,4 +4,3 @@
 - [Livre II : Marchés de l'Etat et de ses établissements publics autres que ceux ayant le caractère industriel et commercial.](livre-ii)
 - [Livre III : Marchés passés au nom des collectivités territoriales et de leurs établissements publics](livre-iii)
 - [Livre IV : Coordination des commandes publiques sur le plan local](livre-iv)
-- [Livre V : Mesures de publicité et de mise en concurrence applicables à certains marchés de fournitures et de travaux](livre-v)
