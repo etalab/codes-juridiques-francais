@@ -7,3 +7,5 @@ Cette majoration n'est pas due lorsque le conjoint survivant bénéficie ou est 
 Le montant de cette majoration est revalorisé suivant les coefficients fixés en application du 2° de l'article L. 351-11 du code de la sécurité sociale.
 
 Le bénéfice de cette majoration est supprimé en cas de remariage ou de vie maritale et lorsque l'une des conditions mentionnées au premier alinéa cesse d'être remplie, à l'exception de la condition d'âge exigée du titulaire.
+
+Les dispositions du présent article s'appliquent également aux conjoints mentionnés aux articles 1122-2 et 1122-2-2.

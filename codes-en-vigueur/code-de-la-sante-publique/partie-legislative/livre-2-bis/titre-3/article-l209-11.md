@@ -8,10 +8,12 @@ Les comités sont compétents [*territorialement*] au sein de la région où ils
 
 Les comités sont composés de manière à assurer une diversité des compétences dans le domaine biomédical et à l'égard des questions éthiques, sociales, psychologiques et juridiques.
 
-Leurs membres sont nommés par le représentant de l'Etat dans la région, par tirage au sort des candidats.
+Leurs membres sont nommés par le représentant de l'Etat dans la région, par tirage au sort parmi des personnes présentées par des autorités ou organisations habilitées à le faire.
 
 Les membres des comités, les personnes appelées à collaborer à leurs travaux et les agents de l'Etat qui en sont dépositaires sont tenus [*obligations*], dans les conditions et sous les peines prévues à l'article 378 du code pénal, de garder secrètes les informations dont ils peuvent avoir connaissance à raison de leurs fonctions et qui sont relatives à la nature des recherches, aux personnes qui les organisent ou qui s'y prêtent ou aux produits, objets ou méthodes expérimentés [*secret professionnel*].
 
 Ne peuvent valablement participer à une délibération les personnes qui ne sont pas indépendantes du promoteur et de l'investigateur de la recherche examinée.
 
-Le ministre de la santé peut retirer l'agrément si les conditions d'indépendance, de composition et de fonctionnement nécessaires pour assurer leur mission dans les meilleures conditions ne sont plus satisfaites.
+Les frais de fonctionnement des comités sont financés par le produit d'un droit fixe versé par les promoteurs pour chacun des projets de recherches biomédicales faisant l'objet d'une demande d'avis. Le montant de ce droit est arrêté par le ministre chargé de la santé.
+
+Le ministre chargé de la santé peut retirer l'agrément d'un comité si les conditions d'indépendance, de composition ou de fonctionnement nécessaires pour assurer sa mission dans les meilleures conditions ne sont plus satisfaites.
