@@ -1,0 +1,5 @@
+# Article 302
+
+Les collectivités et établissements visés à l'article 249 peuvent faire appel au concours lorsque des motifs d'ordre technique ou esthétique justifient des recherches particulières. L'autorité chargée de la passation des marchés ne peut user de cette procédure qu'après adoption des motifs qui la justifient par l'assemblée délibérante de la collectivité ou de l'établissement contractant. Le concours a lieu sur la base d'un programme établi par la collectivité ou l'établissement contractant qui indique les besoins auxquels doit répondre la prestation et fixe, le cas échéant, le maximum de la dépense prévue pour l'exécution du projet.
+
+Le concours est lancé par voie d'appel public à la concurrence dans les conditions fixées à l'article 297 ; tous les candidats désirant y participer doivent en adresser la demande à la collectivité ou l'établissement contractant. Seuls sont admis à remettre des offres les candidats dont la demande est agréée par le jury du concours. Dans un délai fixé lors de l'appel à la concurrence les candidats agréés sont avisés.
