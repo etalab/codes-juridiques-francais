@@ -10,7 +10,7 @@ Elle comprend, outre le président :
 
 Lorsque la commission siège dans la formation prévue au 1° ci-dessus, les personnes mentionnées au 2° peuvent siéger avec voix consultative. Lorsqu'elle siège dans la formation prévue au 2° , les personnes mentionnées au 1° peuvent siéger avec voix consultative.
 
-Lorsqu'elle statue en application du deuxième alinéa de l'article L. 122-4, la commission siège en formation plénière.
+Lorsqu'elle statue en application de l'article L. 111-3, la commission siège en formation plénière.
 
 En cas d'égal partage des voix, le président a voix prépondérante.
 
