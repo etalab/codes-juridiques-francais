@@ -1,5 +1,6 @@
 # Section 2 : Procédure.
 
+- [Article R13-15](article-r13-15.md)
 - [Article **R13-16](article-r13-16.md)
 - [Article R13-17](article-r13-17.md)
 - [Article **R13-18](article-r13-18.md)

@@ -7,4 +7,5 @@
 - [Article L152-7](article-l152-7.md)
 - [Article L152-8](article-l152-8.md)
 - [Article L152-9](article-l152-9.md)
+- [Article L152-10](article-l152-10.md)
 - [Article L152-11](article-l152-11.md)

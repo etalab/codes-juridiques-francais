@@ -1,6 +1,7 @@
 # Section 2 : Arrêté de cessibilité.
 
 - [Article **R11-19](article-r11-19.md)
+- [Article R11-20](article-r11-20.md)
 - [Article **R11-21](article-r11-21.md)
 - [Article **R11-22](article-r11-22.md)
 - [Article **R11-23](article-r11-23.md)
