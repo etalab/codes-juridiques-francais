@@ -14,4 +14,4 @@ b) Comme combustible pour la fabrication sous le régime de l'usine exercée des
 
 4. Les livraisons taxables sont exprimées en milliers de kilowatt/heures, après arrondissement au millier le plus voisin.
 
-5. Le tarif de la taxe intérieure de consommation sur le gaz naturel livré à l'utilisateur final est relevé conformément aux dispositions du 4 de l'article 266.
+5. (alinéa supprimé).
