@@ -6,6 +6,6 @@ Cette caisse remet à l'assuré, soit directement, soit par l'intermédiaire de 
 
 Elle établit un bordereau descriptif des cotisations reçues et procède, en fin de bordereau, à la ventilation de ces cotisations entre les organismes intéressés dans les conditions fixées par arrêté du ministre de l'agriculture et du ministre de l'économie et des finances.
 
-Elle adresse le bordereau susvisé à la caisse centrale de secours mutuels agricoles et transfère au compte de cette caisse, ouvert à la Caisse des dépôts et consignations, la part des cotisations qui ne lui est pas attribuée.
+Elle adresse le bordereau susvisé à la caisse centrale de la mutualité sociale agricole et transfère au compte de cette caisse, ouvert à la Caisse des dépôts et consignations, la part des cotisations qui ne lui est pas attribuée.
 
 La caisse centrale procède à la vérification des bordereaux transmis par la caisse de mutualité sociale agricole.

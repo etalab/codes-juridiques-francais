@@ -4,4 +4,4 @@ Les scrutins pour l'élection des délégués communaux des premier et troisièm
 
 Le vote a lieu dans les mairies sous la présidence du maire ou de son délégué.
 
-L'électeur empêché de prendre part au scrutin peut voter par procuration dans les conditions et limites fixées par le décret prévu à l'article 1023-1.
+L'électeur empêché de prendre part au scrutin peut voter par correspondance dans les conditions et limites fixées par le décret prévu à l'article 1023-2.

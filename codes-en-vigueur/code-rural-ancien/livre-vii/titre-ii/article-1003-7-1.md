@@ -16,9 +16,9 @@ III. - Les personnes qui, à la date d'entrée en vigueur de la loi n° 80-502 d
 
 Un rapport sur les décisions prises au titre de l'alinéa précédent sera présenté chaque année au comité départemental des prestations sociales agricoles.
 
-IV. - Les cotisations d'allocations familiales, d'assurance vieillesse et d'assurance maladie dues par les chefs d'exploitation ou d'entreprise mentionnés à l'article 1060 (2°, 4° et 5°) ne peuvent être inférieures à des minima définis par décret.
+IV. - Les cotisations d'allocations familiales, d'assurance vieillesse et d'assurance maladie dues par les chefs d'exploitation ou d'entreprise mentionnés à l'article 1060 (2°, 4° et 5°) ne peuvent être inférieures à des minima définis par décret. En ce qui concerne les cotisations d'assurance maladie, ces minima peuvent être modulés pour tenir compte de l'importance de l'exploitation ou de l'entreprise.
 
-V. - Bénéficient d'une exonération totale des cotisations à l'assurance maladie des exploitants agricoles (Amexa), les titulaires de la retraite de vieillesse agricole et les titulaires de la retraite forfaitaire accordée en vertu de l'article 1122-1 du présent code, percevant l'allocation supplémentaire prévue au livre IX du code de la sécurité sociale, lorsqu'ils ont cessé toute activité professionnelle ou exploitent moins de trois hectares, sous réserve des coefficients d'équivalence prévus à l'article 188-4 du présent code.
+V. - Bénéficient d'une exonération totale de cotisations à l'assurance maladie des exploitants agricoles (Amexa), les titulaires de la retraite de vieillesse agricole et les titulaires de la retraite forfaitaire accordée en vertu de l'article 1122-1 du présent code, percevant l'allocation supplémentaire prévue au livre IX du code de la sécurité sociale, lorsqu'ils ont cessé toute activité professionnelle ou exploitent moins de trois hectares, sous réserve des coefficients d'équivalence prévus à l'article 188-4 du présent code.
 
 VI. - Les personnes qui dirigent une exploitation ou une entreprise agricoles dont l'importance est inférieure à celle définie au I ci-dessus et supérieure à un minimum fixé par décret ont à leur charge une cotisation de solidarité calculée en pourcentage de leurs revenus professionnels ou de l'assiette forfaitaire définis à l'article 1003-12. Son taux est fixé par décret.
 
