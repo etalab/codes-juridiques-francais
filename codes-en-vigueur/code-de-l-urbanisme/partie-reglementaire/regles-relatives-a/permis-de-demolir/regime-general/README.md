@@ -1,3 +1,0 @@
-# REGIME GENERAL
-
-- [DECISION .](decision)
