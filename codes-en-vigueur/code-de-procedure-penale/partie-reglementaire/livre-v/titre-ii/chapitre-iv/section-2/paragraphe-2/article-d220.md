@@ -1,6 +1,6 @@
 # Article D220
 
-Indépendamment des défenses résultant de la loi pénale, il est interdit aux agents des services extérieurs de l'administration pénitentiaire et aux personnes ayant accès dans la détention :
+Indépendamment des défenses résultant de la loi pénale, il est interdit aux agents des services déconcentrés de l'administration pénitentiaire et aux personnes ayant accès dans la détention :
 
 - de se livrer à des actes de violence sur les détenus ;
 

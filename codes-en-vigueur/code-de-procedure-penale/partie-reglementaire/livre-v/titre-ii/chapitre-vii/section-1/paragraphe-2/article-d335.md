@@ -4,4 +4,4 @@ Les objets dont les détenus sont porteurs à leur entrée dans un établissemen
 
 Ils sont alors, après inventaire, inscrits sur un registre spécial, au compte de l'intéressé pour lui être restitués à sa sortie.
 
-Si le détenu entrant est porteur de médicaments, le médecin décide de l'usage qu'il pourra en faire.
+Si le détenu entrant est porteur de médicaments, le médecin doit en être immédiatement avisé afin de décider de l'usage qui doit en être fait.

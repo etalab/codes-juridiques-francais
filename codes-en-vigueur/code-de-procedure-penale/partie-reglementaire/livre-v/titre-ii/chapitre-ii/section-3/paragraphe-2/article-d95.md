@@ -4,4 +4,4 @@ Le régime des maisons centrales et des centres de détention comporte l'isoleme
 
 Pendant la journée, les condamnés sont réunis pour le travail et les activités physiques et sportives. Ils peuvent l'être aussi pour les besoins de l'enseignement ou de la formation, de même que pour des activités culturelles ou de loisirs.
 
-Le contenu de l'emploi du temps, et notamment la part faite à ces diverses activités, doit permettre aux condamnés de conserver ou de développer leurs aptitudes intellectuelles, psychologiques et physiques pour préparer leur réadaptation ultérieure.
+Le contenu de l'emploi du temps, et notamment la part faite à ces diverses activités, doit permettre aux condamnés de conserver ou de développer leurs aptitudes intellectuelles, psychologiques et physiques pour préparer leur réinsertion ultérieure.

@@ -14,7 +14,7 @@ Marseille - Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Bouches-du-R
 
 Paris - Cher, Essonne, Eure-et-Loir, Hauts-de-Seine, Indre, Indre-et-Loire, Loir-et-Cher, Loiret, Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise, Yvelines.
 
-Rennes - Calvados, Côtes-du-Nord, Finistère, Ille-et-Vilaine, Loire-Atlantique, Maine-et-Loire, Manche, Mayenne, Morbihan, Orne, Sarthe, Vendée.
+Rennes - Calvados, Côtes-d'Armor, Finistère, Ille-et-Vilaine, Loire-Atlantique, Maine-et-Loire, Manche, Mayenne, Morbihan, Orne, Sarthe, Vendée.
 
 Strasbourg - Meurthe-et-Moselle, Meuse, Moselle, Bas-Rhin, Haut-Rhin, Vosges.
 

@@ -18,7 +18,7 @@ Le comité consultatif de libération conditionnelle est composé ainsi qu'il su
 
 8° Un juge de l'application des peines, titulaire ou suppléant ;
 
-9° Un fonctionnaire ou ancien fonctionnaire du corps des personnels de direction des services extérieurs de l'administration pénitentiaire, titulaire ou suppléant ;
+9° Un fonctionnaire ou ancien fonctionnaire du corps des personnels de direction des services déconcentrés de l'administration pénitentiaire, titulaire ou suppléant ;
 
 10° Un membre du barreau, en activité ou honoraire, titulaire ou suppléant ;
 

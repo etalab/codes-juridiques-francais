@@ -3,6 +3,3 @@
 - [Article D427](article-d427.md)
 - [Article D428](article-d428.md)
 - [Article D429](article-d429.md)
-- [Article D430](article-d430.md)
-- [Article D430-1](article-d430-1.md)
-- [Article D431](article-d431.md)
