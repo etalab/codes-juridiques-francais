@@ -5,3 +5,4 @@
 - [Paragraphe 3 : Délivrance des médicaments](paragraphe-3)
 - [Paragraphe 4 : Remèdes secrets](paragraphe-4)
 - [Paragraphe 5 : Médicaments spécialisés de l'officine](paragraphe-5)
+- [Paragraphe 6 : Produits officinaux divisés](paragraphe-6)
