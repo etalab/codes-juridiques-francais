@@ -4,7 +4,6 @@
 - [3 : Impôt sur les sociétés](3)
 - [03 bis : Imposition forfaitaire annuelle des sociétés](03-bis)
 - [3 bis : Contribution sur l'impôt sur les sociétés.](3-bis)
-- [3 ter : Contribution temporaire sur l'impôt sur les sociétés.](3-ter)
 - [3 quater : Contribution sociale sur l'impôt sur les sociétés](3-quater)
 - [6 : Taxe sur les salaires](6)
 - [7 : Contribution annuelle représentative du droit de bail et contribution additionnelle à la contribution annuelle représentative du droit de bail.](7)
