@@ -6,3 +6,4 @@
 - [IV : Options de souscription ou d'achat d'actions au bénéfice du personnel des sociétés](iv)
 - [VI : Déduction des pensions alimentaires](vi)
 - [0I bis : Détaxation du revenu investi en actions.](0i-bis)
+- [0I ter : Créateurs d'entreprises.](0i-ter)
