@@ -1,5 +1,6 @@
 # I : Procédure de redressement contradictoire
 
+- [Article L56](article-l56.md)
 - [Article L57](article-l57.md)
 - [Article L59](article-l59.md)
 - [Article L59 A](article-l59-a.md)
