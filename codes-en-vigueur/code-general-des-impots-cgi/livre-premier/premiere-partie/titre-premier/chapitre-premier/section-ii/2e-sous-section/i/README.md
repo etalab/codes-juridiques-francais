@@ -6,6 +6,7 @@
 - [Article 159](article-159.md)
 - [Article 160 ter](article-160-ter.md)
 - [Article 160 quater](article-160-quater.md)
+- [Article 160 A](article-160-a.md)
 - [Article 161](article-161.md)
 - [Article 162](article-162.md)
 - [Article 163](article-163.md)

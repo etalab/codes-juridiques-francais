@@ -14,5 +14,6 @@
 - [4° : Crédit national.](4)
 - [5° : Obligations négociables - Régimes spéciaux](5)
 - [6° : Emprunts émis en France par les organisations internationales](6)
+- [7° : Emprunts contractés à l'étranger](7)
 - [8° : Produits financiers bénéficiant aux organisations internationales aux Etats souverains étrangers, à leurs banques centrales ou institutions financières](8)
 - [9° : Emprunts émis par l'Etat](9)
