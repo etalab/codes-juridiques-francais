@@ -2,3 +2,4 @@
 
 - [Chapitre Ier : Procédure d'établissement des règlements du travail.](chapitre-ier)
 - [Chapitre II : Durée du travail et repos hebdomadaire.](chapitre-ii)
+- [Chapitre III : Médecine du travail.](chapitre-iii)
