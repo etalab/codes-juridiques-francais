@@ -2,8 +2,6 @@
 
 - [Titre I : Dispositions générales.](titre-i)
 - [Titre II : Dispositions particulières aux secteurs de l'eau, de l'énergie, des transports et des télécommunications.](titre-ii)
-- [Article 378](article-378.md)
-- [Article 379](article-379.md)
 - [Article 380](article-380.md)
 - [Article 381](article-381.md)
 - [Article 382](article-382.md)
