@@ -48,4 +48,4 @@ Lorsqu'elle est établie sur les installations et travaux divers, la taxe est as
 
 La taxe constitue, du point de vue fiscal, un élément du prix de revient de l'ensemble immobilier.
 
-La taxe est perçue au profit du département en tant que recette grevée d'affectation spéciale.
+La taxe est perçue au profit du département en tant que recette grevée d'affectation spéciale et a le caractère d'une recette de fonctionnement.
