@@ -16,6 +16,7 @@
 - [XVII : Sociétés civiles autorisées à faire publiquement appel à l'épargne.](xvii)
 - [XVII bis : Personnes morales passibles de l'impôt sur les sociétés ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble.](xvii-bis)
 - [XX : Attribution de l'avoir fiscal aux non-résidents](xx)
+- [XIX : Déclaration des revenus de capitaux mobiliers (IFU)](xix)
 - [XXI : Mesures de publicité](xxi)
 - [XXIII : Prélèvement de 50 % sur certains profits immobiliers réalisés par les personnes physiques ou sociétés n'ayant pas d'établissement en France.](xxiii)
 - [XXIII bis : Imposition des plus-values réalisées par les personnes physiques ou sociétés qui ne sont pas fiscalement domiciliées en France](xxiii-bis)
