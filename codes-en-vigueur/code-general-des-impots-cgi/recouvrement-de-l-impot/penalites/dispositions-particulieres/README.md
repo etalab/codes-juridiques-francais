@@ -44,6 +44,7 @@
 - [Article 1840 K](article-1840-k.md)
 - [Article 1840 N](article-1840-n.md)
 - [Article 1840 N bis](article-1840-n-bis.md)
+- [Article 1840 N quater](article-1840-n-quater.md)
 - [Article 1840 N quinquies](article-1840-n-quinquies.md)
 - [Article 1840 N sexies](article-1840-n-sexies.md)
 - [Article 1840 O](article-1840-o.md)
