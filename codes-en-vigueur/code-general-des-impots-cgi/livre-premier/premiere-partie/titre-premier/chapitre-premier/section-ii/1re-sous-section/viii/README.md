@@ -9,5 +9,6 @@
 - [4 : Déduction du salaire du conjoint](4)
 - [4 bis : Déduction de certaines cotisations sociales](4-bis)
 - [4 bis A : Imposition de certains revenus de remplacement](4-bis-a)
+- [4 quater : Déduction partielle de la contribution sociale généralisée.](4-quater)
 - [5 : Contribuables disposant de revenus professionnels ressortissant à des catégories différentes](5)
 - [6 : Sommes perçues par une personne domiciliée ou établie hors de France](6)

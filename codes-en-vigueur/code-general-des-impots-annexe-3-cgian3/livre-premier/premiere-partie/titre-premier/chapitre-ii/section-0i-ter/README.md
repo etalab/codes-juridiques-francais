@@ -6,6 +6,7 @@
 - [Article 46 quaterdecies A](article-46-quaterdecies-a.md)
 - [Article 46 quaterdecies B](article-46-quaterdecies-b.md)
 - [Article 46 quaterdecies BA](article-46-quaterdecies-ba.md)
+- [Article 46 quaterdecies DA](article-46-quaterdecies-da.md)
 - [Article 46 quaterdecies E](article-46-quaterdecies-e.md)
 - [Article 46 quaterdecies F](article-46-quaterdecies-f.md)
 - [Article 46 quaterdecies G](article-46-quaterdecies-g.md)

@@ -3,6 +3,7 @@
 - [I : Régime général](i)
 - [II : Régime spécial des acomptes provisionnels](ii)
 - [II bis : Régime spécial des exploitants agricoles](ii-bis)
+- [II ter : Régime spécial des redevables de la contribution annuelle sur les logements sociaux à usage locatif](ii-ter)
 - [III : Régime spécial du forfait.](iii)
 - [III bis : Régime simplifié](iii-bis)
 - [IV ter : Paiement de la taxe sur la valeur ajoutée par virement.](iv-ter)

@@ -2,7 +2,7 @@
 
 1. Lorsqu'un exploitant réalise un bénéfice supérieur à 100 000 F et excédant une fois et demie la moyenne des résultats des trois années précédentes, il peut demander que la fraction de ce bénéfice qui dépasse 100 000 F, ou cette moyenne si elle est supérieure, soit imposée selon les règles prévues à l'article 150 R. Toutefois, le paiement de l'impôt ne peut être fractionné.
 
-Pour les agriculteurs soumis au régime transitoire d'imposition, la limite de 100 000 F prévue à l'alinéa précédent est ramenée à 50 000 F.
+Pour les agriculteurs soumis au régime transitoire d'imposition, la limite de 100 000 F prévue au premier alinéa est ramenée à 50 000 F.
 
 2. Pour la détermination des bénéfices de l'année considérée et des trois années antérieures, il n'est pas tenu compte :
 

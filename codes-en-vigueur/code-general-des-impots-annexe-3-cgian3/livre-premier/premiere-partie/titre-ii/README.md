@@ -2,4 +2,5 @@
 
 - [Chapitre V : Redevance sanitaire de découpage](chapitre-v)
 - [Chapitre VI : Contribution annuelle sur les logements sociaux.](chapitre-vi)
+- [Chapitre VII : Taxe sur les achats de viandes.](chapitre-vii)
 - [Chapitre premier : Taxe sur la valeur ajoutée](chapitre-premier)

@@ -38,23 +38,23 @@ Les moins-values à long terme afférentes à des éléments d'actif qui relevai
 
 L'excédent des moins-values à long terme subies au cours d'un exercice clos à compter du 1er octobre 1991 peut être déduit des bénéfices de l'exercice de liquidation d'une entreprise intervenue au cours des exercices ouverts à compter du 1er janvier 1991 à raison des 18/34 de son montant.
 
-Ces dispositions s'appliquent pour la détermination des résultats des exercices clos à compter du 1er octobre 1991 (6).
+Ces dispositions s'appliquent pour la détermination des résultats des exercices clos à compter du 1er octobre 1991.
 
-Pour la détermination des résultats des exercices ouverts à compter du 1er janvier 1994, le taux de 18 % mentionné au premier alinéa est porté à 19 %. Les moins-values à long terme existant à l'ouverture du premier de ces exercices sont imputées sur les plus-values à long terme imposées au taux de 19 % . Les provisions pour dépréciation afférentes aux titres de portefeuille autres que celles mentionnées au cinquième alinéa sont comprises dans les plus-values à long terme imposables au taux de 19 % lorsqu'elles deviennent sans objet. L'excédent des moins-values à long terme subies au cours d'un exercice ouvert à compter du 1er janvier 1994 peut être déduit des bénéfices de l'exercice de liquidation d'une entreprise à raison des 19/33,33e de son montant.
+Pour la détermination des résultats des exercices ouverts à compter du 1er janvier 1994, le taux de 18 % mentionné au premier alinéa est porté à 19 %. Les moins-values à long terme existant à l'ouverture du premier de ces exercices sont imputées sur les plus-values à long terme imposées au taux de 19 % . Les provisions pour dépréciation afférentes aux titres de portefeuille autres que celles mentionnées au cinquième alinéa sont comprises dans les plus-values à long terme imposables au taux de 19 % lorsqu'elles deviennent sans objet. L'excédent des moins-values à long terme subies au cours d'un exercice ouvert à compter du 1er janvier 1994 peut être déduit des bénéfices de l'exercice de liquidation d'une entreprise à raison des 19/33,33e de son montant .
 
 a ter.  .
 
-Le régime des plus-values et moins-values à long terme cesse de s'appliquer au résultat de la cession de titres du portefeuille réalisée au cours d'un exercice ouvert à compter du 1er janvier 1994 à l'exclusion des parts ou actions de sociétés revêtant le caractère de titres de participation et des parts de fonds commun de placement à risques ou de société de capital risque qui remplissent les conditions prévues au 1° bis du II de l'article 163 quinquies B ou à l'article 1er ((modifié)) (7) de la loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier et qui sont détenues par l'entreprise depuis au moins cinq ans.
+Le régime des plus-values et moins-values à long terme cesse de s'appliquer au résultat de la cession de titres du portefeuille réalisée au cours d'un exercice ouvert à compter du 1er janvier 1994 à l'exclusion des parts ou actions de sociétés revêtant le caractère de titres de participation et des parts de fonds commun de placement à risques ou de société de capital risque qui remplissent les conditions prévues au 1° bis du II de l'article 163 quinquies B ou à l'article 1er modifié de la loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier et qui sont détenues par l'entreprise depuis au moins cinq ans.
 
 Pour les exercices ouverts à compter de la même date, le régime des plus ou moins-values à long terme cesse également de s'appliquer en ce qui concerne les titres de sociétés dont l'actif est constitué principalement par des titres exclus de ce régime ou dont l'activité consiste de manière prépondérante en la gestion des mêmes valeurs pour leur propre compte.
 
-Pour l'application des premier et deuxième alinéas, constituent des titres de participation les parts ou actions de sociétés revêtant ce caractère sur le plan comptable. Il en va de même des actions acquises en exécution d'une offre publique d'achat ou d'échange par l'entreprise qui en est l'initiatrice ainsi que des titres ouvrant droit au régime des sociétés mères si ces actions ou titres sont inscrits en comptabilité au compte de titres de participation ou à une subdivision spéciale d'un autre compte du bilan correspondant à leur qualification comptable.
+Pour l'application des premier et deuxième alinéas, constituent des titres de participation les parts ou actions de sociétés revêtant ce caractère sur le plan comptable. Il en va de même des actions acquises en exécution d'une offre publique d'achat ou d'échange par l'entreprise qui en est l'initiatrice ainsi que des titres ouvrant droit au régime des sociétés mères si ces actions ou titres sont inscrits en comptabilité au compte de titres de participation ou à une subdivision spéciale d'un autre compte du bilan correspondant à leur qualification comptable (6).
 
 Les provisions pour dépréciation afférentes aux titres exclus du régime des plus ou moins-values en application des premier et deuxième alinéas cessent d'être soumises à ce même régime.
 
 Lorsque l'entreprise transfère des titres du compte de titres de participation à un autre compte du bilan, la plus-value ou la moins-value, égale à la différence existant entre leur valeur réelle à la date du transfert et celle qu'ils avaient sur le plan fiscal, n'est pas retenue, pour le calcul du résultat ou de la plus-value ou moins-value nette à long terme, au titre de l'exercice de ce transfert ; elle est comprise dans le résultat imposable de l'exercice de cession des titres en cause et soumise au régime fiscal qui lui aurait été appliqué lors du transfert des titres. Le résultat imposable de la cession des titres transférés est calculé par référence à leur valeur réelle à la date du transfert. Le délai mentionné à l'article 39 duodecies est apprécié à cette date.
 
-Ces règles s'appliquent lorsque l'entreprise transfère des titres d'un compte du bilan au compte de titres de participation ou procède à des transferts entre l'un des comptes du bilan et l'une des subdivisions spéciales mentionnées au troisième alinéa sous réserve que le premier terme de la différence mentionnée au cinquième alinéa s'entend, pour les titres cotés, du cours moyen des trente derniers jours précédant celui du transfert et, pour les titres non cotés, de leur valeur probable de négociation et sans préjudice de l'application des dispositions de l'article 38 bis A.
+Ces règles s'appliquent lorsque l'entreprise transfère des titres d'un compte du bilan au compte de titres de participation ou procède à des transferts entre l'un des comptes du bilan et l'une des subdivisions spéciales mentionnées au troisième alinéa sous réserve que le premier terme de la différence mentionnée au cinquième alinéa s'entend, pour les titres cotés, du cours moyen des trente derniers jours précédant celui du transfert et, pour les titres non cotés, de leur valeur probable de négociation et sans préjudice de l'application des dispositions de l'article 38 bis A (6).
 
 Les dispositions des cinquième et sixième alinéas ne sont pas applicables aux transferts entre le compte de titres de participation et les subdivisions spéciales mentionnées au troisième alinéa.
 
@@ -70,9 +70,27 @@ Le défaut de production de l'état mentionné au onzième alinéa ou l'omission
 
 b. (Disposition périmée).
 
-c. (Dispositions abrogées) (8).
+c. (Dispositions abrogées) (7).
 
 d. d bis. e. (Devenus sans objet).
+
+((f. Les sociétés mentionnées aux 1 à 3 de l'article 206, soumises à l'impôt sur les sociétés dans les conditions de droit commun, autres que les sociétés à capital variable et celles mentionnées à l'article 238 bis HE, peuvent bénéficier, pour une série comprenant un exercice bénéficiaire et les deux premiers exercices bénéficiaires suivant celui-ci, du taux fixé au dixième alinéa du a bis, à hauteur de la fraction de leurs résultats comptables qu'elles incorporent à leur capital au cours de l'exercice suivant celui de leur réalisation. Cette fraction doit représenter, pour chacun des trois exercices et dans la limite du résultat fiscal, le quart au plus du résultat comptable sans excéder la somme de 200 000 F.
+
+((Les dispositions du premier alinéa s'appliquent si les conditions suivantes sont remplies :
+
+((1° La société a réalisé un chiffre d'affaires de moins de 50 millions de francs et n'est pas mère d'un groupe mentionné à l'article 223 A, au cours du premier des exercices pour lequel le bénéfice du taux réduit est demandé ;
+
+((2° Le capital de la société, entièrement libéré, est détenu dE manière continue, pour 75 p. 100 au moins par des personnes physiques ou par une société répondant aux conditions visées au 1° dont le capital est détenu, pour 75 p. 100 au moins, par des personnes physiques.
+
+((Lorsque la société n'a pas dressé de bilan au cours d'un exercice, le bénéfice imposé provisoirement en application du deuxième alinéa de l'article 37 ne peut être soumis au taux réduit ; lorsqu'elle a dressé plusieurs bilans successifs au cours d'une même année, comme prévu au troisième alinéa de cet article, seule la fraction du bénéfice du dernier exercice clos au cours de ladite année est soumise aux dispositions du présent f.
+
+((Si l'une des trois incorporations au capital mentionnées au premier alinéa n'est pas effectuée, la société acquitte, dans les trois mois suivant la clôture de l'exercice au cours duquel elle aurait dû procéder à cette incorporation, l'impôt au taux normal sur la fraction de résultat du ou des exercices qui a été soumise au taux réduit, diminué de l'impôt payé à ce titre, majoré de l'intérêt de retard mentionné à l'article 1727. Il en va de même en cas de réduction de capital non motivée par des pertes ou de survenance d'un des événements mentionnés aux 2 à 3 de l'article 221, avant la fin de la troisième année suivant celle au cours de laquelle est intervenue la dernière des incorporations au capital ayant ouvert droit au bénéfice du taux réduit ; en cas de réduction de capital, le montant de la reprise est, le cas échéant, limité au montant de cette réduction. Toutefois, si la société est absorbée dans le cadre d'une opération soumise à l'article 210 A, les sommes qui ont été incorporées à son capital ne sont pas rapportées à ses résultats au titre de l'exercice au cours duquel intervient cette opération si la société absorbante ne procède à aucune réduction de capital non motivée par des pertes avant l'expiration du délai précité.
+
+((Les dispositions du présent f sont également applicables sous les mêmes conditions et sanctions lorsque les sociétés visées au premier alinéa portent à une réserve spéciale la fraction du bénéfice mentionnée à la deuxième phrase de cet alinéa.
+
+((Cette réserve doit être incorporée au capital au plus tard au cours de l'exercice suivant le troisième exercice ayant bénéficié des dispositions du premier alinéa du présent f. En cas de prélèvement sur cette réserve ou d'absence d'incorporation au capital dans ce délai, les dispositions du quatrième alinéa du présent f sont applicables.
+
+((Les conditions d'application du f ainsi que les obligations déclaratives qui en découlent sont fixées par décret)) (M).
 
 II. Les plus-values visées à l'article 238 octies-I sont soumises à l'impôt au taux de 15 % lorsque la société n'a pas demandé à bénéficier de l'exonération sous condition de remploi prévue audit article. L'application de la présente disposition est toutefois subordonnée à la double condition que :
 
@@ -80,7 +98,7 @@ a. Les opérations génératrices des plus-values présentent un caractère acce
 
 b. Les immeubles cédés aient fait l'objet d'un permis de construire délivré avant le 1er janvier 1966.
 
-III. Les dispositions du II sont étendues, sous les mêmes conditions, aux profits réalisés à l'occasion de la cession d'immeubles ayant fait l'objet d'un permis de construire délivré entre le 1er janvier 1966 et le 1er janvier 1972 ou pour lesquels aura été déposée, avant le 1er janvier 1972, la déclaration de construction visée à l'article L 430-3 du code de l'urbanisme (9).
+III. Les dispositions du II sont étendues, sous les mêmes conditions, aux profits réalisés à l'occasion de la cession d'immeubles ayant fait l'objet d'un permis de construire délivré entre le 1er janvier 1966 et le 1er janvier 1972 ou pour lesquels aura été déposée, avant le 1er janvier 1972, la déclaration de construction visée à l'article L 430-3 du code de l'urbanisme (8).
 
 Toutefois, en ce qui concerne ces profits :
 
@@ -100,10 +118,12 @@ b. L'application de ce taux réduit est subordonnée à la condition que les op�
 
 [*Cf. Instruction 1994-02-14 4B-1-94.*]
 
-(6) Elles cessent de s'appliquer pour la détermination des résultats des exercices ouverts à compter du 1er janvier 1994.
+(6) Dispositions applicables pour la détermination des résultats des exercices ouverts à compter du 1er janvier 1995.
 
-(7) Modification.
+(7) Les dispositions du c du 1 de l'article 219 sont abrogées pour les distributions mises en paiement au cours des exercices ouverts à compter du 1er janvier 1993 ainsi que pour les sommes réputées distribuées au cours de l'exercice qui précède le premier exercice ouvert à compter de cette date.
 
-(8) Les dispositions du c du 1 de l'article 219 sont abrogées pour les distributions mises en paiement au cours des exercices ouverts à compter du 1er janvier 1993 ainsi que pour les sommes réputées distribuées au cours de l'exercice qui précède le premier exercice ouvert à compter de cette date.
+(M) Modification de la loi 96-1181.
 
-(9) Dans sa rédaction antérieure à la loi n° 76-1285 du 31 décembre 1976 (J.O. du 1er janvier 1977).
+Ces dispositions s'appliquent pour l'imposition des résultats des exercices ouverts à compter du 1er janvier 1996.
+
+(8) Dans sa rédaction antérieure à la loi n° 76-1285 du 31 décembre 1976 (J.O. du 1er janvier 1977).

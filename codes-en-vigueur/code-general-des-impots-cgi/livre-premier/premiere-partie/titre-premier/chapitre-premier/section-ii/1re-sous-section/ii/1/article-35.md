@@ -1,6 +1,6 @@
 # Article 35
 
-I Présentent également le caractère de bénéfices industriels et commerciaux [*définition*], pour l'application de l'impôt sur le revenu, les bénéfices réalisés par les personnes physiques désignées ci-après :
+I Présentent également le caractère de bénéfices industriels et commerciaux, pour l'application de l'impôt sur le revenu, les bénéfices réalisés par les personnes physiques désignées ci-après :
 
 1° Personnes qui, habituellement, achètent en leur nom, en vue de les revendre, des immeubles, des fonds de commerce, des actions ou parts de sociétés immobilières ou qui, habituellement, souscrivent, en vue de les revendre, des actions ou parts créées ou émises par les mêmes sociétés.
 
@@ -12,15 +12,15 @@ Ces personnes s'entendent notamment de celles qui achètent des biens immeubles,
 
 a, b, c et d  (Abrogés);
 
-4° Personnes bénéficiaires d'une promesse unilatérale de vente portant sur un immeuble qui est vendu par fractions ou par lots à la diligence de ces personnes;
+4° Personnes bénéficiaires d'une promesse unilatérale de vente portant sur un immeuble qui est vendu par fractions ou par lots à la diligence de ces personnes ;
 
-5° Personnes qui donnent en location un établissement commercial ou industriel muni du mobilier ou du matériel nécessaire à son exploitation, que la location comprenne, ou non, tout ou partie des éléments incorporels du fonds de commerce ou d'industrie;
+5° Personnes qui donnent en location un établissement commercial ou industriel muni du mobilier ou du matériel nécessaire à son exploitation, que la location comprenne, ou non, tout ou partie des éléments incorporels du fonds de commerce ou d'industrie ;
 
-6° Adjudicataires, concessionnaires et fermiers de droits communaux;
+6° Adjudicataires, concessionnaires et fermiers de droits communaux ;
 
 7° Membres des copropriétés de navires mentionnées à l'article 8 quater.
 
-7° bis Membres de copropriétés de cheval de course ou d'étalon mentionnés à l'article 8 quinquies. Toutefois, les revenus de ces copropriétaires conservent le caractère de bénéfices de l'exploitation agricole ou de bénéfices des professions non commerciales lorsque leurs parts de copropriété sont inscrites à l'actif d'une exploitation agricole dont elles constituent un moyen complémentaire ou figurent dans les immobilisations d'une activité non commerciale nécessaires à l'exercice de celle-ci.
+7° bis (Abrogé) (M) ;
 
 8° Personnes qui, à titre professionnel, effectuent en France ou à l'étranger, directement ou par personne interposée, des opérations sur un marché à terme d'instruments financiers ou d'options négociables ou sur des bons d'option (1), à condition qu'elles aient opté pour ce régime dans les quinze jours du début du premier exercice d'imposition à ce titre. L'option est irrévocable.
 
@@ -29,5 +29,7 @@ Ces dispositions s'appliquent aux personnes qui effectuent, directement ou par p
 II  (Abrogé)
 
 III  Pour l'application du présent article, les donations entre vifs ne sont pas opposables à l'administration.
+
+(M) Modification de la loi 96-1182.
 
 (1) Ces dispositions s'appliquent aux profits sur bons d'option réalisés à compter du 1er janvier 1991. Pour les profits réalisés au cours de l'année 1991, l'option peut être exercée jusqu'au 15 janvier 1992.

@@ -4,4 +4,8 @@ La déclaration prévue à l'article 170-1 du code général des impôts est ré
 
 La déclaration comporte notamment l'indication du montant, détaillé par nature de revenu et déterminé selon les modalités propres à chacun d'eux, des éléments qui composent le revenu brut global du contribuable.
 
-Elle mentionne séparément le montant des revenus, de quelque nature qu'ils soient, encaissés directement ou indirectement dans les territoires d'outre-mer [*TOM*], dans les Etats de la communauté [*CEE*] et à l'étranger.
+((Les contribuables doivent également déclarer, séparément, les revenus visés au troisième alinéa du 1 de l'article 49 F)) (M).
+
+La déclaration mentionne séparément le montant des revenus, de quelque nature qu'ils soient, encaissés directement ou indirectement dans les territoires d'outre-mer, dans les Etats de la communauté et à l'étranger.
+
+(M) Modification du décret.

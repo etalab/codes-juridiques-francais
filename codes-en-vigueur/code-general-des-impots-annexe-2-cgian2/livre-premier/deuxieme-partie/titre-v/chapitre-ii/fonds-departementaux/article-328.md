@@ -14,8 +14,6 @@ b. et, d'autre part, le nombre d'habitants calculé au niveau national dans les 
 
 4° Les bases de taxe professionnelle des établissements bénéficiaires d'une exonération temporaire décidée par la commune en application de l'article 1465 du code général des impôts ne sont prises en considération qu'à raison de la partie non exonérée ;
 
-5° Le taux en vigueur dans la commune s'entend du taux d'imposition résultant des décisions de la commune augmenté, le cas échéant, de celui du syndicat de communes et du district recourant aux dispositions ((du deuxième alinéa de l'article L 5212-20 du code général des collectivités territoriales)) (M) ;
+5° Le taux en vigueur dans la commune s'entend du taux d'imposition résultant des décisions de la commune augmenté, le cas échéant, de celui du syndicat de communes recourant aux dispositions du deuxième alinéa de l'article L 5212-20 du code général des collectivités territoriales ;
 
-6° Les contributions budgétaire s'entendent de l'ensemble des contributions versées par la commune à un groupement de communes ou à d'autres communes et des contributions visées ((au deuxième alinéa de l'article L 5212-20 du code général des collectivités territoriales)) (M) dès lors qu'elles sont calculées par référence à tout ou partie du produit communal de la taxe professionnelle. Lorsqu'elles ne sont calculées que pour partie par référence au produit communal de la taxe professionnelle, leur montant n'est retenu que dans cette proportion.
-
-(M) Modifications de la loi.
+6° Les contributions budgétaire s'entendent de l'ensemble des contributions versées par la commune à un groupement de communes ou à d'autres communes et des contributions visées au deuxième alinéa de l'article L 5212-20 du code général des collectivités territoriales dès lors qu'elles sont calculées par référence à tout ou partie du produit communal de la taxe professionnelle. Lorsqu'elles ne sont calculées que pour partie par référence au produit communal de la taxe professionnelle, leur montant n'est retenu que dans cette proportion.

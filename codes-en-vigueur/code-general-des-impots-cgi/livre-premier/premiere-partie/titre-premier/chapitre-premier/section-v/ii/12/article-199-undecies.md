@@ -34,17 +34,17 @@ Pour la détermination de l'impôt dû au titre des années 1986 à 1989, la ré
 
 Toutefois, pour les acquisitions ou constructions de logements neufs à usage locatif ou à usage d'habitation principale ou les souscriptions au capital de sociétés ayant pour objet de construire ou d'acquérir de tels logements, qui sont visées au deuxième alinéa du 1 et réalisées à compter du 1er juillet 1993, la réduction d'impôt est portée à 50 p. 100 de la base définie au premier alinéa pour les années 1993 à 1996 lorsque le contribuable ou la société s'engage à louer nu l'immeuble dans les six mois de son achèvement ou de son acquisition si elle est postérieure pendant cinq ans au moins à des personnes qui en font leur habitation principale, ou si le bénéficiaire en fait lui-même son habitation principale.
 
-((La réduction d'impôt est portée à 50 p. 100 de la base définie au premier alinéa pour les années 1996 à 2001 si les conditions suivantes sont réunies :
+La réduction d'impôt est portée à 50 p. 100 de la base définie au premier alinéa pour les années 1996 à 2001 si les conditions suivantes sont réunies :
 
-((1° Les investissements sont réalisés à compter du 1er juillet 1996 et consistent en l'acquisition ou la construction de logements neufs à usage locatif ou la souscription au capital de sociétés visées aux b et c du deuxième alinéa du 1 et qui ont pour objet de construire ou d'acquérir de tels logements ;
+1° Les investissements sont réalisés à compter du 1er juillet 1996 et consistent en l'acquisition ou la construction de logements neufs à usage locatif ou la souscription au capital de sociétés visées aux b et c du deuxième alinéa du 1 et qui ont pour objet de construire ou d'acquérir de tels logements ;
 
-((2° Le contribuable ou la société s'engage à louer nu l'immeuble dans les six mois de son achèvement ou de son acquisition si elle est postérieure et pendant six ans au moins à des personnes qui en font leur habitation principale. En cas de souscription au capital de sociétés visées aux b et c du 1, le contribuable s'engage à conserver ses parts ou actions pendant au moins six ans ;
+2° Le contribuable ou la société s'engage à louer nu l'immeuble dans les six mois de son achèvement ou de son acquisition si elle est postérieure et pendant six ans au moins à des personnes qui en font leur habitation principale. En cas de souscription au capital de sociétés visées aux b et c du 1, le contribuable s'engage à conserver ses parts ou actions pendant au moins six ans ;
 
-((3° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par décret) (M).
+3° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par décret.
 
 4. En cas de non-respect des engagements mentionnés au 1, de cession de l'immeuble ou des parts et titres ou de non-respect de leur objet exclusif par les sociétés concernées, ou de dissolution de ces sociétés, la réduction d'impôt pratiquée fait l'objet d'une reprise au titre de l'année où interviennent les événements précités. Toutefois, ces dispositions ne sont pas applicables si les investissements productifs sont compris dans un apport partiel d'actif réalisé sous le bénéfice de l'article 210 B ou si la société qui en est propriétaire fait l'objet d'une fusion placée sous le régime de l'article 210 A, à la condition que la société bénéficiaire de l'apport, ou la société absorbante selon le cas, réponde aux conditions du 1 et s'engage dans l'acte d'apport ou de fusion à respecter les engagements mentionnés au huitième alinéa du 1 pour la fraction du délai restant à courir (1).
 
-Quand un contribuable pratique la réduction d'impôt définie au présent article, les dispositions du a du 1° de l'article 199 sexies et des articles 199 nonies à 199 decies B ne sont pas applicables.
+Quand un contribuable pratique la réduction d'impôt définie au présent article, ((les dispositions du a du 1° du I de l'article 199 sexies)) (M) et des articles 199 nonies à 199 decies B ne sont pas applicables.
 
 La location d'un logement neuf consentie dans des conditions fixées par décret à un organisme public ou privé pour le logement à usage d'habitation principale de son personnel ne fait pas obstacle au bénéfice de la réduction d'impôt.
 
@@ -52,8 +52,8 @@ La location d'un logement neuf consentie dans des conditions fixées par décret
 
 6. Les dispositions du présent article sont applicables, dans les mêmes conditions, aux territoires d'outre-mer et aux collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon.
 
-7. La réduction s'applique sur l'impôt calculé dans les conditions fixées à l'article 197 et avant imputation de l'avoir fiscal, des crédits d'impôts et des prélèvements ou retenues non libératoires ; elle ne peut donner lieu à remboursement.
-
-(M) Modification de la loi 96-314.
+7. ((Les dispositions du 5 du I de l'article 197 sont applicables)) (M).
 
 (1) Ces dispositions s'appliquent aux opérations intervenues à compter du 1er janvier 1994.
+
+(M) Modification de la loi 96-1181.

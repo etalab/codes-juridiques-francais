@@ -7,3 +7,4 @@
 - [IV : Réévaluation des immobilisations non amortissables](iv)
 - [V : Réévaluation des immobilisations amortissables](v)
 - [VI : Déduction fiscale pour investissement](vi)
+- [VII : Souscription de parts de copropriété de navires](vii)

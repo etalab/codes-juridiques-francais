@@ -7,6 +7,7 @@
 - [Section II : Déclaration de certaines rémunérations d'associés et parts de bénéfices](section-ii)
 - [Section II bis : Déclarations concernant les revenus de capitaux mobiliers](section-ii-bis)
 - [Section II ter : Déclaration à produire par les entreprises nouvelles bénéficiant des dispositions de l'article 44 sexies du code général des impôts](section-ii-ter)
+- [Section II quater : Entreprises implantées dans les zones franches urbaines- territoires entrepreneurs](section-ii-quater)
 - [Section III : Restitution d'impôts consécutive au remboursement des sommes visées à l'article 111 du code général des impôts](section-iii)
 - [Section V bis : Crédit d'impôt pour dépenses de formation.](section-v-bis)
 - [Section V ter : Crédit d'impôt pour accroissement de la durée d'utilisation des équipements et pour réduction de la durée hebdomadaire de travail.](section-v-ter)

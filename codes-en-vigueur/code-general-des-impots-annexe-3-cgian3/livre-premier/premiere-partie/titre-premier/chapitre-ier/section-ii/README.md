@@ -8,3 +8,4 @@
 - [II quinquies : Plan d'épargne en actions.](ii-quinquies)
 - [III : Présentation et contenu des déclarations](iii)
 - [0I bis : Opérations de restauration immobilière.](0i-bis)
+- [0I ter : Opérations de réaménagement d'immeubles situés dans les zones franches urbaines](0i-ter)

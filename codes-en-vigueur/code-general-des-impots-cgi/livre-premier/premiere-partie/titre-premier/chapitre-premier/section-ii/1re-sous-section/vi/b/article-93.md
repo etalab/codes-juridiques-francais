@@ -14,7 +14,9 @@ Les dépenses déductibles comprennent notamment :
 
 5° Les dépenses exposées en vue de l'obtention d'un diplôme ou d'une qualification professionnelle dans la perspective d'une insertion ou d'une conversion professionnelle par les personnes tirant un revenu de la pratique d'un sport.
 
-((6° Les loyers versés en exécution d'un contrat de crédit-bail portant sur un immeuble, dans les conditions et limites fixées au 10 de l'article 39)) (1').
+6° Les loyers versés en exécution d'un contrat de crédit-bail portant sur un immeuble, dans les conditions et limites fixées au 10 de l'article 39.
+
+7° Les droits de mutation à titre gratuit acquittés par les héritiers, donataires ou légataires d'une exploitation, pour la part des droits afférente à cette exploitation, et les intérêts payés en application des dispositions de l'article 1717, pour la même part, dans les conditions prévues au 4° quater du 1 de l'article 39.
 
 1 bis. (Abrogé).
 
@@ -36,13 +38,15 @@ Les contribuables ayant demandé l'application de ce régime doivent joindre à 
 
 La déduction forfaitaire de 10 % pour frais professionnels, prévue à l'article 83-3°, s'applique au montant brut des droits perçus diminué des cotisations payées au titre des régimes obligatoire et complémentaire obligatoire de sécurité sociale.
 
-En sus de la déduction forfaitaire visée au deuxième alinéa, les écrivains et compositeurs peuvent bénéficier d'une déduction forfaitaire supplémentaire pour frais professionnels dont le taux est fixé à 25 %. Cette déduction supplémentaire est calculée sur le montant brut des droits après application de la déduction forfaitaire pour frais professionnels de 10 %. Elle est limitée à 50.000 F.
+En sus de la déduction forfaitaire visée au deuxième alinéa, les écrivains et compositeurs peuvent bénéficier d'une déduction forfaitaire supplémentaire pour frais professionnels dont le taux est fixé à 25 %. Cette déduction supplémentaire est calculée sur le montant brut des droits après application de la déduction forfaitaire pour frais professionnels de 10 %. Elle est limitée à 50.000 F (1''').
 
-2. Dans le cas de concession de licence d'exploitation d'un brevet, ou de cession ou de concession d'un procédé ou formule de fabrication par l'inventeur lui-même, il est appliqué sur les produits d'exploitation ou sur le prix de vente un abattement de 30 % pour tenir compte des frais exposés en vue de la réalisation de l'invention, lorsque les frais réels n'ont pas déjà été admis en déduction pour la détermination du bénéfice imposable, sauf application des dispositions du deuxième alinéa de l'article 93 quater-I.
+Pour l'imposition des revenus des années 1997, 1998 et 1999, la limite de 50 000 F mentionnée au troisième alinéa est respectivement fixée à 30 000 F, 20 000 F et 10 000 F.
+
+2. Dans le cas de concession de licence d'exploitation d'un brevet, ou de cession ou de concession d'un procédé ou formule de fabrication par l'inventeur lui-même, il est appliqué sur les produits d'exploitation ou sur le prix de vente un abattement de 30 % pour tenir compte des frais exposés en vue de la réalisation de l'invention, lorsque les frais réels n'ont pas déjà été admis en déduction pour la détermination du bénéfice imposable, sauf application des dispositions du deuxième alinéa de l'article 93 quater I.
 
 3. (Abrogé).
 
-4. (Transféré sous l'article 93 quater-II).
+4. (Transféré sous l'article 93 quater II).
 
 4 bis. (Abrogé).
 
@@ -56,6 +60,8 @@ Cette disposition s'applique si le cédant est âgé de soixante ans au moins et
 
 (1) En ce qui concerne les plus-values réalisées dans le cadre des opérations de nationalisation, voir art. 248 B.
 
-(1') Modification de la loi 95-115. Ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 1996.
+(1') Ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 1996.
+
+(1'') Ces dispositions s'appliquent à compter de l'imposition des revenus de l'année 1997.
 
 (2) Ces dispositions s'appliquent aux cessions intervenues à compter du 1er janvier 1992.
