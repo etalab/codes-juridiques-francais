@@ -1,4 +1,4 @@
-# TITRE V : Dispositions particulières concernant la collectivité territoriale de Mayotte.
+# TITRE V : Dispositions particulières applicables à Mayotte.
 
 - [Article L250-1](article-l250-1.md)
 - [Article L250-2](article-l250-2.md)
