@@ -13,6 +13,7 @@
 - [Article 1937](article-1937.md)
 - [Article 1938](article-1938.md)
 - [Article 1939](article-1939.md)
+- [Article 1940](article-1940.md)
 - [Article 1941](article-1941.md)
 - [Article 1942](article-1942.md)
 - [Article 1943](article-1943.md)
