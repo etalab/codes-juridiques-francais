@@ -1,6 +1,5 @@
 # Titre II : Le contrôle de l'impôt
 
-- [Chapitre I bis : Droit d'enquête](chapitre-i-bis)
 - [Chapitre I ter : Le droit de contrôle des entrepôts](chapitre-i-ter)
 - [Chapitre II : Le droit de communication](chapitre-ii)
 - [Chapitre II bis : Obligation et délais de conservation des documents](chapitre-ii-bis)

@@ -19,4 +19,3 @@
 - [Section XVIII : Contribution temporaire sur l'impôt sur les sociétés](section-xviii)
 - [Section XIX : Contribution sociale sur l'impôt sur les sociétés](section-xix)
 - [Article 234 septies](article-234-septies.md)
-- [Article 234 nonies](article-234-nonies.md)

@@ -4,4 +4,3 @@
 - [Article 1658](article-1658.md)
 - [Article 1659](article-1659.md)
 - [Article 1659 A](article-1659-a.md)
-- [Article 1659 B](article-1659-b.md)

@@ -1,3 +1,0 @@
-# (MAJORATION POUR DEFAUT OU RETARD DE PAIEMENT)
-
-- [Article 1762 A](article-1762-a.md)

@@ -13,4 +13,3 @@
 - [Article 1762 septies](article-1762-septies.md)
 - [Article 1762 octies](article-1762-octies.md)
 - [Article 1762 A](article-1762-a.md)
-- [(MAJORATION POUR DEFAUT OU RETARD DE PAIEMENT)](majoration-pour-defaut-ou)
