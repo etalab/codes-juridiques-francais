@@ -5,3 +5,4 @@
 - [Article 706-9](article-706-9.md)
 - [Article 706-12](article-706-12.md)
 - [Article 706-13](article-706-13.md)
+- [Article 706-14](article-706-14.md)
