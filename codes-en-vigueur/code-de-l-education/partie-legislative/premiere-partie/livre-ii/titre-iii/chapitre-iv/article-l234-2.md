@@ -10,6 +10,6 @@ Le conseil de l'éducation nationale, institué dans chaque académie par l'arti
 
 4° Trois représentants des personnels enseignants des établissements d'enseignement privés sous contrat, nommés par le recteur sur proposition des organisations syndicales les plus représentatives, proportionnellement aux résultats des élections professionnelles, et un représentant des personnels de direction en fonction dans les établissements d'enseignement privés hors contrat, nommé par le recteur sur proposition de l'organisation la plus représentative.
 
-Lorsque le conseil exerce des compétences relatives à l'enseignement supérieur, un administrateur d'un établissement privé relevant de cet enseignement, nommé par le recteur, lui est adjoint.
+Lorsque le conseil exerce des compétences relatives à l'enseignement supérieur, un administrateur d'un établissement privé relevant de cet enseignement, nommé par le recteur, lui est adjoint. Lorsque le conseil exerce des compétences relatives aux centres de formation des apprentis, un représentant de ces centres nommé par le recteur lui est adjoint.
 
 La durée du mandat des membres nommés ou élus est de trois ans. Les membres nommés ou élus qui cessent, pour quelque cause que ce soit, notamment parce qu'ils ont perdu la qualité en laquelle ils ont été nommés, de faire partie du conseil avant le terme normal de leur mandat sont remplacés dans leurs fonctions. Le mandat de leurs successeurs expire lors du renouvellement général.
