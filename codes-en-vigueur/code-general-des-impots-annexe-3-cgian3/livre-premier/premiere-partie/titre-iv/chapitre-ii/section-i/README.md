@@ -2,4 +2,3 @@
 
 - [I : Timbre de dimension](i)
 - [III : Timbre des quittances](iii)
-- [IV : Timbre des contrats de transport](iv)
