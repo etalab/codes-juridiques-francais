@@ -6,7 +6,7 @@
 - [LIVRE 2 : REGLEMENTATION DU TRAVAIL](livre-2)
 - [Livre II : Réglementation du travail](livre-ii)
 - [Livre 3 : PLACEMENT ET EMPLOI](livre-3)
-- [Livre III : EMPLOI](livre-iii)
+- [Livre III : PLACEMENT](livre-iii)
 - [Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés](livre-iv)
 - [LIVRE 5 : CONFLITS DU TRAVAIL](livre-5)
 - [Livre V : Conflits du travail](livre-v)
