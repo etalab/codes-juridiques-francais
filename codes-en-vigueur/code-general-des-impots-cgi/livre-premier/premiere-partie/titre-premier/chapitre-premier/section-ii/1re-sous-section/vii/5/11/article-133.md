@@ -10,7 +10,7 @@ L'exonération s'applique à tous les emprunts négociables émis par les mêmes
 
 Toutefois, elle ne profite pas aux emprunts négociables contractés à partir du 1er mars 1942, dans les conditions prévues aux deux premiers alinéas du présent paragraphe, tant par les organismes entrant dans les prévisions de l'article 1er de l'arrêté du 31 janvier 1942 pris pour l'application de l'article 4 de la loi du 28 juin 1941, que pour le compte de ces organismes (1);
 
-2° Les titres d'obligations non négociables en France que les départements ou les villes ont été autorisés à émettre à l'étranger avant le 1er janvier 1965 dans les conditions spécifiées par l'article 11 de la loi du 28 septembre 1916 et l'article L 236-7 du code des communes;
+2° (Abrogé) (M).
 
 3° Les titres d'obligations négociables non cotées en bourse que les départements, communes, syndicats de communes et établissements publics ont émis postérieurement au 1er janvier 1939 et avant le 1er janvier 1965.
 
@@ -21,3 +21,5 @@ Toutefois, cette exemption n'est pas applicable aux titres afférents à des emp
 Toutefois, cette exemption n'est pas applicable aux émissions destinées à assurer le remboursement anticipé d'emprunts non exonérés jusqu'à l'échéance normale de ces emprunts, ainsi qu'aux titres afférents à des emprunts négociables contractés par des organismes entrant dans les prévisions de l'article 1er de l'arrêté du 31 janvier 1942 pris en exécution de l'article 4 de la loi du 28 juin 1941 ou pour le compte de ces organismes (1).
 
 (1) Annexe IV, art. 169 et 170.
+
+(M) Modification.
