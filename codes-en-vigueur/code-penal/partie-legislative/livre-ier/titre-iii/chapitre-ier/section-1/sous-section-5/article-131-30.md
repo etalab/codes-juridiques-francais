@@ -4,6 +4,8 @@ Lorsqu'elle est prévue par la loi, la peine d'interdiction du territoire franç
 
 L'interdiction du territoire entraîne de plein droit la reconduite du condamné à la frontière, le cas échéant, à l'expiration de sa peine d'emprisonnement ou de réclusion.
 
+Lorsque l'interdiction du territoire accompagne une peine privative de liberté sans sursis, son application est suspendue pendant le délai d'exécution de la peine. Elle reprend, pour la durée fixée par la décision de condamnation, à compter du jour où la privation de liberté a pris fin.
+
 Le tribunal ne peut prononcer que par une décision spécialement motivée au regard de la gravité de l'infraction l'interdiction du territoire français à l'encontre :
 
 1° D'un condamné étranger père ou mère d'un enfant français résidant en France, à condition qu'il exerce, même partiellement, l'autorité parentale à l'égard de cet enfant ou qu'il subvienne effectivement à ses besoins ;
