@@ -32,7 +32,6 @@
 - [Article Annexe II tableau 63](article-annexe-ii-tableau-63.md)
 - [Article Annexe II tableau 65](article-annexe-ii-tableau-65.md)
 - [Article Annexe II tableau 66](article-annexe-ii-tableau-66.md)
-- [Article Annexe II tableau 70](article-annexe-ii-tableau-70.md)
 - [Article Annexe II tableau 73](article-annexe-ii-tableau-73.md)
 - [Article Annexe II tableau 74](article-annexe-ii-tableau-74.md)
 - [Article Annexe II tableau 82](article-annexe-ii-tableau-82.md)
