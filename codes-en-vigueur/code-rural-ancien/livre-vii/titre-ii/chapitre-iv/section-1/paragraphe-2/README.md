@@ -6,6 +6,7 @@
 - [Article 1121-1](article-1121-1.md)
 - [Article 1121-2](article-1121-2.md)
 - [Article 1121-3](article-1121-3.md)
+- [Article 1121-4](article-1121-4.md)
 - [Article 1122](article-1122.md)
 - [Article 1122-1](article-1122-1.md)
 - [Article 1122-2](article-1122-2.md)
