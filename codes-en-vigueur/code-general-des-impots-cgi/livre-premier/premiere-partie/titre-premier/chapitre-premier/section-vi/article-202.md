@@ -10,7 +10,7 @@ Ce délai de soixante jours commence à courir [*point de départ*] :
 
 - lorsqu'il s'agit de la cessation de l'exploitation d'une charge ou d'un office, du jour où a été publiée au Journal officiel la nomination du nouveau titulaire de la charge ou de l'office ou du jour de la cessation effective si elle est postérieure à cette publication.
 
-2. Les contribuables sont tenus de faire parvenir à l'administration dans le délai de soixante jours prévu au 1, la déclaration visée à l'article 97 ou à l'article 101 [*obligation*].
+2. Les contribuables sont tenus de faire parvenir à l'administration dans le délai prévu au 1, la déclaration visée à l'article 97 ou à l'article 101 [*obligation*].
 
 Si les contribuables ne produisent pas la déclaration visée au premier alinéa du présent paragraphe, les bases d'imposition sont arrêtées d'office [*sanction du défaut de déclaration : taxation d'office*].
 
