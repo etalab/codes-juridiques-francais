@@ -12,7 +12,7 @@ Un décret en Conseil d'Etat précise :
 
 - les conditions dans lesquelles une partie de ces cotisations peut ne pas être versée au fonds de garantie moyennant la constitution de garanties appropriées ;
 
-- la formule de répartition de ces cotisations annuelles, dont l'assiette est constituée du montant des provisions mathématiques, pondérée par les cotisations déjà versées ainsi que par les indicateurs de la situation financière de chacun des adhérents, et notamment leur solvabilité, reflétant les risques objectifs que l'adhérent fait courir au fonds ;
+- la formule de répartition de ces cotisations annuelles, dont l'assiette est constituée du montant des provisions techniques, pondérée par les cotisations déjà versées ainsi que par les indicateurs de la situation financière de chacun des adhérents, et notamment leur solvabilité, reflétant les risques objectifs que l'adhérent fait courir au fonds ;
 
 - les conditions et les modalités de nomination des membres du conseil de surveillance, ainsi que la durée de leur mandat.
 
