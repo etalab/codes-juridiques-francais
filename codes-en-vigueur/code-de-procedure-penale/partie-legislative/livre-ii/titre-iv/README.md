@@ -1,5 +1,6 @@
 # Titre IV : Des citations et significations
 
+- [Article 550](article-550.md)
 - [Article 551](article-551.md)
 - [Article 553](article-553.md)
 - [Article 561](article-561.md)

@@ -1,4 +1,4 @@
-# Livre I : Des peines en matière criminelle et correctionnelle, et de leurs effets
+# LIVRE I
 
 - [Chapitre I : Des peines en matière criminelle.](chapitre-i)
 - [Chapitre II : Des peines en matière correctionnelle.](chapitre-ii)
