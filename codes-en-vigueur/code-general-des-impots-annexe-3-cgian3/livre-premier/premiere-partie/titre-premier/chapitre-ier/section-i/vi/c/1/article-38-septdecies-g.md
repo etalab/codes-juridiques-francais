@@ -32,7 +32,7 @@ a) 1° La Banque de France ;
 
 3° Les établissements de crédit ;
 
-4° Les sociétés de bourse ;
+4° ((Les prestataires de services d'investissement)) (M) ;
 
 5° Les établissements visés au troisième alinéa du 2 de l'article 18 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit ;
 
@@ -51,3 +51,5 @@ b) 1° Les entreprises gérant des valeurs acquises dans le cadre de la législa
 7° Les sociétés coopératives agricoles et leurs unions régies par les articles L. 521-1 à L. 526-2 du code rural pour la souscription ou la cession de leurs parts ou actions ;
 
 8° Les caisses locales de crédit agricole mutuel ainsi que les caisses de crédit mutuel agricole et rural régies par le titre Ier du livre V du code rural, pour la souscription ou la cession de leurs parts.
+
+(M) Modification.

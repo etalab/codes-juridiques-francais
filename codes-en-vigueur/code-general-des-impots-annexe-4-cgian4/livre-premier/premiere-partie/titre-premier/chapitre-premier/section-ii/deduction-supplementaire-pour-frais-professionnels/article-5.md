@@ -8,7 +8,7 @@ Artistes dramatiques, lyriques, cinématographiques ou chorégraphiques : 25 %.
 
 Artistes musiciens. Choristes. Chefs d'orchestre. Régisseurs de théâtre : 20 %.
 
-Aviation marchande. Personnel navigant comprenant : pilotes, radios, mécaniciens des compagnies de transports aériens ; pilotes et mécaniciens employés par les maisons de construction d'avions et de moteurs pour l'essai des prototypes ; pilotes moniteurs d'aéro-clubs et des écoles d'aviation civile : 30 % .
+Aviation marchande. Personnel navigant comprenant : pilotes, radios, mécaniciens des compagnies de transports aériens ; pilotes et mécaniciens employés par les maisons de construction d'avions et de moteurs pour l'essai des prototypes ; pilotes moniteurs d'aéro-clubs et des écoles d'aviation civile : 30 %.
 
 Casinos et cercles :
 
@@ -20,11 +20,11 @@ Personnel supportant des frais de double résidence : 12 %.
 
 Personnel supportant à la fois des frais de représentation et de veillée et des frais de double résidence : 20 %.
 
-Chauffeurs et receveurs convoyeurs de cars à services réguliers ou occasionnels, conducteurs démonstrateurs et conducteurs convoyeurs des entreprises de construction d'automobiles. Chauffeurs et convoyeurs de transports rapides routiers ou d'entreprises de déménagements par automobiles : 20 % .
+Chauffeurs et receveurs convoyeurs de cars à services réguliers ou occasionnels, conducteurs démonstrateurs et conducteurs convoyeurs des entreprises de construction d'automobiles. Chauffeurs et convoyeurs de transports rapides routiers ou d'entreprises de déménagements par automobiles : 20 %.
 
-Commis de sociétés de bourse et commis du marché en banque (place de Paris). Sur les émoluments variables de toute nature : 20 %.
+((Commis des prestataires de services d'investissement qui étaient agréés au 31 décembre 1995 en tant que sociétés de bourse)) (M) place de Paris. Sur les émoluments variables de toute nature : 20 %.
 
-(En ce qui concerne les émoluments fixes, la seule déduction applicable est la déduction normale de 10 %).
+En ce qui concerne les émoluments fixes, la seule déduction applicable est la déduction normale de 10 %.
 
 Couture (personnel des grandes maisons parisiennes de) :
 
@@ -58,7 +58,7 @@ Travaux de fabrication sur métiers : 15 %.
 
 - des départements du Rhône, de l'Ain et de l'Isère (ouvriers bonnetiers) : 15 %.
 
-- du département de Saône-et-Loire : 5 % .
+- du département de Saône-et-Loire : 5 %.
 
 . Broderie :
 
@@ -88,9 +88,7 @@ Emouleurs, polisseurs et trempeurs : 15 %.
 
 . Galoches de la région de Laventie (Pas-de-Calais) :
 
-Piqueurs non propriétaires de leurs machines, monteurs :
-
-10 %.
+Piqueurs non propriétaires de leurs machines, monteurs : 10 %.
 
 Piqueurs propriétaires de leurs machines : 15 %.
 
@@ -128,7 +126,7 @@ Tourneurs, fraiseurs, presseurs, limeurs ébarbeurs à la meule, outilleurs : 15
 
 - de Saint-Martin-la-Plaine (Loire) :
 
-Ouvriers chaîniers et ouvriers ferronniers : 15 %.
+Ouvriers chaïniers et ouvriers ferronniers : 15 %.
 
 . Ouvriers bottiers de la région parisienne : 5 %.
 
@@ -215,3 +213,5 @@ Speakers de la radiodiffusion-télévision française : 20 %.
 Voyageurs, représentants et placiers de commerce ou d'industrie :
 
 30 %.
+
+(M) Modification.
