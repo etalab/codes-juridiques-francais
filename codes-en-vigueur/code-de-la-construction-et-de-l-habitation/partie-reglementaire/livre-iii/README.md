@@ -4,3 +4,4 @@
 - [Titre VI : Organismes consultatifs.](titre-vi)
 - [Titre VII : Dispositions diverses ou particulières aux départements d'outre-mer.](titre-vii)
 - [Titre VIII : Dispositions particulières à la région Ile-de-France](titre-viii)
+- [Titre IX : Dispositions relatives aux prêts locatifs intermédiaires.](titre-ix)
