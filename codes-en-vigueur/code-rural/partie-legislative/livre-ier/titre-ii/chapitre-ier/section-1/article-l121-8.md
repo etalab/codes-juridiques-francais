@@ -27,3 +27,5 @@ La désignation des conseillers généraux et des représentants des maires a li
 La désignation des représentants de la profession agricole a lieu après chaque renouvellement partiel de la chambre d'agriculture.
 
 La commission peut appeler à titre consultatif toute personne dont il lui paraît utile de recueillir l'avis.
+
+Dans le cas où la commission départementale d'aménagement foncier est appelée à statuer sur une opération dans le périmètre de laquelle est comprise une aire d'appellation d'origine contrôlée, sa composition est complétée par un représentant de l'Institut national des appellations d'origine.

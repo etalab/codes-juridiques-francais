@@ -21,3 +21,5 @@ La commission intercommunale comprend également :
 La commission peut appeler à titre consultatif toute personne dont il lui paraît utile de provoquer l'avis.
 
 Si le périmètre d'aménagement foncier s'étend sur plusieurs départements, les compétences attribuées au préfet et à la commission départementale d'aménagement foncier par le présent titre sont exercées par le préfet et la commission du département où se trouve la plus grande superficie de terrains inclus dans le périmètre. Dans ce cas, la composition de la commission intercommunale est complétée pour permettre la désignation d'une personne qualifiée en matière de faune, de flore et de protection de la nature et des paysages sur proposition de chaque président de chambre d'agriculture et d'un représentant de chaque président de conseil général du ou des départements également concernés par l'opération d'aménagement foncier.
+
+Lorsque le périmètre de l'aménagement foncier comprend une aire d'appellation d'origine contrôlée, la composition de la commission est complétée par un représentant de l'Institut national des appellations d'origine.
