@@ -1,5 +1,6 @@
-# Paragraphe 3 : Traitement médical
+# Paragraphe 3 : Hygiène personnelle
 
+- [Article D357](article-d357.md)
 - [Article D380](article-d380.md)
 - [Article D381](article-d381.md)
 - [Article D382](article-d382.md)
