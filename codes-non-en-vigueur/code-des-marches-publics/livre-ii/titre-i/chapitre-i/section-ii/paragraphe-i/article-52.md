@@ -4,4 +4,6 @@ Conformément à l'article 39-I modifié de la loi n° 54-404 du 10 avril 1954, 
 
 Toutefois, sont admises à concourir aux marchés les personnes qui, à défaut de paiement, ont constitué des garanties jugées suffisantes par l'organisme ou le comptable responsable du recouvrement.
 
+Sont également admises à concourir aux marchés les personnes physiques et morales qui exécutent, à titre accessoire, des travaux publics et qui, n'ayant pas à souscrire de déclaration au titre des congés payés et du chômage intempéries en application de leur régime social, justifient qu'elles versent à leurs salariés les indemnités de congés payés et qu'elles ne les mettent pas en chômage pour cause d'intempéries.
+
 Les personnes physiques qui sont dirigeants de droit ou de fait d'une personne morale qui ne satisfait pas aux conditions prévues aux alinéas précédents ne peuvent obtenir personnellement de marchés.

@@ -29,3 +29,5 @@ En cas de calamité, incendie, inondations, gel prolongé, susceptible de provoq
 Cette période de suspension de dix jours peut être renouvelée, s'il y a lieu, dans le même délai.
 
 Dans les parties des réserves naturelles et des parcs nationaux où la chasse est autorisée ainsi que dans les zones périphériques des parcs nationaux, le ministre chargé de la protection de la nature peut instituer et mettre en oeuvre un plan de chasse pour certaines espèces d'animaux.
+
+Dans les zones de montagne, un plan de chasse du grand gibier peut être institué dans les mêmes conditions pour les massifs locaux dont les limites sont définies par le représentant de l'Etat dans le département après avis du président de la fédération départementale des chasseurs et des communes concernées.

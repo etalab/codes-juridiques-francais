@@ -4,7 +4,7 @@ Le plan d'occupation des sols est élaboré à l'initiative et sous la responsab
 
 Après délibération du conseil municipal, une commune peut confier l'élaboration d'un plan d'occupation des sols à un établissement public de coopération intercommunale.
 
-Sont associés à cette élaboration l'Etat et, à leur demande et dans les formes que la commune ou l'établissement public détermine, la région, le département et les organismes mentionnés aux articles L. 121-6 et L. 121-7 ; le maire ou le président de l'établissement public peut recueillir l'avis de tout organisme ou association ayant compétence en matière de construction, d'aménagement ou d'urbanisme.
+Sont associés à cette élaboration l'Etat et, à leur demande et dans les formes que la commune ou l'établissement public détermine, la région, le département et les organismes mentionnés aux articles L. 121-6 et L. 121-7 ; le maire ou le président de l'établissement public peut recueillir l'avis de tout organisme ou association ayant compétence en matière de construction, d'aménagement ou d'urbanisme. En zone de montagne, la commission communale d'aménagement foncier est consultée à l'initiative du maire dans toute commune où est décidée l'élaboration d'un plan d'occupation des sols.
 
 Au vu de la décision prescrivant l'élaboration d'un plan d'occupation des sols, le représentant de l'Etat porte à la connaissance de la commune ou de l'établissement public compétent les prescriptions, servitudes et dispositions mentionnées au dernier alinéa de l'article L. 123-1, et lui communique toute autre information qu'il juge utile à l'élaboration du plan.
 

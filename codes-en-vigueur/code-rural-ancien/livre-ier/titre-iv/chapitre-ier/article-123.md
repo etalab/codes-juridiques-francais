@@ -5,3 +5,5 @@ Toute personne physique ou morale qui veut user pour l'alimentation en eau potab
 Les maisons sont en tout cas exceptées de cette servitude.
 
 En sont également exceptés les cours et jardins attenant aux habitations.
+
+Cette servitude s'applique également en zone de montagne pour obtenir le passage des eaux destinées à l'irrigation par aqueduc ou à ciel ouvert dans les mêmes conditions que celles prévues au premier alinéa.
