@@ -14,6 +14,7 @@
 - [21° : Organisme gestionnaire d'un plan d'épargne en actions](21)
 - [3° : Ministère public](3)
 - [4° : Administrations et entreprises publiques, établissements ou organismes contrôlés par l'autorité administrative](4)
+- [5° : Commission nationale des comptes de campagne et des financements politiques](5)
 - [6° : Personnes ayant la qualité de commerçant](6)
 - [7° : Agriculture](7)
 - [8° : Membres de certaines professions non commerciales](8)
