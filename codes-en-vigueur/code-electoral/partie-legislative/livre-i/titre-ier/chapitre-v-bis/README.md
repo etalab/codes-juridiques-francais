@@ -8,6 +8,7 @@
 - [Article L52-9](article-l52-9.md)
 - [Article L52-10](article-l52-10.md)
 - [Article L52-11](article-l52-11.md)
+- [Article L52-11-1](article-l52-11-1.md)
 - [Article L52-12](article-l52-12.md)
 - [Article L52-13](article-l52-13.md)
 - [Article L52-14](article-l52-14.md)
