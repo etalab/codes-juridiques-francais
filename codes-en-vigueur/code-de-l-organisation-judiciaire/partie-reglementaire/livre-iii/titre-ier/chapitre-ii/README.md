@@ -6,3 +6,4 @@
 - [Section IV : Dispositions particulières aux professions juridiques et judiciaires](section-iv)
 - [Section V : Dispositions particulières en matière commerciale](section-v)
 - [Section VI : Dispositions particulières à la saisie immobilière](section-vi)
+- [Section VII : Dispositions particulières à l'application des peines](section-vii)

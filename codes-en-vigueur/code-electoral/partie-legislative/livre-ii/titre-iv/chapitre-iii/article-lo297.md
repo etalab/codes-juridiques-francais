@@ -1,3 +1,3 @@
 # Article LO297
 
-Les causes d'incompatibilité sont les mêmes que pour l'élection à l'Assemblée nationale.
+Les dispositions du chapitre IV du titre II du livre Ier du présent code sont applicables aux sénateurs.
