@@ -22,6 +22,6 @@ des frais engagés pour la restauration et la remise en état des biens meubles 
 
 Dans les limites prévues au a du 1° du I de l'article 199 sexies, des intérêts des emprunts contractés dans les conditions prévues au II du même article pour l'acquisition d'une résidence secondaire ;
 
-des frais de voirie, réseaux et distribution imposés par les collectivités locales ou leurs groupements dans le cadre du plan d'occupation des sols, en ce qui concerne les terrains à bâtir ;
+des frais de voirie, réseaux et distribution imposés par les collectivités locales ou leurs groupements dans le cadre du plan d'occupation des sols ou du plan local d'urbanisme, en ce qui concerne les terrains à bâtir ;
 
 du montant des honoraires ayant rémunéré les consultations fiscales demandées par les assujettis à l'occasion d'une cession donnant lieu à l'imposition instituée par l'article 150 A.
