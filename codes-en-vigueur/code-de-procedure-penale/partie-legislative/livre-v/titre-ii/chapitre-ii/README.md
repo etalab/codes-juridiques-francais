@@ -9,6 +9,7 @@
 - [Article 720-4](article-720-4.md)
 - [Article 720-5](article-720-5.md)
 - [Article 721](article-721.md)
+- [Article 721-1](article-721-1.md)
 - [Article 722](article-722.md)
 - [Article 723](article-723.md)
 - [Article 723-1](article-723-1.md)
