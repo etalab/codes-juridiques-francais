@@ -1,6 +1,6 @@
 # Article L311-3
 
-L'autorisation de défrichement peut être refusée lorsque la conservation des bois ou des massifs qu'ils complètent est reconnue nécessaire :
+L'autorisation de défrichement peut être refusée lorsque la conservation des bois ou des massifs qu'ils complètent, ou le maintien de la destination forestière des sols, est reconnu nécessaire :
 
 1° Au maintien des terres sur les montagnes ou sur les pentes ;
 

@@ -1,6 +1,6 @@
 # Article L311-1
 
-Aucun particulier ne peut user du droit d'arracher ou de défricher ses bois sans avoir préalablement obtenu une autorisation administrative.
+Aucun particulier ne peut user du droit d'arracher ou de défricher ses bois, ou de mettre fin à la destination forestière de ses terrains, sans avoir préalablement obtenu une autorisation administrative.
 
 Les opérations volontaires ayant pour conséquence d'entraîner à terme la destruction de l'état boisé d'un terrain et de mettre fin à sa destination forestière sont assimilées à un défrichement et soumises à autorisation, sauf si elles sont entreprises en application d'une servitude d'utilité publique.
 
