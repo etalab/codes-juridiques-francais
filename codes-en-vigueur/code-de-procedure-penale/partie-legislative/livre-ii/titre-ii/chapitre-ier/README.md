@@ -6,3 +6,4 @@
 - [Section 4 : Des débats](section-4)
 - [Section 5 : Du jugement](section-5)
 - [Section 6 : Du jugement par défaut et de l'opposition](section-6)
+- [Section 7 : De la procédure simplifiée](section-7)
