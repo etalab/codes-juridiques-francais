@@ -24,6 +24,7 @@
 - [Article 830](article-830.md)
 - [Article 831](article-831.md)
 - [Article 832-1](article-832-1.md)
+- [Article 832-4](article-832-4.md)
 - [Article 833](article-833.md)
 - [Article 833-1](article-833-1.md)
 - [Article 834](article-834.md)

@@ -6,3 +6,4 @@
 - [Section 4 : Servitudes de vue.](section-4)
 - [Section 6 : Constructions autour d'une place de guerre ou d'une poudrerie.](section-6)
 - [Section 7 : Constructions à proximité des forêts.](section-7)
+- [Section 8 : Nuisances dues à certaines activités.](section-8)
