@@ -19,3 +19,5 @@ II. Ce régime est applicable aux contrats de location-vente de locaux d'habitat
 - par une société civile dont la création a été suscitée par une société d'économie mixte ou une société anonyme d'habitations à loyer modéré ou de crédit immobilier et dont la gérance est statutairement assurée par la société qui en a provoqué la création ;
 
 - par une société coopérative de construction mentionnée à l'article L 432-2 du code de la construction et de l'habitation.
+
+III. - La résiliation d'un contrat de location-attribution ou de location-vente entrant dans les prévisions des I et II rend exigibles les droits dus à raison de la mutation de jouissance qui est résultée de la convention.
