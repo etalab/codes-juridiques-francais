@@ -6,5 +6,7 @@
 - [Titre IV : Des engagements qui se forment sans convention](titre-iv)
 - [Titre V : Du contrat de mariage et des régimes matrimoniaux](titre-v)
 - [Titre VI : De la vente](titre-vi)
+- [Titre VII : De l'échange](titre-vii)
+- [Titre VIII : Du contrat de louage](titre-viii)
 - [Titre XIV : Du cautionnement.](titre-xiv)
 - [Dispositions générales](dispositions-generales)
