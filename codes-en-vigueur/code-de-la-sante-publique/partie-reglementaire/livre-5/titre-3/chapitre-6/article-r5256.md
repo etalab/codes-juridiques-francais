@@ -1,0 +1,3 @@
+# Article R5256
+
+Indépendamment du contrôle et de la vérification obligatoire imposée aux constructeurs et importateurs, tout détenteur de thermomètre médical, que cet instrument remplisse ou non les conditions indiquées dans le présent code, peut demander au service de vérification d'en faire l'essai. Il est délivré dans ce cas un procès-verbal du résultat d'essai indiquant les corrections de chaque instrument. Ce procès-verbal porte, s'il y a lieu, une mention spéciale indiquant que le thermomètre ne remplit pas les conditions imposées au chapitre VI du titre III, du livre V de la partie législative du présent code. Aucune marque n'est imposée sur le thermomètre.
