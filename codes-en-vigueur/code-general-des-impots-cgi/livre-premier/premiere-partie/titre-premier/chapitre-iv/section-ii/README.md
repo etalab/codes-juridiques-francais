@@ -13,6 +13,7 @@
 - [XV : Régime fiscal des syndicats mixtes de gestion forestière et des groupements syndicaux forestiers](xv)
 - [XIV : Régime fiscal des groupements d'intérêt économique et de leurs membres](xiv)
 - [XIV bis : Sociétés civiles de moyens](xiv-bis)
+- [XIV ter : Régime fiscal des groupements d'intérêt public](xiv-ter)
 - [XVII : Sociétés civiles autorisées à faire publiquement appel à l'épargne.](xvii)
 - [XVII bis : Personnes morales passibles de l'impôt sur les sociétés ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble.](xvii-bis)
 - [XVIII : Déclaration des commissions, courtages, ristournes, honoraires, des droits d'auteur, des rémunérations d'associés et des parts de bénéfices](xviii)

@@ -5,3 +5,4 @@
 - [Article 199 quinquies A](article-199-quinquies-a.md)
 - [Article 199 quinquies E](article-199-quinquies-e.md)
 - [Article 199 quinquies F](article-199-quinquies-f.md)
+- [Article 199 quinquies G](article-199-quinquies-g.md)
