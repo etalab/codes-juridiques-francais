@@ -20,4 +20,4 @@ Pour la pêche de la civelle, la dimension de la maille des tamis peut être inf
 
 Les balances à écrevisses ou à crevettes peuvent être indifféremment rondes, carrées ou losangiques ; leur diamètre ou leur diagonale ne doit pas dépasser 0,30 mètre.
 
-Le diamètre de l'orifice d'entrée des bosselles à anguilles ne doit pas excéder 40 millimètres.
+Le diamètre de l'orifice d'entrée dans la dernière chambre de capture des bosselles ou des nasses à anguilles ne doit pas excéder 40 millimètres.
