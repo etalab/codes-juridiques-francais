@@ -6,6 +6,7 @@
 - [Livre 3 : Lutte contre les fléaux sociaux](livre-3)
 - [LIVRE 4 : PROFESSIONS MEDICALES ET AUXILIAIRES MEDICAUX](livre-4)
 - [Livre 5 : Pharmacie](livre-5)
+- [Livre 5 bis : Dispositions relatives aux dispositifs médicaux](livre-5-bis)
 - [Livre 6 : Utilisation thérapeutique de produits d'origine humaine](livre-6)
 - [Livre 8 : Institutions](livre-8)
 - [Livre IX : Personnel](livre-ix)

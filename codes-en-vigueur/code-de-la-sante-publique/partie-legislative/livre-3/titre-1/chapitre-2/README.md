@@ -5,3 +5,4 @@
 - [Section 3 : Mode de placement.](section-3)
 - [Section 4 : Prix de journée.](section-4)
 - [Section 5 : Stations de cure pour tuberculeux.](section-5)
+- [Article L220](article-l220.md)
