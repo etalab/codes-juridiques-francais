@@ -4,4 +4,4 @@ Seuls les agents de l'organisme permanent commissionnés à cet effet par le min
 
 Toutefois, des agents appartenant aux corps techniques de l'aviation civile peuvent être agréés pour effectuer les opérations d'enquête prévues à l'article L. 721-1 sous le contrôle et l'autorité de l'organisme permanent. Ils sont appelés enquêteurs de première information.
 
-Un décret en Conseil d'Etat fixe les conditions de commissionnement des enquêteurs techniques, d'agrément des enquêteurs de première information et de nomination des membres des commissions d'enquête.
+Un décret en Conseil d'Etat fixe les conditions de commissionnement des enquêteurs techniques, d'agrément des enquêteurs de première information et de nomination des membres des commissions d'enquête. Ce décret définit également dans quels cas et selon quelles procédures les enquêteurs techniques de nationalité étrangère peuvent être autorisés à participer à des investigations sur le territoire national, lorsque leur participation est nécessaire au bon déroulement de l'enquête.
