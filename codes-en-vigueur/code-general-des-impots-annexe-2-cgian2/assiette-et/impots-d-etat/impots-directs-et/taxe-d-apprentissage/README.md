@@ -8,4 +8,5 @@
 - [Article 140 F](article-140-f.md)
 - [Article 140 G](article-140-g.md)
 - [Article 140 H](article-140-h.md)
+- [Article 140 JA](article-140-ja.md)
 - [Article 140 N](article-140-n.md)
