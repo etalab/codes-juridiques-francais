@@ -11,7 +11,6 @@
 - [Rémunération et effectifs .](remuneration-et)
 - [REMUNERATIONS ET EFFECTIFS .](remunerations-et)
 - [Sécurité sociale, pensions, hygiène et sécurité](securite-sociale-pensions-hygiene-et)
-- [Article L421-2](article-l421-2.md)
 - [Article L421-4](article-l421-4.md)
 - [Article L421-7](article-l421-7.md)
 - [Article L421-10](article-l421-10.md)
