@@ -5,4 +5,5 @@
 - [Section II : Taxe d'accroissement](section-ii)
 - [Section IV : Taxe sur les défrichements.](section-iv)
 - [Section V bis : Droit fixe de procédure.](section-v-bis)
+- [Section V ter : Droit forfaitaire de délivrance d'ampliation](section-v-ter)
 - [Section VI : Droits de sceau](section-vi)
