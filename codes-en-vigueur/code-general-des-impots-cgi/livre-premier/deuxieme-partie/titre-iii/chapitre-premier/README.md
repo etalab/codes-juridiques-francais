@@ -8,3 +8,4 @@
 - [Section XII : Impositions perçues au profit des districts.](section-xii)
 - [Section XIII : Impositions perçues par les organismes chargés de la création d'une agglomération nouvelle](section-xiii)
 - [Section XIII bis : Dispositions applicables à l'ensemble des groupements de communes](section-xiii-bis)
+- [Section XIII ter : Impositions perçues par les communautés ou syndicats d'agglomérations nouvelles](section-xiii-ter)
