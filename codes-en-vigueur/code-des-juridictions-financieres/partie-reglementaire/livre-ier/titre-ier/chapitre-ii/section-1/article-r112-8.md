@@ -10,4 +10,4 @@ Il adresse à la Cour des comptes les appels formés contre les jugements des ch
 
 Il présente ses conclusions écrites sur les rapports qui lui sont communiqués avec pièces à l'appui. Lui sont obligatoirement communiqués les rapports concernant les quitus, les débets, les amendes, les décisions sur la compétence, les comptabilités de fait, les pourvois et les révisions ainsi que les appels des jugements rendus par les chambres régionales des comptes. Les autres rapports lui sont communiqués soit sur sa demande, soit sur décision des présidents de chambre.
 
-Il peut assister aux séances des chambres et des sections et y présenter des observations orales.
+Il peut assister aux séances des chambres et des sections et y présenter des observations orales. Il ne prend pas part au délibéré.

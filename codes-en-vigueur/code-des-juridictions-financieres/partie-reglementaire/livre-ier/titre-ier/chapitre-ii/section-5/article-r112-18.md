@@ -10,7 +10,7 @@ Elle formule un avis sur les questions de procédure ou de jurisprudence dont el
 
 La Cour, siégeant toutes chambres réunies, ne peut statuer qu'à douze membres au moins.
 
-Le magistrat rapporteur devant les chambres réunies a voix délibérative.
+Sous réserve des dispositions du quatrième alinéa de l'article R. 141-8, le magistrat rapporteur devant les chambres réunies a voix délibérative.
 
 En cas de partage des voix, la voix du premier président est prépondérante.
 
