@@ -5,3 +5,4 @@
 - [Section 3 : Assurance maladie, invalidité et maternité.](section-3)
 - [Section 4 : Assurance vieillesse.](section-4)
 - [Section 5 : Accidents du travail et maladies professionnelles](section-5)
+- [Section 6 : Assurance vieillesse complémentaire obligatoire.](section-6)

@@ -36,21 +36,23 @@ Pour les actions acquises avant le 1er janvier 1990, le prix d'acquisition est r
 
 10. En cas d'absorption d'une société d'investissement à capital variable par un fonds commun de placement réalisée conformément à la réglementation en vigueur, les gains nets résultant de la cession ou du rachat des parts reçues en échange ou de la dissolution du fonds absorbant sont réputés être constitués par la différence entre le prix effectif de cession ou de rachat des parts reçues en échange, net des frais et taxes acquittés par le cédant, et le prix de souscription ou d'achat des actions de la société d'investissement à capital variable absorbée remises à l'échange.
 
-11. Les moins-values subies au cours d'une année sont imputables exclusivement sur les plus-values de même nature réalisées au cours de la même année ou des cinq années suivantes.
+11. Les moins-values subies au cours d'une année sont imputables exclusivement sur les plus-values de même nature réalisées au cours de la même année ou des dix années suivantes (1).
 
-12. Les pertes constatées en cas d'annulation de valeurs mobilières, de droits sociaux, ou de titres assimilés sont imputables, dans les conditions mentionnées au 11, à compter de l'année au cours de laquelle intervient soit la réduction du capital de la société, en exécution d'un plan de redressement mentionné aux articles L. 621-70 et suivants du code de commerce, soit la cession de l'entreprise ordonnée par le tribunal en application des articles L. 621-83 et suivants de ce code, soit le jugement de clôture de la liquidation judiciaire.
+12. Les pertes constatées en cas d'annulation de valeurs mobilières, de droits sociaux, ou de titres assimilés sont imputables, dans les conditions mentionnées au 11, l'année au cours de laquelle intervient soit la réduction du capital de la société, en exécution d'un plan de redressement mentionné aux articles L. 621-70 et suivants du code de commerce, soit la cession de l'entreprise ordonnée par le tribunal en application des articles L. 621-83 et suivants de ce code, soit le jugement de clôture de la liquidation judiciaire.
 
-Ces dispositions ne s'appliquent pas :
+Par exception aux dispositions du précédent alinéa, préalablement à l'annulation des titres, les pertes sur valeurs mobilières, droits sociaux ou titres assimilés peuvent, sur option expresse du détenteur, être imputées dans les conditions prévues au 11, à compter de l'année au cours de laquelle intervient le jugement ordonnant la cession de l'entreprise en application des articles L. 621-83 et suivants du code de commerce, en l'absence de tout plan de continuation, ou prononçant sa liquidation judiciaire. L'option porte sur l'ensemble des valeurs mobilières, droits sociaux ou titres assimilés détenus dans la société faisant l'objet de la procédure collective et s'exerce concomitamment à celle prévue au I de l'article 163 octodecies A. En cas d'infirmation du jugement ou de résolution du plan de cession, la perte imputée ou reportée est reprise au titre de l'année au cours de laquelle intervient cet événement.
 
-a. Aux pertes constatées afférentes à des valeurs mobilières ou des droits sociaux annulés détenus, dans le cadre d'engagements d'épargne à long terme définis à l'article 163 bis A, dans un plan d'épargne d'entreprise mentionné à l'article 163 bis B ou dans un plan d'épargne en actions défini à l'article 163 quinquies D ;
+Les dispositions des premier et deuxième alinéas ne s'appliquent pas :
 
-b. Aux pertes constatées par les personnes à l'encontre desquelles le tribunal a prononcé au titre des sociétés en cause l'une des condamnations mentionnées aux articles L. 624-3, L. 624-4, L. 624-5, L. 625-4, L. 625-5, L. 625-6, L. 625-8, L. 626-2 ou L. 626-6 du code de commerce.
+a. Aux pertes constatées afférentes à des valeurs mobilières ou des droits sociaux détenus, dans le cadre d'engagements d'épargne à long terme définis à l'article 163 bis A, dans un plan d'épargne d'entreprise mentionné à l'article 163 bis B ou dans un plan d'épargne en actions défini à l'article 163 quinquies D ;
 
-13. L'imputation des pertes mentionnées au 12 est opérée dans la limite du prix effectif d'acquisition des titres par le cédant ou, en cas d'acquisition à titre gratuit, de la valeur retenue pour l'assiette des droits de mutation. Lorsque les titres annulés ont été reçus, à compter du 1er janvier 2000, dans le cadre d'une opération d'échange dans les conditions prévues à l'article 150-0 B, le prix d'acquisition à retenir est celui des titres remis à l'échange, diminué de la soulte reçue ou majoré de la soulte versée lors de l'échange.
+b. Aux pertes constatées par les personnes à l'encontre desquelles le tribunal a prononcé au titre des sociétés en cause l'une des condamnations mentionnées aux articles L. 624-3, L. 624-4, L. 624-5, L. 625-4, L. 625-5, L. 625-6, L. 625-8, L. 626-2 ou L. 626-6 du code de commerce. Lorsque l'une de ces condamnations est prononcée à l'encontre d'un contribuable ayant exercé l'option prévue au deuxième alinéa, la perte ainsi imputée ou reportée est reprise au titre de l'année de la condamnation.
 
-La perte nette constatée est minorée, en tant qu'elle se rapporte aux titres annulés, du montant :
+13. L'imputation des pertes mentionnées au 12 est opérée dans la limite du prix effectif d'acquisition des titres par le cédant ou, en cas d'acquisition à titre gratuit, de la valeur retenue pour l'assiette des droits de mutation. Lorsque les titres  ont été reçus, à compter du 1er janvier 2000, dans le cadre d'une opération d'échange dans les conditions prévues à l'article 150-0 B, le prix d'acquisition à retenir est celui des titres remis à l'échange, diminué de la soulte reçue ou majoré de la soulte versée lors de l'échange.
 
-a. Des apports remboursés ;
+La perte nette constatée est minorée, en tant qu'elle se rapporte aux titres concernés, du montant :
+
+a. Des sommes ou valeurs remboursées dans la limite du prix d'acquisition des titres correspondants.
 
 b. De la déduction prévue à l'article 163 septdecies ;
 
