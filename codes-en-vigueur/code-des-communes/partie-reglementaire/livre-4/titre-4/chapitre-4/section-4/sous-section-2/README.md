@@ -1,6 +1,7 @@
 # SOUS-SECTION 2 : Avancement.
 
 - [Article R*444-49](article-r-444-49.md)
+- [Article R*444-50](article-r-444-50.md)
 - [Article R*444-51](article-r-444-51.md)
 - [Article R*444-52](article-r-444-52.md)
 - [Article R*444-53](article-r-444-53.md)
