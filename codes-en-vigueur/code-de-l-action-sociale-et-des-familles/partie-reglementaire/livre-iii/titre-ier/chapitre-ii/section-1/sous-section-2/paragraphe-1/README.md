@@ -1,4 +1,4 @@
-# Paragraphe 1 : Etablissements accueillant des enfants ou adolescents présentant des déficiences intellectuelles ou inadaptés
+# Paragraphe 1 : Etablissements accueillant des enfants ou adolescents présentant des déficiences intellectuelles
 
 - [Sous-paragraphe 1 : Dispositions générales.](sous-paragraphe-1)
 - [Sous-paragraphe 2 : Organisation de l'établissement ou du service.](sous-paragraphe-2)
