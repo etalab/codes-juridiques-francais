@@ -9,5 +9,6 @@
 - [Article 1142-19](article-1142-19.md)
 - [Article 1142-20](article-1142-20.md)
 - [Article 1142-21](article-1142-21.md)
+- [Article 1142-22](article-1142-22.md)
 - [Article 1142-23](article-1142-23.md)
 - [Article 1142-24](article-1142-24.md)

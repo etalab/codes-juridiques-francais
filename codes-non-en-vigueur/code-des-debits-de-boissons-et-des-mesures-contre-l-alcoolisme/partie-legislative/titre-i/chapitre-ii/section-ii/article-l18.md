@@ -6,4 +6,4 @@ Cette publicité peut comporter en outre des références relatives aux terroirs
 
 Le conditionnement ne peut être reproduit que s'il est conforme aux dispositions précédentes.
 
-Toute publicité en faveur de boissons alcooliques, à l'exception des circulaires commerciales destinées aux personnes agissant à titre professionnel, doit être assortie d'un message de caractère sanitaire précisant que l'abus d'alcool est dangereux pour la santé.
+Toute publicité en faveur de boissons alcooliques, à l'exception des circulaires commerciales destinées aux personnes agissant à titre professionnel ou faisant l'objet d'envois nominatifs ainsi que les affichettes, tarifs, menus ou objets à l'intérieur des lieux de vente à caractère spécialisé, doit être assortie d'un message de caractère sanitaire précisant que l'abus d'alcool est dangereux pour la santé.
