@@ -15,6 +15,7 @@
 - [Article 361](article-361.md)
 - [Article 363 V](article-363-v.md)
 - [Article 363 X](article-363-x.md)
+- [Article 363 A](article-363-a.md)
 - [Article 363 AC](article-363-ac.md)
 - [Article 363 AE](article-363-ae.md)
 - [Article 363 AG](article-363-ag.md)
