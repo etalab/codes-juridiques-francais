@@ -11,3 +11,5 @@
 - [Article R2334-27](article-r2334-27.md)
 - [Article R2334-28](article-r2334-28.md)
 - [Article R2334-29](article-r2334-29.md)
+- [Article R2334-30](article-r2334-30.md)
+- [Article R2334-31](article-r2334-31.md)
