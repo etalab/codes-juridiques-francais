@@ -2,6 +2,7 @@
 
 - [Article L21](article-l21.md)
 - [Article L21-1](article-l21-1.md)
+- [Article L21-2](article-l21-2.md)
 - [Article L22](article-l22.md)
 - [Article L23](article-l23.md)
 - [Article L23-1](article-l23-1.md)
