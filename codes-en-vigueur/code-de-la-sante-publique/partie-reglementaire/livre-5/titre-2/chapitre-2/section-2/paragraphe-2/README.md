@@ -1,6 +1,7 @@
 # PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE.
 
 - [Article R5128](article-r5128.md)
+- [Article R5128-1](article-r5128-1.md)
 - [Article R5129](article-r5129.md)
 - [Article R5130](article-r5130.md)
 - [Article R5131](article-r5131.md)
@@ -8,8 +9,10 @@
 - [Article R5133](article-r5133.md)
 - [Article R5134](article-r5134.md)
 - [Article R5135](article-r5135.md)
+- [Article R5135-1](article-r5135-1.md)
 - [Article R5136](article-r5136.md)
 - [Article R5136-1](article-r5136-1.md)
+- [Article R5136-2](article-r5136-2.md)
 - [Article R5137](article-r5137.md)
 - [Article R5138](article-r5138.md)
 - [Article R5139](article-r5139.md)
