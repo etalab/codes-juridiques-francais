@@ -8,6 +8,4 @@ En cas de vente d'un véhicule au cours de la période d'imposition, les cession
 
 III. Le paiement de la taxe est constaté au moyen de la délivrance d'une vignette timbrée dont le modèle et les modalités de délivrance et d'utilisation sont établis par un arrêté ministériel qui fixe, en outre les obligations incombant aux propriétaires de véhicules exonérés de la taxe (1).
 
-La délivrance des duplicata de vignettes timbrées donne lieu au paiement d'une taxe de 10 F qui est perçue selon les modalités fixées par arrêté du ministre chargé du budget (1).
-
-(1) Annexe IV, art. 155 C à 155 J.
+La délivrance des duplicata de vignettes timbrées donne lieu au paiement d'une taxe de 1,50 euro qui est perçue selon les modalités fixées par arrêté du ministre chargé du budget (1).

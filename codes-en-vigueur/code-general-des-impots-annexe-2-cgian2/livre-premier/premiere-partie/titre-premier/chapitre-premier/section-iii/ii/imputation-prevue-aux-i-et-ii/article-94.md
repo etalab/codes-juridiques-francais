@@ -6,6 +6,6 @@ II. La restitution à laquelle les personnes non astreintes à souscrire la déc
 
 La demande en restitution doit être présentée avant le 1er mars de l'année suivant celle de l'encaissement des revenus.
 
-Toutefois, lorsque le montant net des revenus mobiliers encaissés au cours d'une année et donnant droit au crédit d'impôt n'atteint pas 50 F, la demande en restitution peut n'être produite que dans les deux premiers mois de l'année suivant celle où le montant cumulé desdits revenus perçus au cours de plusieurs années est au moins égal à 50 F, sans que la prolongation de délai résultant de la présente disposition puisse excéder quatre ans.
+Toutefois, lorsque le montant net des revenus mobiliers encaissés au cours d'une année et donnant droit au crédit d'impôt n'atteint pas 8 €, la demande en restitution peut n'être produite que dans les deux premiers mois de l'année suivant celle où le montant cumulé desdits revenus perçus au cours de plusieurs années est au moins égal à 8 €, sans que la prolongation de délai résultant de la présente disposition puisse excéder quatre ans.
 
 III. Le dépôt volontaire dans le délai légal de la déclaration prévue à l'article 170 du code général des impôts tient lieu de la demande de restitution à raison du crédit d'impôt afférent aux revenus de capitaux mobiliers qui y sont mentionnés.
