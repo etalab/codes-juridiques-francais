@@ -1,4 +1,3 @@
 # TITRE IV : SOCIETE AIR FRANCE.
 
-- [CHAPITRE Ier : INSTITUTION.](chapitre-ier)
 - [CHAPITRE II : FONCTIONNEMENT.](chapitre-ii)
