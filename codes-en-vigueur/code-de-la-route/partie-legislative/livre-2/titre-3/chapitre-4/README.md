@@ -9,8 +9,6 @@
 - [Article L234-7](article-l234-7.md)
 - [Article L234-8](article-l234-8.md)
 - [Article L234-9](article-l234-9.md)
-- [Article L234-10](article-l234-10.md)
-- [Article L234-11](article-l234-11.md)
 - [Article L234-12](article-l234-12.md)
 - [Article L234-13](article-l234-13.md)
 - [Article L234-14](article-l234-14.md)

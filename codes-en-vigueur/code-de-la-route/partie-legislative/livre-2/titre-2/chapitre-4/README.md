@@ -14,7 +14,6 @@
 - [Article L224-12](article-l224-12.md)
 - [Article L224-13](article-l224-13.md)
 - [Article L224-14](article-l224-14.md)
-- [Article L224-15](article-l224-15.md)
 - [Article L224-16](article-l224-16.md)
 - [Article L224-17](article-l224-17.md)
 - [Article L224-18](article-l224-18.md)

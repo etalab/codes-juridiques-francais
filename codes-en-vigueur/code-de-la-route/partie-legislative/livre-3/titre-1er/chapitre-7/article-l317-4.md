@@ -8,4 +8,4 @@ II. - Toute personne coupable de cette infraction encourt également les peines 
 
 2° La confiscation du véhicule.
 
-III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nombre de points initial du permis de conduire.
+III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.

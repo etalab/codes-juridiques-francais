@@ -6,4 +6,4 @@ Toute personne coupable de l'une des infractions prévues au présent article en
 
 Lorsqu'un délit prévu au présent article est commis à l'aide d'un véhicule, l'immobilisation et la mise en fourrière peuvent être prescrites dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
-Les délits prévus au présent article donnent lieu de plein droit à la réduction de la moitié du nombre de points initial du permis de conduire.
+Les délits prévus au présent article donnent lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.

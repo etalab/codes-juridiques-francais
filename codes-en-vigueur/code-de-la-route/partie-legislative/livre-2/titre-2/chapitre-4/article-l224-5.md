@@ -10,4 +10,4 @@ II. - Toute personne coupable de ce délit encourt également les peines complé
 
 3° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal.
 
-III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nombre de points initial du permis de conduire.
+III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.

@@ -16,6 +16,6 @@ Toutefois, si la durée de la faillite personnelle ou de l'interdiction est sup�
 
 4° Les dispenses de peines, à l'expiration d'un délai de trois ans à compter du jour où la condamnation est devenue définitive ;
 
-5° Les condamnations pour contravention, à l'expiration d'un délai de trois ans à compter du jour où ces condamnations sont devenues définitives ;
+5° Les condamnations pour contravention, à l'expiration d'un délai de trois ans à compter du jour où ces condamnations sont devenues définitives ; ce délai est porté à quatre ans lorsqu'il s'agit d'une contravention dont la récidive constitue un délit ;
 
 6° Les mentions relatives à la composition pénale, à l'expiration d'un délai de trois ans à compter du jour où l'exécution de la mesure a été constatée, si la personne n'a pas, pendant ce délai, soit subi de condamnation à une peine criminelle ou correctionnelle, soit exécuté une nouvelle composition pénale.
