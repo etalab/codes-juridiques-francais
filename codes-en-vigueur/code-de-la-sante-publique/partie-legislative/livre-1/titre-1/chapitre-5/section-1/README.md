@@ -11,3 +11,4 @@
 - [Article L35-6](article-l35-6.md)
 - [Article L35-8](article-l35-8.md)
 - [Article L35-9](article-l35-9.md)
+- [Article L35-10](article-l35-10.md)

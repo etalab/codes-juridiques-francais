@@ -9,3 +9,4 @@
 - [Chapitre VI : Cautionnements.](chapitre-vi)
 - [Chapitre VII : GROUPEMENTS D'EMPLOYEURS.](chapitre-vii)
 - [Chapitre VIII : Associations intermédiaires.](chapitre-viii)
+- [Chapitre IX : Services aux personnes](chapitre-ix)

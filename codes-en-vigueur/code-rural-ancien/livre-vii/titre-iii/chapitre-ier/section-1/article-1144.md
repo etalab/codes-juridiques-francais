@@ -4,8 +4,6 @@ Il est institué un régime d'assurance obligatoire contre les accidents du trav
 
 1° les salariés occupés dans les exploitations de culture et d'élevage de quelque nature qu'elles soient, les exploitations de dressage, d'entraînement, les haras ainsi que dans les établissements de toute nature dirigés par l'exploitant agricole en vue de la transformation, du conditionnement et de la commercialisation des produits agricoles lorsque ces activités constituent le prolongement de l'acte de production ou dans les structures d'accueil touristique qui ont pour support l'exploitation.
 
-Sans préjudice de l'application de l'article 2 de la loi n° 88-1202 du 30 décembre 1988 précitée, un décret détermine, le cas échéant, les critères permettant d'apprécier le caractère accessoire de l'activité touristique. Ce décret doit être adapté à la spécificité de la montagne.
-
 2° Les ouvriers et employés occupés dans les établissements de conchyliculture et de pisciculture et établissements assimilés, à l'exception de ceux qui relèvent du régime social des marins ;
 
 3° Les ouvriers et employés occupés à des travaux forestiers et les salariés des entreprises de travaux forestiers.
