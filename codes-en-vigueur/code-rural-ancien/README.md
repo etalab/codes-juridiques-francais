@@ -12,4 +12,5 @@
 - [Article 162](article-162.md)
 - [Article 237](article-237.md)
 - [Article 375](article-375.md)
+- [Article 1142-5](article-1142-5.md)
 - [Article 1143-2](article-1143-2.md)
