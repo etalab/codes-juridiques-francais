@@ -1,6 +1,6 @@
 # Article L311-4
 
-Il est établi, dans chaque zone d'aménagement concerté, un plan d'aménagement de zone compatible, en l'absence de plan d'occupation des sols, avec les orientations du schéma directeur s'il en existe un. Le plan d'aménagement de zone comporte tout ou partie des éléments énumérés aux articles L. 123-1 et L. 130-1. Le projet de plan d'aménagement de zone est élaboré par la personne publique qui a pris l'initiative de la création de zone.
+Il est établi, dans chaque zone d'aménagement concerté, un plan d'aménagement de zone compatible, avec les orientations du schéma directeur s'il en existe un. Le plan d'aménagement de zone comporte tout ou partie des éléments énumérés aux articles L. 123-1 et L. 130-1. Le projet de plan d'aménagement de zone est élaboré par la personne publique qui a pris l'initiative de la création de zone.
 
 Sont associés à cette élaboration l'Etat et la commune et, à leur demande, et dans les formes que la personne publique qui a prix l'initiative de la création de la zone détermine, la région et le département ; l'autorité compétente pour créer la zone d'aménagement concerté peut demander que soit recueilli l'avis de tout organisme ou association ayant compétence en matière de construction, d'aménagement ou d'urbanisme.
 
