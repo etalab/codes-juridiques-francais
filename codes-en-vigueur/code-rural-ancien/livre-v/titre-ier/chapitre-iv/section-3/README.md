@@ -1,7 +1,5 @@
 # Section 3 : Crédit à long terme individuel.
 
-- [Article 687](article-687.md)
-- [Article 688](article-688.md)
 - [Article 689](article-689.md)
 - [Article 690](article-690.md)
 - [Article 691](article-691.md)
