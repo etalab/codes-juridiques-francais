@@ -1,8 +1,5 @@
 # Section 3 : Etablissements soumis au contrôle de l'autorité administrative.
 
-- [Sous-section 1 : Dispositions propres aux établissements fonctionnant sans autorisation ou déclaration.](sous-section-1)
-- [Sous-section 2 : Dispositions propres aux établissements fonctionnant en infraction aux dispositions qui leur sont imposées.](sous-section-2)
-- [Sous-section 3 : Dispositions communes.](sous-section-3)
 - [Article R*213-39](article-r-213-39.md)
 - [Article R*213-40](article-r-213-40.md)
 - [Article R*213-41](article-r-213-41.md)
