@@ -6,3 +6,4 @@
 - [Article R241-3](article-r241-3.md)
 - [Article R241-4](article-r241-4.md)
 - [Article R241-5](article-r241-5.md)
+- [Article R241-6](article-r241-6.md)
