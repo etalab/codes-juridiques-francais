@@ -6,4 +6,6 @@ Le contrat de travail ne peut être conclu pour une durée déterminée que dans
 
 2° Accroissement temporaire de l'activité de l'entreprise ;
 
-3° Emplois à caractère saisonnier ou pour lesquels, dans certains secteurs d'activité définis par décret ou par voie de convention ou d'accord collectif étendu, il est d'usage constant de ne pas recourir au contrat de travail à durée indéterminée en raison de la nature de l'activité exercée et du caractère par nature temporaire de ces emplois.
+3° Emplois à caractère saisonnier ou pour lesquels, dans certains secteurs d'activité définis par décret ou par voie de convention ou d'accord collectif étendu, il est d'usage constant de ne pas recourir au contrat de travail à durée indéterminée en raison de la nature de l'activité exercée et du caractère par nature temporaire de ces emplois ;
+
+4° Remplacement d'un pharmacien titulaire d'officine dans les cas prévus aux premier et troisième alinéas de l'article L. 5125-21 du code de la santé publique ou remplacement d'un directeur de laboratoire d'analyses de biologie médicale tel que prévu à l'article L. 6221-11 du même code.
