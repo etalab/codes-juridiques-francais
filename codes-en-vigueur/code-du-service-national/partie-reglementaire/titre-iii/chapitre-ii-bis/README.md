@@ -1,6 +1,7 @@
 # CHAPITRE II bis : Service dans la police nationale
 
 - [PARAGRAPHE 1 : Affectation.](paragraphe-1)
+- [SECTION I : Service actif dans la police nationale.](section-i)
 - [PARAGRAPHE 2 : Missions.](paragraphe-2)
 - [PARAGRAPHE 3 : Hiérarchie - Avancement.](paragraphe-3)
 - [PARAGRAPHE 4 : Permissions.](paragraphe-4)
