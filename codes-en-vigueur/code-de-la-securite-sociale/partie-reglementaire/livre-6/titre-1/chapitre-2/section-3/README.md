@@ -12,3 +12,6 @@
 - [Article D612-21](article-d612-21.md)
 - [Article D612-22](article-d612-22.md)
 - [Article D612-23](article-d612-23.md)
+- [Article D612-23-1](article-d612-23-1.md)
+- [Article D612-23-2](article-d612-23-2.md)
+- [Article D612-23-3](article-d612-23-3.md)
