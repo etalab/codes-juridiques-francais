@@ -1,7 +1,6 @@
 # Section III : Calcul de l'impôt
 
 - [1° : Retenue à la source sur les salaires, droits d'auteur et rémunérations versés aux auteurs, artistes et sportifs domiciliés fiscalement en France](1)
-- [2° : Réduction d'impôt pour certains investissements dans l'immobilier locatif - Obligations.](2)
 - [3° : Réduction d'impôt au titre de certains investissements réalisés outre-mer](3)
 - [5° : Réduction d'impôt au titre des souscriptions en numéraire au capital de sociétés non cotées](5)
 - [6° : Réduction d'impôt au titre des souscriptions de parts de fonds communs de placement dans l'innovation](6)

@@ -33,6 +33,5 @@
 - [Article 163 A](article-163-a.md)
 - [d : Créateurs d'entreprises.](d)
 - [a : Plan d'épargne en actions](a)
-- [f : Copropriétés de navires](f)
 - [g : Copropriétés de navires de commerce](g)
 - [h : Souscription en numéraire au capital de sociétés agréées de financement de la pêche artisanale](h)
