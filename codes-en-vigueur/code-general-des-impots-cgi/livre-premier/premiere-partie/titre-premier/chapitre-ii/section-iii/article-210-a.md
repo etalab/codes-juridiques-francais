@@ -12,7 +12,7 @@ a. Elle doit reprendre à son passif :
 
 - d'une part, les provisions dont l'imposition est différée ;
 
-- d'autre part, la réserve spéciale où la société absorbée a porté les plus-values à long terme soumises antérieurement au taux réduit de 10 %, de 15 % ou de 25 %.
+- d'autre part, la réserve spéciale où la société absorbée a porté les plus-values à long terme soumises antérieurement au taux réduit de 10 %, de 15 %, de 19 % ou de 25 %.
 
 b. Elle doit se substituer à la société absorbée pour la réintégration des plus-values dont l'imposition avait été différée chez cette dernière.
 
@@ -25,3 +25,5 @@ d. Elle doit réintégrer dans ses bénéfices imposables les plus-values dégag
 5. Les droits afférents à un contrat de crédit-bail conclu dans les conditions prévues aux 1° et 2° de l'article 1er de la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le crédit-bail sont assimilés à des éléments de l'actif immobilisé, amortissables ou non amortissables dans les conditions prévues à l'article 39 duodecies A.
 
 Pour l'application du c du 3, en cas de cession ultérieure des droits mentionnés à l'alinéa précédent qui sont assimilés à des éléments non amortissables ou de cession du terrain, la plus-value est calculée d'après la valeur que ces droits avaient, du point de vue fiscal, dans les écritures de la société absorbée.
+
+Ces dispositions s'appliquent aux droits afférents aux contrats de crédit-bail portant sur des éléments incorporels amortissables d'un fonds de commerce ou d'un fonds artisanal.
