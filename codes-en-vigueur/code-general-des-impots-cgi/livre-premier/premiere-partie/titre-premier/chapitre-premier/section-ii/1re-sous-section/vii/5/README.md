@@ -5,6 +5,7 @@
 - [11° : Emprunts des départements, communes et établissements publics](11)
 - [12° : Emprunts regroupés](12)
 - [13° : Financement de certaines opérations d'exportation](13)
+- [14° : Fonds commun de placement](14)
 - [15° : Habitations à loyer modéré](15)
 - [16° : Sociétés immobilières d'investissement et sociétés immobilières de gestion](16)
 - [17° : Sociétés pour le développement de l'industrie, du commerce et de l'agriculture et leur adaptation à la Communauté économique européenne.](17)
