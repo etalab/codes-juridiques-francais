@@ -7,3 +7,4 @@
 - [Section 5 : Dispositions diverses.](section-5)
 - [Section 6 : Dispositions particulières aux départements d'outre-mer.](section-6)
 - [Section 7 : Pénalités.](section-7)
+- [Section 8 : Les organismes de gestion et d'exploitation forestière en commun](section-8)
