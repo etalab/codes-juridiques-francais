@@ -2,13 +2,17 @@
 
 Les agents assermentés et commissionnés habilités à exercer un contrôle en vertu de l'article L. 555-1 comprennent les catégories ci-après :
 
-1° Fonctionnaires commissionnés par le ministre de l'agriculture appartenant aux corps ci-après :
+1° Fonctionnaires commissionnés par le préfet appartenant aux corps ci-après :
 
 - ingénieurs du génie rural, des eaux et des forêts ;
 
 - ingénieurs des travaux des eaux et forêts ;
 
-- techniciens des travaux forestiers de l'Etat ;
+- techniciens des services du ministère chargé de l'agriculture, spécialité Travaux forestiers ;
+
+- agents techniques des services déconcentrés du ministère chargé de la forêt ;
+
+- adjoints techniques des services déconcentrés du ministère chargé de la forêt.
 
 2° Contrôleurs assermentés des services officiels de contrôle et de certification dépendant soit du groupement national interprofessionnel des semences, graines et plants, soit du comité national interprofessionnel de l'horticulture florale et ornementale et des pépinières.
 

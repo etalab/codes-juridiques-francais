@@ -1,6 +1,6 @@
 # Article R*363-3
 
-Les demandes de dérogation à l'interdiction générale de défrichement ou d'autorisation préalable à toute demande d'autorisation de lotissement dans un terrain boisé, prévue par l'article L. 363-5, sont adressées au chef du service forestier.
+Les demandes de dérogation à l'interdiction générale de défrichement ou d'autorisation préalable à toute demande d'autorisation de lotissement dans un terrain boisé, prévue par l'article L. 363-5, sont adressées au préfet.
 
 Ces demandes doivent comporter, sous peine d'irrecevabilité :
 
@@ -18,4 +18,4 @@ Ces demandes doivent comporter, sous peine d'irrecevabilité :
 
 - l'indication des motifs pour lesquels le défrichement est demandé.
 
-Le chef du service forestier peut demander toutes précisions complémentaires qu'il estime utiles pour l'instruction du dossier.
+Le préfet peut demander toutes précisions complémentaires qu'il estime utiles pour l'instruction du dossier.

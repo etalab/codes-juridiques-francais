@@ -1,8 +1,8 @@
 # Article R*311-3
 
-Le procès-verbal de reconnaissance doit être dressé dans les quatre mois suivant la réception à la sous-préfecture de la demande d'autorisation. Si l'étude d'impact ou la notice mentionnée au deuxième alinéa de l'article R. 311-1 n'est pas jointe à la demande, le délai de quatre mois ne court qu'à partir de la date de réception de l'un ou l'autre de ces documents à la sous-préfecture.
+Le procès-verbal de reconnaissance doit être dressé dans les quatre mois suivant la réception à la préfecture de la demande d'autorisation, sous réserve des dispositions du dernier alinéa de l'article R. 311-1.
 
-Le procès-verbal contient toutes constatations et tous renseignements de nature à faire apprécier si la conservation des bois ou des massifs qu'ils complètent est nécessaire pour remplir l'un des rôles utilitaires définis par l'article L. 311-3.
+Le procès-verbal de reconnaissance contient toutes constatations et tous renseignements permettant d'apprécier si la conservation des bois ou des massifs qu'ils complètent ou le maintien de la destination forestière des sols est nécessaire au sens de l'article L. 311-3.
 
 Il est notifié par le directeur départemental de l'agriculture au demandeur qui est invité à formuler ses observations dans le délai de quinze jours.
 
