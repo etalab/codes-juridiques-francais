@@ -3,6 +3,7 @@
 - [Article 1251](article-1251.md)
 - [Article 1252](article-1252.md)
 - [Article 1252-1](article-1252-1.md)
+- [Article 1252-2](article-1252-2.md)
 - [Article 1253](article-1253.md)
 - [Article 1254](article-1254.md)
 - [Article 1254-1](article-1254-1.md)
