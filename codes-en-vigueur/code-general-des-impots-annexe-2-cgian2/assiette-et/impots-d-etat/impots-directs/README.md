@@ -1,3 +1,4 @@
 # IMPOTS DIRECTS
 
 - [IMPOT SUR LE REVENU](impot-sur)
+- [IMPOTS SUR LE REVENU](impots-sur)
