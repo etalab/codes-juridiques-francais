@@ -1,5 +1,7 @@
 # Titre XVI : Du compromis
 
+- [Article 2059](article-2059.md)
+- [Article 2061](article-2061.md)
 - [Article 2062](article-2062.md)
 - [Article 2063](article-2063.md)
 - [Article 2064](article-2064.md)
