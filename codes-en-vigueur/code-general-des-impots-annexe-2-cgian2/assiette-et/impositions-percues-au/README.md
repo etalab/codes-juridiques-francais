@@ -3,6 +3,8 @@
 - [Article 339](article-339.md)
 - [Article 340](article-340.md)
 - [Article 341](article-341.md)
+- [Article 345](article-345.md)
+- [Article 346](article-346.md)
 - [Article 357 C](article-357-c.md)
 - [Article 357 D](article-357-d.md)
 - [Article 357 A](article-357-a.md)
