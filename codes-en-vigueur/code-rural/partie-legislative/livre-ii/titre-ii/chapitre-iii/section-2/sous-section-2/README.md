@@ -1,4 +1,4 @@
-# Sous-section 2 : Visa.
+# Sous-section 2 : Validation du permis de chasser.
 
 - [Article L223-9](article-l223-9.md)
 - [Article L223-10](article-l223-10.md)
