@@ -5,4 +5,5 @@
 - [Section 3 : Primes à l'investissement forestier.](section-3)
 - [Section 4 : Prêts en numéraire.](section-4)
 - [Section 5 : Prêts sous forme de travaux exécutés par l'Etat.](section-5)
+- [Section 6 : Opérations d'intérêt général.](section-6)
 - [Article R532-1](article-r532-1.md)

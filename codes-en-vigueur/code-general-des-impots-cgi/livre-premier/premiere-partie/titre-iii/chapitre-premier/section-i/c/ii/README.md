@@ -2,3 +2,4 @@
 
 - [Assiette.](assiette)
 - [Exemptions.](exemptions)
+- [Tarifs.](tarifs)
