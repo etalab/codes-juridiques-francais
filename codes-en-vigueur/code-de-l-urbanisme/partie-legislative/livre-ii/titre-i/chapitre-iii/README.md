@@ -19,5 +19,4 @@
 - [Article L213-15](article-l213-15.md)
 - [Article L213-16](article-l213-16.md)
 - [Article L213-17](article-l213-17.md)
-- [Article L213-17-1](article-l213-17-1.md)
 - [Article L213-18](article-l213-18.md)
