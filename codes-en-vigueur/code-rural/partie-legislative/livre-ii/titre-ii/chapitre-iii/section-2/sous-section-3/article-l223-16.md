@@ -4,4 +4,4 @@ Le permis de chasser est validé annuellement par le paiement de redevances cyn�
 
 Pour obtenir la validation départementale du permis de chasser, le demandeur doit être membre de la fédération des chasseurs correspondante.
 
-Pour obtenir la validation nationale du permis de chasser, le demandeur doit être membre de la fédération des chasseurs d'un département. Lorsqu'il souhaite chasser dans un autre département, il doit préalablement adhérer à la fédération de ce département.
+Pour obtenir la validation nationale du permis de chasser, le demandeur doit être membre de la fédération des chasseurs d'un département.

@@ -1,6 +1,6 @@
 # Article 163 bis C
 
-I. L'avantage défini à l'article 80 bis est imposé lors de la cession des titres, selon le cas, dans des conditions prévues à l'article 92 B, 150 A bis ou 160 si les actions acquises revêtent la forme nominative et demeurent indisponibles, suivant des modalités fixées par décret en Conseil d'Etat, de la date de la levée de l'option jusqu'à l'achèvement d'une période de cinq années à compter de la date d'attribution de cette option et, en tout état de cause, pendant au moins un an.
+I. L'avantage défini à l'article 80 bis est imposé lors de la cession des titres, selon le cas, dans des conditions prévues à l'article 92 B, 150 A bis ou 160 si les actions acquises revêtent la forme nominative et demeurent indisponibles, suivant des modalités fixées par décret en Conseil d'Etat, jusqu'à l'achèvement d'une période de cinq années à compter de la date d'attribution de l'option (1).
 
 Lorsque les actions ont été acquises à la suite d'options consenties par une mère ou une filiale dont le siège social est situé à l'étranger, les obligations déclaratives incombent à la filiale ou à la mère française.
 
@@ -16,4 +16,8 @@ Le montant net imposable de l'avantage est divisé par le nombre d'années enti�
 
 Lorsque le revenu global net est négatif, il est compensé à due concurrence, avec le montant net de l'avantage. L'excédent éventuel de ce montant net est ensuite imposé suivant les règles du premier alinéa.
 
-Les dispositions de l'article 163 ne sont pas applicables.
+Les dispositions de l'article 163-0 A ne sont pas applicables (2).
+
+(1) Ces dispositions sont applicables aux actions cédées à compter du 1er janvier 1993.
+
+(2) Ces dispositions sont applicables à compter de l'imposition des revenus de 1992 ; elles ne s' appliquent qu'aux seuls revenus exceptionnels ou différés imposés d'après le barême progressif prévu à l'article 197 du code général des impôts.

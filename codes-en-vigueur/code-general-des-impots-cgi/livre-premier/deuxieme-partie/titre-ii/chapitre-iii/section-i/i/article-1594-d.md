@@ -10,8 +10,8 @@ Pour les mutations à titre onéreux d'immeubles visées aux articles 710 et 711
 
 6 p. 100 à compter du 1er juin 1993 ;
 
-5,5 p. 100 à compter du 1er juin 1994 ;
+5,5 p. 100 à compter du 1er juin 1995 ;
 
-5 p. 100 à compter du 1er juin 1995.
+5 p. 100 à compter du 1er juin 1996.
 
 Les dispositions du premier et du deuxième alinéa ne sont pas applicables au droit proportionnel de 0,60 p. 100.
