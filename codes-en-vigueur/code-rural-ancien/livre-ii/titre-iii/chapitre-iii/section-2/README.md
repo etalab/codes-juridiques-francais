@@ -1,5 +1,6 @@
 # Section 2 : De la police sanitaire des maladies contagieuses.
 
+- [Article 224](article-224.md)
 - [Article 225](article-225.md)
 - [Article 226](article-226.md)
 - [Article 227](article-227.md)
