@@ -8,3 +8,6 @@
 - [Article L742-6](article-l742-6.md)
 - [Article L742-7](article-l742-7.md)
 - [Article L742-8](article-l742-8.md)
+- [Article L742-9](article-l742-9.md)
+- [Article L742-10](article-l742-10.md)
+- [Article L742-11](article-l742-11.md)

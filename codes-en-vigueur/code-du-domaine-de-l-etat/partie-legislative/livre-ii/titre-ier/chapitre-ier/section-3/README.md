@@ -8,4 +8,5 @@
 - [Article L34-6](article-l34-6.md)
 - [Article L34-7](article-l34-7.md)
 - [Article L34-8](article-l34-8.md)
+- [Article L34-8-1](article-l34-8-1.md)
 - [Article L34-9](article-l34-9.md)
