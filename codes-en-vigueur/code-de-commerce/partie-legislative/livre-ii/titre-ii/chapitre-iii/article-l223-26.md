@@ -9,3 +9,5 @@ A compter de la communication prévue à l'alinéa précédent, tout associé a 
 L'associé peut, en outre, et à toute époque, obtenir communication, dans les conditions fixées par décret en Conseil d'Etat, des documents sociaux déterminés par ledit décret et concernant les trois derniers exercices.
 
 Toute clause contraire aux dispositions du présent article et du décret pris pour son application, est réputée non écrite.
+
+Les troisième à sixième alinéas de l'article L. 225-100 et l'article L. 225-100-1 s'appliquent au rapport de gestion. Le cas échéant, l'article L. 225-100-2 s'applique au rapport consolidé de gestion.
