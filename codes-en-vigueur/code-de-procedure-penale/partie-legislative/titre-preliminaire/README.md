@@ -18,6 +18,8 @@
 - [Article 2-14](article-2-14.md)
 - [Article 2-15](article-2-15.md)
 - [Article 2-16](article-2-16.md)
+- [Article 2-18](article-2-18.md)
+- [Article 2-19](article-2-19.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
