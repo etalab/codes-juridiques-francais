@@ -5,4 +5,3 @@
 - [Chapitre III : Prescriptions des arrérages.](chapitre-iii)
 - [Chapitre IV : Payement des majorations pour enfants.](chapitre-iv)
 - [Chapitre V : Règles générales de cumul.](chapitre-v)
-- [Chapitre VII : Dispositions relatives au paiement des pensions les plus élevées.](chapitre-vii)
