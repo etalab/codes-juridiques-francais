@@ -13,3 +13,4 @@
 - [Article L900-2-1](article-l900-2-1.md)
 - [Article L900-3](article-l900-3.md)
 - [Article L900-4](article-l900-4.md)
+- [Article L900-5](article-l900-5.md)

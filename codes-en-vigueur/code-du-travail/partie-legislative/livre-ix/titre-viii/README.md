@@ -16,3 +16,4 @@
 - [Article L980-12](article-l980-12.md)
 - [Article L980-12-1](article-l980-12-1.md)
 - [Article L980-13](article-l980-13.md)
+- [Article L980-17](article-l980-17.md)
