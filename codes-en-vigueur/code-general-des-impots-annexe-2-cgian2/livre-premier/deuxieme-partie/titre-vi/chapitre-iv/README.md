@@ -1,4 +1,4 @@
-# Chapitre IV : Comité professionnel de développement de l'horlogerie et du centre technique de l'industrie horlogère.
+# Chapitre IV : Comité professionnel de développement de l'horlogerie, de la bijouterie, de la joaillerie et de l'orfèvrerie et centre technique de l'industrie horlogère
 
 - [Article 345](article-345.md)
 - [Article 346](article-346.md)
