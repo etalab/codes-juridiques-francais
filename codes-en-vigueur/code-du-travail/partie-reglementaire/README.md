@@ -11,5 +11,4 @@
 - [Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente](livre-ix)
 - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*](dispositions-speciales-aux)
 - [EMPLOI](emploi)
-- [LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES](les-groupements-professionnels-la-representation-la-participation-et)
 - [PLACEMENT ET EMPLOI](placement-et)
