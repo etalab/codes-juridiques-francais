@@ -4,9 +4,9 @@ I. - L'Etat élabore et met en application des plans de prévention des risques 
 
 II. - Ces plans ont pour objet, en tant que de besoin :
 
-1° De délimiter les zones exposées aux risques en tenant compte de la nature et de l'intensité du risque encouru, d'y interdire tout type de construction, d'ouvrage, d'aménagement ou d'exploitation agricole, forestière, artisanale, commerciale ou industrielle ou, dans le cas où des constructions, ouvrages, aménagements ou exploitations agricoles, forestières, artisanales, commerciales ou industrielles pourraient y être autorisés, prescrire les conditions dans lesquelles ils doivent être réalisés, utilisés ou exploités ;
+1° De délimiter les zones exposées aux risques, dites "zones de danger", en tenant compte de la nature et de l'intensité du risque encouru, d'y interdire tout type de construction, d'ouvrage, d'aménagement ou d'exploitation agricole, forestière, artisanale, commerciale ou industrielle ou, dans le cas où des constructions, ouvrages, aménagements ou exploitations agricoles, forestières, artisanales, commerciales ou industrielles pourraient y être autorisés, prescrire les conditions dans lesquelles ils doivent être réalisés, utilisés ou exploités ;
 
-2° De délimiter les zones qui ne sont pas directement exposées aux risques mais où des constructions, des ouvrages, des aménagements ou des exploitations agricoles, forestières, artisanales, commerciales ou industrielles pourraient aggraver des risques ou en provoquer de nouveaux et y prévoir des mesures d'interdiction ou des prescriptions telles que prévues au 1° ;
+2° De délimiter les zones, dites "zones de précaution", qui ne sont pas directement exposées aux risques mais où des constructions, des ouvrages, des aménagements ou des exploitations agricoles, forestières, artisanales, commerciales ou industrielles pourraient aggraver des risques ou en provoquer de nouveaux et y prévoir des mesures d'interdiction ou des prescriptions telles que prévues au 1° ;
 
 3° De définir les mesures de prévention, de protection et de sauvegarde qui doivent être prises, dans les zones mentionnées au 1° et au 2°, par les collectivités publiques dans le cadre de leurs compétences, ainsi que celles qui peuvent incomber aux particuliers ;
 
