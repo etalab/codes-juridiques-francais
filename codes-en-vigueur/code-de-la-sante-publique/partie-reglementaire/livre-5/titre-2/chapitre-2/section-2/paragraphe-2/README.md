@@ -19,4 +19,3 @@
 - [Article R5141-4](article-r5141-4.md)
 - [Article R5141-5](article-r5141-5.md)
 - [Article R5142](article-r5142.md)
-- [Article R5142-1](article-r5142-1.md)
