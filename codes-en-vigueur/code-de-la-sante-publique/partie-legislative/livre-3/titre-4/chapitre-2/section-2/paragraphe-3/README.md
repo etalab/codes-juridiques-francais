@@ -1,3 +1,3 @@
-# PARAGRAPHE 3 : DISPOSITIONS COMMUNES *AUX ETABLISSEMENTS PUBLICS ET PRIVES*
+# Paragraphe 3 : Dispositions relatives au contrôle.
 
 - [Article L332](article-l332.md)

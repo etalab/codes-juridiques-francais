@@ -1,3 +1,0 @@
-# SECTION I
-
-- [Vols](vols)
