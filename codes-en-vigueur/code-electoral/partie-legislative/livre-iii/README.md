@@ -1,6 +1,6 @@
 # Livre III : Dispositions spéciales à la collectivité territoriale de Saint-Pierre-et-Miquelon
 
-- [Article L328](article-l328.md)
+- [Chapitre Ier : Dispositions communes](chapitre-ier)
 - [Article L329](article-l329.md)
 - [Article L330](article-l330.md)
 - [Article L331](article-l331.md)
