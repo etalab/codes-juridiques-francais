@@ -13,5 +13,6 @@
 - [Article 743](article-743.md)
 - [Article 744](article-744.md)
 - [Article 744-1](article-744-1.md)
+- [Article 744-2](article-744-2.md)
 - [Article 745-1](article-745-1.md)
 - [Article 746](article-746.md)
