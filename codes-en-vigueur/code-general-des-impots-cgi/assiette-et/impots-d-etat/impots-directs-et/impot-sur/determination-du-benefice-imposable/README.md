@@ -11,5 +11,4 @@
 - [Article 214](article-214.md)
 - [Article 214 A](article-214-a.md)
 - [Article 217 bis](article-217-bis.md)
-- [Article 217 quater](article-217-quater.md)
 - [Article 217 quinquies](article-217-quinquies.md)
