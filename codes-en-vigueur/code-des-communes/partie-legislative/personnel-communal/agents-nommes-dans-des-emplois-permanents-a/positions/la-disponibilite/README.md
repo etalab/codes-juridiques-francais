@@ -11,5 +11,4 @@
 - [Article L415-57](article-l415-57.md)
 - [Article L415-58](article-l415-58.md)
 - [Article L415-59](article-l415-59.md)
-- [Article L415-60](article-l415-60.md)
 - [Article L415-61](article-l415-61.md)
