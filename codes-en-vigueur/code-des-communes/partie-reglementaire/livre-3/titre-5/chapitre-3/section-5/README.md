@@ -12,6 +12,7 @@
 - [Article R353-40](article-r353-40.md)
 - [Article R353-41](article-r353-41.md)
 - [Article R353-42](article-r353-42.md)
+- [Article R353-43](article-r353-43.md)
 - [Article R353-44](article-r353-44.md)
 - [Article R353-45](article-r353-45.md)
 - [Article R353-46](article-r353-46.md)

@@ -1,4 +1,4 @@
-# Dispositions applicables aux sapeurs-pompiers communaux professionnels
+# Dispositions applicables aux sapeurs-pompiers communaux non professionnels *volontaires*
 
 - [Durée du service .](duree-du-service)
 - [Généralités .](generalites)
