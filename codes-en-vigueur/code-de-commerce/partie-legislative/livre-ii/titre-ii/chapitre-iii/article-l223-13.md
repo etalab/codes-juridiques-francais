@@ -6,6 +6,6 @@ Toutefois, les statuts peuvent stipuler que le conjoint, un héritier, un ascend
 
 Les statuts peuvent stipuler qu'en cas de décès de l'un des associés la société continuera avec son héritier ou seulement avec les associés survivants. Lorsque la société continue avec les seuls associés survivants, ou lorsque l'agrément a été refusé à l'héritier, celui-ci a droit à la valeur des droits sociaux de son auteur.
 
-Il peut aussi être stipulé que la société continuera, soit avec le conjoint survivant, soit avec un ou plusieurs des héritiers, soit avec toute autre personne désignée par les statuts ou, si ceux-ci l'autorisent, par dispositions testamentaires. Lorsque la société continue dans ces conditions, la valeur des droits sociaux attribués aux bénéficiaires de cette stipulation est rapportée à la succession.
+Il peut aussi être stipulé que la société continuera, soit avec le conjoint survivant, soit avec un ou plusieurs des héritiers, soit avec toute autre personne désignée par les statuts ou, si ceux-ci l'autorisent, par dispositions testamentaires.
 
 Dans les cas prévus au présent article, la valeur des droits sociaux est déterminée au jour du décès conformément à l'article 1843-4 du code civil.

@@ -8,4 +8,4 @@ II. - Lorsque le nombre de membres d'une chambre de commerce et d'industrie se t
 
 Toutefois, si cette situation est constatée moins d'un an avant un renouvellement général, il n'est pas procédé au renouvellement.
 
-III. - Les membres élus en application du présent article ne demeurent en fonction que pour la durée restant à courir du mandat de leurs prédécesseurs.
+III. - Les membres élus en application du présent article demeurent en fonction pour la durée restant à courir du mandat du titulaire initial.

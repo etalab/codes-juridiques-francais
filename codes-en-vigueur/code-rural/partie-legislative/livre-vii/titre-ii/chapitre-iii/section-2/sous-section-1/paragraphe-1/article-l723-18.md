@@ -1,6 +1,6 @@
 # Article L723-18
 
-Dans chaque canton, les électeurs du deuxième collège élisent quatre délégués cantonaux.
+Dans chaque canton, les électeurs du deuxième collège élisent trois délégués cantonaux.
 
 Toutefois, si le nombre des électeurs d'un ou plusieurs cantons est inférieur à cinquante, le conseil d'administration de la caisse de mutualité sociale agricole réunit deux ou plusieurs cantons limitrophes pour former des circonscriptions électorales groupant au moins cinquante électeurs ou, à défaut, tous les électeurs du département. Dans ce cas, quelle que soit la circonscription électorale, le nombre de délégués cantonaux est égal au nombre de délégués éligibles dans un seul canton, majoré d'une unité par canton supplémentaire regroupé.
 

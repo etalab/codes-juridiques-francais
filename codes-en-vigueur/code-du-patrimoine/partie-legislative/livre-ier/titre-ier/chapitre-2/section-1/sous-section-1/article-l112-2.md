@@ -1,6 +1,6 @@
 # Article L112-2
 
-Les dispositions de la présente section s'appliquent aux biens culturels qui constituent, en vertu des règles en vigueur dans un autre Etat membre, des trésors nationaux au sens de l'article 36 devenu l'article 30 du traité instituant la Communauté européenne, que cette qualification leur ait été donnée avant ou après leur sortie du territoire de cet Etat.
+Les dispositions de la présente section s'appliquent aux biens culturels qui constituent, en vertu des règles en vigueur dans un autre Etat membre, des trésors nationaux au sens de l'article 36 devenu l'article 30 du traité instituant la Communauté européenne, que cette qualification leur ait été donnée avant ou après leur sortie illicite du territoire de cet Etat.
 
 Ces biens doivent en outre :
 

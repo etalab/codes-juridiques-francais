@@ -1,12 +1,12 @@
 # Article L310-18-1
 
-Si une personne physique ou morale mentionnée au cinquième alinéa de l'article L. 310-12 a enfreint une disposition du titre VI du livre V du code monétaire et financier, ou du livre V du présent code, la commission peut prononcer, à son encontre ou le cas échéant à l'encontre de ses dirigeants, l'une des sanctions disciplinaires suivantes, en fonction de la gravité du manquement :
+Si une personne physique ou morale mentionnée au quatrième alinéa de l'article L. 310-12 a enfreint une disposition du titre VI du livre V du code monétaire et financier, ou du livre V du présent code, la commission peut prononcer, à son encontre ou le cas échéant à l'encontre de ses dirigeants, l'une des sanctions disciplinaires suivantes, en fonction de la gravité du manquement :
 
 1. Le blâme ;
 
 2. L'avertissement.
 
-En outre, la commission peut prononcer soit à la place, soit en sus de ces sanctions, une sanction pécuniaire au plus égale soit à 3 % du chiffre d'affaires hors taxes réalisé au cours du dernier exercice clos, soit à 37 500 Euros si cette dernière somme est plus élevée. Les sommes correspondantes sont versées au Trésor public. Elles sont recouvrées comme des créances de l'Etat étrangères à l'impôt et au domaine.
+En outre, la commission peut prononcer soit à la place, soit en sus de ces sanctions, une sanction pécuniaire au plus égale soit à 3 % du chiffre d'affaires hors taxes réalisé au cours du dernier exercice clos, soit à 37 500 euros si cette dernière somme est plus élevée. Les sommes correspondantes sont versées au Trésor public. Elles sont recouvrées comme des créances de l'Etat étrangères à l'impôt et au domaine.
 
 La commission peut décider de reporter sa décision à l'issue d'un délai qu'elle impartit à la personne, pour prendre toute mesure de nature à mettre fin aux manquements ou pratiques mentionnés au premier alinéa.
 

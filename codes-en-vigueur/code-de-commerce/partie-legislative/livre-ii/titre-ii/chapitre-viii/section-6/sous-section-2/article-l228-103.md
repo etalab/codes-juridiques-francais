@@ -4,7 +4,7 @@ Les titulaires de valeurs mobilières donnant accès à terme au capital après 
 
 Les assemblées générales des titulaires de ces valeurs mobilières sont appelées à autoriser toutes modifications au contrat d'émission et à statuer sur toute décision touchant aux conditions de souscription ou d'attribution de titres de capital déterminées au moment de l'émission.
 
-Chaque valeur mobilière donnant accès au capital donne droit à une voix. Les conditions de quorum et de majorité sont celles qui sont déterminées aux deuxième et troisième alinéas de l'article L. 225-98.
+Chaque valeur mobilière donnant accès au capital donne droit à une voix. Les conditions de quorum et de majorité sont celles qui sont déterminées aux deuxième et troisième alinéas de l'article L. 225-96.
 
 Les frais d'assemblée ainsi que, d'une façon générale, tous les frais afférents au fonctionnement des différentes masses sont à la charge de la société appelée à émettre ou attribuer de nouvelles valeurs mobilières représentatives de son capital social.
 

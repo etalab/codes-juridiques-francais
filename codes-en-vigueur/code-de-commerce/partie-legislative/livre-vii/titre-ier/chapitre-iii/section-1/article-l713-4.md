@@ -8,4 +8,4 @@ I. - Sont éligibles aux fonctions de membre d'une chambre de commerce et d'indu
 
 II. - Tout membre d'une chambre de commerce et d'industrie qui cesse de remplir les conditions d'éligibilité fixées au I ci-dessus présente sa démission au préfet. A défaut, le préfet le déclare démissionnaire d'office.
 
-Toutefois, une cessation d'activité inférieure à six mois n'entraîne pas la démission, sauf dans les cas mentionnés au 2° et au 3° du II de l'article L. 713-3.
+Toutefois, une cessation d'activité inférieure à six mois n'entraîne pas la démission, sauf dans les cas mentionnés aux 2°, 2° bis et 3° du II de l'article L. 713-3.
