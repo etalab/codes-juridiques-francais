@@ -1,5 +1,6 @@
 # Chapitre Ier : Soins gratuits.
 
+- [Section 1 : Carnets de soins gratuits.](section-1)
 - [Section 2 : Règlement des soins aux parties prenantes.](section-2)
 - [Section 3 : Déplacements des pensionnés à l'occasion des soins.](section-3)
 - [Section 4 : Transfert des corps des pensionnés décédés dans un établissement hospitalier.](section-4)
