@@ -1,5 +1,6 @@
 # Section 4 : Journaux et écrits périodiques.
 
+- [Article D18](article-d18.md)
 - [Article D19-2](article-d19-2.md)
 - [Article D20](article-d20.md)
 - [Article D22](article-d22.md)
