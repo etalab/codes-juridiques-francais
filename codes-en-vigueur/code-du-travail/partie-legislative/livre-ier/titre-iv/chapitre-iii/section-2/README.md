@@ -1,4 +1,3 @@
 # SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DU SALAIRE.
 
 - [Article L143-11-1](article-l143-11-1.md)
-- [Article L143-11-2](article-l143-11-2.md)
