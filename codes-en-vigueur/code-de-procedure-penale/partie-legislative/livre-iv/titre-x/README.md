@@ -3,6 +3,7 @@
 - [Article 689](article-689.md)
 - [Article 689-1](article-689-1.md)
 - [Article 689-2](article-689-2.md)
+- [Article 689-3](article-689-3.md)
 - [Article 690](article-690.md)
 - [Article 691](article-691.md)
 - [Article 692](article-692.md)
