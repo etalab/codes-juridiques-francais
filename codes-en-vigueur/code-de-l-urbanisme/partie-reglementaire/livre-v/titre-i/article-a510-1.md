@@ -22,6 +22,6 @@ Le comité de décentralisation placé auprès du ministre chargé de l'aménage
 
 Ces personnalités sont nommées par arrêté du Premier ministre, sur proposition du ministre chargé de l'aménagement du territoire et du ministre chargé de l'urbanisme.
 
-Leur mandat, renouvelable une fois, a une durée de trois ans.
+Leur mandat, renouvelable deux fois, a une durée de trois ans.
 
 3° Pour toutes les affaires intéressant les services et établissements publics de l'Etat, le représentant du secrétaire général du Gouvernement.
