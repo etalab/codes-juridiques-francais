@@ -1,27 +1,25 @@
 # Article 90
 
-Le tribunal maritime commercial est composé de cinq membres, savoir [*composition*] :
+Le tribunal maritime commercial est composé de cinq membres, à savoir :
 
-L'administrateur des affaires maritimes, chef du quartier, siège du tribunal maritime commercial, président. Toutefois, si cet administrateur a procédé à l'instruction, il sera remplacé par un officier du corps des administrateurs des affaires maritimes du grade d'administrateur en chef désigné par le directeur des affaires maritimes.
+Un magistrat du siège du tribunal de grande instance dans le ressort duquel se trouve le tribunal maritime commercial, président.
 
-JUGES
+Juges :
 
-Un juge du tribunal de grande instance dont relève le chef-lieu du quartier, siège du tribunal maritime commercial ;
+- un administrateur des affaires maritimes qui n'a pas participé aux poursuites ou à l'instruction de l'affaire en cause.
 
-Un inspecteur de la navigation et du travail maritime, ou un inspecteur mécanicien de la marine marchande ;
+- un agent des affaires maritimes choisi en fonction de ses compétences dans le domaine de la sécurité des navires ou de la sauvegarde de la vie humaine en mer parmi les corps d'officiers des affaires maritimes, ou de fonctionnaires ou de contractuels de catégorie A des affaires maritimes.
 
-Un capitaine au long cours, inactif, de moins de soixante ans, inscrit ou non au quartier, ayant accompli, en cette qualité, au moins quatre ans de commandement, désigné par le directeur des affaires maritimes.
+- un capitaine au long cours ou un capitaine de première classe de la navigation maritime de moins de soixante ans, en activité ou inactif depuis moins de cinq ans, ayant accompli au moins quatre ans de commandement.
 
-Suivant la qualité du prévenu, un quatrième juge choisi comme suit :
+- suivant la qualité du prévenu, un quatrième juge choisi comme suit :
 
-A - Si le prévenu est un marin breveté ou diplômé : le plus âgé des marins titulaires du même brevet ou diplôme ;
+A - Si le prévenu est un marin breveté ou diplômé : un marin actif titulaire du même brevet ou diplôme, en activité ou inactif depuis moins de cinq ans ;
 
-B - Si le prévenu est un marin non breveté ni diplômé appartenant au personnel du pont : le plus âgé des maîtres d'équipage ;
+B - Si le prévenu est un marin ni breveté ni diplômé : un maître ou une personne d'un grade équivalent à celui de maître, en activité ou inactif depuis moins de cinq ans, appartenant à la spécialité (pont, machine ou service général) du prévenu ;
 
-C - Si le prévenu est un marin non breveté ni diplômé appartenant au personnel de la machine ou du service général : le plus âgé des marins du personnel considéré, de grade équivalent à celui de maître ;
+C - Si le prévenu n'est pas un marin : un agent des affaires maritimes choisi en fonction de ses compétences dans le domaine de la sécurité des navires ou de la sauvegarde de la vie humaine en mer parmi les corps d'officiers des affaires maritimes, ou de fonctionnaires ou de contractuels de catégorie A des affaires maritimes.
 
-D - Si le prévenu n'est pas un marin : un second inspecteur de la navigation et du travail maritimes.
+Le quatrième juge prévu dans les cas A et B ci-dessus est pris parmi les marins n'ayant subi aucune condamnation pénale ou sanction disciplinaire présents dans le port, siège du tribunal maritime commercial ou à défaut dans les ports voisins.
 
-Le quatrième juge prévenu dans les cas A, B et C ci-dessus est pris parmi les marins n'ayant subi aucune condamnation dont l'article matriculaire ne comporte la mention d'aucune sanction, présents dans le port, siège du tribunal ou, à défaut, dans les ports voisins.
-
-Un secrétaire administratif des affaires maritimes, désigné par le directeur des affaires maritimes, remplit les fonctions de greffier.
+Un contrôleur des affaires maritimes remplit les fonctions de greffier.
