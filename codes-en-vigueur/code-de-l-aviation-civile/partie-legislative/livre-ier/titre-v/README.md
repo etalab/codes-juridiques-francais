@@ -16,4 +16,3 @@
 - [Article L150-15](article-l150-15.md)
 - [Article L150-16](article-l150-16.md)
 - [Article L150-16-1](article-l150-16-1.md)
-- [Article L150-17](article-l150-17.md)
