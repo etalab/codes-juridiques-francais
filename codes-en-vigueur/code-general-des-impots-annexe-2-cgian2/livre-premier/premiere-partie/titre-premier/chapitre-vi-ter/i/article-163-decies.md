@@ -4,7 +4,7 @@
 
 Sont exclues de ce montant les sommes définies à l'article 81 et aux articles 231 bis C à 231 bis J du code général des impôts.
 
-2. Les sommes prévues au 1 sont comprises dans la base de calcul de la participation pour leur montant brut, avant déduction de la cotisation ouvrière de sécurité sociale et des retenues pour la retraite.
+2. Les sommes prévues au 1 sont comprises dans la base de calcul de la participation pour leur montant brut, avant déduction des retenues, cotisations et contributions visées à l'article 83-1° à 2° ter du code général des impôts.
 
 Toutefois, en ce qui concerne les salariés appartenant aux catégories de professions qui bénéficient, en vertu de l'article 83-3o, troisième alinéa, du code général des impôts, d'une déduction supplémentaire pour frais professionnels, le montant de cette déduction supplémentaire peut, pour la détermination de la base de la participation, être défalqué du montant brut des sommes susindiquées.     Lorsque les employeurs usent de cette faculté, la base de la participation est constituée par le montant global des rémunérations acquises aux intéressés, y compris les indemnités versées à titre de frais d'emploi, de service, de route et autres allocations similaires.
 
