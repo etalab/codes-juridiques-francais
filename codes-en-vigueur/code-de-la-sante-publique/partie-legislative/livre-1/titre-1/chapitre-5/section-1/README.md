@@ -9,6 +9,5 @@
 - [Article L35-4](article-l35-4.md)
 - [Article L35-5](article-l35-5.md)
 - [Article L35-6](article-l35-6.md)
-- [Article L35-7](article-l35-7.md)
 - [Article L35-8](article-l35-8.md)
 - [Article L35-9](article-l35-9.md)
