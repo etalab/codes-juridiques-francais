@@ -1,7 +1,0 @@
-# Article 311
-
-Par décision du préfet et dans les conditions fixées par arrêté conjoint du ministre de l'économie et des finances et des ministres intéressés, les hôpitaux et hospices publics, les départements pour les besoins de leurs services à caractère hospitalier disposant de l'autonomie financière, les caisses des écoles, les communes gérant des cantines scolaires pour les besoins de ces cantines, peuvent être autorisés à passer des marchés négociés pour des fournitures de produits alimentaires, de produits pharmaceutiques ou d'objets de consommation courante, quel qu'en soit le montant. La décision du préfet prise annuellement pour chaque établissement, après avis du trésorier-payeur général, dispense de l'approbation des marchés se rapportant à l'achat des fournitures visées dans cette décision et pendant la période considérée.
-
-En outre, à titre exceptionnel et en vertu d'une décision prise pour chaque établissement par le préfet, sur avis du trésorier-payeur général, les mêmes collectivités et établissements peuvent être dispensés de passer des marchés négociés pour la fourniture d'aliments et objets de première nécessité spécifiés par ladite décision.
-
-Les décisions prévues aux deux alinéas précédents sont prises, s'agissant de l'administration de l'assistance publique à Paris, sur proposition du préfet de Paris, par le ministre des affaires sociales, après avis des ministres de l'économie et des finances et de l'intérieur.
