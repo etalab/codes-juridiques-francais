@@ -14,5 +14,3 @@
 - [Article R37](article-r37.md)
 - [Article R38](article-r38.md)
 - [Article R39](article-r39.md)
-- [Article R39-2](article-r39-2.md)
-- [Article R39-4](article-r39-4.md)
