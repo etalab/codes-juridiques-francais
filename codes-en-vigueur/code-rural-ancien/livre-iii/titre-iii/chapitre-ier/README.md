@@ -4,6 +4,8 @@
 - [Article 428](article-428.md)
 - [Article 429](article-429.md)
 - [Article 430](article-430.md)
+- [Article 434](article-434.md)
+- [Article 434-1](article-434-1.md)
 - [Article 439](article-439.md)
 - [Article 439-2](article-439-2.md)
 - [Article 440](article-440.md)
