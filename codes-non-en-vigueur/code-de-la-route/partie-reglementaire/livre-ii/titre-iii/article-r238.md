@@ -1,6 +1,6 @@
 # Article R238
 
-Sera punie de l'amende prévue pour les contraventions de 4e classe toute personne qui aura contrevenu aux dispositions du livre Ier concernant :
+Sera punie de l'amende prévue pour les contraventions de quatrième classe toute personne qui aura contrevenu aux dispositions du livre Ier concernant :
 
 1° La pression sur le sol, le poids des véhicules, la charge maximale par essieu, la nature, la forme, l'état et les conditions d'utilisation des bandages pneumatiques ;
 

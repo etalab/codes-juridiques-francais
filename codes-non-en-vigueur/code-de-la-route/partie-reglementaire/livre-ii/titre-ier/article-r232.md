@@ -1,14 +1,14 @@
 # Article R232
 
-Sera puni des peines d'emprisonnement et d'amende prévues pour les contraventions de la 4e classe tout conducteur qui aura contrevenu aux dispositions du livre Ier concernant :
+Sera puni de la peine d'amende prévue par le 4° de l'article 131-13 du code pénal pour les contraventions de la quatrième classe tout conducteur qui aura contrevenu aux dispositions du livre Ier concernant :
 
 1° Les sens imposés à la circulation ;
 
 2° La vitesse des véhicules à moteur avec ou sans remorque ou semi-remorque :
 
-" - soit lorsque cette vitesse n'a pas été réduite conformément aux dispositions du présent code, autres que celles prévues à l'article R. 232-1 et au dernier alinéa de l'article R. 10 ;
+- soit lorsque cette vitesse n'a pas été réduite conformément aux dispositions du présent code, autres que celles prévues à l'article R. 232-1 et au dernier alinéa de l'article R. 10 ;
 
-" - soit lorsque la vitesse constatée est supérieure de 30 km/h ou plus à la vitesse maximale autorisée. "
+- soit lorsque la vitesse constatée est supérieure de 30 km/h ou plus à la vitesse maximale autorisée.
 
 3° Les croisements et dépassements ;
 
@@ -24,4 +24,4 @@ Sera puni des peines d'emprisonnement et d'amende prévues pour les contraventio
 
 9° Les obligations ou interdictions définies par l'article R. 29.
 
-10° les restrictions de circulation édictées en vertu de l'article R. 53 à l'occasion des courses et épreuves sportives. "
+10° les restrictions de circulation édictées en vertu de l'article R. 53 à l'occasion des courses et épreuves sportives.
