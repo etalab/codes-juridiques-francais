@@ -1,3 +1,0 @@
-# EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES .
-
-- [Article D412-1](article-d412-1.md)
