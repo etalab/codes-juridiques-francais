@@ -1,4 +1,4 @@
-# Chapitre V : Taxe parafiscale des industries textiles.
+# Chapitre V : Taxe parafiscale des industries du textile et de la maille.
 
 - [Article 357 C](article-357-c.md)
 - [Article 357 D](article-357-d.md)
