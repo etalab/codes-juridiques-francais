@@ -1,5 +1,6 @@
 # Section 1 : Des entrées et sorties des détenus
 
+- [Article D284](article-d284.md)
 - [Article D285](article-d285.md)
 - [Article D287](article-d287.md)
 - [Article D288](article-d288.md)
