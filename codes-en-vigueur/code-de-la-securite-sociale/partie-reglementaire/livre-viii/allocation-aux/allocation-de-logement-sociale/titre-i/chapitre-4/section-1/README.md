@@ -4,4 +4,3 @@
 - [Article D814-3](article-d814-3.md)
 - [Article D814-4](article-d814-4.md)
 - [Article D814-7](article-d814-7.md)
-- [Article D814-9](article-d814-9.md)
