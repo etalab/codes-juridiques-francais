@@ -2,6 +2,7 @@
 
 - [Article L33](article-l33.md)
 - [Article L34](article-l34.md)
+- [Article L35](article-l35.md)
 - [Article L35-1](article-l35-1.md)
 - [Article L35-2](article-l35-2.md)
 - [Article L35-3](article-l35-3.md)
