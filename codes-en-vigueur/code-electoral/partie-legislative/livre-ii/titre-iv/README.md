@@ -1,6 +1,7 @@
 # Titre IV : Election des sénateurs
 
 - [Chapitre Ier  : Mode de scrutin](chapitre-ier)
+- [Chapitre II : Conditions d'éligibilité et inéligibilités](chapitre-ii)
 - [Chapitre III : Incompatibilités](chapitre-iii)
 - [Chapitre IV : Déclarations de candidatures](chapitre-iv)
 - [Chapitre V : Propagande](chapitre-v)
