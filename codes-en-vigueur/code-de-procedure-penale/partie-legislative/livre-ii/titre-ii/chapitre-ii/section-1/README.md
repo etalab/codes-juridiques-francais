@@ -5,6 +5,7 @@
 - [Article 499](article-499.md)
 - [Article 500](article-500.md)
 - [Article 501](article-501.md)
+- [Article 502](article-502.md)
 - [Article 503](article-503.md)
 - [Article 504](article-504.md)
 - [Article 505](article-505.md)
