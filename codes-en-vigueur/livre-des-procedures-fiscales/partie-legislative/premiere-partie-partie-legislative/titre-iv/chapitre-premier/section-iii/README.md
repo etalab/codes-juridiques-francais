@@ -10,5 +10,3 @@
 - [7° : Liquidation judiciaire](7)
 - [8° : Procédure accélérée](8)
 - [9° : Contrainte par corps.](9)
-- [Liquidation judiciaire.](liquidation-judiciaire)
-- [Contrainte par corps.](contrainte-par)

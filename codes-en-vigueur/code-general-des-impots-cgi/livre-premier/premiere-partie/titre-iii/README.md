@@ -6,5 +6,4 @@
 - [Chapitre III bis : Régime économique du sucre.](chapitre-iii-bis)
 - [Chapitre III ter : Régime économique de l'isoglucose.](chapitre-iii-ter)
 - [Chapitre IV : Monopoles](chapitre-iv)
-- [Chapitre V : Dispositions communes à l'ensemble des contributions indirectes](chapitre-v)
 - [Chapitre premier : Boissons](chapitre-premier)

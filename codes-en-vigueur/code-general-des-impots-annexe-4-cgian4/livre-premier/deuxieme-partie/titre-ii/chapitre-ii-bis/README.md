@@ -4,4 +4,3 @@
 - [Section I bis : Taxe parafiscale au profit d'organismes interprofessionnels de vins.](section-i-bis)
 - [Section II : Taxe parafiscale au profit du bureau national interprofessionnel des calvados et eaux-de-vie de cidre et de poiré](section-ii)
 - [Section IV : Taxe parafiscale sur les vins.](section-iv)
-- [Section VI : Taxe parafiscale sur les graines oléagineuses.](section-vi)

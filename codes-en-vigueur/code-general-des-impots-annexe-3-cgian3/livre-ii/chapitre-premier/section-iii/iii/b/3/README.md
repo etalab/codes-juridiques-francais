@@ -6,4 +6,3 @@
 - [4° : Offices ministériels](4)
 - [5° : Rapatriés d'outre-mer et migrants ruraux](5)
 - [6° Transmissions d'entreprises](6-transmissions-d-entreprises)
-- [Apports en société.](apports-en-societe)

@@ -15,4 +15,3 @@
 - [Publicité foncière - Réforme - Dispositions transitoires](publicite-fonciere)
 - [Privatisations](privatisations)
 - [Achats en vue de la revente](achats-en-vue)
-- [Warrants](warrants)

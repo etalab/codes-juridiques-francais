@@ -10,6 +10,5 @@
 - [VIII bis : Profits réalisés sur les marchés à terme, sur les marchés d'options négociables et sur les opérations de bons d'options](viii-bis)
 - [X : Plus-values de cession à titre onéreux de biens ou de droits de toute nature](x)
 - [X bis : Plus-values de cessions de droits sociaux](x-bis)
-- [X ter : Report d'imposition des plus-values réalisées en cas d'échange de valeurs mobilières et de droit sociaux.](x-ter)
 - [XI : Dispositions communes aux différentes catégories de revenus](xi)
 - [M bis : Renseignements à fournir par les entreprises sur l'état mentionné à l'article 54 septies du code général des impôts.](m-bis)

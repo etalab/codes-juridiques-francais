@@ -27,4 +27,3 @@
 - [Réduction d'impôt accordée au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet.](reduction-d-impot-accordee-au-titre)
 - [Réduction d'impôt au titre des souscriptions au capital de sociétés nouvelles](reduction-d-impot-au-titre)
 - [Réduction d'impôt accordée aux adhérents de centres de gestion ou d'associations agréés.](reduction-d-impot-accordee-aux)
-- [Réduction d'impôt pour dépenses de formation du chef d'entreprise](reduction-d-impot-pour-depenses-de-formation-du-chef-d-entreprise)

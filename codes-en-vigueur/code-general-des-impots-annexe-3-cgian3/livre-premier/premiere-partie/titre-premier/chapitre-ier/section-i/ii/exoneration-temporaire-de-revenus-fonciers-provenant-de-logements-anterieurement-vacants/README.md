@@ -2,4 +2,3 @@
 
 - [Article 2 septies](article-2-septies.md)
 - [Article 2 octies](article-2-octies.md)
-- [Article 2 decies](article-2-decies.md)

@@ -2,4 +2,3 @@
 
 - [2 : Biens et droits mobiliers ou immobiliers.](2)
 - [1° Plus-value imposable.](1-plus-value-imposable)
-- [Déclaration de la plus-value.](declaration-de-la-plus-value)

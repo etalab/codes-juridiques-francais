@@ -20,4 +20,3 @@
 - [9° : Institutions et organismes versant des rémunérations ou répartissant des fonds](9)
 - [Opérations de transfert de fonds à l'étranger.](operations-de-transfert-de-fonds-a)
 - [Commission nationale des comptes de campagne et des financements politiques.](commission-nationale-des-comptes-de-campagne-et)
-- [Membres de certaines professions non commerciales.](membres-de-certaines-professions-non)
