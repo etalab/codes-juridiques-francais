@@ -7,3 +7,4 @@
 - [Article L483](article-l483.md)
 - [Article L484](article-l484.md)
 - [Article L485](article-l485.md)
+- [Article L486](article-l486.md)
