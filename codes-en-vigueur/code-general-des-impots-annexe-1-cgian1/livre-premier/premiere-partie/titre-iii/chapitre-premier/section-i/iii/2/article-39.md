@@ -1,6 +1,6 @@
 # Article 39
 
-La déclaration prescrite par l'article 312 du code général des impôts doit être faite trois jours au moins avant le commencement des travaux, au bureau de déclarations de la direction générale des douanes et droits indirects dont dépend la localité où ces travaux s'effectueront.
+La déclaration prescrite par l'article 312 du code général des impôts doit être déposée ou transmise trois jours au moins avant le commencement des travaux au service des douanes et droits indirects dont dépend la localité où ces travaux s'effectueront.
 
 Cette déclaration indique :
 
