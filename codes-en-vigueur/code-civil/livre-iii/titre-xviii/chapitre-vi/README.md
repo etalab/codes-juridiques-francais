@@ -1,0 +1,15 @@
+# Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs.
+
+- [Article 2167](article-2167.md)
+- [Article 2168](article-2168.md)
+- [Article 2169](article-2169.md)
+- [Article 2170](article-2170.md)
+- [Article 2171](article-2171.md)
+- [Article 2172](article-2172.md)
+- [Article 2173](article-2173.md)
+- [Article 2174](article-2174.md)
+- [Article 2175](article-2175.md)
+- [Article 2176](article-2176.md)
+- [Article 2177](article-2177.md)
+- [Article 2178](article-2178.md)
+- [Article 2179](article-2179.md)

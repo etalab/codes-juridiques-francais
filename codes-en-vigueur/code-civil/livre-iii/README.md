@@ -15,5 +15,7 @@
 - [Titre XIV : Du cautionnement.](titre-xiv)
 - [Titre XVI : Du compromis](titre-xvi)
 - [Titre XVII : Du nantissement.](titre-xvii)
+- [Titre XVIII : Des privilèges et hypothèques.](titre-xviii)
 - [Titre XX : De la prescription et de la possession.](titre-xx)
+- [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers](titre-xix)
 - [Dispositions générales](dispositions-generales)
