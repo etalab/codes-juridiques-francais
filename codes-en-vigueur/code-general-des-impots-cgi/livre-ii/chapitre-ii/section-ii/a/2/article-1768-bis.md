@@ -10,7 +10,7 @@ Les personnes soumises aux obligations prévues à l'article 242 ter, autres que
 
 Les personnes soumises aux obligations de l'article 242 ter sont déchargées de toute responsabilité pour l'individualisation des revenus distribués ou répartis par des organismes ou sociétés mentionnés au 4° du 3 de l'article 158, au regard de leur éligibilité à la réfaction de 50 % prévue au 2° du 3 de l'article 158, lorsque cette individualisation correspond à la ventilation effectuée par ces organismes ou sociétés en application du sixième alinéa dudit 4°. Cette disposition ne concerne pas les dépositaires des actifs des organismes ou sociétés correspondants.
 
-1 bis. La transmission effectuée en méconnaissance de l'obligation prévue au dernier alinéa du 1 de l'article 242 ter donne lieu à l'application d'une amende de 15 euros par déclaration.
+1 bis. La transmission effectuée en méconnaissance de l'obligation prévue au onzième alinéa du 1 de l'article 242 ter donne lieu à l'application d'une amende de 15 euros par déclaration.
 
 2. Les infractions aux dispositions du deuxième alinéa de l'article 1649 A du code général des impôts sont passibles d'une amende de 750 euros par compte non déclaré.
 

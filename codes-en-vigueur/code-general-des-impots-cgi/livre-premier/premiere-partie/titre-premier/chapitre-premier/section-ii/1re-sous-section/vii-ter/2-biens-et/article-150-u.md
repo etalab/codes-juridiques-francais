@@ -14,7 +14,7 @@ II. - Les dispositions du I ne s'appliquent pas aux immeubles, aux parties d'imm
 
 4° Pour lesquels une déclaration d'utilité publique a été prononcée en vue d'une expropriation, à condition qu'il soit procédé au remploi de l'intégralité de l'indemnité par l'acquisition, la construction, la reconstruction ou l'agrandissement d'un ou de plusieurs immeubles dans un délai de douze mois à compter de la date de perception de l'indemnité ;
 
-5° Qui sont échangés dans le cadre d'opérations de remembrement mentionnées à l'article 1055, d'opérations effectuées conformément aux articles L. 122-1, L. 123-1, L. 123-24 et L. 124-1 du code rural ainsi qu'aux soultes versées en application de l'article L. 123-4 du même code. En cas de vente de biens reçus à cette occasion, la plus-value est calculée à partir de la date et du prix d'acquisition du bien originel ou de la partie constitutive la plus ancienne dans les cas de vente de lots remembrés ;
+5° Qui sont échangés dans le cadre d'opérations de remembrement mentionnées à l'article 1055, d'opérations effectuées conformément aux articles L. 123-1, L. 123-24 et L. 124-1 du code rural ainsi qu'aux soultes versées en application de l'article L. 123-4 du même code. En cas de vente de biens reçus à cette occasion, la plus-value est calculée à partir de la date et du prix d'acquisition du bien originel ou de la partie constitutive la plus ancienne dans les cas de vente de lots remembrés ;
 
 6° Dont le prix de cession est inférieur ou égal à 15 000 Euros. Le seuil de 15 000 Euros s'apprécie en tenant compte de la valeur en pleine propriété de l'immeuble ou de la partie d'immeuble.
 

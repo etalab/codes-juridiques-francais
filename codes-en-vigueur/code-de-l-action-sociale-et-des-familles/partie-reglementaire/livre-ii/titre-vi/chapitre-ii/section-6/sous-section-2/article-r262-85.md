@@ -4,7 +4,7 @@ Pour constituer l'échantillon national interrégimes d'allocataires de minima s
 
 1° Le numéro d'inscription à ce répertoire des personnes mentionnées à l'article R. 262-84 ;
 
-2° Leur nom patronymique ;
+2° Leur nom de famille ;
 
 3° Leurs prénoms ;
 

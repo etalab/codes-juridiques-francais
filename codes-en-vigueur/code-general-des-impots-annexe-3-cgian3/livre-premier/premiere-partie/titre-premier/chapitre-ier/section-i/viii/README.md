@@ -6,3 +6,4 @@
 - [E : Titres de créances négociables](e)
 - [F : Émission par les sociétés françaises d'obligations à l'étranger. Régime spécial](f)
 - [G : Fonds communs de placement, fonds professionnels de capital investissement et fonds professionnels spécialisés](g)
+- [G bis : Modalités d'imposition et conditions de ventilation des revenus distribués ou répartis par des organismes de placement collectif en valeurs mobilières (OPCVM)](g-bis)

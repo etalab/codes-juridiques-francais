@@ -6,7 +6,7 @@ a. Pour les taxes dues au titre du trimestre civil précédent par les redevable
 
 b. Pour les taxes dues, selon le cas, au titre du mois ou du trimestre par les redevables placés sous le régime de la déclaration et dont le lieu d'imposition est situé à Paris ainsi que dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne :
 
-Entreprises individuelles  selon que le nom patronymique de l'exploitant commence par l'une ou l'autre des lettres ci-après :
+Entreprises individuelles  selon que le nom de famille de l'exploitant commence par l'une ou l'autre des lettres ci-après :
 
 A, B, C, D, E, F, G, H : au plus tard le 15 du mois suivant ;
 
@@ -32,7 +32,7 @@ Autres redevables : au plus tard le 24 du mois suivant.
 
 c. Pour les taxes dues, selon le cas, au titre du mois ou du trimestre par les redevables placés sous le régime de la déclaration et dont le lieu d'imposition est situé dans les autres départements :
 
-Entreprises individuelles, selon que le nom patronymique de l'exploitant commence par l'une ou l'autre des lettres ci-après :
+Entreprises individuelles, selon que le nom de famille de l'exploitant commence par l'une ou l'autre des lettres ci-après :
 
 A, B, C, D, E, F, G, H : au plus tard le 16 du mois suivant ;
 

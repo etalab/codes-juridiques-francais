@@ -1,6 +1,6 @@
 # Article 46 quater-0 FB
 
-L'engagement prévu au c du 2 de l'article 119 ter, au deuxième alinéa du 1 de l'article 119 quater et au 2 de l'article 182 B bis du code général des impôts doit faire l'objet d'une déclaration qui est adressée à la fois à l'établissement payeur en France des dividendes ou au débiteur ou à la personne qui assure le paiement des intérêts ou des redevances et à la direction des services généraux et de l'informatique (centre-recette des impôts des entreprises étrangères). Cette déclaration doit être souscrite par la personne morale bénéficiaire des dividendes, intérêts et redevances avant la date de la première mise en paiement des dividendes, intérêts et redevances suivant la date d'inscription en compte des titres de la société émettrice.
+L'engagement prévu au c du 2 de l'article 119 ter, au deuxième alinéa du 1 de l'article 119 quater et au 2 de l'article 182 B bis du code général des impôts doit faire l'objet d'une déclaration qui est adressée à la fois à l'établissement payeur en France des dividendes ou au débiteur ou à la personne qui assure le paiement des intérêts ou des redevances et à la direction des résidents à l'étranger et des services généraux (centre des impôts des non-résidents). Cette déclaration doit être souscrite par la personne morale bénéficiaire des dividendes, intérêts et redevances avant la date de leur première mise en paiement suivant la date d'inscription en compte des titres de la société émettrice.
 
 Elle comprend les renseignements suivants :
 

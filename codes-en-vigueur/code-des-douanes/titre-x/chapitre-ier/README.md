@@ -25,6 +25,7 @@
 - [Article 266 duodecies](article-266-duodecies.md)
 - [Article 266 terdecies](article-266-terdecies.md)
 - [Article 266 quaterdecies](article-266-quaterdecies.md)
+- [Article 266 quindecies](article-266-quindecies.md)
 - [Article 267](article-267.md)
 - [Article 267 bis](article-267-bis.md)
 - [Article 268](article-268.md)

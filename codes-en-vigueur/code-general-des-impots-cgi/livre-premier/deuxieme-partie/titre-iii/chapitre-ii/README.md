@@ -1,5 +1,5 @@
 # Chapitre II : Contributions indirectes
 
 - [Section III : Contribution perçue au profit de la Caisse nationale de l'assurance maladie des travailleurs salariés](section-iii)
-- [Section IV : Prélèvements et perceptions destinés au budget annexe des prestations sociales agricoles](section-iv)
+- [Section IV : Prélèvements et perceptions destinés au Fonds de financement des prestations sociales des non-salariés agricoles](section-iv)
 - [Section V : Taxe affectée à l'Office national interprofessionnel des céréales (ONIC).](section-v)

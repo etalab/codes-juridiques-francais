@@ -20,4 +20,4 @@ III. 1. Au-delà de la huitième année, les retraits partiels de sommes ou de v
 
 3. Les retraits de sommes ou de valeurs ou les rachats, s'agissant de contrats de capitalisation, réalisés dans les conditions prévues dans la deuxième phrase du 2 du II de l'article 150-0 A n'entraînent pas la clôture du plan. Toutefois, aucun versement n'est possible après le premier retrait ou le premier rachat.
 
-IV. Les avoirs fiscaux et crédits d'impôt attachés aux produits encaissés dans le cadre du plan sont restitués dans des conditions fixées par décret.
+IV. abrogé

@@ -13,6 +13,7 @@
 - [E : Provisions pour investissement à l'étranger](e)
 - [F : Amortissement exceptionnel des immeubles à usage industriel ou commercial construits dans des zones d'aménagement du territoire.](f)
 - [G : Réinvestissement des plus-values. Exclusion des acquisitions de biens de caractère somptuaire](g)
+- [G bis : Plus-values réalisées à l'occasion de transmissions à titre gratuit d'entreprises individuelles](g-bis)
 - [H : Application de l'article 238 octies du code général des impôts](h)
 - [J : Subventions - Etablissements hôteliers ou thermaux](j)
 - [K : Révision des bilans (loi n° 59-1472 du 28 décembre 1959)](k)

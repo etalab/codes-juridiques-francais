@@ -22,7 +22,7 @@ b. Les sommes incorporées au capital ou aux réserves (primes de fusion ou de s
 
 5° Les jetons de présence payés aux actionnaires des sociétés visées au 1° à l'occasion des assemblées générales ;
 
-6° Les intérêts, arrérages et tous autres produits des obligations des sociétés, compagnies et entreprises désignées aux 1° et 2° ;
+6° Les intérêts, arrérages et tous autres produits des obligations des sociétés, compagnies et entreprises désignées aux 1° et 2°, et notamment les produits attachés aux bons ou contrats de capitalisation ainsi qu'aux placements de même nature souscrits auprès d'entreprises d'assurance établies hors de France, lors du dénouement du contrat, et les gains de cessions de ces mêmes placements ;
 
 7° Les intérêts, arrérages, et tous autres produits de rentes, obligations et autres effets publics des gouvernements étrangers ainsi que des corporations, villes, provinces étrangères et de tout autre établissement public étranger ;
 

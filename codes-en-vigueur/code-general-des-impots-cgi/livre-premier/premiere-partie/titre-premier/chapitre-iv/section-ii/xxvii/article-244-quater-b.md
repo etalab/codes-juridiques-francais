@@ -1,6 +1,6 @@
 # Article 244 quater B
 
-I. -  Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 decies et 44 undecies qui exposent des dépenses de recherche peuvent bénéficier d'un crédit d'impôt égal à la somme :
+I. - Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 decies et 44 undecies qui exposent des dépenses de recherche peuvent bénéficier d'un crédit d'impôt égal à la somme :
 
 a. D'une part égale à 5 % des dépenses de recherche exposées au cours de l'année, dite part en volume ;
 
@@ -64,13 +64,13 @@ h) Les dépenses liées à l'élaboration de nouvelles collections exposées par
 
 3° Les autres dépenses de fonctionnement exposées à raison de ces mêmes opérations ; ces dépenses sont fixées forfaitairement à 75 p. 100 des dépenses de personnel mentionnées au 1° ;
 
-4° Les frais de dépôt des dessins et modèles.
+4° Les frais de dépôt des dessins et modèles ;
 
 i) Les dépenses liées à l'élaboration de nouvelles collections confiée par les entreprises industrielles du secteur textile-habillement-cuir à des stylistes ou bureaux de style agréés selon des modalités définies par décret ;
 
 j) Les dépenses de veille technologique exposées lors de la réalisation d'opérations de recherche, dans la limite de 60 000 Euros par an.
 
-Pour être éligibles au crédit d'impôt mentionné au premier alinéa du I, les dépenses prévues aux a à j du présent II doivent être des dépenses retenues pour la détermination du résultat imposable à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les conditions de droit commun et, à l'exception des dépenses prévues aux e bis et j, correspondre à des opérations localisées au sein de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'espace économique européen ayant conclu avec la France une convention fiscale contenant une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale.
+Pour être éligibles au crédit d'impôt mentionné au premier alinéa du I, les dépenses prévues aux a à j doivent être des dépenses retenues pour la détermination du résultat imposable à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les conditions de droit commun et, à l'exception des dépenses prévues aux e bis et j, correspondre à des opérations localisées au sein de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'espace économique européen ayant conclu avec la France une convention fiscale contenant une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale.
 
 Les dépenses visées aux a et 2° du h du II ne sont pas retenues pour le calcul du crédit d'impôt recherche lorsque les immobilisations concernées ont bénéficié du crédit d'impôt prévu à l'article 220 septies.
 

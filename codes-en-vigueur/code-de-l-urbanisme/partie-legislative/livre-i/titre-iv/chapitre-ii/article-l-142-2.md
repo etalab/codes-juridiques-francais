@@ -18,9 +18,13 @@ Le produit de la taxe peut également être utilisé :
 
 - pour l'acquisition par un département, une commune, un établissement public de coopération intercommunale ou le Conservatoire de l'espace littoral et des rivages lacustres, de bois et forêts ou de droits sociaux donnant vocation à l'attribution en propriété ou en jouissance de bois et forêts, sous réserve de leur ouverture au public dans les conditions prévues à l'article L. 142-10.
 
+- pour l'acquisition, l'aménagement et la gestion des espaces, sites et itinéraires figurant au plan départemental des espaces, sites et itinéraires relatifs aux sports de nature établi dans les conditions prévues à l'article 50-2 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives ;
+
+- pour l'acquisition, la gestion et l'entretien des sites Natura 2000 désignés à l'article L. 414-1 du code de l'environnement et des territoires classés en réserve naturelle au sens de l'article L. 332-1 du même code.
+
 Cette taxe est perçue sur la totalité du territoire du département.
 
-Elle est établie sur la construction, la reconstruction et l'agrandissement des bâtiments et sur les installations et travaux divers autorisés en application de l'article L.442-1. Sont toutefois exclus du champ de la taxe :
+Elle est établie sur la construction, la reconstruction et l'agrandissement des bâtiments et sur les installations et travaux divers autorisés en application de l'article L. 442-1. Sont toutefois exclus du champ de la taxe :
 
 a) les bâtiments et les installations et travaux divers à usage agricole ou forestier liés à l'exploitation ;
 
@@ -28,7 +32,7 @@ b) les bâtiments qui sont destinés à être affectés à un service public ou 
 
 c) les bâtiments édifiés par les propriétaires d'une habitation familiale reconstituant leurs biens expropriés ;
 
-d) les immeubles classés parmi les monuments historiques ou inscrit à l'inventaire supplémentaire des monuments historiques ;
+d) les immeubles classés parmi les monuments historiques ou inscrits à l'inventaire supplémentaire des monuments historiques ;
 
 e) les bâtiments et les installations et travaux divers reconstruits après sinistre dans les conditions fixées au paragraphe II de l'article 1585 D du code général des impôts.
 

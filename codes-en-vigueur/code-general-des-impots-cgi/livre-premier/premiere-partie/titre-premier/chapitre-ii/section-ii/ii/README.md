@@ -3,6 +3,8 @@
 - [Article 207](article-207.md)
 - [Article 208](article-208.md)
 - [Article 208 C](article-208-c.md)
+- [Article 208 C bis](article-208-c-bis.md)
+- [Article 208 C ter](article-208-c-ter.md)
 - [Article 208 ter](article-208-ter.md)
 - [Article 208 ter A](article-208-ter-a.md)
 - [Article 208 ter B](article-208-ter-b.md)

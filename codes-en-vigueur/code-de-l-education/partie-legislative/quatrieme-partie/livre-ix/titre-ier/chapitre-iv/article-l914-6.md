@@ -6,4 +6,4 @@ Elle peut recevoir un blâme, avec ou sans publicité, ou être interdite de l'e
 
 Appel de la décision rendue peut toujours avoir lieu devant le Conseil supérieur de l'éducation. Cet appel n'est pas suspensif.
 
-Le présent article est également applicable à tout chef d'établissement d'enseignement du second degré privé ou d'enseignement technique privé. Les chefs d'établissement d'enseignement technique sont traduits, sur la plainte des inspecteurs généraux de l'éducation nationale, devant le comité départemental de l'emploi.
+Le présent article est également applicable à tout chef d'établissement d'enseignement du second degré privé ou d'enseignement technique privé.

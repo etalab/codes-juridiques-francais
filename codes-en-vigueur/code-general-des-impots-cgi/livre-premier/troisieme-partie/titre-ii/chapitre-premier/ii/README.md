@@ -7,3 +7,4 @@
 - [Article 1651 B](article-1651-b.md)
 - [Article 1651 E](article-1651-e.md)
 - [Article 1651 F](article-1651-f.md)
+- [Article 1651 G](article-1651-g.md)

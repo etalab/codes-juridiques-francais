@@ -28,9 +28,23 @@ Les sociétés coopératives agricoles et leurs unions sont tenues de produire, 
 
 3° bis. Lorsqu'elles fonctionnent conformément aux dispositions de la loi n° 83-657 du 20 juillet 1983 relative au développement de certaines activités d'économie sociale, les coopératives artisanales et leurs unions, les coopératives d'entreprises de transports, les coopératives artisanales de transport fluvial ainsi que les coopératives maritimes et leurs unions, visées au chapitre Ier du titre III de la même loi, sauf pour les affaires effectuées avec des non-sociétaires ;
 
-4° Les offices publics d'habitations à loyer modéré et les sociétés d'habitations à loyer modéré régis par les articles L. 411-1 et suivants du code de la construction et de l'habitation, ainsi que les unions de ces offices et sociétés ;
+4° Les organismes d'habitations à loyer modéré mentionnés à l'article L. 411-2 du code de la construction et de l'habitation, à l'exception des sociétés anonymes de crédit immobilier, les sociétés d'économie mixte visées à l'article L. 481-1-1 du même code et les sociétés anonymes de coordination entre les organismes d'habitations à loyer modéré mentionnées à l'article L. 423-1-1 du même code pour :
 
-4° bis. Les offices publics d'aménagement et de construction visés à l'article L 421-1 du code de la construction et de l'habitation pour les opérations faites en application de la législation sur les habitations à loyer modéré ;
+a. - les opérations réalisées au titre du service d'intérêt général défini à l'article L. 411-2 du même code ;
+
+b. - les produits engendrés par les locaux annexes et accessoires des ensembles d'habitations mentionnés à l'article L. 411-1 du même code, à la condition que ces locaux soient nécessaires à la vie économique et sociale de ces ensembles ;
+
+c. - les produits financiers issus du placement de la trésorerie de ces organismes.
+
+La fraction du bénéfice provenant d'activités autres que celles visées aux alinéas précédents et au 6° bis est soumise à l'impôt sur les sociétés ;
+
+Pour l'application des dispositions du premier alinéa de l'article 221 bis, la deuxième condition mentionnée à cet alinéa n'est pas exigée des sociétés qui cessent totalement ou partiellement d'être soumises au taux prévu au deuxième alinéa du I de l'article 219 du fait des dispositions du présent 4°. Les dispositions de l'article 111 bis ne s'appliquent pas à ces mêmes sociétés.
+
+Les dispositions du présent 4° s'appliquent aux exercices clos à compter du 1er janvier 2006.
+
+Toutefois, les organismes et les sociétés mentionnés au premier alinéa peuvent opter pour l'application anticipée de ces dispositions aux exercices clos à compter du 1er janvier 2005. Cette option est irrévocable.
+
+4° bis. (abrogé).
 
 4° ter. Les sociétés anonymes de crédit immobilier qui exercent uniquement les activités prévues au I et au II de l'article L. 422-4 du code de la construction et de l'habitation et qui accordent exclusivement :
 
@@ -39,6 +53,14 @@ a) Des prêts visés aux articles R. 331-32, R. 313-31 et R. 313-34 du même cod
 b) Des prêts à leurs filiales et aux organismes mentionnés au 4°. Le taux de rémunération de ces prêts ne doit pas excéder celui prévu au 3° du 1 de l'article 39.
 
 c) Des avances remboursables ne portant pas intérêt prévues par l'article R. 317-1 du code de la construction et de l'habitation. La fraction du bénéfice net provenant des avances accordées à compter du 1er janvier 2001 est soumise à l'impôt sur les sociétés.
+
+4° quater Les unions d'économie sociale visées à l'article L. 365-1 du code de la construction et de l'habitation, et dont les dirigeants de droit ou de fait ne sont pas rémunérés, pour :
+
+- les opérations mentionnées au deuxième alinéa de l'article L. 365-1 du même code lorsqu'elles relèvent du service d'intérêt général défini à l'article L. 411-2 du même code ;
+
+- les produits engendrés par les locaux annexes et accessoires des ensembles d'habitations mentionnés à l'article L. 411-1 du même code ;
+
+- les produits financiers issus du placement de la trésorerie de ces organismes ;
 
 5° Les bénéfices réalisés par des associations sans but lucratif régies par la loi du 1er juillet 1901 organisant, avec le concours des communes ou des départements, des foires, expositions, réunions sportives et autres manifestations publiques, correspondant à l'objet défini par leurs statuts et présentant, du point de vue économique, un intérêt certain pour la commune ou la région ;
 
@@ -56,7 +78,7 @@ c.- zone de restauration immobilière ;
 
 d.- zone de résorption de l'habitat insalubre.
 
-e. Opérations de rénovation urbaine.
+e.- opérations de rénovation urbaine.
 
 7° Les sociétés coopératives de construction qui procèdent, sans but lucratif, au lotissement et à la vente de terrains leur appartenant. Cette exonération est également applicable sous les mêmes conditions aux sociétés d'économie mixte dont les statuts sont conformes aux clauses types annexées au décret n° 69-295 du 24 mars 1969, ainsi qu'aux groupements dits de "Castors" dont les membres effectuent des apports de travail ;
 

@@ -12,7 +12,7 @@ Ce schéma détermine notamment la destination générale de différentes partie
 
 Pour l'élaboration de ce schéma, le conseil régional recueille les propositions des conseils généraux des départementaux intéressés, du conseil économique et social régional et des chambres consulaires. A l'issue de cette élaboration, le projet leur est soumis pour avis.
 
-Avant son adoption par le conseil régional, le projet de schéma directeur, assorti de l'avis des conseils généraux intéressés, du conseil économique et social régional et des chambres consulaires, est mis à la disposition du public pendant deux mois.
+Avant son adoption par le conseil régional, le projet de schéma directeur, assorti de l'avis des conseils généraux intéressés, du conseil économique et social régional et des chambres consulaires, est soumis à enquête publique.
 
 Le schéma directeur est approuvé par décret en Conseil d'Etat. L'initiative de l'élaboration du schéma directeur appartient soit à la région, soit à l'Etat.
 

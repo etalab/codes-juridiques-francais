@@ -15,6 +15,7 @@
 - [Article 1734 bis](article-1734-bis.md)
 - [Article 1734 ter](article-1734-ter.md)
 - [Article 1734 ter A](article-1734-ter-a.md)
+- [Article 1734 ter B](article-1734-ter-b.md)
 - [Article 1734 quater](article-1734-quater.md)
 - [Article 1736](article-1736.md)
 - [Article 1737](article-1737.md)

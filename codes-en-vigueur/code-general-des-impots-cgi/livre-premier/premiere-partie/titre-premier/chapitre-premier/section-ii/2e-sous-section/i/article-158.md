@@ -6,25 +6,37 @@ Toutefois, en ce qui concerne les entreprises et exploitations situées hors de 
 
 2. Le revenu net foncier est déterminé conformément aux disposition des articles 14 à 33 quinquies.
 
-3. Les revenus de capitaux mobiliers comprennent tous les revenus visés au VII de la 1ère sous-section de la présente section, à l'exception des revenus expressément affranchis de l'impôt en vertu de l'article 157 et des revenus ayant supporté le prélèvement visé à l'article 125 A.
+3. 1° Les revenus de capitaux mobiliers comprennent tous les revenus visés au VII de la 1ère sous-section de la présente section, à l'exception des revenus expressément affranchis de l'impôt en vertu de l'article 157 et des revenus ayant supporté le prélèvement visé à l'article 125 A.
 
 Lorsqu'ils sont payables en espèces les revenus visés au premier alinéa sont soumis à l'impôt sur le revenu au titre de l'année soit de leur paiement en espèces ou par chèques, soit de leur inscription au crédit d'un compte.
 
-Il est opéré un abattement annuel de 1 220 euros pour les contribuables célibataires, veufs ou divorcés et de 2 440 euros pour les contribuables mariés soumis à imposition commune sur la somme des revenus et gains imposables suivants :
+2° Les revenus mentionnés au 1° distribués par les sociétés passibles de l'impôt sur les sociétés ou d'un impôt équivalent ou soumises sur option à cet impôt, ayant leur siège dans un Etat de la Communauté européenne ou dans un Etat ou territoire ayant conclu avec la France une convention fiscale en vue d'éviter les doubles impositions en matière d'impôt sur les revenus et résultant d'une décision régulière des organes compétents, sont retenus, pour le calcul de l'impôt sur le revenu, pour 50 % de leur montant. A compter du 1er janvier 2009 pour les sociétés étrangères n'ayant pas leur siège dans un Etat de la Communauté européenne, cette disposition est réservée aux revenus distribués par des sociétés établies dans un Etat ou territoire ayant conclu une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale ;
 
-1° et 2° (Dispositions abrogées pour l'imposition des revenus des années 1996 et suivantes) ;
+3° Les dispositions du 2° ne s'appliquent pas :
 
-3° Revenus correspondant à des dividendes d'actions émises en France. Toutefois, cet abattement ne peut être effectué sur le montant des revenus d'actions souscrites avec le bénéfice des réductions d'impôt prévues aux articles 199 undecies ou 199 undecies A. Il s'applique aux revenus d'actions de sociétés françaises inscrites à la cote officielle ou au second marché des bourses françaises de valeurs ou qui, inscrites au hors-cote, font l'objet de transactions d'une importance et d'une fréquence qui sont fixées par décret lorsqu'ils sont encaissés par des personnes qui détiennent, directement ou indirectement, plus de 35 % des droits sociaux dans la société distributrice. Pour l'application de cette disposition, les droits sociaux appartenant au conjoint sont considérés comme détenus indirectement.
+a. Aux produits des actions des sociétés d'investissement mentionnées au 1° bis et au 1° ter de l'article 208 et des sociétés de capital-risque mentionnées au 3° septies du même article prélevés sur des bénéfices exonérés d'impôt sur les sociétés ;
 
-4° (Dispositions abrogées pour l'imposition des revenus des années 1996 et suivantes) ;
+b. Aux produits des actions des sociétés mentionnées au 1° bis A de l'article 208 et des sociétés d'investissement de même nature établies hors de France et soumises à un régime fiscal équivalent ;
 
-5° Produits des parts de société ou d'exploitation agricole à responsabilité limitée et des parts bénéficiaires ou de fondateur lorsque ces parts sont émises par des sociétés ou exploitations soumises à l'impôt sur les sociétés et que les produits sont encaissés par des personnes détenant, directement ou indirectement, moins de 35 % des droits sociaux dans la société distributrice. Pour l'application de cette disposition, les droits sociaux appartenant au conjoint sont considérés comme détenus indirectement ;
+c. Aux revenus distribués qui ne constituent pas la rémunération du bénéficiaire en sa qualité d'associé ou d'actionnaire ;
 
-6° Intérêts versés au titre des sommes portées sur un compte bloqué individuel qui remplissent les conditions visées au I de l'article 125 C. Les dispositions du II de l'article 125 C sont applicables en cas de non-respect des obligations fixées au I du même article.
+d. Aux revenus distribués mentionnés au a de l'article 111 ;
 
-L'abattement prévu au troisième alinéa peut, le cas échéant, être utilisé, en tout ou partie, par les porteurs de parts de fonds communs de placement, lors de l'imposition en leur nom des produits répartis par le fonds.
+e. Aux bénéfices ou revenus mentionnés à l'article 123 bis ;
 
-L'abattement prévu au troisième alinéa est réduit de moitié pour l'imposition des revenus de l'année 2002 lorsque le revenu net imposable excède pour les contribuables célibataires, veufs ou divorcés le montant mentionné à la dernière tranche du barème de l'impôt sur le revenu fixé au 1 du I de l'article 197. Ce montant est doublé pour les contribuables mariés soumis à une imposition commune.
+4° Les dispositions du 2° sont également applicables pour la part des revenus de la nature et de l'origine de ceux mentionnés au 2°, sous réserve du 3°, prélevés sur des bénéfices n'ayant pas supporté l'impôt sur les sociétés ou un impôt équivalent, distribués ou répartis par :
+
+a. Les organismes de placement collectif en valeurs mobilières régis par les articles L. 214-2 et suivants du code monétaire et financier ;
+
+b. Les organismes de placement collectif en valeurs mobilières établis dans d'autres Etats membres de la Communauté européenne, ou dans un Etat non membre de cette Communauté partie à l'accord sur l'Espace économique européen ayant conclu une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, qui bénéficient de la procédure de reconnaissance mutuelle des agréments prévue par la directive 85/611/CE du Conseil du 20 décembre 1985 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) ;
+
+c. Les sociétés mentionnées aux 1° bis, 1° ter et 3° septies de l'article 208.
+
+Pour la détermination de cette part, il est également tenu compte des revenus mentionnés au premier alinéa distribués ou répartis au profit de l'organisme ou de la société concerné par l'intermédiaire d'autres organismes ou sociétés mentionnés aux a, b et c.
+
+L'application de ces dispositions est conditionnée à la ventilation par les organismes ou sociétés en cause de leurs distributions ou répartitions en fonction de leur nature et origine ;
+
+5° Il est opéré un abattement annuel de 1 220 Euros pour les contribuables célibataires, divorcés ou veufs et de 2 440 Euros pour les contribuables mariés soumis à une imposition commune sur le montant net des revenus déterminé dans les conditions du 2° et après déduction des dépenses effectuées en vue de leur acquisition ou conservation.
 
 4. Les bénéfices des professions industrielles, commerciales, artisanales et ceux de l'exploitation minière sont déterminés conformément aux dispositions des articles 34 à 61 A, et 302 septies A bis ; les rémunérations mentionnées à l'article 62 sont déterminées conformément aux dispositions de cet article ; les bénéfices de l'exploitation agricole sont déterminées conformément aux dispositions des articles 63 à 78 et des articles L1 à L4 du livre des procédures fiscales ; les bénéfices tirés de l'exercice d'une profession non commerciale sont déterminés conformément aux dispositions des articles 92 à 103. Toutefois, les plus-values à long terme définies aux articles 39 duodecies et au 1 de l'article 39 terdecies sont distraites des bénéfices en vue d'être distinctement taxées à l'impôt sur le revenu dans les conditions prévues au 2 de l'article 39 terdecies et aux articles 39 quindecies et 93 quater.
 
@@ -36,11 +48,11 @@ Aucun abattement n'est appliqué sur la fraction du bénéfice qui excède la li
 
 La limitation du montant de l'abattement résultant de l'application du deuxième alinéa est opérée sur la totalité du revenu net professionnel déclaré par une même personne physique, dans une même catégorie de revenus.
 
-Aucun abattement n'est appliqué à la partie des bénéfices résultant d'un redressement, sauf lorsque ce redressement fait suite à une déclaration rectificative souscrite spontanément par l'adhérent.
+Aucun abattement n'est appliqué à la partie des bénéfices résultant d'une rectification, sauf lorsque cette rectification fait suite à une déclaration rectificative souscrite spontanément par l'adhérent.
 
 L'abattement n'est pas appliqué lorsque la déclaration professionnelle, la déclaration d'ensemble des revenus ou les déclarations de chiffre d'affaires n'ont pas été souscrites dans les délais et qu'il s'agit de la deuxième infraction successive concernant la même catégorie de déclaration.
 
-L'établissement de la mauvaise foi d'un adhérent à l'occasion d'un redressement relatif à l'impôt sur le revenu ou à la taxe sur la valeur ajoutée auxquels il est soumis du fait de son activité professionnelle entraîne la perte de l'abattement et de la réduction d'impôt prévue à l'article 199 quater B, pour l'année au titre de laquelle le redressement est effectué.
+L'établissement de la mauvaise foi d'un adhérent à l'occasion d'une rectification relative à l'impôt sur le revenu ou à la taxe sur la valeur ajoutée auxquels il est soumis du fait de son activité professionnelle entraîne la perte de l'abattement et de la réduction d'impôt prévue à l'article 199 quater B, pour l'année au titre de laquelle la rectification est effectuée.
 
 4 ter. (disposition devenue sans objet).
 
@@ -58,13 +70,13 @@ La limite mentionnée au cinquième alinéa est relevée chaque année dans la m
 
 b. Les dispositions du a sont applicables aux allocations mentionnées aux premier et troisième alinéas de l'article 231 bis D, aux participations en espèces et, à compter du 1er janvier 1991, aux dividendes des actions de travail, alloués aux travailleurs mentionnés au 18° bis de l'article 81, lorsque ces sommes sont imposables, de même qu'à l'aide financière mentionnée à l'article L129-3 du code du travail.
 
-b bis. Les dispositions du a sont applicables aux prestations servies sous forme de rentes ou pour perte d'emploi subie, au titre des contrats d'assurance groupe ou des régimes mentionnés au deuxième alinéa de l'article 154 bis.
+b bis. Les dispositions du a sont applicables aux prestations servies sous forme de rentes ou pour perte d'emploi subie, au titre des contrats d'assurance groupe ou des régimes mentionnés au deuxième alinéa du I de l'article 154 bis.
 
-Les dispositions du a sont également applicables aux prestations servies sous forme de rentes au titre des contrats d'assurance de groupe visés au premier alinéa de l'article 154 bis-0 A.
+Les dispositions du a sont également applicables aux prestations servies sous forme de rentes au titre des contrats d'assurance de groupe visés au premier alinéa du I de l'article 154 bis-0 A.
 
 b ter. (abrogé à compter de la date d'entrée en vigueur de la loi n° 2002-73 du 17 janvier 2002) ;
 
-b quater. Les dispositions du a sont applicables aux pensions servies au titre des plans d'épargne individuelle pour la retraite créés par l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites ;
+b quater. Les dispositions du a sont applicables aux pensions servies au titre des plans d'épargne retraite populaire créés par l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites ;
 
 c. Lorsque, étant en instance de séparation de corps ou de divorce, les époux font l'objet d'impositions distinctes par application des dispositions du b du 4 de l'article 6, la provision alimentaire qui est allouée à l'un d'eux pour son entretien et celui des enfants dont il a la charge est comptée dans les revenus imposables de l'intéressé ;
 
@@ -73,6 +85,8 @@ d. (abrogé à compter du 30 juin 2000) ;
 e. Pour l'établissement de l'impôt des redevables pensionnés au 31 décembre 1986 dont la pension a fait l'objet d'un premier versement mensuel en 1987, la déclaration porte chaque année sur les arrérages correspondant à la période de douze mois qui suit la période à laquelle se rapportent les arrérages imposables au titre de l'année précédente.
 
 Pour l'application de cette règle, les arrérages échus en 1987 sont répartis également sur le nombre de mois auxquels ils correspondent, arrondi au nombre entier le plus proche.
+
+Les dispositions des deux alinéas précédents sont également applicables pour l'établissement de l'impôt des redevables pensionnés au 31 décembre 2003 dont la pension a fait l'objet d'un premier versement mensuel en 2004, les arrérages mentionnés au deuxième alinéa s'entendant des arrérages échus en 2004.
 
 6. Les rentes viagères constituées à titre onéreux ne sont considérées comme un revenu, pour l'application de l'impôt sur le revenu dû par le crédirentier, que pour une fraction de leur montant. Cette fraction, déterminée d'après l'âge du crédirentier lors de l'entrée en jouissance de la rente, est fixée à :
 

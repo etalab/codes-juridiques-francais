@@ -4,7 +4,7 @@ La déclaration du résultat d'ensemble visée à l'article 223 Q du code géné
 
 1. Un état des subventions directes ou indirectes et des abandons de créances consentis ou reçus pour chacune des sociétés membres du groupe, à compter du 1er janvier 1992, indiquant la dénomination des sociétés concernées ainsi que la nature et le montant de ces subventions ou abandons.
 
-2. Pour chacune des sociétés membres du groupe, l'état des rectifications mentionné au b de l'article 46 quater-0 ZK ;
+2. Pour chacune des sociétés membres du groupe, l'état des rectifications mentionné au a de l'article 46 quater-0 ZK ;
 
 3. Un tableau de synthèse de ces rectifications ;
 

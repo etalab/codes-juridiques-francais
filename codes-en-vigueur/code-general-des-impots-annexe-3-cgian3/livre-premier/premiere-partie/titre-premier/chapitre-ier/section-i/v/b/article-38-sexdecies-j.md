@@ -34,6 +34,8 @@ c) Expropriation pour cause d'utilité publique ou cession amiable antérieure �
 
 d) Suspension, retrait ou modification de l'autorisation d'exploitation de cultures marines pour motif d'utilité publique ou pour motif d'insalubrité non imputable au bénéficiaire de l'autorisation d'exploitation de cultures marines, en application de l'article 15 du décret n° 83-228 du 22 mars 1983 modifié ;
 
+e. Augmentation du coût de l'énergie de plus de 5 % par rapport au prix moyen de l'année précédente ;
+
 5° Aléas couverts par une assurance : événement, ayant affecté l'exploitation, qui a entraîné une indemnisation par une police d'assurance de dommages aux biens ou pour perte d'exploitation souscrite par l'exploitant.
 
 II. - Peut également autoriser l'emploi des sommes déposées sur un compte ouvert auprès d'un établissement de crédit conformément aux dispositions de l'article 72 D bis du code général des impôts tout autre aléa d'origine naturelle, climatique, sanitaire ou économique, déclaré par l'exploitant et autre que ceux prévus au I, sous réserve qu'il soit suivi d'une baisse du résultat excédant 10 % de la moyenne des résultats des trois exercices précédents. Pour le calcul de cette moyenne, il n'est pas tenu compte des reports déficitaires.

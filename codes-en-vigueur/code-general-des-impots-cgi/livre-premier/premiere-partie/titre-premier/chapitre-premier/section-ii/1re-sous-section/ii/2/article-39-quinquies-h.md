@@ -12,7 +12,7 @@ c. Réalisent à la clôture de l'exercice de création ou de reprise et des deu
 
 d. (Abrogé pour les prêts consentis au cours des exercices ouverts à compter du 1er janvier 1996).
 
-Ces dispositions sont également applicables lorsque les bénéficiaires sont des travailleurs non salariés relevant des groupes de professions mentionnés au 1° de l'article L615-1 du code de la sécurité sociale et répondent aux conditions définies aux b, et c ci-dessus sous réserve de leur adaptation par un décret en Conseil d'Etat.
+Ces dispositions sont également applicables lorsque les bénéficiaires sont des travailleurs non salariés relevant des groupes de professions mentionnés au 1° de l'article L615-1 du code de la sécurité sociale et répondent aux conditions définies aux b, et c sous réserve de leur adaptation par un décret en Conseil d'Etat.
 
 Les créateurs de l'entreprise nouvelle ou de la société nouvelle ne doivent pas exercer ou avoir exercé des fonctions de dirigeant de droit ou de fait dans l'entreprise qui les employait ou dans une des sociétés visées au III, ni être conjoint, ascendant, descendant ou allié en ligne directe de personnes ayant exercé de telles fonctions. Ils doivent avoir été employés de l'entreprise ou d'une ou plusieurs des sociétés visées au III depuis un an au moins. Ils doivent mettre fin aux fonctions qu'ils y exercent dès la création de l'entreprise ou de la société nouvelle et assurer la direction effective de cette dernière.
 

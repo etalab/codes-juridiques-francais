@@ -6,4 +6,4 @@ Toutefois, le bénéficiaire peut contester le caractère indu de la récupérat
 
 Les retenues ne peuvent dépasser un pourcentage déterminé par voie réglementaire.
 
-En cas de précarité de la situation du débiteur, la créance peut être remise ou réduite sur décision prise selon des modalités fixées par voie réglementaire.
+En cas de précarité de la situation du débiteur, la créance peut être remise ou réduite par le président du conseil général.

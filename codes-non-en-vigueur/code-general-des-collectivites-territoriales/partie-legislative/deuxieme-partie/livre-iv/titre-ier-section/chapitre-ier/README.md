@@ -12,6 +12,7 @@
 - [Article L2411-10](article-l2411-10.md)
 - [Article L2411-11](article-l2411-11.md)
 - [Article L2411-12](article-l2411-12.md)
+- [Article L2411-12-1](article-l2411-12-1.md)
 - [Article L2411-13](article-l2411-13.md)
 - [Article L2411-14](article-l2411-14.md)
 - [Article L2411-15](article-l2411-15.md)

@@ -6,4 +6,4 @@
 
 3. Le contribuable peut renoncer à son option en adressant, au comptable chargé du recouvrement, une dénonciation dix jours ouvrés au moins avant la date limite de paiement de l'impôt concerné.
 
-4. Le prélèvements sont effectués cinq jours après les dates limites de paiement fixées aux articles 1761, 1762 et 1762 quater du code général des impôts.
+4. Les prélèvements sont effectués dix jours après les dates limites de paiement fixées aux articles 1761, 1762 et 1762 quater du code général des impôts.

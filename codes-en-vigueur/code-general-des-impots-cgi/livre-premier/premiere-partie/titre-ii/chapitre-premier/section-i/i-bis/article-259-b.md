@@ -22,8 +22,10 @@ Par dérogation aux dispositions de l'article 259, le lieu des prestations suiva
 
 10° Prestations de télécommunications ;
 
-11° Services de radiodiffusion et de télévision (1) ;
+11° Services de radiodiffusion et de télévision ;
 
-12° Services fournis par voie électronique fixés par décret (1).
+12° Services fournis par voie électronique fixés par décret .
+
+13° accès aux réseaux de transport et de distribution d'électricité ou de gaz naturel, acheminement par ces réseaux et tous les autres services qui lui sont directement liés.
 
 Le lieu de ces prestations est réputé ne pas se situer en France même si le prestataire est établi en France lorsque le preneur est établi hors de la communauté européenne ou qu'il est assujetti à la taxe sur la valeur ajoutée dans un autre Etat membre de la communauté.

@@ -6,7 +6,7 @@ I. - Il est institué une taxe générale sur les activités polluantes qui est 
 
 2. Tout exploitant d'une installation soumise à autorisation au titre du livre V (titre Ier) du code de l'environnement dont la puissance thermique maximale lorsqu'il s'agit d'installations de combustion, la capacité lorsqu'il s'agit d'installations d'incinération d'ordures ménagères, ou le poids des substances mentionnées au 2 de l'article 266 septies émises en une année lorsque l'installation n'entre pas dans les catégories précédentes, dépassent certains seuils fixés par décret en Conseil d'Etat ;
 
-3. Tout exploitant d'aéronefs ou, à défaut, leur propriétaire ;
+3. (alinéa abrogé à compter du 1er janvier 2005) ;
 
 4. a. Toute personne qui effectue une première livraison après fabrication nationale ou qui livre sur le marché intérieur en cas d'acquisition intracommunautaire ou qui met à la consommation des lubrifiants susceptibles de produire des huiles usagées ;
 
@@ -22,15 +22,15 @@ b) Toute personne qui extrait, produit ou introduit, en provenance d'un autre Et
 
 8. a. Tout exploitant d'un établissement industriel ou commercial ou d'un établissement public à caractère industriel et commercial dont certaines installations sont soumises à autorisation au titre du livre V (titre Ier) du code de l'environnement ;
 
-b. Tout exploitant d'un établissement mentionné au a dont les activités, figurant sur une liste établie par décret en Conseil d'Etat après avis du Conseil supérieur des installations classées, font courir, par leur nature ou leur volume, des risques particuliers à l'environnement.
+b. Tout exploitant d'un établissement mentionné au a dont les activités, figurant sur une liste établie par décret en Conseil d'Etat après avis du Conseil supérieur des installations classées, font courir, par leur nature ou leur volume, des risques particuliers à l'environnement ;
+
+9. Toute personne, mentionnée au premier alinéa de l'article L. 541-10-1 du code de l'environnement, qui, au titre d'une année civile, a mis à disposition, fait mettre à disposition, distribué ou fait distribuer des imprimés (Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29 décembre 2003) dans les conditions mentionnées audit article et qui n'a pas acquitté la contribution financière ou en nature qui y est prévue.
 
 II. - La taxe ne s'applique pas :
 
 1. Aux installations d'élimination de déchets industriels spéciaux exclusivement affectées à la valorisation comme matière ni aux installations d'élimination de déchets exclusivement affectées à l'amiante-ciment ;
 
-2. a. Aux aéronefs de masse maximale au décollage inférieure à deux tonnes ;
-
-b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protection civile ou de lutte contre l'incendie ;
+2. (alinéa abrogé à compter du 1er janvier 2005) ;
 
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur produit sec d'au moins 97 % d'oxyde de silicium ;
 

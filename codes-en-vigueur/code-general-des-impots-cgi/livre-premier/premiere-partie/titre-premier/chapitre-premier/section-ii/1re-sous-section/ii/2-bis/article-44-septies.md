@@ -1,6 +1,6 @@
 # Article 44 septies
 
-I. - Les sociétés créées pour reprendre une entreprise industrielle en difficulté qui fait l'objet d'une cession ordonnée par le tribunal en application des articles L. 621-83 et suivants du code de commerce bénéficient d'une exonération d'impôt sur les sociétés à raison des bénéfices réalisés, à l'exclusion des plus-values constatées lors de la réévaluation des éléments d'actif immobilisé, jusqu'au terme du vingt-troisième mois suivant celui de leur création et déclarés selon les modalités prévues à l'article 53 A. Le montant de cette exonération est déterminé dans les conditions prévues par les dispositions des II à IX du présent article.
+I. - Les sociétés créées pour reprendre une entreprise industrielle en difficulté qui fait l'objet d'une cession ordonnée par le tribunal en application des articles L. 621-83 et suivants du code de commerce bénéficient d'une exonération d'impôt sur les sociétés à raison des bénéfices réalisés, à l'exclusion des plus-values constatées lors de la réévaluation des éléments d'actif immobilisé, jusqu'au terme du vingt-troisième mois suivant celui de leur création et déclarés selon les modalités prévues à l'article 53 A. Le montant de cette exonération est déterminé dans les conditions prévues par les dispositions des II à IX.
 
 Cette exonération peut être également accordée lorsque la procédure de redressement judiciaire n'est pas mise en oeuvre, ou lorsque la reprise concerne des branches complètes et autonomes d'activité industrielle et est effectuée dans le cadre de cessions ordonnées par le juge-commissaire en application de l'article L. 622-17 du code de commerce, ou lorsque la reprise porte sur un ou plusieurs établissements industriels en difficulté d'une entreprise industrielle et dans la mesure où la société créée pour cette reprise est indépendante juridiquement et économiquement de l'entreprise cédante.
 
@@ -42,9 +42,9 @@ III. - 1. Sur agrément du ministre chargé du budget, les petites et moyennes e
 
 3. Les petites et moyennes entreprises créées dans les zones éligibles à la prime d'aménagement du territoire classées pour les projets industriels peuvent bénéficier de l'exonération prévue au I dans les conditions prévues au II. Dans ce cas, le montant du bénéfice exonéré ne peut dépasser les limites fixées au 1 du II majorées de 28 points de pourcentage.
 
-4. Le bénéfice exonéré des entreprises en application des 1, 2 et 3 ci-dessus ne peut dépasser 42 000 000 Euros.
+4. Le bénéfice exonéré des entreprises en application des 1, 2 et 3 ne peut dépasser 42 000 000 Euros.
 
-Par ailleurs, lorsque les coûts éligibles sont égaux ou supérieurs à 25 000 000 Euros, le bénéfice exonéré ne peut dépasser 50 % des limites déterminées en application des 2 et 3 ci-dessus.
+Par ailleurs, lorsque les coûts éligibles sont égaux ou supérieurs à 25 000 000 Euros, le bénéfice exonéré ne peut dépasser 50 % des limites déterminées en application des 2 et 3.
 
 IV. - Pour l'application du III, est considérée comme moyenne entreprise une société qui répond cumulativement aux conditions suivantes :
 

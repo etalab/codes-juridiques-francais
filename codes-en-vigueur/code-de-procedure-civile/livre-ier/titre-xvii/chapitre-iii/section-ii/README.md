@@ -8,3 +8,4 @@
 - [Article 670](article-670.md)
 - [Article 670-1](article-670-1.md)
 - [Article 670-2](article-670-2.md)
+- [Article 670-3](article-670-3.md)

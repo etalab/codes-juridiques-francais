@@ -1,7 +1,7 @@
 # Chapitre I bis : Taxes sur le chiffre d'affaires et taxes diverses assimilées
 
 - [Section I : Centre national du livre](section-i)
-- [Section III : Prélèvements et perceptions destinés au budget annexe des prestations sociales agricoles](section-iii)
+- [Section III : Taxe destinée au financement des prestations d'assurance maladie, invalidité et maternité du régime de protection sociale des non-salariés agricoles](section-iii)
 - [Section IV : Taxe spéciale sur le prix des places de spectacles cinématographiques.](section-iv)
 - [Section VI : Taxe d'aéroport](section-vi)
 - [Section VI bis : Taxe sur les nuisances sonores aériennes](section-vi-bis)

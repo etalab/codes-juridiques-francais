@@ -16,4 +16,4 @@ II. L'impôt établi conformément au I n'est pas mis en recouvrement si son mon
 
 Si ce montant est compris entre 150 et 300 euros, la cotisation fait l'objet d'une décote égale à la différence entre 300 euros et ledit montant.
 
-III. L'impôt dû conformément au I par les fondations reconnues d'utilité publique est diminué d'un abattement de 50 000 euros.
+III. Les fondations reconnues d'utilité publique sont exonérées d'impôt sur les sociétés pour les revenus mentionnés au I.

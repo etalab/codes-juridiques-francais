@@ -6,3 +6,4 @@
 - [Section 4 : Fonctionnement](section-4)
 - [Section 5 : Attributions](section-5)
 - [Section 6 : Délégation spéciale](section-6)
+- [Section 7 : Relations avec le représentant de l'Etat](section-7)

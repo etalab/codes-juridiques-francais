@@ -20,9 +20,9 @@ Pour l'ensemble des valeurs françaises à revenu variable, il peut également r
 
 Ces dispositions ne sont pas applicables lorsque la cession porte sur des droits sociaux qui, détenus directement ou indirectement dans les bénéfices sociaux par le cédant ou son conjoint, leurs ascendants et leurs descendants, ont dépassé ensemble 25 % de ces bénéfices à un moment quelconque au cours des cinq dernières années. Pour ces droits, le contribuable peut substituer au prix d'acquisition la valeur de ces droits au 1er janvier 1949 si elle est supérieure.
 
-5. En cas de cession de titres après la clôture d'un plan d'épargne en actions défini à l'article 163 quinquies D ou leur retrait au-delà de la huitième année, le prix d'acquisition est réputé égal à leur valeur à la date où le cédant a cessé de bénéficier, pour ces titres, des avantages prévus aux 5° bis et 5° ter de l'article 157 et au IV de l'article 163 quinquies D.
+5. En cas de cession de titres après la clôture d'un plan d'épargne en actions défini à l'article 163 quinquies D ou leur retrait au-delà de la huitième année, le prix d'acquisition est réputé égal à leur valeur à la date où le cédant a cessé de bénéficier, pour ces titres, des avantages prévus aux 5° bis et 5° ter de l'article 157.
 
-6. Le gain net réalisé depuis l'ouverture du plan d'épargne en actions défini à l'article 163 quinquies D s'entend de la différence entre la valeur liquidative du plan ou la valeur de rachat pour les contrats de capitalisation à la date du retrait et le montant des versements effectués sur le plan depuis la date de son ouverture, à l'exception de ceux afférents aux retraits ou rachats n'ayant pas entraîné la clôture du plan (1).
+6. Le gain net réalisé depuis l'ouverture du plan d'épargne en actions défini à l'article 163 quinquies D s'entend de la différence entre la valeur liquidative du plan ou la valeur de rachat pour les contrats de capitalisation à la date du retrait et le montant des versements effectués sur le plan depuis la date de son ouverture, à l'exception de ceux afférents aux retraits ou rachats n'ayant pas entraîné la clôture du plan.
 
 7. Le prix d'acquisition des titres acquis en vertu d'un engagement d'épargne à long terme est réputé égal au dernier cours coté au comptant de ces titres précédant l'expiration de cet engagement.
 
@@ -36,7 +36,7 @@ Pour les actions acquises avant le 1er janvier 1990, le prix d'acquisition est r
 
 10. En cas d'absorption d'une société d'investissement à capital variable par un fonds commun de placement réalisée conformément à la réglementation en vigueur, les gains nets résultant de la cession ou du rachat des parts reçues en échange ou de la dissolution du fonds absorbant sont réputés être constitués par la différence entre le prix effectif de cession ou de rachat des parts reçues en échange, net des frais et taxes acquittés par le cédant, et le prix de souscription ou d'achat des actions de la société d'investissement à capital variable absorbée remises à l'échange.
 
-11. Les moins-values subies au cours d'une année sont imputables exclusivement sur les plus-values de même nature réalisées au cours de la même année ou des dix années suivantes (1).
+11. Les moins-values subies au cours d'une année sont imputables exclusivement sur les plus-values de même nature réalisées au cours de la même année ou des dix années suivantes.
 
 12. Les pertes constatées en cas d'annulation de valeurs mobilières, de droits sociaux, ou de titres assimilés sont imputables, dans les conditions mentionnées au 11, l'année au cours de laquelle intervient soit la réduction du capital de la société, en exécution d'un plan de redressement mentionné aux articles L. 621-70 et suivants du code de commerce, soit la cession de l'entreprise ordonnée par le tribunal en application des articles L. 621-83 et suivants de ce code, soit le jugement de clôture de la liquidation judiciaire.
 

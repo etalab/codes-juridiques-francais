@@ -1,6 +1,6 @@
 # Article 235 ter ZC
 
-I. - Les redevables de l'impôt sur les sociétés sont assujettis à une contribution sociale égale à une fraction de cet impôt calculé sur leurs résultats imposables aux taux mentionnés au I de l'article 219 et diminué d'un abattement qui ne peut excéder 763 000 euros par période de douze mois. Lorsqu'un exercice ou une période d'imposition est inférieur ou supérieur à douze mois, l'abattement est ajusté à due proportion.
+I. - Les redevables de l'impôt sur les sociétés sont assujettis à une contribution sociale égale à une fraction de cet impôt calculé sur leurs résultats imposables aux taux mentionnés aux I et IV (1) de l'article 219 et diminué d'un abattement qui ne peut excéder 763 000 euros par période de douze mois. Lorsqu'un exercice ou une période d'imposition est inférieur ou supérieur à douze mois, l'abattement est ajusté à due proportion.
 
 La fraction mentionnée au premier alinéa est égale à 3,3 % pour les exercices clos à compter du 1er janvier 2000.
 
@@ -12,7 +12,7 @@ III. - Pour les entreprises placées sous le régime prévu à l'article 209 qui
 
 III bis - Les sociétés d'investissements immobiliers cotées visées au I de l'article 208 C et leurs filiales détenues à 95 % au moins, directement ou indirectement, de manière continue au cours de l'exercice ne sont pas assujetties à la présente contribution sur les plus-values imposées en application du IV de l'article 219.
 
-IV. - Les avoirs fiscaux ou crédits d'impôt de toute nature ainsi que la créance visée à l'article 220 quinquies et l'imposition forfaitaire annuelle mentionnée à l'article 223 septies ne sont pas imputables sur la contribution.
+IV. - Les crédits d'impôt de toute nature ainsi que la créance visée à l'article 220 quinquies et l'imposition forfaitaire annuelle mentionnée à l'article 223 septies ne sont pas imputables sur la contribution.
 
 V. - Elle est établie et contrôlée comme l'impôt sur les sociétés et sous les mêmes garanties et sanctions.
 

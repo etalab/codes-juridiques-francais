@@ -2,3 +2,4 @@
 
 - [Article 1681 ter](article-1681-ter.md)
 - [Article 1681 ter A](article-1681-ter-a.md)
+- [Article 1681 ter B](article-1681-ter-b.md)

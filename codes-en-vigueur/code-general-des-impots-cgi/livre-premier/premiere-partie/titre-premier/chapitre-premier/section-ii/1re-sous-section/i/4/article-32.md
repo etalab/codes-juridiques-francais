@@ -12,7 +12,7 @@ a) Monuments historiques et assimilés ou immeubles en nue-propriété, donnés 
 
 b) Immeubles au titre desquels est demandé le bénéfice des dispositions du b ter ou du b quater du 1° du I de l'article 31 ou de celles du deuxième ou du cinquième alinéa du 3° du I de l'article 156 ;
 
-c. Logements au titre desquels est demandé le bénéfice de l'une des déductions forfaitaires prévues aux deuxième à quatrième alinéas du e du 1° du I de l'article 31 ou de l'une des déductions au titre de l'amortissement prévues aux f, g et h du 1° du I de l'article 31 ;
+c. Logements au titre desquels est demandé le bénéfice de l'une des déductions forfaitaires prévues aux deuxième à cinquième alinéas du e du 1° du I de l'article 31 ou de l'une des déductions au titre de l'amortissement prévues aux f, g et h du 1° du I de l'article 31 ;
 
 d) Parts de sociétés, autres que celles visées à l'article 1655 ter, qui donnent en location des immeubles nus et dont les résultats sont imposés dans les conditions prévues à l'article 8 lorsque leur détenteur n'est pas propriétaire d'un immeuble donné en location nue.
 

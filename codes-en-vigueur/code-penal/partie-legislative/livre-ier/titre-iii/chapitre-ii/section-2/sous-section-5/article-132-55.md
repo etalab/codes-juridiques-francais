@@ -12,4 +12,4 @@ Au cours du délai fixé par la juridiction pour accomplir un travail d'intérê
 
 5° Recevoir les visites du travailleur social et lui communiquer tous documents ou renseignements relatifs à l'exécution de la peine.
 
-Il doit également satisfaire à celles des obligations particulières prévues à l'article 132-45 que la juridiction lui a spécialement imposées.
+Il doit également satisfaire à celles des obligations particulières prévues à l'article 132-45 que la juridiction lui a spécialement imposées et dont celle-ci a précisé la durée qui ne peut excéder douze mois.

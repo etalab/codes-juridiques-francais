@@ -14,7 +14,7 @@ a. par des personnes physiques ;
 
 b. ou par une société répondant aux mêmes conditions dont le capital est détenu pour 50 % au moins par des personnes physiques ;
 
-c. ou par des sociétés de capital-risque, des fonds communs de placement à risques, des sociétés de développement régional, des sociétés financières d'innovation ou des sociétés unipersonnelles d'investissement à risque à la condition qu'il n'existe pas de lien de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds ;
+c. ou par des sociétés de capital-risque, des fonds communs de placement à risques, des sociétés de développement régional, des sociétés financières d'innovation ou des sociétés unipersonnelles d'investissement à risque à la condition qu'il n'existe pas de lien de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds ou auprès d'entreprises bénéficiant du régime prévu à l'article 44 undecies ;
 
 d. ou par des fondations ou associations reconnues d'utilité publique à caractère scientifique ;
 

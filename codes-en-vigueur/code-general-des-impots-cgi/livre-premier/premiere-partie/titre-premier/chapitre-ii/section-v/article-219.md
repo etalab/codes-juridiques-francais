@@ -8,7 +8,7 @@ Toutefois :
 
 a. Le montant net des plus-values à long terme fait l'objet d'une imposition séparée au taux de 19 %, dans les conditions prévues au 1 du I de l'article 39 quindecies et à l'article 209 quater.
 
-Pour les exercices ouverts à compter du 1er janvier 2005, le taux d'imposition visé à l'alinéa précédent est fixé à 15 %.
+Pour les exercices ouverts à compter du 1er janvier 2005, le taux d'imposition visé au premier alinéa est fixé à 15 %.
 
 L'excédent éventuel des moins-values à long terme ne peut être imputé que sur les plus-values à long terme réalisées au cours des dix exercices suivants.
 
@@ -50,7 +50,7 @@ Les titres de participation mentionnés au premier alinéa sont les titres de pa
 
 La fraction des moins-values à long terme existant à l'ouverture du premier des exercices ouverts à compter du 1er janvier 2006 afférente à des éléments exclus du bénéfice des taux définis au premier alinéa demeure imputable sur les plus-values à long terme imposées au taux visé au a, sous réserve de justifier la ou les cessions de ces éléments. Elle est majorée, le cas échéant, des provisions dotées au titre de ces mêmes éléments et non réintégrées à cette date, dans la limite des moins-values à long terme reportables à l'ouverture du premier des exercices ouverts à compter du 1er janvier 2006.
 
-La fraction des moins-values à long terme existant à l'ouverture du premier des exercices ouverts à compter du 1er janvier 2006, non imputable en vertu des dispositions de l'alinéa précédent, peut être déduite des plus-values à long terme afférentes aux titres de participation définis au troisième alinéa imposables au titre des seuls exercices ouverts en 2006. Le solde de cette fraction et l'excédent éventuel des moins-values à long terme afférentes aux titres de participation définis au troisième alinéa constaté au titre des exercices ouverts à compter du 1er janvier 2006 ne sont plus imputables ou reportables à partir des exercices ouverts à compter du 1er janvier 2007.
+La fraction des moins-values à long terme existant à l'ouverture du premier des exercices ouverts à compter du 1er janvier 2006, non imputable en vertu des dispositions du quatrième alinéa, peut être déduite des plus-values à long terme afférentes aux titres de participation définis au troisième alinéa imposables au titre des seuls exercices ouverts en 2006. Le solde de cette fraction et l'excédent éventuel des moins-values à long terme afférentes aux titres de participation définis au troisième alinéa constaté au titre des exercices ouverts à compter du 1er janvier 2006 ne sont plus imputables ou reportables à partir des exercices ouverts à compter du 1er janvier 2007.
 
 b. Par exception au deuxième alinéa du présent I et au premier alinéa du a, pour les redevables ayant réalisé un chiffre d'affaires de moins de 7 630 000 euros au cours de l'exercice ou de la période d'imposition, ramené s'il y a lieu à douze mois, le taux de l'impôt applicable au bénéfice imposable est fixé, dans la limite de 38 120 euros de bénéfice imposable par période de douze mois, à 25 % pour les exercices ouverts en 2001 et à 15 % pour les exercices ouverts à compter du 1er janvier 2002.
 

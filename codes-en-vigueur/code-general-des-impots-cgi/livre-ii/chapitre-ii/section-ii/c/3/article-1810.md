@@ -18,7 +18,7 @@ Utilisation d'alambic non déclaré ; dans ce cas, la peine est applicable aux p
 
 7° revivification ou tentative de revivification d'alcools dénaturés, manoeuvres ayant pour objet soit de détourner des alcools dénaturés ou présentés à la dénaturation, soit de faire accepter à la dénaturation des alcools déjà dénaturés ; emploi de substances dénaturantes non conformes aux types officiels; vente ou détention de spiritueux dans la préparation desquels sont entrés des alcools dénaturés ou des mélanges d'alcool éthylique et de corps appartenant à la famille chimique des alcools ou présentant une fonction chimique alcool, susceptibles de remplacer l'alcool éthylique dans un quelconque de ses emplois lorsque ces mélanges sont destinés à la consommation humaine ou qu'ils présentent des dangers pour la santé publique ;
 
-8° détention ou vente frauduleuse par un fabricant ou marchand d'ouvrages d'or ou contenant de l'or, d'argent ou de platine revêtus, soit de l'empreinte de faux poinçons, contrefaisant les poinçons anciens ou en vigueur, soit de marques anciennes entées, soudées ou contretirées, soit de l'empreinte de poinçons de fantaisie imitant les poinçons anciens ou les poinçons en vigueur, soit de l'empreinte de poinçons volés ;
+8° détention ou vente frauduleuse par un fabricant ou marchand d'ouvrages d'or, d'argent ou de platine revêtus, soit de l'empreinte de faux poinçons, contrefaisant les poinçons anciens ou en vigueur, soit de marques anciennes entées, soudées ou contretirées, soit de l'empreinte de poinçons de fantaisie imitant les poinçons anciens ou les poinçons en vigueur, soit de l'empreinte de poinçons volés ;
 
 9° (Abrogé) ;
 

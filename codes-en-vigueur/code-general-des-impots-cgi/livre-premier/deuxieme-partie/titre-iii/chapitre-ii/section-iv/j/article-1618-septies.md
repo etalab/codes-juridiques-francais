@@ -1,6 +1,6 @@
 # Article 1618 septies
 
-Il est institué au profit du budget annexe des prestations sociales agricoles une taxe portant sur les quantités de farines, semoules et gruaux de blé tendre livrées ou mises en oeuvre en vue de la consommation humaine, ainsi que sur les mêmes produits introduits en provenance d'autres Etats membres de la Communauté européenne ou importés de pays tiers.
+Il est institué au profit du Fonds de financement des prestations sociales des non-salariés agricoles mentionné à l'article L. 731 du code rural une taxe portant sur les quantités de farines, semoules et gruaux de blé tendre livrées ou mises en oeuvre en vue de la consommation humaine, ainsi que sur les mêmes produits introduits en provenance d'autres Etats membres de la Communauté européenne ou importés de pays tiers.
 
 Les farines, semoules et gruaux de blé tendre expédiés vers d'autres Etats membres de la Communauté européenne, exportés ou destinés à être exportés vers des pays tiers ou vers les départements d'outre-mer, par l'acquéreur, ainsi que les farines utilisées pour la fabrication d'amidon, sont exonérés de la taxe.
 

@@ -1,3 +1,3 @@
-# Section IV : Prélèvements et perceptions destinés au budget annexe des prestations sociales agricoles
+# Section IV : Prélèvements et perceptions destinés au Fonds de financement des prestations sociales des non-salariés agricoles
 
-- [J : Farines.](j)
+- [J : Farines](j)

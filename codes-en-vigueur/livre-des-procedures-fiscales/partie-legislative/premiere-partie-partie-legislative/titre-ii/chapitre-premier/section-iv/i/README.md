@@ -9,3 +9,4 @@
 - [Article L60](article-l60.md)
 - [Article L61](article-l61.md)
 - [Article L61 A](article-l61-a.md)
+- [Article L61 B](article-l61-b.md)

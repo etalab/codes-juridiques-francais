@@ -5,3 +5,4 @@
 - [Livre III : Police des ports maritimes.](livre-iii)
 - [Livre IV : Voies ferrées des quais](livre-iv)
 - [Livre V : Régime du travail dans les ports maritimes.](livre-v)
+- [Livre VI : Ports maritimes relevant des collectivités territoriales et de leurs groupements.](livre-vi)
