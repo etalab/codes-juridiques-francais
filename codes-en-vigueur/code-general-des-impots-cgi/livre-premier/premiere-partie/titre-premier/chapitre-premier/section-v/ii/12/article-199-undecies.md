@@ -1,6 +1,6 @@
 # Article 199 undecies
 
-1. Il est institué une réduction d'impôt sur le revenu pour les contribuables qui investissent dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, dans les territoires d'outre-mer et les collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon jusqu'au ((31 décembre 2002)) (M).
+1. Il est institué une réduction d'impôt sur le revenu pour les contribuables qui investissent dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, dans les territoires d'outre-mer et les collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon jusqu'au 31 décembre 2002.
 
 Elle s'applique :
 
@@ -16,13 +16,11 @@ e. Au montant des souscriptions en numéraire au capital d'une société soumise
 
 Lorsque la société affecte tout ou partie de la souscription à la construction d'immeubles destinés à l'exercice d'une des activités visées ci-dessus, elle doit s'engager à en achever les fondations dans les deux ans qui suivent la clôture de la souscription. La société doit s'engager à maintenir l'affectation des biens à l'activité dans les secteurs mentionnés ci-avant pendant les cinq ans qui suivent leur acquisition ou pendant leur durée normale d'utilisation si elle est inférieure.
 
-Les titres acquis dans le cadre d'un plan d'épargne en vue de la retraite ne sont pas pris en compte.
-
 La réduction d'impôt prévue au premier alinéa s'applique aux souscriptions au capital des sociétés effectuant dans les départements d'outre-mer des investissements productifs dans le secteur de la maintenance au profit d'activités industrielles et dans celui de la production et de la diffusion audiovisuelles et cinématographiques.
 
 Un décret détermine les conditions d'application de l'alinéa précédent.
 
-La réduction d'impôt prévue au premier alinéa s'applique aux souscriptions en numéraire au capital de sociétés mentionnées ((au troisième)) (M) alinéa du II de l'article 217 undecies.
+La réduction d'impôt prévue au premier alinéa s'applique aux souscriptions en numéraire au capital de sociétés mentionnées au troisième alinéa du II de l'article 217 undecies.
 
 Les souscripteurs de parts ou actions des sociétés mentionnées au présent 1 doivent s'engager à les conserver pendant cinq ans à compter de la date de la souscription.
 
@@ -30,7 +28,7 @@ Les souscripteurs de parts ou actions des sociétés mentionnées au présent 1 
 
 3. La réduction d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année d'achèvement de l'immeuble, ou de son acquisition si elle est postérieure, ou de souscription des parts ou actions, et des quatre années suivantes. Chaque année, la base de la réduction est égale à 20 p. 100 des sommes effectivement payées à la date où le droit à réduction d'impôt est né.
 
-Pour la détermination de l'impôt dû au titre des années 1986 à 1989, la réduction d'impôt est égale à 50 p. 100 de la base définie au premier alinéa. Pour les revenus des années 1990 à 2005, elle est égale à 25 p. 100.
+Pour la détermination de l'impôt dû au titre des années 1986 à 1989, la réduction d'impôt est égale à 50 p. 100 de la base définie au premier alinéa. Pour les revenus des années 1990 à 2006, elle est égale à 25 p. 100.
 
 Toutefois, pour les acquisitions ou constructions de logements neufs à usage locatif ou à usage d'habitation principale ou les souscriptions au capital de sociétés ayant pour objet de construire ou d'acquérir de tels logements, qui sont visées au deuxième alinéa du 1 et réalisées à compter du 1er juillet 1993, la réduction d'impôt est portée à 50 p. 100 de la base définie au premier alinéa pour les années 1993 à 1996 lorsque le contribuable ou la société s'engage à louer nu l'immeuble dans les six mois de son achèvement ou de son acquisition si elle est postérieure pendant cinq ans au moins à des personnes qui en font leur habitation principale, ou si le bénéficiaire en fait lui-même son habitation principale.
 
@@ -42,7 +40,7 @@ La réduction d'impôt est portée à 50 p. 100 de la base définie au premier a
 
 3° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par décret.
 
-4. En cas de non-respect des engagements mentionnés au 1, de cession de l'immeuble ou des parts et titres ou de non-respect de leur objet exclusif par les sociétés concernées, ou de dissolution de ces sociétés, la réduction d'impôt pratiquée fait l'objet d'une reprise au titre de l'année où interviennent les événements précités. Toutefois, ces dispositions ne sont pas applicables si les investissements productifs sont compris dans un apport partiel d'actif réalisé sous le bénéfice de l'article 210 B ou si la société qui en est propriétaire fait l'objet d'une fusion placée sous le régime de l'article 210 A, à la condition que la société bénéficiaire de l'apport, ou la société absorbante selon le cas, réponde aux conditions du 1 et s'engage dans l'acte d'apport ou de fusion à respecter les engagements mentionnés au huitième alinéa du 1 pour la fraction du délai restant à courir (1).
+4. En cas de non-respect des engagements mentionnés au 1, de cession de l'immeuble ou des parts et titres ou de non-respect de leur objet exclusif par les sociétés concernées, ou de dissolution de ces sociétés, la réduction d'impôt pratiquée fait l'objet d'une reprise au titre de l'année où interviennent les événements précités. Toutefois, ces dispositions ne sont pas applicables si les investissements productifs sont compris dans un apport partiel d'actif réalisé sous le bénéfice de l'article 210 B ou si la société qui en est propriétaire fait l'objet d'une fusion placée sous le régime de l'article 210 A, à la condition que la société bénéficiaire de l'apport, ou la société absorbante selon le cas, réponde aux conditions du 1 et s'engage dans l'acte d'apport ou de fusion à respecter les engagements mentionnés au huitième alinéa du 1 pour la fraction du délai restant à courir.
 
 Quand un contribuable pratique la réduction d'impôt définie au présent article, les dispositions du a du 1° du I de l'article 199 sexies et des articles 199 nonies à 199 decies B ne sont pas applicables.
 
@@ -53,7 +51,3 @@ La location d'un logement neuf consentie dans des conditions fixées par décret
 6. Les dispositions du présent article sont applicables, dans les mêmes conditions, aux territoires d'outre-mer et aux collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon.
 
 7. Les dispositions du 5 du I de l'article 197 sont applicables.
-
-(1) Ces dispositions s'appliquent aux opérations intervenues à compter du 1er janvier 1994.
-
-(M) Modification.

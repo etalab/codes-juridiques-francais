@@ -30,11 +30,11 @@ L'imposition de la plus-value réalisée en cas d'échange de droits sociaux eff
 
 Ces dispositions sont également applicables aux échanges avec soulte à condition que celle-ci n'excède pas 10 p. 100 de la valeur nominale des titres reçus. Toutefois, la partie de la plus-value correspondant à la soulte reçue est imposée immédiatement.
 
-5. Pour l'application du régime d'imposition défini au présent article, lorsque les titres reçus dans les cas prévus ((aux 1, 2 et 4 font l'objet d'un échange dans les conditions prévues au 4, au II de l'article 92 B ou au troisième alinéa de l'article 150 A bis)) (M), l'imposition des plus-values antérieurement reportée peut, à la demande du contribuable, être reportée de nouveau au moment où s'opérera la cession, le rachat, le remboursement ou l'annulation des nouveaux titres reçus à condition que l'imposition de la plus-value réalisée lors de cet échange soit elle-même reportée.
+5. Pour l'application du régime d'imposition défini au présent article, lorsque les titres reçus dans les cas prévus aux 1, 2 et 4 font l'objet d'un échange dans les conditions prévues au 4, au II de l'article 92 B ou au troisième alinéa de l'article 150 A bis, l'imposition des plus-values antérieurement reportée peut, à la demande du contribuable, être reportée de nouveau au moment où s'opérera la cession, le rachat, le remboursement ou l'annulation des nouveaux titres reçus à condition que l'imposition de la plus-value réalisée lors de cet échange soit elle-même reportée.
 
-Un décret fixe les conditions d'application du premier alinéa .
+Un décret fixe les conditions d'application du premier alinéa.
 
-II ((L'imposition de la plus-value retirée de la cession de titres mentionnée au I réalisée du 1er janvier 1998 au 31 décembre 1999 peut être reportée dans les conditions et modalités prévues au premier alinéa du I et aux 3 à 6 de l'article 92 B decies et dans le dernier alinéa du I)) (M) (4).
+II. L'imposition de la plus-value retirée de la cession de titres mentionnée au I peut être reportée dans les conditions et modalités prévues au premier alinéa du I et aux 3 à 6 de l'article 92 B decies et dans le dernier alinéa du I (4).
 
 (1) Voir également art. 248 B. Taux applicable aux plus-values réalisées à compter du 1er janvier 1984.
 
@@ -43,7 +43,5 @@ II ((L'imposition de la plus-value retirée de la cession de titres mentionnée 
 (2) Voir annexe 3 art. 41 tervicies.
 
 (3) Voir annexe 3 art. 41 quatervicies à 41 sexvicies.
-
-(M) Modification.
 
 (4) Cette disposition s'applique aux échanges de droits sociaux et de valeurs mobilières réalisés à compter du 1er janvier 1997.
