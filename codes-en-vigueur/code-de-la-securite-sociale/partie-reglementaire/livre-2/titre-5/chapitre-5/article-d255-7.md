@@ -12,6 +12,8 @@ Le compte unique de disponibilités courantes enregistre, en recettes :
 
 4°) le montant des contributions résultant des dispositions législatives et réglementaires en vigueur.
 
+5°) les versements éventuels provenant des comptes externes de disponibilités des organismes de sécurité sociale prévus à l'article D. 253-59.
+
 Il enregistre, en dépenses, par l'intermédiaire de comptes spéciaux d'exécution :
 
 1°) dans le cadre des opérations réciproques entre comptables des postes et comptables du Trésor, le montant des prestations réglées par bordereaux collectifs et payables par mandats ou virements postaux et le montant des prélèvements en numéraire réalisés au guichet des bureaux de poste ;
@@ -19,3 +21,5 @@ Il enregistre, en dépenses, par l'intermédiaire de comptes spéciaux d'exécut
 2°) le montant des dépenses ou restitutions dont l'agence centrale des organismes de sécurité sociale ou les autorités de tutelle pourront prescrire le règlement par l'intermédiaire exclusif de ce compte ;
 
 3°) dans les limites fixées à l'article D. 255-8 ci-après, les retraits opérés par les organismes de sécurité sociale pour la réalisation des règlements autres que ceux désignés aux 1° et 2° du présent alinéa.
+
+l'Agence centrale des organismes de sécurité sociale   peut également ouvrir des comptes à vue et comptes externes de disponibilité auprès de la Banque de France.
