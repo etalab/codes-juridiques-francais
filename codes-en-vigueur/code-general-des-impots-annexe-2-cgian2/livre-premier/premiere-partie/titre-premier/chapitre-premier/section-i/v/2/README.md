@@ -17,4 +17,5 @@
 - [Article 74 N](article-74-n.md)
 - [Article 74 O](article-74-o.md)
 - [Article 74 Q](article-74-q.md)
+- [Article 74 R](article-74-r.md)
 - [Article 74 S](article-74-s.md)

@@ -7,5 +7,6 @@
 - [Article 1964](article-1964.md)
 - [Article 1965](article-1965.md)
 - [Article 1965 C](article-1965-c.md)
+- [Article 1965 A](article-1965-a.md)
 - [Article 1965 B](article-1965-b.md)
 - [Article 1965 E](article-1965-e.md)
