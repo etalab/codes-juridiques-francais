@@ -14,6 +14,8 @@
 - [Article 39 D](article-39-d.md)
 - [Article 39 sexies](article-39-sexies.md)
 - [Article 39 octies](article-39-octies.md)
+- [Article 39 octies C](article-39-octies-c.md)
+- [Article 39 octies A](article-39-octies-a.md)
 - [Article 39 nonies](article-39-nonies.md)
 - [Article 39 undecies](article-39-undecies.md)
 - [Article 39 quindecies A](article-39-quindecies-a.md)

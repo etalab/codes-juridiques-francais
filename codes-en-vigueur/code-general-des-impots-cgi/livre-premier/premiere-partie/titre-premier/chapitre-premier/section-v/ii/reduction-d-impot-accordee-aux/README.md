@@ -1,5 +1,6 @@
-# Réduction d'impôt accordée aux contribuables titulaires d'un compte d'épargne en actions.
+# Réduction d'impôt accordée aux adhérents de centres de gestion ou d'associations agréés.
 
+- [Article 199 quater B](article-199-quater-b.md)
 - [Article 199 quinquies](article-199-quinquies.md)
 - [Article 199 quinquies-0 A](article-199-quinquies-0-a.md)
 - [Article 199 quinquies C](article-199-quinquies-c.md)

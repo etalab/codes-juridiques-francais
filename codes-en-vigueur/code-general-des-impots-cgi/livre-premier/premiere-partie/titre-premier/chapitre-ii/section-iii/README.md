@@ -34,3 +34,4 @@
 - [Article 217 quinquies](article-217-quinquies.md)
 - [Article 217 sexies](article-217-sexies.md)
 - [Article 217 septies](article-217-septies.md)
+- [Article 217 octies](article-217-octies.md)

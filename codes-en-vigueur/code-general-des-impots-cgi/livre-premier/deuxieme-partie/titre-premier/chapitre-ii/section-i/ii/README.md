@@ -6,6 +6,7 @@
 - [Champ d'application.](champ-d-application)
 - [Demi-tarif](demi-tarif)
 - [Assiette et liquidation.](assiette-et)
+- [Exonérations](exonerations)
 - [Obligations des exploitants.](obligations-des-exploitants)
 - [Répartition de l'impôt.](repartition-de-l-impot)
 - [Tarif](tarif)
