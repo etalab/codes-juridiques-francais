@@ -1,18 +1,3 @@
 # Section 7 : Tarification des soins et agrément des appareils et des centres de santé
 
-- [Article D162-22](article-d162-22.md)
-- [Article D162-23](article-d162-23.md)
-- [Article D162-24](article-d162-24.md)
-- [Article D162-25](article-d162-25.md)
-- [Article D162-26](article-d162-26.md)
-- [Article D162-27](article-d162-27.md)
-- [Article D162-28](article-d162-28.md)
 - [Article D162-29](article-d162-29.md)
-- [Article D162-30](article-d162-30.md)
-- [Article D162-31](article-d162-31.md)
-- [Article D162-32](article-d162-32.md)
-- [Article D162-33](article-d162-33.md)
-- [Article D162-34](article-d162-34.md)
-- [Article D162-35](article-d162-35.md)
-- [Article D162-36](article-d162-36.md)
-- [Article D162-37](article-d162-37.md)
