@@ -4,4 +4,4 @@ A moins d'en être privés par mesure disciplinaire, les détenus peuvent recevo
 
 Pour les condamnés, cette faculté s'exerce dans les conditions déterminées par une instruction de service.
 
-La destination à donner à ces subsides est réglée conformément aux dispositions des articles D. 328 et D. 329.
+La destination à donner à ces subsides est réglée conformément aux dispositions des articles D. 319 et D. 320-3.
