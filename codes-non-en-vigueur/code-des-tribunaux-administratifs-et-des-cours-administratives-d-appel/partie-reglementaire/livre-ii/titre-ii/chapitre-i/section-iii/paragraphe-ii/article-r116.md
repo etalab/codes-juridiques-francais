@@ -16,6 +16,10 @@ Sont également dispensées du ministère d'avocat les requêtes dirigées contr
 
 Sont également dispensées du ministère d'avocat les demandes d'exécution d'un arrêt définitif de la cour administrative d'appel ou d'un jugement rendu par un tribunal administratif situé dans le ressort de la cour et frappé d'appel devant celle-ci.
 
-En cas de dispense, les parties peuvent agir et se présenter elles-mêmes. Elles peuvent aussi se faire représenter par un des mandataires mentionnés à l'article R. 108.
+En cas de dispense, les parties peuvent agir et se présenter elles-mêmes. Elles peuvent aussi se faire représenter :
+
+1° Par l'un des mandataires mentionnés à l'article R. 108 ;
+
+2° Par une association agréée au titre de l'article L. 252-1 du code rural, dès lors que les conditions prévues à l'article L. 252-5 dudit code sont réunies et selon les modalités prévues par les articles R. 252-21 à R. 252-29 dudit code.
 
 Les parties peuvent, le cas échéant, réclamer le bénéfice de l'aide juridictionnelle.
