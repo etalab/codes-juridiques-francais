@@ -5,6 +5,7 @@
 - [Article 2 quaterdecies](article-2-quaterdecies.md)
 - [Article 2 quindecies](article-2-quindecies.md)
 - [Article 2 sexdecies](article-2-sexdecies.md)
+- [Article 2 sexdecies A](article-2-sexdecies-a.md)
 - [Article 2 septdecies](article-2-septdecies.md)
 - [Article 2 octodecies](article-2-octodecies.md)
 - [Article 2 novodecies](article-2-novodecies.md)
