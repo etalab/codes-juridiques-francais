@@ -1,0 +1,7 @@
+# Article L322-10
+
+Le pâturage après incendie sur les biens forestiers et agroforestiers non soumis au régime forestier est interdit pendant une durée d'un an suivant la réalisation du sinistre. En cas de nécessité, cette période peut être prolongée par le représentant du Gouvernement pour une durée maximum de dix ans.
+
+Ceux qui passent à l'interdiction prévue par le présent article sont punis d'une amende de 100 à 15000 F, sans préjudice, s'il y a lieu, des dommages-intérêts.
+
+La peine d'amende prévue à l'alinéa ci-dessus s'applique au pâturage sur les biens forestiers et agroforestiers soumis au régime forestier, incendiés depuis moins d'un an.
