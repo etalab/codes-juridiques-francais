@@ -4,7 +4,7 @@ Il est créé, en Guadeloupe, en Guyane, en Martinique et à la Réunion, un fon
 
 Le fonds régional participe également au financement des études préalables à la réalisation de ces opérations.
 
-Pour la mise en oeuvre du dispositif, une convention est passée avec une institution financière chargée de regrouper les fonds et de verser les aides.
+Pour la mise en oeuvre de ce dispositif, une convention confiant la charge de regrouper les fonds et de verser les aides peut être passée avec une institution financière choisie par les contributeurs mentionnés au premier alinéa.
 
 Les représentants des maîtres d'ouvrages sociaux sont consultés sur la gestion et l'évaluation de ces fonds.
 
