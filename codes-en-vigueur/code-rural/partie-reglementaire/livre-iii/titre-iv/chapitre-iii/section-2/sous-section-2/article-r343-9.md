@@ -16,4 +16,6 @@ Sans préjudice des cas mentionnés à l'article R. 343-10, lorsque le projet d'
 
 Lorsque le conjoint vient à satisfaire à ces conditions postérieurement à l'installation du bénéficiaire de l'aide et dans un délai maximum de trois ans à compter de celle-ci, la dotation peut être majorée dans la limite et selon les proportions mentionnées l'alinéa précédent si, au vu d'un avenant à l'étude prévisionnelle d'installation, la réalisation du projet en cours s'avère substantiellement modifiée. La modification proposée doit correspondre à un volume de travail équivalent à 0,5 unité de travail agricole familial au minimum et entraîner un accroissement du revenu disponible de l'exploitation égal au minimum à la moitié du revenu disponible par unité de travail agricole familial fixé comme objectif dans le département. Le dépôt de la demande de majoration doit être antérieur à la réalisation du projet contenu dans l'avenant.
 
+Pour bénéficier de la majoration, le conjoint collaborateur du bénéficiaire de l'aide doit s'engager à s'exercer une activité sur l'exploitation d'une durée minimum de cinq ans.
+
 La liquidation et le paiement de la dotation d'installation sont assurés par le Centre national pour l'aménagement des structures des exploitations agricoles créé par l'article L. 313-3.
