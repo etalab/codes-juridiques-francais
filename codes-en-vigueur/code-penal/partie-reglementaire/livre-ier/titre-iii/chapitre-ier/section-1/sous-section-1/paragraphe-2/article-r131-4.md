@@ -10,6 +10,6 @@ Lorsque le condamné est titulaire d'un permis de conduire, l'agent de l'autorit
 
 4° La ou les catégories de véhicules pour lesquelles le permis de conduire cesse d'être valable.
 
-Le certificat doit comporter, en outre, une photographie récente du condamné et indiquer qu'il vaut, notamment au regard de l'article R. 123 du code de la route, justification du droit de conduire, à l'exception de la ou des catégories de véhicules pour lesquelles la juridiction a prononcé l'interdiction de conduire.
+Le certificat doit comporter, en outre, une photographie récente du condamné et indiquer qu'il vaut, notamment au regard des articles R221-1 à R221-3 du nouveau code de la route, justification du droit de conduire, à l'exception de la ou des catégories de véhicules pour lesquelles la juridiction a prononcé l'interdiction de conduire.
 
 A l'issue de la période d'interdiction, le permis de conduire est restitué au condamné par le greffier de la juridiction contre remise du certificat.
