@@ -12,6 +12,7 @@
 - [Article R*812-12](article-r-812-12.md)
 - [Article R*812-13](article-r-812-13.md)
 - [Article R*812-14](article-r-812-14.md)
+- [Article R*812-15](article-r-812-15.md)
 - [Article R*812-16](article-r-812-16.md)
 - [Article R*812-17](article-r-812-17.md)
 - [Article R*812-18](article-r-812-18.md)
