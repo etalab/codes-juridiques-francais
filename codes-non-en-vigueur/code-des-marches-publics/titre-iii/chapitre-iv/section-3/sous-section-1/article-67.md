@@ -8,7 +8,7 @@ Le délai minimal entre l'envoi de l'avis à la publication et la date limite de
 
 Les candidatures sont transmises par tout moyen permettant de déterminer de façon certaine la date de leur réception et de garantir leur confidentialité.
 
-Après avoir sélectionné les candidats admis à présenter une proposition, la personne responsable du marché engage avec chacun d'eux un dialogue.
+Après avoir sélectionné les candidats admis à présenter une proposition, la personne responsable du marché engage avec chacun d'eux un dialogue. Le nombre de candidats invités à participer au dialogue compétitif ne peut être inférieur à 3, sauf si le nombre de candidats n'est pas suffisant.
 
 L'objet de ce dialogue est l'identification et la définition des moyens propres à satisfaire au mieux les besoins de la personne publique à partir d'un programme fonctionnel qu'elle a préalablement élaboré et, le cas échéant, d'un projet partiellement défini. La personne responsable du marché peut discuter avec les candidats retenus de tous les aspects du marché.
 
