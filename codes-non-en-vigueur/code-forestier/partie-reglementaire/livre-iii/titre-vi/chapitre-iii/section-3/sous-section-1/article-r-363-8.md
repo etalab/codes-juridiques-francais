@@ -1,6 +1,6 @@
 # Article R*363-8
 
-Sur les terrains non soumis au régime forestier mentionnés à l'article R. 363-7, les opérations de gestion et d'équipement compatibles avec la destination de ces terrains doivent être autorisées par le préfet dans les conditions suivantes :
+Sur les terrains ne relevant pas du régime forestier mentionnés à l'article R.* 363-7, les opérations de gestion et d'équipement compatibles avec la destination de ces terrains doivent être autorisées par le préfet dans les conditions suivantes :
 
 - pour l'exploitation d'arbres isolés, sous réserve de la reconnaissance et du martelage préalables de ces arbres, par un agent assermenté de l'Office national des forêts ;
 

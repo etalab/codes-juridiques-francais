@@ -1,6 +1,6 @@
 # Article R122-3
 
-Le président du conseil d'administration est nommé parmi les membres du conseil par décret en conseil des ministres, sur proposition des ministres chargés de la forêt et de l'environnement.
+Le président du conseil d'administration est nommé parmi les membres du conseil par décret en conseil des ministres, sur proposition des ministres chargés des forêts et de l'environnement.
 
 Les fonctions du président du conseil d'administration prennent fin au plus tard lorsque leur titulaire atteint l'âge de soixante-cinq ans.
 

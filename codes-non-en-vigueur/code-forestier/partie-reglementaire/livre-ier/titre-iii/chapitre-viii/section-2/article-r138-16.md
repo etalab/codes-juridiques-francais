@@ -1,6 +1,6 @@
 # Article R138-16
 
-La délivrance des bois aux usagers prévue par l'article L. 138-11 est faite par les ingénieurs en service à l'Office national des forêts.
+La délivrance des bois aux usagers prévue par l'article L. 138-11 est faite par l'Office national des forêts.
 
 L'entrepreneur spécial mentionné à l'article L. 138-12 est nommé par les usagers et agréé par l'Office national des forêts.
 

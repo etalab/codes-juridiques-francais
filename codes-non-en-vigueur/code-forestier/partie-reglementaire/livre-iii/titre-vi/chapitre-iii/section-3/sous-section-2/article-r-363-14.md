@@ -12,4 +12,4 @@ En application de l'article L. 363-15, les propriétaires ou, le cas échéant, 
 
 - la quantité de palmistes, fougères arborescentes ou fanjans qu'il est demandé d'exploiter ;
 
-- la mention que la propriété est dûment délimitée et abornée avec le domaine soumis au régime forestier riverain et délimitée et balisée avec les propriétés privées voisines, conformément aux dispositions de l'article L. 253-2.
+- la mention que la propriété est dûment délimitée et abornée avec le domaine relevant du régime forestier riverain et délimitée et balisée avec les propriétés privées voisines, conformément aux dispositions de l'article L. 253-2.

@@ -1,3 +1,3 @@
 # Article R124-1
 
-Le ministre de l'agriculture peut déléguer au directeur général et aux directeurs régionaux de l'Office national des forêts les pouvoirs qui lui sont conférés par les articles L. 133-2 et R. 137-1.
+Le ministre chargé des forêts peut déléguer à un ou plusieurs responsables territoriaux compétents de l'Office national des forêts les pouvoirs qui lui sont confiés par l'article L. 133-2.

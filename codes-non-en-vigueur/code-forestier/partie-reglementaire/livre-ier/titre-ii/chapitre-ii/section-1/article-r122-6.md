@@ -2,17 +2,17 @@
 
 Le conseil d'administration délibère sur les matières suivantes :
 
-1° Les programmes généraux d'activité et d'investissement ;
+1° Les programmes généraux d'activité et d'investissement, le contrat de plan précisant les orientations de gestion et les programmes d'action pluriannuels de l'établissement ainsi que les moyens nécessaires à la mise en oeuvre de ces actions ;
 
 2° L'état de prévision des recettes et des dépenses et les modifications à lui apporter ;
 
 3° Le compte financier ;
 
-4° La fixation et l'affectation des résultats de l'exercice ;
+4° L'affectation du résultat de l'exercice après fixation par les autorités de tutelle de la part du bénéfice net après impôts qui sera versée à l'Etat en vertu de l'article L. 123-2 ;
 
 5° Les acquisitions, aliénations et échanges des biens immobiliers de l'Office dont la valeur dépasse un montant fixé par le conseil d'administration sur proposition du directeur général.
 
-6° Les souscriptions ou acquisitions de parts ou d'actions de société soumises à l'autorisation de l'Etat et mentionnées au deuxième alinéa de l'article R. 121-7 ;
+6° Les souscriptions ou acquisitions de parts ou d'actions de société soumises à l'autorisation de l'Etat et mentionnées au deuxième alinéa de l'article R.* 121-7 ;
 
 7° Les adhésions à des organismes sans capital social, à des associations ou à des groupements sans personnalité juridique ;
 
@@ -36,4 +36,4 @@ Le conseil d'administration délibère sur les matières suivantes :
 
 17° Les actions en justice, acquiescements, désistements et mainlevées avec ou sans paiement, les transactions civiles à l'exception des transactions accordées en exécution de l'article L. 153-2.
 
-Le conseil d'administration donne son avis sur les questions qui lui sont soumises par le ministre chargé de la forêt, par le ministre chargé de l'environnement, par le ministre chargé du domaine, par le président du conseil d'administration ou par le directeur général de l'Office.
+Le conseil d'administration donne son avis sur les questions qui lui sont soumises par le ministre chargé des forêts, par le ministre chargé de l'environnement, par le ministre chargé du domaine, par le président du conseil d'administration ou par le directeur général de l'Office.

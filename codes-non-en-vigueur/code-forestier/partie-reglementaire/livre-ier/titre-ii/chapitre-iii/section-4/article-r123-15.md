@@ -1,5 +1,5 @@
 # Article R123-15
 
-Les fonds disponibles de l'Office sont déposés au Trésor ou au service des chèques postaux.
+L'Office gère librement sa trésorerie.
 
-Des comptes peuvent également être ouverts, au nom de l'agent comptable, à la banque de France ou dans d'autres banques. Toutefois, le montant des disponibilités déposées à ces comptes ne peut, au total, excéder un plafond fixé par le ministre chargé des finances.
+Les fonds disponibles sont répartis à la diligence de l'agent comptable sur les comptes ouverts à son nom au Trésor public et dans le réseau bancaire en fonction des besoins et des orientations de gestion arrêtées par le directeur général de l'Office.

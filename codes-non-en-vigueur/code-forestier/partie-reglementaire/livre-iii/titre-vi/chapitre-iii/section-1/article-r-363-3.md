@@ -12,7 +12,7 @@ Ces demandes doivent comporter, sous peine d'irrecevabilité :
 
 - la désignation, la localisation et la surface de chaque parcelle cadastrale, avec extrait du plan cadastral et, s'il y a lieu, l'indication très précise de la fraction à défricher ;
 
-- la justification en application de l'article L. 253-2, que la propriété est dûment délimitée et abornée, lorsqu'elle est riveraine de bois, forêts ou terrains soumis au régime forestier, ou délimitée et balisée avec les propriétés voisines, lorsque celles-ci ne sont pas soumises au régime forestier ;
+- la justification en application de l'article L. 253-2, que la propriété est dûment délimitée et abornée, lorsqu'elle est riveraine de bois, forêts ou terrains relevant du régime forestier, ou délimitée et balisée avec les propriétés voisines, lorsque celles-ci ne relèvent pas du régime forestier ;
 
 - l'étude d'impact prévue par le décret n° 77-1141 du 12 octobre 1977 pris pour l'application de la loi sur la protection de la nature, s'il s'agit de défrichement ayant pour objet des opérations d'urbanisation ou d'implantation industrielle ou d'exploitation de matériaux. Dans les autres cas une notice d'impact sera rédigée par le chef du service forestier ;
 
