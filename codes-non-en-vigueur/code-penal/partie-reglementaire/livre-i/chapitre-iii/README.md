@@ -2,6 +2,8 @@
 
 - [Article 45](article-45.md)
 - [Article 50](article-50.md)
+- [Article 52](article-52.md)
+- [Article 53](article-53.md)
 - [Article 54](article-54.md)
 - [Article R3](article-r3.md)
 - [Article R4](article-r4.md)
