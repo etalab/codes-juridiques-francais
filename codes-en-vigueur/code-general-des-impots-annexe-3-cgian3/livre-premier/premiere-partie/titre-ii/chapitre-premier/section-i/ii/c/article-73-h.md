@@ -4,7 +4,7 @@ I  Pour bénéficier des dispositions de l'article 73 G :
 
 1° Les entreprises installées à l'étranger doivent délivrer aux prestataires des services portant sur des marchandises exportées des attestations par lesquelles elles certifient que les opérations commandées portent sur des marchandises destinées à l'exportation;
 
-2° Les preneurs des services portant sur des marchandises importées doivent délivrer aux prestataires des attestations certifiant que ces marchandises sont placées sous un des régimes suspensifs prévus aux 13° et 13° bis du II de l'article 262 du code général des impôts et aux 1° et 1° bis du II de l'article 291 du même code.
+2° Les preneurs des services portant sur des marchandises importées doivent délivrer aux prestataires des attestations certifiant que ces marchandises sont placées sous un des régimes suspensifs prévus au b du 2 du I et au b du 1° du II de l'article 291 du code général des impôts.
 
 II  Les prestataires de services sont tenus, pour leur part :
 
