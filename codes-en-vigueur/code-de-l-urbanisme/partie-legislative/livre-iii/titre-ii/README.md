@@ -4,3 +4,4 @@
 - [Chapitre II : Associations foncières urbaines.](chapitre-ii)
 - [Chapitre III : Chambres de commerce et d'industrie et chambres de métiers.](chapitre-iii)
 - [CHAPITRE IV : Etablissements publics fonciers.](chapitre-iv)
+- [Chapitre V : Etablissement public d'aménagement et de restructuration des espaces commerciaux et artisanaux.](chapitre-v)
