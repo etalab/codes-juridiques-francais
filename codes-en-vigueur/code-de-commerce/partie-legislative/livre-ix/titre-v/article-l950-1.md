@@ -14,6 +14,6 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 
 6° Le livre VI, à l'exception des articles L. 621-38, L. 621-132 et L. 628-1 à L. 628-8 ;
 
-7° Le livre VII, à l'exception des articles L. 711-5, L. 711-9, L. 720-1 à L. 730-17.
+7° Le livre VII, à l'exception des articles L. 711-5, L. 711-9, L. 720-1 à L. 740-3.
 
 8° Le livre VIII, à l'exception des articles L. 812-1 à L. 813-1.

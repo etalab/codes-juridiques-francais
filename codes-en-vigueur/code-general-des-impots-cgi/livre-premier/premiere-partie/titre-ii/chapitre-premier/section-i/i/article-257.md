@@ -84,15 +84,7 @@ b) Les prestations de services à titre gratuit effectuées par l'assujetti pour
 
 9° Les livraisons qu'un non-redevable à la taxe sur la valeur ajoutée se fait à lui-même et qui portent sur les viandes des animaux de boucherie et de charcuterie tels qu'ils sont définis par décret ;
 
-10° Les achats à des non-redevables à la taxe sur la valeur ajoutée :
-
-a) De produits passibles d'un droit de consommation ;
-
-b) De boissons et autres produits passibles d'un droit de circulation à l'exception des achats de vendanges et de fruits à cidre et à poiré par des personnes assujetties à la taxe sur la valeur ajoutée ;
-
-c) De conserves alimentaires ;
-
-d) (Abrogé à compter du 1er janvier 1995) ;
+10° (abrogé).
 
 11° Les quantités de boissons manquantes chez les entrepositaires agréés en sus des déductions et soumises aux droits indirects ;
 

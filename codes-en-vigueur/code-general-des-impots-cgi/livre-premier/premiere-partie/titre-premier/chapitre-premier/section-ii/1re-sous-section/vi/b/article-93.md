@@ -1,6 +1,6 @@
 # Article 93
 
-1. Le bénéfice à retenir dans les bases de l'impôt sur le revenu est constitué par l'excédent des recettes totales sur les dépenses nécessitées par l'exercice de la profession. Sous réserve des dispositions de l'article 151 sexies, il tient compte des gains ou des pertes provenant soit de la réalisation des éléments d'actif affectés à l'exercice de la profession, soit des cessions de charges ou d'offices, ainsi que de toutes indemnités reçues en contrepartie de la cessation de l'exercice de la profession ou du transfert d'une clientèle (1).
+1. Le bénéfice à retenir dans les bases de l'impôt sur le revenu est constitué par l'excédent des recettes totales sur les dépenses nécessitées par l'exercice de la profession. Sous réserve des dispositions de l'article 151 sexies, il tient compte des gains ou des pertes provenant soit de la réalisation des éléments d'actif affectés à l'exercice de la profession, soit des cessions de charges ou d'offices, ainsi que de toutes indemnités reçues en contrepartie de la cessation de l'exercice de la profession ou du transfert d'une clientèle.
 
 Les dépenses déductibles comprennent notamment :
 
@@ -14,9 +14,9 @@ Les dépenses déductibles comprennent notamment :
 
 5° Les dépenses exposées en vue de l'obtention d'un diplôme ou d'une qualification professionnelle dans la perspective d'une insertion ou d'une conversion professionnelle par les personnes tirant un revenu de la pratique d'un sport ;
 
-6° Les loyers versés en exécution d'un contrat de crédit-bail portant sur un immeuble, dans les conditions et limites fixées au 10 de l'article 39 (2).
+6° Les loyers versés en exécution d'un contrat de crédit-bail portant sur un immeuble, dans les conditions et limites fixées au 10 de l'article 39.
 
-7° Les droits de mutation à titre gratuit acquittés par les héritiers, donataires ou légataires d'une exploitation, pour la part des droits afférente à cette exploitation, et les intérêts payés en application des dispositions de l'article 1717, pour la même part, dans les conditions prévues au 4° quater du 1 de l'article 39 (3).
+7° Les droits de mutation à titre gratuit acquittés par les héritiers, donataires ou légataires d'une exploitation, pour la part des droits afférente à cette exploitation, et les intérêts payés en application des dispositions de l'article 1717, pour la même part.
 
 8° Les redevances de concessions de produits de la propriété industrielle définis à l'article 39 terdecies. Lorsqu'il existe des liens de dépendance entre le concédant et le concessionnaire, le montant des redevances est déductible dans les conditions et limites fixées au 12 de l'article 39 (4).
 
@@ -56,14 +56,4 @@ La déduction forfaitaire de 10 % pour frais professionnels, prévue au 3° de l
 
 Cette disposition s'applique si le cédant est âgé de soixante ans au moins et soixante-cinq ans au plus à la date de la cession et s'il cesse d'exercer une activité de chef d'entreprise.
 
-8. Sur demande expresse des contribuables soumis au régime de la déclaration contrôlée qui exercent une activité professionnelle au sens du 1 de l'article 92, les subventions visées à l'article 42 septies ne sont pas comprises dans les résultats de l'année en cours à la date de leur versement. Dans ce cas, elles sont imposables dans les conditions définies par ce dernier article (5).
-
-(1) En ce qui concerne les plus-values réalisées dans le cadre des opérations de nationalisation, voir art. 248 B.
-
-(2) Ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 1996.
-
-(3) Ces dispositions s'appliquent à compter de l'imposition des revenus de l'année 1997.
-
-(4) Ces dispositions s'appliquent aux redevances prises en compte à compter du 1er janvier 2002 dans les résultats des concédants et concessionnaires.
-
-(5) Ces dispositions s'appliquent à compter de l'imposition des revenus de 1997.
+8. Sur demande expresse des contribuables soumis au régime de la déclaration contrôlée qui exercent une activité professionnelle au sens du 1 de l'article 92, les subventions visées à l'article 42 septies ne sont pas comprises dans les résultats de l'année en cours à la date de leur versement. Dans ce cas, elles sont imposables dans les conditions définies par ce dernier article.

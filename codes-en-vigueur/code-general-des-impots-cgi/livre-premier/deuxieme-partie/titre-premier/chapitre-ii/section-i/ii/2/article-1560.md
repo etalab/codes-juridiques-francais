@@ -56,6 +56,8 @@ D'autre part, aux jeux automatiques constitués uniquement par des véhicules en
 
 Ils peuvent également renoncer en faveur de ces jeux à l'application de toute majoration.
 
+Quel que soit le coefficient appliqué, le tarif doit être exprimé en unités d'euros. A défaut, il est automatiquement arrondi à l'euro le plus proche, dans les conditions prévues à l'article 1724.
+
 III. Les appareils automatiques exploités pendant la durée et dans l'enceinte des fêtes foraines par des personnes soumises au régime des activités ambulantes prévu par les articles 1er et 2 de la loi n° 69-3 du 3 janvier 1969 et qui ont pour activité exclusive la tenue d'établissements destinés au divertissement du public sont soumis à une taxe calculée au prorata de la durée d'exploitation dans chaque commune où a lieu une fête foraine et au tarif de la taxe dans ces communes.
 
 IV. Sont considérés comme exploitants d'appareils automatiques ceux qui en assurent l'entretien, qui encaissent la totalité des recettes et qui enregistrent les bénéfices ou les pertes.
