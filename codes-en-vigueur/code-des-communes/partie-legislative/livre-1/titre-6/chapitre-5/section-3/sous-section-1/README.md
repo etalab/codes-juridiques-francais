@@ -2,6 +2,7 @@
 
 - [Article L165-7](article-l165-7.md)
 - [Article L165-7-1](article-l165-7-1.md)
+- [Article L165-7-2](article-l165-7-2.md)
 - [Article L165-8](article-l165-8.md)
 - [Article L165-9](article-l165-9.md)
 - [Article L165-11](article-l165-11.md)
