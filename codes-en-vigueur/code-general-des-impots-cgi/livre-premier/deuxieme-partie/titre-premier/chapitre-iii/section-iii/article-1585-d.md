@@ -6,7 +6,7 @@ Cette valeur est déterminée forfaitairement en appliquant à la surface de pla
 
 A compter du 15 juillet 1991, cette valeur est la suivante :
 
-CATEGORIES : Plancher hors oeuvre (en francs)
+CATEGORIES / Plancher hors oeuvre (en francs)
 
 1° Constructions légères non agricoles et non utilisables pour l'habitation, y compris les hangars autres que ceux qui sont mentionnés au 3° ci-dessous : 410 F
 
@@ -14,13 +14,23 @@ CATEGORIES : Plancher hors oeuvre (en francs)
 
 3° Entrepôts et hangars faisant l'objet d'une exploitation commerciale, industrielle ou artisanale ; garages et aires de stationnement couvertes faisant l'objet d'une exploitation commerciale ou artisanale ; locaux à usage industriel ou artisanal et bureaux y attenants ; locaux des villages de vacances et des campings : 1 220 F
 
-4° Locaux d'habitation et leurs annexes construits par les sociétés immobilières créées en application de la loi n° 46-860 du 30 avril 1946 ; foyers-hôtels pour travailleurs ; locaux d'habitation et leurs annexes bénéficiant d'un prêt aidé à l'accession à la propriété ou d'un prêt locatif aidé ; immeubles d'habitation collectifs remplissant les conditions nécessaires à l'octroi de prêts aidés à l'accession à la propriété ; ((locaux d'habitation à usage locatif et leurs annexes mentionnés au 3° de l'article L. 351-2 du code de la construction et de l'habitation qui bénéficient de la décision favorable d'agrément prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du même code à compter du 1er octobre 1996)) (M) : 1 070 F
+4° Locaux d'habitation et leurs annexes construits par les sociétés immobilières créées en application de la loi n° 46-860 du 30 avril 1946 ; foyers-hôtels pour travailleurs ; locaux d'habitation et leurs annexes bénéficiant d'un prêt aidé à l'accession à la propriété ou d'un prêt locatif aidé ; immeubles d'habitation collectifs remplissant les conditions nécessaires à l'octroi de prêts aidés à l'accession à la propriété ; locaux d'habitation à usage locatif et leurs annexes mentionnés au 3° de l'article L. 351-2 du code de la construction et de l'habitation qui bénéficient de la décision favorable d'agrément prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du même code à compter du 1er octobre 1996 / 1 070 F
 
-5° Locaux à usage d'habitation principale et leurs annexes bénéficiant d'un prêt conventionné ou dont les prix de vente ou les prix de revient ne sont pas supérieurs aux prix plafonds prévus pour l'application de l'article R. 331-68 du code de la construction et de l'habitation : 1 520 F
+5° 1. Construction individuelle et ses annexes à usage d'habitation principale :
+
+- pour les 80 premiers mètres carrés de surface hors oeuvre nette : 1520 F
+
+- de 81 à 170 mètres carrés : 2215 F
+
+2. Locaux des immeubles collectifs et leurs annexes à usage de résidence principale, par logement :
+
+- pour les 80 premiers mètres carrés de surface hors oeuvre nette : 1070 F
+
+- de 81 à 170 mètres carrés : 1520 F
 
 6° Parties des bâtiments hôteliers destinés à l'hébergement des clients : 2 140 F
 
-7° Locaux à usage d'habitation principale autres que ceux entrant dans les catégories 2°, 4° et 5° ci-dessus : 2 910 F
+7° Partie des locaux à usage d'habitation principale et leurs annexes, autres que ceux entrant dans les 2è et 4è catégories et dont la surface hors oeuvre nette excède 170 mètres carrés : 2 910 F
 
 8° Locaux à usage d'habitation secondaire : 2 910 F
 
@@ -39,5 +49,3 @@ a) Que la demande de permis de construire relative à la reconstruction soit dé
 b) Que le sinistré justifie que les indemnités versées en réparation des dommages occasionnés à l'immeuble ne comprennent pas le montant de la taxe locale d'équipement normalement exigible sur les reconstructions.
 
 Ces dispositions s'appliquent, dans les mêmes conditions, aux bâtiments de même nature reconstruits sur d'autres terrains de la même commune, lorsque les terrains d'implantation de locaux sinistrés ont été reconnus comme extrêmement dangereux et classés inconstructibles.
-
-(M) Modification.
