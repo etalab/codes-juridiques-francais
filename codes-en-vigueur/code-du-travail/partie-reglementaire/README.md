@@ -11,7 +11,6 @@
 - [Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente](livre-ix)
 - [CONVENTIONS RELATIVES AU TRAVAIL](conventions-relatives-au)
 - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*](dispositions-speciales-aux)
-- [CONFLITS DU TRAVAIL](conflits-du-travail)
 - [EMPLOI](emploi)
 - [LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES](les-groupements-professionnels-la-representation-la-participation-et)
 - [PLACEMENT ET EMPLOI](placement-et)
