@@ -26,13 +26,19 @@ b) De maintenir ou de développer, dans le cadre des mesures qui ont été préa
 
 7° Pour les fournitures ou services qu'il importe de choisir ou de faire exécuter en certains lieux à raison de leur nature particulière et de l'emploi auquel ils sont destinés ;
 
-8° (paragraphe abrogé).
+8° Pour les marchés de services :
+
+a) Ayant pour objet des services d'assurances ou des services bancaires ou d'investissement. Ces marchés ne font pas référence aux cahiers des clauses administratives générales prévus à l'article 112 ;
+
+b) (paragraphe annulé par décision du Conseil d'Etat)
 
 9° Pour les études industrielles, les études de maîtrise d'oeuvre définies à l'article 107.
 
 10° Pour les travaux, fournitures ou services dont la valeur n'excède pas, pour le montant total de l'opération, un seuil de 700 000 F (T.T.C.).
 
-La personne responsable du marché met en compétition, par une consultation écrite au moins sommaire, les candidats susceptibles d'exécuter le marché. En outre, sauf dans les cas énumérés aux 3°, 4°, 5° et 6° de l'alinéa précédent, et sauf si le montant présumé du marché est inférieur au seuil prévu à l'article 123, elle envoie à la publication quinze jours au moins avant l'engagement de cette consultation un avis d'appel public à la concurrence dans les conditions prévues à l'article 38.
+La personne responsable du marché met en compétition, par une consultation écrite au moins sommaire, les candidats susceptibles d'exécuter le marché. En outre, sauf dans les cas énumérés aux 3°, 4°, 5°, 6° et b du 8° de l'alinéa précédent, et sauf si le montant présumé du marché est inférieur au seuil prévu à l'article 123, elle envoie à la publication quinze jours au moins avant l'engagement de cette consultation un avis d'appel public à la concurrence dans les conditions prévues à l'article 38.
+
+11° Pour les marchés de services concernant directement les activités mentionnées à l'article 392.
 
 II. - Marchés négociés sans mise en concurrence préalable.
 
