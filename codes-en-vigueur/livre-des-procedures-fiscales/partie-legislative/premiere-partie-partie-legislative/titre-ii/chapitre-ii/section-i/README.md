@@ -12,6 +12,7 @@
 - [2° : Employeurs et débirentiers](2)
 - [20° : Intermédiaires sur le MATIF, le MONEP et en matière de bons d'options.](20)
 - [21° : Organisme gestionnaire d'un plan d'épargne en actions](21)
+- [3° : Ministère public](3)
 - [4° : Administrations et entreprises publiques, établissements ou organismes contrôlés par l'autorité administrative](4)
 - [6° : Personnes ayant la qualité de commerçant](6)
 - [7° : Agriculture](7)

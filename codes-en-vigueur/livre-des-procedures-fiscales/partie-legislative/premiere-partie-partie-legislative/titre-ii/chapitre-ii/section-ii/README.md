@@ -1,4 +1,4 @@
-# Section II : Renseignements communiqués à l'administration des impôts sans demande préalable de sa part.
+# Section II : Renseignements communiqués à l'administration sans demande préalable de sa part
 
 - [Article L97](article-l97.md)
 - [Article L98](article-l98.md)
