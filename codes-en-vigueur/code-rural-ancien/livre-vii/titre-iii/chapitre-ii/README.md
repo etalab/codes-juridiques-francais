@@ -25,4 +25,5 @@
 - [Article 1230](article-1230.md)
 - [Article 1231-1](article-1231-1.md)
 - [Article 1232](article-1232.md)
+- [Article 1233](article-1233.md)
 - [Article 1234](article-1234.md)
