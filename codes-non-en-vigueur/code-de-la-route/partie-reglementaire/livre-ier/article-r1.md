@@ -26,8 +26,8 @@ Le terme stationnement désigne l'immobilisation d'un véhicule sur la route hor
 
 Le terme aire piétonne désigne toute emprise affectée, de manière temporaire ou permanente, à la circulation des piétons et à l'intérieur du périmètre de laquelle la circulation des véhicules est soumise à des prescriptions particulières.
 
-Le terme carrefour à sens giratoire désigne une place ou un carrefour comportant un terre-plein central matériellement infranchissable, ceinturé par une chaussée mise à sens unique par la droite sur laquelle débouchent différentes routes et annoncé par une signalisation spécifique.
+Le terme carrefour à sens giratoire désigne une place ou un carrefour comportant un terre-plein central matériellement infranchissable, ceinturé par une chaussée mise à sens unique par la droite sur laquelle débouchent différentes routes et annoncé par une signalisation spécifique. Toutefois, en agglomération exclusivement, les carrefours à sens giratoire peuvent comporter un terre-plein central matériellement franchissable, qui peut être chevauché par les conducteurs lorsque l'encombrement de leur véhicule rend cette manoeuvre indispensable.
 
 Le terme routes à grande circulation désigne, quelle que soit leur appartenance domaniale, des routes qui assurent la continuité d'un itinéraire à fort trafic, justifiant des règles particulières en matière de police de la circulation. La liste des routes à grande circulation est fixée par décret pris sur le rapport du ministre de l'intérieur et de la décentralisation et du ministre chargé des transports.
 
-" Le terme " zone 30 " désigne une section ou un ensemble de sections de routes constituant dans une commune une zone de circulation homogène, où la vitesse est limitée à 30 km/h, et dont les entrées et sorties sont annoncées par une signalisation et font l'objet d'aménagements spécifiques. "
+Le terme " zone 30 " désigne une section ou un ensemble de sections de routes constituant dans une commune une zone de circulation homogène, où la vitesse est limitée à 30 km/h, et dont les entrées et sorties sont annoncées par une signalisation et font l'objet d'aménagements spécifiques.
