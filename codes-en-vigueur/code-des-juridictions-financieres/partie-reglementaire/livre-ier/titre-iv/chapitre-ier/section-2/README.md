@@ -1,4 +1,4 @@
-# Section 2 : Règles propres au prononcé des amendes.
+# Section 2 : Règles propres à l'audience publique.
 
 - [Article R141-9](article-r141-9.md)
 - [Article R141-10](article-r141-10.md)
