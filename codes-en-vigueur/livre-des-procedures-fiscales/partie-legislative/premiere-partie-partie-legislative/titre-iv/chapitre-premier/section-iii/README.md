@@ -11,4 +11,3 @@
 - [9° : Contrainte par corps.](9)
 - [Liquidation judiciaire.](liquidation-judiciaire)
 - [Contrainte par corps.](contrainte-par)
-- [Vente de fonds de commerce.](vente-de-fonds-de-commerce)

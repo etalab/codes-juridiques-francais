@@ -6,4 +6,3 @@
 - [5° : Rapatriés d'outre-mer et migrants ruraux](5)
 - [6° Transmissions d'entreprises](6-transmissions-d-entreprises)
 - [Apports en société.](apports-en-societe)
-- [Transmissions d'entreprises.](transmissions-d-entreprises)

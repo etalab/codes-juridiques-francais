@@ -7,4 +7,3 @@
 - [V : Répartition des bases](v)
 - [VI : Etablissement de la taxe](vi)
 - [VII : Annualité de la taxe](vii)
-- [Base d'imposition.](base-d-imposition)

@@ -9,5 +9,3 @@
 - [7° : Passage du régime transitoire au régime simplifié d'imposition d'après le bénéfice réel.](7)
 - [8° : Passage du régime transitoire au régime normal d'imposition d'après le bénéfice réel.](8)
 - [9° : Passage du régime transitoire au régime du forfait.](9)
-- [Passage du régime du forfait au régime simplifié d'imposition d'après le bénéfice réel.](passage-du-regime-du-forfait-au)
-- [Passage du régime transitoire au régime du forfait.](passage-du-regime-transitoire-au)
