@@ -2,7 +2,7 @@
 
 Véhicules et transports militaires
 
-1° Les prescriptions des articles R. 8-1 (2e alinéa), R. 46, R. 48 à R. 52, R. 53-1 et R. 53-2 ne sont pas applicables aux convois et aux transports militaires, qui font l'objet de règles particulières.
+1° Les prescriptions des articles R. 8-1 (2e alinéa), R. 46, R. 48 à R. 52, R. 53-1 à R. 53-2 ne sont pas applicables aux convois et aux transports militaires, qui font l'objet de règles particulières.
 
 2° Les règles techniques du chapitre Ier du titre II (art. R. 54 à R. 105-1) ne sont applicables aux véhicules et aux matériels spéciaux de l'armée, de la marine nationale et de l'aviation militaire qu'autant qu'elles ne sont pas incompatibles avec leurs caractéristiques techniques de fabrication et d'emploi.
 

@@ -12,6 +12,4 @@ Sera punie de l'amende pour les contraventions de la deuxième classe toute pers
 
 5° Le nombre d'animaux d'un attelage et le groupement de véhicules.
 
-Sera également punie d'une amende correspondant à la 2e classe de contraventions toute personne qui aura contrevenu aux dispositions des articles R. 11, R. 40-2 et, pour chaque infraction, à l'une des dispositions des alinéas 2 à 5 de l'article R. 53-1.
-
-Sera punie d'une amende correspondant à la 4e classe de contraventions toute personne qui aura contrevenu aux dispositions du premier alinéa de l'article R. 53-1 du présent code.
+Sera également punie d'une amende correspondant à la 2e classe de contraventions toute personne qui aura contrevenu aux dispositions des articles R. 11, R. 40-2 et à l'une des dispositions de l'article R53-1, du second alinéa de l'article R53-1-1 et des articles R53-1-2 et R53-1-3.    Sera punie d'une amende correspondant à la 4e classe de contraventions toute personne qui aura contrevenu aux dispositions du premier alinéa de l'article R. 53-1-1 du présent code.
