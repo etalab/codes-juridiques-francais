@@ -12,7 +12,7 @@ Toutefois, son seul pourvoi est recevable dans les cas suivants :
 
 4° Lorsque l'arrêt a, d'office ou sur déclinatoire des parties, prononcé l'incompétence de la juridiction saisie ;
 
-5° Lorsque l'arrêt a omis de statuer sur un chef d'inculpation.
+5° Lorsque l'arrêt a omis de statuer sur un chef de mise en examen ;
 
 6° Lorsque l'arrêt ne satisfait pas, en la forme, aux conditions essentielles de son existence légale ;
 
