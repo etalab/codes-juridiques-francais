@@ -6,7 +6,6 @@
 - [Livre IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol](livre-iv)
 - [Livre V : Implantation des services, établissements et entreprises](livre-v)
 - [Règles relatives à l'acte de construire et à divers modes d'utilisation du sol](regles-relatives-a)
-- [Aménagement foncier](amenagement-foncier)
 - [Droit de préemption](droit-de-preemption)
 - [Prévisions et règles d'urbanisme](previsions-et)
 - [Règles générales d'aménagement et d'urbanisme](regles-generales-d-amenagement-et)
