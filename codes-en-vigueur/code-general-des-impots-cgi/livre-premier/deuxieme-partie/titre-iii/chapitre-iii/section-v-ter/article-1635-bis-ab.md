@@ -6,8 +6,6 @@ Les contrats couvrant les chantiers ouverts à compter du 1er janvier 1986 et co
 
 Le taux de la contribution est de 8,5 % en ce qui concerne les primes ou cotisations d'assurance payées par les entreprises artisanales et de 25,5 % en ce qui concerne les autres primes ou cotisations d'assurance.
 
-Cette contribution est recouvrée suivant les mêmes règles, sous les mêmes garanties et les mêmes sanctions que la taxe sur les conventions d'assurance prévue aux articles 991 et suivants.
+Cette contribution, appelée lors de l'émission annuelle de la prime, est recouvrée suivant les mêmes règles, sous les mêmes garanties et les mêmes sanctions que la taxe sur les conventions d'assurance prévue aux articles 991 et suivants.
 
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article (1).
-
-(1) Voir code des assurances art. R. 431-59.
+(Sans objet).
