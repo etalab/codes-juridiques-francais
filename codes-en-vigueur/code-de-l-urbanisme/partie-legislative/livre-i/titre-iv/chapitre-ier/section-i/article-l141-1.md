@@ -20,4 +20,6 @@ La procédure de révision du schéma directeur est ouverte par un décret en Co
 
 Si la procédure de révision du schéma directeur de la région d'Ile-de-France n'a pas abouti dans un délai d'un an à compter de la demande adressée au président du conseil régional par le représentant de l'Etat pour assurer sa conformité aux règles prévues au deuxième alinéa du présent article, il y est procédé par décret en Conseil d'Etat. Toutefois, en cas d'urgence constatée par décret en conseil des ministres, il y est procédé sans délai par décret en Conseil d'Etat.
 
+Au plus tard à l'expiration d'un délai de dix ans à compter du décret approuvant le schéma directeur de la région d'Ile-de-France, la région procède à une analyse des résultats de son application, notamment du point de vue de l'environnement.
+
 Le schéma directeur de la région d'Ile-de-France a les mêmes effets que les directives territoriales d'aménagement définies en application de l'article L. 111-1-1. Il doit être compatible avec ces directives lorsqu'elles s'appliquent sur tout ou partie du territoire régional. En outre, il tient lieu de schéma régional au sens de l'article 34 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat.
