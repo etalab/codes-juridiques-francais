@@ -58,6 +58,7 @@
 - [Article Annexe II : Tableau n° 18](article-annexe-ii-tableau-no-18.md)
 - [Article Annexe II : Tableau n° 20](article-annexe-ii-tableau-no-20.md)
 - [Article Annexe II : Tableau n° 20 BIS](article-annexe-ii-tableau-no-20-bis.md)
+- [Article Annexe II : Tableau n° 20 TER](article-annexe-ii-tableau-no-20-ter.md)
 - [Article Annexe II : Tableau n° 21](article-annexe-ii-tableau-no-21.md)
 - [Article Annexe II : Tableau n° 22](article-annexe-ii-tableau-no-22.md)
 - [Article Annexe II : Tableau n° 23](article-annexe-ii-tableau-no-23.md)
@@ -103,3 +104,4 @@
 - [Article Annexe II : Tableau n° 90](article-annexe-ii-tableau-no-90.md)
 - [Article Annexe II : Tableau n° 92](article-annexe-ii-tableau-no-92.md)
 - [Article Annexe II : Tableau n° 93](article-annexe-ii-tableau-no-93.md)
+- [Article Annexe II : Tableau n° 95](article-annexe-ii-tableau-no-95.md)
