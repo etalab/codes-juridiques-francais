@@ -3,3 +3,4 @@
 - [Article 1622](article-1622.md)
 - [Article 1623](article-1623.md)
 - [Article 1624](article-1624.md)
+- [Article 1624 bis](article-1624-bis.md)

@@ -1,9 +1,11 @@
 # TITRE IV : DISPOSITIONS SPÉCIALES APPLICABLES AUX MOTOCYCLETTES, TRICYCLES ET QUADRICYCLES À MOTEUR ET À LEURS REMORQUES
 
 - [Paragraphe 1er : DÉFINITIONS.](paragraphe-1er)
+- [Paragraphe Ier : DÉFINITIONS.](paragraphe-ier)
 - [PARAGRAPHE II : BANDAGES.](paragraphe-ii)
 - [Paragraphe III : RÈGLES RELATIVES AU TRANSPORT DES PASSAGERS ET DU CHARGEMENT.](paragraphe-iii)
 - [PARAGRAPHE IV : ORGANES MOTEURS](paragraphe-iv)
+- [Paragraphe V : ORGANES DE MANOEUVRE, DE DIRECTION ET DE VISIBILITÉ ET APPAREILS DE CONTRÔLE DE LA VITESSE.](paragraphe-v)
 - [Paragraphe VI : FREINAGE.](paragraphe-vi)
 - [Paragraphe VII : ÉCLAIRAGE ET SIGNALISATION.](paragraphe-vii)
 - [Paragraphe 8 : SIGNAUX D'AVERTISSEMENT.](paragraphe-8)
@@ -11,4 +13,5 @@
 - [Paragraphe IX : PLAQUES ET INSCRIPTIONS.](paragraphe-ix)
 - [Paragraphe X : RÉCEPTION.](paragraphe-x)
 - [PARAGRAPHE XI : IMMATRICULATION.](paragraphe-xi)
+- [Paragraphe 12 : PERMIS DE CONDUIRE.](paragraphe-12)
 - [PARAGRAPHE XIII : CONTRÔLE ROUTIER.](paragraphe-xiii)

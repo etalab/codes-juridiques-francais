@@ -11,3 +11,4 @@
 - [Article 1840 G quater A](article-1840-g-quater-a.md)
 - [Article 1840 G quinquies](article-1840-g-quinquies.md)
 - [Article 1840 G sexies](article-1840-g-sexies.md)
+- [Article 1840 G septies](article-1840-g-septies.md)

@@ -5,3 +5,5 @@
 - [Article 261 B](article-261-b.md)
 - [Article 261 F](article-261-f.md)
 - [Article 261 G](article-261-g.md)
+- [Article 262 bis](article-262-bis.md)
+- [Article 263](article-263.md)
