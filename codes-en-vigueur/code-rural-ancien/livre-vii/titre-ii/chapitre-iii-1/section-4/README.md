@@ -1,6 +1,7 @@
 # Section 4 : Assujettissement et organisation.
 
 - [Article 1106-9](article-1106-9.md)
+- [Article 1106-10](article-1106-10.md)
 - [Article 1106-11](article-1106-11.md)
 - [Article 1106-12](article-1106-12.md)
 - [Article 1106-15](article-1106-15.md)
