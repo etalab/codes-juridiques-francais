@@ -2,4 +2,5 @@
 
 - [Article L119](article-l119.md)
 - [Article L121](article-l121.md)
+- [Article L122](article-l122.md)
 - [Article L123](article-l123.md)
