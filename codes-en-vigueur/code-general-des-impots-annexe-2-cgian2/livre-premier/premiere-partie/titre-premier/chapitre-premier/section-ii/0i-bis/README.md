@@ -7,6 +7,7 @@
 - [Article 75-0 E](article-75-0-e.md)
 - [Article 75-0 F](article-75-0-f.md)
 - [Article 75-0 G](article-75-0-g.md)
+- [Article 75-0 H](article-75-0-h.md)
 - [Article 75-0 J](article-75-0-j.md)
 - [Article 75-0 K](article-75-0-k.md)
 - [Article 75-0 N](article-75-0-n.md)
