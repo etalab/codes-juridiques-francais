@@ -2,6 +2,8 @@
 
 Le conjoint du chef d'une exploitation ou d'une entreprise agricole qui n'est pas constituée sous forme d'une société ou d'une coexploitation entre conjoints peut y exercer son activité professionnelle en qualité de collaborateur d'exploitation ou d'entreprise agricole.
 
+Lorsque le chef ou un associé d'une exploitation ou d'une entreprise agricole exerce également une activité non salariée non agricole et est affilié au seul régime agricole en application de l'article L. 171-3 du code de la sécurité sociale, son conjoint peut également prétendre au statut de collaborateur au titre de sa participation à l'activité non salariée non agricole.
+
 Sous réserve de l'application des dispositions de l'article L. 321-1, le conjoint de l'associé d'une exploitation ou d'une entreprise agricole constituée sous la forme d'une société peut également prétendre au statut de collaborateur lorsqu'il y exerce son activité professionnelle et n'est pas associé de ladite société.
 
 L'option pour la qualité de collaborateur doit être formulée par le conjoint en accord avec le chef d'exploitation ou d'entreprise agricole et, le cas échéant, la société d'exploitation dans des conditions prévues par décret en Conseil d'Etat.

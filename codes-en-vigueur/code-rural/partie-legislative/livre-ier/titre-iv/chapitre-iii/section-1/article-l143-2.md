@@ -16,4 +16,6 @@ L'exercice de ce droit a pour objet, dans le cadre des objectifs définis par l'
 
 7° La mise en valeur et la protection de la forêt ainsi que l'amélioration des structures sylvicoles dans le cadre des conventions passées avec l'Etat en application de l'article L. 512-6 du code forestier ;
 
-8° La réalisation des projets de mise en valeur des paysages et de protection de l'environnement approuvés par l'Etat ou les collectivités locales et leurs établissements publics.
+8° La réalisation des projets de mise en valeur des paysages et de protection de l'environnement approuvés par l'Etat ou les collectivités locales et leurs établissements publics ;
+
+9° Dans les conditions prévues par le chapitre III du titre IV du livre Ier du code de l'urbanisme, la protection et la mise en valeur des espaces agricoles et naturels périurbains.

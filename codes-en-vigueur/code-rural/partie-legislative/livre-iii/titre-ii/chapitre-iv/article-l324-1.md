@@ -1,6 +1,6 @@
 # Article L324-1
 
-Une ou plusieurs personnes physiques majeures peuvent instituer une société civile dénommée "exploitation agricole à responsabilité limitée", régie par les dispositions des chapitres Ier et II du titre IX du livre III du code civil, à l'exception de l'article 1844-5. Les associés ne supportent les pertes qu'à concurrence de leurs apports.
+Une ou plusieurs personnes physiques peuvent instituer une société civile dénommée "exploitation agricole à responsabilité limitée", régie par les dispositions des chapitres Ier et II du titre IX du livre III du code civil, à l'exception de l'article 1844-5. Les associés ne supportent les pertes qu'à concurrence de leurs apports.
 
 Lorsque l'exploitation agricole à responsabilité limitée est constituée par une seule personne, celle-ci est dénommée "associé unique". L'associé unique exerce les pouvoirs dévolus à l'assemblée des associés.
 

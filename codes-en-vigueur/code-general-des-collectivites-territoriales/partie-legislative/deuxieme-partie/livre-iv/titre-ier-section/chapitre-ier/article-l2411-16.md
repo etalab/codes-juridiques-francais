@@ -6,4 +6,4 @@ L'engagement de tout ou partie des biens de la section dans une association synd
 
 En cas de désaccord ou en l'absence de vote des électeurs de la section sur les propositions visées aux deux alinéas précédents, il est statué par arrêté motivé du représentant de l'Etat dans le département.
 
-Ces dispositions ne s'appliquent pas lorsque la vente de biens sectionaux a pour but l'implantation d'un lotissement. Dans cette hypothèse, seul le conseil municipal a compétence pour autoriser cette vente.
+Ces dispositions ne s'appliquent pas lorsque la vente de biens sectionaux a pour but la réalisation d'un investissement nécessaire à l'exécution d'un service public, à l'implantation de lotissements ou à l'exécution d'opérations d'intérêt public dont la liste est fixée par décret en Conseil d'Etat. Dans cette hypothèse, seul le conseil municipal a compétence pour autoriser cette vente.

@@ -5,3 +5,5 @@ Le service universel postal concourt à la cohésion sociale et au développemen
 Il comprend des offres de services nationaux et transfrontières d'envois postaux d'un poids inférieur ou égal à 2 kilogrammes, de colis postaux jusqu'à 20 kilogrammes, d'envois recommandés et d'envois à valeur déclarée.
 
 Les services de levée et de distribution relevant du service universel postal sont assurés tous les jours ouvrables, sauf circonstances exceptionnelles.
+
+Hormis les envois de correspondance en nombre, les services postaux constituant le secteur réservé sont proposés au même tarif de base sur l'ensemble du territoire national.

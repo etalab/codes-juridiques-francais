@@ -8,7 +8,9 @@ II. - Lorsque le travail du dimanche est indispensable au fonctionnement de l'en
 
 2° Une demi-journée le dimanche avec un repos compensateur d'une journée par roulement et par quinzaine ;
 
-3° Par roulement à condition que le jour de repos tombe le dimanche au moins deux fois par mois.
+3° Par roulement à condition que le jour de repos tombe le dimanche au moins deux fois par mois ;
+
+4° Par roulement pour les activités d'accueil touristique qui ont pour support l'exploitation.
 
 Le décret mentionné au VII détermine en particulier les cas dans lesquels l'employeur est admis de plein droit à donner le repos hebdomadaire suivant l'une de ces modalités. Dans les autres cas, l'employeur qui désire faire usage de l'une de ces dérogations doit en faire la demande au chef du service départemental de l'inspection du travail, de l'emploi et de la politique sociale agricoles.
 

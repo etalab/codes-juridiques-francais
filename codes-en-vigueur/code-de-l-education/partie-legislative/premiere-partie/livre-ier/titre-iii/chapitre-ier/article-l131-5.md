@@ -13,3 +13,5 @@ Toutefois, lorsque le ressort des écoles publiques a été déterminé conform�
 Lorsque le ressort des écoles publiques a été déterminé conformément aux dispositions de l'article L. 212-7, l'inscription des élèves, dans les écoles publiques ou privées, se fait sur présentation d'un certificat d'inscription sur la liste scolaire prévue à l'article L. 131-6. Ce certificat est délivré par le maire, qui y indique l'école que l'enfant doit fréquenter.
 
 La domiciliation des parents à l'étranger ne peut être une cause de refus d'inscription d'un enfant soumis à l'obligation scolaire. Chaque enfant est inscrit soit dans la commune où ses parents ont une résidence, soit dans celle du domicile de la personne qui en a la garde, soit dans celle où est situé un établissement ou une section d'établissement destinés plus particulièrement aux enfants de Français de l'étranger.
+
+La conclusion d'un contrat de travail à caractère saisonnier ouvre le droit de faire inscrire ses enfants dans une école de la commune de son lieu de résidence temporaire ou de travail.

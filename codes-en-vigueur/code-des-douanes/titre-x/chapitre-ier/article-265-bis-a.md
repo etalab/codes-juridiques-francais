@@ -10,6 +10,8 @@ c) 37 euros par hectolitre pour l'alcool éthylique d'origine agricole incorpor�
 
 2. Pour bénéficier de la réduction de la taxe intérieure de consommation, les unités de production des esters méthyliques d'huile végétale, d'alcool éthylique et de ses dérivés doivent être agréées par le ministre chargé du budget après avis du ministre chargé de l'agriculture et du ministre chargé de l'industrie, sur procédure d'appel à candidatures publiée au Journal officiel des Communautés européennes.
 
+Toutefois, si ces unités de production n'ont pas pour objet principal la production d'huiles utilisées comme carburant ou comme combustible, elles ne sont pas soumises à cette obligation. Dans ce cas, ces unités bénéficient d'une procédure de déclaration simplifiée définie par décret.
+
 2 bis. Pour l'année 2005, des agréments pour 130000 tonnes supplémentaires par rapport aux agréments accordés en 2004 seront lancés par appel d'offres communautaire.
 
 3. La durée de validité des agréments délivrés ne peut excéder six ans.

@@ -7,4 +7,3 @@
 - [Article L428-23](article-l428-23.md)
 - [Article L428-24](article-l428-24.md)
 - [Article L428-25](article-l428-25.md)
-- [Article L428-26](article-l428-26.md)

@@ -14,7 +14,15 @@ Sans préjudice des attributions de l'Assemblée permanente des chambres d'agric
 
 - donner un avis sur l'agrément des sociétés de gestion des sociétés d'épargne forestière en application de l'article L. 214-87 du code monétaire et financier ;
 
-- contribuer au rassemblement des données, notamment économiques, concernant la forêt privée.
+- contribuer aux actions de développement concernant la forêt et les arbres par l'animation, la coordination, la recherche et la formation ;
+
+- réaliser et diffuser tous travaux et études se rapportant au développement de la forêt ;
+
+- contribuer au rassemblement des données françaises, communautaires et internationales, notamment économiques, concernant la forêt privée et en assurer la diffusion ;
+
+- favoriser les échanges entre les organismes participant au développement de la forêt en France, sur le territoire de l'Union européenne et à l'étranger.
+
+Il peut être consulté par les pouvoirs publics et émettre des propositions sur toutes les questions relatives à la filière forêt-bois, au développement durable de la forêt et de ses fonctions économiques, environnementales et sociales, et à sa contribution à l'aménagement rural.
 
 Le Centre national professionnel de la propriété forestière est administré par un conseil d'administration composé :
 

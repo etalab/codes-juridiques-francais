@@ -1,6 +1,6 @@
 # Article L413-4
 
-I. - Sont soumis au contrôle de l'autorité administrative lorsqu'ils détiennent des animaux d'espèces non domestiques :
+I.-Sont soumis au contrôle de l'autorité administrative lorsqu'ils détiennent des animaux d'espèces non domestiques :
 
 1° Les établissements définis à l'article L. 413-3 ;
 
@@ -10,6 +10,6 @@ I. - Sont soumis au contrôle de l'autorité administrative lorsqu'ils détienne
 
 4° Les établissements et instituts spécialisés dans la recherche biomédicale, dans le contrôle biologique et dans les productions biologiques ;
 
-5° Les établissements d'élevage.
+5° Les établissements professionnels de chasse à caractère commercial visés à l'article L. 424-3.
 
-II. - Un décret en Conseil d'Etat précise les modalités d'application du présent article.
+II.-Un décret en Conseil d'Etat précise les modalités d'application du présent article.

@@ -1,4 +1,4 @@
-# Chapitre VII : Médecine du travail.
+# Chapitre VII : Les services de santé au travail.
 
 - [Article L717-1](article-l717-1.md)
 - [Article L717-2](article-l717-2.md)

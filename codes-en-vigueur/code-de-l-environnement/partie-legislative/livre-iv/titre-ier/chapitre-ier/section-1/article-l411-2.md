@@ -15,3 +15,5 @@ Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont fix�
 6° Les règles que doivent respecter les établissements autorisés à détenir ou élever hors du milieu naturel des spécimens d'espèces mentionnés au 1° ou au 2° du I de l'article L. 411-1 à des fins de conservation et de reproduction de ces espèces ;
 
 7° La liste des sites protégés mentionnés au 4° du I de l'article L. 411-1, les mesures conservatoires propres à éviter leur dégradation et la délivrance des autorisations exceptionnelles d'enlèvement des fossiles à des fins scientifiques ou d'enseignement.
+
+La liste des espèces animales non domestiques prévue au 1° est révisée tous les deux ans.

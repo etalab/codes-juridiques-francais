@@ -1,6 +1,6 @@
 # Article L428-15
 
-I. - Le permis de chasser ou l'autorisation de chasser mentionnée à l'article L. 423-2 peut être suspendu par l'autorité judiciaire :
+Le permis de chasser ou l'autorisation de chasser mentionnée à l'article L. 423-2 peut être suspendu par l'autorité judiciaire :
 
 1° En cas d'homicide involontaire ou de coups et blessures involontaires survenus à l'occasion d'une action de chasse ou de destruction d'animaux nuisibles ;
 
@@ -17,5 +17,3 @@ d) La destruction d'animaux des espèces protégées ;
 e) Les infractions au plan de chasse du grand gibier ;
 
 f) Les menaces ou violences contre des personnes commises à l'occasion de la constatation d'une infraction de chasse.
-
-II. - Ces infractions sont définies par les articles L. 428-1, L. 428-5 et par des dispositions réglementaires relatives à la chasse et aux parcs nationaux.

@@ -4,7 +4,7 @@ La mise en valeur et la protection des forêts sont reconnues d'intérêt géné
 
 La gestion durable des forêts garantit leur diversité biologique, leur productivité, leur capacité de régénération, leur vitalité et leur capacité à satisfaire, actuellement et pour l'avenir, les fonctions économique, écologique et sociale pertinentes, aux niveaux local, national et international, sans causer de préjudices à d'autres écosystèmes.
 
-Le développement durable des forêts implique un équilibre sylvo-cynégétique harmonieux permettant la régénération des peuplements forestiers dans des conditions économiques satisfaisantes pour le propriétaire. Cet équilibre est atteint notamment par l'application du plan de chasse défini aux articles L. 425-1 à L. 425-4 du code de l'environnement, complété le cas échéant par le recours aux dispositions des articles L. 427-4 à L. 427-7 dudit code.
+Le développement durable des forêts implique un équilibre sylvo-cynégétique harmonieux permettant la régénération des peuplements forestiers dans des conditions économiques satisfaisantes pour le propriétaire. Cet équilibre est atteint notamment par l'application du plan de chasse défini à la section 3 du chapitre V du titre II du livre IV du code de l'environnement, complété le cas échéant par le recours aux dispositions des articles L. 427-4 à L. 427-7 dudit code.
 
 La politique forestière participe à l'élaboration et à la mise en oeuvre d'autres politiques en matière notamment de développement rural, de défense et de promotion de l'emploi, de lutte contre l'effet de serre, de préservation de la diversité biologique, de protection des sols et des eaux et de prévention des risques naturels. Elle prend en considération les modifications et phénomènes climatiques.
 

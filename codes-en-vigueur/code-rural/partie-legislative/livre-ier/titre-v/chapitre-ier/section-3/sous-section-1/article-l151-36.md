@@ -12,7 +12,7 @@ Les départements, les communes ainsi que les groupements de ces collectivités 
 
 6° Irrigation, épandage, colmatage et limonage ;
 
-7° (alinéa abrogé).
+7° Les travaux de débardage par câble en zone de montagne ;
 
 Les personnes morales mentionnées au premier alinéa prennent en charge les travaux qu'elles ont prescrits ou exécutés. Elles peuvent toutefois, dans les conditions prévues à l'article L. 151-37, faire participer aux dépenses de premier établissement, d'entretien et d'exploitation des ouvrages les personnes qui ont rendu les travaux nécessaires ou qui y trouvent intérêt.
 
