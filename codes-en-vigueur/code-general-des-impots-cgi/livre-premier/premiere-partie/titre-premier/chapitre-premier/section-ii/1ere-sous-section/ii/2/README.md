@@ -12,6 +12,5 @@
 - [Article 39 octies B](article-39-octies-b.md)
 - [Article 39 terdecies](article-39-terdecies.md)
 - [Article 39 quaterdecies](article-39-quaterdecies.md)
-- [Article 39 quindecies](article-39-quindecies.md)
 - [Article 39 A](article-39-a.md)
 - [Article 39 E](article-39-e.md)

@@ -1,3 +1,0 @@
-# DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS.
-
-- [Article L23 A](article-l23-a.md)
