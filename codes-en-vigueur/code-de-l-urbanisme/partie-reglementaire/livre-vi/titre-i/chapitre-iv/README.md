@@ -1,4 +1,4 @@
-# CHAPITRE IV : Architectes-conseils
+# CHAPITRE IV : Architectes-conseils et paysagistes-conseils
 
 - [Article A614-1](article-a614-1.md)
 - [Article A614-2](article-a614-2.md)
