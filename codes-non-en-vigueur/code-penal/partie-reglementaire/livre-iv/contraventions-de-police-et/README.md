@@ -1,4 +1,3 @@
 # CONTRAVENTIONS DE POLICE ET PEINES
 
-- [CHAPITRE I](chapitre-i)
 - [CHAPITRE II](chapitre-ii)
