@@ -6,4 +6,3 @@
 - [INTERRUPTION DE LA PRESCRIPTION.](interruption-de-la-prescription)
 - [IMPOT SUR LES GRANDES FORTUNES.](impot-sur)
 - [TAXES SUR LE CHIFFRE D'AFFAIRES.](taxes-sur)
-- [TAXE LOCALE D'EQUIPEMENT.](taxe-locale-d-equipement)

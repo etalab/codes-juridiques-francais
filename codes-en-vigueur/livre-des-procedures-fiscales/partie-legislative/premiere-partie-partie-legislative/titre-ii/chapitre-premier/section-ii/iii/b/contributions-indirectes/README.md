@@ -9,4 +9,5 @@
 - [Article L33](article-l33.md)
 - [Article L34](article-l34.md)
 - [Article L35](article-l35.md)
+- [Article L36](article-l36.md)
 - [Article L36 B](article-l36-b.md)
