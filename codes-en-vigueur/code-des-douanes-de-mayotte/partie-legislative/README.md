@@ -10,6 +10,5 @@
 - [Titre VIII : Circulation et détention des marchandises à l'intérieur du territoire douanier](titre-viii)
 - [Titre IX : Navigation](titre-ix)
 - [Titre X : Zones franches.](titre-x)
-- [Titre XI : Contentieux](titre-xi)
 - [Titre XII : La commission de conciliation et d'expertise douanière.](titre-xii)
 - [Titre XIII : Contentieux des relations financières avec l'étranger](titre-xiii)
