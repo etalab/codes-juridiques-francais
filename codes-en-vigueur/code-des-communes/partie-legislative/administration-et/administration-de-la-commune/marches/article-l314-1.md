@@ -1,5 +1,7 @@
 # Article L314-1
 
-Les procès-verbaux des adjudications faites pour le compte des communes, des syndicats de communes ou des établissements communaux, ainsi que les marchés passés par écrit par ces mêmes collectivités, sont approuvés par l'autorité supérieure.
+Aux conventions de marché des communes et des établissements publics communaux ou intercommunaux transmises par application du II de l'article 2 de la loi n° 82-213 du 2 mars 1982 relative aux droits et libertés des communes, des départements et des régions, au représentant de l'Etat dans le département ou à son délégué dans l'arrondissement, dans un délai de quinze jours à compter de leur signature, l'autorité territoriale joint l'ensemble des pièces dont la liste est fixée par décret en Conseil d'Etat.
 
-Lorsque l'autorité supérieure, après le dépôt des procès-verbaux d'adjudication et des marchés passés par écrit, n'a pas fait connaître sa décision dans le délai fixé, ces actes sont considérés comme approuvés.
+" Elle certifie, par une mention apposée sur le marché notifié au titulaire, que celui-ci a bien été transmis en précisant la date de cette transmission.
+
+" Elle informe, dans un délai de quinze jours, le représentant de l'Etat dans le département ou son délégué dans l'arrondissement de la date de notification de ce marché. "

@@ -6,7 +6,7 @@ Les communes membres de la communauté urbaine peuvent transférer, en tout ou p
 
 La communauté urbaine peut transférer, en tout ou partie, aux communes membres certaines de ses compétences.
 
-Les transferts de compétences mentionnés au présent article sont décidés par délibérations concordantes du conseil de communauté et de tous les conseils municipaux des communes membres.
+Les transferts de compétences mentionnés au présent article sont décidés par délibérations concordantes du conseil de la communauté urbaine et de la majorité qualifiée des conseils municipaux des communes membres définie au deuxième alinéa de l'article L. 165-4.
 
 Ces délibérations déterminent les conditions financières et patrimoniales du transfert de compétences ainsi que l'affectation des personnels.
 

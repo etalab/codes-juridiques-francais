@@ -2,11 +2,15 @@
 
 Le bureau d'adjudication est constitué :
 
-Lorsqu'il s'agit d'une région, par le président du conseil régional ou son représentant, président, et par deux membres du conseil régional désignés par celui-ci ; le comptable de la région ou son représentant assiste à l'adjudication ; il peut formuler des avis ;
+Lorsqu'il s'agit d'une région, par le président du conseil régional ou son représentant, président, et par cinq membres du conseil élus en son sein à la représentation proportionnelle au plus fort reste ; le comptable de la région ou son représentant assiste à l'adjudication ; il peut formuler des avis ;
 
-Lorsqu'il s'agit d'un département, par le président du conseil général ou son représentant, président, et par deux membres du conseil général désignés par celui-ci ; le comptable du département ou son représentant assiste à l'adjudication ; il peut formuler des avis ;
+Lorsqu'il s'agit d'un département, par le président du conseil général ou son représentant, président, et par cinq membres du conseil élus en son sein à la représentation proportionnelle au plus fort reste ; le comptable du département ou son représentant assiste à l'adjudication ; il peut formuler des avis ;
 
-Lorsqu'il s'agit d'une commune, par le maire, président, et par deux membres du conseil municipal désignés à l'avance par le conseil ou, à défaut de cette désignation, appelés dans l'ordre du tableau ; le receveur municipal assiste à l'adjudication, il peut formuler des avis ;
+Lorsqu'il s'agit d'une commune de 3.500 habitants et plus, par le maire, président ou son représentant, et par cinq membres du conseil municipal élus par le conseil à la représentation proportionnelle au plus fort reste ; le receveur municipal assiste à l'adjudication, il peut formuler des avis ;
+
+Lorsqu'il s'agit d'une commune de moins de 3.500 habitants par le maire, ou son représentant, et par trois membres du conseil municipal élus par le conseil à la représentation proportionnelle au plus fort reste ; le receveur municipal assiste à l'adjudication, il peut formuler des avis ;
+
+Dans tous les cas énumérés ci-dessus, il est procédé, selon les mêmes modalités, à l'élection de suppléants en nombre égal à celui des membres titulaires.
 
 Lorsqu'il s'agit d'un établissement public local, par le représentant légal de l'établissement, président, et par deux membres de l'assemblée délibérante de l'établissement désignés par celle-ci ; le comptable de l'établissement assiste à l'adjudication, il peut formuler des avis ;
 
