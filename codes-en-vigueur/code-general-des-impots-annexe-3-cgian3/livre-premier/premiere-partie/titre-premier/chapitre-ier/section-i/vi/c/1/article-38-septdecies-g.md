@@ -42,10 +42,10 @@ b) 1° Les entreprises gérant des valeurs acquises dans le cadre de la législa
 
 4° Les gestionnaires ou dépositaires de fonds communs de placement pour la souscription des parts du fonds ;
 
-5° Les sociétés commerciales pour la souscription des actions reçues en dépôt en application des articles 95 et 130 modifiés de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales ;
+5° Les sociétés commerciales pour la souscription des actions reçues en dépôt en application des articles L. 225-25 et L. 225-72 du code de commerce ;
 
 6° Les coopératives artisanales et leurs unions, les coopératives d'entreprises de transports, les coopératives artisanales de transport fluvial ainsi que les coopératives maritimes et leurs unions, visées aux titres I et II et au chapitre Ier du titre III de la loi n° 83-657 du 20 juillet 1983 relative au développement de certaines activités d'économie sociale, lorsque ces sociétés fonctionnent conformément aux dispositions de la loi précitée, pour la souscription ou la cession de leurs parts ou actions ;
 
-7° Les sociétés coopératives agricoles et leurs unions régies par les articles L. 521-1 à L. 526-2 du code rural pour la souscription ou la cession de leurs parts ou actions ;
+7° Les sociétés coopératives agricoles et leurs unions régies par les articles L. 521-1 à L. 526-2 du code rural et de la pêche maritime pour la souscription ou la cession de leurs parts ou actions ;
 
-8° Les caisses locales de crédit agricole mutuel ainsi que les caisses de crédit mutuel agricole et rural régies par le titre Ier du livre V du code rural, pour la souscription ou la cession de leurs parts.
+8° Les caisses locales de crédit agricole mutuel ainsi que les caisses de crédit mutuel agricole et rural régies par le titre Ier du livre V du code rural et de la pêche maritime, pour la souscription ou la cession de leurs parts.
