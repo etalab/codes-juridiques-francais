@@ -5,4 +5,3 @@
 - [Article L3553-3](article-l3553-3.md)
 - [Article L3553-4](article-l3553-4.md)
 - [Article L3553-5](article-l3553-5.md)
-- [Article L3553-6](article-l3553-6.md)
