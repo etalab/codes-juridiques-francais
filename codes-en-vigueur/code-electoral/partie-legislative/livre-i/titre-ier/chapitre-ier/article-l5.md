@@ -12,6 +12,6 @@ Ne doivent pas être inscrits sur la liste électorale :
 
 4° ceux qui sont en état de contumace;
 
-5° les faillis non réhabilités dont la faillite a été déclarée soit par des tribunaux français, soit par un jugement rendu à l'étranger, mais exécutoire en France;
+5° les personnes condamnées à la faillite personnelle ou dont la faillite a été déclarée par un jugement rendu à l'étranger mais exécutoire en France;
 
 6° les majeurs en tutelle.

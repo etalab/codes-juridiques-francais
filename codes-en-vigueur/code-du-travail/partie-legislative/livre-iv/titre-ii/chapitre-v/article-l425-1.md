@@ -21,3 +21,5 @@ La procédure prévue à l'alinéa précédent ne peut s'appliquer qu'à un seul
 L'interruption du fait de l'entrepreneur de travail temporaire ou la notification faite par lui du non-renouvellement de la mission d'un travailleur temporaire délégué ou ancien délégué du personnel ou candidat à ces fonctions est soumise à la procédure définie au présent article.
 
 Cette procédure est également applicable aux délégués du personnel institués par voie conventionnelle.
+
+En cas de redressement judiciaire, tout licenciement d'un salarié mentionné aux précédents alinéas est soumis à la procédure définie au présent article.
