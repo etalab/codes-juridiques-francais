@@ -1,5 +1,6 @@
 # III : Bénéfices industriels et commerciaux
 
+- [L : Déclarations et documents](l)
 - [C : Provisions pour hausse des prix](c)
 - [D : Provisions pour reconstitution des gisements](d)
 - [M : Renseignements à fournir par les entreprises à l'appui de la déclaration prévue à l'article 53 A du code général des impôts](m)
