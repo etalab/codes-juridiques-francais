@@ -1,3 +1,0 @@
-# PARAGRAPHE 3 : TRAVAIL INTERMITTENT.
-
-- [Article L212-4-8](article-l212-4-8.md)
