@@ -1,5 +1,5 @@
 # Article L115-3
 
-Toute personne ou famille éprouvant des difficultés particulières du fait d'une situation de précarité a droit à une aide de la collectivité pour accéder ou pour préserver son accès à une fourniture d'eau, d'énergie et de services téléphoniques.
+Dans les conditions fixées par la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement, toute personne ou famille éprouvant des difficultés particulières, au regard notamment de son patrimoine, de l'insuffisance de ses ressources ou de ses conditions d'existence, a droit à une aide de la collectivité pour disposer de la fourniture d'eau, d'énergie et de services téléphoniques dans son logement.
 
-Le maintien de la fourniture d'énergie et d'eau est garanti en cas de non-paiement des factures jusqu'à l'intervention du dispositif prévu à l'article L. 261-4.
+En cas de non-paiement des factures, la fourniture d'énergie, d'eau ainsi que d'un service téléphonique restreint est maintenue jusqu'à ce qu'il ait été statué sur la demande d'aide. Le service téléphonique restreint comporte la possibilité, depuis un poste fixe, de recevoir des appels ainsi que de passer des communications locales et vers les numéros gratuits, et d'urgence.

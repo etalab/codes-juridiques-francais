@@ -1,7 +1,15 @@
 # Article L263-15
 
-Un fonds d'aide aux jeunes, destiné à favoriser l'insertion sociale et professionnelle des jeunes en difficulté âgés de dix-huit à vingt-cinq ans, est institué dans chaque département.
+I. - Le département est compétent pour attribuer aux jeunes en difficulté, âgés de dix-huit à vingt-cinq ans, des aides destinées à favoriser leur insertion sociale et professionnelle et, le cas échéant, leur apporter des secours temporaires de nature à faire face à des besoins urgents.
 
-Le fonds départemental prend en charge, après avis d'un comité local et en supplément des autres dispositifs mis en oeuvre pour l'insertion des jeunes, des aides financières directes accordées aux jeunes, pour une durée limitée et à titre subsidiaire, ainsi que les mesures d'accompagnement nécessaires.
+A cette fin, il est créé dans chaque département un fonds d'aide aux jeunes, placé sous l'autorité du président du conseil général. Ce fonds se substitue à celui ayant le même objet institué dans le département avant l'entrée en vigueur de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales.
 
-Les conditions d'attribution des aides et les modalités de fonctionnement des comités locaux sont déterminées par voie réglementaire.
+Le financement du fonds d'aide aux jeunes est assuré par le département. Les autres collectivités territoriales, leurs groupements et les organismes de protection sociale peuvent y participer.
+
+II. - Le règlement intérieur du fonds est adopté par le conseil général après avis du conseil départemental d'insertion. Il détermine les conditions et les modalités d'attribution des aides, notamment en cas d'urgence, et les conditions de mise en oeuvre des mesures d'accompagnement.
+
+Aucune durée minimale de résidence dans le département n'est exigée pour l'attribution d'une aide du fonds.
+
+Tout jeune bénéficiaire d'une aide du fonds fait l'objet d'un suivi dans sa démarche d'insertion.
+
+III. - Les aides du fonds d'aide aux jeunes sont attribuées sans qu'il soit tenu compte de la participation pouvant être demandée aux personnes tenues à l'obligation alimentaire à l'égard de l'intéressé.

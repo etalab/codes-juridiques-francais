@@ -8,7 +8,7 @@ Le domaine public fluvial comprend :
 
 - Les rivières canalisées, les canaux de navigation, étangs ou réservoirs d'alimentation, contrefossés et autres dépendances ;
 
-- Les ports publics situés sur les voies navigables et leurs dépendances ;
+- Les ports intérieurs et leurs dépendances ;
 
 - Les ouvrages publics construits dans le lit ou sur les bords des voies navigables ou flottables pour la sûreté et la facilité de la navigation ou du halage ;
 
@@ -16,6 +16,6 @@ Le domaine public fluvial comprend :
 
 - Les cours d'eau et lacs ainsi que leurs dérivations classés dans le domaine public selon la procédure fixée à l'article 2-1 en vue d'assurer l'alimentation en eau des voies navigables, les besoins en eau de l'agriculture et de l'industrie, l'alimentation des populations ou la protection contre les inondations ;
 
-- les cours d'eaux, canaux, lacs et plans d'eau appartenant au domaine public fluvial des collectivités territoriales et de leurs groupements ;
+- les cours d'eau, canaux, lacs, plans d'eau et ports intérieurs appartenant au domaine public fluvial des collectivités territoriales et de leurs groupements ;
 
 - Les cours d'eau et les lacs appartenant au domaine public sont appelés cours d'eau et lacs domaniaux.

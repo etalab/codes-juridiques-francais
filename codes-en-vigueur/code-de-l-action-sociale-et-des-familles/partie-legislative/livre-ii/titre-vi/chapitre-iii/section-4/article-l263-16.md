@@ -1,3 +1,5 @@
 # Article L263-16
 
-Il peut être créé, dans le ressort du département, par convention entre l'Etat, le département, une ou plusieurs communes, des fonds locaux d'aide aux jeunes répondant à l'objectif défini au premier alinéa de l'article L. 263-15, et permettant d'attribuer les aides et de mettre en oeuvre les mesures d'accompagnement prévues au deuxième alinéa du même article.
+Le président du conseil général peut, par convention, confier tout ou partie de la gestion du fonds prévu à l'article L. 263-15 à une ou plusieurs communes ou à un ou plusieurs établissements publics de coopération intercommunale.
+
+Il peut confier, par convention, la gestion financière et comptable du fonds départemental, sous sa responsabilité et son contrôle, à un organisme de sécurité sociale, une association ou un groupement d'intérêt public.

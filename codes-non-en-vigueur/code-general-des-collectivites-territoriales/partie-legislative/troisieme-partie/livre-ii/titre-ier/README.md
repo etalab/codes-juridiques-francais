@@ -5,4 +5,3 @@
 - [CHAPITRE III : Gestion du patrimoine](chapitre-iii)
 - [CHAPITRE IV : Action sociale](chapitre-iv)
 - [CHAPITRE V : Travaux](chapitre-v)
-- [CHAPITRE VI : Elections.](chapitre-vi)
