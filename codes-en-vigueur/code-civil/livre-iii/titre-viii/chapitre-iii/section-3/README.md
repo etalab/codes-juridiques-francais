@@ -10,6 +10,7 @@
 - [Article 1792-2](article-1792-2.md)
 - [Article 1792-3](article-1792-3.md)
 - [Article 1792-4](article-1792-4.md)
+- [Article 1792-5](article-1792-5.md)
 - [Article 1792-6](article-1792-6.md)
 - [Article 1793](article-1793.md)
 - [Article 1794](article-1794.md)
