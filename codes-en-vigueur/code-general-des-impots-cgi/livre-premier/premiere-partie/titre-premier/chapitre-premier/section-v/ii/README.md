@@ -13,6 +13,7 @@
 - [20° : Réduction d'impôt accordée au titre des dons faits par les particuliers](20)
 - [21° : Crédit d'impôt accordé au titre des dépenses d'entretien afférentes à l'habitation principale.](21)
 - [22° : Crédit d'impôt pour l'acquisition de certains gros équipements.](22)
+- [24° : Crédit d'impôt pour l'acquisition ou la location de certains véhicules automobiles.](24)
 - [3° : Réduction d'impôt accordée au titre des cotisations versées aux organisations syndicales](3)
 - [4° : Réduction d'impôt accordée au titre des frais de garde des jeunes enfants.](4)
 - [6° : Réduction d'impôt accordée au titre des frais de scolarité des enfants poursuivant des études secondaires ou supérieures](6)
