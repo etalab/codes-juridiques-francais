@@ -12,6 +12,8 @@
 - [Article D509](article-d509.md)
 - [Article D510](article-d510.md)
 - [Article D511](article-d511.md)
+- [Article D512](article-d512.md)
+- [Article D518](article-d518.md)
 - [Article D519](article-d519.md)
 - [Article D520](article-d520.md)
 - [Article D521](article-d521.md)
