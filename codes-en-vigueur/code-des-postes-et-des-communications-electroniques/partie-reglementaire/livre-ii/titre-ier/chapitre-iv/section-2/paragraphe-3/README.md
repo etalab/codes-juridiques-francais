@@ -2,5 +2,5 @@
 
 - [1. : Indication de durée.](1)
 - [2. : Avis d'appel.](2)
-- [3. : Préavis.](3)
+- [5. : Communications avec un ordinateur.](5)
 - [6. : Communication avec un véhicule.](6)
