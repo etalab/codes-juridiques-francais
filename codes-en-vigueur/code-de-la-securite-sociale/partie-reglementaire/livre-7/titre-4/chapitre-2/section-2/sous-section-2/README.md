@@ -9,6 +9,7 @@
 - [Article D742-24](article-d742-24.md)
 - [Article D742-25](article-d742-25.md)
 - [Article D742-25-1](article-d742-25-1.md)
+- [Article D742-25-2](article-d742-25-2.md)
 - [Article D742-26](article-d742-26.md)
 - [Article D742-27](article-d742-27.md)
 - [Article D742-28](article-d742-28.md)
