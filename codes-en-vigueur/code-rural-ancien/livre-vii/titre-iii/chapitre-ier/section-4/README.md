@@ -1,5 +1,6 @@
 # Section 4 : Organisation administrative et financière.
 
+- [Article 1150](article-1150.md)
 - [Article 1151](article-1151.md)
 - [Article 1152](article-1152.md)
 - [Article 1153](article-1153.md)
