@@ -6,5 +6,4 @@
 - [Chapitre IV : Les prophylaxies organisées.](chapitre-iv)
 - [Chapitre V : Les contrôles sanitaires facultatifs.](chapitre-v)
 - [Chapitre VI : L'équarrissage.](chapitre-vi)
-- [Chapitre VII : Pharmacie vétérinaire et réactifs.](chapitre-vii)
 - [Chapitre VIII : Dispositions pénales.](chapitre-viii)
