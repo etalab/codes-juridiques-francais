@@ -5,4 +5,3 @@
 - [CHAMP D'APPLICATION](champ-d-application)
 - [LIQUIDATION DE LA TAXE.](liquidation-de-la-taxe)
 - [OBLIGATIONS DES REDEVABLES](obligations-des-redevables)
-- [REGIMES SPECIAUX.](regimes-speciaux)
