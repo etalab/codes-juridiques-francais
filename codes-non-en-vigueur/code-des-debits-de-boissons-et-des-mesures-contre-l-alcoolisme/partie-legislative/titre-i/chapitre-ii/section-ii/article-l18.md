@@ -1,9 +1,9 @@
 # Article L18
 
-Toute publicité en faveur des boissons contenant plus de un degré d'alcool doit comporter un conseil de modération concernant la consommation de ces produits alcooliques. Elle ne peut présenter les boissons comme dotées ou dénuées d'effets physiologiques ou psychologiques. Elle ne doit comporter aucune incitation dirigée vers les mineurs ni évoquer d'aucune façon la sexualité, le sport, le travail, les machines et véhicules à moteur. Elle ne doit pas avoir recours à des personnalités connues pour une activité n'ayant pas de rapport avec la production ou la distribution de boissons alcooliques.
+La publicité autorisée pour les boissons alcooliques est limitée à l'indication du degré volumique d'alcool, de l'origine, de la dénomination, de la composition du produit, du nom et de l'adresse du fabricant, des agents et des dépositaires ainsi que du mode d'élaboration, des modalités de vente et du mode de consommation du produit.
 
-Le conditionnement ne peut être reproduit que s'il répond aux exigences mentionnées au premier alinéa du présent article.
+Cette publicité peut comporter en outre des références relatives aux terroirs de production et aux distinctions obtenues.
 
-Quand les éléments caractéristiques des publicités pour les boissons alcooliques, notamment la marque, la dénomination, les graphiques ou les couleurs déposés, sont utilisés dans des activités de parrainage ou dans une publicité, les dispositions régissant la publicité pour les boissons alcooliques s'appliquent à ces activités de parrainage ou à cette publicité.
+Le conditionnement ne peut être reproduit que s'il est conforme aux dispositions précédentes.
 
-Un décret en Conseil d'Etat prévoit, en tant que de besoin, les modalités que doivent respecter les messages et supports publicitaires pour être conformes à ces obligations.
+Toute publicité en faveur de boissons alcooliques, à l'exception des circulaires commerciales destinées aux personnes agissant à titre professionnel, doit être assortie d'un message de caractère sanitaire précisant que l'abus d'alcool est dangereux pour la santé.
