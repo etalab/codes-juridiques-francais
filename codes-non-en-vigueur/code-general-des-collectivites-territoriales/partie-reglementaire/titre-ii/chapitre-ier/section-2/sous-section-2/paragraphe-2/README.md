@@ -1,5 +1,6 @@
-# Paragraphe 2 : Conseil d'administration (R).
+# Paragraphe 2 : Régime financier (R)
 
+- [Sous-paragraphe 2 : Budget (R)](sous-paragraphe-2)
 - [Article R2221-12](article-r2221-12.md)
 - [Article R2221-13](article-r2221-13.md)
 - [Article R2221-14](article-r2221-14.md)

@@ -1,5 +1,6 @@
-# Paragraphe 2 : Conseil d'exploitation (R).
+# Paragraphe 2 : Régime financier (R)
 
+- [Sous-paragraphe 2 : Budget (R)](sous-paragraphe-2)
 - [Article R2221-58](article-r2221-58.md)
 - [Article R2221-59](article-r2221-59.md)
 - [Article R2221-60](article-r2221-60.md)
