@@ -7,3 +7,4 @@
 - [CHAPITRE V : Cautionnements.](chapitre-v)
 - [CHAPITRE VI : Groupements d'employeurs.](chapitre-vi)
 - [CHAPITRE VII : Associations intermédiaires.](chapitre-vii)
+- [CHAPITRE VIII : Titre de travail simplifié.](chapitre-viii-titre)
