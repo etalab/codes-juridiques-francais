@@ -5,3 +5,4 @@
 - [Section III : Dispositions particulières en matière de baux commerciaux](section-iii)
 - [Section IV : Dispositions particulières aux professions juridiques et judiciaires](section-iv)
 - [Section V : Dispositions particulières en matière commerciale](section-v)
+- [Section VI : Dispositions particulières à la saisie immobilière](section-vi)
