@@ -3,6 +3,7 @@
 - [Article 1142-1](article-1142-1.md)
 - [Article 1142-2](article-1142-2.md)
 - [Article 1142-4](article-1142-4.md)
+- [Article 1142-5](article-1142-5.md)
 - [Article 1142-6](article-1142-6.md)
 - [Article 1142-7](article-1142-7.md)
 - [Article 1142-8](article-1142-8.md)
