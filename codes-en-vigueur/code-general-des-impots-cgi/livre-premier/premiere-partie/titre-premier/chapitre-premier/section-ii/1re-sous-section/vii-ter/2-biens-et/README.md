@@ -3,6 +3,7 @@
 - [Article 150 I](article-150-i.md)
 - [Article 150 V](article-150-v.md)
 - [Article 150 L](article-150-l.md)
+- [Article 150 C](article-150-c.md)
 - [Article 150 M bis](article-150-m-bis.md)
 - [Article 150 A](article-150-a.md)
 - [Article 150 A ter](article-150-a-ter.md)

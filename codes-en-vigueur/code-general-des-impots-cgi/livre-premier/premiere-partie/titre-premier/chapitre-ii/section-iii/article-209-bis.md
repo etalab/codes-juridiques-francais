@@ -4,6 +4,6 @@
 
 2  (Abrogé)
 
-3  Par dérogation aux dispositions du 1, l'avoir fiscal attaché aux dividendes des sociétés françaises perçus par les caisses de retraite et de prévoyance et par les fondations et associations reconnues d'utilité publique est reçu en paiement de l'impôt sur les sociétés dû par ces organismes. Il est restitué dans la mesure où son montant excède celui de l'impôt dont elles sont redevables.
+3  Par dérogation aux dispositions du 1, l'avoir fiscal attaché aux dividendes des sociétés françaises perçus par les caisses de retraite et de prévoyance et par les fondations et associations reconnues d'utilité publique est reçu en paiement de l'impôt sur les sociétés dû par ces organismes. L'excédent éventuel est restitué dans la mesure où ces organismes ne détiennent pas des titres qui représentent au moins 10 p. 100 du capital de la société émettrice.
 
 4 Le crédit d'impôt mentionné au I et non imputé sur l'impôt sur les sociétés dû au titre du dernier exercice clos est admis, pour 58 p. 100 de son montant, en paiement du supplément d'impôt prévu au c du paragraphe I de l'article 219 à l'exception de la part afférente aux acomptes sur distributions.

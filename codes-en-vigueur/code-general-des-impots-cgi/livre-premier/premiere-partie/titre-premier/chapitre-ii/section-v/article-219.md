@@ -2,7 +2,7 @@
 
 I. Pour le calcul de l'impôt, toute fraction du bénéfice imposable inférieure à 10 F est négligée.
 
-Le taux normal de l'impôt est fixé à 34 % (1).
+Le taux normal de l'impôt est fixé à 33,1/3 % (1).
 
 Toutefois :
 
@@ -36,9 +36,9 @@ Les moins-values à long terme existant à l'ouverture du premier exercice clos 
 
 " Les moins-values à long terme afférentes à des éléments d'actif qui relevaient du taux de 19 p. cent mentionné au a du I du présent article existant à l'ouverture du premier exercice clos à compter du 1er novembre 1990 et restant à reporter après compensation avec les plus-values relevant du taux de 18 p. cent peuvent s'imputer sur les bénéfices imposables, pour une fraction de leur montant égale au rapport qui existe entre le taux de 18 p. cent et le taux normal de l'impôt sur les sociétés. Cette imputation n'est possible que dans la limite des profits nets retirés de la cession de titres acquis depuis deux ans au moins et qui entrent dans le champ d'application des troisième et quatrième alinéas ci-dessus, corrigés des provisions sur titres déduites ou réintégrées dans les résultats, diminués, le cas échéant, de la déduction prévue à l'alinéa précédent.
 
-Ces dispositions s'appliquent pour la détermination des résultats des exercices clos à compter du 1er octobre 1991.
-
 " L'excédent des moins-values à long terme subies au cours d'un exercice clos à compter du 1er octobre 1991 peut être déduit des bénéfices de l'exercice de liquidation d'une entreprise intervenue au cours des exercices ouverts à compter du 1er janvier 1991 à raison des dix-huit trente-quatrièmes de son montant. "
+
+Ces dispositions s'appliquent pour la détermination des résultats des exercices clos à compter du 1er octobre 1991.
 
 b. (Disposition périmée).
 
@@ -51,6 +51,8 @@ Pour les distributions effectuées au cours des exercices ouverts à compter du 
 Pour les distributions effectuées au cours des exercices ouverts à compter du 1er janvier 1991, le taux du supplément d'impôt défini au deuxième alinéa est porté à 8/58 du montant net distribué, à concurrence de la somme algébrique des résultats comptables de ces mêmes exercices, ainsi que des sommes réputées distribuées.
 
 " Le taux de l'impôt sur les sociétés est fixé, selon les modalités prévues ci-après, à 34 p. 100 pour les distributions, au sens du présent code, effectuées par les entreprises au cours des exercices ouverts à compter du 1er janvier 1992. Pour ces exercices le taux du supplément d'impôt sur les sociétés défini au deuxième alinéa est réduit à 0 p. 100 du montant net distribué à concurrence de la somme algébrique des résultats comptables de ces mêmes exercices ainsi que des sommes réputées distribuées. "
+
+Les dispositions du présent c sont abrogées pour les distributions mises en paiement au cours des exercices ouverts à compter du 1er janvier 1993 ainsi que pour les sommes réputées distribuées au cours de l'exercice qui précède le premier exercice ouvert à compter de cette date.
 
 d. Les distributions pour lesquelles le précompte mobilier prévu à l'article 223 sexies a été acquitté ne sont pas retenues pour l'application des dispositions du c. Il en est de même des distributions payées en actions en application de l'article 13 de la loi n° 83-1 du 3 janvier 1983 sur le développement des investissements et la protection de l'épargne pour la fraction de leur montant égale au rapport qui existe entre les distributions pour lesquelles le précompte n'a pas été acquitté et le total des bénéfices distribués.
 
@@ -78,7 +80,7 @@ a. Le taux réduit de l'impôt sur les sociétés est fixé à 25 % ;
 
 b. L'application de ce taux réduit est subordonnée à la condition que les opérations de construction correspondantes présentent un caractère accessoire pour la société intéressée.
 
-(1) Ce taux s'applique aux exercices ouverts à compter du 1er janvier 1991. Il était fixé à 37 % pour les exercices ouverts à compter du 1er janvier 1990, à 39 % pour les exercices ouverts entre le 1er janvier 1989 et le 31 décembre 1989, à 42 % pour les exercices ouverts entre le 1er janvier 1988 et le 31 décembre 1988 et à 45 % pour les exercices ouverts entre le 1er janvier 1987 et le 31 décembre 1987.
+(1) Ce taux s'applique aux exercices ouverts à compter du 1er janvier 1993. Il était fixé à 34 % pour les exercices ouverts à compter du 1er janvier 1991, à 37 % pour les exercices ouverts à compter du 1er janvier 1990, à 39 % pour les exercices ouverts entre le 1er janvier 1989 et le 31 décembre 1989, à 42 % pour les exercices ouverts entre le 1er janvier 1988 et le 31 décembre 1988 et à 45 % pour les exercices ouverts entre le 1er janvier 1987 et le 31 décembre 1987.
 
 (2) Voir annexe III, art. 46 quater-0 ZY.
 

@@ -8,4 +8,3 @@
 - [Article 795 A](article-795-a.md)
 - [Article 796](article-796.md)
 - [Article 797](article-797.md)
-- [Article 797 A](article-797-a.md)

@@ -8,11 +8,11 @@ Le précompte est exigible en cas de distribution de bénéfices ayant été pri
 
 Lorsque les sommes distribuées sont prélevées sur la réserve spéciale des plus-values à long terme, le précompte dû ne peut excéder un montant égal à la différence entre :
 
-a. Le produit du taux de l'impôt sur les sociétés visé au premier alinéa du c du I de l'article 219 du code général des impôts et du montant de la somme prélevée augmenté de l'impôt correspondant supporté lors de la réalisation de la plus-value à long terme ;
+a. Le produit du taux normal de l'impôt sur les sociétés mentionné au I de l'article 219 du code général des impôts et du montant de la somme prélevée augmenté de l'impôt correspondant supporté lors de la réalisation de la plus-value à long terme (1);
 
 b. Le montant de ce dernier impôt.
 
-2. Un décret fixe les modalités d'application du présent article. Il précise notamment les postes du bilan sur lesquels les répartitions doivent être imputées ainsi que l'ordre de cette imputation (1).
+2. Un décret fixe les modalités d'application du présent article. Il précise notamment les postes du bilan sur lesquels les répartitions doivent être imputées ainsi que l'ordre de cette imputation (2).
 
 3. Les dispositions du présent article ne sont pas applicables aux produits distribués :
 
@@ -32,10 +32,10 @@ b. Le montant de ce dernier impôt.
 
 8° Par les sociétés qui, à la date de la distribution ainsi qu'à la clôture de l'exercice dont les résultats sont distribués, ont pour activité exclusive la gestion d'un portefeuille de titres de participations, ont deux tiers au moins de leur actif immobilisé composé de participations dans des sociétés dont le siège social est situé hors de France qui ouvrent droit au régime prévu aux articles 145 et 216 et retirent de ces participations deux tiers au moins de leur bénéfice comptable hors plus-values.
 
-Toutefois, l'exonération de précompte ne s'applique que pour la partie de la distribution qui provient des dividendes de ces participations (2).
+Toutefois, l'exonération de précompte ne s'applique que pour la partie de la distribution qui provient des dividendes de ces participations (3).
 
-effectuées à compter du 1er janvier 1990.
+(1) Ces dispositions sont applicables aux distributions effectuées au cours d'un exercice ouvert à compter du 1er janvier 1993.
 
-(1) Annexe III, art. 46 quater-0C à 46 quater-0F et 381 T.
+(2) Annexe III, art. 46 quater-0C à 46 quater-0F et 381 T.
 
-(2) Annexe III, art. 46 quater-0 FA.
+(3) Annexe III, art. 46 quater-0 FA.
