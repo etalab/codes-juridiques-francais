@@ -1,6 +1,6 @@
 # Article 352
 
-Les dispositions des articles 177, 178, 178 bis, 179, 180, 181, 182 et 183 sont applicables aux collectivités et établissements mentionnés à l'article 250.
+Les dispositions des articles 177, 178, 178 bis, 179, 180, 181, 182 et 183 sont applicables aux collectivités et établissements mentionnés à l'article 250 sous réserve de celles prévues à l'article 352 bis.
 
 L'avance forfaitaire dont les modalités de versement sont déterminées au V de l'article 178 et au VII de l'article 178 bis est définie à l'article 336. Cette avance ne peut être mandatée ou faire l'objet de l'autorisation définie au I de l'article 178 bis qu'après constitution par le titulaire d'une garantie ou d'une caution s'il en a été prévu une.
 

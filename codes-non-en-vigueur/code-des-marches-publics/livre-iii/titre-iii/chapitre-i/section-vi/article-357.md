@@ -1,5 +1,3 @@
 # Article 357
 
-Les dispositions de l'article 186 quater s'appliquent aux collectivités et établissements mentionnés à l'article 250.
-
-Les travaux et achats mentionnés à l'article 186 quater sont définis à l'article 321.
+Les dispositions de l'article 178, compte tenu des dispositions de l'article 352 bis, et les dispositions de l'article 182 sont applicables aux travaux sur mémoires et achats sur factures.

@@ -1,6 +1,6 @@
 # Article 178 bis
 
-Les marchés entrant dans le champ d'application du présent livre peuvent prévoir l'utilisation de la lettre de change-relevé dans les conditions suivantes :
+Les marchés entrant dans le champ d'application du présent livre à l'exception des achats de denrées alimentaires visées à l'article 178 ter, peuvent prévoir l'utilisation de la lettre de change-relevé dans les conditions suivantes :
 
 I. - En vue du règlement des acomptes et du solde, l'administration contractante est tenue d'envoyer au titulaire du marché, dans un délai qui ne peut dépasser trente jours, une autorisation d'émettre une lettre de change-relevé conforme à un modèle fixé par arrêté du ministre chargé du budget ; toutefois, pour le solde de certaines catégories de marchés, un délai plus long peut être fixé par arrêté du ministre chargé de l'économie et des finances. Ce délai ne peut être supérieur à trois mois.
 
@@ -14,7 +14,7 @@ III. - Le délai prévu au I du présent article ne peut être suspendu qu'une s
 
 Le délai laissé à l'ordonnateur pour envoyer l'autorisation, à compter de la fin de la suspension, ne peut, en aucun cas, être inférieur à quinze jours.
 
-IV. - L'échéance de la lettre de change-relevé est fixée dans le marché. Cette échéance est postérieure de trente, quarante, cinquante ou soixante jours à la date effective d'émission de l'autorisation visée au I du présent article.
+IV. - L'échéance de la lettre de change-relevé est fixée dans le marché. Cette échéance est postérieure de trente ou trente-cinq jours à la date effective d'émission de l'autorisation visée au I du présent article.
 
 L'échéance de la lettre de change-relevé ne peut être modifiée.
 
@@ -30,7 +30,7 @@ Lorsqu'un désaccord intervient postérieurement à l'envoi de l'autorisation pr
 
 VII. - L'ordonnateur doit procéder d'office à l'envoi de l'autorisation visée au I du présent article pour le versement de l'avance prévue à l'article 154 dès qu'il a eu connaissance de la date d'effet de l'acte emportant commencement d'exécution du marché. Toutefois, cette autorisation ne peut être envoyée avant que le titulaire ait justifié, le cas échéant, de la constitution d'une garantie à première demande ou d'une caution.
 
-VIII. - L'administration contractante procède au mandatement des avances, acomptes ou soldes, de telle sorte que le dossier de mandatement soit reçu par le comptable au moins vingt et un jours avant la date d'échéance de la lettre de change-relevé.
+VIII. - L'administration contractante procède au mandatement des avances, acomptes ou soldes, de telle sorte que le dossier de mandatement soit reçu par le comptable au moins dix-huit jours avant la date d'échéance de la lettre de change-relevé.
 
 En cas de suspension de paiement, le nouveau dossier de mandatement ou l'ordre de réquisition doit être reçu par le comptable au moins cinq jours ouvrés avant l'échéance de la lettre de change-relevé.
 

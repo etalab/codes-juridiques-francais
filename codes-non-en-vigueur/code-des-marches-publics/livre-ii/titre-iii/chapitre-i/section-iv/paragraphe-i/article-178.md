@@ -1,6 +1,6 @@
 # Article 178
 
-I. - L'administration contractante est tenue de procéder au mandatement des acomptes et du solde dans un délai qui ne peut dépasser quarante-cinq jours ; toutefois, pour le solde de certaines catégories de marchés, un délai plus long peut être fixé par arrêté du ministre chargé de l'économie et des finances. Ce délai ne peut être supérieur à trois mois.
+I. - L'administration contractante est tenue de procéder au mandatement des acomptes et du solde dans un délai qui ne peut dépasser trente-cinq jours ; toutefois, pour le solde de certaines catégories de marchés, un délai plus long peut être fixé par arrêté du ministre chargé de l'économie et des finances. Ce délai ne peut être supérieur à trois mois.
 
 Le délai de mandatement est précisé dans le marché.
 
