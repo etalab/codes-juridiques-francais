@@ -1,10 +1,10 @@
 # Article L126-1
 
-Afin de favoriser une meilleure répartition des terres entre les productions agricoles, la forêt et les espaces de nature ou de loisirs en milieu rural, les préfets peuvent, après avis des chambres d'agriculture et des centres régionaux de la propriété forestière, définir :
+Afin de favoriser une meilleure répartition des terres entre les productions agricoles, la forêt, les espaces de nature ou de loisirs et les espaces habités en milieu rural et d'assurer la préservation de milieux naturels ou de paysages remarquables, les préfets peuvent, après avis des chambres d'agriculture, des centres régionaux de la propriété forestière et des conseils généraux, définir :
 
 1° Les zones dans lesquelles des plantations et des semis d'essences forestières peuvent être interdits ou réglementés. Les interdictions et les réglementations ne sont pas applicables aux parcs ou jardins attenant à une habitation.
 
-Au cas de plantations ou semis exécutés en violation de ces conditions, les exonérations d'impôts et avantages fiscaux de toute nature prévus en faveur des propriétés boisées ou des reboisements sont supprimés, les propriétaires peuvent être tenus de détruire le boisement irrégulier et il peut, lors des opérations de remembrement, ne pas être tenu compte de la nature boisée du terrain, il peut être procédé à la destruction d'office des boisements irréguliers.
+Au cas de plantations ou semis exécutés en violation de ces conditions, les exonérations d'impôts et avantages fiscaux de toute nature prévus en faveur des propriétés boisées ou des reboisements sont supprimés, les propriétaires peuvent être tenus de détruire le boisement irrégulier et il peut, lors des opérations de remembrement, ne pas être tenu compte de la nature boisée du terrain, il peut être procédé à la destruction d'office des boisements irréguliers ;
 
 2° Les périmètres dans lesquels sont développées, par priorité, les actions forestières ainsi que les utilisations des terres et les mesures d'accueil en milieu rural, complémentaires des actions forestières, à condition de maintenir dans la ou les régions naturelles intéressées un équilibre humain satisfaisant. Ces périmètres sont délimités en tenant compte des chartes intercommunales de développement et d'aménagement lorsqu'il en existe ;
 
