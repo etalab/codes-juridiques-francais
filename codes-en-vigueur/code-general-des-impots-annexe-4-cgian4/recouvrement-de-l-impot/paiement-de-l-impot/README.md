@@ -1,3 +1,0 @@
-# PAIEMENT DE L'IMPOT
-
-- [PENALITES](penalites)
