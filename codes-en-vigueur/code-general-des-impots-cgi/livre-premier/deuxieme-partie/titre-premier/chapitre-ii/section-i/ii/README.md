@@ -9,5 +9,4 @@
 - [Demi-tarif](demi-tarif)
 - [Assiette et liquidation.](assiette-et)
 - [Exonérations](exonerations)
-- [Obligations des exploitants.](obligations-des-exploitants)
 - [Tarif](tarif)
