@@ -1,4 +1,4 @@
-# TITRE 5 : TRAITEMENT DES ALCOOLIQUES DANGEREUX POUR AUTRUI.
+# Titre 5 : Lutte contre l'alcoolisme.
 
-- [CHAPITRE 4 : DISPOSITIONS FINANCIERES.](chapitre-4)
+- [Chapitre 4 : Dispositions financières](chapitre-4)
 - [Article L355-1](article-l355-1.md)
