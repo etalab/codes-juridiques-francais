@@ -8,3 +8,4 @@
 - [Article L35](article-l35.md)
 - [Article L35 bis](article-l35-bis.md)
 - [Article L35 ter](article-l35-ter.md)
+- [Article L35 quater](article-l35-quater.md)
