@@ -12,6 +12,7 @@
 - [Titre XI : Du dépôt et du séquestre](titre-xi)
 - [Titre XII : Des contrats aléatoires.](titre-xii)
 - [Titre XIII : Du mandat](titre-xiii)
+- [Titre XV : Des transactions](titre-xv)
 - [Titre XIV : Du cautionnement.](titre-xiv)
 - [Titre XVI : Du compromis](titre-xvi)
 - [Titre XVII : Du nantissement.](titre-xvii)
