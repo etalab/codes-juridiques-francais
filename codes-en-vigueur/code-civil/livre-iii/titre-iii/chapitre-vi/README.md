@@ -6,4 +6,5 @@
 - [Section 4 : De l'aveu de la partie.](section-4)
 - [Section 5 : Du serment.](section-5)
 - [Article 1315](article-1315.md)
+- [Article 1315-1](article-1315-1.md)
 - [Article 1316](article-1316.md)
