@@ -5,3 +5,5 @@
 - [Article L412-49](article-l412-49.md)
 - [Article L412-49-1](article-l412-49-1.md)
 - [Article L412-50](article-l412-50.md)
+- [Article L412-52](article-l412-52.md)
+- [Article L412-53](article-l412-53.md)
