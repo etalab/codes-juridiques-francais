@@ -1,4 +1,4 @@
-# Livre 6 : Utilisation thérapeutique de produits d'origine humaine
+# Titre 2 : Du sang humain
 
 - [Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés](chapitre-1er)
 - [Chapitre 2 : Du comité de sécurité transfusionnelle et de l'Agence française du sang](chapitre-2)

@@ -2,6 +2,7 @@
 
 - [Chapitre 1 : Dispositions générales](chapitre-1)
 - [Chapitre 2 : Organisation et missions du service départemental de protection maternelle et infantile.](chapitre-2)
+- [Chapitre 2 bis : Assistance médicale à la procréation](chapitre-2-bis)
 - [Chapitre 3 : Actions de prévention concernant les futurs conjoints et parents](chapitre-3)
 - [Chapitre 3 bis : Interruption volontaire de la grossesse](chapitre-3-bis)
 - [Chapitre 4 : Actions de prévention concernant l'enfant.](chapitre-4)

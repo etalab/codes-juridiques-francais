@@ -8,5 +8,6 @@
 - [Livre 5 : Pharmacie](livre-5)
 - [Livre 5 bis : Dispositions relatives aux dispositifs médicaux](livre-5-bis)
 - [Livre 6 : Utilisation thérapeutique de produits d'origine humaine](livre-6)
+- [Livre 6 : Don et utilisation des éléments et produits du corps humain](livre-6-don-et)
 - [Livre 8 : Institutions](livre-8)
 - [Livre IX : Personnel](livre-ix)
