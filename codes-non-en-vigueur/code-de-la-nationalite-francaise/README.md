@@ -6,3 +6,5 @@
 - [Titre IV : De la perte, de la déchéance et de la réintégration dans la nationalité française](titre-iv)
 - [Titre V : Des actes relatifs à l'acquisition ou à la perte de la nationalité française](titre-v)
 - [Titre VI : Du contentieux de la nationalité](titre-vi)
+- [Titre VII : Des effets sur la nationalité française des transferts de souveraineté relatifs à certains territoires.](titre-vii)
+- [Titre VIII : Dispositions particulières concernant les territoires d'outre-mer.](titre-viii)
