@@ -4,5 +4,4 @@
 - [Chapitre II : Dispositions propres à l'enseignement supérieur agricole et vétérinaire public.](chapitre-ii)
 - [Chapitre III : Dispositions relatives aux établissements d'enseignement agricole privés sous contrat](chapitre-iii)
 - [Chapitre IV : Conseils de l'enseignement agricole.](chapitre-iv)
-- [Chapitre V : Dispositions relatives aux établissements d'enseignement agricole publics.](chapitre-v)
 - [Article L810-1](article-l810-1.md)
