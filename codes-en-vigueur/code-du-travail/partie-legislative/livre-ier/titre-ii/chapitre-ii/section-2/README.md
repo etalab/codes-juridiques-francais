@@ -1,6 +1,7 @@
 # Section 2 : Résiliation du contrat de travail à durée indéterminée
 
 - [Sous-section 1 : Résiliation du contrat](sous-section-1)
+- [Sous-section 2 : Conseiller du salarié](sous-section-2)
 - [Article L122-4](article-l122-4.md)
 - [Article L122-5](article-l122-5.md)
 - [Article L122-6](article-l122-6.md)
