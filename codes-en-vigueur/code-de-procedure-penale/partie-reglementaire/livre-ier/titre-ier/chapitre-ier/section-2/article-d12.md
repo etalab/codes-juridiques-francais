@@ -22,4 +22,4 @@ Lorsque le magistrat n'a pas décidé qu'une assistance territoriale était néc
 
 Dans tous les cas, l'officier de police judiciaire ayant bénéficié de l'extension de compétence informe le procureur de la République territorialement compétent du résultat de ses opérations.
 
-4. Lorsque les investigations portent sur un fait ayant donné lieu à l'information prévue au dernier alinéa de l'article D. 3, l'officier de police judiciaire bénéficiant de l'extension de compétence avise les services relevant de la direction centrale de la police judiciaire.
+4. Lorsque les investigations portent sur un fait ayant donné lieu à l'information prévue au dernier alinéa de l'article D. 3, l'officier de police judiciaire bénéficiant de l'extension de compétence avise, selon les cas, les services relevant de la direction centrale de la police judiciaire ou de la direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins.
