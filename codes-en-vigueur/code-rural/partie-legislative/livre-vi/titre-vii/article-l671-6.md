@@ -14,4 +14,4 @@ Les dispositions pénales relatives aux labels agricoles et aux certifications s
 
 "5° Fait croire ou tenté de faire croire qu'un produit assorti d'un label agricole est garanti par l'Etat ou par un organisme public.
 
-"Art. L. 115-25 : Les dispositions des chapitres II à VI du titre Ier du livre II du présent code concernant la recherche et la constatation des infractions sont applicables aux prescriptions des articles L. 643-2 à L. 643-7 du code rural et L. 115-24 du présent code".
+"Art. L. 115-25 : Les dispositions des chapitres II à VI du titre Ier du livre II du présent code concernant la recherche et la constatation des infractions sont applicables aux prescriptions du titre IV du livre VI du code rural et L. 115-24 du présent code".
