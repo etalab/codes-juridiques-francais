@@ -5,6 +5,7 @@
 - [Article 719](article-719.md)
 - [Article 720](article-720.md)
 - [Article 720-1](article-720-1.md)
+- [Article 720-2](article-720-2.md)
 - [Article 723-2](article-723-2.md)
 - [Article 723-3](article-723-3.md)
 - [Article 723-4](article-723-4.md)
