@@ -5,4 +5,5 @@
 - [Titre 2 : Profession d'infirmier ou d'infirmière](titre-2)
 - [Titre 4 : Profession d'opticien-lunetier](titre-4)
 - [Titre 5 : Profession d'audioprothésiste](titre-5)
+- [Titre 5 bis : Profession de diététicien](titre-5-bis)
 - [Titre 6 : Dispositions diverses](titre-6)

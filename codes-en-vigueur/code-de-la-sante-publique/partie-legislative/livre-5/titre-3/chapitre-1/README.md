@@ -3,6 +3,8 @@
 - [Article L626](article-l626.md)
 - [Article L627](article-l627.md)
 - [Article L627-1](article-l627-1.md)
+- [Article L627-2](article-l627-2.md)
+- [Article L627-3](article-l627-3.md)
 - [Article L628-1](article-l628-1.md)
 - [Article L628-2](article-l628-2.md)
 - [Article L628-3](article-l628-3.md)

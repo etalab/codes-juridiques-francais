@@ -11,7 +11,7 @@
 - [Livre V : Conflits du travail](livre-v)
 - [Livre VI : Contrôle de l'application de la législation et de la réglementation du travail](livre-vi)
 - [Livre VII : Dispositions particulières à certaines professions](livre-vii)
-- [Livre VIII : Dispositions spéciales aux départements d'outre-mer](livre-viii)
+- [LIVRE VIII : DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM TITRE III : PLACEMENT ET EMPLOI](livre-viii)
 - [Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE](livre-ix)
 - [DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS](dispositions-particulieres-a)
 - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*](dispositions-speciales-aux)

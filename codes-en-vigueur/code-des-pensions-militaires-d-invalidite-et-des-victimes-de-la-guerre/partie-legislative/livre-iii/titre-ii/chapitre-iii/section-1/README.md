@@ -8,4 +8,5 @@
 - [Article L291](article-l291.md)
 - [Article L292](article-l292.md)
 - [Article L293](article-l293.md)
+- [Article L293 bis](article-l293-bis.md)
 - [Article L294](article-l294.md)

@@ -8,4 +8,5 @@
 - [Article L124-2-4](article-l124-2-4.md)
 - [Article L124-2-5](article-l124-2-5.md)
 - [Article L124-2-6](article-l124-2-6.md)
+- [Article L124-2-7](article-l124-2-7.md)
 - [Article L124-3](article-l124-3.md)
