@@ -8,3 +8,4 @@
 - [Section VIII : Prélèvement spécial sur les bénéfices réalisés à l'occasion de la création d'une force de dissuasion.](section-viii)
 - [Section X : Participation des employeurs au développement de la formation professionnelle continue](section-x)
 - [Section XI : Prélèvement spécial sur les bénéfices résultant de la vente, la location ou l'exploitation d'oeuvres pornographiques ou d'incitation à la violence](section-xi)
+- [Section XV : Contribution des institutions financières.](section-xv)

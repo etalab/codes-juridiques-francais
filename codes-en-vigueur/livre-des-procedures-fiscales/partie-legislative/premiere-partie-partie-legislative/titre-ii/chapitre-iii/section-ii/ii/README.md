@@ -17,6 +17,7 @@
 - [Article L130](article-l130.md)
 - [Article L131](article-l131.md)
 - [Article L132](article-l132.md)
+- [Article L132 A](article-l132-a.md)
 - [Article L133](article-l133.md)
 - [Article L134](article-l134.md)
 - [Article L134 A](article-l134-a.md)

@@ -6,3 +6,4 @@
 - [Chapitre V : Départements d'outre-mer. Établissement et conservation du cadastre](chapitre-v)
 - [Chapitre premier : Obligations des contribuables](chapitre-premier)
 - [Chapitre 0I bis : Mesures de contrôle des valeurs mobilières](chapitre-0i-bis)
+- [Chapitre 0I ter : Entreprises de la batellerie](chapitre-0i-ter)

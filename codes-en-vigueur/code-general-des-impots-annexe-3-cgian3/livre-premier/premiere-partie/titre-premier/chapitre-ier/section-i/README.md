@@ -2,6 +2,7 @@
 
 - [II : Revenus fonciers](ii)
 - [III : Bénéfices industriels et commerciaux](iii)
+- [IV : Rémunérations visées à l'article 62 du code général des impôts](iv)
 - [V : Bénéfices de l'exploitation agricole](v)
 - [VI : Traitements, salaires, pensions et rentes viagères](vi)
 - [VII : Bénéfices des professions non commerciales](vii)

@@ -6,3 +6,4 @@
 - [Article 41 sexdecies B](article-41-sexdecies-b.md)
 - [Article 41 sexdecies E](article-41-sexdecies-e.md)
 - [Article 41 sexdecies F](article-41-sexdecies-f.md)
+- [Article 41 sexdecies G](article-41-sexdecies-g.md)
