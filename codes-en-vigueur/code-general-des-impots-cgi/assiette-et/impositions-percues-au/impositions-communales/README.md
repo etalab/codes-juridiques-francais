@@ -1,3 +1,0 @@
-# IMPOSITIONS COMMUNALES
-
-- [CONTRIBUTIONS INDIRECTES](contributions-indirectes)
