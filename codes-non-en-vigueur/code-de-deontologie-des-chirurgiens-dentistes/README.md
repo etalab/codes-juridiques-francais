@@ -1,5 +1,6 @@
 # Code de déontologie des chirurgiens-dentistes
 
+- [Article 1](article-1.md)
 - [Titre 1 : Devoirs généraux des chirurgiens-dentistes](titre-1)
 - [Titre 2 : Devoirs des chirurgiens-dentistes envers les malades](titre-2)
 - [Titre 3 : Devoirs des chirurgiens-dentistes en matière de médecine sociale](titre-3)
