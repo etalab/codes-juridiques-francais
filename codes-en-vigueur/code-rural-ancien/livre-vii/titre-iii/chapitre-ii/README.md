@@ -5,7 +5,6 @@
 - [Article 1202](article-1202.md)
 - [Article 1205](article-1205.md)
 - [Article 1206](article-1206.md)
-- [Article 1208](article-1208.md)
 - [Article 1210](article-1210.md)
 - [Article 1211](article-1211.md)
 - [Article 1212](article-1212.md)
