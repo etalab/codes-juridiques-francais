@@ -6,7 +6,6 @@
 - [Paragraphe II : VITESSE.](paragraphe-ii)
 - [Paragraphe III : CROISEMENTS ET DÉPASSEMENTS.](paragraphe-iii)
 - [Paragraphe IV : INTERSECTIONS DE ROUTES - PRIORITÉ DE PASSAGE.](paragraphe-iv)
-- [Paragraphe 5 : VOIES FERRÉES SUR ROUTE.](paragraphe-5)
 - [PARAGRAPHE V : VOIES FERRÉES SUR ROUTE.](paragraphe-v)
 - [Paragraphe 6 : EMPLOI DES AVERTISSEURS.](paragraphe-6)
 - [PARAGRAPHE VI : EMPLOI DES AVERTISSEURS.](paragraphe-vi)
