@@ -26,6 +26,6 @@ Sont considérés notamment comme oeuvres de l'esprit au sens du présent code :
 
 12° Les plans, croquis et ouvrages plastiques relatifs à la géographie, à la topographie, à l'architecture et aux sciences ;
 
-13° Les logiciels ;
+13° Les logiciels, y compris le matériel de conception préparatoire ;
 
 14° Les créations des industries saisonnières de l'habillement et de la parure. Sont réputées industries saisonnières de l'habillement et de la parure les industries qui, en raison des exigences de la mode, renouvellent fréquemment la forme de leurs produits, et notamment la couture, la fourrure, la lingerie, la broderie, la mode, la chaussure, la ganterie, la maroquinerie, la fabrique de tissus de haute nouveauté ou spéciaux à la haute couture, les productions des paruriers et des bottiers et les fabriques de tissus d'ameublement.
