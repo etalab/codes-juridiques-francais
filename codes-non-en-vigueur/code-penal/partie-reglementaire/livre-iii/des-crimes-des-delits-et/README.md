@@ -2,4 +2,3 @@
 
 - [TITRE I](titre-i)
 - [TITRE II](titre-ii)
-- [DISPOSITIONS GENERALES](dispositions-generales)
