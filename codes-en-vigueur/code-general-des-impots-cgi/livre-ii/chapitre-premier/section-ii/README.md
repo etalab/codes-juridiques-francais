@@ -6,4 +6,5 @@
 - [III : Régime spécial du forfait.](iii)
 - [III bis : Régime simplifié](iii-bis)
 - [IV : Dispositions applicables aux taxes à l'importation et aux produits pétroliers.](iv)
+- [IV ter : Paiement de la taxe sur la valeur ajoutée par virement.](iv-ter)
 - [V : Modalités d'application](v)

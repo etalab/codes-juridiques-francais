@@ -11,6 +11,7 @@
 - [Article 1732](article-1732.md)
 - [Article 1733](article-1733.md)
 - [Article 1734 bis](article-1734-bis.md)
+- [Article 1734 ter](article-1734-ter.md)
 - [Article 1735 bis](article-1735-bis.md)
 - [Article 1736](article-1736.md)
 - [Article 1737](article-1737.md)
@@ -20,3 +21,4 @@
 - [Article 1740 ter](article-1740-ter.md)
 - [Article 1740 quater](article-1740-quater.md)
 - [Article 1740 quinquies](article-1740-quinquies.md)
+- [Article 1740 sexies](article-1740-sexies.md)

@@ -18,6 +18,7 @@
 - [Article 197 B](article-197-b.md)
 - [Article 199](article-199.md)
 - [Imputation des retenues à la source et crédits d'impôt.](imputation-des-retenues-a)
-- [Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer.](reduction-d-impot-accordee-au-titre)
+- [Réduction d'impôt accordée au titre de l'hébergement en établissement de long séjour ou en section de cure médicale](reduction-d-impot-accordee-au-titre)
 - [Réduction d'impôt au titre des souscriptions au capital de sociétés nouvelles](reduction-d-impot-au-titre)
 - [Réduction d'impôt accordée aux adhérents de centres de gestion ou d'associations agréés.](reduction-d-impot-accordee-aux)
+- [Réduction d'impôt pour dépenses de formation du chef d'entreprise](reduction-d-impot-pour-depenses-de-formation-du-chef-d-entreprise)

@@ -10,3 +10,4 @@
 - [Article 1788](article-1788.md)
 - [Article 1788 ter](article-1788-ter.md)
 - [Article 1788 quater](article-1788-quater.md)
+- [Article 1788 quinquies](article-1788-quinquies.md)

@@ -13,3 +13,5 @@
 - [Article 1840 N quinquies](article-1840-n-quinquies.md)
 - [Article 1840 N sexies](article-1840-n-sexies.md)
 - [Article 1840 N septies](article-1840-n-septies.md)
+- [Article 1840 N octies](article-1840-n-octies.md)
+- [Article 1840 N nonies](article-1840-n-nonies.md)

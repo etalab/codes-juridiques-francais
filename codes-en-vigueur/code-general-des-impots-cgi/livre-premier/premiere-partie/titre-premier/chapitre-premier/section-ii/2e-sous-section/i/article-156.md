@@ -10,13 +10,19 @@ Toutefois, n'est pas autorisée l'imputation :
 
 2° Des déficits provenant d'activités non commerciales au sens de l'article 92, autres que ceux qui proviennent de l'exercice d'une profession libérale ou des charges et offices dont les titulaires n'ont pas la qualité de commerçants ; ces déficits peuvent cependant être imputés sur les bénéfices tirés d'activités semblables durant la même année ou les cinq années suivantes ( Voir toutefois le I bis ci-dessous) ;
 
-3° Des déficits fonciers, lesquels s'imputent exclusivement sur les revenus fonciers des cinq années suivantes ou, s'il s'agit d'immeubles donnés à bail conformément au statut du fermage, sur ceux des neuf années suivantes ; cette disposition n'est pas applicable aux propriétaires d'immeubles ayant fait l'objet de travaux exécutés dans le cadre d'une opération groupée de restauration immobilière faite en application des dispositions des articles L 313-1 à L 313-15 du code de l'urbanisme, ainsi qu'aux nus-propriétaires effectuant des travaux en application de l'article 605 du code civil, et aux propriétaires de monuments classés monuments historiques, inscrits à l'inventaire supplémentaire ou ayant fait l'objet d'un agrément ministériel.
+3° Des déficits fonciers, lesquels s'imputent exclusivement sur les revenus fonciers des cinq années suivantes ou, s'il s'agit d'immeubles donnés à bail conformément au statut du fermage, sur ceux des neuf années suivantes ; cette disposition n'est pas applicable aux nus-propriétaires effectuant des travaux en application de l'article 605 du code civil, et aux propriétaires de monuments classés monuments historiques, inscrits à l'inventaire supplémentaire ou ayant fait l'objet d'un agrément ministériel.
+
+Cette disposition n'est pas non plus applicable aux déficits fonciers provenant des travaux exécutés dans le cadre d'une opération groupée de restauration immobilière faite en application des dispositions des articles L. 313-1 à L. 313-15 du code de l'urbanisme, par des propriétaires de locaux que ces propriétaires prennent l'engagement de louer nu à usage de résidence principale du locataire pendant une durée de neuf ans.
+
+La location doit prendre effet dans les douze mois qui suivent la date d'achèvement des travaux de restauration et respecter les conditions prévues par une convention entre l'Etat et le propriétaire pour une durée minimale de neuf ans. Cette convention fixe notamment les montants maximaux du loyer et des ressources du locataire qui ne peuvent être supérieurs à des plafonds fixés par décret. Le plafond de ressources ainsi fixé n'est pas opposable à l'occupant en vertu d'un bail conclu au moins un an avant le début des travaux ainsi qu'aux personnes évincées d'un logement concerné par l'opération groupée de restauration immobilière et bénéficiant d'un droit à relogement dans cette opération. Les propriétaires d'immeubles pour lesquels la demande d'autorisation de travaux a été déposée antérieurement au 1er juillet 1991 ne sont pas tenus de conclure une convention avec l'Etat.
+
+Le revenu global de l'année au cours de laquelle l'engagement ou les conditions de la location ne sont pas respectés est majoré du montant des déficits indûment imputés. Ces déficits constituent une insuffisance de déclaration pour l'application de l'article 1733.
 
 4° Des déficits réalisés par des personnes, autres que les loueurs professionnels au sens de l'article 151 septies, dernier alinéa, louant directement ou indirectement des locaux d'habitation meublés ou destinés à être meublés ; ces déficits s'imputent exclusivement sur les bénéfices retirés de cette même activité au cours des années suivantes jusqu'à la cinquième inclusivement.
 
-5° Des pertes résultant d'opérations mentionnées aux articles 150 ter, 150 octies et 150 nonies lorsque l'option prévue au 8° du paragraphe I de l'article 35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur les profits de même nature réalisés au cours de la même année ou des cinq années suivantes ;
+5° Des pertes résultant d'opérations mentionnées aux articles 150 ter, 150 octies et 150 nonies et 150 decies lorsque l'option prévue au 8° du paragraphe I de l'article 35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur les profits de même nature réalisés au cours de la même année ou des cinq années suivantes ;
 
-6° Des pertes résultant d'opérations réalisées à l'étranger sur un marché à terme d'instruments financiers [*MATIF*] ou d'options négociables [*MONEP*] ; ces pertes sont imputables exclusivement sur les profits de même nature réalisés dans les mêmes conditions au cours de la même année ou des cinq années suivantes.
+6° Des pertes résultant d'opérations réalisées à l'étranger sur un marché à terme d'instruments financiers [*MATIF*] ou d'options négociables [*MONEP*] ou sur des bons d'option  ; ces pertes sont imputables exclusivement sur les profits de même nature réalisés dans les mêmes conditions au cours de la même année ou des cinq années suivantes.
 
 Ces dispositions s'appliquent aux pertes résultant d'opérations à terme sur marchandises réalisées à l'étranger.
 
@@ -28,7 +34,7 @@ II. Des charges ci-après lorsqu'elles n'entrent pas en compte pour l'évaluatio
 
 1° bis (Devenu sans objet).
 
-1° ter. Dans les conditions fixées par décret (voir Annexe III, art.41 E à 41 J),les charges foncières afférentes aux immeubles classés monuments historiques ou inscrits à l'inventaire supplémentaire, ainsi qu'aux immeubles faisant partie du patrimoine national en raison de leur caractère historique ou artistique particulier et qui auront été agréés à cet effet par le ministre de l'économie et des finances ;
+1° ter. Dans les conditions fixées par décret (voir Annexe III, art. 41 E à 41 J),les charges foncières afférentes aux immeubles classés monuments historiques ou inscrits à l'inventaire supplémentaire, ainsi qu'aux immeubles faisant partie du patrimoine national en raison de leur caractère historique ou artistique particulier et qui auront été agréés à cet effet par le ministre de l'économie et des finances ;
 
 1° quater (Devenu sans objet) ;
 
@@ -38,7 +44,7 @@ Le contribuable ne peut opérer de déduction pour ses descendants mineurs, sauf
 
 La déduction est limitée, par enfant majeur, au montant fixé pour l'abattement prévu par l'article 196 B. Lorsque l'enfant est marié, cette limite est doublée au profit du parent qui justifie qu'il participe seul à l'entretien du ménage.
 
-Toutefois, l'avantage en impôt résultant de la déduction prévue ci-dessus ne peut être inférieur par enfant à 4.000 F lorsque la pension alimentaire est versée au profit d'un enfant inscrit dans l'enseignement supérieur [*étudiant*]. Cet avantage minimal ne peut néanmoins excéder 35 p. 100 des sommes versées (Les dispositions de cet alinéa s'appliquent à compter du 1er janvier 1990).
+Toutefois, l'avantage en impôt résultant de la déduction prévue ci-dessus ne peut être inférieur par enfant à 4.000 F lorsque la pension alimentaire est versée au profit d'un enfant inscrit dans l'enseignement supérieur [*étudiant*]. Cet avantage minimal ne peut néanmoins excéder 35 p. 100 des sommes versées (Le chiffre de 4000 F s'applique pour l'imposition des revenus de 1990 et de 1989).
 
 Un contribuable ne peut, au titre d'une même année et pour un même enfant, bénéficier à la fois de la déduction d'une pension alimentaire et du rattachement. L'année où l'enfant atteint sa majorité, le contribuable ne peut à la fois déduire une pension pour cet enfant et le considérer à charge pour le calcul de l'impôt ;
 
@@ -58,7 +64,7 @@ Un contribuable ne peut, au titre d'une même année et pour un même enfant, b�
 
 c. (Abrogé) ;
 
-d. (Devenu sans objet).
+d. (Devenu sans objet.
 
 8° (Abrogé) ;
 

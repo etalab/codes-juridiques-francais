@@ -2,6 +2,7 @@
 
 - [Section I : Exonération édictée en faveur de certains établissements et sociétés concessionnaires](section-i)
 - [Section I bis : Entreprises créées en Corse](section-i-bis)
+- [Section I ter : Activités créées en Corse](section-i-ter)
 - [Section II : Monuments historiques. Charges déductibles pour les organismes non lucratifs](section-ii)
 - [Section III : Intérêts de livrets supplémentaires de caisses d'épargne](section-iii)
 - [Section III bis : Supplément d'impôt sur les sociétés](section-iii-bis)
@@ -13,3 +14,4 @@
 - [Section VIII : Régime des groupes de sociétés](section-viii)
 - [Section IX : Entreprises nouvelles bénéficiant des dispositions de l'article 44 septies](section-ix)
 - [Section X : Obligations déclaratives relatives au supplément d'impôt sur les sociétés.](section-x)
+- [Section XI : Régime des amortissements réputés différés en période déficitaire en cas de reprise ou de transfert d'activités](section-xi)

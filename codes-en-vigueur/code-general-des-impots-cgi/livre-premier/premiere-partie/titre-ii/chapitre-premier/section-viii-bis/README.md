@@ -5,3 +5,4 @@
 - [Article 293 B](article-293-b.md)
 - [Article 293 E](article-293-e.md)
 - [Article 293 F](article-293-f.md)
+- [Article 293 G](article-293-g.md)

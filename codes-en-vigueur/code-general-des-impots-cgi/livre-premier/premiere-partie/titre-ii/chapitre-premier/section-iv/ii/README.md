@@ -7,3 +7,4 @@
 - [Article 273 quinquies](article-273-quinquies.md)
 - [Article 273 sexies](article-273-sexies.md)
 - [Article 273 septies](article-273-septies.md)
+- [Article 273 septies A](article-273-septies-a.md)

@@ -4,6 +4,8 @@
 
 1° (Disposition devenue sans objet).
 
+code rural, autres que celles définies à l'article 206-6 ;
+
 2° Sauf pour les opérations effectuées avec des non-sociétaires et à condition qu'elle fonctionnent conformément aux dispositions qui les régissent :
 
 - les sociétés coopératives agricoles d'approvisionnement et d'achat ;
@@ -34,7 +36,7 @@ Les sociétés coopératives agricoles et leurs unions sont tenues de produire, 
 
 5° bis. Les organismes sans but lucratif mentionnés à l'article 261-7-1°, pour les opérations à raison desquelles ils sont exonérés de la taxe sur la valeur ajoutée ;
 
-6° Les régions, départements, communes et syndicats de communes, ainsi que leurs régies de services publics ;
+6° Les régions et les ententes interrégionales, les  départements et les ententes interdépartementales, les communes, syndicats de communes et syndicats mixtes, ainsi que leurs régies de services publics ;
 
 6° bis. Dans les conditions fixées par décret (1), les établissements publics et sociétés d'économie mixte concessionnaires d'opérations d'aménagement, en application du deuxième alinéa de l'article L. 300-4 du code de l'urbanisme, pour les résultats provenant des opérations réalisées dans le cadre des procédures suivantes :
 
@@ -50,7 +52,7 @@ Les sociétés coopératives agricoles et leurs unions sont tenues de produire, 
 
 8° Les sociétés coopératives de construction désignées à l'article 1378 sexies.
 
-1 bis. Lorsque les sociétés coopératives agricoles ou leurs unions émettent des certificats coopératifs d'investissement, l'exonération visée au 1 n'est pas applicable à la fraction des résultats correspondant à la part du montant nominal des certificats coopératifs dans le capital social.
+1 bis Lorsque les sociétés coopératives agricoles ou leurs unions émettent des certificats coopératifs d'investissement, l'exonération visée au 1 n'est pas applicable à la fraction des résultats correspondant à la part du montant nominal des certificats coopératifs dans le capital social.
 
 Les résultats sont déterminés selon les règles fixées par l'article 209, avant déduction des ristournes.
 

@@ -8,7 +8,7 @@ Elle ne peut être pratiquée qu'une fois et s'applique sur l'impôt dû au titr
 
 La réduction s'applique aux logements qui, quelle que soit la date de leur achèvement, remplissent les deux conditions suivantes :
 
-1° La construction doit avoir fait l'objet, avant le 1er octobre 1989, de la déclaration d'ouverture de chantier prévue à l'article R. 421-40 du code de l'urbanisme. Ce document, accompagné d'une pièce attestant de sa réception par la mairie, doit être joint à la déclaration des revenus de l'année au titre de laquelle le bénéfice de la réduction est demandé.
+1° La construction doit avoir fait l'objet, avant le 1er octobre 1989, de la déclaration d'ouverture de chantier prévue à l'article R421-40 du code de l'urbanisme. Ce document, accompagné d'une pièce attestant de sa réception par la mairie, doit être joint à la déclaration des revenus de l'année au titre de laquelle le bénéfice de la réduction est demandé.
 
 2° Les fondations doivent être achevées avant le 31 décembre  1989.
 

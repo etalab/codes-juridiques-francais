@@ -20,7 +20,7 @@ a, b, c et d  (Abrogés);
 
 7° Membres des copropriétés de navires mentionnées à l'article 8 quater.
 
-8° Personnes qui, à titre professionnel, effectuent en France ou à l'étranger, directement ou par personne interposée, des opérations sur un marché à terme d'instruments financiers ou d'options négociables [*MONEP*] (1), à condition qu'elles aient opté pour ce régime dans les quinze jours du début du premier exercice d'imposition à ce titre. L'option est irrévocable.
+8° Personnes qui, à titre professionnel, effectuent en France ou à l'étranger, directement ou par personne interposée, des opérations sur un marché à terme d'instruments financiers ou d'options négociables [*MONEP*] ou sur des bons d'option (1), à condition qu'elles aient opté pour ce régime dans les quinze jours du début du premier exercice d'imposition à ce titre. L'option est irrévocable.
 
 Ces dispositions s'appliquent aux personnes qui effectuent, directement ou par personne interposée, des opérations à terme sur marchandises sur le marché à terme mentionné à l'article 5 de la loi du 28 mars 1885 ou à l'étranger.
 

@@ -15,3 +15,4 @@
 - [Article 1770 quater](article-1770-quater.md)
 - [Article 1770 quinquies](article-1770-quinquies.md)
 - [Article 1770 sexies](article-1770-sexies.md)
+- [Article 1770 septies](article-1770-septies.md)

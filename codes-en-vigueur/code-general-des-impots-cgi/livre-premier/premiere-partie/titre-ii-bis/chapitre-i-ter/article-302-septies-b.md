@@ -8,6 +8,8 @@ I. Constituent, du point de vue fiscal, un élément du prix de revient du terra
 
 - comme il est dit à l'article L 333-12 du code de l'urbanisme, le versement résultant du dépassement du plafond légal de densité prévu par l'article L 112-2 du même code.
 
+-La participation à la diversité de l'habitat prévue à l'article L. 332-17 du code de l'urbanisme.
+
 II. Constituent du point de vue fiscal, un élément du prix de revient de l'ensemble immobilier :
 
 - la taxe locale d'équipement visée à l'article 1585 A;

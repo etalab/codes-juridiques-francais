@@ -6,17 +6,7 @@ Sont exonérés de la taxe sur la valeur ajoutée :
 
 1° et 2° (Abrogés) ;
 
-3° a. Lorsqu'elles sont soumises au droit proportionnel d'enregistrement prévu à l'article 733, les ventes publiques :
-
-- d'objets d'occasion,
-
-- d'objets d'antiquité et de collection,
-
-- d'objets visés à l'article 257-10°-d,
-
-- d'oeuvres d'art originales répondant aux conditions qui sont fixées par décret (1) ;
-
-b. Les achats d'objets visés à l'article 257-10°-d opérés en vue d'une vente aux enchères publiques imposée comme il est dit ci-dessus ;
+3° (Abrogé) ;
 
 4° Les opérations à terme sur marchandises réalisées sur le marché mentionné à l'article 5 de la loi du 28 mars 1885 sur les marchés à terme à l'exclusion de celles qui déterminent l'arrêt de la filière ;
 
@@ -160,7 +150,7 @@ Tous les organismes concernés par les a, b et c sont placés sous le régime du
 
 2° (Abrogé).
 
-3° Les ventes portant sur les articles fabriqués par des groupements d'aveugles ou de travailleurs handicapés, agréés dans les conditions prévues par la loi n° 72-616 du 5 juillet 1972, ainsi que les réparations effectuées par ces groupements. Ils peuvent toutefois, sur leur demande, renoncer à l'exonération dans les conditions et selon les modalités prévues à l'égard des personnes mentionnées à l'article 260-1° ;
+3° Les ventes portant sur les articles fabriqués par des groupements d'aveugles ou de travailleurs handicapés, agréés dans les conditions prévues par la loi n° 72-616 du 5 juillet 1972, ainsi que les réparations effectuées par ces groupements. Ils peuvent toutefois, sur leur demande, renoncer à l'exonération dans les conditions et selon les modalités prévues par décret en Conseil d'Etat ;
 
 4° (Abrogé) ;
 

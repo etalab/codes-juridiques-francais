@@ -46,13 +46,13 @@ L'établissement de la mauvaise foi d'un adhérent à l'occasion d'un redresseme
 
 Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut, pour l'imposition des revenus de 1983, excéder 21.400 F. Ce plafond est applicable au montant des pensions et retraites perçues par les membres du foyer fiscal. Il est revalorisé chaque année dans la même proportion que la limite de la première tranche du barème de l'impôt sur le revenu ; le montant obtenu est arrondi, s'il y a lieu, à la centaine de francs supérieure (3).
 
-L'abattement indiqué à l'alinéa précédent ne peut être inférieur à 1.800 F, sans pouvoir excéder le montant brut des pensions et retraites. Cette disposition s'applique au montant des pensions ou retraites perçu par chaque retraité ou pensionné membre du foyer fiscal.
+L'abattement indiqué à l'alinéa précédent ne peut être inférieur à 1.800 F, sans pouvoir excéder le montant brut des pensions et retraites. Cette disposition s'applique au montant des pensions ou retraites perçu par chaque retraité ou pensionné membre du foyer fiscal. La somme de 1 800 F est révisée chaque année dans la même proportion que la septième tranche du barème de l'impôt sur le revenu (4).
 
 Le revenu net obtenu en application de l'article 83 et, en ce qui concerne les pensions et retraites après application des dispositions des deuxième et troisième alinéas ci-dessus, n'est retenu dans les bases de l'impôt sur le revenu que pour 80 % de son montant.
 
-Par exception aux dispositions de l'alinéa précédent, l'ensemble des salaires et indemnités accessoires supérieurs à 426.400 F alloués par une ou plusieurs sociétés à une personne qui détient, directement ou indirectement, plus de 35 p. 100 des droits sociaux sont retenus, pour la fraction excédant 426.400 F, à raison de 90 p. 100 de leur montant, net de frais professionnels. Pour l'application de cette disposition, les droits sociaux appartenant au conjoint sont considérés comme détenus indirectement.
+Par exception aux dispositions de l'alinéa précédent, l'ensemble des salaires et indemnités accessoires supérieurs à 440.000 F alloués par une ou plusieurs sociétés à une personne qui détient, directement ou indirectement, plus de 35 p. 100 des droits sociaux sont retenus, pour la fraction excédant 440.000 F, à raison de 90 p. 100 de leur montant, net de frais professionnels (5). Pour l'application de cette disposition, les droits sociaux appartenant au conjoint sont considérés comme détenus indirectement.
 
-Aucun abattement n'est pratiqué sur la fraction du montant des salaires, net de frais professionnels, et pensions qui excède 460.000 F pour l'imposition des revenus de 1982 et 1983. Cette limite est relevée chaque année dans la même proportion que le plafond de la déduction forfaitaire de 10 % pour frais professionnels prévu à l'article 83-3° ; le montant obtenu est arrondi le cas échéant au millier de francs supérieur (5);
+Aucun abattement n'est pratiqué sur la fraction du montant des salaires, net de frais professionnels, et pensions qui excède 460.000 F pour l'imposition des revenus de 1982 et 1983. Cette limite est relevée chaque année dans la même proportion que le plafond de la déduction forfaitaire de 10 % pour frais professionnels prévu à l'article 83-3° ; le montant obtenu est arrondi le cas échéant au millier de francs supérieur (6);
 
 b. Les dispositions du a sont applicables aux allocations versées aux travailleurs privés d'emploi mentionnées à l'article 231 bis D, premier et troisième alinéas, ainsi qu'aux participations en espèces et, à compter du 1er janvier 1991, aux dividendes des actions de travail, alloués aux travailleurs mentionnés au 18° bis de l'article 81, lorsque ces sommes sont imposables ;
 
@@ -60,7 +60,7 @@ c. Lorsque, étant en instance de séparation de corps ou de divorce, les époux
 
 d. En cas de retrait de tout ou partie des sommes figurant sur un plan d'épargne en vue de la retraite ou de versement d'une pension présentant ou non un caractère viager, les dispositions du a sont applicables aux sommes retirées ou à la pension perçue.
 
-Lorsque le retrait dépasse une somme fixée par décret (6), le contribuable peut demander l'application du système prévu à l'article 150 R, sans fractionnement du paiement.
+Lorsque le retrait dépasse une somme fixée par décret (7), le contribuable peut demander l'application du système prévu à l'article 150 R, sans fractionnement du paiement.
 
 Les abattements prévus au a ne s'appliquent qu'à l'excédent des sommes retirées et des pensions perçues au cours de l'année sur le total des versements effectués sur un plan d'épargne en vue de la retraite au cours de l'année et de l'année précédente, sauf si le retrait ou le versement de la pension intervient à partir du soixantième anniversaire du contribuable ou de l'un des époux soumis à imposition commune.
 
@@ -86,10 +86,12 @@ Ces dispositions ne sont pas applicables aux arrérages correspondant aux cotisa
 
 (2) Loi n° 79-594 du 13 juillet 1979, modifiée par la loi n° 83-1 du 3 janvier 1983, art. 23 (JO des 2, 3 et 4) ; loi 84-578 du 9 juillet 1984 art. 8 II (J.O. du 11).
 
-(3) Plafond fixé à 25.900 F pour l'imposition des revenus de 1987 et à 26.600 F pour l'imposition des revenus de 1988.
+(3) Plafond fixé à 28.400 F pour l'imposition des revenus de 1990 et à 27.500 F pour l'imposition des revenus de 1989.
 
-(4) Limite applicable pour l'imposition des revenus de 1987. Cette limite était fixée à 250.000 F pour l'imposition des revenus de 1986.
+(4) Cette disposition s'applique à compter de l'imposition des revenus de 1992.
 
-(5) Limite portée à 554.000F pour les revenus de 1987 et à 569.000 F pour les revenus de 1988.
+(5) Limite applicable pour l'imposition des revenus de 1991. Cette limite était fixée à 426.400 F pour l'imposition des revenus de 1990.
 
-(6) Annexe III, art. 41 ZH.
+(6) Limite portée à 607.000F pour les revenus de 1990 et à 588.000 F pour les revenus de 1989.
+
+(7) Annexe III, art. 41 ZH.

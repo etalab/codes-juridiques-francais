@@ -12,7 +12,7 @@ a. Elle doit reprendre à son passif :
 
 - d'une part, les provisions dont l'imposition est différée ;
 
-- d'autre part, la réserve spéciale où la société absorbée a porté les plus-values à long terme soumises antérieurement au taux réduit de 10 %, de 15 %, de 19 % ou de 25 %.
+- d'autre part, la réserve spéciale où la société absorbée a porté les plus-values à long terme soumises antérieurement au taux réduit de 10 %, de 15 %, de 18 %, 19 % ou de 25 %.
 
 b. Elle doit se substituer à la société absorbée pour la réintégration des plus-values dont l'imposition avait été différée chez cette dernière.
 
@@ -22,7 +22,7 @@ d. Elle doit réintégrer dans ses bénéfices imposables les plus-values dégag
 
 e) Elle doit inscrire à son bilan les éléments autres que les immobilisations pour la valeur qu'ils avaient, du point de vue fiscal, dans les écritures de la société absorbée. A défaut, elle doit comprendre dans ses résultats de l'exercice au cours duquel intervient l'opération le profit correspondant à la différence entre la nouvelle valeur de ces éléments et la valeur qu'ils avaient, du point de vue fiscal, dans les écritures de la société absorbée (1). "
 
-4. Par dérogation aux dispositions qui précèdent, la société absorbée peut opter pour l'imposition au taux réduit, prévue au a du I de l'article 219, de la plus-value à long terme globale, afférente à ses éléments amortissables. Dans ce cas, le montant des réintégrations définies au d du 3 est réduit à due concurrence (1). "
+4. Par dérogation aux dispositions qui précèdent, la société absorbée peut opter pour l'imposition au taux réduit, prévue au a bis du I de l'article 219, de la plus-value à long terme globale, afférente à ses éléments amortissables. Dans ce cas, le montant des réintégrations définies au d du 3 est réduit à due concurrence (1). "
 
 5. Les droits afférents à un contrat de crédit-bail conclu dans les conditions prévues aux 1° et 2° de l'article 1er de la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le crédit-bail sont assimilés à des éléments de l'actif immobilisé, amortissables ou non amortissables dans les conditions prévues à l'article 39 duodecies A.
 

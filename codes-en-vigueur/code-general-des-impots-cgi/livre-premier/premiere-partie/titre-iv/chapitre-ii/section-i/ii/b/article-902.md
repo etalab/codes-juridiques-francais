@@ -10,7 +10,7 @@ Les cahiers des charges ne sont soumis au timbre de dimension qu'après la réal
 
 L'exonération du timbre n'est pas applicable aux actes, procès-verbaux et cahiers des charges susvisés qui contiennent des dispositions indépendantes dans le sens de l'article 671. Pourtant, ne peuvent pas être considérés comme dispositions indépendantes, pour l'application du présent article, la procuration donnée dans l'un de ces actes pour toucher le prix ou la soulte, ou vendre les immeubles compris sur un cahier des charges ou procès-verbal de mise en vente, ainsi que toute déclaration de command contenue en l'acte même, ou encore tout paiement par subrogation effectué par un tiers en l'acquit de l'acquéreur ;
 
-2° Les actes visés aux articles 696, 706, 707, 712 et 715. 2. Actes judiciaires, extrajudiciaires et registres divers.
+2° Les actes visés aux articles 696, 706, 707, 712 et 715.     2. Actes judiciaires, extrajudiciaires et registres divers.
 
 1° Les actes des huissiers de justice à l'exception de ceux visés à l'article 635-1-3° à 7° et 2-2° à 9° pour lesquels l'original remis à la partie ou à son représentant est seul exonéré ;
 
@@ -20,7 +20,7 @@ L'exonération du timbre n'est pas applicable aux actes, procès-verbaux et cahi
 
 4° Les actes, écrits et registres concernant la police générale et de sûreté et la vindicte publique ;
 
-5° Les copies des protêts, que les notaires et les huissiers de justice sont tenus de remettre aux greffiers des tribunaux de commerce ou des tribunaux de grande instance statuant commercialement en vertu des dispositions des articles 162 du code de commerce et 57 du décret du 30 octobre 1935 unifiant le droit en matière de chèque, modifiés par les articles 1er et 2 de la loi n° 49-1093 du 2 août 1949 ;
+5° Les copies des protêts, que les notaires et les huissiers de justice sont tenus de remettre aux greffiers des tribunaux de commerce ou des tribunaux de grande instance statuant commercialement en vertu des dispositions des articles 162 du code de commerce et 65-3 du décret-loi du 30 octobre 1935 unifiant le droit en matière de chèque, modifiés par les articles 1er et 2 de la loi n° 49-1093 du 2 août 1949 ;
 
 6° à 13 ° (Abrogés) ;
 

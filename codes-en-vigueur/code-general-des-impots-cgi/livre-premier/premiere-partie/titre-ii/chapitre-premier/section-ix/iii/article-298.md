@@ -30,7 +30,7 @@ c  Les propanes (ex 27-11-12-99 du tarif des douanes) et les butanes (ex 27-11-1
 
 d  Les produits pétroliers et assimilés visés au tableau B de l'article 265 du code des douanes, utilisés comme matières premières ou agents de fabrication.
 
-Pour l'application du d, on entend par matières premières [*définition*] les produits entrant dans la composition de produits passibles de la taxe sur la valeur ajoutée et par agents de fabrication [*définition*] les matières ou produits qui, normalement et sans entrer dans le produit fini, sont détruits ou perdent leurs qualités spécifiques au cours des opérations de fabrication d'un produit soumis à la taxe sur la valeur ajoutée à l'exclusion des produits utilisés pour la carburation, la lubrification proprement dite ou la combustion, sous réserve de ce qui est dit aux a, b et c.
+Pour l'application du d, on entend par matières premières [*définition*] les produits entrant dans la composition de produits passibles de la taxe sur la valeur ajoutée et par agents de fabrication [*définition*] les matières ou produits qui, normalement et sans entrer dans le produit fini, sont détruits ou perdent leurs qualités spécifiques au cours des opérations de fabrication d'un produit soumis à la taxe sur la valeur ajoutée à l'exclusion des produits utilisés pour la carburation, la lubrification proprement dite ou la combustion, sous réserve de ce qui est dit aux a, b et c et à compter du 1er janvier 1993, au 1° sexies ;
 
 1° ter a. La valeur ajoutée afférente aux achats, importations, livraisons et services portant sur le gazole utilisé comme carburant est déductible dans les conditions prévues aux articles 271 à 273.
 
@@ -54,7 +54,7 @@ Le fioul domestique et le coke de pétrole visés au présent article s'entenden
 
 En 1989 et en 1990, la déduction est limitée respectivement à un tiers et à deux tiers de son montant.
 
-1° sexies. La taxe sur la valeur ajoutée afférente aux achats, importations, acquisitions intra communautaires, livraisons et services portant sur les produits pétroliers utilisés pour la lubrification est déductible dans les conditions prévues aux articles 271 à 273, lorsqu'ils sont utilisés pour des véhicules et engins ouvrant droit à déduction. Cette disposition s'applique également si ces produits pétroliers sont utilisés dans les véhicules et engins pris en location quand le prenur peut déduire la taxe relative à cette location (2).
+1° sexies. La taxe sur la valeur ajoutée afférente aux achats, importations, acquisitions intra communautaires, livraisons et services portant sur les produits pétroliers utilisés pour la lubrification est déductible dans les conditions prévues aux articles 271 à 273, lorsqu'ils sont utilisés pour des véhicules et engins ouvrant droit à déduction. Cette disposition s'applique également si ces produits pétroliers sont utilisés dans les véhicules et engins pris en location quand le preneur peut déduire la taxe relative à cette location (2).
 
 2° La taxe sur la valeur ajoutée ayant grevé les biens ou les services utilisés pour l'extraction, la fabrication, le transport par pipe-line ou le stockage des produits pétroliers ne peut être déduite, lorsque ces opérations sont effectuées dans des installations placées sous un régime suspensif prévu par la législation douanière, que de la taxe sur la valeur ajoutée due lors de la mise à la consommation de ces produits.
 
