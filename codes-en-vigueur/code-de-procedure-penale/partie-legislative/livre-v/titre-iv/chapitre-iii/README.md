@@ -7,3 +7,4 @@
 - [Article 747-5](article-747-5.md)
 - [Article 747-6](article-747-6.md)
 - [Article 747-7](article-747-7.md)
+- [Article 747-8](article-747-8.md)
