@@ -1,4 +1,0 @@
-# CONDITIONS DE LICENCIEMENT DES REPRESENTANTS DU PERSONNEL .
-
-- [Article L436-1](article-l436-1.md)
-- [Article L436-2](article-l436-2.md)

@@ -6,4 +6,3 @@
 - [Chapitre IV : Fonctionnement.](chapitre-iv)
 - [Chapitre V : LICENCIEMENT DES DELEGUES DU PERSONNEL.](chapitre-v)
 - [Chapitre VI : Dispositions générales.](chapitre-vi)
-- [Article L420-9](article-l420-9.md)
