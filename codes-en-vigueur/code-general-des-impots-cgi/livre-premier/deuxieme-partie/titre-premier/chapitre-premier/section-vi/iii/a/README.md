@@ -3,3 +3,4 @@
 - [Article 1516](article-1516.md)
 - [Article 1517](article-1517.md)
 - [Article 1518](article-1518.md)
+- [Article 1518 bis](article-1518-bis.md)

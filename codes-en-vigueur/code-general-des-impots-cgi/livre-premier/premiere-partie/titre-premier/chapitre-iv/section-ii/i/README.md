@@ -9,6 +9,8 @@
 - [Article 237 ter](article-237-ter.md)
 - [Article 237 quinquies](article-237-quinquies.md)
 - [Article 238](article-238.md)
+- [Article 238 bis](article-238-bis.md)
+- [Article 238 bis-0 A](article-238-bis-0-a.md)
 - [Article 238 bis C](article-238-bis-c.md)
 - [Article 238 bis A](article-238-bis-a.md)
 - [Article 238 bis AA](article-238-bis-aa.md)

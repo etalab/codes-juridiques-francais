@@ -20,5 +20,6 @@
 - [Article 163 quinquies](article-163-quinquies.md)
 - [Article 163 quinquies A](article-163-quinquies-a.md)
 - [b : Détaxation du revenu investi en actions](b)
+- [Créateurs d'entreprises.](createurs-d-entreprises)
 - [Détaxation du revenu investi en actions](detaxation-du-revenu-investi-en-actions)
 - [Financement en capital d'oeuvres cinématographiques ou audiovisuelles.](financement-en-capital-d-oeuvres-cinematographiques-ou)

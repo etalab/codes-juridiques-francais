@@ -1,5 +1,6 @@
 # Section III : Détermination du bénéfice imposable
 
+- [Article 209 bis](article-209-bis.md)
 - [Article 209 ter](article-209-ter.md)
 - [Article 209 quater](article-209-quater.md)
 - [Article 209 quater C](article-209-quater-c.md)
@@ -24,6 +25,7 @@
 - [Article 212](article-212.md)
 - [Article 213](article-213.md)
 - [Article 214](article-214.md)
+- [Article 214 A](article-214-a.md)
 - [Article 214 B](article-214-b.md)
 - [Article 214 BA](article-214-ba.md)
 - [Article 216](article-216.md)

@@ -1,5 +1,6 @@
 # Chapitre III : Autres droits et taxes
 
+- [Section 0I : Prélèvement d'office sur les bons et titres anonymes](section-0i)
 - [Section 0II : Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales](section-0ii)
 - [Section I : Taxe sur les conventions d'assurances](section-i)
 - [Section II : Taxe d'accroissement](section-ii)

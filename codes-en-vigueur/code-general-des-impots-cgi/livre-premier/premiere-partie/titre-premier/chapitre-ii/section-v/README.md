@@ -4,6 +4,7 @@
 - [Article 219 ter](article-219-ter.md)
 - [Article 219 quater](article-219-quater.md)
 - [Article 219 quinquies](article-219-quinquies.md)
+- [Article 220](article-220.md)
 - [Article 220 C](article-220-c.md)
 - [Article 220 bis](article-220-bis.md)
 - [Article 220 quater](article-220-quater.md)

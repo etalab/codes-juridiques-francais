@@ -9,6 +9,7 @@
 - [Article 1729](article-1729.md)
 - [Article 1730](article-1730.md)
 - [Article 1732](article-1732.md)
+- [Article 1733](article-1733.md)
 - [Article 1734 bis](article-1734-bis.md)
 - [Article 1735 bis](article-1735-bis.md)
 - [Article 1736](article-1736.md)
