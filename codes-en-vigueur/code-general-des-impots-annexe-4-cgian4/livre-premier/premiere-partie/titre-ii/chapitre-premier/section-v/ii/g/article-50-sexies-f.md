@@ -9,5 +9,3 @@ Les fabricants, importateurs ou marchands doivent déclarer leurs livraisons de 
 Ils doivent adresser ces déclarations au service des impôts dont ils dépendent dans les huit jours qui suivent les livraisons.
 
 Les exploitants de spectacles qui achètent leurs billets directement à l'étranger sont considérés comme importateurs et astreints aux déclarations prévues au présent article.
-
-Lorsqu'elles concernent les livraisons de billets ou de cartes d'entrée dans les salles de spectacles cinématographiques, les déclarations prévues au présent article sont souscrites par le centre national de la cinématographie française.

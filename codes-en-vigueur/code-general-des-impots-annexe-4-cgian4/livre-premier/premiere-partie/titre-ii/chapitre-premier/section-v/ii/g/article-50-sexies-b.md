@@ -18,4 +18,4 @@ Le Centre national de la cinématographie s'assure de la conformité des matéri
 
 Les caisses automatisées et les systèmes informatisés sont pourvus de dispositifs qui permettent aux agents des impôts et du Centre national de la cinématographie, chargés du contrôle, de vérifier à tout moment que l'utilisation des matériels est conforme aux cahiers des charges et de s'assurer du respect de la réglementation en vigueur.
 
-Les caisses automatisées et les systèmes informatisés peuvent être équipés d'un dispositif permettant la vente, par avance, de billets d'entrée à une séance déterminée. Dans ce cas, les billets ne peuvent être délivrés que pour la semaine cinématographique en cours.
+Les caisses automatisées et les systèmes informatisés peuvent être équipés d'un dispositif permettant la vente, par avance, de billets d'entrée à une séance déterminée. Dans ce cas, les billets ne peuvent être délivrés qu'au maximum sept jours à l'avance.
