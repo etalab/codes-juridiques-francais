@@ -5,5 +5,4 @@
 - [V : Formalités administratives.](v)
 - [VI : Navigation intérieure et navigation maritime de plaisance](vi)
 - [VII : Permis de chasser](vii)
-- [X : Pouvoirs délivrés par les actionnaires](x)
 - [XI : Armes à feu](xi)

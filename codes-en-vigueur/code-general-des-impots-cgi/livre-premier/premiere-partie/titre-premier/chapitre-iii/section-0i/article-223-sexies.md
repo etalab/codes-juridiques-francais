@@ -6,13 +6,13 @@ Il est également exigible lorsque les produits distribués sont prélevés sur 
 
 Le précompte est exigible en cas de distribution de bénéfices ayant été pris en compte pour le calcul de la créance prévue au I de l'article 220 quinquies.
 
-Lorsque les sommes distribuées sont prélevées sur la réserve spéciale des plus-values à long terme, le précompte dû ne peut excéder un montant égal à la différence entre :
+Lorsque les sommes distribuées sont prélevées sur la réserve spéciale des plus-values à long terme ou sur des bénéfices d'exercice clos depuis cinq ans au plus imposés aux taux prévus au b du I de l'article 219 le précompte dû ne peut excéder un montant égal à la différence entre :
 
-a. Le produit du taux normal de l'impôt sur les sociétés mentionné au I de l'article 219 du code général des impôts et du montant de la somme prélevée augmenté de l'impôt correspondant supporté lors de la réalisation de la plus-value à long terme ;
+a. Le produit du taux normal de l'impôt sur les sociétés mentionné au I de l'article 219 du code général des impôts et du montant de la somme prélevée augmenté de l'impôt correspondant supporté lors de la réalisation de la plus-value à long terme ou du bénéfice ;
 
 b. Le montant de ce dernier impôt.
 
-2. Un décret fixe les modalités d'application du présent article. Il précise notamment les postes du bilan sur lesquels les répartitions doivent être imputées ainsi que l'ordre de cette imputation (1).
+2. Un décret fixe les modalités d'application du présent article. Il précise notamment les postes du bilan sur lesquels les répartitions doivent être imputées ainsi que l'ordre de cette imputation.
 
 3. Les dispositions du présent article ne sont pas applicables aux produits distribués :
 
@@ -24,7 +24,7 @@ b. Le montant de ce dernier impôt.
 
 4° Par les sociétés agréées pour le financement des télécommunications lorsqu'ils sont prélevés sur des résultats exonérés en application des premier et deuxième alinéas du 3° quinquies de l'article 208 ou lorsqu'ils sont distribués en application du quatrième alinéa du même article ;
 
-5° (supprimé)
+5° (Abrogé pour les exercices ouverts à compter du 1er janvier 2000).
 
 6° Par les sociétés de capital-risque lorsque ces distributions proviennent de produits et plus-values nets exonérés en application du 3° septies de l'article 208.
 
@@ -32,8 +32,4 @@ b. Le montant de ce dernier impôt.
 
 8° Par les sociétés qui, à la date de la distribution ainsi qu'à la clôture de l'exercice dont les résultats sont distribués, ont pour activité exclusive la gestion d'un portefeuille de titres de participations, ont deux tiers au moins de leur actif immobilisé composé de participations dans des sociétés dont le siège social est situé hors de France qui ouvrent droit au régime prévu aux articles 145 et 216 et retirent de ces participations deux tiers au moins de leur bénéfice comptable hors plus-values.
 
-Toutefois, l'exonération de précompte ne s'applique que pour la partie de la distribution qui provient des dividendes de ces participations (2).
-
-(1) Annexe III, art. 46 quater-0 C à 46 quater-0 F et 381 T.
-
-(2) Annexe III, art. 46 quater-0 FA.
+Toutefois, l'exonération de précompte ne s'applique que pour la partie de la distribution qui provient des dividendes de ces participations.

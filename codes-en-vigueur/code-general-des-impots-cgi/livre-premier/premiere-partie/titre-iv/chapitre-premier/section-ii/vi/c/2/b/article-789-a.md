@@ -2,7 +2,7 @@
 
 Sont exonérées de droits de mutation par décès, à concurrence de la moitié de leur valeur, les parts ou les actions d'une société ayant une activité industrielle, commerciale, artisanale, agricole ou libérale si les conditions suivantes sont réunies :
 
-a. Les parts ou les actions mentionnées ci-dessus doivent faire l'objet d'un engagement collectif de conservation d'une durée minimale de huit ans en cours au jour du décès, qui a été pris par le défunt, pour lui et ses ayants cause à titre gratuit, avec d'autres associés ;
+a. Les parts ou les actions mentionnées ci-dessus doivent faire l'objet d'un engagement collectif de conservation d'une durée minimale de deux ans en cours au jour du décès, qui a été pris par le défunt, pour lui et ses ayants cause à titre gratuit, avec d'autres associés ;
 
 b. L'engagement collectif de conservation doit porter sur au moins 25 % des droits financiers et des droits de vote attachés aux titres émis par la société s'ils sont admis à la négociation sur un marché réglementé ou, à défaut, sur au moins 34 %, y compris les parts ou actions transmises.
 
@@ -14,7 +14,7 @@ Pour le calcul des pourcentages prévus au premier alinéa, il est tenu compte d
 
 La valeur des titres de cette société qui sont transmis par décès bénéficie de l'exonération partielle à proportion de la valeur réelle de son actif brut qui correspond à la participation ayant fait l'objet de l'engagement collectif de conservation ;
 
-c. Chacun des héritiers, donataires ou légataires prend l'engagement dans la déclaration de succession, pour lui et ses ayants cause à titre gratuit, de conserver les parts ou les actions transmises pendant une durée de huit ans à compter de la date d'expiration du délai visé au a.
+c. Chacun des héritiers, donataires ou légataires prend l'engagement dans la déclaration de succession, pour lui et ses ayants cause à titre gratuit, de conserver les parts ou les actions transmises pendant une durée de six ans à compter de la date d'expiration du délai visé au a.
 
 En cas de démembrement de propriété, l'engagement de conservation est signé conjointement par l'usufruitier et le nu-propriétaire. En cas de réunion de l'usufruit à la nue-propriété, le terme de l'engagement de conservation des titres dont la pleine propriété est reconstituée demeure identique à celui souscrit conjointement ;
 

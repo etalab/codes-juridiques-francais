@@ -58,6 +58,8 @@ c. De travaux d'entretien, autres que l'entretien des espaces verts et les trava
 
 Un décret en Conseil d'Etat définit les conditions d'application des b et c ;
 
+7° ter Les livraisons à soi-même d'ouvrages de circulation routière donnant lieu à la perception de péages soumis à la taxe sur la valeur ajoutée ; (1)
+
 8° Les opérations suivantes assimilées, selon le cas, à des livraisons de biens ou à des prestations de services effectuées à titre onéreux.
 
 1. Sont assimilés à des livraisons de biens effectuées à titre onéreux :
@@ -105,3 +107,5 @@ d) (Abrogé à compter du 1er janvier 1995) ;
 18° La redevance pour droit d'usage des appareils récepteurs de télévision prévue par l'article 53 de la loi 86-1067 du 30 septembre 1986 modifiée relative à la liberté de communication ;
 
 19° Les sommes attribuées par les sociétés de course au titre des gains de course réalisés par les entraîneurs pour les chevaux dont ils sont propriétaires.
+
+(1) Ces dispositions sont applicables aux ouvrages mis en service à compter du 12 septembre 2000.
