@@ -12,4 +12,4 @@ Pour l'application du présent code à Mayotte, les termes énumérés ci-après
 
 4° "Département" ou "arrondissement" par : "collectivité départementale" ;
 
-5° "Code de procédure civile" ou "nouveau code de procédure civile" par : "dispositions de procédure civile applicables à Mayotte".
+5° (Alinéa supprimé).
