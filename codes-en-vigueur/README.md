@@ -6,6 +6,7 @@
 - [Code de la santé publique](code-de-la-sante-publique)
 - [Code des douanes](code-des-douanes)
 - [Code du travail maritime](code-du-travail-maritime)
+- [Code minier](code-minier)
 - [Code rural ancien](code-rural-ancien)
 - [Code de la famille et de l'aide sociale.](code-de-la-famille-et-de-l-aide-sociale)
 - [Code des instruments monétaires et des médailles](code-des-instruments-monetaires-et-des-medailles)
