@@ -1,5 +1,6 @@
 # Section 2 : Emploi des enfants dans les spectacles et les professions ambulantes.
 
+- [Emploi des enfants comme mannequins dans la publicité et la mode.](emploi-des-enfants-comme-mannequins-dans-la-publicite-et)
 - [Article L211-6](article-l211-6.md)
 - [Article L211-7](article-l211-7.md)
 - [Article L211-8](article-l211-8.md)

@@ -2,6 +2,8 @@
 
 - [Article 34](article-34.md)
 - [Article 35](article-35.md)
+- [Article 35-1](article-35-1.md)
+- [Article 35-2](article-35-2.md)
 - [Article 39](article-39.md)
 - [Article 40](article-40.md)
 - [Article 41](article-41.md)

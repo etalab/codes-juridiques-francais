@@ -6,4 +6,5 @@
 - [Paragraphe 4 : Filets, engins et moyens de pêche autorisés ou prohibés.](paragraphe-4)
 - [Paragraphe 5 : Zones de protection du poisson.](paragraphe-5)
 - [Paragraphe 6 : Dispositions pénales.](paragraphe-6)
+- [Paragraphe 7 : Capture de géniteurs.](paragraphe-7)
 - [Article R*236-99](article-r-236-99.md)
