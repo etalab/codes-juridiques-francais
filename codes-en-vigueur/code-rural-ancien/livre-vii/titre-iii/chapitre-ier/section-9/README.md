@@ -2,6 +2,7 @@
 
 - [Article 1178](article-1178.md)
 - [Article 1179](article-1179.md)
+- [Article 1180](article-1180.md)
 - [Article 1181](article-1181.md)
 - [Article 1182](article-1182.md)
 - [Article 1183](article-1183.md)
