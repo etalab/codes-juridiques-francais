@@ -2,7 +2,7 @@
 
 I. Lorsque l'autorité judiciaire, saisie par l'administration fiscale, estime qu'il existe des présomptions qu'un contribuable se soustrait à l'établissement ou au paiement des impôts sur le revenu ou sur les bénéfices ou de la taxe sur la valeur ajoutée en se livrant à des achats ou à des ventes sans facture, en utilisant ou en délivrant des factures ou des documents ne se rapportant pas à des opérations réelles ou en omettant sciemment de passer ou de faire passer des écritures ou en passant ou en faisant passer sciemment des écritures inexactes ou fictives dans des documents comptables dont la tenue est imposée par le code général des impôts, elle peut, dans les conditions prévues au II, autoriser les agents de l'administration des impôts, ayant au moins le grade d'inspecteur et habilités à cet effet par le directeur général des impôts, à rechercher la preuve de ces agissements, en effectuant des visites en tous lieux, même privés, où les pièces et documents s'y rapportant sont susceptibles d'être détenus et procéder à leur saisie.
 
-II. Chaque visite doit être autorisée par une ordonnance du président du tribunal de grande instance dans le ressort duquel sont situés les lieux à visiter ou d'un juge délégué par lui.
+II. Chaque visite doit être autorisée par une ordonnance du juge des libertés et de la détention du tribunal de grande instance dans le ressort duquel sont situés les lieux à visiter (1).
 
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui est soumise est bien fondée ; cette demande doit comporter tous les éléments d'information en possession de l'administration de nature à justifier la visite.
 
@@ -32,7 +32,7 @@ A défaut de réception, il est procédé à la signification de l'ordonnance da
 
 Les délai et modalités de la voie de recours sont mentionnés sur les actes de notification et de signification.
 
-L'ordonnance mentionnée au premier alinéa n'est susceptible que d'un pourvoi en cassation selon les règles prévues par le code de procédure pénale ; ce pourvoi n'est pas suspensif [*contrôle de la régularité des opérations*]. Les délais de pourvoi courent à compter de la notification ou de la signification de l'ordonnance.
+L'ordonnance mentionnée au premier alinéa n'est susceptible que d'un pourvoi en cassation selon les règles prévues par le code de procédure pénale ; ce pourvoi n'est pas suspensif. Les délais de pourvoi courent à compter de la notification ou de la signification de l'ordonnance.
 
 III. La visite, qui ne peut être commencée avant six heures ni après vingt et une heures, est effectuée en présence de l'occupant des lieux ou de son représentant ; en cas d'impossibilité, l'officier de police judiciaire requiert deux témoins choisis en dehors des personnes relevant de son autorité ou de celle de l'administration des impôts.
 
@@ -51,3 +51,5 @@ V. Les originaux du procès-verbal et de l'inventaire sont, dès qu'ils ont ét�
 Les pièces et documents saisis sont restitués à l'occupant des locaux dans les six mois de la visite ; toutefois, lorsque des poursuites pénales sont engagées, leur restitution est autorisée par l'autorité judiciaire compétente.
 
 VI. L'administration des impôts ne peut opposer au contribuable les informations recueillies qu'après restitution des pièces et documents saisis ou de leur reproduction et mise en oeuvre des procédures de contrôle visées aux premier et deuxième alinéas de l'article L. 47.
+
+(1) Ces dispositions entreront en vigueur le 16 juin 2002. Jusqu'à cette date, le président du tribunal peut confier cette autorisation au juge des libertés et de la détention.
