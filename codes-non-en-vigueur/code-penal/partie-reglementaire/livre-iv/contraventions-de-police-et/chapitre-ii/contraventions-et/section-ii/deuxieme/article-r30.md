@@ -1,6 +1,8 @@
 # Article R30
 
-Seront punis d'une amende depuis 40 F jusqu'à 80 F [*(nota)*] inclusivement :
+Seront punis d'une amende depuis 250 F jusqu'à 600 F [*(taux résultant du décret 85-956 du 11 septembre 1985)*] inclusivement :
+
+inclusivement :
 
 1. Ceux qui auront contrevenu aux bans de vendanges ou autres bans autorisés par les règlements ;
 

@@ -1,6 +1,6 @@
 # Article R26
 
-Seront punis d'amende, depuis 3 F jusqu'à 40 F inclusivement :
+Seront punis d'amende, [*sanction*] depuis 30 F jusqu'à 250 F [*taux résultant du décret 85-956 du 11 septembre 1985*] inclusivement :
 
 1. Ceux qui auront négligé d'entretenir, réparer ou nettoyer les fours, cheminées ou usines où l'on fait usage du feu ;
 

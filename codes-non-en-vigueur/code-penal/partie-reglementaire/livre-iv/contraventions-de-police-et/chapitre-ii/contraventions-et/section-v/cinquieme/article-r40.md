@@ -1,6 +1,6 @@
 # Article R40
 
-Seront punis d'un emprisonnement de dix jours à un mois et d'une amende de 1.200 F à 3.000 F [*taux résultant du décret du 18 juillet 1980*], ou de l'une de ces deux peines seulement :
+Seront punis d'un emprisonnement de dix jours à un mois et d'une amende de 2.500 F à 5.000 F [*taux résultant du décret du 11 septembre 1985*], ou de l'une de ces deux peines seulement :
 
 1° Les individus et leurs complices qui, volontairement, auront fait des blessures ou porté des coups ou commis toute autre violence ou voie de fait, dont il n'est pas résulté une maladie ou une incapacité totale de travail personnel excédant huit jours, sans préjudice de l'application des autres dispositions prévues par le code pénal ou des lois particulières.
 
