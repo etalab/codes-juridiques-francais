@@ -1,6 +1,7 @@
 # I. Organisation et défense du marché du blé
 
 - [Titre I : Evaluation des disponibilités.](titre-i)
+- [Titre II : Ajustement de la production aux besoins de la consommation.](titre-ii)
 - [Titre III : Stockage des blés et organisation de la vente échelonnée.](titre-iii)
 - [Titre IV : Résorption des excédents.](titre-iv)
 - [Titre V : Cotation de blés et farines. Prix du pain.](titre-v)
