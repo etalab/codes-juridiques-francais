@@ -32,6 +32,7 @@
 - [Article 1228](article-1228.md)
 - [Article 1229](article-1229.md)
 - [Article 1230](article-1230.md)
+- [Article 1231](article-1231.md)
 - [Article 1231-1](article-1231-1.md)
 - [Article 1231-1 bis](article-1231-1-bis.md)
 - [Article 1231-2](article-1231-2.md)
