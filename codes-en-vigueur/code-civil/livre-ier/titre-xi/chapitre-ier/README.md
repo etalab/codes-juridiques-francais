@@ -1,5 +1,6 @@
 # Chapitre Ier : Dispositions générales.
 
+- [Article 488](article-488.md)
 - [Article 489](article-489.md)
 - [Article 489-1](article-489-1.md)
 - [Article 489-2](article-489-2.md)
