@@ -5,3 +5,5 @@
 - [Section 3 : De l'objet et de la matière des contrats.](section-3)
 - [Section 4 : De la cause.](section-4)
 - [Article 1108](article-1108.md)
+- [Article 1108-1](article-1108-1.md)
+- [Article 1108-2](article-1108-2.md)
