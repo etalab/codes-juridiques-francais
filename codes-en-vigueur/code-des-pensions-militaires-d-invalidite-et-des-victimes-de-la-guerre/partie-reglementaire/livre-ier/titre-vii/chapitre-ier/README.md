@@ -6,3 +6,4 @@
 - [Section 5 : Enquêtes et contrôles.](section-5)
 - [Section 6 : Prestations sanitaires, médicaments, eaux minérales.](section-6)
 - [Section 7 : Examens radiologiques.](section-7)
+- [Section 8 : Tarifs des honoraires médicaux et frais accessoires.](section-8)
