@@ -6,6 +6,10 @@ Le directeur gère le budget ; il est à cet effet ordonnateur des recettes et d
 
 Pour les acquisitions, échanges, ventes, cessions d'immeubles ou de droits immobiliers, et d'une façon générale pour tous les actes de disposition ou ayant pour effet ou pour objet de consentir ou d'abandonner tous droits à caractère immobilier, il ne peut stipuler que conformément aux autorisations accordées par le conseil d'administration.
 
+Il nomme les délégués des rivages du conservatoire qui, sous son autorité, mettent en oeuvre, dans leur territoire de compétence, la politique de l'établissement définie par le conseil d'administration. Il peut les désigner comme ordonnateurs secondaires ; il peut également désigner des comptables secondaires après avis de l'agent comptable principal et agrément du ministre chargé du budget.
+
+Le directeur est la personne responsable des marchés pour les marchés de l'établissement public. Il peut déléguer ses compétences aux délégués des rivages, pour la passation des marchés de travaux et de services relatifs à l'aménagement et à la gestion des biens immobiliers, conformément à la détermination du niveau de prise en compte des besoins arrêtée par le conseil d'administration.
+
 Il représente l'établissement en justice.
 
 Il peut déléguer sa signature.
