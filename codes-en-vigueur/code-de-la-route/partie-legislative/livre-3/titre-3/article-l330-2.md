@@ -14,7 +14,7 @@ I. - Ces informations, à l'exception de celles relatives aux gages constitués 
 
 6° Aux préfets, pour l'exercice de leurs compétences en matière de circulation des véhicules ;
 
-7° Aux services du ministre chargé de l'industrie et du ministre chargé des transports pour l'exercice de leurs compétences ;
+7° Aux services du ministre de l'intérieur, du ministre de la défense, du ministre chargé de l'industrie et du ministre chargé des transports pour l'exercice de leurs compétences ;
 
 8° Aux entreprises d'assurances garantissant les dommages subis par des tiers résultant d'atteintes aux personnes ou aux biens dans la réalisation desquels un véhicule à moteur, ainsi que ses remorques, est impliqué et aux organismes assimilés à ces entreprises dès lors que ces informations ont pour seul but d'identifier les biens et les personnes impliqués dans un accident de la circulation à condition qu'au moins un des véhicules soit assuré par le demandeur ou que ce dernier ait en charge l'indemnisation d'une des victimes.
 

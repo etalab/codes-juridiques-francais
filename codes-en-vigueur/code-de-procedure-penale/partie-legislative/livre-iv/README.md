@@ -18,3 +18,5 @@
 - [Titre XX : Du fichier national automatisé des empreintes génétiques](titre-xx)
 - [Titre XIX : De la procédure applicable aux infractions de nature sexuelle et de la protection des mineurs victimes](titre-xix)
 - [Titre XXI : De la protection des témoins](titre-xxi)
+- [Titre XXII : Saisine pour avis de la Cour de cassation](titre-xxii)
+- [Titre XXIII : De l'utilisation de moyens de télécommunications au cours de la procédure](titre-xxiii)

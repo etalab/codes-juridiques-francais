@@ -10,6 +10,7 @@
 - [Article 434-14](article-434-14.md)
 - [Article 434-15](article-434-15.md)
 - [Article 434-15-1](article-434-15-1.md)
+- [Article 434-15-2](article-434-15-2.md)
 - [Article 434-16](article-434-16.md)
 - [Article 434-17](article-434-17.md)
 - [Article 434-18](article-434-18.md)

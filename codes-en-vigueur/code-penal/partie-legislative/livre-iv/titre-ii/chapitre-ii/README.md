@@ -5,3 +5,5 @@
 - [Article 422-3](article-422-3.md)
 - [Article 422-4](article-422-4.md)
 - [Article 422-5](article-422-5.md)
+- [Article 422-6](article-422-6.md)
+- [Article 422-7](article-422-7.md)

@@ -5,3 +5,5 @@
 - [Article 706-59](article-706-59.md)
 - [Article 706-60](article-706-60.md)
 - [Article 706-61](article-706-61.md)
+- [Article 706-62](article-706-62.md)
+- [Article 706-63](article-706-63.md)
