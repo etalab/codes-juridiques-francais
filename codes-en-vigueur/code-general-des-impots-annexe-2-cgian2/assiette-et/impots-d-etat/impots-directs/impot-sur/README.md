@@ -1,5 +1,0 @@
-# IMPOT SUR LE REVENU
-
-- [CALCUL DE L'IMPOT.](calcul-de-l-impot)
-- [DETERMINATION DES BENEFICES OU REVENUS NETS DES DIVERSES CATEGORIES DE REVENUS.](determination-des-benefices-ou)
-- [REVENU GLOBAL.](revenu-global)
