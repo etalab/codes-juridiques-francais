@@ -6,3 +6,4 @@
 - [Titre 4 : Obligations de l'armateur envers le marin](titre-4)
 - [Titre 6 : Dispositions spéciales à certaines catégories de marins](titre-6)
 - [Titre 7 : Des litiges entre armateurs et marins](titre-7)
+- [Titre 8 : Dispositions diverses](titre-8)
