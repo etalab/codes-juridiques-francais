@@ -1,6 +1,6 @@
 # Chapitre II : Dispositions particulières à certaines matières
 
-- [Section II : Dispositions particulières en matière de brevets d'inventions et d'obtentions végétales](section-ii)
+- [Section II : Dispositions particulières en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection, de topographies de produits semi-conducteurs et d'obtentions végétales.](section-ii)
 - [Section III : Dispositions particulières en matière de baux commerciaux](section-iii)
 - [Section IV : Dispositions particulières aux professions juridiques et judiciaires](section-iv)
 - [Section V : Dispositions particulières en matière commerciale](section-v)
