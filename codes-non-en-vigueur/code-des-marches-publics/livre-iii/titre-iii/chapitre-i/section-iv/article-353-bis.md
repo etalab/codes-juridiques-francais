@@ -1,5 +1,5 @@
 # Article 353 bis
 
-Le marché doit préciser les délais ouverts à la collectivité ou à l'établissement contractant pour procéder au mandatement des acomptes et du solde. Pour les acomptes, ce délai ne peut dépasser trois mois.    Les délais courent à partir des termes périodiques ou du terme final fixés par le marché ou, lorsque le marché n'a pas fixé de tels termes, à partir de la réception de la demande du titulaire appuyée, si besoin est, des justifications nécessaires.
+Le délai prévu à l'article précédent ne peut être suspendu qu'une seule fois et par l'envoi au titulaire, huit jours au moins avant l'expiration du délai, d'une lettre recommandée avec avis de réception postal lui faisant connaître les raisons qui, imputables au titulaire, s'opposent au mandatement et précisant notamment les pièces à fournir ou à compléter. Cette lettre doit indiquer qu'elle a pour effet de suspendre le délai de mandatement jusqu'à la remise par le titulaire, au moyen d'une lettre recommandée avec avis de réception postal, portant bordereau des pièces transmises, de la totalité des justifications qui lui ont été réclamées.
 
-Lorsqu'il est imputable à la collectivité ou à l'établissement, le défaut de mandatement dans les délais fixés fait courir de plein droit et sans autre formalité des intérêts moratoires qui sont calculés depuis le jour suivant l'expiration desdits délais jusqu'au jour du mandatement.
+Le délai laissé à l'ordonnateur pour mandater, à compter de la fin de la suspension, ne peut, en aucun cas, être inférieur à quinze jours.
