@@ -2,6 +2,7 @@
 
 - [Article 144](article-144.md)
 - [Article 148-1](article-148-1.md)
+- [Article 148-2](article-148-2.md)
 - [Article 148-3](article-148-3.md)
 - [Article 148-5](article-148-5.md)
 - [Article 148-6](article-148-6.md)
