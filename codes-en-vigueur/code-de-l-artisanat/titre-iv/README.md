@@ -1,5 +1,6 @@
 # Titre IV : De l'apprentissage artisanal.
 
+- [Article 36](article-36.md)
 - [Article 37](article-37.md)
 - [Article 38](article-38.md)
 - [Article 39](article-39.md)
@@ -10,6 +11,7 @@
 - [Article 44](article-44.md)
 - [Article 45](article-45.md)
 - [Article 46](article-46.md)
+- [Article 47](article-47.md)
 - [Article 48](article-48.md)
 - [Article 49](article-49.md)
 - [Article 50](article-50.md)
