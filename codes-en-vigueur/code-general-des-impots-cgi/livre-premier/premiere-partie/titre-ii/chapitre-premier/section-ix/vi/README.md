@@ -1,5 +1,6 @@
 # VI : Régime de la presse et de ses fournisseurs
 
+- [Article 298 septies](article-298-septies.md)
 - [Article 298 octies](article-298-octies.md)
 - [Article 298 nonies](article-298-nonies.md)
 - [Article 298 decies](article-298-decies.md)
