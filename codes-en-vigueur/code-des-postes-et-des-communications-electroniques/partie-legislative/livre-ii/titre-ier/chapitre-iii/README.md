@@ -3,7 +3,6 @@
 - [Article L39](article-l39.md)
 - [Article L39-1](article-l39-1.md)
 - [Article L39-2](article-l39-2.md)
-- [Article L39-3](article-l39-3.md)
 - [Article L39-4](article-l39-4.md)
 - [Article L39-5](article-l39-5.md)
 - [Article L39-6](article-l39-6.md)
