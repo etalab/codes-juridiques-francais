@@ -2,3 +2,4 @@
 
 - [Section 1 : Mode de scrutin](section-1)
 - [Section 2 : Déclarations de candidatures](section-2)
+- [Section 3 : Opérations de vote](section-3)
