@@ -1,8 +1,8 @@
 # Article R322-9
 
-En cas de vente ou de cession à titre gratuit d'un véhicule pour destruction, à l'exception des cas visés à l'article L. 326-11, le propriétaire remet la carte grise à un démolisseur, ou broyeur, agréé après y avoir apposé d'une manière très lisible et inaltérable, la mention "vendu le ../../.... (date de la mutation) pour destruction" ou "cédé le ../../.... (date de la mutation) pour destruction", suivie de sa signature, et avoir découpé la partie prévue à cet effet.
+En cas de vente ou de cession à titre gratuit d'un véhicule pour destruction, à l'exception des cas visés à l'article L. 327-2, le propriétaire remet la carte grise à un démolisseur, ou broyeur, agréé après y avoir apposé d'une manière très lisible et inaltérable, la mention " vendu le.. /.. /.... (date de la mutation) pour destruction " ou " cédé le.. /.. /.... (date de la mutation) pour destruction ", suivie de sa signature, et avoir découpé la partie supérieure droite de ce document. Lorsque ce document comporte un coupon détachable, le propriétaire le découpe et l'adresse dûment rempli au préfet du département d'immatriculation du véhicule dans un délai de quinze jours.
 
-A défaut de carte grise, à l'exception des cas visés à l'article L. 326-11, le propriétaire remet soit un document officiel prouvant que la carte grise ne peut être fournie, soit un justificatif de propriété dans le cas d'un véhicule âgé de plus de vingt-cinq ans.
+A défaut de carte grise, à l'exception des cas visés à l'article L. 327-2, le propriétaire remet soit un document officiel prouvant que la carte grise ne peut être fournie, soit un justificatif de propriété dans le cas d'un véhicule âgé de plus de vingt-cinq ans.
 
 Le démolisseur, ou le broyeur, agréé remet en contrepartie au propriétaire, dans un délai de quinze jours à compter de la date de mutation du véhicule, un récépissé de prise en charge pour destruction.
 
