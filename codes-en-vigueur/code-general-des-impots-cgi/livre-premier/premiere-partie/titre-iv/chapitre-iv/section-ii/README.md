@@ -11,6 +11,7 @@
 - [3° : Comités professionnels de développement économique](3)
 - [4° : Etat](4)
 - [5° : Etablissements publics à caractère scientifique et culturel](5)
+- [6° : Conservatoire de l'espace littoral et des rivages lacustres](6)
 - [8°  : Etablissements publics de coopération intercommunale](8)
 - [9° : Départements d'outre-mer](9)
 - [Collectivités locales et établissements publics locaux](collectivites-locales-et)
