@@ -16,6 +16,6 @@ c) Soit une attestation notariée établissant que l'intéressé est devenu prop
 
 d) Soit une attestation du directeur des services fiscaux établissant que l'intéressé, au vu notamment des rôles de l'année précédant celle de l'élection et des éléments que celui-ci produit, et sous réserve d'une modification de sa situation dont l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait être inscrit au rôle des contributions directes dans le département au 1er janvier de l'année de l'élection.
 
-En outre, s'il n'est pas maire, conseiller général, conseiller régional, député ou sénateur, le candidat doit produire un titre d'identité ou, à défaut, une fiche d'état civil établissant qu'il aura vingt et un ans révolus le jour de l'élection.
+En outre, s'il n'est pas maire, conseiller général, conseiller régional, député ou sénateur, le candidat doit produire un titre d'identité établissant qu'il aura dix-huit ans révolus le jour de l'élection.
 
 La délivrance du récépissé par le préfet ne fait pas obstacle à ce que l'éligibilité du candidat puisse être contestée devant le juge de l'élection.
