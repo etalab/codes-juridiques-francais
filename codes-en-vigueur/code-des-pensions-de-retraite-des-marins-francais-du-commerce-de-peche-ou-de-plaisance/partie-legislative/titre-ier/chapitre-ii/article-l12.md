@@ -30,4 +30,6 @@ Le temps pendant lequel les marins ayant accompli au moins dix ans [*durée*] de
 
 11° Le temps passé dans les activités mentionnées aux 7° et 10° dès lors que le marin est reconnu atteint d'une infirmité le mettant dans l'impossibilité absolue et définitive de continuer l'exercice de la navigation.
 
+12° Dans des limites fixées par voie réglementaire, les périodes pendant lesquelles un marin a perçu une pension d'invalidité en raison d'une maladie ou d'un accident non professionnels.
+
 La prise en compte de services accomplis par les marins dans d'autres positions spéciales afférentes à leur profession peut être autorisée par voie réglementaire.
