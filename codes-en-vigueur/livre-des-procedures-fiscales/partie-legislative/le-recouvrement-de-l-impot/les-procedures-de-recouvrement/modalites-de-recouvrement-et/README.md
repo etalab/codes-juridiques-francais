@@ -1,4 +1,3 @@
 # MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES.
 
 - [Article L255](article-l255.md)
-- [Article L256](article-l256.md)
