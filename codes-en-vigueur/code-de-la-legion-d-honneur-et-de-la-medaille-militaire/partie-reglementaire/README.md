@@ -3,3 +3,4 @@
 - [LIVRE I : Légion d'honneur](livre-i)
 - [LIVRE II : Médaille militaire](livre-ii)
 - [LIVRE III : Autorisation d'accepter et de porter des décorations étrangères](livre-iii)
+- [LIVRE IV : Dispositions pénales.](livre-iv)
