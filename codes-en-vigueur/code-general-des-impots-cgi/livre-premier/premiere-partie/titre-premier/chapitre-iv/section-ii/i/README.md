@@ -9,6 +9,7 @@
 - [Article 238 bis B](article-238-bis-b.md)
 - [Article 238 bis G](article-238-bis-g.md)
 - [Article 238 bis GA](article-238-bis-ga.md)
+- [Article 238 bis HA](article-238-bis-ha.md)
 - [Article 238 bis HC](article-238-bis-hc.md)
 - [Article 238 A](article-238-a.md)
 - [Article 238 B](article-238-b.md)
