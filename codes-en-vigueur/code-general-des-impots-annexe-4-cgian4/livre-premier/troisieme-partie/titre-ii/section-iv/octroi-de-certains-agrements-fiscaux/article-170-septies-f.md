@@ -4,6 +4,6 @@ I. Il est statué par le directeur des services fiscaux du département au chef-
 
 II. Toutefois, la décision prévue au I est prise par le ministre chargé du budget :
 
-1. Pour les opérations concernant des programmes industriels prévoyant la réalisation de plus de 50 000 000 F d'investissements hors taxes ou engagés par des entreprises réalisant un chiffre d'affaires supérieur à un milliard de francs ou dont le capital est détenu à plus de 50 p. 100 par une entreprise dont le chiffre d'affaires consolidé dépasse un milliard de francs ;
+1. Pour les opérations concernant des programmes industriels prévoyant la réalisation de plus de 7 600 000 € d'investissements hors taxes ou engagés par des entreprises réalisant un chiffre d'affaires supérieur à 150 000 000 € ou dont le capital est détenu à plus de 50% par une entreprise dont le chiffre d'affaires consolidé dépasse 150 000 000 € ;
 
 2. Pour les opérations présentant des difficultés particulières ou évoquées par le ministre.

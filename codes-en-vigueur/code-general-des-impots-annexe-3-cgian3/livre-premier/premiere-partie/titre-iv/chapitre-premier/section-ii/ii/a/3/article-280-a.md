@@ -12,4 +12,4 @@ Le gérant ou le dépositaire des actifs d'un fonds commun de placement agissant
 
 - le montant de la valeur de rachat de la part au jour du décès ou, à défaut de valeur de rachat déterminée à cette date, la date et le montant de la dernière valeur de rachat dégagée avant le décès et de celle dégagée immédiatement après ;
 
-2° Se conformer aux prescriptions des deux premiers alinéas du III de l'article 806 du code général des impôts vis-à-vis des héritiers, légataires, ou donataires domiciliés hors de France.
+2° Se conformer aux prescriptions des premier et deuxième alinéas du III de l'article 806 du code général des impôts vis-à-vis des héritiers, légataires, ou donataires domiciliés hors de France.

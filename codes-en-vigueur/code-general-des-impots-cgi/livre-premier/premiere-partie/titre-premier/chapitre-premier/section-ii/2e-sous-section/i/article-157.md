@@ -6,7 +6,7 @@ N'entrent pas en compte pour la détermination du revenu net global :
 
 2° bis (Périmé) ;
 
-3° Les lots et les primes de remboursement attachés aux bons et obligations émis en France avec l'autorisation du ministre de l'économie et des finances, à l'exception des primes de remboursement attachées aux titres émis à compter du 1er juin 1985 lorsqu'elles sont supérieures à 5 % du nominal et de celles distribuées ou réparties à compter du 1er janvier 1989 par un organisme de placement collectif en valeurs mobilières visé par les articles L. 214-2 et suivants du code monétaire et financier lorsque ces primes représentent plus de 10 p. 100 du montant de la distribution ou de la répartition.
+3° Les lots et les primes de remboursement attachés aux bons et obligations émis en France avec l'autorisation du ministre de l'économie et des finances à l'exception des primes de remboursement attachées aux titres émis à compter du 1er juin 1985 lorsqu'elles sont supérieures à 5 % du nominal et de celles distribuées ou réparties à compter du 1er janvier 1989 par un organisme de placement collectif en valeurs mobilières visé par les articles L. 214-2 et suivants du code monétaire et financier lorsque ces primes représentent plus de 10 p. 100 du montant de la distribution ou de la répartition.
 
 Ces dispositions ne sont pas applicables aux primes de remboursement définies au II de l'article 238 septies A.
 
@@ -16,11 +16,11 @@ Ces dispositions ne sont pas applicables aux primes de remboursement définies a
 
 a. Leur nature est en relation directe avec l'investissement financé ;
 
-b. Leur montant sur la durée de vie de l'emprunt n'excède pas 5 p. 100 du prix d'émission.
+b. Leur montant sur la durée de vie de l'emprunt n'excède pas 5 % du prix d'émission.
 
 4° Les pensions, prestations et allocations affranchies de l'impôt en vertu de l'article 81 ;
 
-5° (abrogé).
+5° (abrogé à compter du 30 juin 2000)
 
 5° bis Les produits et plus-values que procurent les placements effectués dans le cadre du plan d'épargne en actions défini à l'article 163 quinquies D ainsi que les avoirs fiscaux et crédits d'impôt restitués ; toutefois, à compter de l'imposition des revenus de 1997, les produits, avoirs fiscaux et crédits d'impôt restitués procurés par des placements effectués en actions ou parts de sociétés qui ne sont pas admises aux négociations sur un marché réglementé, à l'exception des intérêts versés dans les conditions prévues à l'article 14 de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération aux titres de capital de sociétés régies par cette loi, ne bénéficient de cette exonération que dans la limite de 10 % du montant de ces placements ;
 
@@ -40,7 +40,7 @@ b. Leur montant sur la durée de vie de l'emprunt n'excède pas 5 p. 100 du prix
 
 8° bis (disposition périmée).
 
-8° ter (Périmé).
+8° ter (disposition périmée).
 
 9° (Disposition devenue sans objet) ;
 
@@ -52,7 +52,7 @@ a) aux travailleurs, salariés de l'artisanat, des ateliers industriels, des cha
 
 b) aux aides familiaux ou aux associés d'exploitation désignés au 2° de l'article L. 722-10 du code rural et aux articles L. 321-6 et suivants du même code ;
 
-c) aux aides familiaux et associés d'exploitation de l'artisanat ;
+c) aux aides familiaux et associés d'exploitation de l'artisanat.
 
 Il en est de même de la prime versée au travailleur manuel qui procède effectivement à la création ou au rachat d'une entreprise artisanale ;
 
@@ -60,9 +60,9 @@ Il en est de même de la prime versée au travailleur manuel qui procède effect
 
 Il ne peut être ouvert qu'un compte par contribuable ou un pour chacun des époux soumis à une imposition commune.
 
-Les sommes déposées sur le compte prévu au premier alinéa ne peuvent excéder un plafond fixé par décret dans la limite de 30 000 F par compte.
+Les sommes déposées sur le compte prévu au premier alinéa ne peuvent excéder un plafond fixé par décret dans la limite de 4 600 euros par compte.
 
-9° quinquies Les intérêts des sommes inscrites sur les livrets d'épargne-entreprise ouverts dans les conditions fixées par l'article 1er de la loi n° 84-578 du 9 juillet 1984 modifiée, sur le développement de l'initiative économique.
+9° quinquies Les intérêts des sommes inscrites sur les livrets d'épargne-entreprise ouverts dans les conditions fixées par l'article 1er de la loi n° 84-578 du 9 juillet 1984 modifiée sur le développement de l'initiative économique.
 
 10° à 13° (Dispositions périmées) ;
 
@@ -84,7 +84,7 @@ Les sommes déposées sur le compte prévu au premier alinéa ne peuvent excéde
 
 22° Le versement de la prime d'épargne et de ses intérêts capitalisés ainsi que le versement au-delà de la huitième année qui suit l'ouverture du plan d'épargne populaire des produits capitalisés et de la rente viagère.
 
-Il en est de même lorsque le retrait des fonds intervient avant la fin de la huitième année, à la suite du décès du titulaire du plan ou dans les deux ans du décès du conjoint soumis à imposition commune ou de l'un des événements suivants survenu à l'un d'entre eux :
+Il en est de même lorsque le retrait des fonds intervient avant la fin de la huitième année à la suite du décès du titulaire du plan ou dans les deux ans du décès du conjoint soumis à imposition commune ou de l'un des événements suivants survenu à l'un d'entre eux :
 
 a) expiration des droits aux allocations d'assurance chômage prévues par le code du travail en cas de licenciement ;
 

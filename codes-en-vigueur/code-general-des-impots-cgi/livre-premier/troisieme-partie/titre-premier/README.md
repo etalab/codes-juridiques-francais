@@ -5,7 +5,7 @@
 - [Chapitre II : Casier fiscal](chapitre-ii)
 - [Chapitre IV : Exonérations fiscales contractuelles et agréments](chapitre-iv)
 - [Chapitre V : Départements d'outre-mer. Établissement et conservation du cadastre](chapitre-v)
-- [Chapitre VI : Règles d'arrondissement des bases d'impositions.](chapitre-vi)
+- [Chapitre VI : Règles d'arrondissement des bases d'imposition](chapitre-vi)
 - [Chapitre premier : Obligations des contribuables](chapitre-premier)
 - [Chapitre 00I ter : Transmission des déclarations par voie électronique](chapitre-00i-ter)
 - [Chapitre 0I ter : Entreprises de la batellerie](chapitre-0i-ter)

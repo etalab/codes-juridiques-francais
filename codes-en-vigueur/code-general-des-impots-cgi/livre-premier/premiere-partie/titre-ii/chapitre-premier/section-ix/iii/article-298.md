@@ -22,7 +22,7 @@ La valeur imposable peut être révisée au cours du quadrimestre pa décision d
 
 a les essences utilisées comme carburants mentionnées au tableau B de l'article 265 du code des douanes, à l'exception de celles utilisées pour les essais effectués pour les besoins de la fabrication de moteurs ou d'engins à moteur ;
 
-b les gazoles utilisés comme carburants mentionnés au tableau B de l'article 265 du code des douanes utilisés pour des véhicules et engins exclus du droit à déduction ainsi que pour des véhicules et engins pris en location quand le preneur ne peut pas déduire la taxe relative à cette location, à l'exception de ceux utilisés pour les essais effectués pour les besoins de la fabrication de moteurs ou d'engins à moteur ;
+b Dans la limite de 20 % de son montant (1), les gazoles utilisés comme carburants mentionnés au tableau B de l'article 265 du code des douanes utilisés pour des véhicules et engins exclus du droit à déduction ainsi que pour des véhicules et engins pris en location quand le preneur ne peut pas déduire la taxe relative à cette location, à l'exception de ceux utilisés pour les essais effectués pour les besoins de la fabrication de moteurs ou d'engins à moteur ;
 
 c les gaz de pétrole et autres hydrocarbures présentés à l'état gazeux (position 27.11.29 du tarif des douanes) et le pétrole lampant (position 27.10.00.55 du tarif des douanes) utilisés comme carburants, dans la limite de 50 % de son montant, lorsque ces produits sont utilisés pour des véhicules et engins exclus du droit à déduction ainsi que pour des véhicules et engins pris en location quand le preneur ne peut pas déduire la taxe relative à cette location ;
 
@@ -48,4 +48,4 @@ Ce transfert s'effectue sous le couvert de certificats de transfert de droits à
 
 6. Les dispositions du 2° du 4 ne s'appliquent pas en ce qui concerne les gaz de pétrole et autres hydrocarbures gazeux relevant des positions 27-11-14, ex 27-11-19, ex 27-11-21, 27-11-29 du tarif des douanes et repris au tableau B de l'article 265 du code des douanes sous les indices d'identification 33, 35 et 39.
 
-7. (Transféré).
+7. (Transféré sous l'article L. 45 C du Livre des procédures fiscales).

@@ -16,7 +16,7 @@ Les entreprises émettrices et réceptrices tiennent et conservent sur support p
 
 IV. Les agents de l'administration peuvent intervenir de manière inopinée dans les locaux professionnels des entreprises émettrices et réceptrices, et, s'il y a lieu, dans les locaux professionnels des prestataires de services de télétransmission, pour vérifier la conformité du fonctionnement du système de télétransmission aux exigences du présent article.
 
-Lors de l'intervention mentionnée à l'alinéa précédent, l'administration remet au contribuable, ou à son représentant, un avis d'intervention précisant les opérations techniques envisagées sur le système de télétransmission.
+Lors de l'intervention mentionnée au premier alinéa, l'administration remet au contribuable, ou à son représentant, un avis d'intervention précisant les opérations techniques envisagées sur le système de télétransmission.
 
 En cas d'impossibilité de procéder au contrôle du système ou de manquement aux conditions posées par le présent article, les agents de l'administration dressent un procès-verbal. Dans les trente jours de la notification de ce procès-verbal, le contribuable peut formuler ses observations, apporter des justifications ou procéder à la régularisation des conditions de fonctionnement du système. Au-delà de ce délai et en l'absence de justification ou de régularisation, les factures télétransmises ne sont plus considérées comme documents tenant lieu de factures d'origine.
 

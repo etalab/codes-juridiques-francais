@@ -20,11 +20,11 @@ Les souscripteurs de parts ou actions des sociétés mentionnées aux e et f doi
 
 3. La réduction d'impôt n'est pas applicable au titre des immeubles et des parts ou actions mentionnés au 2 dont le droit de propriété est démembré. Toutefois, lorsque le transfert de la propriété des immeubles, parts ou actions, ou le démembrement du droit de propriété résulte du décès de l'un des époux soumis à imposition commune, le conjoint survivant attributaire de l'immeuble, des parts ou des actions, ou titulaire de leur usufruit peut demander la reprise à son profit, dans les mêmes conditions et selon les mêmes modalités, du bénéfice de la réduction prévue au présent article pour la période restant à courir à la date du décès.
 
-4. Pour ouvrir droit à la réduction d'impôt, la constitution ou l'augmentation du capital des sociétés mentionnées au 2 dont le montant est supérieur à 30 000 000 F doit avoir été portée, préalablement à sa réalisation, à la connaissance du ministre chargé du budget, et n'avoir pas appelé d'objection motivée de sa part dans un délai de trois mois.
+4. Pour ouvrir droit à la réduction d'impôt, la constitution ou l'augmentation du capital des sociétés mentionnées au 2 dont le montant est supérieur à 4 600 000 euros (1) doit avoir été portée, préalablement à sa réalisation, à la connaissance du ministre chargé du budget, et n'avoir pas appelé d'objection motivée de sa part dans un délai de trois mois.
 
-5. Pour le calcul de la réduction d'impôt, les sommes versées au cours de la période définie au 1 sont prises en compte, pour les investissements mentionnés au a du 2, dans la limite de 10 000 F par mètre carré de surface habitable.
+5. Pour le calcul de la réduction d'impôt, les sommes versées au cours de la période définie au 1 sont prises en compte, pour les investissements mentionnés au a du 2, dans la limite de 1 525 euros (1) par mètre carré de surface habitable.
 
-6. La réduction d'impôt s'applique pour le calcul de l'impôt d^ u au titre de l'année d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, ou de la souscription des parts ou actions, et des quatre années suivantes. Chaque année, la base de la réduction est égale à 20 % des sommes effectivement payées au 31 décembre de l'année au cours de laquelle le droit à réduction d'impôt est né.
+6. La réduction d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, ou de la souscription des parts ou actions, et des quatre années suivantes. Chaque année, la base de la réduction est égale à 20 % des sommes effectivement payées au 31 décembre de l'année au cours de laquelle le droit à réduction d'impôt est né.
 
 La réduction d'impôt est égale à 25 % de la base définie au premier alinéa.
 

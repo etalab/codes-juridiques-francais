@@ -5,5 +5,6 @@
 - [Article 275 A](article-275-a.md)
 - [Article 275 B](article-275-b.md)
 - [Article 275 E](article-275-e.md)
+- [Article 275 E bis](article-275-e-bis.md)
 - [Article 275 F](article-275-f.md)
 - [Article 275 G](article-275-g.md)

@@ -1,3 +1,3 @@
 # Article 675
 
-Les impositions proportionnelles ou progressives sont arrondies au franc ou à l'euro le plus proche. La fraction de franc ou d'euro égale à 0,50 est comptée pour 1.
+Les impositions proportionnelles ou progressives sont arrondies à l'euro le plus proche. La fraction d'euro égale à 0,50 est comptée pour 1.

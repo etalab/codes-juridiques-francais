@@ -6,7 +6,7 @@ I. du déficit constaté pour une année dans une catégorie de revenus ; si le 
 
 Toutefois, n'est pas autorisée l'imputation :
 
-1° des déficits provenant d'exploitations agricoles lorsque le total des revenus nets d'autres sources excède 53360 euros ; ces déficits peuvent cependant être admis en déduction des bénéfices de même nature des années suivantes jusqu'à la cinquième inclusivement.
+1° des déficits provenant d'exploitations agricoles lorsque le total des revenus nets d'autres sources excède 53 360 euros ; ces déficits peuvent cependant être admis en déduction des bénéfices de même nature des années suivantes jusqu'à la cinquième inclusivement.
 
 1° bis des déficits provenant, directement ou indirectement, des activités relevant des bénéfices industriels ou commerciaux lorsque ces activités ne comportent pas la participation personnelle, continue et directe de l'un des membres du foyer fiscal à l'accomplissement des actes nécessaires à l'activité. Il en est ainsi, notamment, lorsque la gestion de l'activité est confiée en droit ou en fait à une personne qui n'est pas un membre du foyer fiscal par l'effet d'un mandat, d'un contrat de travail ou de toute autre convention. Les déficits non déductibles pour ces motifs peuvent cependant être imputés sur les bénéfices tirés d'activités de même nature exercées dans les mêmes conditions, durant la même année ou les cinq années suivantes. Ces modalités d'imputation sont applicables aux déficits réalisés par des personnes autres que les loueurs professionnels au sens du huitième alinéa de l'article 151 septies, louant directement ou indirectement des locaux d'habitation meublés ou destinés à être meublés.
 
@@ -20,7 +20,7 @@ Les dispositions du premier alinéa ne sont pas applicables au déficit ou à la
 
 d'immeubles ayant fait l'objet avant le 1er janvier 1996 d'une déclaration d'ouverture de chantier prévue à l'article R. 421-40 du code de l'urbanisme et acquis par le contribuable, directement ou indirectement, dans les cinq ans de cette déclaration, lorsque les biens ou droits ainsi acquis n'ont pas été détenus directement ou indirectement par une personne physique ;
 
-- de biens meubles corporels acquis à l'état neuf, non encore livrés au 1er janvier 1996 et ayant donné lieu avant cette date à une commande accompagnée du versement d'acomptes au moins égaux à 50 p. 100 de leur prix ;
+- de biens meubles corporels acquis à l'état neuf, non encore livrés au 1er janvier 1996 et ayant donné lieu avant cette date à une commande accompagnée du versement d'acomptes au moins égaux à 50 % de leur prix ;
 
 2° Des déficits provenant d'activités non commerciales au sens de l'article 92, autres que ceux qui proviennent de l'exercice d'une profession libérale ou des charges et offices dont les titulaires n'ont pas la qualité de commerçants ; ces déficits peuvent cependant être imputés sur les bénéfices tirés d'activités semblables durant la même année ou les cinq années suivantes ;
 
@@ -32,11 +32,11 @@ Ce dispositif s'applique dans les mêmes conditions lorsque les locaux d'habitat
 
 Le revenu global de l'année au cours de laquelle l'engagement ou les conditions de la location ne sont pas respectés est majoré du montant des déficits indûment imputés. Ces déficits constituent une insuffisance de déclaration pour l'application de l'article 1733.
 
-L'imputation exclusive sur les revenus fonciers n'est pas applicable aux déficits résultant de dépenses autres que les intérêts d'emprunts effectuées sur des locaux d'habitation par leurs propriétaires en vue du réaménagement d'un ou plusieurs immeubles situés dans une zone franche urbaine telle que définie au B du 3 de l'article 42 modifié de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire. Les travaux doivent faire l'objet d'une convention approuvée par le représentant de l'Etat dans le département par laquelle le propriétaire de l'immeuble ou les propriétaires dans le cas d'un immeuble soumis à la loi n° 65-557 du 10 juillet 1965 modifié fixant le statut de la copropriété des immeubles bâtis s'engagent à procéder à la réhabilitation complète des parties communes de l'immeuble bâti. Le ou les propriétaires doivent s'engager à louer les locaux nus à usage de résidence principale du locataire pendant une durée de six ans. La location doit prendre effet dans les douze mois qui suivent la date d'achèvement des travaux. Ce dispositif s'applique dans les mêmes conditions lorsque les locaux d'habitation sont la propriété d'une société non soumise à l'impôt sur les sociétés si les associés conservent les titres pendant six ans.
+L'imputation exclusive sur les revenus fonciers n'est pas applicable aux déficits résultant de dépenses autres que les intérêts d'emprunts effectuées sur des locaux d'habitation par leurs propriétaires en vue du réaménagement d'un ou plusieurs immeubles situés dans une zone franche urbaine telle que définie au B du 3 de l'article 42 modifié de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire. Les travaux doivent faire l'objet d'une convention approuvée par le représentant de l'Etat dans le département par laquelle le propriétaire de l'immeuble ou les propriétaires dans le cas d'un immeuble soumis à la loi n° 65-557 du 10 juillet 1965 modifiée fixant le statut de la copropriété des immeubles bâtis s'engagent à procéder à la réhabilitation complète des parties communes de l'immeuble bâti. Le ou les propriétaires doivent s'engager à louer les locaux nus à usage de résidence principale du locataire pendant une durée de six ans. La location doit prendre effet dans les douze mois qui suivent la date d'achèvement des travaux. Ce dispositif s'applique dans les mêmes conditions lorsque les locaux d'habitation sont la propriété d'une société non soumise à l'impôt sur les sociétés si les associés conservent les titres pendant six ans.
 
 En cas de non-respect, par le contribuable, de l'un de ses engagements, le revenu global de l'année au cours de laquelle la rupture intervient est majoré du montant des déficits qui ont fait l'objet d'une imputation au titre des dispositions du cinquième alinéa. Pour son imposition, la fraction du revenu résultant de cette majoration est divisée par le nombre d'années civiles au titre desquelles un déficit a été imputé sur le revenu global ; le résultat est ajouté au revenu global net de l'année de rupture de l'engagement et l'impôt correspondant est égal au produit de la cotisation supplémentaire ainsi obtenue par le nombre d'années pris en compte pour déterminer le quotient. Cette majoration n'est pas appliquée lorsque le non-respect de l'engagement est dû à l'invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, au licenciement ou au décès du contribuable ou de l'un des époux soumis à imposition commune.
 
-Les obligations déclaratives incombant aux contribuables concernés par les dispositions prévues aux cinquième et sixième alinéas sont fixées par décret ;
+Les obligations déclaratives incombant aux contribuables concernés par les dispositions prévues aux cinquième et sixième alinéas sont fixées par décret.
 
 L'imputation exclusive sur les revenus fonciers n'est pas non plus applicable aux déficits fonciers résultant de dépenses autres que les intérêts d'emprunt. L'imputation est limitée à 10 700 euros. La fraction du déficit supérieure à 10 700 euros et la fraction du déficit non imputable résultant des intérêts d'emprunt sont déduites dans les conditions prévues au premier alinéa.
 
@@ -46,21 +46,21 @@ Lorsque le propriétaire cesse de louer un immeuble ou lorsque le propriétaire 
 
 Un contribuable ne peut pour un même logement ou une même souscription de titres pratiquer les réductions d'impôt mentionnées aux articles 199 undecies ou 199 undecies A et imputer un déficit foncier sur le revenu global.
 
-4° (abrogé).
+4° (abrogé à compter de l'imposition des revenus de 1996) ;
 
-5° Des pertes résultant d'opérations mentionnées aux articles 150 ter, 150 octies, 150 nonies et 150 decies lorsque l'option prévue au 8° du I de l'article 35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur les profits de même nature réalisés au cours de la même année ou des cinq années suivantes ;
+5° Des pertes résultant d'opérations mentionnées aux articles 150 ter, 150 octies, 150 nonies et 150 decies, lorsque l'option prévue au 8° du I de l'article 35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur les profits de même nature réalisés au cours de la même année ou des cinq années suivantes ;
 
 6° Des pertes résultant d'opérations réalisées à l'étranger sur un marché à terme d'instruments financiers  ou d'options négociables ou sur des bons d'option  ; ces pertes sont imputables exclusivement sur les profits de même nature réalisés dans les mêmes conditions au cours de la même année ou des cinq années suivantes.
 
 Ces dispositions s'appliquent aux pertes résultant d'opérations à terme sur marchandises réalisées à l'étranger.
 
-7° (abrogé)
+7° (Abrogé à compter de l'imposition des revenus de 1996 ;
 
-I bis. Du déficit correspondant aux frais exposés par un inventeur pour prendre un brevet ou en assurer la maintenance lorsqu'il ne perçoit pas de produits imposables ou perçoit des produits inférieurs à ces frais. Ce déficit est déductible du revenu global de l'année de prise du brevet et des neuf années suivantes.
+I bis. Du déficit correspondant aux frais exposés par un inventeur pour prendre un brevet ou en assurer la maintenance lorsqu'il ne perçoit pas de produits imposables ou perçoit des produits inférieurs à ces frais. Ce déficit est déductible du revenu global de l'année de prise du brevet et des neuf années suivantes ;
 
 II. Des charges ci-après lorsqu'elles n'entrent pas en compte pour l'évaluation des revenus des différentes catégories :
 
-1° Intérêts des emprunts contractés, antérieurement au 1er novembre 1959 pour faire un apport en capital à une entreprise industrielle ou commerciale ou à une exploitation agricole ; intérêts des emprunts qui sont ou qui seront contractés, au titre des dispositions relatives aux prêts de réinstallation ou de reconversion, par les Français rapatriés ou rentrant de l'étranger ou des Etats ayant accédé à l'indépendance ;
+1° Intérêts des emprunts contractés antérieurement au 1er novembre 1959 pour faire un apport en capital à une entreprise industrielle ou commerciale ou à une exploitation agricole ; intérêts des emprunts qui sont ou qui seront contractés, au titre des dispositions relatives aux prêts de réinstallation ou de reconversion, par les Français rapatriés ou rentrant de l'étranger ou des Etats ayant accédé à l'indépendance ;
 
 1° bis (sans objet).
 
@@ -68,9 +68,9 @@ II. Des charges ci-après lorsqu'elles n'entrent pas en compte pour l'évaluatio
 
 1° quater (sans objet).
 
-2° Arrérages de rentes payés par lui à titre obligatoire et gratuit constituées avant le 2 novembre 1959 ; pensions alimentaires répondant aux conditions fixées par les articles 205 à 211 et 367 du code civil à l'exception de celles versées aux ascendants quand il est fait application des dispositions prévues aux premier et deuxième alinéas du 1° de l'article 199 sexdecies ; versements de sommes d'argent mentionnés à l'article 275-1 du code civil lorsqu'ils sont effectués sur une période supérieure à douze mois à compter de la date à laquelle le jugement de divorce, que celui-ci résulte ou non d'une demande conjointe (1), est passé en force de chose jugée et les rentes versées en application des articles 276 ou 278 du même code (1) ainsi que les pensions alimentaires versées en vertu d'une décision de justice, en cas de séparation de corps ou de divorce, ou en cas d'instance en séparation de corps ou de divorce lorsque le conjoint fait l'objet d'une imposition séparée ; contribution aux charges du mariage définie à l'article 214 du code civil, lorsque son versement résulte d'une décision de justice et à condition que les époux fassent l'objet d'une imposition séparée ; dans la limite de 2 700 euros et, dans les conditions fixées par un décret en Conseil d'Etat, les versements destinés à constituer le capital de la rente prévue à l'article 294 du code civil.
+2° Arrérages de rentes payés par lui à titre obligatoire et gratuit constituées avant le 2 novembre 1959 ; pensions alimentaires répondant aux conditions fixées par les articles 205 à 211 et 367 du code civil à l'exception de celles versées aux ascendants quand il est fait application des dispositions prévues aux premier et deuxième alinéas du 1° de l'article 199 sexdecies ; versements de sommes d'argent mentionnés à l'article 275-1 du code civil lorsqu'ils sont effectués sur une période supérieure à douze mois à compter de la date à laquelle le jugement de divorce, que celui-ci résulte ou non d'une demande conjointe, est passé en force de chose jugée et les rentes versées en application des articles 276 ou 278 du même code en cas de séparation de corps ou de divorce, ou en cas d'instance en séparation de corps ou en divorce et lorsque le conjoint fait l'objet d'une imposition séparée, les pensions alimentaires versées en vertu d'une décision de justice et en cas de révision amiable de ces pensions, le montant effectivement versé dans les conditions fixées par les articles 208 et 371-2 du code civil ; contribution aux charges du mariage définie à l'article 214 du code civil, lorsque son versement résulte d'une décision de justice et à condition que les époux fassent l'objet d'une imposition séparée ; dans la limite de 2 700 euros et, dans les conditions fixées par un décret en Conseil d'Etat, les versements destinés à constituer le capital de la rente prévue à l'article 294 du code civil.
 
-Le contribuable ne peut opérer de déduction pour ses descendants mineurs, sauf pour ses enfants dont il n'a pas la garde ;
+Le contribuable ne peut opérer de déduction pour ses descendants mineurs, sauf pour ses enfants dont il n'a pas la garde.
 
 La déduction est limitée, par enfant majeur, au montant fixé pour l'abattement prévu par l'article 196 B. Lorsque l'enfant est marié, cette limite est doublée au profit du parent qui justifie qu'il participe seul à l'entretien du ménage.
 
@@ -84,7 +84,7 @@ Un contribuable ne peut, au titre d'une même année et pour un même enfant, b�
 
 4° Versements effectués à titre de cotisations de sécurité sociale, à l'exception de ceux effectués pour les gens de maison ;
 
-5° Versements effectués en vue de la retraite mutualiste du combattant visée à l'article L. 222-2 (2) du code de la mutualité ;
+5° Versements effectués en vue de la retraite mutualiste du combattant visée à l'article L. 222-2 du code de la mutualité ;
 
 6° (Abrogé) ;
 
@@ -96,16 +96,12 @@ d. (sans objet).
 
 8° (Abrogé) ;
 
-9° (Transféré sous l'article 83-2° bis) ;
+9° ....
 
 9° bis et 9° ter (Abrogés) ;
 
 10° Les cotisations mentionnées à l'article L. 612-2 du code de la sécurité sociale. En ce qui concerne les cotisations instituées par application de l'article L. 612-13 du même code, un décret fixe, le cas échéant, dans quelle proportion elles sont admises en déduction ;
 
-11° Les primes ou cotisations des contrats d'assurances conclus en application des articles L. 752-1 à L. 752-21 du code rural relatifs à l'assurance obligatoire contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées des professions agricoles.
+11° Les primes ou cotisations des contrats d'assurances conclus en application des articles L. 752-1 à L. 752-21 du code rural relatifs à l'assurance obligatoire contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des non salariés des professions agricoles ;
 
 12° (sans objet).
-
-(1) Ces dispositions s'appliquent aux jugements prononcés en application de la loi n° 2000-596 du 30 juin 2000 relative à la prestation compensatoire en matière de divorce.
-
-(2) Ces dispositions s'appliquent à compter de l'entrée en vigueur des dispositions de l'ordonnance n° 2001-350 du 19 avril 2001 (22 avril 2001) relative au code de la mutualité et transposant les directives 92/49/CEE et 92/96/CEE du Conseil des 18 juin et 10 novembre 1992.

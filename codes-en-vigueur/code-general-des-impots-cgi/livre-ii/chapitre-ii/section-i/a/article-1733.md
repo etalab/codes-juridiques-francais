@@ -18,12 +18,12 @@ d) Les dépenses de recherche et de formation ouvrant droit aux crédits d'impô
 
 e) Sans objet ;
 
-f) La base sur laquelle a été calculée la réduction prévue à l'article 199 nonies.
+f) Dispositions périmées ;
 
 g) Périmé.
 
-h) Les dépenses ouvrant droit aux crédits d'impôt prévus aux articles 200 ter et 200 quater.
+h) Les dépenses ouvrant droit aux crédits d'impôt prévus à l'article 200 quater.
 
-III. Pour l'application du I, la base sur laquelle a été calculée la réduction d'impôt prévue à l'article 199 nonies est assimilée à une insuffisance de déclaration en cas de non-respect de l'engagement ou de cession du logement.
+III. Dispositions périmées.
 
 IV. Pour l'application du I en cas de redressements apportés aux résultats des sociétés appartenant à des groupes visés à l'article 223 A, l'insuffisance des chiffres déclarés s'apprécie au niveau de chaque société.

@@ -26,7 +26,7 @@ b) Pour les locaux que le contribuable transforme en logement, une copie de la d
 
 Si le logement n'est pas loué au moment du dépôt de la déclaration des revenus de l'année d'achèvement de l'immeuble ou de son acquisition ou si elle est postérieure, les documents mentionnés aux 2° et 3° sont joints à la déclaration des revenus de l'année en cours de laquelle le bail est signé.
 
-II. - L'engagement de location prévu au 1 du sixième alinéa du g du 1° du I de l'article 31 du code général des impôts doit être formulé dans une note annexe à la déclaration des revenus de l'année d'achèvement des travaux, établie conformément à un modèle fixé par l'administration et comportant l'indication des modalités de décompte de la déduction au titre de l'amortissement.
+II. - L'engagement de location prévu au 1 du g du 1° du I de l'article 31 du code général des impôts doit être formulé dans une note annexe à la déclaration des revenus de l'année d'achèvement des travaux, établie conformément à un modèle fixé par l'administration et comportant l'indication des modalités de décompte de la déduction au titre de l'amortissement.
 
 III. - L'option prévue au cinquième alinéa du g du 1° du I de l'article 31 du code général des impôts doit être formulée dans une note établie conformément à un modèle fixé par l'administration, qui doit être jointe à la déclaration des revenus souscrite par le conjoint survivant au titre de l'année du décès de son conjoint pour la période postérieure à cet événement. Elle comporte l'engagement de louer le logement non meublé à des personnes, qui en font leur habitation principale, pour la fraction de la période de neuf ans couverte par l'engagement de location initial restant à courir à la date du décès.
 

@@ -34,6 +34,6 @@ c) l'utilisateur effectif du bien démontre que, compte tenu du coût de celui-c
 
 d) cet utilisateur est en mesure de garantir la pérennité de l'exploitation du bien jusqu'à la date prévue d'expiration du contrat initial de location ou de mise à disposition du bien.
 
-En cas de cession ultérieure du bien par l'utilisateur avant l'expiration de sa durée normale d'utilisation appréciée à la date de sa mise en service effective, la plus-value exonérée en application de l'alinéa précédent est imposée au titre de l'exercice au cours duquel elle a été réalisée, au nom de l'utilisateur bénéficiaire de l'avantage rétrocédé et déterminé lors de la délivrance de l'agrément. Le montant d'impôt correspondant est assorti de l'intérêt de retard visé à l'article 1727.
+En cas de cession ultérieure du bien par l'utilisateur avant l'expiration de sa durée normale d'utilisation appréciée à la date de sa mise en service effective, la plus-value exonérée en application des treizième à dix-septième alinéas est imposée au titre de l'exercice au cours duquel elle a été réalisée, au nom de l'utilisateur bénéficiaire de l'avantage rétrocédé et déterminé lors de la délivrance de l'agrément. Le montant d'impôt correspondant est assorti de l'intérêt de retard visé à l'article 1727.
 
 Un décret en Conseil d'Etat précise les modalités d'application du présent article.

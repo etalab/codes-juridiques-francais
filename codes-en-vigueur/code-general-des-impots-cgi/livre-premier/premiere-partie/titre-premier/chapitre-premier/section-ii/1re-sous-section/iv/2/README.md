@@ -3,3 +3,4 @@
 - [Article 64](article-64.md)
 - [Article 65](article-65.md)
 - [Article 65 A](article-65-a.md)
+- [Article 65 B](article-65-b.md)

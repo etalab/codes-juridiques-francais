@@ -7,6 +7,7 @@
 - [Article 1785 B](article-1785-b.md)
 - [Article 1786](article-1786.md)
 - [Article 1786 bis](article-1786-bis.md)
+- [Article 1787](article-1787.md)
 - [Article 1788](article-1788.md)
 - [Article 1788 quater](article-1788-quater.md)
 - [Article 1788 quinquies](article-1788-quinquies.md)

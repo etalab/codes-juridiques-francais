@@ -6,11 +6,11 @@ Sauf application des dispositions des 4 et 5, les personnes mariées sont soumis
 
 Les partenaires liés par un pacte civil de solidarité défini à l'article 515-1 du code civil font l'objet, pour les revenus visés au premier alinéa, d'une imposition commune à compter de l'imposition des revenus de l'année du troisième anniversaire de l'enregistrement du pacte. L'imposition est établie à leurs deux noms, séparés par le mot : "ou".
 
-2. Le contribuable peut réclamer des impositions distinctes pour ses enfants lorsque ceux-ci tirent un revenu de leur travail ou d'une fortune indépendante de la sienne.
+2. Le contribuable peut réclamer des impositions distinctes pour ses enfants, lorsque ceux-ci tirent un revenu de leur travail ou d'une fortune indépendante de la sienne.
 
-3. Toute personne majeure âgée de moins de vingt et un ans, ou de moins de vingt-cinq ans lorsqu'elle poursuit ses études, ou, quel que soit son âge, lorsqu'elle effectue son service militaire ou est atteinte d'une infirmité, peut opter, dans le délai de déclaration et sous réserve des dispositions du dernier alinéa du 2° du II de l'article 156, entre :
+3. Toute personne majeure âgée de moins de vingt et un ans, ou de moins de vingt-cinq ans lorsqu'elle poursuit ses études, ou, quel que soit son âge, lorsqu'elle effectue son service militaire ou est atteinte d'une infirmité, peut opter, dans le délai de déclaration et sous réserve des dispositions du quatrième alinéa du 2° du II de l'article 156, entre :
 
-1° L'imposition de ses revenus dans les conditions de droit commun;
+1° L'imposition de ses revenus dans les conditions de droit commun ;
 
 2° Le rattachement au foyer fiscal dont elle faisait partie avant sa majorité, si le contribuable auquel elle se rattache accepte ce rattachement et inclut dans son revenu imposable les revenus perçus pendant l'année entière par cette personne ; le rattachement peut être demandé à l'un ou à l'autre des parents lorsque ceux-ci sont imposés séparément.
 
@@ -35,5 +35,3 @@ c. Lorsqu'en cas d'abandon du domicile conjugal par l'un ou l'autre des époux, 
 Lorsque les deux partenaires liés par un pacte civil de solidarité et soumis à imposition commune contractent mariage, les dispositions du 5 ne s'appliquent pas.
 
 En cas de décès de l'un des partenaires liés par un pacte civil de solidarité et soumis à imposition commune, le survivant est personnellement imposable pour la période postérieure au décès.
-
-(1) le 3° est applicable à compter du 1er janvier 2002.

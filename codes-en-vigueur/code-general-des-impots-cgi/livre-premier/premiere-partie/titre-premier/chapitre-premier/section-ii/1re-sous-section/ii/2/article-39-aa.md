@@ -1,6 +1,6 @@
 # Article 39 AA
 
-Les coefficients utilisés pour le calcul de l'amortissement dégressif sont portés respectivement à 2, 2,5 et 3 selon que la durée normale d'utilisation des matériels est de trois ou quatre ans, de cinq ou six ans, ou supérieure à six ans en ce qui concerne :
+Les coefficients utilisés pour le calcul de l'amortissement dégressif sont portés respectivement à 2, 2, 5 et 3 selon que la durée normale d'utilisation des matériels est de trois ou quatre ans, de cinq ou six ans, ou supérieure à six ans en ce qui concerne :
 
 1° (Périmé) ;
 
@@ -14,4 +14,4 @@ Les dispositions prévues au a du 2° ne s'appliquent pas aux biens dont la comm
 
 Les dispositions prévues au 2° ne s'appliquent pas pour les matériels acquis ou fabriqués à compter du 1er janvier 1991.
 
-Par dérogation aux dispositions du précédent alinéa, les dispositions de cet article s'appliquent aux matériels mentionnés au a du 2° acquis ou fabriqués entre le 1er janvier 2001 et le 1er janvier 2003.
+Par dérogation aux dispositions du septième alinéa, les dispositions de cet article s'appliquent aux matériels mentionnés au a du 2° acquis ou fabriqués entre le 1er janvier 2001 et le 1er janvier 2003.

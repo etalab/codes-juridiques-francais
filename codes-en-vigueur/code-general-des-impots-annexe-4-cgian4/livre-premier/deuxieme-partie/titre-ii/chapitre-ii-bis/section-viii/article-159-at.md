@@ -1,12 +1,12 @@
 # Article 159 AT
 
-I. - Les montants de la taxe parafiscale visée au I de l'article 363 AE de l'annexe II au code général des impôts sont fixés comme suit pour la campagne céréalière 2000-2001 :
+I. - Les montants de la taxe parafiscale visée au I de l'article 363 AE de l'annexe II au code général des impôts sont fixés comme suit pour la campagne céréalière 2001-2002 :
 
-a) 5,08 F par tonne de blé tendre, d'orge, de maïs et de blé dur ;
+a) 0,77 euro par tonne de blé tendre, d'orge, de maïs et de blé dur ;
 
-b) 4,72 F par tonne de seigle, de triticale et de riz ;
+b) 0,72 euro par tonne de seigle, de triticale et de riz ;
 
-c) 3,20 F par tonne d'avoine et de sorgho.
+c) 0,49 euro par tonne d'avoine et de sorgho.
 
 II. - Le produit de cette taxe sera affecté de la façon suivante :
 
@@ -16,7 +16,7 @@ b) 53,6 % à l'institut technique des céréales et fourrages.
 
 III. - Les blés tendres retenus au titre de rémunération en nature par les meuniers et boulangers échangistes et livrés à un collecteur agréé supportent la somme prévue au I.
 
-IV. - La taxe prévue par le présent article pour les céréales de qualité saine, loyale et marchande, est applicable aux céréales non saines, loyales et marchandes.
+IV. - La taxe prévue par le présent article pour les céréales de qualité saine, loyale et marchande est applicable aux céréales non saines, loyales et marchandes.
 
 V. - La taxe assise sur les entrées est calculée par collecteur agréé ou producteur grainier sur le poids à la réception des céréales livrées aux collecteurs agréés, déduction faite :
 

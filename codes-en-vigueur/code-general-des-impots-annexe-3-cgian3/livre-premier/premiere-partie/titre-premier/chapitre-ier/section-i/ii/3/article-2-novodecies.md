@@ -8,4 +8,4 @@ Pour l'application du g du 1° du I de l'article 31 du code général des impôt
 
 3° Pour les locaux acquis par le contribuable en vue de leur transformation en logement, sur le prix payé pour l'acquisition du local et la réalisation des travaux de transformation, majoré des frais afférents à ces opérations ; les travaux de transformation s'entendent des travaux de reconstruction, d'agrandissement, de réparation et d'amélioration ayant pour effet de rendre habitables des locaux qui ne l'étaient pas auparavant ;
 
-4° Pour les logements qui font l'objet des dépenses de reconstruction, d'agrandissement et d'amélioration mentionnées au sixième alinéa du g du 1° du I de l'article 31 du code général des impôts, sur le montant de ces dépenses majoré des frais qui leur sont afférents.
+4° Pour les logements qui font l'objet des dépenses de reconstruction, d'agrandissement et d'amélioration mentionnées aux 1 et 2 du g du 1° du I de l'article 31 du code général des impôts, sur le montant de ces dépenses majoré des frais qui leur sont afférents.

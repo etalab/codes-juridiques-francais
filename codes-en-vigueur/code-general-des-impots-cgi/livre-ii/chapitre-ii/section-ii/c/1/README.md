@@ -8,6 +8,7 @@
 - [Article 1797](article-1797.md)
 - [Article 1798](article-1798.md)
 - [Article 1798 bis](article-1798-bis.md)
+- [Article 1798 ter](article-1798-ter.md)
 - [Article 1799](article-1799.md)
 - [Article 1799 A](article-1799-a.md)
 - [Article 1800](article-1800.md)

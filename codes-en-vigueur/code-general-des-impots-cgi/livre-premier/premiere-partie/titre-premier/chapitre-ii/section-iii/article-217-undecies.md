@@ -14,7 +14,7 @@ La déduction prévue au premier alinéa s'applique aux acquisitions ou construc
 
 2° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par décret.
 
-Si, dans le délai de cinq ans de son acquisition ou de sa création, ou pendant sa durée normale d'utilisation si elle est inférieure, l'investissement ayant ouvert droit à déduction est cédé ou cesse d'être affecté à l'exploitation de l'entreprise utilisatrice ou si l'acquéreur cesse son activité, les sommes déduites sont rapportées au résultat imposable de l'entreprise ayant opéré la déduction au titre de l'exercice au cours duquel cet événement se réalise ; ces conséquences sont également applicables si l'engagement prévu au cinquième alinéa cesse d'être respecté.
+Si, dans le délai de cinq ans de son acquisition ou de sa création, ou pendant sa durée normale d'utilisation si elle est inférieure, l'investissement ayant ouvert droit à déduction est cédé ou cesse d'être affecté à l'exploitation de l'entreprise utilisatrice ou si l'acquéreur cesse son activité, les sommes déduites sont rapportées au résultat imposable de l'entreprise ayant opéré la déduction au titre de l'exercice au cours duquel cet événement se réalise ; ces conséquences sont également applicables si l'engagement prévu au sixième alinéa cesse d'être respecté.
 
 Toutefois, la reprise de la déduction n'est pas effectuée lorsque les biens ayant ouvert droit à déduction sont transmis dans le cadre des opérations mentionnées aux articles 210 A ou 210 B si le bénéficiaire de la transmission s'engage à maintenir l'exploitation des biens outre-mer dans le cadre d'une activité mentionnée au premier alinéa pendant la fraction du délai de conservation restant à courir.
 
@@ -22,7 +22,7 @@ L'engagement est pris dans l'acte constatant la transmission ou, à défaut, dan
 
 En cas de non-respect de cet engagement, le bénéficiaire de la transmission doit rapporter à ses résultats imposables, au titre de l'exercice au cours duquel l'engagement cesse d'être respecté, une somme égale au montant de la déduction fiscale à laquelle les biens transmis ont ouvert droit.
 
-Lorsque l'investissement est réalisé par une société ou un groupement visés aux deux dernières phrases du premier alinéa, les associés ou membres doivent, en outre, conserver les parts de cette société ou de ce groupement pendant un délai de cinq ans à compter de la réalisation de l'investissement. A défaut, ils doivent ajouter à leur résultat imposable de l'exercice de cession le montant des déductions qu'ils ont pratiquées, diminué, le cas échéant, dans la proportion de leurs droits dans la société ou le groupement, des sommes déjà réintégrées en application des dispositions du sixième alinéa.
+Lorsque l'investissement est réalisé par une société ou un groupement visés aux deux dernières phrases du premier alinéa, les associés ou membres doivent, en outre, conserver les parts de cette société ou de ce groupement pendant un délai de cinq ans à compter de la réalisation de l'investissement. A défaut, ils doivent ajouter à leur résultat imposable de l'exercice de cession le montant des déductions qu'ils ont pratiquées, diminué, le cas échéant, dans la proportion de leurs droits dans la société ou le groupement, des sommes déjà réintégrées en application des dispositions du huitième alinéa.
 
 La déduction prévue au premier alinéa s'applique aux investissements productifs mis à la disposition d'une entreprise dans le cadre d'un contrat de location si les conditions suivantes sont réunies :
 
@@ -36,7 +36,7 @@ La déduction prévue au premier alinéa s'applique aux investissements producti
 
 5° Les trois quarts de l'avantage en impôt procuré par la déduction pratiquée au titre de l'investissement et par l'imputation du déficit provenant de la location du bien acquis et de la moins-value réalisée lors de la cession de ce bien ou des titres de la société bailleresse sont rétrocédés à l'entreprise locataire sous forme de diminution du loyer et, le cas échéant, du prix de cession du bien à l'exploitant.
 
-Si l'une des conditions énumérées au onzième alinéa cesse d'être respectée dans le délai mentionné au 1° du onzième alinéa, les sommes déduites sont rapportées au résultat imposable de l'entreprise propriétaire de l'investissement au titre de l'exercice au cours duquel cet événement se réalise.
+Si l'une des conditions énumérées aux quatorzième à dix-huitième alinéas cesse d'être respectée dans le délai mentionné au quatorzième alinéa, les sommes déduites sont rapportées au résultat imposable de l'entreprise propriétaire de l'investissement au titre de l'exercice au cours duquel cet événement se réalise.
 
 II. Les entreprises mentionnées au I peuvent, d'autre part, déduire de leur revenu imposable une somme égale au montant total des souscriptions au capital des sociétés de développement régional des départements d'outre-mer ou des sociétés effectuant dans les douze mois de la clôture de la souscription dans les mêmes départements des investissements productifs dans les secteurs d'activité de l'industrie, de la pêche, de l'hôtellerie, du tourisme, à l'exclusion de la navigation de croisière, des énergies nouvelles, des services informatiques, de l'agriculture, du bâtiment et des travaux publics, des transports et de l'artisanat. Lorsque la société affecte tout ou partie de la souscription à la construction d'immeubles destinés à l'exercice d'une des activités visées ci-dessus, elle doit s'engager à en achever les fondations dans les deux ans qui suivent la clôture de la souscription. La société doit s'engager à maintenir l'affectation des biens à l'activité dans les secteurs mentionnés ci-avant pendant les cinq ans qui suivent leur acquisition ou pendant leur durée normale d'utilisation si elle est inférieure. En cas de non-respect de cet engagement, les sommes déduites sont rapportées aux résultats imposables de l'entreprise ayant opéré la déduction au titre de l'exercice au cours duquel le non-respect de l'engagement est constaté ; ces dispositions ne sont pas applicables si les immobilisations en cause sont comprises dans un apport partiel d'actif réalisé sous le bénéfice de l'article 210 B ou si la société qui en est propriétaire fait l'objet d'une fusion placée sous le régime de l'article 210 A, à la condition que la société bénéficiaire de l'apport, ou la société absorbante selon le cas, réponde aux conditions d'activité prévues au présent alinéa et reprenne, sous les mêmes conditions et sanctions, l'engagement mentionné à la phrase qui précède pour la fraction du délai restant à courir.
 
@@ -54,9 +54,9 @@ b) (abrogé)
 
 c) (abrogé)
 
-d)- l'opération a reçu l'agrément préalable du ministre du budget dans les conditions prévues au III.
+d) l'opération a reçu l'agrément préalable du ministre du budget dans les conditions prévues au III.
 
-II ter. La déduction prévue au premier alinéa du II s'applique aux souscriptions au capital de sociétés soumises à l'impôt sur les sociétés et qui sont affectées exclusivement à l'acquisition ou à la construction de logements neufs dans les départements d'outre-mer lorsque ces sociétés ont pour activité exclusive la location de tels logements dans les conditions mentionnées au cinquième alinéa du I du présent article.
+II ter. La déduction prévue au premier alinéa du II s'applique aux souscriptions au capital de sociétés soumises à l'impôt sur les sociétés et qui sont affectées exclusivement à l'acquisition ou à la construction de logements neufs dans les départements d'outre-mer lorsque ces sociétés ont pour activité exclusive la location de tels logements dans les conditions mentionnées aux sixième et septième alinéas du I.
 
 Cette déduction s'applique sous les conditions et sanctions prévues au II, à l'exception de celle mentionnée à la troisième phrase du premier alinéa du même II.
 
@@ -72,7 +72,7 @@ Toutefois, les investissements mentionnés au I, dont le montant total n'excède
 
 III bis. (Abrogé).
 
-III ter. (transféré).
+III ter. (Transféré sous le III).
 
 III quater. (abrogé).
 

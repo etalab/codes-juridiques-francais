@@ -6,7 +6,7 @@ II. Pour l'application des dispositions de l'article 223 F, la société mère d
 
 1. Réintégrer au résultat d'ensemble de chaque exercice une somme égale à la fraction de l'annuité fiscale d'amortissements pratiquée par la société cessionnaire, qui excède la dotation fiscale calculée dans les mêmes conditions et au même taux que cette annuité, sur la valeur nette que l'immobilisation amortissable avait, du point de vue fiscal, dans les écritures de la société du groupe qui a effectué la première cession à une autre société du même groupe. Cette dernière valeur est, le cas échéant, diminuée des amortissements différés en contravention aux dispositions de l'article 39 B du code déjà cité.
 
-En cas de cessions successives d'un même bien à l'intérieur du groupe, les valeurs nettes mentionnées à l'alinéa précédent sont diminuées, lors de chaque cession, d'une somme égale aux amortissements calculés sur ces mêmes valeurs et admis en déduction du résultat d'ensemble depuis la précédente cession.
+En cas de cessions successives d'un même bien à l'intérieur du groupe, les valeurs nettes mentionnées au premier alinéa sont diminuées, lors de chaque cession, d'une somme égale aux amortissements calculés sur ces mêmes valeurs et admis en déduction du résultat d'ensemble depuis la précédente cession.
 
 2. Comprendre dans le résultat ou plus-value ou moins-value nette à long terme d'ensemble de l'exercice de cession hors du groupe d'une immobilisation la plus-value ou la moins-value calculée par différence entre :
 

@@ -1,0 +1,7 @@
+# Article 39 AH
+
+I.-Les matériels susceptibles de bénéficier de l'amortissement dégressif prévu à l'article 39 A et les bâtiments construits pour abriter des laboratoires confinés, qui sont consacrés principalement à la recherche ou au développement de traitements contre les maladies infectieuses humaines ou les maladies infectieuses animales susceptibles d'avoir une incidence sur la santé humaine ou les maladies rares et qui affectent gravement les populations des pays non membres de l'Organisation de coopération et de développement économiques peuvent faire l'objet d'un amortissement exceptionnel sur douze mois à compter de la date de leur mise en service.
+
+La liste des maladies et les caractéristiques du confinement des laboratoires cités au premier alinéa sont fixées par un arrêté conjoint du ministre chargé de la santé et du ministre chargé du budget.
+
+II.-Si ces matériels ou bâtiments sont utilisés à titre principal, avant la fin de leur durée normale d'utilisation, pour des opérations de recherche et de développement autres que celles visées au I, la fraction de l'amortissement pratiqué excédant les dotations que l'entreprise aurait pu déduire en l'absence des dispositions du I est rapportée au résultat de l'exercice au cours duquel le changement d'affectation est intervenu.L'amortissement résiduel de ces matériels ou bâtiments est effectué dans les conditions de droit commun (1).

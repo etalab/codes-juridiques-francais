@@ -5,3 +5,4 @@
 - [3° : Titres, sommes ou valeurs en dépôt. Sommes dues à raison du décès. Obligations des dépositaires ou débiteurs](3)
 - [Article 800](article-800.md)
 - [Article 801](article-801.md)
+- [Article 802](article-802.md)

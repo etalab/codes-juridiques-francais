@@ -6,7 +6,7 @@
 
 Ces redevables peuvent, sur leur demande, être autorisés, dans des conditions qui sont fixées par arrêté du ministre de l'économie et des finances, à disposer d'un délai supplémentaire d'un mois.
 
-Lorsque la taxe exigible annuellement est inférieure à 12 000 F, ils sont admis à déposer leurs déclarations par trimestre civil.
+Lorsque la taxe exigible annuellement est inférieure à 4 000 euros, ils sont admis à déposer leurs déclarations par trimestre civil.
 
 3. Les redevables placés sous le régime simplifié d'imposition prévu à l'article 302 septies A déposent au titre de chaque année ou exercice une déclaration qui détermine la taxe due au titre de la période et le montant des acomptes trimestriels pour la période ultérieure.
 
@@ -20,7 +20,7 @@ S'il estime que la taxe sera supérieure d'au moins 10 % à celle qui a servi de
 
 Les nouveaux redevables sont autorisés, lors de leur première année d'imposition, à acquitter la taxe sur la valeur ajoutée par acomptes trimestriels dont ils déterminent eux-mêmes le montant mais dont chacun doit représenter au moins 80 % de l'impôt réellement dû pour le trimestre correspondant.
 
-Les conditions d'application du présent 3, notamment les modalités de versement et de remboursement des acomptes, sont fixées par décret en Conseil d'Etat (1).
+Les conditions d'application du présent 3, notamment les modalités de versement et de remboursement des acomptes, sont fixées par décret en Conseil d'Etat.
 
 4. En cas de cession ou de cessation d'une activité professionnelle, les redevables sont tenus de souscrire dans les trente jours la déclaration prévue au 1. Toutefois, ce délai est porté à soixante jours pour les entreprises placées sous le régime simplifié d'imposition.
 
@@ -29,5 +29,3 @@ Les conditions d'application du présent 3, notamment les modalités de versemen
 a) D'une part, le montant total, hors taxe sur la valeur ajoutée, des livraisons de bien exonérées en vertu du I de l'article 262 ter, des livraisons de biens installés ou montés sur le territoire d'un autre Etat membre de la Communauté européenne, et des livraisons dont le lieu n'est pas situé en France en application des dispositions de l'article 258 A ;
 
 b) D'autre part, le montant total, hors taxe sur la valeur ajoutée, des acquisitions intracommunautaires mentionnées au I de l'article 256 bis, et, le cas échéant, des livraisons de biens expédiés ou transportés à partir d'un autre Etat membre de la Communauté européenne et installés ou montés en France, des livraisons de biens dont le lieu est situé en France en application des dispositions de l'article 258 B et des livraisons de biens effectuées en France pour lesquelles le destinataire de la livraison est désigné comme redevable de la taxe en application des dispositions du 2 ter de l'article 283.
-
-(1) Ces dispositions entrent en vigueur à compter de l'acompte dû en juillet 1999.

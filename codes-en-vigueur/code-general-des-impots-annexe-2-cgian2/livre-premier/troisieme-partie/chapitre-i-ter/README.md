@@ -9,5 +9,6 @@
 - [Article 371 AO](article-371-ao.md)
 - [Article 371 AP](article-371-ap.md)
 - [Article 371 AQ](article-371-aq.md)
+- [Article 371 AQ bis](article-371-aq-bis.md)
 - [Article 371 AR](article-371-ar.md)
 - [Article 371 AS](article-371-as.md)

@@ -30,3 +30,5 @@
 - [Article 197 B](article-197-b.md)
 - [Article 199](article-199.md)
 - [11° bis : Réduction d'impôt accordée au titre des investissements immobiliers locatifs réalisés dans des résidences de tourisme classées dans les zones de revitalisation rurales](11-bis)
+- [11° ter : Réduction d'impôt au titre 
+d'investissements ou de travaux forestiers](11-ter)

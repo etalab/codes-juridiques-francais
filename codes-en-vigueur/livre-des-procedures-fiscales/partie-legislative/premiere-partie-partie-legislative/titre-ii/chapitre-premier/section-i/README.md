@@ -5,4 +5,5 @@
 - [3° : Dispositions relatives aux institutions et organismes qui n'ont pas la qualité de commerçant](3)
 - [Article L10](article-l10.md)
 - [Article L10 A](article-l10-a.md)
+- [Article L10 B](article-l10-b.md)
 - [Article L11](article-l11.md)

@@ -13,6 +13,7 @@
 - [Article 209 sexies](article-209-sexies.md)
 - [Article 209 B](article-209-b.md)
 - [Article 210](article-210.md)
+- [Article 210-0 A](article-210-0-a.md)
 - [Article 210 C](article-210-c.md)
 - [Article 210 quinquies](article-210-quinquies.md)
 - [Article 210 D](article-210-d.md)
@@ -40,3 +41,5 @@
 - [Article 217 decies](article-217-decies.md)
 - [Article 217 undecies](article-217-undecies.md)
 - [Article 217 duodecies](article-217-duodecies.md)
+- [Article 217 terdecies](article-217-terdecies.md)
+- [Article 217 quaterdecies](article-217-quaterdecies.md)

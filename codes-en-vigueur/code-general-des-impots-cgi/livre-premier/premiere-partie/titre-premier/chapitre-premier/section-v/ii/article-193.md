@@ -8,4 +8,4 @@ L'impôt brut est égal au produit de la cotisation ainsi obtenue par le nombre 
 
 L'impôt dû par le contribuable est calculé à partir de l'impôt brut diminué, s'il y a lieu, des réductions d'impôt prévues par les articles 199 quater B, 199 sexies, et 199 septies, sauf application, le cas échéant, de l'imputation prévue aux articles 182 B, 199 ter et 199 ter A et sous réserve de l'utilisation éventuelle de l'avoir fiscal visé au I de l'article 158 bis.
 
-Pour l'application du premier alinéa, le revenu imposable ainsi que les différents éléments ayant concouru à sa détermination, sont arrondis au franc le plus proche. La fraction de franc égale à 0,50 est comptée pour 1.
+Pour l'application du premier alinéa, le revenu imposable ainsi que les différents éléments ayant concouru à sa détermination, sont arrondis à l'euro le plus proche. La fraction d'euro égale à 0,50 est comptée pour 1.

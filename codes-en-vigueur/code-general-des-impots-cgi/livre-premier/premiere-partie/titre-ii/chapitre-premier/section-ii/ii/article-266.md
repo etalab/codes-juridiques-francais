@@ -14,7 +14,7 @@ b bis) (Abrogé) ;
 
 b ter)  Pour les opérations visées au e du 1° de l'article 261 C qui ont fait l'objet de l'option prévue à l'article 260 B, par le montant des profits et autres rémunérations ;
 
-c. Pour les livraisons à soi-même  et les acquisitions intracommunautaires mentionnées au 2° du II de l'article 256 bis :
+c. Pour les livraisons à soi-même et les acquisitions intracommunautaires mentionnées au 2° du II de l'article 256 bis :
 
 lorsqu'elles portent sur des biens, par le prix d'achat de ces biens ou de biens similaires ou, à défaut de prix d'achat, par le prix de revient, déterminés dans le lieu et au moment où la taxe devient exigible ;
 
@@ -32,7 +32,7 @@ h. (Abrogé à compter du 1er janvier 2001).
 
 Des décrets peuvent fixer des bases minimales ou forfaitaires d'imposition pour les achats imposables.
 
-1 bis. Lorsque les éléments servant à déterminer la base d'imposition sont exprimés dans une monnaie autre que le franc français, le taux de change à appliquer est celui du dernier taux déterminé par référence au cours constaté sur le marché des changes entre banques centrales et publié par la Banque de France, connu au jour de l'exigibilité de la taxe prévue au 2 de l'article 269.
+1 bis. Lorsque les éléments servant à déterminer la base d'imposition sont exprimés dans une monnaie autre que l'euro, le taux de change à appliquer est celui du dernier taux déterminé par référence au cours publié par la Banque de France à partir du cours fixé par la Banque centrale européenne, connu au jour de l'exigibilité de la taxe prévue au 2 de l'article 269.
 
 1 ter a. (abrogé).
 
@@ -52,7 +52,7 @@ Toutefois, dans le cas de cession de droits sociaux, un décret peut diminuer la
 
 b bis. Pour la cession du bénéfice d'un contrat de location-attribution ou de location-vente entrant dans les prévisions de l'article 1378 quinquies, sur la différence entre :
 
-D'une part, le prix exprimé et les charges qui peuvent s'y ajouter,
+D'une part, le prix exprimé et les charges qui peuvent s'y ajouter ;
 
 D'autre part, les sommes versées par le cédant en vue de l'acquisition du logement.
 

@@ -6,7 +6,7 @@ I. Lorsque les biens immobiliers visés au 4° du 2 de l'article 793 du code gé
 
 2° La déclaration que l'immeuble a été exclusivement affecté de manière continue à l'habitation principale à compter de son acquisition ou de son achèvement s'il est postérieur, et ce pendant une période minimale de cinq ans en cas de donation ou de vente ;
 
-3° L'affirmation que le donateur, le défunt ou le vendeur n'a pas bénéficié pour cet immeuble des réductions d'impôt prévues aux articles 199 decies A, 199 decies B, 199 undecies et 199 undecies A du code général des impôts ;
+3° L'affirmation que le donateur, le défunt ou le vendeur n'a pas bénéficié pour cet immeuble des réductions d'impôt prévues aux articles 199 undecies et 199 undecies A du code général des impôts ;
 
 4° En cas de vente, l'engagement mentionné au 3° de l'article 1055 bis du code général des impôts.
 

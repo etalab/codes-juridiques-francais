@@ -30,7 +30,7 @@ Un décret fixe les conditions d'application de ces dispositions, notamment en c
 
 2° Sauf s'ils sont pratiqués par une copropriété de navires, une copropriété de cheval de course ou d'étalon, les amortissements réellement effectués par l'entreprise, dans la limite de ceux qui sont généralement admis d'après les usages de chaque nature d'industrie, de commerce ou d'exploitation et compte tenu des dispositions de l'article 39 A, y compris ceux qui auraient été différés au cours d'exercices antérieurs déficitaires, sous réserve des dispositions de l'article 39 B.
 
-Les décrets en Conseil d'Etat prévus à l'article 273 fixent les conséquences des déductions prévues à l'article 271 sur la comptabilisation et l'amortissement des biens ;
+Les décrets en Conseil d'Etat prévus à l'article 273 fixent les conséquences des déductions prévues à l'article 271 sur la comptabilisation et l'amortissement des biens;
 
 3° Les intérêts servis aux associés à raison des sommes qu'ils laissent ou mettent à la disposition de la société, en sus de leur part du capital, quelle que soit la forme de la société, dans la limite de ceux calculés à un taux égal à la moyenne annuelle des taux effectifs moyens pratiqués par les établissements de crédit pour des prêts à taux variable aux entreprises, d'une durée initiale supérieure à deux ans.
 
@@ -60,7 +60,7 @@ En cas de non-respect de l'engagement visé au premier alinéa, les sommes dédu
 
 5° Les provisions constituées en vue de faire face à des pertes ou charges nettement précisées et que des événements en cours rendent probables, à condition qu'elles aient été effectivement constatées dans les écritures de l'exercice. Toutefois, ne sont pas déductibles les provisions que constitue une entreprise en vue de faire face au versement d'allocations en raison du départ à la retraite ou préretraite des membres ou anciens membres de son personnel, ou de ses mandataires sociaux. Les provisions pour pertes afférentes à des opérations en cours à la clôture d'un exercice ne sont déductibles des résultats de cet exercice qu'à concurrence de la perte qui est égale à l'excédent du coût de revient des travaux exécutés à la clôture du même exercice sur le prix de vente de ces travaux compte tenu des révisions contractuelles certaines à cette date. S'agissant des produits en stock à la clôture d'un exercice, les dépenses non engagées à cette date en vue de leur commercialisation ultérieure ne peuvent, à la date de cette clôture, être retenues pour l'évaluation de ces produits en application des dispositions du 3 de l'article 38, ni faire l'objet d'une provision pour perte.
 
-La dépréciation des oeuvres d'art inscrites à l'actif d'une entreprise peut donner lieu à la constitution d'une provision. Cette dépréciation doit être constatée par un expert agréé près les tribunaux lorsque le coût d'acquisition de l'oeuvre est supérieur à 50 000 F.
+La dépréciation des oeuvres d'art inscrites à l'actif d'une entreprise peut donner lieu à la constitution d'une provision. Cette dépréciation doit être constatée par un expert agréé près les tribunaux lorsque le coût d'acquisition de l'oeuvre est supérieur à 7 600 euros.
 
 Un décret fixe les règles d'après lesquelles des provisions pour fluctuation des cours peuvent être retranchées des bénéfices des entreprises dont l'activité consiste essentiellement à transformer directement des matières premières acquises sur les marchés internationaux ou des matières premières acquises sur le territoire national et dont les prix sont étroitement liés aux variations des cours internationaux.
 
@@ -68,7 +68,7 @@ Pour les entreprises dont l'objet principal est de faire subir en France la prem
 
 Les dispositions des troisième et quatrième alinéas cessent de s'appliquer pour la détermination des résultats des exercices clos à compter du 31 décembre 1997. Les provisions pour fluctuation des cours inscrites au bilan à l'ouverture du premier exercice clos à compter de cette même date sont rapportées, par fractions égales, aux résultats imposables de ce même exercice et des deux exercices suivants.
 
-Toutefois, les dispositions de la dernière phrase de l'alinéa qui précède ne sont pas applicables au montant des provisions visées à la même phrase qui sont portées, à la clôture du premier exercice clos à compter du 31 décembre 1997, à un compte de réserve spéciale. Les sommes inscrites à cette réserve ne peuvent excéder 60 millions de francs.
+Toutefois, les dispositions de la dernière phrase de l'alinéa qui précède ne sont pas applicables au montant des provisions visées à la même phrase qui sont portées, à la clôture du premier exercice clos à compter du 31 décembre 1997, à un compte de réserve spéciale. Les sommes inscrites à cette réserve ne peuvent excéder 9 146 941 euros.
 
 Les sommes prélevées sur la réserve mentionnée à l'alinéa précédent sont rapportées aux résultats de l'exercice en cours lors de ce prélèvement. Cette disposition n'est toutefois pas applicable :
 
@@ -78,7 +78,7 @@ b) Si la réserve est incorporée au capital ; en cas de réduction de capital a
 
 c) En cas d'imputation de pertes sur la réserve spéciale, les pertes ainsi annulées cessent d'être reportables.
 
-Sous réserve des dispositions prévues au onzième alinéa, les entreprises peuvent, d'autre part, en ce qui concerne les variations de prix postérieures au 30 juin 1959, pratiquer en franchise d'impôt une provision pour hausse des prix lorsque, pour une matière ou un produit donné, il est constaté, au cours d'une période ne pouvant excéder deux exercices successifs clos postérieurement à cette date, une hausse de prix supérieure à 10 %.
+Sous réserve des dispositions prévues au quatorzième alinéa, les entreprises peuvent, d'autre part, en ce qui concerne les variations de prix postérieures au 30 juin 1959, pratiquer en franchise d'impôt une provision pour hausse des prix lorsque, pour une matière ou un produit donné, il est constaté, au cours d'une période ne pouvant excéder deux exercices successifs clos postérieurement à cette date, une hausse de prix supérieure à 10 %.
 
 La provision pratiquée à la clôture d'un exercice en application de l'alinéa précédent est rapportée de plein droit aux bénéfices imposables de l'exercice en cours à l'expiration de la sixième année suivant la date de cette clôture. Toutefois, la réintégration dans les bénéfices pourra être effectuée après la sixième année dans les secteurs professionnels où la durée normale de rotation des stocks est supérieure à trois ans. Dans ce dernier cas, les entreprises effectueront la réintégration dans un délai double de celui de la rotation normale des stocks.
 
@@ -90,7 +90,7 @@ Un arrêté du ministre de l'économie et des finances fixe les limites dans les
 
 Les provisions qui, en tout ou en partie, reçoivent un emploi non conforme à leur destination ou deviennent sans objet au cours d'un exercice ultérieur sont rapportées aux résultats dudit exercice. Lorsque le rapport n'a pas été effectué par l'entreprise elle-même, l'administration peut procéder aux redressements nécessaires dès qu'elle constate que les provisions sont devenues sans objet. Dans ce cas, les provisions sont, s'il y a lieu, rapportées aux résultats du plus ancien des exercices soumis à vérification.
 
-Par dérogation aux dispositions des premier et treizième alinéas, la provision pour dépréciation qui résulte éventuellement de l'estimation du portefeuille est soumise au régime fiscal des moins-values à long terme défini au 2 du I de l'article 39 quindecies ; si elle devient ultérieurement sans objet, elle est comprise dans les plus-values à long terme de l'exercice, visées au 1 du I de l'article 39 quindecies. La provision pour dépréciation constituée antérieurement, le cas échéant, sur des titres prêtés dans les conditions prévues à l'article L. 432-6 du code monétaire et financier n'est pas réintégrée ; elle doit figurer sur une ligne distincte au bilan et demeurer inchangée jusqu'à la restitution de ces titres.
+Par dérogation aux dispositions des premier et seizième alinéas, la provision pour dépréciation qui résulte éventuellement de l'estimation du portefeuille est soumise au régime fiscal des moins-values à long terme défini au 2 du I de l'article 39 quindecies ; si elle devient ultérieurement sans objet, elle est comprise dans les plus-values à long terme de l'exercice, visées au 1 du I de l'article 39 quindecies. La provision pour dépréciation constituée antérieurement, le cas échéant, sur des titres prêtés dans les conditions prévues à l'article L. 432-6 du code monétaire et financier n'est pas réintégrée ; elle doit figurer sur une ligne distincte au bilan et demeurer inchangée jusqu'à la restitution de ces titres.
 
 Toutefois, pour les exercices ouverts à partir du 1er janvier 1974, les titres de participation ne peuvent faire l'objet d'une provision que s'il est justifié d'une dépréciation réelle par rapport au prix de revient. Pour l'application de cette disposition, sont présumés titres de participation les actions acquises en exécution d'une offre publique d'achat ou d'échange ainsi que les titres ouvrant droit au régime fiscal des sociétés mères.
 
@@ -98,9 +98,9 @@ Les provisions pour dépréciation, en ce qui concerne les titres et actions sus
 
 La dépréciation de titres prêtés dans les conditions prévues à l'article L. 432-6 du code monétaire et financier ne peut donner lieu, de la part du prêteur ou de l'emprunteur, à la constitution d'une provision. De même le prêteur ne peut constituer de provision pour dépréciation de la créance représentative de ces titres ;
 
-La dépréciation des valeurs, titres ou effets qui sont l'objet d'une pension dans les conditions prévues par les articles L. 432-12 à L. 432-19 du code monétaire et financier , ne peut donner lieu, de la part du cessionnaire, à la constitution d'une provision déductible sur le plan fiscal.
+La dépréciation des valeurs, titres ou effets qui sont l'objet d'une pension dans les conditions prévues par les articles L. 432-12 à L. 432-19 du code monétaire et financier, ne peut donner lieu, de la part du cessionnaire, à la constitution d'une provision déductible sur le plan fiscal.
 
-Par exception aux dispositions du quatorzième alinéa qui précède, la provision éventuellement constituée par une entreprise en vue de faire face à la dépréciation d'une participation dans une filiale implantée à l'étranger n'est admise sur le plan fiscal que pour la fraction de son montant qui excède les sommes déduites en application des dispositions des articles 39 octies A et 39 octies B et non rapportées au résultat de l'entreprise. Cette disposition s'applique pour la détermination des résultats des exercices ouverts à compter du 1er janvier 1988.
+Par exception aux dispositions du dix-septième alinéa, la provision éventuellement constituée par une entreprise en vue de faire face à la dépréciation d'une participation dans une filiale implantée à l'étranger n'est admise sur le plan fiscal que pour la fraction de son montant qui excède les sommes déduites en application des dispositions des articles 39 octies A et 39 octies B et non rapportées au résultat de l'entreprise. Cette disposition s'applique pour la détermination des résultats des exercices ouverts à compter du 1er janvier 1988.
 
 Les dispositions de l'alinéa précédent sont également applicables à la fraction du montant de la provision pour dépréciation mentionnée à cet alinéa, qui excède les sommes déduites en application de l'article 39 octies D ; cette disposition s'applique pour la détermination des résultats des exercices ouverts à compter du 1er janvier 1992.
 
@@ -108,15 +108,17 @@ La provision éventuellement constituée en vue de faire face à la dépréciati
 
 La provision constituée par l'entreprise en vue de faire face à l'obligation de renouveler un bien amortissable dont elle assure l'exploitation est déductible, à la clôture de l'exercice, dans la limite de la différence entre le coût estimé de remplacement de ce bien à la clôture du même exercice et son prix de revient initial affectée d'un coefficient progressif. Ce coefficient est égal au quotient du nombre d'années d'utilisation du bien depuis sa mise en service sur sa durée totale d'utilisation.
 
-Les dotations à la provision visée au vingt-deuxième alinéa ne sont pas déductibles si elles sont passées après l'expiration du plan de renouvellement en vigueur au 15 septembre 1997 ou, pour les biens mis en service après cette date, après l'expiration du plan initial de renouvellement.
+Les dotations à la provision visée au vingt-cinquième alinéa ne sont pas déductibles si elles sont passées après l'expiration du plan de renouvellement en vigueur au 15 septembre 1997 ou, pour les biens mis en service après cette date, après l'expiration du plan initial de renouvellement.
 
-La fraction de la provision pour renouvellement régulièrement constituée, figurant au bilan du dernier exercice clos avant le 31 décembre 1997 et qui, à la clôture des exercices suivants, est supérieure au montant déterminé en application des vingt-deuxième et vingt-troisième alinéas et n'a pas été utilisée, n'est pas rapportée au résultat de ces exercices, sous réserve des dispositions du treizième alinéa.
+La fraction de la provision pour renouvellement régulièrement constituée, figurant au bilan du dernier exercice clos avant le 31 décembre 1997 et qui, à la clôture des exercices suivants, est supérieure au montant déterminé en application des vingt-cinquième et vingt-sixième alinéas et n'a pas été utilisée, n'est pas rapportée au résultat de ces exercices, sous réserve des dispositions du seizième alinéa.
 
 Lorsque le bien à renouveler ne fait pas l'objet de dotations aux amortissements déductibles pour la détermination du résultat imposable de l'entreprise, le prix de revient initial du bien est retenu pour une valeur nulle.
 
-Dans l'hypothèse où cette obligation de renouvellement est mise à la charge d'un tiers, les dispositions des vingt-deuxième à vingt-cinquième alinéas sont applicables à celui-ci.
+Dans l'hypothèse où cette obligation de renouvellement est mise à la charge d'un tiers, les dispositions des vingt-cinquième à vingt-huitième alinéas sont applicables à celui-ci.
 
 Les provisions pour indemnités de licenciement constituées en vue de faire face aux charges liées aux licenciements pour motif économique ne sont pas déductibles des résultats des exercices clos à compter du 15 octobre 1997. Les provisions pour indemnités de licenciement constituées à cet effet et inscrites au bilan à l'ouverture du premier exercice clos à compter du 15 octobre 1997 sont rapportées aux résultats imposables de cet exercice.
+
+Les provisions constituées en vue de faire face au risque de change afférent aux prêts soumis, sur option, aux dispositions prévues au quatrième alinéa du 4 de l'article 38 ne sont pas déductibles du résultat imposable (1).
 
 6° La contribution de solidarité visée à l'article 33 de l'ordonnance n° 67-828 du 23 septembre 1967 et la taxe sur les grandes surfaces issue de l'article 3 modifié de la loi n° 72-657 du 13 juillet 1972 instituant des mesures en faveur de certaines catégories de commerçants et artisans âgés. Le fait générateur de cette contribution ou de cette taxe est constitué par l'existence de l'entreprise débitrice au 1er janvier de l'année au titre de laquelle elle est due ;
 
@@ -134,9 +136,9 @@ Pour l'application de cette disposition, les dirigeants s'entendent, dans les so
 
 Sauf justifications, les dispositions du premier alinéa sont applicables :
 
-a) A l'amortissement des véhicules immatriculés dans la catégorie des voitures particulières pour la fraction de leur prix d'acquisition qui dépasse 120 000 F.
+a) A l'amortissement des véhicules immatriculés dans la catégorie des voitures particulières pour la fraction de leur prix d'acquisition qui dépasse 18 300 euros (2) ;
 
-b) En cas d'opérations de crédit bail ou de location, à l'exception des locations de courte durée n'excédant pas trois mois non renouvelables, portant sur des voitures particulières, à la part du loyer supportée par le locataire et correspondant à l'amortissement pratiqué par le bailleur pour la fraction du prix d'acquisition du véhicule excédant 120 000 F ;
+b) En cas d'opérations de crédit bail ou de location, à l'exception des locations de courte durée n'excédant pas trois mois non renouvelables, portant sur des voitures particulières, à la part du loyer supportée par le locataire et correspondant à l'amortissement pratiqué par le bailleur pour la fraction du prix d'acquisition du véhicule excédant 18 300 euros (2) ;
 
 c) Aux dépenses de toute nature résultant de l'achat, de la location ou de toute autre opération faite en vue d'obtenir la disposition de yachts ou de bateaux de plaisance à voile ou à moteur ainsi que de leur entretien ; les amortissements sont regardés comme faisant partie de ces dépenses.
 
@@ -199,3 +201,19 @@ Lorsque le contrat de crédit-bail est cédé, les quotes-parts de loyers non d�
 11. 1° Pour ouvrir droit à l'exonération prévue au 31° de l'article 81, les charges engagées par une entreprise à l'occasion de l'attribution ou de la mise à disposition gratuite à ses salariés de matériels informatiques neufs, de logiciels et de la fourniture gratuite de prestations de services liées directement à l'utilisation de ces biens sont rapportées au résultat imposable des exercices au cours desquels intervient l'attribution en cause ou l'achèvement des prestations. Ces dispositions s'appliquent également lorsque les salariés bénéficient de l'attribution ou de la mise à disposition de ces mêmes biens ou de la fourniture de ces prestations de services pour un prix inférieur à leur coût de revient ;
 
 2° Le dispositif prévu au 1° s'applique aux opérations effectuées dans le cadre d'un accord conclu, selon les modalités prévues aux articles L. 442-10 et L. 442-11 du code du travail, du 1er janvier 2001 au 31 décembre 2002, sur option exercée dans le document formalisant l'accord. L'attribution, la mise à disposition ou la fourniture effective aux bénéficiaires des biens ou prestations de services doit s'effectuer dans les douze mois de la conclusion de l'accord précité.
+
+12. Lorsqu'il existe des liens de dépendance entre l'entreprise concédante et l'entreprise concessionnaire, le montant des redevances prises en compte pour le calcul du résultat net imposable selon le régime mentionné au 1 de l'article 39 terdecies n'est déductible du résultat imposable de l'entreprise concessionnaire que dans le rapport existant entre le taux réduit d'imposition applicable à ce résultat net et le taux normal prévu au deuxième alinéa du I de l'article 219.
+
+Des liens de dépendance sont réputés exister entre deux entreprises :
+
+a - lorsque l'une détient directement ou par personne interposée la majorité du capital social de l'autre ou y exerce en fait le pouvoir de décision ;
+
+b - lorsqu'elles sont placées l'une et l'autre, dans les conditions définies au a, sous le contrôle d'une même tierce entreprise.
+
+Les modalités d'application du présent 12 sont fixées par décret en Conseil d'Etat (3).
+
+(1) Ces dispositions sont applicables pour la détermination des résultats des exercices clos à compter du 31 décembre 2001.
+
+(2) Cette limite de 18 300 euros s'applique aux exercices clos à compter du 1er janvier 2002.
+
+(3) Ces dispositions s'appliquent aux redevances prises en compte à compter du 1er janvier 2002 dans les résultats des concédants et concessionnaires.

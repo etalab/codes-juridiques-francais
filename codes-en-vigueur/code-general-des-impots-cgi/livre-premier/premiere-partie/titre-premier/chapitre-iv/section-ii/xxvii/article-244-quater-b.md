@@ -4,13 +4,13 @@ I. Les entreprises industrielles et commerciales ou agricoles imposées d'après
 
 Le crédit d'impôt est égal à 50 % des dépenses de recherche de la première année au cours de laquelle l'entreprise expose des dépenses de cette nature.
 
-Le crédit d'impôt est plafonné pour chaque entreprise, y compris les sociétés de personnes, à 40 millions de francs. Il s'apprécie en prenant en compte la fraction du crédit d'impôt positif ou négatif correspondant aux parts des associés de sociétés de personnes mentionnées aux articles 8 et 238 bis L et aux droits des membres de groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C.
+Le crédit d'impôt est plafonné pour chaque entreprise, y compris les sociétés de personnes, à 6 100 000 euros. Il s'apprécie en prenant en compte la fraction du crédit d'impôt positif ou négatif correspondant aux parts des associés de sociétés de personnes mentionnées aux articles 8 et 238 bis L et aux droits des membres de groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C.
 
 Les dispositions du présent article s'appliquent, sur option de l'entreprise, aux dépenses exposées au cours des années 1999 à 2003 par les entreprises qui ont fait application du crédit d'impôt recherche au titre de 1998, par celles qui n'ont pas renouvelé leur option au titre des périodes 1993 à 1995 et 1996 à 1998, ou par celles qui n'ont jamais opté pour le régime du crédit d'impôt recherche. L'option doit être exercée au titre de 1999, ou au titre de l'année au cours de laquelle l'entreprise réalise ses premières dépenses de recherche éligibles au crédit d'impôt recherche.
 
 Le crédit d'impôt des entreprises n'ayant pas renouvelé leur option au titre des périodes 1993 à 1995 et 1996 à 1998 est calculé à compter de 1999 par application, le cas échéant, de l'article 199 ter B aux dépenses de recherche exposées depuis la dernière option valablement exercée.
 
-La fraction du crédit d'impôt qui résulte de la prise en compte de dépenses prévues au h et au i du II exposées à compter du 1er janvier 1999 est plafonnée pour chaque entreprise à 650 000 F par période de trois ans consécutifs.
+La fraction du crédit d'impôt qui résulte de la prise en compte de dépenses prévues au h et au i du II exposées à compter du 1er janvier 1999 est plafonnée pour chaque entreprise à 100 000 euros par période de trois ans consécutifs.
 
 II. Les dépenses de recherche ouvrant droit au crédit d'impôt sont :
 
@@ -18,13 +18,11 @@ a) Les dotations aux amortissements des immobilisations, créées ou acquises à
 
 b) Les dépenses de personnel afférentes aux chercheurs et techniciens de recherche directement et exclusivement affectés à ces opérations ;
 
-c) les autres dépenses de fonctionnement exposées dans les même s opérations ; ces dépenses sont fixées forfaitairement à 75 p. 100 des dépenses de personnel mentionnées au b.
+c) les autres dépenses de fonctionnement exposées dans les mêmes opérations ; ces dépenses sont fixées forfaitairement à 75 p. 100 des dépenses de personnel mentionnées au b.
 
 Ce pourcentage est fixé à :
 
-1° (abrogé).
-
-2° (abrogé).
+1° et 2° (abrogés pour les dépenses retenues pour le calcul du crédit d'impôt à compter du 1er janvier 2000).
 
 3° 100 p. 100 des dépenses de personnel qui se rapportent aux personnes titulaires d'un doctorat ou d'un diplôme équivalent pendant les douze premiers mois suivant leur recrutement à la condition que le contrat de travail de ces personnes soit à durée indéterminée et que l'effectif salarié de l'entreprise ne soit pas inférieur à celui de l'année précédente.
 
@@ -42,7 +40,7 @@ g) Les dépenses de normalisation afférentes aux produits de l'entreprise, déf
 
 2° Les autres dépenses exposées à raison de ces mêmes opérations ; ces dépenses sont fixées forfaitairement à 30 p. 100 des salaires mentionnés au 1° ;
 
-3° Dans des conditions fixées par décret, les dépenses exposées par le chef d'une entreprise individuelle, les personnes mentionnées au I de l'article 151 nonies et les mandataires sociaux pour leur participation aux réunions officielles de normalisation, à concurrence d'un forfait journalier de 3.000 F par jour de présence auxdites réunions ;
+3° Dans des conditions fixées par décret, les dépenses exposées par le chef d'une entreprise individuelle, les personnes mentionnées au I de l'article 151 nonies et les mandataires sociaux pour leur participation aux réunions officielles de normalisation, à concurrence d'un forfait journalier de 450 euros par jour de présence auxdites réunions ;
 
 h) Les dépenses liées à l'élaboration de nouvelles collections exposées par les entreprises industrielles du secteur textile-habillement-cuir et définies comme suit :
 
@@ -62,12 +60,6 @@ III. Les subventions publiques reçues par les entreprises à raison des opérat
 
 En outre, en cas de transfert de personnels, d'immobilisations ou de contrats mentionnés au d et d bis du II, entre entreprises ayant des liens de dépendance directe ou indirecte, ou résultant de fusions, scissions, apports ou opérations assimilées, il est fait abstraction, pour le calcul de la variation des dépenses de recherche, de la part de cette variation provenant exclusivement du transfert.
 
-IV. (Périmé).
+IV., IV. bis, IV. ter, V. (Dispositions périmées).
 
-IV bis. (Périmé).
-
-IV ter. (Périmé).
-
-V. (Périmé).
-
-VI. Un décret fixe les conditions d'application du présent article. Il en adapte les dispositions aux cas d'exercice de durée inégale ou ne coïncidant pas avec l'année civile.
+VI. Un décret fixe les conditions d'application du présent article. Il en adapte les dispositions aux cas d'exercices de durée inégale ou ne coïncidant pas avec l'année civile.

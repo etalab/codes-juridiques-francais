@@ -4,7 +4,7 @@ I. A défaut de revente dans le délai prévu à l'article 1115 l'acheteur est t
 
 Les sommes dues doivent être versées dans le mois suivant l'expiration dudit délai.
 
-II. Pour les biens visés au troisième alinéa de l'article 1115 revendus après le 31 décembre 1998, le vendeur est tenu d'acquitter le montant des impositions dont la perception a été différée respectivement réduit :
+II. Pour les biens visés au cinquième alinéa de l'article 1115 revendus après le 31 décembre 1998, le vendeur est tenu d'acquitter le montant des impositions dont la perception a été différée respectivement réduit :
 
 a. de 75 p. 100 en cas de revente entre le 1er janvier 1999 et le 31 décembre 1999 ;
 

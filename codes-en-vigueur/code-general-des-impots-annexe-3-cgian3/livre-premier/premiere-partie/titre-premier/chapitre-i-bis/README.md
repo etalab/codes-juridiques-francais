@@ -19,4 +19,6 @@
 - [Section IX : Entreprises nouvelles bénéficiant des dispositions de l'article 44 septies](section-ix)
 - [Section XI : Régime des amortissements réputés différés en période déficitaire en cas de reprise ou de transfert d'activités](section-xi)
 - [Section XII : Réduction du taux de l'impôt sur les sociétés pour certaines sociétés qui incorporent une fraction de leur bénéfice au capital](section-xii)
+- [Section XII bis : Réduction du taux de l'impôt sur les sociétés pour les petites entreprises.](section-xii-bis)
 - [Section XIII : Déduction des investissements réalisés outre-mer](section-xiii)
+- [Section XIV : Amortissement exceptionnel pour la souscription de parts de sociétés d'épargne forestière](section-xiv)

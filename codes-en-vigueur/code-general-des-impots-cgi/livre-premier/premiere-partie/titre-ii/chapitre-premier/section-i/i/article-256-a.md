@@ -1,6 +1,6 @@
 # Article 256 A
 
-Sont assujetties à la taxe sur la valeur ajoutée les personnes qui effectuent de manière indépendante une des activités économiques mentionnées au troisième alinéa, quels que soient le statut juridique de ces personnes, leur situation au regard des autres impôts et la forme ou la nature de leur intervention.
+Sont assujetties à la taxe sur la valeur ajoutée les personnes qui effectuent de manière indépendante une des activités économiques mentionnées au cinquième alinéa, quels que soient le statut juridique de ces personnes, leur situation au regard des autres impôts et la forme ou la nature de leur intervention.
 
 Ne sont pas considérés comme agissant de manière indépendante :
 

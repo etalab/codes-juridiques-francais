@@ -16,6 +16,6 @@ En cas d'échange avec soulte, la plus-value réalisée est, à concurrence du m
 
 Ces dispositions ne sont pas applicables si la soulte dépasse 10 % de la valeur nominale des parts ou des actions attribuées ou si la soulte excède la plus-value réalisée. Elles sont exclusives de l'application du dispositif visé au V de l'article 93 quater.
 
-III. En cas de transmission à titre gratuit à une personne physique des titres reçus en rémunération de la fusion, de la scission ou des titres de la société ayant réalisé l'apport partiel d'actif, le report d'imposition mentionné aux I et II peut être maintenu si le bénéficiaire de la transmission prend l'engagement d'acquitter l'impôt sur les plus-values à la date où l'un des événements visés aux troisième, quatrième et cinquième alinéas du I et au II viendrait à se réaliser à nouveau.
+III. En cas de transmission à titre gratuit à une personne physique des titres reçus en rémunération de la fusion, de la scission ou des titres de la société ayant réalisé l'apport partiel d'actif, le report d'imposition mentionné aux I et II peut être maintenu si le bénéficiaire de la transmission prend l'engagement d'acquitter l'impôt sur les plus-values à la date où l'un des événements visés aux 1°, 2° et 3° du I et au II viendrait à se réaliser à nouveau.
 
-IV. Les personnes physiques mentionnées au I sont soumises aux dispositions prévues au quatrième alinéa du II de l'article 151 octies.
+IV. Les personnes physiques mentionnées au I sont soumises aux dispositions prévues au sixième alinéa du II de l'article 151 octies.

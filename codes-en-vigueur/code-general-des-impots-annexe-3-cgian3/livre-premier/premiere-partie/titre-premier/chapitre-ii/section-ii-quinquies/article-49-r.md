@@ -4,7 +4,7 @@ Le contribuable qui peut bénéficier des dispositions de l'article 44 decies du
 
 1. Un état qui mentionne les renseignements suivants :
 
-a. La nature exacte de l'activité de l'entreprise, l'implantation précise de son siège et de ses établissements, sa situation au regard des aides à l'investissement visées au quatrième alinéa du I de l'article 44 decies du code général des impôts ;
+a. La nature exacte de l'activité de l'entreprise, l'implantation précise de son siège et de ses établissements, sa situation au regard des aides à l'investissement visées au a du I de l'article 44 decies du code général des impôts ;
 
 b. L'effectif des salariés, la nature du contrat de travail de chacun d'eux, la durée du temps de travail prévue par ce contrat et le temps de travail effectif de chaque salarié au cours de l'exercice ;
 

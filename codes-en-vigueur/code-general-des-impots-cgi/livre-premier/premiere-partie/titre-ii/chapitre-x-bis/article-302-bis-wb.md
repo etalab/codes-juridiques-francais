@@ -8,7 +8,7 @@ III. - Le fait générateur de la redevance est constitué par l'introduction de
 
 IV. - Le taux de la redevance est fixé par tonne de produits de la pêche ou de l'aquaculture, dans la limite d'un plafond de 150 % des niveaux forfaitaires définis en euros par décision du Conseil de l'Union européenne.
 
-Un arrêté conjoint du ministre de l'économie, des finances et de l'industrie, du ministre de l'agriculture et de la pêche et du secrétaire d'Etat au budget fixe le taux de la redevance à partir du taux de conversion en francs de l'euro (1).
+Un arrêté conjoint du ministre de l'économie, des finances et de l'industrie, du ministre de l'agriculture et de la pêche et du secrétaire d'Etat au budget fixe le taux de la redevance (1).
 
 V. - La redevance est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que la taxe sur la valeur ajoutée.
 
@@ -18,4 +18,4 @@ VI. - Un décret en Conseil d'Etat fixe les conditions d'application du présent
 
 (1) Voir l'article 50 quaterdecies-0 A de l'annexe IV.
 
-(2) Voir l'article 267 quater F de l'annexe II.
+(2) Voir l'article 267 quater G de l'annexe II.

@@ -10,7 +10,7 @@ a. Sur option, aux entreprises normalement placées sous le régime défini à l
 
 b. Aux autres entreprises dont le chiffre d'affaires n'excède pas les limites prévues au I de l'article 302 septies A ainsi qu'aux sociétés civiles de moyens définies à l'article 36 de la loi n° 66-879 du 29 novembre 1966.
 
-Les entreprises conservent le bénéfice de ces dispositions pour la première année au cours de laquelle le chiffre d'affaires limite fixé à l'alinéa précédent est dépassé, sauf en cas de changement d'activité.
+Les entreprises conservent le bénéfice de ces dispositions pour la première année au cours de laquelle le chiffre d'affaires limite fixé au premier alinéa est dépassé, sauf en cas de changement d'activité.
 
 IV Les personnes morales passibles de l'impôt sur les sociétés dont le chiffre d'affaires n'excède pas les limites définies au b du III sont admises au bénéfice du régime prévu au I.
 

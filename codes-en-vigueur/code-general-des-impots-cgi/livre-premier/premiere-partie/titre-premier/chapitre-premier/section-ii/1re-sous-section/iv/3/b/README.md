@@ -3,6 +3,7 @@
 - [Article 72](article-72.md)
 - [Article 72 C](article-72-c.md)
 - [Article 72 D](article-72-d.md)
+- [Article 72 D bis](article-72-d-bis.md)
 - [Article 72 A](article-72-a.md)
 - [Article 72 B](article-72-b.md)
 - [Article 72 B bis](article-72-b-bis.md)

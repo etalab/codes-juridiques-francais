@@ -8,6 +8,7 @@
 - [V bis : Plan d'épargne en actions](v-bis)
 - [VI : Déduction des pensions alimentaires](vi)
 - [VII : Déduction des investissements réalisés outre-mer.](vii)
+- [VIII : Modalités d'imposition des revenus et plus-values en cas de transfert du domicile fiscal hors de France](viii)
 - [Article 91 undecies](article-91-undecies.md)
 - [Article 91 duodecies](article-91-duodecies.md)
 - [Article 91 terdecies](article-91-terdecies.md)

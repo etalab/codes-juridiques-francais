@@ -2,7 +2,9 @@
 
 I. Pour l'établissement de l'impôt sur le revenu ou de l'impôt sur les sociétés, les dépenses de fonctionnement exposées dans les opérations de recherche scientifique ou technique peuvent, au choix de l'entreprise, être immobilisées ou déduites des résultats de l'année ou de l'exercice au cours duquel elles ont été exposées.
 
-Lorsqu'une entreprise a choisi de les déduire, ces dépenses ne peuvent pas être prises en compte dans l'évaluation du coût des stocks.    Ces dispositions sont applicables aux dépenses exposées dans les opérations de conception de logiciels.
+Lorsqu'une entreprise a choisi de les déduire, ces dépenses ne peuvent pas être prises en compte dans l'évaluation du coût des stocks.
+
+Ces dispositions sont applicables aux dépenses exposées dans les opérations de conception de logiciels.
 
 I bis. Les subventions allouées aux entreprises par l'Etat, les collectivités territoriales et les établissements publics spécialisés dans l'aide à la recherche scientifique ou technique et qui sont affectées au financement de dépenses de recherche immobilisées dans les conditions prévues au I ci-dessus sont rattachées aux résultats imposables à concurrence des amortissements du montant de ces dépenses pratiqués à la clôture de chaque exercice.
 
@@ -12,6 +14,4 @@ II. Lorsqu'une entreprise acquiert un logiciel, le coût de revient de celui-ci 
 
 Cet amortissement exceptionnel s'effectue au prorata du nombre de mois restant à courir entre le premier jour du mois de la date d'acquisition du logiciel et la clôture de l'exercice ou la fin de l'année. Le solde est déduit à la clôture de l'exercice suivant ou au titre de l'année suivante.
 
-Les dispositions du quatrième alinéa de l'article 209-I ne sont pas applicables à l'amortissement prévu par les deux alinéas qui précèdent (1).
-
-(1) Dispositions applicables aux dépenses exposées au cours des exercices ouverts à compter du 1er janvier 1984.
+Les dispositions du quatrième alinéa du I de l'article 209 ne sont pas applicables à l'amortissement prévu par les premier et deuxième alinéas.

@@ -6,7 +6,7 @@
 - [2 bis : Retenue à la source de l'impôt sur le revenu](2-bis)
 - [3 : Revenus des valeurs mobilières émises hors de France et revenus assimilés](3)
 - [4 : Revenus des créances, dépôts et cautionnements](4)
-- [4 bis : Prélèvement sur les produits des bons ou contrats de capitalisation.](4-bis)
+- [4 bis : Prélèvement sur les produits de bons ou contrats de capitalisation](4-bis)
 - [4 ter : Prélèvement sur les produits de placements à revenu fixe](4-ter)
 - [4 quater : Prélèvement sur les produits de placements à revenu fixe et les produits de bons ou contrats de capitalisation de source européenne](4-quater)
 - [5 : Exonérations et régimes spéciaux](5)

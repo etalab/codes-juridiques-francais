@@ -26,4 +26,4 @@ f. Sont âgés de plus de 75 ans et titulaires de la carte du combattant ou d'un
 
 6. Les contribuables mariés, lorsque l'un des conjoints est âgé de plus de 75 ans et titulaire de la carte du combattant ou d'une pension servie en vertu des dispositions du code des pensions militaires d'invalidité et des victimes de la guerre, bénéficient d'une demi-part supplémentaire de quotient familial.
 
-Les contribuables qui bénéficient des dispositions des 3 ou 4 ne peuvent bénéficier des dispositions de l'alinéa précédent.
+Les contribuables qui bénéficient des dispositions des 3 ou 4 ne peuvent bénéficier des dispositions du premier alinéa.

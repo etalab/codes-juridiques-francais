@@ -1,4 +1,4 @@
-# 8 : Amortissement des biens donnés en location ou mis à disposition
+# 8 : Amortissement des biens donnés en location ou mis à disposition.
 
 - [Article 30](article-30.md)
 - [Article 31 C](article-31-c.md)
