@@ -6,5 +6,5 @@
 - [Chapitre IV : Pupilles de l'Etat](chapitre-iv)
 - [Chapitre V : Adoption](chapitre-v)
 - [Chapitre VI : Protection des mineurs maltraités.](chapitre-vi)
-- [Chapitre VII : Protection des mineurs placés hors du domicile parental.](chapitre-vii)
+- [Chapitre VII : Mineurs accueillis hors du domicile parental.](chapitre-vii)
 - [Chapitre VIII : Dispositions financières.](chapitre-viii)
