@@ -8,7 +8,7 @@ Le remploi prévu à l'article 40 du code général des impôts ne peut pas êtr
 
 3° Yachts ou bateaux de plaisance à voile ou à moteur ;
 
-4° Voitures de tourisme, pour la fraction de leur prix d'acquisition qui dépasse 20 000 F ;
+4° Voitures de tourisme, pour la fraction de leur prix d'acquisition qui dépasse 3 049 € ;
 
 5° Bijoux, objets d'art, à l'exception des objets mobiliers classés dans les conditions prévues à l'article 14 de la loi du 31 décembre 1913 susvisée, modifié par l'article unique de la loi n° 46-985 du 10 mai 1946 ;
 
