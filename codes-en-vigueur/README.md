@@ -2,6 +2,7 @@
 
 - [Code civil](code-civil)
 - [Code général des impôts, CGI.](code-general-des-impots-cgi)
+- [Code de l'artisanat](code-de-l-artisanat)
 - [Code des douanes](code-des-douanes)
 - [Code du travail maritime](code-du-travail-maritime)
 - [Code des instruments monétaires et des médailles](code-des-instruments-monetaires-et-des-medailles)
