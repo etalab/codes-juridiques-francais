@@ -11,6 +11,8 @@
 - [Article 39 quinquies](article-39-quinquies.md)
 - [Article 39 quinquies C](article-39-quinquies-c.md)
 - [Article 39 quinquies A](article-39-quinquies-a.md)
+- [Article 39 quinquies E](article-39-quinquies-e.md)
+- [Article 39 quinquies F](article-39-quinquies-f.md)
 - [Article 39 quinquies FB](article-39-quinquies-fb.md)
 - [Article 39 quinquies G](article-39-quinquies-g.md)
 - [Article 39 quinquies H](article-39-quinquies-h.md)
