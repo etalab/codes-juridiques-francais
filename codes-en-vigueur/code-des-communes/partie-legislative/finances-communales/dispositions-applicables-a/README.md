@@ -6,3 +6,4 @@
 - [COMMUNAUTE URBAINE](communaute-urbaine)
 - [DISTRICT](district)
 - [ENSEMBLE URBAIN](ensemble-urbain)
+- [Article L253-2](article-l253-2.md)

@@ -2,5 +2,6 @@
 
 - [CENTRES DE FORMATION D'APPRENTIS .](centres-de-formation-d-apprentis)
 - [CONDITIONS DU CONTRAT D'APPRENTISSAGE .](conditions-du-contrat-d-apprentissage)
+- [STATUT DE L'APPRENTI .](statut-de-l-apprenti)
 - [DEFINITION ET REGIME JURIDIQUE DU CONTRAT D'APPRENTISSAGE .](definition-et)
 - [FORMATION ET RESOLUTION DU CONTRAT D'APPRENTISSAGE .](formation-et)

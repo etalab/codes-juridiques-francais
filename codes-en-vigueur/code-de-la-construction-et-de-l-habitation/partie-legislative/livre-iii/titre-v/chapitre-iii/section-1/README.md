@@ -2,6 +2,7 @@
 
 - [Article L353-2](article-l353-2.md)
 - [Article L353-3](article-l353-3.md)
+- [Article L353-4](article-l353-4.md)
 - [Article L353-5](article-l353-5.md)
 - [Article L353-6](article-l353-6.md)
 - [Article L353-7](article-l353-7.md)
