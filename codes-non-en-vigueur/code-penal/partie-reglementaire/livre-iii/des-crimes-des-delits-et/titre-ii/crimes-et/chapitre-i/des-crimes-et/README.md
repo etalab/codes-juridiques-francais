@@ -2,4 +2,3 @@
 
 - [SECTION I](section-i)
 - [SECTION II](section-ii)
-- [SECTION IV](section-iv)
