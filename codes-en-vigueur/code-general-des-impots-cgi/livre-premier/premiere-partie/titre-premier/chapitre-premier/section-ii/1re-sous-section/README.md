@@ -2,3 +2,4 @@
 
 - [IV : Bénéfices de l'exploitation agricole](iv)
 - [VII : Revenus des capitaux mobiliers](vii)
+- [VIII : Dispositions communes aux différentes catégories de revenus](viii)
