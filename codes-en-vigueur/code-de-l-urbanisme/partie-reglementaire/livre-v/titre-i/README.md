@@ -8,7 +8,3 @@
 - [Article A510-6](article-a510-6.md)
 - [Article A510-7](article-a510-7.md)
 - [Article A510-8](article-a510-8.md)
-- [Article A510-9](article-a510-9.md)
-- [Article A510-10](article-a510-10.md)
-- [Article A510-11](article-a510-11.md)
-- [Article A510-12](article-a510-12.md)
