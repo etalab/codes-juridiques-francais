@@ -1,6 +1,5 @@
-# AMENAGEMENT DU TEMPS DE TRAVAIL .
+# TRAVAIL A TEMPS PARTIEL.
 
-- [TRAVAIL A TEMPS PARTIEL.](travail-a)
 - [Article L212-4-2](article-l212-4-2.md)
 - [Article L212-4-3](article-l212-4-3.md)
 - [Article L212-4-4](article-l212-4-4.md)
