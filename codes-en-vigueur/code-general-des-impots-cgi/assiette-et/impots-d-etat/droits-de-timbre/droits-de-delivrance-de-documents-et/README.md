@@ -1,7 +1,6 @@
 # DROITS DE DELIVRANCE DE DOCUMENTS ET PERCEPTIONS DIVERSES.
 
 - [Article 945](article-945.md)
-- [Article 947](article-947.md)
 - [Article 948](article-948.md)
 - [Article 949](article-949.md)
 - [Article 950](article-950.md)
