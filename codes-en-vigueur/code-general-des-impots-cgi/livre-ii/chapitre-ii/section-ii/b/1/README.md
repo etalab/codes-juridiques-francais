@@ -8,6 +8,5 @@
 - [Article 1786](article-1786.md)
 - [Article 1786 bis](article-1786-bis.md)
 - [Article 1788](article-1788.md)
-- [Article 1788 bis](article-1788-bis.md)
 - [Article 1788 ter](article-1788-ter.md)
 - [Article 1788 quater](article-1788-quater.md)

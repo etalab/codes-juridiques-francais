@@ -2,7 +2,5 @@
 
 - [I : Revenus fonciers](i)
 - [II : Bénéfices industriels et commerciaux](ii)
-- [V : Traitements, salaires, pensions et rentes viagères](v)
 - [VI : Bénéfices des professions non commerciales](vi)
 - [VII : Revenus des capitaux mobiliers](vii)
-- [VII ter : Plus-values de cession à titre onéreux de biens ou de droits de toute nature](vii-ter)
