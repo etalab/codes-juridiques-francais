@@ -12,7 +12,6 @@
 - [Article 9 ter](article-9-ter.md)
 - [Article 10](article-10.md)
 - [Article 12](article-12.md)
-- [Article 13](article-13.md)
 - [Article 14](article-14.md)
 - [Article 14 bis](article-14-bis.md)
 - [Article 14 ter](article-14-ter.md)
