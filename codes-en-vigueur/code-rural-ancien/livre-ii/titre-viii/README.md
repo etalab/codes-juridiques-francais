@@ -8,6 +8,7 @@
 - [Article 309-5](article-309-5.md)
 - [Article 309-6](article-309-6.md)
 - [Article 309-7](article-309-7.md)
+- [Article 309-7-1](article-309-7-1.md)
 - [Article 309-8](article-309-8.md)
 - [Article 309-9](article-309-9.md)
 - [Article 311](article-311.md)

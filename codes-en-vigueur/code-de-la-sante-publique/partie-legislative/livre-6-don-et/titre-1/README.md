@@ -7,3 +7,5 @@
 - [Article L665-14](article-l665-14.md)
 - [Article L665-15](article-l665-15.md)
 - [Article L665-16](article-l665-16.md)
+- [Article L665-17](article-l665-17.md)
+- [Article L665-18](article-l665-18.md)
