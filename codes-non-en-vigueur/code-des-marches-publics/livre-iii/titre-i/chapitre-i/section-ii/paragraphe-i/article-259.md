@@ -4,4 +4,4 @@ A l'exception du dernier alinéa de l'article 50, les dispositions des articles 
 
 La déclaration prévue par l'article 251 (2°) doit contenir les mention, attestation et engagement prescrit par l'article 55, 2° alinéa.
 
-La déclaration prévue à l'article 50 n'est pas exigible en matière d'achats sur factures et de travaux sur mémoires effectués conformément aux dispositions des articles 311 (2° alinéa) et 321.
+La déclaration prévue à l'article 50 n'est pas exigible en matière d'achats sur factures et de travaux sur mémoires effectués conformément aux dispositions de l'article 321.
