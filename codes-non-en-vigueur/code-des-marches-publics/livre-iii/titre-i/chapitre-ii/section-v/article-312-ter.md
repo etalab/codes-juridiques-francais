@@ -8,6 +8,6 @@ Tout projet de marché fait l'objet d'un rapport du représentant légal de la c
 
 3° Motive le choix de l'entrepreneur ou du fournisseur et expose, dans le cas des articles 309, 312 et 312 bis, le déroulement des négociations avec le titulaire.
 
-4° Précise, dans toute la mesure du possible, le pays d'origine s'il s'agit d'un marché de fournitures.
+4° Précise dans la mesure du possible, pour les marchés de fournitures, si les produits proviennent de la Communauté économique européenne, d'un Etat non membre de la Communauté économique européenne signataire de l'accord général sur les tarifs douaniers et le commerce ou d'un autre Etat.
 
 Ce rapport est inclus dans le dossier qui est transmis au représentant de l'Etat.
