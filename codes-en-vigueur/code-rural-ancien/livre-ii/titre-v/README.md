@@ -9,5 +9,6 @@
 - [Article 282](article-282.md)
 - [Article 283](article-283.md)
 - [Article 283-1](article-283-1.md)
+- [Article 283-2](article-283-2.md)
 - [Article 283-3](article-283-3.md)
 - [Article 283-4](article-283-4.md)
