@@ -1,15 +1,11 @@
 # Article L423-1-2
 
-Les dispositions de l'article L. 423-1-1 ne s'appliquent pas :
+Le capital d'une société créée en application de l'article L. 423-1-1 doit être détenu en totalité par des organismes d'habitations à loyer modéré et son conseil d'administration ou son conseil de surveillance est exclusivement composé de représentants permanents de ces organismes.
 
-a) En cas de cession soit au conjoint, soit a un ascendant ou à un descendant ou à ceux du conjoint ;
+Par dérogation aux dispositions des deux premiers alinéas de l'article L. 225-47 du code de commerce, le président du conseil d'administration est élu parmi les représentants permanents des organismes d'habitations à loyer modéré membres de ce conseil et au plus pour la durée du mandat d'administrateur de la personne qu'il représente.
 
-b) En cas de cession, à une personne physique nommée administrateur, du nombre d'actions exigé statutairement pour occuper ces fonctions ;
+Par dérogation aux dispositions de l'article L. 225-81 du code de commerce, le président et le vice-président du conseil de surveillance sont élus parmi les représentants permanents des organismes d'habitations à loyer modéré membres du conseil de surveillance et chacun au plus pour la durée du mandat de la personne qu'il représente.
 
-c) En cas de cession à des collectivités locales ou à leurs établissements publics ;
+La perte de la qualité de représentant permanent met toutefois fin aux fonctions, selon le cas, du président du conseil d'administration, du président ou du vice-président du conseil de surveillance.
 
-d) En cas de cession à une personne morale figurant sur une liste arrêtée par le ministre chargé des habitations à loyer modéré après avis du conseil supérieur des habitations à loyer modéré ;
-
-e) En cas de cession à une autre personne morale ou physique lorsque la cession aura été autorisée par le ministre chargé des habitations à loyer modéré après avis du préfet et du [*comité départemental des habitations à loyer modéré*] conseil départemental de l'habitat du lieu du siège social de l'organisme.
-
-Ne sont pas considérés comme cessions les transferts d'actions consécutifs à l'ouverture d'une succession ou à la liquidation d'une communauté de biens entre époux [*sociétés anonymes crédit immobilier*].
+Par dérogation aux dispositions de l'article L. 225-1 du code de commerce, le nombre minimum des associés de la société est ramené à deux.

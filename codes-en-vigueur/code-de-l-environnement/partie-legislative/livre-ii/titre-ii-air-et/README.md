@@ -8,5 +8,6 @@
 - [Chapitre VI : Contrôles et sanctions](chapitre-vi)
 - [Chapitre VII : Dispositions particulières aux pollutions causées par des substances radioactives](chapitre-vii)
 - [Chapitre VIII : Dispositions diverses](chapitre-viii)
+- [Chapitre IX : Effet de serre](chapitre-ix)
 - [Article L220-1](article-l220-1.md)
 - [Article L220-2](article-l220-2.md)

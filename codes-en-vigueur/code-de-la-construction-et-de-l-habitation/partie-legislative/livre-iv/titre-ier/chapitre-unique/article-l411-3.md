@@ -6,6 +6,10 @@ Ces dispositions ne sont pas applicables :
 
 - aux logements vendus par les organismes d'habitations à loyer modéré en application des premier, troisième et cinquième alinéas de l'article L. 443-11 ;
 
+- aux logements cédés ou apportés aux sociétés civiles immobilières régies par l'article L. 443-7-1 et devenus propriété de l'associé personne physique ;
+
+- aux logements dont l'usufruit a été détenu temporairement par les organismes d'habitations à loyer modéré ;
+
 - aux logements construits par les organismes d'habitations à loyer modéré dans le cadre d'un bail à construction ou d'un bail emphytéotique et devenus propriété du bailleur à l'expiration du bail ;
 
 - aux lots acquis en vue de leur revente et situés dans les copropriétés qui font l'objet d'un plan de sauvegarde en application de l'article L. 615-1, tels que précisés aux articles L. 421-1, L. 422-2 et L. 422-3.

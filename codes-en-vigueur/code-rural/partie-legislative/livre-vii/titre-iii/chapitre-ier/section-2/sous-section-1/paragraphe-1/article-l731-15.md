@@ -2,7 +2,7 @@
 
 Les revenus professionnels pris en compte sont constitués par la moyenne des revenus se rapportant aux trois années antérieures à celle au titre de laquelle les cotisations sont dues.
 
-Ces revenus s'entendent des revenus nets professionnels retenus pour le calcul de l'impôt sur le revenu, éventuellement minorés de la déduction prévue au deuxième alinéa de l'article L. 731-14, ou, le cas échéant, de leur somme.
+Ces revenus s'entendent des revenus nets professionnels retenus pour le calcul de l'impôt sur le revenu, éventuellement minorés de la déduction prévue au cinquième alinéa de l'article L. 731-14, ou, le cas échéant, de leur somme.
 
 Il n'est pas tenu compte des reports déficitaires, des plus-values et moins-values professionnelles à long terme et des modalités d'assiette qui résultent d'une option du contribuable.
 

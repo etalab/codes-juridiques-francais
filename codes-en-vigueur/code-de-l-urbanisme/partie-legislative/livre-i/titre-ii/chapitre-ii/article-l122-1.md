@@ -14,6 +14,8 @@ Ils peuvent définir les grands projets d'équipements et de services, en partic
 
 Les schémas de cohérence territoriale prennent en compte les programmes d'équipement de l'Etat, des collectivités locales et des établissements et services publics. Ils doivent être compatibles avec les chartes des parcs naturels régionaux.
 
+Lorsque le périmètre d'un schéma de cohérence territoriale recouvre en tout ou partie celui d'un pays ayant fait l'objet d'une publication par arrêté préfectoral, le projet d'aménagement et de développement durable du schéma de cohérence territoriale tient compte de la charte de développement du pays.
+
 Pour leur exécution, les schémas de cohérence territoriale peuvent être complétés en certaines de leurs parties par des schémas de secteur qui en détaillent et en précisent le contenu.
 
 Les programmes locaux de l'habitat, les plans de déplacements urbains, les schémas de développement commercial, les plans locaux d'urbanisme, les plans de sauvegarde et de mise en valeur, les cartes communales, les opérations foncières et les opérations d'aménagement définies par décret en Conseil d'Etat doivent être compatibles avec les schémas de cohérence territoriale et les schémas de secteur. Il en est de même pour les autorisations prévues par les articles 29 et 36-1 de la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat.

@@ -12,4 +12,4 @@ Les chefs d'exploitation agricole à titre individuel sont autorisés, sur optio
 
 Les dispositions du précédent alinéa sont applicables dans les mêmes conditions aux associés personnes physiques des sociétés visées à l'article 8 du code général des impôts pour les terres mises en valeur par lesdites sociétés lorsque celles-ci sont inscrites à l'actif de leur bilan.
 
-Un décret détermine les conditions dans lesquelles les chefs d'exploitation agricole peuvent opter pour la déduction prévue au deuxième alinéa, la durée de validité de cette option et les justificatifs qu'ils doivent fournir à la caisse de mutualité sociale agricole dont ils relèvent.
+Un décret détermine les conditions dans lesquelles les chefs d'exploitation agricole peuvent opter pour la déduction prévue au cinquième alinéa, la durée de validité de cette option et les justificatifs qu'ils doivent fournir à la caisse de mutualité sociale agricole dont ils relèvent.

@@ -12,7 +12,7 @@ Cette interdiction ne s'applique pas :
 
 - aux réseaux d'intérêt public.
 
-Elle ne s'applique pas non plus à l'adaptation, la réfection ou l'extension de constructions existantes.
+Elle ne s'applique pas non plus à l'adaptation, au changement de destination, à la réfection ou à l'extension de constructions existantes.
 
 Les dispositions des alinéas précédents ne s'appliquent pas dès lors que les règles concernant ces zones, contenues dans le plan local d'urbanisme, ou dans un document d'urbanisme en tenant lieu, sont justifiées et motivées au regard notamment des nuisances, de la sécurité, de la qualité architecturale, ainsi que de la qualité de l'urbanisme et des paysages.
 
