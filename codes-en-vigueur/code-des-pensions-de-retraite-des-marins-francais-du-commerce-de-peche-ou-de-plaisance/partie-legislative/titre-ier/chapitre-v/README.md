@@ -1,5 +1,6 @@
 # Chapitre V : Dispositions diverses.
 
+- [Article L27](article-l27.md)
 - [Article L28](article-l28.md)
 - [Article L29](article-l29.md)
 - [Article L30](article-l30.md)
@@ -9,4 +10,5 @@
 - [Article L34](article-l34.md)
 - [Article L35](article-l35.md)
 - [Article L36](article-l36.md)
+- [Article L37](article-l37.md)
 - [Article L38](article-l38.md)
