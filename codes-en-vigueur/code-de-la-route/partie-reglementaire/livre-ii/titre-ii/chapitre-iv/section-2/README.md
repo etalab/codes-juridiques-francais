@@ -1,4 +1,4 @@
-# Section 2 : Interdiction de délivrance, suspension et annulation judiciaires.
+# Section 2 : Interdiction de délivrance, suspension et annulation judiciaires, invalidation.
 
 - [Article R224-20](article-r224-20.md)
 - [Article R224-21](article-r224-21.md)

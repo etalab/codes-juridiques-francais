@@ -6,4 +6,3 @@
 - [Article R317-26](article-r317-26.md)
 - [Article R317-27](article-r317-27.md)
 - [Article R317-28](article-r317-28.md)
-- [Article R317-29](article-r317-29.md)
