@@ -6,5 +6,3 @@
 - [Chapitre IV : Débits temporaires.](chapitre-iv)
 - [Chapitre V : Zones protégées.](chapitre-v)
 - [Chapitre VI : Associations et cercles privés.](chapitre-vi)
-- [Chapitre VII : Grands ensembles d'habitation.](chapitre-vii)
-- [Chapitre VIII : Zones industrielles.](chapitre-viii)
