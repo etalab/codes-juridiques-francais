@@ -31,7 +31,6 @@
 - [Article 777](article-777.md)
 - [Article 779](article-779.md)
 - [Article 786](article-786.md)
-- [Article 787](article-787.md)
 - [Article 787 A](article-787-a.md)
 - [Article 788](article-788.md)
 - [Article 790](article-790.md)
