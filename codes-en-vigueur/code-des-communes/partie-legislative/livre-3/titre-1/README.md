@@ -7,3 +7,4 @@
 - [CHAPITRE 5 : Travaux communaux](chapitre-5)
 - [CHAPITRE 6 : Actions judiciaires](chapitre-6)
 - [CHAPITRE 7 : Archives communales.](chapitre-7)
+- [CHAPITRE 8 : Dispositions diverses](chapitre-8)

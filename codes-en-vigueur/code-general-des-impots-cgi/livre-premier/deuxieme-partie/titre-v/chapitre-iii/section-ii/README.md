@@ -3,3 +3,4 @@
 - [Article 1648 A bis](article-1648-a-bis.md)
 - [Article 1648 B](article-1648-b.md)
 - [Article 1648 B bis](article-1648-b-bis.md)
+- [Article 1648 B ter](article-1648-b-ter.md)

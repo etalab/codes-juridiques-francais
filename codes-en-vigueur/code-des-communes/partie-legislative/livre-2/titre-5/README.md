@@ -7,3 +7,5 @@
 - [CHAPITRE 5 : Dispositions applicables au syndicat communautaire d'aménagement.](chapitre-5)
 - [CHAPITRE 6 : Dispositions applicables à l'ensemble urbain.](chapitre-6)
 - [CHAPITRE 7 : Dispositions diverses applicables à l'ensemble urbain, au syndicat communautaire d'aménagement et à la communauté urbaine.](chapitre-7)
+- [CHAPITRE 8 : Dispositions applicables à la communauté de communes.](chapitre-8)
+- [CHAPITRE 9 : Dispositions applicables à la communauté de villes](chapitre-9)

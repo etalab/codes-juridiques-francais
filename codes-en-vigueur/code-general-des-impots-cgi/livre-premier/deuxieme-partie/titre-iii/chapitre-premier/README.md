@@ -11,6 +11,8 @@
 - [Section X : Impositions perçues au profit des communautés urbaines](section-x)
 - [Section XI : Impositions perçues au profit des syndicats de communes et des syndicats mixtes](section-xi)
 - [Section XII : Impositions perçues au profit des districts.](section-xii)
+- [Section XII bis : Impositions perçues au profit des communautés de communes](section-xii-bis)
 - [Section XIII : Impositions perçues par les organismes chargés de la création d'une agglomération nouvelle](section-xiii)
 - [Section XIII bis : Dispositions applicables à l'ensemble des groupements de communes](section-xiii-bis)
 - [Section XIII ter : Impositions perçues par les communautés ou syndicats d'agglomérations nouvelles](section-xiii-ter)
+- [Section XIII quater : Impositions perçues au profit des communautés de villes.](section-xiii-quater)
