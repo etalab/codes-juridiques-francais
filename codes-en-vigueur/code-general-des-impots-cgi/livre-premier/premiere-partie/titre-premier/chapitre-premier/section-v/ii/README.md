@@ -14,7 +14,6 @@
 - [21° : Crédit d'impôt accordé au titre des dépenses d'entretien afférentes à l'habitation principale.](21)
 - [3° : Réduction d'impôt accordée au titre des cotisations versées aux organisations syndicales](3)
 - [4° : Réduction d'impôt accordée au titre des frais de garde des jeunes enfants.](4)
-- [5° : Réduction d'impôt pour dépenses de formation du chef d'entreprise](5)
 - [6° : Réduction d'impôt accordée au titre des frais de scolarité des enfants poursuivant des études secondaires ou supérieures](6)
 - [8° : Réduction d'impôt accordée au titre des dépenses afférentes à l'habitation principale.](8)
 - [9° : Réduction d'impôt accordée au titre de certaines primes d'assurances](9)

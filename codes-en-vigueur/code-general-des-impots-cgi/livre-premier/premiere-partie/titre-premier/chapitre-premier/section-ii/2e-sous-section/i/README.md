@@ -35,7 +35,6 @@
 - [Article 163 A](article-163-a.md)
 - [d : Créateurs d'entreprises.](d)
 - [a : Plan d'épargne en actions](a)
-- [b : Détaxation du revenu investi en actions](b)
 - [e : Plan d'épargne en vue de la retraite.](e)
 - [f : Copropriétés de navires](f)
 - [g : Copropriétés de navires de commerce](g)

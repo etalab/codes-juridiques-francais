@@ -6,5 +6,4 @@
 - [Article 170 septies F](article-170-septies-f.md)
 - [Article 170 septies G](article-170-septies-g.md)
 - [Article 170 octies](article-170-octies.md)
-- [Article 170 nonies](article-170-nonies.md)
 - [Article 170 decies](article-170-decies.md)

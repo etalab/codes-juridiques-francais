@@ -7,4 +7,3 @@
 - [6° : Assiette et liquidation](6)
 - [7° : Obligations des exploitants.](7)
 - [8° : Répartition de l'impôt](8)
-- [Champ d'application.](champ-d-application)

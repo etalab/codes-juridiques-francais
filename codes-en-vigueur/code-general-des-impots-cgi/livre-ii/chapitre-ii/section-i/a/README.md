@@ -28,4 +28,3 @@
 - [Article 1740 septies](article-1740-septies.md)
 - [Article 1740 octies](article-1740-octies.md)
 - [Article 1740 nonies](article-1740-nonies.md)
-- [*FACTURES DE COMPLAISANCE*.](factures-de-complaisance)
