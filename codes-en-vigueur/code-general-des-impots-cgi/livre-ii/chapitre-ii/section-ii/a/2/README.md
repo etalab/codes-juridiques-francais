@@ -2,6 +2,7 @@
 
 - [Article 1763](article-1763.md)
 - [Article 1764](article-1764.md)
+- [Article 1765 bis](article-1765-bis.md)
 - [Article 1766](article-1766.md)
 - [Article 1767](article-1767.md)
 - [Article 1768](article-1768.md)

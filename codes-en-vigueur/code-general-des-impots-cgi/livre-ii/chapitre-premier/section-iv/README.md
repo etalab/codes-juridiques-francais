@@ -8,6 +8,7 @@
 - [V bis : Paiement par remise d'oeuvres d'art.](v-bis)
 - [VI : Paiement fractionné ou différé des droits](vi)
 - [VII : Modes particuliers de perception des droits](vii)
+- [VII bis : Taxe sur les défrichements.](vii-bis)
 - [VII A : Droits de timbre](vii-a)
 - [VIII : Taxe locale d'équipement](viii)
 - [IX : Versement pour dépassement du plafond légal de densité (1)](ix)
