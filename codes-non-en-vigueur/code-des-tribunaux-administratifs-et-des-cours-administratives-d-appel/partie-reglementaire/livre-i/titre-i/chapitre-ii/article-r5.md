@@ -1,8 +1,8 @@
 # Article R5
 
-Les tribunaux administratifs désignés ci-après sont présidés par un président hors classe et composés de plusieurs chambres dont le nombre est fixé comme suit :
+Les tribunaux administratifs désignés ci-après sont présidés par un président hors classe et composés de plusieurs chambres, dont le nombre est fixé comme suit :
 
-Amiens : deux chambres ;
+Amiens : trois chambres ;
 
 Bordeaux : trois chambres ;
 
@@ -11,6 +11,8 @@ Caen : deux chambres ;
 Châlons-sur-Marne : deux chambres ;
 
 Clermont-Ferrand : deux chambres ;
+
+Dijon : deux chambres ;
 
 Grenoble : cinq chambres ;
 
@@ -32,13 +34,13 @@ Orléans : trois chambres ;
 
 Pau : deux chambres ;
 
-Poitiers : deux chambres ;
+Poitiers : trois chambres ;
 
 Rennes : quatre chambres ;
 
 Rouen : deux chambres ;
 
-Strasbourg : trois chambres ;
+Strasbourg : quatre chambres ;
 
 Toulouse : trois chambres ;
 
