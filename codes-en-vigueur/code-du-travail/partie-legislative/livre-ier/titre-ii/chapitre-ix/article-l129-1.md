@@ -8,7 +8,7 @@ I. - Les associations dont les activités concernent exclusivement les services 
 
 Elles peuvent également recevoir un agrément lorsqu'elles assurent la fourniture de prestations de services aux personnes physiques.
 
-Cet agrément ne peut être délivré qu'aux associations sans but lucratif, dont les activités concernent les tâches ménagères ou familiales, et, obligatoirement, soit la garde des enfants, soit l'assistance aux personnes âgées, handicapées ou à celles qui ont besoin d'une aide personnelle à leur domicile.
+Cet agrément ne peut être délivré qu'aux associations sans but lucratif, dont les activités concernent les tâches ménagères ou familiales, et, obligatoirement, soit la garde des enfants, soit l'assistance aux personnes âgées, handicapées ou à celles qui ont besoin d'une aide personnelle à leur domicile ou d'une aide à la mobilité dans l'environnement de proximité favorisant leur maintien à domicile.
 
 Dans le cas prévu au 1° ci-dessus, les associations peuvent demander aux employeurs une contribution représentative de leurs frais de gestion. Les dispositions de l'article L. 311-1 ne leur sont pas applicables.
 
