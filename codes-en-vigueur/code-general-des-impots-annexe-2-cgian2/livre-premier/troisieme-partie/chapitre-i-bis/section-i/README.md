@@ -7,6 +7,7 @@
 - [Article 371 LD](article-371-ld.md)
 - [Article 371 D](article-371-d.md)
 - [Article 371 A](article-371-a.md)
+- [Article 371 B](article-371-b.md)
 - [Article 371 E](article-371-e.md)
 - [Article 371 EA](article-371-ea.md)
 - [Article 371 EB](article-371-eb.md)
