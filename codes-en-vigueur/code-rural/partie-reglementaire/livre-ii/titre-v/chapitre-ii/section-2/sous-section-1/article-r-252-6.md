@@ -12,8 +12,6 @@ d) Une liste des membres chargés de l'administration ou de la direction de l'as
 
 e) Le rapport moral et le rapport financier approuvés lors de la dernière assemblée générale ; le rapport financier doit comprendre un tableau retraçant les ressources et les charges financières de l'association ; il indique expressément le ou les montants des cotisations demandées aux membres de l'association et le produit de ces cotisations ;
 
-f) L'indication de la ou des législations énumérées à l'article R. 252-1, au titre de laquelle ou desquelles l'agrément est sollicité ;
+f) (alinéa abrogé).
 
 g) L'indication du cadre géographique, communal, intercommunal, départemental, interdépartemental, régional ou national pour lequel l'agrément est sollicité.
-
-Sans préjudice des dispositions de l'alinéa 2 de l'article R. 252-15, l'agrément des associations locales d'usagers prévu à l'article L. 121-8 du code de l'urbanisme ne peut être sollicité que pour la commune où l'association a son siège social.

@@ -1,4 +1,4 @@
-# Chapitre II : Associations ayant pour objet la protection de la nature et de l'environnement
+# Chapitre II : Associations agréées pour la protection de l'environnement
 
 - [Section 1 : Conditions d'obtention de l'agrément.](section-1)
 - [Section 2 : Procédure d'agrément](section-2)
