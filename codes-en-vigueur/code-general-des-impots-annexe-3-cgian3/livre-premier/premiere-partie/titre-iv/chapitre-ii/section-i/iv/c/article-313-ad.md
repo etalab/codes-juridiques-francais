@@ -4,4 +4,4 @@ Les dispositions qui précèdent ne sont pas applicables aux expéditions d'un p
 
 Soit par des véhicules effectuant à titre principal un transport public de voyageurs ;
 
-Soit par des véhicules effectuant uniquement des transports publics de marchandises et circulant  selon des horaires réguliers sur des itinéraires déterminés  dans les zones courtes prévues à l'article 14 du décret n° 86-567 du 14 mars 1986.
+Soit par des véhicules effectuant uniquement des transports publics de marchandises et circulant  selon des horaires réguliers sur des itinéraires déterminés  dans les zones courtes prévues à l'article 14 modifié du décret n° 86-567 du 14 mars 1986.
