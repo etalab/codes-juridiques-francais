@@ -52,7 +52,7 @@ b) Lutte contre la pollution de l'air ;
 
 c) Lutte contre les nuisances sonores.
 
-Lorsque l'exercice des compétences mentionnées au présent paragraphe est subordonné à la reconnaissance de leur intérêt communautaire, cet intérêt est déterminé à la majorité des deux tiers du conseil de la communauté urbaine.
+Lorsque l'exercice des compétences mentionnées au présent paragraphe est subordonné à la reconnaissance de leur intérêt communautaire, cet intérêt est déterminé à la majorité des deux tiers du conseil de la communauté urbaine. Il est défini au plus tard deux ans après l'entrée en vigueur de l'arrêté prononçant le transfert de compétence. A défaut, la communauté urbaine exerce l'intégralité de la compétence transférée.
 
 II. - La communauté urbaine peut transférer certaines de ses compétences à un syndicat mixte dont le périmètre inclut en totalité le périmètre communautaire après création du syndicat ou adhésion de la communauté.
 
