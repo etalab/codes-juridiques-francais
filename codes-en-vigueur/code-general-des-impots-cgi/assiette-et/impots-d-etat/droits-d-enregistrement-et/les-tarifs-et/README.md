@@ -8,6 +8,7 @@
 - [Article 696](article-696.md)
 - [Article 697](article-697.md)
 - [Article 698](article-698.md)
+- [Article 698 bis](article-698-bis.md)
 - [Article 701](article-701.md)
 - [Article 702](article-702.md)
 - [Article 703](article-703.md)
