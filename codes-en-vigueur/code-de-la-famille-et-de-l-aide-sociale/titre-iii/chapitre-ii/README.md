@@ -1,4 +1,4 @@
-# Chapitre II : Organisation, attributions et fonctionnement des centres communaux d'action sociale
+# Chapitre II : Organisation, attributions et fonctionnement des centres communaux et intercommunaux d'action sociale
 
 - [Article 136](article-136.md)
 - [Article 137](article-137.md)
