@@ -14,8 +14,12 @@ La reconnaissance des permis de conduire prévue aux articles R. 222-1 à R. 222
 
 2° Etre titulaire :
 
-a) De la catégorie B du permis de conduire pour l'obtention des catégories C, D et E (B) ;
+a) De l'attestation scolaire de sécurité routière de deuxième niveau ou de l'attestation de sécurité routière pour l'obtention des catégories A ou B du permis de conduire ;
 
-b) De la catégorie C du permis de conduire pour l'obtention de la catégorie E (C) ;
+b) De la catégorie B du permis de conduire pour l'obtention des catégories C, D et E (B) ;
 
-c) De la catégorie D du permis de conduire pour l'obtention de la catégorie E (D).
+c) De la catégorie C du permis de conduire pour l'obtention de la catégorie E (C) ;
+
+d) De la catégorie D du permis de conduire pour l'obtention de la catégorie E (D).
+
+Les dispositions du a) ne sont applicables qu'aux personnes qui atteindront l'âge de seize ans à compter du 1er janvier 2004.
