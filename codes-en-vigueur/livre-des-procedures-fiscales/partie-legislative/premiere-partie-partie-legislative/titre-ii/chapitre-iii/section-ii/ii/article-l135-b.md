@@ -4,4 +4,8 @@ Les services de l'Etat, les collectivités locales et les établissements public
 
 Ces dispositions ne font pas échec au secret de la défense nationale.
 
-Les personnes qui, en application du présent article, sont appelées à connaître de ces informations, sont elles-mêmes soumises au secret professionnel, dans les termes de l'article 378 du code pénal.
+L'administration fiscale est tenue de transmettre, chaque année, aux collectivités locales et à leurs groupements dotés d'une fiscalité propre les rôles généraux des impôts directs locaux comportant les impositions émises à leur profit.
+
+Les communes et l'administration peuvent se communiquer mutuellement les informations nécessaires au recensement des bases des impositions directes locales.
+
+Les informations transmises aux collectivités locales et à leurs groupements dotés d'une fiscalité propre sont couvertes par le secret professionnel, et soumises aux dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. Leur utilisation respecte les obligations de discrétion et de sécurité selon des modalités définies par un décret en Conseil d'Etat.
