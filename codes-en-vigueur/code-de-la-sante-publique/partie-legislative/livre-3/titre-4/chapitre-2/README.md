@@ -4,3 +4,7 @@
 - [Section 2 : Diverses catégories d'établissements](section-2)
 - [Article L331](article-l331.md)
 - [Article L332](article-l332.md)
+- [Article L332-1](article-l332-1.md)
+- [Article L332-2](article-l332-2.md)
+- [Article L332-3](article-l332-3.md)
+- [Article L332-4](article-l332-4.md)

@@ -1,6 +1,8 @@
 # Section 1 : Hospitalisation sur demande d'un tiers.
 
 - [Article L333](article-l333.md)
+- [Article L333-1](article-l333-1.md)
+- [Article L333-2](article-l333-2.md)
 - [Article L334](article-l334.md)
 - [Article L335](article-l335.md)
 - [Article L336](article-l336.md)
