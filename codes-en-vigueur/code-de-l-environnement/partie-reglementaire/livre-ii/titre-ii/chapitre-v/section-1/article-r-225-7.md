@@ -2,7 +2,7 @@
 
 La commission compétente est :
 
-1° Pour le grand gibier, la commission mentionnée à l'article R. 226-8.
+1° Pour le grand gibier, la commission mentionnée à l'article R. 226-6.
 
 2° Pour le petit gibier, une commission comprenant :
 
@@ -24,4 +24,4 @@ b) Membres nommés par le préfet :
 
 - un représentant des intérêts sylvicoles si des terrains forestiers sont concernés ;
 
-- deux représentants d'associations de protection de la nature agréées au titre de l'article L. 141-1.
+- deux représentants d'associations de protection de la nature agréées au titre de l'article L. 252-1.
