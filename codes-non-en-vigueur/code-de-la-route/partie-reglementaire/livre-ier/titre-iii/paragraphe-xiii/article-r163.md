@@ -8,4 +8,4 @@ Sont dispensés de cette réception les remorques ou appareils agricoles destin�
 
 2° Les dispositions des articles R. 106 à R. 109-1 sont applicables à certains matériels de travaux publics appelés à être employés normalement sur les routes et dont la liste est fixée par le ministre chargé des transports.
 
-3° Les matériels de travaux publics dont les dimensions ou les poids excèdent les limites réglementaires, appelés à circuler occasionnellement sur les routes et dont le déplacement est subordonné à l'autorisation prévue par l'article R. 48 du présent code, doivent répondre aux prescriptions fixées par arrêté du ministre chargé des transports.
+3° Les matériels de travaux publics dont les dimensions ou les poids excèdent les limites réglementaires, appelés à circuler occasionnellement sur les routes et dont le déplacement est subordonné à l'autorisation prévue par les articles R. 48 et R. 50 du présent code, doivent répondre aux prescriptions fixées par arrêté du ministre chargé des transports.
