@@ -8,3 +8,4 @@
 - [Normes minimales d'habitabilité](normes-minimales-d-habitabilite)
 - [Document prévu par l'article 1er des annexes I et II à l'article R. 353-1.](document-prevu-par)
 - [Engagements de portée générale prévus par les annexes I et II à l'article R. 353-1.](engagements-de-portee-generale-prevus-par)
+- [Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11.](normes-minimales-d-habitabilite-des-logements-vendus-en-application-de-l-article-r)
