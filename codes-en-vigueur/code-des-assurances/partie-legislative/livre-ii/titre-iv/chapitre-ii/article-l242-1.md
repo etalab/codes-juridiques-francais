@@ -8,4 +8,4 @@ Avant la réception, après mise en demeure restée infructueuse, le contrat de 
 
 Après la réception, après mise en demeure restée infructueuse, l'entrepreneur n'a pas exécuté ses obligations.
 
-Toute entreprise d'assurance agréée dans les conditions fixées par l'article L. 321-1 du présent code, même si elle ne gère pas les risques régis par les articles L. 241-1 et L. 241-2 ci-dessus, est habilitée à prendre en charge les risques prévus au présent article.
+Toute entreprise d'assurance agréée dans les conditions fixées par l'article L. 321-1 ou dispensée de cet agrément par application des dispositions de l'article L. 321-4 du présent code, même si elle ne gère pas les risques régis par les articles L. 241-1 et L. 241-2 ci-dessus, est habilitée à prendre en charge les risques prévus au présent article.
