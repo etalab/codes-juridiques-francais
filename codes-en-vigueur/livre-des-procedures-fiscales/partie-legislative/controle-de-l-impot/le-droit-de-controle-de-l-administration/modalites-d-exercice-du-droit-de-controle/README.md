@@ -1,3 +1,0 @@
-# MODALITES D'EXERCICE DU DROIT DE CONTROLE.
-
-- [Article L51](article-l51.md)

@@ -9,7 +9,3 @@
 - [Article 363 AJ](article-363-aj.md)
 - [Article 363 AK](article-363-ak.md)
 - [Article 363 AL](article-363-al.md)
-- [Article 363 E](article-363-e.md)
-- [Article 363 F](article-363-f.md)
-- [Article 363 FA](article-363-fa.md)
-- [TAXES PARAFISCALES.](taxes-parafiscales)
