@@ -78,6 +78,7 @@
 - [Article Annexe II : Tableau n° 71](article-annexe-ii-tableau-no-71.md)
 - [Article Annexe II : Tableau n° 72](article-annexe-ii-tableau-no-72.md)
 - [Article Annexe II : Tableau n° 75](article-annexe-ii-tableau-no-75.md)
+- [Article Annexe II : Tableau n° 77](article-annexe-ii-tableau-no-77.md)
 - [Article Annexe II : Tableau n° 78](article-annexe-ii-tableau-no-78.md)
 - [Article Annexe II : Tableau n° 80](article-annexe-ii-tableau-no-80.md)
 - [Article Annexe II : Tableau n° 81](article-annexe-ii-tableau-no-81.md)
