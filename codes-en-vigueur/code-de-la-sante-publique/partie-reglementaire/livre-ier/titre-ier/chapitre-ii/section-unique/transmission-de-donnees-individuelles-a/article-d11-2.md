@@ -24,7 +24,9 @@ Maladies infectieuses :
 
 - listériose ;
 
-- méningite cérébrospinale à méningocoque et méningococcémies ;
+- infection invasive à méningocoque ;
+
+- orthopoxviroses, dont la variole ;
 
 - paludisme autochtone ;
 
@@ -41,6 +43,8 @@ Maladies infectieuses :
 - toxi-infections alimentaires collectives ;
 
 - tuberculose ;
+
+- tularémie ;
 
 - typhus exanthématique.
 
