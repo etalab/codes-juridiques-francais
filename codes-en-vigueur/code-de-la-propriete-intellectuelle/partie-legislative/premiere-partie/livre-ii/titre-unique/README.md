@@ -6,3 +6,4 @@
 - [Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes](chapitre-iv)
 - [Chapitre V : Droits des producteurs de vidéogrammes](chapitre-v)
 - [Chapitre VI : Droits des entreprises de communication audiovisuelle](chapitre-vi)
+- [Chapitre VII : Dispositions applicables à la télédiffusion par satellite et à la retransmission par câble](chapitre-vii)
