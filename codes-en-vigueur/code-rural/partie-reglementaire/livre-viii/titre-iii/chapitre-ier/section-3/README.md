@@ -1,6 +1,4 @@
 # Section 3 : Dispositions diverses.
 
-- [Article R*831-14](article-r-831-14.md)
 - [Article R831-14](article-r831-14.md)
-- [Article R*831-15](article-r-831-15.md)
 - [Article R831-15](article-r831-15.md)
