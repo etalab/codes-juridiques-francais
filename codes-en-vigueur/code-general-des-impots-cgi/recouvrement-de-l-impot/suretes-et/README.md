@@ -2,5 +2,3 @@
 
 - [CONTRIBUTIONS INDIRECTES.](contributions-indirectes)
 - [DISPOSITIONS COMMUNES.](dispositions-communes)
-- [IMPOTS DIRECTS ET TAXES ASSIMILEES.](impots-directs-et)
-- [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES.](taxes-sur)

@@ -2,6 +2,5 @@
 
 - [ARTISANS.](artisans)
 - [ARTISANS *DEFINITION*.](artisans-definition)
-- [ASSOCIATIONS AGREEES DES PROFESSIONS LIBERALES.](associations-agreees-des-professions-liberales)
 - [CENTRES DE GESTION AGREES.](centres-de-gestion-agrees)
 - [OBLIGATIONS DES CONTRIBUABLES.](obligations-des-contribuables)

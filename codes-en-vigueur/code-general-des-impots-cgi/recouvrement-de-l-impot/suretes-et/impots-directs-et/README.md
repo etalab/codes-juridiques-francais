@@ -1,3 +1,0 @@
-# IMPOTS DIRECTS ET TAXES ASSIMILEES.
-
-- [Article 1920](article-1920.md)

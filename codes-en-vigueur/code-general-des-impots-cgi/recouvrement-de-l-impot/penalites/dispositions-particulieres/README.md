@@ -6,7 +6,6 @@
 - [Article 1758 quater](article-1758-quater.md)
 - [Article 1759 bis](article-1759-bis.md)
 - [Article 1759 ter](article-1759-ter.md)
-- [Article 1761](article-1761.md)
 - [Article 1762 quinquies](article-1762-quinquies.md)
 - [Article 1762 A](article-1762-a.md)
 - [Article 1763 C](article-1763-c.md)

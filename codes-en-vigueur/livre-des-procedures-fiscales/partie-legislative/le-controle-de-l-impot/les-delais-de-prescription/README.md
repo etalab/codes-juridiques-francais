@@ -2,6 +2,5 @@
 
 - [DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, DROITS ET TAXES ASSIMILEES.](droits-d-enregistrement-taxe-de-publicite-fonciere-droits-de-timbre-droits-et)
 - [IMPOTS DIRECTS ET TAXES ASSIMILEES.](impots-directs-et)
-- [INTERRUPTION DE LA PRESCRIPTION.](interruption-de-la-prescription)
 - [IMPOT SUR LES GRANDES FORTUNES.](impot-sur)
 - [TAXES SUR LE CHIFFRE D'AFFAIRES.](taxes-sur)

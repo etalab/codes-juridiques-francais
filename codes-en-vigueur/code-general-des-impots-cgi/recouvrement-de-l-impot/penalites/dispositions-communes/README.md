@@ -11,7 +11,6 @@
 - [Article 1736](article-1736.md)
 - [Article 1739](article-1739.md)
 - [Article 1740](article-1740.md)
-- [Article 1740 ter](article-1740-ter.md)
 - [Article 1741](article-1741.md)
 - [Article 1751](article-1751.md)
 - [Article 1755 bis](article-1755-bis.md)
