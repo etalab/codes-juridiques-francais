@@ -2,7 +2,7 @@
 
 Les plans d'occupation des sols fixent, dans le cadre des orientations des schémas directeurs ou des schémas de secteur, s'il en existe, les règles générales et les servitudes d'utilisation des sols, qui peuvent notamment comporter l'interdiction de construire.
 
-A cette fin, ils doivent :
+Les plans d'occupation des sols doivent, à cette fin, en prenant en compte la préservation de la qualité des paysages et la maîtrise de leur évolution :
 
 1° Délimiter des zones urbaines ou à urbaniser prenant notamment en compte les besoins en matière d'habitat, d'emploi, de services et de transport des populations actuelles et futures. La délimitation de ces zones prend en considération la valeur agronomique des sols, les structures agricoles, les terrains produisant des denrées de qualité supérieure, l'existence de risques naturels prévisibles et de risques technologiques, la présence d'équipements spéciaux importants. Les plans d'occupation des sols déterminent l'affectation des sols selon l'usage principal qui doit en être fait ou la nature des activités dominantes qui peuvent y être exercées.
 
@@ -16,15 +16,17 @@ Ils peuvent, en outre :
 
 5° délimiter les zones ou parties de zones dans lesquelles la reconstruction sur place ou l'aménagement de bâtiments existants pourra, pour des motifs d'urbanisme ou d'architecture, être imposé ou autorisé avec une densité au plus égale à celle qui était initialement bâtie, nonobstant les règles fixées au 4° ci-dessus et fixer la destination principale des îlots ou immeubles à restaurer ou à réhabiliter ;
 
-6° préciser le tracé et les caractéristiques des voies de circulation à conserver, à modifier ou à créer, y compris les rues ou sentiers piétonniers et les pistes cyclables et délimiter les zones qui sont ou peuvent être aménagées en vue de la pratique du ski et les secteurs réservés aux remontées mécaniques en indiquant, le cas échéant, les équipements et aménagements qui peuvent y être prévus ;    7° délimiter les quartiers, rues, monuments, sites et secteurs à protéger ou à mettre en valeur pour des motifs d'ordre esthétique, historique ou écologique ;
+6° préciser le tracé et les caractéristiques des voies de circulation à conserver, à modifier ou à créer, y compris les rues ou sentiers piétonniers et les pistes cyclables et délimiter les zones qui sont ou peuvent être aménagées en vue de la pratique du ski et les secteurs réservés aux remontées mécaniques en indiquant, le cas échéant, les équipements et aménagements qui peuvent y être prévus ;
+
+7° Identifier et délimiter les quartiers, rues, monuments, sites, éléments de paysage et secteurs à protéger ou à mettre en valeur pour des motifs d'ordre esthétique, historique ou écologique et définir, le cas échéant, les prescriptions de nature à assurer leur protection ;
 
 8° fixer les emplacements réservés aux voies et ouvrages publics, aux installations d'intérêt général ainsi qu'aux espaces verts ;
 
-9° localiser, dans les zones urbaines, les terrains cultivés à protéger et inconstructibles quels que soient les équipements éventuels qui les desservent.
+9° localiser, dans les zones urbaines, les terrains cultivés à protéger et inconstructibles quels que soient les équipements éventuels qui les desservent ;
 
-10° Délimiter les secteurs dans lesquels la délivrance du permis de construire peut être surbordonnée à la démolition de tout ou partie des bâtiments existants sur le terrain où l'implantation de la construction est envisagée.
+10° Délimiter les secteurs dans lesquels la délivrance du permis de construire peut être subordonnée à la démolition de tout ou partie des bâtiments existants sur le terrain où l'implantation de la construction est envisagée ;
 
-11° Délimiter les zones dans lesquelles pourront s'implanter les magasins de commerce de détail dont l'octroi du permis de construire ou la réalisation est soumis à autorisation préalable de la commission départementale d'urbanisme commercial par l'article L. 451-5 du présent code.
+11° Délimiter les zones dans lesquelles pourront s'implanter les magasins de commerce de détail dont l'octroi du permis de construire ou la réalisation est soumis à autorisation préalable de la commission départementale d'urbanisme commercial par l'article L. 451-5 du présent code ;
 
 12° Délimiter les zones visées à l'article L. 372-3 du code des communes.
 

@@ -20,6 +20,8 @@ Il est réalisé par la mise en oeuvre, de façon indépendante ou coordonnée, 
 
 7° L'interdiction et la réglementation des plantations et semis d'essences forestières, la création de périmètres d'actions forestières et la délimitation de zones dégradées à faible taux de boisement, régies par les articles L. 126-1 à L. 126-3, L. 126-6 et L. 134-1 du présent code.
 
-Les opérations d'aménagement foncier sont conduites, sous la responsabilité de l'Etat, par des commissions d'aménagement foncier, conformément à la politique des structures des exploitations agricoles, à la politique forestière et dans le respect du milieu rural. Ces commissions doivent favoriser la concertation entre toutes les parties intéressées.
+Les opérations d'aménagement foncier sont conduites, sous la responsabilité de l'Etat, par des commissions d'aménagement foncier, conformément à la politique des structures des exploitations agricoles, à la politique forestière et en veillant au respect et à la mise en valeur des milieux naturels, du patrimoine rural et des paysages. Ces commissions doivent favoriser la concertation entre toutes les parties intéressées.
+
+Pour les aménagements fonciers visés aux 1°, 2°, 5° et 6° du présent article, le département fait au préalable procéder à une étude d'aménagement comportant une analyse de l'état initial du site concerné et de son environnement, notamment paysager, ainsi que toutes recommandations utiles. Cette étude est transmise à la commission communale ou intercommunale et à la commission départementale d'aménagement foncier.
 
 L'aménagement foncier rural s'applique aux propriétés rurales non bâties et, dans les conditions fixées par les dispositions législatives propres à chaque mode d'aménagement foncier, à des propriétés bâties.

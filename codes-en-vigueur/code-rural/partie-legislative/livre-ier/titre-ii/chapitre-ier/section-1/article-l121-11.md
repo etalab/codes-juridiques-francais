@@ -10,7 +10,9 @@ Lorsque la commission départementale d'aménagement foncier, saisie à nouveau 
 
 4° Un représentant du ministre du budget ;
 
-5° Une personnalité qualifiée en matière d'agriculture et d'aménagement foncier.
+5° Un représentant du ministre chargé de l'environnement ;
+
+6° Une personnalité qualifiée en matière d'agriculture et d'aménagement foncier.
 
 Un suppléant à chacune de ces personnes est également nommé.
 
