@@ -8,4 +8,4 @@ La responsabilité pécuniaire de l'agent comptable est mise en cause s'il n'a p
 
 3°) l'imputation de la dépense ;
 
-4°) la disponibilité des crédits dans le cas où ces derniers sont limitatifs.
+4°) la disponibilité des crédits dans le cas où ces derniers sont limitatifs. Les contrôles seront sélectifs suivant la nature de la dépense.

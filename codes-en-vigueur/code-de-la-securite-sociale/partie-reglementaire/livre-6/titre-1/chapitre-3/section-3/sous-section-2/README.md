@@ -19,4 +19,3 @@
 - [Article D613-32](article-d613-32.md)
 - [Article D613-33](article-d613-33.md)
 - [Article D613-34](article-d613-34.md)
-- [Article D613-35](article-d613-35.md)
