@@ -6,7 +6,7 @@ Ces ressources comprennent notamment :
 
 1° Des participations et subventions de l'Etat et, éventuellement, d'autres collectivités publiques ; le ministre chargé de la protection de la nature reçoit, au titre des participations de l'Etat, des crédits spécialement affectés ;
 
-2° Les droits et redevances que l'établissement aura été autorisé à percevoir et celles afférentes à l'utilisation des biens meubles ou immeubles lui appartenant ou dont il a la gestion ;
+2° Les droits et redevances que l'établissement aura été autorisé à percevoir et celles afférentes à l'utilisation des biens meubles ou immeubles lui appartenant ou dont il a la gestion ainsi que le produit de la taxe sur les passagers maritimes prévue à l'article 285 quater du code des douanes ;
 
 3° Les sommes versées en rémunération de toutes activités auxquelles l'établissement se livre et de tous services rendus par lui ;
 
