@@ -2,3 +2,4 @@
 
 - [Section 2 : Exercice.](section-2)
 - [Section 3 : Affranchissement.](section-3)
+- [Section 4 : Suspension des droits d'usage.](section-4)
