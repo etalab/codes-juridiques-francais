@@ -6,4 +6,5 @@
 - [Article 92 B bis](article-92-b-bis.md)
 - [Article 92 E](article-92-e.md)
 - [Article 92 F](article-92-f.md)
+- [Article 92 G](article-92-g.md)
 - [Article 92 H](article-92-h.md)
