@@ -1,18 +1,20 @@
 # Article 93
 
-1. Le bénéfice à retenir dans les bases de l'impôt sur le revenu est constitué par l'excédent des recettes totales sur les dépenses nécessitées par l'exercice de la profession. Sous réserve des dispositions de l'article 151 sexies, il tient compte des gains ou des pertes [*plus-values, moins-values*] provenant soit de la réalisation des éléments d'actif affectés à l'exercice de la profession, soit des cessions de charges ou d'offices, ainsi que de toutes indemnités reçues en contrepartie de la cessation de l'exercice de la profession ou du transfert d'une clientèle (1).
+1. Le bénéfice à retenir dans les bases de l'impôt sur le revenu est constitué par l'excédent des recettes totales sur les dépenses nécessitées par l'exercice de la profession. Sous réserve des dispositions de l'article 151 sexies, il tient compte des gains ou des pertes provenant soit de la réalisation des éléments d'actif affectés à l'exercice de la profession, soit des cessions de charges ou d'offices, ainsi que de toutes indemnités reçues en contrepartie de la cessation de l'exercice de la profession ou du transfert d'une clientèle (1).
 
-Les dépenses déductibles comprennent notamment [*définition*] :
+Les dépenses déductibles comprennent notamment :
 
 1° Le loyer des locaux professionnels. Lorsque le contribuable est propriétaire de locaux affectés à l'exercice de sa profession, aucune déduction n'est apportée, de ce chef, au bénéfice imposable.
 
 2° Les amortissements effectués suivant les règles applicables en matière de bénéfices industriels et commerciaux.
 
-3° Les loyers versés en exécution d'un contrat de crédit-bail ou de location portant sur des voitures particulières, à l'exclusion de la part de loyer visée à l'article 39-4.
+3° Les loyers versés en exécution d'un contrat de crédit-bail ou de location portant sur des voitures particulières, à l'exclusion de la part de loyer visée au 4 de l'article 39.
 
 4° Les dépenses exposées pour la tenue de la comptabilité et, éventuellement, pour l'adhésion à une association agréée ne sont pas prises en compte pour la détermination du résultat imposable lorsqu'elles sont supportées par l'Etat du fait de la réduction d'impôt mentionnée à l'article 199 quater B.
 
 5° Les dépenses exposées en vue de l'obtention d'un diplôme ou d'une qualification professionnelle dans la perspective d'une insertion ou d'une conversion professionnelle par les personnes tirant un revenu de la pratique d'un sport.
+
+((6° Les loyers versés en exécution d'un contrat de crédit-bail portant sur un immeuble, dans les conditions et limites fixées au 10 de l'article 39)) (1').
 
 1 bis. (Abrogé).
 
@@ -32,7 +34,7 @@ Les contribuables ayant demandé l'application de ce régime doivent joindre à 
 
 1 quater. Lorsqu'ils sont intégralement déclarés par les tiers, les produits de droits d'auteur perçus par les écrivains et compositeurs sont, sans préjudice de l'article 100 bis, soumis à l'impôt sur le revenu selon les règles prévues en matière de traitements et salaires.
 
-La déduction forfaitaire de 10 % [*pourcentage*] pour frais professionnels, prévue à l'article 83-3°, s'applique au montant brut des droits perçus diminué des cotisations payées au titre des régimes obligatoire et complémentaire obligatoire de sécurité sociale.
+La déduction forfaitaire de 10 % pour frais professionnels, prévue à l'article 83-3°, s'applique au montant brut des droits perçus diminué des cotisations payées au titre des régimes obligatoire et complémentaire obligatoire de sécurité sociale.
 
 En sus de la déduction forfaitaire visée au deuxième alinéa, les écrivains et compositeurs peuvent bénéficier d'une déduction forfaitaire supplémentaire pour frais professionnels dont le taux est fixé à 25 %. Cette déduction supplémentaire est calculée sur le montant brut des droits après application de la déduction forfaitaire pour frais professionnels de 10 %. Elle est limitée à 50.000 F.
 
@@ -53,5 +55,7 @@ En sus de la déduction forfaitaire visée au deuxième alinéa, les écrivains 
 Cette disposition s'applique si le cédant est âgé de soixante ans au moins et soixante-cinq ans au plus à la date de la cession et s'il cesse d'exercer une activité de chef d'entreprise (2).
 
 (1) En ce qui concerne les plus-values réalisées dans le cadre des opérations de nationalisation, voir art. 248 B.
+
+(1') Modification de la loi 95-115. Ces dispositions s'appliquent aux contrats conclus à compter du 1er janvier 1996.
 
 (2) Ces dispositions s'appliquent aux cessions intervenues à compter du 1er janvier 1992.

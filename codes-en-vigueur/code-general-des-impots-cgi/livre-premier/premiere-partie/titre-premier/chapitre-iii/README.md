@@ -14,3 +14,4 @@
 - [Section XV : Contribution des institutions financières.](section-xv)
 - [Section XIV : Taxe sur les excédents de provisions des entreprises d'assurances de dommages](section-xiv)
 - [Section XVI : Prélèvement sur les bénéfices des entreprises exploitant des gisements d'hydrocarbures](section-xvi)
+- [Section XVII : Contribution sur l'impôt sur les sociétés](section-xvii)

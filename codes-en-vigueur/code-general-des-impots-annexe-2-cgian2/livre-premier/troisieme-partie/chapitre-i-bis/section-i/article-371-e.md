@@ -2,7 +2,7 @@
 
 Les statuts du centre précisent les conditions de participation à la gestion du centre des personnes ou organismes qui ont pris l'initiative de sa création.
 
-Ils doivent comporter en outre les stipulations suivantes [*mentions obligatoires*] :
+Ils doivent comporter en outre les stipulations suivantes :
 
 1° Dans le délai de six mois qui suit la date de clôture de leur exercice comptable, le centre fournit à ses membres adhérents, imposés d'après leur bénéfice réel, un dossier comprenant :
 
@@ -20,7 +20,7 @@ Toutefois, ces déclarations ne peuvent porter que sur une période au cours de 
 
 a. L'engagement de produire à la personne ou à l'organisme chargé de tenir et de présenter leurs documents comptables tous les éléments nécessaires à l'établissement d'une comptabilité sincère de leur exploitation ;
 
-b. L'engagement de faire viser leurs déclarations de résultats par l'expert comptable ou le comptable agrée de leur choix qui tient, centralise ou surveille leur comptabilité, lorsque les documents comptables ne sont pas tenus et présentés par un centre bénéficiant de l'une des habilitations prévues à l'article 371 I ;
+b. L'engagement de faire viser leurs déclarations de résultats par l'expert comptable de leur choix qui tient, centralise ou surveille leur comptabilité, lorsque les documents comptables ne sont pas tenus et présentés par un centre bénéficiant de l'une des habilitations prévues à l'article 371 I ;
 
 c. L'obligation de communiquer au centre le bilan et les comptes d'exploitation générale et de pertes et profits de leur exploitation ainsi que tous documents annexes : toutefois, l'obligation de communiquer le bilan au centre ne concerne pas les entreprises soumises au régime simplifié d'imposition ;
 

@@ -4,13 +4,11 @@
 
 1° (Disposition devenue sans objet).
 
-code rural, autres que celles définies à l'article 206-6 ;
-
 2° Sauf pour les opérations effectuées avec des non-sociétaires et à condition qu'elle fonctionnent conformément aux dispositions qui les régissent :
 
-- les sociétés coopératives agricoles d'approvisionnement et d'achat ;
+a. les sociétés coopératives agricoles d'approvisionnement et d'achat ;
 
-- les unions de sociétés coopératives agricoles d'approvisionnement et d'achat ;
+b. les unions de sociétés coopératives agricoles d'approvisionnement et d'achat ;
 
 2° bis. Les syndicats agricoles, à condition qu'ils fonctionnent conformément aux dispositions qui les régissent ;
 
@@ -36,23 +34,23 @@ Les sociétés coopératives agricoles et leurs unions sont tenues de produire, 
 
 a) Des prêts visés aux articles R. 313-31, R. 331-32 et R. 313-34 du même code ;
 
-b) Des prêts à leurs filiales et aux organismes mentionnés au 4°. Le taux de rémunération de ces prêts ne doit pas excéder celui prévu au 3° du 1 de l'article 39 .
+b) Des prêts à leurs filiales et aux organismes mentionnés au 4°. Le taux de rémunération de ces prêts ne doit pas excéder celui prévu au 3° du 1 de l'article 39.
 
 5° Les bénéfices réalisés par des associations sans but lucratif régies par la loi du 1er juillet 1901 organisant, avec le concours des communes ou des départements, des foires, expositions, réunions sportives et autres manifestations publiques, correspondant à l'objet défini par leurs statuts et présentant, du point de vue économique, un intérêt certain pour la commune ou la région ;
 
 5° bis. Les organismes sans but lucratif mentionnés à l'article 261-7-1°, pour les opérations à raison desquelles ils sont exonérés de la taxe sur la valeur ajoutée ;
 
-6° Les régions et les ententes interrégionales, les départements et les ententes interdépartementales, les communes, syndicats de communes et syndicats mixtes, ainsi que leurs régies de services publics ;
+6° Les régions et les ententes interrégionales, les départements et les ententes interdépartementales, les communes, syndicats de communes et syndicats mixtes ((constitués exclusivement de collectivités territoriales ou de groupements de ces collectivités)) (M) ainsi que leurs régies de services publics ;
 
 6° bis. Dans les conditions fixées par décret (1), les établissements publics et sociétés d'économie mixte concessionnaires d'opérations d'aménagement, en application du deuxième alinéa de l'article L. 300-4 du code de l'urbanisme, pour les résultats provenant des opérations réalisées dans le cadre des procédures suivantes :
 
-- zone d'aménagement concerté [*ZAC*] ;
+a.- zone d'aménagement concerté [*ZAC*] ;
 
-- lotissements ;
+b.- lotissements ;
 
-- zone de restauration immobilière ;
+c.- zone de restauration immobilière ;
 
-- zone de résorption de l'habitat insalubre.
+d.- zone de résorption de l'habitat insalubre.
 
 7° Les sociétés coopératives de construction qui procèdent, sans but lucratif, au lotissement et à la vente de terrains leur appartenant. Cette exonération est également applicable sous les mêmes conditions aux sociétés d'économie mixte dont les statuts sont conformes aux clauses types annexées au décret n° 69-295 du 24 mars 1969, ainsi qu'aux groupements dits de "Castors" dont les membres effectuent des apports de travail ;
 
@@ -73,5 +71,7 @@ Les résultats sont déterminés selon les règles visées à l'article 209 avan
 2. (Abrogé)
 
 3. (Abrogé).
+
+(M) Modification de la loi. Ces dispositions s'appliquent aux exercices ouverts à compter du 1er juillet 1995.
 
 (1) Annexe III, art. 46 bis et 46 ter.

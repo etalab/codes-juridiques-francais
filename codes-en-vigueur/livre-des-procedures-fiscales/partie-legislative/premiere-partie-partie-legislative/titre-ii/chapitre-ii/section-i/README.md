@@ -9,6 +9,7 @@
 - [15° : Intermédiaires professionnels des bourses de valeurs](15)
 - [16° : Caisses de mutualité sociale agricole](16)
 - [17° : Formules de chèques non barrées](17)
+- [18° : Opérations de transfert de fonds à l'étranger](18)
 - [2° : Employeurs et débirentiers](2)
 - [20° : Intermédiaires sur le MATIF, le MONEP et en matière de bons d'options.](20)
 - [21° : Organisme gestionnaire d'un plan d'épargne en actions](21)

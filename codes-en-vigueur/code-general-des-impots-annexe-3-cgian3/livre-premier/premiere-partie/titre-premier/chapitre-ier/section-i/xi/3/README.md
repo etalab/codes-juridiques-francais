@@ -1,4 +1,5 @@
-# 3° : Obligations des gestionnaires de fonds salariaux.
+# 3° : Plus-values réalisées à l'occasion d'apports en sociétés
 
+- [Article 41-0 A bis](article-41-0-a-bis.md)
 - [Article 41 DA](article-41-da.md)
 - [Article 41 DB](article-41-db.md)

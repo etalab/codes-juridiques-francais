@@ -1,6 +1,6 @@
 # Article 1609 nonies C
 
-I. Les communautés de villes sont substituées aux communes membres pour l'application des dispositions relatives à la taxe professionnelle, à l'exception des I et II des articles 1648 A et 1648 AA ainsi que des 1° et 3° du II de l'article 1648 B. Elles perçoivent le produit de cette taxe.
+I. Les communautés de villes sont substituées aux communes membres pour l'application des dispositions relatives à la taxe professionnelle, à l'exception des I et II des articles 1648 A et 1648 AA ((ainsi que du 3° du II de l'article 1648 B)) (M). Elles perçoivent le produit de cette taxe.
 
 Il est créé une commission locale chargée d'évaluer les transferts de charges entre la communauté de villes et les communes membres, composée d'au moins un représentant du conseil municipal de chacune des communes concernées.
 
@@ -20,17 +20,15 @@ Le nouveau taux s'applique dans toutes les communes dès la première année, lo
 
 2° Au titre des années suivant la première année d'application des dispositions du 1° ci-dessus, le taux de taxe professionnelle est fixé par le conseil de communauté dans les conditions prévues au II de l'article 1636 B decies.
 
-((3° En cas de rattachement d'une commune à un groupement faisant application du présent article, les dispositions des I et II de l'article 1638 quater sont applicables)) (1').
+3° En cas de rattachement d'une commune à un groupement faisant application du présent article, les dispositions des I et II de l'article 1638 quater sont applicables.
 
 III. 1° La communauté verse à chaque commune membre une attribution de compensation égale au produit de taxe professionnelle perçu par elle l'année précédant l'institution du taux de taxe professionnelle communautaire diminué du coût net des charges transférées calculé dans les conditions définies au I ci-dessus.
-
-(Abrogé).
 
 Les reversements de taxe professionnelle prévus à l'alinéa précédent constituent une dépense obligatoire pour la communauté. Le conseil de communauté communique aux communes membres avant le 15 février le montant prévisionnel des sommes leur revenant au titre de ces reversements.
 
 Dans le cas où une diminution des bases imposables de taxe professionnelle réduit le produit disponible, les attributions de compensation sont réduites dans la même proportion.
 
-2° Le conseil de communauté prélève sur le produit de la taxe professionnelle le montant nécessaire à la couverture des charges transférées dans les conditions prévues au I ci-desus.
+2° Le conseil de communauté prélève sur le produit de la taxe professionnelle le montant nécessaire à la couverture des charges transférées dans les conditions prévues au I ci-dessus.
 
 Les charges correspondant aux compétences communautaires financées par la taxe professionnelle perçue par la communauté sont fixées lors de l'examen du budget annuel de celle-ci.
 
@@ -40,13 +38,13 @@ Le conseil de communauté ne peut procéder à une réduction du taux d'impositi
 
 A défaut de réunion de la majorité requise dans les trois mois suivant la mise en application du présent article, la dotation de solidarité communautaire est répartie selon les règles suivantes :
 
-- 30 p. 100 selon le supplément de bases de taxe professionnelle constaté dans chaque commune ;
+30 p. 100 selon le supplément de bases de taxe professionnelle constaté dans chaque commune ;
 
-- 30 p. 100 selon les bases de taxe professionnelle par habitant de chaque commune ;
+30 p. 100 selon les bases de taxe professionnelle par habitant de chaque commune ;
 
-- 30 p. 100 selon la population communale totale ;
+30 p. 100 selon la population communale totale ;
 
-- 10 p. 100 selon le nombre d'établissements soumis à la législation sur les installations classées implantées dans chaque commune.
+10 p. 100 selon le nombre d'établissements soumis à la législation sur les installations classées implantées dans chaque commune.
 
 IV. Lorsqu'il est fait application à un groupement doté d'une fiscalité propre des dispositions du présent article, l'attribution de compensation versée, chaque année, par le groupement aux communes membres est égale à la différence constatée, l'année précédant celle de la première application de ces dispositions, entre :
 
@@ -64,7 +62,7 @@ Lorsque l'attribution de compensation est négative, la commune est tenue d'effe
 
 V. Pour les communes membres d'un groupement soumis aux dispositions du présent article, le taux à prendre en compte pour le calcul de la compensation visée au deuxième alinéa de l'article 21 de la loi de finances pour 1992 (n° 91-1322 du 30 décembre 1991) est majoré du taux voté en 1991 par le groupement lorsqu'il s'agit d'un groupement ayant opté pour le régime fiscal prévu au présent article ou, lorsqu'il s'agit d'une communauté de villes, par le groupement dont celle-ci est issue ou auquel elle s'est substituée.
 
-VI. 1. Les sommes versées aux communes en application du IV de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986), modifié par l'article 46 de la loi de finances pour 1992 (n° 91-1322 du 30 décembre 1991), l'article 124 de la loi n° 92-125 du 6 février 1992 d'orientation relative à l'administration territoriale de la République ((et l'article 54 de la loi de finances pour 1994 (n° 93-1352 du 30 décembre 1993) )) (1') leur restent acquises lorsqu'elles deviennent membres d'une communauté de villes.
+VI 1. ((Les sommes versées aux communes en application du IV modifié de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986) leur restent acquises lorsqu'elles deviennent membres d'une communauté de villes)) (M).
 
 2. Les groupements de communes soumis aux dispositions du prése article bénéficient de la compensation prévue au IV bis de l'article 6 précité de la loi de finances pour 1987 au lieu et place de leurs communes membres.
 
@@ -76,4 +74,4 @@ b) Les recettes fiscales à retenir, la première année d'application des dispo
 
 (1) Voir décret 93-220 du 16 février 1993, JO du 18).
 
-(1') Modifications de la loi.
+(M) Modifications de la loi.

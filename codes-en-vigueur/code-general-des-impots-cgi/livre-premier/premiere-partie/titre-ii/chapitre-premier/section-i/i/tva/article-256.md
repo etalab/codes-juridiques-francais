@@ -18,7 +18,7 @@ c) La remise matérielle d'un bien meuble corporel en vertu d'un contrat qui pr�
 
 d) La remise matérielle d'un bien meuble corporel en vertu d'un contrat de vente qui comporte une clause de réserve de propriété.
 
-III. Est assimilé à une livraison de biens, le transfert par un assujetti d'un bien de son entreprise à destination d'un autre Etat membre de la Communauté économique européenne.
+III. Est assimilé à une livraison de biens, le transfert par un assujetti d'un bien de son entreprise à destination d'un autre Etat membre de la Communauté européenne.
 
 Est considéré comme un transfert au sens des dispositions qui précèdent l'expédition ou le transport, par un assujetti ou pour son compte, d'un bien meuble corporel pour les besoins de son entreprise, à l'exception de l'expédition ou du transport d'un bien qui, dans l'Etat membre d'arrivée, est destiné :
 

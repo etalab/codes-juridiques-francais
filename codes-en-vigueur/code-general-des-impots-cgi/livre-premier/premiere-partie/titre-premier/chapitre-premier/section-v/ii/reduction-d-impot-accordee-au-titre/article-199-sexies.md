@@ -12,7 +12,7 @@ Pour les prêts contractés à compter du 1er juin 1986 [*date, point de départ
 
 complété par un alinéa ainsi rédigé :
 
-Pour les prêts contractés à compter du 18 septembre 1991 pour la construction ou l'acquisition de logements neufs, le montant des intérêts à prendre en compte pour le calcul de la réduction est porté à 20 000 F pour une personne célibataire, veuve ou divorcée et à 40 000 F pour un couple marié soumis à une imposition commune. Ces montants sont augmentés dans les conditions prévues à l'alinéa précédent.
+Pour les prêts contractés à compter du 18 septembre 1991 pour la construction ou l'acquisition de logements neufs, le montant des intérêts à prendre en compte pour le calcul de la réduction est porté à 20 000 F pour une personne célibataire, veuve ou divorcée et à 40 000 F pour un couple marié soumis à une imposition commune. Ces montants sont augmentés dans les conditions prévues au quatrième alinéa.
 
 b. Les dispositions du a s'appliquent même lorsque l'immeuble n'est pas affecté immédiatement à l'habitation principale, à la condition que le propriétaire prenne l'engagement de lui donner cette affectation avant le 1er janvier de la troisième année qui suit celle de la conclusion du contrat de prêt ou du paiement des dépenses. Le non-respect de cet engagement donne lieu à la reprise de la réduction d'impôt dont le contribuable a indûment bénéficié, sans préjudice des sanctions prévues à l'article 1729. Ces dispositions s'appliquent aux prêts conclus ou aux dépenses payées avant le 1er janvier 1992.
 
@@ -25,5 +25,3 @@ c. Les réductions d'impôt prévues au a et au b sont étendues aux locaux comp
 d. (Abrogé) (1).
 
 2° a b c d (Périmé à l'exception du troisième alinéa du a transféré sous l'article L172 E du LPF).
-
-(1) Ces dispositions s'appliquent aux contrats conclus et aux dépenses payées à compter du 1er juillet 1993.

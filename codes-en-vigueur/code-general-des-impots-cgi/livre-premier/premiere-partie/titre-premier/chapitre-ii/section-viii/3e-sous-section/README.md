@@ -1,5 +1,6 @@
 # 3e Sous-section : Dispositions diverses
 
+- [1° : Régimes particuliers](1)
 - [2° : Paiement de l'impôt](2)
 - [3° : Régimes antérieurs](3)
 - [4° : Obligations déclaratives](4)

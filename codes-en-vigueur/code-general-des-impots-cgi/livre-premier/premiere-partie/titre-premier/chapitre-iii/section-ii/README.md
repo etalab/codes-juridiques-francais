@@ -14,3 +14,4 @@
 - [Article 231 bis K](article-231-bis-k.md)
 - [Article 231 bis N](article-231-bis-n.md)
 - [Article 231 bis O](article-231-bis-o.md)
+- [Article 231 bis P](article-231-bis-p.md)

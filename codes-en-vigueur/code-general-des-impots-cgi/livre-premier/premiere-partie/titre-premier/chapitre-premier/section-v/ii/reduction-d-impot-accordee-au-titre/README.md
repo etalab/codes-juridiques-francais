@@ -1,4 +1,4 @@
-# Réduction d'impôt accordée au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet.
+# Réduction d'impôt accordée au titre des dépenses afférentes à l'habitation principale.
 
 - [Article 199 quater D](article-199-quater-d.md)
 - [Article 199 quater F](article-199-quater-f.md)

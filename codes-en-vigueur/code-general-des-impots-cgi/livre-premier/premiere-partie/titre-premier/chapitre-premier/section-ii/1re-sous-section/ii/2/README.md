@@ -17,6 +17,7 @@
 - [Article 39 ter](article-39-ter.md)
 - [Article 39 ter B](article-39-ter-b.md)
 - [Article 39 quinquies](article-39-quinquies.md)
+- [Article 39 quinquies I](article-39-quinquies-i.md)
 - [Article 39 quinquies C](article-39-quinquies-c.md)
 - [Article 39 quinquies A](article-39-quinquies-a.md)
 - [Article 39 quinquies E](article-39-quinquies-e.md)

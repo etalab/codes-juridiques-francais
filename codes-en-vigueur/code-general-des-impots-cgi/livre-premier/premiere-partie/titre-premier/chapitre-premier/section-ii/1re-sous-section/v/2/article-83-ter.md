@@ -4,7 +4,7 @@ I. 1. Les salariés d'une entreprise qui souscrivent en numéraire au capital in
 
 Un salarié ne peut bénéficier que de l'un des avantages mentionnés à l'alinéa précédent ou à l'article 199 terdecies A et pour les souscriptions au capital d'une seule société.
 
-2. L'avantage prévu  au 1 est maintenu si les titres de la société nouvelle sont apportés à une société civile ou à un fonds commun de placement d'entreprise mentionné à l'article 21 de la loi n° 88-1201 du 23 décembre 1988 relative aux organismes de placement collectif en valeurs mobilières [*OPCVM*] , qui répondent aux conditions fixées au d du III.
+2. L'avantage prévu  au 1 est maintenu si les titres de la société nouvelle sont apportés à une société civile ou à un fonds commun de placement d'entreprise mentionné à l'article 21 ((modifié)) (M) de la loi n° 88-1201 du 23 décembre 1988 relative aux organismes de placement collectif en valeurs mobilières [*OPCVM*] , qui répondent aux conditions fixées au d du III.
 
 3. Les salariés des entreprises dont le capital est détenu pour plus de 50 p. 100 par la société rachetée peuvent bénéficier de l'avantage mentionné au I dans les mêmes conditions. Les intérêts ouvrant droit à l'avantage sont déductibles du montant brut de leur rémunération versée par la société qui les emploie.
 
@@ -24,7 +24,7 @@ b) La société rachetée doit exercer une activité industrielle ou commerciale
 
 c) La société nouvelle doit détenir dans les deux mois de sa constitution plus de 50 p. 100 des droits de vote de la société rachetée ;
 
-d) Les droits de vote attachés aux actions ou aux parts de la société nouvelle doivent, dès la souscription au capital initial, être détenus pour plus du tiers par les salariés de la société rachetée ou des entreprises mentionnées au 3 du I, soit directement, soit par l'intermédiaire de fonds communs de placement d'entreprise prévus aux articles 20 et 21 de la loi n° 88-1201 du 23 décembre 1988 précitée, soit par l'intermédiaire d'une société civile n'ayant pas opté pour l'impôt sur les sociétés. La société civile ou le fonds commun de placement doivent être constitués exclusivement entre les mêmes salariés. La société civile ou le fonds visé à l'article 21 mentionné ci-dessus doivent avoir pour seul objet la détention des titres de la société nouvelle ;
+d) Les droits de vote attachés aux actions ou aux parts de la société nouvelle doivent, dès la souscription au capital initial, être détenus pour plus du tiers par les salariés de la société rachetée ou des entreprises mentionnées au 3 du I, soit directement, soit par l'intermédiaire de fonds communs de placement d'entreprise prévus aux articles 20 et 21 ((modifiés)) (M) de la loi n° 88-1201 du 23 décembre 1988 précitée, soit par l'intermédiaire d'une société civile n'ayant pas opté pour l'impôt sur les sociétés. La société civile ou le fonds commun de placement doivent être constitués exclusivement entre les mêmes salariés. La société civile ou le fonds visé à l'article 21 mentionné ci-dessus doivent avoir pour seul objet la détention des titres de la société nouvelle ;
 
 e) Le nombre de salariés de la société rachetée détenant des titres de la société nouvelle ne peut être inférieur à cinq ni à un pourcentage de l'effectif total des salariés de la société rachetée employés au jour du rachat initial. Ce pourcentage est fixé à 10 p. 100 pour la partie de l'effectif qui n'excède pas 500 salariés et à 5 p. 100 pour la partie supérieure à cette limite.
 
@@ -51,3 +51,5 @@ V. Les souscriptions au capital de la société nouvelle qui ont ouvert droit au
 VI. Le présent article s'applique aux sociétés nouvelles créées à compter du 1er janvier 1992 et jusqu'au 31 décembre 1996 et aux souscriptions qui seront libérées au plus tard le 31 décembre 1999.
 
 VII. Les conditions d'application du présent article, notamment les obligations déclaratives des salariés et des sociétés ou organismes concernés, sont fixées par décret.
+
+(M) Modification.

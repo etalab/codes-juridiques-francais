@@ -16,10 +16,10 @@ Une mention spécifique doit signaler la délivrance d'un travail à façon.
 
 5° Le montant des régularisations effectuées en application du I de l'article 272. Ces montants sont déclarés au titre du mois au cours duquel la régularisation est notifiée à l'acquéreur.
 
-6° Pour les biens expédiés ou transportés par un donneur d'ordre dans un autre Etat membre de la Communauté économique européenne, pour faire l'objet d'un travail à façon :
+6° Pour les biens expédiés ou transportés par un donneur d'ordre dans un autre Etat membre de la Communauté européenne, pour faire l'objet d'un travail à façon :
 
 a) Le numéro par lequel le donneur d'ordre est identifié à la taxe sur la valeur ajoutée ;
 
-b) Le numéro par lequel est identifié, dans l'Etat membre de la Communauté économique européenne d'arrivée de l'expédition ou de transport des biens, l'entrepreneur de l'ouvrage.
+b) Le numéro par lequel est identifié, dans l'Etat membre de la Communauté européenne d'arrivée de l'expédition ou de transport des biens, l'entrepreneur de l'ouvrage.
 
-c) Une mention signalant que les biens sont expédiés ou transportés pour les besoins d'un travail à façon. vigueur le 1er janvier 1993).
+c) Une mention signalant que les biens sont expédiés ou transportés pour les besoins d'un travail à façon.

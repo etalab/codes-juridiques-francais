@@ -1,16 +1,16 @@
 # Article 371 G
 
-La décision d'agrément est prise par le directeur régional des impôts de la région dans laquelle le centre a son siège, après avis d'une commission instituée au chef-lieu de région [*autorité compétente*].
+La décision d'agrément est prise par le directeur régional des impôts de la région dans laquelle le centre a son siège, après avis d'une commission instituée au chef-lieu de région.
 
-Cette commission, placée sous la présidence effective d'un membre du corps des tribunaux administratifs, désigné par arrêté du ministre de l'intérieur, comprend également [*composition*] :
+Cette commission, placée sous la présidence effective d'un membre du corps des tribunaux administratifs, désigné par arrêté du ministre de l'intérieur, comprend également :
 
-Deux fonctionnaires de la direction générale des impôts ayant au moins le grade d'inspecteur principal;
+a. Deux fonctionnaires de la direction générale des impôts ayant au moins le grade d'inspecteur principal ;
 
-Un représentant du ministère de l'industrie et de la recherche;
+b. Un représentant du ministère de l'industrie et de la recherche ;
 
-Deux représentants du ministère du commerce et de l'artisanat;
+c. Deux représentants du ministère du commerce et de l'artisanat ;
 
-Deux membres de l'ordre des experts comptables et des comptables agréés désignés par le conseil régional de l'ordre;
+d.  Deux membres de l'ordre des experts comptables désignés par le conseil régional de l'ordre ;
 
 Un industriel, un commerçant et un artisan désignés respectivement par le président de la chambre régionale de commerce et d'industrie et par le président de la conférence régionale des métiers.
 
@@ -18,7 +18,7 @@ Lorsque la demande d'agrément est présentée par un centre de gestion apportan
 
 Des suppléants du président et des autres membres sont nommés dans les mêmes conditions.
 
-Dans les départements d'outre-mer [*DOM*], la commission est présidée par un magistrat de l'ordre judiciaire désigné par le président du tribunal de grande instance. Les fonctionnaires représentant la direction générale des impôts doivent avoir au moins le grade d'inspecteur. La décision d'agrément est prise par le directeur des services fiscaux [*autorité compétente*].
+Dans les départements d'outre-mer [*DOM*], la commission est présidée par un magistrat de l'ordre judiciaire désigné par le président du tribunal de grande instance. Les fonctionnaires représentant la direction générale des impôts doivent avoir au moins le grade d'inspecteur. La décision d'agrément est prise par le directeur des services fiscaux.
 
 En cas de partage des voix, la voix du président de la commission est prépondérante.
 

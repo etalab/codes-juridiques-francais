@@ -1,3 +1,4 @@
 # 1° : Déclaration d'existence
 
 - [Article 124](article-124.md)
+- [Article 124 B](article-124-b.md)

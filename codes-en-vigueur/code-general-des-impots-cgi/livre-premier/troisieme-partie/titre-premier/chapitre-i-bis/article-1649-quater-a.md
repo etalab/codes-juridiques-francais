@@ -4,4 +4,4 @@ Les personnes physiques qui transfèrent vers l'étranger ou en provenance de l'
 
 Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 50 000 F.
 
-Les sommes, titres ou valeurs transférés vers l'étranger ou en provenance de l'étranger constituent, sauf preuve contraire, des revenus imposables lorsque le contribuable n'a pas rempli les obligations prévues aux alinéas précédents.
+Les sommes, titres ou valeurs transférés vers l'étranger ou en provenance de l'étranger constituent, sauf preuve contraire, des revenus imposables lorsque le contribuable n'a pas rempli les obligations prévues aux premier et deuxième alinéas.

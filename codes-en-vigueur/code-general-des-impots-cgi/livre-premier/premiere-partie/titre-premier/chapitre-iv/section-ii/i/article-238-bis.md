@@ -2,7 +2,7 @@
 
 1. Les entreprises assujetties à l'impôt sur le revenu ou à l'impôt sur les sociétés sont autorisées à déduire du montant de leur bénéfice imposable, dans la limite de 2 p. 1 000 de leur chiffre d'affaires, les versements qu'elles ont effectués au profit d'oeuvres ou d'organismes d'intérêt général ayant un caractère philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial, culturel ou concourant à la mise en valeur du patrimoine artistique, à la défense de l'environnement naturel ou à la diffusion de la culture, de la langue et des connaissances scientifiques françaises notamment quand ces versements sont faits au bénéfice d'une fondation d'entreprise, même si cette dernière porte le nom de l'entreprise fondatrice.
 
-Sont également déductibles, dans la même limite, les dons prévus à l'article L. 52-8 du code électoral versés à une association de financement électoral ou à un mandataire financier prévu à l'article L. 52-4 du même code qui sont consentis par chèque, à titre définitif et sans contrepartie, et dont il est justifié à l'appui du compte de campagne présenté par un candidat ou une liste. Il en va de même des dons mentionnés à l'article 11-4 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique.
+(Alinéa abrogé par la loi 95-65, nota).
 
 2. La limite de déduction mentionnée au 1 est fixée à 3 p. 1 000 pour les dons faits à des fondations ou associations reconnues d'utilité publique et répondant aux conditions fixées au 1, ainsi qu'aux associations cultuelles ou de bienfaisance qui sont autorisées à recevoir des dons et legs et aux établissements publics des cultes reconnus d'Alsace-Moselle.
 
@@ -20,6 +20,4 @@ Dans tous les cas, ces organismes doivent être agréés par le ministre chargé
 
 5. Les organismes mentionnés au premier alinéa du 2 peuvent, lorsque leurs statuts ont été approuvés à ce titre par décret en Conseil d'Etat, recevoir des versements pour le compte d'oeuvres ou d'organismes mentionnés au 1.
 
-6. Pour les dons visés au deuxième alinéa du 1, l'association de financement ou le mandataire financier délivre au donateur un reçu dont un décret en Conseil d'Etat fixe les conditions d'établissement et d'utilisation.    (1) Voir le décret n° 85-1304 du 9 décembre 1985, JO du 11).
-
-(2) Voir le décret n° 85-865 du 9 août 1985, JO du 15.
+6. (Abrogé par la loi 95-65, nota.

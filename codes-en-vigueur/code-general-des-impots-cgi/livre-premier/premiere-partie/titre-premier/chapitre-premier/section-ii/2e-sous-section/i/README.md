@@ -24,6 +24,8 @@
 - [Article 163 bis A](article-163-bis-a.md)
 - [Article 163 bis AA](article-163-bis-aa.md)
 - [Article 163 bis B](article-163-bis-b.md)
+- [Article 163 bis E](article-163-bis-e.md)
+- [Article 163 bis F](article-163-bis-f.md)
 - [Article 163 quinquies](article-163-quinquies.md)
 - [Article 163 quinquies C](article-163-quinquies-c.md)
 - [Article 163 quinquies D](article-163-quinquies-d.md)
