@@ -1,3 +1,0 @@
-# PENALITES
-
-- [HYGIENE ET SECURITE .](hygiene-et)

@@ -4,4 +4,3 @@
 - [CONDITIONS DU TRAVAIL](conditions-du-travail)
 - [CONGES ANNUELS](conges-annuels)
 - [HYGIENE ET SECURITE .](hygiene-et)
-- [PENALITES](penalites)
