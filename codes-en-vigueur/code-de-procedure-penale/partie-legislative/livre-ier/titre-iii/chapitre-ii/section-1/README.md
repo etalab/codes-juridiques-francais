@@ -12,6 +12,7 @@
 - [Article 200](article-200.md)
 - [Article 201](article-201.md)
 - [Article 203](article-203.md)
+- [Article 204](article-204.md)
 - [Article 205](article-205.md)
 - [Article 206](article-206.md)
 - [Article 208](article-208.md)
