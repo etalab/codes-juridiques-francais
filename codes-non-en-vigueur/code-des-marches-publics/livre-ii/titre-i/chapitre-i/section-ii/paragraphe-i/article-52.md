@@ -4,4 +4,4 @@ Conformément à l'article 39-I modifié de la loi n° 54-404 du 10 avril 1954, 
 
 Toutefois, sont admises à concourir aux marchés les personnes qui, à défaut de paiement, ont constitué des garanties jugées suffisantes par l'organisme ou le comptable responsable du recouvrement.
 
-Les personnes physiques qui occupent une des situations visées aux alinéas 2 à 5 de l'article 49 auprès d'une personne morale qui ne satisfait pas aux conditions visées aux alinéas précédents ne peuvent obtenir personnellement de marchés.
+Les personnes physiques qui sont dirigeants de droit ou de fait d'une personne morale qui ne satisfait pas aux conditions prévues aux alinéas précédents ne peuvent obtenir personnellement de marchés.

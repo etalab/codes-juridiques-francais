@@ -1,9 +1,5 @@
 # Article 78
 
-Les prestations faisant l'objet du marché sont réglées soit par des prix unitaires appliqués aux quantités réellement exécutées, soit par des prix forfaitaires.
+Les prestations faisant l'objet d'un marché sont réglées soit par des prix unitaires appliqués aux quantités réellement livrées ou exécutées, soit par des prix forfaitaires.
 
-Le prix est ferme lorsqu'il ne peut être modifié à raison des variations des conditions économiques. Il est revisable dans le cas contraire ; la revision et les conditions de celle-ci doivent être expressément prévues dans le marché.
-
-Lorsque le prix est ferme, il peut être actualisé dans les conditions prévues à l'article 173.
-
-Exceptionnellement, des marchés à prix provisoire peuvent être passés dans les conditions fixées à l'article 105.
+Le prix est ferme lorsqu'il ne peut être modifié à raison des variations des conditions économiques ; dans le cas contraire, les conditions de détermination du prix de règlement sont expressément prévues par le marché. Exceptionnellement, des marchés à prix provisoire peuvent être conclus dans les conditions fixées à l'article 105.
