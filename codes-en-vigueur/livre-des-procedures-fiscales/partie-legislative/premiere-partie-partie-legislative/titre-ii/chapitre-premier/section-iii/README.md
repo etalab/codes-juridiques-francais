@@ -1,5 +1,6 @@
 # Section III : Modalités d'exercice du droit de contrôle
 
+- [1° : Garanties accordées au contribuable en matière de vérification](1)
 - [2° : Actes de procédure](2)
 - [Garanties accordées au contribuable en matière de vérification.](garanties-accordees-au)
 - [Article L45](article-l45.md)
