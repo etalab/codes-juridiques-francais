@@ -1,6 +1,7 @@
 # Titre V : Règlement des litiges.
 
 - [Article 239](article-239.md)
+- [Article 240](article-240.md)
 - [Article 241](article-241.md)
 - [Article 243](article-243.md)
 - [Article 244](article-244.md)
