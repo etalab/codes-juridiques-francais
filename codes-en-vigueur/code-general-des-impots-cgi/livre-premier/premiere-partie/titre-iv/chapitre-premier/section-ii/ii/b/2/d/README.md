@@ -2,5 +2,6 @@
 
 - [Article 706](article-706.md)
 - [Article 707](article-707.md)
+- [Article 707 bis](article-707-bis.md)
 - [Article 708](article-708.md)
 - [Article 709](article-709.md)
