@@ -6,3 +6,4 @@
 - [5° : Passage du régime simplifié d'imposition d'après le bénéfice réel au régime du forfait.](5)
 - [6° : Passage du régime simplifié au régime normal d'imposition d'après le bénéfice réel.](6)
 - [Passage du régime du forfait au régime simplifié d'imposition d'après le bénéfice réel.](passage-du-regime-du-forfait-au)
+- [Passage du régime transitoire au régime du forfait.](passage-du-regime-transitoire-au)
