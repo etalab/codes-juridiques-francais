@@ -2,4 +2,3 @@
 
 - [Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.](titre-iv)
 - [TITRE V : Dispositions diverses](titre-v)
-- [TITRE VI : Contrôle](titre-vi)
