@@ -1,6 +1,6 @@
 # Article L443-1
 
-A peine d'une amende de 500000 F, le délai de paiement, par tout producteur, revendeur ou prestataire de services, ne peut être supérieur :
+A peine d'une amende de 75000 euros, le délai de paiement, par tout producteur, revendeur ou prestataire de services, ne peut être supérieur :
 
 1° A trente jours après la fin de la décade de livraison pour les achats de produits alimentaires périssables et de viandes congelées ou surgelées, de poissons surgelés, de plats cuisinés et de conserves fabriqués à partir de produits alimentaires périssables, à l'exception des achats de produits saisonniers effectués dans le cadre de contrats dits de culture visés aux articles L. 326-1 à L. 326-3 du code rural ;
 

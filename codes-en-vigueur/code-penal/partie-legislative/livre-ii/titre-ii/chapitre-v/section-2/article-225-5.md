@@ -8,4 +8,4 @@ Le proxénétisme est le fait, par quiconque, de quelque manière que ce soit :
 
 3° D'embaucher, d'entraîner ou de détourner une personne en vue de la prostitution ou d'exercer sur elle une pression pour qu'elle se prostitue ou continue à le faire.
 
-Le proxénétisme est puni de sept ans d'emprisonnement et de [*taux*] 1 000 000 F d'amende.
+Le proxénétisme est puni de sept ans d'emprisonnement et de 150000 euros d'amende.

@@ -1,6 +1,6 @@
 # Article 322-8
 
-L'infraction définie à l'article 322-6 est punie de vingt ans de réclusion criminelle et de 1 000 000 F d'amende :
+L'infraction définie à l'article 322-6 est punie de vingt ans de réclusion criminelle et de 150000 euros d'amende :
 
 1° Lorsqu'elle est commise en bande organisée ;
 

@@ -1,6 +1,6 @@
 # Article 433-1
 
-Est puni de dix ans d'emprisonnement et de 1 000 000 F d'amende le fait de proposer, sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques pour obtenir d'une personne dépositaire de l'autorité publique, chargée d'une mission de service public ou investie d'un mandat électif public :
+Est puni de dix ans d'emprisonnement et de 150000 euros d'amende le fait de proposer, sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques pour obtenir d'une personne dépositaire de l'autorité publique, chargée d'une mission de service public ou investie d'un mandat électif public :
 
 1° Soit qu'elle accomplisse ou s'abstienne d'accomplir un acte de sa fonction, de sa mission ou de son mandat ou facilité par sa fonction, sa mission ou son mandat ;
 

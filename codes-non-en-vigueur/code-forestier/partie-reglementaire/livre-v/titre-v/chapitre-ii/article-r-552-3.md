@@ -1,0 +1,9 @@
+# Article R*552-3
+
+Seuls les matériels de base dont sont issus des matériels de reproduction possédant une valeur d'utilisation améliorée, peuvent être admis pour la production de matériels contrôlés. La valeur d'utilisation améliorée est appréciée au moyen d'essais comparatifs effectués selon des conditions fixées par arrêté du ministre de l'agriculture en conformité avec l'annexe II de la directive susmentionnée du conseil des communautés européennes.
+
+L'admission de matériels de base pour la production de matériels contrôlés est prononcée par arrêté du ministre de l'agriculture et entraîne leur inscription sur une liste figurant au catalogue des espèces et variétés de plantes cultivées.
+
+L'admission de matériels de base pour la production de matériels contrôlés peut être prononcée à titre provisoire pour une période de dix ans au plus par arrêté du ministre de l'agriculture, si les résultats provisoires des essais comparatifs entrepris conformément aux conditions fixées à l'alinéa ci-dessus laissent présumer une valeur d'utilisation améliorée.
+
+Pendant une période transitoire se terminant au 30 juin 1987, l'admission des matériels de base destinés à la production de matériels contrôlés peut être prononcée d'après les résultats d'essais comparatifs ne correspondant pas aux conditions fixées ci-dessus, pour autant que ces essais aient été entrepris avant le 29 novembre 1978 et fournissent la preuve que les matériels de reproduction qui sont issus des matériels de base possèdent une valeur d'utilisation améliorée. A l'expiration de cette période transitoire, les résultats d'essais comparatifs ne correspondant pas aux conditions fixées au premier alinéa du présent article ne pourront être utilisés que dans les conditions prévues à l'article 17 de la directive susmentionnée du conseil des communautés européennes.

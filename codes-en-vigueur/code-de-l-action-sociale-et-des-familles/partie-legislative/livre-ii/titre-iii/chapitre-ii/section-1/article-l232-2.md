@@ -1,3 +1,5 @@
 # Article L232-2
 
-La demande de prestation spécifique dépendance est adressée au président du conseil général du département de résidence du demandeur qui informe du dépôt de celle-ci le maire de la commune de résidence. Elle est instruite par une équipe médico-sociale qui comprend au moins un médecin et un travailleur social et dont l'un au moins des membres se rend auprès de l'intéressé. Pour apprécier le besoin d'aide de celui-ci, le président du conseil général compétent en application des dispositions de l'article L. 232-6 se fonde notamment sur les conclusions de l'équipe médico-sociale.
+L'allocation personnalisée d'autonomie, qui a le caractère d'une prestation en nature, est accordée, sur sa demande, dans les limites de tarifs fixés par voie réglementaire, à toute personne attestant d'une résidence stable et régulière et remplissant les conditions d'âge et de perte d'autonomie, évaluée à l'aide d'une grille nationale, également définies par voie réglementaire.
+
+Les personnes sans résidence stable doivent, pour prétendre au bénéfice de l'allocation personnalisée d'autonomie, élire domicile auprès de l'un des organismes mentionnés à l'article L. 232-13, agréé à cette fin conjointement par le représentant de l'Etat dans le département et par le président du conseil général.

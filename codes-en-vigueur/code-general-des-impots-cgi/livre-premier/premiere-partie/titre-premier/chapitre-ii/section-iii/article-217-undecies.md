@@ -54,29 +54,29 @@ b) (abrogé)
 
 c) (abrogé)
 
-d) l'opération a reçu l'agrément préalable du ministre du budget dans les conditions prévues au III.
+d)- l'opération a reçu l'agrément préalable du ministre du budget dans les conditions prévues au III.
 
-II ter. La déduction prévue au premier alinéa du II s'applique aux souscriptions au capital de sociétés soumises à l'impôt sur les sociétés et qui sont affectées exclusivement à l'acquisition ou à la construction de logements neufs dans les départements d'outre-mer lorsque ces sociétés ont pour activité exclusive la location de tels logements dans les conditions mentionnées au cinquième alinéa du I.
+II ter. La déduction prévue au premier alinéa du II s'applique aux souscriptions au capital de sociétés soumises à l'impôt sur les sociétés et qui sont affectées exclusivement à l'acquisition ou à la construction de logements neufs dans les départements d'outre-mer lorsque ces sociétés ont pour activité exclusive la location de tels logements dans les conditions mentionnées au cinquième alinéa du I du présent article.
 
 Cette déduction s'applique sous les conditions et sanctions prévues au II, à l'exception de celle mentionnée à la troisième phrase du premier alinéa du même II.
 
-II quater. Les investissements et les souscriptions au capital mentionnés aux I, II et II ter et dont le montant total par programme et par exercice est supérieur à 5 000 000 F ne peuvent ouvrir droit à déduction que s'ils ont reçu un agrément préalable du ministre chargé du budget dans les conditions prévues au deuxième alinéa du III.
+II quater. Les investissements et les souscriptions au capital mentionnés aux I, II et II ter et dont le montant total par programme et par exercice est supérieur à 760 000 euros ne peuvent ouvrir droit à déduction que s'ils ont reçu un agrément préalable du ministre chargé du budget dans les conditions prévues au deuxième alinéa du III.
 
-Les dispositions du premier alinéa sont également applicables aux investissements mentionnés au I et dont le montant total par programme et par exercice est supérieur à 2 000 000 F, lorsqu'ils sont réalisés par une société ou un groupement mentionnés à l'avant-dernière phrase du premier alinéa de ce même I.
+Les dispositions du premier alinéa sont également applicables aux investissements mentionnés au I et dont le montant total par programme et par exercice est supérieur à 300 000 euros, lorsqu'ils sont réalisés par une société ou un groupement mentionnés à l'avant-dernière phrase du premier alinéa de ce même I.
 
-III. Pour ouvrir droit à déduction, les investissements mentionnés au I réalisés dans les secteurs des transports, de la navigation de plaisance, de la production et de la diffusion audiovisuelles et cinématographiques, des services informatiques ainsi que les investissements portant sur la construction d'hôtels ou de résidences à vocation touristique ou parahôtelière ou la rénovation d'hôtel, les investissements nécessaires à l'exploitation d'une concession de service public local à caractère industriel et commercial et les souscriptions au capital des sociétés concessionnaires mentionnées au troisième alinéa du II doivent avoir reçu l'agrément préalable du ministre du budget. Il en est de même des investissements mentionnés au I réalisés à compter du 1er janvier 1998 dans le secteur de la pêche maritime.
+III. Pour ouvrir droit à déduction, les investissements mentionnés au I réalisés dans les secteurs des transports, de la navigation de plaisance, de la production et de la diffusion audiovisuelles et cinématographiques, des services informatiques ainsi que les investissements portant sur la construction d'hôtels ou de résidences à vocation touristique ou parahôtelière ou la rénovation d'hôtel les investissements nécessaires à l'exploitation d'une concession de service public local à caractère industriel et commercial et les souscriptions au capital des sociétés concessionnaires mentionnées au troisième alinéa du II doivent avoir reçu l'agrément préalable du ministre du budget. Il en est de même des investissements mentionnés au I réalisés à compter du 1er janvier 1998 dans le secteur de la pêche maritime.
 
 L'agrément est accordé, après qu'a été demandé l'avis du ministre des départements et territoires d'outre-mer, si l'investissement présente un intérêt économique pour le département dans lequel il est réalisé, si l'un de ses buts principaux est la création ou le maintien d'emplois dans ce département, s'il s'intègre dans la politique d'aménagement du territoire et de l'environnement et s'il garantit la protection des investisseurs et des tiers. La demande d'agrément doit être accompagnée de données chiffrées en matière d'emploi. L'octroi de l'agrément est tacite à défaut de réponse de l'administration dans un délai de trois mois à compter de la réception de la demande d'agrément.
 
-Toutefois, les investissements mentionnés au I, dont le montant total n'excède pas 1 000 000 F par programme et par exercice, sont dispensés de la procédure d'agrément préalable, lorsqu'ils sont réalisés par une entreprise qui exerce son activité dans les départements visés au I depuis au moins deux ans, dans l'un des secteurs mentionnés au premier alinéa. Dans ce cas, l'entreprise joint à sa déclaration de résultat un état récapitulatif des investissements réalisés au cours de l'exercice et au titre desquels la déduction fiscale est pratiquée.
+Toutefois, les investissements mentionnés au I, dont le montant total n'excède pas 150 000 euros par programme et par exercice, sont dispensés de la procédure d'agrément préalable, lorsqu'ils sont réalisés par une entreprise qui exerce son activité dans les départements visés au I depuis au moins deux ans, dans l'un des secteurs mentionnés au premier alinéa du présent III ter. Dans ce cas, l'entreprise joint à sa déclaration de résultat un état récapitulatif des investissements réalisés au cours de l'exercice et au titre desquels la déduction fiscale est pratiquée.
 
-III bis (Abrogé).
+III bis. (Abrogé).
 
-III ter (transféré).
+III ter. (transféré).
 
-III quater (abrogé).
+III quater. (abrogé).
 
-IV. En cas de cession dans le délai de cinq ans de tout ou partie des droits sociaux souscrits par les entreprises avec le bénéfice des déductions prévues aux II, II bis ou II ter, les sommes déduites sont rapportées au résultat imposable de l'année de cession, dans la limite de la totalité du prix de cession.
+IV. En cas de cession dans le délai de cinq ans de tout ou partie des droits sociaux souscrits par les entreprises avec le bénéfice des déductions prévues aux II, II bis ou II ter les sommes déduites sont rapportées au résultat imposable de l'année de cession, dans la limite, de la totalité du prix de cession.
 
 Toutefois, ces dispositions ne sont pas applicables dans le cas où, dans le délai de cinq ans, l'entreprise propriétaire des titres ayant ouvert droit à la déduction prévue aux II, II bis ou II ter fait l'objet d'une transmission dans le cadre des dispositions prévues aux articles 210 A ou 210 B si l'entreprise qui devient propriétaire des titres remplit les conditions nécessaires pour bénéficier de cette déduction et s'engage à conserver les titres pendant la fraction du délai de conservation restant à courir. L'engagement est pris dans l'acte constatant la transmission ou, à défaut, par acte sous seing privé ayant date certaine, établi à cette occasion.
 
@@ -84,7 +84,7 @@ En cas de non-respect de cet engagement, le bénéficiaire de la transmission do
 
 IV bis. L'abattement prévu à l'article 217 bis n'est applicable ni pour le calcul de la déduction prévue par le présent article ni aux résultats provenant de l'exploitation des investissements ayant donné lieu à cette déduction et qui sont acquis pendant le délai de cinq ans suivant leur réalisation ou leur durée normale d'utilisation si elle est inférieure.
 
-Si, avant l'expiration du délai visé au premier alinéa, l'un de ces investissements est cédé ou cesse d'être affecté à l'exploitation de l'entreprise utilisatrice ou si l'acquéreur cesse son activité, l'avantage résultant de l'application du premier alinéa est rapporté au résultat imposable de l'exercice au cours duquel cet événement se réalise, majoré d'un montant égal au produit de cet avantage par le taux de l'intérêt de retard prévu au troisième alinéa de l'article 1727 et appliqué dans les conditions mentionnées à l'article 1727 A.
+Si, avant l'expiration du délai visé au premier alinéa l'un de ces investissements est cédé ou cesse d'être affecté à l'exploitation de l'entreprise utilisatrice ou si l'acquéreur cesse son activité, l'avantage résultant de l'application du premier alinéa est rapporté au résultat imposable de l'exercice au cours duquel cet événement se réalise, majoré d'un montant égal au produit de cet avantage par le taux de l'intérêt de retard prévu au troisième alinéa de l'article 1727 et appliqué dans les conditions mentionnées à l'article 1727 A.
 
 Toutefois, la reprise de l'avantage n'est pas effectuée lorsque les biens ayant ouvert droit à déduction sont transmis dans le cadre d'opérations soumises aux dispositions des articles 210 A ou 210 B, si le bénéficiaire de la transmission s'engage à maintenir l'exploitation des biens outre-mer dans le cadre d'une activité mentionnée au I pendant la fraction du délai de conservation restant à courir. L'engagement est pris dans l'acte constatant la transmission ou, à défaut, dans un acte sous seing privé ayant date certaine, établi à cette occasion. En cas de non-respect de cet engagement, le bénéficiaire de la transmission doit rapporter à son résultat imposable, au titre de l'exercice au cours duquel l'engagement de conservation cesse d'être respecté, l'avantage et la majoration correspondante mentionnés au deuxième alinéa qui, à défaut d'engagement, auraient dû être rapportés au résultat imposable de l'entreprise apporteuse.
 
@@ -94,7 +94,7 @@ V. Les dispositions du présent article sont applicables aux investissements ré
 
 2° Des immeubles ayant fait l'objet avant cette date d'une déclaration d'ouverture de chantier à la mairie de la commune ;
 
-3° De biens meubles corporels commandés, mais non encore livrés au 15 septembre 1997, si la commande a été accompagnée du versement d'acomptes égaux à 50 % au moins de leur prix.
+3° Des biens meubles corporels commandés, mais non encore livrés au 15 septembre 1997, si la commande a été accompagnée du versement d'acomptes égaux à 50 % au moins de leur prix.
 
 Les dispositions du présent article sont applicables aux seuls investissements neufs et travaux de rénovation d'hôtel réalisés ou aux souscriptions versées jusqu'au 31 décembre 2006.
 

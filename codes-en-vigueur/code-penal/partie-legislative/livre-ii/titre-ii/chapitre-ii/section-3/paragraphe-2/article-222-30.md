@@ -1,6 +1,6 @@
 # Article 222-30
 
-L'infraction définie à l'article 222-29 est punie de dix ans d'emprisonnement et de 1 000 000 F d'amende :
+L'infraction définie à l'article 222-29 est punie de dix ans d'emprisonnement et de 150000 euros d'amende :
 
 1° Lorsqu'elle a entraîné une blessure ou une lésion ;
 

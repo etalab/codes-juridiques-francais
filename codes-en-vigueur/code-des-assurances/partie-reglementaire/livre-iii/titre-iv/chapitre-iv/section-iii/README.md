@@ -12,5 +12,6 @@
 - [Article A344-6](article-a344-6.md)
 - [Article A344-7](article-a344-7.md)
 - [Article A344-8](article-a344-8.md)
+- [Article A344-9](article-a344-9.md)
 - [Article A344-11](article-a344-11.md)
 - [Article A344-13](article-a344-13.md)

@@ -6,7 +6,7 @@ a. D'immeubles ou de fractions d'immeubles destinés à être affectés à l'hab
 
 b. De terrains ou locaux à usage de garages à la condition que l'acquéreur prenne l'engagement de ne pas affecter les terrains ou locaux à une exploitation à caractère commercial ou professionnel pendant une durée minimale de trois ans à compter de la date de l'acte d'acquisition.
 
-Le montant de cet abattement qui ne peut être ni inférieur à 50.000 F ni supérieur à 300.000 F est fixé, dans ces limites, par fraction de 50.000 F.
+Le montant de cet abattement qui ne peut être ni inférieur à 7 600 euros ni supérieur à 46 000 euros est fixé, dans ces limites, par fraction de 7 600 euros.
 
 Les décisions prises en application des premier et deuxième alinéas peuvent être limitées aux acquisitions portant sur des biens situés dans les zones de revitalisation rurale définies à l'article 1465 A.
 

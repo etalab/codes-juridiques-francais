@@ -1,5 +1,6 @@
 # Section 2 : Gestion de l'allocation personnalisée d'autonomie
 
+- [Article L232-12](article-l232-12.md)
 - [Article L232-13](article-l232-13.md)
 - [Article L232-14](article-l232-14.md)
 - [Article L232-15](article-l232-15.md)

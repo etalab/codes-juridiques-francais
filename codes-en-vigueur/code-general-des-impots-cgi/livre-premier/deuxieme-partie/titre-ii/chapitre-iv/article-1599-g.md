@@ -8,7 +8,7 @@ Toutefois, pour les voitures particulières ayant une puissance fiscale de 15 et
 
 Chacun de ces coefficients multiplicateurs peut être modifié dans la limite de 5 %.
 
-Les tarifs ainsi obtenus sont arrondis au franc pair le plus proche.
+Les tarifs ainsi obtenus sont arrondis à l'euro pair le plus proche.
 
 Pour les véhicules ayant plus de cinq ans mais moins de vingt ans d'âge, ces tarifs sont réduits de moitié.
 

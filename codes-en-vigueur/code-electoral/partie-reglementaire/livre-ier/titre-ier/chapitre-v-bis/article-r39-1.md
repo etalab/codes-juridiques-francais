@@ -6,6 +6,6 @@ Les souches des reçus utilisés sont jointes aux comptes de campagne soumis au 
 
 La souche et le reçu mentionnent le montant et la date du versement ainsi que l'identité et l'adresse du domicile fiscal du donateur. Le reçu est signé par le donateur.
 
-Le reçu ne comporte le nom et l'adresse du mandataire prévu au premier alinéa de l'article L. 52-4 que lorsque le montant du don excède 20 000 F. "
+Le reçu ne comporte le nom et l'adresse du mandataire prévu au premier alinéa de l'article L. 52-4 que lorsque le montant du don excède 3 000 euros.
 
-" La Commission nationale des comptes de campagne et des financements politiques peut mettre en cause la validité du reçu délivré par le mandataire et enregistré par elle si elle constate, lors du contrôle du compte de campagne, une irrégularité au regard des dispositions des articles L. 52-4 à L. 52-13 et L. 52-16.
+La Commission nationale des comptes de campagne et des financements politiques peut mettre en cause la validité du reçu délivré par le mandataire et enregistré par elle si elle constate, lors du contrôle du compte de campagne, une irrégularité au regard des dispositions des articles L. 52-4 à L. 52-13 et L. 52-16.

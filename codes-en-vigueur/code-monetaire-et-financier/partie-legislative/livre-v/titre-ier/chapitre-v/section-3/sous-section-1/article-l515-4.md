@@ -8,6 +8,6 @@ Les sociétés mentionnées aux premier et deuxième alinéas sont autorisées �
 
 La caution peut être donnée par l'aval ou l'endos des effets de commerce et billets créés, souscrits ou endossés par les membres des sociétés ou sous toute autre forme.
 
-Le capital des sociétés de caution mutuelle est formé de parts nominatives qui peuvent être de valeur inégale sans cependant qu'aucune d'entre elles puisse être inférieure à dix francs, et à la souscription desquelles peuvent concourir, en dehors des membres qui participent aux avantages de la société, des membres non participants qui n'ont droit qu'à la rémunération de leurs apports.
+Le capital des sociétés de caution mutuelle est formé de parts nominatives qui peuvent être de valeur inégale sans cependant qu'aucune d'entre elles puisse être inférieure à 1,5 euros, et à la souscription desquelles peuvent concourir, en dehors des membres qui participent aux avantages de la société, des membres non participants qui n'ont droit qu'à la rémunération de leurs apports.
 
 Les sociétés ne sont constituées qu'après versement du quart du capital souscrit. Par dérogation aux dispositions de l'article 12 de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, la libération du surplus se fait par appels successifs des quarts non encore versés au fur et à mesure de l'accroissement des opérations de cautionnement mutuel de manière à permettre à la société de proportionner le montant du fonds social au volume des opérations traitées.

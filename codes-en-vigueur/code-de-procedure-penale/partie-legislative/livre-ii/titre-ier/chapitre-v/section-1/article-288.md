@@ -6,7 +6,7 @@ Le greffier procède à l'appel des jurés inscrits sur la liste établie confor
 
 La cour statue sur le cas des jurés absents.
 
-Tout juré qui, sans motif légitime, n'a pas déféré à la citation qui lui a été notifiée, est condamné par la cour à une amende, laquelle est, pour la première fois, de 100 F, la cour ayant la faculté de la réduire de moitié, pour la seconde fois, de 200 F et, pour la troisième fois, de 500 F.
+Tout juré qui, sans motif légitime, n'a pas déféré à la citation qui lui a été notifiée, est condamné par la cour à une amende, laquelle est, pour la première fois, de 15 euros, la cour ayant la faculté de la réduire de moitié, pour la seconde fois, de 30 euros et, pour la troisième fois, de 75 euros.
 
 Cette dernière fois, il est, de plus, déclaré incapable d'exercer à l'avenir les fonctions de juré.
 

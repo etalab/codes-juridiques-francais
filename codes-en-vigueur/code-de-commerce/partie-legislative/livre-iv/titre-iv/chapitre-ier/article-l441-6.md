@@ -10,7 +10,7 @@ La communication prévue au premier alinéa s'effectue par tout moyen conforme a
 
 Les conditions dans lesquelles un distributeur ou un prestataire de services se fait rémunérer par ses fournisseurs, en contrepartie de services spécifiques, doivent faire l'objet d'un contrat écrit en double exemplaire détenu par chacune des deux parties.
 
-Toute infraction aux dispositions visées ci-dessus est punie d'une amende de 100000 F.
+Toute infraction aux dispositions visées ci-dessus est punie d'une amende de 15000 euros.
 
 Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal.
 

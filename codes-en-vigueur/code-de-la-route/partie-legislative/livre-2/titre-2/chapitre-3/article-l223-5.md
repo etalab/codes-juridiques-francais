@@ -4,7 +4,7 @@ I. - En cas de retrait de la totalité des points, l'intéressé reçoit de l'au
 
 II. - Il ne peut solliciter un nouveau permis de conduire avant l'expiration d'un délai de six mois à compter de la date de remise de son permis au préfet et sous réserve d'être reconnu apte après un examen médical et psychotechnique effectué à ses frais.
 
-III. - Le fait de refuser de se soumettre à l'injonction prévue au premier alinéa du présent article est puni de deux ans d'emprisonnement et de 30 000 F d'amende.
+III. - Le fait de refuser de se soumettre à l'injonction prévue au premier alinéa du présent article est puni de deux ans d'emprisonnement et de 4 500 euros d'amende.
 
 IV. - Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
 

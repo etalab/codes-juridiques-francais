@@ -6,7 +6,7 @@ Dans le cadre de ces programmes, l'Etat peut financer au titre du fonds pour l'i
 
 1° Une aide à la transmission de l'exploitation agricole. Elle est attribuée, à sa demande, au chef d'exploitation, dont la succession familiale n'est pas assurée, qui transmet en priorité tout ou partie de son exploitation à un ou plusieurs jeunes agriculteurs qui s'installent dans les conditions d'octroi des aides à l'installation mentionnées à l'article R. 343-3. Cette aide comporte une partie forfaitaire et une partie qui varie selon la destination de chaque hectare de terre libéré et cédé à un jeune agriculteur.
 
-Les taux du forfait et de l'aide à l'hectare sont fixés par le préfet après avis de la commission départementale d'orientation de l'agriculture de façon que l'aide globale n'excède pas le plafond de 70 000 F dans le cas général et de 75 000 F en zone de montagne.
+Les taux du forfait et de l'aide à l'hectare sont fixés par le préfet après avis de la commission départementale d'orientation de l'agriculture de façon que l'aide globale n'excède pas le plafond de 10 700 euros dans le cas général et de 11 500 euros en zone de montagne.
 
 a) Pour prétendre à l'aide à la transmission de l'exploitation agricole, le chef d'exploitation doit remplir les conditions suivantes :
 

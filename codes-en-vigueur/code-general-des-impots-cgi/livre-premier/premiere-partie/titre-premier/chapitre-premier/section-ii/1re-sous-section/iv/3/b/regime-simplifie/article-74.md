@@ -8,6 +8,6 @@ b. Les stocks sont évalués au prix de revient ou au cours du jour à la clôtu
 
 c. les frais relatifs aux carburants consommés lors des déplacements professionnels de l'exploitant peuvent être enregistrés forfaitairement d'après un barème qui est publié chaque année ;
 
-d. la justification des frais généraux accessoires payés en espèces n'est pas exigée dans la limite de 1 p. 1 000 du chiffre d'affaires réalisé et d'un minimum de 1 000 F.
+d. la justification des frais généraux accessoires payés en espèces n'est pas exigée dans la limite de 1 p. 1 000 du chiffre d'affaires réalisé et d'un minimum de 152 euros.
 
 Un décret précise les modalités d'application des a, c et d du premier alinéa, notamment en cas de changement de mode de comptabilisation en vue d'éviter qu'une même charge ne puisse être déduite des résultats de deux exercices.

@@ -6,7 +6,7 @@ Les officiers de police judiciaire peuvent également faire procéder sur tout c
 
 Les résultats de ce ces analyses sont transmis au procureur de la République du lieu de l'accident.
 
-Le fait de refuser de se soumettre aux analyses et examens médicaux, cliniques et biologiques prévus par le présent article est puni de deux ans d'emprisonnement et de 30 000 F d'amende.
+Le fait de refuser de se soumettre aux analyses et examens médicaux, cliniques et biologiques prévus par le présent article est puni de deux ans d'emprisonnement et de 4 500 euros d'amende.
 
 Toute personne coupable de ce délit encourt également la peine complémentaire de suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité professionnelle.
 

@@ -8,6 +8,6 @@ Sont interdites :
 
 - toute division par appartements d'immeuble de grande hauteur à usage d'habitation ou à usage professionnel ou commercial et d'habitation dont le contrôle exercé par la commission de sécurité a donné lieu à un avis défavorable de l'autorité compétente ou à des prescriptions qui n'ont pas été exécutées.
 
-Sont punies d'un emprisonnement de deux ans et d'une amende de 500 000 F les personnes qui mettent en vente, en location ou à la disposition d'autrui des locaux destinés à l'habitation et provenant d'une division réalisée en méconnaissance des interdictions définies au présent article.
+Sont punies d'un emprisonnement de deux ans et d'une amende de 75 000 euros les personnes qui mettent en vente, en location ou à la disposition d'autrui des locaux destinés à l'habitation et provenant d'une division réalisée en méconnaissance des interdictions définies au présent article.
 
 Les personnes morales peuvent être déclarées responsables pénalement des infractions définies ci-dessus dans les conditions prévues à l'article 121-2 du code pénal. Elles encourent la même peine d'amende définie ci-dessus et les peines mentionnées aux 2°, 4° et 9° de l'article 131-39 du même code.

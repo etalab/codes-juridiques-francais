@@ -1,0 +1,5 @@
+# Article R*554-3
+
+En cas de difficultés passagères d'approvisionnement en matériels forestiers de reproduction satisfaisant aux exigences du présent titre et insurmontables à l'intérieur de la Communauté économique européenne, le ministre de l'agriculture peut autoriser, après accord de la commission de la Communauté économique européenne, la commercialisation pour une période déterminée des matériels forestiers de reproduction des espèces concernées qui ne sont plus alors soumis qu'à des exigences réduites précisées par l'autorisation ministérielle.
+
+Sauf décision ministérielle contraire, les dispositions de l'article R. 553-4 sont applicables aux matériels forestiers de reproduction commercialisés dans ces conditions. Toutefois, lorsque ces matériels ne proviennent pas de matériels de base admis officiellement, l'indication de la région de provenance est remplacée par celle de la provenance telle qu'elle est définie à l'article R. 551-2 et par celle de l'altitude du lieu de récolte.

@@ -1,7 +1,9 @@
 # Article L232-25
 
-Sont déterminées par décret en Conseil d'Etat :
+L'action du bénéficiaire pour le versement de l'allocation personnalisée d'autonomie se prescrit par deux ans. Ledit bénéficiaire doit apporter la preuve de l'effectivité de l'aide qu'il a reçue ou des frais qu'il a dû acquitter pour que son action soit recevable.
 
-1° Les modalités d'évaluation des revenus et de la valeur en capital des biens non productifs de revenu selon les dispositions de l'article L. 232-9 ;
+Cette prescription est également applicable, sauf en cas de fraude ou de fausse déclaration, à l'action intentée par le président du conseil général ou le représentant de l'Etat, pour la mise en recouvrement des sommes indûment versées.
 
-2° Les conditions dans lesquelles est mise en oeuvre la procédure de suspension de la prestation prévue à l'article L. 232-22.
+Un décret précise les montants minimaux en deçà desquels l'allocation n'est pas versée ou recouvrée.
+
+L'allocation personnalisée d'autonomie est incessible, en tant qu'elle est versée directement au bénéficiaire, et insaisissable.

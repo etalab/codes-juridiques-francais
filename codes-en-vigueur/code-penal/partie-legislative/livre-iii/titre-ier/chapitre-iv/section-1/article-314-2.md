@@ -1,6 +1,6 @@
 # Article 314-2
 
-Les peines sont portées à sept ans d'emprisonnement et à 5 000 000 F d'amende lorsque l'abus de confiance est réalisé :
+Les peines sont portées à sept ans d'emprisonnement et à 750000 euros d'amende lorsque l'abus de confiance est réalisé :
 
 1° Par une personne qui fait appel au public afin d'obtenir la remise de fonds ou de valeurs soit pour son propre compte, soit comme dirigeant ou préposé de droit ou de fait d'une entreprise industrielle ou commerciale ;
 

@@ -1,7 +1,7 @@
 # Titre II : Dispositions applicables à Mayotte
 
 - [Chapitre Ier : Dispositions générales](chapitre-ier)
-- [Chapitre II : Des enquêtes.](chapitre-ii)
+- [Chapitre II : Des enquêtes](chapitre-ii)
 - [Chapitre III : Des juridictions d'instruction](chapitre-iii)
 - [Chapitre IV : De la cour criminelle](chapitre-iv)
 - [Chapitre V : Du jugement des délits](chapitre-v)
