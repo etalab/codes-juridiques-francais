@@ -6,3 +6,4 @@
 - [Article 258 A](article-258-a.md)
 - [Article 258 B](article-258-b.md)
 - [Article 259](article-259.md)
+- [Article 259 C](article-259-c.md)
