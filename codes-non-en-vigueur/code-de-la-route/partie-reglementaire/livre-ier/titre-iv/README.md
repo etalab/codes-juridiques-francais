@@ -12,4 +12,5 @@
 - [Paragraphe X : RÉCEPTION.](paragraphe-x)
 - [PARAGRAPHE XI : IMMATRICULATION.](paragraphe-xi)
 - [Paragraphe 12 : PERMIS DE CONDUIRE.](paragraphe-12)
+- [PARAGRAPHE XII : PERMIS DE CONDUIRE.](paragraphe-xii)
 - [PARAGRAPHE XIII : CONTRÔLE ROUTIER.](paragraphe-xiii)
