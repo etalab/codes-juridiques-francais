@@ -8,7 +8,7 @@ Les dispositions du présent article s'appliquent aux plus-values, autres que ce
 
 1° L'intégralité de son actif à deux ou plusieurs sociétés constituées à cette fin sous l'une de ces formes, à condition :
 
-a. Que les sociétés bénéficiaires des apports soient toutes de nationalité française ; toutefois, pour l'application de ces dispositions, sont assimilées aux sociétés de nationalité française les sociétés constituées dans les termes de la loi française et ayant leur siège social dans les départements d'outre-mer, en Polynésie française, à Saint-Pierre-et-Miquelon, aux îles Wallis et Futuna et dans les Terres australes et antarctiques françaises.
+a. Que les sociétés bénéficiaires des apports soient toutes de nationalité française ; toutefois, pour l'application de ces dispositions, sont assimilées aux sociétés de nationalité française les sociétés constituées dans les termes de la loi française et ayant leur siège social dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon, à Mayotte, en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises.
 
 b. Que les apports résultent de conventions prenant effet à la même date pour les différentes sociétés qui en sont bénéficiaires et entraînent, dès leur réalisation, la dissolution immédiate de la société apporteuse.
 
@@ -16,16 +16,16 @@ b. Que les apports résultent de conventions prenant effet à la même date pour
 
 a. La société bénéficiaire de l'apport soit de nationalité française au sens du a du 1° ;
 
-b. L'apport ait été préalablement agréé par le ministre de l'économie et des finances.
+b.L'apport ait été préalablement agréé par le ministre de l'économie et des finances.
 
-3. L'application des dispositions du présent article est subordonnée à l'obligation, constatée dans l'acte de fusion ou d'apport :
+3.L'application des dispositions du présent article est subordonnée à l'obligation, constatée dans l'acte de fusion ou d'apport :
 
 a. De calculer, en ce qui concerne les éléments autres que les marchandises comprises dans l'apport, les amortissements annuels à prélever sur les bénéfices ainsi que les plus-values ultérieures résultant de la réalisation de ces éléments d'après le prix de revient qu'ils comportaient pour les sociétés fusionnées ou pour la société apporteuse, déduction faite des amortissements déjà réalisés par elles ;
 
-b. D'inscrire immédiatement au passif, en contre-partie des éléments d'actif pris en charge, des provisions pour renouvellement de l'outillage et du matériel égales à celles figurant au moment de la fusion ou de l'apport dans les écritures des sociétés fusionnées ou de la société apporteuse et qui étaient afférentes aux éléments apportés.
+b.D'inscrire immédiatement au passif, en contre-partie des éléments d'actif pris en charge, des provisions pour renouvellement de l'outillage et du matériel égales à celles figurant au moment de la fusion ou de l'apport dans les écritures des sociétés fusionnées ou de la société apporteuse et qui étaient afférentes aux éléments apportés.
 
 Cette obligation incombe, dans le cas visé au 1, à la société absorbante ou nouvelle et, dans les cas visés au 2, soit respectivement aux sociétés bénéficiaires des apports proportionnellement à la valeur des éléments d'actif qui leur sont attribués, soit à la société bénéficiaire de l'apport partiel.
 
-L'obligation prévue au a n'est pas applicable aux fusions ou apports visés au 1 et au 2° du 2 qui ont été réalisés avant le 1er janvier 1950, sous réserve qu'ils aient reçu l'agrément du ministère des finances après avis du commissariat général du plan d'équipement et de la productivité.
+L'obligation prévue au a n'est pas applicable aux fusions ou apports visés au 1 et au 2° du 2 qui ont été réalisés avant le 1er janvier 1950, sous réserve qu'ils aient reçu l'agrément du ministère des finances après avis du commissariat général du plan d'équipement et de la productivité
 
 4. Les dispositions du présent article sont applicables aux plus-values visées au I de l'article 238 octies.
