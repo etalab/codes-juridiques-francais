@@ -16,7 +16,7 @@ Dans ce cas, l'autorité compétente est tenue de consulter par écrit au moins 
 
 4° Pour l'exécution des travaux, fournitures ou services, dans les cas d'urgence impérieuse motivée par des circonstances imprévisibles ne permettant pas de respecter les délais prévus aux sections 1 et 2 du présent chapitre ;
 
-5° Pour les travaux, fournitures ou services décidés comme étant secrets ou dont l'exécution doit s'accompagner de mesures particulières de sécurité lorsque la protection de l'intérêt supérieur de l'Etat l'exige ;
+5° Pour les travaux, fournitures ou services déclarés secrets, ou dont la livraison ou l'exécution doit s'accompagner de mesures particulières de sécurité, ou lorsque la protection des intérêts essentiels de l'Etat l'exige ;
 
 6° Pour les travaux, fournitures ou services qui intéressent les besoins de la défense lorsque, en plus de la satisfaction des besoins de l'administration, il importe :
 
