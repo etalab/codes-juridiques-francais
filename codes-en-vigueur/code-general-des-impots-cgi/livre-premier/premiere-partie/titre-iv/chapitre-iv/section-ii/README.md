@@ -6,6 +6,7 @@
 - [12° : Parcs nationaux](12)
 - [13° : Terrains communaux](13)
 - [14° : Matelots et pêcheurs de la commune de Fort-Mardyck](14)
+- [15° : Réquisitions](15)
 - [16° : Nationalisation de l'électricité dans les départements d'outre-mer](16)
 - [2° : Etablissements d'utilité publique](2)
 - [3° : Comités professionnels de développement économique](3)
