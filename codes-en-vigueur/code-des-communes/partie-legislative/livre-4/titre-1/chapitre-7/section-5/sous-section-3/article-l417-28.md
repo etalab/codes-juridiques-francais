@@ -1,0 +1,3 @@
+# Article L417-28
+
+Le service de médecine professionnelle a pour mission d'éviter toute altération de la santé des agents du fait de leur travail, notamment en surveillant les conditions d'hygiène du travail, les risques de contagion et l'état de santé des agents. A cet effet, les agents sont obligatoirement soumis à un examen médical au moment de l'embauche et, au minimum, à un examen médical annuel. En outre, le service peut être consulté, à la demande du maire, du président de l'établissement intéressé ou du président du syndicat, sur les mesures de nature à améliorer l'hygiène générale des locaux, la prévention des accidents et l'éducation sanitaire dans le cadre de la commune, de l'établissement ou du syndicat.
