@@ -3,6 +3,7 @@
 - [Section 1 : Vaccination par le B.C.G. et dispositions pénales.](section-1)
 - [Section 2 : Dispensaires antituberculeux](section-2)
 - [Section 3 : Placements familiaux surveillés.](section-3)
+- [Article L215](article-l215.md)
 - [Article L216](article-l216.md)
 - [Article L217](article-l217.md)
 - [Article L218](article-l218.md)
