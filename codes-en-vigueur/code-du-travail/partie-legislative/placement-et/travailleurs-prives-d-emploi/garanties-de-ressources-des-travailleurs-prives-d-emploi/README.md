@@ -1,6 +1,5 @@
 # GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI .
 
-- [DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS .](dispositions-particulieres-a)
 - [DISPOSITIONS GENERALES](dispositions-generales)
 - [Article L351-19](article-l351-19.md)
 - [Article L351-20](article-l351-20.md)
