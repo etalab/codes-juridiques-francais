@@ -1,10 +1,8 @@
 # Article R34
 
-La commission de propagande reçoit du commissaire de la République les enveloppes nécessaires à l'expédition des circulaires et bulletins de vote et fait préparer leur libellé.
+La commission de propagande reçoit du préfet les enveloppes nécessaires à l'expédition des circulaires et bulletins de vote et fait préparer leur libellé.
 
 Elle est chargée :
-
-- de dresser la liste des imprimeurs agréés par elle pour procéder à l'impression des documents électoraux;
 
 - d'adresser, au plus tard le mercredi précédant le premier tour de scrutin et, en cas de ballottage, le jeudi précédant le second tour, à tous les électeurs de la circonscription, dans une même enveloppe fermée qui sera acheminée en franchise, une circulaire et un bulletin de vote de chaque candidat ou de chaque liste;
 
