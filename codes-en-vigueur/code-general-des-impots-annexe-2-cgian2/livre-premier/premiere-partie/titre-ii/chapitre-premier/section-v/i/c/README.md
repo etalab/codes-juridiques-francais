@@ -1,7 +1,5 @@
 # C : Remboursement forfaitaire
 
-- [Article 261](article-261.md)
-- [Article 262](article-262.md)
 - [Article 263](article-263.md)
 - [Article 264](article-264.md)
 - [Article 265](article-265.md)
