@@ -2,8 +2,10 @@
 
 - [Article R*131-1](article-r-131-1.md)
 - [Article R*131-2](article-r-131-2.md)
+- [Article R*131-3](article-r-131-3.md)
 - [Article R*131-4](article-r-131-4.md)
 - [Article R*131-5](article-r-131-5.md)
+- [Article R*131-6](article-r-131-6.md)
 - [Article R*131-7](article-r-131-7.md)
 - [Article R*131-8](article-r-131-8.md)
 - [Article R*131-9](article-r-131-9.md)
