@@ -24,6 +24,6 @@ Les périodes de séjour antérieures à l'ouverture du rôle d'équipage ou pos
 
 III - Par application de l'article L. 12-6° :
 
-Les services définis audit article, dans la limite de cinq ans.
+Les services définis audit article, dans la limite de quinze ans.
 
 IV - Par application de l'article L. 12 (9°), les périodes définies par cette disposition législative accomplies avant que le marin ait atteint l'âge de cinquante-cinq ans.
