@@ -7,5 +7,4 @@
 - [Section 5 : Fédérations interdépartementales des chasseurs](section-5)
 - [Section 6 : Fédérations régionales des chasseurs](section-6)
 - [Section 7 : Fédération nationale des chasseurs](section-7)
-- [Section 8 : Contrôle économique et financier de l'Etat](section-8)
 - [Section 9 : Observatoire national de la faune sauvage et de ses habitats](section-9)
