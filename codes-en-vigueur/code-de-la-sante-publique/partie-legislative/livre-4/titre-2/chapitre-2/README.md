@@ -10,7 +10,6 @@
 - [Article L479](article-l479.md)
 - [Article L480](article-l480.md)
 - [Article L481](article-l481.md)
-- [Article L482](article-l482.md)
 - [Article L482-1](article-l482-1.md)
 - [Article L482-2](article-l482-2.md)
 - [Article L482-3](article-l482-3.md)
