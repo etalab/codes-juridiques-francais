@@ -1,4 +1,4 @@
-# Section 1 : Attributions, composition et fonctionnement des comités régionaux de la formation professionnelle, de la promotion sociale et de l'emploi
+# Section 1 : Régions d'outre-mer
 
 - [Article D910-17](article-d910-17.md)
 - [Article D910-18](article-d910-18.md)

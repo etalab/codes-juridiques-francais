@@ -1,3 +1,4 @@
-# Chapitre II : Dispositions spéciales aux régions d'outre-mer
+# Chapitre II : Dispositions spéciales aux régions d'outre-mer et à Saint-Pierre-et-Miquelon
 
-- [Section 1 : Attributions, composition et fonctionnement des comités régionaux de la formation professionnelle, de la promotion sociale et de l'emploi](section-1)
+- [Section 1 : Régions d'outre-mer](section-1)
+- [Section 2 : Saint-Pierre-et-Miquelon](section-2)
