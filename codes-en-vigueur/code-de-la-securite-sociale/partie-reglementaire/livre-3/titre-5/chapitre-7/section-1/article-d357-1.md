@@ -11,99 +11,191 @@ Pour l'application des deuxième et troisième alinéas ci-dessus, les cotisatio
 Code local des assurances sociales
 
 <table>
+<tbody>
 <tr>
-<td> :-------------------------------:</td>
+<td width="215">
+<p align="center">Classes</p>
+</td>
+<td width="163">
+<p align="center">Montant à prendre en compte (par semaine)</p>
+</td>
 </tr>
 <tr>
-<td> : CLASSES :  MONTANT A PRENDRE  :</td>
+<td width="215">
+<br/>
+</td>
+<td width="163">
+<p align="center">Francs (anciens)</p>
+</td>
 </tr>
 <tr>
-<td> :         :     EN COMPTE       :</td>
+<td valign="top" width="215">
+<p align="center">I</p>
+</td>
+<td valign="top" width="163">
+<p align="center">6</p>
+</td>
 </tr>
 <tr>
-<td> :         :   (par semaine)     :</td>
+<td valign="top" width="215">
+<p align="center">II</p>
+</td>
+<td valign="top" width="163">
+<p align="center">10</p>
+</td>
 </tr>
 <tr>
-<td> :-------------------------------:</td>
+<td valign="top" width="215">
+<p align="center">III</p>
+</td>
+<td valign="top" width="163">
+<p align="center">14</p>
+</td>
 </tr>
 <tr>
-<td> :         :   Francs (anciens)  :</td>
+<td valign="top" width="215">
+<p align="center">IV</p>
+</td>
+<td valign="top" width="163">
+<p align="center">18</p>
+</td>
 </tr>
 <tr>
-<td> :   I     :         6           :</td>
+<td valign="top" width="215">
+<p align="center">V</p>
+</td>
+<td valign="top" width="163">
+<p align="center">22</p>
+</td>
 </tr>
 <tr>
-<td> :   II    :        10           :</td>
+<td valign="top" width="215">
+<p align="center">VI</p>
+</td>
+<td valign="top" width="163">
+<p align="center">26</p>
+</td>
 </tr>
 <tr>
-<td> :   III   :        14           :</td>
+<td valign="top" width="215">
+<p align="center">VII</p>
+</td>
+<td valign="top" width="163">
+<p align="center">30</p>
+</td>
 </tr>
-<tr>
-<td> :   IV    :        18           :</td>
-</tr>
-<tr>
-<td> :   V     :        22           :</td>
-</tr>
-<tr>
-<td> :   VI    :        26           :</td>
-</tr>
-<tr>
-<td> :   VII   :        30           :</td>
-</tr>
-<tr>
-<td> :                               :</td>
-</tr>
+</tbody>
 </table>
 
-Loi du 20 décembre 1911 :-------------------------------:
+Loi du 20 décembre 1911
 
 <table>
+<tbody>
 <tr>
-<td> :      CLASSES     :   MONTANT  :</td>
+<td colspan="2">
+<p align="center">Classes</p>
+</td>
+<td rowspan="2">
+<p align="center">Montant à prendre en compte (par mois)</p>
+</td>
 </tr>
 <tr>
-<td> :------------------:  A PRENDRE :</td>
+<td>
+<p align="center">Avant le 1er janvier 1941</p>
+</td>
+<td>
+<p align="center">Depuis le 1er janvier 1941</p>
+</td>
 </tr>
 <tr>
-<td> : Avant   : Depuis :  EN COMPTE :</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">Francs (anciens)</p>
+</td>
 </tr>
 <tr>
-<td> :  le     :   le   : (par mois) :</td>
+<td>
+<p align="center">A/B</p>
+</td>
+<td>
+<p align="center">A</p>
+</td>
+<td>
+<p align="center">40</p>
+</td>
 </tr>
 <tr>
-<td> : 1/1/41  : 1/1/41 :            :</td>
+<td>
+<p align="center">C/D</p>
+</td>
+<td>
+<p align="center">B</p>
+</td>
+<td>
+<p align="center">70</p>
+</td>
 </tr>
 <tr>
-<td> :-------------------------------:</td>
+<td>
+<p align="center">E/F</p>
+</td>
+<td>
+<p align="center">C</p>
+</td>
+<td>
+<p align="center">110</p>
+</td>
 </tr>
 <tr>
-<td> :         :        :    Francs  :</td>
+<td>
+<p align="center">G/H</p>
+</td>
+<td>
+<p align="center">D</p>
+</td>
+<td>
+<p align="center">150</p>
+</td>
 </tr>
 <tr>
-<td> :         :        :  (anciens) :</td>
+<td>
+<p align="center">I/K</p>
+</td>
+<td>
+<p align="center">E</p>
+</td>
+<td>
+<p align="center">200</p>
+</td>
 </tr>
 <tr>
-<td> : A/B     :   A    :     40     :</td>
+<td>
+<p align="center">L/M</p>
+</td>
+<td>
+<p align="center">F</p>
+</td>
+<td>
+<p align="center">250</p>
+</td>
 </tr>
 <tr>
-<td> : C/D     :   B    :     70     :</td>
+<td>
+<p align="center">N</p>
+</td>
+<td>
+<p align="center">G</p>
+</td>
+<td>
+<p align="center">300</p>
+</td>
 </tr>
-<tr>
-<td> : E/F     :   C    :    110     :</td>
-</tr>
-<tr>
-<td> : G/H     :   D    :    150     :</td>
-</tr>
-<tr>
-<td> : I/K     :   E    :    200     :</td>
-</tr>
-<tr>
-<td> : L/M     :   F    :    250     :</td>
-</tr>
-<tr>
-<td> : N       :   G    :    300     :</td>
-</tr>
-<tr>
-<td> :                               :</td>
-</tr>
+</tbody>
 </table>
+
+Pour l'application des deuxième et troisième alinéas ci-dessus, le salaire servant de base au calcul de la pension est, pour les salaires perçus postérieurement au 31 janvier 1991, le salaire correspondant aux cotisations versées dans la limite du plafond mentionné à l'article L. 241-3.
