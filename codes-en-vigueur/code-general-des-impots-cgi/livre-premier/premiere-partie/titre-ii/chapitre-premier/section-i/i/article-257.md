@@ -36,7 +36,9 @@ Toutefois, la livraison à soi-même d'immeubles affectés ou destinés à être
 
 d'immeubles construits par des sociétés dont les parts ou actions assurent en droit ou en fait l'attribution en propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble ;
 
-de logements sociaux à usage locatif mentionnés aux 3° et 5° de l'article L. 351-2 du code de la construction et de l'habitation financés au moyen d'un prêt prévu à l'article R. 331-1 du même code ou d'une subvention de l'Agence nationale pour la rénovation urbaine qui bénéficient de la décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du même code à compter du 1er octobre 1996, et dont l'ouverture de chantier est intervenue à compter de cette date.
+de logements sociaux à usage locatif mentionnés aux 3° et 5° de l'article L. 351-2 du code de la construction et de l'habitation financés au moyen d'un prêt prévu à l'article R. 331-1 du même code ou d'une subvention de l'Agence nationale pour la rénovation urbaine qui bénéficient de la décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du même code à compter du 1er octobre 1996, et dont l'ouverture de chantier est intervenue à compter de cette date ;
+
+de logements destinés à être occupés par des titulaires de contrats de location-accession conclus dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière, qui font l'objet, dans des conditions fixées par décret, d'une convention et bénéficient d'une décision d'agrément prise par le représentant de l'Etat dans le département.
 
 2. Les dispositions qui précèdent ne sont pas applicables :
 
