@@ -7,5 +7,6 @@
 - [Chapitre IV bis : Déclarations de candidature](chapitre-iv-bis)
 - [Chapitre V : Propagande](chapitre-v)
 - [Chapitre VI : Opérations préparatoires au scrutin](chapitre-vi)
+- [Chapitre VIII : Remplacement des conseillers généraux](chapitre-viii)
 - [Chapitre IX : Contentieux](chapitre-ix)
 - [Chapitre X : Conditions d'application](chapitre-x)

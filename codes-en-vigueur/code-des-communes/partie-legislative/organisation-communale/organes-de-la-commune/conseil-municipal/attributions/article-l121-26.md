@@ -2,7 +2,7 @@
 
 Le conseil municipal règle par ses délibérations les affaires de la commune.
 
-Il donne son avis toutes les fois que cet avis est requis par les lois et règlements, ou qu'il est demandé par l'administration supérieure.
+Il donne son avis toutes les fois que cet avis est requis par les lois et règlements, ou qu'il est demandé par le représentant de l'Etat dans le département [*commissaire de la République*].
 
 Il réclame, s'il y a lieu, contre le contingent assigné à la commune dans l'établissement des impôts de répartition.
 
