@@ -1,4 +1,4 @@
-# Livre II : Réglementation du travail
+# Livre II : REGLEMENT DU TRAVAIL
 
 - [Chapitre préliminaire](chapitre-preliminaire)
 - [Titre Ier : Conditions du travail](titre-ier)

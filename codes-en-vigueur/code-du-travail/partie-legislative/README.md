@@ -3,7 +3,7 @@
 - [FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE .](formation-professionnelle-continue-dans-le-cadre-de-l-education-permanente)
 - [LIVRE 1 : CONVENTIONS RELATIVES AU TRAVAIL](livre-1)
 - [Livre Ier : Conventions relatives au travail](livre-ier)
-- [Livre II : Réglementation du travail](livre-ii)
+- [Livre II : REGLEMENT DU TRAVAIL](livre-ii)
 - [Livre 3 : PLACEMENT ET EMPLOI](livre-3)
 - [Livre III : EMPLOI](livre-iii)
 - [Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés](livre-iv)
