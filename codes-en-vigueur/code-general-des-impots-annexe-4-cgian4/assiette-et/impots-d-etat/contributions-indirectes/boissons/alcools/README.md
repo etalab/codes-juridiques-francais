@@ -6,6 +6,5 @@
 - [Article 51 D](article-51-d.md)
 - [Article 51 sexies](article-51-sexies.md)
 - [Article 51 E](article-51-e.md)
-- [Article 51 F](article-51-f.md)
 - [Article 52 bis](article-52-bis.md)
 - [Article 53](article-53.md)
