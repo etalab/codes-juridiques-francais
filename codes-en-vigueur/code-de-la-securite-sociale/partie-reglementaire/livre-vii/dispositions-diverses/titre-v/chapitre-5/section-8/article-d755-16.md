@@ -2,9 +2,9 @@
 
 Les ressources mentionnées à l'article D. 755-15 s'entendent du revenu net imposable de l'année civile antérieure à l'exercice au cours duquel le droit à l'allocation est ouvert ou maintenu, abstraction faite des déductions opérées en vertu de l'article 156-1 du code général des impôts au titre des reports des déficits constatés au cours d'une année antérieure à celle qui est prise en considération.
 
-Les ressources ci-dessus définies font l'objet d'un abattement forfaitaire de 3.600 F [*montant*] :
+Les ressources ci-dessus définies font l'objet d'un abattement forfaitaire de 3.686 F [*montant*] :
 
-1°) lorsque les deux conjoints ont exercé une activité professionnelle productrice de revenus au cours de l'année civile de référence et que chacun des deux revenus correspondants a été au moins égal à 9.296 F ;
+1°) lorsque les deux conjoints ont exercé une activité professionnelle productrice de revenus au cours de l'année civile de référence et que chacun des deux revenus correspondants a été au moins égal à 9.852 F ;
 
 2°) lorsqu'une personne seule assume la charge d'un ou de plusieurs enfants ou d'une ou plusieurs personnes au sens de l'article L. 542-1 du présent code.
 
