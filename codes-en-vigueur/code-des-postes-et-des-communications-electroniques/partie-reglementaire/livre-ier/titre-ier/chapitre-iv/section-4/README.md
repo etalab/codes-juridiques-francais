@@ -4,6 +4,7 @@
 - [Article D19](article-d19.md)
 - [Article D19-1](article-d19-1.md)
 - [Article D19-2](article-d19-2.md)
+- [Article D19-3](article-d19-3.md)
 - [Article D20](article-d20.md)
 - [Article D22](article-d22.md)
 - [Article D23](article-d23.md)
