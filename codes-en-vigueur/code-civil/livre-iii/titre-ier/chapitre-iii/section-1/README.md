@@ -1,5 +1,6 @@
 # Section 1 : Dispositions générales.
 
+- [Article 731](article-731.md)
 - [Article 732](article-732.md)
 - [Article 734](article-734.md)
 - [Article 735](article-735.md)
