@@ -2,3 +2,4 @@
 
 - [Article A422-1](article-a422-1.md)
 - [Article A422-1-1](article-a422-1-1.md)
+- [Article A422-1-2](article-a422-1-2.md)
