@@ -6,4 +6,4 @@ Le reclassement social est réputé possible quand l'invalidité de l'intéress�
 
 Cette allocation a pour effet de porter le montant global des ressources de ces pensionnés à des taux dont le plus élevé ne pourra excéder celui de la pension à l'indice 1500.
 
-Un décret, pris dans la forme du règlement d'administration publique, fixera les conditions d'application du présent article.
+Un décret, pris dans la forme du décret en Conseil d'Etat, fixera les conditions d'application du présent article.

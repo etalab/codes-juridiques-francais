@@ -4,4 +4,4 @@ La caisse nationale d'épargne et les caisses de crédit municipal sont autoris�
 
 Les dispositions de l'article L. 56 ne sont pas opposables à ces établissements pour le remboursement des avances ainsi faites.
 
-Le mode suivant lequel le Trésor couvre la caisse nationale d'épargne et les caisses de crédit municipal de leurs avances est déterminé par règlement d'administration publique.
+Le mode suivant lequel le Trésor couvre la caisse nationale d'épargne et les caisses de crédit municipal de leurs avances est déterminé par décret en Conseil d'Etat.
