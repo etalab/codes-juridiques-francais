@@ -5,3 +5,4 @@
 - [Titre III : Dispositions particulières au tribunal de commerce.](titre-iii)
 - [Titre V : Dispositions particulières au tribunal paritaire de baux ruraux.](titre-v)
 - [Titre VI : Dispositions particulières à la cour d'appel.](titre-vi)
+- [Titre VII : Dispositions particulières à la Cour de cassation.](titre-vii)
