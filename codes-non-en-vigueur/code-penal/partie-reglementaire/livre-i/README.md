@@ -1,6 +1,7 @@
 # Livre I : Des peines en matière criminelle et correctionnelle, et de leurs effets
 
 - [Chapitre I : Des peines en matière criminelle.](chapitre-i)
+- [Chapitre II : Des peines en matière correctionnelle.](chapitre-ii)
 - [Chapitre III : Des peines et des autres condamnations qui peuvent ^etre prononcées pour crimes ou délits.](chapitre-iii)
 - [Chapitre IV : Des peines de la récidive pour crimes et délits.](chapitre-iv)
 - [Article 6](article-6.md)
