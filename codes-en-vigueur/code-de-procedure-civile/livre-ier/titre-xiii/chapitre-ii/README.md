@@ -1,5 +1,6 @@
 # Chapitre II : Le ministère public partie jointe.
 
+- [Article 424](article-424.md)
 - [Article 425](article-425.md)
 - [Article 426](article-426.md)
 - [Article 427](article-427.md)
