@@ -5,4 +5,5 @@
 - [Chapitre VIII : Taxe forfaitaire annuelle sur les services de communication audiovisuelle](chapitre-viii)
 - [Chapitre IX : Redevance sanitaire d'abattage](chapitre-ix)
 - [Chapitre X : Redevance sanitaire de découpage](chapitre-x)
+- [Chapitre XI : Taxe forfaitaire sur les livraisons de postes émetteurs-récepteurs fonctionnant sur les canaux banalisés](chapitre-xi)
 - [Chapitre premier : Taxe sur la valeur ajoutée](chapitre-premier)
