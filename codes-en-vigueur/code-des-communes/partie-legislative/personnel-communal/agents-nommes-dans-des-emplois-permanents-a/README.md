@@ -1,7 +1,6 @@
 # Agents nommés dans des emplois permanents à temps complet
 
 - [Positions .](positions)
-- [PRESTATIONS FAMILIALES .](prestations-familiales)
 - [RECRUTEMENT .](recrutement)
 - [CENTRE DE FORMATION DES PERSONNELS COMMUNAUX](centre-de-formation-des-personnels-communaux)
 - [Cessation de fonctions](cessation-de-fonctions)

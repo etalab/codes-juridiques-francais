@@ -7,4 +7,3 @@
 - [ADMINISTRATION DE LA COMMUNE](administration-de-la-commune)
 - [Administration et services communaux](administration-et)
 - [Personnel communal](personnel-communal)
-- [SERVICES COMMUNAUX](services-communaux)
