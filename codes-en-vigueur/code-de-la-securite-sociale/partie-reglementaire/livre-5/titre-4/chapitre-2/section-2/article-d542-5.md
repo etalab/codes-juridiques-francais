@@ -8,7 +8,11 @@ Dans laquelle :
 
 2°) - K représente le coefficient de prise en charge déterminé par la formule :
 
-K = 0,9 - R101 184 x N
+K = 0,9 - 102 702 x N
+
+K = 0,9 - R
+
+102 702 multiplié par N
 
 Dans laquelle :
 
@@ -26,17 +30,17 @@ Soit la somme prise en compte, dont il est fait état aux articles D. 542-25 et 
 
 4°) - C représente une majoration forfaitaire au titre des charges ;
 
-5°) - Lo représente le loyer minimum. Ce loyer minimum est la part de loyer L tel que défini ci-dessus qui doit rester à la charge de l'allocataire compte tenu des ressources du foyer définies aux articles D. 542-8 à D. 542-11 et de la composition de la famille. Il est égal à un pourcentage desdites ressources déterminé comme suit :
+5° Lo représente le loyer minimum. Ce loyer minimum est la part de loyer L tel que défini ci-dessus qui doit rester à la charge de l'allocataire, compte tenu des ressources du foyer définies aux articles D. 542-8 à D. 542-11 et de la composition de la famille. Il est égal à un pourcentage desdites ressources déterminé comme suit :
 
-0 p. 100 pour la tranche de ressources inférieure ou égale à 6 722 F ;
+0 p. 100 pour la tranche de ressources inférieure ou égale à 6 823 F ;
 
-3 p. 100 pour la tranche de ressources comprise entre 6 722 F et 9 671 F ;
+3 p. 100 pour la tranche de ressources comprise entre 6 823 F et 9 816 F ;
 
-26 p. 100 pour la tranche de ressources comprise entre 9 671 F et 12 423 F ;
+26 p. 100 pour la tranche de ressources comprise entre 9 816 F et 12 609 F ;
 
-29 p. 100 pour la tranche de ressources comprise entre 12 423 F et 19 344 F ;
+29 p. 100 pour la tranche de ressources comprise entre 12 609 F et 19 634 F ;
 
-41 p. 100 pour la tranche de ressources supérieures à 19 344 F.
+41 p. 100 pour la tranche de ressources supérieure à 19 634 F.
 
 Les limites inférieures et supérieures de chacune de ces tranches sont affectées des coefficients (ou nombre de parts) ci-après :
 
@@ -52,6 +56,6 @@ Les limites inférieures et supérieures de chacune de ces tranches sont affect�
 
 Ce dernier coefficient est majoré de 0,5 par enfant ou par personne à charge supplémentaire.
 
-Le loyer minimum ainsi obtenu est majoré d'un montant égal à 450 F.
+Le loyer minimum ainsi obtenu est majoré d'un montant égal à 457 F.
 
 Le loyer minimum est arrondi au franc inférieur.
