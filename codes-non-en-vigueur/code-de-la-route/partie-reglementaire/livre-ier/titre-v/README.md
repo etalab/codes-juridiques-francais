@@ -10,3 +10,4 @@
 - [Paragraphe VIII : Immatriculation.](paragraphe-viii)
 - [Article R188](article-r188.md)
 - [Article R188-1](article-r188-1.md)
+- [Article R188-2](article-r188-2.md)
