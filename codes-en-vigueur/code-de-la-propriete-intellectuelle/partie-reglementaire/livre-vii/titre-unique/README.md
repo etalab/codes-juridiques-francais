@@ -4,5 +4,4 @@
 - [Chapitre IV : Transmission et perte du droit sur la marque](chapitre-iv)
 - [Chapitre V : Marques collectives](chapitre-v)
 - [Chapitre VI : Contentieux](chapitre-vi)
-- [Chapitre VII : Marques internationales](chapitre-vii)
 - [Chapitre VIII : Dispositions communes](chapitre-viii)
