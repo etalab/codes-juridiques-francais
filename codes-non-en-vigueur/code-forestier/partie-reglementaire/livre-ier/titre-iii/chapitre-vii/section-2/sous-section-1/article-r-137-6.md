@@ -4,6 +4,6 @@ Dans les forêts, bois et terrains à boiser définis par l'article L. 111-1 (1�
 
 - en règle générale, par location, à la suite d'une adjudication publique ;
 
-- par concession de licences à prix d'argent ou par amodiation de gré à gré, pour les lots qui n'auraient pas trouvé preneur à l'adjudication.
+- par concession de licences à prix d'argent ou par location amiable, pour les lots qui n'auraient pas trouvé preneur à l'adjudication.
 
-Toutefois, il peut être délivré des licences ou consenti des amodiations de gré à gré, sans mise en adjudication préalable, dans les cas et les conditions prévus aux articles R. 137-7 à R. 137-12.
+Toutefois, il peut être délivré des licences ou consenti des locations amiables, sans mise en adjudication préalable, dans les cas et les conditions prévus aux articles R.[* 137-7 à R.*] 137-12.
