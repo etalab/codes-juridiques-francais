@@ -1,3 +1,3 @@
 # Article R138-10
 
-L'usager est tenu de déposer l'empreinte de la marque au greffe du tribunal de grande instance et le fer servant à la marque au bureau de l'ingénieur chef de subdivision à l'Office national des forêts, le tout sous peine de 600 à 1200 F d'amende.
+L'usager est tenu de déposer l'empreinte de la marque au greffe du tribunal de grande instance et le fer servant à la marque au bureau de l'ingénieur chef de subdivision à l'Office national des forêts, le tout sous peine de 1300 à 2500 F d'amende.

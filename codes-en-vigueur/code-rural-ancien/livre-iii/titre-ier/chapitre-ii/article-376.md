@@ -1,6 +1,6 @@
 # Article 376
 
-Seront punis d'une amende de 1.200 à 3.000 F et pourront, en outre, l'être d'un emprisonnement de dix jours à un mois :
+Seront punis d'une amende de 2.500 à 5.000 F et pourront, en outre, l'être d'un emprisonnement de dix jours à un mois :
 
 1° Ceux qui auront chassé en temps prohibé ou dans les réserves de chasse approuvées par le ministre de l'agriculture ou établies en application des dispositions de l'article 373-1 ;
 
@@ -12,7 +12,7 @@ Seront punis d'une amende de 1.200 à 3.000 F et pourront, en outre, l'être d'u
 
 5° ceux qui auront employé des drogues ou appâts qui sont de nature à enivrer le gibier ou à le détruire ;
 
-6° Ceux qui auront chassé avec appeaux, appelants ou chanterelles.
+6° Ceux qui auront chassé avec appeaux, appelants ou chanterelles,sauf dans les cas autorisés en application du quatrième alinéa, 1°, de l'article 373 en ce qui concerne la chasse aux oiseaux de passage et du premier alinéa de l'article 393 relatif à la destruction des animaux malfaisants ou nuisibles.
 
 Les peines déterminées par le présent article pourront être portées au double contre ceux qui auront chassé pendant la nuit, sur le terrain d'autrui et par l'un des moyens spécifiés au 2°, si les chasseurs étaient munis d'une arme apparente ou cachée.
 

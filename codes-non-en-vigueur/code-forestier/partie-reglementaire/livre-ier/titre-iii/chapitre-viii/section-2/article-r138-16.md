@@ -4,4 +4,4 @@ La délivrance des bois aux usagers prévue par l'article L. 138-11 est faite pa
 
 L'entrepreneur spécial mentionné à l'article L. 138-12 est nommé par les usagers et agréé par l'Office national des forêts.
 
-Les fonctionnaires ou agents qui permettraient ou toléreraient les agissements mentionnés à l'article L. 138-13 sont passibles d'une amende de 600 à 1200 F, sans préjudice de leur responsabilité personnelle prévue par ledit article.
+Les fonctionnaires ou agents qui permettraient ou toléreraient les agissements mentionnés à l'article L. 138-13 sont passibles d'une amende de 1300 à 2500 F, sans préjudice de leur responsabilité personnelle prévue par ledit article.

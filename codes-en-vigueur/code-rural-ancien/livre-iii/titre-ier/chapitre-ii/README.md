@@ -1,5 +1,7 @@
 # Chapitre II : Des pénalités.
 
+- [Article 374](article-374.md)
+- [Article 374-1](article-374-1.md)
 - [Article 376](article-376.md)
 - [Article 377](article-377.md)
 - [Article 378](article-378.md)
