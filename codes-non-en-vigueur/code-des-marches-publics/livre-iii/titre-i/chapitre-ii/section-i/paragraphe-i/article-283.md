@@ -19,3 +19,5 @@ L'avis d'adjudication, dont le modèle peut être fixé par arrêté conjoint du
 5° Le lieu, le jour et l'heure fixés pour l'adjudication ;
 
 6° Les justifications à produire touchant les qualités et les capacités exigées des soumissionnaires.
+
+7° Le délai pendant lequel les soumissionnaires restent engagés par leur soumission.
