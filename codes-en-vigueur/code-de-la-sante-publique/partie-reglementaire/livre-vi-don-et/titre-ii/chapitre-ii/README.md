@@ -6,5 +6,3 @@
 - [Article D668-8-4](article-d668-8-4.md)
 - [Article D668-8-5](article-d668-8-5.md)
 - [Article D668-8-6](article-d668-8-6.md)
-- [Article D668-8-7](article-d668-8-7.md)
-- [Article D668-8-8](article-d668-8-8.md)
