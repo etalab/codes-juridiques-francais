@@ -2,7 +2,7 @@
 
 Les montants minimum et maximum de la dotation ainsi que ses modalités de paiement en deux versements sont fixés par arrêté conjoint du ministre de l'agriculture et du ministre chargé du budget pour les zones de montagne et les autres zones agricoles défavorisées définies par les articles R. 113-13 à R. 113-15 et pour le reste du territoire.
 
-Dans les limites fixées par cet arrêté, le préfet du département fixe, après avis de la commission mixte départementale, le montant de la dotation attribuée au bénéficiaire.
+Dans les limites fixées par cet arrêté, le préfet du département fixe, après avis de la commission départementale d'orientation de l'agriculture , le montant de la dotation attribuée au bénéficiaire.
 
 Le préfet prend notamment en compte :
 
@@ -10,7 +10,7 @@ Le préfet prend notamment en compte :
 
 2° Les handicaps rencontrés par les candidats réalisant une réinsertion professionnelle en agriculture ;
 
-3° Les critères d'appréciation adaptés aux spécificités de l'économie agricole locale arrêtés après avis de la commission mixte départementale.
+3° Les critères d'appréciation adaptés aux spécificités de l'économie agricole locale arrêtés après avis de la commission départementale d'orientation de l'agriculture.
 
 Sans préjudice des cas mentionnés à l'article R. 343-10, lorsque le projet d'installation fait apparaître que le conjoint du chef d'exploitation exerce sur l'exploitation une activité agricole lui permettant de bénéficier des prestations d'assurance maladie du régime des personnes non salariées des professions agricoles et remplit les conditions prévues à l'article R. 343-4 et au 4° de l'article R. 343-5, le montant de la dotation accordée peut être majoré dans une limite et dans des proportions fixées par l'arrêté mentionné au premier alinéa du présent article. En tout état de cause, le conjoint ne peut être pris en compte pour un volume de travail inférieur à 0,5 unité de travail agricole familial.
 

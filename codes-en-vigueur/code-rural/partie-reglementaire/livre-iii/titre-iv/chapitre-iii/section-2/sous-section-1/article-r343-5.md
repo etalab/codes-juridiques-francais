@@ -4,7 +4,7 @@ Le jeune agriculteur, candidat aux aides mentionnées à l'article R. 343-3, doi
 
 1° Présenter un projet de première installation conforme aux dispositions du chapitre Ier du titre III du présent livre, relatif au contrôle des structures des exploitations agricoles ;
 
-2° S'installer sur une exploitation constituant une unité économique indépendante, nécessitant un volume de travail équivalant au moins à une unité de travail agricole familial (UTAF) déterminée selon les modalités du règlement (CEE) n° 449-82 du 15 février 1982 portant organisation d'une enquête sur la structure des exploitations agricoles pour 1983 et disposant, dans le cas d'une production hors-sol, d'une assise foncière minimale déterminée par le préfet après avis de la commission mixte départementale définie à l'article R. 344-19.
+2° S'installer sur une exploitation constituant une unité économique indépendante, nécessitant un volume de travail équivalant au moins à une unité de travail agricole familial (UTAF) déterminée selon les modalités du règlement (CEE) n° 449-82 du 15 février 1982 portant organisation d'une enquête sur la structure des exploitations agricoles pour 1983 et disposant, dans le cas d'une production hors-sol, d'une assise foncière minimale déterminée par le préfet après avis de la commission départementale d'orientation de l'agriculture définie à l'article R. 313-1.
 
 L'exploitation doit être gérée distinctement de tout autre, sous réserve des dispositions propres aux sociétés, et comporter ses propres bâtiments d'exploitation et des moyens de production suffisants ;
 
