@@ -7,3 +7,4 @@
 - [Article L51](article-l51.md)
 - [Article L52](article-l52.md)
 - [Article L52-1](article-l52-1.md)
+- [Article L52-2](article-l52-2.md)
