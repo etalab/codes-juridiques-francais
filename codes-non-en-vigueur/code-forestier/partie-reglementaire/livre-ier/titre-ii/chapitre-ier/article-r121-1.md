@@ -1,3 +1,3 @@
 # Article R121-1
 
-L'Office national des forêts, placé sous la tutelle du ministre de l'agriculture, comprend une direction générale et des services déconcentrés constitués par des directions régionales.
+L'Office national des forêts est placé sous la tutelle des ministres chargés de la forêt et de l'environnement.

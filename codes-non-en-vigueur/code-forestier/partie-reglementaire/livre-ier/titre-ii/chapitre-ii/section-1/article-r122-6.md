@@ -10,11 +10,11 @@ Le conseil d'administration délibère sur les matières suivantes :
 
 4° La fixation et l'affectation des résultats de l'exercice ;
 
-5° Les acquisitions, aliénations et échanges des biens immobiliers de l'Office dont la valeur dépasse un montant fixé par arrêté conjoint du ministre de l'agriculture et du ministre chargé du domaine ;
+5° Les acquisitions, aliénations et échanges des biens immobiliers de l'Office dont la valeur dépasse un montant fixé par le conseil d'administration sur proposition du directeur général.
 
 6° Les souscriptions ou acquisitions de parts ou d'actions de société soumises à l'autorisation de l'Etat et mentionnées au deuxième alinéa de l'article R. 121-7 ;
 
-7° Les prises de participation dans des organismes qui ne sont pas de nature industrielle ou commerciale ;
+7° Les adhésions à des organismes sans capital social, à des associations ou à des groupements sans personnalité juridique ;
 
 8° Les emprunts ;
 
@@ -30,10 +30,10 @@ Le conseil d'administration délibère sur les matières suivantes :
 
 14° Les conditions générales de passation, de financement et de contrôle des marchés ;
 
-15° Les conventions, contrats et marchés dont le montant excède une limite fixée par arrêté conjoint du ministre de l'agriculture et du ministre chargé du domaine ;
+15° Les conventions, contrats et marchés dont le montant excède une limite fixée par le conseil d'administration sur proposition du directeur général ;
 
 16° La constitution de la composition de comités consultatifs de représentants des diverses activités intéressées à la forêt créés en application de l'article L. 122-1 (alinéa 3) ;
 
 17° Les actions en justice, acquiescements, désistements et mainlevées avec ou sans paiement, les transactions civiles à l'exception des transactions accordées en exécution de l'article L. 153-2.
 
-Le conseil d'administration donne son avis sur les questions qui lui sont soumises par le ministre de l'agriculture, par le ministre chargé des finances et du domaine, par le président du conseil d'administration ou par le directeur général de l'Office.
+Le conseil d'administration donne son avis sur les questions qui lui sont soumises par le ministre chargé de la forêt, par le ministre chargé de l'environnement, par le ministre chargé du domaine, par le président du conseil d'administration ou par le directeur général de l'Office.

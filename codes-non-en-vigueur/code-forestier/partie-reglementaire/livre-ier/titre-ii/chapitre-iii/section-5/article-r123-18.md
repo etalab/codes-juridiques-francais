@@ -1,3 +1,3 @@
 # Article R123-18
 
-Il est institué à l'Office national des forêts une commission des marchés. La composition et les règles de fonctionnement de cette commission sont fixées par un arrêté conjoint du ministre de l'agriculture et des ministres chargés de l'économie et des finances après avis du conseil d'administration.
+Les marchés de l'Office national des forêts soumis à la délibération du conseil d'administration en application de l'article R. 122-6 (15°) sont soumis pour avis préalable à une commission des marchés. Les règles concernant la composition et le fonctionnement de cette commission sont fixées par une délibération du conseil d'administration de l'Office, sur proposition du directeur général.

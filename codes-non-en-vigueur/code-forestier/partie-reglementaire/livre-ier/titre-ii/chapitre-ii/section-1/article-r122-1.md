@@ -16,7 +16,7 @@ le directeur chargé des affaires financières et économiques et le directeur c
 
 - un représentant du ministre chargé de l'aménagement du territoire, à savoir : le délégué à l'aménagement du territoire et à l'action régionale, membre de droit ;
 
-- un représentant du ministre chargé de l'environnement ;
+- un représentant du ministre chargé de l'environnement, à savoir : le directeur chargé de la nature, membre de droit ;
 
 - un représentant du ministre chargé de l'industrie ;
 
