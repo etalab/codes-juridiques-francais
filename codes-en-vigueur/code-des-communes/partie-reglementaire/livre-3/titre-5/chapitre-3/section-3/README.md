@@ -8,7 +8,3 @@
 - [Article R353-20](article-r353-20.md)
 - [Article R353-21](article-r353-21.md)
 - [Article R353-22](article-r353-22.md)
-- [Article R353-23](article-r353-23.md)
-- [Article R353-24](article-r353-24.md)
-- [Article R353-25](article-r353-25.md)
-- [Article R353-26](article-r353-26.md)

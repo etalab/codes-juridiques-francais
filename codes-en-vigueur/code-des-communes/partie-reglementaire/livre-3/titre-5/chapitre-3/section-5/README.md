@@ -1,9 +1,5 @@
 # SECTION 5 : Notation et avancement.
 
-- [Article R353-31](article-r353-31.md)
-- [Article R353-32](article-r353-32.md)
-- [Article R353-33](article-r353-33.md)
-- [Article R353-34](article-r353-34.md)
 - [Article R353-35](article-r353-35.md)
 - [Article R353-36](article-r353-36.md)
 - [Article R353-37](article-r353-37.md)
@@ -18,7 +14,6 @@
 - [Article R353-46](article-r353-46.md)
 - [Article R353-47](article-r353-47.md)
 - [Article R353-48](article-r353-48.md)
-- [Article R353-49](article-r353-49.md)
 - [Article R353-50](article-r353-50.md)
 - [Article R353-50-1](article-r353-50-1.md)
 - [Article R353-50-2](article-r353-50-2.md)

@@ -6,6 +6,5 @@
 - [SECTION 4 : Rémunération - Avantages en nature.](section-4)
 - [SECTION 5 : Notation et avancement.](section-5)
 - [SECTION 6 : Discipline.](section-6)
-- [SECTION 7 : Positions.](section-7)
 - [SECTION 8 : Cessation de fonctions.](section-8)
 - [SECTION 9 : Pensions et sécurité sociale.](section-9)
