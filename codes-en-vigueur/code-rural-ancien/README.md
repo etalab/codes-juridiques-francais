@@ -6,7 +6,6 @@
 - [Livre IV : Institutions et groupements professionnels agricoles](livre-iv)
 - [Livre V : Crédit agricole](livre-v)
 - [Livre V bis : De l'exploitation agricole dans les rapports entre époux.](livre-v-bis)
-- [Livre VI : Baux ruraux](livre-vi)
 - [Livre VII : Dispositions sociales](livre-vii)
 - [Livre VIII : Formation professionnelle et recherche](livre-viii)
 - [Article 162](article-162.md)
