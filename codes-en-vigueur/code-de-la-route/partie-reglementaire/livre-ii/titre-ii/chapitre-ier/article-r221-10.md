@@ -15,5 +15,3 @@ III. - La catégorie B du permis de conduire ne permet la conduite :
 4° Des véhicules affectés au transport public de personnes,
 
 que si le conducteur est en possession d'une attestation délivrée par le préfet après vérification médicale de l'aptitude physique.
-
-IV. - Le fait de conduire un véhicule sans respecter l'une des conditions de validité de la catégorie du permis de conduire prévues au présent article est puni de l'amende prévue pour les contraventions de la troisième classe.

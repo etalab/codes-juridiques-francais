@@ -11,5 +11,3 @@ II. - La validité du permis ainsi délivré ne peut être prorogée qu'au vu d'
 III. - La demande de prorogation doit être adressée au préfet du département du domicile du pétitionnaire. Tant qu'il n'y est pas statué par le préfet dans les conditions fixées par arrêté du ministre chargé des transports, notamment en ce qui concerne la procédure et les délais et sauf carence de l'intéressé, le permis reste provisoirement valide.
 
 IV. - Les catégories A et B du permis de conduire délivrées pour la conduite des véhicules spécialement aménagés pour tenir compte du handicap du conducteur sont toutefois délivrées sans limitation de durée si le certificat médical favorable à l'attribution de ces catégories établit que l'intéressé est atteint d'une invalidité ou d'une infirmité incurable, définitive ou stabilisée.
-
-V. - Le fait de conduire un véhicule sans avoir déposé une demande de prorogation de validité de la catégorie du permis de conduire prévue par le présent article ou sans avoir obtenu cette prorogation est puni de l'amende prévue pour les contraventions de la troisième classe.
