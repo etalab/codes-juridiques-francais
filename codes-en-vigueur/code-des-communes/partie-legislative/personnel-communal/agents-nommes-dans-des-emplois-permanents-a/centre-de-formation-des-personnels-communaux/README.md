@@ -1,4 +1,0 @@
-# CENTRE DE FORMATION DES PERSONNELS COMMUNAUX
-
-- [LE  BUDGET .](le-budget)
-- [LE  PERSONNEL .](le-personnel)

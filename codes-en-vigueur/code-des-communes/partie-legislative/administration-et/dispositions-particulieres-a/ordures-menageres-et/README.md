@@ -1,3 +1,0 @@
-# ORDURES MENAGERES  ET AUTRES DECHETS .
-
-- [Article L373-4](article-l373-4.md)

@@ -1,6 +1,5 @@
 # CONSEIL MUNICIPAL .
 
-- [APPROBATION DES DELIBERATIONS .](approbation-des-deliberations)
 - [ATTRIBUTIONS .](attributions)
 - [Fonctionnement .](fonctionnement)
 - [FORMATION .](formation)

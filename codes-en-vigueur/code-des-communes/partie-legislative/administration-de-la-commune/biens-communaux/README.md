@@ -1,3 +1,0 @@
-# BIENS COMMUNAUX
-
-- [ACQUISITION,  LOCATION ET AFFECTATION DE BIENS .](acquisition-location-et)

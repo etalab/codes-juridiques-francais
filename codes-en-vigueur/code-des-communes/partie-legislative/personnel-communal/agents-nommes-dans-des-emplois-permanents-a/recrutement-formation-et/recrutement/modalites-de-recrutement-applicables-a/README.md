@@ -1,7 +1,5 @@
 # Modalités de recrutement applicables à certains emplois.
 
-- [Article L412-17](article-l412-17.md)
-- [Article L412-18](article-l412-18.md)
 - [Article L412-19](article-l412-19.md)
 - [Article L412-20](article-l412-20.md)
 - [Article L412-21](article-l412-21.md)

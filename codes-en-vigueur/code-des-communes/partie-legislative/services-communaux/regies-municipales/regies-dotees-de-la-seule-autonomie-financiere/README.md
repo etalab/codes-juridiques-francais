@@ -1,3 +1,0 @@
-# REGIES DOTEES DE LA  SEULE AUTONOMIE FINANCIERE .
-
-- [Article L323-11](article-l323-11.md)
