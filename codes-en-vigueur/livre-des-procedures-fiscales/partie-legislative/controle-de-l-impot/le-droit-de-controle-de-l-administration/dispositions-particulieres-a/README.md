@@ -1,3 +1,0 @@
-# DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS.
-
-- [Article L16 A](article-l16-a.md)

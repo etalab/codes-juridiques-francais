@@ -1,4 +1,3 @@
 # LE DROIT DE CONTROLE DE L'ADMINISTRATION
 
-- [DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS.](dispositions-particulieres-a)
 - [MODALITES D'EXERCICE DU DROIT DE CONTROLE.](modalites-d-exercice-du-droit-de-controle)

@@ -1,16 +1,5 @@
 # DISPOSITIONS COMMUNES.
 
-- [Article 1726](article-1726.md)
-- [Article 1727](article-1727.md)
-- [Article 1728](article-1728.md)
-- [Article 1730](article-1730.md)
 - [Article 1733](article-1733.md)
-- [Article 1734](article-1734.md)
-- [Article 1735 bis](article-1735-bis.md)
 - [Article 1736](article-1736.md)
 - [Article 1739](article-1739.md)
-- [Article 1740](article-1740.md)
-- [Article 1740 quinquies](article-1740-quinquies.md)
-- [Article 1741](article-1741.md)
-- [Article 1756 bis](article-1756-bis.md)
-- [Article 1756 ter](article-1756-ter.md)

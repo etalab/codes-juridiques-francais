@@ -1,3 +1,0 @@
-# ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE.
-
-- [Article 384 ter](article-384-ter.md)

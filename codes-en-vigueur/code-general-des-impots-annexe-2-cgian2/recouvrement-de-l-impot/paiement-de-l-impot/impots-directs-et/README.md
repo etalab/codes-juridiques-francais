@@ -1,3 +1,0 @@
-# IMPOTS DIRECTS ET TAXES ASSIMILEES.
-
-- [Article 383](article-383.md)

@@ -1,3 +1,0 @@
-# ENREGISTREMENT - PUBLICITE FONCIERE.
-
-- [Article 403](article-403.md)

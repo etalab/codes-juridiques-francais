@@ -1,3 +1,0 @@
-# PROCEDURE DEVANT LES TRIBUNAUX.
-
-- [Article L199](article-l199.md)
