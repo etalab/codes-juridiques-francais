@@ -7,5 +7,4 @@
 - [Champ d'application.](champ-d-application)
 - [Demi-tarif](demi-tarif)
 - [Assiette et liquidation.](assiette-et)
-- [Exonérations](exonerations)
 - [Tarif](tarif)
