@@ -1,5 +1,6 @@
 # III : Opérations exonérées
 
+- [Article 261](article-261.md)
 - [Article 261 D](article-261-d.md)
 - [Article 261 A](article-261-a.md)
 - [Article 261 B](article-261-b.md)
