@@ -6,4 +6,4 @@
 - [Livre III : Des voies de recours extraordinaires](livre-iii)
 - [Livre IV : De quelques procédures particulières](livre-iv)
 - [Livre V : Des procédures d'exécution](livre-v)
-- [Livre VI : Dispositions applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis-et-Futuna et dans la collectivité territoriale de Mayotte](livre-vi)
+- [Livre VI : Dispositions relatives aux territoires d'outre-mer, à la Nouvelle-Calédonie et aux collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon](livre-vi)

@@ -1,6 +1,5 @@
 # Sous-section 1 : Organisation de la juridiction.
 
-- [Article L262-14](article-l262-14.md)
 - [Article L262-15](article-l262-15.md)
 - [Article L262-16](article-l262-16.md)
 - [Article L262-17](article-l262-17.md)

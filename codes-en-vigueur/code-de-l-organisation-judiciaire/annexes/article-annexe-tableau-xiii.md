@@ -1140,7 +1140,7 @@ Ressort du tribunal d'instance de Saint-Pierre
 
 Cour d'appel de Nouméa
 
-Territoire de la Nouvelle-Calédonie
+Nouvelle-Calédonie
 
 Tribunal de première instance de Nouméa.
 
