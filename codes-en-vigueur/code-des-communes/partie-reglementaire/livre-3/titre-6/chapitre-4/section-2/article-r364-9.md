@@ -8,8 +8,6 @@ L'assistance à chacune des opérations prévues ci-après ouvre droit pour les 
 
 - un moulage de corps ;
 
-- une autopsie ;
-
 - une crémation, sans préjudice des vacations prévues pour les opérations précédant la crémation.
 
 2° Une vacation pour :
