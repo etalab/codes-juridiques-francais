@@ -2,6 +2,7 @@
 
 - [Paragraphe 1 : Réquisition des locaux utilisés en vue de la prostitution.](paragraphe-1)
 - [Paragraphe 2 : Diligences incombant au ministère public en matière de poursuites pour proxénétisme, en application de l'article 335.](paragraphe-2)
+- [Article 330](article-330.md)
 - [Article 331](article-331.md)
 - [Article 331-1](article-331-1.md)
 - [Article 332](article-332.md)
