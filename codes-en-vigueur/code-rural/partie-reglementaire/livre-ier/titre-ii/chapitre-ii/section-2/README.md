@@ -3,6 +3,7 @@
 - [Article R*122-10](article-r-122-10.md)
 - [Article R*122-11](article-r-122-11.md)
 - [Article R*122-12](article-r-122-12.md)
+- [Article R122-12](article-r122-12.md)
 - [Article R*122-13](article-r-122-13.md)
 - [Article R*122-14](article-r-122-14.md)
 - [Article R*122-15](article-r-122-15.md)
