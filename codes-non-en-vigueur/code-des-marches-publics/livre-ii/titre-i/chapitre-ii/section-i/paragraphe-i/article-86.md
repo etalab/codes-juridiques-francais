@@ -21,3 +21,5 @@ L'avis d'adjudication, dont le modèle peut être fixé par arrêté du ministre
 6° Le lieu, le jour et l'heure fixés pour l'adjudication ;
 
 7° Les justifications à produire touchant les qualités et capacités exigées des soumissionnaires.
+
+8° Le délai pendant lequel les soumissionnaires restent engagés par leur soumission.
