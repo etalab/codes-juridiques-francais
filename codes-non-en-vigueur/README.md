@@ -3,6 +3,7 @@
 - [Code de l'Office national interprofessionnel du blé](code-de-l-office-national-interprofessionnel-du-ble)
 - [Code du blé](code-du-ble)
 - [Code de commerce](code-de-commerce)
+- [Code de déontologie de la police nationale.](code-de-deontologie-de-la-police-nationale)
 - [Code de déontologie des chirurgiens-dentistes](code-de-deontologie-des-chirurgiens-dentistes)
 - [Code de déontologie des médecins](code-de-deontologie-des-medecins)
 - [Code de déontologie des sages-femmes](code-de-deontologie-des-sages-femmes)
