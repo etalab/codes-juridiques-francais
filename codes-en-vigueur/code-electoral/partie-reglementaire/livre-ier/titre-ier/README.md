@@ -3,3 +3,4 @@
 - [Chapitre II : Listes électorales](chapitre-ii)
 - [Chapitre V : Propagande](chapitre-v)
 - [Chapitre VI : Vote](chapitre-vi)
+- [Chapitre VIII : Contentieux](chapitre-viii)
