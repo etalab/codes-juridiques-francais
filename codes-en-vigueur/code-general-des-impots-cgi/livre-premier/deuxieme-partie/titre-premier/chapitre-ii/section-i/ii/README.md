@@ -1,6 +1,7 @@
 # II : Impôt sur les spectacles, jeux et divertissements
 
 - [7° : Obligations des exploitants.](7)
+- [Appareils automatiques - Obligations.](appareils-automatiques)
 - [Demi-tarif](demi-tarif)
 - [Assiette et liquidation.](assiette-et)
 - [Obligations des exploitants.](obligations-des-exploitants)

@@ -5,3 +5,4 @@
 - [Article 268](article-268.md)
 - [Article 268 bis](article-268-bis.md)
 - [Article 268 ter](article-268-ter.md)
+- [Article 268 quater](article-268-quater.md)

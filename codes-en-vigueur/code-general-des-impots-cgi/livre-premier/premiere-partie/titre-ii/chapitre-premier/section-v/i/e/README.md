@@ -10,3 +10,4 @@
 - [Article 281 bis F](article-281-bis-f.md)
 - [Article 281 bis G](article-281-bis-g.md)
 - [Article 281 bis H](article-281-bis-h.md)
+- [Article 281 bis K](article-281-bis-k.md)
