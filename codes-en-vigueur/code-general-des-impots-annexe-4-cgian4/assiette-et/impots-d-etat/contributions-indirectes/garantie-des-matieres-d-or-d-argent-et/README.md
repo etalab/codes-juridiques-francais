@@ -1,3 +1,0 @@
-# GARANTIE DES MATIERES D'OR, D'ARGENT ET DE PLATINE
-
-- [Article 56 J BIS](article-56-j-bis.md)
