@@ -1,0 +1,3 @@
+# Article R*411-7
+
+Si la denrée choisie est le blé, le prix à retenir pour le calcul du fermage est, sauf convention contraire des parties, le prix fixé par arrêté conjoint du ministre de l'agriculture et du ministre de la justice ; le montant de ce prix est forfaitairement égal au prix d'intervention du centre de commercialisation ayant le prix d'intervention du blé de meunerie le plus bas ; il est éventuellement corrigé, pour tenir compte du marché, et diminué du montant total ou partiel des taxes parafiscales prévues par les textes en vigueur. Si un prix unique d'intervention est fixé pour toute la France, il sera tenu compte de ce prix.
