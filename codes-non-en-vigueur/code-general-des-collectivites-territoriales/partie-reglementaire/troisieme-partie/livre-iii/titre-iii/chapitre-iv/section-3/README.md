@@ -5,5 +5,4 @@
 - [Article R3334-18](article-r3334-18.md)
 - [Article R3334-19](article-r3334-19.md)
 - [Article R3334-20](article-r3334-20.md)
-- [Article R3334-21](article-r3334-21.md)
 - [Article R3334-22](article-r3334-22.md)
