@@ -8,4 +8,4 @@ Le bénéficiaire de l'autorisation est soumis aux obligations suivantes :
 
 3° Après chaque opération, adresser dans un délai d'un mois au préfet, au délégué régional du Conseil supérieur de la pêche et au président de la fédération départementale des associations agréées de pêche et de pisciculture un compte-rendu de l'opération avec les résultats des captures, présentés sous une forme fixée par le ministre chargé de la pêche en eau douce ;
 
-4° Adresser dans le délai de six mois après l'expiration de l'autorisation au ministre chargé de la pêche en eau douce un rapport indiquant les opérations réalisées, leurs lieux, dates et objets.
+4° Adresser dans le délai de six mois après l'expiration de l'autorisation au préfet coordonnateur de bassin un rapport indiquant les opérations réalisées, leurs lieux, dates et objets.
