@@ -8,7 +8,6 @@
 - [Article R5146-35](article-r5146-35.md)
 - [Article R5146-36](article-r5146-36.md)
 - [Article R5146-37](article-r5146-37.md)
-- [Article R5146-37-1](article-r5146-37-1.md)
 - [Article R5146-38](article-r5146-38.md)
 - [Article R5146-39](article-r5146-39.md)
 - [Article R5146-39-1](article-r5146-39-1.md)
