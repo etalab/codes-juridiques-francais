@@ -4,6 +4,4 @@
 - [SYNDICAT DE COMMUNES .](syndicat-de-communes)
 - [Dispositions applicables au district .](dispositions-applicables-au)
 - [COMMUNAUTE URBAINE](communaute-urbaine)
-- [DISTRICT](district)
-- [ENSEMBLE URBAIN](ensemble-urbain)
 - [Article L253-2](article-l253-2.md)
