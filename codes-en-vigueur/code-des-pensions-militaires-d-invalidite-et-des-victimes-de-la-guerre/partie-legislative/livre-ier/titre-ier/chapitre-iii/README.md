@@ -1,5 +1,6 @@
 # Chapitre III : Taux des pensions.
 
+- [Article L8 bis](article-l8-bis.md)
 - [Article L9](article-l9.md)
 - [Article L10](article-l10.md)
 - [Article L11](article-l11.md)
