@@ -5,4 +5,5 @@
 - [Article 2275](article-2275.md)
 - [Article 2278](article-2278.md)
 - [Article 2279](article-2279.md)
+- [Article 2280](article-2280.md)
 - [Article 2281](article-2281.md)
