@@ -1,0 +1,9 @@
+# Article 221 bis
+
+Il est créé une brigade interministérielle chargée de procéder aux enquêtes qui lui sont prescrites, suivant les modalités définies ci-après. Ces enquêtes portent sur les conditions de régularité et d'impartialité dans lesquelles ont été préparés, passés ou exécutés les marchés conclus par l'Etat ou ses établissements publics autres que ceux qui ont le caractère industriel et commercial.
+
+Le Premier ministre ou le ministre de l'économie et des finances ou chaque ministre pour son département ainsi que pour les établissements publics placés sous sa tutelle, prescrit les enquêtes qu'il juge nécessaire de faire effectuer par la brigade. Lorsque le ministre de l'économie et des finances prescrit une telle enquête, il doit avoir recueilli, au préalable, l'accord du ou des ministres intéressés. Sur la demande du ministre intéressé, un membre de l'inspection de son département ministériel est associé à l'enquête.    Les enquêteurs disposent dans l'administration des droits d'investigation les plus larges tant sur pièces que sur place. Les rapports d'enquête sont adressés au Premier ministre, au ministre de l'économie et des finances et aux ministres intéressés. Les conclusions de ces rapports sont, en tant que de besoin, portées à la connaissance des agents mis en cause.
+
+Le chef de la brigade interministérielle d'enquêteurs et les membres de celle-ci sont désignés, parmi les magistrats et fonctionnaires civils et militaires de l'Etat, par arrêtés conjoints du Premier ministre, du ministre de l'économie et des finances et du ministre dont ils relèvent statutairement, sur proposition de ce dernier. La brigade est rattachée, pour sa gestion, à la commission centrale des marchés.
+
+Un arrêté conjoint du Premier ministre et du ministre de l'économie et des finances fixe les modalités de l'organisation et du fonctionnement de la brigade.
