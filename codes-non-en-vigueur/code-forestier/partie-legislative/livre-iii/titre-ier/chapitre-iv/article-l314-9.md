@@ -1,0 +1,3 @@
+# Article L314-9
+
+Le défaut de production dans le délai imparti de la déclaration prévue à l'article L. 314-7 ainsi que tout défrichement effectué en infraction aux dispositions des articles L. 311-1 et L. 312-1 entraînent l'exigibilité immédiate de la taxe et d'une amende fiscale égale à 50 p. 100 du montant de cette taxe. La taxe et l'amende sont liquidées au vu de procès-verbaux dressés par les agents habilités à constater les infractions en matière forestière et notifiés aux intéressés. L'action en répétition des sommes dues peut s'exercer dans le délai de six ans à compter du fait générateur de la taxe.
