@@ -5,4 +5,4 @@
 - [Article 1067](article-1067.md)
 - [Article 1068](article-1068.md)
 - [Article 1069](article-1069.md)
-- [Article 1071](article-1071.md)
+- [Article 1070](article-1070.md)
