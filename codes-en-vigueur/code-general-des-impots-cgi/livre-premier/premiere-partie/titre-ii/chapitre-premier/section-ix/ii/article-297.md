@@ -2,23 +2,23 @@
 
 I. 1. Dans les départements de Corse, la taxe sur la valeur ajoutée [*TVA*] est perçue au taux de :
 
-1° O,90 % [*pourcentage*] pour les opérations visées aux articles 281 quater et 281 sexies ;
+1° O,90 % pour les opérations visées aux articles 281 quater et 281 sexies ;
 
 2° 2,10 % en ce qui concerne :
 
-Les opérations visées à l'article 278 bis portant sur des produits livrés en Corse;
+Les opérations visées à l'article 278 bis portant sur des produits livrés en Corse ;
 
-Les prestations de services visées aux a à b decies de l'article 279 ;
+Les prestations de services visées aux ((a à b nonies de l'article 279)) (M) ;
 
 3° (Disposition devenue sans objet) ;
 
-4° (Abrogé);
+4° (Abrogé) ;
 
 5° 8 % en ce qui concerne :
 
 a. Les travaux immobiliers ainsi que les opérations visées au 7° de l'article 257 ;
 
-b. Les ventes de matériels agricoles livrés en Corse et dont la liste est fixée par arrêté [*autorité compétente*] du ministre de l'économie et des finances (1) ;
+b. Les ventes de matériels agricoles livrés en Corse et dont la liste est fixée par arrêté du ministre de l'économie et des finances (1) ;
 
 c. Les fournitures de logement en meublé ou en garni autres que celles visées au a de l'article 279 ;
 
@@ -42,8 +42,10 @@ II (abrogé) (3).
 
 III (dispositions périmées).
 
+(M) Modification.
+
 (1) Annexe IV, art. 50 duodecies A.
 
 (2) Abrogation à compter du 13 avril 1992 en ce qui concerne les ventes de voitures automobiles conçues pour le transport des personnes immatriculées en Corse et à compter du 18 janvier 1993 pour les ventes de tabacs manufacturés).
 
-(3) En ce qui concerne les transports entre la France continentale et la Corse, voir article 262-II-11°.
+(3) En ce qui concerne les transports entre la France continentale et la Corse, voir article 262 II 11°.
