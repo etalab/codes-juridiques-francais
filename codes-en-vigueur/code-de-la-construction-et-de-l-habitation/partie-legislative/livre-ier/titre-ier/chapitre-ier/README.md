@@ -2,6 +2,7 @@
 
 - [Section 1 : Dispositions applicables à tous bâtiments.](section-1)
 - [Section 4 : Caractéristiques thermiques.](section-4)
+- [Section 5 : Isolation phonique.](section-5)
 - [Section 6 : Responsabilité des constructeurs d'ouvrage.](section-6)
 - [Section 7 : Contrôle technique.](section-7)
 - [Section 8 : Assurance des travaux de bâtiment.](section-8)

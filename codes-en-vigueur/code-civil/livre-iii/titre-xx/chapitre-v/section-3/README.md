@@ -5,3 +5,4 @@
 - [Article 2267](article-2267.md)
 - [Article 2268](article-2268.md)
 - [Article 2269](article-2269.md)
+- [Article 2270](article-2270.md)
