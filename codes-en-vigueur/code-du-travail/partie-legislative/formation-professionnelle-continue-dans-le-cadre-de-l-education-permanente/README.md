@@ -9,6 +9,7 @@
 - [DE LA PROMOTION INDIVIDUELLE ET DU CONGE DE FORMATION.](de-la-promotion-individuelle-et)
 - [Article L900-1](article-l900-1.md)
 - [Article L990-1](article-l990-1.md)
+- [Article L990-2](article-l990-2.md)
 - [Article L990-3](article-l990-3.md)
 - [Article L990-4](article-l990-4.md)
 - [Article L990-5](article-l990-5.md)
