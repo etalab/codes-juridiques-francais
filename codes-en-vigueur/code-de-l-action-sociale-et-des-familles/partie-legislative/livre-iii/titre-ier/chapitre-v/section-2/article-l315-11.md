@@ -1,7 +1,0 @@
-# Article L315-11
-
-Pour chaque établissement ou service, le représentant de l'Etat dans le département compétent peut modifier le montant global des recettes et dépenses prévisionnelles mentionnées au 5° de l'article L. 315-3, imputables aux prestations prises en charge par l'aide sociale de l'Etat, compte tenu du montant des dotations régionales ou départementales définies ci-dessus ; la même procédure s'applique en cas de révision, au titre du même exercice, des dotations régionales ou départementales initiales.
-
-Le représentant de l'Etat dans le département peut également supprimer ou diminuer les prévisions de dépenses qu'il estime injustifiées ou excessives compte tenu, d'une part, des conditions de satisfaction des besoins de la population, telles qu'elles résultent notamment des orientations des schémas prévus à l'article L. 311-3, d'autre part, de l'évolution de l'activité et des coûts des établissements et services appréciés par rapport au fonctionnement des autres équipements comparables dans le département ou la région.
-
-Des conventions conclues entre le représentant de l'Etat dans la région, les représentants de l'Etat dans les départements, les gestionnaires d'établissement ou de service et, le cas échéant, les groupements constitués dans les conditions prévues à l'article L. 311-2 précisent, dans une perspective pluriannuelle, les objectifs prévisionnels et les critères d'évaluation de l'activité et des coûts des prestations imputables à l'aide sociale de l'Etat dans les établissements et services concernés.

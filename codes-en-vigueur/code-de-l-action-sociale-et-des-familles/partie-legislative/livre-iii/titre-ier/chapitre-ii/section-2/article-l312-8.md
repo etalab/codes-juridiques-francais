@@ -1,7 +1,0 @@
-# Article L312-8
-
-I. - Les établissements assurant l'hébergement des personnes âgées mentionnés au 5° de l'article L. 312-1 et les établissements de santé dispensant des soins de longue durée visés au 2° de l'article L. 6111-2 du code de la santé publique qui accueillent un nombre de personnes âgées dépendantes dans une proportion supérieure à un seuil fixé par décret ne peuvent accueillir des personnes âgées remplissant les conditions de perte d'autonomie mentionnées à l'article L. 232-2 du présent code que s'ils ont passé avant le 31 décembre 2003 une convention pluriannuelle avec le président du conseil général et l'autorité compétente de l'Etat, qui respecte le cahier des charges établi par arrêté interministériel, après avis des organismes nationaux d'assurance maladie et des représentants des présidents de conseils généraux.
-
-II. - Les établissements mentionnés au I dont la capacité est inférieure à un seuil fixé par décret ont la possibilité de déroger aux règles mentionnées au 1° de l'article L. 315-1. Dans ces établissements, les modalités de tarification des prestations remboursables aux assurés sociaux sont fixées par décret.
-
-III. - Les établissements accueillant un nombre de personnes âgées dépendantes inférieur au seuil mentionné au I doivent répondre à des critères de fonctionnement, notamment de qualité, définis par un cahier des charges fixé par arrêté du ministre chargé des personnes âgées.

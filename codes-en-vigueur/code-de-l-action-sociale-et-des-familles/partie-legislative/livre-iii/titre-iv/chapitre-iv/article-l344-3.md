@@ -1,7 +1,0 @@
-# Article L344-3
-
-Les prix de journée ou toutes autres modalités de financement de l'exploitation des établissements de rééducation professionnelle et d'aide par le travail agréés pour recevoir des bénéficiaires de l'aide sociale aux personnes handicapées sont fixés par voie réglementaire.
-
-Dans les établissements de rééducation professionnelle, ils comprennent, d'une part, les frais concernant l'hébergement et l'entretien de la personne handicapée, d'autre part, ceux qui sont directement entraînés par la formation professionnelle ou le fonctionnement de l'atelier, et notamment les frais de transport collectif dans des conditions fixées par décret.
-
-Dans les établissements d'aide par le travail, ils comprennent, à l'exclusion des charges directement entraînées par l'activité de production et de commercialisation de l'établissement, d'une part, les frais concernant l'hébergement et l'entretien de la personne handicapée, d'autre part, les charges de fonctionnement de l'activité sociale de l'établissement, et notamment les charges entraînées par le soutien éducatif et médico-social de la personne handicapée dans son activité de caractère professionnel ainsi que les frais de transport collectif. Toutefois, à titre exceptionnel et pour une durée limitée, dans des conditions fixées par décret, peuvent être inclus dans les charges de fonctionnement certains frais directement entraînés par l'activité de production et de commercialisation de l'établissement.
