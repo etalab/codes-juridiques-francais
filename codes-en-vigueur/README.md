@@ -1,6 +1,7 @@
 # Codes en vigueur
 
 - [Code civil](code-civil)
+- [Code général des impôts, CGI.](code-general-des-impots-cgi)
 - [Code des douanes](code-des-douanes)
 - [Code du travail maritime](code-du-travail-maritime)
 - [Code des pensions militaires d'invalidité et des victimes de la guerre.](code-des-pensions-militaires-d-invalidite-et-des-victimes-de-la-guerre)
