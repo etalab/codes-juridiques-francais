@@ -6,4 +6,4 @@ Il participe à l'instruction des demandes d'aide sociale dans les conditions fi
 
 Le centre communal d'action sociale peut, le cas échéant, exercer les compétences que le département a confiées à la commune dans les conditions prévues par l'article 33 de la loi n° 83-663 du 22 juillet 1983 précitée.
 
-Plusieurs communes groupées en syndicat de communes peuvent créer un centre intercommunal d'action sociale qui exerce pour les communes concernées les compétences mentionnées aux alinéas qui précédent.
+Plusieurs communes constituées en établissement public de coopération intercommunale peuvent créer un centre intercommunal d'action sociale qui exerce pour les communes concernées les compétences mentionnées aux alinéas qui précèdent.
