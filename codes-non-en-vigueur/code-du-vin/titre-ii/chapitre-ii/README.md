@@ -6,4 +6,3 @@
 - [Section 5 : Plantations.](section-5)
 - [Section 6 : Dispositions diverses.](section-6)
 - [Section 7 : Arrachage de vignes.](section-7)
-- [Section 8 : Pénalités.](section-8)
