@@ -18,4 +18,4 @@
 - [Titre XV : Le comité du contentieux fiscal, douanier et des changes.](titre-xv)
 - [Titre XIV : Contentieux des relations financières avec l'étranger](titre-xiv)
 - [Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger.](titre-xvi)
-- [Titre XVII : Echanges de biens entre Etats membres de la Communauté économique européenne](titre-xvii)
+- [Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne](titre-xvii)
