@@ -1,4 +1,4 @@
-# Section 3 : Mode d'admission des enfants dans les services de l'aide sociale à l'enfance
+# Section 3 : Droit des familles dans leurs rapports avec les services de la protection de la famille et de l'enfance
 
 - [Article 54](article-54.md)
 - [Article 55](article-55.md)
