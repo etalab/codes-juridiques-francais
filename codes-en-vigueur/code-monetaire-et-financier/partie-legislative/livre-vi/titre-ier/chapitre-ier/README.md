@@ -1,7 +1,5 @@
 # Chapitre Ier : Réglementation
 
-- [Section 1 : Missions](section-1)
-- [Section 2 : Composition](section-2)
 - [Article L611-1](article-l611-1.md)
 - [Article L611-2](article-l611-2.md)
 - [Article L611-3](article-l611-3.md)
