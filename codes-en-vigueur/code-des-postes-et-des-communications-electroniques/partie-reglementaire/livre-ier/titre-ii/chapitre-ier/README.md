@@ -5,6 +5,7 @@
 - [Article D39](article-d39.md)
 - [Article D40](article-d40.md)
 - [Article D41](article-d41.md)
+- [Article D41-1](article-d41-1.md)
 - [Article D42](article-d42.md)
 - [Article D43](article-d43.md)
 - [Article D46](article-d46.md)
