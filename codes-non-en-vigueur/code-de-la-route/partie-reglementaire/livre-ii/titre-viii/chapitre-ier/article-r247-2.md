@@ -4,7 +4,7 @@ Sous l'autorité du ministre de l'intérieur et de la sécurité publique, le pr
 
 1° Des demandes de permis de conduire, d'extension de permis de conduire et de duplicata de titres de conduite ;
 
-2° Des décisions portant délivrance, extension et prorogation de catégories de permis de conduire français ;
+2° Des décisions portant délivrance, extension et prorogation de catégories de permis de conduire ;
 
 3° Des informations relatives à la délivrance et la gestion des titres de conduite ;
 

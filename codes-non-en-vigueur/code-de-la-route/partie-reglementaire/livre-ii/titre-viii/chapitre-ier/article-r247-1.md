@@ -6,7 +6,7 @@ Le ministre de l'intérieur et de la sécurité publique fait procéder à l'enr
 
 2° Des mesures de retrait du droit de faire usage du permis de conduire prises par des autorités étrangères et communiquées aux autorités françaises conformément aux accords internationaux en vigueur ;
 
-3° Des informations relatives aux échanges de titres français dans les Etats membres de la Communauté économique européenne ;
+3° Des informations relatives aux échanges de titres français par les Etats appartenant à l'Union européenne ou à l'Espace économique européen ;.
 
 4° Des retraits de points du permis de conduire en application des articles L. 11-1 et L. 11-2 ;
 
