@@ -2,7 +2,6 @@
 
 - [Article 1726](article-1726.md)
 - [Article 1727](article-1727.md)
-- [Article 1727 A](article-1727-a.md)
 - [Article 1728](article-1728.md)
 - [Article 1730](article-1730.md)
 - [Article 1733](article-1733.md)
