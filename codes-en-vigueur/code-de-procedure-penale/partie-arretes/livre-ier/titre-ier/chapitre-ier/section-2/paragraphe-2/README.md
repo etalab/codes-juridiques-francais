@@ -1,0 +1,17 @@
+# Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale
+
+- [Article A13](article-a13.md)
+- [Article A14](article-a14.md)
+- [Article A15](article-a15.md)
+- [Article A16](article-a16.md)
+- [Article A17](article-a17.md)
+- [Article A18](article-a18.md)
+- [Article A19](article-a19.md)
+- [Article A20](article-a20.md)
+- [Article A21](article-a21.md)
+- [Article A22](article-a22.md)
+- [Article A23](article-a23.md)
+- [Article A24](article-a24.md)
+- [Article A25](article-a25.md)
+- [Article A26](article-a26.md)
+- [Article A27](article-a27.md)
