@@ -11,4 +11,3 @@
 - [Article L339](article-l339.md)
 - [Article L340](article-l340.md)
 - [Article L341](article-l341.md)
-- [Article L342](article-l342.md)
