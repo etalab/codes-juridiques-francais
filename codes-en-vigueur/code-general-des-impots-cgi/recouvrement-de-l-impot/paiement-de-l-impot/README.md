@@ -1,6 +1,5 @@
 # PAIEMENT DE L'IMPOT
 
-- [DISPOSITIONS COMMUNES.](dispositions-communes)
 - [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE (PAIEMENT PAR CHEQUE : ANNEXE IV ART. 199 A 204).](enregistrement-publicite-fonciere-et)
 - [IMPOTS DIRECTS ET TAXES ASSIMILEES.](impots-directs-et)
 - [IMPOTS DIRECTS.](impots-directs)

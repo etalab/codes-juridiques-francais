@@ -8,3 +8,4 @@
 - [Section VI : Institutions à caractère social](section-vi)
 - [Section VII : Juridictions. Procédures diverses](section-vii)
 - [Section IX : Dispositions diverses](section-ix)
+- [Disposition générale](disposition-generale)
