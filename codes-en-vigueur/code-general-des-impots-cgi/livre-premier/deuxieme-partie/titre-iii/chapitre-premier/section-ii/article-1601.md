@@ -10,6 +10,6 @@ a. d'un droit fixe par ressortissant, arrêté par les chambres de métiers dans
 
 b. d'un droit additionnel à la taxe professionnelle, dont le produit est arrêté par les chambres de métiers ; celui-ci ne peut excéder 50 % du produit du droit fixe.
 
-Toutefois, les chambres de métiers sont autorisées à porter le produit du droit additionnel jusqu'à 85 % du produit du droit fixe, afin de mettre en oeuvre des actions ou de réaliser des investissements, dans des conditions définies par décret en Conseil d'Etat.
+Toutefois, les chambres de métiers sont autorisées à porter le produit du droit additionnel jusqu'à 85 % du produit du droit fixe, afin de mettre en oeuvre des actions ou de réaliser des investissements, dans des conditions définies par décret en Conseil d'Etat (1).
 
 Le présent article n'est pas applicable dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
