@@ -14,7 +14,7 @@ c) Des margarines et graisses végétales ;
 
 d) Du caviar ;
 
-3° Produits d'origine agricole, de la pêche, de la pisciculture et de l'aviculture n'ayant subi aucune transformation, à l'exception des produits de l'horticulture et de la sylviculture qui ne constituent ni des semences ni des plants d'essences ligneuses forestières pouvant être utilisées pour le reboisement et les plantations d'alignement ;
+3° Produits d'origine agricole, de la pêche, de la pisciculture et de l'aviculture n'ayant subi aucune transformation (1) ;
 
 4° Aliments simples ou composés utilisés pour la nourriture du bétail, des animaux de basse-cour, des poissons d'élevage destinés à la consommation humaine et des abeilles, ainsi que les produits entrant dans la composition de ces aliments et dont la liste est fixée par arrêté du ministre de l'économie et des finances pris après avis des professions intéressées ;
 
@@ -29,3 +29,5 @@ c) Soufre, sulfate de cuivre et grenaille utilisée pour la fabrication du sulfa
 d) Produits antiparasitaires, sous réserve qu'ils aient fait l'objet soit d'une homologation, soit d'une autorisation de vente délivrée par le ministre chargé de l'agriculture ;
 
 6° Livres, y compris leur location.
+
+(1) Modification de la loi. Entrée en vigueur le 1er janvier 1995.
