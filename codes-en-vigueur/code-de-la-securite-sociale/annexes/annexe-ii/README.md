@@ -16,6 +16,7 @@
 - [Article Annexe II tableau 38](article-annexe-ii-tableau-38.md)
 - [Article Annexe II tableau 40](article-annexe-ii-tableau-40.md)
 - [Article Annexe II tableau 42](article-annexe-ii-tableau-42.md)
+- [Article Annexe II tableau 44](article-annexe-ii-tableau-44.md)
 - [Article Annexe II tableau 45](article-annexe-ii-tableau-45.md)
 - [Article Annexe II tableau 47](article-annexe-ii-tableau-47.md)
 - [Article Annexe II tableau 49](article-annexe-ii-tableau-49.md)
