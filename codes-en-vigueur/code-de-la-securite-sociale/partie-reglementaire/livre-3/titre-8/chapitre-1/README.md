@@ -4,3 +4,4 @@
 - [Section 2 : Bénéficiaires de l'allocation de parent isolé.](section-2)
 - [Section 4 : Ministres des cultes et membres des congrégations et collectivités religieuses (assurance maladie et assurance maternité)](section-4)
 - [Section 8 : Bénéficiaires de l'allocation aux adultes handicapés.](section-8)
+- [Section 9 : Détenus](section-9)
