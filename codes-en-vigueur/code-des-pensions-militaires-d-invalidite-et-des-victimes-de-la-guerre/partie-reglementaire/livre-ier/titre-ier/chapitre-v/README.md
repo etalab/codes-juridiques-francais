@@ -5,3 +5,4 @@
 - [Section 3 : Règles particulières à l'instruction des demandes de pension formulées par les marins.](section-3)
 - [Section 4 : Anciens militaires résidant à l'étranger.](section-4)
 - [Section 5 : Procédure particulière de liquidation et de concession des pensions dans le cadre de la délégation prévue à l'article L. 24.](section-5)
+- [Article D4](article-d4.md)

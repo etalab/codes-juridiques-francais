@@ -1,4 +1,4 @@
-# Section 1 : Tribunal départemental des pensions.
+# Section 1 : Désignation des commissaires du Gouvernement.
 
 - [Paragraphe 1 : Désignation des membres du tribunal.](paragraphe-1)
 - [Paragraphe 2 : Indemnités.](paragraphe-2)
@@ -8,3 +8,6 @@
 - [Paragraphe 6 : Représentation au tribunal des membres de la Résistance et des combattants volontaires de la Résistance.](paragraphe-6)
 - [Paragraphe 8 : Procédure normale.](paragraphe-8)
 - [Paragraphe 9 : Procédure sommaire.](paragraphe-9)
+- [Article D22](article-d22.md)
+- [Article D23](article-d23.md)
+- [Article D24](article-d24.md)

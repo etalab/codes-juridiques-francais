@@ -1,5 +1,7 @@
-# Section 1 : Dispositions communes aux victimes civiles et militaires.
+# Section 1 : Lieux de sépultures.
 
+- [Article D421](article-d421.md)
+- [Article D422](article-d422.md)
 - [Article R565](article-r565.md)
 - [Article R566](article-r566.md)
 - [Article R567](article-r567.md)

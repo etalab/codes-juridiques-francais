@@ -1,5 +1,5 @@
 # Chapitre II : Voies de recours.
 
-- [Section 1 : Tribunal départemental des pensions.](section-1)
-- [Section 2 : Cour régionale des pensions.](section-2)
-- [Section 3 : Conseil d'Etat.](section-3)
+- [Section 1 : Désignation des commissaires du Gouvernement.](section-1)
+- [Section 2 : Dispositions concernant les départements d'outre-mer.](section-2)
+- [Section 3 : Dispositions diverses.](section-3)
