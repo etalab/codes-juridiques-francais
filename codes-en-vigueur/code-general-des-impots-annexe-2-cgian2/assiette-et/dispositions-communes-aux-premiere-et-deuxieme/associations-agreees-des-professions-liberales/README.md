@@ -2,4 +2,3 @@
 
 - [Article 371 Q](article-371-q.md)
 - [Article 371 W](article-371-w.md)
-- [Article 371 Y](article-371-y.md)
