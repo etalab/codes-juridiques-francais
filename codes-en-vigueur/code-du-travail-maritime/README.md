@@ -8,5 +8,4 @@
 - [Titre 5 : Fin du contrat liant le marin à l'armateur](titre-5-fin)
 - [Titre 6 : Dispositions spéciales à certaines catégories de marins](titre-6)
 - [Titre 7 : Des litiges entre armateurs et marins](titre-7)
-- [Titre 8 : Dispositions diverses](titre-8)
 - [Titre 9 : Dispositions diverses](titre-9)
