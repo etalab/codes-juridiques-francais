@@ -8,4 +8,5 @@
 - [Article R5334-1](article-r5334-1.md)
 - [Article R5334-2](article-r5334-2.md)
 - [Article R5334-8](article-r5334-8.md)
+- [Article R5334-9](article-r5334-9.md)
 - [Article R5334-10](article-r5334-10.md)
