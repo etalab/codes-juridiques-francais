@@ -11,4 +11,3 @@
 - [Article 242-0 B](article-242-0-b.md)
 - [Article 242-0 F](article-242-0-f.md)
 - [Article 242 septies](article-242-septies.md)
-- [Article 242 septies A](article-242-septies-a.md)
