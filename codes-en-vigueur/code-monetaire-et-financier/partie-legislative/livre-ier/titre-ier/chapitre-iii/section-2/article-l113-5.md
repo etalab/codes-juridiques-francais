@@ -1,0 +1,3 @@
+# Article L113-5
+
+Les conversions mentionnées à l'article L. 113-3 et au dernier alinéa de l'article L. 113-4 sont faites, pour chaque émission, par le teneur de compte habilité, compte par compte. Lorsque la conversion n'aboutit pas à un montant entier en euros, il est procédé à un versement en espèces correspondant au montant rompu, sans que le porteur puisse faire valoir de droit autre que celui de la perception de ce versement. Les modalités de conversion d'une émission, de fixation du montant du versement en espèces et, pour les titres à taux variable, de calcul des intérêts sont fixées par décret, ainsi que les règles particulières aux titres démembrés.

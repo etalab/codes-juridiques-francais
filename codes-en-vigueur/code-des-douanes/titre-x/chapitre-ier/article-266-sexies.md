@@ -14,11 +14,13 @@ b. Tout utilisateur d'huiles et préparations lubrifiantes, autres que celles vi
 
 5. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants pour le linge relevant respectivement des rubriques 34022090, 34029090 et 38091010 à 38099100 du tarif douanier ;
 
-6. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des grains minéraux naturels d'un diamètre maximal de 125 millimètres relevant des rubriques 2505 et 25171010 du tarif douanier ;
+6. a) Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des matériaux d'extraction de toutes origines se présentant naturellement sous la forme de grains, ou obtenus à partir de roches concassées ou fractionnées, dont la plus grande dimension est inférieure ou égale à 125 millimètres et dont les caractéristiques et usages sont fixés par décret ;
+
+b) Toute personne qui extrait, produit ou introduit, en provenance d'un autre Etat membre de la Communauté européenne, des matériaux mentionnés au a, pour les besoins de sa propre utilisation ;
 
 7. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des produits antiparasitaires à usage agricole ou des produits assimilés relevant de la rubrique 3808 du tarif douanier dont la mise sur le marché est autorisée en application de la loi n° 525 du 2 novembre 1943 relative à l'organisation du contrôle des produits antiparasitaires à usage agricole et dans la composition desquels entrent des substances classées dangereuses selon les critères définis par les arrêtés pris pour l'application de l'article R. 231-51 du code du travail ;
 
-8. a. Tout exploitant d'un établissement industriel ou commercial ou d'un établissement public à caractère industriel et commercial dont certaines installations sont soumises à autorisation au titre du livre V (titre Ier) du code de l'environnement.
+8. a. Tout exploitant d'un établissement industriel ou commercial ou d'un établissement public à caractère industriel et commercial dont certaines installations sont soumises à autorisation au titre du livre V (titre Ier) du code de l'environnement ;
 
 b. Tout exploitant d'un établissement mentionné au a dont les activités, figurant sur une liste établie par décret en Conseil d'Etat après avis du Conseil supérieur des installations classées, font courir, par leur nature ou leur volume, des risques particuliers à l'environnement ;
 
@@ -32,6 +34,6 @@ b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protect
 
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur produit sec d'au moins 97 % d'oxyde de silicium ;
 
-4. Aux préparations pour lessives, y compris les préparations auxiliaires de lavage, aux produits adoucissants ou assouplissants pour le linge, aux grains minéraux naturels, aux produits antiparasitaires à usage agricole et aux produits assimilés mentionnés respectivement aux 5, 6 et 7 du I du présent article lorsque la première livraison après fabrication nationale consiste en une expédition directe à destination d'un Etat membre de la Communauté européenne ou en une exportation ;
+4. Aux préparations pour lessives, y compris les préparations auxiliaires de lavage, aux produits adoucissants ou assouplissants pour le linge, aux matériaux d'extraction, aux produits antiparasitaires à usage agricole et aux produits assimilés mentionnés respectivement aux 5, 6 et 7 du I du présent article lorsque la première livraison après fabrication nationale consiste en une expédition directe à destination d'un Etat membre de la Communauté européenne ou en une exportation ;
 
 5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers.

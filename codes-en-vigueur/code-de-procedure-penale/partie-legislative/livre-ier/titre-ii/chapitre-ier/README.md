@@ -1,6 +1,7 @@
 # Chapitre Ier : Des crimes et des délits flagrants
 
 - [Article 53](article-53.md)
+- [Article 53-1](article-53-1.md)
 - [Article 54](article-54.md)
 - [Article 55](article-55.md)
 - [Article 56](article-56.md)
@@ -19,6 +20,7 @@
 - [Article 63-2](article-63-2.md)
 - [Article 63-3](article-63-3.md)
 - [Article 63-4](article-63-4.md)
+- [Article 63-5](article-63-5.md)
 - [Article 64](article-64.md)
 - [Article 64-1](article-64-1.md)
 - [Article 65](article-65.md)

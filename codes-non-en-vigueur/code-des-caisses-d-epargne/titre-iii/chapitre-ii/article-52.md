@@ -1,6 +1,6 @@
 # Article 52
 
-Il est institué par la caisse des dépôts et consignations un fonds de réserve et de garantie. Sont affectés à cette réserve :
+Sont affectés à cette réserve :
 
 1° Le fonds de réserve actuel ;
 

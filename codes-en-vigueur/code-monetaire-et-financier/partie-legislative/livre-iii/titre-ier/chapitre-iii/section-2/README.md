@@ -1,0 +1,4 @@
+# Section 2 : Catégories de crédits
+
+- [Sous-section 1 : Crédit-bail.](sous-section-1)
+- [Sous-section 2 : Crédits aux entreprises](sous-section-2)

@@ -1,0 +1,17 @@
+# Section 3 : Garantie des déposants
+
+- [Article L312-4](article-l312-4.md)
+- [Article L312-5](article-l312-5.md)
+- [Article L312-6](article-l312-6.md)
+- [Article L312-7](article-l312-7.md)
+- [Article L312-8](article-l312-8.md)
+- [Article L312-9](article-l312-9.md)
+- [Article L312-10](article-l312-10.md)
+- [Article L312-11](article-l312-11.md)
+- [Article L312-12](article-l312-12.md)
+- [Article L312-13](article-l312-13.md)
+- [Article L312-14](article-l312-14.md)
+- [Article L312-15](article-l312-15.md)
+- [Article L312-16](article-l312-16.md)
+- [Article L312-17](article-l312-17.md)
+- [Article L312-18](article-l312-18.md)
