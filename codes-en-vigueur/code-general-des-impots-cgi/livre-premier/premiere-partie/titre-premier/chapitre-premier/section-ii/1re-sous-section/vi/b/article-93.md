@@ -4,19 +4,21 @@
 
 Les dépenses déductibles comprennent notamment :
 
-1° Le loyer des locaux professionnels. Lorsque le contribuable est propriétaire de locaux affectés à l'exercice de sa profession, aucune déduction n'est apportée, de ce chef, au bénéfice imposable.
+1° Le loyer des locaux professionnels. Lorsque le contribuable est propriétaire de locaux affectés à l'exercice de sa profession, aucune déduction n'est apportée, de ce chef, au bénéfice imposable ;
 
-2° Les amortissements effectués suivant les règles applicables en matière de bénéfices industriels et commerciaux.
+2° Les amortissements effectués suivant les règles applicables en matière de bénéfices industriels et commerciaux ;
 
-3° Les loyers versés en exécution d'un contrat de crédit-bail ou de location portant sur des voitures particulières, à l'exclusion de la part de loyer visée au 4 de l'article 39.
+3° Les loyers versés en exécution d'un contrat de crédit-bail ou de location portant sur des voitures particulières, à l'exclusion de la part de loyer visée au 4 de l'article 39 ;
 
-4° Les dépenses exposées pour la tenue de la comptabilité et, éventuellement, pour l'adhésion à une association agréée ne sont pas prises en compte pour la détermination du résultat imposable lorsqu'elles sont supportées par l'Etat du fait de la réduction d'impôt mentionnée à l'article 199 quater B.
+4° Les dépenses exposées pour la tenue de la comptabilité et, éventuellement, pour l'adhésion à une association agréée ne sont pas prises en compte pour la détermination du résultat imposable lorsqu'elles sont supportées par l'Etat du fait de la réduction d'impôt mentionnée à l'article 199 quater B ;
 
-5° Les dépenses exposées en vue de l'obtention d'un diplôme ou d'une qualification professionnelle dans la perspective d'une insertion ou d'une conversion professionnelle par les personnes tirant un revenu de la pratique d'un sport.
+5° Les dépenses exposées en vue de l'obtention d'un diplôme ou d'une qualification professionnelle dans la perspective d'une insertion ou d'une conversion professionnelle par les personnes tirant un revenu de la pratique d'un sport ;
 
 6° Les loyers versés en exécution d'un contrat de crédit-bail portant sur un immeuble, dans les conditions et limites fixées au 10 de l'article 39 (2).
 
 7° Les droits de mutation à titre gratuit acquittés par les héritiers, donataires ou légataires d'une exploitation, pour la part des droits afférente à cette exploitation, et les intérêts payés en application des dispositions de l'article 1717, pour la même part, dans les conditions prévues au 4° quater du 1 de l'article 39 (3).
+
+8° Les redevances de concessions de produits de la propriété industrielle définis à l'article 39 terdecies. Lorsqu'il existe des liens de dépendance entre le concédant et le concessionnaire, le montant des redevances est déductible dans les conditions et limites fixées au 12 de l'article 39 (4).
 
 1 bis. (Abrogé).
 
@@ -36,11 +38,11 @@ Les contribuables ayant demandé l'application de ce régime doivent joindre à 
 
 1 quater. Lorsqu'ils sont intégralement déclarés par les tiers, les produits de droits d'auteur perçus par les écrivains et compositeurs sont, sans préjudice de l'article 100 bis, soumis à l'impôt sur le revenu selon les règles prévues en matière de traitements et salaires.
 
-La déduction forfaitaire de 10 % pour frais professionnels, prévue à l'article 83 3°, s'applique au montant brut des droits perçus diminué des cotisations payées au titre des régimes obligatoire et complémentaire obligatoire de sécurité sociale.
+La déduction forfaitaire de 10 % pour frais professionnels, prévue au 3° de l'article 83, s'applique au montant brut des droits perçus diminué des cotisations payées au titre des régimes obligatoire et complémentaire obligatoire de sécurité sociale.
 
-En sus de la déduction forfaitaire visée au deuxième alinéa, les écrivains et compositeurs peuvent bénéficier d'une déduction forfaitaire supplémentaire pour frais professionnels dont le taux est fixé à 25 %. Cette déduction supplémentaire est calculée sur le montant brut des droits après application de la déduction forfaitaire pour frais professionnels de 10 %. Elle est limitée à 50 000 F.
+En sus de la déduction forfaitaire visée au deuxième alinéa, les écrivains et compositeurs peuvent bénéficier d'une déduction forfaitaire supplémentaire pour frais professionnels dont le taux est fixé à 25 %. Cette déduction supplémentaire est calculée sur le montant brut des droits après application de la déduction forfaitaire pour frais professionnels de 10 %. Elle est limitée à 50.000 F.
 
-Pour l'imposition des revenus des années 1998, 1999 et 2000, la limite de 50 000 F mentionnée au troisième alinéa est respectivement fixée à 30 000 F, 20 000 F et 10 000 F.
+Pour l'imposition des revenus des années 1998, 1999 et 2000, la limite de 50 000 F (6) mentionnée au troisième alinéa est respectivement fixée à 30 000 F (6), 20 000 F (6) et 10 000 (6).
 
 2. Dans le cas de concession de licence d'exploitation d'un brevet, ou de cession ou de concession d'un procédé ou formule de fabrication par l'inventeur lui-même, il est appliqué sur les produits d'exploitation ou sur le prix de vente un abattement de 30 % pour tenir compte des frais exposés en vue de la réalisation de l'invention, lorsque les frais réels n'ont pas déjà été admis en déduction pour la détermination du bénéfice imposable, sauf application des dispositions du deuxième alinéa de l'article 93 quater I.
 
@@ -54,11 +56,11 @@ Pour l'imposition des revenus des années 1998, 1999 et 2000, la limite de 50 00
 
 6. Les biens acquis à l'échéance des contrats mentionnés au III de l'article 93 quater constituent des éléments d'actif affectés à l'exercice de l'activité non commerciale pour l'application du présent article.
 
-7. Les sommes perçues postérieurement à la cession à titre onéreux par le cédant d'une entreprise individuelle exerçant une activité industrielle, commerciale ou artisanale en raison de son activité au profit du cessionnaire pendant la période de trois mois précédant la cession sont soumises à l'impôt sur le revenu sous déduction d'un abattement de 10 000 F.
+7. Les sommes perçues postérieurement à la cession à titre onéreux par le cédant d'une entreprise individuelle exerçant une activité industrielle, commerciale ou artisanale en raison de son activité au profit du cessionnaire pendant la période de trois mois précédant la cession sont soumises à l'impôt sur le revenu sous déduction d'un abattement de 1 550 euros.
 
-Cette disposition s'applique si le cédant est âgé de soixante ans au moins et soixante-cinq ans au plus à la date de la cession et s'il cesse d'exercer une activité de chef d'entreprise (4).
+Cette disposition s'applique si le cédant est âgé de soixante ans au moins et soixante-cinq ans au plus à la date de la cession et s'il cesse d'exercer une activité de chef d'entreprise (7).
 
-8. Sur demande expresse des contribuables soumis au régime de la déclaration contrôlée qui exercent une activité professionnelle au sens du 1 de l'article 92, les subventions visées à l'article 42 septies ne sont pas comprises dans les résultats de l'année en cours à la date de leur versement. Dans ce cas, elles sont imposables dans les conditions définies par ce dernier article (5).
+8. Sur demande expresse des contribuables soumis au régime de la déclaration contrôlée qui exercent une activité professionnelle au sens du 1 de l'article 92, les subventions visées à l'article 42 septies ne sont pas comprises dans les résultats de l'année en cours à la date de leur versement. Dans ce cas, elles sont imposables dans les conditions définies par ce dernier article (8).
 
 (1) En ce qui concerne les plus-values réalisées dans le cadre des opérations de nationalisation, voir art. 248 B.
 
@@ -66,6 +68,12 @@ Cette disposition s'applique si le cédant est âgé de soixante ans au moins et
 
 (3) Ces dispositions s'appliquent à compter de l'imposition des revenus de l'année 1997.
 
-(4) Ces dispositions s'appliquent aux cessions intervenues à compter du 1er janvier 1992.
+(4) Ces dispositions s'appliquent aux redevances prises en compte à compter du 1er janvier 2002 dans les résultats des concédants et concessionnaires.
 
-(5) Ces dispositions s'appliquent à compter de l'imposition des revenus de 1997.
+(5) Les dispositions du troisième alinéa cessent de s'appliquer à compter de l'imposition des revenus de l'année 2001.
+
+(6) Montant périmé au 1er janvier 2002.
+
+(7) Ces dispositions s'appliquent aux cessions intervenues à compter du 1er janvier 1992.
+
+(8) Ces dispositions s'appliquent à compter de l'imposition des revenus de 1997.

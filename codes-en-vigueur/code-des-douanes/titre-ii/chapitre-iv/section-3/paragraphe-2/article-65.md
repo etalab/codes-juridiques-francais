@@ -18,7 +18,9 @@ g) chez les concessionnaires d'entrepôts, docks et magasins généraux (registr
 
 h) chez les destinataires ou les expéditeurs réels des marchandises déclarées en douane ;
 
-i) et, en général, chez toutes les personnes physiques ou morales directement ou indirectement intéressées à des opérations régulières ou irrégulières relevant de la compétence du service des douanes.
+i) chez les opérateurs de télécommunications et les prestataires mentionnés aux articles 43-7 et 43-8 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, pour les données conservées et traitées par ces derniers, dans le cadre de l'article L. 32-3-1 du code des postes et télécommunications ;
+
+j) et, en général, chez toutes les personnes physiques ou morales directement ou indirectement intéressées à des opérations régulières ou irrégulières relevant de la compétence du service des douanes.
 
 2° Les agents des douanes ayant au moins le grade de contrôleur disposent également du droit de communication prévu par le 1° ci-dessus, lorsqu'ils agissent sur ordre écrit d'un agent ayant au moins le grade d'inspecteur. Cet ordre, qui doit être présenté aux assujettis, doit indiquer le nom des assujettis intéressés.
 

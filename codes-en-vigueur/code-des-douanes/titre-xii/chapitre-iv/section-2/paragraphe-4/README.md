@@ -2,4 +2,4 @@
 
 - [C. - Aliénation des marchandises confisquées ou abandonnées par transaction.](c)
 - [A. - Vente avant jugement des marchandises périssables et des moyens de transport.](a)
-- [B. - Aliénation des marchandises confisquées ou abandonnées par transaction.](b)
+- [B. - Destruction avant jugement de certaines catégories de marchandises.](b)

@@ -10,6 +10,8 @@ L'année où intervient le renouvellement général des conseils municipaux, cet
 
 2° La première année de perception du produit de la taxe d'habitation et des taxes foncières en application des dispositions du 1°, ainsi que l'année qui suit celle au titre de laquelle l'établissement public de coopération intercommunale a voté un taux égal à zéro pour ces trois taxes, les rapports entre les taux de taxe d'habitation et des taxes foncières établis par l'établissement public de coopération intercommunale sont égaux aux rapports constatés l'année précédente entre les taux moyens pondérés de chaque taxe dans l'ensemble des communes membres.
 
+Par dérogation aux dispositions de l'alinéa précédent, dans les établissements publics de coopération intercommunale qui décident d'appliquer les dispositions du 1°, et lorsqu'ils percevaient une fiscalité additionnelle l'année précédant celle de l'application de ces dispositions, les rapports entre les taux de taxe d'habitation et des taxes foncières établis par l'établissement public de coopération intercommunale peuvent être égaux aux rapports entre les taux de taxe d'habitation et de taxes foncières votés par lui l'année précédente.
+
 Les années suivantes, le taux de la taxe foncière sur les propriétés non bâties ne peut augmenter plus ou diminuer moins que le taux de la taxe d'habitation jusqu'à la date de la prochaine révision.
 
 III. 1° a. La première année d'application des dispositions du I, le taux de taxe professionnelle voté par le conseil de l'établissement public de coopération intercommunale ne peut excéder le taux moyen de la taxe professionnelle des communes membres constaté l'année précédente, pondéré par l'importance relative des bases de ces communes.

@@ -1,5 +1,6 @@
 # Sous-section 2 : Etablissements publics de coopération intercommunale dotés d'une fiscalité propre.
 
+- [Article L5211-28](article-l5211-28.md)
 - [Article L5211-31](article-l5211-31.md)
 - [Article L5211-32](article-l5211-32.md)
 - [Article L5211-33](article-l5211-33.md)

@@ -12,7 +12,7 @@ En 1995, les montants définis aux trois précédents alinéas progressent, sous
 
 A compter de 1996, le taux de progression des montants mentionnés au précédent alinéa est ainsi calculé, sous réserve des dispositions des articles L. 2334-9 à L. 2334-12 :
 
-si l'évolution des ressources de la dotation globale de fonctionnement, en application de l'indexation prévue au premier alinéa de l'article L. 1613-1, résulte pour un tiers au moins de la progression du produit intérieur brut en volume, le comité des finances locales fixe le taux de progression de ces montants entre 50 p. 100 et 55 p. 100 du taux de progression de l'ensemble de ces ressources ;
+si l'évolution des ressources de la dotation globale de fonctionnement, en application de l'indexation prévue au premier alinéa de l'article L. 1613-1, résulte pour un tiers au moins de la progression du produit intérieur brut en volume, le comité des finances locales fixe le taux de progression de ces montants entre 45 p. 100 et 55 p. 100 du taux de progression de l'ensemble de ces ressources ;
 
 dans le cas contraire, ces montants progressent de la moitié du taux d'évolution de l'ensemble des ressources affectées à la dotation globale de fonctionnement.
 
