@@ -6,4 +6,4 @@ Les personnes à l'encontre desquelles n'existent pas d'indices faisant présume
 
 L'officier de police judiciaire dresse procès-verbal de leurs déclarations. Les agents de police judiciaire désignés à l'article 20 peuvent également, sous le contrôle d'un officier de police judiciaire, entendre les personnes convoquées.
 
-Les procès-verbaux sont dressés dans les conditions prévues par l'article 62.
+Les procès-verbaux sont dressés dans les conditions prévues par les articles 62 et 62-1.
