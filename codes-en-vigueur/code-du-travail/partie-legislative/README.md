@@ -22,5 +22,4 @@
 - [LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES](les-groupements-professionnels-la-representation-la-participation-et)
 - [PLACEMENT ET EMPLOI](placement-et)
 - [REGLEMENTATION DU TRAVAIL HYGIENE ET SECURITE .](reglementation-du-travail-hygiene-et)
-- [FORMATION PROFESSIONNELLE DANS LE CADRE DE L'EDUCATION PERMANENTE](formation-professionnelle-dans-le-cadre-de-l-education-permanente)
 - [REGLEMENTATION DU TRAVAIL](reglementation-du-travail)

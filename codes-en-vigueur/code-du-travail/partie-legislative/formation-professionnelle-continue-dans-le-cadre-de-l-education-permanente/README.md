@@ -5,7 +5,6 @@
 - [DISPOSITIONS RELATIVES A LA PROMOTION INDIVIDUELLE ET AUX CONGES DE FORMATION .](dispositions-relatives-a)
 - [PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION  PROFESSIONNELLE  CONTINUE .](participation-des-employeurs-au)
 - [DISPOSITIONS RELATIVES AUX AGENTS DE L'ETAT ET AUX AGENTS DES  COLLECTIVITES LOCALES .](dispositions-relatives-aux)
-- [DE LA PROMOTION INDIVIDUELLE ET DU CONGE DE FORMATION.](de-la-promotion-individuelle-et)
 - [Article L900-1](article-l900-1.md)
 - [Article L990-1](article-l990-1.md)
 - [Article L990-2](article-l990-2.md)
