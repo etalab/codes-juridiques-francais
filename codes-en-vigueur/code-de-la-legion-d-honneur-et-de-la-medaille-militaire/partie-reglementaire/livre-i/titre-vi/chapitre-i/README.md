@@ -6,3 +6,4 @@
 - [Article R115](article-r115.md)
 - [Article R116](article-r116.md)
 - [Article R117](article-r117.md)
+- [Article R118](article-r118.md)
