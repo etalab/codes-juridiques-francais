@@ -10,7 +10,6 @@
 - [Article D542-9](article-d542-9.md)
 - [Article D542-10](article-d542-10.md)
 - [Article D542-11](article-d542-11.md)
-- [Article D542-12](article-d542-12.md)
 - [Article D542-13](article-d542-13.md)
 - [Article D542-14](article-d542-14.md)
 - [Article D542-15](article-d542-15.md)
