@@ -15,3 +15,4 @@
 - [Article R*232-13](article-r-232-13.md)
 - [Article R*232-14](article-r-232-14.md)
 - [Article R*232-15](article-r-232-15.md)
+- [Article R232-23](article-r232-23.md)
