@@ -3,7 +3,6 @@
 - [Section 1 : Des hypothèques légales.](section-1)
 - [Section 2 : Des hypothèques judiciaires.](section-2)
 - [Section 3 : Des hypothèques conventionnelles.](section-3)
-- [Section IV : Du rang que les hypothèques ont entre elles.](section-iv)
 - [Section 5 : Des règles particulières à l'hypothèque légale des époux.](section-5)
 - [Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle.](section-6)
 - [Article 2114](article-2114.md)
