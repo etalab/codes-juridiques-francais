@@ -6,4 +6,4 @@
 
 3° Les dispositions des alinéas précédents peuvent être appliquées séparément ou conjointement ;
 
-4° Le taux de rendement des actifs ne tient pas compte du rendement des actifs afférents aux opérations à capital variable et aux opérations relevant de l'article L. 932-24.
+4° Le taux de rendement des actifs est calculé conformément au 1 du II de l'article A 931-10-17. Il ne tient pas compte du rendement des actifs afférents aux opérations à capital variable et aux opérations relevant de l'article L. 932-24.
