@@ -7,5 +7,3 @@
 - [Article R176-4](article-r176-4.md)
 - [Article R176-5](article-r176-5.md)
 - [Article R176-6](article-r176-6.md)
-- [Article R*179](article-r-179.md)
-- [Article R*179-1](article-r-179-1.md)
