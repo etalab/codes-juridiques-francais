@@ -4,5 +4,4 @@
 - [Titre II : Les délégués du personnel](titre-ii)
 - [Titre III : Les comités d'entreprise](titre-iii)
 - [Titre IV : Intéressement et participation](titre-iv)
-- [Titre VI : PENALITES](titre-vi)
 - [Titre VII : PENALITES](titre-vii)

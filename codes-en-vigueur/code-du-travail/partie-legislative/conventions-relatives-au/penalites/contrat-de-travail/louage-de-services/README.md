@@ -1,3 +1,0 @@
-# LOUAGE DE SERVICES - REGLEMENT INTERIEUR .
-
-- [Article L152-1](article-l152-1.md)
