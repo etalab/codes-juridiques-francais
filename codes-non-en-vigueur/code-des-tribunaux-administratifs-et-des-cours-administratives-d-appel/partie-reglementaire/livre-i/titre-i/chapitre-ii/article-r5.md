@@ -1,6 +1,6 @@
 # Article R5
 
-Les tribunaux administratifs désignés ci-après sont présidés par un président hors classe et composés de plusieurs chambres, dont le nombre est fixé comme suit :
+Les tribunaux administratifs désignés ci-après sont composés de plusieurs chambres, dont le nombre est fixé comme suit :
 
 Amiens : trois chambres ;
 
@@ -10,7 +10,7 @@ Bordeaux : trois chambres ;
 
 Caen : deux chambres ;
 
-Châlons-sur-Marne : deux chambres ;
+Châlons-en-Champagne : deux chambres ;
 
 Clermont-Ferrand : deux chambres ;
 
@@ -49,3 +49,5 @@ Strasbourg : quatre chambres ;
 Toulouse : trois chambres ;
 
 Versailles : six chambres.
+
+Les tribunaux administratifs comportant au moins cinq chambres sont présidés par un président classé au 6e échelon de son grade. Les tribunaux administratifs comportant moins de cinq chambres sont présidés par un président classé au 5e échelon de son grade.
