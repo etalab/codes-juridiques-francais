@@ -1,5 +1,0 @@
-# Article L318-6
-
-Faute par le propriétaire d'avoir déféré à la mise en demeure prévue à l'article L. 318-5, la personne publique intéressée peut demander au tribunal de grande instance du lieu de l'immeuble la mise en vente aux enchères publique de la parcelle ou du groupe de parcelles ; la mise à prix est égale au prix demandé par le propriétaire et accepté par l'administration ou, en cas de désaccord, estimé par la juridiction compétente en matière d'expropriation ; le cahier des charges doit prévoir une utilisation immédiate conforme aux dispositions du plan d'aménagement ; il peut prévoir une participation de l'acquéreur aux frais de viabilité si la desserte de la parcelle ne peut être assurée que par création d'une voie nouvelle.
-
-La personne publique qui poursuit l'opération peut se porter acquéreur. Au cas où l'adjudication échouerait faute d'enchérisseur et où le propriétaire ne formulerait pas le désir de reprendre son immeuble, cette personne est déclarée adjudicataire.         Si la personne publique qui a poursuivi l'opération rétrocède la parcelle ou le groupe de parcelles à son premier propriétaire, elle prend les frais à sa charge.
