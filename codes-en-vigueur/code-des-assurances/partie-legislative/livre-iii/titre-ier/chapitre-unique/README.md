@@ -1,6 +1,7 @@
 # Chapitre unique
 
 - [Section I : Dispositions générales.](section-i)
+- [Section II : Commission de contrôle des assurances.](section-ii)
 - [Article L310-1](article-l310-1.md)
 - [Article L310-2](article-l310-2.md)
 - [Article L310-3](article-l310-3.md)
