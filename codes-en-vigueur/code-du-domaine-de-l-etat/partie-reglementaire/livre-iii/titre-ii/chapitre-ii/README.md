@@ -15,4 +15,5 @@
 - [Article A116-1](article-a116-1.md)
 - [Article A117](article-a117.md)
 - [Article A117-1](article-a117-1.md)
+- [Article A117-2](article-a117-2.md)
 - [Article A117-4](article-a117-4.md)
