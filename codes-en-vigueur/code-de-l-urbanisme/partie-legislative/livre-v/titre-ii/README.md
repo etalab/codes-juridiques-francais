@@ -5,6 +5,7 @@
 - [Article L520-3](article-l520-3.md)
 - [Article L520-4](article-l520-4.md)
 - [Article L520-5](article-l520-5.md)
+- [Article L520-6](article-l520-6.md)
 - [Article L520-7](article-l520-7.md)
 - [Article L520-8](article-l520-8.md)
 - [Article L520-9](article-l520-9.md)

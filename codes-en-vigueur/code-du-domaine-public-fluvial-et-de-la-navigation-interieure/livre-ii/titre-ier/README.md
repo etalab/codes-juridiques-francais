@@ -5,3 +5,4 @@
 - [Chapitre III : De la publicité des actes translatifs, constitutifs ou déclaratifs de droits réels sur les bateaux de navigation intérieure](chapitre-iii)
 - [Chapitre IV : De la purge des hypothèques](chapitre-iv)
 - [Chapitre V : De la saisie et de la vente forcée](chapitre-v)
+- [Chapitre VI : Dispositions générales](chapitre-vi)
