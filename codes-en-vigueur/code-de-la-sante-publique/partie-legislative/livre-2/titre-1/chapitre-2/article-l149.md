@@ -14,6 +14,6 @@ Le service doit organiser :
 
 6° L'édition et la diffusion des documents mentionnés par les articles L. 153, L. 155, L. 163 et L. 164 ;
 
-7° Des actions de formation destinées à aider les assistantes maternelles dans leurs tâches éducatives.
+7° Des actions de formations destinées à aider dans leurs tâches éducatives les assistantes maternelles accueillant des mineurs à titre non permanent.
 
 En outre, le service doit participer aux actions de prévention des mauvais traitements et de prise en charge des mineurs maltraités dans les conditions prévues au sixième alinéa (5°) de l'article 40 et aux articles 66 à 72 du code de la famille et de l'aide sociale.
