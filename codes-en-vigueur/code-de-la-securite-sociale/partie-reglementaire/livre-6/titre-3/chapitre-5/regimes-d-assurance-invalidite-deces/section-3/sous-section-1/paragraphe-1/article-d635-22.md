@@ -32,4 +32,4 @@ La cotisation est arrondie au franc inférieur.
 
 En outre, une classe réduite dont la cotisation est égale aux deux tiers de celle de la classe A est ouverte aux personnes dont les revenus mentionnés ci-dessus sont compris entre dix fois et vingt fois le montant de la cotisation de cette classe réduite.
 
-La cotisation annuelle est acquittée en deux semestrialités d'égal montant aux dates fixées par le règlement prévu au deuxième alinéa de l'article D. 635-25.
+La cotisation annuelle est acquittée selon des modalités fixées par le règlement prévu au deuxième alinéa de l'article D. 635-25.
