@@ -22,4 +22,4 @@ L'interruption du fait de l'entrepreneur de travail temporaire ou la notificatio
 
 Cette procédure est également applicable aux délégués du personnel institués par voie conventionnelle.
 
-En cas de redressement judiciaire, tout licenciement d'un salarié mentionné aux précédents alinéas est soumis à la procédure définie au présent article.
+En cas de redressement ou de liquidation judiciaire, tout licenciement d'un salarié mentionné aux précédents alinéas est soumis à la procédure définie au présent article.
