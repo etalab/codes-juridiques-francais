@@ -1,0 +1,4 @@
+# SOUS-SECTION 2 : PROTECTION DES SALARIES ET DROIT DISCIPLINAIRE.
+
+- [Article L122-41](article-l122-41.md)
+- [Article L122-45](article-l122-45.md)
