@@ -17,7 +17,6 @@
 - [Article L122-14-3](article-l122-14-3.md)
 - [Article L122-14-4](article-l122-14-4.md)
 - [Article L122-14-5](article-l122-14-5.md)
-- [Article L122-14-6](article-l122-14-6.md)
 - [Article L122-14-7](article-l122-14-7.md)
 - [Article L122-14-8](article-l122-14-8.md)
 - [Article L122-14-9](article-l122-14-9.md)
