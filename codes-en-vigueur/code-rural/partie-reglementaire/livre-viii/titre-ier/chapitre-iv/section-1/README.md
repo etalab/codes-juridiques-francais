@@ -1,12 +1,8 @@
 # Section 1 : Conseil national de l'enseignement agricole.
 
-- [Article R*814-1](article-r-814-1.md)
 - [Article R814-1](article-r814-1.md)
-- [Article R*814-2](article-r-814-2.md)
 - [Article R814-2](article-r814-2.md)
-- [Article R*814-3](article-r-814-3.md)
 - [Article R814-3](article-r814-3.md)
-- [Article R*814-4](article-r-814-4.md)
 - [Article R814-4](article-r814-4.md)
 - [Article R814-5](article-r814-5.md)
 - [Article R814-6](article-r814-6.md)

@@ -2,4 +2,3 @@
 
 - [Section 1 : Dispositions générales](section-1)
 - [Section 2 : Dispositions particulières à chaque catégorie d'établissements sous contrat](section-2)
-- [Section 3 : Dispositions communes.](section-3)
