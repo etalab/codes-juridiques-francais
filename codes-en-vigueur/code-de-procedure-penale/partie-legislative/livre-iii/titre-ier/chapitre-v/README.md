@@ -3,6 +3,7 @@
 - [Article 605](article-605.md)
 - [Article 606](article-606.md)
 - [Article 607](article-607.md)
+- [Article 608](article-608.md)
 - [Article 609](article-609.md)
 - [Article 610](article-610.md)
 - [Article 611](article-611.md)
