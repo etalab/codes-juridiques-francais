@@ -1,6 +1,7 @@
 # 0I bis : Détaxation du revenu investi en actions.
 
 - [Article 75-0 I](article-75-0-i.md)
+- [Article 75-0 V](article-75-0-v.md)
 - [Article 75-0 L](article-75-0-l.md)
 - [Article 75-0 M](article-75-0-m.md)
 - [Article 75-0 E](article-75-0-e.md)

@@ -11,6 +11,7 @@
 - [VIII : Imposition des plus-values dégagées à l'occasion de l'aliénation de terrains à bâtir](viii)
 - [XIII : Régime fiscal des sociétés civiles ayant pour objet la construction d'immeubles en vue de la vente](xiii)
 - [XV : Régime fiscal des syndicats mixtes de gestion forestière et des groupements syndicaux forestiers](xv)
+- [XIV : Régime fiscal des groupements d'intérêt économique et de leurs membres](xiv)
 - [XIV bis : Sociétés civiles de moyens](xiv-bis)
 - [XVII : Sociétés civiles autorisées à faire publiquement appel à l'épargne.](xvii)
 - [XVII bis : Personnes morales passibles de l'impôt sur les sociétés ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble.](xvii-bis)

@@ -10,3 +10,4 @@
 - [III : Provisions pour reconstitution des gisements](iii)
 - [III bis : Provision pour prêts d'installation consentis par les entreprises à leurs salariées.](iii-bis)
 - [VIII : Contrôle des frais généraux. Obligations des entreprises](viii)
+- [IX : Evaluation des stocks et des travaux en cours](ix)
