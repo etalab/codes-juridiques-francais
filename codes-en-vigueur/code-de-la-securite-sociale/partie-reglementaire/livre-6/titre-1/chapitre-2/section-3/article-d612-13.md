@@ -1,6 +1,6 @@
 # Article D612-13
 
-Les cotisations de base sont dues à compter de la date d'effet de l'affiliation. Elles sont payables d'avance et réparties en deux échéances semestrielles fixées au 1er avril et au 1er octobre de chaque année.
+Les cotisations de base sont dues à compter de la date d'effet de l'affiliation. Elles sont payables d'avance suivant les modalités fixées à l'article D. 612-2.
 
 Toutefois, pour les nouveaux cotisants, la date limite de paiement est fixée au premier jour du deuxième mois qui suit la décision d'affiliation. Ils sont tenus   de verser à cette date le montant de la cotisation correspondant à la période comprise entre la date d'effet de l'affiliation et l'échéance semestrielle suivante.
 
