@@ -1,0 +1,3 @@
+# TAXES SUR LA VALEUR AJOUTEE *TVA*
+
+- [LIQUIDATION DE LA TAXE.](liquidation-de-la-taxe)
