@@ -7,4 +7,5 @@
 - [Section 5 : Ventes ou prestations avec primes](section-5)
 - [Section 6 : Loteries publicitaires](section-6)
 - [Section 8 : Publicité et pratiques commerciales concernant les préparations pour nourrissons](section-8)
+- [Section 9 : Contrat de jouissance d'immeuble à temps partagé.](section-9)
 - [Section 10 : Appellation de boulanger et enseigne de boulangerie](section-10)
