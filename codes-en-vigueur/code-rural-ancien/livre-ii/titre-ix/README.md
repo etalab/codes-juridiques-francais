@@ -17,7 +17,6 @@
 - [Article 336](article-336.md)
 - [Article 337](article-337.md)
 - [Article 338](article-338.md)
-- [Article 339](article-339.md)
 - [Article 340](article-340.md)
 - [Article 340-1](article-340-1.md)
 - [Article 341](article-341.md)

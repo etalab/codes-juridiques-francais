@@ -1,5 +1,5 @@
 # Article 45
 
-Décrets d'attibution.
+Décrets d'attribution.
 
-Toutes les dispositions prévues par la loi du 6 mai 1919 modifiée par celle du 22 juillet 1927 pour la protection des appellations d'origine, notamment les articles 1er à 13 et 22 et 23 de cette loi, s'appliquent aux "appellations contrôlées" ayant fait l'objet des décrets prévus par l'article 44.
+Toutes les dispositions prévues par les articles L. 641-17, L. 641-18, L. 641-19, L. 641-20, L. 671-4 du code rural s'appliquent aux "appellations contrôlées" ayant fait l'objet des décrets prévus par l'article 44.

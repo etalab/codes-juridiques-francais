@@ -10,7 +10,7 @@ Dans les papiers de commerce, factures, catalogues, prospectus, prix courants, e
 
 1° De toute indication de tout mode de présentation (dessin, illustration, image ou signe quelconque) susceptible de créer une confusion dans l'esprit de l'acheteur sur la nature, l'origine, les qualités substantielles, la composition des produits ou la capacité de récipients les contenant ;
 
-2° Des mots "grand cru" ou "premier cru", sauf lorsqu'il est fait de ces mots un usage collectif par incorporation à une appellation d'origine définie par un décret pris en application de l'article 21 du décret du 30 juillet 1935.
+2° Des mots "grand cru" ou "premier cru", sauf lorsqu'il est fait de ces mots un usage collectif par incorporation à une appellation d'origine définie par un décret pris en application de l'article L. 641-15 du code rural.
 
 Des mots "cru classé" précédés ou non d'une indication hiérarchique ou de tout autre mot évoquant une hiérarchie de mérite entre les vins provenant de domaines viticoles particuliers, sauf :
 
@@ -32,4 +32,4 @@ Le mot "haut" ne peut être employé que s'il fait partie du nom d'une appellati
 
 Il est interdit de mentionner, parmi les produits à appellation d'origine figurant sur les prix-courants, tarifs, papiers de commerce, réclames, ainsi que tous autres documents de publicité, des vins, vins mousseux et eaux-de-vie n'ayant pas droit à une appellation d'origine.
 
-5° Du mot "crémant" sauf lorsqu'il s'applique au "champagne" ou à ceux des vins mousseux et pétillants à appellation d'origine pour lesquels des conditions de production spécifiques sont fixées selon la procédure prévue à l'article 21 du décret du 30 juillet 1935 et à l'article 305 bis du code du vin.
+5° Du mot "crémant" sauf lorsqu'il s'applique au "champagne" ou à ceux des vins mousseux et pétillants à appellation d'origine pour lesquels des conditions de production spécifiques sont fixées selon la procédure prévue à l'article L. 641-15 du code rural et à l'article 305 bis du code du vin.
