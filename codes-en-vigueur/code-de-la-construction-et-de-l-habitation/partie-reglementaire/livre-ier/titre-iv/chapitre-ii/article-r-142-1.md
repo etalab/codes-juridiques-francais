@@ -6,7 +6,7 @@ Il participe aux travaux d'une commission, constituée auprès du ministre charg
 
 Sur leur demande éventuelle, le centre scientifique et technique du bâtiment apporte son concours aux services du ministre chargé de la construction et de l'habitation et des autres départements ministériels pour toute étude portant sur la technique ou l'économie de la construction.
 
-Il participe, en liaison avec les services intéressés et sous le contrôle du ministre chargé de la construction et de l'habitation, aux activités de coopération technique internationale concernant l'habitation et la construction.
+Il participe, en liaison avec les services intéressés et sous le contrôle du ministre chargé de la construction et de l'habitation, aux activités de coopération technique internationale concernant l'habitation et la construction. Il peut se voir confier toutes missions ayant trait à ces mêmes matières dans le domaine international.
 
 Il contribue à la diffusion des connaissances scientifiques et techniques en matière d'habitation et de construction par des publications et par toutes autres mesures appropriées.
 
