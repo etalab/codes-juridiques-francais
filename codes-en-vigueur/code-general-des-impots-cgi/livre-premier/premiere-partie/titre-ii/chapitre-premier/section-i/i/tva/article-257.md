@@ -12,7 +12,7 @@ Sont également soumis à la taxe sur la valeur ajoutée :
 
 6° Les opérations qui portent sur des immeubles, des fonds de commerce ou des actions ou parts de sociétés immobilières et dont les résultats doivent être compris dans les bases de l'impôt sur le revenu au titre des bénéfices industriels ou commerciaux ;
 
-7° Les opérations concourant à la production ou à la livraison d'immeubles (1).
+7° Les opérations concourant à la production ou à la livraison d'immeubles (1) (1').
 
 Ces opérations sont imposables même lorsqu'elles revêtent un caractère civil.
 
@@ -26,7 +26,11 @@ b) Les ventes d'immeubles et les cessions, sous forme de vente ou d'apport en so
 
 c) Les livraisons à soi-même d'immeubles.
 
-Toutefois la livraison à soi-même d'immeubles affectés ou destinés à être affectés à l'habitation pour les trois quarts au moins de leur superficie totale et d'immeubles qui ne sont pas destinés à être utilisés pour la réalisation d'opérations soumises à la taxe sur la valeur ajoutée n'est imposée que lorsqu'il s'agit d'immeubles construits par des sociétés dont les parts ou actions assurent en droit ou en fait l'attribution en propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble.
+((Toutefois, la livraison à soi-même d'immeubles affectés ou destinés à être affectés à l'habitation pour les trois quarts au moins de leur superficie totale et d'immeubles qui ne sont pas destinés à être utilisés pour la réalisation d'opérations soumises à la taxe sur la valeur ajoutée n'est imposée que lorsqu'il s'agit :
+
+((- d'immeubles construits par des sociétés dont les parts ou actions assurent en droit ou en fait l'attribution en propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble ;
+
+((- de logements sociaux à usage locatif mentionnés au 3° de l'article L. 351-2 du code de la construction et de l'habitation financés au moyen d'un prêt prévu à l'article R. 331-1 du même code qui bénéficient de la décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du même code à compter du 1er octobre 1996, et dont l'ouverture de chantier est intervenue à compter de cette date)) (M).
 
 2. Les dispositions qui précèdent ne sont pas applicables :
 
@@ -34,7 +38,7 @@ Aux opérations portant sur des immeubles ou parties d'immeubles qui sont achev�
 
 Aux opérations portant sur des droits sociaux qui sont afférents à des immeubles ou parties d'immeubles achevés depuis plus de cinq ans ou qui, dans les cinq ans de l'achèvement de ces immeubles ou parties d'immeubles, ont déjà fait l'objet d'une cession à titre onéreux à une personne n'intervenant pas en qualité de marchand de biens ;
 
-2 bis Le transfert de propriété à titre onéreux d'un immeuble bâti d'une commune à une communauté de communes, ((en application du premier alinéa de l'article L. 5214-18 du code général des collectivités territoriales)) (M), n'est pas pris en compte pour l'application du 2.
+2 bis Le transfert de propriété à titre onéreux d'un immeuble bâti d'une commune à une communauté de communes, en application du premier alinéa de l'article L. 5214-18 du code général des collectivités territoriales, n'est pas pris en compte pour l'application du 2.
 
 3. Les acquisitions de terrains attenants à ceux qui ont été acquis précédemment en vue de la construction de maisons individuelles par des personnes physiques pour leur propre usage et à titre d'habitation principale peuvent, à la demande de l'acquéreur, mentionnée dans l'acte, être soumises à la taxe sur la valeur ajoutée.
 
@@ -48,7 +52,7 @@ b) Est subordonnée à la condition que l'acquisition nouvelle soit effectuée m
 
 1. Sont assimilés à des livraisons de biens effectuées à titre onéreux :
 
-a) Le prélèvement par un assujetti d'un bien de son entreprise pour ses besoins privés ou ceux de son personnel ou qu'il transmet à titre gratuit ou, plus généralement, qu'il affecte à des fins étrangères à son entreprise, lorsque ce bien ou les éléments le composant ont ouvert droit à une déduction complète ou partielle de la taxe sur la valeur ajoutée. Toutefois, ne sont pas visés les prélèvements effectués pour les besoins de l'entreprise pour donner des cadeaux de faible valeur et des échantillons. Le montant à retenir pour l'imposition de ces prélèvements est fixé par arrêté. Cette limite s'applique par objet et par an pour un même bénéficiaire ;
+a) Le prélèvement par un assujetti d'un bien de son entreprise pour ses besoins privés ou ceux de son personnel ou qu'il transmet à titre gratuit ou, plus généralement, qu'il affecte à des fins étrangères à son entreprise, lorsque ce bien ou les éléments le composant ont ouvert droit à une déduction complète ou partielle de la taxe sur la valeur ajoutée. Toutefois, ne sont pas visés les prélèvements effectués pour les besoins de l'entreprise pour donner des cadeaux de faible valeur et des échantillons. Le montant à retenir pour l'imposition ((des prélèvements correspondant aux cadeaux de faible valeur)) (M1) est fixé par arrêté. Cette limite s'applique par objet et par an pour un même bénéficiaire (2');
 
 b) L'affectation par un assujetti aux besoins de son entreprise d'un bien produit, construit, extrait, transformé, acheté, importé ou ayant fait l'objet d'une acquisition intracommunautaire dans le cadre de son entreprise lorsque l'acquisition d'un tel bien auprès d'un autre assujetti, réputée faite au moment de l'affectation, ne lui ouvrirait pas droit à déduction complète parce que le droit à déduction de la taxe afférente au bien fait l'objet d'une exclusion ou d'une limitation ou peut faire l'objet d'une régularisation ; cette disposition s'applique notamment en cas d'affectation de biens à des opérations situées hors du champ d'application de la taxe sur la valeur ajoutée ;
 
@@ -94,9 +98,13 @@ d) (Abrogé, loi 94-1163 à compter du 1er janvier 1995) ;
 
 (1) Voir Annexe II, art. 243 à 259. [*Cf. Instruction 1996-01-03 8A-1-96*].
 
-(M) Modification.
+(1') Cf. Instruction 1997-02-18 8A-1-97.    (M) Modification de la loi 96-1181.
 
 (2) Voir Annexe II, art. 255.
+
+(2') Cf. Instruction 1997-03-20 3D-3-97.
+
+(M1) Modification de la loi 96-1182.
 
 (3) Voir Annexe IV, art. 23 N.
 
