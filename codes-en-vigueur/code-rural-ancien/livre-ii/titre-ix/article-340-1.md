@@ -22,6 +22,8 @@ Les conditions d'agrément de ces laboratoires ainsi que la nature de ces examen
 
 8° Les fonctionnaires et agents contractuels relevant du service des haras nationaux du ministère chargé de l'agriculture titulaires d'une licence d'inséminateur pour l'espèce équine et spécialement habilités à cet effet, intervenant dans le cadre de leurs attributions sous l'autorité médicale d'un vétérinaire ou d'un docteur vétérinaire, pour la réalisation de constats de gestation, notamment par échographie, des femelles équines.
 
+9° Les fonctionnaires ou agents mentionnés à l'article 309-7-1 et intervenant dans les limites prévues par ledit article.
+
 b) Les castrations des animaux autres que les équidés et les carnivores domestiques ;
 
 c) Les soins de première urgence autres que ceux nécessités par les maladies contagieuses.
