@@ -1,6 +1,6 @@
 # Article 303
 
-Il est procédé à un appel d'offres sur performances lorsque la personne publique contractante définit les prestations dans un programme fonctionnel détaillé sous la forme d'exigences de résultats vérifiables à atteindre ou de besoins à satisfaire. Les moyens de parvenir à ces résultats ou de répondre à ces besoins sont proposés par chaque candidat dans son offre. Cet appel d'offres est toujours restreint.
+Il est procédé à un appel d'offres sur performances pour des motifs d'ordre technique ou financier lorsque la personne publique contractante définit les prestations dans un programme fonctionnel détaillé sous la forme d'exigences de résultats vérifiables à atteindre ou de besoins à satisfaire. Les moyens de parvenir à ces résultats ou de répondre à ces besoins sont proposés par chaque candidat dans son offre. Cet appel d'offres est toujours restreint.
 
 L'appel d'offres sur performances peut porter à la fois sur l'établissement d'un projet et son exécution, ou sur l'exécution d'un projet préalablement établi en tout ou partie.
 
