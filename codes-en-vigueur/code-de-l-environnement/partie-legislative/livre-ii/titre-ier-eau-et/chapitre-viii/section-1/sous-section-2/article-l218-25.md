@@ -1,6 +1,6 @@
 # Article L218-25
 
-I. - Les personnes morales peuvent être déclarées pénalement responsables, dans les conditions prévues à l'article 121-2 du code pénal, des infractions définies aux articles L. 218-20 et L. 218-22.
+I. - Les personnes morales peuvent être déclarées pénalement responsables, dans les conditions prévues à l'article 121-2 du code pénal, des infractions définies à la présente sous-section.
 
 II. - Elles encourent les peines suivantes :
 
