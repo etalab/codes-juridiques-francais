@@ -30,7 +30,7 @@ Travaux exposant aux bruits lésionnels provoqués par :
 
 - les travaux de verrerie à proximité des fours, machines de fabrication, broyeurs et concasseurs ; l'embouteillage ;
 
-- le tissage sur métiers ou machines à tisser ;
+- le tissage sur métiers ou machines à tisser, les travaux sur peigneuses, machines à filer incluant le passage sur bancs à broches, retordeuses, moulineuses, bobineuses de fibres textiles ;
 
 - la mise au point, les essais et l'utilisation des propulseurs, réacteurs, moteurs thermiques, groupes électrogènes, groupes hydrauliques, installations de compression ou de détente fonctionnant à des pressions différentes de la pression atmosphérique, ainsi que des moteurs électriques de puissance comprise entre 11 kW et 55 kW s'ils fonctionnent à plus de 2 360 tours par minute, de ceux dont la puissance est comprise entre 55 kW et 220 kW s'ils fonctionnent à plus de 1 320 tours par minute et de ceux dont la puissance dépasse 220 kW ;
 
