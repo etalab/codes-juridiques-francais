@@ -2,6 +2,7 @@
 
 - [Titre II : Des actes de l'état civil](titre-ii)
 - [Titre III : Du domicile](titre-iii)
+- [Titre IV : Des absents](titre-iv)
 - [Titre V : Du mariage](titre-v)
 - [Titre VI : Du divorce](titre-vi)
 - [Titre VII : De la filiation](titre-vii)
