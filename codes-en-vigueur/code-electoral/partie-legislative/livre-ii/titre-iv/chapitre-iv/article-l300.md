@@ -4,8 +4,8 @@ Dans les départements où les élections ont lieu à la représentation proport
 
 Outre les renseignements mentionnés à l'article L. 298, la déclaration doit indiquer le titre de la liste et l'ordre de présentation des candidats.
 
-Une déclaration collective pour chaque liste peut être faite par un mandataire de celle-ci.
+Une déclaration collective pour chaque liste est faite par un mandataire de celle-ci. Tout changement de composition d'une liste ne peut être effectué que par retrait de celle-ci et le dépôt d'une nouvelle déclaration. La déclaration de retrait doit comporter la signature de l'ensemble des candidats de la liste.
 
-Aucun retrait de candidature n'est admis après la date limite de dépôt des candidatures.
+Le retrait d'une liste ne peut intervenir après l'expiration du délai prévu pour le dépôt des déclarations de candidatures.
 
 En cas de décès de l'un des candidats au cours de la campagne électorale, les autres candidats de la liste auront le droit de le remplacer jusqu'à la veille de l'ouverture du scrutin par un nouveau candidat au rang qui leur conviendra.
