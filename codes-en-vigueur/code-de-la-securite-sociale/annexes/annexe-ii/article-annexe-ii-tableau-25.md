@@ -22,6 +22,8 @@ c) complications non spécifiques :
 
 pneumothorax spontané ; suppuration broncho-pulmonaire subaiguë ou chronique ; insuffisance respiratoire aiguë nécessitant des soins intensifs en milieu spécialisé
 
+d) Association d'une pneumoconiose avec une sclérodermie systémique progressive (syndrome d'Erasmus).
+
 DELAI DE PRISE EN CHARGE : 15 ans (sous réserve des dispositions du décret pris en application de l'article L. 461-7 du code de la sécurité sociale).
 
 LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :

@@ -56,6 +56,14 @@ Préparation et mise en oeuvre de colorants réactifs, notamment à hétérocycl
 
 Préparation et utilisation de colles au cyanoacrylate.
 
+Travaux exposant à des émanations de glutaraldéhyde ;
+
+Travaux exposant aux résidus d'extraction des huiles, notamment de ricin et d'ambrette ;
+
+Travaux exposant à des émanations d'oxyde d'éthylène, notamment lors de la stérilisation ;
+
+Fabrication et conditionnement du chloramine T.
+
 DESIGNATION DES MALADIES :
 
 - B -
