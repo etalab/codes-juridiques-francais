@@ -2,4 +2,3 @@
 
 - [Partie législative](partie-legislative)
 - [Partie réglementaire - Décrets simples](partie-reglementaire)
-- [Annexes](annexes)
