@@ -24,6 +24,6 @@ En cas de partage égal des voix, celle du président est prépondérante.
 
 Les membres titulaires et suppléants de la commission ne peuvent être révoqués.
 
-Le directeur des assurances au ministère de l'économie et des finances, ou son représentant, siège auprès de la commission en qualité de commissaire du Gouvernement.
+Le directeur du Trésor au ministère de l'économie et des finances, ou son représentant, siège auprès de la commission en qualité de commissaire du Gouvernement.
 
 Le secrétariat général de la commission est assuré par le chef du service de contrôle des assurances.

@@ -1,4 +1,15 @@
 # Section II : Obligations de l'assureur et de l'assuré.
 
+- [Article L172-11](article-l172-11.md)
+- [Article L172-12](article-l172-12.md)
 - [Article L172-13](article-l172-13.md)
+- [Article L172-14](article-l172-14.md)
+- [Article L172-15](article-l172-15.md)
+- [Article L172-16](article-l172-16.md)
+- [Article L172-17](article-l172-17.md)
+- [Article L172-18](article-l172-18.md)
+- [Article L172-19](article-l172-19.md)
+- [Article L172-20](article-l172-20.md)
+- [Article L172-21](article-l172-21.md)
 - [Article L172-22](article-l172-22.md)
+- [Article L172-23](article-l172-23.md)

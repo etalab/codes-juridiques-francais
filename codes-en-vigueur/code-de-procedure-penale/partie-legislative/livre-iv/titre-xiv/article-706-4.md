@@ -1,6 +1,6 @@
 # Article 706-4
 
-L'indemnité est allouée par une commission instituée dans le ressort de chaque tribunal de grande instance. Cette commission a le caractère d'une juridiction civile qui se prononce en premier et dernier ressort.
+L'indemnité est allouée par une commission instituée dans le ressort de chaque tribunal de grande instance. Cette commission a le caractère d'une juridiction civile qui se prononce en premier ressort.
 
 La commission est composée de deux magistrats du siège du tribunal de grande instance et d'une personne majeure, de nationalité française et jouissant de ses droits civiques, s'étant signalée par l'intérêt qu'elle porte aux problèmes des victimes. Elle est présidée par l'un des magistrats.
 

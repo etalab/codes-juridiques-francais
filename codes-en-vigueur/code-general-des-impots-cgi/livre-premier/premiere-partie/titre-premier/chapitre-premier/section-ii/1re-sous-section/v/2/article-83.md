@@ -4,7 +4,7 @@ Le montant net du revenu imposable est déterminé en déduisant du montant brut
 
 1° Les cotisations de sécurité sociale ;
 
-1° bis Les cotisations afférentes au régime de retraite complémentaire institué par la caisse nationale de prévoyance de la fonction publique. Des décrets peuvent étendre le bénéfice de cette disposition aux régimes de retraites complémentaires constitués au profit des fonctionnaires et agents de l'Etat, des collectivités locales et des établissements publics, soit auprès d'organismes relevant du code de la mutualité, soit auprès d'entreprises d'assurances régies par le livre III du code des assurances ou de la caisse nationale de prévoyance (1) ;
+1° bis Les cotisations afférentes au régime de retraite complémentaire institué par la caisse nationale de prévoyance de la fonction publique. Des décrets peuvent étendre le bénéfice de cette disposition aux régimes de retraites complémentaires constitués au profit des fonctionnaires et agents de l'Etat, des collectivités locales et des établissements publics, soit auprès d'organismes relevant du code de la mutualité, soit auprès d'entreprises d'assurances régies par le livre III du code des assurances.
 
 2° Les cotisations ou les primes versées aux organismes de retraite et de prévoyance complémentaires auxquels le salarié est affilié à titre obligatoire.
 
@@ -48,7 +48,7 @@ La somme de 2.000 F figurant à l'alinéa précédent est révisée chaque anné
 
 Les bénéficiaires de traitements et salaires sont également admis à justifier du montant de leurs frais réels, soit dans la déclaration visée à l'article 170, soit sous forme de réclamation adressée au service des impôts dans le délai prévu aux articles R. 196-1 et R. 196-3 du livre des procédures fiscales. Le montant des frais réels à prendre en compte au titre de l'acquisition des immeubles, des véhicules et autres biens dont la durée d'utilisation est supérieure à un an s'entend de la dépréciation que ces biens ont subie au cours de l'année d'imposition .
 
-(1) Annexe III, art. 38 septdecies.
+Sont assimilées à des frais professionnels réels les dépenses exposées en vue de l'obtention d'un diplôme ou d'une qualification professionnelle dans la perspective d'une insertion ou d'une conversion professionnelle par les personnes tirant un revenu de la pratique d'un sport.    (1) Annexe III, art. 38 septdecies.
 
 (2) A compter de l'imposition des revenus de 1988 et de 1989, la base de calcul des limites de 19 % et de 3 % est égale à douze fois le plafond annuel moyen retenu pour le calcul des cotisations de sécurité sociale.
 
