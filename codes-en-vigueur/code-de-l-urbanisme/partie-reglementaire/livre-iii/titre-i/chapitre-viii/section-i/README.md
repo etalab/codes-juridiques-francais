@@ -7,4 +7,3 @@
 - [Article R*318-5](article-r-318-5.md)
 - [Article R*318-8](article-r-318-8.md)
 - [Article R*318-9](article-r-318-9.md)
-- [Article R*318-12](article-r-318-12.md)
