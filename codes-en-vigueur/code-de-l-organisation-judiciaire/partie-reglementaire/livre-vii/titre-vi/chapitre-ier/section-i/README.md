@@ -1,0 +1,15 @@
+# Section I : Dispositions communes aux différentes formations de l'assemblée générale
+
+- [Article R*761-2](article-r-761-2.md)
+- [Article R*761-3](article-r-761-3.md)
+- [Article R*761-4](article-r-761-4.md)
+- [Article R*761-5](article-r-761-5.md)
+- [Article R*761-6](article-r-761-6.md)
+- [Article R*761-7](article-r-761-7.md)
+- [Article R*761-8](article-r-761-8.md)
+- [Article R*761-9](article-r-761-9.md)
+- [Article R*761-10](article-r-761-10.md)
+- [Article R*761-11](article-r-761-11.md)
+- [Article R*761-12](article-r-761-12.md)
+- [Article R*761-13](article-r-761-13.md)
+- [Article R*761-14](article-r-761-14.md)
