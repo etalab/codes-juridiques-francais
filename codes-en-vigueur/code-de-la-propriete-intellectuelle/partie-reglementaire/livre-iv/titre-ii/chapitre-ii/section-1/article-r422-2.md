@@ -8,4 +8,4 @@ L'inscription sur la liste prévue à l'article R. 422-1 est subordonnée aux co
 
 3° Avoir un domicile ou un établissement professionnel en France ;
 
-4° Justifier de la garantie prévue à l'article L. 422-8 ou prendre l'engagement de produire une telle justification, dans un délai de trois mois.
+4° Justifier de l'assurance et de la garantie prévues à l'article L. 422-8, ou prendre l'engagement de produire de telles justifications dans un délai de trois mois, ces justifications devant, après l'inscription, être produites tous les ans.
