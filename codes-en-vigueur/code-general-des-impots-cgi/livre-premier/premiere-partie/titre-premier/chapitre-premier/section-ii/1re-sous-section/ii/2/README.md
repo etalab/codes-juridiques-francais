@@ -38,7 +38,6 @@
 - [Article 39 octies C](article-39-octies-c.md)
 - [Article 39 octies D](article-39-octies-d.md)
 - [Article 39 octies A](article-39-octies-a.md)
-- [Article 39 octies B](article-39-octies-b.md)
 - [Article 39 nonies](article-39-nonies.md)
 - [Article 39 undecies](article-39-undecies.md)
 - [Article 39 duodecies](article-39-duodecies.md)

@@ -6,7 +6,6 @@
 - [Article 1759](article-1759.md)
 - [Article 1761](article-1761.md)
 - [Article 1762](article-1762.md)
-- [Article 1762 ter](article-1762-ter.md)
 - [Article 1762 quater](article-1762-quater.md)
 - [Article 1762 quinquies](article-1762-quinquies.md)
 - [Article 1762 sexies](article-1762-sexies.md)

@@ -9,5 +9,4 @@
 - [6° : Indigents](6)
 - [7° : Marine](7)
 - [8° : Ouvriers mineurs](8)
-- [9° : Rapatriés et personnes dépossédées de leurs biens outre-mer](9)
 - [10 ° : Sécurité sociale](10)

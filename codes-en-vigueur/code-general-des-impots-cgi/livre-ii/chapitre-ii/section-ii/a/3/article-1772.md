@@ -14,4 +14,4 @@
 
 2. Les personnes visées aux 1° et 3° du 1 sont en outre, le cas échéant, tenues solidairement avec leurs clients au paiement des sommes, tant en principal qu'en pénalités et amendes, dont la constatation aurait été compromise par leurs manoeuvres.
 
-3. Quiconque est convaincu d'avoir opéré sciemment une inscription sous une rubrique inexacte des dépenses supportées par une entreprise, en vue de dissimuler des bénéfices ou revenus imposables au nom de l'entreprise elle-même ou d'un tiers, est passible, indépendamment de la sanction fiscale visée à l'article 1763, des peines prévues au 1.
+3. Quiconque est convaincu d'avoir opéré sciemment une inscription sous une rubrique inexacte des dépenses supportées par une entreprise, en vue de dissimuler des bénéfices ou revenus imposables au nom de l'entreprise elle-même ou d'un tiers, est passible, des peines prévues au 1.

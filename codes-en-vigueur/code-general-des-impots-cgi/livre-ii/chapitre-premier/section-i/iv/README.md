@@ -1,7 +1,6 @@
 # IV : Obligations des tiers
 
 - [Article 1682](article-1682.md)
-- [Article 1683](article-1683.md)
 - [Article 1684](article-1684.md)
 - [Article 1685](article-1685.md)
 - [Article 1685 bis](article-1685-bis.md)

@@ -3,7 +3,6 @@
 - [Article 1840 I](article-1840-i.md)
 - [Article 1840 H](article-1840-h.md)
 - [Article 1840 J](article-1840-j.md)
-- [Article 1840 N](article-1840-n.md)
 - [Article 1840 N ter](article-1840-n-ter.md)
 - [Article 1840 N quater](article-1840-n-quater.md)
 - [Article 1840 N quinquies](article-1840-n-quinquies.md)
