@@ -6,6 +6,5 @@
 - [Article L731-17](article-l731-17.md)
 - [Article L731-18](article-l731-18.md)
 - [Article L731-19](article-l731-19.md)
-- [Article L731-20](article-l731-20.md)
 - [Article L731-21](article-l731-21.md)
 - [Article L731-22](article-l731-22.md)
