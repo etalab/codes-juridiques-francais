@@ -4,3 +4,4 @@
 - [A : Amortissement du capital social des sociétés concessionnaires](a)
 - [B : Primes de remboursement des obligations et autres emprunts négociables](b)
 - [F : Émission par les sociétés françaises d'obligations à l'étranger. Régime spécial](f)
+- [G : Fonds communs de placement, fonds professionnels de capital investissement et fonds professionnels spécialisés](g)

@@ -2,88 +2,93 @@
 
 a. Il est institué au profit du fonds d'orientation et de régularisation des marchés agricoles une taxe parafiscale perçue dans les limites des taux fixés ci-dessous sur les produits résineux énumérés ci-après par référence au tarif des douanes :
 
-------------------------------------------------------------------- : NUMEROS       :                                       :         :
-
 <table>
 <tr>
-<td> :  du tarif     :            DESIGNATION                :   TAUX  :</td>
+<td> :===============:====================================:============:</td>
 </tr>
 <tr>
-<td> :  des droits   :           des produits                :   par   :</td>
+<td> :    NUMEROS    :                                    :            :</td>
 </tr>
 <tr>
-<td> :  de douane    :                                       : quintal :</td>
+<td> : du tarif des  :                                    : TAUX par   :</td>
 </tr>
 <tr>
-<td> : d'importation :                                       :         :</td>
+<td> :  droits de    :  DESIGNATION DES PRODUITS          :  quintal   :</td>
 </tr>
 <tr>
-<td> :---------------:---------------------------------------:---------:</td>
+<td> :   douane      :                                    :            :</td>
 </tr>
 <tr>
-<td> :               :                                       :     F   :</td>
+<td> : d'importation :                                    :     F      :</td>
 </tr>
 <tr>
-<td> : 38-05 A et B  : Tall oil brut et autre                :  1,50   :</td>
+<td> :---------------:------------------------------------:------------:</td>
 </tr>
 <tr>
-<td> : 38-07 A       : Essence de térébenthine               :  1,50   :</td>
+<td> : 38-05 A et B  : Tall oil brut et autre             :   1,50     :</td>
 </tr>
 <tr>
-<td> : 38-07 BI      : Essence de papeterie au sulfate       :         :</td>
+<td> : 38-07 A       : Essence de térébenthine            :   1,50     :</td>
 </tr>
 <tr>
-<td> :               : dipenthène brut                       :  1,50   :</td>
+<td> : 38-07 B I     : Essence de papeterie au sulfate,   :            :</td>
 </tr>
 <tr>
-<td> : 38-07 BII     : Non dénommés :                        :  1,50   :</td>
+<td> :               :   dipenthène brut                  :   1,50     :</td>
 </tr>
 <tr>
-<td> :               :  a. Huile de pin                      :  1,50   :</td>
+<td> : 38-07 B II    : Non dénommés :                     :            :</td>
 </tr>
 <tr>
-<td> :               :  b. Autres                            :  1,50   :</td>
+<td> :               :   a. Huile de pin                  :   1,50     :</td>
 </tr>
 <tr>
-<td> : 38-08 A       : Colophane (y compris les produits     :         :</td>
+<td> :               :   b. Autres                        :   1,50     :</td>
 </tr>
 <tr>
-<td> :               : dits brais résineux)                  :  3,50   :</td>
+<td> : 38-08 A       : Colophane (y compris les           :            :</td>
 </tr>
 <tr>
-<td> : 38-08 B       : Essence de résine et huiles de résine :  3,50   :</td>
+<td> :               :   produits dits brais résineux)    :   3,50     :</td>
 </tr>
 <tr>
-<td> : 38-08 C       : Autres :                              :         :</td>
+<td> : 38-08 B       : Essence de résine et huiles de     :            :</td>
 </tr>
 <tr>
-<td> :               : I. Acides résiniques                  :  3,50   :</td>
+<td> :               :   résine                           :   3,50     :</td>
 </tr>
 <tr>
-<td> :               : II. Autres (y compris les dérivés     :         :</td>
+<td> : 38-08 C       : Autres :                           :            :</td>
 </tr>
 <tr>
-<td> :               :    des acides résiniques et des       :  3,50   :</td>
+<td> :               :   I. Acides résiniques             :   3,50     :</td>
 </tr>
 <tr>
-<td> :               :    colophanes)                        :  3,50   :</td>
+<td> :               :  II. Autres (y compris les         :            :</td>
 </tr>
 <tr>
-<td> : Ex. 38-10 B   : Liants à base de résineux naturels    :  3,50   :</td>
+<td> :               :    dérivés des acides résiniques   :            :</td>
 </tr>
 <tr>
-<td> : Ex. 39-05 B   : Gommes esters provenant d'acides      :         :</td>
+<td> :               :    et des colophanes)              :   3,50     :</td>
 </tr>
 <tr>
-<td> :               : résiniques                            :  3,50   :</td>
+<td> : Ex. 38-10 B   : Liants à base de résineux naturels :   3,50     :</td>
+</tr>
+<tr>
+<td> : Ex. 39-05 B   : Gommes esters provenant d'acides   :            :</td>
+</tr>
+<tr>
+<td> :               :    résiniques                      :   3,50     :</td>
+</tr>
+<tr>
+<td> :=================================================================:</td>
 </tr>
 </table>
 
-===================================================================
+b. La taxe est due par les personnes qui fabriquent, font fabriquer ou importent en France les produits imposables.
 
-b. La taxe est due par les personnes qui fabriquent, font fabriquer ou importent en France les produits imposables [*redevables*].
-
-c. En ce qui concerne les produits fabriqués en France, la taxe est exigible au stade de la première vente ou, pour les entreprises intégrées, du transfert de ces produits aux ateliers de transformation [*date d'exigibilité*].
+c. En ce qui concerne les produits fabriqués en France, la taxe est exigible au stade de la première vente ou, pour les entreprises intégrées, du transfert de ces produits aux ateliers de transformation.
 
 En ce qui concerne les produits importés, la taxe est exigible lors de la mise à la consommation.
 
