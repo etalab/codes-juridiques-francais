@@ -1,10 +1,10 @@
 # Article 1810
 
-Indépendamment des pénalités prévues aux articles 1791 à 1795, les infractions visées ci-après sont punies d'une peine de six jours à six mois d'emprisonnement, qui est obligatoirement prononcée en cas de récidive, et les moyens de transport sont saisis et confisqués, ainsi que les récipients, emballages, ustensiles, mécaniques, machines ou appareil :
+Indépendamment des pénalités prévues aux articles 1791 à 1795, les infractions visées ci-après sont punies ((d'une peine de six mois d'emprisonnement)) (1), qui est obligatoirement prononcée en cas de récidive, et les moyens de transport sont saisis et confisqués, ainsi que les récipients, emballages, ustensiles, mécaniques, machines ou appareil :
 
 1° Fabrication, transport, vente et détention sans déclaration d'alambic ou portion d'alambic.
 
-Utilisation d'alambic non déclaré; dans ce cas, la peine est applicable aux personnes visées à l'article 1809;
+Utilisation d'alambic non déclaré; dans ce cas, la peine est applicable aux personnes visées à l'article 1809 ;
 
 2° Après l'entrée en vigueur des arrêtés ministériels prévus à l'article 314, distillations effectuées en tous lieux à l'aide d'alambics non munis des compteurs réglementaires, manoeuvres ayant pour objet de fausser sciemment les indications des compteurs ou de nuire, par un moyen quelconque, à leur fonctionnement régulier;
 
@@ -18,7 +18,7 @@ Utilisation d'alambic non déclaré; dans ce cas, la peine est applicable aux pe
 
 7° Revivification ou tentative de revivification d'alcools dénaturés, manoeuvres ayant pour objet soit de détourner des alcools dénaturés ou présentés à la dénaturation, soit de faire accepter à la dénaturation des alcools déjà dénaturés; emploi de substances dénaturantes non conformes aux types officiels; vente ou détention de spiritueux dans la préparation desquels sont entrés des alcools dénaturés ou des mélanges d'alcool éthylique et de produits assimilés au point de vue fiscal;
 
-8° Détention ou vente par un fabricant ou marchand d'ouvrages d'or, d'argent ou de platine revêtus, soit de l'empreinte de faux poinçons anciens, soit de marques anciennes entées, soudées ou contretirées, soit de l'empreinte de poinçons de fantaisie imitant les poinçons anciens;
+8° Détention ou vente par un fabricant ou marchand d'ouvrages d'or ((ou contenant de l'or)) (1) , d'argent ou de platine revêtus, soit de l'empreinte de faux poinçons anciens, soit de marques anciennes entées, soudées ou contretirées, soit de l'empreinte de poinçons de fantaisie imitant les poinçons anciens;
 
 9° (Abrogé);
 
@@ -26,12 +26,16 @@ Utilisation d'alambic non déclaré; dans ce cas, la peine est applicable aux pe
 
 Sont considérés et punis comme fabricants frauduleux :
 
-a  Les particuliers chez lesquels il est trouvé des ustensiles, machines ou mécaniques propres à la fabrication ou à la pulvérisation et, en même temps, des tabacs en feuilles ou en préparation, quelle qu'en soit la quantité, ou plus de 10 kilogrammes de tabacs fabriqués non revêtus des marques de l'administration;
+a) Les particuliers chez lesquels il est trouvé des ustensiles, machines ou mécaniques propres à la fabrication ou à la pulvérisation et, en même temps, des tabacs en feuilles ou en préparation, quelle qu'en soit la quantité, ou plus de 10 kilogrammes de tabacs fabriqués non revêtus des marques de l'administration;
 
-b  Ceux qui font profession de fabriquer pour autrui ou fabriquent accidentellement, en vue d'un profit, des cigarettes avec du tabac à fumer     c  Les préposés aux entrepôts et à la vente des tabacs qui falsifient des tabacs manufacturés;
+b) Ceux qui font profession de fabriquer pour autrui ou fabriquent accidentellement, en vue d'un profit, des cigarettes avec du tabac à fumer;
+
+c) Les préposés aux entrepôts et à la vente des tabacs qui falsifient des tabacs manufacturés;
 
 11° Fabrication, détention, transport ou commercialisation d'allumettes de fraude conditionnées ou non;
 
 Détention frauduleuse d'ustensiles, instruments ou machines destinés à la fabrication d'allumettes lorsque cette détention s'accompagne de celle d'allumettes ou de matières susceptibles d'être utilisées pour la production de ces dernières;
 
 Fabrication, détention, transport ou commercialisation en fraude, soit d'un mélange chimique propre à la confection de têtes d'allumettes, soit d'unités de conditionnement munies d'un frottoir d'allumage.
+
+(1) Modifications.
