@@ -6,8 +6,14 @@ Le comité des établissements de crédit et des entreprises d'investissement v�
 
 Le comité apprécie également l'aptitude de l'entreprise requérante à réaliser ses objectifs de développement dans des conditions compatibles avec le bon fonctionnement du système bancaire et qui assurent à la clientèle une sécurité satisfaisante.
 
+Pour fixer les conditions de son agrément, le Comité des établissements de crédit et des entreprises d'investissement peut prendre en compte la spécificité de certains établissements de crédit appartenant au secteur de l'économie sociale et solidaire. Il apprécie notamment l'intérêt de leur action au regard des missions d'intérêt général relevant de la lutte contre les exclusions ou de la reconnaissance effective d'un droit au crédit.
+
 Le comité peut limiter l'agrément qu'il délivre à l'exercice de certaines opérations définies par l'objet social du demandeur.
+
+Enfin, le comité peut assortir l'agrément délivré de conditions particulières visant à préserver l'équilibre de la structure financière de l'établissement et le bon fonctionnement du système bancaire. Il peut aussi subordonner l'octroi de l'agrément au respect d'engagements souscrits par l'établissement requérant.
 
 Le comité peut refuser l'agrément lorsque l'exercice de la mission de surveillance de l'entreprise requérante est susceptible d'être entravé soit par l'existence de liens de capital ou de contrôle directs ou indirects entre l'entreprise et d'autres personnes physiques ou morales, soit par l'existence de dispositions législatives ou réglementaires d'un Etat qui n'est pas partie à l'accord sur l'Espace économique européen et dont relèvent une ou plusieurs de ces personnes.
 
-Le comité peut, en outre, refuser l'agrément si les personnes mentionnées à l'article L. 511-13 ne possèdent pas l'honorabilité nécessaire et l'expérience adéquate à leur fonction.
+Le comité peut, en outre, refuser l'agrément si les personnes mentionnées à l'article L. 511-13 ne possèdent pas l'honorabilité et la compétence nécessaires ainsi que l'expérience adéquate à leur fonction.
+
+Toute personne physique ou morale envisageant de déposer un projet d'offre publique au Conseil des marchés financiers en application du chapitre III du titre III du livre IV du présent code, en vue d'acquérir une quantité déterminée de titres d'un établissement de crédit agréé en France, est tenue d'en informer le gouverneur de la Banque de France, président du Comité des établissements de crédit et des entreprises d'investissement, huit jours ouvrés avant le dépôt de ce projet d'offre ou son annonce publique si elle est antérieure.

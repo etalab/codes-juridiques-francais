@@ -4,4 +4,6 @@ I. - Toute personne qui participe ou a participé au contrôle des personnes men
 
 II. - Ce secret n'est pas opposable aux juridictions administratives saisies d'un contentieux relatif à l'activité de la commission bancaire.
 
+Ce secret n'est pas opposable en cas d'audition par une commission d'enquête dans les conditions prévues au quatrième alinéa du II de l'article 6 de l'ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires.
+
 III. - Par dérogation aux dispositions de la loi n° 68-678 du 26 juillet 1968 précitée, la commission bancaire peut transmettre des informations aux autorités chargées de la surveillance des personnes mentionnées au I dans d'autres pays, sous réserve de réciprocité et à condition que ces autorités soient elles-mêmes soumises au secret professionnel avec les mêmes garanties qu'en France.

@@ -8,4 +8,3 @@
 - [Article L562-6](article-l562-6.md)
 - [Article L562-7](article-l562-7.md)
 - [Article L562-8](article-l562-8.md)
-- [Article L562-9](article-l562-9.md)

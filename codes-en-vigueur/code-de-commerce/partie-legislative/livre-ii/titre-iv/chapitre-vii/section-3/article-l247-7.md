@@ -6,7 +6,7 @@ Est puni des peines prévues à l'article L. 247-6, au cas où la liquidation d'
 
 2° De ne pas établir les comptes annuels au vu de l'inventaire et un rapport écrit dans lequel il rend compte des opérations de liquidation au cours de l'exercice écoulé, dans les trois mois de la clôture de chaque exercice ;
 
-3° De ne pas permettre aux associés d'exercer, en période de liquidation, leur droit de communication des documents sociaux dans les mêmes conditions qu'antérieurement ;
+3° (supprimé) ;
 
 4° De ne pas convoquer au moins une fois par an les associés pour leur rendre des comptes annuels, en cas de continuation de l'exploitation sociale ;
 

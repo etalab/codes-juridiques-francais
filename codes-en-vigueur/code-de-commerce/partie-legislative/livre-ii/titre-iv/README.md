@@ -7,3 +7,4 @@
 - [Chapitre V : Des infractions relatives aux valeurs mobilières émises par les sociétés par actions](chapitre-v)
 - [Chapitre VI : Des infractions communes aux diverses formes de sociétés par actions](chapitre-vi)
 - [Chapitre VII : Des infractions communes aux diverses formes de sociétés commerciales](chapitre-vii)
+- [Chapitre VIII : Dispositions concernant les directeurs généraux délégués des sociétés anonymes.](chapitre-viii)

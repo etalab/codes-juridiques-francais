@@ -12,4 +12,6 @@ Sont habilités à émettre des titres de créances négociables :
 
 5. La caisse d'amortissement de la dette sociale instituée par l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996 relative au remboursement de la dette sociale.
 
-Un décret précise les conditions que doivent remplir les émetteurs mentionnés aux 2, 3, 4 et 5 et fixe les conditions d'émission des titres de créances négociables.
+6. Les collectivités locales et leurs groupements.
+
+Un décret précise les conditions que doivent remplir les émetteurs mentionnés aux 2, 3, 4, 5 et 6 et fixe les conditions d'émission des titres de créances négociables.

@@ -9,3 +9,5 @@ I. - Une société est considérée, pour l'application des sections 2 et 4 du p
 3° Lorsqu'elle détermine en fait, par les droits de vote dont elle dispose, les décisions dans les assemblées générales de cette société.
 
 II. - Elle est présumée exercer ce contrôle lorsqu'elle dispose directement ou indirectement, d'une fraction des droits de vote supérieure à 40 % et qu'aucun autre associé ou actionnaire ne détient directement ou indirectement une fraction supérieure à la sienne.
+
+III. - Pour l'application des mêmes sections du présent chapitre, deux ou plusieurs personnes agissant de concert sont considérées comme en contrôlant conjointement une autre lorsqu'elles déterminent en fait, dans le cadre d'un accord en vue de mettre en oeuvre une politique commune, les décisions prises dans les assemblées générales de cette dernière.

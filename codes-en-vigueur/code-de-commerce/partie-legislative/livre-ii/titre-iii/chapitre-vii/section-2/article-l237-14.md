@@ -6,7 +6,7 @@ II. - En outre, il peut être ordonné par décision de justice que cette liquid
 
 1° De la majorité des associés, dans les sociétés en nom collectif ;
 
-2° D'associés représentant au moins le dixième du capital, dans les sociétés en commandite simple, les sociétés à responsabilité limitée et les sociétés par actions ;
+2° D'associés représentant au moins 5 % du capital, dans les sociétés en commandite simple, les sociétés à responsabilité limitée et les sociétés par actions ;
 
 3° Des créanciers sociaux.
 

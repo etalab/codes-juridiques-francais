@@ -8,4 +8,6 @@ Pour délivrer l'agrément autorisant la fourniture d'un ou plusieurs services d
 
 3. D'un programme d'activité approuvé pour chacun des services qu'il entend fournir.
 
+Le comité peut assortir l'agrément de conditions particulières visant à préserver l'équilibre de la structure financière de l'établissement. Le comité peut également subordonner l'octroi de l'agrément au respect d'engagements souscrits par l'établissement requérant.
+
 Le comité des établissements de crédit et des entreprises d'investissement statue dans un délai de trois mois à compter de la transmission de la requête par le conseil des marchés financiers. Sa décision est motivée et notifiée au demandeur.

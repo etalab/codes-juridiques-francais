@@ -20,10 +20,12 @@ Le conseil comprend en outre :
 
 - cinq représentants du personnel des entreprises d'assurance mentionnées à l'article L. 310-1 ;
 
-- huit représentants des assurés dont un représentant élu des collectivités locales.
+- huit représentants des assurés dont un représentant élu des collectivités locales ;
+
+- le président du conseil de surveillance du fonds de garantie institué à l'article L. 423-1 ou un membre du directoire le représentant.
 
 Hormis le président et le directeur des assurances, les membres du Conseil national des assurances sont nommés pour une période de trois ans renouvelable.
 
 Le Conseil national des assurances se réunit au moins deux fois par an en séance plénière.
 
-Un décret en Conseil d'Etat fixe les modalités de désignation des membres visés aux septième à onzième alinéas ci-dessus, ainsi que les conditions de fonctionnement du Conseil national des assurances.
+Un décret en Conseil d'Etat fixe les modalités de désignation des membres visés aux septième à douzième alinéas ci-dessus, ainsi que le conditions de fonctionnement du Conseil national des assurances.

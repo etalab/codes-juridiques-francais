@@ -6,6 +6,8 @@ En cas de partage égal des voix, la voix du président de la formation est pré
 
 Le rapporteur général, le ou les rapporteurs généraux adjoints et les rapporteurs permanents sont nommés sur proposition du président par arrêté du ministre chargé de l'économie. Les autres rapporteurs sont désignés par le président.
 
+Le rapporteur général peut déléguer à un ou des rapporteurs généraux adjoints tout ou partie des attributions qu'il détient au titre du livre IV du présent code.
+
 Les crédits attribués au Conseil de la concurrence pour son fonctionnement sont inscrits au budget du ministère chargé de l'économie.
 
 Le président est ordonnateur des recettes et des dépenses du conseil.

@@ -10,6 +10,8 @@ Si une entreprise mentionnée aux 1°, 3° ou 4° de l'article L. 310-2 a enfrei
 
 4° La suspension temporaire d'un ou plusieurs dirigeants de l'entreprise ;
 
+4° bis La démission d'office d'un ou plusieurs dirigeants de l'entreprise ;
+
 5° Le retrait total ou partiel d'agrément ;
 
 6° Le transfert d'office de tout ou partie du portefeuille des contrats.
