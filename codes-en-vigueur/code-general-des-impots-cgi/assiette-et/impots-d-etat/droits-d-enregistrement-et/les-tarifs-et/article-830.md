@@ -1,6 +1,6 @@
 # Article 830
 
-Sont enregistrés au droit fixe de 600 F [*montant*] les actes constatant des apports mobiliers faits :
+Sont enregistrés au droit fixe de 750 F [*montant*] les actes constatant des apports mobiliers faits :
 
 a. Aux sociétés immobilières d'investissement visées à l'article 33-I de la loi n° 63-254 du 15 mars 1963 ou aux sociétés immobilières de gestion visées à l'article 1er du décret n° 63-683 du 13 juillet 1963 ;
 

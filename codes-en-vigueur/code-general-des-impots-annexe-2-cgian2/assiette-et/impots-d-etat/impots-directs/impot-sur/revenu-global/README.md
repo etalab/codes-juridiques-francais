@@ -2,9 +2,6 @@
 
 - [Article 75-0 V](article-75-0-v.md)
 - [Article 75-0 C](article-75-0-c.md)
-- [Article 75-0 D](article-75-0-d.md)
-- [Article 75-0 A](article-75-0-a.md)
-- [Article 75-0 B](article-75-0-b.md)
 - [Article 75-0 E](article-75-0-e.md)
 - [Article 75-0 H](article-75-0-h.md)
 - [Article 75-0 J](article-75-0-j.md)

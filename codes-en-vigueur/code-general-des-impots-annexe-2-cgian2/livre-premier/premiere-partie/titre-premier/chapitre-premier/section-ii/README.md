@@ -4,4 +4,5 @@
 - [II : Distribution de primes à la construction par les sociétés immobilières d'investissement et les sociétés immobilières de gestion](ii)
 - [III : Épargne investie.](iii)
 - [IV : Options de souscription ou d'achat d'actions au bénéfice du personnel des sociétés](iv)
+- [VI : Déduction des pensions alimentaires](vi)
 - [0I bis : Détaxation du revenu investi en actions.](0i-bis)

@@ -2,7 +2,7 @@
 
 I. Les apports de bois ou de terrains à reboiser à un groupement forestier sont soumis à un droit d'enregistrement ou à une taxe de publicité foncière de 0,60 % [*taux*].
 
-II. Sont soumis à un droit fixe d'enregistrement de 150 F [*montant*] :
+II. Sont soumis à un droit fixe d'enregistrement de 250 F [*montant*] :
 
 1° Les actes constatant la transformation en groupement forestier d'une société propriétaire de bois ou de terrains à reboiser ;
 
@@ -16,4 +16,4 @@ III. Le bénéfice des dispositions du I et du II-1° est subordonné aux condit
 
 3° La transformation ou l'apport ne doit pas comporter de transmission de biens meubles ou immeubles entre les membres du groupement ou d'autres personnes ;
 
-4° Ces transformations ou apports doivent intervenir avant le 1er janvier 1982 [*date limite*].
+4° Ces transformations ou apports doivent intervenir avant le 1er janvier 1983 [*date limite*].
