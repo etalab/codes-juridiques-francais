@@ -8,3 +8,5 @@
 - [Article D6](article-d6.md)
 - [Article D7](article-d7.md)
 - [Article D8](article-d8.md)
+- [Article D8-1](article-d8-1.md)
+- [Article D8-2](article-d8-2.md)
