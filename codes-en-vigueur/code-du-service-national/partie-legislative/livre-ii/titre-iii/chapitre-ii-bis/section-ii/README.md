@@ -6,4 +6,5 @@
 - [Article L94-6](article-l94-6.md)
 - [Article L94-7](article-l94-7.md)
 - [Article L94-8](article-l94-8.md)
+- [Article L94-9](article-l94-9.md)
 - [Article L94-10](article-l94-10.md)
