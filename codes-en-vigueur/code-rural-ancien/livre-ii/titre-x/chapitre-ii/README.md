@@ -1,4 +1,4 @@
-# Chapitre II : Mesures de défense contre les parasites et petits animaux.
+# Chapitre II : Mesures de défense contre les organismes nuisibles.
 
 - [Article 348](article-348.md)
 - [Article 349](article-349.md)

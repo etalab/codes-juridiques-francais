@@ -1,6 +1,6 @@
 # Article 344
 
-Dans chaque circonscription communale ou intercommunale, un seul groupement de défense contre les ennemis des cultures est agréé par le préfet.
+Dans chaque circonscription communale ou intercommunale, un seul groupement de défense contre les organismes nuisibles est agréé par le préfet.
 
 Ne peuvent bénéficier de l'agrément que des groupements de défense satisfaisant aux conditions suivantes :
 
