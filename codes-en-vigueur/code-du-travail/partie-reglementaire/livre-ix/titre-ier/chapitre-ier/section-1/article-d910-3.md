@@ -14,9 +14,9 @@ Le comité régional de la formation professionnelle, de la promotion sociale et
 
 6° De deux représentants des personnels d'établissements publics d'enseignement désignés sur proposition des organisations professionnelles représentatives conformément aux résultats des élections aux commissions administratives paritaires académiques ;
 
-7° De cinq représentants des secteurs économiques et associatifs :
+7° De sept représentants des secteurs économiques et associatifs :
 
-a) Un représentant des chambres de commerce etd'industrie ;
+a) Un représentant des chambres de commerce et d'industrie ;
 
 b) Un représentant des chambres de métiers ;
 
@@ -24,7 +24,9 @@ c) Un représentant des chambres d'agriculture ;
 
 d) Un représentant des organismes de formation désigné par le préfet de région ;
 
-e) Un représentant des associations familiales désigné sur proposition du conseil économique et social régional.
+e) Un représentant des associations familiales désigné sur proposition du conseil économique et social régional ;
+
+f) Deux personnalités appartenant au monde économique, choisies en raison de leur qualité ou de leurs activités.
 
 Le préfet est assisté du directeur régional de l'agriculture et de la forêt et du directeur régional des affaires maritimes chaque fois que les travaux du comité impliquent une participation des établissements relevant de leur autorité ou abordent des questions liées aux compétences qu'ils exercent, notamment en matière de formation initiale.
 
