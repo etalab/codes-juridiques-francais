@@ -1,15 +1,27 @@
 # Article 108 bis
 
-Les dispositions spéciales suivantes sont applicables aux marchés d'ingénierie et d'architecture :
+Les dispositions spéciales suivantes sont applicables aux marchés de maîtrise d'oeuvre.
 
-La passation d'un marché d'ingénierie et d'architecture, doit être précédée d'un recensement des personnes physiques ou morales qualifiées pour procéder aux études considérées. Le marché est passé suivant la procédure de l'appel d'offres avec concours ou négocié après mise en compétition sous réserve des dispositions de l'article 104 ;
+La passation d'un marché de maîtrise d'oeuvre doit être précédée d'un recensement des personnes physiques ou morales capables de réaliser la mission considérée.
 
-Dans le cas d'un marché négocié, lorsque la valeur prévisible de la rémunération du titulaire du marché est au plus égale à une valeur fixée par arrêté du ministre de l'économie, du ministre du budget et du ministre de l'environnement et du cadre de vie, la mise en compétition des candidats préalablement recensés peut être limitée à l'examen de leur compétence et de leurs moyens. Le marché est ensuite librement négocié avec le candidat ainsi retenu ;
+Le marché est passé après mise en compétition sous réserve des dispositions de l'article 104.
 
-Lorsque la valeur prévisible de la rémunération est supérieure à la valeur définie à l'alinéa précédent, le titulaire est choisi en tenant compte de sa compétence, de ses références, des moyens dont il dispose, des solutions architecturales et techniques ainsi que de la rémunération qu'il demande pour procéder à l'étude. Si le maître de l'ouvrage a demandé l'évaluation du coût d'objectif, il en est également tenu compte ;
+Lorsque le montant estimé du marché est inférieur ou égal à un premier seuil déterminé conformément au septième alinéa du présent article, la mise en compétition des candidats préalablement recensés peut être limitée à l'examen de leur compétence et des moyens dont ils disposent. Le marché est ensuite librement négocié avec le candidat ainsi retenu.
 
-Lorsqu'il n'est pas recouru à la procédure simplifiée, prévue à l'alinéa 3 ci-dessus, le règlement de la compétition doit prévoir des modalités de remboursement partiel de leurs frais aux candidats non retenus qui ont présenté des offres complètes répondant au programme ;
+Lorsque le montant estimé du marché est supérieur au premier seuil et inférieur ou égal à un deuxième seuil déterminé conformément au septième alinéa du présent article, la mise en compétition peut être limitée à l'examen des compétences, des références et des moyens des candidats préalablement recensés. Le recensement des candidats est effectué dans les conditions prévues à l'article 108 ter ; l'avis d'appel de candidatures contient les indications énumérées aux 1°, 2°, 3°, 4° et 5° du cinquième alinéa de l'article 108 ter. Le candidat à retenir est choisi par la personne responsable du marché après avis d'une commission composée comme le jury prévu à l'article 108 ter. Le marché est ensuite librement négocié avec le candidat ainsi retenu.
 
-Lorsque plusieurs marchés de définition ayant le même objet ont été passés, l'étude qui fait suite à la solution retenue peut être confiée sans nouvelle mise en compétition, à l'auteur de cette solution.
+Lorsque le montant estimé du marché est supérieur au deuxième seuil ou, en deçà de ce seuil, sur décision de la personne responsable du marché, la compétition comporte une remise des des prestations. Elle est alors appelée Concours d'architecture et d'ingénierie et est organisée dans les conditions fixées par l'article 108 ter.
 
-Le marché d'étude relatif à l'extension ou la transformation d'un ouvrage peut être confié sans mise en compétition à la personne qui a été titulaire du contrat d'étude de cet ouvrage.
+Un arrêté conjoint du ministre chargé de l'économie, des finances et du budget et du ministre chargé de l'urbanisme, du logement et des transports fixe les valeurs des deux seuils mentionnés aux alinéas précédents.
+
+La personne responsable du marché n'est pas tenue de recourir au concours d'architecture et d'ingénierie lorsque le montant estimé du marché est supérieur au deuxième seuil dans les cas suivants :
+
+a) Pour l'attribution d'un marché de maîtrise d'oeuvre relatif à la réutilisation ou la réhabilitation d'ouvrages existants ;
+
+b) Pour l'attribution d'un marché de maîtrise d'oeuvre relatif à des ouvrages réalisés à titre de recherche, d'essai ou d'expérimentation.
+
+Dans ces deux cas, il est fait application des dispositions du cinquième alinéa du présent article.
+
+Lorsque plusieurs marchés de définition ayant le même objet ont été passés à des titulaires différents, il peut être confié, sans nouvelle mise en compétition, un marché de maîtrise d'oeuvre à l'auteur de la solution retenue si celle-ci l'a été après avis d'une commission composée comme le jury prévu à l'article 108 ter.
+
+Pour l'extension d'un ouvrage existant, lorsque l'unité architecturale ou technique le justifie, le marché de maîtrise d'oeuvre peut être attribué, après avis d'une commission composée comme le jury prévu à l'article 108 ter, sans mise en compétition à la personne qui a été titulaire du marché initial de maîtrise d'oeuvre de cet ouvrage.
