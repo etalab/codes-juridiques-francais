@@ -7,3 +7,4 @@
 - [Article 519](article-519.md)
 - [Article 520](article-520.md)
 - [Article 522](article-522.md)
+- [Article 523](article-523.md)
