@@ -16,7 +16,9 @@ La commission départementale d'aménagement foncier est ainsi composée :
 
 7° Le président de la chambre départementale des notaires ou son représentant ;
 
-8° Deux propriétaires bailleurs, deux propriétaires exploitants, deux exploitants preneurs, désignés par le préfet, sur trois listes comprenant chacune six noms, établies par la chambre d'agriculture.
+8° Deux propriétaires bailleurs, deux propriétaires exploitants, deux exploitants preneurs, désignés par le préfet, sur trois listes comprenant chacune six noms, établies par la chambre d'agriculture ;
+
+9° Deux représentants d'associations agréées en matière de faune, de flore et de protection de la nature et des paysages désignés par le préfet.
 
 Le préfet choisit, en outre, sur ces listes, six suppléants, à raison d'un par membre titulaire, appelés à siéger, soit en cas d'absence du titulaire, soit lorsque la commission départementale est appelée à délibérer sur des réclamations concernant une opération dans le périmètre de laquelle l'un des membres titulaires est propriétaire.
 
