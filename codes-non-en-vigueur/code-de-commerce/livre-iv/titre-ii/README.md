@@ -1,6 +1,7 @@
 # Titre II : De la compétence des tribunaux de commerce.
 
 - [Article 631](article-631.md)
+- [Article 631-1](article-631-1.md)
 - [Article 632](article-632.md)
 - [Article 633](article-633.md)
 - [Article 634](article-634.md)
