@@ -2,4 +2,5 @@
 
 - [CHAPITRE I : Recensement  - sélection](chapitre-i)
 - [CHAPITRE II : Dispenses et modalités particulières d'accomplissement des obligations d'activité du service national](chapitre-ii)
+- [CHAPITRE III : Réforme pour inaptitude physique.](chapitre-iii)
 - [CHAPITRE IV : Droits résultant de l'accomplissement du service national actif.](chapitre-iv)
