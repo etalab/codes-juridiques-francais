@@ -35,7 +35,6 @@
 - [Article 1794](article-1794.md)
 - [Article 1795](article-1795.md)
 - [Article 1804](article-1804.md)
-- [Article 1825 C](article-1825-c.md)
 - [Article 1827](article-1827.md)
 - [Article 1828](article-1828.md)
 - [Article 1829](article-1829.md)

@@ -1,13 +1,11 @@
 # CONTRIBUTIONS INDIRECTES.
 
 - [Article 1853](article-1853.md)
-- [Article 1854](article-1854.md)
 - [Article 1855](article-1855.md)
 - [Article 1856](article-1856.md)
 - [Article 1857](article-1857.md)
 - [Article 1858](article-1858.md)
 - [Article 1859](article-1859.md)
-- [Article 1860](article-1860.md)
 - [Article 1861](article-1861.md)
 - [Article 1862](article-1862.md)
 - [Article 1863](article-1863.md)

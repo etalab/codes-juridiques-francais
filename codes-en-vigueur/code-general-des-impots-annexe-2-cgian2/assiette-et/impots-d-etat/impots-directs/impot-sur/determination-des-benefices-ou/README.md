@@ -2,7 +2,6 @@
 
 - [Article 16 C](article-16-c.md)
 - [Article 16 A](article-16-a.md)
-- [Article 32 A](article-32-a.md)
 - [Article 39 F](article-39-f.md)
 - [Article 39 H](article-39-h.md)
 - [Article 58](article-58.md)

@@ -4,7 +4,6 @@
 - [Article 196 bis](article-196-bis.md)
 - [Article 196 A](article-196-a.md)
 - [Article 196 B](article-196-b.md)
-- [Article 197](article-197.md)
 - [Article 199](article-199.md)
 - [Article 199 ter](article-199-ter.md)
 - [Article 219 bis](article-219-bis.md)

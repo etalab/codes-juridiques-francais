@@ -3,4 +3,3 @@
 - [ENREGISTREMENT - PUBLICITE FONCIERE.](enregistrement)
 - [DROITS DE TIMBRE.](droits-de-timbre)
 - [IMPOTS DIRECTS ET TAXES ASSIMILEES.](impots-directs-et)
-- [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES.](taxes-sur)
