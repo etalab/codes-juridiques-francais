@@ -2,3 +2,4 @@
 
 - [Article 1089 C](article-1089-c.md)
 - [Article 1089 A](article-1089-a.md)
+- [Article 1089 B](article-1089-b.md)
