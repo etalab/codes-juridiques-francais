@@ -5,3 +5,4 @@
 - [Section III : Des troubles apportés à l'ordre public par les ministres des cultes dans l'exercice de leur ministère](section-iii)
 - [Section IV : Résistance, désobéissance et autres manquements envers l'autorité publique](section-iv)
 - [Section V : Associations de malfaiteurs, vagabondage et mendicité](section-v)
+- [Section VI : De l'outrage aux bonnes moeurs commis, notamment, par la voie de la presse et du livre.](section-vi)
