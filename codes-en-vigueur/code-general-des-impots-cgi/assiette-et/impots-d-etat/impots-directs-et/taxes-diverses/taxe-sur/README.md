@@ -2,6 +2,7 @@
 
 - [Article 231 bis C](article-231-bis-c.md)
 - [Article 231 bis D](article-231-bis-d.md)
+- [Article 231 bis M](article-231-bis-m.md)
 - [Article 231 bis DA](article-231-bis-da.md)
 - [Article 231 bis E](article-231-bis-e.md)
 - [Article 231 bis F](article-231-bis-f.md)
