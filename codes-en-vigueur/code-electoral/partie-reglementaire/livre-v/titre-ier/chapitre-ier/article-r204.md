@@ -6,7 +6,7 @@ I. - Les dispositions du titre Ier du livre Ier du présent code (partie Réglem
 
 2° A l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie ;
 
-3° A l'élection des membres de l'assemblée de Polynésie française ;
+3° A l'élection des représentants à l'assemblée de Polynésie française ;
 
 4° A l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française.
 
