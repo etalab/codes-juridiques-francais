@@ -18,7 +18,7 @@ II. - La société doit, avant le 16 février de chaque année, faire parvenir �
 
 6° En cas de non-respect par la société ou un associé de ses engagements, la quote-part de supplément de déduction forfaitaire ou des déductions au titre de l'amortissement que l'associé doit ajouter au revenu foncier de l'année au cours de laquelle la rupture de l'engagement ou la cession du logement ou des parts sociales est intervenue.
 
-7° Lorsqu'un logement est mis à la disposition d'un ascendant ou d'un descendant de l'un des associés dans les conditions prévues au deuxième alinéa du e et au troisième alinéa du g du 1° du I de l'article 31 du code général des impôts, les éléments figurant sur la note annexe prévue à l'article 2 sexdecies A.
+7° Lorsqu'un logement est mis à la disposition d'un ascendant ou d'un descendant de l'un des associés dans les conditions prévues au deuxième alinéa du e du 1° du I de l'article 31 du code général des impôts, les éléments figurant sur la note annexe prévue à l'article 2 sexdecies A.
 
 Un exemplaire de ce document est joint par la société à sa déclaration de résultat.
 
