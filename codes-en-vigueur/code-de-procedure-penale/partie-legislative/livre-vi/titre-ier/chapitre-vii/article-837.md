@@ -22,7 +22,7 @@ I. - Dans le territoire de la Polynésie française :
 
 Toutefois, le tribunal statue obligatoirement dans les conditions prévues par le premier alinéa de l'article 398 lorsque le prévenu est en état de détention provisoire lors de sa comparution à l'audience ou lorsqu'il est poursuivi selon la procédure de comparution immédiate. Il statue également dans les conditions prévues par le premier alinéa de l'article 398 pour le jugement des délits prévus au présent article lorsque ces délits sont connexes à d'autres délits non prévus par cet article. "
 
-II. - Dans les territoires de la Nouvelle-Calédonie et des îles Wallis-et-Futuna :
+II. - En Nouvelle-Calédonie et dans le territoire des îles Wallis-et-Futuna :
 
 " Art. 398-1. - Sont jugés dans les conditions prévues au troisième alinéa de l'article 398 :
 

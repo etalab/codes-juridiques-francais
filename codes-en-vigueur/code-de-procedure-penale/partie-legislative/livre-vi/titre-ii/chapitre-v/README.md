@@ -1,4 +1,4 @@
-# Chapitre V : Du jugement des délits.
+# Chapitre V : Du jugement des délits
 
 - [Article 889](article-889.md)
 - [Article 890](article-890.md)

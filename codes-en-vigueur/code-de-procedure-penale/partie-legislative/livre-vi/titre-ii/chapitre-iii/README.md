@@ -1,4 +1,4 @@
-# Chapitre III : Des juridictions d'instruction.
+# Chapitre III : Des juridictions d'instruction
 
 - [Article 881](article-881.md)
 - [Article 882](article-882.md)

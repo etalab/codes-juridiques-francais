@@ -1,5 +1,6 @@
-# Chapitre XI : De quelques procédures particulières.
+# Chapitre XI : De quelques procédures particulières
 
+- [Article 859-1](article-859-1.md)
 - [Article 860](article-860.md)
 - [Article 861](article-861.md)
 - [Article 862](article-862.md)

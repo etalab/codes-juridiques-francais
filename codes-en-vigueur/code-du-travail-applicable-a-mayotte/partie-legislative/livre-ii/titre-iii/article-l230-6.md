@@ -14,4 +14,4 @@ Des décrets pris dans les conditions prévues à l'alinéa 1er de l'article L. 
 
 3° Fixent les règles générales d'hygiène et de sécurité auxquelles doivent satisfaire les autres matériels et déterminent le mode d'établissement des prescriptions techniques nécessaires à l'application de ces règles.
 
-Des arrêtés du représentant du Gouvernement peuvent établir la liste des normes techniques de sécurité dont le respect permet de satisfaire aux règles édictées par les décrets prévus aux 2° et 3° du deuxième alinéa. Ces arrêtés peuvent rendre obligatoires certaines de ces normes.
+Des arrêtés du représentant de l'Etat peuvent établir la liste des normes techniques de sécurité dont le respect permet de satisfaire aux règles édictées par les décrets prévus aux 2° et 3° du deuxième alinéa. Ces arrêtés peuvent rendre obligatoires certaines de ces normes.

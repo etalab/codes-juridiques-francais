@@ -1,4 +1,4 @@
-# Chapitre V : Des juridictions d'instruction.
+# Chapitre V : Des juridictions d'instruction
 
 - [Article 815](article-815.md)
 - [Article 816](article-816.md)

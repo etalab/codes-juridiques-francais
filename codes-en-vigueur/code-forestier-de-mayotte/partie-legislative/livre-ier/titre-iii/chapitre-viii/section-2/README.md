@@ -6,6 +6,7 @@
 - [Article L138-6](article-l138-6.md)
 - [Article L138-7](article-l138-7.md)
 - [Article L138-8](article-l138-8.md)
+- [Article L138-10](article-l138-10.md)
 - [Article L138-11](article-l138-11.md)
 - [Article L138-12](article-l138-12.md)
 - [Article L138-13](article-l138-13.md)

@@ -8,4 +8,4 @@ Sont également admises de droit à donner le repos hebdomadaire par roulement :
 
 3° Les industries dans lesquelles une convention ou un accord collectif étendu prévoit la possibilité d'organiser le travail de façon continue pour des raisons économiques.
 
-Un arrêté du représentant du Gouvernement à Mayotte fixe la nomenclature des industries comprises dans les deux premières catégories ci-dessus définies.
+Un arrêté du représentant de l'Etat à Mayotte fixe la nomenclature des industries comprises dans les deux premières catégories ci-dessus définies.

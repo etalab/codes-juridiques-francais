@@ -10,4 +10,4 @@ Le 3° de l'article 421-1 est rédigé comme suit :
 
 " - la détention, le port ou le transport d'armes et de munitions en infraction à la réglementation applicable localement ;
 
-- les infractions définies aux articles 1er et 4 de la loi n° 72-467 du 9 juin 1972 interdisant la mise au point, la fabrication, la détention, le stockage, l'acquisition et la cession d'armes biologiques ou à base de toxines.
+" - les infractions définies aux articles L. 2341-1 et L. 2341-4 du code de la défense ; "

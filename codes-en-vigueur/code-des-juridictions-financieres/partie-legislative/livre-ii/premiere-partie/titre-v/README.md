@@ -7,6 +7,3 @@
 - [Article L250-5](article-l250-5.md)
 - [Article L250-6](article-l250-6.md)
 - [Article L250-7](article-l250-7.md)
-- [Article L250-8](article-l250-8.md)
-- [Article L250-9](article-l250-9.md)
-- [Article L250-10](article-l250-10.md)

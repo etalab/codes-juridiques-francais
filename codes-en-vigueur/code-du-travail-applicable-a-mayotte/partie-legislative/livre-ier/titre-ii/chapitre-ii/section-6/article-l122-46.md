@@ -8,4 +8,4 @@ L'affectation dans un autre établissement est subordonnée à l'accord de l'int
 
 Cette affectation temporaire ne peut avoir d'effet excédant la durée de la grossesse et prend fin dès que l'état de santé de la femme lui permet de retrouver son emploi initial.
 
-Le changement d'affectation ne doit entraîner aucune diminution de rémunération. Toutefois, lorsqu'un tel changement intervient à l'initiative de la salariée, le maintien de la rémunération est subordonné à une présence d'un an dans l'entreprise [*condition d'ancienneté*] à la date retenue par le médecin comme étant celle du début de la grossesse.
+Le changement d'affectation ne doit entraîner aucune diminution de rémunération. Toutefois, lorsqu'un tel changement intervient à l'initiative de la salariée, le maintien de la rémunération est subordonné à une présence d'un an dans l'entreprise à la date retenue par le médecin comme étant celle du début de la grossesse.

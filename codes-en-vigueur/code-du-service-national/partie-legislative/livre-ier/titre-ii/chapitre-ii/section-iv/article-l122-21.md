@@ -1,6 +1,6 @@
 # Article L122-21
 
-Sous réserve des adaptations prévues ci-après, le présent chapitre, à l'exception du dernier alinéa de l'article L. 122-1, du III de l'article L. 122-14 et du dernier alinéa de l'article L. 122-15, est applicable dans les territoires d'outre-mer, en Nouvelle-Calédonie et dans la collectivité territoriale de Mayotte.
+Sous réserve des adaptations prévues ci-après, le présent chapitre, à l'exception du dernier alinéa de l'article L. 122-1, du III de l'article L. 122-14 et du dernier alinéa de l'article L. 122-15, est applicable dans les territoires d'outre-mer, en Nouvelle-Calédonie et à Mayotte.
 
 1° Par dérogation aux dispositions des articles L. 122-12, L. 122-14, L. 122-15, L. 122-16, L. 122-17 et L. 122-20 du présent chapitre, une convention entre l'Etat, d'une part, la Nouvelle-Calédonie et la Polynésie française, d'autre part, fixe les conditions d'application du présent chapitre dans ces deux collectivités. Elle précise obligatoirement :
 

@@ -1,6 +1,6 @@
 # Article R145-8
 
-Dans les quarante-huit heures [*délai*] de la réquisition ou de l'ordonnance, le greffier adresse :
+Dans les quarante-huit heures de la réquisition ou de l'ordonnance, le greffier adresse :
 
 1° Au saisi ;
 

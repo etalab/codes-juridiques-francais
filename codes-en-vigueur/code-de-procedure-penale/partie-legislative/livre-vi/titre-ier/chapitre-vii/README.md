@@ -1,4 +1,4 @@
-# Chapitre VII : Du jugement des délits.
+# Chapitre VII : Du jugement des délits
 
 - [Article 835](article-835.md)
 - [Article 836](article-836.md)

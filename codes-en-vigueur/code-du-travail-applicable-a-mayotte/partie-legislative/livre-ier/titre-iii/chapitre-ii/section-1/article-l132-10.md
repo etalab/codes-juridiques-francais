@@ -4,6 +4,6 @@ Les conventions et accords collectifs de travail, ainsi que leurs avenants et an
 
 La partie la plus diligente remet également un exemplaire de chaque convention ou accord collectif de travail au secrétariat-greffe de la juridiction du travail.
 
-Les textes sont applicables, sauf stipulations contraires, à partir du jour qui suit leur dépôt auprès du service compétent [*date d'entrée en vigueur*].
+Les textes sont applicables, sauf stipulations contraires, à partir du jour qui suit leur dépôt auprès du service compétent.
 
 Il peut être donné communication et délivré copie des textes déposés.

@@ -4,4 +4,4 @@ Le médiateur accomplit sa mission dans les conditions prévues à l'article L. 
 
 Les personnes morales parties au conflit sont tenues de se faire représenter devant le médiateur dans les conditions prévues à l'article L. 513-4 et à l'article R. 513-5.
 
-Lorsqu'une partie régulièrement convoquée ne comparaît pas ou ne se fait pas représenter devant le médiateur sans motif légitime, le médiateur établit conformément aux dispositions de l'article L. 520-1, un rapport qu'il envoie au représentant du Gouvernement aux fins de transmission au parquet.
+Lorsqu'une partie régulièrement convoquée ne comparaît pas ou ne se fait pas représenter devant le médiateur sans motif légitime, le médiateur établit conformément aux dispositions de l'article L. 520-1, un rapport qu'il envoie au représentant de l'Etat aux fins de transmission au parquet.

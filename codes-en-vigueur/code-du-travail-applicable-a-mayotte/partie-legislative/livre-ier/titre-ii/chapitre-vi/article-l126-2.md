@@ -24,4 +24,4 @@ c) Les majorations pour travaux pénibles, physiquement ou nerveusement, dangere
 
 7° Les conditions de la rupture des contrats de travail, notamment quant au délai-congé et à l'indemnité de licenciement.
 
-Les groupements constitués dans le cadre du présent article ne peuvent exercer leur activité qu'après avoir été agréés par arrêté du représentant du Gouvernement à Mayotte.
+Les groupements constitués dans le cadre du présent article ne peuvent exercer leur activité qu'après avoir été agréés par arrêté du représentant de l'Etat à Mayotte.

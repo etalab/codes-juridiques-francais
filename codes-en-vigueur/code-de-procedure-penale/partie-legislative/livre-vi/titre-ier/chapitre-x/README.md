@@ -1,4 +1,4 @@
-# Chapitre X : Du pourvoi en cassation.
+# Chapitre X : Du pourvoi en cassation
 
 - [Article 855](article-855.md)
 - [Article 856](article-856.md)

@@ -16,4 +16,4 @@ Celles-ci ont notamment pour objet de contribuer :
 
 6° A la réalisation d'enquêtes sur l'insertion professionnelle des jeunes formés par la voie de l'apprentissage.
 
-La chambre professionnelle adresse au comité de la formation professionnelle, de la promotion sociale et de l'emploi, tous avis et suggestions qu'il lui paraît nécessaire de formuler sur l'apprentissage dans la collectivité territoriale.
+La chambre professionnelle adresse au comité de la formation professionnelle, de la promotion sociale et de l'emploi, tous avis et suggestions qu'il lui paraît nécessaire de formuler sur l'apprentissage dans la collectivité départementale.

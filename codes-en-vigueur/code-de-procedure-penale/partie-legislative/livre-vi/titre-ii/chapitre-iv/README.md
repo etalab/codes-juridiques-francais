@@ -1,4 +1,4 @@
-# Chapitre IV : De la cour criminelle.
+# Chapitre IV : De la cour criminelle
 
 - [Article 885](article-885.md)
 - [Article 886](article-886.md)

@@ -1,6 +1,6 @@
 # Article L122-47
 
-Aucun employeur ne peut [*interdiction*] résilier le contrat de travail [*licenciement*] d'une salariée lorsqu'elle est en état de grossesse médicalement constaté et pendant l'intégralité des périodes de suspension du contrat de travail auxquelles elle a droit en application de l'article L. 122-48, qu'elle use ou non de ce droit, ainsi que pendant les quatre semaines qui suivent l'expiration de ces périodes.
+Aucun employeur ne peut résilier le contrat de travail d'une salariée lorsqu'elle est en état de grossesse médicalement constaté et pendant l'intégralité des périodes de suspension du contrat de travail auxquelles elle a droit en application de l'article L. 122-48, qu'elle use ou non de ce droit, ainsi que pendant les quatre semaines qui suivent l'expiration de ces périodes.
 
 Toutefois, et sous réserve d'observer les dispositions de l'article L. 122-51, il peut résilier le contrat s'il justifie d'une faute grave de l'intéressée, non liée à l'état de grossesse, ou de l'impossibilité où il se trouve, pour un motif étranger à la grossesse, à l'accouchement ou à l'adoption, de maintenir ledit contrat.
 

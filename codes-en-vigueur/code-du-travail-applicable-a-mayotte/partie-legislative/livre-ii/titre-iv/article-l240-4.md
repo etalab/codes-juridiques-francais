@@ -4,4 +4,4 @@ Le médecin, chargé de la surveillance médicale au travail, est habilité à p
 
 Le chef d'entreprise est tenu de prendre en considération ces propositions et, en cas de refus, de faire connaître les motifs qui s'opposent à ce qu'il y soit donné suite.
 
-En cas de difficulté ou de désaccord, la décision est prise par l'inspecteur du travail après avis d'un médecin désigné à cet effet par le représentant du Gouvernement.
+En cas de difficulté ou de désaccord, la décision est prise par l'inspecteur du travail après avis d'un médecin désigné à cet effet par le représentant de l'Etat.

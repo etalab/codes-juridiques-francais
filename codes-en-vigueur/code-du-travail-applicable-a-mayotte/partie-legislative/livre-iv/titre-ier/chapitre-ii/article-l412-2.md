@@ -1,6 +1,6 @@
 # Article L412-2
 
-Il est interdit à tout employeur de prendre en considération l'appartenance à un syndicat ou l'exercice d'une activité syndicale pour arrêter ses décisions en ce qui concerne notamment l'embauchage, la conduite et la répartition du travail, la formation professionnelle, l'avancement, la rémunération et l'octroi d'avantages sociaux, les mesures de discipline et de congédiement [*discrimination professionnelle*].
+Il est interdit à tout employeur de prendre en considération l'appartenance à un syndicat ou l'exercice d'une activité syndicale pour arrêter ses décisions en ce qui concerne notamment l'embauchage, la conduite et la répartition du travail, la formation professionnelle, l'avancement, la rémunération et l'octroi d'avantages sociaux, les mesures de discipline et de congédiement.
 
 Il est interdit à tout employeur de prélever les cotisations syndicales sur les salaires de son personnel et de les payer au lieu et place de celui-ci.
 

@@ -4,4 +4,4 @@ L'employeur doit, à l'expiration du contrat de travail, délivrer au travailleu
 
 Sont exempts de timbre et d'enregistrement les certificats de travail délivrés aux salariés même s'ils contiennent d'autres mentions que celles prévues à l'alinéa 1er du présent article, toutes les fois que ces mentions ne contiennent ni obligations, ni quittance, ni aucune autre convention donnant lieu au droit proportionnel.
 
-La formule " libre de tout engagement " et toute autre constatant l'expiration régulière du contrat de travail, les qualités professionnelles et les services rendus sont comprises dans l'exemption.
+La formule "libre de tout engagement" et toute autre constatant l'expiration régulière du contrat de travail, les qualités professionnelles et les services rendus sont comprises dans l'exemption.

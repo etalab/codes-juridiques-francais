@@ -4,4 +4,4 @@ Un contrat de travail à durée déterminée peut également être conclu au tit
 
 Ce contrat, qui peut être renouvelé, doit comporter un terme fixé avec précision dès sa conclusion. Les dispositions des deux derniers alinéas de l'article L. 122-1 et de l'article L. 122-13 ne lui sont pas applicables.
 
-Les modalités d'application du présent article sont fixées par arrêté du représentant du Gouvernement à Mayotte.
+Les modalités d'application du présent article sont fixées par arrêté du représentant de l'Etat à Mayotte.

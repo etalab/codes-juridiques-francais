@@ -1,4 +1,4 @@
-# Chapitre VIII : Du jugement des contraventions.
+# Chapitre VIII : Du jugement des contraventions
 
 - [Article 848](article-848.md)
 - [Article 849](article-849.md)

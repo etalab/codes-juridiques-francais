@@ -188,7 +188,7 @@ Cher
 
 Tribunal d'instance de Bourges.
 
-Le département.
+Ledépartement.
 
 Indre
 
@@ -484,7 +484,7 @@ Pyrénées-Orientales
 
 Tribunal d'instance de Perpignan.
 
-Le département
+Ledépartement
 
 Cour d'appel de Nancy
 
@@ -1186,7 +1186,7 @@ Ressort du tribunal de première instance de Saint-Pierre
 
 Tribunal supérieur d'appel de Mamoudzou
 
-Collectivité territoriale de Mayotte
+Mayotte
 
 Tribunal de première instance de Mamoudzou.
 
