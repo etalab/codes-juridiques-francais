@@ -12,7 +12,6 @@
 - [Article R*321-10](article-r-321-10.md)
 - [Article R*321-11](article-r-321-11.md)
 - [Article R*321-12](article-r-321-12.md)
-- [Article R*321-13](article-r-321-13.md)
 - [Article R*321-14](article-r-321-14.md)
 - [Article R*321-15](article-r-321-15.md)
 - [Article R*321-16](article-r-321-16.md)
