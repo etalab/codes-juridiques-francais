@@ -2,3 +2,4 @@
 
 - [CHAPITRE Ier : CREATION.](chapitre-ier)
 - [CHAPITRE II : CLASSEMENT.](chapitre-ii)
+- [CHAPITRE IV : REDEVANCES.](chapitre-iv)
