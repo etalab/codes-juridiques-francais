@@ -1,6 +1,7 @@
 # Section 2 : Bâtiments provisoires édifiés par l'Etat - Conventions d'occupation.
 
 - [Article A73](article-a73.md)
+- [Article A74](article-a74.md)
 - [Article A75](article-a75.md)
 - [Article A76](article-a76.md)
 - [Article A77](article-a77.md)
@@ -14,4 +15,5 @@
 - [Article A85](article-a85.md)
 - [Article A86](article-a86.md)
 - [Article A87](article-a87.md)
+- [Article A88](article-a88.md)
 - [Article A89](article-a89.md)
