@@ -1,6 +1,6 @@
 # Article L652-1
 
-I. - Dans le livre II du présent code, sont applicables à Mayotte les articles L. 210-1, L. 211-1 à L. 211-3, L. 211-5, L. 211-7, L. 212-1 à L. 212-7, L. 213-3, L. 213-4, L. 213-8, L. 213-9, L. 214-1 à L. 214-9, L. 214-12, L. 214-14, L. 214-15, L. 216-1, L. 216-3 à L. 216-11, L. 217-1, L. 218-1 à L. 218-80, L. 220-1, L. 220-2, L. 221-1, la première phrase du second alinéa de l'article L. 221-2, les articles L. 221-3 à L. 221-6, L. 222-1 à L. 222-3, L. 223-1 et L. 223-2.
+I. - Dans le livre II du présent code, sont applicables à Mayotte les articles L. 210-1, L. 211-1 à L. 211-3, L. 211-5, L. 211-7, L. 212-1 à L. 212-7, L. 213-3, L. 213-4, L. 213-8, L. 213-9, L. 214-1 à L. 214-9, L. 214-12, L. 214-14, L. 214-15, L. 216-1, L. 216-3 à L. 216-11, L. 217-1, L. 218-1 à L. 218-80, L. 220-1, L. 220-2, L. 221-1, la première phrase du second alinéa de l'article L. 221-2, les articles L. 221-3 à L. 221-6, L. 222-1 à L. 222-3, L. 223-1 et L. 223-2, L. 229-1 à L. 229-4.
 
 II. - Dans le cas où il n'existe pas d'administrateurs des affaires maritimes, d'officiers de port, d'officiers de port adjoints, les pouvoirs qui leur sont dévolus par les dispositions mentionnées au I sont exercés par le représentant de l'Etat ou par l'un de ses délégués.
 

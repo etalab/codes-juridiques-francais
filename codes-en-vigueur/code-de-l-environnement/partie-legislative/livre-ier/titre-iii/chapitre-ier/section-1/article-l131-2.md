@@ -1,6 +1,6 @@
 # Article L131-2
 
-Il peut être institué, dans chaque région, un comité régional de l'environnement.
+Il est institué, dans chaque région, un comité régional de l'environnement.
 
 Présidé par le président du conseil régional ou par son représentant, ce comité est composé pour moitié de conseillers régionaux, pour un quart de représentants des associations de protection de l'environnement agréées au titre de l'article L. 141-1 désignés par le préfet de région et pour un quart de personnalités qualifiées désignées par le président du conseil régional.
 

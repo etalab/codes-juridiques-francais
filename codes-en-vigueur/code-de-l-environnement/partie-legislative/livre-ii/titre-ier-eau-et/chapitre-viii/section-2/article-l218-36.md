@@ -12,7 +12,7 @@ I. - Sont chargés de rechercher les infractions prévues à la présente sectio
 
 5° Les inspecteurs des affaires maritimes ;
 
-6° Les ingénieurs des mines ou les ingénieurs des travaux publics de l'Etat affectés au service des mines des circonscriptions minéralogiques compétentes ;
+6° Les ingénieurs des mines ou les ingénieurs des travaux publics de l'Etat affectés à la direction régionale de l'industrie, de la recherche et de l'environnement intéressée ;
 
 7° Les ingénieurs des ponts et chaussées et les ingénieurs des travaux publics de l'Etat affectés aux services maritimes ainsi que les agents desdits services commissionnés à cet effet ;
 

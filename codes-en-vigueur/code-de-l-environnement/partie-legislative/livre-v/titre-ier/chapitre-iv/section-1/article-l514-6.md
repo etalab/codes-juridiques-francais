@@ -6,7 +6,7 @@ I. - Les décisions prises en application des articles L. 512-1, L. 512-3, L. 51
 
 2° Par les tiers, personnes physiques ou morales, les communes intéressées ou leurs groupements, en raison des inconvénients ou des dangers que le fonctionnement de l'installation présente pour les intérêts visés à l'article L. 511-1, dans un délai de quatre ans à compter de la publication ou de l'affichage desdits actes, ce délai étant, le cas échéant, prolongé jusqu'à la fin d'une période de deux années suivant la mise en activité de l'installation.
 
-II. - Les dispositions du I ne sont pas applicables aux décisions concernant les autorisations d'exploitation de carrières pour lesquelles le délai de recours est fixé à six mois à compter de l'achèvement des formalités de publicité de la déclaration de début d'exploitation transmise par l'exploitant au préfet.
+II. - Les dispositions du 2° du I ne sont pas applicables aux décisions concernant les autorisations d'exploitation de carrières pour lesquelles le délai de recours est fixé à six mois à compter de l'achèvement des formalités de publicité de la déclaration de début d'exploitation transmise par l'exploitant au préfet.
 
 Elles ne sont pas non plus applicables aux décisions concernant les autorisations d'exploitation d'installations classées concourant à l'exécution de services publics locaux ou de services d'intérêt général pour lesquelles le délai de recours est fixé à un an à compter de l'achèvement des formalités de publicité de la déclaration de début d'exploitation transmise par l'exploitant au préfet.
 

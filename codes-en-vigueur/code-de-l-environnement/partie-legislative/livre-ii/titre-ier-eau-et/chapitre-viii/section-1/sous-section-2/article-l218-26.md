@@ -16,7 +16,7 @@ I. - Indépendamment des officiers et agents de police judiciaire, qui exercent 
 
 7° Les fonctionnaires et agents assermentés et commissionnés des services maritimes et des ports autonomes ;
 
-8° Les ingénieurs des mines et les ingénieurs des travaux publics de l'Etat affectés au service des mines des circonscriptions minéralogiques intéressées ;
+8° Les ingénieurs des mines et les ingénieurs des travaux publics de l'Etat affectés à la direction régionale de l'industrie, de la recherche et de l'environnement intéressée ;
 
 9° Les officiers de port et officiers de port adjoints ;
 
