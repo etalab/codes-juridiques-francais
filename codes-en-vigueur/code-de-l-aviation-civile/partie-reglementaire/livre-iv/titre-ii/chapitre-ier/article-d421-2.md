@@ -6,15 +6,19 @@ Les titres donnant droit à l'inscription aux registres sont les suivants, sous 
 
 Catégorie Essais et réceptions :
 
-Licence de pilote d'essais d'avions,
+- licence de pilote d'essais expérimental d'avions ;
 
-Licence de pilote d'essais d'avions légers,
+- licence de pilote d'essais d'avions ;
 
-Licence de pilote d'essais d'hélicoptères,
+- licence de pilote d'essais d'avions légers ;
 
-Licence de pilote de réception d'avions,
+- licence de pilote d'essais expérimental d'hélicoptères ;
 
-Licence de pilote de réception d'hélicoptères (1) ;
+- licence de pilote d'essais d'hélicoptères ;
+
+- licence de pilote de réceptions d'avions ;
+
+- licence de pilote de réceptions d'hélicoptères.
 
 Catégorie Transport aérien :
 
@@ -44,11 +48,13 @@ Licence de pilote professionnel d'hélicoptère (2).
 
 Catégorie Essais et réceptions :
 
-Licence d'ingénieur navigant d'essais,
+- licence d'ingénieur navigant d'essais ;
 
-Licence de mécanicien navigant possédant la qualification Essais et réceptions,
+- licence d'expérimentateur navigant d'essais ;
 
-Licence de radio navigant possédant la qualification Essais et réceptions ;
+- licence de mécanicien navigant d'essais ;
+
+- licence de mécanicien navigant de réceptions.
 
 Catégorie Transport aérien :
 
@@ -73,8 +79,6 @@ Licence d'ingénieur navigant de l'aviation civile (3) ;
 3° Registres C
 
 Catégorie Essais et réceptions :
-
-Licence d'expérimentateur navigant d'essais,
 
 Licence de parachutiste professionnel possédant la qualification Essais et réceptions ;
 
