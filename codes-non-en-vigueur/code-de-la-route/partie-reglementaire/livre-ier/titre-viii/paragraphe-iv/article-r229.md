@@ -8,4 +8,4 @@ Véhicules et transports militaires
 
 3° Les règles administratives des articles R. 106 à R. 109-2 (Réception), R. 110 à R. 117 (Immatriculation) et R. 118 à R. 122 (Visites techniques) ne sont pas applicables aux véhicules et aux matériels spéciaux de l'armée, de la marine nationale et de l'aviation militaire qui font l'objet d'une immatriculation particulière et dont la réception est assurée par les services techniques de la défense nationale.
 
-4° Les dispositions des articles R. 10, dernier alinéa R. 123 à R. 129 (Permis de conduire) ne sont pas applicables aux conducteurs des véhicules militaires lorsqu'ils sont titulaires des brevets délivrés à cet effet par l'autorité militaire.
+4° Les dispositions des articles R. 10-6, dernier alinéa R. 123 à R. 129 (Permis de conduire) ne sont pas applicables aux conducteurs des véhicules militaires lorsqu'ils sont titulaires des brevets délivrés à cet effet par l'autorité militaire.

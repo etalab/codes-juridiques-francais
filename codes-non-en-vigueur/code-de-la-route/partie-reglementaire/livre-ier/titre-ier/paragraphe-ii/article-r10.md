@@ -23,5 +23,3 @@ En cas de pluie ou d'autres précipitations, les vitesses maximales sont abaiss�
 3° 80 km/h sur les autres routes.
 
 En cas de visibilité inférieure à 50 mètres, les vitesses maximales sont abaissées à 50 kilomètres/heure sur l'ensemble des réseaux routier et autoroutier.
-
-Les conducteurs titulaires depuis moins d'un an d'un permis de conduire sont tenus, indépendamment des autres limitations de vitesse édictées en application du présent code, de ne pas dépasser la vitesse de 90 km/h. Cette limitation de vitesse doit, dans les conditions qui sont définies par arrêté du ministre de l'intérieur et de la décentralisation et du ministre chargé des transports, être signalée par un dispositif amovible sur tout véhicule conduit par l'intéressé.
