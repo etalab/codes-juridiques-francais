@@ -1,5 +1,6 @@
 # (en vigueur jusqu'au 31 décembre 2005).
 
+- [Article D489](article-d489.md)
 - [Article D490](article-d490.md)
 - [Article D491](article-d491.md)
 - [Article D491-1](article-d491-1.md)
