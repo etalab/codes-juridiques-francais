@@ -1,6 +1,4 @@
 # LES DELAIS DE PRESCRIPTION
 
 - [DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, DROITS ET TAXES ASSIMILEES.](droits-d-enregistrement-taxe-de-publicite-fonciere-droits-de-timbre-droits-et)
-- [IMPOTS DIRECTS ET TAXES ASSIMILEES.](impots-directs-et)
 - [IMPOT SUR LES GRANDES FORTUNES.](impot-sur)
-- [TAXES SUR LE CHIFFRE D'AFFAIRES.](taxes-sur)

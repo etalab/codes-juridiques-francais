@@ -15,4 +15,3 @@
 - [Article 1751](article-1751.md)
 - [Article 1756 bis](article-1756-bis.md)
 - [Article 1756 ter](article-1756-ter.md)
-- [Article 1756 quater](article-1756-quater.md)
