@@ -15,6 +15,7 @@
 - [Article R*26](article-r-26.md)
 - [Article R*27](article-r-27.md)
 - [Article R*28](article-r-28.md)
+- [Article R*29](article-r-29.md)
 - [Article R*30](article-r-30.md)
 - [Article R*31](article-r-31.md)
 - [Article R*33](article-r-33.md)
