@@ -1,9 +1,9 @@
 # Article R223-1
 
-Une amende prévue par le 4° de l'article 131-13 du code pénal pour les contraventions de la 4ème classe est prononcée contre le propriétaire du fonds :
+Est puni de la peine d'amende prévue pour les contraventions de la 4e classe, le fait, pour le propriétaire du fonds :
 
-1° En cas de coupe non conforme aux dispositions de l'article L. 222-1 ou des alinéas 1er, 2 et 3 de l'article L. 222-2, ou non autorisée conformément à l'article L. 222-5 ;
+1° D'effectuer une coupe non conforme au plan simple de gestion prévu à l'article L. 222-1 ou aux dispositions de l'article L. 222-2 ou non autorisée conformément à l'article L. 10 ou à l'article L. 222-5 ;
 
-2° En cas de coupe abusive non conforme aux dispositions de l'article L. 222-1 et des alinéas 1er, 2 et 3 de l'article L. 222-2, ou non autorisée conformément à l'article L. 222-5, lorsque le total des circonférences des arbres exploités, non compris le taillis, ne dépasse pas 500 mètres.
+2° D'effectuer une coupe abusive non conforme au plan simple de gestion prévu à l'article L. 222-1 ou aux dispositions de l'article L. 222-2 ou non autorisée conformément aux dispositions des articles L. 10 et L. 222-5, lorsque le total des circonférences des arbres exploités mesurés à 1,3 mètre du sol, non compris le taillis, ne dépasse pas 200 mètres.
 
-Les peines prévues à l'alinéa précédent sont doublées en cas de récidive.
+Les mêmes peines sont applicables au bénéficiaire de la coupe illicite.
