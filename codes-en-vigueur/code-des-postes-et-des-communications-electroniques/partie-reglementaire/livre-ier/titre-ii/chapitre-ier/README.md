@@ -8,4 +8,5 @@
 - [Article D41-1](article-d41-1.md)
 - [Article D42](article-d42.md)
 - [Article D43](article-d43.md)
+- [Article D45](article-d45.md)
 - [Article D46](article-d46.md)
