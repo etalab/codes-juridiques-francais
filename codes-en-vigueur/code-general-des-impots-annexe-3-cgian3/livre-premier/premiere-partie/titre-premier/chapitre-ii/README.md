@@ -8,7 +8,7 @@
 - [Section II ter : Déclaration à produire par les entreprises nouvelles bénéficiant des dispositions de l'article 44 sexies du code général des impôts](section-ii-ter)
 - [Section III : Restitution d'impôts consécutive au remboursement des sommes visées à l'article 111 du code général des impôts](section-iii)
 - [Section V : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales.](section-v)
-- [Section V bis : Crédit d'impôt pour dépenses de formation.](section-v-bis)
+- [Section V bis : Crédit d'impôt pour dépenses de formation professionnelle.](section-v-bis)
 - [Section VI : Indemnités de congé payé](section-vi)
 - [Section 0I bis : Personnes morales passibles de l'impôt sur les sociétés, ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble](section-0i-bis)
 - [Section 0I ter : Déductions fiscales ou réductions d'impôt accordées au titre de certains investissements réalisés outre-mer](section-0i-ter)
