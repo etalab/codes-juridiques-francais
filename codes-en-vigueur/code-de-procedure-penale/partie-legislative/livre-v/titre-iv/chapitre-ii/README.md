@@ -7,6 +7,7 @@
 - [Article 741-1](article-741-1.md)
 - [Article 741-2](article-741-2.md)
 - [Article 741-3](article-741-3.md)
+- [Article 742](article-742.md)
 - [Article 742-1](article-742-1.md)
 - [Article 742-2](article-742-2.md)
 - [Article 742-3](article-742-3.md)
