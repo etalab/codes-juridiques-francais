@@ -1,5 +1,9 @@
 # Article L241-3-2
 
-Une carte de stationnement pour personnes handicapées est accordée par le préfet, sur sa demande, à toute personne handicapée, titulaire de la carte d'invalidité prévue à l'article L. 241-3, ainsi qu'aux personnes relevant de l'article L. 18 du code des pensions militaires d'invalidité et des victimes de la guerre et aux titulaires d'une pension attribuée au titre de ce code, soit pour une invalidité d'au moins 85 %, soit pour une invalidité de 60 % et plus si la pension comporte le droit aux allocations attribuées aux grands mutilés de guerre définis à l'article L. 36 et aux grands invalides définis à l'article L. 37 dudit code, dont la déficience physique réduit de manière importante sa capacité et son autonomie de déplacement à pied ou dont la déficience sensorielle ou mentale impose qu'elle soit accompagnée par une tierce personne dans ses déplacements.
+Toute personne, y compris les personnes relevant du code des pensions militaires d'invalidité et des victimes de la guerre et du code de la sécurité sociale, atteinte d'un handicap qui réduit de manière importante et durable sa capacité et son autonomie de déplacement à pied ou qui impose qu'elle soit accompagnée par une tierce personne dans ses déplacements, peut recevoir une carte de stationnement pour personnes handicapées. Cette carte est délivrée par le préfet conformément à l'avis du médecin chargé de l'instruction de la demande.
+
+Les organismes utilisant un véhicule destiné au transport collectif des personnes handicapées peuvent recevoir une carte de stationnement pour personnes handicapées.
 
 La carte de stationnement pour personnes handicapées permet à son titulaire ou à la tierce personne l'accompagnant d'utiliser, dans les lieux de stationnement ouverts au public, les places réservées et aménagées à cet effet. Elle permet, dans les mêmes conditions, de bénéficier des autres dispositions qui peuvent être prises en faveur des personnes handicapées par les autorités compétentes en matière de circulation et de stationnement.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.

@@ -1,0 +1,7 @@
+# Article L114-1-1
+
+La personne handicapée a droit à la compensation des conséquences de son handicap quels que soient l'origine et la nature de sa déficience, son âge ou son mode de vie.
+
+Cette compensation consiste à répondre à ses besoins, qu'il s'agisse de l'accueil de la petite enfance, de la scolarité, de l'enseignement, de l'éducation, de l'insertion professionnelle, des aménagements du domicile ou du cadre de travail nécessaires au plein exercice de sa citoyenneté et de sa capacité d'autonomie, du développement ou de l'aménagement de l'offre de service, permettant notamment à l'entourage de la personne handicapée de bénéficier de temps de répit, du développement de groupes d'entraide mutuelle ou de places en établissements spécialisés, des aides de toute nature à la personne ou aux institutions pour vivre en milieu ordinaire ou adapté, ou encore en matière d'accès aux procédures et aux institutions spécifiques au handicap ou aux moyens et prestations accompagnant la mise en oeuvre de la protection juridique régie par le titre XI du livre Ier du code civil. Ces réponses adaptées prennent en compte l'accueil et l'accompagnement nécessaires aux personnes handicapées qui ne peuvent exprimer seules leurs besoins.
+
+Les besoins de compensation sont inscrits dans un plan élaboré en considération des besoins et des aspirations de la personne handicapée tels qu'ils sont exprimés dans son projet de vie, formulé par la personne elle-même ou, à défaut, avec ou pour elle par son représentant légal lorsqu'elle ne peut exprimer son avis.
