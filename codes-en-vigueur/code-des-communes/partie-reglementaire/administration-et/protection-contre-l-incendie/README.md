@@ -1,7 +1,4 @@
 # Protection contre l'incendie
 
-- [Dispositions *applicables* à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*](dispositions-applicables-a)
-- [Dispositions communes à l'ensemble des sapeurs-pompiers communaux *professionnels et non professionnels (volontaires)*](dispositions-communes-a)
 - [Dispositions applicables aux sapeurs-pompiers communaux professionnels](dispositions-applicables-aux)
-- [SAPEURS-POMPIERS COMMUNAUX NON PROFESSIONNELS *VOLONTAIRES*](sapeurs-pompiers-communaux-non)
 - [Sapeurs-pompiers communaux](sapeurs-pompiers-communaux)
