@@ -6,7 +6,6 @@
 - [Livre 4 : Accidents du travail et maladies professionnelles (Dispositions propres et dispositions communes avec d'autres branches)](livre-4)
 - [Livre 5 : Prestations familiales et prestations assimilées](livre-5)
 - [Livre 6 : Régimes des travailleurs non-salariés](livre-6)
-- [LIVRE VI : REGIMES DES TRAVAILLEURS NON-SALARIES](livre-vi)
 - [Livre 7 : Régimes divers - Dispositions diverses](livre-7)
 - [LIVRE VII : REGIMES DIVERS](livre-vii)
 - [Livre 8 : Allocations aux personnes âgées](livre-8)
