@@ -18,6 +18,8 @@ Le meurtre est puni de la réclusion criminelle à perpétuité lorsqu'il est co
 
 6° A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une race ou une religion déterminée ;
 
-7° A raison de l'orientation sexuelle de la victime.
+7° A raison de l'orientation sexuelle de la victime ;
+
+8° Par plusieurs personnes agissant en bande organisée.
 
 Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le présent article. Toutefois, lorsque la victime est un mineur de quinze ans et que le meurtre est précédé ou accompagné d'un viol, de tortures ou d'actes de barbarie, la cour d'assises peut, par décision spéciale, soit porter la période de sûreté jusqu'à trente ans, soit, si elle prononce la réclusion criminelle à perpétuité, décider qu'aucune des mesures énumérées à l'article 132-23 ne pourra être accordée au condamné ; en cas de commutation de la peine, et sauf si le décret de grâce en dispose autrement, la période de sûreté est alors égale à la durée de la peine résultant de la mesure de grâce.

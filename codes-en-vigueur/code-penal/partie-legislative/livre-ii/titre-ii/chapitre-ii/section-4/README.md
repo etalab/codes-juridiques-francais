@@ -11,3 +11,4 @@
 - [Article 222-41](article-222-41.md)
 - [Article 222-42](article-222-42.md)
 - [Article 222-43](article-222-43.md)
+- [Article 222-43-1](article-222-43-1.md)

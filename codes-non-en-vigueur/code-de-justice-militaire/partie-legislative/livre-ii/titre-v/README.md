@@ -9,4 +9,4 @@
 - [Chapitre XI : De la réhabilitation](chapitre-xi)
 - [Chapitre XII : De la prescription des peines](chapitre-xii)
 - [Chapitre XIII : Du casier judiciaire](chapitre-xiii)
-- [Chapitre XIV : Des frais de justice et de la contrainte par corps](chapitre-xiv)
+- [Chapitre XIV : Des frais de justice et de la contrainte judiciaire](chapitre-xiv)

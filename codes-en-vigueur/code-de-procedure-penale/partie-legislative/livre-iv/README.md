@@ -19,6 +19,8 @@
 - [Titre XX : Du fichier national automatisé des empreintes génétiques](titre-xx)
 - [Titre XIX : De la procédure applicable aux infractions de nature sexuelle et de la protection des mineurs victimes](titre-xix)
 - [Titre XXI : De la protection des témoins](titre-xxi)
+- [Titre XXI bis : Protection des personnes bénéficiant d'exemptions ou de réductions de peines pour avoir permis d'éviter la réalisation d'infractions, de faire cesser ou d'atténuer le dommage causé par une infraction, ou d'identifier les auteurs ou complices d'infractions](titre-xxi-bis)
 - [Titre XXII : Saisine pour avis de la Cour de cassation](titre-xxii)
 - [Titre XXIII : De l'utilisation de moyens de télécommunications au cours de la procédure](titre-xxiii)
 - [Titre XXIV : Dispositions relatives à la juridiction de proximité](titre-xxiv)
+- [Titre XXVI : De la procédure applicable en cas de pollution des eaux maritimes par rejets des navires](titre-xxvi)

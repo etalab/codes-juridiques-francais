@@ -8,3 +8,4 @@
 - [Article 225-4-6](article-225-4-6.md)
 - [Article 225-4-7](article-225-4-7.md)
 - [Article 225-4-8](article-225-4-8.md)
+- [Article 225-4-9](article-225-4-9.md)

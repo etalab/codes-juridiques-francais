@@ -1,5 +1,8 @@
 # Chapitre Ier : Dispositions générales
 
+- [Article 707-2](article-707-2.md)
+- [Article 707-3](article-707-3.md)
+- [Article 707-4](article-707-4.md)
 - [Article 708](article-708.md)
 - [Article 709](article-709.md)
 - [Article 709-1](article-709-1.md)

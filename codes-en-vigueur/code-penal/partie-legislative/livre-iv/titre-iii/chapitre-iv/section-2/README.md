@@ -1,6 +1,7 @@
 # Section 2 : Des entraves à l'exercice de la justice.
 
 - [Article 434-7-1](article-434-7-1.md)
+- [Article 434-7-2](article-434-7-2.md)
 - [Article 434-8](article-434-8.md)
 - [Article 434-9](article-434-9.md)
 - [Article 434-10](article-434-10.md)
