@@ -5,6 +5,7 @@
 - [Article 1234-4](article-1234-4.md)
 - [Article 1234-5](article-1234-5.md)
 - [Article 1234-6](article-1234-6.md)
+- [Article 1234-7](article-1234-7.md)
 - [Article 1234-8](article-1234-8.md)
 - [Article 1234-9](article-1234-9.md)
 - [Article 1234-10](article-1234-10.md)
