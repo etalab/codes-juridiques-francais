@@ -1,6 +1,5 @@
 # Section 1 : Affiliation.
 
-- [Article 1026](article-1026.md)
 - [Article 1027](article-1027.md)
 - [Article 1028](article-1028.md)
 - [Article 1030](article-1030.md)
