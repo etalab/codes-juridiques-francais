@@ -1,9 +1,5 @@
 # IMPOSITIONS PERCUES AU PROFIT DE DIVERS ORGANISMES.
 
-- [Article 335](article-335.md)
-- [Article 336](article-336.md)
-- [Article 337](article-337.md)
-- [Article 338](article-338.md)
 - [Article 352](article-352.md)
 - [Article 353](article-353.md)
 - [Article 354](article-354.md)
