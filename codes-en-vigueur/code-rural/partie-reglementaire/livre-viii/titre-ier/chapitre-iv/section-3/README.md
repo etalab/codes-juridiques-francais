@@ -5,4 +5,3 @@
 - [Sous-section 3 : Enseignement et recherche.](sous-section-3)
 - [Sous-section 4 : Administration.](sous-section-4)
 - [Sous-section 5 : Conseil supérieur de l'enseignement supérieur vétérinaire.](sous-section-5)
-- [Sous-section 6 : Conseil national de la spécialisation vétérinaire.](sous-section-6)

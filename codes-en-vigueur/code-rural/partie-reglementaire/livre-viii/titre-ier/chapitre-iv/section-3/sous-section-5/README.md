@@ -5,4 +5,3 @@
 - [Article R*814-40](article-r-814-40.md)
 - [Article R*814-41](article-r-814-41.md)
 - [Article R*814-42](article-r-814-42.md)
-- [Article R*814-43](article-r-814-43.md)
