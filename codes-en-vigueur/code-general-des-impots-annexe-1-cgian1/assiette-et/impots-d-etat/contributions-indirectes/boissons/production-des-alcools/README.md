@@ -1,6 +1,5 @@
 # PRODUCTION DES ALCOOLS.
 
-- [Article 28](article-28.md)
 - [Article 31](article-31.md)
 - [Article 37](article-37.md)
 - [Article 43](article-43.md)
