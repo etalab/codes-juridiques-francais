@@ -1,4 +1,0 @@
-# PARAGRAPHE XVII : INTERDICTIONS ET RESTRICTIONS DE CIRCULATION.
-
-- [Article R53-2](article-r53-2.md)
-- [Article R53-2-1](article-r53-2-1.md)
