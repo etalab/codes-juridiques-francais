@@ -6,5 +6,6 @@
 - [Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.](chapitre-iv)
 - [Chapitre V : De la radiation et réduction des inscriptions](chapitre-v)
 - [Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs.](chapitre-vi)
+- [Chapitre VII : De l'extinction des privilèges et hypothèques.](chapitre-vii)
 - [Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques.](chapitre-viii)
 - [Chapitre X : De la publicité des registres et de la responsabilité des conservateurs.](chapitre-x)
