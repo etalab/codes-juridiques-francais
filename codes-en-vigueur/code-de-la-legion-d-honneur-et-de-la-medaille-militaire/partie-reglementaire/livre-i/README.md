@@ -7,4 +7,5 @@
 - [TITRE V : Discipline](titre-v)
 - [TITRE VI : Administration de l'ordre](titre-vi)
 - [TITRE VII : Maisons d'éducation](titre-vii)
+- [TITRE VII BIS : Musée national de la Légion d'honneur et des ordres de chevalerie.](titre-vii-bis)
 - [TITRE VIII : Attribution de la Légion d'honneur aux étrangers](titre-viii)
