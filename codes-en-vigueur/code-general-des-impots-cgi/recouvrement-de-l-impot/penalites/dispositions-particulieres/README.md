@@ -17,7 +17,6 @@
 - [Article 1785 A](article-1785-a.md)
 - [Article 1785 B](article-1785-b.md)
 - [Article 1785 E](article-1785-e.md)
-- [Article 1787](article-1787.md)
 - [Article 1789](article-1789.md)
 - [Article 1827](article-1827.md)
 - [Article 1828](article-1828.md)
