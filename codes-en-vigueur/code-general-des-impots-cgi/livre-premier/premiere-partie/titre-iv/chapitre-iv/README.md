@@ -3,7 +3,7 @@
 - [Section I : Agriculture](section-i)
 - [Section II : Collectivités publiques, établissements publics ou d'utilité publique](section-ii)
 - [Section III : Construction. Logement](section-iii)
-- [Section IV : Biens sinistrés](section-iv)
+- [Section IV : Institutions à caractère social](section-iv)
 - [Section V : Établissements financiers](section-v)
 - [Section VI : Institutions à caractère social](section-vi)
 - [Section VII : Juridictions. Procédures diverses](section-vii)
