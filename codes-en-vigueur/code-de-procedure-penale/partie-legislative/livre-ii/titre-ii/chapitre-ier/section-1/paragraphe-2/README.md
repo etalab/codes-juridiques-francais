@@ -5,3 +5,4 @@
 - [Article 390-1](article-390-1.md)
 - [Article 391](article-391.md)
 - [Article 392](article-392.md)
+- [Article 392-1](article-392-1.md)
