@@ -17,6 +17,5 @@
 - [Article D651-15](article-d651-15.md)
 - [Article D651-16](article-d651-16.md)
 - [Article D651-17](article-d651-17.md)
-- [Article D651-18](article-d651-18.md)
 - [Article D651-19](article-d651-19.md)
 - [Article D651-20](article-d651-20.md)
