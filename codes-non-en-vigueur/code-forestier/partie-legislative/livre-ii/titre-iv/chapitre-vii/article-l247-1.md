@@ -10,4 +10,8 @@ Dès lors qu'elles remplissent les conditions prévues par l'article L. 222-1, c
 
 Elles peuvent également assurer tout ou partie de la gestion des forêts des propriétés qu'elles réunissent : travaux de boisement et de sylviculture, réalisation et entretien d'équipements, exploitation et mise en marché des produits forestiers. Elles peuvent, en outre, autoriser ou réaliser des travaux d'équipement pastoral et donner à bail des terrains pastoraux inclus dans leur périmètre.
 
-Elles peuvent, à titre accessoire, autoriser ou réaliser des équipements à des fins ni forestières ni pastorales, à condition qu'ils soient de nature à contribuer au maintien de la vie rurale et, dans le cas d'une association autorisée, que leur gestion soit confiée à des tiers. Les collectivités et personnes morales mentionnées au 2° de l'article L. 111-1 peuvent adhérer à une association syndicale de gestion forestière pour leurs fonds qui ne sont pas susceptibles d'être soumis au régime forestier.
+Elles peuvent, à titre accessoire, autoriser ou réaliser des équipements à des fins ni forestières ni pastorales, à condition qu'ils soient de nature à contribuer au maintien de la vie rurale et, dans le cas d'une association autorisée, que leur gestion soit confiée à des tiers.
+
+Les collectivités et personnes morales mentionnées au 2° de l'article L. 111-1 peuvent adhérer à une association syndicale de gestion forestière pour leurs fonds qui ne sont pas susceptibles d'être soumis au régime forestier.
+
+Les parcelles figurant dans le périmètre d'une association syndicale de gestion forestière ouvrent droit en priorité aux aides prévues pour l'entretien de l'espace.
