@@ -8,6 +8,6 @@ Toutefois, aucune majoration n'est appliquée lorsque la différence constatée 
 
 3  Les dispositions des 1 et 2 sont applicables à l'impôt sur les sociétés dans des conditions fixées par décret (1).
 
-4  Si l'imposition forfaitaire annuelle instituée par l'article 223 septies n'est pas intégralement acquittée au plus tard le 1er mars, une majoration de 10 % est appliquée aux sommes non versées à cette date et recouvrées avec le principal dans les conditions prévues à l'article 1668 A.
+4  Si l'imposition forfaitaire annuelle instituée par l'article 223 septies n'est pas intégralement acquittée au plus tard le 15 mars, une majoration de 10 % est appliquée aux sommes non versées à cette date et recouvrées avec le principal dans les conditions prévues à l'article 1668 A.
 
 (1) Annexe III, art. 364 et 365.

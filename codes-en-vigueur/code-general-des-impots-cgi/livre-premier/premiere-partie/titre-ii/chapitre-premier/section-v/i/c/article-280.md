@@ -22,7 +22,7 @@
 
 - glace hydrique;
 
-2° Les produits suivants, utilisés pour l'alimentation humaine et non passibles du taux super réduit :
+2° Les produits suivants, utilisés pour l'alimentation humaine et non passibles du taux réduit :
 
 - boissons alcooliques;
 
@@ -74,12 +74,10 @@ Le taux intermédiaire s'applique également aux opérations de commission et de
 
 k  (Transféré au 3);
 
-l  Aux spectacles, jeux et divertissements qui ne sont pas soumis à l'impôt prévu à l'article 1559 et qui ne sont pas passibles du    x taux réduit.
+l  Aux spectacles, jeux et divertissements qui ne sont pas soumis à l'impôt prévu à l'article 1559 et qui ne sont pas passibles du x taux réduit.
 
 3  En ce qui concerne les biens et équipements visés à l'article 1er-I de la loi n° 69-1160 du 24 décembre 1969, les sociétés agréées pour le financement des télécommunications acquièrent lesdits biens et équipements donnés en location à l'administration des postes et télécommunications à un taux identique à celui qu'aurait supporté cette administration, en vertu des articles 278 et 280-2-f, si elle les avait acquis directement.
 
 Les locations et les ventes desdits biens et équipements à l'administration des postes et télécommunications sont soumises à la taxe sur la valeur ajoutée au taux intermédiaire.
 
-(1) Voir art. 278 bis, renvoi 2.
-
-(2) Annexe III, art. 88   (3) Voir annexe II, art. 259.
+(1) Voir art. 278 bis, renvoi 2. (2) Annexe III, art. 88 (3) Voir annexe II, art. 259.
