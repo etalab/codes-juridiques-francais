@@ -8,5 +8,4 @@
 - [Article D722-7](article-d722-7.md)
 - [Article D722-8](article-d722-8.md)
 - [Article D722-10](article-d722-10.md)
-- [Article D722-12](article-d722-12.md)
 - [Article D722-13](article-d722-13.md)
