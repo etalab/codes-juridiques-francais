@@ -1,5 +1,7 @@
 # Article 378
 
-Les marchés de fournitures visés aux articles 39 et 249, dont le montant estimé dépasse des seuils fixés par arrêté du ministre chargé de l'économie et des finances, sont soumis aux dispositions du présent livre.
+Les marchés de fournitures et de travaux passés par l'Etat, les collectivités locales, les établissements publics autres que ceux ayant le caractère industriel et commercial, dont le montant estimé dépasse des seuils fixés par arrêté du ministre chargé de l'économie et des finances, sont soumis aux dispositions du présent livre.
 
-Ils restent soumis aux dispositions des livres I, II et III pour autant qu'il n'y est pas dérogé par les dispositions du présent livre.
+Ils restent soumis aux dispositions des livres Ier, II, III et IV pour autant qu'il n'y est pas dérogé par les dispositions du présent livre.
+
+Sont des marchés de travaux, au sens du premier alinéa ci-dessus, les contrats ayant pour objet de réaliser, de concevoir et réaliser ou de faire réaliser, par quelque moyen que ce soit, tous travaux ou ouvrages de bâtiment ou de génie civil.
