@@ -11,6 +11,7 @@
 - [VII : Plus-values réalisées par les entreprises à l'occasion de la construction et de la vente d'immeubles affectés principalement à l'habitation](vii)
 - [VIII : Imposition des plus-values dégagées à l'occasion de l'aliénation de terrains à bâtir](viii)
 - [XI bis : Régime fiscal de certaines sociétés à responsabilité limitée - Option pour le régime des sociétés de personnes](xi-bis)
+- [XII : Plus-values de liquidation distribuées par certaines sociétés.](xii)
 - [XIII : Régime fiscal des sociétés civiles ayant pour objet la construction d'immeubles en vue de la vente](xiii)
 - [XV : Régime fiscal des syndicats mixtes de gestion forestière et des groupements syndicaux forestiers](xv)
 - [XIV : Régime fiscal des groupements d'intérêt économique et de leurs membres](xiv)
