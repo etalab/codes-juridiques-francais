@@ -1,4 +1,4 @@
-# Livre IX : FORMATION PROFESSIONNELLE DANS LE CADRE DE L'EDUCATION    PERMANENTE
+# Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente.
 
 - [Titre Ier : Des institutions de la formation professionnelle.](titre-ier)
 - [Titre II : Des conventions de formation professionnelle.](titre-ii)
