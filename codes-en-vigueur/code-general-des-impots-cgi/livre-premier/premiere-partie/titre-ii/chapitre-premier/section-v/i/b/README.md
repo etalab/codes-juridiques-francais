@@ -9,4 +9,3 @@
 - [Article 279](article-279.md)
 - [Article 279-0 bis](article-279-0-bis.md)
 - [Article 279 bis](article-279-bis.md)
-- [Article 279 ter](article-279-ter.md)

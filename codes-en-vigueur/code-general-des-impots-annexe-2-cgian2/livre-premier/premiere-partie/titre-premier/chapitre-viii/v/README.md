@@ -12,7 +12,6 @@
 - [Article 171 G](article-171-g.md)
 - [Article 171 H](article-171-h.md)
 - [Article 171 J](article-171-j.md)
-- [Article 171 K](article-171-k.md)
 - [Article 171 N](article-171-n.md)
 - [Article 171 O](article-171-o.md)
 - [Article 171 P](article-171-p.md)
