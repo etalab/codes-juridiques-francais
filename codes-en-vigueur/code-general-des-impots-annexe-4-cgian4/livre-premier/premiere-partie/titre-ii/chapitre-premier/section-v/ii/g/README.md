@@ -1,5 +1,6 @@
 # G : Exploitants de spectacles
 
+- [Article 50 sexies I](article-50-sexies-i.md)
 - [Article 50 sexies C](article-50-sexies-c.md)
 - [Article 50 sexies D](article-50-sexies-d.md)
 - [Article 50 sexies B](article-50-sexies-b.md)
