@@ -6,6 +6,5 @@
 - [BIENS PROFESSIONNELS *DEFINITION*.](biens-professionnels-definition)
 - [CHAMP D'APPLICATION.](champ-d-application)
 - [EVALUATION DES BIENS.](evaluation-des-biens)
-- [LIQUIDATION.](liquidation)
 - [OBLIGATIONS DES REDEVABLES.](obligations-des-redevables)
 - [TARIF.](tarif)
