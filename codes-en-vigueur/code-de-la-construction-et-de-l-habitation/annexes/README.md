@@ -7,6 +7,7 @@
 - [Engagements de portée générale applicables à tout programme conventionné.](engagements-de-portee-generale-applicables-a)
 - [Statuts types d'une société anonyme coopérative de production d'habitations à loyer modéré.](statuts-types-d-une-societe-anonyme-cooperative-de-production-d-habitations-a)
 - [Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution.](statuts-types-des-societes-anonymes-cooperatives-d-habitations-a)
+- [Statuts types des sociétés anonymes d'habitations à loyer modéré.](statuts-types-des-societes-anonymes-d-habitations-a)
 - [Clauses types applicables aux sociétés immobilières locatives mentionnées à l'article L. 313-1-2.](clauses-types-applicables-aux)
 - [Convention type pour les établissements de crédit consentant des prêts conventionnés.](convention-type-pour-les-etablissements-de-credit-consentant-des-prets-conventionnes)
 - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour personnes âgées.](convention-conclue-entre-l-etat-l-organisme-proprietaire-et)
