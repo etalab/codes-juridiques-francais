@@ -1,7 +1,6 @@
 # Chapitre II : Des privilèges.
 
 - [Section 1 : Des privilèges sur les meubles.](section-1)
-- [Section I : Des privilèges sur les meubles](section-i)
 - [Section 2 : Des privilèges spéciaux sur les immeubles.](section-2)
 - [Section 3 : Des privilèges généraux sur les immeubles.](section-3)
 - [Section 4 : Comment se conservent les privilèges.](section-4)
