@@ -1,7 +1,0 @@
-# Article A212-4
-
-Conformément à l'article 3 (alinéa 1er) de l'arrêté du 13 janvier 1970 modifié portant application de l'article 52 du décret n° 69-825 du 28 août 1969, sont dispensées de l'examen des commissions instituées par le décret du 28 août 1969, sous réserve que leur prix n'excède pas l'évaluation effectuée par les services fiscaux (domaines) ou qu'il soit fixé comme en matière d'expropriation, les acquisitions poursuivies :
-
-a) Par exercice du droit de préemption dans les zones d'aménagement différé ;
-
-b) En vue de l'application du droit de délaissement prévu par l'article L. 212-3.
