@@ -6,8 +6,6 @@ Seront punis d'un emprisonnement de dix jours à un mois et d'une amende de 1.20
 
 2° Ceux qui auront outragé par paroles, gestes, menaces, écrits ou dessins non rendus publics, ou encore par envoi d'objets quelconques dans la même intention, tout citoyen chargé d'un ministère de service public, dans l'exercice ou à l'occasion de l'exercice de ses fonctions ;
 
-3° Ceux qui auront porté en public des insignes, rubans ou rosettes présentant avec eux des décorations conférées par l'Etat, une ressemblance de nature à causer une méprise dans l'esprit du public ;
-
 4° Ceux qui, par maladresse, imprudence, inattention, négligence ou inobservation des règlements, auront involontairement été la cause de blessures, coups ou maladies, n'entraînant pas une incapacité totale de travail personnel supérieure à trois mois ;
 
 5° L'officier d'état civil ou la personne déléguée par lui en vertu des dispositions de l'article 6 du décret n° 62-921 du 3 août 1962 qui aura contrevenu aux dispositions réglementaires concernant la tenue des registres et la publicité des actes d'état civil, ou aux arrêtés pris pour leur application, celui qui ne se sera pas assuré de l'existence du consentement des père, mère ou autres personnes lorsque la loi le prescrit pour la validité d'un mariage ; celui qui aura reçu, avant le temps prescrit par l'article 228 du Code civil, l'acte de mariage d'une femme ayant déjà été mariée. Les dispositions du présent numéro sont applicables lors même que la nullité des actes de l'état civil n'aurait pas été demandée ou aurait été couverte ;
@@ -22,7 +20,7 @@ Seront punis d'un emprisonnement de dix jours à un mois et d'une amende de 1.20
 
 10° Ceux qui par l'élévation du déversoir des eaux des moulins, usines ou étangs, au-dessus de la hauteur déterminée par l'autorité compétente, auront inondé les chemins ou les propriétés d'autrui.
 
-11° Ceux qui, par gestes, paroles, écrits ou par tous autres moyens, procéderaient publiquement au racolage de personnes de l'un ou de l'autre sexe, en vue de les provoquer à la débauche.
+11° Ceux qui, par gestes, paroles, écrits ou par tous autres moyens procéderaient publiquement au racolage de personnes de l'un ou de l'autre sexe, en vue de les provoquer à la débauche.
 
 12° Ceux qui auront fait parvenir à un destinataire, sans demande préalable de celui-ci, un objet quelconque accompagné d'une correspondance indiquant qu'il peut être accepté par lui contre versement d'un prix fixé ou renvoyé à son expéditeur, même si ce renvoi peut être fait sans frais pour le destinataire.
 
