@@ -7,7 +7,6 @@
 - [Paragraphe V : ORGANES DE MANOEUVRE, DE DIRECTION ET DE VISIBILITÉ ET APPAREILS DE CONTRÔLE DE LA VITESSE.](paragraphe-v)
 - [Paragraphe VI : FREINAGE.](paragraphe-vi)
 - [Paragraphe VII : ÉCLAIRAGE ET SIGNALISATION.](paragraphe-vii)
-- [Paragraphe 8 : SIGNAUX D'AVERTISSEMENT.](paragraphe-8)
 - [PARAGRAPHE VIII : SIGNAUX D'AVERTISSEMENT.](paragraphe-viii)
 - [Paragraphe IX : PLAQUES ET INSCRIPTIONS.](paragraphe-ix)
 - [Paragraphe X : RÉCEPTION.](paragraphe-x)

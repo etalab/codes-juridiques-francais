@@ -7,7 +7,6 @@
 - [Paragraphe III : CROISEMENTS ET DÉPASSEMENTS.](paragraphe-iii)
 - [Paragraphe IV : INTERSECTIONS DE ROUTES - PRIORITÉ DE PASSAGE.](paragraphe-iv)
 - [PARAGRAPHE V : VOIES FERRÉES SUR ROUTE.](paragraphe-v)
-- [Paragraphe 6 : EMPLOI DES AVERTISSEURS.](paragraphe-6)
 - [PARAGRAPHE VI : EMPLOI DES AVERTISSEURS.](paragraphe-vi)
 - [PARAGRAPHE VII : ARRÊT ET STATIONNEMENT.](paragraphe-vii)
 - [PARAGRAPHE VIII : ÉCLAIRAGE ET SIGNALISATION DES VÉHICULES.](paragraphe-viii)
