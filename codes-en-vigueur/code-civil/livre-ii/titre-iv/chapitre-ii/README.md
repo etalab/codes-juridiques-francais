@@ -1,7 +1,6 @@
 # Chapitre II : Des servitudes établies par la loi
 
 - [Section 1 : Du mur et du fossé mitoyens](section-1)
-- [Section I : Du mur et du fossé mitoyens.](section-i)
 - [Section 2 : De la distance et des ouvrages intermédiaires requis pour certaines constructions](section-2)
 - [Section 3 : Des vues sur la propriété de son voisin](section-3)
 - [Section 4 : De l'égout des toits](section-4)
