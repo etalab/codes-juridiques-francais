@@ -6,7 +6,7 @@ Elle en avise la victime ou ses ayants droit ainsi que l'employeur.
 
 Le comité régional dispose de quatre mois à compter de sa saisine pour rendre son avis motivé et de deux mois supplémentaires lorsqu'il y a nécessité d'examen ou d'enquête complémentaires.
 
-L'ensemble du dossier est rapporté devant le comité par le médecin conseil qui a examiné la victime ou qui a statué sur son taux d'incapacité permanente.
+L'ensemble du dossier est rapporté devant le comité par le médecin conseil qui a examiné la victime ou qui a statué sur son taux d'incapacité permanente, ou par un médecin-conseil habilité à cet effet par le médecin-conseil régional.
 
 Le comité entend obligatoirement l'ingénieur-conseil chef du service de prévention de la caisse régionale d'assurance maladie ou l'ingénieur-conseil qu'il désigne pour le représenter.
 
