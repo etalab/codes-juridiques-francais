@@ -2,5 +2,4 @@
 
 - [ARTISANS.](artisans)
 - [ARTISANS *DEFINITION*.](artisans-definition)
-- [CENTRES DE GESTION AGREES.](centres-de-gestion-agrees)
 - [OBLIGATIONS DES CONTRIBUABLES.](obligations-des-contribuables)
