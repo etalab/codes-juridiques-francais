@@ -1,7 +1,6 @@
 # REVENU GLOBAL.
 
 - [Article 75-0 H](article-75-0-h.md)
-- [Article 75-0 J](article-75-0-j.md)
 - [Article 75-0 N](article-75-0-n.md)
 - [Article 75-0 T](article-75-0-t.md)
 - [Article 79](article-79.md)

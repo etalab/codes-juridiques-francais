@@ -4,4 +4,3 @@
 - [Article L86](article-l86.md)
 - [Article L89](article-l89.md)
 - [Article L93](article-l93.md)
-- [Article L96](article-l96.md)

@@ -10,5 +10,4 @@
 - [Article 1679 quinquies](article-1679-quinquies.md)
 - [Article 1679 A](article-1679-a.md)
 - [Article 1681 C](article-1681-c.md)
-- [Article 1681 D](article-1681-d.md)
 - [Article 1681 B](article-1681-b.md)
