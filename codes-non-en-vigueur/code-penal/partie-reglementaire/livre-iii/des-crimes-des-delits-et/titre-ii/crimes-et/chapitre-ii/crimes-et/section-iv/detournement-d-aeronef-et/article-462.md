@@ -1,6 +1,6 @@
 # Article 462
 
-Toute personne se trouvant à bord d'un aéronef en vol qui, par violence ou menace de violence, s'empare de cet aéronef ou en exerce le contrôle sera punie de la réclusion criminelle à temps de cinq à dix ans [*durée*].
+Toute personne se trouvant à bord d'un aéronef en vol, d'un navire en mer ou de tout autre moyen de transport collectif, qui, par violence ou menace de violence, s'empare de cet aéronef, de ce navire ou de ce moyen de transport collectif ou en exerce le contrôle sera punie de la réclusion criminelle à temps de cinq à dix ans [*durée*].
 
 S'il est résulté de ces faits des blessures ou maladie [*circonstances aggravantes*], la peine sera celle de la réclusion criminelle à temps de dix à vingt ans.
 
