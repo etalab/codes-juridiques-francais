@@ -1,26 +1,48 @@
 # Article L244-1
 
-Les règles relatives à l'allocation aux adultes handicapés sont fixées par les dispositions des articles L. 821-1, L. 821-1-1, L. 821-2, L. 821-3, L. 821-4, L. 821-5, L. 821-6 et L. 821-7 du code de la sécurité sociale ci-après reproduites :
+Les règles relatives à l'allocation aux adultes handicapés sont fixées par les dispositions des articles L. 821-1, L. 821-1-1, L. 821-2, L. 821-3, L. 821-4, L. 821-5, L. 821-6, L. 821-7 et L. 821-8 du code de la sécurité sociale ci-après reproduites :
 
-" Art. L. 821-1. - Toute personne de nationalité française ou ressortissant d'un pays ayant conclu une convention de réciprocité en matière d'attribution d'allocations aux handicapés adultes résidant sur le territoire métropolitain ou dans les départements mentionnés à l'article L. 751-1, y ayant résidé ou ayant résidé dans un territoire d'outre-mer, à Saint-Pierre-et-Miquelon ou à Mayotte, pendant une durée et dans des conditions fixées par décret, ayant dépassé l'âge d'ouverture du droit à l'allocation d'éducation spéciale prévue à l'article L. 541-1 dont l'incapacité permanente est au moins égale à un pourcentage fixé par décret, perçoit une allocation aux adultes handicapés lorsqu'elle ne peut prétendre au titre d'un régime de sécurité sociale, d'un régime de pension de retraite ou d'une législation particulière à un avantage de vieillesse ou d'invalidité ou une rente d'accident du travail d'un montant au moins égal à ladite allocation.
+" Art. L. 821-1. - Toute personne résidant sur le territoire métropolitain ou dans les départements mentionnés à l'article L. 751-1 ou à Saint-Pierre-et-Miquelon ayant dépassé l'âge d'ouverture du droit à l'allocation prévue à l'article L. 541-1 et dont l'incapacité permanente est au moins égale à un pourcentage fixé par décret perçoit, dans les conditions prévues au présent titre, une allocation aux adultes handicapés.
+
+Les personnes de nationalité étrangère, hors les ressortissants des Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen, ne peuvent bénéficier de l'allocation aux adultes handicapés que si elles sont en situation régulière au regard de la législation sur le séjour ou si elles sont titulaires d'un récépissé de demande de renouvellement de titre de séjour. Un décret fixe la liste des titres ou documents attestant la régularité de leur situation.
+
+Le droit à l'allocation aux adultes handicapés est ouvert lorsque la personne ne peut prétendre, au titre d'un régime de sécurité sociale, d'un régime de pension de retraite ou d'une législation particulière, à un avantage de vieillesse ou d'invalidité, à l'exclusion de la majoration pour aide constante d'une tierce personne visée à l'article L. 355-1, ou à une rente d'accident du travail, à l'exclusion de la majoration pour aide d'une tierce personne mentionnée à l'article L. 434-2, d'un montant au moins égal à cette allocation.
 
 Lorsque cet avantage est d'un montant inférieur à celui de l'allocation aux adultes handicapés, celle-ci s'ajoute à la prestation sans que le total des deux avantages puisse excéder le montant de l'allocation aux adultes handicapés.
 
-Lorsqu'une personne bénéficiaire de l'allocation aux adultes handicapés fait valoir son droit à un avantage de vieillesse ou d'invalidité, dans les conditions prévues au premier alinéa ci-dessus, l'allocation aux adultes handicapés continue de lui être servie jusqu'à ce qu'elle perçoive effectivement l'avantage auquel elle a droit. Les sommes trop perçues à ce titre font l'objet d'un reversement par le bénéficiaire.
+Pour la liquidation des avantages de vieillesse, les bénéficiaires de l'allocation aux adultes handicapés sont réputés inaptes au travail à l'âge minimum auquel s'ouvre le droit à pension de vieillesse.
 
-Lorsque l'allocation aux adultes handicapés est versée en complément de la garantie de ressources prévue aux articles L. 243-4 à L. 243-6 du code de l'action sociale, servie à une personne exerçant une activité professionnelle en centre d'aide par le travail, le cumul de ces deux avantages est limité à des montants fixés par décret qui varient notamment selon qu'elle est mariée ou vit maritalement et a une ou plusieurs personnes à sa charge. Ces montants varient en fonction du salaire minimum interprofessionnel de croissance prévu à l'article L. 141-4 du code du travail. "
+Lorsqu'une personne bénéficiaire de l'allocation aux adultes handicapés fait valoir son droit à un avantage de vieillesse ou d'invalidité, l'allocation aux adultes handicapés continue de lui être servie jusqu'à ce qu'elle perçoive effectivement l'avantage auquel elle a droit. Pour la récupération des sommes trop perçues à ce titre, les organismes visés à l'article L. 821-7 sont subrogés dans les droits des bénéficiaires vis-à-vis des organismes payeurs des avantages de vieillesse ou d'invalidité.
 
-" Art. L. 821-1-1. - Un complément d'allocation aux adultes handicapés dont le montant est fixé par décret est versé aux bénéficiaires de cette allocation au titre de l'article L. 821-1 qui disposent d'un logement indépendant pour lequel ils reçoivent une aide personnelle au logement et qui perçoivent l'allocation aux adultes handicapés à taux plein ou en complément d'un avantage de vieillesse ou d'invalidité ou d'une rente d'accident de travail.
+Lorsque l'allocation aux adultes handicapés est versée en complément de la rémunération garantie visée à l'article L. 243-4 du code de l'action sociale et des familles, le cumul de cet avantage avec la rémunération garantie mentionnée ci-dessus est limité à des montants fixés par décret qui varient notamment selon que le bénéficiaire est marié ou vit maritalement ou est lié par un pacte civil de solidarité et a une ou plusieurs personnes à charge. Ces montants varient en fonction du salaire minimum de croissance prévu à l'article L. 141-4 du code du travail. "
 
-Le complément d'allocation aux adultes handicapés n'est pas versé pour les périodes pendant lesquelles le paiement de l'allocation aux adultes handicapés est suspendu totalement ou partiellement en application de l'article L. 821-6.
+" Art. L. 821-1-1. - Il est institué une garantie de ressources pour les personnes handicapées composée de l'allocation aux adultes handicapés et d'un complément de ressources. Le montant de cette garantie est fixé par décret.
 
-Les dispositions de l'article L. 821-5 sont applicables au complément d'allocation aux adultes handicapés. "
+Le complément de ressources est versé aux bénéficiaires de l'allocation aux adultes handicapés au titre de l'article L. 821-1 :
 
-" Art. L. 821-2. - L'allocation aux adultes handicapés est également versée à toute personne dont l'incapacité permanente n'atteint pas le pourcentage fixé par le décret prévu au premier alinéa de l'article L. 821-1 ci-dessus et dont l'incapacité permanente est au minimum égale à un pourcentage fixé par décret mais qui est, compte tenu de son handicap, dans l'impossibilité, reconnue par la commission technique d'orientation et de reclassement professionnel prévue à l'article L. 323-11 du code du travail, de se procurer un emploi.
+- dont la capacité de travail, appréciée par la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles, est, compte tenu de leur handicap, inférieure à un pourcentage fixé par décret ;
 
-Les dispositions du premier alinéa sont applicables aux demandes d'allocation aux adultes handicapés déposées à compter du 1er janvier 1994 et ne sont pas applicables aux demandes de renouvellement de l'allocation déposées par les personnes qui bénéficiaient de celle-ci au 1er janvier 1994. "
+- qui n'ont pas perçu de revenu d'activité à caractère professionnel propre depuis une durée fixée par décret ;
 
-" Art. L. 821-3. - L'allocation aux adultes handicapés peut se cumuler avec les ressources personnelles de l'intéressé et, s'il y a lieu, de son conjoint dans la limite d'un plafond fixé par décret, qui varie suivant qu'il est marié et a une ou plusieurs personnes à sa charge. "
+- qui disposent d'un logement indépendant ;
+
+- qui perçoivent l'allocation aux adultes handicapés à taux plein ou en complément d'un avantage de vieillesse ou d'invalidité ou d'une rente d'accident du travail.
+
+Le versement du complément de ressources pour les personnes handicapées prend fin à l'âge auquel le bénéficiaire est réputé inapte au travail dans les conditions prévues au cinquième alinéa de l'article L. 821-1.
+
+Toute reprise d'activité professionnelle entraîne la fin du versement du complément de ressources.
+
+Un décret en Conseil d'Etat précise les conditions dans lesquelles le complément de ressources est versé aux intéressés hébergés dans un établissement social ou médico-social, hospitalisés dans un établissement de santé ou incarcérés dans un établissement relevant de l'administration pénitentiaire.
+
+Les dispositions de l'article L. 821-5 sont applicables au complément de ressources. "
+
+" Art. L. 821-2. - L'allocation aux adultes handicapés est également versée à toute personne dont l'incapacité permanente n'atteint pas le pourcentage fixé par le décret prévu au premier alinéa de l'article L. 821-1 ci-dessus et dont l'incapacité permanente est au minimum égale à un pourcentage fixé par décret lorsqu'elle n'a pas occupé d'emploi depuis une durée fixée par décret et qu'elle est, compte tenu de son handicap, dans l'impossibilité, reconnue par la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles, de se procurer un emploi.
+
+Le versement de l'allocation aux adultes handicapés au titre du présent article prend fin à l'âge auquel le bénéficiaire est réputé inapte au travail dans les conditions prévues au cinquième alinéa de l'article L. 821-1. "
+
+" Art. L. 821-3. - L'allocation aux adultes handicapés peut se cumuler avec les ressources personnelles de l'intéressé et, s'il y a lieu, de son conjoint, concubin ou partenaire d'un pacte civil de solidarité dans la limite d'un plafond fixé par décret, qui varie selon qu'il est marié, concubin ou partenaire d'un pacte civil de solidarité et a une ou plusieurs personnes à sa charge.
+
+Les rémunérations de l'intéressé tirées d'une activité professionnelle en milieu ordinaire de travail sont en partie exclues du montant des ressources servant au calcul de l'allocation selon des modalités fixées par décret. "
 
 " Art. L. 821-4. - L'allocation aux adultes handicapés est accordée sur décision de la commission technique d'orientation et de reclassement professionnel prévue à l'article L. 323-11 du code du travail appréciant le taux d'invalidité de la personne handicapée ou l'impossibilité où elle se trouve, compte tenu de son handicap, de se procurer un emploi. "
 
@@ -38,12 +60,10 @@ Les différends auxquels peut donner lieu l'application du présent article et d
 
 L'Etat verse au fonds national des prestations familiales, géré par la caisse nationale des allocations familiales, une subvention correspondant au montant des dépenses versées au titre de l'allocation aux adultes handicapés et de son complément. "
 
-" Art. L. 821-6. - Un décret en Conseil d'Etat précise les conditions dans lesquelles le droit à l'allocation aux adultes handicapés mentionnée à l'article L. 821-1 ci-dessus est ouvert aux handicapés hébergés à la charge totale ou partielle de l'aide sociale ou hospitalisés dans un établissement de soins, ou détenus dans un établissement relevant de l'administration pénitentiaire. Ce décret détermine également dans quelles conditions le paiement de ladite allocation peut être suspendu, totalement ou partiellement, en cas d'hospitalisation d'hébergement ou d'incarcération.
-
-La suspension du paiement de l'allocation ne retire pas à l'intéressé le bénéfice des avantages prévus aux articles L. 381-27 à L. 381-29.
+" Art. L. 821-6. - Un décret en Conseil d'Etat précise les conditions dans lesquelles le droit à l'allocation aux adultes handicapés mentionnée à l'article L. 821-1 ci-dessus est ouvert aux personnes handicapées hébergées dans un établissement social ou médico-social ou hospitalisées dans un établissement de santé, ou détenues dans un établissement relevant de l'administration pénitentiaire. Ce décret détermine également dans quelles conditions le paiement de ladite allocation peut être réduit, en cas d'hospitalisation d'hébergement ou d'incarcération.
 
 L'allocation aux adultes handicapés versée aux personnes qui supportent le forfait journalier institué par l'article L. 174-4 ne peut pas être réduite à un montant inférieur à un minimum fixé par décret. "
 
-" Art. L. 821-7. - La gestion de la prestation prévue à l'article L. 821-1 et de son complément est confiée aux organismes du régime général chargés du versement des prestations familiales.
+" Art. L. 821-7. - La gestion de la prestation prévue à l'article L. 821-1, du complément de ressources et de la majoration pour la vie autonome est confiée aux organismes du régime général chargés du versement des prestations familiales.
 
-Toutefois, lorsqu'une caisse de mutualité sociale agricole est compétente pour verser à une personne handicapée les prestations familiales dont elle bénéficie ou serait susceptible de bénéficier, cet organisme assure la gestion de l'allocation et de son complément. "
+Toutefois, lorsqu'une caisse de mutualité sociale agricole est compétente pour verser à une personne handicapée les prestations familiales dont elle bénéficie ou serait susceptible de bénéficier, cet organisme assure la gestion de l'allocation, du complément de ressources et de la majoration pour la vie autonome. "
