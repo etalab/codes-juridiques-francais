@@ -1,3 +1,0 @@
-# Article R*211-35
-
-Les acquisitions réalisées par le titulaire du droit de préemption ou son délégué par exercice du droit prévu par l'article L. 211-2 ne sont pas soumises à l'avis des commissions instituées par le décret n. 69-825 du 28 août 1969 [*commissions nationale et départementale des opérations immobilières de l'architecture, commission régionale des opérations immobilières, de l'architecture et des espaces protégés*], sous réserve que leur prix n'excède pas l'évaluation faite par le service des domaines, lorsque celle-ci est exigée et qu'elle est intervenue dans le délai prévu à l'article R. 211-34 ou que leur prix soit fixé comme en matière d'expropriation.
