@@ -3,3 +3,4 @@
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Cumul de pensions et de rémunérations d'activité.](chapitre-ii)
 - [Chapitre III : Cumul de plusieurs pensions.](chapitre-iii)
+- [Chapitre IV : Cumul d'accessoires de pension.](chapitre-iv)
