@@ -4,6 +4,7 @@
 - [Article 150 V](article-150-v.md)
 - [Article 150 L](article-150-l.md)
 - [Article 150 C](article-150-c.md)
+- [Article 150 D](article-150-d.md)
 - [Article 150 M](article-150-m.md)
 - [Article 150 M bis](article-150-m-bis.md)
 - [Article 150 A](article-150-a.md)
