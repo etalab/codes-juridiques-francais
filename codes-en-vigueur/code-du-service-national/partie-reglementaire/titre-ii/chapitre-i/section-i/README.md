@@ -1,5 +1,6 @@
 # SECTION I : Recensement.
 
+- [Article R*29](article-r-29.md)
 - [Article R*30](article-r-30.md)
 - [Article R*31](article-r-31.md)
 - [Article R*32](article-r-32.md)
