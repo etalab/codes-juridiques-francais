@@ -1,6 +1,6 @@
 # Article R*235-7-1
 
-Les licences sont délivrées aux pêcheurs professionnels par le préfet après avis de la commission départementale ou interdépartementale des structures de la pêche professionnelle en eau douce prévue à l'article R. 235-13-1 du présent code.
+Les licences sont délivrées aux pêcheurs professionnels par le préfet après avis de la commission de bassin pour la pêche professionnelle en eau douce prévue à l'article R. 235-13-1 du présent code.
 
 Les licences sont nominatives. Elles sont délivrées pour cinq ans et font l'objet d'un renouvellement général. Toutefois, leur date d'expiration peut être prorogée d'un an dans les conditions fixées au premier alinéa de l'article R. 235-8. Le prix de chaque licence est fixé et révisé par le directeur des services fiscaux après avis du service ou de l'établissement gestionnaire du domaine.
 
