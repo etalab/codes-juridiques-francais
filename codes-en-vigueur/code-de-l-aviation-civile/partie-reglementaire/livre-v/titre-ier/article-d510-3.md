@@ -10,6 +10,8 @@ Les associations aéronautiques (aéro-clubs) dont les membres pratiquent l'une 
 
 - pour l'aérostation, la fédération française d'aérostation.
 
+" - pour l'ultra-léger motorisé, la Fédération française de planeur ultra-léger motorisé. "
+
 Ces fédérations :
 
 1° Ont seules compétence pour assurer la représentation des aéro-clubs qui leur sont affiliés ainsi que pour orienter, coordonner leurs activités et favoriser leur équipemement en matériel utile à l'exercice de ces activités ;
