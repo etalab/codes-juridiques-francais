@@ -1,6 +1,7 @@
 # Section 1 : Des conditions requises pour l'adoption plénière
 
 - [Article 343](article-343.md)
+- [Article 343-1](article-343-1.md)
 - [Article 345-1](article-345-1.md)
 - [Article 347](article-347.md)
 - [Article 348](article-348.md)
