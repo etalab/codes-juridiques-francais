@@ -1,4 +1,4 @@
-# Chapitre VI : Taxe perçue au profit du comité des fruits à cidre et des productions cidricoles.
+# Chapitre VI : Taxe perçue au profit du centre technique des productions cidricoles.
 
 - [Article 358](article-358.md)
 - [Article 359](article-359.md)
