@@ -7,4 +7,3 @@
 - [Article D212-9](article-d212-9.md)
 - [Article D212-10](article-d212-10.md)
 - [Article D212-11](article-d212-11.md)
-- [Article D212-12](article-d212-12.md)
