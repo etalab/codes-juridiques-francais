@@ -2,9 +2,9 @@
 
 Les heures supplémentaires de travail prévues à l'article L. 713-6 ouvrent droit à un repos compensateur dans les conditions définies ci-après.
 
-Dans les entreprises de plus de dix salariés, la durée de ce repos compensateur obligatoire est égale à 50 % du temps de travail accompli en heures supplémentaires au-delà de quarante et une heures.
+Dans les entreprises de plus de vingt salariés, la durée de ce repos compensateur obligatoire est égale à 50 % du temps de travail accompli en heures supplémentaires au-delà de quarante et une heures.
 
-Dans les établissements entrant dans le champ d'application du 6° de l'article L. 722-20 qui n'ont pas une activité de production agricole, les heures supplémentaires effectuées au-delà du contingent fixé par le décret mentionné à l'article L. 713-11 ouvrent droit à un repos compensateur obligatoire dont la durée est égale à 50 % de ces heures supplémentaires pour les établissements de dix salariés au plus et à 100 % pour les établissements de plus de dix salariés. Le repos prévu au deuxième alinéa du présent article n'est pas applicable aux heures supplémentaires ayant ouvert droit au repos compensateur prévu au présent alinéa.
+Dans les établissements entrant dans le champ d'application du 6° de l'article L. 722-20 qui n'ont pas une activité de production agricole, les heures supplémentaires effectuées au-delà du contingent conventionnel fixé selon les modalités prévues au deuxième alinéa de l'article L. 713-11 lorsqu'il existe, ou, à défaut, du contingent fixé par le décret prévu au premier alinéa de l'article L. 713-11, ouvrent droit à un repos compensateur obligatoire dont la durée est égale à 50 % de ces heures supplémentaires, pour les entreprises de vingt salariés au plus, et à 100 % pour les entreprises de plus de vingt salariés.
 
 Le repos prévu aux deuxième et troisième alinéas du présent article et au premier alinéa de l'article L. 713-10 peut être pris selon deux formules, la journée entière ou la demi-journée, à la convenance du salarié, en dehors d'une période fixée par voie réglementaire. Ce repos, qui est assimilé à une période de travail effectif pour le calcul des droits du salarié, donne lieu à une indemnisation qui ne doit entraîner aucune diminution par rapport à la rémunération que le salarié aurait perçue s'il avait accompli son travail.
 

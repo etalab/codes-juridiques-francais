@@ -2,7 +2,7 @@
 
 Un décret détermine un contingent annuel d'heures supplémentaires pouvant être effectuées après information de l'inspecteur du travail et, s'ils existent, du comité d'entreprise ou à défaut des délégués du personnel. Ce contingent est réduit lorsque la durée hebdomadaire de travail varie dans les conditions prévues par une convention ou un accord collectif défini à l'article L. 212-8. Toutefois, cette réduction n'est pas applicable lorsque la convention ou l'accord collectif prévoit une variation de la durée hebdomadaire de travail dans les limites de trente et une et trente-neuf heures ou un nombre d'heures au-delà de la durée légale hebdomadaire inférieur ou égal à soixante-dix heures par an.
 
-Sans préjudice des dispositions du premier et du troisième alinéas de l'article L. 212-5-1, le contingent d'heures supplémentaires pouvant être effectuées après information de l'inspecteur du travail peut être fixé, par une convention ou un accord collectif étendu, à un volume supérieur ou inférieur à celui déterminé par le décret prévu au premier alinéa.
+Le contingent d'heures supplémentaires pouvant être effectuées après information de l'inspecteur du travail peut être fixé, par une convention ou un accord collectif de branche étendu, à un volume supérieur ou inférieur à celui déterminé par le décret prévu au premier alinéa.
 
 Pour le calcul du contingent fixé par le décret prévu au premier alinéa et du contingent mentionné au deuxième alinéa, sont prises en compte les heures effectuées au-delà de trente-cinq heures par semaine.
 
