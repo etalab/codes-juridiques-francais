@@ -20,6 +20,6 @@ En outre, l'allocation spéciale ne peut être attribuée aux personnes dont le 
 
 5°) ne pas disposer de revenus annuels de quelque nature que ce soit, réels ou présumés, excédant, allocation spéciale comprise, un chiffre limite de ressources fixé par décret. S'il existe un excédent inférieur au montant de l'allocation spéciale une allocation différentielle est servie.
 
-Pour l'évaluation des ressources des postulants, il est fait application des dispositions des articles R. 815-22, R. 815-25 à R. 815-33 et R. 815-40.
+Pour l'évaluation des ressources des postulants, il est fait application des dispositions des articles R. 815-22, R. 815-25 à R. 815-32 et R. 815-40.
 
 Lorsque l'une quelconque des conditions ci-dessus n'est plus remplie, le droit à l'allocation disparaît.

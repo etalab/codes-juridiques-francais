@@ -8,4 +8,4 @@ L'entrée en jouissance de la majoration est fixée au premier jour du mois suiv
 
 Toutefois, la majoration peut être éventuellement accordée à compter du point de départ de la prestation de vieillesse de base si la demande est déposée dans le délai de trois mois suivant la date du premier paiement de cette prestation.
 
-Les ressources sont appréciées dans les conditions fixées par les articles R. 815-22, R. 815-25 à R. 815-33 et R. 815-40 ; lorsque le total des avantages de vieillesse, de la majoration et des ressources personnelles du requérant ou des époux dépasse le plafond fixé, la majoration est réduite en conséquence.
+Les ressources sont appréciées dans les conditions fixées par les articles R. 815-22, R. 815-25 à R. 815-32 et R. 815-40 ; lorsque le total des avantages de vieillesse, de la majoration et des ressources personnelles du requérant ou des époux dépasse le plafond fixé, la majoration est réduite en conséquence.
