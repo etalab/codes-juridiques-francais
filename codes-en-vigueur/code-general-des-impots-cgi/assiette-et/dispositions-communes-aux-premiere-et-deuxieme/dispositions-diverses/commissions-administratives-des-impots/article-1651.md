@@ -42,7 +42,7 @@ En cas d'absence ou d'empêchement, ce magistrat est remplacé par un suppléant
 
 Un titulaire et deux suppléants désignés par les organismes représentatifs des locataires dans le département.
 
-Lorsqu'il existe plusieurs organismes représentatifs pour les propriétaires ou les locataires dans le département, et à défaut d'accord entre eux, les membres de la commission sont désignés par le préfet sur proposition de ces organismes.
+Lorsqu'il existe plusieurs organismes représentatifs pour les propriétaires ou les locataires dans le département, et à défaut d'accord entre eux, les membres de la commission sont désignés par le commissaire de la République sur proposition de ces organismes.
 
 3. Les membres désignés par les chambres de commerce et d'industrie sont appelés à siéger à la commission lorsque le différend soumis à cette dernière porte soit sur des bénéfices industriels et commerciaux, soit sur des chiffres d'affaires.
 
@@ -60,7 +60,7 @@ Les membres désignés par les chambres de discipline ou par les organisations d
 
 Les membres désignés par les chambres de commerce et d'industrie après consultation des organisations patronales interprofessionnelles les plus représentatives ainsi que par les organisations nationales les plus représentatives des ingénieurs et cadres supérieurs sont appelés à siéger à la commission lorsqu'elle est saisie de différends concernant la déduction des rémunérations visées à l'article 39-1-1° ou relatifs à l'imposition au nom des bénéficiaires de la fraction des rémunérations mentionnées à l'article 111-d.
 
-Les personnes désignées à l'article 1653 A-I-4° et 5° sont appelées à siéger à la commission lorsqu'elle est saisie d'un désaccord portant sur la valeur vénale retenue pour l'assiette de la taxe sur la valeur ajoutée dans les cas prévus à l'article 287-3.
+Les personnes désignées à l'article 1653 A-I-3° et 4° sont appelées à siéger à la commission lorsqu'elle est saisie d'un désaccord portant sur la valeur vénale retenue pour l'assiette de la taxe sur la valeur ajoutée dans les cas prévus à l'article 287-3.
 
 Les membres désignés par les organismes représentatifs des propriétaires d'immeubles bâtis et des locataires sont appelés à siéger à la commission lorsqu'elle doit statuer sur les cas visés aux articles 1503 et 1518.
 
