@@ -4,7 +4,7 @@ Sont toutefois exemptés de la taxe :
 
 Les défrichements exécutés en application de l'article L. 130-2 du code de l'urbanisme ;
 
-Les défrichements exécutés par les sections de commune, les collectivités locales, leurs groupements, leurs établissements publics en vue de réaliser des équipements d'intérêt public, sous réserve de la reconstitution d'une surface forestière équivalente dans un délai de cinq ans. Toutefois, ce boisement compensatoire n'est pas obligatoire pour les opérations effectuées sur le territoire des communes dont le taux de boisement aura été reconnu comme supérieur à 70 p. 100 par arrêté ministériel après avis du conseil général intéressé ;
+Les défrichements exécutés par les sections de commune, les collectivités locales, leurs groupements, leurs établissements publics en vue de réaliser des équipements, aménagements ou constructions destinés à un service public ou répondant à un besoin collectif de nature économique ou sociale, sous réserve de la reconstitution d'une surface forestière équivalente dans un délai de cinq ans. Toutefois, ce boisement compensatoire n'est pas obligatoire pour les opérations effectuées sur le territoire des communes dont le taux de boisement aura été reconnu comme supérieur à 70 p. 100 par arrêté ministériel après avis du conseil général intéressé ;
 
 Les défrichements ayant pour but des mises en valeur agricoles et intéressant des massifs boisés de moins de dix hectares d'un seul tenant dans des départements ou des parties de département fixés par décret ;
 
