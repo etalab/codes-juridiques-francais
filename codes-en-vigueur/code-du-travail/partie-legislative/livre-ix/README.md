@@ -7,7 +7,7 @@
 - [Titre VI : Des aides financières accordées aux stagiaires de formation professionnelle et de leur protection sociale](titre-vi)
 - [Titre VII : Dispositions relatives aux agents de l'Etat et aux agents des collectivités locales.](titre-vii)
 - [Titre VIII : Des formations professionnelles en alternance.](titre-viii)
-- [Titre IX : Dispositions diverses et dispositions pénales](titre-ix)
+- [Titre IX : Contr&lt;CB&gt;le de la formation professionnelle continue](titre-ix)
 - [Article L900-1](article-l900-1.md)
 - [Article L900-2](article-l900-2.md)
 - [Article L900-2-1](article-l900-2-1.md)
