@@ -1,6 +1,5 @@
 # Section 1 : Compensation généralisée.
 
-- [Article D134-1](article-d134-1.md)
 - [Article D134-2](article-d134-2.md)
 - [Article D134-3](article-d134-3.md)
 - [Article D134-4](article-d134-4.md)
