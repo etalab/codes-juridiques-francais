@@ -1,0 +1,7 @@
+# Section 2 : Composition et fonctionnement.
+
+- [Article R371-3](article-r371-3.md)
+- [Article R371-4](article-r371-4.md)
+- [Article R371-5](article-r371-5.md)
+- [Article R371-6](article-r371-6.md)
+- [Article R371-7](article-r371-7.md)
