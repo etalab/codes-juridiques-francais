@@ -1,4 +1,7 @@
-# Section 1 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.
+# Section 1 : Aides à l'installation des jeunes agriculteurs
 
-- [Article R343-1](article-r343-1.md)
-- [Article R343-2](article-r343-2.md)
+- [Sous-section 1 : Les conditions d'octroi des aides.](sous-section-1)
+- [Sous-section 2 : La dotation d'installation aux jeunes agriculteurs.](sous-section-2)
+- [Sous-section 3 : Les prêts à moyen terme spéciaux.](sous-section-3)
+- [Sous-section 4 : Instruction des demandes et contrôles.](sous-section-4)
+- [Article R343-3](article-r343-3.md)

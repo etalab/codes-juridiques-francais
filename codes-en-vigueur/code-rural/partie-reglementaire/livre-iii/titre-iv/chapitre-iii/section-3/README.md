@@ -1,5 +1,5 @@
-# Section 3 : Autres formes d'aides à l'installation
+# Section 3 : Aides à la transmission des exploitations agricoles.
 
-- [Sous-section 1 : Prêts spéciaux aux migrants.](sous-section-1)
-- [Sous-section 2 : Aides à l'installation comme chefs d'exploitations agricoles des travailleurs agricoles bénéficiaires de la promotion sociale.](sous-section-2)
-- [Sous-section 3 : Utilisation de la prime et du pécule militaires à des fins d'installation.](sous-section-3)
+- [Article R*343-34](article-r-343-34.md)
+- [Article R*343-35](article-r-343-35.md)
+- [Article R*343-36](article-r-343-36.md)
