@@ -1,6 +1,6 @@
 # Livre II : Des animaux et des végétaux
 
-- [Titre II : De la garde des animaux domestiques](titre-ii)
+- [Titre II : De la garde des animaux domestiques et sauvages apprivoisés ou tenus en captivité](titre-ii)
 - [Titre III : De la lutte contre les maladies des animaux](titre-iii)
 - [Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux](titre-iv)
 - [Titre IV bis : Des importations, échanges intracommunautaires et exportations d'animaux vivants, de produits et denrées animales ou d'origine animale](titre-iv-bis)
