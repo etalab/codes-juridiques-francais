@@ -1,6 +1,6 @@
 # Article 632
 
-Hors ce cas, il est procédé à la lecture de l'arrêt de renvoi à la cour d'assises, de l'exploit de signification de l'ordonnance ayant pour objet la représentation du contumax et des procès-verbaux dressés pour en constater la publication et l'affichage.
+Hors ce cas, il est procédé à la lecture de la décision de renvoi à la cour d'assises, de l'exploit de signification de l'ordonnance ayant pour objet la représentation du contumax et des procès-verbaux dressés pour en constater la publication et l'affichage.
 
 Après cette lecture, la cour, sur les réquisitions du procureur général, prononce sur la contumace.
 
