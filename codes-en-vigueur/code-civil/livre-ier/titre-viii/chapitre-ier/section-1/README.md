@@ -2,6 +2,7 @@
 
 - [Article 343](article-343.md)
 - [Article 343-1](article-343-1.md)
+- [Article 343-2](article-343-2.md)
 - [Article 344](article-344.md)
 - [Article 345](article-345.md)
 - [Article 345-1](article-345-1.md)
@@ -15,3 +16,4 @@
 - [Article 348-5](article-348-5.md)
 - [Article 348-6](article-348-6.md)
 - [Article 349](article-349.md)
+- [Article 350](article-350.md)
