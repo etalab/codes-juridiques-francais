@@ -1,3 +1,0 @@
-# FONDS DE GARANTIE POUR L'INDEMNISATION DES VICTIMES D'ACTES DE TERRORISME.
-
-- [Article 159 quinquies A](article-159-quinquies-a.md)
