@@ -1,4 +1,3 @@
 # OUVERTURE D'OPTIONS DE SOUSCRIPTION OU D'ACHAT D'ACTIONS AU BENEFICE DU PERSONNEL DES SOCIETES.
 
-- [Article 145 bis](article-145-bis.md)
 - [Article 145 ter](article-145-ter.md)
