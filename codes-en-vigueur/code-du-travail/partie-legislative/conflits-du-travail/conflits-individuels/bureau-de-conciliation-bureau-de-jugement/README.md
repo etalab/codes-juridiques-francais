@@ -1,3 +1,0 @@
-# BUREAU DE CONCILIATION, BUREAU DE JUGEMENT .
-
-- [Article L515-3](article-l515-3.md)
