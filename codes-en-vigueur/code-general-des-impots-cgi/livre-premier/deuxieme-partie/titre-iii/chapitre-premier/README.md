@@ -5,6 +5,7 @@
 - [Section III : Taxe perçue au profit du budget annexe des prestations sociales agricoles](section-iii)
 - [Section IV : Taxe pour frais de chambres d'agriculture](section-iv)
 - [Section VIII : Taxe spéciale d'équipement perçue au profit de l'établissement public d'aménagement de la Basse-Seine](section-viii)
+- [Section IX : Taxe spéciale d'équipement perçue au profit de l'établissement public de la métropole lorraine.](section-ix)
 - [Section X : Impositions perçues au profit des communautés urbaines](section-x)
 - [Section XI : Impositions perçues au profit des syndicats de communes et des syndicats mixtes](section-xi)
 - [Section XII : Impositions perçues au profit des districts.](section-xii)
