@@ -12,6 +12,7 @@
 - [Code minier](code-minier)
 - [Code rural ancien](code-rural-ancien)
 - [Code de la famille et de l'aide sociale.](code-de-la-famille-et-de-l-aide-sociale)
+- [Code de la Légion d'honneur et de la médaille militaire](code-de-la-legion-d-honneur-et-de-la-medaille-militaire)
 - [Code des instruments monétaires et des médailles](code-des-instruments-monetaires-et-des-medailles)
 - [Code des pensions civiles et militaires de retraite](code-des-pensions-civiles-et-militaires-de-retraite)
 - [Code des pensions militaires d'invalidité et des victimes de la guerre.](code-des-pensions-militaires-d-invalidite-et-des-victimes-de-la-guerre)
