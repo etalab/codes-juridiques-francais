@@ -6,4 +6,4 @@
 - [SECTION IV : La décision.](section-iv)
 - [SECTION V : La demande d'avis sur une question de droit.](section-v)
 - [SECTION VI : La notification de la décision.](section-vi)
-- [SECTION VII : Les dépens et autres sommes pouvant être mises à la charge des parties](section-vii)
+- [SECTION VII : Les dépens.](section-vii)

@@ -1,3 +1,8 @@
-# SECTION VII : Les dépens et autres sommes pouvant être mises à la charge des parties
+# SECTION VII : Les dépens.
 
 - [PARAGRAPHE I : Les dépens.](paragraphe-i)
+- [Article R217](article-r217.md)
+- [Article R218](article-r218.md)
+- [Article R219](article-r219.md)
+- [Article R220](article-r220.md)
+- [Article R221](article-r221.md)
