@@ -22,6 +22,7 @@
 - [Article 16 bis](article-16-bis.md)
 - [Article 18 bis](article-18-bis.md)
 - [Article 20](article-20.md)
+- [Article 23](article-23.md)
 - [Article 24](article-24.md)
 - [Article 24 bis](article-24-bis.md)
 - [Article 25](article-25.md)
