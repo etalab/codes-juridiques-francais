@@ -4,6 +4,7 @@
 - [Article 429](article-429.md)
 - [Article 430](article-430.md)
 - [Article 439](article-439.md)
+- [Article 439-2](article-439-2.md)
 - [Article 440](article-440.md)
 - [Article 441](article-441.md)
 - [Article 442](article-442.md)
