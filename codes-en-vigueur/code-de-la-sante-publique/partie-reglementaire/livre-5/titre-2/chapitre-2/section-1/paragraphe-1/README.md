@@ -7,3 +7,6 @@
 - [Article R5109](article-r5109.md)
 - [Article R5110](article-r5110.md)
 - [Article R5111](article-r5111.md)
+- [Article R5112-1](article-r5112-1.md)
+- [Article R5112-2](article-r5112-2.md)
+- [Article R5112-3](article-r5112-3.md)
