@@ -6,6 +6,3 @@
 - [Article D254-4](article-d254-4.md)
 - [Article D254-5](article-d254-5.md)
 - [Article D254-6](article-d254-6.md)
-- [Article D254-7](article-d254-7.md)
-- [Article D254-8](article-d254-8.md)
-- [Article D254-9](article-d254-9.md)
