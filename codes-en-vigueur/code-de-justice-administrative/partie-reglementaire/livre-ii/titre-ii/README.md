@@ -6,3 +6,4 @@
 - [Chapitre IV : Dispositions particulières à la Nouvelle-Calédonie](chapitre-iv)
 - [Chapitre V : Dispositions particulières à la Polynésie française](chapitre-v)
 - [Chapitre VI : Les greffes](chapitre-vi)
+- [Chapitre VII : Les assistants de justice](chapitre-vii)
