@@ -33,3 +33,7 @@ Ne peuvent être élus membres du conseil général :
 15° Les inspecteurs des instruments de mesure dans les cantons de leur ressort;
 
 16° Les directeurs départementaux et inspecteurs de l'action sanitaire et sociale dans le département où ils exercent leurs fonctions.
+
+17° Les directeurs et chefs de service régionaux des administrations civiles de l'Etat dans les départements où ils exercent leurs fonctions ;
+
+18° Les directeurs généraux, directeurs, directeurs adjoints, chefs de service et chefs de bureau de conseil général et de conseil régional.
