@@ -18,7 +18,7 @@ I.- Lorsque la déclaration d'utilité publique est demandée en vue de la réal
 
 7° L'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet 1984 pris pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs, lorsque les travaux constituent un grand projet d'infrastructures tels que défini à l'article 3 du même décret.
 
-II.- Lorsque la déclaration d'utilité publique est demandée en vue de l'acquisition d'immeubles, ou lorsqu'elle est demandée en vue de la réalisation d'une opération d'aménagement ou d'urbanisme importante et qu'il est nécessaire de procéder à l'acquisition des immeubles avant que le projet n'ait pu être établi *dossier simplifié* :
+II.- Lorsque la déclaration d'utilité publique est demandée en vue de l'acquisition d'immeubles, ou lorsqu'elle est demandée en vue de la réalisation d'une opération d'aménagement ou d'urbanisme importante et qu'il est nécessaire de procéder à l'acquisition des immeubles avant que le projet n'ait pu être établi :
 
 1° Une notice explicative ;
 
@@ -28,12 +28,6 @@ II.- Lorsque la déclaration d'utilité publique est demandée en vue de l'acqui
 
 4° L'estimation sommaire des acquisitions à réaliser.
 
-III - Lorsque la déclaration d'utilité publique est demandée pour des opérations ou acquisitions prévues par les plans d'occupation des sols ou les documents d'urbanisme en tenant lieu et à l'occasion de l'approbation de ces plans;
-
-1° Une notice explicative ;
-
-2° L'ordre de grandeur des dépenses.
-
-Dans les trois cas visés aux I, II, II, ci-dessus, la notice explicative indique l'objet de l'opération et les raisons pour lesquelles notamment du point de vue de l'insertion dans l'environnement, parmi les partis envisagés, le projet soumis à l'enquête a été retenu.
+Dans les cas prévus aux I et II ci-dessus, la notice explicative indique l'objet de l'opération et les raisons pour lesquelles notamment du point de vue de l'insertion dans l'environnement, parmi les partis envisagés, le projet soumis à l'enquête a été retenu.
 
 La notice explicative comprend, s'il y a lieu, les indications mentionnées à l'article 8-1 du décret n° 77-1141 du 12 octobre 1977.
