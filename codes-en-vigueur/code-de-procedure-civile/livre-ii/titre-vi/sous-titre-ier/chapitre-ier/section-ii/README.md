@@ -7,6 +7,7 @@
 - [Article 936](article-936.md)
 - [Article 937](article-937.md)
 - [Article 938](article-938.md)
+- [Article 939](article-939.md)
 - [Article 940](article-940.md)
 - [Article 941](article-941.md)
 - [Article 942](article-942.md)
