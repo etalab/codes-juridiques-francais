@@ -1,5 +1,5 @@
 # Article 834 bis
 
-Les actes constatant les apports mobiliers effectués dans les conditions prévues aux articles 83 bis et 160 A sont enregistrés gratuitement.
+Les opérations d'augmentation ou de réduction de capital rendues nécessaires par la conversion en euros du capital des sociétés sont exonérées de droits d'enregistrement et de timbre (1).
 
-Lorsque le rachat de l'entreprise a été soumis à l'accord du ministre chargé des finances, prévu à l'article 220 quater B, le bénéfice des dispositions du présent article est subordonné à cet accord.
+(1) Ces dispositions sont applicables aux augmentations et réductions de capital réalisées à compter du 1er janvier 1999.

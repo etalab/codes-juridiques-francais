@@ -7,3 +7,4 @@
 - [IV : Exploitants agricoles](iv)
 - [VI : Régime de la presse et de ses fournisseurs](vi)
 - [VII : Opérations portant sur les tabacs manufacturés](vii)
+- [VIII : Régime applicable à l'or d'investissement.](viii)
