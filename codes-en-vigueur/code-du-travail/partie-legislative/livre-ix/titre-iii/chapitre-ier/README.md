@@ -1,3 +1,0 @@
-# Chapitre Ier : DE LA FORMATION INDIVIDUELLE ET DU CONGE DE FORMATION.
-
-- [Article L931-5](article-l931-5.md)
