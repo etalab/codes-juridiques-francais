@@ -10,4 +10,3 @@
 - [Livre VIII : Dispositions spéciales aux départements d'outre-mer](livre-viii)
 - [Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente](livre-ix)
 - [DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*](dispositions-speciales-aux)
-- [PLACEMENT ET EMPLOI](placement-et)
