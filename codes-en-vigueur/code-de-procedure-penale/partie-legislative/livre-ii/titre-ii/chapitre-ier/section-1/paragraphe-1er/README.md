@@ -1,5 +1,6 @@
 # Paragraphe 1er : Dispositions générales
 
+- [Article 381](article-381.md)
 - [Article 382](article-382.md)
 - [Article 383](article-383.md)
 - [Article 384](article-384.md)
