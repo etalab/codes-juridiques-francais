@@ -3,6 +3,7 @@
 - [Section 0I : Sociétés de personnes et assimilées](section-0i)
 - [Section 001 : Sociétés d'investissement](section-001)
 - [Section I : Déclarations des commissions, courtages, ristournes, honoraires et droits d'auteur](section-i)
+- [Section II : Déclaration de certaines rémunérations d'associés et parts de bénéfices](section-ii)
 - [Section II bis : Déclarations concernant les revenus de capitaux mobiliers](section-ii-bis)
 - [Section III : Restitution d'impôts consécutive au remboursement des sommes visées à l'article 111 du code général des impôts](section-iii)
 - [Section V : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales.](section-v)
