@@ -1,6 +1,6 @@
 # Article 997
 
-Chaque semaine, le salarié agricole ou similaire a droit à un repos, à prendre le dimanche, d'une durée minimale de vingt-quatre heures consécutives.
+Chaque semaine, le salarié agricole ou similaire a droit à un repos, à prendre le dimanche, d'une durée minimale de vingt-quatre heures consécutives auquel s'ajoute le repos prévu à l'article 997-2 du présent code.
 
 Lorsque le travail du dimanche est indispensable au fonctionnement de l'entreprise, le repos hebdomadaire peut être donné pour tout ou partie du personnel, soit toute l'année, soit à certaines époques de l'année seulement, suivant l'une des modalités ci-après :
 
@@ -23,3 +23,7 @@ En cas de circonstances exceptionnelles, notamment de travaux dont l'exécution 
 Les dérogations aux dispositions du premier alinéa ci-dessus ne sont pas applicables aux enfants, non libérés de l'obligation scolaire, qui exécutent des travaux légers pendant les vacances scolaires.
 
 Un décret en Conseil d'Etat, pris après avis de la section agricole spécialisée de la commission supérieure des conventions collectives, fixe l'ensemble des mesures nécessaires à l'application du présent article. Il détermine en particulier les cas dans lesquels l'employeur est admis de plein droit à donner le repos hebdomadaire suivant l'une des modalités définies aux deuxième, troisième, quatrième et cinquième alinéas. Dans les autres cas, l'employeur qui désirera faire usage de l'une de ces dérogations devra en faire la demande au chef du service départemental de l'inspection du travail, de l'emploi et de la politique sociale agricoles.
+
+Les jeunes travailleurs de moins de dix-huit ans ainsi que les jeunes de moins de dix-huit ans qui accomplissent des stages d'initiation ou d'application en milieu professionnel dans le cadre d'un enseignement alterné ou d'un cursus scolaire bénéficient de deux jours de repos consécutifs.
+
+Lorsque les caractéristiques particulières de l'activité le justifient, une convention ou un accord collectif étendu peut définir les conditions dans lesquelles il peut être dérogé aux dispositions du précédent alinéa pour les jeunes libérés de l'obligation scolaire, sous réserve qu'ils bénéficient d'une période minimale de repos de trente-six heures consécutives. A défaut d'accord, un décret en Conseil d'Etat définit les conditions dans lesquelles cette dérogation peut être accordée par l'inspecteur du travail.
