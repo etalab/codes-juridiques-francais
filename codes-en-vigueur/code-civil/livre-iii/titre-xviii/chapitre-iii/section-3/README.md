@@ -1,6 +1,7 @@
 # Section 3 : Des hypothèques conventionnelles.
 
 - [Article 2124](article-2124.md)
+- [Article 2125](article-2125.md)
 - [Article 2126](article-2126.md)
 - [Article 2127](article-2127.md)
 - [Article 2128](article-2128.md)
