@@ -6,4 +6,4 @@ Une convocation doit être adressée au moins dix jours à l'avance aux membres 
 
 La présence de la majorité absolue des membres en exercice est nécessaire pour la validité des délibérations. En cas de partage, la voix du président est prépondérante.
 
-Le procès-verbal de la séance est notifié au commissaire du Gouvernement qui dispose d'un délai de dix jours pour informer éventuellement le directeur de son opposition à la délibération du conseil d'administration et transmettre cette dernière au ministre chargé de la construction et de l'habitation.
+Le procès-verbal de la séance est notifié au commissaire du Gouvernement qui dispose d'un délai de dix jours pour informer éventuellement le président de son opposition à la délibération du conseil d'administration et transmettre cette dernière au ministre chargé de la construction et de l'habitation.
