@@ -1,6 +1,6 @@
 # Article R5146-39-1
 
-Six suppléants sont désignés dans les mêmes conditions que les membres titulaires autres que les membres de droit. Ils remplacent les titulaires soit en cas d'empêchement, soit s'il se produit une vacance en cours de mandat.
+Neuf suppléants sont désignés dans les mêmes conditions que les membres titulaires autres que les membres de droit. Ils remplacent les titulaires soit en cas d'empêchement, soit s'il se produit une vacance en cours de mandat.
 
 Le président et le vice-président sont désignés par le ministre chargé de la santé et par le ministre de l'agriculture parmi les membres de la commission.
 
