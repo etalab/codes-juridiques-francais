@@ -6,4 +6,4 @@ La commission administrative spéciale met également à jour le tableau annexe 
 
 2° En retirant de ce tableau annexe les électeurs qui remplissent la condition de domicile prévue au b du I dudit article 188 pour être inscrits sur la liste électorale spéciale ainsi que les électeurs décédés et tous ceux qui ne remplissent plus les conditions prévues pour figurer sur le tableau.
 
-La commission administrative spéciale informe l'électeur inscrit au tableau annexe de cette inscription au plus tard le 30 avril.
+La commission administrative spéciale informe l'électeur inscrit au tableau annexe de cette inscription au plus tard le 16 avril.
