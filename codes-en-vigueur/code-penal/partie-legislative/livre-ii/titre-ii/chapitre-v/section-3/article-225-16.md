@@ -4,4 +4,6 @@ Les personnes morales peuvent être déclarées responsables pénalement, dans l
 
 1° L'amende, suivant les modalités prévues par l'article 131-38 ;
 
-2° Les peines mentionnées à l'article 131-39.
+2° Les peines mentionnées à l'article 131-39 ;
+
+3° La confiscation du fonds de commerce destiné à l'hébergement de personnes et ayant servi à commettre l'infraction prévue à l'article 225-14.
