@@ -1,0 +1,18 @@
+# Paragraphe 2 : Fonctionnement
+
+- [Article R4422-13](article-r4422-13.md)
+- [Article R4422-14](article-r4422-14.md)
+- [Article R4422-15](article-r4422-15.md)
+- [Article R4422-16](article-r4422-16.md)
+- [Article R4422-17](article-r4422-17.md)
+- [Article R4422-18](article-r4422-18.md)
+- [Article R4422-19](article-r4422-19.md)
+- [Article R4422-20](article-r4422-20.md)
+- [Article R4422-21](article-r4422-21.md)
+- [Article R4422-22](article-r4422-22.md)
+- [Article R4422-23](article-r4422-23.md)
+- [Article R4422-24](article-r4422-24.md)
+- [Article R4422-25](article-r4422-25.md)
+- [Article R4422-26](article-r4422-26.md)
+- [Article R4422-27](article-r4422-27.md)
+- [Article R4422-28](article-r4422-28.md)
