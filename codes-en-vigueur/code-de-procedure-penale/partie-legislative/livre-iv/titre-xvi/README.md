@@ -3,8 +3,6 @@
 - [Article 706-26](article-706-26.md)
 - [Article 706-27](article-706-27.md)
 - [Article 706-28](article-706-28.md)
-- [Article 706-29](article-706-29.md)
-- [Article 706-30](article-706-30.md)
 - [Article 706-30-1](article-706-30-1.md)
 - [Article 706-31](article-706-31.md)
 - [Article 706-32](article-706-32.md)

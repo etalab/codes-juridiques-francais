@@ -1,7 +1,6 @@
 # Livre IV : De quelques procédures particulières
 
 - [Titre Ier : De la coopération avec la Cour pénale internationale](titre-ier)
-- [Titre Ier bis : Des contumaces](titre-ier-bis)
 - [Titre II : Du faux](titre-ii)
 - [Titre III : De la manière de procéder en cas de disparition des pièces d'une procédure](titre-iii)
 - [Titre IV : De la manière dont sont reçues les dépositions des membres du Gouvernement et celles des représentants des puissances étrangères](titre-iv)

@@ -4,7 +4,6 @@
 - [Article 75-1](article-75-1.md)
 - [Article 75-2](article-75-2.md)
 - [Article 76](article-76.md)
-- [Article 76-1](article-76-1.md)
 - [Article 76-2](article-76-2.md)
 - [Article 76-3](article-76-3.md)
 - [Article 77](article-77.md)

@@ -8,4 +8,6 @@ Les personnes physiques coupables de l'une des infractions prévues au présent 
 
 3° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ;
 
-4° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31, dans les cas prévus par les articles 322-7 à 322-10.
+4° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31, dans les cas prévus par les articles 322-7 à 322-10 ;
+
+5° L'obligation d'accomplir un stage de citoyenneté, selon les modalités de l'article 131-5-1.
