@@ -21,4 +21,3 @@
 - [7° : Agriculture](7)
 - [8° : Membres de certaines professions non commerciales](8)
 - [9° : Institutions et organismes versant des rémunérations ou répartissant des fonds](9)
-- [Opérations de transfert de fonds à l'étranger.](operations-de-transfert-de-fonds-a)

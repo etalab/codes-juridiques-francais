@@ -5,7 +5,6 @@
 - [III : Obligation au paiement](iii)
 - [IV : Contribution au paiement](iv)
 - [V : Paiement en valeurs du Trésor ou en créances sur l'État](v)
-- [V bis : Paiement par remise d'oeuvres d'art.](v-bis)
 - [VI : Paiement fractionné ou différé des droits](vi)
 - [VII : Modes particuliers de perception des droits](vii)
 - [VII bis : Taxe sur les défrichements.](vii-bis)

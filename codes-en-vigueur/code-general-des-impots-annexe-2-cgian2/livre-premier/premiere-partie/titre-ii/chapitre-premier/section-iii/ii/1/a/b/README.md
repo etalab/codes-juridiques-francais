@@ -2,4 +2,3 @@
 
 - [*REGULARISATIONS DES DEDUCTIONS INITIALES : VARIATION DU PRORATA DANS LE TEMPS*](regularisations-des-deductions-initiales)
 - [Article 214](article-214.md)
-- [Article 215](article-215.md)

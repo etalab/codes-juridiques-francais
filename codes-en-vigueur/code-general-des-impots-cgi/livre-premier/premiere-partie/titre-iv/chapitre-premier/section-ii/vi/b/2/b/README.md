@@ -4,4 +4,3 @@
 - [2° : Dettes du défunt](2)
 - [3° : Frais funéraires](3)
 - [4° : Rentes et indemnités versées en réparation de dommages corporels](4)
-- [Frais funéraires](frais-funeraires)

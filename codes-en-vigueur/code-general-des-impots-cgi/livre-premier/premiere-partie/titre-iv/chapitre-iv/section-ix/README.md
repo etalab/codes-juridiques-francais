@@ -15,4 +15,3 @@
 - [7° : Contrat d'apprentissage](7)
 - [8° : Contrat et certificat de travail](8)
 - [9° : Mariages. Dissentiment des parents](9)
-- [Achats en vue de la revente](achats-en-vue)

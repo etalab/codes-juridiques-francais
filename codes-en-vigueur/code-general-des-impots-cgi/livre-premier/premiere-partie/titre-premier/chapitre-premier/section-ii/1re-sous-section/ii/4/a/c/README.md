@@ -10,4 +10,3 @@
 - [Article 55](article-55.md)
 - [Article 56](article-56.md)
 - [Article 57](article-57.md)
-- [*Lutte contre l'évasion fiscale internationale.* *Transferts indirects de bénéfices à l'étranger entre entreprises dépendantes.* *Arm's length*.](lutte-contre-l-evasion-fiscale-internationale-transferts-indirects-de-benefices-a)

@@ -3,4 +3,3 @@
 - [I : Généralités](i)
 - [II : Exonérations et dégrèvements](ii)
 - [III : Redevance départementale des mines](iii)
-- [Redevance départementale des mines.](redevance-departementale-des-mines)

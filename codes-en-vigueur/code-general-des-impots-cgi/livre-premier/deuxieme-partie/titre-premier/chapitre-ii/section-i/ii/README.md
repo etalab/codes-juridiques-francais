@@ -8,6 +8,3 @@
 - [7° : Obligations des exploitants.](7)
 - [8° : Répartition de l'impôt](8)
 - [Champ d'application.](champ-d-application)
-- [Demi-tarif](demi-tarif)
-- [Assiette et liquidation.](assiette-et)
-- [Tarif](tarif)
