@@ -9,4 +9,3 @@
 - [Section 4 : Règles particulières aux personnes intéressées par le service national, aux jeunes gens astreints aux obligations imposées par le service préparatoire et aux hommes rappelés au service national.](section-4)
 - [Section 5 : Protection de la maternité et éducation des enfants.](section-5)
 - [SECTION 6 : PROTECTION DES SALARIES ET DROIT DISCIPLINAIRE](section-6)
-- [Article L122-30](article-l122-30.md)

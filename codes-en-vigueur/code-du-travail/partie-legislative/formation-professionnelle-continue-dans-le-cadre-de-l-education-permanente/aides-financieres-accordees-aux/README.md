@@ -1,7 +1,6 @@
 # AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION  PROFESSIONNELLE .
 
 - [Article L960-1](article-l960-1.md)
-- [Article L960-3](article-l960-3.md)
 - [Article L960-4](article-l960-4.md)
 - [Article L960-7](article-l960-7.md)
 - [Article L960-8](article-l960-8.md)
