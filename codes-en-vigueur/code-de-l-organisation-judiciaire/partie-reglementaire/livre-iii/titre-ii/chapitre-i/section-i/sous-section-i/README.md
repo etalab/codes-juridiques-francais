@@ -5,6 +5,7 @@
 - [Article R*321-5](article-r-321-5.md)
 - [Article R*321-7](article-r-321-7.md)
 - [Article R*321-8](article-r-321-8.md)
+- [Article R*321-9](article-r-321-9.md)
 - [Article R*321-10](article-r-321-10.md)
 - [Article R*321-11](article-r-321-11.md)
 - [Article R*321-12](article-r-321-12.md)
