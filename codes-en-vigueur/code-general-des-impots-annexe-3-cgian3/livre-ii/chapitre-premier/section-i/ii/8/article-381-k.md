@@ -1,8 +1,8 @@
 # Article 381 K
 
-En ce qui concerne les emprunts à revenu fixe visés aux articles 118 et 119 du code général des impôts l'impôt  avancé sur les produits courus pendant chaque mois conformément à l'article 1673 du code général des impôts  est versé dans les quinze premiers jours du mois suivant à la recette des impôts compétente.
+En ce qui concerne les emprunts à revenu fixe visés aux articles 118 et 119 du code général des impôts l'impôt  avancé sur les produits courus pendant chaque mois conformément à l'article 1673 du code général des impôts  est versé dans les quinze premiers jours du mois suivant à la recette des impôts désignée par le ministre chargé du budget (1).
 
-L'impôt est versé aux mêmes dates et à la même recette pour les lots et primes de remboursement mis en paiement au cours du mois précédent (1).
+L'impôt est versé aux mêmes dates et à la même recette pour les lots et primes de remboursement mis en paiement au cours du mois précédent.
 
 La retenue à la source est payée aux dates et lieux prévus au premier alinéa sur le montant couru de l'annuité d'intérêt ou de prime de remboursement définie au I de l'article 238 septies B du code précité.
 
