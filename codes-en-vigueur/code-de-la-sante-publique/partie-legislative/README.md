@@ -1,5 +1,6 @@
 # Partie législative ancienne
 
+- [Livre préliminaire : Droits de la personne malade et des usagers du système de santé](livre-preliminaire)
 - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE](livre-1)
 - [Livre 2 : Action sanitaire et médico-sociale en faveur de la famille, de l'enfance et de la jeunesse](livre-2)
 - [Livre 2 bis : Protection des personnes qui se prêtent à des recherches biomédicales.](livre-2-bis)
