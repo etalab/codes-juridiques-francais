@@ -4,3 +4,7 @@
 - [Article A932-3-2](article-a932-3-2.md)
 - [Article A932-3-3](article-a932-3-3.md)
 - [Article A932-3-4](article-a932-3-4.md)
+- [Article A932-3-5](article-a932-3-5.md)
+- [Article A932-3-6](article-a932-3-6.md)
+- [Article A932-3-7](article-a932-3-7.md)
+- [Article A932-3-8](article-a932-3-8.md)
