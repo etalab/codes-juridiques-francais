@@ -1,6 +1,6 @@
 # Article 370
 
-S'il est justifié de motifs graves, l'adoption peut être révoquée, à la demande de l'adoptant ou de l'adopté.
+S'il est justifié de motifs graves, l'adoption peut être révoquée, à la demande de l'adoptant ou de l'adopté, ou, lorsque ce dernier est mineur, à celle du ministère public.
 
 La demande de révocation faite par l'adoptant n'est recevable que si l'adopté est âgé de plus de quinze ans.
 
