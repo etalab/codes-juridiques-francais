@@ -1,6 +1,14 @@
 # Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.
 
 - [Article 309](article-309.md)
+- [Article 309-1](article-309-1.md)
+- [Article 309-2](article-309-2.md)
+- [Article 309-3](article-309-3.md)
+- [Article 309-4](article-309-4.md)
+- [Article 309-5](article-309-5.md)
+- [Article 309-6](article-309-6.md)
+- [Article 309-7](article-309-7.md)
+- [Article 309-8](article-309-8.md)
 - [Article 310](article-310.md)
 - [Article 311](article-311.md)
 - [Article 312](article-312.md)
