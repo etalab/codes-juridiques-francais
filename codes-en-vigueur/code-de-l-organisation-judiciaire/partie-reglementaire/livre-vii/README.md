@@ -8,4 +8,5 @@
 - [Titre VI : Assemblées générales](titre-vi)
 - [Titre VII : Fonctions pouvant être confiées à des magistrats honoraires](titre-vii)
 - [Titre IX : Participation aux commissions non juridictionnelles](titre-ix)
+- [Titre X : Audiences foraines](titre-x)
 - [Titre XI : Assistance du juge par le secrétaire de la juridiction](titre-xi)
