@@ -22,6 +22,8 @@ i) Le nombre d'unités de prise ou, à défaut, la contenance du récipient, cet
 
 j) Les précautions particulières de conservation.
 
+k) Le prix limite de vente au public lorsqu'un tel prix est fixé en application des lois et réglements en vigueur.
+
 2° Lorsqu'une notice est jointe au conditionnement, elle doit comporter au moins les indications suivantes :
 
 a) Nom ou raison sociale et domicile ou siège social du responsable de la mise sur le marché et, le cas échéant, du fabricant ;

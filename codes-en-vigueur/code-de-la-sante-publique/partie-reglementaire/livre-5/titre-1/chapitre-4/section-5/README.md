@@ -1,5 +1,6 @@
-# Section 5 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement
+# Section 5 : Commission de contrôle de la publicité.
 
+- [Article R5054](article-r5054.md)
 - [Article R5055](article-r5055.md)
 - [Article R5055-1](article-r5055-1.md)
 - [Article R5055-2](article-r5055-2.md)

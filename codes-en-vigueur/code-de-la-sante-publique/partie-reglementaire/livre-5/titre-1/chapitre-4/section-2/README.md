@@ -1,4 +1,4 @@
-# Section 2 : Dispositions concernant la publicité pour les médicaments.
+# Section 2 : Dispositions concernant la publicité ou la propagande auprès du public relative aux médicaments, produits et objets mentionnés à l'article L. 551.
 
 - [Article R5047](article-r5047.md)
 - [Article R5047-1](article-r5047-1.md)
