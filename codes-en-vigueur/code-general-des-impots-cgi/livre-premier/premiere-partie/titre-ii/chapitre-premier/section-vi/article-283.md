@@ -6,6 +6,10 @@
 
 2 bis Pour les acquisitions intracommunautaires de biens imposables mentionnées à l'article 258 C, la taxe doit être acquittée par l'acquéreur. Toutefois, le vendeur est solidairement tenu avec ce dernier au paiement de la taxe, lorsque l'acquéreur est établi hors de France.
 
+((2 ter Pour les livraisons mentionnées au 2° du I de l'article 258 D, la taxe doit être acquittée par le destinataire. Toutefois, le vendeur est solidairement tenu au paiement de la taxe.)) (Modification de la loi 93-1352) (1).
+
 3 Toute personne qui mentionne la taxe sur la valeur ajoutée sur une facture ou tout autre document en tenant lieu est redevable de la taxe du seul fait de sa facturation.
 
 4 Lorsque la facture ou le document ne correspond pas à la livraison d'une marchandise ou à l'exécution d'une prestation de services, ou fait état d'un prix qui ne doit pas être acquitté effectivement par l'acheteur, la taxe est due par la personne qui l'a facturée.
+
+(1) Ces dispositions s'appliquent à compter du 1er janvier 1993.

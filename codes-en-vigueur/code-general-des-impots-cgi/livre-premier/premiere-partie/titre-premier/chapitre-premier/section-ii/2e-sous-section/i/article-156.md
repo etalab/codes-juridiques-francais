@@ -6,11 +6,11 @@ I. Du déficit constaté pour une année dans une catégorie de revenus ; si le 
 
 Toutefois, n'est pas autorisée l'imputation :
 
-1° Des déficits provenant d'exploitations agricoles lorsque le total des revenus nets d'autres sources  excède 100.000 F [*montant*] ; ces déficits peuvent cependant être admis en déduction des bénéfices de même nature des années suivantes jusqu'à la cinquième inclusivement. (Le seuil de 100.000 F est applicable à compter de l'imposition des revenus de 1989. Antérieurement il était de 70.000 F) ;
+1° Des déficits provenant d'exploitations agricoles lorsque le total des revenus nets d'autres sources  excède ((150.000 F)) (1); ces déficits peuvent cependant être admis en déduction des bénéfices de même nature des années suivantes jusqu'à la cinquième inclusivement.
 
 2° Des déficits provenant d'activités non commerciales au sens de l'article 92, autres que ceux qui proviennent de l'exercice d'une profession libérale ou des charges et offices dont les titulaires n'ont pas la qualité de commerçants ; ces déficits peuvent cependant être imputés sur les bénéfices tirés d'activités semblables durant la même année ou les cinq années suivantes ( Voir toutefois le I bis ci-dessous) ;
 
-3° Des déficits fonciers, lesquels s'imputent exclusivement sur les revenus fonciers des cinq années suivantes ou, s'il s'agit d'immeubles donnés à bail conformément au statut du fermage, sur ceux des neuf années suivantes ; cette disposition n'est pas applicable aux propriétaires de monuments classés monuments historiques, inscrits à l'inventaire supplémentaire ou ayant fait l'objet d'un agrément ministériel.
+3° Des déficits fonciers, lesquels s'imputent exclusivement sur les revenus fonciers des cinq années suivantes ou, s'il s'agit d'immeubles donnés à bail conformément au statut du fermage, sur ceux des neuf années suivantes ; cette disposition n'est pas applicable aux propriétaires de monuments classés monuments historiques, inscrits à l'inventaire supplémentaire ou ayant fait l'objet d'un agrément ministériel ((ni aux nus-propriétaires pour le déficit foncier qui résulte des travaux qu'ils payent en application des dispositions de l'article 605 du code civil, lorsque le démembrement de propriété d'un immeuble bâti résulte de succession ou de donation entre vifs, effectuée sans charge ni condition et consentie entre parents jusqu'au quatrième degré inclusivement)) (1').
 
 Cette disposition n'est pas non plus applicable aux déficits provenant de travaux réalisés à compter du 1er juillet 1993 par les propriétaires de locaux d'habitation et exécutés dans le cadre d'une opération groupée de restauration immobilière réalisée en application des dispositions des articles L. 313-1 à L. 313-15 du code de l'urbanisme ainsi que des frais de relogement, d'adhésion à des associations foncières urbaines libres ou des indemnités d'éviction versées à cette occasion lorsque ces propriétaires prennent l'engagement de les louer nus, à usage de résidence principale du locataire, pendant une durée de six ans. La location doit prendre effet dans les douze mois qui suivent la date d'achèvement des travaux de restauration.
 
@@ -20,13 +20,11 @@ Le revenu global de l'année au cours de laquelle l'engagement ou les conditions
 
 L'imputation exclusive sur les revenus fonciers n'est pas non plus applicable aux déficits fonciers résultant de dépenses autres que les intérêts d'emprunt. L'imputation est limitée à 50 000 F. La fraction du déficit supérieure à 50 000 F et la fraction du déficit non imputable résultant des intérêts d'emprunt sont déduites dans les conditions prévues au premier alinéa.
 
-Les mêmes règles s'appliquent également en cas de démembrement du droit de propriété résultant d'une succession ; le déficit foncier des nus-propriétaires s'entend de celui qui résulte des travaux payés en application des dispositions de l'article 605 du code civil.
-
 Lorsque le propriétaire cesse de louer un immeuble ou lorsque le propriétaire de titres d'une société non soumise à l'impôt sur les sociétés les vend, le revenu foncier et le revenu global des trois années qui précèdent celle au cours de laquelle intervient cet événement sont, nonobstant toute disposition contraire, reconstitués selon les modalités prévues au premier alinéa du présent 3°. Cette disposition ne s'applique pas en cas d'invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, de licenciement ou de décès du contribuable ou de l'un des époux soumis à une imposition commune.
 
 Un contribuable ne peut pour un même logement ou une même souscription de titres pratiquer la réduction d'impôt mentionnée à l'article 199 undecies et imputer un déficit foncier sur le revenu global.
 
-4° Des déficits réalisés par des personnes, autres que les loueurs professionnels au sens de l'article 151 septies, dernier alinéa, louant directement ou indirectement des locaux d'habitation meublés ou destinés à être meublés ; ces déficits s'imputent exclusivement sur les bénéfices retirés de cette même activité au cours des années suivantes jusqu'à la cinquième inclusivement.
+4° Des déficits réalisés par des personnes, autres que les loueurs professionnels au sens du dernier alinéa de l'article 151 septies, louant directement ou indirectement des locaux d'habitation meublés ou destinés à être meublés ; ces déficits s'imputent exclusivement sur les bénéfices retirés de cette même activité au cours des années suivantes jusqu'à la cinquième inclusivement.
 
 5° Des pertes résultant d'opérations mentionnées aux articles 150 ter, 150 octies et 150 nonies et 150 decies lorsque l'option prévue au 8° du paragraphe I de l'article 35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur les profits de même nature réalisés au cours de la même année ou des cinq années suivantes ;
 
@@ -87,3 +85,7 @@ d. (Devenu sans objet.
 11° Les primes ou cotisations des contrats d'assurances conclus en application des articles 1234-1 à 1234-18 du code rural relatifs à l'assurance obligatoire des personnes non salariées contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles dans l'agriculture.
 
 12° (Sans objet). (A compter de l'imposition des revenus de 1988, la déduction  des sommes versées pour l'emploi d'une aide à domicile est remplacée par une réduction d'impôt sur le revenu (voir l'article 199 quaterdecies)).
+
+(1) Le seuil de 150.000 F est applicable à compter de l'imposition des revenus de 1994 : loi 93-1352 art. 35.
+
+(1') Modification de la loi art. 10.
