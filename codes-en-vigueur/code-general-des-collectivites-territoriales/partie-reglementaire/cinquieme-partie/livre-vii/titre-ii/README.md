@@ -2,3 +2,4 @@
 
 - [CHAPITRE Ier : Organisation et fonctionnement](chapitre-ier)
 - [CHAPITRE II : Dispositions financières](chapitre-ii)
+- [CHAPITRE III : Régime indemnitaire des membres des assemblées délibérantes de syndicats mixtes associant exclusivement des collectivités territoriales et des groupements de collectivités](chapitre-iii)
