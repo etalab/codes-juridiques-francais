@@ -1,6 +1,5 @@
 # Paragraphe 1 : Registre et formalités d'écrou.
 
-- [Article D148.](article-d148.md)
 - [Article D149](article-d149.md)
 - [Article D149-1](article-d149-1.md)
 - [Article D149-2](article-d149-2.md)
