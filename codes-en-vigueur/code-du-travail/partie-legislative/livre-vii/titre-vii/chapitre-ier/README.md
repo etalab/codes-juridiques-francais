@@ -3,6 +3,7 @@
 - [Article L771-1](article-l771-1.md)
 - [Article L771-2](article-l771-2.md)
 - [Article L771-3](article-l771-3.md)
+- [Article L771-4](article-l771-4.md)
 - [Article L771-5](article-l771-5.md)
 - [Article L771-6](article-l771-6.md)
 - [Article L771-7](article-l771-7.md)

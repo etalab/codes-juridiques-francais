@@ -12,6 +12,7 @@
 - [Code de l'expropriation pour cause d'utilité publique](code-de-l-expropriation-pour-cause-d-utilite-publique)
 - [Code de l'organisation judiciaire](code-de-l-organisation-judiciaire)
 - [Code de l'urbanisme](code-de-l-urbanisme)
+- [Code de la mutualité](code-de-la-mutualite)
 - [Code de la santé publique](code-de-la-sante-publique)
 - [Code de procédure civile](code-de-procedure-civile)
 - [Code de procédure pénale](code-de-procedure-penale)

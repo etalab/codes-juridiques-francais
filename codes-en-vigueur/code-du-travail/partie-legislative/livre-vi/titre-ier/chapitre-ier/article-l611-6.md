@@ -8,4 +8,4 @@ Ils constatent les infractions aux dispositions ci-dessus indiquées, aux dispos
 
 Ils constatent également les infractions à la règle de l'égalité professionnelle définies au 3° de l'article 416 du code pénal.
 
-Les dispositions des articles L. 611-8, L. 611-10 et L. 611-11 sont applicables à ces inspecteurs.
+Ils ont les mêmes droits et obligations que les inspecteurs du travail.

@@ -1,4 +1,4 @@
-# Chapitre Ier : DISPOSITIONS DIVERSES
+# Chapitre Ier : Dispositions diverses.
 
 - [Article L991-1](article-l991-1.md)
 - [Article L991-2](article-l991-2.md)

@@ -1,0 +1,3 @@
+# Article L411-7
+
+Lorsque les conditions de fonctionnement des établissements et services mentionnés à l'article L. 411-1 présentent les irrégularités ou les difficultés mentionnées aux articles L. 531-2, L. 531-3 et L. 531-4, les procédures définies par ces articles sont applicables au transfert des pouvoirs du conseil d'administration en ce qui concerne la gestion de ces établissements ou services à un ou plusieurs administrateurs provisoires. L'inobservation des règles d'équipement et de fonctionnement applicables à ces établissements ou services en vertu des règles propres à leur domaine d'activité peut également entraîner l'application de la procédure définie par l'article L. 531-4.

@@ -7,3 +7,4 @@
 - [Chapitre IV : Travail temporaire](chapitre-iv)
 - [Chapitre V : Marchandage.](chapitre-v)
 - [Chapitre VI : Cautionnements.](chapitre-vi)
+- [Chapitre VII : GROUPEMENTS D'EMPLOYEURS.](chapitre-vii)
