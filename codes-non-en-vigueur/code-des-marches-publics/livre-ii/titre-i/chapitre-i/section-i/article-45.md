@@ -25,3 +25,11 @@ Les pièces constitutives du marché mentionnent au moins :
 11° La date de notification du marché ;
 
 12° Le comptable public assignataire chargé du paiement.
+
+Les pièces constitutives d'un marché de conception-réalisation comportent en outre :
+
+le programme de l'opération, au sens de l'article 2 de la loi n° 85-704 du 12 juillet 1985 modifiée relative à la maîtrise d' ouvrage public et à ses rapports avec la maîtrise d'oeuvre privée, qui doit préciser la topographie et la constitution du sous-sol et comporter des exigences de résultats vérifiables à atteindre et des besoins à satisfaire ;
+
+les études de conception présentées dans l'offre et retenues par la personne responsable du marché ;
+
+l'acte d'engagement. Dans le cas de concurrents groupés, l'acte d'engagement est un document unique qui indique le montant et la répartition détaillée des prestations que chacun des membres du groupement s'engage à exécuter.
