@@ -2,4 +2,3 @@
 
 - [Chapitre IV : Entrepôt de douane (entrepôt industriel).](chapitre-iv)
 - [Chapitre V : Usines exercées par la douane](chapitre-v)
-- [Chapitre VI bis : Exportation préalable, drawback](chapitre-vi-bis)
