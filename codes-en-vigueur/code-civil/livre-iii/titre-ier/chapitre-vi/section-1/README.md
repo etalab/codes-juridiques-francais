@@ -24,5 +24,4 @@
 - [Article 837](article-837.md)
 - [Article 838](article-838.md)
 - [Article 839](article-839.md)
-- [Article 841](article-841.md)
 - [Article 842](article-842.md)
