@@ -1,3 +1,0 @@
-# Chapitre V : COMITE D'ETABLISSEMENT ET COMITE CENTRAL D'ENTREPRISE.
-
-- [Article L435-6](article-l435-6.md)
