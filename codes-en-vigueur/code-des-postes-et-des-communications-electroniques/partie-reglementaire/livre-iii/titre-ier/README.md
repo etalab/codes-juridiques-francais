@@ -15,4 +15,3 @@
 - [Article D519](article-d519.md)
 - [Article D520](article-d520.md)
 - [Article D521](article-d521.md)
-- [Article D522](article-d522.md)
