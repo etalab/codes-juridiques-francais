@@ -12,7 +12,7 @@ Le conseil d'administration délibère sur les matières suivantes :
 
 5° Les acquisitions, aliénations et échanges des biens immobiliers de l'Office dont la valeur dépasse un montant fixé par arrêté conjoint du ministre de l'agriculture et du ministre chargé du domaine ;
 
-6° Les extensions d'activités de l'Office qui, en application de l'article L. 121-5, sont soumises à l'autorisation expresse et préalable du ministre de l'agriculture ;
+6° Les souscriptions ou acquisitions de parts ou d'actions de société soumises à l'autorisation de l'Etat et mentionnées au deuxième alinéa de l'article R. 121-7 ;
 
 7° Les prises de participation dans des organismes qui ne sont pas de nature industrielle ou commerciale ;
 
@@ -26,7 +26,7 @@ Le conseil d'administration délibère sur les matières suivantes :
 
 12° L'acceptation des dons et legs ;
 
-13° Les conditions générales des conventions et contrats autres que les marchés passés par l'Office ;
+13° Les conditions générales des conventions et contrats autres que les marchés passés par l'Office ainsi que les conditions générales d'intervention de l'établissement à l'étranger.
 
 14° Les conditions générales de passation, de financement et de contrôle des marchés ;
 
