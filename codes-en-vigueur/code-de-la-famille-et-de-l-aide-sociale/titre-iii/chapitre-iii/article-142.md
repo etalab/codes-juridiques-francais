@@ -1,0 +1,3 @@
+# Article 142
+
+Les ressources de quelque nature qu'elles soient à l'exception des prestations familiales, dont sont bénéficiaires les personnes placées dans un établissement au titre de l'aide aux personnes âgées ou de l'aide aux infirmes, aveugles et grands infirmes, sont affectées au remboursement des frais d'hospitalisation des intéressés dans la limite de 90 p. 100. Toutefois, les modalités de calcul de la somme mensuelle minimum laissée à la disposition du bénéficiaire de l'aide sociale sont déterminées par décret. La retraite du combattant et les pensions attachées aux distinctions honorifiques dont le bénéficiaire de l'aide sociale peut être titulaire s'ajouteront à cette somme.
