@@ -1,0 +1,3 @@
+# DETERMINATION DU BENEFICE IMPOSABLE.
+
+- [Article 102 J](article-102-j.md)
