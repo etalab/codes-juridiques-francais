@@ -5,3 +5,5 @@ Par dérogation aux dispositions des 1 et 5 de l'article 206, du I de l'article 
 1° Sur le montant brut des intérêts et agios provenant des opérations de souscription, d'achat, de vente ou de pension de bons du Trésor en compte courant et autres effets publics ou privés, qu'elles réalisent sur le marché monétaire ou sur le marché hypothécaire ;
 
 2° Sur le montant brut des intérêts des dépôts qu'elles effectuent.
+
+Ces dispositions ne sont pas applicables aux fonds d'épargne retraite mentionnés au 11 de l'article 206.
