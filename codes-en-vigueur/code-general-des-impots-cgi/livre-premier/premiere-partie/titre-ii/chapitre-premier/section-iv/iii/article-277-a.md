@@ -62,6 +62,6 @@ III. La personne qui a obtenu l'autorisation d'ouverture d'un entrepôt fiscal d
 
 Un arrêté du ministre chargé du budget fixe les conditions de tenue de ces registres.
 
-2° Etre en possession du double des factures ou des documents en tenant lieu et des différentes pièces justificatives relatifs aux opérations mentionnées au I.
+2° Etre en possession du double des factures et des différentes pièces justificatives relatives aux opérations mentionnées au I.
 
 IV. Un décret fixe les modalités d'application du présent article.

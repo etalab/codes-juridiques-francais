@@ -1,6 +1,6 @@
 # Article L38
 
-1. Pour la recherche et la constatation des infractions aux dispositions du titre III de la première partie du livre Ier du code général des impôts et aux législations édictant les mêmes règles en matière de procédure et de recouvrement, les agents habilités à cet effet par l'administration des douanes et droits indirects, peuvent effectuer des visites en tous lieux, même privés, où les pièces, documents, objets ou marchandises se rapportant à ces infractions sont susceptibles d'être détenus et procéder à leur saisie. Ils sont accompagnés d'un officier de police judiciaire.
+1. Pour la recherche et la constatation des infractions aux dispositions du titre III de la première partie du livre Ier du code général des impôts et aux législations édictant les mêmes règles en matière de procédure et de recouvrement, les agents habilités à cet effet par l'administration des douanes et droits indirects, peuvent effectuer des visites en tous lieux, même privés, où les pièces, documents, objets ou marchandises se rapportant à ces infractions sont susceptibles d'être détenus et procéder à leur saisie, quel qu'en soit le support. Ils sont accompagnés d'un officier de police judiciaire.
 
 2. Hormis les cas de flagrance, chaque visite doit être autorisée par une ordonnance du président du tribunal de grande instance dans le ressort duquel sont situés les locaux à visiter ou d'un juge délégué par lui.
 
