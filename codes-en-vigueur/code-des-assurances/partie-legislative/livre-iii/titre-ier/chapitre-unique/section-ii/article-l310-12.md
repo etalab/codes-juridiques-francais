@@ -11,3 +11,5 @@ La commission s'assure que toute entreprise d'assurance ou de capitalisation men
 La commission peut décider de soumettre au contrôle toute personne physique ou morale ayant reçu d'une entreprise mentionnée à l'article L. 310-1 un mandat de souscription ou de gestion, ou exerçant, à quelque titre que ce soit, le courtage d'assurance.
 
 La commission veille également au respect, par les entreprises soumises au contrôle de l'Etat en application de l'article L. 310-1-1 et les sociétés de participations d'assurance définies à l'article L. 345-1, des dispositions législatives et réglementaires qui leur sont applicables en vertu du présent livre. Un arrêté du ministre chargé de l'économie détermine la nature, la périodicité et le contenu des informations et des documents que les entreprises mentionnées au présent alinéa sont tenues de communiquer périodiquement à la commission de contrôle des assurances pour lui permettre d'exercer sa mission.
+
+Le mandat des membres de la présente commission à la date de publication de la loi n° 97-277 du 25 mars 1997 créant les plans d'épargne retraite est prolongé jusqu'au 31 décembre 2000.
