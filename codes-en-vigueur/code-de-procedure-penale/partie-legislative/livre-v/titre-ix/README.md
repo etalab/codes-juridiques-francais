@@ -2,6 +2,7 @@
 
 - [Article 782](article-782.md)
 - [Article 783](article-783.md)
+- [Article 786](article-786.md)
 - [Article 787](article-787.md)
 - [Article 789](article-789.md)
 - [Article 791](article-791.md)
