@@ -1,0 +1,3 @@
+# Article 476
+
+Dans le cas où la condamnation n'intervient pas pour toutes les infractions qui ont fait l'objet de la poursuite ou n'intervient qu'à raison d'infractions qui ont fait l'objet d'une disqualification, soit au cours de l'instruction, soit au moment du prononcé du jugement, comme aussi dans le cas de mise hors de cause de certains prevenus, le tribunal peut, par une disposition motivée, décharger le condamné de la part des frais de justice qui ne résulte pas directement de l'infraction ayant entraîné la condamnation au fond. Le tribunal fixe lui-même le montant des frais dont est alors déchargé le condamné, ces frais étant laissés, selon les circonstances, à la charge du Trésor ou de la partie civile.

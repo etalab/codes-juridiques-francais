@@ -7,4 +7,5 @@
 - [Section 6 : Des mandats et de leur exécution](section-6)
 - [Section 8 : Des commissions rogatoires](section-8)
 - [Section 9 : De l'expertise](section-9)
+- [Section 11 : Des ordonnances de règlement](section-11)
 - [Section 13 : De la reprise de l'information sur charges nouvelles](section-13)
