@@ -14,6 +14,7 @@
 - [Article 230](article-230.md)
 - [Article 230 C](article-230-c.md)
 - [Article 230 D](article-230-d.md)
+- [Article 230 A](article-230-a.md)
 - [Article 230 B](article-230-b.md)
 - [Article 230 E](article-230-e.md)
 - [Article 230 F](article-230-f.md)
