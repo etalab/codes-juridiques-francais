@@ -12,3 +12,4 @@
 - [Article 1788 quinquies](article-1788-quinquies.md)
 - [Article 1788 sexies](article-1788-sexies.md)
 - [Article 1788 septies](article-1788-septies.md)
+- [Article 1788 octies](article-1788-octies.md)

@@ -5,6 +5,7 @@
 - [Section I : Taxe d'apprentissage](section-i)
 - [Section II : Taxe sur les salaires](section-ii)
 - [Section II bis : Taxe annuelle sur les locaux à usage de bureaux perçue dans la région Ile-de-France](section-ii-bis)
+- [Section II ter : Contribution pour le financement des aides à l'accession à la propriété.](section-ii-ter)
 - [Section V : Redevance fixe des mines.](section-v)
 - [Section VI : Taxe sur les services d'informations ou interactifs à caractère pornographique](section-vi)
 - [Section VII : Cotisation perçue au titre de la participation des employeurs à l'effort de construction.](section-vii)

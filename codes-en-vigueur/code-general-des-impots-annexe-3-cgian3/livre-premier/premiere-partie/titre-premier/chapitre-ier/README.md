@@ -4,3 +4,4 @@
 - [Section II : Revenu global](section-ii)
 - [Section III : Calcul de l'impôt](section-iii)
 - [Section IV : Obligations incombant à certaines sociétés immobilières](section-iv)
+- [Section V : Disposition applicable en cas de perte du statut fiscal des sociétés de personnes](section-v)

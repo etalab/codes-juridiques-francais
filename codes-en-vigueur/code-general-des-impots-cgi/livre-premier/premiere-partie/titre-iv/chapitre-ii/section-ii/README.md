@@ -8,3 +8,4 @@
 - [VII : Permis de chasser](vii)
 - [VIII : Véhicules à moteur](viii)
 - [X : Pouvoirs délivrés par les actionnaires](x)
+- [XI : Armes à feu](xi)

@@ -17,3 +17,4 @@
 - [Section XIII bis : Dispositions applicables à l'ensemble des groupements de communes](section-xiii-bis)
 - [Section XIII ter : Impositions perçues par les communautés ou syndicats d'agglomérations nouvelles](section-xiii-ter)
 - [Section XIII quater : Impositions perçues au profit des communautés de villes.](section-xiii-quater)
+- [Section 0VII bis : Taxes spéciales d'équipement perçues au profit des établissements publics. Exonération de certaines terres agricoles](section-0vii-bis)

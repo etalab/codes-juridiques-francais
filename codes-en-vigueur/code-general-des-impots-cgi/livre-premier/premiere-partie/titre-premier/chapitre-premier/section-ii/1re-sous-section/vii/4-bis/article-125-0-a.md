@@ -22,6 +22,8 @@ Toutefois, les produits en cause sont exonérés, quelle que soit la durée du c
 
 2° Dans le cas contraire, à 50 %.
 
-III. Le prélèvement est établi, liquidé et recouvré sous les mêmes garanties et sanctions que celui mentionné à l'article 125 A. Les dispositions des articles 242 ter 1, 1764 et 1768 bis sont applicables.
+III. Le prélèvement est établi, liquidé et recouvré sous les mêmes garanties et sanctions que celui mentionné à l'article 125 A. Les dispositions ((de l'article 1764 et du 1 des articles 242 ter et 1768 bis sont applicables)) (M).
 
 (1) Ces dispositions sont applicables aux bons, contrats ou placements souscrits à compter du 1er janvier 1983.
+
+(M) Modification.

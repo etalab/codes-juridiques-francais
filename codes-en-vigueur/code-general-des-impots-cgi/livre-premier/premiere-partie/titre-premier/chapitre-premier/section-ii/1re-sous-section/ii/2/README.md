@@ -46,6 +46,7 @@
 - [Article 39 octodecies](article-39-octodecies.md)
 - [Article 39 A](article-39-a.md)
 - [Article 39 AA](article-39-aa.md)
+- [Article 39 AA bis](article-39-aa-bis.md)
 - [Article 39 AB](article-39-ab.md)
 - [Article 39 AC](article-39-ac.md)
 - [Article 39 B](article-39-b.md)

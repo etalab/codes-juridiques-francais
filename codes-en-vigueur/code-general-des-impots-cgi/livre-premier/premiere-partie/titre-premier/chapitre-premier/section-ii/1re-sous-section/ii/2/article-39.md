@@ -20,7 +20,7 @@ Cette fraction courue est déterminée de manière actuarielle, selon la méthod
 
 Pour les emprunts dont le montant à rembourser est indexé, ces dispositions s'appliquent à la fraction de la rémunération qui est certaine dans son principe et son montant dès l'origine, si cette fraction excède 10 p. 100 des sommes initialement mises à la disposition de l'emprunteur. Elles ne sont pas applicables aux emprunts convertibles et à ceux dont le remboursement est à la seule initiative de l'emprunteur.
 
-1° quater. ((Sur option irrévocable et globale de l'émetteur pour une période de deux ans, les frais d'émission des emprunts répartis par fractions égales ou au prorata de la rémunération courue, sur la durée des emprunts émis pendant cette période)) (M) (3).
+1° quater Sur option irrévocable et globale de l'émetteur pour une période de deux ans, les frais d'émission des emprunts répartis par fractions égales ou au prorata de la rémunération courue, sur la durée des emprunts émis pendant cette période (3).
 
 En cas de remboursement anticipé d'un emprunt, de conversion ou d'échange, les frais d'émission non encore déduits sont admis en charge au prorata du capital remboursé, converti ou échangé.
 
@@ -50,17 +50,21 @@ Les conditions d'application de l'alinéa précédent , notamment les obligation
 
 Si des dégrèvements sont ultérieurement accordés sur ces impôts, leur montant entre dans les recettes de l'exercice au cours duquel l'exploitant est avisé de leur ordonnancement ;
 
-4° bis. Le prélèvement opéré au titre de l'article 4 modifié de la loi n° 51-675 du 24 mai 1951, relative à la construction navale, et faisant l'objet d'un ordre de versement émis au cours de l'exercice ;
+4° bis - Le prélèvement opéré au titre de l'article 4 modifié de l loi n° 51-675 du 24 mai 1951, relative à la construction navale, et faisant l'objet d'un ordre de versement émis au cours de l'exercice ;
 
 4° ter (Abrogé) ;
 
+((4° quater - Les droits de mutation à titre gratuit acquittés par les héritiers, donataires ou légataires d'une entreprise individuelle, pour la part des droits afférente à cette entreprise, et les intérêts payés en application des dispositions de l'article 1717, pour la même part, lorsque l'une au moins de ces personnes prend l'engagement de poursuivre l'activité en participant de façon personnelle, continue et directe à l'accomplissement des actes nécessaires à cette activité pendant les cinq années suivant la date de la transmission de l'entreprise. La déduction est opérée au titre des exercices au cours desquels les droits sont acquittés ou ceux au cours desquels les intérêts sont versés.
+
+((En cas de non-respect de l'engagement visé au premier alinéa, les sommes déduites en vertu des dispositions du premier alinéa sont rapportées aux résultats imposables de l'exercice au cours duquel l'engagement a été rompu ; (M)).
+
 5° Les provisions constituées en vue de faire face à des pertes ou charges nettement précisées et que des événements en cours rendent probables, à condition qu'elles aient été effectivement constatées dans les écritures de l'exercice. Toutefois, ne sont pas déductibles les provisions que constitue une entreprise en vue de faire face au versement d'allocations en raison du départ à la retraite ou préretraite des membres ou anciens membres de son personnel, ou de ses mandataires sociaux. Les provisions pour pertes afférentes à des opérations en cours à la clôture d'un exercice ne sont déductibles des résultats de cet exercice qu'à concurrence de la perte qui est égale à l'excédent du coût de revient des travaux exécutés à la clôture du même exercice sur le prix de vente de ces travaux compte tenu des révisions contractuelles certaines à cette date. S'agissant des produits en stock à la clôture d'un exercice, les dépenses non engagées à cette date en vue de leur commercialisation ultérieure ne peuvent, à la date de cette clôture, être retenues pour l'évaluation de ces produits en application des dispositions du 3 de l'article 38, ni faire l'objet d'une provision pour perte (6).
 
-La dépréciation des oeuvres d'art inscrites à l'actif d'une entreprise peut donner lieu à la constitution d'une provision. Cette dépréciation doit être constatée par un expert agréé par le ministre chargé de la culture lorsque le coût d'acquisition de l'oeuvre est supérieur à 50 000 F..
+La dépréciation des oeuvres d'art inscrites à l'actif d'une entreprise peut donner lieu à la constitution d'une provision. Cette dépréciation doit être constatée par un expert agréé ((près les tribunaux)) (6') lorsque le coût d'acquisition de l'oeuvre est supérieur à 50 000 F.
 
 Un décret fixe les règles d'après lesquelles des provisions pour fluctuation des cours peuvent être retranchées des bénéfices des entreprises dont l'activité consiste essentiellement à transformer directement des matières premières acquises sur les marchés internationaux (7) ou des matières premières acquises sur le territoire national et dont les prix sont étroitement liés aux variations des cours internationaux (7).
 
-Pour les entreprises dont l'objet principal est de faire subir en France la première transformation au pétrole brut, le montant de la provision pour fluctuation des cours ne peut excéder 69 % [*pourcentage*] de la limite maximale de la provision calculée conformément aux dispositions législatives et réglementaires en vigueur. L'excédent éventuel de la provision antérieurement constituée, par rapport à la nouvelle limite maximale calculée à la clôture du premier exercice auquel elle s'applique, est rapporté au bénéfice imposable de cet exercice. Ces dispositions s'appliquent pour la détermination des résultats des exercices clos à compter du 24 septembre 1975 (7).
+Pour les entreprises dont l'objet principal est de faire subir en France la première transformation au pétrole brut, le montant de la provision pour fluctuation des cours ne peut excéder 69 % de la limite maximale de la provision calculée conformément aux dispositions législatives et réglementaires en vigueur. L'excédent éventuel de la provision antérieurement constituée, par rapport à la nouvelle limite maximale calculée à la clôture du premier exercice auquel elle s'applique, est rapporté au bénéfice imposable de cet exercice. Ces dispositions s'appliquent pour la détermination des résultats des exercices clos à compter du 24 septembre 1975 (7).
 
 Sous réserve des dispositions prévues au huitième alinéa, les entreprises peuvent, d'autre part, en ce qui concerne les variations de prix postérieures au 30 juin 1959, pratiquer en franchise d'impôt une provision pour hausse des prix lorsque, pour une matière ou un produit donné, il est constaté, au cours d'une période ne pouvant excéder deux exercices successifs clos postérieurement à cette date, une hausse de prix supérieure à 10 %.
 
@@ -90,9 +94,7 @@ Les dispositions de l'alinéa précédent sont également applicables à la frac
 
 La provision éventuellement constituée en vue de faire face à la dépréciation d'éléments d'actif non amortissables reçus lors d'une opération placée sous l'un des régimes prévus aux articles mentionnés au II de l'article 54 septies est déterminée par référence à la valeur fiscale des actifs auxquels les éléments reçus se sont substitués.
 
-6° La contribution de solidarité visée à l'article 33 de l'ordonnance n° 67-828 du 23 septembre 1967 et la taxe sur les grandes surfaces issue de l'article 3 modifié de la loi n° 72-657 du 13 juillet 1972 instituant des mesures en faveur de certaines catégories de commerçants et artisans âgés ;
-
-Le fait générateur de cette contribution ou de cette taxe est constitué par l'existence de l'entreprise débitrice au 1er janvier de l'année au titre de laquelle elle est due (10) ;
+6° La contribution de solidarité visée à l'article 33 de l'ordonnance n° 67-828 du 23 septembre 1967 et la taxe sur les grandes surfaces issue de l'article 3 modifié de la loi n° 72-657 du 13 juillet 1972 instituant des mesures en faveur de certaines catégories de commerçants et artisans âgés. Le fait générateur de cette contribution ou de cette taxe est constitué par l'existence de l'entreprise débitrice au 1er janvier de l'année au titre de laquelle elle est due (10) ;
 
 7° Les dépenses engagées dans le cadre de manifestations de caractère philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial, culturel ou concourant à la mise en valeur du patrimoine artistique, à la défense de l'environnement naturel ou à la diffusion de la culture, de la langue et des connaissances scientifiques françaises, lorsqu'elles sont exposées dans l'intérêt direct de l'exploitation ;
 
@@ -100,7 +102,7 @@ Le fait générateur de cette contribution ou de cette taxe est constitué par l
 
 3. Les allocations forfaitaires qu'une société attribue à ses dirigeants ou aux cadres de son entreprise pour frais de représentation et de déplacement sont exclues de ses charges déductibles pour l'assiette de l'impôt lorsque parmi ces charges figurent déjà les frais habituels de cette nature remboursés aux intéressés.
 
-Pour l'application de cette disposition, les dirigeants s'entendent [*définition*], dans les sociétés de personnes et les sociétés en participation qui n'ont pas opté pour le régime fiscal des sociétés de capitaux, des associés en nom et des membres de ces sociétés.
+Pour l'application de cette disposition, les dirigeants s'entendent, dans les sociétés de personnes et les sociétés en participation qui n'ont pas opté pour le régime fiscal des sociétés de capitaux, des associés en nom et des membres de ces sociétés.
 
 4. Qu'elles soient supportées directement par l'entreprise ou sous forme d'allocations forfaitaires ou de remboursements de frais, sont exclues des charges déductibles pour l'établissement de l'impôt, d'une part, les dépenses et charges de toute nature ayant trait à l'exercice de la chasse ainsi qu'à l'exercice non professionnel de la pêche et, d'autre part, les charges, à l'exception de celles ayant un caractère social, résultant de l'achat, de la location ou de toute autre opération faite en vue d'obtenir la disposition de résidences de plaisance ou d'agrément, ainsi que de l'entretien de ces résidences ; les dépenses et charges ainsi définies comprennent notamment les amortissements (10').
 
@@ -150,59 +152,63 @@ Ces dispositions s'appliquent aux charges sociales et fiscales attachées à ces
 
 Un décret fixe les modalités d'application du présent 9 (14).
 
-((10. Si un immeuble est loué dans les conditions prévues au 2° de l'article 1er de la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le crédit-bail, la quote-part de loyers prise en compte pour la détermination du prix de cession de l'immeuble à l'issue du contrat et se rapportant à des éléments non amortissables n'est pas déductible du résultat imposable du crédit-preneur.
+10. Si un immeuble est loué dans les conditions prévues au 2° de l'article 1er de la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le crédit-bail, la quote-part de loyers prise en compte pour la détermination du prix de cession de l'immeuble à l'issue du contrat et se rapportant à des éléments non amortissables n'est pas déductible du résultat imposable du crédit-preneur.
 
-((Toutefois, pour les opérations concernant les immeubles achevés après le 31 décembre 1995 et affectés à titre principal à usage de bureaux entrant dans le champ d'application de la taxe prévue à l'article 231 ter, autres que ceux situés dans les zones d'aménagement du territoire, dans les territoires ruraux de développement prioritaire et dans les zones de redynamisation urbaine, définis à la dernière phrase du premier alinéa de l'article 1465 et au I bis de l'article 1466 A, la quote-part de loyer prise en compte pour la détermination du prix de cession de l'immeuble à l'issue du contrat n'est déductible du résultat imposable du crédit-preneur que dans la limite des frais d'acquisition de l'immeuble et de l'amortissement que le crédit-preneur aurait pu pratiquer s'il avait été propriétaire du bien objet du contrat.
+Toutefois, pour les opérations concernant les immeubles achevés après le 31 décembre 1995 et affectés à titre principal à usage de bureaux entrant dans le champ d'application de la taxe prévue à l'article 231 ter, autres que ceux situés dans les zones d'aménagement du territoire, dans les territoires ruraux de développement prioritaire et dans les zones de redynamisation urbaine, définis à la dernière phrase du premier alinéa de l'article 1465 et au I bis de l'article 1466 A, la quote-part de loyer prise en compte pour la détermination du prix de cession de l'immeuble à l'issue du contrat n'est déductible du résultat imposable du crédit-preneur que dans la limite des frais d'acquisition de l'immeuble et de l'amortissement que le crédit-preneur aurait pu pratiquer s'il avait été propriétaire du bien objet du contrat.
 
-((Pour l'application du premier alinéa, le loyer est réputé affecté au financement des différents éléments dans l'ordre suivant :
+Pour l'application du premier alinéa, le loyer est réputé affecté au financement des différents éléments dans l'ordre suivant :
 
-((a) D'abord aux frais supportés par le crédit-bailleur lors de l'acquisition de l'immeuble ;
+a. D'abord aux frais supportés par le crédit-bailleur lors de l'acquisition de l'immeuble ;
 
-((b) Ensuite aux éléments amortissables ;
+b. Ensuite aux éléments amortissables ;
 
-((c) Enfin aux éléments non amortissables.
+c. Enfin aux éléments non amortissables.
 
-((Pour l'application des premier et deuxième alinéas, le prix convenu pour la cession de l'immeuble à l'issue du contrat est réputé affecté en priorité au prix de vente des éléments non amortissables.
+Pour l'application des premier et deuxième alinéas, le prix convenu pour la cession de l'immeuble à l'issue du contrat est réputé affecté en priorité au prix de vente des éléments non amortissables.
 
-((Lorsque le bien n'est pas acquis à l'issue du contrat ou lorsque le contrat de crédit-bail est résilié, les quotes-parts de loyers non déductibles prévues aux premier et deuxième alinéas sont admises en déduction du résultat imposable.
+Lorsque le bien n'est pas acquis à l'issue du contrat ou lorsque le contrat de crédit-bail est résilié, les quotes-parts de loyers non déductibles prévues aux premier et deuxième alinéas sont admises en déduction du résultat imposable.
 
-((Lorsque le contrat de crédit-bail est cédé, les quotes-parts de loyers non déductibles sont considérées comme un élément du prix de revient du contrat pour le calcul de la plus-value dans les conditions de l'article 39 duodecies A)) (15).
+Lorsque le contrat de crédit-bail est cédé, les quotes-parts de loyers non déductibles sont considérées comme un élément du prix de revient du contrat pour le calcul de la plus-value dans les conditions de l'article 39 duodecies A (15).
 
-(1) Instruction 1994-03-07 4C-4-94, contrat "homme-clé", Instruction 1994-12-09 4C-6-94.
+(1) (Cf. Instruction 1994-03-07 4C-4-94, contrat "homme-clé", Instruction 1994-12-09 4C-6-94).
 
 (1') L'option est formulée sur un imprimé conforme au modèle établi par l'administration (Décret n° 87-1029 du 22 décembre 1987, art. 7, JO DU 24).
 
 (2) Annexe III, art. 49 octies à 49 octies D.
 
-(3) Modification. Ces dispositions s'appliquent aux emprunts émis au cours des exercices ouverts à compter du 1er janvier 1994.
+(3) Ces dispositions s'appliquent aux emprunts émis au cours des exercices ouverts à compter du 1er janvier 1994.
 
 [*Cf. Instruction 1994-12-21 4C-7-94*].
 
-[*Cf. Instruction 1995-04-25 4C-3-95.*]
+[*Cf. Instruction 1995-04-25 4C-3-95*].
 
 (4) Annexe II, art. 15 et 229.
 
-(4') Cf. Instruction 1995-02-13 4D-3-95.
+(4') [*Cf. Instruction 1995-02-13 4D-3-95*].
 
 (5) Limite applicable pour la détermination des résultats imposables des exercices ouverts à compter du 1er janvier 1988 ; antérieurement la limite était égale à 80 % de cette moyenne.
 
-(5') [*Cf. Instructions 1995-02-06 4C-1-95, 1995-02-06 4C-4-95.*]
+(5') [*Cf. Instruction 1996-01-16 4C-1-96*].
+
+(M) Modification.
 
 (6) Ces dispositions s'appliquent aux opérations en cours à la clôture des exercices arrêtés à compter du 31 décembre 1991 et qui résultent de contrats conclus au cours des mêmes exercices, ainsi qu'aux produits détenus en stock à la clôture des mêmes exercices.
 
+(6') Modification. Cette disposition s'applique pour déterminer les résultats des exercices clos à compter du 31 décembre 1996.
+
 (7) Annexe III, art. 3 à 10 septies.
 
-[*Cf. Note 1995-02-17 4E-2-95.*]
+[*Cf. Note 1995-02-17 4E-2-95*].
 
 (8) Annexe III, art. 10 nonies à 10 terdecies.
 
-(9) Annexe IV art. 2 à 4 septies. [*Cf. Instruction 1995-06-01 4E-4-95.*]
+(9) Annexe IV art. 2 à 4 septies. [*Cf. Instruction 1995-06-01 4E-4-95*].
 
-(10) [*Cf. Instruction 1993-02-12 4C-2-93.*]
+(10) [*Cf. Instruction 1993-02-12 4C-2-93*].
 
-(10') Voir aussi le II de l'article 35 de la loi 93-1353 du 30 décembre 1993. [*Cf. Instruction 1994-03-07 4B-2-94.*]
+(10') Voir aussi le II de l'article 35 de la loi 93-1353 du 30 décembre 1993. [*Cf. Instruction 1994-03-07 4B-2-94*].
 
-(11) Limite applicable aux véhicules dont la première mise en circulation est intervenue à compter du 1er novembre 1993. [*Cf. Instruction 1994-02-04 4C-2-94.*]
+(11) Limite applicable aux véhicules dont la première mise en circulation est intervenue à compter du 1er novembre 1993. [*Cf. Instruction 1994-02-04 4C-2-94*].
 
 (12) Voir annexe II, art. 33 à 35 et également livre de procédures fiscales, art. L59 A 2°.
 
@@ -210,4 +216,4 @@ Un décret fixe les modalités d'application du présent 9 (14).
 
 (14) Annexe III, art. 49 octies à 49 octies D.
 
-(15) Modification.
+(15) Cf. Loi 95-987 1996-11-14 art. 6 II JO du 15 novembre.

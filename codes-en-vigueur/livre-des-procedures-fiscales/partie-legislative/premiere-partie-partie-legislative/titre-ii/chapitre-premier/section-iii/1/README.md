@@ -5,4 +5,5 @@
 - [Article L47 B](article-l47-b.md)
 - [Article L49](article-l49.md)
 - [Article L50](article-l50.md)
+- [Article L51](article-l51.md)
 - [Article L52](article-l52.md)

@@ -3,6 +3,7 @@
 - [Article L115](article-l115.md)
 - [Article L116](article-l116.md)
 - [Article L117](article-l117.md)
+- [Article L117 A](article-l117-a.md)
 - [Article L118](article-l118.md)
 - [Article L119](article-l119.md)
 - [Article L120](article-l120.md)
@@ -30,3 +31,4 @@
 - [Article L135 E](article-l135-e.md)
 - [Article L135 F](article-l135-f.md)
 - [Article L135 G](article-l135-g.md)
+- [Article L135 H](article-l135-h.md)

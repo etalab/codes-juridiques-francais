@@ -2,3 +2,4 @@
 
 - [Article 39 sexies](article-39-sexies.md)
 - [Article 39 septies](article-39-septies.md)
+- [Article 39 octies](article-39-octies.md)

@@ -15,3 +15,4 @@
 - [Article 231 bis N](article-231-bis-n.md)
 - [Article 231 bis O](article-231-bis-o.md)
 - [Article 231 bis P](article-231-bis-p.md)
+- [Article 231 bis Q](article-231-bis-q.md)

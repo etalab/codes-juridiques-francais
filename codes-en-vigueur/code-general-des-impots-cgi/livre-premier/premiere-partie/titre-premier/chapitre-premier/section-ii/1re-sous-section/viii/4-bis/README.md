@@ -1,3 +1,3 @@
-# 4 bis : Cotisations d'assurance maladie et d'assurance maternité des travailleurs non salariés des professions non agricoles.
+# 4 bis : Déduction de certaines cotisations sociales
 
 - [Article 154 bis](article-154-bis.md)

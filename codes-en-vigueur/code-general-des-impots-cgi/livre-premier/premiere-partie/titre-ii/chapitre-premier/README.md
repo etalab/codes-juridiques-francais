@@ -1,5 +1,6 @@
 # Chapitre premier : Taxe sur la valeur ajoutée
 
+- [Section 0I : Définition du territoire communautaire](section-0i)
 - [Section I : Champ d'application](section-i)
 - [Section II : Assiette de la taxe](section-ii)
 - [Section IV : Liquidation de la taxe](section-iv)

@@ -1,6 +1,6 @@
 # Article 30-0 B
 
-La liste des équipements spéciaux soumis au taux réduit de la taxe sur la valeur ajoutée en application de l'article 278 quinquies du code général des impôts est fixée comme suit :
+La liste des équipements spéciaux soumis au taux réduit de la taxe sur la valeur ajoutée en application du premier alinéa de l'article 278 quinquies du code général des impôts est fixée comme suit :
 
 1. Pour les handicapés moteurs :
 
@@ -36,11 +36,11 @@ Implants cochléaires ;
 
 Logiciels spécifiques.
 
-4. Pour l'ensemble des handicapés afin de faciliter la conduite des véhicules :
+4. Pour l'ensemble des handicapés afin de faciliter la conduite ou l'accès des véhicules :
 
 Siège orthopédique (siège pivotant, surélevé ...) ;
 
-Treuils pour l'accès des fauteuils pour handicapés ;
+Treuils, rampes et autres dispositifs pour l'accès des personnes handicapées en fauteuil roulant ;
 
 Commande d'accélérateur à main (cercle, arc de cercle, secteur, manette, poignée tournante ...) ;
 
@@ -57,3 +57,5 @@ Permutation ou modification de la position des pédales : pédales d'embrayage e
 Modification de la colonne de direction ;
 
 Dispositif de maintien du tronc par sangle ou par harnais.
+
+Dispositifs d'ancrage des fauteuils roulants à l'intérieur du véhicule.

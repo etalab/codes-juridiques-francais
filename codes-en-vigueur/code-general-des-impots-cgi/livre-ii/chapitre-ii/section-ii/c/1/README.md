@@ -5,6 +5,7 @@
 - [Article 1793 A](article-1793-a.md)
 - [Article 1794](article-1794.md)
 - [Article 1795](article-1795.md)
+- [Article 1795 bis](article-1795-bis.md)
 - [Article 1797](article-1797.md)
 - [Article 1798](article-1798.md)
 - [Article 1799](article-1799.md)

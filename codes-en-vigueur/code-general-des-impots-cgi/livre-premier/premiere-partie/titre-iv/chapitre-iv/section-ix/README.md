@@ -1,5 +1,6 @@
 # Section IX : Dispositions diverses
 
+- [1° : Achats en vue de la revente](1)
 - [10° : Patrimoine artistique national](10)
 - [11° : Publicité foncière. Réforme. Dispositions transitoires](11)
 - [12° : Réunion de l'usufruit à la nue-propriété](12)

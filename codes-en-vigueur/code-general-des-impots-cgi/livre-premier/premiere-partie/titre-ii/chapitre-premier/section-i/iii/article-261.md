@@ -40,13 +40,15 @@ b. Par les entreprises qui, disposant d'une installation permanente, ont réalis
 
 4. (Professions libérales et activités diverses) :
 
-1° Les soins dispensés aux personnes par les membres des professions médicales et paramédicales réglementées, et par les psychologues, psychanalystes et psychothérapeutes titulaires d'un des diplômes requis, à la date de sa délivrance, pour être recruté comme psychologue dans la fonction publique hospitalière ainsi que les travaux d'analyse de biologie médicale et les fournitures de prothèses dentaires par les dentistes et les prothésistes ,
+1° Les soins dispensés aux personnes par les membres des professions médicales et paramédicales réglementées, et par les psychologues, psychanalystes et psychothérapeutes titulaires d'un des diplômes requis, à la date de sa délivrance, pour être recruté comme psychologue dans la fonction publique hospitalière ainsi que les travaux d'analyse de biologie médicale et les fournitures de prothèses dentaires par les dentistes et les prothésistes,
 
-1° bis Les frais d'hospitalisation et de traitement dans les établissements de santé privés titulaires de l'autorisation mentionnée à l'article L. 712-8 du code de la santé publique (3');
+((1° bis. les frais d'hospitalisation et de traitement, y compris les frais de mise à disposition d'une chambre individuelle, dans les établissements de santé privés titulaires de l'autorisation mentionnée à l'article L. 712-8 du code de la santé publique)) (M) (3')
+
+((1° ter Les soins dispensés par les établissements privés d'hébergement pour personnes âgées mentionnés au 5° de l'article 3 de la loi n° 75-535 du 30 juin 1975 relative aux institutions sociales et médico-sociales, pris en charge par un forfait annuel global de soins en application de l'article L. 174-7 du code de la sécurité sociale )) (M) ;
 
 2° Les livraisons, commissions, courtages et façons portant sur les organes, le sang et le lait humains ;
 
-3° Le transport de malades ou de blessés à l'aide de véhicules spécialement aménagés à cet effet effectué par des personnes visées à l'article L. 51-2 du code de la santé publique [*exonération des transports sanitaires par ambulances*] ;
+3° Le transport de malades ou de blessés à l'aide de véhicules spécialement aménagés à cet effet effectué par des personnes visées à l'article L. 51-2 du code de la santé publique ;
 
 4° a. Les prestations de services et les livraisons de biens qui leur sont étroitement liées, effectuées dans le cadre :
 
@@ -66,11 +68,7 @@ De l'enseignement primaire, secondaire, supérieur ou technique à distance, dis
 
 b. les cours ou leçons relevant de l'enseignement scolaire, universitaire, professionnel, artistique ou sportif, dispensés par des personnes physiques qui sont rémunérées directement par leurs élèves ;
 
-5° 6° (Abrogé) ;
-
-7° (Abrogé) (à compter du 1er avril 1991);
-
-8° (Abrogé).
+5° à 8° (Abrogés) ;
 
 9° Les prestations de services et les livraisons de biens qui leur sont étroitement liées fournies à leurs membres, moyennant une cotisation fixée conformément aux statuts, par des organismes légalement constitués agissant sans but lucratif dont la gestion est désintéressée et qui poursuivent des objectifs de nature philosophique, religieuse, politique, patriotique, civique ou syndicale, dans la mesure où ces opérations se rattachent directement à la défense collective des intérêts moraux ou matériels des membres ; les dispositions des c et d du 1° du 7 s'appliquent à ces organismes ;
 
@@ -78,7 +76,7 @@ b. les cours ou leçons relevant de l'enseignement scolaire, universitaire, prof
 
 5. (Opérations immobilières) :
 
-1° Lorsqu'elles n'entrent pas dans le champ d'application de l'article 257-7° ;
+1° Lorsqu'elles n'entrent pas dans le champ d'application du 7° de l'article 257 ;
 
 a. Les opérations de vente effectuées par les départements, communes et établissements publics et relatives à des terrains leur appartenant ;
 
@@ -87,8 +85,6 @@ b. Les opérations de vente de terrains leur appartenant effectuées sans but lu
 c. (Devenu sans objet) ;
 
 d. Les opérations immobilières résultant de l'application des dispositions des articles L141-1 à L141-5 du code rural, réalisées par les sociétés d'aménagement foncier et d'établissement rural [*SAFER*] constituées en application de l'article L141-1 du même code et agréées par le ministre de l'agriculture et le ministre du budget (4) ;
-
-d. Les opérations immobilières résultant de l'application des dispositions de l'article 15 modifié de la loi n° 60-808 du 5 août 1960 d'orientation agricole, réalisées par les sociétés d'aménagement foncier et d'établissement rural constituées en application de ce même article et agréées par le ministre de l'agriculture et le ministre du budget (4) ;
 
 Ces dispositions ne s'appliquent pas aux cessions d'immeubles acquis postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990.
 
@@ -102,7 +98,7 @@ e. (Disposition périmée) ;
 
 f. (Abrogé) ;
 
-1° bis Lorsqu'elles entrent dans le champ d'application de l'article 257-7°, les opérations de remembrement réalisées par les associations foncières urbaines en vertu de l'article L. 322-2-1° du code de l'urbanisme ou par les associations syndicales constituées en application de l'ordonnance n° 58-1145 du 31 décembre 1958 ;
+1° bis Lorsqu'elles entrent dans le champ d'application du 7° de l'article 257, les opérations de remembrement réalisées par les associations foncières urbaines en vertu du 1° de l'article L. 322-2 du code de l'urbanisme ou par les associations syndicales constituées en application de l'ordonnance n° 58-1145 du 31 décembre 1958 ;
 
 2° Les apports et les cessions de terrains à bâtir effectués par les collectivités locales au profit des offices publics d'habitations à loyer modéré et de leurs unions ainsi que les apports consentis par les collectivités locales à des organismes d'habitations à loyer modéré ou à leurs unions, dans la mesure où ces apports sont effectués à titre gratuit.
 
@@ -116,7 +112,7 @@ Ces dispositions s'appliquent aux offices publics d'aménagement et de construct
 
 6° Les cessions gratuites aux collectivités publiques de terrains classés, visées à l'article L130-2 du code de l'urbanisme ;
 
-7° Les mutations résultant des contrats de location-attribution ou de location-vente visés à l'article 1378 quinquies ainsi que les livraisons que les sociétés se font à elles-mêmes des immeubles qui sont l'objet de ces contrats ;
+7° Les mutations résultant des contrats de location-attribution ou de location-vente visés à l'article 1378 quinquies ainsi que les livraisons que les sociétés se font à elles-mêmes des immeubles qui sont l'objet de ces contrats (4') ;
 
 8° Les livraisons à soi-même d'immeubles construits par les sociétés civiles immobilières constituées par les organismes régis par la réglementation sur les habitations à loyer modéré en vue de favoriser l'accession à la propriété.
 
@@ -130,9 +126,9 @@ Il en est de même des ventes consenties à leurs membres par ces organismes, da
 
 Toutefois, demeurent soumises à la taxe sur la valeur ajoutée, sous réserve des dispositions du b :
 
-Les opérations d'hébergement et de restauration ;
+les opérations d'hébergement et de restauration ;
 
-L'exploitation des bars et buvettes.
+l'exploitation des bars et buvettes.
 
 Ces dispositions sont également applicables aux unions d'associations qui répondent aux conditions ci-dessus, dans leurs rapports avec les membres des associations faisant partie de ces unions ;
 
@@ -150,13 +146,13 @@ Les membres de l'organisme et leurs ayants droit ne doivent pas pouvoir être d�
 
 Tous les organismes concernés par les a, b et c sont placés sous le régime du chiffre d'affaires réel ; un décret en Conseil d'Etat détermine leurs obligations ainsi que l'étendue et les modalités d'exercice de leurs droits à déduction (5) ;
 
-1° bis Les opérations effectuées par les associations intermédiaires agréées en application de l'article L128  du code du travail, dans les conditions prévues au 1° ;
+1° bis Les opérations effectuées par les associations intermédiaires agréées en application de l'article L128 du code du travail, dans les conditions prévues au 1° ;
 
-((1° ter Les opérations effectuées par les associations  agréées en application de l'article L129-1 du code du travail, dans les conditions prévues au 1°)) (M).
+1° ter Les opérations effectuées par les associations  agréées en application de l'article L129-1 du code du travail, dans les conditions prévues au 1°.
 
 2° (Abrogé).
 
-3° Les ventes portant sur les articles fabriqués par des groupements d'aveugles ou de travailleurs handicapés, agréés dans les conditions prévues par la loi n° 72-616 du 5 juillet 1972, ainsi que les réparations effectuées par ces groupements. Ils peuvent toutefois, sur leur demande, renoncer à l'exonération dans les conditions et selon les modalités prévues par décret en Conseil d'Etat ;
+3° Les ventes portant sur les articles fabriqués par des groupements d'aveugles ou de travailleurs handicapés, agréés dans les conditions prévues par la loi n° 72-616 du 5 juillet 1972, ainsi que les réparations effectuées par ces groupements. Ils peuvent toutefois, sur leur demande, renoncer à l'exonération dans les conditions et selon les modalités prévues par décret en Conseil d'Etat (6);
 
 4° (Abrogé) ;
 
@@ -168,12 +164,18 @@ Tous les organismes concernés par les a, b et c sont placés sous le régime du
 
 (3) Ces dispositions ne s'appliquent pas aux biens cédés à des personnes qui ont souscrit un contrat de crédit-bail ou de location avec option d'achat avant le 8 septembre 1989.
 
-(3') Cette disposition s'applique à compter de la date d'entrée en vigueur de l'article L. 712-8 du code de la santé publique.
+(3') Cf. Instruction 1997-03-06 3A-2-96.
 
-(3") [*Cf Instruction 1995-07-28 3A-8-95.*]
+(3'') Cette disposition s'applique à compter de la date d'entrée en vigueur de l'article L. 712-8 du code de la santé publique.
+
+(M) Modification.
+
+(3") [*Cf Instruction 1995-07-28 3A-8-95*].
 
 (4) Cf. décret n° 61-610 du 14 juin 1961 (J.O. du 15).
 
+(4') [*Cf. Instruction 1996-02-06 8A-2-96*].
+
 (5) Annexe II, art. 242 B et 242 octies.
 
-(M) Modification.
+(6) [*Cf. Instruction 1996-10-11 3A-5-96.*]

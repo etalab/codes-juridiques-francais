@@ -4,7 +4,7 @@ Il est pourvu aux dépenses ordinaires des chambres de commerce et d'industrie a
 
 Sont exonérés de cette taxe :
 
-Les redevables qui exercent exclusivement une profession non commerciale ;
+Les redevables qui exercent exclusivement ((une activité non commerciale au sens du 1 de l'article 92 )) (M) ;
 
 Les loueurs de chambres ou appartements meublés ;
 
@@ -31,5 +31,9 @@ Des arrêtés préfectoraux fixent les sommes à imposer pour subvenir aux dépe
 Dans un département où il n'y a qu'une chambre de commerce et d'industrie le rôle comprend les redevables de la taxe pour frais de chambres de commerce de tout le département. S'il y a dans le département plusieurs chambres de commerce et d'industrie, le rôle de chacune d'elles comprend les redevables de la taxe qui sont imposés dans sa circonscription.
 
 Un décret détermine les conditions d'application de la taxe prévue au présent article (1).
+
+(M) Modification de la loi 96-314. Ces dispositions sont applicables pour les impositions dues au titre de 1996 et des années suivantes.
+
+[*Cf. Instruction 1997-02-07 6F-2-97.*]
 
 (1) Voir Annexe III, art. 330 et 331.
