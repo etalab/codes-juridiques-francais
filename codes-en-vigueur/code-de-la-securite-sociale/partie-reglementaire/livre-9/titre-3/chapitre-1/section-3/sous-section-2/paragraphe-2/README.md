@@ -1,0 +1,16 @@
+# Paragraphe 2 : Composition et fonctionnement des assemblées générales
+
+- [Article A931-3-18](article-a931-3-18.md)
+- [Article A931-3-19](article-a931-3-19.md)
+- [Article A931-3-20](article-a931-3-20.md)
+- [Article A931-3-21](article-a931-3-21.md)
+- [Article A931-3-22](article-a931-3-22.md)
+- [Article A931-3-23](article-a931-3-23.md)
+- [Article A931-3-24](article-a931-3-24.md)
+- [Article A931-3-25](article-a931-3-25.md)
+- [Article A931-3-26](article-a931-3-26.md)
+- [Article A931-3-27](article-a931-3-27.md)
+- [Article A931-3-28](article-a931-3-28.md)
+- [Article A931-3-29](article-a931-3-29.md)
+- [Article A931-3-30](article-a931-3-30.md)
+- [Article A931-3-31](article-a931-3-31.md)
