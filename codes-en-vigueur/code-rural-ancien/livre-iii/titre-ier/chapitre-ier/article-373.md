@@ -4,8 +4,6 @@ Dans le temps où la chasse est ouverte, le permis donne à celui qui l'a obtenu
 
 Tous les autres moyens de chasse, y compris l'avion et l'automobile, même comme moyens de rabat, sont formellement prohibés.
 
-L'utilisation des bourses et furets destinés à prendre les lapins est autorisée dans les départements ou parties de départements où le lapin est classé comme animal nuisible. Dans les autres lieux, des autorisations individuelles et exceptionnelles, données par les préfets, sont nécessaires pour la capture des lapins avec bourses et furets.
-
 Le ministre chargé de la chasse peut prendre des arrêtés :
 
 1° Pour prévenir la destruction ou favoriser le repeuplement des oiseaux ou de toute espèce de gibier, et sans qu'il soit ainsi dérogé au droit de destruction des bêtes fauves édictée à l'article 393 ;
@@ -14,7 +12,7 @@ Le ministre chargé de la chasse peut prendre des arrêtés :
 
 4° Pour instituer et mettre en oeuvre, chaque année, dans les départements intéressés, un plan de chasse du grand gibier substituant à la limitation annuelle de la période de chasse le nombre d'animaux à tirer (cerf, chevreuil, daim, chamois, isard, bouquetin, et mouflon) sur les territoires de chasse pendant la période de chasse propre à chaque département, telle qu'elle est définie au premier alinéa de l'article 371.
 
-L'arrêté du ministre est pris sur proposition du préfet, présentée à la demande conjointe du conservateur des eaux et forêts et du président de la fédération départementale des chasseurs.
+L'arrêté du Ministre est pris sur proposition du préfet, présentée à la demande conjointe du conservateur des eaux et forêts et du président de la fédération départementale des chasseurs.
 
 En cas de calamité, incendie, inondations, gel prolongé, susceptible de provoquer ou de favoriser la destruction du gibier, le préfet pourra, pour tout ou partie du département, suspendre, dans un délai de quarante-huit heures, l'exercice de la chasse pendant une période de dix jours, soit à tout gibier, soit à certaines espèces de gibier.
 
