@@ -1,5 +1,6 @@
 # Titre Ier bis : Des contumaces
 
+- [Article 627-21](article-627-21.md)
 - [Article 628](article-628.md)
 - [Article 629](article-629.md)
 - [Article 630](article-630.md)
