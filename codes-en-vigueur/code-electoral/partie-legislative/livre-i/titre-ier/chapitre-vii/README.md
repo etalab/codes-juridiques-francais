@@ -31,7 +31,6 @@
 - [Article L113](article-l113.md)
 - [Article L113-1](article-l113-1.md)
 - [Article L114](article-l114.md)
-- [Article L115](article-l115.md)
 - [Article L116](article-l116.md)
 - [Article L116-1](article-l116-1.md)
 - [Article L117](article-l117.md)
