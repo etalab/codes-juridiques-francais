@@ -1,7 +1,6 @@
 # DETERMINATION DU BENEFICE IMPOSABLE.
 
 - [Article 209 bis](article-209-bis.md)
-- [Article 209 ter](article-209-ter.md)
 - [Article 209 quater C](article-209-quater-c.md)
 - [Article 209 quater A](article-209-quater-a.md)
 - [Article 209 quater B](article-209-quater-b.md)
