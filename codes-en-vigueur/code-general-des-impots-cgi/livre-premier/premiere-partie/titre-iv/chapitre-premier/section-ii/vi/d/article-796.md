@@ -16,6 +16,8 @@ I  Sont exonérées de l'impôt de mutation par décès les successions :
 
 7° Des personnes décédées du fait d'actes de terrorisme visés à l'article 26 de la loi n° 90-86 du 23 janvier 1990 portant diverses dispositions relatives à la sécurité sociale et à la santé ou des conséquences directes de ces actes dans un délai de trois ans à compter de leur réalisation.
 
+8° Des sapeurs-pompiers professionnels ou volontaires décédés en opération de secours, cités à l'ordre de la Nation.
+
 II  L'exonération ne profite, toutefois, qu'aux parts nettes recueillies par les ascendants, les descendants, le conjoint du défunt, ainsi que par ses frères et soeurs ou leurs descendants.
 
 III  L'exonération de l'impôt n'entraîne pas la dispense de la déclaration des successions. Elle est subordonnée à la condition que cette déclaration soit accompagnée :

@@ -5,3 +5,5 @@ I. - Dans les périmètres mentionnés au premier alinéa de l'article L. 321-11
 II. - Hors des périmètres mentionnés au I et dans les zones où la protection contre les incendies de forêt le rend nécessaire, les travaux de prévention desdits incendies effectués par l'Etat, les collectivités territoriales et leurs groupements ou leurs mandataires tels que l'Office national des forêts et les services départementaux d'incendie et de secours ainsi que les associations syndicales autorisées peuvent comprendre des incinérations et des brûlages dirigés.
 
 Ces travaux sont réalisés avec l'accord écrit ou tacite des propriétaires. Les modalités d'application des présentes dispositions sont fixées par décret en Conseil d'Etat.
+
+III. - Le commandant des opérations de secours peut, même en l'absence d'autorisation du propriétaire ou de ses ayants droit, pour les nécessités de la lutte contre l'incendie, recourir à des feux tactiques.
