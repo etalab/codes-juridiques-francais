@@ -6,3 +6,4 @@
 - [Article L1523-4](article-l1523-4.md)
 - [Article L1523-5](article-l1523-5.md)
 - [Article L1523-6](article-l1523-6.md)
+- [Article L1523-7](article-l1523-7.md)
