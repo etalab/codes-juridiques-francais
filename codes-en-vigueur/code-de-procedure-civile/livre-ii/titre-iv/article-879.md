@@ -72,17 +72,17 @@ Art. R. 516-9
 
 La demande est formée au secrétariat du conseil de prud'hommes. Elle peut lui être adressée par lettre recommandée.
 
-Elle doit indiquer les nom, profession et adresse des parties ainsi que ses différents chefs. Le secrétariat-greffe délivre ou envoie immédiatement un récépissé au demandeur.
+Elle doit indiquer les nom, profession et adresse des parties ainsi que ses différents chefs. Le greffe délivre ou envoie immédiatement un récépissé au demandeur.
 
 Ce récépissé, ou un document qui lui est joint, reproduit les dispositions des articles R. 516-4, R. 516-5 et R. 516-13 à R. 516-20-1.
 
 Art. R. 516-10
 
-Le secrétariat-greffe, soit verbalement lors de la présentation de la demande, soit par lettre simple qui jouit de la franchise postale, avise le demandeur des lieu, jour et heure de la séance du bureau de conciliation à laquelle l'affaire sera appelée et l'invite à se munir de toutes les pièces utiles.
+Le greffe, soit verbalement lors de la présentation de la demande, soit par lettre simple qui jouit de la franchise postale, avise le demandeur des lieu, jour et heure de la séance du bureau de conciliation à laquelle l'affaire sera appelée et l'invite à se munir de toutes les pièces utiles.
 
 Art. R. 516-11
 
-Le secrétariat-greffe convoque le défendeur devant le bureau de conciliation par lettre recommandée avec demande d'avis de réception. Il lui adresse le même jour copie de cette convocation par lettre simple qui jouit de la franchise postale.
+Le greffe convoque le défendeur devant le bureau de conciliation par lettre recommandée avec demande d'avis de réception. Il lui adresse le même jour copie de cette convocation par lettre simple qui jouit de la franchise postale.
 
 La convocation destinée au défendeur indique les nom, profession et domicile du demandeur, les lieu, jour et heure de la séance du bureau de conciliation à laquelle l'affaire sera appelée ainsi que les chefs de la demande. Elle informe en outre le défendeur que des décisions exécutoires à titre provisoire pourront, même en son absence, être prises contre lui par le bureau de conciliation au vu des seuls éléments fournis par son adversaire. Elle invite le défendeur à se munir de toutes les pièces utiles. Cette convocation, ou un document qui lui est joint, reproduit les dispositions des articles R. 516-4, R. 516-5 et R. 516-13 à R. 516-20-1.
 
@@ -114,7 +114,7 @@ Si, au jour fixé pour la tentative de conciliation, le défendeur ne comparaît
 
 Toutefois, si le défendeur a justifié en temps utile d'un motif légitime, il est convoqué à une prochaine séance du bureau de conciliation par lettre simple.
 
-S'il apparaît que le défendeur n'a pas été joint, sans faute de sa part, par la première convocation, le bureau de conciliation décide qu'il sera à nouveau convoqué à une prochaine séance soit par lettre recommandée du secrétariat-greffe avec demande d'avis de réception, soit par acte d'huissier de justice à la diligence du demandeur. Cet acte doit intervenir dans les six mois de la décision du bureau de conciliation à peine de caducité de la demande constatée par ce bureau."
+S'il apparaît que le défendeur n'a pas été joint, sans faute de sa part, par la première convocation, le bureau de conciliation décide qu'il sera à nouveau convoqué à une prochaine séance soit par lettre recommandée du greffe avec demande d'avis de réception, soit par acte d'huissier de justice à la diligence du demandeur. Cet acte doit intervenir dans les six mois de la décision du bureau de conciliation à peine de caducité de la demande constatée par ce bureau."
 
 Art. R. 516-18
 
@@ -184,7 +184,7 @@ Section 6 : Le jugement.
 
 Art. R. 516-26
 
-A moins qu'elles ne l'aient été verbalement avec émargement au dossier, les parties sont convoquées devant le bureau de jugement par lettre recommandée avec demande d'avis de réception adressée par le secrétariat-greffe qui envoie le même jour aux parties une copie de la convocation par lettre simple.
+A moins qu'elles ne l'aient été verbalement avec émargement au dossier, les parties sont convoquées devant le bureau de jugement par lettre recommandée avec demande d'avis de réception adressée par le greffe qui envoie le même jour aux parties une copie de la convocation par lettre simple.
 
 La convocation indique les nom, profession et domicile des parties, les lieu, jour et heure de l'audience ainsi que les points qui demeurent en litige.
 
@@ -230,7 +230,7 @@ Dans le cas où l'existence de l'obligation n'est pas sérieusement contestable,
 
 Art. R. 516-32
 
-La demande en référé est formée aux choix du demandeur soit par acte d'huissier de justice, soit dans les conditions prévues à l'article R. 516-8. Lorsque la demande est formée par acte d'huissier de justice, une copie de l'assignation doit être remise au secrétariat-greffe du conseil de prud'hommes, au plus tard la veille de l'audience ; lorsque la demande est formée dans les conditions prévues à l'article R. 516-8, les dispositions des articles R. 516-9 à R. 516-11 sont applicables.
+La demande en référé est formée aux choix du demandeur soit par acte d'huissier de justice, soit dans les conditions prévues à l'article R. 516-8. Lorsque la demande est formée par acte d'huissier de justice, une copie de l'assignation doit être remise au greffe du conseil de prud'hommes, au plus tard la veille de l'audience ; lorsque la demande est formée dans les conditions prévues à l'article R. 516-8, les dispositions des articles R. 516-9 à R. 516-11 sont applicables.
 
 Le règlement intérieur du conseil de prud'hommes fixe les jour et heure habituels des audiences de référé. Une audience par semaine au moins doit être prévue. Si les circonstances l'exigent, le président du conseil de prud'hommes, après avis du vice-président, peut fixer une ou plusieurs audiences supplémentaires ou déplacer les jour et heure de la ou des audiences de la semaine.
 
@@ -284,7 +284,7 @@ Lorsqu'un conseiller prud'homme est empêché de siéger à l'audience de dépar
 
 Lorsqu'il ne pourvoit pas lui-même à son remplacement, le président ou le vice-président relevant de sa section ou de sa chambre et de son élément pourvoit à ce remplacement dans les mêmes conditions.
 
-Le conseiller prud'homme ou, le cas échéant, le président ou le vice-président avise immédiatement de ce remplacement le secrétariat-greffe.
+Le conseiller prud'homme ou, le cas échéant, le président ou le vice-président avise immédiatement de ce remplacement le greffe.
 
 Devant le bureau de jugement, les remplacements ne peuvent avoir lieu que dans la limite d'un conseiller prud'homme de chaque élément.
 
@@ -298,7 +298,7 @@ En cas de conciliation, des extraits du procès-verbal qui mentionnent s'il y a 
 
 Art. R. 516-42
 
-Les décisions rendues en matière prud'homale sont notifiées aux parties en cause par le secrétariat-greffe du conseil de prud'hommes ou de la cour d'appel au lieu où elles demeurent réellement, par lettre recommandée avec demande d'avis de réception sans préjudice du droit des parties de les faire signifier par acte d'huissier de justice."
+Les décisions rendues en matière prud'homale sont notifiées aux parties en cause par le greffe du conseil de prud'hommes ou de la cour d'appel au lieu où elles demeurent réellement, par lettre recommandée avec demande d'avis de réception sans préjudice du droit des parties de les faire signifier par acte d'huissier de justice."
 
 Les parties sont avisées des mesures d'administration judiciaire verbalement avec émargement au dossier ou par lettre simple.
 
@@ -372,7 +372,7 @@ Le jugement n'est pas susceptible d'appel si la seule demande reconventionnelle 
 
 Art. R. 517-5
 
-Si une demande reconventionnelle reconnue mal fondée a eu pour effet de rendre le jugement susceptible d'appel, la Cour peut condamner son auteur à une amende civile de 15 à 1500 euros [*montant*] sans préjudice des dommages-intérêts qui seraient réclamés.
+Si une demande reconventionnelle reconnue mal fondée a eu pour effet de rendre le jugement susceptible d'appel, la Cour peut condamner son auteur à une amende civile de 15 à 1500 euros sans préjudice des dommages-intérêts qui seraient réclamés.
 
 Section 3 : L'opposition.
 
@@ -390,9 +390,9 @@ Art. R. 517-7
 
 Le délai d'appel est d'un mois.
 
-L'appel est formé par une déclaration que la partie ou tout mandataire fait, ou adresse par pli recommandé, au secrétariat-greffe de la juridiction qui a rendu le jugement.
+L'appel est formé par une déclaration que la partie ou tout mandataire fait, ou adresse par pli recommandé, au greffe de la Cour.
 
-La déclaration indique les nom, prénoms, profession et domicile de l'appelant ainsi que les nom et adresse des parties contre lesquelles l'appel est dirigé. Elle désigne le jugement dont il est fait appel et mentionne, le cas échéant, les chefs du jugement auxquels se limite l'appel ainsi que le nom et l'adresse du représentant de l'appelant devant la cour.
+La déclaration indique les nom, prénoms, profession et domicile de l'appelant ainsi que les nom et adresse des parties contre lesquelles l'appel est dirigé. Elle désigne le jugement dont il est fait appel et mentionne, le cas échéant, les chefs du jugement auxquels se limite l'appel ainsi que le nom et l'adresse du représentant de l'appelant devant la cour. Elle est accompagnée d'une copie de la décision.
 
 Art. R. 517-8
 
@@ -401,12 +401,6 @@ L'appel est porté devant la chambre sociale de la Cour d'appel.
 Art. R. 517-9
 
 L'appel est formé, instruit et jugé suivant la procédure sans représentation obligatoire.
-
-Section 5 : Le pourvoi en cassation.
-
-Art. R. 517-10
-
-En matière prud'homale, le pourvoi en cassation est formé, instruit et jugé suivant la procédure sans ministère d'un avocat au Conseil d'Etat et à la Cour de cassation.
 
 Chapitre 8 : Récusations.
 

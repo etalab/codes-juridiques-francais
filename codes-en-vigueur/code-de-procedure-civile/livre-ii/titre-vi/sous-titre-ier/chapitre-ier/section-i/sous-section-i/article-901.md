@@ -16,4 +16,4 @@ b) Si l'appelant est une personne morale : sa forme, sa dénomination, son sièg
 
 La déclaration indique, le cas échéant, les chefs du jugement auxquels l'appel est limité et le nom de l'avocat chargé d'assister l'appelant devant la cour.
 
-Elle est signée par l'avoué.
+Elle est signée par l'avoué. Elle est accompagnée d'une copie de la décision. Elle vaut demande d'inscription au rôle.
