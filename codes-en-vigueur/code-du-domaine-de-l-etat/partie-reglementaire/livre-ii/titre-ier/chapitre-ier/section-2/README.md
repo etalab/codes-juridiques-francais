@@ -1,5 +1,6 @@
 # Section 2 : Fixation des redevances.
 
+- [Article A31](article-a31.md)
 - [Article A32](article-a32.md)
 - [Article A33](article-a33.md)
 - [Article A34](article-a34.md)
