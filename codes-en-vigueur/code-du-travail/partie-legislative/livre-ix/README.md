@@ -2,7 +2,6 @@
 
 - [Titre Ier : Des institutions de la formation professionnelle.](titre-ier)
 - [Titre II : Des conventions de formation professionnelle.](titre-ii)
-- [Titre III : DES DROITS INDIVIDUELS ET DES DROITS COLLECTIFS DES    SALARIES EN MATIERE DE FORMATION](titre-iii)
 - [Titre IV : De l'aide de l'Etat.](titre-iv)
 - [Titre V : De la participation des employeurs au développement de la formation professionnelle continue.](titre-v)
 - [Titre VI : Des aides financières accordées aux stagiaires de formation professionnelle et de leur protection sociale](titre-vi)
