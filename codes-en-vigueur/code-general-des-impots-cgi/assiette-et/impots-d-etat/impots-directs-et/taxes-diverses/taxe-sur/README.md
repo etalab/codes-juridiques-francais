@@ -1,4 +1,4 @@
-# TAXE SUR CERTAINS FRAIS GENERAUX.
+# TAXE SUR LES SALAIRES.
 
 - [Article 231 bis C](article-231-bis-c.md)
 - [Article 231 bis D](article-231-bis-d.md)
@@ -7,6 +7,7 @@
 - [Article 231 bis F](article-231-bis-f.md)
 - [Article 231 bis G](article-231-bis-g.md)
 - [Article 231 bis H](article-231-bis-h.md)
+- [Article 231 bis K](article-231-bis-k.md)
 - [Article 235 ter V](article-235-ter-v.md)
 - [Article 235 ter T](article-235-ter-t.md)
 - [Article 235 ter U](article-235-ter-u.md)
