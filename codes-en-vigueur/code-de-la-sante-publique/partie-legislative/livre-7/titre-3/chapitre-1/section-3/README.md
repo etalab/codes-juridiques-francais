@@ -1,3 +1,0 @@
-# SECTION 3 : DISPOSITIONS DIVERSES.
-
-- [Article L761-11](article-l761-11.md)
