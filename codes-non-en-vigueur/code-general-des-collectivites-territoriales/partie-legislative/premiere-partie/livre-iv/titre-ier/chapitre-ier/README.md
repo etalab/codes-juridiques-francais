@@ -1,3 +1,0 @@
-# CHAPITRE Ier : LES DELEGATIONS DE SERVICE PUBLIC
-
-- [Article L1411-4](article-l1411-4.md)
