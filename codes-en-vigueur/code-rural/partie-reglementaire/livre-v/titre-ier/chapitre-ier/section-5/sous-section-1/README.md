@@ -2,6 +2,8 @@
 
 - [Article R*511-73](article-r-511-73.md)
 - [Article R511-74](article-r511-74.md)
+- [Article R511-75](article-r511-75.md)
+- [Article R511-76](article-r511-76.md)
 - [Article R511-77](article-r511-77.md)
 - [Article R511-78](article-r511-78.md)
 - [Article R511-79](article-r511-79.md)

@@ -1,6 +1,6 @@
 # Article R244-3
 
-Pour l'application du premier alinéa de l'article L. 244-3, la proposition conjointe du ministre de l'agriculture et du ministre chargé du domaine doit :
+Pour l'application du premier alinéa de l'article L. 244-3, la proposition du commissaire de la République faite après avis du directeur départemental des services fiscaux, doit :
 
 1° Enumérer les parcelles susceptibles d'être acquises en totalité ou en partie par la commune de la situation des biens en spécifiant, s'il y a lieu, que l'acquisition pourrait porter sur certaines d'entre elles seulement ;
 
