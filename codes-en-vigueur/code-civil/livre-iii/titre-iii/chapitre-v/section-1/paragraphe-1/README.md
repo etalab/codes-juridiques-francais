@@ -9,6 +9,7 @@
 - [Article 1241](article-1241.md)
 - [Article 1242](article-1242.md)
 - [Article 1243](article-1243.md)
+- [Article 1244](article-1244.md)
 - [Article 1245](article-1245.md)
 - [Article 1246](article-1246.md)
 - [Article 1248](article-1248.md)
