@@ -1,3 +1,5 @@
 # Article 198
 
-Les conseils généraux peuvent créer des emplois d'agents départementaux de contrôle. Les délibérations prises à cet effet sont soumises à l'approbation [*condition préalable*] du ministre de la santé publique et de la population lorsqu'elles ne sont pas conformes aux propositions du préfet.
+Les agents départementaux habilités par le président du conseil général ont compétence pour contrôler le respect, par les bénéficiaires et les institutions intéressées, des règles applicables aux formes d'aide sociale relevant de la compétence du département.
+
+Le règlement départemental arrête les modalités de ce contrôle.

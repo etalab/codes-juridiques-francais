@@ -1,3 +1,3 @@
-# SECTION 1 : CONSEILS D'HYGIENE DEPARTEMENTAUX ET COMMISSIONS SANITAIRES.
+# Section 1 : Conseils départementaux d'hygiène et commissions sanitaires
 
 - [Article L776](article-l776.md)
