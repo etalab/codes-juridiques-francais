@@ -7,5 +7,4 @@
 - [Chapitre V : De l'ouverture des sessions](chapitre-v)
 - [Chapitre VI : Des débats](chapitre-vi)
 - [Chapitre VII : Du jugement](chapitre-vii)
-- [Chapitre VIII : De l'appel des décisions rendues par la cour d'assises en premier ressort](chapitre-viii)
 - [Chapitre IX : De l'appel des décisions rendues par la cour d'assises en premier ressort](chapitre-ix)

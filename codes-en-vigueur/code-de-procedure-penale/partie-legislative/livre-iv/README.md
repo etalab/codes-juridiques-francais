@@ -10,7 +10,6 @@
 - [Titre VIII : Du jugement des infractions commises à l'audience des cours et tribunaux](titre-viii)
 - [Titre XI : Des crimes et des délits en matière militaire et des crimes et délits contre les intérêts fondamentaux de la nation](titre-xi)
 - [Titre XII : Des demandes présentées en vue d'être relevé des interdictions, déchéances, incapacités ou mesures de publication](titre-xii)
-- [Titre XIII bis : De la poursuite, de l'instruction et du jugement des infractions en matière sanitaire](titre-xiii-bis)
 - [Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction](titre-xiv)
 - [Titre XVI : De la poursuite, de l'instruction et du jugement des infractions en matière de trafic de stupéfiants](titre-xvi)
 - [Titre XVIII : De la poursuite, de l'instruction et du jugement des infractions commises par les personnes morales](titre-xviii)
