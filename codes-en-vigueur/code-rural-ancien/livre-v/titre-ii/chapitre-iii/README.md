@@ -1,6 +1,7 @@
 # Chapitre III : Opérations de crédit.
 
 - [Article 723](article-723.md)
+- [Article 724](article-724.md)
 - [Article 725](article-725.md)
 - [Article 726](article-726.md)
 - [Article 727](article-727.md)
@@ -8,6 +9,7 @@
 - [Article 729](article-729.md)
 - [Article 730](article-730.md)
 - [Article 731](article-731.md)
+- [Article 732](article-732.md)
 - [Article 733](article-733.md)
 - [Article 734](article-734.md)
 - [Article 735](article-735.md)
