@@ -2,4 +2,3 @@
 
 - [Article L1424-32](article-l1424-32.md)
 - [Article L1424-33](article-l1424-33.md)
-- [Article L1424-34](article-l1424-34.md)
