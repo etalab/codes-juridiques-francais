@@ -2,3 +2,4 @@
 
 - [Article 285](article-285.md)
 - [Article 285 bis](article-285-bis.md)
+- [Article 285 ter](article-285-ter.md)
