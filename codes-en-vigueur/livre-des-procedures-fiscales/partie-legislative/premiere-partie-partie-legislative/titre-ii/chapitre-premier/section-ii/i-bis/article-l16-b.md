@@ -2,19 +2,15 @@
 
 I. Lorsque l'autorité judiciaire, saisie par l'administration fiscale, estime qu'il existe des présomptions qu'un contribuable se soustrait à l'établissement ou au paiement des impôts sur le revenu ou sur les bénéfices ou de la taxe sur la valeur ajoutée en se livrant à des achats ou à des ventes sans facture, en utilisant ou en délivrant des factures ou des documents ne se rapportant pas à des opérations réelles ou en omettant sciemment de passer ou de faire passer des écritures ou en passant ou en faisant passer sciemment des écritures inexactes ou fictives dans des documents comptables dont la tenue est imposée par le code général des impôts, elle peut, dans les conditions prévues au II, autoriser les agents de l'administration des impôts, ayant au moins le grade d'inspecteur et habilités à cet effet par le directeur général des impôts, à rechercher la preuve de ces agissements, en effectuant des visites en tous lieux, même privés, où les pièces et documents s'y rapportant sont susceptibles d'être détenus et procéder à leur saisie, quel qu'en soit le support.
 
-II. Chaque visite doit être autorisée par une ordonnance du président du tribunal de grande instance dans le ressort duquel sont situés les lieux à visiter ou d'un juge délégué par lui.
-
-(Le président du tribunal de grande instance peut confier cette fonction au juge des libertés et de la détention).
+II. Chaque visite doit être autorisée par une ordonnance du juge des libertés et de la détention du tribunal de grande instance dans le ressort duquel sont situés les lieux à visiter.
 
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui est soumise est bien fondée ; cette demande doit comporter tous les éléments d'information en possession de l'administration de nature à justifier la visite.
 
 L'ordonnance comporte :
 
-Le cas échéant, mention de la délégation du président du tribunal de grande instance ;
+l'adresse des lieux à visiter ;
 
-L'adresse des lieux à visiter ;
-
-Le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu l'autorisation de procéder aux opérations de visite.
+le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu l'autorisation de procéder aux opérations de visite.
 
 Le juge motive sa décision par l'indication des éléments de fait et de droit qu'il retient et qui laissent présumer, en l'espèce, l'existence des agissements frauduleux dont la preuve est recherchée.
 
@@ -44,7 +40,7 @@ Les agents des impôts habilités, l'occupant des lieux ou son représentant et 
 
 L'officier de police judiciaire veille au respect du secret professionnel et des droits de la défense conformément aux dispositions du troisième alinéa de l'article 56 du code de procédure pénale ; l'article 58 de ce code est applicable.
 
-IV. Un procès-verbal relatant les modalités et le déroulement de l'opération et consignant les constatations effectuées est dressé sur le champ par les agents de l'administration des impôts. Un inventaire des pièces et documents saisis lui est annexé s'il y a lieu. Le procès-verbal et l'inventaire sont signés par les agents de l'administration des impôts et par l'officier de police judiciaire ainsi que par les personnes mentionnées au premier alinéa du III ; en cas de refus de signer, mention en est faite au procès-verbal.
+IV. Un procès-verbal relatant les modalités et le déroulement de l'opération et consignant les constatations effectuées est dressé sur-le-champ par les agents de l'administration des impôts. Un inventaire des pièces et documents saisis lui est annexé s'il y a lieu. Le procès-verbal et l'inventaire sont signés par les agents de l'administration des impôts et par l'officier de police judiciaire ainsi que par les personnes mentionnées au premier alinéa du III ; en cas de refus de signer, mention en est faite au procès-verbal.
 
 Si l'inventaire sur place présente des difficultés, les pièces et documents saisis sont placés sous scellés. L'occupant des lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu en présence de l'officier de police judiciaire ; l'inventaire est alors établi.
 
