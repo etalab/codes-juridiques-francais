@@ -11,3 +11,4 @@
 - [Article R821-9](article-r821-9.md)
 - [Article R821-10](article-r821-10.md)
 - [Article R821-11](article-r821-11.md)
+- [Article R821-12](article-r821-12.md)
