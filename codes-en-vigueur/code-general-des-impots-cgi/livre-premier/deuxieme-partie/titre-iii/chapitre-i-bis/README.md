@@ -3,5 +3,4 @@
 - [Section I : Centre national du livre](section-i)
 - [Section III : Prélèvements et perceptions destinés au budget annexe des prestations sociales agricoles](section-iii)
 - [Section IV : Taxe spéciale sur le prix des places de spectacles cinématographiques.](section-iv)
-- [Section V : Contribution sur les produits de sang labiles.](section-v)
 - [Section VI : Taxe d'aéroport](section-vi)
