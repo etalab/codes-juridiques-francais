@@ -6,6 +6,7 @@
 - [5 : Coopératives d'utilisation de matériel agricole et coopératives d'insémination artificielle.](5)
 - [5 bis : Personnes qui ont passé un bail à construction](5-bis)
 - [6 : Collectivités locales](6)
+- [7 : Bailleurs de biens ruraux](7)
 - [Article 179](article-179.md)
 - [Article 180](article-180.md)
 - [Article 181](article-181.md)
