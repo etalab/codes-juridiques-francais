@@ -11,3 +11,5 @@ Les autorisations prévues à l'article L. 224-8 ainsi que des autorisations exc
 Pour le transport des appelants vivants destinés notamment aux utilisateurs de huttes ou de gabions, les autorisations peuvent être annuelles. Elles sont, le cas échéant, délivrées par les administrateurs des affaires maritimes pour les gibiers transportés à destination de la zone de chasse maritime de leur circonscription.
 
 Les autorisations exceptionnelles de capture définitive à des fins scientifiques sont délivrées par le directeur de la protection de la nature ou son délégué.
+
+Le préfet peut délivrer aux établissements autorisés en application de l'article R. 213-27 une autorisation permanente de transport des animaux qui en proviennent, identifiés par la marque prévue par l'article R. 213-29.
