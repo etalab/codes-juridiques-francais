@@ -6,4 +6,4 @@ Après cette lecture, la cour, sur les réquisitions du procureur général, pro
 
 Si l'une des formalités prescrites par les articles 627 et 628 a été omise, la cour déclare nulle la procédure de contumace et ordonne qu'elle sera recommencée à partir du plus ancien acte illégal.
 
-Dans le cas contraire, la cour prononce sans l'assistance de jurés sur l'accusation, sans pouvoir, en cas de condamnation, accorder le bénéfice des circonstances atténuantes au contumax. La cour statue ensuite sur les intérêts civils.
+Dans le cas contraire, la cour prononce sans l'assistance de jurés sur l'accusation. La cour statue ensuite sur les intérêts civils.
