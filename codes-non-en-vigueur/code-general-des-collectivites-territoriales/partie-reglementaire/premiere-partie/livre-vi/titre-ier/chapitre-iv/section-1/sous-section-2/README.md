@@ -5,3 +5,4 @@
 - [Paragraphe 3 : Ports maritimes (R).](paragraphe-3)
 - [Paragraphe 4 : Action sociale et santé (R).](paragraphe-4)
 - [Paragraphe 5 : Transports scolaires (R).](paragraphe-5)
+- [Paragraphe 6 : Fonds de solidarité pour le logement (R)](paragraphe-6)
