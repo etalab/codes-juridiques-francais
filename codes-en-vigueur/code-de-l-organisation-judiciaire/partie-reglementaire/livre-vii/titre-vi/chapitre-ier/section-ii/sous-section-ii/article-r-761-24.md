@@ -18,4 +18,6 @@ L'assemblée des magistrats du siège du tribunal de grande instance :
 
 8° Emet un avis sur l'affectation des magistrats dans les formations de jugement spécialisées en matière économique et financière, ou en matière militaire et de sûreté de l'Etat, conformément aux articles 704, 697 et 702 du Code de procédure pénale ;
 
-9° Emet un avis, en cas de pluralité de juges de l'application des peines, sur la désignation par le président de celui qui exercera les attributions mentionnées au titre XI du Code de procédure pénale (troisième partie : Décrets).
+9° Emet un avis, en cas de pluralité de juges de l'application des peines, sur la désignation par le président de celui qui exercera les attributions mentionnées au titre XI du Code de procédure pénale (troisième partie : Décrets) ;
+
+10° Emet un avis sur le projet d'ordonnance préparé par le président désignant un juge du tribunal d'instance pour exercer les fonctions du juge de proximité en cas d'absence ou d'empêchement ou lorsque le nombre de juges de proximité se révèle insuffisant.
