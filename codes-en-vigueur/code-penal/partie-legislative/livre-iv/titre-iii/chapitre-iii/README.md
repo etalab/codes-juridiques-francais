@@ -1,7 +1,6 @@
 # Chapitre III : Des atteintes à l'administration publique commises par les particuliers.
 
 - [Section 1 : De la corruption active et du trafic d'influence commis par les particuliers.](section-1)
-- [Section 2 : Des actes d'intimidation commis contre les personnes exerçant une fonction publique.](section-2)
 - [Section 3 : De la soustraction et du détournement de biens contenus dans un dépôt public.](section-3)
 - [Section 4 : De l'outrage.](section-4)
 - [Section 5 : De la rébellion.](section-5)
