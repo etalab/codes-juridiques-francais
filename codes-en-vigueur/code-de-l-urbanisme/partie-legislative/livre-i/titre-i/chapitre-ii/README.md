@@ -1,4 +1,4 @@
-# Chapitre II : Plafond légal de densité.
+# Chapitre II : Surface hors oeuvre des constructions.
 
 - [Article L112-1](article-l112-1.md)
 - [Article L112-2](article-l112-2.md)
