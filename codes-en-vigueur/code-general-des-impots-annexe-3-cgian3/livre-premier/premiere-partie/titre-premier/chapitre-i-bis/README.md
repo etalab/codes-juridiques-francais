@@ -1,6 +1,7 @@
 # Chapitre I bis : Impôt sur les sociétés
 
 - [Section I : Exonération édictée en faveur de certains établissements et sociétés concessionnaires](section-i)
+- [Section I bis : Entreprises créées en Corse](section-i-bis)
 - [Section II : Monuments historiques. Charges déductibles pour les organismes non lucratifs](section-ii)
 - [Section III : Intérêts de livrets supplémentaires de caisses d'épargne](section-iii)
 - [Section IV : Modalités d'application du précompte.](section-iv)

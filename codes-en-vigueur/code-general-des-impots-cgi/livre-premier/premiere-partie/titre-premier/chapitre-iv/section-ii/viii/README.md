@@ -4,3 +4,4 @@
 - [Article 238 decies](article-238-decies.md)
 - [Article 238 undecies](article-238-undecies.md)
 - [Article 238 duodecies](article-238-duodecies.md)
+- [Article 238 terdecies](article-238-terdecies.md)

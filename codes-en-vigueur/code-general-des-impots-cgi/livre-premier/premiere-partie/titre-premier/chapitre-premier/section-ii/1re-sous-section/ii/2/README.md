@@ -2,6 +2,7 @@
 
 - [Article 36](article-36.md)
 - [Article 37](article-37.md)
+- [Article 38 quater](article-38-quater.md)
 - [Article 39 bis](article-39-bis.md)
 - [Article 39 ter](article-39-ter.md)
 - [Article 39 ter B](article-39-ter-b.md)

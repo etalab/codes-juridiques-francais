@@ -14,3 +14,4 @@
 - [Article 1770 ter](article-1770-ter.md)
 - [Article 1770 quater](article-1770-quater.md)
 - [Article 1770 quinquies](article-1770-quinquies.md)
+- [Article 1770 sexies](article-1770-sexies.md)

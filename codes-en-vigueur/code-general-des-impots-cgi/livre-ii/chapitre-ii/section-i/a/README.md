@@ -5,6 +5,7 @@
 - [Article 1727](article-1727.md)
 - [Article 1727 A](article-1727-a.md)
 - [Article 1728](article-1728.md)
+- [Article 1728 A](article-1728-a.md)
 - [Article 1729](article-1729.md)
 - [Article 1730](article-1730.md)
 - [Article 1732](article-1732.md)

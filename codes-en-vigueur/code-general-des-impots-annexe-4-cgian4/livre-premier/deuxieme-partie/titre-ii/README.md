@@ -4,3 +4,4 @@
 - [Chapitre II bis : Contributions indirectes](chapitre-ii-bis)
 - [Chapitre III : Enregistrement](chapitre-iii)
 - [Section IV : Taxe parafiscale sur les vins.](section-iv)
+- [Chapitre premier : Droits d'enregistrement](chapitre-premier)
