@@ -1,6 +1,7 @@
 # Chapitre II : Des privilèges.
 
 - [Section 1 : Des privilèges sur les meubles.](section-1)
+- [Section I : Des privilèges sur les meubles](section-i)
 - [Section 4 : Comment se conservent les privilèges.](section-4)
 - [Article 2095](article-2095.md)
 - [Article 2096](article-2096.md)
