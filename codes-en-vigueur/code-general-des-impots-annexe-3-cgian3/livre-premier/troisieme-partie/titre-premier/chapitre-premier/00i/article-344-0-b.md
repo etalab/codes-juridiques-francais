@@ -22,7 +22,7 @@ Les dispositions de l'article 344-0 A s'appliquent :
 
 10° A la déclaration de taxe sur la valeur vénale des immeubles possédés en France prévue à l'article 990 F du même code ;
 
-11° A la déclaration de contribution au fonds commun des accidents du travail agricole prévue à l'article 335 ;
+11° A la déclaration de contribution au fonds commun des accidents du travail agricole prévue à l'article 336 bis ;
 
 12° A la déclaration de taxe sur les conventions d'assurance prévue à l'article 991 du même code ;
 
