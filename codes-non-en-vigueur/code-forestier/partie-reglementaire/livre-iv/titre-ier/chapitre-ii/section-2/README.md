@@ -4,4 +4,5 @@
 - [Article R*412-14](article-r-412-14.md)
 - [Article R*412-15](article-r-412-15.md)
 - [Article R*412-16](article-r-412-16.md)
+- [Article R412-17](article-r412-17.md)
 - [Article R*412-18](article-r-412-18.md)
