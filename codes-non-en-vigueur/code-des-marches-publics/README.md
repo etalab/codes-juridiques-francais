@@ -1,3 +1,8 @@
-# Code des marchés publics (édition 2001)
+# Code des marchés publics (édition 2004)
 
-- [Titre V : Dispositions relatives au contrôle](titre-v)
+- [TITRE Ier : CHAMP D'APPLICATION ET PRINCIPES FONDAMENTAUX.](titre-ier)
+- [TITRE II : DISPOSITIONS GÉNÉRALES](titre-ii)
+- [TITRE III : PASSATION DES MARCHÉS](titre-iii)
+- [TITRE IV : EXÉCUTION DES MARCHÉS](titre-iv)
+- [TITRE V : DISPOSITIONS RELATIVES AU CONTRÔLE](titre-v)
+- [TITRE VI : DISPOSITIONS DIVERSES](titre-vi)

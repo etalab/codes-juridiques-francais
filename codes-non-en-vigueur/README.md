@@ -9,6 +9,6 @@
 - [Code de la consommation](code-de-la-consommation)
 - [Code de procédure civile (1807)](code-de-procedure-civile-1807)
 - [Code des caisses d'épargne](code-des-caisses-d-epargne)
-- [Code des marchés publics](code-des-marches-publics)
+- [Code des marchés publics.](code-des-marches-publics)
 - [Code forestier](code-forestier)
 - [Code général des collectivités territoriales](code-general-des-collectivites-territoriales)
