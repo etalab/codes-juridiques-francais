@@ -12,5 +12,3 @@
 - [Article 86 bis](article-86-bis.md)
 - [Article 87](article-87.md)
 - [Article 90](article-90.md)
-- [Article 94](article-94.md)
-- [Article 95](article-95.md)
