@@ -2,3 +2,4 @@
 
 - [Chapitre Ier : Fonctionnaires civils.](chapitre-ier)
 - [Chapitre II : Militaires.](chapitre-ii)
+- [Chapitre III : Dispositions communes.](chapitre-iii)
