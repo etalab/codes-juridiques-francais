@@ -14,7 +14,7 @@ e) Sur les programmes d'actions en faveur du logement des immigrés et des popul
 
 f) Sur les modalités selon lesquelles les aides à la personne en matière de logement sont mises en oeuvre dans le département ;
 
-g) Sur toute création, dissolution ou modification de compétences des organismes d'habitations à loyer modéré exerçant ou demandant à être autorisés à exercer leur activité dans le département;
+g) Sur toute création, dissolution ou modification de compétences des organismes d'habitations à loyer modéré exerçant ou demandant à être autorisés à exercer leur activité dans le département. Toutefois, cet avis n'est requis ni pour le retrait temporaire d'une ou plusieurs compétences décidé en application des articles L. 422-7, R. 421-13 ou R. 421-60, ni pour la dissolution prononcée en application des articles L. 422-7, L. 422-8 ou L. 422-9 ;
 
 h) Sur les programmes locaux de l'habitat et leur réalisation.
 
