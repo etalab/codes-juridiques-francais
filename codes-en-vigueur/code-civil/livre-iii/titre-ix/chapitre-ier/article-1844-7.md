@@ -14,6 +14,4 @@ La société prend fin :
 
 6° Par la dissolution anticipée prononcée par le tribunal dans le cas prévu à l'article 1844-5 ;
 
-7° Par l'effet d'un jugement ordonnant la liquidation des biens de la société ;
-
-8° Pour toute autre cause prévue par les statuts.
+7° Pour toute autre cause prévue par les statuts.
