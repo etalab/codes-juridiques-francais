@@ -4,7 +4,7 @@ Sous réserve des dispositions de l'article 6, les associés des sociétés en n
 
 Il en est de même, sous les mêmes conditions :
 
-1° Des membres des sociétés civiles qui ne revêtent pas, en droit ou en fait, l'une des formes de sociétés visées à l'article 206-1 et qui, sous réserve des exceptions prévues à l'article 239 ter, ne se livrent pas à une exploitation ou à des opérations visées aux articles 34 et 35 ;
+1° Des membres des sociétés civiles qui ne revêtent pas, en droit ou en fait, l'une des formes de sociétés visées à l'article 206 1 et qui, sous réserve des exceptions prévues à l'article 239 ter, ne se livrent pas à une exploitation ou à des opérations visées aux articles 34 et 35 ;
 
 2° Des membres des sociétés en participation - y compris les syndicats financiers - qui sont indéfiniment responsables et dont les noms et adresses ont été indiqués à l'administration ;
 
@@ -18,7 +18,7 @@ b) Des associés d'une exploitation agricole à responsabilité limitée formée
 
 En cas de décès d'un de ces associés, ce régime n'est pas remis en cause si ses enfants entrent dans la société (1) ;
 
-c) Des associés d'une exploitation agricole à responsabilité limitée créée à compter du 1er janvier 1989 à l'occasion de l'apport de tout ou partie d'une exploitation individuelle et constituée uniquement entre l'apporteur et un exploitant qui s'installe ainsi que, le cas échéant, entre les membres de leurs familles qui leur sont apparentés dans les conditions fixées au b ci-dessus sous réserve que l'exploitation agricole à responsabilité limitée réponde aux conditions fixées au 1° de l'article 9 du (( décret n° 88-176 du 23 février 1988 modifié )) (M) relatif aux aides à l'installation des jeunes agriculteurs.
+c) Des associés d'une exploitation agricole à responsabilité limitée créée à compter du 1er janvier 1989 à l'occasion de l'apport de tout ou partie d'une exploitation individuelle et constituée uniquement entre l'apporteur et un exploitant qui s'installe ainsi que, le cas échéant, entre les membres de leurs familles qui leur sont apparentés dans les conditions fixées au b ci-dessus sous réserve que l'exploitation agricole à responsabilité limitée réponde aux conditions fixées ((au 1° de l'article R343-10 du code rural)) (M relatif aux aides à l'installation des jeunes agriculteurs.
 
 (1) Cette disposition est applicable à compter des impositions dues au titre de l'exercice 1990.
 
