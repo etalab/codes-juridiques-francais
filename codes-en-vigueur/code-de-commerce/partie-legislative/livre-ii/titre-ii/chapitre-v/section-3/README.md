@@ -5,6 +5,8 @@
 - [Article L225-98](article-l225-98.md)
 - [Article L225-99](article-l225-99.md)
 - [Article L225-100](article-l225-100.md)
+- [Article L225-100-1](article-l225-100-1.md)
+- [Article L225-100-2](article-l225-100-2.md)
 - [Article L225-101](article-l225-101.md)
 - [Article L225-102](article-l225-102.md)
 - [Article L225-102-1](article-l225-102-1.md)
