@@ -11,3 +11,5 @@ En outre, chaque section syndicale dispose, au profit de son ou ses délégués 
 Ces temps de délégation sont de plein droit considérés comme temps de travail et payés à l'échéance normale. En cas de contestation par l'employeur de l'usage fait des temps ainsi alloués, il lui appartient de saisir la juridiction compétente.
 
 Les heures utilisées pour participer à des réunions qui ont lieu à l'initiative du chef d'entreprise ne sont pas imputables sur les heures fixées ci-dessus.
+
+Dans les entreprises de travail temporaire, les heures de délégation utilisées entre deux missions, conformément à des dispositions conventionnelles, par un délégué syndical salarié temporaire pour l'exercice de son mandat sont considérées comme des heures de travail [*rémunérées*]. Elles sont réputées être rattachées, pour ce qui concerne leur rémunération et les charges sociales y afférentes, au dernier contrat de travail avec l'entreprise de travail temporaire au titre de laquelle il avait été désigné comme délégué syndical.

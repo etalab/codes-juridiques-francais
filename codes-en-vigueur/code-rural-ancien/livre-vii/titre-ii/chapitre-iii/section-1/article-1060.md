@@ -8,7 +8,7 @@ Le régime agricole des prestations familiales est applicable :
 
 3° Aux artisans ruraux n'employant pas plus de deux salariés de façon permanente ;
 
-4° Aux entrepreneurs de battages ou de travaux agricoles ;
+4° Aux entrepreneurs de travaux agricoles ;
 
 5° Aux exploitants des établissements de conchyliculture ou de pisciculture et établissements assimilés, sauf lorsque les intéressés relèvent du régime social des marins.
 

@@ -4,7 +4,7 @@ Dans les cas visés à l'article L. 431-3 [*absence ou suppression du comité d'
 
 Cette demande est inscrite de droit à l'ordre du jour de la première réunion entre les délégués du personnel et l'employeur suivant la demande. Il est établi, à cette occasion, un procès-verbal.
 
-S'ils n'ont pu obtenir de réponse suffisante de l'employeur ou si celle-ci révèle le caractère préoccupant de la situation économique de l'entreprise [*en difficulté*], les délégués du personnel, après avoir pris l'avis de l'expert-comptable du comité d'entreprise mentionné à l'article L. 434-6 et du commissaire aux comptes, s'il en existe un, peuvent :
+S'ils n'ont pu obtenir de réponse suffisante de l'employeur ou si celle-ci révèle le caractère préoccupant de la situation économique de l'entreprise [*en difficulté*], les délégués du personnel, après avoir pris l'avis d'un expert-comptable dans les conditions prévues à l'article L. 434-6 et du commissaire aux comptes, s'il en existe un, peuvent :
 
 1° Dans les sociétés à conseil d'administration ou à conseil de surveillance ainsi que dans les autres personnes morales dotées d'un organe collégial, saisir de la situation l'organe chargé de l'administration ou de la surveillance dans les conditions prévues au III de l'article L. 432-5 ;
 

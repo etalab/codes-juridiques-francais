@@ -9,3 +9,7 @@ L'employeur s'engage, pour la durée prévue, à fournir un emploi au jeune et �
 Les enseignements généraux, professionnels et technologiques dispensés pendant la durée du contrat doivent être au minimum d'une durée égale à 25 p. 100 de la durée totale du contrat.
 
 Par dérogation prononcée par l'autorité administrative compétente de l'Etat, ces contrats peuvent concerner des jeunes de moins de dix-huit ans, lorsqu'un avis aura été donné par les instances d'orientation mises en place en application de l'ordonnance n° 82-273 du 26 mars 1982 et à la condition qu'il n'existe pas pour ces jeunes de possibilité de qualification par la voie de l'apprentissage [*alinéa ajouté par la loi 575*].
+
+Les dispositions du premier alinéa de l'article L. 122-3-12 ne sont pas applicables au contrat de qualification.
+
+Les dispositions de l'article L. 122-3-11, premier alinéa, du présent code, ne s'appliquent pas au contrat de qualification.
