@@ -10,3 +10,4 @@
 - [Article R*212-9](article-r-212-9.md)
 - [Article R*212-10](article-r-212-10.md)
 - [Article R*212-11](article-r-212-11.md)
+- [Article R*212-12](article-r-212-12.md)
