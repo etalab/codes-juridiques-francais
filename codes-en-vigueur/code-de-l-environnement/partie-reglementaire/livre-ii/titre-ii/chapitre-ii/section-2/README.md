@@ -3,3 +3,4 @@
 - [Sous-section 1 : Institution des réserves de chasse et de faune sauvage](sous-section-1)
 - [Sous-section 2 : Fonctionnement des réserves de chasse et de faune sauvage](sous-section-2)
 - [Sous-section 3 : Réserves nationales](sous-section-3)
+- [Sous-section 4 : Dispositions particulières à la Corse](sous-section-4)

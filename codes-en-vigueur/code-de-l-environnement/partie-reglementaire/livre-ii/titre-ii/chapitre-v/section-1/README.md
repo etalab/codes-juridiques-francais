@@ -1,6 +1,7 @@
 # Section 1 : Plan de chasse.
 
 - [Sous-section 1 : Dispositions générales.](sous-section-1)
+- [Sous-section 2 : Dispositions particulières à la Corse.](sous-section-2)
 - [Article R*225-1](article-r-225-1.md)
 - [Article R*225-2](article-r-225-2.md)
 - [Article R*225-3](article-r-225-3.md)
