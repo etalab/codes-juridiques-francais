@@ -1,3 +1,3 @@
 # Article R137-2
 
-Les concessionnaires de pâturage ne pourront introduire en forêt un plus grand nombre de porcs, bovins et équidés que celui autorisé par l'acte de concession sous peine du maximum de l'amende prévue à l'article R. 331-7.
+Seront punis de la peine d'amende prévue pour les contraventions de la 5ème classe les concessionnaires de pâturage qui auront introduit sur les terrains concédés des animaux appartenant à une espèce autre que celles dont l'introduction est autorisée par l'acte de concession, et ceux qui auront dépassé le nombre maximal d'animaux autorisé.

@@ -1,3 +1,5 @@
 # Article R137-4
 
-Si les porcs, bovins et équidés sont trouvés hors des cantons désignés par l'acte de concession ou hors des chemins indiqués pour s'y rendre, il y a lieu d'appliquer au concessionnaire les peines prononcées par l'article R. 331-7. En cas de récidive, outre l'amende encourue par le concessionnaire, le pâtre est condamné à un emprisonnement de six à quinze jours.
+Il est défendu aux concessionnaires du pâturage d'abattre, de ramasser ou d'emporter des champignons, glands, faines ou autres fruits, semences ou produits des forêts, sous peine d'amende double de celle prévue par l'article R.[**] 331-2.
+
+Les concessionnaires qui auront fauché, labouré ou mis en culture sans autorisation tout ou partie des surfaces concédées ou qui auront implanté sans autorisation des barrières, clôtures, parcs fixes ou mobiles ou toute autre installation sont punis de la peine d'amende prévue pour les contraventions de la 4e classe.
