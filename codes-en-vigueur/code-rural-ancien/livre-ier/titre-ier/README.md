@@ -5,6 +5,7 @@
 - [Chapitre III : Du remembrement rural.](chapitre-iii)
 - [Chapitre IV : De certains échanges en propriété ou en jouissance et de certaines cessions d'immeubles ruraux.](chapitre-iv)
 - [Chapitre V : De la mise en valeur des terres incultes récupérables.](chapitre-v)
+- [Chapitre VI : Semis et plantations forestières.](chapitre-vi)
 - [Chapitre VII : Dispositions diverses.](chapitre-vii)
 - [Chapitre VIII : Dispositions particulières à certains départements](chapitre-viii)
 - [Chapitre IX : Dispositions spéciales de procédure concernant le partage des terres vaines et vagues de Bretagne.](chapitre-ix)
