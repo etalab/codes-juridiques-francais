@@ -6,6 +6,7 @@
 - [Article L124-4-5](article-l124-4-5.md)
 - [Article L124-4-7](article-l124-4-7.md)
 - [Article L124-4-8](article-l124-4-8.md)
+- [Article L124-6](article-l124-6.md)
 - [Article L124-8](article-l124-8.md)
 - [Article L124-8-1](article-l124-8-1.md)
 - [Article L124-8-2](article-l124-8-2.md)
