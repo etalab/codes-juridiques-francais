@@ -5,5 +5,6 @@
 - [Article R2333-52](article-r2333-52.md)
 - [Article R2333-53](article-r2333-53.md)
 - [Article R2333-55](article-r2333-55.md)
+- [Article R2333-56](article-r2333-56.md)
 - [Article R2333-57](article-r2333-57.md)
 - [Article R2333-58](article-r2333-58.md)
