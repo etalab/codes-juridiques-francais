@@ -1,0 +1,3 @@
+# Article R417-13
+
+Cette allocation, concédée par le directeur général de la caisse des dépôts et consignations au vu de la décision visée à l'article R. 417-11, est payée dans les conditions prévues dans le régime de retraite de la caisse nationale de retraites des agents des collectivités locales. Elle est soumise, en matière de contentieux, aux règles applicables aux pensions servies par cette caisse. Elle fait l'objet éventuellement des suspensions et déchéances prévues aux articles 56 et 57 du décret n. 65-773 du 9 septembre 1965. Sous réserve des modalités de revision prévues ci-après, les dispositions de l'article 64 dudit décret lui sont applicables.
