@@ -44,9 +44,9 @@ Cette réservation porte au minimum sur un nombre entier de logements, immédiat
 
 Art. 4 - Montant maximum du loyer et modalités de révision.
 
-Le loyer pratiqué par le bailleur, dont la valeur est fixée par mètre carré de surface corrigée, ne doit pas excéder le loyer maximum qui est fixé à ... F annuels le mètre carré de surface corrigée.
+Le loyer pratiqué par le bailleur, dont la valeur est fixée par mètre carré de surface habitable, ne doit pas excéder le loyer maximum, qui est fixé à .. euros mensuels par mètre carré de surface habitable.
 
-Cette surface est calculée conformément aux dispositions de l'article R. 442-1 du code de la construction et de l'habitation et de l'article 4 du décret n° 60-1063 du 1er octobre 1960.
+Cette surface est calculée selon les modalités définies à l'article R. 353-40 du code de la construction et de l'habitation.
 
 Ce loyer maximum est révisable chaque année, le 1er juillet, en fonction des variations de la moyenne sur quatre trimestres de l'indice du coût de la construction publié par l'Institut national de la statistique et des études économiques. Cette moyenne est celle de l'indice du coût de la construction à la date de référence et des indices des trois trimestres qui la précèdent. La date de référence de l'indice est celle du quatrième trimestre de l'année précédente.
 
