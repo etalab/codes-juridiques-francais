@@ -32,7 +32,9 @@ d) les immeubles classés parmi les monuments historiques ou inscrit à l'invent
 
 e) les bâtiments et les installations et travaux divers reconstruits après sinistre dans les conditions fixées au paragraphe II de l'article 1585 D du code général des impôts.
 
-f) Les installations et travaux divers qui sont destinés à être affectés à un service public ou d'utilité publique et réalisés par l'Etat, les collectivités locales ou leurs groupements ou l'un des services et organismes enumérés par le décret pris pour l'application du 1° du I de l'article 1585 C du code général des imp<CB>ts.
+f) Les installations et travaux divers qui sont destinés à être affectés à un service public ou d'utilité publique et réalisés par l'Etat, les collectivités locales ou leurs groupements ou l'un des services et organismes enumérés par le décret pris pour l'application du 1° du I de l'article 1585 C du code général des impôts.
+
+g) Les aménagements prescrits par un plan de prévention des risques naturels prévisibles ou un plan de prévention des risques technologiques sur des biens construits ou aménagés conformément aux dispositions du présent code avant l'approbation de ce plan et mis à la charge des propriétaires ou exploitants de ces biens.
 
 Le conseil général peut exonérer de la taxe départementale des espaces naturels sensibles, les locaux à usage d'habitation principale édifiés pour leur compte ou à titre de prestation de services par les organismes mentionnés à l'article L. 411-2 du code de la construction et de l'habitation et par les sociétés d'économie mixte définies par la loi n° 83-597 du 7 juillet 1983 ou celles à capitaux publics majoritaires réalisant des locaux à usage d'habitation principale financés à titre prépondérant au moyen de prêts ouvrant droit au bénéfice des dispositions prévues au titre V du livre III du code de la construction et de l'habitation.
 

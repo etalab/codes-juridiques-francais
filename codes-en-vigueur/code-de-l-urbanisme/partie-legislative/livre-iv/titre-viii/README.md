@@ -11,3 +11,4 @@
 - [Article L480-9](article-l480-9.md)
 - [Article L480-12](article-l480-12.md)
 - [Article L480-13](article-l480-13.md)
+- [Article L480-14](article-l480-14.md)

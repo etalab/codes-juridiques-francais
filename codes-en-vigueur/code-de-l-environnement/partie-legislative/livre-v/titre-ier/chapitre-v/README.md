@@ -5,3 +5,4 @@
 - [Section 3 : Installations susceptibles de donner lieu à des servitudes d'utilité publique](section-3)
 - [Section 4 : Installations où s'effectuent des opérations soumises à agrément](section-4)
 - [Section 5 : Installations d'élimination de déchets](section-5)
+- [Section 6 : Installations soumises à un plan de prévention des risques technologiques](section-6)

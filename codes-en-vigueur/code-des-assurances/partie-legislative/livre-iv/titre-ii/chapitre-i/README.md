@@ -6,3 +6,5 @@
 - [Section VI : Rôle du fonds de garantie en cas de retrait d'agrément administratif d'une entreprise d'assurance automobile.](section-vi)
 - [Section VIII : Dispositions particulières aux territoires d'outre-mer et à Mayotte.](section-viii)
 - [Section IX : Dispositions particulières applicables aux accidents d'automobile survenus à l'étranger.](section-ix)
+- [Section X : Dispositions spéciales aux catastrophes technologiques.](section-x)
+- [Section XI : Dispositions particulières applicables aux dommages immobiliers d'origine minière.](section-xi)

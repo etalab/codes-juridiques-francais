@@ -7,3 +7,4 @@
 - [Chapitre V : L'assurance des risques de catastrophes naturelles.](chapitre-v)
 - [Chapitre VI : L'assurance contre les actes de terrorisme](chapitre-vi)
 - [Chapitre VII : L'assurance de protection juridique.](chapitre-vii)
+- [Chapitre VIII : L'assurance des risques de catastrophes technologiques](chapitre-viii)

@@ -5,3 +5,4 @@
 - [Section 5 : Fédérations interdépartementales des chasseurs](section-5)
 - [Section 6 : Fédérations régionales des chasseurs](section-6)
 - [Section 7 : Fédération nationale des chasseurs](section-7)
+- [Section 8 : Dispositions diverses](section-8)
