@@ -2,4 +2,3 @@
 
 - [Définition.](definition)
 - [Obligations.](obligations)
-- [Tolérances.](tolerances)
