@@ -4,5 +4,4 @@
 - [Article 38 sexdecies L](article-38-sexdecies-l.md)
 - [Article 38 sexdecies K](article-38-sexdecies-k.md)
 - [Article 38 sexdecies N](article-38-sexdecies-n.md)
-- [Article 38 sexdecies O](article-38-sexdecies-o.md)
 - [Article 38 sexdecies OA](article-38-sexdecies-oa.md)

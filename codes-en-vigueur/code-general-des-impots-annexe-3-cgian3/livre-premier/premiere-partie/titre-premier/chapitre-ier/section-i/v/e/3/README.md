@@ -2,4 +2,3 @@
 
 - [Article 38 sexdecies RB](article-38-sexdecies-rb.md)
 - [Article 38 sexdecies RB bis](article-38-sexdecies-rb-bis.md)
-- [Article 38 sexdecies RC](article-38-sexdecies-rc.md)
