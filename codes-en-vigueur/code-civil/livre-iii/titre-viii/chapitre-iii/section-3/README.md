@@ -5,6 +5,7 @@
 - [Article 1789](article-1789.md)
 - [Article 1790](article-1790.md)
 - [Article 1791](article-1791.md)
+- [Article 1792](article-1792.md)
 - [Article 1793](article-1793.md)
 - [Article 1794](article-1794.md)
 - [Article 1795](article-1795.md)
