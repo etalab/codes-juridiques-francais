@@ -4,3 +4,4 @@
 - [CHAPITRE IV : Marchandage](chapitre-iv)
 - [CHAPITRE V : Cautionnements](chapitre-v)
 - [CHAPITRE VI : Groupements d'employeurs](chapitre-vi)
+- [CHAPITRE VIII : Titre de travail simplifié](chapitre-viii-titre)
