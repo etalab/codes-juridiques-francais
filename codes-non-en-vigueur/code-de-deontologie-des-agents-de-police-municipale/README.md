@@ -1,6 +1,0 @@
-# Code de déontologie des agents de police municipale
-
-- [TITRE PRÉLIMINAIRE.](titre-preliminaire)
-- [TITRE Ier : DEVOIRS GÉNÉRAUX DES AGENTS DE POLICE MUNICIPALE.](titre-ier)
-- [TITRE II : DROITS ET DEVOIRS RESPECTIFS DES AGENTS DE POLICE MUNICIPALE ET DES AUTORITÉS DE COMMANDEMENT.](titre-ii)
-- [TITRE III : DU CONTRÔLE DES POLICES MUNICIPALES.](titre-iii)

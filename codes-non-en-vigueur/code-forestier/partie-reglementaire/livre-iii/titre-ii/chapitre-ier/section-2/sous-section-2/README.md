@@ -1,9 +1,0 @@
-# Sous-section 2 : Déclaration d'utilité publique des travaux d'aménagement et d'équipement.
-
-- [Article R*321-26](article-r-321-26.md)
-- [Article R*321-27](article-r-321-27.md)
-- [Article R*321-28](article-r-321-28.md)
-- [Article R*321-29](article-r-321-29.md)
-- [Article R*321-30](article-r-321-30.md)
-- [Article R*321-31](article-r-321-31.md)
-- [Article R*321-32](article-r-321-32.md)

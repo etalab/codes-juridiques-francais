@@ -1,3 +1,0 @@
-# Article L513-3
-
-Lorsque le préfet a ordonné une opération d'échanges et cessions d'immeubles forestiers et a fixé le périmètre correspondant, la commission communale d'aménagement foncier prescrit une enquête publique destinée à recueillir les observations des propriétaires et titulaires de droits réels et personnels sur l'étendue de leurs droits sur les parcelles incluses dans le périmètre et à recenser les biens vacants et sans maître ou présumés vacants et sans maître ainsi que les éventualités de cessions de petites parcelles. Les modalités de cette enquête sont fixées par décret en Conseil d'Etat.

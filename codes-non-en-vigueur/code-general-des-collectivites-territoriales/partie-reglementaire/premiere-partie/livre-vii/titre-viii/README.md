@@ -1,3 +1,0 @@
-# TITRE VIII : DISPOSITIONS DIVERSES
-
-- [CHAPITRE UNIQUE](chapitre-unique)
