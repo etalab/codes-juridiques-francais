@@ -5,4 +5,3 @@
 - [Chapitre III : Dispositions relatives aux établissements d'enseignement agricole privés sous contrat](chapitre-iii)
 - [Chapitre IV : Conseils de l'enseignement agricole.](chapitre-iv)
 - [Article L810-1](article-l810-1.md)
-- [Article L810-2](article-l810-2.md)

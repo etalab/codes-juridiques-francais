@@ -1,9 +1,4 @@
 # LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE
 
 - [TITRE 1 : MESURES SANITAIRES GENERALES](titre-1)
-- [TITRE 1 BIS : TRANSPORTS SANITAIRES.](titre-1-bis)
-- [Titre 2 : Contrôle sanitaire aux frontières.](titre-2)
-- [Titre 2 bis : Lutte contre les maladies aux conséquences mortelles évitables](titre-2-bis)
 - [Titre 3 : Mesures d'hygiène particulières](titre-3)
-- [Titre 4 : Lutte contre les intoxications](titre-4)
-- [Titre 6 : Médecine prédictive, identification génétique et recherche génétique](titre-6)

@@ -7,7 +7,6 @@
 - [Code de déontologie médicale](code-de-deontologie-medicale)
 - [Code de déontologie vétérinaire](code-de-deontologie-veterinaire)
 - [Code de justice militaire](code-de-justice-militaire)
-- [Code de l'enseignement technique](code-de-l-enseignement-technique)
 - [Code de l'industrie cinématographique](code-de-l-industrie-cinematographique)
 - [Code de la consommation](code-de-la-consommation)
 - [Code de la route](code-de-la-route)
