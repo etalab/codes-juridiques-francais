@@ -1,6 +1,7 @@
 # Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques.
 
 - [Article 284](article-284.md)
+- [Article 285](article-285.md)
 - [Article 286](article-286.md)
 - [Article 287](article-287.md)
 - [Article 288](article-288.md)
