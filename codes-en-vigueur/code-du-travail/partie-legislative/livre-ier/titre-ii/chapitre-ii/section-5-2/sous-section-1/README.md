@@ -1,4 +1,4 @@
-# Sous-section 1 : Dispositions spécifiques au congé pour la création d'entreprise.
+# Sous-section 1 : Dispositions relatives au congé et à la période de travail à temps partiel pour la création ou la reprise d'entreprise.
 
 - [Article L122-32-12](article-l122-32-12.md)
 - [Article L122-32-13](article-l122-32-13.md)

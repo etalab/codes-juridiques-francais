@@ -6,7 +6,7 @@ Lorsque la société comporte plus d'un associé, le projet de cession est notif
 
 Si la société a refusé de consentir à la cession, les associés sont tenus, dans le délai de trois mois à compter de ce refus, d'acquérir ou de faire acquérir les parts à un prix fixé dans les conditions prévues à l'article 1843-4 du code civil. Toute clause contraire à l'article 1843-4 dudit code est réputée non écrite. A la demande du gérant, ce délai peut être prolongé une seule fois par décision de justice sans que cette prolongation puisse excéder six mois.
 
-La société peut également, avec le consentement de l'associé cédant, décider, dans le même délai, de réduire son capital du montant de la valeur nominale des parts de cet associé et de racheter ces parts au prix déterminé dans les conditions prévues ci-dessus. Un délai de paiement qui ne saurait excéder deux ans peut, sur justification, être accordé à la société par décision de justice. Les sommes dues portent intérêt au taux légal en matière commerciale. Le cas échéant, les dispositions de l'article L. 223-2 sont suivies.
+La société peut également, avec le consentement de l'associé cédant, décider, dans le même délai, de réduire son capital du montant de la valeur nominale des parts de cet associé et de racheter ces parts au prix déterminé dans les conditions prévues ci-dessus. Un délai de paiement qui ne saurait excéder deux ans peut, sur justification, être accordé à la société par décision de justice. Les sommes dues portent intérêt au taux légal en matière commerciale.
 
 Si, à l'expiration du délai imparti, aucune des solutions prévues aux troisième et quatrième alinéas ci-dessus n'est intervenue, l'associé peut réaliser la cession initialement prévue.
 
