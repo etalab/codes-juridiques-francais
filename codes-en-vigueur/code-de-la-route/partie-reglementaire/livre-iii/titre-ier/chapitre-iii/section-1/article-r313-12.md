@@ -6,7 +6,7 @@ I. - Tout véhicule à moteur ou toute remorque doit être muni d'un dispositif 
 
 II. - Pour les véhicules agricoles remorqués, ce dispositif peut être fixé sur un support amovible.
 
-III. - Les dispositions du I ci-dessus ne sont applicables ni aux cyclomoteurs à trois roues ni aux quadricycles légers à moteur, qui, toutefois, peuvent être munis d'un dispositif d'éclairage de la plaque d'immatriculation.
+III. - Les dispositions du I ci-dessus ne sont applicables ni aux cyclomoteurs ni aux quadricycles légers à moteur, qui, toutefois, peuvent être munis d'un dispositif d'éclairage de la plaque d'immatriculation.
 
 IV. - Les dispositions du présent article ne sont applicables aux véhicules et matériels spéciaux des services de secours et de lutte contre l'incendie que si elles sont compatibles avec leurs caractéristiques techniques de fabrication ou d'emploi.
 

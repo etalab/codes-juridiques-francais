@@ -10,7 +10,7 @@ III. - Lorsque la largeur d'un tricycle à moteur, d'un quadricycle à moteur ou
 
 IV. - Tout side-car équipant une motocyclette doit être muni d'un feu de position avant.
 
-V. - Les dispositions du I ci-dessus ne sont pas applicables aux cyclomoteurs à deux roues qui, toutefois, peuvent être munis d'un feu de position avant.
+V. - Les dispositions du I ci-dessus ne sont pas applicables aux cyclomoteurs à deux roues qui, toutefois, peuvent être munis d'un ou de deux feux de position avant.
 
 VI. - Tout véhicule et matériel agricole ou de travaux publics, automoteur, peut être muni de deux feux de position avant supplémentaires.
 
