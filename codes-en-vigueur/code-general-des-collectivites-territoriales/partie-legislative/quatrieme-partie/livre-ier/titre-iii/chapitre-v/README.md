@@ -5,3 +5,4 @@
 - [Section 3 : Indemnités des titulaires de mandats régionaux.](section-3)
 - [Section 4 : Protection sociale](section-4)
 - [Section 5 : Responsabilité de la région en cas d'accident.](section-5)
+- [Section 6 : Responsabilité des élus.](section-6)
