@@ -1,0 +1,3 @@
+# Article R244-1
+
+L'appréhension par l'Etat comme biens présumés vacants et sans maître des parcelles mentionnées à l'article L. 244-2 est réalisée par la direction générale des impôts (service des affaires foncières et domaniales) autorisée par arrêté préfectoral. Cet arrêté est inséré au recueil des actes administratifs de la préfecture. Il est publié par voie d'affiches et tous autres procédés en usage dans la commune de la situation des biens et dans les communes limitrophes. Le préfet peut, en outre, sur la proposition du directeur des services fiscaux procéder à toutes mesures supplémentaires de publicité qui lui paraissent nécessaires.

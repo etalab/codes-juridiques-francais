@@ -1,0 +1,3 @@
+# Article L321-12
+
+Dans les périmètres mentionnés au premier alinéa de l'article L. 321-11 et en dehors des périodes d'interdiction, les travaux de prévention des incendies de forêt effectués par les collectivités territoriales peuvent comprendre le brûlage dirigé des pâturages et des périmètres débroussaillés en application des articles L. 322-1 à L. 322-8, sous réserve du respect d'un cahier des charges arrêté par le préfet. L'acte déclarant l'utilité publique détermine, le cas échéant, les zones dans lesquelles il est interdit d'utiliser cette technique. Les propriétaires ou occupants des fonds concernés sont informés de ces opérations par affichage en mairie au moins un mois avant qu'elles n'aient lieu.
