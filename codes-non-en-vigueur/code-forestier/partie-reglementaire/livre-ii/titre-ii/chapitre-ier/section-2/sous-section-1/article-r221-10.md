@@ -1,19 +1,37 @@
 # Article R221-10
 
-Une commission, dite commission départementale des élections au centre régional de la propriété forestière, établit la composition du collège départemental sur la base des listes électorales transmises par les commissions communales. Cette commission vérifie et, éventuellement, rectifie les inscriptions.
+I. - Toute personne qui sollicite :
 
-Elle est constituée par arrêté du commissaire de la République et comprend :
+- son inscription, celle d'une personne morale ou d'une indivision, en tant que propriétaire ;
 
-- le commissaire de la République ou son représentant, président ;
+- la mention de son nom, soit en tant que représentant d'une indivision, soit en tant que représentant d'une personne morale dont il n'est pas le représentant légal,
 
-- le directeur départemental de l'agriculture et de la forêt ou son représentant ;
+sur la liste électorale, adresse au maire une demande écrite, dans le délai fixé au troisième alinéa de l'article R. 221-9.
 
-- le directeur départemental des services fiscaux ou son représentant ;
+II. - L'intéressé indique dans cette demande :
 
-- un administrateur du centre régional de la propriété forestière désigné par le conseil d'administration de cet établissement ;
+1° Ses nom et prénoms et, le cas échéant, la dénomination de la personne morale ou de l'indivision ;
 
-- un membre de la chambre départementale d'agriculture désigné par cette compagnie ;
+2° Pour une personne physique, ses date et lieu de naissance ;
 
-- le directeur du centre régional de la propriété forestière ou son représentant qui assure le secrétariat de la commission.
+3° Pour une personne physique, sa nationalité et, en cas de naturalisation, la référence du décret ayant prononcé celle-ci ;
 
-Celle-ci se réunit sur convocation de son président dans les conditions fixées par l'arrêté qui l'a constituée. Elle peut entendre toute personne dont l'audition lui paraît nécessaire.
+4° Son adresse et, le cas échéant, celle de la personne morale ou de l'indivision ;
+
+5° La qualité en laquelle l'inscription ou la mention est demandée ;
+
+6° Les références cadastrales et la surface des parcelles en nature de bois et forêts justifiant l'inscription demandée ;
+
+7° Pour une personne physique, la ou les communes du département dans laquelle, ou dans lesquelles, il remplit également les conditions pour être inscrit comme propriétaire ou mentionné comme représentant d'une ou plusieurs indivisions ou personnes morales.
+
+La demande est datée et signée.
+
+III. - Cette demande est accompagnée :
+
+1° Pour une personne physique de nationalité française, de la justification qu'elle remplit les conditions prévues pour être inscrite sur les listes établies pour les élections au suffrage universel ;
+
+2° Pour une personne physique, ressortissant d'un autre Etat de la Communauté européenne, d'une attestation de sa capacité électorale dans son Etat d'origine et de la justification qu'elle remplit les conditions légales autres que la nationalité pour être électeur et être inscrite sur une liste électorale en France ;
+
+3° Pour le représentant d'une personne morale dont il n'est pas le représentant légal, d'une pièce justificative l'habilitant à voter en son nom ;
+
+4° Pour le représentant de propriétaires indivis, soit d'un document le désignant comme gérant ou titulaire d'un mandat général d'administration de l'indivision, soit de toute autre pièce justifiant de son habilitation à voter au nom de l'indivision.

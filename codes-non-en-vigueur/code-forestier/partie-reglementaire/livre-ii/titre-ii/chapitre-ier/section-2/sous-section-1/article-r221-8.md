@@ -1,9 +1,17 @@
 # Article R221-8
 
-La liste électorale est établie dans chaque commune l'année précédant celle des élections par une commission composée du maire, président, d'un membre désigné par le préfet et d'un membre désigné par le conseil municipal, choisis, l'un et l'autre, parmi les personnes membres du collège départemental depuis six ans au moins ou, à défaut, parmi les propriétaires agricoles.
+La liste électorale prévue à l'article R. 221-6 est établie dans chaque département par une commission départementale des élections au centre régional de la propriété forestière. Cette commission est constituée par arrêté du préfet publié au Recueil des actes administratifs de la préfecture et comprend :
 
-Cette commission procède, compte tenu des informations dont elle dispose, aux radiations sur la dernière liste établie.
+- le préfet ou son représentant, président ;
 
-Prenant en considération la situation au 10 juin suivant, elle inscrit d'Office les personnes dont la capacité électorale lui est connue et, sur leur demande, celles qui sollicitent leur inscription dans les conditions prévues à l'article R. 221-9.
+- le directeur départemental de l'agriculture et la forêt ou son représentant ;
 
-Elle peut exiger des intéressés la production de toute pièce nécessaire à son information.
+- le directeur départemental des services fiscaux ou son représentant ;
+
+- un administrateur du centre régional de la propriété forestière, désigné par le conseil d'administration de cet établissement ;
+
+- un membre de la chambre départementale d'agriculture, désigné par elle ;
+
+- le directeur du centre régional de la propriété forestière ou son représentant, qui assure en outre le secrétariat de la commission.
+
+Celle-ci se réunit sur convocation de son président dans les conditions fixées par l'arrêté qui la constitue. Elle peut entendre toute personne dont l'audition lui paraît nécessaire.

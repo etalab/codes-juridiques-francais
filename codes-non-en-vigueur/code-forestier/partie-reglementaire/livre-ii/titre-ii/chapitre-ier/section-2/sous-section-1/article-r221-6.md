@@ -1,11 +1,11 @@
 # Article R221-6
 
-Pour la constitution du collège départemental, une liste électorale est dressée dans chaque commune.
+Pour la constitution du collège départemental, une liste électorale est établie dans chaque département.
 
-Un propriétaire forestier ne peut être inscrit à ce titre que sur la liste électorale de la commune de situation de ses bois ou, si ces bois sont situés sur plusieurs communes du département, que sur la liste électorale d'une seule de ces communes.
+Les personnes morales et les indivisions sont inscrites sur cette liste avec mention du représentant habilité à voter en leur nom. Pour les personnes morales, ce représentant est "le représentant légal", ainsi mentionné, à défaut de désignation par celles-ci d'un autre représentant pour voter en leur nom.
 
-Une personne représentant de propriétaires indivis ou d'une personne morale ne peut être inscrite, à l'un de ces titres, que sur la liste électorale de la commune ou de l'une des communes de situation des bois.
+Un propriétaire forestier ne peut être inscrit à ce titre qu'une fois sur la liste électorale d'un même département.
 
-Une même personne peut représenter, dans une ou plusieurs communes du département, plusieurs indivisions ou personnes morales.
+Une même personne peut représenter dans le département plusieurs indivisions ou personnes morales.
 
-Une personne représentant une ou plusieurs indivisions ou personnes morales peut, en outre, être inscrite comme propriétaire, à titre personnel, sur une liste électorale d'une commune du même département.
+Une personne représentant une ou plusieurs indivisions ou personnes morales peut, en outre, être inscrite comme propriétaire, à titre personnel, sur la liste du même département.
