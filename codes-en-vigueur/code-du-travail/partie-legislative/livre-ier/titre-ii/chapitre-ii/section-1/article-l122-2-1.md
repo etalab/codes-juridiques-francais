@@ -1,6 +1,6 @@
-# Article L124-2-7
+# Article L122-2-1
 
-Sans préjudice de l'application de l'article L. 321-14, dans un établissement où il a été procédé à un licenciement pour motif économique, dans les six mois qui suivent ce licenciement, il ne peut être fait appel à un salarié d'une entreprise de travail temporaire pour le motif d'accroissement temporaire de l'activité, y compris pour l'exécution d'une tâche occasionnelle, précisément définie et non durable, ne relevant pas de l'activité normale de l'entreprise utilisatrice.
+Sans préjudice de l'application de l'article L. 321-14, dans un établissement où il a été procédé à un licenciement pour motif économique et dans les six mois [*durée*] qui suivent ce licenciement, un salarié ne peut être embauché par contrat de travail à durée déterminée [*interdiction*] pour le motif d'accroissement temporaire de l'activité, y compris pour l'exécution d'une tâche occasionnelle, précisément définie et non durable, ne relevant pas de l'activité normale de l'entreprise.
 
 Cette interdiction s'applique aux postes concernés par ledit licenciement.
 
