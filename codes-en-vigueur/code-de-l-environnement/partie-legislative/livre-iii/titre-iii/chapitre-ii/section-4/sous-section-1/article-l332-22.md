@@ -10,7 +10,7 @@ II. - Ils sont aussi habilités à rechercher et à constater dans cette zone ma
 
 3° Les infractions à la police du balisage définies aux articles L. 331-1, L. 331-2 et R. 331-1 du code des ports maritimes ;
 
-4° Les infractions définies aux articles 3, 4, 7 et 8 de la loi n° 89-874 du 1er décembre 1989 relative aux biens culturels maritimes et modifiant la loi du 27 septembre 1941 portant réglementation des fouilles archéologiques ;
+4° Les infractions définies aux articles L. 532-3, L. 532-4, L. 532-7 et L. 532-8 du code du patrimoine ;
 
 5° Les infractions définies aux articles 2, 5 et 6 du décret du 9 janvier 1852 sur l'exercice de la pêche maritime.
 
