@@ -4,4 +4,4 @@ Dans les dispositions statutaires ou conventionnelles, est interdite toute claus
 
 Les dispositions du précédent alinéa ne s'appliquent pas aux dispositions statutaires ou conventionnelles concernant des dettes d'aliments.
 
-Doivent être regardées comme dettes d'aliments les rentes viagères constituées entre particuliers, notamment en exécution des dispositions du dernier alinéa de l'article 767 du code civil et de celles de l'article 1094-2 du même code.
+Doivent être regardées comme dettes d'aliments les rentes viagères constituées entre particuliers, notamment en exécution des dispositions de l'article 759 du code civil.
