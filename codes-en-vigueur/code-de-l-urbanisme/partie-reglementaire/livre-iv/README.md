@@ -5,3 +5,4 @@
 - [TITRE III : Permis de démolir](titre-iii)
 - [Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.](titre-iv)
 - [TITRE VI : Contrôle](titre-vi)
+- [TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres Ier à IV et VI du présent livre](titre-ix)
