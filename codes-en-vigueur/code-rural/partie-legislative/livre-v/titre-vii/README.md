@@ -1,4 +1,4 @@
 # Titre VII : Dispositions applicables à Mayotte
 
-- [Chapitre Ier : Dispositions générales.](chapitre-ier)
-- [Chapitre II : Dispositions particulières](chapitre-ii)
+- [Chapitre Ier : Chambre de l'agriculture, de la pêche et de l'aquaculture de Mayotte.](chapitre-ier)
+- [Chapitre II : Sociétés coopératives agricoles](chapitre-ii)

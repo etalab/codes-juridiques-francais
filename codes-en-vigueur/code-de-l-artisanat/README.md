@@ -6,4 +6,5 @@
 - [Titre VI : Des adjudications et des marchés](titre-vi)
 - [Titre VII : De l'assistance aux artisans sans travail.](titre-vii)
 - [Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer.](titre-viii)
+- [Titre VIII bis : Dispositions relatives à l'artisanat à Mayotte](titre-viii-bis)
 - [Titre IX : Dispositions diverses.](titre-ix)
