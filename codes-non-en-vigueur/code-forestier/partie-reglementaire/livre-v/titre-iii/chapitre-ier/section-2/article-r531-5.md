@@ -14,7 +14,7 @@ Il comprend :
 
 - le directeur du budget ou son représentant ;
 
-- le directeur du Trésor ou son représentant ;
+- le directeur général du Trésor et de la politique économique ou son représentant ;
 
 - le directeur de la comptabilité publique ou son représentant ;
 
