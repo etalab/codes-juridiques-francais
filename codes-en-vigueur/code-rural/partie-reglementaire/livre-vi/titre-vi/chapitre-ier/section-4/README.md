@@ -1,13 +1,11 @@
 # Section 4 : La sélection, la production, la circulation et la distribution des matériels de multiplication végétative de la vigne.
 
 - [Article R*661-25](article-r-661-25.md)
-- [Article R*661-26](article-r-661-26.md)
 - [Article R661-26](article-r661-26.md)
 - [Article R661-26-1](article-r661-26-1.md)
 - [Article R661-26-2](article-r661-26-2.md)
 - [Article R661-26-3](article-r661-26-3.md)
 - [Article R*661-27](article-r-661-27.md)
-- [Article R*661-28](article-r-661-28.md)
 - [Article R661-28](article-r661-28.md)
 - [Article R661-28-1](article-r661-28-1.md)
 - [Article R*661-28-2](article-r-661-28-2.md)
@@ -20,5 +18,4 @@
 - [Article R*661-33](article-r-661-33.md)
 - [Article R*661-34](article-r-661-34.md)
 - [Article R661-35](article-r661-35.md)
-- [Article R*661-36](article-r-661-36.md)
 - [Article R661-36](article-r661-36.md)
