@@ -1,4 +1,4 @@
-# Titre 6 : Médecine prédictive et identification génétique
+# Titre 6 : Médecine prédictive, identification génétique et recherche génétique
 
 - [Article L145-15](article-l145-15.md)
 - [Article L145-15-1](article-l145-15-1.md)
