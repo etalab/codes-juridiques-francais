@@ -10,6 +10,6 @@ A l'appui des candidatures ou des offres, il ne peut être exigé que :
 
 4° Les références du certificat visé à l'article 60 ;
 
-5° Les attestations visées à l'article 55 ; le cas échéant, la déclaration que le candidat verse à ses salariés leurs indemnités de congés payés et ne les met pas au chômage pour cause d'intempéries ;
+5° Les certificats, attestations et déclarations visés à l'article 55 ; le cas échéant, la déclaration que le candidat verse à ses salariés leurs indemnités de congés payés et ne les met pas au chômage pour cause d'intempéries ;
 
 6° Les documents ou attestations figurant à l'article R. 324-4 du code du travail.

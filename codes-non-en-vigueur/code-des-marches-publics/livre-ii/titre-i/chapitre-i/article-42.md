@@ -12,4 +12,4 @@ L'inexactitude des renseignements prévus aux 2°, 3°, 4°, 5° et 6° de l'art
 
 Les excédents de dépenses résultant de la régie ou de l'adjudication à la folle enchère ou de la passation d'un autre marché, après résiliation, sont prélevés sur les sommes qui peuvent être dues à l'entrepreneur, sans préjudice des droits à exercer contre lui en cas d'insuffisance. Les diminutions éventuelles de dépenses restent acquises à l'administration.
 
-Les dispositions du présent article concernent également l'inexactitude de l'attestation visée à l'article 55.
+Les dispositions du présent article concernent également l'inexactitude des attestations et déclarations visées à l'article 55.

@@ -1,19 +1,9 @@
-# Article *56
+# Article 56
 
-Dès qu'un marché a été conclu, l'administration contractante en avise les administrations, comptables et organismes chargés de l'assiette et du recouvrement des impôts et cotisations mentionnés à l'article 53.
+Pour les impôts ayant fait l'objet des attestations ou déclarations mentionnées à l'article 55, dès qu'un marché a été conclu, la personne responsable du marché en avise les administrations chargées de leur assiette et de leur recouvrement.
 
-Cette notification, établie sur les imprimés dont le modèle est arrêté par le ministre de l'économie et des finances et le ministre des affaires sociales, doit indiquer :
+A cette fin, elle adresse au directeur des services fiscaux et au trésorier-payeur général, outre une copie de l'attestation ou de la déclaration, une copie de la fiche établie dans le cadre du recensement prévu aux articles 35 à 37 du présent code.
 
-- le nom du titulaire du marché, l'adresse de son domicile ou siège social ;
+Les administrations chargées de l'assiette et les comptables chargés du recouvrement peuvent inviter le titulaire du marché à préciser, par nature d'impôts, les lieux où ont été souscrites les déclarations et les comptables auprès desquels ont été acquittés les impôts qui ont fait l'objet de l'attestation ou de la déclaration du candidat prévue à l'article 55.
 
-- la date du marché, sa nature, et, pour les marchés de travaux, le lieu d'exécution du marché ;
-
-- la date à laquelle le titulaire du marché a souscrit l'attestation visée à l'article 55 ;
-
-- le montant du marché et le comptable assignataire.
-
-Cette notification doit être adressée aux directeurs départementaux des impôts, au trésorier-payeur général et au directeur de la caisse primaire de sécurité sociale ou de l'union de recouvrement des cotisations de sécurité sociale et d'allocations familiales dans le ressort desquels le titulaire du marché a son domicile ou siège social.
-
-Les administrations, comptables et organismes chargés de l'assiette et du recouvrement peuvent inviter le titulaire du marché à préciser, par nature d'impôts et de cotisations, les lieux où ont été souscrites les déclarations et les comptables ou organismes auprès desquels ont été acquittés les impôts et cotisations qui ont fait l'objet de l'attestation prévue à l'article 55.
-
-Si l'attestation souscrite par le titulaire est inexacte, les administrations, comptables et organismes chargés de l'assiette et du recouvrement en avisent l'administration qui a conclu le marché.
+Si cette dernière attestation ou déclaration est inexacte, les administrations concernées en avisent l'administration qui a conclu le marché.

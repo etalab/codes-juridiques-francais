@@ -10,7 +10,9 @@ Tout projet de marché ou d'avenant fait l'objet d 'un rapport de la personne re
 
 4° Rend compte du déroulement de la procédure suivie ;
 
-5° Justifie, le cas échéant, l'introduction de critères de sélection des candidatures ou des offres autres que ceux prévus aux articles 91, 94 ter et 97, et motive le choix de l'offre retenue ;    6° Justifie les dérogations éventuellement apportées aux normes françaises homologuées et aux spécifications techniques approuvées par la section technique de la commission centrale des marchés ;
+5° Justifie, le cas échéant, l'introduction de critères de sélection des candidatures ou des offres autres que ceux prévus aux articles 91, 95, 97 et 97 bis, et motive le choix de l'offre retenue ;
+
+6° Justifie les dérogations éventuellement apportées aux normes françaises homologuées et aux spécifications techniques approuvées par la section technique de la commission centrale des marchés ;
 
 7° Précise, en matière de fournitures, si la fourniture provient d'un pays membre de la Communauté économique européenne, d'un autre pays signataire de l'accord général sur les tarifs douaniers et le commerce ou d'un autre pays.
 
