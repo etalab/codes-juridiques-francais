@@ -1,3 +1,3 @@
 # Article 345
 
-S'il n'a pas été formé de pourvoi, le jugement est exécuté dans les vingt-quatre heures après l'expiration du délai fixé pour le pourvoi.
+Les jugements rendus par le tribunal aux armées sont exécutés selon les règles du code de procédure pénale, sous réserve des dispositions du présent chapitre.

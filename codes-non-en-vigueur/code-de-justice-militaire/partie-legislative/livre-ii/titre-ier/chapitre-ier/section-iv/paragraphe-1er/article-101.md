@@ -1,3 +1,3 @@
 # Article 101
 
-Si les conditions légales d'une traduction directe devant la juridiction des forces armées ne sont pas réunies, ou si le commissaire du Gouvernement estime que l'affaire n'est pas en état d'être jugée, il transmet immédiatement toutes les pièces, avec ses réquisitions, au juge d'instruction.
+Les infractions de la compétence du tribunal aux armées sont instruites selon les dispositions du code de procédure pénale, sous réserve des dispositions particulières édictées par les articles 698-1 à 698-9 du même code et de celles édictées par la présente section.

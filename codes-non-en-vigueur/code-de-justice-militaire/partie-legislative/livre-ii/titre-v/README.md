@@ -1,9 +1,5 @@
 # Titre V : Des procédures particulières et des procédures d'exécution
 
-- [Chapitre Ier : Des jugements par défaut ou d'itératif défaut](chapitre-ier)
-- [Chapitre II : Du séquestre et de la confiscation des biens](chapitre-ii)
-- [Chapitre III : De la reconnaissance d'identité d'un condamné](chapitre-iii)
-- [Chapitre IV : Des règlements de juges et des renvois d'un tribunal à un autre tribunal](chapitre-iv)
 - [Chapitre V : Des crimes et délits contre les intérêts fondamentaux de la nation en temps de guerre](chapitre-v)
 - [Chapitre VI : De l'exécution des jugements](chapitre-vi)
 - [Chapitre VII : De l'exécution des peines](chapitre-vii)
@@ -13,5 +9,4 @@
 - [Chapitre XI : De la réhabilitation](chapitre-xi)
 - [Chapitre XII : De la prescription des peines](chapitre-xii)
 - [Chapitre XIII : Du casier judiciaire](chapitre-xiii)
-- [Chapitre XV : Des demandes présentées en vue d'être relevé des interdictions, déchéances ou incapacités](chapitre-xv)
 - [Chapitre XIV : Des frais de justice et de la contrainte par corps](chapitre-xiv)

@@ -1,3 +1,3 @@
 # Article 204
 
-Lorsque le tribunal statue en matière délictuelle ou contraventionnelle, il est saisi, soit par le renvoi des auteurs des infractions par le juge d'instruction, soit par la traduction directe des auteurs par le commissaire du Gouvernement, soit éventuellement par la chambre de contrôle de l'instruction.
+Lorsque, postérieurement à une condamnation non définitive prononcée par défaut contre un insoumis ou un déserteur, le ministère public près la juridiction qui a statué ou, en cas de suppression de cette juridiction, le ministère public près la juridiction compétente acquiert la preuve que le condamné défaillant ne se trouvait pas en état d'insoumission ou de désertion, il saisit le tribunal aux fins d'annulation du jugement rendu par défaut. Le tribunal statue sur requête du ministère public.
