@@ -6,5 +6,8 @@
 - [Article R*524-15](article-r-524-15.md)
 - [Article R*524-16](article-r-524-16.md)
 - [Article R*524-17](article-r-524-17.md)
+- [Article R*524-18](article-r-524-18.md)
+- [Article R*524-19](article-r-524-19.md)
 - [Article R*524-20](article-r-524-20.md)
 - [Article R*524-21](article-r-524-21.md)
+- [Article R*524-22](article-r-524-22.md)
