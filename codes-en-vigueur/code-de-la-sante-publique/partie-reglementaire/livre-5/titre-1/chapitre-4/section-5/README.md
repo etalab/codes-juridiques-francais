@@ -4,8 +4,3 @@
 - [Article R5054-1](article-r5054-1.md)
 - [Article R5054-2](article-r5054-2.md)
 - [Article R5054-3](article-r5054-3.md)
-- [Article R5055](article-r5055.md)
-- [Article R5055-1](article-r5055-1.md)
-- [Article R5055-2](article-r5055-2.md)
-- [Article R5055-3](article-r5055-3.md)
-- [Article R5055-4](article-r5055-4.md)
