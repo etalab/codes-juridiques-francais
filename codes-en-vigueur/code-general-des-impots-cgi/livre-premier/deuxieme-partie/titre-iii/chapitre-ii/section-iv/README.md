@@ -3,4 +3,5 @@
 - [I : Tabacs fabriqués.](i)
 - [C : Betteraves.](c)
 - [A bis : Alcools soumis au droit de consommation.](a-bis)
+- [E : Produits des exploitations forestières.](e)
 - [J : Farines.](j)
