@@ -2,6 +2,7 @@
 
 - [10° : Patrimoine artistique national](10)
 - [12° : Réunion de l'usufruit à la nue-propriété](12)
+- [13° : Warrants](13)
 - [2° : Actes de dépôt](2)
 - [3° : Actes de l'état civil](3)
 - [4° : Actes, archives, registres et documents détruits par suite d'événements de guerre, de sinistre ou de tout autre fait](4)
