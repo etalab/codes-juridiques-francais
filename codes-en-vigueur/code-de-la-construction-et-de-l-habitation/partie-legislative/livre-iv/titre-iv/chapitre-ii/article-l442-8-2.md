@@ -12,4 +12,6 @@ Les dispositions du chapitre Ier de la loi n° 48-1360 du 1er septembre 1948 pr�
 
 Un décret fixe, en tant que de besoin, les conditions d'application du présent article.
 
+Lorsque le bail de sous-location conclu en application de l'article L. 442-8-1 est résilié par décision judiciaire pour défaut de paiement de loyer et de charges, la signature d'un protocole prévu aux articles L. 353-15-2 ou L. 442-6-5 par le bailleur, le locataire et l'occupant, vaut titre d'occupation et donne droit au versement de l'aide personnalisée au logement prévue à l'article L. 351-1 du présent code ou des allocations de logement prévues aux articles L. 542-1, L. 755-21 et L. 831-1 du code de la sécurité sociale. Dans des conditions fixées par décret, le droit au versement de l'aide personnalisée au logement et des allocations de logement peut être étendu à la période comprise entre la résiliation du bail et la conclusion du protocole.
+
 Les dispositions des articles L. 442-1 à L. 442-6 ne sont pas applicables aux contrats de sous-location conclus en application du deuxième alinéa de l'article L. 442-8-1.

@@ -8,7 +8,7 @@ Le contrat d'insertion prévu à l'article L. 262-37 est établi au vu des élé
 
 3° Des activités ou stages destinés à acquérir ou à améliorer leurs compétences professionnelles ou à favoriser leur insertion en milieu de travail ;
 
-4° Un emploi aidé, notamment un contrat insertion-revenu minimum d'activité, ou une mesure d'insertion par l'activité économique ;
+4° Un emploi aidé, notamment un contrat insertion-revenu minimum d'activité, un contrat d'avenir ou une mesure d'insertion par l'activité économique ;
 
 5° Une assistance à la réalisation d'un projet de création ou de reprise d'une activité non salariée.
 

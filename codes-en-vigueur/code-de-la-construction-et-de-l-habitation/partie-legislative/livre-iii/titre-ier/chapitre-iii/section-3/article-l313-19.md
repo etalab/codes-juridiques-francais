@@ -16,7 +16,7 @@ L'Union d'économie sociale du logement :
 
 4° Donne, en considération des intérêts communs que l'union représente et des objectifs définis dans les conventions mentionnées au 2°, un avis conforme préalablement aux opérations par lesquelles les associés collecteurs :
 
-- constituent, cèdent ou transforment, avec les fonds issus de la participation des employeurs à l'effort de construction, des créances, dans des conditions qui dérogent aux recommandations mentionnées au 3° ;
+- constituent, cèdent ou transforment des créances ou accordent des subventions avec les fonds issus de la participation des employeurs à l'effort de construction, dans des conditions qui dérogent aux recommandations mentionnées au 3° ;
 
 - convertissent ou transforment en titres ou subventions des créances constituées avec les fonds de même provenance ;
 
@@ -26,4 +26,4 @@ L'Union d'économie sociale du logement :
 
 Les associés collecteurs communiquent à l'union les renseignements nécessaires à l'exercice de sa mission.
 
-Les statuts de l'union sont approuvés par décret en Conseil d'Etat.
+Les statuts de l'union sont approuvés par décret.

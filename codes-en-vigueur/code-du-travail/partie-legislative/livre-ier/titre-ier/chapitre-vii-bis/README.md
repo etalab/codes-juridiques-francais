@@ -7,3 +7,4 @@
 - [Article L117 BIS-5](article-l117-bis-5.md)
 - [Article L117 BIS-6](article-l117-bis-6.md)
 - [Article L117 BIS-7](article-l117-bis-7.md)
+- [Article L117 BIS-8](article-l117-bis-8.md)

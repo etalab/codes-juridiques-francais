@@ -10,7 +10,7 @@ Elles peuvent également recevoir un agrément lorsqu'elles assurent la fournitu
 
 Cet agrément ne peut être délivré qu'aux associations et aux entreprises, dont les activités concernent les tâches ménagères ou familiales, et, obligatoirement, soit la garde des enfants, soit l'assistance aux personnes âgées, handicapées ou à celles qui ont besoin d'une aide personnelle à leur domicile ou d'une aide à la mobilité dans l'environnement de proximité favorisant leur maintien à domicile.
 
-Dans le cas prévu au 1° ci-dessus, les associations et les entreprises peuvent demander aux employeurs une contribution représentative de leurs frais de gestion. Les dispositions de l'article L. 311-1 ne leur sont pas applicables.
+Dans le cas prévu au 1° ci-dessus, les associations et les entreprises peuvent demander aux employeurs une contribution représentative de leurs frais de gestion.
 
 Dans le cas prévu au 2° ci-dessus, l'activité des associations est réputée non lucrative au regard des articles L. 125-1 et L. 125-3.
 
@@ -26,4 +26,4 @@ II bis. - Les établissements publics assurant l'hébergement des personnes âg�
 
 III. - Un décret détermine les modalités et conditions de délivrance des agréments prévus au présent article, et notamment les conditions particulières auxquelles sont soumis les agréments des associations et des entreprises dont l'activité concerne la garde d'enfants ou l'assistance aux personnes âgées ou handicapées.
 
-Ce décret précise les conditions dans lesquelles les associations intermédiaries sont agréées dans ce domaine.
+Ce décret précise les conditions dans lesquelles les associations intermédiaires sont agréées dans ce domaine.

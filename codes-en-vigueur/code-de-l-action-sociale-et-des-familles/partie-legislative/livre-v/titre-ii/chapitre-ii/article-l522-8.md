@@ -1,6 +1,6 @@
 # Article L522-8
 
-L'agence d'insertion peut conclure avec les bénéficiaires du revenu minimum d'insertion des contrats d'insertion par l'activité. Ces contrats sont régis par les articles L. 322-4-7, L. 322-4-8 et L. 322-4-10 à L. 322-4-14 du code du travail.
+L'agence d'insertion peut conclure avec les bénéficiaires du revenu minimum d'insertion des contrats d'insertion par l'activité. Ces contrats sont régis par l'article L. 322-4-7 du code du travail.
 
 Les titulaires de contrats d'insertion par l'activité sont affectés à l'exécution des tâches d'utilité sociale prévues à l'article L. 522-1. Ces tâches sont assurées par l'agence elle-même ou par les personnes ou organismes mentionnés au premier alinéa de l'article L. 322-4-7 du code du travail.
 

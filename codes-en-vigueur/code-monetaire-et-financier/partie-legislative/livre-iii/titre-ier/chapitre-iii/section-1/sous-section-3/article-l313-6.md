@@ -4,7 +4,7 @@ Les règles relatives au fichier des incidents de paiement caractérisés sont f
 
 "Art. L. 333-4. - Il est institué un fichier national recensant les informations sur les incidents de paiement caractérisés liés aux crédits accordés aux personnes physiques pour des besoins non professionnels. Ce fichier est géré par la Banque de France. Il est soumis aux dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
-Les établissements de crédit visés par la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit ainsi que les services financiers de La Poste sont tenus de déclarer à la Banque de France les incidents visés à l'alinéa précédent.
+Les établissements de crédit visés par la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit ainsi que les services financiers de La Poste sont tenus de déclarer à la Banque de France les incidents visés à l'alinéa précédent. Les frais afférents à cette déclaration ne peuvent être facturés aux personnes physiques concernées.
 
 Dès que la commission instituée à l'article L. 331-1 est saisie par un débiteur en application du premier alinéa de l'article L. 331-3, elle en informe la Banque de France aux fins d'inscription au fichier institué au premier alinéa du présent article. La même obligation pèse sur le greffe du juge de l'exécution lorsque, sur recours de l'intéressé en application du deuxième alinéa de l'article L. 331-3, la situation visée à l'article L. 331-2 est reconnue par ce juge ou lorsque le débiteur a bénéficié de l'effacement des dettes résultant de la procédure de rétablissement personnel en application de l'article L. 332-9.
 
