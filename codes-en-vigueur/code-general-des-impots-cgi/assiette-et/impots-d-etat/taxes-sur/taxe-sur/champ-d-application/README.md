@@ -1,3 +1,0 @@
-# CHAMP D'APPLICATION
-
-- [OPERATIONS EXONEREES.](operations-exonerees)

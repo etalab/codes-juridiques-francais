@@ -1,18 +1,3 @@
 # IMPOTS D'ETAT
 
-- [DISPOSITIONS COMMUNES A L'ENSEMBLE DES CONTRIBUTIONS INDIRECTES](dispositions-communes-a)
-- [DISPOSITIONS COMMUNES AUX IMPOTS DIRECTS ET AUX TAXES SUR LE CHIFFRE D'AFFAIRES](dispositions-communes-aux)
-- [CONTRIBUTIONS INDIRECTES](contributions-indirectes)
-- [DROITS D'ENREGISTREMENT](droits-d-enregistrement)
-- [DROITS DE TIMBRE](droits-de-timbre)
-- [DROITS D'ENREGISTREMENT ET TAXE DE PUBLICITE FONCIERE](droits-d-enregistrement-et)
-- [ENREGISTREMENT, PUBLICITE FONCIERE ET TIMBRE](enregistrement-publicite-fonciere-et)
-- [IMPOTS DIRECTS ET TAXES ASSIMILEES](impots-directs-et)
-- [IMPOTS DIRECTS](impots-directs)
-- [MONOPOLES FISCAUX](monopoles-fiscaux)
-- [ENREGISTREMENT, PUBLICITE FONCIERE, IMPOT SUR LES GRANDES FORTUNES, TIMBRE](enregistrement-publicite-fonciere-impot-sur)
-- [IMPOT SUR LES GRANDES FORTUNES *IGF*](impot-sur)
-- [TAXE SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES](taxe-sur)
 - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES](taxes-sur)
-- [TAXE DE PUBLICITE FONCIERE](taxe-de-publicite-fonciere)
-- [TAXES DIVERSES](taxes-diverses)

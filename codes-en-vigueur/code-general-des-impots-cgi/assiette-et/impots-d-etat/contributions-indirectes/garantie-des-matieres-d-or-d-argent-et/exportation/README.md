@@ -1,6 +1,0 @@
-# EXPORTATION.
-
-- [Article 542](article-542.md)
-- [Article 545](article-545.md)
-- [Article 546](article-546.md)
-- [Article 547](article-547.md)

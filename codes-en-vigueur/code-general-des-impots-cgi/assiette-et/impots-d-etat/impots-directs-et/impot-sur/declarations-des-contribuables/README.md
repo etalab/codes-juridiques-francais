@@ -1,3 +1,0 @@
-# DECLARATIONS DES CONTRIBUABLES.
-
-- [Article 170](article-170.md)

@@ -1,3 +1,0 @@
-# FONDS DE GARANTIE AU PROFIT DES VICTIMES D'ACCIDENTS D'AUTOMOBILE.
-
-- [Article 159 quinquies](article-159-quinquies.md)

@@ -1,3 +1,0 @@
-# DETERMINATION DU PRIX DE REVIENT DES TERRAINS OU ENSEMBLES IMMOBILIERS.
-
-- [Article 302 septies B](article-302-septies-b.md)
