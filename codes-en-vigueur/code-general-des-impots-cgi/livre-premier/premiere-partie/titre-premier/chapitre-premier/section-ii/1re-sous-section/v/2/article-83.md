@@ -6,11 +6,7 @@ Le montant net du revenu imposable est déterminé en déduisant du montant brut
 
 1° bis Les cotisations afférentes au régime de retraite complémentaire institué par la caisse nationale de prévoyance de la fonction publique. Des décrets peuvent étendre le bénéfice de cette disposition aux régimes de retraites complémentaires constitués au profit des fonctionnaires et agents de l'Etat, des collectivités locales et des établissements publics, soit auprès d'organismes relevant du code de la mutualité, soit auprès d'entreprises d'assurances régies par le livre III du code des assurances.
 
-1° ter les versements des salariés et les contributions complémentaires de l'employeur aux plans d'épargne retraite prévus par la loi n° 97-277 du 25 mars 1997 créant les plans d'épargne retraite dans la limite de la plus élevée de ces deux valeurs : 5 % du montant brut de la rémunération ou 20 % du plafond annuel moyen retenu pour le calcul des cotisations de sécurité sociale ; l'excédent est ajouté à la rémunération.
-
-La différence entre, d'une part, la limite définie au premier alinéa et, d'autre part, les versements et les contributions complémentaires de l'employeur effectués au titre d'une année peut être utilisée au cours de l'une des trois années suivantes pour effectuer des versements complémentaires bénéficiant de l'exonération prévue au premier alinéa.
-
-Un décret fixe les conditions d'application de ces dispositions, et notamment les obligations déclaratives des employeurs et des salariés ;
+1° ter (abrogé à compter de l'entrée en vigueur de la loi n° 2002-73 du 17 janvier 2002).
 
 2° Les cotisations ou les primes versées aux organismes de retraite et de prévoyance complémentaires auxquels le salarié est affilié à titre obligatoire ainsi que les cotisations versées, à compter du 1er janvier 1993, à titre obligatoire au régime de prévoyance des joueurs professionnels de football institué par la charte du football professionnel.
 
@@ -52,13 +48,9 @@ Cette disposition est applicable dans les conditions fixées au 2° quater.
 
 La déduction à effectuer du chef des frais professionnels est calculée forfaitairement en fonction du revenu brut, après défalcation des cotisations, contributions et intérêts mentionnés aux 1° à 2° quinquies et à l'article 83 bis ; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 12 229 euros pour l'imposition des rémunérations perçues en 2001 ; chaque année, le plafond retenu pour l'imposition des revenus de l'année précédente est relevé dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
-Toutefois, en ce qui concerne les catégories de professions qui comportent des frais dont le montant est notoirement supérieur à celui résultant de l'application du pourcentage prévu au deuxième alinéa, un arrêté ministériel fixe le taux de la déduction dont les contribuables appartenant à ces professions peuvent bénéficier en sus de la déduction forfaitaire visée audit alinéa. Cette déduction supplémentaire est limitée à 50.000 F. Elle est calculée sur le montant global des rémunérations et des remboursements et allocations pour frais professionnels perçus par les intéressés, après application à ce montant de la déduction forfaitaire pour frais professionnels de 10 %.
+Le montant de la déduction forfaitaire pour frais professionnels ne peut être inférieur à 364 euros ou à 797 euros pour les personnes inscrites en tant que demandeurs d'emploi depuis plus d'un an, sans pouvoir excéder le montant brut des traitements et salaires. Cette disposition s'applique séparément aux rémunérations perçues par chaque membre du foyer fiscal désigné aux 1 et 3 de l'article 6.
 
-Pour l'imposition des revenus des années 1998, 1999 et 2000, la limite de 50 000 F mentionnée au troisième alinéa est respectivement fixée à 30 000 F, 20 000 F et 10 000 F.
-
-Le montant de la ou des déductions forfaitaires pour frais professionnels ne peut être inférieur à 364 euros ou à 797 euros pour les personnes inscrites en tant que demandeurs d'emploi depuis plus d'un an, sans pouvoir excéder le montant brut des traitements et salaires. Cette disposition s'applique séparément aux rémunérations perçues par chaque membre du foyer fiscal désigné aux 1 et 3 de l'article 6.
-
-Les sommes figurant au cinquième alinéa sont révisées chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
+Les sommes figurant au troisième alinéa sont révisées chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
 Les bénéficiaires de traitements et salaires sont également admis à justifier du montant de leurs frais réels, soit dans la déclaration visée à l'article 170, soit sous forme de réclamation adressée au service des impôts dans le délai prévu aux articles R. 196-1 et R. 196-3 du livre des procédures fiscales. Le montant des frais réels à prendre en compte au titre de l'acquisition des immeubles, des véhicules et autres biens dont la durée d'utilisation est supérieure à un an s'entend de la dépréciation que ces biens ont subie au cours de l'année d'imposition .
 
