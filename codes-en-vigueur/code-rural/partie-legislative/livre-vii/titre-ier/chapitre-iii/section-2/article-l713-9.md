@@ -23,3 +23,5 @@ A défaut d'accord entre des organisations syndicales d'employeurs et de salari�
 Le salarié dont le contrat de travail est résilié avant qu'il ait pu bénéficier de son repos compensateur ou avant qu'il ait acquis des droits suffisants pour pouvoir prendre ce repos reçoit une indemnité en espèces correspondant à ses droits acquis, déterminés suivant les modalités prévues au présent article. Cette indemnité est due sans qu'il y ait lieu de distinguer suivant que cette résiliation résulte du fait du salarié ou de l'employeur. Elle est également due aux ayants droit du salarié dont le décès survient avant qu'il ait pu bénéficier du repos compensateur auquel il avait droit ou avant qu'il ait acquis des droits suffisants pour pouvoir prendre ce repos. Elle est alors versée à ceux des ayants droit qui auraient qualité pour obtenir le paiement des salaires arriérés.
 
 L'indemnité prévue ci-dessus a le caractère de salaire.
+
+Les dispositions de la section 1 du chapitre III du titre Ier du livre II du code du travail sont applicables aux salariés mentionnés à l'article L. 713-1.
