@@ -8,3 +8,4 @@
 - [5 : Sociétés immobilières et assimilées](5)
 - [6 : Sociétés d'investissement et fonds communs de placement](6)
 - [7 : Départements et territoires d'outre-mer](7)
+- [8 : Conversion en euros du capital des sociétés](8)
