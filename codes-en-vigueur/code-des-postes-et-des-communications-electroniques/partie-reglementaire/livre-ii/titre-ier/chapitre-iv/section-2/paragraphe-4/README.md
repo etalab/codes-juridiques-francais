@@ -1,5 +1,6 @@
 # Paragraphe 4 : Services spéciaux
 
+- [1. : Service de réception et de traitement d'appels.](1)
 - [4. : Service de l'heure.](4)
 - [6. : Mise en relation directe.](6)
 - [7. : Communications en dehors des heures normales d'ouverture du service.](7)
