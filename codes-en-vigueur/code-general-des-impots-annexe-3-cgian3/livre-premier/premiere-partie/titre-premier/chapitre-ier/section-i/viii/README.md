@@ -6,4 +6,3 @@
 - [E : Titres de créances négociables](e)
 - [F : Émission par les sociétés françaises d'obligations à l'étranger. Régime spécial](f)
 - [G : Fonds communs de placement, fonds professionnels de capital investissement et fonds professionnels spécialisés](g)
-- [H : Profits réalisés sur le marché à terme d'instruments financiers.](h)
