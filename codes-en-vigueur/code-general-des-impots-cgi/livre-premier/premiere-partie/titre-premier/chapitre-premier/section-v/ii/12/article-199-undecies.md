@@ -1,6 +1,6 @@
 # Article 199 undecies
 
-1. Il est institué une réduction d'impôt sur le revenu pour les contribuables qui investissent dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, dans les territoires d'outre-mer et les collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon jusqu'au 31 décembre 2001.
+1. Il est institué une réduction d'impôt sur le revenu pour les contribuables qui investissent dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, dans les territoires d'outre-mer et les collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon jusqu'au ((31 décembre 2002)) (M).
 
 Elle s'applique :
 
@@ -12,7 +12,7 @@ c. Aux souscriptions au capital de sociétés civiles régies par la loi n° 70-
 
 d. Au montant des souscriptions en numéraire au capital des sociétés de développement régional de ces départements ou de sociétés soumises à l'impôt sur les sociétés dans les conditions de droit commun effectuant dans les douze mois de la clôture de la souscription des investissements productifs dans ces départements et dont l'activité réelle se situe dans les secteurs de l'industrie, de la pêche, de l'hôtellerie, du tourisme, des énergies nouvelles, de l'agriculture, du bâtiment et des travaux publics, des transports et de l'artisanat ;
 
-e. Au montant des souscriptions en numéraire au capital d'une société soumise à l'impôt sur les sociétés, mentionnée au II bis de l'article ((217 undecies)) (M) sous réserve de l'obtention d'un agrément préalable du ministre chargé du budget, délivré dans les conditions prévues au III du même article.
+e. Au montant des souscriptions en numéraire au capital d'une société soumise à l'impôt sur les sociétés, mentionnée au II bis de l'article 217 undecies sous réserve de l'obtention d'un agrément préalable du ministre chargé du budget, délivré dans les conditions prévues au III du même article.
 
 Lorsque la société affecte tout ou partie de la souscription à la construction d'immeubles destinés à l'exercice d'une des activités visées ci-dessus, elle doit s'engager à en achever les fondations dans les deux ans qui suivent la clôture de la souscription. La société doit s'engager à maintenir l'affectation des biens à l'activité dans les secteurs mentionnés ci-avant pendant les cinq ans qui suivent leur acquisition ou pendant leur durée normale d'utilisation si elle est inférieure.
 
@@ -22,11 +22,11 @@ La réduction d'impôt prévue au premier alinéa s'applique aux souscriptions a
 
 Un décret détermine les conditions d'application de l'alinéa précédent.
 
-La réduction d'impôt prévue au premier alinéa s'applique aux souscriptions en numéraire au capital de sociétés mentionnées au cinquième alinéa du II de l'article ((217 undecies)) (M).
+La réduction d'impôt prévue au premier alinéa s'applique aux souscriptions en numéraire au capital de sociétés mentionnées ((au troisième)) (M) alinéa du II de l'article 217 undecies.
 
 Les souscripteurs de parts ou actions des sociétés mentionnées au présent 1 doivent s'engager à les conserver pendant cinq ans à compter de la date de la souscription.
 
-2. Pour ouvrir droit à la réduction d'impôt, la constitution ou l'augmentation du capital des sociétés mentionnées au 1 et dont le montant est supérieur à 30.000.000 F doit avoir été portée, préalablement à sa réalisation, à la connaissance du ministre chargé du budget, et n'avoir pas appelé d'objection motivée de sa part dans un délai de trois mois. ((Il en est de même de la construction d'un ou plusieurs immeubles ayant fait l'objet d'un seul permis de construire dont le prix de revient est supérieur à 30 000 000 F ou de l'acquisition de logements situés dans de tels immeubles)) (M).
+2. Pour ouvrir droit à la réduction d'impôt, la constitution ou l'augmentation du capital des sociétés mentionnées au 1 et dont le montant est supérieur à 30.000.000 F doit avoir été portée, préalablement à sa réalisation, à la connaissance du ministre chargé du budget, et n'avoir pas appelé d'objection motivée de sa part dans un délai de trois mois. Il en est de même de la construction d'un ou plusieurs immeubles ayant fait l'objet d'un seul permis de construire dont le prix de revient est supérieur à 30 000 000 F ou de l'acquisition de logements situés dans de tels immeubles.
 
 3. La réduction d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année d'achèvement de l'immeuble, ou de son acquisition si elle est postérieure, ou de souscription des parts ou actions, et des quatre années suivantes. Chaque année, la base de la réduction est égale à 20 p. 100 des sommes effectivement payées à la date où le droit à réduction d'impôt est né.
 
@@ -56,4 +56,4 @@ La location d'un logement neuf consentie dans des conditions fixées par décret
 
 (1) Ces dispositions s'appliquent aux opérations intervenues à compter du 1er janvier 1994.
 
-(M) Modification de la loi 97-1269.
+(M) Modification.
