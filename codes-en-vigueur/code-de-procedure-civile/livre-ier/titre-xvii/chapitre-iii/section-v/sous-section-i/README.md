@@ -4,3 +4,4 @@
 - [Article 684](article-684.md)
 - [Article 685](article-685.md)
 - [Article 687](article-687.md)
+- [Article 688](article-688.md)
