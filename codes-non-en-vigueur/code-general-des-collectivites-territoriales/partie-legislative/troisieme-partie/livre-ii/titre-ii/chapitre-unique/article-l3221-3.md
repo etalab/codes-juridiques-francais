@@ -1,0 +1,7 @@
+# Article L3221-3
+
+- Le président du conseil général est seul chargé de l'administration. Il peut déléguer par arrêté, sous sa surveillance et sa responsabilité, l'exercice d'une partie de ses fonctions aux vice-présidents et, en l'absence ou en cas d'empêchement de ces derniers, à d'autres membres du conseil général. Ces délégations subsistent tant qu'elles ne sont pas rapportées.
+
+Le membre du conseil général ayant démissionné de la fonction de président de conseil général en application des articles LO 141 du code électoral, L. 2122-4, L. 4133-3 du présent code ou de l'article 6-2 de la loi n° 77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen ne peut recevoir de délégation jusqu'au terme de son mandat de conseiller général ou jusqu'à la cessation du mandat ou de la fonction l'ayant placé en situation d'incompatibilité.
+
+Le président du conseil général est le chef des services du département. Il peut, sous sa surveillance et sa responsabilité, donner délégation de signature en toute matière aux responsables desdits services.

@@ -1,0 +1,25 @@
+# Article L5214-16
+
+- I. - La communauté de communes exerce de plein droit au lieu et place des communes membres, pour la conduite d'actions d'intérêt communautaire, des compétences relevant de chacun des deux groupes suivants :
+
+1° Aménagement de l'espace ;
+
+2° Actions de développement économique intéressant l'ensemble de la communauté. Quand la communauté de communes opte pour le régime fiscal défini à l'article 1609 nonies C du code général des impôts, l'aménagement, la gestion et l'entretien des zones d'activité industrielle, commerciale, tertiaire, artisanale, touristique, portuaire ou aéroportuaire d'intérêt communautaire sont inclus dans cette compétence ;
+
+II. - La communauté de communes doit par ailleurs exercer dans les mêmes conditions des compétences relevant d'au moins un des quatre groupes suivants :
+
+1° Protection et mise en valeur de l'environnement, le cas échéant dans le cadre de schémas départementaux ;
+
+2° Politique du logement et du cadre de vie ;
+
+3° Création, aménagement et entretien de la voirie ;
+
+4° Construction, entretien et fonctionnement d'équipements culturels et sportifs et d'équipements de l'enseignement préélémentaire et élémentaire.
+
+III. - La définition des compétences transférées au sein de chacun des groupes est fixée par la majorité qualifiée requise pour la création de la communauté. ;
+
+IV. - L'intérêt communautaire des compétences exercées au sein des groupes mentionnés aux I et II est déterminé à la majorité qualifiée requise pour la création de la communauté de communes. ;
+
+V. - La communauté de communes peut attribuer des fonds de concours aux communes membres afin de contribuer à la réalisation ou au fonctionnement d'équipements d'intérêt commun.
+
+VI. - La communauté de communes, lorsqu'elle est dotée d'une compétence dans ce domaine, peut exercer le droit de préemption urbain dans les périmètres fixés, après délibération concordante de la ou des communes concernées, par le conseil de communauté pour la mise en oeuvre de la politique communautaire d'équilibre social de l'habitat.
