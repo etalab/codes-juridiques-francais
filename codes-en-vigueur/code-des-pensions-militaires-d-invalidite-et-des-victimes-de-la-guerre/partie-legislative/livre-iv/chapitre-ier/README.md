@@ -1,5 +1,6 @@
 # Chapitre Ier : Mention "Mort pour la France".
 
+- [Article L488](article-l488.md)
 - [Article L489](article-l489.md)
 - [Article L490](article-l490.md)
 - [Article L491](article-l491.md)
