@@ -1,0 +1,3 @@
+# Article L443-3
+
+Si la santé, la sécurité ou le bien-être physique et moral des personnes accueillies se trouvent menacés ou compromis par les conditions d'accueil, le représentant de l'Etat dans le département enjoint à la personne agréée de remédier aux insuffisances, inconvénients ou abus constatés dans le délai qu'il lui fixe à cet effet et en informe le président du conseil général. S'il n'a pas été satisfait à l'injonction dans ce délai ou, à tout moment, en cas d'urgence, il est mis fin à l'accueil. Cette mesure emporte retrait de l'agrément. Le président du conseil général en est immédiatement informé.

@@ -1,0 +1,5 @@
+# Article L232-14
+
+Les recours, tant devant une commission départementale que devant la commission centrale d'aide sociale, peuvent être exercés par le demandeur ou le bénéficiaire de la prestation ou, le cas échéant, son tuteur, par le maire de la commune de résidence, par le représentant de l'Etat dans le département, ou par le débiteur des avantages de vieillesse de l'intéressé. Afin de pouvoir exercer son droit de recours, le maire concerné est informé des décisions relatives à la prestation spécifique dépendance dans les mêmes délais que l'intéressé. La possibilité de faire appel des décisions des commissions départementales est également ouverte au président du conseil général.
+
+Le ministre chargé des personnes âgées peut faire usage de la voie de recours fixée par l'article L. 134-5 contre les décisions prises soit par le président du conseil général, soit par les commissions départementales mentionnées à l'article L. 232-13. Le délai de recours est fixé à deux mois à compter de la notification de la décision.

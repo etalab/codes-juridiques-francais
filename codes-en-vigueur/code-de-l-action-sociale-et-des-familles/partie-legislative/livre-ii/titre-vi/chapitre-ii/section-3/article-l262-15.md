@@ -1,0 +1,5 @@
+# Article L262-15
+
+L'instruction administrative et sociale du dossier est effectuée par l'organisme devant lequel la demande a été déposée. Cet organisme assume également la responsabilité de l'élaboration du contrat d'insertion mentionné à l'article L. 262-37 et en suit la mise en oeuvre. Il désigne en son sein, à cet effet, pour chaque bénéficiaire de contrat d'insertion, une personne chargée de coordonner la mise en oeuvre de différents aspects sociaux, économiques, éducatifs et sanitaires de ce contrat.
+
+Lorsque, pour l'application des dispositions de l'alinéa précédent, l'organisme instructeur n'a pas désigné, pour chaque bénéficiaire d'un contrat d'insertion, un accompagnateur chargé de coordonner la mise en oeuvre de différents aspects sociaux, économiques, éducatifs et sanitaires du contrat ou, en cas de difficulté, le président de la commission locale d'insertion formule des propositions pour cette désignation. Les organismes payeurs mentionnés à l'article L. 262-30 apportent leur concours à l'instruction administrative, en particulier pour ce qui concerne l'appréciation des ressources.

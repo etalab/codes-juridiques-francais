@@ -1,0 +1,5 @@
+# Article L226-6
+
+Un service d'accueil téléphonique gratuit concourt, à l'échelon national, à la mission de prévention des mauvais traitements et de protection des mineurs maltraités prévue au présent chapitre. L'Etat, les départements et des personnes morales de droit public ou privé, constituent à cette fin un groupement d'intérêt public.
+
+Ce service répond, à tout moment, aux demandes d'information ou de conseil concernant les situations de mineurs maltraités ou présumés l'être. Il transmet immédiatement au président du conseil général, selon le dispositif mis en place en application de l'article L. 226-3, les informations qu'il recueille et les appréciations qu'il formule à propos de ces mineurs. A cette fin, le président du conseil général informe le groupement des modalités de fonctionnement permanent du dispositif départemental. Ce service établit une étude épidémiologique annuelle au vu des informations qu'il a recueillies et de celles qui lui ont été transmises dans les conditions prévues à l'article L. 226-7.

@@ -1,0 +1,3 @@
+# Article L132-3
+
+Les ressources de quelque nature qu'elles soient à l'exception des prestations familiales, dont sont bénéficiaires les personnes placées dans un établissement au titre de l'aide aux personnes âgées ou de l'aide aux personnes handicapées, sont affectées au remboursement de leurs frais d'hébergement et d'entretien dans la limite de 90 %. Toutefois les modalités de calcul de la somme mensuelle minimum laissée à la disposition du bénéficiaire de l'aide sociale sont déterminées par décret. La retraite du combattant et les pensions attachées aux distinctions honorifiques dont le bénéficiaire de l'aide sociale peut être titulaire s'ajoutent à cette somme.

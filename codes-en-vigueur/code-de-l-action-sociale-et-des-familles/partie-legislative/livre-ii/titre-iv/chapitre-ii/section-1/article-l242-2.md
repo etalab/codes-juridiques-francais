@@ -1,0 +1,3 @@
+# Article L242-2
+
+Dans chaque département, la commission de l'éducation spéciale dont la composition et le fonctionnement sont déterminés par voie réglementaire, comprend notamment des personnes qualifiées nommées sur proposition des associations de parents d'élèves et des associations des familles des enfants et adolescents handicapés. Le président de la commission est désigné chaque année, soit par le représentant de l'Etat dans le département parmi les membres de la commission, soit, à la demande du représentant de l'Etat dans le département, par le président du tribunal de grande instance dans le ressort duquel la commission a son siège, parmi les magistrats de ce tribunal.

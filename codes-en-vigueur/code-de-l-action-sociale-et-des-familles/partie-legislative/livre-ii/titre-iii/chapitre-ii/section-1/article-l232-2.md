@@ -1,0 +1,3 @@
+# Article L232-2
+
+La demande de prestation spécifique dépendance est adressée au président du conseil général du département de résidence du demandeur qui informe du dépôt de celle-ci le maire de la commune de résidence. Elle est instruite par une équipe médico-sociale qui comprend au moins un médecin et un travailleur social et dont l'un au moins des membres se rend auprès de l'intéressé. Pour apprécier le besoin d'aide de celui-ci, le président du conseil général compétent en application des dispositions de l'article L. 232-6 se fonde notamment sur les conclusions de l'équipe médico-sociale.

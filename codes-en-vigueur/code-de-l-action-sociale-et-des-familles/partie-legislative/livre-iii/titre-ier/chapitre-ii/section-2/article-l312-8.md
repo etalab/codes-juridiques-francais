@@ -1,0 +1,5 @@
+# Article L312-8
+
+Les établissements assurant l'hébergement des personnes âgées mentionnées au 5° de l'article L. 312-1 et les établissements de santé mentionnés au 2° de l'article L. 6111-2 du code de la santé publique ne peuvent accueillir des personnes âgées remplissant les conditions de dépendance mentionnées au premier alinéa de l'article L. 232-1 que s'ils ont passé une convention pluriannuelle avec le président du conseil général et l'autorité compétente pour l'assurance maladie, qui respecte le cahier des charges établi par arrêté conjoint du ministre chargé des personnes âgées et du ministre chargé des collectivités territoriales, après avis des organismes nationaux d'assurance maladie et des représentants des conseils généraux.
+
+Cette convention définit les conditions de fonctionnement de l'établissement tant au plan financier qu'à celui de la qualité de la prise en charge des personnes et des soins qui sont prodigués à ces dernières, en accordant une attention particulière au niveau de formation du personnel d'accueil. Elle précise les objectifs d'évolution de l'établissement et les modalités de son évaluation.

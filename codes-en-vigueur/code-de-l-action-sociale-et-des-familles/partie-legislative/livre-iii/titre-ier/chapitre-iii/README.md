@@ -1,0 +1,15 @@
+# Chapitre III : Etablissements privés.
+
+- [Article L313-1](article-l313-1.md)
+- [Article L313-2](article-l313-2.md)
+- [Article L313-3](article-l313-3.md)
+- [Article L313-4](article-l313-4.md)
+- [Article L313-5](article-l313-5.md)
+- [Article L313-6](article-l313-6.md)
+- [Article L313-7](article-l313-7.md)
+- [Article L313-8](article-l313-8.md)
+- [Article L313-9](article-l313-9.md)
+- [Article L313-10](article-l313-10.md)
+- [Article L313-11](article-l313-11.md)
+- [Article L313-12](article-l313-12.md)
+- [Article L313-13](article-l313-13.md)

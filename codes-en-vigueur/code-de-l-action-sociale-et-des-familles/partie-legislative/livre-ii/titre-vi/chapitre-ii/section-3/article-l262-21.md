@@ -1,0 +1,3 @@
+# Article L262-21
+
+Dans le cas où le contrat est arrivé à échéance si, du fait de l'intéressé et sans motif légitime, le contrat n'a pas été renouvelé ou un nouveau contrat n'a pas pu être établi, le versement de l'allocation peut être suspendu par le représentant de l'Etat, après avis de la commission locale d'insertion, après que l'intéressé, assisté, le cas échéant, de la personne de son choix, a été mis en mesure de faire connaître ses observations. La suspension ne peut pas être prononcée lorsque la responsabilité du défaut de communication du contrat d'insertion est imputable aux services chargés de le conclure avec l'intéressé.

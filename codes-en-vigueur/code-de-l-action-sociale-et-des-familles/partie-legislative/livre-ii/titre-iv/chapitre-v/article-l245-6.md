@@ -1,0 +1,3 @@
+# Article L245-6
+
+Les dispositions des articles L. 821-3 et L. 821-4 du code de la sécurité sociale reproduits à l'article L. 244-1 du présent code sont applicables à l'allocation prévue à l'article L. 245-1, le plafond de ressources étant augmenté du montant de l'allocation accordée. Toutefois, les ressources provenant de son travail ne sont prises en compte que partiellement pour le calcul des ressources de l'intéressé. Il n'est exercé aucun recours en récupération de l'allocation compensatrice à l'encontre de la succession du bénéficiaire décédé lorsque ses héritiers sont son conjoint, ses enfants ou la personne qui a assumé, de façon effective et constante, la charge du handicapé.
