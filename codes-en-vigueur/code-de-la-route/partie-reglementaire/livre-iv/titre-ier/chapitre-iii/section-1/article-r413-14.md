@@ -1,6 +1,8 @@
 # Article R413-14
 
-I. - Le fait, pour tout conducteur d'un véhicule à moteur, de contrevenir aux dispositions relatives aux vitesses maximales fixées par le présent code ou édictées par l'autorité investie du pouvoir de police est puni de l'amende prévue pour les contraventions de la cinquième classe, en cas de dépassement de la vitesse maximale autorisée de 50 km/h ou plus, et de la quatrième classe, dans les autres cas.
+I. - Le fait, pour tout conducteur d'un véhicule à moteur, de dépasser de moins de 50 km/h la vitesse maximale autorisée fixée par le présent code ou édictée par l'autorité investie du pouvoir de police est puni de l'amende prévue pour les contraventions de la quatrième classe.
+
+Toutefois, lorsque le dépassement est inférieur à 20 km/h et que la vitesse maximale autorisée est supérieure à 50 km/h, l'amende encourue est celle prévue pour les contraventions de la troisième classe.
 
 II. - Toute personne coupable de l'infraction de dépassement de la vitesse maximale autorisée de 30 km/h ou plus encourt également les peines complémentaires suivantes :
 
@@ -12,7 +14,7 @@ II. - Toute personne coupable de l'infraction de dépassement de la vitesse maxi
 
 III. - Toute contravention prévue au présent article donne lieu, de plein droit à une réduction du nombre de points du permis de conduire dans les conditions suivantes :
 
-1° En cas de dépassement de la vitesse maximale autorisée de 40 km/h ou plus, réduction de quatre points ;
+1° En cas de dépassement de la vitesse maximale autorisée compris entre 40 km/h et moins de 50 km/h, réduction de quatre points ;
 
 2° En cas de dépassement de la vitesse maximale autorisée compris entre 30 km/h et moins de 40 km/h, réduction de trois points ;
 
