@@ -24,4 +24,6 @@ Des dispositions particulières concernant l'expropriation figurent notamment :
 
 Aux articles 6 et 7 du décret n° 79-1026 du 30 novembre 1979 pris pour l'application de la loi n° 76-1022 du 10 novembre 1976 relative à la création et à la protection des jardins familiaux ;
 
-- au titre Ier du décret n° 95-1115 du 17 octobre 1995 relatif à l'expropriation des biens exposés à certains risques naturels majeurs menaçant gravement des vies humaines.
+- au titre Ier du décret n° 95-1115 du 17 octobre 1995 relatif à l'expropriation des biens exposés à certains risques naturels majeurs menaçant gravement des vies humaines ;
+
+- au titre II du décret n° 2000-547 du 16 juin 2000 relatif à l'application des articles 94 et 95 du code minier.
