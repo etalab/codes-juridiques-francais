@@ -6,5 +6,4 @@
 - [Sous-section 4 : Dispositions relatives au foncier et à l'acquisition d'immeubles bâtis.](sous-section-4)
 - [Sous-section 5 : Sanctions.](sous-section-5)
 - [Article R331-1](article-r331-1.md)
-- [Article R331-1-1](article-r331-1-1.md)
 - [Article R331-2](article-r331-2.md)
