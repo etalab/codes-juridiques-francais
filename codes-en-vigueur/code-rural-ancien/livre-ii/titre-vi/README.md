@@ -4,7 +4,6 @@
 - [Article 285](article-285.md)
 - [Article 285-1](article-285-1.md)
 - [Article 285-2](article-285-2.md)
-- [Article 285-3](article-285-3.md)
 - [Article 285-4](article-285-4.md)
 - [Article 286](article-286.md)
 - [Article 287](article-287.md)
