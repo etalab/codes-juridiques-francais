@@ -1,4 +1,4 @@
-# III : Calcul des exonérations.
+# III : Modalités de versement et exonérations
 
 - [Article 140 J](article-140-j.md)
 - [Article 140 JA](article-140-ja.md)
