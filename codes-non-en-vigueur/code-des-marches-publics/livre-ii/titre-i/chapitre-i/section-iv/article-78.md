@@ -1,5 +1,7 @@
 # Article 78
 
-Les prestations faisant l'objet d'un marché sont réglées soit par des prix unitaires appliqués aux quantités réellement livrées ou exécutées, soit par des prix forfaitaires.
+Les prix des prestations faisant l'objet d'un marché sont soit des prix unitaires appliqués aux quantités réellement livrées ou exécutées, soit des prix forfaitaires.
 
-Le prix est ferme lorsqu'il ne peut être modifié à raison des variations des conditions économiques ; dans le cas contraire, les conditions de détermination du prix de règlement sont expressément prévues par le marché. Exceptionnellement, des marchés à prix provisoire peuvent être conclus dans les conditions fixées à l'article 105.
+Les marchés sont conclus à prix initial définitif. Exceptionnellement, ils peuvent être conclus à prix provisoire dans les conditions fixées à l'article 80. Les marchés peuvent également comporter exceptionnellement des prestations exécutées en régie ou rémunérées sur la base des dépenses contrôlées dans les conditions fixées à l'article 82.
+
+Des clauses incitatives au respect des délais, à la recherche d'une meilleure qualité des prestations et à la réduction des coûts de production peuvent être insérées dans les marchés.
