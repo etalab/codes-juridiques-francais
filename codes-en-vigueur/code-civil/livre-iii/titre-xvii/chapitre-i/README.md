@@ -1,6 +1,7 @@
 # Chapitre I : Du gage.
 
 - [Article 2073](article-2073.md)
+- [Article 2075](article-2075.md)
 - [Article 2076](article-2076.md)
 - [Article 2077](article-2077.md)
 - [Article 2078](article-2078.md)
