@@ -4,3 +4,4 @@
 - [Article L1611-2](article-l1611-2.md)
 - [Article L1611-3](article-l1611-3.md)
 - [Article L1611-4](article-l1611-4.md)
+- [Article L1611-6](article-l1611-6.md)

@@ -26,4 +26,4 @@ Il est créé, à compter de 2000, un fonds qui dispose en ressources du prélè
 
 Les sommes affectées à ce fonds ne sont pas prises en compte dans le montant de la dotation globale de fonctionnement pour l'application des I et II de l'article 57 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998).
 
-IV. - Pour l'application du I du présent article, la population de la commune à prendre en compte est celle définie à l'article R. 114-1 du code des communes.
+IV. - Pour l'application du I du présent article, la population de la commune à prendre en compte est la population totale obtenue par addition de la population municipale et de la population comptée à part.

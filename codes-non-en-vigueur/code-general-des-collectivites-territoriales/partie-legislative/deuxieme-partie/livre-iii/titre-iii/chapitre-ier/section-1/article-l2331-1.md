@@ -1,12 +1,12 @@
 # Article L2331-1
 
-- Les recettes fiscales de la section de fonctionnement comprennent :
+Les recettes fiscales de la section de fonctionnement comprennent :
 
 a) Le produit des impôts et des taxes dont l'assiette est établie et le recouvrement a lieu dans les formes prévues au code général des impôts, à savoir :
 
 1° Le produit de la redevance communale des mines ;
 
-2° Le produit du droit de licence des débitants de boissons ;
+2° Abrogé ;
 
 3° Le produit de l'impôt sur les spectacles, jeux et divertissements, ainsi que des majorations de l'impôt sur les spectacles, jeux et divertissements ;
 
@@ -20,6 +20,6 @@ b) Le produit des taxes dont la perception est autorisée par des lois dans l'in
 
 1° La part revenant à la commune du prélèvement progressif opéré par l'Etat sur le produit des jeux dans les casinos ;
 
-2° Le produit de la taxe afférente à la délivrance du permis de chasser ;
+2° Abrogé ;
 
 3° Jusqu'au 31 décembre 1995, le produit de la taxe d'usage des abattoirs publics.

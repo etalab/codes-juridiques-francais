@@ -14,7 +14,9 @@ Le prélèvement est réalisé dans les conditions suivantes :
 
 Les communes éligibles à la dotation de solidarité urbaine ou au fonds au titre de la même année sont exonérées de contribution au fonds.
 
-En 1996, la contribution des communes dont le potentiel fiscal est compris entre 1,4 et 1,5 fois le potentiel fiscal moyen par habitant des communes de la région d'Ile-de-France, et qui contribuent au fonds pour la première fois, fait l'objet d'un abattement de 50 p. 100.    Le prélèvement opéré en application du présent paragraphe ne peut excéder 5 p. 100 du montant des dépenses réelles de fonctionnement de la commune constatées dans le compte administratif afférent au pénultième exercice.
+En 1996, la contribution des communes dont le potentiel fiscal est compris entre 1,4 et 1,5 fois le potentiel fiscal moyen par habitant des communes de la région d'Ile-de-France, et qui contribuent au fonds pour la première fois, fait l'objet d'un abattement de 50 p. 100.
+
+Le prélèvement opéré en application du présent paragraphe ne peut excéder 5 p. 100 du montant des dépenses réelles de fonctionnement de la commune constatées dans le compte administratif afférent au pénultième exercice.
 
 Le produit de la taxe foncière sur les propriétés bâties, de la taxe foncière sur les propriétés non bâties, de la taxe d'habitation et de la taxe professionnelle inscrit à la section de fonctionnement du budget des communes soumises au prélèvement institué au présent article est diminué du montant de ce prélèvement. Celui-ci est imputé sur les attributions mentionnées au premier alinéa de l'article L. 2332-2.
 
@@ -40,7 +42,7 @@ Le prélèvement fait l'objet d'un plafonnement, à 20 % la première année, à
 
 III. - Pour l'application du II :
 
-- la population à prendre en compte est arrêtée dans les conditions prévues à l'article R. 114-1 du code des communes. Lorsque le recensement général de population de 1999 fait apparaître une variation de la population d'une commune, cette variation est prise en compte dans les conditions prévues aux troisième et quatrième alinéas de l'article L. 2334-2. ;
+- la population à prendre en compte est la population totale obtenue par addition de la population municipale et de la population comptée à part. Lorsque le recensement général de population de 1999 fait apparaître une variation de la population d'une commune, cette variation est prise en compte dans les conditions prévues aux troisième et quatrième alinéas de l'article L. 2334-2. ;
 
 - les bases totales d'imposition retenues sont les bases nettes de taxe professionnelle après exonérations, mais avant écrêtement au profit du fonds départemental de péréquation de la taxe professionnelle ;
 

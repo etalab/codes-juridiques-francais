@@ -6,7 +6,7 @@ Ils sont chargés d'assurer l'exécution des arrêtés de police du maire et de 
 
 Ils peuvent également constater par rapport le délit prévu par l'article L. 126-3 du code de la construction et de l'habitation.
 
-Ils exercent leurs fonctions sur le territoire communal, dans les conditions prévues aux quatrième à septième alinéas de l'article 21 du code de procédure pénale.
+Ils exercent leurs fonctions sur le territoire communal, dans les conditions prévues au 2° de l'article 21 du code de procédure pénale.
 
 A la demande des maires de plusieurs communes appartenant à un même établissement public de coopération intercommunale à fiscalité propre, celui-ci peut recruter, après délibération de deux tiers au moins des conseils municipaux des communes intéressées représentant plus de la moitié de la population totale de celles-ci, ou de la moitié au moins des conseils municipaux des communes représentant les deux tiers de la population, un ou plusieurs agents de police municipale, en vue de les mettre à disposition de l'ensemble de ces communes. Leur nomination en qualité de fonctionnaires stagiaires ne fait pas obstacle à leur mise à disposition.
 

@@ -1,5 +1,6 @@
 # CHAPITRE II : Adoption et exécution des budgets
 
+- [Article L1612-1](article-l1612-1.md)
 - [Article L1612-2](article-l1612-2.md)
 - [Article L1612-3](article-l1612-3.md)
 - [Article L1612-4](article-l1612-4.md)
@@ -16,6 +17,7 @@
 - [Article L1612-15](article-l1612-15.md)
 - [Article L1612-15-1](article-l1612-15-1.md)
 - [Article L1612-16](article-l1612-16.md)
+- [Article L1612-17](article-l1612-17.md)
 - [Article L1612-18](article-l1612-18.md)
 - [Article L1612-19](article-l1612-19.md)
 - [Article L1612-19-1](article-l1612-19-1.md)
