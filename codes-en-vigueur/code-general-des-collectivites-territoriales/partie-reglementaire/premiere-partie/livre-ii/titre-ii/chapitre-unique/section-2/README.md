@@ -10,3 +10,4 @@
 - [Article R1221-19](article-r1221-19.md)
 - [Article R1221-20](article-r1221-20.md)
 - [Article R1221-21](article-r1221-21.md)
+- [Article R1221-22](article-r1221-22.md)
