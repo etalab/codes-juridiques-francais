@@ -9,4 +9,5 @@
 - [Chapitre 6 : Financement.](chapitre-6)
 - [Chapitre 7 : Dispositions diverses.](chapitre-7)
 - [Chapitre 8 : Dispositions relatives aux départements d'outre-mer.](chapitre-8)
+- [Chapitre 9 : Dispositions finales.](chapitre-9)
 - [Article L146](article-l146.md)
