@@ -6,6 +6,7 @@
 - [Article 1840 A](article-1840-a.md)
 - [Article 1840 B](article-1840-b.md)
 - [Article 1840 E](article-1840-e.md)
+- [Article 1840 F](article-1840-f.md)
 - [Article 1840 G](article-1840-g.md)
 - [Article 1840 G bis](article-1840-g-bis.md)
 - [Article 1840 G bis A](article-1840-g-bis-a.md)

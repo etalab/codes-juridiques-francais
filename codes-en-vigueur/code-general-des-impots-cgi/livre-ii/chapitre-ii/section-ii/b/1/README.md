@@ -1,6 +1,7 @@
 # 1 : Sanctions fiscales
 
 - [Article 1784](article-1784.md)
+- [Article 1785 C](article-1785-c.md)
 - [Article 1786](article-1786.md)
 - [Article 1786 bis](article-1786-bis.md)
 - [Article 1788](article-1788.md)
