@@ -1,6 +1,5 @@
 # Titre Ier : Organisation de la main-d'oeuvre dans les entreprises de manutention (dockers).
 
-- [Article R*511-1](article-r-511-1.md)
 - [Article R511-1](article-r511-1.md)
 - [Article R511-2](article-r511-2.md)
 - [Article R511-2-1](article-r511-2-1.md)
