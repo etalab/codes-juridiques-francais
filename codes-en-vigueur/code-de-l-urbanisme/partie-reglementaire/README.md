@@ -1,7 +1,7 @@
 # Partie réglementaire - Décrets en Conseil d'Etat
 
 - [Livre Ier : Règles générales d'aménagement et d'urbanisme](livre-ier)
-- [Livre III : Aménagement foncier.](livre-iii)
+- [LIVRE III : Aménagement foncier TITRE II : Organismes d'exécution](livre-iii)
 - [LIVRE IV : Règles générales à l'acte de construire et à divers modes d'utilisation du sol](livre-iv)
 - [Livre V : Implantation des services, établissements et entreprises](livre-v)
 - [Droit de préemption Zones à urbaniser par priorité.](droit-de-preemption-zones-a)
