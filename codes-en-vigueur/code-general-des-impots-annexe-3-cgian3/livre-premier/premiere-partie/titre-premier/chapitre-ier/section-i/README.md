@@ -11,4 +11,3 @@
 - [X : Plus-values de cession à titre onéreux de biens ou de droits de toute nature](x)
 - [X quater : Report d'imposition de la plus-value constatée lors de la levée de l'option d'achat d'un immeuble acquis en crédit-bail et précédemment donné en sous-location](x-quater)
 - [XI : Dispositions communes aux différentes catégories de revenus](xi)
-- [M bis : Renseignements à fournir par les entreprises sur l'état mentionné à l'article 54 septies du code général des impôts.](m-bis)
