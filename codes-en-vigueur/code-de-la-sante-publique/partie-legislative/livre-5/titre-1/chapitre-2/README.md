@@ -12,6 +12,7 @@
 - [Article L529](article-l529.md)
 - [Article L530](article-l530.md)
 - [Article L531](article-l531.md)
+- [Article L531-1](article-l531-1.md)
 - [Article L532](article-l532.md)
 - [Article L533](article-l533.md)
 - [Article L534](article-l534.md)

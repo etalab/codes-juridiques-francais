@@ -1,0 +1,3 @@
+# Article L161-1
+
+Lorsque la sauvegarde de la vie de la mère gravement menacée exige soit une intervention chirurgicale, soit l'emploi d'une thérapeutique susceptible d'entraîner l'interruption de la grossesse, le médecin traitant ou le chirurgien devront obligatoirement prendre l'avis de deux médecins consultants, dont l'un pris sur la liste des experts près le tribunal de grande instance, qui, après examen et discussion, attesteront que la vie de la mère ne peut être sauvegardée qu'au moyen d'une telle intervention thérapeutique. Un des exemplaires de la consultation sera remis à la malade, les deux autres conservés par les deux médecins consultants.

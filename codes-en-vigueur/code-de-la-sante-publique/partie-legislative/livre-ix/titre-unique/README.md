@@ -3,3 +3,4 @@
 - [Chapitre II : Dispositions organiques](chapitre-ii)
 - [Chapitre III : Recrutement.](chapitre-iii)
 - [Chapitre VI : Discipline.](chapitre-vi)
+- [Dispositions finales.](dispositions-finales)
