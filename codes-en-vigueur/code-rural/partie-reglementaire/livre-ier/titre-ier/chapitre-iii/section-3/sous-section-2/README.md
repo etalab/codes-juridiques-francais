@@ -9,5 +9,4 @@
 - [Article R113-24](article-r113-24.md)
 - [Article R113-25](article-r113-25.md)
 - [Article R113-26](article-r113-26.md)
-- [Article R113-27](article-r113-27.md)
 - [Article R113-28](article-r113-28.md)
