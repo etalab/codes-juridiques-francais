@@ -1,4 +1,4 @@
-# Taxe parafiscale sur certaines viandes.
+# Taxe parafiscale sur les céréales et le riz.
 
 - [Article 363 D](article-363-d.md)
 - [Article 363 E](article-363-e.md)

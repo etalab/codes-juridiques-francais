@@ -7,3 +7,4 @@
 - [Article 278 sexies](article-278-sexies.md)
 - [Article 278 septies](article-278-septies.md)
 - [Article 279](article-279.md)
+- [Article 279 bis](article-279-bis.md)

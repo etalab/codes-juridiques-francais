@@ -9,4 +9,6 @@
 - [Article 261 G](article-261-g.md)
 - [Article 262](article-262.md)
 - [Article 262 bis](article-262-bis.md)
+- [Article 262 ter](article-262-ter.md)
+- [Article 262 quater](article-262-quater.md)
 - [Article 263](article-263.md)

@@ -8,3 +8,4 @@
 - [Article 99 bis](article-99-bis.md)
 - [Article 100](article-100.md)
 - [Article 100 bis](article-100-bis.md)
+- [Article 100 ter](article-100-ter.md)

@@ -15,3 +15,4 @@
 - [Article L900-4](article-l900-4.md)
 - [Article L900-4-1](article-l900-4-1.md)
 - [Article L900-5](article-l900-5.md)
+- [Article L900-6](article-l900-6.md)

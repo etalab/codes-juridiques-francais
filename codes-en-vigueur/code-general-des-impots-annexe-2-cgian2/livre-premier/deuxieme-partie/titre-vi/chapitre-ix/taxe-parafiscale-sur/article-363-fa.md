@@ -20,6 +20,6 @@ III. Pour le blé tendre, l'orge et le maïs, le taux maximal de la taxe est fix
 
 " Un arrêté des ministres chargés de l'économie, du budget et de l'agriculture fixe dans ces limites les montants de la taxe effectivement perçue (1). "
 
-IV. La taxe est assise, liquidée et recouvrée par la direction générale des impôts dans les mêmes conditions que la taxe parafiscale prévue à l'article 363 AE.
+IV. La taxe est assise, liquidée et recouvrée par la direction générale des douanes et droits indirects dans les mêmes conditions que la taxe parafiscale prévue à l'article 363 AE.
 
-(1) Pour la campagne 1986-1987, arrêté du 23 septembre 1986  (J.O. du 24). Pour la campagne 1988-1989, arreté à émettre.
+(1) Pour la campagne 1986-1987, arrêté du 23 septembre 1986 (J.O. du 24). Pour la campagne 1988-1989, arreté à émettre.

@@ -4,7 +4,7 @@ Il est pourvu aux dépenses ordinaires des chambres de métiers, de leurs instan
 
 Cette taxe comprend :
 
-a. un droit fixe par ressortissant, dont le maximum fixé à 500 F (1) est révisable lors du vote de la loi de finances de l'année. Ce droit fait obligatoirement l'objet d'une majoration comprise entre 50 % et 80 % de ce maximum en vue de financer des actions de formation continue. Ce droit peut également faire l'objet d'une majoration, destinée à financer des actions de développement dans la limite de 10 p. 100 de son maximum, qui alimente un fonds national créé à cet effet.
+a. un droit fixe par ressortissant, dont le maximum fixé à 525 F (1) est révisable lors du vote de la loi de finances de l'année. Ce droit fait obligatoirement l'objet d'une majoration comprise entre 50 % et 80 % de ce maximum en vue de financer des actions de formation continue. Ce droit peut également faire l'objet d'une majoration, destinée à financer des actions de développement dans la limite de 10 p. 100 de son maximum, qui alimente un fonds national créé à cet effet.
 
 Pour 1992, les chambres de métiers peuvent majorer au maximum de 6 F le montant du droit fixe tel qu'il est prévu en vue de la prise en charge de l'intégralité des dépenses relatives aux élections consulaires de 1992.
 
@@ -14,4 +14,4 @@ Toutefois, le régime applicable dans les départements du Bas-Rhin, du Haut-Rhi
 
 Les chefs d'entreprises individuelles titulaires de l'allocation supplémentaire du fonds national de solidarité prévue par la loi n° 56-639 du 30 juin 1956 sont dégrevés d'office de la taxe.
 
-(1) A compter de 1992.
+(1) A compter de 1993.

@@ -13,6 +13,7 @@
 - [Article 266 quater](article-266-quater.md)
 - [Article 266 quinquies](article-266-quinquies.md)
 - [Article 267](article-267.md)
+- [Article 267 bis](article-267-bis.md)
 - [Article 268](article-268.md)
 - [Article 268 bis](article-268-bis.md)
 - [Article 268 ter](article-268-ter.md)

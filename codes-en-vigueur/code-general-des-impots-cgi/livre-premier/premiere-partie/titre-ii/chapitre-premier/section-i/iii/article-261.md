@@ -6,7 +6,7 @@ Sont exonérés de la taxe sur la valeur ajoutée :
 
 1° et 2° (Abrogés) ;
 
-3° (Abrogé) ;
+3° (Abrogé).
 
 4° Les opérations à terme sur marchandises réalisées sur le marché mentionné à l'article 5 de la loi du 28 mars 1885 sur les marchés à terme à l'exclusion de celles qui déterminent l'arrêt de la filière ;
 
@@ -28,7 +28,7 @@ Sont exonérés de la taxe sur la valeur ajoutée :
 
 1° a. Sous réserve, le cas échéant, des dispositions de l'article 257-13° et 15°, les ventes de biens usagés faites par les personnes qui les ont utilisés pour les besoins de leurs exploitations.
 
-Toutefois, l'exonération ne s'applique pas aux biens qui ont ouvert droit à déduction complète ou partielle de la taxe sur la valeur ajoutée lors de leur acquisition, importation ou livraison à soi-même (3).
+Toutefois, l'exonération ne s'applique pas aux biens qui ont ouvert droit à déduction complète ou partielle de la taxe sur la valeur ajoutée lors de leur achat, acquisition intracommunautaire, importation ou livraison à soi-même (3).
 
 b. (Disposition périmée) ;
 
@@ -50,21 +50,21 @@ b. Par les entreprises qui, disposant d'une installation permanente, ont réalis
 
 4° a. Les prestations de services et les livraisons de biens qui leur sont étroitement liées, effectuées dans le cadre :
 
-- de l'enseignement primaire, secondaire et supérieur dispensé dans les établissements publics et les établissements privés régis par les lois des 15 mars 1850, 12 juillet 1875 et 30 octobre 1886 ;
+De l'enseignement primaire, secondaire et supérieur dispensé dans les établissements publics et les établissements privés régis par les lois des 15 mars 1850, 12 juillet 1875 et 30 octobre 1886 ;
 
-- de l'enseignement universitaire dispensé dans les établissements publics et dans les établissements privés visés à l'article 5 de la loi n° 68-978 du 12 novembre 1968 d'orientation de l'enseignement supérieur ;
+De l'enseignement universitaire dispensé dans les établissements publics et dans les établissements privés visés à l'article 5 de la loi n° 68-978 du 12 novembre 1968 d'orientation de l'enseignement supérieur ;
 
-- de l'enseignement technique ou professionnel réglementé par la loi du 25 juillet 1919 et le décret du 14 septembre 1956 ;
+De l'enseignement technique ou professionnel réglementé par la loi du 25 juillet 1919 et le décret du 14 septembre 1956 ;
 
-- de l'enseignement et de la formation professionnelle agricoles réglementés par la loi n° 60-791 du 2 août 1960 relative à l'enseignement et la formation professionnelle agricole ;
+De l'enseignement et de la formation professionnelle agricoles réglementés par la loi n° 60-791 du 2 août 1960 relative à l'enseignement et la formation professionnelle agricole ;
 
-- de la formation professionnelle continue assurée par les personnes morales de droit public, dans les conditions prévues par les articles L 900-1 et suivants du code du travail (livre IX) relatifs à la formation professionnelle continue dans le cadre de l'éducation permanente ;
+De la formation professionnelle continue assurée par les personnes morales de droit public, dans les conditions prévues par les articles L 900-1 et suivants du code du travail (livre IX) relatifs à la formation professionnelle continue dans le cadre de l'éducation permanente ;
 
-- de l'enseignement primaire, secondaire, supérieur ou technique à distance, dispensé par les organismes publics ou les organismes privés régis par la loi n° 71-556 du 12 juillet 1971 relative à la création et au fonctionnement des organismes privés dispensant un enseignement à distance ainsi qu'à la publicité et au démarchage faits par les établissements d'enseignement, et les textes subséquents ;
+De l'enseignement primaire, secondaire, supérieur ou technique à distance, dispensé par les organismes publics ou les organismes privés régis par la loi n° 71-556 du 12 juillet 1971 relative à la création et au fonctionnement des organismes privés dispensant un enseignement à distance ainsi qu'à la publicité et au démarchage faits par les établissements d'enseignement, et les textes subséquents ;
 
 b. les cours ou leçons relevant de l'enseignement scolaire, universitaire, professionnel, artistique ou sportif, dispensés par des personnes physiques qui sont rémunérées directement par leurs élèves ;
 
-5° 6° (Abrogé) (art. 5 VII, à compter du 1er octobre 1991);
+5° 6° (Abrogé) ;
 
 7° (Abrogé) (à compter du 1er avril 1991);
 
@@ -84,7 +84,9 @@ b. Les opérations de vente de terrains leur appartenant effectuées sans but lu
 
 c. (Devenu sans objet) ;
 
-d. Les opérations immobilières résultant de l'application des dispositions de l'article 15 modifié de la loi n° 60-808 du 5 août 1960 d'orientation agricole, réalisées par les sociétés d'aménagement foncier et d'établissement rural constituées en application de ce même article et agréées par le ministre de l'agriculture et le ministre du budget (4) ;
+par les sociétés d'aménagement foncier et d'établissement rural [*SAFER*] constituées en application de l'article L141-1 du même code et agréées par le ministre de l'agriculture et le ministre du budget (4) ;
+
+d. Les opérations immobilières résultant de l'application des dispositions de l'article 15 modifié de la loi n° 60-808 du 5 août 1960 d'orientation agricole, réalisées par les sociétés d'aménagement foncier et d'établissement rural [*SAFER*] constituées en application de l'article L141-1 du même code et agréées par le ministre de l'agriculture et le ministre du budget (4) ;
 
 Ces dispositions ne s'appliquent pas aux cessions d'immeubles acquis postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990.
 
@@ -126,9 +128,9 @@ Il en est de même des ventes consenties à leurs membres par ces organismes, da
 
 Toutefois, demeurent soumises à la taxe sur la valeur ajoutée, sous réserve des dispositions du b :
 
-- les opérations d'hébergement et de restauration ;
+Les opérations d'hébergement et de restauration ;
 
-- l'exploitation des bars et buvettes.
+L'exploitation des bars et buvettes.
 
 Ces dispositions sont également applicables aux unions d'associations qui répondent aux conditions ci-dessus, dans leurs rapports avec les membres des associations faisant partie de ces unions ;
 
@@ -138,11 +140,11 @@ c. Les recettes de six manifestations de bienfaisance ou de soutien organisées 
 
 d. Le caractère désintéressé de la gestion résulte de la réunion des conditions ci-après :
 
-- l'organisme doit être géré et administré à titre bénévole par des personnes n'ayant elles-mêmes, ou par personne interposée, aucun intérêt direct ou indirect dans les résultats de l'exploitation ;
+L'organisme doit être géré et administré à titre bénévole par des personnes n'ayant elles-mêmes, ou par personne interposée, aucun intérêt direct ou indirect dans les résultats de l'exploitation ;
 
-- l'organisme ne doit procéder à aucune distribution directe ou indirecte de bénéfice, sous quelque forme que ce soit ;
+L'organisme ne doit procéder à aucune distribution directe ou indirecte de bénéfice, sous quelque forme que ce soit ;
 
-- les membres de l'organisme et leurs ayants droit ne doivent pas pouvoir être déclarés attributaires d'une part quelconque de l'actif, sous réserve du droit de reprise des apports.
+Les membres de l'organisme et leurs ayants droit ne doivent pas pouvoir être déclarés attributaires d'une part quelconque de l'actif, sous réserve du droit de reprise des apports.
 
 Tous les organismes concernés par les a, b et c sont placés sous le régime du chiffre d'affaires réel ; un décret en Conseil d'Etat détermine leurs obligations ainsi que l'étendue et les modalités d'exercice de leurs droits à déduction (5) ;
 
@@ -161,6 +163,8 @@ Tous les organismes concernés par les a, b et c sont placés sous le régime du
 (2) Voir décret n° 64-285 du 2 avril 1964 (J.O. du 4).
 
 (3) Ces dispositions ne s'appliquent pas aux biens cédés à des personnes qui ont souscrit un contrat de crédit-bail ou de location avec option d'achat avant le 8 septembre 1989.
+
+Ces dispositions entrent en vigueur le 1er janvier 1993.
 
 (4) Cf. décret n° 61-610 du 14 juin 1961 (J.O. du 15).
 

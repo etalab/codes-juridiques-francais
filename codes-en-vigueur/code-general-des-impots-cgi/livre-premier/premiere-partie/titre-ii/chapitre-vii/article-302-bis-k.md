@@ -4,7 +4,7 @@ I. A compter du 1er janvier 1992, une taxe de sécurité et de sûreté au profi
 
 La taxe est exigible pour chaque vol commercial. Elle est assise sur le nombre de passagers embarquant en France selon le tarif suivant :
 
-15 F par passager embarqué à destination d'un territoire étranger ;
+17 F par passager embarqué à destination d'un territoire étranger ;
 
 10 F par passager embarqué vers d'autres destinations.
 

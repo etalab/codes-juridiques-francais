@@ -2,6 +2,7 @@
 
 - [Titre II : Taxes sur le chiffre d'affaires et taxes assimilées](titre-ii)
 - [Article 256](article-256.md)
+- [Article 256 bis](article-256-bis.md)
 - [Article 256 A](article-256-a.md)
 - [Article 256 B](article-256-b.md)
 - [Article 257](article-257.md)

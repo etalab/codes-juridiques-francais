@@ -1,6 +1,7 @@
 # Chapitre II : REGLES PROPRES AU CONTRAT DE TRAVAIL
 
 - [Section 4-1 : Règles particulières aux salariés candidats ou élus à l'Assemblée nationale ou au Sénat.](section-4-1)
+- [Section 4-2 : Règles particulières aux salariés devenus physiquement inaptes à leur emploi](section-4-2)
 - [Section 5-1 : Règles particulières aux salariés victimes d'un accident du travail ou d'une maladie professionnelle.](section-5-1)
 - [Section 5-2 : Congé pour la création d'entreprise, congé sabbatique](section-5-2)
 - [SECTION 1 : CONTRAT A DUREE DETERMINEE.](section-1)

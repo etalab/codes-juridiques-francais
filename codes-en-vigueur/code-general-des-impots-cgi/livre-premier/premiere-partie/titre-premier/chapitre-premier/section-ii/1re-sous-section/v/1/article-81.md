@@ -64,7 +64,7 @@ Ces dispositions pourront être étendues par décret en conseil d'Etat (1) aux 
 
 Les dispositions de l'alinéa précédent bénéficient également, dans les mêmes conditions et limites aux dividendes des actions de travail attribuées aux salariés des sociétés anonymes à participation ouvrière régies par la loi du 26 avril 1917, à compter du 1er janvier 1991 ;
 
-19° Dans la limite de 21,50 F [*montant*] par titre (2), le complément de rémunération résultant de la contribution de l'employeur à l'acquisition par le salarié des titres-restaurant émis conformément aux dispositions du titre III de l'ordonnance n° 67-830 du 27 septembre 1967, lorsque cette contribution est comprise entre un minimum et un maximum fixés par arrêté du ministre de l'économie et des finances (3).
+19° Dans la limite de 25 F [*montant*] par titre (2), le complément de rémunération résultant de la contribution de l'employeur à l'acquisition par le salarié des titres-restaurant émis conformément aux dispositions du titre III de l'ordonnance n° 67-830 du 27 septembre 1967, lorsque cette contribution est comprise entre un minimum et un maximum fixés par arrêté du ministre de l'économie et des finances (3).
 
 Cette exonération est subordonnée à la condition que le salarié se conforme aux obligations qui sont mises à sa charge par le titre III de l'ordonnance susvisée du 27 septembre 1967 et les textes pris pour son application (4) ;
 
