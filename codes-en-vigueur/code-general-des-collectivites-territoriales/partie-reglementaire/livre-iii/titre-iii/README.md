@@ -1,4 +1,4 @@
-# TITRE III : ÉTABLISSEMENTS PUBLICS D'AGGLOMÉRATION NOUVELLE
+# TITRE III : RECETTES
 
 - [Chapitre III : Contributions et taxes autres que celles prévues par le code général des impôts](chapitre-iii)
-- [Chapitre IV : Dispositions financières](chapitre-iv)
+- [Chapitre IV : Dotations et autres recettes réparties par le comité des finances locales](chapitre-iv)
