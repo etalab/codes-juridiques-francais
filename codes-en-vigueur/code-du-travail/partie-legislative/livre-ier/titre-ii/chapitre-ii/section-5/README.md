@@ -5,6 +5,7 @@
 - [Article L122-25-2](article-l122-25-2.md)
 - [Article L122-26](article-l122-26.md)
 - [Article L122-26-1](article-l122-26-1.md)
+- [Article L122-26-2](article-l122-26-2.md)
 - [Article L122-27](article-l122-27.md)
 - [Article L122-28](article-l122-28.md)
 - [Article L122-28-1](article-l122-28-1.md)
