@@ -7,3 +7,4 @@
 - [TITRE V : DISPOSITIONS CONCERNANT LE PERMIS DE CONDUIRE.](titre-v)
 - [TITRE VI : DISPOSITIONS GÉNÉRALES.](titre-vi)
 - [TITRE VII : ENSEIGNEMENT DE LA CONDUITE DES VÉHICULES À MOTEUR.](titre-vii)
+- [TITRE VIII : Enregistrement et communication des informations relatives à la documentation exigée pour la conduite et la circulation des véhicules.](titre-viii)
