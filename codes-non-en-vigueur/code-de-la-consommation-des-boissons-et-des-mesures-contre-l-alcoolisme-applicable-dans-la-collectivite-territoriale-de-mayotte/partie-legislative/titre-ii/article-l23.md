@@ -1,6 +1,6 @@
 # Article L23
 
-Les infractions aux dispositions des articles L. 21 et L. 22 seront punies d'une amende de 25 000 F [*sanctions*].
+Les infractions aux dispositions de l'article L. 22 seront punies d'une amende de 25 000 F [*sanctions*].
 
 En outre, le jugement prononcera la fermeture définitive du débit ou des débits ouverts ou maintenus indûment.
 

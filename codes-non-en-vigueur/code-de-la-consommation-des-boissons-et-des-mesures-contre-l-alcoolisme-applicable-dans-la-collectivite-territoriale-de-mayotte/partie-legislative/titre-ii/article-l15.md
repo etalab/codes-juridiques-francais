@@ -6,4 +6,4 @@ Les restaurants qui ne seront pas titulaires d'une licence de débit de boissons
 
 2° La "licence restaurant" proprement dite qui permet de vendre pour consommer sur place toutes les boissons dont la consommation est autorisée, mais seulement à l'occasion des principaux repas et comme accessoires de la nourriture.
 
-Les établissements dont il s'agit ne sont soumis ni aux interdictions visées aux articles L. 20 et L. 21 ni à la réglementation établie en application de l'article L. 40.
+Les établissements dont il s'agit ne sont soumis ni à l'interdiction visée à l'article L. 20 ni à la réglementation établie en application de l'article L. 40.
