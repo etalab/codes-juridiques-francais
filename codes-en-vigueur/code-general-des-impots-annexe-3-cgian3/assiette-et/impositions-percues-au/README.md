@@ -2,4 +2,3 @@
 
 - [CONTRIBUTIONS INDIRECTES](contributions-indirectes)
 - [ENREGISTREMENT](enregistrement)
-- [IMPOTS DIRECTS ET TAXES ASSIMILEES](impots-directs-et)
