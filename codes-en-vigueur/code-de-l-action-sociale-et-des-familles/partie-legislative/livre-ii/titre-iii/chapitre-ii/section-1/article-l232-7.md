@@ -1,3 +1,0 @@
-# Article L232-7
-
-Pour l'instruction et le suivi de la prestation spécifique dépendance, le département peut conclure des conventions avec des institutions et organismes publics sociaux ou médico-sociaux, notamment les centres communaux ou intercommunaux d'action sociale, des organismes régis par le code de la mutualité ou des associations. Ces conventions doivent être conformes à une convention-cadre fixée par arrêté conjoint du ministre chargé des personnes âgées et du ministre chargé des collectivités territoriales, pris après avis des représentants des présidents de conseils généraux et des maires.

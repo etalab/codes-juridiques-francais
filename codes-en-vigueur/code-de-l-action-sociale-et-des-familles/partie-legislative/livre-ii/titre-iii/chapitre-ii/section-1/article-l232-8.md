@@ -1,7 +1,0 @@
-# Article L232-8
-
-Le montant de la prestation accordée est modulé en fonction du besoin de surveillance et d'aide requis par l'état de dépendance de l'intéressé, tel qu'il est évalué par l'équipe médico-sociale mentionnée à l'article L. 232-2 à l'aide d'une grille nationale fixée par décret. Ce montant varie également selon que l'intéressé réside à domicile ou est hébergé dans un établissement mentionné à l'article L. 232-23.
-
-Les montants maximum et minimum de la prestation pour chaque niveau de dépendance défini par la grille nationale visée à l'alinéa précédent sont fixés, d'une part, pour les personnes hébergées en établissement, d'autre part, pour les personnes âgées résidant à leur domicile, par le règlement départemental d'aide sociale. Le montant maximal de la prestation pour le niveau de dépendance le plus élevé ne peut être inférieur à un pourcentage, fixé par décret, de la majoration pour aide constante d'une tierce personne mentionnée à l'article L. 355-1 du code de la sécurité sociale.
-
-Compte tenu des règles de tarification des établissements mentionnés à l'article L. 232-23, un décret peut fixer, pour chaque niveau de dépendance, des seuils minima pour les montants visés à l'alinéa précédent de la prestation accordée aux personnes hébergées dans ces établissements, par référence à la majoration pour aide constante d'une tierce personne, mentionnée à l'article L. 355-1 du code de la sécurité sociale.
