@@ -1,4 +1,0 @@
-# CHAPITRE II : Police municipale
-
-- [Section 1 : Convention type de coordination de la police municipale et des forces de sécurité de l'Etat](section-1)
-- [Section 2 : Commission consultative des polices municipales](section-2)
