@@ -2,6 +2,7 @@
 
 - [Paragraphe 1 : Des soustractions commises par les dépositaires publics.](paragraphe-1)
 - [Paragraphe 2 : Des concussions commises par les fonctionnaires publics.](paragraphe-2)
+- [Paragraphe 3 : Des délits de fonctionnaires qui se seront ingérés dans des affaires ou commerces incompatibles avec leur qualité.](paragraphe-3)
 - [Paragraphe 4 : De la corruption des fonctionnaires publics et des employés des entreprises privées.](paragraphe-4)
 - [Paragraphe 5 : Des abus d'autorité](paragraphe-5)
 - [Article 166](article-166.md)

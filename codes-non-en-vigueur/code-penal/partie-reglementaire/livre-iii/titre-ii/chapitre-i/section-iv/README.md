@@ -12,4 +12,5 @@
 - [Article 335-4](article-335-4.md)
 - [Article 335-5](article-335-5.md)
 - [Article 335-6](article-335-6.md)
+- [Article 335-7](article-335-7.md)
 - [Article 340](article-340.md)
