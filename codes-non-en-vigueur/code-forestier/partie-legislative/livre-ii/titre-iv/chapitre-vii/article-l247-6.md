@@ -1,0 +1,3 @@
+# Article L247-6
+
+Dans le cas où s'exercent, dans le périmètre d'une association syndicale de gestion forestière autorisée, des droits d'usage ou d'exploitation incompatibles avec la réalisation de l'un ou de l'autre de ses objectifs, l'association peut, à défaut d'accord amiable, demander au tribunal d'instance une modification des modalités d'exercice de ces droits, notamment leur localisation dans une partie du périmètre ou sur des terrains acquis par les propriétaires à l'extérieur de ce périmètre. Le tribunal alloue, s'il y a lieu, des indemnités compensatrices. Les dispositions du présent article sont applicables aux servitudes de droit privé.
