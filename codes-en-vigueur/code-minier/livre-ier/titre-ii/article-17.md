@@ -1,3 +1,3 @@
-# Article 117
+# Article 17
 
 (texte abrogé).

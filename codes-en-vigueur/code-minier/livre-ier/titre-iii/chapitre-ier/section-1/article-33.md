@@ -1,3 +1,3 @@
-# Article 92
+# Article 33
 
 (texte abrogé).
