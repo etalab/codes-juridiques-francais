@@ -1,6 +1,5 @@
 # Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré.
 
-- [Article R*421-9](article-r-421-9.md)
 - [Article R*421-10](article-r-421-10.md)
 - [Article R*421-26](article-r-421-26.md)
 - [Article R*421-27](article-r-421-27.md)
