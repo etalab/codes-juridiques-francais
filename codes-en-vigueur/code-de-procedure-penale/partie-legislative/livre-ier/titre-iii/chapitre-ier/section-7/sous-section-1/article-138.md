@@ -1,6 +1,6 @@
 # Article 138
 
-Le contrôle judiciaire peut être ordonné par le juge d'instruction si la personne mise en examen encourt une peine d'emprisonnement correctionnel ou une peine plus grave.
+Le contrôle judiciaire peut être ordonné par le juge d'instruction ou par le juge des libertés et de la détention si la personne mise en examen encourt une peine d'emprisonnement correctionnel ou une peine plus grave.
 
 Ce contrôle astreint la personne concernée à se soumettre, selon la décision du juge d'instruction, à une ou plusieurs des obligations ci-après énumérées :
 
@@ -12,9 +12,9 @@ Ce contrôle astreint la personne concernée à se soumettre, selon la décision
 
 4° Informer le juge d'instruction de tout déplacement au-delà de limites déterminées ;
 
-5° Se présenter périodiquement aux services ou autorités désignés par le juge d'instruction qui sont tenus d'observer la plus stricte discrétion sur les faits reprochés à la personne mise en examen ;
+5° Se présenter périodiquement aux services, associations habilitées ou autorités désignés par le juge d'instruction qui sont tenus d'observer la plus stricte discrétion sur les faits reprochés à la personne mise en examen ;
 
-6° Répondre aux convocations de toute autorité ou de toute personne qualifiée désignée par le juge d'instruction et se soumettre, le cas échéant, aux mesures de contrôle portant sur ses activités professionnelles ou sur son assiduité à un enseignement ;
+6° Répondre aux convocations de toute autorité, de toute association ou de toute personne qualifiée désignée par le juge d'instruction et se soumettre, le cas échéant, aux mesures de contrôle portant sur ses activités professionnelles ou sur son assiduité à un enseignement ainsi qu'aux mesures socio-éducatives destinées à favoriser son insertion sociale et à prévenir la récidive ;
 
 7° Remettre soit au greffe, soit à un service de police ou à une brigade de gendarmerie tous documents justificatifs de l'identité, et notamment le passeport, en échange d'un récépissé valant justification de l'identité ;
 
@@ -24,7 +24,7 @@ Ce contrôle astreint la personne concernée à se soumettre, selon la décision
 
 10° Se soumettre à des mesures d'examen, de traitement ou de soins, même sous le régime de l'hospitalisation, notamment aux fins de désintoxication ;
 
-11° Fournir un cautionnement dont le montant et les délais de versement, en une ou plusieurs fois, sont fixés par le juge d'instruction, compte tenu notamment des ressources de la personne mise en examen ;
+11° Fournir un cautionnement dont le montant et les délais de versement, en une ou plusieurs fois, sont fixés par le juge d'instruction, compte tenu notamment des ressources et des charges de la personne mise en examen ;
 
 12° Ne pas se livrer à certaines activités de nature professionnelle ou sociale, à l'exclusion de l'exercice des mandats électifs et des responsabilités syndicales, lorsque l'infraction a été commise dans l'exercice ou à l'occasion de l'exercice de ces activités et lorsqu'il est à redouter qu'une nouvelle infraction soit commise. Lorsque l'activité concernée est celle d'un avocat, le conseil de l'ordre, saisi par le juge d'instruction, a seul le pouvoir de prononcer cette mesure à charge d'appel, dans les conditions prévues aux articles 23 et 24 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques ; le conseil de l'ordre statue dans les quinze jours ;
 
