@@ -1,0 +1,3 @@
+# Article L122-17
+
+Les privilèges autres que ceux énumérés à l'article L. 122-14 ne prennent rang qu'après les hypothèques dont l'inscription est antérieure à la naissance de ces privilèges. Toutefois, en cas de vente en France d'un aéronef grevé dans un Etat partie à la convention relative à la reconnaissance internationale des droits sur aéronefs signée à Genève le 19 juin 1948, les droits prévus à l'article 1er de ladite convention et grevant l'aéronef ne peuvent s'exercer que sous réserve des droits reconnus aux victimes de dommages causés à la surface en vertu de l'article VII-5 de ladite convention.
