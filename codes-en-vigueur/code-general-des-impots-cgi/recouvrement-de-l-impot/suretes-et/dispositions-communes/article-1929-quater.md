@@ -10,7 +10,7 @@
 
 2° Un titre exécutoire a été émis, pour les taxes sur le chiffre d'affaires et assimilées et les contributions indirectes.
 
-4  La publicité est obligatoire lorsque les sommes dues par un redevable à un même poste comptable ou service assimilé et susceptibles d'être inscrites dépassent au dernier jour d'un        e semestre civil un montant minimum déterminé par arrêté du ministre de l'économie et des finances pris après avis du garde des sceaux, ministre de la justice (1). Les sommes qui ne dépassent pas le montant minimum peuvent également être inscrites.
+4  La publicité est obligatoire lorsque les sommes dues par un redevable à un même poste comptable ou service assimilé et susceptibles d'être inscrites dépassent au dernier jour d'un e trimestre civil un montant minimum déterminé par arrêté du ministre de l'économie et du ministre du budget pris après avis du garde des sceaux, ministre de la justice (1). Les sommes qui ne dépassent pas le montant minimum peuvent également être inscrites.
 
 5  En cas de paiement avec subrogation, le subrogé aux droits du Trésor est tenu des obligations et formalités mises par le présent article à la charge de l'administration, quel que soit le montant du paiement.
 
@@ -24,6 +24,6 @@ Si le paiement par le subrogé a lieu sans émission de titre exécutoire prévu
 
 9  Les modalités d'application du présent article et notamment les formes et délais des inscriptions et de leur radiation sont fixées par un décret en conseil d'Etat pris sur le rapport du ministre de l'économie et des finances et du garde des sceaux, ministre de la justice (2).
 
-1)  Annexe IV, art. 207 quinquies.
+(1)  Annexe IV, art. 207 quinquies.
 
-2)  Annexe II, art. 396 bis.
+(2)  Annexe II, art. 396 bis.
