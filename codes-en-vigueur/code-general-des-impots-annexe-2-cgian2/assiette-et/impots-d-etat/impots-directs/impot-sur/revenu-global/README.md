@@ -8,5 +8,4 @@
 - [Article 79](article-79.md)
 - [Article 81 bis](article-81-bis.md)
 - [Article 82](article-82.md)
-- [Article 86](article-86.md)
 - [Article 91 bis](article-91-bis.md)
