@@ -1,4 +1,4 @@
-# Chapitre IV : De l'instruction définitive devant le tribunal de police
+# Chapitre IV : De l'instruction définitive devant le tribunal de police et la juridiction de proximité
 
 - [Article 534](article-534.md)
 - [Article 535](article-535.md)
