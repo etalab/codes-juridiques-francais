@@ -10,7 +10,7 @@ L'autorité administrative accorde l'homologation, après avis d'une commission 
 
 L'homologation n'exonère pas le fabricant ou le titulaire de l'homologation de la responsabilité que l'un ou l'autre peut encourir dans les conditions du droit commun en raison de la fabrication ou de la mise sur le marché du produit ou appareil concerné.
 
-Un décret en Conseil d'Etat fixe les conditions relatives à l'obtention, à l'usage et au maintien de l'homologation ainsi que les règles de procédure et la composition de la commission. Il détermine les dispositions transitoires applicables aux produits et appareils mis sur le marché avant l'entrée en vigueur de la procédure d'homologation.
+Un décret en Conseil d'Etat fixe les conditions relatives à l'obtention, à la durée, à l'usage et au maintien de l'homologation ainsi que les règles de procédure et la composition de la commission. Il détermine les dispositions transitoires applicables aux produits et appareils mis sur le marché avant l'entrée en vigueur de la procédure d'homologation.
 
 En cas d'infraction aux dispositions du présent article ou des textes pris pour son application, l'autorité administrative peut ordonner la suspension de la commercialisation et le retrait des produits ou appareils commercialisés [*sanctions*].
 
