@@ -1,0 +1,14 @@
+# Paragraphe 1 : Du paiement en général.
+
+- [Article 1235](article-1235.md)
+- [Article 1236](article-1236.md)
+- [Article 1237](article-1237.md)
+- [Article 1238](article-1238.md)
+- [Article 1239](article-1239.md)
+- [Article 1240](article-1240.md)
+- [Article 1241](article-1241.md)
+- [Article 1242](article-1242.md)
+- [Article 1243](article-1243.md)
+- [Article 1245](article-1245.md)
+- [Article 1246](article-1246.md)
+- [Article 1248](article-1248.md)
