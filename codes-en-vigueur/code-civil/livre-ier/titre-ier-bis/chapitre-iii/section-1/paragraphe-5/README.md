@@ -1,0 +1,13 @@
+# Paragraphe 5 : Acquisition de la nationalité française par décision de l'autorité publique
+
+- [Article 21-15](article-21-15.md)
+- [Article 21-16](article-21-16.md)
+- [Article 21-17](article-21-17.md)
+- [Article 21-18](article-21-18.md)
+- [Article 21-19](article-21-19.md)
+- [Article 21-20](article-21-20.md)
+- [Article 21-21](article-21-21.md)
+- [Article 21-22](article-21-22.md)
+- [Article 21-23](article-21-23.md)
+- [Article 21-24](article-21-24.md)
+- [Article 21-25](article-21-25.md)

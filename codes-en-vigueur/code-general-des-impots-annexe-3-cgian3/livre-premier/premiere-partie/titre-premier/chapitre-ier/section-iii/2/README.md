@@ -1,4 +1,4 @@
-# 2° : Réduction d'impôt pour certains investissements dans des résidences de tourisme
+# 2° : Réduction d'impôt pour certains investissements dans l'immobilier locatif - Obligations.
 
 - [Article 46 AB](article-46-ab.md)
 - [Article 46 AC](article-46-ac.md)
@@ -6,3 +6,4 @@
 - [Article 46 AE](article-46-ae.md)
 - [Article 46 AF](article-46-af.md)
 - [Article 46 AG](article-46-ag.md)
+- [Article 46 AGB](article-46-agb.md)
