@@ -2,7 +2,7 @@
 
 Le préfet peut réunir les propriétaires intéressés en association foncière agricole autorisée si, tout à la fois :
 
-1° La moitié au moins des propriétaires représentant les deux tiers au moins de la superficie des terrains compris dans le périmètre de l'association ou les deux tiers au moins des propriétaires représentant la moitié au moins de la superficie ont donné leur adhésion ou sont considérés comme ayant adhéré à l'association dans les conditions prévues à l'article 11 de la loi du 21 juin 1865 précitée ;
+1° La moitié au moins des propriétaires représentant les deux tiers au moins de la superficie des terrains compris dans le périmètre de l'association ou les deux tiers au moins des propriétaires représentant la moitié au moins de la superficie ont donné leur adhésion ou sont considérés comme ayant adhéré à l'association dans les conditions prévues à l'article 13 de l'ordonnance du 1er juillet 2004 ;
 
 2° Une collectivité territoriale, la société d'aménagement foncier et d'établissement rural, l'association, un propriétaire de terres situées dans le périmètre ou un tiers prend l'engagement d'acquérir les biens dont le ou les propriétaires opteraient pour le délaissement prévu à l'article L. 136-8.
 

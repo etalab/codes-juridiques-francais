@@ -1,8 +1,8 @@
 # Article L322-7
 
-Lorsque l'objet de l'association foncière urbaine autorisée porte sur des travaux spécifiés au 2. de l'article L. 322-2, l'association [*attributions*] :
+Lorsque l'objet de l'association foncière urbaine autorisée porte sur des travaux spécifiés au 2° de l'article L. 322-2, l'association :
 
-a) Détermine les bâtiments ou les ouvrages dont le groupement de parcelles nécessite soit la destruction, soit le changement de l'usage, éventuellement après réparation, aménagement ou transformation. L'acte amiable portant cession d'un bâtiment ou d'un ouvrage à l'association foncière urbaine produit les mêmes effets que l'acte de cession amiable en matière d'expropriation en ce qui concerne l'extinction des droits réels et personnels ; à défaut d'accord amiable des propriétaires sur leur cession, ces bâtiments ou ouvrages font l'objet d'une expropriation dans les conditions fixées par l'ordonnance n. 58-997 du 23 octobre 1958 modifiée ;
+a) Détermine les bâtiments ou les ouvrages dont le groupement de parcelles nécessite soit la destruction, soit le changement de l'usage, éventuellement après réparation, aménagement ou transformation. L'acte amiable portant cession d'un bâtiment ou d'un ouvrage à l'association foncière urbaine produit les mêmes effets que l'acte de cession amiable en matière d'expropriation en ce qui concerne l'extinction des droits réels et personnels ; à défaut d'accord amiable des propriétaires sur leur cession, ces bâtiments ou ouvrages font l'objet d'une expropriation dans les conditions fixées par le code de l'expropriation pour cause d'utilité publique ;
 
 b) Etablit, selon le cas, le projet de contrat de bail à construction, le projet d'acte d'apport ou le projet d'acte de vente de parcelles groupées.
 
