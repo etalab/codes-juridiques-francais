@@ -1,3 +1,3 @@
-# Chapitre II : Fonds national de l'emploi.
+# Chapitre II : FONDS NATIONAL DE L'EMPLOI *FNE*
 
-- [Section 3 : Chômage partiel.](section-3)
+- [SECTION 3 : CHOMAGE PARTIEL.](section-3)
