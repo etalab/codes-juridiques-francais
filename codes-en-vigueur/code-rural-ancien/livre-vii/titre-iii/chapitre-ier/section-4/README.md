@@ -12,4 +12,3 @@
 - [Article 1159](article-1159.md)
 - [Article 1160](article-1160.md)
 - [Article 1161](article-1161.md)
-- [Article 1162](article-1162.md)
