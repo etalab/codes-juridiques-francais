@@ -24,13 +24,13 @@ Des arrêtés du ministre de l'équipement et du logement publiés au Journal of
 
 - de l'article R. 92 (4e) relatives à la signalisation des chargements dépassant la largeur hors tout des véhicules ;
 
-- de l'article R. 97 relatives respectivement à la plaque de constructeur des remorques dont le poids total autorisé en charge ne dépasse pas 1 000 kg et à l'indication du poids total roulant autorisé sur la plaque de constructeur des véhicules automobiles autres que les tracteurs pour semi-remorques ;
+- de l'article R. 97 relatives respectivement à la plaque de constructeur des remorques dont le poids total autorisé en charge ne dépasse pas 1 tonne et à l'indication du poids total roulant autorisé sur la plaque de constructeur des véhicules automobiles autres que les tracteurs pour semi-remorques ;
 
-- de l'article R. 98 concernant l'indication du poids à vide et du poids total autorisé en charge sur les véhicules dont le poids total autorisé en charge excède 3 500 kg ;
+- de l'article R. 98 concernant l'indication du poids à vide et du poids total autorisé en charge sur les véhicules dont le poids total autorisé en charge excède 3,5 tonnes ;
 
 - de l'article R. 100 relatives aux plaques d'immatriculation des remorques dont le poids total autorisé en charge excède 500 kg, sans dépasser 750 kg ;
 
-- des articles R. 106 à R. 108 relatives à la réception des remorques dont le poids total autorisé en charge excède 500 kg, sans dépasser 1 000 kg.
+- des articles R. 106 à R. 108 relatives à la réception des remorques dont le poids total autorisé en charge excède 500 kg, sans dépasser 1 tonne.
 
 3° Les dispositions relatives au nouveau régime du permis de conduire les véhicules (art. 123 à R. 129 et R. 186).
 
@@ -60,10 +60,8 @@ Des arrêtés du ministre de l'équipement et du logement, publiés au Journal o
 
 - de l'article R. 151 relatives aux feux rouges arrière et aux indicateurs de changement de direction des véhicules et appareils agricoles remorqués et des matériels de travaux publics remorqués, ainsi qu'à l'éclairage de la plaque d'exploitation des véhicules agricoles remorqués ;
 
-- de l'article R. 167-1 (1er alinéa) relatives à l'âge minimum des conducteurs de tracteurs et machines agricoles.
+- de l'article R. 167-1 (1er alinéa) relatives à l'âge minimal des conducteurs de tracteurs et machines agricoles.
 
 Un arrêté conjoint du ministre de l'équipement et du logement et du ministre des transports fixe la date à partir de laquelle sont applicables les prescriptions de l'article R. 55 (2°) relatives au poids total roulant autorisé des véhicules articulés, des ensembles et des trains-doubles.
 
 Un arrêté du ministre de l'équipement et du logement, publié au Journal officiel de la République française, fixe la date à partir de laquelle sont applicables les règles édictées à l'article R. 26-1.
-
-Un arrêté conjoint du ministre de l'équipement et du logement, du ministre de l'éducation nationale et du secrétaire d'Etat chargé de la jeunesse, des sports et des loisirs fixe la date à partir de laquelle sont applicables les dispositions de l'article R. 200-1. Jusqu'à cette date, les conducteurs de cyclomoteurs doivent être âgés d'au moins quatorze ans.
