@@ -12,4 +12,3 @@
 - [Article A510-10](article-a510-10.md)
 - [Article A510-11](article-a510-11.md)
 - [Article A510-12](article-a510-12.md)
-- [Article A510-13](article-a510-13.md)
