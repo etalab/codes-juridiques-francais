@@ -6,6 +6,7 @@
 - [Section 4 : Des réductions de peines](section-4)
 - [Section 5 : Des attributions du juge de l'application des peines et de la commission de l'application des peines](section-5)
 - [Section 6 : Du placement à l'extérieur, de la semi-liberté, des permissions de sortir et des autorisations de sortie sous escorte](section-6)
+- [Section 7 : Du placement sous surveillance électronique](section-7)
 - [Article 716-1](article-716-1.md)
 - [Article 716-2](article-716-2.md)
 - [Article 716-3](article-716-3.md)
