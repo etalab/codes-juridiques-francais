@@ -4,4 +4,4 @@ Les veuves des fonctionnaires civils ont droit à une pension égale à 50 p. 10
 
 A la pension de la veuve s'ajoute éventuellement la moitié de la majoration prévue à l'article L. 18 qu'a obtenue ou aurait obtenue le mari. Cet avantage n'est servi qu'aux veuves qui ont élevé, dans les conditions visées audit article L. 18, les enfants ouvrant droit à cette majoration.
 
-Cette pension de réversion, compte tenu des ressources extérieures, ne pourra être inférieure à la somme totale formée par le cumul de l'allocation servie aux vieux travailleurs salariés augmentée de l'allocation supplémentaire du fonds national de solidarité, quelle que soit la date de sa liquidation.
+Cette pension de réversion, compte tenu des ressources extérieures, ne pourra être inférieure à la somme totale formée par le cumul de l'allocation servie aux vieux travailleurs salariés augmentée de l'allocation supplémentaire mentionnée à l'article L. 815-2 ou L. 815-3 du code de la sécurité sociale, quelle que soit la date de sa liquidation.
