@@ -2,8 +2,6 @@
 
 - [Section 1 : Des discriminations.](section-1)
 - [Section 1 bis : De la traite des êtres humains.](section-1-bis)
-- [Section 2 : Du proxénétisme et des infractions assimilées.](section-2)
-- [Section 2 bis : Du recours à la prostitution d'un mineur](section-2-bis)
 - [Section 2 ter : De l'exploitation de la mendicité.](section-2-ter)
 - [Section 3 : Des conditions de travail et d'hébergement contraires à la dignité de la personne.](section-3)
 - [Section 3 bis : Du bizutage.](section-3-bis)
