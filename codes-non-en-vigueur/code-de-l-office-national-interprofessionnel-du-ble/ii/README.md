@@ -6,6 +6,7 @@
 - [Article 3 ter](article-3-ter.md)
 - [Article 8 bis](article-8-bis.md)
 - [Article 9](article-9.md)
+- [Article 9 bis](article-9-bis.md)
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)
 - [Article 15 bis](article-15-bis.md)
