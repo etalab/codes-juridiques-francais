@@ -12,4 +12,5 @@
 - [Article R35](article-r35.md)
 - [Article R36](article-r36.md)
 - [Article R37](article-r37.md)
+- [Article R38](article-r38.md)
 - [Article R39](article-r39.md)
