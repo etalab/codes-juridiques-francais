@@ -1,6 +1,5 @@
 # Titre premier : Impôts directs et taxes assimilées
 
 - [Chapitre II : Impôt sur les sociétés](chapitre-ii)
-- [Chapitre II bis : Taxe d'apprentissage.](chapitre-ii-bis)
 - [Chapitre III : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés](chapitre-iii)
 - [Chapitre premier : Impôt sur le revenu](chapitre-premier)
