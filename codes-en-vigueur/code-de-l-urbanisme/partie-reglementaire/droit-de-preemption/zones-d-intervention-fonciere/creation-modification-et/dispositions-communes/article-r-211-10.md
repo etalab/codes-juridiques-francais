@@ -1,0 +1,5 @@
+# Article R*211-10
+
+Le maire ou, s'il existe un établissement public groupant plusieurs communes et ayant compétence en matière d'urbanisme, [*syndicat de communes, district urbain, communauté urbaine*] le président de cet établissement, est tenu de délivrer à tout propriétaire d'immeuble, à tout titulaire de droits sociaux donnant vocation à l'attribution, en propriété ou en jouissance, d'un immeuble ou d'une partie d'immeuble, ou à leur mandataire, dans le délai d'un mois qui suit la demande qui en est faite, un certificat établi sur papier libre, en double exemplaire, précisant si cet immeuble est compris ou non à l'intérieur d'une zone d'intervention foncière ainsi que, dans l'affirmative, s'il est en outre situé dans un des périmètres visés à l'article L. 211-5 (alinéa 2) [*rénovation urbaine, restauration immobilière, résorption de l'habitat insalubre*].
+
+Sur le territoire de la ville de Paris, la demande visée à l'alinéa précédent est, jusqu'à l'entrée en vigueur de la loi n. 75-1331 du 31 décembre 1975, adressée au préfet.

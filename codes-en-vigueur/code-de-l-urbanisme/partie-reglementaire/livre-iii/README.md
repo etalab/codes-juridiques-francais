@@ -1,4 +1,4 @@
-# LIVRE III : Aménagement foncier TITRE II : Organismes d'exécution
+# Livre III : Aménagement foncier.
 
 - [Titre I : Opérations d'aménagement](titre-i)
 - [CHAPITRE II : Associations foncières urbaines](chapitre-ii)
