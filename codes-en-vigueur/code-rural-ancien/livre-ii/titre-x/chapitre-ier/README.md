@@ -2,3 +2,4 @@
 
 - [Article 344](article-344.md)
 - [Article 346](article-346.md)
+- [Article 347](article-347.md)
