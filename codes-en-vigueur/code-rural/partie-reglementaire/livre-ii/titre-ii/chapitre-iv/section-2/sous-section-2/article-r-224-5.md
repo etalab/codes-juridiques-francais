@@ -39,9 +39,3 @@ Du 15 août à l'ouverture générale et de la clôture générale au dernier jo
 chaîne alpine, deuxième dimanche de septembre, 11 novembre.
 
 reste du territoire, troisième dimanche de septembre, 1er novembre.
-
-Oiseaux de passage :
-
-Caille des blés, alouette des champs, bécasse des bois, pigeon ramier, pigeon biset, pigeon colombin, tourterelle turque, grive draine, grive litorne, grive mauvis, grive musicienne et merle noir, ouverture générale, 31 janvier, néant.
-
-Gibier d'eau et autres espèces d'oiseaux de passage, 1er septembre, 31 janvier, néant.
