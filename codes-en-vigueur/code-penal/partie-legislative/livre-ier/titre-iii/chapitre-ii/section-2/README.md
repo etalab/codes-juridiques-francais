@@ -1,6 +1,6 @@
 # Section 2 : Des modes de personnalisation des peines
 
-- [Sous-section 1 : De la semi-liberté.](sous-section-1)
+- [Sous-section 1 : De la semi-liberté, du placement à l'extérieur et du placement sous surveillance électronique](sous-section-1)
 - [Sous-section 2 : Du fractionnement des peines](sous-section-2)
 - [Sous-section 3 : Du sursis simple](sous-section-3)
 - [Sous-section 4 : Du sursis avec mise à l'épreuve](sous-section-4)
