@@ -1,18 +1,18 @@
 # Article 199 sexies C
 
-I. Les dépenses de grosses réparations afférentes à la résidence principale du contribuable dont il est propriétaire et payées entre le 1er janvier 1985 et le 31 décembre 1989  ouvrent droit à une réduction d'impôt sur le revenu lorsque l'immeuble est situé en France et est achevé depuis plus de quinze ans. La réduction est égale à 25 % du montant de ces dépenses.
+I. Les dépenses de grosses réparations afférentes à la résidence principale du contribuable dont il est propriétaire et payées entre le 1er janvier 1985 et le 31 décembre 1989 ouvrent droit à une réduction d'impôt sur le revenu lorsque l'immeuble est situé en France et est achevé depuis plus de quinze ans. La réduction est égale à 25 % du montant de ces dépenses.
 
-Pour une même résidence, le montant des dépenses ouvrant droit à réduction ne peut excéder au cours de la période définie au premier alinéa la somme de ((15.000 F)) pour une personne célibataire, veuve ou divorcée et de ((30.000 F)) pour un couple marié (1). Cette somme est majorée de 2.000 F par personne à charge au sens des articles 196 à 196 B. Cette majoration est fixée à 2.500 F pour le second enfant et à 3.000 F par enfant à partir du troisième.
+Pour une même résidence, le montant des dépenses ouvrant droit à réduction ne peut excéder au cours de la période définie au premier alinéa la somme de 15.000 F pour une personne célibataire, veuve ou divorcée et de 30.000 F pour un couple marié (1). Cette somme est majorée de 2.000 F par personne à charge au sens des articles 196 à 196 B. Cette majoration est fixée à 2.500 F pour le second enfant et à 3.000 F par enfant à partir du troisième.
 
 Au titre d'une année, les dépenses ouvrant droit à réduction d'impôt sont limitées à la moitié des montants définis au deuxième alinéa ; l'excédent ouvre droit à réduction d'impôt au titre de l'année suivante.
 
 Les dispositions du b du 1° de l'article 199 sexies et du 7 de l'article 199 undecies s'appliquent à cette réduction d'impôt.
 
-La réduction d'impôt est accordée sur présentation de factures mentionnant la nature et le montant des travaux [*justification des dépenses*] (2).
+La réduction d'impôt est accordée sur présentation de factures mentionnant la nature et le montant des travaux (2).
 
 II. Lorsque, pour une opération déterminée, le contribuable opte pour l'application des dispositions prévues au I, les intérêts des emprunts contractés à compter du 1er janvier 1985 pour financer les dépenses de grosses réparations afférentes à la résidence principale n'ouvrent pas droit à la réduction d'impôt prévue au a du 1° de l'article 199 sexies.
 
-III. a) La réduction mentionnée au I bénéficie sous les mêmes conditions, aux dépenses payées du 1er janvier 1990 au 31 décembre 1995.
+III. a) La réduction mentionnée au I bénéficie sous les mêmes conditions, aux dépenses payées du 1er janvier 1990 au 31 décembre ((1996)) (M).
 
 Les dépenses ouvrant droit à cette réduction sont limitées, au cours de cette période, aux montants prévus au deuxième alinéa du paragraphe I.
 
@@ -32,9 +32,15 @@ Toutefois, la reprise d'impôt n'est pas pratiquée lorsque le remboursement fai
 
 d) La condition d'ancienneté des immeubles n'est pas exigée lorsque ceux-ci sont situés dans une zone classée en état de catastrophe naturelle et que les dépenses sont effectuées dans l'année qui suit la date de constatation de cet état par arrêté ministériel, par un contribuable qui a déposé un dossier d'indemnisation auprès de la préfecture ou d'un organisme régi par le code des assurances.
 
-(1) Modification de la loi. Ces sommes de 15.000 F et 30.000 F s'appliquent aux dépenses payées à compter du 1er octobre 1994. [*Cf. Instruction 1995-02-23 5B-9-95.*]
+((e. la condition d'ancienneté des immeubles n'est pas exigée pour les travaux destinés à faciliter l'accès de l'immeuble aux personnes handicapées et à adapter leur logement.)) (M)
+
+((IV. - Lorsque, pour l'acquisition d'un logement en accession à la propriété, le contribuable bénéficie de l'avance remboursable ne portant pas intérêt prévue par l'article R. 317-1 du code de la construction et de l'habitation, la réduction d'impôt prévue au III ne s'applique pas)) (M).
+
+(1) Ces sommes de 15.000 F et 30.000 F s'appliquent aux dépenses payées à compter du 1er octobre 1994. [*Cf. Instruction 1995-02-23 5B-9-95*].
 
 (2) Voir article 1740 quater.
+
+(M) Modification de la loi. [*Cf. Instruction 1996-01-16 5B-3-96 - Cf. Instruction 1996-05-02 5B-11-96*].
 
 (3) A compter du 15 mars 1992.
 
@@ -42,6 +48,4 @@ d) La condition d'ancienneté des immeubles n'est pas exigée lorsque ceux-ci so
 
 (5) Dispositions applicables aux contrats conclus et aux dépenses payées à compter du 1er janvier 1991.
 
-(6) Voir Annexe IV, art. 17 M à 17 O.
-
-En ce qui concerne la liste des dépenses de régulation de chauffage, voir Annexe 4, art. 17 P à 17 S.
+(6) Voir Annexe IV, art. 17 M à 17 O. En ce qui concerne la liste des dépenses de régulation de chauffage, voir Annexe 4, art. 17 P à 17 S.

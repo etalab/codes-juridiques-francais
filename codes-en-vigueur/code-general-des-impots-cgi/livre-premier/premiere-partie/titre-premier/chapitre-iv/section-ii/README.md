@@ -30,7 +30,7 @@
 - [XXIII bis : Imposition des plus-values réalisées par les personnes physiques ou sociétés qui ne sont pas fiscalement domiciliées en France](xxiii-bis)
 - [XXIV : Sociétés civiles visées à l'article 20 de la loi n° 64-1247 du 16 décembre 1964 instituant le bail à construction et relative aux opérations d'urbanisation.](xxiv)
 - [XXVI : Prélèvements sur les plus-values prévues à l'article 244 bis.](xxvi)
-- [XXVII : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales.](xxvii)
+- [XXVII : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales ou agricoles](xxvii)
 - [XXVIII : Crédit d'impôt pour dépenses de formation professionnelle.](xxviii)
 - [XXX : Crédit d'impôt pour accroissement de la durée d'utilisation des équipements et pour réduction de la durée hebdomadaire de travail.](xxx)
 - [XXVIX : Crédit d'impôt pour dépenses d'adhésion à un groupement de prévention agréé.](xxvix)

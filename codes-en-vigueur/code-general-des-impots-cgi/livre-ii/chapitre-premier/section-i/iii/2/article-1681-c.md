@@ -7,3 +7,7 @@ Toutefois, si l'impôt est mis en recouvrement après le 31 octobre, le solde es
 Il est mis fin aux prélèvements mensuels dès qu'ils ont atteint le montant de l'impôt mis en recouvrement. Le trop-perçu qui apparaît éventuellement lors de la mise en recouvrement de l'impôt est immédiatement, et au plus tard à la fin du mois qui suit la constatation du trop-perçu, remboursé au contribuable.
 
 Il est également mis fin aux prélèvements mensuels en cas de décès du contribuable. Le solde de l'impôt est acquitté dans les conditions fixées par les articles 1663 et 1761.
+
+((Lorsque, après la mise en recouvrement, le montant du dernier prélèvement de l'année est inférieur au montant visé au 2 de l'article 1657, il est ajouté à celui de la mensualité précédente)) (M).
+
+(M) Modification de la loi.

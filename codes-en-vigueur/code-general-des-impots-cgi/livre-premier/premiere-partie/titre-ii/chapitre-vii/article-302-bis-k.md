@@ -4,9 +4,9 @@ I. A compter du 1er janvier 1992, une taxe de sécurité et de sûreté au profi
 
 La taxe est exigible pour chaque vol commercial. Elle est assise sur le nombre de passagers embarquant en France selon le tarif suivant :
 
-17 F par passager embarqué à destination d'un territoire étranger ;
+((18 F par passager embarqué à destination d'un territoire étranger ;
 
-10 F par passager embarqué vers d'autres destinations.
+((11 F par passager embarqué vers d'autres destinations)) (M).
 
 Les entreprises de transport aérien déclarent chaque mois, sur un imprimé fourni par l'administration de l'aviation civile, le nombre de passagers embarqués le mois précédent sur chacun des vols effectués au départ de la France.
 
@@ -33,3 +33,5 @@ Les droits sont assortis des pénalités prévues à l'article 1728.
 III. Sous réserve des dispositions qui précèdent, le recouvrement de la taxe est assuré par les agents comptables du budget annexe de l'aviation civile selon les procédures, sûretés, garanties et sanctions applicables aux taxes sur le chiffre d'affaires.
 
 Le contentieux est suivi par la direction générale de l'aviation civile. Les réclamations sont présentées, instruites et jugées comme pour les taxes sur le chiffre d'affaires.
+
+(M) Modification de la loi.

@@ -20,6 +20,7 @@
 - [Article 39 quinquies I](article-39-quinquies-i.md)
 - [Article 39 quinquies C](article-39-quinquies-c.md)
 - [Article 39 quinquies A](article-39-quinquies-a.md)
+- [Article 39 quinquies DA](article-39-quinquies-da.md)
 - [Article 39 quinquies E](article-39-quinquies-e.md)
 - [Article 39 quinquies F](article-39-quinquies-f.md)
 - [Article 39 quinquies FA](article-39-quinquies-fa.md)
