@@ -23,6 +23,7 @@
 - [Article 829](article-829.md)
 - [Article 830](article-830.md)
 - [Article 831](article-831.md)
+- [Article 832](article-832.md)
 - [Article 832-1](article-832-1.md)
 - [Article 832-4](article-832-4.md)
 - [Article 833](article-833.md)
