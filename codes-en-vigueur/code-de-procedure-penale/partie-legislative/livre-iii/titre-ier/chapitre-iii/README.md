@@ -1,6 +1,7 @@
 # Chapitre III : Des ouvertures à cassation
 
 - [Article 591](article-591.md)
+- [Article 592](article-592.md)
 - [Article 593](article-593.md)
 - [Article 594](article-594.md)
 - [Article 595](article-595.md)
