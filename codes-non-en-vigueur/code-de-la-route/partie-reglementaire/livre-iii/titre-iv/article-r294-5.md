@@ -1,0 +1,3 @@
+# Article R294-5
+
+Peuvent obtenir leur inscription sur les listes d'aptitude prévues au 1er alinéa de l'article R. 294-1 les personnes ayant la qualité d'expert en automobile au sens de la loi n° 72-1097 du 11 décembre 1972 et celles qui sont inscrites sur les listes des experts judiciaires dressées en application de l'article 2 de la loi n° 71-498 du 29 juin 1971 et de l'article 1er du décret n° 74-1184 du 31 décembre 1974 dans une rubrique consacrée à l'automobile et qui justifient, pour l'une et l'autre catégories, d'une formation au contrôle technique des véhicules gravement accidentés délivrée dans les conditions définies par un arrêté conjoint du ministre de la justice, du ministre chargé de l'éducation nationale et du ministre chargé des transports.
