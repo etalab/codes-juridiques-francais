@@ -8,6 +8,8 @@ Dans le cas où plusieurs offres jugées les plus intéressantes sont tenues pou
 
 L'administration ne peut rejeter des offres dont le prix lui semble anormalement bas, sans avoir demandé, par écrit, des précisions sur la composition de l'offre et sans avoir vérifié cette composition en tenant compte des justifications fournies.
 
+L'administration est tenue d'examiner une offre incluant une variante par rapport au mode de règlement qu'elle a défini, dès lors que le candidat a également remis une offre comprenant le mode de règlement prévu dans l'appel d'offres.
+
 Une offre comportant une variante par rapport à l'objet du marché tel qu'il a été défini par l'administration peut être prise en considération si une telle possibilité est expressément prévue dans l'appel d'offres.
 
 L'administration, dès qu'elle a fait son choix, avise tous les autres candidats du rejet de leurs offres. Elle communique à tout candidat qui en fait la demande par écrit les motifs du rejet de son offre. Elle peut, en accord avec l'entreprise retenue, procéder à une mise au point du marché sans que les modifications entraînées puissent remettre en cause les conditions de l'appel à la concurrence ayant pu avoir un effet sur les offres.
