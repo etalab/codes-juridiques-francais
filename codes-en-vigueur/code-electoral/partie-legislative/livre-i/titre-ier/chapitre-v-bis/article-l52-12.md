@@ -9,3 +9,5 @@ Le montant du cautionnement n'est pas compris dans les dépenses. Sous réserve 
 Le compte de campagne et ses annexes sont transmis à la Commission nationale des comptes de campagne et des financements politiques.
 
 La commission assure la publication des comptes de campagne dans une forme simplifiée.
+
+Pour l'application de l'article L. 52-11, les frais de transport aérien, maritime et fluvial dûment justifiés, exposés par les candidats aux élections législatives et aux élections régionales à l'intérieur de chacun des départements d'outre-mer, ne sont pas inclus dans le plafond des dépenses.
