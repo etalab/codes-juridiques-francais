@@ -8,4 +8,6 @@ Ne sont pas éligibles :
 
 Pendant la durée de ses fonctions, le médiateur ne peut être candidat à un mandat de conseiller régional s'ils n'exerçait le même mandat antérieurement à sa nomination.
 
-Les articles L. 199 à L. 203 sont applicables à l'élection des conseillers régionaux.
+Les articles L. 199 à L. 203 sont applicables à l'élection des conseillers régionaux ;
+
+3° Pour une durée d'un an, le président de conseil régional ou le président de l'assemblée de Corse qui n'a pas déposé l'une des déclarations prévues à l'article 2 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique.

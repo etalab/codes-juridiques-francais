@@ -1,6 +1,7 @@
 # Chapitre X : Contentieux
 
 - [Article LO179](article-lo179.md)
+- [Article LO179-1](article-lo179-1.md)
 - [Article LO180](article-lo180.md)
 - [Article LO181](article-lo181.md)
 - [Article LO182](article-lo182.md)
