@@ -2,6 +2,8 @@
 
 - [Section 4-1 : Règles particulières aux salariés candidats ou élus à l'Assemblée nationale ou au Sénat.](section-4-1)
 - [Section 4-2 : Règles particulières aux salariés devenus physiquement inaptes à leur emploi](section-4-2)
+- [Section 4-3 : Dispositions particulières aux personnes exerçant une activité dans la réserve opérationnelle](section-4-3)
+- [Section 4-4 : Règles particulières aux personnes ayant souscrit un engagement à servir dans la réserve opérationnelle](section-4-4)
 - [Section 5-1 : Règles particulières aux salariés victimes d'un accident du travail ou d'une maladie professionnelle.](section-5-1)
 - [Section 5-2 : Congé pour la création d'entreprise, congé sabbatique](section-5-2)
 - [SECTION 1 : CONTRAT A DUREE DETERMINEE.](section-1)
