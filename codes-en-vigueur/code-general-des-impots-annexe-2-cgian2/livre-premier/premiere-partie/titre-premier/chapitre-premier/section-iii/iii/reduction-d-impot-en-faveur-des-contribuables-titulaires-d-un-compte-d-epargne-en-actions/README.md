@@ -8,3 +8,4 @@
 - [Article 95 F](article-95-f.md)
 - [Article 95 G](article-95-g.md)
 - [Article 95 H](article-95-h.md)
+- [Article 95 J](article-95-j.md)
