@@ -1,4 +1,4 @@
-# CHAPITRE III : Dispositions communes au droit de préemption urbain et aux zones d'aménagement différé.
+# Chapitre III : Dispositions communes au droit de préemption urbain, aux zones d'aménagement différé et aux périmètres provisoires.
 
 - [Article L213-1](article-l213-1.md)
 - [Article L213-2](article-l213-2.md)
