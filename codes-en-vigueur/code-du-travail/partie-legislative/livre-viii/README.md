@@ -1,7 +1,6 @@
 # Livre VIII : Dispositions spéciales aux départements d'outre-mer
 
 - [Titre préliminaire.](titre-preliminaire)
-- [CHAPITRE Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE .](chapitre-ier)
 - [Titre Ier : Conventions relatives au travail](titre-ier)
 - [Titre II : Réglementation du travail](titre-ii)
 - [Titre III : Placement et emploi](titre-iii)
