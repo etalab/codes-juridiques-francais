@@ -1,0 +1,3 @@
+# Article R231-1
+
+Les auteurs d'infraction dont l'insolvabilité est constatée par le directeur des services fiscaux et qui veulent se libérer, dans les conditions prévues par l'article L. 231-5, au moyen de prestations en nature, des condamnations à l'amende et aux frais prononcés contre eux au profit de l'Etat, pour délits et contraventions commis dans les bois des particuliers, adressent leur demande au maire de la commune sur le territoire de laquelle les délits ou contraventions ont été commis. Le maire transmet cette demande avec son avis au sous-préfet de l'arrondissement, qui statue et fixe le nombre de journées de prestations dues par les auteurs d'infraction.

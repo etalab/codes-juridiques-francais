@@ -1,0 +1,3 @@
+# Article L241-7
+
+Le propriétaire de parcelles données à ferme ou à métayage, lesquelles, sauf cas de force majeure, sont abandonnées ou laissées incultes depuis deux ans au moins, peut à tout moment exercer un droit de reprise sur ces parcelles pour en faire apport à un groupement forestier en vue de reboisement lorsqu'un avis favorable à celui-ci a été donné par l'autorité administrative. Les commissions paritaires compétentes pour statuer sur les contestations entre bailleurs et preneurs statuent, le cas échéant, sur la réduction des obligations du fermier ou du métayer résultant de cette reprise.

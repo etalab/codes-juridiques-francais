@@ -1,0 +1,9 @@
+# Article L512-4
+
+La décision administrative fixant le périmètre d'aménagement foncier forestier peut, sur proposition de la commission communale, interdire à l'intérieur de ce périmètre jusqu'à la clôture des opérations les travaux privés de nature à modifier l'état des lieux ou à entraver l'évaluation des apports, notamment l'établissement de clôtures, la création de chemins ou de fossés, l'arrachage d'arbres ou de haies. L'interdiction n'ouvre droit à aucune indemnité.
+
+Pendant la même période, les travaux d'exploitation du bois et les plantations sont subordonnés à une déclaration préalable à la procédure d'évaluation des apports et à une autorisation du représentant de l'Etat dans le département, après avis de la commission communale. Si le représentant de l'Etat n'a pas statué sur cette demande d'autorisation préalable dans un délai de trois mois à compter de la date de réception de l'avis de la commission communale, la demande est considérée comme acceptée.
+
+Les travaux exécutés en violation des interdictions ou autorisations ci-dessus mentionnées ne sont pas retenus en plus-value dans la détermination de la valeur d'échange des parcelles intéressées et ne donnent pas lieu au paiement d'une soulte. L'autorité administrative peut ordonner la remise en état des lieux aux frais du contrevenant dans les conditions fixées par la voie réglementaire. En cas de moins-value résultant de l'exécution de ces travaux ou de l'inexécution de travaux correspondant à une sage gestion forestière, une indemnité compensatrice est fixée par la commission communale, mise en recouvrement par l'association foncière auprès du contrevenant comme en matière de contributions directes et versée à l'attributaire de la parcelle.
+
+Les peines prévues au premier alinéa de l'article L. 223-3 sont applicables aux coupes effectuées en infraction aux dispositions du présent article.

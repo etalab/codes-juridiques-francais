@@ -1,0 +1,3 @@
+# Article L512-6
+
+Dans les périmètres d'aménagement foncier forestier et dans les périmètres d'aménagement foncier agricole et forestier mentionnés au 4° de l'article 52-1 du code rural ainsi que dans les périmètres des associations syndicales de gestion forestière créées en application de l'article L. 247-2 du présent code, les interventions des sociétés d'aménagement foncier et d'établissement rural prévues par l'article 15 de la loi d'orientation agricole, n° 60-808 du 5 août 1960, sont étendues aux terrains boisés ou à boiser dans le cadre de conventions passées avec l'Etat, après avis du centre régional de la propriété forestière, et doivent concourir à la réalisation des objectifs définis pour chaque périmètre.
