@@ -8,7 +8,7 @@ a) Les divers impôts, taxes et amendes qui lui sont affectés ;
 
 b) La fraction des cotisations dues par les assujettis affectées au service des prestations familiales, des assurances sociales et de l'assurance vieillesse des non salariés agricoles ;
 
-c) Les subventions du fonds national de solidarité institué par l'article L. 684 du code de la sécurité sociale ;
+c) Les subventions du fonds spécial d'invalidité mentionné à l'article L. 815-3-1 du code de la sécurité sociale ainsi que la contribution du fonds institué par l'article L. 135-1 du même code dans les conditions prévues par l'article L. 136-2 du code précité ;
 
 d) Le versement des soldes de compensation résultant de l'application de l'article 2 de la loi n° 74-1094 du 24 décembre 1974 ;
 
@@ -24,7 +24,7 @@ h) Le versement de l'Etat au titre de l'allocation aux adultes handicapés.
 
 a) Les versements destinés au paiement par les caisses des prestations familiales, des prestations des assurances sociales et des prestations de l'assurance vieillesse des non salariés agricoles y compris les prestations versées en application des dispositions du livre IX du code de la sécurité sociale ;
 
-b) Les participations au fonds spécial prévu à l'article L. 677 du code de la sécurité sociale ;
+b) (abrogé) ;
 
 c) Le remboursement au budget général :
 
