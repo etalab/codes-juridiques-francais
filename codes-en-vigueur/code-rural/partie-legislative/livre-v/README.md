@@ -6,4 +6,3 @@
 - [Titre IV : Sociétés mixtes d'intérêt agricole.](titre-iv)
 - [Titre V : Groupements de producteurs et comités économiques agricoles](titre-v)
 - [Titre VI : Jardins familiaux](titre-vi)
-- [Titre VIII : Dispositions applicables au territoire de la Nouvelle-Calédonie](titre-viii)
