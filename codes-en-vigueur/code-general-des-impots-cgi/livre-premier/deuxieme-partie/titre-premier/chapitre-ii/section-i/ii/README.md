@@ -4,7 +4,6 @@
 - [6° : Assiette et liquidation](6)
 - [7° : Obligations des exploitants.](7)
 - [8° : Répartition de l'impôt](8)
-- [Appareils automatiques - Obligations.](appareils-automatiques)
 - [Champ d'application.](champ-d-application)
 - [Demi-tarif](demi-tarif)
 - [Assiette et liquidation.](assiette-et)

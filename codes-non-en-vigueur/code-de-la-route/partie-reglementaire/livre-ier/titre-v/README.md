@@ -2,7 +2,6 @@
 
 - [PARAGRAPHE Ier : RÈGLES RELATIVES À LA CIRCULATION ROUTIÈRE SPÉCIALES AUX CYCLISTES ET AUX CONDUCTEURS DE CYCLOMOTEURS.](paragraphe-ier)
 - [Paragraphe II : FREINAGE.](paragraphe-ii)
-- [Paragraphe 3 : ÉCLAIRAGE.](paragraphe-3)
 - [Paragraphe III : ÉCLAIRAGE.](paragraphe-iii)
 - [Paragraphe IV : SIGNAUX D'AVERTISSEMENT.](paragraphe-iv)
 - [Paragraphe V : PLAQUES.](paragraphe-v)
