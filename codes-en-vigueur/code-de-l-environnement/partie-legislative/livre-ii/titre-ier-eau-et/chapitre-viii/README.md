@@ -6,3 +6,4 @@
 - [Section 4 : Pollution par les opérations d'incinération](section-4)
 - [Section 5 : Mesures de police maritime d'urgence](section-5)
 - [Section 6 : Autres dispositions applicables aux rejets nuisibles en mer ou dans les eaux salées](section-6)
+- [Section 7 : Zone de protection écologique](section-7)
