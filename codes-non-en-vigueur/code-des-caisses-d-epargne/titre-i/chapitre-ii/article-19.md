@@ -1,10 +1,12 @@
 # Article 19
 
-Sous la réserve des fonds jugés nécessaires pour assurer le service des remboursements, ces sommes sont employées par la caisse des dépôts et consignations :
+La Caisse nationale d'épargne est tenue de verser à la Caisse des dépôts et consignations toutes les sommes qu'elle reçoit des déposants. Sous la réserve des fonds jugés nécessaires pour assurer le service des remboursements, ces sommes ainsi que celles déposées par les caisses d'épargne ordinaires sont employées par la Caisse des dépôts et consignations :
 
 1° En valeurs émises par l'Etat français et en valeurs ou prêts jouissant de sa garantie ;
 
-2° En prêts aux communes, syndicats de communes, communautés urbaines, districts urbains, départements, territoires d'outre-mer, régions, chambres de commerce et d'industrie, chambres de métiers et leurs assemblées permanentes ainsi qu'en prêts ou valeurs bénéficiant de la garantie de ces collectivités ou établissements ;    3° En valeurs émises par le crédit foncier de France ou par le crédit national ou en prêts à ces organismes ;
+2° En prêts aux communes, syndicats de communes, communautés urbaines, districts urbains, départements, territoires d'outre-mer, régions, chambres de commerce et d'industrie, chambres de métiers et leurs assemblées permanentes ainsi qu'en prêts ou valeurs bénéficiant de la garantie de ces collectivités ou établissements ;
+
+3° En valeurs émises par le crédit foncier de France ou par le crédit national ou en prêts à ces organismes ;
 
 4° En valeurs inscrites à la cote officielle d'une bourse de valeurs françaises ;
 
