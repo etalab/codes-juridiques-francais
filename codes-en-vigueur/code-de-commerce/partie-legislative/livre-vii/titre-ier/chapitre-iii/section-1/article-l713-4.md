@@ -1,4 +1,4 @@
-# Article L713-10
+# Article L713-4
 
 I. - Sont éligibles aux fonctions de membre d'une chambre de commerce et d'industrie, sous réserve d'être âgés de dix-huit ans accomplis et de satisfaire aux conditions fixées au II de l'article L. 713-3 :
 

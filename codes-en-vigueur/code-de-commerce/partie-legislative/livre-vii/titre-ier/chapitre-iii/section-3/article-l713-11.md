@@ -1,4 +1,4 @@
-# Article L713-5
+# Article L713-11
 
 Les électeurs des délégués consulaires et des membres des chambres de commerce et d'industrie sont répartis dans chaque circonscription administrative entre trois catégories professionnelles correspondant respectivement aux activités commerciales, industrielles ou de services.
 

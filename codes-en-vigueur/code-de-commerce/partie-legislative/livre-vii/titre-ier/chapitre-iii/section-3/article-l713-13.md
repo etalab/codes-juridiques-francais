@@ -1,4 +1,4 @@
-# Article L713-7
+# Article L713-13
 
 La répartition des sièges entre catégories et sous-catégories professionnelles est faite en tenant compte des bases d'imposition des ressortissants, du nombre de ceux-ci et du nombre de salariés qu'ils emploient.
 

@@ -1,4 +1,4 @@
-# Article L713-6
+# Article L713-12
 
 Le nombre des sièges des délégués consulaires, qui ne peut être inférieur à soixante ni supérieur à six cents, est déterminé compte tenu de l'importance du corps électoral consulaire de la circonscription, du nombre de membres élus de la chambre de commerce et d'industrie et du nombre des tribunaux de commerce compris dans la circonscription de cette chambre.
 

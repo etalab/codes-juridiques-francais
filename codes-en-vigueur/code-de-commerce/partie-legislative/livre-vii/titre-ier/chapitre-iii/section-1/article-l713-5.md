@@ -1,4 +1,4 @@
-# Article L713-14
+# Article L713-5
 
 I. - En cas de dissolution d'une chambre de commerce et d'industrie, il est procédé à son renouvellement dans un délai de six mois.
 
