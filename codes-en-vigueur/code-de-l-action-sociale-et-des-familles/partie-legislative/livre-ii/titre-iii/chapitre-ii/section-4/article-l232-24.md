@@ -1,3 +1,5 @@
 # Article L232-24
 
-Sans préjudice des actions en recouvrement des sommes indûment versées mentionnées au deuxième alinéa de l'article L. 232-15, le fait d'avoir frauduleusement perçu la prestation instituée par le présent chapitre est puni des peines prévues par les articles 313-1 à 313-3 du code pénal.
+L'attribution de l'allocation personnalisée d'autonomie n'est pas subordonnée à la mise en oeuvre de l'obligation alimentaire définie par les articles 205 à 211 du code civil.
+
+Tous les recouvrements relatifs au service de l'allocation personnalisée d'autonomie sont opérés comme en matière de contributions directes.
