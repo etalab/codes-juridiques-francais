@@ -1,6 +1,5 @@
 # SECTION 3 : Recrutement.
 
-- [Article R353-15](article-r353-15.md)
 - [Article R353-16](article-r353-16.md)
 - [Article R353-17](article-r353-17.md)
 - [Article R353-18](article-r353-18.md)
