@@ -3,8 +3,6 @@
 - [Article D755-15](article-d755-15.md)
 - [Article D755-16](article-d755-16.md)
 - [Article D755-17](article-d755-17.md)
-- [Article D755-22](article-d755-22.md)
-- [Article D755-23](article-d755-23.md)
 - [Article D755-24](article-d755-24.md)
 - [Article D755-25](article-d755-25.md)
 - [Article D755-27](article-d755-27.md)
