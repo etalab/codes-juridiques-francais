@@ -1,6 +1,5 @@
-# Chapitre 4 : Salubrité des immeubles
+# Section 1 : Dispositions générales
 
-- [Section 1 : Dispositions générales](section-1)
 - [Article L26](article-l26.md)
 - [Article L27](article-l27.md)
 - [Article L28](article-l28.md)
