@@ -10,6 +10,7 @@
 - [Article 2-6](article-2-6.md)
 - [Article 2-7](article-2-7.md)
 - [Article 2-8](article-2-8.md)
+- [Article 2-9](article-2-9.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
