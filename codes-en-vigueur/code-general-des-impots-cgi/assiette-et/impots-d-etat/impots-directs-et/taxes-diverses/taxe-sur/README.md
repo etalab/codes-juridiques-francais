@@ -1,4 +1,4 @@
-# TAXE SUR LES ENCOURS DE CREDITS.
+# TAXE SUR LES SALAIRES.
 
 - [Article 231 bis C](article-231-bis-c.md)
 - [Article 231 bis D](article-231-bis-d.md)
