@@ -9,6 +9,7 @@
 - [Article L24](article-l24.md)
 - [Article L25](article-l25.md)
 - [Article L27](article-l27.md)
+- [Article L28](article-l28.md)
 - [Article L29](article-l29.md)
 - [Article L30](article-l30.md)
 - [Article L31](article-l31.md)
