@@ -13,4 +13,5 @@
 - [Article R2223-76](article-r2223-76.md)
 - [Article R2223-77](article-r2223-77.md)
 - [Article R2223-78](article-r2223-78.md)
+- [Article R2223-79](article-r2223-79.md)
 - [Article R2223-88](article-r2223-88.md)

@@ -1,5 +1,6 @@
 # Paragraphe 3 : Transport de corps avant mise en bière (R).
 
+- [Article R2213-7](article-r2213-7.md)
 - [Article R2213-8](article-r2213-8.md)
 - [Article R2213-9](article-r2213-9.md)
 - [Article R2213-10](article-r2213-10.md)
