@@ -1,3 +1,3 @@
-# CHAPITRE Ier : DISPOSITIONS GÉNÉRALES
+# CHAPITRE Ier : DISPOSITIONS GENERALES.
 
-- [Section 1 : Aérodromes constituant l'Aéroport de Paris.](section-1)
+- [Section 1 : Aérodromes constituant Aéroports de Paris.](section-1)
