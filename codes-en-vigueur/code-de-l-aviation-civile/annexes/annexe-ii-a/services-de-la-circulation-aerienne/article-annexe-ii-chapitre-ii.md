@@ -1,6 +1,6 @@
 # Article Annexe II : Chapitre II
 
-CHAPITRE II : Généralités
+**CHAPITRE II : Généralités**
 
 2.1. Bénéficiaires des services de la circulation aérienne.
 
@@ -282,7 +282,7 @@ Un organisme AFIS est institué pour assurer, au bénéfice de la circulation d'
 
 2.4.3. Modalités de désignation des organismes.
 
-Les modalités de désignation des organismes chargés d'assurer les services de la circulation aérienne dans les régions d'information de vol et les espaces contrôlés sont fixées par arrêté du ministre chargé de l'aviation civile ou par arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé des armées pour les espaces aériens où un organisme unique de la circulation aérienne assure simultanément des services à la circulation aérienne générale et à la circulation aérienne militaire.
+Les modalités de désignation des organismes chargés d'assurer les services de la circulation aérienne dans les régions d'information de vol et les espaces contrôlés sont fixées par arrêté du ministre chargé de l'aviation civile ou par arrêté conjoint du ministre chargé de l'aviation civile et du ministre de la défense pour les espaces aériens où un organisme unique de la circulation aérienne assure simultanément des services à la circulation aérienne générale et à la circulation aérienne militaire.
 
 2.4.4. Identification.
 

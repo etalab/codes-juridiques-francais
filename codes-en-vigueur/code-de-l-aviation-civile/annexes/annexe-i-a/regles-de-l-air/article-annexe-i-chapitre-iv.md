@@ -20,7 +20,7 @@
 
 Note. - En l'absence de niveaux à respecter sur les itinéraires publiés, les règles de niveau minimal en vol VFR continuent à s'appliquer en VFR spécial.
 
-4.2.5. Une clairance de vol VFR spécial peut être délivrée dans des espaces aériens contrôlés autres que les zones de contrôle dans des conditions fixées par arrêté du ministre chargé de l'aviation civile ou par arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé des armées pour les espaces aériens contrôlés spécialisés autres que les zones de contrôle spécialisées.
+4.2.5. Une clairance de vol VFR spécial peut être délivrée dans des espaces aériens contrôlés autres que les zones de contrôle dans des conditions fixées par arrêté du ministre chargé de l'aviation civile ou par arrêté conjoint du ministre chargé de l'aviation civile et du ministre de la défense pour les espaces aériens contrôlés spécialisés autres que les zones de contrôle spécialisées.
 
 4.3. Vol VFR de nuit.
 

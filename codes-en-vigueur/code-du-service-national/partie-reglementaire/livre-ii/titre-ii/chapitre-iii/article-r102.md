@@ -2,7 +2,7 @@
 
 La composition des commissions de réforme du service national est fixée comme suit :
 
-Un médecin chef des services ou un médecin en chef, président désigné par le ministre chargé des armées ;
+Un médecin chef des services ou un médecin en chef, président désigné par le ministre de la défense ;
 
 Un médecin principal ou un médecin désigné par le directeur régional du service de santé des armées ;
 

@@ -10,7 +10,7 @@ II. - Sont membres de droit :
 
 3° Le ministre chargé de l'éducation ou son représentant ;
 
-4° Le ministre chargé des armées ou son représentant ;
+4° Le ministre de la défense ou son représentant ;
 
 5° Le ministre chargé du travail ou son représentant ;
 

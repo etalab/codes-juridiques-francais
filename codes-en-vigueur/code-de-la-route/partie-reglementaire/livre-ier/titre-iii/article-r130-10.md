@@ -10,4 +10,4 @@ I. - Sans préjudice des pouvoirs conférés à d'autres agents par des lois sp�
 
 4° Les agents de police municipale, les agents de surveillance de Paris et les gardes champêtres à l'intérieur du territoire communal, sur les voies autres que les autoroutes.
 
-II. - Pour l'application du 3° du I ci-dessus, les modalités de l'habilitation et la définition des catégories de personnels habilités font l'objet d'un arrêté conjoint du ministre de l'intérieur, du ministre de la justice, du ministre chargé des armées et du ministre chargé des transports.
+II. - Pour l'application du 3° du I ci-dessus, les modalités de l'habilitation et la définition des catégories de personnels habilités font l'objet d'un arrêté conjoint du ministre de l'intérieur, du ministre de la justice, du ministre de la défense et du ministre chargé des transports.

@@ -6,7 +6,7 @@ Les articles R. 234-1, R. 234-2 et R. 234-4 sont applicables en Polynésie fran�
 
 L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1, L. 325-2 et L. 325-11."
 
-"Art. R. 234-2. - Les opérations de dépistage de l'imprégnation alcoolique par l'air expiré, prévues par les articles L. 234-3 à L. 234-5 et L. 234-9 sont effectuées au moyen d'un appareil conforme à un type homologué selon des modalités définies par arrêté du ministre chargé de la santé publique, après avis du ministre chargé des transports, du ministre de l'intérieur et du ministre chargé des armées."
+"Art. R. 234-2. - Les opérations de dépistage de l'imprégnation alcoolique par l'air expiré, prévues par les articles L. 234-3 à L. 234-5 et L. 234-9 sont effectuées au moyen d'un appareil conforme à un type homologué selon des modalités définies par arrêté du ministre chargé de la santé publique, après avis du ministre chargé des transports, du ministre de l'intérieur et du ministre de la défense."
 
 "Art. R. 234-4. - Lorsque, pour procéder aux vérifications prévues par les articles L. 234-4, L. 234-5 et L. 234-9, l'officier ou l'agent de police judiciaire fait usage d'un appareil homologué permettant de déterminer le taux d'alcool par l'analyse de l'air expiré, la vérification est faite selon les modalités ci-après :
 
