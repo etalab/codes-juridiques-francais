@@ -1,3 +1,0 @@
-# Article 361-1
-
-Le représentant légal de la collectivité ou de l'établissement informe le bureau d'adjudication, la commission d'appel d'offres, la commission ou le jury prévus aux articles 302, 303, 314 bis et 314 ter, de l'exécution de chaque marché, supérieur au seuil visé au 10° du I de l'article 104, dans les trois mois qui suivent la date de mandatement du solde de ce marché. Cette information comporte au moins le montant initial du marché, le montant total des sommes effectivement versées et, le cas échéant, les raisons de l'écart constaté entre ces deux montants, ainsi que les modifications substantielles ayant affecté la consistance du marché.

@@ -1,3 +1,0 @@
-# Article 108
-
-Les marchés d'études sont dits "de définition" lorsqu'ils ont pour objet d'explorer les possibilités et les conditions d'établissement d'un marché ultérieur ; ces marchés doivent permettre de préciser les buts et performances à atteindre, les techniques de base à utiliser, les moyens en personnel et en matériel à mettre en oeuvre. Ils doivent également permettre d'estimer le niveau du prix des prestations, les modalités de sa détermination et de prévoir les différentes phases de l'exécution des prestations. Les prestations faisant suite à plusieurs marchés de définition ayant le même objet et effectuées simultanément peuvent être attribuées, sans nouvelle mise en compétition, à l'auteur de la solution retenue.
