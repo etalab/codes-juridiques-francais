@@ -4,4 +4,5 @@
 - [CHAPITRE II : Protection de certains départements.](chapitre-ii)
 - [Chapitre III : Protection de certaines communes.](chapitre-iii)
 - [Chapitre V : Dispositions particulières aux zones de montagne.](chapitre-v)
+- [Chapitre VI : Dispositions particulières au littoral.](chapitre-vi)
 - [Chapitre VII : dispositions particulières aux zones de bruit des aérodromes.](chapitre-vii)
