@@ -5,6 +5,7 @@
 - [Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements.](convention-conclue-en-application-des-articles-l)
 - [Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et la société mixte de construction.](convention-type-conclue-en-application-de-l-article-l)
 - [Engagements de portée générale applicables à tout programme conventionné.](engagements-de-portee-generale-applicables-a)
+- [Statuts types d'une société anonyme coopérative de production d'habitations à loyer modéré.](statuts-types-d-une-societe-anonyme-cooperative-de-production-d-habitations-a)
 - [Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution.](statuts-types-des-societes-anonymes-cooperatives-d-habitations-a)
 - [Convention type pour les établissements de crédit consentant des prêts conventionnés.](convention-type-pour-les-etablissements-de-credit-consentant-des-prets-conventionnes)
 - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour personnes âgées.](convention-conclue-entre-l-etat-l-organisme-proprietaire-et)
