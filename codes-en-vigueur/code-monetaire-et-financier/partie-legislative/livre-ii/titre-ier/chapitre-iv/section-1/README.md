@@ -1,5 +1,6 @@
 # Section 1 : Les organismes de placement collectif en valeurs mobilières
 
+- [Sous-section 9-1 : Fonds d'investissement de proximité.](sous-section-9-1)
 - [Sous-section 1 : Dispositions communes aux organismes de placement collectif en valeurs mobilières](sous-section-1)
 - [Sous-section 2 : Règles particulières relatives aux sociétés d'investissement à capital variable](sous-section-2)
 - [Sous-section 3 : Règles particulières aux fonds communs de placement](sous-section-3)
