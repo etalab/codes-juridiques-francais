@@ -1,6 +1,7 @@
 # SECTION II : Objecteurs de conscience.
 
 - [Article R78](article-r78.md)
+- [Article R79](article-r79.md)
 - [Article R80](article-r80.md)
 - [Article R81](article-r81.md)
 - [Article R82](article-r82.md)
