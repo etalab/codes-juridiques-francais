@@ -5,6 +5,7 @@
 - [D : Provisions pour reconstitution des gisements](d)
 - [D bis : Provisions pour prêts d'installation consentis par les entreprises à leurs salariés](d-bis)
 - [M : Renseignements à fournir par les entreprises à l'appui de la déclaration prévue à l'article 53 A du code général des impôts](m)
+- [M bis : Renseignements à fournir par les entreprises sur les états de suivi et de situation de propriété prévus à l'article 54 septies du code général des impôts.](m-bis)
 - [A : Opérations réalisées sur des marchés financiers à terme](a)
 - [A bis : Frais d'émission d'emprunts](a-bis)
 - [A ter : Régime fiscal des contrats d'échange de taux d'intérêt ou de devises réalisés par les établissements de crédit](a-ter)
