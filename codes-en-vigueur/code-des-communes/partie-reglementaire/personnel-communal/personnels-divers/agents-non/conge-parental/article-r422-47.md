@@ -1,0 +1,3 @@
+# Article R422-47
+
+La possibilité d'obtenir un congé parental prévu par le présent décret est ouverte au père agent non titulaire qui remplit les mêmes conditions si la mère renonce à ce congé ou au congé parental d'éducation prévu par l'article L. 122-28-1 du code du travail, le décret n. 79-33 du 8 janvier 1979, ou au congé postnatal prévu à l'article 47 bis de l'ordonnance n. 59-244 du 4 février 1959, l'article 65-1 de la loi n. 72-662 du 13 juillet 1972, les articles L. 415-30 à L. 415-33 du code des communes et l'article 881-1 du code de la santé publique, ou si elle ne peut en bénéficier.
