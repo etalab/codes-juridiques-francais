@@ -12,5 +12,6 @@
 - [Article L551-9](article-l551-9.md)
 - [Article L551-10](article-l551-10.md)
 - [Article L551-11](article-l551-11.md)
+- [Article L551-12](article-l551-12.md)
 - [Article L552](article-l552.md)
 - [Article L556](article-l556.md)
