@@ -15,6 +15,7 @@
 - [Code des caisses d'épargne](code-des-caisses-d-epargne)
 - [Code des marchés publics](code-des-marches-publics)
 - [Code forestier](code-forestier)
+- [Code général des collectivités territoriales](code-general-des-collectivites-territoriales)
 - [Code de la consommation des boissons et des mesures contre l'alcoolisme applicable dans la collectivité territoriale de Mayotte](code-de-la-consommation-des-boissons-et-des-mesures-contre-l-alcoolisme-applicable-dans-la-collectivite-territoriale-de-mayotte)
 - [Code des débits de boissons et des mesures contre l'alcoolisme](code-des-debits-de-boissons-et-des-mesures-contre-l-alcoolisme)
 - [Code des tribunaux administratifs et des cours administratives d'appel](code-des-tribunaux-administratifs-et-des-cours-administratives-d-appel)

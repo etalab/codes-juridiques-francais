@@ -1,0 +1,15 @@
+# Section 1 : Police
+
+- [Article L2542-1](article-l2542-1.md)
+- [Article L2542-2](article-l2542-2.md)
+- [Article L2542-3](article-l2542-3.md)
+- [Article L2542-4](article-l2542-4.md)
+- [Article L2542-5](article-l2542-5.md)
+- [Article L2542-6](article-l2542-6.md)
+- [Article L2542-7](article-l2542-7.md)
+- [Article L2542-8](article-l2542-8.md)
+- [Article L2542-9](article-l2542-9.md)
+- [Article L2542-10](article-l2542-10.md)
+- [Article L2542-11](article-l2542-11.md)
+- [Article L2542-12](article-l2542-12.md)
+- [Article L2542-13](article-l2542-13.md)

@@ -1,0 +1,13 @@
+# CHAPITRE III : Taxes, redevances ou versements non prévus par le code général des impôts
+
+- [Section 1 : Taxe d'usage des abattoirs publics](section-1)
+- [Section 2 : Taxe communale sur l'électricité](section-2)
+- [Section 3 : Taxe sur la publicité frappant les affiches, réclames et enseignes lumineuses](section-3)
+- [Section 4 : Taxe sur les véhicules publicitaires.](section-4)
+- [Section 5 : Taxe communale sur les emplacements publicitaires fixes.](section-5)
+- [Section 6 : Taxes particulières aux stations](section-6)
+- [Section 7 : Taxes de trottoirs et de pavage](section-7)
+- [Section 8 : Versement destiné aux transports en commun](section-8)
+- [Section 9 : Redevance  pour  l'enlèvement  des  déchets,  ordures  et résidus, redevance d'enlèvement des ordures ménagères sur les terrains de camping et redevance spéciale](section-9)
+- [Section 10 : Redevance d'accès aux pistes de ski de fond balisées.](section-10)
+- [Section 11 : Redevances dues pour le transport et la distribution de l'électricité et de gaz](section-11)
