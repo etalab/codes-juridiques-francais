@@ -2,7 +2,7 @@
 
 Lorsque, conformément au deuxième alinéa de l'article L. 321-2, il est fait application des dispositions du quatrième alinéa de l'article 26 de la loi du 21 juin 1865 relatives à l'exécution d'Office des travaux, l'enquête s'effectue ainsi qu'il suit :
 
-- le préfet, sur le rapport du directeur départemental de l'agriculture et après avis de la commission consultative départementale de la protection civile, prend un arrêté prescrivant l'enquête ;
+- le préfet, sur le rapport du directeur départemental de l'agriculture et après avis de la commission consultative départementale de sécurité et d'accessibilité, prend un arrêté prescrivant l'enquête ;
 
 - le dossier de l'enquête comprend le plan, l'avant-projet et le dossier des travaux à entreprendre. Le plan avec les indications qui y sont jointes détermine le périmètre des massifs forestiers intéressés ;
 

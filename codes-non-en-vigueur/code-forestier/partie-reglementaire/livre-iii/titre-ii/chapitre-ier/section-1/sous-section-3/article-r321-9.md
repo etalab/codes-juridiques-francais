@@ -1,6 +1,6 @@
 # Article R321-9
 
-En application du premier alinéa de l'article L. 321-2, les propriétaires de forêts classées, qui ne sont pas groupés en associations syndicales libres avant le classement ou dans un délai d'un an à compter du classement, peuvent être invités par le préfet à se constituer en association syndicale autorisée, sur un programme sommaire des travaux à entreprendre établi par la commission consultative départementale de la protection civile.
+En application du premier alinéa de l'article L. 321-2, les propriétaires de forêts classées, qui ne sont pas groupés en associations syndicales libres avant le classement ou dans un délai d'un an à compter du classement, peuvent être invités par le préfet à se constituer en association syndicale autorisée, sur un programme sommaire des travaux à entreprendre établi par la commission consultative départementale de sécurité et d'accessibilité.
 
 A cet effet, le préfet soumet le programme ainsi dressé et un projet d'acte d'asociation à une enquête administrative.
 
