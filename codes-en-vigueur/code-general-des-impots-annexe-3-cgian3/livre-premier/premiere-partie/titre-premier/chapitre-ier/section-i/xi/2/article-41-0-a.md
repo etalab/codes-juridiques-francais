@@ -28,4 +28,4 @@ II. 1° Constituent des matériels agricoles ou forestiers au sens du quatrième
 
 2° Les entrepreneurs de travaux agricoles ou forestiers s'entendent de ceux qui effectuent à titre principal, pour le compte des exploitants agricoles ou forestiers, les travaux énumérés au I. Cette activité doit procurer à l'entreprise plus de 50 p. 100 de son chiffre d'affaires annuel.
 
-III. La limite d'un million de francs visée au quatrième alinéa de l'article 151 septies précité s'entend du chiffre d'affaires total de l'entreprise.
+III. La limite de 152 600 euros visée au quatrième alinéa de l'article 151 septies précité s'entend du chiffre d'affaires total de l'entreprise.
