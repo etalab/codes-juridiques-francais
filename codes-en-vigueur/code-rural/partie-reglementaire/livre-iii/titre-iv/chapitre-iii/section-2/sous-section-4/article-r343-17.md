@@ -11,3 +11,5 @@ Au vu du rapport de l'organisme chargé de l'instruction par le préfet et, lors
 Le préfet prend ensuite une décision sur l'octroi de la bonification et de la dotation d'installation. La décision d'octroi peut être assortie de conditions concernant le suivi technique, économique et financier de la réalisation du projet du candidat.
 
 Dans le cas où des modifications importantes concernant les productions ou le programme d'investissements apparaissent nécessaires, un avenant à l'étude prévisionnelle d'installation doit être présenté. Il est examiné selon la même procédure que le projet initial.
+
+Le silence gardé pendant plus de six mois par le préfet sur la demande mentionnée au premier alinéa vaut décision de rejet.
