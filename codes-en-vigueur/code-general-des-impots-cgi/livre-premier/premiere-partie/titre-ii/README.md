@@ -1,6 +1,5 @@
 # Titre II : Taxes sur le chiffre d'affaires et taxes assimilées
 
-- [Chapitre VII : Taxe de sécurité et de sûreté sur les aéroports](chapitre-vii)
 - [Chapitre VII bis : Taxe sur la publicité télévisée](chapitre-vii-bis)
 - [Chapitre VII ter : Taxe sur les services de télévision](chapitre-vii-ter)
 - [Chapitre VIII bis : Taxe sur certaines dépenses de publicité](chapitre-viii-bis)
