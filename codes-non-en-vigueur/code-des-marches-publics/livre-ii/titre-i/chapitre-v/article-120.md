@@ -1,0 +1,11 @@
+# Article 120
+
+Les cahiers des clauses administratives générales doivent contenir des clauses conformes aux dispositions suivantes :
+
+L'entrepreneur s'oblige à tenir à la disposition de l'administration contractante et du service de l'inspection du travail la liste nominative des ouvriers qu'il emploie sur le chantier ou dans l'atelier, et éventuellement à domicile, et à leur communiquer, à toute réquisition, ses feuilles de paie. Dans le cas où il sous-traite une partie de son entreprise, il est tenu d'imposer les mêmes obligations à ses sous-traitants.
+
+Un agent de l'administration contractante peut assister au paiement des ouvriers toutes les fois que celle-ci le juge utile et, après avoir demandé à l'entrepreneur et aux sous-traitants communication de toutes pièces justificatives du salaire payé aux ouvriers ou ouvrières travaillant soit sur le chantier, soit en atelier, vérifier la conformité de ces salaires avec les taux normaux et courants inscrits sur les bordereaux. Il peut également assister au paiement des travailleurs à domicile et vérifier dans les mêmes conditions la conformité du salaire avec les prix de façon fixés par arrêté préfectoral. Les mêmes droits appartiennent au service de l'inspection du travail.
+
+Si l'administration contractante constate, soit par elle-même, soit sur les indications qui lui sont fournies par l'inspection du travail, une différence entre le salaire payé aux ouvriers et le salaire courant déterminé conformément à l'article 119, elle indemnise directement les ouvriers lésés au moyen de retenues opérées sur les sommes dues à l'entrepreneur, et éventuellement sur son cautionnement.
+
+L'entrepreneur doit faire apposer sur les cahiers ou dans les ateliers une affiche indiquant l'administration ou service pour le compte duquel les travaux sont exécutés, les nom, qualité et adresse du représentant de cette administration ou service, ainsi que les nom et adresse de l'inspection du travail chargé du contrôle de l'établissement, auxquels les ouvriers qui s'estiment lésés peuvent s'adresser. Dans le cas de travail à domicile, l'affiche est apposée dans les locaux visés à l'avant-dernier alinéa de l'article 119. L'entrepreneur est tenu d'imposer les mêmes obligations à ses sous-traitants.
