@@ -15,3 +15,5 @@ Le délai mentionné au premier alinéa est porté à trente-six heures lorsque 
 Le procureur de la République est, dans les meilleurs délais, informé par l'officier de police judiciaire qu'il est fait application des dispositions de l'alinéa précédent.
 
 [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 93-326 DC du 11 août 1993.]
+
+Le délai mentionné au premier alinéa est porté à soixante-douze heures lorsque la garde à vue est soumise à des règles particulières de prolongation.

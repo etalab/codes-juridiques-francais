@@ -4,9 +4,9 @@ Ont la qualité d'officier de police judiciaire :
 
 1° Les maires et leurs adjoints ;
 
-2° Les officiers et les gradés de la gendarmerie, les gendarmes comptant au moins cinq ans de service dans la gendarmerie, nominativement désignés par arrêté des ministres de la justice et des armées, après avis conforme d'une commission ;
+2° Les officiers et les gradés de la gendarmerie, les gendarmes comptant au moins quatre ans de service dans la gendarmerie, nominativement désignés par arrêté des ministres de la justice et des armées, après avis conforme d'une commission ;
 
-3° Les inspecteurs généraux, les sous-directeurs de police active, les contrôleurs généraux, les commissaires de police ; les fonctionnaires du corps des inspecteurs de police de la police nationale comptant au moins deux ans de services effectifs dans ce corps en qualité de titulaires, nominativement désignés par arrêté des ministres de la justice et de l'intérieur, après avis conforme d'une commission.
+3° Les inspecteurs généraux, les sous-directeurs de police active, les contrôleurs généraux, les commissaires de police ; les fonctionnaires du corps des inspecteurs de police de la police nationale titulaires, nominativement désignés par arrêté des ministres de la justice et de l'intérieur, après avis conforme d'une commission.
 
 La composition des commissions prévues aux 2° et 3° sera déterminée par un décret en Conseil d'Etat pris sur le rapport du ministre de la justice et des ministres intéressés.
 
