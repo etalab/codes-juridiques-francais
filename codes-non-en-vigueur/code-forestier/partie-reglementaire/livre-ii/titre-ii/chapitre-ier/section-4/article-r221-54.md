@@ -17,3 +17,5 @@ S1 est la somme des produits Ri définis ci-dessus, pour l'année (n - 2), pour 
 A est le montant de la taxe perçue, pour le département considéré et pour l'année (n - 2), au profit de la chambre d'agriculture, plafonnée à équivalence du taux de 9 p. 100 ;
 
 S2 est la somme des termes A relatifs à l'année (n - 2), pour l'ensemble des chambres d'agriculture.
+
+Toutefois, la part de chaque chambre d'agriculture est plafonnée au produit de la taxe qu'elle a effectivement perçue sur les immeubles classés au cadastre en nature de bois pour l'année (n - 2). Le montant global des écrêtements ainsi réalisés est réparti entre toutes les chambres d'agriculture dont la part de cotisation, calculée conformément aux dispositions de l'alinéa précédent, est inférieure au produit réel de leur taxe perçue sur les immeubles classés au cadastre en nature de bois. Cette répartition s'effectue au prorata de ladite cotisation. Elle ne peut conduire à porter la part d'une chambre à un niveau supérieur au produit de la taxe.
