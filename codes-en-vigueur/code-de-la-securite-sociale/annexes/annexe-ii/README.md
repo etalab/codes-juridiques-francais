@@ -106,3 +106,6 @@
 - [Article Annexe II : Tableau n° 92](article-annexe-ii-tableau-no-92.md)
 - [Article Annexe II : Tableau n° 93](article-annexe-ii-tableau-no-93.md)
 - [Article Annexe II : Tableau n° 95](article-annexe-ii-tableau-no-95.md)
+- [Article Annexe II : Tableau n° 96](article-annexe-ii-tableau-no-96.md)
+- [Article Annexe II : Tableau n° 97](article-annexe-ii-tableau-no-97.md)
+- [Article Annexe II : Tableau n° 98](article-annexe-ii-tableau-no-98.md)
