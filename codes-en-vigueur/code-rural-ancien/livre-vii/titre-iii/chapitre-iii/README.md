@@ -13,4 +13,6 @@
 - [Article 1234-14](article-1234-14.md)
 - [Article 1234-15](article-1234-15.md)
 - [Article 1234-16](article-1234-16.md)
+- [Article 1234-17](article-1234-17.md)
 - [Article 1234-18](article-1234-18.md)
+- [Article 1234-19](article-1234-19.md)

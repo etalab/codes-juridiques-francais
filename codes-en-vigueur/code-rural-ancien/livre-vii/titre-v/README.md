@@ -1,5 +1,6 @@
 # Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
 
+- [Article 1251](article-1251.md)
 - [Article 1252](article-1252.md)
 - [Article 1252-1](article-1252-1.md)
 - [Article 1253](article-1253.md)

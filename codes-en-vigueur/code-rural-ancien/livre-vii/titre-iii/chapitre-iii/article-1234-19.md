@@ -1,0 +1,5 @@
+# Article 1234-19
+
+Les chefs d'exploitation ou d'entreprise agricole mentionnés à l'article 1234-2 peuvent souscrire pour eux-mêmes et l'ensemble des personnes définies à l'article 1234-1, selon des modalités fixées par décret, une assurance complémentaire leur garantissant, pour les accidents et les maladies professionnelles au sens des dispositions du chapitre 1er du présent titre survenus dans le cadre de leur activité agricole, tout ou partie des prestations définies aux articles L. 431-1, L. 433-1 à L. 433-3, L. 434-1, L. 434-2, L. 434-7 à L. 434-10, L. 434-13 à L. 434-17, L. 435-1, L. 435-2, R. 433-1 à R. 433-4, R. 433-9, R. 433-10, R. 433-14, R. 434-1 à R. 434-4, R. 434-27, R. 434-29, D. 435-1, D. 435-2, L. 431-2, L. 434-3, L. 434-6, L. 436-1, R. 434-5, R. 434-6, R. 434-10, R. 436-5, L. 443-1, R. 443-1, L. 443-2, R. 441-16 et R. 443-2 du code de la sécurité sociale.
+
+Nonobstant les termes des articles L. 434-2, R. 434-1 à R. 434-4 du code de la sécurité sociale, aucune majoration pour tierce personne ne sera accordée au titre de l'assurance complémentaire.
