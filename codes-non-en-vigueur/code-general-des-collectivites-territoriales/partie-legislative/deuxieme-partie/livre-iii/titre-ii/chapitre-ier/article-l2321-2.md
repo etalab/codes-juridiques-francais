@@ -66,4 +66,6 @@ Les communes sont tenues d'informer le public des conditions d'application du pr
 
 30° Les intérêts de la dette et les dépenses de remboursement de la dette en capital ;
 
-31° L'acquittement des dettes exigibles.
+31° Les dépenses occasionnées par l'application des dispositions des articles 2 et 3 de la loi n° 2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage ;
+
+32° L'acquittement des dettes exigibles.
