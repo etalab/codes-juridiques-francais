@@ -4,13 +4,13 @@ Le droit aux prestations, autres que la réadaptation fonctionnelle, la rééduc
 
 - lorsque les pneumoconioses visées au tableau n° 25 se manifestent par une insuffisance respiratoire chronique caractérisée et dans les cas de complications énumérées au même tableau ;
 
-- lorsque l'asbestose visée au tableau n° 30 se manifeste par une insuffisance respiratoire chronique caractérisée et dans les cas de complications et autres maladies énumérées au même tableau ;
+- lorsque l'asbestose visée au tableau n° 30 se manifeste par une insuffisance respiratoire chronique caractérisée et dans les cas de complications et autres maladies énumérées au même tableau et au tableau n° 30 bis ;
 
 - lorsque la sidérose visée au tableau n° 44 se manifeste par une insuffisance respiratoire chronique caractérisée et dans les cas de complications énumérées au même tableau ;
 
 - lorsqu'il s'agit d'une affection broncho-pulmonaire primitive visée au tableau n° 44 bis associée à une sidérose ;
 
-- lorsque la broncho-pneumopathie visée au tableau n° 91 se manifeste par une insuffisance respiratoire chronique caractérisée.
+- lorsque la broncho-pneumopathie visée aux tableaux n°s 91 et 94 se manifeste par une insuffisance respiratoire chronique caractérisée.
 
 Dans les cas de complications aiguës énumérées ci-après :
 
