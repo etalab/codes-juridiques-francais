@@ -32,7 +32,7 @@ La commission départementale d'orientation de l'agriculture commune aux départ
 
 15° Un représentant de la propriété forestière ;
 
-16° Deux représentants d'associations de protection de la nature ou d'organismes gestionnaires de milieux naturels, de la faune et de la flore ;
+16° Deux représentants des associations agréées pour la protection de l'environnement ;
 
 17° Un représentant de l'artisanat ;
 
