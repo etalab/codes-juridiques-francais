@@ -28,7 +28,7 @@ Pour l'imposition des revenus des années 1988 et suivantes, l'abattement prévu
 
 Dans le cas des entreprises industrielles, commerciales, artisanales ou agricoles qui sont soumises à l'impôt d'après leur bénéfice réel et dont les résultats d'ensemble comprennent des revenus relevant de plusieurs catégories ou provenant d'exploitations situées hors de France, il est fait état de ces résultats d'ensemble sans qu'il y ait lieu de les décomposer entre leurs divers éléments dans la déclaration prévue à l'article 170.
 
-4 bis. Les adhérents des centres de gestion et associations agréés définis aux articles 1649 quater C à 1649 quater H ainsi que les membres d'un groupement ou d'une société visés aux articles 8 à 8 quater adhérant à l'un de ces organismes bénéficient d'un abattement de 20 % sur leurs bénéfices déclarés soumis à un régime réel d'imposition ou au régime prévu à l'article 68 F.
+4 bis. Les adhérents des centres de gestion et associations agréés définis aux articles 1649 quater C à 1649 quater H ainsi que les membres d'un groupement ou d'une société visés aux articles 8 à 8 quinquies adhérant à l'un de ces organismes bénéficient d'un abattement de 20 % sur leurs bénéfices déclarés soumis à un régime réel d'imposition ou au régime prévu à l'article 68 F.
 
 Le taux de l'abattement est ramené à 10 % pour la fraction du bénéfice qui excède la limite fixée au cinquième alinéa du a du 5. Aucun abattement n'est appliqué sur la fraction du bénéfice qui excède la limite fixée au sixième alinéa du a du 5.
 
@@ -52,7 +52,7 @@ Le revenu net obtenu en application de l'article 83 et, en ce qui concerne les p
 
 Par exception aux dispositions de l'alinéa précédent, l'ensemble des salaires et indemnités accessoires supérieurs à 440.000 F alloués par une ou plusieurs sociétés à une personne qui détient, directement ou indirectement, plus de 35 p. 100 des droits sociaux sont retenus, pour la fraction excédant 440.000 F, à raison de 90 p. 100 de leur montant, net de frais professionnels (5). Pour l'application de cette disposition, les droits sociaux appartenant au conjoint sont considérés comme détenus indirectement.
 
-Aucun abattement n'est pratiqué sur la fraction du montant des salaires, net de frais professionnels, et pensions qui excède 460.000 F pour l'imposition des revenus de 1982 et 1983. Cette limite est relevée chaque année dans la même proportion que le plafond de la déduction forfaitaire de 10 % pour frais professionnels prévu à l'article 83-3° ; le montant obtenu est arrondi le cas échéant au millier de francs supérieur (6);
+Aucun abattement n'est pratiqué sur la fraction du montant des salaires, net de frais professionnels, et pensions qui excède 460.000 F pour l'imposition des revenus de 1982 et 1983.    Les limites mentionnées aux deux alinéas précédents sont relevées chaque année dans la même proportion que la limite supérieure de la septième tranche du barème de l'impôt sur le revenu. Les montants obtenus sont arrondis, s'il y a lieu, au millier de francs supérieur.
 
 b. Les dispositions du a sont applicables aux allocations versées aux travailleurs privés d'emploi mentionnées à l'article 231 bis D, premier et troisième alinéas, ainsi qu'aux participations en espèces et, à compter du 1er janvier 1991, aux dividendes des actions de travail, alloués aux travailleurs mentionnés au 18° bis de l'article 81, lorsque ces sommes sont imposables ;
 
@@ -60,7 +60,7 @@ c. Lorsque, étant en instance de séparation de corps ou de divorce, les époux
 
 d. En cas de retrait de tout ou partie des sommes figurant sur un plan d'épargne en vue de la retraite ou de versement d'une pension présentant ou non un caractère viager, les dispositions du a sont applicables aux sommes retirées ou à la pension perçue.
 
-Lorsque le retrait dépasse une somme fixée par décret (7), le contribuable peut demander l'application du système prévu à l'article 150 R, sans fractionnement du paiement.
+Lorsque le retrait dépasse une somme fixée par décret (6), le contribuable peut demander l'application du système prévu à l'article 150 R, sans fractionnement du paiement.
 
 Les abattements prévus au a ne s'appliquent qu'à l'excédent des sommes retirées et des pensions perçues au cours de l'année sur le total des versements effectués sur un plan d'épargne en vue de la retraite au cours de l'année et de l'année précédente, sauf si le retrait ou le versement de la pension intervient à partir du soixantième anniversaire du contribuable ou de l'un des époux soumis à imposition commune.
 
@@ -92,6 +92,4 @@ Ces dispositions ne sont pas applicables aux arrérages correspondant aux cotisa
 
 (5) Limite applicable pour l'imposition des revenus de 1991. Cette limite était fixée à 426.400 F pour l'imposition des revenus de 1990.
 
-(6) Limite portée à 607.000F pour les revenus de 1990 et à 588.000 F pour les revenus de 1989.
-
-(7) Annexe III, art. 41 ZH.
+(6) Annexe III, art. 41 ZH.

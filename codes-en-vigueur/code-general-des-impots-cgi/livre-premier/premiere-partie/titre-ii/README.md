@@ -2,6 +2,7 @@
 
 - [Chapitre V : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité.](chapitre-v)
 - [Chapitre VII : Taxe de sécurité et de sûreté sur les aéroports](chapitre-vii)
+- [Chapitre VII bis : Taxe sur la publicité télévisée](chapitre-vii-bis)
 - [Chapitre VIII : Taxe forfaitaire annuelle sur les services de communication audiovisuelle](chapitre-viii)
 - [Chapitre IX : Redevance sanitaire d'abattage](chapitre-ix)
 - [Chapitre X : Redevance sanitaire de découpage](chapitre-x)

@@ -1,4 +1,4 @@
-# Section I : Procédure préalable auprès de l'administration des impôts
+# Section I : Procédure préalable auprès de l'administration
 
 - [I : Délais de réclamation.](i)
 - [II : Forme et contenu des réclamations.](ii)

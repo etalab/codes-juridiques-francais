@@ -6,4 +6,5 @@
 - [II bis : Bénéfices non commerciaux](ii-bis)
 - [III : Revenus des capitaux mobiliers](iii)
 - [V : Plus-values de cession à titre onéreux de biens ou de droits de toute nature](v)
+- [VI : Taxe sur les métaux précieux, les bijoux, objets d'art, de collection et d'antiquité](vi)
 - [VII : Dispositions communes](vii)

@@ -4,6 +4,8 @@
 - [Article 92 D](article-92-d.md)
 - [Article 92 B](article-92-b.md)
 - [Article 92 B bis](article-92-b-bis.md)
+- [Article 92 B ter](article-92-b-ter.md)
+- [Article 92 B quater](article-92-b-quater.md)
 - [Article 92 E](article-92-e.md)
 - [Article 92 F](article-92-f.md)
 - [Article 92 G](article-92-g.md)

@@ -4,13 +4,13 @@ Les locataires de droit de pêche et les titulaires de licences s'engagent à se
 
 Ce cahier, conforme à un modèle fixé conjointement par le ministre chargé du domaine et par le ministre chargé de la pêche en eau douce, comporte des clauses et conditions générales portant notamment sur :
 
-1° Les modalités de perception du prix des licences, les modalités de perception et de révision du prix des locations ainsi que les garanties exigées des locataires ;
+1° Les modalités de perception du prix des licences, les modalités de perception et de révision du prix des locations et des licences de pêche aux engins et aux filets attribuées aux pêcheurs professionnels, ainsi que les garanties exigées des locataires ;
 
 2° Les conditions dans lesquelles les associations locataires du droit de pêche aux lignes peuvent conclure des accords de jouissance réciproque au profit de leurs membres respectifs ;
 
 3° Les conditions dans lesquelles le locataire du droit de pêche aux engins et aux filets peut s'associer avec un cofermier pour l'exploitation de son lot ;
 
-4° Les conditions dans lesquelles le locataire et, le cas échéant, le cofermier mentionnés au 3° peuvent désigner un compagnon pouvant faire acte de pêche en leur absence ;
+4° Les conditions dans lesquelles le locataire et, le cas échéant, le cofermier mentionnés au 3° peuvent désigner un ou plusieurs compagnons pouvant faire acte de pêche en leur absence ;
 
 5° Les obligations des locataires et des titulaires de licences en ce qui concerne :
 

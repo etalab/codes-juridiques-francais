@@ -6,3 +6,4 @@
 - [III bis : Taxe d'apprentissage.](iii-bis)
 - [IV : Taxe sur les salaires. Taux majorés](iv)
 - [VI : Participation des employeurs au développement de la formation professionnelle continue](vi)
+- [VII : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité.](vii)

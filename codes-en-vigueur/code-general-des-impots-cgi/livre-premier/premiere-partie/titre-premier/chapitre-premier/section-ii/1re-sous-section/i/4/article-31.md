@@ -14,7 +14,7 @@ c) Les impositions, autres que celles incombant normalement à l'occupant, perç
 
 d) Les intérêts de dettes contractées pour la conservation, l'acquisition, la construction, la réparation ou l'amélioration des propriétés;
 
-e) Une déduction forfaitaire fixée à 8 % [*pourcentage*] des revenus bruts et représentant les frais de gestion, l'assurance et l'amortissement.
+e) Une déduction forfaitaire fixée à 10 % [*pourcentage*] des revenus bruts et représentant les frais de gestion, l'assurance et l'amortissement (1).
 
 Le taux de cette déduction [*forfaitaire pour certains logements neufs*] est porté à 25 p. 100 pour les revenus des dix premières années de location des logements ouvrant droit à la réduction visée au II de l'article 199 nonies à la condition que ces logements soient loués à titre de résidence principale pendant les six années qui suivent celle de leur achèvement ou de leur acquisition si elle est postérieure. En cas de non-respect de l'engagement ou de cession du logement, le supplément de déduction pratiqué à ce titre fait l'objet d'une reprise au titre de l'année de la rupture de l'engagement ou de la cession.
 
@@ -35,3 +35,5 @@ d) Une déduction forfaitaire fixée à 10 % des revenus bruts et représentant 
 e) (Devenu sans objet).
 
 II (Transféré sous l'article 156-II-1° ter).
+
+(1) Ces dispositions s'appliquent à compter de l'imposition des revenus de 1993.

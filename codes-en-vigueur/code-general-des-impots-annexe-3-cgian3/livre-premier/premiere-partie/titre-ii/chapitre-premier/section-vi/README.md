@@ -5,3 +5,5 @@
 - [Article 95](article-95.md)
 - [Article 96](article-96.md)
 - [Article 96 A](article-96-a.md)
+- [3° Déclaration des échanges de biens entre Etats membres de la Communauté économique européenne.](3-declaration-des-echanges-de-biens-entre-etats-membres-de-la-communaute-economique-europeenne)
+- [Déclaration des échanges de biens entre Etats membres de la Communauté économique européenne.](declaration-des-echanges-de-biens-entre-etats-membres-de-la-communaute-economique-europeenne)

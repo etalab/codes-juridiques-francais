@@ -6,7 +6,7 @@ Le montant net du revenu imposable est déterminé en déduisant du montant brut
 
 1° bis Les cotisations afférentes au régime de retraite complémentaire institué par la caisse nationale de prévoyance de la fonction publique. Des décrets peuvent étendre le bénéfice de cette disposition aux régimes de retraites complémentaires constitués au profit des fonctionnaires et agents de l'Etat, des collectivités locales et des établissements publics, soit auprès d'organismes relevant du code de la mutualité, soit auprès d'entreprises d'assurances régies par le livre III du code des assurances.
 
-2° Les cotisations ou les primes versées aux organismes de retraite et de prévoyance complémentaires auxquels le salarié est affilié à titre obligatoire.
+2° Les cotisations ou les primes versées aux organismes de retraite et de prévoyance complémentaires auxquels le salarié est affilié à titre obligatoire ainsi que les cotisations versées, à compter du 1er janvier 1993, à titre obligatoire au régime de prévoyance des joueurs professionnels de football institué par la charte du football professionnel.
 
 Lorsque le total des versements du salarié et de l'employeur tant aux caisses de sécurité sociale au titre de l'assurance vieillesse qu'aux organismes de retraite et de prévoyance complémentaires excède 19 % d'une somme égale à huit fois (2) le plafond annuel moyen retenu pour le calcul des cotisations de sécurité sociale ou lorsqu'à l'intérieur de cette limite, les versements aux seuls organismes de prévoyance dépassent 3 % de la même somme, l'excédent est ajouté  à la rémunération ;
 

@@ -24,12 +24,10 @@ A titre transitoire, les sociétés visées à l'alinéa précédent pourront d�
 
 1 bis. Lorsqu'une société exerce l'option pour le régime de groupe mentionné à l'article 223 A, les dispositions du 1 ci-dessus ne sont pas applicables pour la détermination des résultats des exercices clos au cours de la période de cinq ans à compter de la date d'ouverture du premier exercice au titre duquel elle a exercé cette option.
 
-Les sommes mentionnées aux 1°, 2° et 5° du 1 ci-dessus non déduites en application de l'alinéa précédent conservent le caractère de ristournes pour les personnes qui les reçoivent. "
+Les sommes mentionnées aux 1°, 2° et 5° du 1 ci-dessus non déduites en application de l'alinéa précédent conservent le caractère de ristournes pour les personnes qui les reçoivent.
 
-2. Le Gouvernement pourra, par décrets pris en conseil des ministres, après avis du conseil d'Etat, avant le 31 décembre 1957, autoriser la déduction d'une fraction des revenus distribués ne pouvant excéder 5 % [*pourcentage*] du montant des souscriptions en numéraire recueillies par les entreprises qui procéderaient à une constitution ou à une augmentation de capital avant le 31 décembre 1961 [*date*], le bénéfice de cette mesure étant réservé aux entreprises qui concourent à la réalisation des programmes des plans de modernisation et d'équipement et aux activités qui se rattachent aux programmes de développement régional (1).
+2. (Périmé).
 
-Ces décrets détermineront d'une manière générale les conditions d'application de cette disposition.
-
-3. Le bénéfice des dispositions du 2 peut être accordé, dans les mêmes conditions, aux sociétés ayant émis avant le 31 décembre 1965 des obligations convertibles en actions, ainsi qu'aux sociétés françaises constituées ou ayant procédé à l'augmentation de leur capital entre le 31 décembre 1961 et le 31 décembre 1965 [*période*].
+3. (Périmé).
 
 (1) Annexe II, art. 96 à 99.

@@ -12,3 +12,4 @@
 - [X bis : Plus-values de cessions de droits sociaux](x-bis)
 - [X ter : Report d'imposition des plus-values réalisées en cas d'échange de valeurs mobilières et de droit sociaux.](x-ter)
 - [XI : Dispositions communes aux différentes catégories de revenus](xi)
+- [M bis : Renseignements à fournir par les entreprises sur l'état mentionné à l'article 54 septies du code général des impôts.](m-bis)

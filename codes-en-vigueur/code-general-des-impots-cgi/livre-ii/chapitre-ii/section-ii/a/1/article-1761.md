@@ -8,7 +8,7 @@ Si la date de la majoration coïncide avec celle du versement d'un des acomptes 
 
 1 bis Lorsqu'une cotisation de taxe foncière sur les propriétés bâties ou non bâties ou de taxe d'habitation a été mutée ou transférée dans les conditions prévues à l'article 1404 au nom d'un redevable autre que celui figurant au rôle, la majoration prévue au 1 n'est due par le nouveau débiteur de l'impôt qu'à défaut de paiement intégral de l'imposition mutée au plus tard le 15 du deuxième mois suivant celui au cours duquel le nouveau débiteur de l'impôt a été avisé de la décision de mutation.
 
-1 ter La majoration prévue au 1 est appliquée au montant de la contribution mentionnée à l'article 1600-0 B qui n'a pas été réglé dans les trente jours suivant la mise en recouvrement.
+1 ter La majoration prévue au 1 est appliquée au montant de la contribution mentionnée à l'article 1600-0 C qui n'a pas été réglé dans les trente jours suivant la mise en recouvrement.
 
 2 Cette majoration ne peut être cumulée avec celle prévue à l'article 1762.
 

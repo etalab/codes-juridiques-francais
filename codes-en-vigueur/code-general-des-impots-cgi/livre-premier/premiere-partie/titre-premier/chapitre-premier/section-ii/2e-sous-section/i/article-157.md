@@ -16,6 +16,10 @@ Ces dispositions ne sont pas applicables aux primes de remboursement définies a
 
 5° Les produits et plus-values que procurent les placements effectués dans le cadre d'un plan d'épargne en vue de la retraite ainsi que les avoirs fiscaux et crédits d'impôt attachés à ces produits et remboursés par l'Etat ; ces sommes s'ajoutent aux versements effectués sur le plan (2) ;
 
+5° bis. Les produits et plus-values que procurent les placements effectués dans le cadre du plan d'épargne en actions défini à l'article 163 quinquies D ainsi que les avoirs fiscaux et crédits d'impôt restitués ;
+
+5° ter. La rente viagère, lorsque le plan d'épargne en actions défini à l'article 163 quinquies D se dénoue après huit ans par le versement d'une telle rente ;
+
 6° Les gratifications allouées aux vieux travailleurs à l'occasion de la délivrance de la médaille d'honneur par le ministère des affaires sociales ;
 
 7° Les intérêts des sommes inscrites sur les livrets des caisses d'épargne à l'exception des intérêts des livrets supplémentaires ouverts dans les conditions prévues au décret n° 65-1158 du 24 décembre 1965 ;
@@ -24,7 +28,9 @@ Ces dispositions ne sont pas applicables aux primes de remboursement définies a
 
 7° ter La rémunération des sommes déposées sur les livrets d'épargne populaire ouverts dans les conditions prévues par la loi n° 82-357 du 27 avril 1982 ;
 
-8° (Devenu sans objet)    8° bis. Les intérêts des titres de l'emprunt 4 1/2 % 1973 autorisé par la loi n° 73-965 du 16 octobre 1973, ainsi que les plus-values éventuelles de cession ou de remboursement de ces titres ;
+8° (Devenu sans objet)
+
+8° bis (Périmé).
 
 8° ter. Les plus-values éventuelles de cession ou de remboursement des titres de l'emprunt d'Etat 8,80 % 1977 autorisé par la loi n° 77-486 du 13 mai 1977 ;
 
@@ -36,7 +42,7 @@ Ces dispositions ne sont pas applicables aux primes de remboursement définies a
 
 - aux travailleurs, salariés de l'artisanat, des ateliers industriels, des chantiers et de l'agriculture ;
 
-- aux aides familiaux ou aux associés d'exploitation désignés à l'article 1106-1-I-2° du code rural ;
+- aux aides familiaux ou aux associés d'exploitation désignés au 2° du I de l'article 1106-1 du code rural et aux articles L. 321-6 et suivants du même code ;
 
 - aux aides familiaux et associés d'exploitation de l'artisanat désignés à l'article 2 du décret n° 83-487 du 10 juin 1983 relatif au répertoire des métiers.
 

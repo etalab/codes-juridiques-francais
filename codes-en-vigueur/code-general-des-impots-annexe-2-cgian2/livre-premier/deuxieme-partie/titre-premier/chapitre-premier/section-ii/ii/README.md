@@ -6,3 +6,4 @@
 - [Article 310 HB quinquies](article-310-hb-quinquies.md)
 - [Article 310 HB sexies](article-310-hb-sexies.md)
 - [Article 310 HB septies](article-310-hb-septies.md)
+- [Article 310 HB octies](article-310-hb-octies.md)

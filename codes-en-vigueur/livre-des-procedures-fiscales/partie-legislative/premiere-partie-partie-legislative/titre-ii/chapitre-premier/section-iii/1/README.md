@@ -2,4 +2,5 @@
 
 - [Article L47](article-l47.md)
 - [Article L47 A](article-l47-a.md)
+- [Article L47 B](article-l47-b.md)
 - [Article L49](article-l49.md)

@@ -1,8 +1,10 @@
 # A : Sanctions fiscales.
 
 - [Article 1725](article-1725.md)
+- [Article 1725 A](article-1725-a.md)
 - [Article 1726](article-1726.md)
 - [Article 1727](article-1727.md)
+- [Article 1727-0 A](article-1727-0-a.md)
 - [Article 1727 A](article-1727-a.md)
 - [Article 1728](article-1728.md)
 - [Article 1728 A](article-1728-a.md)
@@ -21,4 +23,5 @@
 - [Article 1740 quater](article-1740-quater.md)
 - [Article 1740 quinquies](article-1740-quinquies.md)
 - [Article 1740 sexies](article-1740-sexies.md)
+- [Article 1740 septies](article-1740-septies.md)
 - [*FACTURES DE COMPLAISANCE*.](factures-de-complaisance)

@@ -1,6 +1,6 @@
 # Article 71 A
 
-Pour l'application des dispositions du 9° du II de l'article 291 du code général des impôts, sont considérées comme oeuvres d'art originales [*définition*] les réalisations ci-après :
+Pour l'application des dispositions relatives à la taxe sur la valeur ajoutée, sont considérées comme oeuvres d'art originales les réalisations ci-après :
 
 1° Tableaux, peintures, dessins, aquarelles, gouaches, pastels, monotypes, entièrement exécutés de la main de l'artiste ;
 
@@ -14,4 +14,4 @@ Pour l'application des dispositions du 9° du II de l'article 291 du code géné
 
 6° Emaux sur cuivre, entièrement exécutés à la main, dans la limite de huit exemplaires numérotés et comportant la signature de l'artiste ou de l'atelier d'art, à l'exclusion des articles de bijouterie, d'orfèvrerie et de joaillerie ;
 
-7° Photographies dont les épreuves sont exécutées soit par l'artiste, soit sous son contrôle ou celui de ses ayants droit et sont signées par l'artiste ou authentifiées par lui-même ou ses ayants droit, et numérotées dans la limite de trente exemplaires tous formats et supports confondus. Toute épreuve posthume doit être indiquée comme telle au dos de façon lisible.
+7° Photographies dont les épreuves sont exécutées soit par l'artiste, soit sous son contrôle ou celui de ses ayants droit et sont signées par l'artiste ou authentifiées par lui-même ou ses ayants droit, et numérotées dans la limite de trente exemplaires tous formats et supports confondus. Toute épreuve posthume doit être indiquée comme telle au dos de façon lisible. 8° Pièces d'ébénisterie de plus de cent ans d'âge dont la rareté et l'estampille ou l'attribution établissent l'originalité du travail de l'artiste, à l'exclusion des articles d'orfèvrerie et de joaillerie.

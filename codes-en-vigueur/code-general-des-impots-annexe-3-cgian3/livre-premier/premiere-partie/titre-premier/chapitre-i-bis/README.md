@@ -10,6 +10,7 @@
 - [Section V : Profits de construction](section-v)
 - [Section V bis : Rachat d'une entreprise par ses salariés](section-v-bis)
 - [Section VI : Report en arrière des déficits](section-vi)
+- [Section VI bis : Option de souscription, achat ou attribution gratuite d'actions](section-vi-bis)
 - [Section VII : Bénéfice imposable des caisses de crédit mutuel agricole et rural](section-vii)
 - [Section VIII : Régime des groupes de sociétés](section-viii)
 - [Section IX : Entreprises nouvelles bénéficiant des dispositions de l'article 44 septies](section-ix)

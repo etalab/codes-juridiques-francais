@@ -6,9 +6,7 @@ a) Des avoirs fiscaux et crédits d'impôt attachés aux produits reçus par une
 
 b) Des crédits d'impôt pour dépenses de recherche dégagés par chaque société du groupe en application de l'article 244 quater B. Les dispositions du I de l'article 199 ter B s'appliquent à la somme de ces crédits d'impôt.
 
-La restitution à laquelle est tenue une société du groupe en application du III de l'article 199 ter B est acquittée par la société mère.
-
-c) Des crédits d'impôt pour dépenses de formation dégagés par chaque société du groupe en application de l'article 244  quater C. Les dispositions du premier alinéa de l'article 199 ter C s'appliquent à la somme de ces crédits d'impôt.
+c) Des crédits d'impôt pour dépenses de formation dégagés par chaque société du groupe en application de l'article 244 quater C. Les dispositions du premier alinéa de l'article 199 ter C s'appliquent à la somme de ces crédits d'impôt.
 
 d) Des crédits d'impôt pour accroissement de la durée d'utilisation des équipements et réduction de la durée hebdomadaire du travail dégagés par chaque société du groupe en application de l'article 244 quater E.
 

@@ -4,4 +4,6 @@
 - [2° : Réduction d'impôt pour certains investissements dans l'immobilier locatif - Obligations.](2)
 - [3° : Réduction d'impôt au titre de certains investissements réalisés outre-mer](3)
 - [4° : Réduction d'impôt au titre des souscriptions au capital de sociétés nouvelles](4)
+- [7° : Réduction d'impôt pour dépenses de formation du chef d'entreprise](7)
+- [8° : Réduction d'impôt au titre du rachat d'une entreprise par ses salariés.](8)
 - [Réduction d'impôt pour certains investissements dans l'immobilier locatif - Obligations.](reduction-d-impot-pour-certains-investissements-dans-l-immobilier-locatif)

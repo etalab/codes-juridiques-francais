@@ -6,7 +6,7 @@ Le taux de la réduction d'impôt mentionnée à l'article 199 decies A est port
 
 2° La location prend effet dans les six mois qui suivent l'achèvement de l'immeuble ou son acquisition si elle est postérieure ;
 
-3° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par le décret prévu au troisième alinéa du 3° du I de l'article 156.
+3° Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par décret.
 
 Ces dispositions s'appliquent également aux souscriptions au capital de sociétés civiles régies par la loi n° 70-1300 du 31 décembre 1970 fixant le régime applicable aux sociétés civiles autorisées à faire publiquement appel à l'épargne, réalisées à compter du 1er janvier 1993 lorsque la société s'engage à affecter intégralement le produit de la souscription annuelle, dans les six mois qui suivent la clôture de celle-ci, à l'acquisition de logements neufs loués dans les mêmes conditions. Le souscripteur doit s'engager à conserver les parts pendant une durée de six ans à compter de la date de l'achèvement des immeubles ou de leur acquisition par la société si elle est postérieure.
 
