@@ -2,6 +2,7 @@
 
 - [SECTION 1 : Réseaux de télécommunications.](section-1)
 - [SECTION 2 : Services de télécommunication.](section-2)
+- [SECTION 4 : Dispositions diverses.](section-4)
 - [Article L39](article-l39.md)
 - [Article L40](article-l40.md)
 - [Article L41](article-l41.md)
