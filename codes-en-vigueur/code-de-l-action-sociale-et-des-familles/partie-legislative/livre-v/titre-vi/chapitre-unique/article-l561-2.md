@@ -4,7 +4,7 @@ Pour l'application des dispositions prévues à l'article L. 561-1, les mots men
 
 - " représentant de l'Etat dans le département " par " haut-commissaire de la République en Polynésie française " ;
 
-- " président du conseil général " par " président de l'assemblée territoriale " ;
+- " président du conseil général " par " président du gouvernement " ;
 
 - " tribunal de grande instance " par " tribunal de première instance " ;
 
