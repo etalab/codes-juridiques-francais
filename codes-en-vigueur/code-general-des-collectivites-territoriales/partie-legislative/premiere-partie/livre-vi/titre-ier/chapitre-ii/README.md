@@ -10,6 +10,7 @@
 - [Article L1612-9](article-l1612-9.md)
 - [Article L1612-10](article-l1612-10.md)
 - [Article L1612-11](article-l1612-11.md)
+- [Article L1612-12](article-l1612-12.md)
 - [Article L1612-13](article-l1612-13.md)
 - [Article L1612-14](article-l1612-14.md)
 - [Article L1612-15](article-l1612-15.md)

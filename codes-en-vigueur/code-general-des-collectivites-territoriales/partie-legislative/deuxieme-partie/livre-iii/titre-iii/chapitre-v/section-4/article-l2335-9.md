@@ -8,6 +8,6 @@ Le Fonds national pour le développement des adductions d'eau a pour objet de pe
 
 3° Subsidiairement, l'octroi de prêts pour le financement des travaux d'alimentation en eau potable dans les communes rurales.
 
-4° Jusqu'au 31 décembre 2000, l'attribution de subventions en capital aux exploitations agricoles pour l'exécution de travaux de maîtrise des pollutions d'origine agricole destinés à assurer la protection de la qualité de l'eau.
+4° Jusqu'au 31 décembre 2006, l'attribution de subventions en capital aux exploitations agricoles pour l'exécution de travaux de maîtrise des pollutions d'origine agricole destinés à assurer la protection de la qualité de l'eau.
 
 A cette date, il sera procédé à un réexamen de cette compétence du Fonds national pour le développement des adductions d'eau.    Il est débité des dépenses correspondant aux charges énumérées ci-dessus.

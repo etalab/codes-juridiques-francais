@@ -1,8 +1,6 @@
 # Titre II : Mutualité sociale agricole
 
-- [Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer.](chapitre-iii-2)
 - [Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.](chapitre-iv-1)
-- [Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.](chapitre-iv-2)
 - [Chapitre IV-3 : Assurance veuvage des personnes non salariées.](chapitre-iv-3)
 - [Chapitre IV : Assurance vieillesse des personnes non salariées](chapitre-iv)
 - [Article 1003-1](article-1003-1.md)

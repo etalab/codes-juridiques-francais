@@ -10,6 +10,8 @@ les établissements publics de coopération intercommunale dont la population n'
 
 - les établissements publics de coopération intercommunale de plus de 20 000 habitants dans les départements de métropole et de plus de 35 000 habitants dans les départements d'outre-mer, dont les communes membres répondent aux critères indiqués ci-dessus.
 
+- les établissements publics de coopération intercommunale de plus de 20 000 habitants dans les départements de métropole et de plus de 35 000 habitants dans les départements d'outre-mer, composés de communes de moins de 3 500 habitants, dont le potentiel fiscal moyen par habitant est inférieur à 1,3 fois le potentiel fiscal moyen par habitant de l'ensemble des établissements publics de coopération intercommunale de même nature.
+
 Les communes de la collectivité territoriale de Saint-Pierre-et-Miquelon bénéficient de la dotation.
 
 Les syndicats mentionnés au premier alinéa de l'article L. 5334-20 ne sont pas compris dans la répartition prévue par le présent article.
