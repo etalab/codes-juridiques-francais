@@ -5,6 +5,7 @@
 - [Article R*831-5](article-r-831-5.md)
 - [Article R*831-6](article-r-831-6.md)
 - [Article R*831-7](article-r-831-7.md)
+- [Article R831-7](article-r831-7.md)
 - [Article R*831-8](article-r-831-8.md)
 - [Article R*831-9](article-r-831-9.md)
 - [Article R*831-10](article-r-831-10.md)
