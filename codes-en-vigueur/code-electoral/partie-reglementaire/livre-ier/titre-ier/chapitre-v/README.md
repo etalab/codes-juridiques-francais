@@ -7,6 +7,7 @@
 - [Article R31](article-r31.md)
 - [Article R32](article-r32.md)
 - [Article R33](article-r33.md)
+- [Article R34](article-r34.md)
 - [Article R35](article-r35.md)
 - [Article R36](article-r36.md)
 - [Article R37](article-r37.md)
