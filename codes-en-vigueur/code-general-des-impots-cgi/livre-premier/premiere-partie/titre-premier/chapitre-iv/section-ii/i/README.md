@@ -2,6 +2,7 @@
 
 - [1° : Financement en capital d'oeuvres cinématographiques ou audiovisuelles](1)
 - [2° : Souscription de parts de copropriété de navires de commerce](2)
+- [3° : Financement de la pêche artisanale](3)
 - [Article 236](article-236.md)
 - [Article 236 bis](article-236-bis.md)
 - [Article 236 ter](article-236-ter.md)

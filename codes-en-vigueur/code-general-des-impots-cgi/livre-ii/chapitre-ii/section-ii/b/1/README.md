@@ -13,3 +13,4 @@
 - [Article 1788 sexies](article-1788-sexies.md)
 - [Article 1788 septies](article-1788-septies.md)
 - [Article 1788 octies](article-1788-octies.md)
+- [Article 1788 nonies](article-1788-nonies.md)

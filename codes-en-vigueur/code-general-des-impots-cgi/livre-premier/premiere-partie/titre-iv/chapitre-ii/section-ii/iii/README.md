@@ -1,4 +1,4 @@
-# III : Passeports et titres de voyages
+# III : Passeports et titres de voyage
 
 - [Article 953](article-953.md)
 - [Article 954](article-954.md)

@@ -11,6 +11,7 @@
 - [18° : Réduction d'impôt accordée au titre des intérêts des prêts à la consommation](18)
 - [19° : Réduction d'impôt accordée au titre des dons faits par les particuliers](19)
 - [2° : Réduction d'impôt accordée aux adhérents de centres de gestion ou d'associations agréés](2)
+- [21° : Crédit d'impôt accordé au titre des dépenses d'entretien afférentes à l'habitation principale.](21)
 - [3° : Réduction d'impôt accordée au titre des cotisations versées aux organisations syndicales](3)
 - [4° : Réduction d'impôt accordée au titre des frais de garde des jeunes enfants.](4)
 - [5° : Réduction d'impôt pour dépenses de formation du chef d'entreprise](5)

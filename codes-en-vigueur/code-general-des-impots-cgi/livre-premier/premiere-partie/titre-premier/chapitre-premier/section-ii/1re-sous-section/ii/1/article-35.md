@@ -4,7 +4,7 @@ I Présentent également le caractère de bénéfices industriels et commerciaux
 
 1° Personnes qui, habituellement, achètent en leur nom, en vue de les revendre, des immeubles, des fonds de commerce, des actions ou parts de sociétés immobilières ou qui, habituellement, souscrivent, en vue de les revendre, des actions ou parts créées ou émises par les mêmes sociétés.
 
-Ces personnes s'entendent notamment de celles qui achètent des biens immeubles, en vue d'édifier un ou plusieurs bâtiments et de les vendre, en bloc ou par locaux;
+((1° bis Personnes qui, à titre habituel, achètent des biens immeubles, en vue d'édifier un ou plusieurs bâtiments et de les vendre, en bloc ou par locaux)) (M);
 
 2° Personnes se livrant à des opérations d'intermédiaire pour l'achat, la souscription ou la vente des biens visés au 1°;
 
@@ -20,7 +20,7 @@ a, b, c et d  (Abrogés);
 
 7° Membres des copropriétés de navires mentionnées à l'article 8 quater.
 
-7° bis (Abrogé) (M) ;
+7° bis (Abrogé) ;
 
 8° Personnes qui, à titre professionnel, effectuent en France ou à l'étranger, directement ou par personne interposée, des opérations sur un marché à terme d'instruments financiers ou d'options négociables ou sur des bons d'option (1), à condition qu'elles aient opté pour ce régime dans les quinze jours du début du premier exercice d'imposition à ce titre. L'option est irrévocable.
 
@@ -30,6 +30,6 @@ II  (Abrogé)
 
 III  Pour l'application du présent article, les donations entre vifs ne sont pas opposables à l'administration.
 
-(M) Modification de la loi 96-1182.
+(M) Modification.
 
 (1) Ces dispositions s'appliquent aux profits sur bons d'option réalisés à compter du 1er janvier 1991. Pour les profits réalisés au cours de l'année 1991, l'option peut être exercée jusqu'au 15 janvier 1992.

@@ -8,7 +8,7 @@ A compter du 1er janvier 1995 :
 
 2° Les dispositions du 1° s'appliquent également aux sociétés soumises à l'impôt sur les sociétés qui exercent une activité professionnelle au sens du 1 de l'article 92 dont l'effectif de salariés bénéficiant d'un contrat de travail à durée indéterminée ou d'une durée de six mois au moins est égal ou supérieur à trois à la clôture du premier exercice et au cours de chaque exercice de la période d'application des dispositions du présent article ; si l'effectif varie en cours d'exercice, il est calculé compte tenu de la durée de présence des salariés en cause pendant l'exercice.
 
-Ces dispositions ne s'appliquent pas aux entreprises qui exercent une activité bancaire, financière, d'assurances, de gestion ou de location d'immeubles.
+Ces dispositions ne s'appliquent pas aux entreprises qui exercent une activité bancaire, financière, d'assurances, de gestion ou de location d'immeubles, ni aux entreprises exerçant une activité de pêche maritime créées à compter du 1er janvier 1997.
 
 II. Le capital des sociétés nouvelles ne doit pas être détenu, directement ou indirectement, pour plus de 50 p. 100 par d'autres sociétés.
 

@@ -2,7 +2,9 @@
 
 - [Chapitre VII : Taxe de sécurité et de sûreté sur les aéroports](chapitre-vii)
 - [Chapitre VII bis : Taxe sur la publicité télévisée](chapitre-vii-bis)
+- [Chapitre VII ter : Taxe sur les services de télévision](chapitre-vii-ter)
 - [Chapitre VIII : Taxe forfaitaire annuelle sur les services de communication audiovisuelle](chapitre-viii)
+- [Chapitre VIII bis : Taxe sur certaines dépenses de publicité](chapitre-viii-bis)
 - [Chapitre IX : Redevance sanitaire d'abattage](chapitre-ix)
 - [Chapitre X : Redevance sanitaire de découpage](chapitre-x)
 - [Chapitre XI : Taxe forfaitaire sur les livraisons de postes émetteurs-récepteurs fonctionnant sur les canaux banalisés](chapitre-xi)

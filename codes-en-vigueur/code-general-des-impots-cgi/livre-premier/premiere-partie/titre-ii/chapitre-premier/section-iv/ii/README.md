@@ -8,4 +8,5 @@
 - [Article 273 sexies](article-273-sexies.md)
 - [Article 273 septies](article-273-septies.md)
 - [Article 273 septies A](article-273-septies-a.md)
+- [Article 273 septies B](article-273-septies-b.md)
 - [Article 273 octies](article-273-octies.md)

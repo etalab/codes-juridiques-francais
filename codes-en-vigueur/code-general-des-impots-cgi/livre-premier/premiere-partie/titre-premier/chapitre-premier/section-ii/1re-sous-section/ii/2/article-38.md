@@ -34,7 +34,7 @@ Les dispositions des premier et deuxième alinéas ne sont pas applicables si la
 
 6. 1° Par exception aux 1 et 2, le profit ou la perte résultant de l'exécution de contrats à terme d'instruments financiers en cours à la clôture de l'exercice est compris dans les résultats de cet exercice ; il est déterminé d'après le cours constaté au jour de la clôture sur le marché sur lequel le contrat a été conclu.
 
-Ces dispositions s'appliquent aux contrats, options et autres instruments financiers à terme conclus en France ou à l'étranger, qui sont cotés sur une bourse de valeurs ou traités sur un marché ou par référence à un marché (4) ((à l'exception des contrats visés au quatrième alinéa du 7, reçus dans le cadre d'une opération d'échange visée à ce même alinéa )) (M) ;
+Ces dispositions s'appliquent aux contrats, options et autres instruments financiers à terme conclus en France ou à l'étranger, qui sont cotés sur une bourse de valeurs ou traités sur un marché ou par référence à un marché (4) à l'exception des contrats visés au quatrième alinéa du 7, reçus dans le cadre d'une opération d'échange visée à ce même alinéa (4') ;
 
 2° Dans le cas où un contrat à terme d'instruments financiers en cours à la clôture de l'exercice a pour cause exclusive de compenser le risque d'une opération de l'un des deux exercices suivants, traitée sur un marché de nature différente, l'imposition du profit réalisé sur le contrat est reportée au dénouement de celui-ci, à condition que les opérations dont la compensation est envisagée figurent sur le document prévu au 3° (5);
 
@@ -42,7 +42,7 @@ Ces dispositions s'appliquent aux contrats, options et autres instruments financ
 
 3° Lorsqu'une entreprise a pris des positions symétriques, la perte sur une de ces positions n'est déductible du résultat imposable que pour la partie qui excède les gains non encore imposés sur les positions prises en sens inverse.
 
-Pour l'application de ces dispositions, une position [*définition*] s'entend de la détention directe ou indirecte, de contrats à terme d'instruments financiers, de valeurs mobilières, de devises, de titres de créances négociables, de prêts ou d'emprunts ou d'un engagement portant sur ces éléments.
+Pour l'application de ces dispositions, une position s'entend de la détention directe ou indirecte, de contrats à terme d'instruments financiers, de valeurs mobilières, de devises, de titres de créances négociables, de prêts ou d'emprunts ou d'un engagement portant sur ces éléments.
 
 Des positions sont qualifiées de symétriques si leurs valeurs ou leurs rendements subissent des variations corrélées telles que le risque de variation de valeur ou de rendement de l'une d'elles est compensé par une autre position, sans qu'il soit nécessaire que les positions concernées soient de même nature ou prises sur la même place, ou qu'elles aient la même durée.
 
@@ -54,7 +54,7 @@ Toutefois, en cas d'échange ou de conversion avec soulte, la plus-value réalis
 
 Ces dispositions ne sont pas applicables si le total de la soulte et, le cas échéant, du prix des droits mentionnés au deuxième alinéa dépasse 10 p. 100 de la valeur nominale des actions attribuées ou si ce total excède la plus-value réalisée.
 
-((Lorsque, à l'occasion d'une opération d'échange d'actions mentionnée au premier alinéa, l'un des coéchangistes garantit, par un contrat d'instrument financier, à une date fixée dans l'offre et comprise entre douze et soixante mois suivant la date de clôture de cette offre, le cours des actions remises à l'échange dont il est l'émetteur, le profit ou la perte résultant de l'échange d'actions est soumis aux dispositions de ce premier alinéa et le profit résultant de l'attribution de ce contrat d'instrument financier n'est pas compris dans les résultats de l'exercice de l'échange ; les sommes reçues par le coéchangiste sont comprises, selon le cas, dans les résultats de l'exercice de cession du contrat ou de celui de la mise en oeuvre de la garantie prévue par le contrat. Dans ce dernier cas, les sommes reçues peuvent bénéficier du régime des plus-values à long terme prévu à l'article 39 duodecies si les actions remises et reçues à l'échange relèvent de ce régime, respectivement à la date de l'opération d'échange et à l'échéance du contrat en cause, et si l'action dont le cours est garanti par ce contrat ainsi que ce dernier ont été conservés jusqu'à cette échéance. Pour l'appréciation de cette dernière condition, les contrats conservés jusqu'à la date de leur échéance sont affectés par priorité aux actions encore détenues à cette date)) (M).
+Lorsque, à l'occasion d'une opération d'échange d'actions mentionnée au premier alinéa, l'un des coéchangistes garantit, par un contrat d'instrument financier, à une date fixée dans l'offre et comprise entre douze et soixante mois suivant la date de clôture de cette offre, le cours des actions remises à l'échange dont il est l'émetteur, le profit ou la perte résultant de l'échange d'actions est soumis aux dispositions de ce premier alinéa et le profit résultant de l'attribution de ce contrat d'instrument financier n'est pas compris dans les résultats de l'exercice de l'échange ; les sommes reçues par le coéchangiste sont comprises, selon le cas, dans les résultats de l'exercice de cession du contrat ou de celui de la mise en oeuvre de la garantie prévue par le contrat. Dans ce dernier cas, les sommes reçues peuvent bénéficier du régime des plus-values à long terme prévu à l'article 39 duodecies si les actions remises et reçues à l'échange relèvent de ce régime, respectivement à la date de l'opération d'échange et à l'échéance du contrat en cause, et si l'action dont le cours est garanti par ce contrat ainsi que ce dernier ont été conservés jusqu'à cette échéance. Pour l'appréciation de cette dernière condition, les contrats conservés jusqu'à la date de leur échéance sont affectés par priorité aux actions encore détenues à cette date.
 
 Lorsqu'une entreprise remet à l'échange plusieurs titres en application des modalités d'échange, la valeur mentionnée à la deuxième phrase du premier alinéa correspond au total de la valeur que chacun de ces titres avait du point de vue fiscal ; le délai de deux ans mentionné au même alinéa s'apprécie à compter de la date d'acquisition ou de souscription la plus récente des actions remises à l'échange par cette entreprise.
 
@@ -92,7 +92,7 @@ La fraction afférente aux droits de souscription est égale à la différence e
 
 9. 1° L'application de la méthode d'évaluation prévue à l'article 340-4 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales n'a pas d'incidence sur les résultats imposables, par dérogation aux 1 et 2 du présent article ;
 
-2° Toutefois, les dispositions du onzième alinéa du 5° du 1 de l'article 39 sont applicables à la fraction de la provision constituée à raison de l'écart d'équivalence négatif, qui correspond à la dépréciation définie au douzième alinéa du 5° du 1 de l'article 39, des titres évalués selon cette méthode. L'excédent éventuel de cette provision n'est pas déductible pour l'assiette de l'impôt.
+2° Toutefois, les dispositions du ((quatorzième alinéa du 5° du 1 de l'article 39)) (M) sont applicables à la fraction de la provision constituée à raison de l'écart d'équivalence négatif, qui correspond à la dépréciation définie au ((quinzième alinéa du 5° du 1 de l'article 39)) (M), des titres évalués selon cette méthode. L'excédent éventuel de cette provision n'est pas déductible pour l'assiette de l'impôt.
 
 Les provisions qui sont transférées au poste d'écart d'équivalence ainsi que celles devenues sans objet en raison de l'application de la méthode d'évaluation mentionnée au 1° sont immédiatement rapportées aux résultats imposables. Les provisions pour dépréciation des titres ainsi transférées sont comprises dans les plus-values à long terme de l'exercice visées au 1 du I de l'article 39 quindecies ;
 
@@ -110,11 +110,11 @@ La moins-value de même nature est retenue dans les mêmes conditions, et ne peu
 
 (2) Disposition applicable pour la détermination des résultats des exercices clos à compter du 16 avril 1986. Pour les exercices en cours à cette date, voir loi n° 86-824 du 11 juillet 1986, art. 21-II.
 
-(3) Dispositions appplicables à compter du 1er janvier 1991.
+(3) Dispositions applicables à compter du 1er janvier 1991.
 
 (4) Voir annexe III, art. 2 A.
 
-(M) Modification de la loi 96-1182. Ces dispositions s'appliquent aux opérations d'échange réalisées à compter du 1er janvier 1997.
+(4')Ces dispositions s'appliquent aux opérations d'échange réalisées à compter du 1er janvier 1997.
 
 (5) Voir annexe III, art. 2 B.
 
@@ -125,5 +125,7 @@ Ces dispositions s'appliquent pour déterminer les résultats des exercices ouve
 (7) Ces dispositions s'appliquent pour la détermination des résultats des exercices ouverts à compter du 1er janvier 1994.
 
 (8) Ces dispositions s'appliquent aux opérations qui affectent les résultats des exercices ouverts à compter du 1er janvier 1995.
+
+(M) Modification de la loi 97-1269.
 
 (9) Voir annexe III, art. 38 B.

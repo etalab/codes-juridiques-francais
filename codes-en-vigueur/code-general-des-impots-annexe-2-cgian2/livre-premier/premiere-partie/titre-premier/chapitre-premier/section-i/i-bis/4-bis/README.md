@@ -6,3 +6,4 @@
 - [Article 16 B](article-16-b.md)
 - [Article 16 E](article-16-e.md)
 - [Article 16 F](article-16-f.md)
+- [Article 16 G](article-16-g.md)

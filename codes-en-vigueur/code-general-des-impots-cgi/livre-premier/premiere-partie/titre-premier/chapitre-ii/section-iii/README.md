@@ -36,3 +36,6 @@
 - [Article 217 septies](article-217-septies.md)
 - [Article 217 octies](article-217-octies.md)
 - [Article 217 nonies](article-217-nonies.md)
+- [Article 217 decies](article-217-decies.md)
+- [Article 217 undecies](article-217-undecies.md)
+- [Article 217 duodecies](article-217-duodecies.md)

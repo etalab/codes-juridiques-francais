@@ -11,6 +11,7 @@
 - [Article 92 B septies](article-92-b-septies.md)
 - [Article 92 B octies](article-92-b-octies.md)
 - [Article 92 B nonies](article-92-b-nonies.md)
+- [Article 92 B decies](article-92-b-decies.md)
 - [Article 92 E](article-92-e.md)
 - [Article 92 F](article-92-f.md)
 - [Article 92 G](article-92-g.md)

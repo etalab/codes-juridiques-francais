@@ -1,6 +1,7 @@
 # 1° : Garanties accordées au contribuable en matière de vérification
 
 - [Article L47](article-l47.md)
+- [Article L47 C](article-l47-c.md)
 - [Article L47 A](article-l47-a.md)
 - [Article L47 B](article-l47-b.md)
 - [Article L48](article-l48.md)

@@ -1,6 +1,7 @@
 # 2 : Amendes fiscales
 
 - [Article 1763](article-1763.md)
+- [Article 1763 D](article-1763-d.md)
 - [Article 1763 A](article-1763-a.md)
 - [Article 1764](article-1764.md)
 - [Article 1765 bis](article-1765-bis.md)
@@ -9,6 +10,7 @@
 - [Article 1768](article-1768.md)
 - [Article 1768 bis](article-1768-bis.md)
 - [Article 1768 ter](article-1768-ter.md)
+- [Article 1768 quater](article-1768-quater.md)
 - [Article 1770](article-1770.md)
 - [Article 1770 bis](article-1770-bis.md)
 - [Article 1770 ter](article-1770-ter.md)

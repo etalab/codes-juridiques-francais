@@ -27,6 +27,7 @@
 - [Article 163 bis B](article-163-bis-b.md)
 - [Article 163 bis E](article-163-bis-e.md)
 - [Article 163 bis F](article-163-bis-f.md)
+- [Article 163 bis G](article-163-bis-g.md)
 - [Article 163 quinquies](article-163-quinquies.md)
 - [Article 163 quinquies C](article-163-quinquies-c.md)
 - [Article 163 quinquies A](article-163-quinquies-a.md)
@@ -38,3 +39,4 @@
 - [e : Plan d'épargne en vue de la retraite.](e)
 - [f : Copropriétés de navires](f)
 - [g : Copropriétés de navires de commerce](g)
+- [h : Souscription en numéraire au capital de sociétés agréées de financement de la pêche artisanale](h)

@@ -9,3 +9,4 @@
 - [7° : Réduction d'impôt pour dépenses de formation du chef d'entreprise](7)
 - [8° : Réduction d'impôt au titre du rachat d'une entreprise par ses salariés.](8)
 - [9° : Réduction d'impôt au titre des intérêts des prêts à la consommation](9)
+- [8° bis : Réduction d'impôt accordée au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet.](8-bis)

@@ -7,6 +7,7 @@
 - [Section III : Intérêts de livrets supplémentaires de caisses d'épargne](section-iii)
 - [Section III bis : Supplément d'impôt sur les sociétés](section-iii-bis)
 - [Section IV : Modalités d'application du précompte.](section-iv)
+- [Section IV bis : Modalités de l'exonération de la retenue à la source ou du prélèvement applicable aux dividendes, intérêts et redevances distribués ou payées entre sociétés associées d'Etats membres de la Communauté européenne](section-iv-bis)
 - [Section V : Profits de construction](section-v)
 - [Section V bis : Rachat d'une entreprise par ses salariés](section-v-bis)
 - [Section VI : Report en arrière des déficits](section-vi)
@@ -16,3 +17,4 @@
 - [Section VIII : Régime des groupes de sociétés](section-viii)
 - [Section IX : Entreprises nouvelles bénéficiant des dispositions de l'article 44 septies](section-ix)
 - [Section XI : Régime des amortissements réputés différés en période déficitaire en cas de reprise ou de transfert d'activités](section-xi)
+- [Section XII : Réduction du taux de l'impôt sur les sociétés pour certaines sociétés qui incorporent une fraction de leur bénéfice au capital](section-xii)
