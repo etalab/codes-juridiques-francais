@@ -4,7 +4,7 @@ En l'absence de plan d'occupation des sols opposable aux tiers, ou de tout docum
 
 1° L'adaptation, la réfection ou l'extension des constructions existantes ;
 
-2° Les constructions et installations nécessaires à des équipements collectifs, à l'exploitation agricole, à la mise en valeur des ressources naturelles et à la réalisation d'opérations d'intérêt national ;
+2° Les constructions et installations nécessaires à des équipements collectifs, à la réalisation d'aires d'acceuil ou de terrains de passage des gens du voyage, à l'exploitation agricole, à la mise en valeur des ressources naturelles et à la réalisation d'opérations d'intérêt national ;
 
 3° Les constructions et installations incompatibles avec le voisinage des zones habitées et l'extension mesurée des constructions et installations existantes.
 
