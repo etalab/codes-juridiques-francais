@@ -38,6 +38,10 @@ Guadeloupe
 
 450
 
+Guyane
+
+400
+
 Haute-Marne
 
 300
@@ -53,6 +57,10 @@ Ille-et-Vilaine
 Indre
 
 230
+
+Martinique
+
+400
 
 Mayenne
 
