@@ -1,5 +1,5 @@
-# Chapitre III : Formations technologiques et professionnelles de cycle long, formation des techniciens supérieurs agricoles
+# Chapitre III : Dispositions relatives aux établissements d'enseignement agricole privés sous contrat
 
-- [Section 1 : Enseignement technologique de cycle long.](section-1)
-- [Section 2 : Formation des techniciens supérieurs agricoles.](section-2)
+- [Section 1 : Dispositions générales](section-1)
+- [Section 2 : Dispositions particulières à chaque catégorie d'établissements sous contrat](section-2)
 - [Section 3 : Dispositions communes.](section-3)
