@@ -8,6 +8,7 @@
 - [Titre VI : De la vente](titre-vi)
 - [Titre VII : De l'échange](titre-vii)
 - [Titre VIII : Du contrat de louage](titre-viii)
+- [Titre VIII bis : Du contrat de promotion immobilière](titre-viii-bis)
 - [Titre X : Du prêt](titre-x)
 - [Titre XI : Du dépôt et du séquestre](titre-xi)
 - [Titre XII : Des contrats aléatoires.](titre-xii)
