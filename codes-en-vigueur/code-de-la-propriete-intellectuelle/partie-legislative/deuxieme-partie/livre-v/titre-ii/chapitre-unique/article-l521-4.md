@@ -1,9 +1,7 @@
 # Article L521-4
 
-Toute atteinte portée sciemment aux droits garantis par le présent livre est punie d'une amende de 90 F à 20 000 F.
+Toute atteinte portée sciemment aux droits garantis par le présent livre est punie de deux ans d'emprisonnement et de 1 000 000 F d'amende [*sanctions pénales*].
 
-Dans le cas de récidive, ou si le délinquant est une personne ayant travaillé pour la partie lésée, il est prononcé, en outre, un emprisonnement d'un mois à six mois.
+En outre, le tribunal peut ordonner la fermeture totale ou partielle, définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement ayant servi à commettre l'infraction.
 
-Il y a récidive lorsqu'il a été prononcé contre le prévenu, dans les cinq années antérieures, une première condamnation pour un des délits prévus par le présent livre.
-
-Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera pas cinq années du droit d'élection et d'éligibilité pour les tribunaux et chambres de commerce, ainsi que pour les conseils de prud'hommes.
+La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4 et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six mois d'emprisonnement et de 25 000 F d'amende.
