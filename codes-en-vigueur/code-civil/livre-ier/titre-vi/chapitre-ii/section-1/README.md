@@ -2,7 +2,6 @@
 
 - [Article 247](article-247.md)
 - [Article 248](article-248.md)
-- [Article 248-1](article-248-1.md)
 - [Article 249](article-249.md)
 - [Article 249-1](article-249-1.md)
 - [Article 249-2](article-249-2.md)
