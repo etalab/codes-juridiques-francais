@@ -6,5 +6,6 @@
 - [Article 333 B](article-333-b.md)
 - [Article 333 E](article-333-e.md)
 - [Article 333 F](article-333-f.md)
+- [Article 333 F bis](article-333-f-bis.md)
 - [Article 333 G](article-333-g.md)
 - [Article 333 G bis](article-333-g-bis.md)
