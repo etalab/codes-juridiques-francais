@@ -22,4 +22,8 @@ L'option mentionnée à l'article 260 B ne s'applique pas :
 
 10° Aux opérations soumises à la taxe sur les conventions d'assurance.
 
-(1)  Annexe IV, art. 23 O. 2)  Annexe IV, art. 23 P.
+11° Aux opérations visées aux d et g du 1° de l'article 261 C.
+
+(1) Annexe IV, art. 23 O.
+
+(2) Annexe IV, art. 23 P.

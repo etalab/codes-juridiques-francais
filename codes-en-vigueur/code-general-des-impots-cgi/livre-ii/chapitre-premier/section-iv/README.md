@@ -12,4 +12,5 @@
 - [VII A : Droits de timbre](vii-a)
 - [VIII : Taxe locale d'équipement](viii)
 - [IX : Versement pour dépassement du plafond légal de densité (1)](ix)
+- [X : Taxe sur les conventions d'assurances et taxes assimilées](x)
 - [VII-0 A : Impôt de solidarité sur la fortune](vii-0-a)
