@@ -1,6 +1,5 @@
 # Agents nommés dans des emplois permanents à temps complet
 
-- [ALLOCATION TEMPORAIRE D'INVALIDITE .](allocation-temporaire-d-invalidite)
 - [AVANCEMENT .](avancement)
 - [DISCIPLINE .](discipline)
 - [Dispositions générales et organiques](dispositions-generales-et)
