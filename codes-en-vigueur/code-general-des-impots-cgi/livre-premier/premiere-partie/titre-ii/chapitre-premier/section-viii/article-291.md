@@ -40,6 +40,8 @@ e. Déchets neufs d'industrie et matières de récupération ;
 
 9° (Abrogé à compter du 1er janvier 1995).
 
+10° Les importations de gaz naturel ou d'électricité.
+
 III Sont également exonérées de la taxe sur la valeur ajoutée :
 
 1° La réimportation, par la personne qui les a exportés, de biens dans l'état où ils ont été exportés et qui bénéficient de la franchise des droits de douane, ou qui en bénéficieraient s'ils étaient soumis à des droits de douane ;

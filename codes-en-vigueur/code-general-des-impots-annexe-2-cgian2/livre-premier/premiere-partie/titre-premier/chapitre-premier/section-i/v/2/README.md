@@ -1,7 +1,6 @@
 # 2 : Biens et droits mobiliers ou immobiliers.
 
 - [Article 74 SA](article-74-sa.md)
-- [Article 74 SB](article-74-sb.md)
 - [Article 74 SC](article-74-sc.md)
 - [Article 74 SD](article-74-sd.md)
 - [Article 74 SE](article-74-se.md)

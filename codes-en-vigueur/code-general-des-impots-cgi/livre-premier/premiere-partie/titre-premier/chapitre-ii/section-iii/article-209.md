@@ -8,17 +8,15 @@ Sous réserve de l'option prévue à l'article 220 quinquies, en cas de déficit
 
 II. En cas de fusion ou opération assimilée placée sous le régime de l'article 210 A, les déficits antérieurs non encore déduits par la société absorbée ou apporteuse sont transférés, sous réserve d'un agrément délivré dans les conditions prévues à l'article 1649 nonies, à la ou aux sociétés bénéficiaires des apports, et imputables sur ses ou leurs bénéfices ultérieurs dans les conditions prévues au troisième alinéa du I.
 
+En cas de scission ou d'apport partiel d'actif, les déficits transférés sont ceux afférents à la branche d'activité apportée.
+
 L'agrément est délivré lorsque :
 
 a. L'opération est justifiée du point de vue économique et obéit à des motivations principales autres que fiscales ;
 
 b. L'activité à l'origine des déficits dont le transfert est demandé est poursuivie par la ou les sociétés bénéficiaires des apports pendant un délai minimum de trois ans.
 
-Les déficits sont transférés dans la limite de la plus importante des valeurs suivantes appréciées à la date d'effet de l'opération :
-
-la valeur brute des éléments de l'actif immobilisé affectés à l'exploitation hors immobilisations financières ;
-
-la valeur d'apport de ces mêmes éléments.
+II bis. - En cas de reprise d'un passif excédant la valeur réelle de l'actif qui est transféré à l'occasion d'une opération mentionnée au 3° du I de l'article 210-0 A, la charge correspondant à cet excédent ne peut être déduite.
 
 III. abrogé
 
