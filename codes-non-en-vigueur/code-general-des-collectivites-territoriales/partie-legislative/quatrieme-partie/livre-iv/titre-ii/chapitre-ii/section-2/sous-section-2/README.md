@@ -2,3 +2,4 @@
 
 - [Article L4422-18](article-l4422-18.md)
 - [Article L4422-18-1](article-l4422-18-1.md)
+- [Article L4422-23](article-l4422-23.md)
