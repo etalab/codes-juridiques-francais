@@ -8,6 +8,6 @@ b. Lorsqu'ils sont destinés à constater le paiement des droits dus sur des cop
 
 c. S'il s'agit d'écrits créés hors de France au moment où l'impôt devient exigible en France ;
 
-d. Dans les autres cas  au plus tard au moment de la signature des écrits  de la souscription des effets et  pour les warrants  du premier endossement.
+d. Dans les autres cas  au plus tard au moment de la signature des écrits.
 
 Ils sont immédiatement oblitérés.

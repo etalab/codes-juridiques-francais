@@ -34,6 +34,8 @@ n. Au titre de 1994, à 1 pour les propriétés non bâties, à 1,01 pour les im
 
 o. Au titre de 1995, à 1 pour les propriétés non bâties et pour les immeubles industriels ne relevant pas de l'article 1500 et à 1,02 pour l'ensemble des autres propriétés bâties.
 
-((p. Au titre de 1996, à 1 pour les propriétés non bâties et pour les immeubles industriels ne relevant pas de l'article 1500 et à 1,01 pour l'ensemble des autres propriétés bâties)) (M).
+p. Au titre de 1996, à 1 pour les propriétés non bâties et pour les immeubles industriels ne relevant pas de l'article 1500 et à 1,01 pour l'ensemble des autres propriétés bâties.
 
-(M) Modification de la loi 95-885.
+((q. au titre de 1997, à 1 pour les propriétés non bâties, pour les immeubles industriels ne relevant pas de l'article 1500 et à 1,01 pour l'ensemble des autres propriétés bâties)) (M).
+
+(M) Modification de la loi 96-1181.

@@ -1,5 +1,6 @@
 # I : Revenu imposable
 
+- [c : Financement en capital d'oeuvres cinématographiques ou audiovisuelles.](c)
 - [Article 156](article-156.md)
 - [Article 157](article-157.md)
 - [Article 157 bis](article-157-bis.md)
@@ -32,6 +33,7 @@
 - [Article 163 quinquies A](article-163-quinquies-a.md)
 - [Article 163 quinquies B](article-163-quinquies-b.md)
 - [Article 163 A](article-163-a.md)
+- [d : Créateurs d'entreprises.](d)
 - [b : Détaxation du revenu investi en actions](b)
 - [Créateurs d'entreprises.](createurs-d-entreprises)
 - [e : Plan d'épargne en vue de la retraite.](e)
