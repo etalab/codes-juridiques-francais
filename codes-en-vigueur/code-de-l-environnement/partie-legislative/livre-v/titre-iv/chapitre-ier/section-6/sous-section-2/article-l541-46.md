@@ -22,7 +22,9 @@ I. - Est puni de deux ans d'emprisonnement et de 75 000 euros d'amende le fait d
 
 10° Mettre obstacle à l'accomplissement des contrôles ou à l'exercice des fonctions des agents prévus à l'article L. 541-44 ;
 
-11° Exporter ou faire exporter, importer ou faire importer, faire transiter des déchets visés au premier alinéa de l'article L. 541-40 sans satisfaire aux prescriptions prises en vertu de cet article ou de ses textes d'application.
+11° Exporter ou faire exporter, importer ou faire importer, faire transiter des déchets visés au premier alinéa de l'article L. 541-40 sans satisfaire aux prescriptions prises en vertu de cet article ou de ses textes d'application ;
+
+12° Méconnaître les obligations d'information prévues à l'article L. 325-3 du code des ports maritimes.
 
 II. - En cas de condamnation prononcée pour les infractions visées aux 4°, 6° et 8° du I, le tribunal peut ordonner, sous astreinte, la remise en état des lieux endommagés par les déchets qui n'ont pas été traités dans les conditions conformes à la loi.
 

@@ -35,3 +35,7 @@ Les fonctionnaires du corps de maîtrise et d'application de la police nationale
 - les unités d'éloignement.
 
 4° Pour les unités autoroutières des compagnies républicaines de sécurité pour les voies de circulation auxquelles elles sont affectées : les bureaux de circulation routière.
+
+5° Pour la direction de la police urbaine de proximité de la préfecture de police :
+
+Le service de police déconcentré chargé de la sécurité des personnes et des biens sur les réseaux de transport en commun de voyageurs par voie ferrée visé au deuxième alinéa de l'article R. 15-30 du code de procédure pénale.
