@@ -8,7 +8,7 @@ L'infraction définie à l'article 222-1 est punie de vingt ans de réclusion cr
 
 3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
 
-4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel ou toute autre personne dépositaire de l'autorité publique ou chargée d'une mission de service public, dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un militaire de la gendarmerie, un fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité publique ou chargée d'une mission de service public, dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
 
 5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
 

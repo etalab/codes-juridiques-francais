@@ -1,6 +1,6 @@
 # Article 422-3
 
-Les personnes physiques coupables de l'une des infractions prévues par les articles 421-1 et 421-2 encourent également les peines complémentaires suivantes :
+Les personnes physiques coupables de l'une des infractions prévues par le présent titre encourent également les peines complémentaires suivantes :
 
 1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26. Toutefois, le maximum de la durée de l'interdiction est porté à quinze ans en cas de crime et à dix ans en cas de délit ;
 

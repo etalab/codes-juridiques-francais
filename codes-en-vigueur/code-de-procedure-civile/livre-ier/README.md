@@ -6,6 +6,7 @@
 - [Titre IV : La demande en justice.](titre-iv)
 - [Titre V : Les moyens de défense.](titre-v)
 - [Titre VI : La conciliation.](titre-vi)
+- [Titre VI bis : La médiation.](titre-vi-bis)
 - [Titre VII : L'administration judiciaire de la preuve.](titre-vii)
 - [Titre VIII : La pluralité des parties.](titre-viii)
 - [Titre IX : L'intervention.](titre-ix)
