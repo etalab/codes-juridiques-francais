@@ -1,18 +1,18 @@
 # Article L641-5
 
-L'Institut national des appellations d'origine est un établissement public administratif, jouissant de la personnalité civile.
+L'Institut national des appellations d'origine est un établissement public administratif jouissant de la personnalité civile. Il comprend :
 
-Il comprend :
-
-1° Un comité national compétent pour les vins, eaux-de-vie, cidres, poirés, apéritifs à base de cidres, de poirés ou de vins ;
+1° Un comité national des vins et eaux-de-vie, cidres, poirés et apéritifs à base de vins, cidres et poirés ;
 
 2° Un comité national des produits laitiers ;
 
-3° Un comité national des produits autres que ceux couverts par les instances mentionnées ci-dessus.
+3° Un comité national des produits autres que ceux couverts par les instances mentionnées ci-dessus ;
 
-Ces comités sont composés de représentants professionnels, de représentants des administrations et de personnalités qualifiées permettant notamment la représentation des consommateurs.
+4° Un comité national pour les indications géographiques protégées.
 
-Chacun de ces comités se prononce pour les produits de sa compétence sur les questions mentionnées à l'article L. 641-6.
+Ces comités sont composés de représentants des professionnels, de représentants des administrations et de personnes qualifiées assurant notamment la représentation des consommateurs.
+
+Chacun de ces comités se prononce pour les produits de sa compétence sur les questions mentionnées aux articles L. 641-2, L. 641-3 et L. 641-6.
 
 Les membres de ces comités sont réunis en séance plénière pour la présentation du budget et de la politique générale de l'institut.
 

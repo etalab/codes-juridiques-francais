@@ -15,6 +15,7 @@
 - [Article 1002-1](article-1002-1.md)
 - [Article 1002-2](article-1002-2.md)
 - [Article 1002-3](article-1002-3.md)
+- [Article 1002-3-1](article-1002-3-1.md)
 - [Article 1002-4](article-1002-4.md)
 - [Article 1003](article-1003.md)
 - [Article 1003-1](article-1003-1.md)

@@ -8,6 +8,7 @@
 - [Article L632-6](article-l632-6.md)
 - [Article L632-7](article-l632-7.md)
 - [Article L632-8](article-l632-8.md)
+- [Article L632-8-1](article-l632-8-1.md)
 - [Article L632-9](article-l632-9.md)
 - [Article L632-10](article-l632-10.md)
 - [Article L632-11](article-l632-11.md)

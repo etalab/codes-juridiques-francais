@@ -21,3 +21,5 @@ Le département peut déléguer son droit de préemption à l'occasion de l'ali�
 Si, à son expiration, le décret de classement d'un parc naturel régional n'est pas renouvelé, les biens que ce parc a acquis par exercice de ce droit de préemption deviennent propriété du département.
 
 Dans les articles L. 142-1 et suivants, l'expression "titulaire du droit de préemption" s'entend également du délégataire en application du précédent alinéa, s'il y a lieu.
+
+Les représentants des organisations professionnelles agricoles et forestières sont consultés sur la délimitation de ces zones de préemption.

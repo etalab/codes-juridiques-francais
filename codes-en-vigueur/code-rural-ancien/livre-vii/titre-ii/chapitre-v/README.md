@@ -6,3 +6,4 @@
 - [Article 1143-3](article-1143-3.md)
 - [Article 1143-4](article-1143-4.md)
 - [Article 1143-6](article-1143-6.md)
+- [Article 1143-7](article-1143-7.md)

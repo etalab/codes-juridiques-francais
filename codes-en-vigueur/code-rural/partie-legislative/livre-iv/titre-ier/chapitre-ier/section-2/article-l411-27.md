@@ -3,3 +3,5 @@
 Ainsi qu'il est dit à l'article 1766 du code civil, si le preneur d'un héritage rural ne le garnit pas des bestiaux et des ustensiles nécessaires à son exploitation, s'il abandonne la culture, s'il ne cultive pas en bon père de famille, s'il emploie la chose louée à un autre usage que celui auquel elle a été destinée, ou, en général, s'il n'exécute pas les clauses du bail, et qu'il en résulte un dommage pour le bailleur, celui-ci peut, suivant les circonstances, faire résilier le bail.
 
 En cas de résiliation provenant du fait du preneur, celui-ci est tenu des dommages et intérêts, ainsi qu'il est prévu à l'article L. 411-36.
+
+Le fait que le preneur applique sur les terres prises à bail des méthodes culturales ayant pour objet de protéger l'environnement, la qualité de l'eau ou des produits, ou de préserver la biodiversité, ne peut être invoqué à l'appui d'une demande de résiliation formée en application du présent article.

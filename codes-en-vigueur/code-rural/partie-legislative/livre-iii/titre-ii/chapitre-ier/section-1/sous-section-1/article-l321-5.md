@@ -1,5 +1,13 @@
 # Article L321-5
 
-Pour bénéficier des droits et avantages que la loi confère à l'exploitant agricole, le conjoint qui exploite un fonds agricole séparé doit apporter la preuve de l'exercice effectif de cette activité séparée.
+Le conjoint du chef d'une exploitation ou d'une entreprise agricole qui n'est pas constituée sous forme d'une société ou d'une coexploitation entre conjoints peut y exercer son activité professionnelle en qualité de collaborateur d'exploitation ou d'entreprise agricole.
 
-L'exploitation par chacun des époux d'un fonds agricole séparé ne peut avoir pour effet de les placer dans une situation plus favorable, en ce qui concerne leurs statuts économique, social et fiscal, que celle dont ils bénéficieraient s'ils exploitaient ensemble un fonds équivalent à la réunion de leurs deux exploitations.
+Sous réserve de l'application des dispositions de l'article L. 321-1, le conjoint de l'associé d'une exploitation ou d'une entreprise agricole constituée sous la forme d'une société peut également prétendre au statut de collaborateur lorsqu'il y exerce son activité professionnelle et n'est pas associé de ladite société.
+
+L'option pour la qualité de collaborateur doit être formulée par le conjoint en accord avec le chef d'exploitation ou d'entreprise agricole et, le cas échéant, la société d'exploitation dans des conditions prévues par décret en Conseil d'Etat.
+
+L'option prend effet à compter du 1er janvier de l'année en cours si l'intéressé remplissait à cette date les conditions prévues aux deux premiers alinéas du présent article et si elle est formulée avant le 1er juillet. Dans le cas contraire, elle prend effet au 1er janvier suivant.
+
+Par dérogation, l'option formulée avant le 1er juillet 2000 prend effet au 1er janvier 1999 si le conjoint remplissait, à cette dernière date, les conditions fixées à l'article 1122-1. Pour les personnes bénéficiant du statut de conjoint collaborateur d'exploitation ou d'entreprise agricole à compter du 1er janvier 1999, la cotisation prévue au b de l'article 1123 due pour l'année 2000 est majorée au titre de l'année 1999 dans des conditions fixées par décret.
+
+Le collaborateur bénéficie du droit à l'assurance vieillesse des personnes non salariées des professions agricoles dans les conditions prévues aux chapitres IV et IV-1 du titre II du livre VII lorsque son conjoint relève du régime agricole, ainsi que d'une créance de salaire différé dans les conditions prévues au chapitre Ier du titre II du livre III (nouveau).

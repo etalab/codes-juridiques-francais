@@ -8,7 +8,9 @@ L'indemnité est ainsi fixée :
 
 3° En ce qui concerne les travaux de transformation du sol en vue de sa mise en culture ou d'un changement de culture entraînant une augmentation du potentiel de production du terrain de plus de 20 p. 100, les améliorations culturales ainsi que les améliorations foncières mentionnées à l'article L. 411-28, l'indemnité est égale à la somme que coûteraient, à l'expiration du bail, les travaux faits par le preneur dont l'effet est susceptible de se prolonger après son départ, déduction faite de l'amortissement dont la durée ne peut excéder dix-huit ans ;
 
-4° En cas de reprise effectuée en application des articles L. 411-6, L. 411-58 et L. 411-60 du présent code, et en ce qui concerne les travaux régulièrement exécutés en application des 1 et 3 du I de l'article L. 411-73 du présent code, l'indemnité est égale à la valeur au jour de l'expiration du bail des améliorations apportées compte tenu de leurs conditions techniques et économiques d'utilisation.
+4° En cas de reprise effectuée en application des articles L. 411-6, L. 411-58 et L. 411-60 du présent code, et en ce qui concerne les travaux régulièrement exécutés en application des 1 et 3 du I de l'article L. 411-73 du présent code, l'indemnité est égale à la valeur au jour de l'expiration du bail des améliorations apportées compte tenu de leurs conditions techniques et économiques d'utilisation ;
+
+5° En ce qui concerne les travaux imposés par l'autorité administrative, l'indemnité est fixée comme au 1°, sauf accord écrit et préalable des parties.
 
 La part des travaux mentionnés au présent article dont le financement a été assuré par une subvention ne donne pas lieu à indemnité.
 
