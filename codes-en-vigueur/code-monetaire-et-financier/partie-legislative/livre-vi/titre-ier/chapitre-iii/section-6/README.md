@@ -1,9 +1,0 @@
-# Section 6 : Mesures disciplinaires de redressement et de liquidation judiciaires.
-
-- [Article L613-25](article-l613-25.md)
-- [Article L613-26](article-l613-26.md)
-- [Article L613-27](article-l613-27.md)
-- [Article L613-28](article-l613-28.md)
-- [Article L613-29](article-l613-29.md)
-- [Article L613-30](article-l613-30.md)
-- [Article L613-31](article-l613-31.md)
