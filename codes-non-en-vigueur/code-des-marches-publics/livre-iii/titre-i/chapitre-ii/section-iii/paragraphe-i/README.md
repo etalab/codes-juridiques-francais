@@ -6,3 +6,4 @@
 - [Article 297 bis](article-297-bis.md)
 - [Article 298](article-298.md)
 - [Article 299](article-299.md)
+- [Article 300](article-300.md)
