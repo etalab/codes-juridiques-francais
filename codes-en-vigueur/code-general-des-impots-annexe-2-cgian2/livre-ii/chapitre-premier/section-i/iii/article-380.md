@@ -10,6 +10,6 @@ Elle mentionne, pour chaque distribution :
 
 - sa date ;
 
-- son montant en monnaie française d'après le cours des changes du jour de la mise en paiement.
+- son montant en euros d'après le cours des changes du jour de la mise en paiement.
 
 III. La société est tenue de produire, à l'appui de sa demande de révision, des copies, accompagnées, le cas échéant, de traductions en langue française, des décisions ou délibérations relatives aux distributions ainsi mentionnées, ainsi que des procès-verbaux ou comptes rendus des assemblées générales d'actionnaires ou d'associés qui ont approuvé les comptes de l'exercice.

@@ -4,7 +4,7 @@
 
 2. Cette déclaration est adressée à la recette des impôts dont dépend le lieu d'établissement de l'impôt sur les sociétés, dans le même délai que la déclaration des résultats.
 
-La déclaration, souscrite sur des imprimés fournis par l'administration, fait apparaître distinctement le montant en monnaie française :
+La déclaration, souscrite sur des imprimés fournis par l'administration, fait apparaître distinctement le montant en euros :
 
 - des bénéfices et plus-values à retenir pour l'assiette de l'impôt sur les sociétés ;
 

@@ -1,0 +1,18 @@
+# Section 2 : Ventes de biens et fournitures de prestations de services à distance
+
+- [Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers](sous-section-2)
+- [Article L121-16](article-l121-16.md)
+- [Article L121-17](article-l121-17.md)
+- [Article L121-18](article-l121-18.md)
+- [Article L121-19](article-l121-19.md)
+- [Article L121-20](article-l121-20.md)
+- [Article L121-20-1](article-l121-20-1.md)
+- [Article L121-20-2](article-l121-20-2.md)
+- [Article L121-20-3](article-l121-20-3.md)
+- [Article L121-20-4](article-l121-20-4.md)
+- [Article L121-20-5](article-l121-20-5.md)
+- [Article L121-20-6](article-l121-20-6.md)
+- [Article L121-20-7](article-l121-20-7.md)
+- [Article L121-20-8](article-l121-20-8.md)
+- [Article L121-20-9](article-l121-20-9.md)
+- [Article L121-20-10](article-l121-20-10.md)
