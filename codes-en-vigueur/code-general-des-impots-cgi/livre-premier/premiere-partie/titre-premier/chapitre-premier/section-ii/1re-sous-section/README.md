@@ -2,6 +2,7 @@
 
 - [I : Revenus fonciers](i)
 - [II : Bénéfices industriels et commerciaux](ii)
+- [III : Rémunérations allouées aux gérants et associés de certaines sociétés](iii)
 - [IV : Bénéfices de l'exploitation agricole](iv)
 - [V : Traitements, salaires, pensions et rentes viagères](v)
 - [VI : Bénéfices des professions non commerciales](vi)
