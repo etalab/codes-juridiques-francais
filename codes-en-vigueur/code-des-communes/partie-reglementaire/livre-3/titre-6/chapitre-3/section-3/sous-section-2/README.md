@@ -4,4 +4,3 @@
 - [Article R363-23](article-r363-23.md)
 - [Article R363-24](article-r363-24.md)
 - [Article R363-25](article-r363-25.md)
-- [Article R363-25-1](article-r363-25-1.md)
