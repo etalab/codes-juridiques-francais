@@ -40,7 +40,6 @@
 - [Article 793 A](article-793-a.md)
 - [Article 794](article-794.md)
 - [Article 795](article-795.md)
-- [Article 804](article-804.md)
 - [Article 806](article-806.md)
 - [Article 810](article-810.md)
 - [Article 811](article-811.md)
