@@ -22,4 +22,8 @@
 - [Article 363 T](article-363-t.md)
 - [Article 363 U](article-363-u.md)
 - [Article 363 W](article-363-w.md)
+- [Article 364](article-364.md)
+- [Article 365](article-365.md)
+- [Article 366](article-366.md)
+- [Article 367](article-367.md)
 - [TAXES PARAFISCALES.](taxes-parafiscales)
