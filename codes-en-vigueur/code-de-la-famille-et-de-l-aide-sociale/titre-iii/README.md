@@ -6,7 +6,6 @@
 - [Chapitre IV : Aide sociale aux familles](chapitre-iv)
 - [Chapitre V : Aide sociale aux personnes agées](chapitre-v)
 - [Chapitre VI : Aide sociale aux personnes handicapées](chapitre-vi)
-- [Chapitre VII : Aide médicale](chapitre-vii)
 - [Chapitre IX : Dispositions concernant les étrangers](chapitre-ix)
 - [Article 124](article-124.md)
 - [Article 124-1](article-124-1.md)

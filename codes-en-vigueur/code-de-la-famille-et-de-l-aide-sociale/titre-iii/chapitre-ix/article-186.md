@@ -1,6 +1,6 @@
 # Article 186
 
-Les étrangers non bénéficiaires d'une convention peuvent bénéficier selon la procédure indiquée au chapitre Ier du présent titre :
+Les étrangers non bénéficiaires d'une convention peuvent bénéficier selon la procédure indiquée au chapitre Ier du présent titre et au titre III bis :
 
 1. De l'admission dans un établissement hospitalier, dans un hôpital psychiatrique, dans un établissement de cure, dans un hospice, dans un centre de rééducation ou d'assistance par le travail ;
 
