@@ -1,6 +1,5 @@
 # Annexe II : Tableaux des maladies professionnelles prévus à l'article R. 461-3
 
-- [25 bis Affections non pneumoconiotiques dues à l'inhalation de poussières minérales renfermant de la silice libre](25-bis)
 - [Article Annexe II tableau 2](article-annexe-ii-tableau-2.md)
 - [Article Annexe II tableau 5](article-annexe-ii-tableau-5.md)
 - [Article Annexe II tableau 8](article-annexe-ii-tableau-8.md)
@@ -85,6 +84,7 @@
 - [Article Annexe II : Tableau n° 67](article-annexe-ii-tableau-no-67.md)
 - [Article Annexe II : Tableau n° 68](article-annexe-ii-tableau-no-68.md)
 - [Article Annexe II : Tableau n° 69](article-annexe-ii-tableau-no-69.md)
+- [Article Annexe II : Tableau n° 70](article-annexe-ii-tableau-no-70.md)
 - [Article Annexe II : Tableau n° 71](article-annexe-ii-tableau-no-71.md)
 - [Article Annexe II : Tableau n° 71 bis](article-annexe-ii-tableau-no-71-bis.md)
 - [Article Annexe II : Tableau n° 72](article-annexe-ii-tableau-no-72.md)
