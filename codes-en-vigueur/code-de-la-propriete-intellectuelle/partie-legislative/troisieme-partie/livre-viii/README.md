@@ -1,3 +1,3 @@
-# Livre VIII : Application aux territoires d'outre-mer et à la collectivité territoriale de Mayotte
+# Livre VIII : Application en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte
 
 - [Titre unique](titre-unique)
