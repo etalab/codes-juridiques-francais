@@ -8,6 +8,7 @@
 - [15° : Habitations à loyer modéré](15)
 - [16° : Sociétés immobilières d'investissement et sociétés immobilières de gestion](16)
 - [17° : Sociétés pour le développement de l'industrie, du commerce et de l'agriculture et leur adaptation à la Communauté économique européenne.](17)
+- [18° : Sociétés mères (Voir Annexe II, les articles 54 à 56).](18)
 - [19° : Zones à urbaniser](19)
 - [2° : Crédit à la construction immobilière.](2)
 - [3° : Crédit mutuel et coopération agricoles](3)
