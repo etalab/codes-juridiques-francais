@@ -2,3 +2,6 @@
 
 - [Section 1 : Plan de chasse](section-1)
 - [Section 2 : Prélèvement maximal autorisé](section-2)
+- [Section 3 : Plan de chasse](section-3)
+- [Section 4 : Prélèvement maximal autorisé](section-4)
+- [Section 5 : Plan de gestion cynégétique](section-5)

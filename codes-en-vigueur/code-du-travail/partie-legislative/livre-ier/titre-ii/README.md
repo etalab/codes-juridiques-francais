@@ -8,6 +8,7 @@
 - [Chapitre V : Marchandage.](chapitre-v)
 - [Chapitre VI : Cautionnements.](chapitre-vi)
 - [Chapitre VII : GROUPEMENTS D'EMPLOYEURS.](chapitre-vii)
+- [Chapitre VII bis : Dispositions spécifiques aux groupements d'employeurs composés d'adhérents de droit privé et de collectivités territoriales.](chapitre-vii-bis)
 - [Chapitre VIII : Associations à but non lucratif](chapitre-viii)
 - [Chapitre IX : Services aux personnes (en vigueur jusqu'au 1er janvier 2007 au plus tard).](chapitre-ix)
 - [Chapitre X : Dispositions diverses relatives au développement social urbain](chapitre-x)

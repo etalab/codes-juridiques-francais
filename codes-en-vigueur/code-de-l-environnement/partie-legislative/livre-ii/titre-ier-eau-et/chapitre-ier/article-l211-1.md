@@ -12,6 +12,8 @@ I. - Les dispositions des chapitres Ier à VII du présent titre ont pour objet 
 
 5° La valorisation de l'eau comme ressource économique et la répartition de cette ressource.
 
+Un décret en Conseil d'Etat précise les critères retenus pour l'application du 1°.
+
 II. - La gestion équilibrée doit permettre de satisfaire ou concilier, lors des différents usages, activités ou travaux, les exigences :
 
 1° De la santé, de la salubrité publique, de la sécurité civile et de l'alimentation en eau potable de la population ;

@@ -41,7 +41,3 @@ Les produits consignés sont laissés à la garde de leur détenteur.
 La consignation ne peut excéder quinze jours que sur autorisation du procureur de la République.
 
 Mainlevée de la mesure de consignation peut être ordonnée à tout moment par les agents habilités ou par le procureur de la République.
-
-III. - Lorsqu'ils ne sont pas adressés aux laboratoires des services chargés de contrôler l'application des dispositions du présent titre, les échantillons sont analysés par des laboratoires agréés par l'autorité administrative selon des modalités fixées par décret en Conseil d'Etat.
-
-Les agents visés au I de l'article L. 251-18 sont habilités à vérifier que les conditions de l'agrément sont respectées.

@@ -2,7 +2,7 @@
 
 Il est institué auprès du représentant de l'Etat dans le département, qui la préside, une commission départementale d'orientation de l'agriculture composée notamment de représentants des ministres intéressés, de la production agricole, des propriétaires et des fermiers-métayers, de la transformation et de la commercialisation des produits agricoles, de l'artisanat et du commerce indépendant de l'alimentation, des consommateurs et des associations agréées pour la protection de l'environnement, ainsi que d'un représentant du financement de l'agriculture. Sa composition est fixée par décret.
 
-La commission est consultée sur le projet, élaboré par le représentant de l'Etat dans le département, qui détermine les priorités de la politique d'orientation des productions et d'aménagement des structures d'exploitation au niveau départemental.
+La commission est consultée sur le projet, élaboré par le représentant de l'Etat dans le département, qui détermine les priorités de la politique d'orientation des productions et d'aménagement des structures d'exploitation au niveau départemental. Le représentant de l'Etat dans le département peut charger la chambre départementale d'agriculture de réaliser des études et des enquêtes nécessaires à l'élaboration de ce projet.
 
 Elle donne son avis sur les projets de contrat type susceptibles d'être proposés aux exploitants, en application des dispositions relatives aux contrats d'agriculture durable.
 
