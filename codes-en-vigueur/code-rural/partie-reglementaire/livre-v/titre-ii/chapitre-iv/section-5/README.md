@@ -1,0 +1,18 @@
+# Section 5 : Directoire et conseil de surveillance.
+
+- [Article R*524-26](article-r-524-26.md)
+- [Article R*524-27](article-r-524-27.md)
+- [Article R*524-28](article-r-524-28.md)
+- [Article R*524-29](article-r-524-29.md)
+- [Article R*524-30](article-r-524-30.md)
+- [Article R*524-31](article-r-524-31.md)
+- [Article R*524-33](article-r-524-33.md)
+- [Article R*524-34](article-r-524-34.md)
+- [Article R*524-35](article-r-524-35.md)
+- [Article R*524-36](article-r-524-36.md)
+- [Article R*524-37](article-r-524-37.md)
+- [Article R*524-38](article-r-524-38.md)
+- [Article R*524-39](article-r-524-39.md)
+- [Article R*524-40](article-r-524-40.md)
+- [Article R*524-41](article-r-524-41.md)
+- [Article R*524-42](article-r-524-42.md)

@@ -1,0 +1,15 @@
+# Paragraphe 2 : Modalités de la consultation des producteurs.
+
+- [Article R*554-16](article-r-554-16.md)
+- [Article R*554-17](article-r-554-17.md)
+- [Article R*554-18](article-r-554-18.md)
+- [Article R*554-19](article-r-554-19.md)
+- [Article R*554-20](article-r-554-20.md)
+- [Article R*554-21](article-r-554-21.md)
+- [Article R*554-22](article-r-554-22.md)
+- [Article R*554-23](article-r-554-23.md)
+- [Article R*554-24](article-r-554-24.md)
+- [Article R*554-25](article-r-554-25.md)
+- [Article R*554-26](article-r-554-26.md)
+- [Article R*554-27](article-r-554-27.md)
+- [Article R*554-28](article-r-554-28.md)
