@@ -1,5 +1,6 @@
 # Section 2 : Des détenus bénéficiant d'un régime spécial
 
+- [Article D496](article-d496.md)
 - [Article D497](article-d497.md)
 - [Article D498](article-d498.md)
 - [Article D499](article-d499.md)
