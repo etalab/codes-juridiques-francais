@@ -6,7 +6,7 @@ Chaque année sont prélevés sur le fonds de réserve et de garantie des caisse
 
 2° Les crédits nécessaires au remboursement des frais de surveillance des caisses d'épargne par les comptables et agents du Trésor ;
 
-3° Les crédits nécessaires à la rémunération de la garantie accordée par l'Etat aux fonds collectés par les caisses d'épargne et de prévoyance. Le montant de cette rémunération est fixé par décret, après avis de la commission de surveillance de la Caisse des dépôts et consignations.
+3° Des crédits nécessaires à la rémunération de la garantie accordée par l'Etat aux fonds collectés par les caisses d'épargne et de prévoyance. Le montant de cette rémunération est fixé par décret, après avis de la commission de surveillance de la Caisse des dépôts et consignations.
 
 Un décret, pris sur le rapport du ministre de l'économie et des finances, après avis de la commission supérieure instituée par l'article 22, détermine les règles applicables au fonctionnement des contrôles visés au présent article et les conditions d'emploi des crédits visés ci-dessus dont la répartition est faite chaque année par le ministre de l'économie et des finances.
 
