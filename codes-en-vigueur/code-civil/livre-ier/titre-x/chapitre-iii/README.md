@@ -4,6 +4,4 @@
 - [Article 480](article-480.md)
 - [Article 481](article-481.md)
 - [Article 482](article-482.md)
-- [Article 484](article-484.md)
-- [Article 486](article-486.md)
 - [Article 487](article-487.md)
