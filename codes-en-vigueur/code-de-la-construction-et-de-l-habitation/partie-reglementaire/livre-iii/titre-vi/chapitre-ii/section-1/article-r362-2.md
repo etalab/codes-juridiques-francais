@@ -21,3 +21,5 @@ h) Sur les programmes locaux de l'habitat et leur réalisation.
 La section des aides publiques au logement du conseil départemental de l'habitat exerce les compétences prévues à l'article R. 351-47.
 
 La commission spécialisée des rapports locatifs créée par l'article 41 bis de la loi du 23 décembre 1986 modifiée exerce les compétences prévues par l'article 41 ter de la même loi dans les conditions définies par l'article R. 362-20.
+
+Le président de la commission d'amélioration de l'habitat instituée à l'article R. 321-10 fournit un rapport annuel au conseil départemental de l'habitat lui permettant d'émettre l'avis mentionné au b ci-dessus.
