@@ -23,7 +23,6 @@
 - [Article L225-116](article-l225-116.md)
 - [Article L225-117](article-l225-117.md)
 - [Article L225-118](article-l225-118.md)
-- [Article L225-119](article-l225-119.md)
 - [Article L225-120](article-l225-120.md)
 - [Article L225-121](article-l225-121.md)
 - [Article L225-122](article-l225-122.md)
