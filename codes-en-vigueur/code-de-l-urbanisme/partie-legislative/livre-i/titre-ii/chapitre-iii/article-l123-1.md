@@ -16,9 +16,7 @@ Ils peuvent, en outre :
 
 5° délimiter les zones ou parties de zones dans lesquelles la reconstruction sur place ou l'aménagement de bâtiments existants pourra, pour des motifs d'urbanisme ou d'architecture, être imposé ou autorisé avec une densité au plus égale à celle qui était initialement bâtie, nonobstant les règles fixées au 4° ci-dessus et fixer la destination principale des îlots ou immeubles à restaurer ou à réhabiliter ;
 
-6° préciser le tracé et les caractéristiques des voies de circulation à conserver, à modifier ou à créer, y compris les rues ou sentiers piétonniers et les pistes cyclables et délimiter les zones qui sont ou peuvent être aménagées en vue de la pratique du ski et les secteurs réservés aux remontées mécaniques en indiquant, le cas échéant, les équipements et aménagements qui peuvent y être prévus ;
-
-7° délimiter les quartiers, rues, monuments, sites et secteurs à protéger ou à mettre en valeur pour des motifs d'ordre esthétique, historique ou écologique ;
+6° préciser le tracé et les caractéristiques des voies de circulation à conserver, à modifier ou à créer, y compris les rues ou sentiers piétonniers et les pistes cyclables et délimiter les zones qui sont ou peuvent être aménagées en vue de la pratique du ski et les secteurs réservés aux remontées mécaniques en indiquant, le cas échéant, les équipements et aménagements qui peuvent y être prévus ;    7° délimiter les quartiers, rues, monuments, sites et secteurs à protéger ou à mettre en valeur pour des motifs d'ordre esthétique, historique ou écologique ;
 
 8° fixer les emplacements réservés aux voies et ouvrages publics, aux installations d'intérêt général ainsi qu'aux espaces verts ;
 
@@ -27,6 +25,8 @@ Ils peuvent, en outre :
 10° Délimiter les secteurs dans lesquels la délivrance du permis de construire peut être surbordonnée à la démolition de tout ou partie des bâtiments existants sur le terrain où l'implantation de la construction est envisagée.
 
 11° Délimiter les zones dans lesquelles pourront s'implanter les magasins de commerce de détail dont l'octroi du permis de construire ou la réalisation est soumis à autorisation préalable de la commission départementale d'urbanisme commercial par l'article L. 451-5 du présent code.
+
+12° Délimiter les zones visées à l'article L. 372-3 du code des communes.
 
 Les règles mentionnées aux 2° et 3° ci-dessus peuvent prévoir des normes de construction différentes de celles qui résultent de l'application du coefficient d'occupation du sol, soit en raison des prescriptions d'urbanisme ou d'architecture, soit en raison de l'existence de projets tendant à renforcer la capacité des équipements collectifs.
 
