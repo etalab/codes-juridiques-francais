@@ -8,3 +8,4 @@
 - [Section 6 : Les enseignements de la sécurité.](section-6)
 - [Section 7 : L'enseignement des problèmes démographiques.](section-7)
 - [Section 8 : L'enseignement d'éducation civique.](section-8)
+- [Section 9 : L'éducation à la santé et à la sexualité](section-9)
