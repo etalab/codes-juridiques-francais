@@ -23,3 +23,5 @@ Il prononce également les peines ci-après et demande au préfet, par l'interm�
 Les deux dernières sanctions comportent l'interdiction définitive de faire partie d'un conseil de l'Ordre.
 
 Les sanctions prononcées en exécution du présent article sont susceptibles d'appel devant le Conseil national de l'Ordre des pharmaciens dans le mois qui suit la notification de la décision [*délai, recours*]. L'appel est suspensif ; il peut être formé par le ministre de la Santé publique, par le conseil central de la section A et par tous les intéressés.
+
+Les peines et interdictions prononcées en application du présent article devenues définitives sont portées à la connaissance de la chambre de discipline de l'ordre des pharmaciens de la Nouvelle-Calédonie et de la Polynésie française par le conseil national de l'ordre.
