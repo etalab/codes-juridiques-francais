@@ -1,0 +1,16 @@
+# Section 4 : Des récépissés et des warrants.
+
+- [Article L522-24](article-l522-24.md)
+- [Article L522-25](article-l522-25.md)
+- [Article L522-26](article-l522-26.md)
+- [Article L522-27](article-l522-27.md)
+- [Article L522-28](article-l522-28.md)
+- [Article L522-29](article-l522-29.md)
+- [Article L522-30](article-l522-30.md)
+- [Article L522-31](article-l522-31.md)
+- [Article L522-32](article-l522-32.md)
+- [Article L522-33](article-l522-33.md)
+- [Article L522-34](article-l522-34.md)
+- [Article L522-35](article-l522-35.md)
+- [Article L522-36](article-l522-36.md)
+- [Article L522-37](article-l522-37.md)

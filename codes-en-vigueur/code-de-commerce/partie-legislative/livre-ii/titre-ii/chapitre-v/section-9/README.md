@@ -1,0 +1,15 @@
+# Section 9 : Des sociétés anonymes à participation ouvrière.
+
+- [Article L225-258](article-l225-258.md)
+- [Article L225-259](article-l225-259.md)
+- [Article L225-260](article-l225-260.md)
+- [Article L225-261](article-l225-261.md)
+- [Article L225-262](article-l225-262.md)
+- [Article L225-263](article-l225-263.md)
+- [Article L225-264](article-l225-264.md)
+- [Article L225-265](article-l225-265.md)
+- [Article L225-266](article-l225-266.md)
+- [Article L225-267](article-l225-267.md)
+- [Article L225-268](article-l225-268.md)
+- [Article L225-269](article-l225-269.md)
+- [Article L225-270](article-l225-270.md)

@@ -1,12 +1,12 @@
-# Titre III : Pêche en eau douce et gestion des ressources piscicoles
+# Titre III : Le contrôle sanitaire des animaux et aliments
 
-- [Chapitre Ier : Champ d'application](chapitre-ier)
-- [Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole](chapitre-ii)
-- [Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles](chapitre-iii)
-- [Chapitre IV : Organisation des pêcheurs](chapitre-iv)
+- [Chapitre Ier : Dispositions générales](chapitre-ier)
+- [Chapitre II : Dispositions relatives aux produits](chapitre-ii)
+- [Chapitre III : Dispositions relatives aux établissements](chapitre-iii)
+- [Chapitre IV : Dispositions relatives aux élevages](chapitre-iv)
 - [Chapitre V : Droit de pêche](chapitre-v)
-- [Chapitre VI : Conditions d'exercice du droit de pêche](chapitre-vi)
-- [Chapitre VII : Recherche et constatation des infractions](chapitre-vii)
+- [Chapitre VI : Les importations, échanges intracommunautaires et exportations](chapitre-vi)
+- [Chapitre VII : Dispositions pénales.](chapitre-vii)
 - [Chapitre VIII : Transaction - Poursuites et règles d'application des peines](chapitre-viii)
 - [Chapitre IX : Dispositions d'application.](chapitre-ix)
 - [Article L230-1](article-l230-1.md)

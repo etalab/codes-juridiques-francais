@@ -1,6 +1,6 @@
-# Chapitre II : Préservation des milieux aquatiques et protection du patrimoine piscicole
+# Chapitre II : Dispositions relatives aux produits
 
-- [Section 1 : Obligations générales.](section-1)
-- [Section 2 : Protection de la faune piscicole et de son habitat.](section-2)
+- [Section 1 : Traçabilité.](section-1)
+- [Section 2 : Rappel de lots.](section-2)
 - [Section 3 : Obligations relatives aux ouvrages.](section-3)
 - [Section 4 : Contrôle des peuplements.](section-4)

@@ -1,13 +1,13 @@
-# Titre II : Chasse.
+# Titre II : La lutte contre les maladies des animaux
 
-- [Chapitre Ier : Organisation de la chasse](chapitre-ier)
-- [Chapitre II : Territoire de chasse.](chapitre-ii)
-- [Chapitre III : Permis de chasser.](chapitre-iii)
-- [Chapitre IV : Exercice de la chasse](chapitre-iv)
+- [Chapitre Ier : Dispositions générales.](chapitre-ier)
+- [Chapitre II : L'épidémiologie.](chapitre-ii)
+- [Chapitre III : La police sanitaire](chapitre-iii)
+- [Chapitre IV : Les prophylaxies organisées.](chapitre-iv)
 - [Chapitre V : Gestion](chapitre-v)
-- [Chapitre VI : Indemnisation des dégâts de gibier](chapitre-vi)
-- [Chapitre VII : Destruction des animaux nuisibles et louveterie](chapitre-vii)
-- [Chapitre VIII : Dispositions pénales](chapitre-viii)
+- [Chapitre VI : L'équarrissage.](chapitre-vi)
+- [Chapitre VII : Pharmacie vétérinaire et réactifs.](chapitre-vii)
+- [Chapitre VIII : Dispositions pénales.](chapitre-viii)
 - [Chapitre IX : Dispositions particulières aux départements du Bas-Rhin du Haut-Rhin et de la Moselle.](chapitre-ix)
 - [Article L220-1](article-l220-1.md)
 - [Article L220-2](article-l220-2.md)

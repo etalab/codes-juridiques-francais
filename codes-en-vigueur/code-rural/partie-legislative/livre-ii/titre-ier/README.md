@@ -1,6 +1,7 @@
-# Titre Ier : Protection de la faune et de la flore
+# Titre Ier : La garde et la circulation des animaux et des produits animaux
 
-- [Chapitre Ier : Préservation du patrimoine biologique.](chapitre-ier)
-- [Chapitre II : Activités soumises à autorisation.](chapitre-ii)
-- [Chapitre III : Etablissements détenant des animaux d'espèces non domestiques.](chapitre-iii)
-- [Chapitre V : Dispositions pénales](chapitre-v)
+- [Chapitre Ier : La garde des animaux domestiques et sauvages apprivoisés ou tenus en captivité](chapitre-ier)
+- [Chapitre II : Les déplacements d'animaux](chapitre-ii)
+- [Chapitre III : Les cessions d'animaux et de produits animaux](chapitre-iii)
+- [Chapitre IV : La protection des animaux.](chapitre-iv)
+- [Chapitre V : Dispositions pénales.](chapitre-v)

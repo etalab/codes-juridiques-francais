@@ -1,4 +1,4 @@
-# Chapitre II : Associations ayant pour objet la protection de la nature et de l'environnement.
+# Chapitre II : Les groupements de défense contre les organismes nuisibles.
 
 - [Article L252-1](article-l252-1.md)
 - [Article L252-2](article-l252-2.md)

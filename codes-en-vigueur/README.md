@@ -7,6 +7,7 @@
 - [Code général des impôts, annexe 4, CGIAN4.](code-general-des-impots-annexe-4-cgian4)
 - [Code du travail applicable à Mayotte.](code-du-travail-applicable-a-mayotte)
 - [Code général des impôts, CGI.](code-general-des-impots-cgi)
+- [Code de commerce](code-de-commerce)
 - [Code de déontologie des architectes](code-de-deontologie-des-architectes)
 - [Code de l'artisanat](code-de-l-artisanat)
 - [Code de l'aviation civile](code-de-l-aviation-civile)

@@ -1,7 +1,7 @@
-# Chapitre III : Permis de chasser.
+# Chapitre III : La police sanitaire
 
-- [Section 1 : Examen pour la délivrance du permis de chasser.](section-1)
-- [Section 2 : Délivrance et validation du permis de chasser](section-2)
+- [Section 1 : Dispositions communes.](section-1)
+- [Section 2 : Dispositions particulières](section-2)
 - [Section 3 : Redevances cynégétiques.](section-3)
 - [Article L223-1](article-l223-1.md)
 - [Article L223-1-1](article-l223-1-1.md)

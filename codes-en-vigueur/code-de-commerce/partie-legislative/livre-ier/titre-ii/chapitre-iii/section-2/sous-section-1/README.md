@@ -1,0 +1,15 @@
+# Sous-section 1 : Des obligations comptables applicables à tous les commerçants.
+
+- [Article L123-12](article-l123-12.md)
+- [Article L123-13](article-l123-13.md)
+- [Article L123-14](article-l123-14.md)
+- [Article L123-15](article-l123-15.md)
+- [Article L123-16](article-l123-16.md)
+- [Article L123-17](article-l123-17.md)
+- [Article L123-18](article-l123-18.md)
+- [Article L123-19](article-l123-19.md)
+- [Article L123-20](article-l123-20.md)
+- [Article L123-21](article-l123-21.md)
+- [Article L123-22](article-l123-22.md)
+- [Article L123-23](article-l123-23.md)
+- [Article L123-24](article-l123-24.md)

@@ -1,0 +1,3 @@
+# Article L213-11
+
+L'organisme directeur de l'établissement public mentionné à l'article L. 213-10 doit comporter des représentants de toutes les catégories de personnes publiques et privées intéressées à l'accomplissement de son objet. Il comprend notamment une représentation des intérêts agricoles, correspondant à leur importance, dans la mesure où ceux-ci sont concernés par les objectifs statutaires et les attributions dudit établissement. Il doit être composé, à concurrence de plus de la moitié de ses membres, de représentants de l'Etat, des collectivités locales et des établissements publics administratifs intéressés.

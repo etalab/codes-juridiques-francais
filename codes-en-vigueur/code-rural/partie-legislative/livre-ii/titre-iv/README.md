@@ -1,6 +1,6 @@
-# Titre IV : Espaces naturels
+# Titre IV : L'exercice de la médecine et de la chirurgie des animaux
 
-- [Chapitre Ier : Parcs nationaux.](chapitre-ier)
-- [Chapitre II : Réserves naturelles](chapitre-ii)
-- [Chapitre III : Conservatoire de l'espace littoral et des rivages lacustres](chapitre-iii)
+- [Chapitre Ier : L'exercice de la profession.](chapitre-ier)
+- [Chapitre II : L'ordre des vétérinaires.](chapitre-ii)
+- [Chapitre III : Dispositions pénales.](chapitre-iii)
 - [Chapitre IV : Parcs naturels régionaux.](chapitre-iv)

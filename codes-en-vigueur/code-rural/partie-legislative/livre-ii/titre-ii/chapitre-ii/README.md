@@ -1,4 +1,4 @@
-# Chapitre II : Territoire de chasse.
+# Chapitre II : L'épidémiologie.
 
 - [Section 1 : Associations communales et intercommunales de chasse agréées.](section-1)
 - [Section 2 : Réserves de chasse.](section-2)
