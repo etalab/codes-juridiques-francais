@@ -1,5 +1,6 @@
 # Codes non en vigueur
 
+- [Code de déontologie des chirurgiens-dentistes](code-de-deontologie-des-chirurgiens-dentistes)
 - [Code de justice militaire](code-de-justice-militaire)
 - [Code de l'industrie cinématographique](code-de-l-industrie-cinematographique)
 - [Code de la consommation](code-de-la-consommation)
