@@ -1,6 +1,5 @@
 # Chapitre 6 : Dispositions communes - Dispositions diverses.
 
-- [Article D256-1](article-d256-1.md)
 - [Article D256-2](article-d256-2.md)
 - [Article D256-3](article-d256-3.md)
 - [Article D256-4](article-d256-4.md)
