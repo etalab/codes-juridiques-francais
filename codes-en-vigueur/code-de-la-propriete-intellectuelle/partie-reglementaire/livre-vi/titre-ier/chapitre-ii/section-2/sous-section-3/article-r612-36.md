@@ -1,6 +1,6 @@
 # Article R612-36
 
-Jusqu'au paiement de la redevance de délivrance et d'impression du fascicule du brevet, le demandeur peut, sur requête justifiée, demander la rectification des fautes d'expression ou de transcription ainsi que des erreurs relevées dans les pièces déposées.
+Jusqu'au paiement de la redevance de délivrance et d'impression du fascicule du brevet, le demandeur peut demander la rectification des fautes d'expression ou de transcription ainsi que des erreurs matérielles relevées dans les pièces déposées. L'institut peut exiger la justification de la réalité de l'erreur matérielle à corriger et, le cas échéant, du sens de la correction demandée.
 
 Si la requête porte sur la description, les revendications ou les dessins, la rectification n'est autorisée que si elle s'impose à l'évidence, aucun autre texte ou tracé n'ayant pu manifestement être envisagé par le demandeur.
 

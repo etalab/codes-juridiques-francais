@@ -20,7 +20,7 @@ b) S'il est constitué un mandataire, le pouvoir de ce dernier ;
 
 c) Si le caractère distinctif du signe déposé à titre de marque a été acquis par l'usage, la justification de cet usage ;
 
-d) S'il s'agit d'une marque collective de certification, le règlement déterminant les conditions auxquelles est subordonné l'usage de la marque et la justification de l'homologation correspondante ;
+d) S'il s'agit d'une marque collective de certification, le règlement déterminant les conditions auxquelles est subordonné l'usage de la marque ;
 
 e) Si le déposant est un étranger qui n'est ni domicilié, ni établi sur le territoire national, et sous réserve des conventions internationales, la justification qu'il a régulièrement déposé la marque dans le pays de son domicile ou de son établissement et que ce pays accorde la réciprocité de protection aux marques françaises.
 
