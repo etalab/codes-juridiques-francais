@@ -32,6 +32,5 @@
 - [Article R112-29](article-r112-29.md)
 - [Article R112-30](article-r112-30.md)
 - [Article R112-31](article-r112-31.md)
-- [Article R*112-32](article-r-112-32.md)
 - [Article R112-32](article-r112-32.md)
 - [Article R112-33](article-r112-33.md)
