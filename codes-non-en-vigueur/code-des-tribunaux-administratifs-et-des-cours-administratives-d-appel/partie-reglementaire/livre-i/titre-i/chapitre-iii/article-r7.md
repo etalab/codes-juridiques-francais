@@ -14,4 +14,4 @@ Nancy : ressorts des tribunaux administratifs de Besançon, Châlons-en-Champagn
 
 Nantes : ressorts des tribunaux administratifs de Caen, Nantes, Orléans et Rennes ;
 
-Paris : ressorts des tribunaux administratifs de Melun, Paris, Versailles, Nouméa et Papeete.
+Paris : ressorts des tribunaux administratifs de Melun, Paris, Versailles, Nouvelle-Calédonie et Papeete.

@@ -15,3 +15,5 @@ Lorsque le jugement est rendu par un magistrat statuant seul, il porte l'une des
 ou
 
 "Le tribunal administratif de ... (nom de la ville où il siège), (le magistrat délégué)."
+
+Pour l'application des alinéas précédents, les jugements du tribunal administratif de Nouvelle-Calédonie portent la mention : "Le tribunal administratif de Nouvelle-Calédonie".
