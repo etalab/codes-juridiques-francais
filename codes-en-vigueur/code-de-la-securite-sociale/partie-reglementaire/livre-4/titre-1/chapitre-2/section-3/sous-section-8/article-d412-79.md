@@ -40,13 +40,13 @@ i. des régimes spéciaux mentionnés à l'article R. 711-24 ;
 
 6°) membres des commissions régionales et de la commission nationale prévues à l'article R. 162-23.
 
-C. En ce qui concerne les régimes d'assurance vieillesse des travailleurs non-salariés (article L. 621-3, premier alinéa) :
+C. En ce qui concerne les régimes d'assurance vieillesse des travailleurs non salariés (article L. 621-3, premier alinéa) :
 
-membres des conseils d'administration des caisses constituées pour l'application des régimes d'assurance vieillesse des travailleurs non-salariés ; membres des comités et commissions fonctionnant auprès de ces conseils d'administration.
+membres des conseils d'administration des caisses constituées pour l'application des régimes d'assurance vieillesse des travailleurs non salariés ; membres des comités et commissions fonctionnant auprès de ces conseils d'administration.
 
-D. - En ce qui concerne le régime d'assurance maladie et d'assurance :
+D. - En ce qui concerne le régime d'assurance maladie et maternité :
 
-membres des conseils d'administration de la caisse nationale et des caisses mutuelles régionales d'assurance maladie et maternité des travailleurs non-salariés ; membres des comités ou commissions fonctionnant auprès desdits conseils d'administration.
+membres des conseils d'administration de la caisse nationale et des caisses mutuelles régionales d'assurance maladie et maternité des travailleurs non salariés ; membres des comités ou commissions fonctionnant auprès desdits conseils d'administration.
 
 E. - En ce qui concerne les commissions médico-sociales paritaires nationales et départementales fonctionnant dans le cadre des conventions conclues avec les professions médicales et paramédicales (articles L. 162-5, L. 162-9 et L. 162-11) :
 
@@ -90,9 +90,11 @@ membres des conseils d'administration, commissions ou comités des associations 
 
 D. - En ce qui concerne les institutions de protection de la santé publique et d'hygiène sociale (livre VIII du code de la santé publique ; loi n° 60-732 du 28 juillet 1960) :
 
-membres du conseil d'administration de l'institut national de la santé et de la recherche médicale ainsi que des conseils et comités institués pour le fonctionnement des institutions créées au sein dudit institut (articles L. 785 et L. 790 du code de la santé publique).
+membres du conseil d'administration de l'institut national de la santé et de la recherche médicale ainsi que des conseils et comités institués pour le fonctionnement des institutions créées au sein dudit institut (articles L. 785 et L. 790 du code de la santé publique) ;
 
-membres du conseil d'administration et du comité des études de l'école nationale de la santé publique (loi n° 60-732 du 28 juillet 1960 ; décret n° 62-442 du 13 avril 1962).
+membres du conseil d'administration et du comité des études de l'école nationale de la santé publique (loi n° 60-732 du 28 juillet 1960 ; décret n° 62-442 du 13 avril 1962) ;
+
+membres des comités consultatifs de protection des personnes dans la recherche biomédicale créés par la loi n° 88-1138 du 20 décembre 1988.
 
 E. - En ce qui concerne les hôpitaux et hospices publics (décret n° 72-350 du 2 mai 1972) :
 
@@ -116,7 +118,7 @@ G. - En ce qui concerne les institutions sociales et médico-sociales (loi n° 7
 
 2°) membres actifs de ces organismes dûment mandatés pour assurer de manière régulière les missions à but social et médico-social définies à l'article premier de la loi n° 75-535 du 30 juin 1975 ;
 
-3°) membres de la commission nationale et des commissions régionales des institutions sociales et médico-sociales créées par l'article 6 de la loi n° 75-535 du 30 juin 1975.
+3°) membres du comité national et des comités régionaux de l'organisation sanitaire et sociale institués par l'article L. 712-6 du code de la santé publique.
 
 Sont exclus du champ d'application du G les membres des conseils d'administration, commissions ou comités fonctionnant au sein des organismes mentionnés au 1° ci-dessus ainsi que les membres actifs de ces organismes définis au 2° lorsque le personnel desdits organismes relève des régimes de protection sociale agricole.
 
@@ -134,13 +136,13 @@ des commissions d'admission à l'aide sociale et des commissions départementale
 
 des conseils de famille des pupilles de l'Etat (article 58 du code de la famille et de l'aide sociale) ;
 
-des conseils départementaux de protection de l'enfance prévus à l'article 5 du décret n° 59-100 du 7 janvier 1959).
+des conseils départementaux de protection de l'enfance prévus à l'article 5 du décret n° 59-100 du 7 janvier 1959.
 
-J. - En ce qui concerne les institutions familiales (code de la famille et de l'aide sociale Titre Ier) :
+J. - En ce qui concerne les institutions familiales (code de la famille et de l'aide sociale, Titre Ier) :
 
 personnes désignées par l'union nationale et des unions départementales et locales des associations familiales pour assurer la tutelle aux prestations sociales ou gérer un service d'intérêt familial en application des dispositions du 3° de l'article 3 du code de la famille et de l'aide sociale.
 
-K. - En ce qui concerne les associations d'action éducative associations gérant des équipements, habilitées par les ministères chargés de la justice, de la santé et de la famille (ordonnance n° 45-174 du 2 février 1945 et décret n° 46-734 du 16 avril 1946) :
+K. - En ce qui concerne les associations d'action éducative, associations gérant des équipements, habilitées par les ministères chargés de la justice, de la santé et de la famille (ordonnance n° 45-174 du 2 février 1945 et décret n° 46-734 du 16 avril 1946) :
 
 1°) membres des conseils d'administration, comités ou commissions fonctionnant au sein de ces organismes ;
 
@@ -162,7 +164,7 @@ a. des tribunaux des affaires de sécurité sociale ;
 
 b. des commissions régionales du contentieux technique ;
 
-c. de la commission nationale technique.
+c. de la commission nationale technique ;
 
 2°) membres de la commission prévue au cinquième alinéa de l'article R. 144-2.
 
@@ -180,7 +182,7 @@ D. - En ce qui concerne les tribunaux paritaires des baux ruraux (décret n° 58
 
 membres assesseurs des tribunaux paritaires des baux ruraux.
 
-E. - En ce qui concerne les tribunaux pour enfants (ordonnance n° 45-174 du 24 février 1945, articles R. 522-3 et suivants du code de de l'organisation judiciaire) :
+E. - En ce qui concerne les tribunaux pour enfants (ordonnance n° 45-174 du 24 février 1945, articles R. 522-3 et suivants du code de l'organisation judiciaire) :
 
 membres assesseurs des tribunaux pour enfants.
 
@@ -190,21 +192,21 @@ Les fonctions mentionnées à l'article D. 412-78 sont les suivantes :
 
 A. - En ce qui concerne le ministère de la justice (art. D. 472 à D. 477 et art. D. 579 du code de procédure pénale, ordonnance n° 45-174 du 2 février 1945, ordonnance n° 58-1300 du 23 décembre 1958, décret n° 78-381 du 20 mars 1978, modifié par le décret n° 81-583 du 18 mai 1981) :
 
-1° Visiteurs de prison agréés par le directeur régional de l'administration pénitentiaire après avis du préfet et du juge de l'application des peines ;
+1° visiteurs de prison agréés par le directeur régional de l'administration pénitentiaire après avis du préfet et du juge de l'application des peines ;
 
-2° Membres bénévoles des comités de probation et d'assistance aux libérés agréés par le juge de l'application des peines ;
+2° membres bénévoles des comités de probation et d'assistance aux libérés agréés par le juge de l'application des peines ;
 
-3° Délégués à la liberté surveillée désignés par le juge des enfants ;
+3° délégués à la liberté surveillée désignés par le juge des enfants ;
 
-4° Membres de conseils d'administration et bénévoles dûment mandatés d'associations agréées par le ministère de la justice et contribuant à la réinsertion sociale et professionnelle des personnes se trouvant placées sous main de justice ;
+4° membres de conseils d'administration et bénévoles dûment mandatés d'associations agréées par le ministère de la justice et contribuant à la réinsertion sociale et professionnelle des personnes se trouvant placées sous main de justice ;
 
-5° Conciliateurs.
+5° conciliateurs.
 
-B. - En ce qui concerne le ministère chargé du travail (articles L. 323-11, L. 122-14, R. 323-82 et R. 323-83 D. 122-1 à D. 122-5 du code du travail) :
+B. - En ce qui concerne le ministère chargé du travail (articles L. 323-11, L. 122-14, R. 323-82 et R. 323-83, D. 122-1 à D. 122-5 du code du travail) :
 
 1°) membres du conseil supérieur pour le reclassement professionnel et social des travailleurs handicapés prévu à l'article R. 323-82 du code du travail et membres de la commission permanente prévue à l'article R. 323-83 du code du travail ;
 
-2°) membres des commissions techniques d'orientation et de reclassement professionnel prévues à l'article L. 323-11 du code du travail.
+2°) membres des commissions techniques d'orientation et de reclassement professionnel prévues à l'article L. 323-11 du code du travail ;
 
 3°) conseillers des salariés convoqués à un entretien préalable à licenciement inscrits sur une liste dressée par le préfet du département.
 
