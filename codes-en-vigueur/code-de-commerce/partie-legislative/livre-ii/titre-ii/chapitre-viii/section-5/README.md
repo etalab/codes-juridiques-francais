@@ -23,6 +23,7 @@
 - [Article L228-58](article-l228-58.md)
 - [Article L228-59](article-l228-59.md)
 - [Article L228-60](article-l228-60.md)
+- [Article L228-60-1](article-l228-60-1.md)
 - [Article L228-61](article-l228-61.md)
 - [Article L228-62](article-l228-62.md)
 - [Article L228-63](article-l228-63.md)

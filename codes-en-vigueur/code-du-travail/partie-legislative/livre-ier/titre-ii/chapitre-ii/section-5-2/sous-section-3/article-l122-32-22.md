@@ -1,6 +1,6 @@
 # Article L122-32-22
 
-Dans les entreprises de deux cents salariés au sens de l'article L. 412-5 du présent code et plus, et sans préjudice des dispositions prévues aux articles précédents, le départ en congé peut être différé par l'employeur, de telle sorte que le pourcentage des salariés simultanément absents de l'entreprise au titre des congés pour la création d'entreprise et sabbatique ne dépasse pas 2 p. 100 de l'effectif de cette entreprise, jusqu'à la date à laquelle cette condition de taux est remplie [*conditions d'effectifs*].
+Dans les entreprises de deux cents salariés au sens de l'article L. 620-10 du présent code et plus, et sans préjudice des dispositions prévues aux articles précédents, le départ en congé peut être différé par l'employeur, de telle sorte que le pourcentage des salariés simultanément absents de l'entreprise au titre des congés pour la création d'entreprise et sabbatique ne dépasse pas 2 p. 100 de l'effectif de cette entreprise, jusqu'à la date à laquelle cette condition de taux est remplie.
 
 Dans les entreprises employant moins de deux cents salariés, le départ en congé peut être différé par l'employeur de telle sorte que le nombre de jours d'absence prévu au titre des congés ne dépasse pas 2 p. 100 du nombre total des jours de travail effectués dans les douze mois précédant le départ en congé.
 

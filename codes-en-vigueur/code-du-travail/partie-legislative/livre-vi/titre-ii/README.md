@@ -10,3 +10,4 @@
 - [Article L620-9](article-l620-9.md)
 - [Article L620-10](article-l620-10.md)
 - [Article L620-11](article-l620-11.md)
+- [Article L620-12](article-l620-12.md)
