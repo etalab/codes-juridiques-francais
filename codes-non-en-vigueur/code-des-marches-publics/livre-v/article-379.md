@@ -4,9 +4,9 @@ Les dispositions du présent livre ne sont pas applicables :
 
 I. - Aux marchés de fournitures et de travaux passés :
 
-1° Par les collectivités dont l'activité principale est d'effectuer des transports terrestres, aériens, maritimes et fluviaux ;
+1° Pour les transports terrestres, aériens, maritimes et fluviaux exploités directement par les personnes mentionnées à l'article 378.
 
-2° Par les collectivités dont l'activité principale est de produire et distribuer de l'énergie ;
+2° Par les personnes mentionnées à l'article 378 dont l'activité principale est de produire et distribuer de l'énergie ;
 
 3° Pour la production, le transport, la distribution d'eau potable ;
 
@@ -16,6 +16,6 @@ I. - Aux marchés de fournitures et de travaux passés :
 
 II. - Aux marchés de fournitures passés :
 
-1° Par les collectivités dont l'activité principale est d'opérer dans le domaine des télécommunications ;
+1° Par les personnes mentionnées à l'article 378 dont l'activité principale est d'opérer dans le domaine des télécommunications ;
 
 2° Dans le domaine de la défense et portant sur les armes, munitions et matériels de guerre.

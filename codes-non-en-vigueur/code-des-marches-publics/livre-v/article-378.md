@@ -1,6 +1,6 @@
 # Article 378
 
-Les marchés de fournitures et de travaux passés par l'Etat, les collectivités locales, les établissements publics autres que ceux ayant le caractère industriel et commercial, dont le montant estimé dépasse des seuils fixés par arrêté du ministre chargé de l'économie et des finances, sont soumis aux dispositions du présent livre.
+Les marchés de fournitures et de travaux passés par l'Etat, les collectivités locales, les établissements publics, autres que les établissements à caractère industriel et commercial, et l'Union des groupements d'achats publics (U.G.A.P.) sont soumis aux dispositions du présent livre lorsque leur montant estimé dépasse des seuils fixés par arrêté du ministre chargé de l'économie et des finances.
 
 Ils restent soumis aux dispositions des livres Ier, II, III et IV pour autant qu'il n'y est pas dérogé par les dispositions du présent livre.
 

@@ -4,4 +4,4 @@ L'Etat et ses établissements publics font connaître les programmes d'achat de 
 
 Un avis d'information est publié à cet effet, au début de l'exercice budgétaire de ces personnes publiques.
 
-Les collectivités visées à l'article 378 font connaître les caractéristiques essentielles des marchés de travaux qu'elles envisagent de passer. A cet effet, un avis d'information est adressé dans les meilleurs délais à l'Office des publications officielles des communautés européennes, après la prise de décision autorisant le programme incluant ces marchés.
+Les personnes mentionnées à l'article 378 font connaître les caractéristiques essentielles des marchés de travaux qu'elles envisagent de passer. A cet effet, un avis d'information est adressé dans les meilleurs délais à l'Office des publications officielles des communautés européennes, après la prise de décision autorisant le programme incluant ces marchés.
