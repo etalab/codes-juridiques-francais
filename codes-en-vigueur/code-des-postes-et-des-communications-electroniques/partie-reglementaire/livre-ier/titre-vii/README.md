@@ -7,4 +7,3 @@
 - [Article D95-1](article-d95-1.md)
 - [Article D95-2](article-d95-2.md)
 - [Article D95-3](article-d95-3.md)
-- [Article D96](article-d96.md)
