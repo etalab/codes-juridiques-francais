@@ -36,7 +36,7 @@ Le bénéfice net des sociétés visées aux premier et deuxième alinéas prove
 
 Les bénéfices qui proviennent des opérations totalement ou partiellement exonérées en application des premier à huitième alinéas sont obligatoirement distribués à hauteur de 85 p. 100 de la fraction exonérée de leur montant avant la fin de l'exercice qui suit celui de leur réalisation.
 
-Les dispositions du d du 6 de l'article 145, du 3° de l'article 158 quater, du 3° de l'article 209 ter et du 3° du 3 de l'article 223 sexies sont applicables aux dividendes prélevés sur ces bénéfices.
+Les dispositions du d du 6 de l'article 145 sont applicables aux dividendes prélevés sur ces bénéfices.
 
 Les sommes qui sont investies, soit directement, soit par l'intermédiaire de filiales, dans des immobilisations à l'étranger sont soumises à l'impôt sur les sociétés en proportion des bénéfices et réserves exonérés par rapport au montant total des bénéfices, des réserves et du capital. Toutefois, elles sont exonérées lorsqu'elles proviennent de fonds d'emprunt ;
 
@@ -60,7 +60,7 @@ L'exonération totale ou partielle est subordonnée à la condition que les divi
 
 3° septies - Les sociétés de capital-risque qui fonctionnent dans les conditions prévues à l'article 1er de la loi n° 85-695 du 11 juillet 1985 modifiée, sur les produits et plus-values nets provenant de leur portefeuille ;
 
-Les sociétés de capital-risque qui fonctionnent dans les conditions prévues à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 précitée, sur les produits et plus-values nets provenant de leur portefeuille autres que ceux afférents aux titres rémunérant l'apport de leurs activités qui ne relèvent pas de leur objet social ainsi que, pour les sociétés de capital-risque mentionnées à la deuxième phrase du 1° de l'article 1er-1 précité, sur les prestations de services accessoires qu'elles réalisent (1) ;
+Les sociétés de capital-risque qui fonctionnent dans les conditions prévues à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 précitée, sur les produits et plus-values nets provenant de leur portefeuille autres que ceux afférents aux titres rémunérant l'apport de leurs activités qui ne relèvent pas de leur objet social ainsi que, pour les sociétés de capital-risque mentionnées à la deuxième phrase du 1° de l'article 1er-1 précité, sur les prestations de services accessoires qu'elles réalisent ;
 
 3° octies - Les fonds communs de créances pour les bénéfices réalisés dans le cadre de leur objet légal ;
 

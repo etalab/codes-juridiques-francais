@@ -3,8 +3,6 @@
 - [Article 209](article-209.md)
 - [Article 209-0 A](article-209-0-a.md)
 - [Article 209-0 B](article-209-0-b.md)
-- [Article 209 bis](article-209-bis.md)
-- [Article 209 ter](article-209-ter.md)
 - [Article 209 quater](article-209-quater.md)
 - [Article 209 quater D](article-209-quater-d.md)
 - [Article 209 quinquies](article-209-quinquies.md)

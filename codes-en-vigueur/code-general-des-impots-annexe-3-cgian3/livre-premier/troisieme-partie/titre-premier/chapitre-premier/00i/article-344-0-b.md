@@ -18,7 +18,7 @@ Les dispositions de l'article 344-0 A s'appliquent :
 
 8° A la déclaration de taxe sur les excédents de provisions des entreprises d'assurances de dommages prévue à l'article 235 ter X du même code ;
 
-9° A la déclaration de contribution à la charge des institutions financières prévue à l'article 235 ter Y du même code ;
+9° (Sans objet) ;
 
 10° A la déclaration de taxe sur la valeur vénale des immeubles possédés en France prévue à l'article 990 F du même code ;
 

@@ -6,7 +6,7 @@ Le fait générateur de la taxe mentionnée à l'article 266 sexies est constitu
 
 2. L'émission dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies, d'oxydes de soufre et autres composés soufrés, d'oxydes d'azote et autres composés oxygénés de l'azote, d'acide chlorhydrique, d'hydrocarbures non méthaniques, solvants et autres composés organiques volatils ;
 
-3. Le décollage d'aéronefs sur les aérodromes recevant du trafic public pour lesquels le nombre annuel des mouvements d'aéronefs de masse maximale au décollage supérieure ou égale à 20 tonnes est supérieur à 20000 ;
+3. (alinéa abrogé à compter du 1er janvier 2005) ;
 
 4. a. La première livraison après fabrication nationale, la livraison sur le marché intérieur en cas d'acquisition intracommunautaire ou la mise à la consommation des lubrifiants mentionnés au a du 4 du I de l'article 266 sexies ;
 
@@ -22,4 +22,6 @@ b) L'extraction, la production ou l'introduction, en provenance d'un autre Etat 
 
 8. a. La délivrance de l'autorisation prévue par les articles L. 512-1 et L. 512-8 du code de l'environnement ;
 
-b. L'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies.
+b. L'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies ;
+
+9. La mise à disposition ou la distribution gratuite aux particuliers d'imprimés (Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29 décembre 2003) par les personnes mentionnées au 9 du I de l'article 266 sexies.
