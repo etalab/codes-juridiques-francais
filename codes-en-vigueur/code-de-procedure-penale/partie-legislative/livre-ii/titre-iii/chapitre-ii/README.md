@@ -1,5 +1,6 @@
 # Chapitre II : De la procédure simplifiée
 
+- [Article 524](article-524.md)
 - [Article 525](article-525.md)
 - [Article 526](article-526.md)
 - [Article 527](article-527.md)
