@@ -2,3 +2,4 @@
 
 - [Section 1 : Opérations préparatoires au scrutin](section-1)
 - [Section 2 : Opérations de vote](section-2)
+- [Section 3 : Vote par procuration](section-3)
