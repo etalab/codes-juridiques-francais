@@ -18,6 +18,7 @@
 - [Article L122-28-7](article-l122-28-7.md)
 - [Article L122-28-8](article-l122-28-8.md)
 - [Article L122-28-9](article-l122-28-9.md)
+- [Article L122-28-10](article-l122-28-10.md)
 - [Article L122-29](article-l122-29.md)
 - [Article L122-30](article-l122-30.md)
 - [Article L122-31](article-l122-31.md)
