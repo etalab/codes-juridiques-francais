@@ -1,3 +1,0 @@
-# ASSIETTE ET CONTROLE DE L'IMPOT
-
-- [REGLEMENTATION DES MACHINES A TIMBRER.](reglementation-des-machines-a)

@@ -7,6 +7,4 @@
 - [Article 233 B](article-233-b.md)
 - [Article 233 E](article-233-e.md)
 - [Article 238](article-238.md)
-- [Article 242-0 D](article-242-0-d.md)
-- [Article 242-0 B](article-242-0-b.md)
 - [Article 242-0 F](article-242-0-f.md)

@@ -1,3 +1,0 @@
-# SOUS-SECTION 6 : DISPOSITIONS D'EXECUTION.
-
-- [Article L323-35](article-l323-35.md)
