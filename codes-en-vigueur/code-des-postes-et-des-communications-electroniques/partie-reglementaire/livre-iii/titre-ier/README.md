@@ -3,6 +3,7 @@
 - [(en vigueur jusqu'au 31 décembre 2005).](en-vigueur-jusqu-au-31)
 - [Article D488](article-d488.md)
 - [Article D492](article-d492.md)
+- [Article D500](article-d500.md)
 - [Article D501](article-d501.md)
 - [Article D503](article-d503.md)
 - [Article D505](article-d505.md)
