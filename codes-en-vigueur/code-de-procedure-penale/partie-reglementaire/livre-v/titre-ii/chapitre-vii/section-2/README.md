@@ -3,4 +3,5 @@
 - [Article D342](article-d342.md)
 - [Article D343](article-d343.md)
 - [Article D344](article-d344.md)
+- [Article D345](article-d345.md)
 - [Article D346](article-d346.md)
