@@ -8,4 +8,4 @@ Il a tous les pouvoirs et prérogatives attachés à la qualité d'officier de p
 
 En cas d'infractions flagrantes, il exerce les pouvoirs qui lui sont attribués par l'article 68.
 
-Le procureur de la République peut également confier aux personnes habilitées dans les conditions prévues par l'article 81, sixième alinéa, le soin de vérifier la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête.
+Le procureur de la République peut également requérir, suivant les cas, le comité de probation et d'assistance aux libérés, le service compétent de l'éducation surveillée ou toute personne habilitée dans les conditions prévues par l'article 81, sixième alinéa, de vérifier la situation matérielle, familiale et sociale d'une personne faisant l'objet d'une enquête et de l'informer sur les mesures propres à favoriser l'insertion sociale de l'intéressé. En cas de poursuites contre un majeur âgé de moins de vingt et un ans au moment de la commission de l'infraction, lorsque la peine encourue n'excède pas cinq ans d'emprisonnement, ces diligences doivent être prescrites avant toute réquisition de placement en détention provisoire.

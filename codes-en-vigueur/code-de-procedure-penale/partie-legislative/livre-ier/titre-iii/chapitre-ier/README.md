@@ -1,4 +1,4 @@
-# Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré
+# Chapitre Ier : De la chambre d'instruction et du juge d'instruction : juridictions d'instruction du premier degré
 
 - [Section 1 : Dispositions générales](section-1)
 - [Section 2 : De la constitution de la partie civile et de ses effets](section-2)
