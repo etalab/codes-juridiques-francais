@@ -3,3 +3,4 @@
 - [PARAGRAPHE 1 : Dispositions générales.](paragraphe-1)
 - [PARAGRAPHE 2 : Conseil d'exploitation.](paragraphe-2)
 - [PARAGRAPHE 3 : Directeur.](paragraphe-3)
+- [PARAGRAPHE 4 : Agent comptable et régisseur.](paragraphe-4)
