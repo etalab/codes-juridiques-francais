@@ -1,3 +1,0 @@
-# ALLOCATION AUX ADULTES HANDICAPES
-
-- [ALLOCATION DE LOGEMENT SOCIALE](allocation-de-logement-sociale)

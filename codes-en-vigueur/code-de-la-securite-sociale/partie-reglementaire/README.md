@@ -9,4 +9,3 @@
 - [Livre 7 : Régimes divers - Dispositions diverses](livre-7)
 - [LIVRE VII : REGIMES DIVERS](livre-vii)
 - [Livre 8 : Allocations aux personnes âgées](livre-8)
-- [LIVRE VIII : ALLOCATIONS AUX PERSONNES AGEES](livre-viii)
