@@ -1,6 +1,7 @@
 # Titre III : Désignation des délégués des conseils municipaux
 
 - [Article L283](article-l283.md)
+- [Article L284](article-l284.md)
 - [Article L285](article-l285.md)
 - [Article L286](article-l286.md)
 - [Article L287](article-l287.md)
