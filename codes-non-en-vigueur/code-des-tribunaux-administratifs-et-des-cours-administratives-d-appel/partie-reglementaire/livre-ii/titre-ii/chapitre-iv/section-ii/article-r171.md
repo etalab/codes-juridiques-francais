@@ -7,3 +7,5 @@ Le tribunal, la cour ou ses membres peuvent, en outre, dans le cours de la visit
 Les parties sont averties du jour et de l'heure auxquels la visite des lieux doit se faire.
 
 Il est dressé procès-verbal de l'opération.
+
+La visite des lieux peut également être décidée au cours de l'instruction par le président de la formation de jugement.
