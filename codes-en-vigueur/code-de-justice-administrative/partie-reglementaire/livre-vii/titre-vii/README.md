@@ -5,3 +5,4 @@
 - [Chapitre III : Le contentieux des élections](chapitre-iii)
 - [Chapitre 5 : Le contentieux des édifices menacant ruine.](chapitre-5)
 - [Chapitre VI : Le contentieux des arrêtés de reconduite à la frontière](chapitre-vi)
+- [Chapitre 7 : Dispositions relatives à un référendum local.](chapitre-7)
