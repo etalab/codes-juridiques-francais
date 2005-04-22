@@ -1,5 +1,6 @@
 # Sous-section 7 : Conditions zootechniques et généalogiques applicables aux importations en provenance de pays tiers.
 
+- [Article D653-123](article-d653-123.md)
 - [Article R*653-115](article-r-653-115.md)
 - [Article R*653-116](article-r-653-116.md)
 - [Article R*653-117](article-r-653-117.md)
