@@ -5,8 +5,3 @@
 - [Article D641-3](article-d641-3.md)
 - [Article D641-4](article-d641-4.md)
 - [Article D641-5](article-d641-5.md)
-- [Article R641-1](article-r641-1.md)
-- [Article R641-2](article-r641-2.md)
-- [Article R641-3](article-r641-3.md)
-- [Article R641-4](article-r641-4.md)
-- [Article R641-5](article-r641-5.md)
