@@ -14,4 +14,4 @@ c) En l'absence de constitution d'association foncière urbaine, le programme de
 
 2° Le rapport et les conclusions du commissaire enquêteur ou de la commission d'enquête portent également sur le programme des travaux envisagés en application de l'article L. 123-23.
 
-A l'issue de cette enquête, il est fait application des articles R. 123-14 et R. 123-15.
+A l'issue de cette enquête, il est fait application des articles R. 123-14 et D. 123-15.

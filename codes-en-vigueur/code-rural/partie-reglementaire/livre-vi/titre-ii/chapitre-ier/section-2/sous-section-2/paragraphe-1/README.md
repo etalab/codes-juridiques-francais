@@ -4,7 +4,6 @@
 - [Article R*621-41](article-r-621-41.md)
 - [Article R*621-42](article-r-621-42.md)
 - [Article R*621-43](article-r-621-43.md)
-- [Article R621-44](article-r621-44.md)
 - [Article R621-45](article-r621-45.md)
 - [Article R*621-46](article-r-621-46.md)
 - [Article R*621-47](article-r-621-47.md)
