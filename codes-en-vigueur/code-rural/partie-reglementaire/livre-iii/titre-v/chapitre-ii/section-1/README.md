@@ -1,6 +1,5 @@
 # Section 1 : Aides à certaines mutations d'exploitation.
 
-- [Article R*352-1](article-r-352-1.md)
 - [Article R352-1](article-r352-1.md)
 - [Article R352-2](article-r352-2.md)
 - [Article R352-3](article-r352-3.md)

@@ -4,7 +4,6 @@
 - [Article R*664-2](article-r-664-2.md)
 - [Article R664-3](article-r664-3.md)
 - [Article R*664-4](article-r-664-4.md)
-- [Article R*664-5](article-r-664-5.md)
 - [Article R664-5](article-r664-5.md)
 - [Article R664-6](article-r664-6.md)
 - [Article R664-7](article-r664-7.md)
