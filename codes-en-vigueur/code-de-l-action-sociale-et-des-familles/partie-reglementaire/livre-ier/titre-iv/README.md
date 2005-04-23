@@ -9,3 +9,4 @@
 - [Chapitre VII : Conseil national pour l'accès aux origines personnelles](chapitre-vii)
 - [Chapitre VIII : Conseil supérieur de l'adoption et autorité centrale pour l'adoption internationale](chapitre-viii)
 - [Chapitre IX : Comité national et comités départementaux des retraités et des personnes âgées](chapitre-ix)
+- [Chapitre X : Caisse nationale de solidarité pour l'autonomie](chapitre-x)
