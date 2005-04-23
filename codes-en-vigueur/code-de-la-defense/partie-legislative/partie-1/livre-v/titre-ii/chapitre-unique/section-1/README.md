@@ -1,4 +1,4 @@
-# Section 1 : Contrôle en mer.
+# Section 1 : Police en mer.
 
 - [Article L1521-1](article-l1521-1.md)
 - [Article L1521-2](article-l1521-2.md)
