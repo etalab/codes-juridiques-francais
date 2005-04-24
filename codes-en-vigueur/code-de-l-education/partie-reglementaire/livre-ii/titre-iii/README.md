@@ -7,4 +7,3 @@
 - [Chapitre V : Les conseils départementaux de l'éducation nationale](chapitre-v)
 - [Chapitre VII : Les instances consultatives et juridictionnelles en matière de relations éducation-économie et de formation professionnelle](chapitre-vii)
 - [Chapitre VIII : Les instances consultatives en matière d'enseignement agricole](chapitre-viii)
-- [Chapitre IX : Les autres instances consultatives](chapitre-ix)
