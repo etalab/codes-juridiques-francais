@@ -12,6 +12,6 @@ I. - L'inspection des établissements d'enseignement du premier et du second deg
 
 Toutefois, les établissements d'enseignement privés ne peuvent être inspectés par les personnels enseignants de l'enseignement public qui font partie du conseil départemental ;
 
-5° Par le maire et les délégués départementaux de l'éducation nationale.
+5° Par le maire et les délégués départementaux de l'éducation nationale. Toutefois, les délégués départementaux de l'éducation nationale ne peuvent exercer leur mission que dans des établissements autres que ceux de leur commune ou, à Paris, Lyon et Marseille, de leur arrondissement de résidence.
 
 II. - L'inspection des établissements d'enseignement privés porte sur la moralité, l'hygiène, la salubrité et sur l'exécution des obligations imposées à ces établissements par le présent code. Elle ne peut porter sur l'enseignement que pour vérifier s'il n'est pas contraire à la morale, à la Constitution, aux lois et notamment à l'instruction obligatoire.

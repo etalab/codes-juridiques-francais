@@ -1,4 +1,4 @@
-# Titre II : Les formations universitaires générales
+# Titre II : Les formations universitaires générales et la formation des maîtres
 
 - [Chapitre Ier : Droit, sciences politiques, économie et administration.](chapitre-ier)
 - [Chapitre II : Sciences et technologie.](chapitre-ii)
