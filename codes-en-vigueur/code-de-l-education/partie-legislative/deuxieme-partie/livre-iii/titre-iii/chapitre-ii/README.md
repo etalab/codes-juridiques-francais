@@ -5,3 +5,4 @@
 - [Article L332-3](article-l332-3.md)
 - [Article L332-4](article-l332-4.md)
 - [Article L332-5](article-l332-5.md)
+- [Article L332-6](article-l332-6.md)

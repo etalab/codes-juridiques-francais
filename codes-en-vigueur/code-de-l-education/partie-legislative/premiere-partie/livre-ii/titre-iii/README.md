@@ -1,5 +1,6 @@
 # Titre III : Les organismes collégiaux nationaux et locaux
 
+- [Chapitre préliminaire : Le Haut Conseil de l'éducation](chapitre-preliminaire)
 - [Chapitre Ier : Le Conseil supérieur de l'éducation](chapitre-ier)
 - [Chapitre II : Le Conseil national de l'enseignement supérieur et de la recherche](chapitre-ii)
 - [Chapitre III : La Conférence des chefs d'établissements publics à caractère scientifique, culturel et professionnel.](chapitre-iii)
