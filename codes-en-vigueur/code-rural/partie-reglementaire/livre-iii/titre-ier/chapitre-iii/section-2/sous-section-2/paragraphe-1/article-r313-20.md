@@ -20,7 +20,7 @@ g) Le directeur de la nature et des paysages au ministère chargé de l'environn
 
 h) Le directeur du budget ou son représentant ;
 
-i) Le directeur du Trésor ou son représentant ;
+i) Le directeur général de la Comptabilité publique ou son représentant ;
 
 j) Un représentant du Conseil d'Etat ou de la Cour des comptes ou de l'inspection générale des finances, désigné par arrêté du ministre de l'agriculture, qui supplée le président en cas d'absence ou d'empêchement de ce dernier et assure, en tant que de besoin, l'intérim de la présidence.
 
