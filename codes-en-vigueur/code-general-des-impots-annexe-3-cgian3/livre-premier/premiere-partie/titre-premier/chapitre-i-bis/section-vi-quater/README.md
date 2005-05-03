@@ -4,3 +4,4 @@
 - [Article 46 quater-0 YM](article-46-quater-0-ym.md)
 - [Article 46 quater-0 YN](article-46-quater-0-yn.md)
 - [Article 46 quater-0 YO](article-46-quater-0-yo.md)
+- [Article 46 quater-0 YP](article-46-quater-0-yp.md)
