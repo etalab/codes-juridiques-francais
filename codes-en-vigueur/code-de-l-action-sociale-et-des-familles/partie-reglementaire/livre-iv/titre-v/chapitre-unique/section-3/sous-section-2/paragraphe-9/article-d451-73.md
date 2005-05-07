@@ -7,5 +7,3 @@ Peuvent accéder à la formation au diplôme d'Etat de technicien de l'intervent
 2° Une épreuve orale visant à évaluer les motivations et les aptitudes relationnelles des candidats, dont les modalités d'organisation sont fixées par arrêté du ministre chargé des affaires sociales.
 
 Les candidats justifiant de certains titres, certificats ou diplômes peuvent être dispensés de l'une des deux épreuves de l'examen de sélection, dans des conditions fixées par arrêté du ministre chargé des affaires sociales.
-
-La liste des candidats admis est arrêtée, pour la rentrée suivante, au nombre d'étudiants fixé par le directeur régional des affaires sanitaires et sociales en tenant compte du schéma régional des formations sociales. Elle peut comporter une liste complémentaire valable uniquement pour la rentrée concernée.

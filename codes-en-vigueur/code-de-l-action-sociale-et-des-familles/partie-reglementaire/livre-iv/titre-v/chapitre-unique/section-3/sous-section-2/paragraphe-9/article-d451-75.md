@@ -8,6 +8,6 @@ Le jury du diplôme d'Etat de technicien de l'intervention sociale et familiale 
 
 3° Une ou plusieurs personnes qualifiées dans le domaine social, médical ou paramédical ;
 
-4° Un ou plusieurs représentants des centres de formation agréés pour préparer aux diplômes d'Etat de travail social.
+4° Un ou plusieurs représentants des centres de formation ayant satisfait à l'obligation de déclaration préalable prévue à l'article L. 451-1 pour préparer aux diplômes d'Etat de travail social.
 
 Le jury est nommé par le directeur régional des affaires sanitaires et sociales et présidé par lui ou par son représentant.

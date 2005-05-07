@@ -1,11 +1,11 @@
 # Article D451-7
 
-Les bourses sont attribuées aux étudiants selon un barème comportant cinq échelons correspondant à des plafonds de ressources pondérés par des points de charges.
+Le barème des aides mentionnées à l'article L. 451-3 accordées sous forme de bourses d'études comporte, d'une part, au moins cinq échelons, numérotés de un à cinq, auxquels correspondent des plafonds de ressources minimaux et, d'autre part, une liste de points de charges minimaux de l'étudiant.
 
-Les ressources à prendre en compte sont les revenus imposables à l'impôt sur le revenu des personnes physiques indiqués sur le dernier avis d'imposition disponible de l'étudiant ou de sa famille s'il lui est rattaché fiscalement.
+A chaque échelon correspond un taux minimum exprimé en euros.
 
-Sont également pris en compte, le cas échéant, les revenus perçus à l'étranger ne figurant pas sur l'avis d'imposition et les pensions alimentaires effectivement versées et non imposables.
+Les points de charges se réfèrent notamment au handicap dont l'étudiant peut être atteint, à ses propres charges familiales ou à celles de sa famille, aux mesures de protection particulière dont il peut bénéficier ainsi qu'à la distance qui sépare son domicile de l'établissement de formation.
 
-Les points de charges se réfèrent au handicap dont l'étudiant peut être atteint, à ses propres charges familiales ou à celles de sa famille, aux mesures de protection particulière dont il peut bénéficier ainsi qu'à la distance qui sépare son domicile du centre de formation.
+Les ressources à prendre en compte pour l'appréciation des plafonds de ressources sont les revenus imposables à l'impôt sur le revenu des personnes physiques indiqués sur le dernier avis d'imposition disponible de l'étudiant ou de sa famille s'il lui est rattaché fiscalement.
 
-Un arrêté du ministre chargé de l'action sociale précise le mode de calcul des points de charges ainsi que le barème des plafonds de ressources.
+Les taux minimaux des échelons un à cinq, les plafonds minimaux de ressources et la liste des points de charge minimaux de l'étudiant sont définis à l'annexe 4-1. Ils font l'objet d'un réexamen annuel.
