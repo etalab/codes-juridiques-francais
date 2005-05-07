@@ -6,7 +6,7 @@ Le maire peut, en outre, par délégation du conseil municipal, être chargé, e
 
 2° De fixer, dans les limites déterminées par le conseil municipal, les tarifs des droits de voirie, de stationnement, de dépôt temporaire sur les voies et autres lieux publics, et, d'une manière générale, des droits prévus au profit de la commune qui n'ont pas un caractère fiscal ;
 
-3° De procéder, dans les limites fixées par le conseil municipal, à la réalisation des emprunts destinés au financement des investissements prévus par le budget ainsi que de prendre les décisions de dérogations à l'obligation de dépôt des fonds auprès de l'Etat dans les conditions définies aux articles L. 1618-1, L. 1618-2 et L. 2221-5-1 du code général des collectivités territoriales et de passer à cet effet les actes nécessaires ;
+3° De procéder, dans les limites fixées par le conseil municipal, à la réalisation des emprunts destinés au financement des investissements prévus par le budget, et aux opérations financières utiles à la gestion des emprunts, y compris les opérations de couverture des risques de taux et de change, ainsi que de prendre les décisions de dérogations à l'obligation de dépôt des fonds auprès de l'Etat dans les conditions définies aux articles L. 1618-1, L. 1618-2 et L. 2221-5-1 du code général des collectivités territoriales et de passer à cet effet les actes nécessaires ;
 
 4° De prendre toute décision concernant la préparation, la passation, l'exécution et le règlement des marchés de travaux, de fournitures et de services qui peuvent être réglementairement passés de gré à gré en raison de leur montant, lorsque les crédits sont prévus au budget ;
 
