@@ -5,5 +5,3 @@ Lorsque la désignation de la loi applicable est faite avant le mariage, les fut
 Lorsque la désignation de la loi applicable est faite au cours du mariage, les époux font procéder aux mesures de publicité relatives à la désignation de la loi applicable dans les conditions et formes prévues au nouveau code de procédure civile. S'ils ont passé un contrat de mariage, mention de la loi applicable ainsi désignée est portée sur la minute de celui-ci.
 
 A l'occasion de la désignation de la loi applicable, avant le mariage ou au cours de celui-ci, les époux peuvent désigner la nature du régime matrimonial choisi par eux.
-
-Si l'un des époux est commerçant lors du mariage ou le devient ultérieurement, l'acte de désignation de la loi applicable passé avant le mariage ou au cours de celui-ci est publié dans les conditions et sous les sanctions prévues par les dispositions relatives au registre du commerce et des sociétés.
