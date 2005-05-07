@@ -1,3 +1,3 @@
-# Sous-section 1 : Le comité de la réglementation bancaire et financière
+# Sous-section 1 : Réglementation
 
 - [Article L766-1](article-l766-1.md)
