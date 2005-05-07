@@ -6,4 +6,4 @@ Ils fixent la nature et l'étendue de leurs opérations, les règles à suivre p
 
 Ils règlent l'étendue et les conditions de la responsabilité qui incombe à chacun des sociétaires dans les engagements pris par la caisse, conformément aux dispositions de l'article L. 512-26.
 
-Les statuts des caisses de crédit agricole mutuel ayant fait appel au concours financier de la caisse nationale de crédit agricole fixent le maximum des dépôts à recevoir en compte courant ou à échéance, le montant de ces dépôts devant toujours être représenté par un actif égal, immédiatement réalisable au moment des échéances.
+Les statuts des caisses de crédit agricole mutuel ayant fait appel au concours financier de l'organe central du crédit agricole fixent le maximum des dépôts à recevoir en compte courant ou à échéance, le montant de ces dépôts devant toujours être représenté par un actif égal, immédiatement réalisable au moment des échéances.

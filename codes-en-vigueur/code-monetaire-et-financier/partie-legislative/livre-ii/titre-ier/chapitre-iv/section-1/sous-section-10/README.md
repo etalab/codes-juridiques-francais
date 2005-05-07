@@ -2,4 +2,5 @@
 
 - [Article L214-36](article-l214-36.md)
 - [Article L214-37](article-l214-37.md)
+- [Article L214-38](article-l214-38.md)
 - [Article L214-42](article-l214-42.md)

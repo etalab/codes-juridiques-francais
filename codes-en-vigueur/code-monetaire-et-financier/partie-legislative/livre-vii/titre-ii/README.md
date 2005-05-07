@@ -1,4 +1,4 @@
-# Titre II : Dispositions spécifiques à la collectivité territoriale de Saint-Pierre-et-Miquelon
+# Titre II : Dispositions spécifiques à Saint-Pierre-et-Miquelon
 
 - [Chapitre Ier : La monnaie](chapitre-ier)
 - [Chapitre II : Les produits](chapitre-ii)

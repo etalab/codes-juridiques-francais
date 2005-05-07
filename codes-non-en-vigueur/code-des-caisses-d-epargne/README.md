@@ -4,4 +4,3 @@
 - [Titre II : Dispositions spéciales à la Caisse nationale d'épargne](titre-ii)
 - [Titre III : Dispositions spéciales aux caisses d'épargne ordinaires](titre-iii)
 - [Titre IV : Dispositions finales.](titre-iv)
-- [Dispositions générales.](dispositions-generales)
