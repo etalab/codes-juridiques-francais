@@ -8,7 +8,7 @@ II. - L'organisme de placement collectif en valeurs mobilières maître est :
 
 2. Soit un fonds commun de placement à risques, un fonds commun de placement dans l'innovation ou un fonds commun d'intervention sur les marchés à terme ; les organismes de placement collectif nourriciers sont alors soumis aux règles de détention, de commercialisation, de publicité et de démarchage applicables au fonds maître ;
 
-3. Soit un organisme de placement collectif en valeurs mobilières réservé à certains investisseurs relevant de la sous-section 6 de la présente section. Dans ce cas, les règles de détention d'investissement, de démarchage et de commercialisation de l'organisme de placements collectifs nourricier sont celles de l'organisme de placements collectifs maître.
+3. Soit un organisme de placement collectif en valeurs mobilières réservé à certains investisseurs relevant de la sous-section 9 de la présente section. Dans ce cas, les règles de détention d'investissement, de démarchage et de commercialisation de l'organisme de placements collectifs nourricier sont celles de l'organisme de placements collectifs maître.
 
 4. Soit un organisme de placement collectif soumis à la législation d'un Etat bénéficiant de la procédure de reconnaissance mutuelle des agréments définie par la directive 85/611 du Conseil du 20 décembre 1985, sous réserve que cette législation comporte des dispositions qui permettent :
 

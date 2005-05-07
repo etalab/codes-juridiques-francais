@@ -2,7 +2,7 @@
 
 Le contrôle est exercé par un ou plusieurs commissaires aux comptes nommés par l'assemblée générale ordinaire pour la durée prévue à l'article L. 225-229 du code de commerce parmi les personnes figurant sur la liste prévue à l'article L. 822-1 du code de commerce. Lors de la constitution de la société, les commissaires aux comptes sont nommés par l'assemblée générale constitutive.
 
-Les commissaires aux comptes, ainsi que les commissaires aux apports, sont soumis aux incompatibilités prévues à l'article L. 225-224 du code de commerce. Ils ne peuvent être nommés à des fonctions de direction, d'administration ou de gestion dans les sociétés qu'ils contrôlent, moins de cinq années après la cessation de leurs fonctions, ni, pendant le même délai, exercer les mêmes fonctions dans les sociétés possédant 10 % du capital de la société contrôlée par eux ou dont celle-ci possède 10 % du capital lors de la cessation des fonctions du commissaire.
+Les commissaires aux comptes, ainsi que les commissaires aux apports, sont soumis aux incompatibilités prévues aux articles L. 822-10 et L. 822-11 du code de commerce. Ils ne peuvent être nommés à des fonctions de direction, d'administration ou de gestion dans les sociétés qu'ils contrôlent, moins de cinq années après la cessation de leurs fonctions, ni, pendant le même délai, exercer les mêmes fonctions dans les sociétés possédant 10 % du capital de la société contrôlée par eux ou dont celle-ci possède 10 % du capital lors de la cessation des fonctions du commissaire.
 
 Les dispositions des articles L. 225-227, L. 225-228 (3e alinéa) et L. 225-233 du code de commerce sont applicables.
 

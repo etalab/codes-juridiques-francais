@@ -4,4 +4,4 @@ Le ministre chargé de l'économie arrête, après avis de l'Autorité des march
 
 1. Le montant du capital exigé en fonction des services qu'entend exercer le prestataire de services d'investissement ;
 
-2. Les normes mentionnées aux 5, 6, 7 et 10 et, le cas échéant, 8 de l'article L. 611-2.
+2. Les normes mentionnées aux 5, 6, 7 et 10 et, le cas échéant, 8 de l'article L. 611-1.

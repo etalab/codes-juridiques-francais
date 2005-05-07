@@ -5,4 +5,4 @@
 - [Titre III : Dispositions applicables à mayotte](titre-iii)
 - [Titre IV : Dispositions applicables en Nouvelle-Calédonie](titre-iv)
 - [Titre V : Dispositions applicables en Polynésie française](titre-v)
-- [Titre VI : Dispositions applicables au territoire des îles Wallis-et-Futuna](titre-vi)
+- [Titre VI : Dispositions applicables dans les îles Wallis-et-Futuna](titre-vi)

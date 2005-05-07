@@ -1,4 +1,4 @@
-# Titre VI : Dispositions applicables au territoire des îles Wallis-et-Futuna
+# Titre VI : Dispositions applicables dans les îles Wallis-et-Futuna
 
 - [Chapitre Ier : La monnaie](chapitre-ier)
 - [Chapitre II : Les produits](chapitre-ii)

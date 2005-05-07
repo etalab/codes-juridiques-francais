@@ -1,3 +1,5 @@
-# Sous-section 10 : Fonds communs d'intervention sur les marchés à terme.
+# Sous-section 10 : Fonds communs de placement à risques
 
+- [Article L214-36](article-l214-36.md)
+- [Article L214-37](article-l214-37.md)
 - [Article L214-42](article-l214-42.md)
