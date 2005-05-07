@@ -1,6 +1,5 @@
 # Section 3 : Les sociétés civiles de placement immobilier
 
-- [Sous-section 6-1 : Règles de bonne conduite.](sous-section-6-1)
 - [Sous-section 1 : Régime général](sous-section-1)
 - [Sous-section 2 : Souscription des parts](sous-section-2)
 - [Sous-section 3 : Gestion](sous-section-3)
