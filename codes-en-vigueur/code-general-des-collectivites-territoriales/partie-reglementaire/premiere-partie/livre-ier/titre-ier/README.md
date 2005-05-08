@@ -1,4 +1,3 @@
 # TITRE Ier : LIBRE ADMINISTRATION DES COLLECTIVITÉS TERRITORIALES
 
-- [CHAPITRE II : Coopération décentralisée](chapitre-ii)
 - [CHAPITRE IV : Coopération décentralisée](chapitre-iv)
