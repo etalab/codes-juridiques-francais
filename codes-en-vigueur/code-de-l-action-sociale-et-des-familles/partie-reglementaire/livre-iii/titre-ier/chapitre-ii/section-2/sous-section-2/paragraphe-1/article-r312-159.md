@@ -1,6 +1,6 @@
-# Article R312-156
+# Article R312-159
 
-Le président du comité régional de l'organisation sociale et médico-sociale mentionné à l'article L. 312-3 est désigné, dans les conditions prévues à l'article R. 312-159, soit parmi les membres du corps des conseillers des tribunaux administratifs et des cours administratives d'appel, soit parmi les membres du corps des conseillers des chambres régionales des comptes. Il est suppléé par un membre de celui de ces corps dont il n'est pas issu.
+Le président du comité régional de l'organisation sociale et médico-sociale mentionné à l'article L. 312-3 est désigné, dans les conditions prévues à l'article R. 312-162, soit parmi les membres du corps des conseillers des tribunaux administratifs et des cours administratives d'appel, soit parmi les membres du corps des conseillers des chambres régionales des comptes. Il est suppléé par un membre de celui de ces corps dont il n'est pas issu.
 
 Le président et son suppléant sont proposés dans les conditions suivantes :
 

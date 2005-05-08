@@ -6,7 +6,7 @@ Le conseil scientifique mentionné à l'article L. 14-10-3 comprend :
 
 2° Des experts dans le domaine de compétence de la Caisse nationale de solidarité pour l'autonomie nommés, dans la limite de six, par le ministre chargé des personnes âgées, après consultation du directeur de la caisse ;
 
-3° Un représentant du Conseil national de l'évaluation sociale et médico-sociale mentionné à l'article L. 312-8, choisi par ce conseil parmi les personnalités qualifiées mentionnées au 8° de l'article R. 312-172 ;
+3° Un représentant du Conseil national de l'évaluation sociale et médico-sociale mentionné à l'article L. 312-8, choisi par ce conseil parmi les personnalités qualifiées mentionnées au 8° de l'article R. 312-175 ;
 
 4°  Le directeur de la recherche, des études, de l'évaluation et des statistiques du ministère chargé de la santé ou son représentant ;
 

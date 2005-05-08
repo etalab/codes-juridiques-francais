@@ -1,4 +1,4 @@
-# Article R312-162
+# Article R312-165
 
 Le comité régional ne peut délibérer que si au moins la moitié des membres sont présents. Le quorum est apprécié en début de séance.
 

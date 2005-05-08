@@ -1,7 +1,3 @@
 # Article R312-176
 
-Lorsqu'il est appelé à rendre des avis, le conseil national ne peut valablement délibérer que si au moins la moitié des membres convoqués est présente. Les avis du conseil sont motivés.
-
-Les avis mentionnés au 2° de l'article R. 312-171 font l'objet d'un vote à bulletin secret. Hormis ce cas, le vote à bulletin secret est de plein droit sur décision du président ou sur la demande de l'un des membres présents.
-
-Le conseil national établit son règlement intérieur qui précise les modalités de son fonctionnement.
+Le mandat des membres titulaires et suppléants est de quatre ans. Il est renouvelable une fois. Il prend fin lorsque, avant l'expiration de cette période, l'intéressé cesse d'exercer le mandat ou les fonctions au titre desquels il a été élu ou désigné. Lorsqu'un membre cesse d'exercer ses fonctions avant l'expiration de son mandat, ce dernier se poursuit jusqu'au jour de la désignation de son remplaçant par l'organisme qu'il représentait, dans la limite de trois mois. Dans ce cas, le mandat du nouveau membre prend fin à la date à laquelle aurait cessé celui du membre qu'il a remplacé.

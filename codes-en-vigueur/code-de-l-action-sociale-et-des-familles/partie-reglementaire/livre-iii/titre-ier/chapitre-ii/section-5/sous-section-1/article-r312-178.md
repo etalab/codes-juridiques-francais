@@ -1,7 +1,7 @@
 # Article R312-178
 
-Les fonctions de membre du conseil national sont gratuites.
+Le conseil national se réunit en formation plénière sur convocation de son président.
 
-Les frais de déplacement des membres du conseil national ainsi que ceux des experts mentionnés à l'article R. 312-174 sont pris en charge dans les conditions prévues par la réglementation.
+Il est également réuni, dans un délai d'un mois, à la demande du ministre chargé de l'action sociale ou d'un tiers des membres du conseil.
 
-Les frais de fonctionnement et de secrétariat du conseil national sont pris en charge sur le budget du ministère des affaires sociales.
+Le président fixe l'ordre du jour. Y sont inscrites de droit les questions émanant du ministre ou des membres mentionnés au précédent alinéa.

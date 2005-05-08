@@ -1,4 +1,4 @@
-# Article R312-163
+# Article R312-166
 
 Le comité établit son règlement intérieur qui est approuvé par le préfet de région.
 
