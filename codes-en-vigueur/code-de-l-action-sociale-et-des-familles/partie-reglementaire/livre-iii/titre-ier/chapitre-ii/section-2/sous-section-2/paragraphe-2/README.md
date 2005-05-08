@@ -5,4 +5,6 @@
 - [Article R312-166](article-r312-166.md)
 - [Article R312-167](article-r312-167.md)
 - [Article R312-168](article-r312-168.md)
+- [Article R312-169](article-r312-169.md)
+- [Article R312-170](article-r312-170.md)
 - [Article R312-171](article-r312-171.md)
