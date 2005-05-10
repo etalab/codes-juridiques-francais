@@ -26,7 +26,7 @@ Peuvent en outre être appelés à siéger avec voix consultative :
 
 - l'inspecteur général d'Aéroports de Paris ;
 
-- le contrôleur d'Etat ;
+- le membre du corps du contrôle général économique et financier ;
 
 - en tant que de besoin, toutes personnalités et tous experts convoqués en raison de leur compétence.
 

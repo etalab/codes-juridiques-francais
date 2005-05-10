@@ -8,5 +8,6 @@
 - [Article D721-15](article-d721-15.md)
 - [Article R721-16](article-r721-16.md)
 - [Article R*721-17](article-r-721-17.md)
+- [Article R721-17](article-r721-17.md)
 - [Article R721-18](article-r721-18.md)
 - [Article R721-19](article-r721-19.md)
