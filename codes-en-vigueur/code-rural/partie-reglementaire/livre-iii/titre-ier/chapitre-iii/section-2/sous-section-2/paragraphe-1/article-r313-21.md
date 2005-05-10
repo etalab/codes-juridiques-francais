@@ -6,7 +6,7 @@ a) Le commissaire du Gouvernement ;
 
 b) Quatre personnalités au maximum, désignées en raison de leur compétence particulière par arrêté conjoint des ministres chargés de l'agriculture, de la formation professionnelle, de l'emploi, de l'aménagement du territoire et de l'environnement ;
 
-c) Le contrôleur d'Etat, le directeur général du centre et l'agent comptable ;
+c) Le membre du corps du contrôle général économique et financier, le directeur général du centre et l'agent comptable ;
 
 d) Un représentant de chacun des syndicats représentés au comité technique paritaire du centre.
 

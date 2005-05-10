@@ -6,7 +6,7 @@ Pour l'accomplissement des missions mentionnées à l'article R. 531-2, l'Instit
 
 a) Effectue et fournit des prestations d'appui technique aux organisations de consommateurs, telles que la réalisation d'études juridiques, économiques et techniques, de dossiers pédagogiques et documentaires, de dossiers de synthèse et d'analyse préparatoires aux travaux du Conseil national de la consommation, d'actions de formation, d'essais comparatifs, d'émissions télévisées, de publications spécialisées. Il assure un accès aux bases de données de l'établissement.
 
-Le cahier des charges annuel des prestations de l'appui technique aux organisations de consommateurs est élaboré par une commission créée à cet effet et qui veille à son exécution. Cette commission est composée d'un représentant de chacune des organisations de consommateurs agréées au plan national, ainsi que du directeur de l'établissement. Le commissaire du Gouvernement et le contrôleur d'Etat assistent de droit à ses travaux ;
+Le cahier des charges annuel des prestations de l'appui technique aux organisations de consommateurs est élaboré par une commission créée à cet effet et qui veille à son exécution. Cette commission est composée d'un représentant de chacune des organisations de consommateurs agréées au plan national, ainsi que du directeur de l'établissement. Le commissaire du Gouvernement et le membre du corps du contrôle général économique et financier assistent de droit à ses travaux ;
 
 b) Fournit aux organisations de consommateurs des prestations dont la nature et le contenu sont définis par des conventions négociées entre l'établissement et une ou plusieurs organisations de consommateurs ;
 
