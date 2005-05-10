@@ -10,5 +10,4 @@
 - [Article R117](article-r117.md)
 - [Article R118](article-r118.md)
 - [Article R120](article-r120.md)
-- [Article R121](article-r121.md)
 - [Article R122](article-r122.md)

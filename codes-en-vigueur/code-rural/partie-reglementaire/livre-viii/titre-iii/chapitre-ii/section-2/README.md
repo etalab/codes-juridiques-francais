@@ -1,6 +1,5 @@
 # Section 2 : Administration et direction du centre.
 
-- [Article R*832-4](article-r-832-4.md)
 - [Article R832-4](article-r832-4.md)
 - [Article R832-5](article-r832-5.md)
 - [Article R832-6](article-r832-6.md)
