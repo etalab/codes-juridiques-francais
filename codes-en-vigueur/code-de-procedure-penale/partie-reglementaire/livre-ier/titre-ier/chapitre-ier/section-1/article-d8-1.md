@@ -26,4 +26,6 @@ Les offices centraux de police judiciaire relevant des articles R. 15-18 et R. 1
 
 12° Office central de lutte contre les atteintes à l'environnement et à la santé publique, de la sous-direction de la police judiciaire de la direction générale de la gendarmerie nationale ;
 
-13° Office central de lutte contre la délinquance itinérante, de la sous-direction de la police judiciaire de la direction générale de la gendarmerie nationale.
+13° Office central de lutte contre la délinquance itinérante, de la sous-direction de la police judiciaire de la direction générale de la gendarmerie nationale ;
+
+14° Office central de lutte contre le travail illégal, de la sous-direction de la police judiciaire de la direction générale de la gendarmerie nationale.
