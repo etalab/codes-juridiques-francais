@@ -3,6 +3,7 @@
 - [Chapitre Ier : La nationalité des personnes physiques](chapitre-ier)
 - [Chapitre II : Les actes de l'état civil](chapitre-ii)
 - [Chapitre III : Le répertoire civil](chapitre-iii)
+- [Chapitre III bis : Les funérailles](chapitre-iii-bis)
 - [Chapitre IV : Les absents](chapitre-iv)
 - [Chapitre VI : La filiation et les subsides](chapitre-vi)
 - [Chapitre VII : La déclaration d'abandon](chapitre-vii)
