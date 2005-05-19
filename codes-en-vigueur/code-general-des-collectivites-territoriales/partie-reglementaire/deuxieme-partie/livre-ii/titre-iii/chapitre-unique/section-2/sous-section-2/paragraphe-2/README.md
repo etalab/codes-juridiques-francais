@@ -1,7 +1,6 @@
 # Paragraphe 2 : Organisation (R).
 
 - [Article R2231-33](article-r2231-33.md)
-- [Article R2231-34](article-r2231-34.md)
 - [Article R2231-35](article-r2231-35.md)
 - [Article R2231-36](article-r2231-36.md)
 - [Article R2231-37](article-r2231-37.md)
