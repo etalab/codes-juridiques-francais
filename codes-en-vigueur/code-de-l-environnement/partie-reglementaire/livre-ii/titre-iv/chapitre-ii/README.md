@@ -7,3 +7,4 @@
 - [Section 3 : Dispositions communes](section-3)
 - [Section III : Réserves naturelles en Corse](section-iii)
 - [Section 4 : Dispositions pénales](section-4)
+- [Section IV : Dispositions pénales](section-iv)
