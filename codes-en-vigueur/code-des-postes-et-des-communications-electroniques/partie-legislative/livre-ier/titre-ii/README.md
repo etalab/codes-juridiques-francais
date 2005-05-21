@@ -1,4 +1,4 @@
-# TITRE VIII : Dispositions pénales.
+# TITRE II : Dispositions pénales.
 
 - [Article L17](article-l17.md)
 - [Article L18](article-l18.md)
