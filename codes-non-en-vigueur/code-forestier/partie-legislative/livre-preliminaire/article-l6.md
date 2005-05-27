@@ -4,9 +4,7 @@ I. - Doivent être gérées conformément à un document d'aménagement arrêté
 
 Doivent être gérées conformément à un plan simple de gestion agréé :
 
-1° Les forêts privées d'une superficie d'un seul tenant supérieure ou égale à un seuil fixé par département entre 10 et 25 hectares par le ministre chargé des forêts, sur proposition du centre régional de la propriété forestière et après avis du Centre national professionnel de la propriété forestière mentionné à l'article L. 221-8, en tenant compte des potentialités de production, de l'intérêt écologique et social identifié par les orientations régionales forestières dont relèvent les forêts dont il s'agit, et de la structure foncière et forestière du département ;
-
-2° Les forêts privées de plus de 10 hectares d'un seul tenant, lorsqu'elles bénéficient d'une aide publique.
+Les forêts privées d'une superficie d'un seul tenant supérieure ou égale à un seuil fixé par département entre 10 et 25 hectares par le ministre chargé des forêts, sur proposition du centre régional de la propriété forestière et après avis du Centre national professionnel de la propriété forestière mentionné à l'article L. 221-8, en tenant compte des potentialités de production, de l'intérêt écologique et social identifié par les orientations régionales forestières dont relèvent les forêts dont il s'agit, et de la structure foncière et forestière du département ;
 
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles l'obligation d'établir et de présenter un document d'aménagement ou un plan simple de gestion peut être levée ou adaptée pour certaines catégories de forêts offrant de faibles potentialités économiques et ne présentant pas d'intérêt écologique important.
 
