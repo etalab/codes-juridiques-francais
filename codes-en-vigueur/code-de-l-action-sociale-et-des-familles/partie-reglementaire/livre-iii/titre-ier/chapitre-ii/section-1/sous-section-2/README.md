@@ -9,4 +9,5 @@
 - [Paragraphe 6 : Pouponnières à caractère social](paragraphe-6)
 - [Paragraphe 7 : Centres spécialisés de soins aux toxicomanes.](paragraphe-7)
 - [Paragraphe 8 : Appartements de coordination thérapeutique.](paragraphe-8)
+- [Paragraphe 9 : Etablissements hébergeant des personnes âgées dépendantes](paragraphe-9)
 - [Paragraphe 10 : Services d'accompagnement à la vie sociale et services d'accompagnement médico-social pour adultes handicapés](paragraphe-10)
