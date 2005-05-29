@@ -1,7 +1,5 @@
 # CHAPITRE UNIQUE
 
-- [Section 2 : Aides indirectes (R)](section-2)
-- [Section 3 : Garanties d'emprunts (R).](section-3)
 - [Section 4 : Garanties d'emprunts (R)](section-4)
 - [Section 5 : Participation à des sociétés de garantie (R)](section-5)
 - [Section 6 : Aides aux entreprises de spectacle cinématographique (R)](section-6)

@@ -6,7 +6,3 @@
 - [Article D1511-33](article-d1511-33.md)
 - [Article D1511-34](article-d1511-34.md)
 - [Article D1511-35](article-d1511-35.md)
-- [Article R1511-36](article-r1511-36.md)
-- [Article R1511-37](article-r1511-37.md)
-- [Article R1511-38](article-r1511-38.md)
-- [Article R1511-39](article-r1511-39.md)
