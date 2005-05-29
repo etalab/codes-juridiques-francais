@@ -2,8 +2,6 @@
 
 - [Article R1511-19](article-r1511-19.md)
 - [Article R1511-20](article-r1511-20.md)
-- [Article R1511-20-1](article-r1511-20-1.md)
-- [Article R1511-20-2](article-r1511-20-2.md)
 - [Article R1511-21](article-r1511-21.md)
 - [Article R1511-22](article-r1511-22.md)
 - [Article R1511-23](article-r1511-23.md)

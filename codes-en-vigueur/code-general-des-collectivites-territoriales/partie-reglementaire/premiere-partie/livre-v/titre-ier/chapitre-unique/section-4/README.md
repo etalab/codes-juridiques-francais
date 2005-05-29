@@ -1,5 +1,11 @@
-# Section 4 : Participation à des sociétés de garantie (R).
+# Section 4 : Garanties d'emprunts (R)
 
+- [Article D1511-30](article-d1511-30.md)
+- [Article D1511-31](article-d1511-31.md)
+- [Article D1511-32](article-d1511-32.md)
+- [Article D1511-33](article-d1511-33.md)
+- [Article D1511-34](article-d1511-34.md)
+- [Article D1511-35](article-d1511-35.md)
 - [Article R1511-36](article-r1511-36.md)
 - [Article R1511-37](article-r1511-37.md)
 - [Article R1511-38](article-r1511-38.md)

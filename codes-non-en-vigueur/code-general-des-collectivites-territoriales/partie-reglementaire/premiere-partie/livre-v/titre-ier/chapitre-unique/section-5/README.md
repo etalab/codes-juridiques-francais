@@ -1,5 +1,9 @@
-# Section 5 : Aides aux entreprises de spectacle cinématographique (R).
+# Section 5 : Participation à des sociétés de garantie (R)
 
+- [Article R1511-36](article-r1511-36.md)
+- [Article R1511-37](article-r1511-37.md)
+- [Article R1511-38](article-r1511-38.md)
+- [Article R1511-39](article-r1511-39.md)
 - [Article R1511-40](article-r1511-40.md)
 - [Article R1511-41](article-r1511-41.md)
 - [Article R1511-42](article-r1511-42.md)
