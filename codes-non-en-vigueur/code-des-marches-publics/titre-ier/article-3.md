@@ -10,7 +10,7 @@ Les dispositions du présent code ne sont pas applicables :
 
 4° Aux contrats qui ont pour objet l'achat, le développement, la production ou la coproduction de programmes par des organismes de radiodiffusion et aux contrats concernant les temps de diffusion ;
 
-5° Aux contrats qui ont pour objet des emprunts ou des engagements financiers, qu'ils soient destinés à la couverture d'un besoin de financement ou de trésorerie, des services relatifs à l'émission, à l'achat, à la vente ou au transfert de titres et instruments financiers, ou encore des services fournis par les banques centrales ;
+5° Aux contrats qui ont pour objet des services financiers relatifs à l'émission, à l'achat, à la vente et au transfert de titres ou d'autres instruments financiers et à des opérations d'approvisionnement en argent ou en capital, ou des services fournis par des banques centrales ;
 
 6° Aux achats de services effectués dans le cadre de programmes de recherche-développement auxquels une personne publique contribue sans les financer intégralement ni en acquérir complètement les résultats ;
 
