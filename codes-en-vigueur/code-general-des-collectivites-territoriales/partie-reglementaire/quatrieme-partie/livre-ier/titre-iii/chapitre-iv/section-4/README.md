@@ -1,10 +1,6 @@
 # Section 4 : Garanties et indemnités accordées aux membres du conseil économique et social régional
 
 - [Article D4134-23](article-d4134-23.md)
-- [Article D4134-24](article-d4134-24.md)
-- [Article D4134-25](article-d4134-25.md)
-- [Article D4134-26](article-d4134-26.md)
-- [Article D4134-27](article-d4134-27.md)
 - [Article D4134-28](article-d4134-28.md)
 - [Article D4134-29](article-d4134-29.md)
 - [Article D4134-30](article-d4134-30.md)
