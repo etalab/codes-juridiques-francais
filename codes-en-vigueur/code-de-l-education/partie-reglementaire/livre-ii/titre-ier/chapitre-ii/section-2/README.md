@@ -10,3 +10,5 @@
 - [Article R212-31](article-r212-31.md)
 - [Article R212-32](article-r212-32.md)
 - [Article R212-33](article-r212-33.md)
+- [Article R212-33-1](article-r212-33-1.md)
+- [Article R212-33-2](article-r212-33-2.md)
