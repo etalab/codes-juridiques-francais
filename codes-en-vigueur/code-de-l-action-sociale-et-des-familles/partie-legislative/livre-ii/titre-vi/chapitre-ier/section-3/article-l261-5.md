@@ -10,4 +10,4 @@ Pour le calcul de l'aide instituée par le présent article, ne sont pas prises 
 
 " Art. L. 851-2. - L'aide est liquidée et versée par les caisses d'allocations familiales dans les conditions fixées par une convention nationale conclue entre l'Etat et la Caisse nationale des allocations familiales. "
 
-" Art. L. 851-3. - Le financement de l'aide et des dépenses de gestion y afférentes est assuré, dans des conditions fixées par voie réglementaire, par le Fonds national d'aide au logement institué par l'article L. 834-1 du présent code et par les régimes de prestations familiales mentionnés à l'article L. 241-6 du même code. "
+" Art. L. 851-3. - Le financement des aides prévues au présent titre et des dépenses de gestion qui s'y rapportent est assuré, dans des conditions fixées par voie réglementaire, par une contribution des régimes de prestations familiales mentionnés à l'article L. 241-6 et par une contribution de l'Etat. "
