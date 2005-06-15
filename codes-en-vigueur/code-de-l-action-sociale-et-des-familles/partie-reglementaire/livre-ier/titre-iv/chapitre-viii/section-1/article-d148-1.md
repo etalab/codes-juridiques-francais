@@ -1,6 +1,6 @@
 # Article D148-1
 
-Le Conseil supérieur de l'adoption prévu à l'article L. 148-1 comprend trente membres :
+Le Conseil supérieur de l'adoption créé à l'article L. 148-1 est placé auprès du ministre chargé de la famille. Il comprend trente membres :
 
 1° Un sénateur désigné par le président du Sénat ;
 
