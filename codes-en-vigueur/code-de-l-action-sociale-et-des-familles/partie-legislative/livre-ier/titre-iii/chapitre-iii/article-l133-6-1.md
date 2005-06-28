@@ -4,6 +4,6 @@ Est incapable d'exploiter, de diriger tout établissement, service ou structure 
 
 Ces dispositions s'appliquent également :
 
-1° Aux assistants maternels visés par les articles L. 421-1 et suivants du présent code ;
+1° Aux assistants maternels et aux assistants familiaux visés par les articles L. 421-1 et suivants du présent code ;
 
 2° Aux établissements et services visés par l'article L. 214-1 du présent code et par l'article L. 2324-1 du code de la santé publique.

@@ -7,4 +7,3 @@
 - [Article L773-14](article-l773-14.md)
 - [Article L773-15](article-l773-15.md)
 - [Article L773-16](article-l773-16.md)
-- [Article L773-17](article-l773-17.md)
