@@ -4,7 +4,7 @@ I. - Les fonds communs de placement dans l'innovation sont des fonds communs de 
 
 a) Avoir réalisé, au cours des trois exercices précédents, des dépenses cumulées de recherche visées aux a à f du II de l'article 244 quater B du code général des impôts, d'un montant au moins égal au tiers du chiffre d'affaires le plus élevé réalisé au cours de ces trois exercices ;
 
-b) Ou justifier de la création de produits, procédés ou techniques dont le caractère innovant et les perspectives de développement économique sont reconnus, ainsi que le besoin de financement correspondant. Cette appréciation est effectuée pour une période de trois ans par un établissement public compétent en matière de valorisation de recherche et désigné par décret.
+b) Ou justifier de la création de produits, procédés ou techniques dont le caractère innovant et les perspectives de développement économique sont reconnus, ainsi que le besoin de financement correspondant. Cette appréciation est effectuée pour une période de trois ans par un organisme chargé de soutenir l'innovation et désigné par décret.
 
 Les dispositions du 4° et du 5° de l'article L. 214-36 s'appliquent dans les mêmes conditions aux fonds communs de placement dans l'innovation sous réserve du respect du I bis du présent article et du quota d'investissement de 60 % qui leur est propre.
 
@@ -22,7 +22,7 @@ I quater. - Sont également pris en compte pour le calcul du quota d'investissem
 
 Un décret en Conseil d'Etat précise les modalités de calcul de la condition relative à l'exclusivité de l'objet mentionné au deuxième alinéa.
 
-II. - Les conditions relatives au nombre de salariés et à la reconnaissance, par un établissement public compétent en matière de valorisation de recherche ou à raison de leurs dépenses cumulées de recherche, du caractère innovant de sociétés dont les titres figurent à l'actif d'un fonds commun de placement dans l'innovation s'apprécient lors de la première souscription ou acquisition de ces titres par ce fonds.
+II. - Les conditions relatives au nombre de salariés et à la reconnaissance, par un organisme chargé de soutenir l'innovation ou à raison de leurs dépenses cumulées de recherche, du caractère innovant de sociétés dont les titres figurent à l'actif d'un fonds commun de placement dans l'innovation s'apprécient lors de la première souscription ou acquisition de ces titres par ce fonds.
 
 III. - Pour l'appréciation, pour le I, des liens de dépendance existant entre deux sociétés, ces liens sont réputés exister :
 
