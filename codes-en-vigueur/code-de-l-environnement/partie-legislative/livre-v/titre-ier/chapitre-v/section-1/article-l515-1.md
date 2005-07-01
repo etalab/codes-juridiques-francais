@@ -4,7 +4,7 @@ Les exploitations de carrières sont soumises à l'autorisation administrative p
 
 L'autorisation administrative visée à l'alinéa précédent ne peut excéder trente ans.
 
-Cette autorisation ne peut excéder quinze ans pour les terrains dont le défrichement est autorisé en application des articles L. 311-1 ou L. 312-1 du code forestier. Toutefois, lorsque l'exploitation de ces terrains est associée à une industrie transformatrice nécessitant des investissements lourds, la durée de l'autorisation d'exploiter peut être portée à trente ans, après avis conforme de la commission départementale des carrières.
+Cette autorisation ne peut excéder quinze ans pour les terrains dont le défrichement est autorisé en application des articles L. 311-1 ou L. 312-1 du code forestier. Toutefois, lorsque l'exploitation de ces terrains est associée à une industrie transformatrice nécessitant des investissements lourds, la durée de l'autorisation d'exploiter peut être portée à trente ans, après avis conforme de la commission départementale compétente en matière de nature, de paysages et de sites.
 
 L'autorisation est renouvelable dans les formes prévues à l'article L. 512-2.
 
