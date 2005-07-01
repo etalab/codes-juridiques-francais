@@ -4,6 +4,5 @@
 - [Article L741-3](article-l741-3.md)
 - [Article L741-4](article-l741-4.md)
 - [Article L741-5](article-l741-5.md)
-- [Article L741-6](article-l741-6.md)
 - [Article L741-7](article-l741-7.md)
 - [Article L741-8](article-l741-8.md)
