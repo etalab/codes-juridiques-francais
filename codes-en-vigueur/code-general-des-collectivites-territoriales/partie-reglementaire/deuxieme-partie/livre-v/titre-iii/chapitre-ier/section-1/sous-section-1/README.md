@@ -4,4 +4,3 @@
 - [Article D2531-3](article-d2531-3.md)
 - [Article D2531-4](article-d2531-4.md)
 - [Article D2531-5](article-d2531-5.md)
-- [Article D2531-6](article-d2531-6.md)
