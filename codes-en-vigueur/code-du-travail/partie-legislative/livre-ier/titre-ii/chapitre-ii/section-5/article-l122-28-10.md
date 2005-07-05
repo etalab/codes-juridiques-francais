@@ -1,6 +1,6 @@
 # Article L122-28-10
 
-Tout salarié titulaire de l'agrément mentionné aux articles L. 225-2 et L. 225-15 du code de l'action sociale et des familles a le droit de bénéficier d'un congé non rémunéré lorsque, en vue de l'adoption d'un enfant, il se rend à l'étranger ou dans un département d'outre-mer, une collectivité d'outre-mer ou en Nouvelle-Calédonie, depuis un département métropolitain, d'un autre département d'outre-mer ou depuis Saint-Pierre-et-Miquelon.
+Tout salarié titulaire de l'agrément mentionné aux articles L. 225-2 et L. 225-17 du code de l'action sociale et des familles a le droit de bénéficier d'un congé non rémunéré lorsque, en vue de l'adoption d'un enfant, il se rend à l'étranger ou dans un département d'outre-mer, une collectivité d'outre-mer ou en Nouvelle-Calédonie, depuis un département métropolitain, d'un autre département d'outre-mer ou depuis Saint-Pierre-et-Miquelon.
 
 Le droit au congé est ouvert pour une durée maximale de six semaines par agrément.
 
