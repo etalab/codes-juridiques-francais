@@ -6,6 +6,8 @@ La commission consultative économique est consultée pour avis sur les projets 
 
 Elle est informée des programmes d'investissements de l'établissement en cours et prévus pour l'année suivante.
 
+La commission peut, en outre, débattre des perspectives pluriannuelles d'investissement ou d'évolution de la qualité de service relatives aux aéroports concernés.
+
 Ses membres sont nommés pour trois ans par arrêté du ministre chargé de l'aviation civile.
 
 Elle comprend :
