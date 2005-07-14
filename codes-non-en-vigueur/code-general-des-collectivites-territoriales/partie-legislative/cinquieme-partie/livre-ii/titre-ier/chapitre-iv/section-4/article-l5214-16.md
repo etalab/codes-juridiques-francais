@@ -1,6 +1,6 @@
 # Article L5214-16
 
-- I. - La communauté de communes exerce de plein droit au lieu et place des communes membres, pour la conduite d'actions d'intérêt communautaire, des compétences relevant de chacun des deux groupes suivants :
+I. - La communauté de communes exerce de plein droit au lieu et place des communes membres, pour la conduite d'actions d'intérêt communautaire, des compétences relevant de chacun des deux groupes suivants :
 
 1° Aménagement de l'espace ;
 
@@ -8,7 +8,7 @@
 
 II. - La communauté de communes doit par ailleurs exercer dans les mêmes conditions des compétences relevant d'au moins un des cinq groupes suivants :
 
-1° Protection et mise en valeur de l'environnement, le cas échéant dans le cadre de schémas départementaux ;
+1° Protection et mise en valeur de l'environnement, le cas échéant dans le cadre de schémas départementaux et soutien aux actions de maîtrise de la demande d'énergie ;
 
 2° Politique du logement et du cadre de vie ;
 

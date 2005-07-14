@@ -4,7 +4,7 @@ Les décrets prévus à l'article L. 224-1 fixent les conditions dans lesquelles
 
 1° Délivrer et retirer l'agrément des experts ou organismes chargés des contrôles prévus au 1° du II de l'article L. 224-1 ;
 
-2° Prescrire l'obligation d'afficher la consommation énergétique de certains biens sur le lieu de leur vente ou de leur location et préciser les méthodes de mesure ;
+2° Prescrire l'obligation d'afficher la consommation énergétique de certains biens sur le lieu de leur vente ou de leur location et préciser les méthodes de mesure pour les biens mis en vente, prescrire, le cas échéant, l'affichage de l'évaluation du coût complet, tenant compte de leur consommation en énergie et de leur coût à l'achat, et en préciser les méthodes de détermination ;
 
 3° Abrogé
 
