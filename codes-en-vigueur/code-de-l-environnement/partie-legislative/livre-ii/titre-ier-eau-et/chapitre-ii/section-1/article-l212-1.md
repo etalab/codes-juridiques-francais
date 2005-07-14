@@ -12,7 +12,7 @@ II. - Le comité de bassin compétent procède dans chaque bassin ou groupement 
 
 - les zones de captages, actuelles ou futures, destinées à l'alimentation en eau potable.
 
-III. - Chaque bassin ou groupement de bassins hydrographiques est doté d'un ou de plusieurs schémas directeurs d'aménagement et de gestion des eaux fixant les orientations fondamentales d'une gestion équilibrée de la ressource en eau telle que prévue à l'article L. 211-1 et des objectifs de qualité et de quantité des eaux.
+III. - Chaque bassin ou groupement de bassins hydrographiques est doté d'un ou de plusieurs schémas directeurs d'aménagement et de gestion des eaux fixant les orientations fondamentales d'une gestion équilibrée de la ressource en eau telle que prévue à l'article L. 211-1 et des objectifs de qualité et de quantité des eaux. Le schéma prend en compte l'évaluation, par zone géographique, du potentiel hydroélectrique établi en application du I de l'article 6 de la loi n° 2000-108 du 10 février 2000 relative à la modernisation et au développement du service public de l'électricité.
 
 IV. - Les objectifs de qualité et de quantité des eaux que fixent les schémas directeurs d'aménagement et de gestion des eaux correspondent :
 

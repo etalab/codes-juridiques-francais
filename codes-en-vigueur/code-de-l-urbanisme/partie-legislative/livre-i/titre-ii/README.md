@@ -4,3 +4,4 @@
 - [Chapitre II : Schémas de cohérence territoriale.](chapitre-ii)
 - [Chapitre VI : Servitudes d'utilité publique affectant l'utilisation du sol.](chapitre-vi)
 - [Chapitre VII : Dispositions favorisant la diversité de l'habitat.](chapitre-vii)
+- [Chapitre VIII : Dispositions favorisant la performance énergétique et les énergies renouvelables dans l'habitat](chapitre-viii)

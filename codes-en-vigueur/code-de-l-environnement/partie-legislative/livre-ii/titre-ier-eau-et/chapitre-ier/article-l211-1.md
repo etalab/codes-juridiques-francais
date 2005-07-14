@@ -10,7 +10,7 @@ I. - Les dispositions des chapitres Ier à VII du présent titre ont pour objet 
 
 4° Le développement et la protection de la ressource en eau ;
 
-5° La valorisation de l'eau comme ressource économique et la répartition de cette ressource.
+5° La valorisation de l'eau comme ressource économique et, en particulier, pour le développement de la production d'électricité d'origine renouvelable ainsi que la répartition de cette ressource.
 
 Un décret en Conseil d'Etat précise les critères retenus pour l'application du 1°.
 
@@ -22,4 +22,4 @@ II. - La gestion équilibrée doit permettre de satisfaire ou concilier, lors de
 
 3° De la conservation et du libre écoulement des eaux et de la protection contre les inondations ;
 
-4° De l'agriculture, des pêches et des cultures marines, de la pêche en eau douce, de l'industrie, de la production d'énergie, des transports, du tourisme, de la protection des sites, des loisirs et des sports nautiques ainsi que de toutes autres activités humaines légalement exercées.
+4° De l'agriculture, des pêches et des cultures marines, de la pêche en eau douce, de l'industrie, de la production d'énergie, et en particulier pour assurer la sécurité du système électrique, des transports, du tourisme, de la protection des sites, des loisirs et des sports nautiques ainsi que de toutes autres activités humaines légalement exercées.
