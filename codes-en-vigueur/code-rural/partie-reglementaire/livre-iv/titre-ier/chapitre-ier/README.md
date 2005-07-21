@@ -2,5 +2,6 @@
 
 - [Section 1 : Etablissement du contrat, durée et prix du bail](section-1)
 - [Section 3 : Résiliation du bail.](section-3)
+- [Section 5 : Adhésion à une société.](section-5)
 - [Section 8 : Droit de renouvellement et droit de reprise.](section-8)
 - [Section 9 : Indemnité au preneur sortant.](section-9)
