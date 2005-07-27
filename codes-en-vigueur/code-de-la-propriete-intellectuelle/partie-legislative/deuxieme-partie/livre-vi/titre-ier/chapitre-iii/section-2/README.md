@@ -2,7 +2,6 @@
 
 - [Article L613-8](article-l613-8.md)
 - [Article L613-9](article-l613-9.md)
-- [Article L613-10](article-l613-10.md)
 - [Article L613-11](article-l613-11.md)
 - [Article L613-12](article-l613-12.md)
 - [Article L613-13](article-l613-13.md)

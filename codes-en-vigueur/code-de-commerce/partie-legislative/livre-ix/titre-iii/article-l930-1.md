@@ -4,7 +4,7 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 
 1° Le livre Ier, à l'exception des articles L. 124-1 à L. 126-1, L. 131-1 à L. 131-6, L. 131-9, L. 134-1 à L. 134-17, L. 145-34 à L. 145-36, L. 145-38 et L. 145-39 ;
 
-2° Le livre II, à l'exception des articles L. 252-1 à L. 252-13 ;
+2° Le livre II, à l'exception des articles L. 225-245-1, L. 229-1 à L. 229-15, L. 238-6, L. 244-5 et L. 252-1 à L. 252-13 ;
 
 3° Le livre III, à l'exception des articles L. 310-4, L. 321-1 à L. 321-38, L. 322-7 et L. 322-10 ;
 
