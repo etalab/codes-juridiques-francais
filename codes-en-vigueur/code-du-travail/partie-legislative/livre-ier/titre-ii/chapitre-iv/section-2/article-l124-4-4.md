@@ -10,6 +10,6 @@ Elle n'est pas due :
 
 1° Dans le cas de contrats de travail temporaire conclus au titre du 3° de l'article L. 124-2-1 si un accord collectif étendu entre les organisations professionnelles d'employeurs et de salariés de la branche du travail temporaire, ou si une convention ou un accord conclu au sein d'entreprises ou d'établissements de cette branche le prévoit ;
 
-2° Dans le cas de contrats de travail temporaire conclus dans le cadre de l'article L. 124-21 ;
+2° Dans le cas de contrats de travail temporaire conclus dans le cadre de l'article L. 124-21 ou de l'article L. 322-4-15-4 ;
 
 3° Si le contrat est rompu à l'initiative du salarié, pour faute grave de celui-ci ou en cas de force majeure.

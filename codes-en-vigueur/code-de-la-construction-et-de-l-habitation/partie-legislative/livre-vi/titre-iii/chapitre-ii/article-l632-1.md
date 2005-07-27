@@ -2,6 +2,8 @@
 
 Toute personne qui loue un logement meublé, que la location s'accompagne ou non de prestations secondaires, bénéficie d'un contrat établi par écrit d'une durée d'un an dès lors que le logement loué constitue sa résidence principale. A l'expiration de ce contrat, le bail est tacitement reconduit pour un an sous réserve des dispositions suivantes.
 
+Lorsque la location est consentie à un étudiant, la durée du bail peut être réduite à neuf mois. Dans ce cas, la clause de reconduction tacite prévue au premier alinéa est inapplicable.
+
 Le bailleur qui souhaite, à l'expiration du contrat, en modifier les conditions doit informer le locataire avec un préavis de trois mois. Si le locataire accepte les nouvelles conditions, le contrat est renouvelé pour un an.
 
 Le bailleur qui ne souhaite pas renouveler le contrat doit informer le locataire en respectant le même préavis et motiver son refus de renouvellement du bail soit par sa décision de reprendre ou de vendre le logement, soit par un motif légitime et sérieux, notamment l'inexécution par le locataire de l'une des obligations lui incombant.

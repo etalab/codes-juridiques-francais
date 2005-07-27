@@ -14,7 +14,7 @@ Les établissements bénéficiaires et les organismes gestionnaires de centres d
 
 Le contrôle prévu au présent article s'effectue dans les conditions et suivant la procédure mentionnées à l'article L. 991-8.
 
-Les fonds indûment reçus, utilisés ou conservés, les dépenses et les prises en charge non justifiées ne sont pas admis et donnent lieu à rejet. Les établissements bénéficiaires et les organismes gestionnaires des centres de formation d'apprentis mentionnés au présent article doivent verser au Trésor public une somme égale au montant des rejets. Les décisions de versement au Trésor public sont prises par le ministre chargé de la formation professionnelle. Le comité de coordination régional de l'emploi et de la formation professionnelle en est tenu informé.
+Les fonds indûment reçus, utilisés ou conservés, les dépenses et les prises en charge non justifiées ne sont pas admis et donnent lieu à rejet. Les établissements bénéficiaires et les organismes gestionnaires des centres de formation d'apprentis mentionnés au présent article doivent verser au Trésor public une somme égale au montant des rejets. Les décisions de versement au Trésor public sont prises par l'autorité compétente de l'Etat. Le comité de coordination régional de l'emploi et de la formation professionnelle en est tenu informé.
 
 Les versements au Trésor public mentionnés au présent article sont recouvrés selon les modalités ainsi que sous les sûretés, garanties et pénalités applicables aux taxes sur le chiffre d'affaires.
 

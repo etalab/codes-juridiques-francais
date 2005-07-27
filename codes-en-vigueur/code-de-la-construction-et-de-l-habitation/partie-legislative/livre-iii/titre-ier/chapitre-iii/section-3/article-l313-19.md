@@ -8,6 +8,8 @@ L'Union d'économie sociale du logement :
 
 2° bis Assure, à compter d'une date fixée par décret et dans des conditions fixées par convention avec l'Etat, le financement des aides prévues au b de l'article L. 313-1 au bénéfice des emprunteurs ayant souscrit des prêts garantis par le fonds de garantie de l'accession sociale à la propriété mentionné au troisième alinéa de l'article L. 312-1 ;
 
+2° ter Assure, dans des conditions fixées par convention avec l'Etat, le financement des aides prévues au g de l'article L. 313-1 ;
+
 3° Elabore, dans l'intérêt commun, des recommandations aux associés aux fins mentionnées au 2°. Ces recommandations ne peuvent déroger aux conventions ci-dessus mentionnées ;
 
 3° bis Adresse aux associés des recommandations visant à la bonne application, dans les sociétés mentionnées à l'article L. 422-2 dont ils sont actionnaires de référence au sens de l'article L. 422-2-1, de la politique nationale de l'habitat et du renouvellement urbain qu'expriment les conventions conclues par l'Etat avec l'union regroupant les fédérations d'organismes d'habitations à loyer modéré ou conjointement avec cette union et l'Union d'économie sociale du logement ;
