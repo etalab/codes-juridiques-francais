@@ -16,6 +16,8 @@ II. - Les dispositions du I ne s'appliquent pas aux immeubles, aux parties d'imm
 
 5° Qui sont échangés dans le cadre d'opérations de remembrement mentionnées à l'article 1055, d'opérations effectuées conformément aux articles L. 123-1, L. 123-24 et L. 124-1 du code rural ainsi qu'aux soultes versées en application de l'article L. 123-4 du même code. En cas de vente de biens reçus à cette occasion, la plus-value est calculée à partir de la date et du prix d'acquisition du bien originel ou de la partie constitutive la plus ancienne dans les cas de vente de lots remembrés ;
 
-6° Dont le prix de cession est inférieur ou égal à 15 000 Euros. Le seuil de 15 000 Euros s'apprécie en tenant compte de la valeur en pleine propriété de l'immeuble ou de la partie d'immeuble.
+6° Dont le prix de cession est inférieur ou égal à 15 000 Euros. Le seuil de 15 000 Euros s'apprécie en tenant compte de la valeur en pleine propriété de l'immeuble ou de la partie d'immeuble ;
+
+7° Qui sont cédés avant le 31 décembre 2007 à un organisme d'habitations à loyer modéré, à une société d'économie mixte gérant des logements sociaux ou à un organisme mentionné à l'article L. 365-1 du code de la construction et de l'habitation.
 
 III. - Les dispositions du I ne s'appliquent pas aux plus-values réalisées par les titulaires de pensions de vieillesse ou de la carte d'invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale qui, au titre de l'avant-dernière année précédant celle de la cession, ne sont pas passibles de l'impôt de solidarité sur la fortune et dont le revenu fiscal de référence n'excède pas la limite prévue au I de l'article 1417, appréciés au titre de cette année.

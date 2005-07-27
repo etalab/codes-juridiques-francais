@@ -68,7 +68,7 @@ Aucun abattement n'est pratiqué sur la fraction du montant des salaires, net de
 
 La limite mentionnée au cinquième alinéa est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu. Le montant obtenu est arrondi, s'il y a lieu, à la centaine d'euros supérieure.
 
-b. Les dispositions du a sont applicables aux allocations mentionnées aux premier et troisième alinéas de l'article 231 bis D, aux participations en espèces et, à compter du 1er janvier 1991, aux dividendes des actions de travail, alloués aux travailleurs mentionnés au 18° bis de l'article 81, lorsque ces sommes sont imposables, de même qu'à l'aide financière mentionnée à l'article L129-3 du code du travail.
+b. Les dispositions du a sont applicables aux allocations mentionnées aux premier et troisième alinéas de l'article 231 bis D, aux participations en espèces et, à compter du 1er janvier 1991, aux dividendes des actions de travail, alloués aux travailleurs mentionnés au 18° bis de l'article 81, lorsque ces sommes sont imposables.
 
 b bis. Les dispositions du a sont applicables aux prestations servies sous forme de rentes ou pour perte d'emploi subie, au titre des contrats d'assurance groupe ou des régimes mentionnés au deuxième alinéa du I de l'article 154 bis.
 

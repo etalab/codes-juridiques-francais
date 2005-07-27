@@ -8,3 +8,4 @@
 - [Chapitre VI : Des sociétés en commandite par actions.](chapitre-vi)
 - [Chapitre VII : Des sociétés par actions simplifiées.](chapitre-vii)
 - [Chapitre VIII : Des valeurs mobilières émises par les sociétés par actions.](chapitre-viii)
+- [Chapitre IX : De la société européenne](chapitre-ix)

@@ -12,4 +12,6 @@ L'interdiction relative aux opérations de crédit ne s'applique pas :
 
 4. Aux fonds communs de placement à risque qui, dans les conditions prévues à l'article L. 214-36, consentent des avances en compte courant aux sociétés dans lesquelles ils détiennent une participation ;
 
-5. Aux associations sans but lucratif faisant des prêts  pour la création et le développement d'entreprises par des chômeurs ou titulaires des minima sociaux sur ressources propres et sur emprunts contractés auprès d'établissements de crédit ou des institutions ou services mentionnés à l'article L. 518-1, habilitées et contrôlées dans des conditions définies par décret en Conseil d'Etat.
+5. Aux associations sans but lucratif faisant des prêts  pour la création et le développement d'entreprises par des chômeurs ou titulaires des minima sociaux sur ressources propres et sur emprunts contractés auprès d'établissements de crédit ou des institutions ou services mentionnés à l'article L. 518-1, habilitées et contrôlées dans des conditions définies par décret en Conseil d'Etat ;
+
+6. Aux personnes morales pour les prêts participatifs qu'elles consentent en vertu des articles L. 313-13 à L. 313-17 et aux personnes morales mentionnées à l'article L. 313-21-1 pour la délivrance des garanties prévues par cet article.

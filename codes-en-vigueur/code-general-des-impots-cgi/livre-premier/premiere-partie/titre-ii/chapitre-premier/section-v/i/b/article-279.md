@@ -68,7 +68,7 @@ Les attractions, manèges, spectacles, loteries, jeux et divertissements sportif
 
 Lorsqu'un prix forfaitaire et global donne l'accès à l'ensemble des manifestations organisées, l'exploitant doit faire apparaître dans sa comptabilité une ventilation des recettes correspondant à chaque taux. La détermination de l'assiette de l'impôt s'effectue sur une base réelle ;
 
-b decies Les abonnements relatifs aux livraisons d'électricité d'une puissance maximale inférieure ou égale à 36 kilovoltampères et de gaz naturel combustible, distribués par réseaux.
+b decies Les abonnements relatifs aux livraisons d'électricité d'une puissance maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 60 % à partir de la biomasse, de la géothermie, des déchets et d'énergie de récupération.
 
 La puissance maximale prise en compte correspond à la totalité des puissances maximales souscrites par un même abonné sur un même site ;
 
@@ -82,6 +82,6 @@ Cette disposition n'est pas applicable aux cessions de droits portant sur des oe
 
 h. Les prestations de collecte, de tri et de traitement des déchets visés aux articles L. 2224-13 et L. 2224-14 du code général des collectivités territoriales, portant sur des matériaux ayant fait l'objet d'un contrat conclu entre une commune ou un établissement public de coopération intercommunale et un organisme ou une entreprise agréé au titre de l'article L. 541-2 du code de l'environnement ;
 
-i. les prestations de services fournies par des entreprises agréées en application du II de l'article L. 129-1 du code du travail.
+i. les prestations de services fournies par des entreprises agréées en application de l'article L. 129-1 du code du travail.
 
 j) Les rémunérations versées par les collectivités territoriales et leurs groupements pour la mise en oeuvre d'un contrat d'objectifs et de moyens correspondant à l'édition d'un service de télévision locale.

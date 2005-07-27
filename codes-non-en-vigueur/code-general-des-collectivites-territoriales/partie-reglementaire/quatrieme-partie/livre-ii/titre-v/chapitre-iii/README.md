@@ -2,4 +2,4 @@
 
 - [Section 1 : Garanties d'emprunts](section-1)
 - [Section 2 : Participation au capital de sociétés](section-2)
-- [Section 3 : Aides aux entreprises de spectacle cinématographique (R).](section-3)
+- [Section 3 : Aides économiques (R)](section-3)

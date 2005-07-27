@@ -7,3 +7,5 @@ Les conditions d'application de l'exonération prévue au III de l'article L. 24
 II. - Les caisses de mutualité sociale agricole procèdent auprès des associations et organismes affiliés au régime agricole et bénéficiant de l'exonération prévue à l'article L. 241-10 précité à des contrôles identiques à ceux réalisés par les caisses de sécurité sociale auprès des associations et organismes relevant du régime général, afin de s'assurer de la régularité des opérations financières et comptables et d'apprécier la qualité des prestations servies.
 
 III. - Les dispositions du I sont applicables aux gains et rémunérations versés postérieurement au 31 décembre 1998.
+
+IV. - Les dispositions du III bis de l'article L. 241-10 du code de la sécurité sociale sont applicables aux cotisations patronales d'assurances sociales, d'accidents du travail et d'allocations familiales dues par les associations et entreprises sur les rémunérations des salariés affiliés au régime de protection sociale agricole, dans les conditions mentionnées par cet article.
