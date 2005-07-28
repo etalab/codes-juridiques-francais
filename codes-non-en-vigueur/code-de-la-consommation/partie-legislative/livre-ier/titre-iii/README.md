@@ -5,3 +5,4 @@
 - [Chapitre III : Interprétation et forme des contrats](chapitre-iii)
 - [Chapitre IV : Remise des contrats](chapitre-iv)
 - [Chapitre V : Du conflit des lois relatives aux clauses abusives](chapitre-v)
+- [Chapitre VI : Reconduction des contrats](chapitre-vi)
