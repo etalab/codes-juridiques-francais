@@ -7,7 +7,6 @@
 - [Article L543-5](article-l543-5.md)
 - [Article L543-6](article-l543-6.md)
 - [Article L543-7](article-l543-7.md)
-- [Article L543-8](article-l543-8.md)
 - [Article L543-9](article-l543-9.md)
 - [Article L543-10](article-l543-10.md)
 - [Article L543-11](article-l543-11.md)
