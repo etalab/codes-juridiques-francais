@@ -1,3 +1,3 @@
 # Article L172-1
 
-Les dispositions du titre Ier, des articles L. 121-3 et L. 122-8 du titre II et des titres III à VI du présent livre ne sont pas applicables dans le département de la Guyane.
+Les dispositions des articles L. 122-8 et L. 133-3, les chapitres VII et VIII du titre III et les chapitres V et VI du titre IV du présent livre ne sont pas applicables en Guyane.
