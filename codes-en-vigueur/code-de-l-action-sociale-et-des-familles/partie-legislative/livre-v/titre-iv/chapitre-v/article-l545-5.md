@@ -1,7 +1,13 @@
 # Article L545-5
 
-Pour l'application des dispositions des autres livres du présent code, les mots énumérés ci-dessous sont respectivement remplacés par les mots suivants :
+Pour l'application des dispositions du présent titre et des autres livres du présent code, les mots énumérés ci-dessous sont remplacés par les mots suivants :
 
-- "département" par "collectivité départementale" ;
+- "la collectivité territoriale" par "Mayotte" ;
 
-- "président du conseil général" par "préfet jusqu'au transfert de l'exécutif de la collectivité départementale au président du conseil général".
+- "département" par "Mayotte" ;
+
+- "union départementale des associations familiales" par "union des associations familiales de Mayotte" ;
+
+- "tribunal de grande instance" par "tribunal d'instance" ;
+
+- "règlement territorial de l'aide sociale" par "règlement de l'aide sociale de Mayotte".
