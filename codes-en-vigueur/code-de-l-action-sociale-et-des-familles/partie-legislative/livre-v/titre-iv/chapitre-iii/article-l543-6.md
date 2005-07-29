@@ -1,3 +1,3 @@
 # Article L543-6
 
-Pour l'accomplissement de ses missions et sans préjudice de ses responsabilités vis-à-vis des enfants qui lui sont confiés, le service de l'aide sociale à l'enfance peut faire appel à des communes ou à des organismes publics ou privés agréés par le représentant de l'Etat dans la collectivité.
+Outre les missions dont il est chargé par l'article L. 221-1, le service de l'aide sociale à l'enfance peut entreprendre ou soutenir des actions d'éducation familiale, notamment dans les établissements scolaires publics et privés.
