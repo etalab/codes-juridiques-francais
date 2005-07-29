@@ -1,6 +1,6 @@
 # Article L543-9
 
-Sont pris en charge par le service de l'aide sociale à l'enfance, sur décision du représentant du Gouvernement :
+Sont pris en charge par le service de l'aide sociale à l'enfance, sur décision du président du conseil général :
 
 1° Les mineurs qui ne peuvent provisoirement être maintenus dans leur milieu de vie habituel ;
 
