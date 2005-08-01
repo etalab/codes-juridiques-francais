@@ -1,6 +1,6 @@
 # Article L13-10
 
-Lorsque l'expropriation ne porte que sur une portion d'immeuble bâti et si la partie restante n'est plus utilisable dans les conditions normales, l'exproprié peut, dans les quinze jours de la notification prévue à l'article L. 13-3, demander au juge l'emprise totale.
+Lorsque l'expropriation ne porte que sur une portion d'immeuble bâti et si la partie restante n'est plus utilisable dans les conditions normales, l'exproprié peut demander au juge l'emprise totale.
 
 Il en est de même pour toute parcelle de terrain nu qui, par suite du morcellement, se trouve réduit au quart de la contenance totale, si toutefois le propriétaire ne possède aucun terrain immédiatement contigu et si la parcelle ainsi réduite est inférieure à 10 ares.
 

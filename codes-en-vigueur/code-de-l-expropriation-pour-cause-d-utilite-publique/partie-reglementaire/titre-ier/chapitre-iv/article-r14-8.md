@@ -4,4 +4,4 @@ La convention prévue aux articles ci-dessus détermine le régime de propriét�
 
 La convention peut réserver à l'administration expropriante la disposition des locaux qui deviendraient libres ultérieurement.
 
-Le taux des loyers est fixé, suivant les caractéristiques des locaux, dans les conditions prévues à l'article 216 du code de l'urbanisme et de l'habitation.
+Le taux des loyers est fixé, suivant les caractéristiques des locaux, dans les conditions prévues aux articles L. 442-1, L. 442-1-1 et R. 442-2 du code de la construction et de l'habitation.
