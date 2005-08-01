@@ -1,6 +1,5 @@
 # Section 2 : Procédure d'urgence.
 
-- [Article R15-1](article-r15-1.md)
 - [Article R15-2](article-r15-2.md)
 - [Article R15-2-1](article-r15-2-1.md)
 - [Article **R15-3](article-r15-3.md)
