@@ -26,5 +26,6 @@
 - [Article **R13-38](article-r13-38.md)
 - [Article **R13-39](article-r13-39.md)
 - [Article **R13-40](article-r13-40.md)
+- [Article R13-40-1](article-r13-40-1.md)
 - [Article **R13-41](article-r13-41.md)
 - [Article R13-42](article-r13-42.md)
