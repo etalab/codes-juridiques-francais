@@ -1,6 +1,5 @@
 # Section 4 : Autres polices
 
-- [Article L2213-22](article-l2213-22.md)
 - [Article L2213-23](article-l2213-23.md)
 - [Article L2213-24](article-l2213-24.md)
 - [Article L2213-25](article-l2213-25.md)

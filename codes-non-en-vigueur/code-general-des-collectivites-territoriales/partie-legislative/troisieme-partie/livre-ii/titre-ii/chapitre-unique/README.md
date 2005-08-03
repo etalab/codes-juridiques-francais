@@ -6,7 +6,6 @@
 - [Article L3221-3-1](article-l3221-3-1.md)
 - [Article L3221-4](article-l3221-4.md)
 - [Article L3221-5](article-l3221-5.md)
-- [Article L3221-6](article-l3221-6.md)
 - [Article L3221-7](article-l3221-7.md)
 - [Article L3221-8](article-l3221-8.md)
 - [Article L3221-9](article-l3221-9.md)
