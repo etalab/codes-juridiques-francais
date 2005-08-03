@@ -18,7 +18,7 @@ a. Aux produits des actions des sociétés d'investissement mentionnées au 1° 
 
 b. Aux produits des actions des sociétés mentionnées au 1° bis A de l'article 208 et des sociétés d'investissement de même nature établies hors de France et soumises à un régime fiscal équivalent ;
 
-c. Aux revenus distribués qui ne constituent pas la rémunération du bénéficiaire en sa qualité d'associé ou d'actionnaire ;
+c. Aux revenus distribués qui ne constituent pas la rémunération du bénéficiaire en sa qualité d'associé ou d'actionnaire. Pour l'application de cette disposition, est considéré comme actionnaire ou associé le preneur bénéficiaire de revenus mentionnés au 2° distribués par la société dont il loue les actions ou parts sociales en application des articles L. 239-1 à L. 239-5 du code de commerce ;
 
 d. Aux revenus distribués mentionnés au a de l'article 111 ;
 
@@ -42,7 +42,7 @@ L'application de ces dispositions est conditionnée à la ventilation par les or
 
 Dans le cas des entreprises industrielles, commerciales, artisanales ou agricoles qui sont soumises à l'impôt d'après leur bénéfice réel et dont les résultats d'ensemble comprennent des revenus relevant de plusieurs catégories ou provenant d'exploitations situées hors de France, il est fait état de ces résultats d'ensemble sans qu'il y ait lieu de les décomposer entre leurs divers éléments dans la déclaration prévue à l'article 170.
 
-4 bis. Les adhérents des centres de gestion et associations agréés définis aux articles 1649 quater C à 1649 quater H ainsi que les membres d'un groupement ou d'une société visés aux articles 8 à 8 quinquies et chacun des conjoints exploitants agricoles de fonds séparés ou associés d'une même société ou groupement adhérant à l'un de ces organismes bénéficient d'un abattement de 20 % sur leurs bénéfices déclarés soumis à un régime réel d'imposition ou au régime prévu à l'article 68 F.
+4 bis. Les adhérents des centres de gestion et associations agréés définis aux articles 1649 quater C à 1649 quater H ainsi que les membres d'un groupement ou d'une société visés aux articles 8 à 8 quinquies et chacun des conjoints exploitants agricoles de fonds séparés ou associés d'une même société ou groupement adhérant à l'un de ces organismes bénéficient d'un abattement de 20 % sur leurs bénéfices déclarés soumis à un régime réel d'imposition.
 
 Aucun abattement n'est appliqué sur la fraction du bénéfice qui excède la limite fixée au cinquième alinéa du a du 5 ;
 

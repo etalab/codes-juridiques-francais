@@ -56,7 +56,9 @@ Un contribuable ne peut pour un même logement ou une même souscription de titr
 
 Ces dispositions s'appliquent aux pertes résultant d'opérations à terme sur marchandises réalisées à l'étranger.
 
-7° (Abrogé à compter de l'imposition des revenus de 1996 ;
+7° Abrogé
+
+8° Des déficits constatés dans la catégorie des revenus des capitaux mobiliers ; ces déficits peuvent cependant être imputés sur les revenus de même nature des six années suivantes.
 
 I bis. Du déficit correspondant aux frais exposés par un inventeur pour prendre un brevet ou en assurer la maintenance lorsqu'il ne perçoit pas de produits imposables ou perçoit des produits inférieurs à ces frais. Ce déficit est déductible du revenu global de l'année de prise du brevet et des neuf années suivantes ;
 

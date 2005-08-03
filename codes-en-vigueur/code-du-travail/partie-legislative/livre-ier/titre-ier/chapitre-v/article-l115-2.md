@@ -22,7 +22,7 @@ La durée du contrat peut être portée à quatre ans lorsque la qualité de tra
 
 Les modalités de prise en compte de la durée prévue au deuxième alinéa dans les conventions visées à l'article L. 116-2 sont arrêtées, après avis du comité de coordination régional de l'emploi et de la formation professionnelle, par le conseil régional lorsque celui-ci est signataire de la convention.
 
-En cas d'obtention du diplôme ou du titre de l'enseignement technologique préparé, le contrat peut prendre fin, à l'initiative du salarié, avant le terme fixé initialement.
+En cas d'obtention du diplôme ou du titre de l'enseignement technologique préparé, le contrat peut prendre fin, à l'initiative du salarié, avant le terme fixé initialement, à la condition d'en avoir informé l'employeur par écrit au minimum deux mois auparavant.
 
 Tout jeune travailleur peut souscrire des contrats d'apprentissage successifs pour préparer des diplômes ou titres sanctionnant des qualifications différentes.
 
