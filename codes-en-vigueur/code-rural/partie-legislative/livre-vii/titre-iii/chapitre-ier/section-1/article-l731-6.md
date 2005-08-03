@@ -1,3 +1,3 @@
 # Article L731-6
 
-Le fonds peut recourir à des ressources non permanentes dans les conditions prévues au 5° du I de l'article LO. 111-3 du code de la sécurité sociale.
+Le fonds de financement des prestations sociales des non-salariés agricoles peut recourir à des ressources non permanentes dans les limites prévues par la loi de financement de la sécurité sociale de l'année.
