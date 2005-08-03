@@ -14,4 +14,4 @@ I. - Les dispositions du présent chapitre s'appliquent également :
 
 6° Aux baux des locaux consentis à des artistes admis à cotiser à la caisse de sécurité sociale de la maison des artistes et reconnus auteurs d'oeuvres graphiques et plastiques, tels que définis par l'article 98 A de l'annexe III du code général des impôts.
 
-II. - Toutefois, les dispositions du présent chapitre ne sont pas applicables aux autorisations d'occupation précaire accordées par l'administration sur un immeuble acquis par elle à la suite d'une déclaration d'utilité publique.
+II. - Toutefois, les dispositions du présent chapitre ne sont pas applicables aux autorisations d'occupation précaire accordées par l'administration sur un immeuble acquis par elle à la suite d'une déclaration d'utilité publique. Elles ne sont également pas applicables, pendant la période d'un an mentionnée au premier alinéa de l'article L. 214-2 du code de l'urbanisme, aux fonds artisanaux, aux fonds de commerce ou aux baux commerciaux préemptés en application de l'article L. 214-1 du même code.

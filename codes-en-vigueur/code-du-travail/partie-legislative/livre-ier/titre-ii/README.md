@@ -5,6 +5,7 @@
 - [Chapitre II : REGLES PROPRES AU CONTRAT DE TRAVAIL](chapitre-ii)
 - [Chapitre III : Egalité professionnelle entre les femmes et les hommes.](chapitre-iii)
 - [Chapitre IV : Travail temporaire](chapitre-iv)
+- [Chapitre IV bis : Travail à temps partagé](chapitre-iv-bis)
 - [Chapitre V : Marchandage.](chapitre-v)
 - [Chapitre VI : Cautionnements.](chapitre-vi)
 - [Chapitre VII : GROUPEMENTS D'EMPLOYEURS.](chapitre-vii)

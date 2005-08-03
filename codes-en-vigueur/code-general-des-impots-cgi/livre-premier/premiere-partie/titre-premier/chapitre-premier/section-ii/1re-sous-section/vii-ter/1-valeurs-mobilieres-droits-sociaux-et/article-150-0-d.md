@@ -32,6 +32,8 @@ Le prix d'acquisition est, le cas échéant, augmenté du montant mentionné à 
 
 Pour les actions acquises avant le 1er janvier 1990, le prix d'acquisition est réputé égal à la valeur de l'action à la date de la levée de l'option.
 
+8 bis. En cas de cession de parts ou actions acquises dans le cadre d'une opération mentionnée au 4 de l'article L. 313-7 du code monétaire et financier, le prix d'acquisition à retenir est égal au prix convenu pour l'acceptation de la promesse unilatérale de vente compte non tenu des sommes correspondant aux versements effectués à titre de loyers.
+
 9. En cas de vente ultérieure de titres reçus à l'occasion d'une opération mentionnée à l'article 150-0 B, au quatrième alinéa de l'article 150 A bis en vigueur avant la publication de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003) et au II de l'article 150 UB le gain net est calculé à partir du prix ou de la valeur d'acquisition des titres échangés, diminué de la soulte reçue ou majoré de la soulte versée lors de l'échange.
 
 10. En cas d'absorption d'une société d'investissement à capital variable par un fonds commun de placement réalisée conformément à la réglementation en vigueur, les gains nets résultant de la cession ou du rachat des parts reçues en échange ou de la dissolution du fonds absorbant sont réputés être constitués par la différence entre le prix effectif de cession ou de rachat des parts reçues en échange, net des frais et taxes acquittés par le cédant, et le prix de souscription ou d'achat des actions de la société d'investissement à capital variable absorbée remises à l'échange.

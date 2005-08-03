@@ -37,3 +37,4 @@
 - [XXXIV : Crédit d'impôt pour relocalisation d'activité en France](xxxiv)
 - [XXXVI : Crédit d'impôt pour investissement dans les technologies de l'information](xxxvi)
 - [0I bis : Transferts d'actifs hors de France, réalisés par les entreprises](0i-bis)
+- [Article 244 quater M](article-244-quater-m.md)

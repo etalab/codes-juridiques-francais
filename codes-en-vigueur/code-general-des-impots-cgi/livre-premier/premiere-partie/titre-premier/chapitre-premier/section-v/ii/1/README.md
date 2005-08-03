@@ -2,6 +2,7 @@
 
 - [Article 199 ter](article-199-ter.md)
 - [Article 199 ter I](article-199-ter-i.md)
+- [Article 199 ter L](article-199-ter-l.md)
 - [Article 199 ter C](article-199-ter-c.md)
 - [Article 199 ter D](article-199-ter-d.md)
 - [Article 199 ter A](article-199-ter-a.md)

@@ -10,7 +10,7 @@ Le bulletin n° 2 est le relevé des fiches du casier judiciaire applicables à 
 
 4° Les condamnations assorties du bénéfice du sursis, avec ou sans mise à l'épreuve, lorsqu'elles doivent être considérées comme non avenues ; toutefois, si a été prononcé le suivi socio-judiciaire prévu par l'article 131-36-1 du code pénal ou la peine d'interdiction d'exercer une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs, la décision continue de figurer au bulletin n° 2 pendant la durée de la mesure ;
 
-6° Les condamnations auxquelles sont applicables les dispositions de l'article 343 du code de justice militaire ;
+6° Les condamnations auxquelles sont applicables les dispositions de l'article 343 du Code de justice militaire ;
 
 7° et 8° (paragraphes abrogés) ;
 
@@ -20,13 +20,15 @@ Le bulletin n° 2 est le relevé des fiches du casier judiciaire applicables à 
 
 11° Les condamnations prononcées sans sursis en application des articles 131-5 à 131-11 du code pénal, à l'expiration d'un délai de cinq ans à compter du jour où elles sont devenues définitives. Le délai est de trois ans s'il s'agit d'une condamnation à une peine de jours-amende.
 
-Toutefois, si la durée de l'interdiction, déchéance ou incapacité, prononcée en application des articles 131-10 et 131-11, est supérieure à cinq ans, la condamnation demeure mentionnée au bulletin n. 2 pendant la même durée ;
+Toutefois, si la durée de l'interdiction, déchéance ou incapacité, prononcée en application des articles 131-10 et 131-11, est supérieure à cinq ans, la condamnation demeure mentionnée au bulletin n° 2 pendant la même durée ;
 
 12° Les déclarations de culpabilité assorties d'une dispense de peine ou d'un ajournement du prononcé de celle-ci ;
 
 13° Les condamnations prononcées par des juridictions étrangères ;
 
-14° Les compositions pénales mentionnées à l'article 768.
+14° Les compositions pénales mentionnées à l'article 768 ;
+
+15° Sauf décision contraire du juge, spécialement motivée, les condamnations prononcées pour les délits prévus au titre IV du livre IV du code de commerce.
 
 Les bulletins n° 2 fournis en cas de contestation concernant l'inscription sur les listes électorales, ne comprennent que les décisions entraînant des incapacités en matière d'exercice du droit de vote.
 

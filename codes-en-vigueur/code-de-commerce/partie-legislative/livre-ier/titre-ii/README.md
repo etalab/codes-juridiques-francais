@@ -8,3 +8,4 @@
 - [Chapitre VI : Des sociétés de caution mutuelle.](chapitre-vi)
 - [Chapitre VII : Du contrat d'appui au projet d'entreprise pour la création ou la reprise d'une activité économique.](chapitre-vii)
 - [Chapitre VIII : Des incapacités d'exercer une profession commerciale ou industrielle.](chapitre-viii)
+- [Chapitre IX : Du tutorat en entreprise.](chapitre-ix)
