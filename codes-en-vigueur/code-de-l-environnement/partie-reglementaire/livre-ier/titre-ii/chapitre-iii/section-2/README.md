@@ -1,0 +1,18 @@
+# Section 2 : Procédure et déroulement de l'enquête publique
+
+- [Sous-section 1 : Composition du dossier d'enquête](sous-section-1)
+- [Sous-section 2 : Autorité chargée d'organiser l'enquête](sous-section-2)
+- [Sous-section 3 : Désignation du commissaire enquêteur ou d'une commission d'enquête](sous-section-3)
+- [Sous-section 4 : Personnes susceptibles d'exercer les fonctions de commissaire enquêteur](sous-section-4)
+- [Sous-section 5 : Rémunération du commissaire enquêteur](sous-section-5)
+- [Sous-section 6 : Arrêté d'organisation de l'enquête](sous-section-6)
+- [Sous-section 7 : Publicité de l'enquête](sous-section-7)
+- [Sous-section 8 : Information des maires](sous-section-8)
+- [Sous-section 9 : Jours et heures de l'enquête](sous-section-9)
+- [Sous-section 10 : Observations du public](sous-section-10)
+- [Sous-section 11 : Visite des lieux par le commissaire enquêteur](sous-section-11)
+- [Sous-section 12 : Communication de documents à la demande du commissaire enquêteur](sous-section-12)
+- [Sous-section 13 : Organisation d'une réunion publique](sous-section-13)
+- [Sous-section 14 : Prorogation de la durée de l'enquête](sous-section-14)
+- [Sous-section 15 : Formalités de clôture de l'enquête](sous-section-15)
+- [Sous-section 16 : Publicité du rapport et des conclusions](sous-section-16)
