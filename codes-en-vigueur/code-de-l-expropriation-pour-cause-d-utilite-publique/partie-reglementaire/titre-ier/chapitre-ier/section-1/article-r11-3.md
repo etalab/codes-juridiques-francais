@@ -1,4 +1,4 @@
-# Article R11-3
+# Article **R11-3
 
 L'expropriant adresse au préfet pour être soumis à l'enquête un dossier qui comprend obligatoirement :
 
@@ -12,9 +12,9 @@ I.- Lorsque la déclaration d'utilité publique est demandée en vue de la réal
 
 4° Les caractéristiques principales des ouvrages les plus importants ;
 
-5° L'appréciation sommaire des dépenses.
+5° L'appréciation sommaire des dépenses ;
 
-6° L'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977, lorsque les ouvrages ou travaux n'en sont pas dispensés ou, s'il y a lieu, la notice exigée en vertu de l'article 4 du même décret.
+6° L'étude d'impact définie à l'article R. 122-3 du code de l'environnement, lorsque les ouvrages ou travaux n'en sont pas dispensés ou, s'il y a lieu, la notice exigée en vertu de l'article R. 122-9 du même code ;
 
 7° L'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet 1984 pris pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs, lorsque les travaux constituent un grand projet d'infrastructures tels que défini à l'article 3 du même décret.
 
@@ -28,6 +28,6 @@ II.- Lorsque la déclaration d'utilité publique est demandée en vue de l'acqui
 
 4° L'estimation sommaire des acquisitions à réaliser.
 
-Dans les cas prévus aux I et II ci-dessus, la notice explicative indique l'objet de l'opération et les raisons pour lesquelles notamment du point de vue de l'insertion dans l'environnement, parmi les partis envisagés, le projet soumis à l'enquête a été retenu.
+Dans les cas prévus aux I et II ci-dessus, la notice explicative indique l'objet de l'opération et les raisons pour lesquelles, notamment du point de vue de l'insertion dans l'environnement, parmi les partis envisagés, le projet soumis à l'enquête a été retenu.
 
-La notice explicative comprend, s'il y a lieu, les indications mentionnées à l'article 8-1 du décret n° 77-1141 du 12 octobre 1977.
+La notice explicative comprend, s'il y a lieu, les indications mentionnées à l'article R. 122-15 du code de l'environnement.

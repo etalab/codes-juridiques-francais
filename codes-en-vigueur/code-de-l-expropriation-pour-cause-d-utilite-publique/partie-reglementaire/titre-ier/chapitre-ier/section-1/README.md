@@ -5,4 +5,4 @@
 - [Sous-section 3 : Dispositions communes.](sous-section-3)
 - [Article **R11-1](article-r11-1.md)
 - [Article **R11-2](article-r11-2.md)
-- [Article R11-3](article-r11-3.md)
+- [Article **R11-3](article-r11-3.md)
