@@ -1,9 +1,6 @@
 # Section 2 : Création d'un parc national
 
-- [Article R*241-3](article-r-241-3.md)
 - [Article R*241-4](article-r-241-4.md)
-- [Article R*241-5](article-r-241-5.md)
-- [Article R*241-6](article-r-241-6.md)
 - [Article R*241-7](article-r-241-7.md)
 - [Article R*241-8](article-r-241-8.md)
 - [Article R*241-9](article-r-241-9.md)
