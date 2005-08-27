@@ -1,5 +1,7 @@
 # Article L411-2
 
-Les assistants de service social sont tenus, dans le mois qui suit leur entrée en fonctions, de faire enregistrer à la préfecture leur diplôme ou autre titre.
+Les assistants de service social sont tenus de faire enregistrer sans frais leur diplôme ou attestation de capacité à exercer auprès du service de l'Etat compétent ou de l'organisme désigné à cette fin. En cas de changement de situation professionnelle, ils en informent ce service ou cet organisme.
 
-Tout changement de résidence professionnelle hors des limites du département oblige à un nouvel enregistrement. La même obligation s'impose aux personnes qui, après plus de deux ans d'interruption, veulent reprendre l'exercice de leur profession.
+Il est établi, pour chaque département, par le service de l'Etat compétent ou de l'organisme désigné à cette fin, une liste de cette profession, portée à la connaissance du public.
+
+Les modalités d'application du présent article sont fixées par décret.
