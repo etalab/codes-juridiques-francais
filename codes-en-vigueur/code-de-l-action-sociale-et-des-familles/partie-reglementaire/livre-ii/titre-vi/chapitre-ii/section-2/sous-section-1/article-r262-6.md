@@ -36,4 +36,6 @@ Ne sont pas prises en compte dans les ressources les prestations suivantes :
 
 17° la majoration pour âge des allocations familiales mentionnée à l'article L. 521-3 du code de la sécurité sociale, ainsi que l'allocation forfaitaire instituée par le second alinéa de l'article L. 521-1 du même code ;
 
-18° l'allocation de reconnaissance instituée par l'article 47 de la loi de finances rectificative pour 1999 (n° 99-1173 du 30 décembre 1999) modifiée.
+18° l'allocation de reconnaissance instituée par l'article 47 de la loi de finances rectificative pour 1999 (n° 99-1173 du 30 décembre 1999) modifiée ;
+
+19° La prime de retour à l'emploi.
