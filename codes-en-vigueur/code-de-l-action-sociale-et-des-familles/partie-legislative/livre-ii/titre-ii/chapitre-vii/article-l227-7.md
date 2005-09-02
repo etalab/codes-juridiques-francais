@@ -2,7 +2,7 @@
 
 Nul ne peut exercer des fonctions, à quelque titre que ce soit, en vue de l'accueil des mineurs mentionné à l'article L. 227-4 ou exploiter des locaux accueillant ces mineurs, s'il a fait l'objet d'une condamnation définitive pour crime ou à une peine d'emprisonnement pour l'un des délits prévus :
 
-- aux sections 2, 3 et 4 du chapitre II du titre II du livre II du code pénal ;
+- aux sections 1, 2, 3 et 4 du chapitre II du titre II du livre II du code pénal ;
 
 - à la section 2 du chapitre V du titre II du livre II du même code ;
 

@@ -10,7 +10,7 @@ Est puni de six mois d'emprisonnement et de 3750 euros d'amende :
 
 Est puni d'un an d'emprisonnement et de 7500 euros d'amende le fait de s'opposer de quelque façon que ce soit à l'exercice des fonctions dont sont chargés les agents mentionnés à l'article L. 227-9.
 
-Est puni d'un an d'emprisonnement et de 15000 euros d'amende :
+Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende :
 
 1° Le fait d'exercer des fonctions à quelque titre que ce soit en vue de l'accueil de mineurs mentionnés à l'article L. 227-4, ou d'exploiter les locaux accueillant ces mineurs malgré les incapacités prévues à l'article L. 227-7 ;
 
