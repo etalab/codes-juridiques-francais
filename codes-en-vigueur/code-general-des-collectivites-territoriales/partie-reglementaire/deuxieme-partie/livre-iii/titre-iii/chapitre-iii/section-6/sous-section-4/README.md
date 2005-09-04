@@ -9,3 +9,4 @@
 - [Article D2333-80](article-d2333-80.md)
 - [Article D2333-81](article-d2333-81.md)
 - [Article D2333-82](article-d2333-82.md)
+- [Article R2333-82-1](article-r2333-82-1.md)
