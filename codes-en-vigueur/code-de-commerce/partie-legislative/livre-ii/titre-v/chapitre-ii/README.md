@@ -12,4 +12,3 @@
 - [Article L252-10](article-l252-10.md)
 - [Article L252-11](article-l252-11.md)
 - [Article L252-12](article-l252-12.md)
-- [Article L252-13](article-l252-13.md)

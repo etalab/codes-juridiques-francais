@@ -2,7 +2,7 @@
 
 Le Haut Conseil du commissariat aux comptes comprend :
 
-1° Trois magistrats, dont un membre de la Cour de cassation, président, un magistrat de la Cour des comptes et un second magistrat de l'ordre judiciaire ;
+1° Trois magistrats, dont un membre de la Cour de cassation, président, un second magistrat de l'ordre judiciaire, président suppléant, et un magistrat de la Cour des comptes ;
 
 2° Le président de l'Autorité des marchés financiers ou son représentant, un représentant du ministre chargé de l'économie et un professeur des universités spécialisé en matière juridique, économique ou financière ;
 

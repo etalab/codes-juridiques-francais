@@ -14,8 +14,6 @@ Par dérogation aux dispositions des titres II et III du livre II du code de com
 
 5. Le commissaire aux comptes est désigné pour six exercices par le conseil d'administration ou le directoire, après accord de l'Autorité des marchés financiers.
 
-Le commissaire aux comptes porte à la connaissance de l'assemblée générale de la SICAV les irrégularités et inexactitudes qu'il a relevées dans l'accomplissement de sa mission ;
-
 Le commissaire aux comptes est délié du secret professionnel à l'égard de l'Autorité des marchés financiers.
 
 Le commissaire aux comptes est tenu de signaler dans les meilleurs délais à l'Autorité des marchés financiers tout fait ou décision concernant une société d'investissement à capital variable dont il a eu connaissance dans l'exercice de sa mission, de nature :

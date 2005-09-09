@@ -37,7 +37,6 @@
 - [Article L223-35](article-l223-35.md)
 - [Article L223-36](article-l223-36.md)
 - [Article L223-37](article-l223-37.md)
-- [Article L223-38](article-l223-38.md)
 - [Article L223-39](article-l223-39.md)
 - [Article L223-40](article-l223-40.md)
 - [Article L223-41](article-l223-41.md)
