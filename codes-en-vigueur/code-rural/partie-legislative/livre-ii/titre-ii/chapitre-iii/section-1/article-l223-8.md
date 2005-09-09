@@ -24,4 +24,4 @@ Cette déclaration peut entraîner, dans le périmètre qu'elle détermine, l'ap
 
 9° Le traitement ou la vaccination des animaux.
 
-Le ministre chargé de l'agriculture détermine par arrêté celles de ces mesures qui sont applicables aux différentes maladies mentionnées aux articles L. 223-2 et L. 223-3.
+Le ministre chargé de l'agriculture détermine par arrêté celles de ces mesures qui sont applicables aux différentes maladies mentionnées à l'article L. 223-2.

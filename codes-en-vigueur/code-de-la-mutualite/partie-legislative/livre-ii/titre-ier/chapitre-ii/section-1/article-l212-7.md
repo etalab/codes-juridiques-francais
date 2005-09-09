@@ -10,8 +10,8 @@ I. - Constituent un groupe les mutuelles ou unions qui forment entre elles ou av
 
 II. - Les mutuelles et unions appartenant à un groupe au sens du 3° du I ci-dessus établissent et publient des comptes consolidés dans les conditions définies par un règlement du comité de la réglementation comptable.
 
-Ces comptes sont certifiés par les commissaires aux comptes dans les conditions prévues au deuxième alinéa de l'article L. 225-235 du code de commerce.
+Ces comptes sont certifiés par les commissaires aux comptes dans les conditions prévues au deuxième alinéa de l'article L. 823-9 du code de commerce.
 
 III. - Lorsque deux ou plusieurs mutuelles ou unions appartiennent à un groupe, l'une de ces entités établit et publie des comptes combinés. Un décret détermine celle de ces entités sur laquelle pèse cette obligation. Les comptes combinés sont constitués par agrégation de l'ensemble des comptes des entités concernées, établis s'il y a lieu sur une base consolidée dans des conditions définies par un règlement du comité de la réglementation comptable.
 
-Les comptes mentionnés au présent article sont certifiés par les commissaires aux comptes dans les conditions prévues au deuxième alinéa de l'article L. 225-235 du code de commerce.
+Les comptes mentionnés au présent article sont certifiés par les commissaires aux comptes dans les conditions prévues au deuxième alinéa de l'article L. 823-9 du code de commerce.

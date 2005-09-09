@@ -20,7 +20,7 @@ Les conditions d'agrément de ces laboratoires ainsi que la nature de ces examen
 
 g) Dans des conditions fixées par décret en Conseil d'Etat, les ingénieurs et les techniciens diplômés intervenant dans le cadre de leurs activités zootechniques, placés sous l'autorité d'un vétérinaire ou d'un organisme à vocation sanitaire agréé par le ministre chargé de l'agriculture, ou relevant du chapitre III du titre V du livre VI et des articles L. 671-9 à L. 671-11 et L. 681-5 ;
 
-h) Les fonctionnaires et agents contractuels relevant du service des haras nationaux du ministère de l'agriculture titulaires d'une licence d'inséminateur pour l'espèce équine et spécialement habilités à cet effet, intervenant dans le cadre de leurs attributions sous l'autorité médicale d'un vétérinaire ou d'un docteur vétérinaire, pour la réalisation de constats de gestation, notamment par échographie, des femelles équines.
+h) Les fonctionnaires et agents contractuels relevant de l'établissement public "les Haras nationaux" titulaires d'une licence d'inséminateur pour l'espèce équine et spécialement habilités à cet effet, intervenant dans le cadre de leurs attributions sous l'autorité médicale d'un vétérinaire ou d'un docteur vétérinaire, pour la réalisation de constats de gestation, notamment par échographie, des femelles équines.
 
 Les fonctionnaires et agents contractuels relevant du service des haras, des courses et de l'équitation du ministère de l'agriculture peuvent être spécialement habilités à réaliser l'identification électronique complémentaire des équidés sous l'autorité médicale d'un vétérinaire, dans des conditions fixées par un décret en Conseil d'Etat.
 
