@@ -22,5 +22,3 @@
 - [Article L621-20](article-l621-20.md)
 - [Article L621-21](article-l621-21.md)
 - [Article L621-22](article-l621-22.md)
-- [Article L621-23](article-l621-23.md)
-- [Article L621-24](article-l621-24.md)
