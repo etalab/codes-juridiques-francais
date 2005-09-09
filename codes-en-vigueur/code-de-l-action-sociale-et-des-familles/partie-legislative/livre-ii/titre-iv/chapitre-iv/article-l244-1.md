@@ -44,7 +44,9 @@ Le versement de l'allocation aux adultes handicapés au titre du présent articl
 
 Les rémunérations de l'intéressé tirées d'une activité professionnelle en milieu ordinaire de travail sont en partie exclues du montant des ressources servant au calcul de l'allocation selon des modalités fixées par décret. "
 
-" Art. L. 821-4. - L'allocation aux adultes handicapés est accordée sur décision de la commission technique d'orientation et de reclassement professionnel prévue à l'article L. 323-11 du code du travail appréciant le taux d'invalidité de la personne handicapée ou l'impossibilité où elle se trouve, compte tenu de son handicap, de se procurer un emploi. "
+" Art. L. 821-4. - L'allocation aux adultes handicapés est accordée, pour une durée déterminée par décret en Conseil d'Etat, sur décision de la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles appréciant le niveau d'incapacité de la personne handicapée ainsi que, pour les personnes mentionnées à l'article L. 821-2 du présent code, leur impossibilité, compte tenu de leur handicap, de se procurer un emploi.
+
+Le complément de ressources mentionné à l'article L. 821-1-1 est accordé, pour une durée déterminée par décret en Conseil d'Etat, sur décision de la commission mentionnée au premier alinéa qui apprécie le taux d'incapacité et la capacité de travail de l'intéressé. "
 
 " Art. L. 821-5. - L'allocation aux adultes handicapés est servie comme une prestation familiale. Elle est incessible et insaisissable, sauf pour le paiement des frais d'entretien du handicapé. En cas de non-paiement de ces frais, la personne physique ou morale ou l'organisme qui en assume la charge peut obtenir de la caisse débitrice de l'allocation que celle-ci lui soit versée directement.
 
@@ -66,4 +68,4 @@ L'allocation aux adultes handicapés versée aux personnes qui supportent le for
 
 " Art. L. 821-7. - La gestion de la prestation prévue à l'article L. 821-1, du complément de ressources et de la majoration pour la vie autonome est confiée aux organismes du régime général chargés du versement des prestations familiales.
 
-Toutefois, lorsqu'une caisse de mutualité sociale agricole est compétente pour verser à une personne handicapée les prestations familiales dont elle bénéficie ou serait susceptible de bénéficier, cet organisme assure la gestion de l'allocation, du complément de ressources et de la majoration pour la vie autonome. "
+Toutefois, lorsqu'une caisse de mutualité sociale agricole est compétente pour verser à une personne handicapée les prestations familiales dont elle bénéficie ou serait susceptible de bénéficier ou lorsque le bénéficiaire de l'allocation aux adultes handicapés relève d'un régime de protection sociale agricole en application de l'article L. 381-28, cet organisme assure la gestion de l'allocation, du complément de ressources et de la majoration pour la vie autonome. "

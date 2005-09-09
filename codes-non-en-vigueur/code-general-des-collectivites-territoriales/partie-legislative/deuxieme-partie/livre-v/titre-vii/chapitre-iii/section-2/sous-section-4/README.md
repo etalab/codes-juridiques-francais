@@ -4,4 +4,3 @@
 - [Paragraphe 2 : Assainissement](paragraphe-2)
 - [Paragraphe 3 : Ordures ménagères et autres déchets](paragraphe-3)
 - [Paragraphe 4 : Halles, marchés et poids publics](paragraphe-4)
-- [Paragraphe 5 : Abattoirs](paragraphe-5)
