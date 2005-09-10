@@ -1,6 +1,5 @@
 # Paragraphe 6 : Diplôme d'Etat relatif aux fonctions d'animation.
 
-- [Article D451-48](article-d451-48.md)
 - [Article D451-58](article-d451-58.md)
 - [Article D451-59](article-d451-59.md)
 - [Article D451-60](article-d451-60.md)

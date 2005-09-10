@@ -1,7 +1,5 @@
 # Sous-section 1 : Conseil national de l'évaluation sociale et médico-sociale.
 
-- [Article R312-177](article-r312-177.md)
-- [Article R312-179](article-r312-179.md)
 - [Article R312-195](article-r312-195.md)
 - [Article R312-196](article-r312-196.md)
 - [Article R312-197](article-r312-197.md)
