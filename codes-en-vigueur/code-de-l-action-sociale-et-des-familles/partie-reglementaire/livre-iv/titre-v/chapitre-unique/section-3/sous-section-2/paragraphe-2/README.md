@@ -1,10 +1,7 @@
 # Paragraphe 2 : Diplôme d'Etat d'éducateur spécialisé.
 
-- [Article D451-29](article-d451-29.md)
-- [Article D451-30](article-d451-30.md)
-- [Article D451-31](article-d451-31.md)
-- [Article D451-32](article-d451-32.md)
-- [Article D451-33](article-d451-33.md)
-- [Article D451-34](article-d451-34.md)
+- [Article D451-41](article-d451-41.md)
+- [Article D451-43](article-d451-43.md)
 - [Article D451-44](article-d451-44.md)
+- [Article D451-45](article-d451-45.md)
 - [Article D451-46](article-d451-46.md)

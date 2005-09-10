@@ -1,3 +1,0 @@
-# Article D261-5
-
-Selon des modalités précisées dans les conventions départementales, les commissions départementales peuvent faire bénéficier les personnes physiques mentionnées au premier alinéa de l'article R. 261-1 et selon les critères mentionnés à l'article D. 261-2, des aides préventives au paiement des factures d'électricité sur la base des consommations annuelles à venir estimées par les distributeurs d'électricité. Ces aides peuvent être attribuées soit à leur propre initiative lors de l'examen d'une demande d'aide au paiement de factures impayées, soit sur la base d'une demande spécifique émanant de ces personnes.

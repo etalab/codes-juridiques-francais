@@ -6,6 +6,6 @@ Pour obtenir l'autorisation de servir d'intermédiaire pour l'adoption ou le pla
 
 2° Information sur les aspects techniques et juridiques de la procédure d'adoption ;
 
-3° Accompagnement de la famille après l'arrivée de l'enfant dans les conditions fixées à l'article L. 225-16.
+3° Accompagnement de la famille après l'arrivée de l'enfant dans les conditions fixées à l'article L. 225-18.
 
 La personne morale autorisée est dite "organisme autorisé pour l'adoption".

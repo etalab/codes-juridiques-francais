@@ -1,3 +1,0 @@
-# Article R312-176
-
-Le mandat des membres titulaires et suppléants est de quatre ans. Il est renouvelable une fois. Il prend fin lorsque, avant l'expiration de cette période, l'intéressé cesse d'exercer le mandat ou les fonctions au titre desquels il a été élu ou désigné. Lorsqu'un membre cesse d'exercer ses fonctions avant l'expiration de son mandat, ce dernier se poursuit jusqu'au jour de la désignation de son remplaçant par l'organisme qu'il représentait, dans la limite de trois mois. Dans ce cas, le mandat du nouveau membre prend fin à la date à laquelle aurait cessé celui du membre qu'il a remplacé.

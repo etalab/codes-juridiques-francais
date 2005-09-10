@@ -1,5 +1,3 @@
-# Section 4 : Fonds d'aide aux jeunes en difficulté
+# Section 4 : Personnes bénéficiaires de l'allocation de parent isolé
 
-- [Sous-section 1 : Fonds départementaux.](sous-section-1)
-- [Sous-section 2 : Fonds locaux.](sous-section-2)
-- [Sous-section 3 : Dispositions communes.](sous-section-3)
+- [Article R263-2](article-r263-2.md)
