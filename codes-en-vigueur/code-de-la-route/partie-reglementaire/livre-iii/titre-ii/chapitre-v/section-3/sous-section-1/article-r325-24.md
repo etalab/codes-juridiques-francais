@@ -6,6 +6,6 @@ Nul ne peut être agréé comme gardien de fourrière s'il exerce également une
 
 La fourrière doit être clôturée. Ses installations doivent notamment satisfaire aux dispositions législatives et réglementaires relatives à la protection de l'environnement.
 
-Les dispositions qui précèdent ne sont pas applicables aux gardiens de fourrière occasionnellement requis pour cette fonction en application de l'article R. 325-22.
+Les dispositions qui précèdent ne sont applicables ni à la personne occasionnellement requise comme gardien de fourrière ni au propriétaire qui garde son véhicule dans les conditions prévues à l'article R. 325-22.
 
 Le préfet établit un rapport annuel sur les activités et le fonctionnement des fourrières de son département.
