@@ -6,7 +6,7 @@ Il y est joint un double de la fiche descriptive de l'état du véhicule mis en 
 
 II. - Cette notification comporte les mentions obligatoires suivantes :
 
-1° Indication de l'autorité qui a prescrit la mise en fourrière, de la fourrière désignée et de l'autorité dont relève cette fourrière ;
+1° Indication de l'auteur de la prescription, du motif de la prescription, de la fourrière désignée et de l'autorité dont relève cette fourrière ;
 
 2° Décision de classement prise en application de l'article R. 325-30 et indication de la faculté de faire procéder à une contre-expertise conformément aux articles R. 325-35 et R. 325-36 ;
 
@@ -28,4 +28,4 @@ ces délais commençant à courir un jour franc après la date de notification ;
 
 8° Enoncé des voies de recours.
 
-III. - Si le fichier des immatriculations révèle l'inscription d'un gage, copie de la notification de mise en fourrière est adressée au créancier-gagiste, par lettre recommandée avec demande d'accusé de réception, qui fait référence au décret n° 72-823 du 6 septembre 1972 (art. 5, 6 et 7) fixant les conditions de remise au service des domaines des véhicules non retirés de fourrière par leurs propriétaires.
+III. - Si le fichier des immatriculations révèle l'inscription d'un gage, copie de la notification de mise en fourrière est adressée par l'auteur de la prescription de mise en fourrière au créancier-gagiste, par lettre recommandée avec demande d'accusé de réception, qui fait référence au décret n° 72-823 du 6 septembre 1972 (art. 5, 6 et 7) fixant les conditions de remise au service des domaines des véhicules non retirés de fourrière par leurs propriétaires.
