@@ -2,7 +2,7 @@
 
 Le conseil national désigne une commission technique permanente chargée de préparer les travaux de la formation plénière, de publier et diffuser les documents mentionnés au 1° de l'article R. 312-195 et les avis résultant des travaux du conseil. Elle élabore le projet de rapport d'activité annuel qu'elle soumet au conseil en vue de son adoption et de sa publication.
 
-Cette commission est composée, outre le président, de huit membres dont quatre choisis parmi ceux mentionnés au 4° , deux parmi ceux mentionnés au 7° et deux parmi ceux mentionnés au 8° de l'article R. 312-196.
+Cette commission est composée, outre le président, de dix membres dont quatre choisis parmi ceux mentionnés au 4°, trois parmi ceux mentionnés au 7° et trois parmi ceux mentionnés au 8° de l'article R. 312-196.
 
 Le conseil national peut décider la constitution, à titre permanent ou temporaire, de commissions techniques spécifiques dans des conditions fixées par le règlement intérieur mentionné à l'article R. 312-200.
 
