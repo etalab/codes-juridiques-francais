@@ -2,7 +2,7 @@
 
 I. - Le conseil scientifique est composé de douze membres choisis en fonction de leurs compétences scientifiques et techniques :
 
-1° Dix membres appartenant à des organismes d'enseignement supérieur ou de recherche compétents en matière de protection de la nature et de préservation de la faune sauvage, nommés pour six ans, après avis du directeur général de l'Office national de la chasse et de la faune sauvage, par arrêté du ministre chargé de la chasse ;
+1° Dix membres appartenant à des organismes d'enseignement supérieur ou de recherche compétents en matière de protection de la nature et de préservation de la faune sauvage, nommés pour six ans, après avis du directeur général de l'Office national de la chasse et de la faune sauvage, par arrêté du ministre chargé de la chasse et du ministre chargé de l'agriculture et de la forêt ;
 
 2° Deux membres désignés par le directeur général de l'office, pour six ans, parmi les personnels en activité de l'établissement titulaires d'un doctorat ou d'un diplôme d'ingénieur reconnu par l'Etat.
 
