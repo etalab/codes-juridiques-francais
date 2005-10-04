@@ -1,6 +1,6 @@
 # Article 267 quater
 
-I. Les personnes redevables de la taxe sur la valeur ajoutée qui effectuent des opérations d'achat, d'importation, d'acquisition intracommunautaire, de vente, de commission ou de courtage portant sur les animaux vivants de boucherie et de charcuterie définis à l'article 260 F doivent :
+I. Les personnes redevables de la taxe sur la valeur ajoutée qui effectuent des opérations d'achat, d'importation, d'acquisition intracommunautaire, de vente, de commission ou de courtage portant sur les animaux vivants de boucherie et de charcuterie doivent :
 
 a. N'avoir la propriété ou la garde que d'animaux ayant fait l'objet de mesures d'identification ou de marquage; il est procédé à ces mesures selon les modalités fixées par l'article 267 ter;
 
