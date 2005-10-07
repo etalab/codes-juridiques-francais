@@ -1,3 +1,5 @@
 # Article R315-12
 
-Pour l'application des dispositions du 6° de l'article R. 315-10, dans les établissements d'hébergement en vue de la réinsertion sociale, les représentants des personnes accueillies peuvent également être des personnes ayant montré un intérêt particulier pour les catégories de personnes accueillies dans l'établissement. Ces personnes sont désignées par le préfet du département d'implantation.
+Les membres des conseils d'administration mentionnés au 4° de l'article R. 315-6 et au 4° de l'article R. 315-8 sont élus, au sein du ou des conseils de la vie sociale ou des instances de participation, parmi les représentants des personnes bénéficiaires des prestations ou, en l'absence de ces représentants, parmi ceux de leurs familles ou de leurs représentants légaux.
+
+Les élections des représentants des personnes bénéficiaires des prestations sont organisées par le directeur de l'établissement. Le vote par correspondance est admis.

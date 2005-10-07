@@ -12,4 +12,4 @@ b) Son siège et son implantation ;
 
 c) Son organisation et ses règles de fonctionnement ;
 
-d) Sous réserve des articles R. 315-6, R. 315-7, R. 315-9 et R. 315-10, la composition de son conseil d'administration ainsi que les modalités de désignation des représentants des personnes qu'il accueille.
+d) Sous réserve des articles R. 315-6 à R. 315-14, la composition de son conseil d'administration ainsi que les modalités de désignation des représentants des personnes qu'il accueille.

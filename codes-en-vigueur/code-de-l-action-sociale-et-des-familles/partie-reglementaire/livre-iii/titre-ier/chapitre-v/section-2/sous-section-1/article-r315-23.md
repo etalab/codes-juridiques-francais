@@ -1,3 +1,7 @@
 # Article R315-23
 
-Les délibérations du conseil des établissements mentionnés au présent chapitre ne deviennent exécutoires, dans les conditions fixées soit au titre III du livre II de la deuxième partie soit au titre III du livre Ier de la deuxième partie et au titre III du livre Ier de la troisième partie du code général des collectivités territoriales, que lorsqu'il a été procédé à leur affichage par voie d'extrait ou à leur notification ainsi qu'à leur transmission au préfet ou à son délégué dans l'arrondissement.
+Des autorisations spéciales d'absence n'entrant pas en compte dans le calcul des congés annuels sont accordées, dans les conditions prévues par la législation en vigueur, aux agents rémunérés d'un établissement, membres de son conseil d'administration, pour leur permettre d'accomplir leur mission au sein de ce conseil.
+
+Les employeurs sont tenus de laisser aux salariés de leur entreprise, membres du conseil d'administration d'un établissement public mentionné au présent chapitre, le temps nécessaire pour exercer leur mandat au sein de ce conseil.
+
+La suspension du travail qui en résulte ne peut être une cause de rupture par l'employeur du contrat de travail, et ce, à peine de dommages et intérêts au profit du salarié.

@@ -1,15 +1,19 @@
 # Article R315-8
 
-Les trois membres représentant les collectivités publiques ou organismes de sécurité sociale ayant la charge financière principale du fonctionnement de l'établissement, mentionnés au 3° de l'article R. 315-7, sont désignés comme suit :
+Le nombre des membres du conseil d'administration des établissements publics intercommunaux et interdépartementaux est de douze au minimum et de vingt-deux au maximum. Ces nombres sont portés respectivement à treize et à vingt-trois dans le cas où l'établissement public a son siège sur le territoire d'une commune dont il ne relève pas.
 
-1° Dans les maisons d'enfants à caractère social par le conseil général du département dont elles relèvent ;
+Sous réserve des dispositions de l'article L. 315-11, ce conseil d'administration est composé de :
 
-2° Dans les établissements mentionnés au 2° de l'article L. 312-1, ainsi que dans les maisons d'accueil spécialisées définies à l'article L. 344-1 par les organismes de sécurité sociale désignés par le préfet du département d'implantation en fonction de l'importance des frais exposés pour leurs ressortissants et de leur contribution à l'équipement de l'établissement ;
+1° Trois représentants au moins des collectivités territoriales qui sont à l'origine de la création de l'établissement ou de l'établissement public de coopération intercommunale à l'origine de la création de l'établissement, dont l'un assure la présidence du conseil d'administration, élus dans les conditions fixées au I de l'article L. 315-10, au I de l'article R. 315-9 et au I de l'article R. 315-11 ;
 
-3° Dans les établissements mentionnés aux 6° et 7° de l'article L. 312-1, par le conseil général du département dont ils relèvent ; toutefois, lorsqu'une partie du financement est également supportée par les organismes de sécurité sociale, deux membres sont désignés par le conseil général et un troisième par les organismes de sécurité sociale dans les conditions fixées au 2° ci-dessus ;
+2° Un représentant de la commune d'implantation si elle n'est pas représentée au titre du 1° ;
 
-4° Dans les établissements mentionnés au a du 5° et au 8° de l'article L. 312-1, par le préfet du département d'implantation ;
+3° Trois représentants au moins des départements qui supportent, en tout ou partie, les frais de prise en charge des personnes accueillies ;
 
-5° Dans les établissements regroupant des activités relevant à la fois du a du 5° et des 6° , 7° et 8° de l'article L. 312-1, par le conseil général du département dont ils relèvent et le préfet du département d'implantation au prorata de la participation financière du département et de l'Etat, chaque collectivité publique disposant d'un représentant au moins. Lorsqu'une partie du financement est également supportée par les organismes de sécurité sociale, un membre représente ces derniers dans les conditions décrites au 2° ci-dessus.
+4° Deux au moins des membres du ou des conseils de la vie sociale ou des instances de participation institués par l'article L. 311-6, représentant les personnes bénéficiaires des prestations ou, à défaut, leurs familles ou leurs représentants légaux ;
 
-Lorsque les établissements ci-dessus mentionnés ne sont pas habilités à recevoir des bénéficiaires de l'aide sociale et ne sont pas autorisés à dispenser des soins remboursables aux assurés sociaux, les trois membres prévus au présent article sont remplacés par trois membres désignés par l'organe délibérant de la collectivité territoriale dont relèvent ces établissements.
+5° Deux représentants au moins du personnel de l'établissement dont, pour les établissements réalisant des soins éligibles à une prise en charge, un représentant du personnel médical ou thérapeutique ou, dans les établissements hébergeant des personnes âgées dépendantes, le médecin coordonnateur ou, lorsque l'établissement ne comprend pas ces personnels dans ses effectifs, un représentant du personnel en charge des soins ;
+
+6° Deux personnes au moins désignées en fonction de leurs compétences dans le champ d'intervention de l'établissement ou en matière d'action sociale ou médico-sociale.
+
+Les effectifs mentionnés aux 1°, 3°, 4°, 5° et 6° sont fixés, selon le cas, par les collectivités territoriales qui sont à l'origine de la création de l'établissement, conformément aux dispositions du I de l'article R. 315-9, ou par délibération de l'organe délibérant de l'établissement public de coopération intercommunale à l'origine de la création de l'établissement.

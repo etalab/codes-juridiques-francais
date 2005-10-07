@@ -1,3 +1,3 @@
 # Article R315-19
 
-Les séances du conseil d'administration ne sont pas publiques. En cas d'incident, le président peut suspendre la séance ou prononcer son renvoi. Le conseil d'administration doit alors obligatoirement être convoqué à nouveau dans un délai de quinze jours.
+Dès sa première réunion, le conseil d'administration, par délibération, constate les élections et désignations intervenues et dresse la liste de ses membres.

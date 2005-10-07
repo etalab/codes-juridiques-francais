@@ -1,3 +1,5 @@
 # Article R315-22
 
-Les délibérations du conseil d'administration sont consignées dans un registre spécial confié à la garde du directeur de l'établissement. Ce registre est mis à la disposition des administrateurs qui peuvent le consulter sur place. Ils peuvent également obtenir des copies ou extraits des délibérations mais sont tenus, dans l'usage qu'ils en font, au respect des prescriptions des articles 226-13 et 226-14 du code pénal.
+Le président du conseil d'administration prononce la démission d'office des membres qui, sans motif valable, n'ont pas assisté à trois séances consécutives du conseil.
+
+Il est pourvu dans le délai d'un mois au remplacement des membres qui ont cessé leurs fonctions avant l'expiration de leur mandat. Dans ce cas, les fonctions du nouveau membre prennent fin à la date à laquelle aurait pris fin le mandat du membre qu'il a remplacé.
