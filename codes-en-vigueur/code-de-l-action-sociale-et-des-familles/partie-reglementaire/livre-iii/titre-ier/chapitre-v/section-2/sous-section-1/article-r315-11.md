@@ -1,7 +1,13 @@
 # Article R315-11
 
-Pour l'application des dispositions du 5° de l'article R. 315-10, la représentativité des organisations syndicales est appréciée en fonction du nombre moyen de voix recueilli par chacune des organisations dans chaque établissement à l'occasion du renouvellement des commissions paritaires compétentes.
+I.-Les représentants dans les conseils d'administration mentionnés aux articles R. 315-6 et R. 315-8 des collectivités territoriales et des établissements publics de coopération intercommunale, autres que le maire, le président du conseil général ou le président de l'organe délibérant de l'établissement public de coopération intercommunale, sont élus par leur assemblée délibérante au scrutin secret, à la majorité absolue au premier tour, à la majorité relative au second.
 
-Pour les établissements dont le personnel est soumis aux dispositions de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière, les élections à prendre en considération pour le calcul du nombre moyen de voix recueilli dans l'établissement sont les élections aux commissions paritaires consultatives départementales.
+En cas d'égalité des voix, le plus âgé des candidats est proclamé élu.
 
-S'il n'existe pas d'organisation syndicale au sein de l'établissement, le représentant du personnel est élu par et parmi l'ensemble des agents stagiaires, titulaires et contractuels nommés dans des emplois permanents à temps complet, à l'exception de ceux mentionnés à l'article L. 6152-1 du code de la santé publique. Les candidats doivent avoir une ancienneté au moins égale à six mois au sein de l'établissement ou dans la profession s'il s'agit d'une création. Le scrutin est secret et majoritaire à un tour. En cas de partage égal des voix, le candidat ayant la plus grande ancienneté dans l'établissement ou la profession est proclamé élu.
+II.-Les représentants des départements qui assurent, en tout ou partie, le financement de la prise en charge des personnes accueillies sont élus par leur assemblée délibérante.
+
+Aucun de ces départements ne peut détenir la totalité des sièges.
+
+La répartition des sièges à pourvoir entre ces départements s'effectue, dans les limites fixées aux articles R. 315-6 et R. 315-8, en proportion de leurs financements respectifs à la date de l'élection, avec répartition des sièges restants au plus fort reste.
+
+III.-Les représentants du personnel médical mentionnés au 5° de l'article R. 315-6 et au 5° de l'article R. 315-8 sont désignés par le directeur.
