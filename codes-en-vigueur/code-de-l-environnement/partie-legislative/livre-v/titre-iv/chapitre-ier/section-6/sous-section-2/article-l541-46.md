@@ -18,7 +18,7 @@ I. - Est puni de deux ans d'emprisonnement et de 75 000 euros d'amende le fait d
 
 8° Éliminer ou récupérer des déchets ou matériaux sans satisfaire aux prescriptions concernant les caractéristiques, les quantités, les conditions techniques et financières de prise en charge des déchets ou matériaux et les procédés de traitement mis en oeuvre fixées en application des articles L. 541-11, L. 541-22, L. 541-24, L. 541-35 et L. 541-36 ;
 
-9° Méconnaître les prescriptions de l'article L. 541-31 ;
+9° Méconnaître les prescriptions des articles L. 541-30-1 et L. 541-31 ;
 
 10° Mettre obstacle à l'accomplissement des contrôles ou à l'exercice des fonctions des agents prévus à l'article L. 541-44 ;
 

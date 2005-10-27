@@ -9,3 +9,5 @@ La quantité de gaz à effet de serre émise par cette installation au cours d'u
 A l'issue de chacune des années civiles de la période d'affectation, l'exploitant restitue à l'Etat sous peine des sanctions prévues à l'article L. 229-18 un nombre de quotas égal au total des émissions de gaz à effet de serre de ses installations, que ces quotas aient été délivrés ou qu'ils aient été acquis en vertu de l'article L. 229-15.
 
 Toutefois, lorsqu'une installation utilise, dans un processus de combustion, des gaz fournis par une installation sidérurgique, les quotas correspondants sont affectés et délivrés à l'exploitant de cette dernière installation. Celui-ci est seul responsable, à ce titre, des obligations prévues par la présente section.
+
+L'exploitant peut, dans la limite du pourcentage prévu par le VI de l'article L. 229-8, s'acquitter de l'obligation prévue au quatrième alinéa du présent article au moyen de certaines unités visées par l'article L. 229-22 inscrites à son compte dans le registre national mentionné à l'article L. 229-16. Un décret en Conseil d'Etat précise celles des unités qui peuvent ainsi être utilisées.
