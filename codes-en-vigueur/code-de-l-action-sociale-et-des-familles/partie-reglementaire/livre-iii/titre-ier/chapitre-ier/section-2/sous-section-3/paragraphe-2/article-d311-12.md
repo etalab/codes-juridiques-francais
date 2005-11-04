@@ -6,4 +6,4 @@ Les personnels des établissements et services de droit privé soit salariés, s
 
 2° Dans ceux occupant onze salariés ou plus, par des représentants élus, parmi l'ensemble des personnels, par les membres du comité d'entreprise ou, à défaut, par les délégués du personnel ou, s'il n'existe pas d'institution représentative du personnel, par les personnels eux-mêmes.
 
-Ces représentants sont élus au scrutin secret selon les modalités fixées par le règlement intérieur.
+Ces représentants sont élus au scrutin secret.
