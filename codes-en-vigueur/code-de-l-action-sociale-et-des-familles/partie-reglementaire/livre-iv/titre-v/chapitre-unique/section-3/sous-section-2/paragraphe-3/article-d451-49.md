@@ -1,9 +1,3 @@
 # Article D451-49
 
-Des arrêtés du ministre chargé des affaires sociales fixent notamment :
-
-1° Les conditions d'admission des élèves en formation ;
-
-2° Le programme et le déroulement des études ;
-
-3° La nature et les modalités des épreuves sanctionnant cet enseignement.
+Pour chacun des domaines de compétences validé par la formation, les épreuves du diplôme comprennent, d'une part, un contrôle continu organisé, conformément au dossier de déclaration préalable défini à l'article R. 451-2 en détaillant les modalités, par les établissements de formation et, d'autre part, une épreuve en centre d'examens.
