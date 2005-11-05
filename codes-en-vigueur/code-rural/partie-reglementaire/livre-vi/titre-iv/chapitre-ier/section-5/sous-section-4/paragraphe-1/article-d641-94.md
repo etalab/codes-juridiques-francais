@@ -4,6 +4,8 @@ Les vins pour lesquels est revendiquée une appellation d'origine contrôlée ne
 
 Toutefois, les vins tranquilles figurant sur une liste proposée par l'Institut national des appellations d'origine et homologuée par arrêté conjoint du ministre chargé des finances et du ministre chargé de l'agriculture ainsi que les vins mousseux et pétillants bénéficiant d'un certificat d'aptitude peuvent être mis en circulation entre entrepositaires agréés à l'intérieur de la région déterminée.
 
+Le certificat d'agrément n'est délivré aux vins tranquilles, mousseux et pétillants soumis à des mesures de régulation de marché au sens de la réglementation communautaire, étendues par arrêté interministériel, qu'à la date de levée desdites mesures, communiquée par les interprofessions vitivinicoles à l'INAO.
+
 La durée de validité du certificat d'agrément peut être limitée dans le temps pour les vins non conditionnés et non commercialisés, dans les conditions prévues dans le décret définissant l'appellation revendiquée.
 
 La validité du certificat d'agrément pour les vins primeurs non conditionnés et non commercialisés des appellations mentionnées dans le décret du 15 novembre 1967 relatif à la commercialisation des vins à appellation d'origine contrôlée prend fin dès la délivrance au demandeur, pour ces vins, d'un certificat d'agrément pour la même appellation sans la mention "primeur" et au plus tard le 15 décembre de l'année de la récolte.
