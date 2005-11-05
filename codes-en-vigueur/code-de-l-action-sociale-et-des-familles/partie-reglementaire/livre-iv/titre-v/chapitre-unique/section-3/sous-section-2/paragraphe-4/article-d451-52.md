@@ -1,5 +1,5 @@
 # Article D451-52
 
-Le certificat d'aptitude aux fonctions d'éducateur technique spécialisé est destiné aux personnes assurant la formation technologique, l'adaptation ou la réadaptation professionnelle des personnes inadaptées ou handicapées.
+Le diplôme d'Etat d'éducateur technique spécialisé atteste des capacités professionnelles pour intervenir en matière d'intégration sociale et d'insertion professionnelle auprès des personnes présentant un handicap ou des difficultés d'ordre social ou économique.
 
-Il est délivré aux personnes qui ont subi avec succès les épreuves d'un examen organisé conjointement par le ministre chargé des affaires sociales, le ministre chargé de l'éducation et le ministre de la justice.
+Les titulaires de ce diplôme assurent une prise en charge éducative de ces personnes par l'encadrement d'activités techniques.

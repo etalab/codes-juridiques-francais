@@ -1,5 +1,3 @@
 # Article D451-53
 
-L'examen est ouvert aux candidats qui, après contrôle de leurs aptitudes dans les conditions fixées par arrêté des ministres mentionnés à l'article D. 451-52, ont suivi la formation mentionnée à l'article D. 451-55.
-
-Des réductions de la durée de formation peuvent être accordées, dans des conditions fixées par arrêté interministériel, à certaines catégories de candidats.
+Les candidats à la formation d'éducateur technique spécialisé doivent justifier de conditions de diplôme et, en fonction du diplôme, d'expérience professionnelle. Ils font l'objet d'une sélection organisée par les établissements de formation ayant satisfait à l'obligation de déclaration préalable prévue à l'article L. 451-1. Un arrêté des ministres chargés des affaires sociales, de l'éducation et de la justice détermine les conditions d'application du présent article.

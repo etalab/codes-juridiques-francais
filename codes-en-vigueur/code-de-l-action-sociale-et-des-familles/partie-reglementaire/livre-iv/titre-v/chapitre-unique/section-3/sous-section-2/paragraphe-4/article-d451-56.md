@@ -1,3 +1,3 @@
 # Article D451-56
 
-Le certificat d'aptitude aux fonctions d'éducateur technique spécialisé est délivré par le recteur d'académie au nom du ministre chargé de l'éducation.
+Les titulaires du certificat d'aptitude aux fonctions d'éducateur technique spécialisé sont titulaires de droit du diplôme d'Etat d'éducateur technique spécialisé.
