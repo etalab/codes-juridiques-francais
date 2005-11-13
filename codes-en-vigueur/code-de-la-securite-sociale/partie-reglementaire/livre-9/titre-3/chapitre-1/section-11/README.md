@@ -19,3 +19,4 @@
 - [Article A931-11-17](article-a931-11-17.md)
 - [Article A931-11-18](article-a931-11-18.md)
 - [Article A931-11-19](article-a931-11-19.md)
+- [Article A931-11-20](article-a931-11-20.md)
