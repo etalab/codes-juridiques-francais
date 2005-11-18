@@ -2,11 +2,15 @@
 
 Les clauses types des statuts des sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré sont identiques à celles des statuts des sociétés anonymes coopératives de production d'habitations à loyer modéré, à l'exception des clauses suivantes :
 
-2° Dénomination.
+1. Forme
+
+Il est formé, entre les propriétaires des parts sociales créées ci-après et de toutes celles qui le seraient ultérieurement, une société anonyme coopérative d'intérêt collectif d'habitations à loyer modéré, société à capital variable régie par les dispositions du livre IV du code de la construction et de l'habitation, ainsi que par les dispositions non contraires de la loi n° 47-1775 du 10 septembre 1947 modifiée portant statut de la coopération, du code civil et du code de commerce, notamment des articles L. 231-1 à L. 231-8, et par celles du décret n° 67-236 du 23 mars 1967 modifié sur les sociétés commerciales et du décret n° 2002-241 du 21 février 2002 relatif à la société coopérative d'intérêt collectif.
+
+2. Dénomination.
 
 La dénomination de la société est : ...  société anonyme coopérative d'intérêt collectif d'habitations à loyer modéré, société à capital variable.
 
-5° Capital social.
+5. Capital social.
 
 Le capital est variable et entièrement libéré lors de la souscription de parts sociales.
 
@@ -24,7 +28,7 @@ Les réductions de capital effectuées dans les cas prévus au dernier alinéa d
 
 La société ne peut procéder à l'amortissement de son capital.
 
-6° Retraits - Exclusions.
+6. Retraits - Exclusions.
 
 Le capital peut être réduit par suite de reprises d'apports consécutives au départ ou à l'exclusion d'associés. Le retrait ou l'exclusion d'associés ne peut avoir pour effet de réduire le capital effectif ni à un montant inférieur au minimum légal, ni en dessous du seuil fixé à l'article 13 de la loi du 10 septembre 1947 précitée. Il ne peut en outre avoir pour effet de réduire le nombre des associés à moins de 7.
 
@@ -36,11 +40,11 @@ L'exclusion est notifiée à l'intéressé par la société, par pli recommandé
 
 Les associés démissionnaires ou exclus restent tenus pendant cinq années envers les sociétaires et envers les tiers de toutes les obligations existant au jour de leur retrait ou de leur exclusion.
 
-9° Situation des administrateurs et membres du conseil de surveillance.
+9. Situation des administrateurs et membres du conseil de surveillance.
 
 Le mandat des membres du conseil d'administration ou du conseil de surveillance est exercé à titre gratuit dans les conditions prévues à l'article R. 421-56 du code de la construction et de l'habitation. Toutefois, tout associé salarié de la société peut être nommé en qualité de membre du conseil d'administration ou du conseil de surveillance sans perdre le bénéfice de son contrat de travail.
 
-10° Expression des voix aux assemblées.
+10. Expression des voix aux assemblées.
 
 A chaque catégorie d'associés correspond un même collège d'associés. Les associés d'un même collège peuvent être répartis en sections délibérant séparément.
 
@@ -62,12 +66,12 @@ Le collège des salariés ne peut détenir plus de 15 % des droits de vote.
 
 (1) A compléter par la société.
 
-15° Réserves.
+15. Réserves.
 
 Conformément à l'article L. 423-5 du code de la construction et de l'habitation et sous réserve des exceptions prévues par cet article, les réserves, les bénéfices ou les primes d'émission ne peuvent être incorporés au capital.
 
 Après acquittement des charges de toute nature, y compris tous amortissements et provisions, ainsi que le prélèvement au profit du fonds de réserve légale ou d'autres réserves, dont la constitution est imposée par la réglementation propre aux sociétés coopératives d'HLM, et la répartition éventuelle de dividendes dans les conditions définies à la clause 14 des présents statuts, le surplus éventuel forme une réserve spéciale destinée à assurer le développement de l'activité de la société et à parer aux éventualités.
 
-16° Attribution de l'actif.
+16. Attribution de l'actif.
 
 Lors de l'expiration de la société, ou en cas de dissolution anticipée, l'assemblée générale ordinaire appelée à statuer sur la liquidation décidera, après extinction du passif et remboursement du capital effectivement versé, d'attribuer l'actif net subsistant soit à d'autres coopératives ou unions de coopératives, soit à des oeuvres d'intérêt général ou professionnel.
