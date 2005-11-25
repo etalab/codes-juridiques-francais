@@ -1,3 +1,3 @@
 # Article R*134-1
 
-La vente des coupes et des produits de coupes dans les bois et forêts relevant du régime forestier est faite avec publicité et appel à la concurrence dans les conditions précisées à la section 2 du présent chapitre. Il peut être dérogé à cette règle par des ventes à l'amiable dans les conditions fixées à la section 3 du même chapitre.
+La vente des coupes et des produits de coupes dans les bois et forêts relevant du régime forestier est faite soit par adjudication ou appel d'offres, soit de gré à gré. En vue d'assurer la meilleure valorisation des biens mis en vente, l'office choisit entre ces procédures en fonction de la nature et du volume des bois à céder, du nombre et de la taille des entreprises susceptibles de se porter acquéreurs.

@@ -6,6 +6,6 @@ La collectivité ou personne morale propriétaire, si elle décide de concéder 
 
 La commission chargée d'arrêter les conditions techniques de la concession est celle qui est prévue à l'article L. 137-1 et dont la composition est définie au troisième alinéa de l'article R. 137-1. Un représentant de la collectivité ou personne morale propriétaire peut assister aux séances avec voix consultative.
 
-Les concessions amiables de pâturage sont conclues dans les conditions définies à l'article R. 144-3 pour les ventes amiables de coupes et produits des coupes.
+Les concessions de gré à gré de pâturage sont conclues dans les conditions définies à l'article R. 144-3 pour les ventes de gré à gré de coupes et produits des coupes.
 
 En cas d'appel d'offres, la commission chargée de l'ouverture des plis est composée comme il est dit à l'article R. 144-2.
