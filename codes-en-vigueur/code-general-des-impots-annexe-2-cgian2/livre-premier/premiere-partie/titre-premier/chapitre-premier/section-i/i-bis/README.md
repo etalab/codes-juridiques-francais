@@ -2,6 +2,7 @@
 
 - [1 : Imposition de certains profits immobiliers](1)
 - [3 : Amortissement des biens d'investissement ouvrant droit à déduction de la taxe sur la valeur ajoutée](3)
+- [3 bis : Amortissement des immobilisations par composants](3-bis)
 - [4 : Amortissement des immobilisations destinées à la recherche scientifique ou technique](4)
 - [4 bis : Provisions pour risques afférents à certaines opérations d'assurance et de réassurance](4-bis)
 - [Article 4 à 14](article-4-a-14.md)
