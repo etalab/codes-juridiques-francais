@@ -10,7 +10,7 @@ Sans préjudice des dispositions relatives au contrôle métrologique, l'étique
 
 4° La quantité nette ;
 
-5° La date jusqu'à laquelle la denrée conserve ses propriétés spécifiques ainsi que l'indication des conditions particulières de conservation ;
+5° La date de durabilité minimale ou, dans le cas de denrées alimentaires très périssables microbiologiquement, la date limite de consommation ainsi que l'indication des conditions particulières de conservation ;
 
 6° Le nom ou la raison sociale et l'adresse du fabricant ou du conditionneur ou d'un vendeur établi à l'intérieur du territoire de la Communauté européenne ;
 
@@ -18,4 +18,4 @@ Sans préjudice des dispositions relatives au contrôle métrologique, l'étique
 
 8° Le lieu d'origine ou de provenance chaque fois que l'omission de cette mention est de nature à créer une confusion dans l'esprit de l'acheteur sur l'origine ou la provenance réelle de la denrée alimentaire ;
 
-9° Le mode d'emploi chaque fois que sa mention est nécessaire à un usage approprié de la denrée alimentaire ainsi que, le cas échéant, les conditions particulières d'utilisation, notamment les précautions d'emploi.
+9° Le mode d'emploi chaque fois que sa mention est nécessaire à un usage approprié de la denrée alimentaire ainsi que, le cas échéant, les conditions particulières d'utilisation.
