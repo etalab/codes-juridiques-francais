@@ -6,6 +6,7 @@
 - [Article R333-4](article-r333-4.md)
 - [Article R333-5](article-r333-5.md)
 - [Article R333-6](article-r333-6.md)
+- [Article R333-6-1](article-r333-6-1.md)
 - [Article R333-7](article-r333-7.md)
 - [Article R333-8](article-r333-8.md)
 - [Article R333-9](article-r333-9.md)
