@@ -1,7 +1,6 @@
 # Section 2 : Régimes de soutien aux productions végétales
 
 - [Sous-section 1 : Paiements à la surface pour les grandes cultures.](sous-section-1)
-- [Sous-section 2 : Aide spécifique au riz.](sous-section-2)
 - [Sous-section 2 : Lin et chanvre destinés à la production de fibres.](sous-section-2-lin-et)
 - [Sous-section 3 : Aides spécifiques pour le blé dur.](sous-section-3)
 - [Sous-section 4 : Aide spécifique au riz.](sous-section-4)
