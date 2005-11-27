@@ -2,4 +2,5 @@
 
 - [Section 1](section-1)
 - [Section 2 : Régimes de soutien aux productions végétales](section-2)
-- [Section 3 : Conditionnalité des mesures de soutien direct dans le cadre de la politique agricole commune](section-3)
+- [Section 3 : Régimes de soutien aux productions animales](section-3)
+- [Section 4 : Conditionnalité des mesures de soutien direct dans le cadre de la politique agricole commune](section-4)
