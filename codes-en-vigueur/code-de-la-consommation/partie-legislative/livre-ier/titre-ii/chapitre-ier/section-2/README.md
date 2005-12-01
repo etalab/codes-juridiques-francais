@@ -13,8 +13,5 @@
 - [Article L121-20-3](article-l121-20-3.md)
 - [Article L121-20-4](article-l121-20-4.md)
 - [Article L121-20-5](article-l121-20-5.md)
-- [Article L121-20-6](article-l121-20-6.md)
-- [Article L121-20-7](article-l121-20-7.md)
 - [Article L121-20-8](article-l121-20-8.md)
-- [Article L121-20-9](article-l121-20-9.md)
 - [Article L121-20-10](article-l121-20-10.md)
