@@ -2,6 +2,7 @@
 
 - [Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers](sous-section-1)
 - [Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers](sous-section-2)
+- [Sous-section 3 : Dispositions communes](sous-section-3)
 - [Article L121-16](article-l121-16.md)
 - [Article L121-17](article-l121-17.md)
 - [Article L121-18](article-l121-18.md)
