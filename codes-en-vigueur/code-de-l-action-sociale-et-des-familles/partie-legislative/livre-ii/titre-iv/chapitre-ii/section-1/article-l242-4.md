@@ -13,3 +13,9 @@ Tous les deux ans, le représentant de l'Etat dans le département adresse au pr
 Toute personne handicapée ou son représentant légal a droit à une information sur les garanties que lui reconnaît le présent article. Cette information lui est délivrée par la commission mentionnée à l'article L. 146-9 au moins six mois avant la limite d'âge mentionnée au deuxième alinéa.
 
 Au vu du rapport biennal susvisé, toutes les dispositions sont prises en suffisance et en qualité pour créer, selon une programmation pluriannuelle, les places en établissement nécessaires à l'accueil des jeunes personnes handicapées âgées de plus de vingt ans.
+
+Lorsque le jeune adulte handicapé est orienté vers un établissement relevant de la compétence du département, le tarif journalier de l'établissement pour mineurs dans lequel le jeune adulte handicapé est maintenu est pris en charge par l'aide sociale du département dans lequel il a son domicile de secours.
+
+Lorsque le jeune adulte handicapé est orienté vers un établissement et service mentionné au V de l'article L. 314-1, le prix de journée de l'établissement pour mineur à la charge de l'aide sociale du département est diminué du forfait journalier plafond afférent aux soins fixé pour l'exercice précédent, qui est facturé aux organismes d'assurance maladie.
+
+Dans les autres cas, ce tarif journalier est pris en charge par les organismes d'assurance maladie et est facturé par l'établissement à ces derniers.
