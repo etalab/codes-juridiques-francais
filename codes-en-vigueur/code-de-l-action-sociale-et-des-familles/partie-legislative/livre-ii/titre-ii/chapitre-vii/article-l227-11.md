@@ -8,7 +8,7 @@ I. - Le représentant de l'Etat dans le département peut adresser, à toute per
 
 - aux manquements aux dispositions relatives au projet éducatif prévues à l'article L. 227-4 ;
 
-- aux manquements aux dispositions prévues à l'article L. 227-7 et à l'article L. 227-10.
+- aux manquements aux dispositions prévues à l'article L. 133-6 et à l'article L. 227-10.
 
 A l'expiration du délai fixé dans l'injonction, le représentant de l'Etat dans le département peut, de manière totale ou partielle, interdire ou interrompre l'accueil de mineurs mentionné à l'article L. 227-4, ainsi que prononcer la fermeture temporaire ou définitive des locaux dans lesquels il se déroule, si la ou les personnes qui exercent une responsabilité dans l'accueil des mineurs mentionné à l'article L. 227-4 ou les exploitants des locaux les accueillant n'ont pas remédié aux situations qui ont justifié l'injonction.
 

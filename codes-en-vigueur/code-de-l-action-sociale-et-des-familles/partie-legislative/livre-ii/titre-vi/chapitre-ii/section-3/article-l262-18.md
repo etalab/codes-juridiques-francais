@@ -1,8 +1,8 @@
 # Article L262-18
 
-Une personne sans résidence stable doit, pour demander le bénéfice de l'allocation, élire domicile auprès d'un organisme agréé à cette fin par le président du conseil général ou auprès d'un centre communal ou intercommunal d'action sociale.
+Par dérogation aux dispositions du chapitre II du titre II du livre Ier, l'allocation est attribuée par le département de résidence du demandeur. A défaut de résidence, le département compétent est celui dans lequel le demandeur a élu domicile. L'élection de domicile est réalisée auprès d'un organisme agréé à cette fin par le président du conseil général ou auprès d'un centre communal ou intercommunal d'action sociale.
 
-Les personnes circulant en France sans domicile ni résidence fixe, au sens de la loi n° 69-3 du 3 janvier 1969 relative à l'exercice des activités ambulantes et au régime applicable aux personnes circulant en France sans domicile ni résidence fixe, élisent domicile auprès d'un organisme agréé ou d'un centre communal ou intercommunal d'action sociale, situé ou non dans leur commune de rattachement.
+Les personnes relevant de la loi n° 69-3 du 3 janvier 1969 relative à l'exercice des activités ambulantes et au régime applicable aux personnes circulant en France sans domicile ni résidence fixe élisent domicile auprès d'un organisme agréé ou d'un centre communal ou intercommunal d'action sociale, situé ou non dans leur commune de rattachement.
 
 L'agrément précise les conditions dans lesquelles les organismes peuvent, le cas échéant, refuser de recevoir la déclaration d'élection de domicile.
 

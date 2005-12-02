@@ -1,6 +1,6 @@
 # Article L262-19
 
-Lors de la demande initiale, l'allocation est attribuée pour une durée de trois mois par le président du conseil général du département de résidence du demandeur ou, le cas échéant, de celui dans lequel il a élu domicile, dans les conditions prévues à l'article L. 262-3.
+Lors de la demande initiale, l'allocation est attribuée, dans les conditions prévues à l'article L. 262-3, pour une durée de trois mois par le président du conseil général du département compétent.
 
 Le droit à l'allocation est prorogé pour une durée de trois mois à un an par le président du conseil général au vu du contrat d'insertion établi dans les conditions fixées à l'article L. 262-37.
 
