@@ -1,6 +1,6 @@
 # Article L118-2-4
 
-Après avis, émis dans des conditions définies par décret, du Conseil national de la formation professionnelle tout au long de la vie, peuvent être habilités à collecter, sur le territoire national, les versements des entreprises pouvant donner lieu à exonération de la taxe d'apprentissage, les syndicats, groupements professionnels ou associations à compétence nationale :
+Après avis, émis dans des conditions définies par décret, du Conseil national de la formation professionnelle tout au long de la vie, peuvent être habilités à collecter, sur le territoire national, les versements des entreprises donnant lieu à exonération de la taxe d'apprentissage, les syndicats, groupements professionnels ou associations à compétence nationale :
 
 1° Soit ayant conclu une convention-cadre de coopération avec le ministre chargé de l'éducation nationale, le ministre chargé de l'enseignement supérieur, le ministre chargé de l'agriculture ou le ministre chargé de la jeunesse et des sports définissant les conditions de leur participation à l'amélioration des premières formations technologiques et professionnelles, et notamment l'apprentissage, pour les reverser aux établissements autorisés à les recevoir et financer des actions de promotion en faveur de la formation initiale technologique et professionnelle ;
 

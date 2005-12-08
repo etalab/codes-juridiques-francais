@@ -20,6 +20,6 @@ Pour la détermination du bénéfice réel, il est fait application des disposit
 
 Si les contribuables imposés d'après leur bénéfice réel ne produisent pas les déclarations ou renseignements visés au 1 et au premier alinéa du présent paragraphe, ou, si invités à fournir à l'appui de la déclaration de leur bénéfice réel les justifications nécessaires, ils s'abstiennent de les donner dans les trente jours qui suivent la réception de l'avis qui leur est adressé à cet effet, les bases d'imposition sont arrêtées d'office.
 
-3 bis. Les contribuables soumis au régime défini à l'article 50-0 qui cessent leur activité en cours d'année sont tenus de faire parvenir à l'administration, dans le délai de soixante jours déterminé comme indiqué au 1, la déclaration et l'état mentionnés au 3 de l'article 50-0.
+3 bis. Les contribuables soumis au régime défini à l'article 50-0 qui cessent leur activité en cours d'année sont tenus de faire parvenir à l'administration, dans le délai de soixante jours déterminé comme indiqué au 1, la déclaration prévue au 3 de l'article 50-0.
 
 4. Les dispositions du présent article sont applicables dans le cas de décès de l'exploitant. Dans ce cas, les ayants droit du défunt doivent produire les renseignements nécessaires pour l'établissement de l'impôt dans les six mois de la date du décès.
