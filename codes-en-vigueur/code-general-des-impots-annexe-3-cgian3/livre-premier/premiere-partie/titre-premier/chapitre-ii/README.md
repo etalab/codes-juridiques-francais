@@ -17,6 +17,7 @@
 - [Section V octies : Crédit d'impôt en faveur de l'apprentissage](section-v-octies)
 - [Section V nonies : Crédit d'impôt au titre des avances remboursables ne portant pas intérêt pour financer l'acquisition ou la construction d'une résidence principale](section-v-nonies)
 - [Section V decies : Crédit d'impôt pour dépenses de prospection commerciale](section-v-decies)
+- [Section V undecies : Crédit d'impôt pour dépenses d'équipement en nouvelles technologies](section-v-undecies)
 - [Section VI : Indemnités de congé payé](section-vi)
 - [Section VII : Opérations de crédit-bail](section-vii)
 - [Section 0I bis : Personnes morales passibles de l'impôt sur les sociétés, ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble](section-0i-bis)
