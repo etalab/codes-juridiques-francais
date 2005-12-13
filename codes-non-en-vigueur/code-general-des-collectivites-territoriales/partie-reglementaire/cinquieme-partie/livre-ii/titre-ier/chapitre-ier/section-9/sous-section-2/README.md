@@ -6,4 +6,3 @@
 - [Article R5211-45](article-r5211-45.md)
 - [Article R5211-46](article-r5211-46.md)
 - [Article R5211-47](article-r5211-47.md)
-- [Article R5211-48](article-r5211-48.md)

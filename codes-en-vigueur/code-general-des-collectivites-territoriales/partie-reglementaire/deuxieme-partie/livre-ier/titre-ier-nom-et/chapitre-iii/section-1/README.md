@@ -1,7 +1,6 @@
 # Section 1 : Dispositions communes.
 
 - [Article D2113-1](article-d2113-1.md)
-- [Article D2113-2](article-d2113-2.md)
 - [Article D2113-3](article-d2113-3.md)
 - [Article D2113-4](article-d2113-4.md)
 - [Article D2113-5](article-d2113-5.md)
