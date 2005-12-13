@@ -5,4 +5,5 @@
 - [Article 222-29](article-222-29.md)
 - [Article 222-30](article-222-30.md)
 - [Article 222-31](article-222-31.md)
+- [Article 222-31-1](article-222-31-1.md)
 - [Article 222-32](article-222-32.md)

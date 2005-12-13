@@ -6,3 +6,4 @@
 - [Sous-section 4 : Des peines contraventionnelles](sous-section-4)
 - [Sous-section 5 : Du contenu et des modalités d'application de certaines peines](sous-section-5)
 - [Sous-section 6 : Du suivi socio-judiciaire](sous-section-6)
+- [Sous-section 7 : Du placement sous surveillance électronique mobile à titre de mesure de sûreté](sous-section-7)

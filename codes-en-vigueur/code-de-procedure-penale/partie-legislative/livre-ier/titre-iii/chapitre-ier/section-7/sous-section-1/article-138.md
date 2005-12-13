@@ -34,7 +34,9 @@ Ce contrôle astreint la personne concernée à se soumettre, selon la décision
 
 15° Constituer, dans un délai, pour une période et un montant déterminés par le juge d'instruction ou le juge des libertés et de la détention, des sûretés personnelles ou réelles ;
 
-16° Justifier qu'elle contribue aux charges familiales ou acquitte régulièrement les aliments qu'elle a été condamnée à payer conformément aux décisions judiciaires et aux conventions judiciairement homologuées portant obligation de verser des prestations, subsides ou contributions aux charges du mariage.
+16° Justifier qu'elle contribue aux charges familiales ou acquitte régulièrement les aliments qu'elle a été condamnée à payer conformément aux décisions judiciaires et aux conventions judiciairement homologuées portant obligation de verser des prestations, subsides ou contributions aux charges du mariage ;
+
+17° En cas d'infraction commise soit contre son conjoint ou son concubin, soit contre ses enfants ou les enfants de ce dernier, résider hors du domicile ou de la résidence du couple, et, le cas échéant, s'abstenir de paraître dans ce domicile ou cette résidence ou aux abords immédiats de celui-ci, ainsi que, si nécessaire, faire l'objet d'une prise en charge sanitaire, sociale ou psychologique.
 
 L'obligation prévue au 2° peut être exécutée, avec l'accord de l'intéressé recueilli en présence de son avocat, sous le régime du placement sous surveillance électronique, à l'aide du procédé prévu par l'article 723-8. Les articles 723-9 et 723-12 sont applicables, le juge d'instruction exerçant les compétences attribuées au juge de l'application des peines.
 

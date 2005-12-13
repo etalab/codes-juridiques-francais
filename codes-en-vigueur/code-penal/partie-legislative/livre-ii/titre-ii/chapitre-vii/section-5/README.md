@@ -18,3 +18,4 @@
 - [Article 227-27-1](article-227-27-1.md)
 - [Article 227-28](article-227-28.md)
 - [Article 227-28-1](article-227-28-1.md)
+- [Article 227-28-2](article-227-28-2.md)

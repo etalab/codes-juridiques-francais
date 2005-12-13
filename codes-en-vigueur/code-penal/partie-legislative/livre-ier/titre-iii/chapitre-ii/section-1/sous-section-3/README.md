@@ -1,5 +1,6 @@
-# Sous-section 3 : Du prononcé des peines.
+# Sous-section 3 : Des peines applicables en cas de réitération d'infractions
 
+- [Article 132-16-7](article-132-16-7.md)
 - [Article 132-17](article-132-17.md)
 - [Article 132-18](article-132-18.md)
 - [Article 132-19](article-132-19.md)

@@ -6,3 +6,4 @@
 - [Section 4 : Des réductions de peines](section-4)
 - [Section 7 : De la mise à exécution de certaines peines privatives de liberté à l'égard des condamnés libres](section-7)
 - [Section 8 : Dispositions applicables aux condamnés en fin de peine](section-8)
+- [Section 9 : Dispositions relatives à la surveillance judiciaire de personnes dangereuses condamnées pour crime ou délit](section-9)
