@@ -10,4 +10,3 @@
 - [Article R*653-36](article-r-653-36.md)
 - [Article R*653-37](article-r-653-37.md)
 - [Article R*653-38](article-r-653-38.md)
-- [Article R*653-39](article-r-653-39.md)
