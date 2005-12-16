@@ -5,3 +5,5 @@
 - [Titre III : Organismes particuliers d'assurance](titre-iii)
 - [Titre IV : Régimes particuliers d'assurance](titre-iv)
 - [Titre V : Organisme d'information](titre-v)
+- [Titre VI : Dispositions applicables à Mayotte et dans les îles Wallis et Futuna](titre-vi)
+- [Article L400-1](article-l400-1.md)

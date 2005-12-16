@@ -14,12 +14,12 @@ a) Les éléments mentionnés aux articles R. 931-10-3, R. 931-10-6, R. 931-10-9
 
 b) Les éléments inclus, selon des règles spécifiques, dans les fonds propres prudentiels des entités relevant du secteur bancaire et des services d'investissement.
 
-Aux fins de l'admission des éléments prudentiels dans les fonds propres du conglomérat financier, la commission de contrôle, en tant que coordonnateur, tient compte de la disponibilité et la transférabilité effectives des fonds entre les différentes entités du conglomérat financier.
+Aux fins de l'admission des éléments prudentiels dans les fonds propres du conglomérat financier, l'Autorité de contrôle, en tant que coordonnateur, tient compte de la disponibilité et la transférabilité effectives des fonds entre les différentes entités du conglomérat financier.
 
 III. - Pour l'application des méthodes 2 et 3 définies à l'article définies à l'article R. 933-9, les fonds propres et les exigences de solvabilité d'une entité sont déterminés à partir de ses comptes annuels conformément aux dispositions de l'arrêté prévu à l'article R. 933-8.
 
-Ils sont pris en compte à concurrence de la part de capital souscrit détenue, directement ou indirectement, par les entités du conglomérat financier ou, lorsqu'il n'y a pas de lien en capital, pour la part déterminée par la commission de contrôle mentionnée à l'article L. 951-1, après consultation des autres autorités compétentes concernées, en fonction de la responsabilité née de la relation existant entre l'entité et les autres entités du conglomérat financier.
+Ils sont pris en compte à concurrence de la part de capital souscrit détenue, directement ou indirectement, par les entités du conglomérat financier ou, lorsqu'il n'y a pas de lien en capital, pour la part déterminée par l'Autorité de contrôle mentionnée à l'article L. 951-1, après consultation des autres autorités compétentes concernées, en fonction de la responsabilité née de la relation existant entre l'entité et les autres entités du conglomérat financier.
 
-En outre, lorsque l'entité présente un déficit de solvabilité, ce déficit est pris en compte en totalité. Toutefois, dans le cas où la responsabilité de l'organisme de référence détenant une part de capital est limitée, strictement et sans ambiguïté, à cette part de capital, la commission de contrôle mentionnée à l'article L. 951-1 peut décider d'admettre que le déficit de l'entité est pris en compte sur une base proportionnelle.
+En outre, lorsque l'entité présente un déficit de solvabilité, ce déficit est pris en compte en totalité. Toutefois, dans le cas où la responsabilité de l'organisme de référence détenant une part de capital est limitée, strictement et sans ambiguïté, à cette part de capital, l'Autorité de contrôle mentionnée à l'article L. 951-1 peut décider d'admettre que le déficit de l'entité est pris en compte sur une base proportionnelle.
 
 Les opérations intragroupe sont éliminées d'une manière équivalente à celle prévue pour l'établissement des comptes consolidés ou combinés mentionnés à l'article L. 931-34.
