@@ -1,6 +1,6 @@
 # Article R125-3
 
-La régularité des opérations électorales destinées à la désignation des membres du conseil d'administration, des membres de la commission de contrôle, des représentants des salariés au conseil d'administration et des délégués des sections locales de vote peut être contestée, dans le délai de quinze jours à dater de l'élection, devant le tribunal d'instance du siège social de la mutuelle.
+La régularité des opérations électorales destinées à la désignation des membres du conseil d'administration, des membres de l'Autorité de contrôle, des représentants des salariés au conseil d'administration et des délégués des sections locales de vote peut être contestée, dans le délai de quinze jours à dater de l'élection, devant le tribunal d'instance du siège social de la mutuelle.
 
 La contestation est formée par déclaration orale ou écrite faite, remise ou adressée au greffe du tribunal d'instance.
 

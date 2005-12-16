@@ -8,7 +8,7 @@ Les tarifs pratiqués par les institutions de prévoyance et leurs unions effect
 
 - tables TD 88-90 pour les assurances en cas de décès et TV 88-90 pour les assurances en cas de vie établies sur la base des données publiées par l'Institut national de la statistique et des études économiques annexées au présent article et tables de génération pour les rentes viagères (1) ;
 
-- tables établies par l'institution ou l'union et certifiées par un actuaire indépendant de celle-ci, agréé à cet effet par l'une des associations d'actuaires reconnues par la commission de contrôle instituée par l'article L. 951-1.
+- tables établies par l'institution ou l'union et certifiées par un actuaire indépendant de celle-ci, agréé à cet effet par l'une des associations d'actuaires reconnues par l'Autorité de contrôle instituée par l'article L. 951-1.
 
 Pour les rentes viagères, les tarifs et les provisions techniques déterminés en utilisant les tables visées au deuxième tiret du 2° ne peuvent être inférieurs à ceux qui résulteraient de l'utilisation des tables de génération visées au premier tiret du 2°.
 

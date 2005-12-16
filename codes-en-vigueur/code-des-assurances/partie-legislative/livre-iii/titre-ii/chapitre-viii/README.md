@@ -6,4 +6,3 @@
 - [Article L328-4](article-l328-4.md)
 - [Article L328-5](article-l328-5.md)
 - [Article L328-13](article-l328-13.md)
-- [Article L328-16](article-l328-16.md)

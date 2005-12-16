@@ -1,12 +1,287 @@
 # Article Annexe (3) à l'art. A931-11-17
 
-**COMPTE RENDU DETAILLE ANNUEL : ETATS D'ANALYSE DES COMPTES.**
+COMPTE RENDU DETAILLE ANNUEL : ETATS D'ANALYSE DES COMPTES.
 
-**ETAT C 20**
+ETAT C 20
 
-**MOUVEMENTS DES BULLETINS D'ADHESION AUX REGLEMENTS OU DES CONTRATS, DES CAPITAUX ET RENTES.**
+MOUVEMENTS DES BULLETINS D'ADHESION AUX REGLEMENTS OU DES CONTRATS, DES CAPITAUX ET RENTES.
 
-Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au a de l'article L. 931-1 et celles agréées pour pratiquer simultanément les opérations visées au a et au b établissent, selon le modèle fixé ci-après, un état retraçant les mouvements des bulletins d'adhésion aux règlements, des contrats, des capitaux et des rentes au cours de l'exercice inventorié. [*tableau non reproduit*]
+Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au a de l'article L. 931-1 et celles agréées pour pratiquer simultanément les opérations visées au a et au b établissent, selon le modèle fixé ci-après, un état retraçant les mouvements des bulletins d'adhésion aux règlements, des contrats, des capitaux et des rentes au cours de l'exercice inventorié.
+
+<table>
+<tbody>
+<tr>
+<td colspan="2" width="454">
+<p align="center">MOUVEMENTS</p>
+</td>
+<td width="151">
+<p align="center">CATÉGORIE</p>
+<p align="center">ou sous-catégorie</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p>En cours à l'ouverture de l'exercice</p>
+</td>
+<td valign="top" width="151">
+<p>Nombre (1)</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302"/>
+<td valign="top" width="151">
+<p>Montant (2)</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p>Entrées :</p>
+</td>
+<td valign="top" width="151"/>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p>Souscriptions</p>
+</td>
+<td valign="top" width="151">
+<p>Nombre</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302"/>
+<td valign="top" width="151">
+<p>Montant</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p>Remplacements ou transformations</p>
+</td>
+<td valign="top" width="151">
+<p>Nombre</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302"/>
+<td valign="top" width="151">
+<p>Montant</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p>Revalorisations (3)</p>
+</td>
+<td valign="top" width="151">
+<p>Nombre (4)</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302"/>
+<td valign="top" width="151">
+<p>Montant</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="302">
+<p>Total des entrées</p>
+</td>
+<td valign="top" width="151">
+<p>Nombre</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="151">
+<p>Montant</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p>Sorties :</p>
+</td>
+<td valign="top" width="151"/>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p>Sans effet</p>
+</td>
+<td valign="top" width="151">
+<p>Nombre</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302"/>
+<td valign="top" width="151">
+<p>Montant</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p>Remplacements ou transformations</p>
+</td>
+<td valign="top" width="151">
+<p>Nombre</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302"/>
+<td valign="top" width="151">
+<p>Montant</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p>Echéances</p>
+</td>
+<td valign="top" width="151">
+<p>Nombre</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302"/>
+<td valign="top" width="151">
+<p>Montant</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p>Sinistres (5)</p>
+</td>
+<td valign="top" width="151">
+<p>Nombre</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302"/>
+<td valign="top" width="151">
+<p>Montant</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p>Extinctions</p>
+</td>
+<td valign="top" width="151">
+<p>Nombre</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302"/>
+<td valign="top" width="151">
+<p>Montant</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p>Rachats</p>
+</td>
+<td valign="top" width="151">
+<p>Nombre</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302"/>
+<td valign="top" width="151">
+<p>Montant</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p>Réductions</p>
+</td>
+<td valign="top" width="151">
+<p>Nombre (4)</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302"/>
+<td valign="top" width="151">
+<p>Montant</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p>Résiliations</p>
+</td>
+<td valign="top" width="151">
+<p>Nombre</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302"/>
+<td valign="top" width="151">
+<p>Montant</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="302">
+<p>Total des sorties</p>
+</td>
+<td valign="top" width="151">
+<p>Nombre</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="151">
+<p>Montant</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p>En cours à la clôture de l'exercice</p>
+</td>
+<td valign="top" width="151">
+<p>Nombre</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="302"/>
+<td valign="top" width="151">
+<p>Montant</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td colspan="3" valign="top" width="605">
+<p>(1) Nombre de bulletins d'adhésion aux règlements et de contrats.</p>
+<p>(2) Capitaux ou rentes garantis.</p>
+<p>(3) Revalorisations au cours de l'exercice : indexations, incorporations de participations aux excédents.</p>
+<p>(4) Les nombres figurant sur cette ligne ne s'additionnent pas dans le total.</p>
+<p>(5) Pour les opérations relevant de la branche 24 (Capitalisation), cette rubrique enregistre les remboursements par tirage au sort.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Cet état comporte en colonnes les catégories et sous-catégories suivantes d'opérations directes en France :
 
@@ -66,9 +341,9 @@ Les opérations en unités de compte sont converties en francs à la contrevaleu
 
 (3) L'addition des éléments relatifs aux rentes différées en cours de constitution et aux rentes en service est égale au total des éléments relatifs aux sous-catégories 083, 087, 093 et 097.
 
-**ETAT C 21**
+ETAT C 21
 
-**ETAT DETAILLE DES PROVISIONS TECHNIQUES.**
+ETAT DETAILLE DES PROVISIONS TECHNIQUES.
 
 Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au a de l'article L. 931-1 et celles agréées pour pratiquer simultanément les opérations visées au a et au b établissent, selon le modèle fixé ci-après, un état détaillé de leurs provisions techniques.
 
@@ -128,17 +403,159 @@ L'état comporte les colonnes suivantes :
 
 (1) Lorsqu'une provision pour participation aux excédents est commune à plusieurs règlements ou contrats types, les institutions et unions portent dans cette colonne, en regard de chacun des règlement et contrats types intéressés, une référence identifiant cette provision pour participation aux excédents. Cette référence est reprise dans le deuxième ensemble de lignes où le montant de la provision est détaillé.
 
-**ETAT C 30**
+ETAT C 30
 
-**COTISATIONS, SINISTRES ET COMMISSIONS DES OPERATIONS NON-VIE DANS L'ESPACE ECONOMIQUE EUROPEEN.**
+COTISATIONS, SINISTRES ET COMMISSIONS DES OPERATIONS NON-VIE DANS L'ESPACE ECONOMIQUE EUROPEEN.
 
-Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au b et/ou au c de l'article L. 931-1 et celles agréées pour pratiquer simultanément les opérations visées au a et au b établissent, selon le modèle fixé ci-après, un état des cotisations, sinistres et commissions relatifs à leurs opérations Non-vie effectuées dans chacun des Etats de l'Espace économique européen hors la France et un état récapitulatif [*tableau non reproduit*].
+Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au b et/ou au c de l'article L. 931-1 et celles agréées pour pratiquer simultanément les opérations visées au a et au b établissent, selon le modèle fixé ci-après, un état des cotisations, sinistres et commissions relatifs à leurs opérations Non-vie effectuées dans chacun des Etats de l'Espace économique européen hors la France et un état récapitulatif.
 
-**ETAT C 31**
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">ÉTAT</p>
+</td>
+<td colspan="3">
+<p align="center">RÉGIME D'ÉTABLISSEMENT</p>
+</td>
+<td colspan="3">
+<p align="center">LIBRE PRESTATION DE SERVICES</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Branches d'activité</p>
+</td>
+<td>
+<p align="center">Cotisations</p>
+</td>
+<td>
+<p align="center">Sinistres</p>
+</td>
+<td>
+<p align="center">Commissions</p>
+</td>
+<td>
+<p align="center">Cotisations</p>
+</td>
+<td>
+<p align="center">Sinistres</p>
+</td>
+<td>
+<p align="center">Commissions</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Accidents - maladie</p>
+</td>
+<td valign="top"/>
+<td valign="top"/>
+<td valign="top"/>
+<td valign="top"/>
+<td valign="top"/>
+<td valign="top"/>
+</tr>
+<tr>
+<td valign="top">
+<p>Chômage</p>
+</td>
+<td valign="top"/>
+<td valign="top"/>
+<td valign="top"/>
+<td valign="top"/>
+<td valign="top"/>
+<td valign="top"/>
+</tr>
+<tr>
+<td valign="top">
+<p>Total</p>
+</td>
+<td valign="top"/>
+<td valign="top"/>
+<td valign="top"/>
+<td valign="top"/>
+<td valign="top"/>
+<td valign="top"/>
+</tr>
+</tbody>
+</table>
 
-**COTISATIONS DES OPERATIONS VIE DANS L'ESPACE ECONOMIQUE EUROPEEN (HORS LA FRANCE).**
+ETAT C 31
 
-Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au a de l'article L. 931-1 et celles agréées pour pratiquer simultanément les opérations visées au a et au b établissent, selon le modèle fixé ci-après, un état des cotisations relatives à leurs opérations Vie effectuées dans chacun des Etats de l'Espace économique européen hors la France et un état récapitulatif [*tableau non reproduit*]
+COTISATIONS DES OPERATIONS VIE DANS L'ESPACE ECONOMIQUE EUROPEEN (HORS LA FRANCE) .
+
+Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au a de l'article L. 931-1 et celles agréées pour pratiquer simultanément les opérations visées au a et au b établissent, selon le modèle fixé ci-après, un état des cotisations relatives à leurs opérations Vie effectuées dans chacun des Etats de l'Espace économique européen hors la France et un état récapitulatif.
+
+<table>
+<tbody>
+<tr>
+<td width="329">
+<p align="center">ÉTAT</p>
+</td>
+<td width="144">
+<p align="center">RÉGIME D'ÉTABLISSEMENT</p>
+</td>
+<td width="132">
+<p align="center">LPS</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="329">
+<p>Branches d'activité (1) :</p>
+</td>
+<td rowspan="8" valign="top" width="144"/>
+<td rowspan="8" valign="top" width="132"/>
+</tr>
+<tr>
+<td valign="top" width="329">
+<p>I. - Assurance vie</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="329">
+<p>II. - Nuptialité-natalité</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="329">
+<p>III. - Opérations en unités de comptes</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="329">
+<p>IV. - Opérations dites "Permanent Health Insurance"</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="329">
+<p>VII. - Gestion de fonds collectifs</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="329">
+<p>VIII. - Opérations collectives relevant de l'article L. 932-24</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="329">
+<p>IX. - Pensions de sécurité sociale</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="329">
+<p>Total</p>
+</td>
+<td valign="top" width="144"/>
+<td valign="top" width="132"/>
+</tr>
+<tr>
+<td colspan="3" valign="top" width="605">
+<p>(1) Pour la définition de ces branches, voir l'annexe à la directive 79/267/CEE du 5 mai 1979.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Etats spécifiques relatifs aux opérations à l'étranger
 
@@ -158,34 +575,1307 @@ Les opérations assimilées à des opérations pluriannuelles à cotisation uniq
 
 Les états modèles sont adaptés en tant que de besoin en remplaçant la mention "France" par l'indication du nom du pays, ou par la mention "LPS".
 
-Sous réserve de l'accord de la commission de contrôle instituée par l'article L. 951-1, l'institution ou l'union, dont l'activité le justifie, peut regrouper sous une même rubrique plusieurs ensembles d'opérations.
+Sous réserve de l'accord de l'Autorité de contrôle instituée par l'article L. 951-1, l'institution ou l'union, dont l'activité le justifie, peut regrouper sous une même rubrique plusieurs ensembles d'opérations.
 
-**ETAT C 40**
+ETAT C 40
 
-**OPERATIONS REALISEES POUR LE COMPTE D'UNIONS D'INSTITUTIONS DE PREVOYANCE**.
+OPERATIONS REALISEES POUR LE COMPTE D'UNIONS D'INSTITUTIONS DE PREVOYANCE.
 
-Les institutions de prévoyance établissent l'état ci-après pour chacune des unions dont elles sont membres : [*tableau non reproduit*]
+Les institutions de prévoyance établissent l'état ci-après pour chacune des unions dont elles sont membres :
 
-**ETAT C 41**
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">RISQUES ET ENGAGEMENTS</p>
+</td>
+<td>
+<p align="center">COTISATIONS (1)</p>
+</td>
+<td>
+<p align="center">PRESTATIONS (1)</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Branches 1 et 26. - Accidents-maladie (2) (3)</p>
+</td>
+<td valign="top"/>
+<td valign="top"/>
+</tr>
+<tr>
+<td valign="top">
+<p>Branche 16 a. - Chômage (2) (3)</p>
+</td>
+<td valign="top"/>
+<td valign="top"/>
+</tr>
+<tr>
+<td valign="top">
+<p>Branche 20. - Vie-décès</p>
+</td>
+<td valign="top"/>
+<td valign="top"/>
+</tr>
+<tr>
+<td valign="top">
+<p>Branche 21. - Nuptialité-natalité</p>
+</td>
+<td valign="top"/>
+<td valign="top"/>
+</tr>
+<tr>
+<td valign="top">
+<p>Branche 22. - Assurances liées à des fonds d'investissement</p>
+</td>
+<td valign="top"/>
+<td valign="top"/>
+</tr>
+<tr>
+<td valign="top">
+<p>Branche 24. - Capitalisation</p>
+</td>
+<td valign="top"/>
+<td valign="top"/>
+</tr>
+<tr>
+<td valign="top">
+<p>Branche 25. - Gestion de fonds collectifs</p>
+</td>
+<td valign="top"/>
+<td valign="top"/>
+</tr>
+<tr>
+<td valign="top">
+<p>Branches 26. - Opérations à caractère collectif de l'article L. 932-24</p>
+</td>
+<td valign="top"/>
+<td valign="top"/>
+</tr>
+<tr>
+<td valign="top">
+<p>Total</p>
+</td>
+<td valign="top"/>
+<td valign="top"/>
+</tr>
+<tr>
+<td colspan="3" valign="top">
+<p>(1) Cotisations et prestations afférentes à l'exercice, brutes de réassurance.</p>
+<p>(2) Cotisations au sens de la ligne 7. Cotisations acquises à l'année » du tableau C de l'état C 10.</p>
+<p>(3) Prestations au sens de la ligne 4. Charges nettes de recours » du même tableau C.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-**ACTION SOCIALE**
+ETAT C 41
 
-[*tableau non reproduit*]
+ACTION SOCIALE
 
-**ETAT C 42**
+<table>
+<tbody>
+<tr>
+<td width="454">
+<br/>
+</td>
+<td width="227">
+<p align="center">MONTANT</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>1. Produits prélevés :</p>
+</td>
+<td valign="top" width="227"/>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>1 a. Sur opérations Non-vie</p>
+</td>
+<td valign="top" width="227"/>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>2 b. Sur opérations Vie</p>
+</td>
+<td valign="top" width="227"/>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>2. Produits sur placements (1)</p>
+</td>
+<td valign="top" width="227"/>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>3. Autres produits (2)</p>
+</td>
+<td valign="top" width="227"/>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>4. Produits exceptionnels (3)</p>
+</td>
+<td valign="top" width="227"/>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>Total produits</p>
+</td>
+<td valign="top" width="227"/>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>5. Allocations, attribution, et frais payés et à payer (4) :</p>
+</td>
+<td valign="top" width="227"/>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>5 a. A caractère individuel</p>
+</td>
+<td valign="top" width="227"/>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>5 b. A caractère collectif</p>
+</td>
+<td valign="top" width="227"/>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>5 c. Autres allocations et attributions</p>
+</td>
+<td valign="top" width="227"/>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>6. Frais de gestion (5)</p>
+</td>
+<td valign="top" width="227"/>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>7. Charges exceptionnelles (6)</p>
+</td>
+<td valign="top" width="227"/>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>Total charges</p>
+</td>
+<td valign="top" width="227"/>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>Résultat de l'action sociale</p>
+</td>
+<td valign="top" width="227"/>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="454">
+<p>(1) F 3.</p>
+<p>(2) F 7.</p>
+<p>(3) F 9 a.</p>
+<p>(4) F 8 a.</p>
+<p>(5) F 8 b.</p>
+<p>(6) F 9 b (part imputable à l'action sociale des postes du compte de résultat non technique).</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-**ELEMENTS STATISTIQUES RELATIFS A LA PROTECTION SOCIALE COMPLEMENTAIRE**.
+ETAT C 42
+
+ELEMENTS STATISTIQUES RELATIFS A LA PROTECTION SOCIALE COMPLEMENTAIRE.
 
 Les institutions de prévoyance et les unions d'institutions de prévoyance établissent pour leurs opérations directes (hors acceptations) en France les états suivants :
 
 A. - Etat C 42
 
-Statistiques relatives aux différentes catégories d'opérations en France [*tableau non reproduit*]
+Statistiques relatives aux différentes catégories d'opérations en France
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2" width="290">
+<p align="center">RISQUES ET ENGAGEMENTS</p>
+</td>
+<td colspan="4" width="315">
+<p align="center">OPÉRATIONS DIRECTES EN FRANCE</p>
+</td>
+</tr>
+<tr>
+<td width="86">
+<p align="center">Collectives à adhésion obligatoire</p>
+</td>
+<td width="88">
+<p align="center">Collectives à adhésion facultative</p>
+</td>
+<td width="84">
+<p align="center">Individuelles</p>
+</td>
+<td width="57">
+<p align="center">Total</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p align="center">Frais de santé :</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre de cotisants au 31 décembre (1)</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre d'entreprises adhérentes au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p align="center">Incapacité - Invalidité :</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>Mensualisation :</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre de cotisants au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre d'entreprises adhérentes au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p align="center">Autres indemnités journalières :</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre de cotisants au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre d'entreprises adhérentes au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p align="center">Rentes d'invalidité :</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre de rentes en cours de service au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre de cotisants au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre d'entreprises adhérentes au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p align="center">Chômage :</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre de cotisants au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre d'entreprises adhérentes au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p align="center">Indemnité et prime de fin de carrière :</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre de bénéficiaires servis au cours de l'exercice</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre de cotisants au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre d'entreprises adhérentes au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p align="center">Retraite supplémentaire :</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre de rentes en cours de service au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre de cotisants au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre d'entreprises adhérentes au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p align="center">Capital :</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre de capitaux versés au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre de cotisants au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre d'entreprises adhérentes au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p align="center">Décès :</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>Invalidité totale et définitive :</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre de cotisants au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre d'entreprises adhérentes au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p align="center">Rente de conjoint survivant :</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre de rentes en cours de service au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre de cotisants au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre d'entreprises adhérentes au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p align="center">Rente d'éducation ou d'orphelin :</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre de rentes en cours de service au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre de cotisants au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre d'entreprises adhérentes au 31 décembre</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>Total :</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre de cotisants</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>- nombre d'entreprises adhérentes</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td valign="top" width="290">
+<p>(Préciser : avec double compte - sans double compte.)</p>
+</td>
+<td valign="top" width="86"/>
+<td valign="top" width="88"/>
+<td valign="top" width="84"/>
+<td valign="top" width="57"/>
+</tr>
+<tr>
+<td colspan="5" valign="top" width="605">
+<p>(1) Cotisants : participants visés aux 1<sup>o</sup> et 2<sup>o</sup> de l'article L. 931-3 du code de la sécurité sociale.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 B. - Etat C 42
 
-Cotisations et prestations [*tableau non reproduit*]
+Cotisations et prestations
+
+<table>
+<tbody>
+<tr>
+<td rowspan="3" width="178">
+<p align="center">RISQUES ET ENGAGEMENTS</p>
+</td>
+<td colspan="8" width="436">
+<p align="center">OPÉRATIONS DIRECTES EN FRANCE</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="113">
+<p align="center">Collectives à adhésion obligatoire</p>
+</td>
+<td colspan="2" width="132">
+<p align="center">Collectives à adhésion facultative</p>
+</td>
+<td colspan="2" width="96">
+<p align="center">Individuelles</p>
+</td>
+<td colspan="2" width="84">
+<p align="center">Total</p>
+</td>
+</tr>
+<tr>
+<td width="57">
+<p align="center">Cot.</p>
+</td>
+<td width="57">
+<p align="center">Prest.</p>
+</td>
+<td width="57">
+<p align="center">Cot.</p>
+</td>
+<td width="57">
+<p align="center">Prest.</p>
+</td>
+<td width="57">
+<p align="center">Cot.</p>
+</td>
+<td width="57">
+<p align="center">Prest.</p>
+</td>
+<td width="57">
+<p align="center">Cot.</p>
+</td>
+<td width="57">
+<p align="center">Prest.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="178">
+<p>Frais de santé (2) (3)</p>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="178">
+<p>Incapacité - invalidité (2) (3) :</p>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="178">
+<p>- mensualisation</p>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="178">
+<p>- autres indemnités journalières</p>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="178">
+<p>- rentes d'invalidité</p>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="178">
+<p>Chômage (2) (3)</p>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="178">
+<p>Indemnité et prime de fin de carrière</p>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="178">
+<p>Retraite supplémentaire</p>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="178">
+<p>Décès :</p>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="178">
+<p>- capitaux</p>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="178">
+<p>- rente de conjoint survivant</p>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="178">
+<p>- rente d'éducation ou d'orphelin</p>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="178">
+<p>Montant total</p>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+<td valign="top" width="57">
+<br/>
+</td>
+</tr>
+<tr>
+<td colspan="9" valign="top" width="605">
+<p>(2) Cotisations au sens de la ligne "7. Cotisations acquises à l'année" du tableau C de l'état C 10.</p>
+<p>(3) Prestations au sens de la ligne "4. Charges nettes de recours" du même tableau C.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 C. - Etat C 42
 
-Frais de santé [*tableau non reproduit*]
+Frais de santé
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2" width="234">
+<p align="center">MONTANT DES PRESTATIONS (1)</p>
+</td>
+<td colspan="4" width="371">
+<p align="center">OPÉRATIONS DIRECTES EN FRANCE</p>
+</td>
+</tr>
+<tr>
+<td width="98">
+<p align="center">Collectives à adhésion obligatoire</p>
+</td>
+<td width="98">
+<p align="center">Collectives à adhésion facultative</p>
+</td>
+<td width="98">
+<p align="center">Individuelles</p>
+</td>
+<td width="78">
+<p align="center">Total</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="234">
+<p>Hôpitaux publics et PSPH</p>
+</td>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="78"/>
+</tr>
+<tr>
+<td valign="top" width="234">
+<p>Hôpitaux privés</p>
+</td>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="78"/>
+</tr>
+<tr>
+<td valign="top" width="234">
+<p>Sections médicalisées :</p>
+</td>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="78"/>
+</tr>
+<tr>
+<td valign="top" width="234">
+<p>- publiques</p>
+</td>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="78"/>
+</tr>
+<tr>
+<td valign="top" width="234">
+<p>- privées</p>
+</td>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="78"/>
+</tr>
+<tr>
+<td valign="top" width="234">
+<p>Sous-total : hôpitaux - Sections médicalisées</p>
+</td>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="78"/>
+</tr>
+<tr>
+<td valign="top" width="234">
+<p>Cabinets libéraux :</p>
+</td>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="78"/>
+</tr>
+<tr>
+<td valign="top" width="234">
+<p>- médecins</p>
+</td>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="78"/>
+</tr>
+<tr>
+<td valign="top" width="234">
+<p>- auxiliaires</p>
+</td>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="78"/>
+</tr>
+<tr>
+<td valign="top" width="234">
+<p>- dentistes</p>
+</td>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="78"/>
+</tr>
+<tr>
+<td valign="top" width="234">
+<p>Laboratoires d'analyses</p>
+</td>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="78"/>
+</tr>
+<tr>
+<td valign="top" width="234">
+<p>Etablissements thermaux</p>
+</td>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="78"/>
+</tr>
+<tr>
+<td valign="top" width="234">
+<p>Sous-total : soins ambulatoires</p>
+</td>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="78"/>
+</tr>
+<tr>
+<td valign="top" width="234">
+<p>Transports</p>
+</td>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="78"/>
+</tr>
+<tr>
+<td valign="top" width="234">
+<p>Total : prestations de soins</p>
+</td>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="78"/>
+</tr>
+<tr>
+<td valign="top" width="234">
+<p>Officines pharmaceutiques</p>
+</td>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="78"/>
+</tr>
+<tr>
+<td valign="top" width="234">
+<p>Distributeurs d'autres biens médicaux (lunetterie-orthopédie)</p>
+</td>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="78"/>
+</tr>
+<tr>
+<td valign="top" width="234">
+<p>Total : biens médicaux</p>
+</td>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="78"/>
+</tr>
+<tr>
+<td valign="top" width="234">
+<p>Total des prestations</p>
+</td>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="98"/>
+<td valign="top" width="78"/>
+</tr>
+<tr>
+<td colspan="5" valign="top" width="605">
+<p>(1) Prestations afférentes à l'exercice, brutes de réassurance, au sens de la ligne "4. Charge nette de recours" du tableau C de l'état C 10.</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -15,3 +15,5 @@ L'assurance faite au profit du conjoint profite à la personne qui a cette quali
 Les héritiers, ainsi désignés, ont droit au bénéfice de l'assurance en proportion de leurs parts héréditaires. Ils conservent ce droit en cas de renonciation à la succession.
 
 En l'absence de désignation d'un bénéficiaire dans la police ou à défaut d'acceptation par le bénéficiaire, le contractant a le droit de désigner un bénéficiaire ou de substituer un bénéficiaire à un autre. Cette désignation ou cette substitution ne peut être opérée, à peine de nullité, qu'avec l'accord de l'assuré, lorsque celui-ci n'est pas le contractant. Cette désignation ou cette substitution peut être réalisée soit par voie d'avenant au contrat, soit en remplissant les formalités édictées par l'article 1690 du code civil, soit par endossement quand la police est à ordre, soit par voie testamentaire.
+
+Lorsque l'assureur est informé du décès de l'assuré, l'assureur est tenu d'aviser le bénéficiaire, si les coordonnées sont portées au contrat, de la stipulation effectuée à son profit.

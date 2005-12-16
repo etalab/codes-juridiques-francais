@@ -5,4 +5,3 @@
 - [Article L171-3](article-l171-3.md)
 - [Article L171-4](article-l171-4.md)
 - [Article L171-5](article-l171-5.md)
-- [Article L171-6](article-l171-6.md)

@@ -1,4 +1,4 @@
-# Chapitre II : Dispositions applicables aux assurances non fluviales.
+# Chapitre II : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle applicables aux assurances non fluviales
 
 - [Article L192-1](article-l192-1.md)
 - [Article L192-2](article-l192-2.md)

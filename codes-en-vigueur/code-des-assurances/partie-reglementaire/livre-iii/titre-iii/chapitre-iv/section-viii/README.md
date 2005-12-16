@@ -2,3 +2,4 @@
 
 - [Article A334-4](article-a334-4.md)
 - [Article A334-5](article-a334-5.md)
+- [Article A334-6](article-a334-6.md)

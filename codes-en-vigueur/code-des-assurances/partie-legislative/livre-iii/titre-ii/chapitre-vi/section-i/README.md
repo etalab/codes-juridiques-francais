@@ -8,4 +8,3 @@
 - [Article L326-13](article-l326-13.md)
 - [Article L326-14](article-l326-14.md)
 - [Article L326-14-1](article-l326-14-1.md)
-- [Article L326-15](article-l326-15.md)
