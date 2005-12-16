@@ -1,4 +1,4 @@
-# Section II : Commission de contrôle des assurances.
+# Section II : Autorité de contrôle des assurances.
 
 - [Article L310-12](article-l310-12.md)
 - [Article L310-12-1](article-l310-12-1.md)
