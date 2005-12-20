@@ -48,19 +48,19 @@ Les rémunérations de l'intéressé tirées d'une activité professionnelle en 
 
 Le complément de ressources mentionné à l'article L. 821-1-1 est accordé, pour une durée déterminée par décret en Conseil d'Etat, sur décision de la commission mentionnée au premier alinéa qui apprécie le taux d'incapacité et la capacité de travail de l'intéressé. "
 
-" Art. L. 821-5. - L'allocation aux adultes handicapés est servie comme une prestation familiale. Elle est incessible et insaisissable, sauf pour le paiement des frais d'entretien du handicapé. En cas de non-paiement de ces frais, la personne physique ou morale ou l'organisme qui en assume la charge peut obtenir de la caisse débitrice de l'allocation que celle-ci lui soit versée directement.
+" Art. L. 821-5. - L'allocation aux adultes handicapés est servie comme une prestation familiale. Elle est incessible et insaisissable, sauf pour le paiement des frais d'entretien de la personne handicapée. En cas de non-paiement de ces frais, la personne physique ou morale ou l'organisme qui en assume la charge peut obtenir de la caisse débitrice de l'allocation que celle-ci lui soit versée directement.
 
 L'action de l'allocataire pour le paiement de l'allocation se prescrit par deux ans.
 
 Cette prescription est également applicable à l'action intentée par un organisme payeur en recouvrement d'allocations indûment payées, sauf en cas de fraude ou de fausse déclaration.
 
-La tutelle aux prestations sociales, prévue au chapitre VII du titre VI du livre Ier, s'applique à l'allocation aux adultes handicapés.
+La tutelle aux prestations sociales, prévue au chapitre 7 du titre VI du livre I, s'applique à l'allocation aux adultes handicapés.
 
-Les dispositions des articles L. 377-1, L. 377-2 et L. 377-4 sont applicables à l'allocation aux adultes handicapés.
+Les dispositions des articles L. 114-13, L. 377-2 et L. 377-4 sont applicables à l'allocation aux adultes handicapés.
 
-Les différends auxquels peut donner lieu l'application du présent article et des articles L. 821-1 à L. 821-3 et qui ne relèvent pas d'un autre contentieux sont réglés suivant les dispositions régissant le contentieux général de la sécurité sociale.
+Les différends auxquels peut donner lieu l'application du présent titre et qui ne relèvent pas d'un autre contentieux sont réglés suivant les dispositions régissant le contentieux général de la sécurité sociale.
 
-L'Etat verse au fonds national des prestations familiales, géré par la caisse nationale des allocations familiales, une subvention correspondant au montant des dépenses versées au titre de l'allocation aux adultes handicapés et de son complément. "
+L'Etat verse au fonds national des prestations familiales, géré par la caisse nationale des allocations familiales, une subvention correspondant au montant des dépenses versées au titre de l'allocation aux adultes handicapés, du complément de ressources et de la majoration pour la vie autonome ainsi qu'au titre de l'allocation pour adulte handicapé prévue à l'article 35 de l'ordonnance n° 2002-411 du 27 mars 2002 relative à la protection sanitaire et sociale à Mayotte. "
 
 " Art. L. 821-6. - Un décret en Conseil d'Etat précise les conditions dans lesquelles le droit à l'allocation aux adultes handicapés mentionnée à l'article L. 821-1 ci-dessus est ouvert aux personnes handicapées hébergées dans un établissement social ou médico-social ou hospitalisées dans un établissement de santé, ou détenues dans un établissement relevant de l'administration pénitentiaire. Ce décret détermine également dans quelles conditions le paiement de ladite allocation peut être réduit, en cas d'hospitalisation d'hébergement ou d'incarcération.
 

@@ -8,7 +8,7 @@ I. - Une section consacrée au financement des établissements ou services socia
 
 a) En ressources, une fraction au moins égale à 10 % et au plus égale à 14 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4, ainsi que la part de la contribution des régimes d'assurance maladie, mentionnée au deuxième alinéa du I de l'article L. 314-3, qui est destinée au financement de ces établissements ou services ;
 
-b) En charges, le remboursement aux régimes d'assurance maladie des charges afférentes à l'accueil de leurs affiliés dans ces établissements ou services.
+b) En charges, le remboursement aux régimes d'assurance maladie des charges afférentes à l'accueil de leurs affiliés dans ces établissements ou services et une contribution, par voie de fonds de concours créé par l'Etat en 2006, au financement des groupes d'entraide mutuelle mentionnés à l'article L. 114-1-1.
 
 2. La deuxième sous-section est relative aux établissements et services mentionnés au 3° de l'article L. 314-3-1 et à ceux du 2° du même article qui accueillent principalement des personnes âgées. Elle retrace :
 
@@ -29,6 +29,8 @@ III. - Une section consacrée à la prestation de compensation mentionnée à l'
 a) En ressources, une fraction au moins égale à 26 % et au plus égale à 30 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4 ;
 
 b) En charges, un concours versé aux départements dans la limite des ressources mentionnées au a, destiné à couvrir une partie du coût de la prestation de compensation et un concours versé pour l'installation ou le fonctionnement des maisons départementales des personnes handicapées. Les montants de ces concours sont répartis selon les modalités prévues à l'article L. 14-10-7.
+
+Est également retracée en charges la subvention due à la Caisse nationale d'allocations familiales en application de l'article L. 541-4 du code de la sécurité sociale.
 
 Avant imputation des contributions aux sections mentionnées aux V et VI, l'ensemble des ressources destinées aux personnes handicapées, soit au titre des établissements et services financés par la sous-section mentionnée au 1 du I, soit au titre de la présente section, doit totaliser 40 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4.
 
