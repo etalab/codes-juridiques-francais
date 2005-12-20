@@ -8,4 +8,4 @@ I. - Les soins complémentaires, délivrés à titre individuel par un médecin,
 
 II. - Lorsque les soins complémentaires mentionnés au I sont liés au handicap ayant motivé l'admission dans l'établissement ou le service, leur remboursement est subordonné à l'accord préalable du service du contrôle médical, dans les conditions prévues à l'article L. 315-2 du code de la sécurité sociale.
 
-Les préconisations de la commission départementale d'éducation spéciale, lorsqu'elles existent, sont jointes à la demande d'entente préalable.
+Les préconisations de la commission des droits et de l'autonomie des personnes handicapées, lorsqu'elles existent, sont jointes à la demande d'entente préalable.

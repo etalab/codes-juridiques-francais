@@ -10,7 +10,7 @@ I. - Pour les établissements et services mentionnés au 1° de l'article L. 312
 
 II. - Pour les établissements et services mentionnés au 2° de l'article L. 312-1 :
 
-1° Pour les services d'éducation et de soins à domicile qui prennent en charge de jeunes handicapés sur décision de la commission départementale de l'éducation spéciale ou dans le cadre de l'intégration scolaire, par l'assurance maladie en application du 3° de l'article L. 321-1 du code de la sécurité sociale, sous la forme d'une dotation globale établie et versée dans les conditions fixée par les articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale ;
+1° Pour les services d'éducation et de soins à domicile qui prennent en charge de jeunes handicapés sur décision de la commission des droits et de l'autonomie des personnes handicapées ou dans le cadre de l'intégration scolaire, par l'assurance maladie en application du 3° de l'article L. 321-1 du code de la sécurité sociale, sous la forme d'une dotation globale établie et versée dans les conditions fixée par les articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale ;
 
 2° Pour les autres établissements et services, par l'assurance maladie en application du 3° de l'article L. 321-1 du code de la sécurité sociale, sous la forme d'un prix de journée établi et versé conformément aux dispositions du sous-paragraphe 3 du paragraphe 2 de la sous-section 3 de la présente section.
 
