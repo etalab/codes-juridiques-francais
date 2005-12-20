@@ -2,7 +2,6 @@
 
 - [Titre Ier : L'inscription au rôle](titre-ier)
 - [Titre II : L'abstention et la récusation](titre-ii)
-- [Titre III : La tenue de l'audience.](titre-iii)
 - [Titre IV : La décision](titre-iv)
 - [Titre V : La notification de la décision](titre-v)
 - [Titre VI : Les frais et dépens](titre-vi)
