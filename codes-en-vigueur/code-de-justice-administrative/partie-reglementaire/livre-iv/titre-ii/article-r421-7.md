@@ -4,4 +4,4 @@ Les délais supplémentaires de distance prévus aux articles 643 et 644 du nouv
 
 Toutefois, ne bénéficient pas de ces délais supplémentaires les requérants qui usent de la faculté prévue par les lois spéciales de déposer leurs requêtes à la préfecture ou à la sous-préfecture.
 
-Lorsque la demande est présentée devant les tribunaux administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-Calédonie, les délais de recours sont augmentés d'un mois pour les personnes qui ne demeurent pas dans le territoire.
+Lorsque la demande est présentée devant les tribunaux administratifs de Mamoudzou, de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie, les délais de recours sont augmentés d'un mois pour les personnes qui ne demeurent pas dans le territoire.
