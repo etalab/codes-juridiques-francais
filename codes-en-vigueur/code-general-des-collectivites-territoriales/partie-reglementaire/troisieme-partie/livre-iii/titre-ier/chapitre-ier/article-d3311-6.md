@@ -16,7 +16,9 @@ a) Section d'investissement :
 
 - en recettes, à la ligne intitulée "Virement de la section de fonctionnement".
 
-Ces deux derniers chapitres ne comportent que des prévisions sans réalisation.
+- en recettes, à la ligne intitulée "Produits des cessions d'immobilisations" ;
+
+Ces trois derniers chapitres ne comportent que des prévisions sans réalisation.
 
 b) Section de fonctionnement :
 
