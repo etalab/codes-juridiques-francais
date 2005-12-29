@@ -8,7 +8,7 @@ En application des articles L. 2313-1 et L. 2313-2, dans les caisses des écoles
 
 3° Annuité de la dette rapportée aux recettes réelles de fonctionnement.
 
-Les dépenses réelles et les recettes réelles de fonctionnement sont celles qui donnent lieu à décaissement ou encaissement effectif.
+Les dépenses réelles et les recettes réelles de fonctionnement sont celles définies à l'article R. 2313-2.
 
 L'annuité de la dette comprend le capital à rembourser dans l'exercice, augmenté des intérêts et charges financières.
 

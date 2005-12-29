@@ -4,6 +4,5 @@
 - [Article D3311-5](article-d3311-5.md)
 - [Article D3311-6](article-d3311-6.md)
 - [Article D3311-7](article-d3311-7.md)
-- [Article R3311-1](article-r3311-1.md)
 - [Article R3311-2](article-r3311-2.md)
 - [Article R3311-3](article-r3311-3.md)
