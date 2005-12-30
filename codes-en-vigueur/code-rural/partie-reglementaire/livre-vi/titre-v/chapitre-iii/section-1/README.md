@@ -1,6 +1,6 @@
 # Section 1 : L'amélioration génétique du cheptel
 
-- [Sous-section 1 : La Commission nationale d'amélioration génétique.](sous-section-1)
+- [Sous-section 1 : Instances consultatives](sous-section-1)
 - [Sous-section 2 : L'identification des animaux et les enregistrements zootechniques](sous-section-2)
 - [Sous-section 3 : Les actions d'amélioration génétique](sous-section-3)
 - [Sous-section 4 : Les livres généalogiques](sous-section-4)
