@@ -1,6 +1,0 @@
-# Sous-section 3 : Commission nationale.
-
-- [Article R121-13](article-r121-13.md)
-- [Article R*121-14](article-r-121-14.md)
-- [Article R121-15](article-r121-15.md)
-- [Article R*121-16](article-r-121-16.md)
