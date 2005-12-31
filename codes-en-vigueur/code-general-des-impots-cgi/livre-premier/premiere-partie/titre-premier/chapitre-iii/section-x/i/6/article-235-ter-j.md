@@ -2,7 +2,7 @@
 
 Cet article reproduit les dispositions de l'article L. 951-12 du code du travail :
 
-"I. - Les employeurs sont tenus de remettre à la recette des impôts compétente une déclaration en double exemplaire, indiquant notamment le montant de la participation à laquelle ils étaient tenus et les dépenses effectivement consenties, en vertu de l'article L. 951-1.
+"I. - Les employeurs sont tenus de remettre au service des impôts compétent une déclaration en double exemplaire, indiquant notamment le montant de la participation à laquelle ils étaient tenus et les dépenses effectivement consenties, en vertu de l'article L. 951-1.
 
 Les employeurs qui occupent au moins cinquante salariés attestent sur l'honneur qu'ils ont satisfait à l'obligation de consultation du comité d'entreprise prévue à l'article L. 951-8. A la demande de l'administration, ils doivent produire les procès-verbaux justifiant du respect de cette obligation.
 
