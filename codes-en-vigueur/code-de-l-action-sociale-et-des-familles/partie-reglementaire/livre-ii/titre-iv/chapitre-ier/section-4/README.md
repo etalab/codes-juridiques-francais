@@ -1,4 +1,4 @@
-# Section 4 : Macaron "Grand Invalide civil".
+# Section 4 : Carte de stationnement pour personnes handicapées
 
 - [Article R241-16](article-r241-16.md)
 - [Article R241-17](article-r241-17.md)
