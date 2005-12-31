@@ -33,7 +33,6 @@
 - [XXVIII : Crédit d'impôt pour dépenses de formation.](xxviii)
 - [XXIX : Crédit d'impôt pour dépenses d'adhésion à un groupement de prévention agréé](xxix)
 - [XXXI : Crédit d'impôt famille](xxxi)
-- [XXXII](xxxii)
 - [XXXIII : Crédit d'impôt pour dépenses de prospection commerciale](xxxiii)
 - [XXXV : Crédit d'impôt au titre des avances remboursables ne portant pas intérêt pour financer l'acquisition ou la construction d'une résidence principale](xxxv)
 - [XXXIV : Crédit d'impôt pour relocalisation d'activité en France](xxxiv)

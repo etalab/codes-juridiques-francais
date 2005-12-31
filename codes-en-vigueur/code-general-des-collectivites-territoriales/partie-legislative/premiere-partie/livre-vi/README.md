@@ -1,4 +1,3 @@
 # LIVRE VI : DISPOSITIONS FINANCIÈRES ET COMPTABLES
 
 - [TITRE Ier](titre-ier)
-- [TITRE UNIQUE](titre-unique)
