@@ -6,4 +6,4 @@ Cette mesure est applicable aux fonctionnaires remplissant les conditions ci-des
 
 Les droits à pension d'invalidité des fonctionnaires victimes de faits de guerre et de leurs ayants cause sont fixés dans les conditions prévues aux articles L. 68 à L. 72 ; R. 72 et R. 73 du code des pensions civiles et militaires de retraite (1).
 
-Les bénéficiaires des articles L. 68 à L. 72 ; R. 72 et R. 73 inclus du Code des pensions civiles et militaires de retraite peuvent obtenir la révision de leur situation de façon qu'à tout moment ils bénéficient des émoluments les plus avantageux sans que l'administration puisse leur opposer l'option signée par eux, par leur conjoint ou leur père.
+Les bénéficiaires des articles L. 68 à L. 72 ; R. 72 et R. 73 inclus du Code des pensions civiles et militaires de retraite peuvent obtenir la révision de leur situation de façon qu'à tout moment ils bénéficient des émoluments les plus avantageux sans que l'administration puisse leur opposer l'option signée par eux, par leur conjoint ou l'un de leurs parents.

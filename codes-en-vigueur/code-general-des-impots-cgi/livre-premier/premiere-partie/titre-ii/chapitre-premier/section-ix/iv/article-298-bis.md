@@ -10,7 +10,7 @@ Ils peuvent cependant opter pour leur imposition d'après le régime simplifié 
 
 3° Ils peuvent opérer immédiatement la déduction de la taxe ayant grevé les biens ne constituant pas des immobilisations et les services, par imputation sur la taxe due au titre du trimestre pendant lequel le droit à déduction a pris naissance ;
 
-4° Sous réserve des mesures prévues aux 1° à 3° et aux articles 1693 bis et 1785 D, les exploitants agricoles assujettis à la taxe sur la valeur ajoutée sont soumis à l'ensemble des dispositions prévues par le présent code. Toutefois, l'article 302 septies A ne leur est pas applicable.
+4° Sous réserve des mesures prévues aux 1° à 3° et aux articles 1693 bis et 1785, les exploitants agricoles assujettis à la taxe sur la valeur ajoutée sont soumis à l'ensemble des dispositions prévues par le présent code. Toutefois, l'article 302 septies A ne leur est pas applicable.
 
 II. Sont soumis de plein droit au régime simplifié prévu au I :
 
@@ -40,6 +40,6 @@ III. Les conditions et les modalités de l'option mentionnée au deuxième alin�
 
 Les caractéristiques des activités soumises obligatoirement à la taxe sur la valeur ajoutée en application du II, sont précisées en tant que de besoin par décret en Conseil d'Etat, après avis des organisations professionnelles intéressées.
 
-III bis. Les recettes accessoires commerciales et non commerciales, passibles de la taxe sur la valeur ajoutée, réalisées par un exploitant agricole soumis pour ses opérations agricoles au régime simplifié prévu au I peuvent être imposées selon ce régime lorsque le montant total des recettes accessoires taxes comprises n'excède pas, au titre de la période annuelle d'imposition précédente, 30 000 euros et 30 % du montant des recettes taxes comprises provenant de ses activités agricoles.
+III bis. Les recettes accessoires commerciales et non commerciales, passibles de la taxe sur la valeur ajoutée, réalisées par un exploitant agricole soumis pour ses opérations agricoles au régime simplifié prévu au I peuvent être imposées selon ce régime lorsque le montant total des recettes accessoires taxes comprises n'excède pas, au titre de la période annuelle d'imposition précédente, 50 000 euros et 30 % du montant des recettes taxes comprises provenant de ses activités agricoles.
 
 IV. En cas de cession ou de cessation de leur activité, les exploitants agricoles sont tenus de souscrire dans les trente jours la déclaration prévue au 1° du I ou, le cas échéant, au quatrième alinéa du I de l'article 1693 bis.

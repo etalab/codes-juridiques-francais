@@ -8,13 +8,13 @@ La taxe sur la valeur ajoutée [*TVA*] est perçue au taux réduit de 5,50 p. 10
 
 a) Des produits de confiserie ;
 
-b) Des chocolats et de tous produits composés contenant du chocolat ou du cacao. Toutefois le chocolat, le chocolat de ménage, le chocolat de ménage au lait, les fèves de cacao et le beurre de cacao sont admis au taux réduit ;
+b) Des chocolats et de tous produits composés contenant du chocolat ou du cacao. Toutefois le chocolat, le chocolat de ménage au lait, les bonbons de chocolat, les fèves de cacao et le beurre de cacao sont admis au taux réduit ;
 
 c) Des margarines et graisses végétales ;
 
 d) Du caviar ;
 
-3° Produits d'origine agricole, de la pêche, de la pisciculture et de l'aviculture n'ayant subi aucune transformation (1) ;
+3° Produits d'origine agricole, de la pêche, de la pisciculture et de l'aviculture n'ayant subi aucune transformation ;
 
 3° bis Produits suivants à usage domestique :
 
@@ -37,5 +37,3 @@ c) Soufre, sulfate de cuivre et grenaille utilisée pour la fabrication du sulfa
 d) Produits antiparasitaires, sous réserve qu'ils aient fait l'objet soit d'une homologation, soit d'une autorisation de vente délivrée par le ministre chargé de l'agriculture ;
 
 6° Livres, y compris leur location.
-
-(1) Entrée en vigueur le 1er janvier 1995.

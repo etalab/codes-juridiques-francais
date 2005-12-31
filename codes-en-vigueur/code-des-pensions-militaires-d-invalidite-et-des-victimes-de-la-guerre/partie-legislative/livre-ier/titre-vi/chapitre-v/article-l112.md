@@ -6,4 +6,4 @@ Toutefois, les dispositions restrictives du cumul d'une pension avec un traiteme
 
 Il en est de même des dispositions du chapitre III du titre IV (livre II) du Code des pensions civiles et militaires de retraite, concernant les règles de cumul de deux ou plusieurs pensions, sous réserve des prescriptions de l'article L. 142 dudit code.
 
-En aucun cas, et pour quelque cause que ce soit, une veuve ne peut cumuler deux pensions de veuve au titre du présent code.
+En aucun cas, et pour quelque cause que ce soit, un conjoint survivant ne peut cumuler deux pensions de conjoint survivant au titre du présent code.

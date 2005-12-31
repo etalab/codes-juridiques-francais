@@ -24,7 +24,7 @@ Lors de l'offre de l'avance remboursable sans intérêt, le montant total des re
 
 En cas de modification de la composition du foyer fiscal du bénéficiaire de l'avance remboursable sans intérêt au cours de l'année retenue pour la détermination du montant total des ressources, les revenus du bénéficiaire sont corrigés en tenant compte de la variation des revenus résultant de cette modification, le cas échéant de manière forfaitaire. Les modalités de calcul de ces revenus sont définies par décret en Conseil d'Etat.
 
-Le montant total des ressources à prendre en compte ne doit pas excéder 38 690 euros.
+Le montant total des ressources à prendre en compte ne doit pas excéder 51 900 euros.
 
 Le montant de l'avance remboursable sans intérêt est plafonné à 32 500 euros.
 
@@ -37,6 +37,8 @@ II. - Le montant du crédit d'impôt est égal à la somme actualisée des écar
 Les modalités de calcul du crédit d'impôt et de détermination de ce taux sont fixées par décret en Conseil d'Etat.
 
 Le crédit d'impôt résultant de l'application des premier et deuxième alinéas fait naître au profit de l'établissement de crédit une créance, inaliénable et incessible, d'égal montant. Cette créance constitue un produit imposable rattaché à hauteur d'un cinquième au titre de l'exercice au cours duquel l'établissement de crédit a versé des avances remboursables sans intérêt et par fractions égales sur les exercices suivants.
+
+En cas de fusion, la créance de la société absorbée est transférée à la société absorbante. En cas de scission ou d'apport partiel d'actif, la créance est transmise à la société bénéficiaire des apports à la condition que l'ensemble des prêts à taux zéro y afférents et versés à des personnes physiques par la société scindée ou apporteuse soient transférés à la société bénéficiaire des apports.
 
 III. - Le bénéfice du crédit d'impôt est subordonné à la conclusion d'une convention entre l'établissement de crédit mentionné au I et l'Etat, conforme à une convention type approuvée par arrêté conjoint du ministre chargé de l'économie et du ministre chargé du logement.
 

@@ -14,4 +14,4 @@ Sont frappés de la même exclusion :
 
 2° Les ayants cause qui entrent eux-mêmes dans l'un des cas visés auxdits alinéas.
 
-Les droits qui appartiennent ou auraient appartenu à la mère déclarée indigne dans les conditions ci-dessus passent aux orphelins mineurs du défunt, dans les conditions prévues aux articles L. 46 et suivants.
+Les droits qui appartiennent ou auraient appartenu au parent déclaré indigne dans les conditions ci-dessus passent aux orphelins mineurs du défunt, dans les conditions prévues aux articles L. 46 et suivants.

@@ -12,4 +12,10 @@ Toutefois, le conseil municipal peut décider une telle prise en charge lorsque 
 
 La décision du conseil municipal fait l'objet, à peine de nullité, d'une délibération motivée. Cette délibération fixe les règles de calcul et les modalités de versement des dépenses du service prises en charge par la commune, ainsi que le ou les exercices auxquels elles se rapportent. En aucun cas, cette prise en charge ne peut se traduire par la compensation pure et simple d'un déficit de fonctionnement.
 
-L'interdiction prévue au premier alinéa n'est pas applicable aux services de distribution d'eau potable et d'assainissement dans les communes de moins de 3 000 habitants et les groupements composés de communes dont la population ne dépasse pas 3 000 habitants.
+L'interdiction prévue au premier alinéa n'est pas applicable :
+
+1° Dans les communes de moins de 3 000 habitants et les établissements publics de coopération intercommunale dont aucune commune membre n'a plus de 3 000 habitants, aux services de distribution d'eau et d'assainissement ;
+
+2° Quelle que soit la population des communes et groupements de collectivités territoriales, aux services publics d'assainissement non collectif, lors de leur création et pour une durée limitée au maximum aux quatre premiers exercices.
+
+Lorsque le service a été délégué, la part prise en charge par le budget propre ne peut excéder le montant des sommes données au délégataire pour sujétions de service public et représenter une part substantielle de la rémunération de ce dernier.

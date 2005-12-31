@@ -1,6 +1,6 @@
 # Article L163
 
-Le bénéfice intégral des dispositions du présent code est accordé aux veuves et orphelins des marins du commerce, lorsque le décès du mari ou du père est imputable à une des causes suivantes [*conditions*] :
+Le bénéfice intégral des dispositions du présent code est accordé aux conjoints survivants et orphelins des marins du commerce, lorsque le décès de leur conjoint ou de leur parent est imputable à une des causes suivantes :
 
 1° Blessures ou suites de blessures reçues au cours des événements de guerre, accidents ou suites d'accidents éprouvés par le fait ou à l'occasion du service au cours d'une période de navigation, soit au commerce, soit à la pêche, en deuxième ou troisième zone, dans des régions où la navigation donne droit à la qualité de combattant au personnel de la marine militaire ;
 
