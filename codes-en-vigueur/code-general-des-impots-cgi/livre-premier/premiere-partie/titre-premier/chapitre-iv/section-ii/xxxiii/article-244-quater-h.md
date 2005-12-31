@@ -1,6 +1,6 @@
 # Article 244 quater H
 
-I. - Les petites et moyennes entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies et 44 decies peuvent bénéficier d'un crédit d'impôt lorsqu'elles exposent des dépenses de prospection commerciale afin d'exporter en dehors de l'Espace économique européen des services, des biens et des marchandises.
+I. - Les petites et moyennes entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies et 44 decies peuvent bénéficier d'un crédit d'impôt lorsqu'elles exposent des dépenses de prospection commerciale afin d'exporter des services, des biens et des marchandises.
 
 Les petites et moyennes entreprises mentionnées au premier alinéa sont celles qui ont employé moins de 250 salariés et ont soit réalisé un chiffre d'affaires inférieur à 50 millions d'euros au cours de chaque période d'imposition ou exercice clos pendant la période mentionnée au IV, soit un total de bilan inférieur à 43 millions d'euros. L'effectif de l'entreprise est apprécié par référence au nombre moyen de salariés employés au cours de cette période. Le capital des sociétés doit être entièrement libéré et être détenu de manière continue, pour 75 % au moins, par des personnes physiques ou par une société répondant aux mêmes conditions. Pour la détermination du pourcentage de 75 %, les participations des sociétés de capital-risque, des fonds communs de placement à risques, des sociétés de développement régional et des sociétés financières d'innovation ou des sociétés unipersonnelles d'investissement à risque ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds. Pour les sociétés membres d'un groupe au sens de l'article 223 A, le chiffre d'affaires et l'effectif à prendre en compte s'entendent respectivement de la somme des chiffres d'affaires et de la somme des effectifs de chacune des sociétés membres de ce groupe. La condition tenant à la composition du capital doit être remplie par la société mère du groupe.
 
@@ -8,13 +8,15 @@ Le crédit d'impôt bénéficie également aux sociétés des professions libér
 
 II. - Les dépenses ouvrant droit au crédit d'impôt sont, à condition qu'elles soient déductibles du résultat imposable :
 
-a. Les frais et indemnités de déplacement et d'hébergement liés à la prospection commerciale en vue d'exporter en dehors de l'Espace économique européen ;
+a. Les frais et indemnités de déplacement et d'hébergement liés à la prospection commerciale en vue d'exporter ;
 
-b. Les dépenses visant à réunir des informations sur les marchés et les clients situés en dehors de l'Espace économique européen ;
+b. Les dépenses visant à réunir des informations sur les marchés et les clients ;
 
-c. Les dépenses de participation à des salons et à des foires-expositions en dehors de l'Espace économique européen ;
+c. Les dépenses de participation à des salons et à des foires-expositions ;
 
-d. Les dépenses visant à faire connaître les produits et services de l'entreprise en vue d'exporter en dehors de l'Espace économique européen.
+d. Les dépenses visant à faire connaître les produits et services de l'entreprise en vue d'exporter ;
+
+e) Les indemnités mensuelles et les prestations mentionnées à l'article L. 122-12 du code du service national lorsque l'entreprise a recours à un volontaire international en entreprise comme indiqué au III.
 
 Le crédit d'impôt, calculé au titre de chaque période d'imposition ou exercice clos au cours desquels des dépenses éligibles ont été exposées, est égal à 50 % de ces dépenses. Les subventions publiques reçues par les entreprises à raison des dépenses ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce crédit.
 

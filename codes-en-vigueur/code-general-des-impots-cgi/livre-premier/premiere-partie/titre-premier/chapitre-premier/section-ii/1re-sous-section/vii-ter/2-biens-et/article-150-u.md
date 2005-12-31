@@ -8,7 +8,7 @@ II. - Les dispositions du I ne s'appliquent pas aux immeubles, aux parties d'imm
 
 1° Qui constituent la résidence principale du cédant au jour de la cession ;
 
-2° Qui constituent l'habitation en France des personnes physiques, non résidentes en France, ressortissantes d'un Etat membre de la Communauté européenne, ou d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, dans la limite d'une résidence par contribuable à la double condition que le cédant ait été fiscalement domicilié en France de manière continue pendant au moins deux ans à un moment quelconque antérieurement à la cession et qu'il ait la libre disposition du bien au moins depuis le 1er janvier de l'année précédant celle de cette cession ;
+2° Qui constituent l'habitation en France des personnes physiques, non résidentes en France, ressortissantes d'un Etat membre de la Communauté européenne, ou d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, dans la limite, par contribuable, des deux premières cessions, à la double condition que le cédant ait été fiscalement domicilié en France de manière continue pendant au moins deux ans à un moment quelconque antérieurement à la cession et qu'il ait la libre disposition du bien au moins depuis le 1er janvier de l'année précédant celle de cette cession. En outre, la seconde cession bénéficie de ces dispositions à la double condition que le contribuable ne dispose pas d'une autre propriété en France au jour de cette cession et qu'elle intervienne au moins cinq ans après la première ;
 
 3° Qui constituent les dépendances immédiates et nécessaires des biens mentionnés aux 1° et 2°, à la condition que leur cession intervienne simultanément avec celle desdits immeubles ;
 
@@ -16,7 +16,7 @@ II. - Les dispositions du I ne s'appliquent pas aux immeubles, aux parties d'imm
 
 5° Qui sont échangés dans le cadre d'opérations de remembrement mentionnées à l'article 1055, d'opérations effectuées conformément aux articles L. 123-1, L. 123-24 et L. 124-1 du code rural ainsi qu'aux soultes versées en application de l'article L. 123-4 du même code. En cas de vente de biens reçus à cette occasion, la plus-value est calculée à partir de la date et du prix d'acquisition du bien originel ou de la partie constitutive la plus ancienne dans les cas de vente de lots remembrés ;
 
-6° Dont le prix de cession est inférieur ou égal à 15 000 Euros. Le seuil de 15 000 Euros s'apprécie en tenant compte de la valeur en pleine propriété de l'immeuble ou de la partie d'immeuble ;
+6° Dont le prix de cession est inférieur ou égal à 15 000 euros. Le seuil de 15 000 euros s'apprécie en tenant compte de la valeur en pleine propriété de l'immeuble ou de la partie d'immeuble ;
 
 7° Qui sont cédés avant le 31 décembre 2007 à un organisme d'habitations à loyer modéré, à une société d'économie mixte gérant des logements sociaux ou à un organisme mentionné à l'article L. 365-1 du code de la construction et de l'habitation.
 

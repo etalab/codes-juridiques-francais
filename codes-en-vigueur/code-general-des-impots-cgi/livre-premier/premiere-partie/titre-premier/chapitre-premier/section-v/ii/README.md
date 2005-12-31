@@ -12,6 +12,7 @@
 - [24° : Crédit d'impôt pour l'acquisition ou la location de certains véhicules automobiles.](24)
 - [25° : Prime pour l'emploi](25)
 - [3° : Réduction d'impôt accordée au titre des cotisations versées aux organisations syndicales](3)
+- [32° : Crédit d'impôt en faveur des étudiants en vue du financement de leurs études supérieures](32)
 - [6° : Réduction d'impôt accordée au titre des frais de scolarité des enfants poursuivant des études secondaires ou supérieures](6)
 - [9° : Réduction d'impôt accordée au titre de certaines primes d'assurances](9)
 - [Article 193](article-193.md)

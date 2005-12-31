@@ -23,6 +23,7 @@
 - [XVII bis : Personnes morales passibles de l'impôt sur les sociétés ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble.](xvii-bis)
 - [XVIII : Déclaration des commissions, courtages, ristournes, honoraires, des droits d'auteur, des rémunérations d'associés et des parts de bénéfices](xviii)
 - [XX : Attribution de l'avoir fiscal aux non-résidents](xx)
+- [XX bis : Déclaration des sociétés de gestion de fonds communs de placement à risques, de fonds professionnels de capital investissement et des sociétés de capital-risque](xx-bis)
 - [XIX : Déclaration des revenus de capitaux mobiliers (IFU)](xix)
 - [XXI : Mesures de publicité](xxi)
 - [XXIII : Prélèvement de 50 % sur certains profits immobiliers réalisés par les personnes physiques ou sociétés n'ayant pas d'établissement en France.](xxiii)
@@ -39,3 +40,5 @@
 - [XXXVI : Crédit d'impôt pour investissement dans les technologies de l'information](xxxvi)
 - [0I bis : Transferts d'actifs hors de France, réalisés par les entreprises](0i-bis)
 - [Article 244 quater M](article-244-quater-m.md)
+- [Article 244 quater N](article-244-quater-n.md)
+- [Article 244 quater O](article-244-quater-o.md)

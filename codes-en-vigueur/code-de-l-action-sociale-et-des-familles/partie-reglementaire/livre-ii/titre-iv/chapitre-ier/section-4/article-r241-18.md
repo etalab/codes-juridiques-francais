@@ -1,5 +1,15 @@
 # Article R241-18
 
-Le macaron "Grand Invalide civil" permet à son titulaire ou à l'accompagnateur de la personne handicapée d'utiliser, dans les parcs de stationnement automobile, les places réservées et aménagées à cet effet.
+La demande de carte de stationnement pour personnes handicapées par les organismes utilisant un véhicule destiné au transport collectif des personnes handicapées est adressée au préfet.
 
-Il permet, dans les mêmes conditions, de bénéficier de dispositions qui peuvent être prises en faveur des personnes handicapées par les autorités compétentes en matière de circulation et de stationnement.
+L'organisme indique dans sa demande :
+
+1° Son identité et son adresse ;
+
+2° Ses missions et le public concerné par le transport collectif ;
+
+3° Le type du véhicule utilisé pour ce service et son numéro minéralogique.
+
+Le préfet délivre la carte de stationnement pour personnes handicapées en se fondant sur la nature du public transporté et sur la régularité du service de transport effectué.
+
+La carte de stationnement pour personnes handicapées est attribuée pour une période au minimum d'une année et ne pouvant excéder dix ans.

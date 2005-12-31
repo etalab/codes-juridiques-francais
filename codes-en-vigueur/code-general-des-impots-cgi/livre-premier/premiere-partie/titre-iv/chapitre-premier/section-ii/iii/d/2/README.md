@@ -7,3 +7,4 @@
 - [Article 730 bis](article-730-bis.md)
 - [Article 730 ter](article-730-ter.md)
 - [Article 730 quater](article-730-quater.md)
+- [Article 730 quinquies](article-730-quinquies.md)

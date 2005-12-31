@@ -114,7 +114,7 @@ Ces dispositions s'appliquent aux offices publics d'aménagement et de construct
 
 8° les livraisons à soi-même d'immeubles construits par les sociétés civiles immobilières constituées par les organismes régis par la réglementation sur les habitations à loyer modéré en vue de favoriser l'accession à la propriété.
 
-9° Lorsqu'elles entrent dans le champ d'application du 7° de l'article 257, les ventes à leurs occupants, dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière, de logements ayant fait l'objet de la livraison à soi-même prévue au cinquième alinéa du c du 1 du 7° de l'article 257 (1).
+9° Lorsqu'elles entrent dans le champ d'application du 7° de l'article 257, les ventes à leurs occupants, dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière, de logements ayant fait l'objet de la livraison à soi-même prévue au dixième alinéa du c du 1 du 7° de l'article 257.
 
 6. (Abrogé).
 
@@ -144,21 +144,21 @@ c. les recettes de six manifestations de bienfaisance ou de soutien organisées 
 
 d. le caractère désintéressé de la gestion résulte de la réunion des conditions ci-après :
 
-l'organisme doit, en principe, être géré et administré à titre bénévole par des personnes n'ayant elles-mêmes, ou par personne interposée, aucun intérêt direct ou indirect dans les résultats de l'exploitation.
+L'organisme doit, en principe, être géré et administré à titre bénévole par des personnes n'ayant elles-mêmes, ou par personne interposée, aucun intérêt direct ou indirect dans les résultats de l'exploitation.
 
 Toutefois, lorsqu'une association régie par la loi du 1er juillet 1901 relative au contrat d'association, une association régie par la loi locale en vigueur dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin, une fondation reconnue d'utilité publique ou une fondation d'entreprise décide que l'exercice des fonctions dévolues à ses dirigeants justifie le versement d'une rémunération, le caractère désintéressé de sa gestion n'est pas remis en cause si ses statuts et ses modalités de fonctionnement assurent sa transparence financière, l'élection régulière et périodique de ses dirigeants, le contrôle effectif de sa gestion par ses membres et l'adéquation de la rémunération aux sujétions effectivement imposées aux dirigeants concernés ; cette disposition s'applique dans les conditions suivantes :
 
-- l'un des organismes visés au troisième alinéa peut rémunérer l'un de ses dirigeants uniquement si le montant annuel de ses ressources, majorées de celles des organismes qui lui sont affiliés et qui remplissent les conditions leur permettant de bénéficier de la présente disposition, hors ressources issues des versements effectués par des personnes morales de droit public, est supérieur à 200 000 euros en moyenne sur les trois exercices clos précédant celui pendant lequel la rémunération est versée ;
+l'un des organismes visés au troisième alinéa peut rémunérer l'un de ses dirigeants uniquement si le montant annuel de ses ressources, majorées de celles des organismes qui lui sont affiliés et qui remplissent les conditions leur permettant de bénéficier de la présente disposition, hors ressources issues des versements effectués par des personnes morales de droit public, est supérieur à 200 000 euros en moyenne sur les trois exercices clos précédant celui pendant lequel la rémunération est versée ;
 
-- un tel organisme peut rémunérer deux de ses dirigeants si le montant annuel de ses ressources, majorées de celles des organismes qui lui sont affiliés et qui remplissent les conditions leur permettant de bénéficier de la présente disposition, hors ressources issues des versements effectués par des personnes morales de droit public, est supérieur à 500 000 euros, en moyenne sur les trois exercices clos précédant celui pendant lequel la rémunération est versée ;
+un tel organisme peut rémunérer deux de ses dirigeants si le montant annuel de ses ressources, majorées de celles des organismes qui lui sont affiliés et qui remplissent les conditions leur permettant de bénéficier de la présente disposition, hors ressources issues des versements effectués par des personnes morales de droit public, est supérieur à 500 000 euros, en moyenne sur les trois exercices clos précédant celui pendant lequel la rémunération est versée ;
 
-- un tel organisme peut rémunérer trois de ses dirigeants si le montant annuel de ses ressources, majorées de celles des organismes qui lui sont affiliés et qui remplissent les conditions leur permettant de bénéficier de la présente disposition, hors ressources issues des versements effectués par des personnes morales de droit public, est supérieur à 1 000 000 euros en moyenne sur les trois exercices clos précédant celui pendant lequel la rémunération est versée ;
+un tel organisme peut rémunérer trois de ses dirigeants si le montant annuel de ses ressources, majorées de celles des organismes qui lui sont affiliés et qui remplissent les conditions leur permettant de bénéficier de la présente disposition, hors ressources issues des versements effectués par des personnes morales de droit public, est supérieur à 1 000 000 euros en moyenne sur les trois exercices clos précédant celui pendant lequel la rémunération est versée ;
 
-- un tel organisme peut verser des rémunérations dans le cadre de la présente disposition uniquement si ses statuts le prévoient explicitement et si une décision de son organe délibérant l'a expressément décidé à la majorité des deux tiers de ses membres ;
+un tel organisme peut verser des rémunérations dans le cadre de la présente disposition uniquement si ses statuts le prévoient explicitement et si une décision de son organe délibérant l'a expressément décidé à la majorité des deux tiers de ses membres ;
 
-- le montant des ressources hors ressources issues des versements effectués par des personnes morales de droit public est constaté par un commissaire aux comptes ;
+le montant des ressources hors ressources issues des versements effectués par des personnes morales de droit public est constaté par un commissaire aux comptes ;
 
-- le montant de toutes les rémunérations versées à chaque dirigeant au titre de la présente disposition ne peut en aucun cas excéder trois fois le montant du plafond visé à l'article L. 241-3 du code de la sécurité sociale.
+le montant de toutes les rémunérations versées à chaque dirigeant au titre de la présente disposition ne peut en aucun cas excéder trois fois le montant du plafond visé à l'article L. 241-3 du code de la sécurité sociale.
 
 Un décret en Conseil d'Etat fixe les modalités d'application des huit alinéas précédents ;
 
@@ -179,5 +179,3 @@ Tous les organismes concernés par les a, b et c sont placés sous le régime du
 4° (Abrogé) ;
 
 8. et 9. (Abrogés).
-
-(1) Ces dispositions s'appliquent aux opérations qui ont bénéficié d'une décision d'agrément délivrée postérieurement au 26 mars 2004.

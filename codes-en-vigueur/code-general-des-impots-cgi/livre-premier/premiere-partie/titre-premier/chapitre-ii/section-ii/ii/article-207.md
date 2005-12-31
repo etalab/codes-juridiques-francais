@@ -30,7 +30,7 @@ Les sociétés coopératives agricoles et leurs unions sont tenues de produire, 
 
 4° Les organismes d'habitations à loyer modéré mentionnés à l'article L. 411-2 du code de la construction et de l'habitation, à l'exception des sociétés anonymes de crédit immobilier, les sociétés d'économie mixte visées à l'article L. 481-1-1 du même code et les sociétés anonymes de coordination entre les organismes d'habitations à loyer modéré mentionnées à l'article L. 423-1-1 du même code pour :
 
-a. - les opérations réalisées au titre du service d'intérêt général défini à l'article L. 411-2 du même code ;
+a. - les opérations réalisées au titre du service d'intérêt général défini aux neuvième, dixième et onzième alinéas de l'article L. 411-2 du même code ainsi que les services accessoires à ces opérations ;
 
 b. - les produits engendrés par les locaux annexes et accessoires des ensembles d'habitations mentionnés à l'article L. 411-1 du même code, à la condition que ces locaux soient nécessaires à la vie économique et sociale de ces ensembles ;
 
@@ -56,17 +56,17 @@ c) Des avances remboursables ne portant pas intérêt prévues par l'article R. 
 
 4° quater Les unions d'économie sociale visées à l'article L. 365-1 du code de la construction et de l'habitation, et dont les dirigeants de droit ou de fait ne sont pas rémunérés, pour :
 
-- les opérations mentionnées au deuxième alinéa de l'article L. 365-1 du même code lorsqu'elles relèvent du service d'intérêt général défini à l'article L. 411-2 du même code ;
+a. les opérations mentionnées au deuxième alinéa de l'article L. 365-1 du même code lorsqu'elles relèvent du service d'intérêt général défini aux neuvième et onzième alinéas de l'article L. 411-2 du même code ainsi que les services accessoires à ces opérations ;
 
-- les produits engendrés par les locaux annexes et accessoires des ensembles d'habitations mentionnés à l'article L. 411-1 du même code ;
+b. les produits engendrés par les locaux annexes et accessoires des ensembles d'habitations mentionnés à l'article L. 411-1 du même code, à la condition que ces locaux soient nécessaires à la vie économique et sociale de ces ensembles ;
 
-- les produits financiers issus du placement de la trésorerie de ces organismes ;
+c. les produits financiers issus du placement de la trésorerie de ces organismes ;
 
 5° Les bénéfices réalisés par des associations sans but lucratif régies par la loi du 1er juillet 1901 organisant, avec le concours des communes ou des départements, des foires, expositions, réunions sportives et autres manifestations publiques, correspondant à l'objet défini par leurs statuts et présentant, du point de vue économique, un intérêt certain pour la commune ou la région ;
 
 5° bis. Les organismes sans but lucratif mentionnés au 1° du 7 de l'article 261, pour les opérations à raison desquelles ils sont exonérés de la taxe sur la valeur ajoutée ;
 
-6° Les régions et les ententes interrégionales, les départements et les ententes interdépartementales, les communes, les établissements publics de coopération intercommunale à fiscalité propre, syndicats de communes et syndicats mixtes constitués exclusivement de collectivités territoriales ou de groupements de ces collectivités ainsi que leurs régies de services publics ;
+6° Les régions et les ententes interrégionales, les  départements et les ententes interdépartementales, les communes, les établissements publics de coopération intercommunale à fiscalité propre, syndicats de communes et syndicats mixtes constitués exclusivement de collectivités territoriales ou de groupements de ces collectivités ainsi que leurs régies de services publics ;
 
 6° bis. Dans les conditions fixées par décret, les établissements publics et sociétés d'économie mixte chargés de l'aménagement par une convention contractée, en application du deuxième alinéa de l'article L. 300-4 du code de l'urbanisme ainsi que les sociétés d'habitations à loyer modéré régies par l'article L. 411-2 du code de la construction et de l'habitation, pour les résultats provenant des opérations réalisées dans le cadre des procédures suivantes :
 

@@ -4,7 +4,7 @@
 
 2. Le régime des plus-values à court terme est applicable :
 
-a. Aux plus-values provenant de la cession d'éléments acquis ou créés depuis moins de deux ans. Le cas échéant, ces plus-values sont majorées du montant des amortissements expressément exclus des charges déductibles ainsi que de ceux qui ont été différés en méconnaissance des dispositions de l'article 39 B (1) ;
+a. Aux plus-values provenant de la cession d'éléments acquis ou créés depuis moins de deux ans. Le cas échéant, ces plus-values sont majorées du montant des amortissements expressément exclus des charges déductibles ainsi que de ceux qui ont été différés en méconnaissance des dispositions de l'article 39 B ;
 
 b. Aux plus-values réalisées à l'occasion de la cession d'éléments détenus depuis deux ans au moins, dans la mesure où elles correspondent à des amortissements déduits pour l'assiette de l'impôt. Le cas échéant, ces plus-values sont majorées du montant des amortissements expressément exclus des charges déductibles ainsi que de ceux qui ont été différés en contravention aux dispositions de l'article 39 B ;
 
@@ -23,6 +23,8 @@ b. aux moins-values subies lors de la cession de biens amortissables, quelle que
 6. Pour l'application du présent article, les cessions de titres compris dans le portefeuille sont réputées porter par priorité sur les titres de même nature acquis ou souscrits à la date la plus ancienne.
 
 Pour l'application des dispositions du premier alinéa, les titres reçus en rémunération d'un apport partiel d'actif ou d'une scission soumis au régime prévu à l'article 210 B et ceux qui sont acquis ou souscrits indépendamment de l'opération d'apport ou de scission constituent deux catégories distinctes de titres jusqu'à la fin du délai de trois ans prévu à l'article 210 B. Les cessions de titres intervenues dans ce délai sont réputées porter en priorité sur les titres acquis ou souscrits indépendamment de l'opération d'apport ou de scission.
+
+6 bis. Le régime fiscal des plus et moins-values à long terme prévu par le présent article et les articles suivants n'est pas applicable à la quote-part des profits distribués par un fonds de placement immobilier mentionné à l'article 239 nonies.
 
 7.
 

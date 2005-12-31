@@ -1,4 +1,4 @@
-# A : Sanctions fiscales.
+# A : Intérêt de retard
 
 - [Article 1725](article-1725.md)
 - [Article 1725 A](article-1725-a.md)

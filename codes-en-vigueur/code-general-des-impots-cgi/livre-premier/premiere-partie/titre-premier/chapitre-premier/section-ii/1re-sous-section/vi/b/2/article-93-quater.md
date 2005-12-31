@@ -8,6 +8,8 @@ I bis. (Abrogé pour les redevances prises en compte à compter du 1er janvier 2
 
 I ter. L'imposition de la plus-value constatée lors de l'apport, par un inventeur personne physique, d'un brevet, d'une invention brevetable, ou d'un procédé de fabrication industriel qui remplit les conditions mentionnées aux a, b et c du 1 de l'article 39 terdecies, à une société chargée de l'exploiter peut, sur demande expresse du contribuable, faire l'objet d'un report jusqu'à la cinquième année suivant celle au cours de laquelle l'apport a été effectué ou jusqu'à la date de la cession ou du rachat des droits sociaux reçus en rémunération de l'apport, si cette cession ou ce rachat intervient avant l'expiration de ce délai de report.
 
+L'article 151 septies ne s'applique pas en cas d'exercice de l'option prévue au premier alinéa.
+
 Les dispositions du sixième alinéa du II de l'article 151 octies sont applicables aux plus-values dont l'imposition est reportée en application du premier alinéa.
 
 II. L'imposition de la plus-value constatée lors de l'apport par un associé de la clientèle ou des éléments d'actif affectés à l'exercice de sa profession, à une société civile professionnelle, constituée conformément aux dispositions de la loi n° 66-879 du 29 novembre 1966 modifiée, est reportée au moment où s'opérera la transmission ou le rachat des droits sociaux de cet associé. L'application de cette disposition est subordonnée à la condition que l'apport soit réalisé dans le délai de dix ans à compter de la publication du décret en Conseil d'Etat propre à la profession considérée.
@@ -26,6 +28,6 @@ IV. 1. Pour l'application des dispositions du premier alinéa du I aux immeubles
 
 4. Un décret fixe les conditions d'application du présent IV, notamment les obligations déclaratives des contribuables (1).
 
-V. Les dispositions du 7 bis de l'article 38 sont applicables au profit ou à la perte réalisés lors de l'échange de droits sociaux résultant d'une fusion ou d'une scission de sociétés, lorsque ces droits sont affectés à l'exercice de la profession au sens de l'article 93.
+V. Les dispositions du 5 bis et du 7 bis de l'article 38 sont applicables au profit ou à la perte réalisés lors de l'échange de titres résultant des opérations mentionnées aux articles précités, lorsque ces titres sont affectés à l'exercice de la profession au sens de l'article 93.
 
 Les personnes placées sous le régime prévu au premier alinéa sont soumises aux obligations définies à l'article 54 septies.

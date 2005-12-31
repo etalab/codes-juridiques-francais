@@ -10,7 +10,7 @@ a) A la cohérence des actions économiques sectorielles conduites par les offic
 
 b) A la cohérence nationale des projets départementaux définis à l'article L. 313-1 au regard notamment de la politique d'orientation des productions et d'organisation des marchés. Il est consulté sur les orientations données dans le cadre de l'élaboration des contrats de plan Etat-régions ;
 
-c) A la cohérence des actions menées en matière de recherche, d'expérimentation et de développement agricole, en liaison avec l'Agence de développement agricole et rural.
+c) A la cohérence des actions menées en matière de recherche, d'expérimentation et de développement agricole, financées par le compte d'affectation spéciale "Développement agricole et rural".
 
 Indépendamment des attributions qui lui sont conférées par les dispositions législatives et réglementaires en vigueur, le conseil examine et peut rendre des avis sur :
 

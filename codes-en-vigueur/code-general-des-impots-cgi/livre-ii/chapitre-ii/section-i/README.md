@@ -1,5 +1,5 @@
 # Section I : Dispositions communes
 
 - [C : Autres sanctions et mesures diverses.](c)
-- [A : Sanctions fiscales.](a)
+- [A : Intérêt de retard](a)
 - [B : Sanctions pénales.](b)

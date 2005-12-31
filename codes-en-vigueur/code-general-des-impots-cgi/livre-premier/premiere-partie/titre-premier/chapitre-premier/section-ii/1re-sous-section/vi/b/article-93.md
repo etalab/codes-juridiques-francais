@@ -18,7 +18,7 @@ Les dépenses déductibles comprennent notamment :
 
 7° Les droits de mutation à titre gratuit acquittés par les héritiers, donataires ou légataires d'une exploitation, pour la part des droits afférente à cette exploitation, et les intérêts payés en application des dispositions de l'article 1717, pour la même part.
 
-8° Les redevances de concessions de produits de la propriété industrielle définis à l'article 39 terdecies. Lorsqu'il existe des liens de dépendance entre le concédant et le concessionnaire, le montant des redevances est déductible dans les conditions et limites fixées au 12 de l'article 39 (4).
+8° Les redevances de concessions de produits de la propriété industrielle définis à l'article 39 terdecies. Lorsqu'il existe des liens de dépendance entre le concédant et le concessionnaire, le montant des redevances est déductible dans les conditions et limites fixées au 12 de l'article 39.
 
 1 bis. (Abrogé).
 
@@ -26,11 +26,11 @@ Les dépenses déductibles comprennent notamment :
 
 Ce régime est subordonné aux conditions suivantes :
 
-- Les commissions reçues doivent être intégralement déclarées par les tiers ;
+Les commissions reçues doivent être intégralement déclarées par les tiers ;
 
-- Les intéressés ne doivent pas bénéficier d'autres revenus professionnels, à l'exception de courtages et autres rémunérations accessoires se rattachant directement à l'exercice de leur profession ;
+Les intéressés ne doivent pas bénéficier d'autres revenus professionnels, à l'exception de courtages et autres rémunérations accessoires se rattachant directement à l'exercice de leur profession ;
 
-- Le montant brut de ces courtages et rémunérations accessoires ne doit pas excéder 10 % du montant brut des commissions.
+Le montant brut de ces courtages et rémunérations accessoires ne doit pas excéder 10 % du montant brut des commissions.
 
 La demande doit être adressée au service des impôts du lieu d'exercice de la profession avant le 1er mars de l'année au titre de laquelle l'imposition est établie. L'option demeure valable tant qu'elle n'a pas été expressément dénoncée dans les mêmes conditions.
 
@@ -57,3 +57,13 @@ La déduction forfaitaire de 10 % pour frais professionnels, prévue au 3° de l
 Cette disposition s'applique si le cédant est âgé de soixante ans au moins et soixante-cinq ans au plus à la date de la cession et s'il cesse d'exercer une activité de chef d'entreprise.
 
 8. Sur demande expresse des contribuables soumis au régime de la déclaration contrôlée qui exercent une activité professionnelle au sens du 1 de l'article 92, les subventions visées à l'article 42 septies ne sont pas comprises dans les résultats de l'année en cours à la date de leur versement. Dans ce cas, elles sont imposables dans les conditions définies par ce dernier article.
+
+9. Les auteurs d'oeuvres d'art au sens du 1° du I de l'article 297 A bénéficient d'un abattement de 50 % sur le montant de leur bénéfice imposable au titre de la première année d'activité ainsi que des quatre années suivantes.
+
+Ces dispositions s'appliquent aux revenus résultant de la cession des oeuvres mentionnées à l'alinéa précédent, ainsi que de la cession et de l'exploitation des droits patrimoniaux reconnus par la loi sur ces mêmes oeuvres, et perçus par les auteurs personnes physiques imposées selon le régime de la déclaration contrôlée.
+
+Les revenus provenant des opérations mentionnées à l'article 279 bis ne bénéficient pas de l'abattement prévu au premier alinéa.
+
+L'abattement mentionné au premier alinéa ne peut excéder 50 000 euros par an.
+
+Il ne s'applique pas en cas d'option pour le régime prévu à l'article 100 bis.

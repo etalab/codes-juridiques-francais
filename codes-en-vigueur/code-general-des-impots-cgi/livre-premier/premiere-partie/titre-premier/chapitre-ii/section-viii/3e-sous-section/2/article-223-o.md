@@ -30,6 +30,10 @@ k. Des crédits d'impôt dégagés par chaque société du groupe en application
 
 l. Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 244 quater K ; les dispositions de l'article 199 ter J s'appliquent à la somme de ces crédits d'impôt.
 
-m) Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 244 quater M ; les dispositions de l'article 199 ter L s'appliquent à la somme de ces crédits d'impôt.
+m) Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 244 quater M ; les dispositions de l'article 199 ter L s'appliquent à la somme de ces crédits d'impôt ;
 
-2. abrogé
+o) Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 244 quater N ; les dispositions de l'article 220 O s'appliquent à la somme de ces crédits d'impôt ;
+
+p. Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 244 quater O ; les dispositions de l'article 220 P s'appliquent à la somme de ces crédits d'impôt.
+
+2. (abrogé).

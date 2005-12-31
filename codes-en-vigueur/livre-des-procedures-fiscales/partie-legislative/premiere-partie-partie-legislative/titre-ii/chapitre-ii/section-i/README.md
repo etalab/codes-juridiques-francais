@@ -21,3 +21,4 @@
 - [7° : Agriculture](7)
 - [8° : Membres de certaines professions non commerciales](8)
 - [9° : Institutions et organismes versant des rémunérations ou répartissant des fonds](9)
+- [15° bis : Sociétés civiles](15-bis)

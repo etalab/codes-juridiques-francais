@@ -1,9 +1,9 @@
 # Article R241-16
 
-Un macaron "Grand Invalide civil" est accordé par le préfet, sur sa demande, à toute personne handicapée, titulaire de la carte d'invalidité prévue à l'article L. 241-3, dont la déficience physique réduit de manière importante sa capacité et son autonomie de déplacement à pied ou dont la déficience sensorielle ou mentale impose qu'elle soit accompagnée par une tierce personne dans ses déplacements.
+La demande de carte de stationnement pour personnes handicapées, instituée par l'article L. 241-3-2, est adressée :
 
-La demande doit être accompagnée d'un certificat médical.
+1° Soit à la maison départementale des personnes handicapées prévue à l'article L. 146-3 du département de résidence du demandeur ;
 
-La décision du préfet est prise, après avis d'un médecin de l'équipe technique de la commission prévue à l'article L. 242-2 ou de la commission mentionnée à l'article L. 323-11 du code du travail selon le cas.
+2° Soit, pour les personnes relevant du code des pensions militaires d'invalidité et de victimes de la guerre, au service départemental de l'Office national des anciens combattants et victimes de guerre de son lieu de résidence.
 
-En cas de désaccord entre le médecin traitant et cet avis, le préfet peut consulter un médecin figurant sur la liste des médecins experts du tribunal administratif dans le ressort duquel se trouve le département, choisi d'un commun accord par les deux praticiens.
+Elle est accompagnée d'un certificat médical établi à cette fin. Toute demande de renouvellement de la carte de stationnement pour personnes handicapées est présentée au minimum quatre mois avant la date d'expiration du titre.

@@ -25,3 +25,5 @@
 - [Article 220 J](article-220-j.md)
 - [Article 220 K](article-220-k.md)
 - [Article 220 N](article-220-n.md)
+- [Article 220 O](article-220-o.md)
+- [Article 220 P](article-220-p.md)
