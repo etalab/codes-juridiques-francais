@@ -6,4 +6,4 @@ L'extrait peut être remplacé par une reproduction partielle des actes, décisi
 
 Pour les actes visés au premier alinéa du I de l'article 647, les deux exemplaires de l'extrait sont remis, sous peine de refus du dépôt, à la conservation des hypothèques, au moment où la formalité fusionnée est requise (2). Le dépôt est également refusé s'il existe, entre cet extrait et le document à publier, une discordance faisant obstacle à la détermination de l'assiette ou au contrôle de l'impôt.
 
-Pour les actes visés au deuxième alinéa du I du même article, l'un des exemplaires de l'extrait d'acte est déposé à la recette des impôts compétente pour opérer la formalité de l'enregistrement (3).
+Pour les actes visés au deuxième alinéa du I du même article, l'un des exemplaires de l'extrait d'acte est déposé au service des impôts compétent pour opérer la formalité de l'enregistrement (3).

@@ -4,6 +4,6 @@ Les cours d'eau et canaux ayant fait l'objet d'un transfert de compétence au pr
 
 Les régions ayant obtenu le transfert des cours d'eau et canaux peuvent déléguer, par convention, tout ou partie de leurs compétences à des collectivités territoriales qui en feraient la demande.
 
-Ces transferts sont réalisés à titre gratuit et ne donnent lieu au paiement d'aucune indemnité, droit, taxe ou honoraires.
+Ces transferts sont réalisés à titre gratuit et ne donnent lieu au paiement d'aucune indemnité, droit, taxe, salaire ou honoraires.
 
 Toutefois, lorsque avant le 1er janvier 2005, une partie du domaine public fluvial a été concédée à une collectivité territoriale, cette dernière est prioritaire pour bénéficier du transfert de propriété.

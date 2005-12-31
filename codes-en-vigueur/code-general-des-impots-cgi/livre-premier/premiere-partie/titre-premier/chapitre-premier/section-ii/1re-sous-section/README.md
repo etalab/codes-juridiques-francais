@@ -9,5 +9,4 @@
 - [VII : Revenus des capitaux mobiliers](vii)
 - [VII bis : Profits réalisés en France sur les marchés à terme, sur les marchés d'options négociables et sur les opérations de bons d'option](vii-bis)
 - [VII ter : Plus-values de cession à titre onéreux de biens ou de droits de toute nature](vii-ter)
-- [VII quater : Taxe sur les métaux précieux, les bijoux, les objets d'art, de collection et d'antiquité](vii-quater)
 - [VIII : Dispositions communes aux différentes catégories de revenus](viii)

@@ -1,10 +1,10 @@
 # Article 810
 
-I. L'enregistrement des apports donne lieu au paiement d'un droit fixe de 230 euros.
+I. L'enregistrement des apports donne lieu au paiement d'un droit fixe de 375 euros porté à 500 euros pour les sociétés ayant un capital d'au moins 225 000 euros.
 
 II. (Abrogé).
 
-III. Le tarif normal du droit d'enregistrement ou de la taxe de publicité foncière perçus sur les apports visés au 3° du I et au II de l'article 809 est fixé à 2 % pour les apports qui ont pour objet un immeuble ou des droits immobiliers et, selon le tarif prévu à l'article 719, pour ceux qui ont pour objet un fonds de commerce, une clientèle, un droit à un bail ou à une promesse de bail (1).
+III. Le tarif normal du droit d'enregistrement ou de la taxe de publicité foncière perçus sur les apports visés au 3° du I et au II de l'article 809 est fixé à 2,20 % pour les apports qui ont pour objet un immeuble ou des droits immobiliers et, selon le tarif prévu à l'article 719, pour ceux qui ont pour objet un fonds de commerce, une clientèle, un droit à un bail ou à une promesse de bail.
 
 A partir du 1er janvier 1991, ce taux est réduit à 1 % sur les apports de fonds de commerce, de clientèle, de droit à un bail ou à une promesse de bail visés au 3° du I et au II de l'article 809 si l'apporteur en cas d'apport, ou les associés en cas de changement de régime fiscal, s'engagent à conserver pendant trois ans les titres remis en contrepartie de l'apport ou détenus à la date du changement de régime fiscal. Cette réduction de taux est applicable dans les mêmes conditions aux immeubles ou droits immobiliers compris dans l'apport de l'ensemble des éléments d'actif immobilisé affectés à l'exercice d'une activité professionnelle.
 
@@ -22,6 +22,6 @@ III bis. (Disposition périmée).
 
 III ter. (Dispositions devenues sans objet).
 
-IV. Le droit fixe mentionné au I se substitue aux droits proportionnels visés au III pour les apports donnant lieu au paiement de la taxe sur la valeur ajoutée.
+IV. Le droit fixe mentionné au I se substitue aux droits proportionnels visés au III pour les apports d'immeubles entrant dans le champ d'application de la taxe sur la valeur ajoutée.
 
 V. (Abrogé).

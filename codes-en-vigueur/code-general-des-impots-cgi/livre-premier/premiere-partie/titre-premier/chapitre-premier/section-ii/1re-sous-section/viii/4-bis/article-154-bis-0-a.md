@@ -10,7 +10,7 @@ b) Ou 10 % du montant annuel du plafond mentionné à l'article L. 241-3 du code
 
 Cette limite est réduite, le cas échéant, des sommes versées par l'entreprise au plan d'épargne pour la retraite collectif défini à l'article L. 443-1-2 du code du travail et exonérées en application du 18° de l'article 81.
 
-II. - La déduction mentionnée au I est subordonnée à la justification par le chef d'exploitation ou d'entreprise de la régularité de sa situation vis-à-vis du régime d'assurance vieillesse de base dont il relève, conformément au I de l'article 55 de la loi n° 97-1051 du 18 novembre 1997 précitée.
+II. - La déduction mentionnée au I est subordonnée à la justification par le chef d'exploitation ou d'entreprise de la régularité de sa situation vis-à-vis des régimes d'assurance vieillesse obligatoires dont il relève, conformément au I de l'article 55 de la loi n° 97-1051 du 18 novembre 1997 précitée.
 
 III. -  Si le chef d'exploitation a souscrit un contrat pour son conjoint ou les membres de sa famille participant à l'exploitation et affiliés au régime de base d'assurance vieillesse des travailleurs non salariés des professions agricoles, les cotisations versées au titre de ce contrat sont déductibles de son revenu professionnel imposable dans une limite fixée, pour chacune de ces personnes, à un tiers de celle mentionnée au I.
 

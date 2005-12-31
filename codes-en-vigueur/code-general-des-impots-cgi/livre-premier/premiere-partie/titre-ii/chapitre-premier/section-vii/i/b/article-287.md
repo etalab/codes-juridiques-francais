@@ -1,6 +1,6 @@
 # Article 287
 
-1. Tout redevable de la taxe sur la valeur ajoutée est tenu de remettre à la recette des impôts dont il dépend et dans le délai fixé par arrêté une déclaration conforme au modèle prescrit par l'administration.
+1. Tout redevable de la taxe sur la valeur ajoutée est tenu de remettre au service des impôts dont il dépend et dans le délai fixé par arrêté une déclaration conforme au modèle prescrit par l'administration.
 
 2. Les redevables soumis au régime réel normal d'imposition déposent mensuellement la déclaration visée au 1 indiquant, d'une part, le montant total des opérations réalisées, d'autre part, le détail des opérations taxables. La taxe exigible est acquittée tous les mois.
 
@@ -30,4 +30,6 @@ Les conditions d'application du présent 3, notamment les modalités de versemen
 
 a) D'une part, le montant total, hors taxe sur la valeur ajoutée, des livraisons de bien exonérées en vertu du I de l'article 262 ter, des livraisons de biens installés ou montés sur le territoire d'un autre Etat membre de la Communauté européenne, des livraisons de gaz naturel ou d'électricité imposables sur le territoire d'un autre Etat membre de la Communauté européenne et des livraisons dont le lieu n'est pas situé en France en application des dispositions de l'article 258 A ;
 
-b) D'autre part, le montant total, hors taxe sur la valeur ajoutée, des acquisitions intracommunautaires mentionnées au I de l'article 256 bis, et, le cas échéant, des livraisons de biens expédiés ou transportés à partir d'un autre Etat membre de la Communauté européenne et installés ou montés en France, des livraisons de biens dont le lieu est situé en France en application des dispositions de l'article 258 B, des livraisons de biens effectuées en France pour lesquelles le destinataire de la livraison est désigné comme redevable de la taxe en application des dispositions du 2 ter de l'article 283 et des livraisons de gaz naturel ou d'électricité pour lesquelles l'acquéreur est désigné comme redevable de la taxe conformément aux dispositions du 2 quinquies de ce dernier article.
+b) D'autre part, le montant total, hors taxe sur la valeur ajoutée, des acquisitions intracommunautaires mentionnées au I de l'article 256 bis, et, le cas échéant, des livraisons de biens expédiés ou transportés à partir d'un autre Etat membre de la Communauté européenne et installés ou montés en France, des livraisons de biens dont le lieu est situé en France en application des dispositions de l'article 258 B, des livraisons de biens effectuées en France pour lesquelles le destinataire de la livraison est désigné comme redevable de la taxe en application des dispositions du 2 ter de l'article 283 et des livraisons de gaz naturel ou d'électricité pour lesquelles l'acquéreur est désigné comme redevable de la taxe conformément aux dispositions du 2 quinquies de ce dernier article ;
+
+c) Enfin, le montant total hors taxes des transmissions mentionnées à l'article 257 bis, dont a bénéficié l'assujetti ou qu'il a réalisées.

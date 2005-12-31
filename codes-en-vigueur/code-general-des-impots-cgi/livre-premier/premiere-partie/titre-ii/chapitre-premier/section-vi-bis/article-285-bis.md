@@ -6,7 +6,7 @@
 
 3. La renonciation par l'auteur au dispositif de retenue vaut pour l'ensemble des droits qu'il perçoit.
 
-Cette renonciation doit être notifiée à toutes les personnes visées au 1 qui versent des droits à l'auteur ainsi qu'au centre des impôts dont celui-ci relève.
+Cette renonciation doit être notifiée à toutes les personnes visées au 1 qui versent des droits à l'auteur ainsi qu'au service des impôts dont celui-ci relève.
 
 Elle prend effet le premier jour du mois qui suit celui au cours duquel elle est déclarée.
 
@@ -14,6 +14,6 @@ Elle couvre obligatoirement une période de cinq années, y compris celle au cou
 
 4. Les auteurs qui n'ont pas renoncé au dispositif de la retenue et qui reçoivent des droits de personnes autres que celles visées au 1 doivent retenir les modalités de liquidation de la taxe définies au 5. Ils déposent au titre de ces droits une déclaration annuelle de chiffre d'affaires.
 
-5. Pour le calcul du montant de la taxe nette due par l'auteur, les personnes visées au 1 appliquent en France métropolitaine un taux forfaitaire de 0,8 p. 100 des droits d'auteur au titre des droits à déduction en France métropolitaine. Ce taux est de 0,40 p. 100 dans les départements de la Guadeloupe, de la Réunion et de la Martinique. Cette déduction est exclusive de toute autre déduction.
+5. Pour le calcul du montant de la taxe nette due par l'auteur, les personnes visées au 1 appliquent en France métropolitaine un taux forfaitaire de 0,8% des droits d'auteur au titre des droits à déduction en France métropolitaine. Ce taux est de 0,40% dans les départements de la Guadeloupe, de la Réunion et de la Martinique. Cette déduction est exclusive de toute autre déduction.
 
 6. Les personnes visées au 1 doivent déclarer et acquitter la retenue dans les mêmes conditions et sous les mêmes sanctions que leurs propres opérations. La taxe sur la valeur ajoutée acquittée pour le compte de l'auteur par ces personnes n'est pas prise en compte pour la détermination de leur pourcentage de déduction de taxe sur la valeur ajoutée.

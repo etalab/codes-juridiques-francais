@@ -1,6 +1,6 @@
 # Article 208 C bis
 
-I. - Les dispositions des articles 210 A, 210 B et 210 B bis s'appliquent aux opérations auxquelles participent les sociétés d'investissements immobiliers cotées, ou leurs filiales, qui ont opté pour le régime prévu à l'article 208 C.
+I. - Les dispositions des articles 210 A, 210 B et 210 B bis s'appliquent aux opérations auxquelles participent les sociétés d'investissements immobiliers cotées, ou leurs filiales, et les sociétés mentionnées au III bis de l'article 208 C qui ont opté pour le régime prévu au II du même article.
 
 L'application de ces dispositions est subordonnée à la condition que la société absorbante s'engage, dans l'acte de fusion, à se substituer à la société absorbée pour les obligations de distributions prévues du deuxième au quatrième alinéas du II de l'article 208 C.
 

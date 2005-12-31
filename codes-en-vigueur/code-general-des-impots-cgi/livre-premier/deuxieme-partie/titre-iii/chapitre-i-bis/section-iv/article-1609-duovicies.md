@@ -66,7 +66,7 @@ VI. - La taxe spéciale n'est pas perçue dans les salles des départements de l
 
 VII. - Les personnes redevables de la taxe doivent déposer pour chaque salle de spectacles cinématographiques une déclaration conforme au modèle prescrit par la direction générale des impôts et comportant les indications nécessaires à l'assiette et à la perception de la taxe.
 
-Cette déclaration est souscrite auprès de la recette des impôts dont relève la salle de spectacles cinématographiques. Elle est déposée en un seul exemplaire avant le 25 du mois suivant celui au cours duquel les opérations imposables ont été réalisées. La taxe est acquittée dans le même délai.
+Cette déclaration est souscrite auprès du service des impôts dont relève la salle de spectacles cinématographiques. Elle est déposée en un seul exemplaire avant le 25 du mois suivant celui au cours duquel les opérations imposables ont été réalisées. La taxe est acquittée dans le même délai.
 
 VIII. - La taxe spéciale est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que la taxe sur la valeur ajoutée.
 

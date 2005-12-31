@@ -1,7 +1,19 @@
 # Article 1763
 
-1. Toute infraction aux dispositions de l'article 54 bis, deuxième alinéa, donne lieu à l'application d'une amende fiscale de 7,5 euros. Cette amende est encourue autant de fois qu'il existe de salariés pour lesquels la nature et la valeur des avantages en nature n'ont pas été inscrites en comptabilité conformément audit article. Ces dispositions sont également applicables aux personnes morales et associations passibles de l'impôt sur les sociétés.
+I. - Entraîne l'application d'une amende égale à 5 % des sommes omises le défaut de production ou le caractère inexact ou incomplet des documents suivants :
 
-2. La non-présentation des documents dont la tenue et la communication sont exigées par les articles 53 A, 54, 98 et 100 donne lieu à l'application d'une amende fiscale de 15 euros.
+a. Tableau des provisions prévu en application des dispositions de l'article 53 A ;
 
-3. En cas de cession ou de cessation d'entreprise ou de décès du contribuable, l'amende fiscale mentionnée au 2 est applicable si le contribuable ou ses ayants droit s'abstiennent de donner les justifications prévues au troisième alinéa du 3 de l'article 201.
+b. Relevé détaillé de certaines catégories de dépenses prévu à l'article 54 quater ;
+
+c. Etat des abandons de créances et subventions prévu au sixième alinéa de l'article 223 B ;
+
+d. Registre mentionné au II de l'article 54 septies ;
+
+e. Etat prévu au IV de l'article 41, au I de l'article 54 septies, au II de l'article 151 octies ou au 2 du II et au VI de l'article 151 nonies au titre de l'exercice au cours duquel est réalisée l'opération visée par ces dispositions ou au titre des exercices ultérieurs.
+
+f. Etat mentionné au onzième alinéa du a ter du I de l'article 219.
+
+Pour les documents mentionnés aux a, b et c, l'amende s'applique au seul exercice au titre duquel l'infraction est mise en évidence et le taux est ramené à 1 % lorsque les sommes correspondantes sont réellement déductibles.
+
+II. - Entraîne l'application d'une amende égale à 5 % des résultats de la société scindée non imposés en application des dispositions prévues aux articles 210 A et 210 B, le défaut de production ou le caractère inexact ou incomplet de l'état prévu au III de l'article 54 septies.
