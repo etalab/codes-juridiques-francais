@@ -1,5 +1,5 @@
-# LIVRE III : Les services financiers
+# LIVRE III : Dispositions communes et finales
 
-- [TITRE Ier : Chèques postaux.](titre-ier)
-- [TITRE II : Mandats.](titre-ii)
+- [TITRE Ier : Dispositions communes](titre-ier)
+- [TITRE II : Dispositions finales.](titre-ii)
 - [TITRE III : Valeurs à recouvrer et envois contre remboursement](titre-iii)
