@@ -1,5 +1,6 @@
 # Chapitre VI : La réglementation et la protection des boisements
 
+- [Section 1 : Réglementation des boisements et actions forestières.](section-1)
 - [Section 2 : La protection des formations linéaires boisées.](section-2)
 - [Article L126-1](article-l126-1.md)
 - [Article L126-2](article-l126-2.md)

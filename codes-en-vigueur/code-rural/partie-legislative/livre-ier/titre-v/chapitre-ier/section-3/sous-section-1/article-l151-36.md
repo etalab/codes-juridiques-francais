@@ -4,7 +4,7 @@ Les départements, les communes ainsi que les groupements de ces collectivités 
 
 1° Lutte contre l'érosion et les avalanches, défense contre les torrents, reboisement et aménagement des versants, défense contre les incendies et réalisation de travaux de desserte forestière, pastorale ou permettant l'accès aux équipements répondant aux objectifs de protection précités ;
 
-2° Travaux de débroussaillement des terrains mentionnés à l'article L. 126-7 du présent code ;
+2° Travaux de débroussaillement des terrains mentionnés à l'article L. 126-2 du présent code ;
 
 3° Curage, approfondissement, redressement et régularisation des canaux et cours d'eau non domaniaux et des canaux de dessèchement et d'irrigation ;
 

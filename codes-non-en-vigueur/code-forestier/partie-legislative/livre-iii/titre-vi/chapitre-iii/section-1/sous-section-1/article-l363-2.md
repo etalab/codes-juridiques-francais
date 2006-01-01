@@ -22,6 +22,6 @@ Lorsque la conservation des bois n'est pas nécessaire :
 
 - à l'équilibre biologique d'une région ou au bien-être de la population ;
 
-- à l'aménagement des périmètres mentionnés au 4° de l'article L. 126-1 du code rural.
+- à l'aménagement des périmètres retenus pour les opérations d'aménagement foncier agricole et forestier en zone forestière mentionnées aux articles L. 123-18 à L. 123-23 du code rural.
 
 Le droit de défricher ne peut être exercé que pendant dix ans à compter de la date d'autorisation.

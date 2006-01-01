@@ -4,4 +4,4 @@ La créance de l'Etat relative à l'exécution par le fonds forestier national d
 
 Le privilège mobilier, ci-dessus établi, est opposable aux ayants cause du propriétaire à dater de la publication du contrat au bureau des hypothèques.
 
-Les clauses des contrats de travaux s'appliquent quelles que soient les mutations de propriété intervenues, et notamment dans le cas de transfert de propriété effectué en application du chapitre III du titre II du livre Ier du code rural, relatif au remembrement des exploitations rurales, jusqu'au recouvrement complet de la créance du fonds forestier national et pendant au moins dix ans.
+Les clauses des contrats de travaux s'appliquent quelles que soient les mutations de propriété intervenues, et notamment dans le cas de transfert de propriété effectué en application du chapitre III du titre Ier du livre Ier du code rural, relatif à l'aménagement foncier agricole et forestier des exploitations rurales, jusqu'au recouvrement complet de la créance du Fonds forestier national et pendant au moins dix ans.

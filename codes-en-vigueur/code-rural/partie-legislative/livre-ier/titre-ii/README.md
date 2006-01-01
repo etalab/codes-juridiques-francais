@@ -1,7 +1,6 @@
 # Titre II : Aménagement foncier rural
 
 - [Chapitre Ier : Dispositions communes aux divers modes d'aménagement foncier](chapitre-ier)
-- [Chapitre II : La réorganisation foncière.](chapitre-ii)
 - [Chapitre III : Le remembrement rural](chapitre-iii)
 - [Chapitre IV : Les échanges d'immeubles ruraux.](chapitre-iv)
 - [Chapitre V : La mise en valeur des terres incultes ou manifestement sous-exploitées.](chapitre-v)

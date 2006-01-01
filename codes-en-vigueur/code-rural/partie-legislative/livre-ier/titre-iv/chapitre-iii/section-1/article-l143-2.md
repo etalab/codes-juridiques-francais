@@ -14,7 +14,7 @@ L'exercice de ce droit a pour objet, dans le cadre des objectifs définis par l'
 
 6° La conservation d'exploitations viables existantes lorsqu'elle est compromise par la cession séparée des terres et de bâtiments d'habitation ou d'exploitation ;
 
-7° La mise en valeur et la protection de la forêt ainsi que l'amélioration des structures sylvicoles dans le cadre des conventions passées avec l'Etat en application de l'article L. 512-6 du code forestier ;
+7° La mise en valeur et la protection de la forêt ainsi que l'amélioration des structures sylvicoles dans le cadre des conventions passées avec l'Etat ;
 
 8° La réalisation des projets de mise en valeur des paysages et de protection de l'environnement approuvés par l'Etat ou les collectivités locales et leurs établissements publics ;
 

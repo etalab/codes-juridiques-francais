@@ -6,7 +6,7 @@ La commission départementale d'aménagement foncier est ainsi composée :
 
 2° Quatre conseillers généraux et deux maires de communes rurales ;
 
-3° Six fonctionnaires désignés par le préfet ;
+3° Six personnes qualifiées désignées par le président du conseil général ;
 
 4° Le président de la chambre d'agriculture ou son représentant désigné parmi les membres de la chambre d'agriculture ;
 
@@ -16,11 +16,11 @@ La commission départementale d'aménagement foncier est ainsi composée :
 
 7° Le président de la chambre départementale des notaires ou son représentant ;
 
-8° Deux propriétaires bailleurs, deux propriétaires exploitants, deux exploitants preneurs, désignés par le préfet, sur trois listes comprenant chacune six noms, établies par la chambre d'agriculture ;
+8° Deux propriétaires bailleurs, deux propriétaires exploitants, deux exploitants preneurs, désignés par le président du conseil général, sur trois listes comprenant chacune six noms, établies par la chambre d'agriculture ;
 
-9° Deux représentants d'associations agréées en matière de faune, de flore et de protection de la nature et des paysages désignés par le préfet.
+9° Deux représentants d'associations agréées en matière de faune, de flore et de protection de la nature et des paysages désignés par le président du conseil général.
 
-Le préfet choisit, en outre, sur ces listes, six suppléants, à raison d'un par membre titulaire, appelés à siéger, soit en cas d'absence du titulaire, soit lorsque la commission départementale est appelée à délibérer sur des réclamations concernant une opération dans le périmètre de laquelle l'un des membres titulaires est propriétaire.
+Le président du conseil général choisit, en outre, sur ces listes, six suppléants, à raison d'un par membre titulaire, appelés à siéger, soit en cas d'absence du titulaire, soit lorsque la commission départementale est appelée à délibérer sur des réclamations concernant une opération dans le périmètre de laquelle l'un des membres titulaires est propriétaire.
 
 La désignation des conseillers généraux et des représentants des maires a lieu à chaque renouvellement du conseil général et des conseils municipaux.
 
