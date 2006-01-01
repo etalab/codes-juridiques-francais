@@ -6,7 +6,7 @@ II. La demande de restitution doit être présentée par l'associé ou par ses a
 
 III. Les requérants doivent y mentionner, outre la dénomination et le siège de la société, le montant et la date du remboursement :
 
-a. Pour la taxe proportionnelle ou la retenue à la source : la recette des impôts où cette imposition a été acquittée, la date à laquelle la déclaration ayant servi de base à ladite imposition a été déposée ainsi que le montant de l'avance, du prêt ou de l'acompte inclus dans la base d'imposition de la société ;
+a. Pour la taxe proportionnelle ou la retenue à la source : le service des impôts où cette imposition a été acquittée, la date à laquelle la déclaration ayant servi de base à ladite imposition a été déposée ainsi que le montant de l'avance, du prêt ou de l'acompte inclus dans la base d'imposition de la société ;
 
 b. Pour la surtaxe progressive ou l'impôt sur le revenu et pour la taxe complémentaire : l'année d'imposition, le montant de l'avance, du prêt ou de l'acompte inclus dans le revenu imposable de ladite année ainsi que l'indication de l'article du rôle sous lequel l'imposition a été établie et la date à laquelle le rôle a été mis en recouvrement ;
 

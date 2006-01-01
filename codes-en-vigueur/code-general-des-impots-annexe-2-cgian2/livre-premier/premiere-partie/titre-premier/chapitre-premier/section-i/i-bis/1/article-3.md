@@ -12,4 +12,4 @@ Les contribuables passibles du prélèvement prévu à l'article 244 bis du mêm
 
 Cette déclaration est appuyée, le cas échéant, de toutes les justifications utiles.
 
-Lorsque la cession dont résulte la plus-value fait l'objet d'un acte ou d'une déclaration soumis à la formalité de l'enregistrement, la déclaration spéciale doit être déposée au moment de la présentation à cette formalité de l'acte, ou de la déclaration qui en tient lieu, à la recette des impôts où la présentation est faite.
+Lorsque la cession dont résulte la plus-value fait l'objet d'un acte ou d'une déclaration soumis à la formalité de l'enregistrement, la déclaration spéciale doit être déposée au moment de la présentation à cette formalité de l'acte, ou de la déclaration qui en tient lieu, au service des impôts où la présentation est faite.

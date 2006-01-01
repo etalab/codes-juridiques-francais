@@ -1,5 +1,6 @@
 # 2 : Amendes fiscales
 
+- [Article 1761](article-1761.md)
 - [Article 1763](article-1763.md)
 - [Article 1763 D](article-1763-d.md)
 - [Article 1763 A](article-1763-a.md)

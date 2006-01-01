@@ -10,7 +10,7 @@ Soit d'un certificat délivré par un officier ministériel attestant que l'obje
 
 Soit d'une facture régulière délivrée par un commerçant résidant en France,
 
-Soit d'une facture délivrée par un particulier et visée par la recette des impôts ayant encaissé la taxe,
+Soit d'une facture délivrée par un particulier et visée par le service des impôts ayant encaissé la taxe,
 
 Soit, lorsque l'objet a été acquis par voie de succession ou de donation, d'un extrait de la déclaration ayant servi de base à la liquidation des droits de mutation et mentionnant le bien concerné.
 
