@@ -8,4 +8,4 @@ Dans la limite de l'ancienneté exigée à l'article R. 234-1 pour une promotion
 
 Les agents nommés alors qu'ils avaient atteint l'échelon le plus élevé de leur précédent grade ou classe conservent leur ancienneté d'échelon dans les mêmes conditions et limites, lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant d'un avancement à ce dernier échelon.
 
-Ceux qui ont été recrutés par la voie du troisième concours sont placés au 6e échelon du grade de conseiller.
+Ceux qui ont été recrutés par la voie du troisième concours sont placés au 7e échelon du grade de conseiller.
