@@ -6,4 +6,4 @@ Les registres sont conservés pendant cinq ans.
 
 Le registre est tenu constamment à la disposition des inspecteurs du travail.
 
-Les représentants du personnel peuvent consulter ce registre.
+Les représentants du personnel et les membres du comité d'hygiène, de sécurité et des conditions de travail peuvent consulter ce registre.

@@ -4,4 +4,4 @@ Le congé payé ne dépassant pas douze jours ouvrables doit être continu. La d
 
 Le congé principal d'une durée supérieure à douze jours ouvrables et au plus égale à vingt-quatre jours ouvrables peut être fractionné par l'employeur avec l'agrément du salarié. Dans ce cas, une fraction doit être au moins de douze jours ouvrables continus compris entre deux jours de repos hebdomadaire.
 
-Lorsque le congé s'accompagne de la fermeture de l'établissement, le fractionnement peut être effectué par l'employeur sur avis conforme des représentants du personnel.
+Lorsque le congé s'accompagne de la fermeture de l'établissement, le fractionnement peut être effectué par l'employeur sur avis conforme du comité d'entreprise ou, à défaut, des délégués du personnel.
