@@ -14,6 +14,6 @@ Pour les résidents de plus de soixante ans, les tarifs afférents à l'héberge
 
 Les tarifs journaliers afférents à l'hébergement peuvent être modulés en application de l'article R. 314-182.
 
-Par dérogation aux dispositions du dernier alinéa de l'article R. 714-3-9 du code de la santé publique, pendant toute la durée de la période transitoire ou jusqu'au terme de la première convention tripartite prévue au I de l'article L. 313-12, les budgets annexes relatifs aux services accueillant des personnes âgées dépendantes peuvent recevoir une subvention du budget principal ou accorder une subvention à un autre budget annexe.
+Par dérogation aux dispositions de l'avant-dernier alinéa de l'article R. 6145-12 du code de la santé publique, pendant toute la durée de la période transitoire ou jusqu'au terme de la première convention tripartite prévue au I de l'article L. 313-12, les budgets annexes relatifs aux services accueillant des personnes âgées dépendantes peuvent recevoir une subvention du budget principal ou accorder une subvention à un autre budget annexe.
 
 Les produits de ces subventions ne sont pas pris en compte pour le calcul du montant de la contribution de l'assurance maladie définie à l'article R. 314-188.
