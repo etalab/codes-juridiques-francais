@@ -10,6 +10,6 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 
 4° Le livre V, à l'exception des articles L. 522-1 à L. 522-40, L. 524-12, L. 524-20 et L. 524-21 ;
 
-5° Le livre VI, à l'exception des articles L. 621-38, L. 621-132 et L. 628-1 à L. 628-8 ;
+5° Le livre VI, à l'exception des articles L. 622-19, L. 625-9 et L. 670-1 à L. 670-8 ;
 
 6° Le titre II du livre VIII.

@@ -1,4 +1,4 @@
-# Paragraphe 2 : Dispositions relatives aux procédures de redressement et liquidation judiciaires et de règlement amiables applicables aux établissements de crédit et aux entreprises d'investissement.
+# Paragraphe 2 : Dispositions relatives aux procédures de sauvegarde, de redressement, liquidation judiciaires et de procédures de conciliation applicables aux établissements de crédit et aux entreprises d'investissement
 
 - [Article R613-14](article-r613-14.md)
 - [Article R613-15](article-r613-15.md)
