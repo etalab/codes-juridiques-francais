@@ -14,7 +14,7 @@ d) Centre national de promotion rurale, enseignement et formation professionnell
 
 2° Pour les établissements relevant du ministère de l'éducation nationale :
 
-a) Centre national d'études et de formation pour l'enfance inadaptée de Suresnes et son annexe (Hauts-de-Seine) ;
+a) (supprimé) ;
 
 b) Lycée d'Etat d'Hennemont à sections internationales de Saint-Germain-en-Laye (Yvelines) ;
 
