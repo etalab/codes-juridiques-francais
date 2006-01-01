@@ -14,5 +14,3 @@
 - [Article 1753](article-1753.md)
 - [Article 1753 bis A](article-1753-bis-a.md)
 - [Article 1753 bis B](article-1753-bis-b.md)
-- [Article 1755](article-1755.md)
-- [Article 1756](article-1756.md)

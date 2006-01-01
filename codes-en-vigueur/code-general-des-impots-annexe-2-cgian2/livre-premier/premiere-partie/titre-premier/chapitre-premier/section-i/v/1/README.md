@@ -1,7 +1,6 @@
 # 1 : Valeurs mobilières, droits sociaux et titres assimilés
 
 - [Article 74-0 I](article-74-0-i.md)
-- [Article 74-0 L](article-74-0-l.md)
 - [Article 74-0 C](article-74-0-c.md)
 - [Article 74-0 D](article-74-0-d.md)
 - [Article 74-0 M](article-74-0-m.md)

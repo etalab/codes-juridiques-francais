@@ -7,7 +7,6 @@
 - [Article R664-5](article-r664-5.md)
 - [Article R664-6](article-r664-6.md)
 - [Article R664-7](article-r664-7.md)
-- [Article R*664-8](article-r-664-8.md)
 - [Article R664-8](article-r664-8.md)
 - [Article R664-9](article-r664-9.md)
 - [Article R664-10](article-r664-10.md)

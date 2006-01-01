@@ -4,5 +4,4 @@
 - [Chapitre III : La police sanitaire](chapitre-iii)
 - [Chapitre IV : Les prophylaxies organisées.](chapitre-iv)
 - [Chapitre V : Les contrôles sanitaires facultatifs.](chapitre-v)
-- [Chapitre VI : L'équarrissage.](chapitre-vi)
 - [Chapitre VIII : Dispositions pénales.](chapitre-viii)
