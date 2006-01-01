@@ -10,7 +10,7 @@ Sont exonérés des droits de mutation à titre gratuit :
 
 4° Les dons et legs faits aux établissements publics charitables autres que ceux visés au I de l'article 794, aux mutuelles et à toutes autres sociétés reconnues d'utilité publique dont les ressources sont affectées à des oeuvres d'assistance, à la défense de l'environnement naturel ou à la protection des animaux.
 
-Il est statué sur le caractère de bienfaisance de la disposition par le décret rendu en conseil d'Etat ou l'arrêté préfectoral qui en autorise l'acceptation ;
+Il est statué sur le caractère de bienfaisance de la disposition par le décret rendu en conseil d'Etat ou l'arrêté préfectoral qui en autorise, le cas échéant, l'acceptation ;
 
 5° Les dons et legs faits aux associations d'enseignement supérieur reconnues d'utilité publique et aux sociétés d'éducation populaire gratuite reconnues d'utilité publique et subventionnées par l'Etat ;
 
