@@ -1,6 +1,6 @@
 # Article 1072
 
-Les extraits des registres de l'état civil, les actes de notoriété, de consentement, de publications, les délibérations de conseil de famille, la notification, s'il y a lieu, les dispenses pour cause de parenté, d'alliance ou d'âge, les actes de reconnaissance des enfants naturels sont dispensés d'enregistrement et exonérés de timbre.
+Les extraits des registres de l'état civil, les actes de notoriété, de consentement, de publications, les délibérations de conseil de famille, la notification, s'il y a lieu, les dispenses pour cause de parenté, d'alliance ou d'âge, les actes de reconnaissance des enfants naturels sont dispensés d'enregistrement.
 
 Les actes de notification, comme les actes de consentement, sont exonérés de tous droits, frais et honoraires à l'égard des officiers ministériels qui les dressent; il en est de même pour les actes de consentement reçus à l'étranger par les agents diplomatiques ou consulaires français.
 

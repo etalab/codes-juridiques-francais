@@ -4,7 +4,6 @@
 - [10° : Patrimoine artistique national](10)
 - [11° : Publicité foncière. Réforme. Dispositions transitoires](11)
 - [12° : Réunion de l'usufruit à la nue-propriété](12)
-- [13° : Warrants](13)
 - [14° : Indivisions successorales en Corse. Régime temporaire](14)
 - [15° : Privatisations](15)
 - [16° : Acquisitions de bois et forêts et de terrains destinés au reboisement](16)
