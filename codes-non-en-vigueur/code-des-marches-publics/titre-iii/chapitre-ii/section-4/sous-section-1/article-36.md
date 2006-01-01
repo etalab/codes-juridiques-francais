@@ -6,7 +6,7 @@ a) Lorsqu'elle n'est pas en mesure de définir les moyens techniques pouvant ré
 
 b) Lorsqu'elle n'est pas en mesure d'établir le montage juridique ou financier d'un projet.
 
-Les conditions de recours à la procédure de dialogue compétitif mentionnées ci-dessus ne sont pas exigées pour les marchés de travaux dont le montant est compris entre 230 000 Euros HT et 5 900 000 Euros HT.
+Les conditions de recours à la procédure de dialogue compétitif mentionnées ci-dessus ne sont pas exigées pour les marchés de travaux dont le montant est compris entre 210 000 Euros HT et 5 270 000 Euros HT.
 
 Pour la mise en oeuvre de cette procédure, la personne publique définit un programme fonctionnel qui comporte des résultats vérifiables à atteindre ou qui précise les besoins à satisfaire. Les moyens de parvenir à ces résultats ou de répondre à ces besoins font l'objet de la part de chaque candidat d'une proposition.
 

@@ -12,7 +12,7 @@ I. - Peuvent être négociés après publicité préalable et mise en concurrenc
 
 4° Dans des cas exceptionnels, lorsqu'il s'agit de services dont la nature ou les aléas qui peuvent affecter leur réalisation ne permettent pas une fixation préalable et globale des prix ;
 
-5° Les marchés de travaux dont le montant est compris entre 230 000 Euros HT et 5 900 000 Euros HT.
+5° Les marchés de travaux dont le montant est compris entre 210 000 Euros HT et 5 270 000 Euros HT.
 
 II. - Peuvent être négociés sans publicité préalable mais avec mise en concurrence :
 

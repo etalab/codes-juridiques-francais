@@ -16,7 +16,7 @@ Ce délai peut toutefois être ramené à vingt-deux jours minimum :
 
 a) Lorsque l'avis de préinformation prévu à l'article 39 a été publié. L'avis de préinformation doit toutefois avoir été envoyé à la publication cinquante-deux jours au moins et douze mois au plus avant la date d'envoi de l'appel public à la concurrence et contenir autant de renseignements que ceux énumérés dans l'avis d'appel public à la concurrence, pour autant que ces renseignements soient disponibles au moment de l'envoi de l'avis de préinformation ;
 
-b) Pour les marchés de travaux dont le montant est compris entre 230 000 Euros HT et 5 900 000 Euros HT.
+b) Pour les marchés de travaux dont le montant est compris entre 210 000 Euros HT et 5 270 000 Euros HT.
 
 En cas d'urgence ne résultant pas du fait de la personne responsable du marché, le délai de réception des offres peut être ramené à quinze jours.
 
