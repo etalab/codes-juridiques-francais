@@ -1,6 +1,6 @@
 # Article 357 H
 
-I. - Les contribuables qui perçoivent des revenus entrant dans la catégorie des traitements, salaires, indemnités, pensions et rentes viagères mentionnés au septième alinéa de l'article 1er du code général des impôts bénéficient, sur leur demande, de délais de paiement pour l'impôt sur le revenu dû par le foyer fiscal au titre de l'année précédente.
+I. - Les contribuables qui perçoivent des revenus entrant dans la catégorie des traitements, salaires, indemnités, pensions et rentes viagères mentionnés au septième alinéa de l'article 1 A du code général des impôts bénéficient, sur leur demande, de délais de paiement pour l'impôt sur le revenu dû par le foyer fiscal au titre de l'année précédente.
 
 Les comptables du Trésor sont tenus d'accorder ces délais de paiement si une baisse de plus de 30 % est constatée entre le montant des revenus mentionnés au premier alinéa et perçus au titre du mois où est formulée la demande et un montant de référence égal à la moyenne de ces mêmes revenus perçus par le foyer fiscal au cours des trois derniers mois précédents.
 
