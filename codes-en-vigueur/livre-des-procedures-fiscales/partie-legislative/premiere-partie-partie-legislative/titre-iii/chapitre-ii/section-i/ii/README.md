@@ -5,7 +5,6 @@
 - [Article L215](article-l215.md)
 - [Article L216](article-l216.md)
 - [Article L217](article-l217.md)
-- [Article L218](article-l218.md)
 - [Article L219](article-l219.md)
 - [Article L220](article-l220.md)
 - [Article L221](article-l221.md)
