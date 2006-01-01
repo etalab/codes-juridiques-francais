@@ -18,7 +18,7 @@ g. La Caisse centrale de crédit mutuel et les caisses départementales et inter
 
 h. La Caisse des dépôts et consignations ;
 
-i. La Caisse nationale de crédit agricole et les caisses régionales de crédit agricole mutuel ;
+i. L'organe central du crédit agricole et les caisses régionales de crédit agricole mutuel ;
 
 j. Le Crédit foncier communal d'Alsace et de Lorraine ;
 
