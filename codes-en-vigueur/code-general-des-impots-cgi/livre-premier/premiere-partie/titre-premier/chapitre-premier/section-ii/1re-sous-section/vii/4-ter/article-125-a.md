@@ -14,7 +14,7 @@ II bis. Le prélèvement est applicable dans tous les cas aux produits des somme
 
 Il est assis sur le tiers de ces produits.
 
-III. Le prélèvement est obligatoirement applicable aux revenus visés ci-dessus, dont le débiteur est établi ou domicilié en France, qui sont encaissés par des personnes n'ayant pas en France leur domicile fiscal ; la même disposition s'applique aux revenus qui sont payés hors de France ou qui sont encaissés par des personnes morales n'ayant pas leur siège social en France.
+III. Le prélèvement est obligatoirement applicable aux revenus visés ci-dessus, dont le débiteur est établi ou domicilié en France, qui sont encaissés par des personnes n'ayant pas en France leur domicile fiscal ou leur siège social.
 
 Toutefois, ce prélèvement n'est pas applicable aux intérêts des obligations émises à compter du 1er octobre 1984 par un débiteur domicilié ou établi en France lorsque le bénéficiaire effectif de ces intérêts justifie, auprès du débiteur ou de la personne qui en assure le paiement, qu'il a son domicile fiscal ou son siège hors du territoire de la République française, de Monaco ou d'un Etat dont l'institut d'émission est lié au Trésor français par un compte d'opération monétaire.
 
@@ -25,6 +25,8 @@ III bis. Le taux du prélèvement est fixé :
 1° à 16 % pour les produits d'obligations négociables et de titres participatifs.
 
 Ce taux est applicable aux intérêts servis aux salariés sur les versements effectués dans les fonds salariaux et aux produits capitalisés sur un plan d'épargne populaire dont la durée est égale ou supérieure à 4 ans ; il est fixé à 35 p. 100 pour les produits capitalisés sur un plan d'épargne populaire dont la durée est inférieure à quatre ans ;
+
+Ce taux est également applicable aux intérêts des plans d'épargne-logement ne bénéficiant pas de l'exonération mentionnée au 9° bis de l'article 157.
 
 1° bis à 16 % pour les produits des titres de créances négociables sur un marché réglementé en application d'une disposition législative particulière et non susceptibles d'être cotés.
 
