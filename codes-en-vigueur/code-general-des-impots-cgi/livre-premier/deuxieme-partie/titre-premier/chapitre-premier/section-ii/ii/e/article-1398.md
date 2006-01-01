@@ -8,4 +8,4 @@ Il n'est accordé aucun dégrèvement de taxe foncière pour pertes de récoltes
 
 En cas de pertes de bétail par suite d'épizootie, l'exploitant peut demander un dégrèvement de la taxe foncière correspondant au montant des pertes subies sur son cheptel, à condition de présenter une attestation du maire de sa commune, accompagnée d'un certificat dûment établi par le vétérinaire traitant.
 
-Le tribunal peut prononcer la déchéance du bénéfice des mesures prévues au présent article à l'encontre des contrevenants aux dispositions des articles L223-18 à L223-22 du code rural, relatifs à la vaccination antiaphteuse obligatoire.
+Le tribunal peut prononcer la déchéance du bénéfice des mesures prévues au présent article à l'encontre des contrevenants aux dispositions des articles L223-3, L223-18 et L223-19 du code rural, relatifs à la vaccination antiaphteuse obligatoire.
