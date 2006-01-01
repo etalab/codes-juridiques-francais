@@ -1,5 +1,6 @@
-# Chapitre VI : Aménagement agricole et forestier.
+# Chapitre VI : La réglementation et la protection des boisements
 
+- [Section 2 : La protection des formations linéaires boisées.](section-2)
 - [Article L126-1](article-l126-1.md)
 - [Article L126-2](article-l126-2.md)
 - [Article L126-3](article-l126-3.md)
