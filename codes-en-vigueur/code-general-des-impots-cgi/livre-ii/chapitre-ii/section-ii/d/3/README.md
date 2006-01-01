@@ -20,4 +20,3 @@
 - [Article 1840 G decies](article-1840-g-decies.md)
 - [Article 1840 G undecies](article-1840-g-undecies.md)
 - [Article 1840 G duodecies](article-1840-g-duodecies.md)
-- [Article 1840 GA](article-1840-ga.md)
