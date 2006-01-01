@@ -34,7 +34,7 @@ La date limite de dépôt de la déclaration et de paiement de la taxe est fixé
 
 VI. - 1. La déclaration visée au V est contrôlée dans les mêmes conditions que celles mentionnées au 1 du IV de l'article 302 bis K. La taxe est recouvrée par les services de la direction générale de l'aviation civile, selon les mêmes règles, conditions, garanties et sanctions que celles prévues pour la taxe de l'article 302 bis K.
 
-2. A défaut de déclaration dans les délais, il est procédé à une taxation d'office. Le montant de la taxe établie d'office résulte du produit de la taxe relative au décollage de l'aéronef le plus fortement taxable du redevable par le nombre de décollages relevés sur le mois ou le trimestre. Les droits sont assortis des pénalités prévues à l'article 1728.
+2. A défaut de déclaration dans les délais, il est procédé à une taxation d'office. Le montant de la taxe établie d'office résulte du produit de la taxe relative au décollage de l'aéronef le plus fortement taxable du redevable par le nombre de décollages relevés sur le mois ou le trimestre. Les droits sont assortis de l'intérêt de retard prévu à l'article 1727 et de la majoration prévue au 1 de l'article 1728.
 
 Les éléments nécessaires à l'établissement de cette taxation sont communiqués par l'autorité responsable de la circulation aérienne. Les bases servant au calcul de la taxation d'office ainsi que les pénalités sont portées à la connaissance du redevable trente jours au moins avant la mise en recouvrement, au moyen d'une notification qui précise les modalités de leur détermination.
 

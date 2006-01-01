@@ -1,6 +1,6 @@
 # Article 83 ter
 
-I. 1. Les salariés d'une entreprise qui souscrivent en numéraire au capital initial ou aux augmentations de capital intervenant dans les trois ans qui suivent la date de constitution d'une société nouvelle ayant pour objet exclusif de racheter tout ou partie du capital de leur entreprise peuvent déduire du montant brut de la rémunération qui leur est versée par l'entreprise rachetée, dans la limite de ce montant et de 100 000 F (1) par an, les intérêts des emprunts contractés pour financer leurs souscriptions, acquittés l'année de la souscription et chacune des cinq années suivantes.
+I. 1. Les salariés d'une entreprise qui souscrivent en numéraire au capital initial ou aux augmentations de capital intervenant dans les trois ans qui suivent la date de constitution d'une société nouvelle ayant pour objet exclusif de racheter tout ou partie du capital de leur entreprise peuvent déduire du montant brut de la rémunération qui leur est versée par l'entreprise rachetée, dans la limite de ce montant et de 100 000 F par an, les intérêts des emprunts contractés pour financer leurs souscriptions, acquittés l'année de la souscription et chacune des cinq années suivantes.
 
 Un salarié ne peut bénéficier que de l'un des avantages mentionnés au premier alinéa ou à l'article 199 terdecies A et pour les souscriptions au capital d'une seule société.
 
@@ -40,6 +40,8 @@ b) A une société dans laquelle il détient avec les membres de son foyer fisca
 
 c) A une société dans laquelle il exerce en droit ou en fait la fonction de gérant ou de président, directeur général, président du conseil de surveillance ou membre du directoire.
 
+3. Les avantages prévus au I cessent de s'appliquer à compter de l'année au cours de laquelle l'une des conditions fixées au présent article et à l'article 199 terdecies A n'est plus satisfaite.
+
 IV. En cas de cession d'actions ou parts de la société nouvelle ayant ouvert droit aux avantages prévus au 1 du I, de parts de la société civile ou du fonds commun de placement visés au 2 du I, avant le 31 décembre de la cinquième année suivant celle au cours de laquelle les salariés ont souscrit les titres de la société nouvelle, le total des intérêts déduits en application du 1 du I est ajouté à la rémunération brute perçue l'année de la cession.
 
 Pour l'application des dispositions précédentes, la cession de titres de la société nouvelle par la société civile ou le fonds commun de placement est assimilée à une cession directe de ces titres par le salarié.
@@ -51,5 +53,3 @@ V. Les souscriptions au capital de la société nouvelle qui ont ouvert droit au
 VI. Le présent article s'applique aux sociétés nouvelles créées à compter du 1er janvier 1992 et jusqu'au 31 décembre 1996 et aux souscriptions qui seront libérées au plus tard le 31 décembre 1999.
 
 VII. Les conditions d'application du présent article, notamment les obligations déclaratives des salariés et des sociétés ou organismes concernés, sont fixées par décret.
-
-(1) Montant périmé au 1er janvier 2002.

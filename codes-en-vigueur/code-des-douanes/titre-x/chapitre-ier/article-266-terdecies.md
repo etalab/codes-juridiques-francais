@@ -20,7 +20,7 @@ En cas de cessation d'activité ou de changement survenu dans un établissement 
 
 Lorsque cette déclaration est inexacte ou n'est pas déposée dans ce délai, les services chargés de l'inspection des installations classées notifient aux assujettis, trente jours au moins avant l'émission du titre exécutoire, les éléments servant au calcul de la taxe.
 
-En cas de défaut de déclaration dans le délai prescrit, les services mentionnés ci-dessus procèdent à la taxation d'office et l'assortissent de l'intérêt de retard et de la majoration prévus à l'article 1728 du code général des impôts.
+En cas de défaut de déclaration dans le délai prescrit, les services mentionnés ci-dessus procèdent à la taxation d'office et l'assortissent de l'intérêt de retard et de la majoration prévus au 1 de l'article 1728 du code général des impôts.
 
 En cas d'inexactitude de la déclaration, les rappels de taxe sont assortis de l'intérêt de retard et, le cas échéant, de la majoration prévus à l'article 1729 du code général des impôts.
 

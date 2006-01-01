@@ -1,3 +1,3 @@
 # Article 1826
 
-L'officier public qui a sciemment souscrit d'une façon incomplète ou inexacte les affirmations prescrites par le livre Ier, 1re partie, titre IV, chapitre Ier et les textes réglementaires ou d'application, ou contrevenu aux dispositions qui ont prévu ces affirmations, est passible, sans préjudice des sanctions disciplinaires, d'une amende de 1,5 euro à 30 euros.
+Est punie d'une amende égale à 50 % du supplément de droit exigible toute contravention aux dispositions du III de l'article 806 et de l'article 807 ; en outre, les dépositaires, détenteurs ou débiteurs ayant contrevenu aux dispositions des articles 806 et 807 sont personnellement tenus des droits exigibles, sauf recours contre le redevable.

@@ -10,4 +10,4 @@ La décision de non-lieu ou de relaxe emporte de plein droit, aux frais du Trés
 
 III. - La recherche, la constatation et la poursuite des infractions mentionnées au I sont effectuées dans les conditions fixées par le présent code.
 
-Dans le cas où l'amende prévue au I est infligée, la majoration de 40 % mentionnée au premier alinéa de l'article 1759 du code général des impôts n'est pas appliquée.
+Dans le cas où l'amende prévue au I est infligée, la majoration de 40 % mentionnée au premier alinéa de l'article 1758 du code général des impôts n'est pas appliquée.

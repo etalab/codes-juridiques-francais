@@ -20,6 +20,6 @@ La liste concernant la taxe départementale sur le revenu est complétée, dans 
 
 I ter. L'administration recueille, chaque année, les observations et avis que la commission communale des impôts directs prévue à l'article 1650 du code général des impôts peut avoir à formuler sur ces listes.
 
-La publication ou la diffusion par tout autre moyen, soit des listes prévues ci-dessus, soit de toute indication se rapportant à ces listes et visant des personnes nommément désignées est interdite, sous peine de l'amende fiscale prévue à l'article 1768 ter du code précité.
+La publication ou la diffusion par tout autre moyen, soit des listes prévues ci-dessus, soit de toute indication se rapportant à ces listes et visant des personnes nommément désignées est interdite, sous peine de l'amende fiscale prévue à l'article 1762 du code précité.
 
 II. Les créanciers d'aliments dont la qualité est reconnue par une décision de justice peuvent consulter les  listes mentionnées aux I et I bis détenues par la direction des services fiscaux dans le ressort de laquelle l'imposition du débiteur est établie.

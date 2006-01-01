@@ -1,3 +1,5 @@
 # Article 1784
 
-Lorsque les amendes fiscales prévues aux articles 1725 et 1726 ne sont pas applicables, l'inobservation de l'une quelconque des formalités prescrites par les articles 286, 290 bis, 290 sexies et 293 E ainsi que la délivrance des pièces prévues à l'article 290 bis qui comporteraient des énonciations erronées pourront faire l'objet d'une amende fiscale de 7,5 euros.
+Par dérogation aux dispositions des articles 1727 et 1731, aucun intérêt de retard ni aucune majoration n'est applicable dans le cas où l'acompte déterminé selon les règles fixées à l'article 1693 se révèle inférieur de 20 % au plus à la somme réellement due.
+
+Dans le cas où un acompte mentionné au 3 de l'article 287 est acquitté hors délai ou indûment minoré, le montant mis à la charge du redevable est majoré de 10 %.

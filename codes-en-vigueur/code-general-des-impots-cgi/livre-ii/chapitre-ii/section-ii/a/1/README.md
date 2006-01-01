@@ -1,15 +1,8 @@
 # 1 : Majorations de droits
 
 - [Article 1757](article-1757.md)
-- [Article 1758 bis](article-1758-bis.md)
-- [Article 1758 ter](article-1758-ter.md)
+- [Article 1758](article-1758.md)
 - [Article 1758 A](article-1758-a.md)
 - [Article 1759](article-1759.md)
 - [Article 1761](article-1761.md)
 - [Article 1762](article-1762.md)
-- [Article 1762 quater](article-1762-quater.md)
-- [Article 1762 quinquies](article-1762-quinquies.md)
-- [Article 1762 sexies](article-1762-sexies.md)
-- [Article 1762 septies](article-1762-septies.md)
-- [Article 1762 octies](article-1762-octies.md)
-- [Article 1762 nonies](article-1762-nonies.md)
