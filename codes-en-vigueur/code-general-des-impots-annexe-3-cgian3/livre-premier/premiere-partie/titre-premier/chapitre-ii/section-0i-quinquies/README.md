@@ -6,5 +6,3 @@
 - [Article 46 quindecies H](article-46-quindecies-h.md)
 - [Article 46 quindecies J](article-46-quindecies-j.md)
 - [Article 46 quindecies K](article-46-quindecies-k.md)
-- [Article 46 quindecies LA](article-46-quindecies-la.md)
-- [Article 46 quindecies LB](article-46-quindecies-lb.md)
