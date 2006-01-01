@@ -1,4 +1,4 @@
-# Sous-section 5 : Redressement et liquidation judiciaires
+# Sous-section 5 : Sauvegarde, redressement et liquidation judiciaires
 
 - [Article L515-25](article-l515-25.md)
 - [Article L515-26](article-l515-26.md)
