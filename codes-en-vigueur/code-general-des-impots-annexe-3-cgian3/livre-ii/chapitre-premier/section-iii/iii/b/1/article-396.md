@@ -6,7 +6,7 @@ Le crédit de paiement fractionné prévu à l'article 1717 du code général de
 
 2° des apports en société prévus aux 3° du I et au II de l'article 809 du code précité ;
 
-3° des acquisitions effectuées dans le cadre des dispositions des articles L. 621-83 ou L. 622-17 du code de commerce ;
+3° des acquisitions effectuées dans le cadre des dispositions des articles L. 626-1, L. 631-22 et L. 642-1 du code de commerce ;
 
 4° des paiements d'indemnités entre officiers publics et ministériels par suite de suppression d'offices ;
 

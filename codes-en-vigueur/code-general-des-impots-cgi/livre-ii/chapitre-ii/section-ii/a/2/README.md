@@ -2,8 +2,10 @@
 
 - [Article 1761](article-1761.md)
 - [Article 1763](article-1763.md)
+- [Article 1763 C](article-1763-c.md)
 - [Article 1763 D](article-1763-d.md)
 - [Article 1763 A](article-1763-a.md)
+- [Article 1763 B](article-1763-b.md)
 - [Article 1764](article-1764.md)
 - [Article 1765 bis](article-1765-bis.md)
 - [Article 1766](article-1766.md)

@@ -1,0 +1,7 @@
+# Article L117-1
+
+Il est proposé, dans une langue qu'il comprend, à tout étranger admis pour la première fois au séjour en France en vue d'une installation durable de conclure, individuellement, avec l'Etat un contrat d'accueil et d'intégration. Ce contrat a pour objet de préciser les conditions dans lesquelles l'étranger signataire bénéficie d'actions, tenant compte de sa situation et de son parcours personnel et destinées à favoriser son intégration dans le respect des lois et des valeurs fondamentales de la République française. Ces actions comprennent notamment, lorsque le besoin en est établi, une formation linguistique sanctionnée par une validation des acquis.
+
+Pour l'appréciation de la condition d'intégration républicaine de l'étranger dans la société française prévue au premier alinéa de l'article L. 314-2 du code de l'entrée et du séjour des étrangers et du droit d'asile, il est tenu compte de la signature par l'étranger d'un contrat d'accueil et d'intégration ainsi que du respect de ce contrat.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article. Il détermine les catégories d'étrangers bénéficiaires du contrat d'accueil et d'intégration, la durée du contrat et ses conditions de renouvellement, les actions prévues au contrat et les conditions de suivi et de validation de ces actions, dont la reconnaissance de l'acquisition d'un niveau satisfaisant de maîtrise de la langue française.

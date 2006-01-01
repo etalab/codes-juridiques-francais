@@ -12,9 +12,9 @@ c. Le maître d'ouvrage définit et met en oeuvre un système de management envi
 
 2° Critère relatif aux modalités de réalisation de la construction :
 
-Le maître d'ouvrage définit les objectifs visant à réduire les nuisances du chantier telles que les rejets d'eau, l'émission de poussières, les bruits, la circulation des engins et véhicules des entreprises, et à améliorer la gestion des déchets du chantier afin d'en réduire le volume, d'en promouvoir le tri et d'en assurer la traçabilité.
+a. Le maître d'ouvrage définit les objectifs visant à réduire les nuisances du chantier telles que les rejets d'eau, l'émission de poussières, les bruits, la circulation des engins et véhicules des entreprises, et à améliorer la gestion des déchets du chantier afin d'en réduire le volume, d'en promouvoir le tri et d'en assurer la traçabilité ;
 
-Le dossier de consultation des entreprises chargées des travaux de construction prévoit que celles-ci doivent fournir leur plan d'organisation dans le cadre du chantier et un plan de gestion de leurs déchets répondant aux exigences précitées ;
+b. Le dossier de consultation des entreprises chargées des travaux de construction prévoit que celles-ci doivent fournir leur plan d'organisation dans le cadre du chantier et un plan de gestion de leurs déchets répondant aux exigences précitées ;
 
 3° Critère relatif aux performances énergétique et acoustique :
 

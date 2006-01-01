@@ -7,3 +7,4 @@
 - [Section VI bis : Taxe sur les nuisances sonores aériennes](section-vi-bis)
 - [Section VIII : Taxe pour le développement de la formation professionnelle dans les métiers de la réparation de l'automobile, du cycle et du motocycle](section-viii)
 - [Section IX : Taxe d'abattage](section-ix)
+- [Section X : Contribution perçue au profit de l'Institut national de prévention et d'éducation pour la santé](section-x)

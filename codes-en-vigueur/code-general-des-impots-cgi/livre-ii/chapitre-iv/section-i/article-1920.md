@@ -1,6 +1,6 @@
 # Article 1920
 
-1. Le privilège du Trésor en matière de contributions directes et taxes assimilées s'exerce avant tout autre sur les meubles et effets mobiliers appartenant aux redevables en quelque lieu qu'ils se trouvent. Ce privilège s'exerce, lorsqu'il n'existe pas d'hypothèques conventionnelles, sur tout le matériel servant à l'exploitation d'un établissement commercial, même lorsque ce matériel est réputé immeuble par application des dispositions de l'article 524-1 du code civil.
+1. Le privilège du Trésor en matière de contributions directes et taxes assimilées s'exerce avant tout autre sur les meubles et effets mobiliers appartenant aux redevables en quelque lieu qu'ils se trouvent. Ce privilège s'exerce, lorsqu'il n'existe pas d'hypothèques conventionnelles, sur tout le matériel servant à l'exploitation d'un établissement commercial, même lorsque ce matériel est réputé immeuble par application des dispositions du premier alinéa de l'article 524 du code civil.
 
 2. Le privilège établi au 1 s'exerce en outre :
 

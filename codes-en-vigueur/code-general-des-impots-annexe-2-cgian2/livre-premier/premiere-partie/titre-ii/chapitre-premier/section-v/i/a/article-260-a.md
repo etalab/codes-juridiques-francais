@@ -1,6 +1,6 @@
 # Article 260 A
 
-Sont passibles de la taxe sur la valeur ajoutée, dans les conditions prévues aux articles 298 bis, 1693 bis et 1785 D du code général des impôts, les opérations ci-après réalisées par les exploitants agricoles :
+Sont passibles de la taxe sur la valeur ajoutée, dans les conditions prévues aux articles 298 bis, 1693 bis et 1785 du code général des impôts, les opérations ci-après réalisées par les exploitants agricoles :
 
 a. Ventes de produits agricoles réalisées :
 

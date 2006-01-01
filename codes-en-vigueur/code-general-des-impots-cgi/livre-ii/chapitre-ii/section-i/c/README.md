@@ -1,5 +1,7 @@
-# C : Autres sanctions et mesures diverses.
+# C : Sanctions pénales
 
+- [Article 1741](article-1741.md)
+- [Article 1743](article-1743.md)
 - [Article 1755](article-1755.md)
 - [Article 1756](article-1756.md)
 - [Article 1756 bis](article-1756-bis.md)

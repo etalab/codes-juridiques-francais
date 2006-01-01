@@ -40,3 +40,4 @@
 - [Article 217 duodecies](article-217-duodecies.md)
 - [Article 217 terdecies](article-217-terdecies.md)
 - [Article 217 quaterdecies](article-217-quaterdecies.md)
+- [Article 217 quindecies](article-217-quindecies.md)

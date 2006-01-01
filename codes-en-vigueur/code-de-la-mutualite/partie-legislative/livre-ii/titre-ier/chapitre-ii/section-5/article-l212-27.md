@@ -8,6 +8,6 @@ Les mesures d'assainissement mentionnées au premier alinéa sont, lorsqu'elles 
 
 2° La sanction prévue au 3° de l'article L. 510-11, le retrait partiel d'agrément prévu au 6° ou le transfert partiel de portefeuille prévu au 7° du même article ;
 
-3° Les procédures de règlement amiable visées au titre Ier du livre VI du code de commerce ;
+3° (abrogé)
 
-4° Les procédures de redressement judiciaire visées au titre II du livre VI du code de commerce.
+4° Les procédures de redressement judiciaire visées au livre VI du code de commerce.

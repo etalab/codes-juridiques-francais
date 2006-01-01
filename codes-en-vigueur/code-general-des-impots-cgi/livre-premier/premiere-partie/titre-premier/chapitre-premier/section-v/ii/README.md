@@ -9,6 +9,7 @@
 - [19° : Réduction d'impôt accordée au titre des prestations compensatoires réglées en capital ou par attribution d'un bien ou d'un droit](19)
 - [2° : Réduction d'impôt accordée aux adhérents de centres de gestion ou d'associations agréés](2)
 - [20° : Réduction d'impôt accordée au titre des dons faits par les particuliers](20)
+- [23° : Crédit d'impôt pour dépenses d'équipement de l'habitation principale](23)
 - [24° : Crédit d'impôt pour l'acquisition ou la location de certains véhicules automobiles.](24)
 - [25° : Prime pour l'emploi](25)
 - [3° : Réduction d'impôt accordée au titre des cotisations versées aux organisations syndicales](3)

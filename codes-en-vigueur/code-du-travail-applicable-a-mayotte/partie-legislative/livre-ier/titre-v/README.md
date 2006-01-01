@@ -6,3 +6,4 @@
 - [CHAPITRE IV : Groupements d'employeurs.](chapitre-iv)
 - [CHAPITRE V : Conventions et accords collectifs de travail.](chapitre-v)
 - [CHAPITRE VI : Salaire  - Retenues sur le salaire  - Economat.](chapitre-vi)
+- [Chapitre VII : Corruption et violation des secrets de fabrique](chapitre-vii)

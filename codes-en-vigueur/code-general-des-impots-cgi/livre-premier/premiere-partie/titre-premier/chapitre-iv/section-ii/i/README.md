@@ -26,5 +26,6 @@
 - [Article 238 bis GA](article-238-bis-ga.md)
 - [Article 238 bis GB](article-238-bis-gb.md)
 - [Article 238 bis GC](article-238-bis-gc.md)
+- [Article 238 bis GD](article-238-bis-gd.md)
 - [Article 238 A](article-238-a.md)
 - [Article 238 B](article-238-b.md)

@@ -36,7 +36,7 @@ VI. - Les tarifs sont applicables dans les conditions suivantes :
 
 2°) deuxième circonscription : 5e, 10e, 11e, 12e, 13e, 18e, 19e, 20e arrondissements de Paris et arrondissement d'Antony du département des Hauts-de-Seine ainsi que les départements de la Seine-Saint-Denis et du Val-de-Marne ;
 
-3°) troisième circonscription : départements de la Seine-et-Marne, des Yvelines, de l'Essonne et du Val-d'Oise. A compter de la promulgation de la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains, les communes des autres départements éligibles à la dotation de solidarité urbaine prévue à l'article L. 2334-15 du code général des collectivités territoriales sont réputées appartenir à la troisième circonscription.
+3°) troisième circonscription : départements de la Seine-et-Marne, des Yvelines, de l'Essonne et du Val-d'Oise. A compter de la promulgation de la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains, les communes des autres départements éligibles à la dotation de solidarité urbaine et de cohésion sociale prévue à l'article L. 2334-15 du code général des collectivités territoriales sont réputées appartenir à la troisième circonscription.
 
 Dans chaque circonscription, ce tarif est réduit pour les locaux possédés par l'Etat, les collectivités territoriales, les organismes ou les établissements publics sans caractère industriel ou commercial, les organismes professionnels ainsi que les associations ou organismes privés sans but lucratif à caractère sanitaire, social, éducatif, sportif ou culturel et dans lesquels ils exercent leur activité.
 
@@ -72,6 +72,6 @@ VI bis - Pour l'application des dispositions des V et VI, les parcs d'exposition
 
 VII. - Les redevables sont tenus de déposer une déclaration accompagnée du paiement de la taxe, avant le 1er mars de chaque année, auprès du comptable du Trésor du lieu de situation des locaux imposables.
 
-VIII. - Le contrôle, le recouvrement, le contentieux, les garanties et les sanctions relatifs à la taxe sont régis par les règles applicables en matière de taxe sur les salaires jusqu'au 31 décembre 2003 (1).
+VIII. - Le contrôle, le recouvrement, le contentieux, les garanties et les sanctions relatifs à la taxe sont régis par les règles applicables en matière de taxe sur les salaires jusqu'au 31 décembre 2003.
 
 Le privilège prévu au 1° du 2 de l'article 1920 peut être exercé pour le recouvrement de la taxe.

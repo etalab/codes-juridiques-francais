@@ -10,7 +10,7 @@ Toutefois, cette condition n'est pas exigée dans les cas suivants :
 
 a) Lorsque le bénéficiaire de l'avance remboursable ou l'un des occupants du logement à titre principal est titulaire de la carte d'invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale ;
 
-b) Lorsque le bénéficiaire de l'avance remboursable ou l'un des occupants de la résidence à titre principal bénéficie d'une allocation attribuée en vertu des dispositions des articles L. 821-1 à L. 821-9 ou L. 541-1 à L. 541-3 du même code ;
+b) Lorsque le bénéficiaire de l'avance remboursable ou l'un des occupants de la résidence à titre principal bénéficie d'une allocation attribuée en vertu des dispositions des articles L. 821-1 à L. 821-8 ou L. 541-1 à L. 541-3 du même code ;
 
 c) Lorsque le bénéficiaire de l'avance remboursable ou l'un des occupants de la résidence à titre principal est victime d'une catastrophe ayant conduit à rendre inhabitable de manière définitive sa résidence principale.
 

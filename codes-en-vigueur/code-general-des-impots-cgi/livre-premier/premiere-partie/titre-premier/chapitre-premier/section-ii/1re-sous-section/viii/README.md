@@ -1,6 +1,7 @@
 # VIII : Dispositions communes aux différentes catégories de revenus
 
 - [1 : Détermination des revenus des avoirs à l'étranger](1)
+- [1 bis : Rémunération perçue par les médecins au titre de la permanence des soins](1-bis)
 - [1 ter : Imposition des plus-values réalisées dans le cadre d'un bail à construction](1-ter)
 - [1 quater : Plus-values réalisées dans le cadre d'une activité agricole, artisanale, commerciale ou libérale](1-quater)
 - [1 quinquies : Plus-values réalisées à l'occasion d'apports en sociétés ou de restructuration de sociétés civiles professionnelles](1-quinquies)

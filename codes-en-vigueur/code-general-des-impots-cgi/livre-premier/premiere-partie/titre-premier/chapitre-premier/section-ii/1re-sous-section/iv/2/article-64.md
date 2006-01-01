@@ -1,6 +1,6 @@
 # Article 64
 
-1. Sous réserve des dispositions des articles 68 F à 74 B, le bénéfice imposable des exploitations situées en France est déterminé forfaitairement conformément aux prescriptions des 2 à 5.
+1. Sous réserve des dispositions des articles 69 à 74 B, le bénéfice imposable des exploitations situées en France est déterminé forfaitairement conformément aux prescriptions des 2 à 5.
 
 2. Le bénéfice forfaitaire est déterminé, dans les conditions prévues aux articles L 1 à L 4 du livre des procédures fiscales, par hectare, pour chaque catégorie ou chaque nature d'exploitation, d'après la valeur des récoltes levées et des autres produits de la ferme réalisés au cours de l'année civile diminuée des charges immobilières et des frais et charges supportés au cours de la même année à l'exception du fermage.
 
@@ -16,6 +16,8 @@ Les majorations forfaitaires des valeurs locatives effectuées entre deux actual
 
 L'évaluation du bénéfice forfaitaire à l'hectare doit être faite de telle façon que les chiffres fixés dans un département correspondent à ceux établis dans un département voisin pour des terres de productivité semblable.
 
+Afin de tenir compte de la spécificité de la culture des arbres truffiers, les revenus issus de cette production ne sont des bénéfices imposables forfaitairement qu'à l'issue de la quinzième année qui suit la plantation.
+
 3. Sous réserve du cas visé au deuxième alinéa du 2, le bénéfice forfaitaire de chaque exploitation est obtenu en multipliant le bénéfice forfaitaire moyen à l'hectare correspondant à la catégorie ou à la nature de l'exploitation considérée par la superficie de cette exploitation.
 
 Toutefois, il est fait abstraction de la superficie des terrains qualifiés landes au cadastre et autres terrains incultivables, exception faite, quand il y a plusieurs catégories de landes, de celles de la première catégorie.
@@ -28,4 +30,4 @@ Ce montant est déterminé défalcation faite des charges immobilières qui ont 
 
 5. En cas de calamités telles que grêle, gelée, inondation, dégâts occasionnés par les rongeurs sur les récoltes en terre, mortalité du bétail, l'exploitant peut demander que le bénéfice forfaitaire de son exploitation soit réduit du montant des pertes subies par ses récoltes ou sur son cheptel à condition de présenter, soit une attestation du maire de sa commune en ce qui concerne les sinistres sur les récoltes, soit un certificat dûment établi par le vétérinaire et légalisé par la mairie s'il s'agit de pertes de bétail.
 
-Le tribunal peut prononcer la déchéance du bénéfice de la mesure prévue au premier alinéa à l'encontre des contrevenants aux dispositions des articles L223-18 à L223-22 du code rural.
+Le tribunal peut prononcer la déchéance du bénéfice de la mesure prévue au premier alinéa à l'encontre des contrevenants aux dispositions des articles L223-18 à L223-19 du code rural.

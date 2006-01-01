@@ -12,3 +12,6 @@
 - [Article D323-25-3](article-d323-25-3.md)
 - [Article D323-25-4](article-d323-25-4.md)
 - [Article D323-25-5](article-d323-25-5.md)
+- [Article D323-26](article-d323-26.md)
+- [Article D323-27](article-d323-27.md)
+- [Article D323-28](article-d323-28.md)

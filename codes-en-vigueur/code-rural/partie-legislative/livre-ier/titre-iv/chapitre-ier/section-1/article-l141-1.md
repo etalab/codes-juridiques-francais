@@ -2,7 +2,7 @@
 
 I. - Des sociétés d'aménagement foncier et d'établissement rural peuvent être constituées pour contribuer, en milieu rural, à la mise en oeuvre du volet foncier de la politique d'aménagement et de développement durable du territoire rural, dans le cadre des objectifs définis à l'article L. 111-2.
 
-Elles ont pour mission d'améliorer les structures foncières par l'installation ou le maintien d'exploitants agricoles ou forestiers, par l'accroissement de la superficie de certaines exploitations agricoles ou forestières, par la mise en valeur des sols et, éventuellement, par l'aménagement et le remaniement parcellaires. Elles peuvent concourir à la préservation de l'environnement. Elles assurent la transparence du marché foncier rural.
+Elles ont pour mission d'améliorer les structures foncières par l'installation ou le maintien d'exploitants agricoles ou forestiers, par l'accroissement de la superficie de certaines exploitations agricoles ou forestières, par la mise en valeur des sols et, éventuellement, par l'aménagement et le remaniement parcellaires. Elles concourent à la diversité des paysages, à la protection des ressources naturelles et au maintien de la diversité biologique. Elles assurent la transparence du marché foncier rural.
 
 Les collectivités publiques et les personnes morales représentatives des intérêts économiques, environnementaux et sociaux, à caractère rural, peuvent participer à leur capital social.
 

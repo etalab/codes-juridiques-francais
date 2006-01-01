@@ -15,3 +15,5 @@
 - [Article 1788 septies](article-1788-septies.md)
 - [Article 1788 octies](article-1788-octies.md)
 - [Article 1788 nonies](article-1788-nonies.md)
+- [Article 1788 A](article-1788-a.md)
+- [Article 1788 B](article-1788-b.md)
