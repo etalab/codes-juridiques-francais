@@ -18,4 +18,6 @@ Les crédits de paiement constituent la limite supérieure des dépenses pouvant
 
 L'équilibre budgétaire de la section de fonctionnement s'apprécie en tenant compte des seuls crédits de paiement.
 
-III. - Un état récapitulatif des autorisations d'engagement et de programme est joint aux documents budgétaires.
+III. - Les modalités de gestion des autorisations de programme, des autorisations d'engagement et des crédits de paiement y afférents sont précisées dans le règlement budgétaire et financier du département.
+
+La situation des autorisations d'engagement et de programme, ainsi que des crédits de paiement y afférents donne lieu à un état joint aux documents budgétaires.
