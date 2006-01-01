@@ -6,6 +6,5 @@
 - [3° : Obligations des dépositaires publics de fonds](3)
 - [4° : Responsabilité des dirigeants et gérants de sociétés](4)
 - [5° : Vente de fonds de commerce](5)
-- [6° : Liquidation des biens.](6)
 - [7° : Liquidation judiciaire](7)
 - [8° : Procédure accélérée](8)
