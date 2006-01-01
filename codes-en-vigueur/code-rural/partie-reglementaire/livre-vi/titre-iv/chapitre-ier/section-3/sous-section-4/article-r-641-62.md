@@ -6,7 +6,7 @@ I. - Sont membres de chaque comité régional vins et eaux-de-vie, sur désignat
 
 2° Un directeur départemental de l'agriculture et de la forêt ;
 
-3° Un délégué régional de l'Office national interprofessionnel des vins.
+3° Un délégué régional de l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture.
 
 II. - Sont également membres de chaque comité régional, sur désignation des ministres chargés de l'économie, des finances et du budget :
 
