@@ -1,26 +1,22 @@
 # Article Annexe Tableau IV
 
-**Tableau IV**
-
-**Siège et ressort des tribunaux compétents pour connaître des actions en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection, de topographies de produits semi-conducteurs et d'obtentions végétales**
+**Siège et ressort des tribunaux compétents pour connaître des actions en matière d'obtentions végétales**
 
 <table>
 <tbody>
 <tr>
 <td width="307">
-<p align="center">
-<strong>TRIBUNAUX DE GRANDE INSTANCE</strong>
-</p>
+<p align="center">TRIBUNAUX DE GRANDE INSTANCE</p>
 </td>
 <td width="307">
-<p align="center">
-<strong>COMPÉTENCE TERRITORIALE<br/>
-</strong>s'étendant aux départements compris dans le ressort des cours d'appel de :</p>
+<p align="center">COMPÉTENCE TERRITORIALE<br/>s'étendant aux départements compris dans le ressort des cours d'appel de :</p>
 </td>
 </tr>
 <tr>
 <td colspan="2" width="614">
-<p align="center">Cour d'appel d'Aix</p>
+<p align="center">
+<strong>Cour d'appel d'Aix</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -33,7 +29,9 @@
 </tr>
 <tr>
 <td colspan="2" width="614">
-<p align="center">Cour d'appel de Bordeaux</p>
+<p align="center">
+<strong>Cour d'appel de Bordeaux</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +44,9 @@
 </tr>
 <tr>
 <td colspan="2" width="614">
-<p align="center">Cour d'appel de Colmar</p>
+<p align="center">
+<strong>Cour d'appel de Colmar</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +59,9 @@
 </tr>
 <tr>
 <td colspan="2" width="614">
-<p align="center">Cour d'appel de Douai</p>
+<p align="center">
+<strong>Cour d'appel de Douai</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +74,9 @@
 </tr>
 <tr>
 <td colspan="2" width="614">
-<p align="center">Cour d'appel de Limoges</p>
+<p align="center">
+<strong>Cour d'appel de Limoges</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -85,7 +89,9 @@
 </tr>
 <tr>
 <td colspan="2" width="614">
-<p align="center">Cour d'appel de Lyon</p>
+<p align="center">
+<strong>Cour d'appel de Lyon</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +104,9 @@
 </tr>
 <tr>
 <td colspan="2" width="614">
-<p align="center">Cour d'appel de Nancy</p>
+<p align="center">
+<strong>Cour d'appel de Nancy</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +119,9 @@
 </tr>
 <tr>
 <td colspan="2" width="614">
-<p align="center">Cour d'appel de Paris</p>
+<p align="center">
+<strong>Cour d'appel de Paris</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +134,9 @@
 </tr>
 <tr>
 <td colspan="2" width="614">
-<p align="center">Cour d'appel de Rennes</p>
+<p align="center">
+<strong>Cour d'appel de Rennes</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +149,9 @@
 </tr>
 <tr>
 <td colspan="2" width="614">
-<p align="center">Cour d'appel de Toulouse</p>
+<p align="center">
+<strong>Cour d'appel de Toulouse</strong>
+</p>
 </td>
 </tr>
 <tr>
