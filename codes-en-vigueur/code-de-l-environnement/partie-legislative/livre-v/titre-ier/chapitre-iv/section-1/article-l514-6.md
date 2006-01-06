@@ -8,7 +8,7 @@ I. - Les décisions prises en application des articles L. 512-1, L. 512-3, L. 51
 
 II. - Les dispositions du 2° du I ne sont pas applicables aux décisions concernant les autorisations d'exploitation de carrières pour lesquelles le délai de recours est fixé à six mois à compter de l'achèvement des formalités de publicité de la déclaration de début d'exploitation transmise par l'exploitant au préfet.
 
-Elles ne sont pas non plus applicables aux décisions concernant les autorisations d'exploitation d'installations classées concourant à l'exécution de services publics locaux ou de services d'intérêt général pour lesquelles le délai de recours est fixé à un an à compter de l'achèvement des formalités de publicité de la déclaration de début d'exploitation transmise par l'exploitant au préfet.
+Elles ne sont pas non plus applicables aux décisions concernant les autorisations d'exploitation d'installations classées d'élevage, liées à l'élevage ou concourant à l'exécution de services publics locaux ou de services d'intérêt général pour lesquelles le délai de recours est fixé à un an à compter de l'achèvement des formalités de publicité de la déclaration de début d'exploitation transmise par l'exploitant au préfet.
 
 III. - Les tiers qui n'ont acquis ou pris à bail des immeubles ou n'ont élevé des constructions dans le voisinage d'une installation classée que postérieurement à l'affichage ou à la publication de l'arrêté autorisant l'ouverture de cette installation ou atténuant les prescriptions primitives ne sont pas recevables à déférer ledit arrêté à la juridiction administrative.
 
