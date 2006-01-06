@@ -1,8 +1,8 @@
-# Article L224-5
+# Article L325-3-1
 
-I. - Le fait, pour tout conducteur d'un véhicule, de faire obstacle à l'immobilisation de celui-ci est puni de trois mois d'emprisonnement et de 3 750 euros d'amende.
+I.-Le fait, pour tout conducteur d'un véhicule, de faire obstacle à l'immobilisation de celui-ci ou à un ordre d'envoi en fourrière est puni de trois mois d'emprisonnement et de 3 750 euros d'amende.
 
-II. - Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
+II.-Toute personne physique coupable de ce délit encourt également les peines complémentaires suivantes :
 
 1° La suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité professionnelle ;
 
@@ -10,4 +10,4 @@ II. - Toute personne coupable de ce délit encourt également les peines complé
 
 3° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal.
 
-III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.
+III.-Ce délit donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.

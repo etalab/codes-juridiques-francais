@@ -7,3 +7,5 @@ Les régions intéressées participent au service public de la formation des off
 L'Etat fixe les conditions d'accès aux formations des officiers de la marine marchande, ainsi que des personnels appelés à des fonctions techniques, de sécurité et de sûreté en matière maritime et portuaire. Il détermine les programmes de formation, l'organisation des études, les modalités d'évaluation des étudiants. Il délivre les diplômes ou les attestations suivant la nature de la formation.
 
 Les règles d'administration des écoles de la marine marchande sont fixées par décret en Conseil d'Etat.
+
+Les dispositions de l'article L. 421-21 sont applicables aux élèves des écoles de la marine marchande.
