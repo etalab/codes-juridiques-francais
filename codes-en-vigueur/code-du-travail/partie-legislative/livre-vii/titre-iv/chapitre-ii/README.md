@@ -1,6 +1,7 @@
 # Chapitre II : Marins.
 
 - [Article L742-1](article-l742-1.md)
+- [Article L742-1-1](article-l742-1-1.md)
 - [Article L742-2](article-l742-2.md)
 - [Article L742-3](article-l742-3.md)
 - [Article L742-4](article-l742-4.md)
@@ -11,3 +12,4 @@
 - [Article L742-9](article-l742-9.md)
 - [Article L742-10](article-l742-10.md)
 - [Article L742-11](article-l742-11.md)
+- [Article L742-12](article-l742-12.md)

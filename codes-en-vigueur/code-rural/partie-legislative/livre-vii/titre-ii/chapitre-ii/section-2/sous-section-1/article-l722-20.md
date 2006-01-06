@@ -12,7 +12,13 @@ Le régime de protection sociale des salariés des professions agricoles est app
 
 5° Personnels enseignants des établissements d'enseignement et de formation professionnelle agricoles privés mentionnés à l'article L. 813-8 ;
 
-6° Salariés des organismes de mutualité agricole, des caisses de crédit agricole mutuel, des chambres d'agriculture, du Centre national pour l'aménagement des structures des exploitations agricoles, des coopératives agricoles, des sociétés d'intérêt collectif agricole, des sociétés à caractère coopératif dites fruitières, des sociétés agricoles diverses, des syndicats agricoles, des associations syndicales de propriétaires dont l'objet est agricole et, d'une manière générale, de tout groupement professionnel agricole, ainsi que de toute société ou groupement créé après le 31 décembre 1988, dans leur champ d'activité, par les organismes précités, à condition que leur participation constitue plus de 50 % du capital, de même que les personnels non titulaires de l'établissement "Domaine de Pompadour" dont les contrats ont été transférés à l'Etablissement public Les Haras nationaux ;
+6° Salariés des organismes de mutualité agricole, des caisses de crédit agricole mutuel, des chambres d'agriculture, du Centre national pour l'aménagement des structures des exploitations agricoles, des coopératives agricoles, des sociétés d'intérêt collectif agricole, des sociétés à caractère coopératif dites fruitières, des sociétés agricoles diverses, des syndicats agricoles, des associations syndicales de propriétaires dont l'objet est agricole et, d'une manière générale, de tout groupement professionnel agricole, de même que les personnels non titulaires de l'établissement "Domaine de Pompadour" dont les contrats ont été transférés à l'Etablissement public Les Haras nationaux ;
+
+6° bis Salariés de toute société ou groupement créé après le 31 décembre 1988, dans leur champ d'activité, par les organismes cités au 6°, à condition que leur participation constitue plus de 50 % du capital ;
+
+6° ter Salariés des filiales créées après le 31 décembre 2005 par les sociétés ou groupements mentionnés au 6° bis, à la condition que ces filiales se situent dans leur champ d'activité et que lesdits sociétés et groupements détiennent plus de 50 % du capital de ces filiales ;
+
+6° quater Salariés des organismes, sociétés et groupements mentionnés aux 6°, 6° bis et 6° ter, lorsqu'intervient une modification de la forme ou des statuts desdits organismes, sociétés et groupements, dès lors que cette modification n'entraîne pas la création d'une personne morale nouvelle ;
 
 7° Apprentis et, sous réserve des dispositions de l'article L. 962-4 du code du travail, stagiaires relevant du régime des assurances sociales agricoles occupés dans les exploitations, entreprises, organismes et groupements ci-dessus énumérés ;
 
@@ -22,6 +28,8 @@ Le régime de protection sociale des salariés des professions agricoles est app
 
 10° Dirigeants des associations ayant un objet agricole, remplissant les conditions prévues au deuxième alinéa du d du 1° du 7 de l'article 261 du code général des impôts ;
 
-11° Administrateurs des groupements mutualistes relevant du 6° du présent article, dès lors qu'ils perçoivent une indemnité de fonction et ne relèvent pas, à titre obligatoire, d'un régime de sécurité sociale.
+11° Administrateurs des groupements mutualistes relevant du 6° du présent article, dès lors qu'ils perçoivent une indemnité de fonction et ne relèvent pas, à titre obligatoire, d'un régime de sécurité sociale ;
+
+12° Salariés des centres de gestion agréés et des associations de gestion et de comptabilité dont les statuts prévoient que le conseil d'administration est composé en majorité de membres désignés par des organisations professionnelles agricoles ou des chambres d'agriculture.
 
 Les salariés et assimilés définis au présent article sont désignés dans les titres II à VI du présent livre par les termes salariés agricoles.

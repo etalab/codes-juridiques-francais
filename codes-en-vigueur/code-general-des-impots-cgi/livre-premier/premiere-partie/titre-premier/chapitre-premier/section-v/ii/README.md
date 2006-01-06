@@ -32,5 +32,7 @@
 - [Article 199](article-199.md)
 - [11° bis : Réduction d'impôt accordée au titre des investissements immobiliers locatifs réalisés dans des résidences de tourisme classées dans les zones de revitalisation rurales](11-bis)
 - [19° bis : Réduction d'impôt au titre de la souscription de la déclaration de revenus par voie électronique associée au paiement de l'impôt correspondant par voie de prélèvement ou électronique](19-bis)
+- [29° bis : Réduction d'impôt au titre des cotisations versées aux associations syndicales chargées du défrichement forestier](29-bis)
 - [11° ter : Réduction d'impôt au titre 
 d'investissements ou de travaux forestiers](11-ter)
+- [19° quater : Réduction d'impôt au titre des intérêts du différé de paiement accordé lors de la transmission d'une exploitation agricole](19-quater)

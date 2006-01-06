@@ -8,3 +8,4 @@
 - [Article L143-6](article-l143-6.md)
 - [Article L143-7](article-l143-7.md)
 - [Article L143-7-1](article-l143-7-1.md)
+- [Article L143-7-2](article-l143-7-2.md)

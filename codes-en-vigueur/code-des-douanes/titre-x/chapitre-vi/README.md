@@ -6,3 +6,4 @@
 - [Article 285 quater](article-285-quater.md)
 - [Article 285 quinquies](article-285-quinquies.md)
 - [Article 285 sexies](article-285-sexies.md)
+- [Article 285 septies](article-285-septies.md)

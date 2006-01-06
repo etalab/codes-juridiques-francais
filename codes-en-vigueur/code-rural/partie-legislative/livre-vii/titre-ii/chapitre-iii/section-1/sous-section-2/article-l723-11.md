@@ -24,4 +24,6 @@ d) En passant des conventions dans les matières et avec les organismes définis
 
 7° De promouvoir la prévention des accidents du travail des salariés agricoles ;
 
-8° De promouvoir la prévention des accidents du travail des personnes non salariées mentionnées à l'article L. 752-1.
+8° De promouvoir la prévention des accidents du travail des personnes non salariées mentionnées à l'article L. 752-1 ;
+
+9° De contribuer au développement sanitaire et social des territoires ruraux et, par ses avis, à la définition des orientations et des conditions de mise en oeuvre de la politique de développement rural en matière sanitaire et sociale.

@@ -26,13 +26,13 @@ Ce groupement doit s'engager en outre :
 
 c. que les parts aient été détenues depuis plus de deux ans par le donateur ou le défunt, lorsqu'elles ont été acquises à titre onéreux à compter du 5 septembre 1979.
 
-4° Les parts des groupements fonciers agricoles et celles des groupements agricoles fonciers, créés conformément à la loi n° 62-933 du 8 août 1962 et répondant aux diverses caractéristiques des articles L. 322-1 à L. 322-21, L322-23 et L322-24 du code rural, à concurrence des trois-quarts de la fraction de la valeur nette des biens donnés à bail à long terme, sous réserve des dispositions de l'article 793 bis, à condition :
+4° Les parts des groupements fonciers agricoles et celles des groupements agricoles fonciers, créés conformément à la loi n° 62-933 du 8 août 1962 et répondant aux diverses caractéristiques des articles L. 322-1 à L. 322-21, L322-23 et L322-24 du code rural, à concurrence des trois-quarts de la fraction de la valeur nette des biens donnés à bail à long terme ou à bail cessible, sous réserve des dispositions de l'article 793 bis, à condition :
 
-Que les statuts du groupement lui interdisent l'exploitation en faire-valoir direct ;
+a) Que les statuts du groupement lui interdisent l'exploitation en faire-valoir direct ;
 
-Que les fonds agricoles constituant le patrimoine du groupement aient été donnés à bail à long terme dans les conditions prévues par les articles L. 416-1 à L. 416-6, L. 416-8 et L. 416-9 du code rural ;
+b) Que les fonds agricoles constituant le patrimoine du groupement aient été donnés à bail à long terme dans les conditions prévues par les articles L. 416-1 à L. 416-6, L. 416-8 et L. 416-9 du code rural ou à bail cessible dans les conditions prévues par les articles L. 418-1 à L. 418-5 du code rural ;
 
-Que les parts aient été détenues depuis deux ans au moins par le donateur ou le défunt.
+c )Que les parts aient été détenues depuis deux ans au moins par le donateur ou le défunt.
 
 Ce délai n'est pas exigé lorsque le donateur ou le défunt ont été parties au contrat de constitution du groupement foncier agricole et, à ce titre, ont effectué des apports constitués exclusivement par des immeubles ou des droits immobiliers à destination agricole.
 
@@ -58,9 +58,9 @@ b. qu'il contienne l'engagement par l'héritier, le légataire ou le donataire, 
 
 - soit lorsque, au moment de la mutation, aucune garantie de gestion durable n'est appliquée aux bois et forêts en cause, de présenter dans le délai de trois ans à compter de la mutation et d'appliquer jusqu'à l'expiration du délai de trente ans précité une telle garantie. Dans cette situation, le bénéficiaire s'engage en outre à appliquer le régime d'exploitation normale prévu au décret du 28 juin 1930 aux bois et forêts pendant le délai nécessaire à la présentation de l'une des garanties de gestion durable.
 
-En cas de transmission de bois et forêts à l'Etat ou aux collectivités et organismes mentionnés à l'article 1042, l'engagement est réputé définitivement satisfait à concurrence d'une fraction de la valeur des biens exonérée déterminée par le rapport entre la superficie des biens objets de la transmission et la superficie totale des biens sur lesquels l'engagement a été souscrit. La même règle s'applique aux mutations de jouissance ou de propriété au profit d'établissements ou de sociétés, en vue de la réalisation d'équipements, aménagements ou constructions d'intérêt public, qui pourraient donner lieu à l'établissement d'une servitude d'utilité publique au titre de ladite mutation, ainsi qu'aux bois et forêts faisant l'objet d'une interdiction de reconstituer les boisements après coupe rase en application du 1° de l'article L. 126-1 du code rural ;
+En cas de transmission de bois et forêts à l'Etat ou aux collectivités et organismes mentionnés à l'article 1042, l'engagement est réputé définitivement satisfait à concurrence d'une fraction de la valeur des biens exonérée déterminée par le rapport entre la superficie des biens objets de la transmission et la superficie totale des biens sur lesquels l'engagement a été souscrit. La même règle s'applique aux mutations de jouissance ou de propriété au profit d'établissements ou de sociétés, en vue de la réalisation d'équipements, aménagements ou constructions d'intérêt public, qui pourraient donner lieu à l'établissement d'une servitude d'utilité publique au titre de ladite mutation, ainsi qu'aux bois et forêts faisant l'objet d'une interdiction de reconstituer les boisements après coupe rase en application des deuxième à neuvième alinéas de l'article L. 126-1 du code rural ;
 
-3° Les biens donnés à bail dans les conditions prévues aux articles L. 416-1 à L. 416-6, L. 416-8 et L. 416-9 du code rural, à concurrence des trois quarts de leur valeur, sous réserve des dispositions de l'article 793 bis ;
+3° Les biens donnés à bail dans les conditions prévues aux articles L. 416-1 à L. 416-6, L. 416-8 et L. 416-9 ainsi qu'aux articles L. 418-1 à L. 418-5 du code rural, à concurrence des trois quarts de leur valeur, sous réserve des dispositions de l'article 793 bis ;
 
 4° Lors de leur première transmission à titre gratuit, les immeubles acquis neufs ou en état futur d'achèvement dont la déclaration de l'achèvement des travaux prévue par la réglementation de l'urbanisme est déposée avant le 1er juillet 1994 à la mairie de la commune sur le territoire de laquelle l'immeuble concerné a été édifié et dont l'acquisition par le donateur ou le défunt est constatée par un acte authentique signé entre le 1er juin 1993 et le 31 décembre 1994.
 

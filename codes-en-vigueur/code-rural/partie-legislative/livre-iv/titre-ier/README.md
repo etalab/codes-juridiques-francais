@@ -6,3 +6,4 @@
 - [Chapitre V : Dispositions diverses et d'application.](chapitre-v)
 - [Chapitre VI : Dispositions particulières aux baux à long terme.](chapitre-vi)
 - [Chapitre VII : Dispositions particulières aux baux à colonat partiaire ou métayage](chapitre-vii)
+- [Chapitre VIII : Dispositions particulières aux baux cessibles hors du cadre familial.](chapitre-viii)

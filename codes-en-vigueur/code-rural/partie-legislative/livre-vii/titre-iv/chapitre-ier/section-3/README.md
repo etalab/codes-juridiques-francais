@@ -7,6 +7,8 @@
 - [Article L741-13](article-l741-13.md)
 - [Article L741-14](article-l741-14.md)
 - [Article L741-15](article-l741-15.md)
+- [Article L741-15-1](article-l741-15-1.md)
+- [Article L741-15-2](article-l741-15-2.md)
 - [Article L741-16](article-l741-16.md)
 - [Article L741-17](article-l741-17.md)
 - [Article L741-18](article-l741-18.md)

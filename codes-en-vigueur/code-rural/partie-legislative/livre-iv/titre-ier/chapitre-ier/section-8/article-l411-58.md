@@ -1,6 +1,6 @@
 # Article L411-58
 
-Le bailleur a le droit de refuser le renouvellement du bail s'il veut reprendre le bien loué pour lui-même ou au profit du conjoint ou d'un descendant majeur ou mineur émancipé.
+Le bailleur a le droit de refuser le renouvellement du bail s'il veut reprendre le bien loué pour lui-même ou au profit du conjoint, du partenaire d'un pacte civil de solidarité ou d'un descendant majeur ou mineur émancipé.
 
 Toutefois, le preneur peut s'opposer à la reprise lorsque lui-même, ou en cas de copreneurs l'un d'entre eux, se trouve à moins de cinq ans de l'âge auquel peut lui être accordée l'indemnité viagère de départ prévue par l'article 27 de la loi du 8 août 1962 complémentaire à la loi d'orientation agricole. Dans ce cas, le bail est prorogé de plein droit pour une durée égale à celle qui doit permettre au preneur ou à l'un des copreneurs d'atteindre cet âge. Pendant cette période, aucune cession du bail n'est possible. Le preneur doit, dans les quatre mois du congé qu'il a reçu, notifier au propriétaire par lettre recommandée avec demande d'avis de réception, sa décision de s'opposer à la reprise ou saisir directement le tribunal paritaire en contestation de congé.
 

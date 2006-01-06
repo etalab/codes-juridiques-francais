@@ -16,6 +16,8 @@ Dans ce cas, l'obligation de communication prescrite au premier alinéa ne s'app
 
 Sauf dispositions contraires figurant aux conditions de vente ou convenues entre les parties, le délai de règlement des sommes dues est fixé au trentième jour suivant la date de réception des marchandises ou d'exécution de la prestation demandée.
 
+Contrairement aux dispositions de l'alinéa précédent, pour le transport routier de marchandises, pour la location de véhicules avec ou sans conducteur, pour la commission de transport ainsi que pour les activités de transitaire, d'agent maritime et de fret aérien, de courtier de fret et de commissionnaire en douane, les délais de paiement convenus ne peuvent en aucun cas dépasser trente jours à compter de la date d'émission de la facture.
+
 Les conditions de règlement doivent obligatoirement préciser les conditions d'application et le taux d'intérêt des pénalités de retard exigibles le jour suivant la date de règlement figurant sur la facture dans le cas où les sommes dues sont réglées après cette date. Sauf disposition contraire qui ne peut toutefois fixer un taux inférieur à une fois et demie le taux d'intérêt légal, ce taux est égal au taux d'intérêt appliqué par la Banque centrale européenne à son opération de refinancement la plus récente majoré de 7 points de pourcentage. Les pénalités de retard sont exigibles sans qu'un rappel soit nécessaire.
 
 La communication prévue au premier alinéa s'effectue par tout moyen conforme aux usages de la profession.
