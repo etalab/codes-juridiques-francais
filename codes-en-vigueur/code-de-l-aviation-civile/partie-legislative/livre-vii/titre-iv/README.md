@@ -1,3 +1,3 @@
 # TITRE IV : DISPOSITIONS PENALES
 
-- [CHAPITRE UNIQUE](chapitre-unique)
+- [CHAPITRE UNIQUE.](chapitre-unique)
