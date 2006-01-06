@@ -17,3 +17,5 @@ Ses orientations, ses financements, ses investissements et ses institutions s'in
 Elle privilégie les mesures incitatives et contractuelles, notamment par la recherche de justes contreparties pour les services rendus par la forêt et les forestiers en assurant les fonctions environnementale et sociale lorsque cela conduit à des contraintes ou à des surcoûts d'investissement et de gestion.
 
 Les forêts publiques satisfont de manière spécifique à des besoins d'intérêt général, soit par l'accomplissement d'obligations particulières dans le cadre du régime forestier, soit par une promotion des activités telles que l'accueil du public, la conservation des milieux, la prise en compte de la biodiversité et la recherche scientifique.
+
+La gestion forestière et la valorisation des produits forestiers contribuent à la réduction des émissions nationales de gaz à effet de serre et au développement des énergies renouvelables. A ce titre, elles ont vocation à participer aux mécanismes de marché destinés à honorer les engagements internationaux en la matière.

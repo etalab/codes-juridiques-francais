@@ -1,4 +1,4 @@
-# Section 1 : Règles de fonctionnement, de direction et d'administration.
+# Section 1 : Règles de fonctionnement, de direction, d'administration et règles relatives à l'assemblée générale.
 
 - [Article L524-1](article-l524-1.md)
 - [Article L524-2](article-l524-2.md)

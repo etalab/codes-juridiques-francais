@@ -8,7 +8,9 @@ Sont assimilées aux chefs d'exploitation mentionnés à l'alinéa précédent p
 
 2° Aux aides familiaux non salariés et associés d'exploitation, définis par l'article L. 321-6, des chefs d'exploitation ou d'entreprise mentionnés au 1°.
 
-Par aides familiaux, on entend les ascendants, descendants, frères, soeurs et alliés au même degré du chef d'exploitation ou d'entreprise ou de son conjoint, âgés de plus de seize ans, vivant sur l'exploitation ou l'entreprise et participant à sa mise en valeur comme non-salariés ;
+Par aides familiaux, on entend les ascendants, descendants, frères, soeurs et alliés au même degré du chef d'exploitation ou d'entreprise ou de son conjoint, âgés de plus de seize ans, vivant sur l'exploitation ou l'entreprise et participant à sa mise en valeur comme non-salariés.
+
+La personne qui devient aide familial à compter du 18 mai 2005 ne peut conserver cette qualité plus de cinq ans ;
 
 3° Aux anciens exploitants et à leurs conjoints titulaires de la pension de retraite prévue à l'article L. 732-18, ainsi qu'aux titulaires de la pension de retraite forfaitaire prévue à l'article L. 732-34 ;
 

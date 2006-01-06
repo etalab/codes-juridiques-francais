@@ -8,7 +8,7 @@ Les procédures prévues aux alinéas précédents peuvent être mises en oeuvre
 
 a) Articles L. 411-1 et suivants du présent code ;
 
-b) Articles L. 411-1, L. 411-2, L. 331-2, L. 331-3, L. 331-4 et suivants et L. 332-1 et suivants du code de l'environnement ;
+b) Articles L. 411-1, L. 411-2, L. 331-2, L. 331-3, L. 331-4 et suivants et chapitre II du titre III du livre III du code de l'environnement ;
 
 c) Loi du 31 décembre 1913 sur les monuments historiques ;
 

@@ -27,3 +27,5 @@ Les caisses comprennent obligatoirement les sections suivantes :
 Les caisses de mutualité sociale agricole peuvent créer toute autre section qui s'avérerait nécessaire après autorisation de l'autorité administrative.
 
 Elles peuvent également, sous leur responsabilité, créer des échelons locaux et confier aux délégués cantonaux élus directement des trois collèges qu'elles désignent toutes missions, qu'ils effectuent à titre gratuit.
+
+Elles contribuent au développement sanitaire et social des territoires ruraux.

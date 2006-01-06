@@ -2,6 +2,8 @@
 
 I. - L'établissement peut être chargé, en vertu de conventions passées avec des personnes publiques ou privées, de la réalisation, en France ou à l'étranger, d'opérations de gestion, d'études, d'enquêtes et de travaux, en vue :
 
+- de la valorisation de la biomasse forestière ;
+
 - de la protection, de l'aménagement et du développement durable des ressources naturelles, notamment des ressources forestières ;
 
 - de la prévention des risques naturels ;

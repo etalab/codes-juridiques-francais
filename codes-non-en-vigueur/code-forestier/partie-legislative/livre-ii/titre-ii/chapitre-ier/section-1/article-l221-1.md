@@ -6,7 +6,7 @@ Dans chaque région ou groupe de régions, un établissement public à caractèr
 
 - la collecte et la mise à disposition du public d'informations statistiques relatives aux groupements forestiers ;
 
-- l'encouragement à l'adoption de méthodes de sylviculture conduisant à une gestion durable des forêts et compatibles avec une bonne valorisation économique du bois et des autres produits et services des forêts, par la formation théorique et pratique des propriétaires forestiers, par le développement et la vulgarisation sylvicole, à l'exclusion de tout acte relevant du secteur marchand de gestion directe, de maîtrise d'oeuvre de travaux ou de commercialisation ;
+- l'encouragement à l'adoption de méthodes de sylviculture conduisant à une gestion durable des forêts et compatibles avec une bonne valorisation économique du bois, de la biomasse et des autres produits et services des forêts, par la formation théorique et pratique des propriétaires forestiers, par le développement et la vulgarisation sylvicoles, à l'exclusion de tout acte relevant du secteur marchand de gestion directe, de maîtrise d'oeuvre de travaux ou de commercialisation ;
 
 - l'élaboration des schémas régionaux de gestion sylvicole des forêts privées et des codes des bonnes pratiques sylvicoles, l'agrément des plans simples de gestion prévus aux articles L. 222-1 à L. 222-5 et l'approbation des règlements types de gestion prévus aux articles L. 222-6 et L. 222-7, ainsi que les propositions, approbations et avis pour lesquels les lois ou règlements lui donnent compétence.
 

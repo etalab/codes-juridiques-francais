@@ -14,7 +14,7 @@ Sans préjudice des attributions de l'Assemblée permanente des chambres d'agric
 
 - donner un avis sur l'agrément des sociétés de gestion des sociétés d'épargne forestière en application de l'article L. 214-87 du code monétaire et financier ;
 
-- contribuer aux actions de développement concernant la forêt et les arbres par l'animation, la coordination, la recherche et la formation ;
+- contribuer aux actions de développement concernant la forêt, les arbres, le bois et la biomasse, par l'animation, la coordination, la recherche et la formation ;
 
 - réaliser et diffuser tous travaux et études se rapportant au développement de la forêt ;
 
