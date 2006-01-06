@@ -1,6 +1,6 @@
 # Article L122-1
 
-Les schémas de cohérence territoriale exposent le diagnostic établi au regard des prévisions économiques et démographiques et des besoins répertoriés en matière de développement économique, d'aménagement de l'espace, d'environnement, d'équilibre social de l'habitat, de transports, d'équipements et de services.
+Les schémas de cohérence territoriale exposent le diagnostic établi au regard des prévisions économiques et démographiques et des besoins répertoriés en matière de développement économique, d'agriculture, d'aménagement de l'espace, d'environnement, d'équilibre social de l'habitat, de transports, d'équipements et de services.
 
 Ils présentent le projet d'aménagement et de développement durable retenu, qui fixe les objectifs des politiques publiques d'urbanisme en matière d'habitat, de développement économique, de loisirs, de déplacements des personnes et des marchandises, de stationnement des véhicules et de régulation du trafic automobile.
 
@@ -8,7 +8,7 @@ Pour mettre en oeuvre le projet d'aménagement et de développement durable rete
 
 A ce titre, ils définissent notamment les objectifs relatifs à l'équilibre social de l'habitat et à la construction de logements sociaux, à l'équilibre entre l'urbanisation et la création de dessertes en transports collectifs, à l'équipement commercial et artisanal, aux localisations préférentielles des commerces, à la protection des paysages, à la mise en valeur des entrées de ville et à la prévention des risques.
 
-Ils déterminent les espaces et sites naturels ou urbains à protéger et peuvent en définir la localisation ou la délimitation.
+Ils déterminent les espaces et sites naturels, agricoles ou urbains à protéger et peuvent en définir la localisation ou la délimitation.
 
 Ils peuvent définir les grands projets d'équipements et de services, en particulier de transport, nécessaires à la mise en oeuvre de ces objectifs. Ils précisent les conditions permettant de favoriser le développement de l'urbanisation prioritaire dans les secteurs desservis par les transports collectifs. Ils peuvent, le cas échéant, subordonner l'ouverture à l'urbanisation de zones naturelles ou agricoles et les extensions urbaines à la création de dessertes en transports collectifs et à l'utilisation préalable de terrains situés en zone urbanisée et desservis par les équipements.
 
