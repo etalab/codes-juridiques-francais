@@ -6,7 +6,6 @@
 - [Article 222-37](article-222-37.md)
 - [Article 222-38](article-222-38.md)
 - [Article 222-39](article-222-39.md)
-- [Article 222-39-1](article-222-39-1.md)
 - [Article 222-40](article-222-40.md)
 - [Article 222-41](article-222-41.md)
 - [Article 222-42](article-222-42.md)
