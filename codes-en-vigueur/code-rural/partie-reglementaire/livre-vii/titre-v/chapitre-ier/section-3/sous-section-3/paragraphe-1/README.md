@@ -7,5 +7,6 @@
 - [Article R751-52](article-r751-52.md)
 - [Article R*751-53](article-r-751-53.md)
 - [Article R*751-54](article-r-751-54.md)
+- [Article R751-54](article-r751-54.md)
 - [Article R751-55](article-r751-55.md)
 - [Article R751-56](article-r751-56.md)
