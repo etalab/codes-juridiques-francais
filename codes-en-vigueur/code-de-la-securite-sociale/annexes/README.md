@@ -1,6 +1,6 @@
 # Annexes
 
-- [Annexe I : Barème indicatif d'invalidité (accidents du travail) (application de l'article R. 434-35)](annexe-i)
+- [Annexe I : Barème indicatif d'invalidité (accidents du travail) (application de l'article R. 434-32)](annexe-i)
 - [Article Annexe (1) à l'art. A931-11-11](article-annexe-1-a-l-art-a931-11-11.md)
 - [Article Annexe (1) à l'art. A931-11-17](article-annexe-1-a-l-art-a931-11-17.md)
 - [Article Annexe 1 à l'art. R611-2-I](article-annexe-1-a-l-art-r611-2-i.md)
