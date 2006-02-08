@@ -1,0 +1,15 @@
+# Paragraphe 3 : Constitution
+
+- [Article R312-194-6](article-r312-194-6.md)
+- [Article R312-194-7](article-r312-194-7.md)
+- [Article R312-194-8](article-r312-194-8.md)
+- [Article R312-194-9](article-r312-194-9.md)
+- [Article R312-194-10](article-r312-194-10.md)
+- [Article R312-194-11](article-r312-194-11.md)
+- [Article R312-194-12](article-r312-194-12.md)
+- [Article R312-194-13](article-r312-194-13.md)
+- [Article R312-194-14](article-r312-194-14.md)
+- [Article R312-194-15](article-r312-194-15.md)
+- [Article R312-194-16](article-r312-194-16.md)
+- [Article R312-194-17](article-r312-194-17.md)
+- [Article R312-194-18](article-r312-194-18.md)
