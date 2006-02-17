@@ -2,3 +2,4 @@
 
 - [Section 1 : Autorisation de création, d'extension ou de transformation](section-1)
 - [Section 3 : Contrats ou conventions pluriannuels](section-3)
+- [Section 4 : Contrôle](section-4)
