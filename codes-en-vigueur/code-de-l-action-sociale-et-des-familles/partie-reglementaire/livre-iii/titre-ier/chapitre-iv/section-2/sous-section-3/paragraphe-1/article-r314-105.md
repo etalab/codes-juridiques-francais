@@ -36,9 +36,9 @@ VII. - Pour les établissements et services mentionnés au 6° de l'article L. 3
 
 1° Pour les établissements relevant du I de l'article L. 313-12, par le département dans les conditions fixées par les dispositions du paragraphe 10 de la sous-section 4, de la présente section, et par l'assurance maladie, sous la forme d'une dotation globale, versée dans les conditions fixées par les articles R. 174-9 à R. 174-16 du code de la sécurité sociale ;
 
-2° Pour les services d'aide à domicile ne dispensant pas de soins, par le département, sous la forme de tarifs horaires établis et versés dans les conditions fixées au paragraphe 5 de la sous-section 4 de la présente section  ;
+2° Pour les services d'aide à domicile ne dispensant pas de soins, par le département, sous la forme de tarifs horaires établis et versés dans les conditions fixées au paragraphe 5 de la sous-section 4 de la présente section ;
 
-3° Pour les services de soins infirmiers à domicile, par l'assurance maladie, sous la forme d'un forfait annuel global de soins établi et versé dans les conditions fixées au paragraphe 6 de la sous-section 4 de la présente section  ;
+3° Pour les services de soins infirmiers à domicile, par l'assurance maladie, sous la forme d'une dotation globale établie dans les conditions fixées au paragraphe 6 de la sous-section 4 de la présente section et versée dans les conditions fixées aux articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale.
 
 4° Pour les établissements relevant de l'article 5 de la loi n° 2001-647 du 20 juillet 2001 relative à la prise en charge de la perte d'autonomie et à l'allocation personnalisée d'autonomie, par l'assurance maladie sous la forme d'un forfait global de soins établi dans les conditions prévues à cet article, et par le département sous la forme de tarifs journaliers établis dans les conditions prévues à l'article R. 314-192 ;
 
@@ -50,7 +50,7 @@ VIII. - Pour les établissements et services mentionnés au 7° de l'article L. 
 
 2° Pour les foyers d'accueil médicalisés et les services d'accompagnement médico-social pour adultes handicapés, par le département pour les frais d'accompagnement à la vie sociale et, le cas échéant, d'hébergement, sous la forme d'un tarif journalier établi et versé dans les conditions fixées par les articles R. 314-145 et R. 314-146, et par l'assurance maladie pour les dépenses afférentes aux soins médicaux, en vertu des articles L. 174-7 et L. 162-24-1 du code de la sécurité sociale, sous la forme d'un forfait journalier établi et versé dans les conditions fixées aux articles R. 314-142 et R. 314-143 ;
 
-3° Pour les services d'aide à domicile ne dispensant pas de soins, par le département, sous la forme de tarifs horaires établis et versés dans les conditions fixées au paragraphe 5 de la sous-section 4 de la présente section  ;
+3° Pour les services de soins infirmiers à domicile, par l'assurance maladie, sous la forme d'une dotation globale établie dans les conditions fixées au paragraphe 6 de la sous-section 4 de la présente section et versée dans les conditions fixées aux articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale.
 
 4° Pour les services de soins infirmiers à domicile, par l'assurance maladie, sous la forme d'un forfait annuel global de soins établi et versé dans les conditions fixées au paragraphe 6 de la sous-section 4 de la présente section  ;
 
