@@ -2,13 +2,11 @@
 
 La demande est formée par requête déposée ou adressée au greffe par le bénéficiaire de l'obligation ou par les personnes mentionnées à l'article 828.
 
-La requête contient :
+Outre les mentions prescrites par l'article 58, la requête contient :
 
-1° Pour les personnes physiques, les nom, prénoms, profession et adresse des parties ou, pour les personnes morales, leur dénomination et leur siège social ;
+1° L'indication précise de la nature de l'obligation dont l'exécution est poursuivie ainsi que le fondement de celle-ci ;
 
-2° L'indication précise de la nature de l'obligation dont l'exécution est poursuivie ainsi que le fondement de celle-ci ;
-
-3° Eventuellement les dommages et intérêts qui seront réclamés en cas d'inexécution de l'injonction de faire.
+2° Eventuellement, les dommages et intérêts qui seront réclamés en cas d'inexécution de l'injonction de faire.
 
 Elle est accompagnée des documents justificatifs.
 

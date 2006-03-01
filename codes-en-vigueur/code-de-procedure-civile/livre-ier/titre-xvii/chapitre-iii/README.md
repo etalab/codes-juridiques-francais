@@ -1,6 +1,5 @@
 # Chapitre III : La forme des notifications.
 
-- [Section V-1 : Règles particulières à la signification et à la notification à destination d'autres Etats membres de la Communauté européenne des actes judiciaires et extrajudiciaires en matière civile et commerciale](section-v-1)
 - [Section I : La signification.](section-i)
 - [Section II : La notification des actes en la forme ordinaire.](section-ii)
 - [Section III : Les notifications entre avocats.](section-iii)
