@@ -22,5 +22,4 @@
 - [Titre XVIII : Les frais et les dépens.](titre-xviii)
 - [Titre XX : Les commissions rogatoires.](titre-xx)
 - [Titre XIX : Le secrétariat de la juridiction.](titre-xix)
-- [Titre XXI : Disposition finale.](titre-xxi)
 - [Titre XXII : Disposition finale.](titre-xxii)
