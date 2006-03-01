@@ -1,3 +1,3 @@
 # Article 28
 
-Le métrage d'un film est celui indiqué par la censure.
+Le métrage d'une oeuvre cinématographique est celui indiqué par la censure.

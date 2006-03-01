@@ -6,13 +6,13 @@ Les recettes du centre national comprennent :
 
 2° Les cotisations professionnelles ;
 
-3° Le produit de l'exploitation des films réalisés pour le compte du centre national ;
+3° Le produit de l'exploitation des oeuvres cinématographiques réalisées pour le compte du centre national ;
 
 4° Le produit des accords de participation financière conclus par le centre avec les entreprises de l'industrie cinématographique ;
 
-5° Le produit des taxes de visa des films cinématographiques prévues par l'article 20 ;
+5° Le produit des taxes de visa des oeuvres cinématographiques prévues par l'article 20 ;
 
-6° Une part fixée par décret des émoluments versés au conservateur du registre public de la cinématographie ; les modalités de rémunération de ce fonctionnaire sont fixées par décret contresigné par le ministre de l'économie et des finances et par le ministre chargé de l'industrie cinématographique ;
+6° Une part fixée par décret des émoluments versés au conservateur des registres de la cinématographie et de l'audiovisuel ; les modalités de rémunération de ce fonctionnaire sont fixées par décret contresigné par le ministre de l'économie et des finances et par le ministre chargé de l'industrie cinématographique ;
 
 7° Le produit des amendes infligées par le directeur général du centre, conformément à l'article 13 (2°) ;
 

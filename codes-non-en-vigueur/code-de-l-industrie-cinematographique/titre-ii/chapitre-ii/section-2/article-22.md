@@ -1,8 +1,8 @@
 # Article 22
 
-Indépendamment de la saisie administrative du film, sera punie de 45000 euros d'amende [*taux*] toute infraction aux prescriptions de la section précédente et des textes pris pour son application, et notamment :
+Indépendamment de la saisie administrative de l'oeuvre cinématographique, sera punie de 45000 euros d'amende toute infraction aux prescriptions de la section précédente et des textes pris pour son application, et notamment :
 
-La mise en circulation ou la représentation d'un film cinématographique sans visa d'exploitation ou en violation des conditions stipulées au visa ;
+La mise en circulation ou la représentation d'une oeuvre cinématographique sans visa d'exploitation ou en violation des conditions stipulées au visa ;
 
 Le jugement pourra, en outre, prononcer à l'encontre du délinquant l'interdiction temporaire ou définitive d'exercer soit une fonction dirigeante, soit toute activité dans l'industrie cinématographique et condamner solidairement au paiement de l'amende la personne physique dont il était le préposé ou la personne morale dont il était soit le préposé, soit le dirigeant.
 
