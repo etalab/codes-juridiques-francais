@@ -1,3 +1,5 @@
 # Article 895
 
-Il peut également en être référé au président pour statuer sur les difficultés d'exécution d'un jugement du tribunal paritaire.
+Le délai d'appel est de quinze jours.
+
+L'appel est formé, instruit et jugé comme il est dit à l'article 892.

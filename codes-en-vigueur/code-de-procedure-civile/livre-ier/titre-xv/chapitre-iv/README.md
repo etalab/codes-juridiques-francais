@@ -12,4 +12,5 @@
 - [Article 523](article-523.md)
 - [Article 524](article-524.md)
 - [Article 525](article-525.md)
+- [Article 525-1](article-525-1.md)
 - [Article 526](article-526.md)
