@@ -1,3 +1,5 @@
 # Article D451-82
 
-Les titulaires du diplôme d'Etat de technicien de l'intervention sociale et familiale interviennent auprès de familles, de personnes en difficulté de vie ou en difficulté sociale, de personnes âgées ou de personnes handicapées, soit à domicile, soit en établissement ou service s'inscrivant dans les politiques d'action sociale.
+Le diplôme d'Etat de technicien de l'intervention sociale et familiale est structuré en domaines de compétences et peut être obtenu par la voie de la formation ou, en tout ou partie, par la validation des acquis de l'expérience.
+
+Il est délivré par le représentant de l'Etat dans la région.

@@ -1,13 +1,3 @@
 # Article D451-87
 
-Le jury du diplôme d'Etat de technicien de l'intervention sociale et familiale comprend :
-
-1° Un ou plusieurs représentants du directeur régional des affaires sanitaires et sociales ;
-
-2° Un ou plusieurs professionnels en exercice diplômés du diplôme d'Etat de technicien de l'intervention sociale et familiale ;
-
-3° Une ou plusieurs personnes qualifiées dans le domaine social, médical ou paramédical ;
-
-4° Un ou plusieurs représentants des centres de formation ayant satisfait à l'obligation de déclaration préalable prévue à l'article L. 451-1 pour préparer aux diplômes d'Etat de travail social.
-
-Le jury est nommé par le directeur régional des affaires sanitaires et sociales et présidé par lui ou par son représentant.
+Un arrêté du ministre chargé des affaires sociales précise les compétences professionnelles mentionnées à l'article D. 451-81, les modalités d'accès à la formation, le contenu et l'organisation de cette formation ainsi que les modalités de certification du diplôme d'Etat de technicien de l'intervention sociale et familiale.

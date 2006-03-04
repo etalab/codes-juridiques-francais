@@ -1,5 +1,9 @@
 # Article D451-83
 
-Le diplôme d'Etat de technicien de l'intervention sociale et familiale sanctionne une formation dispensée par des organismes de formation publics ou privés sur une période de dix-huit à vingt-quatre mois selon leur projet pédagogique.
+La formation préparant au diplôme d'Etat de technicien de l'intervention sociale et familiale comprend un enseignement théorique et une formation pratique dispensée au cours de stages.
 
-La formation comprend une formation théorique et une formation pratique sous forme de stages, dont le contenu et les modalités sont définies par arrêté du ministre chargé des affaires sociales.
+Cette formation est dispensée par les établissements publics ou privés ayant satisfait à l'obligation de déclaration préalable mentionnée à l'article L. 451-1.
+
+La durée et le contenu de la formation peuvent varier en fonction de l'expérience professionnelle et des diplômes possédés par les candidats.
+
+Les candidats sont soumis à des épreuves d'admission, organisées par les établissements de formation selon les modalités figurant dans leur règlement d'admission.
