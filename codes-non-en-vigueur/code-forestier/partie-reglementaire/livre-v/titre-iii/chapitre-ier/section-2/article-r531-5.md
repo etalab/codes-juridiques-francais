@@ -10,7 +10,7 @@ Il comprend :
 
 - un conseiller maître à la Cour des comptes ;
 
-- le commissaire au Plan ou son représentant ;
+- le directeur général du Centre d'analyse stratégique ou son représentant ;
 
 - le directeur du budget ou son représentant ;
 

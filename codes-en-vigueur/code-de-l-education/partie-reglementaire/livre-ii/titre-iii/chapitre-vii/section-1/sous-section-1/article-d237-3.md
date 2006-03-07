@@ -20,7 +20,7 @@ e) Le délégué général à l'emploi et à la formation professionnelle ou son
 
 f) Le directeur du Centre d'études et de recherches sur les qualifications ou son représentant ;
 
-g) Le commissaire au Plan ou son représentant ;
+g) Le directeur général du Centre d'analyse stratégique ou son représentant ;
 
 h) Le directeur de l'Agence nationale pour l'emploi ou son représentant ;
 

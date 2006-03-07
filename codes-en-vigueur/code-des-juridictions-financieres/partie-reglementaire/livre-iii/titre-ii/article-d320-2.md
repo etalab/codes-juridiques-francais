@@ -20,7 +20,7 @@ Le comité d'enquête est composé comme suit :
 
 - le secrétaire général du Gouvernement ;
 
-- le commissaire au Plan ;
+- le directeur général du Centre d'analyse stratégique ;
 
 - le directeur du budget ;
 
