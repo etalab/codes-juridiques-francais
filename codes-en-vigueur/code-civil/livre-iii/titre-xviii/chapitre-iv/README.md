@@ -1,6 +1,5 @@
 # Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.
 
-- [Article 2146](article-2146.md)
 - [Article 2147](article-2147.md)
 - [Article 2148](article-2148.md)
 - [Article 2148-1](article-2148-1.md)
