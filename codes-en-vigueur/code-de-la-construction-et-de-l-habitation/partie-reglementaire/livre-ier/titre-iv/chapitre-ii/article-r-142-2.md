@@ -8,7 +8,7 @@ Le conseil d'administration du centre scientifique et technique du bâtiment est
 
 - du ministre chargé de l'architecture ;
 
-- du ministre chargé du budget ;
+- du ministre chargé de l'environnement ;
 
 - du ministre chargé de l'industrie ;
 
