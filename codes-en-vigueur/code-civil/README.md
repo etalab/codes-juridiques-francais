@@ -4,5 +4,4 @@
 - [Livre Ier : Des personnes](livre-ier)
 - [Livre II : Des biens et des différentes modifications de la propriété](livre-ii)
 - [Livre III : Des différentes manières dont on acquiert la propriété](livre-iii)
-- [Livre IV : Dispositions applicables à Mayotte](livre-iv)
 - [Livre V : Dispositions applicables à Mayotte](livre-v)
