@@ -1,6 +1,6 @@
 # Article L262-49
 
-La Caisse nationale des allocations familiales et la Caisse centrale de mutualité sociale agricole transmettent au ministre chargé de l'action sociale, dans des conditions fixées par voie réglementaire, toute information relative aux dépenses liées à l'allocation de revenu minimum d'insertion et à l'exécution des contrats d'insertion.
+La Caisse nationale des allocations familiales et la Caisse centrale de mutualité sociale agricole transmettent au ministre chargé de l'action sociale, dans des conditions fixées par voie réglementaire, toute information relative aux dépenses liées à l'allocation de revenu minimum d'insertion et à la prime forfaitaire instituée par l'article L. 262-11 ainsi qu'à l'exécution des contrats d'insertion.
 
 Ces informations comprennent notamment :
 

@@ -1,4 +1,4 @@
-# Section 2 : Conditions d'ouverture du droit à l'allocation.
+# Section 2 : Conditions d'ouverture du droit à l'allocation et prime forfaitaire
 
 - [Article L262-7](article-l262-7.md)
 - [Article L262-8](article-l262-8.md)
