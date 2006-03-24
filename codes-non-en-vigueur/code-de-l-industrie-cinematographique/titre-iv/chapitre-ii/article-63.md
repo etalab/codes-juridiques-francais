@@ -1,8 +1,8 @@
 # Article 63
 
-Les sommes inscrites au compte du producteur en vue du financement de la production d'oeuvres cinématographiques françaises de long métrage sont incessibles et insaisissables sous réserve des dispositions des articles 68, 69, 70.
+Les sommes inscrites au compte du producteur en vue du financement de la production d'oeuvres cinématographiques françaises de long métrage sont incessibles et insaisissables sous réserve des dispositions des articles 68,69,70.
 
-Par dérogation aux dispositions des articles 2101 et suivants du Code civil, ces sommes sont affectées, dans les conditions et limites fixées par le règlement d'administration publique prévu à l'article 93, au règlement, dans l'ordre de préférence ci-après des créances exigibles énumérées aux postes de productions suivants :
+Par dérogation aux dispositions des articles 2331 et suivants du code civil, ces sommes sont affectées, dans les conditions et limites fixées par le règlement d'administration publique prévu à l'article 93, au règlement, dans l'ordre de préférence ci-après des créances exigibles énumérées aux postes de productions suivants :
 
 1° Toutes sommes recouvrées par l'Etat à l'exception de la taxe de sortie d'oeuvre cinématographique ;
 

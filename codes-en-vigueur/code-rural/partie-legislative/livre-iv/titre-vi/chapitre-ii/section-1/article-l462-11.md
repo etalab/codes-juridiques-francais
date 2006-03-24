@@ -6,7 +6,7 @@ Nonobstant toute disposition contraire, le preneur, en place depuis trois ans ou
 
 L'application de la procédure prévue par le présent article ne peut pas constituer un motif de résiliation ou de non-renouvellement du bail.
 
-Le bailleur exerce le privilège de l'article 2102 du code civil sur les parts de récoltes appartenant au preneur pour le paiement du reliquat du compte à rendre par celui-ci.
+Le bailleur exerce le privilège de l'article 2332 du code civil sur les parts de récoltes appartenant au preneur pour le paiement du reliquat du compte à rendre par celui-ci.
 
 Chacune des parties peut demander le règlement annuel du compte.
 
