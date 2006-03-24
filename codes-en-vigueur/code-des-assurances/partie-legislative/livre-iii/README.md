@@ -6,6 +6,5 @@
 - [Titre IV : Dispositions comptables et statistiques](titre-iv)
 - [Titre V : Libre prestation de services et coassurance relatives aux Etats parties à l'accord sur l'Espace économique européen non membres des Communautés européennes](titre-v)
 - [Titre VI : Libre établissement et libre prestation de services communautaires](titre-vi)
-- [Titre VII : Dispositions applicables à Mayotte et dans les îles Wallis et Futuna](titre-vii)
 - [Titre VIII : Dispositions applicables à Mayotte et dans les îles Wallis et Futuna](titre-viii)
 - [Article L300-1](article-l300-1.md)

@@ -2,7 +2,7 @@
 
 Pour les contrats dont la provision mathématique est égale ou supérieure à un montant fixé par arrêté du ministre chargé de l'économie, l'entreprise d'assurance ou de capitalisation communique chaque année au contractant :
 
-- le montant de la valeur de rachat de son contrat ou la valeur de transfert de son plan d'épargne retraite populaire tel que défini à l'article 108 de la loi n° 2003-775 du 21 août 2003 précitée ;
+- le montant de la valeur de rachat ou, pour les contrats liés à la cessation d'activité professionnelle, de transfert ;
 
 - le cas échéant, le montant de la valeur de réduction de son contrat ;
 
