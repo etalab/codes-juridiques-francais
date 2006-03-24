@@ -14,7 +14,9 @@ La commission locale d'insertion a pour mission :
 
 6° De proposer les mesures propres à favoriser ou à conforter l'insertion ;
 
-7° De donner un avis sur les suspensions du versement de l'allocation envisagées au titre des articles L. 262-19, L. 262-21 et L. 262-23.
+7° De donner un avis sur les suspensions du versement de l'allocation envisagées au titre des articles L. 262-19, L. 262-21 et L. 262-23 ;
+
+8° De donner un avis sur les amendes administratives envisagées au titre de l'article L. 262-47-1.
 
 La commission locale d'insertion peut formuler des propositions relatives à l'ensemble de la lutte contre la pauvreté et l'exclusion et de l'action en faveur de l'insertion dans son ressort.
 
