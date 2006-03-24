@@ -2,7 +2,7 @@
 
 Le versement de l'allocation est subordonné à la condition que l'intéressé fasse valoir ses droits aux prestations sociales, légales, réglementaires et conventionnelles, à l'exception des allocations mensuelles mentionnées à l'article L. 222-3.
 
-En outre, il est subordonné à la condition que l'intéressé fasse valoir ses droits aux créances d'aliments qui lui sont dues au titre des obligations instituées par les articles 203, 212, 214, 255 et 342 du code civil ainsi qu'à la prestation compensatoire due au titre de l'article 270 dudit code et aux pensions alimentaires accordées par le tribunal à l'époux ayant obtenu le divorce dont la requête initiale a été présentée avant l'entrée en vigueur de la loi n° 75-617 du 11 juillet 1975 portant réforme du divorce.
+En outre, il est subordonné à la condition que l'intéressé fasse valoir ses droits aux créances d'aliments qui lui sont dues au titre des obligations instituées par les articles 203, 212, 214, 255, 342 et 371-2 du code civil ainsi qu'à la prestation compensatoire due au titre de l'article 270 dudit code et aux pensions alimentaires accordées par le tribunal à l'époux ayant obtenu le divorce dont la requête initiale a été présentée avant l'entrée en vigueur de la loi n° 75-617 du 11 juillet 1975 portant réforme du divorce.
 
 Les organismes payeurs mentionnés à l'article L. 262-30 veillent à la mise en oeuvre des obligations instituées par le deuxième alinéa. Si l'intéressé ne fait pas valoir ses droits, les organismes payeurs saisissent le président du conseil général qui, en l'absence de motif légitime, pourra mettre en oeuvre la procédure mentionnée au dernier alinéa.
 

@@ -121,3 +121,13 @@ Les provisions qui sont transférées au poste d'écart d'équivalence ainsi que
 10. La plus-value de cession d'un immeuble par une société civile immobilière non soumise à l'impôt sur les sociétés dont les parts ont été affectées par une société d'assurance à la couverture de contrats d'assurance sur la vie à capital variable prévus par l'article L. 131-1 du code des assurances est comprise dans le résultat imposable de la société d'assurance sous déduction des profits de réévaluation constatés lors des estimations annuelles de ces parts dans les comptes de la société d'assurance.
 
 La moins-value de même nature est retenue dans les mêmes conditions, et ne peut venir en diminution des profits de réévaluation des parts de la société civile, constatés par la société d'assurance.
+
+11. Le transfert dans une comptabilité auxiliaire d'affectation d'éléments d'actifs pour lesquels sont applicables les règles de l'article L. 142-4, de l'article L. 143-7, de l'article L. 441-8 du code des assurances, ou du VII de l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites est assimilé à une cession. Il en est de même en cas de retrait d'actifs de l'une de ces comptabilités.
+
+Toutefois, le profit ou la perte constaté à l'occasion du transfert d'éléments d'actif dans la comptabilité auxiliaire d'affectation soumis aux règles de l'article L. 143-7 du code des assurances n'est pas compris dans le résultat de l'exercice au cours duquel le transfert est intervenu si les conditions suivantes sont réunies :
+
+a) L'opération est réalisée conformément aux dispositions de l'article L. 143-8 du code des assurances ;
+
+b) Les éléments sont inscrits dans la comptabilité auxiliaire d'affectation pour leur valeur comptable telle qu'elle figure dans les comptes de l'entreprise procédant à l'opération.
+
+Dans ce cas, le profit ou la perte résultant de la cession ultérieure de ces éléments est calculé d'après la valeur qu'ils avaient, du point de vue fiscal, dans les écritures de l'entreprise ayant procédé à l'opération.

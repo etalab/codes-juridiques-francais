@@ -5,3 +5,4 @@
 - [Chapitre III : Du warrant hôtelier](chapitre-iii)
 - [Chapitre IV : Du warrant pétrolier](chapitre-iv)
 - [Chapitre V : Du nantissement de l'outillage et du matériel d'équipement.](chapitre-v)
+- [Chapitre VII : Du gage des stocks.](chapitre-vii)

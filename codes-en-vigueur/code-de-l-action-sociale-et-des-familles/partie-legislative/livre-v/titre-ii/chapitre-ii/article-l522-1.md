@@ -6,4 +6,4 @@ Elle établit le programme annuel de tâches d'utilité sociale offertes aux bé
 
 L'agence se substitue au conseil départemental d'insertion.
 
-Les compétences relatives aux décisions individuelles concernant l'allocation de revenu minimum d'insertion dévolues au département par le chapitre II du titre VI du livre II sont exercées, dans les départements d'outre-mer, par l'agence départementale d'insertion.
+Les compétences relatives aux décisions individuelles concernant l'allocation de revenu minimum d'insertion et la prime forfaitaire instituée par l'article L. 262-11 dévolues au département par le chapitre II du titre VI du livre II sont exercées, dans les départements d'outre-mer, par l'agence départementale d'insertion.

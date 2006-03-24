@@ -10,4 +10,4 @@ Les héritiers, autres que les frères et soeurs élevés eux-mêmes par le serv
 
 Lorsque aucun héritier ne se présente, les biens des pupilles de l'Etat décédés sont recueillis par le département et utilisés pour l'attribution de dons ou de prêts aux pupilles et anciens pupilles de l'Etat.
 
-Les biens du tuteur ne sont pas soumis à l'hypothèque légale instituée à l'article 2121 du code civil.
+Les biens du tuteur ne sont pas soumis à l'hypothèque légale instituée à l'article 2400 du code civil.

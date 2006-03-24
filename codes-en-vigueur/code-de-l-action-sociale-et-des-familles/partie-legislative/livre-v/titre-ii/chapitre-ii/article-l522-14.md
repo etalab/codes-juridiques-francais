@@ -1,6 +1,6 @@
 # Article L522-14
 
-Dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon, un revenu de solidarité est versé aux bénéficiaires du revenu minimum d'insertion âgés d'au moins cinquante ans qui s'engagent à quitter définitivement le marché du travail et de l'insertion après avoir été depuis deux ans au moins bénéficiaires du revenu minimum d'insertion.
+Dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon, un revenu de solidarité est versé aux bénéficiaires du revenu minimum d'insertion ou de la prime forfaitaire instituée par l'article L. 262-11 âgés d'au moins cinquante ans qui s'engagent à quitter définitivement le marché du travail et de l'insertion après avoir été depuis deux ans au moins bénéficiaires du revenu minimum d'insertion ou de ladite prime forfaitaire.
 
 Le montant du revenu de solidarité est fixé par décret.
 

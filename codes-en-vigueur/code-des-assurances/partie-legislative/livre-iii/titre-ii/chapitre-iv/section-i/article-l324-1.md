@@ -13,3 +13,5 @@ Lorsque les risques ou les engagements transférés sont situés dans un Etat me
 Pour les transferts concernant les entreprises d'assurance vie ou de capitalisation, cette approbation est, en outre, fondée sur les données de l'état prévues à l'article L. 344-1.
 
 L'approbation rend le transfert opposable aux assurés, souscripteurs et bénéficiaires de contrat ainsi qu'aux créanciers, et écarte l'application du droit de surenchère prévu par l'article L. 141-19 du code de commerce. Le transfert est opposable à partir de la date de publication au Journal officiel de la décision d'approbation mentionnée au deuxième alinéa du présent article. Les assurés ont la faculté de résilier le contrat dans le délai d'un mois suivant la date de cette publication.
+
+Les dispositions du présent article sont précisées par décret en Conseil d'Etat.

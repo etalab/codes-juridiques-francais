@@ -1,0 +1,9 @@
+# Article L262-47-1
+
+Sans préjudice des actions en récupération de l'allocation indûment versée et des poursuites pénales, l'inexactitude ou le caractère incomplet, lorsqu'ils sont délibérés, des déclarations faites pour le bénéfice de l'allocation ou de la prime forfaitaire instituée par l'article L. 262-11, ainsi que l'absence de déclaration d'un changement dans la situation justifiant ce bénéfice, ayant abouti à des versements indus, peuvent être sanctionnés par une amende administrative prononcée par le président du conseil général, après avis de la commission locale d'insertion mentionnée à l'article L. 263-10, et dont le montant ne peut excéder 3 000 Euros.
+
+Le président du conseil général informe préalablement l'intéressé des faits qui lui sont reprochés et de l'amende envisagée. Il l'invite à présenter ses observations écrites ou orales, le cas échéant assisté d'une personne de son choix, dans un délai qui ne peut être inférieur à un mois. L'amende peut être prononcée à l'issue de ce délai et est alors notifiée à l'intéressé. La décision est motivée.
+
+Cette décision est susceptible de recours devant le tribunal administratif. Le produit de l'amende est versé aux comptes du département.
+
+Aucune amende ne peut être prononcée à raison de faits remontant à plus de deux ans, ni lorsque la personne concernée a, pour les mêmes faits, déjà été définitivement condamnée par le juge pénal ou a bénéficié d'une décision définitive de non-lieu ou de relaxe déclarant que la réalité de l'infraction n'est pas établie ou que cette infraction ne lui est pas imputable. Si une telle décision de non-lieu ou de relaxe intervient postérieurement au prononcé d'une amende administrative par le président du conseil général, la révision de cette amende est de droit. Si, à la suite du prononcé d'une amende administrative par le président du conseil général, une amende pénale est infligée pour les mêmes faits, la première s'impute sur la seconde.

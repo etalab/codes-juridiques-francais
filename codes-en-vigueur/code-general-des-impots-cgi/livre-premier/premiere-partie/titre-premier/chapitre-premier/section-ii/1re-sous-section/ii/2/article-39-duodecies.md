@@ -22,6 +22,8 @@ b. aux moins-values subies lors de la cession de biens amortissables, quelle que
 
 6. Pour l'application du présent article, les cessions de titres compris dans le portefeuille sont réputées porter par priorité sur les titres de même nature acquis ou souscrits à la date la plus ancienne.
 
+Pour l'application de ces dispositions, les titres inscrits dans une comptabilité auxiliaire d'affectation qui sont soumis aux règles de l'article L. 142-4, de l'article L. 143-7, de l'article L. 441-8 du code des assurances, ou du VII de l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites, constituent un portefeuille distinct.
+
 Pour l'application des dispositions du premier alinéa, les titres reçus en rémunération d'un apport partiel d'actif ou d'une scission soumis au régime prévu à l'article 210 B et ceux qui sont acquis ou souscrits indépendamment de l'opération d'apport ou de scission constituent deux catégories distinctes de titres jusqu'à la fin du délai de trois ans prévu à l'article 210 B. Les cessions de titres intervenues dans ce délai sont réputées porter en priorité sur les titres acquis ou souscrits indépendamment de l'opération d'apport ou de scission.
 
 6 bis. Le régime fiscal des plus et moins-values à long terme prévu par le présent article et les articles suivants n'est pas applicable à la quote-part des profits distribués par un fonds de placement immobilier mentionné à l'article 239 nonies.
