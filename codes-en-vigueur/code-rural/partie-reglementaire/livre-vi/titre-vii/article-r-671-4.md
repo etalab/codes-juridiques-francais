@@ -4,7 +4,7 @@ Sans préjudice des dispositions prévues par le règlement n° 494/98 de la Com
 
 A. - Par le détenteur de bovin :
 
-1° De contrevenir aux règles d'identification des bovins définies aux I et II de l'article R. 653-16 ;
+1° De contrevenir aux règles de déclaration ou aux règles d'identification des bovins définies aux I et II de l'article R. 653-16.
 
 2° De contrevenir aux règles de notification des naissances, déplacements et morts définies aux I et IV de l'article R. 653-16 ;
 
@@ -20,7 +20,9 @@ A. - Par le détenteur de bovin :
 
 8° D'omettre de signaler les différences éventuelles entre les mentions portées sur le passeport et le numéro national d'identification de l'animal, son sexe et son type racial, dans les conditions prévues au VIII de l'article R. 653-16 ;
 
-9° De ne pas remettre le passeport dans les cas énumérés à l'article R. 653-20.
+9° De ne pas remettre le passeport dans les cas énumérés à l'article R. 653-20 ;
+
+10° De ne pas respecter la restriction de mouvement prononcée par le préfet en application du IX de l'article R. 653-16.
 
 B. - Par l'exploitant d'abattoir, de ne pas transmettre le passeport ou le document d'accompagnement à l'agent mentionné au 1° de l'article R. 653-20, ou de le transmettre sans signaler les différences éventuelles des mentions de ce document par rapport au numéro national d'identification, au sexe et au type racial de l'animal.
 
