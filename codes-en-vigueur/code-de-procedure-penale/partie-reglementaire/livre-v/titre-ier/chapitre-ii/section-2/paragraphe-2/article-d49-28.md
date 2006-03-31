@@ -9,3 +9,5 @@ Le juge de l'application des peines peut ordonner la comparution du détenu deva
 Les membres de la commission ainsi que les personnes appelées, à un titre quelconque, à assister à ses réunions sont tenus à l'égard des tiers au secret pour tout ce qui concerne ses travaux.
 
 En l'absence de l'un de ses membres de droit, la commission de l'application des peines n'est pas valablement réunie.
+
+Le chef d'établissement peut être représenté au sein de la commission de l'application des peines par un membre du personnel de direction.

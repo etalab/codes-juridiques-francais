@@ -6,4 +6,4 @@ Un délai de route peut être accordé au bénéficiaire de la permission de sor
 
 Le juge de l'application des peines peut ordonner le retrait d'une permission de sortir en cours d'exécution de celle-ci et ordonner la réincarcération immédiate du condamné en cas de non-respect par celui-ci des conditions auxquelles cette permission était subordonnée. Ce retrait peut, pour les mêmes motifs, être ordonné avant la mise à exécution de la permission.
 
-Le juge peut à cette fin décerner un mandat d'amener ou d'arrêt en application des dispositions de l'article 712-7.
+Le juge peut à cette fin décerner un mandat d'amener ou d'arrêt en application des dispositions de l'article 712-17.
