@@ -5,6 +5,7 @@
 - [Article L233-8](article-l233-8.md)
 - [Article L233-9](article-l233-9.md)
 - [Article L233-10](article-l233-10.md)
+- [Article L233-10-1](article-l233-10-1.md)
 - [Article L233-11](article-l233-11.md)
 - [Article L233-12](article-l233-12.md)
 - [Article L233-13](article-l233-13.md)

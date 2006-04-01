@@ -4,7 +4,7 @@ I. - Ne sont pas soumis à la procédure de l'étude d'impact, sous réserve des
 
 II. - Toutefois, la procédure de l'étude d'impact est applicable quel que soit le coût de leur réalisation, aux aménagements, ouvrages et travaux définis ci-après :
 
-1° Opérations d'aménagement foncier visées aux 2°, 5° et 6° de l'article L. 121-1 du code rural, y compris leurs travaux connexes ;
+1° Opérations d'aménagements fonciers agricoles et forestiers visées au 1° de l'article L. 121-1 du code rural, y compris leurs travaux connexes ;
 
 2° Travaux d'installation ou de modernisation des ouvrages de transport et de distribution d'électricité de tension supérieure ou égale à 63 kV ;
 
