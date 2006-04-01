@@ -4,7 +4,7 @@ Les associations régulièrement déclarées ayant pour objet statutaire explici
 
 Ces associations sont :
 
-- les associations agréées, dans des conditions fixées par décret après avis du ministère public et de l'Autorité des marchés financiers, lorsqu'elles justifient de six mois d'existence et, pendant cette même période, d'au moins deux cents membres cotisant individuellement et lorsque leurs dirigeants remplissent des conditions d'honorabilité et de compétence fixées par décret ;
+- les associations agréées, dans des conditions fixées par décret, après avis du ministère public et de l'Autorité des marchés financiers, lorsqu'elles justifient de six mois d'existence et, pendant cette même période, d'au moins deux cents membres cotisant individuellement et lorsque leurs dirigeants remplissent des conditions d'honorabilité et de compétence fixées par décret ;
 
 - les associations qui répondent aux critères de détention de droits de vote définis par l'article L. 225-120 du code de commerce si elles ont communiqué leurs statuts à l'Autorité des marchés financiers.
 

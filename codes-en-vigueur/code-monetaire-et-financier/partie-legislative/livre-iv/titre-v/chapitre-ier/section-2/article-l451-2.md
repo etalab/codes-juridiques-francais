@@ -38,7 +38,7 @@ VII. - Lorsque les actions de la société sont admises aux négociations sur un
 
 II. - Les sociétés dont des actions sont admises aux négociations sur un marché réglementé publient chaque mois le nombre total de droits de vote et le nombre d'actions composant le capital de la société s'ils ont varié par rapport à ceux publiés antérieurement, dans des conditions et selon des modalités fixées par le règlement général de l'Autorité des marchés financiers. Ces sociétés sont réputées remplir l'obligation prévue au I."
 
-"Art. L. 233-9. -  I. - Sont assimilés aux actions ou aux droits de vote possédés par la personne tenue à l'information prévue au I de l'article L. 233-7 :
+"Art. L. 233-9. - I. - Sont assimilés aux actions ou aux droits de vote possédés par la personne tenue à l'information prévue au I de l'article L. 233-7 :
 
 1° Les actions ou les droits de vote possédés par d'autres personnes pour le compte de cette personne ;
 
@@ -76,6 +76,8 @@ II. - Un tel accord est présumé exister :
 
 III. - Les personnes agissant de concert sont tenues solidairement aux obligations qui leur sont faites par les lois et règlements."
 
+" Art. L. 233-10-1 - En cas d'offre publique d'acquisition, sont considérées comme agissant de concert les personnes qui ont conclu un accord avec l'auteur d'une offre publique visant à obtenir le contrôle de la société qui fait l'objet de l'offre. Sont également considérées comme agissant de concert les personnes qui ont conclu un accord avec la société qui fait l'objet de l'offre afin de faire échouer cette offre. "
+
 "Art. L. 233-11 - Toute clause d'une convention prévoyant des conditions préférentielles de cession ou d'acquisition d'actions admises aux négociations sur un marché réglementé et portant sur au moins 0,5 % du capital ou des droits de vote de la société qui a émis ces actions doit être transmise dans un délai de cinq jours de bourse à compter de la signature de la convention ou de l'avenant introduisant la clause concernée, à la société et à l'Autorité des marchés financiers. A défaut de transmission, les effets de cette clause sont suspendus, et les parties déliées de leurs engagements, en période d'offre publique.
 
 La société et l'Autorité des marchés financiers doivent également être informées de la date à laquelle la clause prend fin.
@@ -90,9 +92,9 @@ Les notifications sont faites dans le délai d'un mois à compter soit du jour o
 
 "Art. L. 233-10-1 - En cas d'offre publique d'acquisition, sont considérées comme agissant de concert les personnes qui ont conclu un accord avec l'auteur d'une offre publique visant à obtenir le contrôle de la société qui fait l'objet de l'offre. Sont également considérées comme agissant de concert les personnes qui ont conclu un accord avec la société qui fait l'objet de l'offre afin de faire échouer cette offre.
 
-"Art. L. 233-13 -  En fonction des informations reçues en application des articles L. 233-7 et L. 233-12, le rapport présenté aux actionnaires sur les opérations de l'exercice mentionne l'identité des personnes physiques ou morales détenant directement ou indirectement plus du vingtième, du dixième, des trois vingtièmes, du cinquième, du quart, du tiers, de la moitié, des deux tiers ou des dix-neuf vingtièmes du capital social ou des droits de vote aux assemblées générales. Il fait également apparaître les modifications intervenues au cours de l'exercice. Il indique le nom des sociétés contrôlées et la part du capital de la société qu'elles détiennent. Il en est fait mention, le cas échéant, dans le rapport des commissaires aux comptes."
+"Art. L. 233-13 - En fonction des informations reçues en application des articles L. 233-7 et L. 233-12, le rapport présenté aux actionnaires sur les opérations de l'exercice mentionne l'identité des personnes physiques ou morales détenant directement ou indirectement plus du vingtième, du dixième, des trois vingtièmes, du cinquième, du quart, du tiers, de la moitié, des deux tiers ou des dix-neuf vingtièmes du capital social ou des droits de vote aux assemblées générales. Il fait également apparaître les modifications intervenues au cours de l'exercice. Il indique le nom des sociétés contrôlées et la part du capital de la société qu'elles détiennent. Il en est fait mention, le cas échéant, dans le rapport des commissaires aux comptes."
 
-"Art. L. 233-14 -  A défaut d'avoir été régulièrement déclarées dans les conditions prévues aux I et II de l'article L. 233-7, les actions excédant la fraction qui aurait dû être déclarée, lorsqu'elles sont admises aux négociations sur un marché réglementé ou sur un marché d'instruments financiers admettant aux négociations des actions pouvant être inscrites en compte chez un intermédiaire habilité dans les conditions prévues à l'article L. 211-4 du code monétaire et financier, sont privées du droit de vote pour toute assemblée d'actionnaires qui se tiendrait jusqu'à l'expiration d'un délai de deux ans suivant la date de régularisation de la notification.
+"Art. L. 233-14 - A défaut d'avoir été régulièrement déclarées dans les conditions prévues aux I et II de l'article L. 233-7, les actions excédant la fraction qui aurait dû être déclarée, lorsqu'elles sont admises aux négociations sur un marché réglementé ou sur un marché d'instruments financiers admettant aux négociations des actions pouvant être inscrites en compte chez un intermédiaire habilité dans les conditions prévues à l'article L. 211-4 du code monétaire et financier, sont privées du droit de vote pour toute assemblée d'actionnaires qui se tiendrait jusqu'à l'expiration d'un délai de deux ans suivant la date de régularisation de la notification.
 
 Dans les mêmes conditions, les droits de vote attachés à ces actions et qui n'ont pas été régulièrement déclarés ne peuvent être exercés ou délégués par l'actionnaire défaillant.
 

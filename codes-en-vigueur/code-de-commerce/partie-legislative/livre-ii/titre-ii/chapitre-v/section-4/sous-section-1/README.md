@@ -5,7 +5,6 @@
 - [Article L225-129](article-l225-129.md)
 - [Article L225-129-1](article-l225-129-1.md)
 - [Article L225-129-2](article-l225-129-2.md)
-- [Article L225-129-3](article-l225-129-3.md)
 - [Article L225-129-4](article-l225-129-4.md)
 - [Article L225-129-5](article-l225-129-5.md)
 - [Article L225-129-6](article-l225-129-6.md)
