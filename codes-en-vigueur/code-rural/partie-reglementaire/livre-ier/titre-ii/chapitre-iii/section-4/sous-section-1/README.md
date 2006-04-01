@@ -9,6 +9,7 @@
 - [Article R*123-24](article-r-123-24.md)
 - [Article R*123-25](article-r-123-25.md)
 - [Article R*123-26](article-r-123-26.md)
+- [Article R123-26](article-r123-26.md)
 - [Article R*123-27](article-r-123-27.md)
 - [Article R*123-28](article-r-123-28.md)
 - [Article R*123-29](article-r-123-29.md)
