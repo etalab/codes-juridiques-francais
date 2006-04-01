@@ -1,4 +1,4 @@
-# Sous-section 4 : Remembrement dans une aire d'appellation d'origine controlée.
+# Sous-section 4 : Dispositions particulières aux aires d'appellation d'origine contrôlée.
 
 - [Article R123-43](article-r123-43.md)
 - [Article R123-44](article-r123-44.md)
