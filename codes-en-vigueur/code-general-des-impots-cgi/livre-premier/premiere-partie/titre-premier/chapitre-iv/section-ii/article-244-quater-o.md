@@ -1,6 +1,6 @@
 # Article 244 quater O
 
-I. - Les entreprises mentionnées au III et imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 decies et 44 undecies peuvent bénéficier d'un crédit d'impôt égal à 10 % de la somme :
+I. - Les entreprises mentionnées au III et imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies et 44 undecies peuvent bénéficier d'un crédit d'impôt égal à 10 % de la somme :
 
 1° Des salaires et charges sociales afférents aux salariés directement et exclusivement chargés de la conception de nouveaux produits dans un des secteurs ou métiers mentionnés au III et aux ingénieurs et techniciens de production chargés de la réalisation de prototypes ou d'échantillons non vendus ;
 
