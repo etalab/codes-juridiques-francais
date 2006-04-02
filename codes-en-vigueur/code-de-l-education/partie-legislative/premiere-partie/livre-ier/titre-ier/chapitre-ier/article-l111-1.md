@@ -4,6 +4,8 @@ L'éducation est la première priorité nationale. Le service public de l'éduca
 
 Outre la transmission des connaissances, la Nation fixe comme mission première à l'école de faire partager aux élèves les valeurs de la République.
 
+L'école garantit à tous les élèves l'apprentissage et la maîtrise de la langue française.
+
 Dans l'exercice de leurs fonctions, les personnels mettent en oeuvre ces valeurs.
 
 Le droit à l'éducation est garanti à chacun afin de lui permettre de développer sa personnalité, d'élever son niveau de formation initiale et continue, de s'insérer dans la vie sociale et professionnelle, d'exercer sa citoyenneté.
