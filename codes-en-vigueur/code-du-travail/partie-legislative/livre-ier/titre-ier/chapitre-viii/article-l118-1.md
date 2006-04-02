@@ -10,7 +10,7 @@ Ces derniers précisent les objectifs poursuivis en vue :
 
 3° De valoriser la condition matérielle des apprentis ;
 
-4° De développer le préapprentissage ;
+4° De développer le préapprentissage, notamment la formation d'apprenti junior mentionnée à l'article L. 337-3 du code de l'éducation ;
 
 5° De promouvoir le soutien à l'initiative pédagogique et à l'expérimentation ;
 
