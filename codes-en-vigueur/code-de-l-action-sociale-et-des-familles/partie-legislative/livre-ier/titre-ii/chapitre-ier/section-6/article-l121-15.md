@@ -1,0 +1,5 @@
+# Article L121-15
+
+L'Agence nationale pour la cohésion sociale et l'égalité des chances est administrée par un conseil d'administration et un directeur général nommé par l'Etat. Le conseil d'administration est composé pour moitié de représentants de l'Etat et pour moitié de représentants des organisations syndicales d'employeurs et de salariés représentatives au plan national, de représentants du Parlement, de représentants des communes et de leurs établissements publics de coopération intercommunale compétents, des départements, des régions, des caisses nationales de sécurité sociale, des organismes régis par le code de la mutualité, des associations et des chambres consulaires ainsi que de personnalités qualifiées. Le président du conseil d'administration est désigné par l'Etat parmi ces dernières.
+
+Le représentant de l'Etat dans le département y est le délégué de l'agence. Il signe les conventions passées pour son compte et concourt à leur mise en oeuvre, à leur évaluation et à leur suivi.
