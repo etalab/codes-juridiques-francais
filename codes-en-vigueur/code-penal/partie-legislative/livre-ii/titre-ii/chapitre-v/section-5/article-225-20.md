@@ -12,4 +12,6 @@ Les personnes physiques coupables des infractions prévues par les sections 1 bi
 
 5° L'interdiction, pour une durée de cinq ans au plus, de détenir ou de porter une arme soumise à autorisation ;
 
-6° L'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de la République.
+6° L'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de la République ;
+
+7° L'interdiction d'exercer, soit à titre définitif, soit pour une durée de dix ans au plus, une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs.

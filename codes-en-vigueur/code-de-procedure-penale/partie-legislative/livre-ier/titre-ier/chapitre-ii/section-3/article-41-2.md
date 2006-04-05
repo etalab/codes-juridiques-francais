@@ -28,7 +28,7 @@ Le procureur de la République, tant que l'action publique n'a pas été mise en
 
 13° Accomplir, le cas échéant à ses frais, un stage de citoyenneté ;
 
-14° En cas d'infraction commise soit contre son conjoint ou son concubin, soit contre ses enfants ou les enfants de ce dernier, résider hors du domicile ou de la résidence du couple, et, le cas échéant, s'abstenir de paraître dans ce domicile ou cette résidence ou aux abords immédiats de celui-ci, ainsi que, si nécessaire, faire l'objet d'une prise en charge sanitaire, sociale ou psychologique.
+14° En cas d'infraction commise soit contre son conjoint, son concubin ou son partenaire lié par un pacte civil de solidarité, soit contre ses enfants ou ceux de son conjoint, concubin ou partenaire, résider hors du domicile ou de la résidence du couple et, le cas échéant, s'abstenir de paraître dans ce domicile ou cette résidence ou aux abords immédiats de celui-ci, ainsi que, si nécessaire, faire l'objet d'une prise en charge sanitaire, sociale ou psychologique ; les dispositions du présent 14° sont également applicables lorsque l'infraction est commise par l'ancien conjoint ou concubin de la victime, ou par la personne ayant été liée à elle par un pacte civil de solidarité, le domicile concerné étant alors celui de la victime.
 
 Lorsque la victime est identifiée, et sauf si l'auteur des faits justifie de la réparation du préjudice commis, le procureur de la République doit également proposer à ce dernier de réparer les dommages causés par l'infraction dans un délai qui ne peut être supérieur à six mois. Il informe la victime de cette proposition.
 
