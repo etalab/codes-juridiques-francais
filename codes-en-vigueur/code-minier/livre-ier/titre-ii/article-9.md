@@ -1,6 +1,6 @@
 # Article 9
 
-Le permis exclusif de recherches de substances concessibles, autres que les combustibles minéraux solides et les sels de potassium, est accordé par l'autorité administrative, après mise en concurrence, pour une durée de cinq ans au plus.
+Le permis exclusif de recherches de substances concessibles est accordé par l'autorité administrative, après mise en concurrence, pour une durée de cinq ans au plus.
 
 Dans le département de la Guyane, pour les substances autres que les hydrocarbures liquides ou gazeux, la demande de permis n'est pas soumise à concurrence si la superficie sollicitée est inférieure à un seuil fixé par décret en Conseil d'Etat.
 

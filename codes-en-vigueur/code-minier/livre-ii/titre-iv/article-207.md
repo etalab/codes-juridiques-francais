@@ -64,4 +64,4 @@ Décret n° 55-593 du 20 mai 1955.
 
 Toutefois les concessions accordées sous le régime institué par la loi du 9 septembre 1919 et maintenues sous ce régime restent soumises aux conditions du cahier des charges annexé à leur acte institutif ;
 
-Les périmètres d'exploitation d'hydrocarbures liquides ou gazeux institués en application de la loi du 18 juillet 1941 relative à la recherche et à l'exploitation des hydrocarbures en Aquitaine restent soumis aux conditions auxquelles ils ont été institués. A compter du 1er janvier 1981, les titulaires de ces concessions et l'exploitant du périmètre d'exploitation de Lacq sont tenus de payer annuellement à l'Etat la redevance prévue à l'article 31 du présent code.
+Les périmètres d'exploitation d'hydrocarbures liquides ou gazeux institués en application de la loi du 18 juillet 1941 relative à la recherche et à l'exploitation des hydrocarbures en Aquitaine sont soumis aux dispositions du livre Ier du présent code relatives aux concessions de mines d'hydrocarbures liquides ou gazeux. Les actes qui les ont institués valent concession au titre du présent code sans changement de leur durée de validité.
