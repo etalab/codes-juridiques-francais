@@ -1,5 +1,5 @@
 # Article R532-2
 
-La commission se réunit sur convocation de son président. En cas de partage des voix, celle du président est prépondérante.
+Pour l'application à Saint-Pierre-et-Miquelon du premier alinéa de l'article R. 146-27, l'équipe pluridisciplinaire réunit des professionnels ayant des compétences médicales et des compétences dans les domaines du travail social, de la formation scolaire et universitaire, de l'emploi et de la formation professionnelle.
 
-La commission peut appeler à participer occasionnellement à ses travaux à titre consultatif toutes les personnes susceptibles de l'éclairer. Elle peut consulter des spécialistes extérieurs et faire procéder, s'il y a lieu, à toutes investigations complémentaires.
+Le directeur de la maison territoriale des personnes handicapées peut faire appel à d'autres compétences ou professionnels, y compris hors de la collectivité territoriale, en fonction de la nature de la demande et du handicap de la personne.

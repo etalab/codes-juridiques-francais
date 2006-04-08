@@ -1,3 +1,3 @@
 # Article R532-3
 
-Le secrétaire de la commission est nommé par le préfet. Il instruit les dossiers, recueille les avis nécessaires et présente la synthèse de ses travaux à la commission qui statue. Il informe les familles ou les personnes qui ont la charge effective de l'enfant ou de l'adolescent.
+Pour l'application à Saint-Pierre-et-Miquelon de l'article R. 146-30, les mots : "directeur départemental du travail, de l'emploi et de la formation professionnelle" sont remplacés par les mots : "chef du service du travail, de l'emploi et de la formation professionnelle".
