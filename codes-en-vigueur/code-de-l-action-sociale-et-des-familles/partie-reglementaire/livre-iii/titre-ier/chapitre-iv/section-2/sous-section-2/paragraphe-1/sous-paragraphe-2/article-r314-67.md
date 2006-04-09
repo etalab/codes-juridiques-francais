@@ -10,4 +10,4 @@ III. - Sur les dons et legs qui n'ont pas encore été acceptés, le comptable f
 
 IV. - Le comptable répond sous huit jours aux demandes d'information de l'ordonnateur relatives à la situation de trésorerie de l'établissement.
 
-V. - L'exécution du budget est retracée au niveau le plus détaillé de la nomenclature comptable fixée en application de l'article R. 314-5. Toutefois, le comptable ne vérifie la disponibilité des crédits qu'au regard des montants approuvés des groupes fonctionnels ou des sections tarifaires, mentionnés au II de l'article R. 314-13.
+V. - L'exécution du budget est retracée au niveau le plus détaillé de la nomenclature comptable fixée en application de l'article R. 314-5. Toutefois, le comptable ne vérifie la disponibilité des crédits qu'au niveau des montants adoptés dans les conditions prévues à l'article L. 315-15.

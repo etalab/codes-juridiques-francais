@@ -18,4 +18,4 @@ III. - Les décisions budgétaires modificatives ne peuvent être approuvées qu
 
 IV. - A la suite d'une approbation, tacite ou expresse, de la demande de décision budgétaire modificative, l'autorité de tarification modifie le tarif dans un délai de quinze jours.
 
-V. - Aucune décision budgétaire modificative ne peut être sollicitée par l'établissement ou le service après le 31 octobre de l'exercice auquel elle se rapporte.
+V. - Après accord de l'autorité de tarification, l'établissement ou le service peut cependant solliciter une décision budgétaire modificative entraînant une révision des tarifs de prestations après le 31 octobre de l'exercice auquel elle se rapporte.

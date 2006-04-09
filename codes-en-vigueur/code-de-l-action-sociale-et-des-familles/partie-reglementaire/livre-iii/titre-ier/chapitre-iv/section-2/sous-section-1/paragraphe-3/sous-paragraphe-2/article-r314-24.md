@@ -1,6 +1,6 @@
 # Article R314-24
 
-I. - Les propositions de modifications budgétaires mentionnées à l'article R. 314-22 peuvent être formulées à l'établissement ou au service par plusieurs courriers successifs. Ceux-ci doivent lui être transmis au plus tard douze jours avant la notification de la décision tarifaire.
+I. - Les propositions de modifications budgétaires mentionnées à l'article R. 314-22 peuvent être formulées à l'établissement ou au service par plusieurs courriers successifs. Ceux-ci doivent lui être transmis au plus tard douze jours avant l'expiration des délais prévus à l'article R. 314-36.
 
 II. - Dans un délai de huit jours après réception de chaque courrier, l'établissement ou le service doit faire connaître son éventuel désaccord avec la proposition de l'autorité de tarification.
 

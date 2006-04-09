@@ -8,7 +8,7 @@ La convention prévue par l'article L. 345-3 définit la nature et les condition
 
 3° La capacité d'accueil du centre ;
 
-4° Les moyens affectés à la réalisation des actions, en particulier la qualification des travailleurs sociaux et la composition des équipes pluridisciplinaires employées ;
+4° (Abrogé) ;
 
 5° Les conditions dans lesquelles le centre assure l'accueil des personnes en situation d'urgence ;
 

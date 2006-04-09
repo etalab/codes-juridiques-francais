@@ -16,4 +16,6 @@ Ne peuvent être prises en compte pour la fixation du tarif d'un établissement 
 
 7° Les dépenses d'alimentation des personnes hébergées dans les appartements de coordination thérapeutique mentionnés au 9° du I de l'article L. 312-1 ;
 
-8° Les frais liés aux actions de prévention en santé publique, à l'exception des actes et traitements mentionnés au 6° de l'article L. 321-1 du code de la sécurité sociale.
+8° Les frais liés aux actions de prévention en santé publique, à l'exception des actes et traitements mentionnés au 6° de l'article L. 321-1 du code de la sécurité sociale ;
+
+9° Les dotations aux amortissements et aux provisions pour congés à payer et charges sociales et fiscales y afférents, dont les modalités ne respectent pas les règles de l'instruction comptable des établissements publics sociaux et médico-sociaux.

@@ -12,7 +12,9 @@ II. - L'excédent d'exploitation peut être affecté :
 
 4° À un compte de réserve de compensation ;
 
-5° À un compte de réserve de trésorerie dans la limite de la couverture du besoin en fonds de roulement, tel que défini au III de l'article R. 314-48.
+5° À un compte de réserve de trésorerie dans la limite de la couverture du besoin en fonds de roulement, tel que défini au III de l'article R. 314-48 ;
+
+6° A un compte d'excédent affecté à la compensation des charges d'amortissement des équipements, agencements et installations de mise aux normes de sécurité.
 
 III. - Le déficit est couvert en priorité par reprise sur le compte de réserve de compensation, le surplus étant ajouté aux charges d'exploitation de l'exercice au cours duquel le déficit est constaté, ou de l'exercice qui suit. En cas de circonstances exceptionnelles, la reprise du déficit peut être étalée sur trois exercices.
 

@@ -2,7 +2,7 @@
 
 Le conseil est consulté par le préfet :
 
-1° En application de l'article L. 331-7 ;
+1°(Abrogé) ;
 
 2° En application et dans les conditions prévues par l'article L. 211-7 du code du travail ;
 

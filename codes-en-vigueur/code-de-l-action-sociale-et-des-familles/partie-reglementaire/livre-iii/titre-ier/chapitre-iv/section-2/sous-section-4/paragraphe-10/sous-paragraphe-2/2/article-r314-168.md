@@ -24,4 +24,6 @@ Ne peuvent être prises en compte dans le calcul des tarifs journaliers afféren
 
 2° Les frais couverts par un organisme mutualiste mentionné à l'article L. 111-1 du code de la mutualité ;
 
-3° La participation de l'assuré social aux frais de soins mentionnée à l'article L. 322-2 du code de la sécurité sociale.
+3° La participation de l'assuré social aux frais de soins mentionnée à l'article L. 322-2 du code de la sécurité sociale ;
+
+4° Les dotations aux amortissements et aux provisions pour congés à payer et charges sociales et fiscales y afférents, dont les modalités ne respectent pas les règles de l'instruction comptable des établissements publics sociaux et médico-sociaux.

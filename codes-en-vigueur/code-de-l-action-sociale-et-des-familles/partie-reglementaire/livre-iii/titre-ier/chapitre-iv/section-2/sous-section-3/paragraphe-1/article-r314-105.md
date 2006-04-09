@@ -6,7 +6,9 @@ I. - Pour les établissements et services mentionnés au 1° de l'article L. 312
 
 1° Pour ceux des services d'aide à domicile qui relèvent également du 8° du même article, par le département, sous la forme de tarifs horaires établis et versés conformément aux dispositions du paragraphe 5 de la sous-section 4 de la section 2 ;
 
-2° Pour les autres établissements et services, par le département, sous la forme d'un prix de journée éventuellement globalisé, établi et versé dans les conditions prévues aux sous-paragraphes 3 et 4 du paragraphe 2 de la sous-section 3 de la présente section.
+2° Pour les autres établissements et services, par le département, sous la forme d'un prix de journée éventuellement globalisé, établi et versé dans les conditions prévues aux sous-paragraphes 3 et 4 du paragraphe 2 de la sous-section 3 de la présente section ;
+
+3° Pour les équipes de prévention spécialisée relevant du 1° du I de l'article L. 312-1 et du 2° de l'article L. 221-1, sous la forme d'une dotation globale versée par le département dans les conditions précisées aux articles R. 314-106 à R. 314-109.
 
 II. - Pour les établissements et services mentionnés au 2° de l'article L. 312-1 :
 
@@ -22,7 +24,9 @@ IV. - Pour les établissements et services mentionnés au 4° de l'article L. 31
 
 1° Pour les établissements et services mentionnés au a) du III de l'article L. 314-1, par le département en vertu de l'article L. 228-3, et le cas échéant par l'Etat, dans les conditions et sous les formes fixées à l'article R. 314-125 ;
 
-2° Pour les établissements et services mentionnés au b) du III de l'article L. 314-1, par l'Etat dans les conditions et sous les formes fixées à l'article R. 314-126.
+2° Pour les établissements et services mentionnés au b) du III de l'article L. 314-1, par l'Etat dans les conditions et sous les formes fixées à l'article R. 314-126 ;
+
+3° Pour les services d'enquêtes sociales et les services d'investigation et d'orientation éducative relevant des articles 375 à 375-8 du code civil et des articles 1181 à 1200 du nouveau code de procédure civile, de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante, par l'Etat, sous les formes et dans les conditions fixées aux articles R. 314-125 et R. 314-126 du code de l'action sociale et des familles.
 
 V. - Pour les établissements et services mentionnés au a) du 5° de l'article L. 312-1 :
 

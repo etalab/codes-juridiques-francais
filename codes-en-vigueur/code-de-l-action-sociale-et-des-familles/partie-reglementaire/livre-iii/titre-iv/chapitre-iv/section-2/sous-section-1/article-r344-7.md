@@ -10,7 +10,7 @@ Cette convention, qui entraîne la prise en charge au titre de l'aide sociale de
 
 3° La nature des activités professionnelles et extra professionnelles offertes par le centre ;
 
-4° Le nombre et la qualification des personnels d'encadrement nécessaires à l'exercice des activités professionnelles ;
+4° (Abrogé) ;
 
 5° Les modalités selon lesquelles sont assurés, en fonction des catégories de personnes accueillies, les soutiens médicaux, éducatifs, sociaux et psychologiques ainsi que le nombre et la qualification des personnels qui y contribuent ;
 

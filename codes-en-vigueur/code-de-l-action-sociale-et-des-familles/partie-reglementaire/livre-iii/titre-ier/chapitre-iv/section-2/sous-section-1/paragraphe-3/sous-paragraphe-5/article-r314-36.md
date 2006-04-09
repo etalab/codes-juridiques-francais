@@ -1,6 +1,6 @@
 # Article R314-36
 
-I. - La décision d'autorisation budgétaire et de tarification est notifiée par l'autorité de tarification à l'établissement ou au service dans un délai de 60 jours qui court à compter :
+I. - La décision d'autorisation budgétaire est notifiée par l'autorité de tarification à l'établissement ou au service dans un délai de 60 jours qui court à compter :
 
 1° De la publication de l'arrêté fixant les dotations régionales limitatives en application de l'article L. 314-3, pour les établissements et services financés en tout ou partie par l'assurance maladie ;
 

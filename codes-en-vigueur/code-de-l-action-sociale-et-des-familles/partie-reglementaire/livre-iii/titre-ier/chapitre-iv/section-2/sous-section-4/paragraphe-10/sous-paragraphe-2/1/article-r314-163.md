@@ -10,7 +10,7 @@ a) De la répartition des personnes accueillies dans les établissements par niv
 
 b) De la répartition des emplois et des effectifs des établissements entre les sections de calcul des tarifs, dans le respect des dispositions prévues à l'article R. 314-164 ;
 
-3° Le tableau, figurant à l'annexe 3-4, définissant les modalités de détermination et d'affectation des résultats de chaque section d'imputation tarifaire des établissements hébergeant des personnes âgées dépendantes autres que ceux relevant des articles L. 342-1 à L. 342-6, conformément aux modalités prévues à l'article R. 314-51 ou, le cas échéant, à l'article R. 6145-51 du code de la santé publique ;
+3° Le tableau, figurant à l'annexe 3-4, définissant les modalités de détermination et d'affectation des résultats de chaque section d'imputation tarifaire des établissements hébergeant des personnes âgées dépendantes, conformément aux modalités prévues à l'article R. 314-51 ou, le cas échéant, à l'article R. 6145-51 du code de la santé publique. Pour les établissements relevant des articles L. 342-1 à L. 342-6, la détermination et l'affectation des résultats des sections tarifaires "dépendance" et "soins" est réalisée conformément aux dispositions de l'article R. 314-104 ;
 
 4° Le tableau de bord, figurant à l'annexe 3-5, établissant la liste des indicateurs médico-socio-économiques.
 

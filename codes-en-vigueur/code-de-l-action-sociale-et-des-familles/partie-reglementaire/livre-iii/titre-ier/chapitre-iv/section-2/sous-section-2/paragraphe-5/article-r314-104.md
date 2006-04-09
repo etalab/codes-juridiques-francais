@@ -1,7 +1,9 @@
 # Article R314-104
 
-I. - Pour les établissements et services mentionnés aux articles R. 314-101 et R. 314-102, la production du compte de résultat au titre du 1° de l'article R. 314-49 est remplacée par la production d'un compte d'emploi.
+Les établissements relevant de l'article R. 314-102 transmettent dans les délais mentionnés au II de l'article R. 314-49 un rapport d'activité et un compte d'emploi dont le modèle est fixé par arrêté du ministre chargé de l'action sociale.
 
-II. - Si les financements alloués ont couvert des dépenses sans rapport avec celles pour lesquelles ils étaient prévus, ou si l'établissement ou le service n'est pas en mesure de justifier de leur emploi, il est procédé à leur reversement.
+Les documents et informations mentionnés aux 2°, 3° et 4° du I de l'article R. 314-17 et, le cas échéant, au 2° du II de cet article R. 314-17 sont transmis avec le compte d'emploi.
 
-Toutefois, pour les établissements mentionnés à l'article L. 342-1, et avec l'accord de l'autorité de tarification, les sommes concernées peuvent être imputées sur les ressources destinées à financer, pour les exercices suivants, les dépenses afférentes aux soins ou à la dépendance.
+Les résultats du compte d'emploi relatifs aux sections tarifaires afférentes à la dépendance et aux soins des établissements relevant de l'article L. 342-1 sont affectés par l'autorité de tarification compétente, en application des 1°, 3° et 4° du II ou du III de l'article R. 314-51.
+
+Les établissements peuvent toutefois affecter eux-mêmes le résultat de la section tarifaire afférente à la dépendance, si les produits du tarif relatif à la dépendance, versés par le département qui fixe ce tarif, représentent moins de la moitié des recettes d'exploitation de cette section tarifaire. Cette affectation doit respecter les dispositions des 3° et 4° du II et des III et IV de l'article R. 314-51.
