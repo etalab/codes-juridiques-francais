@@ -1,5 +1,6 @@
 # Section 2 : Dotation globale d'équipement
 
+- [Article D3334-8-1](article-d3334-8-1.md)
 - [Article R3334-4](article-r3334-4.md)
 - [Article R3334-5](article-r3334-5.md)
 - [Article R3334-6](article-r3334-6.md)
