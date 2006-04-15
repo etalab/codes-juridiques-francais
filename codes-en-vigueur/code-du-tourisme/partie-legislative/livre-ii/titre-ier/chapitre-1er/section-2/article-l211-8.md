@@ -1,6 +1,6 @@
 # Article L211-8
 
-Les dispositions du présent titre s'appliquent aux opérations énumérées aux articles L. 211-1, au dernier alinéa de l'article L. 211-3 et à l'article L. 211-4.
+Les dispositions de la présente section s'appliquent aux opérations énumérées aux articles L. 211-1, au dernier alinéa de l'article L. 211-3 et à l'article L. 211-4.
 
 Toutefois, elles ne sont pas applicables lorsque ces prestations n'entrent pas dans un forfait touristique, tel que défini à l'article L. 211-2 :
 
