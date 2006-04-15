@@ -6,7 +6,7 @@ I. - Toute publicité est interdite :
 
 2° Sur les monuments naturels et dans les sites classés ;
 
-3° Dans les parcs nationaux et les réserves naturelles ;
+3° Dans les coeurs des parcs nationaux et les réserves naturelles ;
 
 4° Sur les arbres.
 
