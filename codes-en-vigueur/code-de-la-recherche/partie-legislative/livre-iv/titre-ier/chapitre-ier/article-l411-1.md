@@ -10,4 +10,6 @@ c) La diffusion de l'information et de la culture scientifique et technique dans
 
 d) La participation à la formation initiale et à la formation continue ;
 
-e) L'administration de la recherche.
+e) L'administration de la recherche ;
+
+f) L'expertise scientifique.
