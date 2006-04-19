@@ -10,6 +10,8 @@ Sont agents de police judiciaire adjoints :
 
 1° quater Les agents de surveillance de Paris ;
 
+1° quinquies Les militaires servant au titre de la réserve opérationnelle de la gendarmerie nationale ne remplissant pas les conditions prévues par l'article 20-1 ;
+
 2° Les agents de police municipale.
 
 Ils ont pour mission :

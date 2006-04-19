@@ -66,7 +66,7 @@ c. les produits financiers issus du placement de la trésorerie de ces organisme
 
 5° bis. Les organismes sans but lucratif mentionnés au 1° du 7 de l'article 261, pour les opérations à raison desquelles ils sont exonérés de la taxe sur la valeur ajoutée ;
 
-6° Les régions et les ententes interrégionales, les départements et les ententes interdépartementales, les communes, les établissements publics de coopération intercommunale à fiscalité propre, syndicats de communes et syndicats mixtes constitués exclusivement de collectivités territoriales ou de groupements de ces collectivités ainsi que leurs régies de services publics ;
+6° Les régions et les ententes interrégionales, les  départements et les ententes interdépartementales, les communes, les établissements publics de coopération intercommunale à fiscalité propre, syndicats de communes et syndicats mixtes constitués exclusivement de collectivités territoriales ou de groupements de ces collectivités ainsi que leurs régies de services publics ;
 
 6° bis. Dans les conditions fixées par décret, les établissements publics et sociétés d'économie mixte chargés de l'aménagement par une convention contractée, en application du deuxième alinéa de l'article L. 300-4 du code de l'urbanisme ainsi que les sociétés d'habitations à loyer modéré régies par l'article L. 411-2 du code de la construction et de l'habitation, pour les résultats provenant des opérations réalisées dans le cadre des procédures suivantes :
 
@@ -83,6 +83,14 @@ e.- opérations de rénovation urbaine.
 7° Les sociétés coopératives de construction qui procèdent, sans but lucratif, au lotissement et à la vente de terrains leur appartenant. Cette exonération est également applicable sous les mêmes conditions aux sociétés d'économie mixte dont les statuts sont conformes aux clauses types annexées au décret n° 69-295 du 24 mars 1969, ainsi qu'aux groupements dits de "Castors" dont les membres effectuent des apports de travail ;
 
 8° Les sociétés coopératives de construction désignées à l'article 1378 sexies.
+
+9° Les établissements publics de recherche et les établissements publics d'enseignement supérieur ;
+
+10° Les personnes morales créées pour la gestion d'un pôle de recherche et d'enseignement supérieur ou d'un réseau thématique de recherche avancée ;
+
+11° Les fondations reconnues d'utilité publique du secteur de la recherche, parmi lesquelles les fondations de coopération scientifique.
+
+Les exonérations dont bénéficient les personnes morales visées aux 9°, 10° et 11° s'appliquent aux revenus tirés des activités conduites dans le cadre des missions du service public de l'enseignement supérieur et de la recherche définies aux articles L. 123-3 du code de l'éducation et L. 112-1 du code de la recherche.
 
 1 bis. Lorsque les sociétés coopératives ou leurs unions émettent des certificats coopératifs d'investissement, l'exonération visée au 1 n'est pas applicable à la fraction des résultats correspondant à la part du montant nominal des certificats coopératifs dans le capital social.
 
