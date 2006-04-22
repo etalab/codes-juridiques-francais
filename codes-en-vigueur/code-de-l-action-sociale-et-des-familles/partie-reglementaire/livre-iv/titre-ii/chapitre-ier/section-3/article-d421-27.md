@@ -9,3 +9,5 @@ La formation adaptée aux besoins spécifiques des enfants accueillis que doit s
 L'attestation de formation délivrée par l'établissement de formation est remise à l'assistant familial et à son employeur.
 
 Sont dispensés de suivre la formation prévue au troisième alinéa du présent article les assistants familiaux titulaires d'un diplôme d'auxiliaire de puériculture, d'éducateur de jeunes enfants, d'éducateur spécialisé ou de puéricultrice.
+
+La rémunération prévue au premier alinéa de l'article L. 421-15 ne peut être inférieure à 50 fois le salaire minimum de croissance par mois.
