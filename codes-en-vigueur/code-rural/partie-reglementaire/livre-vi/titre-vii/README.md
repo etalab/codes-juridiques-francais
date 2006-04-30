@@ -21,3 +21,4 @@
 - [Article R671-15](article-r671-15.md)
 - [Article R671-16](article-r671-16.md)
 - [Article R671-17](article-r671-17.md)
+- [Article R671-18](article-r671-18.md)
