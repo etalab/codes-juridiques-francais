@@ -25,3 +25,4 @@
 - [Section 0I quater : Financement en capital d'oeuvres cinématographiques ou audiovisuelles](section-0i-quater)
 - [Section 0I quinquies : Financement en capital de la pêche artisanale](section-0i-quinquies)
 - [Section 0I sexies : Mécénat d'entreprises](section-0i-sexies)
+- [Section 0I septies : Financement en capital des sociétés d'approvisionnement à long terme d'électricité](section-0i-septies)
