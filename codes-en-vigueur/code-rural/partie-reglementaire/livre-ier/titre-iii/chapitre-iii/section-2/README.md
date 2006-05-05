@@ -5,4 +5,3 @@
 - [Article R133-11](article-r133-11.md)
 - [Article R*133-12](article-r-133-12.md)
 - [Article R133-12](article-r133-12.md)
-- [Article R*133-13](article-r-133-13.md)
