@@ -1,4 +1,4 @@
-# Chapitre III : Associations foncières de remembrement
+# Chapitre III : Les associations foncières d'aménagement foncier agricole et forestier
 
 - [Section 1 : Dispositions générales.](section-1)
 - [Section 2 : Règles particulières au remembrement-aménagement.](section-2)
