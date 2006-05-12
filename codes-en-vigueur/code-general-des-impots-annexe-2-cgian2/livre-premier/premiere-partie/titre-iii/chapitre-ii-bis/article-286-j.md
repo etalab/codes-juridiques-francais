@@ -158,4 +158,4 @@ X. - Les documents et les pièces justificatives nécessaires à l'établissemen
 
 XI. - La validation des documents mentionnés à l'article 302 M du code général des impôts pour l'expédition ou l'enlèvement de produits n'est possible que si l'entrepositaire agréé respecte les obligations afférentes à la tenue de la comptabilité matières telles que prévues par le présent article et les obligations mentionnées aux articles 614 et 614 A dudit code.
 
-En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualité d'entrepositaire agréé peut être retirée.
+En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualité d'entrepositaire agréé peut être retirée par le directeur régional des douanes et droits indirects.
