@@ -11,3 +11,4 @@
 - [Paragraphe 8 : Appartements de coordination thérapeutique.](paragraphe-8)
 - [Paragraphe 9 : Etablissements hébergeant des personnes âgées dépendantes](paragraphe-9)
 - [Paragraphe 10 : Services d'accompagnement à la vie sociale et services d'accompagnement médico-social pour adultes handicapés](paragraphe-10)
+- [Paragraphe 11 : Structures dénommées "lits halte soins santé".](paragraphe-11)
