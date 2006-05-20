@@ -4,7 +4,7 @@ Convention type conclue entre l'Etat et ..., nom de la personne physique ou mora
 
 En application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation pour le programme de ...
 
-Le ministre de l'équipement, des transports et du logement agissant au nom de l'Etat, représenté par le préfet,
+Le ministre chargé du logement, agissant au nom de l'Etat, et représenté par le préfet, ou, lorsqu'un établissement public de coopération intercommunale ou un département a signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2, par le président de l'établissement public de coopération intercommunale ou du conseil général,
 
 D'une part,
 
@@ -54,7 +54,7 @@ Elle expire le 30 juin.
 
 La convention est renouvelée par tacite reconduction par périodes triennales. Elle peut être résiliée par chacune des parties. La résiliation prend effet au terme de la convention initiale ou au terme de chaque période de renouvellement. La résiliation à l'initiative de l'une des parties est notifiée au cocontractant au moins six mois avant la date d'expiration de la convention initiale ou renouvelée par acte authentique (acte notarié ou acte d'huissier de justice) ou par acte administratif.
 
-La dénonciation ou la résiliation est publiée au fichier immobilier ou inscrite au livre foncier par le préfet, qu'elle soit de son initiative ou qu'elle émane du bailleur. Les frais correspondants sont à la charge du bailleur.
+La dénonciation ou la résiliation est publiée au fichier immobilier ou inscrite au livre foncier par le préfet, ou, lorsqu'un établissement public de coopération intercommunale ou un département a signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2, par le président de l'établissement public de coopération intercommunale ou du conseil général, qu'elle soit de son initiative ou qu'elle émane du bailleur. Les frais correspondants sont à la charge du bailleur.
 
 Le remboursement, anticipé ou non, d'un des prêts utilisés pour financer l'opération ainsi qu'une procédure de redressement fiscal sont sans effet sur la durée de la convention.
 
@@ -88,7 +88,7 @@ Mise en gestion des logements.
 
 Si la gestion n'est pas directement assurée par le bailleur, celui-ci la fait assurer par les personnes et dans les conditions définies par l'arrêté du 9 mars 1978 portant agrément des personnes ou organismes habilités à gérer des logements faisant l'objet d'une convention.
 
-Le bailleur informe le préfet, les organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement pour le compte de l'Etat et les locataires de la mise en gestion du programme ou de tout changement de gestionnaire.
+Le bailleur informe le préfet, et, le cas échéant, le président de l'établissement public de coopération intercommunale ou le président du conseil général partie à la présente convention, les organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement pour le compte de l'Etat et les locataires de la mise en gestion du programme ou de tout changement de gestionnaire.
 
 Article 7.
 
@@ -98,7 +98,7 @@ Les logements faisant l'objet de la présente convention sont maintenus à usage
 
 1° - Conditions de location.
 
-Les logements sont loués non meublés à des personnes physiques, à titre de résidence principale, et occupés au moins huit mois par an. Ils ne peuvent faire l'objet de sous-location, sauf dans les conditions prévues par l'article L. 353-20 du code de la construction et de l'habitation ainsi qu'au profit de personnes ayant passé avec le locataire un contrat conforme à l'article 6 de la loi n° 89-475 du 10 juillet 1989 relative à l'accueil par des particuliers, à leur domicile, à titre onéreux, de personnes âgées ou handicapées adultes. Ils ne peuvent être occupés à titre d'accessoire d'un contrat de travail ou en raison de l'exercice d'une fonction.
+Les logements sont loués non meublés à des personnes physiques, à titre de résidence principale, et occupés au moins huit mois par an. Ils ne peuvent faire l'objet de sous-location, sauf dans les conditions prévues par l'article L. 353-20 du code de la construction et de l'habitation ainsi qu'au profit de personnes ayant passé avec le locataire un contrat conforme à l'article L. 442-1 du code de l'action sociale et des familles. Ils ne peuvent être occupés à titre d'accessoire d'un contrat de travail ou en raison de l'exercice d'une fonction.
 
 Ils ne peuvent être loués ou occupés à quelque titre que ce soit ni par :
 
@@ -140,7 +140,9 @@ Le bailleur s'engage à attribuer tous les logements proposés à la location co
 
 4° - Cas d'une acquisition ou d'une convention sans travaux faisant suite à une nouvelle acquisition lorsque les loyers ne sont pas établis sur la base de la surface corrigée, résultant de l'application du décret n° 48-1766 du 22 novembre 1948 et de l'article 4 du décret n° 60-1063 du 1er octobre 1960.
 
-Il est procédé, sur la base des éléments recueillis lors de l'enquête prévue à l'article L. 441-9 ou à l'article L. 442-5, à un bilan de l'occupation sociale des logements dans les conditions définies par arrêté du ministre chargé du logement, à l'exception des bailleurs non soumis à l'article L. 442-5.    (1) Indiquer un nombre.
+Il est procédé, sur la base des éléments recueillis lors de l'enquête prévue à l'article L. 441-9 ou à l'article L. 442-5, à un bilan de l'occupation sociale des logements dans les conditions définies par arrêté du ministre chargé du logement, à l'exception des bailleurs non soumis à l'article L. 442-5.
+
+(1) Indiquer un nombre.
 
 (2) Indiquer le plus petit nombre entier permettant de respecter l'engagement de 30 %.
 
@@ -196,7 +198,9 @@ Dans la limite du loyer maximum établi dans les conditions ci-dessus, le loyer 
 
 Article 9 bis.
 
-Dispositions particulières relatives aux loyers pratiqués des logements conventionnés lors d'une d'acquisition, ou d'une convention sans travaux faisant suite à une nouvelle acquisition lorsque les loyers ne sont pas établis sur la base de la surface corrigée, résultant de l'application du décret n° 48-1766 du 22 novembre 1948 et de l'article 4 du décret n° 60-1063 du 1er octobre 1960.    Lors de l'envoi du projet de bail prévu aux articles 10, 11 et 12 de la présente convention le bailleur informe les locataires ou occupants de bonne foi en place au moment de l'acquisition qu'ils disposent également d'un délai de six mois à compter de la réception de l'information pour présenter leurs justificatifs de revenus dans les conditions prévues pour l'attribution des logements sociaux et que ceux disposant de ressources inférieures aux plafonds prévus à l'article R. 331-12 du code de la construction et de l'habitation pour l'attribution des logements sociaux se verront appliquer, à partir de l'entrée en vigueur du nouveau bail dans les conditions de l'article 11 ou 12 de la présente convention un nouveau loyer dans la limite du loyer maximum fixé au document prévu par l'article 1er de la présente convention.
+Dispositions particulières relatives aux loyers pratiqués des logements conventionnés lors d'une d'acquisition, ou d'une convention sans travaux faisant suite à une nouvelle acquisition lorsque les loyers ne sont pas établis sur la base de la surface corrigée, résultant de l'application du décret n° 48-1766 du 22 novembre 1948 et de l'article 4 du décret n° 60-1063 du 1er octobre 1960.
+
+Lors de l'envoi du projet de bail prévu aux articles 10, 11 et 12 de la présente convention le bailleur informe les locataires ou occupants de bonne foi en place au moment de l'acquisition qu'ils disposent également d'un délai de six mois à compter de la réception de l'information pour présenter leurs justificatifs de revenus dans les conditions prévues pour l'attribution des logements sociaux et que ceux disposant de ressources inférieures aux plafonds prévus à l'article R. 331-12 du code de la construction et de l'habitation pour l'attribution des logements sociaux se verront appliquer, à partir de l'entrée en vigueur du nouveau bail dans les conditions de l'article 11 ou 12 de la présente convention un nouveau loyer dans la limite du loyer maximum fixé au document prévu par l'article 1er de la présente convention.
 
 Le locataire ou occupant de bonne foi peut également présenter ces justificatifs, à tout moment et bénéficier de la même mesure, dès le mois qui suit la présentation de ces justificatifs.
 
@@ -232,7 +236,7 @@ Celui-ci prend effet, lorsque la convention ne prévoit pas de travaux, à compt
 
 Il prend effet, lorsque la convention prévoit des travaux, à compter de la date d'achèvement de l'ensemble des travaux concernant la tranche dans laquelle est compris le logement.
 
-Ceux-ci font l'objet d'une attestation d'exécution conforme, établie par le préfet ou son représentant, et dont une copie est remise contre décharge au locataire.
+Ceux-ci font l'objet d'une attestation d'exécution conforme, établie par le préfet ou, lorsqu'un établissement public de coopération intercommunale ou un département a signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2, par le président de l'établissement public de coopération intercommunale ou du conseil général, et dont une copie est remise contre décharge au locataire.
 
 Si le locataire bénéficiait d'un bail régi par la loi de 1948 lors de la signature de la convention, les dispositions de la loi de 1948 qui ont cessé de lui être appliquées pendant la durée de la convention peuvent lui être à nouveau appliquées conformément aux dispositions de l'article L. 353-9 du code de la construction et de l'habitation dans les conditions précisées à l'article 14 ci-après.
 
@@ -250,7 +254,7 @@ La présente convention ne prévoyant pas de travaux, le bail entre en vigueur �
 
 La présente convention prévoyant des travaux, le bail et, notamment, la clause relative au montant du loyer entre en vigueur à compter de la date d'achèvement des travaux concernant la tranche dans laquelle est compris le logement concerné (1).
 
-Les travaux font l'objet d'une attestation d'exécution conforme, établie par le préfet ou son représentant, et dont une copie est remise contre décharge à l'occupant.
+Les travaux font l'objet d'une attestation d'exécution conforme, établie par le préfet ou, lorsqu'un établissement public de coopération intercommunale ou un département a signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2, par le président de l'établissement public de coopération intercommunale ou du conseil général, et dont une copie est remise contre décharge à l'occupant.
 
 Jusqu'à la date d'achèvement des travaux ainsi constaté, l'occupant de bonne foi continue à occuper les lieux aux conditions de la loi du 1er septembre 1948.
 
@@ -264,7 +268,7 @@ Prise d'effet du bail conforme à la convention pour les logements financés dan
 
 Pour les logements financés en application du livre III du code de la construction et de l'habitation, conformément à l'article L. 353-8 dans le cas où les travaux d'amélioration prévus par la présente convention sont pour tout ou partie justifiés par des considérations de salubrité, de sécurité ou de mise aux normes minimales d'habitabilité, les dispositions de la présente convention et notamment celles relatives au montant du loyer après travaux, tel que fixé dans le projet de bail, s'appliquent de plein droit à compter de la date d'achèvement des travaux concernant la tranche dans laquelle est compris le logement.
 
-Ces travaux font l'objet d'une attestation d'exécution conforme établie par le préfet ou son représentant et dont une copie est remise contre décharge au locataire.
+Ces travaux font l'objet d'une attestation d'exécution conforme établie par le préfet ou, lorsqu'un établissement public de coopération intercommunale ou un département a signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2, par le président de l'établissement public de coopération intercommunale ou du conseil général et dont une copie est remise contre décharge au locataire.
 
 Le projet de bail, auquel seront annexés une copie de la présente convention, une notice d'information relative à l'aide personnalisée au logement et des éléments relatifs au barème de cette aide, doit reproduire en caractères très apparents les dispositions de l'article L. 353-8 du code de la construction et de l'habitation.
 
@@ -288,7 +292,7 @@ Article 15.
 
 Information des locataires en cas de changement de propriétaire.
 
-En cas de mutation à titre gratuit ou onéreux, et en vue de l'information du préfet du département du lieu de situation du logement, des locataires et des organismes liquidateurs de l'aide personnalisée au logement, le ou les nouveaux propriétaires leur font connaître leur identification dans les conditions conformes, soit à l'article 5, soit à l'article 6 du décret n° 55-22 du 4 janvier 1955 modifié, par lettre recommandée avec demande d'avis de réception ou remise contre décharge dans un délai d'un mois à compter de ladite mutation.
+En cas de mutation à titre gratuit ou onéreux, et en vue de l'information du préfet et, le cas échéant, du président de l'établissement public de coopération intercommunale ou du président du conseil général partie à la présente convention, des locataires et des organismes liquidateurs de l'aide personnalisée au logement, le ou les nouveaux propriétaires leur font connaître leur identification dans les conditions conformes, soit à l'article 5, soit à l'article 6 du décret n° 55-22 du 4 janvier 1955 modifié, par lettre recommandée avec demande d'avis de réception ou remise contre décharge dans un délai d'un mois à compter de ladite mutation.
 
 Article 16.
 
@@ -312,13 +316,13 @@ Modalités du paiement du loyer.
 
 Le loyer est payé mensuellement à terme échu.
 
-Le bailleur précise sur la quittance le montant du loyer principal, du ou des loyers accessoires, des charges locatives et le cas échéant le montant de l'aide personnalisée au logement, si celle-ci est versée directement au bailleur conformément à l'article L. 351-9 du code de la construction et de l'habitation. A compter du 1er janvier 2002, la quittance doit comporter le montant du loyer maximum par logement.
+Le bailleur précise sur la quittance le montant du loyer principal, du ou des loyers accessoires, des charges locatives et le cas échéant le montant de l'aide personnalisée au logement, si celle-ci est versée directement au bailleur conformément à l'article L. 351-9 du code de la construction et de l'habitation. La quittance doit comporter le montant du loyer maximum par logement.
 
 En application du même article, pour chaque appel de loyer, le bailleur déduit s'il y a lieu le montant de l'aide personnalisée au logement qu'il perçoit pour le compte du locataire du montant du loyer et des dépenses accessoires de logement.
 
 Lorsque l'organisme liquidateur de l'aide personnalisée au logement verse au bailleur des rappels d'aide personnalisée pour le compte de locataires, le bailleur affecte ces sommes au compte de ces derniers. Si après affectation il en résulte un surplus, le bailleur le reverse au locataire dans le délai d'un mois.
 
-En cas d'impayé de loyer, le bailleur doit poursuivre le recouvrement de sa créance en notifiant au locataire défaillant, par lettre recommandée avec accusé de réception, le montant de cette créance. Il doit également informer le locataire, lorsque celui-ci est bénéficiaire de l'aide personnalisée au logement, de la saisine de la section des aides publiques au logement du conseil départemental de l'habitat visée à l'article 21 de la présente convention en cas de non-règlement de la dette.
+En cas d'impayé de loyer, le bailleur doit poursuivre le recouvrement de sa créance en notifiant au locataire défaillant, par lettre recommandée avec accusé de réception, le montant de cette créance. Il doit également informer le locataire, lorsque celui-ci est bénéficiaire de l'aide personnalisée au logement, de la saisine de la commission départementale des aides publiques au logement visée à l'article 21 de la présente convention en cas de non-règlement de la dette.
 
 Toutefois, lorsque les logements appartiennent à l'association foncière mentionnée à l'article 116 de la loi de finances pour 2002 ou à l'une de ses filiales, et que le locataire bénéficie de l'aide personnalisée au logement, le bailleur ne peut faire délivrer une assignation aux fins de constat de résiliation du bail avant l'expiration d'un délai de trois mois suivant la saisine de la commission mentionnée à l'article L. 351-14 en vue d'assurer le maintien du versement de l'aide personnalisée au logement, sauf si la décision de cette commission intervient avant l'expiration de ce délai.
 
@@ -328,7 +332,7 @@ Dépôt de garantie.
 
 Le dépôt de garantie stipulé, le cas échéant, par le contrat de location pour garantir l'exécution de ses obligations locatives par le locataire ne peut être supérieur à deux mois de loyer en principal.
 
-IV. - Engagements à l'égard des organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement et à l'égard de la section des aides publiques au logement.
+IV. - Engagements à l'égard des organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement et à l'égard de la commission départementale des aides publiques au logement.
 
 Article 20.
 
@@ -340,19 +344,19 @@ Obligations à l'égard des organismes chargés pour le compte de l'Etat de la l
 
 - le montant du loyer applicable à chaque logement concerné par la présente convention à compter du 1er juillet de la même année pour permettre le renouvellement des droits à l'aide personnalisée au logement qui a lieu à cette date ;
 
-- un document attestant que tous les bénéficiaires sont à jour de leurs obligations vis-à-vis du bailleur ou le cas échéant la liste des bénéficiaires d'aide personnalisée au logement non à jour en certifiant que cette liste est exhaustive. Ce document mentionne également la date à laquelle la section des aides publiques au logement du conseil départemental de l'habitat prévue à l'article R. 351-47 du code de la construction et de l'habitation a été saisie en cas d'impayé constitué au sens de l'article R. 351-30 du même code.
+- un document attestant que tous les bénéficiaires sont à jour de leurs obligations vis-à-vis du bailleur ou le cas échéant la liste des bénéficiaires d'aide personnalisée au logement non à jour en certifiant que cette liste est exhaustive. Ce document mentionne également la date à laquelle la commission départementale des aides publiques au logement prévue à l'article R. 351-47 du code de la construction et de l'habitation a été saisie en cas d'impayé constitué au sens de l'article R. 351-30 du même code.
 
 3° En outre, il fait part dans un délai maximum d'un mois aux organismes liquidateurs de l'aide personnalisée au logement des modifications affectant la situation locative du bénéficiaire (notamment colocation, résiliation de bail, décès).
 
 Article 21.
 
-Obligations à l'égard de la section des aides publiques au logement du conseil départemental de l'habitat (SDAPL).
+Obligations à l'égard de la commission départementale des aides publiques au logement (CDAPL).
 
-Le bailleur percevant l'aide personnalisée au logement pour le compte du locataire saisit en application des articles R. 351-30 et R. 351-64 du code de la construction et de l'habitation la section des aides publiques au logement du conseil départemental de l'habitat dès qu'un impayé de loyer est constitué en justifiant des démarches entreprises auprès du locataire défaillant. En outre, il lui communique le montant de l'impayé constitué au moment de la saisine.
+Le bailleur percevant l'aide personnalisée au logement pour le compte du locataire saisit en application des articles R. 351-30 et R. 351-64 du code de la construction et de l'habitation la commission départementale des aides publiques au logement dès qu'un impayé de loyer est constitué en justifiant des démarches entreprises auprès du locataire défaillant. En outre, il lui communique le montant de l'impayé constitué au moment de la saisine.
 
-Il fournit également à la section des aides publiques au logement du conseil départemental de l'habitat une copie du bail lorsque celle-ci le lui demande et l'informe lorsqu'une procédure d'expulsion d'un bénéficiaire d'aide personnalisée au logement est engagée pour non-paiement du loyer.
+Il fournit également à la commission départementale des aides publiques au logement une copie du bail lorsque celle-ci le lui demande et l'informe lorsqu'une procédure d'expulsion d'un bénéficiaire d'aide personnalisée au logement est engagée pour non-paiement du loyer.
 
-La section des aides publiques au logement du conseil départemental de l'habitat décide du maintien ou de la suspension de l'aide personnalisée au logement et en informe le bailleur et le bénéficiaire.
+La commission départementale des aides publiques au logement décide du maintien ou de la suspension de l'aide personnalisée au logement et en informe le bailleur et le bénéficiaire.
 
 V. - Dispositions relatives à l'application de la convention.
 
@@ -390,9 +394,9 @@ Article 25.
 
 Publication.
 
-La publication de la convention, de ses éventuels avenants et de sa résiliation au fichier immobilier ou leur inscription au livre foncier incombe au préfet. Les frais de publication sont à la charge du bailleur.
+La publication de la convention, de ses éventuels avenants et de sa résiliation au fichier immobilier ou leur inscription au livre foncier incombe au préfet, ou, lorsqu'un établissement public de coopération intercommunale ou un département a signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2, au président de l'établissement public de coopération intercommunale ou du conseil général. Les frais de publication sont à la charge du bailleur.
 
-Le préfet transmet aux organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement une photocopie de la présente convention, de ses avenants éventuels ainsi que l'état prouvant qu'elle ou ils ont bien fait l'objet d'une publication au fichier immobilier ou d'une inscription au livre foncier.
+Le préfet, ou, lorsqu'un établissement public de coopération intercommunale ou un département a signé une convention mentionnée aux articles L. 301-5-1 et L301-5-2, le président de l'établissement public de coopération intercommunale ou du conseil général, transmet aux organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement une photocopie de la présente convention, de ses avenants éventuels ainsi que l'état prouvant qu'elle ou ils ont bien fait l'objet d'une publication au fichier immobilier ou d'une inscription au livre foncier.
 
 Article 26.
 
@@ -404,7 +408,7 @@ Fait en 4 originaux à ..., le ...
 
 Le bailleur La bailleur doit avoir, préalablement à sa signature, paraphé chacune des pages.
 
-Le préfet.
+Le préfet, le président de l'établissement public de coopération intercommunale ou le président du conseil général.
 
 Article 27.
 
