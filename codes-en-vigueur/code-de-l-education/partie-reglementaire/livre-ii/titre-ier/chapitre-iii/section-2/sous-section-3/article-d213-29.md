@@ -4,7 +4,7 @@ L'harmonisation géographique des temps scolaires étant un facteur déterminant
 
 1° Par le recteur d'académie, sur les modifications de la structure pédagogique générale des établissements du second degré susceptibles d'entraîner des évolutions dans l'organisation des transports scolaires ;
 
-2° Par le recteur d'académie, sur les modifications du calendrier scolaire régies par les dispositions du décret du 14 mars 1990 susvisé, ou par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, lorsqu'il a reçu délégation de signature pour procéder à ces modifications ;
+2° Par le recteur d'académie, sur les modifications du calendrier scolaire régies par les dispositions du décret du 14 mars 1990 relatif aux conditions dans lesquelles le calendrier scolaire peut être adapté pour tenir compte de situations locales, ou par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, lorsqu'il a reçu délégation de signature pour procéder à ces modifications ;
 
 3° Par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, sur :
 
