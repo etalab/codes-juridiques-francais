@@ -12,7 +12,7 @@ c) Deux membres représentants des usagers, dont un représentant des parents d'
 
 2° Huit représentants du secteur maritime :
 
-a) Trois membres représentant les personnels des écoles maritimes et aquacoles et, s'il y a lieu, les personnels des écoles nationales de la marine marchande nommés par le préfet de région sur proposition des organisations syndicales des personnels les plus représentatives dans la région ou pour les professeurs de l'enseignement maritime sur proposition de l'inspecteur général de l'enseignement maritime ;
+a) Trois membres représentant les personnels des lycées professionnels maritimes et, s'il y a lieu, les personnels des écoles nationales de la marine marchande nommés par le préfet de région sur proposition des organisations syndicales des personnels les plus représentatives dans la région ou pour les professeurs de l'enseignement maritime sur proposition de l'inspecteur général de l'enseignement maritime ;
 
 b) Un représentant des parents d'élèves nommé par le préfet de région sur proposition des organisations syndicales de marins les plus représentatives dans la région ou un étudiant sur proposition des organisations représentatives des étudiants des écoles nationales de la marine marchande ;
 
