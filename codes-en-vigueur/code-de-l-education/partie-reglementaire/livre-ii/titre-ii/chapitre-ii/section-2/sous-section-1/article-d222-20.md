@@ -6,7 +6,7 @@ a) Au secrétaire général de l'académie et, en cas d'absence ou d'empêchemen
 
 b) Aux inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale et, en cas d'absence ou d'empêchement de ceux-ci, aux inspecteurs d'académie adjoints et au secrétaire général de l'inspection académique ou au chef des services administratifs de l'inspection académique.
 
-Les inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale, dans le cadre des délégations de pouvoir qui leur sont conférées par le recteur, sont autorisés à déléguer leur signature :
+Les inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale, dans le cadre des délégations de pouvoir qui leur sont conférées, sont autorisés à déléguer leur signature :
 
 a) Aux inspecteurs d'académie adjoints et au secrétaire général de l'inspection académique ou au chef des services administratifs de l'inspection académique ;
 
