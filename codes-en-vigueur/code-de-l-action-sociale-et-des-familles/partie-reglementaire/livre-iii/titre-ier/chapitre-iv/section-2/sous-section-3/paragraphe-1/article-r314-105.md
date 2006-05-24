@@ -4,11 +4,13 @@ Les dépenses liées à l'activité sociale et médico-sociale des établissemen
 
 I. - Pour les établissements et services mentionnés au 1° de l'article L. 312-1 :
 
-1° Pour ceux des services d'aide à domicile qui relèvent également du 8° du même article, par le département, sous la forme de tarifs horaires établis et versés conformément aux dispositions du paragraphe 5 de la sous-section 4 de la section 2 ;
+1° Pour ceux des services d'aide à domicile qui relèvent également des 6° et 7° du même article, par le département, sous la forme de tarifs horaires établis et versés conformément aux dispositions du paragraphe 5 de la sous-section 4 de la section 2 ;
 
 2° Pour les autres établissements et services, par le département, sous la forme d'un prix de journée éventuellement globalisé, établi et versé dans les conditions prévues aux sous-paragraphes 3 et 4 du paragraphe 2 de la sous-section 3 de la présente section ;
 
-3° Pour les équipes de prévention spécialisée relevant du 1° du I de l'article L. 312-1 et du 2° de l'article L. 221-1, sous la forme d'une dotation globale versée par le département dans les conditions précisées aux articles R. 314-106 à R. 314-109.
+3° Pour les équipes de prévention spécialisée relevant du 1° du I de l'article L. 312-1 et du 2° de l'article L. 221-1, sous la forme d'une dotation globale versée par le département dans les conditions précisées aux articles R. 314-106 à R. 314-109 ;
+
+4° Pour les services assurant une action d'aide à domicile prévue au deuxième alinéa de l'article L. 222-3, par le département sous forme d'une dotation globale de financement versée dans les conditions précisées aux articles R. 314-106 à R. 314-109.
 
 II. - Pour les établissements et services mentionnés au 2° de l'article L. 312-1 :
 
@@ -54,9 +56,9 @@ VIII. - Pour les établissements et services mentionnés au 7° de l'article L. 
 
 2° Pour les foyers d'accueil médicalisés et les services d'accompagnement médico-social pour adultes handicapés, par le département pour les frais d'accompagnement à la vie sociale et, le cas échéant, d'hébergement, sous la forme d'un tarif journalier établi et versé dans les conditions fixées par les articles R. 314-145 et R. 314-146, et par l'assurance maladie pour les dépenses afférentes aux soins médicaux, en vertu des articles L. 174-7 et L. 162-24-1 du code de la sécurité sociale, sous la forme d'un forfait journalier établi et versé dans les conditions fixées aux articles R. 314-142 et R. 314-143 ;
 
-3° Pour les services de soins infirmiers à domicile, par l'assurance maladie, sous la forme d'une dotation globale établie dans les conditions fixées au paragraphe 6 de la sous-section 4 de la présente section et versée dans les conditions fixées aux articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale.
+3° Pour les services d'aide à domicile ne dispensant pas de soins, par le département, sous la forme de tarifs horaires établis et versés dans les conditions fixées au paragraphe 5 de la sous-section 4 de la présente section ;
 
-4° Pour les services de soins infirmiers à domicile, par l'assurance maladie, sous la forme d'un forfait annuel global de soins établi et versé dans les conditions fixées au paragraphe 6 de la sous-section 4 de la présente section  ;
+4° Pour les services de soins infirmiers à domicile, par l'assurance maladie, sous la forme d'une dotation globale établie dans les conditions fixées au paragraphe 6 de la sous-section 4 de la présente section et versée dans les conditions fixées aux articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale.
 
 5° Pour les autres établissements et services, par le département sous la forme d'un prix de journée établi et versé conformément aux dispositions du sous-paragraphe 3 du paragraphe 2 de la sous-section 3 de la présente section.
 
@@ -64,7 +66,7 @@ IX. - Pour les établissements et services mentionnés au 8° de l'article L. 31
 
 1° Pour les centres d'hébergement et de réinsertion sociale mentionnés à l'article L. 345-1, par l'Etat sous la forme d'une dotation globale de financement établie et versée dans les conditions fixées au sous-paragraphe 1 du paragraphe 2 de la présente sous-section et au paragraphe 9 de la sous-section 4 de la présente section ;
 
-2° Pour les services d'aide à domicile qui relèvent simultanément du 1° du I de l'article L. 312-1, par le département, sous la forme de tarifs horaires établis et versés conformément aux dispositions du paragraphe 5 de la sous-section 4 de la présente section ;
+2° Pour les services d'aide à domicile qui relèvent simultanément du 1° du I de l'article L. 312-1, par le département sous forme d'une dotation globale de financement versée dans les conditions précisées aux articles R. 314-106 à R. 314-109 ;
 
 3° Pour les centres maternels et hôtels maternels qui accueillent des femmes isolées, enceintes ou accompagnées d'enfants de moins de trois ans, par le département sous la forme de prix de journées éventuellement globalisés, dans les conditions fixées par les sous-paragraphes 3 et 4 du paragraphe 2 de la sous-section 3 de la présente section ;
 
