@@ -18,4 +18,4 @@ III. - Le rapport de la mission d'enquête est communiqué au responsable de l'�
 
 La mission d'enquête propose des mesures de nature à remédier aux difficultés de fonctionnement ou de gestion qu'elle a constaté.
 
-Elle saisit, le cas échéant, l'autorité qui a délivré l'autorisation, afin qu'elle puisse notamment exercer les pouvoir de contrôle et d'injonction prévus aux articles L. 313-13 et L. 313-14, et le préfet du département, afin qu'il puisse exercer les pouvoirs qu'il tient notamment de l'article L. 313-16 et du titre III du livre III du présent code.
+Elle saisit, le cas échéant, l'autorité qui a délivré l'autorisation, afin qu'elle puisse notamment exercer les pouvoir de contrôle et d'injonction prévus à la section 4 du chapitre III du titre Ier du livre III du présent code, et le préfet du département, afin qu'il puisse exercer les pouvoirs qu'il tient notamment de l'article L. 313-16 et du titre III du livre III du présent code.

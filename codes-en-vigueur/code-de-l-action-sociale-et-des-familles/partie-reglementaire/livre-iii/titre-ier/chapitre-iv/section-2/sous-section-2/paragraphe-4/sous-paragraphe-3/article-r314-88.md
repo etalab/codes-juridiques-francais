@@ -12,7 +12,9 @@ I. - Les prestations dont la prise en charge peut être autorisée au titre de l
 
 5° A la conduite des études mentionnées à l'article R. 314-61 ;
 
-6° A la réalisation de prestations de service ou d'étude pour les établissements et services sociaux et médico-sociaux qui concourent à des économies d'échelle.
+6° A la réalisation de prestations de service ou d'étude pour les établissements et services sociaux et médico-sociaux qui concourent à des économies d'échelle ;
+
+7° A l'élaboration des contrats prévus à l'article R. 314-43-1.
 
 II. - L'autorisation est en outre subordonnée à l'existence de délégations de pouvoirs précises entre les administrateurs de l'organisme gestionnaire, les membres de sa direction générale et les agents de direction des établissements et services. Ces règles de délégation doivent être formalisées dans un document unique.
 
