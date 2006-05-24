@@ -2,14 +2,12 @@
 
 L'établissement public mentionné à l'article R. 521-1 a pour mission :
 
-1. D'exécuter les travaux nécessaires à la réalisation, sur le territoire métropolitain de l'inventaire permanent des ressources forestières prévu à l'article L. 521-1 du code forestier. Ces travaux sont réalisés selon des modalités définies par arrêté du ministre chargé des forêts ;
+1. D'élaborer et de mettre à jour, sur le territoire métropolitain, l'inventaire permanent des ressources forestières ;
 
-2. De publier les résultats d'inventaire et d'alimenter une base de données accessible au public. Cette base comprend l'ensemble des données collectées, à l'exception des éléments de localisation des points d'inventaire ;
+2. D'assurer la mise en oeuvre de programmes nationaux ou internationaux d'observation et de surveillance des écosystèmes forestiers ainsi que la production des indicateurs de gestion durable de la forêt française suivant les critères internationaux ;
 
-3. D'établir, de mettre à jour et de publier, en même temps que les résultats d'inventaire visés au point 2 ci-dessus, des cartes forestières aux échelles nécessaires, ainsi que les fichiers résultant de leur numérisation ;
+3. De diffuser auprès du public des données d'inventaire sur les milieux forestiers et de publier un rapport annuel des résultats de l'inventaire, dans des conditions fixées par arrêté du ministre chargé des forêts ;
 
-4. D'exécuter à la demande des administrations nationales ou locales tous travaux d'inventaires des milieux naturels ou de collecte de données les concernant ;
+4. De fournir au ministre chargé des forêts les éléments nécessaires à la définition, à la mise en oeuvre et à l'évaluation des orientations de la politique forestière nationale, à la délimitation de régions forestières homogènes sur le territoire national et à la préparation des positions françaises dans les instances internationales en matière forestière.
 
-5. D'apporter son concours technique aux études entreprises dans le domaine des inventaires des ressources forestières par tout établissement public ou toute personne publique ou privée, en France, y compris dans les départements et territoires d'outre-mer, ainsi qu'à l'étranger ;
-
-6. D'effectuer à la demande de toute personne publique ou privée, française ou étrangère des recherches, expertises, études, sondages et enquêtes touchant à l'inventaire des forêts et des autres espaces naturels, et notamment d'effectuer, en relation avec l'institut géographique national, tous travaux concernant la cartographie forestière.
+L'exercice des missions énumérées aux alinéas précédents fait l'objet d'un contrat pluriannuel entre l'établissement et l'Etat qui fixe les objectifs à poursuivre et prévoit les moyens de l'établissement.

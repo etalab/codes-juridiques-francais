@@ -12,4 +12,4 @@ Il représente l'établissement en justice et dans tous les actes de la vie civi
 
 Il est ordonnateur des recettes et des dépenses dans les conditions prévues par les décrets des 10 décembre 1953 et 29 décembre 1962.
 
-Il peut déléguer sa signature au directeur technique et au directeur administratif et financier de l'établissement.
+Il peut déléguer sa signature dans des conditions prévues par délibération du conseil d'administration.
