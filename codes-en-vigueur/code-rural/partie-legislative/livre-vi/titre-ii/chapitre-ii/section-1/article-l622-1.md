@@ -1,4 +1,4 @@
-# Article L621-39
+# Article L622-1
 
 I. - L'Agence unique de paiement, établissement public à caractère industriel et commercial placé sous la tutelle de l'Etat, a pour objet d'assurer, dès lors que la mission lui en est confiée par décret, le paiement et la gestion d'aides publiques communautaires ou nationales en faveur de l'agriculture et des industries qui lui sont liées. Elle apporte en outre, dans ce domaine, son appui aux établissements publics du secteur agricole qui lui en font la demande, dans des conditions précisées par voie de convention.
 
