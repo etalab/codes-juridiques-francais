@@ -14,7 +14,7 @@ e. D'associations cultuelles et de bienfaisance qui sont autorisées à recevoir
 
 f) Abrogé
 
-Ouvrent également droit à la réduction d'impôt les frais engagés dans le cadre d'une activité bénévole et en vue strictement de la réalisation de l'objet social d'un organisme mentionné aux deuxième à sixième alinéas, lorsque ces frais, dûment justifiés, ont été constatés dans les comptes de l'organisme et que le contribuable a renoncé expressément à leur remboursement. Ces dispositions s'appliquent aux frais engagés à compter de la date d'entrée en vigueur de la loi n° 2000-627 du 6 juillet 2000 modifiant la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives.
+Ouvrent également droit à la réduction d'impôt les frais engagés dans le cadre d'une activité bénévole et en vue strictement de la réalisation de l'objet social d'un organisme mentionné aux deuxième à sixième alinéas, lorsque ces frais, dûment justifiés, ont été constatés dans les comptes de l'organisme et que le contribuable a renoncé expressément à leur remboursement. Ces dispositions s'appliquent aux frais engagés à compter du 9 juillet 2000.
 
 1 bis. Pour l'application des dispositions du 1, lorsque les dons et versements effectués au cours d'une année excèdent la limite de 20 %, l'excédent est reporté successivement sur les années suivantes jusqu'à la cinquième inclusivement et ouvre droit à la réduction d'impôt dans les mêmes conditions.
 
