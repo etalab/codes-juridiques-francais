@@ -4,7 +4,7 @@ I. - Les diplômes ou les titres à finalité professionnelle sont obtenus par l
 
 La validation des acquis produit les mêmes effets que les autres modes de contrôle des connaissances et aptitudes.
 
-Peuvent être prises en compte, au titre de la validation, l'ensemble des compétences professionnelles acquises dans l'exercice d'une activité salariée, non salariée ou bénévole, en rapport direct avec le contenu du diplôme ou du titre. La durée minimale d'activité requise ne peut être inférieure à trois ans.
+Peuvent être prises en compte, au titre de la validation, l'ensemble des compétences professionnelles acquises dans l'exercice d'une activité salariée, non salariée, bénévole ou de volontariat, en rapport direct avec le contenu du diplôme ou du titre. La durée minimale d'activité requise ne peut être inférieure à trois ans.
 
 La validation est effectuée par un jury dont la composition garantit une présence significative de représentants qualifiés des professions concernées.
 

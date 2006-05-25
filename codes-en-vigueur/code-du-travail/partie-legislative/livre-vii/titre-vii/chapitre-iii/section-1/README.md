@@ -1,4 +1,4 @@
-# Section 1 : Dispositions générales.
+# Section 1 : Dispositions communes.
 
 - [Article L773-1](article-l773-1.md)
 - [Article L773-2](article-l773-2.md)

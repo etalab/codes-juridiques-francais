@@ -1,4 +1,4 @@
-# Section 3 : Dispositions spéciales aux personnes employées par des personnes morales de droit privé.
+# Section 3 : Dispositions applicables aux assistants maternels employés par des particuliers.
 
 - [Article L773-12](article-l773-12.md)
 - [Article L773-13](article-l773-13.md)
