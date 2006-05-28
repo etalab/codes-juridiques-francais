@@ -8,3 +8,4 @@
 - [6 : Contrôle des revenus mobiliers. Obligations des collectivités émettrices et des intermédiaires](6)
 - [7 : Sociétés de capital-risque. Obligations des actionnaires](7)
 - [3-0 bis : Revenus des valeurs mobilières émises hors de France et revenus assimilés](3-0-bis)
+- [3-0 A bis : Bons ou contrats de capitalisation ou placements de même nature investis en actions](3-0-a-bis)
