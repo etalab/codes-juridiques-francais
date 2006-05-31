@@ -40,7 +40,7 @@ d) La construction d'équipements culturels, sportifs ou de loisirs susceptibles
 
 14° Ouvrages destinés à l'épuration des eaux des collectivités locales permettant de traiter un flux de matières polluantes au moins équivalent à celui produit par 10 000 habitants, au sens de l'article R. 1416-3 du code de la santé publique ;
 
-15° Travaux d'installation des ouvrages de production d'énergie éolienne dont la puissance maximum est supérieure à 2,5 MW ;
+15° Travaux d'installation des ouvrages de production d'énergie éolienne dont la hauteur du mât dépasse 50 mètres ;
 
 16° Piscicultures soumises à autorisation ou concession en vertu de l'article L. 431-6 du présent code et définies au premier alinéa de l'article R. 431-16 de ce code ;
 
