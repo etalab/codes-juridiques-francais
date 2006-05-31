@@ -26,4 +26,4 @@ Pour les travaux et projets d'aménagements définis au présent article, la dis
 
 12° Travaux et ouvrages de défense contre la mer d'une emprise totale inférieure à 2 000 mètres carrés ;
 
-13° Travaux d'installation des ouvrages de production d'énergie éolienne dont la puissance maximum est inférieure ou égale à 2,5 MW.
+13° Travaux d'installation des ouvrages de production d'énergie éolienne dont la hauteur du mât est inférieure ou égale à 50 mètres.
