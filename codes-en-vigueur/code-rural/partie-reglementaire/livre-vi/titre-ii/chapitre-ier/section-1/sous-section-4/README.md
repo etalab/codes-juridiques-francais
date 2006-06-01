@@ -4,4 +4,3 @@
 - [Paragraphe 2 : La comptabilité et le compte financier.](paragraphe-2)
 - [Paragraphe 3 : Dispositions diverses.](paragraphe-3)
 - [Article R*621-24](article-r-621-24.md)
-- [Article R*621-161](article-r-621-161.md)

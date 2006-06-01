@@ -6,4 +6,3 @@
 - [Article D621-71](article-d621-71.md)
 - [Article D621-72](article-d621-72.md)
 - [Article D621-73](article-d621-73.md)
-- [Article R*621-67](article-r-621-67.md)
