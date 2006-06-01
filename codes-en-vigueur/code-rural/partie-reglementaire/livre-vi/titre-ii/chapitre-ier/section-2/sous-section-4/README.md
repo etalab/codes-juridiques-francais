@@ -1,4 +1,4 @@
-# Sous-section 4 : Régime financier et comptable.
+# Sous-section 4 : L'Office national interprofessionnel des produits de la mer et de l'aquaculture
 
 - [Article D621-55](article-d621-55.md)
 - [Article D621-56](article-d621-56.md)
