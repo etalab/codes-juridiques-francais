@@ -1,9 +1,5 @@
 # Sous-section 1 : Organisation et fonctionnement des offices d'intervention.
 
-- [Paragraphe 1 : Missions.](paragraphe-1)
-- [Paragraphe 2 : Conseil d'administration.](paragraphe-2)
-- [Paragraphe 3 : Direction.](paragraphe-3)
-- [Paragraphe 4 : Régime financier et comptable.](paragraphe-4)
 - [Article R621-2](article-r621-2.md)
 - [Article R621-3](article-r621-3.md)
 - [Article R621-4](article-r621-4.md)

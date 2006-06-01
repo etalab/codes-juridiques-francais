@@ -1,6 +1,5 @@
 # Titre VII : Dispositions pénales.
 
-- [Article R*671-1](article-r-671-1.md)
 - [Article R671-1](article-r671-1.md)
 - [Article R671-2](article-r671-2.md)
 - [Article R671-3](article-r671-3.md)

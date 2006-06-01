@@ -1,16 +1,4 @@
 # Sous-section 4 : L'Office national interprofessionnel des produits de la mer et de l'aquaculture
 
-- [Article D621-55](article-d621-55.md)
-- [Article D621-56](article-d621-56.md)
-- [Article D621-57](article-d621-57.md)
-- [Article D621-58](article-d621-58.md)
-- [Article D621-59](article-d621-59.md)
-- [Article D621-60](article-d621-60.md)
-- [Article D621-61](article-d621-61.md)
-- [Article D621-62](article-d621-62.md)
-- [Article D621-63](article-d621-63.md)
-- [Article D621-64](article-d621-64.md)
-- [Article D621-65](article-d621-65.md)
-- [Article D621-66](article-d621-66.md)
 - [Article R621-57](article-r621-57.md)
 - [Article R621-58](article-r621-58.md)
