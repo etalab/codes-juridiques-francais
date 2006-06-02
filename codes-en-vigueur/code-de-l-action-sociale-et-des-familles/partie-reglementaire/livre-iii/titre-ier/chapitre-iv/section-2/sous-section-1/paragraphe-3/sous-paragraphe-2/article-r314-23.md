@@ -20,4 +20,6 @@ L'autorité de tarification peut les justifier au regard, notamment :
 
 8° Des priorités qu'elle se fixe en matière d'action sociale, notamment celles mentionnées au deuxième alinéa de l'article L. 313-8 ;
 
-9° Des résultats des études diligentées conformément aux dispositions de l'article R. 314-61.
+9° Des résultats des études diligentées conformément aux dispositions de l'article R. 314-61 ;
+
+10° des indicateurs de référence arrêtés en application de l'article R. 314-33-1.

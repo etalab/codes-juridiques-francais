@@ -76,7 +76,7 @@ X. - Pour les établissements et services mentionnés au 9° de l'article L. 312
 
 1° Pour les centres de cure ambulatoire en alcoologie, par l'assurance maladie, en vertu des dispositions de l'article L. 3311-1 du code de la santé publique, sous la forme d'une dotation globale établie et versée dans les conditions fixée par les articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale ;
 
-2° Pour les centres spécialisés de soins aux toxicomanes, par l'assurance maladie, en vertu des dispositions de l'article L. 314-8, sous la forme d'une dotation globale établie et versée dans les conditions fixée par les articles R. 174-7 et R. 174-8 du code de la sécurité sociale ;
+2° Pour les centres spécialisés de soins aux toxicomanes, les centres d'accueil et d'accompagnement à la réduction des risques pour usagers de drogues, et les structures dénommées "lits halte soins santé" par l'assurance maladie, en vertu des dispositions de l'article L. 314-8 du présent code et de l'article L. 3121-5 du code de la santé publique, sous la forme d'une dotation globale établie et versée dans les conditions fixée par les articles R. 174-7 et R. 174-8 du code de la sécurité sociale ;
 
 3° Pour les appartements de coordination thérapeutique, par l'assurance maladie, en vertu des dispositions de l'article L. 314-8, sous la forme d'une dotation globale établie et versée dans les conditions fixée par les articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale.
 
