@@ -10,7 +10,7 @@ II. - Toutefois, la procédure de l'étude d'impact est applicable quel que soit
 
 3° Autorisations relatives aux ouvrages utilisant l'énergie hydraulique dont la puissance maximale brute totale est supérieure à 500 kW, à l'exception des demandes de changement de titulaire, des changements de destination de l'énergie ou des avenants ne modifiant pas la consistance ou le mode de fonctionnement des ouvrages ;
 
-4° Ouverture de travaux d'exploitation de mines ;
+4° Ouverture de travaux miniers et de travaux de stockage souterrain soumis à autorisation en vertu du décret n° 2006-649 du 2 juin 2006.
 
 5° Aménagements de stockages souterrains de gaz, d'hydrocarbures ou de produits chimiques ;
 
