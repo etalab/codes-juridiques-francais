@@ -1,8 +1,6 @@
 # Chapitre IV : Gestion du potentiel de production viticole.
 
-- [Article R*664-1](article-r-664-1.md)
 - [Article R664-1](article-r664-1.md)
-- [Article R*664-2](article-r-664-2.md)
 - [Article R664-2](article-r664-2.md)
 - [Article R664-3](article-r664-3.md)
 - [Article R*664-4](article-r-664-4.md)
@@ -12,9 +10,7 @@
 - [Article R664-8](article-r664-8.md)
 - [Article R664-9](article-r664-9.md)
 - [Article R664-10](article-r664-10.md)
-- [Article R*664-11](article-r-664-11.md)
 - [Article R664-11](article-r664-11.md)
-- [Article R*664-12](article-r-664-12.md)
 - [Article R664-12](article-r664-12.md)
 - [Article R664-13](article-r664-13.md)
 - [Article R664-14](article-r664-14.md)
