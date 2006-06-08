@@ -14,4 +14,4 @@ I. - Dans chaque département, le préfet établit et tient à jour un document 
 
 6° Un état actualisé de la résorption des décharges qui ne sont pas exploitées conformément aux prescriptions des dispositions des articles L. 511-1 et suivants, d'une part, et, d'autre part, des dépôts de produits abandonnés qui provoquent un ou plusieurs des effets nocifs mentionnés à l'article L. 541-2 ainsi que les mesures prises ou prévues pour assurer la poursuite de cette résorption.
 
-II. - Ce document peut être librement consulté à la préfecture du département ; il fait l'objet, au moins une fois par an, d'une présentation par le préfet devant le conseil départemental d'hygiène.
+II. - Ce document peut être librement consulté à la préfecture du département ; il fait l'objet, au moins une fois par an, d'une présentation par le préfet devant le conseil départemental de l'environnement et des risques sanitaires.
