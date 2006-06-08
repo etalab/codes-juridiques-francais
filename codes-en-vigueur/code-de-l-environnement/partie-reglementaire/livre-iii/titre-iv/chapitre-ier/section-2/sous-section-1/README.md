@@ -10,5 +10,3 @@
 - [Article R341-23](article-r341-23.md)
 - [Article R341-24](article-r341-24.md)
 - [Article R341-25](article-r341-25.md)
-- [Article R341-26](article-r341-26.md)
-- [Article R341-27](article-r341-27.md)

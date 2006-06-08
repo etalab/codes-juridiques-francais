@@ -1,7 +1,6 @@
 # Section 1 : Commission départementale d'orientation de l'agriculture.
 
 - [Article D313-1](article-d313-1.md)
-- [Article D313-1-1](article-d313-1-1.md)
 - [Article D313-2](article-d313-2.md)
 - [Article D313-3](article-d313-3.md)
 - [Article D313-4](article-d313-4.md)

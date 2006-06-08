@@ -1,23 +1,11 @@
 # Article R4-1
 
-Dans chaque région, la commission régionale de la forêt et des produits forestiers est composée :
+La commission régionale de la forêt et des produits forestiers concourt à l'élaboration et à la mise en oeuvre dans la région des orientations de la politique forestière dans le respect des principes définis à l'article L. 1. Elle est régie par les dispositions des articles 8 et 9 du décret n° 2006-665 du 7 juin 2006.
 
-a) Du préfet de région ou son représentant, qui en assure la présidence ;
+Elle est notamment chargée d'élaborer les orientations régionales forestières et d'émettre un avis, dans les cas et selon les modalités prévus par les dispositions législatives ou réglementaires, sur les orientations du projet de contrat entre l'Etat et la région dans le secteur de la forêt et du bois ainsi que sur les projets de directives régionales d'aménagement des forêts domaniales, de schémas régionaux d'aménagement des forêts relevant du 2° de l'article L. 111-1 et de schémas régionaux de gestion sylvicole des forêts privées.
 
-b) De deux représentants du conseil régional désignés en son sein par cette assemblée et de un à quatre représentants des conseils généraux, à raison d'un représentant maximum par département, désignés par les conseils généraux ou par l'Assemblée des départements de France dans le cas de régions comportant plus de quatre départements ;
+Elle peut formuler toute observation relative à l'application, dans la région, de la politique forestière ou de toute autre politique régionale, nationale ou communautaire ayant une incidence sur la forêt, ses produits et ses services et faire toute proposition visant à améliorer l'efficacité des programmes annuels d'investissement bénéficiant d'aides publiques et leur cohérence avec les orientations régionales forestières ainsi qu'à favoriser le développement de l'interprofessionnalité.
 
-c) Du directeur régional de l'agriculture et de la forêt, du directeur régional de l'environnement et du directeur régional de l'industrie, de la recherche et de l'environnement ou de leurs représentants ;
+Elle élabore la liste prévue au dernier alinéa de l'article L. 11.
 
-d) De quatre à huit représentants de la propriété forestière privée, de la propriété forestière non domaniale relevant du régime forestier et de l'Office national des forêts ;
-
-e) De trois à cinq représentants des prestataires de services dans le secteur de la forêt et du bois ;
-
-f) De trois à cinq représentants de l'industrie du bois ;
-
-g) D'un représentant des structures interprofessionnelles régionales de la forêt et du bois ;
-
-h) De trois à cinq représentants des associations d'usagers de la forêt, de protection de la nature et de gestionnaires d'espaces naturels, dont au moins un représentant des fédérations départementales des chasseurs ;
-
-i) D'un représentant de la chambre régionale d'agriculture, d'un représentant de la chambre régionale de commerce et d'industrie et d'un représentant de la conférence régionale des métiers ;
-
-j) De trois à cinq personnalités qualifiées.
+A ces fins, elle est informée des dotations, tant françaises que communautaires, affectées à des actions menées dans les secteurs de la forêt et de la transformation du bois et de l'application de contrats d'engagement pluriannuels passés entre l'Etat et la région en tant qu'ils concernent la forêt et le bois.

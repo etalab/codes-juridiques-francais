@@ -1,7 +1,21 @@
 # Article R4-2
 
-Le préfet de région fixe le nombre de membres désignés respectivement au titre des conseils généraux, des propriétaires et gestionnaires de forêts, des prestataires de services dans le secteur de la forêt et du bois, de l'industrie du bois, des associations d'usagers de la forêt, de protection de la nature et de gestionnaires d'espaces naturels, et des personnalités qualifiées. Pour la catégorie des propriétaires et gestionnaires de forêts, le nombre des représentants des propriétaires privés, celui des propriétaires de forêts non domaniales relevant du régime forestier et celui de l'Office national des forêts sont fixés par référence aux surfaces respectives de chacun des régimes de propriété dans la région concernée.
+La commission régionale de la forêt et des produits forestiers est présidée par le préfet de région et comprend :
 
-Le préfet de région désigne par arrêté les membres de la commission régionale de la forêt et des produits forestiers autres que ceux représentant l'administration pour une durée de cinq ans renouvelable. Pour les membres mentionnés aux d à i de l'article R. 4-1, cette désignation est effectuée sur proposition des organismes concernés. Si au cours de son mandat l'un des membres perd la qualité au titre de laquelle il a été désigné, il est remplacé pour la durée du mandat restant à courir.
+1° Le directeur régional de l'agriculture et de la forêt, le directeur régional de l'environnement et le directeur régional de l'industrie, de la recherche et de l'environnement ou leurs représentants ;
 
-Les membres des commissions régionales de la forêt et des produits forestiers exercent leurs fonctions à titre gratuit.
+2° Des représentants du conseil régional et des conseils généraux ;
+
+3° Des représentants de la propriété forestière privée, de la propriété forestière non domaniale relevant du régime forestier et de l'Office national des forêts ;
+
+4° Des représentants de l'industrie du bois, des prestataires de services dans le secteur de la forêt et du bois et des structures interprofessionnelles régionales de ce secteur ;
+
+5° Des représentants d'associations d'usagers de la forêt, de protection de la nature et de gestionnaires d'espaces naturels, dont au moins un représentant des fédérations départementales des chasseurs ;
+
+6° Des représentants de la chambre régionale d'agriculture, de la chambre régionale de commerce et d'industrie et de la conférence régionale des métiers ;
+
+7° Des personnalités qualifiées.
+
+Les membres de la commission siégeant au titre du 2° sont désignés par le conseil régional et les conseils généraux ou, si la région comporte plus de quatre départements, par l'Assemblée des départements de France.
+
+Les membres de la commission siégeant au titre du 3° sont nommés compte tenu des surfaces respectives de chacun des régimes de propriété forestière dans la région.
