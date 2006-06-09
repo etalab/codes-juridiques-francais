@@ -1,3 +1,3 @@
 # Article L512-2
 
-Ainsi qu'il est dit à l'article 20, alinéa 2, de l'ordonnance n° 45-174 du 2 février 1945, "la cour d'assises des mineurs se réunit au siège de la cour d'assises et au cours de la session de celle-ci".
+Les personnes appelées à exercer l'une des fonctions judiciaires mentionnées aux 2° et 3° de l'article L. 512-1 sont choisies parmi les personnes de nationalité française, âgées de plus de vingt-trois ans, jouissant des droits civiques, civils et de famille et présentant des garanties de compétence et d'impartialité.

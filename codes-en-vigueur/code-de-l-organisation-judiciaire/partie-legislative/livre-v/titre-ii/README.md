@@ -1,4 +1,5 @@
-# Titre II : Le tribunal pour enfants
+# TITRE II : DISPOSITIONS APPLICABLES À MAYOTTE
 
-- [Chapitre Ier : Institution et compétence.](chapitre-ier)
-- [Chapitre II : Organisation et fonctionnement.](chapitre-ii)
+- [Chapitre Ier : Dispositions générales](chapitre-ier)
+- [Chapitre II : Des juridictions](chapitre-ii)
+- [Chapitre III : Du greffe](chapitre-iii)

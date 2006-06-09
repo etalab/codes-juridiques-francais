@@ -1,4 +1,5 @@
-# Titre Ier : La cour d'assises des mineurs
+# TITRE Ier : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON
 
-- [Chapitre Ier : Institution et compétence.](chapitre-ier)
-- [Chapitre II : Organisation et fonctionnement.](chapitre-ii)
+- [Chapitre Ier : Dispositions générales](chapitre-ier)
+- [Chapitre II : Des fonctions judiciaires](chapitre-ii)
+- [Chapitre III : Des juridictions](chapitre-iii)

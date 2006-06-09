@@ -1,3 +1,13 @@
 # Article L511-1
 
-Conformément à l'article 1er de l'ordonnance n° 45-174 du 2 février 1945, il y a des cours d'assises des mineurs.
+Pour l'application à Saint-Pierre-et-Miquelon du présent code (partie Législative), il y a lieu de lire :
+
+1° " tribunal supérieur d'appel " à la place de : " cour d'appel " ;
+
+2° " tribunal de première instance " à la place de : " tribunal de grande instance " ou de : " tribunal d'instance " ;
+
+3° " président du tribunal supérieur d'appel " à la place de :
+
+" premier président de la cour d'appel " ;
+
+4° " procureur de la République près le tribunal supérieur d'appel " à la place de : " procureur général près la cour d'appel " et de : " procureur de la République près le tribunal de grande instance ".

@@ -1,3 +1,5 @@
 # Article L223-3
 
-Le délégué à la protection de l'enfance siège comme membre de la chambre de l'instruction dans les cas mentionnés à l'article 23 de l'ordonnance n° 45-174 du 2 février 1945.
+Les fonctions de tribunal pour la navigation du Rhin sont exercées par un tribunal d'instance spécialement désigné, conformément à la convention révisée pour la navigation du Rhin, signée à Mannheim le 17 octobre 1868.
+
+Les fonctions de tribunal de première instance pour la navigation de la Moselle sont exercées par un tribunal d'instance spécialement désigné, conformément à la loi n° 66-379 du 15 juin 1966 déterminant, en application de la convention franco-luxembourgeoise du 27 octobre 1956, les juridictions compétentes pour la navigation de la Moselle.

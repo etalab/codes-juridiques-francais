@@ -1,3 +1,3 @@
 # Article L211-1
 
-Les cours d'appel statuent souverainement sur le fond des affaires.
+Le tribunal de grande instance statue en première instance en matière civile et pénale. Lorsqu'il statue en matière pénale, il est dénommé tribunal correctionnel.

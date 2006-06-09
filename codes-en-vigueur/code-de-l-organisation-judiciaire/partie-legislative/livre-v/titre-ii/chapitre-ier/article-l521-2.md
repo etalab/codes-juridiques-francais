@@ -1,5 +1,15 @@
 # Article L521-2
 
-Le tribunal pour enfants connaît des crimes commis par les mineurs de seize ans.
+Pour l'application des dispositions étendues par le présent titre à Mayotte, il y a lieu de lire :
 
-Il connaît des délits et des contraventions de police de 5e classe commis par les mineurs qui lui sont renvoyés par le juge des enfants ou le juge d'instruction, conformément aux dispositions des articles 8 et 9 de l'ordonnance n° 45-174 du 2 février 1945.
+1° " tribunal supérieur d'appel " à la place de : " cour d'appel " ;
+
+2° " tribunal de première instance " à la place de : " tribunal de grande instance " et de : " tribunal d'instance " ;
+
+3° " président du tribunal supérieur d'appel " à la place de :
+
+" premier président de la cour d'appel " ;
+
+4° " procureur de la République près le tribunal supérieur d'appel " à la place de : " procureur général " ;
+
+5° " procureur de la République près le tribunal de première instance " à la place de : " procureur de la République ".
