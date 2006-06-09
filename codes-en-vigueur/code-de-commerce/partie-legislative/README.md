@@ -6,6 +6,5 @@
 - [LIVRE IV : De la liberté des prix et de la concurrence.](livre-iv)
 - [LIVRE V : Des effets de commerce et des garanties.](livre-v)
 - [LIVRE VI : Des difficultés des entreprises.](livre-vi)
-- [LIVRE VII : De l'organisation du commerce](livre-vii)
 - [LIVRE VIII : De quelques professions réglementées.](livre-viii)
 - [LIVRE IX : Dispositions relatives à l'outre-mer.](livre-ix)
