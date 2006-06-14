@@ -26,6 +26,6 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 Il détermine également les prescriptions que les "agents habilités" doivent respecter en matière de réception et de contrôle pour éviter des dépôts et des expéditions anonymes.
 
-Les entreprises ou organismes titulaires d'un agrément au titre des dispositions de l'article L. 321-7 en vigueur antérieurement à la publication de la loi n° 2002-3 du 3 janvier 2002 relative à la sécurité des infrastructures et systèmes de transport, aux enquêtes techniques après événement de mer, accident ou incident de transport terrestre ou aérien et au stockage souterrain de gaz naturel, d'hydrocarbures et de produits chimiques conservent le bénéfice de leur agrément.
+Les entreprises ou organismes titulaires d'un agrément au titre des dispositions de l'article L. 321-7 en vigueur antérieurement à la publication de la loi n° 2002-3 du 3 janvier 2002 relative à la sécurité des infrastructures et systèmes de transport, aux enquêtes techniques et au stockage souterrain de gaz naturel, d'hydrocarbures et de produits chimiques conservent le bénéfice de leur agrément.
 
 Les dispositions du présent article sont applicables dans la collectivité départementale de Mayotte, en Polynésie française, en Nouvelle-Calédonie et dans les îles Wallis et Futuna.
