@@ -5,3 +5,4 @@
 - [Article R5212-4](article-r5212-4.md)
 - [Article R5212-5](article-r5212-5.md)
 - [Article R5212-6](article-r5212-6.md)
+- [Article R5212-6-1](article-r5212-6-1.md)
