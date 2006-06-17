@@ -10,4 +10,4 @@ Les articles énumérés ci-après ne sont applicables qu'à compter du renouvel
 
 4° Les articles R. 3551-13, R. 3551-15, R. 3551-17, R. 3551-19, R. 3551-21, R. 3551-23 et R. 3551-24 ;
 
-5° L'article R. 3563-3 en tant qu'il rend applicables à la collectivité départementale de Mayotte les articles R. 3334-11 et R. 3334-13.
+5° L'article R. 3563-3 en tant qu'il rend applicable à la collectivité départementale de Mayotte l'article R. 3334-9.
