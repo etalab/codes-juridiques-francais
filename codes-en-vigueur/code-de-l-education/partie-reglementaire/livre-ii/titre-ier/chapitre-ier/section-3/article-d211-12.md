@@ -4,13 +4,11 @@ En application de l'article L. 211-4, la liste des établissements d'enseignemen
 
 1° Pour les établissements relevant du ministère de l'agriculture :
 
-a) Centre d'expérimentation pédagogique de Florac (Lozère) ;
+a) Centre d'enseignement zootechnique de Rambouillet (Yvelines) ;
 
-b) Centre d'étude du milieu et de pédagogie appliquée du ministère de l'agriculture de Fouesnant (Finistère) ;
+b) Centre national de promotion rurale, enseignement et formation professionnelle à distance, Marmilhat (Puy-de-Dôme) ;
 
-c) Centre d'enseignement zootechnique de Rambouillet (Yvelines) ;
-
-d) Centre national de promotion rurale, enseignement et formation professionnelle à distance, Marmilhat (Puy-de-Dôme) ;
+c) Centre d'expérimentation pédagogique de Florac (Lozère) ;
 
 2° Pour les établissements relevant du ministère de l'éducation nationale :
 
