@@ -6,4 +6,4 @@ A l'issue d'une période de fonctionnement autorisé de vingt-cinq ans au moins,
 
 Pour les stockages souterrains de déchets ultimes, l'Agence de l'environnement et de la maîtrise de l'énergie peut conclure avec l'exploitant, avant l'octroi de l'autorisation visée au premier alinéa, une convention qui détermine les conditions techniques et financières de l'engagement et de la poursuite de l'exploitation, compte tenu de l'éventualité du refus de sa prolongation. Cette convention est soumise pour avis au représentant de l'Etat.
 
-Les dispositions des deux alinéas précédents ne s'appliquent pas au stockage souterrain de déchets radioactifs.
+Les dispositions du présent article ne s'appliquent pas au stockage des déchets radioactifs.
