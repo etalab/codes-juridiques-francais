@@ -1,6 +1,6 @@
 # Article R125-4
 
-Dans les bâtiments et groupes de bâtiments d'habitation, les portes automatiques de garage installées avant l'entrée en vigueur des dispositions de l'article R. 125-3-1 doivent satisfaire aux prescriptions suivantes :
+Dans les bâtiments et groupes de bâtiments d'habitation, les portes automatiques de garage installées avant le 7 janvier 1992 doivent satisfaire aux prescriptions suivantes :
 
 - la porte doit être équipée de systèmes permettant d'arrêter son mouvement, ou de limiter la force qu'elle exerce, en cas de présence d'une personne dans les zones de fin d'ouverture et de fin de fermeture. Un arrêté des ministres chargés de l'industrie, du logement et de la consommation précise les modalités d'application de cette disposition ;
 
