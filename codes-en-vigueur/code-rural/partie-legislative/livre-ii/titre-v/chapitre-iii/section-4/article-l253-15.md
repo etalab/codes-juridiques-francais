@@ -8,7 +8,7 @@ Un procès-verbal d'inspection et de contrôle est établi et une copie en est r
 
 Ces agents peuvent recueillir sur convocation ou sur place les renseignements et justifications propres à l'accomplissement de leur mission et en prendre copie.
 
-II. - Dans le cadre des inspections et des contrôles, les agents habilités en vertu du I de l'article L. 253-14 peuvent, dans les conditions prévues par décret en Conseil d'Etat, prélever des échantillons des produits définis à l'article L. 253-1 ou des produits végétaux ou d'origine végétale afin de vérifier qu'ils sont conformes aux dispositions des articles L. 253-1 à L. 253-11 et L. 253-14 à L. 253-17 et des textes pris pour son application.
+II. - Dans le cadre des inspections et des contrôles, les agents habilités en vertu du I de l'article L. 253-14 peuvent, dans les conditions prévues par décret en Conseil d'Etat, prélever des échantillons des produits définis à l'article L. 253-1 ou des produits végétaux ou d'origine végétale afin de vérifier qu'ils sont conformes aux dispositions des articles L. 253-1 à L. 253-8 et L. 253-14 à L. 253-17 et des textes pris pour son application.
 
 Dans l'attente des résultats d'analyses des échantillons, les agents peuvent consigner les produits définis à l'article L. 253-1 ou les produits végétaux ou d'origine végétale.
 

@@ -10,3 +10,4 @@
 - [Article L5211-26](article-l5211-26.md)
 - [Article L5211-27](article-l5211-27.md)
 - [Article L5211-27-1](article-l5211-27-1.md)
+- [Article L5211-27-2](article-l5211-27-2.md)

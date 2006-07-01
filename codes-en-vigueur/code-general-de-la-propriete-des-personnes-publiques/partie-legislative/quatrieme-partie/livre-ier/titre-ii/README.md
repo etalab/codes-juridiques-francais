@@ -1,0 +1,3 @@
+# TITRE II : DISPOSITIONS APPLICABLES AUX BIENS DÉTENUS EN JOUISSANCE PAR L'ÉTAT
+
+- [Chapitre unique.](chapitre-unique)

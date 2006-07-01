@@ -6,4 +6,4 @@ Toutefois, des aménagements légers peuvent y être implantés lorsqu'ils sont 
 
 En outre, la réalisation de travaux ayant pour objet la conservation ou la protection de ces espaces et milieux peut être admise, après enquête publique suivant les modalités de la loi n° 83-630 du 12 juillet 1983 précitée.
 
-Le plan local d'urbanisme doit classer en espaces boisés, au titre de l'article L. 130-1 du présent code, les parcs et ensembles boisés existants les plus significatifs de la commune ou du groupement de communes, après consultation de la commission départementale des sites.
+Le plan local d'urbanisme doit classer en espaces boisés, au titre de l'article L. 130-1 du présent code, les parcs et ensembles boisés existants les plus significatifs de la commune ou du groupement de communes, après consultation de la commission départementale compétente en matière de nature, de paysages et de sites.

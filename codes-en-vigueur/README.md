@@ -45,6 +45,7 @@
 - [Code du travail maritime](code-du-travail-maritime)
 - [Code électoral](code-electoral)
 - [Code forestier de Mayotte](code-forestier-de-mayotte)
+- [Code général de la propriété des personnes publiques.](code-general-de-la-propriete-des-personnes-publiques)
 - [Code général des collectivités territoriales](code-general-des-collectivites-territoriales)
 - [Code minier](code-minier)
 - [Code pénal](code-penal)

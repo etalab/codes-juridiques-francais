@@ -20,6 +20,6 @@ Sauf si la présence de l'étranger constitue une menace pour l'ordre public, la
 
 9° A l'apatride justifiant de trois années de résidence régulière en France ainsi qu'à son conjoint et à ses enfants mineurs ou dans l'année qui suit leur dix-huitième anniversaire ;
 
-10° A l'étranger qui est en situation régulière depuis plus de dix ans, sauf s'il a été, pendant toute cette période, titulaire d'une carte de séjour temporaire portant la mention " étudiant ".
+10° A l'étranger qui est en situation régulière depuis plus de dix ans, sauf s'il a été, pendant toute cette période, titulaire d'une carte de séjour temporaire portant la mention "étudiant".
 
-L'enfant visé aux 2°, 8° et 9° du présent article s'entend de l'enfant légitime ou naturel ayant une filiation légalement établie ainsi que de l'enfant adopté, en vertu d'une décision d'adoption, sous réserve de la vérification par le ministère public de la régularité de cette décision lorsqu'elle a été prononcée à l'étranger.
+L'enfant visé aux 2°, 8° et 9° du présent article s'entend de l'enfant ayant une filiation légalement établie, y compris l'enfant adopté, en vertu d'une décision d'adoption, sous réserve de la vérification par le ministère public de la régularité de cette décision lorsqu'elle a été prononcée à l'étranger.

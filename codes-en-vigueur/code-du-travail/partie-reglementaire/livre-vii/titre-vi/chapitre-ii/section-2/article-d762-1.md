@@ -4,4 +4,6 @@ La présente section détermine conformément à l'article L. 223-8 les modalit�
 
 Le présent chapitre est applicable également aux entreprises de production de films, studios de prises de vues cinématographiques et postsynchronisation, postes de radiodiffusion, de télévision, d'enregistrement de disques et de bandes pour leur personnel artistique et technique.
 
+La présente section s'applique également aux personnes morales de droit public exerçant ce type d'activité à titre principal, accessoire ou occasionnel, sous quelque forme juridique que ce soit.
+
 La présente section s'applique également au personnel artistique et technique détaché dans les conditions mentionnées à l'article D. 341-5.

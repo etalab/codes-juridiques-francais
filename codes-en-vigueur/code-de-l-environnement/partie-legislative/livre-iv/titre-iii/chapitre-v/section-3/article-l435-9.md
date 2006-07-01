@@ -4,8 +4,6 @@ Tout propriétaire, locataire, fermier ou titulaire d'un droit réel, riverain d
 
 Lorsque l'exercice de la pêche et les nécessités d'entretien et de surveillance du cours d'eau ou du plan d'eau le permettent, les ministres chargés de la pêche en eau douce et de la gestion du domaine public fluvial ou, par délégation, le préfet peuvent réduire la largeur de 3,25 mètres précitée jusqu'à 1,50 mètre.
 
-Le long des cours d'eau rayés de la nomenclature des voies navigables ou flottables mais maintenus dans le domaine public, la largeur de l'espace libre laissé à l'usage des pêcheurs est fixée à 1,50 mètre.
-
 Le long des canaux de navigation, les pêcheurs peuvent user du chemin de halage et de la portion de berge faisant partie du domaine public, dans la mesure où le permet l'exploitation de la voie navigable.
 
 Ce droit peut, exceptionnellement, être supprimé soit pour des raisons d'intérêt général, soit pour des raisons de sécurité lorsque les berges sont incluses dans des établissements industriels, sur décision des ministres chargés de la pêche en eau douce et de la gestion du domaine public fluvial ou, par délégation, du préfet.
