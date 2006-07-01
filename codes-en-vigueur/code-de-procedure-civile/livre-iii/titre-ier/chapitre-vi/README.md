@@ -4,5 +4,3 @@
 - [Section II : Les subsides](section-ii)
 - [Section III : L'acte de notoriété](section-iii)
 - [Section IV : Le consentement à la procréation médicalement assistée](section-iv)
-- [Section V : L'acte de notoriété.](section-v)
-- [Section VI : Le consentement à la procréation médicalement assistée.](section-vi)
