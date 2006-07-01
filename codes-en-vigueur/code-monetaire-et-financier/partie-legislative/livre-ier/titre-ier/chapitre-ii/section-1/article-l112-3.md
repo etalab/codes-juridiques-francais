@@ -16,4 +16,6 @@ Par dérogation aux dispositions de l'article L. 112-1 et du premier alinéa de 
 
 7° Les livrets d'épargne institués au profit des travailleurs manuels définis à l'article 80 de la loi de finances pour 1977 (n° 76-1232 du 29 décembre 1976) ;
 
-8° Les prêts accordés aux personnes morales ainsi qu'aux personnes physiques pour les besoins de leur activité professionnelle.
+8° Les prêts accordés aux personnes morales ainsi qu'aux personnes physiques pour les besoins de leur activité professionnelle ;
+
+9° Les loyers prévus par les conventions portant sur un local d'habitation.
