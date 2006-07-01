@@ -1,4 +1,4 @@
-# Chapitre III : La mise sur le marché des produits antiparasitaires à usage agricole
+# Chapitre III : Mise sur le marché des produits phytosanitaires
 
 - [Section 1 : Dispositions générales.](section-1)
 - [Section 2 : Exercice du contrôle.](section-2)
