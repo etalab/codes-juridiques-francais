@@ -2,7 +2,7 @@
 
 Les règles relatives aux pouvoirs de police de la circulation routière dans la commune de Paris sont fixées par l'article L. 2512-14 du code général des collectivités territoriales ci-après reproduit :
 
-"Art. L. 2512-14. -  Les pouvoirs conférés au maire par le premier alinéa de l'article L. 2213-1 et par les articles L. 2213-2 à L. 2213-6 sont, à Paris, exercés par le maire de Paris sous réserve des dispositions ci-après.
+" Art.L. 2512-14.-Les pouvoirs conférés au maire par le premier alinéa de l'article L. 2213-1 et par les articles L. 2213-2 à L. 2213-6 sont, à Paris, exercés par le maire de Paris sous réserve des dispositions ci-après.
 
 Pour les motifs d'ordre public ou liés à la sécurité des personnes et des biens ou pour assurer la protection du siège des institutions de la République et des représentations diplomatiques, le préfet de police détermine, de façon permanente ou temporaire, des sites où il réglemente les conditions de circulation et de stationnement dans certaines voies ou portions de voies, ou en réserve l'accès à certaines catégories d'usagers ou de véhicules.
 
@@ -14,4 +14,6 @@ Pour l'application des dispositions du présent article, le contrôle administra
 
 En outre, les pouvoirs conférés par le code de la route au préfet sont exercés à Paris par le préfet de police.
 
-L'exécution des dispositions du présent article est assurée par les fonctionnaires de la police nationale ou, le cas échéant, en matière de circulation ou de stationnement, par des agents de la ville de Paris placés sous l'autorité du préfet de police.
+L'exécution des dispositions des alinéas précédents est assurée par les fonctionnaires de la police nationale ou, le cas échéant, en matière de circulation ou de stationnement, par des agents de la ville de Paris placés sous l'autorité du préfet de police.
+
+Les permis de stationnement ou de dépôt temporaire sur la Seine, ses ports et ses quais, sont donnés par l'ingénieur en chef comme en matière d'occupation temporaire et les droits correspondants perçus comme en cette matière au profit de l'Etat par l'administration compétente. "
