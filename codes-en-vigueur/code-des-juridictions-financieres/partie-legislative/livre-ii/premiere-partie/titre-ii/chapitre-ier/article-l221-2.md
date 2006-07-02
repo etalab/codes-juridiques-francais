@@ -2,7 +2,7 @@
 
 L'emploi de président de chambre régionale des comptes est pourvu par un conseiller maître ou un conseiller référendaire à la Cour des comptes. L'emploi de vice-président de la chambre régionale des comptes d'Ile-de-France est pourvu par un conseiller référendaire à la Cour des comptes.
 
-Les nominations sont prononcées, à la demande des magistrats intéressés, par décret du Président de la République, sur proposition du premier président de la Cour des comptes après avis de la commission consultative de la Cour des comptes et du Conseil supérieur des chambres régionales des comptes.
+Les nominations sont prononcées, à la demande des magistrats intéressés, par décret du Président de la République, sur proposition du premier président de la Cour des comptes après avis du conseil supérieur de la Cour des comptes et du Conseil supérieur des chambres régionales des comptes.
 
 Peuvent se porter candidats à ces emplois les magistrats de la Cour des comptes ainsi que les présidents de section de chambre régionale des comptes inscrits sur une liste d'aptitude établie à cet effet par le Conseil supérieur des chambres régionales des comptes.
 
