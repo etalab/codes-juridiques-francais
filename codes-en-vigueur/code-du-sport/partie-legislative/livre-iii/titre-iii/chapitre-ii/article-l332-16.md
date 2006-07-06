@@ -8,4 +8,6 @@ Le représentant de l'Etat dans le département et, à Paris, le préfet de poli
 
 Le fait, pour la personne, de ne pas se conformer à l'un ou à l'autre des arrêtés pris en application des alinéas précédents est puni de 3 750 euros d'amende.
 
+Le préfet du département et, à Paris, le préfet de police peut communiquer aux fédérations sportives agréées en application de l'article L. 131-8 et aux associations de supporters mentionnées à l'article L. 332-17 l'identité des personnes faisant l'objet de la mesure d'interdiction mentionnée au premier alinéa.
+
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
