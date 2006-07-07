@@ -6,6 +6,7 @@
 - [12° : Crédit d'impôt en faveur des jeunes prenant un métier rencontrant des difficultés de recrutement](12)
 - [13° : Réduction apportée au titre de l'aide accordée à certains créateurs d'entreprise](13)
 - [14° : Crédit d'impôt en faveur des étudiants en vue du financement de leurs études supérieures](14)
+- [15° : Crédit d'impôt au titre des dépenses de remplacement pour congé de certains exploitants agricoles](15)
 - [3° : Réduction d'impôt au titre de certains investissements réalisés outre-mer](3)
 - [5° : Réduction d'impôt au titre des souscriptions en numéraire au capital de sociétés non cotées](5)
 - [6° : Réduction d'impôt au titre des souscriptions de parts de fonds communs de placement dans l'innovation](6)
