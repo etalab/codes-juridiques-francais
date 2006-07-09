@@ -4,6 +4,6 @@ Pour toute parcelle présentant des pieds de vigne morts ou manquants, le rendem
 
 Le calcul du pourcentage de pieds morts ou manquants est effectué à partir du rapport entre le nombre de pieds de vigne morts ou manquants sur une parcelle et le nombre de pieds plantés lors de la mise en place de ladite parcelle.
 
-La réduction susvisée est effective dès lors que le pourcentage de pieds morts ou manquants dépasse 25 % ou, le cas échéant, un pourcentage inférieur prévu dans le décret de l'appellation d'origine contrôlée.
+La réduction susvisée est effective dès lors que le pourcentage de pieds morts ou manquants dépasse 20 % ou, le cas échéant, un pourcentage inférieur prévu dans le décret de l'appellation d'origine contrôlée.
 
 La ou les parcelles concernées doivent faire l'objet d'une déclaration spécifique auprès des services de l'INAO aux fins d'identification. Copie de ladite déclaration devra être annexée à la déclaration de récolte.
