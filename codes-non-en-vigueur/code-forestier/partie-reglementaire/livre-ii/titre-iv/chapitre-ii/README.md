@@ -1,6 +1,5 @@
 # Chapitre II : Transformation d'une indivision en groupement forestier.
 
-- [Article R*242-1](article-r-242-1.md)
 - [Article R242-1](article-r242-1.md)
 - [Article R242-2](article-r242-2.md)
 - [Article R242-3](article-r242-3.md)
@@ -12,5 +11,4 @@
 - [Article R242-9](article-r242-9.md)
 - [Article R242-10](article-r242-10.md)
 - [Article R242-11](article-r242-11.md)
-- [Article R*242-13](article-r-242-13.md)
 - [Article R242-13](article-r242-13.md)

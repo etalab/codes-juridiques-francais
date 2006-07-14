@@ -5,4 +5,3 @@
 - [Article R221-34](article-r221-34.md)
 - [Article R221-35](article-r221-35.md)
 - [Article R221-36](article-r221-36.md)
-- [Article R221-36-1](article-r221-36-1.md)

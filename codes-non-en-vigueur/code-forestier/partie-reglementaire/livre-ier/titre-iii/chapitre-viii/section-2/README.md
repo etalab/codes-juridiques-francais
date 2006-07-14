@@ -1,12 +1,9 @@
 # Section 2 : Exercice.
 
 - [Article R138-1](article-r138-1.md)
-- [Article R*138-2](article-r-138-2.md)
 - [Article R138-2](article-r138-2.md)
-- [Article R*138-3](article-r-138-3.md)
 - [Article R138-3](article-r138-3.md)
 - [Article R138-4](article-r138-4.md)
-- [Article R*138-5](article-r-138-5.md)
 - [Article R138-5](article-r138-5.md)
 - [Article R138-6](article-r138-6.md)
 - [Article R138-7](article-r138-7.md)
