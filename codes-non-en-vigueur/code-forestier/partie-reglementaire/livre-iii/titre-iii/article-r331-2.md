@@ -1,3 +1,5 @@
 # Article R331-2
 
-Tout enlèvement non autorisé de champignons, glands, faînes et autres fruits et semences des bois et forêts est puni d'une amende proportionnelle au volume de produits extraits ou enlevés. L'amende maximum encourue par litre enlevé est égale au 1/200 du maximum de l'amende prévue pour les contraventions de la 5e classe. Le montant total de l'amende ne peut toutefois dépasser le montant maximum prévu pour les contraventions de la 5e classe.
+Le fait, sans l'autorisation du propriétaire du terrain, de prélever des champignons, fruits et semences des bois et forêts est puni de l'amende prévue pour les contraventions de 2e classe.
+
+Lorsque le volume extrait est supérieur à 5 litres, l'amende encourue est celle prévue pour les contraventions de la 4e classe.

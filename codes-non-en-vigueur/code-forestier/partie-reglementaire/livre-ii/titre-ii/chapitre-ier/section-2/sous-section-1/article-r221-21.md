@@ -8,7 +8,7 @@ Le préfet adresse ou remet à chaque réclamant un récépissé daté, et saisi
 
 Le tribunal administratif statue d'urgence.
 
-Dans les départements mentionnés à l'article R.[**] 221-20, pour l'application du présent article :
+Dans les départements mentionnés à l'article R. 221-20, pour l'application du présent article :
 
 - tout électeur inscrit sur la liste électorale interdépartementale peut contester la régularité des opérations électorales de cette circonscription interdépartementale ;
 

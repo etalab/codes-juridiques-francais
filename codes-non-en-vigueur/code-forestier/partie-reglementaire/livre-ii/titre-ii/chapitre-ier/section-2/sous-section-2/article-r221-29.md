@@ -1,10 +1,10 @@
 # Article R221-29
 
-Les listes de candidatures sont déposées, vingt jours au moins avant la date du scrutin, auprès de la commission prévue à l'article R.[**] 221-24. Il en est accusé réception par écrit.
+Les listes de candidatures sont déposées, vingt jours au moins avant la date du scrutin, auprès de la commission prévue à l'article R. 221-24. Il en est accusé réception par écrit.
 
 Toute liste comprend autant de candidats administrateurs qu'il y a de postes à pourvoir et associe à chacun de ces candidats un candidat suppléant.
 
-A l'appui de la liste sur laquelle ils figurent, chaque candidat administrateur et chaque candidat suppléant fournissent ensemble la déclaration de candidature, l'attestation sur l'honneur et l'extrait de matrice cadastrale, conformément à l'article R.[**] 221-16.
+A l'appui de la liste sur laquelle ils figurent, chaque candidat administrateur et chaque candidat suppléant fournissent ensemble la déclaration de candidature, la déclaration sur l'honneur et le certificat établi par le centre régional de la propriété forestière ou par la direction départementale de l'agriculture et de la forêt, conformément à l'article R. 221-16.
 
 La commission vérifie que les listes de candidatures sont établies et présentées conformément aux prescriptions du présent article et que les candidats administrateurs et suppléants remplissent les conditions d'eligibilité ; elle enregistre les listes recevables.
 

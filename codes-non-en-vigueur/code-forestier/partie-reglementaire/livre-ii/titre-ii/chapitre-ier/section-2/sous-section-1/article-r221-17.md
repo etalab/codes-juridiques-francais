@@ -4,4 +4,4 @@ Les déclarations de candidature sont déposées à la préfecture au moins tren
 
 Il est donné au déposant un reçu de déclaration n'impliquant pas que celle-ci est réglementairement recevable.
 
-Le préfet rejette les déclarations déposées hors délai ou non conformes aux dispositions des articles R.[**] 221-14 et R.[**] 221-16.
+Le préfet rejette les déclarations déposées hors délai ou non conformes aux dispositions des articles R. 221-14 et R. 221-16.

@@ -5,3 +5,4 @@
 - [Article R123-3](article-r123-3.md)
 - [Article R123-4](article-r123-4.md)
 - [Article R*123-5](article-r-123-5.md)
+- [Article R123-5](article-r123-5.md)

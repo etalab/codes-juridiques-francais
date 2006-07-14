@@ -1,6 +1,6 @@
 # Article R421-4
 
-Les pièces énonçées à l'article R.[**] 421-2 sont adressées par le directeur départemental de l'agriculture au préfet qui, dans le délai d'un mois au plus, ouvre dans chacune des communes intéressées l'enquête prévue à l'article R.[**] 421-3 (1°).
+Les pièces énonçées à l'article R. 421-2 sont adressées par le directeur départemental de l'agriculture au préfet qui, dans le délai d'un mois au plus, ouvre dans chacune des communes intéressées l'enquête prévue à l'article R. 421-3 (1°).
 
 L'arrêté prescrivant l'ouverture de l'enquête, la convocation du conseil municipal et désignant un commissaire enquêteur est notifié au maire de la commune intéressée. Cet arrêté est porté à la connaissance du public par une publication en caractères apparents huit jours au moins avant le début de l'enquête et rappelé dans les huit premiers jours de celle-ci dans deux journaux régionaux ou locaux diffusés dans tout le département ou tous les départements intéressés.
 

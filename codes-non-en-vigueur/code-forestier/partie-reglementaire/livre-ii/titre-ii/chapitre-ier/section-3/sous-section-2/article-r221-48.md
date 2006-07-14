@@ -1,7 +1,13 @@
 # Article R221-48
 
-Le directeur du centre régional exécute les délibérations du conseil d'administration. Il assure le fonctionnement de l'établissement public en vertu des dispositions des décrets du 10 décembre 1953 et du 29 décembre 1962 et en application des délibérations du conseil d'administration.
+Le directeur du centre régional assure le fonctionnement de l'établissement public. Il est notamment chargé de :
 
-Il représente le centre en justice et dans tous les actes de la vie civile. Il peut, sans délibération préalable du conseil d'administration, faire tous actes conservatoires ou interruptifs de déchéance.
+- préparer les délibérations du conseil d'administration du centre et en assurer l'exécution ;
 
-Il est ordonnateur des recettes et des dépenses dans les conditions prévues par les décrets susmentionnés. Il nomme les personnels du centre à l'exclusion de l'agent comptable.
+- diriger les services du centre et, à ce titre, recruter, nommer les personnels contractuels de l'établissement et exercer son autorité sur l'ensemble des personnels du centre.
+
+Il est ordonnateur des recettes et des dépenses de l'établissement et le représente en justice et dans tous les actes de la vie civile.
+
+Il peut, sans délibération préalable du conseil d'administration, faire tous les actes conservatoires ou interruptifs de déchéance et soutenir les actions en justice intentées par un tiers contre le centre.
+
+Il peut, sous sa responsabilité, déléguer sa signature à des personnels du centre.

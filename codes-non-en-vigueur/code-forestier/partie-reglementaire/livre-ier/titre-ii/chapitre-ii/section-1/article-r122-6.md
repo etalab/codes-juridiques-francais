@@ -12,7 +12,7 @@ Le conseil d'administration délibère sur les matières suivantes :
 
 5° Les acquisitions, aliénations et échanges des biens immobiliers de l'Office dont la valeur dépasse un montant fixé par le conseil d'administration sur proposition du directeur général.
 
-6° Les souscriptions ou acquisitions de parts ou d'actions de société soumises à l'autorisation de l'Etat et mentionnées au deuxième alinéa de l'article R.* 121-7 ;
+6° Les souscriptions ou acquisitions de parts ou d'actions de société ;
 
 7° Les adhésions à des organismes sans capital social, à des associations ou à des groupements sans personnalité juridique ;
 
