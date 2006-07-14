@@ -3,3 +3,4 @@
 - [Sous-Section 1 : Collège départemental des propriétaires forestiers.](sous-section-1)
 - [Sous-Section 2 : Collège régional des organisations professionnelles.](sous-section-2)
 - [Sous-Section 3 : Dispositions communes et élections partielles.](sous-section-3)
+- [Sous-section 4 : Représentants du personnel au conseil d'administration.](sous-section-4)
