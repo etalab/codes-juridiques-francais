@@ -6,4 +6,4 @@ En cas de cessation du bail, le bailleur prélève des animaux, de manière à l
 
 Lors de la conversion, ce fonds de bétail reste attaché au fonds loué.
 
-Dans les deux cas, cessation du bail ou conversion, si la comparaison entre l'estimation d'entrée et celle de sortie fait apparaître un excédent, celui-ci se partage entre les parties, s'il s'agit d'un bail à colonat partiaire ou métayage. Il appartient par contre au preneur s'il s'agit d'un bail à ferme. Le preneur reçoit sa part en espèces ou, si la composition du cheptel le permet, en nature, à son choix.
+Dans les deux cas, cessation du bail ou conversion, si la comparaison entre l'estimation d'entrée et celle de sortie fait apparaître un excédent, celui-ci se partage entre les parties, s'il s'agit d'un bail à métayage. Il appartient par contre au preneur s'il s'agit d'un bail à ferme. Le preneur reçoit sa part en espèces ou, si la composition du cheptel le permet, en nature, à son choix.
