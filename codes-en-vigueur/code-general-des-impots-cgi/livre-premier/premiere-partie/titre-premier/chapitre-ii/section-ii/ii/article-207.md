@@ -66,9 +66,9 @@ c. les produits financiers issus du placement de la trésorerie de ces organisme
 
 5° bis. Les organismes sans but lucratif mentionnés au 1° du 7 de l'article 261, pour les opérations à raison desquelles ils sont exonérés de la taxe sur la valeur ajoutée ;
 
-6° Les régions et les ententes interrégionales, les  départements et les ententes interdépartementales, les communes, les établissements publics de coopération intercommunale à fiscalité propre, syndicats de communes et syndicats mixtes constitués exclusivement de collectivités territoriales ou de groupements de ces collectivités ainsi que leurs régies de services publics ;
+6° Les régions et les ententes interrégionales, les départements et les ententes interdépartementales, les communes, les établissements publics de coopération intercommunale à fiscalité propre, syndicats de communes et syndicats mixtes constitués exclusivement de collectivités territoriales ou de groupements de ces collectivités ainsi que leurs régies de services publics ;
 
-6° bis. Dans les conditions fixées par décret, les établissements publics et sociétés d'économie mixte chargés de l'aménagement par une convention contractée, en application du deuxième alinéa de l'article L. 300-4 du code de l'urbanisme ainsi que les sociétés d'habitations à loyer modéré régies par l'article L. 411-2 du code de la construction et de l'habitation, pour les résultats provenant des opérations réalisées dans le cadre des procédures suivantes :
+6° bis. Dans les conditions fixées par décret, les établissements publics et sociétés d'économie mixte chargés de l'aménagement par une convention contractée, en application du deuxième alinéa de l'article L. 300-4 du code de l'urbanisme ainsi que les organismes d'habitations à loyer modéré régis par l'article L. 411-2 du code de la construction et de l'habitation et les sociétés anonymes de coordination d'organismes d'habitations à loyer modéré régies par l'article L. 423-1-1 du même code, pour les résultats provenant des opérations réalisées dans le cadre des procédures suivantes :
 
 a.- zone d'aménagement concerté ;
 

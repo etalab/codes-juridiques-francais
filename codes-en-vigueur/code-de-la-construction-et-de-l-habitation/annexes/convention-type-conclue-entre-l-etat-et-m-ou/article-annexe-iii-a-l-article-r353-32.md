@@ -34,7 +34,7 @@ Article 4.
 
 Révision.
 
-La présente convention pourra être révisée tous les trois ans à la demande de l'une ou l'autre partie, et notamment à la demande du bailleur en ce qui concerne ses obligations relatives à la réalisation des travaux en cas de refus du nouveau bail par le locataire ou de refus d'octroi de l'aide de l'agence nationale pour l'amélioration de l'habitat, dans les conditions prévues à l'article 1er de l'annexe à l'article R. 353-32.
+La présente convention pourra être révisée tous les trois ans à la demande de l'une ou l'autre partie, et notamment à la demande du bailleur en ce qui concerne ses obligations relatives à la réalisation des travaux en cas de refus du nouveau bail par le locataire ou de refus d'octroi de l'aide de l'agence nationale de l'habitat, dans les conditions prévues à l'article 1er de l'annexe à l'article R. 353-32.
 
 Article 5.
 
