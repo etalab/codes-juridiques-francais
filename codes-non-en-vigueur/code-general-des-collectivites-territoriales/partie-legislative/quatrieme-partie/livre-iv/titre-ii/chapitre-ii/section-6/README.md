@@ -2,4 +2,3 @@
 
 - [Article L4422-43](article-l4422-43.md)
 - [Article L4422-44](article-l4422-44.md)
-- [Article L4422-45](article-l4422-45.md)
