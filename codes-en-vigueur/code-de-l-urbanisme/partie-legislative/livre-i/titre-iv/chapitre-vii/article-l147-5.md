@@ -8,7 +8,7 @@ Dans les zones définies par le plan d'exposition au bruit, l'extension de l'urb
 
 - dans les zones B et C et dans les secteurs déjà urbanisés situés en zone A, des logements de fonction nécessaires aux activités industrielles ou commerciales admises dans la zone et des constructions directement liées ou nécessaires à l'activité agricole ;
 
-- en zone C, des constructions individuelles non groupées situées dans des secteurs déjà urbanisés et desservis par des équipements publics dès lors qu'elles n'entraînent qu'un faible accroissement de la capacité d'accueil d'habitants exposés aux nuisances.
+- en zone C, des constructions individuelles non groupées situées dans des secteurs déjà urbanisés et desservis par des équipements publics dès lors qu'elles n'entraînent qu'un faible accroissement de la capacité d'accueil d'habitants exposés aux nuisances et des opérations de reconstruction rendues nécessaires par une opération de démolition en zone A ou B dès lors qu'elles n'entraînent pas d'accroissement de la population exposée aux nuisances, que les normes d'isolation phonique fixées par l'autorité administrative sont respectées et que le coût d'isolation est à la charge exclusive du constructeur.
 
 2° La rénovation, la réhabilitation, l'amélioration, l'extension mesurée ou la reconstruction des constructions existantes peuvent être admises lorsqu'elles n'entraînent pas un accroissement de la capacité d'accueil d'habitants exposés aux nuisances ;
 
