@@ -20,4 +20,6 @@ II. - Les dispositions du I ne s'appliquent pas aux immeubles, aux parties d'imm
 
 7° Qui sont cédés avant le 31 décembre 2007 à un organisme d'habitations à loyer modéré, à une société d'économie mixte gérant des logements sociaux ou à un organisme mentionné à l'article L. 365-1 du code de la construction et de l'habitation.
 
+8° Qui sont cédés avant le 31 décembre 2007 à une collectivité territoriale en vue de leur cession à l'un des organismes mentionnés au 7° ; en cas de non respect de cette condition dans un délai d'un an à compter de l'acquisition des biens, la collectivité territoriale reverse à l'Etat le montant dû au titre du I.
+
 III. - Les dispositions du I ne s'appliquent pas aux plus-values réalisées par les titulaires de pensions de vieillesse ou de la carte d'invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale qui, au titre de l'avant-dernière année précédant celle de la cession, ne sont pas passibles de l'impôt de solidarité sur la fortune et dont le revenu fiscal de référence n'excède pas la limite prévue au I de l'article 1417, appréciés au titre de cette année.

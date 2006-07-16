@@ -2,7 +2,7 @@
 
 Le prix de chaque fermage est établi en fonction, notamment, de la durée du bail, compte tenu d'une éventuelle clause de reprise en cours de bail, de l'état et de l'importance des bâtiments d'habitation et d'exploitation, de la qualité des sols ainsi que de la structure parcellaire du bien loué et, le cas échéant, de l'obligation faite au preneur de mettre en oeuvre des pratiques culturales respectueuses de l'environnement en application de l'article L. 411-27. Ce prix est constitué, d'une part, du loyer des bâtiments d'habitation et, d'autre part, du loyer des bâtiments d'exploitation et des terres nues.
 
-Le loyer des bâtiments d'habitation est fixé en monnaie entre des maxima et des minima qui sont arrêtés par l'autorité administrative. Ce loyer ainsi que les maxima et les minima sont actualisés, chaque année, selon la variation de l'indice national mesurant le coût de la construction publié par l'Institut national de la statistique et des études économiques.
+Le loyer des bâtiments d'habitation est fixé en monnaie entre des maxima et des minima qui sont arrêtés par l'autorité administrative sur la base de références calculées d'après des modalités définies par décret en Conseil d'Etat. Ce loyer ainsi que les maxima et les minima sont actualisés, chaque année, selon la variation de l'indice national mesurant le coût de la construction publié par l'Institut national de la statistique et des études économiques.
 
 Le loyer des terres nues et des bâtiments d'exploitation est fixé en monnaie entre des maxima et des minima arrêtés par l'autorité administrative.
 

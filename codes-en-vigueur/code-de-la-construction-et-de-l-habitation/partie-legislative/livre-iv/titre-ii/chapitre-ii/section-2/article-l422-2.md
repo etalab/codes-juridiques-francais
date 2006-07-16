@@ -20,7 +20,13 @@ Elles ont également pour objet :
 
 - de réaliser pour le compte d'autres organismes d'habitations à loyer modéré des prestations de services pour des missions rentrant dans l'objet social et la compétence territoriale desdits organismes et des organismes prestataires ;
 
-- d'acquérir et donner en location à des organismes agréés par arrêté du représentant de l'Etat dans le département des hôtels, meublés ou non, destinés à l'hébergement temporaire de personnes en difficulté.
+- d'acquérir et donner en location à des organismes agréés par arrêté du représentant de l'Etat dans le département des hôtels, meublés ou non, destinés à l'hébergement temporaire de personnes en difficulté ;
+
+- d'être syndic de copropriété et administrateur de biens d'immeubles bâtis, construits ou acquis soit par elles, soit par un autre organisme d'habitations à loyer modéré, une collectivité territoriale, une société d'économie mixte ou un organisme sans but lucratif, l'association mentionnée à l'article 116 de la loi de finances pour 2002 précitée ou une des sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par cette association ;
+
+- de vendre des ouvrages de bâtiment aux organismes visés à l'article L. 411-2 et aux sociétés d'économie mixte ou de les acquérir auprès d'eux, par contrat de vente d'immeuble à construire prévu aux articles L. 261-1 et suivants ;
+
+- de construire ou acquérir, aménager, entretenir, gérer ou donner en gestion à des personnes physiques ou morales des résidences hôtelières à vocation sociale prévues à l'article L. 631-11.
 
 Elles peuvent, en outre :
 
@@ -28,12 +34,18 @@ Elles peuvent, en outre :
 
 - avec l'accord du maire de la commune d'implantation et du représentant de l'Etat dans le département, gérer, en qualité d'administrateurs de biens, des logements situés dans des copropriétés connaissant des difficultés importantes de fonctionnement ou être syndics de ces copropriétés. Dans ces mêmes copropriétés lorsqu'elles font l'objet d'un plan de sauvegarde en application de l'article L. 615-1, elles peuvent, selon les modalités précisées par décret en Conseil d'Etat qui peuvent déroger aux règles applicables aux habitations à loyer modéré, acquérir des lots en vue de leur revente, y effectuer tous travaux et les louer provisoirement ;
 
-- réaliser des hébergements de loisirs à vocation sociale dans les conditions prévues à l'article L. 421-1.
+- réaliser des hébergements de loisirs à vocation sociale dans les conditions prévues à l'article L. 421-1 ;
+
+- réaliser des opérations de conception, réalisation, entretien ou maintenance d'équipements hospitaliers ou médico-sociaux pour les besoins d'un établissement public de santé ;
+
+- réaliser des travaux, acquérir, construire et gérer des immeubles à usage d'habitation au profit des fonctionnaires de la police et de la gendarmerie nationales, des services départementaux d'incendie et de secours ou des services pénitentiaires, ainsi que les locaux accessoires à ces immeubles et les locaux nécessaires au fonctionnement des gendarmeries.
 
 Elles peuvent aussi prendre à bail des logements vacants pour les donner en sous-location à des personnes physiques dans les conditions fixées par les articles L. 444-1 et suivants.
 
 Elles peuvent également réaliser en vue de leur vente, dans les conditions prévues aux articles L. 261-1 à L. 261-22, à l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002 précitée ou aux sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par cette association, des immeubles à usage principal d'habitation destinés à la location.
 
-- réaliser des opérations de conception, réalisation, entretien ou maintenance d'équipements hospitaliers ou médico-sociaux pour les besoins d'un établissement public de santé.
+Elles peuvent aussi réaliser en vue de leur vente, dans les conditions prévues à l'article L. 261-3, pour le compte de personnes publiques ou privées, des immeubles à usage principal d'habitation dont elles peuvent provisoirement détenir l'usufruit selon les modalités définies aux articles L. 253-1 à L. 253-5.
 
 Elles peuvent aussi réaliser des prestations de service pour le compte de l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002 précitée, ou des sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par cette association, dans des conditions fixées par décret en Conseil d'Etat.
+
+Elles peuvent aussi assurer la gérance des sociétés civiles immobilières régies par les articles L. 443-6-2 et suivants.

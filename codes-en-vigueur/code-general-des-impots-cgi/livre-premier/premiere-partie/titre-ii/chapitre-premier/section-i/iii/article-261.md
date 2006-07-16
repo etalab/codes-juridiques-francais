@@ -96,6 +96,10 @@ e. (Disposition périmée) ;
 
 f. (Abrogé) ;
 
+g) Les livraisons d'immeubles réalisées par les organismes d'habitations à loyer modéré régis par l'article L. 411-2 du code de la construction et de l'habitation ou de lots de copropriété faisant l'objet d'un plan de sauvegarde en application de l'article L. 615-1 du même code par les organismes sans but lucratif visés au 7 du présent article ou par les sociétés d'économie mixte exerçant une activité de construction ou de gestion de logements sociaux ;
+
+h) Les cessions de parts de sociétés civiles immobilières d'accession progressive à la propriété effectuées dans les conditions prévues aux articles L. 443-6-2 et suivants du code de la construction et de l'habitation ;
+
 1° bis lorsqu'elles entrent dans le champ d'application du 7° de l'article 257, les opérations de remembrement réalisées par les associations foncières urbaines en vertu du 1° de l'article L. 322-2 du code de l'urbanisme ou par les associations syndicales constituées en application de l'ordonnance n° 58-1145 du 31 décembre 1958 ;
 
 2° les apports et les cessions de terrains à bâtir effectués par les collectivités locales au profit des offices publics d'habitations à loyer modéré et de leurs unions ainsi que les apports consentis par les collectivités locales à des organismes d'habitations à loyer modéré ou à leurs unions, dans la mesure où ces apports sont effectués à titre gratuit.
@@ -114,7 +118,7 @@ Ces dispositions s'appliquent aux offices publics d'aménagement et de construct
 
 8° les livraisons à soi-même d'immeubles construits par les sociétés civiles immobilières constituées par les organismes régis par la réglementation sur les habitations à loyer modéré en vue de favoriser l'accession à la propriété.
 
-9° Lorsqu'elles entrent dans le champ d'application du 7° de l'article 257, les ventes à leurs occupants, dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière, de logements ayant fait l'objet de la livraison à soi-même prévue au dixième alinéa du c du 1 du 7° de l'article 257.
+9° Lorsqu'elles entrent dans le champ d'application du 7° de l'article 257, les ventes à leurs occupants, dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière, de logements mentionnés au dixième alinéa du c du 1 du 7° de l'article 257.
 
 6. (Abrogé).
 

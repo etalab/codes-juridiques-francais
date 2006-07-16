@@ -1,6 +1,6 @@
 # Article L300-4
 
-L'Etat et les collectivités territoriales, ainsi que leurs établissements publics, peuvent concéder la réalisation des opérations d'aménagement prévues par le présent livre à toute personne y ayant vocation.
+L'Etat et les collectivités territoriales, ainsi que leurs établissements publics, peuvent concéder la réalisation des opérations d'aménagement prévues par le présent code à toute personne y ayant vocation.
 
 L'attribution des concessions d'aménagement est soumise par le concédant à une procédure de publicité permettant la présentation de plusieurs offres concurrentes, dans des conditions prévues par décret en Conseil d'Etat.
 

@@ -6,7 +6,7 @@ Ces dispositions ne sont pas applicables :
 
 - aux logements vendus par les organismes d'habitations à loyer modéré en application des premier, troisième et cinquième alinéas de l'article L. 443-11 ;
 
-- aux logements cédés ou apportés aux sociétés civiles immobilières régies par l'article L. 443-7-1 et devenus propriété de l'associé personne physique ;
+- aux logements cédés ou apportés aux sociétés civiles immobilières régies par les articles L. 443-6-2 et suivants et devenus propriété d'un associé personne physique ;
 
 - aux logements dont l'usufruit a été détenu temporairement par les organismes d'habitations à loyer modéré ;
 

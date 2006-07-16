@@ -6,7 +6,7 @@ II. - Lorsqu'une déclaration d'insalubrité, une mise en demeure ou une injonct
 
 III. - Lorsque la déclaration d'insalubrité vise un immeuble situé dans une opération programmée d'amélioration de l'habitat prévue par l'article L. 303-1 ou dans une opération d'aménagement au sens de l'article L. 300-1 du code de l'urbanisme et que le propriétaire ou l'exploitant n'a pas assuré l'hébergement ou le relogement des occupants, la personne publique qui a pris l'initiative de l'opération prend les dispositions nécessaires à l'hébergement ou au relogement des occupants.
 
-IV. - Lorsqu'une personne publique, un organisme d'habitations à loyer modéré, une société d'économie mixte ou un organisme à but non lucratif a assuré le relogement, le propriétaire ou l'exploitant lui verse une indemnité représentative des frais engagés pour le relogement, dans la limite d'une somme égale à un an du loyer prévisionnel.
+IV. - Lorsqu'une personne publique, un organisme d'habitations à loyer modéré, une société d'économie mixte ou un organisme à but non lucratif a assuré le relogement, le propriétaire ou l'exploitant lui verse une indemnité représentative des frais engagés pour le relogement, égale à un an du loyer prévisionnel.
 
 V. - Si la commune assure, de façon occasionnelle ou en application d'une convention passée avec l'Etat, les obligations d'hébergement ou de relogement qui sont faites à celui-ci en cas de défaillance du propriétaire, elle est subrogée dans les droits de l'Etat pour le recouvrement de sa créance.
 

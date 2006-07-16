@@ -9,3 +9,4 @@
 - [Section 7 : Constructions à proximité des forêts.](section-7)
 - [Section 8 : Nuisances dues à certaines activités.](section-8)
 - [Section 9 : Protection contre les insectes xylophages.](section-9)
+- [Section 10 : Protection des risques naturels.](section-10)

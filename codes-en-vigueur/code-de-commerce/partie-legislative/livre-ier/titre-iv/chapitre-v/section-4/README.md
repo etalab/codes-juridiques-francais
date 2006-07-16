@@ -10,6 +10,7 @@
 - [Article L145-21](article-l145-21.md)
 - [Article L145-22](article-l145-22.md)
 - [Article L145-23](article-l145-23.md)
+- [Article L145-23-1](article-l145-23-1.md)
 - [Article L145-24](article-l145-24.md)
 - [Article L145-25](article-l145-25.md)
 - [Article L145-26](article-l145-26.md)
