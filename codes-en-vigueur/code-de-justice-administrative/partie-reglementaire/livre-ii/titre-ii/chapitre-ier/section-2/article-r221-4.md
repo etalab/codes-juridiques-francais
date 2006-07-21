@@ -8,11 +8,11 @@ Bastia : deux chambres ;
 
 Besançon : deux chambres ;
 
-Bordeaux : quatre chambres ;
+Bordeaux : cinq chambres ;
 
 Caen : deux chambres ;
 
-Cergy-Pontoise : sept chambres ;
+Cergy-Pontoise : huit chambres ;
 
 Châlons-en-Champagne : trois chambres ;
 
@@ -40,7 +40,9 @@ Nantes : cinq chambres ;
 
 Nice : sept chambres ;
 
-Orléans : trois chambres ;
+Nîmes : trois chambres ;
+
+Orléans : quatre chambres ;
 
 Pau : deux chambres ;
 
@@ -54,6 +56,6 @@ Strasbourg : cinq chambres ;
 
 Toulouse : cinq chambres ;
 
-Versailles : huit chambres ;
+Versailles : neuf chambres ;
 
 Saint-Denis : deux chambres.
