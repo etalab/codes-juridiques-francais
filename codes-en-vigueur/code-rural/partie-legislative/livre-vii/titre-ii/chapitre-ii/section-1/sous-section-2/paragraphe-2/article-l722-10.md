@@ -14,17 +14,17 @@ La personne qui devient aide familial à compter du 18 mai 2005 ne peut conserve
 
 3° Aux anciens exploitants et à leurs conjoints titulaires de la pension de retraite prévue à l'article L. 732-18, ainsi qu'aux titulaires de la pension de retraite forfaitaire prévue à l'article L. 732-34 ;
 
-4° a) Aux conjoints des personnes visées aux 1°, 2°, 3°, 5°, 6° et 7° du présent article, sous réserve qu'ils ne soient pas couverts à titre personnel par un régime obligatoire d'assurance maladie, maternité ;
+4° a) Aux conjoints des personnes visées aux 1°,2°,3°,5°,6° et 7° du présent article, ainsi qu'aux collaborateurs d'exploitation ou d'entreprise agricole mentionnés à l'article L. 321-5, sous réserve qu'ils ne soient pas couverts à titre personnel par un régime obligatoire d'assurance maladie, maternité ;
 
-b) Aux enfants de moins de seize ans à la charge des personnes visées aux 1°, 2°, 3°, 5°, 6° et 7° du présent article ou de leur conjoint, qu'ils soient légitimes, naturels reconnus ou non, recueillis, adoptifs ou pupilles de la nation dont l'assuré est le tuteur.
+b) Aux enfants de moins de seize ans à la charge des personnes visées aux 1°,2°,3°,5°,6° et 7° du présent article ou de leur conjoint, qu'ils soient légitimes, naturels reconnus ou non, recueillis, adoptifs ou pupilles de la nation dont l'assuré est le tuteur.
 
 Sont assimilés aux enfants de moins de seize ans :
 
-- ceux de moins de vingt ans qui poursuivent leurs études, cette limite d'âge pouvant être reculée dans des conditions fixées par voie réglementaire pour les enfants ayant dû interrompre leurs études pour cause de maladie,
+-ceux de moins de vingt ans qui poursuivent leurs études, cette limite d'âge pouvant être reculée dans des conditions fixées par voie réglementaire pour les enfants ayant dû interrompre leurs études pour cause de maladie,
 
-- ceux de moins de vingt ans qui sont, par suite d'infirmité ou de maladie chronique, dans l'impossibilité permanente de se livrer à une activité rémunératrice,
+-ceux de moins de vingt ans qui sont, par suite d'infirmité ou de maladie chronique, dans l'impossibilité permanente de se livrer à une activité rémunératrice,
 
-- ceux de moins de vingt ans qui bénéficient de l'article L. 542-2 du code de la sécurité sociale ;
+-ceux de moins de vingt ans qui bénéficient de l'article L. 542-2 du code de la sécurité sociale ;
 
 5° Aux membres non salariés de toute société, quelles qu'en soient la forme et la dénomination, lorsque ces membres consacrent leur activité, pour le compte de la société, à une exploitation ou entreprise agricole située sur le territoire métropolitain, lesdites sociétés étant assimilées, pour l'application du présent régime, aux chefs d'exploitation ou d'entreprise mentionnés au 1° ;
 
