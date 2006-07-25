@@ -1,5 +1,4 @@
 # TITRE II : ENTRÉE ET SÉJOUR DES RESSORTISSANTS DES ÉTATS MEMBRES DE L'UNION EUROPÉENNE OU PARTIES À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN ET DES RESSORTISSANTS SUISSES AINSI QUE SEJOUR DES MEMBRES DE LEUR FAMILLE
 
 - [Chapitre Ier : Droit au séjour](chapitre-ier)
-- [Chapitre unique.](chapitre-unique)
 - [Chapitre II : Droit au séjour permanent](chapitre-ii)
