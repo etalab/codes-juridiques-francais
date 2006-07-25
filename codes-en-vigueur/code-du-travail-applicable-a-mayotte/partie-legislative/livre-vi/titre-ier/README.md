@@ -3,7 +3,6 @@
 - [Article L610-1](article-l610-1.md)
 - [Article L610-2](article-l610-2.md)
 - [Article L610-3](article-l610-3.md)
-- [Article L610-4](article-l610-4.md)
 - [Article L610-5](article-l610-5.md)
 - [Article L610-6](article-l610-6.md)
 - [Article L610-7](article-l610-7.md)

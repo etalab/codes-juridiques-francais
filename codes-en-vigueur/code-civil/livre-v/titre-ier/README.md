@@ -2,7 +2,6 @@
 
 - [Article 2492](article-2492.md)
 - [Article 2493](article-2493.md)
-- [Article 2494](article-2494.md)
 - [Article 2495](article-2495.md)
 - [Article 2496](article-2496.md)
 - [Article 2498](article-2498.md)

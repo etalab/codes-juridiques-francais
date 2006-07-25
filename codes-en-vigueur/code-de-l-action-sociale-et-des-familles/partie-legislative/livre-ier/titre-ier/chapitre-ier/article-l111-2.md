@@ -4,7 +4,7 @@ Les personnes de nationalité étrangère bénéficient dans les conditions prop
 
 1° Des prestations d'aide sociale à l'enfance ;
 
-2° De l'aide sociale en cas d'admission dans un centre d'hébergement et de réinsertion sociale ;
+2° De l'aide sociale en cas d'admission dans un centre d'hébergement et de réinsertion sociale ou dans un centre d'accueil pour demandeurs d'asile ;
 
 3° De l'aide médicale de l'Etat ;
 

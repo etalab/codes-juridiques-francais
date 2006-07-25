@@ -1,7 +1,6 @@
 # Paragraphe 5 : Acquisition de la nationalité française par décision de l'autorité publique
 
 - [Article 21-14-1](article-21-14-1.md)
-- [Article 21-14-2](article-21-14-2.md)
 - [Article 21-15](article-21-15.md)
 - [Article 21-16](article-21-16.md)
 - [Article 21-17](article-21-17.md)
