@@ -8,7 +8,9 @@ Le représentant de l'Etat dans le département décide :
 
 2° De l'admission dans un centre d'hébergement et de réinsertion sociale, mentionnée à l'article L. 345-1 ;
 
-3° De l'octroi de l'aide aux familles dont les soutiens accomplissent le service national, mentionnée à l'article L. 212-1.
+3° De l'octroi de l'aide aux familles dont les soutiens accomplissent le service national, mentionnée à l'article L. 212-1 ;
+
+4° De l'admission dans un centre d'accueil pour demandeurs d'asile mentionné à l'article L. 348-1.
 
 Le président du conseil général décide :
 

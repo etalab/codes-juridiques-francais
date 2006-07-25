@@ -6,3 +6,4 @@
 - [Paragraphe 4 : Acquisition de la nationalité française par déclaration de nationalité](paragraphe-4)
 - [Paragraphe 5 : Acquisition de la nationalité française par décision de l'autorité publique](paragraphe-5)
 - [Paragraphe 6 : Dispositions communes à certains modes d'acquisition de la nationalité française](paragraphe-6)
+- [Paragraphe 7 : De la cérémonie d'accueil dans la citoyenneté française](paragraphe-7)

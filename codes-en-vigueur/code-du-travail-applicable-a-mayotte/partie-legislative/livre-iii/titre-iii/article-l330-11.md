@@ -2,7 +2,7 @@
 
 Est puni d'une amende l'étranger qui exerce une activité professionnelle salariée sans avoir obtenu au préalable une autorisation de travail. Le montant maximum de l'amende est égal à vingt-cinq fois le taux horaire du salaire minimum interprofessionnel garanti en vigueur dans la collectivité départementale.
 
-L'employeur qui engage ou conserve à son service un étranger non muni d'une autorisation de travail est puni d'une amende sauf si des poursuites judiciaires sont intentées à son encontre pour les mêmes faits. Le montant maximum de celle-ci est égal à cent fois le taux horaire du salaire minimum interprofessionnel garanti en vigueur dans la collectivité départementale. L'amende est due pour chaque étranger employé sans titre de travail.
+L'employeur qui engage ou conserve à son service un étranger non muni d'une autorisation de travail est puni d'une amende sauf si des poursuites judiciaires sont intentées à son encontre pour les mêmes faits. Le montant maximum de celle-ci est égal à mille fois le taux horaire du salaire minimum interprofessionnel garanti en vigueur dans la collectivité départementale. L'amende est due pour chaque étranger employé sans titre de travail.
 
 Le montant de l'amende due par l'étranger ou l'employeur varie en fonction de la durée de l'emploi.
 

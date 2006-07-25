@@ -18,4 +18,6 @@ Sont à la charge de l'Etat au titre de l'aide sociale :
 
 8° Les mesures d'aide sociale en matière de logement, d'hébergement et de réinsertion, mentionnées aux articles L. 345-1 à L. 345-3 ;
 
-9° L'allocation aux familles dont les soutiens indispensables accomplissent le service national, mentionnée à l'article L. 212-1.
+9° L'allocation aux familles dont les soutiens indispensables accomplissent le service national, mentionnée à l'article L. 212-1 ;
+
+10° Les frais d'accueil et d'hébergement des étrangers dans les centres d'accueil pour demandeurs d'asile mentionnés à l'article L. 348-1.

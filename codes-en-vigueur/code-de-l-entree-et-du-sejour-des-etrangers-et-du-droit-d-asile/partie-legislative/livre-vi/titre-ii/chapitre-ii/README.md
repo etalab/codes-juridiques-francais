@@ -9,3 +9,4 @@
 - [Article L622-7](article-l622-7.md)
 - [Article L622-8](article-l622-8.md)
 - [Article L622-9](article-l622-9.md)
+- [Article L622-10](article-l622-10.md)

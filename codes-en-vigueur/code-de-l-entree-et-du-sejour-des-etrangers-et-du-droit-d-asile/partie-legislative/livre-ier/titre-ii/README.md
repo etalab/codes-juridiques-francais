@@ -2,3 +2,4 @@
 
 - [Chapitre Ier : Droit au séjour](chapitre-ier)
 - [Chapitre unique.](chapitre-unique)
+- [Chapitre II : Droit au séjour permanent](chapitre-ii)
