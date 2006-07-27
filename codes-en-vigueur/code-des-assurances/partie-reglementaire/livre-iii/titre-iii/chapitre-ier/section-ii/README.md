@@ -2,7 +2,4 @@
 
 - [Article A331-1-1](article-a331-1-1.md)
 - [Article A331-1-2](article-a331-1-2.md)
-- [Article A331-2](article-a331-2.md)
-- [Article A331-4](article-a331-4.md)
-- [Article A331-5](article-a331-5.md)
 - [Article A331-9-1](article-a331-9-1.md)
