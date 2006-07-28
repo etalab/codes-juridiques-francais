@@ -1,16 +1,3 @@
 # Sous-section 3 : Transfert des quantités de référence laitières.
 
-- [Article R*654-101](article-r-654-101.md)
-- [Article R*654-102](article-r-654-102.md)
-- [Article R*654-103](article-r-654-103.md)
-- [Article R*654-104](article-r-654-104.md)
-- [Article R*654-105](article-r-654-105.md)
-- [Article R*654-106](article-r-654-106.md)
-- [Article R*654-107](article-r-654-107.md)
-- [Article R*654-108](article-r-654-108.md)
-- [Article R*654-109](article-r-654-109.md)
-- [Article R*654-110](article-r-654-110.md)
-- [Article R*654-111](article-r-654-111.md)
-- [Article R*654-112](article-r-654-112.md)
-- [Article R*654-113](article-r-654-113.md)
 - [Article R654-114](article-r654-114.md)
