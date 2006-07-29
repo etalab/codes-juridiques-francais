@@ -1,9 +1,6 @@
 # Section 1 : Création et dispositions générales
 
-- [Article R*331-1](article-r-331-1.md)
 - [Article R331-2](article-r331-2.md)
-- [Article R*331-3](article-r-331-3.md)
-- [Article R*331-4](article-r-331-4.md)
 - [Article R331-5](article-r331-5.md)
 - [Article R331-6](article-r331-6.md)
 - [Article R331-7](article-r331-7.md)
