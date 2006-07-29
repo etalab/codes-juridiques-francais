@@ -1,4 +1,4 @@
-# Sous-section 1 : Opérations consécutives au décès (R)
+# Sous-section 1 : Le certificat de décès
 
 - [Paragraphe 1 : Soins de conservation (R).](paragraphe-1)
 - [Paragraphe 2 : Moulage (R).](paragraphe-2)
@@ -10,3 +10,9 @@
 - [Paragraphe 8 : Crémation (R).](paragraphe-8)
 - [Paragraphe 9 : Exhumation (R).](paragraphe-9)
 - [Paragraphe 10 : Dispositions diverses (R).](paragraphe-10)
+- [Article R2213-1-1](article-r2213-1-1.md)
+- [Article R2213-1-2](article-r2213-1-2.md)
+- [Article R2213-1-3](article-r2213-1-3.md)
+- [Article R2213-1-4](article-r2213-1-4.md)
+- [Article R2213-1-5](article-r2213-1-5.md)
+- [Article R2213-1-6](article-r2213-1-6.md)

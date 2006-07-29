@@ -5,3 +5,4 @@
 - [Section 3 : Agent comptable](section-3)
 - [Section 4 : Conseil scientifique](section-4)
 - [Section 5 : Concours versés aux départements](section-5)
+- [Section 7 : Conventions entre la Caisse nationale de solidarité pour l'autonomie et les organismes d'assurance maladie vieillesse](section-7)

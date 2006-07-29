@@ -8,3 +8,4 @@
 - [Section 6 : Comité interministériel des parcs nationaux](section-6)
 - [Section 7 : Dispositions pénales](section-7)
 - [Section 8 : Dispositions propres aux parcs nationaux](section-8)
+- [Section 9 : Dispositions propres à chacun des parcs nationaux](section-9)
