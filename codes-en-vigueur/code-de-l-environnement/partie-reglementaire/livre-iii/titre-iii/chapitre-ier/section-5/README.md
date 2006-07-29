@@ -5,4 +5,3 @@
 - [Article R331-57](article-r331-57.md)
 - [Article R331-58](article-r331-58.md)
 - [Article R331-59](article-r331-59.md)
-- [Article R331-60](article-r331-60.md)
