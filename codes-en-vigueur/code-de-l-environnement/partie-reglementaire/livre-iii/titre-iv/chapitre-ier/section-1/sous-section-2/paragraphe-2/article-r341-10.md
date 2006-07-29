@@ -7,3 +7,5 @@ L'autorisation spéciale prévue aux articles L. 341-7 et L. 341-10 du présent 
 2° Des constructions, travaux ou ouvrages exemptés de permis de construire en application du deuxième alinéa de l'article R. 422-1 et de l'article R. 422-2 du code de l'urbanisme ;
 
 3° De l'édification ou de la modification de clôtures.
+
+Si le monument naturel ou le site classé ou dont le classement est envisagé est situé dans le coeur d'un parc national, cette autorisation est délivrée par le directeur de l'établissement public du parc national.
