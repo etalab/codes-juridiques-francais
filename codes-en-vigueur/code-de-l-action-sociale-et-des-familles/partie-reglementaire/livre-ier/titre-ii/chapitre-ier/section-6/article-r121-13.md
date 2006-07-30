@@ -1,0 +1,3 @@
+# Article R121-13
+
+La tutelle de l'Etat sur l'Agence nationale pour la cohésion sociale et l'égalité des chances mentionnée à l'article L. 121-14 est exercée conjointement par le ministre chargé de la cohésion sociale pour ce qui concerne la politique de la ville, l'intégration, la lutte contre les discriminations, le service civil volontaire et l'illettrisme et par le ministre chargé de la promotion de l'égalité des chances pour ce qui concerne la prise en compte et le renforcement de l'égalité des chances dans ces domaines. Un contrat pluriannuel d'objectifs et de moyens est conclu avec l'Etat pour la mise en oeuvre de ses missions.

@@ -2,3 +2,4 @@
 
 - [Chapitre Ier : Surveillance médicale.](chapitre-ier)
 - [Chapitre III : Assistants maternels et assistants familiaux](chapitre-iii)
+- [Chapitre IV : Personnels pédagogiques occasionnels.](chapitre-iv)
