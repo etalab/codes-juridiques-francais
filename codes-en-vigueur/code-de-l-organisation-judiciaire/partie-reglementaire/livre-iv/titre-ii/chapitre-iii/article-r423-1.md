@@ -10,7 +10,7 @@ Toutefois, par dérogation à la disposition de l'alinéa précédent, sont admi
 
 "Art. R. 513-2 :
 
-Les conditions pour être électeur s'apprécient à une date de l'élection générale fixée par décret".
+Les conditions pour être électeur s'apprécient à une date de l'année de l'élection générale fixée par décret".
 
 "Art. R. 513-3 :
 
@@ -58,7 +58,7 @@ Les employeurs qui ne comptent dans leur personnel que des salariés relevant de
 
 "Art. R. 513-10 :
 
-Sont électeurs au titre de la section des activités diverses les salariés mentionnés au septième alinéa de l'article L. 512-2 [*les ouvriers et employés dont les employeurs n'exercent pas une activité industrielle, commerciale ou agricole, ainsi que les employés de maison, concierges et gardiens d'immeubles à usage d'habitation*].
+Sont électeurs au titre de la section des activités diverses les salariés mentionnés au septième alinéa de l'article L. 512-2 *les ouvriers et employés dont les employeurs n'exercent pas une activité industrielle, commerciale ou agricole, ainsi que les employés de maison, concierges et gardiens d'immeubles à usage d'habitation*.
 
 Sont électeurs au titre de la même section les employeurs qui ne relèvent pas des autres sections".
 
@@ -350,7 +350,7 @@ Le président convoque les mandataires de chaque liste. Ceux-ci peuvent particip
 
 La commission de propagande reçoit du préfet les enveloppes nécessaires à l'expédition des circulaires et des bulletins de vote. Elle fait préparer le libellé de ces enveloppes.
 
-Elle est chargée [*mission*] :
+Elle est chargée *mission* :
 
 - d'adresser au plus tard douze jours avant le scrutin, dans une même enveloppe fermée, d'une part, à tous les électeurs, une enveloppe électorale destinée à recevoir le bulletin de vote ainsi qu'une enveloppe d'envoi portant la mention : " Election des conseillers prud'hommes. - Vote par correspondance " et, d'autre part, à tous les électeurs dont ces listes sollicitent les suffrages, une circulaire et un bulletin de vote de chacune des listes ;
 
@@ -574,9 +574,9 @@ Les commissions de contrôle des opérations de vote instituées en vertu des di
 
 Chaque commission de contrôle des opérations de vote comprend :
 
-- un magistrat en activité ou honoraire de l'ordre judiciaire ou de l'ordre administratif, désigné selon les cas par le premier président de la cour d'appel, ou par le président du tribunal administratif, président ;
+- un magistrat en activité ou honoraire de l'ordre judiciaire, désigné par le premier président de la cour d'appel, président ;
 
-- un membre désigné par la même autorité parmi les anciens magistrats de l'ordre judiciaire ou de l'ordre administratif ou les auxiliaires de justice du département ;
+- un membre désigné par la même autorité parmi les anciens magistrats de l'ordre judiciaire ou les auxiliaires de justice du département ;
 
 - un fonctionnaire, désigné par le préfet, qui assure le secrétariat de la commission.
 

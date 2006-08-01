@@ -6,4 +6,4 @@ En cas de décès ou de démission son successeur est désigné, dans les condit
 
 Si cette durée est inférieure à dix-huit mois, le mandat ainsi accompli par le successeur n'est pas pris en compte pour l'application de la règle selon laquelle les mandats ne sont renouvelables qu'une fois.
 
-En cas d'absence ou d'empêchement, le président est remplacé par le membre du Conseil d'Etat ou, à défaut, par le magistrat de l'ordre judiciaire ou, à défaut, par le membre de la Cour des comptes.
+En cas d'absence ou d'empêchement, le président est remplacé par le magistrat de l'ordre judiciaire ou, à défaut, par le membre de la Cour des comptes.
