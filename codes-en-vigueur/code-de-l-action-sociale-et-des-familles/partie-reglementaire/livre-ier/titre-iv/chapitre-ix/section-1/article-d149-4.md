@@ -10,10 +10,6 @@ deux représentants des départements désignés par l'assemblée des départeme
 
 un représentant des communes désigné par l'association des maires de France ;
 
-un membre du Conseil d'Etat désigné par le vice-président du Conseil d'Etat ;
-
-un magistrat de la Cour des comptes désigné par le premier président de la Cour des comptes ;
-
 un membre de l'inspection générale des affaires sociales désigné par le ministre ;
 
 2° Un représentant désigné par chacune des associations et organisations suivantes :
