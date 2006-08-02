@@ -6,7 +6,7 @@ Lorsque la somme des valeurs des cas de non-conformité est supérieure à un se
 
 Toutefois, lorsque tous les cas de non-conformité affectés de la valeur la plus élevée qu'il est possible de contrôler sur l'exploitation sont constatés, le taux de réduction de ce domaine est fixé à 5 %.
 
-II. - Lorsque le respect des exigences réglementaires relevant des domaines mentionnés au II de l'article D. 615-21 est contrôlé, et que des cas de non-conformité sont constatés, il est déterminé un taux de réduction par domaine selon les modalités ci-après :
+II. - Lorsque le respect des exigences réglementaires relevant des domaines mentionnés au II de l'article D. 615-57 est contrôlé, et que des cas de non-conformité sont constatés, il est déterminé un taux de réduction par domaine selon les modalités ci-après :
 
 1° La constatation de cas de non-conformité pour un sous-domaine donne lieu à détermination d'un taux qui est fixé à 3 % lorsque la somme des valeurs des cas de non-conformité est supérieure à un seuil fixé par arrêté du ministre chargé de l'agriculture, et à 1 % dans les autres cas.
 
