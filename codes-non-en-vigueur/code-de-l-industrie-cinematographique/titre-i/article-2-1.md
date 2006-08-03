@@ -1,3 +1,3 @@
 # Article 2-1
 
-En application de la loi n° 92-546 du 20 juin 1992 relative au dépôt légal, le centre est chargé de recueillir et de conserver l'ensemble des vidéogrammes fixés sur support photochimique, de participer à la constitution et à la diffusion des bibliographies nationales correspondantes et de mettre ces documents à la disposition du public pour consultation. La consultation des documents s'effectue, sous réserve des secrets protégés par la loi, dans des conditions conformes à la législation sur la propriété intellectuelle et compatibles avec leur conservation. Le centre exerce cette mission selon des modalités fixées par décret en Conseil d'Etat.
+Le Centre national de la cinématographie exerce les missions qui lui sont confiées par le titre III du livre Ier du code du patrimoine.
