@@ -1,6 +1,6 @@
 # Article 2 quaterdecies
 
-I. - Pour l'application du deuxième alinéa du e du 1° du I de l'article 31 du code général des impôts, les contribuables sont tenus de joindre à leur déclaration des revenus de l'année au cours de laquelle a pris effet la location dont les revenus peuvent bénéficier de la déduction forfaitaire majorée :
+I.-Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code général des impôts, les contribuables sont tenus de joindre à leur déclaration des revenus de l'année au cours de laquelle a pris effet la location dont les revenus peuvent bénéficier de la déduction calculée en fonction du revenu brut :
 
 1° Une note annexe, établie sur un imprimé fourni par l'administration, qui comporte les éléments suivants :
 
@@ -18,4 +18,4 @@ d) L'engagement de louer le logement non meublé, pendant une durée de six ans 
 
 4° Une copie de l'avis d'imposition ou de non-imposition du locataire établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location.
 
-II. - En cas de changement de locataire au cours de la période couverte par l'engagement de location mentionné au d du 1° du I, le contribuable joint à sa déclaration des revenus de l'année au cours de laquelle le changement est intervenu une copie du nouveau bail ainsi qu'une copie de l'avis d'imposition ou de non-imposition du locataire entrant dans les lieux établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location.
+II.-En cas de changement de locataire au cours de la période couverte par l'engagement de location mentionné au d du 1° du I, le contribuable joint à sa déclaration des revenus de l'année au cours de laquelle le changement est intervenu une copie du nouveau bail ainsi qu'une copie de l'avis d'imposition ou de non-imposition du locataire entrant dans les lieux établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location.
