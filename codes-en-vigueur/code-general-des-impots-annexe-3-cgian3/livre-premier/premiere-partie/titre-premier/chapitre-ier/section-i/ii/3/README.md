@@ -9,6 +9,7 @@
 - [Article 2 quaterdecies B](article-2-quaterdecies-b.md)
 - [Article 2 quindecies](article-2-quindecies.md)
 - [Article 2 quindecies C](article-2-quindecies-c.md)
+- [Article 2 quindecies D](article-2-quindecies-d.md)
 - [Article 2 quindecies A](article-2-quindecies-a.md)
 - [Article 2 quindecies B](article-2-quindecies-b.md)
 - [Article 2 sexdecies](article-2-sexdecies.md)
