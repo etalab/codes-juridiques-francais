@@ -5,3 +5,5 @@ Les candidats reçoivent, s'ils ont obtenu pour l'ensemble des épreuves une not
 Les candidats qui ont échoué à l'examen peuvent conserver sur leur demande, dans la limite des cinq sessions suivant la première session à laquelle ils se sont présentés, le bénéfice des notes égales ou supérieures à 10 obtenues aux épreuves du premier groupe. Ils ne subissent alors que les autres épreuves. A chaque session, le calcul de la moyenne pour l'admission s'effectue sur la base des notes conservées et des notes obtenues aux épreuves nouvellement subies.
 
 Le renoncement à ce bénéfice est définitif et seules les notes obtenues ultérieurement sont prises en compte pour l'attribution du diplôme.
+
+Les dispositions de l'article D. 336-14 s'appliquent au baccalauréat technologique série " hôtellerie ".

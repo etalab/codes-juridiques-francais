@@ -9,3 +9,5 @@ Ces dispositions sont applicables aux candidats qui n'ont pu subir la totalité 
 Entrent en ligne de compte, pour la détermination de la note moyenne des candidats, outre les notes qu'ils ont obtenues aux épreuves obligatoires, les notes éventuellement obtenues lors de la session normale à l'épreuve d'éducation physique et aux épreuves facultatives. La session de remplacement ne comporte pas d'épreuves d'éducation physique ni d'épreuves facultatives.
 
 Les mesures prévues ci-dessus s'appliquent aux épreuves anticipées. Les candidats ayant subi une partie des épreuves anticipées subissent de nouveau toutes ces épreuves, la ou les notes obtenues à la session normale étant annulées.
+
+Les dispositions de l'article D. 336-14 s'appliquent au baccalauréat technologique série " techniques de la musique et de la danse ".

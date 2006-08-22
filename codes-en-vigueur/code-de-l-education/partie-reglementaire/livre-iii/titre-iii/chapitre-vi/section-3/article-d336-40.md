@@ -25,3 +25,5 @@ A l'issue des épreuves du premier groupe, les candidats admis à subir les épr
 Les notes obtenues à ces épreuves de contrôle se substituent aux notes des épreuves correspondantes du premier groupe si elles leur sont supérieures.
 
 A l'issue des épreuves du second groupe, sont déclarés admis les candidats dont la note moyenne pour l'ensemble des deux groupes d'épreuves est au moins égale à 10 sur 20.
+
+Pour les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles et qui sont autorisés à étaler sur plusieurs sessions le passage de la totalité des épreuves de l'examen, le jury délibère pour les seules épreuves effectivement présentées. La mention "sans décision finale" est portée sur le relevé des notes du candidat.

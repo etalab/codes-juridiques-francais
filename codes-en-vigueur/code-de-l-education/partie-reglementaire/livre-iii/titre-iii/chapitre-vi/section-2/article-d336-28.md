@@ -15,3 +15,5 @@ A l'issue des épreuves du second groupe, sont déclarés admis les candidats ay
 En ce qui concerne l'épreuve d'éducation physique et sportive, la note résulte, pour les élèves des classes terminales des lycées d'enseignement public et des lycées d'enseignement privé sous contrat, du contrôle en cours de formation prévu par l'article L. 331-1. Pour les autres candidats, la note résulte d'un examen terminal.
 
 En ce qui concerne l'épreuve facultative, ne sont retenus que les points excédant 10. Ces points entrent en ligne de compte pour l'admission à l'issue du premier ou du deuxième groupe d'épreuves ou pour l'attribution d'une mention à l'issue du premier groupe d'épreuves.
+
+Pour les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles et qui sont autorisés à étaler sur plusieurs sessions le passage de la totalité des épreuves de l'examen, le jury délibère pour les seules épreuves effectivement présentées. La mention "sans décision finale" est portée sur le relevé des notes du candidat.

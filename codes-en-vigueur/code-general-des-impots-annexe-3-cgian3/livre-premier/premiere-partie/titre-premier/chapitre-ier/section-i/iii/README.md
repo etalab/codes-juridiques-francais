@@ -2,6 +2,7 @@
 
 - [L : Déclarations et documents](l)
 - [C : Provisions pour hausse des prix](c)
+- [C bis : Provisions pour dépréciation des titres de participation et des immeubles de placement](c-bis)
 - [D : Provisions pour reconstitution des gisements](d)
 - [D bis : Provisions pour prêts d'installation consentis par les entreprises à leurs salariés](d-bis)
 - [M : Renseignements à fournir par les entreprises à l'appui de la déclaration prévue à l'article 53 A du code général des impôts](m)
