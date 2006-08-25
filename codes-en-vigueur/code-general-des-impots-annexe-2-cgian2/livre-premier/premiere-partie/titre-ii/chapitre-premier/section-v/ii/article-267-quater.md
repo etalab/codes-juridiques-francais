@@ -8,6 +8,6 @@ b. Tenir une comptabilité matières retraçant au jour le jour les mouvements d
 
 c. Indiquer sur les factures de vente la dénomination précise de l'animal, comportant notamment son numéro d'identification ou sa marque;
 
-d. Faire accompagner tout transport d'animaux effectué pour leur compte ou pour le compte d'autrui d'un document dont le modèle est fixé par l'administration.
+d. (Abrogé).
 
 II. Lorsque les personnes visées au I vendent des animaux à des personnes non assujetties à la taxe sur la valeur ajoutée au titre d'activités portant sur lesdits animaux, la facture doit expressément porter mention de cette qualité des acheteurs.
