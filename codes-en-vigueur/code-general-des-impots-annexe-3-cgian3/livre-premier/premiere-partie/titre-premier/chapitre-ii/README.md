@@ -19,6 +19,7 @@
 - [Section V decies : Crédit d'impôt pour dépenses de prospection commerciale](section-v-decies)
 - [Section V undecies : Crédit d'impôt pour dépenses d'équipement en nouvelles technologies](section-v-undecies)
 - [Section V duodecies : Crédit d'impôt en faveur de l'agriculture biologique](section-v-duodecies)
+- [Section V terdecies : Crédit d'impôt pour formation des dirigeants](section-v-terdecies)
 - [Section V quaterdecies : Crédit d'impôt en faveur de l'emploi de réservistes](section-v-quaterdecies)
 - [Section VI : Indemnités de congé payé](section-vi)
 - [Section VII : Opérations de crédit-bail](section-vii)
