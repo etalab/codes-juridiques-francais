@@ -1,3 +1,4 @@
 # TITRE Ier : DÉCLARATION DE MOUVEMENTS DE MAIN-D'OEUVRE TRAVAIL CLANDESTIN
 
 - [CHAPITRE Ier : Obligations des employeurs.](chapitre-ier)
+- [CHAPITRE III : RÉPRESSION DU TRAVAIL ILLÉGAL.](chapitre-iii)
