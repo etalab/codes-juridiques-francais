@@ -1,6 +1,6 @@
 # Article R227-22
 
-Peuvent être autorisés à exercer en France les fonctions d'animation ou de direction d'un centre de vacances ou d'un centre de loisirs les ressortissants d'un autre Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui, sans être titulaires d'un diplôme figurant sur les listes mentionnées aux articles R. 227-12 et R. 227-14, possèdent :
+Peuvent être autorisés à exercer en France les fonctions d'animation ou de direction d'un séjour de vacances ou d'un accueil de loisirs les ressortissants d'un autre Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui, sans être titulaires d'un diplôme figurant sur les listes mentionnées aux articles R. 227-12 et R. 227-14, possèdent :
 
 1° Un titre acquis dans un Etat mentionné à l'alinéa précédent réglementant l'exercice de la fonction concernée ;
 
@@ -12,6 +12,6 @@ Peuvent être autorisés à exercer en France les fonctions d'animation ou de di
 
 Dans tous les cas, lorsque la formation de l'intéressé porte sur des programmes substantiellement différents de ceux du diplôme exigé par la législation nationale ou lorsque le titre dont il justifie ne prépare pas à l'intégralité des fonctions auxquelles donne accès la possession du diplôme national, l'autorité compétente peut exiger que le demandeur choisisse soit de se soumettre à une épreuve d'aptitude, soit d'accomplir un stage d'adaptation dont la durée ne peut excéder deux ans et qui fait l'objet d'une évaluation.
 
-La décision est notifiée par le directeur régional de la jeunesse, des sports et des loisirs du lieu de domicile du demandeur, après avis du Conseil national de l'éducation populaire et de la jeunesse, dans un délai de quatre mois à compter du dépôt de la demande dans ses services.
+La décision est notifiée par le directeur régional de la jeunesse, des sports et de la vie associative du lieu de domicile du demandeur, après avis du Conseil national de l'éducation populaire et de la jeunesse, dans un délai de quatre mois à compter du dépôt de la demande dans ses services.
 
 Un arrêté du ministre chargé de la jeunesse précise la composition du dossier de demande d'équivalence et détermine les modalités du dépôt de la demande.
