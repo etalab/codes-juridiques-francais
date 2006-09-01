@@ -4,6 +4,5 @@
 - [Code de l'industrie cinématographique](code-de-l-industrie-cinematographique)
 - [Code de la consommation](code-de-la-consommation)
 - [Code de procédure civile (1807)](code-de-procedure-civile-1807)
-- [Code des marchés publics.](code-des-marches-publics)
 - [Code forestier](code-forestier)
 - [Code général des collectivités territoriales](code-general-des-collectivites-territoriales)
