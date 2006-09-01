@@ -1,6 +1,8 @@
 # Article R227-25
 
-La personne qui dirige le séjour dans un centre de vacances ou dans un centre de loisirs sans hébergement met en oeuvre le projet éducatif et en précise les conditions de réalisation dans un document, élaboré en concertation avec les personnes qui animent le séjour.
+La personne qui assure la direction d'un des accueils mention nés à l'article R. 227-1 met en oeuvre le projet éducatif sauf lorsqu'il s'agit de séjours définis au 4° du I du même article, dans les conditions qu'il définit dans un document, élaboré en concertation avec les personnes qui assurent l'animation de cet accueil.
+
+La personne physique ou morale organisant l'accueil est tenue de s'assurer de la mise en oeuvre des dispositions mentionnées à l'alinéa précédent.
 
 Ce document prend en considération l'âge des mineurs accueillis.
 

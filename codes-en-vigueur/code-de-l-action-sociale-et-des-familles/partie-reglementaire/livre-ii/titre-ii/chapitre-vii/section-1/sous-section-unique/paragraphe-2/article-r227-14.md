@@ -1,13 +1,13 @@
 # Article R227-14
 
-Les fonctions de direction des centres de vacances et des centres de loisirs peuvent être exercées :
+I. - Les fonctions de direction des séjours de vacances et des accueils de loisirs sont exercées :
 
 1° Par les personnes titulaires du brevet d'aptitude aux fonctions de directeur ou d'un diplôme, titre ou certificat de qualification figurant sur une liste arrêtée par le ministre chargé de la jeunesse après avis du Conseil national de l'éducation populaire et de la jeunesse ;
 
-2° Les personnes qui, dans le cadre de la préparation du brevet d'aptitude aux fonctions de directeur ou de l'un des diplômes ou titres figurant sur la liste mentionnée au 1° , effectuent un stage ou une période de formation en milieu professionnel dans un centre de vacances ou un centre de loisirs.
+2° Par les agents de la fonction publique dans le cadre de leurs missions et relevant des corps ou des cadres d'emploi dont la liste est fixée par arrêté conjoint du ministre chargé de la jeunesse et des ministres dont ils relèvent ;
 
-Dans les centres de loisirs accueillant pendant plus de quatre-vingts jours un effectif supérieur à quatre-vingts mineurs, peuvent seules exercer les fonctions de direction :
+3° Par les personnes qui, dans le cadre de la préparation du brevet d'aptitude aux fonctions de directeur ou de l'un des diplômes ou titres figurant sur la liste mentionnée au 1° du I, effectuent un stage pratique ou une période de formation.
 
-- les personnes titulaires d'un diplôme, titre ou certificat de qualification figurant à la fois sur la liste mentionnée au 1° du présent article et au répertoire national des certifications professionnelles prévu à l'article L. 335-6 du code de l'éducation ;
+II. - Toutefois, à titre exceptionnel, pour satisfaire un besoin auquel il ne peut être répondu par ailleurs et durant une période limitée, le représentant de l'Etat dans le département du domicile de l'organisateur peut aménager les conditions d'exercice de ces fonctions, selon des dispositions fixées par arrêté du ministre chargé de la jeunesse et tenant compte de la durée de l'accueil, du nombre et de l'âge des mineurs.
 
-- les personnes titulaires du brevet d'aptitude aux fonctions de directeur qui justifient, à la date du 19 février 2004, avoir exercé ces fonctions dans un ou plusieurs centres de vacances ou centres de loisirs pendant une période cumulée correspondant à vingt-quatre mois au moins à compter du 1er janvier 1997.
+III. - Dans les accueils de loisirs organisés pour un nombre de mineurs et une durée supérieure à des seuils fixés par arrêté du ministre chargé de la jeunesse, les fonctions de direction sont réservées aux personnes répondant aux exigences de qualification professionnelle dont la liste est fixée par l'arrêté mentionné au 1° du I..
