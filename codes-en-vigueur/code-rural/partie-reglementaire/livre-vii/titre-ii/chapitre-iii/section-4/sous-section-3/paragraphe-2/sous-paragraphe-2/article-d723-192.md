@@ -4,7 +4,7 @@ L'agent comptable est tenu d'inscrire une recette dans sa comptabilité dès que
 
 Le débiteur de la caisse est libéré, s'il est établi qu'il s'est acquitté de sa dette :
 
-1° Soit par remise d'espèces, de chèque, d'effet bancaire ou postal à vue dûment provisionné d'un montant égal à celui de la dette ;
+1° Soit par remise d'espèces, de chèque, d'effet bancaire à vue dûment provisionné d'un montant égal à celui de la dette ;
 
 2° Soit par inscription d'une somme équivalente au crédit d'un des comptes courants de la caisse.
 
