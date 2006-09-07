@@ -2,7 +2,7 @@
 
 Le mandataire prévu par le premier alinéa de l'article L. 52-4 délivre à chaque donateur, quel que soit le montant du don consenti, un reçu détaché d'une formule numérotée, éditée par la Commission nationale des comptes de campagne et des financements politiques. Le reçu est produit à l'appui de toute déclaration qui ouvre droit à une réduction de l'impôt sur le revenu, au titre du 2 bis de l'article 200 du code général des impôts.
 
-Les souches des reçus utilisés sont jointes aux comptes de campagne soumis au contrôle de la commission nationale ; elles sont accompagnées d'un relevé du compte bancaire ou postal unique ouvert par le mandataire, attestant la réalité de l'encaissement des fonds correspondants ; les reçus non utilisés sont retournés à la commission, avec les souches correspondantes.
+Les souches des reçus utilisés sont jointes aux comptes de campagne soumis au contrôle de la commission nationale ; elles sont accompagnées d'un relevé du compte bancaire unique ouvert par le mandataire, attestant la réalité de l'encaissement des fonds correspondants ; les reçus non utilisés sont retournés à la commission, avec les souches correspondantes.
 
 La souche et le reçu mentionnent le montant et la date du versement ainsi que l'identité et l'adresse du domicile fiscal du donateur. Le reçu est signé par le donateur.
 
