@@ -4,7 +4,7 @@ Les fonds et valeurs dont l'agent comptable assure la garde doivent être conser
 
 1° Le numéraire ;
 
-2° Les chèques bancaires ou postaux et les valeurs bancaires ou postales à encaisser ;
+2° Les chèques bancaires et les valeurs bancaires à encaisser ;
 
 3° Les titres nominatifs, au porteur ou à ordre, et les valeurs diverses acquises par la caisse dans le cadre de la réglementation en vigueur.
 
