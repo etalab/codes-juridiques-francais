@@ -6,3 +6,4 @@
 - [Sous-paragraphe 4 : Stagiaires.](sous-paragraphe-4)
 - [Sous-paragraphe 5 : Métayers.](sous-paragraphe-5)
 - [Sous-paragraphe 6 : Gemmeurs privés.](sous-paragraphe-6)
+- [Sous-paragraphe 7 : Dispositions particulières.](sous-paragraphe-7)
