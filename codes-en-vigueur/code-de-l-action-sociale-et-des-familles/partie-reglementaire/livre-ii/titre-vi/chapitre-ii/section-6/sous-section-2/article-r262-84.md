@@ -8,4 +8,4 @@ Font partie de l'échantillon national interrégimes d'allocataires de minima so
 
 3° Être âgées de plus de seize ans et de moins de soixante-cinq ans ;
 
-4° Être bénéficiaires ou avoir été bénéficiaires, à titre personnel ou à titre familial, soit du revenu minimum d'insertion, soit de l'allocation d'adulte handicapé, soit de l'allocation de solidarité spécifique, soit de l'allocation de parent isolé.
+4° Être bénéficiaires ou avoir été bénéficiaires, à titre personnel ou à titre familial, soit du revenu minimum d'insertion, soit de la prime forfaitaire, soit de l'allocation d'adulte handicapé, soit de l'allocation de solidarité spécifique, soit de l'allocation de parent isolé.
