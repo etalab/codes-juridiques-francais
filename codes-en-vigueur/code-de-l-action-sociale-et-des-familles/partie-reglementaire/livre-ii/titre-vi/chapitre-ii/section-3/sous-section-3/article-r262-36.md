@@ -1,6 +1,6 @@
 # Article R262-36
 
-Les organismes payeurs de l'allocation sont les caisses d'allocations familiales et les caisses de mutualité sociale agricole.
+Les organismes payeurs de l'allocation et de la prime forfaitaire sont les caisses d'allocations familiales et les caisses de mutualité sociale agricole.
 
 Ces dernières sont compétentes :
 

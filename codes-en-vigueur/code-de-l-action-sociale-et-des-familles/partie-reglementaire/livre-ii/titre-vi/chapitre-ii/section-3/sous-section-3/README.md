@@ -1,4 +1,4 @@
-# Sous-section 3 : Liquidation, versement et révision de l'allocation.
+# Sous-section 3 : Liquidation, versement et révision.
 
 - [Article D262-40](article-d262-40.md)
 - [Article R262-36](article-r262-36.md)
