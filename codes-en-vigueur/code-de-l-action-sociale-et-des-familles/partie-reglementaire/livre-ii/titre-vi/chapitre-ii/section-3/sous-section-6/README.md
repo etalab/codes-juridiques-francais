@@ -1,4 +1,4 @@
-# Sous-section 6 : Réception et reversement de l'allocation par des organismes agréés.
+# Sous-section 6 : Réception et reversement par des organismes agréés.
 
 - [Article R262-50](article-r262-50.md)
 - [Article R262-51](article-r262-51.md)

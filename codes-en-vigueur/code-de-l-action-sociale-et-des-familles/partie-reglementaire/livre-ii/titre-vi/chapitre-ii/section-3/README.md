@@ -5,5 +5,5 @@
 - [Sous-section 3 : Liquidation, versement et révision.](sous-section-3)
 - [Sous-section 4 : Suspension ou réduction.](sous-section-4)
 - [Sous-section 5 : Contrôle.](sous-section-5)
-- [Sous-section 6 : Réception et reversement de l'allocation par des organismes agréés.](sous-section-6)
+- [Sous-section 6 : Réception et reversement par des organismes agréés.](sous-section-6)
 - [Sous-section 7 : Conventions conclues entre le département et les organismes payeurs](sous-section-7)
