@@ -1,18 +1,5 @@
-# Sous-section 2 : Dispositions applicables aux demandes d'autorisation de pisciculture
+# Sous-section 2 : Dispositions applicables aux déclarations des droits, concessions ou autorisations portant sur des plans d'eau existant au 30 juin 1984
 
-- [Article R431-11](article-r431-11.md)
-- [Article R431-12](article-r431-12.md)
-- [Article R431-13](article-r431-13.md)
-- [Article R431-14](article-r431-14.md)
-- [Article R431-15](article-r431-15.md)
-- [Article R431-16](article-r431-16.md)
-- [Article R431-17](article-r431-17.md)
-- [Article R431-18](article-r431-18.md)
-- [Article R431-19](article-r431-19.md)
-- [Article R431-20](article-r431-20.md)
-- [Article R431-21](article-r431-21.md)
-- [Article R431-22](article-r431-22.md)
-- [Article R431-23](article-r431-23.md)
-- [Article R431-24](article-r431-24.md)
-- [Article R431-25](article-r431-25.md)
-- [Article R431-26](article-r431-26.md)
+- [Article R431-35](article-r431-35.md)
+- [Article R431-36](article-r431-36.md)
+- [Article R431-37](article-r431-37.md)

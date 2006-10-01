@@ -2,7 +2,7 @@
 
 Pour les travaux et projets d'aménagements définis au présent article, la dispense, prévue aux articles R. 122-5 à R. 122-8, de la procédure d'étude d'impact est subordonnée à l'élaboration d'une notice indiquant les incidences éventuelles de ceux-ci sur l'environnement et les conditions dans lesquelles l'opération projetée satisfait aux préoccupations d'environnement :
 
-1° Travaux ou aménagements d'un coût total inférieur à 1 900 000 euros réalisés sur le domaine public fluvial ou maritime sous le régime de la concession prévu à l'article L. 64 du code du domaine de l'Etat, ainsi que les travaux de création ou d'extension d'un port de plaisance ;
+1° Travaux ou aménagements d'un coût total inférieur à 1 900 000 euros réalisés sur le domaine public fluvial ou maritime sous le régime de la concession prévu aux articles L. 3211-10 et L. 3211-15 du code général de la propriété des personnes publiques, ainsi que les travaux de création ou d'extension d'un port de plaisance ;
 
 2° Travaux d'installations de remontées mécaniques et travaux d'aménagement de pistes pour la pratique de sports d'hiver, lorsque leur coût total est inférieur à 950 000 euros ;
 
@@ -20,7 +20,7 @@ Pour les travaux et projets d'aménagements définis au présent article, la dis
 
 9° Ouvrages destinés à l'épuration des eaux des collectivités locales, d'une capacité de traitement inférieure à celle des ouvrages visés au 14° du II de l'article R. 122-8 ;
 
-10° Piscicultures soumises à autorisation ou concession en vertu de l'article L. 431-6 et mentionnées au deuxième alinéa de l'article R. 431-16 ;
+10° Travaux concernant les réservoirs de stockage d'eau " sur tour " d'une capacité inférieure à 1 000 m3 et les autres réservoirs de stockage d'eau d'une superficie égale ou supérieure à 2 ha et inférieure à 10 ha ;
 
 11° Travaux d'hydraulique agricole dont le coût total est compris entre 950 000 et 1 900 000 euros ;
 
