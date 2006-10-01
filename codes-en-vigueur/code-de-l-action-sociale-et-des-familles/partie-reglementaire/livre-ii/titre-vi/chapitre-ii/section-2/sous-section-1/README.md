@@ -1,4 +1,4 @@
-# Sous-section 1 : Détermination des ressources.
+# Sous-section 1 : Détermination des ressources
 
 - [Article R262-3](article-r262-3.md)
 - [Article R262-4](article-r262-4.md)

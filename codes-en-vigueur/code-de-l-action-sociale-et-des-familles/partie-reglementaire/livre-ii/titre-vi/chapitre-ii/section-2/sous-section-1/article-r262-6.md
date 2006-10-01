@@ -38,4 +38,12 @@ Ne sont pas prises en compte dans les ressources les prestations suivantes :
 
 18° l'allocation de reconnaissance instituée par l'article 47 de la loi de finances rectificative pour 1999 (n° 99-1173 du 30 décembre 1999) modifiée ;
 
-19° La prime de retour à l'emploi.
+19° La prime instituée par le décret n° 2005-1054 du 29 août 2005 créant une prime exceptionnelle de retour à l'emploi en faveur de certains bénéficiaires de minima sociaux ;
+
+20° La prime de retour à l'emploi instituée par l'article L. 322-12 du code du travail ;
+
+21° Les primes forfaitaires instituées par les articles L. 351-20 du code du travail, L. 262-11 du présent code et L. 524-5 du code de la sécurité sociale. ;
+
+22° Les mesures de réparation mentionnées à l'article 2 du décret n° 2000-657 du 13 juillet 2000 instituant une mesure de réparation pour les orphelins dont les parents ont été victimes de persécutions antisémites ;
+
+23° Les mesures de réparation mentionnées à l'article 2 du décret n° 2004-751 du 27 juillet 2004 instituant une aide financière en reconnaissance des souffrances endurées par les orphelins dont les parents ont été victimes d'actes de barbarie durant la Deuxième Guerre mondiale.
