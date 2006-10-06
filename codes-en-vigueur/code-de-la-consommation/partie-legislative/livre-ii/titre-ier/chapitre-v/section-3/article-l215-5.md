@@ -4,7 +4,7 @@ Sur la voie publique et dans les lieux mentionnés au premier alinéa de l'artic
 
 1° Les produits reconnus falsifiés, corrompus ou toxiques ;
 
-2° Les produits reconnus impropres à la consommation, à l'exception des denrées visées aux articles L. 231-1, L. 231-2 et L. 231-5 du code rural dont l'impropriété à la consommation ne peut être reconnue qu'en fonction de caractères organoleptiques anormaux ou de signes de pathologie lésionnelle ;
+2° Les produits reconnus impropres à la consommation, à l'exception des produits d'origine animale, des denrées alimentaires en contenant ainsi que des aliments pour animaux d'origine animale ou contenant des produits d'origine animale dont l'impropriété à la consommation ne peut être reconnue qu'en fonction de caractères organoleptiques anormaux ou de signes de pathologie lésionnelle ;
 
 3° Les produits, objets ou appareils propres à effectuer des falsifications dans les cas prévus aux articles L. 213-3 et L. 213-4 ;
 
