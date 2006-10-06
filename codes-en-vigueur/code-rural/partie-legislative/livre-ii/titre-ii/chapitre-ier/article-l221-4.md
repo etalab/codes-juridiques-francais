@@ -4,7 +4,11 @@ I. - Lorsque, en tout lieu où sont hébergés les animaux ou au cours d'un tran
 
 II. - Lorsqu'un animal est présenté à l'abattoir sans être identifié conformément aux dispositions prises en application des articles L. 653-1 à L. 653-17 ou d'un règlement communautaire, ou sans être accompagné des documents qu'ils prévoient, les agents habilités en vertu de l'article L. 231-2 diffèrent l'abattage en accordant un délai de quarante-huit heures à son propriétaire ou son détenteur pour produire les informations manquantes.
 
-A l'issue de ce délai, l'animal est abattu et, en l'absence d'information permettant d'établir son âge et son origine, les vétérinaires inspecteurs habilités en vertu de l'article L. 231-2 procèdent à la saisie et au retrait de la consommation humaine ou animale des viandes qui en sont issues.
+A l'issue de ce délai, l'animal est abattu.
+
+En l'absence d'éléments d'identification permettant d'établir l'âge et l'origine de l'animal, les agents ayant la qualité de vétérinaires officiels en vertu de l'article L. 231-2 procèdent à la saisie et au retrait de la consommation humaine ou animale des viandes qui sont issues de son abattage.
+
+Ces mesures s'appliquent également si le document d'identification d'un équidé le déclare comme n'étant pas destiné à l'abattage pour la consommation humaine ou si, lorsque l'animal est destiné à la consommation humaine, ce document ne comporte pas les éléments requis par la réglementation sur les traitements médicamenteux.
 
 Préalablement à l'exécution de la saisie, le propriétaire ou le détenteur de l'animal est mis en mesure de présenter ses observations ; il dispose alors d'un nouveau délai de quarante-huit heures pour produire les informations nécessaires.
 

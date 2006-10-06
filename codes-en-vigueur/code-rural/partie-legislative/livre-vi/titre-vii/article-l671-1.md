@@ -8,9 +8,9 @@ Outre les officiers et agents de police judiciaire énumérés aux articles 16 e
 
 3° Les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes ;
 
-4° Les vétérinaires inspecteurs, les techniciens des services vétérinaires, les proposés sanitaires, les agents techniques sanitaires ;
+4° Les agents mentionnés aux 1° à 7° du I de l'article L. 231-2 ;
 
-5° Les médecins inspecteurs départementaux de la santé ;
+4° Les vétérinaires inspecteurs, les techniciens des services    5° Les médecins inspecteurs départementaux de la santé ;
 
 6° Les agents chargés de la métrologie légale ;
 
