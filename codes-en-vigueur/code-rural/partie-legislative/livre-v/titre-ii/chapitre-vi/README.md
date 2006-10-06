@@ -2,5 +2,3 @@
 
 - [Section 1 : Dissolution - Liquidation](section-1)
 - [Section 2 : Fusion - Scission - Apport partiel d'actifs](section-2)
-- [Article L526-1](article-l526-1.md)
-- [Article L526-2](article-l526-2.md)
