@@ -56,4 +56,6 @@ d) La construction d'équipements culturels, sportifs ou de loisirs susceptibles
 
 22° Travaux et ouvrages de défense contre la mer d'une emprise totale supérieure à 2 000 mètres carrés ;
 
-23° Projets d'affectation de terres incultes ou d'étendues semi-naturelles à l'exploitation agricole intensive portant sur une superficie d'au moins 50 hectares.
+23° Projets d'affectation de terres incultes ou d'étendues semi-naturelles à l'exploitation agricole intensive portant sur une superficie d'au moins 50 hectares ;
+
+24° Travaux, ouvrages et aménagements réalisés en vue de l'exploitation d'eau destinée à la consommation humaine dans une forêt de protection mentionnés à l'article R. 412-19 du code forestier, à l'exclusion des travaux de recherche.
