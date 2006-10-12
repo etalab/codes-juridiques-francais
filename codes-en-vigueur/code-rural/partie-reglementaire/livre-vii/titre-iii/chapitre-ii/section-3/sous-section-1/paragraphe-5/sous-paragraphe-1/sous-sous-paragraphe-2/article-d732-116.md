@@ -28,6 +28,6 @@ n représente le nombre annuel moyen de points sur la période DCE 2 ;
 
 DCE 2 représente la durée d'activité de chef d'exploitation retenue selon les modalités énoncées au 2° de l'article D. 732-115, dans la limite de trente-sept années et demie.
 
-Le nombre annuel moyen de points n est obtenu en divisant le nombre de points retenu en application du 2° du présent article par la durée reconstituée de chef d'exploitation ou d'entreprise agricole.
+Le nombre annuel moyen de points n est obtenu en divisant le nombre de points retenu en application du 2° de l'article D. 732-115 par la durée reconstituée de chef d'exploitation ou d'entreprise agricole.
 
 Toutefois, dans le cas prévu au dernier alinéa de l'article D. 732-115, le nombre annuel moyen de points n est égal au nombre de points divisé par la durée d'activité non salariée agricole retenue dans la limite de trente-sept années et demie.
