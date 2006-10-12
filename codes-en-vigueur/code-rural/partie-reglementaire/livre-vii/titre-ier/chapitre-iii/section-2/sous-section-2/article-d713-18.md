@@ -6,4 +6,4 @@ L'employeur est tenu d'en aviser le chef du service départemental de l'inspecti
 
 Toutefois, lorsque les conditions de fonctionnement de l'établissement présentent des particularités de nature à justifier une dérogation à la durée maximale de deux mois prévue au premier alinéa, l'employeur peut en adresser la demande au chef du service départemental de l'inspection du travail, de l'emploi et de la politique sociale agricoles.
 
-Cette demande doit être motivée et accompagnée de l'avis du comité d'entreprise ou, à défaut, de celui des délégués du personnel. Le silence gardé par l'inspecteur du travail pendant plus de quinze jours sur la demande vaut autorisation. Ce délai ne peut être modifié que par décret en Conseil d'Etat. Il n'est applicable qu'aux demandes formulées à compter du 23 février 2004.
+Cette demande doit être motivée et accompagnée de l'avis du comité d'entreprise ou, à défaut, de celui des délégués du personnel.
