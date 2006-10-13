@@ -1,10 +1,17 @@
 # Chapitre V : Propagande
 
 - [Article R*154](article-r-154.md)
+- [Article R154](article-r154.md)
 - [Article R*155](article-r-155.md)
+- [Article R155](article-r155.md)
 - [Article R*156](article-r-156.md)
+- [Article R156](article-r156.md)
 - [Article R*157](article-r-157.md)
+- [Article R157](article-r157.md)
 - [Article R*158](article-r-158.md)
+- [Article R158](article-r158.md)
 - [Article R*159](article-r-159.md)
 - [Article R*160](article-r-160.md)
+- [Article R160](article-r160.md)
 - [Article R*161](article-r-161.md)
+- [Article R161](article-r161.md)

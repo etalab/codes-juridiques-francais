@@ -34,8 +34,8 @@ Pour l'application du présent code à Mayotte, il y a lieu de lire :
 
 "départemental" ou : "départementaux" ;
 
-12° "Service des postes", au lieu de : "administration des postes et télécommunications" ;
+12° abrogé
 
-13° "Chef du service des postes", au lieu de : "directeur départemental des postes et télécommunications" ;
+13° abrogé
 
 14° "Chef du service de la coordination et de l'action économique", au lieu de : "directeur départemental des enquêtes économiques".
