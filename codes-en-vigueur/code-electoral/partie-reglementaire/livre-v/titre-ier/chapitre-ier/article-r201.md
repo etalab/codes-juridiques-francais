@@ -42,6 +42,6 @@ Pour l'application des dispositions du présent code en Nouvelle-Calédonie, il 
 
 16° "Directeur du commerce et des prix", au lieu de : "directeur départemental des enquêtes économiques" ;
 
-17° "Budget de l'office des postes et télécommunications", au lieu de : "budget annexe des postes et télécommunications" ;
+17° (Abrogé) ;
 
 18° "Archives de la Nouvelle-Calédonie" ou "archives de la province", au lieu de : "archives départementales".

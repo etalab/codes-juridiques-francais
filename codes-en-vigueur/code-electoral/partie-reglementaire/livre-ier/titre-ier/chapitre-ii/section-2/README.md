@@ -29,6 +29,7 @@
 - [Article R15-5](article-r15-5.md)
 - [Article R15-6](article-r15-6.md)
 - [Article R*16](article-r-16.md)
+- [Article R16](article-r16.md)
 - [Article R*17](article-r-17.md)
 - [Article R17](article-r17.md)
 - [Article R*17-1](article-r-17-1.md)

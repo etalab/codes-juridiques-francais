@@ -30,6 +30,6 @@ Pour l'application des dispositions du présent code en Polynésie française, i
 
 13° "Chef du service des affaires économiques", au lieu de : "directeur départemental des enquêtes européennes" ;
 
-14° "Budget de l'office des postes et télécommunications de la Polynésie française", au lieu de : "budget annexe des postes et télécommunications" ;
+14° (Abrogé) ;
 
 15° "Archives de la Polynésie française", au lieu de : "archives départementales".

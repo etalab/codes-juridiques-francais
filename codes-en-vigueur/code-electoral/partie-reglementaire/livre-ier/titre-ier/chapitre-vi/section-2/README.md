@@ -27,6 +27,7 @@
 - [Article R65-1](article-r65-1.md)
 - [Article R66](article-r66.md)
 - [Article R66-1](article-r66-1.md)
+- [Article R66-2](article-r66-2.md)
 - [Article R67](article-r67.md)
 - [Article R68](article-r68.md)
 - [Article R69](article-r69.md)
