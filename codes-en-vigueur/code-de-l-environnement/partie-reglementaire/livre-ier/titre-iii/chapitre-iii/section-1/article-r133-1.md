@@ -6,6 +6,6 @@ Le Conseil national de la protection de la nature, placé auprès du ministre ch
 
 a) Préserver et restaurer la diversité de la flore et de la faune sauvages et des habitats naturels ;
 
-b) Assurer la protection des espaces naturels et le maintien des équilibres biologiques auxquels ils participent, notamment en matière de parcs nationaux, parcs naturels régionaux et réserves naturelles, et dans les sites d'importance communautaire ;
+b) Assurer la protection des espaces naturels et le maintien des équilibres biologiques auxquels ils participent, notamment en matière de parcs nationaux, parcs naturels régionaux, parcs naturels marins et réserves naturelles, et dans les sites d'importance communautaire ;
 
 2° D'étudier les mesures législatives et réglementaires et les travaux scientifiques afférents à ces objets.

@@ -15,3 +15,5 @@ Il représente le conservatoire en justice.
 Il peut déléguer sa signature.
 
 Il assiste aux séances du conseil d'administration dont il prépare les délibérations et dont il exécute les décisions.
+
+Il exerce les attributions conférées au conseil d'administration par le 14° du II de l'article R. 322-26, sur délégation du conseil d'administration et après consultation des conseils de rivages intéressés.

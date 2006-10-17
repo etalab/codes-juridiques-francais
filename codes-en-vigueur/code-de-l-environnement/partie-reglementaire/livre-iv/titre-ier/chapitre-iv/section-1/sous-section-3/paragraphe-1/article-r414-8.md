@@ -25,3 +25,5 @@ II. - Le comité de pilotage peut décider d'entendre toute personne ou tout org
 III. - Lorsque le site Natura 2000 est situé pour sa plus grande partie dans le périmètre du coeur d'un parc national, le conseil d'administration de l'établissement public du parc national établit un document de planification de la mise en oeuvre de la charte du parc national, dont le contenu est conforme aux dispositions de l'article R. 414-11 et qui a valeur de document d'objectifs pour le site.
 
 IV. - Lorsque des terrains relevant du ministère de la défense sont inclus à la fois dans le périmètre du site Natura 2000 et dans celui du coeur du parc national, les dispositions du document de planification prévu au III qui concernent ces terrains sont soumises à l'avis conforme du commandant de la région terre.
+
+V. - Lorsque la plus grande partie d'un site Natura 2000 est située dans le périmètre d'un parc naturel marin, le plan de gestion du parc naturel marin comprend les éléments énumérés à l'article R. 414-11, à l'exception des cahiers des charges prévus au 4°, et a valeur de document d'objectifs du site.
