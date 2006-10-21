@@ -1,5 +1,9 @@
 # Section 2 : Opérations de vote
 
+- [Article D56-1](article-d56-1.md)
+- [Article D56-2](article-d56-2.md)
+- [Article D56-3](article-d56-3.md)
+- [Article D61-1](article-d61-1.md)
 - [Article R42](article-r42.md)
 - [Article R43](article-r43.md)
 - [Article R44](article-r44.md)
