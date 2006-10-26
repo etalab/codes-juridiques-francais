@@ -6,9 +6,11 @@ Le comité national est présidé par le ministre. Il est composé de membres ti
 
 un sénateur désigné par le président du Sénat ;
 
-deux représentants des départements désignés par l'assemblée des départements de France ;
+trois représentants des départements désignés par l'assemblée des départements de France ;
 
 un représentant des communes désigné par l'association des maires de France ;
+
+Un membre du Conseil économique et social désigné par son président ;
 
 un membre de l'inspection générale des affaires sociales désigné par le ministre ;
 
