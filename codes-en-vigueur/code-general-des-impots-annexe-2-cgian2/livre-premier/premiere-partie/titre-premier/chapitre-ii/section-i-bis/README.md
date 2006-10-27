@@ -6,5 +6,7 @@
 - [Article 102 T](article-102-t.md)
 - [Article 102 U](article-102-u.md)
 - [Article 102 W](article-102-w.md)
+- [Article 102 XA](article-102-xa.md)
 - [Article 102 Y](article-102-y.md)
 - [Article 102 Z](article-102-z.md)
+- [Article 102 ZA](article-102-za.md)

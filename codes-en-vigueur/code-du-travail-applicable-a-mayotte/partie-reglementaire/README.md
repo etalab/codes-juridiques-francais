@@ -1,4 +1,4 @@
-# Partie réglementaire - Décrets en Conseil d'Etat
+# Partie réglementaire  - Décrets simples
 
 - [Livre 1er : Conventions relatives au travail](livre-1er)
 - [LIVRE Ier : Conventions relatives au travail](livre-ier)
@@ -6,6 +6,7 @@
 - [LIVRE II : Réglementation du travail](livre-ii)
 - [Livre 3 : Emploi](livre-3)
 - [LIVRE III : Emploi](livre-iii)
+- [Livre 4 : Les groupements professionnels - La représentation des salariés](livre-4)
 - [LIVRE IV : Les groupements professionnels - La représentation des salariés](livre-iv)
 - [Livre 5 : Conflits du travail](livre-5)
 - [LIVRE V : Conflits du travail](livre-v)

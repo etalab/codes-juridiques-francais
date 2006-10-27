@@ -9,4 +9,5 @@
 - [Section 7 : Travaux au voisinage de lignes, canalisations et installations électriques](section-7)
 - [Section 8 : Mesures générales d'hygiène et logement provisoire des salariés](section-8)
 - [Section 9 : Dispositions diverses.](section-9)
+- [Section 10 : Dispositions particulières relatives à la coordination pour certaines opérations de bâtiment ou de génie civil](section-10)
 - [Article R235-1](article-r235-1.md)

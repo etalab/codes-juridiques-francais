@@ -7,3 +7,4 @@
 - [Section 5 : Mesures particulières relatives à la manipulation du linge sale dans les ateliers de blanchissage.](section-5)
 - [Section 6 : Mesures particulières relatives à la protection des salariés intervenant en milieu hyperbare](section-6)
 - [Section 7 : Mesures particulières relatives aux marins, aux ports, aux navires et autres bâtiments de mer.](section-7)
+- [Section 8 : Comités d'hygiène, de sécurité et des conditions de travail](section-8)
