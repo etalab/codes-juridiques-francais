@@ -12,4 +12,4 @@ Les chefs d'établissement dont les salariés effectuent des travaux exposant à
 
 5° Lorsqu'un chantier fixe occupant plus de vingt salariés pendant plus de quinze jours est éloigné de tout poste de secours, un appareil de respiration artificielle doit se trouver en permanence sur le chantier ; toutefois, cette disposition ne fait pas obstacle à l'emploi de tout autre dispositif ou moyen d'une efficacité au moins équivalente.
 
-Lors de ces travaux, les travailleurs indépendants et les employeurs visés à l'article L. 230-1-1 sont également tenus de porter des plastrons de sauvetage.
+Lors de ces travaux, les travailleurs indépendants et les employeurs visés à l'article L. 231-2 sont également tenus de porter des plastrons de sauvetage.

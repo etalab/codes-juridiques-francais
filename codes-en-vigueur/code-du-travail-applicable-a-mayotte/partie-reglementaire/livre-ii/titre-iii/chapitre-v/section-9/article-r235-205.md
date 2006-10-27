@@ -4,4 +4,4 @@ Des appareils respiratoires capables d'empêcher l'inhalation des vapeurs ou pou
 
 Les appareils respiratoires visés à l'alinéa précédent doivent être maintenus en bon état de fonctionnement et désinfectés avant d'être attribués à un nouveau titulaire.
 
-Lors de ces travaux, les travailleurs indépendants et les employeurs visés à l'article L. 230-1-1 sont également tenus de porter des appareils respiratoires appropriés et en bon état de fonctionnement.
+Lors de ces travaux, les travailleurs indépendants et les employeurs visés à l'article L. 231-2 sont également tenus de porter des appareils respiratoires appropriés et en bon état de fonctionnement.

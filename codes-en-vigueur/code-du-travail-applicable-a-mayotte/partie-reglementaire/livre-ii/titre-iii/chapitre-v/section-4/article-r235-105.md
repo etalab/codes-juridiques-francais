@@ -8,4 +8,4 @@ Lorsque les travaux de démolition sont effectués à une hauteur qui ne dépass
 
 1° Les travaux ne peuvent être confiés qu'à des salariés qualifiés.
 
-2° Il est interdit aux chefs d'établissement de laisser monter des salariés, et aux travailleurs indépendants et aux employeurs mentionnés à l'article L. 230-1-1 de monter sur des murs à déraser de moins de 35 centimètres d'épaisseur.
+2° Il est interdit aux chefs d'établissement de laisser monter des salariés, et aux travailleurs indépendants et aux employeurs mentionnés à l'article L. 231-2 de monter sur des murs à déraser de moins de 35 centimètres d'épaisseur.
