@@ -21,6 +21,7 @@
 - [Section V duodecies : Crédit d'impôt en faveur de l'agriculture biologique](section-v-duodecies)
 - [Section V terdecies : Crédit d'impôt pour formation des dirigeants](section-v-terdecies)
 - [Section V quaterdecies : Crédit d'impôt en faveur de l'emploi de réservistes](section-v-quaterdecies)
+- [Section V quindecies : Crédit d'impôt en faveur des métiers d'art](section-v-quindecies)
 - [Section VI : Indemnités de congé payé](section-vi)
 - [Section VII : Opérations de crédit-bail](section-vii)
 - [Section 0I bis : Personnes morales passibles de l'impôt sur les sociétés, ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble](section-0i-bis)

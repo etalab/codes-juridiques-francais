@@ -13,3 +13,5 @@
 - [Article R*118-3-6](article-r-118-3-6.md)
 - [Article R118-3-6](article-r118-3-6.md)
 - [Article R118-3-7](article-r118-3-7.md)
+- [Article R118-3-8](article-r118-3-8.md)
+- [Article R118-3-9](article-r118-3-9.md)
