@@ -8,4 +8,4 @@ Ne figurent pas au nombre des dépenses réelles d'investissement ouvrant droit 
 
 3° Les travaux réalisés pour le compte de tiers ;
 
-4° Les dépenses concernant les biens concédés ou affermés dans les conditions prévues par l'article 216 ter de l'annexe II du code général des impôts.
+4° Les dépenses relatives à des biens concédés ou affermés auxquelles peuvent être appliquées les dispositions des articles 216 bis à 216 quater de l'annexe II au code général des impôts.

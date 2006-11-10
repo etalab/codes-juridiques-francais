@@ -6,4 +6,3 @@
 - [Article R1615-4](article-r1615-4.md)
 - [Article R1615-5](article-r1615-5.md)
 - [Article R1615-6](article-r1615-6.md)
-- [Article R1615-7](article-r1615-7.md)
