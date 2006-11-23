@@ -14,6 +14,5 @@
 - [Article 74-0 G bis](article-74-0-g-bis.md)
 - [Article 74-0 H](article-74-0-h.md)
 - [Article 74-0 J](article-74-0-j.md)
-- [Article 74-0 K](article-74-0-k.md)
 - [Article 74-0 N](article-74-0-n.md)
 - [Article 74-0 O](article-74-0-o.md)
