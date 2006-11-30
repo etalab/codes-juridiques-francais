@@ -10,5 +10,3 @@
 - [TITRE VIII : GARANTIES ACCORDEES AUX ELUS LOCAUX](titre-viii)
 - [TITRE IX : DISPOSITIONS DIVERSES](titre-ix)
 - [Article L1711-1](article-l1711-1.md)
-- [Article L1781-1](article-l1781-1.md)
-- [Article L1781-2](article-l1781-2.md)
