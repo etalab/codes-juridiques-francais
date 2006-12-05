@@ -6,4 +6,4 @@ Le ministre chargé de l'économie arrête les modalités d'application des obli
 
 Le contrôle de l'inspection générale des finances sur La Poste prévu à l'article L. 565-3 est exercé en liaison avec l'inspection générale des postes et télécommunications.
 
-Les changeurs manuels résidant dans les départements d'outre-mer adressent leur déclaration d'activité à l'Institut d'émission des départements d'outre-mer.
+Les changeurs manuels résidant dans les départements d'outre-mer adressent leur déclaration d'activité à l'Institut d'émission des départements d'outre-mer ; ceux qui résident en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna adressent leur déclaration d'activité à l'Institut d'émission d'outre-mer.
