@@ -12,6 +12,6 @@ Les recettes du budget du syndicat comprennent :
 
 5° Les produits des dons et legs ;
 
-6° Le produit des taxes, redevances et contributions correspondant aux services assurés ;
+6° Le produit des taxes, redevances et contributions correspondant aux services assurés ou aux investissements réalisés ;
 
 7° Le produit des emprunts.
