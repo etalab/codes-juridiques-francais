@@ -7,3 +7,4 @@
 - [Article L228-5](article-l228-5.md)
 - [Article L228-6](article-l228-6.md)
 - [Article L228-7](article-l228-7.md)
+- [Article L228-8](article-l228-8.md)

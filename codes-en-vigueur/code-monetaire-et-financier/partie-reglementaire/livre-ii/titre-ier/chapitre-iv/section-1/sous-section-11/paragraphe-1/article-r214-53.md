@@ -6,4 +6,4 @@ Ils peuvent investir en actions ou parts d'autres organismes de placement collec
 
 Les fonds communs de placement d'entreprise et les sociétés d'investissement à capital variable d'actionnariat salarié ne peuvent investir en actions ou parts de fonds d'investissement mentionnés au 5° de l'article R. 214-5.
 
-Par dérogation au III (1) de l'article R. 214-12, l'engagement d'un organisme de placement collectif en valeurs mobilières relevant de l'article L. 214-40 est constitué par la perte potentielle de celui-ci évaluée à tout moment.
+Par dérogation au III de l'article R. 214-12, l'engagement d'un organisme de placement collectif en valeurs mobilières relevant de l'article L. 214-40 est constitué par la perte potentielle de celui-ci évaluée à tout moment.

@@ -10,9 +10,7 @@ b) Une analyse des risques, réalisée par une unité indépendante des unités 
 
 c) L'exercice d'un contrôle interne indépendant des fonctions opérationnelles ;
 
-2° Le montant de l'engagement résultant des contrats précités conclus par un organisme de placement collectif en valeurs mobilières avec une entreprise liée à sa société de gestion au sens des articles R. 214-46, R. 214-68 ou R. 214-84 ne doit pas représenter plus de 20 % du montant de l'engagement résultant des contrats mentionnés au présent article ;
-
-3° Les émetteurs sur lesquels repose le risque de crédit peuvent être :
+2° Les émetteurs sur lesquels repose le risque de crédit peuvent être :
 
 a) Un ou plusieurs Etats ;
 
@@ -28,4 +26,4 @@ ii) Soit des titres de capital admis aux négociations sur un marché réglement
 
 e) Plusieurs entités relevant des catégories a à d ci-dessus ;
 
-4° Le dénouement des engagements créés par ces contrats ne peut donner lieu qu'à la livraison ou au transfert d'actifs éligibles à l'actif d'un organisme de placement collectif en valeurs mobilières.
+3° Le dénouement des engagements créés par ces contrats ne peut donner lieu qu'à la livraison ou au transfert d'actifs éligibles à l'actif d'un organisme de placement collectif en valeurs mobilières.
