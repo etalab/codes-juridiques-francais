@@ -11,3 +11,4 @@
 - [Article 95 S](article-95-s.md)
 - [Article 95 T](article-95-t.md)
 - [Article 95 U](article-95-u.md)
+- [Article 95 W](article-95-w.md)
