@@ -1,6 +1,6 @@
 # Article D641-96
 
-L'examen analytique est effectué par des laboratoires agréés, après avis des services de l'INAO, par la direction générale de la concurrence, de la consommation et de la répression des fraudes.
+L'examen analytique est effectué par des laboratoires accrédités ayant souscrit un contrat de prestation avec l'INAO.
 
 Pour cet examen, des éléments caractéristiques complémentaires à ceux prévus par la réglementation communautaire et des valeurs limites spécifiques peuvent être fixés dans le décret de l'appellation concernée. Toutefois, pour une campagne déterminée, des valeurs limites spécifiques peuvent être adoptées par arrêté du ministre chargé des finances et du ministre chargé de l'agriculture pris sur proposition du comité national des vins et eaux-de-vie de l'INAO.
 
