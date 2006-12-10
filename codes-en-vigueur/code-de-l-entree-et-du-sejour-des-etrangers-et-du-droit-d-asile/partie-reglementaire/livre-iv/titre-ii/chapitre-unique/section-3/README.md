@@ -1,4 +1,4 @@
-# Section 3 : Vérification des conditions de ressources et de logement.
+# Section 3 : Vérification des conditions du regroupement familial
 
 - [Article R421-11](article-r421-11.md)
 - [Article R421-12](article-r421-12.md)
