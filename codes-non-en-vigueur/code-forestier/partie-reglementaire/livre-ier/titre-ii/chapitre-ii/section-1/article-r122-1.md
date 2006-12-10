@@ -26,6 +26,6 @@ Le conseil d'administration de l'Office national des forêts comprend vingt-huit
 
 - un représentant des personnels d'encadrement employés par l'établissement, désigné par l'organisation syndicale ayant recueilli le plus de suffrages lors des élections aux commissions administratives paritaires des personnels d'encadrement ;
 
-- trois personnalités choisies en raison de leur compétence particulière dans les domaines professionnel, technique, économique, scientifique, social ou de la protection de la nature, dont une au titre de la protection de la nature.
+- trois personnalités choisies en raison de leur compétence particulière dans les domaines professionnel, technique, économique, scientifique, social ou de la protection de la nature, dont une au titre de la protection de la nature. L'une d'entre elles peut être un parlementaire.
 
 Ne peuvent être membres du conseil d'administration que des personnes ressortissantes de pays membres de la Communauté européenne et jouissant de leurs droits civiques.
