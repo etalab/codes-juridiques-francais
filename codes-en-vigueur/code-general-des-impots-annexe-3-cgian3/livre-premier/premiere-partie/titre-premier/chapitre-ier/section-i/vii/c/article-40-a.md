@@ -35,3 +35,5 @@ II. Les personnes morales doivent également joindre :
 2° La liste, suivant modèle fourni par l'administration, de leurs filiales et de leurs participations, en précisant pour chacune d'entre elles le taux de détention et son numéro d'identification au répertoire national des établissements (numéro SIRET).
 
 III. Cette déclaration et, le cas échéant, les listes visées au II, est adressée au service des impôts dont dépend le lieu d'exercice de la profession ou le principal établissement, en simple exemplaire, à l'aide d'imprimés établis par l'administration.
+
+Les personnes physiques qui exercent une activité professionnelle dans la Principauté de Monaco déposent leur déclaration auprès du service désigné par le ministre chargé du budget.
