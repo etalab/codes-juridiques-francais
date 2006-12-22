@@ -8,4 +8,4 @@ II. - Les caisses de mutualité sociale agricole procèdent auprès des associat
 
 III. - Les dispositions du I sont applicables aux gains et rémunérations versés postérieurement au 31 décembre 1998.
 
-IV. - Les dispositions du III bis de l'article L. 241-10 du code de la sécurité sociale sont applicables aux cotisations patronales d'assurances sociales, d'accidents du travail et d'allocations familiales dues par les associations et entreprises sur les rémunérations des salariés affiliés au régime de protection sociale agricole, dans les conditions mentionnées par cet article.
+IV. - Les dispositions du III bis de l'article L. 241-10 du code de la sécurité sociale sont applicables aux cotisations patronales d'assurances sociales, d'accidents du travail et d'allocations familiales dues sur les rémunérations des salariés affiliés au régime de protection sociale agricole, par les personnes et dans les conditions mentionnées à cet article.
