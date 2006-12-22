@@ -8,4 +8,6 @@ Sont acquis à l'Etat, à moins qu'il ne soit disposé de ces biens par des lois
 
 3° Les dépôts de sommes d'argent et, d'une manière générale, tous avoirs en espèces dans les banques, les établissements de crédit et tous autres établissements qui reçoivent des fonds en dépôt ou en compte courant, lorsque ces dépôts ou avoirs n'ont fait l'objet de la part des ayants droit d'aucune opération ou réclamation depuis trente années ;
 
-4° Les dépôts de titres et, d'une manière générale, tous avoirs en titres dans les banques et autres établissements qui reçoivent des titres en dépôt ou pour tout autre cause lorsque ces dépôts ou avoirs n'ont fait l'objet, de la part des ayants droit, d'aucune opération ou réclamation depuis trente années.
+4° Les dépôts de titres et, d'une manière générale, tous avoirs en titres dans les banques et autres établissements qui reçoivent des titres en dépôt ou pour tout autre cause lorsque ces dépôts ou avoirs n'ont fait l'objet, de la part des ayants droit, d'aucune opération ou réclamation depuis trente années ;
+
+5° Les sommes dues au titre de contrats d'assurance sur la vie comportant des valeurs de rachat ou de transfert et n'ayant fait l'objet, à compter du décès de l'assuré ou du terme du contrat, d'aucune demande de prestation auprès de l'organisme d'assurance depuis trente années.

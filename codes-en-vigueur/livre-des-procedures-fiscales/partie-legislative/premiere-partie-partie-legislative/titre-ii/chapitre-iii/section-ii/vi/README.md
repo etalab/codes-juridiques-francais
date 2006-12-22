@@ -6,6 +6,5 @@
 - [Article L153](article-l153.md)
 - [Article L154](article-l154.md)
 - [Article L158](article-l158.md)
-- [Article L161](article-l161.md)
 - [Article L162 A](article-l162-a.md)
 - [Article L162 B](article-l162-b.md)

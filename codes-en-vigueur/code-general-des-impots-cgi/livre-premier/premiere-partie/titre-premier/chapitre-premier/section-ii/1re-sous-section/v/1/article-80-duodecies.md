@@ -18,6 +18,8 @@ b) Soit le montant de l'indemnité de licenciement prévue par la convention col
 
 a) Soit deux fois le montant de la rémunération annuelle brute perçue par le salarié au cours de l'année civile précédant la rupture de son contrat de travail, ou 50 % du montant de l'indemnité si ce seuil est supérieur, dans la limite de cinq fois le plafond mentionné à l'article L. 241-3 du code de la sécurité sociale en vigueur à la date du versement des indemnités ;
 
-b) Soit le montant de l'indemnité de mise à la retraite prévue par la convention collective de branche, par l'accord professionnel ou interprofessionnel ou, à défaut, par la loi.
+b) Soit le montant de l'indemnité de mise à la retraite prévue par la convention collective de branche, par l'accord professionnel ou interprofessionnel ou, à défaut, par la loi ;
+
+5° La fraction des indemnités de départ volontaire versées aux salariés dans le cadre d'un accord collectif de gestion prévisionnelle des emplois et des compétences dans les conditions prévues au II de l'article L. 320-2 du code du travail, n'excédant pas quatre fois le plafond mentionné à l'article L. 241-3 du code de la sécurité sociale en vigueur à la date du versement des indemnités.
 
 2. Constitue également une rémunération imposable toute indemnité versée, à l'occasion de la cessation de leurs fonctions, aux mandataires sociaux, dirigeants et personnes visés à l'article 80 ter. Toutefois, en cas de cessation forcée des fonctions, notamment de révocation, seule la fraction des indemnités qui excède les montants définis aux 3 et 4 du 1 est imposable.
