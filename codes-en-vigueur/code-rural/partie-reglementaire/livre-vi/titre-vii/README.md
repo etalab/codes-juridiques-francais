@@ -3,8 +3,6 @@
 - [Article R671-1](article-r671-1.md)
 - [Article R671-2](article-r671-2.md)
 - [Article R671-3](article-r671-3.md)
-- [Article R*671-4](article-r-671-4.md)
-- [Article R*671-6](article-r-671-6.md)
 - [Article R671-6](article-r671-6.md)
 - [Article R671-8](article-r671-8.md)
 - [Article R671-9](article-r671-9.md)
