@@ -1,9 +1,5 @@
 # Paragraphe 1 : Dispositions relatives au cheptel bovin, porcin, ovin et caprin.
 
-- [Article R*653-59](article-r-653-59.md)
-- [Article R*653-60](article-r-653-60.md)
-- [Article R*653-61](article-r-653-61.md)
-- [Article R*653-62](article-r-653-62.md)
 - [Article R*653-63](article-r-653-63.md)
 - [Article R*653-64](article-r-653-64.md)
 - [Article R*653-65](article-r-653-65.md)
