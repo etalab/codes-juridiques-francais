@@ -22,7 +22,7 @@ Le Conseil national des opérations funéraires comprend vingt-neuf membres titu
 
 6° Trois représentants des associations de consommateurs, proposés par le ministre chargé de la consommation parmi les associations membres du Conseil national de la consommation ;
 
-7° Quatre personnalités compétentes, dont un membre du Conseil supérieur d'hygiène publique de France.
+7° Quatre personnalités compétentes, dont une personnalité désignée sur proposition du ministre chargé de la santé.
 
 Le président est désigné parmi les membres titulaires par le ministre de l'intérieur pour une durée de quatre ans.
 
