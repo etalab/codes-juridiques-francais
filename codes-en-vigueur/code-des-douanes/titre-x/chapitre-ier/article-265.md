@@ -58,6 +58,18 @@ autres : indice 13 bis, hectolitre, taxe intérieure applicable au supercarburan
 
 . Autres essences : indice 15, hectolitre, taxe intérieure applicable au supercarburant visé à l'indice 11.
 
+Ex 3824 90 99
+
+- Superéthanol E85
+
+-- destiné à être utilisé comme carburant
+
+55
+
+hectolitre
+
+33,43
+
 2° Huiles moyennes.
 
 a) Pétrole lampant :

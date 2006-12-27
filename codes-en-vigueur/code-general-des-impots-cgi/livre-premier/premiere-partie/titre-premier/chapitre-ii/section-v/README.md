@@ -3,6 +3,7 @@
 - [1° : Report en arrière](1)
 - [2° : Crédit d'impôt pour dépenses de production déléguée d'oeuvres cinématographiques ou audiovisuelles](2)
 - [3° : Crédit d'impôt pour investissements en faveur des entreprises implantées dans certains secteurs de la région Nord - Pas-de-Calais](3)
+- [7° : Réduction d'impôt pour souscription au capital de sociétés de presse](7)
 - [Article 219](article-219.md)
 - [Article 219 bis](article-219-bis.md)
 - [Article 219 ter](article-219-ter.md)
@@ -27,3 +28,4 @@
 - [Article 220 N](article-220-n.md)
 - [Article 220 O](article-220-o.md)
 - [Article 220 P](article-220-p.md)
+- [Article 220 S](article-220-s.md)

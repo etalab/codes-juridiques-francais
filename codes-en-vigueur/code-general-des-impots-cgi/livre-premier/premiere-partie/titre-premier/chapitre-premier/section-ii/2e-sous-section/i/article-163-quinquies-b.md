@@ -22,8 +22,10 @@ Ces droits sont retenus dans le quota d'investissement de 50 % et pour le calcul
 
 3° Le porteur de parts, son conjoint et leurs ascendants et descendants ne doivent pas détenir ensemble directement ou indirectement plus de 25 % des droits dans les bénéfices de sociétés dont les titres figurent à l'actif du fonds ou avoir détenu ce montant à un moment quelconque au cours des cinq années précédant la souscription des parts du fonds ou l'apport des titres.
 
-III. Les sommes ou valeurs qui ont été exonérées d'impôt sur le revenu en vertu du I sont ajoutées au revenu imposable de l'année au cours de laquelle le fonds ou le contribuable cesse de remplir les conditions fixées aux I et II.
+III. Les sommes ou valeurs qui ont été exonérées d'impôt sur le revenu en vertu du I ou du III bis sont ajoutées au revenu imposable de l'année au cours de laquelle le fonds ou le contribuable cesse de remplir les conditions fixées aux I et II ou aux I et III bis.
 
 Toutefois, l'exonération est maintenue en cas de cession des parts par le contribuable lorsque lui-même ou l'un des époux soumis à une imposition commune se trouve dans l'un des cas suivants : invalidité correspondant au classement dans la deuxième ou troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, décès, départ à la retraite ou licenciement.
+
+III bis. - L'exonération visée au I est également applicable aux fonds communs de placement à risques qui respectent toutes les conditions mentionnées à l'article L. 214-41 du code monétaire et financier. Cette exonération s'applique sous réserve que les porteurs de parts respectent les conditions prévues au I et aux 2° et 3° du II du présent article.
 
 IV. Un décret fixe les obligations incombant aux porteurs de parts ainsi qu'aux gérants et dépositaires des fonds.

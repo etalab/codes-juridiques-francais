@@ -18,4 +18,4 @@ a. 90 % de son montant avant l'opération pour les opérations entre sociétés 
 
 b. Sous réserve des dispositions du a, 50 % de son montant avant l'opération pour les opérations de reprise d'immobilisations prévue par un plan de cession ou comprises dans une cession d'actifs en sauvegarde, en redressement ou en liquidation judiciaire, jusqu'à la deuxième année suivant celle du jugement ordonnant la cession ou autorisant la cession d'actifs en cours de période d'observation.
 
-Les dispositions du présent article s'appliquent distinctement aux trois catégories d'immobilisations suivantes : terrains, constructions, équipements et biens mobiliers.
+Sans préjudice des dispositions du 3° quater de l'article 1469, les dispositions du présent article s'appliquent distinctement aux trois catégories d'immobilisations suivantes : terrains, constructions, équipements et biens mobiliers.
