@@ -12,7 +12,7 @@ Le crédit d'impôt négatif qui trouvait son origine en 2003 ou au cours d'une 
 
 En cas de fusion ou opération assimilée, la part en accroissement négative du crédit d'impôt de la société apporteuse non encore imputée est transférée à la société bénéficiaire de l'apport.
 
-A l'exception du crédit d'impôt imputable par la société mère dans les conditions prévues à l'article 223 O, le crédit d'impôt est plafonné pour chaque entreprise, y compris les sociétés de personnes, à 10 000 000 Euros. Il s'apprécie en prenant en compte la fraction de la part en accroissement et de la part en volume du crédit d'impôt correspondant aux parts des associés de sociétés de personnes mentionnées aux articles 8 et 238 bis L et aux droits des membres de groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C, le cas échéant majoré de la part en accroissement et de la part en volume calculées au titre des dépenses de recherche que ces associés ou membres ont exposées.
+A l'exception du crédit d'impôt imputable par la société mère dans les conditions prévues à l'article 223 O, le crédit d'impôt est plafonné pour chaque entreprise, y compris les sociétés de personnes, à 10 000 000 euros. Il s'apprécie en prenant en compte la fraction de la part en accroissement et de la part en volume du crédit d'impôt correspondant aux parts des associés de sociétés de personnes mentionnées aux articles 8 et 238 bis L et aux droits des membres de groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C, le cas échéant majoré de la part en accroissement et de la part en volume calculées au titre des dépenses de recherche que ces associés ou membres ont exposées.
 
 Lorsque la somme de la part en volume et de la part en accroissement du crédit d'impôt des sociétés et groupements visés à la dernière phrase de l'alinéa précédent excède le plafond mentionné à ce même alinéa, le montant respectif de ces parts pris en compte pour le calcul du crédit d'impôt dont bénéficient leurs associés ou leurs membres est égal au montant du plafond multiplié par le rapport entre le montant respectif de chacune de ces parts et leur somme avant application du plafond. Lorsque la part en accroissement est négative, la part en volume prise en compte est limitée au plafond précité et la part en accroissement prise en compte est la part en accroissement multipliée par le rapport entre le plafond et le montant de la part en volume.
 
@@ -42,11 +42,11 @@ d bis) Les dépenses exposées pour la réalisation d'opérations de même natur
 
 d ter) Les dépenses mentionnées aux d et d bis entrent dans la base de calcul du crédit d'impôt recherche dans la limite globale de deux millions d'euros par an. Cette limite est portée à 10 millions d'euros pour les dépenses de recherche correspondant à des opérations confiées aux organismes mentionnés aux d et d bis, à la condition qu'il n'existe pas de lien de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre l'entreprise qui bénéficie du crédit d'impôt et ces organismes ;
 
-e) Les frais de prise et de maintenance de brevets ;
+e) Les frais de prise et de maintenance de brevets et de certificats d'obtention végétale (1) ;
 
-e bis) Les frais de défense de brevets, dans la limite de 120 000 Euros par an ;
+e bis) Les frais de défense de brevets et de certificats d'obtention végétale (1) ;
 
-f) Les dotations aux amortissements des brevets acquis en vue de réaliser des opérations de recherche et de développement expérimental ;
+f) Les dotations aux amortissements des brevets et des certificats d'obtention végétale (1) acquis en vue de réaliser des opérations de recherche et de développement expérimental ;
 
 g) Les dépenses de normalisation afférentes aux produits de l'entreprise, définies comme suit, pour la moitié de leur montant :
 
@@ -66,11 +66,11 @@ h) Les dépenses liées à l'élaboration de nouvelles collections exposées par
 
 4° Les frais de dépôt des dessins et modèles.
 
-5° Les frais de défense des dessins et modèles, dans la limite de 60 000 Euros par an ;
+5° Les frais de défense des dessins et modèles, dans la limite de 60 000 euros par an ;
 
 i) Les dépenses liées à l'élaboration de nouvelles collections confiée par les entreprises industrielles du secteur textile-habillement-cuir à des stylistes ou bureaux de style agréés selon des modalités définies par décret ;
 
-j) Les dépenses de veille technologique exposées lors de la réalisation d'opérations de recherche, dans la limite de 60 000 Euros par an.
+j) Les dépenses de veille technologique exposées lors de la réalisation d'opérations de recherche, dans la limite de 60 000 euros par an.
 
 Pour être éligibles au crédit d'impôt mentionné au premier alinéa du I, les dépenses prévues aux a à j doivent être des dépenses retenues pour la détermination du résultat imposable à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les conditions de droit commun et, à l'exception des dépenses prévues aux e bis et j, correspondre à des opérations localisées au sein de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'espace économique européen ayant conclu avec la France une convention fiscale contenant une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale.
 

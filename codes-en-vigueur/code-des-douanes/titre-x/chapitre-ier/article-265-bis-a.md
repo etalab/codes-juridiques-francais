@@ -6,7 +6,7 @@ a) 25 euros par hectolitre pour les esters méthyliques d'huile végétale et le
 
 b) 33 euros par hectolitre pour le contenu en alcool des dérivés de l'alcool éthylique incorporés aux supercarburants dont la composante alcool est d'origine agricole ;
 
-c) 33 euros par hectolitre pour l'alcool éthylique d'origine agricole incorporé aux supercarburants ;
+c) 33 euros par hectolitre pour l'alcool éthylique d'origine agricole incorporé aux supercarburants ou au superéthanol E85 repris à l'indice d'identification 55 ;
 
 d) 25 euros par hectolitre pour le biogazole de synthèse et 30 euros par hectolitre pour les esters éthyliques d'huile végétale, incorporés au gazole ou au fioul domestique.
 

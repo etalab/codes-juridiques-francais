@@ -1,4 +1,4 @@
-# TITRE II : RÈGLES GÉNÉRALES D'ORGANISATION ET DE FONCTIONNEMENT
+# Titre II : Organisation.
 
 - [Chapitre Ier : Les juges](chapitre-ier)
 - [Chapitre II : Le ministère public](chapitre-ii)

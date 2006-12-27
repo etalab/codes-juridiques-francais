@@ -5,3 +5,5 @@ Le fonds national d'aide au logement est chargé de financer l'aide personnalis�
 Il finance également l'allocation de logement relevant du titre III du livre VIII du code de la sécurité sociale ainsi que les dépenses de gestion qui s'y rapportent.
 
 Le fonds est administré par un conseil de gestion dont la composition, les modes de désignation des membres et les modalités de fonctionnement sont fixés par décret.
+
+Sa gestion est assurée par la Caisse des dépôts et consignations.

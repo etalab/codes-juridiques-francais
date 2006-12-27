@@ -12,10 +12,12 @@ Des conseillers référendaires ;
 
 Du procureur général ;
 
-Du premier avocat général ;
+Des premiers avocats généraux ;
 
 Des avocats généraux ;
 
 Du greffier en chef ;
 
 Des greffiers de chambre.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.

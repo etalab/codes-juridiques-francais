@@ -53,3 +53,5 @@ w. Au titre de 2003, à 1,015 pour les propriétés non bâties, à 1,015 pour l
 y. Au titre de 2005, à 1,018 pour les propriétés non bâties, à 1,018 pour les immeubles industriels ne relevant pas de l'article 1500 et pour l'ensemble des autres propriétés bâties.
 
 z) Au titre de 2006, à 1,018 pour les propriétés non bâties, à 1,018 pour les immeubles industriels ne relevant pas de l'article 1500 et pour l'ensemble des autres propriétés bâties.
+
+za) Au titre de 2007, à 1,018 pour les propriétés non bâties, à 1,018 pour les immeubles industriels ne relevant pas de l'article 1500 et pour l'ensemble des autres propriétés bâties.

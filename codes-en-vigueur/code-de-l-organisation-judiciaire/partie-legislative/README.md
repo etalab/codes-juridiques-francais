@@ -1,6 +1,6 @@
-# Partie législative
+# Partie législative ancienne
 
-- [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES](livre-ier)
+- [Livre Ier : La Cour de cassation](livre-ier)
 - [LIVRE II : JURIDICTIONS DU PREMIER DEGRÉ](livre-ii)
 - [LIVRE III : JURIDICTIONS DU SECOND DEGRÉ](livre-iii)
 - [LIVRE IV : LA COUR DE CASSATION](livre-iv)

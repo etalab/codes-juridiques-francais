@@ -34,8 +34,8 @@ V. - Pour l'application du 1 du I, la durée de détention est décomptée à pa
 
 3° En cas de cession de titres ou droits après la clôture d'un plan d'épargne en actions défini à l'article 163 quinquies D ou leur retrait au-delà de la huitième année, à partir du 1er janvier 2006 ou, si elle est postérieure, à partir du 1er janvier de l'année au cours de laquelle le cédant a cessé de bénéficier, pour ces titres, des avantages prévus aux 5° bis et 5° ter de l'article 157 ;
 
-4° En cas de cession de titres ou droits de sociétés ayant opté pour leur assujettissement à l'impôt sur les sociétés ou à un impôt équivalent, à partir du 1er janvier 2006 ou, si elle est postérieure, à partir du 1er janvier de l'année au cours de laquelle la dernière option a été exercée ;
+4° En cas de cession à titre onéreux de titres ou droits reçus en rémunération d'un apport réalisé sous le régime prévu au I ter de l'article 93 quater, au a du I de l'article 151 octies ou aux I et II de l'article 151 octies A, à partir du 1er janvier 2006 ou, si elle est postérieure, à partir du 1er janvier de l'année au cours de laquelle l'apporteur a commencé son activité commerciale, industrielle, artisanale, libérale ou agricole ;
 
-5° En cas de cession de titres ou droits de sociétés ayant renoncé à l'option prévue au 3° de l'article 8, à partir du 1er janvier 2006 ou, si elle est postérieure, à partir du 1er janvier de l'année de cette renonciation ;
+5° Abrogé
 
 6° Pour les titres ou droits acquis ou souscrits avant le 1er janvier 2006, à partir du 1er janvier 2006.

@@ -36,7 +36,9 @@ Pour exercer en France une activité professionnelle salariée, les étrangers d
 
 "Art. L. 341-8 du code du travail.
 
-"Le renouvellement des autorisations de travail prévues à l'article L. 341-2 donne lieu à la perception au profit de l'Agence nationale de l'accueil des étrangers et des migrations d'une taxe dont le montant et les modalités de perception sont fixés par décret.
+"Le renouvellement des autorisations de travail prévues à l'article L. 341-2 ou des titres de séjour voulant autorisation de travail ou portant mention de celle-ci donne lieu à la perception, au profit de l'Agence nationale de l'accueil des étrangers et des migrations, d'une taxe dont le montant est fixé par décret dans les limites comprises entre 55 euros et 110 euros.
+
+"Cette taxe est recouvrée comme en matière de timbre, sous réserve, en tant que de besoin, des adaptations fixées par décret en Conseil d'Etat.
 
 "La participation de l'Etat aux frais d'introduction des familles de travailleurs étrangers et les sommes versées par les employeurs à l'Agence nationale de l'accueil des étrangers et des migrations à titre de remboursement forfaitaire des frais d'introduction des travailleurs étrangers sont réduites en fonction du rendement de ladite taxe.
 
@@ -46,7 +48,7 @@ Pour exercer en France une activité professionnelle salariée, les étrangers d
 
 "Art. L. 831-1 du code du travail.
 
-"Les dispositions du chapitre premier     du titre IV du livre III, à l'exception du troisième alinéa de l'article L. 341-4, du présent code sont applicables dans les départements d'outre-mer.
+"Les dispositions du chapitre premier du titre IV du livre III, à l'exception du troisième alinéa de l'article L. 341-4, du présent code sont applicables dans les départements d'outre-mer.
 
 "Art. L. 831-1-1 du code du travail.
 
