@@ -4,7 +4,7 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 Il délibère notamment sur son budget et arrête le compte financier.
 
-Il délibère également sur la participation à des organismes dotés de la personnalité morale et sur l'acceptation des dons et legs.
+Il délibère également sur la participation à des organismes dotés de la personnalité morale, sur l'acceptation des dons et legs et sur les transactions.
 
 Dans la limite des crédits votés à cet effet, le comité des engagements attribue les subventions mentionnées à l'article D. 129-23.
 
