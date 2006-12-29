@@ -14,7 +14,7 @@ La reconnaissance des permis de conduire prévue aux articles R. 222-1 à R. 222
 
 2° Etre titulaire :
 
-a) De l'attestation scolaire de sécurité routière de deuxième niveau ou de l'attestation de sécurité routière pour l'obtention des catégories A ou B du permis de conduire ;
+a) De l'attestation scolaire de sécurité routière de second niveau ou de l'attestation de sécurité routière pour la première obtention du permis de conduire, quelle qu'en soit la catégorie ou sous-catégorie ;
 
 b) De la catégorie B du permis de conduire pour l'obtention des catégories C, D et E (B) ;
 
