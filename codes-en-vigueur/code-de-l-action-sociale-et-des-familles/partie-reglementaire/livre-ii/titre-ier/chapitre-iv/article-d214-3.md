@@ -26,7 +26,9 @@ La commission comprend :
 
 12° un représentant des entreprises désigné conjointement par la ou les chambres de commerce et d'industrie, la chambre de métiers et de l'artisanat et la chambre d'agriculture ;
 
-13° trois personnes qualifiées dans le domaine de l'accueil des jeunes enfants et de la conciliation de la vie familiale et de la vie professionnelle, sur proposition du préfet.
+13° trois personnes qualifiées dans le domaine de l'accueil des jeunes enfants et de la conciliation de la vie familiale et de la vie professionnelle, sur proposition du préfet ;
+
+14° Deux représentants des particuliers employeurs d'assistants maternels et de gardes de jeunes enfants au domicile parental, désignés par la Fédération nationale des particuliers employeurs.
 
 En cas de pluralité de caisses d'allocations familiales dans le département, les présidents des conseils d'administration désignent d'un commun accord celui qui est chargé de les représenter. Les directeurs en font de même pour désigner les deux personnes chargées de représenter les services des caisses d'allocations familiales.
 

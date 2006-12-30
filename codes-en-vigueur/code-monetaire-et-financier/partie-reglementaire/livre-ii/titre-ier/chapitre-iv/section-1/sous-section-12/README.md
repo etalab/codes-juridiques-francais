@@ -15,4 +15,6 @@
 - [Article R214-68](article-r214-68.md)
 - [Article R214-69](article-r214-69.md)
 - [Article R214-70](article-r214-70.md)
+- [Article R214-73-1](article-r214-73-1.md)
+- [Article R214-73-2](article-r214-73-2.md)
 - [Article R214-74](article-r214-74.md)
