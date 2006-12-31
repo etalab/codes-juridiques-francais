@@ -20,6 +20,8 @@ Le conseil de surveillance adopte un rapport annuel mis à la disposition de cha
 
 Les porteurs de parts peuvent opter pour un rachat en espèces des parts du fonds.
 
+Le règlement prévoit que les dividendes et les coupons attachés aux titres compris à l'actif du fonds sont distribués aux porteurs de parts, à leur demande expresse, suivant des modalités qu'il détermine. Il prévoit, le cas échéant, différentes catégories de parts.
+
 Dans une société dont les actions sont admises aux négociations sur un marché réglementé, un fonds rassemblant en majorité les actions de cette société détenues par des salariés ou anciens salariés doit être géré par un intermédiaire indépendant.
 
 Le conseil de surveillance de ce fonds ou un groupe de salariés ou d'anciens salariés ayant des droits sur au moins 1 % de ses actifs peut demander en justice la récusation du gestionnaire au motif du défaut d'indépendance vis-à-vis de la société dont les actions sont admises aux négociations sur un marché réglementé ou des dirigeants de cette société. La récusation prononcée à la suite d'une action judiciaire ouvre droit à des dommages et intérêts au profit de la copropriété.
@@ -27,3 +29,5 @@ Le conseil de surveillance de ce fonds ou un groupe de salariés ou d'anciens sa
 Dans la limite de 20 % des droits de vote, les fractions de ces droits résultant de rompus peuvent être exercées par la société de gestion.
 
 Lorsque l'entreprise est régie par la loi n° 47-1775 du 10 septembre 1947 précitée, le fonds commun de placement d'entreprise peut investir dans les titres de capital qu'elle émet, sans préjudice des dispositions spécifiques qui régissent, le cas échéant, la souscription de ces titres par les salariés et dans les conditions fixées par décret.
+
+Lorsque les titres émis par l'entreprise ou toute société qui lui est liée au sens du second alinéa de l'article L. 444-3 du code du travail ne sont pas admis aux négociations sur un marché mentionné aux articles L. 421-3, L. 422-1 ou L. 423-1 du présent code, le fonds commun de placement d'entreprise peut être partie à un pacte d'actionnaires afin de favoriser la transmission de l'entreprise, la stabilité de l'actionnariat ou la liquidité du fonds.

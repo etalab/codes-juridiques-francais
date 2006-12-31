@@ -18,6 +18,8 @@ Ce droit est plafonné à 4 000 euros par mutation ;
 
 Est à prépondérance immobilière la personne morale non cotée en bourse dont l'actif est, ou a été au cours de l'année précédant la cession des participations en cause, principalement constitué d'immeubles ou de droits immobiliers situés en France ou de participations dans des personnes morales non cotées en bourse elles-mêmes à prépondérance immobilière. Toutefois, les organismes d'habitations à loyer modéré et les sociétés d'économie mixte exerçant une activité de construction ou de gestion de logements sociaux ne sont pas considérés comme des personnes morales à prépondérance immobilière.
 
+I bis. - Le droit d'enregistrement mentionné au I n'est pas applicable aux acquisitions de droits sociaux effectuées par une société créée en vue de racheter une autre société dans les conditions prévues à l'article 220 nonies.
+
 II. Le droit d'enregistrement prévu au I est assis sur le prix exprimé et le capital des charges qui peuvent ajouter au prix ou sur une estimation des parties si la valeur réelle est supérieure au prix augmenté des charges.
 
 Toutefois, ce droit n'est pas applicable aux acquisitions de droits sociaux effectuées par une société créée en vue de racheter une autre société dans les conditions prévues aux articles 83 ter, 199 terdecies A, 220 quater ou 220 quater A. Lorsque le rachat a été soumis à l'accord du ministre chargé des finances, prévu à l'article 220 quater B, le bénéfice des présentes dispositions est subordonné à cet accord. Cet avantage n'est plus applicable à compter de l'année au cours de laquelle l'une des conditions prévues aux articles 83 ter, 199 terdecies A et 220 quater A cesse d'être satisfaite.
