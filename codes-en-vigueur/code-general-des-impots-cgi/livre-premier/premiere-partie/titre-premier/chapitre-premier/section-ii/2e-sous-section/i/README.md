@@ -1,6 +1,5 @@
 # I : Revenu imposable
 
-- [c : Financement en capital d'oeuvres cinématographiques ou audiovisuelles.](c)
 - [Article 156](article-156.md)
 - [Article 157](article-157.md)
 - [Article 157 bis](article-157-bis.md)

@@ -8,7 +8,7 @@ II. Pour la perception des droits de mutation par décès, il est effectué un a
 
 2° Qu'il ait été constamment domicilié avec le défunt pendant les cinq années ayant précédé le décès.
 
-III. - Pour la perception des droits de mutation par décès, il est effectué un abattement sur la part nette de tout héritier, donataire ou légataire correspondant à la valeur des biens reçus du défunt, évalués au jour du décès et remis par celui-ci à une fondation reconnue d'utilité publique répondant aux conditions fixées au b du 1 de l'article 200 ou aux sommes versées par celui-ci à une association reconnue d'utilité publique répondant aux conditions fixées au b du 1 de l'article 200, à l'Etat ou à un organisme mentionné à l'article 794 en remploi des sommes, droits ou valeurs reçus du défunt. Cet abattement s'applique à la double condition :
+III. - Pour la perception des droits de mutation par décès, il est effectué un abattement sur la part nette de tout héritier, donataire ou légataire correspondant à la valeur des biens reçus du défunt, évalués au jour du décès et remis par celui-ci à une fondation reconnue d'utilité publique répondant aux conditions fixées au b du 1 de l'article 200 ou aux sommes versées par celui-ci à une association reconnue d'utilité publique répondant aux conditions fixées au b du 1 de l'article 200, à l'Etat, à ses établissements publics ou à un organisme mentionné à l'article 794 en remploi des sommes, droits ou valeurs reçus du défunt. Cet abattement s'applique à la double condition :
 
 1° Que la libéralité soit effectuée, à titre définitif et en pleine propriété, dans les six mois suivant le décès ;
 

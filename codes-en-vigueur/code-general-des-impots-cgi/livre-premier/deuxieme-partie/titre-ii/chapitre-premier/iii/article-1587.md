@@ -6,7 +6,7 @@ Cette redevance ne s'applique pas aux hydrocarbures extraits de gisements situé
 
 Lorsqu'il existe plusieurs lignes de base, celle qui est la plus proche de la côte est utilisée.
 
-II. 1° A compter du 1er janvier 2002, les taux de la redevance départementale des mines sont fixés à :
+II. 1° A compter du 1er janvier 2002, les tarifs de la redevance départementale des mines sont fixés à :
 
 - 8,34 euros par kilogramme d'or contenu pour les minerais aurifères ;
 
@@ -76,7 +76,7 @@ II. 1° A compter du 1er janvier 2002, les taux de la redevance départementale 
 
 - 272 euros par 100 000 mètres cubes extraits pour les gisements de gaz naturel mis en exploitation avant le 1er janvier 1992 ;
 
-1° bis Pour les gisements en mer situés jusqu'à une limite de 1 mille marin au-delà des lignes de base définies à l'article 1er de la loi n° 71-1060 du 24 décembre 1971 relative à la délimitation des eaux territoriales françaises, les taux de la redevance départementale des mines sont fixés à :
+1° bis Pour les gisements en mer situés jusqu'à une limite de 1 mille marin au-delà des lignes de base définies à l'article 1er de la loi n° 71-1060 du 24 décembre 1971 relative à la délimitation des eaux territoriales françaises, les tarifs de la redevance départementale des mines sont fixés à :
 
 - 31,9 euros par 100 000 mètres cubes extraits pour le gaz naturel ;
 
@@ -84,7 +84,7 @@ II. 1° A compter du 1er janvier 2002, les taux de la redevance départementale 
 
 Lorsqu'il existe plusieurs lignes de base, celle qui est la plus proche de la côte est utilisée ;
 
-1° ter Pour les gisements mis en exploitation à compter du 1er janvier 1992, les taux de la redevance départementale des mines sont fixés à :
+1° ter Pour les gisements mis en exploitation à compter du 1er janvier 1992, les tarifs de la redevance départementale des mines sont fixés à :
 
 - 75,4 euros par 100 000 mètres cubes extraits pour les gisements de gaz naturel ;
 
@@ -92,8 +92,10 @@ Lorsqu'il existe plusieurs lignes de base, celle qui est la plus proche de la c�
 
 1° quater (Abrogé à compter du 1er janvier 2002).
 
-2° Les taux de la redevance départementale des mines applicables, à partir du 1er janvier 1954, aux substances minérales concédées autres que celles mentionnées au 1°, sont fixés dans les conditions prévues au II de l'article 1519 pour la redevance communale.
+2° Les tarifs de la redevance départementale des mines applicables, à partir du 1er janvier 1954, aux substances minérales concédées autres que celles mentionnées au 1°, sont fixés dans les conditions prévues au II de l'article 1519 pour la redevance communale.
 
-III. Les taux visés aux 1° et 2° du II varient dans les conditions prévues au premier alinéa du IV de l'article 1519.
+III. Les tarifs visés aux 1° et 2° du II varient dans les conditions prévues au premier alinéa du IV de l'article 1519.
 
-Les taux visés au 1° ter du II varient dans les conditions prévues au deuxième alinéa du IV de l'article 1519.
+Les tarifs visés au 1° ter du II varient dans les conditions prévues au deuxième alinéa du IV de l'article 1519.
+
+Les tarifs sont exprimés ainsi qu'il est prévu au troisième alinéa du IV de l'article 1519.

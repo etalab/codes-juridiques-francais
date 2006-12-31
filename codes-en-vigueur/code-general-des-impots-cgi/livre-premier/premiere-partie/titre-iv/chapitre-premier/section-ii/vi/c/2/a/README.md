@@ -7,7 +7,6 @@
 - [Article 783](article-783.md)
 - [Article 784](article-784.md)
 - [Article 784 A](article-784-a.md)
-- [Article 785](article-785.md)
 - [Article 786](article-786.md)
 - [Article 787 C](article-787-c.md)
 - [Article 787 A](article-787-a.md)

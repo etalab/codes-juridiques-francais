@@ -24,6 +24,8 @@ Le conseil municipal peut également renoncer à percevoir en tout ou partie la 
 
 Le conseil municipal peut renoncer à percevoir en tout ou partie la taxe locale d'équipement sur les constructions de garage à usage commercial.
 
+En outre, le conseil municipal peut renoncer à percevoir en tout ou partie la taxe locale d'équipement sur la reconstruction de bâtiments présentant un intérêt patrimonial pour la collectivité et faisant l'objet d'une procédure d'autorisation spécifique, tels que les anciens chalets d'alpage ou les bâtiments d'estive au sens de l'article L. 145-3 du code de l'urbanisme.
+
 III. (Abrogé).
 
 IV. Le conseil municipal peut exempter de la taxe les bâtiments à usage agricole autres que ceux mentionnés à l'article L. 112-1 du code de l'urbanisme.

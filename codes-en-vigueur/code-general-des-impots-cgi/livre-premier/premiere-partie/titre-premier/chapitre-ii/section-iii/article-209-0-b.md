@@ -28,21 +28,44 @@ c) Pour les sociétés membres d'un groupe mentionné à l'article 223 A, la pro
 
 II. - Le résultat imposable provenant des opérations directement liées à l'exploitation des navires éligibles est déterminé par application à chacun de ces navires, par jour et par tranche de jauge nette de 100 unités du système de jaugeage universel (UMS), du barème suivant :
 
-TONNAGE (en unités du système de jaugeage universel) : jusqu'à 1 000
-
-Montant (en euros) : 0,93 euros
-
-TONNAGE (en unités du système de jaugeage universel) : de 1 000 à 10 000
-
-Montant (en euros) : 0,71 euros
-
-TONNAGE (en unités du système de jaugeage universel) : de 10 000 à 25 000
-
-Montant (en euros) : 0,47 euros
-
-TONNAGE (en unités du système de jaugeage universel) : plus de 25 000
-
-Montant (en euros) : 0,24 euros
+<table>
+<tbody>
+<tr>
+<td width="123">
+<p align="center">TONNAGE<br/>(en unités du système de<br/>jaugeage universel)</p>
+</td>
+<td width="123">
+<p align="center">Jusqu'à 1 000</p>
+</td>
+<td width="123">
+<p align="center">De 1 000 à 10 000</p>
+</td>
+<td width="123">
+<p align="center">De 10 000 à 25 000</p>
+</td>
+<td width="123">
+<p align="center">Plus de 25 000</p>
+</td>
+</tr>
+<tr>
+<td width="123">
+<p align="center">Montant<br/>(en euros)</p>
+</td>
+<td width="123">
+<p align="center">0,93</p>
+</td>
+<td width="123">
+<p align="center">0,71</p>
+</td>
+<td width="123">
+<p align="center">0,47</p>
+</td>
+<td width="123">
+<p align="center">0,24</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Pour l'application du premier alinéa, la jauge nette de chaque navire est arrondie à la centaine supérieure.
 
@@ -64,7 +87,7 @@ Les plus et moins-values mentionnées au c sont déterminées conformément aux 
 
 Le bénéfice tiré des opérations qui ne sont pas directement liées à l'exploitation de navires éligibles est déterminé dans les conditions de droit commun. Pour la détermination de ce bénéfice, les charges d'intérêts sont imputées à proportion de la valeur comptable brute des éléments d'actif concourant à la réalisation de ces opérations par rapport à la valeur comptable brute de l'ensemble des éléments d'actif.
 
-III. - L'option prévue au I doit être exercée au plus tard au titre d'un exercice clos ou d'une période d'imposition arrêtée avant le 1er janvier 2005. Pour les entreprises qui deviennent éligibles, pour la première fois, au présent régime au titre d'un exercice clos à compter du 1er janvier 2004, l'option peut être exercée au plus tard au titre de l'exercice suivant.
+III. - L'option prévue au I doit être exercée au plus tard au titre d'un exercice clos ou d'une période d'imposition arrêtée avant le 1er janvier 2005. Pour les entreprises qui étaient éligibles avant le 1er janvier 2007 et qui n'ont pas opté, l'option prévue au I peut être exercée au plus tard au titre d'un exercice clos ou d'une période d'imposition arrêtée entre le 1er janvier 2007 et le 1er janvier 2008. Pour les entreprises qui deviennent éligibles, pour la première fois, au présent régime au titre d'un exercice clos à compter du 1er janvier 2008, l'option peut être exercée au plus tard au titre de l'exercice suivant.
 
 Pour les sociétés qui sont membres d'un groupe mentionné à l'article 223 A, cette option n'est ou ne demeure valable que si elle est exercée par l'ensemble des sociétés membres du groupe susceptibles de bénéficier du régime défini par le présent article. Une société qui n'a pas opté dans les conditions prévues au premier alinéa peut, lorsqu'elle devient membre d'un groupe mentionné à l'article 223 A dont les sociétés membres ont exercé cette option, opter au titre de l'exercice d'entrée dans le groupe.
 

@@ -12,7 +12,7 @@ a) Au cours des trois années précédant la cession ou depuis la création de l
 
 b) Le produit de la cession doit être investi dans la souscription en numéraire au capital initial ou dans l'augmentation de capital en numéraire d'une société créée depuis moins de quinze ans à la date de l'apport. Les droits sociaux émis en contrepartie de l'apport doivent être intégralement libérés lors de leur souscription ;
 
-c) La société bénéficiaire de l'apport doit exercer une activité autre que celles mentionnées au sixième alinéa du I de l'article 44 sexies et, sans avoir exercé d'option pour un autre régime d'imposition, être passible en France de l'impôt sur les sociétés de plein droit ou sur option ;
+c) La société bénéficiaire de l'apport doit exercer une activité autre que celles mentionnées au dernier alinéa du I de l'article 44 sexies et, sans avoir exercé d'option pour un autre régime d'imposition, être passible en France de l'impôt sur les sociétés de plein droit ou sur option ;
 
 d) La société bénéficiaire de l'apport ne doit pas avoir été créée dans le cadre d'une concentration, d'une restructuration, d'une extension ou d'une reprise d'activités préexistantes, sauf si elle répond aux conditions prévues par le I de l'article 39 quinquies H ;
 
@@ -32,4 +32,4 @@ h) Les personnes mentionnées au g ne doivent ni être associées de la sociét�
 
 7. (Abrogé)
 
-II. - Lorsque les titres reçus dans les cas prévus aux 1 et 6 du I font l'objet d'une cession dont le produit est investi dans la souscription en numéraire au capital d'une société dans les conditions fixées au même I, l'imposition des plus-values antérieurement reportée peut, à la demande du contribuable, être reportée de nouveau au moment où s'opérera la transmission, le rachat ou l'annulation des nouveaux titres reçus à condition que l'imposition de la plus-value réalisée lors de cette cession soit elle-même reportée. Dans ce cas, les conditions prévues au 2 et au a du 3 du I ne sont pas applicables.
+II.-Lorsque les titres reçus dans les cas prévus aux 1 et 6 du I font l'objet d'une cession dont le produit est investi dans la souscription en numéraire au capital d'une société dans les conditions fixées au même I, l'imposition des plus-values antérieurement reportée peut, à la demande du contribuable, être reportée de nouveau au moment où s'opérera la transmission, le rachat ou l'annulation des nouveaux titres reçus à condition que l'imposition de la plus-value réalisée lors de cette cession soit elle-même reportée. Dans ce cas, les conditions prévues au 2 et au a du 3 du I ne sont pas applicables.

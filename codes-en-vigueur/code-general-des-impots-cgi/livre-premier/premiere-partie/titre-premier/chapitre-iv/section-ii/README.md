@@ -19,6 +19,7 @@
 - [XIV bis : Sociétés civiles de moyens](xiv-bis)
 - [XIV ter : Régime fiscal des groupements d'intérêt public](xiv-ter)
 - [XIV quater : Régime fiscal des groupements européens d'intérêt économique et de leurs membres](xiv-quater)
+- [XIV quinquies : Régime fiscal des groupements de coopération sanitaire et sociale et de leurs membres](xiv-quinquies)
 - [XVII : Sociétés civiles de placement immobilier autorisées à faire publiquement appel à l'épargne.](xvii)
 - [XVII bis : Personnes morales passibles de l'impôt sur les sociétés ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble.](xvii-bis)
 - [XVIII : Déclaration des commissions, courtages, ristournes, honoraires, des droits d'auteur, des rémunérations d'associés et des parts de bénéfices](xviii)

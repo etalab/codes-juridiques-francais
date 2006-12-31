@@ -17,3 +17,5 @@ f. Etat mentionné au onzième alinéa du a ter du I de l'article 219.
 Pour les documents mentionnés aux a, b et c, l'amende s'applique au seul exercice au titre duquel l'infraction est mise en évidence et le taux est ramené à 1 % lorsque les sommes correspondantes sont réellement déductibles.
 
 II. - Entraîne l'application d'une amende égale à 5 % des résultats de la société scindée non imposés en application des dispositions prévues aux articles 210 A et 210 B, le défaut de production ou le caractère inexact ou incomplet de l'état prévu au III de l'article 54 septies.
+
+III. - Entraîne l'application d'une amende égale à 5 % du prix de revient du bien donné en location ou mis à disposition sous toute autre forme le défaut de production de la déclaration prévue à l'article 54 octies.
