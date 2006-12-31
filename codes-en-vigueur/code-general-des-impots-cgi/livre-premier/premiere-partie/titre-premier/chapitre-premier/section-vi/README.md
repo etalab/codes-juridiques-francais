@@ -4,6 +4,7 @@
 - [Article 201 ter](article-201-ter.md)
 - [Article 202](article-202.md)
 - [Article 202 ter](article-202-ter.md)
+- [Article 202 ter A](article-202-ter-a.md)
 - [Article 202 quater](article-202-quater.md)
 - [Article 203](article-203.md)
 - [Article 204](article-204.md)

@@ -12,7 +12,7 @@ Le taux du prélèvement est diminué :
 
 1° Pour les essences ou le superéthanol E85, du rapport entre les quantités de produits mentionnés aux b et c du 1 de l'article 265 bis A inscrites dans les certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique inférieur, de ces carburants, soumises au prélèvement ;
 
-2° Pour le gazole, du rapport entre les quantités de produits mentionnés au a du 1 de l'article précité inscrites dans les certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique inférieur, de ce carburant, soumises au prélèvement.
+2° Pour le gazole, du rapport entre les quantités de produits mentionnés aux a et d du 1 de l'article précité inscrites dans les certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique inférieur, de ce carburant, soumises au prélèvement.
 
 IV. - Le fait générateur intervient et le prélèvement supplémentaire est exigible lors de la mise à la consommation des produits mentionnés au I à usage de carburant.
 

@@ -1,4 +1,4 @@
-# Section VI : Assurances sur la vie en temps de guerre.
+# Section VI : Assurances sur la vie à capital variable immobilier.
 
 - [Article L160-10](article-l160-10.md)
 - [Article L160-11](article-l160-11.md)
@@ -10,3 +10,4 @@
 - [Article L160-17](article-l160-17.md)
 - [Article L160-18](article-l160-18.md)
 - [Article L160-19](article-l160-19.md)
+- [Article L160-20](article-l160-20.md)

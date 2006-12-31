@@ -22,6 +22,6 @@ c) Le montant du déficit qui ne peut plus être imputé du fait de la sortie du
 
 7. (Périmé)
 
-8. Un document indiquant les sociétés du groupe relevant des dispositions des articles 44 octies et 44 decies du code général des impôts, comportant les éléments nécessaires au calcul de la fraction du bénéfice et de la plus-value nette à long terme d'ensemble exonérés en application du III de l'article 44 octies et du neuvième alinéa du I de l'article 44 decies du code général des impôts.
+8. Un document indiquant les sociétés du groupe relevant des dispositions des articles 44 octies, 44 octies A et 44 decies du code général des impôts, comportant les éléments nécessaires au calcul de la fraction du bénéfice et de la plus-value nette à long terme d'ensemble exonérés en application du III de l'article 44 octies, du III de l'article 44 octies A et du neuvième alinéa du I de l'article 44 decies du code général des impôts.
 
 Ces renseignements sont présentés sur des documents conformes aux modèles établis par l'administration.

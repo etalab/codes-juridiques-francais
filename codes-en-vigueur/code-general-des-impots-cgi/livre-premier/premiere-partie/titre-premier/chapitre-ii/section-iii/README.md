@@ -42,3 +42,4 @@
 - [Article 217 quaterdecies](article-217-quaterdecies.md)
 - [Article 217 quindecies](article-217-quindecies.md)
 - [Article 217 sexdecies](article-217-sexdecies.md)
+- [Article 217 septdecies](article-217-septdecies.md)

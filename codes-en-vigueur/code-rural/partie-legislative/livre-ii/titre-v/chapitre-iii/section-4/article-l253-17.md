@@ -24,7 +24,7 @@ II. - Est puni de six mois d'emprisonnement et de 30000 euros d'amende :
 
 III. - Est puni de six mois d'emprisonnement et de 7500 euros d'amende le fait de mettre obstacle à l'exercice des fonctions des agents habilités en vertu de l'article L. 253-14.
 
-IV. - Les personnes physiques coupables de l'une des infractions prévues au présent article encourent également la peine complémentaire de l'affichage ou de la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 du code pénal.
+IV. - Les personnes physiques coupables de l'une des infractions prévues au présent article encourent également la peine complémentaire de l'affichage et de la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 du code pénal.
 
 Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code pénal des infractions prévues au présent article.
 

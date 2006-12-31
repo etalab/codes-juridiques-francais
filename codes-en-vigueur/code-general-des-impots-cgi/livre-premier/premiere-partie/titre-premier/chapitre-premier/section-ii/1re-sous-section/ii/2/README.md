@@ -68,6 +68,7 @@
 - [Article 39 AH](article-39-ah.md)
 - [Article 39 AI](article-39-ai.md)
 - [Article 39 AJ](article-39-aj.md)
+- [Article 39 AK](article-39-ak.md)
 - [Article 39 B](article-39-b.md)
 - [Article 39 E](article-39-e.md)
 - [Article 39 F](article-39-f.md)

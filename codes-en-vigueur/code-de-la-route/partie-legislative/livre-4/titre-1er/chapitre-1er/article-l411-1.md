@@ -30,4 +30,4 @@ Ces dispositions ne s'appliquent pas aux véhicules utilisés pour assurer une m
 
 " Art.L. 2213-5-Le maire peut, par arrêté motivé, interdire l'accès de certaines voies ou de certaines portions de voies aux véhicules de transport de matières dangereuses visées par la directive 82 / 501 du Conseil du 24 juin 1982 concernant les risques d'accidents majeurs de certaines activités industrielles et de nature à compromettre la sécurité publique. "
 
-" Art.L. 2213-6-Le maire peut, moyennant le paiement de droits fixés par un tarif dûment établi, donner des permis de stationnement ou de dépôt temporaire sur la voie publique, sur les rivières, ports et quais fluviaux et autres lieux publics, sous réserve que cette autorisation n'entraîne aucune gêne pour la circulation, la navigation et la liberté du commerce. "
+" Art.L. 2213-6-Le maire peut, moyennant le paiement de droits fixés par un tarif dûment établi, donner des permis de stationnement ou de dépôt temporaire sur la voie publique et autres lieux publics, sous réserve que cette autorisation n'entraîne aucune gêne pour la circulation, la navigation et la liberté du commerce. "

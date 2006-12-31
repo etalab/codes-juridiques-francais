@@ -42,3 +42,5 @@
 - [Article 244 quater M](article-244-quater-m.md)
 - [Article 244 quater N](article-244-quater-n.md)
 - [Article 244 quater O](article-244-quater-o.md)
+- [Article 244 quater P](article-244-quater-p.md)
+- [Article 244 quater R](article-244-quater-r.md)

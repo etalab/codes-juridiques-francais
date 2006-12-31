@@ -14,3 +14,4 @@
 - [Section 12 : Stationnement payant à durée limitée sur voirie](section-12)
 - [Section 13 : Taxe sur les activités commerciales non salariées à durée saisonnière](section-13)
 - [Section 14 : Taxe sur les déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés ou un incinérateur de déchets ménagers](section-14)
+- [Section 15 : Taxe pour la collecte, le transport, le stockage et le traitement des eaux pluviales](section-15)

@@ -12,7 +12,7 @@ Le crédit d'impôt négatif qui trouvait son origine en 2003 ou au cours d'une 
 
 En cas de fusion ou opération assimilée, la part en accroissement négative du crédit d'impôt de la société apporteuse non encore imputée est transférée à la société bénéficiaire de l'apport.
 
-A l'exception du crédit d'impôt imputable par la société mère dans les conditions prévues à l'article 223 O, le crédit d'impôt est plafonné pour chaque entreprise, y compris les sociétés de personnes, à 10 000 000 euros. Il s'apprécie en prenant en compte la fraction de la part en accroissement et de la part en volume du crédit d'impôt correspondant aux parts des associés de sociétés de personnes mentionnées aux articles 8 et 238 bis L et aux droits des membres de groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C, le cas échéant majoré de la part en accroissement et de la part en volume calculées au titre des dépenses de recherche que ces associés ou membres ont exposées.
+A l'exception du crédit d'impôt imputable par la société mère dans les conditions prévues à l'article 223 O, le crédit d'impôt est plafonné pour chaque entreprise, y compris les sociétés de personnes, à 16 000 000 euros. Il s'apprécie en prenant en compte la fraction de la part en accroissement et de la part en volume du crédit d'impôt correspondant aux parts des associés de sociétés de personnes mentionnées aux articles 8 et 238 bis L et aux droits des membres de groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C, le cas échéant majoré de la part en accroissement et de la part en volume calculées au titre des dépenses de recherche que ces associés ou membres ont exposées.
 
 Lorsque la somme de la part en volume et de la part en accroissement du crédit d'impôt des sociétés et groupements visés à la dernière phrase de l'alinéa précédent excède le plafond mentionné à ce même alinéa, le montant respectif de ces parts pris en compte pour le calcul du crédit d'impôt dont bénéficient leurs associés ou leurs membres est égal au montant du plafond multiplié par le rapport entre le montant respectif de chacune de ces parts et leur somme avant application du plafond. Lorsque la part en accroissement est négative, la part en volume prise en compte est limitée au plafond précité et la part en accroissement prise en compte est la part en accroissement multipliée par le rapport entre le plafond et le montant de la part en volume.
 
@@ -42,11 +42,11 @@ d bis) Les dépenses exposées pour la réalisation d'opérations de même natur
 
 d ter) Les dépenses mentionnées aux d et d bis entrent dans la base de calcul du crédit d'impôt recherche dans la limite globale de deux millions d'euros par an. Cette limite est portée à 10 millions d'euros pour les dépenses de recherche correspondant à des opérations confiées aux organismes mentionnés aux d et d bis, à la condition qu'il n'existe pas de lien de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre l'entreprise qui bénéficie du crédit d'impôt et ces organismes ;
 
-e) Les frais de prise et de maintenance de brevets et de certificats d'obtention végétale (1) ;
+e) Les frais de prise et de maintenance de brevets et de certificats d'obtention végétale ;
 
-e bis) Les frais de défense de brevets et de certificats d'obtention végétale (1) ;
+e bis) Les frais de défense de brevets et de certificats d'obtention végétale ;
 
-f) Les dotations aux amortissements des brevets et des certificats d'obtention végétale (1) acquis en vue de réaliser des opérations de recherche et de développement expérimental ;
+f) Les dotations aux amortissements des brevets et des certificats d'obtention végétale acquis en vue de réaliser des opérations de recherche et de développement expérimental ;
 
 g) Les dépenses de normalisation afférentes aux produits de l'entreprise, définies comme suit, pour la moitié de leur montant :
 

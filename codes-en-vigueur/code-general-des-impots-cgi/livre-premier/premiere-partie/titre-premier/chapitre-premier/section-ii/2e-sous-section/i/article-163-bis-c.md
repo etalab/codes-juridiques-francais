@@ -6,7 +6,7 @@ Lorsque les actions ont été acquises à la suite d'options consenties par une 
 
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles ces actions peuvent exceptionnellement être négociées avant l'expiration de ce délai.
 
-I bis. L'échange sans soulte d'actions résultant d'une opération d'offre publique, de fusion, de scission, de division ou de regroupement réalisée conformément à la réglementation en vigueur, ou de l'apport à une société créée conformément aux dispositions des articles 83 ter, 199 terdecies A et 220 quater ne fait pas perdre le bénéfice des dispositions du premier alinéa du I. Les conditions mentionnées à cet alinéa continuent à être applicables aux actions reçues en échange.
+I bis. L'échange sans soulte d'actions résultant d'une opération d'offre publique, de fusion, de scission, de division ou de regroupement réalisée conformément à la réglementation en vigueur, ou de l'apport à une société créée dans les conditions prévues à l'article 220 nonies ne fait pas perdre le bénéfice des dispositions du premier alinéa du I. Les conditions mentionnées à cet alinéa continuent à être applicables aux actions reçues en échange.
 
 II. - Si les conditions prévues au I ne sont pas remplies, l'avantage mentionné à l'article 80 bis est ajouté au revenu imposable de l'année au cours de laquelle le salarié aura converti les actions au porteur, en aura disposé ou les aura données en location.
 

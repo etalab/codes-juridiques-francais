@@ -10,7 +10,7 @@ Les dispositions du 1 ne sont pas applicables lorsque le contribuable ou l'un de
 
 a) Monuments historiques et assimilés ou immeubles en nue-propriété, donnés en location et visés au 3° du I de l'article 156 ;
 
-b) Immeubles au titre desquels est demandé le bénéfice des dispositions du b ter du 1° du I de l'article 31 ou de celles du deuxième alinéa du 3° du I de l'article 156 ;
+b) Immeubles au titre desquels est demandé le bénéfice des dispositions du b ter du 1° du I de l'article 31 ou de celles des deuxième et troisième alinéas alinéa du 3° du I de l'article 156 ;
 
 c) Logements au titre desquels est demandé le bénéfice de l'une des déductions prévues aux j et k du 1° du I de l'article 31 ou de l'une des déductions au titre de l'amortissement prévues aux f, g et h du 1° du I de l'article 31 ;
 

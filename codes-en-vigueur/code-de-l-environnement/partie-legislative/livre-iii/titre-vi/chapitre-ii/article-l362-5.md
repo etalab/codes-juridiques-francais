@@ -6,4 +6,4 @@ a) Les agents énumérés à l'article 22 du code de procédure pénale ;
 
 b) Les fonctionnaires et agents commissionnés et assermentés au titre de la protection de la nature par le ministre chargé de l'environnement ;
 
-c) Les agents commissionnés et assermentés de l'Office national des forêts, de l'Office national de la chasse et de la faune sauvage, du Conseil supérieur de la pêche et des parcs nationaux.
+c) Les agents commissionnés et assermentés de l'Office national des forêts, de l'Office national de la chasse et de la faune sauvage, de l'Office national de l'eau et des milieux aquatiques et des parcs nationaux.

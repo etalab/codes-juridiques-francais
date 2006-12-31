@@ -6,9 +6,9 @@ Par dérogation au premier alinéa, les personnes physiques, les associés perso
 
 2. 1° Lorsque le prélèvement est dû par des contribuables assujettis à l'impôt sur le revenu, les plus-values sont déterminées selon les modalités définies :
 
-a. au I et aux 2° à 6° du II de l'article 150 U, aux II et III de l'article 150 UB et aux articles 150 V à 150 VE ;
+a. Au I et aux 2° à 8° du II de l'article 150 U, aux II et III de l'article 150 UB et aux articles 150 V à 150 VE ;
 
-b. au III de l'article 150 U lorsqu'elles s'appliquent à des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale.
+b. Au III de l'article 150 U lorsqu'elles s'appliquent à des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale.
 
 Lorsque la plus-value est exonérée en application du 6° du II de l'article 150 U ou par l'application de l'abattement prévu au I de l'article 150 VC, aucune déclaration ne doit être déposée, sauf dans le cas où le prélèvement afférent à la plus-value en report est dû ;
 

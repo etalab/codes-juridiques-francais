@@ -8,8 +8,8 @@ La taxe est due au titre des billets émis à compter du premier jour du quatri�
 
 La taxe est constatée, recouvrée et contrôlée par le service des douanes sous les mêmes garanties, privilèges et sanctions qu'en matière de droits de douane.
 
-Une part égale à 30 % du produit de la taxe est affectée au budget des communes classées comme stations balnéaires. Ce prélèvement est réparti entre les communes concernées au prorata de leur population.
+Une part égale à 30 % du produit de la taxe est affectée au budget des communes littorales érigées en stations classées de tourisme au sens de l'article L. 133-13 du code du tourisme. Ce prélèvement est réparti entre les communes concernées au prorata de leur population.
 
 L'Etat perçoit sur le produit de cette taxe un prélèvement pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit.
 
-Ces dispositions s'appliquent jusqu'au 31 décembre 2006.
+Ces dispositions s'appliquent jusqu'au 31 décembre 2011.

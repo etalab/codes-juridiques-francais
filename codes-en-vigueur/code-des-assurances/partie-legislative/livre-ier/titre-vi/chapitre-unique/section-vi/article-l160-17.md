@@ -1,3 +1,3 @@
 # Article L160-17
 
-En ce qui concerne les assurances souscrites auprès de la caisse nationale de prévoyance, des décrets, pris après avis de la commission supérieure de ladite caisse, fixent les conditions d'application de la présente section, et déterminent la quotité de la provision mathématique à rembourser aux ayants droit des assurés morts en état de mobilisation.
+Pour les contrats d'assurance sur la vie ou de capitalisation, lorsque le souscripteur ou l'adhérent exerce sa faculté de rachat moins de deux mois après la substitution mentionnée à l'article L. 160-11, il ne peut lui être appliqué l'indemnité mentionnée au deuxième alinéa de l'article L. 331-2, nonobstant toute convention contraire.

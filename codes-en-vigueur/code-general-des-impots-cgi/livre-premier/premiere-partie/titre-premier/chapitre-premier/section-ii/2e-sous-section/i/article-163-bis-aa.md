@@ -2,7 +2,7 @@
 
 Les sommes revenant aux salariés au titre de la participation des salariés aux résultats de l'entreprise, en application du chapitre II du titre IV du livre IV du code du travail, sont exonérées d'impôt sur le revenu.
 
-L'exonération porte seulement sur la moitié des sommes en cause lorsque la durée de l'indisponibilité a été fixée à trois ans. Toutefois, l'exonération est totale lorsque les sommes reçues sont, à la demande des salariés, affectées aux plans d'épargne constitués conformément au chapitre III du titre IV du livre IV du code du travail dans les conditions prévues au dixième alinéa de l'article L. 442-5 du code précité. Les dispositions de l'article L443-6 de ce code sont alors applicables.
+L'exonération porte seulement sur la moitié des sommes en cause lorsque la durée de l'indisponibilité a été fixée à trois ans. Toutefois, l'exonération est totale lorsque les sommes reçues sont, à la demande des salariés, affectées aux plans d'épargne constitués conformément au chapitre III du titre IV du livre IV du code du travail dans les conditions prévues à l'article L. 442-5 du code précité. Les dispositions de l'article L443-6 de ce code sont alors applicables.
 
 Les revenus provenant de sommes attribuées au titre de la participation et recevant la même affectation qu'elles, sont exonérés dans les mêmes conditions. Ils se trouvent alors frappés de la même indisponibilité que ces sommes et sont définitivement exonérés à l'expiration de la période d'indisponibilité correspondante. Par dérogation aux dispositions de l'article 199 ter, les crédits d'impôt attachés à ces revenus sont restituables. Ils sont exonérés dans les mêmes conditions que ces revenus.
 

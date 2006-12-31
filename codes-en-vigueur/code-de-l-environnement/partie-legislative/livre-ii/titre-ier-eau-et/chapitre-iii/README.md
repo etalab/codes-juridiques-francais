@@ -2,6 +2,7 @@
 
 - [Section 1 : Comité national de l'eau](section-1)
 - [Section 2 : Comités de bassin](section-2)
+- [Section 2 bis : Préfet coordonnateur de bassin](section-2-bis)
 - [Section 3 : Agences de l'eau](section-3)
 - [Section 4 : Fonds national de l'eau](section-4)
 - [Section 5 : Communautés locales de l'eau](section-5)

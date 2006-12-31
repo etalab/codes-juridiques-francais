@@ -8,7 +8,7 @@ Sont habilités à constater les infractions aux dispositions des articles L. 33
 
 3° Les agents de l'Etat et de l'Office national des forêts commissionnés pour constater les infractions en matière forestière, de chasse, de pêche, d'inspection sanitaire, de protection des animaux ou de protection des végétaux, dans l'étendue des circonscriptions pour lesquelles ils sont assermentés ;
 
-4° Les agents assermentés et commissionnés des parcs nationaux, ceux de l'Office national de la chasse et de la faune sauvage et du Conseil supérieur de la pêche ;
+4° Les agents assermentés et commissionnés des parcs nationaux, ceux de l'Office national de la chasse et de la faune sauvage et de l'Office national de l'eau et des milieux aquatiques ;
 
 4° bis Les gardes champêtres ;
 

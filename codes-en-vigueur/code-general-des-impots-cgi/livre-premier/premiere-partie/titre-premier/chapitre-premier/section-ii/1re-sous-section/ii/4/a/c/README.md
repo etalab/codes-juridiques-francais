@@ -7,6 +7,7 @@
 - [Article 54 quater](article-54-quater.md)
 - [Article 54 sexies](article-54-sexies.md)
 - [Article 54 septies](article-54-septies.md)
+- [Article 54 octies](article-54-octies.md)
 - [Article 55](article-55.md)
 - [Article 56](article-56.md)
 - [Article 57](article-57.md)

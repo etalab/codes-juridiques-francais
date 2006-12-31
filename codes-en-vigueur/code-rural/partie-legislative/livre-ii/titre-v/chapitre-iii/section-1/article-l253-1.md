@@ -22,4 +22,4 @@ e) Détruire des parties de végétaux, freiner ou prévenir une croissance ind�
 
 III. - Un produit phytopharmaceutique dont la mise sur le marché au sens du 2° du II est soumise à autorisation et ne bénéficiant pas d'une telle autorisation sur le territoire français peut y être produit, stocké et peut circuler dans la mesure où ce produit est autorisé dans un autre Etat membre de la Communauté européenne.
 
-IV. - Les dispositions du présent chapitre s'appliquent également aux adjuvants vendus seuls ou en mélange et destinés à améliorer les conditions d'utilisation des produits phytopharmaceutiques.
+IV. - Les dispositions du présent chapitre s'appliquent également aux adjuvants vendus seuls ou en mélange et destinés à améliorer les conditions d'utilisation des produits phytopharmaceutiques.    Ces dispositions ne s'appliquent pas aux préparations naturelles peu préoccupantes, qui relèvent d'une procédure simplifiée, fixée, ainsi que la définition de ces préparations, par décret.

@@ -1,5 +1,7 @@
 # Article L432-3
 
-Lorsqu'ils sont de nature à détruire les frayères, les zones de croissance ou les zones d'alimentation ou de réserves de nourriture de la faune piscicole, l'installation ou l'aménagement d'ouvrages, ainsi que l'exécution de travaux dans le lit d'un cours d'eau sont soumis à autorisation. Le défaut d'autorisation est puni de 18 000 euros d'amende.
+Le fait de détruire les frayères ou les zones de croissance ou d'alimentation de la faune piscicole est puni de 20 000 euros d'amende, à moins qu'il ne résulte d'une autorisation ou d'une déclaration dont les prescriptions ont été respectées ou de travaux d'urgence exécutés en vue de prévenir un danger grave et imminent.
 
-L'autorisation délivrée en application du présent article fixe des mesures compensatoires visant à remettre en état le milieu naturel aquatique.
+Un décret en Conseil d'Etat fixe les critères de définition des frayères et des zones mentionnées au premier alinéa, les modalités de leur identification et de l'actualisation de celle-ci par l'autorité administrative, ainsi que les conditions dans lesquelles sont consultées les fédérations départementales ou interdépartementales des associations agréées de pêche et de protection du milieu aquatique.
+
+Le tribunal peut en outre ordonner la publication d'un extrait du jugement aux frais de l'auteur de l'infraction dans deux journaux qu'il désigne.

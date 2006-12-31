@@ -234,7 +234,7 @@ Ex 3811, Préparations antidétonantes, inhibiteurs d'oxydation, additifs peptis
 
 2. Une réfaction peut être effectuée sur les taux de taxe intérieure de consommation applicable au supercarburant repris à l'indice d'identification 11 et au gazole repris à l'indice d'identification 22.
 
-Pour l'année 2006, le montant de cette réfaction est de 1,77 euro par hectolitre pour le supercarburant et de 1,15 euro par hectolitre pour le gazole.
+A compter du 1er janvier 2006, le montant de cette réfaction est de 1,77 euro par hectolitre pour le supercarburant et de 1,15 euro par hectolitre pour le gazole.
 
 A compter du 1er janvier 2007, les conseils régionaux et l'assemblée de Corse peuvent réduire ou augmenter le montant de la réfaction du taux de la taxe intérieure de consommation applicable aux carburants vendus aux consommateurs finals sur leur territoire dans la double limite de la fraction de tarif affectée à chaque région et à la collectivité territoriale de Corse en vertu du I de l'article 40 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006 relatif à la compensation financière des transferts de compétences aux régions et de respectivement 1,77 euro par hectolitre pour le supercarburant mentionné à l'indice d'identification 11 et 1,15 euro par hectolitre pour le gazole mentionné à l'indice d'identification 22.
 

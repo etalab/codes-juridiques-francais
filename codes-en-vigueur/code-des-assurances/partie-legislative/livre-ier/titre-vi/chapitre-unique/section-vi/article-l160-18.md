@@ -1,9 +1,3 @@
 # Article L160-18
 
-Des décrets, pris après avis du conseil national des assurances, déterminent les modalités et les bases des calculs et opérations nécessités par l'application de la présente section.
-
-Ces décrets fixent notamment :
-
-1° L'application des règles posées par la présente section à l'égard des assurances en cas de décès et des assurances en cas de vie aux opérations d'assurances qui comprennent à la fois une assurance en cas de décès et une assurance en cas de vie ;
-
-2° Le mode de calcul de la part des primes d'assurances en cas de décès qui vient normalement en accroissement de la provision mathématique ou de la valeur de rachat.
+Lorsqu'une société mentionnée à l'article L. 160-10 ou une société civile de placement immobilier adopte le régime des sociétés de placement à prépondérance immobilière à capital variable dans les conditions définies à la présente section, cette opération n'entraîne aucun frais direct ou indirect pour les souscripteurs ou adhérents de contrats d'assurance vie et de capitalisation dont une unité de compte est constituée de parts d'une telle société.

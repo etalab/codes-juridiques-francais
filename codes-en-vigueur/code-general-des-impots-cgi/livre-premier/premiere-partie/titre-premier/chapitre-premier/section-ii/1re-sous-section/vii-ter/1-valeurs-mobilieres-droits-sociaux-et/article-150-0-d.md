@@ -44,7 +44,7 @@ Pour les actions acquises avant le 1er janvier 1990, le prix d'acquisition est r
 
 12. Les pertes constatées en cas d'annulation de valeurs mobilières, de droits sociaux, ou de titres assimilés sont imputables, dans les conditions mentionnées au 11, l'année au cours de laquelle intervient soit la réduction du capital de la société, en exécution d'un plan de redressement mentionné à l'article L. 631-19 du code de commerce, soit la cession de l'entreprise ordonnée par le tribunal en application de l'article L. 631-22 de ce code, soit le jugement de clôture de la liquidation judiciaire.
 
-Par exception aux dispositions du premier alinéa, préalablement à l'annulation des titres, les pertes sur valeurs mobilières, droits sociaux ou titres assimilés peuvent, sur option expresse du détenteur, être imputées dans les conditions prévues au 11, à compter de l'année au cours de laquelle intervient le jugement ordonnant la cession de l'entreprise en application de l'article L. 631-22 du code de commerce, en l'absence de tout plan de continuation, ou prononçant sa liquidation judiciaire. L'option porte sur l'ensemble des valeurs mobilières, droits sociaux ou titres assimilés détenus dans la société faisant l'objet de la procédure collective et s'exerce concomitamment à celle prévue au I de l'article 163 octodecies A. En cas d'infirmation du jugement ou de résolution du plan de cession, la perte imputée ou reportée est reprise au titre de l'année au cours de laquelle intervient cet événement.
+Par exception aux dispositions du premier alinéa, préalablement à l'annulation des titres, les pertes sur valeurs mobilières, droits sociaux ou titres assimilés peuvent, sur option expresse du détenteur, être imputées dans les conditions prévues au 11, à compter de l'année au cours de laquelle intervient le jugement ordonnant la cession de l'entreprise en application de l'article L. 631-22 du code de commerce, en l'absence de tout plan de continuation, ou prononçant sa liquidation judiciaire. L'option porte sur l'ensemble des valeurs mobilières, droits sociaux ou titres assimilés détenus dans la société faisant l'objet de la procédure collective. En cas d'infirmation du jugement ou de résolution du plan de cession, la perte imputée ou reportée est reprise au titre de l'année au cours de laquelle intervient cet événement.
 
 Les dispositions des premier et deuxième alinéas ne s'appliquent pas :
 
@@ -58,9 +58,9 @@ La perte nette constatée est minorée, en tant qu'elle se rapporte aux titres c
 
 a. Des sommes ou valeurs remboursées dans la limite du prix d'acquisition des titres correspondants.
 
-b. De la déduction prévue à l'article 163 septdecies ;
+b. Des sommes ayant ouvert droit à la réduction d'impôt en application de l'article 199 unvicies.
 
-c. De la déduction opérée en application de l'article 163 octodecies A.
+c. abrogé
 
 14. Par voie de réclamation présentée dans le délai prévu au livre des procédures fiscales en matière d'impôt sur le revenu, le prix de cession des titres ou des droits retenu pour la détermination des gains nets mentionnés au 1 du I de l'article 150-0 A est diminué du montant du versement effectué par le cédant en exécution de la clause du contrat de cession par laquelle le cédant s'engage à reverser au cessionnaire tout ou partie du prix de cession en cas de révélation, dans les comptes de la société dont les titres sont l'objet du contrat, d'une dette ayant son origine antérieurement à la cession ou d'une surestimation de valeurs d'actif figurant au bilan de cette même société à la date de la cession.
 
