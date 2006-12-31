@@ -5,5 +5,4 @@
 - [Section 3 : Agences de l'eau](section-3)
 - [Section 4 : Fonds national de l'eau](section-4)
 - [Section 5 : Communautés locales de l'eau](section-5)
-- [Section 6 : Organismes à vocation de maîtrise d'ouvrage](section-6)
 - [Section 7 : Offices de l'eau des départements d'outre-mer](section-7)

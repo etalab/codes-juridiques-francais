@@ -5,3 +5,5 @@ Le professionnel prestataire de services informe le consommateur par écrit, au 
 Lorsque cette information ne lui a pas été adressée conformément aux dispositions du premier alinéa, le consommateur peut mettre gratuitement un terme au contrat, à tout moment à compter de la date de reconduction. Les avances effectuées après la dernière date de reconduction ou, s'agissant des contrats à durée indéterminée, après la date de transformation du contrat initial à durée déterminée, sont dans ce cas remboursées dans un délai de trente jours à compter de la date de résiliation, déduction faite des sommes correspondant, jusqu'à celle-ci, à l'exécution du contrat. A défaut de remboursement dans les conditions prévues ci-dessus, les sommes dues sont productives d'intérêts au taux légal.
 
 Les dispositions du présent article s'appliquent sans préjudice de celles qui soumettent légalement certains contrats à des règles particulières en ce qui concerne l'information du consommateur.
+
+Les trois alinéas précédents ne sont pas applicables aux exploitants des services d'eau potable et d'assainissement.

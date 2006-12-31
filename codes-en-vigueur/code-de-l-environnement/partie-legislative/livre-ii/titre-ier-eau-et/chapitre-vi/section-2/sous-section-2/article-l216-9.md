@@ -1,6 +1,6 @@
 # Article L216-9
 
-En cas de poursuite pour infraction aux dispositions des articles L. 216-6 et L. 216-8 ou pour infraction à une obligation de déclaration ou à toute autre obligation résultant des articles mentionnés à l'article L. 216-5, ou des règlements ou décisions individuelles pris pour leur application, le tribunal peut, après avoir déclaré le prévenu coupable, décider l'ajournement du prononcé de la peine en lui enjoignant de respecter les prescriptions auxquelles il a été contrevenu.
+En cas de poursuite pour infraction aux dispositions des articles L. 216-6, L. 216-7 et L. 216-8 ou pour infraction à une obligation de déclaration ou à toute autre obligation résultant des articles mentionnés à l'article L. 216-5, ou des règlements ou décisions individuelles pris pour leur application, le tribunal peut, après avoir déclaré le prévenu coupable, décider l'ajournement du prononcé de la peine en lui enjoignant de respecter les prescriptions auxquelles il a été contrevenu.
 
 Le tribunal impartit un délai pour l'exécution de ces prescriptions. Il peut assortir l'injonction d'une astreinte dont il fixe le taux et la durée maximum. Son montant est de 15 euros à 3 000 euros par jour de retard dans l'exécution des mesures imposées.
 

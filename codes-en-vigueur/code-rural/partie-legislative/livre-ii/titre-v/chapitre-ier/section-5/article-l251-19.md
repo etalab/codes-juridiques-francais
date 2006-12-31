@@ -1,6 +1,6 @@
 # Article L251-19
 
-I. - Dans le cadre des inspections et des contrôles phytosanitaires, les agents visés au I de l'article L. 251-18 et au I de l'article L. 251-14 ont accès aux locaux, installations, lieux, véhicules de transport à usage professionnel, à l'exclusion des domiciles et de la partie des locaux à usage de domicile.
+I. - Dans le cadre des inspections et des contrôles phytosanitaires, les agents visés au I de l'article L. 251-18 et au I de l'article L. 251-14 et, dans le cadre de la recherche d'infractions à l'article L. 256-2 et aux textes pris pour son application, les agents mentionnés à ce même article ont accès aux locaux, installations, lieux, véhicules de transport à usage professionnel, à l'exclusion des domiciles et de la partie des locaux à usage de domicile.
 
 A l'exception des contrôles à l'importation, cet accès a lieu entre 8 heures et 20 heures ou en dehors de ces heures lorsque l'accès au public est autorisé ou, lorsqu'une activité est en cours, en présence du directeur de l'établissement ou de son représentant ou, à défaut, d'un membre du personnel.
 
@@ -8,7 +8,7 @@ Un procès-verbal d'inspection et de contrôle est établi et une copie en est r
 
 Ces agents peuvent recueillir sur convocation ou sur place les renseignements propres à l'accomplissement de leur mission et en prendre copie.
 
-Ils peuvent également prélever des échantillons de végétaux, produits végétaux et autres objets afin de vérifier qu'ils sont indemnes d'organismes nuisibles.
+Dans le cadre des inspections et des contrôles phytosanitaires, ils peuvent également prélever des échantillons de végétaux, produits végétaux et autres objets afin de vérifier qu'ils sont indemnes d'organismes nuisibles.
 
 Dans l'attente des résultats d'analyses d'échantillons, ces agents peuvent prononcer la mise en quarantaine de ces végétaux, produits végétaux ou autres objets, jusqu'à ce que les résultats d'analyse soient disponibles.
 
