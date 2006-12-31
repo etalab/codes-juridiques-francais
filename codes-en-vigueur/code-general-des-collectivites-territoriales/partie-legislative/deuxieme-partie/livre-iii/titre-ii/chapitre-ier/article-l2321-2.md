@@ -16,10 +16,6 @@ Les dépenses obligatoires comprennent notamment :
 
 7° Les dépenses de personnel et de matériel relatives au service d'incendie et de secours.
 
-Toutefois, sans préjudice des dispositions applicables aux activités réglementées, les communes peuvent exiger des intéressés ou de leurs ayants droit une participation aux frais qu'elles ont engagés à l'occasion d'opérations de secours consécutives à la pratique de toute activité sportive ou de loisir. Elles déterminent les conditions dans lesquelles s'effectue cette participation, qui peut porter sur tout ou partie des dépenses.
-
-Les communes sont tenues d'informer le public des conditions d'application de l'alinéa précédent sur leur territoire, par un affichage approprié en mairie et, le cas échéant, dans tous les lieux où sont apposées les consignes relatives à la sécurité.
-
 8° Les pensions à la charge de la commune lorsqu'elles ont été régulièrement liquidées et approuvées ;
 
 9° Les dépenses dont elle a la charge en matière d'éducation nationale ;
@@ -36,7 +32,7 @@ Les communes sont tenues d'informer le public des conditions d'application de l'
 
 15° Les dépenses de prospections, traitements, travaux et contrôles nécessaires à l'action de lutte contre les moustiques conformément à l'article 1er de la loi n° 64-1246 du 16 décembre 1964 relative à la lutte contre les moustiques et à l'article 65 de la loi de finances pour 1975 (n° 74-1129 du 30 décembre 1974) ;
 
-16° Les dépenses relatives au système d'assainissement collectif mentionnées au premier alinéa de l'article L. 2224-8 ;
+16° Les dépenses relatives au système d'assainissement collectif mentionnées au II de l'article L. 2224-8 ;
 
 17° Les dépenses liées à la police de la salubrité visées à l'article L. 2213-30 ;
 
