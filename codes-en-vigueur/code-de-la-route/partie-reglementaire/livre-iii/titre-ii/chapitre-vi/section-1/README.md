@@ -1,4 +1,4 @@
-# Section 1 : Véhicules gravement accidentés.
+# Section 1 : Règles générales.
 
 - [Article R326-1](article-r326-1.md)
 - [Article R326-2](article-r326-2.md)

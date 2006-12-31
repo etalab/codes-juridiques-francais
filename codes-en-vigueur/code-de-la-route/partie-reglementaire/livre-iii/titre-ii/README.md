@@ -4,5 +4,5 @@
 - [Chapitre II : Immatriculation](chapitre-ii)
 - [Chapitre III : Contrôle technique](chapitre-iii)
 - [Chapitre V : Immobilisation et mise en fourrière](chapitre-v)
-- [Chapitre VI : Véhicules accidentés](chapitre-vi)
-- [Chapitre VII : Organisation de la profession d'expert en automobile.](chapitre-vii)
+- [Chapitre VI : Organisation de la profession d'expert en automobile](chapitre-vi)
+- [Chapitre VII : Véhicules accidentés](chapitre-vii)
