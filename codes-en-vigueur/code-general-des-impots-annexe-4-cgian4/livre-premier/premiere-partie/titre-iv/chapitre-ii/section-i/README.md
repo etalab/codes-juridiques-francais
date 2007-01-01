@@ -2,4 +2,3 @@
 
 - [I : Machines à timbrer](i)
 - [I bis : Timbre de dimension](i-bis)
-- [III : Timbre des quittances.](iii)

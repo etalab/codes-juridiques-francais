@@ -10,11 +10,13 @@ Les organismes mentionnés au premier alinéa du 1 bis de l'article 206 et dont 
 
 Toutefois, le montant du dernier acompte versé au titre d'un exercice ne peut être inférieur :
 
-a) Pour les entreprises ayant réalisé un chiffre d'affaires compris entre 1 milliard d'euros et 5 milliards d'euros au cours du dernier exercice clos ou de la période d'imposition, ramené s'il y a lieu à douze mois, à la différence entre les deux tiers du montant de l'impôt sur les sociétés estimé au titre de cet exercice selon les mêmes modalités que celles définies au premier alinéa et le montant des acomptes déjà versés au titre du même exercice ;
+a) Pour les entreprises ayant réalisé un chiffre d'affaires compris entre 500 millions d'euros et 1 milliard d'euros au cours du dernier exercice clos ou de la période d'imposition, ramené s'il y a lieu à douze mois, à la différence entre les deux tiers du montant de l'impôt sur les sociétés estimé au titre de cet exercice selon les mêmes modalités que celles définies au premier alinéa et le montant des acomptes déjà versés au titre du même exercice ;
 
-b) Pour les entreprises ayant réalisé un chiffre d'affaires supérieur à 5 milliards d'euros au cours du dernier exercice clos ou de la période d'imposition, ramené s'il y a lieu à douze mois, à la différence entre 80 % du montant de l'impôt sur les sociétés estimé au titre de cet exercice selon les mêmes modalités que celles définies au premier alinéa et le montant des acomptes déjà versés au titre du même exercice.
+b) Pour les entreprises ayant réalisé un chiffre d'affaires compris entre 1 milliard d'euros et 5 milliards d'euros au cours du dernier exercice clos ou de la période d'imposition, ramené s'il y a lieu à douze mois, à la différence entre 80 % du montant de l'impôt sur les sociétés estimé au titre de cet exercice selon les mêmes modalités que celles définies au premier alinéa et le montant des acomptes déjà versés au titre du même exercice ;
 
-Pour l'application des dispositions des a et b, le chiffre d'affaires est apprécié, pour la société mère d'un groupe mentionné à l'article 223 A, en faisant la somme des chiffres d'affaires de chacune des sociétés membres de ce groupe.
+c) Pour les entreprises ayant réalisé un chiffre d'affaires supérieur à 5 milliards d'euros au cours du dernier exercice clos ou de la période d'imposition, ramené s'il y a lieu à douze mois, à la différence entre 90 % du montant de l'impôt sur les sociétés estimé au titre de cet exercice selon les mêmes modalités que celles définies au premier alinéa et le montant des acomptes déjà versés au titre du même exercice.
+
+Pour l'application des dispositions des a, b et c le chiffre d'affaires est apprécié, pour la société mère d'un groupe mentionné à l'article 223 A, en faisant la somme des chiffres d'affaires de chacune des sociétés membres de ce groupe.
 
 1 bis et 1 ter. (Abrogés pour les exercices ouverts à compter du 1er janvier 1993).
 

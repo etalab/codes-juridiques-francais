@@ -7,3 +7,5 @@ Toutefois, l'imputation ou le remboursement de la taxe peuvent être effectués 
 L'imputation ou la restitution est subordonnée à la justification, auprès de l'administration, de la rectification préalable de la facture initiale.
 
 2. La taxe sur la valeur ajoutée facturée dans les conditions définies au 4 de l'article 283 ne peut faire l'objet d'aucune déduction par celui qui a reçu la facture.
+
+3. La taxe sur la valeur ajoutée afférente à une livraison de biens ne peut faire l'objet d'aucune déduction lorsqu'il est démontré que l'acquéreur savait ou ne pouvait ignorer que, par son acquisition, il participait à une fraude consistant à ne pas reverser la taxe due à raison de cette livraison.

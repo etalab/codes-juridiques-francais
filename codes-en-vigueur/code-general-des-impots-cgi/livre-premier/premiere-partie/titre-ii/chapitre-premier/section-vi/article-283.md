@@ -18,6 +18,10 @@ Toutefois, lorsque la livraison de biens ou la prestation de services est effect
 
 4. Lorsque la facture ne correspond pas à la livraison d'une marchandise ou à l'exécution d'une prestation de services, ou fait état d'un prix qui ne doit pas être acquitté effectivement par l'acheteur, la taxe est due par la personne qui l'a facturée.
 
+4 bis L'assujetti en faveur duquel a été effectuée une livraison de biens et qui savait ou ne pouvait ignorer que tout ou partie de la taxe sur la valeur ajoutée due sur cette livraison ou sur toute livraison antérieure des mêmes biens ne serait pas reversée de manière frauduleuse est solidairement tenu, avec la personne redevable, d'acquitter cette taxe.
+
+Les dispositions du premier alinéa et celles prévues au 3 de l'article 272 ne peuvent pas être cumulativement mises en oeuvre pour un même bien.
+
 5. Pour les opérations de façon, lorsque le façonnier réalise directement ou indirectement plus de 50 % de son chiffre d'affaires avec un même donneur d'ordre, ce dernier est solidairement tenu au paiement de la taxe à raison des opérations qu'ils ont réalisées ensemble. Le pourcentage de 50 % s'apprécie pour chaque déclaration mensuelle ou trimestrielle.
 
 Toutefois, ces dispositions ne sont pas applicables lorsque le donneur d'ordre établit qu'il n'a pas eu connaissance du non-respect par le façonnier de ses obligations fiscales.

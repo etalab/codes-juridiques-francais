@@ -1,12 +1,12 @@
 # Article 46 AT
 
-Pour l'application des dispositions du deuxième alinéa du I de l'article 200 quinquies du code général des impôts :
+Pour l'application des dispositions du 3 du I de l'article 200 quinquies du code général des impôts :
 
 I. - La remise d'une voiture particulière en vue de sa destruction à un organisme autorisé au titre de la législation des installations classées pour la protection de l'environnement est effectuée directement par le propriétaire du véhicule ou pour son compte par un professionnel du négoce de véhicules.
 
 L'organisme veille à la destruction complète du véhicule et remet au bénéficiaire du crédit d'impôt directement ou par l'intermédiaire du professionnel du négoce de véhicules un bon d'enlèvement conforme au modèle annexé au décret n° 2002-1432 du 9 décembre 2002 pris pour l'application de l'article 200 quinquies du code général des impôts relatif au crédit d'impôt pour l'acquisition de véhicules neufs fonctionnant au moyen d'une énergie non polluante.
 
-Le propriétaire du véhicule retiré de la circulation dont l'identité figure sur le certificat d'immatriculation et sur le bon d'enlèvement et le bénéficiaire du crédit d'impôt prévu au deuxième alinéa du I de l'article 200 quinquies précité doivent appartenir au même foyer fiscal.
+Le propriétaire du véhicule retiré de la circulation dont l'identité figure sur le certificat d'immatriculation et sur le bon d'enlèvement et le bénéficiaire du crédit d'impôt prévu au 3 du I de l'article 200 quinquies précité doivent appartenir au même foyer fiscal.
 
 II. - Le véhicule acquis ou faisant l'objet d'une première souscription d'un contrat de location avec option d'achat ou de location souscrit pour une durée d'au moins deux ans :
 

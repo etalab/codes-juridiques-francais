@@ -20,6 +20,8 @@ Dans cette hypothèse, l'exonération partielle est appliquée à la valeur des 
 
 Le bénéfice de l'exonération partielle est subordonné à la condition que les participations soient conservées inchangées à chaque niveau d'interposition pendant toute la durée de l'engagement collectif ;
 
+En cas de non-respect des dispositions du huitième alinéa par suite d'une fusion entre sociétés interposées, l'exonération partielle accordée au titre de l'année en cours et de celles précédant cette opération n'est pas remise en cause si les signataires respectent l'engagement prévu au a jusqu'à son terme. Les titres reçus en contrepartie de la fusion doivent être conservés jusqu'au même terme.
+
 c. L'un des associés mentionnés au a exerce effectivement dans la société dont les parts ou actions font l'objet de l'engagement collectif de conservation son activité professionnelle principale si celle-ci est une société de personnes visée aux articles 8 et 8 ter, ou l'une des fonctions énumérées au 1° de l'article 885 O bis lorsque celle-ci est soumise à l'impôt sur les sociétés, de plein droit ou sur option ;
 
 d. La déclaration visée à l'article 885 W doit être appuyée d'une attestation de la société dont les parts ou actions font l'objet de l'engagement collectif de conservation certifiant que les conditions prévues aux a et b ont été remplies l'année précédant celle au titre de laquelle la déclaration est souscrite ;

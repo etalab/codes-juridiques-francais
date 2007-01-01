@@ -2,7 +2,6 @@
 
 - [Section I : Centre national du livre](section-i)
 - [Section III : Taxe destinée au financement des prestations d'assurance maladie, invalidité et maternité du régime de protection sociale des non-salariés agricoles](section-iii)
-- [Section IV : Taxe spéciale sur le prix des places de spectacles cinématographiques.](section-iv)
 - [Section VI : Taxe d'aéroport](section-vi)
 - [Section VI bis : Taxe sur les nuisances sonores aériennes](section-vi-bis)
 - [Section VIII : Taxe pour le développement de la formation professionnelle dans les métiers de la réparation de l'automobile, du cycle et du motocycle](section-viii)
