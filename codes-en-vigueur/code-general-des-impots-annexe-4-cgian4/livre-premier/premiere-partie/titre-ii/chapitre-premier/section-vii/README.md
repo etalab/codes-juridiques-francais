@@ -2,4 +2,3 @@
 
 - [I : Départements d'outre-mer](i)
 - [II : Corse](ii)
-- [III : Opérations portant sur les animaux de boucherie et de charcuterie](iii)
