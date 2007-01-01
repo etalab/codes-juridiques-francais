@@ -9,4 +9,5 @@
 - [Article R421-20](article-r421-20.md)
 - [Article R421-21](article-r421-21.md)
 - [Article R421-22](article-r421-22.md)
+- [Article R421-28](article-r421-28.md)
 - [Article R421-29](article-r421-29.md)

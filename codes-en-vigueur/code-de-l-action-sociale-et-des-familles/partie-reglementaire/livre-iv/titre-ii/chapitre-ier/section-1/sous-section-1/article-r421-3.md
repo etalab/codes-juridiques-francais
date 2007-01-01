@@ -1,7 +1,9 @@
 # Article R421-3
 
-La demande d'agrément, établie sur un formulaire dont le contenu est fixé par arrêté du ministre chargé de la famille, doit préciser notamment :
+Pour obtenir l'agrément d'assistant maternel ou d'assistant familial, le candidat doit :
 
-1° Le caractère permanent ou non permanent de l'accueil envisagé et, dans ce dernier cas, s'il s'agit d'un accueil à la journée ou à temps partiel ;
+1° Présenter les garanties nécessaires pour accueillir des mineurs dans des conditions propres à assurer leur développement physique, intellectuel et affectif ;
 
-2° Le nombre et l'âge des mineurs pour l'accueil desquels l'agrément est demandé, cet âge devant être inférieur de dix ans au moins à celui du candidat ou de la candidate.
+2° Passer un examen médical qui a pour objet de vérifier que son état de santé lui permet d'accueillir habituellement des mineurs et dont le contenu est fixé par arrêté des ministres chargés de la santé et de la famille ;
+
+3° Disposer d'un logement dont l'état, les dimensions, les conditions d'accès et l'environnement permettent d'assurer le bien-être et la sécurité des mineurs compte tenu du nombre et, s'agissant d'un candidat à l'agrément d'assistant maternel, de l'âge de ceux pour lesquels l'agrément est demandé.
