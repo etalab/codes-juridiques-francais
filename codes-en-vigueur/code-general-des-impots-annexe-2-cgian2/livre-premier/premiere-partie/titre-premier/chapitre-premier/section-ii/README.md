@@ -8,4 +8,3 @@
 - [VI : Déduction des pensions alimentaires](vi)
 - [VII : Déduction des investissements réalisés outre-mer.](vii)
 - [VIII : Modalités d'imposition des revenus et plus-values en cas de transfert du domicile fiscal hors de France](viii)
-- [0I ter : Créateurs d'entreprises.](0i-ter)
