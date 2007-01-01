@@ -14,4 +14,4 @@ VI. - La taxe n'est pas due en cas de vacance indépendante de la volonté du co
 
 VII. - Le contrôle, le recouvrement, le contentieux, les garanties et les sanctions de la taxe sont régis comme en matière de taxe foncière sur les propriétés bâties.
 
-VIII. - Le produit net de la taxe est versé à l'Agence nationale pour l'amélioration de l'habitat.
+VIII. - Le produit net de la taxe est versé à l'Agence nationale de l'habitat.
