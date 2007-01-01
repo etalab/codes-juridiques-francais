@@ -2,6 +2,7 @@
 
 - [Article R621-37-1](article-r621-37-1.md)
 - [Article R*621-37-2](article-r-621-37-2.md)
+- [Article R621-37-2](article-r621-37-2.md)
 - [Article R621-38](article-r621-38.md)
 - [Article R621-39](article-r621-39.md)
 - [Article R621-40](article-r621-40.md)

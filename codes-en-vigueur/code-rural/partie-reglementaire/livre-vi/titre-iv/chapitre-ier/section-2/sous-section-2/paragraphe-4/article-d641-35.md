@@ -8,6 +8,6 @@ Elle est constituée :
 
 1° Pour les "producteurs" et "producteurs expéditeurs" de la déclaration de noyers mentionnés à l'article D. 641-28 ;
 
-2° Pour tous les autres opérateurs de la filière, d'un imprimé établi suivant le modèle agréé par l'Institut national des appellations d'origine.
+2° Pour tous les autres opérateurs de la filière, d'un imprimé établi suivant le modèle agréé par l'Institut national de l'origine et de la qualité.
 
-Cette déclaration d'aptitude est enregistrée par l'Institut national des appellations d'origine.
+Cette déclaration d'aptitude est enregistrée par l'Institut national de l'origine et de la qualité.
