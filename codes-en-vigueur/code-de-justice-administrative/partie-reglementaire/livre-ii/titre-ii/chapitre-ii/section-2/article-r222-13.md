@@ -1,6 +1,6 @@
 # Article R222-13
 
-Le président du tribunal administratif ou le magistrat qu'il désigne à cette fin et ayant atteint au moins le grade de premier conseiller statue en audience publique et après audition du commissaire du gouvernement :
+Le président du tribunal administratif ou le magistrat qu'il désigne à cette fin et ayant atteint au moins le grade de premier conseiller ou ayant une ancienneté minimale de deux ans statue en audience publique et après audition du commissaire du gouvernement :
 
 1° Sur les litiges relatifs aux déclarations de travaux exemptés de permis de construire ;
 
@@ -18,4 +18,6 @@ Le président du tribunal administratif ou le magistrat qu'il désigne à cette 
 
 8° Sur les requêtes contestant les décisions prises en matière fiscale sur des demandes de remise gracieuse ;
 
-9° Sur les litiges relatifs aux bâtiments menaçant ruine.
+9° Sur les litiges relatifs aux bâtiments menaçant ruine ;
+
+10° Sur les litiges relatifs au permis de conduire.
