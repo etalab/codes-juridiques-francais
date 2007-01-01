@@ -1,4 +1,4 @@
-# Sous-section 2 : Garantie de ressources.
+# Sous-section 2 : Autres droits sociaux
 
 - [Article R243-6](article-r243-6.md)
 - [Article R243-9](article-r243-9.md)

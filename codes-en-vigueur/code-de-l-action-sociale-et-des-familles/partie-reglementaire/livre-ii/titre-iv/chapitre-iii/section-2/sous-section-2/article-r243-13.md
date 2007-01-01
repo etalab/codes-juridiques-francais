@@ -1,3 +1,3 @@
 # Article R243-13
 
-En vue de la compensation des charges supportées au titre de la garantie de ressources et des cotisations y afférentes, telle qu'elle est prévue à l'article L. 243-6, les organismes gestionnaires des centres d'aide par le travail adressent des états justificatifs mensuels à l'organisme compétent retenu par le ministre chargé des personnes handicapées.
+Le travailleur handicapé bénéficie de l'autorisation d'absence prévue à l'article L. 122-25-3 du code du travail ainsi que des congés mentionnés aux articles L. 122-25-4, L. 122-26, L. 122-26-1, L. 122-28-1 et L. 225-15 du même code, dans les conditions et selon les modalités définies par ces articles.
