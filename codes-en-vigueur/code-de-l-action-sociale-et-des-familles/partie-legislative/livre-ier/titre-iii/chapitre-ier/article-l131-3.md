@@ -6,6 +6,6 @@ En cas de placement, le directeur de l'établissement est tenu de notifier au re
 
 L'inobservation des délais prévus ci-dessus entraîne la mise à la charge exclusive de la commune, en matière d'aide à domicile, et de l'établissement, en matière de prise en charge des frais de séjour, des dépenses exposées jusqu'à la date de la notification.
 
-La commission d'admission du domicile du postulant statue dans le délai de deux mois sur l'admission d'urgence. A cette fin, le maire transmet au représentant de l'Etat ou au président du conseil général dans le mois de sa décision, le dossier constitué dans les conditions prévues à l'article L. 131-1.
+Il est statué dans le délai de deux mois sur l'admission d'urgence.A cette fin, le maire transmet au représentant de l'Etat ou au président du conseil général dans le mois de sa décision, le dossier constitué dans les conditions prévues à l'article L. 131-1.
 
 En cas de rejet de l'admission, les frais exposés antérieurement à cette décision sont dus par l'intéressé.
