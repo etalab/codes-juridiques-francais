@@ -1,8 +1,8 @@
 # Article D641-94
 
-Les vins pour lesquels est revendiquée une appellation d'origine contrôlée ne peuvent être mis en circulation sans un certificat d'agrément délivré par l'Institut national des appellations d'origine (INAO), après avoir satisfait aux examens analytique et organoleptique tels que définis ci-après. Les vins présentés à ces examens doivent avoir été élaborés conformément aux conditions de production de l'appellation d'origine contrôlée revendiquée.
+Les vins pour lesquels est revendiquée une appellation d'origine contrôlée ne peuvent être mis en circulation sans un certificat d'agrément délivré par l'Institut national de l'origine et de la qualité, après avoir satisfait aux examens analytique et organoleptique tels que définis ci-après. Les vins présentés à ces examens doivent avoir été élaborés conformément aux conditions de production de l'appellation d'origine contrôlée revendiquée.
 
-Toutefois, les vins tranquilles figurant sur une liste proposée par l'Institut national des appellations d'origine et homologuée par arrêté conjoint du ministre chargé des finances et du ministre chargé de l'agriculture ainsi que les vins mousseux et pétillants bénéficiant d'un certificat d'aptitude peuvent être mis en circulation entre entrepositaires agréés à l'intérieur de la région déterminée.
+Toutefois, les vins tranquilles figurant sur une liste proposée par l'Institut national de l'origine et de la qualité et homologuée par arrêté conjoint du ministre chargé des finances et du ministre chargé de l'agriculture ainsi que les vins mousseux et pétillants bénéficiant d'un certificat d'aptitude peuvent être mis en circulation entre entrepositaires agréés à l'intérieur de la région déterminée.
 
 Le certificat d'aptitude ou le certificat d'agrément n'est délivré aux vins tranquilles, mousseux et pétillants soumis à des mesures de régulation de marché au sens de la réglementation communautaire, étendues par arrêté interministériel, qu'à la date de levée desdites mesures, communiquée par les interprofessions vitivinicoles à l'INAO.
 

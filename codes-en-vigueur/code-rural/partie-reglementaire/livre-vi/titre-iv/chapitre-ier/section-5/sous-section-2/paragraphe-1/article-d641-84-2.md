@@ -6,4 +6,4 @@ Le calcul du pourcentage de pieds morts ou manquants est effectué à partir du 
 
 La réduction susvisée est effective dès lors que le pourcentage de pieds morts ou manquants dépasse 20 % ou, le cas échéant, un pourcentage inférieur prévu dans le décret de l'appellation d'origine contrôlée.
 
-La ou les parcelles concernées doivent faire l'objet d'une déclaration spécifique auprès des services de l'INAO aux fins d'identification. Copie de ladite déclaration devra être annexée à la déclaration de récolte.
+La ou les parcelles concernées doivent faire l'objet d'une déclaration spécifique auprès des services de l'Institut national de l'origine et de la qualité aux fins d'identification. Copie de ladite déclaration devra être annexée à la déclaration de récolte.

@@ -2,7 +2,7 @@
 
 I. - Sous réserve le cas échéant des dispositions de l'article D. 641-78, le dépassement du plafond limite de classement déterminé en tenant compte de la totalité de la vendange récoltée sur les surfaces pour lesquelles est revendiquée une appellation d'origine contrôlée entraîne la perte du droit à l'appellation d'origine contrôlée considérée ainsi qu'aux appellations plus générales auxquelles le vin peut prétendre.
 
-II. - Toutefois, en cas de dépassement du plafond limite de classement, et dans la limite le cas échéant du rendement maximum de production défini à l'article D. 641-78, le droit à l'appellation d'origine contrôlée peut être accordé, dans la limite de ce plafond limite de classement, par l'Institut national des appellations d'origine aux quantités effectives produites sous réserve :
+II. - Toutefois, en cas de dépassement du plafond limite de classement, et dans la limite le cas échéant du rendement maximum de production défini à l'article D. 641-78, le droit à l'appellation d'origine contrôlée peut être accordé, dans la limite de ce plafond limite de classement, par l'Institut national de l'origine et de la qualité aux quantités effectives produites sous réserve :
 
 1° Que les conditions de production de la totalité des vins produits dans l'exploitation pour lesquels l'appellation d'origine contrôlée est revendiquée aient été vérifiées ;
 
@@ -22,8 +22,8 @@ IV. - Par dérogation aux points I et II du présent article, pour une récolte 
 
 3. Le producteur détruise par distillation un volume de vin équivalent de la même appellation et de la même couleur de millésimes antérieurs, produit sur la même exploitation, et ce avant le 31 juillet suivant la récolte en cause. La preuve de destruction est constituée par l'attestation de distillation des vins établie par le distillateur et par le document d'accompagnement à la distillerie des volumes en cause. Dans la rubrique "désignation du produit" de ce dernier document, le millésime de l'AOC distillée figure immédiatement après la mention "VSI".
 
-Pour le volume substituable individuel, le certificat d'agrément prévu à l'article D. 641-94 du code rural est délivré au producteur en une seule fois après présentation aux services de l'INAO au plus tard le 31 juillet suivant l'année de récolte de la preuve de destruction prévue au point 3 ci-dessus.
+Pour le volume substituable individuel, le certificat d'agrément prévu à l'article D. 641-94 du code rural est délivré au producteur en une seule fois après présentation aux services de l'Institut national de l'origine et de la qualité au plus tard le 31 juillet suivant l'année de récolte de la preuve de destruction prévue au point 3 ci-dessus.
 
 En cas de non-respect des dispositions prévues aux alinéas précédents du présent article, les vins revendiqués au titre du volume substituable individuel sont envoyés à la distillation dans les conditions prévues au 3° du point II du présent article.
 
-La liste des appellations d'origine contrôlées pour lesquelles un volume substituable individuel est mis en place ainsi que la limite maximale de revendication pour chacune de ces appellations sont fixées par décision du Comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine, prise après avis du syndicat de défense de l'appellation d'origine en cause. Cette décision est approuvée par arrêté conjoint des ministres concernés, conformément à l'article R. 641-56 du code rural.
+La liste des appellations d'origine contrôlées pour lesquelles un volume substituable individuel est mis en place ainsi que la limite maximale de revendication pour chacune de ces appellations sont fixées par décision du Comité national des vins et eaux-de-vie de l'Institut national de l'origine et de la qualité, prise après avis du syndicat de défense de l'appellation d'origine en cause. Cette décision est approuvée par arrêté conjoint des ministres concernés, conformément à l'article R. 641-56 du code rural.
