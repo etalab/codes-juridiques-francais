@@ -8,7 +8,7 @@ Dans les mêmes conditions, le juge-commissaire peut, si la consistance des bien
 
 Les adjudications réalisées en application des alinéas qui précèdent emportent purge des hypothèques.
 
-Le liquidateur répartit le produit des ventes et règle l'ordre entre les créanciers, sous réserve des contestations qui sont portées devant le tribunal de grande instance.
+Le liquidateur répartit le produit des ventes et règle l'ordre entre les créanciers, sous réserve des contestations qui sont portées devant le juge de l'exécution.
 
 En cas de liquidation judiciaire d'un agriculteur, le tribunal peut, en considération de la situation personnelle et familiale du débiteur, lui accorder des délais de grâce dont il détermine la durée pour quitter sa maison d'habitation principale.
 
