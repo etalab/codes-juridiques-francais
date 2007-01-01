@@ -7,4 +7,8 @@
 - [Article L641-9](article-l641-9.md)
 - [Article L641-9-1](article-l641-9-1.md)
 - [Article L641-10](article-l641-10.md)
+- [Article L641-20](article-l641-20.md)
 - [Article L641-21](article-l641-21.md)
+- [Article L641-22](article-l641-22.md)
+- [Article L641-23](article-l641-23.md)
+- [Article L641-24](article-l641-24.md)
