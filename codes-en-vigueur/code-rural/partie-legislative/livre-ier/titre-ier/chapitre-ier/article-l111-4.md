@@ -1,10 +1,10 @@
 # Article L111-4
 
-Il est créé un établissement public national à caractère industriel et commercial, dénommé "Agence française d'information et de communication agricole et rurale", placé sous la tutelle du ministre chargé de l'agriculture.
+Il est créé un établissement public national à caractère industriel et commercial, dénommé " Agence française d'information et de communication agricole et rurale ", placé sous la tutelle du ministre chargé de l'agriculture.
 
 Cet établissement public a pour objet d'élaborer et de mettre en oeuvre un dispositif de communication visant à améliorer la connaissance, par le public, du monde agricole et rural, à promouvoir l'image de l'agriculture auprès des consommateurs et à valoriser les métiers et les produits issus des territoires ruraux.
 
-Ses ressources sont notamment constituées par des subventions du fonds de valorisation et de communication mentionné à l'article L. 640-5 et de toutes autres contributions publiques ou privées, ainsi que par le produit des ventes d'éditions sur tous supports, des ventes d'espaces pour l'insertion de messages publicitaires, et le produit des dons et legs.
+Ses ressources sont notamment constituées par des subventions du fonds de valorisation et de communication mentionné à l'article L. 111-5 et de toutes autres contributions publiques ou privées, ainsi que par le produit des ventes d'éditions sur tous supports, des ventes d'espaces pour l'insertion de messages publicitaires, et le produit des dons et legs.
 
 L'établissement est administré par un conseil d'administration et dirigé par un directeur nommé par décret.
 

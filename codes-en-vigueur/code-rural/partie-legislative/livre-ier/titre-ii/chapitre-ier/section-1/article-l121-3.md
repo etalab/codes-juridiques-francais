@@ -22,6 +22,6 @@ A défaut de désignation des exploitants par la chambre d'agriculture ou d'éle
 
 La commission peut appeler à titre consultatif toute personne dont il lui paraît utile de provoquer l'avis.
 
-Lorsque le périmètre de l'aménagement foncier comprend une aire d'appellation d'origine contrôlée, la composition de la commission est complétée par un représentant de l'Institut national des appellations d'origine.
+Lorsque le périmètre de l'aménagement foncier comprend une aire d'appellation d'origine contrôlée, la composition de la commission est complétée par un représentant de l'Institut national de l'origine et de la qualité.
 
 Lorsque le périmètre d'aménagement foncier comprend des terrains situés sur le territoire des communes d'un parc naturel régional, la composition de la commission est complétée par un représentant de ce parc désigné par le président de l'organisme de gestion du parc.

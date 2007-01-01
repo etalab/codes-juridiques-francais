@@ -34,4 +34,4 @@ Certaines attributions du conseil peuvent être exercées, dans les conditions f
 
 Sans préjudice des dispositions législatives et réglementaires en vigueur, le Conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire délègue normalement ses compétences en matière de forêt et de transformation du bois au Conseil supérieur de la forêt et des produits forestiers. Lorsque les problèmes de la forêt et de la transformation du bois sont évoqués au sein du Conseil supérieur d'orientation et de coordination, le Conseil supérieur de la forêt et des produits forestiers y est représenté.
 
-Lorsque les problèmes de qualité agro-alimentaire sont évoqués au sein du conseil, la Commission nationale des labels et des certifications des produits agricoles et alimentaires et l'Institut national des appellations d'origine y sont représentés à titre consultatif.
+Lorsque les problèmes de qualité agro-alimentaire sont évoqués au sein du conseil, la Commission nationale des labels et des certifications des produits agricoles et alimentaires et l'Institut national de l'origine et de la qualité y sont représentés à titre consultatif.

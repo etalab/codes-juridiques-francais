@@ -1,5 +1,7 @@
-# Chapitre III : Les labels et la certification.
+# Chapitre III : Protection des signes d'identification de la qualité et de l'origine
 
+- [Section 1 : Protection des dénominations reconnues.](section-1)
+- [Section 2 : Protection des aires de production délimitées.](section-2)
 - [Article L643-1](article-l643-1.md)
 - [Article L643-2](article-l643-2.md)
 - [Article L643-3](article-l643-3.md)

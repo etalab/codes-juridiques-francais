@@ -1,5 +1,6 @@
 # Chapitre premier : Impôts directs et taxes assimilées
 
+- [Section I : Généralités](section-i)
 - [Section II : Taxes foncières](section-ii)
 - [Section III : Taxe d'habitation](section-iii)
 - [Section IV : Dispositions communes aux taxes foncières et à la taxe d'habitation](section-iv)

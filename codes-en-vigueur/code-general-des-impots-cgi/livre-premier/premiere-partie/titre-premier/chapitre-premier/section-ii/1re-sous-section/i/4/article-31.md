@@ -4,7 +4,7 @@ I. Les charges de la propriété déductibles pour la détermination du revenu n
 
 1° Pour les propriétés urbaines :
 
-a) Les dépenses de réparation et d'entretien effectivement supportés par le propriétaire ;
+a) Les dépenses de réparation et d'entretien effectivement supportées par le propriétaire ;
 
 a bis) les primes d'assurance ;
 
@@ -156,9 +156,11 @@ Cette déduction est portée à 45 % des revenus bruts des logements donnés en 
 
 Lorsque les conventions prévues à l'article L. 321-4 du code de la construction et de l'habitation ne permettent pas l'octroi d'une aide publique mentionnée au premier alinéa de l'article L. 301-3 du même code, elles sont signées par l'Agence nationale de l'habitat.
 
-Le contribuable ou la société propriétaire doit louer le logement nu pendant toute la durée de la convention à des personnes qui en font leur habitation principale. Pour l'application du premier alinéa, le loyer et les ressources du locataire appréciées à la date de conclusion du bail ne doivent pas excéder des plafonds fixés à des niveaux inférieurs à ceux prévus au premier alinéa du j. La location ne peut être conclue avec un membre du foyer fiscal, un ascendant ou un descendant du contribuable, une personne occupant déjà le logement ou, si celui-ci est la propriété d'une société non soumise à l'impôt sur les sociétés, l'un de ses associés ou un membre du foyer fiscal, un ascendant ou un descendant d'un associé. Les associés d'une société non soumise à l'impôt sur les sociétés doivent conserver leurs parts pendant toute la durée de la convention.
+Le contribuable ou la société propriétaire doit louer le logement nu pendant toute la durée de la convention à des personnes qui en font leur habitation principale. Pour l'application du premier alinéa, le loyer et les ressources du locataire appréciées à la date de conclusion du bail ne doivent pas excéder des plafonds fixés à des niveaux inférieurs à ceux prévus au premier alinéa du j. La location ne peut être conclue avec un membre du foyer fiscal, un ascendant ou un descendant du contribuable, une personne occupant déjà le logement, sauf à l'occasion du renouvellement du bail, ou si le logement est la propriété d'une société non soumise à l'impôt sur les sociétés, l'un de ses associés ou un membre du foyer fiscal, un ascendant ou un descendant d'un associé. Les associés d'une société non soumise à l'impôt sur les sociétés doivent conserver leurs parts pendant toute la durée de la convention.
 
-Ces dispositions sont exclusives de celles prévues aux f à l et à l'article 199 undecies A.
+Lorsqu'elle fait l'objet d'une convention mentionnée à l'article L. 321-8 du code de la construction et de l'habitation, la location du logement consentie dans les mêmes conditions à un organisme public ou privé pour le logement ou l'hébergement de personnes physiques à usage d'habitation principale, à l'exclusion du propriétaire du logement, des membres de son foyer fiscal ou de ses descendants ou ascendants, ne fait pas obstacle au bénéfice de la déduction, à la condition que cet organisme ne fournisse aucune prestation hôtelière ou parahôtelière. Un décret précise les modalités d'appréciation des loyers et des ressources de l'occupant ainsi que les conditions de cette location.
+
+Ces dispositions sont exclusives de celles prévues aux f à l, à l'article 199 decies I et à l'article 199 undecies A.
 
 n) Une déduction fixée à 30 % des revenus bruts des logements qui ont donné lieu, au titre de l'année qui précède celle de la conclusion du bail, au versement de la taxe prévue à l'article 232. Cette déduction s'applique aux revenus perçus jusqu'au 31 décembre de la deuxième année qui suit celle de la conclusion de ce bail, conclu entre le 1er janvier 2006 et le 31 décembre 2007. L'application du présent n est exclusive de celle des dispositions prévues aux f à l.
 

@@ -25,6 +25,7 @@
 - [XVIII : Déclaration des commissions, courtages, ristournes, honoraires, des droits d'auteur, des rémunérations d'associés et des parts de bénéfices](xviii)
 - [XX : Attribution de l'avoir fiscal aux non-résidents](xx)
 - [XX bis : Déclaration des sociétés de gestion de fonds communs de placement à risques, de fonds professionnels de capital investissement et des sociétés de capital-risque](xx-bis)
+- [XX ter : Déclaration des investissements réalisés outre-mer.](xx-ter)
 - [XIX : Déclaration des revenus de capitaux mobiliers (IFU)](xix)
 - [XXI : Mesures de publicité](xxi)
 - [XXIII : Prélèvement de 50 % sur certains profits immobiliers réalisés par les personnes physiques ou sociétés n'ayant pas d'établissement en France.](xxiii)
@@ -43,4 +44,5 @@
 - [Article 244 quater N](article-244-quater-n.md)
 - [Article 244 quater O](article-244-quater-o.md)
 - [Article 244 quater P](article-244-quater-p.md)
+- [Article 244 quater Q](article-244-quater-q.md)
 - [Article 244 quater R](article-244-quater-r.md)

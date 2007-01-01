@@ -26,7 +26,7 @@ b) Invalidité correspondant au classement dans la deuxième ou la troisième de
 
 4° Aléas économiques :
 
-a) Reconversion d'activité par suite d'un changement très important de production au sens du II de l'article 73 du code général des impôts ;
+a) Reconversion d'activité par suite d'un changement très important de production ;
 
 b) Résiliation ou non-renouvellement du bail de l'exploitant dans les circonstances prévues aux articles L. 411-30 à L. 411-34 et L. 411-58 du code rural ;
 

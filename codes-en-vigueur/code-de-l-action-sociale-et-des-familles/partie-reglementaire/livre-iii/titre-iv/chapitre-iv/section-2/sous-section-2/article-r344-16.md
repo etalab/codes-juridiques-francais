@@ -1,0 +1,5 @@
+# Article R344-16
+
+Lorsque l'exercice d'une activité à caractère professionnel en milieu ordinaire de travail est susceptible de favoriser l'épanouissement personnel et professionnel et de développer la capacité d'emploi de travailleurs handicapés admis dans un établissement ou un service d'aide par le travail, cet établissement ou ce service peut, avec l'accord des intéressés et dans les conditions définies par la présente sous-section, mettre une ou plusieurs personnes handicapées à la disposition d'une entreprise, d'une collectivité territoriale, d'un établissement public, d'une association ou de toute autre personne morale de droit public ou de droit privé ainsi qu'auprès d'une personne physique.
+
+Quelles que soient les modalités d'exercice de cette activité à caractère professionnel en milieu ordinaire de travail, les travailleurs handicapés concernés continuent à bénéficier d'un accompagnement médico-social et professionnel assuré par l'établissement ou le service d'aide par le travail auquel ils demeurent rattachés.

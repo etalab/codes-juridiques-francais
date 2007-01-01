@@ -6,3 +6,4 @@
 - [Section 4 : Médecins du travail, infirmiers et infirmières](section-4)
 - [Section 5 : Premiers secours.](section-5)
 - [Section 6 : Salariés liés par un contrat de travail temporaire.](section-6)
+- [Section 7 : Règlement de financement.](section-7)

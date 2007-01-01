@@ -2,7 +2,7 @@
 
 I. - 1. Les gains nets mentionnés au 1 de l'article 150-0 D et déterminés dans les conditions du même article retirés des cessions à titre onéreux d'actions, de parts de sociétés ou de droits démembrés portant sur ces actions ou parts sont réduits d'un abattement d'un tiers pour chaque année de détention au-delà de la cinquième, lorsque les conditions prévues au II sont remplies.
 
-2. Le complément de prix prévu au 2 de l'article 150-0 A, afférent à la cession de titres ou droits mentionnés au 1 du présent I, est réduit de l'abattement prévu à ce même 1 et appliqué lors de cette cession.
+2. Le complément de prix prévu au 2 du I de l'article 150-0 A, afférent à la cession de titres ou droits mentionnés au 1 du présent I, est réduit de l'abattement prévu à ce même 1 et appliqué lors de cette cession.
 
 II. - Le bénéfice de l'abattement prévu au 1 du I est subordonné au respect des conditions suivantes :
 
@@ -38,4 +38,6 @@ V. - Pour l'application du 1 du I, la durée de détention est décomptée à pa
 
 5° Abrogé
 
-6° Pour les titres ou droits acquis ou souscrits avant le 1er janvier 2006, à partir du 1er janvier 2006.
+6° Pour les titres ou droits acquis ou souscrits avant le 1er janvier 2006, à partir du 1er janvier 2006 ;
+
+7° En cas de cession de titres ou droits mentionnés au 1 bis de l'article 150-0 D, à partir du 1er janvier de l'année du transfert des titres ou droits cédés du patrimoine fiduciaire aux ayants droit.

@@ -18,6 +18,6 @@ IV. - Le responsable de la mise sur le marché ou de la dissémination, le distr
 
 V. - Dans l'intérêt de la santé publique et de l'environnement, l'autorité administrative peut, par arrêté, prendre toutes mesures destinées à collecter les données et informations relatives à ces opérations, afin d'en assurer le traitement et la diffusion, ainsi que des mesures d'interdiction, de restriction ou de prescriptions particulières concernant la mise sur le marché, la délivrance et l'utilisation des produits mentionnés au présent article.
 
-Dans l'intérêt de la protection des appellations d'origine contrôlée, l'Institut national des appellations d'origine peut proposer à l'autorité administrative les mesures prévues à l'alinéa précédent.
+Dans l'intérêt de la protection des appellations d'origine contrôlée, l'Institut national de l'origine et de la qualité peut proposer à l'autorité administrative les mesures prévues à l'alinéa précédent.
 
 VI. - Le Gouvernement, après avis du comité de biovigilance, adresse chaque année à l'Assemblée nationale et au Sénat un rapport d'activité sur la surveillance biologique du territoire.

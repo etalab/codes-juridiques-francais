@@ -10,7 +10,11 @@ Conformément aux dispositions prévues au sixième alinéa de l'article L. 241-
 
 4° Reconnaissance de la qualité de travailleur handicapé répondant aux conditions définies par l'article L. 323-10 du code du travail ;
 
-5° Situations nécessitant qu'une décision soit prise en urgence.
+5° Situations nécessitant qu'une décision soit prise en urgence ;
+
+6° Prolongation ou interruption de la période d'essai d'un travailleur handicapé dans l'établissement ou le service d'aide par le travail au sein duquel il a été admis ;
+
+7° Maintien ou non, à l'issue d'une mesure conservatoire prise en application de l'article R. 243-4, d'un travailleur handicapé dans l'établissement ou le service d'aide par le travail au sein duquel il a été admis.
 
 Les membres de ces formations peuvent décider de transmettre une demande à la commission plénière.
 

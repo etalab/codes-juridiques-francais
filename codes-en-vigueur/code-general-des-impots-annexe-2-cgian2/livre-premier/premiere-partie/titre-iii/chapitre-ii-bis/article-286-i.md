@@ -10,7 +10,7 @@ II. - Outre les dispositions de la réglementation communautaire susmentionnée,
 
 Par exception aux dispositions qui précèdent, les écritures relatives à chaque opération peuvent être portées sur les registres au plus tard le cinquième jour de chaque mois pour les opérations du mois précédent, à condition qu'un contrôle des entrées et sorties, ainsi que des manipulations, reste possible sur la base de pièces justificatives à toute réquisition des agents des douanes et droits indirects ou de ceux de la concurrence, de la consommation et de la répression des fraudes.
 
-Les registres comportent les colonnes ouvertes avec les intitulés exigés par la réglementation communautaire et portent les références des contrats d'achat soumis au visa de l'Office national interprofessionnel des fruits, des légumes des vins et de l'horticulture pour les transactions soumises à cette procédure.
+Les registres comportent les colonnes ouvertes avec les intitulés exigés par la réglementation communautaire et portent les références des contrats d'achat soumis au visa de l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture pour les transactions soumises à cette procédure.
 
 Sans préjudice d'autres dispositions prévues par les règlements et accords interprofessionnels visés notamment aux articles L. 632-1 à L. 632-7 du code rural, les registres comportent pour les vins d'appellation d'origine, les références aux certificats d'agrément ou de labellisation, les numéros d'enregistrement des contrats d'achat et les numéros des déclarations de transactions soumis préalablement aux interprofessions tels que prévus dans les accords interprofessionnels étendus mentionnés aux articles précités.
 
@@ -54,4 +54,4 @@ VIII. - Les registres et les pièces justificatives nécessaires à leur tenue e
 
 IX. - La validation des documents mentionnés à l'article 302 M du code général des impôts pour l'expédition ou l'enlèvement des produits vitivinicoles n'est possible que si l'entrepositaire agréé respecte les obligations afférentes à la tenue de la comptabilité matières telles que prévues par le présent article et les obligations mentionnées aux articles 614 et 614 A dudit code.
 
-En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualité d'entrepositaire agréé peut être retirée.
+En cas de manquements graves ou répétés aux dispositions ci-dessus, la qualité d'entrepositaire agréé peut être retirée par le directeur régional des douanes et droits indirects.

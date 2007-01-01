@@ -2,6 +2,8 @@
 
 - [Article 791](article-791.md)
 - [Article 792](article-792.md)
+- [Article 792-1](article-792-1.md)
+- [Article 792-2](article-792-2.md)
 - [Article 793](article-793.md)
 - [Article 794](article-794.md)
 - [Article 795](article-795.md)

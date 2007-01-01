@@ -22,7 +22,7 @@ Il est fait abstraction du second employé de maison lorsque le nombre des perso
 
 4. Voitures automobiles destinées au transport des personnes / La valeur de la voiture neuve avec abattement de 50 % après trois ans d'usage.
 
-Toutefois, la base ainsi déterminée est réduite de moitié en ce qui concerne les voitures appartenant aux pensionnés de guerre bénéficiaires du statut des grands invalides, ainsi qu'aux aveugles et grands infirmes civils titulaires de la carte d'invalidité prévue à l'article 173 du Code de la famille et de l'aide sociale.
+Toutefois, la base ainsi déterminée est réduite de moitié en ce qui concerne les voitures appartenant aux pensionnés de guerre bénéficiaires du statut des grands invalides, ainsi qu'aux aveugles et grands infirmes civils titulaires de la carte d'invalidité prévue à l'article L. 241-3 du code de l'action sociale et des familles.
 
 Elle est également réduite de moitié pour les voitures qui sont affectées principalement à un usage professionnel. Cette réduction est limitée à un seul véhicule.
 

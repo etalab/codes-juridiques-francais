@@ -70,6 +70,8 @@ b. les cours ou leçons relevant de l'enseignement scolaire, universitaire, prof
 
 5° à 8° (Abrogés) ;
 
+8° bis Les prestations de services et les livraisons de biens qui leur sont étroitement liées, effectuées dans le cadre de la garde d'enfants par les établissements visés aux deux premiers alinéas de l'article L. 2324-1 du code de la santé publique et assurant l'accueil des enfants de moins de trois ans ; (1)
+
 9° les prestations de services et les livraisons de biens qui leur sont étroitement liées fournies à leurs membres, moyennant une cotisation fixée conformément aux statuts, par des organismes légalement constitués agissant sans but lucratif dont la gestion est désintéressée et qui poursuivent des objectifs de nature philosophique, religieuse, politique, patriotique, civique ou syndicale, dans la mesure où ces opérations se rattachent directement à la défense collective des intérêts moraux ou matériels des membres ; les dispositions des c et d du 1° du 7 s'appliquent à ces organismes ;
 
 10° Les travaux de construction, d'aménagement, de réparation et d'entretien des monuments, cimetières ou sépultures commémoratifs des combattants, héros, victimes ou morts des guerres, effectués pour les collectivités publiques et les organismes légalement constitués agissant sans but lucratif.
@@ -84,29 +86,23 @@ b. les opérations de vente de terrains leur appartenant effectuées sans but lu
 
 c. (Devenu sans objet) ;
 
-d. Les opérations immobilières résultant de l'application des dispositions des articles L141-1 à L141-5 du code rural, réalisées par les sociétés d'aménagement foncier et d'établissement rural constituées en application de l'article L141-1 du même code et agréées par le ministre de l'agriculture et le ministre du budget.
+d. (abrogé)
 
-Ces dispositions ne s'appliquent pas aux cessions d'immeubles acquis postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990.
-
-d bis. toutes les cessions effectuées par les sociétés d'aménagement foncier et d'établissement rural au titre de l'article L. 141-1 du code rural, dont la destination répond aux dispositions dudit article et qui sont assorties d'un engagement de l'acquéreur pris pour lui et ses ayants cause de conserver cette destination pendant un délai de dix ans à compter du transfert de propriété.
-
-Les dispositions du premier alinéa ne s'appliquent qu'aux cessions de biens acquis postérieurement à la date de publication de la loi n° 90-85 du 23 janvier 1990 complémentaire à la loi n° 88-1202 du 30 décembre 1988 relative à l'adaptation de l'exploitation agricole à son environnement économique et social ;
+d bis. (abrogé)
 
 e. (Disposition périmée) ;
 
 f. (Abrogé) ;
 
-g) Les livraisons d'immeubles réalisées par les organismes d'habitations à loyer modéré régis par l'article L. 411-2 du code de la construction et de l'habitation ou de lots de copropriété faisant l'objet d'un plan de sauvegarde en application de l'article L. 615-1 du même code par les organismes sans but lucratif visés au 7 du présent article ou par les sociétés d'économie mixte exerçant une activité de construction ou de gestion de logements sociaux ;
+g) Les livraisons d'immeubles réalisées par les organismes d'habitations à loyer modéré régis par l'article L. 411-2 du code de la construction et de l'habitation ou de lots de copropriété faisant l'objet d'un plan de sauvegarde en application de l'article L. 615-1 du même code ou faisant l'objet d'une opération programmée d'amélioration de l'habitat prévue à l'article L. 303-1 du même code par les organismes sans but lucratif visés au 7 du présent article ou par les sociétés d'économie mixte exerçant une activité de construction ou de gestion de logements sociaux ;
 
 h) Les cessions de parts de sociétés civiles immobilières d'accession progressive à la propriété effectuées dans les conditions prévues aux articles L. 443-6-2 et suivants du code de la construction et de l'habitation ;
 
 1° bis lorsqu'elles entrent dans le champ d'application du 7° de l'article 257, les opérations de remembrement réalisées par les associations foncières urbaines en vertu du 1° de l'article L. 322-2 du code de l'urbanisme ou par les associations syndicales constituées en application de l'ordonnance n° 58-1145 du 31 décembre 1958 ;
 
-2° les apports et les cessions de terrains à bâtir effectués par les collectivités locales au profit des offices publics d'habitations à loyer modéré et de leurs unions ainsi que les apports consentis par les collectivités locales à des organismes d'habitations à loyer modéré ou à leurs unions, dans la mesure où ces apports sont effectués à titre gratuit.
+2° les apports et les cessions de terrains à bâtir effectués par les collectivités locales au profit des offices publics de l'habitat et de leurs unions, pour les opérations faites en application de la législation sur les organismes d'habitations à loyer modéré, ainsi que les apports consentis par les collectivités locales à des organismes d'habitations à loyer modéré ou à leurs unions, dans la mesure où ces apports sont effectués à titre gratuit.
 
-Ces dispositions s'appliquent aux offices publics d'aménagement et de construction pour les opérations faites en application de la législation sur les organismes d'habitations à loyer modéré ;
-
-3° les apports faits aux sociétés civiles visées à l'article L322-12 du code de l'urbanisme ;
+3° (alinéa devenu sans objet) ;
 
 4° le bail à construction ;
 

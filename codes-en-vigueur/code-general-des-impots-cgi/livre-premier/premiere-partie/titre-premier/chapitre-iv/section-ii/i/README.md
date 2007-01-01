@@ -11,6 +11,7 @@
 - [Article 237 bis](article-237-bis.md)
 - [Article 237 bis A](article-237-bis-a.md)
 - [Article 237 ter](article-237-ter.md)
+- [Article 237 ter A](article-237-ter-a.md)
 - [Article 237 quater](article-237-quater.md)
 - [Article 237 quinquies](article-237-quinquies.md)
 - [Article 237 sexies](article-237-sexies.md)

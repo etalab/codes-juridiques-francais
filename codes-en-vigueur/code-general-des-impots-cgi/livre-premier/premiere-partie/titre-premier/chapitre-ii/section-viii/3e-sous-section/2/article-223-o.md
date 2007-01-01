@@ -2,7 +2,7 @@
 
 1. La société mère est substituée aux sociétés du groupe pour l'imputation sur le montant de l'impôt sur les sociétés dont elle est redevable au titre de chaque exercice :
 
-a. Des avoirs fiscaux et crédits d'impôt attachés aux produits reçus par une société du groupe et qui n'ont pas ouvert droit à l'application du régime des sociétés mères visé aux articles 145 et 216 ;
+a. Des crédits d'impôt attachés aux produits reçus par une société du groupe et qui n'ont pas ouvert droit à l'application du régime des sociétés mères visé aux articles 145 et 216 ;
 
 b. Des crédits d'impôt pour dépenses de recherche dégagés par chaque société du groupe en application de l'article 244 quater B. Le crédit d'impôt imputable par la société mère est égal à la somme des parts en volume et des parts en accroissement constatées pendant l'année par les sociétés membres. Si la somme des parts en accroissement est négative, elle est imputée dans les conditions prévues au quatrième alinéa du I de l'article 244 quater B. Lorsque le crédit d'impôt d'une société membre excède le plafond visé au I précité, le montant de la part en accroissement et de la part en volume pris en compte pour le calcul du crédit d'impôt imputable par la société mère est calculé dans les conditions prévues au huitième alinéa du I de l'article précité.
 
@@ -10,7 +10,7 @@ Par exception aux dispositions de l'article 244 quater B, et à compter du créd
 
 Les dispositions de l'article 199 ter B s'appliquent au crédit d'impôt imputable par la société mère ainsi déterminé.
 
-c. Des crédits d'impôt pour dépenses de formation dégagés par chaque société du groupe en application de l'article 244 quater C. Les dispositions du premier alinéa de l'article 199 ter C s'appliquent à la somme de ces crédits d'impôt.
+c. périmé
 
 d. Des crédits d'impôt pour investissement dégagés par chaque société du groupe en application de l'article 244 quater E ; les dispositions de l'article 199 ter D s'appliquent à la somme de ces crédits d'impôts.
 
@@ -48,6 +48,8 @@ t) Des crédits d'impôt dégagés par chaque société du groupe en application
 
 u) Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 244 quater Q ; l'article 220 U s'applique à la somme de ces crédits d'impôt ;
 
-v) Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 244 quater R ; l'article 220 V s'applique à la somme de ces crédits d'impôt.
+v) Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 244 quater R ; l'article 220 V s'applique à la somme de ces crédits d'impôt ;
+
+w) Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 244 quater S (1).
 
 2. (abrogé).

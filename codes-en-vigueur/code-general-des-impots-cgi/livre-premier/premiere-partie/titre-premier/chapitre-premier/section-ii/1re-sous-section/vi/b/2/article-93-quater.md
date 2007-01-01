@@ -26,8 +26,8 @@ IV. 1. Pour l'application des dispositions du premier alinéa du I aux immeubles
 
 3. L'acte qui constate le transfert de propriété des immeubles mentionnés au 1 consécutivement à l'acceptation de la promesse unilatérale de vente doit indiquer si le nouveau propriétaire, ou les associés s'il s'agit d'une société, demandent le report de l'imposition de la plus-value dans les conditions prévues au 1. A défaut, les dispositions du 1 ne sont pas applicables.
 
-4. Un décret fixe les conditions d'application du présent IV, notamment les obligations déclaratives des contribuables (1).
+4. Un décret fixe les conditions d'application du présent IV, notamment les obligations déclaratives des contribuables.
 
-V. Les dispositions du 5 bis et du 7 bis de l'article 38 sont applicables au profit ou à la perte réalisés lors de l'échange de titres résultant des opérations mentionnées aux articles précités, lorsque ces titres sont affectés à l'exercice de la profession au sens de l'article 93.
+V. Les dispositions du 5 bis et du 7 bis de l'article 38 sont applicables au profit ou à la perte réalisés lors de l'échange de titres résultant des opérations mentionnées au 5 bis et au 7 bis précités, lorsque ces titres sont affectés à l'exercice de la profession au sens de l'article 93.
 
 Les personnes placées sous le régime prévu au premier alinéa sont soumises aux obligations définies à l'article 54 septies.
