@@ -1,6 +1,6 @@
 # Article L412-14
 
-Le bail passé entre les copartageants d'une exploitation agricole, par application de l'article 832-3 du code civil, est, sous les réserves ci-après énoncées, soumis aux dispositions du présent titre.
+Le bail passé entre les copartageants d'une exploitation agricole, par application de l'article 832-2 du code civil, est, sous les réserves ci-après énoncées, soumis aux dispositions du présent titre.
 
 Ne sont pas applicables, jusqu'à l'expiration du bail, les dérogations prévues à l'article L. 411-3 en ce qui concerne les parcelles ne constituant pas un corps de ferme ou des parties essentielles d'une exploitation agricole.
 

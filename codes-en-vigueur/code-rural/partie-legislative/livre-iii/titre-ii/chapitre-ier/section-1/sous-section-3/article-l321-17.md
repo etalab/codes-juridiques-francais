@@ -6,4 +6,4 @@ Toutefois, le bénéficiaire des dispositions de la présente sous-section, qui 
 
 Les droits de créance résultant des dispositions de la présente sous-section ne peuvent en aucun cas, et quelle que soit la durée de la collaboration apportée à l'exploitant, dépasser, pour chacun des ayants droit, la somme représentant le montant de la rémunération due pour une période de dix années, et calculée sur les bases fixées au deuxième alinéa de l'article L. 321-13.
 
-Le paiement du salaire différé ou l'attribution faite au créancier, pour le remplir de ses droits de créance, ne donne lieu à la perception d'aucun droit d'enregistrement. Les délais et modalités de paiement sont fixés, s'il y a lieu, dans les conditions prévues à l'article 868 du code civil.
+Le paiement du salaire différé ou l'attribution faite au créancier, pour le remplir de ses droits de créance, ne donne lieu à la perception d'aucun droit d'enregistrement. Les délais et modalités de paiement sont fixés, s'il y a lieu, dans les conditions prévues à l'article 924-3 du code civil.

@@ -8,4 +8,6 @@ La subrogation a lieu de plein droit :
 
 3° Au profit de celui qui, étant tenu avec d'autres ou pour d'autres au paiement de la dette, avait intérêt de l'acquitter ;
 
-4° Au profit de l'héritier bénéficiaire qui a payé de ses deniers les dettes de la succession.
+4° Au profit de l'héritier acceptant à concurrence de l'actif net qui a payé de ses deniers les dettes de la succession ;
+
+5° Au profit de celui qui a payé de ses deniers les frais funéraires pour le compte de la succession.
