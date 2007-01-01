@@ -1,4 +1,4 @@
-# Chapitre III : Travailleurs handicapés
+# Chapitre III : Travailleurs handicapés admis en établissements et services d'aide par le travail
 
-- [Section 1 : Commission technique d'orientation et de reclassement professionnel.](section-1)
+- [Section 1 : Orientation par la commission des droits et de l'autonomie des personnes handicapées](section-1)
 - [Section 2 : Dispositions favorisant le travail](section-2)

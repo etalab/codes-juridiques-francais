@@ -1,4 +1,4 @@
-# Section 1 : Commission technique d'orientation et de reclassement professionnel.
+# Section 1 : Orientation par la commission des droits et de l'autonomie des personnes handicapées
 
 - [Article R243-1](article-r243-1.md)
 - [Article R243-2](article-r243-2.md)
