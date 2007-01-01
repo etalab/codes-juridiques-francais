@@ -1,5 +1,3 @@
 # Article R243-11
 
-Les heures supplémentaires accomplies au-delà de la durée du travail mentionnée au premier alinéa de l'article R. 243-10 n'ouvrent droit à aucun complément de rémunération au titre de la garantie de ressources.
-
-Toutefois, le complément de rémunération dû au titre de la garantie de ressources à raison des heures effectuées dans la limite de la durée du travail mentionnée au premier alinéa de l'article R. 243-10 ne peut être réduit du fait des majorations de salaire résultant des heures supplémentaires.
+Le travailleur handicapé qui a conclu un contrat de soutien et d'aide par le travail et qui justifie d'un mois de présence dans l'établissement ou le service d'aide par le travail a droit à un congé annuel, qui donne lieu au versement de la rémunération garantie et dont la durée est déterminée à raison de deux jours et demi ouvrables par mois d'accueil en établissement ou service d'aide par le travail. La durée totale de ce congé, qui ne peut excéder trente jours ouvrables, peut être augmentée de trois jours mobiles, dont l'attribution est laissée à l'appréciation du directeur de l'établissement ou du service d'aide par le travail.
