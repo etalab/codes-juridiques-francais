@@ -26,7 +26,6 @@
 - [Article 163 quinquies C bis](article-163-quinquies-c-bis.md)
 - [Article 163 quinquies B](article-163-quinquies-b.md)
 - [Article 163 A](article-163-a.md)
-- [d : Créateurs d'entreprises.](d)
 - [a : Plan d'épargne en actions](a)
 - [g : Copropriétés de navires de commerce](g)
 - [h : Souscription en numéraire au capital de sociétés agréées de financement de la pêche artisanale](h)
