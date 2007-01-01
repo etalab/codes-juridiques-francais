@@ -12,7 +12,6 @@
 - [Article D421-16](article-d421-16.md)
 - [Article D421-17](article-d421-17.md)
 - [Article D421-18](article-d421-18.md)
-- [Article R421-1](article-r421-1.md)
 - [Article R421-3](article-r421-3.md)
 - [Article R421-5](article-r421-5.md)
 - [Article R421-6](article-r421-6.md)

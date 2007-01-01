@@ -18,5 +18,4 @@
 - [Titre XV : Des transactions](titre-xv)
 - [Titre XVI : Du compromis](titre-xvi)
 - [Titre XX : De la prescription et de la possession.](titre-xx)
-- [Titre XIX : De l'expropriation forcée et des ordres entre les créanciers](titre-xix)
 - [Dispositions générales](dispositions-generales)

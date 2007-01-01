@@ -32,7 +32,6 @@
 - [XXIII bis : Imposition des plus-values réalisées par les personnes physiques ou sociétés qui ne sont pas fiscalement domiciliées en France](xxiii-bis)
 - [XXVI : Prélèvements sur les plus-values prévues à l'article 244 bis.](xxvi)
 - [XXVII : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales ou agricoles](xxvii)
-- [XXVIII : Crédit d'impôt pour dépenses de formation.](xxviii)
 - [XXIX : Crédit d'impôt pour dépenses d'adhésion à un groupement de prévention agréé](xxix)
 - [XXXI : Crédit d'impôt famille](xxxi)
 - [XXXIII : Crédit d'impôt pour dépenses de prospection commerciale](xxxiii)

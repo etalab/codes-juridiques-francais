@@ -2,7 +2,6 @@
 
 - [1° : Retenue à la source sur les salaires, droits d'auteur et rémunérations versés aux auteurs, artistes et sportifs domiciliés fiscalement en France](1)
 - [10° : Crédit d'impôt pour l'acquisition ou la location de certains véhicules automobiles](10)
-- [11° : Réduction d'impôt pour intérêts des prêts à la consommation](11)
 - [12° : Crédit d'impôt en faveur des jeunes prenant un métier rencontrant des difficultés de recrutement](12)
 - [13° : Réduction apportée au titre de l'aide accordée à certains créateurs d'entreprise](13)
 - [14° : Crédit d'impôt en faveur des étudiants en vue du financement de leurs études supérieures](14)

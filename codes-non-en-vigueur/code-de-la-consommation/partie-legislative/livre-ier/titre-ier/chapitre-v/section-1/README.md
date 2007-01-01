@@ -4,4 +4,3 @@
 - [Sous-section 2 : Procédure administrative de protection](sous-section-2)
 - [Sous-section 3 : Procédure judiciaire de protection](sous-section-3)
 - [Sous-section 4 : Actions correctionnelles](sous-section-4)
-- [Sous-section 5 : L'institut national des appellations d'origine.](sous-section-5)

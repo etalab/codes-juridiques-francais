@@ -2,4 +2,3 @@
 
 - [Paragraphe 1 : Dispositions particulières aux vignobles produisant des vins à appellation d'origine contrôlée.](paragraphe-1)
 - [Paragraphe 2 : Dispositions particulières aux exploitations produisant des vins à appellation d'origine et d'autres vins.](paragraphe-2)
-- [Paragraphe 3 : Dispositions particulières à l'irrigation des vignobles aptes à la production de vins à appellation d'origine](paragraphe-3)

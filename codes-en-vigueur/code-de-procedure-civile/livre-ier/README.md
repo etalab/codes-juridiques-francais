@@ -11,7 +11,6 @@
 - [Titre VIII : La pluralité des parties.](titre-viii)
 - [Titre IX : L'intervention.](titre-ix)
 - [Titre IX bis : L'audition de l'enfant en justice.](titre-ix-bis)
-- [Titre X : L'abstention, la récusation et le renvoi](titre-x)
 - [Titre XI : Les incidents d'instance.](titre-xi)
 - [Titre XII : Représentation et assistance en justice.](titre-xii)
 - [Titre XIII : Le ministère public.](titre-xiii)

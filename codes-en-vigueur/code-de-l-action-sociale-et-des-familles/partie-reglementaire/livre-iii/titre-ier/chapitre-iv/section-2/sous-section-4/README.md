@@ -3,7 +3,6 @@
 - [Paragraphe 1 : Etablissements et services accueillant des mineurs et jeunes adultes handicapés.](paragraphe-1)
 - [Paragraphe 2 : Centres d'action médico-sociale précoce.](paragraphe-2)
 - [Paragraphe 3 : Etablissements et services accueillant des mineurs ou des majeurs de moins de vingt et un ans confiés par l'autorité judiciaire.](paragraphe-3)
-- [Paragraphe 4 : Centres d'aide par le travail.](paragraphe-4)
 - [Paragraphe 5 : Services d'aide à domicile.](paragraphe-5)
 - [Paragraphe 6 : Services de soins infirmiers à domicile pour personnes âgées ou personnes handicapées adultes.](paragraphe-6)
 - [Paragraphe 7 : Foyers d'accueil médicalisés et services d'accompagnement médico-social pour personnes adultes handicapées.](paragraphe-7)

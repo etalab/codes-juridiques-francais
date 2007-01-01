@@ -8,7 +8,6 @@
 - [Section V : Redevance fixe des mines.](section-v)
 - [Section V bis : Contribution annuelle sur les revenus locatifs](section-v-bis)
 - [Section VI : Taxe sur les services d'informations ou interactifs à caractère pornographique](section-vi)
-- [Section VII : Cotisation perçue au titre de la participation des employeurs à l'effort de construction.](section-vii)
 - [Section X : Participation des employeurs au développement de la formation professionnelle continue](section-x)
 - [Section XI : Prélèvement spécial sur les bénéfices résultant de la vente, la location ou l'exploitation d'oeuvres pornographiques ou d'incitation à la violence](section-xi)
 - [Section XIV : Taxe sur les excédents de provisions des entreprises d'assurances de dommages](section-xiv)
