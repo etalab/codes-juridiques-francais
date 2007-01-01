@@ -9,7 +9,6 @@
 - [5 : Provision pour investissement en faveur des entreprises de presse](5)
 - [6 : Amortissement dégressif des biens d'équipement](6)
 - [7 : Plus-values provenant de cessions d'éléments de l'actif immobilisé](7)
-- [8 : Amortissement des biens donnés en location ou mis à disposition.](8)
 - [8 quater : Majoration d'amortissement des immobilisations acquises ou créées au moyen de certaines primes](8-quater)
 - [9 : Contrôle des frais généraux - Obligations des entreprises](9)
 - [12 : Régime simplifié d'imposition](12)
