@@ -1,4 +1,4 @@
-# Titre II : Assistants maternels
+# Titre II : Assistants maternels et assistants familiaux
 
 - [Chapitre Ier : Dispositions générales](chapitre-ier)
 - [Chapitre II : Assistants maternels employés par des personnes morales de droit public](chapitre-ii)
