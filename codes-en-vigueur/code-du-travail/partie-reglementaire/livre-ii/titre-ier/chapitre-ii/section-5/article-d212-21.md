@@ -6,4 +6,8 @@ Lorsque les salariés d'un atelier, d'un service ou d'une équipe au sens de l'a
 
 - chaque semaine, par récapitulation selon tous moyens du nombre d'heures de travail effectuées par chaque salarié.
 
-Les dispositions ci-dessus ne sont pas applicables aux salariés concernés par les conventions ou accords collectifs prévoyant des conventions de forfait en heures lorsque ces conventions ou accords fixent les modalités de contrôle de la durée du travail.
+Les dispositions du présent article ne sont pas applicables :
+
+a) Aux salariés concernés par les conventions ou accords collectifs prévoyant des conventions de forfait en heures lorsque ces conventions ou accords fixent les modalités de contrôle de la durée du travail ;
+
+b) Aux salariés concernés par les conventions ou accords collectifs de branche étendus prévoyant une quantification préalablement déterminée du temps de travail reposant sur des critères objectifs et fixant les modalités de contrôle de la durée du travail.
