@@ -2,4 +2,5 @@
 
 - [Article R642-16](article-r642-16.md)
 - [Article R642-17](article-r642-17.md)
+- [Article R642-18](article-r642-18.md)
 - [Article R642-19](article-r642-19.md)
