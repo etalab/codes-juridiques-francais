@@ -9,6 +9,5 @@
 - [Sous-section 7 : Agents.](sous-section-7)
 - [Sous-section 8 : Tutelle.](sous-section-8)
 - [Sous-section 9 : Régime financier et comptable.](sous-section-9)
-- [Article R*642-1](article-r-642-1.md)
 - [Article R642-1](article-r642-1.md)
 - [Article R642-2](article-r642-2.md)
