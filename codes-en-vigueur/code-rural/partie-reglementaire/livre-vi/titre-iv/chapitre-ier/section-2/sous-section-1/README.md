@@ -1,7 +1,7 @@
-# Sous-section 1 : Dispositions relatives à la reconnaissance des produits laitiers et agroalimentaires autres que les vins, eaux-de-vie et produits cidricoles.
+# Sous-section 1 : La dénomination "montagne"
 
-- [Article D641-1](article-d641-1.md)
-- [Article D641-2](article-d641-2.md)
-- [Article D641-3](article-d641-3.md)
-- [Article D641-4](article-d641-4.md)
-- [Article D641-5](article-d641-5.md)
+- [Article R641-40](article-r641-40.md)
+- [Article R641-41](article-r641-41.md)
+- [Article R641-42](article-r641-42.md)
+- [Article R641-43](article-r641-43.md)
+- [Article R641-44](article-r641-44.md)

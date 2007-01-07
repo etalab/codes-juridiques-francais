@@ -1,6 +1,12 @@
-# Section 1 : Procédures d'examen des demandes d'enregistrement des appellations d'origine protégées et des indications géographiques protégées.
+# Section 1 : L'Institut national de l'origine et de la qualité (INAO)
 
-- [Sous-section 1 : Dispositions applicables à la procédure d'examen des demandes d'enregistrement ou de modification des appellations d'origine protégées déposées en France.](sous-section-1)
-- [Sous-section 2 : Dispositions applicables à la procédure d'examen des demandes d'enregistrement ou de modification des indications géographiques protégées déposées en France.](sous-section-2)
-- [Sous-section 3 : Dispositions applicables à la procédure d'opposition aux demandes d'enregistrement ou de modifications des appellations d'origine protégées et des indications géographiques protégées présentées par les autres Etats membres.](sous-section-3)
+- [Sous-section 1 : Le conseil permanent](sous-section-1)
+- [Sous-section 2 : Les comités nationaux](sous-section-2)
+- [Sous-section 3 : Le conseil des agréments et contrôles](sous-section-3)
+- [Sous-section 4 : Les comités régionaux](sous-section-4)
+- [Sous-section 5 : Dispositions communes au conseil permanent, aux comités nationaux et régionaux et au conseil des agréments et contrôles](sous-section-5)
+- [Sous-section 6 : Le directeur](sous-section-6)
+- [Sous-section 7 : Agents.](sous-section-7)
+- [Sous-section 8 : Tutelle.](sous-section-8)
 - [Article R*642-1](article-r-642-1.md)
+- [Article R642-1](article-r642-1.md)
