@@ -4,6 +4,6 @@ Par dérogation aux dispositions de l'article R. 314-164, lorsque les établisse
 
 Pour les établissements qui ne disposent pas de pharmacie à usage intérieur, la contribution de l'assurance maladie définie au précédent alinéa ne peut être supérieure à 30 % des dépenses salariales afférentes aux aides soignants et aux aides médico-psychologiques, telles qu'elles ont été constatées lors de l'exercice précédent la signature de la convention prévue à l'article L. 313-12.
 
-Dans les établissements de santé gérant plusieurs activités d'accueil de personnes âgées dépendantes, retracées dans plusieurs budgets annexes mentionnés aux b) et d) de l'article R. 714-3-9 du code de la santé publique, la contribution de l'assurance maladie à l'un de ces budgets annexes peut financer les charges de soins d'un autre.
+Dans les établissements de santé gérant plusieurs activités d'accueil de personnes âgées dépendantes, retracées dans plusieurs comptes de résultat prévisionnels annexes mentionnés à l'article R. 6145-12 du code de la santé publique, la contribution de l'assurance maladie à l'un de ces comptes de résultat prévisionnels annexes peut financer les charges de soins d'un autre.
 
 Cependant, l'équilibre de la section tarifaire afférente aux soins doit être réalisé à l'échéance de la première convention.
