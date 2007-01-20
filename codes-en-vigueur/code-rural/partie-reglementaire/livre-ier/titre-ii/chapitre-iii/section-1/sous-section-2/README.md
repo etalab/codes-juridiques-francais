@@ -5,5 +5,4 @@
 - [Article R123-9](article-r123-9.md)
 - [Article R123-10](article-r123-10.md)
 - [Article R123-11](article-r123-11.md)
-- [Article R*123-12](article-r-123-12.md)
 - [Article R123-12](article-r123-12.md)
