@@ -1,4 +1,4 @@
-# Sous-section 2 : Commission nationale des calamités agricoles.
+# Sous-section 2 : Comité national de l'assurance en agriculture.
 
 - [Article D361-7](article-d361-7.md)
 - [Article D361-8](article-d361-8.md)
