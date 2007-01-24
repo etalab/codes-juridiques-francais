@@ -1,8 +1,6 @@
 # Article Annexe Tableau IV quinquies
 
-Tableau IV quinquies
-
-**Liste des maisons de justice et du droit.**
+**Liste des maisons de justice et du droit**
 
 <table>
 <tbody>
@@ -53,9 +51,7 @@ Tableau IV quinquies
 </td>
 </tr>
 <tr>
-<td width="205">
-<br/>
-</td>
+<td width="205"/>
 <td width="184">
 <p>Marseille</p>
 </td>
@@ -80,12 +76,8 @@ Tableau IV quinquies
 <b>Cour d'appel d'Amiens</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
@@ -97,6 +89,11 @@ Tableau IV quinquies
 <td width="225">
 <p>Méru/Vexin-Thelle-Sablons. </p>
 </td>
+</tr>
+<tr>
+<td/>
+<td>Senlis</td>
+<td>Creil</td>
 </tr>
 <tr>
 <td width="205">
@@ -121,6 +118,11 @@ Tableau IV quinquies
 <td width="225">
 <br/>
 </td>
+</tr>
+<tr>
+<td>Maine-et-Loire</td>
+<td>Angers</td>
+<td>Angers</td>
 </tr>
 <tr>
 <td width="205">
@@ -185,12 +187,8 @@ Tableau IV quinquies
 <b>Cour d'appel de Bourges</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
@@ -209,12 +207,8 @@ Tableau IV quinquies
 <b>Cour d'appel de Caen</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
@@ -233,12 +227,8 @@ Tableau IV quinquies
 <b>Cour d'appel<br/>de Chambéry</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
@@ -256,9 +246,16 @@ Tableau IV quinquies
 <p>Savoie</p>
 </td>
 <td width="184">
+<p>Alberville</p>
+</td>
+<td width="225">Alberville (La Tarentaise)</td>
+</tr>
+<tr>
+<td/>
+<td>
 <p>Chambéry</p>
 </td>
-<td width="225">
+<td>
 <p>Aix-les-Bains, Chambéry. </p>
 </td>
 </tr>
@@ -268,12 +265,8 @@ Tableau IV quinquies
 <b>Cour d'appel de Colmar</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
@@ -298,9 +291,7 @@ Tableau IV quinquies
 </td>
 </tr>
 <tr>
-<td width="205">
-<br/>
-</td>
+<td width="205"/>
 <td width="184">
 <p>Mulhouse</p>
 </td>
@@ -314,12 +305,13 @@ Tableau IV quinquies
 <b>Cour d'appel de Dijon</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
+</tr>
+<tr>
+<td>Côtes-d'Or</td>
+<td>Dijon</td>
+<td>Chenôve</td>
 </tr>
 <tr>
 <td width="205">
@@ -333,9 +325,7 @@ Tableau IV quinquies
 </td>
 </tr>
 <tr>
-<td width="205">
-<br/>
-</td>
+<td width="205"/>
 <td width="184">
 <p>Mâcon</p>
 </td>
@@ -349,12 +339,8 @@ Tableau IV quinquies
 <b>Cour d'appel de Douai</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
@@ -368,9 +354,7 @@ Tableau IV quinquies
 </td>
 </tr>
 <tr>
-<td width="205">
-<br/>
-</td>
+<td width="205"/>
 <td width="184">
 <p>Avesnes-sur-Helpe</p>
 </td>
@@ -390,9 +374,7 @@ Tableau IV quinquies
 </td>
 </tr>
 <tr>
-<td width="205">
-<br/>
-</td>
+<td width="205"/>
 <td width="184">
 <p>Boulogne-sur-Mer</p>
 </td>
@@ -406,12 +388,8 @@ Tableau IV quinquies
 <b>Cour d'appel<br/>de Fort-de-France</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
@@ -441,12 +419,8 @@ Tableau IV quinquies
 <b>Cour d'appel<br/>de Grenoble</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
@@ -471,9 +445,7 @@ Tableau IV quinquies
 </td>
 </tr>
 <tr>
-<td width="205">
-<br/>
-</td>
+<td width="205"/>
 <td width="184">
 <p>Vienne</p>
 </td>
@@ -487,12 +459,8 @@ Tableau IV quinquies
 <b>Cour d'appel<br/>de Limoges</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
@@ -511,12 +479,8 @@ Tableau IV quinquies
 <b>Cour d'appel de Lyon</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
@@ -546,12 +510,8 @@ Tableau IV quinquies
 <b>Cour d'appel de Metz</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
@@ -570,12 +530,8 @@ Tableau IV quinquies
 <b>Cour d'appel <br/>de Montpellier</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
@@ -605,12 +561,8 @@ Tableau IV quinquies
 <b>Cour d'appel de Nancy</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
@@ -629,12 +581,8 @@ Tableau IV quinquies
 <b>Cour d'appel de Nîmes</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
@@ -653,12 +601,8 @@ Tableau IV quinquies
 <b>Cour d'appel d'Orléans</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
@@ -688,12 +632,8 @@ Tableau IV quinquies
 <b>Cour d'appel de Paris</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
@@ -703,7 +643,7 @@ Tableau IV quinquies
 <p>Evry</p>
 </td>
 <td width="225">
-<p>Athis-Mons, Les Ulis. </p>
+<p>Athis-Mons, Les Ulis, Villemoisson-sur-Orge (val d'Orge)</p>
 </td>
 </tr>
 <tr>
@@ -725,18 +665,16 @@ Tableau IV quinquies
 <p>Meaux</p>
 </td>
 <td width="225">
-<p>Chelles, Meaux, Val Maubuée, Pontault-Combault, Savigny-le-Temple. </p>
+<p>Chelles, Meaux, Val-Maubuée. </p>
 </td>
 </tr>
 <tr>
-<td width="205">
-<br/>
-</td>
+<td width="205"/>
 <td width="184">
 <p>Melun</p>
 </td>
 <td width="225">
-<p>Aubervilliers, Epinay, La Courneuve. </p>
+<p>Pontault-Combault, Savigny-le-Temple</p>
 </td>
 </tr>
 <tr>
@@ -747,7 +685,7 @@ Tableau IV quinquies
 <p>Bobigny</p>
 </td>
 <td width="225">
-<br/>
+<p>Aubervilliers, Clichy-sous-Bois/Montfermeil, Epinay, La Courneuve. </p>
 </td>
 </tr>
 <tr>
@@ -756,12 +694,8 @@ Tableau IV quinquies
 <b>Cour d'appel de Poitiers</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
@@ -780,12 +714,8 @@ Tableau IV quinquies
 <b>Cour d'appel de Reims</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
@@ -797,6 +727,11 @@ Tableau IV quinquies
 <td width="225">
 <p>Charleville-Mézières, Sedan. </p>
 </td>
+</tr>
+<tr>
+<td>Aube</td>
+<td>Troyes</td>
+<td>Troyes</td>
 </tr>
 <tr>
 <td width="205">
@@ -815,12 +750,8 @@ Tableau IV quinquies
 <b>Cour d'appel de Rennes</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
@@ -850,12 +781,8 @@ Tableau IV quinquies
 <b>Cour d'appel de Riom</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
@@ -874,12 +801,8 @@ Tableau IV quinquies
 <b>Cour d'appel de Rouen</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
@@ -904,9 +827,7 @@ Tableau IV quinquies
 </td>
 </tr>
 <tr>
-<td width="205">
-<br/>
-</td>
+<td width="205"/>
 <td width="184">
 <p>Rouen</p>
 </td>
@@ -920,12 +841,8 @@ Tableau IV quinquies
 <b>Cour d'appel<br/>de Toulouse</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
@@ -939,17 +856,18 @@ Tableau IV quinquies
 </td>
 </tr>
 <tr>
+<td>Tarn</td>
+<td>Castres</td>
+<td>Mazamet</td>
+</tr>
+<tr>
 <td width="205">
 <p align="center">
 <b>Cour d'appel<br/>de Versailles</b>
 </p>
 </td>
-<td width="184">
-<br/>
-</td>
-<td width="225">
-<br/>
-</td>
+<td width="184"/>
+<td width="225"/>
 </tr>
 <tr>
 <td width="205">
