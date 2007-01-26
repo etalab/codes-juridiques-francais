@@ -7,4 +7,3 @@
 - [Chapitre V : Des actes relatifs à l'acquisition ou à la perte de la nationalité française](chapitre-v)
 - [Chapitre VI : Du contentieux de la nationalité](chapitre-vi)
 - [Chapitre VII : Des effets sur la nationalité française des transferts de souveraineté relatifs à certains territoires](chapitre-vii)
-- [Chapitre VIII : Dispositions particulières concernant les territoires d'outre-mer.](chapitre-viii)
