@@ -1,6 +1,5 @@
 # Chapitre V : Dispositions relatives aux jeunes travailleurs.
 
-- [Article R*715-1](article-r-715-1.md)
 - [Article R715-1](article-r715-1.md)
 - [Article R715-1-1](article-r715-1-1.md)
 - [Article R715-1-2](article-r715-1-2.md)
