@@ -13,3 +13,7 @@ Elle étudie toute question relative aux politiques en faveur de la petite enfan
 4° L'égalité d'accès aux modes d'accueil pour tous les enfants, notamment ceux ayant un handicap ou une maladie chronique, ainsi que ceux dont les familles rencontrent des difficultés de tous ordres ;
 
 5° La qualité des différents modes d'accueil, ainsi que leur complémentarité et leur articulation, y compris de l'école maternelle et de l'accueil périscolaire, afin de favoriser l'équilibre des rythmes de vie des enfants et la cohérence éducative.
+
+Dans le cadre du 4° du présent article, la commission, sur la base de données qui lui sont transmises par le département, la caisse d'allocations familiales, la caisse de mutualité sociale agricole, les agences locales pour l'emploi et les organismes chargés de l'insertion des publics rencontrant des difficultés particulières d'accès à l'emploi, élabore chaque année un diagnostic territorialisé des besoins d'accueil des familles rencontrant des difficultés d'accès à un mode d'accueil pour leurs jeunes enfants, notamment des familles bénéficiaires de l'une des allocations mentionnées à l'article L. 214-7.
+
+La commission formule, sur la base de ce diagnostic et des pratiques qui sont portées à sa connaissance, des propositions destinées à faciliter l'accès des enfants de ces familles à des modes d'accueil.
