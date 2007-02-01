@@ -1,6 +1,6 @@
 # Article L264
 
-Une déclaration de candidature est obligatoire pour chaque tour de scrutin. Sur chacune des listes, l'écart entre le nombre des candidats de chaque sexe ne peut être supérieur à un. Au sein de chaque groupe entier de six candidats dans l'ordre de présentation de la liste doit figurer un nombre égal de candidats de chaque sexe.
+Une déclaration de candidature est obligatoire pour chaque tour de scrutin. La liste est composée alternativement d'un candidat de chaque sexe.
 
 Seules peuvent se présenter au second tour les listes ayant obtenu au premier tour un nombre de suffrages au moins égal à 10 % du total des suffrages exprimés. Ces listes peuvent être modifiées dans leur composition pour comprendre des candidats ayant figuré au premier tour sur d'autres listes sous réserve que celles-ci ne se présentent pas au second tour et qu'elles aient obtenu au premier tour au moins 5 % des suffrages exprimés. En cas de modification de la composition d'une liste, l'ordre de présentation des candidats peut également être modifié.
 
