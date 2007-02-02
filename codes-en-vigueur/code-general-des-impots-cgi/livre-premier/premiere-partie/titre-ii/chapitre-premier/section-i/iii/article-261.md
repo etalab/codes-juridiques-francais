@@ -70,8 +70,6 @@ b. les cours ou leçons relevant de l'enseignement scolaire, universitaire, prof
 
 5° à 8° (Abrogés) ;
 
-8° bis Les prestations de services et les livraisons de biens qui leur sont étroitement liées, effectuées dans le cadre de la garde d'enfants par les établissements visés aux deux premiers alinéas de l'article L. 2324-1 du code de la santé publique et assurant l'accueil des enfants de moins de trois ans ; (1)
-
 9° les prestations de services et les livraisons de biens qui leur sont étroitement liées fournies à leurs membres, moyennant une cotisation fixée conformément aux statuts, par des organismes légalement constitués agissant sans but lucratif dont la gestion est désintéressée et qui poursuivent des objectifs de nature philosophique, religieuse, politique, patriotique, civique ou syndicale, dans la mesure où ces opérations se rattachent directement à la défense collective des intérêts moraux ou matériels des membres ; les dispositions des c et d du 1° du 7 s'appliquent à ces organismes ;
 
 10° Les travaux de construction, d'aménagement, de réparation et d'entretien des monuments, cimetières ou sépultures commémoratifs des combattants, héros, victimes ou morts des guerres, effectués pour les collectivités publiques et les organismes légalement constitués agissant sans but lucratif.
@@ -94,7 +92,7 @@ e. (Disposition périmée) ;
 
 f. (Abrogé) ;
 
-g) Les livraisons d'immeubles réalisées par les organismes d'habitations à loyer modéré régis par l'article L. 411-2 du code de la construction et de l'habitation ou de lots de copropriété faisant l'objet d'un plan de sauvegarde en application de l'article L. 615-1 du même code ou faisant l'objet d'une opération programmée d'amélioration de l'habitat prévue à l'article L. 303-1 du même code par les organismes sans but lucratif visés au 7 du présent article ou par les sociétés d'économie mixte exerçant une activité de construction ou de gestion de logements sociaux ;
+g) Les livraisons d'immeubles réalisées par les organismes d'habitations à loyer modéré régis par l'article L. 411-2 du code de la construction et de l'habitation ou de lots de copropriété faisant l'objet d'un plan de sauvegarde en application de l'article L. 615-1 du même code par les organismes sans but lucratif visés au 7 du présent article ou par les sociétés d'économie mixte exerçant une activité de construction ou de gestion de logements sociaux ;
 
 h) Les cessions de parts de sociétés civiles immobilières d'accession progressive à la propriété effectuées dans les conditions prévues aux articles L. 443-6-2 et suivants du code de la construction et de l'habitation ;
 
@@ -102,7 +100,7 @@ h) Les cessions de parts de sociétés civiles immobilières d'accession progres
 
 2° les apports et les cessions de terrains à bâtir effectués par les collectivités locales au profit des offices publics de l'habitat et de leurs unions, pour les opérations faites en application de la législation sur les organismes d'habitations à loyer modéré, ainsi que les apports consentis par les collectivités locales à des organismes d'habitations à loyer modéré ou à leurs unions, dans la mesure où ces apports sont effectués à titre gratuit.
 
-3° (alinéa devenu sans objet) ;
+3° les apports faits aux sociétés civiles visées à l'article L322-12 du code de l'urbanisme ;
 
 4° le bail à construction ;
 
