@@ -10,6 +10,6 @@ Le médecin, dans le cadre de son instruction, peut, le cas échéant, convoquer
 
 Le préfet délivre la carte de stationnement pour personnes handicapées conformément à l'avis du médecin chargé de l'instruction de la demande.
 
-La carte de stationnement pour personnes handicapées est attribuée pour une période au minimum d'une année et ne pouvant excéder dix ans.
+La carte de stationnement pour personnes handicapées est attribuée à titre définitif ou pour une durée déterminée ne pouvant être inférieure à un an.
 
 Un arrêté des ministres chargés des personnes handicapées et des anciens combattants définit les modalités d'appréciation d'une mobilité pédestre réduite et de la perte d'autonomie dans le déplacement individuel, en tenant compte notamment de la limitation du périmètre de marche de la personne ou de la nécessité pour celle-ci de recourir systématiquement à certaines aides techniques ou à une aide humaine lors de tous ses déplacements à l'extérieur.
