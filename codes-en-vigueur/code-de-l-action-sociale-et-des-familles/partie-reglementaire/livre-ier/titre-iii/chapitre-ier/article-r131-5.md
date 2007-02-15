@@ -1,5 +1,9 @@
 # Article R131-5
 
-En cas de décès d'un bénéficiaire de l'aide sociale, le maire avise le service d'aide sociale chargé du mandatement des allocations dans le délai de dix jours à compter soit du décès, soit de la date à laquelle celui-ci est porté à sa connaissance en application de l'article 80 du code civil.
+Les allocations d'aide sociale sont versées mensuellement et à terme échu à moins que les intéressés n'aient donné leur accord pour un terme plus long.
 
-Lorsque le décès se produit dans un établissement de santé ou dans un établissement d'hébergement social ou médico-social, l'obligation prévue au premier alinéa incombe au directeur de l'établissement.
+Elles sont payées au lieu de résidence de l'intéressé, soit à lui-même, soit à une personne désignée par lui. A leur demande, elles sont payées aux personnes âgées ou handicapées ayant des problèmes de mobilité par un moyen leur évitant de se déplacer.
+
+L'autorité administrative compétente en application de l'article L. 131-2 peut décider que le versement des allocations d'aide sociale sera fractionné par décisions spécialement motivées.
+
+Les allocations d'aide sociale ont un caractère alimentaire. Elles sont incessibles et insaisissables.
