@@ -1,5 +1,3 @@
 # Article R131-3
 
-Lorsque les décisions administratives d'admission ont été prises sur la base de déclarations incomplètes ou erronées, il peut être procédé à leur révision, avec répétition de l'indu. Dans ce cas, la révision est poursuivie devant l'autorité qui a pris la décision.
-
-Dans les cas prévus à l'article R. 131-2 et au premier alinéa du présent article, la procédure de révision est engagée par le président du conseil général ou le préfet et l'intéressé est mis en mesure de présenter ses observations.
+Sous réserve des dispositions des articles L. 232-25, L. 245-7 et L. 262-40, les décisions accordant le bénéfice de l'aide sociale peuvent faire l'objet, pour l'avenir, d'une révision lorsque des éléments nouveaux modifient la situation au vu de laquelle ces décisions sont intervenues. Il est procédé à cette révision dans les formes prévues pour l'admission à l'aide sociale.

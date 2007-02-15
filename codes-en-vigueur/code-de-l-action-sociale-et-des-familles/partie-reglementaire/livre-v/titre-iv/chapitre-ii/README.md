@@ -6,5 +6,4 @@
 - [Article D542-5](article-d542-5.md)
 - [Article D542-6](article-d542-6.md)
 - [Article D542-7](article-d542-7.md)
-- [Article D542-8](article-d542-8.md)
 - [Article R542-1](article-r542-1.md)

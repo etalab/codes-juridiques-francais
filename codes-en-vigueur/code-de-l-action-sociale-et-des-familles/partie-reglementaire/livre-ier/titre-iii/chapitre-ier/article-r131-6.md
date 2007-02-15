@@ -1,7 +1,5 @@
 # Article R131-6
 
-Les frais de visite occasionnés par la délivrance de certificats médicaux aux postulants à l'aide sociale sont à la charge de ces postulants ou à celle de l'aide médicale de l'Etat si les intéressés y ont été admis.
+En cas de décès d'un bénéficiaire de l'aide sociale, le maire avise le service d'aide sociale chargé du mandatement des allocations dans le délai de dix jours à compter soit du décès, soit de la date à laquelle celui-ci est porté à sa connaissance en application de l'article 80 du code civil.
 
-Les frais afférents aux contre-visites sont à la charge des services d'aide sociale.
-
-Les frais de transport des bénéficiaires des diverses formes d'aide sociale, lorsque ces déplacements sont reconnus indispensables, sont compris dans les dépenses d'aide sociale.
+Lorsque le décès se produit dans un établissement de santé ou dans un établissement d'hébergement social ou médico-social, l'obligation prévue au premier alinéa incombe au directeur de l'établissement.

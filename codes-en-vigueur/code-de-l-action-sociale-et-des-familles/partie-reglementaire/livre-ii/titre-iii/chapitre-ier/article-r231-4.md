@@ -1,6 +1,6 @@
 # Article R231-4
 
-Le placement à titre onéreux chez un particulier au titre de l'aide sociale donne lieu à une prise en charge déterminée par la commission d'admission à l'aide sociale, compte tenu :
+Le placement à titre onéreux chez un particulier au titre de l'aide sociale donne lieu à une prise en charge compte tenu :
 
 1° D'un plafond constitué par la rémunération et les indemnités mentionnées aux 1° et 2° de l'article L. 442-1, le cas échéant selon la convention accompagnant l'habilitation à recevoir des bénéficiaires de l'aide sociale ;
 
