@@ -1,5 +1,5 @@
 # Article D542-3
 
-L'admission à l'aide sociale prononcée par la commission d'admission mentionnée à l'article L. 542-3 donne lieu à l'inscription sur la liste des bénéficiaires de l'aide sociale de la commune. Elle est effectuée par le représentant du Gouvernement. Elle mentionne notamment la date et la durée d'admission, la nature et le montant de l'aide allouée au bénéficiaire.
+Sous réserve qu'ils remplissent les conditions légales et réglementaires d'attribution, peuvent bénéficier des prestations d'aide sociale dans les conditions prévues au présent chapitre les étrangers titulaires d'un titre de séjour exigé en vertu des dispositions législatives ou réglementaires ou de traités ou accords internationaux pour résider régulièrement sur le territoire de Mayotte.
 
-La décision de la commission d'admission est notifiée au demandeur par le maire de la commune de résidence.
+Toutefois, ces dispositions relatives à la régularité du séjour ne sont pas opposables aux familles et aux mineurs de nationalité étrangère qui sollicitent le bénéfice des prestations prévues au titre de l'action sociale en faveur de l'enfance et de la famille.
