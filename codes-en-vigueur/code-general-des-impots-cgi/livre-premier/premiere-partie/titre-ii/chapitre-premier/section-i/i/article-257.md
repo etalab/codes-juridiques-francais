@@ -10,7 +10,11 @@ Sont également soumis à la taxe sur la valeur ajoutée :
 
 4°, 4° bis, 4° ter et 5° (Abrogés) ;
 
-6° Les opérations qui portent sur des immeubles, des fonds de commerce ou des actions ou parts de sociétés immobilières et dont les résultats doivent être compris dans les bases de l'impôt sur le revenu au titre des bénéfices industriels ou commerciaux ;
+6° Sous réserve du 7° :
+
+a) Les opérations qui portent sur des immeubles, des fonds de commerce ou des actions ou parts de sociétés immobilières et dont les résultats doivent être compris dans les bases de l'impôt sur le revenu au titre des bénéfices industriels et commerciaux ;
+
+b) Les cessions de droits au titre d'un contrat de fiducie représentatifs de biens visés au premier alinéa et dont les résultats doivent être compris dans les bases de l'impôt sur le revenu au titre des bénéfices industriels et commerciaux ;
 
 7° Les opérations concourant à la production ou à la livraison d'immeubles.
 
@@ -30,7 +34,19 @@ Un décret en Conseil d'Etat détermine les modalités d'application des troisi�
 
 b) Les ventes d'immeubles et les cessions, sous forme de vente ou d'apport en société, de parts d'intérêt ou d'actions dont la possession assure en droit ou en fait l'attribution en propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble ;
 
+b bis) Les cessions par le constituant, dans le cadre d'un contrat de fiducie, de droits représentatifs de biens visés aux a et b ;
+
 c) Les livraisons à soi-même d'immeubles.
+
+Constituent notamment des livraisons à soi-même d'immeubles les travaux portant sur des immeubles existants qui consistent en une surélévation, ou qui rendent à l'état neuf :
+
+1° Soit la majorité des fondations ;
+
+2° Soit la majorité des éléments hors fondations déterminant la résistance et la rigidité de l'ouvrage ;
+
+3° Soit la majorité de la consistance des façades hors ravalement ;
+
+4° Soit l'ensemble des éléments de second oeuvre tels qu'énumérés par décret en Conseil d'Etat, dans une proportion fixée par ce décret qui ne peut être inférieure à la moitié pour chacun d'entre eux.
 
 Toutefois, la livraison à soi-même d'immeubles affectés ou destinés à être affectés à l'habitation pour les trois quarts au moins de leur superficie totale et d'immeubles qui ne sont pas destinés à être utilisés pour la réalisation d'opérations soumises à la taxe sur la valeur ajoutée n'est imposée que lorsqu'il s'agit :
 
@@ -40,17 +56,25 @@ de logements sociaux à usage locatif mentionnés aux 3° et 5° de l'article L.
 
 de logements destinés à être occupés par des titulaires de contrats de location-accession conclus dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière, qui font l'objet, dans des conditions fixées par décret, d'une convention et bénéficient d'une décision d'agrément prise par le représentant de l'Etat dans le département.
 
+de structures d'hébergement temporaire ou d'urgence faisant l'objet d'une convention entre le propriétaire ou le gestionnaire des locaux et le représentant de l'Etat dans le département et destinées aux personnes visées au II de l'article L. 301-1 du code de la construction et de l'habitation.
+
+de logements sociaux à usage locatif construits par l'association mentionnée à l'article 116 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre 2001), ou par les sociétés civiles immobilières dont cette association détient la majorité des parts lorsqu'elles ont conclu avec l'Etat une convention en application du 4° de l'article L. 351-2 du code de la construction et de l'habitation.
+
+de logements à usage locatif construits par l'association mentionnée à l'article 116 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre 2001) ou par les sociétés civiles immobilières dont cette association détient la majorité des parts, dans des quartiers faisant l'objet d'une convention prévue à l'article 10 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine et destinés à être occupés par des ménages dont le total des ressources n'excède pas le montant mentionné à l'article R. 391-8 du code de la construction et de l'habitation.
+
+de locaux d'établissements mentionnés aux 6° et 7° du I de l'article L. 312-1 du code de l'action sociale et des familles, agissant sans but lucratif et dont la gestion est désintéressée, lorsqu'ils accueillent des personnes handicapées ou, lorsqu'ils accueillent des personnes âgées s'ils remplissent les critères d'éligibilité au prêt prévu à l'article R. 331-1 du code de la construction et de l'habitation, et qui font l'objet d'une convention entre le propriétaire ou le gestionnaire des locaux et le représentant de l'Etat dans le département.
+
 2. Les dispositions qui précèdent ne sont pas applicables :
 
 aux opérations portant sur des immeubles ou parties d'immeubles qui sont achevés depuis plus de cinq ans ou qui, dans les cinq ans de cet achèvement, ont déjà fait l'objet d'une cession à titre onéreux à une personne n'intervenant pas en qualité de marchand de biens ;
 
-aux opérations portant sur des droits sociaux qui sont afférents à des immeubles ou parties d'immeubles achevés depuis plus de cinq ans ou qui, dans les cinq ans de l'achèvement de ces immeubles ou parties d'immeubles, ont déjà fait l'objet d'une cession à titre onéreux à une personne n'intervenant pas en qualité de marchand de biens.
+aux opérations portant sur des droits sociaux ou des droits résultant d'un contrat de fiducie qui sont afférents à des immeubles ou parties d'immeubles achevés depuis plus de cinq ans ou qui, dans les cinq ans de l'achèvement de ces immeubles ou parties d'immeubles, ont déjà fait l'objet d'une cession à titre onéreux à une personne n'intervenant pas en qualité de marchand de biens.
 
 2 bis. Le transfert de propriété à titre onéreux d'un immeuble bâti d'une commune à une communauté de communes, en application du premier alinéa de l'article L. 5214-18 du code général des collectivités territoriales, n'est pas pris en compte pour l'application du 2.
 
 3. abrogé
 
-7° bis Sous réserve de l'application du 7°, et dans la mesure où ces travaux portent sur des logements sociaux à usage locatif mentionnés aux 2°, 3° et 5° de l'article L. 351-2 du code de la construction et de l'habitation, les livraisons à soi-même :
+7° bis Sous réserve de l'application du 7°, et dans la mesure où ces travaux portent sur des logements sociaux à usage locatif mentionnés aux 2°, 3°, 4° et 5° de l'article L. 351-2 du code de la construction et de l'habitation, les livraisons à soi-même :
 
 a. De travaux d'amélioration mentionnés à l'article R. 323-3 du code de la construction et de l'habitation qui bénéficient de la subvention prévue aux articles R. 323-1 à R. 323-12 dudit code ou d'une subvention de l'Agence nationale pour la rénovation urbaine, et qui sont réalisés à compter du 1er janvier 1998 ;
 
@@ -58,11 +82,19 @@ b. De travaux d'amélioration, de transformation ou d'aménagement, notamment lo
 
 c. De travaux d'entretien, autres que l'entretien des espaces verts et les travaux de nettoyage.
 
+d) De travaux d'amélioration, de transformation, d'aménagement ou d'entretien, autres que l'entretien des espaces verts et les travaux de nettoyage, par l'association mentionnée à l'article 116 de la loi de finances pour 2002 précitée ou par les sociétés civiles immobilières dont cette association détient la majorité des parts ;
+
 Un décret en Conseil d'Etat définit les conditions d'application des b et c ;
 
 Ces dispositions ne sont pas applicables aux travaux bénéficiant du taux réduit de la taxe sur la valeur ajoutée en application de l'article 279-0 bis.
 
 7° ter Les livraisons à soi-même d'ouvrages de circulation routière donnant lieu à la perception de péages soumis à la taxe sur la valeur ajoutée ;
+
+7° quater Sous réserve de l'application du 7°, et dans la mesure où ces travaux portent sur les structures d'hébergement temporaire ou d'urgence destinées aux personnes visées au II de l'article L. 301-1 du code de la construction et de l'habitation faisant l'objet d'une convention entre le propriétaire ou le gestionnaire des locaux et le représentant de l'Etat dans le département, les livraisons à soi-même de travaux d'amélioration, de transformation, d'aménagement ou d'entretien, autres que l'entretien des espaces verts et les travaux de nettoyage. Ces dispositions ne sont pas applicables aux travaux bénéficiant du taux réduit de taxe sur la valeur ajoutée prévu par l'article 279-0 bis ;
+
+7° quinquies Sous réserve de l'application du 7°, les livraisons à soi-même de travaux d'amélioration, de transformation, d'aménagement ou d'entretien, autres que l'entretien des espaces verts et les travaux de nettoyage, réalisés par l'association mentionnée à l'article 116 de la loi de finances pour 2002 précitée ou par les sociétés civiles immobilières dont cette association détient la majorité des parts, et portant sur des logements à usage locatif situés dans des quartiers faisant l'objet d'une convention prévue à l'article 10 de la loi n° 2003-710 du 1er août 2003 précitée et destinés à être occupés par des ménages dont le total des ressources n'excède pas le montant mentionné à l'article R. 391-8 du code de la construction et de l'habitation ;
+
+7° sexies Sous réserve de l'application du 7°, les livraisons à soi-même de travaux d'amélioration, de transformation, d'aménagement ou d'entretien, autres que l'entretien des espaces verts et les travaux de nettoyage, portant sur les locaux d'établissements mentionnés aux 6° et 7° du I de l'article L. 312-1 du code de l'action sociale et des familles, agissant sans but lucratif et dont la gestion est désintéressée, lorsqu'ils accueillent des personnes handicapées ou, lorsqu'ils accueillent des personnes âgées s'ils remplissent les critères d'éligibilité au prêt prévu à l'article R. 331-1 du code de la construction et de l'habitation, et qui font l'objet d'une convention entre le propriétaire ou le gestionnaire des locaux et le représentant de l'Etat dans le département. Ces dispositions ne sont pas applicables aux travaux bénéficiant du taux réduit de taxe sur la valeur ajoutée prévu par l'article 279-0 bis du présent code.
 
 8° Les opérations suivantes assimilées, selon le cas, à des livraisons de biens ou à des prestations de services effectuées à titre onéreux.
 
