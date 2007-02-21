@@ -10,6 +10,6 @@ En cas d'acquisitions successives par des personnes mentionnées aux premier à 
 
 Pour les biens acquis avant le 1er janvier 1993, le délai mentionné aux troisième et quatrième alinéas et en cours à cette date est prorogé jusqu'au 31 décembre 1998.
 
-Pour l'application de la condition de revente, les apports purs et simples effectués à compter du 1er janvier 1996 ne sont pas considérés comme des ventes.
+Pour l'application de la condition de revente, les transferts de droits ou de biens dans un patrimoine fiduciaire et les apports purs et simples effectués à compter du 1er janvier 1996 ne sont pas considérés comme des ventes.
 
 Pour les reventes consistant en des ventes par lots déclenchant le droit de préemption prévu à l'article 10 de la loi n° 75-1351 du 31 décembre 1975 relative à la protection des occupants de locaux à usage d'habitation ou celui prévu à l'article 15 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986, le délai prévu pour l'application de la condition de revente visée au b est ramené à deux ans.

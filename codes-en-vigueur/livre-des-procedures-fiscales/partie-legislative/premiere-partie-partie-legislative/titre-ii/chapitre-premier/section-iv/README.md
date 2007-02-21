@@ -4,4 +4,5 @@
 - [II : Procédure de régularisation](ii)
 - [III : Procédure spéciale de l'article 168 du code général des impôts](iii)
 - [IV : Procédure de l'abus de droit fiscal](iv)
+- [V : Procédure de rectification spécifique à la fiducie](v)
 - [Article L54 B](article-l54-b.md)

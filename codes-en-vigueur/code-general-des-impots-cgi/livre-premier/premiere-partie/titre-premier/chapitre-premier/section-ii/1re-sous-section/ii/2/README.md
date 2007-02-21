@@ -13,6 +13,7 @@
 - [Article 38 ter](article-38-ter.md)
 - [Article 38 quater](article-38-quater.md)
 - [Article 38 quinquies](article-38-quinquies.md)
+- [Article 38 quinquies A](article-38-quinquies-a.md)
 - [Article 38 sexies](article-38-sexies.md)
 - [Article 39](article-39.md)
 - [Article 39 C](article-39-c.md)

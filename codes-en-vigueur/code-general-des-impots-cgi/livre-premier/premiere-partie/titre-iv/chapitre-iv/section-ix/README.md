@@ -18,3 +18,4 @@
 - [12° bis : Changement de régime matrimonial au profit d'un régime communautaire](12-bis)
 - [14° bis : Droits de succession. Exonération des immeubles et droits immobiliers situés en Corse](14-bis)
 - [12° ter : Versements en capital au titre de la prestation compensatoire](12-ter)
+- [12° quater : Fiducie](12-quater)
