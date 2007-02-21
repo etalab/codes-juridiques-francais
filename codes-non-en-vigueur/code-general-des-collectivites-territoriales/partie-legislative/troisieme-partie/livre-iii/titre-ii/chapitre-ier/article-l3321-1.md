@@ -12,6 +12,8 @@ Sont obligatoires pour le département :
 
 5° La rémunération des agents départementaux ;
 
+5° bis Dans les conditions prévues à l'article 88-1 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, les dépenses afférentes aux prestations mentionnées à l'article 9 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires ;
+
 6° Les intérêts de la dette ;
 
 7° Les dépenses de fonctionnement des collèges ;
