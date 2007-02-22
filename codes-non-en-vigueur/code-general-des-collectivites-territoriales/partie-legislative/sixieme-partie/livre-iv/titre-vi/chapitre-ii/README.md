@@ -1,0 +1,17 @@
+# CHAPITRE II : Compétences du président du conseil territorial
+
+- [Article LO6462-1](article-lo6462-1.md)
+- [Article LO6462-2](article-lo6462-2.md)
+- [Article LO6462-3](article-lo6462-3.md)
+- [Article LO6462-4](article-lo6462-4.md)
+- [Article LO6462-5](article-lo6462-5.md)
+- [Article LO6462-6](article-lo6462-6.md)
+- [Article LO6462-7](article-lo6462-7.md)
+- [Article LO6462-8](article-lo6462-8.md)
+- [Article LO6462-9](article-lo6462-9.md)
+- [Article LO6462-10](article-lo6462-10.md)
+- [Article LO6462-11](article-lo6462-11.md)
+- [Article LO6462-12](article-lo6462-12.md)
+- [Article LO6462-13](article-lo6462-13.md)
+- [Article LO6462-14](article-lo6462-14.md)
+- [Article LO6462-15](article-lo6462-15.md)
