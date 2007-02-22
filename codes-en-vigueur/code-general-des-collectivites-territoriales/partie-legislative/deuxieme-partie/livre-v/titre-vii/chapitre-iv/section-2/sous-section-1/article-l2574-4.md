@@ -16,7 +16,7 @@ II. - Les dépenses obligatoires comprennent notamment :
 
 6° Les traitements et autres frais du personnel de la police municipale et rurale ;
 
-7° Les dépenses de secours que les communes peuvent être amenées à engager, à l'exception des dépenses liées au service d'incendie et de secours prévues à l'article L. 3562-1 ;
+7° Les dépenses de secours que les communes peuvent être amenées à engager, à l'exception des dépenses liées au service d'incendie et de secours prévues à l'article LO. 6172-1 ;
 
 Toutefois, sans préjudice des dispositions applicables aux activités réglementées, les communes peuvent exiger des intéressés ou de leurs ayants droit une participation aux frais qu'elles ont engagés à l'occasion d'opérations de secours consécutives à la pratique de toute activité sportive ou de loisir. Elles déterminent les conditions dans lesquelles s'effectue cette participation, qui peut porter sur tout ou partie des dépenses ;
 

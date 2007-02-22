@@ -22,4 +22,4 @@ Pour l'application à Mayotte des dispositions du présent code :
 
 "tribunal supérieur d'appel".
 
-Les références à des dispositions non applicables dans la collectivité sont remplacées par les références aux dispositions ayant le même objet applicable localement.
+Les références à des dispositions non applicables dans la collectivité sont remplacées par les références aux dispositions ayant le même objet applicables localement.

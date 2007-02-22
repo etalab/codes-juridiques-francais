@@ -14,6 +14,6 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 
 6° Le livre VI, à l'exclusion des articles L. 622-19, L. 625-9 et L. 670-1 à L. 670-8 ;
 
-7° Le titre Ier du livre VII, à l'exception des articles L. 711-5 et L. 712-1 et des dispositions relatives aux délégués consulaires ; les articles L. 721-3 à L. 721-6 ;
+7° Le titre Ier du livre VII, à l'exception de la section 2 du chapitre Ier, du second alinéa de l'article L. 711-5, des articles L. 712-2, L. 712-4 et L. 712-5, ainsi que des dispositions relatives aux délégués consulaires ; les articles L. 721-3 à L. 721-6 ;
 
 8° Le livre VIII.
