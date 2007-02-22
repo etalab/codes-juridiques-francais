@@ -1,3 +1,3 @@
-# Livre VI : Dispositions finales
+# Livre VI : Dispositions particulières à Mayotte, à Saint-Barthélemy, à Saint-Martin  et à Saint-Pierre-et-Miquelon
 
-- [Article L450](article-l450.md)
+- [Titre Ier : Mayotte](titre-ier)
