@@ -4,4 +4,3 @@
 - [TITRE II : Dispositions statutaires](titre-ii)
 - [TITRE III : Compétences et attributions](titre-iii)
 - [TITRE IV : Procédure](titre-iv)
-- [TITRE V : Dispositions particulières applicables à Mayotte.](titre-v)
