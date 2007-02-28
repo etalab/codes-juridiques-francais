@@ -14,7 +14,7 @@ N'est pas pénalement responsable de l'infraction définie au 1° l'employé qui
 
 5° D'un établissement de crédit, de La Poste ou d'un prestataire effectuant au nom et pour le compte de ceux-ci des opérations de traitement des pièces en euros à titre professionnel, de livrer à l'une des personnes précitées des pièces en euros en sachant qu'elles n'ont pas été préalablement triées et contrôlées au moyen d'un équipement mentionné à l'article R. 121-3 ;
 
-6° D'un établissement de crédit, de La Poste, d'un prestataire effectuant au nom et pour le compte de ceux-ci des opérations de traitement des billets ou de pièces en euros à titre professionnel ou d'un changeur manuel, de ne pas remettre sans délai à la Banque de France ou à l'administration des Monnaies et médailles les pièces de monnaie ou les billets en euros dont il a des raisons suffisantes de penser qu'ils sont faux ;
+6° D'un établissement de crédit, de La Poste, d'un prestataire effectuant au nom et pour le compte de ceux-ci des opérations de traitement des billets ou de pièces en euros à titre professionnel ou d'un changeur manuel, de ne pas remettre sans délai à la Banque de France ou à l'établissement public La Monnaie de Paris les pièces de monnaie ou les billets en euros dont il a des raisons suffisantes de penser qu'ils sont faux ;
 
 N'est pas pénalement responsable de l'infraction définie au 6° l'employé qui justifie avoir effectué les contrôles et respecté les procédures de remise sans délai prévues à l'article R. 123-1, de façon conforme aux règles écrites internes adoptées par l'établissement dont il relève, ou celui dont l'établissement n'a pas établi de telles règles.
 

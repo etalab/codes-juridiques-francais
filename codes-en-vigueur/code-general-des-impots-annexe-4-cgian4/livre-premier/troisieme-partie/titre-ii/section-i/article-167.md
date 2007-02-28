@@ -20,7 +20,7 @@ les régies municipales, intercommunales et départementales exploitant des serv
 
 les manufactures nationales ;
 
-l'administration des monnaies et médailles ;
+l'établissement public La Monnaie de Paris ;
 
 les arsenaux, poudreries et usines mécaniques de l'Etat.
 

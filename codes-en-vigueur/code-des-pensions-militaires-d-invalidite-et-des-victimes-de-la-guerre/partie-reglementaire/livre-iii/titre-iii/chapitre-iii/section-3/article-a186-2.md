@@ -1,6 +1,6 @@
 # Article A186-2
 
-La médaille de la déportation et de l'internement pour faits de résistance est frappée par l'administration des monnaies et médailles. Elle est en bronze, de forme pentagonale, ayant une hauteur de 34 millimètres sans la bélière. Elle porte à l'envers le motif "mains levées liées par une chaîne sur un fonds de flamme", et au revers l'inscription "République française, Médaille de la déportation et de l'internement pour faits de résistance" avec, en exergue, une croix de Lorraine.
+La médaille de la déportation et de l'internement pour faits de résistance est frappée par l'établissement public la Monnaie de Paris. Elle est en bronze, de forme pentagonale, ayant une hauteur de 34 millimètres sans la bélière. Elle porte à l'envers le motif "mains levées liées par une chaîne sur un fonds de flamme", et au revers l'inscription "République française, Médaille de la déportation et de l'internement pour faits de résistance" avec, en exergue, une croix de Lorraine.
 
 Cette médaille est suspendue au ruban par une bélière également en bronze.
 
