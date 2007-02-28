@@ -14,4 +14,6 @@ Les dispositions relatives à chacun des parcs nationaux sont énoncées aux dé
 
 6° Décret n° 79-696 du 18 août 1979 créant le parc national du Mercantour ;
 
-7° Décret n° 89-144 du 20 février 1989 créant le parc national de la Guadeloupe.
+7° Décret n° 89-144 du 20 février 1989 créant le parc national de la Guadeloupe ;
+
+8° Décret n° 2007-266 du 27 février 2007 créant le parc amazonien de Guyane.
