@@ -9,5 +9,4 @@
 - [Article R751-62](article-r751-62.md)
 - [Article R751-63](article-r751-63.md)
 - [Article R751-64](article-r751-64.md)
-- [Article R751-65](article-r751-65.md)
 - [Article R751-66](article-r751-66.md)
