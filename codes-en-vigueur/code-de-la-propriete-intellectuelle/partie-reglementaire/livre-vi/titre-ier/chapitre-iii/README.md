@@ -5,4 +5,3 @@
 - [Section 4 : Recours en restauration](section-4)
 - [Section 5 : Registre national des brevets](section-5)
 - [Section 6 : Etablissement de l'avis documentaire](section-6)
-- [Section 7 : Réduction des redevances et assistance gratuite](section-7)
