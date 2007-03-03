@@ -6,15 +6,9 @@ L'Institut national de la propriété industrielle perçoit des redevances, dont
 
 Dépôt ;
 
-Rapport de recherche ;
+Rapport de recherche ou rapport de recherche complémentaire ;
 
 Revendication supplémentaire à partir de la onzième ;
-
-Déclaration d'un droit de priorité ;
-
-Requête du bénéfice de la date du dépôt d'une demande antérieure ;
-
-Nouvelles revendications entraînant un rapport de recherche complémentaire ;
 
 Requête en rectification d'erreurs ;
 
@@ -24,15 +18,7 @@ Délivrance et impression du fascicule ;
 
 Maintien en vigueur ;
 
-Supplément pour paiement tardif de la redevance de dépôt ou de rapport de recherche ;
-
-Supplément pour requête tardive du rapport de recherche ;
-
-Supplément pour paiement tardif de la redevance annuelle ;
-
 Recours en restauration ;
-
-Certificat complémentaire de protection ;
 
 2° Pour les brevets européens :
 
@@ -44,8 +30,6 @@ Etablissement et transmission de copies de la demande de brevet européen aux Et
 
 Transmission d'une demande internationale ;
 
-Confirmation de désignation d'Etats ;
-
 Supplément pour paiement tardif ;
 
 Préparation d'exemplaires complémentaires ;
@@ -56,23 +40,13 @@ Dépôt ;
 
 Classe de produit ou service ;
 
-Revendication d'un droit de priorité ;
-
-Régularisation ;
+Régularisation ou rectification d'erreur matérielle ;
 
 Opposition ;
 
-Rectification d'erreur matérielle ;
-
 Renouvellement ;
 
-Supplément pour renouvellement tardif ;
-
-Supplément pour paiement tardif de la redevance de renouvellement ;
-
-Renonciation ;
-
-Demande d'inscription au Registre international des marques ;
+Demande d'inscription au registre international des marques ;
 
 Relevé de déchéance ;
 
@@ -82,29 +56,23 @@ Dépôt ;
 
 Prorogation ;
 
-Supplément pour prorogation tardive ;
-
-Supplément pour paiement tardif de la redevance de prorogation ;
-
-Renonciation à l'ajournement de la publication ;
-
-Renonciation aux effets du dépôt ;
-
 Régularisation, rectification, relevé de déchéance ;
 
 Enregistrement et gardiennage d'enveloppe spéciale ;
 
-6° Pour les droits voisins de la propriété industrielle :
+6° Redevances communes aux brevets d'invention, certificats d'utilité, certificats complémentaires de protection, logiciels, marques, dessins ou modèles. - Palmarès et récompenses :
 
-Topographies de produits semi-conducteurs : dépôt et conservation ; inscription d'un acte modifiant ou transmettant les droits ;
+Supplément pour requête tardive, paiement tardif ou accomplissement tardif d'une formalité ;
 
-Récompenses industrielles : enregistrement d'un palmarès, d'une récompense ou transcription d'une déclaration de cession ou de transmission ;
+Renonciation ;
 
-7° S'agissant des registres nationaux des brevets, marques, dessins, modèles et registre national spécial des logiciels :
+Demande d'inscription sur le registre national ;
 
-Demande d'inscription ;
+Enregistrement d'un palmarès, d'une récompense ou transcription d'une déclaration de cession ou de transmission ;
 
-Renouvellement de l'inscription d'un nantissement du droit d'exploitation des logiciels ;
+7° Pour les droits voisins de la propriété industrielle :
+
+Topographies de produits semi-conducteurs : dépôt et conservation ; inscription d'un acte modifiant ou transmettant les droits ;.
 
 8° S'agissant du registre national du commerce et des sociétés :
 
