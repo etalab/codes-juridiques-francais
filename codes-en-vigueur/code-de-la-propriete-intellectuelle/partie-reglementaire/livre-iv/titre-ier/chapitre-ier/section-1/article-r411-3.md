@@ -18,7 +18,9 @@ Le conseil d'administration est composé de douze membres :
 
 8° Deux représentants du personnel en fonctions dans l'établissement, élus dans des conditions fixées par arrêté du ministre chargé de la propriété industrielle.
 
-Les fonctions de membre du conseil d'administration ne sont pas rémunérées. Elles ouvrent droit aux indemnités de déplacement et de séjour prévues par le décret n° 90-437 du 28 mai 1990.
+Le président est assisté d'un vice-président nommé dans les mêmes conditions que lui et choisi parmi les membres du conseil d'administration.
+
+Les fonctions de membre du conseil d'administration ne sont pas rémunérées. Elles ouvrent droit aux indemnités de déplacement et de séjour prévues par le décret n° 2006-781 du 3 juillet 2006.
 
 Le directeur général, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
 
