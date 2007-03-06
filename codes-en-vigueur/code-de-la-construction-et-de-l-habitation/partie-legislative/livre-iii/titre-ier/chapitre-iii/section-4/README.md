@@ -1,6 +1,7 @@
 # Section 4 : Dispositions diverses.
 
 - [Article L313-26](article-l313-26.md)
+- [Article L313-26-1](article-l313-26-1.md)
 - [Article L313-27](article-l313-27.md)
 - [Article L313-28](article-l313-28.md)
 - [Article L313-29](article-l313-29.md)

@@ -8,7 +8,7 @@ Les peines sont portées à sept ans d'emprisonnement et à 100 000 Euros d'amen
 
 La tentative des délits prévus aux alinéas précédents est punie des mêmes peines.
 
-Le fait de détenir une telle image ou représentation est puni de deux ans d'emprisonnement et 30000 euros d'amende.
+Le fait de consulter habituellement un service de communication au public en ligne mettant à disposition une telle image ou représentation ou de détenir une telle image ou représentation par quelque moyen que ce soit est puni de deux ans d'emprisonnement et 30000 euros d'amende.
 
 Les infractions prévues au présent article sont punies de dix ans d'emprisonnement et de 500 000 Euros d'amende lorsqu'elles sont commises en bande organisée.
 

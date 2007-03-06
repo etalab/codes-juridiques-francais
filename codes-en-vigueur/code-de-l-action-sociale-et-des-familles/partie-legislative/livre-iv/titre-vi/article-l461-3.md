@@ -1,0 +1,3 @@
+# Article L461-3
+
+Lorsque la formation du demandeur est inférieure d'au moins un an à celle prévue par la convention collective ou lorsque cette formation porte sur des matières substantiellement différentes, en termes de durée ou de contenu, de celles qui figurent au programme du diplôme français et dont la connaissance est essentielle à l'exercice des activités professionnelles concernées, sauf notamment si les connaissances qu'il a acquises au cours de son expérience professionnelle sont de nature à rendre cette vérification inutile, le demandeur choisit soit de se soumettre à une épreuve d'aptitude, soit d'accomplir un stage d'adaptation dont la durée ne peut excéder trois ans.

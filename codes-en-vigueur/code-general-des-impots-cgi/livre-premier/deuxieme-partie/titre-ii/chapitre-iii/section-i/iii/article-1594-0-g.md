@@ -52,4 +52,6 @@ g. Les rétrocessions consenties en application de l'article L. 213-11 du code d
 
 h. les acquisitions de biens soumis au droit de préemption institué dans les zones de préemption créées en application de l'article L. 142-3 du code de l'urbanisme, effectuées dans les conditions prévues aux articles L. 142-3 et L. 142-4 dudit code par les collectivités ou établissements publics bénéficiant du droit de préemption, directement, par substitution ou par délégation ;
 
-i. les rétrocessions consenties en application de l'article L. 142-8 du code de l'urbanisme.
+i. les rétrocessions consenties en application de l'article L. 142-8 du code de l'urbanisme ;
+
+j. Les cessions d'actifs opérées par l'association mentionnée à l'article 116 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre 2001) ou par les sociétés civiles immobilières dont elle détient la majorité des parts, en faveur des régimes de retraites complémentaires obligatoires des salariés du secteur privé par répartition institués par voie d'accords collectifs interprofessionnels.

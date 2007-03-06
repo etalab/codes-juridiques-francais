@@ -4,3 +4,4 @@
 - [Chapitre II : Rapports entre l'Etat et les établissements d'enseignement privés](chapitre-ii)
 - [Chapitre III : Les établissements d'enseignement technique privés](chapitre-iii)
 - [Chapitre IV : Les établissements privés dispensant un enseignement à distance.](chapitre-iv)
+- [Chapitre V : Les organismes de soutien scolaire](chapitre-v)

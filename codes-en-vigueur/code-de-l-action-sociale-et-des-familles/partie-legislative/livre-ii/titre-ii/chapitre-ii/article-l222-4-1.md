@@ -8,4 +8,4 @@ Lorsqu'il constate que les obligations incombant aux parents ou au représentant
 
 2° Saisir le procureur de la République de faits susceptibles de constituer une infraction pénale ;
 
-3° Saisir l'autorité judiciaire pour qu'il soit fait application, s'il y a lieu, des dispositions de l'article L. 552-6 du code de la sécurité sociale.
+3° Saisir l'autorité judiciaire pour qu'il soit fait application, s'il y a lieu, des dispositions de l'article 375-9-1 du code civil.

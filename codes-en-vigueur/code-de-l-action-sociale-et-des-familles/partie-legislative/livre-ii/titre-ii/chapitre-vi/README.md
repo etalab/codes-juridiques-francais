@@ -2,7 +2,10 @@
 
 - [Article L226-1](article-l226-1.md)
 - [Article L226-2](article-l226-2.md)
+- [Article L226-2-1](article-l226-2-1.md)
+- [Article L226-2-2](article-l226-2-2.md)
 - [Article L226-3](article-l226-3.md)
+- [Article L226-3-1](article-l226-3-1.md)
 - [Article L226-4](article-l226-4.md)
 - [Article L226-5](article-l226-5.md)
 - [Article L226-6](article-l226-6.md)
@@ -12,4 +15,5 @@
 - [Article L226-10](article-l226-10.md)
 - [Article L226-11](article-l226-11.md)
 - [Article L226-12](article-l226-12.md)
+- [Article L226-12-1](article-l226-12-1.md)
 - [Article L226-13](article-l226-13.md)

@@ -8,6 +8,8 @@ Le bulletin n° 2 du casier judiciaire est délivré :
 
 3° Aux administrations et personnes morales dont la liste sera déterminée par le décret en Conseil d'Etat prévu à l'article 779, ainsi qu'aux administrations ou organismes chargés par la loi ou le règlement du contrôle de l'exercice d'une activité professionnelle ou sociale lorsque cet exercice fait l'objet de restrictions expressément fondées sur l'existence de condamnations pénales.
 
-4° Aux présidents des tribunaux de commerce pour être joint aux procédures de faillite et de règlement judiciaire, ainsi qu'aux juges commis à la surveillance du registre du commerce à l'occasion des demandes d'inscription audit registre .
+4° Aux présidents des tribunaux de commerce pour être joint aux procédures de faillite et de règlement judiciaire, ainsi qu'aux juges commis à la surveillance du registre du commerce à l'occasion des demandes d'inscription audit registre ;
+
+5° Aux présidents de conseils généraux saisis d'une demande d'agrément en vue d'adoption prévu à l'article L. 225-2 du code de l'action sociale et des familles.
 
 Les dirigeants de personnes morales de droit public ou privé exerçant auprès des mineurs une activité culturelle, éducative ou sociale au sens de l'article L. 312-1 du code de l'action sociale et des familles peuvent obtenir la délivrance du bulletin n° 2 du casier judiciaire, pour les seules nécessités liées au recrutement d'une personne, lorsque ce bulletin ne porte la mention d'aucune condamnation. La liste de ces personnes morales est déterminée par décret du ministre de la justice et du ou des ministres intéressés.

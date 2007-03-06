@@ -7,6 +7,7 @@
 - [Article 584](article-584.md)
 - [Article 585](article-585.md)
 - [Article 585-1](article-585-1.md)
+- [Article 585-2](article-585-2.md)
 - [Article 586](article-586.md)
 - [Article 587](article-587.md)
 - [Article 588](article-588.md)
