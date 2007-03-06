@@ -42,4 +42,6 @@ Le maire peut, en outre, par délégation du conseil municipal, être chargé, e
 
 20° De réaliser les lignes de trésorerie sur la base d'un montant maximum autorisé par le conseil municipal ;
 
-21° D'exercer, au nom de la commune et dans les conditions fixées par le conseil municipal, le droit de préemption défini par l'article L. 214-1 du code de l'urbanisme.
+21° D'exercer, au nom de la commune et dans les conditions fixées par le conseil municipal, le droit de préemption défini par l'article L. 214-1 du code de l'urbanisme ;
+
+22° D'exercer au nom de la commune le droit de priorité défini aux articles L. 240-1 et suivants du code de l'urbanisme.

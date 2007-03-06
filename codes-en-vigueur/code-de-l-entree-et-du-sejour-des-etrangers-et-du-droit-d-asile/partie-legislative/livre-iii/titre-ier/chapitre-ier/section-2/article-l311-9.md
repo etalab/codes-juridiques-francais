@@ -6,7 +6,7 @@ A cette fin, il conclut avec l'Etat un contrat d'accueil et d'intégration, trad
 
 Lors du premier renouvellement de la carte de séjour, il peut être tenu compte du non-respect, manifesté par une volonté caractérisée, par l'étranger, des stipulations du contrat d'accueil et d'intégration.
 
-L'étranger ayant effectué sa scolarité dans un établissement d'enseignement secondaire français à l'étranger pendant au moins trois ans est dispensé de la signature de ce contrat.
+L'étranger ayant effectué sa scolarité dans un établissement d'enseignement secondaire français à l'étranger pendant au moins trois ans est dispensé de la signature de ce contrat. Il en va de même pour l'étranger âgé de seize à dix-huit ans révolus pouvant prétendre à un titre de séjour et relevant des dispositions prévues à l'article L. 314-12.
 
 L'étranger qui n'a pas conclu un contrat d'accueil et d'intégration lorsqu'il a été admis pour la première fois au séjour en France peut demander à signer un tel contrat.
 

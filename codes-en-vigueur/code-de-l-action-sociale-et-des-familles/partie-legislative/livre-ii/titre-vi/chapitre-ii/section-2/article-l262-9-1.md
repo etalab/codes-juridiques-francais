@@ -8,4 +8,4 @@ Pour l'ouverture du droit à l'allocation, les ressortissants des Etats membres 
 
 - aux ascendants, descendants et conjoints des personnes mentionnées aux deux alinéas précédents.
 
-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+Les ressortissants des Etats membres de la Communauté européenne et des autres Etats parties à l'accord sur l'Espace économique européen, entrés en France pour y chercher un emploi et qui s'y maintiennent à ce titre, ne bénéficient pas du revenu minimum d'insertion.
