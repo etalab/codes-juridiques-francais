@@ -6,7 +6,7 @@ Le Conseil national pour l'accès aux origines personnelles reçoit :
 
 - s'il est majeur, par celui-ci ;
 
-- s'il est mineur, par son ou ses représentants légaux ou par lui-même avec l'accord de ceux-ci ;
+- s'il est mineur, et qu'il a atteint l'âge de discernement, par celui-ci avec l'accord de ses représentants légaux ;
 
 - s'il et majeur placé sous tutelle, par son tuteur ;
 

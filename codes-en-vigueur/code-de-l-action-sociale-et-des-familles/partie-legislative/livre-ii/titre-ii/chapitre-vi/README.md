@@ -1,4 +1,4 @@
-# Chapitre VI : Protection des mineurs maltraités.
+# Chapitre VI : Protection des mineurs en danger et recueil des informations préoccupantes.
 
 - [Article L226-1](article-l226-1.md)
 - [Article L226-2](article-l226-2.md)

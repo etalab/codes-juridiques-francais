@@ -2,7 +2,7 @@
 
 Les personnes tenues à l'obligation alimentaire instituée par les articles 205 et suivants du code civil sont, à l'occasion de toute demande d'aide sociale, invitées à indiquer l'aide qu'elles peuvent allouer aux postulants et à apporter, le cas échéant, la preuve de leur impossibilité de couvrir la totalité des frais.
 
-Sous réserve d'une décision contraire du juge aux affaires familiales, sont de droit dispensés de fournir cette aide les enfants qui, après signalement de l'aide sociale à l'enfance, ont fait l'objet d'un retrait judiciaire de leur milieu familial durant une période de trente-six mois cumulés au cours des douze premières années de leur vie.
+Les enfants qui ont été retirés de leur milieu familial par décision judiciaire durant une période d'au moins trente-six mois cumulés au cours des douze premières années de leur vie sont, sous réserve d'une décision contraire du juge aux affaires familiales, dispensés de droit de fournir cette aide.
 
 Cette dispense s'étend aux descendants des enfants susvisés.
 
