@@ -10,4 +10,6 @@ Il détermine en outre les conditions dans lesquelles :
 
 2° Le travail d'intérêt général peut, pour les condamnés salariés, se cumuler avec la durée légale du travail ;
 
-3° Sont habilitées les associations mentionnées au premier alinéa de l'article 131-8.
+3° Sont habilitées les associations mentionnées au premier alinéa de l'article 131-8 ;
+
+4° Sont désignées les personnes physiques ou morales chargées de participer à la mise en oeuvre des stages mentionnés à l'article 131-35-1.
