@@ -4,7 +4,7 @@ S'il lui apparaît qu'une telle mesure est susceptible d'assurer la réparation 
 
 1° Procéder au rappel auprès de l'auteur des faits des obligations résultant de la loi ;
 
-2° Orienter l'auteur des faits vers une structure sanitaire, sociale ou professionnelle ; cette mesure peut consister dans l'accomplissement par l'auteur des faits, à ses frais, d'un stage ou d'une formation dans un service ou un organisme sanitaire, social ou professionnel, et notamment d'un stage de citoyenneté ; en cas d'infraction commise à l'occasion de la conduite d'un véhicule terrestre à moteur, cette mesure peut consister dans l'accomplissement, par l'auteur des faits, à ses frais, d'un stage de sensibilisation à la sécurité routière ;
+2° Orienter l'auteur des faits vers une structure sanitaire, sociale ou professionnelle ; cette mesure peut consister dans l'accomplissement par l'auteur des faits, à ses frais, d'un stage ou d'une formation dans un service ou un organisme sanitaire, social ou professionnel, et notamment d'un stage de citoyenneté, d'un stage de responsabilité parentale ou d'un stage de sensibilisation aux dangers de l'usage de produits stupéfiants ; en cas d'infraction commise à l'occasion de la conduite d'un véhicule terrestre à moteur, cette mesure peut consister dans l'accomplissement, par l'auteur des faits, à ses frais, d'un stage de sensibilisation à la sécurité routière ;
 
 3° Demander à l'auteur des faits de régulariser sa situation au regard de la loi ou des règlements ;
 

@@ -12,7 +12,9 @@ Sont agents de police judiciaire adjoints :
 
 1° quinquies Les militaires servant au titre de la réserve opérationnelle de la gendarmerie nationale ne remplissant pas les conditions prévues par l'article 20-1 ;
 
-2° Les agents de police municipale.
+2° Les agents de police municipale ;
+
+3° Les gardes champêtres, lorsqu'ils agissent pour l'exercice des attributions fixées au dernier alinéa de l'article L. 2213-18 du code général des collectivités territoriales.
 
 Ils ont pour mission :
 

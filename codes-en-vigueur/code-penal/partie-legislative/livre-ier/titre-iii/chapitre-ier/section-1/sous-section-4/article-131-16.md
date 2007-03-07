@@ -16,4 +16,10 @@ Le règlement qui réprime une contravention peut prévoir, lorsque le coupable 
 
 7° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ;
 
-8° L'obligation d'accomplir, le cas échéant à ses frais, un stage de citoyenneté.
+8° L'obligation d'accomplir, le cas échéant à ses frais, un stage de citoyenneté ;
+
+9° L'obligation d'accomplir, à ses frais, un stage de responsabilité parentale, selon les modalités fixées à l'article 131-35-1 ;
+
+10° La confiscation de l'animal ayant été utilisé pour commettre l'infraction ou à l'encontre duquel l'infraction a été commise ;
+
+11° L'interdiction, pour une durée de trois ans au plus, de détenir un animal.

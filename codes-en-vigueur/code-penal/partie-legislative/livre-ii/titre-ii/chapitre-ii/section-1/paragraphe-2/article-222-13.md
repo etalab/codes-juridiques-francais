@@ -26,14 +26,16 @@ Les violences ayant entraîné une incapacité de travail inférieure ou égale 
 
 8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
 
-9° Avec préméditation ;
+9° Avec préméditation ou avec guet-apens ;
 
 10° Avec usage ou menace d'une arme ;
 
-11° Lorsque les faits sont commis à l'intérieur d'un établissement scolaire ou éducatif, ou, à l'occasion des entrées ou des sorties des élèves, aux abords d'un tel établissement ;
+11° Dans les établissements d'enseignement ou d'éducation ou dans les locaux de l'administration, ainsi que, lors des entrées ou sorties des élèves ou du public ou dans un temps très voisin de celles-ci, aux abords de ces établissements ou locaux ;
 
 12° Par un majeur agissant avec l'aide ou l'assistance d'un mineur ;
 
-13° Dans un moyen de transport collectif de voyageurs ou dans un lieu destiné à l'accès à un moyen de transport collectif de voyageurs.
+13° Dans un moyen de transport collectif de voyageurs ou dans un lieu destiné à l'accès à un moyen de transport collectif de voyageurs ;
+
+14° Par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits stupéfiants.
 
 Les peines encourues sont portées à cinq ans d'emprisonnement et à 75000 euros d'amende lorsque l'infraction définie au premier alinéa est commise sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le mineur. Les peines sont également portées à cinq ans d'emprisonnement et 75000 euros d'amende lorsque cette infraction, ayant entraîné une incapacité totale de travail inférieure ou égale à huit jours, est commise dans deux des circonstances prévues aux 1° et suivants du présent article. Les peines sont portées à sept ans d'emprisonnement et 100000 euros d'amende lorsqu'elle est commise dans trois de ces circonstances.

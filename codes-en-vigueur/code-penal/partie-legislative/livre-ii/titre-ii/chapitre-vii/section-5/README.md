@@ -10,6 +10,7 @@
 - [Article 227-19](article-227-19.md)
 - [Article 227-21](article-227-21.md)
 - [Article 227-22](article-227-22.md)
+- [Article 227-22-1](article-227-22-1.md)
 - [Article 227-23](article-227-23.md)
 - [Article 227-24](article-227-24.md)
 - [Article 227-25](article-227-25.md)

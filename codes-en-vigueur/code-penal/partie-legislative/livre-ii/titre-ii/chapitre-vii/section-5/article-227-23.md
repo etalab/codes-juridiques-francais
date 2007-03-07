@@ -4,7 +4,7 @@ Le fait, en vue de sa diffusion, de fixer, d'enregistrer ou de transmettre l'ima
 
 Le fait d'offrir, de rendre disponible ou de diffuser une telle image ou représentation, par quelque moyen que ce soit, de l'importer ou de l'exporter, de la faire importer ou de la faire exporter, est puni des mêmes peines.
 
-Les peines sont portées à sept ans d'emprisonnement et à 100 000 Euros d'amende lorsqu'il a été utilisé, pour la diffusion de l'image ou de la représentation du mineur à destination d'un public non déterminé, un réseau de télécommunications.
+Les peines sont portées à sept ans d'emprisonnement et à 100 000 Euros d'amende lorsqu'il a été utilisé, pour la diffusion de l'image ou de la représentation du mineur à destination d'un public non déterminé, un réseau de communications électroniques.
 
 La tentative des délits prévus aux alinéas précédents est punie des mêmes peines.
 

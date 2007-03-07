@@ -1,8 +1,8 @@
 # Article L235-3
 
-I. - Le fait de refuser de se soumettre aux vérifications prévues par l'article L. 235-2 est puni de deux ans d'emprisonnement et de 4 500 Euros d'amende.
+I.-Le fait de refuser de se soumettre aux vérifications prévues par l'article L. 235-2 est puni de deux ans d'emprisonnement et de 4 500 euros d'amende.
 
-II. - Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
+II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
 
 1° La suspension pour une durée de trois ans au plus du permis de conduire ; cette suspension ne peut pas être limitée à la conduite en dehors de l'activité professionnelle ; elle ne peut être assortie du sursis, même partiellement ;
 
@@ -14,6 +14,8 @@ II. - Toute personne coupable de ce délit encourt également les peines complé
 
 5° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de conduire n'est pas exigé, pour une durée de cinq ans au plus ;
 
-6° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière.
+6° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ;
 
-III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.
+7° L'obligation d'accomplir, à ses frais, un stage de sensibilisation aux dangers de l'usage de produits stupéfiants.
+
+III.-Ce délit donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.
