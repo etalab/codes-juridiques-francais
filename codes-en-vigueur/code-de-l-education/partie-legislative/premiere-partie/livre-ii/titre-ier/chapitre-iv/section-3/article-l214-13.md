@@ -2,6 +2,8 @@
 
 I. - La région adopte le plan régional de développement des formations professionnelles et s'assure de sa mise en oeuvre. Ce plan a pour objet de définir une programmation à moyen terme des actions de formation professionnelle des jeunes et des adultes et de favoriser un développement cohérent de l'ensemble des filières de formation en favorisant un accès équilibré des femmes et des hommes à chacune de ces filières de formation.
 
+Il comporte des actions de formation et d'information destinées à favoriser leur insertion sociale.
+
 Il définit également les priorités relatives à l'information, à l'orientation et à la validation des acquis de l'expérience.
 
 Ce plan est élaboré en concertation avec l'Etat, les collectivités territoriales concernées et les organisations syndicales d'employeurs et de salariés représentatives à l'échelon national ainsi que les organismes mentionnés à l'article L. 351-21 du code du travail.
