@@ -10,6 +10,10 @@ Les personnes physiques coupables de l'infraction prévue à l'article 223-1 enc
 
 4° L'annulation du permis de conduire, avec interdiction de solliciter la délivrance d'un nouveau permis pendant cinq ans au plus ;
 
+4° bis L'obligation d'accomplir un stage de sensibilisation aux dangers de l'usage de produits stupéfiants, selon les modalités fixées à l'article 131-35-1 ;
+
+4° ter L'obligation d'accomplir un stage de responsabilité parentale, selon les modalités fixées à l'article 131-35-1 ;
+
 5° Lorsque l'infraction a été commise à l'occasion de la conduite d'un véhicule terrestre à moteur, l'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de conduire n'est pas exigé, pour une durée de cinq ans au plus ;
 
 6° Lorsque l'infraction a été commise à l'occasion de la conduite d'un véhicule terrestre à moteur, l'obligation d'accomplir, à leurs frais, un stage de sensibilisation à la sécurité routière ;
