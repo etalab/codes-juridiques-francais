@@ -10,7 +10,9 @@ b) En cas de coupes et d'abattages d'arbres effectués en infraction aux disposi
 
 c) En cas d'exécution de travaux ou d'utilisation du sol en infraction aux dispositions de l'article L. 142-11 relatif à la protection des espaces naturels sensibles des départements ;
 
-d) En cas d'exécution de travaux ou d'utilisation du sol en infraction aux prescriptions architecturales ou aux règles particulières édictées dans une zone d'environnement protégé en application de l'article L. 143-1 (alinéa 2).
+d) En cas d'exécution de travaux ou d'utilisation du sol en infraction aux prescriptions architecturales ou aux règles particulières édictées dans une zone d'environnement protégé en application de l'article L. 143-1 (alinéa 2) ;
+
+e) En cas d'exécution, dans une zone d'aménagement concerté, de travaux dont la réalisation doit obligatoirement être précédée d'une étude de sécurité publique en application de l'article L. 111-3-1, avant la réception de cette étude par la commission compétente en matière de sécurité publique.
 
 Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 252-1 du code rural, peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction aux alinéas premier et second du présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de défendre.
 

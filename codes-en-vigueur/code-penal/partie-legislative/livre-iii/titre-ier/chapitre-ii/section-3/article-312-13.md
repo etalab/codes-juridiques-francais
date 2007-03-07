@@ -12,4 +12,6 @@ Les personnes physiques coupables de l'une des infractions prévues au présent 
 
 5° L'interdiction de séjour suivant les modalités prévues par l'article 131-31 ;
 
-6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités de l'article 131-5-1.
+6° L'obligation d'accomplir un stage de citoyenneté, selon les modalités de l'article 131-5-1 ;
+
+7° L'obligation d'accomplir un stage de sensibilisation aux dangers de l'usage de produits stupéfiants, selon les modalités fixées à l'article 131-35-1.

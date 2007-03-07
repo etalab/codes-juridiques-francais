@@ -12,7 +12,7 @@ Sont jugés dans les conditions prévues au troisième alinéa de l'article 398 
 
 5° Les délits prévus par les articles 222-11, 222-12 (1° à 13°), 222-13 (1° à 13°), 222-16, 222-17, 222-18, 222-32, 225-10-1, 227-3 à 227-11 311-3, 311-4 (1° à 8°), 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4-1, 322-12, 322-13, 322-14, 433-3, premier et deuxième alinéas, 433-5, 433-6 à 433-8, premier alinéa, 433-10, premier alinéa, et 521-1 du code pénal et L. 628 du code de la santé publique ;
 
-6° Les délits prévus par le code rural en matière de chasse, de pêche et de protection de la faune et de la flore et les délits prévus par le décret-loi du 9 janvier 1852 en matière de pêche maritime ;
+6° Les délits prévus par le code de l'environnement en matière de chasse, de pêche en eau douce, de pêche maritime et de protection de la faune et de la flore ;
 
 7° Les délits prévus par le code forestier et par le code de l'urbanisme pour la protection des bois et forêts ;
 

@@ -14,4 +14,6 @@ Les personnes physiques coupables des infractions prévues par les sections 1 bi
 
 6° L'interdiction, pour une durée de cinq ans au plus, de quitter le territoire de la République ;
 
-7° L'interdiction d'exercer, soit à titre définitif, soit pour une durée de dix ans au plus, une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs.
+7° L'interdiction d'exercer, soit à titre définitif, soit pour une durée de dix ans au plus, une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs ;
+
+8° L'obligation d'accomplir un stage de responsabilité parentale, selon les modalités fixées à l'article 131-35-1.

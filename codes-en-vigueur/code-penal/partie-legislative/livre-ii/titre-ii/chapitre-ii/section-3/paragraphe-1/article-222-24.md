@@ -22,4 +22,6 @@ Le viol est puni de vingt ans de réclusion criminelle :
 
 10° Lorsqu'il est commis en concours avec un ou plusieurs autres viols commis sur d'autres victimes ;
 
-11° Lorsqu'il est commis par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité.
+11° Lorsqu'il est commis par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
+
+12° Lorsqu'il est commis par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits stupéfiants.

@@ -18,6 +18,8 @@ La procédure applicable à l'enquête, la poursuite, l'instruction et le jugeme
 
 8° Crimes aggravés d'extorsion prévus par les articles 312-6 et 312-7 du code pénal ;
 
+8° bis Délit d'escroquerie commis en bande organisée prévu par l'article 313-2 du code pénal ;
+
 9° Crime de destruction, dégradation et détérioration d'un bien commis en bande organisée prévu par l'article 322-8 du code pénal ;
 
 10° Crimes en matière de fausse monnaie prévus par les articles 442-1 et 442-2 du code pénal ;

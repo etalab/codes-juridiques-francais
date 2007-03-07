@@ -1,6 +1,7 @@
 # Section 3 : Des attributions du procureur de la République
 
 - [Article 39](article-39.md)
+- [Article 39-1](article-39-1.md)
 - [Article 40](article-40.md)
 - [Article 40-1](article-40-1.md)
 - [Article 40-2](article-40-2.md)

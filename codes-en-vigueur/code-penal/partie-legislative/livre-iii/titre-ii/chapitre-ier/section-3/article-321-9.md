@@ -18,4 +18,6 @@ Les personnes physiques coupables des infractions prévues au présent chapitre 
 
 8° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31, dans les cas prévus aux articles 321-1 à 321-4 ;
 
-9° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35.
+9° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 ;
+
+10° L'obligation d'accomplir un stage de responsabilité parentale, selon les modalités fixées à l'article 131-35-1.

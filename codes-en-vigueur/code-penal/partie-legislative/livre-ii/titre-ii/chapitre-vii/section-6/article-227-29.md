@@ -12,4 +12,6 @@ Les personnes physiques coupables des infractions prévues au présent chapitre 
 
 5° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit ;
 
-6° L'interdiction, soit à titre définitif, soit pour une durée de dix ans au plus, d'exercer une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs.
+6° L'interdiction, soit à titre définitif, soit pour une durée de dix ans au plus, d'exercer une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs ;
+
+7° L'obligation d'accomplir un stage de responsabilité parentale, selon les modalités fixées à l'article 131-35-1.

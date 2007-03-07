@@ -6,3 +6,4 @@
 - [Section 4 : Des atteintes à la filiation](section-4)
 - [Section 5 : De la mise en péril des mineurs](section-5)
 - [Section 6 : Peines complémentaires applicables aux personnes physiques](section-6)
+- [Section 7 : Peine complémentaire commune aux personnes physiques et aux personnes morales](section-7)
