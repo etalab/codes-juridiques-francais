@@ -4,7 +4,6 @@
 - [Article D422-98](article-d422-98.md)
 - [Article D422-99](article-d422-99.md)
 - [Article D422-100](article-d422-100.md)
-- [Article D422-101](article-d422-101.md)
 - [Article D422-102](article-d422-102.md)
 - [Article D422-103](article-d422-103.md)
 - [Article D422-104](article-d422-104.md)
