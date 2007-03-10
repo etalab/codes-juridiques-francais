@@ -6,6 +6,6 @@ Sans préjudice des missions propres aux groupements de coopération sociale ou 
 
 2° De créer et de gérer des équipements ou des services d'intérêt commun ou des systèmes d'information nécessaires à leurs activités ;
 
-3° De faciliter ou d'encourager les actions concourant à l'amélioration de l'évaluation de l'activité de leurs membres et de la qualité de leurs prestations, notamment par le développement et la diffusion de procédures, de références ou de recommandations de bonnes pratiques, en lien avec les travaux du Conseil national de l'évaluation sociale et médico-sociale ;
+3° De faciliter ou d'encourager les actions concourant à l'amélioration de l'évaluation de l'activité de leurs membres et de la qualité de leurs prestations, notamment par le développement et la diffusion de procédures, de références ou de recommandations de bonnes pratiques, en lien avec les travaux de l'Agence nationale de l'évaluation et de la qualité des établissements et services sociaux et médico-sociaux ;
 
 4° De définir ou proposer des actions de formation à destination des personnels de leurs membres.
