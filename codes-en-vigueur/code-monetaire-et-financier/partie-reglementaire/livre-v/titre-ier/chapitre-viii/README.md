@@ -2,4 +2,4 @@
 
 - [Section 2 : La Caisse des dépôts et consignations.](section-2)
 - [Section 4 : La Caisse nationale d'épargne.](section-4)
-- [Section 5 : Les associations sans but lucratif habilitées à faire certains prêts.](section-5)
+- [Section 5 : Les associations sans but lucratif et les sociétés autorisées à effectuer certaines opérations de banque.](section-5)
