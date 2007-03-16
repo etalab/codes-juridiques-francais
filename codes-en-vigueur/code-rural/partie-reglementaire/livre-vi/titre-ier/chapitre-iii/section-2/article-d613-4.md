@@ -18,7 +18,7 @@ Sont nommés en qualité d'experts permanents et à ce titre participent aux tra
 
 8° Un représentant du Comité national de promotion des produits agricoles ;
 
-9° Un représentant de l'Assemblée permanente des chambres d'agriculture au titre du service d'utilité agricole - fédération des comités régionaux de promotion ;
+9° Un représentant de l'assemblée permanente des chambres d'agriculture ;
 
 10° Un représentant de la Compagnie française d'assurance pour le commerce extérieur ;
 
