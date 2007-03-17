@@ -9,6 +9,5 @@
 - [Paragraphe 7 : Diplôme d'Etat de médiateur familial.](paragraphe-7)
 - [Paragraphe 8 : Certificat d'aptitude aux fonctions de moniteur éducateur.](paragraphe-8)
 - [Paragraphe 9 : Diplôme d'Etat de technicien de l'intervention sociale et familiale.](paragraphe-9)
-- [Paragraphe 10 : Diplôme d'Etat d'auxiliaire de vie sociale.](paragraphe-10)
 - [Paragraphe 11 : Certificat d'aptitude aux fonctions d'aide médico-psychologique.](paragraphe-11)
 - [Paragraphe 12 : Diplôme d'Etat d'assistant familial](paragraphe-12)
