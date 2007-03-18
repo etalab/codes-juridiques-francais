@@ -1,6 +1,6 @@
 # Article R*7-12-1-7
 
-Il est constitué un conseil de la maison de justice et du droit composé des signataires de la convention ou de leurs représentants, du greffier en chef, chef de greffe, et présidé par le président du tribunal de grande instance et le procureur de la République du ressort dans lequel la maison de justice et du droit est située.
+Il est constitué un conseil de la maison de justice et du droit composé des signataires de la convention ou de leurs représentants, du greffier en chef, directeur de greffe, et présidé par le président du tribunal de grande instance et le procureur de la République du ressort dans lequel la maison de justice et du droit est située.
 
 Le conseil de la maison de justice et du droit définit les orientations de l'action de celle-ci et met en place une procédure d'évaluation de cette action. Il autorise les interventions des associations.
 
