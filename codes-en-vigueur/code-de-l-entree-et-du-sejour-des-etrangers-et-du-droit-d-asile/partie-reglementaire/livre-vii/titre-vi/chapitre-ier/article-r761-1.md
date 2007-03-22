@@ -4,6 +4,12 @@ Le présent livre est applicable à Mayotte sous réserve des dispositions suiva
 
 1° Le président de la Commission des recours des réfugiés peut prendre les mesures nécessaires à la constitution et au fonctionnement de sections de la commission siégeant à Mayotte ;
 
+1° bis A l'article R. 723-1 :
+
+a) Au quatrième alinéa, les mots "au préfet de département compétent et, à Paris, au préfet de police sont remplacés par les mots : "au représentant de l'Etat à Mayotte ;
+
+b) Au cinquième alinéa, les mots "le préfet sont remplacés par les mots : "le préfet sont remplacés par les mots : le représentant de l'Etat à Mayotte" ;
+
 2° Au troisième alinéa de l'article R. 723-2 :
 
 a) Les mots : "au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Agence nationale de l'accueil des étrangers et des migrations" sont remplacés par les mots : "au représentant de l'Etat à Mayotte" ;
