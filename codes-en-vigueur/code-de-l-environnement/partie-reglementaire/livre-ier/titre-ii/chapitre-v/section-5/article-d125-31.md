@@ -18,6 +18,6 @@ Il peut émettre des observations sur les documents réalisés par l'exploitant 
 
 Il peut demander des informations sur les accidents dont les conséquences sont perceptibles à l'extérieur du site ;
 
-Son président est destinataire du rapport d'évaluation prévu par l'article L. 515-26 du code de l'environnement.
+Son président est destinataire du rapport d'évaluation prévu par l'article L. 515-26.
 
 En application de l'article 6 de la loi n° 78-753 du 17 juillet 1978 modifiée portant diverses mesures d'amélioration des relations entre l'administration et le public, sont exclues des éléments à porter à la connaissance du comité les indications susceptibles de porter atteinte au secret de défense nationale ou aux secrets de fabrication, ainsi que celles de nature à faciliter la réalisation d'actes de malveillance ou à faire obstacle à l'application des mesures mentionnées aux articles R. 125-9 à R. 125-14.
