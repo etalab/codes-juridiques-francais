@@ -6,3 +6,4 @@
 - [Chapitre V : Centres d'hébergement et de réinsertion sociale](chapitre-v)
 - [Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre.](chapitre-vi)
 - [Chapitre VII : Services d'aide et d'accompagnement non soumis à autorisation.](chapitre-vii)
+- [Chapitre VIII : Centres d'accueil pour demandeurs d'asile](chapitre-viii)
