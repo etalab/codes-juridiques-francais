@@ -62,9 +62,9 @@ VIII. - Pour les établissements et services mentionnés au 7° de l'article L. 
 
 5° Pour les autres établissements et services, par le département sous la forme d'un prix de journée établi et versé conformément aux dispositions du sous-paragraphe 3 du paragraphe 2 de la sous-section 3 de la présente section.
 
-IX. - Pour les établissements et services mentionnés au 8° de l'article L. 312-1 :
+IX. - Pour les établissements et services mentionnés au 8° et au 13° de l'article L. 312-1 :
 
-1° Pour les centres d'hébergement et de réinsertion sociale mentionnés à l'article L. 345-1, par l'Etat sous la forme d'une dotation globale de financement établie et versée dans les conditions fixées au sous-paragraphe 1 du paragraphe 2 de la présente sous-section et au paragraphe 9 de la sous-section 4 de la présente section ;
+1° Pour les centres d'hébergement et de réinsertion sociale mentionnés à l'article L. 345-1 et les centres d'accueil pour demandeurs d'asile mentionnés à l'article L. 348-1, par l'Etat sous la forme d'une dotation globale de financement établie et versée dans les conditions fixées au sous-paragraphe 1 du paragraphe 2 de la présente sous-section et au paragraphe 9 de la sous-section 4 de la présente section ;
 
 2° Pour les services d'aide à domicile qui relèvent simultanément du 1° du I de l'article L. 312-1, par le département sous forme d'une dotation globale de financement versée dans les conditions précisées aux articles R. 314-106 à R. 314-109 ;
 

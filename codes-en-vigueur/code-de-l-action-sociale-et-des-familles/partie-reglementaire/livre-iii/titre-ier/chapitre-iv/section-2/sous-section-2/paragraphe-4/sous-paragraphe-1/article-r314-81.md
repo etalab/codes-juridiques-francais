@@ -8,4 +8,4 @@ L'arrêté prévu à l'article R. 314-5 est établi par référence :
 
 Il comporte en outre des comptes de provisions réglementées relatifs à la réserve de trésorerie, ainsi que des comptes de plus values nettes sur cessions d'éléments d'actifs immobilisés et d'éléments d'actifs circulants.
 
-L'organisme gestionnaire dont les produits de la tarification des établissements et services relevant de l'article R. 314-1 représentent plus de 50 % de ses produits d'exploitation applique au niveau consolidé le plan comptable des établissements et services sociaux et médico-sociaux fixé par l'arrêté prévu à l'article R. 314-5.
+L'organisme gestionnaire dont les produits de la tarification des établissements et services relevant de l'article R. 314-1 représentent plus de 50 % de ses produits d'exploitation applique au niveau consolidé ou combiné le plan comptable des établissements et services sociaux et médico-sociaux fixé par l'arrêté prévu à l'article R. 314-5.
