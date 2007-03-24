@@ -7,6 +7,6 @@
 - [Paragraphe 6 : Services de soins infirmiers à domicile pour personnes âgées ou personnes handicapées adultes.](paragraphe-6)
 - [Paragraphe 7 : Foyers d'accueil médicalisés et services d'accompagnement médico-social pour personnes adultes handicapées.](paragraphe-7)
 - [Paragraphe 8 : Autres dispositions relatives aux établissements et services qui accueillent des personnes âgées ou des adultes handicapés.](paragraphe-8)
-- [Paragraphe 9 : Centres d'hébergement et de réinsertion sociale.](paragraphe-9)
+- [Paragraphe 9 : Centres d'hébergement et de réinsertion sociale et centres d'accueil pour demandeurs d'asile](paragraphe-9)
 - [Paragraphe 10 : Modalités particulières de financement des établissements hébergeant des personnes âgées dépendantes](paragraphe-10)
 - [Paragraphe 11 : Dispositions particulières applicables à diverses catégories d'établissements et de services](paragraphe-11)

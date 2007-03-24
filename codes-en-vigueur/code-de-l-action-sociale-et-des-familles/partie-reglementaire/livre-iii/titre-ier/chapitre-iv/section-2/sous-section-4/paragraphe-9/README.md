@@ -1,4 +1,4 @@
-# Paragraphe 9 : Centres d'hébergement et de réinsertion sociale.
+# Paragraphe 9 : Centres d'hébergement et de réinsertion sociale et centres d'accueil pour demandeurs d'asile
 
 - [Article R314-150](article-r314-150.md)
 - [Article R314-151](article-r314-151.md)
