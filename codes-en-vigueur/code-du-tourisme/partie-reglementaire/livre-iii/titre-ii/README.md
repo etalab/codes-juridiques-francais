@@ -4,3 +4,4 @@
 - [Chapitre III : Villages résidentiels de tourisme.](chapitre-iii)
 - [Chapitre IV : Meublés de tourisme et chambres d'hôtes.](chapitre-iv)
 - [Chapitre V : Villages et maisons familiales de vacances.](chapitre-v)
+- [Chapitre VI : Refuges de montagne.](chapitre-vi)
