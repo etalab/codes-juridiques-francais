@@ -1,0 +1,3 @@
+# Article R927-2
+
+Pour l'application à Mayotte du premier alinéa de l'article R. 712-6, les mots : " par le ministre chargé de la tutelle des chambres de commerce et d'industrie après avis du préfet compétent " sont remplacés par les mots : " par le représentant de l'Etat à Mayotte ou, s'agissant des budgets des services relatifs aux concessions portuaires et aéroportuaires qui seraient confiées par l'Etat à la chambre de commerce et d'industrie de Mayotte, par le ministre chargé de la tutelle des chambres de commerce et d'industrie, après avis du ministre chargé, selon le cas, des ports maritimes ou des aéroports ".

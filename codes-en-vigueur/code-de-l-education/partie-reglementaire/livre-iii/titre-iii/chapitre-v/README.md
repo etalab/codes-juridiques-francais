@@ -4,3 +4,4 @@
 - [Section 2 : Validation des acquis de l'expérience et certification professionnelle](section-2)
 - [Section 3 : Les commissions professionnelles consultatives.](section-3)
 - [Section 4 : Les conseillers de l'enseignement technologique.](section-4)
+- [Section 5 : La formation à l'accessibilité du cadre bâti.](section-5)

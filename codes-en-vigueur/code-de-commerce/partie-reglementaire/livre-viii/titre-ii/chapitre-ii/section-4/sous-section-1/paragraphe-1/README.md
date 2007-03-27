@@ -1,0 +1,17 @@
+# Paragraphe 1 : De la constitution, de l'inscription et de l'immatriculation.
+
+- [Article R822-72](article-r822-72.md)
+- [Article R822-73](article-r822-73.md)
+- [Article R822-74](article-r822-74.md)
+- [Article R822-75](article-r822-75.md)
+- [Article R822-76](article-r822-76.md)
+- [Article R822-77](article-r822-77.md)
+- [Article R822-78](article-r822-78.md)
+- [Article R822-79](article-r822-79.md)
+- [Article R822-80](article-r822-80.md)
+- [Article R822-81](article-r822-81.md)
+- [Article R822-82](article-r822-82.md)
+- [Article R822-83](article-r822-83.md)
+- [Article R822-84](article-r822-84.md)
+- [Article R822-85](article-r822-85.md)
+- [Article R822-86](article-r822-86.md)

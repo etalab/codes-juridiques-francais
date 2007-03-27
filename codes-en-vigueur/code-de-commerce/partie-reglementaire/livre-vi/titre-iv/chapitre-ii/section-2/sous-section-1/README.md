@@ -1,0 +1,18 @@
+# Sous-section 1 : Des ventes des immeubles.
+
+- [Article R642-22](article-r642-22.md)
+- [Article R642-23](article-r642-23.md)
+- [Article R642-24](article-r642-24.md)
+- [Article R642-25](article-r642-25.md)
+- [Article R642-26](article-r642-26.md)
+- [Article R642-27](article-r642-27.md)
+- [Article R642-28](article-r642-28.md)
+- [Article R642-29](article-r642-29.md)
+- [Article R642-30](article-r642-30.md)
+- [Article R642-31](article-r642-31.md)
+- [Article R642-32](article-r642-32.md)
+- [Article R642-33](article-r642-33.md)
+- [Article R642-34](article-r642-34.md)
+- [Article R642-35](article-r642-35.md)
+- [Article R642-36](article-r642-36.md)
+- [Article R642-37](article-r642-37.md)

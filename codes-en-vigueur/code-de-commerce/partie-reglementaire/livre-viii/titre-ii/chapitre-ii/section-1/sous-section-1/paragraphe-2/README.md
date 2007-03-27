@@ -1,0 +1,16 @@
+# Paragraphe 2 : De la commission régionale d'inscription et de la tenue de la liste.
+
+- [Article R822-8](article-r822-8.md)
+- [Article R822-9](article-r822-9.md)
+- [Article R822-10](article-r822-10.md)
+- [Article R822-11](article-r822-11.md)
+- [Article R822-12](article-r822-12.md)
+- [Article R822-13](article-r822-13.md)
+- [Article R822-14](article-r822-14.md)
+- [Article R822-15](article-r822-15.md)
+- [Article R822-16](article-r822-16.md)
+- [Article R822-17](article-r822-17.md)
+- [Article R822-18](article-r822-18.md)
+- [Article R822-19](article-r822-19.md)
+- [Article R822-20](article-r822-20.md)
+- [Article R822-21](article-r822-21.md)
