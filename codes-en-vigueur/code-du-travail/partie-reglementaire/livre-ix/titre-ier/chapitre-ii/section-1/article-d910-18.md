@@ -14,7 +14,7 @@ Le comité de coordination régional de l'emploi et de la formation professionne
 
 6° Du directeur du travail, de l'emploi et de la formation professionnelle ;
 
-7° Du délégué départemental de l'Agence nationale pour l'emploi ;
+7° Du directeur délégué de l'Agence nationale pour l'emploi ;
 
 8° Du directeur de l'agriculture et de la forêt ;
 

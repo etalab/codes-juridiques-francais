@@ -4,7 +4,7 @@ Il est institué au sein du comité une commission emploi. Elle examine et donne
 
 La commission emploi se compose de quinze membres :
 
-1. Cinq représentants de l'administration désignés par le préfet de région : le trésorier-payeur général, le directeur du travail, de l'emploi et de la formation professionnelle, le délégué départemental de l'Agence nationale pour l'emploi, le directeur de l'agriculture et de la forêt et un représentant du ministère de l'industrie ;
+1. Cinq représentants de l'administration désignés par le préfet de région : le trésorier-payeur général, le directeur du travail, de l'emploi et de la formation professionnelle, le directeur délégué de l'Agence nationale pour l'emploi, le directeur de l'agriculture et de la forêt et un représentant du ministère de l'industrie ;
 
 2. Cinq représentants des organisations syndicales de salariés représentatives de la région ;
 
