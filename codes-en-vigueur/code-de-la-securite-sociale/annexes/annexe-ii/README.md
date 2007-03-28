@@ -98,6 +98,7 @@
 - [Article Annexe II : Tableau n° 81](article-annexe-ii-tableau-no-81.md)
 - [Article Annexe II : Tableau n° 82](article-annexe-ii-tableau-no-82.md)
 - [Article Annexe II : Tableau n° 83](article-annexe-ii-tableau-no-83.md)
+- [Article Annexe II : Tableau n° 84](article-annexe-ii-tableau-no-84.md)
 - [Article Annexe II : Tableau n° 85](article-annexe-ii-tableau-no-85.md)
 - [Article Annexe II : Tableau n° 86](article-annexe-ii-tableau-no-86.md)
 - [Article Annexe II : Tableau n° 87](article-annexe-ii-tableau-no-87.md)
