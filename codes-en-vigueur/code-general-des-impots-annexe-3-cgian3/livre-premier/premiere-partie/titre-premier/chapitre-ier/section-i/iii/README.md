@@ -13,7 +13,6 @@
 - [A ter : Régime fiscal des contrats d'échange de taux d'intérêt ou de devises réalisés par les établissements de crédit](a-ter)
 - [B : Provision pour fluctuation des cours](b)
 - [E : Provisions pour investissement à l'étranger](e)
-- [F : Amortissement exceptionnel des immeubles à usage industriel ou commercial construits dans des zones d'aménagement du territoire.](f)
 - [G : Réinvestissement des plus-values. Exclusion des acquisitions de biens de caractère somptuaire](g)
 - [G bis : Plus-values réalisées à l'occasion de transmissions à titre gratuit d'entreprises individuelles](g-bis)
 - [H : Application de l'article 238 octies du code général des impôts](h)
