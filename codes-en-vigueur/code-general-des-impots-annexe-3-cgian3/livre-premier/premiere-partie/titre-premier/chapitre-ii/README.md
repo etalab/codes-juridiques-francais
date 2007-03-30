@@ -8,6 +8,7 @@
 - [Section II ter : Déclaration à produire par les entreprises nouvelles bénéficiant des dispositions de l'article 44 sexies du code général des impôts](section-ii-ter)
 - [Section II quater : Entreprises implantées dans les zones franches urbaines- territoires entrepreneurs](section-ii-quater)
 - [Section II quinquies : Entreprises implantées en Corse](section-ii-quinquies)
+- [Section II sexies : Entreprises implantées dans les bassins d'emploi à redynamiser](section-ii-sexies)
 - [Section III : Restitution d'impôts consécutive au remboursement des sommes visées à l'article 111 du code général des impôts](section-iii)
 - [Section V quater : Crédit d'impôt pour certains investissements réalisés et exploités en Corse](section-v-quater)
 - [Section V quinquies : Réduction d'impôt pour versement de dons aux oeuvres et organismes d'intérêt général prévue à l'article 238 bis du code général des impôts](section-v-quinquies)
