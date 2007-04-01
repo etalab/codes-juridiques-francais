@@ -1,11 +1,5 @@
 # Article L211-21
 
-Sera puni d'une amende de 7 500 euros et, en cas de récidive, d'une amende de 15 000 euros et d'un emprisonnement de six mois ou de l'une de ces deux peines seulement :
+En cas de condamnation prononcée par une juridiction étrangère et passée en force de chose jugée pour une infraction constituant, selon la loi française, un crime ou l'un des délits mentionnés à l'article L. 211-19, le tribunal correctionnel du domicile du condamné déclare, à la requête du ministère public, après constatation de la régularité et de la légalité de la condamnation et l'intéressé dûment appelé en chambre du conseil, qu'il y a lieu à l'application de l'incapacité prévue par l'article L. 211-19.
 
-1° Toute personne qui se livre ou apporte son concours à l'une des opérations mentionnées à l'article L. 211-1, en l'absence de la licence, de l'agrément, de l'autorisation ou de l'habilitation prévus aux articles L. 212-1, L. 212-2, L. 212-3, L. 213-1, L. 213-5, L. 213-6, L. 213-7 et L. 232-1 ;
-
-2° Tout dirigeant de droit ou de fait d'une personne morale ou d'un organisme qui se livre ou apporte son concours à l'une des opérations mentionnées à l'article L. 211-1, lorsque cette personne morale ou cet organisme ne possède pas la licence, l'agrément, l'autorisation ou l'habilitation prévus aux articles L. 212-1, L. 212-2, L. 212-3, L. 213-1, L. 213-5, L. 213-6, L. 213-7 et L. 232-1 ;
-
-3° Tout titulaire d'une licence d'agent de voyages qui prête son concours à la conclusion d'un contrat de jouissance d'immeuble à temps partagé régi par les articles L. 121-60 et suivants du code de la consommation sans justifier du mandat, de l'assurance et de la garantie financière prévus à l'article L. 212-4.
-
-Le tribunal peut, en outre, ordonner la fermeture temporaire ou définitive de l'établissement exploité par les personnes condamnées.
+Cette incapacité s'applique également à toute personne non réhabilitée ayant fait l'objet d'une interdiction de gérer prononcée par une juridiction étrangère quand le jugement a été déclaré exécutoire en France. La demande d'exequatur peut être, à cette fin seulement, formée par le ministère public devant le tribunal de grande instance du domicile du condamné.

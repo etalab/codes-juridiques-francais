@@ -1,3 +1,3 @@
 # Article L211-5
 
-La définition de la location saisonnière est fixée par l'article 1er-1 de la loi n° 70-9 du 2 janvier 1970 réglementant les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et les fonds de commerce.
+Tout titulaire d'une licence ou d'une habilitation doit tenir ses livres et documents à la disposition des agents habilités à les consulter ; il doit également mentionner ce titre dans son enseigne, dans les documents remis aux tiers et dans sa publicité.

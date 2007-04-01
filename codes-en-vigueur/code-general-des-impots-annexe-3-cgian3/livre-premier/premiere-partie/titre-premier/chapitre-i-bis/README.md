@@ -26,5 +26,6 @@
 - [Section XIII : Déduction des investissements réalisés outre-mer](section-xiii)
 - [Section XV : Amortissement exceptionnel pour la souscription en numéraire de parts de sociétés d'investissement régional ou d'investissement régional ou d'investissement pour le développement rural](section-xv)
 - [Section XIV : Amortissement exceptionnel pour la souscription de parts de sociétés d'épargne forestière](section-xiv)
+- [Section XVI : Déduction pour la souscription au capital de sociétés implantées dans les zones franches urbaines](section-xvi)
 - [Section 0I bis : Exonération édictée en faveur des sociétés d'investissements immobiliers cotées](section-0i-bis)
 - [Section 0I bis A : Exonération édictée en faveur des sociétés unipersonnelles d'investissement à risque](section-0i-bis-a)
