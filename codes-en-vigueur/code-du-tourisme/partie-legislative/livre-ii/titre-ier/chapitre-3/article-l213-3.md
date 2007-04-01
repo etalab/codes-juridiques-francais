@@ -1,9 +1,13 @@
 # Article L213-3
 
-L'agrément de tourisme est accordé aux associations et organismes sans but lucratif qui en font la demande et qui :
+L'habilitation est délivrée au nom de l'Etat. Le demandeur doit remplir les conditions suivantes :
 
-a) Sont dirigés, ou dont l'activité qui relève de l'agrément de tourisme est dirigée par une personne justifiant d'une aptitude professionnelle et dont les représentants légaux ou statutaires n'ont pas fait l'objet de l'une des condamnations mentionnées à l'article L. 211-19 ;
+a) Justifier de son aptitude professionnelle ;
 
-b) Justifient d'une garantie financière suffisante. Celle-ci, outre les modalités énumérées au c de l'article L. 212-2 peut résulter soit de l'existence d'un fonds de réserve, soit de l'appartenance à un groupement d'organismes sans caractère lucratif ayant fait l'objet d'une autorisation particulière et disposant d'un fonds de solidarité suffisant ;
+b) Ne pas être frappé de l'une des incapacités ou interdictions d'exercer visées à l'article L. 211-19 ;
 
-c) Justifient d'une assurance garantissant les conséquences pécuniaires de la responsabilité civile qu'ils encourent au titre de cette activité.
+c) Justifier d'une assurance garantissant les conséquences pécuniaires de sa responsabilité civile professionnelle pour l'activité de tourisme ;
+
+d) Justifier à l'égard des clients ou des membres de l'association d'une garantie financière suffisante dans les conditions du c de l'article L. 212-2.
+
+L'habilitation est délivrée aux personnes morales qui satisfont aux conditions prévues aux c et d et dont les représentants légaux satisfont aux conditions posées aux a et b ci-dessus.

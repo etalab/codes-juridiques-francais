@@ -1,3 +1,5 @@
 # Article L212-5
 
-Les titulaires de licence d'agent de voyages ne peuvent confier l'exécution d'opérations mentionnées à l'article L. 211-1 à des entreprises non titulaires de la licence que s'ils ont signé avec ces dernières une convention spécifiant que les opérations sont effectuées pour le compte, sous la responsabilité et avec les garanties du titulaire de la licence.
+Le titulaire de la licence peut confier certaines des activités mentionnées à l'article L. 211-1 à un mandataire remplissant les conditions d'aptitude professionnelle fixées par décret. Les conditions dans lesquelles le mandataire exerce ces activités sont fixées par une convention d'une durée non renouvelable de trois ans au plus. La convention doit obligatoirement prévoir que l'activité du mandataire est couverte par la garantie financière et l'assurance de responsabilité civile du titulaire de la licence.
+
+Les conventions sont communiquées à l'autorité administrative pour information.
