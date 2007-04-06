@@ -20,7 +20,7 @@ III. - Le véhicule retiré de la circulation :
 
 a) Appartient à la catégorie des voitures particulières telles que définies à l'article R. 311-1 du code de la route ;
 
-b) A été mis en circulation avant le 1er janvier 1992 ;
+b) A été mis en circulation avant le 1er janvier 1997 ;
 
 c) Est la propriété du bénéficiaire du crédit d'impôt depuis au moins douze mois décomptés entre la date du dernier certificat d'immatriculation du véhicule détruit mentionnée sur le bon d'enlèvement cité au I et celle de l'établissement de ce bon d'enlèvement ;
 
@@ -28,7 +28,7 @@ d) Fait l'objet à la date de son retrait de la circulation :
 
 1° D'un certificat d'immatriculation et d'une assurance en cours de validité ;
 
-2° D'un contrôle technique attestant qu'il est apte à la circulation. Cette condition n'est toutefois pas requise pour les véhicules de collection définis à l'article R. 323-3 du code de la route ;
+2° D'un contrôle technique attestant qu'il est apte à la circulation. Cette condition n'est toutefois pas requise pour les véhicules de collection conformément aux dispositions de l'article R. 323-3 du code de la route ;
 
 e) N'est pas gagé ;
 
