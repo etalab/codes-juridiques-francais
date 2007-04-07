@@ -5,5 +5,4 @@
 - [Chapitre III : Gestion des milieux aquatiques et des ressources piscicoles](chapitre-iii)
 - [Chapitre IV : Organisation des pêcheurs](chapitre-iv)
 - [Chapitre V : Droit de pêche](chapitre-v)
-- [Chapitre VI : Conditions d'exercice du droit de pêche](chapitre-vi)
 - [Chapitre VII : Dispositions pénales complémentaires](chapitre-vii)
