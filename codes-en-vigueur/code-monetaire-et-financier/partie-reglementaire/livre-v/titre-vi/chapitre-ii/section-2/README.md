@@ -1,4 +1,4 @@
-# Section 2 : Pôle ministériel de lutte contre les circuits financiers clandestins : service TRACFIN et conseil d'orientation
+# Section 2 : Pôle ministériel de lutte contre les circuits financiers clandestins : service TRACFIN et conseil d'orientation.
 
 - [Article R562-3](article-r562-3.md)
 - [Article R562-4](article-r562-4.md)

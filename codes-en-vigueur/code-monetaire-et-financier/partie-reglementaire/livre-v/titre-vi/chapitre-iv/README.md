@@ -1,7 +1,3 @@
-# Chapitre IV : Dispositions diverses.
+# Chapitre IV : Dispositions relatives à la lutte contre le financement des activités terroristes.
 
-- [Article D564-2](article-d564-2.md)
-- [Article D564-3](article-d564-3.md)
 - [Article R564-1](article-r564-1.md)
-- [Article R564-2-1](article-r564-2-1.md)
-- [Article R564-4](article-r564-4.md)
