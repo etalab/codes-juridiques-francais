@@ -7,3 +7,4 @@
 - [Article R*122-5](article-r-122-5.md)
 - [Article R*122-6](article-r-122-6.md)
 - [Article R*122-7](article-r-122-7.md)
+- [Article R122-8](article-r122-8.md)
