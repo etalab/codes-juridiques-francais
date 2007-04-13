@@ -22,6 +22,8 @@ Sous la responsabilité et l'autorité administratives du responsable de l'étab
 
 10° Donne un avis sur le contenu et participe à la mise en oeuvre de la ou des conventions conclues entre l'établissement et les établissements de santé au titre de la continuité des soins ainsi que sur le contenu et la mise en place, dans l'établissement, d'une organisation adaptée en cas de risques exceptionnels ;
 
-11° Collabore à la mise en oeuvre de réseaux gérontologiques coordonnés, d'autres formes de coordination prévues à l'article L. 312-7 du présent code et de réseaux de santé mentionnés à l'article L. 6321-1 du code de la santé publique.
+11° Collabore à la mise en oeuvre de réseaux gérontologiques coordonnés, d'autres formes de coordination prévues à l'article L. 312-7 du présent code et de réseaux de santé mentionnés à l'article L. 6321-1 du code de la santé publique ;
+
+12° Identifie les risques éventuels pour la santé publique dans les établissements et veille à la mise en oeuvre de toutes mesures utiles à la prévention, la surveillance et la prise en charge de ces risques.
 
 Le médecin coordonnateur ne peut pas exercer la fonction de directeur de l'établissement.
