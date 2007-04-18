@@ -23,6 +23,7 @@
 - [Section XII : Réduction du taux de l'impôt sur les sociétés pour certaines sociétés qui incorporent une fraction de leur bénéfice au capital](section-xii)
 - [Section XII bis : Réduction du taux de l'impôt sur les sociétés pour les petites entreprises.](section-xii-bis)
 - [Section XII ter : Réduction du taux de l'impôt sur les sociétés pour les sociétés d'investissements immobiliers cotées](section-xii-ter)
+- [Section XII quater : Réduction du taux de l'impôt sur les sociétés applicable à certaines plus-values réalisées lors de la cession d'immeubles ou de droits afférents à un immeuble](section-xii-quater)
 - [Section XIII : Déduction des investissements réalisés outre-mer](section-xiii)
 - [Section XV : Amortissement exceptionnel pour la souscription en numéraire de parts de sociétés d'investissement régional ou d'investissement régional ou d'investissement pour le développement rural](section-xv)
 - [Section XIV : Amortissement exceptionnel pour la souscription de parts de sociétés d'épargne forestière](section-xiv)
