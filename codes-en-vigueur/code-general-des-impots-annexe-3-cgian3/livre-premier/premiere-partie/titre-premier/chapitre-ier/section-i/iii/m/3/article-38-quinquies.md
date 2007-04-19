@@ -6,7 +6,7 @@ Cette valeur d'origine s'entend :
 
 a. Pour les immobilisations acquises à titre onéreux, du coût d'acquisition, c'est-à-dire du prix d'achat minoré des remises, rabais commerciaux et escomptes de règlement obtenus et majoré des coûts directement engagés pour la mise en état d'utilisation du bien et des coûts d'emprunt dans les conditions prévues à l'article 38 undecies.
 
-Les droits de mutation, honoraires ou commissions et frais d'acte liés à l'acquisition peuvent être, au choix de l'entreprise, soit portés à l'actif du bilan en majoration du coût d'acquisition de l'immobilisation à laquelle ils se rapportent, soit déduits immédiatement en charges. Ce choix est exercé distinctement pour les titres immobilisés et les titres de placement, d'une part, pour les autres immobilisations acquises, d'autre part. Il est irrévocable.
+Sous réserve des dispositions du VII de l'article 209 du code général des impôts, les droits de mutation, honoraires ou commissions et frais d'acte liés à l'acquisition peuvent être, au choix de l'entreprise, soit portés à l'actif du bilan en majoration du coût d'acquisition de l'immobilisation à laquelle ils se rapportent, soit déduits immédiatement en charges. Ce choix est exercé distinctement pour les titres immobilisés et les titres de placement, d'une part, pour les autres immobilisations acquises, d'autre part. Il est irrévocable.
 
 Pour les biens acquis moyennant le paiement d'une rente viagère, le prix d'achat s'entend du prix stipulé ou, à défaut, de la valeur réelle du bien estimée au jour de l'acquisition.
 
