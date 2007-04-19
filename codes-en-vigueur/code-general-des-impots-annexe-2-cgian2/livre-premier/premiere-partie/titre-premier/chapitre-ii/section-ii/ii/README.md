@@ -10,6 +10,5 @@
 - [8 : Rapatriement des bénéfices](8)
 - [9 : Imputation des déficits antérieurs à l'entrée](9)
 - [10 : Résultats des exploitations étrangères](10)
-- [11 : Précompte.](11)
 - [12 : Obligations déclaratives et sanctions](12)
 - [13 : Dispositions relatives à l'agrément](13)

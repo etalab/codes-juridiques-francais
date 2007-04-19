@@ -11,5 +11,3 @@ b. Le montant cumulé des versements effectués sur le plan, diminué du montant
 c. Les renseignements mentionnés à l'article R. 96 D-1 du livre des procédures fiscales ;
 
 d. Les renseignements nécessaires au nouveau gestionnaire pour la détermination de l'assiette et du montant de la contribution sociale généralisée, de la contribution pour le remboursement de la dette sociale, du prélèvement social et de la contribution additionnelle à ce prélèvement qui seront, le cas échéant, dus ultérieurement.
-
-Il lui communique également le montant des avoirs fiscaux et crédits d'impôt dont la restitution par l'Etat doit intervenir après le transfert.
