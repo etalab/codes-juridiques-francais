@@ -1,6 +1,7 @@
 # Section 4 : Exercice du contrôle.
 
 - [Sous-section 1 : Dispositions générales.](sous-section-1)
+- [Sous-section 2 : Surveillance sur une base consolidée.](sous-section-2)
 - [Article L613-6](article-l613-6.md)
 - [Article L613-7](article-l613-7.md)
 - [Article L613-8](article-l613-8.md)
