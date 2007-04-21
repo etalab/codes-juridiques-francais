@@ -1,5 +1,15 @@
 # Paragraphe 1 : Certificat d'aptitude aux fonctions de directeur d'établissement ou de service d'intervention sociale.
 
+- [Article D451-11](article-d451-11.md)
+- [Article D451-12](article-d451-12.md)
+- [Article D451-13](article-d451-13.md)
+- [Article D451-14](article-d451-14.md)
+- [Article D451-14-1](article-d451-14-1.md)
+- [Article D451-14-2](article-d451-14-2.md)
+- [Article D451-15](article-d451-15.md)
+- [Article D451-15-1](article-d451-15-1.md)
+- [Article D451-15-2](article-d451-15-2.md)
+- [Article D451-16](article-d451-16.md)
 - [Article R451-11](article-r451-11.md)
 - [Article R451-12](article-r451-12.md)
 - [Article R451-13](article-r451-13.md)
