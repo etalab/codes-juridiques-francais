@@ -1,0 +1,5 @@
+# Article R*1336-21
+
+I.-Dans chaque zone de défense ayant une frontière maritime ou dans chaque zone de trafic maritime et dans l'étendue de sa circonscription territoriale, le directeur régional des transports maritimes coordonne et contrôle l'action des services qui lui sont rattachés conformément aux instructions du commissaire aux transports maritimes dont il est le représentant. Il exerce son action en liaison avec les autorités navales et les autorités responsables des complexes portuaires. Il est assisté par l'officier chef du service régional du service des transports militaires par mer.
+
+II.-Le directeur régional des transports maritimes reçoit des directives des représentants du commissaire général aux transports dans les zones de défense dont sa circonscription territoriale forme la limite maritime. Dans les cas prévus à l'article L. 1111-2, il met en place ses délégués auprès du ou des représentants du commissaire général aux transports pour l'assister dans sa mission de coordination.
