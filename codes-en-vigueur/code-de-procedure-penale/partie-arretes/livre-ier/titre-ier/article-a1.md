@@ -20,7 +20,9 @@ I. -  Les autorités ou organismes que le procureur de la République ou le juge
 
 9° Les directeurs départementaux de l'équipement, pour la réalisation de diagnostics de sécurité départementaux ou territoriaux et d'études de sécurité d'itinéraires ;
 
-10° Le délégué général de l'Association des sociétés françaises d'autoroutes et d'ouvrages à péage, pour la réalisation d'un rapport annuel sur les accidents mortels.
+10° Le délégué général de l'Association des sociétés françaises d'autoroutes et d'ouvrages à péage, pour la réalisation d'un rapport annuel sur les accidents mortels ;
+
+11° Le chef de l'inspection de la défense et de la sécurité civiles du ministère de l'intérieur, pour la réalisation d'enquêtes techniques destinées à prévenir des accidents mettant en cause des sapeurs-pompiers civils ou militaires.
 
 II. - L'autorisation accordée par le procureur de la République peut être délivrée sans limitation de temps sous réserve de la possibilité d'y mettre fin à tout moment, ou pendant une période de temps déterminée, pour des catégories de procédures concernant des infractions dont elle précise la nature.
 
