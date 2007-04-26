@@ -11,7 +11,3 @@
 - [Article R361-44](article-r361-44.md)
 - [Article R361-45](article-r361-45.md)
 - [Article R361-46](article-r361-46.md)
-- [Article R361-47](article-r361-47.md)
-- [Article R361-48](article-r361-48.md)
-- [Article R361-49](article-r361-49.md)
-- [Article R361-50](article-r361-50.md)
