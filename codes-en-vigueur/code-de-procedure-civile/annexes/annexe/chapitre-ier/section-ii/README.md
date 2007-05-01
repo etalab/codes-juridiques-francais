@@ -3,3 +3,4 @@
 - [Sous-section I : Affaires de tutelle et de succession.](sous-section-i)
 - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire.](sous-section-ii)
 - [Sous-section III : Affaires de registres.](sous-section-iii)
+- [Sous-section IV : Dispositions particulières au registre des associations](sous-section-iv)
