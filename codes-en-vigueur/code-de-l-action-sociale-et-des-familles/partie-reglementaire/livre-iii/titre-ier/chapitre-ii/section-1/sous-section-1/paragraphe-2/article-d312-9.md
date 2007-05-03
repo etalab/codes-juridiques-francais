@@ -11,3 +11,7 @@ Ces locaux tiennent également compte du contenu du projet d'établissement afin
 III. - Pour les établissements pratiquant l'accueil temporaire de manière non exclusive, les demandes et les décisions d'autorisation mentionnées aux articles L. 313-2 et L. 313-4 mentionnent le nombre de places réservées à l'accueil temporaire.
 
 Le projet d'établissement ou de service et le règlement de fonctionnement, mentionnés respectivement aux articles L. 311-7 et L. 311-8, prévoient les modalités d'organisation et de fonctionnement de l'accueil temporaire.
+
+IV. - Les établissements mentionnés au I de l'article L. 313-12 qui organisent un accueil de jour en complément des prises en charge d'hébergement et les établissements mentionnés à l'article D. 313-20 doivent proposer une solution de transport adaptée aux besoins des personnes bénéficiant de l'accueil de jour.
+
+V. - Pour bénéficier de la prise en charge d'un forfait journalier de frais de transport, les gestionnaires des établissements mentionnés au IV doivent justifier des modalités d'organisation des transports.

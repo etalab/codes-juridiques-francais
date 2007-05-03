@@ -4,9 +4,9 @@ I. - Les charges afférentes à la dépendance dans les établissements relevant
 
 1° a) La rémunération et les charges sociales et fiscales y afférentes des auxiliaires de vie et des auxiliaires de gériatrie, des psychologues, des maîtresses de maison ainsi que des aides-soignants et des aides médico-psychologiques ;
 
-b) Par dérogation au a ci-dessus, dans les structures mentionnées à l'article D. 313-20, la rémunération et les charges sociales et fiscales y afférentes des auxiliaires de vie et des auxiliaires de gériatrie, des psychologues, des maîtresses de maison ainsi que 30 % de la rémunération et des charges sociales et fiscales y afférentes des aides-soignants et des aides médico-psychologiques ;
+b) Par dérogation au a ci-dessus, dans les structures mentionnées à l'article D. 313-20, la rémunération et les charges sociales et fiscales y afférentes des auxiliaires de vie et des auxiliaires de gériatrie, des psychologues, des maîtresses de maison, 30 % du forfait journalier de frais de transport fixé par décision des ministres chargés des personnes âgées et de la sécurité sociale ainsi que 30 % de la rémunération et des charges sociales et fiscales y afférentes des aides-soignants et des aides médico-psychologiques ;
 
-2° 30 P. 100 des rémunérations et les charges sociales et fiscales y afférentes des agents de service et des veilleurs de nuit ;
+2° 30 % des rémunérations et les charges sociales et fiscales y afférentes des agents de service et des veilleurs de nuit ;
 
 3° Les couches, alèses et produits absorbants.
 

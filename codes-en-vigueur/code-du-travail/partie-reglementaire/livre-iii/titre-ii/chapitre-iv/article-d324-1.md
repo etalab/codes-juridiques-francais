@@ -1,6 +1,6 @@
 # Article D324-1
 
-Pour l'application des articles L. 324-1 et suivants, les droits et pouvoirs des inspecteurs du travail tels qu'ils sont définis par le livre VI du présent code sont étendus à tous les établissements dont le chef exerce habituellement une profession industrielle, commerciale ou artisanale, même s'il s'agit d'établissements de famille ou d'établissements n'occupant pas de salariés.
+Pour l'application des articles L. 324-2 et suivants, les droits et pouvoirs des inspecteurs du travail tels qu'ils sont définis par le livre VI du présent code sont étendus à tous les établissements dont le chef exerce habituellement une profession industrielle, commerciale ou artisanale, même s'il s'agit d'établissements de famille ou d'établissements n'occupant pas de salariés.
 
 Les chefs de ces établissements doivent tenir [*mis*] à la disposition des inspecteurs du travail toutes justifications de leurs inscriptions soit au registre du commerce, soit au registre des métiers.
 
