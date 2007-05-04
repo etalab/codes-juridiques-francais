@@ -8,4 +8,6 @@ Un arrêté du ministre chargé de l'agriculture, détermine les modalités d'or
 
 A l'issue de chaque concours, la liste des candidats reçus est arrêtée, par ordre de mérite, sur proposition du jury, par le ministre chargé de l'agriculture.
 
+Par dérogation aux dispositions du premier alinéa, des candidats médecins-conseils ou dentistes-conseils exerçant auparavant dans le service de contrôle médical d'autres régimes de sécurité sociale peuvent également, selon des modalités fixées par arrêté du ministre de l'agriculture, être inscrits sur la liste d'aptitude aux fonctions de praticiens-conseils des régimes agricoles.
+
 La Caisse centrale de mutualité sociale agricole informe chaque candidat inscrit sur la liste d'aptitude mentionnée à l'alinéa précédent des postes de praticien-conseil à pourvoir dans les caisses de mutualité sociale agricole ; simultanément, elle assure la diffusion des mêmes informations à l'ensemble des organismes de mutualité sociale agricole et des praticiens-conseils en exercice dans ceux-ci.
