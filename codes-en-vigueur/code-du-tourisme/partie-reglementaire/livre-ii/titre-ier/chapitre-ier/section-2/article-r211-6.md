@@ -26,4 +26,6 @@ Préalablement à la conclusion du contrat et sur la base d'un support écrit, p
 
 12° Les précisions concernant les risques couverts et le montant des garanties souscrites au titre du contrat d'assurance couvrant les conséquences de la responsabilité civile professionnelle des agents de voyages et de la responsabilité civile des associations et organismes sans but lucratif et des organismes locaux de tourisme ;
 
-13° L'information concernant la souscription facultative d'un contrat d'assurance couvrant les conséquences de certains cas d'annulation ou d'un contrat d'assistance couvrant certains risques particuliers, notamment les frais de rapatriement en cas d'accident ou de maladie.
+13° L'information concernant la souscription facultative d'un contrat d'assurance couvrant les conséquences de certains cas d'annulation ou d'un contrat d'assistance couvrant certains risques particuliers, notamment les frais de rapatriement en cas d'accident ou de maladie ;
+
+14° Lorsque le contrat comporte des prestations de transport aérien, l'information, pour chaque tronçon de vol, prévue aux articles R. 211-15 à R. 211-18.
