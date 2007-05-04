@@ -36,9 +36,11 @@ I. - Les documents qui, en application du quatrième alinéa du III de l'article
 
 17° Le schéma régional de développement du tourisme et des loisirs prévu par l'article L. 131-7 du code du tourisme ;
 
-18° La charte de pays prévue par l'article 22 de la loi n° 95-115 du 4 février 1995 modifiée d'orientation pour l'aménagement et le développement du territoire ;
+18° Le schéma d'aménagement touristique départemental prévu par l'article L. 132-1 du même code ;
 
-19° Le schéma de mise en valeur de la mer prévu par l'article 57 de la loi n° 83-8 du 7 janvier 1983 modifiée relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat.
+19° La charte de pays prévue par l'article 22 de la loi n° 95-115 du 4 février 1995 modifiée d'orientation pour l'aménagement et le développement du territoire ;
+
+20° Le schéma de mise en valeur de la mer prévu par l'article 57 de la loi n° 83-8 du 7 janvier 1983 modifiée relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat.
 
 II. - Lorsque les projets de ces documents sont soumis pour avis à l'établissement public du parc national en application du troisième alinéa du III de l'article L. 331-3 du présent code, ils sont accompagnés du rapport environnemental prévu par l'article R. 122-20 s'il est requis.
 

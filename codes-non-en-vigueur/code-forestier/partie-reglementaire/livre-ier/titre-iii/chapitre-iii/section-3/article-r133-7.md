@@ -2,6 +2,8 @@
 
 Le règlement type de gestion prévu à l'avant-dernier alinéa de l'article L. 133-1 pour certaines forêts domaniales offrant de faibles potentialités économiques et ne présentant pas d'intérêt écologique important, susceptibles de bénéficier de la dérogation prévue au dernier alinéa du I de l'article L. 6, se substitue, pour ces forêts, au document d'aménagement mentionné à l'article R. 133-2. Il a pour objet de définir les modalités de gestion durable et d'équipement de ces forêts, dans le respect des caractéristiques propres aux forêts relevant du régime forestier.
 
+Il est soumis pour avis à l'établissement public du parc national en tant qu'il le concerne.
+
 L'Office national des forêts propose à l'approbation du ministre chargé des forêts, pour chaque catégorie de forêts qu'il identifie dans le ressort d'une directive régionale d'aménagement, un projet de règlement type de gestion conforme à cette directive.
 
 Le règlement type de gestion comprend, pour chaque grand type de peuplements et pour chaque grande option sylvicole régionale :

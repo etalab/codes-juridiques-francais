@@ -1,6 +1,6 @@
 # Article R143-7
 
-Le règlement type de gestion prévu au 3° du II de l'article L. 8 applicable aux forêts des collectivités publiques ne relevant pas de l'article L. 111-1 et gérées contractuellement par l'Office national des forêts a pour objet de définir les modalités de gestion durable et d'équipement de ces forêts.
+Le règlement type de gestion prévu au 3° du II de l'article L. 8 applicable aux forêts des collectivités publiques ne relevant pas de l'article L. 111-1 et gérées contractuellement par l'Office national des forêts a pour objet de définir les modalités de gestion durable et d'équipement de ces forêts. Il est soumis pour avis à l'établissement public du parc national en tant qu'il le concerne.
 
 L'Office national des forêts propose à l'approbation du préfet de région, pour chaque catégorie de forêt qu'il identifie, un projet de règlement type de gestion conforme au schéma régional de gestion sylvicole des forêts privées.
 
