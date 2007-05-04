@@ -1,5 +1,6 @@
 # Autres annexes
 
+- [Article Annexe IV-I](article-annexe-iv-i.md)
 - [Article Annexe V](article-annexe-v.md)
 - [Article Annexe VI](article-annexe-vi.md)
 - [Article Annexe VII](article-annexe-vii.md)
