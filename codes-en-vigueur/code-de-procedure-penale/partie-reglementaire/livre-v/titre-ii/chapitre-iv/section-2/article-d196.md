@@ -6,13 +6,13 @@ Pour assurer leur fonctionnement, les services déconcentrés de l'administratio
 
 a) Personnel de direction : corps des personnels de direction ;
 
-b) Personnel administratif : corps des attachés d'administration et d'intendance, corps des secrétaires administratifs, corps des adjoints administratifs ;
+b) Personnel administratif : corps des attachés d'administration du ministère de la justice, corps des secrétaires administratifs, corps des adjoints administratifs ;
 
 c) Personnel technique et de formation professionnelle : corps des professeurs techniques d'enseignement professionnel et de travaux, corps des instructeurs techniques, corps des chefs de travaux ;
 
 d) Personnel d'insertion et de probation : corps des chefs des services d'insertion et de probation, corps des conseillers d'insertion et de probation ;
 
-e) Personnel de surveillance : corps des chefs de service pénitentiaire, corps des gradés et surveillants ;
+e) Personnel de surveillance : corps de commandement et corps d'encadrement et d'application.
 
 2° Fonctionnaires des services déconcentrés de l'administration pénitentiaire, régis par des statuts interministériels :
 
