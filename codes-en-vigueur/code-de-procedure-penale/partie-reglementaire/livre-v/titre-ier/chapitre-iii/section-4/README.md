@@ -4,6 +4,8 @@
 - [Article D49-65](article-d49-65.md)
 - [Article D49-66](article-d49-66.md)
 - [Article D49-67](article-d49-67.md)
+- [Article D49-68](article-d49-68.md)
+- [Article D49-69](article-d49-69.md)
 - [Article D49-70](article-d49-70.md)
 - [Article D49-71](article-d49-71.md)
 - [Article D49-72](article-d49-72.md)
