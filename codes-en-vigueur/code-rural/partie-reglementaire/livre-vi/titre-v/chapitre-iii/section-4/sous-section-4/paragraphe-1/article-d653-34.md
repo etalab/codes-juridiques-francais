@@ -1,3 +1,5 @@
 # Article D653-34
 
-Seuls les organismes de sélection agréés ou leurs unions peuvent bénéficier de concours financiers de l'Etat pour les missions qui leur sont confiées à l'article D. 653-31, ainsi que pour les actions de promotion d'une race ou population animale sélectionnée française.
+Lorsqu'il existe déjà un organisme de sélection agréé pour une ou plusieurs races ou une ou plusieurs populations animales sélectionnées, l'agrément peut ne pas être accordé à un nouvel organisme ou à une nouvelle organisation pour les mêmes races ou populations animales sélectionnées, si cet organisme ou cette organisation mettent en péril la conservation de ces dernières ou s'ils compromettent le programme d'amélioration génétique d'un organisme de sélection agréé.
+
+Lorsqu'un organisme de sélection envisage une cessation partielle ou totale d'activité, il doit en informer le ministre chargé de l'agriculture six mois auparavant. L'information précise les races, populations animales sélectionnées ou types génétiques hybrides concernés, ainsi que les motifs de cette cessation d'activité.
