@@ -22,6 +22,6 @@ f) Le cas échéant, l'indication que la publication du dépôt doit être diff�
 
 3° La justification du paiement des redevances prescrites ;
 
-4° S'il est constitué un mandataire, le pouvoir de ce dernier, à moins qu'il n'ait la qualité de conseil en propriété industrielle.
+4° S'il est constitué un mandataire, le pouvoir de ce dernier, à moins qu'il n'ait la qualité de conseil en propriété industrielle ou d'avocat.
 
 Le déposant peut, jusqu'à la publication prévue à l'article R. 512-10, obtenir à ses frais une copie officielle des documents contenus dans son dépôt.

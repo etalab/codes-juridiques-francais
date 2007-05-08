@@ -2,7 +2,7 @@
 
 La demande de brevet peut être retirée à tout moment, par une déclaration écrite, jusqu'au paiement de la redevance de délivrance et d'impression du fascicule du brevet.
 
-Cette déclaration ne peut viser qu'une seule demande. Elle est formulée par le demandeur ou par un mandataire, lequel, sauf s'il a la qualité de conseil en propriété industrielle, doit joindre à la déclaration un pouvoir spécial de retrait.
+Cette déclaration ne peut viser qu'une seule demande. Elle est formulée par le demandeur ou par un mandataire, lequel, sauf s'il a la qualité de conseil en propriété industrielle ou d'avocat, doit joindre à la déclaration un pouvoir spécial de retrait.
 
 Si la demande de brevet a été déposée au nom de plusieurs personnes, son retrait ne peut être effectué que s'il est requis par l'ensemble de celles-ci.
 

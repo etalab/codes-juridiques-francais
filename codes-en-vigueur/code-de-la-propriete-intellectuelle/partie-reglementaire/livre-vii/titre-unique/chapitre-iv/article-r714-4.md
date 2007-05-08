@@ -12,4 +12,4 @@ La demande comprend :
 
 3° La justification du paiement de la redevance prescrite ;
 
-4° S'il y a lieu, le pouvoir du mandataire, à moins que celui-ci n'ait la qualité de conseil en propriété industrielle.
+4° S'il y a lieu, le pouvoir du mandataire, à moins que celui-ci n'ait la qualité de conseil en propriété industrielle ou d'avocat.
