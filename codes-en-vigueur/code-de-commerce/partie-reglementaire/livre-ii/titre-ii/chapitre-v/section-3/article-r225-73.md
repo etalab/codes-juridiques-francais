@@ -12,7 +12,7 @@ I. - Les sociétés faisant publiquement appel à l'épargne ou dont toutes les 
 
 5° L'ordre du jour de l'assemblée ;
 
-6° Le texte des projets de résolution qui seront présentés à l'assemblée par le conseil d'administration ou la direction, selon le cas ;
+6° Le texte des projets de résolution qui seront présentés à l'assemblée par le conseil d'administration ou le directoire, selon le cas ;
 
 7° Sauf dans les cas où la société adresse à tous ses actionnaires un formulaire de vote par correspondance, les lieux et les conditions dans lesquels peuvent être obtenus ces formulaires ;
 
