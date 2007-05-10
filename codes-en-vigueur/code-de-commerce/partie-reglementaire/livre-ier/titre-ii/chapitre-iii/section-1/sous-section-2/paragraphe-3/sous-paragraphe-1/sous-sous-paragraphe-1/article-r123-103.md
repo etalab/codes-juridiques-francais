@@ -16,4 +16,6 @@ b) S'il s'agit d'une société par actions, deux exemplaires du certificat du d�
 
 c) S'il s'agit d'une société faisant publiquement appel à l'épargne, deux copies du procès-verbal des délibérations de l'assemblée générale constitutive.
 
+Lors de la première immatriculation, les statuts établis sous seing privé peuvent être fournis en copie des originaux.
+
 Pour les personnes morales mentionnées au 5° de l'article L. 123-1 qui, en vertu des textes qui les régissent, sont tenues au dépôt de certains actes, une adaptation des règles fixées au présent article est faite par arrêté du garde des sceaux, ministre de la justice, du ministre chargé de la propriété industrielle et du ministre chargé du contrôle de la personne morale.

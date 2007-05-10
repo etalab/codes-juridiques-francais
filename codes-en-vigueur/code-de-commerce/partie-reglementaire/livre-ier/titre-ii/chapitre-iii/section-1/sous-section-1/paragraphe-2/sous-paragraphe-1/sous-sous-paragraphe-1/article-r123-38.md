@@ -18,4 +18,6 @@ La personne physique déclare, en outre, en ce qui concerne son activité et son
 
 8° En cas de location-gérance, les nom, nom d'usage, pseudonyme, prénoms et domicile ou dénomination sociale et adresse du siège du loueur de fonds ; les dates du début et du terme de la location-gérance avec, le cas échéant, l'indication que le contrat est renouvelable par tacite reconduction ;
 
-9° Les nom, nom d'usage, pseudonyme, prénoms, date et lieu de naissance, domicile et nationalité des personnes ayant le pouvoir d'engager à titre habituel par leur signature sa responsabilité.
+9° Les nom, nom d'usage, pseudonyme, prénoms, date et lieu de naissance, domicile et nationalité des personnes ayant le pouvoir d'engager à titre habituel par leur signature sa responsabilité ;
+
+10° En cas de gérance-mandat : les nom, nom d'usage, prénoms et domicile ou la dénomination sociale et l'adresse du siège social du gérant-mandataire de l'établissement ainsi que les mentions prévues aux 1° et 2° de l'article R. 123-237 ; les nom, nom d'usage, prénoms, domicile ou la dénomination sociale et l'adresse du siège social du mandant ainsi que les mentions prévues aux 1° et 2° de l'article R. 123-237 ; les dates du début et du terme du contrat de gérance-mandat avec, le cas échéant, l'indication que le contrat est renouvelable par tacite reconduction.
