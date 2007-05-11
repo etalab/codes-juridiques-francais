@@ -1,6 +1,6 @@
 # Article D19-2
 
-Les journaux et publications de périodicité au maximum bimensuelle remplissant les conditions prévues à l'article D. 18 et présentant un caractère d'information politique et générale paient le tarif de presse réduit d'un montant forfaitaire à l'exemplaire financé par l'Etat.
+Les journaux et publications de périodicité au maximum hebdomadaire remplissant les conditions prévues à l'article D. 18 et présentant un caractère d'information politique et générale paient le tarif de presse réduit d'un montant forfaitaire à l'exemplaire financé par l'Etat.
 
 Pour être considérées comme présentant le caractère d'information politique et générale, les publications doivent réunir les caractéristiques suivantes :
 
