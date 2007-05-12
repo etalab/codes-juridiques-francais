@@ -6,7 +6,7 @@ Afin de disposer d'éléments d'analyse permettant d'améliorer l'efficacité du
 
 2° L'intérêt qu'aurait la mise en oeuvre d'actions de coopération ou de coordination sur le fondement de l'article L. 312-7 ;
 
-3° L'intérêt et le coût des conventions mentionnés à l'article R. 314-59 ou des subventions mentionnées à l'article R. 314-60 ;
+3° L'intérêt et le coût des conventions mentionnés à l'article R. 314-59 ou des subventions mentionnées à l'article L. 313-25 ;
 
 4° L'intérêt et le coût des conventions signées entre plusieurs organismes gestionnaires d'établissements ou services ayant des dirigeants communs, lorsque ces conventions ont une incidence sur les tarifs.
 

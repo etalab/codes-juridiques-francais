@@ -18,4 +18,4 @@ IV. - Les sommes allouées sont totalement ou partiellement reversées aux organ
 
 V. - Tout changement important dans l'activité, l'installation, l'organisation ou le fonctionnement du lieu de vie et d'accueil donne lieu à une information de la ou des autorités compétentes mentionnées au I par la personne ayant qualité pour représenter le lieu de vie et d'accueil.
 
-VI. - Les articles R. 314-55 à R. 314-60, R. 314-62, R. 314-99 et R. 314-100 sont applicables aux lieux de vie et d'accueil.
+VI. - Les articles R. 314-55 à R. 314-59, R. 314-62, R. 314-99 et R. 314-100 sont applicables aux lieux de vie et d'accueil.
