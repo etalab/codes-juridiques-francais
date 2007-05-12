@@ -10,4 +10,4 @@ b) Le total du bilan est défini conformément aux dispositions du quatrième al
 
 c) Le nombre des salariés est celui des salariés employés par le débiteur à la date de la demande d'ouverture de la procédure.
 
-III. - Pour l'application des articles R. 663-4 et R. 663-9, la rémunération des administrateurs judiciaires est exprimée en taux de base dont le montant est fixé à 100.
+III. - Pour l'application des articles R. 663-4 et R. 663-9, la rémunération des administrateurs judiciaires est exprimée en taux de base dont le montant est fixé à 100 euros.

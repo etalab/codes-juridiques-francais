@@ -4,4 +4,4 @@ La consultation par voie télématique des inscriptions portées aux registres d
 
 Dans les autres cas, la consultation s'effectue au palier 3614 et est facturée aux conditions du contrat d'abonnement souscrit par l'utilisateur.
 
-Lorsque la consultation donne lieu à délivrance d'une copie, cette dernière est par ailleurs facturée selon les modalités prévues à l'article R. 743-141.
+Lorsque la consultation donne lieu à délivrance d'une copie, cette dernière est par ailleurs facturée selon les modalités prévues à l'article R. 743-142.
