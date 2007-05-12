@@ -18,4 +18,4 @@ b) Pour les autres races :
 
 - l'acheminement du centre de collecte agréé, en cas de semence fraîche, ou depuis le dernier centre de stockage agréé, en cas de semence congelée, jusqu'à l'éleveur ;
 
-3° "Mise en place" : l'acte d'insémination effectué par un technicien d'insémination au sens des dispositions de l'article R. 653-87 qui comprend l'ensemble des étapes nécessaires au dépôt de la semence dans les voies génitales femelles.
+3° "Mise en place" : l'acte d'insémination effectué par un technicien d'insémination au sens des dispositions de l'article R. 653-85 qui comprend l'ensemble des étapes nécessaires au dépôt de la semence dans les voies génitales femelles.

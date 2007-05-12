@@ -2,9 +2,9 @@
 
 I. - Seuls peuvent être livrés à la monte publique artificielle les reproducteurs mâles des espèces bovine, ovine, caprine et porcine répondant à l'une ou l'autre des conditions suivantes :
 
-1° Inscrits dans la section principale d'un livre généalogique ou dans un registre zootechnique, tenu par un organisme de sélection, agréé conformément aux dispositions de l'article L. 653-3, et conforme aux normes zootechniques fixées par les arrêtés prévus à l'article R. 653-76 ;
+1° Etre inscrits dans la section principale d'un livre généalogique ou dans un registre zootechnique, tenu par un organisme de sélection, agréé conformément aux dispositions de l'article L. 653-3, et conforme aux normes zootechniques fixées par les arrêtés prévus à l'article R. 653-76 ;
 
-2° Inscrits dans la section principale d'un livre généalogique ou dans un registre zootechnique, agréé par l'autorité compétente d'un Etat membre et accepté à l'insémination dans un Etat membre.
+2° Etre inscrits dans la section principale d'un livre généalogique ou dans un registre zootechnique, agréé par l'autorité compétente d'un Etat membre et accepté à l'insémination dans un Etat membre.
 
 II. - Toutefois, des reproducteurs ne répondant pas aux conditions posées au I peuvent être admis à la monte publique artificielle à des fins d'amélioration des performances zootechniques ou de conservation de la race ou de la population animale sélectionnée dans des conditions fixées par arrêté du ministre chargé de l'agriculture pris après avis de la Commission nationale d'amélioration génétique.
 
