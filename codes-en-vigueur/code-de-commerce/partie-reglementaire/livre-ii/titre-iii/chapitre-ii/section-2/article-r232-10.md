@@ -6,4 +6,4 @@ Dans les quatre mois de la clôture de l'exercice et quinze jours au moins avant
 
 2° Le projet d'affectation du résultat ;
 
-3° Les comptes consolidés, s'ils sont disponibles. Les informations prévues aux 5°, 6°, 7° et 8° de l'article R. 233-14 peuvent figurer à condition d'être disponibles au siège de la société.
+3° Les comptes consolidés, s'ils sont disponibles. Les informations prévues aux 5°,6°,7° et 8° de l'article R. 233-14 peuvent être omises à condition d'être disponibles au siège de la société.

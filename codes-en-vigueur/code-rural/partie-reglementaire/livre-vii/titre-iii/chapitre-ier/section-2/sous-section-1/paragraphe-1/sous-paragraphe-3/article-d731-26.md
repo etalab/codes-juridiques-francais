@@ -11,3 +11,5 @@ L'option est souscrite pour cinq années civiles.
 Cette option est reconduite tacitement par période de cinq ans, sauf en cas de dénonciation. La dénonciation doit parvenir à la caisse de mutualité sociale agricole au plus tard le 30 novembre de l'année qui précède l'expiration d'une des périodes de cinq ans mentionnées ci-dessus, pour prendre effet au 1er janvier de l'année suivante.
 
 L'option et la dénonciation sont formulées au moyen d'un imprimé dont le modèle est arrêté par le ministre chargé de l'agriculture.
+
+Pour les chefs d'exploitation ou d'entreprise agricole bénéficiaires de la retraite progressive mentionnée aux articles D. 732-167 et suivants, la date limite mentionnée au premier alinéa est reportée au 31 décembre.

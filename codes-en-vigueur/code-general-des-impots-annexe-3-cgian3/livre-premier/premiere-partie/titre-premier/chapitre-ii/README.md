@@ -22,6 +22,7 @@
 - [Section V terdecies : Crédit d'impôt pour formation des dirigeants](section-v-terdecies)
 - [Section V quaterdecies : Crédit d'impôt en faveur de l'emploi de réservistes](section-v-quaterdecies)
 - [Section V quindecies : Crédit d'impôt en faveur des métiers d'art](section-v-quindecies)
+- [Section V sexdecies : Crédit d'impôt pour dépenses de formation à l'économie de l'entreprise et aux dispositifs d'épargne salariale et d'actionnariat salarié](section-v-sexdecies)
 - [Section V septdecies : Crédit d'impôt en faveur des maîtres restaurateurs](section-v-septdecies)
 - [Section VI : Indemnités de congé payé](section-vi)
 - [Section VII : Opérations de crédit-bail](section-vii)

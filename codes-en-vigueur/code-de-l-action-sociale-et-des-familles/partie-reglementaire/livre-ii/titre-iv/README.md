@@ -6,3 +6,4 @@
 - [Chapitre II : Enfance et adolescence handicapées](chapitre-ii)
 - [Chapitre III : Travailleurs handicapés admis en établissements et services d'aide par le travail](chapitre-iii)
 - [Chapitre IV : Allocation aux adultes handicapés](chapitre-iv)
+- [Chapitre VII : Gestion et suivi statistique](chapitre-vii)
