@@ -1,0 +1,3 @@
+# TITRE Ier : DES PEINES APPLICABLES PAR LES JURIDICTIONS DES FORCES ARMÉES
+
+- [Chapitre unique.](chapitre-unique)
