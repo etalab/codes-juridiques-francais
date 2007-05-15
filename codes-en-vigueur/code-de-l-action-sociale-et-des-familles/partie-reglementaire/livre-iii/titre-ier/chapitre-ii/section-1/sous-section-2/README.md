@@ -7,7 +7,7 @@
 - [Paragraphe 4 : Etablissements et services prenant en charge des enfants ou adolescents atteints de déficience auditive grave.](paragraphe-4)
 - [Paragraphe 5 : Etablissements et services prenant en charge des enfants ou adolescents atteints de déficience visuelle grave ou de cécité.](paragraphe-5)
 - [Paragraphe 6 : Pouponnières à caractère social](paragraphe-6)
-- [Paragraphe 7 : Centres spécialisés de soins aux toxicomanes.](paragraphe-7)
+- [Paragraphe 7 : Centres de soins d'accompagnement et de prévention en addictologie](paragraphe-7)
 - [Paragraphe 8 : Appartements de coordination thérapeutique.](paragraphe-8)
 - [Paragraphe 9 : Etablissements hébergeant des personnes âgées dépendantes](paragraphe-9)
 - [Paragraphe 10 : Services d'accompagnement à la vie sociale et services d'accompagnement médico-social pour adultes handicapés](paragraphe-10)
