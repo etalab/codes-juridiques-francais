@@ -4,6 +4,6 @@ Les sommes constituant le pécule de libération sont inscrites à un compte sp�
 
 Une instruction de service détermine les modalités d'application de ces dispositions.
 
-Le capital représentatif des rentes d'accidents du travail dont la conversion a été rendue obligatoire par le décret n° 59-734 du 15 juin 1959 est intégralement versé au pécule de libération et y sont maintenues même si ce versement a pour effet de porter le montant des sommes inscrites sur cette part au-delà de 1 000 Euros.
+Le capital représentatif des rentes d'accidents du travail dont la conversion a été rendue obligatoire par le décret n° 59-734 du 15 juin 1959 est intégralement versé au pécule de libération.
 
 Pendant l'incarcération, le pécule de libération est indisponible et ne peut faire l'objet d'aucune voie d'exécution.
