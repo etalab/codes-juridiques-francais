@@ -1,5 +1,6 @@
 # Section 3 : Du Conseil national des greffiers des tribunaux de commerce.
 
+- [Article D741-24](article-d741-24.md)
 - [Article R741-10](article-r741-10.md)
 - [Article R741-11](article-r741-11.md)
 - [Article R741-12](article-r741-12.md)
