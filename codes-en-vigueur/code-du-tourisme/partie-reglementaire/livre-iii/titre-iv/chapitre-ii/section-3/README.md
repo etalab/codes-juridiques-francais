@@ -1,8 +1,6 @@
 # Section 3 : Remontées mécaniques et pistes de ski.
 
 - [Article D342-2](article-d342-2.md)
-- [Article D342-3](article-d342-3.md)
-- [Article D342-4](article-d342-4.md)
 - [Article R342-5](article-r342-5.md)
 - [Article R342-6](article-r342-6.md)
 - [Article R342-7](article-r342-7.md)
