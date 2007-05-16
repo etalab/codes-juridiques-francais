@@ -1,4 +1,4 @@
-# Article R142-14
+# Article R142-12
 
 L'organisation et la surveillance des opérations électorales, le dépouillement du scrutin et la proclamation des résultats de l'élection sont confiés à une commission dénommée Commission supérieure de l'élection, qui fixe également la date à laquelle elle procède à ce dépouillement.
 

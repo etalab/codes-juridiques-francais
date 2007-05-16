@@ -1,4 +1,4 @@
-# Article R142-16
+# Article R142-14
 
 La commission arrête définitivement, immédiatement après l'expiration du délai fixé pour le dépôt des candidatures, la liste de celles qui sont reconnues recevables. Elle la remet au gouverneur, qui notifie sans délai cette liste au personnel.
 

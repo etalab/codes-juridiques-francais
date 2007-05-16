@@ -1,4 +1,4 @@
-# Article R142-13
+# Article R142-11
 
 Chaque fois qu'il y a lieu d'élire un conseiller, le gouverneur fixe la date du scrutin. Cette date doit être annoncée au plus tard le trentième jour avant celui qui est fixé pour le scrutin.
 

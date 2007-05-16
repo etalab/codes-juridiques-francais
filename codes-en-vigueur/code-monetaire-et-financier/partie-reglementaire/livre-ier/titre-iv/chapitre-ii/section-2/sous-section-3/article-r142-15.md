@@ -1,4 +1,4 @@
-# Article R142-17
+# Article R142-15
 
 Le scrutin est ouvert dans les lieux et aux heures fixés par la commission et portés par circulaire à la connaissance du personnel. Les électeurs votent personnellement. Les électeurs absents votent par correspondance en envoyant directement leurs suffrages, par voie postale, au président de la commission.
 

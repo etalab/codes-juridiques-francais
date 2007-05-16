@@ -1,4 +1,4 @@
-# Article R142-15
+# Article R142-13
 
 Des extraits de la liste électorale sont affichés dans chaque unité administrative de la Banque de France.
 

@@ -1,4 +1,4 @@
-# Article R142-11
+# Article R142-9
 
 Le conseiller représentant le personnel doit être élu parmi les agents ayant la qualité d'électeur, sous réserve :
 
