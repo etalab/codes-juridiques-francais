@@ -1,3 +1,3 @@
 # Article D451-75
 
-Des dispenses de scolarité peuvent être accordées aux titulaires de certains diplômes et certifications en travail social précisés par arrêté des ministres mentionnés à l'article D. 451-73.
+Les épreuves du diplôme comprennent un contrôle interne mis en oeuvre en cours de formation et dont les modalités sont détaillées dans le dossier de déclaration préalable mentionné à l'article R. 451-2 et des épreuves organisées par le recteur.

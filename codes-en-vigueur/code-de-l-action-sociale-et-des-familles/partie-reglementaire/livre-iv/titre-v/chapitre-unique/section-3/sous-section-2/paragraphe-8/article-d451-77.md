@@ -1,3 +1,3 @@
 # Article D451-77
 
-La formation est dispensée dans des écoles, ayant satisfait à l'obligation de déclaration préalable prévue à l'article L. 451-1.
+Les titulaires du certificat d'aptitude aux fonctions de moniteur éducateur sont titulaires de droit du diplôme d'Etat de moniteur éducateur.
