@@ -1,6 +1,7 @@
 # Sous-section 2 : Des schémas directeurs.
 
 - [Article D711-41](article-d711-41.md)
+- [Article D711-41-1](article-d711-41-1.md)
 - [Article D711-42](article-d711-42.md)
 - [Article D711-43](article-d711-43.md)
 - [Article D711-44](article-d711-44.md)

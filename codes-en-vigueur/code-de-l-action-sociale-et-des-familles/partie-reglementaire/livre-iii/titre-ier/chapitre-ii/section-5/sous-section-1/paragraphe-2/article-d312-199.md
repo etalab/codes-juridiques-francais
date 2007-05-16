@@ -1,0 +1,3 @@
+# Article D312-199
+
+Ni l'organisme habilité ni l'un des professionnels intervenant pour le compte d'un organisme habilité ne peut, à l'exception des opérations de facturation qui sont la contrepartie de cette opération, avoir, au moment de l'évaluation, ou avoir eu, au cours de l'année précédente, d'intérêt financier direct ou indirect dans l'organisme gestionnaire de l'établissement ou du service concerné. L'existence d'un conflit d'intérêt avéré peut entraîner le retrait de la liste des organismes habilités par l'Agence nationale de l'évaluation et de la qualité des établissements et services sociaux et médico-sociaux. Ces dispositions s'appliquent de la même façon en cas de non-respect des règles déontologiques.

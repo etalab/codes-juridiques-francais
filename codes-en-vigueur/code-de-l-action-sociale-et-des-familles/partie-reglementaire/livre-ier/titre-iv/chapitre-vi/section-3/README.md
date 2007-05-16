@@ -8,3 +8,4 @@
 - [Sous-section 6 : Accompagnement des personnes handicapées](sous-section-6)
 - [Sous-section 7 : Conciliation](sous-section-7)
 - [Sous-section 8 : Recueil des données sur les suites réservées par les établissements et services aux orientations prononcées par la commission des droits et de l'autonomie.](sous-section-8)
+- [Sous-section 9 : Traitement automatisé de données à caractère personnel](sous-section-9)
