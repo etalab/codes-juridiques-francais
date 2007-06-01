@@ -1,6 +1,6 @@
 # Article R214-5
 
-Par dérogation aux dispositions de l'article R. 214-1, l'actif d'un organisme de placement collectif en valeurs mobilières peut également comprendre dans la limite de 10 % :
+Par dérogation aux dispositions de l'article R. 214-1-1, l'actif d'un organisme de placement collectif en valeurs mobilières peut également comprendre dans la limite de 10 % :
 
 1° Des bons de souscription ;
 
@@ -28,6 +28,8 @@ f) Fonds communs de placement à risques mentionnés à l'article L. 214-36, fon
 
 g) Fonds communs d'intervention sur les marchés à terme mentionnés à l'article L. 214-42.
 
-7° Des instruments financiers mentionnés à l'article R. 214-1 lorsqu'ils ne répondent pas aux conditions prévues à l'article R. 214-2.
+7° Des instruments financiers mentionnés à l'article R. 214-1-1 lorsqu'ils ne répondent pas aux conditions prévues à l'article R. 214-2 ;
+
+8° Des parts ou actions d'organismes de placement collectif immobilier ou d'organismes étrangers mentionnées au e du I de l'article L. 214-92.
 
 En outre, sont incluses dans la limite de 10 % fixée au présent article les parts ou actions d'organismes de placement collectif en valeurs mobilières ou de fonds d'investissement eux-mêmes investis à plus de 10 % en parts ou actions d'organismes de placement collectif en valeurs mobilières ou de fonds d'investissement.
