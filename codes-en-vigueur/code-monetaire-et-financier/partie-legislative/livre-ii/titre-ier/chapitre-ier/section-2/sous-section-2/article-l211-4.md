@@ -2,7 +2,7 @@
 
 Les valeurs mobilières émises en territoire français et soumises à la législation française, quelle que soit leur forme, doivent être inscrites en comptes tenus par l'émetteur ou par un intermédiaire habilité.
 
-Les titres des sociétés par actions qui ne sont pas admis aux négociations sur un marché réglementé, à l'exception des actions de sociétés d'investissement à capital variable "SICAV", doivent être inscrits à un compte tenu chez lui par l'émetteur au nom du propriétaire des titres.
+Les titres des sociétés par actions qui ne sont pas admis aux négociations sur un marché réglementé, à l'exception des actions de sociétés d'investissement à capital variable "SICAV" ou de sociétés de placement à prépondérance immobilière à capital variable, doivent être inscrits à un compte tenu chez lui par l'émetteur au nom du propriétaire des titres.
 
 Par dérogation aux obligations de l'alinéa précédent, lorsque les titres sont admis aux opérations d'un dépositaire central, ils peuvent être inscrits en compte chez un intermédiaire habilité si cela est prévu dans les statuts de la personne morale émettrice lorsqu'il s'agit de titres de capital, ou dans le contrat d'émission, lorsqu'il s'agit d'autres titres. Le dépositaire central est soumis aux obligations prévues par le chapitre II du titre VI du livre V.
 
