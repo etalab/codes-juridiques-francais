@@ -8,4 +8,4 @@ b) Par un établissement de santé figurant sur une liste fixée par arrêté co
 
 Si le malade appartient aux forces armées, le transfèrement doit être effectué sur un hôpital militaire déterminé en accord entre l'administration pénitentiaire et l'autorité militaire, l'hospitalisation étant toujours décidée par le médecin intervenant dans l'établissement pénitentiaire. Les frais de transfèrement et de séjour des militaires sont à la charge du ministère de la défense lorsque les intéressés sont dirigés sur un hôpital militaire.
 
-Les détenus ne peuvent être hospitalisés, même à leurs frais, dans un établissement privé, à moins d'une décision du directeur régional des services pénitentiaires territorialement compétent.
+Les détenus ne peuvent être hospitalisés, même à leurs frais, dans un établissement privé, à moins d'une décision du directeur interrégional des services pénitentiaires territorialement compétent.

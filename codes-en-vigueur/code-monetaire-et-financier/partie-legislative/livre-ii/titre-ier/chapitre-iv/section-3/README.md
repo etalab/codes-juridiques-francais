@@ -7,3 +7,4 @@
 - [Sous-section 5 : Dispositions comptables](sous-section-5)
 - [Sous-section 6 : Fusion](sous-section-6)
 - [Sous-section 7 : Règles de bonne conduite](sous-section-7)
+- [Sous-section 8 : Dispositions transitoires](sous-section-8)
