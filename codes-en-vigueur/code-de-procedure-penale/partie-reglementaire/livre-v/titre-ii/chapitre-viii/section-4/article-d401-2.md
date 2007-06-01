@@ -2,7 +2,7 @@
 
 La commission consultative prévue à l'article D. 401-1 comprend :
 
-1° Le directeur régional des services pénitentiaires ou son représentant, président ;
+1° Le directeur interrégional des services pénitentiaires ou son représentant, président ;
 
 2° Un médecin psychiatre ;
 
@@ -14,4 +14,4 @@ La commission consultative prévue à l'article D. 401-1 comprend :
 
 6° Un travailleur social.
 
-Les membres de la commission sont nommés par le directeur régional pour une période de deux ans renouvelable.
+Les membres de la commission sont nommés par le directeur interrégional pour une période de deux ans renouvelable.

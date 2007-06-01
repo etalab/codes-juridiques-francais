@@ -6,4 +6,4 @@ Dans la mesure du possible, le travail de chaque détenu est choisi en fonction 
 
 Les détenus peuvent être autorisés à travailler pour leur propre compte. Ils peuvent également être autorisés à travailler pour le compte d'associations constituées en vue de préparer leur réinsertion sociale et professionnelle.
 
-Ces associations sont agréées par décision du directeur régional des services pénitentiaires territorialement compétent.
+Ces associations sont agréées par décision du directeur interrégional des services pénitentiaires territorialement compétent.

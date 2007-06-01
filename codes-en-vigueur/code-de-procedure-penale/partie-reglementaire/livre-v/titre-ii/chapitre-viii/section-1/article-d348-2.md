@@ -12,7 +12,7 @@ Le comité interministériel de coordination de la santé en milieu pénitentiai
 
 5. Le directeur de la sécurité sociale ou son représentant ;
 
-6. Un directeur régional des services pénitentiaires désigné par le directeur de l'administration pénitentiaire ;
+6. Un directeur interrégional des services pénitentiaires désigné par le directeur de l'administration pénitentiaire ;
 
 7. Un juge de l'application des peines désigné par le ministre de la justice ;
 

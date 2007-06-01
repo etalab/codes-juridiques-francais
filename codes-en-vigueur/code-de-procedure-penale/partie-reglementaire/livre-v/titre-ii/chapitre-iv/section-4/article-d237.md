@@ -94,7 +94,7 @@ Un professeur de santé publique ;
 
 Un professeur de médecine légale ;
 
-Un directeur régional des services pénitentiaires.
+Un directeur interrégional des services pénitentiaires.
 
 III - Peuvent en outre être désignées, dans les mêmes conditions, pour prendre part aux séances du conseil supérieur siégeant en assemblée générale ou en commission les personnes que leurs connaissances ou leurs travaux antérieurs mettent en mesure d'apporter une contribution utile aux débats.
 
