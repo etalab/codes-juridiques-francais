@@ -1,6 +1,6 @@
 # Article L152-4
 
-I. - La méconnaissance des obligations déclaratives énoncées à l'article L. 152-1 est punie d'une amende égale au quart de la somme sur laquelle a porté l'infraction ou la tentative d'infraction.
+I. - La méconnaissance des obligations déclaratives énoncées à l'article L. 152-1 et dans le règlement (CE) n° 1889/2005 du Parlement européen et du Conseil, du 26 octobre 2005, relatif aux contrôles de l'argent liquide entrant ou sortant de la Communauté est punie d'une amende égale au quart de la somme sur laquelle a porté l'infraction ou la tentative d'infraction.
 
 II. - En cas de constatation de l'infraction mentionnée au I par les agents des douanes, ceux-ci consignent la totalité de la somme sur laquelle a porté l'infraction ou la tentative d'infraction, pendant une durée de trois mois, renouvelable sur autorisation du procureur de la République du lieu de la direction des douanes dont dépend le service chargé de la procédure, dans la limite de six mois au total.
 
