@@ -6,4 +6,3 @@
 - [Sous-section 4 : Contrôle.](sous-section-4)
 - [Sous-section 5 : Réception et reversement par des organismes agréés.](sous-section-5)
 - [Sous-section 6 : Conventions conclues entre le département et les organismes payeurs](sous-section-6)
-- [Sous-section 7 : Conventions conclues entre le département et les organismes payeurs](sous-section-7)

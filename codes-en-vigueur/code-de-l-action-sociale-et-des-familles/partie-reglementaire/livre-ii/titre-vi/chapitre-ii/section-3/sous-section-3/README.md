@@ -1,14 +1,5 @@
 # Sous-section 3 : Suspension ou réduction.
 
-- [Article D262-40](article-d262-40.md)
-- [Article R262-36](article-r262-36.md)
-- [Article R262-37](article-r262-37.md)
-- [Article R262-38](article-r262-38.md)
-- [Article R262-39](article-r262-39.md)
-- [Article R262-41](article-r262-41.md)
-- [Article R262-42](article-r262-42.md)
-- [Article R262-43](article-r262-43.md)
-- [Article R262-44](article-r262-44.md)
 - [Article R262-45](article-r262-45.md)
 - [Article R262-46](article-r262-46.md)
 - [Article R262-47](article-r262-47.md)

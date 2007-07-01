@@ -1,8 +1,5 @@
 # Sous-section 5 : Réception et reversement par des organismes agréés.
 
-- [Article D262-49](article-d262-49.md)
-- [Article R262-48](article-r262-48.md)
-- [Article R262-48-1](article-r262-48-1.md)
 - [Article R262-50](article-r262-50.md)
 - [Article R262-51](article-r262-51.md)
 - [Article R262-52](article-r262-52.md)
