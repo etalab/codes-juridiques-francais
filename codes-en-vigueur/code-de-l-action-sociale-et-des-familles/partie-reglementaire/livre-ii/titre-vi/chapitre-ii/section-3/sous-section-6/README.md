@@ -3,6 +3,7 @@
 - [Paragraphe 1 : Missions exercées par les organismes payeurs à titre gratuit.](paragraphe-1)
 - [Paragraphe 2 : Autres missions pouvant être exercées par les organismes payeurs.](paragraphe-2)
 - [Paragraphe 3 : Relations financières entre l'organisme payeur et le département.](paragraphe-3)
+- [Paragraphe 4 : Dispositions communes et transitoires.](paragraphe-4)
 - [Article R262-50](article-r262-50.md)
 - [Article R262-51](article-r262-51.md)
 - [Article R262-52](article-r262-52.md)

@@ -14,6 +14,7 @@
 - [Article R228-68](article-r228-68.md)
 - [Article R228-69](article-r228-69.md)
 - [Article R228-70](article-r228-70.md)
+- [Article R228-71](article-r228-71.md)
 - [Article R228-72](article-r228-72.md)
 - [Article R228-73](article-r228-73.md)
 - [Article R228-74](article-r228-74.md)

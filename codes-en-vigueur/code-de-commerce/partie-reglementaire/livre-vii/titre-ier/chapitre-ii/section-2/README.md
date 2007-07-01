@@ -1,3 +1,4 @@
-# Section 2 : Des emprunts (en vigueur jusqu'au 1er juillet 2007).
+# Section 2 : Des règles budgétaires (en vigueur jusqu'au 1er juillet 2007)
 
+- [Sous-section 1 : Dispositions communes.](sous-section-1)
 - [Article R712-16](article-r712-16.md)

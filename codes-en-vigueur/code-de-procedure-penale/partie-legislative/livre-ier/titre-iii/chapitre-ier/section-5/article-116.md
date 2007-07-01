@@ -10,9 +10,9 @@ Dans les autres cas, le juge d'instruction avise la personne de son droit de cho
 
 Après avoir, le cas échéant, recueilli les déclarations de la personne ou procédé à son interrogatoire et entendu les observations de son avocat, le juge d'instruction lui notifie :
 
-- soit qu'elle n'est pas mise en examen ; le juge d'instruction informe alors la personne qu'elle bénéficie des droits du témoin assisté ;
+-soit qu'elle n'est pas mise en examen ; le juge d'instruction informe alors la personne qu'elle bénéficie des droits du témoin assisté ;
 
-- soit qu'elle est mise en examen ; le juge d'instruction porte alors à la connaissance de la personne les faits ou la qualification juridique des faits qui lui sont reprochés, si ces faits ou ces qualifications diffèrent de ceux qui lui ont déjà été notifiés ; il l'informe de ses droits de formuler des demandes d'actes ou des requêtes en annulation sur le fondement des articles 81, 82-1, 82-2, 156 et 173 durant le déroulement de l'information et au plus tard le vingtième jour suivant l'avis prévu par le dernier alinéa de l'article 175, sous réserve des dispositions de l'article 173-1.
+-soit qu'elle est mise en examen ; le juge d'instruction porte alors à la connaissance de la personne les faits ou la qualification juridique des faits qui lui sont reprochés, si ces faits ou ces qualifications diffèrent de ceux qui lui ont déjà été notifiés ; il l'informe de ses droits de formuler des demandes d'actes ou des requêtes en annulation sur le fondement des articles 81,82-1,82-2,156 et 173 durant le déroulement de l'information et avant l'expiration du délai d'un mois ou de trois mois prévu par le troisième alinéa de l'article 175, sous réserve des dispositions de l'article 173-1.
 
 S'il estime que le délai prévisible d'achèvement de l'information est inférieur à un an en matière correctionnelle ou à dix-huit mois en matière criminelle, le juge d'instruction donne connaissance de ce délai prévisible à la personne et l'avise qu'à l'expiration dudit délai, elle pourra demander la clôture de la procédure en application des dispositions de l'article 175-1. Dans le cas contraire, il indique à la personne qu'elle pourra demander, en application de ce même article, la clôture de la procédure à l'expiration d'un délai d'un an en matière correctionnelle ou de dix-huit mois en matière criminelle.
 

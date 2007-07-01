@@ -16,6 +16,7 @@
 - [Article 266 quater](article-266-quater.md)
 - [Article 266 quinquies](article-266-quinquies.md)
 - [Article 266 quinquies A](article-266-quinquies-a.md)
+- [Article 266 quinquies B](article-266-quinquies-b.md)
 - [Article 266 sexies](article-266-sexies.md)
 - [Article 266 septies](article-266-septies.md)
 - [Article 266 octies](article-266-octies.md)
