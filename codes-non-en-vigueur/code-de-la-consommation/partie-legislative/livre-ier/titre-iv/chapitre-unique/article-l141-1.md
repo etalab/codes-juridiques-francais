@@ -8,6 +8,8 @@ I. - Sont recherchées et constatées dans les conditions fixées par les articl
 
 3° La section IX "contrat de jouissance d'immeuble à temps partagé" du chapitre Ier du titre II du livre Ier ;
 
+3° bis La section XII "Contrats de fourniture d'électricité ou de gaz naturel" du chapitre Ier du titre II du livre Ier ;
+
 4° La section III "ventes ou prestations à la boule de neige" du chapitre II du titre II du livre Ier ;
 
 5° La section IV "abus de faiblesse" du chapitre II du titre II du livre Ier ;
