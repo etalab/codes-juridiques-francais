@@ -6,7 +6,7 @@ Les avocats sont convoqués au plus tard cinq jours ouvrables avant l'interrogat
 
 La procédure est mise à leur disposition quatre jours ouvrables au plus tard avant chaque interrogatoire de la personne mise en examen ou chaque audition de la partie civile. Après la première comparution de la personne mise en examen ou la première audition de la partie civile, la procédure est également mise à tout moment à la disposition des avocats durant les jours ouvrables, sous réserve des exigences du bon fonctionnement du cabinet d'instruction.
 
-Après la première comparution ou la première audition, les avocats des parties peuvent se faire délivrer, à leurs frais, copie de tout ou partie des pièces et actes du dossier.
+Après la première comparution ou la première audition, les avocats des parties peuvent se faire délivrer, à leurs frais, copie de tout ou partie des pièces et actes du dossier. Cette copie peut être adressée à l'avocat sous forme numérisée, le cas échéant par un moyen de télécommunication selon les modalités prévues à l'article 803-1. La délivrance de cette copie doit intervenir dans le mois qui suit la demande.
 
 Les avocats peuvent transmettre une reproduction des copies ainsi obtenues à leur client. Celui-ci atteste au préalable, par écrit, avoir pris connaissance des dispositions de l'alinéa suivant et de l'article 114-1.
 
@@ -16,7 +16,7 @@ L'avocat doit donner connaissance au juge d'instruction, par déclaration à son
 
 Le juge d'instruction dispose d'un délai de cinq jours ouvrables à compter de la réception de la demande pour s'opposer à la remise de tout ou partie de ces reproductions par une ordonnance spécialement motivée au regard des risques de pression sur les victimes, les personnes mises en examen, leurs avocats, les témoins, les enquêteurs, les experts ou toute autre personne concourant à la procédure.
 
-Cette décision est notifiée par tout moyen et sans délai à l'avocat. A défaut de réponse du juge d'instruction notifiée dans le délai imparti, l'avocat peut communiquer à son client la reproduction des pièces ou actes dont il avait fourni la liste. Il peut, dans les deux jours de sa notification, déférer la décision du juge d'instruction au président de la chambre de l'instruction, qui statue dans un délai de cinq jours ouvrables par une décision écrite et motivée, non susceptible de recours. A défaut de réponse notifiée dans le délai imparti, l'avocat peut communiquer à son client la reproduction des pièces ou actes mentionnés sur la liste.
+Cette décision est notifiée par tout moyen et sans délai à l'avocat.A défaut de réponse du juge d'instruction notifiée dans le délai imparti, l'avocat peut communiquer à son client la reproduction des pièces ou actes dont il avait fourni la liste. Il peut, dans les deux jours de sa notification, déférer la décision du juge d'instruction au président de la chambre de l'instruction, qui statue dans un délai de cinq jours ouvrables par une décision écrite et motivée, non susceptible de recours.A défaut de réponse notifiée dans le délai imparti, l'avocat peut communiquer à son client la reproduction des pièces ou actes mentionnés sur la liste.
 
 Les modalités selon lesquelles ces documents peuvent être remis par son avocat à une personne détenue et les conditions dans lesquelles cette personne peut détenir ces documents sont déterminées par décret en Conseil d'Etat.
 
