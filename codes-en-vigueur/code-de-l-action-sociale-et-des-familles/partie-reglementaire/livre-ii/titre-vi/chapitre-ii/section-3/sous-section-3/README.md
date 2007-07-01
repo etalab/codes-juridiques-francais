@@ -1,4 +1,4 @@
-# Sous-section 3 : Liquidation, versement et révision.
+# Sous-section 3 : Suspension ou réduction.
 
 - [Article D262-40](article-d262-40.md)
 - [Article R262-36](article-r262-36.md)
@@ -9,3 +9,6 @@
 - [Article R262-42](article-r262-42.md)
 - [Article R262-43](article-r262-43.md)
 - [Article R262-44](article-r262-44.md)
+- [Article R262-45](article-r262-45.md)
+- [Article R262-46](article-r262-46.md)
+- [Article R262-47-1](article-r262-47-1.md)
