@@ -8,6 +8,4 @@
 - [Article R711-6](article-r711-6.md)
 - [Article R711-7](article-r711-7.md)
 - [Article R711-8](article-r711-8.md)
-- [Article R711-9](article-r711-9.md)
-- [Article R711-10](article-r711-10.md)
 - [Article R711-11](article-r711-11.md)

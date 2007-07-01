@@ -8,5 +8,4 @@
 - [Article R711-27](article-r711-27.md)
 - [Article R711-28](article-r711-28.md)
 - [Article R711-29](article-r711-29.md)
-- [Article R711-30](article-r711-30.md)
 - [Article R711-31](article-r711-31.md)

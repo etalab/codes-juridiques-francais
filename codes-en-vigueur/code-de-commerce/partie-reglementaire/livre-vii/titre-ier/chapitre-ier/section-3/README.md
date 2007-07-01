@@ -16,4 +16,3 @@
 - [Article R711-64](article-r711-64.md)
 - [Article R711-65](article-r711-65.md)
 - [Article R711-66](article-r711-66.md)
-- [Article R711-67](article-r711-67.md)
