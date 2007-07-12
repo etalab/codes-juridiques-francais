@@ -14,6 +14,7 @@
 - [Article Annexe II : Tableau n° 10 bis](article-annexe-ii-tableau-no-10-bis.md)
 - [Article Annexe II : Tableau n° 10 ter](article-annexe-ii-tableau-no-10-ter.md)
 - [Article Annexe II : Tableau n° 11](article-annexe-ii-tableau-no-11.md)
+- [Article Annexe II : Tableau n° 12](article-annexe-ii-tableau-no-12.md)
 - [Article Annexe II : Tableau n° 13](article-annexe-ii-tableau-no-13.md)
 - [Article Annexe II : Tableau n° 14](article-annexe-ii-tableau-no-14.md)
 - [Article Annexe II : Tableau n° 15](article-annexe-ii-tableau-no-15.md)
