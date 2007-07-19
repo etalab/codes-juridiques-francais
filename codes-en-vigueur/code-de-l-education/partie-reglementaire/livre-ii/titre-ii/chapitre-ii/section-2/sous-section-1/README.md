@@ -1,6 +1,5 @@
 # Sous-section 1 : Le recteur.
 
-- [Article D222-15](article-d222-15.md)
 - [Article D222-20](article-d222-20.md)
 - [Article D222-21](article-d222-21.md)
 - [Article D222-22](article-d222-22.md)
