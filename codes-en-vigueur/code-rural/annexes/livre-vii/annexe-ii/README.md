@@ -3,6 +3,7 @@
 - [Article Tableau n° 1](article-tableau-no-1.md)
 - [Article Tableau n° 2](article-tableau-no-2.md)
 - [Article Tableau n° 4](article-tableau-no-4.md)
+- [Article Tableau n° 5](article-tableau-no-5.md)
 - [Article Tableau n° 5 bis](article-tableau-no-5-bis.md)
 - [Article Tableau n° 6](article-tableau-no-6.md)
 - [Article Tableau n° 7](article-tableau-no-7.md)
