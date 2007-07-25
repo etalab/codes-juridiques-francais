@@ -1,0 +1,16 @@
+# Sous-section 2 : Les autorisations d'usage à des fins thérapeutiques.
+
+- [Article R232-72](article-r232-72.md)
+- [Article R232-73](article-r232-73.md)
+- [Article R232-74](article-r232-74.md)
+- [Article R232-75](article-r232-75.md)
+- [Article R232-76](article-r232-76.md)
+- [Article R232-77](article-r232-77.md)
+- [Article R232-78](article-r232-78.md)
+- [Article R232-79](article-r232-79.md)
+- [Article R232-80](article-r232-80.md)
+- [Article R232-81](article-r232-81.md)
+- [Article R232-82](article-r232-82.md)
+- [Article R232-83](article-r232-83.md)
+- [Article R232-84](article-r232-84.md)
+- [Article R232-85](article-r232-85.md)

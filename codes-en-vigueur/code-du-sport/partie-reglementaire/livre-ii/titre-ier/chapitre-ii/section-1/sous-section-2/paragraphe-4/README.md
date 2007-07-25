@@ -1,0 +1,18 @@
+# Paragraphe 4 : Diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport
+
+- [Article D212-51](article-d212-51.md)
+- [Article D212-52](article-d212-52.md)
+- [Article D212-53](article-d212-53.md)
+- [Article D212-54](article-d212-54.md)
+- [Article D212-55](article-d212-55.md)
+- [Article D212-56](article-d212-56.md)
+- [Article D212-57](article-d212-57.md)
+- [Article D212-58](article-d212-58.md)
+- [Article D212-59](article-d212-59.md)
+- [Article D212-60](article-d212-60.md)
+- [Article D212-65](article-d212-65.md)
+- [Article D212-66](article-d212-66.md)
+- [Article R212-61](article-r212-61.md)
+- [Article R212-62](article-r212-62.md)
+- [Article R212-63](article-r212-63.md)
+- [Article R212-64](article-r212-64.md)
