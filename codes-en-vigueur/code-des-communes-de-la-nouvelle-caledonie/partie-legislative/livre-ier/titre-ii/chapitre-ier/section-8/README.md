@@ -6,3 +6,4 @@
 - [Article L121-39-4](article-l121-39-4.md)
 - [Article L121-40](article-l121-40.md)
 - [Article L121-41](article-l121-41.md)
+- [Article L121-42](article-l121-42.md)
