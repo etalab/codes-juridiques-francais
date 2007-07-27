@@ -4,4 +4,4 @@ Les agents des administrations financières ayant à connaître de la comptabili
 
 La même incompatibilité est opposable dans toutes les communes aux comptables supérieurs du Trésor et aux chefs de services des administrations financières.
 
-Les agents salariés du maire ne peuvent être adjoints.
+Les agents salariés du maire ne peuvent être adjoints si cette activité salariée est directement liée à l'exercice du mandat de maire.

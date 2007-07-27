@@ -2,7 +2,7 @@
 
 Le maire est seul chargé de l'administration ; mais il peut, sous sa surveillance et sa responsabilité, déléguer par arrêté une partie de ses fonctions à un ou plusieurs de ses adjoints, et, en l'absence ou en cas d'empêchement des adjoints ou dès lors que ceux-ci sont tous titulaires d'une délégation, à des membres du conseil municipal.
 
-Le membre du conseil municipal ayant démissionné de la fonction de maire, en application des articles LO 141 du code électoral, L. 122-4-1 du présent code et de l'article 6-2 de la loi n° 77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen, ne peut recevoir des délégations jusqu'au terme de son mandat de conseiller municipal ou jusqu'à la cessation du mandat ou de la fonction l'ayant placé en situation d'incompatibilité.
+Le membre du conseil municipal ayant démissionné de la fonction de maire, en application des articles LO 141 du code électoral, L. 122-4-1 du présent code, ne peut recevoir des délégations jusqu'au terme de son mandat de conseiller municipal ou jusqu'à la cessation du mandat ou de la fonction l'ayant placé en situation d'incompatibilité.
 
 Le maire peut également donner, sous sa surveillance et sa responsabilité, par arrêté, délégation de signature :
 

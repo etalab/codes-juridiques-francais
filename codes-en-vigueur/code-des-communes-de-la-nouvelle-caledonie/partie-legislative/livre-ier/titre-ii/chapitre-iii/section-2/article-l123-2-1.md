@@ -6,4 +6,4 @@ Lorsqu'ils sont en situation de handicap, ils peuvent également bénéficier du
 
 Ces dispositions s'appliquent aux membres de la délégation spéciale mentionnée à l'article L. 121-5.
 
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+Les modalités d'application du présent article sont fixées par décret.

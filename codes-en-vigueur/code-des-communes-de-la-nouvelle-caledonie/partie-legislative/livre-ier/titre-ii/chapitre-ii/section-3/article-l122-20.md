@@ -36,4 +36,6 @@ Le maire peut, en outre, par délégation du conseil municipal, être chargé, e
 
 17° Dans les communes dotées d'un document d'urbanisme approuvé et sauf délibération contraire du conseil municipal, le maire, agissant au nom de la commune, instruit et délivre les autorisations de construire et de lotir et les certificats d'urbanisme ;
 
-18° D'exercer au nom de la commune, et sans préjudice des droits de préemption de la Nouvelle-Calédonie et des provinces, les droits de préemption définis par les règlements d'urbanisme.
+18° D'exercer au nom de la commune, et sans préjudice des droits de préemption de la Nouvelle-Calédonie et des provinces, les droits de préemption définis par les règlements d'urbanisme ;
+
+19° De réaliser les lignes de trésorerie sur la base d'un montant maximum autorisé par le conseil municipal.

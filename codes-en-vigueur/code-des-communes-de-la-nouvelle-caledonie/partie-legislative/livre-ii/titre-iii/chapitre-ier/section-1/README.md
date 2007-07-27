@@ -1,4 +1,4 @@
-# Section 1 : Répartition et recouvrement de certaines taxes
+# Section 1 : Catégories de recettes
 
-- [Article L231-1](article-l231-1.md)
-- [Article L231-2](article-l231-2.md)
+- [Sous-section 1 : Recettes de la section de fonctionnement](sous-section-1)
+- [Sous-section 2 : Recettes de la section d'investissement](sous-section-2)

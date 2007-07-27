@@ -1,5 +1,6 @@
-# Section 3 : Emprunts émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales
+# Section 3 : Garanties d'emprunt
 
 - [Article L236-8](article-l236-8.md)
 - [Article L236-9](article-l236-9.md)
 - [Article L236-10](article-l236-10.md)
+- [Article L236-11](article-l236-11.md)
