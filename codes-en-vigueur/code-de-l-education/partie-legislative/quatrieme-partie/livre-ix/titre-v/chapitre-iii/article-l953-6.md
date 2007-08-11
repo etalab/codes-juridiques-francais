@@ -8,7 +8,7 @@ La commission paritaire d'établissement est consultée sur les décisions indiv
 
 L'accès, par inscription sur une liste d'aptitude, à un corps mentionné au premier alinéa, ainsi que l'avancement de grade et les réductions de l'ancienneté moyenne pour un avancement d'échelon font l'objet d'une proposition du chef d'établissement ou du chef de service auprès duquel le fonctionnaire est affecté ou détaché, qui recueille l'avis de la commission paritaire d'établissement ; ces mesures sont prononcées par le ministre après consultation de la commission administrative paritaire.
 
-La commission paritaire d'établissement prépare les travaux des commissions administratives paritaires des corps mentionnés au premier alinéa ainsi que, pour ce qui concerne les problèmes généraux d'organisation et de fonctionnement des services, les travaux des conseils des établissements publics d'enseignement supérieur.
+La commission paritaire d'établissement prépare les travaux des commissions administratives paritaires des corps mentionnés au premier alinéa.
 
 Un décret en Conseil d'Etat détermine les conditions de création, la composition, l'organisation et le fonctionnement de la commission paritaire d'établissement.
 
