@@ -1,6 +1,7 @@
 # Chapitre II : Les universités.
 
 - [Section 1 : Gouvernance.](section-1)
+- [Section 2 : Responsabilités et compétences élargies.](section-2)
 - [Article L712-1](article-l712-1.md)
 - [Article L712-2](article-l712-2.md)
 - [Article L712-3](article-l712-3.md)
