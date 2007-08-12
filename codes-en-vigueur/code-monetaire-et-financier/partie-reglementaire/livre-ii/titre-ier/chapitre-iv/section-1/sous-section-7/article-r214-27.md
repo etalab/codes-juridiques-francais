@@ -6,8 +6,8 @@ I. - Un organisme de placement collectif en valeurs mobilières à formule est u
 
 2° La réalisation de son objectif de gestion est garantie par un établissement de crédit dont le siège est établi dans un Etat membre de l'Organisation de coopération et de développement économique. La garantie peut être accordée à l'organisme de placement collectif en valeurs mobilières ou à ses porteurs ou actionnaires.
 
-II. - Pour les organismes de placement collectif en valeurs mobilières relevant du présent article, le respect des limites fixées à l'article R. 214-13 s'apprécie à la date de conclusion des contrats constituant des instruments financiers à terme.
+II. - Pour les organismes de placement collectif en valeurs mobilières relevant du présent article, le respect des limites fixées au II de l'article R. 214-13 s'apprécie à la date de conclusion des contrats constituant des instruments financiers à terme.
 
-Par dérogation au III de l'article R. 214-12, l'engagement d'un organisme de placement collectif en valeurs mobilières relevant de la présente sous-section est constitué par la perte potentielle de cet organisme évaluée à tout moment.
+Par dérogation au III de l'article R. 214-12, l'engagement d'un organisme de placement collectif en valeurs mobilières relevant de la présente sous-section est constitué, à tout moment, par la perte maximale de cet organisme évaluée à la même date.
 
 III. - Les dispositions de l'article R. 214-28 sont applicables à un organisme de placement collectif en valeurs mobilières relevant du présent article dont l'actif réplique la composition d'un indice.
