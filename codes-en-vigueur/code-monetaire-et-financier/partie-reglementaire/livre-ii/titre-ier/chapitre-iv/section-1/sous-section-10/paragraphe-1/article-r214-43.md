@@ -10,4 +10,4 @@ b) Ou pour satisfaire l'obligation de réinvestissement prévue à l'article 163
 
 2° A compter de l'ouverture de l'exercice suivant la clôture du cinquième exercice qui suit celui au cours duquel sont intervenues les dernières souscriptions, dans les autres cas.
 
-A compter de l'exercice pendant lequel la déclaration mentionnée au premier alinéa est déposée, le quota de 50 % figurant au 1 de l'article L. 214-36 peut ne plus être respecté.
+A compter de l'exercice pendant lequel la déclaration mentionnée au premier alinéa est déposée, le quota de 50 % figurant au 1 de l'article L. 214-36 peut ne plus être respecté et les II et III de l'article R. 214-39 ne s'appliquent pas.

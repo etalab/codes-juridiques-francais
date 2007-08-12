@@ -6,6 +6,6 @@ II. - Un organisme de placement collectif en valeurs mobilières régi par le pr
 
 1° Parts ou actions d'organismes de placement collectif en valeurs mobilières mentionnés au 1° du II de l'article R. 214-25 ;
 
-2° Parts ou actions d'organismes de placement collectif en valeurs mobilières ou de fonds d'investissement mentionnés au 2° du II de l'article R. 214-25.
+2° Parts ou actions mentionnés au 2° du II de l'article R. 214-25, à l'exception des parts ou actions de fonds d'investissement mentionnées au b du même 2° qui ne peuvent représenter plus de 30 % de l'actif.
 
 III. - Par dérogation aux limites de 5 % et 10 % fixées aux sixième et huitième alinéas de l'article L. 214-4, un organisme de placement collectif en valeurs mobilières régi par le présent paragraphe peut employer jusqu'à 50 % de son actif en parts ou actions d'un même organisme de placement collectif en valeurs mobilières mentionné au II ou d'un même fonds d'investissement étranger mentionné au II et détenir jusqu'à 35 % des parts ou actions d'un même organisme de placement collectif en valeurs mobilières mentionné au II ou d'un même fonds d'investissement étranger mentionné au II.
