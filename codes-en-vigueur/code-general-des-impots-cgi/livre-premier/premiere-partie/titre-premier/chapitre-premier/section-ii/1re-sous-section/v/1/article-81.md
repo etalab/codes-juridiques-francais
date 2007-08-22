@@ -22,7 +22,7 @@ b (Transféré sous le b de l'article 80 ter) ;
 
 b. L'allocation de reconnaissance prévue aux I et I bis de l'article 47 de la loi de finances rectificative pour 1999 (n° 99-1173 du 30 décembre 1999) en faveur respectivement des personnes désignées au premier alinéa de l'article 2 de la loi n° 94-488 du 11 juin 1994 relative aux rapatriés anciens membres des formations supplétives et assimilés ou victimes de la captivité en Algérie et de leurs conjoints ou ex-conjoints survivants non remariés ;
 
-5° et 6° (Repris avec le 4°).
+5° et 6° (Repris avec le 4°) ;
 
 7° Les traitements attachés à la légion d'honneur et à la médaille militaire ;
 
@@ -44,7 +44,7 @@ b. L'allocation de reconnaissance prévue aux I et I bis de l'article 47 de la l
 
 12° Les retraites mutuelles servies aux anciens combattants et victimes de la guerre dans le cadre des dispositions de l'article L222-2 du code de la mutualité ;
 
-13° (Dispositions périmées).
+13° (Dispositions périmées) ;
 
 14° La fraction des pensions temporaires d'orphelins qui correspond au montant des prestations familiales auxquelles aurait eu droit le parent décédé ;
 
@@ -56,11 +56,11 @@ b. L'allocation de reconnaissance prévue aux I et I bis de l'article 47 de la l
 
 Ces dispositions pourront être étendues par décret en conseil d'Etat aux départements d'outre-mer ;
 
-16° (disjoint)
+16° (disjoint) ;
 
 16° bis et 16 ter (Transférés sous l'article 81 ter) ;
 
-16° quater (Périmé).
+16° quater (Périmé) ;
 
 17° a. Les prestations de subsistance, d'équipement et de logement ainsi que l'indemnité forfaitaire d'entretien allouées, en application de l'article L. 104 du code du service national, au personnel accomplissant le service national actif dans le service de la coopération ou dans le service de l'aide technique ;
 
@@ -80,9 +80,9 @@ f. l'avantage résultant pour le bénévole de la contribution de l'association 
 
 18° Les sommes versées par l'entreprise en application de plans d'épargne constitués conformément aux dispositions du chapitre III du titre IV du livre IV du code du travail ;
 
-18° bis Dans la limite d'un montant égal à la moitié du plafond annuel moyen retenu pour le calcul des cotisations de sécurité sociale, les sommes reçues au titre de l'intéressement et affectées à la réalisation de plans d'épargne constitués conformément au chapitre III du titre IV du livre IV du code du travail ;
+18° bis Dans la limite d'un montant égal à la moitié du plafond annuel moyen retenu pour le calcul des cotisations de sécurité sociale, les sommes reçues au titre de l'intéressement et affectées à la réalisation de plans d'épargne constitués conformément au chapitre III du titre IV du livre IV du code du travail.
 
-L'exonération s'applique sous réserve du dépôt de l'accord d'intéressement, dans les conditions prévues aux neuvième et dixième alinéas de l'article L. 441-2 du code du travail, auprès de l'autorité administrative compétente.        .
+L'exonération s'applique sous réserve du dépôt de l'accord d'intéressement, dans les conditions prévues aux neuvième et dixième alinéas de l'article L. 441-2 du code du travail, auprès de l'autorité administrative compétente.
 
 Les dispositions du premier alinéa bénéficient également, dans les mêmes conditions et limites aux dividendes des actions de travail attribuées aux salariés des sociétés anonymes à participation ouvrière régies par la loi du 26 avril 1917, à compter du 1er janvier 1991 ;
 
@@ -92,23 +92,23 @@ Cette exonération est subordonnée à la condition que le salarié se conforme 
 
 19° bis l'avantage résultant de la contribution de l'employeur à l'acquisition des chèques-vacances dans les conditions et limite prévues aux articles L. 411-4 et L. 411-5 du code du tourisme ;
 
-19° ter a. L'avantage résultant de la prise en charge obligatoire par l'employeur du prix des titres d'abonnement souscrits par les salariés pour les déplacements effectués au moyen de transports publics de voyageurs entre leur résidence habituelle et leur lieu de travail, conformément à l'article 1er de la loi n° 82-684 du 4 août 1982 relative à la participation des employeurs au financement des transports publics urbains et des chèques-transport.
+19° ter a. L'avantage résultant de la prise en charge obligatoire par l'employeur du prix des titres d'abonnement souscrits par les salariés pour les déplacements effectués au moyen de transports publics de voyageurs entre leur résidence habituelle et leur lieu de travail, conformément à l'article 1er de la loi n° 82-684 du 4 août 1982 relative à la participation des employeurs au financement des transports publics urbains et des chèques-transport ;
 
 b. La part contributive de l'employeur dans le chèque-transport prévu à l'article 3 de la loi n° 82-684 du 4 août 1982 précitée, dans la limite de 50 % du prix des abonnements de transport collectif pour les chèques-transport mentionnés au 1° du I du même article ou de la somme de 100 euros par an pour les chèques-transport mentionnés au 2° du même I ;
 
 20° Les attributions gratuites d'actions :
 
-a. (Abrogé);
+a. (Abrogé) ;
 
-b. (Abrogé).
+b. (Abrogé) ;
 
 c. Des sociétés centrales d'assurances définies à l'article L. 322-12 du code des assurances, faites au personnel des entreprises nationales d'assurances en application des articles L. 322-13 et L. 322-22 du code précité ;
 
-d. (disjoint)
+d. (disjoint) ;
 
-21° (Abrogé).
+21° (Abrogé) ;
 
-22° Les indemnités de départ en retraite, prévues au premier alinéa de l'article L. 122-14-13 du code du travail dans la limite de 3 050 euros.
+22° Les indemnités de départ en retraite, prévues au premier alinéa de l'article L. 122-14-13 du code du travail dans la limite de 3 050 euros ;
 
 23° L'indemnité compensatoire pour frais de transport attribuée aux magistrats, militaires, fonctionnaires et agents de la fonction publique de l'Etat, aux fonctionnaires et agents de la fonction publique hospitalière, aux fonctionnaires et agents des collectivités territoriales et de leurs établissements publics et aux agents de droit public de La Poste et de France Télécom en service dans les départements de la Haute-Corse et de la Corse-du-Sud ;
 
@@ -124,20 +124,20 @@ d. (disjoint)
 
 29° Les vacations horaires, l'allocation de vétérance personnelle ou de reversion et la prestation de fidélisation et de reconnaissance servies aux sapeurs-pompiers volontaires ou à leurs ayants droit, en application du titre II de la loi n° 96-370 du 3 mai 1996 relative au développement du volontariat dans les corps de sapeurs-pompiers ;
 
-30° Le pécule versé en application de la loi n° 96-1111 du 19 décembre 1996 relative aux mesures en faveur du personnel militaire dans le cadre de la professionnalisation des armées .
+30° Le pécule versé en application de la loi n° 96-1111 du 19 décembre 1996 relative aux mesures en faveur du personnel militaire dans le cadre de la professionnalisation des armées ;
 
 31° Les avantages résultant des opérations définies au 1° du 11 de l'article 39, dans la limite globale de 1 525 euros par salarié, appréciée sur l'ensemble de la période couverte par l'accord mentionné au 2° du même article ;
 
-32° L'indemnité de cessation d'activité prévue au V de l'article 41 de la loi de financement de la sécurité sociale pour 1999 (n° 98-1194 du 23 décembre 1998).
+32° L'indemnité de cessation d'activité prévue au V de l'article 41 de la loi de financement de la sécurité sociale pour 1999 (n° 98-1194 du 23 décembre 1998) ;
 
-33° L'indemnité de cessation anticipée d'activité versée en application d'une convention collective de branche, d'un accord professionnel ou interprofessionnel, d'un accord d'entreprise, du contrat de travail ou d'une disposition unilatérale de l'employeur aux marins exposés ou ayant été exposés à l'amiante admis au bénéfice d'une allocation de cessation anticipée d'activité visée au 9° de l'article L. 12 du code des pensions de retraite des marins français du commerce, de pêche ou de plaisance.
+33° L'indemnité de cessation anticipée d'activité versée en application d'une convention collective de branche, d'un accord professionnel ou interprofessionnel, d'un accord d'entreprise, du contrat de travail ou d'une disposition unilatérale de l'employeur aux marins exposés ou ayant été exposés à l'amiante admis au bénéfice d'une allocation de cessation anticipée d'activité visée au 9° de l'article L. 12 du code des pensions de retraite des marins français du commerce, de pêche ou de plaisance ;
 
 33° bis Les indemnités versées, sous quelque forme que ce soit, aux victimes de l'amiante ou à leurs ayants droit par le Fonds d'indemnisation des victimes de l'amiante en application de l'article 53 de la loi de financement de la sécurité sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ou par décision de justice ;
 
-34° abrogé
+34° abrogé ;
 
-35° L'aide financière de l'Etat mentionnée à l'article L. 351-24 du code du travail.
+35° L'aide financière de l'Etat mentionnée à l'article L. 351-24 du code du travail ;
 
-36° Les salaires versés aux enfants âgés de vingt et un ans au plus au 1er janvier de l'année d'imposition en rémunération d'une activité exercée pendant leurs congés scolaires ou universitaires, dans la limite de deux fois le montant mensuel du salaire minimum de croissance.
+36° Sur option des bénéficiaires, dans le cadre d'une déclaration des revenus personnelle ou de celle du foyer fiscal de rattachement, les salaires versés aux personnes âgées de vingt-cinq ans au plus au 1er janvier de l'année d'imposition, à l'exception des agents publics percevant une rémunération dans le cadre de leur formation, en rémunération d'activités exercées pendant leurs études, secondaires ou supérieures, ou exercées durant leurs congés scolaires ou universitaires, dans la limite de trois fois le montant mensuel du salaire minimum de croissance (1) ;
 
 37° L'aide financière mentionnée à l'article L. 129-13 du code du travail.

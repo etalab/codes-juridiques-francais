@@ -14,4 +14,5 @@
 - [Article 796-0](article-796-0.md)
 - [Article 796-0 bis](article-796-0-bis.md)
 - [Article 796-0 ter](article-796-0-ter.md)
+- [Article 796-0 quater](article-796-0-quater.md)
 - [Article 797](article-797.md)

@@ -42,7 +42,7 @@ Conformément aux dispositions de l'article L. 322-18 du code rural, le rembours
 
 Peuvent être étendues aux départements d'outre-mer dans des conditions fixées par décret en Conseil d'Etat, après avis des conseils généraux desdits départements, les dispositions des articles L. 322-1 à L. 322-21, L322-23 et L322-24 du code rural ;
 
-5° les reversions de rentes viagères entre époux ou entre parents en ligne directe ;
+5° les reversions de rentes viagères entre parents en ligne directe ;
 
 6° la transmission par décès du bénéfice du contrat de travail à salaire différé dont la dévolution est régie par l'article L. 321-14 du code rural ;
 

@@ -8,4 +8,4 @@ Ouvrent droit au bénéfice de l'exonération les salariés qui auront été emp
 
 Les dispositions du présent article s'appliquent aux contrats de travail à durée déterminée transformés en 2006, 2007 et 2008 en contrats à durée indéterminée.
 
-Le bénéfice des dispositions du présent article ne peut être cumulé avec celui d'une autre exonération totale ou partielle de cotisations patronales ou l'application de taux spécifiques, d'assiettes ou montants forfaitaires de cotisations, à l'exception des exonérations prévues par les articles L. 741-4-2 et L. 751-17-2 du présent code, ainsi que par l'article L. 241-13 du code de la sécurité sociale.
+Le bénéfice des dispositions du présent article ne peut être cumulé avec celui d'une autre exonération totale ou partielle de cotisations patronales ou l'application de taux spécifiques, d'assiettes ou montants forfaitaires de cotisations, à l'exception des exonérations prévues par les articles L. 741-4-2 et L. 751-17-2 du présent code, ainsi que par l'article L. 241-18 du code de la sécurité sociale.
