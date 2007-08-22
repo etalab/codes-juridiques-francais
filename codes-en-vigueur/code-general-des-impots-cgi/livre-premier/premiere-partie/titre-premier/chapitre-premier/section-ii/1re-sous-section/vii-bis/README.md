@@ -9,3 +9,4 @@
 - [Article 150 nonies](article-150-nonies.md)
 - [Article 150 decies](article-150-decies.md)
 - [Article 150 undecies](article-150-undecies.md)
+- [Article 150 duodecies](article-150-duodecies.md)

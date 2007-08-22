@@ -4,7 +4,7 @@ I. - Lorsqu'elles n'entrent pas dans le champ d'application de l'article 757 B, 
 
 Le bénéficiaire doit produire auprès des organismes d'assurance et assimilés une attestation sur l'honneur indiquant le montant des abattements déjà appliqués aux sommes, rentes ou valeurs quelconques reçues d'un ou plusieurs organismes d'assurance et assimilés à raison du décès du même assuré.
 
-Le bénéficiaire n'est pas assujetti au prélèvement visé au premier alinéa lorsqu'il est exonéré de droits de mutation à titre gratuit en application des dispositions de l'article 795.
+Le bénéficiaire n'est pas assujetti au prélèvement visé au premier alinéa lorsqu'il est exonéré de droits de mutation à titre gratuit en application des dispositions des articles 795, 796-0 bis et 796-0 ter.
 
 II. - Le prélèvement prévu au I est dû par le bénéficiaire et versé au comptable des impôts par les organismes d'assurance et assimilés ou leur représentant fiscal visé au III dans les quinze jours qui suivent la fin du mois au cours duquel les sommes, rentes ou valeurs quelconques dues par eux ont été versées aux bénéficiaires à titre gratuit.
 

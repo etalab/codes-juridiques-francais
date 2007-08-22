@@ -30,6 +30,8 @@ d) Des bénéfices agricoles mentionnés à l'article 63 ;
 
 e) Des bénéfices tirés de l'exercice d'une profession non commerciale mentionnés au 1 de l'article 92.
 
+Les revenus exonérés en application de l'article 81 quater sont retenus pour l'appréciation du montant des revenus définis au a.
+
 Les revenus exonérés en application des articles 44 sexies à 44 undecies ou du 9 de l'article 93 sont retenus pour l'appréciation du montant des revenus définis aux c, d et e. Il n'est pas tenu compte des déficits des années antérieures ainsi que des plus-values et moins-values professionnelles à long terme.
 
 C. - Les membres du foyer fiscal ne doivent pas être passibles de l'impôt de solidarité sur la fortune visé à l'article 885 A au titre de l'année de réalisation des revenus d'activité professionnelle visés au premier alinéa.
