@@ -8,5 +8,4 @@
 - [Article D113-23](article-d113-23.md)
 - [Article D113-24](article-d113-24.md)
 - [Article D113-25](article-d113-25.md)
-- [Article D113-26](article-d113-26.md)
 - [Article R113-26](article-r113-26.md)

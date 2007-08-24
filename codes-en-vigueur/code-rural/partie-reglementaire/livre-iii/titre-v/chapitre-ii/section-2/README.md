@@ -2,7 +2,6 @@
 
 - [Article D352-15](article-d352-15.md)
 - [Article D352-16](article-d352-16.md)
-- [Article D352-16-1](article-d352-16-1.md)
 - [Article D352-17](article-d352-17.md)
 - [Article D352-18](article-d352-18.md)
 - [Article D352-19](article-d352-19.md)
