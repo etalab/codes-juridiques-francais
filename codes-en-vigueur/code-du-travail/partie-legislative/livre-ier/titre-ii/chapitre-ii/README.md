@@ -5,6 +5,7 @@
 - [Section 4-4 : Règles particulières aux personnes ayant souscrit un engagement à servir dans la réserve opérationnelle](section-4-4)
 - [Section 4-5 : Règles particulières aux salariés ayant souscrit un engagement à servir dans la réserve de sécurité civile](section-4-5)
 - [Section 4-6 : Règles particulières applicables aux salariés participant à des opérations de secours](section-4-6)
+- [Section 4-7 : Règles particulières applicables aux salariés membres de la réserve sanitaire.](section-4-7)
 - [Section 5-1 : Règles particulières aux salariés victimes d'un accident du travail ou d'une maladie professionnelle.](section-5-1)
 - [SECTION 1 : CONTRAT A DUREE DETERMINEE.](section-1)
 - [Section 2 : Résiliation du contrat de travail à durée indéterminée](section-2)
