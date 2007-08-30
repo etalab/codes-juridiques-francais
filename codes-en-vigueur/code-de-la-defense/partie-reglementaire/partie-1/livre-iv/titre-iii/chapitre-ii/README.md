@@ -5,4 +5,3 @@
 - [Article D*1432-3](article-d-1432-3.md)
 - [Article D*1432-4](article-d-1432-4.md)
 - [Article D*1432-5](article-d-1432-5.md)
-- [Article D*1432-6](article-d-1432-6.md)

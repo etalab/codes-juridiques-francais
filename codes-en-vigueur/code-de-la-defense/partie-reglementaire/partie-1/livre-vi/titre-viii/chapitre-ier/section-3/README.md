@@ -1,6 +1,5 @@
 # Section 3 : Attributions des commandants supérieurs.
 
-- [Article D*1681-13](article-d-1681-13.md)
 - [Article D*1681-14](article-d-1681-14.md)
 - [Article D1681-7](article-d1681-7.md)
 - [Article D1681-8](article-d1681-8.md)
