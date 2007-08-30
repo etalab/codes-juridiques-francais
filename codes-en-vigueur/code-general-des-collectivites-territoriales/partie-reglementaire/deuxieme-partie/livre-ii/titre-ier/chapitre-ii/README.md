@@ -2,3 +2,4 @@
 
 - [Section 1 : Convention type de coordination de la police municipale et des forces de sécurité de l'Etat](section-1)
 - [Section 2 : Commission consultative des polices municipales](section-2)
+- [Section 3 : Mise en commun des agents de police municipale et de leurs équipements](section-3)
