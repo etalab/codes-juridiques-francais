@@ -12,4 +12,4 @@ L'étranger qui sollicite la délivrance de la carte de résident portant la men
 
 5° La justification qu'il bénéficie d'une assurance maladie.
 
-Le maire de la commune de résidence du demandeur émet un avis sur le caractère suffisant des conditions de ressources au regard des conditions de logement dans les conditions prévues aux articles R. 313-23-2 à R. 313-23-4.
+Le maire de la commune de résidence du demandeur émet un avis sur le caractère suffisant des conditions de ressources au regard des conditions de logement dans les conditions prévues aux articles R. 313-34-2 à R. 313-34-4.
