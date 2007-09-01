@@ -6,4 +6,3 @@
 - [Article R*1411-10](article-r-1411-10.md)
 - [Article R*1411-11](article-r-1411-11.md)
 - [Article R*1411-12](article-r-1411-12.md)
-- [Article R*1411-13](article-r-1411-13.md)
