@@ -2,4 +2,3 @@
 
 - [II : Régime du bénéfice consolidé](ii)
 - [III : Dispositions communes.](iii)
-- [V : Dispositions particulières à l'exploitation d'hydrocarbures.](v)
