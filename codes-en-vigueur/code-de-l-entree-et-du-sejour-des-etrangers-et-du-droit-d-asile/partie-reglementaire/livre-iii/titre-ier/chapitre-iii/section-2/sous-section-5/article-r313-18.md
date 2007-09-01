@@ -1,3 +1,3 @@
 # Article R313-18
 
-L'étranger qui vient en France pour y exercer une activité professionnelle non salariée soumise à autorisation justifie qu'il est titulaire de cette autorisation, sauf s'il entre dans l'un des cas d'exemption prévus par l'article L. 122-3 du code de commerce.
+Pour l'application du 4° de l'article L. 313-10, l'étranger qui sollicite une carte de séjour mention "travailleur saisonnier" présente, outre les pièces prévues à l'article R. 313-1, un contrat de travail conclu dans les conditions définies à l'article R. 341-4-2 du code du travail.
