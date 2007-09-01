@@ -2,9 +2,6 @@
 
 - [Article A73](article-a73.md)
 - [Article A74](article-a74.md)
-- [Article A75](article-a75.md)
-- [Article A76](article-a76.md)
-- [Article A77](article-a77.md)
 - [Article A78](article-a78.md)
 - [Article A79](article-a79.md)
 - [Article A80](article-a80.md)

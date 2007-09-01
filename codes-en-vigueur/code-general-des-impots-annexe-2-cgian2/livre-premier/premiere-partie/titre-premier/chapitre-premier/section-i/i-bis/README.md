@@ -5,7 +5,6 @@
 - [3 bis : Amortissement des immobilisations par composants](3-bis)
 - [4 : Amortissement des immobilisations destinées à la recherche scientifique ou technique](4)
 - [4 bis : Provisions pour risques afférents à certaines opérations d'assurance et de réassurance](4-bis)
-- [Article 4 à 14](article-4-a-14.md)
 - [5 : Provision pour investissement en faveur des entreprises de presse](5)
 - [6 : Amortissement dégressif des biens d'équipement](6)
 - [7 : Plus-values provenant de cessions d'éléments de l'actif immobilisé](7)
