@@ -1,6 +1,6 @@
 # Article D311
 
-I. - Le contrat de séjour mentionné à l'article L. 311-4 est conclu dans les établissements et services mentionnés aux 1°, 2°, 5°, 6°, 7°, 8°, 9°, 10°, 12° du I et au III de l'article L. 312-1, dans le cas d'un séjour continu ou discontinu d'une durée prévisionnelle supérieure à deux mois.
+I. - Le contrat de séjour mentionné à l'article L. 311-4 est conclu dans les établissements et services mentionnés aux 1°, 2°, 5°, 6°, 7°, 8°, 9°, 10°, 12°, 13° du I et au III de l'article L. 312-1, dans le cas d'un séjour continu ou discontinu d'une durée prévisionnelle supérieure à deux mois.
 
 Ce contrat est conclu entre la personne accueillie ou son représentant légal et le représentant de l'établissement, de l'organisme gestionnaire de l'établissement ou du service, du lieu de vie et d'accueil. Lorsque la personne accueillie ou son représentant légal refuse la signature dudit contrat, il est procédé à l'établissement du document individuel de prise en charge mentionné au II du présent article.
 
@@ -34,7 +34,7 @@ V. - Le contrat de séjour comporte :
 
 4° Selon la catégorie de prise en charge concernée, les conditions de la participation financière du bénéficiaire ou de facturation, y compris en cas d'absence ou d'hospitalisation ;
 
-5° Pour l'admission en centre d'hébergement et de réinsertion, les conditions de l'application de l'article L. 111-3-1.
+5° Pour l'admission en centre d'hébergement et de réinsertion et en centre d'accueil pour demandeurs d'asile, les conditions de l'application de l'article L. 111-3-1.
 
 Un avenant précise dans le délai maximum de six mois les objectifs et les prestations adaptées à la personne. Chaque année, la définition des objectifs et des prestations est réactualisée.
 
