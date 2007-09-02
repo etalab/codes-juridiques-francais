@@ -22,7 +22,7 @@ a) Des personnels de l'aide à domicile des organismes mentionnés au 1° ;
 
 b) Résultant d'actions mises en oeuvre par des organisations professionnelles des particuliers qui emploient sans but lucratif des salariés à domicile ;
 
-5° Les dépenses de qualification préparant au diplôme d'Etat d'infirmier, au diplôme professionnel d'aide-soignant et au diplôme d'Etat d'aide médico-psychologique des personnels des établissements d'hébergement pour personnes âgées mentionnés aux I, I bis et II de l'article L. 313-12, des services de soins infirmiers à domicile et des services polyvalents d'aide et de soins à domicile.
+5° Les dépenses de qualification préparant au diplôme d'Etat d'infirmier, au diplôme d'Etat d'aide-soignant et au diplôme d'Etat d'aide médico-psychologique des personnels des établissements d'hébergement pour personnes âgées mentionnés aux I, I bis et II de l'article L. 313-12, des services de soins infirmiers à domicile et des services polyvalents d'aide et de soins à domicile.
 
 II. - Les dépenses mentionnées au b du 2 du IV de l'article L. 14-10-5 sont :
 
@@ -46,4 +46,4 @@ a) Des personnels de l'aide à domicile des organismes mentionnés au 1° ;
 
 b)  Résultant d'actions mises en oeuvre par des organisations professionnelles des particuliers qui emploient sans but lucratif des salariés à domicile ;
 
-5° Les dépenses de qualification des personnels des établissements et services qui accueillent des personnes handicapées, préparant notamment au diplôme d'Etat d'infirmier, au diplôme professionnel d'aide-soignant et au diplôme d'Etat d'aide médico-psychologique.
+5° Les dépenses de qualification des personnels des établissements et services qui accueillent des personnes handicapées, préparant notamment au diplôme d'Etat d'infirmier, au diplôme d'Etat d'aide-soignant et au diplôme d'Etat d'aide médico-psychologique.

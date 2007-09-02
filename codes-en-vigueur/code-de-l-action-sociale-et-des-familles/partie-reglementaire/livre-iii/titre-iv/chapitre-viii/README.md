@@ -1,5 +1,6 @@
 # Chapitre VIII : Centres d'accueil pour demandeurs d'asile
 
+- [Article D348-6](article-d348-6.md)
 - [Article R348-1](article-r348-1.md)
 - [Article R348-2](article-r348-2.md)
 - [Article R348-3](article-r348-3.md)
