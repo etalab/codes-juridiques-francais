@@ -1,6 +1,6 @@
 # Article D681-4
 
-Les agriculteurs qui demandent les aides mentionnées à l'article D. 615-9 sont tenus de mettre en oeuvre sur leur exploitation des mesures de protection des sols contre l'érosion définies par arrêté préfectoral parmi les mesures suivantes :
+Les agriculteurs qui demandent les aides mentionnées à l'article D. 615-45 sont tenus de mettre en oeuvre sur leur exploitation des mesures de protection des sols contre l'érosion définies par arrêté préfectoral parmi les mesures suivantes :
 
 1° Implantation et entretien des haies vives ; l'arrêté préfectoral précise les espèces à implanter dans les haies et leurs conditions d'entretien ;
 
