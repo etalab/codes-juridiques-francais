@@ -1,6 +1,6 @@
 # Article D681-5
 
-Les agriculteurs qui demandent les aides mentionnées à l'article D. 615-9 sont tenus de mettre en oeuvre des mesures relatives au maintien de la matière organique des sols définies, au regard des cultures pratiquées localement, par arrêté préfectoral parmi les mesures suivantes :
+Les agriculteurs qui demandent les aides mentionnées à l'article D. 615-45 sont tenus de mettre en oeuvre des mesures relatives au maintien de la matière organique des sols définies, au regard des cultures pratiquées localement, par arrêté préfectoral parmi les mesures suivantes :
 
 1° Absence de brûlage des résidus de cultures, à l'exception de ceux des cultures de riz ; le préfet peut autoriser le brûlage de certains résidus lorsque celui-ci s'avère nécessaire pour des raisons agronomiques ou techniques liées à la nature des cultures et fixe les conditions dans lesquelles il doit être réalisé ;
 
