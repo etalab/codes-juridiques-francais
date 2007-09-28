@@ -10,6 +10,7 @@
 - [Code de commerce](code-de-commerce)
 - [Code de déontologie des agents de police municipale.](code-de-deontologie-des-agents-de-police-municipale)
 - [Code de déontologie des architectes](code-de-deontologie-des-architectes)
+- [Code de déontologie des professionnels de l'expertise comptable](code-de-deontologie-des-professionnels-de-l-expertise-comptable)
 - [Code de justice administrative](code-de-justice-administrative)
 - [Code de justice militaire.](code-de-justice-militaire)
 - [Code de l'artisanat](code-de-l-artisanat)
