@@ -26,3 +26,4 @@
 - [Article L223-23](article-l223-23.md)
 - [Article L223-24](article-l223-24.md)
 - [Article L223-25](article-l223-25.md)
+- [Article L223-25-1](article-l223-25-1.md)

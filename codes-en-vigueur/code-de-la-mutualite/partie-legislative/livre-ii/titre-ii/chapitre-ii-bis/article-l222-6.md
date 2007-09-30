@@ -2,7 +2,7 @@
 
 Nonobstant les dispositions du code de commerce relatives aux comptes sociaux, la mutuelle ou union établit une comptabilité auxiliaire d'affectation unique pour l'ensemble des opérations relevant de la présente section et des opérations mentionnées à l'article L. 310-12-7 du code des assurances.
 
-Toutefois, les comptabilités auxiliaires d'affectation relatives à des opérations relevant du présent chapitre, mentionnées à l'article L. 222-3 et, pour les contrats relevant du b du 1 du I de l'article 163 quatervicies du code général des impôts, celles mentionnées au VII de l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites, sont établies séparément de la comptabilité auxiliaire d'affectation mentionnée à l'alinéa précédent.
+Toutefois, les comptabilités auxiliaires d'affectation relatives à des opérations relevant du présent chapitre, mentionnées à l'article L. 222-3 et, pour les contrats relevant du b du 1 du I de l'article 163 quatervicies du code général des impôts, celles mentionnées au VII de l'article L. 144-2 du code des assurances, sont établies séparément de la comptabilité auxiliaire d'affectation mentionnée à l'alinéa précédent.
 
 L'autorité de contrôle instituée à l'article L. 510-1 peut également exiger que la mutuelle ou union établisse séparément de la comptabilité mentionnée au premier alinéa une comptabilité auxiliaire d'affectation pour les opérations mentionnées à l'article L. 310-12-7 du code des assurances.
 
