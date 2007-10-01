@@ -12,7 +12,7 @@
 
 5° Les décisions individuelles relatives à la nomination, à l'avancement de grade, à la mise à la retraite d'office, à la révocation des fonctionnaires, ainsi que les décisions individuelles relatives au recrutement, y compris le contrat d'engagement, et au licenciement des agents non titulaires, à l'exception de celles prises dans le cadre d'un besoin saisonnier ou occasionnel, en application du deuxième alinéa de l'article 3 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale ;
 
-6° Le permis de construire et les autres autorisations d'utilisation du sol et le certificat d'urbanisme délivrés par le maire ou le président de l'établissement public de coopération intercommunale, lorsqu'il a reçu compétence dans les conditions prévues à l'article L. 421-2-1 du code de l'urbanisme ;
+6° Le permis de construire et les autres autorisations d'utilisation du sol et le certificat d'urbanisme délivrés par le maire ou le président de l'établissement public de coopération intercommunale, lorsqu'il a reçu compétence dans les conditions prévues aux articles L. 422-1 et L. 422-3 du code de l'urbanisme ;
 
 7° Les ordres de réquisition du comptable pris par le maire ;
 

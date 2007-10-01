@@ -2,6 +2,6 @@
 
 Ainsi qu'il est dit à l'article L. 421-1 du code de l'urbanisme :
 
-"Quiconque désire entreprendre ou implanter une construction à usage d'habitation ou non, même ne comportant pas de fondations, doit, au préalable, obtenir un permis de construire sous réserve des dispositions des articles L. 422-1 à L. 422-5. Cette obligation s'impose aux services publics et concessionnaires de services publics de l'Etat, des régions, des départements et des communes comme aux personnes privées.
+" Les constructions, même ne comportant pas de fondations, doivent être précédées de la délivrance d'un permis de construire.
 
-Le même permis est exigé pour les travaux exécutés sur les constructions existantes lorsqu'ils ont pour effet d'en changer la destination, de modifier leur aspect extérieur ou leur volume, ou de créer des niveaux supplémentaires".
+" Un décret en Conseil d'Etat arrête la liste des travaux exécutés sur des constructions existantes ainsi que des changements de destination qui, en raison de leur nature ou de leur localisation, doivent également être précédés de la délivrance d'un tel permis. "

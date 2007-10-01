@@ -8,7 +8,7 @@ b) Terrains situés dans les zones urbaines délimitées par un plan d'occupatio
 
 c) Terrains servant d'assiette à l'une des opérations régies par les articles L. 311-1, L. 315-1 et L. 322-2 du code de l'urbanisme ;
 
-d) Terrains mentionnés à l'article L. 443-1 du code de l'urbanisme ;
+d) Terrains mentionnés aux articles L. 443-1 à L. 443-4 et à l'article L. 444-1 du code de l'urbanisme ;
 
 e) Terrains situés dans les zones délimitées et spécifiquement définies comme devant être débroussaillées et maintenues en état débroussaillé en vue de la protection des constructions, par un plan de prévention des risques naturels prévisibles établi en application des articles L. 562-1 à L. 562-7 du code de l'environnement. Les travaux sont à la charge des propriétaires des constructions pour la protection desquelles la servitude est établie, ou de leurs ayants droit.
 
