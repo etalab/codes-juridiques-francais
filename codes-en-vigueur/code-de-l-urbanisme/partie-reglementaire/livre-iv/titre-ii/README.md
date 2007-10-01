@@ -1,5 +1,6 @@
-# TITRE II : Permis de construire
+# TITRE II : Dispositions communes aux diverses autorisations et aux déclarations préalables
 
 - [CHAPITRE I : Régime général](chapitre-i)
 - [CHAPITRE II : Exceptions au régime général](chapitre-ii)
-- [CHAPITRE IV : Etablissement de l'assiette et liquidation des impositions dont le permis de construire constitue le fait générateur](chapitre-iv)
+- [CHAPITRE III : Dépôt et instruction des demandes de permis et des déclarations.](chapitre-iii)
+- [CHAPITRE IV : Décisions](chapitre-iv)

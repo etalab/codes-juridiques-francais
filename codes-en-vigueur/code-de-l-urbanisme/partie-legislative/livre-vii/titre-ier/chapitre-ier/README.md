@@ -6,6 +6,7 @@
 - [Article L710-4](article-l710-4.md)
 - [Article L710-5](article-l710-5.md)
 - [Article L710-6](article-l710-6.md)
+- [Article L710-6-1](article-l710-6-1.md)
 - [Article L710-7](article-l710-7.md)
 - [Article L710-8](article-l710-8.md)
 - [Article L710-9](article-l710-9.md)

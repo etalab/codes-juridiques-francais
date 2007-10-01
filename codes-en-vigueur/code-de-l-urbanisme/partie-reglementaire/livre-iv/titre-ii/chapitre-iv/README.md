@@ -1,3 +1,5 @@
-# CHAPITRE IV : Etablissement de l'assiette et liquidation des impositions dont le permis de construire constitue le fait générateur
+# CHAPITRE IV : Décisions
 
-- [SECTION I : Déconcentration auprès du maire.](section-i)
+- [Section I : Contenu de la décision](section-i)
+- [Section II : Notification de la décision](section-ii)
+- [Section III : Affichage de la décision.](section-iii)
