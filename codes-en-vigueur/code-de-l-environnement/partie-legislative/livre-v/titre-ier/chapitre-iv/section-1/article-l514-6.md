@@ -12,4 +12,4 @@ Elles ne sont pas non plus applicables aux décisions concernant les autorisatio
 
 III. - Les tiers qui n'ont acquis ou pris à bail des immeubles ou n'ont élevé des constructions dans le voisinage d'une installation classée que postérieurement à l'affichage ou à la publication de l'arrêté autorisant l'ouverture de cette installation ou atténuant les prescriptions primitives ne sont pas recevables à déférer ledit arrêté à la juridiction administrative.
 
-IV. - Le permis de construire et l'acte de vente, à des tiers, de biens fonciers et immobiliers doivent, le cas échéant, mentionner explicitement les servitudes afférentes instituées en application de l'article L. 421-8 du code de l'urbanisme.
+IV. - Le permis de construire et l'acte de vente, à des tiers, de biens fonciers et immobiliers doivent, le cas échéant, mentionner explicitement les servitudes afférentes instituées en application de l'article L. 111-1-5 du code de l'urbanisme.
