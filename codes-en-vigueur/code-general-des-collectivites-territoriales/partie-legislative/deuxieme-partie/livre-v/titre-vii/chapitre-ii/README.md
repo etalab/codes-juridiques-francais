@@ -1,7 +1,6 @@
 # CHAPITRE II : Communes de Mayotte
 
 - [Section 1 : Dispositions générales](section-1)
-- [Section 1 : Nom et territoire de la commune](section-1-nom-et)
 - [Section 2 : Organisation  de la commune](section-2)
 - [Section 3 : Administration et services communaux](section-3)
 - [Section 4 : Finances communales](section-4)

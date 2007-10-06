@@ -1,16 +1,7 @@
 # Sous-section 3 : Cimetières et opérations funéraires
 
-- [Article L2573-9](article-l2573-9.md)
-- [Article L2573-10](article-l2573-10.md)
-- [Article L2573-11](article-l2573-11.md)
 - [Article L2573-12](article-l2573-12.md)
 - [Article L2573-13](article-l2573-13.md)
-- [Article L2573-14](article-l2573-14.md)
 - [Article L2573-15](article-l2573-15.md)
-- [Article L2573-16](article-l2573-16.md)
-- [Article L2573-17](article-l2573-17.md)
 - [Article L2573-18](article-l2573-18.md)
-- [Article L2573-19](article-l2573-19.md)
 - [Article L2573-20](article-l2573-20.md)
-- [Article L2573-21](article-l2573-21.md)
-- [Article L2573-22](article-l2573-22.md)

@@ -4,4 +4,3 @@
 - [Sous-section 2 : Dépenses](sous-section-2)
 - [Sous-section 3 : Recettes](sous-section-3)
 - [Sous-section 4 : Comptabilité](sous-section-4)
-- [Article L2572-14](article-l2572-14.md)
