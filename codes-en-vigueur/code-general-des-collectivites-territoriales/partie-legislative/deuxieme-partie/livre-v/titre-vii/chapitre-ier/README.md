@@ -1,3 +1,3 @@
-# CHAPITRE Ier : Dispositions générales
+# CHAPITRE Ier : Communes de Saint-Pierre-et-Miquelon
 
-- [Section unique](section-unique)
+- [Section unique : Dispositions applicables aux communes de de Saint-Pierre-et-Miquelon](section-unique)
