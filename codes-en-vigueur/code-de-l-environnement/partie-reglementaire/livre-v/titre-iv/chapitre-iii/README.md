@@ -1,0 +1,13 @@
+# Chapitre III : Dispositions propres à certaines catégories de produits et de déchets (R)
+
+- [Section 1 : Déchets d'activités de soins et assimilés](section-1)
+- [Section 2 : Déchets d'exploitation et résidus des cargaisons des navires](section-2)
+- [Section 3 : Huiles usagées](section-3)
+- [Section 4 : Substances dites " PCB "](section-4)
+- [Section 5 : Emballages](section-5)
+- [Section 6 : Fluides frigorigènes utilisés dans les équipements frigorifiques et climatiques](section-6)
+- [Section 7 : Piles et accumulateurs](section-7)
+- [Section 8 : Pneumatiques usagés](section-8)
+- [Section 9 : Véhicules](section-9)
+- [Section 10 : Equipements électriques et électroniques](section-10)
+- [Section 11 : Déchets d'imprimés.](section-11)

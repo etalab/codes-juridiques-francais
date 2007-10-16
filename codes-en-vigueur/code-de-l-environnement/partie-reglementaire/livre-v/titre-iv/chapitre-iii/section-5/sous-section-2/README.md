@@ -1,0 +1,15 @@
+# Sous-section 2 : Déchets d'emballages dont les détenteurs finaux sont les ménages
+
+- [Article R543-53](article-r543-53.md)
+- [Article R543-54](article-r543-54.md)
+- [Article R543-55](article-r543-55.md)
+- [Article R543-56](article-r543-56.md)
+- [Article R543-57](article-r543-57.md)
+- [Article R543-58](article-r543-58.md)
+- [Article R543-59](article-r543-59.md)
+- [Article R543-60](article-r543-60.md)
+- [Article R543-61](article-r543-61.md)
+- [Article R543-62](article-r543-62.md)
+- [Article R543-63](article-r543-63.md)
+- [Article R543-64](article-r543-64.md)
+- [Article R543-65](article-r543-65.md)

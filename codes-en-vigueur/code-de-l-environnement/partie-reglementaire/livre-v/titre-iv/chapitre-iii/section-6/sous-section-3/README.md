@@ -1,0 +1,17 @@
+# Sous-section 3 : Cession, acquisition et récupération des fluides frigorigènes et de leurs emballages
+
+- [Article R543-84](article-r543-84.md)
+- [Article R543-85](article-r543-85.md)
+- [Article R543-86](article-r543-86.md)
+- [Article R543-87](article-r543-87.md)
+- [Article R543-88](article-r543-88.md)
+- [Article R543-89](article-r543-89.md)
+- [Article R543-90](article-r543-90.md)
+- [Article R543-91](article-r543-91.md)
+- [Article R543-92](article-r543-92.md)
+- [Article R543-93](article-r543-93.md)
+- [Article R543-94](article-r543-94.md)
+- [Article R543-95](article-r543-95.md)
+- [Article R543-96](article-r543-96.md)
+- [Article R543-97](article-r543-97.md)
+- [Article R543-98](article-r543-98.md)

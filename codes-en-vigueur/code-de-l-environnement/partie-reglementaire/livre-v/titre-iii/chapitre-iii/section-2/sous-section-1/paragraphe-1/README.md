@@ -1,0 +1,16 @@
+# Paragraphe 1 : Procédure d'autorisation
+
+- [Article R533-25](article-r533-25.md)
+- [Article R533-26](article-r533-26.md)
+- [Article R533-27](article-r533-27.md)
+- [Article R533-28](article-r533-28.md)
+- [Article R533-29](article-r533-29.md)
+- [Article R533-30](article-r533-30.md)
+- [Article R533-31](article-r533-31.md)
+- [Article R533-32](article-r533-32.md)
+- [Article R533-33](article-r533-33.md)
+- [Article R533-34](article-r533-34.md)
+- [Article R533-35](article-r533-35.md)
+- [Article R533-36](article-r533-36.md)
+- [Article R533-37](article-r533-37.md)
+- [Article R533-38](article-r533-38.md)
