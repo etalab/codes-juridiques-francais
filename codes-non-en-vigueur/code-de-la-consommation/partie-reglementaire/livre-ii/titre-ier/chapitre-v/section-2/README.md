@@ -1,5 +1,6 @@
 # Section 2 : Recherche et constatation.
 
+- [Article D215-16](article-d215-16.md)
 - [Article R215-2](article-r215-2.md)
 - [Article R215-3](article-r215-3.md)
 - [Article R215-4](article-r215-4.md)
@@ -13,3 +14,4 @@
 - [Article R215-12](article-r215-12.md)
 - [Article R215-13](article-r215-13.md)
 - [Article R215-14](article-r215-14.md)
+- [Article R215-15](article-r215-15.md)
