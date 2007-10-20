@@ -15,3 +15,4 @@
 - [Paragraphe 13 : Toluène](paragraphe-13)
 - [Paragraphe 14 : Trichlorobenzène](paragraphe-14)
 - [Paragraphe 15 : Hydrocarbures aromatiques polycycliques (HAP) dans les huiles de dilution et les pneumatiques](paragraphe-15)
+- [Paragraphe 16 : Sulfonates de perfluorooctane (SPFO)](paragraphe-16)
