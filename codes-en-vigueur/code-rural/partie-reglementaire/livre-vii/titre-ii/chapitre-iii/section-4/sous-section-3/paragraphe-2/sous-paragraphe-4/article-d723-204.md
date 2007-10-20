@@ -13,5 +13,3 @@ Chacune de ces catégories de fonds et valeurs est suivie distinctement dans des
 Toute discordance entre la position des comptes et les résultats de l'inventaire oblige l'agent comptable à constater immédiatement l'existence d'un excédent ou d'un manquant.
 
 Les excédents sont acquis à la caisse à l'expiration des délais de prescription.
-
-Les manquants sont ajustés par l'agent comptable dans les conditions définies à l'article D. 723-210.
