@@ -4,6 +4,7 @@
 - [Article D222-21](article-d222-21.md)
 - [Article D222-22](article-d222-22.md)
 - [Article D222-23](article-d222-23.md)
+- [Article D222-23-1](article-d222-23-1.md)
 - [Article R*222-13](article-r-222-13.md)
 - [Article R*222-14](article-r-222-14.md)
 - [Article R*222-15](article-r-222-15.md)
