@@ -1,4 +1,4 @@
-# Article L615-7
+# Article L521-7
 
 Pour fixer les dommages et intérêts, la juridiction prend en considération les conséquences économiques négatives, dont le manque à gagner, subies par la partie lésée, les bénéfices réalisés par le contrefacteur et le préjudice moral causé au titulaire des droits du fait de l'atteinte.
 

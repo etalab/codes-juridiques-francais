@@ -1,4 +1,4 @@
-# Article L615-3
+# Article L521-6
 
 Toute personne ayant qualité pour agir en contrefaçon peut saisir en référé la juridiction civile compétente afin de voir ordonner, au besoin sous astreinte, à l'encontre du prétendu contrefacteur ou des intermédiaires dont il utilise les services, toute mesure destinée à prévenir une atteinte imminente aux droits conférés par le titre ou à empêcher la poursuite d'actes argués de contrefaçon. La juridiction civile compétente peut également ordonner toutes mesures urgentes sur requête lorsque les circonstances exigent que ces mesures ne soient pas prises contradictoirement, notamment lorsque tout retard serait de nature à causer un préjudice irréparable au demandeur. Saisie en référé ou sur requête, la juridiction ne peut ordonner les mesures demandées que si les éléments de preuve, raisonnablement accessibles au demandeur, rendent vraisemblable qu'il est porté atteinte à ses droits ou qu'une telle atteinte est imminente.
 

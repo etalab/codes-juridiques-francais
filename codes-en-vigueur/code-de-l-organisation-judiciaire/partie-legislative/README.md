@@ -1,4 +1,4 @@
-# Partie législative ancienne
+# Partie législative
 
 - [Livre Ier : La Cour de cassation](livre-ier)
 - [LIVRE II : JURIDICTIONS DU PREMIER DEGRÉ](livre-ii)

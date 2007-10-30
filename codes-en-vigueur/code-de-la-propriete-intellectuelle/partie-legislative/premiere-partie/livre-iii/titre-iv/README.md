@@ -2,4 +2,4 @@
 
 - [Chapitre Ier : Champ d'application](chapitre-ier)
 - [Chapitre II : Etendue de la protection](chapitre-ii)
-- [Chapitre III : Sanctions](chapitre-iii)
+- [Chapitre III : Procédures et sanctions](chapitre-iii)

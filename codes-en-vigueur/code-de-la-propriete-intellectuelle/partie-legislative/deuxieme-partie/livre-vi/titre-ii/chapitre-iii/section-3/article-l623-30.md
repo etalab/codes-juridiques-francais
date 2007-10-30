@@ -1,6 +1,6 @@
 # Article L623-30
 
-Lorsqu'une variété objet d'une demande de certificat ou d'un certificat d'obtention est exploitée pour les besoins de la défense nationale par l'Etat ou ses fournisseurs, sous-traitants et titulaires de sous-commandes, sans qu'une licence d'exploitation leur ait été octroyée, la juridiction saisie ne peut ordonner ni la cessation ou l'interruption de l'exploitation, ni la confiscation prévue à l'article L. 623-28.
+Lorsqu'une variété objet d'une demande de certificat ou d'un certificat d'obtention est exploitée pour les besoins de la défense nationale par l'Etat ou ses fournisseurs, sous-traitants et titulaires de sous-commandes, sans qu'une licence d'exploitation leur ait été octroyée, la juridiction saisie ne peut ordonner ni la cessation ou l'interruption de l'exploitation, ni la confiscation prévue à l'article L. 623-28-1.
 
 Si une expertise ou une description, avec ou sans saisie réelle, est ordonnée par le président de la juridiction saisie, l'officier public commis doit surseoir à la saisie, à la description et à toute recherche dans l'entreprise si le contrat d'études ou de reproduction ou de multiplication comporte une classification de sécurité de défense.
 
