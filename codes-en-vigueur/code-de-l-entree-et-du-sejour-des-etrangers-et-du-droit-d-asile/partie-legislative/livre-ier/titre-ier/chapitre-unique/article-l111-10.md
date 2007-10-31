@@ -24,4 +24,4 @@ i) Les actions entreprises au niveau national en vue de lutter contre les discri
 
 Ce rapport propose également des indicateurs permettant d'estimer le nombre d'étrangers se trouvant en situation irrégulière sur le territoire français.
 
-L'Office français de protection des réfugiés et apatrides, le Haut Conseil à l'intégration, l'Agence nationale de l'accueil des étrangers et des migrations et la Commission nationale de contrôle des centres et locaux de rétention et des zones d'attente joignent leurs observations au rapport.
+L'Office français de protection des réfugiés et apatrides, le Haut Conseil à l'intégration et l'Agence nationale de l'accueil des étrangers et des migrations joignent leurs observations au rapport.
