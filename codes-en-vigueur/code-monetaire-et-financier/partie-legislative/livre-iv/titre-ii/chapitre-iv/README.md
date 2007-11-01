@@ -1,5 +1,6 @@
 # Chapitre IV : Systèmes multilatéraux de négociation
 
+- [Section 1 : Définition ; agrément ou autorisation de l'exploitant](section-1)
 - [Section 2 : Conditions de fonctionnement](section-2)
 - [Section 3 : Admission, suspension et retrait des instruments financiers](section-3)
 - [Section 4 : Régime des membres](section-4)
