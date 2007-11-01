@@ -2,5 +2,3 @@
 
 - [Sous-section 1 : Obligations des dirigeants et des actionnaires d'entreprises de marché](sous-section-1)
 - [Sous-section 2 : Obligations de l'entreprise de marché](sous-section-2)
-- [Article L421-6](article-l421-6.md)
-- [Article L421-7](article-l421-7.md)
