@@ -6,7 +6,7 @@ I. - Si un établissement de crédit, ou une des personnes mentionnées au premi
 
 2. Le blâme ;
 
-3. L'interdiction d'effectuer certaines opérations et toutes autres limitations dans l'exercice de l'activité ;
+3. L'interdiction, à titre temporaire ou définitif, d'effectuer certaines opérations et toutes autres limitations dans l'exercice de l'activité ;
 
 4. La suspension temporaire de l'une ou de plusieurs des personnes mentionnées à l'article L. 511-13 et à l'article L. 532-2 avec ou sans nomination d'administrateur provisoire ;
 
@@ -22,4 +22,4 @@ II. - La commission bancaire peut également décider, soit à la place, soit en
 
 Lorsqu'elle prononce une des sanctions disciplinaires ci-dessus énumérées à l'encontre d'un prestataire de services d'investissement, la commission bancaire en informe l'Autorité des marchés financiers.
 
-III. - La commission bancaire peut décider que les sanctions prises dans le cadre du présent article feront l'objet d'une publication aux frais de la personne morale sanctionnée dans les journaux ou publications que la commission désigne.
+III. - La commission bancaire peut décider que les sanctions prises dans le cadre du présent article feront l'objet d'une publication aux frais de la personne morale sanctionnée dans les journaux ou publications que la commission désigne, à moins que cette publication ne risque de perturber gravement les marchés financiers ou de causer un préjudice disproportionné aux parties en cause.

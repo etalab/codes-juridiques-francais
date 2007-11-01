@@ -1,5 +1,6 @@
 # Sous-paragraphe 4 : Règles relatives aux garanties, aux instruments financiers à terme et aux acquisitions et cessions temporaires de titres.
 
+- [Article D214-192](article-d214-192.md)
 - [Article R214-186](article-r214-186.md)
 - [Article R214-187](article-r214-187.md)
 - [Article R214-188](article-r214-188.md)

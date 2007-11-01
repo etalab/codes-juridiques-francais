@@ -4,4 +4,5 @@
 - [Article L532-19](article-l532-19.md)
 - [Article L532-20](article-l532-20.md)
 - [Article L532-21](article-l532-21.md)
+- [Article L532-21-1](article-l532-21-1.md)
 - [Article L532-22](article-l532-22.md)
