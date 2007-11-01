@@ -2,7 +2,7 @@
 
 - [Section 1 : Normes de gestion](section-1)
 - [Section 2 : Obligations comptables et déclaratives](section-2)
-- [Section 3 : Règles de bonne conduite](section-3)
+- [Section 3 : Obligations comptables et déclaratives](section-3)
 - [Section 4 : Garantie des investisseurs.](section-4)
 - [Section 5 : Règles de bonne conduite](section-5)
 - [Section 6 : Garantie des investisseurs](section-6)

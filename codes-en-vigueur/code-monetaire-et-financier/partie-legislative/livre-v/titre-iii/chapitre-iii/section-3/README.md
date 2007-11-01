@@ -1,4 +1,4 @@
-# Section 3 : Règles de bonne conduite
+# Section 3 : Obligations comptables et déclaratives
 
 - [Article L533-4](article-l533-4.md)
 - [Article L533-5](article-l533-5.md)
