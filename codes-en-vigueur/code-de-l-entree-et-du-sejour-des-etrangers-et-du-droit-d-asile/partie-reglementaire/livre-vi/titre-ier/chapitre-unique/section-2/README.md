@@ -8,5 +8,3 @@
 - [Article R611-13](article-r611-13.md)
 - [Article R611-14](article-r611-14.md)
 - [Article R611-15](article-r611-15.md)
-- [Article R611-16](article-r611-16.md)
-- [Article R611-17](article-r611-17.md)
