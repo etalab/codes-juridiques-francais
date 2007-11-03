@@ -6,11 +6,11 @@ A. - Patrimoine naturel.
 
 a) Forêts.
 
-Servitudes de protection des forêts soumises au régime forestier et instituées en application des articles L. 151-1 à L. 151-6 du code forestier (1) ;
+Servitudes de protection des forêts soumises au régime forestier et instituées en application des articles L. 151-1 à L. 151-6 du code forestier _(1)_ ;
 
 Servitudes relatives aux forêts dites de protection instituées en application des articles L. 411-1 à L. 413-1 du code forestier ;
 
-Prescriptions et interdictions auxquelles sont soumis les propriétaires en application des articles L. 421-1, L. 432-1, L. 432-2, L. 531-1 et L. 541-2 du code forestier (2) ;
+Prescriptions et interdictions auxquelles sont soumis les propriétaires en application des articles L. 421-1, L. 432-1, L. 432-2, L. 531-1 et L. 541-2 du code forestier _(2)_ ;
 
 b) Littoral maritime.
 
@@ -20,7 +20,7 @@ Servitude de passage sur le littoral instituée en application des articles L. 1
 
 c) Eaux.
 
-Servitudes prévues aux articles L. 215-4 et L. 215-5 du code de l'environnement ainsi qu'à l'article L. 151-37-1 du code rural, y compris les servitudes instituées en application du décret n° 59-96 du 7 janvier 1959 validées dans les conditions prévues au IV de l'article L. 211-7 du code de l'environnement ;
+Servitudes prévues aux articles L. 215-4 et L. 215-5 _(2bis)_ du code de l'environnement ainsi qu'à l'article L. 151-37-1 du code rural, y compris les servitudes instituées en application du décret n° 59-96 du 7 janvier 1959 validées dans les conditions prévues au IV de l'article L. 211-7 du code de l'environnement ;
 
 Servitudes attachées à la protection des eaux potables instituées en vertu des articles L. 1321-2 et R. 1321-13 du code de la santé publique ;
 
@@ -46,7 +46,7 @@ Mesures de classement et d'inscription prises en application des articles 1er à
 
 Périmètres de protection éventuellement délimités par décrets en Conseil d'Etat en application de l'article 1er (alinéas 2 et 3) de la loi du 31 décembre 1913, autour des monuments historiques classés ou inscrits ;
 
-Zones de protection des monuments historiques créées en application de l'article 28 de la loi du 2 mai 1930 modifiée (3)
+Zones de protection des monuments historiques créées en application de l'article 28 de la loi du 2 mai 1930 modifiée _(3)_
 
 Périmètres de protection des monuments historiques classés ou inscrits et portés sur la liste visée ci-dessus, tels qu'ils résultent des dispositions combinées des articles 1er et 13 bis de la loi du 31 décembre 1913.
 
@@ -56,7 +56,7 @@ Sites inscrits ;
 
 Sites classés ;
 
-Zones de protection des sites créées en application de l'article 17 de la loi du 2 mai 1930 modifiée (3).
+Zones de protection des sites créées en application de l'article 17 de la loi du 2 mai 1930 modifiée _(3)_.
 
 c) patrimoine architectural et urbain.
 
@@ -110,17 +110,17 @@ b) Eaux et assainissement.
 
 Zones où ont été instituées, en application de la loi n° 62-904 du 4 août 1962 et du décret n° 64-153 du 15 février 1964, les servitudes attachées aux canalisations publiques d'eau et d'assainissement.
 
-Servitudes attachées à l'établissement des canalisations souterraines d'irrigation instituées en application des articles 128-7 et 128-9 du code rural (4) ;
+Servitudes attachées à l'établissement des canalisations souterraines d'irrigation instituées en application des articles 128-7 et 128-9 du code rural _(4)_ ;
 
-Servitudes de passage des engins mécaniques d'entretien et de dépôt des produits de curage et faucardement attachées aux canaux d'irrigation et émissaires d'assainissement instituées en application des articles 128-6 et 138-1 du code rural (5) ;
+Servitudes de passage des engins mécaniques d'entretien et de dépôt des produits de curage et faucardement attachées aux canaux d'irrigation et émissaires d'assainissement instituées en application des articles 128-6 et 138-1 du code rural _(5)_ ;
 
-Servitudes d'écoulement des eaux nuisibles attachées aux travaux d'assainissement des terres par le drainage instituées en application des articles 135 à 138 du code rural (6).
+Servitudes d'écoulement des eaux nuisibles attachées aux travaux d'assainissement des terres par le drainage instituées en application des articles 135 à 138 du code rural _(6)_.
 
 D. - Communications.
 
 a) Cours d'eau.
 
-Servitudes de halage et de marchepied instituées par les articles 15, 16 et 28 du code du domaine public fluvial et de la navigation intérieure et par l'article 424 du code rural (7).
+Servitudes de halage et de marchepied instituées par les articles 15, 16 et 28 du code du domaine public fluvial et de la navigation intérieure et par l'article 424 du code rural _(7)_.
 
 b) Navigation maritime.
 
@@ -132,19 +132,19 @@ Zones auxquelles s'appliquent les servitudes instituées par :
 
 La loi du 15 juillet 1845 sur la police des chemins de fer ;
 
-L'article 6 du décret du 30 octobre 1935 modifié portant création de servitudes de visibilité sur les voies publiques (8) ;
+L'article 6 du décret du 30 octobre 1935 modifié portant création de servitudes de visibilité sur les voies publiques _(8)_ ;
 
 La loi n° 66-1066 du 31 décembre 1966 établissant des servitudes au profit des lignes de transport public par véhicules guidés sur coussins d'air (aérotrains).
 
 d) Réseau routier.
 
-Servitudes instituées en application de l'article 3 du décret du 30 octobre 1935 portant création de servitudes de visibilité sur les voies publiques (9) ;
+Servitudes instituées en application de l'article 3 du décret du 30 octobre 1935 portant création de servitudes de visibilité sur les voies publiques _(9)_ ;
 
 Servitudes grevant les terrains nécessaires aux routes nationales et aux autoroutes instituées en application de l'ordonnance n° 58-1311 du 23 décembre 1958 et du décret n° 58-1316 du 23 décembre 1958 ;
 
 Servitudes attachées à l'alignement des voies nationales, départementales ou communales ;
 
-Servitudes relatives aux interdictions d'accès grevant les propriétés limitrophes des routes express et des déviations d'agglomérations en application des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969 (10).
+Servitudes relatives aux interdictions d'accès grevant les propriétés limitrophes des routes express et des déviations d'agglomérations en application des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969 _(10)_.
 
 e) Circulation aérienne.
 
@@ -194,9 +194,9 @@ a) Cimetières.
 
 Servitudes relatives aux cimetières instituées par :
 
-L'article L. 361-1 du code des communes (11) ;
+L'article L. 361-1 du code des communes _(11)_ ;
 
-L'article L. 361-4 du code des communes (12).
+L'article L. 361-4 du code des communes _(12)_.
 
 b) Etablissements conchylicoles.
 
@@ -217,3 +217,5 @@ Servitudes résultant de l'application des articles L. 515-8 à L. 515-12 du cod
 Servitudes d'utilité publique instituées en application de l'article L. 211-12 du code de l'environnement ;
 
 Plans de prévention des risques technologiques établis en application de l'article L. 515-15 du code de l'environnement.
+
+Servitudes d'utilité publique instituées en application de l'article 31 de la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire.
