@@ -14,7 +14,9 @@ II. - Toutefois, la procédure de l'étude d'impact est applicable quel que soit
 
 5° Aménagements de stockages souterrains de gaz, d'hydrocarbures ou de produits chimiques ;
 
-6° Travaux nécessitant une autorisation en vertu soit de la législation relative aux installations classées pour la protection de l'environnement, soit de la réglementation concernant les installations nucléaires de base ;
+6° a) Travaux nécessitant une autorisation en application de la législation relative aux installations classées pour la protection de l'environnement ;
+
+b) Travaux nécessitant une autorisation de création ou une autorisation de courte durée ou une autorisation de mise à l'arrêt définitif et de démantèlement ou une autorisation de mise à l'arrêt définitif et de passage en phase de surveillance, en application de l'article 29 de la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire ;
 
 7° Réservoirs de stockage d'eau "sur tour" d'une capacité égale ou supérieure à 1 000 m3 et autres réservoirs de stockage d'eau d'une superficie égale ou supérieure à 10 ha ;
 
