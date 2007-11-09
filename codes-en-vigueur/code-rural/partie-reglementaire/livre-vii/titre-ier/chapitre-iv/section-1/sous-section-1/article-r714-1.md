@@ -22,4 +22,6 @@ Le repos hebdomadaire est accordé de plein droit, selon l'une des modalités pr
 
 10° A la conduite des appareils fonctionnant en continu ;
 
-11° Au traitement et au transport des matières susceptibles d'altération très rapide.
+11° Au traitement et au transport des matières susceptibles d'altération très rapide ;
+
+12° Dans les jardineries et graineteries coopératives.
