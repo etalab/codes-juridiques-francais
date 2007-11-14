@@ -8,4 +8,4 @@ Dans les cas prévus par le présent chapitre, peuvent être prononcées, à tit
 
 3° La confiscation, suivant les modalités prévues par l'article 131-21, des sommes ou objets irrégulièrement reçus par l'auteur de l'infraction, à l'exception des objets susceptibles de restitution.
 
-4° Dans le cas prévu par l'article 432-7, l'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35.
+4° Dans les cas prévus par les article 432-7 et 432-11, l'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35.
