@@ -7,4 +7,5 @@
 - [Titre XVII : De la poursuite, de l'instruction et du jugement des infractions en matière de traite des êtres humains, de proxénétisme ou de recours à la prostitution des mineurs](titre-xvii)
 - [Titre XX : Du fichier national automatisé des empreintes génétiques](titre-xx)
 - [Titre XIX : De la procédure applicable aux infractions de nature sexuelle et de la protection des mineurs victimes](titre-xix)
+- [Titre XXIII : De l'utilisation de moyens de communication au cours de la procédure](titre-xxiii)
 - [Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées](titre-xxv)

@@ -5,3 +5,5 @@
 - [Section 3 : Instructions et renseignements donnés par l'autorité judiciaire](section-3)
 - [Section 8 : Des commissions rogatoires](section-8)
 - [Section 9 : De l'expertise](section-9)
+- [Section 11 : Des ordonnances de règlement](section-11)
+- [Section 12 : De l'appel des ordonnances du juge d'instruction ou du juge des libertés et de la détention](section-12)
