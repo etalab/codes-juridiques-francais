@@ -12,4 +12,6 @@ Des permissions de sortir d'une durée n'excédant pas la journée peuvent être
 
 5° Sorties pour la pratique d'activités culturelles ou sportives organisées ;
 
-6° Comparution soit devant une juridiction de l'ordre judiciaire, soit devant une juridiction ou un organisme d'ordre administratif.
+6° Comparution soit devant une juridiction de l'ordre judiciaire, soit devant une juridiction ou un organisme d'ordre administratif ;
+
+7° Exercice par le condamné de son droit de vote.

@@ -7,6 +7,8 @@
 - [Article D49-15](article-d49-15.md)
 - [Article D49-16](article-d49-16.md)
 - [Article D49-17](article-d49-17.md)
+- [Article D49-17-1](article-d49-17-1.md)
+- [Article D49-17-2](article-d49-17-2.md)
 - [Article D49-18](article-d49-18.md)
 - [Article D49-19](article-d49-19.md)
 - [Article D49-20](article-d49-20.md)
