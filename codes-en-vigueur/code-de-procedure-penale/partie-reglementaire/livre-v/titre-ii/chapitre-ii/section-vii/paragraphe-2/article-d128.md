@@ -6,4 +6,6 @@ Peuvent être désignés pour être employés à des travaux à l'extérieur, s'
 
 2° Les détenus remplissant les conditions de délai requises pour être proposés au bénéfice de la libération conditionnelle, quels que soient leurs antécédents et la durée de l'incarcération à subir ;
 
-3° Les détenus remplissant les conditions de délai requises pour être admis à la semi-liberté.
+3° Les détenus remplissant les conditions de délai requises pour être admis à la semi-liberté ;
+
+4° Les condamnés pouvant faire l'objet d'un placement extérieur sans surveillance du personnel pénitentiaire, en application des dispositions de l'article D. 136.
