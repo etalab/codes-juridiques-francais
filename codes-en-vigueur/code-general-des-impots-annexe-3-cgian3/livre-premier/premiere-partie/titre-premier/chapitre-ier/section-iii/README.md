@@ -13,3 +13,4 @@
 - [2° bis : Réduction d'impôt accordée au titre de certains investissements forestiers](2-bis)
 - [6° bis : Réduction d'impôt au titre de souscriptions de parts de fonds d'investissement de proximité](6-bis)
 - [8° bis : Réduction d'impôt accordée au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet.](8-bis)
+- [2° ter : Réduction d'impôt accordée au titre des investissements dans des résidences hôtelières à vocation sociale](2-ter)
