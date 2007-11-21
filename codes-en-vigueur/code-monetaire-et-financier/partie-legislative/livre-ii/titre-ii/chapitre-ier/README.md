@@ -6,4 +6,4 @@
 - [Section 4 : Le livret de développement durable](section-4)
 - [Section 5 : L'épargne-logement](section-5)
 - [Section 6 : Plan d'épargne en actions](section-6)
-- [Section 7 : Compte épargne codéveloppement](section-7)
+- [Section 7 : L'épargne codéveloppement](section-7)
