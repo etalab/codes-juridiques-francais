@@ -9,3 +9,4 @@
 - [Titre XIX : De la procédure applicable aux infractions de nature sexuelle et de la protection des mineurs victimes](titre-xix)
 - [Titre XXIII : De l'utilisation de moyens de communication au cours de la procédure](titre-xxiii)
 - [Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées](titre-xxv)
+- [Titre XXVII : De la poursuite, de l'instruction et du jugement des infractions commises par des majeurs protégés](titre-xxvii)
