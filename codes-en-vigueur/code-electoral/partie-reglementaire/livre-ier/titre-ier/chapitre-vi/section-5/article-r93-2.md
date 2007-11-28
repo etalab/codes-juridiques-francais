@@ -9,3 +9,5 @@ Chaque commission comprend :
 - un fonctionnaire désigné par le préfet.
 
 Ce dernier assure le secrétariat de la commission.
+
+Un suppléant de chaque membre peut être désigné dans les mêmes conditions.
