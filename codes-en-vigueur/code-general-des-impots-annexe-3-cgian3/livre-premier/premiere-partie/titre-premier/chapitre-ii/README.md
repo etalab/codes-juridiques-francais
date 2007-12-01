@@ -24,6 +24,7 @@
 - [Section V quindecies : Crédit d'impôt en faveur des métiers d'art](section-v-quindecies)
 - [Section V sexdecies : Crédit d'impôt pour dépenses de formation à l'économie de l'entreprise et aux dispositifs d'épargne salariale et d'actionnariat salarié](section-v-sexdecies)
 - [Section V septdecies : Crédit d'impôt en faveur des maîtres restaurateurs](section-v-septdecies)
+- [Section V octodecies : Crédit d'impôt en faveur  des débitants de tabac](section-v-octodecies)
 - [Section VI : Indemnités de congé payé](section-vi)
 - [Section VII : Opérations de crédit-bail](section-vii)
 - [Section 0I bis : Personnes morales passibles de l'impôt sur les sociétés, ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble](section-0i-bis)
