@@ -1,6 +1,6 @@
 # Article R313-33
 
-La Commission nationale de l'admission exceptionnelle au séjour est placée auprès du ministre de l'intérieur. Elle est composée de onze membres, soit :
+La Commission nationale de l'admission exceptionnelle au séjour est placée auprès du ministre chargé de l'immigration. Elle est composée de onze membres, soit :
 
 1° Deux personnalités qualifiées, dont l'une président de la commission ;
 
@@ -12,13 +12,13 @@ La Commission nationale de l'admission exceptionnelle au séjour est placée aup
 
 5° Un maire désigné par l'Association des maires de France ;
 
-6° Deux représentants du ministre de l'intérieur ;
+6° Deux représentants du ministre chargé de l'immigration ;
 
-7° Un représentant du ministre chargé de l'intégration ;
+7° Un représentant du ministre de l'intérieur ;
 
 8° Un représentant du ministre des affaires étrangères.
 
-Le président et les autres membres de la commission sont nommés par arrêté du ministre de l'intérieur. Leur mandat est d'une durée de deux ans. Il est renouvelable.
+Le président et les autres membres de la commission sont nommés par arrêté du ministre chargé de l'immigration. Leur mandat est d'une durée de deux ans. Il est renouvelable.
 
 Un suppléant est nommé dans les mêmes conditions que le titulaire pour les membres mentionnés du 2° au 8°.
 
