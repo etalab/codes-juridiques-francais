@@ -10,5 +10,6 @@
 - [Article L414](article-l414.md)
 - [Article L415](article-l415.md)
 - [Article L415-1](article-l415-1.md)
+- [Article L415-2](article-l415-2.md)
 - [Article L416](article-l416.md)
 - [Article LO406-1](article-lo406-1.md)

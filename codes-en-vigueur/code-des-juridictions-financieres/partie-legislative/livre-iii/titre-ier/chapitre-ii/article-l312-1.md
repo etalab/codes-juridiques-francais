@@ -6,7 +6,7 @@ a) Toute personne appartenant au cabinet d'un membre du Gouvernement ;
 
 b) Tout fonctionnaire ou agent civil ou militaire de l'Etat, des collectivités territoriales, de leurs établissements publics ainsi que des groupements des collectivités territoriales ;
 
-c) Tout représentant, administrateur ou agent des autres organismes qui sont soumis soit au contrôle de la Cour des comptes, soit au contrôle d'une chambre régionale des comptes.
+c) Tout représentant, administrateur ou agent des autres organismes qui sont soumis soit au contrôle de la Cour des comptes, soit au contrôle d'une chambre régionale des comptes ou d'une chambre territoriale des comptes.
 
 Sont également justiciables de la Cour tous ceux qui exercent, en fait, les fonctions des personnes désignées ci-dessus.
 
