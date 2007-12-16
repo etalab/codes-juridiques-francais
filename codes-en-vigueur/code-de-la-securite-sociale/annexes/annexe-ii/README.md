@@ -71,6 +71,7 @@
 - [Article Annexe II : Tableau n° 58](article-annexe-ii-tableau-no-58.md)
 - [Article Annexe II : Tableau n° 59](article-annexe-ii-tableau-no-59.md)
 - [Article Annexe II : Tableau n° 61](article-annexe-ii-tableau-no-61.md)
+- [Article Annexe II : Tableau n° 61 bis](article-annexe-ii-tableau-no-61-bis.md)
 - [Article Annexe II : Tableau n° 62](article-annexe-ii-tableau-no-62.md)
 - [Article Annexe II : Tableau n° 63](article-annexe-ii-tableau-no-63.md)
 - [Article Annexe II : Tableau n° 64](article-annexe-ii-tableau-no-64.md)
