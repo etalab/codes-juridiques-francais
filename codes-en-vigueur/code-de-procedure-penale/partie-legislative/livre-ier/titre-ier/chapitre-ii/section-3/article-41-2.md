@@ -50,7 +50,7 @@ Si la personne n'accepte pas la composition pénale ou si, après avoir donné s
 
 Les actes tendant à la mise en oeuvre ou à l'exécution de la composition pénale sont interruptifs de la prescription de l'action publique.
 
-L'exécution de la composition pénale éteint l'action publique. Elle ne fait cependant pas échec au droit de la partie civile de délivrer citation directe devant le tribunal correctionnel dans les conditions prévues au présent code. Le tribunal, composé d'un seul magistrat exerçant les pouvoirs conférés au président, ne statue alors que sur les seuls intérêts civils, au vu du dossier de la procédure qui est versé au débat. La victime a également la possibilité, au vu de l'ordonnance de validation, lorsque l'auteur des faits s'est engagé à lui verser des dommages et intérêts, d'en demander le recouvrement suivant la procédure d'injonction de payer, conformément aux règles prévues par le nouveau code de procédure civile.
+L'exécution de la composition pénale éteint l'action publique. Elle ne fait cependant pas échec au droit de la partie civile de délivrer citation directe devant le tribunal correctionnel dans les conditions prévues au présent code. Le tribunal, composé d'un seul magistrat exerçant les pouvoirs conférés au président, ne statue alors que sur les seuls intérêts civils, au vu du dossier de la procédure qui est versé au débat. La victime a également la possibilité, au vu de l'ordonnance de validation, lorsque l'auteur des faits s'est engagé à lui verser des dommages et intérêts, d'en demander le recouvrement suivant la procédure d'injonction de payer, conformément aux règles prévues par le code de procédure civile.
 
 Les compositions pénales exécutées sont inscrites au bulletin n° 1 du casier judiciaire.
 
