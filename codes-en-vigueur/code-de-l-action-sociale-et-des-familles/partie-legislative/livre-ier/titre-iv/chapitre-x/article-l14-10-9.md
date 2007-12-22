@@ -1,0 +1,11 @@
+# Article L14-10-9
+
+Une part des crédits reportés sur l'exercice en cours au titre des excédents de l'exercice précédent est affectée, selon les modalités prévues au dernier alinéa de l'article L. 14-10-5, dans les deux sous-sections mentionnées au V de ce même article.
+
+Ces crédits peuvent être utilisés au financement d'opérations d'investissement immobilier portant sur la création de places, la mise aux normes techniques et de sécurité et la modernisation des locaux des établissements et des services mentionnés à l'article L. 314-3-1, ainsi que des établissements mentionnés au 2° de l'article L. 6111-2 du code de la santé publique.
+
+En vue de faciliter des investissements immobiliers dans les établissements relevant des 2°,3° et 4° de l'article L. 342-1 du présent code et les établissements habilités à l'aide sociale pour la totalité de leurs places relevant du 6° du I de l'article L. 312-1 ayant conclu la convention prévue au I de l'article L. 313-12, les crédits mentionnés au premier alinéa peuvent être utilisés pour prendre en charge les intérêts des emprunts contractés à cet effet.
+
+Ils peuvent également être utilisés au financement d'actions ponctuelles de formation et de qualification des personnels soignants des établissements et services médico-sociaux mentionnés à l'article L. 314-3-1, à l'exception des établissements sociaux et médico-sociaux accueillant des personnes âgées qui n'ont pas conclu la convention prévue au I de l'article L. 313-12 ou ont opté pour la dérogation à l'obligation de passer cette convention en application des dispositions du premier alinéa du I bis de cet article.
+
+Un arrêté des ministres chargés des personnes âgées, des personnes handicapées et de la sécurité sociale, pris après avis de la Caisse nationale de solidarité pour l'autonomie, détermine les conditions d'utilisation, l'affectation et le montant des crédits visés par le présent article.

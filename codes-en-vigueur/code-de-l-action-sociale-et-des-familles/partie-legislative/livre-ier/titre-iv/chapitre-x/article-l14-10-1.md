@@ -18,7 +18,9 @@ I. - La Caisse nationale de solidarité pour l'autonomie a pour missions :
 
 8° De participer, avec les autres institutions et administrations compétentes, à la définition et au lancement d'actions de recherche dans le domaine de la prévention et de la compensation de la perte d'autonomie ;
 
-9° D'assurer une coopération avec les institutions étrangères ayant le même objet.
+9° D'assurer une coopération avec les institutions étrangères ayant le même objet ;
+
+10° De contribuer au financement de l'investissement destiné à la mise aux normes techniques et de sécurité, à la modernisation des locaux en fonctionnement ainsi qu'à la création de places nouvelles en établissements et services sociaux et médico-sociaux.
 
 II. - L'autorité compétente de l'Etat conclut avec la Caisse nationale de solidarité pour l'autonomie une convention d'objectifs et de gestion comportant des engagements réciproques des signataires. Elle précise notamment, pour la durée de son exécution :
 

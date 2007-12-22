@@ -10,7 +10,7 @@ a) En apportant aux caisses l'information et la documentation relatives à l'app
 
 b) En mettant en oeuvre des traitements automatisés permettant d'identifier sur le plan national les bénéficiaires des régimes de protection sociale agricole et de centraliser les informations nécessaires à la détermination des prestations dues aux assurés ;
 
-c) En passant, pour son propre compte et celui des autres organismes, associations et groupements mentionnés aux articles L. 723-2 et L. 723-5, des conventions de prix assorties de marchés types tant pour les marchés informatiques que pour les autres marchés prévus à l'article L. 124-4 du code de la sécurité sociale ; dans le cadre de cette procédure, les autres organismes, associations et groupements susvisés sont alors dispensés du respect des obligations leur incombant en application de l'article L. 124-4 du code de la sécurité sociale ;
+c) En assurant la fonction de centrale d'achat au sens du code des marchés publics, pour le compte des organismes de mutualité sociale agricole mentionnés à l'article L. 723-1 et en passant, pour son propre compte et celui desdits organismes, des marchés ou des accords-cadres. Les marchés subséquents aux accords-cadres sont passés par la caisse centrale ou les organismes de mutualité sociale agricole ;
 
 d) En passant des conventions dans les matières et avec les organismes définis aux articles L. 723-7, L. 723-8 et L. 723-9 qui, lorsqu'elles ont été approuvées par le ministre chargé de l'agriculture, sont applicables de droit dans l'ensemble des organismes de Mutualité sociale agricole ;
 
@@ -26,4 +26,8 @@ d) En passant des conventions dans les matières et avec les organismes définis
 
 8° De promouvoir la prévention des accidents du travail des personnes non salariées mentionnées à l'article L. 752-1 ;
 
-9° De contribuer au développement sanitaire et social des territoires ruraux et, par ses avis, à la définition des orientations et des conditions de mise en oeuvre de la politique de développement rural en matière sanitaire et sociale.
+9° De contribuer au développement sanitaire et social des territoires ruraux et, par ses avis, à la définition des orientations et des conditions de mise en oeuvre de la politique de développement rural en matière sanitaire et sociale ;
+
+10° De prendre les mesures nécessaires au pilotage du réseau des organismes de mutualité sociale agricole et de confier à certains d'entre eux la charge d'assumer des missions communes ;
+
+11° De mettre en oeuvre ou de coordonner des actions de contrôle sur le service des prestations afin de détecter les fraudes et les comportements abusifs. Elle peut requérir la participation des caisses mentionnées à l'article L. 723-2. Elle peut à ce titre utiliser des traitements automatisés des données relatives au service des prestations.

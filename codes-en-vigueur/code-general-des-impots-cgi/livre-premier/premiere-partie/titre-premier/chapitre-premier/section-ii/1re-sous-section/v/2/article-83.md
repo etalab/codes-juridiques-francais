@@ -10,7 +10,7 @@ Le montant net du revenu imposable est déterminé en déduisant du montant brut
 
 1° ter (abrogé à compter de l'entrée en vigueur de la loi n° 2002-73 du 17 janvier 2002).
 
-1° quater Les cotisations ou primes versées aux régimes de prévoyance complémentaire auxquels le salarié est affilié à titre obligatoire, à condition, lorsque ces cotisations ou primes financent des garanties portant sur le remboursement ou l'indemnisation de frais occasionnés par une maladie, une maternité ou un accident, que ces garanties ne couvrent pas la participation mentionnée au II de l'article L. 322-2 du code de la sécurité sociale et qu'elles respectent les conditions mentionnées à l'article L. 871-1 du même code.
+1° quater Les cotisations ou primes versées aux régimes de prévoyance complémentaire auxquels le salarié est affilié à titre obligatoire, à condition, lorsque ces cotisations ou primes financent des garanties portant sur le remboursement ou l'indemnisation de frais occasionnés par une maladie, une maternité ou un accident, que ces garanties respectent les conditions mentionnées à l'article L. 871-1 du même code.
 
 Les cotisations ou les primes mentionnées à l'alinéa précédent sont déductibles dans la limite, y compris les versements de l'employeur, d'un montant égal à la somme de 7 % du montant annuel du plafond mentionné à l'article L. 241-3 du code de la sécurité sociale et de 3 % de la rémunération annuelle brute, sans que le total ainsi obtenu puisse excéder 3 % de huit fois le montant annuel du plafond précité. En cas d'excédent, celui-ci est ajouté à la rémunération ;
 
