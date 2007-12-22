@@ -1,4 +1,4 @@
-# Livre Ier : La Cour de cassation
+# LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES
 
 - [TITRE Ier : PRINCIPES GÉNÉRAUX](titre-ier)
 - [Titre II : Organisation.](titre-ii)

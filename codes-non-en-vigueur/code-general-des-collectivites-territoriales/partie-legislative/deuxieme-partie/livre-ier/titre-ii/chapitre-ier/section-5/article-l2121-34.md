@@ -9,5 +9,3 @@ Les délibérations des centres communaux d'action sociale qui concernent un emp
 Un arrêté du représentant de l'Etat dans le département est nécessaire pour autoriser l'emprunt si la somme à emprunter, seule ou réunie aux emprunts antérieurs non encore remboursés, dépasse le chiffre des revenus ordinaires de l'établissement, ou si le remboursement doit être effectué dans un délai supérieur à douze années.
 
 L'emprunt ne peut être autorisé que par arrêté motivé du représentant de l'Etat dans le département si l'avis du conseil municipal est défavorable.
-
-L'emprunt ne peut être autorisé que par décret en Conseil d'Etat si la durée de remboursement dépasse trente ans.

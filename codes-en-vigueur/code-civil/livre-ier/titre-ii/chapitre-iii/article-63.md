@@ -6,13 +6,11 @@ La publication prévue au premier alinéa ou, en cas de dispense de publication 
 
 1° A la remise, pour chacun des futurs époux, des indications ou pièces suivantes :
 
-- un certificat médical datant de moins de deux mois attestant, à l'exclusion de toute autre indication, que l'intéressé a été examiné en vue du mariage ;
+-les pièces exigées par les articles 70 ou 71 ;
 
-- les pièces exigées par les articles 70 ou 71 ;
+-la justification de l'identité au moyen d'une pièce délivrée par une autorité publique ;
 
-- la justification de l'identité au moyen d'une pièce délivrée par une autorité publique ;
-
-- l'indication des prénoms, nom, date et lieu de naissance, profession et domicile des témoins, sauf lorsque le mariage doit être célébré par une autorité étrangère ;
+-l'indication des prénoms, nom, date et lieu de naissance, profession et domicile des témoins, sauf lorsque le mariage doit être célébré par une autorité étrangère ;
 
 2° A l'audition commune des futurs époux, sauf en cas d'impossibilité ou s'il apparaît, au vu des pièces fournies, que cette audition n'est pas nécessaire au regard des articles 146 et 180.
 

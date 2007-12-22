@@ -8,6 +8,4 @@ Les sociétés, compagnies d'assurances et tous autres assureurs français et é
 
 3° Le numéro, la date et la durée de la police et la valeur des objets assurés.
 
-Il en est donné récépissé.
-
-Ces notices sont établies sur des formules imprimées, délivrées sans frais par le service des impôts.
+Ces notices sont établies sur des formulaires mis à disposition par le service des impôts.

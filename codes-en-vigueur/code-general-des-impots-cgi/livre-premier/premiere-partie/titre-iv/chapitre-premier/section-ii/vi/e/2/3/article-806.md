@@ -1,8 +1,8 @@
 # Article 806
 
-I. Les administrations publiques, les établissements ou organismes quelconques soumis au contrôle de l'autorité administrative, les sociétés ou compagnies, prestataires de services d'investissement, changeurs, banquiers, escompteurs, officiers publics ou ministériels ou agents d'affaires qui seraient dépositaires, détenteurs ou débiteurs de titres, sommes ou valeurs dépendant d'une succession qu'ils sauraient ouverte doivent adresser, soit avant le paiement, la remise ou le transfert, soit dans la quinzaine qui suit ces opérations, à la direction des services fiscaux du département de leur résidence, la liste de ces titres, sommes ou valeurs. Il en est donné récépissé.
+I. Les administrations publiques, les établissements ou organismes quelconques soumis au contrôle de l'autorité administrative, les sociétés ou compagnies, prestataires de services d'investissement, changeurs, banquiers, escompteurs, officiers publics ou ministériels ou agents d'affaires qui seraient dépositaires, détenteurs ou débiteurs de titres, sommes ou valeurs dépendant d'une succession qu'ils sauraient ouverte doivent adresser, soit avant le paiement, la remise ou le transfert, soit dans la quinzaine qui suit ces opérations, à la direction des services fiscaux du département de leur résidence, la liste de ces titres, sommes ou valeurs.
 
-II. Ces listes sont établies sur des formules imprimées, délivrées sans frais par le service des impôts.
+II. Ces listes sont établies sur des formulaires mis à disposition par le service des impôts.
 
 III. Les sociétés, compagnies, caisses ou organismes d'assurances et tous autres assureurs français, ainsi que les établissements, agences et succursales en France des sociétés, compagnies, caisses, organismes ou assureurs étrangers, ne peuvent se libérer des sommes, rentes ou émoluments quelconques dus par eux, à raison ou à l'occasion du décès de l'assuré à tout bénéficiaire domicilié en France ou à l'étranger, si ce n'est sur la présentation d'un certificat délivré sans frais par le comptable des impôts et constatant soit l'acquittement, soit la non exigibilité de l'impôt de mutation par décès.
 
