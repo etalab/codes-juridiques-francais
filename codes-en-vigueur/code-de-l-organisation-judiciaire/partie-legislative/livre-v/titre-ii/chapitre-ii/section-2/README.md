@@ -1,9 +1,6 @@
 # Section 2 : Le tribunal supérieur d'appel
 
 - [Article L522-11](article-l522-11.md)
-- [Article L522-12](article-l522-12.md)
-- [Article L522-13](article-l522-13.md)
-- [Article L522-14](article-l522-14.md)
 - [Article L522-15](article-l522-15.md)
 - [Article L522-16](article-l522-16.md)
 - [Article L522-17](article-l522-17.md)
