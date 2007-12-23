@@ -23,3 +23,7 @@ Moutarde et produits à base de moutarde.
 Graines de sésame et produits à base de graines de sésame.
 
 Anhydride sulfureux et sulfites en concentrations supérieures à 10 mg/kg ou 10 mg/litre exprimées en SO2.
+
+Lupin et produits à base de lupin.
+
+Mollusques et produits à base de mollusques.
