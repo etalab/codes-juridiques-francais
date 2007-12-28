@@ -1,6 +1,9 @@
 # Article 150-0 A
 
-I.-1. Sous réserve des dispositions propres aux bénéfices industriels et commerciaux, aux bénéfices non commerciaux et aux bénéfices agricoles ainsi que des articles 150 UB et 150 UC, les gains nets retirés des cessions à titre onéreux, effectuées directement ou par personne interposée, de valeurs mobilières, de droits sociaux, de titres mentionnés au 1° de l'article 118 et aux 6° et 7° de l'article 120, de droits portant sur ces valeurs, droits ou titres ou de titres représentatifs des mêmes valeurs, droits ou titres, sont soumis à l'impôt sur le revenu lorsque le montant de ces cessions excède, par foyer fiscal, 20 000 euros pour l'imposition des revenus de l'année 2007. Pour l'imposition des revenus des années ultérieures, ce seuil, arrondi à la dizaine d'euros la plus proche, est actualisé chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu de l'année précédant celle de la cession et sur la base du seuil retenu au titre de cette année.
+I.-1. Sous réserve des dispositions propres aux bénéfices industriels et commerciaux, aux bénéfices non commerciaux et aux bénéfices agricoles ainsi que des articles 150 UB et 150 UC
+, les gains nets retirés des cessions à titre onéreux, effectuées directement ou par personne interposée, de valeurs mobilières, de droits sociaux, de titres mentionnés au 1° de l'article 118
+et aux 6° et 7° de l'article 120
+, de droits portant sur ces valeurs, droits ou titres ou de titres représentatifs des mêmes valeurs, droits ou titres, sont soumis à l'impôt sur le revenu lorsque le montant de ces cessions excède, par foyer fiscal, 20 000 euros pour l'imposition des revenus de l'année 2007 et 25 000 euros pour l'imposition des revenus de l'année 2008. Pour l'imposition des revenus des années ultérieures, ce seuil, arrondi à la dizaine d'euros la plus proche, est actualisé chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu de l'année précédant celle de la cession et sur la base du seuil retenu au titre de cette année.
 
 Toutefois, en cas d'intervention d'un événement exceptionnel dans la situation personnelle, familiale ou professionnelle des contribuables, le franchissement de la limite précitée est apprécié par référence à la moyenne des cessions de l'année considérée et des deux années précédentes. Les événements exceptionnels doivent notamment s'entendre de la mise à la retraite, du chômage, de la procédure de sauvegarde, du redressement ou de la liquidation judiciaires ainsi que de l'invalidité ou du décès du contribuable ou de l'un ou l'autre des époux soumis à une imposition commune.
 
@@ -10,13 +13,15 @@ Le gain retiré de la cession ou de l'apport d'une créance qui trouve son origi
 
 3. Lorsque les droits détenus directement ou indirectement par le cédant avec son conjoint, leurs ascendants et leurs descendants dans les bénéfices sociaux d'une société soumise à l'impôt sur les sociétés et ayant son siège en France ont dépassé ensemble 25 % de ces bénéfices à un moment quelconque au cours des cinq dernières années, la plus-value réalisée lors de la cession de ces droits, pendant la durée de la société, à l'une des personnes mentionnées au présent alinéa, est exonérée si tout ou partie de ces droits sociaux n'est pas revendu à un tiers dans un délai de cinq ans.A défaut, la plus-value est imposée au nom du premier cédant au titre de l'année de la revente des droits au tiers.
 
-4. Les sommes ou valeurs attribuées en contrepartie de titres pour lesquels l'option pour l'imputation des pertes a été exercée dans les conditions du deuxième alinéa du 12 de l'article 150-0 D sont imposables au titre de l'année au cours de laquelle elles sont reçues, quel que soit le montant des cessions réalisées au cours de cette année, à hauteur de la perte imputée ou reportée.
+4. Les sommes ou valeurs attribuées en contrepartie de titres pour lesquels l'option pour l'imputation des pertes a été exercée dans les conditions du deuxième alinéa du 12 de l'article 150-0 D
+sont imposables au titre de l'année au cours de laquelle elles sont reçues, quel que soit le montant des cessions réalisées au cours de cette année, à hauteur de la perte imputée ou reportée.
 
 II.-Les dispositions du I sont applicables :
 
 1. (Abrogé) ;
 
-2. Au gain net réalisé depuis l'ouverture du plan d'épargne en actions défini à l'article 163 quinquies D en cas de retrait de titres ou de liquidités ou de rachat avant l'expiration de la cinquième année dans les mêmes conditions. Cette disposition n'est pas applicable aux sommes ou valeurs retirées ou rachetées, lorsqu'elles sont affectées, dans les trois mois suivant le retrait ou le rachat, au financement de la création ou de la reprise d'une entreprise dont le titulaire du plan, son conjoint, son ascendant ou son descendant assure personnellement l'exploitation ou la direction et lorsque ces sommes ou valeurs sont utilisées à la souscription en numéraire au capital initial d'une société, à l'achat d'une entreprise existante ou lorsqu'elles sont versées au compte de l'exploitant d'une entreprise individuelle créée depuis moins de trois mois à la date du versement. Pour l'appréciation de la limite mentionnée au 1 du I, la valeur liquidative du plan ou la valeur de rachat pour un contrat de capitalisation à la date de sa clôture est ajoutée au montant des cessions réalisées en dehors du plan au cours de la même année ;
+2. Au gain net réalisé depuis l'ouverture du plan d'épargne en actions défini à l'article 163 quinquies D
+en cas de retrait de titres ou de liquidités ou de rachat avant l'expiration de la cinquième année dans les mêmes conditions. Cette disposition n'est pas applicable aux sommes ou valeurs retirées ou rachetées, lorsqu'elles sont affectées, dans les trois mois suivant le retrait ou le rachat, au financement de la création ou de la reprise d'une entreprise dont le titulaire du plan, son conjoint, son ascendant ou son descendant assure personnellement l'exploitation ou la direction et lorsque ces sommes ou valeurs sont utilisées à la souscription en numéraire au capital initial d'une société, à l'achat d'une entreprise existante ou lorsqu'elles sont versées au compte de l'exploitant d'une entreprise individuelle créée depuis moins de trois mois à la date du versement. Pour l'appréciation de la limite mentionnée au 1 du I, la valeur liquidative du plan ou la valeur de rachat pour un contrat de capitalisation à la date de sa clôture est ajoutée au montant des cessions réalisées en dehors du plan au cours de la même année ;
 
 2 bis. Au gain net réalisé depuis l'ouverture du plan d'épargne en actions défini à l'article 163 quinquies D en cas de clôture après l'expiration de la cinquième année lorsqu'à la date de cet événement la valeur liquidative du plan ou de rachat du contrat de capitalisation est inférieure au montant des versements effectués sur le plan depuis son ouverture, compte non tenu de ceux afférents aux retraits ou rachats n'ayant pas entraîné la clôture du plan, et à condition que, à la date de la clôture, les titres figurant dans le plan aient été cédés en totalité ou que le contrat de capitalisation ait fait l'objet d'un rachat total. Pour l'appréciation de la limite mentionnée au 1 du I, la valeur liquidative du plan ou la valeur de rachat du contrat de capitalisation à la date de sa clôture, est ajoutée au montant des cessions réalisées en dehors du plan au cours de la même année ;
 
@@ -26,7 +31,8 @@ II.-Les dispositions du I sont applicables :
 
 4 bis. Au gain net retiré des rachats d'actions de sociétés de placement à prépondérance immobilière à capital variable mentionnées au 3° nonies de l'article 208 ;
 
-4 ter. Par dérogation aux dispositions de l'article 239 nonies, aux titres cédés dans le cadre de leur gestion par les fonds de placement immobilier régis par les articles L. 214-89 et suivants du code monétaire et financier, lorsqu'une personne physique agissant directement ou par personne interposée possède plus de 10 % des parts du fonds.
+4 ter. Par dérogation aux dispositions de l'article 239 nonies
+, aux titres cédés dans le cadre de leur gestion par les fonds de placement immobilier régis par les articles L. 214-89 et suivants du code monétaire et financier, lorsqu'une personne physique agissant directement ou par personne interposée possède plus de 10 % des parts du fonds.
 
 5. Au gain net retiré des cessions de parts des fonds communs de créances dont la durée à l'émission est supérieure à cinq ans.
 
@@ -48,7 +54,8 @@ III.-Les dispositions du I ne s'appliquent pas :
 
 6. Aux profits réalisés dans le cadre des placements en report par les contribuables qui effectuent de tels placements.
 
-7. Sur option expresse, aux cessions de parts ou actions de sociétés qui bénéficient du statut de jeune entreprise innovante réalisant des projets de recherche et de développement défini à l'article 44 sexies-0 A si :
+7. Sur option expresse, aux cessions de parts ou actions de sociétés qui bénéficient du statut de jeune entreprise innovante réalisant des projets de recherche et de développement défini à l'article 44 sexies-0 A
+si :
 
 1° Les parts ou actions cédées ont été souscrites à compter du 1er janvier 2004 ;
 
@@ -57,3 +64,5 @@ III.-Les dispositions du I ne s'appliquent pas :
 3° Le cédant, son conjoint et leurs ascendants et descendants n'ont pas détenu ensemble, directement ou indirectement, plus de 25 % des droits dans les bénéfices de la société et des droits de vote depuis la souscription des titres cédés.
 
 Cette option peut également être exercée lorsque la cession intervient dans les cinq ans qui suivent la fin du régime mentionné au premier alinéa, toutes autres conditions étant remplies.
+
+IV.-Le I ne s'applique pas aux partages qui portent sur des valeurs mobilières, des droits sociaux et des titres assimilés, dépendant d'une succession ou d'une communauté conjugale et qui interviennent uniquement entre les membres originaires de l'indivision, leur conjoint, des ascendants, des descendants ou des ayants droit à titre universel de l'un ou de plusieurs d'entre eux. Il en est de même des partages portant sur des biens indivis issus d'une donation-partage et des partages portant sur des biens indivis acquis par des partenaires ayant conclu un pacte civil de solidarité ou par des époux, avant ou pendant le pacte ou le mariage. Ces partages ne sont pas considérés comme translatifs de propriété dans la mesure des soultes ou plus-values.
