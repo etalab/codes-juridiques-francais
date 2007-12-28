@@ -14,10 +14,10 @@ Les produits agricoles, forestiers ou alimentaires et les produits de la mer peu
 
 - la dénomination "montagne" ;
 
-- le qualificatif "fermier" ou la mention "produits de la ferme" ou "produit à la ferme" ;
+- le qualificatif "fermier" ou la mention "produit de la ferme" ou "produit à la ferme" ;
 
 - les termes "produits pays" dans les départements d'outre-mer ;
 
-- la dénomination "vins de pays", suivie d'une zone de production ou d'un département ;
+- la dénomination "vin de pays", suivie d'une zone de production ou d'un département ;
 
 3° La démarche de certification des produits.
