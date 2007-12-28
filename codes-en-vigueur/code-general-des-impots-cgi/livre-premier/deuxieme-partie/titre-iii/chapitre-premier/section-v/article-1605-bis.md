@@ -8,7 +8,7 @@ Pour l'application du 1° du II de l'article 1605 :
 
 3° Les personnes exonérées de la redevance audiovisuelle au 31 décembre 2004 en application des A et B du IV de l'article 37 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003), autres que celles visées au 2° du présent article, bénéficient d'un dégrèvement de la redevance audiovisuelle au titre de l'année 2005.
 
-Pour les années 2006 et 2007, le bénéfice de ce dégrèvement est maintenu pour ces redevables lorsque :
+Le bénéfice de ce dégrèvement est maintenu à partir de 2006 s'agissant des redevables visés au B du IV de l'article 37 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003) et pour les seules années 2006 et 2007 s'agissant des redevables visés au A du même IV, lorsque :
 
 a. La condition de non-imposition à l'impôt sur le revenu est satisfaite pour les revenus perçus au titre de l'année précédant celle au cours de laquelle la redevance audiovisuelle est due ;
 
@@ -26,9 +26,9 @@ L'avis d'imposition de la redevance audiovisuelle est émis avec celui de la tax
 
 a. Lorsque la ou les personnes au nom desquelles la taxe d'habitation est établie cohabitent avec des personnes qui ne font pas partie de leur foyer fiscal, la redevance audiovisuelle est due, pour le ou les appareils récepteurs de télévision ou dispositifs assimilés détenus dans l'habitation, par les personnes redevables de la taxe d'habitation ;
 
-b.  Lorsque la taxe d'habitation est établie au nom de plusieurs personnes appartenant à des foyers fiscaux différents, la redevance audiovisuelle est due, pour le ou les appareils récepteurs de télévision ou dispositifs assimilés détenus, par l'une ou l'autre de ces personnes ;
+b. Lorsque la taxe d'habitation est établie au nom de plusieurs personnes appartenant à des foyers fiscaux différents, la redevance audiovisuelle est due, pour le ou les appareils récepteurs de télévision ou dispositifs assimilés détenus, par l'une ou l'autre de ces personnes ;
 
-c. Lorsque l'appareil récepteur de télévision ou dispositif assimilé est détenu dans un local meublé affecté à l'habitation, occupé à titre d'habitation autre que principale et imposé à la taxe d'habitation au nom de plusieurs personnes qui appartiennent à des foyers fiscaux différents et qui ne détiennent pas d'appareil dans leur habitation principale, ces personnes doivent désigner celle d'entre elles qui sera redevable de la redevance audiovisuelle. A défaut, la redevance audiovisuelle est due par les personnes dont le nom est porté sur l'avis d'imposition de taxe d'habitation afférent à ce local ;
+c. Lorsque l'appareil récepteur de télévision ou dispositif assimilé est détenu dans un local meublé affecté à l'habitation, occupé à titre d'habitation autre que principale et imposé à la taxe d'habitation au nom de plusieurs personnes qui appartiennent à des foyers fiscaux différents et qui ne détiennent pas d'appareil dans leur habitation principale, ces personnes doivent désigner celle d'entre elles qui sera redevable de la redevance audiovisuelle.A défaut, la redevance audiovisuelle est due par les personnes dont le nom est porté sur l'avis d'imposition de taxe d'habitation afférent à ce local ;
 
 6° a. Lorsqu'une redevance audiovisuelle était due en 2004, elle est acquittée, sous réserve de l'article 1681 ter B, annuellement et d'avance, en une seule fois et pour une période de douze mois. Cette période est décomptée à partir de la date anniversaire du premier jour de la période au titre de laquelle elle était due en 2004 ;
 

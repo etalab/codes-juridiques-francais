@@ -14,11 +14,11 @@ Pour les exercices clos avant le 31 décembre 1987, l'indemnité de congé payé
 
 Un décret fixe les modalités d'application de ces dispositions.
 
-1° ter Pour les emprunts contractés à compter du 1er janvier 1993, la fraction, courue au cours de l'exercice, de la rémunération égale à la différence entre les sommes ou valeurs à verser, autres que les intérêts, et celles reçues à l'émission, lorsque cette rémunération excède 10 p. 100 des sommes initialement mises à la disposition de l'emprunteur.
+1° ter Pour les emprunts contractés à compter du 1er janvier 1993, la fraction, courue au cours de l'exercice, de la rémunération égale à la différence entre les sommes ou valeurs à verser, autres que les intérêts, et celles reçues à l'émission, lorsque cette rémunération excède 10 % des sommes initialement mises à la disposition de l'emprunteur.
 
 Cette fraction courue est déterminée de manière actuarielle, selon la méthode des intérêts composés.
 
-Pour les emprunts dont le montant à rembourser est indexé, ces dispositions s'appliquent à la fraction de la rémunération qui est certaine dans son principe et son montant dès l'origine, si cette fraction excède 10 p. 100 des sommes initialement mises à la disposition de l'emprunteur. Elles ne sont pas applicables aux emprunts convertibles et à ceux dont le remboursement est à la seule initiative de l'emprunteur.
+Pour les emprunts dont le montant à rembourser est indexé, ces dispositions s'appliquent à la fraction de la rémunération qui est certaine dans son principe et son montant dès l'origine, si cette fraction excède 10 % des sommes initialement mises à la disposition de l'emprunteur. Elles ne sont pas applicables aux emprunts convertibles et à ceux dont le remboursement est à la seule initiative de l'emprunteur.
 
 1° quater Sur option irrévocable et globale de l'émetteur pour une période de deux ans, les frais d'émission des emprunts répartis par fractions égales ou au prorata de la rémunération courue, sur la durée des emprunts émis pendant cette période.
 
@@ -30,7 +30,7 @@ Un décret fixe les conditions d'application de ces dispositions, notamment en c
 
 2° Sauf s'ils sont pratiqués par une copropriété de navires, une copropriété de cheval de course ou d'étalon, les amortissements réellement effectués par l'entreprise, dans la limite de ceux qui sont généralement admis d'après les usages de chaque nature d'industrie, de commerce ou d'exploitation et compte tenu des dispositions de l'article 39 A, sous réserve des dispositions de l'article 39 B.
 
-Les décrets en Conseil d'Etat prévus à l'article 273 fixent les conséquences des déductions prévues à l'article 271 sur la comptabilisation et l'amortissement des biens;
+Les décrets en Conseil d'Etat prévus à l'article 273 fixent les conséquences des déductions prévues à l'article 271 sur la comptabilisation et l'amortissement des biens ;
 
 3° Les intérêts servis aux associés à raison des sommes qu'ils laissent ou mettent à la disposition de la société, en sus de leur part du capital, quelle que soit la forme de la société, dans la limite de ceux calculés à un taux égal à la moyenne annuelle des taux effectifs moyens pratiqués par les établissements de crédit pour des prêts à taux variable aux entreprises, d'une durée initiale supérieure à deux ans.
 
@@ -52,7 +52,7 @@ Si des dégrèvements sont ultérieurement accordés sur ces impôts, leur monta
 
 Par exception aux dispositions des deux premiers alinéas, lorsque, en application des dispositions du sixième alinéa de l'article 1679 quinquies, un redevable réduit le montant du solde de taxe professionnelle du montant du dégrèvement attendu du plafonnement de la taxe professionnelle due au titre de la même année, le montant de la cotisation de taxe professionnelle déductible du bénéfice net est réduit dans les mêmes proportions. Corrélativement, le montant du dégrèvement ainsi déduit ne constitue pas un produit imposable, lorsqu'il est accordé ultérieurement.
 
-4° bis - Le prélèvement opéré au titre de l'article 4 modifié de la loi n° 51-675 du 24 mai 1951, relative à la construction navale, et faisant l'objet d'un ordre de versement émis au cours de l'exercice ;
+4° bis-Le prélèvement opéré au titre de l'article 4 modifié de la loi n° 51-675 du 24 mai 1951, relative à la construction navale, et faisant l'objet d'un ordre de versement émis au cours de l'exercice ;
 
 4° ter (Abrogé) ;
 
@@ -96,7 +96,7 @@ Toutefois, pour les exercices ouverts à partir du 1er janvier 1974, les titres 
 
 Les provisions pour dépréciation, en ce qui concerne les titres et actions susvisés, précédemment comptabilisées seront rapportées aux résultats des exercices ultérieurs à concurrence du montant des provisions de même nature constituées à la clôture de chacun de ces exercices ou, le cas échéant, aux résultats de l'exercice de cession.
 
-Toutefois, les dotations aux provisions pour dépréciation comptabilisées au titre de l'exercice sur l'ensemble des titres de participation définis au dix-huitième alinéa ne sont pas déductibles à hauteur du montant des plus-values latentes existant à la clôture du même exercice sur les titres appartenant à cet ensemble. Pour l'application des dispositions de la phrase précédente, les plus-values latentes, qui s'entendent de la différence existant entre la valeur réelle de ces titres à la clôture de l'exercice et leur prix de revient corrigé des plus ou moins-values en sursis d'imposition sur ces mêmes titres, sont minorées du montant des provisions non admises en déduction au titre des exercices précédents en application de la même phrase et non encore rapportées au résultat à la clôture de l'exercice. Le montant des dotations ainsi non admis en déduction est affecté à chaque titre de participation provisionné à proportion des dotations de l'exercice comptabilisées sur ce titre.
+Toutefois, les dotations aux provisions pour dépréciation comptabilisées au titre de l'exercice sur l'ensemble des titres de participation définis au dix-huitième alinéa ne sont pas déductibles à hauteur du montant des plus-values latentes existant à la clôture du même exercice sur les titres appartenant à cet ensemble. Pour l'application des dispositions de la phrase précédente, les plus-values latentes, qui s'entendent de la différence existant entre la valeur réelle de ces titres à la clôture de l'exercice et leur prix de revient corrigé des plus ou moins-values en sursis d'imposition sur ces mêmes titres, sont minorées du montant des provisions non admises en déduction au titre des exercices précédents en application de la même phrase et non encore rapportées au résultat à la clôture de l'exercice. Le montant des dotations ainsi non admis en déduction est affecté à chaque titre de participation provisionné à proportion des dotations de l'exercice comptabilisées sur ce titre. Le présent alinéa s'applique aux seuls titres de sociétés à prépondérance immobilière définies au a sexies-0 bis du I de l'article 219 pour la détermination des résultats des exercices ouverts à compter du 1er janvier 2007.
 
 Les dotations aux provisions non admises en déduction au titre d'un exercice et affectées à un titre de participation en application de l'alinéa précédent viennent minorer le montant des provisions pour dépréciation sur ce titre rapporté au résultat des exercices ultérieurs.
 
@@ -136,7 +136,10 @@ Le montant total des dotations aux provisions non admises en déduction au titre
 
 8° Les abandons de créances à caractère commercial consentis ou supportés dans le cadre d'un plan de sauvegarde ou de redressement.
 
-2. Les transactions, amendes, confiscations, pénalités de toute nature mises à la charge des contrevenants aux dispositions légales régissant la liberté des prix et de la concurrence, le ravitaillement, la répartition des divers produits, l'assiette et le recouvrement des impôts, contributions et taxes, le versement libératoire et la pénalité de retard afférente prévus au IV de l'article 14 de la loi n° 2005-781 du 13 juillet 2005 de programme fixant les orientations de la politique énergétique, ne sont pas admis en déduction des bénéfices soumis à l'impôt.
+2. Les sanctions pécuniaires et pénalités de toute nature mises à la charge des contrevenants à des obligations légales ne sont pas admises en déduction des bénéfices soumis à l'impôt.
+
+Il en est de même du versement libératoire prévu au IV de l'article 14 de la loi n° 2005-781 du 13 juillet 2005
+de programme fixant les orientations de la politique énergétique.
 
 2 bis. A compter de l'entrée en vigueur sur le territoire de la République de la convention sur la lutte contre la corruption d'agents publics étrangers dans les transactions commerciales internationales, les sommes versées ou les avantages octroyés, directement ou par des intermédiaires, au profit d'un agent public au sens du 4 de l'article 1er de ladite convention ou d'un tiers pour que cet agent agisse ou s'abstienne d'agir dans l'exécution de fonctions officielles, en vue d'obtenir ou conserver un marché ou un autre avantage indu dans des transactions commerciales internationales, ne sont pas admis en déduction des bénéfices soumis à l'impôt.
 
@@ -218,8 +221,8 @@ Lorsque le contrat de crédit-bail est cédé, les quotes-parts de loyers non d�
 
 Des liens de dépendance sont réputés exister entre deux entreprises :
 
-a - lorsque l'une détient directement ou par personne interposée la majorité du capital social de l'autre ou y exerce en fait le pouvoir de décision ;
+a-lorsque l'une détient directement ou par personne interposée la majorité du capital social de l'autre ou y exerce en fait le pouvoir de décision ;
 
-b - lorsqu'elles sont placées l'une et l'autre, dans les conditions définies au a, sous le contrôle d'une même tierce entreprise.
+b-lorsqu'elles sont placées l'une et l'autre, dans les conditions définies au a, sous le contrôle d'une même tierce entreprise.
 
 Les modalités d'application du présent 12 sont fixées par décret en Conseil d'Etat.

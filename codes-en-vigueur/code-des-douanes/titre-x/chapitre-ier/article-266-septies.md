@@ -14,6 +14,8 @@ Le fait générateur de la taxe mentionnée à l'article 266 sexies est constitu
 
 b. L'utilisation des huiles et préparations lubrifiantes mentionnées au b du 4 du I de l'article 266 sexies ;
 
+c. L'utilisation des huiles et préparations lubrifiantes mentionnées au c du 4 du I de l'article 266 sexies.
+
 5. La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ;
 
 6. a) La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des matériaux d'extraction de toutes origines mentionnés au a du 6 du I de l'article 266 sexies ;

@@ -11,3 +11,5 @@ La dotation de péréquation des régions métropolitaines est répartie :
 1° Pour moitié, proportionnellement à l'écart relatif entre 85 % du potentiel fiscal par habitant de l'ensemble des régions et le potentiel fiscal par habitant de chaque région, pondéré par son effort fiscal et sa population ;
 
 2° Pour moitié, proportionnellement au rapport entre le potentiel fiscal moyen par kilomètre carré de l'ensemble des régions et le potentiel fiscal par kilomètre carré de chaque région bénéficiaire.
+
+Lorsqu'une région cesse de remplir les conditions requises pour bénéficier de la dotation de péréquation, cette région perçoit, à titre de garantie non renouvelable, une attribution égale à la moitié de celle qu'elle a perçue l'année précédente. Les sommes nécessaires à cette garantie sont prélevées sur les crédits affectés à la dotation de péréquation.

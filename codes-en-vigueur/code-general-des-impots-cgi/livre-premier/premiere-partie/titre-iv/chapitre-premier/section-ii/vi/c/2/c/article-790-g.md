@@ -15,3 +15,5 @@ II. - Cette exonération se cumule avec les abattements prévus aux I, II et V d
 III. - Il n'est pas tenu compte des dons de sommes d'argent mentionnés au I pour l'application de l'article 784.
 
 IV. - Sous réserve de l'application du 1° du 1 de l'article 635 et du 1 de l'article 650, les dons de sommes d'argent mentionnés au I doivent être déclarés ou enregistrés par le donataire au service des impôts du lieu de son domicile dans le délai d'un mois qui suit la date du don. L'obligation déclarative est accomplie par la souscription, en double exemplaire, d'un formulaire conforme au modèle établi par l'administration.
+
+V. - Le montant mentionné au I est actualisé, le 1er janvier de chaque année, dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu et arrondi à l'euro le plus proche (1).

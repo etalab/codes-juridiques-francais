@@ -19,3 +19,7 @@ En 2002, le montant des crédits affectés à la dotation de solidarité rurale 
 A compter de 2004, la variation annuelle du solde de la dotation d'aménagement est répartie par le comité des finances locales entre la dotation nationale de péréquation, la dotation de solidarité urbaine et de cohésion sociale et la dotation de solidarité rurale, ainsi qu'entre les différentes parts ou fractions de ces dotations, quand elles existent.
 
 La seconde fraction de la dotation de solidarité rurale prévue à l'article L. 2334-22 est diminuée, en 2006, d'un montant de 10,5 millions d'euros. En 2007, l'augmentation du solde de la dotation d'aménagement répartie par le comité des finances locales en application de l'avant-dernier alinéa du présent article est calculée à partir du solde de la dotation d'aménagement effectivement réparti, compte tenu de cette minoration de 10,5 millions d'euros.
+
+A compter de 2008, le montant des crédits affectés à la dotation de solidarité urbaine et de cohésion sociale est majoré de 68 574 738 euros.
+
+A compter de 2008, le montant des crédits affectés à la dotation de solidarité rurale est majoré de 68 574 738 euros.

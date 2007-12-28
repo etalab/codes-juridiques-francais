@@ -6,11 +6,11 @@ Toutefois, en ce qui concerne les entreprises et exploitations situées hors de 
 
 2. Le revenu net foncier est déterminé conformément aux disposition des articles 14 à 33 quinquies.
 
-3. 1° Les revenus de capitaux mobiliers comprennent tous les revenus visés au VII de la 1ère sous-section de la présente section, à l'exception des revenus expressément affranchis de l'impôt en vertu de l'article 157 et des revenus ayant supporté le prélèvement visé à l'article 125 A.
+3. 1° Les revenus de capitaux mobiliers comprennent tous les revenus visés au VII de la 1ère sous-section de la présente section, à l'exception des revenus expressément affranchis de l'impôt en vertu de l'article 157 et des revenus ayant supporté les prélèvements visés aux articles 117 quater et 125 A.
 
 Lorsqu'ils sont payables en espèces les revenus visés au premier alinéa sont soumis à l'impôt sur le revenu au titre de l'année soit de leur paiement en espèces ou par chèques, soit de leur inscription au crédit d'un compte.
 
-2° Les revenus mentionnés au 1° distribués par les sociétés passibles de l'impôt sur les sociétés ou d'un impôt équivalent ou soumises sur option à cet impôt, ayant leur siège dans un Etat de la Communauté européenne ou dans un Etat ou territoire ayant conclu avec la France une convention fiscale en vue d'éviter les doubles impositions en matière d'impôt sur les revenus et résultant d'une décision régulière des organes compétents, sont retenus, pour le calcul de l'impôt sur le revenu, pour 60 % de leur montant. A compter du 1er janvier 2009 pour les sociétés étrangères n'ayant pas leur siège dans un Etat de la Communauté européenne, cette disposition est réservée aux revenus distribués par des sociétés établies dans un Etat ou territoire ayant conclu une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale ;
+2° Les revenus mentionnés au 1° distribués par les sociétés passibles de l'impôt sur les sociétés ou d'un impôt équivalent ou soumises sur option à cet impôt, ayant leur siège dans un Etat de la Communauté européenne ou dans un Etat ou territoire ayant conclu avec la France une convention fiscale en vue d'éviter les doubles impositions en matière d'impôt sur les revenus et résultant d'une décision régulière des organes compétents, sont réduits, pour le calcul de l'impôt sur le revenu, d'un abattement égal à 40 % de leur montant brut perçu.A compter du 1er janvier 2009 pour les sociétés étrangères n'ayant pas leur siège dans un Etat de la Communauté européenne, cette disposition est réservée aux revenus distribués par des sociétés établies dans un Etat ou territoire ayant conclu une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale ;
 
 3° Les dispositions du 2° ne s'appliquent pas :
 
@@ -24,13 +24,15 @@ d. Aux revenus distribués mentionnés au a de l'article 111 ;
 
 e. Aux bénéfices ou revenus mentionnés à l'article 123 bis ;
 
+f. lorsque, au cours de la même année, le contribuable a perçu des revenus sur lesquels a été opéré le prélèvement prévu à l'article 117 quater.
+
 4° Les dispositions du 2° sont également applicables pour la part des revenus de la nature et de l'origine de ceux mentionnés au 2°, sous réserve du 3°, prélevés sur des bénéfices n'ayant pas supporté l'impôt sur les sociétés ou un impôt équivalent, distribués ou répartis par :
 
 a. Les organismes de placement collectif en valeurs mobilières régis par les articles L. 214-2 et suivants du code monétaire et financier ;
 
-b. Les organismes de placement collectif en valeurs mobilières établis dans d'autres Etats membres de la Communauté européenne, ou dans un Etat non membre de cette Communauté partie à l'accord sur l'Espace économique européen ayant conclu une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, qui bénéficient de la procédure de reconnaissance mutuelle des agréments prévue par la directive 85/611/CE du Conseil du 20 décembre 1985 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) ;
+b. Les organismes de placement collectif en valeurs mobilières établis dans d'autres Etats membres de la Communauté européenne, ou dans un Etat non membre de cette Communauté partie à l'accord sur l'Espace économique européen ayant conclu une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, qui bénéficient de la procédure de reconnaissance mutuelle des agréments prévue par la directive 85 / 611 / CE du Conseil du 20 décembre 1985 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) ;
 
-c. Les sociétés mentionnées aux 1° bis, 1° ter et 3° septies de l'article 208.
+c. Les sociétés mentionnées aux 1° bis,1° ter et 3° septies de l'article 208.
 
 d. Les fonds de placement immobilier mentionnés à l'article 239 nonies.
 
@@ -40,7 +42,7 @@ L'application de ces dispositions est conditionnée à la ventilation par les or
 
 5° Il est opéré un abattement annuel de 1 525 Euros pour les contribuables célibataires, divorcés ou veufs et de 3 050 Euros pour les contribuables mariés soumis à une imposition commune sur le montant net des revenus déterminé dans les conditions du 2° et après déduction des dépenses effectuées en vue de leur acquisition ou conservation.
 
-4. Les bénéfices des professions industrielles, commerciales, artisanales et ceux de l'exploitation minière sont déterminés conformément aux dispositions des articles 34 à 61 A, 237 ter A, et 302 septies A bis ; les rémunérations mentionnées à l'article 62 sont déterminées conformément aux dispositions de cet article ; les bénéfices de l'exploitation agricole sont déterminées conformément aux dispositions des articles 63 à 78 et des articles L1 à L4 du livre des procédures fiscales ; les bénéfices tirés de l'exercice d'une profession non commerciale sont déterminés conformément aux dispositions des articles 92 à 103. Toutefois, les plus-values à long terme définies aux articles 39 duodecies et au 1 de l'article 39 terdecies sont distraites des bénéfices en vue d'être distinctement taxées à l'impôt sur le revenu dans les conditions prévues au 2 de l'article 39 terdecies et aux articles 39 quindecies et 93 quater.
+4. Les bénéfices des professions industrielles, commerciales, artisanales et ceux de l'exploitation minière sont déterminés conformément aux dispositions des articles 34 à 61 A,237 ter A, et 302 septies A bis ; les rémunérations mentionnées à l'article 62 sont déterminées conformément aux dispositions de cet article ; les bénéfices de l'exploitation agricole sont déterminées conformément aux dispositions des articles 63 à 78 et des articles L1 à L4 du livre des procédures fiscales ; les bénéfices tirés de l'exercice d'une profession non commerciale sont déterminés conformément aux dispositions des articles 92 à 103. Toutefois, les plus-values à long terme définies aux articles 39 duodecies et au 1 de l'article 39 terdecies sont distraites des bénéfices en vue d'être distinctement taxées à l'impôt sur le revenu dans les conditions prévues au 2 de l'article 39 terdecies et aux articles 39 quindecies et 93 quater.
 
 Dans le cas des entreprises industrielles, commerciales, artisanales ou agricoles qui sont soumises à l'impôt d'après leur bénéfice réel et dont les résultats d'ensemble comprennent des revenus relevant de plusieurs catégories ou provenant d'exploitations situées hors de France, il est fait état de ces résultats d'ensemble sans qu'il y ait lieu de les décomposer entre leurs divers éléments dans la déclaration prévue à l'article 170.
 
@@ -76,13 +78,13 @@ Les dispositions des deux alinéas précédents sont également applicables pour
 
 6. Les rentes viagères constituées à titre onéreux ne sont considérées comme un revenu, pour l'application de l'impôt sur le revenu dû par le crédirentier, que pour une fraction de leur montant. Cette fraction, déterminée d'après l'âge du crédirentier lors de l'entrée en jouissance de la rente, est fixée à :
 
-- à 70 % si l'intéressé est âgé de moins de 50 ans ;
+-à 70 % si l'intéressé est âgé de moins de 50 ans ;
 
-- à 50 % s'il est âgé de 50 à 59 ans inclus ;
+-à 50 % s'il est âgé de 50 à 59 ans inclus ;
 
-- à 40 % s'il est âgé de 60 à 69 ans inclus ;
+-à 40 % s'il est âgé de 60 à 69 ans inclus ;
 
-- à 30 % s'il est âgé de plus de 69 ans.
+-à 30 % s'il est âgé de plus de 69 ans.
 
 La fraction de rentes viagères définie ci-dessus est imposée dans les mêmes conditions que les revenus énumérés à l'article 124.
 

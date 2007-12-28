@@ -3,6 +3,7 @@
 - [I : Bénéfices et revenus imposables](i)
 - [I bis : Réévaluation des immobilisations non amortissables](i-bis)
 - [I ter : Réévaluation des immobilisations amortissables](i-ter)
+- [01 quater : Réévaluation des immeubles et titres de sociétés à prépondérance immobilière](01-quater)
 - [I quinquies : Régime fiscal des sociétés créées de fait](i-quinquies)
 - [I sexies : Obligation des sociétés en participation](i-sexies)
 - [II : Régime fiscal des groupements forestiers et de leurs membres](ii)

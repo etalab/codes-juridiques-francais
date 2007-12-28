@@ -7,4 +7,3 @@
 - [Article L2334-18-1](article-l2334-18-1.md)
 - [Article L2334-18-2](article-l2334-18-2.md)
 - [Article L2334-18-3](article-l2334-18-3.md)
-- [Article L2334-19](article-l2334-19.md)

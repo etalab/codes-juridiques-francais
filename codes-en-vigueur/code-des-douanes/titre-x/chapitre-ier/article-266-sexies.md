@@ -12,6 +12,8 @@ I. - Il est institué une taxe générale sur les activités polluantes qui est 
 
 b. Tout utilisateur d'huiles et préparations lubrifiantes, autres que celles visées au a produisant des huiles usagées dont le rejet dans le milieu naturel est interdit ;
 
+c) Tout utilisateur d'huiles et préparations lubrifiantes à usage perdu, autres que celles visées aux a et b, correspondantes aux catégories suivantes (Europalub / CPL) : huiles pour moteur deux-temps (1C / D. dt), graisses utilisées en systèmes ouverts (3A1 / J1 et 3A2 / J2), huiles pour scies à chaînes (6B / B2), huiles de démoulage / décoffrage (6 C / K. 4a).
+
 5. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants pour le linge relevant respectivement des rubriques 34022090, 34029090 et 38091010 à 38099100 du tarif douanier ;
 
 6. a) Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des matériaux d'extraction de toutes origines se présentant naturellement sous la forme de grains, ou obtenus à partir de roches concassées ou fractionnées, dont la plus grande dimension est inférieure ou égale à 125 millimètres et dont les caractéristiques et usages sont fixés par décret ;
@@ -42,6 +44,8 @@ II. - La taxe ne s'applique pas :
 
 4. Aux lubrifiants, aux préparations pour lessives, y compris les préparations auxiliaires de lavage, aux produits adoucissants ou assouplissants pour le linge, aux matériaux d'extraction, aux produits antiparasitaires à usage agricole et aux produits assimilés mentionnés respectivement au a du 4 et aux 5, 6 et 7 du I du présent article lorsque la première livraison après fabrication nationale consiste en une expédition directe à destination d'un Etat membre de la Communauté européenne ou en une exportation ;
 
-5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers.
+5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers ;
+
+6. Aux lubrifiants biodégradables, non écotoxiques et d'origine renouvelable respectant les critères définis pour le label écologique communautaire des lubrifiants dans la décision n° 2005 / 360 / CE de la Commission européenne du 26 avril 2005 établissant les critères écologiques et les exigences associées en matière d'évaluation et de vérification pour l'attribution du label écologique communautaire aux lubrifiants.
 
 III. - Sont exonérées de la taxe mentionnée au I, dans la limite de 20 % de la quantité annuelle totale de déchets reçus par installation, les réceptions de matériaux ou déchets inertes. Sont considérés comme déchets inertes les déchets qui ne se décomposent pas, ne brûlent pas et ne produisent aucune autre réaction physique ou chimique, ne sont pas biodégradables et ne détériorent pas d'autres matières avec lesquelles ils entrent en contact, d'une manière susceptible d'entraîner une pollution de l'environnement ou de nuire à la santé humaine.

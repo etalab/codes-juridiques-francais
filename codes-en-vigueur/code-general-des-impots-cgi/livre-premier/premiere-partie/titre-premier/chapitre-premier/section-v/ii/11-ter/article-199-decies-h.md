@@ -1,14 +1,14 @@
 # Article 199 decies H
 
-1. A compter de l'imposition des revenus de 2001, il est institué une réduction d'impôt sur le revenu pour les contribuables domiciliés en France au sens de l'article 4 B qui, jusqu'au 31 décembre 2010, réalisent des investissements forestiers.
+1.A compter de l'imposition des revenus de 2001, il est institué une réduction d'impôt sur le revenu pour les contribuables domiciliés en France au sens de l'article 4 B qui, jusqu'au 31 décembre 2010, réalisent des investissements forestiers.
 
 2. La réduction d'impôt s'applique :
 
 a) Au prix d'acquisition de terrains en nature de bois et forêts ou de terrains nus à boiser lorsque cette acquisition, qui ne doit pas excéder 25 hectares, permet soit :
 
-1° de constituer une unité de gestion d'au moins 10 hectares d'un seul tenant ou, dans les massifs de montagne définis à l'article 5 de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la montagne, une unité de gestion d'au moins 10 hectares situés sur le territoire d'une même commune ou de communes limitrophes susceptible d'une gestion coordonnée ;
+1° de constituer une unité de gestion d'au moins 5 hectares d'un seul tenant ou, dans les massifs de montagne définis à l'article 5 de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la montagne, une unité de gestion d'au moins 5 hectares situés sur le territoire d'une même commune ou de communes limitrophes susceptible d'une gestion coordonnée ;
 
-2° d'agrandir une unité de gestion pour porter sa superficie à plus de 10 hectares ;
+2° d'agrandir une unité de gestion pour porter sa superficie à plus de 5 hectares ;
 
 3° de résorber une enclave.
 
@@ -20,7 +20,7 @@ c) Aux souscriptions en numéraire au capital initial ou aux augmentations de ca
 
 d) Aux dépenses de travaux forestiers effectués dans une propriété lorsqu'elle constitue une unité de gestion d'au moins 10 hectares d'un seul tenant et qu'elle est gérée en application d'un plan simple de gestion ou d'un règlement type de gestion agréé ou approuvé par le centre régional de la propriété forestière. Le contribuable doit prendre l'engagement de conserver cette propriété jusqu'au 31 décembre de la quinzième année suivant celle des travaux et d'appliquer, pendant la même durée, un plan simple de gestion ou un règlement type de gestion agréé ou approuvé par le centre régional de la propriété forestière ;
 
-e) Aux dépenses de travaux forestiers payées par un groupement forestier dont le contribuable est membre, lorsque la propriété du groupement forestier sur laquelle sont réalisés les travaux constitue une unité de gestion d'au moins 10 hectares d'un seul tenant, gérée en application d'un plan simple de gestion ou d'un règlement type de gestion agréé ou approuvé par le centre régional de la propriété forestière. L'associé doit prendre l'engagement de conserver les parts du groupement jusqu'au 31 décembre de la huitième année suivant celle des travaux et celui-ci, l'engagement d'appliquer pendant quinze ans un plan simple de gestion ou un règlement type de gestion agréé ou approuvé par le centre régional de la propriété forestière et de conserver, pendant la même durée, les parcelles qui ont fait l'objet des travaux ouvrant droit à réduction d'impôt.
+e) Aux dépenses de travaux forestiers payées par un groupement forestier dont le contribuable est membre, lorsque la propriété du groupement forestier sur laquelle sont réalisés les travaux constitue une unité de gestion d'au moins 10 hectares d'un seul tenant, gérée en application d'un plan simple de gestion ou d'un règlement type de gestion agréé ou approuvé par le centre régional de la propriété forestière.L'associé doit prendre l'engagement de conserver les parts du groupement jusqu'au 31 décembre de la huitième année suivant celle des travaux et celui-ci, l'engagement d'appliquer pendant quinze ans un plan simple de gestion ou un règlement type de gestion agréé ou approuvé par le centre régional de la propriété forestière et de conserver, pendant la même durée, les parcelles qui ont fait l'objet des travaux ouvrant droit à réduction d'impôt.
 
 3. La réduction d'impôt est calculée sur la base :
 

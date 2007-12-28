@@ -6,6 +6,16 @@ Les règles relatives à l'allocation aux adultes handicapés sont fixées par l
 
 Les personnes de nationalité étrangère, hors les ressortissants des Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen, ne peuvent bénéficier de l'allocation aux adultes handicapés que si elles sont en situation régulière au regard de la législation sur le séjour ou si elles sont titulaires d'un récépissé de demande de renouvellement de titre de séjour. Un décret fixe la liste des titres ou documents attestant la régularité de leur situation.
 
+L'allocation mentionnée au premier alinéa bénéficie aux ressortissants des Etats membres de la Communauté européenne et des autres Etats parties à l'accord sur l'Espace économique européen qui en font la demande et qui résident en France depuis plus de trois mois, dans les conditions prévues aux articles L. 121-1 et L. 121-2 du code de l'entrée et du séjour des étrangers et du droit d'asile. Cette condition de séjour de trois mois n'est toutefois pas opposable :
+
+-aux personnes qui exercent une activité professionnelle déclarée conformément à la législation en vigueur ;
+
+-aux personnes qui ont exercé une telle activité en France et soit sont en incapacité permanente de travailler pour raisons médicales, soit suivent une formation professionnelle au sens des articles L. 900-2 et L. 900-3 du code du travail, soit sont inscrites sur la liste visée à l'article L. 311-5 du même code ;
+
+-aux ascendants, descendants et conjoints des personnes mentionnées aux deux alinéas précédents.
+
+Les ressortissants des Etats membres de la Communauté européenne et des autres Etats parties à l'accord sur l'Espace économique européen entrés en France pour y chercher un emploi et qui s'y maintiennent à ce titre ne peuvent bénéficier de l'allocation aux adultes handicapés.
+
 Le droit à l'allocation aux adultes handicapés est ouvert lorsque la personne ne peut prétendre, au titre d'un régime de sécurité sociale, d'un régime de pension de retraite ou d'une législation particulière, à un avantage de vieillesse ou d'invalidité, à l'exclusion de la majoration pour aide constante d'une tierce personne visée à l'article L. 355-1, ou à une rente d'accident du travail, à l'exclusion de la majoration pour aide d'une tierce personne mentionnée à l'article L. 434-2, d'un montant au moins égal à cette allocation.
 
 Lorsque cet avantage est d'un montant inférieur à celui de l'allocation aux adultes handicapés, celle-ci s'ajoute à la prestation sans que le total des deux avantages puisse excéder le montant de l'allocation aux adultes handicapés.
@@ -30,7 +40,7 @@ Le complément de ressources est versé aux bénéficiaires de l'allocation aux 
 
 Le complément de ressources est également versé aux bénéficiaires de l'allocation supplémentaire du fonds spécial d'invalidité mentionnée à l'article L. 815-24 dont l'incapacité permanente est au moins égale au pourcentage fixé par le décret mentionné au premier alinéa de l'article L. 821-1 et qui satisfont aux conditions prévues aux troisième, quatrième et cinquième alinéas du présent article.
 
-Le versement du complément de ressources pour les personnes handicapées prend fin à l'âge auquel le bénéficiaire est réputé inapte au travail dans les conditions prévues au cinquième alinéa de l'article L. 821-1. Il prend fin pour les bénéficiaires de l'allocation supplémentaire du fonds spécial d'invalidité mentionnée à l'article L. 815-24 à l'âge minimum auquel s'ouvre le droit à pension de vieillesse.
+Le versement du complément de ressources pour les personnes handicapées prend fin à l'âge auquel le bénéficiaire est réputé inapte au travail dans les conditions prévues au dixième alinéa de l'article L. 821-1. Il prend fin pour les bénéficiaires de l'allocation supplémentaire du fonds spécial d'invalidité mentionnée à l'article L. 815-24 à l'âge minimum auquel s'ouvre le droit à pension de vieillesse.
 
 Toute reprise d'activité professionnelle entraîne la fin du versement du complément de ressources.
 
@@ -42,9 +52,7 @@ Les dispositions de l'article L. 821-5 sont applicables au complément de ressou
 
 1° Son incapacité permanente, sans atteindre le pourcentage fixé par le décret prévu au premier alinéa de l'article L. 821-1, est supérieure ou égale à un pourcentage fixé par décret ;
 
-2° Elle n'a pas occupé d'emploi depuis une durée fixée par décret ;
-
-3° La commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles lui reconnaît, compte tenu de son handicap, une restriction substantielle et durable pour l'accès à l'emploi, précisée par décret.
+2° La commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles lui reconnaît, compte tenu de son handicap, une restriction substantielle et durable pour l'accès à l'emploi, précisée par décret.
 
 Le versement de l'allocation aux adultes handicapés au titre du présent article prend fin à l'âge auquel le bénéficiaire est réputé inapte au travail dans les conditions prévues au cinquième alinéa de l'article L. 821-1. "
 
@@ -61,8 +69,6 @@ Le complément de ressources mentionné à l'article L. 821-1-1 est accordé, po
 L'action de l'allocataire pour le paiement de l'allocation se prescrit par deux ans.
 
 Cette prescription est également applicable à l'action intentée par un organisme payeur en recouvrement d'allocations indûment payées, sauf en cas de fraude ou de fausse déclaration.
-
-La tutelle aux prestations sociales, prévue au chapitre 7 du titre VI du livre I, s'applique à l'allocation aux adultes handicapés.
 
 Les dispositions des articles L. 114-13, L. 377-2 et L. 377-4 sont applicables à l'allocation aux adultes handicapés.
 

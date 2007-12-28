@@ -6,4 +6,6 @@ Ces bénéfices comprennent notamment ceux qui proviennent de la production fore
 
 Ils comprennent également les produits de l'exploitation de champignonnières en galeries souterraines et ceux des exploitations apicoles, avicoles, piscicoles, ostréicoles et mytilicoles ainsi que les profits réalisés par les obtenteurs de nouvelles variétés végétales au sens des (articles L623-1 à L623-35 du code de la propriété intellectuelle).
 
-Sont aussi considérés comme bénéfices de l'exploitation agricole les revenus qui proviennent des activités de préparation et d'entraînement des équidés domestiques, en vue de leur exploitation dans les activités autres que celles du spectacle (1).
+Sont aussi considérés comme bénéfices de l'exploitation agricole les revenus qui proviennent des activités de préparation et d'entraînement des équidés domestiques, en vue de leur exploitation dans les activités autres que celles du spectacle.
+
+Sont considérés comme bénéfices de l'exploitation agricole les revenus provenant de la vente de biomasse sèche ou humide, majoritairement issue de produits ou sous-produits de l'exploitation. Il en est de même des revenus provenant de la production d'énergie à partir de produits ou sous-produits majoritairement issus de l'exploitation agricole.

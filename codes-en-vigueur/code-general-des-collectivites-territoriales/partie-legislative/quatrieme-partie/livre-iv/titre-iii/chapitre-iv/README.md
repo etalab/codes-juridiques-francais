@@ -6,6 +6,5 @@
 - [Article L4434-4](article-l4434-4.md)
 - [Article L4434-5](article-l4434-5.md)
 - [Article L4434-6](article-l4434-6.md)
-- [Article L4434-7](article-l4434-7.md)
 - [Article L4434-8](article-l4434-8.md)
 - [Article L4434-9](article-l4434-9.md)

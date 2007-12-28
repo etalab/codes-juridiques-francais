@@ -12,6 +12,7 @@
 - [23° : Crédit d'impôt pour dépenses d'équipement de l'habitation principale](23)
 - [24° : Crédit d'impôt pour l'acquisition ou la location de certains véhicules automobiles.](24)
 - [25° : Prime pour l'emploi](25)
+- [26° : Crédit d'impôt au titre des revenus distribués](26)
 - [29° : Crédit d'impôt en faveur des jeunes prenant un métier rencontrant des difficultés de recrutement](29)
 - [3° : Réduction d'impôt accordée au titre des cotisations versées aux organisations syndicales](3)
 - [32° : Crédit d'impôt en faveur des étudiants en vue du financement de leurs études supérieures](32)

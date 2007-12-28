@@ -12,6 +12,8 @@ Les taux des droits de consommation fixés par chaque conseil général ne peuve
 
 Les conseils généraux des départements d'outre-mer peuvent fixer, par délibération, un minimum de perception spécifique fixé pour 1000 unités, tel que mentionné aux articles 575 et 575 A du code général des impôts, pour le droit de consommation sur les cigarettes dans leur circonscription administrative. Ce minimum de perception ne peut être supérieur au droit de consommation résultant de l'application du taux fixé par le conseil général au prix de vente au détail en France continentale des cigarettes de la classe de prix la plus demandée.
 
+Les conseils généraux des départements d'outre-mer peuvent également établir un minimum de perception fixé pour 1 000 grammes pour les tabacs fine coupe destinés à rouler les cigarettes. Ce minimum de perception ne peut excéder les deux tiers du minimum de perception fixé par le conseil général pour 1 000 unités de cigarettes.
+
 2. Le droit de consommation est exigible soit à l'importation, soit à l'issue de la fabrication par les usines locales.
 
 3. Le droit de consommation est recouvré comme en matière de droit de douane. Les infractions sont constatées et réprimées et les instances instruites et jugées conformément aux dispositions du code des douanes.

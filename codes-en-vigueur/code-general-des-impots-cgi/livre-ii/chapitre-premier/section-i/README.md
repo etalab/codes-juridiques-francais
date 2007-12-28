@@ -4,3 +4,4 @@
 - [II : Exigibilité de l'impôt](ii)
 - [III : Paiement de l'impôt](iii)
 - [IV : Obligations des tiers](iv)
+- [V : Solidarité entre époux et partenaires liés par un pacte civil de solidarité](v)
