@@ -20,7 +20,7 @@ b (Transféré sous le b de l'article 80 ter) ;
 
 4° a. Les pensions servies en vertu des dispositions du code des pensions militaires d'invalidité et des victimes de guerre ainsi que la retraite du combattant mentionnée aux articles L. 255 à L. 257 du même code ;
 
-b. L'allocation de reconnaissance prévue aux I et I bis de l'article 47 de la loi de finances rectificative pour 1999 (n° 99-1173 du 30 décembre 1999) en faveur respectivement des personnes désignées au premier alinéa de l'article 2 de la loi n° 94-488 du 11 juin 1994 relative aux rapatriés anciens membres des formations supplétives et assimilés ou victimes de la captivité en Algérie et de leurs conjoints ou ex-conjoints survivants non remariés ;
+b.L'allocation de reconnaissance prévue aux I et I bis de l'article 47 de la loi de finances rectificative pour 1999 (n° 99-1173 du 30 décembre 1999) en faveur respectivement des personnes désignées au premier alinéa de l'article 2 de la loi n° 94-488 du 11 juin 1994 relative aux rapatriés anciens membres des formations supplétives et assimilés ou victimes de la captivité en Algérie et de leurs conjoints ou ex-conjoints survivants non remariés ;
 
 5° et 6° (Repris avec le 4°) ;
 
@@ -64,7 +64,7 @@ Ces dispositions pourront être étendues par décret en conseil d'Etat aux dép
 
 17° a. Les prestations de subsistance, d'équipement et de logement ainsi que l'indemnité forfaitaire d'entretien allouées, en application de l'article L. 104 du code du service national, au personnel accomplissant le service national actif dans le service de la coopération ou dans le service de l'aide technique ;
 
-b. L'indemnité mensuelle et l'indemnité supplémentaire versées dans le cadre de l'accomplissement du volontariat civil en application de l'article L. 122-12 du code du service national ;
+b.L'indemnité mensuelle et l'indemnité supplémentaire versées dans le cadre de l'accomplissement du volontariat civil en application de l'article L. 122-12 du code du service national ;
 
 c. l'allocation et la prime versées dans le cadre du contrat de volontariat pour l'insertion conformément à l'article L. 130-3 du code du service national ;
 
@@ -92,7 +92,7 @@ Cette exonération est subordonnée à la condition que le salarié se conforme 
 
 19° bis l'avantage résultant de la contribution de l'employeur à l'acquisition des chèques-vacances dans les conditions et limite prévues aux articles L. 411-4 et L. 411-5 du code du tourisme ;
 
-19° ter a. L'avantage résultant de la prise en charge obligatoire par l'employeur du prix des titres d'abonnement souscrits par les salariés pour les déplacements effectués au moyen de transports publics de voyageurs entre leur résidence habituelle et leur lieu de travail, conformément à l'article 1er de la loi n° 82-684 du 4 août 1982 relative à la participation des employeurs au financement des transports publics urbains et des chèques-transport ;
+19° ter a.L'avantage résultant de la prise en charge obligatoire par l'employeur du prix des titres d'abonnement souscrits par les salariés pour les déplacements effectués au moyen de transports publics de voyageurs entre leur résidence habituelle et leur lieu de travail, conformément à l'article 1er de la loi n° 82-684 du 4 août 1982 relative à la participation des employeurs au financement des transports publics urbains et des chèques-transport ;
 
 b. La part contributive de l'employeur dans le chèque-transport prévu à l'article 3 de la loi n° 82-684 du 4 août 1982 précitée, dans la limite de 50 % du prix des abonnements de transport collectif pour les chèques-transport mentionnés au 1° du I du même article ou de la somme de 100 euros par an pour les chèques-transport mentionnés au 2° du même I ;
 
@@ -127,6 +127,8 @@ d. (disjoint) ;
 30° Le pécule versé en application de la loi n° 96-1111 du 19 décembre 1996 relative aux mesures en faveur du personnel militaire dans le cadre de la professionnalisation des armées ;
 
 31° Les avantages résultant des opérations définies au 1° du 11 de l'article 39, dans la limite globale de 1 525 euros par salarié, appréciée sur l'ensemble de la période couverte par l'accord mentionné au 2° du même article ;
+
+31° bis L'avantage résultant pour le salarié de la remise gratuite par son employeur de matériels informatiques et de logiciels nécessaires à leur utilisation entièrement amortis et pouvant permettre l'accès à des services de communications électroniques et de communication au public en ligne, dans la limite d'un prix de revient global des matériels et logiciels reçus dans l'année de 2 000 ;
 
 32° L'indemnité de cessation d'activité prévue au V de l'article 41 de la loi de financement de la sécurité sociale pour 1999 (n° 98-1194 du 23 décembre 1998) ;
 
