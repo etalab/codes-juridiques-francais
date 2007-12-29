@@ -22,7 +22,7 @@ Sont exonérés de la taxe sur la valeur ajoutée :
 
 5° (Abrogé).
 
-3. (Biens usagés. Déchets neufs d'industrie et matières de récupération) :
+3. (Biens usagés) :
 
 1° a. Sous réserve, le cas échéant, des dispositions des 13° et 15° de l'article 257, les ventes de biens usagés faites par les personnes qui les ont utilisés pour les besoins de leurs exploitations.
 
@@ -32,15 +32,11 @@ Les dispositions du deuxième alinéa ne s'appliquent ni aux biens cédés à de
 
 b. (Disposition périmée) ;
 
-2° les livraisons de déchets neufs d'industrie et de matières de récupération effectuées :
-
-a. par les entreprises qui ne disposent pas d'installation permanente ;
-
-b. par les entreprises qui, disposant d'une installation permanente, ont réalisé au cours de l'année précédente un montant de chiffre d'affaires portant sur ces produits inférieur à 910 000 euros ;
+2° (abrogé)
 
 4. (Professions libérales et activités diverses) :
 
-1° Les soins dispensés aux personnes par les membres des professions médicales et paramédicales réglementées, et par les psychologues, psychanalystes et psychothérapeutes titulaires d'un des diplômes requis, à la date de sa délivrance, pour être recruté comme psychologue dans la fonction publique hospitalière ainsi que les travaux d'analyse de biologie médicale et les fournitures de prothèses dentaires par les dentistes et les prothésistes ;
+1° Les soins dispensés aux personnes par les membres des professions médicales et paramédicales réglementées, par les praticiens autorisés à faire usage légalement du titre d'ostéopathe et par les psychologues, psychanalystes et psychothérapeutes titulaires d'un des diplômes requis, à la date de sa délivrance, pour être recruté comme psychologue dans la fonction publique hospitalière ainsi que les travaux d'analyse de biologie médicale et les fournitures de prothèses dentaires par les dentistes et les prothésistes ;
 
 1° bis les frais d'hospitalisation et de traitement, y compris les frais de mise à disposition d'une chambre individuelle, dans les établissements de santé privés titulaires de l'autorisation mentionnée à l'article L. 6122-1 du code de la santé publique ;
 
@@ -70,6 +66,8 @@ b. les cours ou leçons relevant de l'enseignement scolaire, universitaire, prof
 
 5° à 8° (Abrogés) ;
 
+8° bis Les prestations de services et les livraisons de biens qui leur sont étroitement liées, effectuées dans le cadre de la garde d'enfants par les établissements visés aux deux premiers alinéas de l'article L. 2324-1 du code de la santé publique et assurant l'accueil des enfants de moins de trois ans ; (1)
+
 9° les prestations de services et les livraisons de biens qui leur sont étroitement liées fournies à leurs membres, moyennant une cotisation fixée conformément aux statuts, par des organismes légalement constitués agissant sans but lucratif dont la gestion est désintéressée et qui poursuivent des objectifs de nature philosophique, religieuse, politique, patriotique, civique ou syndicale, dans la mesure où ces opérations se rattachent directement à la défense collective des intérêts moraux ou matériels des membres ; les dispositions des c et d du 1° du 7 s'appliquent à ces organismes ;
 
 10° Les travaux de construction, d'aménagement, de réparation et d'entretien des monuments, cimetières ou sépultures commémoratifs des combattants, héros, victimes ou morts des guerres, effectués pour les collectivités publiques et les organismes légalement constitués agissant sans but lucratif.
@@ -80,7 +78,7 @@ b. les cours ou leçons relevant de l'enseignement scolaire, universitaire, prof
 
 a. les opérations de vente effectuées par les départements, communes et établissements publics et relatives à des terrains leur appartenant ;
 
-b. les opérations de vente de terrains leur appartenant effectuées sans but lucratif par les sociétés coopératives de construction, par les sociétés d'économie mixte de construction immobilière dont les statuts sont conformes aux clauses types annexées au décret n° 69-295 du 24 mars 1969, par les groupements dits de "Castors" dont les membres effectuent des apports de travail, ainsi que par les sociétés et organismes à but désintéressé habilités à recevoir la contribution des employeurs à l'effort de construction visée à l'article 235 bis ;
+b. les opérations de vente de terrains leur appartenant effectuées sans but lucratif par les sociétés coopératives de construction, par les sociétés d'économie mixte de construction immobilière dont les statuts sont conformes aux clauses types annexées au décret n° 69-295 du 24 mars 1969, par les groupements dits de " Castors " dont les membres effectuent des apports de travail, ainsi que par les sociétés et organismes à but désintéressé habilités à recevoir la contribution des employeurs à l'effort de construction visée à l'article 235 bis ;
 
 c. (Devenu sans objet) ;
 
@@ -92,7 +90,7 @@ e. (Disposition périmée) ;
 
 f. (Abrogé) ;
 
-g) Les livraisons d'immeubles réalisées par les organismes d'habitations à loyer modéré régis par l'article L. 411-2 du code de la construction et de l'habitation ou de lots de copropriété faisant l'objet d'un plan de sauvegarde en application de l'article L. 615-1 du même code par les organismes sans but lucratif visés au 7 du présent article ou par les sociétés d'économie mixte exerçant une activité de construction ou de gestion de logements sociaux ;
+g) Les livraisons d'immeubles réalisées par les organismes d'habitations à loyer modéré régis par l'article L. 411-2 du code de la construction et de l'habitation ou de lots de copropriété faisant l'objet d'un plan de sauvegarde en application de l'article L. 615-1 du même code ou faisant l'objet d'une opération programmée d'amélioration de l'habitat prévue à l'article L. 303-1 du même code par les organismes sans but lucratif visés au 7 du présent article ou par les sociétés d'économie mixte exerçant une activité de construction ou de gestion de logements sociaux ;
 
 h) Les cessions de parts de sociétés civiles immobilières d'accession progressive à la propriété effectuées dans les conditions prévues aux articles L. 443-6-2 et suivants du code de la construction et de l'habitation ;
 
@@ -100,7 +98,7 @@ h) Les cessions de parts de sociétés civiles immobilières d'accession progres
 
 2° les apports et les cessions de terrains à bâtir effectués par les collectivités locales au profit des offices publics de l'habitat et de leurs unions, pour les opérations faites en application de la législation sur les organismes d'habitations à loyer modéré, ainsi que les apports consentis par les collectivités locales à des organismes d'habitations à loyer modéré ou à leurs unions, dans la mesure où ces apports sont effectués à titre gratuit.
 
-3° les apports faits aux sociétés civiles visées à l'article L322-12 du code de l'urbanisme ;
+3° (alinéa devenu sans objet) ;
 
 4° le bail à construction ;
 
