@@ -6,15 +6,13 @@ Le taux de 30 % mentionné au premier alinéa est porté à 50 % et 40 % au titr
 
 Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou groupements mentionnés aux articles 239 quater,239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut, sous réserve des dispositions prévues au septième alinéa du I de l'article 199 ter B, être utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements.
 
-La fraction du crédit d'impôt qui résulte de la prise en compte de dépenses prévues au h et au i du II exposées à compter du 1er janvier 1999 est plafonnée pour chaque entreprise à 100 000 euros par période de trois ans consécutifs.
-
 II. Les dépenses de recherche ouvrant droit au crédit d'impôt sont :
 
 a) Les dotations aux amortissements des immobilisations, créées ou acquises à l'état neuf et affectées directement à la réalisation d'opérations de recherche scientifique et technique, y compris la réalisation de prototypes ou d'installations pilotes. Toutefois, les dotations aux amortissements des immeubles acquis ou achevés avant le 1er janvier 1991 ainsi que celles des immeubles dont le permis de construire a été délivré avant le 1er janvier 1991 ne sont pas prises en compte ;
 
 b) Les dépenses de personnel afférentes aux chercheurs et techniciens de recherche directement et exclusivement affectés à ces opérations. Lorsque ces dépenses se rapportent à des personnes titulaires d'un doctorat ou d'un diplôme équivalent, elles sont prises en compte pour le double de leur montant pendant les vingt-quatre premiers mois suivant leur premier recrutement à condition que le contrat de travail de ces personnes soit à durée indéterminée et que l'effectif salarié de l'entreprise ne soit pas inférieur à celui de l'année précédente ;
 
-c) les autres dépenses de fonctionnement exposées dans les mêmes opérations ; ces dépenses sont fixées forfaitairement à 75 p. 100 des dépenses de personnel mentionnées à la première phrase du b ;
+c) les autres dépenses de fonctionnement exposées dans les mêmes opérations ; ces dépenses sont fixées forfaitairement à 75 % des dépenses de personnel mentionnées à la première phrase du b ;
 
 Ce pourcentage est fixé à :
 
@@ -32,7 +30,7 @@ Le plafond de 10 millions d'euros mentionné au premier alinéa du présent d te
 
 e) Les frais de prise et de maintenance de brevets et de certificats d'obtention végétale ;
 
-e bis) Les frais de défense de brevets et de certificats d'obtention végétale, ainsi que, dans la limite de 60 000 EUR par an, les primes et cotisations ou la part des primes et cotisations afférentes à des contrats d'assurance de protection juridique prévoyant la prise en charge des dépenses exposées, à l'exclusion de celles procédant d'une condamnation éventuelle, dans le cadre de litiges portant sur un brevet ou un certificat d'obtention végétale dont l'entreprise est titulaire ;
+e bis) Les frais de défense de brevets et de certificats d'obtention végétale, ainsi que, dans la limite de 60 000 euros par an, les primes et cotisations ou la part des primes et cotisations afférentes à des contrats d'assurance de protection juridique prévoyant la prise en charge des dépenses exposées, à l'exclusion de celles procédant d'une condamnation éventuelle, dans le cadre de litiges portant sur un brevet ou un certificat d'obtention végétale dont l'entreprise est titulaire ;
 
 f) Les dotations aux amortissements des brevets et des certificats d'obtention végétale acquis en vue de réaliser des opérations de recherche et de développement expérimental ;
 
@@ -63,6 +61,10 @@ j) Les dépenses de veille technologique exposées lors de la réalisation d'op�
 Pour être éligibles au crédit d'impôt mentionné au premier alinéa du I, les dépenses prévues aux a à j doivent être des dépenses retenues pour la détermination du résultat imposable à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les conditions de droit commun et, à l'exception des dépenses prévues aux e bis et j, correspondre à des opérations localisées au sein de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'espace économique européen ayant conclu avec la France une convention fiscale contenant une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale.
 
 Les dépenses visées aux a et 2° du h du II ne sont pas retenues pour le calcul du crédit d'impôt recherche lorsque les immobilisations concernées ont bénéficié du crédit d'impôt prévu à l'article 220 septies.
+
+Le bénéfice de la fraction du crédit d'impôt qui résulte de la prise en compte des dépenses prévues aux h et i du II est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis (1).
+
+Pour l'application du précédent alinéa, les sociétés de personnes et groupements mentionnés aux articles 8,238 bis L,239 quater,239 quater B et 239 quater C qui ne sont pas soumis à l'impôt sur les sociétés doivent également respecter le règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 précité. La fraction du crédit d'impôt mentionnée à l'alinéa précédent peut être utilisée par les associés de ces sociétés ou les membres de ces groupements proportionnellement à leurs droits dans ces sociétés ou groupements s'ils satisfont aux conditions d'application de ce même règlement et sous réserve qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156 (1).
 
 III. Les subventions publiques reçues par les entreprises à raison des opérations ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce crédit, qu'elles soient définitivement acquises par elles ou remboursables. Il en est de même des sommes reçues par les organismes ou experts désignés au d et au d bis du II, pour le calcul de leur propre crédit d'impôt. Lorsque ces subventions sont remboursables, elles sont ajoutées aux bases de calcul du crédit d'impôt de l'année au cours de laquelle elles sont remboursées à l'organisme qui les a versées.
 

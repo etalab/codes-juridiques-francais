@@ -10,4 +10,4 @@ La dotation à cette provision est subordonnée à l'existence, à la clôture d
 
 Cette provision doit être utilisée, au plus tard à la clôture du cinquième exercice suivant la première dotation annuelle, pour l'engagement de dépenses de mise en conformité mentionnées au deuxième ou au troisième alinéa. Lorsque la provision est utilisée conformément à son objet, elle est rapportée au résultat pour sa fraction utilisée par parts égales sur l'exercice d'engagement de la dépense de mise en conformité et les quatre exercices suivants. Le montant non utilisé à la clôture du cinquième exercice suivant la première dotation annuelle est intégralement rapporté au résultat de cet exercice.
 
-Le présent article s'applique dans les limites et conditions prévues par le règlement (CE) n° 69/2001 de la Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis.
+Le bénéfice de la provision est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.

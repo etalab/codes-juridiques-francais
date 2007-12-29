@@ -5,6 +5,7 @@
 - [Article 72 D](article-72-d.md)
 - [Article 72 D bis](article-72-d-bis.md)
 - [Article 72 D ter](article-72-d-ter.md)
+- [Article 72 D quater](article-72-d-quater.md)
 - [Article 72 A](article-72-a.md)
 - [Article 72 B](article-72-b.md)
 - [Article 72 E](article-72-e.md)

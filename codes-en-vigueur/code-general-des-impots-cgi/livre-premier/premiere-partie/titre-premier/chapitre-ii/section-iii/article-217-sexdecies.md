@@ -24,7 +24,7 @@ III. - En cas de cession de tout ou partie des titres dans les trois ans du vers
 
 Si la condition prévue au a du II n'est pas respectée, un montant égal à celui des versements est rapporté au résultat imposable, calculé dans les conditions de droit commun, de la société bénéficiaire des versements au titre de l'exercice au cours duquel la condition a cessé d'être remplie. Si la condition prévue au b du II n'est pas remplie, le montant rapporté est limité à la fraction du montant qui n'a pas été utilisé conformément aux dispositions du même b.
 
-IV. - Le I s'applique dans les conditions et limites prévues par le règlement (CE) n° 69/2001 de la Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis.
+IV. - Le bénéfice de la déduction mentionnée au I est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
 
 V. - Lorsque l'entreprise versante a choisi de bénéficier des dispositions prévues au présent article, les sommes versées ne peuvent ouvrir droit à une autre déduction, à une réduction d'impôt ou à un crédit d'impôt.
 

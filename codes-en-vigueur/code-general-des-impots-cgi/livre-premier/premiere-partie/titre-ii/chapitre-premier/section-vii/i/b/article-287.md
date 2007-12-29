@@ -32,4 +32,6 @@ a) D'une part, le montant total, hors taxe sur la valeur ajoutée, des livraison
 
 b) D'autre part, le montant total, hors taxe sur la valeur ajoutée, des acquisitions intracommunautaires mentionnées au I de l'article 256 bis, et, le cas échéant, des livraisons de biens expédiés ou transportés à partir d'un autre Etat membre de la Communauté européenne et installés ou montés en France, des livraisons de biens dont le lieu est situé en France en application des dispositions de l'article 258 B, des livraisons de biens effectuées en France pour lesquelles le destinataire de la livraison est désigné comme redevable de la taxe en application des dispositions du 2 ter de l'article 283 et des livraisons de gaz naturel ou d'électricité pour lesquelles l'acquéreur est désigné comme redevable de la taxe conformément aux dispositions du 2 quinquies de ce dernier article ;
 
+b bis) Le montant hors taxes des opérations mentionnées au 2 sexies de l'article 283 réalisées ou acquises par l'assujetti ;
+
 c) Enfin, le montant total hors taxes des transmissions mentionnées à l'article 257 bis, dont a bénéficié l'assujetti ou qu'il a réalisées.

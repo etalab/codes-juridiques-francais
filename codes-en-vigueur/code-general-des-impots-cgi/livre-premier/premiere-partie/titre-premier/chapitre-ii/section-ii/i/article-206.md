@@ -50,6 +50,8 @@ e. des dividendes des sociétés d'investissements immobiliers cotées visées �
 
 5 bis. Les associations intermédiaires conventionnées, visées à l'article L. 322-4-16-3 du code du travail, dont la gestion est désintéressée et les associations de services aux personnes, agréées en application de l'article L129-1 du même code sont soumises à l'impôt sur les sociétés dans les conditions prévues au 5.
 
+5 ter. Pour les sociétés coopératives d'intérêt collectif, la part des excédents mis en réserves impartageables est déductible de l'assiette de l'impôt sur les sociétés (1).
+
 6. 1° L'organe central du crédit agricole, les caisses régionales de crédit agricole mutuel mentionnées à l'article L. 512-21 du code monétaire et financier et les caisses locales de crédit agricole mutuel affiliées à ces dernières sont assujetties à l'impôt sur les sociétés dans les conditions de droit commun.
 
 2° Lorsqu'elles n'exercent aucune activité bancaire pour leur propre compte ou aucune activité rémunérée d'intermédiaire financier, les caisses locales mentionnées au 1° sont redevables de l'impôt sur les sociétés dans les conditions prévues au 5 et à l'article 219 bis.

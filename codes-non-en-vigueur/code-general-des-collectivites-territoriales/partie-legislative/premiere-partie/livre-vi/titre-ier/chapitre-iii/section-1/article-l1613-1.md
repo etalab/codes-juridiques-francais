@@ -6,9 +6,9 @@ La dotation inscrite dans le projet de loi de finances initial est arrêtée dan
 
 1° L'indice afférent à la dotation globale de fonctionnement de l'année en cours, ajusté le cas échéant afin de prendre en compte les derniers taux d'évolution connus sans toutefois que le taux d'évolution du produit intérieur brut puisse être négatif, est appliqué au montant définitif de la dotation globale de fonctionnement de l'année précédente ;
 
-A compter de 2003, pour le calcul du montant de la dotation globale de fonctionnement, le montant de la dotation globale de fonctionnement de 2002 calculé dans les conditions prévues ci-dessus est majoré d'un montant total de 309,014 millions d'euros.
+A compter de 2003, pour le calcul du montant de la dotation globale de fonctionnement, le montant de la dotation globale de fonctionnement de 2002 calculé dans les conditions prévues ci-dessus est majoré d'un montant total de 309, 014 millions d'euros.
 
-A compter de 2003, pour le calcul du montant de la dotation globale de fonctionnement, le montant de la dotation globale de fonctionnement de 2002, calculé dans les conditions prévues ci-dessus, est majoré d'un montant de 1,5 million d'euros.
+A compter de 2003, pour le calcul du montant de la dotation globale de fonctionnement, le montant de la dotation globale de fonctionnement de 2002, calculé dans les conditions prévues ci-dessus, est majoré d'un montant de 1, 5 million d'euros.
 
 A compter de 2004, pour le calcul du montant de la dotation globale de fonctionnement, le montant de la dotation globale de fonctionnement de 2003 calculé dans les conditions prévues ci-dessus est majoré d'un montant de 23 millions d'euros.
 
@@ -26,8 +26,10 @@ A compter de 2006, pour le calcul du montant de la dotation globale de fonctionn
 
 A compter de 2007, pour le calcul du montant de la dotation globale de fonctionnement, le montant de la dotation globale de fonctionnement de 2006 calculé dans les conditions définies ci-dessus est augmenté du montant des majorations prévues aux sixième à neuvième alinéas de l'article L. 3334-7-1.
 
-A compter de 2007, pour le calcul du montant de la dotation globale de fonctionnement, le montant de la dotation globale de fonctionnement pour 2006 calculé dans les conditions définies ci-dessus est minoré d'un montant total de 10,5 millions d'euros.
+A compter de 2007, pour le calcul du montant de la dotation globale de fonctionnement, le montant de la dotation globale de fonctionnement pour 2006 calculé dans les conditions définies ci-dessus est minoré d'un montant total de 10, 5 millions d'euros.
 
 A compter de 2008, pour le calcul du montant de la dotation globale de fonctionnement, le montant de la dotation globale de fonctionnement pour 2007 calculé dans les conditions définies ci-dessus est majoré d'un montant de 3 millions d'euros.
 
 2° L'indice prévisionnel défini au premier alinéa du présent article est appliqué au montant ainsi obtenu.
+
+A compter de 2009, pour le calcul du montant de la dotation globale de fonctionnement, le montant de la dotation globale de fonctionnement de 2008 calculé dans les conditions définies ci-dessus est diminué du montant de la dotation globale de fonctionnement calculé en 2008 au profit de la collectivité de Saint-Barthélemy en application de l'article L. 6264-3.

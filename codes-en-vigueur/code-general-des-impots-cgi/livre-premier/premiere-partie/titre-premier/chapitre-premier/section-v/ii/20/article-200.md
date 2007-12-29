@@ -12,9 +12,9 @@ d) D'organismes visés au 4 de l'article 238 bis ;
 
 e) D'associations cultuelles et de bienfaisance, ainsi que des établissements publics des cultes reconnus d'Alsace-Moselle ;
 
-f) Abrogé
+f) D'organismes publics ou privés dont la gestion est désintéressée et qui ont pour activité principale la présentation au public d'oeuvres dramatiques, lyriques, musicales, chorégraphiques, cinématographiques et de cirque ou l'organisation d'expositions d'art contemporain, à la condition que les versements soient affectés à cette activité. Cette disposition ne s'applique pas aux organismes qui présentent des oeuvres à caractère pornographique ou incitant à la violence.
 
-Ouvrent également droit à la réduction d'impôt les frais engagés dans le cadre d'une activité bénévole et en vue strictement de la réalisation de l'objet social d'un organisme mentionné aux deuxième à sixième alinéas, lorsque ces frais, dûment justifiés, ont été constatés dans les comptes de l'organisme et que le contribuable a renoncé expressément à leur remboursement. Ces dispositions s'appliquent aux frais engagés à compter du 9 juillet 2000.
+Ouvrent également droit à la réduction d'impôt les frais engagés dans le cadre d'une activité bénévole et en vue strictement de la réalisation de l'objet social d'un organisme mentionné aux deuxième à septième alinéas, lorsque ces frais, dûment justifiés, ont été constatés dans les comptes de l'organisme et que le contribuable a renoncé expressément à leur remboursement.
 
 1 bis. Pour l'application des dispositions du 1, lorsque les dons et versements effectués au cours d'une année excèdent la limite de 20 %, l'excédent est reporté successivement sur les années suivantes jusqu'à la cinquième inclusivement et ouvre droit à la réduction d'impôt dans les mêmes conditions.
 
@@ -28,11 +28,11 @@ La condition relative à la reconnaissance d'utilité publique est réputée rem
 
 Un décret en Conseil d'Etat fixe les conditions de cette reconnaissance et les modalités de procédure déconcentrée permettant de l'accorder.
 
-2 bis. Ouvrent également droit à la réduction d'impôt les dons versés à la "Fondation du patrimoine" ou à une fondation ou une association qui affecte irrévocablement ces dons à la "Fondation du patrimoine", en vue de subventionner la réalisation des travaux prévus par les conventions conclues en application de l'article L. 143-2-1 du code du patrimoine entre la "Fondation du patrimoine" et les propriétaires des immeubles, personnes physiques ou sociétés civiles composées uniquement de personnes physiques et qui ont pour objet exclusif la gestion et la location nue des immeubles dont elles sont propriétaires.
+2 bis. Ouvrent également droit à la réduction d'impôt les dons versés à la " Fondation du patrimoine " ou à une fondation ou une association qui affecte irrévocablement ces dons à la " Fondation du patrimoine ", en vue de subventionner la réalisation des travaux prévus par les conventions conclues en application de l'article L. 143-2-1 du code du patrimoine entre la " Fondation du patrimoine " et les propriétaires des immeubles, personnes physiques ou sociétés civiles composées uniquement de personnes physiques et qui ont pour objet exclusif la gestion et la location nue des immeubles dont elles sont propriétaires.
 
 Les immeubles mentionnés au premier alinéa du présent 2 bis ne doivent pas faire l'objet d'une exploitation commerciale.
 
-Le donateur ou l'un des membres de son foyer fiscal ne doit pas avoir conclu de convention avec la "Fondation du patrimoine" en application de l'article L. 143-2-1 précité, être propriétaire de l'immeuble sur lequel sont effectués les travaux ou être un ascendant, un descendant ou un collatéral du propriétaire de cet immeuble. En cas de détention de l'immeuble par une société mentionnée au premier alinéa, le donateur ou l'un des membres de son foyer fiscal ne doit pas être associé de cette société ou un ascendant, un descendant ou un collatéral des associés de la société propriétaire de l'immeuble.
+Le donateur ou l'un des membres de son foyer fiscal ne doit pas avoir conclu de convention avec la " Fondation du patrimoine " en application de l'article L. 143-2-1 précité, être propriétaire de l'immeuble sur lequel sont effectués les travaux ou être un ascendant, un descendant ou un collatéral du propriétaire de cet immeuble. En cas de détention de l'immeuble par une société mentionnée au premier alinéa, le donateur ou l'un des membres de son foyer fiscal ne doit pas être associé de cette société ou un ascendant, un descendant ou un collatéral des associés de la société propriétaire de l'immeuble.
 
 Les dons versés à d'autres fondations ou associations reconnues d'utilité publique agréées par le ministre chargé du budget dont l'objet est culturel, en vue de subventionner la réalisation de travaux de conservation, de restauration ou d'accessibilité de monuments historiques classés ou inscrits, ouvrent droit à la réduction d'impôt dans les mêmes conditions.
 
@@ -40,7 +40,7 @@ Les dons versés à d'autres fondations ou associations reconnues d'utilité pub
 
 4. (abrogé).
 
-5. Le bénéfice des dispositions du 1, du 1 ter et du 2 bis est subordonné à la condition que soient jointes à la déclaration des revenus des pièces justificatives, répondant à un modèle fixé par un arrêté attestant le total du montant et la date des versements ainsi que l'identité des bénéficiaires. A défaut, la réduction d'impôt est refusée sans proposition de rectification préalable.
+5. Le bénéfice des dispositions du 1, du 1 ter et du 2 bis est subordonné à la condition que soient jointes à la déclaration des revenus des pièces justificatives, répondant à un modèle fixé par un arrêté attestant le total du montant et la date des versements ainsi que l'identité des bénéficiaires.A défaut, la réduction d'impôt est refusée sans proposition de rectification préalable.
 
 Toutefois, pour l'application du 3, les reçus délivrés pour les dons et les cotisations d'un montant égal ou inférieur à 3 000 euros ne mentionnent pas la dénomination du bénéficiaire. Un décret en Conseil d'Etat détermine les modalités d'application de cette disposition.
 

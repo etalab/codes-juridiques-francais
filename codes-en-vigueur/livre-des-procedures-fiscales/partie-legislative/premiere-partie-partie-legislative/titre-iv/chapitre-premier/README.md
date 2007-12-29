@@ -6,3 +6,4 @@
 - [Section IV : Prescription de l'action en vue du recouvrement](section-iv)
 - [Article L252](article-l252.md)
 - [Article L252 A](article-l252-a.md)
+- [Article L252 B](article-l252-b.md)

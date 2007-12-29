@@ -15,6 +15,7 @@
 - [Article 220](article-220.md)
 - [Article 220 I](article-220-i.md)
 - [Article 220 V](article-220-v.md)
+- [Article 220 X](article-220-x.md)
 - [Article 220 L](article-220-l.md)
 - [Article 220 C](article-220-c.md)
 - [Article 220 quater](article-220-quater.md)

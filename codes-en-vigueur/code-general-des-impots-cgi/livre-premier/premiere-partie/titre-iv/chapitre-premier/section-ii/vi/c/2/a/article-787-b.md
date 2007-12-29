@@ -12,7 +12,7 @@ Ces pourcentages doivent être respectés tout au long de la durée de l'engagem
 
 L'engagement collectif de conservation est opposable à l'administration à compter de la date de l'enregistrement de l'acte qui le constate. Dans le cas de titres admis à la négociation sur un marché réglementé, l'engagement collectif de conservation est soumis aux dispositions de l'article L. 233-11 du code de commerce.
 
-L'engagement collectif de conservation est réputé acquis lorsque les parts ou actions détenues depuis deux ans au moins par une une personne physique seule ou avec son conjoint ou le partenaire avec lequel elle est liée par un pacte civil de solidarité atteignent les seuils prévus au premier alinéa, sous réserve que cette personne ou son conjoint ou son partenaire lié par un pacte civil de solidaritéexerce depuis plus de deux ans au moins dans la société concernée son activité professionnelle principale ou l'une des fonctions énumérées au 1° de l'article 885 O bis lorsque la société est soumise à l'impôt sur les sociétés.
+L'engagement collectif de conservation est réputé acquis lorsque les parts ou actions détenues depuis deux ans au moins par une personne physique seule ou avec son conjoint ou le partenaire avec lequel elle est liée par un pacte civil de solidarité atteignent les seuils prévus au premier alinéa, sous réserve que cette personne ou son conjoint ou son partenaire lié par un pacte civil de solidaritéexerce depuis plus de deux ans au moins dans la société concernée son activité professionnelle principale ou l'une des fonctions énumérées au 1° de l'article 885 O bis lorsque la société est soumise à l'impôt sur les sociétés.
 
 Pour le calcul des pourcentages prévus au premier alinéa, il est tenu compte des titres détenus par une société possédant directement une participation dans la société dont les parts ou actions font l'objet de l'engagement collectif de conservation visé au a et auquel elle a souscrit.
 
@@ -44,7 +44,9 @@ g) En cas de non-respect des conditions prévues aux a ou b, par suite d'une fus
 
 h) En cas de non-respect de la condition prévue au c par suite d'une fusion ou d'une scission au sens de l'article 817 A ou d'une augmentation de capital, l'exonération partielle accordée au titre de la mutation à titre gratuit n'est pas remise en cause si les titres reçus en contrepartie de ces opérations sont conservés par le signataire de l'engagement jusqu'à son terme.
 
-De même, cette exonération n'est pas remise en cause lorsque la condition prévue aux b ou c n'est pas respectée par suite d'une annulation des titres pour cause de pertes ou de liquidation judiciaire.
+De même, cette exonération n'est pas remise en cause lorsque la condition prévue aux b ou c n'est pas respectée par suite d'une annulation des titres pour cause de pertes ou de liquidation judiciaire ;
+
+i) En cas de non-respect de la condition prévue au c par suite d'une donation, l'exonération partielle accordée au titre de la mutation à titre gratuit n'est pas remise en cause, à condition que le ou les donataires soient le ou les descendants du donateur et que le ou les donataires poursuivent l'engagement prévu au c jusqu'à son terme.
 
 Les dispositions du présent article s'appliquent en cas de donation avec réserve d'usufruit à la condition que les droits de vote de l'usufruitier soient statutairement limités aux décisions concernant l'affectation des bénéfices. Cette exonération n'est alors pas cumulable avec la réduction prévue à l'article 790.
 
