@@ -2,3 +2,4 @@
 
 - [Article 151 octies](article-151-octies.md)
 - [Article 151 octies A](article-151-octies-a.md)
+- [Article 151 octies B](article-151-octies-b.md)
