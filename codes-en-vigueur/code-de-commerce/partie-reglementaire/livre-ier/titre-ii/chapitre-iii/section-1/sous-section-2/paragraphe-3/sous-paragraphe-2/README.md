@@ -3,3 +3,4 @@
 - [Sous-sous-paragraphe 1 : Des sociétés ouvrant un premier établissement en France.](sous-sous-paragraphe-1)
 - [Sous-sous-paragraphe 2 : Des sociétés faisant appel public à l'épargne en France.](sous-sous-paragraphe-2)
 - [Sous-sous-paragraphe 3 : Des sociétés européennes.](sous-sous-paragraphe-3)
+- [Sous-sous-paragraphe 4 : De la langue des dépôts.](sous-sous-paragraphe-4)

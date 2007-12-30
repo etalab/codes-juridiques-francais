@@ -2,7 +2,7 @@
 
 Toute personne immatriculée indique sur ses factures, notes de commande, tarifs et documents publicitaires ainsi que sur toutes correspondances et tous récépissés concernant son activité et signés par elle ou en son nom :
 
-1° Le numéro unique d'identification de l'entreprise délivré conformément à l'article R. 123-235 ;
+1° Le numéro unique d'identification de l'entreprise délivré conformément à l'article D. 123-235 ;
 
 2° La mention RCS suivie du nom de la ville où se trouve le greffe où elle est immatriculée ;
 
@@ -16,6 +16,6 @@ Toute personne immatriculée indique sur ses factures, notes de commande, tarifs
 
 7° Si elle est bénéficiaire d'un contrat d'appui au projet d'entreprise pour la création ou la reprise d'une activité économique au sens du chapitre VII du titre II du livre Ier du code de commerce, la dénomination sociale de la personne morale responsable de l'appui, le lieu de son siège social, ainsi que son numéro unique d'identification.
 
-Toute personne immatriculée indique en outre sur son site internet la mention RCS suivie du nom de la ville où se trouve le greffe où elle est immatriculée, ainsi que des renseignements mentionnés aux 1°, 3° et 5°.
+Toute personne immatriculée indique en outre sur son site internet la mention RCS suivie du nom de la ville où se trouve le greffe où elle est immatriculée, ainsi que des renseignements mentionnés aux 1°,3° et 5°.
 
 Toute contravention aux dispositions des alinéas précédents est punie de l'amende prévue pour les contraventions de la 4e classe.
