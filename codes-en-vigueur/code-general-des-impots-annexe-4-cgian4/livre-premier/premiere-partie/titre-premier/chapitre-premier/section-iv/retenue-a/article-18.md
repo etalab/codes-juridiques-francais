@@ -1,45 +1,123 @@
 # Article 18
 
-Pour l'année 2006, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires, pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme suit :
+Pour l'année 2008, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires, pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme suit :
 
-Taux applicable : 0 p. 100
-
-Limite des tranches selon la période à laquelle se rapportent les paiements :
-
-Moins de 13 170 euros / Année
-
-Moins de 3 293 euros / Trimestre
-
-Moins de 1 098 euros / Mois
-
-Moins de 253 euros / Semaine
-
-Moins de 42 euros / Jour ou fraction de jour
-
-Taux applicable : 12 p. 100
-
-Limite des tranches selon la période à laquelle se rapportent les paiements :
-
-De 13 170 à 38 214 euros / Année
-
-De 3 293 à 9 554 euros / Trimestre
-
-De 1 098 à 3 185 euros / Mois
-
-De 253 à 735 euros / Semaine
-
-De 42 à 122 euros / Jour ou fraction de jour
-
-Taux applicable : 20 p. 100
-
-Limite des tranches selon la période à laquelle se rapportent les paiements :
-
-Au-delà de 38 214 euros / Année
-
-Au-delà de 9 554 euros / Trimestre
-
-Au-delà de 3 185 euros / Mois
-
-Au-delà de 735 euros / Semaine
-
-Au-delà de 122 euros / Jour ou fraction de jour.
+<table>
+<tbody>
+<tr>
+<th>
+<br/>TAUX APPLICABLES <br/>
+</th>
+<th>
+<br/>LIMITE DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS <br/>
+</th>
+</tr>
+<tr>
+<th/>
+<th>
+<br/>Année <br/>
+<br/>(en euros) <br/>
+</th>
+<th>
+<br/>Trimestre <br/>
+<br/>(en euros) <br/>
+</th>
+<th>
+<br/>Mois <br/>
+<br/>(en euros) <br/>
+</th>
+<th>
+<br/>Semaine <br/>
+<br/>(en euros) <br/>
+</th>
+<th>
+<br/>Jour ou fraction <br/>
+<br/>de jour <br/>
+<br/>(en euros) <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>0 %<br/>
+<br/>-moins de <br/>
+</td>
+<td align="center">
+<br/>13 583 <br/>
+</td>
+<td align="center">
+<br/>3 396 <br/>
+</td>
+<td align="center">
+<br/>1 132 <br/>
+</td>
+<td align="center">
+<br/>261 <br/>
+</td>
+<td align="center">
+<br/>44 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>12 %<br/>
+<br/>-de <br/>
+</td>
+<td align="center">
+<br/>13 583 <br/>
+</td>
+<td align="center">
+<br/>3 396 <br/>
+</td>
+<td align="center">
+<br/>1 132 <br/>
+</td>
+<td align="center">
+<br/>261 <br/>
+</td>
+<td align="center">
+<br/>44<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-à <br/>
+</td>
+<td align="center">
+<br/>39 409 <br/>
+</td>
+<td align="center">
+<br/>9 852 <br/>
+</td>
+<td align="center">
+<br/>3 284 <br/>
+</td>
+<td align="center">
+<br/>758 <br/>
+</td>
+<td align="center">
+<br/>126 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>20 %<br/>
+<br/>-au-delà de <br/>
+</td>
+<td align="center">
+<br/>39 409 <br/>
+</td>
+<td align="center">
+<br/>9 852 <br/>
+</td>
+<td align="center">
+<br/>3 284 <br/>
+</td>
+<td align="center">
+<br/>758 <br/>
+</td>
+<td align="center">
+<br/>126 <br/>
+</td>
+</tr>
+</tbody>
+</table>
