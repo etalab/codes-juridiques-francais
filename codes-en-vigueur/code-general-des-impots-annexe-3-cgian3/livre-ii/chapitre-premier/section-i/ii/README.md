@@ -9,3 +9,4 @@
 - [9 : Retenue à la source sur les salaires, droits d'auteur et rémunérations versés aux auteurs, artistes et sportifs domiciliés fiscalement en France](9)
 - [10 : Prélèvement sur les produits de placements à revenu fixe](10)
 - [12 : Participation des employeurs au développement de la formation professionnelle continue](12)
+- [13 : Taxe d'apprentissage](13)
