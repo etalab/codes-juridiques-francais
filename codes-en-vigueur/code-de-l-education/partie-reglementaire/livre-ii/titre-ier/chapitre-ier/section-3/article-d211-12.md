@@ -6,9 +6,9 @@ En application de l'article L. 211-4, la liste des établissements d'enseignemen
 
 a) Centre d'enseignement zootechnique de Rambouillet (Yvelines) ;
 
-b) Centre national de promotion rurale, enseignement et formation professionnelle à distance, Marmilhat (Puy-de-Dôme) ;
+b) (Abrogé) ;
 
-c) (Abrogé)
+c) (Abrogé).
 
 2° Pour les établissements relevant du ministère de l'éducation nationale :
 
