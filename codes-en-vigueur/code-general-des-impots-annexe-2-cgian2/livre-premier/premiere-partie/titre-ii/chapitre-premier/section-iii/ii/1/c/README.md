@@ -1,3 +1,3 @@
-# C : Dispositions communes à l'ensemble des biens et aux services.
+# C : Dispositions diverses
 
-- [Article 224](article-224.md)
+- [a : Dispositions applicables aux entreprises qui sont assujetties à la taxe sur la valeur ajoutée pour l'ensemble de leurs activités.](a)

@@ -3,3 +3,4 @@
 - [I : Dispositions relatives aux livraisons à soi-même](i)
 - [II : Dispositions relatives aux mutations](ii)
 - [IV : Dispositions diverses](iv)
+- [V : Dispositions relatives aux collectivités territoriales ou à leurs groupements](v)
