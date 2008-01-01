@@ -2,7 +2,7 @@
 
 Les pouvoirs adjudicateurs peuvent passer des marchés négociés dans les cas définis ci-dessous.
 
-I. - Peuvent être négociés après publicité préalable et mise en concurrence :
+I.-Peuvent être négociés après publicité préalable et mise en concurrence :
 
 1° Les marchés et les accords-cadres pour lesquels, après appel d'offres ou dialogue compétitif, il n'a été proposé que des offres irrégulières ou inacceptables que le pouvoir adjudicateur est tenu de rejeter. Une offre irrégulière est une offre qui, tout en apportant une réponse au besoin du pouvoir adjudicateur, est incomplète ou ne respecte pas les exigences formulées dans l'avis d'appel public à la concurrence ou dans les documents de la consultation. Une offre est inacceptable si les conditions qui sont prévues pour son exécution méconnaissent la législation en vigueur, ou si les crédits budgétaires alloués au marché après évaluation du besoin à satisfaire ne permettent pas au pouvoir adjudicateur de la financer.
 
@@ -16,9 +16,9 @@ Le pouvoir adjudicateur est dispensé de procéder à une nouvelle mesure de pub
 
 4° Dans des cas exceptionnels, lorsqu'il s'agit de travaux, de fournitures ou de services dont la nature ou les aléas qui peuvent affecter leur réalisation ne permettent pas une fixation préalable et globale des prix ;
 
-5° Les marchés et les accords-cadres de travaux dont le montant est compris entre 210 000 Euros HT et 5 270 000 Euros HT.
+5° Les marchés et les accords-cadres de travaux dont le montant est compris entre 206 000 Euros HT et 5 150 000 Euros HT.
 
-II. - Peuvent être négociés sans publicité préalable et sans mise en concurrence :
+II.-Peuvent être négociés sans publicité préalable et sans mise en concurrence :
 
 1° Les marchés et les accords-cadres conclus pour faire face à une urgence impérieuse résultant de circonstances imprévisibles pour le pouvoir adjudicateur et n'étant pas de son fait, et dont les conditions de passation ne sont pas compatibles avec les délais exigés par les procédures d'appel d'offres ou de marchés négociés avec publicité et mise en concurrence préalable, et notamment les marchés conclus pour faire face à des situations d'urgence impérieuse liées à une catastrophe technologique ou naturelle. Peuvent également être conclus selon cette procédure les marchés rendus nécessaire pour l'exécution d'office, en urgence, des travaux réalisés par des pouvoirs adjudicateurs en application des articles L. 1311-4, L. 1331-24, L. 1331-26-1, L. 1331-28, L. 1331-29 et L. 1334-2 du code de la santé publique et des articles L. 123-3, L. 129-2, L. 129-3, L. 511-2 et L. 511-3 du code de la construction et de l'habitation. Ces marchés sont limités aux prestations strictement nécessaires pour faire face à la situation d'urgence.
 

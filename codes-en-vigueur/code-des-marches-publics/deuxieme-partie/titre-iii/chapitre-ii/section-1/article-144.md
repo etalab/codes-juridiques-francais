@@ -2,7 +2,7 @@
 
 Les entités adjudicatrices passent leurs marchés et accords-cadres dans les conditions suivantes.
 
-I. - Elles choisissent librement entre les procédures formalisées suivantes :
+I.-Elles choisissent librement entre les procédures formalisées suivantes :
 
 1° Procédure négociée avec mise en concurrence préalable ;
 
@@ -12,7 +12,7 @@ I. - Elles choisissent librement entre les procédures formalisées suivantes :
 
 4° Système d'acquisition dynamique, défini à l'article 78.
 
-II. - Elles peuvent également recourir à la procédure négociée sans mise en concurrence préalable dans les cas suivants :
+II.-Elles peuvent également recourir à la procédure négociée sans mise en concurrence préalable dans les cas suivants :
 
 1° Pour les marchés et les accords-cadres qui n'ont fait l'objet d'aucune offre ou d'aucune offre appropriée au sens du 3° du II de l'article 35 ou pour lesquels aucune candidature n'a été déposée dans le cadre d'une procédure formalisée, pour autant que les conditions initiales du marché ne soient pas substantiellement modifiées ;
 
@@ -44,14 +44,14 @@ Le premier marché doit avoir indiqué la possibilité de recourir à cette proc
 
 12° Pour les marchés et les accords-cadres de services qui sont attribués à un ou plusieurs lauréats d'un concours. Lorsqu'il y a plusieurs lauréats, ils sont tous invités à négocier.
 
-III. - Elles peuvent aussi mettre en oeuvre une procédure adaptée, dans les conditions prévues par l'article 146 :
+III.-Elles peuvent aussi mettre en oeuvre une procédure adaptée, dans les conditions prévues par l'article 146 :
 
-a) Lorsque le montant estimé du besoin est inférieur à 420 000 Euros HT ;
+a) Lorsque le montant estimé du besoin est inférieur à 412 000 Euros HT ;
 
 b) Pour certains lots, dans les conditions prévues au III de l'article 27 ;
 
 c) En application de l'article 148.
 
-IV. - Les marchés peuvent également être passés sur la base d'un accord-cadre dans les conditions prévues à l'article 169.
+IV.-Les marchés peuvent également être passés sur la base d'un accord-cadre dans les conditions prévues à l'article 169.
 
-V. - Les marchés sans formalités préalables mentionnés dans le code général des collectivités territoriales sont les marchés d'un montant inférieur au seuil fixé au III.
+V.-Les marchés sans formalités préalables mentionnés dans le code général des collectivités territoriales sont les marchés d'un montant inférieur au seuil fixé au III.

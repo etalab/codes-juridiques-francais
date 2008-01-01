@@ -12,9 +12,9 @@ Pour les marchés et accords-cadres passés selon une des procédures formalisé
 
 5° Le nom du titulaire et les motifs du choix de son offre, ainsi que, si elle est connue, la part du marché ou de l'accord-cadre que le titulaire a l'intention de sous-traiter à des tiers ;
 
-6° En ce qui concerne les procédures négociées, le motif du recours à ces procédures sauf dans le cas des marchés de travaux dont le montant est compris entre 210 000 Euros HT et 5 270 000 Euros HT ;
+6° En ce qui concerne les procédures négociées, le motif du recours à ces procédures sauf dans le cas des marchés de travaux dont le montant est compris entre 206 000 Euros HT et 5 150 000 Euros HT ;
 
-7° En ce qui concerne le dialogue compétitif, le motif du recours à cette procédure sauf dans le cas des marchés de travaux dont le montant est compris entre 210 000 Euros HT et 5 270 000 Euros HT ;
+7° En ce qui concerne le dialogue compétitif, le motif du recours à cette procédure sauf dans le cas des marchés de travaux dont le montant est compris entre 206 000 Euros HT et 5 150 000 Euros HT ;
 
 8° Le cas échéant, les raisons pour lesquelles le pouvoir adjudicateur a renoncé à passer un marché, un accord-cadre ou à mettre en place un système d'acquisition dynamique ;
 
