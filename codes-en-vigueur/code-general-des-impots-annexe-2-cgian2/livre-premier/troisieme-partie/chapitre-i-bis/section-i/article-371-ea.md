@@ -2,7 +2,7 @@
 
 Les statuts des centres doivent contenir des stipulations selon lesquelles les centres s'engagent :
 
-1° A ne faire aucune publicité directe ou indirecte, sauf dans les journaux et bulletins professionnels, et, en ce qui concerne les centres de gestion bénéficiant de l'une des habilitations prévues à l'article 371 I, à se conformer aux dispositions de l'article 23 de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable ;
+1° S'ils ont recours à la publicité, à ne pas porter atteinte à l'indépendance, à la dignité et à l'honneur de l'institution, pas plus qu'aux règles du secret professionnel, à la loyauté envers les adhérents et les autres centres se livrant à la même activité, quel que soit le support utilisé, et à ne pas avoir recours au démarchage ou à toute autre forme de sollicitation ;
 
 2° A faire figurer sur leur correspondance et sur tous les documents établis par leurs soins leur qualité de centres de gestion agréés et les références de la décision d'agrément ;
 
@@ -10,4 +10,6 @@ Les statuts des centres doivent contenir des stipulations selon lesquelles les c
 
 4° A souscrire un contrat auprès d'une société d'assurance ou d'un assureur agréé en application du livre III du code des assurances les garantissant contre les conséquences pécuniaires de la responsabilité civile professionnelle qu'ils peuvent encourir en raison des négligences et fautes commises dans l'exercice de leurs activités ;
 
-5° Au cas où l'agrément leur serait retiré, à en informer leurs adhérents dès réception de la notification de la décision de retrait.
+5° Au cas où l'agrément leur serait retiré, à en informer leurs adhérents dès réception de la notification de la décision de retrait ;
+
+6° A réclamer une cotisation dont le montant est identique, pour l'ensemble des adhérents. Toutefois la cotisation réclamée aux adhérents relevant des régimes prévus aux articles 64 à 65 B ou 50-0 du code général des impôts peut être réduite.
