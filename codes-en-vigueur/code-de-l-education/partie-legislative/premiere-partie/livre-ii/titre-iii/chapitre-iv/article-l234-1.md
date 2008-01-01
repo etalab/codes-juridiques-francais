@@ -6,4 +6,4 @@ La présidence est exercée par le représentant de l'Etat ou le représentant d
 
 Ce conseil peut siéger en formations restreintes.
 
-Un décret en Conseil d'Etat précise notamment l'organisation et les compétences de ce conseil. Ce décret peut comporter les adaptations rendues nécessaires par l'organisation particulière de Paris, de la Corse et des départements d'outre-mer.
+Un décret en Conseil d'Etat précise notamment l'organisation et les compétences de ce conseil. Ce décret peut comporter les adaptations rendues nécessaires par l'organisation particulière de Paris, de la Corse       des départements d'outre-mer et de Mayotte.

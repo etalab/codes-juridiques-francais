@@ -3,4 +3,4 @@
 - [Titre préliminaire : Organisation portuaire.](titre-preliminaire)
 - [Titre Ier : Ports autonomes.](titre-ier)
 - [Titre V : Dispositions diverses communes à tous les ports.](titre-v)
-- [Titre VI : Dispositions particulières aux ports des départements d'outre-mer](titre-vi)
+- [Titre VI : Dispositions particulières applicables aux ports des départements d'outre-mer et à Mayotte.](titre-vi)

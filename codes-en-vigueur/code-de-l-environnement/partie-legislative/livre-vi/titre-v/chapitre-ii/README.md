@@ -5,6 +5,5 @@
 - [Article L652-3](article-l652-3.md)
 - [Article L652-4](article-l652-4.md)
 - [Article L652-5](article-l652-5.md)
-- [Article L652-6](article-l652-6.md)
 - [Article L652-7](article-l652-7.md)
 - [Article L652-8](article-l652-8.md)
