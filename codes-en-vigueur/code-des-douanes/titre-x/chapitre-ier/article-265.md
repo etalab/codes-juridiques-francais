@@ -1,6 +1,6 @@
 # Article 265
 
-1. - Les huiles minérales reprises aux tableaux B et C ci-après sont passibles d'une taxe intérieure de consommation dont le tarif est fixé comme suit :
+1.-Les produits énergétiques repris aux tableaux B et C ci-après, mis en vente, utilisés ou destinés à être utilisés comme carburant ou combustible sont passibles d'une taxe intérieure de consommation dont les tarifs sont fixés comme suit :
 
 Tableau A (abrogé par l'article 43 de la loi de finances rectificative n° 92-1476 du 31 décembre 1992).
 
@@ -8,163 +8,1342 @@ Tableau B : Produits pétroliers et assimilés.
 
 1. Nomenclature et tarif.
 
-Code NC, désignation des produits, indice d'identification, unité de perception et quotité (en euros)
-
-Ex 2706-00, Goudrons de houille, de lignite ou de tourbe et autres goudrons minéraux, même déshydratés ou étêtés, y compris les goudrons reconstitués, utilisés comme combustibles : indice 1, 100 kg net, 1,22.
-
-2705-50, Mélanges à forte teneur en hydrocarbures aromatiques distillant 65 % ou plus de leur volume à 250° C d'après la méthode ASTM D 86, destinés à être utilisés comme carburants ou combustibles : indice 2, hectolitre ou 100 kg net, taxe intérieure selon le type de produit.
-
-2709-00, Huiles brutes de pétrole ou de minéraux bitumineux :
-
-indice 3, hectolitre ou 100 kg net, taxe intérieure selon le type de produit.
-
-2710-00, Huiles de pétrole ou de minéraux bitumineux, autres que les huiles brutes ; préparations non dénommées ni comprises ailleurs, contenant en poids 70 % ou plus d'huiles de pétrole ou de minéraux bitumineux et dont ces huiles constituent l'élément de base :
-
-1° Huiles légères, indice 4 bis, hectolitre, taxe intérieure applicable au fioul domestique visé à l'indice 20.
-
-a) Essences spéciales.
-
-. White spirit :
-
-destinées à être utilisées comme combustible.
-
-autre : indice 5, exemption.
-
-. Autres essences spéciales :
-
-destinées à être utilisées comme carburants ou combustibles :
-
-indice 6, hectolitre, taxe intérieure applicable au supercarburant visé à l'indice 11.
-
-autres : indice 9, exemption.
-
-b) Autres huiles légères.
-
-. Essences pour moteur :
-
-essences d'aviation : indice 10, hectolitre, 32,36.
-
-supercarburant d'une teneur en plomb n'excédant pas 0,005 g/litre, autre que le supercarburant correspondant à l'indice d'identification n° 11 bis : indice 11, hectolitre, 60,69.
-
-supercarburant sans plomb contenant un additif spécifique améliorant les caractéristiques antirécession de soupape :
-
-indice 11 bis, hectolitre, 63,96.
-
-carburéacteurs, type essence :
-
-sous condition d'emploi : indice 13, hectolitre, 2,54.
-
-autres : indice 13 bis, hectolitre, taxe intérieure applicable au supercarburant visé à l'indice 11.
-
-. Autres essences : indice 15, hectolitre, taxe intérieure applicable au supercarburant visé à l'indice 11.
-
-Ex 3824 90 99
-
-- Superéthanol E85
-
--- destiné à être utilisé comme carburant
-
-55
-
-hectolitre
-
-33,43
-
-2° Huiles moyennes.
-
-a) Pétrole lampant :
-
-sous condition d'emploi : indice 15 bis, hectolitre, taxe intérieure FOD.
-
-autre : indice 16, hectolitre, taxe intérieure gazole.
-
-b) Carburéacteurs, type pétrole lampant :
-
-sous condition d'emploi : indice 17, hectolitre, 2,54.
-
-autre : indice 17 bis, hectolitre, taxe intérieure gazole.
-
-c) Autres huiles moyennes : indice 18, hectolitre, taxe intérieure gazole.
-
-3° Huiles lourdes.
-
-a) Gazole :
-
-sous conditions d'emploi (fioul domestique) : indice 20, hectolitre, 5,66.
-
-présentant un point d'éclair inférieur à 120 °C : indice 22, hectolitre, 42,84.
-
-autre : indice 23, hectolitre, exemption.
-
-fioul lourd : indice 24, 100 kg net, 1,85.
-
-b) Huiles lubrifiantes et autres : indice 29, exemption.
-
-2711-12, Propane liquéfié (à l'exclusion du propane d'une pureté égale ou supérieure à 99 %) :
-
-destiné à être utilisé comme carburant, y compris le mélange spécial de butane et de propane dans lequel le propane représente plus de 50 % en poids :
-
-sous condition d'emploi : indice 30 bis, 100 kg net, 4,68.
-
-autre : indice 30 ter, 100 kg net, 10,76.
-
-destiné à d'autres usages : indice 31, exemption.
-
-2711-13, Butanes liquéfiés :
-
-destinés à être utilisés comme carburant, y compris le mélange spécial de butane et de propane dans lequel le butane représente au moins 50 % en poids :
-
-sous condition d'emploi : indice 31 bis, 100 kg net, taxe intérieure applicable aux produits visés à l'indice 30 bis.
-
-autres : indice 31 ter, 100 kg net, taxe intérieure applicable aux produits visés à l'indice 30 ter.
-
-destinés à d'autres usages : indice 32, exemption.
-
-2711-14, Ethylène, propylène, butylène et butadiène : indice 33, exemption.
-
-2711-19, Autres gaz liquéfiés :
-
-destinés à être utilisés comme carburant :
-
-sous condition d'emploi : indice 33 bis, 100 kg net, taxe intérieure applicable aux produits visés à l'indice 30 bis.
-
-autre : indice 34, 100 kg net, taxe intérieure applicable aux produits visés à l'indice 30 ter.
-
-non dénommés : indice 35, exemption.
-
-Ex 2711-21, Gaz naturel comprimé destiné à être utilisé comme carburant : indice 36, 100 mètres cubes, 8,47.
-
-2711-29, Autres gaz de pétrole et autres hydrocarbures présentés à l'état gazeux :
-
-destinés à être utilisés comme carburant : indice 38 bis, 100 mètres cubes, taxe intérieure GNV.
-
-destinés à d'autres usages : indice 39, exemption.
-
-2712-10, Vaseline : indice 40, exemption.
-
-2712-20, Paraffine contenant en poids moins de 0,75 % d'huile :
-
-indice 41, exemption.
-
-Ex 2712-90, Paraffine (autre que celle visée au 2712-20), cires de pétrole et résidus paraffineux, même colorés : indice 42, exemption.
-
-Ex 2715-00, Bitumes fluxés ("cut-backs"), émulsions de bitume de pétrole et similaires : indice 47, exemption.
-
-3403-11, Préparations pour le traitement des matières textiles, du cuir, des pelleteries ou d'autres matières, contenant moins de 70 % en poids d'huiles de pétrole ou de minéraux bitumineux : indice 48, exemption.
-
-Ex 3403-19, Préparations lubrifiantes contenant moins de 70 % en poids d'huiles de pétrole ou de minéraux bitumineux : indice 49, exemption.
-
-3811 21-00, Additifs pour huiles lubrifiantes, contenant des huiles de pétrole ou de minéraux bitumineux : indice 51, exemption.
-
-Ex 3824-90-95, Emulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la teneur en eau est égale ou supérieure à 7 % en volume sans dépasser 20 % en volume :
-
-sous condition d'emploi : indice 52, hectolitre, 1,80.
-
-autre, destinée à être utilisée comme carburant : indice 53, hectolitre, 24,54.
-
-autre, destinée à un usage autre que carburant ou combustible :
-
-indice 54, hectolitre, exemption.
+<table>
+<tbody>
+<tr>
+<th>
+<br/>DÉSIGNATION DES PRODUITS <br/>
+</th>
+<th>
+<br/>INDICE <p>d'identification <br/>
+</p>
+</th>
+<th>
+<br/>UNITÉ <p>de perception <br/>
+</p>
+</th>
+<th>
+<br/>TARIF <br/>
+</th>
+</tr>
+<tr>
+<th>
+<br/>(Numéros du tarif des douanes) <br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>(en euros) <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>1 + 2 <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ex 2706-00<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-Goudrons de houille, de lignite ou de tourbe et autres goudrons minéraux, même déshydratés ou étêtés, y compris les goudrons reconstitués, utilisés comme combustibles. <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>100 kg net. <br/>
+</td>
+<td align="center">
+<br/>1,50. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ex 2707-50<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-Mélanges à forte teneur en hydrocarbures aromatiques distillant 65 % ou plus de leur volume (y compris les pertes) à 250° C d'après la méthode ASTM D 86, destinés à être utilisés comme carburants ou combustibles. <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>Hectolitre ou 100 kg net suivant les caractéristiques du produit. <br/>
+</td>
+<td align="center">
+<br/>Taxe intérieure applicable aux huiles légères ou moyennes du 2710, suivant les caractéristiques du produit. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2709-00<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-Huiles brutes de pétrole ou de minéraux bitumineux. <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>Hectolitre ou 100 kg net suivant les caractéristiques du produit. <br/>
+</td>
+<td align="center">
+<br/>Taxe intérieure applicable aux huiles légères, moyennes ou lourdes du 2710, suivant les caractéristiques du produit. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2710<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-Huiles de pétrole ou de minéraux bitumineux, autres que les huiles brutes ; préparations non dénommées ni comprises ailleurs, contenant en poids 70 % ou plus d'huiles de pétrole ou de minéraux bitumineux et dont ces huiles constituent l'élément de base, autres que les déchets :<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>--huiles légères et préparations :<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>---essences spéciales :<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>----White spirit destiné à être utilisé comme combustible ; <br/>
+</td>
+<td align="center">
+<br/>4 bis <br/>
+</td>
+<td align="center">
+<br/>Hectolitre. <br/>
+</td>
+<td align="center">
+<br/>5,66.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>----autres essences spéciales :<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-----destinées à être utilisées comme carburants ou combustibles ; <br/>
+</td>
+<td align="center">
+<br/>6 <br/>
+</td>
+<td align="center">
+<br/>Hectolitre. <br/>
+</td>
+<td align="center">
+<br/>58,92.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-----autres. <br/>
+</td>
+<td align="center">
+<br/>9 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Exemption.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>---autres huiles légères et préparations :<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>----essences pour moteur :<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-----essence d'aviation ; <br/>
+</td>
+<td align="center">
+<br/>10 <br/>
+</td>
+<td align="center">
+<br/>Hectolitre. <br/>
+</td>
+<td align="center">
+<br/>35,90.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-----supercarburant d'une teneur en plomb n'excédant pas 0,005 g / litre, autre que le supercarburant correspondant à l'indice d'identi-fication n° 11 bis ; <br/>
+</td>
+<td align="center">
+<br/>11 <br/>
+</td>
+<td align="center">
+<br/>Hectolitre. <br/>
+</td>
+<td align="center">
+<br/>60,69.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-----supercarburant d'une teneur en plomb n'excédant pas 0,005 g / litre, contenant un additif spécifique améliorant les caractéristiques antirécession de soupape (ARS), à base de potassium, ou tout autre additif reconnu de qualité équivalente dans un autre Etat membre de la Communauté européenne ou dans un autre Etat membre de l'Espace économique européen. <br/>
+</td>
+<td align="center">
+<br/>11 bis <br/>
+</td>
+<td align="center">
+<br/>Hectolitre. <br/>
+</td>
+<td align="center">
+<br/>63,96.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>----carburéacteurs, type essence :<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-----sous condition d'emploi ; <br/>
+</td>
+<td align="center">
+<br/>13 <br/>
+</td>
+<td align="center">
+<br/>Hectolitre. <br/>
+</td>
+<td align="center">
+<br/>2,54.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-----carburant pour moteurs d'avions ; <br/>
+</td>
+<td align="center">
+<br/>13 bis <br/>
+</td>
+<td align="center">
+<br/>Hectolitre. <br/>
+</td>
+<td align="center">
+<br/>30,20.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-----autres. <br/>
+</td>
+<td align="center">
+<br/>13 ter <br/>
+</td>
+<td align="center">
+<br/>Hectolitre. <br/>
+</td>
+<td align="center">
+<br/>58,92.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>----autres huiles légères. <br/>
+</td>
+<td align="center">
+<br/>15 <br/>
+</td>
+<td align="center">
+<br/>Hectolitre. <br/>
+</td>
+<td align="center">
+<br/>58,92.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>--huiles moyennes :<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>---Pétrole lampant :<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>----destiné à être utilisé comme combustible : <br/>
+</td>
+<td align="center">
+<br/>15 bis <br/>
+</td>
+<td align="center">
+<br/>Hectolitre. <br/>
+</td>
+<td align="center">
+<br/>5,66.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-----autres. <br/>
+</td>
+<td align="center">
+<br/>16 <br/>
+</td>
+<td align="center">
+<br/>Hectolitre. <br/>
+</td>
+<td align="center">
+<br/>41,69.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>---carburéacteurs, type pétrole lampant :<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>----sous condition d'emploi ; <br/>
+</td>
+<td align="center">
+<br/>17 <br/>
+</td>
+<td align="center">
+<br/>Hectolitre. <br/>
+</td>
+<td align="center">
+<br/>2,54.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>----carburant pour moteurs d'avions. <br/>
+</td>
+<td align="center">
+<br/>17 bis <br/>
+</td>
+<td align="center">
+<br/>Hectolitre. <br/>
+</td>
+<td align="center">
+<br/>30,2.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>---autres. <br/>
+</td>
+<td align="center">
+<br/>17 ter <br/>
+</td>
+<td align="center">
+<br/>Hectolitre. <br/>
+</td>
+<td align="center">
+<br/>41,69.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>---autres huiles moyennes. <br/>
+</td>
+<td align="center">
+<br/>18 <br/>
+</td>
+<td align="center">
+<br/>Hectolitre. <br/>
+</td>
+<td align="center">
+<br/>41,69.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>--huiles lourdes :<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>---gazole :<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>----destiné à être utilisé comme carburant sous condition d'emploi ; <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+<td align="center">
+<br/>Hectolitre. <br/>
+</td>
+<td align="center">
+<br/>5,66.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>----fioul domestique ; <br/>
+</td>
+<td align="center">
+<br/>21 <br/>
+</td>
+<td align="center">
+<br/>Hectolitre. <br/>
+</td>
+<td align="center">
+<br/>5,66.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>----autres ; <br/>
+</td>
+<td align="center">
+<br/>22 <br/>
+</td>
+<td align="center">
+<br/>Hectolitre. <br/>
+</td>
+<td align="center">
+<br/>42,84.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>----fioul lourd. <br/>
+</td>
+<td align="center">
+<br/>24 <br/>
+</td>
+<td align="center">
+<br/>100 kg net. <br/>
+</td>
+<td align="center">
+<br/>1,85.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>---huiles lubrifiantes et autres. <br/>
+</td>
+<td align="center">
+<br/>29 <br/>
+</td>
+<td align="center">
+<br/>Hectolitre. <br/>
+</td>
+<td align="center">
+<br/>Taxe intérieure applicable conformément au 3 du présent article. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2711-12<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-Propane, à l'exclusion du propane d'une pureté égale ou supérieure à 99 % :<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>--destiné à être utilisé comme carburant (y compris le mélange spécial de butane et de propane dans lequel le propane représente plus de 50 % en poids) :<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>---sous condition d'emploi. <br/>
+</td>
+<td align="center">
+<br/>30 bis <br/>
+</td>
+<td align="center">
+<br/>100 kg net. <br/>
+</td>
+<td align="center">
+<br/>4,68.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>--autres ; <br/>
+</td>
+<td align="center">
+<br/>30 ter <br/>
+</td>
+<td align="center">
+<br/>100 kg net. <br/>
+</td>
+<td align="center">
+<br/>10,76.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>--destiné à d'autres usages. <br/>
+</td>
+<td align="center">
+<br/>31 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Exemption. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2711-13<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-Butanes liquéfiés :<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>--destinés à être utilisés comme carburant (y compris le mélange spécial de butane et de propane dans lequel le butane représente au moins 50 % en poids) :<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>---sous condition d'emploi ; <br/>
+</td>
+<td align="center">
+<br/>31 bis <br/>
+</td>
+<td align="center">
+<br/>100 kg net. <br/>
+</td>
+<td align="center">
+<br/>4,68.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>---autres. <br/>
+</td>
+<td align="center">
+<br/>31 ter <br/>
+</td>
+<td align="center">
+<br/>100 kg net. <br/>
+</td>
+<td align="center">
+<br/>10,76.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>--destinés à d'autres usages. <br/>
+</td>
+<td align="center">
+<br/>32 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Exemption. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2711-14<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-Ethylène, propylène, butylène et butadiène. <br/>
+</td>
+<td align="center">
+<br/>33 <br/>
+</td>
+<td align="center">
+<br/>100 kg net. <br/>
+</td>
+<td align="center">
+<br/>Taxe intérieure applicable conformément au 3 du présent article. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2711-19<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-Autres gaz de pétrole liquéfiés :<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>--destinés à être utilisés comme carburant :<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>---sous condition d'emploi ; <br/>
+</td>
+<td align="center">
+<br/>33 bis <br/>
+</td>
+<td align="center">
+<br/>100 kg net. <br/>
+</td>
+<td align="center">
+<br/>4,68.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>---autres. <br/>
+</td>
+<td align="center">
+<br/>34 <br/>
+</td>
+<td align="center">
+<br/>100 kg net. <br/>
+</td>
+<td align="center">
+<br/>10,76. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2711-21<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-Gaz naturel à l'état gazeux :<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>--destiné à être utilisé comme carburant ; <br/>
+</td>
+<td align="center">
+<br/>36 <br/>
+</td>
+<td align="center">
+<br/>100 m ³. <br/>
+</td>
+<td align="center">
+<br/>0.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>--destiné, sous condition d'emploi, à alimenter des moteurs stationnaires, y compris dans le cadre d'essais. <br/>
+</td>
+<td align="center">
+<br/>36 bis <br/>
+</td>
+<td align="center">
+<br/>100 m ³. <br/>
+</td>
+<td align="center">
+<br/>0. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2711-29<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-Autres gaz de pétrole et autres hydrocarbures présentés à l'état gazeux : <br/>
+</td>
+<td align="center">
+<br/>38 bis <br/>
+</td>
+<td align="center">
+<br/>100 m ³. <br/>
+</td>
+<td align="center">
+<br/>Taxe intérieure applicable aux produits visés aux indices 36 et 36 bis, selon qu'il est ou non utilisé sous condition d'emploi.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>--destinés à être utilisés comme carburant ;<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>--destinés à d'autres usages. <br/>
+</td>
+<td align="center">
+<br/>39 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Exemption. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2712-10<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-Vaseline. <br/>
+</td>
+<td align="center">
+<br/>40 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Taxe intérieure applicable conformément au 3 du présent article. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2712-20<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-Paraffine contenant en poids moins de 0,75 % d'huile. <br/>
+</td>
+<td align="center">
+<br/>41 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Taxe intérieure applicable conformément au 3 du présent article. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ex 2712-90<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-Paraffine (autre que celle visée au 2712-20), cires de pétrole et résidus paraffineux, même colorés. <br/>
+</td>
+<td align="center">
+<br/>42 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Taxe intérieure applicable conformément au 3 du présent article. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2713-20<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-Bitume de pétrole. <br/>
+</td>
+<td align="center">
+<br/>46 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Taxe intérieure applicable conformément au 3 du présent article. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2713-90<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-Autres résidus des huiles de pétrole ou de minéraux bitumineux : <br/>
+</td>
+<td align="center">
+<br/>46 bis <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Taxe intérieure applicable conformément au 3 du présent article.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>--autres. <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2715-00<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-Mélange bitumeux à base d'asphalte ou de bitume naturel, de bitume de pétrole, de goudron minéral ou de brai de goudron minéral. <br/>
+</td>
+<td align="center">
+<br/>47 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Taxe intérieure applicable conformément au 3 du présent article. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3403-11<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-Préparations pour le traitement des matières textiles, du cuir, des pelleteries ou d'autres matières, contenant moins de 70 % en poids d'huiles de pétrole ou de minéraux bitumineux. <br/>
+</td>
+<td align="center">
+<br/>48 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Taxe intérieure applicable conformément au 3 du présent article. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ex 3403-19<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-Préparations lubrifiantes contenant moins de 70 % en poids d'huiles de pétrole ou de minéraux bitumineux. <br/>
+</td>
+<td align="center">
+<br/>49 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Taxe intérieure applicable conformément au 3 du présent article. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3811-21<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-Additifs pour huiles lubrifiantes, contenant des huiles de pétrole ou de minéraux bitumineux. <br/>
+</td>
+<td align="center">
+<br/>51 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Taxe intérieure applicable conformément au 3 du présent article. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ex 3824-90-98<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-Emulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la teneur en eau est égale ou supérieure à 7 % en volume sans dépasser 20 % en volume, destinée à être utilisée comme carburant :<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>--sous condition d'emploi. <br/>
+</td>
+<td align="center">
+<br/>52 <br/>
+</td>
+<td align="center">
+<br/>Hectolitre. <br/>
+</td>
+<td align="center">
+<br/>2,1.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-autres. <br/>
+</td>
+<td align="center">
+<br/>53 <br/>
+</td>
+<td align="center">
+<br/>Hectolitre. <br/>
+</td>
+<td align="center">
+<br/>30,2. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ex 3824-90-98<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>-Superéthanol E 85 destiné à être utilisé comme carburant. <br/>
+</td>
+<td align="center">
+<br/>55 <br/>
+</td>
+<td align="center">
+<br/>Hectolitre. <br/>
+</td>
+<td align="center">
+<br/>28,33. <br/>
+</td>
+</tr>
+</tbody>
+</table>
 
 2. Règles d'application.
 
@@ -176,7 +1355,7 @@ Pour le méthane, le gaz naturel et les autres hydrocarbures présentés à l'é
 
 d) (alinéa abrogé).
 
-Tableau C : Autres huiles minérales.
+Tableau C : Autres produits énergétiques.
 
 1. Définition (division abrogée).
 
@@ -186,51 +1365,146 @@ Les produits visés au présent tableau sont exemptés de la taxe intérieure de
 
 3. Nomenclature.
 
-Code NC, désignation des produits, indice d'identification
-
-Ex 2706, Goudrons de houille, de lignite ou de tourbe et autres goudrons minéraux, même déshydratés ou étêtés, y compris les goudrons reconstitués, destinés à des usages autres que combustibles.
-
-2707-10, Benzols, indice 1.
-
-2707-20, Toluols, indice 2.
-
-2707-30, Xylois, indice 3.
-
-2707-50-91 et 2707-50-99, Solvant-naphta et autres mélanges à forte teneur en hydrocarbures aromatiques distillant 65 % ou plus de leur volume (y compris les pertes) à 250° C d'après la méthode ASTM D 86, destinés à des usages autres que carburants ou combustibles, indice 4.
-
-2707-91-00, Huiles de créosote.
-
-2707-99-11, Huiles légères brutes distillant 90 % ou plus de leur volume jusqu'à 200° C.
-
-2707-99-19, Autres huiles brutes.
-
-Ex 2711-12, Propane liquéfié d'une pureté égale ou supérieure à 99 %.
-
-Ex 2715-00, Mélanges bitumineux autres que les bitumes fluxés, émulsions de bitume de pétrole et similaires.
-
-2901, Hydrocarbures acycliques.
-
-2902-11, Cyclohexane, indice 12.
-
-Ex 2902-19, Autres hydrocarbures cyclaniques et cycléniques (à l'exclusion de l'azulène et de ses dérivés alkylés), indice 13.
-
-2902-20, Benzène, indice 14.
-
-2902-30, Toluène, indice 15.
-
-2902-41-00, O-xylène, indice 16.
-
-2902-42-00, M-xylène, indice 17.
-
-2902-43-00, P-xylène, indice 18.
-
-2902-44, Isomères du xylène en mélange, indice 19.
-
-3403-19-10, Préparation contenant en poids 70 % ou plus d'huiles de pétrole ou de minéraux bitumineux non considérés comme constituants de base.
-
-Ex 3811, Préparations antidétonantes, inhibiteurs d'oxydation, additifs peptisants, améliorants de viscosité, additifs anticorrosifs et autres additifs préparés pour huiles minérales ou autres liquides utilisés aux mêmes fins (à l'exclusion des produits repris au 38 11 21 00).
-
-3817, Alkylbenzènes en mélange et alkylnaphtalène en mélange, autres que ceux des positions 27 07 ou 29 02.
+<table>
+<tbody>
+<tr>
+<th>
+<br/>NUMÉROS DU TARIF DES DOUANES <br/>
+</th>
+<th>
+<br/>DÉSIGNATION DES PRODUITS <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>1507 à 1518. <br/>
+</td>
+<td align="center">
+<br/>Huiles végétales, graisses et huiles animales, fractions d'huiles végétales et animales. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2705-00. <br/>
+</td>
+<td align="center">
+<br/>Gaz de houille, gaz à l'eau, gaz pauvre et gaz similaires, à l'exclusion des gaz de pétrole et autres hydrocarbures gazeux. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2707. <br/>
+</td>
+<td align="center">
+<br/>Huiles et autres produits provenant de la distillation des goudrons de houille de haute température ; produits analogues dans lesquels les constituants aromatiques prédominent en poids par rapport aux constituants non aromatiques. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ex 2710. <br/>
+</td>
+<td align="center">
+<br/>Déchets d'huile. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2708. <br/>
+</td>
+<td align="center">
+<br/>Brai et coke de brai de goudron de houille ou d'autres goudrons minéraux. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ex 2711-12. <br/>
+</td>
+<td align="center">
+<br/>Propane liquéfié d'une pureté égale ou supérieure à 99 %. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ex 2712. <br/>
+</td>
+<td align="center">
+<br/>Slack wax, ozokérite, cire de lignite, cire de tourbe, autres cires minérales et produits similaires obtenus par synthèse ou par d'autres procédés, même colorés. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ex 2713. <br/>
+</td>
+<td align="center">
+<br/>Coke de pétrole. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2714. <br/>
+</td>
+<td align="center">
+<br/>Bitumes et asphaltes, naturels, schistes et sables bitumineux ; asphaltites et roches asphaltiques. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2901. <br/>
+</td>
+<td align="center">
+<br/>Hydrocarbures acycliques. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2902. <br/>
+</td>
+<td align="center">
+<br/>Hydrocarbures cycliques. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2905 11. <br/>
+</td>
+<td align="center">
+<br/>Méthanol (alcool méthylique) qui n'est pas d'origine synthétique. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3403. <br/>
+</td>
+<td align="center">
+<br/>Préparations lubrifiantes et préparations des types utilisés pour l'ensimage des matières textiles, l'huilage ou le graissage du cuir, des pelleteries ou d'autres matières, à l'exclusion de celles contenant comme constituants de base moins de 70 % en poids d'huiles de pétrole ou de minéraux bitumeux. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3811. <br/>
+</td>
+<td align="center">
+<br/>Préparations antidétonantes, inhibiteurs d'oxydation, additifs peptisants, améliorants de viscosité, additifs anticorrosifs et autres additifs préparés pour huiles minérales (y compris l'essence) ou autres liquides utilisés aux même fins que les huiles minérales. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3817. <br/>
+</td>
+<td align="center">
+<br/>Alkylbenzènes, en mélanges et alkylnaphtalène en mélange, autres que ceux des positions 2707 ou 2902. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3824-90-98. <br/>
+</td>
+<td align="center">
+<br/>Tous produits de la position. <br/>
+</td>
+</tr>
+</tbody>
+</table>
 
 2. Une réfaction peut être effectuée sur les taux de taxe intérieure de consommation applicable au supercarburant repris à l'indice d'identification 11 et au gazole repris à l'indice d'identification 22.
 
@@ -240,9 +1514,9 @@ A compter du 1er janvier 2007, les conseils régionaux et l'assemblée de Corse 
 
 Les délibérations des conseils régionaux et de l'assemblée de Corse ne peuvent intervenir qu'une fois par an et au plus tard le 30 novembre de l'année qui précède l'entrée en vigueur du tarif modifié. Elles sont notifiées à la direction générale des douanes et droits indirects, qui procède à la publication des tarifs de la taxe intérieure de consommation ainsi modifiés au plus tard à la fin de la première quinzaine du mois de décembre suivant. Les tarifs modifiés de la taxe intérieure de consommation entrent en vigueur le 1er janvier de l'année suivante.
 
-3. - Tout produit destiné à être utilisé, mis en vente ou utilisé comme carburant pour moteur ou comme additif ou en vue d'accroitre le volume final des carburants pour moteur est assujetti à la taxe intérieure de consommation au taux applicable au carburant dans lequel il est incorporé ou auquel il se substitue.
+3. Tout produit autre que ceux pour lesquels un tarif de taxe intérieure de consommation est prévu au tableau B du 1, destiné à être utilisé, mis en vente ou utilisé comme carburant pour moteur ou comme additif en vue d'accroître le volume final des carburants pour moteur est assujetti à la taxe intérieure de consommation au taux applicable au carburant équivalent ou au carburant dans lequel il est incorporé.
 
-Tout hydrocarbure destiné à être utilisé, mis en vente ou utilisé pour le chauffage est soumis à la taxe intérieure de consommation au taux prévu pour les combustibles auxquels il se substitue. Cette disposition ne s'applique ni aux hydrocarbures solides tels que le charbon, le lignite, la tourbe et similaires, ni au gaz naturel.
+A l'exclusion de la tourbe reprise au code NC 2703 de la nomenclature douanière, tout hydrocarbure autre que ceux pour lesquels un tarif de taxe intérieure de consommation est prévu par le présent code ou tout produit mentionné au tableau C du 1, mis en vente, utilisé ou destiné à être utilisé comme combustible, est soumis à la taxe intérieure de consommation au taux applicable pour le combustible équivalent, prévue au présent article et aux articles 266 quinquies et 266 quinquies B.
 
 4. A compter du 1er janvier 2007, les personnes physiques ou morales qui vendent, en régime de droits acquittés, des carburants visés aux indices d'identification 11 et 22 dans des régions ou collectivités territoriales où le taux de la taxe intérieure de consommation diffère du taux appliqué lors de la mise à la consommation :
 

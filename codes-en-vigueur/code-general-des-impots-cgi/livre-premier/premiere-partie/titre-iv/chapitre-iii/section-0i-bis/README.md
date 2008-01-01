@@ -4,4 +4,3 @@
 - [Article 990 E](article-990-e.md)
 - [Article 990 F](article-990-f.md)
 - [Article 990 G](article-990-g.md)
-- [Article 990 H](article-990-h.md)
