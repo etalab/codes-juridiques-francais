@@ -1,5 +1,7 @@
-# Section 1 : Publicité.
+# Section 1 : Pratiques commerciales trompeuses et publicité
 
+- [Sous-section 1 : Pratiques commerciales trompeuses](sous-section-1)
+- [Sous-section 2 : Publicité](sous-section-2)
 - [Article L121-1](article-l121-1.md)
 - [Article L121-2](article-l121-2.md)
 - [Article L121-3](article-l121-3.md)

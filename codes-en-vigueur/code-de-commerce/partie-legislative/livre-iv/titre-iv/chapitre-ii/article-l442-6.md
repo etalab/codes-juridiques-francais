@@ -6,7 +6,7 @@ I. - Engage la responsabilité de son auteur et l'oblige à réparer le préjudi
 
 2° a) D'obtenir ou de tenter d'obtenir d'un partenaire commercial un avantage quelconque ne correspondant à aucun service commercial effectivement rendu ou manifestement disproportionné au regard de la valeur du service rendu. Un tel avantage peut notamment consister en la participation, non justifiée par un intérêt commun et sans contrepartie proportionnée, au financement d'une opération d'animation commerciale, d'une acquisition ou d'un investissement, en particulier dans le cadre de la rénovation de magasins ou encore du rapprochement d'enseignes ou de centrales de référencement ou d'achat. Un tel avantage peut également consister en une globalisation artificielle des chiffres d'affaires ou en une demande d'alignement sur les conditions commerciales obtenues par d'autres clients ;
 
-b) D'abuser de la relation de dépendance dans laquelle il tient un partenaire ou de sa puissance d'achat ou de vente en le soumettant à des conditions commerciales ou obligations injustifiées. Le fait de lier l'exposition à la vente de plus d'un produit à l'octroi d'un avantage quelconque constitue un abus de puissance de vente ou d'achat dès lors qu'il conduit à entraver l'accès des produits similaires aux points de vente ;
+b) D'abuser de la relation de dépendance dans laquelle il tient un partenaire ou de sa puissance d'achat ou de vente en le soumettant à des conditions commerciales ou obligations injustifiées, notamment en lui imposant des pénalités disproportionnées au regard de l'inexécution d'engagements contractuels. Le fait de lier l'exposition à la vente de plus d'un produit à l'octroi d'un avantage quelconque constitue un abus de puissance de vente ou d'achat dès lors qu'il conduit à entraver l'accès des produits similaires aux points de vente ;
 
 3° D'obtenir ou de tenter d'obtenir un avantage, condition préalable à la passation de commandes, sans l'assortir d'un engagement écrit sur un volume d'achat proportionné et, le cas échéant, d'un service demandé par le fournisseur et ayant fait l'objet d'un accord écrit ;
 
@@ -18,7 +18,9 @@ b) D'abuser de la relation de dépendance dans laquelle il tient un partenaire o
 
 7° De soumettre un partenaire à des conditions de règlement manifestement abusives, compte tenu des bonnes pratiques et usages commerciaux, et s'écartant au détriment du créancier, sans raison objective, du délai indiqué au huitième alinéa de l'article L. 441-6 ;
 
-8° De procéder au refus ou retour de marchandises ou de déduire d'office du montant de la facture établie par le fournisseur les pénalités ou rabais correspondant au non-respect d'une date de livraison ou à la non-conformité des marchandises, lorsque la dette n'est pas certaine, liquide et exigible, sans même que le fournisseur n'ait été en mesure de contrôler la réalité du grief correspondant.
+8° De procéder au refus ou retour de marchandises ou de déduire d'office du montant de la facture établie par le fournisseur les pénalités ou rabais correspondant au non-respect d'une date de livraison ou à la non-conformité des marchandises, lorsque la dette n'est pas certaine, liquide et exigible, sans même que le fournisseur n'ait été en mesure de contrôler la réalité du grief correspondant ;
+
+9° De ne pas communiquer ses conditions générales de vente, dans les conditions prévues à l'article L. 441-6, à tout acheteur de produits ou tout demandeur de prestations de services qui en fait la demande pour l'exercice d'une activité professionnelle.
 
 II. - Sont nuls les clauses ou contrats prévoyant pour un producteur, un commerçant, un industriel ou une personne immatriculée au répertoire des métiers, la possibilité :
 
