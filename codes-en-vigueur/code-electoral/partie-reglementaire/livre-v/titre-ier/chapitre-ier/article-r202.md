@@ -8,9 +8,13 @@ Pour l'application des dispositions du présent code en Polynésie française, i
 
 3° "Services du haut-commissaire", au lieu de : "préfecture" ;
 
-4° "Secrétaire général du haut-commissariat", au lieu de : "Secrétaire général de préfecture" ;
+4° "Secrétaire général du haut-commissariat", au lieu de :
 
-5° "Services du chef de subdivision administrative", au lieu de : "sous-préfecture" ;
+"Secrétaire général de préfecture" ;
+
+5° "Services du chef de subdivision administrative", au lieu de :
+
+"sous-préfecture" ;
 
 6° "Subdivision administrative", au lieu de : "arrondissement", et : "chef de subdivision administrative", au lieu de :
 
@@ -28,8 +32,10 @@ Pour l'application des dispositions du présent code en Polynésie française, i
 
 12° "Chambre territoriale des comptes", au lieu de : "chambre régionale des comptes" ;
 
-13° "Chef du service des affaires économiques", au lieu de : "directeur départemental des enquêtes européennes" ;
+13° "Chef du service des affaires économiques", au lieu de :
 
-14° (Abrogé) ;
+"directeur départemental des enquêtes européennes" ;
+
+14° "Un agent désigné par le directeur de l'office des postes et télécommunications de la Polynésie française" au lieu de : " Un fonctionnaire désigné par le directeur départemental des postes et télécommunications" ;
 
 15° "Archives de la Polynésie française", au lieu de : "archives départementales".
