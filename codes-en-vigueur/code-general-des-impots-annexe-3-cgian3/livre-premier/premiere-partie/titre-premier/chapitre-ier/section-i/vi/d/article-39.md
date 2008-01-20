@@ -12,8 +12,7 @@ c) Le montant de la taxe sur les salaires ;
 
 d) Pour les employeurs assujettis à la taxe d'apprentissage et à la contribution au développement de l'apprentissage conformément, respectivement, aux articles 224 et 1599 quinquies A du code général des impôts, le montant des rémunérations défini aux articles 225 et 225 A du code général des impôts ;
 
-e) Pour les employeurs assujettis à la participation au développement de la formation professionnelle continue conformément à l'article L. 952-1 du code du travail
-, le montant des rémunérations défini au premier alinéa de l'article L. 952-1 précité ainsi que, le cas échéant, le montant des rémunérations versées aux titulaires d'un contrat à durée déterminée défini au premier alinéa de l'article L. 931-20 du même code ;
+e) Pour les employeurs assujettis à la participation au développement de la formation professionnelle continue conformément à l'article L. 952-1 du code du travail, le montant des rémunérations défini au premier alinéa de l'article L. 952-1 précité ainsi que, le cas échéant, le montant des rémunérations versées aux titulaires d'un contrat à durée déterminée défini au premier alinéa de l'article L. 931-20 du même code ;
 
 2° Concernant chaque salarié rétribué l'année précédente :
 
@@ -26,6 +25,8 @@ c) La nature, la période et les conditions d'exercice de l'emploi ainsi que le 
 d) Le montant des sommes payées pendant l'année en distinguant :
 
 le montant brut des rémunérations entendu au sens des articles 231 et suivants du code général des impôts ;
+
+Le montant des salaires et éléments de rémunération afférent aux heures supplémentaires et complémentaires exonéré en application de l'article 81 quater du code général des impôts ;
 
 le total des versements en argent et en nature après déduction des cotisations ouvrières aux assurances sociales et au chômage et des retenues pour la retraite ;
 
