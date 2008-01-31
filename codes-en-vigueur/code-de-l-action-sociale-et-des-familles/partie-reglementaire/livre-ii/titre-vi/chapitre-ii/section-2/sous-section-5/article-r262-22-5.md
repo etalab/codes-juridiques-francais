@@ -1,0 +1,3 @@
+# Article R262-22-5
+
+Si le montant du train de vie évalué forfaitairement en application de l'article R. 262-22-1 est supérieur ou égal à une somme correspondant à la moitié du montant annuel du revenu minimum prévu à l'article L. 262-2, augmentée des revenus perçus, pour la période de référence, au titre, d'une part, des prestations et aides mentionnées aux articles R. 262-6 et R. 262-7, d'autre part, des rémunérations mentionnées à l'article L. 262-11, la disproportion marquée entre le train de vie et les ressources déclarées est constatée. Dans ce cas, l'évaluation forfaitaire des éléments du train de vie est prise en compte pour la détermination du droit à la prestation.
