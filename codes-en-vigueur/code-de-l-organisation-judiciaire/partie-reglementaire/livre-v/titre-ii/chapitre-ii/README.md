@@ -2,6 +2,8 @@
 
 - [Article R522-1](article-r522-1.md)
 - [Article R*522-2](article-r-522-2.md)
+- [Article R522-2-1](article-r522-2-1.md)
+- [Article R522-2-2](article-r522-2-2.md)
 - [Article R*522-3](article-r-522-3.md)
 - [Article R*522-4](article-r-522-4.md)
 - [Article R*522-5](article-r-522-5.md)
