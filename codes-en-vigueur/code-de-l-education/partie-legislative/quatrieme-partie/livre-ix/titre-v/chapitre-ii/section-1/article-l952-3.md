@@ -12,7 +12,7 @@ Les fonctions des enseignants-chercheurs s'exercent dans les domaines suivants :
 
 5° L'administration et la gestion de l'établissement.
 
-En outre, les fonctions des personnels enseignants et hospitaliers comportent une activité de soins, conformément aux articles L. 952-21 à L. 952-23.
+En outre, les fonctions des personnels enseignants et hospitaliers et des personnels enseignants de médecine générale comportent une activité de soins, conformément aux articles L. 952-21 à L. 952-23-1.
 
 Les professeurs ont la responsabilité principale de la préparation des programmes, de l'orientation des étudiants, de la coordination des équipes pédagogiques.
 
