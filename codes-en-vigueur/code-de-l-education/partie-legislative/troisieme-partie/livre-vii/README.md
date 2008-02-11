@@ -7,3 +7,4 @@
 - [Titre V : Les établissements d'enseignement supérieur spécialisés](titre-v)
 - [Titre VI : Dispositions communes](titre-vi)
 - [Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie](titre-vii)
+- [Titre VIII : Dispositions applicables aux universités implantées dans une ou plusieurs régions et départements d'outre-mer.](titre-viii)
