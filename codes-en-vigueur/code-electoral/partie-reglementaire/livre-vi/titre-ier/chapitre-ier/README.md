@@ -1,10 +1,9 @@
 # Chapitre Ier : Dispositions générales
 
-- [Article D284](article-d284.md)
-- [Article D285](article-d285.md)
-- [Article D286](article-d286.md)
-- [Article D287](article-d287.md)
-- [Article D288](article-d288.md)
-- [Article D289](article-d289.md)
-- [Article D290](article-d290.md)
-- [Article D291](article-d291.md)
+- [Article R284](article-r284.md)
+- [Article R285](article-r285.md)
+- [Article R286](article-r286.md)
+- [Article R287](article-r287.md)
+- [Article R288](article-r288.md)
+- [Article R289](article-r289.md)
+- [Article R290](article-r290.md)

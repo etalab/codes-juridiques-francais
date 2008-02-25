@@ -1,4 +1,4 @@
 # Chapitre II : Dispositions applicables à l'élection du député
 
-- [Article D292](article-d292.md)
-- [Article D293](article-d293.md)
+- [Article R291](article-r291.md)
+- [Article R292](article-r292.md)

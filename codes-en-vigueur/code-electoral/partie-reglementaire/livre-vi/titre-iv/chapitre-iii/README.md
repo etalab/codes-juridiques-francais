@@ -1,10 +1,10 @@
 # Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Pierre-et-Miquelon
 
-- [Article D349](article-d349.md)
-- [Article D350](article-d350.md)
-- [Article D351](article-d351.md)
-- [Article D352](article-d352.md)
-- [Article D353](article-d353.md)
-- [Article D354](article-d354.md)
-- [Article D355](article-d355.md)
-- [Article D356](article-d356.md)
+- [Article R339](article-r339.md)
+- [Article R340](article-r340.md)
+- [Article R341](article-r341.md)
+- [Article R342](article-r342.md)
+- [Article R343](article-r343.md)
+- [Article R344](article-r344.md)
+- [Article R345](article-r345.md)
+- [Article R346](article-r346.md)

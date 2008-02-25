@@ -1,7 +1,7 @@
 # Chapitre Ier : Dispositions générales
 
-- [Article D343](article-d343.md)
-- [Article D344](article-d344.md)
-- [Article D345](article-d345.md)
-- [Article D346](article-d346.md)
-- [Article D347](article-d347.md)
+- [Article R333](article-r333.md)
+- [Article R334](article-r334.md)
+- [Article R335](article-r335.md)
+- [Article R336](article-r336.md)
+- [Article R337](article-r337.md)

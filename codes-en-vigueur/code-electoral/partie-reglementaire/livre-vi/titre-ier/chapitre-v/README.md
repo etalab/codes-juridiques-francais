@@ -1,4 +1,3 @@
-# Chapitre V : Dispositions applicables à l'élection du sénateur de Mayotte
+# Chapitre V : Dispositions applicables à l'élection des sénateurs de Mayotte
 
-- [Article D309](article-d309.md)
-- [Article D310](article-d310.md)
+- [Article R302](article-r302.md)
