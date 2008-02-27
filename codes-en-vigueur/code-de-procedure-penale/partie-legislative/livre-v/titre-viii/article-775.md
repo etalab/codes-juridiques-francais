@@ -10,7 +10,7 @@ Le bulletin n° 2 est le relevé des fiches du casier judiciaire applicables à 
 
 4° Les condamnations assorties du bénéfice du sursis, avec ou sans mise à l'épreuve, lorsqu'elles doivent être considérées comme non avenues ; toutefois, si a été prononcé le suivi socio-judiciaire prévu par l'article 131-36-1 du code pénal ou la peine d'interdiction d'exercer une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs, la décision continue de figurer au bulletin n° 2 pendant la durée de la mesure ;
 
-6° Les condamnations auxquelles sont applicables les dispositions de l'article 343 du Code de justice militaire ;
+6° Les condamnations auxquelles sont applicables les dispositions de l'article L. 255-22 du Code de justice militaire ;
 
 7° et 8° (paragraphes abrogés) ;
 
@@ -28,7 +28,9 @@ Toutefois, si la durée de l'interdiction, déchéance ou incapacité, prononcé
 
 14° Les compositions pénales mentionnées à l'article 768 ;
 
-15° Sauf décision contraire du juge, spécialement motivée, les condamnations prononcées pour les délits prévus au titre IV du livre IV du code de commerce.
+15° Sauf décision contraire du juge, spécialement motivée, les condamnations prononcées pour les délits prévus au titre IV du livre IV du code de commerce ;
+
+16° Les décisions de déclaration d'irresponsabilité pénale pour cause de trouble mental, sauf si ont été prononcées des interdictions prévues par l'article 706-136 du présent code tant que ces interdictions n'ont pas cessé leurs effets.
 
 Les bulletins n° 2 fournis en cas de contestation concernant l'inscription sur les listes électorales, ne comprennent que les décisions entraînant des incapacités en matière d'exercice du droit de vote.
 
