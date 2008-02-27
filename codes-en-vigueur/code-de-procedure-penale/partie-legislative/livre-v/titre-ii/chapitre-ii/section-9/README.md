@@ -9,3 +9,5 @@
 - [Article 723-35](article-723-35.md)
 - [Article 723-36](article-723-36.md)
 - [Article 723-37](article-723-37.md)
+- [Article 723-38](article-723-38.md)
+- [Article 723-39](article-723-39.md)

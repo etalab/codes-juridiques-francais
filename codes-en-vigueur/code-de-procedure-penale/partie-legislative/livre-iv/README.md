@@ -23,3 +23,4 @@
 - [Titre XXIV : Dispositions relatives à la juridiction de proximité](titre-xxiv)
 - [Titre XXVI : De la procédure applicable en cas de pollution des eaux maritimes par rejets des navires](titre-xxvi)
 - [Titre XXVII : De la poursuite, de l'instruction et du jugement des infractions commises par des majeurs protégés](titre-xxvii)
+- [Titre XXVIII : De la procédure et des décisions d'irresponsabilité pénale pour cause de trouble mental](titre-xxviii)

@@ -8,6 +8,7 @@
 - [Article 717](article-717.md)
 - [Article 717-1](article-717-1.md)
 - [Article 717-1-1](article-717-1-1.md)
+- [Article 717-1 A](article-717-1-a.md)
 - [Article 717-2](article-717-2.md)
 - [Article 717-3](article-717-3.md)
 - [Article 718](article-718.md)

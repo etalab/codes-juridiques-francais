@@ -13,6 +13,7 @@
 - [Article 469-1](article-469-1.md)
 - [Article 470](article-470.md)
 - [Article 470-1](article-470-1.md)
+- [Article 470-2](article-470-2.md)
 - [Article 471](article-471.md)
 - [Article 472](article-472.md)
 - [Article 474](article-474.md)

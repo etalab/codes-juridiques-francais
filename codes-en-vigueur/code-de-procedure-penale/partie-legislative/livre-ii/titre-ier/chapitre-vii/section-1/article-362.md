@@ -9,3 +9,5 @@ Si, après deux tours de scrutin, aucune peine n'a réuni la majorité des suffr
 Lorsque la cour d'assises prononce une peine correctionnelle, elle peut ordonner à la majorité qu'il soit sursis à l'exécution de la peine avec ou sans mise à l'épreuve.
 
 La cour d'assises délibère également sur les peines accessoires ou complémentaires.
+
+Dans les cas prévus par l'article 706-53-13, elle délibère aussi pour déterminer s'il y a lieu de se prononcer sur le réexamen de la situation du condamné avant l'exécution de la totalité de sa peine en vue d'une éventuelle rétention de sûreté conformément à l'article 706-53-14.
