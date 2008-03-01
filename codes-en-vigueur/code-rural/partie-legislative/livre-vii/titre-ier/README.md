@@ -6,6 +6,5 @@
 - [Chapitre IV : Repos hebdomadaire et quotidien](chapitre-iv)
 - [Chapitre V : Dispositions relatives aux jeunes travailleurs.](chapitre-v)
 - [Chapitre VI : Hébergement et participation des employeurs agricoles à l'effort de construction.](chapitre-vi)
-- [Chapitre VII : Les services de santé au travail.](chapitre-vii)
 - [Chapitre VIII : Dispositions diverses](chapitre-viii)
 - [Chapitre IX : Contrôle.](chapitre-ix)
