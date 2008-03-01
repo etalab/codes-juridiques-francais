@@ -1,6 +1,6 @@
 # Article 706-47-1
 
-Les personnes poursuivies pour l'une des infractions mentionnées à l'article 706-47 doivent être soumises, avant tout jugement au fond, à une expertise médicale. L'expert est interrogé sur l'opportunité d'une injonction de soins dans le cadre d'un suivi socio-judiciaire.
+Les personnes poursuivies pour l'une des infractions mentionnées à l'article 706-47 doivent être soumises, avant tout jugement au fond, à une expertise médicale. L'expert est interrogé sur l'opportunité d'une injonction de soins.
 
 Cette expertise peut être ordonnée dès le stade de l'enquête par le procureur de la République.
 
