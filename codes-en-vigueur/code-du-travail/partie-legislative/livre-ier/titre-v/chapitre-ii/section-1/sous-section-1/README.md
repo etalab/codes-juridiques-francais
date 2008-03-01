@@ -1,7 +1,0 @@
-# Sous-section 1 : Contrat de travail.
-
-- [Article L152-1](article-l152-1.md)
-- [Article L152-1-1](article-l152-1-1.md)
-- [Article L152-1-2](article-l152-1-2.md)
-- [Article L152-1-3](article-l152-1-3.md)
-- [Article L152-1-4](article-l152-1-4.md)
