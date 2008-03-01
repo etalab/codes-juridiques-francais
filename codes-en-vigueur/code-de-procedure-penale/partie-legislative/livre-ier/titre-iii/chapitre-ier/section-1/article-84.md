@@ -8,4 +8,4 @@ En cas d'empêchement du juge chargé de l'information, par suite de congé, de 
 
 Toutefois, en cas d'urgence et pour des actes isolés, tout juge d'instruction peut suppléer un autre juge d'instruction du même tribunal.
 
-Dans les cas prévus par le deuxième alinéa de l'article 83 et l'article 83-1, le juge désigné ou, s'ils sont plusieurs, le premier dans l'ordre de désignation, peut remplacer ou suppléer le juge chargé de l'information sans qu'il y ait lieu à application des alinéas qui précèdent.
+Dans les cas prévus par l'article 83-1, le juge désigné ou, s'ils sont plusieurs, le premier dans l'ordre de désignation, peut remplacer ou suppléer le juge chargé de l'information sans qu'il y ait lieu à application des alinéas qui précèdent.
