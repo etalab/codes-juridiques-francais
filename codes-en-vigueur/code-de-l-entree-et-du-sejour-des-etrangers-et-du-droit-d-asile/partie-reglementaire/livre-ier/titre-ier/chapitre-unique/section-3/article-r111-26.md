@@ -4,19 +4,19 @@ La commission est présidée par un magistrat, en activité ou honoraire, de la 
 
 Elle comprend en outre :
 
-- un député ;
+-un député ;
 
-- un sénateur ;
+-un sénateur ;
 
-- un membre du Conseil d'Etat, en activité ou honoraire, nommé sur la proposition du vice-président du Conseil d'Etat ;
+-un membre du Conseil d'Etat, en activité ou honoraire, nommé sur la proposition du vice-président du Conseil d'Etat ;
 
-- une personnalité qualifiée en matière pénitentiaire, nommée sur la proposition du garde des sceaux, ministre de la justice ;
+-une personnalité qualifiée en matière pénitentiaire, nommée sur la proposition du garde des sceaux, ministre de la justice ;
 
-- deux représentants d'associations humanitaires, nommés sur la proposition du ministre de l'intérieur ;
+-deux représentants d'associations humanitaires, nommés sur la proposition du ministre de l'intérieur ;
 
-- un représentant du ministre de l'intérieur ;
+-un représentant du ministre chargé de l'immigration ;
 
-- un représentant du ministre chargé des affaires sociales.
+-un représentant du ministre chargé des affaires sociales.
 
 Les membres de la commission sont nommés par décret. Leur mandat est de deux ans. Il est renouvelable.
 
