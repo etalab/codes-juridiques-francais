@@ -7,4 +7,3 @@
 - [Article R111-29](article-r111-29.md)
 - [Article R111-30](article-r111-30.md)
 - [Article R111-31](article-r111-31.md)
-- [Article R111-32](article-r111-32.md)

@@ -6,4 +6,4 @@ L'étranger qui envisage de participer à une activité ou une entreprise exista
 
 Dans tous les cas, l'étranger doit justifier qu'il respecte la réglementation en vigueur dans le domaine d'activité en cause.
 
-Un arrêté du ministre de l'intérieur et du ministre chargé des finances fixe la liste des pièces justificatives que l'étranger doit produire.
+Un arrêté du    ministre chargé de l'immigration  et du ministre chargé des finances fixe la liste des pièces justificatives que l'étranger doit produire.
