@@ -1,6 +1,8 @@
 # Section 2 : Désignation
 
 - [Article L2122-7](article-l2122-7.md)
+- [Article L2122-7-1](article-l2122-7-1.md)
+- [Article L2122-7-2](article-l2122-7-2.md)
 - [Article L2122-8](article-l2122-8.md)
 - [Article L2122-9](article-l2122-9.md)
 - [Article L2122-10](article-l2122-10.md)
