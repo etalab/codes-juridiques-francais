@@ -17,6 +17,7 @@
 - [Section VI quinquies : Crédit d'impôt pour dépenses de production d'oeuvres phonographiques](section-vi-quinquies)
 - [Section VI sexies : Réduction d'impôt en faveur des petites et moyennes entreprises de croissance](section-vi-sexies)
 - [Section VI septies : Crédit d'impôt pour le rachat du capital d'une société](section-vi-septies)
+- [Section VI octies : Réduction d'impôt en faveur des entreprises qui souscrivent au capital de sociétés de presse](section-vi-octies)
 - [Section VI nonies : Crédit d'impôt pour dépenses de distribution d'oeuvres audiovisuelles](section-vi-nonies)
 - [Section VII : Bénéfice imposable des caisses de crédit mutuel agricole et rural](section-vii)
 - [Section VIII : Régime des groupes de sociétés](section-viii)
