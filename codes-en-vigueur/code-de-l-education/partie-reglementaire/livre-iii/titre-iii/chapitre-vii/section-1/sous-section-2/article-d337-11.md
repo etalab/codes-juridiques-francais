@@ -8,4 +8,4 @@ Quatre au moins des épreuves obligatoires mentionnées à l'article D. 337-3 so
 
 3° Ou dans le cadre de la formation professionnelle continue dans un établissement d'enseignement public autre que ceux mentionnés à l'article D. 337-12.
 
-Les autres épreuves sont évaluées à la fois par un contrôle en cours de formation ou par un contrôle terminal.
+Les autres épreuves sont évaluées par un contrôle en cours de formation ou par un contrôle terminal.

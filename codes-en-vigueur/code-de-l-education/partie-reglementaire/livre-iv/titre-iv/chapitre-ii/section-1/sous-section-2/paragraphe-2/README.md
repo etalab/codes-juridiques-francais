@@ -1,0 +1,15 @@
+# Paragraphe 2 : Contrôle financier et administratif.
+
+- [Article R442-9](article-r442-9.md)
+- [Article R442-10](article-r442-10.md)
+- [Article R442-11](article-r442-11.md)
+- [Article R442-12](article-r442-12.md)
+- [Article R442-13](article-r442-13.md)
+- [Article R442-14](article-r442-14.md)
+- [Article R442-15](article-r442-15.md)
+- [Article R442-16](article-r442-16.md)
+- [Article R442-17](article-r442-17.md)
+- [Article R442-18](article-r442-18.md)
+- [Article R442-19](article-r442-19.md)
+- [Article R442-20](article-r442-20.md)
+- [Article R442-21](article-r442-21.md)
