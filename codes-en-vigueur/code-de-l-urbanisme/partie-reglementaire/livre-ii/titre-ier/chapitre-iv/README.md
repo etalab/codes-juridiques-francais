@@ -1,3 +1,3 @@
-# CHAPITRE IV : Dispositions communes aux zones d'aménagement différé et aux périmètres provisoires de zones d'aménagement différé créés avant le 1er juin 1987
+# CHAPITRE IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce et les baux commerciaux.
 
 - [Article A214-1](article-a214-1.md)
