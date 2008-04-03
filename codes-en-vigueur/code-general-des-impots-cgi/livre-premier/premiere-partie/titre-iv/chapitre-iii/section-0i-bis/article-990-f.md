@@ -8,4 +8,4 @@ Les redevables doivent déclarer au plus tard le 15 mai de chaque année la situ
 
 La taxe est recouvrée selon les règles et sous les sanctions et garanties applicables aux droits d'enregistrement. Sont également applicables à la taxe les dispositions de l'article 223 quinquies A.
 
-En cas de cession de l'immeuble par une personne morale, un organisme, une fiducie ou une institution comparable non établi dans la Communauté européenne, le représentant visé au 3 du I de l'article 244 bis A est responsable du paiement de la taxe restant due à cette date.
+En cas de cession de l'immeuble par une personne morale, un organisme, une fiducie ou une institution comparable non établi dans la Communauté européenne, le représentant visé au IV de l'article 244 bis A est responsable du paiement de la taxe restant due à cette date.

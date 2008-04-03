@@ -6,59 +6,200 @@ TABLEAU I
 
 Tarif des droits applicables en ligne directe
 
-FRACTION DE PART NETTE TAXABLE / TARIF APPLICABLE
-
-N'excédant pas 7 600 euros : 5 %.
-
-Comprise entre 7 600 et 11 400 euros : 10 %.
-
-Comprise entre 11 400 euros et 15 000 euros : 15 %.
-
-Comprise entre 15 000 euros et 520 000 euros : 20 %.
-
-Comprise entre 520 000 euros et 850 000 euros : 30 %.
-
-Comprise entre 850 000 euros et 1 700 000 euros : 35 %.
-
-Au-delà de 1 700 000 euros : 40 %.
+<table>
+<tbody>
+<tr>
+<th>
+<br/>FRACTION DE PART NETTE TAXABLE <br/>
+</th>
+<th>
+<br/>TARIF APPLICABLE <p>(en pourcentage) <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>N'excédant pas 7 699 euros <br/>
+</td>
+<td align="center">
+<br/>5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Comprise entre 7 699 euros et 11 548 euros <br/>
+</td>
+<td align="center">
+<br/>10 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Comprise entre 11 548 euros et 15 195 euros <br/>
+</td>
+<td align="center">
+<br/>15 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Comprise entre 15 195 euros et 526 760 euros <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Comprise entre 526 760 euros et 861 050 euros <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Comprise entre 861 050 euros et 1 722 100 euros <br/>
+</td>
+<td align="center">
+<br/>35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Au-delà de 1 722 100 euros <br/>
+</td>
+<td align="center">
+<br/>40 <br/>
+</td>
+</tr>
+</tbody>
+</table>
 
 TABLEAU II
 
 Tarif des droits applicables entre époux et entre partenaires liés par un pacte civil de solidarité
 
-FRACTION DE PART NETTE TAXABLE / TARIF APPLICABLE
-
-N'excédant pas 7 600 euros : 5 %.
-
-Comprise entre 7 600 et 15 000 euros: 10 %.
-
-Comprise entre 15 000 euros et 30 000 euros : 15 %.
-
-Comprise entre 30 000 euros et 520 000 euros : 20 %.
-
-Comprise entre 520 000 euros et 850 000 euros : 30 %.
-
-Comprise entre 850 000 euros et 1 700 000 euros : 35 %.
-
-Au-delà de 1 700 000 euros : 40 %.
-
-Les trois derniers tarifs sont applicables aux mutations à titre gratuit entre vifs consenties par actes passés à compter du 14 septembre 1983 et aux successions ouvertes à compter du 1er janvier 1984.
+<table>
+<tbody>
+<tr>
+<th>
+<br/>FRACTION DE PART NETTE TAXABLE <br/>
+</th>
+<th>
+<br/>TARIF APPLICABLE <p>(en pourcentage) <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>N'excédant pas 7 699 euros <br/>
+</td>
+<td align="center">
+<br/>5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Comprise entre 7 699 euros et 15 195 euros <br/>
+</td>
+<td align="center">
+<br/>10 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Comprise entre 15 195 euros et 30 390 euros <br/>
+</td>
+<td align="center">
+<br/>15 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Comprise entre 30 390 euros et 526 760 euros <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Comprise entre 526 760 euros et 861 050 euros <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Comprise entre 861 050 euros et 1 722 100 euros <br/>
+</td>
+<td align="center">
+<br/>35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Au-delà de 1 722 100 euros <br/>
+</td>
+<td align="center">
+<br/>40 <br/>
+</td>
+</tr>
+</tbody>
+</table>
 
 TABLEAU III
 
-Tarif des droits applicables en ligne collatérale et entre non-parents.
+Tarif des droits applicables en ligne collatérale et entre non parents
 
-FRACTION DE PART NETTE TAXABLE / TARIF APPLICABLE
-
-Entre frères et soeurs :
-
-N'excédant pas 23 000 euros : 35 %.
-
-Supérieure à 23 000 euros : 45 %.
-
-Entre parents jusqu'au quatrième degré inclusivement : 55 %.
-
-Entre parents au-delà du quatrième degré et entre personnes non parentes : 60 %.
+<table>
+<tbody>
+<tr>
+<th>
+<br/>FRACTION DE PART NETTE TAXABLE <br/>
+</th>
+<th>
+<br/>TARIF APPLICABLE <p>(en pourcentage) <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Entre frères et sœurs : <p>N'excédant pas 23 299 euros <br/>
+</p>
+</td>
+<td align="center">
+<br/>35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Supérieure à 23 299 euros <br/>
+</td>
+<td align="center">
+<br/>45 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Entre parents jusqu'au 4e degré inclusivement <br/>
+</td>
+<td align="center">
+<br/>55 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Entre parents au-delà du 4e degré et entre personnes non parentes <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+</tbody>
+</table>
 
 Sous réserve des exceptions prévues au I de l'article 794 et à l'article 795, les dons et legs faits aux établissements publics ou d'utilité publique sont soumis aux tarifs fixés pour les successions entre frères et soeurs.
 

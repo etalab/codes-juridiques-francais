@@ -1,8 +1,8 @@
 # Article 885 H
 
-Les exonérations prévues en matière de droits de mutation par décès par les articles 787 B et 787 C, le 1 et les 3°, 4°, 5°, 6° et 7° du 2 de l'article 793 et par les articles 795 A et 1135 bis ne sont pas applicables à l'impôt de solidarité sur la  fortune.
+Les exonérations prévues en matière de droits de mutation par décès par les articles 787 B et 787 C, le 1 et les 3°,4°,5°,6° et 7° du 2 de l'article 793 et par les articles 795 A et 1135 bis ne sont pas applicables à l'impôt de solidarité sur la fortune.
 
-Toutefois les dispositions du 3° du 1 du même article relatives aux parts d'intérêts détenues dans un groupement forestier sont applicables lorsque ces parts sont représentatives d'apports constitués par des biens mentionnés audit 3°.
+Toutefois les dispositions du 3° du 1 de l'article 793 relatives aux parts d'intérêts détenues dans un groupement forestier sont applicables lorsque ces parts sont représentatives d'apports constitués par des biens mentionnés audit 3°.
 
 Les biens donnés à bail à long terme dans les conditions prévues aux articles L. 416-1 à L. 416-6, L. 416-8 et L. 416-9 du code rural et ceux donnés à bail cessible dans les conditions prévues par les articles L. 418-1 à L. 418-5 du même code, qui ne sont pas en totalité qualifiés de biens professionnels en application de l'article 885 P, sont exonérés d'impôt de solidarité sur la fortune à concurrence des trois quarts lorsque la valeur totale des biens loués quel que soit le nombre de baux n'excède pas 76 000 euros et pour moitié au-delà de cette limite, sous réserve que la durée du bail soit au minimum de dix-huit ans et que les descendants du preneur ne soient pas contractuellement privés de la faculté de bénéficier des dispositions de l'article L. 411-35 du code rural.
 

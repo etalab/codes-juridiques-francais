@@ -62,9 +62,9 @@ a. Elle emploie moins de cinquante salariés et, soit a réalisé un chiffre d'a
 
 b. Son capital ou ses droits de vote ne sont pas détenus à hauteur de 25 % ou plus par une entreprise ou par plusieurs entreprises ne répondant pas aux conditions du a, de manière continue au cours de l'exercice. Pour la détermination de ce pourcentage, les participations de sociétés de capital-risque, des fonds communs de placement à risques, des sociétés de développement régional, des sociétés financières d'innovation et des sociétés unipersonnelles d'investissement à risque ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds. Cette condition s'apprécie de manière continue au cours de l'exercice.
 
-VI. - Lorsque les sociétés créées pour reprendre une entreprise industrielle en difficulté mentionnées au I ne satisfont pas aux conditions mentionnées aux II et III, le bénéfice de l'exonération prévue au I est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 précité.
+VI. - Lorsque les sociétés créées pour reprendre une entreprise industrielle en difficulté mentionnées au I ne satisfont pas aux conditions mentionnées aux II et III, le bénéfice de l'exonération prévue au I est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
 
-VII. - Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions du régime prévu à l'article 44 octies A et du régime prévu au présent article, la société peut opter pour ce dernier régime dans les six mois suivant celui du début d'activité. Cette option est irrévocable.
+VII. 2. - Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions du régime prévu à l'article 44 octies A et du régime prévu au présent article, la société peut opter pour ce dernier régime dans les six mois suivant celui du début d'activité. Cette option est irrévocable.
 
 VIII. - L'agrément prévu aux II et III est accordé lorsque sont remplies les conditions suivantes :
 

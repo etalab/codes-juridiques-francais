@@ -1,6 +1,6 @@
 # Article 38
 
-1. Sous réserve des dispositions des articles 33 ter, 40 à 43 bis et 151 sexies, le bénéfice imposable est le bénéfice net, déterminé d'après les résultats d'ensemble des opérations de toute nature effectuées par les entreprises, y compris notamment les cessions d'éléments quelconques de l'actif, soit en cours, soit en fin d'exploitation.
+1. Sous réserve des dispositions des articles 33 ter,40 à 43 bis et 151 sexies, le bénéfice imposable est le bénéfice net, déterminé d'après les résultats d'ensemble des opérations de toute nature effectuées par les entreprises, y compris notamment les cessions d'éléments quelconques de l'actif, soit en cours, soit en fin d'exploitation.
 
 2. Le bénéfice net est constitué par la différence entre les valeurs de l'actif net à la clôture et à l'ouverture de la période dont les résultats doivent servir de base à l'impôt diminuée des suppléments d'apport et augmentée des prélèvements effectués au cours de cette période par l'exploitant ou par les associés. L'actif net s'entend de l'excédent des valeurs d'actif sur le total formé au passif par les créances des tiers, les amortissements et les provisions justifiés.
 
@@ -24,7 +24,7 @@ Les travaux en cours sont évalués au prix de revient.
 
 Lorsque des établissements de crédit ou des entreprises d'investissement mentionnés au premier alinéa de l'article 38 bis A évaluent les titre libellés en monnaie étrangère à la clôture de chaque exercice en fonction du dernier cours de change connu, les écarts de conversion constatés sont pris en compte pour la détermination du résultat imposable de l'exercice. A la clôture de chaque exercice, le prix de revient des titres est augmenté ou diminué, selon les cas, des écarts de conversion mentionnés à ce même alinéa. Toutefois, lorsque les établissements ou les entreprises concernés détiennent des titres d'investissement mentionnés à l'article 38 bis B et des titres de participation, libellés en monnaie étrangère et dont l'acquisition a été financée en francs ou en euros, les écarts de conversion mentionnés au présent alinéa et constatés sur ces titres ne sont pas pris en compte dans le résultat fiscal de l'exercice ; dans ce cas, sur le plan fiscal, le prix de revient de ces titres ne tient pas compte des écarts de conversion. Ces dispositions sont applicables aux écarts de change relatifs à la période postérieure à l'ouverture du premier exercice clos à compter du 31 décembre 1990.
 
-Pour l'exercice clos le 31 décembre 1998 ou la période d'imposition arrêtée à la même date, les écarts de conversion afférents aux devises, créances, dettes et titres mentionnés aux premier et deuxième alinéas et libellés en écus ou en unités monétaires des Etats participant à la monnaie unique, sont déterminés en fonction des taux de conversion définis à l'article 1er du règlement n° 97/1103/CE du Conseil, du 17 juin 1997, fixant certaines dispositions relatives à l'introduction de l'euro.
+Pour l'exercice clos le 31 décembre 1998 ou la période d'imposition arrêtée à la même date, les écarts de conversion afférents aux devises, créances, dettes et titres mentionnés aux premier et deuxième alinéas et libellés en écus ou en unités monétaires des Etats participant à la monnaie unique, sont déterminés en fonction des taux de conversion définis à l'article 1er du règlement n° 97 / 1103 / CE du Conseil, du 17 juin 1997, fixant certaines dispositions relatives à l'introduction de l'euro.
 
 Les dispositions du premier alinéa ne sont pas applicables, sur option irrévocable, aux prêts libellés en monnaie étrangère consentis, à compter du 1er janvier 2001, par des entreprises autres que les établissements de crédit et les entreprises d'investissement mentionnés à l'article 38 bis A, pour une durée initiale et effective d'au moins trois ans, à une société dont le siège social est situé dans un Etat ne participant pas à la monnaie unique et dont elles détiennent directement ou indirectement plus de la moitié du capital de manière continue pendant toute la période du prêt. Corrélativement, la valeur fiscale de ces prêts ne tient pas compte des écarts de conversion constatés sur le plan comptable. Les dispositions du présent alinéa ne sont pas applicables aux prêts faisant l'objet d'une couverture du risque de change.
 
@@ -88,11 +88,11 @@ Pour les opérations réalisées au cours d'exercices clos à compter du 31 déc
 
 Les augmentations de capital visées au septième alinéa sont celles résultant :
 
-a - d'un apport en numéraire ;
+a-d'un apport en numéraire ;
 
-b - d'un apport de créances ou de titres exclus du régime des plus-values à long terme en application du I de l'article 219 ;
+b-d'un apport de créances ou de titres exclus du régime des plus-values à long terme en application du I de l'article 219 ;
 
-c - de l'absorption d'une société dont l'actif est composé principalement de numéraire ou de droits cités au b ou de l'apport d'actions ou de parts d'une telle société.
+c-de l'absorption d'une société dont l'actif est composé principalement de numéraire ou de droits cités au b ou de l'apport d'actions ou de parts d'une telle société.
 
 Les dispositions du présent article s'appliquent aux opérations d'échange portant sur des certificats d'investissement, des certificats coopératifs d'investissement, des certificats pétroliers, des certificats de droit de vote, des actions à dividende prioritaire sans droit de vote et des actions de préférence, ainsi qu'à la conversion d'actions ordinaires en actions à dividende prioritaire sans droit de vote ou en actions de préférence, d'actions de préférence en actions de préférence d'une autre catégorie, d'actions à dividende prioritaire sans droit de vote ou d'actions de préférence en actions ordinaires.
 
@@ -128,7 +128,7 @@ Les provisions qui sont transférées au poste d'écart d'équivalence ainsi que
 
 La moins-value de même nature est retenue dans les mêmes conditions, et ne peut venir en diminution des profits de réévaluation des parts de la société civile, constatés par la société d'assurance.
 
-11. Le transfert dans une comptabilité auxiliaire d'affectation d'éléments d'actifs pour lesquels sont applicables les règles de l'article L. 142-4, de l'article L. 143-7, de l'article L. 441-8 du code des assurances, ou du VII de l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites est assimilé à une cession. Il en est de même en cas de retrait d'actifs de l'une de ces comptabilités.
+11. Le transfert dans une comptabilité auxiliaire d'affectation d'éléments d'actifs pour lesquels sont applicables les règles de l'article L. 142-4, de l'article L. 143-7, de l'article L. 441-8, ou du VII de l'article L. 144-2 du code des assurances est assimilé à une cession. Il en est de même en cas de retrait d'actifs de l'une de ces comptabilités.
 
 Toutefois, le profit ou la perte constaté à l'occasion du transfert d'éléments d'actif dans la comptabilité auxiliaire d'affectation soumis aux règles de l'article L. 143-7 du code des assurances n'est pas compris dans le résultat de l'exercice au cours duquel le transfert est intervenu si les conditions suivantes sont réunies :
 

@@ -1,6 +1,6 @@
 # Article 381 KB
 
-1° Les établissements émetteurs sont autorisés à suspendre le versement des acomptes prévus à l'article 1673 du code général des impôts et à l'article 381 K, à concurrence de la retenue à la source calculée sur les intérêts courus des obligations qui, dès leur émission, sont inscrites à l'actif d'une gestion collective en emploi des sommes apportées par les titulaires de comptes pour le développement industriel (Livret de développement durable) ;
+1° Les établissements émetteurs sont autorisés à suspendre le versement des acomptes prévus à l'article 1673 du code général des impôts et à l'article 381 K, à concurrence de la retenue à la source calculée sur les intérêts courus des obligations qui, dès leur émission, sont inscrites à l'actif d'une gestion collective en emploi des sommes apportées par les titulaires de livrets de développement durable ;
 
 2° A chaque échéance des intérêts de ces obligations, l'établissement émetteur compare les termes suivants :
 

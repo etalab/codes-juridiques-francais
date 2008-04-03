@@ -4,13 +4,13 @@
 
 Toutefois, en ce qui concerne les entreprises et exploitations situées hors de France, les règles fixées par le présent code pour la détermination forfaitaire des bénéfices imposables ne sont pas applicables.
 
-2. Le revenu net foncier est déterminé conformément aux disposition des articles 14 à 33 quinquies.
+2. Le revenu net foncier est déterminé conformément aux dispositions des articles 14 à 33 quinquies.
 
 3. 1° Les revenus de capitaux mobiliers comprennent tous les revenus visés au VII de la 1ère sous-section de la présente section, à l'exception des revenus expressément affranchis de l'impôt en vertu de l'article 157 et des revenus ayant supporté les prélèvements visés aux articles 117 quater et 125 A.
 
 Lorsqu'ils sont payables en espèces les revenus visés au premier alinéa sont soumis à l'impôt sur le revenu au titre de l'année soit de leur paiement en espèces ou par chèques, soit de leur inscription au crédit d'un compte.
 
-2° Les revenus mentionnés au 1° distribués par les sociétés passibles de l'impôt sur les sociétés ou d'un impôt équivalent ou soumises sur option à cet impôt, ayant leur siège dans un Etat de la Communauté européenne ou dans un Etat ou territoire ayant conclu avec la France une convention fiscale en vue d'éviter les doubles impositions en matière d'impôt sur les revenus et résultant d'une décision régulière des organes compétents, sont réduits, pour le calcul de l'impôt sur le revenu, d'un abattement égal à 40 % de leur montant brut perçu.A compter du 1er janvier 2009 pour les sociétés étrangères n'ayant pas leur siège dans un Etat de la Communauté européenne, cette disposition est réservée aux revenus distribués par des sociétés établies dans un Etat ou territoire ayant conclu une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale ;
+2° Les revenus mentionnés au 1° distribués par les sociétés passibles de l'impôt sur les sociétés ou d'un impôt équivalent ou soumises sur option à cet impôt, ayant leur siège dans un Etat de la Communauté européenne ou dans un Etat ou territoire ayant conclu avec la France une convention fiscale en vue d'éviter les doubles impositions en matière d'impôt sur les revenus et résultant d'une décision régulière des organes compétents, sont réduits, pour le calcul de l'impôt sur le revenu, d'un abattement égal à 40 % de leur montant brut perçu. A compter du 1er janvier 2009 pour les sociétés étrangères n'ayant pas leur siège dans un Etat de la Communauté européenne, cette disposition est réservée aux revenus distribués par des sociétés établies dans un Etat ou territoire ayant conclu une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale ;
 
 3° Les dispositions du 2° ne s'appliquent pas :
 
@@ -52,11 +52,11 @@ Dans le cas des entreprises industrielles, commerciales, artisanales ou agricole
 
 5. a. Les revenus provenant de traitements publics et privés, indemnités, émoluments, salaires et pensions ainsi que de rentes viagères autres que celles mentionnées au 6 sont déterminés conformément aux dispositions des articles 79 à 90.
 
-Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut excéder 3 446 euros. Ce plafond s'applique au montant total des pensions et retraites perçues par l'ensemble des membres du foyer fiscal. Chaque année, il est révisé selon les mêmes modalités que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
+Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut excéder 3 491 euros. Ce plafond s'applique au montant total des pensions et retraites perçues par l'ensemble des membres du foyer fiscal. Chaque année, il est révisé selon les mêmes modalités que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
-L'abattement indiqué au deuxième alinéa ne peut être inférieur à 352 euros, sans pouvoir excéder le montant brut des pensions et retraites. Cette disposition s'applique au montant des pensions ou retraites perçu par chaque retraité ou pensionné membre du foyer fiscal. La somme de 352 euros est révisée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
+L'abattement indiqué au deuxième alinéa ne peut être inférieur à 357 euros, sans pouvoir excéder le montant brut des pensions et retraites. Cette disposition s'applique au montant des pensions ou retraites perçu par chaque retraité ou pensionné membre du foyer fiscal. La somme de 357 euros est révisée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
-b. Les dispositions du a sont applicables aux allocations mentionnées aux premier et troisième alinéas de l'article 231 bis D, aux participations en espèces et, à compter du 1er janvier 1991, aux dividendes des actions de travail, alloués aux travailleurs mentionnés au 18° bis de l'article 81, lorsque ces sommes sont imposables.
+b. Les dispositions du a sont applicables aux allocations mentionnées aux articles L. 3232-6, L. 5122-1, L. 5122-2, L. 5123-2, L. 5422-1, L. 5423-1 et L. 5423-8 du code du travail, aux participations en espèces et, à compter du 1er janvier 1991, aux dividendes des actions de travail, alloués aux travailleurs mentionnés au 18° bis de l'article 81, lorsque ces sommes sont imposables.
 
 b bis. Les dispositions du a sont applicables aux prestations servies sous forme de rentes ou pour perte d'emploi subie, au titre des contrats d'assurance groupe ou des régimes mentionnés au deuxième alinéa du I de l'article 154 bis.
 
@@ -64,7 +64,7 @@ Les dispositions du a sont également applicables aux prestations servies sous f
 
 b ter. (abrogé à compter de la date d'entrée en vigueur de la loi n° 2002-73 du 17 janvier 2002) ;
 
-b quater. Les dispositions du a sont applicables aux pensions servies au titre des plans d'épargne retraite populaire prévus à l'article 108 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites ;
+b quater. Les dispositions du a sont applicables aux pensions servies au titre des plans d'épargne retraite populaire prévus à l'article L. 144-2 du code des assurances ;
 
 c. Lorsque, étant en instance de séparation de corps ou de divorce, les époux font l'objet d'impositions distinctes par application des dispositions du b du 4 de l'article 6, la provision alimentaire qui est allouée à l'un d'eux pour son entretien et celui des enfants dont il a la charge est comptée dans les revenus imposables de l'intéressé ;
 

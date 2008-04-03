@@ -1,6 +1,7 @@
 # Article 244 quater B
 
-I. Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies,44 sexies A,44 septies,44 octies,44 octies A,44 decies,44 undecies et 44 duodecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et de 5 % pour la fraction des dépenses de recherche supérieure à ce montant.
+I. Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies,44 sexies A,44 septies,44 octies,44 octies A,44 decies,44 undecies et 44 duodecies
+peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et de 5 % pour la fraction des dépenses de recherche supérieure à ce montant.
 
 Le taux de 30 % mentionné au premier alinéa est porté à 50 % et 40 % au titre respectivement de la première et de la deuxième année qui suivent l'expiration d'une période de cinq années consécutives au titre desquelles l'entreprise n'a pas bénéficié du crédit d'impôt et à condition qu'il n'existe aucun lien de dépendance au sens du 12 de l'article 39 entre cette entreprise et une autre entreprise ayant bénéficié du crédit d'impôt au cours de la même période de cinq années.
 
@@ -26,7 +27,7 @@ d bis) Les dépenses exposées pour la réalisation d'opérations de même natur
 
 d ter) Les dépenses mentionnées aux d et d bis entrent dans la base de calcul du crédit d'impôt recherche dans la limite globale de deux millions d'euros par an. Cette limite est portée à 10 millions d'euros pour les dépenses de recherche correspondant à des opérations confiées aux organismes mentionnés aux d et d bis, à la condition qu'il n'existe pas de lien de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre l'entreprise qui bénéficie du crédit d'impôt et ces organismes ;
 
-Le plafond de 10 millions d'euros mentionné au premier alinéa du présent d ter est majoré de 2 millions d'euros à raison des dépenses correspondant aux opérations confiées aux organismes mentionnés au d ;
+Le plafond de 10 millions d'euros mentionné au premier alinéa est majoré de 2 millions d'euros à raison des dépenses correspondant aux opérations confiées aux organismes mentionnés au d ;
 
 e) Les frais de prise et de maintenance de brevets et de certificats d'obtention végétale ;
 
@@ -62,7 +63,7 @@ Pour être éligibles au crédit d'impôt mentionné au premier alinéa du I, le
 
 Les dépenses visées aux a et 2° du h du II ne sont pas retenues pour le calcul du crédit d'impôt recherche lorsque les immobilisations concernées ont bénéficié du crédit d'impôt prévu à l'article 220 septies.
 
-Le bénéfice de la fraction du crédit d'impôt qui résulte de la prise en compte des dépenses prévues aux h et i du II est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis (1).
+Le bénéfice de la fraction du crédit d'impôt qui résulte de la prise en compte des dépenses prévues aux h et i du II est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
 
 Pour l'application du précédent alinéa, les sociétés de personnes et groupements mentionnés aux articles 8,238 bis L,239 quater,239 quater B et 239 quater C qui ne sont pas soumis à l'impôt sur les sociétés doivent également respecter le règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 précité. La fraction du crédit d'impôt mentionnée à l'alinéa précédent peut être utilisée par les associés de ces sociétés ou les membres de ces groupements proportionnellement à leurs droits dans ces sociétés ou groupements s'ils satisfont aux conditions d'application de ce même règlement et sous réserve qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156 (1).
 

@@ -1,8 +1,13 @@
 # B : Régimes spéciaux et exonérations
 
+- [Article 281 I](article-281-i.md)
 - [Article 281 C](article-281-c.md)
 - [Article 281 bis](article-281-bis.md)
 - [Article 281 ter](article-281-ter.md)
 - [Article 281 A](article-281-a.md)
 - [Article 281 B](article-281-b.md)
 - [Article 281 E](article-281-e.md)
+- [Article 281 F](article-281-f.md)
+- [Article 281 G](article-281-g.md)
+- [Article 281 H](article-281-h.md)
+- [Article 281 J](article-281-j.md)

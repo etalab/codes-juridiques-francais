@@ -13,4 +13,5 @@
 - [7° : Collectivités locales, établissements publics locaux et sociétés publiques locales](7)
 - [8°  : Etablissements publics de coopération intercommunale](8)
 - [9° : Départements d'outre-mer](9)
+- [4° bis : Etablissements publics à caractère scientifique, culturel et professionnel](4-bis)
 - [8° bis : Etablissements de santé visés à l'article L. 6112-2 du code de la santé publique](8-bis)

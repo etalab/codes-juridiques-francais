@@ -1,16 +1,14 @@
 # Article 289 bis
 
-I. - Pour l'application des articles 286 et 289, seules les factures transmises par voie électronique qui se présentent sous la forme d'un message structuré selon une norme convenue entre les parties, permettant une lecture par ordinateur et pouvant être traité automatiquement et de manière univoque, constituent, sous réserve des dispositions ci-après, des documents tenant lieu de factures d'origine.
+I.-Pour l'application des articles 286 et 289, seules les factures transmises par voie électronique qui se présentent sous la forme d'un message structuré selon une norme convenue entre les parties, permettant une lecture par ordinateur et pouvant être traité automatiquement et de manière univoque, constituent, sous réserve des dispositions ci-après, des documents tenant lieu de factures d'origine.
 
 Les informations émises et reçues doivent être identiques. Sur demande de l'administration, elles sont restituées en langage clair par l'entreprise chargée de s'assurer qu'une facture est émise au sens du I de l'article 289, quelle que soit la personne qui a matériellement émis les messages, en son nom et pour son compte. Elles doivent, en outre, être restituées dans les mêmes conditions par l'entreprise destinataire de ces factures, quelle que soit la personne qui les a reçues en son nom et pour son compte.
 
 Si l'administration le demande, la restitution des informations est effectuée sur support papier.
 
-II. - Les entreprises qui veulent transmettre leurs factures dans les conditions visées au I recourent à un système de télétransmission répondant à des normes équivalentes à celle définie à l'article 2 de la recommandation 1994/820/CE de la Commission, du 19 octobre 1994, concernant les aspects juridiques de l'échange de données informatisées lorsque l'accord relatif à cet échange prévoit l'utilisation de procédures garantissant l'authenticité de l'origine et l'intégrité des données.
+II.-Les entreprises qui veulent transmettre leurs factures dans les conditions visées au I recourent à un système de télétransmission répondant à des normes équivalentes à celle définie à l'article 2 de la recommandation 1994 / 820 / CE de la Commission, du 19 octobre 1994, concernant les aspects juridiques de l'échange de données informatisées lorsque l'accord relatif à cet échange prévoit l'utilisation de procédures garantissant l'authenticité de l'origine et l'intégrité des données.
 
-En cas de mise en oeuvre d'un tel système, les entreprises en informent le service des impôts territorialement compétent. Le présent alinéa s'applique jusqu'au 31 décembre 2005.
-
-III. - L'entreprise doit s'assurer que les informations émises en application du I, par elle-même, ou par un tiers ou client mandaté à cet effet, sont accessibles et conservées dans leur contenu originel et dans l'ordre chronologique de leur émission dans les conditions et dans les délais fixés par l'article L. 102 B du livre des procédures fiscales.
+III.-L'entreprise doit s'assurer que les informations émises en application du I, par elle-même, ou par un tiers ou client mandaté à cet effet, sont accessibles et conservées dans leur contenu originel et dans l'ordre chronologique de leur émission dans les conditions et dans les délais fixés par l'article L. 102 B du livre des procédures fiscales.
 
 L'entreprise destinataire de ces informations doit, quelle que soit la personne qui les a reçues en son nom et pour son compte, s'assurer qu'elles sont accessibles et conservées dans leur contenu originel et dans l'ordre chronologique de leur réception dans les conditions et dans les délais fixés par l'article L. 102 B du livre des procédures fiscales.
 

@@ -1,10 +1,10 @@
 # Article 206
 
-I. - Le coefficient de déduction mentionné à l'article 205 est égal au produit des coefficients d'assujettissement, de taxation et d'admission.
+I.-Le coefficient de déduction mentionné à l'article 205 est égal au produit des coefficients d'assujettissement, de taxation et d'admission.
 
-II. - Le coefficient d'assujettissement d'un bien ou d'un service est égal à sa proportion d'utilisation pour la réalisation d'opérations imposables. Les opérations imposables s'entendent des opérations situées dans le champ d'application de la taxe sur la valeur ajoutée en vertu des articles 256 et suivants du code général des impôts, qu'elles soient imposées ou légalement exonérées.
+II.-Le coefficient d'assujettissement d'un bien ou d'un service est égal à sa proportion d'utilisation pour la réalisation d'opérations imposables. Les opérations imposables s'entendent des opérations situées dans le champ d'application de la taxe sur la valeur ajoutée en vertu des articles 256 et suivants du code général des impôts, qu'elles soient imposées ou légalement exonérées.
 
-III. - 1. Le coefficient de taxation d'un bien ou d'un service est égal à l'unité lorsque les opérations imposables auxquelles il est utilisé ouvrent droit à déduction.
+III.-1. Le coefficient de taxation d'un bien ou d'un service est égal à l'unité lorsque les opérations imposables auxquelles il est utilisé ouvrent droit à déduction.
 
 2. Le coefficient de taxation d'un bien ou d'un service est nul lorsque les opérations auxquelles il est utilisé n'ouvrent pas droit à déduction.
 
@@ -26,7 +26,7 @@ a. Aux cessions des biens d'investissements corporels ou incorporels ;
 
 b. Au produit des opérations immobilières et financières accessoires exonérées de la taxe sur la valeur ajoutée. Sont considérées comme accessoires les opérations qui présentent un lien avec l'activité principale de l'entreprise et dont la réalisation nécessite une utilisation limitée au maximum à 10 % des biens et des services grevés de taxe sur la valeur ajoutée qu'elle a acquis. Ce pourcentage est apprécié en fonction de la proportion d'utilisation pour ces opérations de chaque bien et service grevé de taxe sur la valeur ajoutée. Cette proportion est appliquée à la valeur d'acquisition par le redevable de chacun de ces biens et services pour déterminer leur valeur d'utilisation. Le pourcentage résulte du rapport entre, au numérateur, la somme des valeurs d'utilisation ainsi déterminées et, au dénominateur, le montant total de la valeur d'acquisition de ces biens et services.
 
-IV. - 1. Le coefficient d'admission d'un bien ou d'un service est égal à l'unité, sauf dans les cas décrits aux 2 à 4.
+IV.-1. Le coefficient d'admission d'un bien ou d'un service est égal à l'unité, sauf dans les cas décrits aux 2 à 4.
 
 2. Le coefficient d'admission est nul dans les cas suivants :
 
@@ -60,19 +60,19 @@ f. Acquis par les entreprises de transports publics de voyageurs et affectés de
 
 a. Pour les essences utilisées comme carburants mentionnées au tableau B de l'article 265 du code des douanes, à l'exception de celles utilisées pour les essais effectués pour les besoins de la fabrication de moteurs ou d'engins à moteur ;
 
-b. Pour les carburéacteurs mentionnés à la position 27.10.00 du tableau B de l'article 265 du code des douanes utilisés pour les aéronefs et engins mentionnés au premier alinéa du 6° ;
+b. Pour les carburéacteurs mentionnés à la position 27. 10. 00 du tableau B de l'article 265 du code des douanes utilisés pour les aéronefs et engins mentionnés au premier alinéa du 6° ;
 
 c. Pour les produits pétroliers utilisés pour la lubrification des véhicules et engins mentionnés au premier alinéa du 6° ;
 
-9° Pour les biens acquis ou construits ainsi que les services acquis dont la valeur d'achat, de construction ou de livraison à soi-même est prise en compte pour l'application des dispositions du 6° de l'article 257, du e du 1 ou du sixième alinéa du 2 de l'article 266 ainsi que de l'article 297 A du code général des impôts ;
+9° Pour les biens acquis ou construits ainsi que les services acquis dont la valeur d'achat, de construction ou de livraison à soi-même est prise en compte pour l'application des dispositions du 6° de l'article 257 du code général des impôts, du e du 1 ou du sixième alinéa du 2 de l'article 266 du code général des impôts ainsi que de l'article 297 A du code général des impôts ;
 
 10° Pour les prestations de services de toute nature, notamment la location, afférentes aux biens dont le coefficient d'admission est nul en application des dispositions du 1° au 8°.
 
-3. Le coefficient d'admission est égal à 0,5 pour les gaz de pétrole et autres hydrocarbures présentés à l'état gazeux (position 27.11.29 du tarif des douanes) et le pétrole lampant (position 27.10.19.21 du tarif des douanes) utilisés comme carburants, lorsque ces produits sont utilisés pour des véhicules et engins mentionnés au premier alinéa du 6° du 2 et pour autant qu'ils ne soient pas ultérieurement livrés ou vendus en l'état ou sous forme d'autres produits pétroliers.
+3. Le coefficient d'admission est égal à 0,5 pour les gaz de pétrole et autres hydrocarbures présentés à l'état gazeux (position 27. 11. 29 du tarif des douanes) et le pétrole lampant (position 27. 10. 19. 25 du tarif des douanes) utilisés comme carburants, lorsque ces produits sont utilisés pour des véhicules et engins mentionnés au premier alinéa du 6° du 2 et pour autant qu'ils ne soient pas ultérieurement livrés ou vendus en l'état ou sous forme d'autres produits pétroliers.
 
 4. Le coefficient d'admission est égal à 0,8 pour les gazoles et le superéthanol E 85 mentionnés au tableau B de l'article 265 du code des douanes utilisés comme carburants pour des véhicules et engins mentionnés au premier alinéa du 6° du 2, à l'exception de ceux utilisés pour les essais effectués pour les besoins de la fabrication de moteurs ou d'engins à moteur et pour autant qu'ils ne soient pas ultérieurement livrés ou vendus en l'état ou sous forme d'autres produits pétroliers.
 
-V. - 1. L'assujetti peut, par année civile, retenir :
+V.-1. L'assujetti peut, par année civile, retenir :
 
 1° Pour l'ensemble de ses biens et services utilisés concurremment à des opérations imposables et à des opérations non imposables, un coefficient d'assujettissement unique, sous réserve d'en justifier ;
 

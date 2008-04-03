@@ -5,4 +5,3 @@
 - [Article 1378 quater A](article-1378-quater-a.md)
 - [Article 1378 quinquies](article-1378-quinquies.md)
 - [Article 1378 sexies](article-1378-sexies.md)
-- [Article 1378 septies](article-1378-septies.md)

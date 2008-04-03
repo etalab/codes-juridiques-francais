@@ -1,6 +1,6 @@
 # Article 396
 
-Le crédit de paiement fractionné prévu à l'article 1717 du code général des impôts est applicable aux droits d'enregistrement  à la taxe de publicité foncière et aux taxes additionnelles exigibles en raison :
+Le crédit de paiement fractionné prévu à l'article 1717 du code général des impôts est applicable aux droits d'enregistrement à la taxe de publicité foncière et aux taxes additionnelles exigibles en raison :
 
 1° des mutations par décès ;
 
@@ -10,6 +10,6 @@ Le crédit de paiement fractionné prévu à l'article 1717 du code général de
 
 4° des paiements d'indemnités entre officiers publics et ministériels par suite de suppression d'offices ;
 
-5° des acquisitions effectuées par des Français rapatriés d'outre-mer à l'aide des prêts de reclassement prévus à l'article 30 du décret n° 62-261 modifié du 10 mars 1962 et de celles effectuées par des migrants agricoles à l'aide de prêts consentis dans le cadre des dispositions de l'article 686 du code rural au profit d'agriculteurs dont la qualité de migrant a été reconnue par le ministre de l'agriculture ;
+5° des acquisitions effectuées par des Français rapatriés d'outre-mer à l'aide des prêts de reclassement prévus à l'article 30 du décret n° 62-261 modifié du 10 mars 1962 et de celles effectuées par des migrants agricoles à l'aide de prêts consentis dans le cadre des dispositions de l'article R. 341-5 du code rural au profit d'agriculteurs dont la qualité de migrant a été reconnue par le ministre de l'agriculture ;
 
 6° (Abrogé)

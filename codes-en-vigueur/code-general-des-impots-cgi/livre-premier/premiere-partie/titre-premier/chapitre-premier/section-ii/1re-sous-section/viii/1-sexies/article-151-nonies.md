@@ -34,7 +34,7 @@ L'exonération prévue au deuxième alinéa s'applique à la plus-value en repor
 
 IV. Lorsque le contribuable mentionné au paragraphe I cesse d'exercer son activité professionnelle, l'imposition de la plus-value constatée sur les parts dont il conserve la propriété est reportée jusqu'à la date de cession, de rachat ou d'annulation de ces parts. Ce report est maintenu dans les conditions prévues au paragraphe III.
 
-IV bis.-Le I de l'article 151 octies B est applicable à l'apport de l'intégralité des droits ou parts mentionnés au I du présent article dans les conditions suivantes :
+IV bis.-Le I de l'article 151 octies B est applicable à l'apport de l'intégralité des droits ou parts mentionnés au I dans les conditions suivantes :
 
 1° L'actif de la société ou du groupement dont les droits ou parts sont apportés n'est pas principalement constitué de biens immobiliers bâtis ou non bâtis qui ne sont pas affectés par la société ou le groupement à sa propre exploitation, de droits afférents à un contrat de crédit-bail portant sur de tels biens et conclu dans les conditions prévues au 2 de l'article L. 313-7 du code monétaire et financier, de droits ou parts de sociétés dont l'actif est principalement constitué des mêmes biens, droits ou parts ;
 

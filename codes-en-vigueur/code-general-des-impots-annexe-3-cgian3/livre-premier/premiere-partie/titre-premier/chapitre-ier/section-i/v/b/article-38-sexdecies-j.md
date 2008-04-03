@@ -1,10 +1,10 @@
 # Article 38 sexdecies J
 
-I. - Les aléas d'exploitation qui autorisent l'emploi des sommes déposées sur un compte ouvert auprès d'un établissement de crédit conformément aux dispositions du I de l'article 72 D bis du code général des impôts sont les suivants :
+I.-Les aléas d'exploitation qui autorisent l'emploi des sommes déposées sur un compte ouvert auprès d'un établissement de crédit conformément aux dispositions du I de l'article 72 D bis du code général des impôts sont les suivants :
 
 1° Aléas climatiques et naturels ayant affecté l'exploitation :
 
-a) Sinistre, constaté dans les conditions prévues à l'article R. 361-42 du code rural ;
+a) Sinistre, constaté dans les conditions prévues à l'article R. 361-41 du code rural ;
 
 b) Calamité agricole, constatée dans les conditions prévues à l'article L. 361-3 du code rural ;
 
@@ -38,4 +38,4 @@ e. Augmentation du coût de l'énergie de plus de 5 % par rapport au prix moyen 
 
 5° Aléas couverts par une assurance : événement, ayant affecté l'exploitation, qui a entraîné une indemnisation par une police d'assurance de dommages aux biens ou pour perte d'exploitation souscrite par l'exploitant.
 
-II. - Peut également autoriser l'emploi des sommes déposées sur un compte ouvert auprès d'un établissement de crédit conformément aux dispositions de l'article 72 D bis du code général des impôts tout autre aléa d'origine naturelle, climatique, sanitaire ou économique, déclaré par l'exploitant et autre que ceux prévus au I, sous réserve qu'il soit suivi d'une baisse du résultat excédant 10 % de la moyenne des résultats des trois exercices précédents. Pour le calcul de cette moyenne, il n'est pas tenu compte des reports déficitaires.
+II.-Peut également autoriser l'emploi des sommes déposées sur un compte ouvert auprès d'un établissement de crédit conformément aux dispositions de l'article 72 D bis du code général des impôts tout autre aléa d'origine naturelle, climatique, sanitaire ou économique, déclaré par l'exploitant et autre que ceux prévus au I, sous réserve qu'il soit suivi d'une baisse du résultat excédant 10 % de la moyenne des résultats des trois exercices précédents. Pour le calcul de cette moyenne, il n'est pas tenu compte des reports déficitaires.

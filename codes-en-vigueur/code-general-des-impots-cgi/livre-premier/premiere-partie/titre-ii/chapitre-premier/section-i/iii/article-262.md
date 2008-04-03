@@ -30,7 +30,7 @@ II. Sont également exonérés de la taxe sur la valeur ajoutée :
 
 3° Les opérations de livraison, de location, de réparation et d'entretien portant sur des objets destinés à être incorporés dans ces bateaux ou utilisés pour leur exploitation en mer ou sur les fleuves internationaux, ainsi que sur les engins et filets pour la pêche maritime ;
 
-4° Les opérations de livraison, de transformation, de réparation, d'entretien, d'affrètement et de location portant sur les aéronefs utilisés par des compagnies de navigation aérienne dont les services à destination ou en provenance de l'étranger ou des territoires et départements d'outre-mer, à l'exclusion de la France métropolitaine, représentent au moins 80 % des services qu'elles exploitent ;
+4° Les opérations de livraison, de transformation, de réparation, d'entretien, d'affrètement et de location portant sur les aéronefs utilisés par des compagnies de navigation aérienne dont les services à destination ou en provenance de l'étranger ou des collectivités et départements d'outre-mer, à l'exclusion de la France métropolitaine, représentent au moins 80 % des services qu'elles exploitent ;
 
 5° Les opérations de livraison, de location, de réparation et d'entretien portant sur des objets destinés à être incorporés dans ces aéronefs ou utilisés pour leur exploitation en vol ;
 
@@ -38,7 +38,7 @@ II. Sont également exonérés de la taxe sur la valeur ajoutée :
 
 7° Les prestations de services effectuées pour les besoins directs des bateaux ou des aéronefs désignés aux 2° et 4° et de leur cargaison ;
 
-8° Les transports aériens ou maritimes de voyageurs en provenance ou à destination de l'étranger ou des territoires et départements d'outre-mer ;
+8° Les transports aériens ou maritimes de voyageurs en provenance ou à destination de l'étranger ou des collectivités et départements d'outre-mer ;
 
 9° Les transports ferroviaires de voyageurs en provenance et à destination de l'étranger, ainsi que les transports de voyageurs effectués par les trains internationaux et sur les relations dont la liste est fixée par arrêtés conjoints du ministre du budget et du ministre des transports ;
 

@@ -2,7 +2,7 @@
 
 Pour bénéficier de l'agrément prévu à l'article 1649 quater F du code général des impôts, les associations de membres de professions libérales et de titulaires de charges et offices doivent être légalement constituées. Leurs membres fondateurs sont exclusivement soit des ordres professionnels ou des organisations professionnelles légalement constituées de membres de professions libérales ou de titulaires de charges et offices, soit des experts comptables ou des sociétés d'expertise comptable.
 
-Les organisations professionnelles mentionnées au premier alinéa comprennent les organismes professionnels dont l'existence est prévue par la législation relative aux professions ci-dessus désignées, les syndicats professionnels et leurs unions institués conformément aux dispositions des articles L 410 et suivants du code du travail, et les associations professionnelles de personnes exerçant la même profession ainsi que leurs unions.
+Les organisations professionnelles mentionnées au premier alinéa comprennent les organismes professionnels dont l'existence est prévue par la législation relative aux professions ci-dessus désignées, les syndicats professionnels et leurs unions institués conformément aux dispositions des articles L. 2111-1 et suivants du code du travail, et les associations professionnelles de personnes exerçant la même profession ainsi que leurs unions.
 
 Les unions ou fédérations d'associations professionnelles regroupant des professions différentes sont également autorisées à prendre l'initiative de la création d'une association agréée lorsque chacune des associations qui les composent peut être regardée individuellement comme ayant vocation à créer une telle association.
 

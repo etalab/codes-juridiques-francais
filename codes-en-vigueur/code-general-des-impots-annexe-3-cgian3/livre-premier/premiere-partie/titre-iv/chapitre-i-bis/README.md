@@ -1,3 +1,7 @@
 # Chapitre I bis : Impôt de solidarité sur la fortune
 
 - [Article 299 bis](article-299-bis.md)
+- [Article 299 ter](article-299-ter.md)
+- [Article 299 quater](article-299-quater.md)
+- [Article 299 quinquies](article-299-quinquies.md)
+- [Article 299 sexies](article-299-sexies.md)

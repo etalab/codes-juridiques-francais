@@ -3,7 +3,6 @@
 - [1° : Imputation des retenues à la source et crédits d'impôt](1)
 - [12° : Réduction d'impôt accordée au titre de certains investissements réalisés outre-mer](12)
 - [14° : Réduction d'impôt accordée au titre des souscriptions en numéraire au capital des sociétés ainsi qu'au titre des souscriptions de parts de fonds communs de placement dans l'innovation](14)
-- [15° : Réduction d'impôt accordée au titre du rachat d'une entreprise par ses salariés](15)
 - [16° : Réduction d'impôt accordée au titre des dépenses afférentes à la dépendance](16)
 - [17° : Réduction ou crédit d'impôt accordé au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet](17)
 - [19° : Réduction d'impôt accordée au titre des prestations compensatoires réglées en capital ou par attribution d'un bien ou d'un droit](19)
