@@ -6,7 +6,6 @@
 - [12° : Entrepreneurs de transport](12)
 - [13° : Redevables du droit d'accroissement](13)
 - [14° : Dépositaires de documents publics](14)
-- [15° : Intermédiaires professionnels des bourses de valeurs](15)
 - [16° : Caisses de mutualité sociale agricole](16)
 - [17° : Formules de chèques non barrées](17)
 - [18° : Opérations de transfert de fonds à l'étranger](18)
