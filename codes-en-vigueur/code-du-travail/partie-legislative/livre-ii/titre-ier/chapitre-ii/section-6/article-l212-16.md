@@ -8,8 +8,6 @@ Lorsque l'entreprise travaille en continu ou est ouverte tous les jours de l'ann
 
 Par dérogation au deuxième alinéa, en l'absence de convention ou d'accord, la journée de solidarité est le lundi de Pentecôte.
 
-A défaut de convention ou d'accord de branche ou d'entreprise prévu au deuxième alinéa et lorsque le lundi de Pentecôte était travaillé antérieurement à l'entrée en vigueur de la loi n° 2004-626 du 30 juin 2004 précitée, les modalités de fixation de la journée de solidarité sont définies par l'employeur, après consultation du comité d'entreprise ou, à défaut, des délégués du personnel s'ils existent. Il en est de même pour les salariés ne travaillant pas ordinairement en vertu de la répartition de leur horaire hebdomadaire de travail sur les différents jours de la semaine le jour de la semaine retenu, sur le fondement du deuxième, du troisième ou du quatrième alinéa, pour la journée de solidarité.
-
 Le travail accompli, dans la limite de sept heures, durant la journée de solidarité ne donne pas lieu à rémunération lorsque le salarié est rémunéré en application de la loi n° 78-49 du 19 janvier 1978 relative à la mensualisation et à la procédure conventionnelle ainsi que, dans la limite de la valeur d'une journée de travail, pour les salariés dont la rémunération est calculée par référence à un nombre annuel de jours de travail conformément au III de l'article L. 212-15-3.
 
 Pour les salariés à temps partiel, la limite de sept heures prévue au sixième alinéa est réduite proportionnellement à la durée contractuelle.
