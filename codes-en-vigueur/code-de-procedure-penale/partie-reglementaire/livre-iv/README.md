@@ -11,3 +11,4 @@
 - [Titre XXIII : De l'utilisation de moyens de communication au cours de la procédure](titre-xxiii)
 - [Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées](titre-xxv)
 - [Titre XXVII : De la poursuite, de l'instruction et du jugement des infractions commises par des majeurs protégés](titre-xxvii)
+- [Titre XXVIII : De la procédure et des décisions d'irresponsabilité pénale pour cause de trouble mental](titre-xxviii)
