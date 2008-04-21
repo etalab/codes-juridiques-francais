@@ -2,7 +2,7 @@
 
 Le coût du transport collectif des enfants ou adolescents handicapés pour se rendre dans les établissements d'éducation mentionnés à l'article L. 321-1 du code de la sécurité sociale fonctionnant en externat ou semi-internat et en revenir est inclus dans les dépenses d'exploitation, quelles que soient les modalités de leur distribution, lorsque ces établissements entrent dans l'une des catégories suivantes :
 
-1° Les maisons de réadaptation fonctionnelle ;
+1° Les établissements de santé autorisés à dispenser des soins de suite et de réadaptation aux enfants et adolescents en application de l'article R. 6123-120 du code de la santé publique ;
 
 2° Les établissements pour enfant inadaptés ;
 
