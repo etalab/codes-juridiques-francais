@@ -1,0 +1,4 @@
+# Section 2 : Garanties et couverture des risques
+
+- [Sous-section 2 : Fonds de prévoyance de l'aéronautique](sous-section-2)
+- [Sous-section 3 : Indemnisation du chômage des militaires  ayant servi en vertu d'un contrat](sous-section-3)
