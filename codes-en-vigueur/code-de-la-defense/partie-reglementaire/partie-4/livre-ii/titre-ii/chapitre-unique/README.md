@@ -1,6 +1,7 @@
 # Chapitre unique
 
 - [Section 1 : Souscription de l'engagement à servir  dans la réserve opérationnelle](section-1)
+- [Section 2 : Prolongation de la durée d'activité  au-delà de trente jours par an](section-2)
 - [Section 3 : Exécution de l'engagement à servir  dans la réserve opérationnelle](section-3)
 - [Section 4 : Souscription et exécution de la clause de réactivité](section-4)
 - [Section 5 : Exécution de l'engagement à servir  dans la réserve auprès d'une entreprise](section-5)

@@ -1,0 +1,15 @@
+# Section 3 : Fonctionnement
+
+- [Article D4261-13](article-d4261-13.md)
+- [Article D4261-14](article-d4261-14.md)
+- [Article D4261-15](article-d4261-15.md)
+- [Article D4261-16](article-d4261-16.md)
+- [Article D4261-17](article-d4261-17.md)
+- [Article D4261-18](article-d4261-18.md)
+- [Article D4261-19](article-d4261-19.md)
+- [Article D4261-20](article-d4261-20.md)
+- [Article D4261-21](article-d4261-21.md)
+- [Article D4261-22](article-d4261-22.md)
+- [Article D4261-23](article-d4261-23.md)
+- [Article D4261-24](article-d4261-24.md)
+- [Article D4261-25](article-d4261-25.md)
