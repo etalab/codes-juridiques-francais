@@ -8,7 +8,6 @@
 - [Article R232-77](article-r232-77.md)
 - [Article R232-78](article-r232-78.md)
 - [Article R232-79](article-r232-79.md)
-- [Article R232-80](article-r232-80.md)
 - [Article R232-81](article-r232-81.md)
 - [Article R232-82](article-r232-82.md)
 - [Article R232-83](article-r232-83.md)
