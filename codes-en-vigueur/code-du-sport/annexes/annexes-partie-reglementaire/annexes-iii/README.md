@@ -8,4 +8,3 @@
 - [Article Annexe III-6 (art. R322-31)](article-annexe-iii-6-art-r322-31.md)
 - [Article Annexe III-7 (art. R322-31)](article-annexe-iii-7-art-r322-31.md)
 - [Article Annexe III-8 (art. R322-32)](article-annexe-iii-8-art-r322-32.md)
-- [Article Annexe III-9 aux articles R322-32 et R322-35](article-annexe-iii-9-aux-articles-r322-32-et-r322-35.md)
