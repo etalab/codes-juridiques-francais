@@ -1,6 +1,5 @@
 # Sous-section 4 : Dispositions communes aux événements soumis à déclaration ou à autorisation.
 
-- [Article R331-29](article-r331-29.md)
 - [Article R331-30](article-r331-30.md)
 - [Article R331-31](article-r331-31.md)
 - [Article R331-32](article-r331-32.md)
