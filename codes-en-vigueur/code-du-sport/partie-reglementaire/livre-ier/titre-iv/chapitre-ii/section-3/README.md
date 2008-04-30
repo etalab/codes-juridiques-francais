@@ -13,4 +13,3 @@
 - [Article A142-30](article-a142-30.md)
 - [Article A142-31](article-a142-31.md)
 - [Article A142-32](article-a142-32.md)
-- [Article D142-32](article-d142-32.md)

@@ -11,6 +11,3 @@
 - [Article A222-13](article-a222-13.md)
 - [Article A222-14](article-a222-14.md)
 - [Article A222-15](article-a222-15.md)
-- [Article R222-20](article-r222-20.md)
-- [Article R222-21](article-r222-21.md)
-- [Article R222-22](article-r222-22.md)
