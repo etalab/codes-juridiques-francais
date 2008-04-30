@@ -1,5 +1,5 @@
 # Code du sport
 
 - [Partie législative](partie-legislative)
-- [Partie réglementaire - Décrets](partie-reglementaire)
+- [Partie réglementaire - Arrêtés](partie-reglementaire)
 - [ANNEXES](annexes)

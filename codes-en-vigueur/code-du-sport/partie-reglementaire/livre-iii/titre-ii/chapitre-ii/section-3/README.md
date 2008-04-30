@@ -1,5 +1,18 @@
-# Section 3 : Exigences de sécurité auxquelles doivent répondre les cages de buts de football, de handball, de hockey sur gazon et en salle et les buts de basket-ball
+# Section 3  Etablissements qui organisent la pratique  ou dispensent l'enseignement de la plongée subaquatique
 
+- [Paragraphe 1  Limite d'utilisation des mélanges](paragraphe-1)
+- [Paragraphe 2  Confection et analyse des mélanges](paragraphe-2)
+- [Paragraphe 3  Usage des recycleurs](paragraphe-3)
+- [Paragraphe 4  Procédures de décompression](paragraphe-4)
+- [Paragraphe 5  Espace et conditions d'évolution](paragraphe-5)
+- [Paragraphe 6  Directeur de plongée](paragraphe-6)
+- [Paragraphe 7  Guide de palanquée](paragraphe-7)
+- [Paragraphe 8  Equipement des plongeurs](paragraphe-8)
+- [Paragraphe 9  Matériel d'assistance et de secours](paragraphe-9)
+- [Paragraphe 10  Dispositions générales](paragraphe-10)
+- [Article A322-88](article-a322-88.md)
+- [Article A322-89](article-a322-89.md)
+- [Article A322-90](article-a322-90.md)
 - [Article R322-19](article-r322-19.md)
 - [Article R322-20](article-r322-20.md)
 - [Article R322-21](article-r322-21.md)

@@ -1,4 +1,4 @@
-# Section unique : Agents sportifs
+# Section unique  Agents sportifs
 
-- [Sous-section 1 : Obtention de la licence d'agent sportif](sous-section-1)
-- [Sous-section 2 : Exercice de la profession d'agent sportif](sous-section-2)
+- [Sous-section 1  Modalités d'inscription à l'examen d'agent sportif](sous-section-1)
+- [Sous-section 2  Homologation du programme des épreuves de l'examen  relatif à la licence d'agent sportif](sous-section-2)

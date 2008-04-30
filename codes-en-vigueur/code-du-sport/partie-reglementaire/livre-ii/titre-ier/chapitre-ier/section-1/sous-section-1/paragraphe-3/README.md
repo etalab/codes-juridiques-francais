@@ -1,5 +1,7 @@
-# Paragraphe 3 : Régime comptable et financier
+# Paragraphe 3 : La recherche scientifique
 
+- [Article A211-5](article-a211-5.md)
+- [Article A211-6](article-a211-6.md)
 - [Article D211-14](article-d211-14.md)
 - [Article D211-15](article-d211-15.md)
 - [Article D211-16](article-d211-16.md)

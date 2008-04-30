@@ -1,5 +1,8 @@
-# Paragraphe 2 : Fonctionnement
+# Paragraphe 2 : Le secrétariat général
 
+- [Article A211-2](article-a211-2.md)
+- [Article A211-3](article-a211-3.md)
+- [Article A211-4](article-a211-4.md)
 - [Article D211-3](article-d211-3.md)
 - [Article D211-4](article-d211-4.md)
 - [Article D211-5](article-d211-5.md)

@@ -1,5 +1,7 @@
-# Paragraphe 3 : Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport
+# Paragraphe 3 : Dispositions transitoires
 
+- [Article A212-15](article-a212-15.md)
+- [Article A212-16](article-a212-16.md)
 - [Article D212-35](article-d212-35.md)
 - [Article D212-36](article-d212-36.md)
 - [Article D212-37](article-d212-37.md)

@@ -1,3 +1,3 @@
 # Chapitre II : Sport professionnel
 
-- [Section unique : Agents sportifs](section-unique)
+- [Section unique  Agents sportifs](section-unique)

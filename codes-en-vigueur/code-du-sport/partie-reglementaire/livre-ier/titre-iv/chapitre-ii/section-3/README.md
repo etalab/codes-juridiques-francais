@@ -1,3 +1,16 @@
-# Section 3 : La Commission consultative des arts martiaux.
+# Section 3  La commission « Métiers du sport et de l'animation »
 
+- [Article A142-20](article-a142-20.md)
+- [Article A142-21](article-a142-21.md)
+- [Article A142-22](article-a142-22.md)
+- [Article A142-23](article-a142-23.md)
+- [Article A142-24](article-a142-24.md)
+- [Article A142-25](article-a142-25.md)
+- [Article A142-26](article-a142-26.md)
+- [Article A142-27](article-a142-27.md)
+- [Article A142-28](article-a142-28.md)
+- [Article A142-29](article-a142-29.md)
+- [Article A142-30](article-a142-30.md)
+- [Article A142-31](article-a142-31.md)
+- [Article A142-32](article-a142-32.md)
 - [Article D142-32](article-d142-32.md)

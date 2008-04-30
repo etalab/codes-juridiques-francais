@@ -1,5 +1,11 @@
-# Paragraphe 2 : Brevet professionnel de la jeunesse, de l'éducation populaire et du sport
+# Paragraphe 2 : Délivrance du diplôme
 
+- [Article A212-9](article-a212-9.md)
+- [Article A212-10](article-a212-10.md)
+- [Article A212-11](article-a212-11.md)
+- [Article A212-12](article-a212-12.md)
+- [Article A212-13](article-a212-13.md)
+- [Article A212-14](article-a212-14.md)
 - [Article D212-20](article-d212-20.md)
 - [Article D212-21](article-d212-21.md)
 - [Article D212-22](article-d212-22.md)

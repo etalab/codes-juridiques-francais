@@ -1,6 +1,6 @@
-# Partie réglementaire - Décrets
+# Partie réglementaire - Arrêtés
 
-- [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES](livre-ier)
+- [LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES  ET SPORTIVES](livre-ier)
 - [LIVRE II : ACTEURS DU SPORT](livre-ii)
 - [LIVRE III : PRATIQUE SPORTIVE](livre-iii)
 - [LIVRE IV : DISPOSITIONS DIVERSES](livre-iv)
