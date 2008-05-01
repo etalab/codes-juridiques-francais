@@ -13,6 +13,8 @@
 - [26° : Crédit d'impôt au titre des revenus distribués](26)
 - [29° : Crédit d'impôt en faveur des jeunes prenant un métier rencontrant des difficultés de recrutement](29)
 - [3° : Réduction d'impôt accordée au titre des cotisations versées aux organisations syndicales](3)
+- [30° : Crédit d'impôt au titre des dépenses de remplacement pour congé de certains exploitants agricoles](30)
+- [31° : Crédit d'impôt pour changement d'habitation principale en vue d'exercer une activité salariée](31)
 - [32° : Crédit d'impôt en faveur des étudiants en vue du financement de leurs études supérieures](32)
 - [6° : Réduction d'impôt accordée au titre des frais de scolarité des enfants poursuivant des études secondaires ou supérieures](6)
 - [9° : Réduction d'impôt accordée au titre de certaines primes d'assurances](9)

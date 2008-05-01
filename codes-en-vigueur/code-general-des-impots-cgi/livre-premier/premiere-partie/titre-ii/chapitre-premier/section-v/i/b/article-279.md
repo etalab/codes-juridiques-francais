@@ -22,7 +22,7 @@ b. 1° Les remboursements et les rémunérations versés par les communes ou leu
 
 2° Les taxes, surtaxes et redevances perçues sur les usagers des réseaux d'assainissement ;
 
-b bis - Les spectacles suivants :
+b bis-Les spectacles suivants :
 
 théâtres ;
 
@@ -78,7 +78,7 @@ Cette disposition n'est pas applicable aux cessions de droits portant sur des oe
 
 h. Les prestations de collecte, de tri et de traitement des déchets visés aux articles L. 2224-13 et L. 2224-14 du code général des collectivités territoriales, portant sur des matériaux ayant fait l'objet d'un contrat conclu entre une commune ou un établissement public de coopération intercommunale et un organisme ou une entreprise agréé au titre de l'article L. 541-2 du code de l'environnement ;
 
-i. les prestations de services fournies par des entreprises agréées en application de l'article L. 129-1 du code du travail.
+i. les prestations de services fournies par des entreprises agréées en application des articles L. 7232-1 à L. 7232-4 du code du travail.
 
 j) Les rémunérations versées par les collectivités territoriales et leurs groupements pour la mise en oeuvre d'un contrat d'objectifs et de moyens correspondant à l'édition d'un service de télévision locale.
 

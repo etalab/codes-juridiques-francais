@@ -1,6 +1,6 @@
 # Article 81 bis
 
-I. Le crédit d'impôt attaché aux revenus des valeurs mobilières attribuées aux salariés ou acquises pour leur compte en application des articles L442-1 à L442-18 du code du travail donne lieu à la délivrance d'un certificat distinct, conformément aux dispositions de l'article 77.
+I. Le crédit d'impôt attaché aux revenus des valeurs mobilières attribuées aux salariés ou acquises pour leur compte en application des articles L. 3322-1 à L. 3326-2 du code du travail donne lieu à la délivrance d'un certificat distinct, conformément aux dispositions de l'article 77.
 
 II. Lorsque ces revenus sont exonérés, conformément aux dispositions de l'article 163 bis AA du code général des impôts, le certificat est établi pour la totalité du crédit d'impôt au nom de l'organisme chargé de la conservation des titres et de la restitution du crédit d'impôt mentionné sur ce certificat est demandée par cet organisme.
 

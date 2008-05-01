@@ -8,7 +8,7 @@ Les statuts doivent contenir une clause aux termes de laquelle ne peuvent être 
 
 3° Les personnes qui se sont rendues coupables d'une infraction fiscale reconnue frauduleuse en application de l'article 1741 du code général des impôts par une décision judiciaire ayant autorité de chose jugée ;
 
-4° Les personnes qui se sont rendues coupables d'infractions aux interdictions prévues à l'article L. 324-9 du code du travail ;
+4° Les personnes qui se sont rendues coupables d'infractions aux interdictions prévues à l'article L. 8221-1 du code du travail ;
 
 5° Les faillis non réhabilités par application de l'article L. 653-11 du code de commerce ;
 

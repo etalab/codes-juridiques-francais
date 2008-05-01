@@ -7,3 +7,5 @@
 - [Article 231 bis N](article-231-bis-n.md)
 - [Article 231 bis P](article-231-bis-p.md)
 - [Article 231 bis R](article-231-bis-r.md)
+- [Article 231 bis S](article-231-bis-s.md)
+- [Article 231 bis T](article-231-bis-t.md)
