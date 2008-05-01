@@ -2,3 +2,4 @@
 
 - [Section 2 : Employeurs de moins de dix salariés](section-2)
 - [Section 3 : Employeurs de dix salariés et plus](section-3)
+- [Section 4 : Dispositions applicables à certaines catégories d'employeurs](section-4)
