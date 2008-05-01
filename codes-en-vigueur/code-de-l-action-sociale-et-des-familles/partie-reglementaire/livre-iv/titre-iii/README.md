@@ -1,3 +1,3 @@
-# Titre III : Autres professions
+# Titre III : Educateurs et aides familiaux, personnels pédagogiques occasionnels des accueils collectifs de mineurs.
 
-- [Chapitre unique : Techniciens de l'intervention sociale et familiale](chapitre-unique)
+- [Chapitre II : Personnels pédagogiques occasionnels des accueils collectifs de mineurs.](chapitre-ii)

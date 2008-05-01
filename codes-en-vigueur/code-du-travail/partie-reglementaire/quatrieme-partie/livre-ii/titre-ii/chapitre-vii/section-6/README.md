@@ -1,0 +1,15 @@
+# Section 6 : Prévention des explosions
+
+- [Article R4227-42](article-r4227-42.md)
+- [Article R4227-43](article-r4227-43.md)
+- [Article R4227-44](article-r4227-44.md)
+- [Article R4227-45](article-r4227-45.md)
+- [Article R4227-46](article-r4227-46.md)
+- [Article R4227-47](article-r4227-47.md)
+- [Article R4227-48](article-r4227-48.md)
+- [Article R4227-49](article-r4227-49.md)
+- [Article R4227-50](article-r4227-50.md)
+- [Article R4227-51](article-r4227-51.md)
+- [Article R4227-52](article-r4227-52.md)
+- [Article R4227-53](article-r4227-53.md)
+- [Article R4227-54](article-r4227-54.md)

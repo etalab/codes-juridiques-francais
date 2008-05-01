@@ -1,0 +1,4 @@
+# Section 6 : Vibrations mécaniques.
+
+- [Article R4722-19](article-r4722-19.md)
+- [Article R4722-20](article-r4722-20.md)

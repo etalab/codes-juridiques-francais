@@ -1,0 +1,15 @@
+# Sous-section 3 : Paiement
+
+- [Article R6341-36](article-r6341-36.md)
+- [Article R6341-37](article-r6341-37.md)
+- [Article R6341-38](article-r6341-38.md)
+- [Article R6341-39](article-r6341-39.md)
+- [Article R6341-40](article-r6341-40.md)
+- [Article R6341-41](article-r6341-41.md)
+- [Article R6341-42](article-r6341-42.md)
+- [Article R6341-43](article-r6341-43.md)
+- [Article R6341-44](article-r6341-44.md)
+- [Article R6341-45](article-r6341-45.md)
+- [Article R6341-46](article-r6341-46.md)
+- [Article R6341-47](article-r6341-47.md)
+- [Article R6341-48](article-r6341-48.md)

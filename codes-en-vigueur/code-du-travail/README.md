@@ -2,4 +2,3 @@
 
 - [Partie législative ancienne](partie-legislative)
 - [Partie réglementaire](partie-reglementaire)
-- [Annexes](annexes)

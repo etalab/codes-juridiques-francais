@@ -1,0 +1,16 @@
+# Section 2 : Gestion confiée à un établissement public  en l'absence de convention.
+
+- [Article D5427-2](article-d5427-2.md)
+- [Article D5427-3](article-d5427-3.md)
+- [Article D5427-4](article-d5427-4.md)
+- [Article D5427-5](article-d5427-5.md)
+- [Article D5427-6](article-d5427-6.md)
+- [Article D5427-7](article-d5427-7.md)
+- [Article D5427-8](article-d5427-8.md)
+- [Article D5427-9](article-d5427-9.md)
+- [Article D5427-10](article-d5427-10.md)
+- [Article D5427-11](article-d5427-11.md)
+- [Article D5427-12](article-d5427-12.md)
+- [Article D5427-13](article-d5427-13.md)
+- [Article D5427-14](article-d5427-14.md)
+- [Article D5427-15](article-d5427-15.md)
