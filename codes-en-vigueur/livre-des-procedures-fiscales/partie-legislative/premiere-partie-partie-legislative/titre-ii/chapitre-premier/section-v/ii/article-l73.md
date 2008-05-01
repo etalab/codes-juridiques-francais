@@ -12,7 +12,7 @@ b. Ou que la différence entre le montant du chiffre d'affaires déclaré et cel
 
 c. Ou que la différence entre le montant des achats figurant sur le registre prévu au même texte et le montant des achats réels est supérieure de 10 % au premier chiffre ;
 
-d. Ou qu'il a été constaté des infractions aux interdictions mentionnées à l'article L. 324-9 du code du travail dans le cadre de l'article L. 324-12 du même code ;
+d. Ou qu'il a été constaté des infractions aux interdictions mentionnées à l'article L. 8221-1 du code du travail dans le cadre des articles L. 8271-7 à L. 8271-11 du même code ;
 
 1° ter Le bénéfice imposable des fiducies lorsque la déclaration annuelle prévue à l'article 223 VI du code général des impôts n'a pas été déposée dans le délai légal par le fiduciaire ;
 
@@ -20,11 +20,11 @@ d. Ou qu'il a été constaté des infractions aux interdictions mentionnées à 
 
 2° bis Les résultats imposables selon le régime d'imposition défini à l'article 102 ter du code général des impôts dès lors :
 
-a.  Qu'un des éléments déclaratifs visés au 2 de l'article précité n'a pas été indiqué ;
+a. Qu'un des éléments déclaratifs visés au 2 de l'article précité n'a pas été indiqué ;
 
 b. Ou que la différence entre le montant des recettes déclarées et celui du montant des recettes réelles est supérieure à 10 % du premier montant ;
 
-c. Ou qu'il a été constaté des infractions aux interdictions mentionnées à l'article L. 324-9 du code du travail dans le cadre de l'article L. 324-12 du même code ;
+c. Ou qu'il a été constaté des infractions aux interdictions mentionnées à l'article L. 8221-1 du code du travail dans le cadre des articles L. 8271-7 à L. 8271-11 du même code ;
 
 3° Les revenus fonciers des contribuables qui se sont abstenus de répondre aux demandes de justifications mentionnées au deuxième alinéa de l'article L. 16.
 
