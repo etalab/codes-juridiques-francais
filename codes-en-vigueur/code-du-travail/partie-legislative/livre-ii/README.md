@@ -2,6 +2,3 @@
 
 - [Chapitre préliminaire](chapitre-preliminaire)
 - [Titre Ier : Conditions du travail](titre-ier)
-- [Titre IV : Services de santé au travail.](titre-iv)
-- [Titre V : Service social du travail.](titre-v)
-- [Titre VI : Pénalités.](titre-vi)

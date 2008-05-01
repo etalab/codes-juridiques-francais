@@ -6,4 +6,4 @@ Un arrêté des ministres chargés de la santé et des sports définit la nature
 
 Les résultats de ces examens sont mentionnés dans le livret prévu à l'article L. 231-7 du présent code.
 
-Cette surveillance médicale ne dispense pas les employeurs des sportifs professionnels titulaires d'un contrat de travail au titre du 3° de l'article L. 122-1-1 du code du travail de satisfaire aux obligations qui leur incombent en application du titre IV du livre II du même code.
+Cette surveillance médicale ne dispense pas les employeurs des sportifs professionnels titulaires d'un contrat de travail au titre du 3° de l'article L. 1242-2 du code du travail de satisfaire aux obligations qui leur incombent en application du titre IV du livre II du même code.

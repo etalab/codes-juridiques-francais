@@ -1,9 +1,0 @@
-# Titre VI : Pénalités.
-
-- [Chapitre Ier : Conditions du travail - Emploi des enfants dans les spectacles et professions ambulantes - Emploi des enfants comme mannequins dans la publicité et la mode](chapitre-ier)
-- [Chapitre III : Hygiène et sécurité.](chapitre-iii)
-- [Chapitre IV : Médecine du travail.](chapitre-iv)
-- [Article L260-1](article-l260-1.md)
-- [Article L260-2](article-l260-2.md)
-- [Article L260-3](article-l260-3.md)
-- [Article L260-4](article-l260-4.md)
