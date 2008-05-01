@@ -17,3 +17,4 @@
 - [Article L731-15](article-l731-15.md)
 - [Article L731-16](article-l731-16.md)
 - [Article L731-17](article-l731-17.md)
+- [Article L731-18](article-l731-18.md)

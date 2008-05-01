@@ -1,0 +1,3 @@
+# Article L5134-93
+
+En cas de rupture du contrat de travail à durée déterminée ou du contrat de mission conclu avec une entreprise de travail temporaire pour un motif autre que celui prévu à l'article L. 5134-91 ou lorsque ce contrat n'est pas renouvelé ou en cas de rupture du contrat de travail à durée indéterminée et que son titulaire n'exerce pas d'activité professionnelle rémunérée, le versement de l'allocation dont il bénéficiait avant la conclusion du contrat est maintenu ou rétabli selon les conditions prévues pour l'attribution du revenu minimum d'insertion, de l'allocation de solidarité spécifique, de l'allocation de parent isolé ou de l'allocation aux adultes handicapés.

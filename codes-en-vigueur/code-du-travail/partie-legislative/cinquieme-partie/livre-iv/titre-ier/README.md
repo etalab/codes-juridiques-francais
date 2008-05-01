@@ -2,3 +2,4 @@
 
 - [Chapitre Ier : Inscription du demandeur d'emploi et recherche d'emploi](chapitre-ier)
 - [Chapitre II : Radiation de la liste des demandeurs d'emploi.](chapitre-ii)
+- [Chapitre III : Dispositions pénales.](chapitre-iii)

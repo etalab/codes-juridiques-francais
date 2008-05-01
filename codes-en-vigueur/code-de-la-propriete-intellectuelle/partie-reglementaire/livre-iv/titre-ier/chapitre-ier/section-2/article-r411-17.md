@@ -22,7 +22,7 @@ Recours en restauration ;
 
 2° Pour les brevets européens :
 
-Publication de traduction ou de traduction révisée d'un brevet européen ou des revendications d'une demande de brevet européen ;
+Publication de traduction ou de traduction révisée des revendications d'une demande de brevet ou des revendications d'un brevet européen ;
 
 Etablissement et transmission de copies de la demande de brevet européen aux Etats destinataires ;
 
@@ -60,7 +60,7 @@ Régularisation, rectification, relevé de déchéance ;
 
 Enregistrement et gardiennage d'enveloppe spéciale ;
 
-6° Redevances communes aux brevets d'invention, certificats d'utilité, certificats complémentaires de protection, logiciels, marques, dessins ou modèles. - Palmarès et récompenses :
+6° Redevances communes aux brevets d'invention, certificats d'utilité, certificats complémentaires de protection, logiciels, marques, dessins ou modèles.-Palmarès et récompenses :
 
 Supplément pour requête tardive, paiement tardif ou accomplissement tardif d'une formalité ;
 
@@ -82,12 +82,12 @@ Dépôt d'un acte.
 
 En cas d'irrecevabilité, les redevances suivantes sont remboursées :
 
-- pour les brevets d'invention, certificats d'utilité et certificats complémentaires de protection : dépôt ;
+-pour les brevets d'invention, certificats d'utilité et certificats complémentaires de protection : dépôt ;
 
-- pour les marques de fabrique, de commerce ou de service :
+-pour les marques de fabrique, de commerce ou de service :
 
 dépôt, classe de produit ou service, renouvellement ;
 
-- pour les dessins et modèles : dépôt, prorogation.
+-pour les dessins et modèles : dépôt, prorogation.
 
 Est également remboursée la redevance de rapport de recherche d'un brevet d'invention lorsqu'il est mis fin à la procédure de délivrance du brevet ou en cas de prorogation des interdictions de divulgation et de libre exploitation, si la procédure d'établissement du rapport de recherche n'a pas été engagée.

@@ -1,5 +1,6 @@
 # Section 2 : Congés non rémunérés
 
+- [Sous-section 1 : Congé de solidarité familiale.](sous-section-1)
 - [Sous-section 2 : Congé de soutien familial.](sous-section-2)
 - [Sous-section 3 : Congé de solidarité internationale.](sous-section-3)
 - [Sous-section 4 : Congé pour catastrophe naturelle.](sous-section-4)
@@ -10,3 +11,4 @@
 - [Sous-section 9 : Réserve opérationnelle et service national](sous-section-9)
 - [Sous-section 10 : Congé et période de travail à temps partiel pour la création ou la reprise d'entreprise et congé sabbatique](sous-section-10)
 - [Sous-Section 11 : Réserve dans la sécurité civile,  opérations de secours et réserve sanitaire.](sous-section-11)
+- [Sous-section 12 : Congé pour acquisition de la nationalité.](sous-section-12)

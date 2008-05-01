@@ -3,3 +3,4 @@
 - [Chapitre Ier : Champ d'application et définitions](chapitre-ier)
 - [Chapitre II : Contrat de travail](chapitre-ii)
 - [Chapitre III : Rémunération.](chapitre-iii)
+- [Chapitre IV : Dispositions pénales.](chapitre-iv)

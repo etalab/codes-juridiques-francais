@@ -1,0 +1,15 @@
+# Chapitre II : Protection en cas de rupture d'un contrat de travail à durée déterminée
+
+- [Section 1 : Champ d'application.](section-1)
+- [Section 2 : Délégué syndical.](section-2)
+- [Section 3 : Délégué du personnel.](section-3)
+- [Section 4 : Membre du comité d'entreprise.](section-4)
+- [Section 5 : Membre du groupe spécial de négociation et membre du comité d'entreprise européen.](section-5)
+- [Section 6 : Membre du groupe spécial de négociation et représentant au comité de la société européenne.](section-6)
+- [Section 7 : Représentant du personnel au comité d'hygiène, de sécurité et des conditions de travail.](section-7)
+- [Section 8 : Représentant du personnel d'une entreprise extérieure au comité d'hygiène, de sécurité et des conditions de travail.](section-8)
+- [Section 9 : Salarié membre d'une commission paritaire d'hygiène, de sécurité et des conditions de travail en agriculture.](section-9)
+- [Section 10 : Salarié mandaté.](section-10)
+- [Section 11 : Membre du conseil ou administrateur d'une caisse de sécurité sociale.](section-11)
+- [Section 12 : Représentant des salariés dans une chambre d'agriculture.](section-12)
+- [Section 13 : Conseiller prud'homme.](section-13)

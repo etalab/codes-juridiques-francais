@@ -1,3 +1,15 @@
 # Sous-section 1 : Employeurs du bâtiment et des travaux publics.
 
+- [Article L6331-35](article-l6331-35.md)
+- [Article L6331-36](article-l6331-36.md)
+- [Article L6331-37](article-l6331-37.md)
+- [Article L6331-38](article-l6331-38.md)
+- [Article L6331-39](article-l6331-39.md)
+- [Article L6331-40](article-l6331-40.md)
+- [Article L6331-41](article-l6331-41.md)
+- [Article L6331-42](article-l6331-42.md)
+- [Article L6331-43](article-l6331-43.md)
+- [Article L6331-44](article-l6331-44.md)
+- [Article L6331-45](article-l6331-45.md)
 - [Article L6331-46](article-l6331-46.md)
+- [Article L6331-47](article-l6331-47.md)

@@ -1,6 +1,15 @@
 # Sous-section 3 : Autorisations d'absence et congé de maternité.
 
+- [Article L1225-16](article-l1225-16.md)
 - [Article L1225-17](article-l1225-17.md)
+- [Article L1225-18](article-l1225-18.md)
 - [Article L1225-19](article-l1225-19.md)
+- [Article L1225-20](article-l1225-20.md)
+- [Article L1225-21](article-l1225-21.md)
+- [Article L1225-22](article-l1225-22.md)
 - [Article L1225-23](article-l1225-23.md)
 - [Article L1225-24](article-l1225-24.md)
+- [Article L1225-25](article-l1225-25.md)
+- [Article L1225-26](article-l1225-26.md)
+- [Article L1225-27](article-l1225-27.md)
+- [Article L1225-28](article-l1225-28.md)

@@ -1,0 +1,3 @@
+# Article L432-2
+
+Les personnes titulaires d'un contrat d'engagement éducatif ne sont pas soumises aux dispositions relatives à la durée du travail, à la répartition et à l'aménagement des horaires prévues par le titre II du livre Ier de la troisième partie du code du travail, à celles relatives aux repos quotidien et hebdomadaire prévues par les chapitres Ier et II du titre III du livre Ier de la troisième partie et à celles relatives au salaire minimum interprofessionnel de croissance et à la rémunération mensuelle minimale prévues par les chapitres Ier et II du titre III du livre II de la troisième partie.

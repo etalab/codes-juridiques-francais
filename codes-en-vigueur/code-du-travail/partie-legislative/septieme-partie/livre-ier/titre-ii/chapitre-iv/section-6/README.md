@@ -1,0 +1,16 @@
+# Section 6 : Dispositions pénales.
+
+- [Article L7124-22](article-l7124-22.md)
+- [Article L7124-23](article-l7124-23.md)
+- [Article L7124-24](article-l7124-24.md)
+- [Article L7124-25](article-l7124-25.md)
+- [Article L7124-26](article-l7124-26.md)
+- [Article L7124-27](article-l7124-27.md)
+- [Article L7124-28](article-l7124-28.md)
+- [Article L7124-29](article-l7124-29.md)
+- [Article L7124-30](article-l7124-30.md)
+- [Article L7124-31](article-l7124-31.md)
+- [Article L7124-32](article-l7124-32.md)
+- [Article L7124-33](article-l7124-33.md)
+- [Article L7124-34](article-l7124-34.md)
+- [Article L7124-35](article-l7124-35.md)

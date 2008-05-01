@@ -1,0 +1,15 @@
+# Chapitre II : Saisies et cessions.
+
+- [Article L3252-1](article-l3252-1.md)
+- [Article L3252-2](article-l3252-2.md)
+- [Article L3252-3](article-l3252-3.md)
+- [Article L3252-4](article-l3252-4.md)
+- [Article L3252-5](article-l3252-5.md)
+- [Article L3252-6](article-l3252-6.md)
+- [Article L3252-7](article-l3252-7.md)
+- [Article L3252-8](article-l3252-8.md)
+- [Article L3252-9](article-l3252-9.md)
+- [Article L3252-10](article-l3252-10.md)
+- [Article L3252-11](article-l3252-11.md)
+- [Article L3252-12](article-l3252-12.md)
+- [Article L3252-13](article-l3252-13.md)
