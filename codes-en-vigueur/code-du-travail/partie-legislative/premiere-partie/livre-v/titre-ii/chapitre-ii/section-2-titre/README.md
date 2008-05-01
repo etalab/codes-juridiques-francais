@@ -1,5 +1,6 @@
 # Section 2 : Titre de travail simplifié.
 
+- [Article L1522-3](article-l1522-3.md)
 - [Article L1522-4](article-l1522-4.md)
 - [Article L1522-5](article-l1522-5.md)
 - [Article L1522-6](article-l1522-6.md)
