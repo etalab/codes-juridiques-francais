@@ -6,5 +6,7 @@
 - [Livre VI : Contrôle de l'application de la législation et de la réglementation du travail](livre-vi)
 - [Livre VII : Dispositions particulières à certaines professions](livre-vii)
 - [PREMIÈRE PARTIE : LES RELATIONS INDIVIDUELLES DE TRAVAIL](premiere-partie)
+- [TROISIÈME PARTIE : DURÉE DU TRAVAIL, SALAIRE, INTÉRESSEMENT, PARTICIPATION ET ÉPARGNE SALARIALE](troisieme-partie)
+- [CINQUIÈME PARTIE : L'EMPLOI](cinquieme-partie)
 - [SIXIÈME PARTIE : LA FORMATION PROFESSIONNELLE TOUT AU LONG DE LA VIE](sixieme-partie)
 - [HUITIÈME PARTIE : CONTRÔLE DE L'APPLICATION DE LA LÈGISLATION DU TRAVAIL](huitieme-partie)

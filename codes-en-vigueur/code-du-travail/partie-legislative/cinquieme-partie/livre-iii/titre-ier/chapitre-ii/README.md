@@ -1,0 +1,16 @@
+# Chapitre II : Placement et accompagnement des demandeurs d'emploi.
+
+- [Article L5312-1](article-l5312-1.md)
+- [Article L5312-2](article-l5312-2.md)
+- [Article L5312-3](article-l5312-3.md)
+- [Article L5312-4](article-l5312-4.md)
+- [Article L5312-5](article-l5312-5.md)
+- [Article L5312-6](article-l5312-6.md)
+- [Article L5312-7](article-l5312-7.md)
+- [Article L5312-8](article-l5312-8.md)
+- [Article L5312-9](article-l5312-9.md)
+- [Article L5312-10](article-l5312-10.md)
+- [Article L5312-11](article-l5312-11.md)
+- [Article L5312-12](article-l5312-12.md)
+- [Article L5312-13](article-l5312-13.md)
+- [Article L5312-14](article-l5312-14.md)
