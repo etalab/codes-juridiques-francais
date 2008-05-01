@@ -1,4 +1,4 @@
-# Partie réglementaire ancienne - Décrets simples
+# Partie réglementaire
 
 - [Livre Ier : Conventions relatives au travail](livre-ier)
 - [Livre II : Réglementation du travail](livre-ii)
@@ -9,3 +9,4 @@
 - [Livre VII : Dispositions particulières à certaines professions](livre-vii)
 - [Livre VIII : Dispositions spéciales aux départements d'outre-mer](livre-viii)
 - [Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente](livre-ix)
+- [TROISIÈME PARTIE : DURÉE DU TRAVAIL, SALAIRE, INTÉRESSEMENT,  PARTICIPATION ET ÉPARGNE SALARIALE](troisieme-partie)
