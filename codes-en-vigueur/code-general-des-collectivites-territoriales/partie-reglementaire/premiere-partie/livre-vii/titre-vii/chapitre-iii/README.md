@@ -10,5 +10,4 @@
 - [Article R1773-8](article-r1773-8.md)
 - [Article R1773-9](article-r1773-9.md)
 - [Article R1773-10](article-r1773-10.md)
-- [Article R1773-11](article-r1773-11.md)
 - [Article R1773-12](article-r1773-12.md)
