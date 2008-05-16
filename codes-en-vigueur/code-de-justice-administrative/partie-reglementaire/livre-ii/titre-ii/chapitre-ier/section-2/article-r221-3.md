@@ -70,12 +70,18 @@ Mamoudzou : Mayotte ;
 
 Mata-Utu : îles Wallis et Futuna ;
 
-Nouvelle-Calédonie : Nouvelle-Calédonie ;
+Nouméa : Nouvelle-Calédonie ;
 
-Polynésie française : Polynésie française ;
+Papeete : Polynésie française, Clipperton ;
+
+Saint-Barthélemy : Saint-Barthélemy ;
+
+Saint-Martin : Saint-Martin ;
 
 Saint-Denis : Réunion, Terres australes et antarctiques françaises ;
 
 Saint-Pierre : Saint-Pierre-et-Miquelon.
 
 Toutefois, le ressort du tribunal administratif de Melun comprend l'intégralité de l'emprise de l'aérodrome de Paris-Orly et celui du tribunal administratif de Cergy-Pontoise l'intégralité de l'emprise de l'aérodrome de Paris - Charles-de-Gaulle.
+
+Le siège des tribunaux administratifs de Saint-Barthélemy et de Saint-Martin est fixé à Basse-Terre.

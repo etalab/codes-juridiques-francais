@@ -6,4 +6,4 @@ L'avis d'audience reproduit les dispositions des articles R. 731-1, R. 731-2, R.
 
 L'avertissement est donné sept jours au moins avant l'audience. Toutefois, en cas d'urgence, ce délai peut être réduit à deux jours par une décision expresse du président de la formation de jugement qui est mentionnée sur l'avis d'audience.
 
-Devant les tribunaux administratifs de Mamoudzou, de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie, le délai de sept jours est porté à dix jours.
+Devant les tribunaux administratifs de Mayotte, de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie, le délai de sept jours est porté à dix jours.

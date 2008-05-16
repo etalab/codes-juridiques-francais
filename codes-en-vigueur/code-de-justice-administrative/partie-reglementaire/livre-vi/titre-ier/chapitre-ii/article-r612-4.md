@@ -4,6 +4,6 @@ Lorsqu'elle concerne une administration de l'Etat, la mise en demeure est adress
 
 Devant les tribunaux administratifs de la Polynésie française et de Nouvelle-Calédonie, la mise en demeure est adressée par le président du tribunal administratif au haut-commissaire si elle concerne une administration de l'Etat.
 
-Devant le tribunal administratif de Mamoudzou, la mise en demeure est adressée par le président du tribunal administratif au représentant du Gouvernement si elle concerne une administration de l'Etat ou de la collectivité territoriale.
+Devant le tribunal administratif de Mayotte, la mise en demeure est adressée par le président du tribunal administratif au représentant du Gouvernement si elle concerne une administration de l'Etat ou de la collectivité territoriale.
 
 Devant le tribunal administratif de Mata-Utu, la mise en demeure est adressée à l'administrateur supérieur si elle concerne une administration de l'Etat ou du territoire des îles Wallis et Futuna.

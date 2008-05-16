@@ -2,13 +2,13 @@
 
 Le siège et le ressort des cours administratives d'appel sont fixés comme suit :
 
-Bordeaux : ressort des tribunaux administratifs de Bordeaux, Limoges, Pau, Poitiers, Toulouse, Basse-Terre, Cayenne, Fort-de-France, Mamoudzou, Saint-Denis et Saint-Pierre ;
+Bordeaux : ressort des tribunaux administratifs de Bordeaux, Limoges, Pau, Poitiers, Toulouse, Basse-Terre, Cayenne, Fort-de-France, Saint-Denis, Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon ;
 
 Douai : ressort des tribunaux administratifs d'Amiens, Lille et Rouen ;
 
 Lyon : ressort des tribunaux administratifs de Clermont-Ferrand, Dijon, Grenoble et Lyon ;
 
-Marseille : ressort des tribunaux administratifs de Bastia, Marseille, Montpellier, Nice et Nîmes  ;
+Marseille : ressort des tribunaux administratifs de Bastia, Marseille, Montpellier, Nice et Nîmes ;
 
 Nancy : ressort des tribunaux administratifs de Besançon, Châlons-en-Champagne, Nancy et Strasbourg ;
 
