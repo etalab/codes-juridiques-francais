@@ -2,7 +2,7 @@
 
 La liste des autorités administratives et judiciaires avec lesquelles les détenus peuvent correspondre sous pli fermé, en application de l'article D. 262, est fixée comme suit :
 
-I. - Les autorités administratives et judiciaires françaises :
+I.-Les autorités administratives et judiciaires françaises :
 
 Le Président de la République ;
 
@@ -70,9 +70,11 @@ Le président de la Haute Autorité de lutte contre les discriminations et pour 
 
 Le Défenseur des enfants ;
 
-Le président de la Commission nationale de déontologie de la sécurité.
+Le président de la Commission nationale de déontologie de la sécurité ;
 
-II. - En ce qui concerne les détenus militaires ou relevant d'une autorité militaire :
+Le contrôleur général des lieux de privation de liberté.
+
+II.-En ce qui concerne les détenus militaires ou relevant d'une autorité militaire :
 
 Le directeur général de la gendarmerie nationale ;
 
@@ -80,11 +82,11 @@ Les généraux commandant les régions militaires ;
 
 Les commandants de l'unité dont relève le détenu.
 
-III. - Doit être assimilée à ces autorités :
+III.-Doit être assimilée à ces autorités :
 
 L'épouse du Président de la République.
 
-IV. - Doivent être assimilés aux autorités françaises :
+IV.-Doivent être assimilés aux autorités françaises :
 
 Les députés au Parlement européen ;
 
