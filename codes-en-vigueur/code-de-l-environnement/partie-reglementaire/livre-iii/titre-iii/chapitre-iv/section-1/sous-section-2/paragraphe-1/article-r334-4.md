@@ -50,7 +50,7 @@ II. - D'un autre collège qui comprend :
 
 9° Un représentant des parcs naturels régionaux intéressés, sur proposition de la Fédération nationale des parcs naturels régionaux de France ;
 
-10° Deux représentants des associations de protection de l'environnement agréées au titre de l'article L. 141-1 ;
+10° Deux représentants des associations de protection de l'environnement agréées au titre de l'article L. 141-1 ou de fondations ;
 
 11° Le président du Conseil supérieur de la navigation de plaisance et des sports nautiques ;
 
