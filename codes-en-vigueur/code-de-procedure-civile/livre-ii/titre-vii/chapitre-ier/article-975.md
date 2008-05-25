@@ -1,13 +1,17 @@
 # Article 975
 
-La déclaration de pourvoi est faite par acte contenant, outre les mentions prescrites par l'article 58 :
+La déclaration de pourvoi contient, à peine de nullité :
 
-1° La constitution de l'avocat au Conseil d'Etat et à la Cour de cassation du demandeur ;
+1° Pour les personnes physiques : l'indication des nom, prénoms, domicile du demandeur en cassation ;
 
-2° L'indication de la décision attaquée ;
+Pour les personnes morales : l'indication de leur forme, leur dénomination, leur siège social ;
 
-3° Le cas échéant, les chefs de la décision auxquels le pourvoi est limité ;
+2° L'indication des nom, prénoms et domicile du défendeur, ou, s'il s'agit d'une personne morale, de sa dénomination et de son siège social ;
 
-4° L'état de la procédure d'exécution, sauf dans les cas où l'exécution de la décision attaquée est interdite par la loi ;
+3° La constitution de l'avocat au Conseil d'Etat et à la Cour de cassation du demandeur ;
 
-Elle est signée par l'avocat au Conseil d'Etat et à la Cour de cassation.
+4° L'indication de la décision attaquée.
+
+La déclaration précise, le cas échéant, les chefs de la décision auxquels le pourvoi est limité.
+
+Elle est datée et signée par l'avocat au Conseil d'Etat et à la Cour de cassation.

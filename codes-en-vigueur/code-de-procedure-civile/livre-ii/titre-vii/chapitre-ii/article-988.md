@@ -6,8 +6,6 @@ Le greffier de la juridiction qui a rendu la décision attaquée transmet sans d
 
 - une copie de la décision confirmée ou infirmée par la décision attaquée ;
 
-- une copie de toute autre décision rendue dans le même litige et à laquelle la décision attaquée fait référence ;
-
 - les conclusions de première instance et d'appel s'il en a été pris.
 
 Il transmet immédiatement au greffe de la Cour de cassation toute pièce qui lui parviendrait ultérieurement.
