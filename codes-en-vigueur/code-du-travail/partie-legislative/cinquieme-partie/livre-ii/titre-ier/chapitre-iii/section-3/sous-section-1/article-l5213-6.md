@@ -4,4 +4,4 @@ Afin de garantir le respect du principe d'égalité de traitement à l'égard de
 
 Ces mesures sont prises sous réserve que les charges consécutives à leur mise en oeuvre ne soient pas disproportionnées, compte tenu de l'aide prévue à l'article L. 5213-10 qui peuvent compenser en tout ou partie les dépenses supportées à ce titre par l'employeur.
 
-Le refus de prendre des mesures au sens du premier alinéa peut être constitutif d'une discrimination au sens de l'article L. 1133-2.
+Le refus de prendre des mesures au sens du premier alinéa peut être constitutif d'une discrimination au sens de l'article L. 1133-3.
