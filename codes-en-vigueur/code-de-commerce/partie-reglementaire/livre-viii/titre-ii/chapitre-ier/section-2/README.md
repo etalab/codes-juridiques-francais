@@ -4,3 +4,4 @@
 - [Article R821-24](article-r821-24.md)
 - [Article R821-25](article-r821-25.md)
 - [Article R821-26](article-r821-26.md)
+- [Article R821-27](article-r821-27.md)
