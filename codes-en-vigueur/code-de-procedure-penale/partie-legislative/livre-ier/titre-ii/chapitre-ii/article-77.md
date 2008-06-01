@@ -8,4 +8,4 @@ Sur instructions du procureur de la République saisi des faits, les personnes �
 
 Pour l'application du présent article, les ressorts des tribunaux de grande instance de Paris, Nanterre, Bobigny et Créteil constituent un seul et même ressort.
 
-Les dispositions des articles 63-1, 63-2, 63-3, 63-4, 64 et 65 sont applicables aux gardes à vue exécutées dans le cadre du présent chapitre.
+Les dispositions des articles 63-1, 63-2, 63-3, 63-4, 64, 64-1 et 65 sont applicables aux gardes à vue exécutées dans le cadre du présent chapitre.
