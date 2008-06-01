@@ -10,6 +10,6 @@ c) Justifier, à l'égard des clients, d'une garantie financière suffisante, sp
 
 d) Justifier d'une assurance garantissant les conséquences pécuniaires de la responsabilité civile professionnelle ;
 
-e) Disposer d'installations matérielles appropriées sur le territoire national ou sur celui d'un autre Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
+e) Disposer d'installations matérielles appropriées sur le territoire national.
 
 La licence est délivrée aux personnes morales qui satisfont aux conditions prévues aux c, d, et e ci-dessus et dont les représentants légaux satisfont aux conditions posées aux a et b ci-dessus.
