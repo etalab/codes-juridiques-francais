@@ -19,6 +19,7 @@
 - [Section VI septies : Crédit d'impôt pour le rachat du capital d'une société](section-vi-septies)
 - [Section VI octies : Réduction d'impôt en faveur des entreprises qui souscrivent au capital de sociétés de presse](section-vi-octies)
 - [Section VI nonies : Crédit d'impôt pour dépenses de distribution d'oeuvres audiovisuelles](section-vi-nonies)
+- [Section VI decies : Crédit d'impôt en faveur des créateurs de jeux vidéo](section-vi-decies)
 - [Section VII : Bénéfice imposable des caisses de crédit mutuel agricole et rural](section-vii)
 - [Section VIII : Régime des groupes de sociétés](section-viii)
 - [Section VIII bis : Régime de taxation au tonnage](section-viii-bis)
