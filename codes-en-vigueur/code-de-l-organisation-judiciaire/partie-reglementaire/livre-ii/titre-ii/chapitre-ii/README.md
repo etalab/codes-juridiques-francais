@@ -1,3 +1,5 @@
-# Chapitre II : Dispositions particulières en matière d'expropriation
+# Chapitre II : Organisation et fonctionnement
 
-- [Article R222-1](article-r222-1.md)
+- [Section 1 : Le service juridictionnel](section-1)
+- [Section 3 : Le greffe](section-3)
+- [Section 4 : Les assemblées générales](section-4)

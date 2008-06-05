@@ -1,3 +1,4 @@
-# Chapitre III : Dispositions particulières à la protection de l'enfance.
+# Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut Rhin et de la Moselle
 
-- [Article R223-1](article-r223-1.md)
+- [Section 1 : Institution et compétence](section-1)
+- [Section 2 : Organisation et fonctionnement](section-2)

@@ -1,3 +1,3 @@
-# Titre IV : Le tribunal paritaire des baux ruraux
+# TITRE IV : DISPOSITIONS PARTICULIERES EN CAS DE SAISINE  POUR AVIS DE LA COUR DE CASSATION
 
-- [Chapitre II : Constitution des tribunaux paritaires.](chapitre-ii)
+- [Chapitre unique](chapitre-unique)

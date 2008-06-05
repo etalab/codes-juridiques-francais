@@ -1,3 +1,4 @@
-# Titre III : Commission juridictionnelle fonctionnant auprès de la cour d'appel : la commission d'indemnisation de certains dommages corporels
+# TITRE III : LA JURIDICTION DE PROXIMITE
 
-- [Article R*231-1](article-r-231-1.md)
+- [Chapitre Ier : Institution et compétence](chapitre-ier)
+- [Chapitre II : Organisation et fonctionnement](chapitre-ii)

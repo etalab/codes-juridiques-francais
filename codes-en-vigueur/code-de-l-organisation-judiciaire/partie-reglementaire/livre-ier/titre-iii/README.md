@@ -1,4 +1,3 @@
-# Titre III : Fonctionnement
+# TITRE III : MAISONS DE JUSTICE ET DU DROIT
 
-- [Chapitre Ier : Le service des chambres de la Cour](chapitre-ier)
-- [Chapitre II : Le ministère public](chapitre-ii)
+- [Chapitre unique](chapitre-unique)

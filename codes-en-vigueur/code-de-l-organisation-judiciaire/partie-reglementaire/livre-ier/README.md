@@ -1,6 +1,5 @@
-# Livre Ier : La Cour de cassation
+# LIVRE IER : DISPOSITIONS COMMUNES  AUX JURIDICTIONS JUDICIAIRES
 
-- [Titre II : Organisation](titre-ii)
-- [Titre III : Fonctionnement](titre-iii)
-- [Titre IV : Commissions juridictionnelles fonctionnant auprès de la Cour de cassation](titre-iv)
-- [Titre V : Saisine pour avis de la Cour de cassation.](titre-v)
+- [TITRE IER : PRINCIPES GENERAUX](titre-ier)
+- [TITRE II : REGLES GENERALES D'ORGANISATION  ET DE FONCTIONNEMENT](titre-ii)
+- [TITRE III : MAISONS DE JUSTICE ET DU DROIT](titre-iii)

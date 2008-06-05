@@ -1,6 +1,6 @@
-# Livre II : La cour d'appel
+# LIVRE II : JURIDICTIONS DU PREMIER DEGRE
 
-- [Titre Ier : Dispositions générales](titre-ier)
-- [Titre II : Dispositions particulières à certaines matières](titre-ii)
-- [Titre III : Commission juridictionnelle fonctionnant auprès de la cour d'appel : la commission d'indemnisation de certains dommages corporels](titre-iii)
-- [Titre IV : Le service administratif régional](titre-iv)
+- [TITRE IER : LE TRIBUNAL DE GRANDE INSTANCE](titre-ier)
+- [TITRE II : LE TRIBUNAL D'INSTANCE](titre-ii)
+- [TITRE III : LA JURIDICTION DE PROXIMITE](titre-iii)
+- [TITRE V : LES JURIDICTIONS DES MINEURS](titre-v)

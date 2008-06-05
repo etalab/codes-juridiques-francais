@@ -1,7 +1,6 @@
-# Titre II : Dispositions particulières à certaines matières
+# TITRE II : LE TRIBUNAL D'INSTANCE
 
-- [Chapitre Ier : Dispositions particulières en matière sociale](chapitre-ier)
-- [Chapitre II : Dispositions particulières en matière d'expropriation](chapitre-ii)
-- [Chapitre III : Dispositions particulières à la protection de l'enfance.](chapitre-iii)
-- [Chapitre V : Dispositions particulières aux professions juridiques et judiciaires](chapitre-v)
-- [Chapitre VI : Dispositions particulières relatives à l'application des peines](chapitre-vi)
+- [Chapitre Ier : Institution et compétence](chapitre-ier)
+- [Chapitre II : Organisation et fonctionnement](chapitre-ii)
+- [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut Rhin et de la Moselle](chapitre-iii)
+- [Chapitre IV : Dispositions particulières aux départements d'outre-mer](chapitre-iv)

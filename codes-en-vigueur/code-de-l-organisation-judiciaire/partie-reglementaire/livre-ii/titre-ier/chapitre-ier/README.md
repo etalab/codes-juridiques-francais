@@ -1,4 +1,6 @@
 # Chapitre Ier : Institution et compétence
 
-- [Article R*211-1](article-r-211-1.md)
-- [Article R*211-2](article-r-211-2.md)
+- [Section 1 : Compétence matérielle](section-1)
+- [Section 2 : Compétence territoriale](section-2)
+- [Article D211-1](article-d211-1.md)
+- [Article R211-2](article-r211-2.md)

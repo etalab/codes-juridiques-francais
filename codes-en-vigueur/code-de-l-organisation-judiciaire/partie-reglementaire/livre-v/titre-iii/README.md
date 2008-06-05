@@ -1,3 +1,5 @@
-# Titre III : Le juge des enfants
+# TITRE III : DISPOSITIONS APPLICABLES A WALLIS ET FUTUNA
 
-- [Chapitre Ier : Institution et compétence](chapitre-ier)
+- [Chapitre Ier : Dispositions générales](chapitre-ier)
+- [Chapitre II : Des juridictions](chapitre-ii)
+- [Chapitre III : Du greffe](chapitre-iii)

@@ -1,9 +1,6 @@
-# Titre II : Organisation
+# TITRE II : REGLES GENERALES D'ORGANISATION  ET DE FONCTIONNEMENT
 
-- [Article R*121-1](article-r-121-1.md)
-- [Article R*121-2](article-r-121-2.md)
-- [Article R*121-3](article-r-121-3.md)
-- [Article R*121-4](article-r-121-4.md)
-- [Article R*121-5](article-r-121-5.md)
-- [Article R*121-6](article-r-121-6.md)
-- [Article R*121-7](article-r-121-7.md)
+- [Chapitre Ier : Les juges](chapitre-ier)
+- [Chapitre II : Le ministère public](chapitre-ii)
+- [Chapitre III : Le greffe](chapitre-iii)
+- [Chapitre IV : Siège et ressort des juridictions](chapitre-iv)

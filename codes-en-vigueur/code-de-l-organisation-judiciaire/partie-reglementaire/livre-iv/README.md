@@ -1,7 +1,6 @@
-# Livre IV : Les juridictions spécialisées non pénales
+# LIVRE IV : LA COUR DE CASSATION
 
-- [Titre II : Le conseil de prud'hommes](titre-ii)
-- [Titre III : Le juge de l'expropriation](titre-iii)
-- [Titre IV : Le tribunal paritaire des baux ruraux](titre-iv)
-- [Titre V : Les juridictions de sécurité sociale](titre-v)
-- [Titre VI : Les prud'hommes pêcheurs](titre-vi)
+- [TITRE IER : INSTITUTION ET COMPETENCE](titre-ier)
+- [TITRE II : ORGANISATION](titre-ii)
+- [TITRE III : FONCTIONNEMENT](titre-iii)
+- [TITRE IV : DISPOSITIONS PARTICULIERES EN CAS DE SAISINE  POUR AVIS DE LA COUR DE CASSATION](titre-iv)

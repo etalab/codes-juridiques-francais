@@ -1,10 +1,10 @@
-# Chapitre II : Organisation
+# Chapitre II : Organisation et fonctionnement
 
-- [Article R*212-1](article-r-212-1.md)
-- [Article R*212-2](article-r-212-2.md)
-- [Article R*212-3](article-r-212-3.md)
-- [Article R*212-4](article-r-212-4.md)
-- [Article R*212-5](article-r-212-5.md)
-- [Article R*212-6](article-r-212-6.md)
-- [Article R*212-7](article-r-212-7.md)
-- [Article R*212-8](article-r-212-8.md)
+- [Section 1 : Le service juridictionnel](section-1)
+- [Section 2 : Le parquet](section-2)
+- [Section 3 : Le greffe](section-3)
+- [Section 4 : Les chambres détachées](section-4)
+- [Section 5 : Les assemblées générales](section-5)
+- [Section 6 : Administration et inspection des juridictions du ressort du tribunal de grande instance](section-6)
+- [Article R212-1](article-r212-1.md)
+- [Article R212-2](article-r212-2.md)
