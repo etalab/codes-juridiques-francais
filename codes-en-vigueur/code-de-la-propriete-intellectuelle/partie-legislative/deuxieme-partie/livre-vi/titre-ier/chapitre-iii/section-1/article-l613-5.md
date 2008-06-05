@@ -8,4 +8,6 @@ b) Aux actes accomplis à titre expérimental qui portent sur l'objet de l'inven
 
 c) A la préparation de médicaments faite extemporanément et par unité dans les officines de pharmacie, sur ordonnance médicale, ni aux actes concernant les médicaments ainsi préparés ;
 
-d) Aux études et essais requis en vue de l'obtention d'une autorisation de mise sur le marché pour un médicament, ainsi qu'aux actes nécessaires à leur réalisation et à l'obtention de l'autorisation.
+d) Aux études et essais requis en vue de l'obtention d'une autorisation de mise sur le marché pour un médicament, ainsi qu'aux actes nécessaires à leur réalisation et à l'obtention de l'autorisation ;
+
+e) Aux objets destinés à être lancés dans l'espace extra-atmosphérique introduits sur le territoire français.
