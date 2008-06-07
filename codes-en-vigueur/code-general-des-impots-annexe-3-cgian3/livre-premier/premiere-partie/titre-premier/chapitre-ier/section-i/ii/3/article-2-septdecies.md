@@ -1,6 +1,6 @@
 # Article 2 septdecies
 
-I.-Lorsque l'immeuble appartient à une société, les obligations fixées par les articles 2 quaterdecies,2 quindecies,2 quindecies A,2 quindecies D,2 sexdecies,2 sexdecies-0 A ter et 2 sexdecies A incombent à cette société. L'engagement prévu à l'article 2 quaterdecies est joint par la société à sa déclaration du résultat de l'année au cours de laquelle a pris effet la location dont les revenus peuvent bénéficier de la déduction calculée en fonction du revenu brut. Les options prévues aux articles 2 quindecies,2 quindecies A et 2 quindecies D sont jointes par la société, selon le cas, à sa déclaration du résultat de l'année d'achèvement du logement ou de son acquisition si elle est postérieure, ou à sa déclaration du résultat de l'année d'achèvement des travaux.
+I.-Lorsque l'immeuble appartient à une société, les obligations fixées par les articles 2 quaterdecies, 2 quindecies, 2 quindecies A, 2 quindecies D, 2 sexdecies, 2 sexdecies-0 A ter, 2 sexdecies-0 A quater et 2 sexdecies A incombent à cette société.L'engagement prévu à l'article 2 quaterdecies et à l'article 2 sexdecies-0 A quater est joint par la société à sa déclaration du résultat de l'année au cours de laquelle a pris effet la location dont les revenus peuvent bénéficier de la déduction calculée en fonction du revenu brut. Les options prévues aux articles 2 quindecies, 2 quindecies A et 2 quindecies D sont jointes par la société, selon le cas, à sa déclaration du résultat de l'année d'achèvement du logement ou de son acquisition si elle est postérieure, ou à sa déclaration du résultat de l'année d'achèvement des travaux.
 
 II.-La société doit, avant le 31 mars de chaque année, faire parvenir à ses associés un document établi en double exemplaire conformément à un modèle fixé par l'administration et comportant, pour l'année précédente, les renseignements suivants :
 
@@ -8,7 +8,7 @@ II.-La société doit, avant le 31 mars de chaque année, faire parvenir à ses 
 
 2° Le nombre et les numéros des parts détenues au 1er janvier et au 31 décembre et, le cas échéant, des parts souscrites, acquises et transmises au cours de l'année ainsi que la date de ces opérations ;
 
-3° L'attestation que la location et, le cas échéant, la sous-location remplissent les conditions prévues par les articles 2 duodecies,2 terdecies,2 terdecies A,2 terdecies B,2 terdecies C,2 sexdecies et 2 sexdecies-0 A ter ;
+3° L'attestation que la location et, le cas échéant, la sous-location remplissent les conditions prévues par les articles 2 duodecies, 2 terdecies, 2 terdecies A, 2 terdecies B, 2 terdecies C, 2 sexdecies, 2 sexdecies-0 A ter et 2 sexdecies-0 A quater ;
 
 4° Lorsqu'il y a lieu, le montant de l'amortissement correspondant aux droits de l'associé ;
 

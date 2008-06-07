@@ -14,6 +14,7 @@
 - [Article 2 quindecies B](article-2-quindecies-b.md)
 - [Article 2 sexdecies](article-2-sexdecies.md)
 - [Article 2 sexdecies-0 A ter](article-2-sexdecies-0-a-ter.md)
+- [Article 2 sexdecies-0 A quater](article-2-sexdecies-0-a-quater.md)
 - [Article 2 sexdecies A](article-2-sexdecies-a.md)
 - [Article 2 septdecies](article-2-septdecies.md)
 - [Article 2 octodecies](article-2-octodecies.md)
