@@ -106,9 +106,9 @@
 
 1832 Contre-valeur de position de change.
 
-184  Liaisons de succursales.
+184 Liaisons de succursales.
 
-185 Opérations légalement cantonnées dans une comptabilité auxiliaire d'affectation
+185 Opérations légalement cantonnées dans une comptabilité auxiliaire d'affectation ;
 
 1851 Changement d'affectation d'actifs de placement sous condition résolutoire ;
 
@@ -116,7 +116,7 @@
 
 1853 Transfert de produits ou de charges à destination d'une association de souscription ;
 
-1858 Prise en charge par l'organisme d'assurance gestionnaire d'une insuffisance de couverture des engagements  au titre de chaque comptabilité auxiliaire d'affectation d'opérations d'assurance légalement cantonnées ;
+1858 Prise en charge par l'organisme d'assurance gestionnaire d'une insuffisance de couverture des engagements au titre de chaque comptabilité auxiliaire d'affectation d'opérations d'assurance légalement cantonnées ;
 
 1859 Autres transferts de produits ou de charges.
 
@@ -846,7 +846,7 @@
 
 666 Ajustement de valeur des actifs représentatifs des contrats en unités de compte (moins-values non réalisées).
 
-667 Variation de valeur des actifs représentatifs des contrats PERP  diversifiées »
+667 Variation de valeur des actifs représentatifs des contrats PERP diversifiées
 
 668 Amortissements financiers :
 
@@ -982,7 +982,7 @@
 
 766 Ajustement des actifs représentatifs de contrats en unités de compte (plus-values non réalisées).
 
-767 Variation de valeur des actifs représentatifs des contrats PERP  diversifiées »
+767 Variation de valeur des actifs représentatifs des contrats PERP diversifiées
 
 768 Produits des différences sur les prix de remboursement à percevoir.
 
@@ -1010,7 +1010,7 @@
 
 7939 Produits des placements transférés au compte non technique.
 
-7971 Prélèvement  sur la comptabilité auxiliaire d'affectation » au profit du patrimoine général ;
+7971 Prélèvement sur la comptabilité auxiliaire d'affectation au profit du patrimoine général ;
 
 79711 Acquisition ;
 
@@ -1022,7 +1022,7 @@
 
 79715 Autres produits/charges techniques.
 
-7973 Autres transferts de produits/charges  au titre de chaque comptabilité auxiliaire d'affectation d'opérations d'assurance légalement cantonnées ».
+7973 Autres transferts de produits/charges au titre de chaque comptabilité auxiliaire d'affectation d'opérations d'assurance légalement cantonnées.
 
 **Classe 8. - Comptes spéciaux**
 
