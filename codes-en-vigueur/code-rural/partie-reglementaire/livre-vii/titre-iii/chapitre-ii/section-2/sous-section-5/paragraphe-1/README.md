@@ -5,7 +5,6 @@
 - [Article R732-19](article-r732-19.md)
 - [Article R732-19-1](article-r732-19-1.md)
 - [Article R732-20](article-r732-20.md)
-- [Article R732-21](article-r732-21.md)
 - [Article R732-22](article-r732-22.md)
 - [Article R732-23](article-r732-23.md)
 - [Article R732-24](article-r732-24.md)
