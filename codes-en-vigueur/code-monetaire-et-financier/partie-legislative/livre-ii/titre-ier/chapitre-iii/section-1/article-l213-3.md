@@ -18,8 +18,8 @@ Sont habilités à émettre des titres de créances négociables :
 
 8. Les Etats ;
 
-9. Les fonds communs de créances ;
+9. Les organismes de titrisation ;
 
-10. L'Agence centrale des organismes de sécurité sociale.
+10.L'Agence centrale des organismes de sécurité sociale.
 
 Un décret précise les conditions que doivent remplir les émetteurs mentionnés aux 2, 3, 4, 5, 6, 7, 8, 9 et 10 et fixe les conditions d'émission des titres de créances négociables.

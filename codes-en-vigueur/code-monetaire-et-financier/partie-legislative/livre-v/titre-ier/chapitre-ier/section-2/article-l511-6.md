@@ -1,6 +1,6 @@
 # Article L511-6
 
-Sans préjudice des dispositions particulières qui leur sont applicables, les interdictions définies à l'article L. 511-5 ne concernent ni les institutions et services énumérés à l'article L. 518-1, ni les entreprises régies par le code des assurances, ni les sociétés de réassurance, ni les organismes agréés soumis aux dispositions du livre II du code de la mutualité pour les opérations visées au e du 1° de l'article L. 111-1 dudit code, ni les entreprises d'investissement, ni les organismes collecteurs de la participation des employeurs à l'effort de construction pour les opérations prévues par le code de la construction et de l'habitation, ni les fonds communs de créances, ni les organismes de placement collectif en valeurs mobilières ni les organismes de placement collectif immobilier.
+Sans préjudice des dispositions particulières qui leur sont applicables, les interdictions définies à l'article L. 511-5 ne concernent ni les institutions et services énumérés à l'article L. 518-1, ni les entreprises régies par le code des assurances, ni les sociétés de réassurance, ni les organismes agréés soumis aux dispositions du livre II du code de la mutualité pour les opérations visées au e du 1° de l'article L. 111-1 dudit code, ni les entreprises d'investissement, ni les organismes collecteurs de la participation des employeurs à l'effort de construction pour les opérations prévues par le code de la construction et de l'habitation, ni les organismes de titrisation, ni les organismes de placement collectif en valeurs mobilières ni les organismes de placement collectif immobilier.
 
 L'interdiction relative aux opérations de crédit ne s'applique pas :
 
@@ -12,6 +12,6 @@ L'interdiction relative aux opérations de crédit ne s'applique pas :
 
 4. Aux fonds communs de placement à risque qui, dans les conditions prévues à l'article L. 214-36, consentent des avances en compte courant aux sociétés dans lesquelles ils détiennent une participation ;
 
-5. Aux associations sans but lucratif faisant des prêts  pour la création et le développement d'entreprises par des chômeurs ou titulaires des minima sociaux sur ressources propres et sur emprunts contractés auprès d'établissements de crédit ou des institutions ou services mentionnés à l'article L. 518-1, habilitées et contrôlées dans des conditions définies par décret en Conseil d'Etat ;
+5. Aux associations sans but lucratif faisant des prêts pour la création et le développement d'entreprises par des chômeurs ou titulaires des minima sociaux sur ressources propres et sur emprunts contractés auprès d'établissements de crédit ou des institutions ou services mentionnés à l'article L. 518-1, habilitées et contrôlées dans des conditions définies par décret en Conseil d'Etat ;
 
 6. Aux personnes morales pour les prêts participatifs qu'elles consentent en vertu des articles L. 313-13 à L. 313-17 et aux personnes morales mentionnées à l'article L. 313-21-1 pour la délivrance des garanties prévues par cet article.

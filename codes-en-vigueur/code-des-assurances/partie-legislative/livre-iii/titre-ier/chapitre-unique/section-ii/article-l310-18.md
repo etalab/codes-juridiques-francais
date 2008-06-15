@@ -1,6 +1,6 @@
 # Article L310-18
 
-Si une entreprise mentionnée à l'article L. 310-1-1, aux 1°, 3° ou 4° de l'article L. 310-2 ou à l'article L. 322-1-2 a enfreint une disposition législative ou réglementaire qui lui est applicable ou a des pratiques qui mettent en péril sa marge de solvabilité ou l'exécution des engagements qu'elle a contractés envers les assurés, adhérents ou ayants droit, l'Autorité peut prononcer à son encontre, ou à celle de ses dirigeants, l'une ou plusieurs des sanctions disciplinaires suivantes, en fonction de la gravité du manquement :
+Si une entreprise mentionnée au 1° du III de l'article L. 310-1-1, aux 1°, 3° ou 4° de l'article L. 310-2 ou à l'article L. 322-1-2 a enfreint une disposition législative ou réglementaire qui lui est applicable ou a des pratiques qui mettent en péril sa marge de solvabilité ou l'exécution des engagements qu'elle a contractés envers les assurés, adhérents ou ayants droit, l'Autorité peut prononcer à son encontre, ou à celle de ses dirigeants, l'une ou plusieurs des sanctions disciplinaires suivantes, en fonction de la gravité du manquement :
 
 1° L'avertissement ;
 
@@ -12,7 +12,7 @@ Si une entreprise mentionnée à l'article L. 310-1-1, aux 1°, 3° ou 4° de l'
 
 4° bis La démission d'office d'un ou plusieurs dirigeants de l'entreprise ;
 
-5° Le retrait total ou partiel d'agrément ou d'autorisation ;
+5° Le retrait total ou partiel d'agrément ;
 
 6° Le transfert d'office de tout ou partie du portefeuille des contrats.
 
