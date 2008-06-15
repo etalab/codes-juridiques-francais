@@ -8,7 +8,6 @@
 - [Article L212-7](article-l212-7.md)
 - [Article L212-7-1](article-l212-7-1.md)
 - [Article L212-7-2](article-l212-7-2.md)
-- [Article L212-7-3](article-l212-7-3.md)
 - [Article L212-7-4](article-l212-7-4.md)
 - [Article L212-7-5](article-l212-7-5.md)
 - [Article L212-7-6](article-l212-7-6.md)
