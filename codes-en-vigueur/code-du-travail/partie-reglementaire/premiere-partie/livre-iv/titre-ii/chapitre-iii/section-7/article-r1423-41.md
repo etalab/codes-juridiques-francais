@@ -5,3 +5,5 @@ Le directeur de greffe tient à jour les dossiers, les répertoires et les regis
 Il est le dépositaire des dossiers des affaires, des minutes et des archives et en assure la conservation. Il délivre les expéditions et les copies.
 
 L'établissement et la délivrance des reproductions de toute pièce conservée dans les services du conseil de prud'hommes ne peuvent être assurés que par lui.
+
+Lorsque la rédaction d'une décision prud'homale est effectuée à l'extérieur du conseil de prud'hommes, le conseiller peut sortir le dossier des locaux de la juridiction, après information du greffier en chef, directeur de greffe.
