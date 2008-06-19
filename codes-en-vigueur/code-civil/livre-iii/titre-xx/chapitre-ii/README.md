@@ -1,10 +1,4 @@
-# Chapitre II : De la possession.
+# Chapitre II : Des délais et du point de départ de la prescription extinctive.
 
-- [Article 2228](article-2228.md)
-- [Article 2229](article-2229.md)
-- [Article 2230](article-2230.md)
-- [Article 2231](article-2231.md)
-- [Article 2232](article-2232.md)
-- [Article 2233](article-2233.md)
-- [Article 2234](article-2234.md)
-- [Article 2235](article-2235.md)
+- [Section 1 : Du délai de droit commun et de son point de départ.](section-1)
+- [Section 2 : De quelques délais et points de départ particuliers.](section-2)

@@ -7,5 +7,4 @@
 - [Article 2223](article-2223.md)
 - [Article 2224](article-2224.md)
 - [Article 2225](article-2225.md)
-- [Article 2226](article-2226.md)
 - [Article 2227](article-2227.md)

@@ -4,3 +4,4 @@
 - [Article L1134-2](article-l1134-2.md)
 - [Article L1134-3](article-l1134-3.md)
 - [Article L1134-4](article-l1134-4.md)
+- [Article L1134-5](article-l1134-5.md)

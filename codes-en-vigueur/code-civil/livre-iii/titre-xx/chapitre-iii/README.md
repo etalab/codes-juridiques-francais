@@ -1,8 +1,6 @@
-# Chapitre III : Des causes qui empêchent la prescription.
+# Chapitre III : Du cours de la prescription extinctive.
 
-- [Article 2236](article-2236.md)
-- [Article 2237](article-2237.md)
-- [Article 2238](article-2238.md)
-- [Article 2239](article-2239.md)
-- [Article 2240](article-2240.md)
+- [Section 1 : Dispositions générales.](section-1)
+- [Section 2 : Des causes de report du point de départ ou de suspension de la prescription.](section-2)
+- [Section 3 : Des causes d'interruption de la prescription.](section-3)
 - [Article 2241](article-2241.md)

@@ -1,8 +1,7 @@
-# Titre XX : De la prescription et de la possession.
+# Titre XX : De la prescription extinctive
 
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
-- [Chapitre II : De la possession.](chapitre-ii)
-- [Chapitre III : Des causes qui empêchent la prescription.](chapitre-iii)
-- [Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.](chapitre-iv)
+- [Chapitre II : Des délais et du point de départ de la prescription extinctive.](chapitre-ii)
+- [Chapitre III : Du cours de la prescription extinctive.](chapitre-iii)
+- [Chapitre IV : Des conditions de la prescription extinctive.](chapitre-iv)
 - [Chapitre V : Du temps requis pour prescrire.](chapitre-v)
-- [Chapitre VI : De la protection possessoire.](chapitre-vi)

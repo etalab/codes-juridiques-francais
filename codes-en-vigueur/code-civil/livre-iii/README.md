@@ -17,5 +17,6 @@
 - [Titre XIII : Du mandat](titre-xiii)
 - [Titre XV : Des transactions](titre-xv)
 - [Titre XVI : Du compromis](titre-xvi)
-- [Titre XX : De la prescription et de la possession.](titre-xx)
+- [Titre XX : De la prescription extinctive](titre-xx)
+- [Titre XXI : De la possession et de la prescription acquisitive](titre-xxi)
 - [Dispositions générales](dispositions-generales)

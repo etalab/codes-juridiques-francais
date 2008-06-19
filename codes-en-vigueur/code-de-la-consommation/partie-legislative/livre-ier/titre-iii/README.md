@@ -6,3 +6,5 @@
 - [Chapitre IV : Remise des contrats](chapitre-iv)
 - [Chapitre V : Du conflit des lois relatives aux clauses abusives](chapitre-v)
 - [Chapitre VI : Reconduction des contrats](chapitre-vi)
+- [Chapitre VII : Prescription](chapitre-vii)
+- [Chapitre VIII : Dispositions relatives à l'outre-mer](chapitre-viii)

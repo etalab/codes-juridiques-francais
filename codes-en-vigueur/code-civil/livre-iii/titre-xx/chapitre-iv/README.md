@@ -1,4 +1,5 @@
-# Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.
+# Chapitre IV : Des conditions de la prescription extinctive.
 
-- [Section 1 : Des causes qui interrompent la prescription.](section-1)
-- [Section 2 : Des causes qui suspendent le cours de la prescription.](section-2)
+- [Section 1 : De l'invocation de la prescription.](section-1)
+- [Section 2 : De la renonciation à la prescription.](section-2)
+- [Section 3 : De l'aménagement conventionnel de la prescription.](section-3)

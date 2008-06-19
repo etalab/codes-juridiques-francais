@@ -1,4 +1,4 @@
-# Section 1 : Des causes qui interrompent la prescription.
+# Section 1 : De l'invocation de la prescription.
 
 - [Article 2242](article-2242.md)
 - [Article 2243](article-2243.md)
