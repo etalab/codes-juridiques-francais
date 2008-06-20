@@ -18,7 +18,7 @@ La société a pour objet :
 
 3° En vue de leur location-accession dans les conditions fixées par la loi n° 84-595 du 12 juillet 1984 modifiée définissant la location-accession à la propriété immobilière, de construire, acquérir, réaliser des travaux et gérer des immeubles à usage d'habitation ou à usage professionnel et d'habitation respectant les prix de vente maxima fixés en application du III de l'article R. 443-34 du code de la construction et de l'habitation ;
 
-4° De réaliser des hébergements de loisirs à vocation sociale selon les modalités prévues à l'article L. 421-1 du code de la construction et de l'habitation ;
+4° De réaliser des hébergements de loisirs à vocation sociale selon les modalités prévues au 6° de l'article L. 421-3 du code de la construction et de l'habitation ;
 
 5° D'acquérir des hôtels, meublés ou non, destinés à l'hébergement temporaire des personnes en difficulté et les donner en location à des organismes agréés par le préfet de département du lieu de situation de ces hôtels ;
 
@@ -110,7 +110,7 @@ Ces associés ne peuvent en aucun cas détenir ensemble plus de 35 % ou 49 % sel
 
 Lorsqu'au nombre de ces associés figurent des sociétés coopératives ou des organismes d'habitations à loyer modéré, la limite ci-dessus est portée à 49 % sans que les droits de vote de ceux de ces associés qui ne sont ni des sociétés coopératives ni des organismes d'habitations à loyer modéré puissent excéder la limite de 35 %.
 
-Lorsque la part de capital que détiennent les associés définis au quatrième alinéa de la présente clause dépasse, selon le cas,35 p. 100 ou 49 % du total des droits de vote, le nombre de voix attribué à chacun d'eux est réduit à due proportion.
+Lorsque la part de capital que détiennent les associés définis au quatrième alinéa de la présente clause dépasse, selon le cas, 35 p. 100 ou 49 % du total des droits de vote, le nombre de voix attribué à chacun d'eux est réduit à due proportion.
 
 Les réductions de capital effectuées dans les cas prévus au dernier alinéa de l'article L. 423-5 du code de la construction et de l'habitation ne peuvent être réalisées que dans le respect des conditions fixées par cet article.
 
@@ -160,7 +160,7 @@ Lorsque la société exerce une activité de gestion locative telle que prévue 
 
 **9. Situation des administrateurs et membres du conseil de surveillance.**
 
-Le mandat des membres du conseil d'administration ou du conseil de surveillance est exercé à titre gratuit dans les conditions prévues à l'article R. 421-56.
+Le mandat des membres du conseil d'administration ou du conseil de surveillance est exercé à titre gratuit dans les conditions prévues à l'article R. 421-10.
 
 **10. Expression des voix aux assemblées.**
 
@@ -184,13 +184,13 @@ En cas de report de l'assemblée générale des actionnaires, la décision de ju
 
 **14. Résultats de l'exercice.**
 
-Lorsque la société a réalisé un bénéfice distribuable au sens de l'article L. 232-12 du code de commerce, il peut être distribué un dividende correspondant à un pourcentage de capital social égal ou inférieur au taux défini à l'article 14 de la loi du 10 septembre 1947 précitée, sans que ce pourcentage puisse être supérieur au taux d'intérêt servi au détenteur d'un premier livret de caisse d'épargne au 31 décembre de l'année précédente, majoré de 1,5 point.
+Lorsque la société a réalisé un bénéfice distribuable au sens de l'article L. 232-12 du code de commerce, il peut être distribué un dividende correspondant à un pourcentage de capital social égal ou inférieur au taux défini à l'article 14 de la loi du 10 septembre 1947 précitée, sans que ce pourcentage puisse être supérieur au taux d'intérêt servi au détenteur d'un premier livret de caisse d'épargne au 31 décembre de l'année précédente, majoré de 1, 5 point.
 
 **15. Réserves.**
 
 Conformément à l'article L. 423-5 du code de la construction et de l'habitation, et sous réserve des exceptions prévues par cet article, les réserves, les bénéfices ou les primes d'émission ne peuvent être incorporées au capital.
 
-Après acquittement des charges de toute nature, y compris tous amortissements et provisions, ainsi que le prélèvement au profit du fonds de réserve légale ou d'autres réserves, dont la constitution est imposée par la réglementation spécifique aux sociétés coopératives d'H. L. M., et la répartition éventuelle de dividendes dans les conditions définies à la clause 14 des présents statuts, le surplus éventuel forme une réserve spéciale destinée à assurer le développement de l'activité de la société et à parer aux éventualités.
+Après acquittement des charges de toute nature, y compris tous amortissements et provisions, ainsi que le prélèvement au profit du fonds de réserve légale ou d'autres réserves, dont la constitution est imposée par la réglementation spécifique aux sociétés coopératives d'H.L.M., et la répartition éventuelle de dividendes dans les conditions définies à la clause 14 des présents statuts, le surplus éventuel forme une réserve spéciale destinée à assurer le développement de l'activité de la société et à parer aux éventualités.
 
 Des transferts de réserves peuvent être réalisés par la société dans les conditions définies à l'article L. 422-13 du code de la construction et de l'habitation.
 

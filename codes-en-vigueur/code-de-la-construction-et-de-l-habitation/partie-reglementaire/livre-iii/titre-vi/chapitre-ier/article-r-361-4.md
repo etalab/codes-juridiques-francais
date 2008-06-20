@@ -44,7 +44,7 @@ c) Pour les constructeurs, les maîtres d'oeuvre et les entreprises du Bâtiment
 
 - l'Union nationale des fédérations d'organismes d'HLM ;
 
-- la Fédération nationale des offices publics d'HLM et des offices publics d'aménagement et de construction ;
+- la Fédération nationale des offices publics de l'habitat ;
 
 - la Fédération nationale des sociétés anonymes et fondations d'HLM ;
 
