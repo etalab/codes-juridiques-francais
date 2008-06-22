@@ -7,4 +7,4 @@
 - [Titre IV : L'exercice de la médecine et de la chirurgie des animaux](titre-iv)
 - [Titre V : La protection des végétaux](titre-v)
 - [Titre VI : L'agence française de sécurité sanitaire des aliments](titre-vi)
-- [Titre VII : Dispositions particulières aux départements d'outre-mer ainsi qu'à Mayotte et Saint-Pierre-et-Miquelon](titre-vii)
+- [Titre VII : Dispositions particulières aux départements d'outre-mer ainsi qu'à Mayotte, à Saint-Pierre-et-Miquelon, à la Polynésie française, à la Nouvelle-Calédonie et aux îles Wallis et Futuna.](titre-vii)
