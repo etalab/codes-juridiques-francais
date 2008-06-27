@@ -8,7 +8,7 @@ Le fonds de solidarité gère les moyens de financement :
 
 3° De l'allocation de solidarité spécifique prévue à l'article L. 5423-1 ;
 
-4° De l'allocation forfaitaire du contrat nouvelles embauches prévue à l'article L. 5423-15 ;
+4° (Alinéa abrogé)
 
 5° De l'allocation équivalent retraite prévue à l'article L. 5423-18 ;
 
