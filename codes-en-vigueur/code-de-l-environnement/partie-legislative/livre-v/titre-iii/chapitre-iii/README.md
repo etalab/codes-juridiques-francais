@@ -1,5 +1,8 @@
-# Chapitre III : Dissémination volontaire et mise sur le marché d'organismes génétiquement modifiés.
+# Chapitre III : Dissémination volontaire d'organismes génétiquement modifiés
 
+- [Section 1 : Dispositions générales](section-1)
+- [Section 2 : Dissémination volontaire à toute autre fin que la mise sur le marché](section-2)
+- [Section 3 : Mise sur le marché](section-3)
 - [Article L533-1](article-l533-1.md)
 - [Article L533-2](article-l533-2.md)
 - [Article L533-3](article-l533-3.md)

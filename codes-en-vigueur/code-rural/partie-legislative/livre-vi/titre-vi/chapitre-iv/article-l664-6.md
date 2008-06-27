@@ -1,4 +1,4 @@
-# Article L663-6
+# Article L664-6
 
 Les plantations nouvelles en vue de l'obtention des produits des espèces énumérées par décret pris en application de l'article L. 663-4 ne peuvent être effectuées que si elles sont autorisées par décret.
 
