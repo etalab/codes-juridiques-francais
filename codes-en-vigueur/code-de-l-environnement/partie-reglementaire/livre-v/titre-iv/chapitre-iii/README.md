@@ -11,3 +11,4 @@
 - [Section 9 : Véhicules](section-9)
 - [Section 10 : Equipements électriques et électroniques](section-10)
 - [Section 11 : Déchets d'imprimés.](section-11)
+- [Section 12 : Déchets de produits textiles d'habillement, de chaussures ou de linge de maison destinés aux ménages](section-12)
