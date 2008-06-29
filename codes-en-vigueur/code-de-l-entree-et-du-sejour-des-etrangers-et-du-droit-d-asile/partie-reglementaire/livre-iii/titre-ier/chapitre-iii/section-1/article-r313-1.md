@@ -10,4 +10,6 @@ L'étranger qui, n'étant pas déjà admis à résider en France, sollicite la d
 
 4° Un certificat médical délivré dans les conditions fixées par arrêté du ministre chargé de la santé ;
 
-5° Trois photographies de face, tête nue, de format 3,5 x 4,5 cm, récentes et parfaitement ressemblantes.
+5° Trois photographies de face, tête nue, de format 3, 5 x 4, 5 cm, récentes et parfaitement ressemblantes ;
+
+6° Un justificatif de domicile.
