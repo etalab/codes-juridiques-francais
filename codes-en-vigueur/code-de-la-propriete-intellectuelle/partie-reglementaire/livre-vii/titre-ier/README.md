@@ -2,5 +2,6 @@
 
 - [Chapitre II : Acquisition du droit sur la marque](chapitre-ii)
 - [Chapitre IV : Transmission et perte du droit sur la marque](chapitre-iv)
+- [Chapitre VI : Contentieux](chapitre-vi)
 - [Chapitre VII : Marque internationale et marque communautaire](chapitre-vii)
 - [Chapitre VIII : Dispositions communes](chapitre-viii)

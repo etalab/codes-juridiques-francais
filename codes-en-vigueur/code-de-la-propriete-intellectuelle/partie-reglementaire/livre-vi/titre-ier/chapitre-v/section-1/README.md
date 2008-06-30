@@ -1,4 +1,4 @@
-# Section 1 : Mesures probatoires.
+# Section 1 : Mesures provisoires et conservatoires
 
 - [Article R615-1](article-r615-1.md)
 - [Article R615-2](article-r615-2.md)
