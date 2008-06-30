@@ -1,3 +1,6 @@
 # Titre Ier : Marques de fabrique, de commerce ou de service
 
+- [Chapitre II : Acquisition du droit sur la marque](chapitre-ii)
+- [Chapitre IV : Transmission et perte du droit sur la marque](chapitre-iv)
 - [Chapitre VII : Marque internationale et marque communautaire](chapitre-vii)
+- [Chapitre VIII : Dispositions communes](chapitre-viii)
