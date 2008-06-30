@@ -6,6 +6,7 @@
 - [Article R712-7](article-r712-7.md)
 - [Article R712-11](article-r712-11.md)
 - [Article R712-12](article-r712-12.md)
+- [Article R712-13](article-r712-13.md)
 - [Article R712-17](article-r712-17.md)
 - [Article R712-18](article-r712-18.md)
 - [Article R712-20](article-r712-20.md)
