@@ -13,3 +13,5 @@ Pour application du présent code et des dispositions qu'il rend applicables aux
 - "tribunal de commerce" par "tribunal de première instance statuant en matière commerciale" en ce qui concerne Mayotte et "tribunal mixte de commerce" en ce qui concerne les territoires de la Nouvelle-Calédonie, de la Polynésie française et de Wallis-et-Futuna ;
 
 - "conseil de prud'hommes" par "tribunal du travail".
+
+Pour l'application du présent code aux collectivités d'outre-mer et à Mayotte, toute référence au code des douanes est remplacée par la référence aux codes des douanes applicables à ces collectivités et à Mayotte, ayant le même objet.
