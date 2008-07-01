@@ -16,4 +16,4 @@ La taxe mentionnée à l'article 266 sexies est assise sur :
 
 7. Alinéa abrogé ;
 
-8. La masse annuelle, exprimée en kilogrammes, des imprimés mentionnés à la première phrase du premier alinéa de l'article L. 541-10-1 du code de l'environnement, mis à disposition ou distribués par les personnes mentionnées au même article.
+8. La masse annuelle, exprimée en kilogrammes, des imprimés papiers mentionnés au I de l'article L.  541-10-1 du code de l'environnement, pour lesquels la contribution prévue à ce même  article n'a pas été acquittée.
