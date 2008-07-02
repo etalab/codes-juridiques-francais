@@ -12,4 +12,5 @@
 - [Article 706-11](article-706-11.md)
 - [Article 706-12](article-706-12.md)
 - [Article 706-14](article-706-14.md)
+- [Article 706-14-1](article-706-14-1.md)
 - [Article 706-15](article-706-15.md)
