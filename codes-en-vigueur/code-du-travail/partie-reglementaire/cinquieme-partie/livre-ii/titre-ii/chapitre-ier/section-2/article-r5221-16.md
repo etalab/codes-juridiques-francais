@@ -1,6 +1,6 @@
 # Article R5221-16
 
-Lorsque l'étranger ne réside pas sur le territoire national et que son adresse en France n'est pas connue, la demande est adressée :
+Lorsque l'étranger ne réside pas sur le territoire national, la demande est adressée :
 
 1° Lorsque l'employeur est établi en France, au préfet du département dans lequel se trouve l'établissement auquel l'étranger sera rattaché ou dans lequel se trouve le domicile du particulier qui se propose de l'embaucher ;
 

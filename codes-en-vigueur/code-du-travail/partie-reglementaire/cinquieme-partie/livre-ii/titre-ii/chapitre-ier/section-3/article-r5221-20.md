@@ -6,9 +6,9 @@ Pour accorder ou refuser l'une des autorisations de travail mentionnées à l'ar
 
 2° L'adéquation entre la qualification, l'expérience, les diplômes ou titres de l'étranger et les caractéristiques de l'emploi auquel il postule ;
 
-3° Le respect par l'employeur ou l'entreprise d'accueil de la législation relative au travail et à la protection sociale ;
+3° le respect par l'employeur, l'utilisateur, l'entreprise d'accueil ou l'employeur, l'utilisateur mentionné à l'article L. 1251-1 ou l'entreprise d'accueil de la législation relative au travail et à la protection sociale ;
 
-4° Le cas échéant, le respect par le salarié des conditions réglementaires d'exercice de l'activité considérée ;
+4° Le cas échéant, le respect par l'employeur, l'utilisateur, l'entreprise d'accueil ou le salarié des conditions réglementaires d'exercice de l'activité considérée ;
 
 5° Les conditions d'emploi et de rémunération offertes à l'étranger, qui sont comparables à celles des salariés occupant un emploi de même nature dans l'entreprise ou, à défaut, dans la même branche professionnelle ;
 
