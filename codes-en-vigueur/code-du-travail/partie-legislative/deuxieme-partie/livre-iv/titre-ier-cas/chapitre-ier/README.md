@@ -5,7 +5,7 @@
 - [Section 3 : Licenciement d'un délégué du personnel](section-3)
 - [Section 4 : Licenciement d'un membre du comité d'entreprise](section-4)
 - [Section 5 : Licenciement d'un membre du groupe spécial de négociation ou d'un membre du comité d'entreprise européen.](section-5)
-- [Section 6 : Licenciement d'un membre du groupe spécial de négociation, d'un représentant au comité de la société européenne ou d'un représentant au comité de la société coopérative européenne.](section-6)
+- [Section 6 : Licenciement d'un membre du groupe spécial de négociation, d'un représentant au comité de la société européenne, d'un représentant au comité de la société coopérative européenne ou d'un représentant au comité de la société issue d'une fusion transfrontalière.](section-6)
 - [Section 7 : Licenciement d'un représentant du personnel au comité d'hygiène, de sécurité et des conditions de travail.](section-7)
 - [Section 8 : Licenciement d'un représentant du personnel d'une entreprise extérieure au comité d'hygiène, de sécurité et des conditions de travail.](section-8)
 - [Section 9 : Licenciement d'un salarié membre d'une commission paritaire d'hygiène, de sécurité et des conditions de travail en agriculture.](section-9)

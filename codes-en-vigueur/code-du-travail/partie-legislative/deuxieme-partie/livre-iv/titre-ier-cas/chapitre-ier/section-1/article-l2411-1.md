@@ -14,6 +14,10 @@ Bénéficie de la protection contre le licenciement prévue par le présent chap
 
 6° Membre du groupe spécial de négociation et représentant au comité de la société européenne ;
 
+6° bis Membre du groupe spécial de négociation et représentant au comité de la société coopérative européenne ;
+
+6° ter Membre du groupe spécial de négociation et représentant au comité de la société issue de la fusion transfrontalière ;
+
 7° Représentant du personnel au comité d'hygiène, de sécurité et des conditions de travail ;
 
 8° Représentant du personnel d'une entreprise extérieure, désigné au comité d'hygiène, de sécurité et des conditions de travail d'un établissement comprenant au moins une installation classée figurant sur la liste prévue au IV de l'article L. 515-8 du code de l'environnement ou mentionnée à l'article 3-1 du code minier ;

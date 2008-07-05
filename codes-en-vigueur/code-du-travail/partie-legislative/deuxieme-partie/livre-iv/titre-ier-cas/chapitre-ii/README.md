@@ -5,7 +5,7 @@
 - [Section 3 : Délégué du personnel.](section-3)
 - [Section 4 : Membre du comité d'entreprise.](section-4)
 - [Section 5 : Membre du groupe spécial de négociation et membre du comité d'entreprise européen.](section-5)
-- [Section 6 : Membre du groupe spécial de négociation et représentant au comité de la société européenne.](section-6)
+- [Section 6 : Membre du groupe spécial de négociation et représentant au comité de la société européenne, au comité de la société coopérative européenne ou au comité de la société issue de la fusion transfrontalière.](section-6)
 - [Section 7 : Représentant du personnel au comité d'hygiène, de sécurité et des conditions de travail.](section-7)
 - [Section 8 : Représentant du personnel d'une entreprise extérieure au comité d'hygiène, de sécurité et des conditions de travail.](section-8)
 - [Section 9 : Salarié membre d'une commission paritaire d'hygiène, de sécurité et des conditions de travail en agriculture.](section-9)

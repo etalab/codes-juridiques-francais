@@ -1,6 +1,6 @@
 # Article L2362-7
 
-Le groupe spécial de négociation prend ses décisions à la majorité absolue de ses membres, laquelle doit représenter également la majorité absolue des salariés des personnes participantes ainsi que des filiales ou établissements concernés.
+Le groupe spécial de négociation prend ses décisions à la majorité absolue de ses membres, laquelle doit représenter également la majorité absolue des salariés des personnes participantes ainsi que des filiales ou établissements concernés. Chaque membre dispose d'une voix.
 
 Par dérogation au premier alinéa, la décision de ne pas engager les négociations ou de clore des négociations déjà engagées et d'appliquer la réglementation relative à l'information et à la consultation en vigueur dans les Etats membres où la société coopérative européenne emploie des salariés est prise à la majorité des deux tiers des membres du groupe spécial de négociation, issus d'au moins deux Etats membres et à la condition qu'ils représentent au moins les deux tiers des salariés des personnes participantes ainsi que des filiales et établissements concernés. Dans ce cas, le chapitre III du présent titre n'est pas applicable. Une telle décision ne peut être prise dans le cas d'une société coopérative européenne constituée par transformation lorsqu'il existe un système de participation dans la coopérative qui doit être transformée.
 
