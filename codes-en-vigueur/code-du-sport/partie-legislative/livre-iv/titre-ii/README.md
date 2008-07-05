@@ -4,4 +4,4 @@
 - [Chapitre II : Dispositions particulières à Saint-Pierre-et-Miquelon](chapitre-ii)
 - [Chapitre III : Dispositions applicables à Wallis et Futuna](chapitre-iii)
 - [Chapitre IV : Dispositions applicables en Polynésie française](chapitre-iv)
-- [Chapitre V : Dispositions applicables en Nouvelle-Calédonie.](chapitre-v)
+- [Chapitre V : Dispositions relatives à la Nouvelle-Calédonie](chapitre-v)

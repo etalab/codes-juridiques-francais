@@ -1,6 +1,6 @@
 # Article L241-7
 
-Le propriétaire, l'entraîneur et le cas échéant le cavalier qui ont enfreint ou tenté d'enfreindre les dispositions du présent titre encourent les sanctions administratives suivantes :
+Le propriétaire, l'entraîneur et le cas échéant le sportif qui ont enfreint ou tenté d'enfreindre les dispositions du présent titre encourent les sanctions administratives suivantes :
 
 1° Une interdiction temporaire ou définitive de participer aux compétitions et manifestations mentionnées à l'article L. 241-2 ;
 

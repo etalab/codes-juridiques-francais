@@ -1,4 +1,4 @@
-# Chapitre V : Dispositions applicables en Nouvelle-Calédonie.
+# Chapitre V : Dispositions relatives à la Nouvelle-Calédonie
 
 - [Section 1 : Dispositions générales](section-1)
 - [Section 2 : Infractions en matière de lutte contre le dopage et de protection de la santé des sportifs](section-2)

@@ -10,4 +10,4 @@ En cas d'infraction aux dispositions des articles L. 232-9, L. 232-10 et L. 232-
 
 4° Elle peut décider l'extension d'une sanction disciplinaire prononcée par une fédération aux activités de l'intéressé relevant des autres fédérations, de sa propre initiative ou à la demande de la fédération ayant prononcé la sanction.
 
-La saisine de l'agence est suspensive.
+La saisine de l'agence n'est pas suspensive, sauf décision contraire de celle-ci.
