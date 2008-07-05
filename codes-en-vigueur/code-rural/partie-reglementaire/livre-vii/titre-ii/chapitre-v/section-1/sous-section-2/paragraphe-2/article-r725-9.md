@@ -1,6 +1,6 @@
 # Article R725-9
 
-Le débiteur peut former opposition par inscription au secrétariat du tribunal des affaires de sécurité sociale dans le ressort duquel se trouve le siège de l'exploitation ou de l'entreprise du débiteur ou par lettre recommandée avec demande d'avis de réception adressée au secrétariat dudit tribunal dans les quinze jours à compter de la signification.
+Le débiteur peut former opposition par inscription au secrétariat du tribunal des affaires de sécurité sociale dans le ressort duquel se trouve le siège de l'exploitation ou de l'entreprise du débiteur ou par lettre recommandée avec demande d'avis de réception adressée au secrétariat dudit tribunal dans les quinze jours à compter de la signification ou de la réception de la lettre recommandée prévue à l'article R. 725-8.
 
 L'opposition doit être motivée ; une copie de la contrainte contestée doit lui être jointe. Le secrétariat du tribunal des affaires de sécurité sociale informe l'organisme créancier et, le cas échéant, le chef du service régional de l'inspection du travail, de l'emploi et de la politique sociale agricoles dans les huit jours de la réception de l'opposition.
 
