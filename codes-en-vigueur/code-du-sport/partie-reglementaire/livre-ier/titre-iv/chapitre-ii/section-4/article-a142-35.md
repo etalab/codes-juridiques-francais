@@ -16,7 +16,7 @@ Sont membres de droit du comité :
 
 7° Le directeur des sports ;
 
-8° Le directeur de la défense et de la sécurité civiles ;
+8° Le        directeur de la sécurité civile ;
 
 9° Un représentant du ministre de la défense ;
 

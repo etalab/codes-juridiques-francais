@@ -2,7 +2,7 @@
 
 La commission de l'information et de la sécurité du Conseil supérieur des sports de montagne est composée des personnes suivantes :
 
-1° Le directeur de la défense et de la sécurité civiles, président ;
+1° Le        directeur de la sécurité civile, président ;
 
 2° Un représentant du ministre chargé de la défense, qualifié quant aux activités conduites en montagne désigné par le ministre chargé de la défense ;
 
@@ -110,7 +110,7 @@ La commission de l'information et de la sécurité du Conseil supérieur des spo
 
 54° Le président de l'union nationale des centres sportifs de plein air ;
 
-55° Un représentant des associations locales de secours en montagne, désigné par le directeur de la défense et de la sécurité civiles ;
+55° Un représentant des associations locales de secours en montagne, désigné par le        directeur de la sécurité civile ;
 
 56° Le président de la fédération française des sociétés d'assurances ;
 
