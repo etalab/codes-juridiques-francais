@@ -9,7 +9,7 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 <p align="center">SIÈGE<br/>du tribunal<br/>de grande instance</p>
 </td>
 <td>
-<p align="center">SIÈGE<br/>du tribunal<br/>d'instance et de la<br/>juridiction de proximité</p>
+<p align="center">Siège<br/>du tribunal d'instance et<br/>de la juridiction<br/>de proximité </p>
 </td>
 <td>
 <p align="center">RESSORT<br/>
@@ -4964,7 +4964,7 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 </p>
 </td>
 <td align="center">
-<p align="left">[Millau<br/>
+<p align="left">Millau<br/>
 </p>
 </td>
 <td align="center">
@@ -4979,7 +4979,7 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 </p>
 </td>
 <td align="center">
-<p align="left">[Millau<br/>
+<p align="left">Millau<br/>
 </p>
 </td>
 <td align="center">
@@ -4994,7 +4994,7 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 </p>
 </td>
 <td align="center">
-<p align="left">[Saint-Affrique<br/>
+<p align="left">Saint-Affrique<br/>
 </p>
 </td>
 <td align="center">
@@ -5008,7 +5008,7 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 </p>
 </td>
 <td align="center">
-<p align="left">[Espalion<br/>
+<p align="left">Espalion<br/>
 </p>
 </td>
 <td align="center">
@@ -6120,7 +6120,7 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 </p>
 </td>
 <td align="center">
-<p align="left">Cantons de Brunoy, Draveil, Epinay-sous-Sénart, Grigny, Juvisy-sur-Orge, Montgeron, Morsang-sur-Orge, Vigneux-sur-Seine, Viry-Châtillon et Yerres.<br/>
+<p align="left">Cantons de Brunoy, Draveil, Epinay-sous-Sénart, Grigny, Juvisy-sur-Orge (uniquement la commune de Juvisy-sur-Orge), Montgeron, Morsang-sur-Orge, Vigneux-sur-Seine, Viry-Châtillon et Yerres. <br/>
 </p>
 </td>
 </tr>
@@ -6135,7 +6135,7 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 </p>
 </td>
 <td align="center">
-<p align="left">A l'exception de l'emprise de l'aérodrome de Paris-Orly, cantons d'Arpajon, Athis-Mons, Brétigny-sur-Orge, Chilly-Mazarin, Longjumeau, Massy-Est, Massy-Ouest, Montlhéry, Sainte-Geneviève-des-Bois, Saint-Michel-sur-Orge, Savigny-sur-Orge et Villebon-sur-Yvette (uniquement les communes de Ballainvilliers, de Champlan et de Saulx-les-Chartreux).<br/>
+<p align="left">A l'exception de l'emprise de l'aérodrome de Paris-Orly, cantons d'Arpajon, Athis-Mons, Brétigny-sur-Orge, Chilly-Mazarin, Juvisy-sur-Orge (uniquement la fraction de la commune de Savigny-sur-Orge), Longjumeau, Massy-Est, Massy-Ouest, Montlhéry, Sainte-Geneviève-des-Bois, Saint-Michel-sur-Orge, Savigny-sur-Orge et Villebon-sur-Yvette (uniquement les communes de Ballainvilliers, de Champlan et de Saulx-les-Chartreux).<br/>
 </p>
 </td>
 </tr>
@@ -9998,7 +9998,9 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 </td>
 </tr>
 <tr>
-<td align="center">Cour d'appel de Papeete<br/>Polynésie française<br/>
+<td align="center">
+<p align="center">Cour d'appel de Papeete<br/>Polynésie française<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -10053,11 +10055,10 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 <tbody>
 <tr>
 <td>
-<p align="center">SIÈGE DU TRIBUNAL DE PREMIÈRE INSTANCE<br/>et de la juridiction de proximité</p>
-</td>
-<td>
-<p align="center">RESSORT<br/>
+<p align="center">SIÈGE DU TRIBUNAL DE PREMIÈRE INSTANCE<br/>et de la juridiction de proximité<br/>
 </p>
+</td>
+<td>RESSORT<br/>
 </td>
 </tr>
 <tr>
