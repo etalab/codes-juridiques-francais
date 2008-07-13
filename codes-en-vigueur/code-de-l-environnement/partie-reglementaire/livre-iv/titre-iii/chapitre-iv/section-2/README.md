@@ -8,6 +8,8 @@
 - [Article R434-30](article-r434-30.md)
 - [Article R434-31](article-r434-31.md)
 - [Article R434-32](article-r434-32.md)
+- [Article R434-32-1](article-r434-32-1.md)
+- [Article R434-32-2](article-r434-32-2.md)
 - [Article R434-33](article-r434-33.md)
 - [Article R434-34](article-r434-34.md)
 - [Article R434-35](article-r434-35.md)

@@ -6,7 +6,7 @@ L'agrément est subordonné à l'engagement écrit pris par l'exploitant de resp
 
 2° Ne fournir que des lots de poissons ne présentant pas de vices apparents ;
 
-3° Ne fournir des lots de poissons susceptibles de provoquer des déséquilibres biologiques et dont la liste est fixée par l'article R. 432-5 qu'au détenteur de l'autorisation mentionnée à l'article L. 432-11 ;
+3° Ne fournir des lots de poissons susceptibles de provoquer des déséquilibres biologiques et dont la liste est fixée par l'article R. 432-5 qu'au détenteur de l'autorisation mentionnée à l'article L. 436-9 ;
 
 4° Déclarer sans délai au préfet toute mortalité anormale constatée dans son établissement ;
 
