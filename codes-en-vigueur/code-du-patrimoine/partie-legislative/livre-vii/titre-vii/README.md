@@ -1,6 +1,5 @@
 # TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES.
 
 - [Article L770-1](article-l770-1.md)
-- [Article L770-2](article-l770-2.md)
 - [Article L770-3](article-l770-3.md)
 - [Article L770-4](article-l770-4.md)

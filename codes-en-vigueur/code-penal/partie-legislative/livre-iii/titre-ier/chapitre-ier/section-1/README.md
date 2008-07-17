@@ -5,6 +5,7 @@
 - [Article 311-3](article-311-3.md)
 - [Article 311-4](article-311-4.md)
 - [Article 311-4-1](article-311-4-1.md)
+- [Article 311-4-2](article-311-4-2.md)
 - [Article 311-5](article-311-5.md)
 - [Article 311-6](article-311-6.md)
 - [Article 311-7](article-311-7.md)
