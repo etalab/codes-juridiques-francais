@@ -22,4 +22,4 @@ Il étudie et propose au Gouvernement toutes mesures propres à améliorer le so
 
 Il adresse chaque année le rapport d'activité aux ministres intéressés.
 
-Avant que le conseil d'administration délibère sur le budget, le directeur général recueille les propositions du président de la Commission des recours des réfugiés sur les moyens à affecter au fonctionnement de cette dernière.
+Avant que le conseil d'administration délibère sur le budget, le directeur général recueille les propositions du président de la Cour nationale du droit d'asile sur les moyens à affecter au fonctionnement de cette dernière.

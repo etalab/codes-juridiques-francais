@@ -6,4 +6,4 @@ Il est alloué à chaque personne désignée en qualité d'administrateur ad hoc
 
 2° Une indemnité forfaitaire au titre de l'ensemble des frais exposés pour l'assistance du mineur et sa représentation dans la procédure relative à l'examen de sa demande d'asile par l'Office français de protection des réfugiés et apatrides en application des dispositions du livre VII du présent code ;
 
-3° Une indemnité forfaitaire au titre de l'ensemble des frais exposés pour l'assistance du mineur et sa représentation dans les procédures relatives à l'examen de sa demande d'asile devant la Commission des recours des réfugiés et devant le Conseil d'Etat, en application des dispositions du livre VII du présent code.
+3° Une indemnité forfaitaire au titre de l'ensemble des frais exposés pour l'assistance du mineur et sa représentation dans les procédures relatives à l'examen de sa demande d'asile devant la Cour nationale du droit d'asile et devant le Conseil d'Etat, en application des dispositions du livre VII du présent code.
