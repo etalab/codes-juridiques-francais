@@ -200,7 +200,7 @@ Répartition des centres régionaux de la propriété forestière et composition
 <p align="center">Basse-Normandie</p>
 </td>
 <td valign="top" width="81">
-<p align="center">Basse-Normandie</p>
+<p align="center">Haute-Normandie</p>
 </td>
 <td valign="top" width="97">
 <p align="center">Eure</p>
