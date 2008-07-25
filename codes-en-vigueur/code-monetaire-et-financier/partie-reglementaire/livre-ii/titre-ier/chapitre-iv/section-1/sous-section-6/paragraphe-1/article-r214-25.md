@@ -10,6 +10,14 @@ II.-Un organisme de placement collectif en valeurs mobilières régi par le pré
 
 a) Parts ou actions d'organismes de placement collectif en valeurs mobilières à règles d'investissement allégées sans effet de levier relevant des articles R. 214-29 à R. 214-31, d'organismes de placement collectif en valeurs mobilières à formule relevant de l'article R. 214-27 ou d'organismes de placement collectif en valeurs mobilières indiciels ou à gestion indicielle étendue relevant de l'article R. 214-28, lorsqu'ils ne bénéficient pas d'une procédure de reconnaissance mutuelle des agréments au sens de la directive 85 / 611 / CEE du Conseil du 20 décembre 1985 susmentionnée, ou régis par un droit étranger lorsque ces organismes ont fait l'objet d'un accord bilatéral entre l'Autorité des marchés financiers et leur autorité de surveillance portant sur l'équivalence de leurs règles de sécurité et de transparence aux règles françaises et qu'un instrument d'échange d'informations et d'assistance mutuelle a été mis en place dans le domaine de la gestion d'actifs pour le compte de tiers ;
 
-b) Parts ou actions de fonds d'investissement de droit étranger répondant aux critères mentionnés au 5° de l'article R. 214-5 et dont la composition est diversifiée selon des modalités équivalentes à celles prévues à l'article R. 214-6.
+b) Parts ou actions d'organismes de placement collectifs en valeurs mobilières autres que ceux mentionnés au a et au 1° et parts ou actions de fonds d'investissement de droit étranger, respectant les conditions suivantes :
+
+i) Ils sont soumis à une surveillance équivalente à celle applicable aux organismes de placement collectif en valeurs mobilières bénéficiant d'une procédure de reconnaissance mutuelle des agréments au sens de la directive 85 / 611 / CEE du Conseil du 20 décembre 1985 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières ;
+
+ii) La coopération entre l'Autorité des marchés financiers et l'autorité de surveillance de cet organisme ou de ce fonds est suffisamment garantie ;
+
+iii) Ils respectent des règles équivalentes à celles prévues au deuxième alinéa de l'article L. 214-6, au septième alinéa de l'article L. 214-4, au deuxième alinéa de l'article R. 214-13 et à l'article R. 214-16 ;
+
+iv) Leur activité fait l'objet de rapports semestriels et annuels permettant une évaluation de l'actif et du passif, des bénéfices et des opérations sur la période considérée.
 
 III.-Par dérogation à la limite de 5 % fixée au sixième alinéa de l'article L. 214-4, un organisme de placement collectif en valeurs mobilières régi par le présent paragraphe peut employer jusqu'à 20 % de son actif en parts ou actions d'un même organisme de placement collectif en valeurs mobilières mentionné au 1° du II et au a du 2° du II ou d'un même fonds d'investissement étranger mentionné au b du 2° du II.

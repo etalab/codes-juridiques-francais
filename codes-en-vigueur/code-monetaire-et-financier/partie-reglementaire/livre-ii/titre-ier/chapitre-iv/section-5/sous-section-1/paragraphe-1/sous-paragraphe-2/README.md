@@ -1,6 +1,5 @@
 # Sous-paragraphe 2 : Règles applicables aux instruments financiers, aux dépôts et aux liquidités.
 
-- [Article R214-170](article-r214-170.md)
 - [Article R214-171](article-r214-171.md)
 - [Article R214-172](article-r214-172.md)
 - [Article R214-173](article-r214-173.md)
