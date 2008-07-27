@@ -28,7 +28,7 @@ Chez les sportifs licenciés ayant un handicap physique ou mental ne permettant 
 
 Une information des sportifs est à prévoir lors de l'examen médical quant au risque de développer ou d'aggraver (si préexistant) :
 
-― un canal cervical étroit lors de la pratique des disciplines citées au précédent alinéa ;
+― un canal cervical étroit lors de la pratique des disciplines citées au 7° ;
 
 ― des pathologies du rachis lombaire, notamment une lyse isthmique avec ou sans spondylolisthésis lors de la pratique de certaines disciplines.
 

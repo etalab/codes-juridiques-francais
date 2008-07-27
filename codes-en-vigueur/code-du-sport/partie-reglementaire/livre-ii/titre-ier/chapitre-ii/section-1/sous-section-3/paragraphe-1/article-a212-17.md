@@ -1,6 +1,6 @@
 # Article A212-17
 
-Lorsque la formation est organisée dans une spécialité pour une certification en unités capitalisables, le dossier de candidature est déposé un mois avant l'entrée en formation auprès du directeur régional de la jeunesse, des sports et de la vie associative qui a habilité l'organisme de formation pour cette spécialité conformément aux articles A. 212-18 et A. 212-19.
+Lorsque la formation est organisée dans une spécialité pour une certification en unités capitalisables, le dossier de candidature est déposé un mois avant l'entrée en formation auprès du directeur régional de la jeunesse, des sports et de la vie associative qui a habilité l'organisme de formation pour cette spécialité conformément aux articles A. 212-20 à A. 212-26.
 
 Le dossier comprend les pièces suivantes :
 
