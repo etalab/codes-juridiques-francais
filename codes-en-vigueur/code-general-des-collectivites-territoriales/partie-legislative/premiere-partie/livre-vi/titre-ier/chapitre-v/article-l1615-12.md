@@ -4,6 +4,6 @@ La collectivité territoriale ou l'établissement public qui a passé un contrat
 
 L'éligibilité au fonds de compensation pour la TVA est subordonnée à l'appartenance du bien au patrimoine de la personne publique ou à la décision de la personne publique d'intégrer le bien dans son patrimoine conformément aux clauses du contrat.
 
-A la fin anticipée ou non du contrat, si l'équipement n'appartient pas au patrimoine de la personne publique, celle-ci reverse à l'Etat la totalité des attributions reçues.
+A la fin anticipée ou non du contrat, si l'ouvrage, l'équipement ou le bien immatériel n'appartient pas au patrimoine de la personne publique, celle-ci reverse à l'Etat la totalité des attributions reçues.
 
 Les attributions du fonds de compensation pour la TVA sont versées selon les modalités prévues à l'article L. 1615-6, au fur et à mesure des versements effectués au titulaire du contrat et déduction faite de la part des subventions spécifiques versées toutes taxes comprises par l'Etat à la personne publique.

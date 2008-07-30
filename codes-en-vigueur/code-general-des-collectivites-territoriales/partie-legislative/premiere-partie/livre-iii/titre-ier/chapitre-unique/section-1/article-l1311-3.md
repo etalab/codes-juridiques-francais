@@ -16,4 +16,6 @@ La collectivité territoriale a la faculté de se substituer au preneur dans la 
 
 4° Les litiges relatifs à ces baux sont de la compétence des tribunaux administratifs ;
 
-5° Les constructions réalisées dans le cadre de ces baux peuvent donner lieu à la conclusion de contrats de crédit-bail. Dans ce cas, le contrat comporte des clauses permettant de préserver les exigences du service public.
+5° Les constructions réalisées dans le cadre de ces baux peuvent donner lieu à la conclusion de contrats de crédit-bail. Dans ce cas, le contrat comporte des clauses permettant de préserver les exigences du service public ;
+
+6° Lorsqu'une rémunération est versée par la personne publique au preneur, cette rémunération distingue, pour son calcul, les coûts d'investissement, de fonctionnement et de financement.

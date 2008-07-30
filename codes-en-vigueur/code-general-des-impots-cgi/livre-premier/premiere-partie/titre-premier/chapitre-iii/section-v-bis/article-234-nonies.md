@@ -1,10 +1,10 @@
 # Article 234 nonies
 
-I. - Il est institué une contribution annuelle sur les revenus retirés de la location de locaux situés dans des immeubles achevés depuis quinze ans au moins au 1er janvier de l'année d'imposition, acquittée par les bailleurs mentionnés au I de l'article 234 duodecies et aux articles 234 terdecies et 234 quaterdecies.
+I.-Il est institué une contribution annuelle sur les revenus retirés de la location de locaux situés dans des immeubles achevés depuis quinze ans au moins au 1er janvier de l'année d'imposition, acquittée par les bailleurs mentionnés au I de l'article 234 duodecies et aux articles 234 terdecies et 234 quaterdecies.
 
-II. - (Abrogé)
+II.-(Abrogé)
 
-III. - Sont exonérés de la contribution les revenus tirés de la location :
+III.-Sont exonérés de la contribution les revenus tirés de la location :
 
 1° dont le montant annuel n'excède pas 1 830 euros par local ;
 
@@ -16,7 +16,7 @@ III. - Sont exonérés de la contribution les revenus tirés de la location :
 
 5° à vie ou à durée illimitée ;
 
-6° des immeubles appartenant à l'Etat, aux collectivités territoriales, aux établissements et organismes publics qui en dépendent et aux organismes d'habitations à loyer modéré ;
+6° des immeubles appartenant ou destinés à appartenir, dans le cadre des contrats énumérés à l'article 1048 ter, à l'Etat, aux collectivités territoriales, aux établissements et organismes publics qui en dépendent et aux organismes d'habitations à loyer modéré ;
 
 7° des locaux d'habitation qui font partie d'une exploitation agricole ou sont annexés à celle-ci, ainsi que des locaux dont les propriétaires ont procédé au rachat du prélèvement sur les loyers, prévu par l'article 11 de la loi de finances rectificative pour 1964 (n° 64-1278 du 23 décembre 1964) ;
 
