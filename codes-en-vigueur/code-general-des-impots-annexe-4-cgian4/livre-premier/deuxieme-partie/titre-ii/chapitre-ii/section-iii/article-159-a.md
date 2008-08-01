@@ -16,6 +16,6 @@ II.-1. Les tarifs d'imposition prévus au IV de l'article 1609 septvicies du cod
 
 5° Volailles, lapins, gibiers d'élevage non ruminants et ratites :
 
-7, 2 euros / t.
+6, 25 euros / t.
 
 2. Le poids de viande avec os des animaux abattus est déterminé dans les conditions prévues à l'article 111 quater LA de l'annexe III.
