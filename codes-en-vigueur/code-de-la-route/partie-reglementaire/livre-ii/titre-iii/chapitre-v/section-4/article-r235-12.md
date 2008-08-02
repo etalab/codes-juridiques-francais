@@ -5,3 +5,5 @@ Les honoraires et indemnités de déplacement afférents aux épreuves de dépis
 Les frais afférents aux examens de laboratoire prévus par les articles R. 235-10 et R. 235-11 relatifs à la recherche et au dosage des produits stupéfiants et, le cas échéant, les frais afférents à la recherche des médicaments psychoactifs sont fixés par référence aux 10° et 11° de l'article R. 118 du code de procédure pénale.
 
 Les frais afférents à l'acquisition des matériels de recueil et de dépistage prévus par l'article R. 235-3 sont fixés par arrêté conjoint du ministre de la justice et du ministre chargé du budget.
+
+Les dispositions du présent article ne sont pas applicables aux recueils salivaires.

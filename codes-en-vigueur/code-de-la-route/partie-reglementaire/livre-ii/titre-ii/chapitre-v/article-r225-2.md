@@ -20,6 +20,6 @@ Le préfet du département dans lequel est domicilié le demandeur ou le titulai
 
 9° Des mesures de retrait du droit de faire usage du permis de conduire prises par une autorité étrangère et communiquées aux autorités françaises conformément aux accords internationaux en vigueur ;
 
-10° Des décisions portant reconstitution partielle du nombre de points du permis de conduire en application du deuxième alinéa de l'article L. 223-6 ;
+10° Des décisions portant reconstitution partielle du nombre de points du permis de conduire en application du troisième alinéa de l'article L. 223-6 ;
 
 11° Des décisions rapportant les mesures précédentes.

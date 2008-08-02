@@ -1,8 +1,8 @@
 # Article R417-10
 
-I. - Tout véhicule à l'arrêt ou en stationnement doit être placé de manière à gêner le moins possible la circulation.
+I.-Tout véhicule à l'arrêt ou en stationnement doit être placé de manière à gêner le moins possible la circulation.
 
-II. - Est considéré comme gênant la circulation publique l'arrêt ou le stationnement d'un véhicule :
+II.-Est considéré comme gênant la circulation publique l'arrêt ou le stationnement d'un véhicule :
 
 1° Sur les trottoirs, les passages ou accotements réservés à la circulation des piétons ;
 
@@ -26,7 +26,7 @@ II. - Est considéré comme gênant la circulation publique l'arrêt ou le stati
 
 10° Sur une voie publique spécialement désignée par arrêté de l'autorité investie du pouvoir de police municipale.
 
-III. - Est également considéré comme gênant la circulation publique le stationnement d'un véhicule :
+III.-Est également considéré comme gênant la circulation publique le stationnement d'un véhicule :
 
 1° Devant les entrées carrossables des immeubles riverains ;
 
@@ -34,8 +34,12 @@ III. - Est également considéré comme gênant la circulation publique le stati
 
 3° Devant les dispositifs destinés à la recharge en énergie des véhicules électriques ;
 
-4° Sur les emplacements réservés à l'arrêt ou au stationnement des véhicules de livraison.
+4° Sur les emplacements réservés à l'arrêt ou au stationnement des véhicules de livraison ;
 
-IV. - Tout arrêt ou stationnement gênant prévu par le présent article est puni de l'amende prévue pour les contraventions de la deuxième classe.
+5° Dans les zones de rencontre, en dehors des emplacements aménagés à cet effet ;
 
-V. - Lorsque le conducteur ou le propriétaire du véhicule est absent ou refuse, malgré l'injonction des agents, de faire cesser le stationnement gênant, l'immobilisation et la mise en fourrière peuvent être prescrites dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+6° Dans les aires piétonnes.
+
+IV.-Tout arrêt ou stationnement gênant prévu par le présent article est puni de l'amende prévue pour les contraventions de la deuxième classe.
+
+V.-Lorsque le conducteur ou le propriétaire du véhicule est absent ou refuse, malgré l'injonction des agents, de faire cesser le stationnement gênant, l'immobilisation et la mise en fourrière peuvent être prescrites dans les conditions prévues aux articles L. 325-1 à L. 325-3.
