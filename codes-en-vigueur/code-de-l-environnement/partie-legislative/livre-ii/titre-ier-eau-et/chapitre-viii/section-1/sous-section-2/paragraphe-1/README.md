@@ -15,4 +15,3 @@
 - [Article L218-22](article-l218-22.md)
 - [Article L218-23](article-l218-23.md)
 - [Article L218-24](article-l218-24.md)
-- [Article L218-25](article-l218-25.md)
