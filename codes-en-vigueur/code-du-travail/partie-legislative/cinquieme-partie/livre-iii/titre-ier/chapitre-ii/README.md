@@ -12,5 +12,6 @@
 - [Article L5312-10](article-l5312-10.md)
 - [Article L5312-11](article-l5312-11.md)
 - [Article L5312-12](article-l5312-12.md)
+- [Article L5312-12-1](article-l5312-12-1.md)
 - [Article L5312-13](article-l5312-13.md)
 - [Article L5312-14](article-l5312-14.md)
