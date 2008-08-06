@@ -1,4 +1,4 @@
-# Section 1 : Le livret de caisse d'épargne et le compte spécial sur livret du crédit mutuel
+# Section 1 : Le livret A
 
 - [Sous-section 1 : Dispositions communes](sous-section-1)
 - [Sous-section 2 : Dispositions spécifiques aux caisses d'épargne et de prévoyance.](sous-section-2)

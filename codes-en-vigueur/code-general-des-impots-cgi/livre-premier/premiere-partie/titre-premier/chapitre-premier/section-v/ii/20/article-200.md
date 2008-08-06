@@ -12,9 +12,15 @@ d) D'organismes visés au 4 de l'article 238 bis ;
 
 e) D'associations cultuelles et de bienfaisance, ainsi que des établissements publics des cultes reconnus d'Alsace-Moselle ;
 
-f) D'organismes publics ou privés dont la gestion est désintéressée et qui ont pour activité principale la présentation au public d'oeuvres dramatiques, lyriques, musicales, chorégraphiques, cinématographiques et de cirque ou l'organisation d'expositions d'art contemporain, à la condition que les versements soient affectés à cette activité. Cette disposition ne s'applique pas aux organismes qui présentent des oeuvres à caractère pornographique ou incitant à la violence.
+f) D'organismes publics ou privés dont la gestion est désintéressée et qui ont pour activité principale la présentation au public d'oeuvres dramatiques, lyriques, musicales, chorégraphiques, cinématographiques et de cirque ou l'organisation d'expositions d'art contemporain, à la condition que les versements soient affectés à cette activité. Cette disposition ne s'applique pas aux organismes qui présentent des oeuvres à caractère pornographique ou incitant à la violence ;
 
-Ouvrent également droit à la réduction d'impôt les frais engagés dans le cadre d'une activité bénévole et en vue strictement de la réalisation de l'objet social d'un organisme mentionné aux deuxième à septième alinéas, lorsque ces frais, dûment justifiés, ont été constatés dans les comptes de l'organisme et que le contribuable a renoncé expressément à leur remboursement.
+g) De fonds de dotation :
+
+1° Répondant aux caractéristiques mentionnées au b ;
+
+2° Ou dont la gestion est désintéressée et qui reversent les revenus tirés des dons et versements mentionnés au premier alinéa du présent 1 à des organismes mentionnés aux a à f ou à la Fondation du patrimoine dans les conditions mentionnées aux deux premiers alinéas du 2 bis, ou à une fondation ou association reconnue d'utilité publique agréée par le ministre chargé du budget dans les conditions mentionnées au dernier alinéa du même 2 bis. Ces organismes délivrent aux fonds de dotation une attestation justifiant le montant et l'affectation des versements effectués à leur profit. »
+
+Ouvrent également droit à la réduction d'impôt les frais engagés dans le cadre d'une activité bénévole et en vue strictement de la réalisation de l'objet social d'un organisme mentionné aux deuxième à huitième alinéas, lorsque ces frais, dûment justifiés, ont été constatés dans les comptes de l'organisme et que le contribuable a renoncé expressément à leur remboursement.
 
 1 bis. Pour l'application des dispositions du 1, lorsque les dons et versements effectués au cours d'une année excèdent la limite de 20 %, l'excédent est reporté successivement sur les années suivantes jusqu'à la cinquième inclusivement et ouvre droit à la réduction d'impôt dans les mêmes conditions.
 

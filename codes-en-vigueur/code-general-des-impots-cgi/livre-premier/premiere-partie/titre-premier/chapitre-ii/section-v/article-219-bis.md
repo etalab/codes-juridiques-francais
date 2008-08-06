@@ -10,10 +10,10 @@ b. Les revenus des titres émis à compter du 1er janvier 1987 tels qu'ils sont 
 
 c. Les dividendes mentionnés aux d et e du 5 de l'article 206.
 
-Les dispositions  des premier à cinquième alinéas ne s'appliquent pas aux revenus de l'espèce qui se rattachent à une exploitation commerciale, industrielle ou non commerciale.
+Les dispositions des premier à cinquième alinéas ne s'appliquent pas aux revenus de l'espèce qui se rattachent à une exploitation commerciale, industrielle ou non commerciale.
 
-II. L'impôt établi conformément au I n'est pas mis en recouvrement si son montant annuel n'excède pas 150 euros.
+II.L'impôt établi conformément au I n'est pas mis en recouvrement si son montant annuel n'excède pas 150 euros.
 
 Si ce montant est compris entre 150 et 300 euros, la cotisation fait l'objet d'une décote égale à la différence entre 300 euros et ledit montant.
 
-III. Les fondations reconnues d'utilité publique sont exonérées d'impôt sur les sociétés pour les revenus mentionnés au I.
+III. Abrogé.
