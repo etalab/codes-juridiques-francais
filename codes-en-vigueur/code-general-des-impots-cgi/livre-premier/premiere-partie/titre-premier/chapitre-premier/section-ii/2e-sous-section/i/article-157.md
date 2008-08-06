@@ -82,7 +82,7 @@ Pour les prêts d'un montant supérieur à 50 000 Euros, ces dispositions s'appl
 
 19° L'indemnité de départ versée aux adhérents des caisses d'assurance-vieillesse des artisans et commerçants, en application de l'article 106 modifié de la loi n° 81-1160 du 30 décembre 1981 ;
 
-19° bis La prime de transmission versée aux adhérents des caisses d'assurance vieillesse des travailleurs non salariés des professions artisanales et des professions industrielles et commerciales, en application de l'article 25 de la loi n° 2005-882 du 2 août 2005 en faveur des petites et moyennes entreprises.
+19° bis Abrogé.
 
 20° Les intérêts des titres d'indemnisation prioritaires et des titres d'indemnisation créés en application de la loi n° 78-1 du 2 janvier 1978 relative à l'indemnisation des français rapatriés d'outre-mer.
 

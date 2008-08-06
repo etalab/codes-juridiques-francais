@@ -6,4 +6,4 @@ Pour s'établir en France, est considéré comme répondant aux conditions d'apt
 
 -qu'il n'est pas frappé d'incapacité ou d'interdiction, même temporaire, pour exercer la profession d'agent de voyages.
 
-Les titulaires d'une licence d'agent de voyages établis sur le territoire national doivent se consacrer exclusivement à cette activité.
+Les titulaires d'une licence d'agent de voyages établis sur le territoire national doivent se consacrer exclusivement à cette activité, sauf lorsque celle-ci constitue l'accessoire de l'organisation et de l'accueil des foires, salons et congrès.

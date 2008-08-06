@@ -18,11 +18,11 @@ f) Etre en phase d'amorçage, de démarrage ou d'expansion au sens des lignes di
 
 g) Ne pas être qualifiable d'entreprise en difficulté au sens des lignes directrices communautaires concernant les aides d'Etat au sauvetage et à la restructuration d'entreprises en difficulté ou relever des secteurs de la construction navale, de l'industrie houillère ou de la sidérurgie ;
 
-h) Le montant des versements mentionnés au premier alinéa ne doit pas excéder le plafond fixé par décret. Ce plafond ne peut excéder 1,5 million d'euros par période de douze mois.
+h) Le montant des versements mentionnés au premier alinéa ne doit pas excéder le plafond fixé par décret. Ce plafond ne peut excéder 1, 5 million d'euros par période de douze mois.
 
-2. L'avantage fiscal prévu au 1 s'applique également aux souscriptions effectuées par des personnes physiques en indivision. Chaque membre de l'indivision peut bénéficier de l'avantage fiscal à concurrence de la fraction de la part de sa souscription représentative de titres reçus en contrepartie de souscriptions au capital de sociétés vérifiant les conditions prévues au 1.
+2.L'avantage fiscal prévu au 1 s'applique également aux souscriptions effectuées par des personnes physiques en indivision. Chaque membre de l'indivision peut bénéficier de l'avantage fiscal à concurrence de la fraction de la part de sa souscription représentative de titres reçus en contrepartie de souscriptions au capital de sociétés vérifiant les conditions prévues au 1.
 
-3. L'avantage fiscal prévu au 1 s'applique également aux souscriptions en numéraire au capital d'une société satisfaisant aux conditions suivantes :
+3.L'avantage fiscal prévu au 1 s'applique également aux souscriptions en numéraire au capital d'une société satisfaisant aux conditions suivantes :
 
 a) La société vérifie l'ensemble des conditions prévues au 1, à l'exception de celles prévues aux b, f et h ;
 
@@ -44,8 +44,7 @@ En cas de remboursement des apports aux souscripteurs pendant l'une des période
 
 En cas de non-respect de la condition de conservation prévue au premier alinéa du 1 du II en cas de cession stipulée obligatoire par un pacte d'associés ou d'actionnaires, l'avantage fiscal mentionné au I accordé au titre de l'année en cours et de celles précédant ces opérations n'est pas non plus remis en cause si le prix de vente des titres cédés est intégralement réinvesti par un actionnaire minoritaire, dans un délai maximum de six mois à compter de la cession, en souscription de titres de sociétés satisfaisant aux conditions mentionnées au 1 du I, sous réserve que les titres ainsi souscrits soient conservés jusqu'au même terme. Cette souscription ne peut donner lieu au bénéfice de l'avantage fiscal prévu au 1 du I.
 
-III.-1. Le redevable peut imputer sur l'impôt de solidarité sur la fortune 50 % du montant des versements effectués au titre de souscriptions en numéraire aux parts de fonds d'investissement de proximité définis par l'article L. 214-41-1 du code monétaire et financier dont la valeur des parts est constituée au moins à hauteur de 20 % de titres reçus en contrepartie de souscriptions au capital ou de titres reçus en contrepartie d'obligations converties de sociétés exerçant leur activité ou juridiquement constituées depuis moins de cinq ans vérifiant les conditions prévues au 1 du I. Le redevable peut également imputer sur l'impôt de solidarité sur la fortune 50 % du montant des versements effectués au titre de souscriptions en numéraire aux parts de fonds communs de placement dans l'innovation mentionnés à l'article L. 214-41 du code monétaire et financier
-et aux parts de fonds communs de placement à risques mentionnés à l'article L. 214-36 du même code dont l'actif est constitué au moins à hauteur de 40 % de titres reçus en contrepartie de souscriptions au capital de sociétés exerçant leur activité ou juridiquement constituées depuis moins de cinq ans, vérifiant les conditions prévues au 1 du I.
+III.-1. Le redevable peut imputer sur l'impôt de solidarité sur la fortune 50 % du montant des versements effectués au titre de souscriptions en numéraire aux parts de fonds d'investissement de proximité définis par l'article L. 214-41-1 du code monétaire et financier dont la valeur des parts est constituée au moins à hauteur de 20 % de titres reçus en contrepartie de souscriptions au capital ou de titres reçus en contrepartie d'obligations converties de sociétés exerçant leur activité ou juridiquement constituées depuis moins de cinq ans vérifiant les conditions prévues au 1 du I. Le redevable peut également imputer sur l'impôt de solidarité sur la fortune 50 % du montant des versements effectués au titre de souscriptions en numéraire aux parts de fonds communs de placement dans l'innovation mentionnés à  l'article L. 214-41 du code monétaire et financier  et aux parts de fonds communs de placement à risques mentionnés        aux articles L. 214-36 et L. 214-37  du même code dont l'actif est constitué au moins à hauteur de 40 % de titres reçus en contrepartie de souscriptions au capital de sociétés exerçant leur activité ou juridiquement constituées depuis moins de cinq ans, vérifiant les conditions prévues au 1 du I.
 
 L'avantage prévu au premier alinéa ne s'applique que lorsque les conditions suivantes sont satisfaites :
 
@@ -57,9 +56,9 @@ c) Le fonds doit respecter le pourcentage initialement fixé de son actif invest
 
 Les versements servant de base au calcul de l'avantage fiscal sont ceux retenus après imputation de l'ensemble des frais et commissions et dans la limite du pourcentage initialement fixé de l'actif du fonds investi en titres reçus en contrepartie de souscriptions au capital de sociétés vérifiant les conditions prévues au 1 du I.
 
-2. L'avantage fiscal prévu au 1 ne peut être supérieur à 20 000 euros par an. Le redevable peut bénéficier de l'avantage fiscal prévu audit 1 et de ceux prévus aux 1,2 et 3 du I au titre de la même année, sous réserve que le montant imputé sur l'impôt de solidarité sur la fortune résultant de ces avantages n'excède pas 50 000 euros.
+2.L'avantage fiscal prévu au 1 ne peut être supérieur à 20 000 euros par an. Le redevable peut bénéficier de l'avantage fiscal prévu audit 1 et de ceux prévus aux 1, 2 et 3 du I au titre de la même année, sous réserve que le montant imputé sur l'impôt de solidarité sur la fortune résultant de ces avantages n'excède pas 50 000 euros.
 
-3. L'avantage fiscal obtenu fait l'objet d'une reprise au titre de l'année au cours de laquelle le fonds ou le redevable cesse de respecter les conditions prévues au 1.
+3.L'avantage fiscal obtenu fait l'objet d'une reprise au titre de l'année au cours de laquelle le fonds ou le redevable cesse de respecter les conditions prévues au 1.
 
 4. Sont exclues du bénéfice de l'avantage fiscal prévu au 1 les parts de fonds donnant lieu à des droits différents sur l'actif net ou sur les produits du fonds ou de la société, attribuées en fonction de la qualité de la personne.
 

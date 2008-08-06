@@ -14,6 +14,6 @@ Ils doivent, en outre, pour prendre part au vote :
 
 3° N'avoir pas été frappés depuis moins de quinze ans à compter du jour où la décision les ayant prononcées est devenue définitive de faillite personnelle ou d'une des mesures d'interdiction ou de déchéance telles que prévues au livre VI du présent code ou à la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises ou à la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes ;
 
-4° Ne pas être frappés d'une mesure d'incapacité d'exercer une activité commerciale en application du chapitre VIII du titre II du livre Ier ;
+4° Ne pas être frappé d'une peine d'interdiction, suivant les modalités prévues par l'article 131-27 du code pénal, d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale ;
 
 5° Ne pas avoir été condamnés à des peines, déchéances ou sanctions prononcées en vertu de législations en vigueur dans les Etats membres de la Communauté européenne équivalentes à celles visées aux 2°, 3° et 4°."

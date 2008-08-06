@@ -18,4 +18,4 @@ Par dérogation aux dispositions de l'article L. 112-1 et du premier alinéa de 
 
 8° Les prêts accordés aux personnes morales ainsi qu'aux personnes physiques pour les besoins de leur activité professionnelle ;
 
-9° Les loyers prévus par les conventions portant sur un local d'habitation.
+9° Les loyers prévus par les conventions portant sur un local d'habitation ou sur un local affecté à des activités commerciales relevant du décret prévu au premier alinéa de l'article L. 112-2.

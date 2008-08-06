@@ -6,4 +6,4 @@
 - [Section 4 : Organes de la profession](section-4)
 - [Section 5 : Le secret professionnel](section-5)
 - [Section 6 : Dispositions comptables](section-6)
-- [Section 7 : Dispositions prudentielles.](section-7)
+- [Section 7 : Dispositions prudentielles et contrôle interne](section-7)

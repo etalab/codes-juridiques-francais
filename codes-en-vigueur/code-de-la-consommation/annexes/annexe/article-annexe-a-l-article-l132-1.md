@@ -34,7 +34,9 @@ o) D'obliger le consommateur à exécuter ses obligations lors même que le prof
 
 p) De prévoir la possibilité de cession du contrat de la part du professionnel, lorsqu'elle est susceptible d'engendrer une diminution des garanties pour le consommateur sans l'accord de celui-ci ;
 
-q) De supprimer ou d'entraver l'exercice d'actions en justice ou des voies de recours par le consommateur, notamment en obligeant le consommateur à saisir exclusivement une juridiction d'arbitrage non couverte par des dispositions légales ou à passer exclusivement par un mode alternatif de règlement des litiges, en limitant indûment les moyens de preuves à la disposition du consommateur ou en imposant à celui-ci une charge de preuve qui, en vertu du droit applicable, devrait revenir normalement à une autre partie au contrat.
+q) De supprimer ou d'entraver l'exercice d'actions en justice ou des voies de recours par le consommateur, notamment en obligeant le consommateur à saisir exclusivement une juridiction d'arbitrage non couverte par des dispositions légales ou à passer exclusivement par un mode alternatif de règlement des litiges, en limitant indûment les moyens de preuves à la disposition du consommateur ou en imposant à celui-ci une charge de preuve qui, en vertu du droit applicable, devrait revenir normalement à une autre partie au contrat ;
+
+r) De permettre à une banque ou un établissement financier de ne pas rendre effective immédiatement la dénonciation d'un compte joint par l'un des cotitulaires du compte.
 
 2. Portée des points g, j et l :
 
