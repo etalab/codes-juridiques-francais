@@ -8,6 +8,7 @@
 - [Article Annexe 3-2](article-annexe-3-2.md)
 - [Article Annexe 3-3](article-annexe-3-3.md)
 - [Article Annexe 3-4](article-annexe-3-4.md)
+- [Article Annexe 3-5](article-annexe-3-5.md)
 - [Article Annexe 3-9](article-annexe-3-9.md)
 - [Article Annexe 3-10](article-annexe-3-10.md)
 - [Article Annexe 4-1](article-annexe-4-1.md)
