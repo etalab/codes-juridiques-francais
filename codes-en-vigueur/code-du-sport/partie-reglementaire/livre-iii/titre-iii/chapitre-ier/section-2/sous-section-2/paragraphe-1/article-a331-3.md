@@ -8,7 +8,7 @@ Dans le cas où l'épreuve est organisée par une association non affiliée à u
 
 2° Le règlement de l'épreuve ;
 
-3° Un exemplaire signé de la police d'assurance ou, à défaut de celui-ci, l'engagement de souscrire un contrat conforme au modèle type prévu à l'annexe III-18.
+3° Un exemplaire signé de la police d'assurance ou, à défaut de celui-ci, l'engagement de souscrire un contrat conforme au modèle type prévu à l'annexe III-21-1.
 
 Dans cette hypothèse, l'exemplaire signé de la police devra être présenté par l'organisateur à l'autorité ayant délivré l'autorisation six jours francs au moins avant la date de l'épreuve ;
 
