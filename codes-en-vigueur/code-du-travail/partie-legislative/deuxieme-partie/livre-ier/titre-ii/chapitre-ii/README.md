@@ -5,4 +5,3 @@
 - [Section 3 : Représentativité syndicale au niveau de la branche professionnelle](section-3)
 - [Section 4 : Représentativité syndicale au niveau national et interprofessionnel](section-4)
 - [Section 5 : Dispositions d'application](section-5)
-- [Article L2122-1](article-l2122-1.md)
