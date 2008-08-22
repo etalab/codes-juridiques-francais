@@ -5,3 +5,4 @@
 - [Section 3 : Affichage et diffusion des communications syndicales.](section-3)
 - [Section 4 : Local syndical.](section-4)
 - [Section 5 : Réunions syndicales.](section-5)
+- [Section 6 : Réunions syndicales.](section-6)
