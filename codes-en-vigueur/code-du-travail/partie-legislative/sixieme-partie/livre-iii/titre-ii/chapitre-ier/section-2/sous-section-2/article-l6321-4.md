@@ -6,4 +6,4 @@ Dans ce cas, les heures correspondant à ce dépassement sont soumises aux règl
 
 1° Elles ne s'imputent pas sur le contingent annuel d'heures supplémentaires ou sur le volume d'heures complémentaires pour les salariés à temps partiel ;
 
-2° Elles ne donnent lieu ni à repos compensateur obligatoire ni à majoration pour heures supplémentaires, dans la limite de cinquante heures par an et par salarié.
+2° Elles ne donnent lieu ni à contrepartie obligatoire en repos ni à majoration pour heures supplémentaires, dans la limite de cinquante heures par an et par salarié.

@@ -4,6 +4,6 @@ Le travail accompli, dans la limite de sept heures, durant la journée de solida
 
 1° Pour les salariés mensualisés dans cette limite de sept heures ;
 
-2° Pour les salariés dont la rémunération est calculée par référence à un nombre annuel de jours de travail conformément à l'article L. 3121-45, dans la limite de la valeur d'une journée de travail.
+2° Pour les salariés dont la rémunération est calculée par référence à un nombre annuel de jours de travail conformément à l'article L. 3121-41, dans la limite de la valeur d'une journée de travail.
 
 Pour les salariés à temps partiel, la limite de sept heures prévue au 1° est réduite proportionnellement à la durée contractuelle.

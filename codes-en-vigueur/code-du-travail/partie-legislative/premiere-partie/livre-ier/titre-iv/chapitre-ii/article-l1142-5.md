@@ -4,6 +4,6 @@ Il incombe à l'employeur de prendre en compte les objectifs en matière d'égal
 
 1° Dans les entreprises dépourvues de délégué syndical ;
 
-2° Dans les entreprises non soumises à l'obligation de négocier en application des articles L. 2232-23 et L. 2232-25 ;
+2° Dans les entreprises non soumises à l'obligation de négocier en application des articles L. 2232-21 et L. 2232-24 ;
 
 3° Dans les entreprises non couvertes par une convention ou un accord de branche étendu relatif à l'égalité salariale entre les femmes et les hommes.

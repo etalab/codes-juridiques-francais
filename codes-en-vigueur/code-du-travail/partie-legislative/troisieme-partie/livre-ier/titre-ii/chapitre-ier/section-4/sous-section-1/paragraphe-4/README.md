@@ -4,5 +4,3 @@
 - [Article L3121-46](article-l3121-46.md)
 - [Article L3121-47](article-l3121-47.md)
 - [Article L3121-48](article-l3121-48.md)
-- [Article L3121-49](article-l3121-49.md)
-- [Article L3121-50](article-l3121-50.md)

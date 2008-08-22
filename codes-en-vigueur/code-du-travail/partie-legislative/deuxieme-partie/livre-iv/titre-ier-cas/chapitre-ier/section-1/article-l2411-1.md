@@ -24,7 +24,7 @@ Bénéficie de la protection contre le licenciement prévue par le présent chap
 
 9° Membre d'une commission paritaire d'hygiène, de sécurité et des conditions de travail en agriculture prévue à l'article L. 717-7 du code rural ;
 
-10° Salarié mandaté, dans les conditions prévues à l'article L. 2232-25, dans les entreprises dépourvues de délégué syndical ;
+10° Salarié mandaté, dans les conditions prévues à l'article L. 2232-24, dans les entreprises dépourvues de délégué syndical ;
 
 11° Représentant des salariés mentionné à l'article L. 662-4 du code de commerce lors d'un redressement ou d'une liquidation judiciaire ;
 

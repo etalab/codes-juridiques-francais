@@ -1,6 +1,6 @@
 # Article L2324-11
 
-Les représentants du personnel sont élus sur des listes établies par les organisations syndicales représentatives pour chaque catégorie de personnel :
+Les représentants du personnel sont élus sur des listes établies par les organisations syndicales pour chaque catégorie de personnel :
 
 - d'une part, par le collège des ouvriers et employés ;
 

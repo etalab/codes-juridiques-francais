@@ -24,7 +24,7 @@ L'interruption ou la notification du non-renouvellement de la mission d'un salar
 
 9° Membre d'une commission paritaire d'hygiène, de sécurité et des conditions de travail en agriculture prévue à l'article L. 717-7 du code rural ;
 
-10° Salarié mandaté dans les conditions prévues à l'article L. 2232-25, dans les entreprises dépourvues de délégué syndical ;
+10° Salarié mandaté dans les conditions prévues à l'article L. 2232-24, dans les entreprises dépourvues de délégué syndical ;
 
 11° Membre du conseil ou administrateur d'une caisse de sécurité sociale mentionné à l'article L. 231-11 du code de la sécurité sociale ;
 

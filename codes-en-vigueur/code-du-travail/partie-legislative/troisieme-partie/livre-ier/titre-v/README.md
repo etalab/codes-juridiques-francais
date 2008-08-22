@@ -1,6 +1,6 @@
 # TITRE V : COMPTE ÉPARGNE-TEMPS
 
-- [Chapitre Ier : Objet et mise en place.](chapitre-ier)
-- [Chapitre II : Constitution des droits.](chapitre-ii)
+- [Chapitre Ier : Objet](chapitre-ier)
+- [Chapitre II : Mise en place](chapitre-ii)
 - [Chapitre III : Utilisation.](chapitre-iii)
-- [Chapitre IV : Gestion et liquidation.](chapitre-iv)
+- [Chapitre IV : Garantie et liquidation des droits](chapitre-iv)
