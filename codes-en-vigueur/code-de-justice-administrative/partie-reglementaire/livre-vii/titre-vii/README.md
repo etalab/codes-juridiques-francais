@@ -6,3 +6,4 @@
 - [Chapitre V : Le contentieux des décisions relatives au séjour assorties d'une obligation de quitter le territoire français.](chapitre-v)
 - [Chapitre VI : Le contentieux des arrêtés de reconduite à la frontière](chapitre-vi)
 - [Chapitre VII : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales](chapitre-vii)
+- [Chapitre IX : Autres dispositions](chapitre-ix)
