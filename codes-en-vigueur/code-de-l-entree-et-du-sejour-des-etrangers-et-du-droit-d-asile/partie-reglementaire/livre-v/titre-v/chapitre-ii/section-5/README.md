@@ -3,6 +3,3 @@
 - [Sous-section 1 : Saisine et décision du juge des libertés et de la détention](sous-section-1)
 - [Sous-section 2 : Appel](sous-section-2)
 - [Sous-section 3 : Pourvoi en cassation](sous-section-3)
-- [Article R552-17](article-r552-17.md)
-- [Article R552-18](article-r552-18.md)
-- [Article R552-19](article-r552-19.md)
