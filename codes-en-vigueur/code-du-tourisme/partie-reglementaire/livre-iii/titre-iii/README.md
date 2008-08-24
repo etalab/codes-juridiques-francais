@@ -2,4 +2,4 @@
 
 - [Chapitre Ier : Ouverture et aménagement.](chapitre-ier)
 - [Chapitre II : Classement.](chapitre-ii)
-- [Chapitre III : Règles relatives aux habitations légères de loisirs et aux parcs résidentiels de loisirs](chapitre-iii)
+- [Chapitre III : Règles relatives aux habitations légères de loisirs, aux parcs résidentiels de loisirs et aux résidences mobiles de loisirs.](chapitre-iii)
