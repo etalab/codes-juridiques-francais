@@ -2,7 +2,7 @@
 
 Le nombre de chambres de chaque cour administrative d'appel est fixé comme suit :
 
-Paris : huit chambres ;
+Paris : neuf chambres ;
 
 Marseille : sept chambres ;
 

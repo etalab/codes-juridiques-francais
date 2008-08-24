@@ -42,7 +42,7 @@ Nice : sept chambres ;
 
 Nîmes : trois chambres ;
 
-Orléans : quatre chambres ;
+Orléans : cinq chambres ;
 
 Pau : deux chambres ;
 
@@ -53,6 +53,8 @@ Rennes : cinq chambres ;
 Rouen : trois chambres ;
 
 Strasbourg : cinq chambres ;
+
+Toulon : trois chambres ;
 
 Toulouse : cinq chambres ;
 
