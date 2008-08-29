@@ -675,8 +675,18 @@ III.-Points de charges minimaux
 </td>
 <td valign="top">
 <br/>
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 </tr>
 </tbody>
 </table>
+
+IV.-Conditions d'indépendance de logement et de revenu
+
+Les conditions d'indépendance de logement et de revenu mentionnées à l'article D. 451-7 sont :
+
+-justifier d'une déclaration fiscale différente de celle de ses parents ;
+
+-disposer d'un revenu personnel correspondant au minimum à 50 % du SMIC brut annuel, ou d'un revenu par couple au moins égal à 90 % du SMIC brut annuel si l'étudiant est marié ou a conclu un pacte civil de solidarité défini à l'article 515-1 du code civil, et ceci hors pensions alimentaires versées par les parents ;
+
+-apporter la preuve d'un domicile distinct de celui de ses parents, attesté au moins par un justificatif de domicile à son nom.
