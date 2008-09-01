@@ -6,3 +6,4 @@
 - [Section 4 : Comité local d'information et de suivi](section-4)
 - [Section 5 : Groupement d'intérêt public](section-5)
 - [Section 6 : Importation, exportation, transit et échanges de déchets radioactifs entre Etats membres de la Communauté européenne avec emprunt du territoire national.](section-6)
+- [Section 7 : Obligations déclaratives relatives aux matières et déchets radioactifs](section-7)
