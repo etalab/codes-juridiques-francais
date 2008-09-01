@@ -2,4 +2,3 @@
 
 - [Article R232-11](article-r232-11.md)
 - [Article R232-13](article-r232-13.md)
-- [Article R232-15](article-r232-15.md)
