@@ -1,8 +1,6 @@
 # Section 5 : Des obligations.
 
 - [Article R228-57](article-r228-57.md)
-- [Article R228-58](article-r228-58.md)
-- [Article R228-59](article-r228-59.md)
 - [Article R228-60](article-r228-60.md)
 - [Article R228-61](article-r228-61.md)
 - [Article R228-62](article-r228-62.md)
