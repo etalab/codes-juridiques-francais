@@ -26,7 +26,7 @@ c) Les rapports des commissaires aux comptes prévus au troisième alinéa des a
 
 d) Les observations du conseil de surveillance, s'il y a lieu ;
 
-e) Les sociétés mentionnées aux articles R. 232-9 à R. 232-14 adressent également aux actionnaires l'inventaire des valeurs mobilières détenues en portefeuille à la clôture de l'exercice ;
+e) (Abrogé) ;
 
 7° S'il s'agit d'une assemblée générale ordinaire prévue à l'article L. 225-101, le rapport des commissaires mentionnés audit article ;
 
