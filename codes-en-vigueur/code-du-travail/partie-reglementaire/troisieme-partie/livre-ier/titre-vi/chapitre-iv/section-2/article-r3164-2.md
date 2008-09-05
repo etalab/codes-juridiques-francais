@@ -24,4 +24,6 @@ Les secteurs dans lesquels les caractéristiques particulières de l'activité j
 
 11° Les magasins de vente de fleurs naturelles, jardineries et graineteries ;
 
-12° Les établissements des autres secteurs assurant à titre principal la fabrication de produits alimentaires destinés à la consommation immédiate ou dont l'activité exclusive est la vente de denrées alimentaires au détail.
+12° Les établissements des autres secteurs assurant à titre principal la fabrication de produits alimentaires destinés à la consommation immédiate ou dont l'activité exclusive est la vente de denrées alimentaires au détail ;
+
+13° Les spectacles.
