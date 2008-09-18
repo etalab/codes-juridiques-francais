@@ -4,7 +4,7 @@
 
 Le versement est fait au service des impôts désigné par le ministre chargé du budget.
 
-2. Chaque versement est accompagné du dépôt d'une déclaration établie en double exemplaire sur une formule délivrée par l'administration.
+2. Chaque versement est accompagné du dépôt d'une déclaration établie sur une formule délivrée par l'administration.
 
 3. Un arrêté détermine la nature et le contenu des documents que les établissements payeurs doivent établir et conserver à la disposition de l'administration en vue du contrôle.
 
