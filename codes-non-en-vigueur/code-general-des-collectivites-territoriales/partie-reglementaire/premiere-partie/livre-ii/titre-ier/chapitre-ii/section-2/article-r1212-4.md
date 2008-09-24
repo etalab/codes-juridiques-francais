@@ -1,4 +1,4 @@
-# Article R1211-22
+# Article R1212-4
 
 La commission consultative sur l'évaluation des charges est convoquée par le président de sa formation plénière qui arrête l'ordre du jour et l'adresse aux membres intéressés de la commission, dix jours au moins avant la date de la réunion.
 

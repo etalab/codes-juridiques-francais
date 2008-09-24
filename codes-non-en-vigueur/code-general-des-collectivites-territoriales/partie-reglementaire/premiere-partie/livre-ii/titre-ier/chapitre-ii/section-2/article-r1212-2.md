@@ -1,4 +1,4 @@
-# Article R1211-20
+# Article R1212-2
 
 La commission consultative sur l'évaluation des charges est présidée par un de ses membres élus, désigné, dans les conditions prévues à l'article R. 1211-14, par le comité des finances locales.
 

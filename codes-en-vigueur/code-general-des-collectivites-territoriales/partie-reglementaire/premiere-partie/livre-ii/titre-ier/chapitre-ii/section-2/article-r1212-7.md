@@ -1,4 +1,4 @@
-# Article R1211-25
+# Article R1212-7
 
 L'arrêté constatant le montant des accroissements ou diminutions de charges est notifié aux collectivités intéressées.
 
