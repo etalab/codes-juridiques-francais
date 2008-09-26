@@ -1,8 +1,5 @@
-# Chapitre IV : Dispositions particulières au secteur des vins et eaux-de-vies
+# Chapitre IV : Dispositions particulières appellations d'origine.
 
-- [Article R644-1](article-r644-1.md)
-- [Article R644-2](article-r644-2.md)
-- [Article R644-3](article-r644-3.md)
-- [Article R644-4](article-r644-4.md)
-- [Article R644-5](article-r644-5.md)
-- [Article R644-6](article-r644-6.md)
+- [Section 1 : Dispositions communes aux conditions de contrôle.](section-1)
+- [Section 2 : Dispositions relatives au contrôle des vins, eaux-de-vie et autres boissons alcoolisées bénéficiant d'une appellation d'origine.](section-2)
+- [Section 3 : Dispositions applicables aux appellations d'origine laitières, agroalimentaires et forestières.](section-3)

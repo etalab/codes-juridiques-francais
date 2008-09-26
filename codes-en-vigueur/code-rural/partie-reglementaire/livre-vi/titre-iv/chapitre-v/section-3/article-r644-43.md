@@ -1,4 +1,4 @@
-# Article R644-1
+# Article R644-43
 
 Les conditions auxquelles est subordonnée l'attribution du label prévu par l'article L. 644-12 pour les vins délimités de qualité supérieure sont fixées pour chaque appellation par arrêté du ministre chargé de l'agriculture sur proposition de l'Institut national de l'origine et de la qualité et après avis de l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture.
 
