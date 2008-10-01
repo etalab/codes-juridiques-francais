@@ -2,4 +2,3 @@
 
 - [Section I : Indemnisation des victimes des actes de terrorisme et d'autres infractions.](section-i)
 - [Section II : Aide au recouvrement des dommages et intérêts pour les victimes d'infractions.](section-ii)
-- [Article L422-4](article-l422-4.md)
