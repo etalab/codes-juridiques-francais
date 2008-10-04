@@ -22,4 +22,4 @@ Dans les sections comportant des enseignements artistiques spécialisés où int
 
 Dans les centres ouverts à l'étranger, les jurys sont constitués selon les mêmes modalités ; toutefois, à défaut d'un président membre de l'enseignement supérieur, un inspecteur d'académie ou un professeur agrégé de l'enseignement du second degré peut être désigné.
 
-Au sein des jurys conduisant à la délivrance du baccalauréat option internationale ou à la délivrance de baccalauréats binationaux, le recteur peut désigner des personnels d'inspection ou d'enseignement étrangers.
+Au sein des jurys conduisant à la délivrance du baccalauréat option internationale ou à la délivrance de baccalauréats binationaux, le recteur peut désigner des personnels d'inspection ou d'enseignement étrangers qui ne peuvent constituer plus de la moitié des membres du jury, ni exercer la fonction de président ou président adjoint.

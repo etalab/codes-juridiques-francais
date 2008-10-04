@@ -4,9 +4,9 @@ Dans les sections internationales, les enseignements sont dispensés conforméme
 
 Dans les écoles, ces aménagements peuvent porter sur l'ensemble des disciplines à la condition que les horaires minimaux de chaque domaine d'enseignement soient respectés.
 
-Dans les collèges, ces aménagements portent sur les programmes d'histoire, de géographie et d'éducation civique assurés partiellement en français et partiellement en langue étrangère. Un enseignement complémentaire de lettres étrangères s'ajoute, à raison de quatre heures par semaine, aux horaires normaux d'enseignement.
+Dans les collèges, ces aménagements portent sur une discipline non linguistique dont l'enseignement est assuré partiellement en français et partiellement en langue étrangère. Un enseignement complémentaire de lettres étrangères s'ajoute, à raison de quatre heures par semaine, aux horaires normaux d'enseignement.
 
-Dans les lycées, ces aménagements portent sur les programmes d'une ou deux disciplines non linguistiques dont les enseignements sont assurés partiellement ou en totalité en langue étrangère. La ou les disciplines concernées et les modalités de leur enseignement (horaire, quotité horaire enseignée en langue étrangère) sont fixées par arrêté du ministre chargé de l'éducation, après concertation avec le pays partenaire.
+Dans les lycées, ces aménagements portent sur les programmes d'une ou deux disciplines non linguistiques dont les enseignements sont assurés partiellement ou en totalité en langue étrangère. Dans les collèges et les lycées, la ou les disciplines concernées et les modalités de leur enseignement (horaire, quotité horaire enseignée en langue étrangère) sont fixées par arrêté du ministre chargé de l'éducation, après concertation avec le pays partenaire.
 
 Un enseignement complémentaire de lettres étrangères d'une durée d'au moins quatre heures par semaine s'ajoute aux horaires normaux d'enseignement, sous réserve d'aménagements à prévoir dans les lycées professionnels.
 
