@@ -26,4 +26,6 @@ En application du 3° de l'article L. 1251-6, les secteurs d'activité dans lesq
 
 12° Les activités de coopération, d'assistance technique, d'ingénierie et de recherche à l'étranger ;
 
-13° La recherche scientifique réalisée dans le cadre d'une convention internationale, d'un arrangement administratif international pris en application d'une telle convention, ou par des chercheurs étrangers résidant temporairement en France.
+13° La recherche scientifique réalisée dans le cadre d'une convention internationale, d'un arrangement administratif international pris en application d'une telle convention, ou par des chercheurs étrangers résidant temporairement en France ;
+
+14° Les activités d'assistance technique ou logistique au sein d'institutions internationales ou de l'Union européenne pour la tenue de sessions, d'une durée limitée, prévues par les règlements de ces institutions ou par des traités.

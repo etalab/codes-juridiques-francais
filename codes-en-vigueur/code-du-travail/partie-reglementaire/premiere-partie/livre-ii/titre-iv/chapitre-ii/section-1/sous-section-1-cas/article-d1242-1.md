@@ -28,4 +28,6 @@ En application du 3° de l'article L. 1242-2, les secteurs d'activité dans lesq
 
 13° Le recrutement de travailleurs pour les mettre, à titre onéreux, à la disposition de personnes physiques, dans le cadre du 2° de l'article L. 7232-6 ;
 
-14° La recherche scientifique réalisée dans le cadre d'une convention internationale, d'un arrangement administratif international pris en application d'une telle convention, ou par des chercheurs étrangers résidant temporairement en France.
+14° La recherche scientifique réalisée dans le cadre d'une convention internationale, d'un arrangement administratif international pris en application d'une telle convention, ou par des chercheurs étrangers résidant temporairement en France ;
+
+15° Les activités de montage et de démontage d'installations foraines.
