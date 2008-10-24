@@ -19,3 +19,5 @@ Le commissaire aux comptes est tenu de signaler dans les meilleurs délais à l'
 La responsabilité du commissaire aux comptes ne peut être engagée pour les informations ou divulgations de faits auxquelles il procède en exécution des obligations imposées par le présent article.
 
 L'Autorité des marchés financiers peut également transmettre aux commissaires aux comptes du fonds des informations nécessaires à l'accomplissement de leur mission. Les informations transmises sont couvertes par la règle du secret professionnel.
+
+La désignation d'un commissaire aux comptes suppléant n'est pas requise.

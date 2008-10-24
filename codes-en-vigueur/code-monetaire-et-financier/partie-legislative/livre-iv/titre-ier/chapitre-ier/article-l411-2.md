@@ -1,6 +1,6 @@
 # Article L411-2
 
-I. - Ne constitue pas une opération par appel public à l'épargne l'admission aux négociations sur un marché réglementé, l'émission ou la cession d'instruments financiers :
+I.-Ne constitue pas une opération par appel public à l'épargne l'admission aux négociations sur un marché réglementé, l'émission ou la cession d'instruments financiers :
 
 1° Inconditionnellement et irrévocablement garantis ou émis par un Etat partie à l'accord sur l'Espace économique européen ;
 
@@ -8,9 +8,9 @@ I. - Ne constitue pas une opération par appel public à l'épargne l'admission 
 
 3° Emis par la Banque centrale européenne ou la banque centrale d'un Etat partie à l'accord sur l'Espace économique européen ;
 
-4° Emis par un organisme mentionné au 1 ou au 5 du I de l'article L. 214-1.
+4° Emis par un organisme mentionné au 1 ou au 5 du I de l'article L. 214-1 ou un fonds d'investissement constitué sur le fondement d'un droit étranger autre que de type fermé.
 
-II. - Ne constitue pas une opération par appel public à l'épargne l'émission ou la cession d'instruments financiers lorsque :
+II.-Ne constitue pas une opération par appel public à l'épargne l'émission ou la cession d'instruments financiers lorsque :
 
 1° L'offre porte sur des instruments financiers mentionnés au 1 ou au 2 du I de l'article L. 211-1 émis par une société anonyme ou une société en commandite par actions et que le montant total de l'offre est inférieur à un montant fixé par le règlement général de l'Autorité des marchés financiers ou à un montant et une quotité du capital de l'émetteur fixés par le règlement général.
 
@@ -30,4 +30,4 @@ Un investisseur qualifié est une personne ou une entité disposant des compéte
 
 Un cercle restreint d'investisseurs est composé de personnes, autres que des investisseurs qualifiés, dont le nombre est inférieur à un seuil fixé par décret.
 
-III. - Pour l'application des dispositions du code pénal et de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable, les personnes morales ou les sociétés procédant à des opérations mentionnées aux 1° à 3° du II sont réputées faire appel public à l'épargne.
+III.-Pour l'application des dispositions du code pénal et de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable, les personnes morales ou les sociétés procédant à des opérations mentionnées aux 1° à 3° du II sont réputées faire appel public à l'épargne.
