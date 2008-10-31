@@ -6,7 +6,7 @@ I. - Toute remorque d'un véhicule à moteur à quatre roues, à l'exception de 
 
 II. - Tout véhicule à moteur, à l'exception des véhicules et appareils agricoles ou de travaux publics automoteurs, peut être muni à l'avant de tels catadioptres.
 
-III. - Les pédales de tout cycle, cyclomoteur ou quadricycle léger à moteur doivent comporter des catadioptres, sauf dans le cas des cycles à deux roues à pédales rétractables.
+III. - Les pédales de tout cycle, cyclomoteur ou quadricycle léger à moteur doivent comporter des catadioptres, sauf dans le cas des cyclomoteurs à deux roues à pédales rétractables.
 
 IV. - Tout cycle doit être muni d'un catadioptre blanc visible de l'avant.
 
