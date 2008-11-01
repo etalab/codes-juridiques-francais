@@ -16,4 +16,4 @@ Le délai de reprise prévu au premier alinéa de l'article L. 169 s'applique é
 
 7° A tous prélèvements et taxes qui tiennent lieu de l'impôt sur le revenu ou de l'impôt sur les sociétés.
 
-8° au supplément d'imposition visé au II de l'article 1647 E.
+8° A la cotisation minimale de taxe professionnelle prévue au II de l'article 1647 E.
