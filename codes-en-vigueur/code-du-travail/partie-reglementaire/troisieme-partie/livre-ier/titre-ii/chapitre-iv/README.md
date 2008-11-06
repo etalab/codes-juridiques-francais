@@ -11,8 +11,6 @@
 - [Article R3124-9](article-r3124-9.md)
 - [Article R3124-10](article-r3124-10.md)
 - [Article R3124-11](article-r3124-11.md)
-- [Article R3124-12](article-r3124-12.md)
 - [Article R3124-13](article-r3124-13.md)
-- [Article R3124-14](article-r3124-14.md)
 - [Article R3124-15](article-r3124-15.md)
 - [Article R3124-16](article-r3124-16.md)
