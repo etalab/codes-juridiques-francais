@@ -1448,6 +1448,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Mont-de-Marsan. </p>
+<p>Centre pénitentiaire de Mont-de-Marsan (quartier de semi-liberté inclus). </p>
 </td>
 </tr>
 <tr>
@@ -1530,6 +1531,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Roanne. </p>
+<p>Centre de détention de Roanne. </p>
 </td>
 </tr>
 <tr>
@@ -1735,9 +1737,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
-<br/>
-</td>
+<td valign="top"/>
 <td valign="top"/>
 <td valign="top">
 <p>Antenne de Saumur. </p>
@@ -2229,7 +2229,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>(Arr. <sup>1er</sup> oct. 2004, art. 2) Antenne de Liancourt. </p>
+<p>(Arr. 1 <sup>er </sup>oct. 2004, art. 2) Antenne de Liancourt. </p>
 </td>
 <td valign="top">
 <p>Centre pénitentiaire de Liancourt (quartier centre de détention de Verderonne inclus). </p>
@@ -2623,6 +2623,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top"/>
 <td valign="top">
 <p>Maison d'arrêt de Lyon-Saint-Paul (quartier maison d'arrêt Saint-Joseph inclus). </p>
+<p>(jusqu'au 15 mai 2009). </p>
 </td>
 </tr>
 <tr>
@@ -2630,7 +2631,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>Maison d'arrêt de Lyon-Montluc. </p>
+<p>Maison d'arrêt de Lyon-Montluc (jusqu'au 15 février 2009). </p>
 </td>
 </tr>
 <tr>
@@ -2638,6 +2639,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
+<p>Maison d'arrêt de Lyon-Corbas (à partir du 27 avril 2009). </p>
 <p>Centre de semi-liberté de Lyon. </p>
 </td>
 </tr>
@@ -3169,7 +3171,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>(Arr. <sup>1er</sup> oct. 2004, art. 2) Antenne de Draguignan. </p>
+<p>(Arr. 1 <sup>er </sup>oct. 2004, art. 2) Antenne de Draguignan. </p>
 </td>
 <td valign="top">
 <p>(Arr. 13 déc. 2005, art. 5) Circonscription judiciaire de Draguignan. </p>
@@ -3188,7 +3190,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>(Arr. <sup>1er</sup> oct. 2004, art. 2) Centre pénitentiaire de Draguignan. </p>
+<p>(Arr. 1 <sup>er </sup>oct. 2004, art. 2) Centre pénitentiaire de Draguignan. </p>
 </td>
 </tr>
 <tr>
@@ -3651,6 +3653,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Saint-Denis. </p>
+<p>Centre pénitentiaire de Saint-Denis. </p>
 </td>
 </tr>
 <tr>
@@ -3691,16 +3694,16 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top">
-<p>(Arr. 13 déc. 2005, art. <sup>1er</sup>) Service pénitentiaire d'insertion et de probation de Mayotte. </p>
+<p>(Arr. 13 déc. 2005, art. 1 <sup>er</sup>) Service pénitentiaire d'insertion et de probation de Mayotte. </p>
 </td>
 <td valign="top">
-<p>(Arr. 13 déc. 2005, art. <sup>1er</sup>) Mamoudzou. </p>
+<p>(Arr. 13 déc. 2005, art. 1 <sup>er</sup>) Mamoudzou. </p>
 </td>
 <td valign="top">
-<p>(Arr. 13 déc. 2005, art. <sup>1er</sup>) Néant. </p>
+<p>(Arr. 13 déc. 2005, art. 1 <sup>er</sup>) Néant. </p>
 </td>
 <td valign="top">
-<p>(Arr. 13 déc. 2005, art. <sup>1er</sup>) Circonscription judiciaire du tribunal de première instance de Mamoudzou. </p>
+<p>(Arr. 13 déc. 2005, art. 1 <sup>er</sup>) Circonscription judiciaire du tribunal de première instance de Mamoudzou. </p>
 </td>
 </tr>
 <tr>
@@ -3708,7 +3711,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>(Arr. 13 déc. 2005, art. <sup>1er</sup>) Maison d'arrêt de Majicavo.</p>
+<p>(Arr. 13 déc. 2005, art. 1 <sup>er</sup>) Maison d'arrêt de Majicavo.</p>
 </td>
 </tr>
 </tbody>
