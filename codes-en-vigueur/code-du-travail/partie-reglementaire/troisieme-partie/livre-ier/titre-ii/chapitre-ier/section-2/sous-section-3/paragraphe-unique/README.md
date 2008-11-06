@@ -1,4 +1,4 @@
-# Paragraphe unique  Repos compensateur obligatoire
+# Paragraphe unique : Contrepartie obligatoire en repos
 
 - [Article D3121-7](article-d3121-7.md)
 - [Article D3121-8](article-d3121-8.md)

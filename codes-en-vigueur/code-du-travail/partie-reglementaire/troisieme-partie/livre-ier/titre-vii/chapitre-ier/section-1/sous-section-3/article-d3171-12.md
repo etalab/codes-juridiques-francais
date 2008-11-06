@@ -10,4 +10,4 @@ Ce document comporte les mentions prévues à l'article D. 3171-11 ainsi que :
 
 3° Le nombre d'heures de repos compensateur effectivement prises au cours du mois ;
 
-4° Le nombre de jours de repos effectivement pris au cours du mois, dès lors qu'un dispositif de réduction du temps de travail par attribution de journées ou de demi-journées de repos dans les conditions fixées par l'article L. 3122-6 s'applique dans l'entreprise ou l'établissement.
+4° Le nombre de jours de repos effectivement pris au cours du mois, dès lors qu'un dispositif de réduction du temps de travail par attribution de journées ou de demi-journées de repos dans les conditions fixées par les articles L. 3122-2 et D. 3122-7-1 s'applique dans l'entreprise ou l'établissement.
