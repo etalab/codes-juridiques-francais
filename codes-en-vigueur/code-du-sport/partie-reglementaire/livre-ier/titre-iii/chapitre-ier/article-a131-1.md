@@ -34,8 +34,6 @@ Fédération française de danse : Danse danse danse.
 
 Fédération française d'études et de sports sous-marins : Subaqua.
 
-Fédération française de football : Foot.
-
 Fédération française de giraviation : Le Colibri.
 
 Fédération française de gymnastique : l'Officiel du gymnaste.
