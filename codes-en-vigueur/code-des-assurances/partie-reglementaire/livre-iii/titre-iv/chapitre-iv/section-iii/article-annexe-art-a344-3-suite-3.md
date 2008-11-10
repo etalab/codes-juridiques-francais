@@ -2,7 +2,7 @@
 
 **3. ANNEXE**
 
-L'annexe est établie conformément aux dispositions de l'article 25 du décret n° 83-1020 du 29 novembre 1983 ; elle est constituée de toutes les informations d'importance significative permettant d'avoir une juste appréciation du patrimoine et de la situation financière de l'entreprise, des risques qu'elle assume et de ses résultats. Sans préjudice des obligations légales et réglementaires qui leur sont applicables (notamment la loi n° 66-537 du 24 juillet 1966 et les dispositions spécifiques aux entreprises dont les actions sont admises à la cote des bourses de valeurs), la production de ces informations par les entreprises n'est requise que pour autant qu'elles ont une importance significative.L'annexe comporte notamment les éléments prévus ci-après.A chaque fois que ceci est utile à la compréhension, et notamment lorsque l'annexe donne le détail d'un poste du bilan ou du compte de résultat, les chiffres correspondants relatifs à l'exercice précédent sont indiqués de manière à pouvoir être directement comparés à ceux de l'exercice sous revue.
+L'annexe est établie conformément aux dispositions de l'article 25 du décret n° 83-1020 du 29 novembre 1983 ; elle est constituée de toutes les informations d'importance significative permettant d'avoir une juste appréciation du patrimoine et de la situation financière de l'entreprise, des risques qu'elle assume et de ses résultats. Sans préjudice des obligations légales et réglementaires qui leur sont applicables (notamment la loi n° 66-537 du 24 juillet 1966 et les dispositions spécifiques aux entreprises dont les actions sont admises à la cote des bourses de valeurs), la production de ces informations par les entreprises n'est requise que pour autant qu'elles ont une importance significative. L'annexe comporte notamment les éléments prévus ci-après. A chaque fois que ceci est utile à la compréhension, et notamment lorsque l'annexe donne le détail d'un poste du bilan ou du compte de résultat, les chiffres correspondants relatifs à l'exercice précédent sont indiqués de manière à pouvoir être directement comparés à ceux de l'exercice sous revue.
 
 **I.-Informations sur le choix des méthodes utilisées**
 
@@ -96,9 +96,9 @@ e) Un tableau pour les placements inscrits au bilan en classe 2 déposés ou don
 
 f) Un tableau pour les placements inscrits au bilan en classe 2 déposés ou donnés en nantissement chez les autres cédantes en garantie des acceptations, avec, le cas échéant, un tableau séparé par méthode d'évaluation (R. 332-19 ou R. 332-20) (autres que ceux visés au i ci-dessous) ;
 
-g) Un tableau pour les autres placements inscrits au bilan en classe 2 (arrêté du 15 décembre 2005, annexe 3-16) et pour les instruments financiers à terme non rattachés à des placements (autres que ceux visés au i ci-dessous) » ;
+g) Un tableau pour les autres placements inscrits au bilan en classe 2 (arrêté du 15 décembre 2005, annexe 3-16) et pour les instruments financiers à terme non rattachés à des placements (autres que ceux visés au i ci-dessous) ;
 
-h) Un tableau pour les actifs inscrits au bilan affectables à la représentation des engagements réglementés, autres que ceux inscrits en classe 2 (arrêté du 15 décembre 2005, annexe 3-17) (autres que ceux visés au i ci-dessous) » ;
+h) Un tableau pour les actifs inscrits au bilan affectables à la représentation des engagements réglementés, autres que ceux inscrits en classe 2 (arrêté du 15 décembre 2005, annexe 3-17) (autres que ceux visés au i ci-dessous) ;
 
 i) Un tableau pour les placements inscrits au bilan en classe 2 et relatifs à des opérations légalement cantonnées enregistrées dans une comptabilité auxiliaire d'affectation ventilant pour chaque contrat ou convention le total des placements par méthode (R. 332-19, R. 332-20, R. 332-5 et article 28 du décret n° 2004-342 du 21 avril 2004) ainsi que les actifs inscrits au bilan affectables à la représentation des engagements réglementés, autres que ceux inscrits en classe 2. Ce tableau est accompagné de tableaux séparés établis pour chaque contrat ou convention détaillant les placements visés aux a à h ci-dessus ;
 
@@ -106,7 +106,7 @@ j) (cf. note 40) Un tableau pour les valeurs reçues en nantissement des réassu
 
 k) (cf. note 41) Des tableaux pour les valeurs gérées par l'entreprise et appartenant à des institutions de prévoyance, à raison d'un tableau par portefeuille géré (pour ces valeurs, les colonnes C et D ne sont pas servies ; la colonne E est servie par la valeur d'entrée).
 
-A 2.-Pour les entreprises soumises au contrôle de l'Etat en vertu de l'article L. 310-1-1 :
+A 2.-Pour les entreprises soumises au contrôle de l'Etat en vertu du 1° du III de l'article L. 310-1-1 :
 
 a) Un tableau pour les placements inscrits au bilan en classe 2 conformément à l'article R. 332-19 (autres que ceux visés aux c, d et e ci-dessous) ;
 
@@ -122,9 +122,11 @@ Un tableau pour les instruments financiers à terme non rattachés à des placem
 
 Dans chacun des tableaux prévus aux A 1 et A 2 ci-dessus, les valeurs et actifs sont groupés par rubrique correspondant à chaque compte divisionnaire (3 chiffres) ou, le cas échéant, sous-compte de la nomenclature des comptes (4 chiffres), présentés dans l'ordre du plan de comptes et comportant en clair l'intitulé du compte divisionnaire ou du sous-compte.
 
-L'état détaillé des placements comprend l'indication des instruments financiers à terme regroupés par stratégie et par contrepartie, à défaut d'indication plus détaillée. Les instruments financiers à terme liés à un placement sont rattachés aux placements concernés par la stratégie. Lorsqu'une stratégie concerne plusieurs natures de placements, les instruments financiers à terme de la stratégie seront soit rattachés aux placements de même nature, soit mentionnés dans le tableau g de l'état détaillé pour les entreprises soumises au contrôle de l'Etat en vertu de l'article L. 310-1 ou dans le tableau f de l'état détaillé pour les entreprises soumises au contrôle de l'Etat en vertu de l'article L. 310-1-1. Ce tableau contient en outre les instruments financiers à terme qui ne sont pas liés à des placements détenus (anticipations de placements notamment).
+L'état détaillé des placements comprend l'indication des instruments financiers à terme regroupés par stratégie et par contrepartie, à défaut d'indication plus détaillée. Les instruments financiers à terme liés à un placement sont rattachés aux placements concernés par la stratégie. Lorsqu'une stratégie concerne plusieurs natures de placements, les instruments financiers à terme de la stratégie seront soit rattachés aux placements de même nature, soit mentionnés dans le tableau g de l'état détaillé pour les entreprises soumises au contrôle de l'Etat en vertu de l'article L. 310-1 ou dans le tableau f de l'état détaillé pour les entreprises soumises au contrôle de l'Etat en vertu du 1° du III de l'article L. 310-1-1. Ce tableau contient en outre les instruments financiers à terme qui ne sont pas liés à des placements détenus (anticipations de placements notamment).
 
-Dans chaque rubrique, les actifs sont groupés en sous-rubrique par devise.A la fin de chaque sous-rubrique sont portés, sur des lignes distinctes, les éléments à déduire (part non libérée des titres, intérêts courus non échus), la totalisation des valeurs en devises et la contre-valeur en euros des totalisations au cours de change retenu pour l'établissement des comptes annuels (colonnes C, D, E, F, G).A la fin de chaque rubrique, figure une ligne de totalisation des valeurs ou contre-valeurs en euros (colonnes C, D, E, F, G). Aucun actif ne peut figurer dans plus d'un seul tableau. Chacun des tableaux comporte une ligne de totalisation générale des valeurs ou contre-valeurs en euros (C, D, E, F, G). Les entreprises agréées pour les opérations mentionnées au 1° de l'article L. 310-1 indiquent à la suite des tableaux la quote-part (%) définie à l'article R. 344-1.
+Dans chaque rubrique, les actifs sont groupés en sous-rubrique par devise.A la fin de chaque sous-rubrique sont portés, sur des lignes distinctes, les éléments à déduire (part non libérée des titres, intérêts courus non échus), la totalisation des valeurs en devises et la contre-valeur en euros des totalisations au cours de change retenu pour l'établissement des comptes annuels (colonnes C, D, E, F, G). A la fin de chaque rubrique, figure une ligne de totalisation des valeurs ou contre-valeurs en euros (colonnes C, D, E, F, G). Aucun actif ne peut figurer dans plus d'un seul tableau. Chacun des tableaux comporte une ligne de totalisation générale des valeurs ou contre-valeurs en euros (C, D, E, F, G).
+
+Les entreprises agréées pour les opérations mentionnées au 1° de l'article L. 310-1 indiquent à la suite des tableaux la quote-part (%) définie à l'article R. 344-1.
 
 Les tableaux sont présentés selon le modèle ci-après.
 
@@ -133,7 +135,7 @@ Les tableaux sont présentés selon le modèle ci-après.
 <tr>
 <td rowspan="2" width="89">
 <p align="center">NOMBRE </p>
-<p align="center">et désignation des valeurs ou des actifs avec, le cas échéant, mention de la devise autre que l'euro » (*) dans laquelle » (*) elles sont libellées </p>
+<p align="center">et désignation des valeurs ou des actifs avec, le cas échéant, mention de la devise autre que l'euro (*) dans laquelle (*) elles sont libellées </p>
 </td>
 <td rowspan="2" width="83">
 <p align="center">AFFECTATION </p>
@@ -341,7 +343,7 @@ c) Dont :
 
 -placements et instruments financiers à terme hors OCDE.
 
-**II.-Actifs affectables à la représentation des provisions techniques (autres que les placements, les instruments financiers à terme » et la part des réassureurs dans les provisions techniques).**
+**II.-Actifs affectables à la représentation des provisions techniques (autres que les placements, les instruments financiers à terme et la part des réassureurs dans les provisions techniques).**
 
 **III.-Valeurs appartenant à des institutions de prévoyance (à raison d'une ligne par institution de prévoyance).**
 
@@ -411,6 +413,6 @@ c) Le détail des mouvements ayant affecté la composition des fonds propres au 
 
 b) Les entreprises visées à l'article L. 310-1 précisent, dès lors que cette différence est significative, la différence entre, d'une part, le montant des provisions pour sinistres inscrites au bilan d'ouverture, relatives aux sinistres survenus au cours d'exercices antérieurs et restant à régler, et, d'autre part, le montant total des prestations payées au cours de l'exercice au titre de sinistres survenus au cours d'exercices antérieurs ajouté aux provisions pour sinistres inscrites au bilan de clôture au titre de ces mêmes sinistres. Le caractère significatif de cette différence est apprécié globalement.
 
-Les entreprises visées à l'article L. 310-1-1 précisent, dès lors que cette différence est significative, la différence entre, d'une part, le montant des provisions techniques inscrites au bilan d'ouverture relatives aux sinistres rattachés aux exercices antérieurs et, d'autre part, le montant total des prestations payées au cours de l'exercice au titre de sinistres rattachés aux exercices antérieurs ajouté aux provisions techniques inscrites au bilan de clôture au titre de ces mêmes sinistres. Le caractère significatif de cette différence est apprécié globalement.
+Les entreprises visées au 1° du III de l'article L. 310-1-1 précisent, dès lors que cette différence est significative, la différence entre, d'une part, le montant des provisions techniques inscrites au bilan d'ouverture relatives aux sinistres rattachés aux exercices antérieurs et, d'autre part, le montant total des prestations payées au cours de l'exercice au titre de sinistres rattachés aux exercices antérieurs ajouté aux provisions techniques inscrites au bilan de clôture au titre de ces mêmes sinistres. Le caractère significatif de cette différence est apprécié globalement.
 
 c) Les entreprises agréées pour les opérations mentionnées au 3° de l'article L. 310-1 établissent un état des règlements et des provisions pour sinistres à payer inscrites à leur bilan social au titre de l'ensemble de ces opérations, présenté selon le modèle ci-après.

@@ -617,13 +617,13 @@ B.-Catégories 20 à 39 (1)
 </tbody>
 </table>
 
-Les données chiffrées sont fournies en valeur absolue ; toutefois les rubriques ou sous-rubriques intitulées charges de provisions » sont affectées du signe-en cas de diminution des provisions ; la sous-rubrique variation des primes non acquises (cf. note 65) » est affectée du signe-en cas de diminution des primes non acquises et risques en cours.
+Les données chiffrées sont fournies en valeur absolue ; toutefois les rubriques ou sous-rubriques intitulées charges de provisions sont affectées du signe-en cas de diminution des provisions ; la sous-rubrique variation des primes non acquises (cf. note 65) est affectée du signe-en cas de diminution des primes non acquises et risques en cours.
 
 La répartition par catégorie des charges figurant au poste I-7 ou II-8 du compte de résultat s'effectue en rapportant à chaque catégorie les frais qui lui sont directement applicables et en ventilant les autres frais généraux aussi exactement que possible suivant leur nature, compte tenu notamment du nombre de contrats, de l'importance des affaires, du nombre des sinistres...
 
 Les produits financiers nets sont, à défaut d'une étude plus poussée, ventilés par catégorie au prorata des provisions techniques nettes de réassurance ; toutefois, les catégories 10 (contrats relevant de l'article L. 441-1) et 11 (plans d'épargne retraite populaire relevant de l'article 108 de la loi n° 2003-775 du 21 août 2003) reçoivent exactement les intérêts des placements qui leur sont affectés.
 
-Lorsque les opérations d'une catégorie sont exclusivement relatives à des garanties accessoires au sens des articles R. 321-3 et R. 321-5 du code des assurances, la mention garanties accessoires » est portée dans l'intitulé de la colonne relative à la catégorie concernée.
+Lorsque les opérations d'une catégorie sont exclusivement relatives à des garanties accessoires au sens des articles R. 321-3 et R. 321-5 du code des assurances, la mention garanties accessoires est portée dans l'intitulé de la colonne relative à la catégorie concernée.
 
 Pour les sociétés ou caisses d'assurances et de réassurances mutuelles agricoles :
 
@@ -647,7 +647,7 @@ a) La ventilation des charges de personnel selon le modèle suivant :
 
 b) Pour les entreprises visées à l'article L. 310-1, le montant des commissions afférent à l'assurance directe comptabilisé pendant l'exercice. Ce montant comprend les commissions de toute nature allouées aux courtiers, agents généraux et mandataires de l'entreprise, et notamment les commissions d'acquisition, de renouvellement, d'encaissement, de gestion et de service après vente.
 
-Pour les entreprises visées à l'article L. 310-1-1, le montant des commissions afférent aux acceptations comptabilisé pendant l'exercice. Le montant de commissions relatif aux opérations relevant de la catégorie 19 définie à l'article A. 344-2, d'une part, et le montant de commissions relatif aux opérations relevant de la catégorie 39 définie à l'article A. 344-2, d'autre part, peuvent être respectivement portés en note au bas du compte technique de l'assurance non-vie et du compte technique de l'assurance-vie du compte de résultat.
+Pour les entreprises visées au 1° du III de l'article L. 310-1-1, le montant des commissions afférent aux acceptations comptabilisé pendant l'exercice. Le montant de commissions relatif aux opérations relevant de la catégorie 19 définie à l'article A. 344-2, d'une part, et le montant de commissions relatif aux opérations relevant de la catégorie 39 définie à l'article A. 344-2, d'autre part, peuvent être respectivement portés en note au bas du compte technique de l'assurance non-vie et du compte technique de l'assurance-vie du compte de résultat.
 
 c) La ventilation des primes brutes émises selon le modèle suivant :
 
@@ -683,7 +683,7 @@ a) Indiquent le détail de la variation des provisions d'assurance-vie brutes de
 </tr>
 <tr>
 <td valign="top" width="533">
-<p>Intérêts techniques (comptes 6302 et 6342) et (Arrêté du 28 juillet 1995, art. 3-II-2°) participations aux bénéfices » incorporées directement (comptes 6305 et 6345) </p>
+<p>Intérêts techniques (comptes 6302 et 6342) et (Arrêté du 28 juillet 1995, art. 3-II-2°) participations aux bénéfices incorporées directement (comptes 6305 et 6345) </p>
 </td>
 <td valign="bottom" width="81">
 <p align="center">X 2, X 3 </p>
@@ -691,7 +691,7 @@ a) Indiquent le détail de la variation des provisions d'assurance-vie brutes de
 </tr>
 <tr>
 <td valign="top" width="533">
-<p>Utilisation de la provision pour (Arrêté du 28 juillet 1995, art. 3-II-3°) participation aux bénéfices » (comptes 63095 et 63945) </p>
+<p>Utilisation de la provision pour (Arrêté du 28 juillet 1995, art. 3-II-3°) participation aux bénéfices (comptes 63095 et 63945) </p>
 </td>
 <td valign="bottom" width="81">
 <p align="center">X 4 </p>
@@ -699,7 +699,7 @@ a) Indiquent le détail de la variation des provisions d'assurance-vie brutes de
 </tr>
 <tr>
 <td valign="top" width="533">
-<p>(Arrêté du 28 décembre 2007, art. 4.) Variation des cours de change » (+ OU) </p>
+<p>(Arrêté du 28 décembre 2007, art. 4.) Variation des cours de change (+ OU) </p>
 </td>
 <td valign="bottom" width="81">
 <p align="center">X 5 </p>
@@ -710,7 +710,7 @@ a) Indiquent le détail de la variation des provisions d'assurance-vie brutes de
 <p>(Arrêté du 15 décembre 2005, annexe 3-36.) Transferts de provisions </p>
 </td>
 <td valign="bottom" width="81">
-<p align="center">X 6 » </p>
+<p align="center">X 6 </p>
 </td>
 </tr>
 <tr>
@@ -775,7 +775,7 @@ b) Fournissent un tableau récapitulatif des éléments constitutifs de la parti
 </tr>
 <tr>
 <td valign="top" width="281">
-<p>A 2 : (Arrêté du 15 décembre 2005, annexe 3-37.) Dotation nette de reprise » de la provision pour participation aux bénéfices </p>
+<p>A 2 : (Arrêté du 15 décembre 2005, annexe 3-37.) Dotation nette de reprise de la provision pour participation aux bénéfices </p>
 </td>
 <td valign="top" width="72"/>
 <td valign="top" width="72"/>
@@ -835,7 +835,7 @@ b) Fournissent un tableau récapitulatif des éléments constitutifs de la parti
 </tr>
 <tr>
 <td valign="top" width="281">
-<p>-B 3 b (Arrêté du 15 décembre 2005, annexe 3-37.) Dotation nette de reprise » de la provision pour participation aux bénéfices </p>
+<p>-B 3 b (Arrêté du 15 décembre 2005, annexe 3-37.) Dotation nette de reprise de la provision pour participation aux bénéfices </p>
 </td>
 <td valign="top" width="72"/>
 <td valign="top" width="72"/>
@@ -848,7 +848,7 @@ b) Fournissent un tableau récapitulatif des éléments constitutifs de la parti
 <p>(1) L'exercice n est l'exercice sous revue. </p>
 <p>(2) Demi-somme des provisions mathématiques à l'ouverture et à la clôture de l'exercice, correspondant aux contrats des catégories visées à l'article A. 331-3 (*). </p>
 <p>(3) Participation effective (charge de l'exercice, y compris intérêts techniques) correspondant aux contrats des catégories visées à l'article A. 331-3 (*). </p>
-<p>(*) Aux termes de l'arrêté du 28 juillet 1995, article 3-II (3°), les mots : article A. 132-2 », sont remplacés par les mots : article A. 331-3 ». </p>
+<p>(*) Aux termes de l'arrêté du 28 juillet 1995, article 3-II (3°), les mots : article A. 132-2, sont remplacés par les mots : article A. 331-3. </p>
 </td>
 </tr>
 </tbody>

@@ -4,7 +4,7 @@
 
 **Primes et résultats par année de survenance des sinistres**
 
-Les entreprises pratiquant des opérations visées au 2° ou au 3° de l'article L. 310-1 et les entreprises visées à l'article L. 310-1-1 pratiquant des opérations relevant de la catégorie 39 de l'article A. 344-2 établissent, selon le modèle fixé ci-après, un état de leurs primes et résultats, par année de survenance des sinistres, pour chacune des catégories, sous-catégories ou regroupements de catégories de contrats ou de garanties suivants, les contrats pluriannuels à prime unique ou non révisable et les affaires assimilées en application de l'article A. 344-10 étant exclus :
+Les entreprises pratiquant des opérations visées au 2° ou au 3° de l'article L. 310-1 et les entreprises visées au 1° du III de l'article L. 310-1-1 pratiquant des opérations relevant de la catégorie 39 de l'article A. 344-2 établissent, selon le modèle fixé ci-après, un état de leurs primes et résultats, par année de survenance des sinistres, pour chacune des catégories, sous-catégories ou regroupements de catégories de contrats ou de garanties suivants, les contrats pluriannuels à prime unique ou non révisable et les affaires assimilées en application de l'article A. 344-10 étant exclus :
 
 a) Affaires directes souscrites en France :
 
@@ -289,41 +289,31 @@ Nombre de contrats ou de traités de réassurance
 <td width="307">
 <p>Nombre de contrats à l'ouverture de l'exercice </p>
 </td>
-<td width="307">
-<br/>
-</td>
+<td width="307"/>
 </tr>
 <tr>
 <td width="307">
 <p>Nombre de contrats à la clôture de l'exercice </p>
 </td>
-<td width="307">
-<br/>
-</td>
+<td width="307"/>
 </tr>
 <tr>
 <td width="307">
 <p>Nombre de risques (1) </p>
 </td>
-<td width="307">
-<br/>
-</td>
+<td width="307"/>
 </tr>
 <tr>
 <td width="307">
 <p>Nombre de risques à l'ouverture de l'exercice </p>
 </td>
-<td width="307">
-<br/>
-</td>
+<td width="307"/>
 </tr>
 <tr>
 <td width="307">
 <p>Nombre de risques à la clôture de l'exercice </p>
 </td>
-<td width="307">
-<br/>
-</td>
+<td width="307"/>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="614">

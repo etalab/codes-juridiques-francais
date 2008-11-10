@@ -4,7 +4,7 @@
 
 **Sinistres et résultats par année de souscription**
 
-Les entreprises pratiquant des opérations visées au 2° ou au 3° de l'article L. 310-1 et les entreprises visées à l'article L. 310-1-1 pratiquant des opérations relevant de la catégorie 39 de l'article A. 344-2 établissent, selon le modèle fixé ci-après, un état de leurs primes, sinistres et résultats, par année de souscription des contrats, pour chacune des catégories, sous-catégories ou regroupements de catégories de contrats suivants :
+Les entreprises pratiquant des opérations visées au 2° ou au 3° de l'article L. 310-1 et les entreprises visées au 1° du III de l'article L. 310-1-1 pratiquant des opérations relevant de la catégorie 39 de l'article A. 344-2 établissent, selon le modèle fixé ci-après, un état de leurs primes, sinistres et résultats, par année de souscription des contrats, pour chacune des catégories, sous-catégories ou regroupements de catégories de contrats suivants :
 
 a) Affaires directes souscrites en France :
 
@@ -78,391 +78,181 @@ Sinistres, paiements et provisions, par année de souscription (1)
 <td width="209">
 <p>1. Paiements de sinistres dans l'exercice inventorié </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
+<td width="54"/>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>2. Frais de gestion payés dans l'exercice inventorié </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
+<td width="54"/>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>3. Recours encaissés dans l'exercice inventorié </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
+<td width="54"/>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>4. Provisions pour sinistres à payer à la clôture de l'exercice inventorié (2) </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
+<td width="54"/>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>5. Provisions pour frais de gestion à payer à la clôture de l'exercice inventorié </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
+<td width="54"/>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>6. Prévision de recours restant à encaisser à la clôture de l'exercice inventorié </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
+<td width="54"/>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>7. Autres provisions techniques à la clôture de l'exercice inventorié (3) </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
+<td width="54"/>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>8. Sous-total (lignes 1 + 2-3 + 4 + 5-6 + 7) </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
+<td width="54"/>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>9. Provisions pour sinistres à payer à l'ouverture de l'exercice inventorié (2) </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
+<td width="54"/>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>10. Provisions pour frais de gestion à payer à l'ouverture de l'exercice inventorié </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
+<td width="54"/>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>11. Prévision de recours restant à encaisser à l'ouverture de l'exercice inventorié </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
+<td width="54"/>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>12. Autres provisions techniques à l'ouverture de l'exercice inventorié (3) </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
+<td width="54"/>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>13. Augmentation des primes acquises (4) </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
+<td width="54"/>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>14. Participations aux bénéfices incorporées dans l'exercice aux prestations payées ou provisionnées </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
+<td width="54"/>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>15. Sous-total (lignes 9 + 10-11 + 12 + 13 + 14) </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
+<td width="54"/>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
@@ -494,391 +284,199 @@ Sinistres, paiements et provisions, par année de souscription (1)
 <td width="209">
 <p>21. Paiements de sinistres dans l'exercice inventorié </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
+<td width="54"/>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>22. Frais de gestion payés dans l'exercice inventorié </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
+<td width="54"/>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>23. Recours encaissés dans l'exercice inventorié </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
+<td width="54"/>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>24. Provisions pour sinistres à payer à la clôture de l'exercice inventorié (2) </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
+<td width="54"/>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>25. Provisions pour frais de gestion à payer à la clôture de l'exercice inventorié </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
+<td width="54"/>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>26. Prévision de recours restant à encaisser à la clôture de l'exercice inventorié </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
+<td width="54"/>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>27. Autres provisions techniques à la clôture de l'exercice inventorié (3) </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
 <td width="54">
 <br/>
 </td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>28. Sous-total (lignes 21 + 22-23 + 24 + 25-26 + 27) </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
 <td width="54">
 <br/>
 </td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>29. Provisions pour sinistres à payer à l'ouverture de l'exercice inventorié (2) </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
 <td width="54">
 <p align="center">XXXXX </p>
 </td>
-<td width="57">
-<br/>
-</td>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>30. Provisions pour frais de gestion à payer à l'ouverture de l'exercice inventorié </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
 <td width="54">
 <p align="center">XXXXX </p>
 </td>
-<td width="57">
-<br/>
-</td>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>31. Prévision de recours restant à encaisser à l'ouverture de l'exercice inventorié </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
 <td width="54">
 <p align="center">XXXXX </p>
 </td>
-<td width="57">
-<br/>
-</td>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>32. Autres provisions techniques à l'ouverture de l'exercice inventorié (3) </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
 <td width="54">
 <p align="center">XXXXX </p>
 </td>
-<td width="57">
-<br/>
-</td>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>33. Augmentation des primes acquises (4) </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="54">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
 <td width="54">
 <p align="center">XXXXX </p>
 </td>
-<td width="57">
-<br/>
-</td>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>34. Participations aux bénéfices incorporées dans l'exercice aux prestations payées ou provisionnées </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
 <td width="54">
 <br/>
 </td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="57"/>
 </tr>
 <tr>
 <td width="209">
 <p>35. Sous-total (lignes 29 + 30-31 + 32 + 33 + 34) </p>
 </td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
-<td width="60">
-<br/>
-</td>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="60"/>
+<td width="54"/>
 <td width="54">
 <br/>
 </td>
-<td width="54">
-<br/>
-</td>
-<td width="57">
-<br/>
-</td>
+<td width="57"/>
 </tr>
 <tr>
 <td colspan="8" width="614">
@@ -924,162 +522,92 @@ Rapport S / P par année de souscription
 <td width="257">
 <p>1. Cumul des paiements, nets de recours, au cours des exercices antérieurs (1) </p>
 </td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
-</td>
+<td valign="top" width="48"/>
+<td valign="top" width="60"/>
+<td valign="top" width="60"/>
+<td valign="top" width="60"/>
 <td width="60">
 <p align="center">XXXXX </p>
 </td>
-<td valign="top" width="69">
-<br/>
-</td>
+<td valign="top" width="69"/>
 </tr>
 <tr>
 <td width="257">
 <p>2. Paiements, nets de recours, au cours de l'exercice inventorié (1) </p>
 </td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
-</td>
+<td valign="top" width="48"/>
+<td valign="top" width="60"/>
+<td valign="top" width="60"/>
+<td valign="top" width="60"/>
 <td width="60">
 <br/>
 </td>
-<td valign="top" width="69">
-<br/>
-</td>
+<td valign="top" width="69"/>
 </tr>
 <tr>
 <td width="257">
 <p>3. Provisions pour prestations à la fin de l'exercice inventorié (1) (2) </p>
 </td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
-</td>
+<td valign="top" width="48"/>
+<td valign="top" width="60"/>
+<td valign="top" width="60"/>
+<td valign="top" width="60"/>
 <td width="60">
 <br/>
 </td>
-<td valign="top" width="69">
-<br/>
-</td>
+<td valign="top" width="69"/>
 </tr>
 <tr>
 <td width="257">
 <p>4. Charge nette de recours </p>
 </td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
-</td>
+<td valign="top" width="48"/>
+<td valign="top" width="60"/>
+<td valign="top" width="60"/>
+<td valign="top" width="60"/>
 <td width="60">
 <br/>
 </td>
-<td valign="top" width="69">
-<br/>
-</td>
+<td valign="top" width="69"/>
 </tr>
 <tr>
 <td width="257">
 <p>5. Cumul des participations aux bénéfices incorporées aux prestations payées ou provisionnées </p>
 </td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
-</td>
+<td valign="top" width="48"/>
+<td valign="top" width="60"/>
+<td valign="top" width="60"/>
+<td valign="top" width="60"/>
 <td width="60">
 <br/>
 </td>
-<td valign="top" width="69">
-<br/>
-</td>
+<td valign="top" width="69"/>
 </tr>
 <tr>
 <td width="257">
 <p>6. Primes acquises à l'année </p>
 </td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
-</td>
+<td valign="top" width="48"/>
+<td valign="top" width="60"/>
+<td valign="top" width="60"/>
+<td valign="top" width="60"/>
 <td width="60">
 <br/>
 </td>
-<td valign="top" width="69">
-<br/>
-</td>
+<td valign="top" width="69"/>
 </tr>
 <tr>
 <td width="257">
 <p>7. Coût net / Primes (en %) (3) </p>
 </td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
-</td>
+<td valign="top" width="48"/>
+<td valign="top" width="60"/>
+<td valign="top" width="60"/>
+<td valign="top" width="60"/>
 <td width="60">
 <br/>
 </td>
-<td valign="top" width="69">
-<br/>
-</td>
+<td valign="top" width="69"/>
 </tr>
 <tr>
 <td colspan="7" width="614">

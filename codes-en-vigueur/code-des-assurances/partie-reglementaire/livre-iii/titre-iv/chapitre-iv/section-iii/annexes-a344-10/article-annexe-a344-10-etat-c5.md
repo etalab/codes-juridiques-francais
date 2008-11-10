@@ -4,7 +4,7 @@
 
 **Représentation des engagements privilégiés**
 
-Les entreprises visées aux 1°, 3° ou 4° de l'article L. 310-2 établissent, selon le modèle fixé ci-après, un état retraçant la représentation de leurs engagements privilégiés.
+Les entreprises visées établissent, selon le modèle fixé ci-après, un état retraçant la représentation de leurs engagements privilégiés.
 
 <table>
 <tbody>
@@ -622,8 +622,7 @@ Les entreprises visées aux 1°, 3° ou 4° de l'article L. 310-2 établissent, 
 </tr>
 <tr>
 <td width="125">
-<p>Créances sur les réassureurs mentionnées à l'article R. 332-7
-</p>
+<p>Créances sur les réassureurs ayant leur siège social dans un Etat non partie à l'accord sur l'EEE mentionnées à l'article R. 332-7</p>
 </td>
 <td width="108">
 <p align="center">-</p>
@@ -991,8 +990,7 @@ Les entreprises visées aux 1°, 3° ou 4° de l'article L. 310-2 établissent, 
 </tr>
 <tr>
 <td width="125">
-<p>Créances garantie sur les réassureurs mentionnées à l'article R. 332-3-3
-</p>
+<p>Créances admises sur les réassureurs et véhicules de titrisation</p>
 </td>
 <td width="108">
 <p align="center">-</p>
@@ -1013,6 +1011,30 @@ Les entreprises visées aux 1°, 3° ou 4° de l'article L. 310-2 établissent, 
 <p align="center">-</p>
 </td>
 <td width="52">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td>Autres actifs représentatifs des engagements réglementés des entreprises de réassurance</td>
+<td>
+<p align="center">-</p>
+</td>
+<td>
+<p align="center">-</p>
+</td>
+<td>
+<p align="center">-</p>
+</td>
+<td>
+<p align="center">-</p>
+</td>
+<td>
+<p align="center">-</p>
+</td>
+<td>
+<p align="center">-</p>
+</td>
+<td>
 <p align="center">-</p>
 </td>
 </tr>
@@ -1045,7 +1067,7 @@ Les entreprises visées aux 1°, 3° ou 4° de l'article L. 310-2 établissent, 
 <tr>
 <td colspan="8" width="691">
 <p>(1) Opérations de la branche 25 de l'article R. 321-1. Les placements correspondants ne figurent au présent état que s'ils appartiennent à l'entreprise. </p>
-<p>(2) Le détail de la rubrique divers » est annexé au présent état. </p>
+<p>(2) Le détail de la rubrique divers est annexé au présent état. </p>
 <p>(3) Sont notamment incluses parmi ces placements les valeurs remises par les organismes réassurés avec caution solidaire ou substitution.</p>
 </td>
 </tr>
