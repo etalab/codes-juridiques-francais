@@ -5,5 +5,5 @@
 - [TITRE III : De la concentration économique.](titre-iii)
 - [TITRE IV : De la transparence, des pratiques restrictives de concurrence et d'autres pratiques prohibées.](titre-iv)
 - [TITRE V : Des pouvoirs d'enquête.](titre-v)
-- [TITRE VI : Du conseil de la concurrence.](titre-vi)
+- [TITRE VI : De l'Autorité de la concurrence.](titre-vi)
 - [TITRE VII : Dispositions diverses.](titre-vii)
