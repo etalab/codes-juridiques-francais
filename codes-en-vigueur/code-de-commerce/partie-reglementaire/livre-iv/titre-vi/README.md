@@ -1,4 +1,4 @@
-# TITRE VI : Du Conseil de la concurrence.
+# TITRE VI : De l'Autorité de la concurrence.
 
 - [Chapitre Ier : De l'organisation.](chapitre-ier)
 - [Chapitre II : Des attributions.](chapitre-ii)

@@ -1,4 +1,4 @@
-# Section 2 : Des recours exercés devant la cour d'appel de Paris contre les décisions du Conseil de la concurrence.
+# Section 2 : Des recours exercés devant la cour d'appel de Paris contre les décisions de l'Autorité de la concurrence.
 
 - [Sous-section 1 : Des recours prévus à l'article L. 464-8.](sous-section-1)
 - [Sous-section 2 : Des recours prévus à l'article L. 464-7.](sous-section-2)

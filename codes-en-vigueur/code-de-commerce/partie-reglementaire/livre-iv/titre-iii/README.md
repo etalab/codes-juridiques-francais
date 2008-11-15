@@ -1,5 +1,6 @@
 # TITRE III : De la concentration économique.
 
+- [Article D430-8](article-d430-8.md)
 - [Article R430-2](article-r430-2.md)
 - [Article R430-3](article-r430-3.md)
 - [Article R430-4](article-r430-4.md)
