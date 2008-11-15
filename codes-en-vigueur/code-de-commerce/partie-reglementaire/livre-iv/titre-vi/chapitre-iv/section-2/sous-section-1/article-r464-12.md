@@ -6,4 +6,4 @@ Les recours prévus à l'article L. 464-8 sont formés par une déclaration écr
 
 2° L'objet du recours.
 
-Lorsque la déclaration ne contient pas l'exposé des moyens invoqués, le demandeur doit, à peine d'irrecevabilité prononcée d'office, déposer cet exposé au greffe dans les deux mois qui suivent la notification de la décision du Conseil de la concurrence.
+Lorsque la déclaration ne contient pas l'exposé des moyens invoqués, le demandeur doit, à peine d'irrecevabilité prononcée d'office, déposer cet exposé au greffe dans les deux mois qui suivent la notification de la décision de l'Autorité de la concurrence.

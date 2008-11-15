@@ -10,6 +10,6 @@ Sous la même sanction :
 
 2° Une copie de l'assignation est déposée en triple exemplaire au greffe de la cour d'appel au plus tard dans les cinq jours qui suivent celui de sa signification.
 
-A peine d'irrecevabilité du recours prononcée d'office, l'assignation est délivrée à toutes les parties en cause devant    l'Autorité de la concurrence ainsi qu'au ministre chargé de l'économie.
+A peine d'irrecevabilité du recours prononcée d'office, l'assignation est délivrée à toutes les parties en cause devant l'Autorité de la concurrence ainsi qu'au ministre chargé de l'économie.
 
-Une copie de l'assignation est immédiatement notifiée à la diligence de l'huissier de justice au Conseil de la concurrence par lettre recommandée avec demande d'avis de réception.
+Une copie de l'assignation est immédiatement notifiée à la diligence de l'huissier de justice à l'Autorité de la concurrence par lettre recommandée avec demande d'avis de réception.

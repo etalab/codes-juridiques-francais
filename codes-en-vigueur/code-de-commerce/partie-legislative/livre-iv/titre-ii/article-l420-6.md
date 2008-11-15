@@ -4,4 +4,4 @@ Est puni d'un emprisonnement de quatre ans et d'une amende de 75000 euros le fai
 
 Le tribunal peut ordonner que sa décision soit publiée intégralement ou par extraits dans les journaux qu'il désigne, aux frais du condamné.
 
-Les actes interruptifs de la prescription devant le Conseil de la concurrence en application de l'article L. 462-7 sont également interruptifs de la prescription de l'action publique.
+Les actes interruptifs de la prescription devant l'Autorité de la concurrence en application de l'article L. 462-7 sont également interruptifs de la prescription de l'action publique.

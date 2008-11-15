@@ -10,4 +10,5 @@
 - [Article L470-5](article-l470-5.md)
 - [Article L470-6](article-l470-6.md)
 - [Article L470-7](article-l470-7.md)
+- [Article L470-7-1](article-l470-7-1.md)
 - [Article L470-8](article-l470-8.md)
