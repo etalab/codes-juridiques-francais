@@ -4,7 +4,9 @@ I.-Les agents relevant de l'un des organismes mentionnés aux I à III de l'arti
 
 -les inspecteurs de la santé publique vétérinaire et les ingénieurs du génie rural, des eaux et des forêts ;
 
--les ingénieurs de l'agriculture et de l'environnement ;.
+- les vétérinaires contractuels de l'Etat ;
+
+-les ingénieurs de l'agriculture et de l'environnement ;
 
 -les techniciens des services du ministère de l'agriculture ;
 

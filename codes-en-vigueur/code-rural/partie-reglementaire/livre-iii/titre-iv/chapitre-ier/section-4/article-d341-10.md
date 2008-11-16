@@ -6,6 +6,6 @@ A compter de la date limite de dépôt de la demande et pendant toute la durée 
 
 2° Les exigences en matière de conditionnalité définies à la section 4 du chapitre V du titre Ier du livre VI du code rural, sur l'ensemble de son exploitation ;
 
-3° Les exigences complémentaires minimales relatives aux pratiques de fertilisation et d'utilisation des produits phytopharmaceutiques fixées par arrêté du ministre chargé de l'agriculture, sur l'ensemble de son exploitation ;
+3° Les exigences complémentaires relatives aux pratiques de fertilisation et d'utilisation des produits phytopharmaceutiques fixées par arrêté du ministre chargé de l'agriculture, sur l'ensemble de son exploitation ;
 
 4° Les obligations fixées dans les cahiers des charges des différentes mesures agroenvironnementales souscrites.
