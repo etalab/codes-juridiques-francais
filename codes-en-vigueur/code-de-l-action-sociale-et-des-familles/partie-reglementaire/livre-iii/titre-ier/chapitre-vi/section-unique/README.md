@@ -4,6 +4,3 @@
 - [Article D316-2](article-d316-2.md)
 - [Article D316-3](article-d316-3.md)
 - [Article D316-4](article-d316-4.md)
-- [Article R316-5](article-r316-5.md)
-- [Article R316-6](article-r316-6.md)
-- [Article R316-7](article-r316-7.md)
