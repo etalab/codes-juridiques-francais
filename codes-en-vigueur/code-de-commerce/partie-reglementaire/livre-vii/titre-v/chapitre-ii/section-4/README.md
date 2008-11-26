@@ -1,6 +1,5 @@
 # Section 4 : Des recours contre la décision     ou l'avis de la commission départementale.
 
-- [Article R752-43](article-r752-43.md)
 - [Article R752-45](article-r752-45.md)
 - [Article R752-46](article-r752-46.md)
 - [Article R752-47](article-r752-47.md)
