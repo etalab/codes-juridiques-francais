@@ -1,4 +1,4 @@
-# Section 3 : Des observatoires départementaux d'équipement commercial.
+# Section 3 : Des observatoires départementaux d'aménagement commercial.
 
 - [Article R751-12](article-r751-12.md)
 - [Article R751-13](article-r751-13.md)

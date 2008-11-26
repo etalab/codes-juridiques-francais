@@ -1,4 +1,4 @@
-# Section 1 : Des commissions départementales d'équipement commercial.
+# Section 1 : Des commissions départementales d'aménagement commercial.
 
 - [Article R751-1](article-r751-1.md)
 - [Article R751-2](article-r751-2.md)

@@ -1,5 +1,10 @@
-# Section 3 : Du recours contre la décision de la commission départementale.
+# Section 3 : De l'avis des commissions d'aménagement commercial.
 
+- [Article R752-29](article-r752-29.md)
+- [Article R752-30](article-r752-30.md)
+- [Article R752-31](article-r752-31.md)
+- [Article R752-32](article-r752-32.md)
+- [Article R752-34](article-r752-34.md)
 - [Article R752-35](article-r752-35.md)
 - [Article R752-36](article-r752-36.md)
 - [Article R752-37](article-r752-37.md)
@@ -8,3 +13,5 @@
 - [Article R752-40](article-r752-40.md)
 - [Article R752-41](article-r752-41.md)
 - [Article R752-42](article-r752-42.md)
+- [Article R752-43](article-r752-43.md)
+- [Article R752-44](article-r752-44.md)

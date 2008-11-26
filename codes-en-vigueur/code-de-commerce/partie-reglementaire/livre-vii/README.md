@@ -4,5 +4,5 @@
 - [TITRE II : Du tribunal de commerce.](titre-ii)
 - [TITRE III : Des juridictions commerciales particulières.](titre-iii)
 - [TITRE IV : Du greffe du tribunal de commerce.](titre-iv)
-- [TITRE V : De l'équipement commercial.](titre-v)
+- [TITRE V : De l'aménagement commercial.](titre-v)
 - [TITRE VI : Des marchés d'intérêt national et des manifestations commerciales.](titre-vi)

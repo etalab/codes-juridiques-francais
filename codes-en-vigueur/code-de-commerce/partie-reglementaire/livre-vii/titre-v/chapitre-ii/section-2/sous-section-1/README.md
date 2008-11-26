@@ -1,5 +1,6 @@
 # Sous-section 1 : De la demande d'autorisation.
 
+- [Article R752-6](article-r752-6.md)
 - [Article R752-7](article-r752-7.md)
 - [Article R752-8](article-r752-8.md)
 - [Article R752-9](article-r752-9.md)
