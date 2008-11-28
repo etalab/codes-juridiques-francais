@@ -1,0 +1,17 @@
+# Sous-section 4 : Relations avec l'extérieur
+
+- [Article D3223-25](article-d3223-25.md)
+- [Article D3223-26](article-d3223-26.md)
+- [Article D3223-27](article-d3223-27.md)
+- [Article D3223-28](article-d3223-28.md)
+- [Article D3223-29](article-d3223-29.md)
+- [Article D3223-30](article-d3223-30.md)
+- [Article D3223-31](article-d3223-31.md)
+- [Article D3223-32](article-d3223-32.md)
+- [Article D3223-33](article-d3223-33.md)
+- [Article D3223-34](article-d3223-34.md)
+- [Article D3223-35](article-d3223-35.md)
+- [Article D3223-36](article-d3223-36.md)
+- [Article D3223-37](article-d3223-37.md)
+- [Article D3223-38](article-d3223-38.md)
+- [Article D3223-39](article-d3223-39.md)
