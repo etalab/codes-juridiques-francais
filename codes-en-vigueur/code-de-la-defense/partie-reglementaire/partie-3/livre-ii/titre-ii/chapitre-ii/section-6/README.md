@@ -1,5 +1,6 @@
 # Section 6 : Dispositions particulières à certaines formations
 
+- [Sous-section 1 : Les organismes de formation](sous-section-1)
 - [Sous-section 2 : La légion étrangère](sous-section-2)
 - [Sous-section 3 : Le commandement des formations militaires de la sécurité civile](sous-section-3)
 - [Sous-section 4 : Les sapeurs-pompiers de Paris](sous-section-4)
