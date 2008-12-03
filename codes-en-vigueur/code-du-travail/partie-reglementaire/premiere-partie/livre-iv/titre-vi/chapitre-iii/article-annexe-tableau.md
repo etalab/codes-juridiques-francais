@@ -1,5 +1,7 @@
 # Article Annexe Tableau
 
+TABLEAU A
+
 SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 
 <table>
@@ -9,136 +11,136 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <p align="center">DÉPARTEMENT</p>
 </td>
 <td align="left" rowspan="2" valign="top">
-<p align="center">TRIBUNAL<br/>de grande instance<br/>
-</p>
+<p align="center">TRIBUNAL<br/>de grande instance </p>
 </td>
 <td align="left" colspan="2" valign="top">
-<p align="center">SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES</p>
+<p align="center">SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="center">Siège du conseil<br/>de prud'hommes<br/>
-</p>
+<p align="center">Siège du conseil<br/>de prud'hommes </p>
 </td>
 <td align="left" valign="top">
-<p align="center">Ressort du conseil<br/>de prud'hommes</p>
+<p align="center">Ressort du conseil<br/>de prud'hommes </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel d'Agen<br/>
+<p>Cour d'appel d'Agen <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Gers.<br/>
+<p>Gers <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Auch.<br/>
+<p>Auch <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Auch.<br/>
+<p>Auch <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance d'Auch.<br/>
+<p>Ressort du tribunal de grande instance d'Auch. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Lot.<br/>
+<p>Lot <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Cahors.<br/>
+<p>Cahors <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Cahors.<br/>
+<p>Cahors <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Cahors et Gourdon.<br/>
+<p>Ressort du tribunal de grande instance de Cahors <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Lot-et-Garonne <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Agen <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Figeac.<br/>
+<p>Agen <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Figeac.<br/>
+<p>Ressort du tribunal de grande instance d'Agen. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Lot-et-Garonne.<br/>
-</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Agen.<br/>
+<p>Marmande <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Agen.<br/>
+<p>Marmande <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance d'Agen.<br/>
+<p>Ressort du tribunal de grande instance de Marmande. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Cour d'appel d'Aix-en-Provence <br/>
+</p>
 </td>
+</tr>
+<tr>
 <td align="left" valign="top">
-<p>Marmande.<br/>
+<p>Alpes-de-Haute-Provence <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Marmande.<br/>
+<p>Digne-les-Bains <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Marmande.<br/>
+<p>Digne-les-Bains <br/>
 </p>
 </td>
-</tr>
-<tr>
 <td align="left" valign="top">
-<p>Cour d'appel d'Aix-en-Provence<br/>
+<p>Ressort du tribunal de grande instance de Digne-les-Bains <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Alpes-de-Haute-Provence.<br/>
+<p>Alpes-Maritimes <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Digne-les-Bains.<br/>
+<p>Grasse <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Digne-les-Bains.<br/>
+<p>Cannes <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Digne-les-Bains et Barcelonnette.<br/>
+<p>Ressort du tribunal d'instance de Cannes. <br/>
 </p>
 </td>
 </tr>
@@ -150,45 +152,46 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Manosque.<br/>
+<p>Grasse <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Forcalquier.<br/>
+<p>Ressort des tribunaux d'instance d'Antibes, Cagnes-sur-Mer et Grasse. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Alpes-Maritimes.<br/>
-</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Grasse.<br/>
+<p>Nice <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Cannes.<br/>
+<p>Nice <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Cannes.<br/>
+<p>Ressort du tribunal de grande instance de Nice. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Bouches-du-Rhône <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Aix-en-Provence <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Grasse.<br/>
+<p>Aix-en-Provence <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance d'Antibes, Cagnes-sur-mer et Grasse.<br/>
+<p>Ressort des tribunaux d'instance d'Aix-en-Provence et Salon-de-Provence. <br/>
 </p>
 </td>
 </tr>
@@ -197,15 +200,14 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Nice.<br/>
-</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Menton.<br/>
+<p>Martigues <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Menton.<br/>
+<p>Ressort du tribunal d'instance de Martigues. <br/>
 </p>
 </td>
 </tr>
@@ -214,48 +216,50 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Marseille <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Nice.<br/>
+<p>Marseille <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Nice.<br/>
+<p>Ressort du tribunal de grande instance de Marseille. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Bouches-du-Rhône.<br/>
-</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Aix-en-Provence.<br/>
+<p>Tarascon <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Aix-en-Provence.<br/>
+<p>Arles <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance d'Aix-en-Provence.<br/>
+<p>Ressort du tribunal de grande instance de Tarascon. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Var <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Draguignan <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Martigues.<br/>
+<p>Draguignan <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Martigues.<br/>
+<p>Ressort des tribunaux d'instance de Brignoles et Draguignan. <br/>
 </p>
 </td>
 </tr>
@@ -267,11 +271,11 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Salon-de-Provence.<br/>
+<p>Fréjus <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Salon-de-Provence.<br/>
+<p>Ressort du tribunal d'instance de Fréjus. <br/>
 </p>
 </td>
 </tr>
@@ -280,50 +284,39 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Marseille.<br/>
+<p>Toulon <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Marseille.<br/>
+<p>Toulon <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Marseille.<br/>
+<p>Ressort du tribunal de grande instance de Toulon. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
 <td align="left" valign="top">
-<p>Tarascon.<br/>
+<p>Cour d'appel d'Amiens <br/>
 </p>
 </td>
-<td align="left" valign="top">
-<p>Arles.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Tarascon.<br/>
-</p>
-</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Var.<br/>
+<p>Aisne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Draguignan.<br/>
+<p>Laon <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Draguignan.<br/>
+<p>Laon <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Brignoles et Draguignan.<br/>
+<p>Ressort du tribunal de grande instance de Laon. <br/>
 </p>
 </td>
 </tr>
@@ -332,14 +325,15 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Saint-Quentin <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Fréjus.<br/>
+<p>Saint-Quentin <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Fréjus.<br/>
+<p>Ressort du tribunal de grande instance de Saint-Quentin. <br/>
 </p>
 </td>
 </tr>
@@ -348,39 +342,33 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Toulon.<br/>
+<p>Soissons <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Toulon.<br/>
+<p>Soissons <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Toulon.<br/>
+<p>Ressort du tribunal de grande instance de Soissons. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel d'Amiens<br/>
+<p>Oise <br/>
 </p>
 </td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Aisne.<br/>
-</p>
-</td>
 <td align="left" valign="top">
-<p>Laon.<br/>
+<p>Beauvais <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Chauny.<br/>
+<p>Beauvais <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Cantons de Chauny, Coucy-le-Château-Auffrique. La Fère et Tergnier.<br/>
+<p>Ressort du tribunal de grande instance de Beauvais. <br/>
 </p>
 </td>
 </tr>
@@ -389,14 +377,15 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Compiègne <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Hirson.<br/>
+<p>Compiègne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Vervins.<br/>
+<p>Ressort du tribunal de grande instance de Compiègne. <br/>
 </p>
 </td>
 </tr>
@@ -405,31 +394,33 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Senlis <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Laon.<br/>
+<p>Creil <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Laon, à l'exception de des cantons de Chauny, Coucy-le-Château-Auffrique, La Fère et Tergnier.<br/>
+<p>Ressort du tribunal de grande instance de Senlis. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Somme <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Saint-Quentin.<br/>
+<p>Abbeville <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Saint-Quentin.<br/>
+<p>Abbeville <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Saint-Quentin.<br/>
+<p>Ressort du tribunal de grande instance d'Abbeville. <br/>
 </p>
 </td>
 </tr>
@@ -438,15 +429,15 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Soissons.<br/>
+<p>Amiens <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Château-Thierry.<br/>
+<p>Amiens <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Château-Thierry.<br/>
+<p>Ressort du tribunal de grande instance d'Amiens. <br/>
 </p>
 </td>
 </tr>
@@ -455,32 +446,39 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Péronne <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Péronne <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Soissons.<br/>
+<p>Ressort du tribunal de grande instance de Péronne. <br/>
 </p>
 </td>
+</tr>
+<tr>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Soissons.<br/>
+<p>Cour d'appel d'Angers <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Oise.<br/>
+<p>Maine-et-Loire <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Beauvais.<br/>
+<p>Angers <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Beauvais.<br/>
+<p>Angers <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Beauvais.<br/>
+<p>Ressort du tribunal de grande instance d'Angers. <br/>
 </p>
 </td>
 </tr>
@@ -489,124 +487,135 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Compiègne.<br/>
+<p>Saumur <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Compiègne.<br/>
+<p>Saumur <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Compiègne.<br/>
+<p>Ressort du tribunal de grande instance de Saumur. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Mayenne <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Senlis.<br/>
+<p>Laval <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Creil.<br/>
+<p>Laval <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Senlis.<br/>
+<p>Ressort du tribunal de grande instance de Laval. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Somme.<br/>
+<p>Sarthe <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Abbeville.<br/>
+<p>Le Mans <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Abbeville.<br/>
+<p>Le Mans <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance d'Abbeville, à l'exception des cantons d'Ault, Friville-Escarbotin, Gamaches et Saint-Valéry-sur-Somme.<br/>
+<p>Ressort du tribunal de grande instance du Mans. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Cour d'appel de Bastia <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Corse-du-Sud <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Ajaccio <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Friville-Escarbotin.<br/>
+<p>Ajaccio <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Cantons d'Ault, Friville-Escarbotin, Gamaches et Saint-Valéry-sur-Somme.<br/>
+<p>Ressort du tribunal de grande instance d'Ajaccio. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Haute-Corse <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Amiens.<br/>
+<p>Bastia <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Amiens.<br/>
+<p>Bastia <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance d'Amiens.<br/>
+<p>Ressort du tribunal de grande instance de Bastia. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Cour d'appel de Besançon <br/>
+</p>
 </td>
+</tr>
+<tr>
 <td align="left" valign="top">
-<p>Péronne.<br/>
+<p>Territoire de Belfort <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Péronne.<br/>
+<p>Belfort <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Péronne.<br/>
+<p>Belfort <br/>
 </p>
 </td>
-</tr>
-<tr>
 <td align="left" valign="top">
-<p>Cour d'appel d'Angers<br/>
+<p>Ressort du tribunal de grande instance de Belfort. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Maine-et-Loire.<br/>
+<p>Doubs <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Angers.<br/>
+<p>Besançon <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Angers.<br/>
+<p>Besançon <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance d'Angers et Segré.<br/>
+<p>Ressort du tribunal de grande instance de Besançon. <br/>
 </p>
 </td>
 </tr>
@@ -615,151 +624,162 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Montbéliard <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Cholet.<br/>
+<p>Montbéliard <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Cholet.<br/>
+<p>Ressort du tribunal de grande instance de Montbéliard. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Jura <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Saumur.<br/>
+<p>Dole <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Saumur.<br/>
+<p>Dole <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Saumur.<br/>
+<p>Ressort du tribunal de grande instance de Dole. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Mayenne.<br/>
-</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Laval.<br/>
+<p>Lons-le-Saunier <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Laval.<br/>
+<p>Lons-le-Saunier <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Laval.<br/>
+<p>Ressort du tribunal de grande instance de Lons-le-Saunier. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Sarthe.<br/>
+<p>Haute-Saône <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Le Mans.<br/>
+<p>Lure <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Le Mans.<br/>
+<p>Lure <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance du Mans.<br/>
+<p>Ressort du tribunal de grande instance de Lure. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Bastia<br/>
-</p>
+<br/>
 </td>
-</tr>
-<tr>
 <td align="left" valign="top">
-<p>Corse-du-Sud.<br/>
+<p>Vesoul <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ajaccio.<br/>
+<p>Vesoul <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ajaccio.<br/>
+<p>Ressort du tribunal de grande instance de Vesoul. <br/>
 </p>
 </td>
+</tr>
+<tr>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance d'Ajaccio.<br/>
+<p>Cour d'appel de Bordeaux <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Haute-Corse.<br/>
+<p>Charente <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Bastia.<br/>
+<p>Angoulême <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Bastia.<br/>
+<p>Angoulême <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Bastia.<br/>
+<p>Ressort du tribunal de grande instance d'Angoulême. <br/>
 </p>
 </td>
 </tr>
 <tr>
+<td align="left" valign="top">
+<p>Dordogne <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Bergerac <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Bergerac <br/>
+</p>
+</td>
 <td align="left" valign="top">
-<p>Cour d'appel de Besançon<br/>
+<p>Ressort du tribunal de grande instance de Bergerac. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Territoire de Belfort.<br/>
-</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Belfort.<br/>
+<p>Périgueux <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Belfort.<br/>
+<p>Périgueux <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande d'instance de Belfort.<br/>
+<p>Ressort du tribunal de grande instance de Périgueux. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Doubs.<br/>
+<p>Gironde <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Besançon.<br/>
+<p>Bordeaux <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Besançon.<br/>
+<p>Bordeaux <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Besançon.<br/>
+<p>Ressort du tribunal de grande instance de Bordeaux. <br/>
 </p>
 </td>
 </tr>
@@ -768,143 +788,151 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Montbéliard.<br/>
+<p>Libourne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Montbéliard.<br/>
+<p>Libourne <br/>
 </p>
 </td>
+<td align="left" valign="top">
+<p>Ressort du tribunal de grande instance de Libourne. <br/>
+</p>
+</td>
+</tr>
+<tr>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Montbéliard.<br/>
+<p>Cour d'appel de Bourges <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Jura.<br/>
+<p>Cher <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Dole.<br/>
+<p>Bourges <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Dole.<br/>
+<p>Bourges <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Dole.<br/>
+<p>Ressort du tribunal de grande instance de Bourges. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Indre <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Lons-le-Saunier.<br/>
+<p>Châteauroux <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Lons-le-Saunier.<br/>
+<p>Châteauroux <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Lons-le-Saunier.<br/>
+<p>Ressort du tribunal de grande instance de Châteauroux. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Haute-Saône.<br/>
+<p>Nièvre <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Lure.<br/>
+<p>Nevers <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Saint-Claude.<br/>
+<p>Nevers <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Lure.<br/>
+<p>Ressort du tribunal de grande instance de Nevers. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Cour d'appel de Caen <br/>
+</p>
 </td>
+</tr>
+<tr>
 <td align="left" valign="top">
-<p>Vesoul.<br/>
+<p>Calvados <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Vesoul.<br/>
+<p>Caen <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Vesoul.<br/>
+<p>Caen <br/>
 </p>
 </td>
-</tr>
-<tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Bordeaux<br/>
+<p>Ressort du tribunal de grande instance de Caen. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Charente.<br/>
-</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Angoulême.<br/>
+<p>Lisieux <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Angoulême.<br/>
+<p>Lisieux <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance d'Angoulême, Confolens et Ruffec.<br/>
+<p>Ressort du tribunal de grande instance de Lisieux. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Manche <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Avranches <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Cognac.<br/>
+<p>Avranches <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Cognac et Barbezieux.<br/>
+<p>Ressort du tribunal de grande instance d'Avranches. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Dordogne.<br/>
-</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Bergerac.<br/>
+<p>Cherbourg <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Bergerac.<br/>
+<p>Cherbourg <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Bergerac.<br/>
+<p>Ressort du tribunal de grande instance de Cherbourg. <br/>
 </p>
 </td>
 </tr>
@@ -913,33 +941,33 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Périgueux.<br/>
+<p>Coutances <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Périgueux.<br/>
+<p>Coutances <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Périgueux.<br/>
+<p>Ressort du tribunal de grande instance de Coutances. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Gironde.<br/>
+<p>Orne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Bordeaux.<br/>
+<p>Alençon <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Bordeaux.<br/>
+<p>Alençon <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Bordeaux.<br/>
+<p>Ressort du tribunal de grande instance d'Alençon. <br/>
 </p>
 </td>
 </tr>
@@ -948,39 +976,56 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Libourne.<br/>
+<p>Argentan <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Libourne.<br/>
+<p>Argentan <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Libourne.<br/>
+<p>Ressort du tribunal de grande instance d'Argentan. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Bourges<br/>
+<p>Cour d'appel de Chambéry <br/>
 </p>
 </td>
 </tr>
 <tr>
+<td align="left" valign="top">
+<p>Savoie <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Albertville <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Albertville <br/>
+</p>
+</td>
 <td align="left" valign="top">
-<p>Cher.<br/>
+<p>Ressort du tribunal de grande d'instance d'Albertville. <br/>
 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Bourges.<br/>
+<p>Chambéry <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Bourges.<br/>
+<p>Aix-les-Bains <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Bourges, Saint-Armand-Montrond et Sancerre, à l'exception des cantons d'Argent-sur-Sauldre, Aubigny-sur-Nère et La Chapelle-d'Angillon.<br/>
+<p>Ressort du tribunal d'instance d'Aix-les-Bains. <br/>
 </p>
 </td>
 </tr>
@@ -992,29 +1037,29 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Vierzon.<br/>
+<p>Chambéry <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Vierzon et cantons d'Argent-sur-Sauldre, Aubigny-sur-Nère et La Chapelle-d'Angillon.<br/>
+<p>Ressort du tribunal d'instance de Chambéry. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Indre.<br/>
+<p>Haute-Savoie <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Châteauroux.<br/>
+<p>Annecy <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Châteauroux.<br/>
+<p>Annecy <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Châteauroux et Le Blanc.<br/>
+<p>Ressort du tribunal de grande instance d'Annecy. <br/>
 </p>
 </td>
 </tr>
@@ -1023,56 +1068,56 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Bonneville <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Issoudun.<br/>
+<p>Bonneville <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance d'Issoudun et La Châtre.<br/>
+<p>Ressort du tribunal de grande instance de Bonneville. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Nièvre.<br/>
-</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Nevers.<br/>
+<p>Thonon-les-Bains <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Nevers.<br/>
+<p>Annemasse <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Nevers.<br/>
+<p>Ressort du tribunal de grande instance de Thonon-les-Bains. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Caen<br/>
+<p>Cour d'appel de Colmar <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Calvados.<br/>
+<p>Bas-Rhin <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Caen.<br/>
+<p>Saverne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Caen.<br/>
+<p>Saverne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Bayeux, Caen et Falaise.<br/>
+<p>Ressort du tribunal de grande instance de Saverne. <br/>
 </p>
 </td>
 </tr>
@@ -1081,14 +1126,15 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Strasbourg <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Vire.<br/>
+<p>Haguenau <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Vire.<br/>
+<p>Ressort des tribunaux d'instance d'Haguenau et Wissembourg. <br/>
 </p>
 </td>
 </tr>
@@ -1097,15 +1143,14 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Lisieux.<br/>
-</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Lisieux.<br/>
+<p>Schiltigheim <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Lisieux.<br/>
+<p>Ressort des tribunaux d'instance de Brumath et Schiltigheim. <br/>
 </p>
 </td>
 </tr>
@@ -1117,29 +1162,29 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Trouville.<br/>
+<p>Strasbourg <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Pont-l'Evêque.<br/>
+<p>Ressort des tribunaux d'instance d'Illkirch-Graffenstaden et Strasbourg. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Manche.<br/>
+<p>Haut-Rhin <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Avranches.<br/>
+<p>Colmar <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Avranches.<br/>
+<p>Colmar <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance d'Avranches.<br/>
+<p>Ressort du tribunal de grande instance de Colmar. <br/>
 </p>
 </td>
 </tr>
@@ -1148,67 +1193,75 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Cherbourg.<br/>
+<p>Mulhouse <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Cherbourg.<br/>
+<p>Mulhouse <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Cherbourg.<br/>
+<p>Ressort du tribunal de grande instance de Mulhouse. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Cour d'appel de Dijon <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Côte-d'Or <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Coutances.<br/>
+<p>Dijon <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Coutances.<br/>
+<p>Dijon <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Coutances.<br/>
+<p>Ressort du tribunal de grande instance de Dijon. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Orne.<br/>
+<p>Haute-Marne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Alençon.<br/>
+<p>Chaumont <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Alençon.<br/>
+<p>Chaumont <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance d'Alençon.<br/>
+<p>Ressort du tribunal de grande instance de Chaumont. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Saône-et-Loire <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Argentan.<br/>
+<p>Chalon-sur-Saône <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Argentan.<br/>
+<p>Chalon-sur-Saône <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance d'Argentan.<br/>
+<p>Ressort du tribunal de grande instance de Chalon-sur-Saône. <br/>
 </p>
 </td>
 </tr>
@@ -1217,38 +1270,39 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Mâcon <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Flers.<br/>
+<p>Mâcon <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Domfront.<br/>
+<p>Ressort du tribunal de grande instance de Mâcon. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Chambéry<br/>
+<p>Cour d'appel de Douai <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Savoie.<br/>
+<p>Nord <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Albertville.<br/>
+<p>Avesnes-sur-Helpe <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Albertville.<br/>
+<p>Avesnes-sur-Helpe <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande d'instance d'Albertville.<br/>
+<p>Ressort du tribunal de grande instance d'Avesnes-sur-Helpe. <br/>
 </p>
 </td>
 </tr>
@@ -1257,15 +1311,15 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Chambéry.<br/>
+<p>Cambrai <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Aix-les-Bains.<br/>
+<p>Cambrai <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance d'Aix-les-Bains.<br/>
+<p>Ressort du tribunal de grande instance de Cambrai. <br/>
 </p>
 </td>
 </tr>
@@ -1274,32 +1328,32 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Douai <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Chambéry.<br/>
+<p>Douai <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Chambéry.<br/>
+<p>Ressort du tribunal de grande instance de Douai. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Haute-Savoie.<br/>
-</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Annecy.<br/>
+<p>Dunkerque <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Annecy.<br/>
+<p>Dunkerque <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance d'Annecy.<br/>
+<p>Ressort du tribunal de grande instance de Dunkerque. <br/>
 </p>
 </td>
 </tr>
@@ -1308,15 +1362,15 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Bonneville.<br/>
+<p>Hazebrouck <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Bonneville.<br/>
+<p>Hazebrouck <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Bonneville.<br/>
+<p>Ressort du tribunal de grande instance d'Hazebrouck. <br/>
 </p>
 </td>
 </tr>
@@ -1325,15 +1379,15 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Thonon-les-Bains.<br/>
+<p>Lille <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Annemasse.<br/>
+<p>Lannoy <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Saint-Julien-en-Genevois.<br/>
+<p>Cantons de Lannoy, Villeneuve-d'Ascq-Nord et Villeneuve-d'Ascq-Sud. <br/>
 </p>
 </td>
 </tr>
@@ -1343,37 +1397,29 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 <td align="left" valign="top">
 <br/>
-</td>
-<td align="left" valign="top">
-<p>Thonon-les-Bains.<br/>
-</p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Thonon-les-Bains.<br/>
+<p>Lille <br/>
 </p>
 </td>
-</tr>
-<tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Colmar<br/>
+<p>Ressort du tribunal d'instance de Lille, à l'exception des cantons de Lannoy, Villeneuve-d'Ascq-Nord et Villeneuve-d'Ascq-Sud et des communes de Comines et Wervicq-Sud. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Bas-Rhin.<br/>
-</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Saverne.<br/>
-</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Molsheim.<br/>
+<p>Roubaix <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Molsheim.<br/>
+<p>Ressort du tribunal d'instance de Roubaix. <br/>
 </p>
 </td>
 </tr>
@@ -1385,11 +1431,11 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Saverne.<br/>
+<p>Tourcoing <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Saverne.<br/>
+<p>Ressort du tribunal d'instance de Tourcoing et communes de Comines et Wervicq-Sud. <br/>
 </p>
 </td>
 </tr>
@@ -1398,31 +1444,33 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Strasbourg.<br/>
+<p>Valenciennes <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Hagueneau.<br/>
+<p>Valenciennes <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance d'Hagueneau et Wissembourg.<br/>
+<p>Ressort du tribunal de grande instance de Valenciennes. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Pas-de-Calais <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Arras <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Schiltigheim.<br/>
+<p>Arras <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Brumath et Schiltigheim.<br/>
+<p>Ressort du tribunal de grande instance d'Arras. <br/>
 </p>
 </td>
 </tr>
@@ -1431,32 +1479,31 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Béthune <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Strasbourg.<br/>
+<p>Béthune <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance d'Ill-Kirch-Graffenstaden et Strasbourg.<br/>
+<p>Ressort des tribunaux d'instance de Béthune et Houdain. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Haut-Rhin.<br/>
-</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Colmar.<br/>
-</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Colmar.<br/>
+<p>Lens <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Colmar et Ribeauvillé.<br/>
+<p>Ressort des tribunaux d'instance de Carvin, Lens et Liévin. <br/>
 </p>
 </td>
 </tr>
@@ -1465,14 +1512,15 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Boulogne-sur-Mer <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Guebwiller.<br/>
+<p>Boulogne-sur-Mer <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Guebwiller.<br/>
+<p>Ressort des tribunaux d'instance de Montreuil et Boulogne-sur-Mer. <br/>
 </p>
 </td>
 </tr>
@@ -1484,11 +1532,11 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Sélestat (Bas-Rhin).<br/>
+<p>Calais <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Sélestat.<br/>
+<p>Ressort du tribunal d'instance de Calais. <br/>
 </p>
 </td>
 </tr>
@@ -1497,55 +1545,57 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Mulhouse.<br/>
+<p>Saint-Omer <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Altkirch.<br/>
+<p>Saint-Omer <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance d'Altkirch et Humingue.<br/>
+<p>Ressort du tribunal de grande instance de Saint-Omer. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Cour d'appel de Grenoble <br/>
+</p>
 </td>
+</tr>
+<tr>
 <td align="left" valign="top">
-<br/>
+<p>Hautes-Alpes <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Mulhouse.<br/>
+<p>Gap <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Mulhouse et Thann.<br/>
+<p>Gap <br/>
 </p>
 </td>
-</tr>
-<tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Dijon<br/>
+<p>Ressort du tribunal de grande instance de Gap. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Côte d'Or.<br/>
+<p>Drôme <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Dijon.<br/>
+<p>Valence <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Beaune.<br/>
+<p>Montélimar <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Beaune.<br/>
+<p>Ressort des tribunaux d'instance de Montélimar et Nyons. <br/>
 </p>
 </td>
 </tr>
@@ -1557,29 +1607,29 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Dijon.<br/>
+<p>Valence <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Châtillon-sur-Seine, Dijon et Semur-en-Auxois.<br/>
+<p>Ressort des tribunaux d'instance de Die, Romans-sur-Isère et Valence. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Haute-Marne.<br/>
+<p>Isère <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Chaumont.<br/>
+<p>Bourgoin-Jallieu <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Chaumont.<br/>
+<p>Bourgoin-Jallieu <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Chaumont et Langres.<br/>
+<p>Ressort du tribunal de grande instance de Bourgoin-Jallieu. <br/>
 </p>
 </td>
 </tr>
@@ -1588,48 +1638,56 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Grenoble <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Saint-Dizier.<br/>
+<p>Grenoble <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Saint-Dizier.<br/>
+<p>Ressort du tribunal de grande instance de Grenoble. <br/>
 </p>
 </td>
 </tr>
 <tr>
+<td align="left" valign="top">
+<br/>
+</td>
 <td align="left" valign="top">
-<p>Saône-et-Loire.<br/>
+<p>Vienne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Chalon-sur-Saône.<br/>
+<p>Vienne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Autun.<br/>
+<p>Ressort du tribunal de grande instance de Vienne. <br/>
 </p>
 </td>
+</tr>
+<tr>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance d'Autun.<br/>
+<p>Cour d'appel de Limoges <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Corrèze <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Brive <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Chalon-sur-Saône.<br/>
+<p>Brive <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Châlons-sur-Saône et Louhans.<br/>
+<p>Ressort du tribunal de grande instance de Brive. <br/>
 </p>
 </td>
 </tr>
@@ -1638,71 +1696,75 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Tulle <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Le Creusot.<br/>
+<p>Tulle <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance du Creusot.<br/>
+<p>Ressort du tribunal de grande instance de Tulle. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Creuse <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Guéret <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Montceau-les-Mines.<br/>
+<p>Guéret <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Montceau-les-Mines.<br/>
+<p>Ressort du tribunal de grande instance de Guéret. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Haute-Vienne <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Mâcon.<br/>
+<p>Limoges <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Mâcon.<br/>
+<p>Limoges <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Mâcon.<br/>
+<p>Ressort du tribunal de grande instance de Limoges. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Douai<br/>
+<p>Cour d'appel de Lyon <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Nord.<br/>
+<p>Ain <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Avesnes-sur-Helpe.<br/>
+<p>Belley <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Fourmies.<br/>
+<p>Belley <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance d'Avesnes-sur-Helpe.<br/>
+<p>Ressort du tribunal de grande instance de Belley. <br/>
 </p>
 </td>
 </tr>
@@ -1711,14 +1773,15 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Bourg-en-Bresse <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Maubeuge.<br/>
+<p>Bourg-en-Bresse <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Maubeuge.<br/>
+<p>Ressort des tribunaux d'instance de Bourg-en-Bresse et Trévoux. <br/>
 </p>
 </td>
 </tr>
@@ -1727,32 +1790,32 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Cambrai.<br/>
-</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Cambrai.<br/>
+<p>Oyonnax <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Cambrai.<br/>
+<p>Ressort du tribunal d'instance de Nantua. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Loire <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Douai.<br/>
+<p>Montbrison <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Douai.<br/>
+<p>Montbrison <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Douai.<br/>
+<p>Ressort du tribunal de grande instance de Montbrison. <br/>
 </p>
 </td>
 </tr>
@@ -1761,15 +1824,15 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Dunkerque.<br/>
+<p>Roanne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Dunkerque.<br/>
+<p>Roanne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Dunkerque.<br/>
+<p>Ressort du tribunal de grande instance de Roanne. <br/>
 </p>
 </td>
 </tr>
@@ -1778,32 +1841,33 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Hazebrouck.<br/>
+<p>Saint-Etienne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Hazebrouck.<br/>
+<p>Saint-Etienne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance d'Hazebrouck.<br/>
+<p>Ressort du tribunal de grande instance de Saint-Etienne. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Rhône <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Lille.<br/>
+<p>Lyon <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Armentières.<br/>
+<p>Lyon <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Canton d'Armentières.<br/>
+<p>Ressort du tribunal de grande instance de Lyon. <br/>
 </p>
 </td>
 </tr>
@@ -1812,46 +1876,39 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Villefranche-sur-Saône <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Halluin.<br/>
+<p>Villefranche-sur-Saône <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Communes de Bousbecques, Comines, Halluin, Roncq et Wervicq-Sud.<br/>
+<p>Ressort du tribunal de grande instance de Villefranche-sur-Saône. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Haubourdin.<br/>
-</p>
-</td>
 <td align="left" valign="top">
-<p>Cantons d'Haubourdin et Lomme.<br/>
+<p>Cour d'appel de Metz <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Moselle <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Metz <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Lannoy.<br/>
+<p>Metz <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Cantons de Lannoy, Villeneuve-d'Ascq-Nord et Villeneuve-d'Ascq-Sud.<br/>
+<p>Ressort du tribunal de grande instance de Metz. <br/>
 </p>
 </td>
 </tr>
@@ -1860,14 +1917,15 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Sarreguemines <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Lille.<br/>
+<p>Forbach <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Lille, à l'exception des cantons d'Armentières, Haubourdin, Lomme, Lannoy, Villeneuve-d'Ascq-Nord et Villeneuve-d'Ascq-Sud et des communes de Comines et Wervicq-Sud.<br/>
+<p>Ressort du tribunal de grande instance de Sarreguemines. <br/>
 </p>
 </td>
 </tr>
@@ -1876,30 +1934,39 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Thionville <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Roubaix.<br/>
+<p>Thionville <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Roubaix.<br/>
+<p>Ressort du tribunal de grande instance de Thionville. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Cour d'appel de Montpellier <br/>
+</p>
 </td>
+</tr>
+<tr>
 <td align="left" valign="top">
-<br/>
+<p>Aude <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p>Carcassonne <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Tourcoing.<br/>
+<p>Carcassonne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Tourcoing, à l'exception des communes de Bousbecques, Halluin et Roncq.<br/>
+<p>Ressort du tribunal de grande instance de Carcassonne. <br/>
 </p>
 </td>
 </tr>
@@ -1908,33 +1975,33 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Valenciennes.<br/>
+<p>Narbonne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Valenciennes.<br/>
+<p>Narbonne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Valenciennes.<br/>
+<p>Ressort du tribunal de grande instance de Narbonne. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Pas-de-Calais.<br/>
+<p>Aveyron <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Arras.<br/>
+<p>Millau <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Arras.<br/>
+<p>Millau <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance d'Arras.<br/>
+<p>Ressort du tribunal de grande instance de Millau. <br/>
 </p>
 </td>
 </tr>
@@ -1943,31 +2010,33 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Béthune.<br/>
+<p>Rodez <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Béthune.<br/>
+<p>Rodez <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Béthune et Houdain.<br/>
+<p>Ressort du tribunal de grande instance de Rodez. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Hérault <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Béziers <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Lens.<br/>
+<p>Béziers <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Carvin, Lens et Liévin.<br/>
+<p>Ressort du tribunal de grande instance de Béziers. <br/>
 </p>
 </td>
 </tr>
@@ -1976,15 +2045,15 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Boulogne-sur-Mer.<br/>
+<p>Montpellier <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Montreuil.<br/>
+<p>Montpellier <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Montreuil<br/>
+<p>Ressort des tribunaux d'instance de Lodève et Montpellier. <br/>
 </p>
 </td>
 </tr>
@@ -1996,68 +2065,58 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Boulogne-sur-Mer.<br/>
+<p>Sète <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Boulogne-sur-Mer.<br/>
+<p>Ressort du tribunal d'instance de Sète. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
 <td align="left" valign="top">
 <br/>
-</td>
-<td align="left" valign="top">
-<p>Calais.<br/>
-</p>
 </td>
-<td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Calais.<br/>
-</p>
-</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Pyrénées-Orientales <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Saint-Omer.<br/>
+<p>Perpignan <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Saint-Omer.<br/>
+<p>Perpignan <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Saint-Omer.<br/>
+<p>Ressort du tribunal de grande instance de Perpignan. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Grenoble<br/>
+<p>Cour d'appel de Nancy <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Hautes-Alpes.<br/>
+<p>Meurthe-et-Moselle <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Gap.<br/>
+<p>Briey <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Briançon.<br/>
+<p>Longwy <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Briançon.<br/>
+<p>Ressort du tribunal de grande instance de Briey. <br/>
 </p>
 </td>
 </tr>
@@ -2066,790 +2125,33 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Gap.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Gap.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Drôme.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Valence.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Montélimar.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Montélimar et Nyons.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Romans.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Romans.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Valence.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Die et Valence.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Isère.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Bourgoin-Jallieu.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Bourgoin-Jallieu.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Cantons de Bourgoin-Jallieu-Nord, Bourgoin-Jallieu-Sud, Crémieu et Le Grand-Lemps.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>La Tour-du-Pin.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Cantons de Morestel, Pont-de-Beauvoisin, Saint-Geoire-en-Valdaine, La Tour-du-Pin et Virieu.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Grenoble.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Grenoble.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de La Mure et Grenoble, à l'exception des cantons de Saint-Laurent-du-Pont et Voiron.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Voiron.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Saint-Marcellin et cantons de Saint-Laurent-du-Pont et Voiron.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Vienne.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Vienne.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Vienne.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Cour d'appel de Limoges<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Corrèze.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Brive.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Brive.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Brive.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Tulle.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Tulle.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Tulle.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Creuse.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Guéret.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Guéret.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Guéret.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Haute-Vienne.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Limoges.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Limoges.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Limoges.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Cour d'appel de Lyon<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Ain.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Belley.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Belley.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Belley.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Bourg-en-Bresse.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Bourg-en-Bresse.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Bourg-en-Bresse et Trévoux.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Oyonnax.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Nantua.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Loire.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Montbrison.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Montbrison.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Montbrison.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Roanne.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Roanne.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Roanne.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Saint-Etienne.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Firminy.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal d'instance du Chambon-Feugerolles.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Saint-Chamond.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Cantons de Pélussin, Rive-de-Gier, Saint-Chamond-Nord et Saint-Chamond-Sud.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Saint-Etienne.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Saint-Etienne, à l'exception des cantons de Pélussin, Rive-de-Gier, Saint-Chamond-Nord et Saint-Chamond-Sud.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Rhône.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Lyon.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Givors.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Cantons de Condrieu, Givors, Mornant et Saint-Symphorien-sur-Coise.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Lyon.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Lyon à l'exception des cantons de Condrieu, Givors, Mornant et Saint-Symphorien-sur-Coise.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Villefranche-sur-Saône.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Villefranche-sur-Saône.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Villefranche-sur-Saône.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Cour d'appel de Metz<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Moselle.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Metz.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Metz.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Boulay-Moselle et Metz.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Sarrebourg.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Château-Salins et Sarrebourg.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Sarreguemines.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Forbach.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Forbach et Saint-Avold.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Sarreguemines.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Sarreguemines.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Thionville.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Thionville.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Cour d'appel de Montpellier<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Aude.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Carcassonne.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Carcassonne.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Carcassonne.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Narbonne.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Narbonne.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Narbonne.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Aveyron.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Millau.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Millau.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Millau.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Rodez.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Decazeville.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Villefranche-de-Rouergue.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Rodez.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort des tribunaux d'instance d'Espalion et Rodez.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Hérault.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Béziers.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Bédarieux.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Cantons de Bédarieux et Saint-Gervais-sur-Mare.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Béziers.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Béziers, à l'exception des cantons de Bédarieux et Saint-Gervais-sur-Mare.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Montpellier.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Clermont-l'Hérault.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Lodève.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Montpellier.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Montpellier.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Sète.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Sète.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Pyrénées-Orientales.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Perpignan.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Perpignan.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Perpignan.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Cour d'appel de Nancy<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Meurthe-et-Moselle.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Briey.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Briey.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Briey.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Nancy.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Longwy.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Longwy.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Lunéville.<br/>
+<p>Nancy <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Lunéville.<br/>
+<p>Nancy <br/>
 </p>
 </td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
 <td align="left" valign="top">
-<p>Nancy.<br/>
+<p>Ressort du tribunal de grande instance de Nancy. <br/>
 </p>
 </td>
-<td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Nancy et Toul.<br/>
-</p>
-</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Meuse.<br/>
+<p>Meuse <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Bar-le-Duc.<br/>
+<p>Bar-le-Duc <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Bar-le-Duc.<br/>
+<p>Bar-le-Duc <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Bar-le-Duc.<br/>
+<p>Ressort du tribunal de grande instance de Bar-le-Duc. <br/>
 </p>
 </td>
 </tr>
@@ -2858,89 +2160,74 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Verdun.<br/>
+<p>Verdun <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Verdun.<br/>
+<p>Verdun <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Verdun.<br/>
+<p>Ressort du tribunal de grande instance de Verdun. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Vosges.<br/>
+<p>Vosges <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Épinal.<br/>
+<p>Epinal <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Épinal.<br/>
+<p>Epinal <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance d'Épinal, Mirecourt et Neufchâteau.<br/>
+<p>Ressort du tribunal de grande instance d'Epinal. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
 <td align="left" valign="top">
 <br/>
-</td>
-<td align="left" valign="top">
-<p>Remiremont.<br/>
-</p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Remiremont.<br/>
+<p>Saint-Dié-des-Vosges <br/>
 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
 </td>
 <td align="left" valign="top">
-<p>Saint-Dié-des-Vosges.<br/>
+<p>Saint-Dié-des-Vosges <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Saint-Dié-des-Vosges.<br/>
+<p>Ressort du tribunal de grande instance de Saint-Dié-des-Vosges. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Nîmes<br/>
+<p>Cour d'appel de Nîmes <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Ardèche.<br/>
+<p>Ardèche <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Privas.<br/>
+<p>Privas <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Annonay.<br/>
+<p>Annonay <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Tournon-sur-Rhône.<br/>
+<p>Ressort du tribunal d'instance de Tournon-sur-Rhône. <br/>
 </p>
 </td>
 </tr>
@@ -2952,29 +2239,29 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Aubenas.<br/>
+<p>Aubenas <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Largentière et Privas.<br/>
+<p>Ressort des tribunaux d'instance de Largentière et Privas. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Gard.<br/>
+<p>Gard <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Alès.<br/>
+<p>Alès <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Alès.<br/>
+<p>Alès <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance d'Alès.<br/>
+<p>Ressort du tribunal de grande instance d'Alès. <br/>
 </p>
 </td>
 </tr>
@@ -2983,160 +2270,128 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Nîmes.<br/>
+<p>Nîmes <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Nîmes.<br/>
+<p>Nîmes <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Nîmes.<br/>
+<p>Ressort du tribunal de grande instance de Nîmes. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Lozère.<br/>
+<p>Lozère <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Mende.<br/>
+<p>Mende <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Mende.<br/>
+<p>Mende <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Mende.<br/>
+<p>Ressort du tribunal de grande instance de Mende. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Vaucluse.<br/>
+<p>Vaucluse <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Avignon.<br/>
+<p>Avignon <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Avignon.<br/>
+<p>Avignon <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance d'Avignon.<br/>
+<p>Ressort du tribunal de grande instance d'Avignon. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
-</td>
-<td align="left" valign="top">
-<p>Carpentras.<br/>
-</p>
 </td>
 <td align="left" valign="top">
-<p>Carpentras.<br/>
+<p>Carpentras <br/>
 </p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Carpentras.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
 </td>
 <td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Orange.<br/>
+<p>Orange <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance d'Orange.<br/>
+<p>Ressort du tribunal de grande instance de Carpentras. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel d'Orléans<br/>
+<p>Cour d'appel d'Orléans <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Indre-et-Loire.<br/>
+<p>Indre-et-Loire <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Tours.<br/>
+<p>Tours <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Tours.<br/>
+<p>Tours <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Tours.<br/>
+<p>Ressort du tribunal de grande instance de Tours. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p>Loir-et-Cher.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Blois.<br/>
-</p>
-</td>
 <td align="left" valign="top">
-<p>Blois.<br/>
+<p>Loir-et-Cher <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Blois et Vendôme.<br/>
+<p>Blois <br/>
 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
 </td>
 <td align="left" valign="top">
-<p>Romorantin-Lanthenay.<br/>
+<p>Blois <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Romorantin-Lanthenay.<br/>
+<p>Ressort du tribunal de grande instance de Blois. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Loiret.<br/>
+<p>Loiret <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Montargis.<br/>
+<p>Montargis <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Montargis.<br/>
+<p>Montargis <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Montargis.<br/>
+<p>Ressort du tribunal de grande instance de Montargis. <br/>
 </p>
 </td>
 </tr>
@@ -3145,55 +2400,39 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Orléans.<br/>
+<p>Orléans <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Orléans.<br/>
+<p>Orléans <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance d'Orléans.<br/>
+<p>Ressort du tribunal de grande instance d'Orléans. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Paris<br/>
+<p>Cour d'appel de Paris <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p>Essonne.<br/>
-</p>
-</td>
 <td align="left" valign="top">
-<p>Évry.<br/>
+<p>Essonne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Étampes.<br/>
+<p>Evry <br/>
 </p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal d'instance d'Étampes.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
 </td>
 <td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Évry.<br/>
+<p>Evry <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance d'Évry et Juvisy-sur-Orge.<br/>
+<p>Ressort des tribunaux d'instance d'Etampes, Evry et Juvisy-sur-Orge. <br/>
 </p>
 </td>
 </tr>
@@ -3205,29 +2444,29 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Longjumeau.<br/>
+<p>Longjumeau <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Longjumeau et Palaiseau.<br/>
+<p>Ressort des tribunaux d'instance de Longjumeau et Palaiseau. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Seine-et-Marne.<br/>
+<p>Seine-et-Marne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Fontainebleau.<br/>
+<p>Fontainebleau <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Fontainebleau.<br/>
+<p>Fontainebleau <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Fontainebleau.<br/>
+<p>Ressort du tribunal de grande instance de Fontainebleau. <br/>
 </p>
 </td>
 </tr>
@@ -3236,15 +2475,15 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Meaux.<br/>
+<p>Meaux <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Meaux.<br/>
+<p>Meaux <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Meaux.<br/>
+<p>Ressort du tribunal de grande instance de Meaux. <br/>
 </p>
 </td>
 </tr>
@@ -3253,51 +2492,51 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Melun.<br/>
+<p>Melun <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Melun.<br/>
+<p>Melun <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Melun.<br/>
+<p>Ressort du tribunal de grande instance de Melun. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Seine-Saint-Denis.<br/>
+<p>Seine-Saint-Denis <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Bobigny.<br/>
+<p>Bobigny <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Bobigny.<br/>
+<p>Bobigny <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Bobigny.<br/>
+<p>Ressort du tribunal de grande instance de Bobigny. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Val-de-Marne.<br/>
+<p>Val-de-Marne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Créteil.<br/>
+<p>Créteil <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Créteil.<br/>
+<p>Créteil <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Charenton-le-Pont, Ivry-sur-Seine, Nogent-sur-Marne, Saint-Maur-des-Fossés, Villejuif et Vincennes, à l'exception des communes de Choisy-le-Roi et Orly, et de l'emprise de l'aérodrome de Paris-Orly.<br/>
+<p>Ressort des tribunaux d'instance de Charenton-le-Pont, Ivry-sur-Seine, Nogent-sur-Marne, Saint-Maur-des-Fossés, Villejuif et Vincennes, à l'exception des cantons de Choisy-le-Roi et Orly, et de l'emprise de l'aérodrome de Paris-Orly. <br/>
 </p>
 </td>
 </tr>
@@ -3309,29 +2548,29 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Villeneuve-Saint-Georges.<br/>
+<p>Villeneuve-Saint-Georges <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Boissy-Saint-Léger, communes de Choisy-le-Roi et Orly, et l'emprise de l'aérodrome de Paris-Orly.<br/>
+<p>Ressort du tribunal d'instance de Boissy-Saint-Léger, cantons de Choisy-le-Roi et Orly, et l'emprise de l'aérodrome de Paris-Orly. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Yonne.<br/>
+<p>Yonne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Auxerre.<br/>
+<p>Auxerre <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Auxerre.<br/>
+<p>Auxerre <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance d'Auxerre.<br/>
+<p>Ressort du tribunal de grande instance d'Auxerre. <br/>
 </p>
 </td>
 </tr>
@@ -3340,57 +2579,57 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Sens.<br/>
+<p>Sens <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Sens.<br/>
+<p>Sens <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Sens.<br/>
+<p>Ressort du tribunal de grande instance de Sens. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Paris.<br/>
+<p>Paris <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Paris.<br/>
+<p>Paris <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Paris.<br/>
+<p>Paris <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Paris.<br/>
+<p>Ressort du tribunal de grande instance de Paris. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Pau<br/>
+<p>Cour d'appel de Pau <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Landes.<br/>
+<p>Landes <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Dax.<br/>
+<p>Dax <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Dax.<br/>
+<p>Dax <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Dax.<br/>
+<p>Ressort du tribunal de grande instance de Dax. <br/>
 </p>
 </td>
 </tr>
@@ -3399,108 +2638,92 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Mont-de-Marsan.<br/>
+<p>Mont-de-Marsan <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Mont-de-Marsan.<br/>
+<p>Mont-de-Marsan <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Mont-de-Marsan.<br/>
+<p>Ressort du tribunal de grande instance de Mont-de-Marsan. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Pyrénées-Atlantiques.<br/>
+<p>Pyrénées-Atlantiques <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Bayonne.<br/>
+<p>Bayonne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Bayonne.<br/>
+<p>Bayonne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Bayonne.<br/>
+<p>Ressort du tribunal de grande instance de Bayonne. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
-</td>
-<td align="left" valign="top">
-<p>Pau.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Oloron-Sainte-Marie.<br/>
-</p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance d'Oloron.<br/>
+<p>Pau <br/>
 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
 </td>
 <td align="left" valign="top">
-<p>Pau.<br/>
+<p>Pau <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance d'Orthez et Pau.<br/>
+<p>Ressort du tribunal de grande instance de Pau. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Hautes-Pyrénées.<br/>
+<p>Hautes-Pyrénées <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Tarbes.<br/>
+<p>Tarbes <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Tarbes.<br/>
+<p>Tarbes <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Tarbes.<br/>
+<p>Ressort du tribunal de grande instance de Tarbes. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Poitiers<br/>
+<p>Cour d'appel de Poitiers <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Charente-Maritime.<br/>
+<p>Charente-Maritime <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>La Rochelle.<br/>
+<p>La Rochelle <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>La Rochelle.<br/>
+<p>La Rochelle <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de La Rochelle.<br/>
+<p>Ressort du tribunal de grande instance de La Rochelle. <br/>
 </p>
 </td>
 </tr>
@@ -3509,15 +2732,15 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Rochefort.<br/>
+<p>Rochefort <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Rochefort.<br/>
+<p>Rochefort <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Rochefort.<br/>
+<p>Ressort du tribunal de grande instance de Rochefort. <br/>
 </p>
 </td>
 </tr>
@@ -3526,33 +2749,33 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Saintes.<br/>
+<p>Saintes <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Saintes.<br/>
+<p>Saintes <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Saintes.<br/>
+<p>Ressort du tribunal de grande instance de Saintes. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Deux-Sèvres.<br/>
+<p>Deux-Sèvres <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Bressuire.<br/>
+<p>Bressuire <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Thouars.<br/>
+<p>Thouars <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Bressuire.<br/>
+<p>Ressort du tribunal de grande instance de Bressuire. <br/>
 </p>
 </td>
 </tr>
@@ -3561,33 +2784,33 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Niort.<br/>
+<p>Niort <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Niort.<br/>
+<p>Niort <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Niort.<br/>
+<p>Ressort du tribunal de grande instance de Niort. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Vendée.<br/>
+<p>Vendée <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>La Roche-sur-Yon.<br/>
+<p>La Roche-sur-Yon <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>La Roche-sur-Yon.<br/>
+<p>La Roche-sur-Yon <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de La Roche-sur-Yon.<br/>
+<p>Ressort du tribunal de grande instance de La Roche-sur-Yon. <br/>
 </p>
 </td>
 </tr>
@@ -3596,141 +2819,93 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Les Sables-d'Olonne.<br/>
+<p>Les Sables-d'Olonne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Les Sables-d'Olonne.<br/>
+<p>Les Sables-d'Olonne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance des Sables-d'Olonne.<br/>
+<p>Ressort du tribunal de grande instance des Sables-d'Olonne. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p>Vienne.<br/>
-</p>
-</td>
 <td align="left" valign="top">
-<p>Poitiers.<br/>
+<p>Vienne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Châtellerault.<br/>
+<p>Poitiers <br/>
 </p>
-</td>
-<td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Châtellerault et Loudun.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
 </td>
 <td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Poitiers.<br/>
+<p>Poitiers <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Civray, Montmorillon et Poitiers.<br/>
+<p>Ressort du tribunal de grande instance de Poitiers. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Reims<br/>
+<p>Cour d'appel de Reims <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p>Ardennes.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Charleville-Mézières.<br/>
-</p>
-</td>
 <td align="left" valign="top">
-<p>Charleville-Mézières.<br/>
+<p>Ardennes <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Charleville-Mézières et Rocroi.<br/>
+<p>Charleville-Mézières <br/>
 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
 </td>
 <td align="left" valign="top">
-<p>Sedan.<br/>
+<p>Charleville-Mézières <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Rethel, Sedan et Vouziers.<br/>
+<p>Ressort du tribunal de grande instance de Charleville-Mézières. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p>Aube.<br/>
-</p>
-</td>
 <td align="left" valign="top">
-<p>Troyes.<br/>
+<p>Aube <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Romilly-sur-Seine.<br/>
+<p>Troyes <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Nogent-sur-Seine.<br/>
+<p>Troyes <br/>
 </p>
 </td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
 <td align="left" valign="top">
-<p>Troyes.<br/>
+<p>Ressort du tribunal de grande instance de Troyes. <br/>
 </p>
 </td>
-<td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Bar-sur-Aube, Bar-sur-Seine et Troyes.<br/>
-</p>
-</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Marne.<br/>
+<p>Marne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Châlons-sur-Marne.<br/>
+<p>Châlons-en-Champagne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Châlons-sur-Marne.<br/>
+<p>Châlons-en-Champagne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Châlons-sur-Marne et Vitry-le-François.<br/>
+<p>Ressort des tribunaux d'instance de Châlons-en-Champagne et Vitry-le-François. <br/>
 </p>
 </td>
 </tr>
@@ -3739,15 +2914,14 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Reims.<br/>
-</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Épernay.<br/>
+<p>Epernay <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance d'Épernay.<br/>
+<p>Ressort du tribunal d'instance d'Epernay. <br/>
 </p>
 </td>
 </tr>
@@ -3756,38 +2930,39 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
+<p>Reims <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Reims.<br/>
+<p>Reims <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Reims.<br/>
+<p>Ressort du tribunal de grande instance de Reims. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Rennes<br/>
+<p>Cour d'appel de Rennes <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Côtes-d'Armor.<br/>
+<p>Côtes-d'Armor <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Dinan.<br/>
+<p>Dinan <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Dinan.<br/>
+<p>Dinan <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Dinan.<br/>
+<p>Ressort du tribunal de grande instance de Dinan. <br/>
 </p>
 </td>
 </tr>
@@ -3796,15 +2971,15 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Guingamp.<br/>
+<p>Guingamp <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Guingamp.<br/>
+<p>Guingamp <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Guingamp.<br/>
+<p>Ressort du tribunal de grande instance de Guingamp. <br/>
 </p>
 </td>
 </tr>
@@ -3813,33 +2988,33 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Saint-Brieuc.<br/>
+<p>Saint-Brieuc <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Saint-Brieuc.<br/>
+<p>Saint-Brieuc <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Saint-Brieuc.<br/>
+<p>Ressort du tribunal de grande instance de Saint-Brieuc. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Finistère.<br/>
+<p>Finistère <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Brest.<br/>
+<p>Brest <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Brest.<br/>
+<p>Brest <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Brest.<br/>
+<p>Ressort du tribunal de grande instance de Brest. <br/>
 </p>
 </td>
 </tr>
@@ -3848,82 +3023,50 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Morlaix.<br/>
+<p>Morlaix <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Morlaix.<br/>
+<p>Morlaix <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Morlaix.<br/>
+<p>Ressort du tribunal de grande instance de Morlaix. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
-</td>
-<td align="left" valign="top">
-<p>Quimper.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Quimper.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Quimper.<br/>
-</p>
 </td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Ille-et-Vilaine.<br/>
-</p>
-</td>
 <td align="left" valign="top">
-<p>Rennes.<br/>
+<p>Quimper <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Fougères.<br/>
+<p>Quimper <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Fougères et cantons de Vitré-Est et Vitré-Ouest.<br/>
+<p>Ressort du tribunal de grande instance de Quimper. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
 <td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Redon.<br/>
+<p>Ille-et-Vilaine <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Redon.<br/>
+<p>Rennes <br/>
 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
 </td>
 <td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Rennes.<br/>
+<p>Rennes <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Montfort-sur-Meu, Rennes et Vitré, à l'exception des cantons de Vitré-Est et Vitré-Ouest.<br/>
+<p>Ressort du tribunal de grande instance de Rennes. <br/>
 </p>
 </td>
 </tr>
@@ -3932,33 +3075,33 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Saint-Malo.<br/>
+<p>Saint-Malo <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Saint-Malo.<br/>
+<p>Saint-Malo <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Saint-Malo.<br/>
+<p>Ressort du tribunal de grande instance de Saint-Malo. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Loire-Atlantique.<br/>
+<p>Loire-Atlantique <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Nantes.<br/>
+<p>Nantes <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Nantes.<br/>
+<p>Nantes <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Nantes.<br/>
+<p>Ressort du tribunal de grande instance de Nantes. <br/>
 </p>
 </td>
 </tr>
@@ -3967,32 +3110,33 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Saint-Nazaire.<br/>
+<p>Saint-Nazaire <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Saint-Nazaire.<br/>
+<p>Saint-Nazaire <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Saint-Nazaire.<br/>
+<p>Ressort du tribunal de grande instance de Saint-Nazaire. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<p>Morbihan <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p>Lorient.<br/>
+<p>Lorient <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Lorient.<br/>
+<p>Lorient <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Lorient.<br/>
+<p>Ressort du tribunal de grande instance de Lorient. <br/>
 </p>
 </td>
 </tr>
@@ -4001,39 +3145,39 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Vannes.<br/>
+<p>Vannes <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Vannes.<br/>
+<p>Vannes <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Vannes.<br/>
+<p>Ressort du tribunal de grande instance de Vannes. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Riom<br/>
+<p>Cour d'appel de Riom <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Allier.<br/>
+<p>Allier <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Cusset.<br/>
+<p>Cusset <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Vichy.<br/>
+<p>Vichy <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Cusset.<br/>
+<p>Ressort du tribunal de grande instance de Cusset. <br/>
 </p>
 </td>
 </tr>
@@ -4042,15 +3186,15 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Montluçon.<br/>
+<p>Montluçon <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Montluçon.<br/>
+<p>Montluçon <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Montluçon.<br/>
+<p>Ressort du tribunal de grande instance de Montluçon. <br/>
 </p>
 </td>
 </tr>
@@ -4059,126 +3203,110 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Moulins.<br/>
+<p>Moulins <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Moulins.<br/>
+<p>Moulins <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Moulins.<br/>
+<p>Ressort du tribunal de grande instance de Moulins. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cantal.<br/>
+<p>Cantal <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Aurillac.<br/>
+<p>Aurillac <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Aurillac.<br/>
+<p>Aurillac <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance d'Aurillac.<br/>
+<p>Ressort du tribunal de grande instance d'Aurillac. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Haute-Loire.<br/>
+<p>Haute-Loire <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Le Puy-en-Velay.<br/>
+<p>Le Puy-en-Velay <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Le Puy-en-Velay.<br/>
+<p>Le Puy-en-Velay <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance du Puy-en-Velay.<br/>
+<p>Ressort du tribunal de grande instance du Puy-en-Velay. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p>Puy-de-Dôme.<br/>
-</p>
-</td>
 <td align="left" valign="top">
-<p>Clermont-Ferrand.<br/>
+<p>Puy-de-Dôme <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Clermont-Ferrand.<br/>
+<p>Clermont-Ferrand <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Clermont-Ferrand et Issoire.<br/>
+<p>Clermont-Ferrand <br/>
 </p>
 </td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
 <td align="left" valign="top">
-<p>Thiers.<br/>
+<p>Ressort du tribunal de grande instance de Clermont-Ferrand. <br/>
 </p>
 </td>
-<td align="left" valign="top">
-<p>Ressort des tribunaux d'instance d'Ambert et Thiers.<br/>
-</p>
-</td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Riom.<br/>
+<p>Riom <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Riom.<br/>
+<p>Riom <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Riom.<br/>
+<p>Ressort du tribunal de grande instance de Riom. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Rouen<br/>
+<p>Cour d'appel de Rouen <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Eure.<br/>
+<p>Eure <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Bernay.<br/>
+<p>Bernay <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Bernay.<br/>
+<p>Bernay <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Bernay.<br/>
+<p>Ressort du tribunal de grande instance de Bernay. <br/>
 </p>
 </td>
 </tr>
@@ -4187,15 +3315,15 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Évreux.<br/>
+<p>Evreux <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Évreux.<br/>
+<p>Evreux <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance d'Évreux.<br/>
+<p>Ressort du tribunal d'instance d'Evreux. <br/>
 </p>
 </td>
 </tr>
@@ -4207,153 +3335,105 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Louviers.<br/>
+<p>Louviers <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance des Andelys et Louviers.<br/>
+<p>Ressort des tribunaux d'instance des Andelys et Louviers. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p>Seine-Maritime.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Dieppe.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Dieppe.<br/>
-</p>
-</td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Dieppe.<br/>
+<p>Seine-Maritime <br/>
 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
 </td>
 <td align="left" valign="top">
-<p>Le Havre.<br/>
+<p>Dieppe <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Bolbec.<br/>
+<p>Dieppe <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Cantons de Bolbec et Lillebonne.<br/>
+<p>Ressort du tribunal de grande instance de Dieppe. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
 <td align="left" valign="top">
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Fécamp.<br/>
+<p>Le Havre <br/>
 </p>
-</td>
-<td align="left" valign="top">
-<p>Canton de Fécamp.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
 </td>
 <td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Le Havre.<br/>
+<p>Le Havre <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance du Havre, à l'exception des cantons de Bolbec, Fécamp et Lillebonne.<br/>
+<p>Ressort du tribunal de grande instance du Havre. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
-</td>
-<td align="left" valign="top">
-<p>Rouen.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Elbeuf.<br/>
-</p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance d'Elbeuf.<br/>
+<p>Rouen <br/>
 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
 </td>
 <td align="left" valign="top">
-<p>Rouen.<br/>
+<p>Rouen <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance Rouen et Yvetot.<br/>
+<p>Ressort du tribunal de grande instance de Rouen. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Toulouse<br/>
+<p>Cour d'appel de Toulouse <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Ariège.<br/>
+<p>Ariège <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Foix.<br/>
+<p>Foix <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Foix.<br/>
+<p>Foix <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Foix.<br/>
+<p>Ressort du tribunal de grande instance de Foix. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Haute-Garonne.<br/>
+<p>Haute-Garonne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Toulouse.<br/>
+<p>Toulouse <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Toulouse.<br/>
+<p>Toulouse <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Toulouse.<br/>
+<p>Ressort du tribunal de grande instance de Toulouse. <br/>
 </p>
 </td>
 </tr>
@@ -4362,124 +3442,92 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Saint-Gaudens.<br/>
+<p>Saint-Gaudens <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Saint-Gaudens.<br/>
+<p>Saint-Gaudens <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Saint-Gaudens<br/>
+<p>Ressort du tribunal de grande instance de Saint-Gaudens <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Tarn.<br/>
+<p>Tarn <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Albi.<br/>
+<p>Albi <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Albi.<br/>
+<p>Albi <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance d'Albi<br/>
+<p>Ressort du tribunal de grande instance d'Albi <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
-</td>
-<td align="left" valign="top">
-<p>Castres.<br/>
-</p>
 </td>
 <td align="left" valign="top">
-<p>Castres.<br/>
+<p>Castres <br/>
 </p>
-</td>
-<td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Castres, à l'exception des cantons de Mazamet-Nord-Est, Mazamet-Sud-Ouest et Saint-Amans-Soult.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
 </td>
 <td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p>Mazamet.<br/>
+<p>Castres <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Cantons de Mazamet-Nord-Est, Mazamet-Sud-Ouest et Saint-Amans-Soult.<br/>
+<p>Ressort du tribunal de grande instance de Castres. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Tarn-et-Garonne.<br/>
+<p>Tarn-et-Garonne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Montauban.<br/>
+<p>Montauban <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Montauban.<br/>
+<p>Montauban <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Montauban.<br/>
+<p>Ressort du tribunal de grande instance de Montauban. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Versailles<br/>
+<p>Cour d'appel de Versailles <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p>Eure-et-Loir.<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p>Chartres.<br/>
-</p>
-</td>
 <td align="left" valign="top">
-<p>Chartres.<br/>
+<p>Eure-et-Loir <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Chartres.<br/>
+<p>Chartres <br/>
 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
 </td>
 <td align="left" valign="top">
-<p>Châteaudun.<br/>
+<p>Chartres <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Châteaudun.<br/>
+<p>Ressort des tribunaux d'instance de Chartres et Nogent-le-Rotrou. <br/>
 </p>
 </td>
 </tr>
@@ -4491,11 +3539,11 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Dreux.<br/>
+<p>Châteaudun <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Dreux.<br/>
+<p>Ressort du tribunal d'instance de Châteaudun. <br/>
 </p>
 </td>
 </tr>
@@ -4507,29 +3555,29 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Nogent-le-Rotrou.<br/>
+<p>Dreux <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Nogent-le-Rotrou.<br/>
+<p>Ressort du tribunal d'instance de Dreux. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Hauts-de-Seine.<br/>
+<p>Hauts-de-Seine <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Nanterre.<br/>
+<p>Nanterre <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Boulogne-Billancourt.<br/>
+<p>Boulogne-Billancourt <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance d'Antony, Boulogne-Billancourt et Vanves.<br/>
+<p>Ressort des tribunaux d'instance d'Antony, Boulogne-Billancourt et Vanves. <br/>
 </p>
 </td>
 </tr>
@@ -4541,29 +3589,29 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Nanterre.<br/>
+<p>Nanterre <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance d'Asnières, Clichy, Colombes, Courbevoie, Levallois-Perret, Neuilly-sur-Seine et Puteaux.<br/>
+<p>Ressort des tribunaux d'instance d'Asnières-sur-Seine, Clichy, Colombes, Courbevoie, Levallois-Perret, Neuilly-sur-Seine et Puteaux. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Val d'Oise.<br/>
+<p>Val-d'Oise <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Pontoise.<br/>
+<p>Pontoise <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Argenteuil.<br/>
+<p>Argenteuil <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Sannois.<br/>
+<p>Ressort du tribunal d'instance de Sannois. <br/>
 </p>
 </td>
 </tr>
@@ -4575,11 +3623,11 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Montmorency.<br/>
+<p>Montmorency <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance d'Écouen, Gonesse et Montmorency.<br/>
+<p>Ressort des tribunaux d'instance d'Ecouen, Gonesse et Montmorency. <br/>
 </p>
 </td>
 </tr>
@@ -4591,29 +3639,29 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Cergy-Pontoise.<br/>
+<p>Cergy-Pontoise <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Pontoise.<br/>
+<p>Ressort du tribunal d'instance de Pontoise. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Yvelines.<br/>
+<p>Yvelines <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Versailles.<br/>
+<p>Versailles <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Mantes-la-Jolie.<br/>
+<p>Mantes-la-Jolie <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Mantes-la-Jolie.<br/>
+<p>Ressort du tribunal d'instance de Mantes-la-Jolie. <br/>
 </p>
 </td>
 </tr>
@@ -4625,11 +3673,11 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Poissy.<br/>
+<p>Poissy <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Poissy.<br/>
+<p>Ressort du tribunal d'instance de Poissy. <br/>
 </p>
 </td>
 </tr>
@@ -4641,11 +3689,11 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Rambouillet.<br/>
+<p>Rambouillet <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Rambouillet.<br/>
+<p>Ressort du tribunal d'instance de Rambouillet. <br/>
 </p>
 </td>
 </tr>
@@ -4657,11 +3705,11 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Saint-Germain-en-Laye.<br/>
+<p>Saint-Germain-en-Laye <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Saint-Germain-en-Laye.<br/>
+<p>Ressort du tribunal d'instance de Saint-Germain-en-Laye. <br/>
 </p>
 </td>
 </tr>
@@ -4673,35 +3721,35 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Versailles.<br/>
+<p>Versailles <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Versailles.<br/>
+<p>Ressort du tribunal d'instance de Versailles. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Basse-Terre<br/>
+<p>Cour d'appel de Basse-Terre <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Guadeloupe.<br/>
+<p>Guadeloupe <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Basse-Terre.<br/>
+<p>Basse-Terre <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Basse-Terre.<br/>
+<p>Basse-Terre <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Basse-Terre.<br/>
+<p>Ressort du tribunal de grande instance de Basse-Terre. <br/>
 </p>
 </td>
 </tr>
@@ -4710,81 +3758,81 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Pointe-à-Pitre.<br/>
+<p>Pointe-à-Pitre <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Pointe-à-Pitre.<br/>
+<p>Pointe-à-Pitre <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Pointe-à-Pitre.<br/>
+<p>Ressort du tribunal de grande instance de Pointe-à-Pitre. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Fort-de-France<br/>
+<p>Cour d'appel de Fort-de-France <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Guyane.<br/>
+<p>Guyane <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Cayenne.<br/>
+<p>Cayenne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Cayenne.<br/>
+<p>Cayenne <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Cayenne.<br/>
+<p>Ressort du tribunal de grande instance de Cayenne. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Martinique.<br/>
+<p>Martinique <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Fort-de-France.<br/>
+<p>Fort-de-France <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Fort-de-France.<br/>
+<p>Fort-de-France <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Fort-de-France.<br/>
+<p>Ressort du tribunal de grande instance de Fort-de-France. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Saint-Denis-de-la-Réunion<br/>
+<p>Cour d'appel de Saint-Denis de la Réunion <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Réunion.<br/>
+<p>Réunion <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Saint-Denis.<br/>
+<p>Saint-Denis <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Saint-Denis.<br/>
+<p>Saint-Denis <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Saint-Denis.<br/>
+<p>Ressort du tribunal de grande instance de Saint-Denis. <br/>
 </p>
 </td>
 </tr>
@@ -4793,39 +3841,39 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Saint-Pierre.<br/>
+<p>Saint-Pierre <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Saint-Pierre.<br/>
+<p>Saint-Pierre <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Saint-Pierre.<br/>
+<p>Ressort du tribunal de grande instance de Saint-Pierre. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Tribunal supérieur de Saint-Pierre<br/>
+<p>Tribunal supérieur de Saint-Pierre <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Saint-Pierre-et-Miquelon.<br/>
+<p>Saint-Pierre-et-Miquelon <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Saint-Pierre.<br/>
+<p>Saint-Pierre <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Saint-Pierre.<br/>
+<p>Saint-Pierre <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal supérieur d'appel de Saint-Pierre.<br/>
+<p>Ressort du tribunal supérieur d'appel de Saint-Pierre. <br/>
 </p>
 </td>
 </tr>
