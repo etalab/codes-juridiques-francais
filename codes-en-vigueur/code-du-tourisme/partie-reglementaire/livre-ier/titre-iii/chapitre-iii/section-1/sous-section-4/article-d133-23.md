@@ -4,8 +4,6 @@ La commission nationale, présidée par le directeur du tourisme ou son représe
 
 - quatre représentants de la Fédération nationale des offices de tourisme et syndicats d'initiative, désignés par cette fédération ;
 
-- un inspecteur général du tourisme ;
-
 - le directeur d'ODIT France (observation, développement et ingénierie touristiques) ou son représentant ;
 
 - le directeur de l'organisme dénommé " Maison de la France " ou son représentant ;
