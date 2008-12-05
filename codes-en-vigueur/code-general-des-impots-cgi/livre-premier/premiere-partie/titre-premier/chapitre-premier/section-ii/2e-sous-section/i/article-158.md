@@ -10,7 +10,7 @@ Toutefois, en ce qui concerne les entreprises et exploitations situées hors de 
 
 Lorsqu'ils sont payables en espèces les revenus visés au premier alinéa sont soumis à l'impôt sur le revenu au titre de l'année soit de leur paiement en espèces ou par chèques, soit de leur inscription au crédit d'un compte.
 
-2° Les revenus mentionnés au 1° distribués par les sociétés passibles de l'impôt sur les sociétés ou d'un impôt équivalent ou soumises sur option à cet impôt, ayant leur siège dans un Etat de la Communauté européenne ou dans un Etat ou territoire ayant conclu avec la France une convention fiscale en vue d'éviter les doubles impositions en matière d'impôt sur les revenus et résultant d'une décision régulière des organes compétents, sont réduits, pour le calcul de l'impôt sur le revenu, d'un abattement égal à 40 % de leur montant brut perçu. A compter du 1er janvier 2009 pour les sociétés étrangères n'ayant pas leur siège dans un Etat de la Communauté européenne, cette disposition est réservée aux revenus distribués par des sociétés établies dans un Etat ou territoire ayant conclu une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale ;
+2° Les revenus mentionnés au 1° distribués par les sociétés passibles de l'impôt sur les sociétés ou d'un impôt équivalent ou soumises sur option à cet impôt, ayant leur siège dans un Etat de la Communauté européenne ou dans un Etat ou territoire ayant conclu avec la France une convention fiscale en vue d'éviter les doubles impositions en matière d'impôt sur les revenus et résultant d'une décision régulière des organes compétents, sont réduits, pour le calcul de l'impôt sur le revenu, d'un abattement égal à 40 % de leur montant brut perçu.A compter du 1er janvier 2009 pour les sociétés étrangères n'ayant pas leur siège dans un Etat de la Communauté européenne, cette disposition est réservée aux revenus distribués par des sociétés établies dans un Etat ou territoire ayant conclu une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale ;
 
 3° Les dispositions du 2° ne s'appliquent pas :
 
@@ -32,7 +32,7 @@ a. Les organismes de placement collectif en valeurs mobilières régis par les a
 
 b. Les organismes de placement collectif en valeurs mobilières établis dans d'autres Etats membres de la Communauté européenne, ou dans un Etat non membre de cette Communauté partie à l'accord sur l'Espace économique européen ayant conclu une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, qui bénéficient de la procédure de reconnaissance mutuelle des agréments prévue par la directive 85 / 611 / CE du Conseil du 20 décembre 1985 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) ;
 
-c. Les sociétés mentionnées aux 1° bis,1° ter et 3° septies de l'article 208.
+c. Les sociétés mentionnées aux 1° bis, 1° ter et 3° septies de l'article 208.
 
 d. Les fonds de placement immobilier mentionnés à l'article 239 nonies.
 
@@ -42,7 +42,7 @@ L'application de ces dispositions est conditionnée à la ventilation par les or
 
 5° Il est opéré un abattement annuel de 1 525 Euros pour les contribuables célibataires, divorcés ou veufs et de 3 050 Euros pour les contribuables mariés soumis à une imposition commune sur le montant net des revenus déterminé dans les conditions du 2° et après déduction des dépenses effectuées en vue de leur acquisition ou conservation.
 
-4. Les bénéfices des professions industrielles, commerciales, artisanales et ceux de l'exploitation minière sont déterminés conformément aux dispositions des articles 34 à 61 A,237 ter A, et 302 septies A bis ; les rémunérations mentionnées à l'article 62 sont déterminées conformément aux dispositions de cet article ; les bénéfices de l'exploitation agricole sont déterminées conformément aux dispositions des articles 63 à 78 et des articles L1 à L4 du livre des procédures fiscales ; les bénéfices tirés de l'exercice d'une profession non commerciale sont déterminés conformément aux dispositions des articles 92 à 103. Toutefois, les plus-values à long terme définies aux articles 39 duodecies et au 1 de l'article 39 terdecies sont distraites des bénéfices en vue d'être distinctement taxées à l'impôt sur le revenu dans les conditions prévues au 2 de l'article 39 terdecies et aux articles 39 quindecies et 93 quater.
+4. Les bénéfices des professions industrielles, commerciales, artisanales et ceux de l'exploitation minière sont déterminés conformément aux dispositions des articles 34 à 61 A, 237 ter A, et 302 septies A bis ; les rémunérations mentionnées à l'article 62 sont déterminées conformément aux dispositions de cet article ; les bénéfices de l'exploitation agricole sont déterminées conformément aux dispositions des articles 63 à 78 et des articles L1 à L4 du livre des procédures fiscales ; les bénéfices tirés de l'exercice d'une profession non commerciale sont déterminés conformément aux dispositions des articles 92 à 103. Toutefois, les plus-values à long terme définies aux articles 39 duodecies et au 1 de l'article 39 terdecies sont distraites des bénéfices en vue d'être distinctement taxées à l'impôt sur le revenu dans les conditions prévues au 2 de l'article 39 terdecies et aux articles 39 quindecies et 93 quater.
 
 Dans le cas des entreprises industrielles, commerciales, artisanales ou agricoles qui sont soumises à l'impôt d'après leur bénéfice réel et dont les résultats d'ensemble comprennent des revenus relevant de plusieurs catégories ou provenant d'exploitations situées hors de France, il est fait état de ces résultats d'ensemble sans qu'il y ait lieu de les décomposer entre leurs divers éléments dans la déclaration prévue à l'article 170.
 
@@ -57,6 +57,8 @@ Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut excé
 L'abattement indiqué au deuxième alinéa ne peut être inférieur à 357 euros, sans pouvoir excéder le montant brut des pensions et retraites. Cette disposition s'applique au montant des pensions ou retraites perçu par chaque retraité ou pensionné membre du foyer fiscal. La somme de 357 euros est révisée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
 b. Les dispositions du a sont applicables aux allocations mentionnées aux articles L. 3232-6, L. 5122-1, L. 5122-2, L. 5123-2, L. 5422-1, L. 5423-1 et L. 5423-8 du code du travail, aux participations en espèces et, à compter du 1er janvier 1991, aux dividendes des actions de travail, alloués aux travailleurs mentionnés au 18° bis de l'article 81, lorsque ces sommes sont imposables.
+
+Sous réserve de l'exonération prévue à l'article 163 bis AA, les dispositions du a sont également applicables aux sommes revenant aux salariés au titre de la participation aux résultats de l'entreprise en application du titre II du livre III de la troisième partie du code du travail.
 
 b bis. Les dispositions du a sont applicables aux prestations servies sous forme de rentes ou pour perte d'emploi subie, au titre des contrats d'assurance groupe ou des régimes mentionnés au deuxième alinéa du I de l'article 154 bis.
 
@@ -90,7 +92,7 @@ La fraction de rentes viagères définie ci-dessus est imposée dans les mêmes 
 
 Ces dispositions ne sont pas applicables aux arrérages correspondant aux cotisations ayant fait l'objet de la déduction prévue au I de l'article 163 quatervicies.
 
-7. Le montant des revenus et charges énumérés ci-après, retenu pour le calcul de l'impôt selon les modalités prévues à l'article 197, est multiplié par 1,25. Ces dispositions s'appliquent :
+7. Le montant des revenus et charges énumérés ci-après, retenu pour le calcul de l'impôt selon les modalités prévues à l'article 197, est multiplié par 1, 25. Ces dispositions s'appliquent :
 
 1° Aux titulaires de revenus passibles de l'impôt sur le revenu, dans la catégorie des bénéfices industriels et commerciaux ou des bénéfices non commerciaux ou des bénéfices agricoles, réalisés par des contribuables soumis à un régime réel d'imposition qui ne sont pas adhérents d'un centre de gestion ou association agréé défini aux articles 1649 quater C à 1649 quater H, à l'exclusion des membres d'un groupement ou d'une société mentionnés aux articles 8 à 8 quinquies et des conjoints exploitants agricoles de fonds séparés ou associés d'une même société ou groupement adhérant à l'un de ces organismes ;
 

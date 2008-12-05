@@ -4,4 +4,6 @@ Lorsque les titres ne sont pas admis aux négociations sur un marché réglement
 
 A défaut, le prix de cession est déterminé en divisant par le nombre de titres existants le montant de l'actif net réévalué d'après le bilan le plus récent. Celui-ci est ainsi déterminé à chaque exercice sous le contrôle du commissaire aux comptes.
 
+A compter du troisième exercice clos, le prix de cession des titres émis par des entreprises employant moins de cinq cents salariés peut être déterminé, au choix de l'entreprise, selon l'une des méthodes décrites aux deux alinéas précédents.
+
 Le prix de souscription ne peut être ni supérieur au prix de cession ainsi déterminé, ni inférieur de plus de 20 % à celui-ci ou de 30 % lorsque la durée d'indisponibilité prévue par le plan, en application des articles L. 3332-25 et L. 3332-26, est supérieure ou égale à dix ans.

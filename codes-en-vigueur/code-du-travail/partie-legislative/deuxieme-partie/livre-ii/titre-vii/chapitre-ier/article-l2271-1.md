@@ -10,7 +10,7 @@ La Commission nationale de la négociation collective est chargée :
 
 4° De donner, à la demande d'au moins la moitié des membres de la commission d'interprétation compétente préalablement saisie, un avis sur l'interprétation de clauses d'une convention ou d'un accord collectif ;
 
-5° De donner un avis motivé au ministre chargé du travail sur la fixation du salaire minimum de croissance dans les cas prévus par les articles L. 3231-6 et L. 3231-10 ;
+5° De donner, après avoir pris connaissance du rapport annuel établi par un groupe d'experts désigné à cet effet, un avis motivé au ministre chargé du travail sur la fixation du salaire minimum de croissance dans les cas prévus par les articles L. 3231-6 et L. 3231-10 ;
 
 6° De suivre l'évolution des salaires effectifs et des rémunérations minimales déterminées par les conventions et accords collectifs ainsi que l'évolution des rémunérations dans les entreprises publiques ;
 
