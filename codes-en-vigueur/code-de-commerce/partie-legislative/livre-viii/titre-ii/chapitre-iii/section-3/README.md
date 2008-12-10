@@ -6,3 +6,5 @@
 - [Article L823-16](article-l823-16.md)
 - [Article L823-17](article-l823-17.md)
 - [Article L823-18](article-l823-18.md)
+- [Article L823-19](article-l823-19.md)
+- [Article L823-20](article-l823-20.md)
