@@ -1,6 +1,6 @@
 # Article L411-1
 
-L'Institut national de la propriété industrielle est un établissement public doté de la personnalité civile et de l'autonomie financière, placé auprès du ministre de l'industrie.
+L'Institut national de la propriété industrielle est un établissement public doté de la personnalité civile et de l'autonomie financière, placé auprès du ministre   chargé de la propriété industrielle.
 
 Cet établissement a pour mission :
 
