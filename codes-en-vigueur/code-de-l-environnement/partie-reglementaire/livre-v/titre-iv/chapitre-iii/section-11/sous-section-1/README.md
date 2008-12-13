@@ -1,4 +1,4 @@
-# Sous-section 1 : Contribution à la collecte, à la valorisation et à l'élimination des déchets d'imprimés.
+# Sous-section 1 : Modalités de gestion de la contribution à la collecte, à la valorisation et à l'élimination des déchets d'imprimés papiers
 
 - [Article D543-207](article-d543-207.md)
 - [Article D543-208](article-d543-208.md)
