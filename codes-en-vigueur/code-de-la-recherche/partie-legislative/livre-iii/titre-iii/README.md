@@ -1,6 +1,4 @@
 # TITRE III : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL
 
-- [Chapitre Ier : Centre national d'études spatiales (CNES).](chapitre-ier)
-- [Chapitre II : Commissariat à l'énergie atomique (CEA).](chapitre-ii)
-- [Chapitre IV : Etablissements de recherche en sciences exactes et technologie](chapitre-iv)
-- [Chapitre V : Etablissements de support et de valorisation de la recherche](chapitre-v)
+- [Chapitre Ier : Etablissements de recherche dans le domaine de l'espace et de l'aéronautique.](chapitre-ier)
+- [Chapitre II : Etablissements de recherche dans le domaine de l'énergie.](chapitre-ii)

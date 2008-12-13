@@ -1,6 +1,5 @@
 # TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER
 
-- [Chapitre II : Dispositions applicables en Nouvelle-Calédonie.](chapitre-ii)
-- [Chapitre III : Dispositions applicables en Polynésie française.](chapitre-iii)
-- [Chapitre IV : Dispositions applicables dans les îles Wallis et Futuna.](chapitre-iv)
-- [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.](chapitre-v)
+- [Chapitre V : Dispositions relatives aux îles Wallis et Futuna.](chapitre-v)
+- [Chapitre VI : Dispositions relatives à la Polynésie française.](chapitre-vi)
+- [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.](chapitre-vii)
