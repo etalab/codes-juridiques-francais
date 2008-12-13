@@ -6,7 +6,7 @@ Il comporte des actions de formation et d'information destinées à favoriser le
 
 Il définit également les priorités relatives à l'information, à l'orientation et à la validation des acquis de l'expérience.
 
-Ce plan est élaboré en concertation avec l'Etat, les collectivités territoriales concernées et les organisations syndicales d'employeurs et de salariés représentatives à l'échelon national ainsi que l'institution mentionnée à l'article L. 311-7.
+Ce plan est élaboré en concertation avec l'Etat, les collectivités territoriales concernées et les organisations syndicales d'employeurs et de salariés représentatives à l'échelon national ainsi que l'institution mentionnée à l'article  L. 5312-1.
 
 Il est approuvé par le conseil régional après consultation des conseils généraux, du conseil économique et social régional, des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture au niveau régional, du conseil académique de l'éducation nationale, du comité régional de l'enseignement agricole et du comité de coordination régional de l'emploi et de la formation professionnelle.
 
@@ -30,7 +30,7 @@ Ces contrats déterminent notamment les objectifs qui concourent à favoriser un
 
 Les chambres de métiers, les chambres de commerce et d'industrie et les chambres d'agriculture peuvent être associées aux contrats d'objectifs.
 
-L'Etat, la région ou la collectivité territoriale de Corse, les chambres consulaires, une ou plusieurs organisations représentatives d'employeurs et de salariés peuvent également conclure des contrats d'objectifs et de moyens visant au développement de l'apprentissage conformément aux articles L. 6211-3, D6211-1 et D. 6211-2 du code du travail . Ces contrats peuvent prendre la forme d'une annexe aux contrats visés à l'alinéa précédent.
+L'Etat, la région ou la collectivité territoriale de Corse, les chambres consulaires, une ou plusieurs organisations représentatives d'employeurs et de salariés peuvent également conclure des contrats d'objectifs et de moyens visant au développement de l'apprentissage conformément à l'article L. 6211-3 du code du travail. Ces contrats peuvent prendre la forme d'une annexe aux contrats visés à l'alinéa précédent.
 
 VI.-Dans le cadre de son plan régional de développement des formations professionnelles, chaque région arrête annuellement un programme régional d'apprentissage et de formation professionnelle continue, après avis du comité de coordination régional de l'emploi et de la formation professionnelle.
 
