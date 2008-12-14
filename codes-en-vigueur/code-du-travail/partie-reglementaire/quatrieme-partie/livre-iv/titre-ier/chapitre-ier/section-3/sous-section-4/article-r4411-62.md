@@ -1,6 +1,6 @@
 # Article R4411-62
 
-Les organismes agréés sont habilités à fournir à toute personne qui en fait la demande et intéressée par la protection des travailleurs, notamment au médecin du travail et aux membres des comités d'hygiène, de sécurité et des conditions de travail, les renseignements qu'ils détiennent relatifs :
+L'organisme agréé est habilité à fournir à toute personne qui en fait la demande et intéressée par la protection des travailleurs, notamment au médecin du travail et aux membres des comités d'hygiène, de sécurité et des conditions de travail, les renseignements qu'il détient relatifs :
 
 1° Aux dangers que présente une substance ou une préparation qui la contient ;
 

@@ -1,4 +1,4 @@
-# Paragraphe 2  Substances et préparations très toxiques, toxiques ou corrosives
+# Paragraphe 2 : Préparations très toxiques, toxiques ou corrosives.
 
 - [Article R4411-50](article-r4411-50.md)
 - [Article R4411-51](article-r4411-51.md)
