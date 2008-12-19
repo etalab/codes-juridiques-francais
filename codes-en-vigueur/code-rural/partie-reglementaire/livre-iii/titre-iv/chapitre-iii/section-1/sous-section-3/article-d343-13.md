@@ -10,4 +10,4 @@ b) L'acquisition de parts d'un groupement agricole d'exploitation en commun agr�
 
 Pour la fixation du montant des prêts à moyen terme destinés aux acquisitions de parts sociales, la valeur de la fraction des biens, autres que les terres, réputés appartenir à chaque membre du groupement, est déterminée en appliquant, à la valeur totale de ces biens, le rapport constaté entre le nombre de parts que se propose de détenir l'emprunteur et le nombre de parts constituant le capital du groupement ;
 
-2° Au financement de l'acquisition de terres lorsqu'elles améliorent la viabilité de l'exploitation.
+2° Au financement de l'acquisition de terres lorsqu'elles améliorent la viabilité de l'exploitation et dans la limite de 10 % du coût total de l'installation hors foncier tel que prévu dans le plan de développement de l'exploitation à sa date de validation par le préfet.
