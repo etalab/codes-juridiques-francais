@@ -16,13 +16,13 @@ Le pouvoir adjudicateur est dispensé de procéder à une nouvelle mesure de pub
 
 4° Dans des cas exceptionnels, lorsqu'il s'agit de travaux, de fournitures ou de services dont la nature ou les aléas qui peuvent affecter leur réalisation ne permettent pas une fixation préalable et globale des prix ;
 
-5° Les marchés et les accords-cadres de travaux dont le montant est compris entre 206 000 Euros HT et 5 150 000 Euros HT.
+5° Les marchés et les accords-cadres de travaux dont le montant est compris entre 206 000 euros HT et 5 150 000 euros HT.
 
 II.-Peuvent être négociés sans publicité préalable et sans mise en concurrence :
 
 1° Les marchés et les accords-cadres conclus pour faire face à une urgence impérieuse résultant de circonstances imprévisibles pour le pouvoir adjudicateur et n'étant pas de son fait, et dont les conditions de passation ne sont pas compatibles avec les délais exigés par les procédures d'appel d'offres ou de marchés négociés avec publicité et mise en concurrence préalable, et notamment les marchés conclus pour faire face à des situations d'urgence impérieuse liées à une catastrophe technologique ou naturelle. Peuvent également être conclus selon cette procédure les marchés rendus nécessaire pour l'exécution d'office, en urgence, des travaux réalisés par des pouvoirs adjudicateurs en application des articles L. 1311-4, L. 1331-24, L. 1331-26-1, L. 1331-28, L. 1331-29 et L. 1334-2 du code de la santé publique et des articles L. 123-3, L. 129-2, L. 129-3, L. 511-2 et L. 511-3 du code de la construction et de l'habitation. Ces marchés sont limités aux prestations strictement nécessaires pour faire face à la situation d'urgence.
 
-Par dérogation à l'article 13, lorsque l'urgence impérieuse est incompatible avec la préparation des documents constitutifs du marché, la passation du marché est confirmée par un échange de lettres ;
+Par dérogation aux dispositions du chapitre V du titre II de la première partie du présent code, lorsque l'urgence impérieuse est incompatible avec la préparation des documents constitutifs du marché, la passation du marché est confirmée par un échange de lettres ;
 
 2° Les marchés et les accords-cadres de fournitures concernant des produits fabriqués uniquement à des fins de recherche, d'essai, d'expérimentation, d'étude ou de développement, sans objectif de rentabilité ou de récupération des coûts de recherche et de développement ;
 

@@ -6,7 +6,7 @@ I. - Pour attribuer le marché au candidat qui a présenté l'offre économiquem
 
 2° Soit, compte tenu de l'objet du marché, sur un seul critère, qui est celui du prix.
 
-II. - Pour les marchés passés selon une procédure formalisée et lorsque plusieurs critères sont prévus, le pouvoir adjudicateur précise leur pondération.
+II. - Pour les marchés passés selon une procédure formalisée autre que le concours et lorsque plusieurs critères sont prévus, le pouvoir adjudicateur précise leur pondération.
 
 Le poids de chaque critère peut être exprimé par une fourchette dont l'écart maximal est approprié.
 

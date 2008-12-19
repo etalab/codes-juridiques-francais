@@ -70,7 +70,7 @@ IX. - Lorsque aucune offre finale n'a été remise ou lorsqu'il n'a été propos
 
 Lorsque le dialogue compétitif est déclaré infructueux, il est possible de mettre en oeuvre :
 
-1° Soit un nouveau dialogue compétitif, un appel d'offres ou, si les conditions initiales du marché ne sont pas substantiellement modifiées, un marché négocié dans les conditions prévues au 3° du II de l'article 35 ;
+1° Soit un nouveau dialogue compétitif, un appel d'offres ou, si les conditions initiales du marché ne sont pas substantiellement modifiées, un marché négocié dans les conditions prévues au 1° du I de l'article 35  ;
 
 2° Soit, s'il s'agit d'un lot qui remplit les conditions mentionnées au III de l'article 27, une procédure adaptée.
 

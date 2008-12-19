@@ -44,4 +44,4 @@ VII. - Lorsque les performances ou les exigences fonctionnelles définies en app
 
 Le pouvoir adjudicateur peut indiquer, dans les documents de la consultation, que les produits ou services ayant obtenu un écolabel sont présumés satisfaire aux caractéristiques environnementales mentionnées dans les spécifications techniques mais est tenu d'accepter tout moyen de preuve approprié.
 
-VIII. - Si les documents fournis par un candidat en application du présent article ne sont pas rédigés en langue française, le pouvoir adjudicateur peut exiger que ces documents soient accompagnés d'une traduction en français certifiée conforme à l'original par un traducteur assermenté.
+VIII. - Le pouvoir adjudicateur peut exiger que les candidats joignent une traduction en français, certifiée conforme à l'original par un traducteur assermenté, aux documents rédigés dans une autre langue qu'ils remettent en application du présent article.

@@ -4,7 +4,7 @@ I. - Le pouvoir adjudicateur ne peut exiger des candidats que des renseignements
 
 La liste de ces renseignements et documents est fixée par arrêté du ministre chargé de l'économie.
 
-Il ne peut être exigé des candidats que des niveaux minimaux de capacités liés et proportionnés à l'objet du marché. Les documents, renseignements et les niveaux minimaux de capacité demandés sont précisés dans l'avis d'appel public à la concurrence ou, en l'absence d'un tel avis, dans les documents de la consultation.
+Lorsque le pouvoir adjudicateur décide de fixer des niveaux minimaux de capacité, il ne peut être exigé des candidats que des niveaux minimaux de capacité liés et proportionnés à l'objet du marché. Les documents, renseignements et les niveaux minimaux de capacité demandés sont précisés dans l'avis d'appel public à concurrence ou, en l'absence d'un tel avis, dans les documents de la consultation.
 
 Une même personne ne peut représenter plus d'un candidat pour un même marché.
 
@@ -20,6 +20,6 @@ III. - Pour justifier de ses capacités professionnelles, techniques et financi�
 
 Si le candidat est objectivement dans l'impossibilité de produire, pour justifier de sa capacité financière, l'un des renseignements ou documents prévus par l'arrêté mentionné au I et demandés par le pouvoir adjudicateur, il peut prouver sa capacité par tout autre document considéré comme équivalent par le pouvoir adjudicateur.
 
-IV. - Peuvent également être demandés, le cas échéant, des renseignements sur le respect de l'obligation d'emploi mentionnée à l'article L. 323-1 du code du travail.
+IV. - Peuvent également être demandés, le cas échéant, des renseignements sur le respect de l'obligation d'emploi mentionnée aux articles L. 5212-1 à L. 5212-4 du code du travail.
 
-V. - Si les documents fournis par un candidat en application du présent article ne sont pas rédigés en langue française, le pouvoir adjudicateur peut exiger que ces documents soient accompagnés d'une traduction en français certifiée conforme à l'original par un traducteur assermenté.
+V. - Le pouvoir adjudicateur peut exiger que les candidats joignent une traduction en français, certifiée conforme à l'original par un traducteur assermenté, aux documents rédigés dans une autre langue qu'ils remettent en application du présent article.

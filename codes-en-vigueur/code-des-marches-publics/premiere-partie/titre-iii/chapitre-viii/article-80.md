@@ -12,6 +12,8 @@ a) Dans les situations d'urgence impérieuse justifiant la négociation sans pub
 
 b) Dans le cas des appels d'offres, des marchés négociés ou des marchés passés sur le fondement d'un accord-cadre lorsque le marché est attribué au seul candidat ayant présenté une offre qui répond aux exigences indiquées dans l'avis d'appel public à la concurrence ou dans les documents de la consultation.
 
+3° Le marché ou l'accord-cadre peut être signé électroniquement, selon les modalités fixées par un arrêté du ministre chargé de l'économie.
+
 II. - Lorsque le pouvoir adjudicateur décide de ne pas attribuer le marché ou de recommencer la procédure, il informe, dans les plus brefs délais, les candidats des motifs de sa décision. Sur demande écrite des candidats, la réponse est écrite.
 
 III. - Le pouvoir adjudicateur ne peut communiquer les renseignements dont la divulgation :

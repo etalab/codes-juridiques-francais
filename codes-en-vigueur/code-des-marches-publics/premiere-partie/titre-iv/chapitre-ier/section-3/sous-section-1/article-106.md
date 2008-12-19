@@ -2,6 +2,8 @@
 
 Le pouvoir adjudicateur remet au titulaire soit une copie de l'original du marché revêtue d'une mention dûment signée, par lui, indiquant que cette pièce est délivrée en unique exemplaire en vue de permettre au titulaire de céder ou de nantir des créances résultant du marché, soit un certificat de cessibilité conforme à un modèle défini par arrêté du ministre chargé de l'économie.
 
+La dématérialisation du certificat de cessibilité, établi selon un modèle électronique, s'effectue suivant les modalités prévues par un arrêté du ministre chargé de l'économie.
+
 L'exemplaire unique ou le certificat de cessibilité est remis par l'organisme bénéficiaire de la cession ou du nantissement au comptable assignataire en tant que pièce justificative pour le paiement.
 
 Lorsque le secret exigé en matière de défense fait obstacle à la remise au bénéficiaire d'une cession ou d'un nantissement de la copie du marché, le pouvoir adjudicateur délivre au titulaire un exemplaire unique ou un certificat de cessibilité ne contenant que les indications compatibles avec le secret.

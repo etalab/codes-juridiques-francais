@@ -4,7 +4,7 @@ Sont soumis, en ce qui concerne leur passation, aux règles prévues par le pré
 
 1. Services d'entretien et de réparation ;
 
-2. Services de transports terrestres, y compris les services de véhicules blindés et les services de courrier ;
+2. Services de transports terrestres, y compris les services de véhicules blindés et les services de courrier, à l'exclusion des services de transports ferroviaires ;
 
 3. Services de transports aériens de voyageurs et de marchandises ;
 
