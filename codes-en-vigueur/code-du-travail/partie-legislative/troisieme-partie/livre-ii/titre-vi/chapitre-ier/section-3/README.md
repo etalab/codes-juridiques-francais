@@ -1,6 +1,5 @@
-# Section 3 : Chèques-transport
+# Section 3 : Prise en charge des frais de transports personnels.
 
 - [Sous-section 1 : Mise en place et utilisation.](sous-section-1)
-- [Sous-section 2 : Emission.](sous-section-2)
-- [Sous-section 3 : Contributions de l'employeur et du comité d'entreprise.](sous-section-3)
-- [Sous-section 4 : Dispositions d'application.](sous-section-4)
+- [Article L3261-3](article-l3261-3.md)
+- [Article L3261-4](article-l3261-4.md)

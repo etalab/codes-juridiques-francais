@@ -20,6 +20,4 @@ A compter du 1er janvier 2006, le conjoint du chef d'exploitation ou d'entrepris
 
 - chef d'exploitation ou d'entreprise agricole.
 
-Par dérogation à ces dispositions, les conjoints de chef d'exploitation ou d'entreprise agricole mentionnés à l'article L. 732-34 peuvent conserver leur qualité.
-
 Les dispositions du présent article sont également applicables aux personnes qui sont liées par un pacte civil de solidarité ou qui vivent en concubinage avec le chef d'exploitation ou d'entreprise agricole.
