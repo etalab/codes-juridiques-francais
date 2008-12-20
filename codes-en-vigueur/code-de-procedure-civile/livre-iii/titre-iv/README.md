@@ -5,4 +5,4 @@
 - [Chapitre III : La reconstitution d'actes détruits.](chapitre-iii)
 - [Chapitre IV : La délivrance de copies d'actes et de registres.](chapitre-iv)
 - [Chapitre V : Le contentieux de la passation de certains contrats de travaux.](chapitre-v)
-- [Chapitre VI : La transaction](chapitre-vi)
+- [Chapitre VI : Le contentieux de la passation de certains contrats de travaux.](chapitre-vi)
