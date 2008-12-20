@@ -1,10 +1,5 @@
 # Titre IV : Les obligations et les contrats.
 
-- [Chapitre I : Les procédures d'injonction](chapitre-i)
 - [Chapitre Ier : La procédure européenne de règlement des petits litiges.](chapitre-ier)
-- [Chapitre II : Les offres de paiement et la consignation.](chapitre-ii)
-- [Chapitre III : La reconstitution d'actes détruits.](chapitre-iii)
-- [Chapitre IV : La délivrance de copies d'actes et de registres.](chapitre-iv)
-- [Chapitre V : Le contentieux de la passation de certains contrats de travaux.](chapitre-v)
 - [Chapitre VI : Le contentieux de la passation de certains contrats de travaux.](chapitre-vi)
 - [Chapitre VII : La transaction.](chapitre-vii)
