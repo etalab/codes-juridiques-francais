@@ -7,3 +7,4 @@
 - [Chapitre IV : La délivrance de copies d'actes et de registres.](chapitre-iv)
 - [Chapitre V : Le contentieux de la passation de certains contrats de travaux.](chapitre-v)
 - [Chapitre VI : Le contentieux de la passation de certains contrats de travaux.](chapitre-vi)
+- [Chapitre VII : La transaction.](chapitre-vii)
