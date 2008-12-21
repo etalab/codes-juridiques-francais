@@ -6,3 +6,4 @@
 - [Titre IV : L'inspection et l'évaluation de l'éducation.](titre-iv)
 - [Titre V : Dispositions spécifiques à Saint-Pierre-et-Miquelon.](titre-v)
 - [Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie.](titre-vi)
+- [Titre VII  : Dispositions relatives aux collectivités territoriales de Saint-Barthélemy et de Saint-  Martin.](titre-vii)
