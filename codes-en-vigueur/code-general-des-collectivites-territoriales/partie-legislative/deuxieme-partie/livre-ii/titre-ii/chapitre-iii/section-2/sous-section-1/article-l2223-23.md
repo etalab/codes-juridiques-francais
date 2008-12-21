@@ -6,7 +6,7 @@ Pour accorder cette habilitation, le représentant de l'Etat dans le départemen
 
 1° Des conditions requises des dirigeants telles que définies à l'article L. 2223-24 ;
 
-2° De conditions minimales de capacité professionnelle du dirigeant et des agents, fixées par décret ;
+2° De conditions minimales de capacité professionnelle du dirigeant et des agents. Dans le cas d'une régie non dotée de la personnalité morale et de l'autonomie financière, seuls les personnels de la régie doivent justifier de cette capacité professionnelle ;
 
 3° De la conformité des installations techniques à des prescriptions fixées par décret ;
 

@@ -12,3 +12,4 @@
 - [Article L2223-10](article-l2223-10.md)
 - [Article L2223-11](article-l2223-11.md)
 - [Article L2223-12](article-l2223-12.md)
+- [Article L2223-12-1](article-l2223-12-1.md)

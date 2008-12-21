@@ -5,3 +5,5 @@ Les établissements de santé publics ou privés qui assurent le transport de co
 Cette habilitation peut être retirée dans les conditions prévues à l'article L. 2223-25.
 
 Les dispositions des deux premiers alinéas du même article ne s'appliquent pas aux établissements de santé publics ou privés qui assurent le transport des corps de personnes décédées, en vue de prélèvement à des fins thérapeutiques, vers les établissements de santé autorisés à pratiquer ces prélèvements.
+
+Ces établissements ne peuvent exercer aucune autre mission relevant du service extérieur des pompes funèbres.

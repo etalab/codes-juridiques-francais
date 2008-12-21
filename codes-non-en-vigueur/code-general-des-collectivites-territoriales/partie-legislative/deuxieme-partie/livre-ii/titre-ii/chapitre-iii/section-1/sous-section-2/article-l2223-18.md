@@ -8,4 +8,4 @@ Un décret en Conseil d'Etat fixe :
 
 3° Les mesures à prendre par les communes pour conserver les noms des personnes inhumées dans la concession et la réinhumation ou la crémation des ossements qui peuvent s'y trouver encore ;
 
-4° Les conditions dans lesquelles les articles L. 2223-14 à L. 2223-17 sont applicables aux concessions des espaces pour le dépôt ou l'inhumation des urnes ou la dispersion des cendres dans le cimetière.
+4° Les conditions dans lesquelles les articles L. 2223-14 à L. 2223-17 sont applicables aux concessions des espaces pour le dépôt ou l'inhumation des urnes dans le cimetière.
