@@ -6,4 +6,4 @@ Pour la détermination de ces modalités, l'entité adjudicatrice peut aussi s'i
 
 Quel que soit son choix, l'entité adjudicatrice ne peut exiger des opérateurs économiques plus de renseignements ou de documents que ceux qui sont prévus pour les procédures formalisées par les articles 45, 46 et 48.
 
-L'entité adjudicatrice peut également décider que le marché sera passé sans publicité, voire sans mise en concurrence préalable, si les circonstances le justifient, ou si son montant estimé est inférieur à 4 000 Euros HT, ou dans les situations décrites au II de l'article 144.
+L'entité adjudicatrice peut également décider que le marché sera passé sans publicité, voire sans mise en concurrence préalable, si les circonstances le justifient, ou si son montant estimé est inférieur à 20 000 Euros HT, ou dans les situations décrites au II de l'article 144.
