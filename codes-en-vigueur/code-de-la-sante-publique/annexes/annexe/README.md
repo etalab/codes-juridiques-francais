@@ -1,4 +1,4 @@
-# ANNEXE DE LA QUATRIEME PARTIE
+# ANNEXE DE LA SIXIEME PARTIE
 
 - [CONTRAT TYPE D'ACTIVITÉ LIBÉRALE : CITÉ À L'ARTICLE R. 6154-4.](contrat-type-d-activite-liberale)
 - [Article Annexe 22-1](article-annexe-22-1.md)

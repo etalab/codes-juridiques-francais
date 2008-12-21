@@ -8,8 +8,6 @@ II.-L'avis d'attribution est publié dans l'organe qui a assuré la publication 
 
 III.-Pour les marchés de fournitures et de services d'un montant égal ou supérieur à 412 000 Euros HT et pour les marchés de travaux d'un montant égal ou supérieur à 5 150 000 Euros HT, l'avis est établi pour la publication au Journal officiel de l'Union européenne conformément aux modèles fixés par le règlement (CE) n° 1564 / 2005 susmentionné. Cet avis est conforme au modèle prévu par arrêté du ministre chargé de l'économie lorsqu'il est établi pour la publication au Bulletin officiel des annonces des marchés publics.
 
-Pour les marchés de travaux compris entre 412 000 Euros HT et 5 150 000 Euros HT, les avis sont publiés au Bulletin officiel des annonces des marchés publics ou dans un journal habilité à recevoir des annonces légales conformément au modèle fixé par arrêté du ministre chargé de l'économie.
-
 IV.-Pour les marchés relevant de l'article 148 d'un montant égal ou supérieur à 412 000 Euros HT, l'entité adjudicatrice adresse un avis d'attribution à l'Office des publications officielles de l'Union européenne et au Bulletin officiel des annonces des marchés publics en indiquant si elle en accepte la publication.
 
 V.-L'entité adjudicatrice peut, si elle fait valoir le caractère commercial sensible du marché, ne pas mentionner certaines informations concernant le nombre d'offres reçues, l'identité des candidats et les prix.

@@ -1,6 +1,6 @@
 # TITRE III : PASSATION DES MARCHÉS
 
-- [Chapitre Ier : Composition de la commission d'appel d'offres et du jury de concours](chapitre-ier)
+- [Chapitre Ier : Composition de la commission d'appel d'offres des collectivités territoriales et du jury de concours](chapitre-ier)
 - [Chapitre II : Définition des seuils et présentation des procédures de passation](chapitre-ii)
 - [Chapitre III : Règles générales de passation](chapitre-iii)
 - [Chapitre IV : Définition et déroulement des différentes procédures de marchés publics](chapitre-iv)

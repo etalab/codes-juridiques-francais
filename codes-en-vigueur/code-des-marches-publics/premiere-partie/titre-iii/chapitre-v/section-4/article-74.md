@@ -22,7 +22,7 @@ Pour les marchés de maîtrise d'oeuvre d'un montant égal ou supérieur aux seu
 
 Si le pouvoir adjudicateur ne retient pas la procédure du concours, la procédure applicable est :
 
-a) Soit celle de l'appel d'offres dont la commission est composée en jury tel que défini au I de l'article 24. Dans ce cas, les membres de la commission désignés en application des d et e du I de l'article 24 ont voix consultative ;
+a) Soit celle de l'appel d'offres pour lequel un jury est composé dans les conditions définies au I de l'article 24. Dans ce cas, les membres de ce jury désignés en application des d et e du I de l'article 24 ont voix consultative ;
 
 b) Soit la procédure négociée, si les conditions de l'article 35 sont remplies, après publicité préalable et mise en concurrence selon les modalités suivantes.
 

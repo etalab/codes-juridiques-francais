@@ -20,9 +20,9 @@ Les pouvoirs adjudicateurs peuvent décider de mettre en oeuvre soit une procéd
 
 Toutefois, même si la valeur totale des lots est égale ou supérieure aux seuils des marchés formalisés, il est possible de recourir à une procédure adaptée :
 
-1° Pour les lots inférieurs à 80 000 Euros HT dans le cas de marchés de fournitures et de services et dans le cas de marchés de travaux dont le montant est inférieur à 5 150 000 Euros HT ;
+1° Pour les lots inférieurs à 80 000 Euros HT dans le cas de marchés de fournitures et de services ;
 
-2° Pour les lots inférieurs à 1 000 000 Euros HT dans le cas des marchés de travaux dont le montant est égal ou supérieur à 5 150 000 Euros HT,
+2° Pour les lots inférieurs à 1 000 000 Euros HT dans le cas des marchés de travaux,
 
 à la condition que le montant cumulé de ces lots n'excède pas 20 % de la valeur de la totalité des lots. Dans le cas où un minimum et un maximum sont fixés, les 20 % s'appliquent au montant minimum du marché.
 

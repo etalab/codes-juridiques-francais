@@ -16,4 +16,4 @@ Dans le cadre d'une procédure unique, les prestations d'exécution faisant suit
 
 5° Le nombre de marchés de définition passés simultanément dans le cadre de cette procédure ne peut être inférieur à trois, sous réserve d'un nombre suffisant de candidats.
 
-Le marché ou l'accord-cadre est attribué par la commission d'appel d'offres pour les collectivités territoriales ou après avis de la commission d'appel d'offres pour l'Etat, les établissements publics de santé et les établissements publics sociaux ou médico-sociaux.
+Le marché ou l'accord-cadre est attribué par la commission d'appel d'offres pour les collectivités territoriales.

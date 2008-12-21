@@ -14,9 +14,7 @@ Le pouvoir adjudicateur est dispensé de procéder à une nouvelle mesure de pub
 
 3° Les marchés et les accords-cadres de travaux qui sont conclus uniquement à des fins de recherche, d'essai, d'expérimentation ou de mise au point sans finalité commerciale immédiate ;
 
-4° Dans des cas exceptionnels, lorsqu'il s'agit de travaux, de fournitures ou de services dont la nature ou les aléas qui peuvent affecter leur réalisation ne permettent pas une fixation préalable et globale des prix ;
-
-5° Les marchés et les accords-cadres de travaux dont le montant est compris entre 206 000 euros HT et 5 150 000 euros HT.
+4° Dans des cas exceptionnels, lorsqu'il s'agit de travaux, de fournitures ou de services dont la nature ou les aléas qui peuvent affecter leur réalisation ne permettent pas une fixation préalable et globale des prix.
 
 II.-Peuvent être négociés sans publicité préalable et sans mise en concurrence :
 

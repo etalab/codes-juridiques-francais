@@ -56,7 +56,7 @@ Les renseignements complémentaires sur le programme fonctionnel ou le projet pa
 
 Des précisions, clarifications, perfectionnements ou compléments peuvent être demandés aux candidats sur leur offre finale. Cependant, ces demandes ne peuvent avoir pour effet de modifier des éléments fondamentaux de l'offre finale, dont la variation est susceptible de fausser la concurrence ou d'avoir un effet discriminatoire.
 
-VIII. - Après classement des offres finales conformément au III de l'article 53, l'offre économiquement la plus avantageuse est choisie, en application du ou des critères annoncés dans l'avis d'appel public à la concurrence ou dans le règlement de la consultation, par la commission d'appel d'offres pour les collectivités territoriales ou après avis de la commission d'appel d'offres pour l'Etat, les établissements publics de santé et les établissements publics sociaux ou médico-sociaux.
+VIII. - Après classement des offres finales conformément au III de l'article 53, l'offre économiquement la plus avantageuse est choisie en application du ou des critères annoncés dans l'avis d'appel public à la concurrence ou dans le règlement de la consultation. Ce choix est effectué par la commission d'appel d'offres pour les collectivités territoriales.
 
 Il peut être demandé au candidat retenu de clarifier des aspects de son offre ou de confirmer les engagements figurant dans celle-ci, à condition que ceci n'ait pas pour effet de modifier des éléments substantiels de l'offre, de fausser la concurrence ou d'entraîner des discriminations.
 
@@ -66,11 +66,11 @@ Lorsque le candidat dont l'offre a été retenue produit les attestations et cer
 
 Le marché est notifié et un avis d'attribution est publié.
 
-IX. - Lorsque aucune offre finale n'a été remise ou lorsqu'il n'a été proposé que des offres irrégulières ou inacceptables au sens du 1° du I de l'article 35, le dialogue compétitif est déclaré sans suite ou infructueux par la commission d'appel d'offres pour les collectivités territoriales ou, après avis de la commission d'appel d'offres pour l'Etat, pour les établissements publics de santé et les établissements publics sociaux ou médico-sociaux. Les candidats qui ont remis un dossier au pouvoir adjudicateur en sont informés.
+IX. - Lorsque aucune offre finale n'a été remise ou lorsqu'il n'a été proposé que des offres irrégulières ou inacceptables au sens du 1° du I de l'article 35, le dialogue compétitif est déclaré sans suite ou infructueux. Cette déclaration est effectuée par la commission d'appel d'offres pour les collectivités territoriales. Les candidats qui ont remis un dossier au pouvoir adjudicateur en sont informés.
 
 Lorsque le dialogue compétitif est déclaré infructueux, il est possible de mettre en oeuvre :
 
-1° Soit un nouveau dialogue compétitif, un appel d'offres ou, si les conditions initiales du marché ne sont pas substantiellement modifiées, un marché négocié dans les conditions prévues au 1° du I de l'article 35  ;
+1° Soit un nouveau dialogue compétitif, un appel d'offres ou, si les conditions initiales du marché ne sont pas substantiellement modifiées, un marché négocié dans les conditions prévues au 1° du I de l'article 35 ;
 
 2° Soit, s'il s'agit d'un lot qui remplit les conditions mentionnées au III de l'article 27, une procédure adaptée.
 

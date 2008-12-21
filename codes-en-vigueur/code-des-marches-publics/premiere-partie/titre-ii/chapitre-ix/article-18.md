@@ -30,4 +30,4 @@ Lorsque le prix est révisable, le marché fixe la date d'établissement du prix
 
 3° Soit en combinant les modalités mentionnées aux 1° et 2°.
 
-V.-Les marchés de travaux d'une durée d'exécution supérieure à trois mois qui nécessitent, pour leur réalisation, le recours à une part importante de fournitures dont le prix est directement affecté par les fluctuations de cours mondiaux, comportent une clause de révision de prix incluant une référence aux indices officiels de fixation de ces cours, conformément au 1° du IV du présent article.
+V.-Les marchés d'une durée d'exécution supérieure à trois mois qui nécessitent, pour leur réalisation, le recours à une part importante de fournitures notamment de matières premières dont le prix est directement affecté par les fluctuations de cours mondiaux, comportent une clause de révision de prix incluant une référence aux indices officiels de fixation de ces cours, conformément au 1° du IV du présent article.

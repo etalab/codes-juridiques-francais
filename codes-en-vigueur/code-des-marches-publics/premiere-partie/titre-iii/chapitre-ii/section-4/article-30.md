@@ -8,7 +8,7 @@ II.-Toutefois :
 
 2° Lorsque le montant estimé des prestations demandées est égal ou supérieur à 206 000 euros HT, elles sont définies conformément aux dispositions de l'article 6 et le marché fait l'objet d'un avis d'attribution dans les conditions fixées à l'article 85 ;
 
-3° Les marchés d'un montant égal ou supérieur à 206 000 euros HT sont attribués par la commission d'appel d'offres pour les collectivités territoriales et après avis de la commission d'appel d'offres pour l'Etat, les établissements publics de santé et les établissements publics sociaux ou médico-sociaux ;
+3° Les marchés d'un montant égal ou supérieur à 206 000 euros HT sont attribués par la commission d'appel d'offres pour les collectivités territoriales ;
 
 4° Le pouvoir adjudicateur veille au respect des principes déontologiques et des réglementations applicables, le cas échéant, aux professions concernées ;
 

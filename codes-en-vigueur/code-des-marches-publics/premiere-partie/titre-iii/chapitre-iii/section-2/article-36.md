@@ -7,5 +7,3 @@ Le recours à la procédure de dialogue compétitif est possible lorsqu'un march
 1° Le pouvoir adjudicateur n'est objectivement pas en mesure de définir seul et à l'avance les moyens techniques pouvant répondre à ses besoins ;
 
 2° Le pouvoir adjudicateur n'est objectivement pas en mesure d'établir le montage juridique ou financier d'un projet.
-
-Les conditions de recours à la procédure de dialogue compétitif mentionnées ci-dessus ne sont pas exigées pour les marchés de travaux dont le montant est compris entre 206 000 euros HT et 5 150 000 euros HT.
