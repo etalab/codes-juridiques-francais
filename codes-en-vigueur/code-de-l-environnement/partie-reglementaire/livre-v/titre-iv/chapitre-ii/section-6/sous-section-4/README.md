@@ -1,5 +1,6 @@
 # Sous-section 4 : Importation en provenance d'un Etat n'appartenant pas à la Communauté européenne
 
+- [Article R542-48](article-r542-48.md)
 - [Article R542-49](article-r542-49.md)
 - [Article R542-50](article-r542-50.md)
 - [Article R542-51](article-r542-51.md)

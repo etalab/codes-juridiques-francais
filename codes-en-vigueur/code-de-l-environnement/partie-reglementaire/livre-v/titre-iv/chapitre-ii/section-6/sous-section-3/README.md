@@ -1,4 +1,4 @@
-# Sous-section 3 : Exportation à destination d'un autre Etat de la Communauté européenne.
+# Sous-section 3 : Exportation à destination d'un Etat membre de la Communauté européenne
 
 - [Article R542-44](article-r542-44.md)
 - [Article R542-45](article-r542-45.md)
