@@ -7,4 +7,3 @@
 - [Sous-section 5 : Exportation à destination d'un Etat n'appartenant pas à la Communauté européenne](sous-section-5)
 - [Sous-section 6 : Emprunt du territoire national lors des échanges entre Etats membres de la Communauté européenne et transit sur le territoire national](sous-section-6)
 - [Sous-section 7 : Dispositions diverses](sous-section-7)
-- [Sous-section 8 : Dispositions diverses](sous-section-8)

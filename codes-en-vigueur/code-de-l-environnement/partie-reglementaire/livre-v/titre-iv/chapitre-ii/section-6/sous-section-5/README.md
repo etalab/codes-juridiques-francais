@@ -6,5 +6,3 @@
 - [Article R542-56](article-r542-56.md)
 - [Article R542-57](article-r542-57.md)
 - [Article R542-58](article-r542-58.md)
-- [Article R542-59](article-r542-59.md)
-- [Article R542-60](article-r542-60.md)
