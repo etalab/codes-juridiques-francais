@@ -1,4 +1,4 @@
-# Article R122-5
+# Article R122-6
 
 Le taux du droit de suite est égal à 4 % du prix de vente tel que défini à l'article R. 122-4 lorsque celui-ci est inférieur ou égal à 50 000 euros.
 

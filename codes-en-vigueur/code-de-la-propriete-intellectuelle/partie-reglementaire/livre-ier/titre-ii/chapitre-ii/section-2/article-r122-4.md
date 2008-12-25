@@ -1,4 +1,4 @@
-# Article R122-3
+# Article R122-4
 
 Les auteurs non ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ainsi que leurs ayants droit au sens des dispositions de l'article L. 123-7 bénéficient du droit de suite dans les conditions prévues par le présent code si leur législation nationale fait bénéficier de ce droit les auteurs ressortissants des Etats mentionnés ci-dessus ainsi que leurs ayants droit et pour la durée pendant laquelle ils sont admis à exercer ce droit dans leur pays.
 

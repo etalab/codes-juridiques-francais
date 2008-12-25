@@ -1,4 +1,4 @@
-# Article R122-8
+# Article R122-9
 
 I. - En cas de vente d'une oeuvre originale graphique ou plastique aux enchères publiques, le professionnel du marché de l'art responsable du paiement du droit de suite est, selon le cas, la société de ventes volontaires ou le commissaire-priseur judiciaire.
 

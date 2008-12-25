@@ -1,4 +1,4 @@
-# Article R122-11
+# Article R122-12
 
 Est puni de l'amende prévue pour les contraventions de la troisième classe le fait, pour un professionnel responsable du paiement du droit de suite en application de l'article R. 122-8 :
 

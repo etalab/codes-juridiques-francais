@@ -1,4 +1,4 @@
-# Article R122-2
+# Article R122-3
 
 Les oeuvres mentionnées à l'article R. 122-1 sont les oeuvres originales graphiques ou plastiques créées par l'auteur lui-même, telles que les tableaux, les collages, les peintures, les dessins, les gravures, les estampes, les lithographies, les sculptures, les tapisseries, les céramiques, les verreries, les photographies et les créations plastiques sur support audiovisuel ou numérique.
 
