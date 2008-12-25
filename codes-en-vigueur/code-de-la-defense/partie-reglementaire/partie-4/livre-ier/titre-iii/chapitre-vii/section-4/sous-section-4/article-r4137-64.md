@@ -11,3 +11,5 @@ Ce conseil de discipline comprend :
 Ce conseil délibère et vote distinctement par comparant. Prennent part à chaque délibération et à chaque vote les membres du conseil mentionnés au 1° et le membre mentionné au 2° pour la délibération et le vote relatifs au comparant au titre duquel il a été désigné.
 
 Le ministre de la défense désigne par arrêté l'autorité chargée de constituer le conseil et d'établir les listes mentionnées à l'article R. 4137-54.
+
+Lorsque des militaires infirmiers et techniciens des hôpitaux des armées sont impliqués dans une même affaire aux côtés d'autres militaires, tous comparaissent devant un même conseil de discipline qui est composé et délibère dans les conditions fixées à l'article 12-4 du décret n° 2002-1490 du 20 décembre 2002 modifié fixant le statut des militaires infirmiers et techniciens des hôpitaux des armées.
