@@ -9,3 +9,4 @@
 - [Section 6 : Du refus de restitution de signes monétaires contrefaits ou falsifiés.](section-6)
 - [Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances.](section-7)
 - [Section 8 : De l'intrusion dans les établissements scolaires.](section-8)
+- [Section 9 : De l'intrusion dans les lieux historiques ou culturels.](section-9)
