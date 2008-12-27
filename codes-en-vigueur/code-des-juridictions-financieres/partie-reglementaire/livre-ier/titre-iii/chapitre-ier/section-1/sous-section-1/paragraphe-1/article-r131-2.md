@@ -4,4 +4,4 @@ Les comptes sont produits annuellement à la Cour des comptes, appuyés des piè
 
 Toutefois, en ce qui concerne les opérations de l'Etat, la Cour des comptes reçoit trimestriellement les pièces justificatives des recettes et des dépenses effectuées au titre du budget général, des budgets annexes et des comptes spéciaux du Trésor.
 
-Sont vérifiées dans les locaux des services gestionnaires ou centralisateurs les pièces justifiant les catégories de dépenses ou de recettes publiques fixées par arrêté du ministre chargé des finances pris sur proposition du premier président et du procureur général.
+Sont vérifiées dans les locaux des services gestionnaires ou centralisateurs les pièces justifiant les catégories de dépenses ou de recettes publiques fixées par arrêté du ministre chargé du budget pris sur proposition du premier président et du procureur général.
