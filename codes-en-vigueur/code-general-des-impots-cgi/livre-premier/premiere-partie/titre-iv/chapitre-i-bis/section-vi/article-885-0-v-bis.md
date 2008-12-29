@@ -26,7 +26,13 @@ h) Le montant des versements mentionnés au premier alinéa ne doit pas excéder
 
 a) La société vérifie l'ensemble des conditions prévues au 1, à l'exception de celles prévues aux b, f et h ;
 
-b) La société a pour objet exclusif de détenir des participations dans des sociétés exerçant une des activités mentionnées au b du 1.
+b) La société a pour objet exclusif de détenir des participations dans des sociétés exerçant une des activités mentionnées au b du 1 ;
+
+c) La société ne compte pas plus de cinquante associés ou actionnaires ;
+
+d) La société a exclusivement pour mandataires sociaux des personnes physiques ;
+
+e) La société n'accorde aucune garantie en capital à ses associés ou actionnaires en contrepartie de leurs souscriptions ni aucun mécanisme automatique de sortie au terme de cinq ans.
 
 Le montant des versements effectués au titre de la souscription par le redevable est pris en compte pour l'assiette de l'avantage fiscal dans la limite de la fraction déterminée en retenant :
 
@@ -44,7 +50,7 @@ En cas de remboursement des apports aux souscripteurs pendant l'une des période
 
 En cas de non-respect de la condition de conservation prévue au premier alinéa du 1 du II en cas de cession stipulée obligatoire par un pacte d'associés ou d'actionnaires, l'avantage fiscal mentionné au I accordé au titre de l'année en cours et de celles précédant ces opérations n'est pas non plus remis en cause si le prix de vente des titres cédés est intégralement réinvesti par un actionnaire minoritaire, dans un délai maximum de six mois à compter de la cession, en souscription de titres de sociétés satisfaisant aux conditions mentionnées au 1 du I, sous réserve que les titres ainsi souscrits soient conservés jusqu'au même terme. Cette souscription ne peut donner lieu au bénéfice de l'avantage fiscal prévu au 1 du I.
 
-III.-1. Le redevable peut imputer sur l'impôt de solidarité sur la fortune 50 % du montant des versements effectués au titre de souscriptions en numéraire aux parts de fonds d'investissement de proximité définis par l'article L. 214-41-1 du code monétaire et financier dont la valeur des parts est constituée au moins à hauteur de 20 % de titres reçus en contrepartie de souscriptions au capital ou de titres reçus en contrepartie d'obligations converties de sociétés exerçant leur activité ou juridiquement constituées depuis moins de cinq ans vérifiant les conditions prévues au 1 du I. Le redevable peut également imputer sur l'impôt de solidarité sur la fortune 50 % du montant des versements effectués au titre de souscriptions en numéraire aux parts de fonds communs de placement dans l'innovation mentionnés à  l'article L. 214-41 du code monétaire et financier  et aux parts de fonds communs de placement à risques mentionnés        aux articles L. 214-36 et L. 214-37  du même code dont l'actif est constitué au moins à hauteur de 40 % de titres reçus en contrepartie de souscriptions au capital de sociétés exerçant leur activité ou juridiquement constituées depuis moins de cinq ans, vérifiant les conditions prévues au 1 du I.
+III.-1. Le redevable peut imputer sur l'impôt de solidarité sur la fortune 50 % du montant des versements effectués au titre de souscriptions en numéraire aux parts de fonds d'investissement de proximité définis par l'article L. 214-41-1 du code monétaire et financier dont la valeur des parts est constituée au moins à hauteur de 20 % de titres reçus en contrepartie de souscriptions au capital ou de titres reçus en contrepartie d'obligations converties de sociétés exerçant leur activité ou juridiquement constituées depuis moins de cinq ans vérifiant les conditions prévues au 1 du I. Le redevable peut également imputer sur l'impôt de solidarité sur la fortune 50 % du montant des versements effectués au titre de souscriptions en numéraire aux parts de fonds communs de placement dans l'innovation mentionnés à l'article L. 214-41 du code monétaire et financier et aux parts de fonds communs de placement à risques mentionnés aux articles L. 214-36 et L. 214-37 du même code dont l'actif est constitué au moins à hauteur de 40 % de titres reçus en contrepartie de souscriptions au capital de sociétés exerçant leur activité ou juridiquement constituées depuis moins de cinq ans, vérifiant les conditions prévues au 1 du I.
 
 L'avantage prévu au premier alinéa ne s'applique que lorsque les conditions suivantes sont satisfaites :
 
@@ -70,6 +76,6 @@ Le redevable peut bénéficier de l'avantage fiscal prévu au présent article e
 
 Par dérogation à l'alinéa précédent, la fraction des versements pour laquelle le redevable demande le bénéfice de l'avantage fiscal prévu au présent article ne peut donner lieu à l'application de l'article 885-0 V bis A.
 
-VI.-Lorsque les conditions prévues par les f, g et h du 1 du I ne sont pas cumulativement satisfaites par les sociétés bénéficiaires des versements mentionnées au 1 du I, le bénéfice des I à III est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
+VI.-Lorsque les conditions prévues par les f, g et h du 1 du I ne sont pas cumulativement satisfaites par les sociétés bénéficiaires des versements mentionnées au 1 du I, le bénéfice des I à III est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 ou du règlement (CE) n° 1535/2007 de la Commission du 20 décembre 2007, concernant l'application des articles 87 et 88 du traité aux aides de minimis.
 
 VII.-Un décret fixe les obligations déclaratives incombant aux redevables et aux sociétés visés au I, ainsi qu'aux gérants et dépositaires de fonds visés au III.
