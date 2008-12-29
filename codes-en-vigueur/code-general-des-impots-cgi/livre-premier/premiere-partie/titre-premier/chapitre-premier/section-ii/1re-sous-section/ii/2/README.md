@@ -72,6 +72,7 @@
 - [Article 39 B](article-39-b.md)
 - [Article 39 E](article-39-e.md)
 - [Article 39 F](article-39-f.md)
+- [Article 39 G](article-39-g.md)
 - [Article 40](article-40.md)
 - [Article 40 quinquies](article-40-quinquies.md)
 - [Article 40 sexies](article-40-sexies.md)

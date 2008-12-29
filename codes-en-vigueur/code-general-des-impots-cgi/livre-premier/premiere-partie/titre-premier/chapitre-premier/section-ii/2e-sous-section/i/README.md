@@ -2,6 +2,7 @@
 
 - [i : Investissements réalisés dans les départements et territoires d'outre-mer et les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon.](i)
 - [Article 156](article-156.md)
+- [Article 156 bis](article-156-bis.md)
 - [Article 157](article-157.md)
 - [Article 157 bis](article-157-bis.md)
 - [Article 158](article-158.md)

@@ -10,6 +10,8 @@ II.-Des conventions collectives conclues, pour chaque discipline sportive, entre
 
 2° Les modalités de fixation de cette part de rémunération en fonction du niveau des recettes commerciales générées par l'exploitation de l'image collective de l'équipe sportive, et notamment des recettes de parrainage, de publicité et de marchandisage ainsi que de celles provenant de la cession des droits de retransmission audiovisuelle des compétitions ;
 
-3° Le seuil au-delà duquel les dispositions du I ci-dessus s'appliquent à cette part de rémunération, lequel ne peut être inférieur au double du plafond fixé par le décret pris en application de l'article L. 241-3 du code de la sécurité sociale.
+3° Le seuil au-delà duquel les dispositions du I ci-dessus s'appliquent à cette part de rémunération, lequel ne peut être inférieur à un montant fixé par décret au vu du niveau moyen de rémunération pratiqué dans la discipline sportive. Ce montant ne peut être inférieur à deux fois ni être supérieur à huit fois le plafond fixé par le décret pris en application de l'article L. 241-3 du code de la sécurité sociale.
 
-III.-En l'absence d'une convention collective pour une discipline sportive, un décret peut déterminer les modalités de cette part de rémunération dans ladite discipline, dans le respect des conditions édictées au II ci-dessus.
+III.-En l'absence d'une convention collective, pour une discipline sportive, contenant l'ensemble des stipulations mentionnées au 2° du II, un décret détermine la part de rémunération prévue au 1° du II.
+
+IV.-Ces dispositions s'appliquent aux rémunérations versées jusqu'au 30 juin 2012.

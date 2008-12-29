@@ -4,9 +4,9 @@
 
 Les taux et l'assiette du droit de consommation sont fixés par délibération des conseils généraux des départements. Ces délibérations prennent effet au plus tôt au 1er janvier 2001.
 
-Pour les produits mentionnés au premier alinéa ayant fait l'objet d'une homologation en France continentale en application de l'article 572 du code général des impôts, le montant du droit est déterminé par application du taux fixé par le conseil général à un pourcentage fixé par ce même conseil, supérieur à 66 % et au plus égal à 100 % du prix de vente au détail en France continentale.
+Pour les produits mentionnés au premier alinéa ayant fait l'objet d'une homologation en France continentale en application de l'article 572 du code général des impôts, le montant du droit est déterminé par application du taux fixé par le conseil général à un pourcentage fixé par ce même conseil, supérieur à 66 % et au plus égal à 110 % du prix de vente au détail en France continentale.
 
-Pour les produits mentionnés au premier alinéa n'ayant pas fait l'objet d'une homologation en France continentale, le montant du droit est déterminé par application du taux fixé par le conseil général à un pourcentage fixé par ce même conseil, supérieur à 66 % et au plus égal à 100 % du prix de vente au détail en France continentale correspondant à la moyenne pondérée des prix homologués.
+Pour les produits mentionnés au premier alinéa n'ayant pas fait l'objet d'une homologation en France continentale, le montant du droit est déterminé par application du taux fixé par le conseil général à un pourcentage fixé par ce même conseil, supérieur à 66 % et au plus égal à 110 % du prix de vente au détail en France continentale correspondant à la moyenne pondérée des prix homologués.
 
 Les taux des droits de consommation fixés par chaque conseil général ne peuvent être supérieurs aux taux prévus à l'article 575 A du code général des impôts qui frappent les produits de même catégorie en France continentale.
 

@@ -20,7 +20,7 @@ a. Le montant de dotation forfaitaire perçue en 2004 et indexée selon un taux 
 
 b. Et la somme de la dotation de base et de la dotation proportionnelle à la superficie calculées en application des 1° et 2°.
 
-A compter de 2006, cette garantie évolue selon un taux égal au plus à 25 % du taux de progression de l'ensemble des ressources de la dotation globale de fonctionnement. Toutefois, pour les communes dont la garantie par habitant est supérieure à 1, 5 fois la garantie par habitant moyenne constatée l'année précédente, le taux de progression de la garantie est nul.
+A compter de 2006, cette garantie évolue selon un taux égal au plus à 25 % du taux de progression de l'ensemble des ressources de la dotation globale de fonctionnement. Toutefois, pour les communes dont la garantie par habitant est supérieure à 1, 5 fois la garantie par habitant moyenne constatée l'année précédente, le taux de progression de la garantie est nul. En 2009, le  complément de garantie dû à chaque commune correspond à son montant de 2008  diminué de 2 %.
 
 Le taux de croissance de la dotation forfaitaire est égal au taux d'évolution de la somme des composantes de cette dotation par rapport à la somme des montants versés l'année précédente en application des alinéas précédents, hors les montants prévus au 3°. Pour l'application de cette disposition en 2005, le montant de la dotation forfaitaire pris en compte au titre de 2004 est égal au montant total de la dotation forfaitaire versée en 2004, hors les montants correspondant à la compensation antérieurement perçue en application du I du D de l'article 44 de la loi de finances pour 1999.
 

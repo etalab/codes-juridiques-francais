@@ -6,3 +6,4 @@
 - [Article 1395 B](article-1395-b.md)
 - [Article 1395 E](article-1395-e.md)
 - [Article 1395 F](article-1395-f.md)
+- [Article 1395 G](article-1395-g.md)

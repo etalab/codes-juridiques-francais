@@ -58,13 +58,13 @@ Par exception aux dispositions des deux premiers alinéas, lorsque, en applicati
 
 4° quater (Abrogé) ;
 
-5° Les provisions constituées en vue de faire face à des pertes ou charges nettement précisées et que des événements en cours rendent probables, à condition qu'elles aient été effectivement constatées dans les écritures de l'exercice. Toutefois, ne sont pas déductibles les provisions que constitue une entreprise en vue de faire face au versement d'allocations en raison du départ à la retraite ou préretraite des membres ou anciens membres de son personnel, ou de ses mandataires sociaux. Les provisions pour pertes afférentes à des opérations en cours à la clôture d'un exercice ne sont déductibles des résultats de cet exercice qu'à concurrence de la perte qui est égale à l'excédent du coût de revient des travaux exécutés à la clôture du même exercice sur le prix de vente de ces travaux compte tenu des révisions contractuelles certaines à cette date. S'agissant des produits en stock à la clôture d'un exercice, les dépenses non engagées à cette date en vue de leur commercialisation ultérieure ne peuvent, à la date de cette clôture, être retenues pour l'évaluation de ces produits en application des dispositions du 3 de l'article 38, ni faire l'objet d'une provision pour perte.
+5° Les provisions constituées en vue de faire face à des pertes ou charges nettement précisées et que des événements en cours rendent probables, à condition qu'elles aient été effectivement constatées dans les écritures de l'exercice. Toutefois, ne sont pas déductibles les provisions que constitue une entreprise en vue de faire face au versement d'allocations en raison du départ à la retraite ou préretraite des membres ou anciens membres de son personnel, ou de ses mandataires sociaux. Les provisions pour pertes afférentes à des opérations en cours à la clôture d'un exercice ne sont déductibles des résultats de cet exercice qu'à concurrence de la perte qui est égale à l'excédent du coût de revient des travaux exécutés à la clôture du même exercice sur le prix de vente de ces travaux compte tenu des révisions contractuelles certaines à cette date.S'agissant des produits en stock à la clôture d'un exercice, les dépenses non engagées à cette date en vue de leur commercialisation ultérieure ne peuvent, à la date de cette clôture, être retenues pour l'évaluation de ces produits en application des dispositions du 3 de l'article 38, ni faire l'objet d'une provision pour perte.
 
 La dépréciation des oeuvres d'art inscrites à l'actif d'une entreprise peut donner lieu à la constitution d'une provision. Cette dépréciation doit être constatée par un expert agréé près les tribunaux lorsque le coût d'acquisition de l'oeuvre est supérieur à 7 600 euros.
 
 Un décret fixe les règles d'après lesquelles des provisions pour fluctuation des cours peuvent être retranchées des bénéfices des entreprises dont l'activité consiste essentiellement à transformer directement des matières premières acquises sur les marchés internationaux ou des matières premières acquises sur le territoire national et dont les prix sont étroitement liés aux variations des cours internationaux.
 
-Pour les entreprises dont l'objet principal est de faire subir en France la première transformation au pétrole brut, le montant de la provision pour fluctuation des cours ne peut excéder 69 % de la limite maximale de la provision calculée conformément aux dispositions législatives et réglementaires en vigueur. L'excédent éventuel de la provision antérieurement constituée, par rapport à la nouvelle limite maximale calculée à la clôture du premier exercice auquel elle s'applique, est rapporté au bénéfice imposable de cet exercice. Ces dispositions s'appliquent pour la détermination des résultats des exercices clos à compter du 24 septembre 1975.
+Pour les entreprises dont l'objet principal est de faire subir en France la première transformation au pétrole brut, le montant de la provision pour fluctuation des cours ne peut excéder 69 % de la limite maximale de la provision calculée conformément aux dispositions législatives et réglementaires en vigueur.L'excédent éventuel de la provision antérieurement constituée, par rapport à la nouvelle limite maximale calculée à la clôture du premier exercice auquel elle s'applique, est rapporté au bénéfice imposable de cet exercice. Ces dispositions s'appliquent pour la détermination des résultats des exercices clos à compter du 24 septembre 1975.
 
 Les dispositions des troisième et quatrième alinéas cessent de s'appliquer pour la détermination des résultats des exercices clos à compter du 31 décembre 1997. Les provisions pour fluctuation des cours inscrites au bilan à l'ouverture du premier exercice clos à compter de cette même date sont rapportées, par fractions égales, aux résultats imposables de ce même exercice et des deux exercices suivants.
 
@@ -140,7 +140,7 @@ Le montant total des dotations aux provisions non admises en déduction au titre
 
 Il en est de même du versement libératoire prévu au IV de l'article 14 de la loi n° 2005-781 du 13 juillet 2005 de programme fixant les orientations de la politique énergétique.
 
-2 bis. A compter de l'entrée en vigueur sur le territoire de la République de la convention sur la lutte contre la corruption d'agents publics étrangers dans les transactions commerciales internationales, les sommes versées ou les avantages octroyés, directement ou par des intermédiaires, au profit d'un agent public au sens du 4 de l'article 1er de ladite convention ou d'un tiers pour que cet agent agisse ou s'abstienne d'agir dans l'exécution de fonctions officielles, en vue d'obtenir ou conserver un marché ou un autre avantage indu dans des transactions commerciales internationales, ne sont pas admis en déduction des bénéfices soumis à l'impôt.
+2 bis.A compter de l'entrée en vigueur sur le territoire de la République de la convention sur la lutte contre la corruption d'agents publics étrangers dans les transactions commerciales internationales, les sommes versées ou les avantages octroyés, directement ou par des intermédiaires, au profit d'un agent public au sens du 4 de l'article 1er de ladite convention ou d'un tiers pour que cet agent agisse ou s'abstienne d'agir dans l'exécution de fonctions officielles, en vue d'obtenir ou conserver un marché ou un autre avantage indu dans des transactions commerciales internationales, ne sont pas admis en déduction des bénéfices soumis à l'impôt.
 
 3. Les allocations forfaitaires qu'une société attribue à ses dirigeants ou aux cadres de son entreprise pour frais de représentation et de déplacement sont exclues de ses charges déductibles pour l'assiette de l'impôt lorsque parmi ces charges figurent déjà les frais habituels de cette nature remboursés aux intéressés.
 
@@ -158,7 +158,7 @@ c) Aux dépenses de toute nature résultant de l'achat, de la location ou de tou
 
 La fraction de l'amortissement des véhicules de tourisme exclue des charges déductibles par les limitations ci-dessus est néanmoins retenue pour la détermination des plus-values ou moins-values résultant de la vente ultérieure des véhicules ainsi amortis.
 
-Les dispositions du premier alinéa ne sont pas applicables aux charges exposées pour les besoins de l'exploitation et résultant de l'achat, de la location ou de l'entretien des demeures historiques classées, inscrites à l'inventaire supplémentaire des monuments historiques ou agréés.
+Les dispositions du premier alinéa ne sont pas applicables aux charges exposées pour les besoins de l'exploitation et résultant de l'achat, de la location ou de l'entretien des demeures historiques classées, inscrites à l'inventaire supplémentaire des monuments historiques ou agréésou des résidences servant d'adresse ou de siège de l'entreprise en application des articles L. 123-10 et L. 123-11-1 du code de commerce, ou des résidences faisant partie intégrante d'un établissement de production et servant à l'accueil de la clientèle. (1)
 
 5. Sont également déductibles les dépenses suivantes :
 
@@ -180,6 +180,8 @@ Les dépenses ci-dessus énumérées peuvent également être réintégrées dan
 
 Lorsqu'elles augmentent dans une proportion supérieure à celle des bénéfices imposables ou que leur montant excède celui de ces bénéfices, l'administration peut demander à l'entreprise de justifier qu'elles sont nécessitées par sa gestion.
 
+5 bis. Les rémunérations différées visées aux articles L. 225-42-1 et L. 225-90-1 du code de commerce sont admises en déduction du bénéfice net dans la limite de six fois le plafond annuel de la sécurité sociale par bénéficiaire.
+
 6. (périmé).
 
 7. Les dépenses exposées pour la tenue de la comptabilité et, éventuellement, pour l'adhésion à un centre de gestion agréé ne sont pas prises en compte pour la détermination du résultat imposable lorsqu'elles sont supportées par l'Etat du fait de la réduction d'impôt mentionnée à l'article 199 quater B.
@@ -188,7 +190,7 @@ Lorsqu'elles augmentent dans une proportion supérieure à celle des bénéfices
 
 Un décret fixe les modalités d'application de ces dispositions, notamment les obligations déclaratives.
 
-9. L'indemnité de congé payé correspondant aux droits acquis durant la période neutralisée définie ci-après, calculée dans les conditions prévues aux articles L. 3141-22 à L. 3141-25 du code du travail, n'est pas déductible. Cette période neutralisée est celle qui est retenue pour le calcul de l'indemnité afférente aux droits acquis et non utilisés à l'ouverture du premier exercice clos à compter du 31 décembre 1987 ; sa durée ne peut être inférieure à celle de la période d'acquisition des droits à congé payé non utilisés à la clôture de cet exercice. L'indemnité correspondant à ces derniers droits est considérée comme déduite du point de vue fiscal.
+9.L'indemnité de congé payé correspondant aux droits acquis durant la période neutralisée définie ci-après, calculée dans les conditions prévues aux articles L. 3141-22 à L. 3141-25 du code du travail, n'est pas déductible. Cette période neutralisée est celle qui est retenue pour le calcul de l'indemnité afférente aux droits acquis et non utilisés à l'ouverture du premier exercice clos à compter du 31 décembre 1987 ; sa durée ne peut être inférieure à celle de la période d'acquisition des droits à congé payé non utilisés à la clôture de cet exercice.L'indemnité correspondant à ces derniers droits est considérée comme déduite du point de vue fiscal.
 
 Ces dispositions s'appliquent aux charges sociales et fiscales attachées à ces indemnités.
 
@@ -200,7 +202,7 @@ Toutefois, pour les opérations concernant les immeubles achevés après le 31 d
 
 Pour l'application du premier alinéa, le loyer est réputé affecté au financement des différents éléments dans l'ordre suivant :
 
-a. D'abord aux frais supportés par le crédit-bailleur lors de l'acquisition de l'immeuble ;
+a.D'abord aux frais supportés par le crédit-bailleur lors de l'acquisition de l'immeuble ;
 
 b. Ensuite aux éléments amortissables ;
 
@@ -214,7 +216,7 @@ Lorsque le contrat de crédit-bail est cédé, les quotes-parts de loyers non d�
 
 11. 1° Pour ouvrir droit à l'exonération prévue au 31° de l'article 81, les charges engagées par une entreprise à l'occasion de l'attribution ou de la mise à disposition gratuite à ses salariés de matériels informatiques neufs, de logiciels et de la fourniture gratuite de prestations de services liées directement à l'utilisation de ces biens sont rapportées au résultat imposable des exercices au cours desquels intervient l'attribution en cause ou l'achèvement des prestations. Ces dispositions s'appliquent également lorsque les salariés bénéficient de l'attribution ou de la mise à disposition de ces mêmes biens ou de la fourniture de ces prestations de services pour un prix inférieur à leur coût de revient ;
 
-2° Le dispositif prévu au 1° s'applique aux opérations effectuées dans le cadre d'un accord conclu, selon les modalités prévues aux articles L. 3322-6 et L. 3322-7 du code du travail, du 1er janvier 2001 au 31 décembre 2005, sur option exercée dans le document formalisant l'accord. L'attribution, la mise à disposition ou la fourniture effective aux bénéficiaires des biens ou prestations de services doit s'effectuer dans les douze mois de la conclusion de l'accord précité.
+2° Le dispositif prévu au 1° s'applique aux opérations effectuées dans le cadre d'un accord conclu, selon les modalités prévues aux articles L. 3322-6 et L. 3322-7 du code du travail, du 1er janvier 2001 au 31 décembre 2005, sur option exercée dans le document formalisant l'accord.L'attribution, la mise à disposition ou la fourniture effective aux bénéficiaires des biens ou prestations de services doit s'effectuer dans les douze mois de la conclusion de l'accord précité.
 
 12. Lorsqu'il existe des liens de dépendance entre l'entreprise concédante et l'entreprise concessionnaire, le montant des redevances prises en compte pour le calcul du résultat net imposable selon le régime mentionné au 1 de l'article 39 terdecies n'est déductible du résultat imposable de l'entreprise concessionnaire que dans le rapport existant entre le taux réduit d'imposition applicable à ce résultat net et le taux normal prévu au deuxième alinéa du I de l'article 219.
 

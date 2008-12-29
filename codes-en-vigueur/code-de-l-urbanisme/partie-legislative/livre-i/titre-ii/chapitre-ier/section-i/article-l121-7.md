@@ -6,4 +6,4 @@ Toutefois, les services extérieurs de l'Etat peuvent être mis gratuitement et 
 
 Les communes ou établissements publics compétents peuvent avoir recours aux conseils du conseil d'architecture, d'urbanisme et de l'environnement lors de l'élaboration, de la révision ou de la modification de leurs documents d'urbanisme.
 
-Les dépenses exposées par les communes et les établissements publics de coopération intercommunale pour les études, l'élaboration, la modification et la révision de leurs documents d'urbanisme sont inscrites en section d'investissement de leur budget. Elles ouvrent droit aux attributions du Fonds de compensation pour la taxe sur la valeur ajoutée.
+Les dépenses exposées par les communes et les établissements publics de coopération intercommunale pour les études, l'élaboration, la modification et la révision de leurs documents d'urbanisme ainsi que pour la numérisation du cadastre, pour celles réalisées à compter du 1er janvier 2007, sont inscrites en section d'investissement de leur budget. Elles ouvrent droit aux attributions du Fonds de compensation pour la taxe sur la valeur ajoutée.

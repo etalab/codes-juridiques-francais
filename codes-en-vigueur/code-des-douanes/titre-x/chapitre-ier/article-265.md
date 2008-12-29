@@ -321,18 +321,27 @@ Tableau B : Produits pétroliers et assimilés.
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>----carburéacteurs, type essence :<br/>
+<td>Supercarburant d'une teneur en plomb n'excédant pas 0, 005 g / litre, autre que les supercarburants correspondant aux indices d'identification 11 et 11 bis, et contenant jusqu'à 10 % v / v d'éthanol, 22 % v / v d'éthers contenant 5 d'atomes de carbone, ou plus, par molécule et d'une teneur en oxygène maximum de 4 % en m / m d'oxygène. <p>Ce super-carburant est dénommé E10. <br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td>
+<p align="center">11 ter </p>
 </td>
-<td align="center">
-<br/>
+<td>
+<p align="center">Hectolitre</p>
 </td>
-<td align="center">
-<br/>
+<td>
+<p align="center">60,69</p>
 </td>
+</tr>
+<tr>
+<td>
+<p align="center">----carburéacteurs, type essence :<br/>
+</p>
+</td>
+<td/>
+<td/>
+<td/>
 </tr>
 <tr>
 <td align="center">
@@ -1339,7 +1348,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>28,33. <br/>
+<br/>23,24 à compter du 1er janvier 2009, puis 20,69 à compter du 1er janvier 2010, puis 17,29 à compter du 1er janvier 2011. <br/>
 </td>
 </tr>
 </tbody>

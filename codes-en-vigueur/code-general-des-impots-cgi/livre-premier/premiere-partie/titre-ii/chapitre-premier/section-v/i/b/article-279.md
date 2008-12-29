@@ -83,3 +83,5 @@ i. les prestations de services fournies par des entreprises agréées en applica
 j) Les rémunérations versées par les collectivités territoriales et leurs groupements pour la mise en oeuvre d'un contrat d'objectifs et de moyens correspondant à l'édition d'un service de télévision locale.
 
 k) Les remboursements et les rémunérations versés par les communes ou leurs groupements aux exploitants assurant les prestations de balayage des caniveaux et voies publiques lorsqu'elles se rattachent au service public de voirie communale.
+
+l) Les remboursements et les rémunérations versés par les communes ou leurs groupements aux exploitants assurant les prestations de déneigement des voies publiques lorsqu'elles se rattachent à un service public de voirie communale.

@@ -19,7 +19,7 @@ Tarif des droits applicables en ligne directe
 </tr>
 <tr>
 <td align="center">
-<br/>N'excédant pas 7 699 euros <br/>
+<br/>N'excédant pas 7 922 euros <br/>
 </td>
 <td align="center">
 <br/>5 <br/>
@@ -27,7 +27,7 @@ Tarif des droits applicables en ligne directe
 </tr>
 <tr>
 <td align="center">
-<br/>Comprise entre 7 699 euros et 11 548 euros <br/>
+<br/>Comprise entre 7 922 euros et 11 883 euros <br/>
 </td>
 <td align="center">
 <br/>10 <br/>
@@ -35,7 +35,7 @@ Tarif des droits applicables en ligne directe
 </tr>
 <tr>
 <td align="center">
-<br/>Comprise entre 11 548 euros et 15 195 euros <br/>
+<br/>Comprise entre 11 883 euros et 15 636 euros <br/>
 </td>
 <td align="center">
 <br/>15 <br/>
@@ -43,7 +43,7 @@ Tarif des droits applicables en ligne directe
 </tr>
 <tr>
 <td align="center">
-<br/>Comprise entre 15 195 euros et 526 760 euros <br/>
+<br/>Comprise entre 15 636 euros et 542 036 euros <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -51,7 +51,7 @@ Tarif des droits applicables en ligne directe
 </tr>
 <tr>
 <td align="center">
-<br/>Comprise entre 526 760 euros et 861 050 euros <br/>
+<br/>Comprise entre 542 036 euros et 886 020 euros <br/>
 </td>
 <td align="center">
 <br/>30 <br/>
@@ -59,7 +59,7 @@ Tarif des droits applicables en ligne directe
 </tr>
 <tr>
 <td align="center">
-<br/>Comprise entre 861 050 euros et 1 722 100 euros <br/>
+<br/>Comprise entre 886 020 euros et 1 772 041 euros <br/>
 </td>
 <td align="center">
 <br/>35 <br/>
@@ -67,7 +67,7 @@ Tarif des droits applicables en ligne directe
 </tr>
 <tr>
 <td align="center">
-<br/>Au-delà de 1 722 100 euros <br/>
+<br/>Au-delà de 1 772 041 euros <br/>
 </td>
 <td align="center">
 <br/>40 <br/>
@@ -93,7 +93,7 @@ Tarif des droits applicables entre époux et entre partenaires liés par un pact
 </tr>
 <tr>
 <td align="center">
-<br/>N'excédant pas 7 699 euros <br/>
+<br/>N'excédant pas 7 922 euros <br/>
 </td>
 <td align="center">
 <br/>5 <br/>
@@ -101,7 +101,7 @@ Tarif des droits applicables entre époux et entre partenaires liés par un pact
 </tr>
 <tr>
 <td align="center">
-<br/>Comprise entre 7 699 euros et 15 195 euros <br/>
+<br/>Comprise entre 7 922 euros et 15 636 euros <br/>
 </td>
 <td align="center">
 <br/>10 <br/>
@@ -109,7 +109,7 @@ Tarif des droits applicables entre époux et entre partenaires liés par un pact
 </tr>
 <tr>
 <td align="center">
-<br/>Comprise entre 15 195 euros et 30 390 euros <br/>
+<br/>Comprise entre 15 636 euros et 31 271 euros <br/>
 </td>
 <td align="center">
 <br/>15 <br/>
@@ -117,7 +117,7 @@ Tarif des droits applicables entre époux et entre partenaires liés par un pact
 </tr>
 <tr>
 <td align="center">
-<br/>Comprise entre 30 390 euros et 526 760 euros <br/>
+<br/>Comprise entre 31 271 euros et 542 036 euros <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -125,7 +125,7 @@ Tarif des droits applicables entre époux et entre partenaires liés par un pact
 </tr>
 <tr>
 <td align="center">
-<br/>Comprise entre 526 760 euros et 861 050 euros <br/>
+<br/>Comprise entre 542 036 euros et 886 020 euros <br/>
 </td>
 <td align="center">
 <br/>30 <br/>
@@ -133,7 +133,7 @@ Tarif des droits applicables entre époux et entre partenaires liés par un pact
 </tr>
 <tr>
 <td align="center">
-<br/>Comprise entre 861 050 euros et 1 722 100 euros <br/>
+<br/>Comprise entre 886 020 euros et 1 772 041 euros <br/>
 </td>
 <td align="center">
 <br/>35 <br/>
@@ -141,7 +141,7 @@ Tarif des droits applicables entre époux et entre partenaires liés par un pact
 </tr>
 <tr>
 <td align="center">
-<br/>Au-delà de 1 722 100 euros <br/>
+<br/>Au-delà de 1 772 041 euros <br/>
 </td>
 <td align="center">
 <br/>40 <br/>
@@ -167,7 +167,7 @@ Tarif des droits applicables en ligne collatérale et entre non parents
 </tr>
 <tr>
 <td align="center">
-<br/>Entre frères et sœurs : <p>N'excédant pas 23 299 euros <br/>
+<br/>Entre frères et sœurs vivants ou représentés : <p>N'excédant pas 23 975 euros <br/>
 </p>
 </td>
 <td align="center">
@@ -176,7 +176,7 @@ Tarif des droits applicables en ligne collatérale et entre non parents
 </tr>
 <tr>
 <td align="center">
-<br/>Supérieure à 23 299 euros <br/>
+<br/>Supérieure à 23975 euros <br/>
 </td>
 <td align="center">
 <br/>45 <br/>

@@ -9,3 +9,4 @@
 - [Article 231 bis R](article-231-bis-r.md)
 - [Article 231 bis S](article-231-bis-s.md)
 - [Article 231 bis T](article-231-bis-t.md)
+- [Article 231 bis U](article-231-bis-u.md)

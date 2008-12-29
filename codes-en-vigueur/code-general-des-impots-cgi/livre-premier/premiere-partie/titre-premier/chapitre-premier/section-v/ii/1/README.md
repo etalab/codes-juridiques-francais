@@ -20,4 +20,5 @@
 - [Article 199 ter P](article-199-ter-p.md)
 - [Article 199 ter Q](article-199-ter-q.md)
 - [Article 199 ter R](article-199-ter-r.md)
+- [Article 199 ter S](article-199-ter-s.md)
 - [Article 199 quater A](article-199-quater-a.md)

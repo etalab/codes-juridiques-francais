@@ -5,5 +5,4 @@
 - [Article L5221-7](article-l5221-7.md)
 - [Article L5221-8](article-l5221-8.md)
 - [Article L5221-9](article-l5221-9.md)
-- [Article L5221-10](article-l5221-10.md)
 - [Article L5221-11](article-l5221-11.md)

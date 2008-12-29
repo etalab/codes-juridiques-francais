@@ -1,10 +1,10 @@
 # Article 953
 
-I. - Le passeport délivré en France est soumis à un droit de timbre dont le tarif est fixé à 60 Euros.
+I. - Le passeport délivré en France est soumis à un droit de timbre dont le tarif est fixé à 89 €.
 
-Par dérogation au premier alinéa, le passeport délivré à un mineur de moins de quinze ans est exonéré de droit de timbre. Pour le mineur de plus de quinze ans, le tarif est fixé à 30 Euros.
+Par dérogation au premier alinéa, le tarif du droit de timbre du passeport délivré à un mineur de quinze ans et plus est fixé à 45 €. Pour le mineur de moins de quinze ans, ce tarif est fixé à 20 €.
 
-Par dérogation au premier alinéa, le tarif applicable au passeport délivré à titre exceptionnel et pour un motif d'urgence dûment justifié ou délivré par une autorité qui n'est pas celle du lieu de résidence ou du domicile du demandeur est de 30 Euros.
+Par dérogation au premier alinéa, le tarif applicable au passeport délivré à titre exceptionnel et pour un motif d'urgence dûment justifié ou délivré par une autorité qui n'est pas celle du lieu de résidence ou du domicile du demandeur est de 30 €.
 
 Le renouvellement des passeports mentionnés aux premier et deuxième alinéas est effectué à titre gratuit, jusqu'à concurrence de leur durée de validité et dans les cas suivants :
 
@@ -20,6 +20,6 @@ II. - La délivrance des passeports de service et de mission pour les agents civ
 
 III. (Abrogé).
 
-IV. Les titres de voyage délivrés aux réfugiés ou apatrides sont valables deux ans et sont soumis à une taxe de 8 euros.
+IV. Les titres de voyage délivrés aux réfugiés ou apatrides sont valables deux ans et sont soumis à une taxe de 8 €.
 
-V. Les sauf-conduits délivrés pour une durée de validité maximum de trois mois aux étrangers titulaires d'un titre de séjour sont assujettis à une taxe de 8 euros.
+V. Les sauf-conduits délivrés pour une durée de validité maximum de trois mois aux étrangers titulaires d'un titre de séjour sont assujettis à une taxe de 8 €.

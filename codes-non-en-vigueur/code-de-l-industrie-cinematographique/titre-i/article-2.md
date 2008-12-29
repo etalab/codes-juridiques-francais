@@ -8,7 +8,7 @@ Le centre est chargé :
 
 3° De contrôler le financement et les recettes des films ;
 
-4° D'accorder, dans l'intérêt général, à la production cinématographique soit des subventions soit des avances dont il doit suivre l'emploi et, le cas échéant, assurer le remboursement ;
+4° D'accorder, dans l'intérêt général,   aux industries cinématographique, audiovisuelle, vidéographique et multimédia  soit des subventions soit des avances dont il doit suivre l'emploi et, le cas échéant, assurer le remboursement ;
 
 5° De centraliser les payements concernant tous les crédits destinés à la production et à la diffusion de films cinématographiques et qui sont ouverts au budget des ministères civils, des établissements publics de l'Etat placés sous la tutelle ou le contrôle d'un ministère civil et de toutes associations et organismes assujettis au contrôle prévu à l'article 5 du décret du 20 mars 1939 modifié par l'article 2 de la loi n° 47-1465 du 8 août 1947.
 
