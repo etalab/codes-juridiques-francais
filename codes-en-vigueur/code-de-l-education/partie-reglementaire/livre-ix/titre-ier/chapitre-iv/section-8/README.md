@@ -1,0 +1,3 @@
+# Section 8 : Droits sociaux et congés.
+
+- [Sous-section 2 : Cessation progressive d'activité.](sous-section-2)
