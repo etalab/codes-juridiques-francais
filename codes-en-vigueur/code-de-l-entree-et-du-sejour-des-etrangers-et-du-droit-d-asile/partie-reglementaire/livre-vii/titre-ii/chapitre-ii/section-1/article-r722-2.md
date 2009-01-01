@@ -21,5 +21,3 @@ Il émet un avis sur les nominations aux emplois de directeur général adjoint,
 Il étudie et propose au Gouvernement toutes mesures propres à améliorer le sort des réfugiés et le fonctionnement de l'office.
 
 Il adresse chaque année le rapport d'activité aux ministres intéressés.
-
-Avant que le conseil d'administration délibère sur le budget, le directeur général recueille les propositions du président de la Cour nationale du droit d'asile sur les moyens à affecter au fonctionnement de cette dernière.
