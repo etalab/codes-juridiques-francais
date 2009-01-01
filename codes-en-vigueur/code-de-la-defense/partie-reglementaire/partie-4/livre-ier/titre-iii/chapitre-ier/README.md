@@ -11,3 +11,5 @@
 - [Article R4131-9](article-r4131-9.md)
 - [Article R4131-10](article-r4131-10.md)
 - [Article R4131-11](article-r4131-11.md)
+- [Article R4131-12](article-r4131-12.md)
+- [Article R4131-13](article-r4131-13.md)
