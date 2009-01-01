@@ -1,9 +1,5 @@
 # Chapitre XI : La mesure d'accompagnement judiciaire.
 
-- [Section I : Dispositions générales.](section-i)
-- [Section II : La sauvegarde de justice.](section-ii)
-- [Section III : La tutelle.](section-iii)
-- [Section IV : La curatelle.](section-iv)
 - [Article 1262](article-1262.md)
 - [Article 1262-1](article-1262-1.md)
 - [Article 1262-2](article-1262-2.md)

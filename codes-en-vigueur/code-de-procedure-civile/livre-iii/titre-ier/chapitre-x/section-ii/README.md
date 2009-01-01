@@ -1,10 +1,5 @@
 # Section II : Dispositions relatives au mandat de protection future.
 
-- [Article 1219](article-1219.md)
-- [Article 1220](article-1220.md)
-- [Article 1221](article-1221.md)
-- [Article 1222](article-1222.md)
-- [Article 1223](article-1223.md)
 - [Article 1258](article-1258.md)
 - [Article 1258-1](article-1258-1.md)
 - [Article 1258-2](article-1258-2.md)

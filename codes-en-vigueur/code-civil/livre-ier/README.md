@@ -9,7 +9,4 @@
 - [Titre VII : De la filiation](titre-vii)
 - [Titre VIII : De la filiation adoptive](titre-viii)
 - [Titre IX : De l'autorité parentale](titre-ix)
-- [Titre X : De la minorité, de la tutelle et de l'émancipation.](titre-x)
-- [Titre XI : De la majorité et des majeurs qui sont protégés par la loi.](titre-xi)
-- [Titre XII : Du pacte civil de solidarité et du concubinage.](titre-xii)
 - [Titre XIII : Du pacte civil de solidarité et du concubinage](titre-xiii)

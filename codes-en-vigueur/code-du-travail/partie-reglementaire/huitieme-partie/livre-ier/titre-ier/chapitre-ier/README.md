@@ -4,5 +4,3 @@
 - [Section 2 : Inspection du travail dans les mines et carrières](section-2)
 - [Section 3 : Inspection du travail dans les industries électriques et gazières](section-3)
 - [Section 4 : Inspection du travail dans les établissements de la défense](section-4)
-- [Section 5 : Inspection du travail dans les industries électriques et gazières](section-5)
-- [Section 6 : Inspection du travail dans les établissements de la défense](section-6)

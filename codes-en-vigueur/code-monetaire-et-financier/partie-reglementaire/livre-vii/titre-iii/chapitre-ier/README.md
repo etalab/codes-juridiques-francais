@@ -1,7 +1,5 @@
 # Chapitre Ier : Dispositions d'adaptation du livre Ier
 
-- [Section 1 : Les instruments de la monnaie scripturale](section-1)
-- [Section 2 : Les relations financières avec l'étranger](section-2)
 - [Article R731-1](article-r731-1.md)
 - [Article R731-2](article-r731-2.md)
 - [Article R731-3](article-r731-3.md)

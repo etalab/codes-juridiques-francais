@@ -1,8 +1,5 @@
 # Section 1 : Le livret A
 
-- [Sous-section 1 : Dispositions communes](sous-section-1)
-- [Sous-section 2 : Dispositions spécifiques aux caisses d'épargne et de prévoyance.](sous-section-2)
-- [Sous-section 3 : Dispositions spécifiques à la Caisse nationale d'épargne.](sous-section-3)
 - [Article L221-1](article-l221-1.md)
 - [Article L221-2](article-l221-2.md)
 - [Article L221-3](article-l221-3.md)
