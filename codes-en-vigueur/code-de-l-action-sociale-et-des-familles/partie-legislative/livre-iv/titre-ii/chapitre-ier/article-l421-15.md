@@ -1,0 +1,5 @@
+# Article L421-15
+
+Dans les deux mois qui précèdent l'accueil du premier enfant confié à un assistant familial au titre du premier contrat de travail suivant son agrément, l'assistant familial bénéficie d'un stage préparatoire à l'accueil d'enfants, organisé par son employeur, d'une durée définie par décret. Dans l'attente qu'un enfant lui soit confié, il perçoit une rémunération dont le montant minimal est déterminé par décret, en référence au salaire minimum de croissance.
+
+Dans le délai de trois ans après le premier contrat de travail suivant son agrément, tout assistant familial doit suivre une formation adaptée aux besoins spécifiques des enfants accueillis. Cette formation est à la charge de l'employeur qui organise et finance l'accueil de l'enfant pendant les heures de formation. Un décret détermine la durée, le contenu, les conditions d'organisation et les critères nationaux de validation de cette formation ainsi que les dispenses de formation qui peuvent être accordées si l'assistant familial justifie d'une formation antérieure équivalente.
