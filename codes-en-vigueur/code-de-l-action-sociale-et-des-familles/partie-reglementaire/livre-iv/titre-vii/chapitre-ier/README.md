@@ -11,4 +11,8 @@
 - [Article D471-18](article-d471-18.md)
 - [Article D471-19](article-d471-19.md)
 - [Article R471-2](article-r471-2.md)
+- [Article R471-5](article-r471-5.md)
+- [Article R471-5-1](article-r471-5-1.md)
+- [Article R471-5-2](article-r471-5-2.md)
+- [Article R471-5-3](article-r471-5-3.md)
 - [Article R471-9](article-r471-9.md)
