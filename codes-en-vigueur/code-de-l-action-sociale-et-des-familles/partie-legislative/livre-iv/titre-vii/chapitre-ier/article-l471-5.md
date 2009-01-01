@@ -1,0 +1,5 @@
+# Article L471-5
+
+Le coût des mesures exercées par les mandataires judiciaires à la protection des majeurs et ordonnées par l'autorité judiciaire au titre du mandat spécial auquel il peut être recouru dans le cadre de la sauvegarde de justice ou au titre de la curatelle, de la tutelle ou de la mesure d'accompagnement judiciaire est à la charge totale ou partielle de la personne protégée en fonction de ses ressources. Lorsqu'il n'est pas intégralement supporté par la personne protégée, il est pris en charge dans les conditions fixées par les articles L. 361-1, L. 472-3 et L. 472-9.
+
+A titre exceptionnel, le juge peut, après avoir recueilli l'avis du procureur de la République, allouer au mandataire judiciaire à la protection des majeurs, pour l'accomplissement d'un acte ou d'une série d'actes requis par l'exercice de la mesure de protection et impliquant des diligences particulièrement longues ou complexes, une indemnité en complément des sommes perçues au titre du premier alinéa lorsqu'elles s'avèrent manifestement insuffisantes. Cette indemnité est à la charge de la personne et est fixée par le juge en application d'un barème national établi par décret.

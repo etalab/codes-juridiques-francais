@@ -6,3 +6,4 @@
 - [Titre IV : Particuliers accueillant des personnes âgées ou handicapées](titre-iv)
 - [Titre V : Formation des travailleurs sociaux](titre-v)
 - [Titre VI : Reconnaissance des qualifications professionnelles](titre-vi)
+- [Titre VII : Mandataires judiciaires à la protection des majeurs et délégués aux prestations familiales](titre-vii)

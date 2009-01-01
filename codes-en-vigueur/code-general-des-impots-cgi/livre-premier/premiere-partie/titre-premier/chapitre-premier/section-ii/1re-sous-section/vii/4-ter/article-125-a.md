@@ -10,9 +10,7 @@ Les revenus de source étrangère mentionnés au premier alinéa sont retenus po
 
 II. Pour les catégories de placements définies par arrêté du ministre de l'économie et des finances, le débiteur peut offrir au public des placements dont les produits sont, dans tous les cas, soumis au prélèvement libératoire sauf, si le créancier est une personne physique, option expresse de sa part pour l'imposition de droit commun.
 
-II bis. Le prélèvement est applicable dans tous les cas aux produits des sommes inscrites aux comptes spéciaux sur livrets ouverts à leurs déposants par les caisses de crédit mutuel non agricole régies par les articles L. 512-55 à L. 512-59 du code monétaire et financier et fonctionnant conformément aux dispositions du décret n° 62-1305 du 6 novembre 1962.
-
-Il est assis sur le tiers de ces produits.
+II bis. (Abrogé)
 
 III. Le prélèvement est obligatoirement applicable aux revenus visés ci-dessus, dont le débiteur est établi ou domicilié en France, qui sont encaissés par des personnes n'ayant pas en France leur domicile fiscal ou leur siège social.
 

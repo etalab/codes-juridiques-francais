@@ -5,4 +5,4 @@
 - [Chapitre II : Familles et aide sociale à l'enfance.](chapitre-ii)
 - [Chapitre III : Familles et aide sociale à l'enfance.](chapitre-iii)
 - [Chapitre IV : Dispositions communes.](chapitre-iv)
-- [Chapitre V : Dispositions communes.](chapitre-v)
+- [Chapitre V : Personnes handicapées.](chapitre-v)

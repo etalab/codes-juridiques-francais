@@ -98,6 +98,10 @@ _Mission : relations avec les collectivités territoriales_
 
 121-01 Action : aides à l'équipement des régions.
 
+122 Programme : concours spécifiques et administration.
+
+122-03 Action : dotation générale de décentralisation
+
 _Mission : santé_
 
 171 Programme : offre de soins et qualité du système de soins.
