@@ -10,4 +10,4 @@ Peuvent en outre accéder aux données mentionnées à l'article L. 225-4, dans 
 
 - les agents des services de renseignement du ministère de la défense chargés des missions de prévention des actes de terrorisme.
 
-Les dispositions prévues aux troisième, quatrième et cinquième alinéas sont applicables jusqu'au 31 décembre 2008.
+Les dispositions prévues aux troisième, quatrième et cinquième alinéas sont applicables jusqu'au 31 décembre 2012.

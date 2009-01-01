@@ -18,4 +18,4 @@ III. - Peuvent également accéder aux données à caractère personnel enregist
 
 2° Les agents des services de renseignement du ministère de la défense, chargés des missions de prévention des actes de terrorisme, individuellement désignés et spécialement habilités par le directeur général de la sécurité extérieure, le directeur de la protection et de la sécurité de la défense ou le directeur du renseignement militaire.
 
-IV. - Les dispositions du III sont applicables jusqu'au 31 décembre 2008.
+IV. - Les dispositions du III sont applicables jusqu'au 31 décembre 2012.
