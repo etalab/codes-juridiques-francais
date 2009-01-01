@@ -1,4 +1,4 @@
-# Article L140-4
+# Article L141-5
 
 Les agents des services financiers, ainsi que les commissaires aux comptes des organismes contrôlés, sont déliés du secret professionnel à l'égard des magistrats, conseillers maîtres en service extraordinaire et rapporteurs de la Cour des comptes, à l'occasion des enquêtes que ceux-ci effectuent dans le cadre de leurs attributions.
 

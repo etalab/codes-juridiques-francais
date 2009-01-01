@@ -1,4 +1,4 @@
-# Article L140-1
+# Article L141-1
 
 La Cour des comptes est habilitée à se faire communiquer tous documents, de quelque nature que ce soit, relatifs à la gestion des services et organismes soumis à son contrôle.
 

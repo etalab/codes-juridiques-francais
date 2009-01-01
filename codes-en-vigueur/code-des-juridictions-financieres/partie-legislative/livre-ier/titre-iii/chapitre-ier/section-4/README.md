@@ -8,4 +8,3 @@
 - [Article L131-10](article-l131-10.md)
 - [Article L131-11](article-l131-11.md)
 - [Article L131-12](article-l131-12.md)
-- [Article L131-13](article-l131-13.md)
