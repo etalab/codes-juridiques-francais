@@ -1,9 +1,6 @@
 # Sous-section 5 : Etablissement du rapport de recherche
 
-- [Article R612-53](article-r612-53.md)
-- [Article R612-54](article-r612-54.md)
 - [Article R612-55](article-r612-55.md)
-- [Article R612-56](article-r612-56.md)
 - [Article R612-56-1](article-r612-56-1.md)
 - [Article R612-57](article-r612-57.md)
 - [Article R612-58](article-r612-58.md)

@@ -2,4 +2,3 @@
 
 - [Chapitre II : Produits semi-conducteurs](chapitre-ii)
 - [Chapitre III : Obtentions végétales](chapitre-iii)
-- [Chapitre IV : Transferts techniques internationaux](chapitre-iv)

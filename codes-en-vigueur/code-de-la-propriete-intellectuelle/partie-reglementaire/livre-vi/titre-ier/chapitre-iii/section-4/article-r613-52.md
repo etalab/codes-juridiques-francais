@@ -1,6 +1,6 @@
 # Article R613-52
 
-Les recours en restauration prévus aux articles L. 612-16 et L. 613-22 sont présentés au directeur général de l'institut par le titulaire du dépôt, qui doit être le titulaire inscrit au registre national des brevets si le dépôt est publié, ou son mandataire.
+Les recours en restauration prévus aux articles L. 612-16 et L. 612-16-1 sont présentés au directeur général de l'institut par le titulaire du dépôt, qui doit être le titulaire inscrit au registre national des brevets si le dépôt est publié, ou son mandataire.
 
 Le recours n'est recevable qu'après paiement de la redevance prescrite.
 

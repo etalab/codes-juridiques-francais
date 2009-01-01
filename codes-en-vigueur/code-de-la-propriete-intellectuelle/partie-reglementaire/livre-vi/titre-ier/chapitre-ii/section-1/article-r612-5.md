@@ -4,4 +4,4 @@ La demande de brevet doit, dans le mois à compter de la remise des pièces, êt
 
 1° De la redevance de dépôt ;
 
-2° De la redevance de rapport de recherche, à moins que l'établissement de ce dernier n'ait été différé.
+2° De la redevance de rapport de recherche.
