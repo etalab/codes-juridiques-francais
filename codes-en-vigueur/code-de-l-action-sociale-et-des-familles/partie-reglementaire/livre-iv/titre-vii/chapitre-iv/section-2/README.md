@@ -1,0 +1,13 @@
+# Section 2 : Délégués aux prestations familiales à titre individuel.
+
+- [Article R474-16](article-r474-16.md)
+- [Article R474-17](article-r474-17.md)
+- [Article R474-18](article-r474-18.md)
+- [Article R474-19](article-r474-19.md)
+- [Article R474-20](article-r474-20.md)
+- [Article R474-21](article-r474-21.md)
+- [Article R474-22](article-r474-22.md)
+- [Article R474-23](article-r474-23.md)
+- [Article R474-24](article-r474-24.md)
+- [Article R474-25](article-r474-25.md)
+- [Article R474-26](article-r474-26.md)

@@ -1,0 +1,3 @@
+# Article R472-10
+
+Le mandataire judiciaire à la protection des majeurs adresse chaque semestre aux juges concernés une déclaration indiquant le nombre total et la nature des mesures de protection des majeurs qu'il exerce au titre du mandat spécial auquel il peut être recouru dans le cadre de la sauvegarde de justice, de la curatelle, de la tutelle ou de la mesure d'accompagnement judiciaire, ainsi que le nombre de personnes exerçant auprès de lui la fonction de secrétaire spécialisé. Copie de cette déclaration est adressée dans le même délai au préfet. Le modèle de cette déclaration est fixé par arrêté du ministre chargé de la famille.
