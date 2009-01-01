@@ -1,6 +1,6 @@
 # Article R123-198
 
-Les personnes morales ne pouvant adopter une présentation simplifiée de leurs comptes dans les conditions de l'article L. 123-16 et R. 123-200 à R. 123-202 font également figurer dans l'annexe  :
+Les personnes morales ne pouvant adopter une présentation simplifiée de leurs comptes dans les conditions de l'article L. 123-16 et R. 123-200 à R. 123-202 font également figurer dans l'annexe :
 
 1° Le montant des rémunérations allouées au titre de l'exercice aux membres des organes d'administration, de direction et de surveillance à raison de leurs fonctions : ces informations sont données de façon globale pour chaque catégorie ; elles peuvent ne pas être fournies lorsqu'elles permettent d'identifier la situation d'un membre déterminé de ces organes ;
 
@@ -17,3 +17,5 @@ Les personnes morales ne pouvant adopter une présentation simplifiée de leurs 
 7° L'indication des accroissements et des allégements de la dette future d'impôt provenant des décalages dans le temps entre le régime fiscal et le traitement comptable de produits ou de charges et, lorsqu'ils sont d'un montant exceptionnel, de ceux dont la réalisation est éventuelle.
 
 8° Les éléments constitutifs du poste " frais d'établissement " énoncé au premier alinéa de l'article R. 123-186.
+
+9° Le montant total des honoraires des commissaires aux comptes figurant au compte de résultat de l'exercice, en séparant les honoraires facturés au titre du contrôle légal des comptes de ceux facturés au titre des conseils et prestations de services entrant dans les diligences directement liées à la mission de contrôle légal des comptes, telles qu'elles sont définies par les normes d'exercice professionnel mentionnées au II de l'article L. 822-11. Ces informations ne sont pas fournies si la personne morale est incluse dans un périmètre de consolidation et si l'annexe des comptes consolidés les mentionne.
