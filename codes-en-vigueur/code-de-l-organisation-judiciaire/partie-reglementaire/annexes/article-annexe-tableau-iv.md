@@ -9,7 +9,7 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 <p align="center">Siège<br/>du tribunal<br/>de grande instance</p>
 </td>
 <td width="109">
-<p align="center">Siège<br/>du tribunal d'instance et<br/>de la juridiction<br/>de proximité </p>
+<p align="center">Siège<br/>du tribunal d'instance et<br/>de la juridiction<br/>de proximité</p>
 </td>
 <td width="333">
 <p align="center">Ressort</p>
@@ -217,7 +217,7 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 <p>[Forcalquier</p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Banon, Forcalquier, Manosque-Nord, Manosque-Sud-Est, Manosque-Sud-Ouest, Peyruis, Reillanne, Saint-Étienne-les-Orgues et Valensole. (3)]</p>
+<p>Cantons de Banon, Forcalquier, Manosque-Nord, Manosque-Sud-Est, Manosque-Sud-Ouest, Peyruis, Reillanne, Saint-Étienne-les-Orgues et Valensole. (7)]</p>
 </td>
 </tr>
 <tr>
@@ -225,7 +225,7 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 <p>[Manosque</p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Banon, Forcalquier, Manosque-Nord, Manosque-Sud-Est, Manosque-Sud-Ouest, Peyruis, Reillanne, Saint-Étienne-les-Orgues et Valensole. (4)]</p>
+<p>Cantons de Banon, Forcalquier, Manosque-Nord, Manosque-Sud-Est, Manosque-Sud-Ouest, Peyruis, Reillanne, Saint-Étienne-les-Orgues et Valensole. (8)]</p>
 </td>
 </tr>
 <tr>
@@ -1174,7 +1174,7 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 </td>
 </tr>
 <tr>
-<td rowspan="7" valign="top" width="154">
+<td rowspan="5" valign="top" width="154">
 <p>Angoulême</p>
 </td>
 <td valign="top" width="109">
@@ -1190,22 +1190,6 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 </td>
 <td valign="top" width="333">
 <p>Cantons d'Aigre, Angoulême-Est, Angoulême-Nord, Angoulême Ouest, Blanzac-Porcheresse, Chabanais, Champagne-Mouton, Confolens-Nord, Confolens-Sud, Gond-Pontouvre, Hiersac, La Couronne, La Rochefoucauld, Mansle, Montbron, Montemboeuf, Rouillac, Ruelle-sur-Touvre, Ruffec, Saint-Amant-de-Boixe, Saint-Claud, Soyaux, Villebois-Lavalette et Villefagnan. (4)]</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Barbezieux-Saint-Hilaire</p>
-</td>
-<td valign="top" width="333">
-<p>Cantons d'Aubeterre-sur-Dronne, Baignes-Sainte-Radegonde, Barbezieux-Saint-Hilaire, Brossac, Chalais et Montrnoreau-Saint-Cybard. (1)]</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Cognac</p>
-</td>
-<td valign="top" width="333">
-<p>Cantons de Châteauneuf-sur-Charente, Cognac-Nord, Cognac-Sud, Jarnac et Segonzac. (1)]</p>
 </td>
 </tr>
 <tr>
@@ -2199,7 +2183,7 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 <p>[Chalon-sur-Saône</p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Buxy, Chagny, Chalon-sur-S aône-Centre, Chalon-sur-Saône-Nord, Chalon-sur-Saône-Ouest, Chalon-sur-Saône-Sud, Givry, Saint-Germain-du-Plain, Saint-Martin-en-Bresse, Sennecey-le-Grand et Verdun-sur-le-Doubs. (3)]</p>
+<p>Cantons de Buxy, Chagny, Chalon-sur-Saône-Centre, Chalon-sur-Saône-Nord, Chalon-sur-Saône-Ouest, Chalon-sur-Saône-Sud, Givry, Saint-Germain-du-Plain, Saint-Martin-en-Bresse, Sennecey-le-Grand et Verdun-sur-le-Doubs. (3)]</p>
 </td>
 </tr>
 <tr>
@@ -2535,7 +2519,7 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 <p>Cayenne</p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Approuague-Kaw, Cayenne 1,r canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura, Saint-Georges Oyapoc, Saint-Laurent-du-Maroni et Sinnamary.</p>
+<p>Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura, Saint-Georges Oyapoc, Saint-Laurent-du-Maroni et Sinnamary.</p>
 </td>
 </tr>
 <tr>
@@ -2804,17 +2788,9 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 </td>
 </tr>
 <tr>
-<td rowspan="4" valign="top" width="154">
+<td rowspan="2" valign="top" width="154">
 <p>Guéret</p>
 </td>
-<td valign="top" width="109">
-<p>[Aubusson</p>
-</td>
-<td valign="top" width="333">
-<p>Cantons d'Aubusson, Auzances, Bellegarde-en-Marche, Chambon sur-Voueize, Chénérailles, Crocq, Évaux-les-Bains, Felletin, Gentioux-Pigerolles, La Courtine et Saint-Sulpice-les-Champs. (3)]</p>
-</td>
-</tr>
-<tr>
 <td valign="top" width="109">
 <p>[Bourganeuf</p>
 </td>
@@ -2827,15 +2803,7 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 <p>[Guéret</p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Ahun, Bonnat, Boussac, Châtelus-Malvaleix, Dun-le-Palestel, Guéret-Nord, Guéret-Sud-Est, Guéret-Sud-Ouest, Jarnages, La Souterraine, Le Grand-Bourg et Saint-Vaury. (3)]</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Guéret</p>
-</td>
-<td valign="top" width="333">
-<p>Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche, Bénévent-l'Abbaye, Bonnat, Bourganeuf, Boussac, Chambon-sur-Voueize, Châtelus-Malvaleix Chénérailles, Crocq, Dun-le-Palestel, Évaux-les-Bains, Felletin, Gentioux-Pigerolles, Guéret-Nord, Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La Courtine, La Souterraine, Le Grand-Bourg, Pontarion, Royère-de-Vassivière, Saint-Sulpice-les Champs et Saint-Vaury. (4)]</p>
+<p>Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche, Bénévent-l'Abbaye, Bonnat, Bourganeuf, Boussac, Chambon-sur-Voueize, Châtelus-Malvaleix Chénérailles, Crocq, Dun-le-Palestel, Évaux-les-Bains, Felletin, Gentioux-Pigerolles, Guéret-Nord, Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La Courtine, La Souterraine, Le Grand-Bourg, Saint-Sulpice-les Champs et Saint-Vaury. (2 et 3)]</p>
 </td>
 </tr>
 <tr>
@@ -2900,7 +2868,7 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 </tr>
 <tr>
 <td valign="top" width="154">
-<p>[Belley (5)]</p>
+<p>[Belley (9)]</p>
 </td>
 <td valign="top" width="109">
 <p>Belley</p>
@@ -2922,7 +2890,7 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>[Belley (6)]</p>
+<p>[Belley (10)]</p>
 </td>
 <td valign="top" width="333">
 <p>Cantons d'Ambérieu-en-Bugey, Belley, Champagne-en-Valromey, Hauteville-Lompnes, Lagnieu, Lhuis, Saint-Rambert-en-Bugey, Seyssel et Virieu-le-Grand.</p>
@@ -3219,7 +3187,7 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 </tr>
 <tr>
 <td rowspan="3" valign="top" width="154">
-<p>[Millau (5)]</p>
+<p>[Millau (9)]</p>
 </td>
 <td valign="top" width="109">
 <p>[Millau</p>
@@ -3257,7 +3225,7 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>[Millau (6)]</p>
+<p>[Millau (10)]</p>
 </td>
 <td valign="top" width="333">
 <p>Cantons de Belmont-sur-Rance, Camarès, Campagnac, Cornus, Millau-Est, Millau-Ouest, Nant, Peyreleau, Saint-Affrique, Saint-Beauzély, Saint-Rome-de-Tarn, Saint-Sernin-sur-Rance, Salles-Curan, Sévérac-le-Château et Vézins-de-Lévézou.</p>
@@ -3515,22 +3483,14 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 </td>
 </tr>
 <tr>
-<td rowspan="6" valign="top" width="154">
+<td rowspan="4" valign="top" width="154">
 <p>Epinal</p>
 </td>
 <td valign="top" width="109">
 <p>[Epinal</p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Bains-les-Bains, Bruyères, Châtel-sur-Moselle, Épinal-Est, Épinal-Ouest, Rambervillers et Xertigny. (3)]</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Epinal</p>
-</td>
-<td valign="top" width="333">
-<p>Cantons de Bains-les-Bains, Bruyères, Bulgnéville, Charmes, Châtel-sur-Moselle, Châtenois, Coussey, Darney, Dompaire, Épinal-Est, Épinal-Ouest, Lamarche, Le Thillot, Mirecourt, Monthureux-sur-Saône, Neufchâteau, Plombières-les-Bains, Rambervillers, Remiremont, Saulxures-sur-Moselotte, Vittel et Xertigny. (4)]</p>
+<p>Cantons de Bains-les-Bains, Bruyères, Bulgnéville, Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est, Épinal-Ouest, Lamarche, Neufchâteau, Rambervillers et Xertigny. (2 et 3)]</p>
 </td>
 </tr>
 <tr>
@@ -3539,14 +3499,6 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 </td>
 <td valign="top" width="333">
 <p>Cantons de Charmes, Darney, Dompaire, Mirecourt, Monthureux-sur-Saône et Vittel. (3)]</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Neufchâteau</p>
-</td>
-<td valign="top" width="333">
-<p>Cantons de Bulgnéville, Châtenois, Coussey, Larnarche et Neufchâteau. (3)]</p>
 </td>
 </tr>
 <tr>
@@ -3857,30 +3809,14 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top" width="154">
+<td valign="top" width="154">
 <p>Orléans</p>
 </td>
 <td valign="top" width="109">
 <p>[Orléans</p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Artenay, Beaugency, Châteauneuf-sur-Loire, Chécy, Cléry Saint-André, Fleury-les-Aubrais, Ingré, Jargeau, La Ferté-Saint-Aubin, Meung-sur-Loire, Neuville-aux-Bois, Olivet, Orléans-Bannier, Orléans-Bourgogne, Orléans-Carmes, Orléans-La Source, Orléans Saint-Marc-Argonne, Orléans-Saint-Marceau, Patay, Saint-Jean-de-Braye, Saint-Jean-de-la-Ruelle et Saint-Jean-le-Blanc. (3)]</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Orléans</p>
-</td>
-<td valign="top" width="333">
-<p>Cantons d'Artenay, Beaugency, Beaune-la-Rolande, Châteauneuf-sur-Loire, Chécy, Cléry-Saint-André, Fleury-les-Aubrais, Ingré, Jargeau, La Ferté-Saint-Aubin, Malesherbes, Meung-sur-Loire, Neuville-aux Bois, Olivet, Orléans-Bannier, Orléans-Bourgogne, Orléans-Carmes, Orléans-La Source, Orléans-Saint-Marc-Argonne, Orléans-Saint-Marceau, Outarville, Patay, Pithiviers, Puiseaux, Saint-Jean-de-Braye, Saint-Jean-de-la-Ruelle et Saint-Jean-le-Blanc. (4)]</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Pithiviers</p>
-</td>
-<td valign="top" width="333">
-<p>Cantons de Beaune-la-Rolande, Malesherbes, Outarville, Pithiviers et Puiseaux. (3)]</p>
+<p>Cantons d'Artenay, Beaugency, Beaune-la-Rolande, Châteauneuf-sur-Loire, Chécy, Cléry-Saint-André, Fleury-les-Aubrais, Ingré, Jargeau, La Ferté-Saint-Aubin, Malesherbes, Meung-sur-Loire, Neuville-aux Bois, Olivet, Orléans-Bannier, Orléans-Bourgogne, Orléans-Carmes, Orléans-La Source, Orléans-Saint-Marc-Argonne, Orléans-Saint-Marceau, Outarville, Patay, Pithiviers, Puiseaux, Saint-Jean-de-Braye, Saint-Jean-de-la-Ruelle et Saint-Jean-le-Blanc. (2)]</p>
 </td>
 </tr>
 <tr>
@@ -3920,7 +3856,7 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 <p>[Vendôme</p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1er canton et Vendôme 2e canton. (3)]</p>
+<p>Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1`t canton et Vendôme 2e canton. (3)]</p>
 </td>
 </tr>
 <tr>
@@ -4522,7 +4458,7 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 <p>[Mont-de-Marsan</p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Gabarret, Grenade-sur-l'Adour, Labrit, Mimizan, Mont de-Marsan-Nord, Mont-de-Marsan-Sud, Morcenx, Parentis-en-Born, Pissos, Roquefort, Sabres, Sore et Villeneuve-de-Marsan. (3)]</p>
+<p>Cantons de Gabarret, Grenade-sur-l'Adour, Labrit, Mimizan, Mont-de-Marsan-Nord, Mont-de-Marsan-Sud, Morcenx, Parentis-en-Born, Pissos, Roquefort, Sabres, Sore et Villeneuve-de-Marsan. (7)]</p>
 </td>
 </tr>
 <tr>
@@ -4530,7 +4466,7 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 <p>[Mont-de-Marsan</p>
 </td>
 <td valign="top" width="333">
-<p>Emprise de l'aérodrome d'Aire-sur-l'Adour et cantons d'Aire-sur-l'Adour, Gabarret, Geaune, Grenade-sur-l'Adour, Hagetmau, Labrit, Mimizan, Mont-de-Marsan-Nord, Mont-de-Marsan-Sud, Morcenx, Parentis-en-Born, Pissos, Roquefort, Sabres, Saint-Sever, Sore et Villeneuve-de-Marsan. (4)]</p>
+<p>Emprise de l'aérodrome d'Aire-sur-l'Adour et cantons d'Aire-sur-l'Adour, Gabarret, Geaune, Grenade-sur-l'Adour, Hagetmau, Labrit, Mimizan, Mont-de-Marsan-Nord, Mont-de-Marsan-Sud, Morcenx, Parentis-en-Born, Pissos, Roquefort, Sabres, Saint-Sever, Sore et Villeneuve-de-Marsan. (8)]</p>
 </td>
 </tr>
 <tr>
@@ -4538,7 +4474,7 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 <p>[Saint-Sever</p>
 </td>
 <td valign="top" width="333">
-<p>Emprise de l'aérodrome d'Aire-sur-l'Adour et cantons d'Aire-sur-l'Adour, Geaune, Hagetmau, Saint-Sever. (3)]</p>
+<p>Emprise de l'aérodrome d'Aire-sur-l'Adour et cantons d'Aire-sur-l'Adour, Geaune, Hagetmau, Saint-Sever. (7)]</p>
 </td>
 </tr>
 <tr>
@@ -6008,38 +5944,23 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 </td>
 </tr>
 <tr>
-<td rowspan="4" valign="top" width="154">
+<td valign="top" width="154">
 <p>Montauban</p>
 </td>
 <td valign="top" width="109">
 <p>[Castelsarrasin</p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Beaumont-de-Lomagne, Castelsarrasin 1er canton, Castelsarrasin 2e canton, Grisolles, Lavit, Montech, Saint-Nicolas-de-la-Grave et Verdun-sur-Garonne. (3)]</p>
+<p>Cantons d'Auvillar, Beaumont-de-Lomagne, Bourg-de-Visa, Castelsarrasin 1er canton, Castelsarrasin 2e canton, Grisolles, Lauzerte, Lavit, Moissac 1er canton, Moissac 2e canton, Montaigu-de-Quercy, Montech, Saint-Nicolas-de-la-Grave, Valence et Verdun-sur-Garonne. (2)]</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="109">
-<p>[Castelsarrasin</p>
+<td/>
+<td>
+<em>Montauban</em>
 </td>
-<td valign="top" width="333">
-<p>Cantons d'Auvillar, Beaumont-de-Lomagne, Bourg-de-Visa, Castelsarrasin 1er canton, Castelsarrasin 2e canton, Grisolles, Lauzerte, Lavit, Moissac 1er canton, Moissac 2e canton, Montaigu-de-Quercy, Montech, Saint-Nicolas-de-la-Grave, Valence et Verdun-sur-Garonne. (4)]</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Moissac</p>
-</td>
-<td valign="top" width="333">
-<p>Cantons d'Auvillar, Bourg-de-Visa, Lauzerte, Moissac 1er canton, Moissac 2e canton, Montaigu-de-Quercy et Valence. (3)]</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>Montauban</p>
-</td>
-<td valign="top" width="333">
-<p>Cantons de Caussade, Caylus, Lafrançaise, Molières, Monclar-de-Quercy, Montauban 1er canton, Montauban 2e canton, Montauban 3e canton, Montauban 4e canton, Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy, Nègrepelisse, Saint-Antonin-Noble Val et Villebrumier.</p>
+<td>
+<em>Cantons de Caussade, Caylus, Lafrançaise, Molières, Monclar-de-Quercy, Montauban, 1er canton, Montauban 2e canton, Montauban 3ème canton, Montauban 4ème canton, Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy, Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier. (nota)</em>
 </td>
 </tr>
 <tr>
@@ -6411,7 +6332,9 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 </tr>
 </tbody>
 </table>
-</div>..
+</div>
+
+..
 
 <table>
 <tbody>
@@ -6462,8 +6385,6 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 </tbody>
 </table>
 
-(1) applicable jusqu'au 31 décembre 2008.
-
 (2) applicable à compter du 1er janvier 2009.
 
 (3) applicable jusqu'au 31 décembre 2009.
@@ -6473,3 +6394,11 @@ Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tr
 (5) applicable jusqu'au 31 décembre 2010.
 
 (6) applicable à compter du 1er janvier 2011.
+
+(7) applicable jusqu'au 31 janvier 2009.
+
+(8) applicable à compter du 1er février 2009.
+
+(9) applicable jusqu'au 30 septembre 2009.
+
+(10) applicable à compter du 1er octobre 2009.

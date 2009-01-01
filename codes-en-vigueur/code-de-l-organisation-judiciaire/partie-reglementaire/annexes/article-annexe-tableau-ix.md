@@ -95,7 +95,7 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 <p>[Digne-les-Bains</p>
 </td>
 <td width="314">
-<p>Ressort des tribunaux d'instance de Barcelonnette, Digne-les-Bains et Forcalquier. (3)]</p>
+<p>Ressort des tribunaux d'instance de Barcelonnette, Digne-les-Bains et Forcalquier. (7)]</p>
 </td>
 </tr>
 <tr>
@@ -103,7 +103,7 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 <p>[Digne-les-Bains</p>
 </td>
 <td width="314">
-<p>Ressort des tribunaux d'instance de Digne-les-Bains et Manosque. (4)]</p>
+<p>Ressort des tribunaux d'instance de Barcelonnette, Digne-les-Bains et Manosque. (8)]</p>
 </td>
 </tr>
 <tr>
@@ -546,14 +546,6 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 <p>[Angoulême</p>
 </td>
 <td width="314">
-<p>Ressort des tribunaux d'instance d'Angoulême, Barbezieux Saint-Hilaire, Cognac, Confolens et Ruffec. (1)]</p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>[Angoulême</p>
-</td>
-<td width="314">
 <p>Ressort des tribunaux d'instance d'Angoulême, Cognac, Confolens et Ruffec. (2 et 3)]</p>
 </td>
 </tr>
@@ -739,7 +731,7 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td colspan="2" width="614">
 <p align="center">Orne</p>
 </td>
 </tr>
@@ -1295,15 +1287,13 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 <p>[Guéret</p>
 </td>
 <td width="314">
-<p>Ressort des tribunaux d'instance d'Aubusson, Bourganeuf et Guéret. (3)]</p>
+<p>Ressort des tribunaux d'instance d'Aubusson, Bourganeuf et Guéret. (1)]</p>
 </td>
 </tr>
 <tr>
-<td width="300">
-<p>[Guéret</p>
+<td>[Guéret <br/>
 </td>
-<td width="314">
-<p>Ressort du tribunal d'instance de Guéret. (4)]</p>
+<td>Ressort des tribunaux d'instance de Bourganeuf et Guéret. (2 et 3)] <br/>
 </td>
 </tr>
 <tr>
@@ -1655,16 +1645,13 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 <p>[Epinal</p>
 </td>
 <td width="314">
-<p>Ressort des tribunaux d'instance d'Epinal, Mirecourt, Neufchâteau, Remiremont et Saint-Dié-des-Vosges. (3)]</p>
+<p>Ressort des tribunaux d'instance d'Epinal, Mirecourt, Neufchâteau, Remiremont et Saint-Dié-des-Vosges. (1)]</p>
 </td>
 </tr>
 <tr>
-<td width="300">
-<p>[Epinal</p>
+<td>[Epinal <br/>
 </td>
-<td width="314">
-<p>Ressort des tribunaux d'instance d'Epinal et Saint-Dié-des-Vosges. (4)]</p>
-</td>
+<td>Ressort des tribunaux d'instance d'Epinal, Mirecourt, Remiremont et Saint-Dié-des-Vosges. (2 et 3)]</td>
 </tr>
 <tr>
 <td colspan="2" width="614">
@@ -1877,7 +1864,7 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td colspan="2" width="614">
 <p align="center">Loiret</p>
 </td>
 </tr>
@@ -1898,19 +1885,16 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 </td>
 </tr>
 <tr>
-<td width="300">
-<p>[Orléans</p>
+<td>[Orléans <br/>
 </td>
-<td width="314">
-<p>Ressort des tribunaux d'instance d'Orléans et Pithiviers. (3)]</p>
-</td>
+<td>Ressort des tribunaux d'instance d'Orléans et Pithiviers. (1)] </td>
 </tr>
 <tr>
 <td width="300">
 <p>[Orléans</p>
 </td>
 <td width="314">
-<p>Ressort du tribunal d'instance d'Orléans. (4)]</p>
+<p>Ressort du tribunal d'instance d'Orléans. (2)]</p>
 </td>
 </tr>
 <tr>
@@ -2411,11 +2395,9 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 </td>
 </tr>
 <tr>
-<td width="300">
-<p>[Mont-de-Marsan</p>
+<td>[Mont-de-Marsan <br/>
 </td>
-<td width="314">
-<p>Ressort des tribunaux d'instance de Mont-de-Marsan et Saint-Sever. (3)]</p>
+<td>Ressort des tribunaux d'instance de Mont-de-Marsan et Saint-Sever. (7)] <br/>
 </td>
 </tr>
 <tr>
@@ -2423,7 +2405,7 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 <p>[Mont-de-Marsan</p>
 </td>
 <td width="314">
-<p>Ressort du tribunal d'instance de Mont-de-Marsan. (4)]</p>
+<p>Ressort du tribunal d'instance de Mont-de-Marsan. (8)]</p>
 </td>
 </tr>
 <tr>
@@ -3146,15 +3128,13 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 <p>[Montauban</p>
 </td>
 <td width="314">
-<p>Ressort des tribunaux d'instance de Castelsarrasin, Moissac et Montauban. (3)]</p>
+<p>Ressort des tribunaux d'instance de Castelsarrasin, Moissac et Montauban. (1)]</p>
 </td>
 </tr>
 <tr>
-<td width="300">
-<p>[Montauban</p>
+<td>[Montauban <br/>
 </td>
-<td width="314">
-<p>Ressort des tribunaux d'instance de Castelsarrasin et Montauban. (4)]</p>
+<td>Ressort des tribunaux d'instance de Castelsarrasin et Montauban. (2)] <br/>
 </td>
 </tr>
 <tr>
@@ -3396,12 +3376,14 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 </tr>
 <tr>
 <td colspan="2" width="614">
-<p align="left">(1) applicable jusqu'au 31 décembre 2008. </p>
+<p align="left">(1) Applicable jusqu'au 31 décembre 2008. </p>
 <p align="left">(2) applicable à compter du 1er janvier 2009. </p>
 <p align="left">(3) applicable jusqu'au 31 décembre 2009. </p>
 <p align="left">(4) applicable à compter du 1er janvier 2010 </p>
 <p align="left">(5) applicable jusqu'au 31 décembre 2010 </p>
 <p align="left">(6) applicable à compter du 1er janvier 2011.</p>
+<p align="left">(7) applicable jusqu'au 31 janvier 2009</p>
+<p align="left">(8) applicable à compter du 1er février 2009</p>
 </td>
 </tr>
 </tbody>
