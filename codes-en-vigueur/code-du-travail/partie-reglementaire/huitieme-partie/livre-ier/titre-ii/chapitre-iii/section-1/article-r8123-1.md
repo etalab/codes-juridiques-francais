@@ -1,6 +1,6 @@
 # Article R8123-1
 
-Le médecin inspecteur du travail concourt à l'ensemble des missions des services déconcentrés relevant des ministres chargés du travail, de l'emploi et de la formation professionnelle ainsi que de ceux relevant du ministre chargé de l'agriculture.
+Le médecin inspecteur du travail concourt à l'ensemble des missions des services déconcentrés relevant des ministres chargés du travail, de l'emploi et de la formation professionnelle.
 
 A ce titre, il formule les avis et prend les décisions prévues par les dispositions légales.
 
