@@ -1,73 +1,78 @@
 # Article Annexe 6-3
 
-JURIDICTIONS COMPÉTENTES DANS LES DÉPARTEMENTS D'OUTRE-MER POUR CONNAÎTRE, EN APPLICATION DE L'ARTICLE L. 610-1,
+Juridictions compétentes dans les départements d'outre-mer pour connaître, en application de l'article L. 610-1,
 
-DES PROCÉDURES APPLICABLES AUX COMMERÇANTS ET ARTISANS
+des procédures applicables aux commerçants et artisans
 
 <table>
 <tbody>
 <tr>
-<td width="189">
+<td>
 <p align="center">DÉPARTEMENT</p>
 </td>
-<td width="227">
+<td>
 <p align="center">JURIDICTION</p>
 </td>
-<td width="302">
+<td colspan="2">
 <p align="center">RESSORT</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="189">
-<p>Guadeloupe.</p>
+<td align="center">
+<p align="left">Guadeloupe <br/>
+</p>
 </td>
-<td valign="top" width="227">
-<p>Tribunal mixte de commerce de Pointe-à-Pitre.</p>
+<td align="center">
+<p align="left">Tribunal mixte de commerce de Pointe-à-Pitre <br/>
+</p>
 </td>
-<td valign="top" width="302">
-<p>Le département.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="189">
-<p>Guyane.</p>
-</td>
-<td valign="top" width="227">
-<p>Tribunal mixte de commerce de Cayenne.</p>
-</td>
-<td valign="top" width="302">
-<p>Le département.</p>
+<td align="center">
+<p align="left">Le département <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="189">
-<p>Martinique.</p>
+<td align="center">
+<p align="left">Guyane <br/>
+</p>
 </td>
-<td valign="top" width="227">
-<p>Tribunal mixte de commerce de Fort-de-France.</p>
+<td align="center">
+<p align="left">Tribunal mixte de commerce de Cayenne <br/>
+</p>
 </td>
-<td valign="top" width="302">
-<p>Le département.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="189">
-<p>Réunion.</p>
-</td>
-<td valign="top" width="227">
-<p>Tribunal mixte de commerce de Saint-Denis.</p>
-</td>
-<td valign="top" width="302">
-<p>Ressort du tribunal mixte de commerce.</p>
+<td align="center">
+<p align="left">Le département <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="189"/>
-<td valign="top" width="227">
-<p>TGI de Saint-Pierre.</p>
+<td align="center">
+<p align="left">Martinique <br/>
+</p>
 </td>
-<td valign="top" width="302">
-<p>Ressort du TGI.</p>
+<td align="center">
+<p align="left">Tribunal mixte de commerce de Fort-de-France <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">Le département <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">La Réunion <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Tribunal mixte de commerce de Saint-Denis </p>
+<p align="left">Tribunal mixte de commerce de Saint-Pierre <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Ressort du tribunal mixte de commerce </p>
+<p align="left">Ressort du tribunal mixte de commerce<br/>
+</p>
 </td>
 </tr>
 </tbody>
