@@ -1,0 +1,5 @@
+# Article L421-4
+
+L'agrément de l'assistant maternel précise le nombre et l'âge des mineurs qu'il est autorisé à accueillir simultanément ainsi que les horaires de l'accueil. Le nombre des mineurs accueillis simultanément ne peut être supérieur à quatre y compris le ou les enfants de moins de trois ans de l'assistant maternel présents à son domicile, dans la limite de six mineurs de tous âges au total. Toutefois, le président du conseil général peut, si les conditions d'accueil le permettent et à titre dérogatoire, autoriser l'accueil de plus de quatre enfants simultanément, dans la limite de six enfants au total pour répondre à des besoins spécifiques. Lorsque le nombre de mineurs fixé par l'agrément est inférieur à quatre, le président du conseil général peut modifier celui-ci pour augmenter le nombre de mineurs que l'assistant maternel est autorisé à accueillir simultanément, dans la limite de quatre mineurs et dans les conditions mentionnées ci-dessus.
+
+Les modalités du contrôle auquel sont soumis les assistants maternels sont définies par décret en Conseil d'Etat.
