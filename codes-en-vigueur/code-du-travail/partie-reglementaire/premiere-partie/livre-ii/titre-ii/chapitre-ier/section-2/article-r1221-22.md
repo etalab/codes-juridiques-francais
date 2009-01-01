@@ -1,6 +1,6 @@
 # Article R1221-22
 
-L'Agence nationale pour l'emploi est destinataire, dans les conditions prévues aux articles 3 et 6 du décret n° 98-252 du 1er avril 1998 relatif à la déclaration unique d'embauche, des informations suivantes portées sur la déclaration unique d'embauche par l'employeur :
+L'     institution mentionnée à l'article L. 5312-1 du code du travail  est destinataire, dans les conditions prévues aux articles 3 et 6 du décret n° 98-252 du 1er avril 1998 relatif à la déclaration unique d'embauche, des informations suivantes portées sur la déclaration unique d'embauche par l'employeur :
 
 1° Les éléments d'identification de l'employeur ;
 

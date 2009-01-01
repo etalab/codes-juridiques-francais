@@ -8,9 +8,9 @@ Outre les matières énumérées à l'article L. 522-4 et à l'article L. 522-18
 
 3° La mise en place d'un dispositif d'évaluation indépendante et régulière des actions d'insertion ;
 
-4° La convention de coopération avec l'Agence nationale pour l'emploi, prévue à l'article R. 522-9 ;
+4° La convention de coopération avec l'     institution mentionnée à l'article L. 5312-1 du code du travail , prévue à l'article R. 522-9 ;
 
-5° Le rapport annuel d'activité, qui rend compte des actions entreprises, de l'utilisation des crédits et des résultats obtenus dans le cadre de l'exécution du programme départemental d'insertion, du programme annuel de tâches d'utilité sociale et de la convention mentionnée au 4°  ;
+5° Le rapport annuel d'activité, qui rend compte des actions entreprises, de l'utilisation des crédits et des résultats obtenus dans le cadre de l'exécution du programme départemental d'insertion, du programme annuel de tâches d'utilité sociale et de la convention mentionnée au 4° ;
 
 6° Le compte financier ;
 

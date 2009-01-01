@@ -1,6 +1,6 @@
 # Article R6341-37
 
-Lorsqu'il s'agit de stages agréés par l'Etat et que la gestion de la rémunération est assurée par l'une des institutions mentionnées à l'article L. 5427-1 ou par l'Association nationale pour la formation professionnelle des adultes, le préfet, saisi par l'institution ou l'association :
+Lorsqu'il s'agit de stages agréés par l'Etat et que la gestion de la rémunération est assurée par l'institution mentionnée à l'article L. 5312-1 ou par l'Association nationale pour la formation professionnelle des adultes, le préfet, saisi par l'institution ou l'association :
 
 1° Prononce les décisions de rejet relatives à la prise en charge ;
 

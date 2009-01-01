@@ -8,7 +8,7 @@ a) Le trésorier-payeur général ;
 
 b) Le directeur du travail, de l'emploi et de la formation professionnelle ;
 
-c) Le directeur délégué de l'Agence nationale pour l'emploi ;
+c) Le directeur délégué de l'     institution mentionnée à l'article L. 5312-1 du code du travail  ;
 
 d) Le directeur de l'agriculture et de la forêt ;
 

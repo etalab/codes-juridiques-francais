@@ -1,3 +1,3 @@
 # Article R5427-1
 
-L'organisme gestionnaire du régime d'assurance chômage communique aux organismes de sécurité sociale les renseignements nécessaires à la garantie des droits sociaux des bénéficiaires du revenu de remplacement.
+L'institution mentionnée à l'article L. 5312-1 communique aux organismes de sécurité sociale les renseignements nécessaires à la garantie des droits sociaux des bénéficiaires du revenu de remplacement.

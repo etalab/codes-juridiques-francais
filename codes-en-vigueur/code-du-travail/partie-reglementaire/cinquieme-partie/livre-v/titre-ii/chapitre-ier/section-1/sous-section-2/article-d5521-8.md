@@ -18,6 +18,6 @@ Sont membres du comité directeur :
 
 8° Le directeur du budget ou son représentant ;
 
-9° Le directeur général de l'Agence nationale pour l'emploi ou son représentant ;
+9° Le directeur général de l'     institution mentionnée à l'article L. 5312-1 du code du travail  ou son représentant ;
 
 10° Le directeur des affaires économiques, sociales et culturelles de l'outre-mer ou son représentant.

@@ -20,7 +20,7 @@ g) Le directeur général de l'enseignement scolaire au ministère de l'éducati
 
 2° Trois directeurs d'établissement public :
 
-a) Le directeur de l'Agence nationale pour l'emploi ;
+a) Le directeur de l'     institution mentionnée à l'article L. 5312-1 du code du travail  ;
 
 b) Le directeur de l'Agence nationale pour l'amélioration des conditions de travail ;
 

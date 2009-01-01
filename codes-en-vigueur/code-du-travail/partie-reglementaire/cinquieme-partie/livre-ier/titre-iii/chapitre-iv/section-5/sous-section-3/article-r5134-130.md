@@ -1,6 +1,6 @@
 # Article R5134-130
 
-Pour l'application des dispositions des articles R. 5425-9 à R. 5425-11 du présent code, R. 262-8 du code de l'action sociale et des familles, R. 524-3 et R. 821-4 du code de la sécurité sociale, le président du conseil général ou l'organisme que ce dernier a chargé du paiement de l'aide à l'employeur ou le CNASEA transmet aux organismes mentionnés à l'article L. 5427-1 du présent code et à l'article L. 262-30 du code de l'action sociale et des famille :
+Pour l'application des dispositions des articles R. 5425-9 à R. 5425-11 du présent code, R. 262-8 du code de l'action sociale et des familles, R. 524-3 et R. 821-4 du code de la sécurité sociale, le président du conseil général ou l'organisme que ce dernier a chargé du paiement de l'aide à l'employeur ou le CNASEA transmet                                  à l'institution mentionnée à l'article L. 5312-1 du code du travail et aux organismes mentionnés à l'article L. 262-30 du code de l'action sociale et des familles  :
 
 1° Les informations nominatives nécessaires à la détermination, au traitement et à la liquidation des droits relatifs à l'allocation :
 

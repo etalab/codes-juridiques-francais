@@ -8,7 +8,7 @@ L'employeur, préalablement à l'embauche en contrat d'avenir, adresse une deman
 
 3° Le président de l'établissement public de coopération intercommunale auquel adhère la commune ;
 
-4° L'Agence nationale pour l'emploi ;
+4° L'     institution mentionnée à l'article L. 5312-1 du code du travail  ;
 
 5° L'organisme délégataire.
 

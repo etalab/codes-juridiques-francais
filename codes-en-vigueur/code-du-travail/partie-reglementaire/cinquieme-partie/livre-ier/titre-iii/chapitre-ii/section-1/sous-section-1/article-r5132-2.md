@@ -12,7 +12,7 @@ La convention conclue avec une entreprise d'insertion comporte notamment :
 
 5° Les règles selon lesquelles sont rémunérées les personnes en insertion et, le cas échéant, la nature des différents contrats de travail proposés ;
 
-6° Les modalités de dépôt des offres d'emploi à l'Agence nationale pour l'emploi ;
+6° Les modalités de dépôt des offres d'emploi à l'institution mentionnée à l'article L. 5312-1 du code du travail ;
 
 7° Les modalités d'accompagnement des personnes en insertion et de collaboration avec des organismes et services chargés de l'insertion sociale et professionnelle de ces personnes ;
 

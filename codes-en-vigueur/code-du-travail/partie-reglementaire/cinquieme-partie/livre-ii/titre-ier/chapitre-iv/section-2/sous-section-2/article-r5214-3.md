@@ -48,6 +48,6 @@ Le Conseil supérieur se compose :
 
 23° D'un représentant de l'association chargée de la gestion du fonds de développement pour l'insertion des personnes handicapées ;
 
-24° D'un représentant de l'Agence nationale pour l'emploi ;
+24° D'un représentant de l'     institution mentionnée à l'article L. 5312-1 du code du travail  ;
 
 25° D'un représentant de l'Association pour la formation professionnelle des adultes.

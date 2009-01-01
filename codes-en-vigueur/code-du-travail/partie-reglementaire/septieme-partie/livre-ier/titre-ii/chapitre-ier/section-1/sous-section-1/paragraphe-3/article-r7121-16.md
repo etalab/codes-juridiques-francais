@@ -12,7 +12,7 @@ La commission consultative est présidée par le ministre chargé du travail ou 
 
 5° Un représentant du ministre chargé de la jeunesse, des sports et de la vie associative ;
 
-6° Un représentant de l'Agence nationale pour l'emploi ;
+6° Un représentant de l'     institution mentionnée à l'article L. 5312-1 du code du travail  ;
 
 7° Huit représentants des organisations professionnelles d'agents artistiques ;
 

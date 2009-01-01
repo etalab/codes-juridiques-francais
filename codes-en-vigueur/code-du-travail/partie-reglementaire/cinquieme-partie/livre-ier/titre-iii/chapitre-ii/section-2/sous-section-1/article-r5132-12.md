@@ -14,7 +14,7 @@ b) Assurer l'accueil, le suivi et l'accompagnement des personnes embauchées, en
 
 c) Accomplir les tâches administratives et les obligations comptables résultant de l'activité de l'association ;
 
-4° Les conditions de coopération envisagées avec l'Agence nationale pour l'emploi, afin de favoriser l'accès au marché du travail des personnes dont l'association assure le suivi ;
+4° Les conditions de coopération envisagées avec l'institution mentionnée à l'article L. 5312-1 du code du travail, afin de favoriser l'accès au marché du travail des personnes dont l'association assure le suivi ;
 
 5° Les modalités de dépôt des offres d'emploi à l'institution précitée ;
 

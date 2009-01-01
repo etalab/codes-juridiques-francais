@@ -22,6 +22,6 @@ f) Le directeur du Centre d'études et de recherches sur les qualifications ou s
 
 g) Le directeur général du Centre d'analyse stratégique ou son représentant ;
 
-h) Le directeur de l'Agence nationale pour l'emploi ou son représentant ;
+h) Le directeur de l'     institution mentionnée à l'article L. 5312-1 du code du travail  ou son représentant ;
 
 4° Quatorze personnalités qualifiées choisies pour leur compétence en matière d'éducation, d'économie et d'emploi. Le président du haut comité est choisi par le ministre chargé de l'éducation parmi ces personnalités qualifiées.

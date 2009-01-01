@@ -10,15 +10,15 @@ L'agence est administrée par un conseil d'administration qui comprend :
 
 4° Trois représentants des services de l'Etat dans le département, membres de droit :
 
-- le directeur chargé des affaires sanitaires et sociales dans le département ou son représentant ;
+-le directeur chargé des affaires sanitaires et sociales dans le département ou son représentant ;
 
-- le directeur départemental du travail, de l'emploi et de la formation professionnelle ou son représentant ;
+-le directeur départemental du travail, de l'emploi et de la formation professionnelle ou son représentant ;
 
-- le directeur départemental de l'équipement ou son représentant ;
+-le directeur départemental de l'équipement ou son représentant ;
 
 5° Un représentant de la caisse d'allocations familiales désigné par le président du conseil d'administration de cette caisse ;
 
-6° Un représentant de l'Agence nationale pour l'emploi ou son représentant ;
+6° Un représentant de l'     institution mentionnée à l'article L. 5312-1 du code du travail  ou son représentant ;
 
 7° Deux personnalités nommées par le président du conseil général en raison de leurs compétences particulières dans le domaine de l'insertion et appartenant à des institutions ou associations intervenant dans le domaine de l'insertion et de la lutte contre le chômage.
 

@@ -1,8 +1,7 @@
-# Section 1 : Remboursement de l'organisme gestionnaire  du régime d'assurance chômage
+# Section 1 : Remboursement des allocations de chômage
 
 - [Article R1235-1](article-r1235-1.md)
 - [Article R1235-2](article-r1235-2.md)
-- [Article R1235-3](article-r1235-3.md)
 - [Article R1235-4](article-r1235-4.md)
 - [Article R1235-5](article-r1235-5.md)
 - [Article R1235-6](article-r1235-6.md)

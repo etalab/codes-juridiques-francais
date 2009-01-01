@@ -4,7 +4,7 @@ Si, dans son opposition, l'employeur prétend que le remboursement des indemnit�
 
 Le greffier du tribunal d'instance transmet aussitôt le dossier de l'affaire à cette juridiction.
 
-Le greffier de la juridiction qui a statué convoque l'organisme et l'employeur, selon le cas, devant le bureau de jugement du conseil de prud'hommes ou devant la chambre sociale de la cour d'appel, quinze jours au moins à l'avance, par lettre recommandée avec avis de réception.
+Le greffier de la juridiction qui a statué convoque l'institution mentionnée à l'article L. 5312-1 et l'employeur, selon le cas, devant le bureau de jugement du conseil de prud'hommes ou devant la chambre sociale de la cour d'appel, quinze jours au moins à l'avance, par lettre recommandée avec avis de réception.
 
 La juridiction qui a statué se prononce sur l'ensemble du litige résultant de l'opposition et est habilitée à liquider la somme due par l'employeur à l'institution.
 

@@ -22,6 +22,6 @@ e) Deux maires, nommés par le Premier ministre sur proposition de l'Association
 
 5° Huit personnalités qualifiées nommées par le Premier ministre sur proposition du ministre chargé de l'action sociale ;
 
-6° Le directeur général de la Caisse nationale d'assurance maladie des travailleurs salariés, le directeur de la Caisse nationale des allocations familiales, le directeur de la Caisse centrale de mutualité sociale agricole, le directeur général de l'Agence nationale pour l'emploi et le délégué général de l'Union sociale pour l'habitat, ou leur représentant ;
+6° Le directeur général de la Caisse nationale d'assurance maladie des travailleurs salariés, le directeur de la Caisse nationale des allocations familiales, le directeur de la Caisse centrale de mutualité sociale agricole, le directeur général de l'     institution mentionnée à l'article L. 5312-1 du code du travail  et le délégué général de l'Union sociale pour l'habitat, ou leur représentant ;
 
 7° Le président du Conseil économique et social, le président du Haut Comité pour le logement des personnes défavorisées, le président du Conseil national de l'insertion par l'activité économique, le président du Conseil national des missions locales, les deux vice-présidents du Conseil national des villes, le président de l'Observatoire national de la pauvreté et de l'exclusion sociale et le président du Conseil national de l'habitat, ou leur représentant.

@@ -1,6 +1,6 @@
 # Article R5522-16
 
-La convention conclue entre l'Agence nationale pour l'emploi, agissant au nom de l'Etat, et l'employeur précise notamment :
+La convention conclue entre l'     institution mentionnée à l'article L. 5312-1 du code du travail , agissant au nom de l'Etat, et l'employeur précise notamment :
 
 1° Le nom et l'adresse du bénéficiaire ;
 

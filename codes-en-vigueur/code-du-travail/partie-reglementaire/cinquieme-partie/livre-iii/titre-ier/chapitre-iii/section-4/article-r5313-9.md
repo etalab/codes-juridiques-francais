@@ -6,7 +6,7 @@ La Commission nationale des maisons de l'emploi comprend :
 
 2° Quatre représentants de l'Etat, représentant les ministres chargés de l'emploi, du budget, de la ville et le délégué interministériel à l'aménagement et à la compétitivité des territoires ;
 
-3° Un représentant de l'Agence nationale pour l'emploi, désigné sur proposition de son directeur général ;
+3° Un représentant de l' institution mentionnée à l'article L. 5312-1 du code du travail, désigné sur proposition de son directeur général ;
 
 4° Un représentant de l'Association pour la formation professionnelle des adultes, désigné sur proposition de son directeur général ;
 
