@@ -9,4 +9,6 @@
 - [Paragraphe 8 : Autres dispositions relatives aux établissements et services qui accueillent des personnes âgées ou des adultes handicapés.](paragraphe-8)
 - [Paragraphe 9 : Centres d'hébergement et de réinsertion sociale et centres d'accueil pour demandeurs d'asile](paragraphe-9)
 - [Paragraphe 10 : Modalités particulières de financement des établissements hébergeant des personnes âgées dépendantes](paragraphe-10)
-- [Paragraphe 11 : Dispositions particulières applicables à diverses catégories d'établissements et de services](paragraphe-11)
+- [Paragraphe 11 : Services mettant en œuvre les mesures de protection des majeurs mentionnés au I de l'article L. 361-1](paragraphe-11)
+- [Paragraphe 12 : Services relevant du 15° du I de l'article L. 312-1.](paragraphe-12)
+- [Paragraphe 13 : Dispositions particulières applicables à diverses catégories d'établissements et de services.](paragraphe-13)

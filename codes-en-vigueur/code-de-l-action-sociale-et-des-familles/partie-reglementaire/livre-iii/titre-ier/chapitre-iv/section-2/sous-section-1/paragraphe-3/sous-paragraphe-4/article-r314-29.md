@@ -2,7 +2,7 @@
 
 I. - Les tableaux de bord mentionnés à l'article R. 314-28 sont fixés :
 
-1° Par arrêté du ministre chargé de l'action sociale pour les établissements ou services financés par l'aide sociale de l'Etat ou les organismes d'assurance maladie ;
+1° Par arrêté du ministre chargé de l'action sociale pour les établissements ou services financés par le budget de l'Etat ou les organismes d'assurance maladie ;
 
 2° Par arrêté du ministre de la justice pour les établissements ou services mentionnés au b) du III de l'article L. 314-1 ;
 

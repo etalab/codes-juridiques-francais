@@ -1,6 +1,6 @@
 # Article R211-13
 
-L'union nationale et chaque union départementale reversent au plus tard le 30 septembre une fraction de leurs parts respectives mentionnées dans l'arrêté mentionné au 3° de l'article R. 211-12, dans les conditions suivantes :
+L'union nationale et chaque union départementale reversent au plus tard le 31 octobre une fraction de leurs parts respectives mentionnées dans l'arrêté mentionné au 3° de l'article R. 211-12, dans les conditions suivantes :
 
 1° L'union nationale affecte 25 % de sa part au soutien des fédérations nationales, confédérations nationales et associations familiales nationales visées à l'article L. 211-5, en fonction de leur champ de compétences, du nombre de leurs adhérents, au sens de l'article L. 211-1, portés sur les listes des unions départementales, et du nombre d'unions départementales dans lesquelles elles sont représentées.
 
