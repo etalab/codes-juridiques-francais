@@ -1,4 +1,4 @@
-# Section 5 : Certification des services et des produits autres qu'alimentaires.
+# Section 5 : Certification des services et des produits autres qu'agricoles, forestiers, alimentaires ou de la mer
 
 - [Article L115-27](article-l115-27.md)
 - [Article L115-28](article-l115-28.md)

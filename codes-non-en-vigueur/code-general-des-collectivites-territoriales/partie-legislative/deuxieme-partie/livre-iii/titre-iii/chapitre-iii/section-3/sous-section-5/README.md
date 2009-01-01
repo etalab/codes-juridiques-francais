@@ -1,4 +1,4 @@
-# Sous-section 5 : Sanctions applicables.
+# Sous-section 5 : Dispositions transitoires
 
 - [Article L2333-13](article-l2333-13.md)
 - [Article L2333-14](article-l2333-14.md)

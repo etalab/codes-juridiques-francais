@@ -1,5 +1,8 @@
 # Chapitre Ier : Dispositions générales.
 
+- [Section 1 : Prime de déménagement et de réinstallation](section-1)
+- [Section 2 : Changements d'usage et usages mixtes des locaux d'habitation](section-2)
+- [Section 3 : La résidence hôtelière à vocation sociale](section-3)
 - [Article L631-1](article-l631-1.md)
 - [Article L631-2](article-l631-2.md)
 - [Article L631-3](article-l631-3.md)

@@ -1,7 +1,8 @@
-# Section 3 : Taxe sur la publicité frappant les affiches, réclames et enseignes lumineuses
+# Section 3 : Taxe locale sur la publicité extérieure
 
-- [Sous-section 1 : Dispositions générales.](sous-section-1)
-- [Sous-section 2 : Assiette de la taxe et exonérations.](sous-section-2)
-- [Sous-section 3 : Taux de la taxe.](sous-section-3)
-- [Sous-section 4 : Paiement et recouvrement de la taxe.](sous-section-4)
-- [Sous-section 5 : Sanctions applicables.](sous-section-5)
+- [Sous-section 1 : Assiette de la taxe locale sur la publicité extérieure](sous-section-1)
+- [Sous-section 2 : Tarifs de la taxe locale sur la publicité extérieure](sous-section-2)
+- [Sous-section 3 : Paiement et recouvrement de la taxe locale sur la publicité extérieure](sous-section-3)
+- [Sous-section 4 : Sanctions applicables](sous-section-4)
+- [Sous-section 5 : Dispositions transitoires](sous-section-5)
+- [Article L2333-6](article-l2333-6.md)
