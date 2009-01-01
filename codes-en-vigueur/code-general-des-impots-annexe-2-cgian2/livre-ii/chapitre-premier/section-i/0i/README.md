@@ -6,5 +6,4 @@
 - [Article 376 quater A](article-376-quater-a.md)
 - [Article 376 quinquies](article-376-quinquies.md)
 - [Article 376 sexies](article-376-sexies.md)
-- [Article 376 septies](article-376-septies.md)
 - [Article 376 octies](article-376-octies.md)
