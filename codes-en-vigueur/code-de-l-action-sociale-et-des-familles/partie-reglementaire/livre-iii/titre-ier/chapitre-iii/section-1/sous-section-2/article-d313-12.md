@@ -21,3 +21,5 @@ c) Les plans des locaux ;
 d) Le tableau des effectifs du personnel, l'état du personnel déjà recruté et le curriculum vitae du directeur ;
 
 e) Le budget prévisionnel pour la première année de fonctionnement et la première année pleine.
+
+Lorsque la demande de visite concerne un service mentionné au 14° du I de l'article L. 312-1, le dossier comporte, à la place des documents mentionnés au c du 1° et au b du 2°, le projet de notice d'information mentionnée à l'article L. 471-6 et le modèle de document individuel de protection des majeurs mentionné au 3° de l'article L. 471-8.
