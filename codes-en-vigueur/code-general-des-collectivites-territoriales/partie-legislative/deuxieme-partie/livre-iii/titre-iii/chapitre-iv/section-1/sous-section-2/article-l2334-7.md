@@ -20,13 +20,9 @@ a. Le montant de dotation forfaitaire perçue en 2004 et indexée selon un taux 
 
 b. Et la somme de la dotation de base et de la dotation proportionnelle à la superficie calculées en application des 1° et 2°.
 
-A compter de 2006, cette garantie évolue selon un taux égal au plus à 25 % du taux de progression de l'ensemble des ressources de la dotation globale de fonctionnement. Toutefois, pour les communes dont la garantie par habitant est supérieure à 1, 5 fois la garantie par habitant moyenne constatée l'année précédente, le taux de progression de la garantie est nul. En 2009, le  complément de garantie dû à chaque commune correspond à son montant de 2008  diminué de 2 %.
+A compter de 2006, cette garantie évolue selon un taux égal au plus à 25 % du taux de progression de l'ensemble des ressources de la dotation globale de fonctionnement. Toutefois, pour les communes dont la garantie par habitant est supérieure à 1, 5 fois la garantie par habitant moyenne constatée l'année précédente, le taux de progression de la garantie est nul. En 2009, le complément de garantie dû à chaque commune correspond à son montant de 2008 diminué de 2 %.
 
 Le taux de croissance de la dotation forfaitaire est égal au taux d'évolution de la somme des composantes de cette dotation par rapport à la somme des montants versés l'année précédente en application des alinéas précédents, hors les montants prévus au 3°. Pour l'application de cette disposition en 2005, le montant de la dotation forfaitaire pris en compte au titre de 2004 est égal au montant total de la dotation forfaitaire versée en 2004, hors les montants correspondant à la compensation antérieurement perçue en application du I du D de l'article 44 de la loi de finances pour 1999.
-
-Pour le calcul de la garantie des communes ayant connu en 2004 un recensement général ou un recensement complémentaire initial, il est fait référence au montant de la dotation de base hors gain lié à la croissance de la population constatée à l'issue de ce recensement.
-
-Pour le calcul de la garantie des communes ayant connu en 2004 un recensement complémentaire de confirmation, le montant de la dotation forfaitaire à prendre en compte au titre du a correspond au montant de la dotation forfaitaire due au titre de 2004 en retenant la population effectivement constatée à l'issue du recensement de confirmation.
 
 La dotation forfaitaire comprend également les sommes reçues en 1993 au titre de la dotation supplémentaire aux communes et groupements touristiques ou thermaux et de la dotation particulière aux communes touristiques ainsi qu'au titre de la dotation particulière au profit des villes assumant des charges de centralité, en application des articles L. 234-13 et L. 234-14 du code des communes dans leur rédaction antérieure à la loi n° 93-1436 du 31 décembre 1993 précitée. Ces sommes sont identifiées au sein de la dotation forfaitaire.
 

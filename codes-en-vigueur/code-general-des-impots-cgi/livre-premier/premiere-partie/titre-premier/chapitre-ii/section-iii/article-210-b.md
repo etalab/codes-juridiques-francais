@@ -6,6 +6,8 @@ a. De conserver pendant trois ans les titres remis en contrepartie de l'apport ;
 
 b. De calculer ultérieurement les plus-values de cession afférentes à ces mêmes titres par référence à la valeur que les biens apportés avaient, du point de vue fiscal, dans ses propres écritures.
 
+La rupture  de l'engagement de conservation des titres remis en contrepartie de l'apport  entraîne la déchéance rétroactive du régime de l'article 210 A appliqué à  l'opération d'apport partiel d'actif. La déchéance intervient et produit ses  effets à la date de réalisation de cette opération.
+
 Les dispositions de l'article 210 A s'appliquent à la scission de société comportant au moins deux branches complètes d'activités lorsque chacune des sociétés bénéficiaires des apports reçoit une ou plusieurs de ces branches et que les associés de la société scindée s'engagent, dans l'acte de scission, à conserver pendant trois ans les titres représentatifs de l'apport qui leur ont été répartis proportionnellement à leurs droits dans le capital. Toutefois, l'obligation de conservation des titres n'est exigée que des associés qui détiennent dans la société scindée, à la date d'approbation de la scission, 5 % au moins des droits de vote ou qui y exercent ou y ont exercé dans les six mois précédant cette date, directement ou par l'intermédiaire de leurs mandataires sociaux ou préposés, des fonctions de direction, d'administration ou de surveillance et détiennent au moins 0,1 % des droits de vote dans la société.
 
 Les droits de vote détenus par les associés ainsi soumis à l'obligation de conservation doivent représenter ensemble, à la date de l'approbation de la scission, 20 % au moins du capital de la société scindée.

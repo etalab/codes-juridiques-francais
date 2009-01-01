@@ -6,5 +6,6 @@
 - [Section IV : Procédures de rectification](section-iv)
 - [Section V : Procédures d'imposition d'office](section-v)
 - [Section V bis : Information du contribuable sur les renseignements ou documents obtenus auprès de tiers](section-v-bis)
+- [Section V ter : Information du contribuable sur les pièces ou documents saisis](section-v-ter)
 - [Section VI : Conséquences et limites des procédures de rectification](section-vi)
 - [Section VII : Sanctions fiscales](section-vii)

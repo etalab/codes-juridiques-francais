@@ -1320,8 +1320,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>30,2. <br/>
-</td>
+<br/>26,27</td>
 </tr>
 <tr>
 <td align="center">

@@ -1,6 +1,18 @@
 # Article 72 D
 
-I. - Les exploitants agricoles soumis à un régime réel d'imposition peuvent pratiquer une déduction pour investissement dans les limites et conditions prévues à l'article 72 D ter.
+I.-Les exploitants agricoles soumis à un régime réel d'imposition peuvent pratiquer une déduction pour investissement dont le montant est plafonné, pour chaque exercice :
+
+a) A 4 000 euros dans la limite du bénéfice imposable, s'il est inférieur à 10 000 euros ;
+
+b) A 40 % de ce bénéfice lorsqu'il est compris entre 10 000 euros et 40 000 euros ;
+
+c) A la somme de 8 000 euros majorée de 20 % de ce bénéfice lorsqu'il est compris entre 40 000 euros et 60 000 euros ;
+
+d) A 20 000 euros lorsque ce bénéfice excède 60 000 euros.
+
+Pour les exploitations agricoles à responsabilité limitée qui n'ont pas opté pour le régime fiscal des sociétés de capitaux, le plafond est multiplié par le nombre des associés exploitants dans la limite de trois.
+
+La déduction est pratiquée après application de l'abattement prévu à l'article 73 B.
 
 Cette déduction doit être utilisée au cours des cinq exercices qui suivent celui de sa réalisation pour l'acquisition et la création d'immobilisations amortissables strictement nécessaires à l'activité ou pour l'acquisition et pour la production de stocks de produits ou animaux dont le cycle de rotation est supérieur à un an ou pour l'acquisition de parts sociales de sociétés coopératives agricoles visées à l'article L521-1 du code rural.
 
@@ -8,8 +20,8 @@ Lorsque la déduction est utilisée à l'acquisition ou à la création d'immobi
 
 Lorsqu'elle n'est pas utilisée conformément à son objet, la déduction est rapportée aux résultats du cinquième exercice suivant sa réalisation. Sur demande de l'exploitant, elle peut être rapportée en tout ou partie au résultat d'un exercice antérieur lorsque ce résultat est inférieur d'au moins 40 p. 100 à la moyenne des résultats des trois exercices précédents. Pour le calcul de cette moyenne, il n'est pas tenu compte des reports déficitaires.
 
-II. L'apport d'une exploitation individuelle dans les conditions visées au I de l'article 151 octies à une société civile agricole par un exploitant agricole qui a pratiqué la déduction au titre d'un exercice précédant celui de l'apport n'est pas considéré pour l'application du I comme une cessation d'activité si la société bénéficiaire de l'apport en remplit les conditions et s'engage à utiliser la déduction conformément à son objet dans les cinq exercices qui suivent celui au cours duquel elle a été pratiquée.
+II.L'apport d'une exploitation individuelle dans les conditions visées au I de l'article 151 octies à une société civile agricole par un exploitant agricole qui a pratiqué la déduction au titre d'un exercice précédant celui de l'apport n'est pas considéré pour l'application du I comme une cessation d'activité si la société bénéficiaire de l'apport en remplit les conditions et s'engage à utiliser la déduction conformément à son objet dans les cinq exercices qui suivent celui au cours duquel elle a été pratiquée.
 
 Lorsqu'elle n'est pas utilisée conformément à son objet, la déduction est rapportée aux résultats de l'exercice clos à l'occasion de l'apport en société.
 
-III. - La transmission à titre gratuit d'une exploitation individuelle dans les conditions prévues à l'article 41 par un exploitant agricole qui a pratiqué la déduction au titre d'un exercice précédant celui de la transmission n'est pas considérée pour l'application du I comme une cessation d'activité si le ou les bénéficiaires de la transmission remplissent les conditions ouvrant droit à la déduction et s'engagent à utiliser celle-ci conformément à son objet dans les cinq années qui suivent celle au cours de laquelle elle a été pratiquée.
+III.-La transmission à titre gratuit d'une exploitation individuelle dans les conditions prévues à l'article 41 par un exploitant agricole qui a pratiqué la déduction au titre d'un exercice précédant celui de la transmission n'est pas considérée pour l'application du I comme une cessation d'activité si le ou les bénéficiaires de la transmission remplissent les conditions ouvrant droit à la déduction et s'engagent à utiliser celle-ci conformément à son objet dans les cinq années qui suivent celle au cours de laquelle elle a été pratiquée.

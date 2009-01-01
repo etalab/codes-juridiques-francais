@@ -4,7 +4,7 @@ I.-1. Le redevable peut imputer sur l'impôt de solidarité sur la fortune 75 % 
 
 La société bénéficiaire des versements mentionnée au premier alinéa doit satisfaire aux conditions suivantes :
 
-a) Répondre à la définition des petites et moyennes entreprises figurant à l'annexe I au règlement (CE) n° 70 / 2001 de la Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides de l'Etat en faveur des petites et moyennes entreprises, modifié par le règlement (CE) n° 364 / 2004 du 25 février 2004 ;
+a) Etre une petite et moyenne entreprise au sens de l'annexe I au règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie) ;
 
 b) Exercer exclusivement une activité industrielle, commerciale, artisanale, agricole ou libérale, à l'exclusion des activités de gestion de patrimoine mobilier définie à l'article 885 O quater, notamment celles des organismes de placement en valeurs mobilières, et des activités de gestion ou de location d'immeubles. Cette condition n'est pas exigée pour les entreprises solidaires au sens de l'article L. 443-3-2 du code du travail qui exercent une activité de gestion immobilière à vocation sociale ;
 
@@ -76,6 +76,6 @@ Le redevable peut bénéficier de l'avantage fiscal prévu au présent article e
 
 Par dérogation à l'alinéa précédent, la fraction des versements pour laquelle le redevable demande le bénéfice de l'avantage fiscal prévu au présent article ne peut donner lieu à l'application de l'article 885-0 V bis A.
 
-VI.-Lorsque les conditions prévues par les f, g et h du 1 du I ne sont pas cumulativement satisfaites par les sociétés bénéficiaires des versements mentionnées au 1 du I, le bénéfice des I à III est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 ou du règlement (CE) n° 1535/2007 de la Commission du 20 décembre 2007, concernant l'application des articles 87 et 88 du traité aux aides de minimis.
+VI.-Lorsque les conditions prévues par les f, g et h du 1 du I ne sont pas cumulativement satisfaites par les sociétés bénéficiaires des versements mentionnées au 1 du I, le bénéfice des I à III est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 ou du règlement (CE) n° 1535 / 2007 de la Commission du 20 décembre 2007, concernant l'application des articles 87 et 88 du traité aux aides de minimis.
 
 VII.-Un décret fixe les obligations déclaratives incombant aux redevables et aux sociétés visés au I, ainsi qu'aux gérants et dépositaires de fonds visés au III.

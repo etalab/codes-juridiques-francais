@@ -6,7 +6,7 @@ I.-Les plus-values soumises au régime des articles 39 duodecies à 39 quindecie
 
 2° La cession est réalisée à titre onéreux et porte sur une entreprise individuelle ou sur l'intégralité des droits ou parts détenus par un contribuable qui exerce son activité professionnelle dans le cadre d'une société ou d'un groupement dont les bénéfices sont, en application des articles 8 et 8 ter, soumis en son nom à l'impôt sur le revenu et qui sont considérés comme des éléments d'actif affectés à l'exercice de la profession au sens du I de l'article 151 nonies ;
 
-3° Le cédant cesse toute fonction dans l'entreprise individuelle cédée ou dans la société ou le groupement dont les droits ou parts sont cédés et fait valoir ses droits à la retraite, soit dans l'année suivant la cession, soit dans l'année précédant celle-ci si ces événements sont postérieurs au 31 décembre 2005 ;
+3° Le cédant cesse toute fonction dans l'entreprise individuelle cédée ou dans la société ou le groupement dont les droits ou parts sont cédés et fait valoir ses droits à la retraite, dans les deux années suivant ou précédant la cession ;
 
 4° Le cédant ne doit pas détenir, directement ou indirectement, plus de 50 % des droits de vote ou des droits dans les bénéfices sociaux de l'entreprise cessionnaire ;
 
@@ -19,6 +19,8 @@ I bis-L'exonération prévue au I s'applique dans les mêmes conditions aux plus
 I ter-Sont également éligibles au présent dispositif, dans les conditions du I et pour la seule plus-value imposable au nom de l'associé, les cessions d'activité réalisées par les sociétés visées au 2° du I à condition qu'il soit procédé à la dissolution de la société de manière concomitante à la cession et que ledit associé fasse valoir ses droits à la retraite dans les douze mois suivant ou précédant la cession.
 
 II.-L'exonération prévue au I est remise en cause si le cédant relève de la situation mentionnée au 4° du I à un moment quelconque au cours des trois années qui suivent la réalisation de l'opération ayant bénéficié du régime prévu au présent article.
+
+Lorsque l'une des conditions prévues aux 2° ou 3° du I n'est pas remplie au terme du délai prévu à ce même 3°, l'exonération prévue au I est remise en cause au titre de l'année au cours de laquelle intervient le terme de ce délai.
 
 III.-Sont imposées dans les conditions de droit commun les plus-values portant sur :
 
@@ -38,7 +40,7 @@ IV bis.-En cas de cession à titre onéreux de parts ou d'actions de sociétés 
 
 a) Doit avoir exercé, de manière continue pendant les cinq années précédant la cession, l'une des fonctions énumérées au 1° de l'article 885 O bis et dans les conditions prévues au même 1° dans la société dont les titres sont cédés ;
 
-b) Cesse toute fonction dans la société dont les titres sont cédés et fait valoir ses droits à la retraite, soit dans l'année suivant la cession, soit dans l'année précédant celle-ci si ces événements sont postérieurs au 31 décembre 2005 ;
+b) Cesse toute fonction dans la société dont les titres sont cédés et fait valoir ses droits à la retraite, dans les deux années suivant ou précédant la cession ;
 
 c) Remplit la condition prévue au 4° du I ;
 
@@ -53,6 +55,8 @@ b) A son siège social dans un État membre de la Communauté européenne ou dan
 c) Doit avoir exercé, de manière continue pendant les cinq années précédant la cession, une activité commerciale, industrielle, artisanale, libérale ou agricole, à l'exception de la gestion de son propre patrimoine mobilier ou immobilier.
 
 L'exonération mentionnée au premier alinéa du présent IV bis est remise en cause si le cédant relève de la situation mentionnée au 4° du I à un moment quelconque au cours des trois années qui suivent la réalisation de la cession de l'intégralité des titres.
+
+Lorsque l'une des conditions prévues au b du 1° ou au 2° n'est pas remplie au terme du délai prévu à ce même b, l'exonération prévue au présent IV bis est remise en cause au titre de l'année au cours de laquelle intervient le terme de ce délai.
 
 V.-1.L'indemnité compensatrice versée à un agent général d'assurances exerçant à titre individuel par la compagnie d'assurances qu'il représente à l'occasion de la cessation du mandat bénéficie du régime mentionné au I si les conditions suivantes sont réunies :
 

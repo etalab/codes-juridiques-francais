@@ -12,7 +12,7 @@ Toutefois, cette condition n'est pas exigée lorsque l'exercice d'une profession
 
 b) Avoir détenu directement ou par personne interposée ou par l'intermédiaire de son conjoint ou de leurs ascendants ou descendants ou de leurs frères et soeurs, de manière continue pendant les cinq années précédant la cession, au moins 25 % des droits de vote ou des droits dans les bénéfices sociaux de la société dont les titres ou droits sont cédés ;
 
-c) Cesser toute fonction dans la société dont les titres ou droits sont cédés et faire valoir ses droits à la retraite, soit dans l'année suivant la cession, soit dans l'année précédant celle-ci si ces événements sont postérieurs au 31 décembre 2005 ;
+c) Cesser toute fonction dans la société dont les titres ou droits sont cédés et faire valoir ses droits à la retraite dans les deux années suivant ou précédant la cession ;
 
 3° La société dont les titres ou droits sont cédés répond aux conditions suivantes :
 
@@ -38,4 +38,4 @@ II. - Pour l'application du 1 du I de l'article 150-0 D bis, la durée de déten
 
 III. - En cas de cessions antérieures de titres ou droits de la société concernée pour lesquelles le gain net a été déterminé en retenant un prix d'acquisition calculé suivant la règle de la valeur moyenne pondérée d'acquisition prévue au premier alinéa du 3 de l'article 150-0 D, le nombre de titres ou droits cédés antérieurement est réputé avoir été prélevé en priorité sur les titres ou droits acquis ou souscrits aux dates les plus anciennes.
 
-IV. - En cas de non-respect de la condition prévue au 4° du I à un moment quelconque au cours des trois années suivant la cession des titres ou droits, l'abattement prévu au même I est remis en cause au titre de l'année au cours de laquelle la condition précitée cesse d'être remplie.
+IV. - En cas de non-respect de la condition prévue au 4° du I à un moment quelconque au cours des trois années suivant la cession des titres ou droits, l'abattement prévu au même I est remis en cause au titre de l'année au cours de laquelle la condition précitée cesse d'être remplie. Il en est de même, au titre de l'année d'échéance du délai mentionné au c du 2° du I, lorsque l'une des conditions prévues au 1° ou au c du 2° du même I n'est pas remplie au terme de ce délai.

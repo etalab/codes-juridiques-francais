@@ -1,5 +1,6 @@
 # VIII : Dispositions communes aux différentes catégories de revenus
 
+- [01 : Versement libératoire des exploitants individuels](01)
 - [1 : Détermination des revenus des avoirs à l'étranger](1)
 - [1 bis : Rémunération perçue par les médecins au titre de la permanence des soins](1-bis)
 - [1 ter : Imposition des plus-values réalisées dans le cadre d'un bail à construction](1-ter)

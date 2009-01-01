@@ -5,5 +5,4 @@
 - [Article L221-15](article-l221-15.md)
 - [Article L221-16](article-l221-16.md)
 - [Article L221-17](article-l221-17.md)
-- [Article L221-17-1](article-l221-17-1.md)
 - [Article L221-17-2](article-l221-17-2.md)

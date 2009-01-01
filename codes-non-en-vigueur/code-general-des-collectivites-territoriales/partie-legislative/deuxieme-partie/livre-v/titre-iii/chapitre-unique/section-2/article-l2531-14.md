@@ -14,7 +14,7 @@ II.-L'indice synthétique de ressources et de charges mentionné au I pour les c
 
 3° Du rapport entre la proportion du total des bénéficiaires d'aides au logement, telles qu'elles sont définies à l'article L. 2334-17, y compris leur conjoint et les personnes à charge vivant habituellement dans leur foyer, dans le nombre total de logements de la commune et cette même proportion constatée dans l'ensemble des communes de 10 000 habitants et plus de la région d'Ile-de-France ;
 
-4° Du rapport entre le revenu moyen par habitant des communes de 10 000 habitants et plus de la région d'Ile-de-France et le revenu par habitant de la commune, calculé en prenant en compte la population qui résulte des recensements généraux ou complémentaires.
+4° Du rapport entre le revenu moyen par habitant des communes de 10 000 habitants et plus de la région d'Ile-de-France et le revenu par habitant de la commune, calculé en prenant en compte la population qui résulte du recensement.
 
 Le revenu pris en compte pour l'application de l'alinéa précédent est le dernier revenu imposable connu.
 
@@ -38,4 +38,4 @@ VI.-Les communes qui n'étaient pas éligibles au fonds de solidarité des commu
 
 A compter de 2004, ces communes perçoivent l'intégralité de leur attribution du fonds.
 
-VII.-Lorsque le recensement général de population de 1999 fait apparaître une variation de la population d'une commune, cette variation est prise en compte, pour l'application des dispositions du présent article, dans les conditions prévues aux troisième et quatrième alinéas de l'article L. 2334-2.
+VII. - La population à prendre en compte pour l'application du présent article est celle résultant des conditions prévues à l'article L. 2334-2.

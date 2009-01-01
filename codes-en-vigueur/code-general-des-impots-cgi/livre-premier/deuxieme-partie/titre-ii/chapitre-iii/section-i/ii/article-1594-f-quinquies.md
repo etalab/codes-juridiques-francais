@@ -10,7 +10,11 @@ C. Les cessions gratuites aux collectivités publiques de terrains classés, vis
 
 D. I. Les acquisitions d'immeubles ruraux à condition :
 
-1° Qu'au jour de l'acquisition les immeubles soient exploités en vertu d'un bail consenti à l'acquéreur, à son conjoint, à ses ascendants ou aux ascendants de son conjoint et enregistré ou déclaré depuis au moins deux ans ;
+1° Qu'au jour de l'acquisition les immeubles soient exploités depuis au moins deux ans :
+
+― soit en vertu d'un bail consenti à l'acquéreur personne physique, à son conjoint, à ses ascendants ou aux ascendants de son conjoint ou à la personne morale acquéreur ;
+
+― soit en vertu d'une mise à disposition par le preneur au profit de la personne morale acquéreur ;
 
 2° Que l'acquéreur prenne l'engagement, pour lui et ses ayants cause à titre gratuit, de mettre personnellement en valeur lesdits biens pendant un délai minimal de cinq ans à compter de la date du transfert de la propriété. A défaut d'exécution de cet engagement ou si les biens sont aliénés à titre onéreux en totalité ou en partie dans ce délai de cinq ans, l'acquéreur ou ses ayants cause à titre gratuit sont, sous réserve du cas de force majeure, déchus de plein droit du bénéfice du taux réduit pour les immeubles dont ils cessent l'exploitation ou qui sont aliénés à titre onéreux. Toutefois, l'aliénation du bien acquis consentie à titre onéreux par l'acquéreur à un descendant ou au conjoint de celui-ci n'entraîne pas la déchéance du bénéfice du taux réduit, si le sous-acquéreur s'engage à poursuivre personnellement l'exploitation jusqu'à l'expiration du délai de cinq ans à compter de la date du transfert de propriété initial.
 

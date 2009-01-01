@@ -22,7 +22,7 @@ b) du montant des bénéfices exonérés en application des articles 44 sexies, 
 
 c) du montant des revenus soumis aux prélèvements libératoires prévus aux articles 117 quater et 125 A de ceux soumis aux versements libératoires prévus par l'article 151-0 retenus pour leur montant diminué, selon le cas, de l'abattement prévu au 1 de l'article 50-0 ou de la réfaction forfaitaire prévue au 1 de l'article 102 ter, de ceux visés aux articles 81 quater, 81 A à 81 C, de ceux mentionnés au I de l'article 204-0 bis retenus pour leur montant net de frais d'emploi et pour lesquels l'option prévue au III du même article n'a pas été exercée, de ceux perçus par les fonctionnaires des organisations internationales, de ceux exonérés par application d'une convention internationale relative aux doubles impositions ainsi que de ceux exonérés en application des articles 163 quinquies B à 163 quinquies C bis ;
 
-d) Du montant des plus-values exonérées en application des 1, 1 bis et 7 du III de l'article 150-0 A ;
+d) Du montant des gains nets exonérés en application du I bis de l'article 150-0 A ainsi que du montant des plus-values exonérées en application des 1, 1 bis et 7 du III du même article ;
 
 e) Des sommes correspondant aux droits visés au dernier alinéa de l'article L. 3153-3 du code du travail.
 

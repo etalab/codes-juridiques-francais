@@ -2,7 +2,7 @@
 
 I.-Les petites et moyennes entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies,44 sexies A,44 octies,44 decies et 44 undecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de formation de leurs salariés à l'économie de l'entreprise et aux dispositifs d'épargne salariale et d'actionnariat salarié qu'elles exposent auprès d'organismes de formation figurant sur une liste arrêtée par le préfet de région, après avis du comité de coordination régional de l'emploi et de la formation professionnelle.
 
-II.-Les petites et moyennes entreprises mentionnées au I sont celles qui répondent aux conditions définies à l'annexe I au règlement (CE) n° 70 / 2001 de la Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides d'Etat en faveur des petites et moyennes entreprises, modifié par le règlement (CE) n° 364 / 2004 de la Commission, du 25 février 2004.
+II.-Les entreprises mentionnées au I sont des petites et moyennes entreprises au sens de l'annexe I au règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie).
 
 Le bénéfice du crédit d'impôt est réservé aux entreprises qui disposent, au 1er janvier 2007, d'un plan d'épargne d'entreprise prévu à l'article L. 3332-1 du code du travail dont les sommes recueillies sont affectées au moins en partie à l'acquisition des parts de fonds communs de placement mentionnés au 2° de l'article L. 3332-15 du même code lorsque les actifs de ces fonds comprennent les valeurs mentionnées au sixième alinéa de ce dernier article.
 

@@ -46,6 +46,8 @@ Pour bénéficier de cette exonération, le titulaire du contrat doit joindre à
 
 L'exonération est toutefois maintenue lorsque ces bâtiments ne servent plus à une exploitation rurale et ne sont pas affectés à un autre usage ;
 
+L'exercice d'une activité de production d'électricité d'origine photovoltaïque ayant pour support un bâtiment visé au premier alinéa n'est pas de nature à remettre en cause l'exonération ;
+
 b. Dans les mêmes conditions qu'au premier alinéa du a, les bâtiments affectés à un usage agricole par les sociétés coopératives agricoles, par les associations syndicales ayant un objet exclusivement agricole, leurs unions, les associations foncières, les sociétés d'intérêt collectif agricole, les syndicats professionnels agricoles, les sociétés d'élevage, les associations agricoles reconnues par la loi et dépendant du ministère de l'agriculture ayant pour objet de favoriser la production agricole, leurs unions et fédérations ainsi que les unions de sociétés coopératives agricoles ou unions de coopératives agricoles et de coopératives de consommation constituées et fonctionnant conformément aux dispositions légales qui les régissent et par les groupements d'intérêt économique constitués entre exploitations agricoles.
 
 Les coopératives de blé peuvent, sans perdre le bénéfice de l'exonération, louer tout ou partie de leurs magasins à l'Office national interprofessionnel des grandes cultures en vue du logement des blés excédentaires.
@@ -60,4 +62,6 @@ Le bénéfice de l'exonération est également maintenu aux coopératives de cé
 
 10° Les bâtiments provisoires édifiés en application de l'ordonnance n° 45-609 du 10 avril 1945, relative aux travaux préliminaires à la reconstruction, et qui demeurent la propriété de l'Etat ;
 
-11° Les outillages et autres installations et moyens matériels d'exploitation des établissements industriels à l'exclusion de ceux visés à l'article 1381 1° et 2°.
+11° Les outillages et autres installations et moyens matériels d'exploitation des établissements industriels à l'exclusion de ceux visés à l'article 1381 1° et 2° ;
+
+12° Les immobilisations destinées à la production d'électricité d'origine photovoltaïque.
