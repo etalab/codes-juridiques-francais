@@ -1,5 +1,5 @@
-# Chapitre III : Les services.
+# Chapitre III : Dispositions d'adaptation du livre III
 
 - [Section 1 : Les opérations de banque](section-1)
-- [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers](section-3)
-- [Section 4 : Démarchage bancaire et financier](section-4)
+- [Article D733-1](article-d733-1.md)
+- [Article R733-2](article-r733-2.md)
