@@ -14,9 +14,11 @@ c) Une étude des besoins auxquels le projet a vocation à répondre en tout ou 
 
 d) La capacité prévue, répartie, le cas échéant, selon les modes de délivrance des prestations définies au dernier alinéa du I de l'article L. 312-1 ;
 
-e) Un avant-projet du projet d'établissement mentionné à l'article L. 311-8 ;
+e) Un avant-projet du projet d'établissement ou de service mentionné à l'article L. 311-8 ;
 
 f) L'énoncé des dispositions propres à garantir les droits des usagers en application des articles L. 311-3 à L. 311-8 ainsi que, le cas échéant, les solutions envisagées en application de l'article L. 311-9 pour garantir le droit à une vie familiale des personnes accueillies ;
+
+Lorsque la demande d'autorisation concerne un service mentionné au 14° du I de l'article L. 312-1, l'énoncé des dispositions propres à garantir les droits des usagers en application des articles L. 471-6 et L. 471-8 ;
 
 g) Une note décrivant le projet architectural, assortie de plans en cas de construction nouvelle ;
 
@@ -24,7 +26,11 @@ h) La méthode d'évaluation prévue pour l'application du premier alinéa de l'
 
 i) Le cas échéant, les modalités de coopération envisagées en application de l'article L. 312-7 ;
 
-3° Un dossier relatif aux personnels comportant une répartition prévisionnelle des effectifs par types de qualifications ;
+3° Un dossier relatif aux personnels comportant :
+
+a) Une répartition prévisionnelle des effectifs par type de qualification ;
+
+b) Si la demande d'autorisation concerne un service mentionné au 14° ou au 15° du I de l'article L. 312-1, les méthodes de recrutement suivies pour se conformer aux dispositions des articles L. 471-4 et L. 474-3 et les règles internes fixées pour le contrôle des personnes qui ont reçu délégation des représentants du service pour assurer la mise en œuvre des mesures de protection des majeurs ou des mesures judiciaires d'aide à la gestion du budget familial ;
 
 4° Un dossier financier comportant :
 
