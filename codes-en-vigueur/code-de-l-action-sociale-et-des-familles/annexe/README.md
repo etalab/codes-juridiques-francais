@@ -18,3 +18,4 @@
 - [Article Annexe 3-9](article-annexe-3-9.md)
 - [Article Annexe 3-10](article-annexe-3-10.md)
 - [Article Annexe 4-1](article-annexe-4-1.md)
+- [Article Annexe 4-6](article-annexe-4-6.md)
