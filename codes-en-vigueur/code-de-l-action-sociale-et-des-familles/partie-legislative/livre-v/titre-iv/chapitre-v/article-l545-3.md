@@ -1,7 +1,5 @@
 # Article L545-3
 
-Les dépenses résultant de l'application des différentes formes d'aide sociale prévues par le présent code et par le règlement territorial de l'aide sociale ont un caractère obligatoire.
+Les dispositions de l'article L. 241-3 sont applicables à Mayotte, sous réserve des adaptations suivantes :
 
-Les critères de la répartition des dépenses d'aide sociale entre la collectivité territoriale et les communes sont déterminés par décret.
-
-Le montant annuel de la participation d'une commune ne peut excéder un pourcentage, fixé par décret, de la dotation globale de fonctionnement perçue par cette commune.
+-la référence : " L. 146-9 " est remplacée par la référence : " L. 545-2 " et les mots : ", ou qui a été classé en 3e catégorie de la pension d'invalidité de la sécurité sociale " sont supprimés.

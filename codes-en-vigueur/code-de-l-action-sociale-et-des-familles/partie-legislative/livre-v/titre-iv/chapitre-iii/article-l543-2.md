@@ -1,3 +1,3 @@
 # Article L543-2
 
-Le conseil général de Mayotte peut décider de créer un service d'aide sociale à l'enfance régi par les dispositions du présent chapitre.
+Les articles L. 123-1 et L. 123-2 sont applicables à Mayotte.

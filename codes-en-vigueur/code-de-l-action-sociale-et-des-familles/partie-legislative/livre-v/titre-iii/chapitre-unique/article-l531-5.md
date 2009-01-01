@@ -8,15 +8,9 @@ Pour l'application des dispositions prévues du présent code applicables à Sai
 
 - "le tribunal de grande instance" par "le tribunal d'instance" ;
 
-- "commission départementale de l'éducation spéciale" par "commission territoriale de l'éducation spéciale" ;
-
 - "la juridiction du contentieux technique de la sécurité sociale" par "les juridictions de droit commun" ;
 
 - "les régimes d'assurance maladie" par "la caisse de prévoyance sociale" ;
-
-- "des commissions départementales de l'éducation spéciale" par "de la commission territoriale de l'éducation spéciale" ;
-
-- "maison départementale des personnes handicapées" par "maison territoriale des personnes handicapées" ;
 
 - "conseil départemental consultatif des personnes handicapées" par "conseil territorial consultatif des personnes handicapées".
 

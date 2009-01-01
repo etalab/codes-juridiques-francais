@@ -11,3 +11,7 @@ a) Les conditions d'accès à l'emploi, à la formation et à la promotion profe
 b) Les conditions de travail et d'emploi.
 
 La négociation sur l'égalité professionnelle se déroule sur la base d'un rapport présentant la situation comparée des hommes et des femmes dans ces domaines et sur la base d'indicateurs pertinents, reposant sur des éléments chiffrés, pour chaque secteur d'activité.
+
+Les organisations mentionnées au premier alinéa se réunissent pour négocier, tous les trois ans, sur les mesures tendant à l'insertion professionnelle et au maintien dans l'emploi des travailleurs handicapés. La négociation porte notamment sur les conditions d'accès à l'emploi, à la formation et à la promotion professionnelle ainsi que sur les conditions de travail, de maintien dans l'emploi et d'emploi.
+
+Les informations nécessaires à la négociation sont déterminées par voie réglementaire.

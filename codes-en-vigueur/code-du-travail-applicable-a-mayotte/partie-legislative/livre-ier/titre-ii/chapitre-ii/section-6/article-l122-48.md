@@ -8,7 +8,7 @@ Quand l'accouchement a lieu avant la date présumée, la période de suspension 
 
 Si un état pathologique attesté par un certificat médical comme résultant de la grossesse ou des couches le rend nécessaire, la période de suspension du contrat prévue aux alinéas précédents est augmentée de la durée de cet état pathologique dans la limite de deux semaines avant la date présumée de l'accouchement et de quatre semaines après la date de celui-ci.
 
-Lorsque l'enfant est resté hospitalisé jusqu'à l'expiration de la sixième semaine suivant l'accouchement, la salariée peut reporter à la date de la fin de l'hospitalisation tout ou partie du congé auquel elle peut encore prétendre.
+Lorsque l'enfant est resté hospitalisé jusqu'à l'expiration de la sixième semaine suivant l'accouchement, la salariée peut reporter à la date de la fin de l'hospitalisation tout ou partie du congé auquel elle peut encore prétendre. Lorsque l'accouchement intervient plus de six semaines avant la date prévue et exige l'hospitalisation postnatale de l'enfant, le congé de maternité est prolongé du nombre de jours courant de la date effective de la naissance au début des périodes du congé de maternité mentionnées aux alinéas précédents.
 
 La femme devra avertir l'employeur du motif de son absence et de la date à laquelle elle entend remettre en vigueur son contrat de travail.
 

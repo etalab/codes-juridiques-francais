@@ -6,3 +6,6 @@
 - [Chapitre III : Familles et aide sociale à l'enfance.](chapitre-iii)
 - [Chapitre IV : Dispositions communes.](chapitre-iv)
 - [Chapitre V : Personnes handicapées.](chapitre-v)
+- [Chapitre VI : Action sociale et médico-sociale mise en œuvre par des établissements et services.](chapitre-vi)
+- [Chapitre VII : Politique de la ville et cohésion sociale.](chapitre-vii)
+- [Chapitre VIII : Dispositions communes.](chapitre-viii)
