@@ -24,4 +24,4 @@ d) En cas de fusion ou de scission de société, l'indication de l'opération qu
 
 e) L'indication des modifications intervenues.
 
-Le présent article est applicable à la dissolution et la nullité d'une personne morale.
+Le présent article est applicable à la dissolution et la nullité d'une personne morale. Il n'est pas applicable aux sociétés mentionnées au second alinéa de l'article R. 123-155.

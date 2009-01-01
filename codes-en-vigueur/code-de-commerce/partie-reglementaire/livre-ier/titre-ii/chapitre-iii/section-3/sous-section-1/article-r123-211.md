@@ -11,3 +11,5 @@ L'avis concernant une déclaration afférente à la vente, à la cession, à l'a
 4° Le titre du journal habilité à recevoir les annonces légales dans lequel la première insertion a été effectuée ainsi que la date de cette insertion ;
 
 5° Une élection de domicile dans le ressort du tribunal où est situé l'établissement.
+
+La vente, la cession, l'apport en société, l'attribution par partage ou par licitation d'un fonds de commerce détenu par une personne physique dispensée d'immatriculation font l'objet d'un avis.

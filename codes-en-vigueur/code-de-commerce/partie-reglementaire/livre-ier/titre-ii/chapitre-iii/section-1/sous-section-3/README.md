@@ -1,4 +1,4 @@
-# Sous-section 3 : De la domiciliation des personnes morales immatriculées.
+# Sous-section 3 : De la domiciliation des personnes physiques et morales immatriculées.
 
 - [Article R123-167](article-r123-167.md)
 - [Article R123-168](article-r123-168.md)
