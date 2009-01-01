@@ -9,6 +9,6 @@
 - [Chapitre VII : La déclaration d'abandon](chapitre-vii)
 - [Chapitre VIII : L'adoption](chapitre-viii)
 - [Chapitre IX : L'autorité parentale](chapitre-ix)
-- [Chapitre X : La tutelle des mineurs](chapitre-x)
-- [Chapitre XI : Les régimes de protection des majeurs](chapitre-xi)
+- [Chapitre X : La protection juridique des mineurs et des majeurs](chapitre-x)
+- [Chapitre XI : La mesure d'accompagnement judiciaire.](chapitre-xi)
 - [Chapitre XII : Les actions en matière de discriminations.](chapitre-xii)

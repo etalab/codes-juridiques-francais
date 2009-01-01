@@ -1,6 +1,5 @@
-# Chapitre X : La tutelle des mineurs
+# Chapitre X : La protection juridique des mineurs et des majeurs
 
-- [Section I : Le juge des tutelles.](section-i)
-- [Section II : Le conseil de famille.](section-ii)
-- [Section III : Dispositions communes.](section-iii)
-- [Section IV : Dispositions particulières aux pupilles de l'Etat.](section-iv)
+- [Section I : Dispositions relatives aux mesures judiciaires](section-i)
+- [Section II : Dispositions relatives au mandat de protection future.](section-ii)
+- [Section III : Dispositions applicables aux pupilles de l'Etat.](section-iii)
