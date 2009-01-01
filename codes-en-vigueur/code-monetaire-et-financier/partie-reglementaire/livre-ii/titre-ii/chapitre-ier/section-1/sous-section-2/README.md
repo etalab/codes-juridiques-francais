@@ -1,6 +1,4 @@
-# Sous-section 2 : Dispositions spécifiques aux caisses d'épargne et de prévoyance.
+# Sous-section 2 : Dispositions relatives aux établissements distribuant le livret A ou le livret de développement durable.
 
-- [Article R221-21](article-r221-21.md)
-- [Article R221-22](article-r221-22.md)
-- [Article R221-23](article-r221-23.md)
-- [Article R221-24](article-r221-24.md)
+- [Article R221-8](article-r221-8.md)
+- [Article R221-8-1](article-r221-8-1.md)
