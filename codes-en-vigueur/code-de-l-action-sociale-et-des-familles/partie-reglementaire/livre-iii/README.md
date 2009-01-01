@@ -5,3 +5,4 @@
 - [Titre III : Dispositions communes aux établissements soumis à autorisation et à déclaration](titre-iii)
 - [Titre IV : Dispositions spécifiques à certaines catégories d'établissements](titre-iv)
 - [Titre V : Contentieux de la tarification sanitaire et sociale](titre-v)
+- [Titre VI : Financement de la protection judiciaire des majeurs.](titre-vi)

@@ -5,3 +5,4 @@
 - [Titre III : Personnes âgées](titre-iii)
 - [Titre IV : Personnes handicapées](titre-iv)
 - [Titre VI : Lutte contre la pauvreté et les exclusions](titre-vi)
+- [Titre VII : Accompagnement de la personne en matière sociale et budgétaire](titre-vii)
