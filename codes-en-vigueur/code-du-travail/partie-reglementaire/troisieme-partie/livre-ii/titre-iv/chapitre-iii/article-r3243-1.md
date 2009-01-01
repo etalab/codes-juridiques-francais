@@ -26,4 +26,6 @@ b) L'indication de la nature de la base de calcul du salaire lorsque, par except
 
 10° La date de paiement de cette somme ;
 
-11° Les dates de congé et le montant de l'indemnité correspondante, lorsqu'une période de congé annuel est comprise dans la période de paie considérée.
+11° Les dates de congé et le montant de l'indemnité correspondante, lorsqu'une période de congé annuel est comprise dans la période de paie considérée ;
+
+12° Le montant de la prise en charge des frais de transport public ou des frais de transports personnels.
