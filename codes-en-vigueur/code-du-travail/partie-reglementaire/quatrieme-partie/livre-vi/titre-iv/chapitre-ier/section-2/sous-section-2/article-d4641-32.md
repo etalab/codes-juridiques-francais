@@ -10,9 +10,9 @@ b) Le directeur régional des affaires sanitaires et sociales ;
 
 c) Le directeur régional de l'industrie, de la recherche et de l'environnement ;
 
-d) Le chef du service régional de l'inspection du travail, de l'emploi et de la politique sociale agricoles ;
+d) abrogé ;
 
-e) Le directeur régional du travail des transports ;
+e) abrogé ;
 
 2° Au titre du collège des partenaires sociaux :
 
