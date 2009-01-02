@@ -11,3 +11,5 @@ Chaque fonds départemental est composé des titulaires du droit de chasse ainsi
 2° Tous les propriétaires qui se sont réservé l'exercice du droit de chasse sur les territoires leur appartenant, conformément à l'article L. 429-4 ;
 
 3° L'Office national des forêts pour les lots exploités en forêt domaniale par concessions de licences ou mis en réserve.
+
+4° Les titulaires, personnes physiques ou morales, d'une location ou d'une autorisation temporaire de chasser sur le domaine militaire.
