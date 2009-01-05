@@ -64,11 +64,7 @@ Quartier des mineurs du centre pénitentiaire de Moulins-Yzeure (Allier) ;
 
 Quartier des mineurs de la maison d'arrêt de Mulhouse (Bas-Rhin) ;
 
-Quartier des mineurs de la maison d'arrêt de Nancy (Meurthe-et-Moselle) ;
-
 Quartier des mineurs de la maison d'arrêt de Nanterre (Hauts-de-Seine) ;
-
-Quartier des mineurs du centre pénitentiaire de Nantes (Loire-Atlantique) ;
 
 Quartier des mineurs de la maison d'arrêt d'Orléans (Loiret) ;
 
@@ -77,8 +73,6 @@ Quartier des mineurs de la maison d'arrêt d'Osny-Pontoise (Val-d'Oise) ;
 Quartier des mineurs de la maison d'arrêt de Pau (Pyrénées-Atlantiques) ;
 
 Quartier des mineurs du centre pénitentiaire de Perpignan (Pyrénées-Orientales) ;
-
-Quartier des mineurs de la maison d'arrêt de Poitiers (Vienne) ;
 
 Quartier des mineurs de la maison d'arrêt de Reims (Marne) ;
 

@@ -2112,7 +2112,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top">
-<p>(Arr. 11 sept. 2007, art. 2) Service pénitentiaire d'insertion et de probation du Nord. </p>
+<p>Service pénitentiaire d'insertion et de probation du Nord. </p>
 </td>
 <td valign="top">
 <p>Lille. </p>
@@ -2122,7 +2122,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Lille. </p>
-<p>Centre pénitentiaire de Lille-Loos-Sequedin (quartier maison d'arrêt de Sequedin, quartier maison d'arrêt de Loos et quartier centre de détention de Loos). Centre de semi-liberté d'Haubourdin. </p>
+<p>Centre pénitentiaire de Lille-Loos-Sequedin (quartier maison d'arrêt de Sequedin, quartier maison d'arrêt de Loos, quartier centre de détention de Loos, quartier de semi-liberté d'Haubourdin). </p>
 </td>
 </tr>
 <tr>
@@ -2196,15 +2196,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Antenne de Beauvais. </p>
 </td>
 <td valign="top">
-<p>Circonscription judiciaire de Beauvais. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
-<p>Maison d'arrêt de Beauvais. </p>
+<p>Sans changement. </p>
 </td>
 </tr>
 <tr>
@@ -2214,32 +2206,24 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Antenne de Compiègne. </p>
 </td>
 <td valign="top">
-<p>Circonscription judiciaire de Compiègne. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
-<p>Maison d'arrêt de Compiègne. </p>
+<p>Sans changement. </p>
 </td>
 </tr>
 <tr>
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>(Arr. 1 <sup>er </sup>oct. 2004, art. 2) Antenne de Liancourt. </p>
+<p>Antenne de Liancourt. </p>
 </td>
 <td valign="top">
-<p>Centre pénitentiaire de Liancourt (quartier centre de détention de Verderonne inclus). </p>
+<p>Sans changement. </p>
 </td>
 </tr>
 <tr>
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>Antenne de Senlis. </p>
+<p>Antenne de Creil. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Senlis. </p>
