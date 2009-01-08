@@ -1,7 +1,5 @@
-# Chapitre VI : De la fusion et de la scission.
+# Section 1 : Dispositions générales.
 
-- [Section 1 : Dispositions générales.](section-1)
-- [Section 2 : Dispositions particulières aux fusions transfrontalières.](section-2)
 - [Article R236-1](article-r236-1.md)
 - [Article R236-2](article-r236-2.md)
 - [Article R236-3](article-r236-3.md)
