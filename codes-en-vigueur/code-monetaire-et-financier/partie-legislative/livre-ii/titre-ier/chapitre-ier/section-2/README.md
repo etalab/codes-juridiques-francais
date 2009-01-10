@@ -1,5 +1,8 @@
-# Section 2 : Règles générales applicables aux valeurs mobilières.
+# Section 2 : Les titres financiers
 
+- [Sous-section 1 : Conditions d'émission](sous-section-1)
 - [Sous-section 2 : Inscription en compte](sous-section-2)
-- [Sous-section 3 : Identification des détenteurs.](sous-section-3)
+- [Sous-section 3 : Transmission](sous-section-3)
+- [Sous-section 4 : Nantissement de comptes-titres](sous-section-4)
+- [Sous-section 5 : Formes particulières de transmission](sous-section-5)
 - [Article L211-2](article-l211-2.md)

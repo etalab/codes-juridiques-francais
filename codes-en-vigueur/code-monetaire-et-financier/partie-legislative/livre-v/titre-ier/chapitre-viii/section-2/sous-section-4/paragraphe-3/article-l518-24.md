@@ -10,4 +10,4 @@ Les sommes atteintes par la déchéance sont versées annuellement au Trésor pu
 
 En aucun cas, la caisse des dépôts et consignations ne peut être tenue de payer plus de trente années d'intérêts, à moins qu'avant l'expiration de trente ans il n'ait été formé contre la caisse une demande en justice reconnue fondée.
 
-Les dispositions qui précèdent sont applicables aux valeurs mobilières déposées à quelque titre que ce soit à la caisse des dépôts et consignations.
+Les dispositions qui précèdent sont applicables aux titres financiers déposésà quelque titre que ce soit à la caisse des dépôts et consignations.

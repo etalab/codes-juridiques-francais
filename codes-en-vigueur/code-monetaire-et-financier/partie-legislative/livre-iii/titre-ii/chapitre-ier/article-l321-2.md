@@ -2,7 +2,7 @@
 
 Les services connexes aux services d'investissement comprennent :
 
-1. La conservation ou l'administration d'instruments financiers pour le compte de tiers et les services accessoires comme la tenue de comptes d'espèces correspondant à ces instruments financiers ou la gestion de garanties financières ;
+1. La tenue de compte-conservation d'instruments financiers pour le compte de tiers et les services accessoires comme la tenue de comptes d'espèces correspondant à ces instruments financiers ou la gestion de garanties financières ;
 
 2. L'octroi de crédits ou de prêts à un investisseur pour lui permettre d'effectuer une transaction qui porte sur un instrument financier et dans laquelle intervient l'entreprise qui octroie le crédit ou le prêt ;
 
