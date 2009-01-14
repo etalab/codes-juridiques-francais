@@ -10,3 +10,4 @@
 - [Paragraphe 8 : Nature des épreuves conduisant à la délivrance du brevet d'Etat d'éducateur sportif des premier et deuxième degrés et réservées aux candidats étant ou ayant été sportifs de haut niveau](paragraphe-8)
 - [Paragraphe 9 : Dispositions particulières en faveur des personnes handicapées](paragraphe-9)
 - [Paragraphe 10 : Dispositions générales](paragraphe-10)
+- [Paragraphe 11 : Validation des acquis de l'expérience](paragraphe-11)
