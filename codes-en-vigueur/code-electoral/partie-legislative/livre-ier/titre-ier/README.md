@@ -2,3 +2,4 @@
 
 - [Chapitre II : Listes électorales](chapitre-ii)
 - [Chapitre VI : Vote](chapitre-vi)
+- [Chapitre VII : Dispositions pénales](chapitre-vii)
