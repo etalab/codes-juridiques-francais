@@ -2,3 +2,4 @@
 
 - [Article L271](article-l271.md)
 - [Article L272](article-l272.md)
+- [Article L272-6](article-l272-6.md)
