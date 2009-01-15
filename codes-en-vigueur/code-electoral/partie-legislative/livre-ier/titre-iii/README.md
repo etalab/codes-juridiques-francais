@@ -2,3 +2,4 @@
 
 - [Chapitre III : Conditions d'éligibilité et inéligibilités](chapitre-iii)
 - [Chapitre IV : Incompatibilités](chapitre-iv)
+- [Chapitre IV bis : Déclarations de candidature](chapitre-iv-bis)
