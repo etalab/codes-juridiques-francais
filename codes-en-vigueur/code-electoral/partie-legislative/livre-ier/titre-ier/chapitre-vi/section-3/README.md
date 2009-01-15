@@ -1,5 +1,6 @@
 # Section 3 : Vote par procuration
 
+- [Article L71](article-l71.md)
 - [Article L72](article-l72.md)
 - [Article L73](article-l73.md)
 - [Article L74](article-l74.md)

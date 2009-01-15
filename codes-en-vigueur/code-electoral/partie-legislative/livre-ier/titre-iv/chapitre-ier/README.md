@@ -5,5 +5,6 @@
 - [Section 2 : Conditions d'éligibilité et inéligibilités](section-2)
 - [Section 3 : Incompatibilités](section-3)
 - [Section 4 : Propagande](section-4)
+- [Section 5 : Opérations préparatoires au scrutin](section-5)
 - [Section 6 : Opérations de vote](section-6)
 - [Section 7 : Contentieux](section-7)
