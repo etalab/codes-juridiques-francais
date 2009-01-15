@@ -4,3 +4,4 @@
 - [Chapitre III : Conditions d'éligibilité et inéligibilités](chapitre-iii)
 - [Chapitre IV : Incompatibilités](chapitre-iv)
 - [Chapitre IX : Remplacement des députés](chapitre-ix)
+- [Chapitre X : Contentieux](chapitre-x)
