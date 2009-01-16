@@ -1,5 +1,6 @@
 # Section 1 : Dispositions relatives aux utilisations confinées d'organismes génétiquement modifiés à des fins de recherche, de développement ou d'enseignement
 
+- [Article D532-17-1](article-d532-17-1.md)
 - [Article R532-1](article-r532-1.md)
 - [Article R532-2](article-r532-2.md)
 - [Article R532-3](article-r532-3.md)
