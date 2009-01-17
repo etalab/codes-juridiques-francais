@@ -17,7 +17,7 @@
 </tr>
 <tr>
 <td valign="top" width="246">
-<p>Ulcérations cutanées.</p>
+<p>Dermatites irritatives  </p>
 </td>
 <td valign="top" width="76">
 <p align="center">7 jours</p>
