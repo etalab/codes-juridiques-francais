@@ -8,7 +8,7 @@ b) Les plus-values latentes sur placements et sur instruments financiers à term
 
 c) Les composantes d'instruments financiers incluses dans la marge de solvabilité ajustée ;
 
-d) La part des capitaux propres correspondant à la provision d'égalisation maintenue comme provision technique par le règlement n° 2000-05 du Comité de la réglementation comptable ;
+d) La part des capitaux propres correspondant à la provision d'égalisation maintenue comme provision technique par le règlement n° 2000-05 de l'Autorité des normes comptables ;
 
 e) Les avantages du personnel ;
 

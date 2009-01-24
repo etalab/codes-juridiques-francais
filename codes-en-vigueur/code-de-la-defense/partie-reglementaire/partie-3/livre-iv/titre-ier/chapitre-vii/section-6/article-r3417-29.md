@@ -1,6 +1,6 @@
 # Article R3417-29
 
-L'établissement est doté d'un plan comptable approuvé par arrêté conjoint du ministre de la défense, du ministre chargé de l'économie et du ministre chargé des transports, après avis du Conseil national de la comptabilité.
+L'établissement est doté d'un plan comptable approuvé par arrêté conjoint du ministre de la défense, du ministre chargé de l'économie et du ministre chargé des transports, après avis de l'Autorité des normes comptables.
 
 Les comptes sont tenus de façon à distinguer la gestion du régime lui-même du fonctionnement propre de l'établissement.
 
