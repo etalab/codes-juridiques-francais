@@ -1,4 +1,4 @@
-# Chapitre III : Cessation d'activité.
+# Chapitre III : Congé de formation des exploitants agricoles.
 
 - [Article D353-1](article-d353-1.md)
 - [Article D353-2](article-d353-2.md)
@@ -8,3 +8,4 @@
 - [Article D353-6](article-d353-6.md)
 - [Article D353-7](article-d353-7.md)
 - [Article D353-8](article-d353-8.md)
+- [Article D353-9](article-d353-9.md)
