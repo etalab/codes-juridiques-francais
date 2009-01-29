@@ -8,6 +8,7 @@
 - [Clauses types des statuts des sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré.](clauses-types-des-statuts-des-societes-anonymes-cooperatives-d-interet-collectif-d-habitations-a)
 - [Clauses types des statuts des sociétés anonymes de coordination d'organismes d'habitations à loyer modéré.](clauses-types-des-statuts-des-societes-anonymes-de-coordination-d-organismes-d-habitations-a)
 - [Engagements de portée générale applicables à tout programme conventionné.](engagements-de-portee-generale-applicables-a)
+- [Statuts des sociétés civiles immobilières d'accession progressive à la propriété](statuts-des-societes-civiles-immobilieres-d-accession-progressive-a)
 - [Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution.](statuts-types-des-societes-anonymes-cooperatives-d-habitations-a)
 - [Statuts types des sociétés anonymes coopératives de production d'habitations à loyer modéré.](statuts-types-des-societes-anonymes-cooperatives-de-production-d-habitations-a)
 - [Statuts types des sociétés anonymes d'habitations à loyer modéré.](statuts-types-des-societes-anonymes-d-habitations-a)
