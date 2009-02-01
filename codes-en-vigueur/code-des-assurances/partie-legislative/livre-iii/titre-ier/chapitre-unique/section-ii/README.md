@@ -24,3 +24,4 @@
 - [Article L310-22](article-l310-22.md)
 - [Article L310-23](article-l310-23.md)
 - [Article L310-25](article-l310-25.md)
+- [Article L310-25-1](article-l310-25-1.md)

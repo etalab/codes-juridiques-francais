@@ -12,7 +12,7 @@ L'Autorité de contrôle des assurances et des mutuelles est composée de neuf m
 
 5° Un conseiller maître à la Cour des comptes, proposé par le premier président de la Cour des comptes ;
 
-6° Quatre membres choisis en raison de leur compétence en matière d'assurance, de mutualité et de prévoyance.
+6° Quatre membres choisis en raison de leur compétence en matière d'assurance, de mutualité, de prévoyance et de réassurance.
 
 Les membres mentionnés aux 3° et 6° sont nommés par arrêté conjoint des ministres chargés de l'économie, de la sécurité sociale et de la mutualité. Un vice-président de l'Autorité de contrôle est également nommé parmi ces membres par arrêté conjoint des ministres, pris après avis du président. Le vice-président exerce les compétences du président en cas d'absence ou d'empêchement de celui-ci.
 
