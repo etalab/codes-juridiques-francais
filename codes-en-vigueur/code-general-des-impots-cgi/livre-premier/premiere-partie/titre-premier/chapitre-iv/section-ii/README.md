@@ -7,6 +7,7 @@
 - [I quinquies : Régime fiscal des sociétés créées de fait](i-quinquies)
 - [I sexies : Obligation des sociétés en participation](i-sexies)
 - [II : Régime fiscal des groupements forestiers et de leurs membres](ii)
+- [III : Fiducie](iii)
 - [VI bis : Primes de remboursement et intérêts capitalisés](vi-bis)
 - [VI ter : Détermination du résultat réalisé par les entreprises à l'occasion de la cession de certains titres de placements à revenu fixe](vi-ter)
 - [VII : Plus-values réalisées par les entreprises à l'occasion de la construction et de la vente d'immeubles affectés principalement à l'habitation](vii)

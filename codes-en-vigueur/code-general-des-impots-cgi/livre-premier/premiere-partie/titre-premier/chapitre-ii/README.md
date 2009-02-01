@@ -8,4 +8,3 @@
 - [Section VI : Etablissement de l'impôt](section-vi)
 - [Section VII : Obligations des personnes morales](section-vii)
 - [Section VIII : Groupes de sociétés](section-viii)
-- [Section IX : Fiducie](section-ix)

@@ -8,6 +8,7 @@
 - [Article 150 UA](article-150-ua.md)
 - [Article 150 UB](article-150-ub.md)
 - [Article 150 UC](article-150-uc.md)
+- [Article 150 UD](article-150-ud.md)
 - [Article 150 VA](article-150-va.md)
 - [Article 150 VB](article-150-vb.md)
 - [Article 150 VE](article-150-ve.md)

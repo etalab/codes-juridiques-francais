@@ -4,3 +4,4 @@
 - [Article 885 E](article-885-e.md)
 - [Article 885 F](article-885-f.md)
 - [Article 885 G](article-885-g.md)
+- [Article 885 G bis](article-885-g-bis.md)

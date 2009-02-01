@@ -1,10 +1,10 @@
-# Article 223 V
+# Article 238 quater B
 
-I.-Les profits ou les pertes ainsi que les plus ou moins-values résultant du transfert dans un patrimoine fiduciaire de biens et droits inscrits à l'actif du bilan du constituant de la fiducie ne sont pas compris dans le résultat imposable de l'exercice de transfert si les conditions suivantes sont réunies :
+I.-Les profits ou les pertes ainsi que les plus ou moins-values résultant du transfert, réalisé en application d'une opération de fiducie définie à l'article 2011 du code civil, dans un patrimoine fiduciaire de biens et droits inscrits à l'actif du bilan du constituant de la fiducie ne sont pas compris dans le résultat imposable de l'exercice de transfert si les conditions suivantes sont réunies :
 
-1° Le contrat de fiducie répond aux conditions prévues aux articles 2011 à 2031 du code civil ;
+1° Le constituant exerce une activité relevant des articles 34 ou 35, une activité agricole au sens de l'article 63, une activité professionnelle au sens du 1 de l'article 92 ou une activité civile soumise à l'impôt sur les sociétés ;
 
-2° Le constituant est désigné comme le ou l'un des bénéficiaires dans le contrat de fiducie ;
+2° Le constituant est désigné comme le ou l'un des bénéficiaires dans le contrat de fiducie ; les droits du constituant représentatifs des biens ou droits transférés dans le patrimoine fiduciaire sont inscrits au bilan du constituant ;
 
 3° Le fiduciaire doit respecter les engagements, pris dans le contrat de fiducie, suivants :
 
@@ -31,3 +31,5 @@ Pour l'application du c du 3° du I, en cas de cession ultérieure des droits me
 Ces dispositions s'appliquent aux droits afférents aux contrats de crédit-bail portant sur des éléments incorporels amortissables d'un fonds de commerce ou assimilé.
 
 III.-Pour l'application du présent article, les titres du portefeuille dont le résultat de cession est exclu du régime des plus ou moins-values à long terme conformément à l'article 219 sont assimilés à des éléments non amortissables de l'actif immobilisé.
+
+IV.-Un décret précise, en tant que de besoin, les modalités d'application du présent article, notamment lorsque le constituant exerce une activité dont les résultats sont imposables à l'impôt sur le revenu dans la catégorie des bénéfices non commerciaux.

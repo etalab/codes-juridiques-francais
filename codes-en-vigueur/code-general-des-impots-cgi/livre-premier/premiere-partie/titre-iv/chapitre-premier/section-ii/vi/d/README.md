@@ -2,7 +2,6 @@
 
 - [Article 792](article-792.md)
 - [Article 792 bis](article-792-bis.md)
-- [Article 792 ter](article-792-ter.md)
 - [Article 793](article-793.md)
 - [Article 793 bis](article-793-bis.md)
 - [Article 793 ter](article-793-ter.md)
