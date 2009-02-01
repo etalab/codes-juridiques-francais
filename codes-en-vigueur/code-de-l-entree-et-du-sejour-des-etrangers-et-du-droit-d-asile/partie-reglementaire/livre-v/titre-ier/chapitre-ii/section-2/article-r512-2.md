@@ -8,7 +8,7 @@ Les modalités selon lesquelles le tribunal administratif examine les recours en
 
 " Art.R. 776-2 du code de justice administrative :
 
-" Les jugements sont rendus par le président du tribunal administratif ou le magistrat qu'il délègue, sans conclusions du commissaire du Gouvernement.
+" Les jugements sont rendus par le président du tribunal administratif ou le magistrat qu'il délègue, sans conclusions du rapporteur public.
 
 " Art.R. 776-2-1 du code de justice administrative :
 
