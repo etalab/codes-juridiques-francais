@@ -58,9 +58,9 @@ II.-Les sociétés mentionnées au I de l'article L. 233-7 dont des actions sont
 
 II.-Ne sont pas assimilées aux actions ou aux droits de vote possédés par la personne tenue à l'information prévue au I de l'article L. 233-7 :
 
-1° Les actions détenues par les organismes de placement collectif en valeurs mobilières gérés par une société de gestion de portefeuille contrôlée par cette personne au sens de l'article L. 233-3, sauf exceptions prévues par le règlement général de l'Autorité des marchés financiers ;
+1° Les actions détenues par les organismes de placement collectif en valeurs mobilières ou les SICAF gérés par une société de gestion de portefeuille contrôlée par cette personne au sens de l'article L. 233-3, sauf exceptions prévues par le règlement général de l'Autorité des marchés financiers ;
 
-2° Les actions détenues dans un portefeuille géré par un prestataire de services d'investissement contrôlé par cette personne au sens de l'article L. 233-3, dans le cadre du service de gestion de portefeuille pour compte de tiers dans les conditions fixées par le règlement général de l'Autorité des marchés financiers, sauf exceptions prévues par le même règlement général. "
+2° Les actions détenues dans un portefeuille géré par un prestataire de services d'investissement contrôlé par cette personne au sens de l'article L. 233-3, dans le cadre du service de gestion de portefeuille pour compte de tiers dans les conditions fixées par le règlement général de l'Autorité des marchés financiers, sauf exceptions prévues par le même règlement général."
 
 " Art.L. 233-10-I.-Sont considérées comme agissant de concert les personnes qui ont conclu un accord en vue d'acquérir ou de céder des droits de vote ou en vue d'exercer les droits de vote, pour mettre en oeuvre une politique vis-à-vis de la société.
 
@@ -78,7 +78,7 @@ II.-Un tel accord est présumé exister :
 
 III.-Les personnes agissant de concert sont tenues solidairement aux obligations qui leur sont faites par les lois et règlements. "
 
-" Art.L. 233-10-1-En cas d'offre publique d'acquisition, sont considérées comme agissant de concert les personnes qui ont conclu un accord avec l'auteur d'une offre publique visant à obtenir le contrôle de la société qui fait l'objet de l'offre. Sont également considérées comme agissant de concert les personnes qui ont conclu un accord avec la société qui fait l'objet de l'offre afin de faire échouer cette offre.
+" Art.L. 233-10-1-En cas d'offre publique d'acquisition, sont considérées comme agissant de concert les personnes qui ont conclu un accord avec l'auteur d'une offre publique visant à obtenir le contrôle de la société qui fait l'objet de l'offre. Sont également considérées comme agissant de concert les personnes qui ont conclu un accord avec la société qui fait l'objet de l'offre afin de faire échouer cette offre. "
 
 " Art.L. 233-11-Toute clause d'une convention prévoyant des conditions préférentielles de cession ou d'acquisition d'actions admises aux négociations sur un marché réglementé et portant sur au moins 0, 5 % du capital ou des droits de vote de la société qui a émis ces actions doit être transmise dans un délai de cinq jours de bourse à compter de la signature de la convention ou de l'avenant introduisant la clause concernée, à la société et à l'Autorité des marchés financiers.A défaut de transmission, les effets de cette clause sont suspendus, et les parties déliées de leurs engagements, en période d'offre publique.
 

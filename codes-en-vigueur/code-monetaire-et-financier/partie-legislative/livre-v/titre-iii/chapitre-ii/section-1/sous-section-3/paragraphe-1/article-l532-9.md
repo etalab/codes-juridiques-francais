@@ -1,6 +1,6 @@
 # Article L532-9
 
-Les sociétés de gestion de portefeuille sont des entreprises d'investissement qui fournissent, à titre principal, le service d'investissement mentionné au 4 de l'article L. 321-1, ou qui gèrent un ou plusieurs organismes de placement collectifs mentionnés aux 1, 2 et 5 du I de l'article L. 214-1.
+Les sociétés de gestion de portefeuille sont des entreprises d'investissement qui fournissent, à titre principal, le service d'investissement mentionné au 4 de l'article L. 321-1, ou qui gèrent un ou plusieurs organismes de placement collectifs mentionnés aux 1, 2, 5 et 6 du I de l'article L. 214-1.
 
 Les sociétés de gestion de portefeuille sont agréées par l'Autorité des marchés financiers.
 
@@ -14,7 +14,7 @@ Pour délivrer l'agrément à une société de gestion de portefeuille, l'Autori
 
 4. Est dirigée effectivement par deux personnes au moins possédant l'honorabilité nécessaire et l'expérience adéquate à leur fonction, en vue de garantir sa gestion saine et prudente. Le règlement général de l'Autorité des marchés financiers fixe les conditions dans lesquelles une société de gestion de portefeuille peut, par dérogation, être dirigée effectivement par une seule personne. Il précise les mesures qui doivent être prises pour garantir la gestion saine et prudente de la société concernée ;
 
-5. Dispose d'un programme d'activité pour chacun des services qu'elle entend exercer, qui précise les conditions dans lesquelles elle envisage       de fournir les services d'investissement concernés ou d'exercer la gestion des organismes mentionnés au premier alinéa et indique le type d'opérations envisagées et la structure de son organisation ;
+5. Dispose d'un programme d'activité pour chacun des services qu'elle entend exercer, qui précise les conditions dans lesquelles elle envisage de fournir les services d'investissement concernés ou d'exercer la gestion des organismes mentionnés au premier alinéa et indique le type d'opérations envisagées et la structure de son organisation ;
 
 6. Adhère à un mécanisme de garantie des titres géré par le Fonds de garantie des dépôts conformément aux articles L. 322-5 et L. 322-10.
 
