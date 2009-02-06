@@ -166,7 +166,7 @@ A.-Actif
 </tr>
 <tr>
 <td valign="top" width="449">
-<p>-6 aa (Arrêté du 19 avril 1995, art. 3-III.) Primes restant à émettre »</p>
+<p>-6 aa (Arrêté du 19 avril 1995, art. 3-III.) Primes restant à émettre </p>
 </td>
 <td valign="top" width="84"/>
 <td valign="top" width="81"/>
@@ -293,7 +293,7 @@ A.-Actif
 <tr>
 <td colspan="3" valign="top" width="614">
 <p>(1) Ainsi modifié par arrêtés du 19 avril 1995, article 3-III et du 28 juillet 1995, article 3-III (1°).</p>
-<p>N.B. 1 : (Arrêté du 28 juillet 1995, art. 3-I-2°) En tant que de besoin, le poste 5 est suivi d'un poste 5 bis, intitulé " Part des organismes dispensés d'agrément dans les provisions techniques, subdivisé en sous-postes 5 bis a " Provisions pour primes non acquises, 5 bis d " Provisions pour sinistres, 5 bis f " Provisions pour participation aux bénéfices et ristournes, 5 bis g " Provisions pour égalisation et 5 bis i " Autres provisions techniques. » </p>
+<p>N.B. 1 : (Arrêté du 28 juillet 1995, art. 3-I-2°) En tant que de besoin, le poste 5 est suivi d'un poste 5 bis, intitulé " Part des organismes dispensés d'agrément dans les provisions techniques, subdivisé en sous-postes 5 bis a " Provisions pour primes non acquises, 5 bis d " Provisions pour sinistres, 5 bis f " Provisions pour participation aux bénéfices et ristournes, 5 bis g " Provisions pour égalisation et 5 bis i " Autres provisions techniques. </p>
 </td>
 </tr>
 </tbody>
@@ -1039,7 +1039,7 @@ Règles de raccordement des comptes au bilan (actif)
 <p>8 c </p>
 </td>
 <td width="276">
-<p align="center">482, 4830, 486 » (1), 487 et 489 » (2) </p>
+<p align="center">482, 4830, 486 (1), 487 et 489 (2) </p>
 </td>
 <td width="249">
 <p>Soldes débiteurs. </p>
@@ -1148,7 +1148,7 @@ Règles de raccordement des comptes au bilan (passif)
 </td>
 <td width="321">
 <p align="center">Respectivement 31, 30, 32, 33, 34, 35, 36, 370 </p>
-<p align="center">et 374 et 377, 372 et 375 </p>
+<p align="center">et 374 et 377, 372 et 375, 379 </p>
 </td>
 <td valign="top" width="205"/>
 </tr>
@@ -1275,7 +1275,7 @@ Règles de raccordement des comptes au bilan (passif)
 <p>8 </p>
 </td>
 <td width="321">
-<p align="center">484, 4850, 486 » (1), 487 et 489 » (2) </p>
+<p align="center">484, 4850, 486 (1), 487 et 489 (2) </p>
 </td>
 <td valign="top" width="205">
 <p>Soldes créditeurs. </p>
@@ -1302,7 +1302,7 @@ Règles de raccordement des comptes au bilan
 
 (tableau des engagements reçus et donnés)
 
-Postes 1, 2 a à 2 d, 3, 4, 5, (cf. note 38) 6 (arrêté du 15 décembre 2005, annexe 3-10) et 7 » : raccordement aux sous-comptes (arrêté du 15 décembre 2005, annexe 3-10) des comptes 80 et 81 ».
+Postes 1, 2 a à 2 d, 3, 4, 5, (cf. note 38) 6 (arrêté du 15 décembre 2005, annexe 3-10) et 7 : raccordement aux sous-comptes (arrêté du 15 décembre 2005, annexe 3-10) des comptes 80 et 81 .
 
 Commentaires particuliers :
 
@@ -1337,7 +1337,7 @@ Commentaires particuliers :
 <p align="center">2 c </p>
 </td>
 <td valign="top" width="549">
-<p>Toutes opérations autres que celles visées au 2 b (arrêté du 15 décembre 2005, annexe 3-10) et au 7 » par lesquelles l'entreprise a pris un engagement d'acheter ou de vendre un actif, ou de verser un revenu, et notamment :</p>
+<p>Toutes opérations autres que celles visées au 2 b (arrêté du 15 décembre 2005, annexe 3-10) et au 7 par lesquelles l'entreprise a pris un engagement d'acheter ou de vendre un actif, ou de verser un revenu, et notamment :</p>
 <p>-les garanties d'acquisition d'immeuble ;</p>
 <p>-les garanties de rachat ou d'achat de titres (garanties de liquidité). </p>
 <p>(Tirets supprimés par arrêté du 15 décembre 2005, annexe 3-10.) </p>
