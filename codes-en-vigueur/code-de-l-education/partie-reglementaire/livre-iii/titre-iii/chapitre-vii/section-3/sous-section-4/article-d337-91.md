@@ -4,4 +4,4 @@ Les sujets des épreuves sont choisis par le ministre chargé de l'éducation ou
 
 Pour les baccalauréats professionnels mentionnés au deuxième alinéa de l'article D. 337-53, les sujets des épreuves sont choisis par le ministre chargé de l'agriculture.
 
-Pour les baccalauréats professionnels mentionnés au troisième alinéa de l'article D. 337-53, les sujets des épreuves sont choisis par le ministre chargé de la marine marchande.
+Pour les baccalauréats professionnels mentionnés au troisième alinéa de l'article D. 337-53, les sujets des épreuves sont choisis par le ministre chargé de la mer.
