@@ -7,3 +7,5 @@ Le jugement qui arrête le plan emporte cession de ces contrats, même lorsque l
 Ces contrats doivent être exécutés aux conditions en vigueur au jour de l'ouverture de la procédure, nonobstant toute clause contraire.
 
 En cas de cession d'un contrat de crédit-bail, le crédit-preneur ne peut lever l'option d'achat qu'en cas de paiement des sommes restant dues dans la limite de la valeur du bien fixée d'un commun accord entre les parties ou, à défaut, par le tribunal à la date de la cession.
+
+La convention en exécution de laquelle le débiteur constituant conserve l'usage ou la jouissance de biens ou droits transférés à titre de garantie dans un patrimoine fiduciaire ne peut être cédée au cessionnaire, sauf accord des bénéficiaires du contrat de fiducie.

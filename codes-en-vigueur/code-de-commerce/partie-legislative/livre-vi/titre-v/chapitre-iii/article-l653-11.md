@@ -2,7 +2,7 @@
 
 Lorsque le tribunal prononce la faillite personnelle ou l'interdiction prévue à l'article L. 653-8, il fixe la durée de la mesure, qui ne peut être supérieure à quinze ans. Il peut ordonner l'exécution provisoire de sa décision. Les déchéances, les interdictions et l'incapacité d'exercer une fonction publique élective cessent de plein droit au terme fixé, sans qu'il y ait lieu au prononcé d'un jugement.
 
-Le jugement de clôture pour extinction du passif, y compris après exécution de l'obligation aux dettes sociales prononcée à son encontre, rétablit le chef d'entreprise ou les dirigeants de la personne morale dans tous leurs droits. Il les dispense ou relève de toutes les déchéances, interdictions et incapacité d'exercer une fonction publique élective.
+Le jugement de clôture pour extinction du passif, y compris après exécution d'une condamnation prononcée à son encontre en application de l'article L. 651-2, rétablit le   débiteur personne physique ou les dirigeants de la personne morale dans tous leurs droits. Il les dispense ou relève de toutes les déchéances, interdictions et incapacité d'exercer une fonction publique élective.
 
 L'intéressé peut demander au tribunal de le relever, en tout ou partie, des déchéances et interdictions et de l'incapacité d'exercer une fonction publique élective s'il a apporté une contribution suffisante au paiement du passif.
 

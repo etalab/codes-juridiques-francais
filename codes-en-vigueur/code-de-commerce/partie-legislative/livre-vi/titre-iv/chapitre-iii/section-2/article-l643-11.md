@@ -20,4 +20,6 @@ III. - Les créanciers recouvrent leur droit de poursuite individuelle dans les 
 
 IV. - En outre, en cas de fraude à l'égard d'un ou de plusieurs créanciers, le tribunal autorise la reprise des actions individuelles de tout créancier à l'encontre du débiteur. Le tribunal statue lors de la clôture de la procédure après avoir entendu ou dûment appelé le débiteur, le liquidateur et les contrôleurs. Il peut statuer postérieurement à celle-ci, à la demande de tout intéressé, dans les mêmes conditions.
 
-V. - Les créanciers qui recouvrent l'exercice individuel de leurs actions en application du présent article peuvent, si leurs créances ont été admises, obtenir un titre exécutoire par ordonnance du président du tribunal ou, si leurs créances n'ont pas été vérifiées, le mettre en oeuvre dans les conditions de droit commun.
+V. - Les créanciers qui recouvrent leur droit de poursuite individuelle et dont les créances ont été admises ne peuvent exercer ce droit sans avoir obtenu un titre exécutoire ou, lorsqu'ils disposent déjà d'un tel titre, sans avoir fait constater qu'ils remplissent les conditions prévues au présent article. Le président du tribunal, saisi à cette fin, statue par ordonnance.
+
+Les créanciers qui recouvrent l'exercice individuel de leurs actions et dont les créances n'ont pas été vérifiées peuvent le mettre en œuvre dans les conditions du droit commun.

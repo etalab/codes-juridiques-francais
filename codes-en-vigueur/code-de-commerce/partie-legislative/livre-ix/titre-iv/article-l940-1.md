@@ -14,4 +14,4 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 
 6° Le titre II du livre VII, à l'exception des articles L. 722-3, L. 722-11 à L. 722-13, de l'article L. 723-6, du deuxième alinéa de l'article L. 723-7, du deuxième alinéa de l'article L. 723-10 et de l'article L. 723-11.
 
-Les dispositions qui précèdent, a l'exception de celles du 6°, sont celles en vigueur à la date de la publication de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française. Elles ne peuvent être modifiées que dans les conditions prévues à l'article 11 de cette loi organique.
+Les dispositions qui précèdent, a l'exception de celles du 6° et de l'article L. 610-1, sont celles en vigueur à la date de la publication de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française. Elles ne peuvent être modifiées que dans les conditions prévues à l'article 11 de cette loi organique.

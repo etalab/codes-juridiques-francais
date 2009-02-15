@@ -4,4 +4,4 @@ Dans les cas prévus aux articles L. 653-3 à L. 653-6, le tribunal peut prononc
 
 L'interdiction mentionnée au premier alinéa peut également être prononcée à l'encontre de toute personne mentionnée à l'article L. 653-1 qui, de mauvaise foi, n'aura pas remis au mandataire judiciaire, à l'administrateur ou au liquidateur les renseignements qu'il est tenu de lui communiquer en application de l'article L. 622-6 dans le mois suivant le jugement d'ouverture.
 
-Elle peut également être prononcée à l'encontre de toute personne mentionnée à l'article L. 653-1 qui aura omis de faire, dans le délai de quarante-cinq jours, la déclaration de cessation des paiements, sans avoir, par ailleurs, demandé l'ouverture d'une procédure de conciliation.
+Elle peut également être prononcée à l'encontre de toute personne mentionnée à l'article L. 653-1 qui a omis de demander l'ouverture d'une procédure de redressement ou de liquidation judiciaire dans le délai de quarante-cinq jours à compter de la cessation des paiements, sans avoir, par ailleurs, demandé l'ouverture d'une procédure de conciliation.
