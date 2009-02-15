@@ -1,6 +1,6 @@
 # Article R643-20
 
-Le créancier dont la créance a été admise et qui recouvre son droit de poursuite individuelle conformément à l'article L. 643-11 peut obtenir, par ordonnance du président du tribunal rendue sur requête, le titre prévu au V du même article. La caution ou le co-obligé mentionné au II du même article peut, dans les mêmes conditions, obtenir un titre exécutoire sur justification du paiement effectué.
+Le créancier dont la créance a été admise et qui recouvre son droit de poursuite individuelle conformément à l'article L. 643-11 peut obtenir, par ordonnance du président du tribunal rendue sur requête, le titre prévu au V du même article. La caution ou le co-obligé mentionné au II du même article peut, dans les mêmes conditions, obtenir un titre exécutoire sur justification du paiement effectué. La procédure de l'injonction de payer prévue aux articles 1405 et suivants du code de procédure civile n'est pas applicable.
 
 Lorsque la créance a été admise lors de la procédure, le président du tribunal qui a ouvert celle-ci est compétent. Lorsque la créance n'a pas été vérifiée, la compétence du tribunal est déterminée selon les règles du droit commun.
 

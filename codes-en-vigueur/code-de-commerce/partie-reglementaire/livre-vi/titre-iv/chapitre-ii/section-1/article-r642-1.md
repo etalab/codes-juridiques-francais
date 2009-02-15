@@ -4,6 +4,6 @@ L'auteur de l'offre atteste qu'il ne tombe pas sous le coup des incapacités pr�
 
 Les modifications des offres effectuées dans les conditions du V de l'article L. 642-2 sont communiquées par le liquidateur ou l'administrateur s'il en a été désigné, aux personnes mentionnées au IV de l'article L. 642-2.
 
-A peine d'irrecevabilité, aucune modification ne peut être apportée à une offre postérieurement à l'audience au cours de laquelle elle a été débattue contradictoirement.
+A peine d'irrecevabilité, aucune modification ne peut être apportée à une offre moins de deux jours ouvrés avant la date fixée pour l'audience d'examen des offres par le tribunal.
 
-En cas de renvoi de l'affaire à une audience ultérieure, le tribunal peut fixer un nouveau délai pour la présentation de nouvelles offres.
+En cas de renvoi de l'affaire à une audience ultérieure, le tribunal peut fixer un nouveau délai pour la présentation de nouvelles offres ou l'amélioration des offres préalablement déposées.

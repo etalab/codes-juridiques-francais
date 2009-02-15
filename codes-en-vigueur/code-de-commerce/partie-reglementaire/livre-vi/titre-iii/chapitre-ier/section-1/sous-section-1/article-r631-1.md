@@ -28,6 +28,6 @@ A cette demande sont jointes, outre les comptes annuels du dernier exercice, les
 
 12° Lorsque le débiteur exploite une ou des installations classées au sens du titre Ier du livre V du code de l'environnement, la copie de la décision d'autorisation ou la déclaration.
 
-Ces documents sont datés, signés et certifiés sincères et véritables par le demandeur. Ceux qui sont mentionnés aux l°, 2°, 5°, 6°, 7° et 8° sont établis à la date de la demande.
+Ces documents sont datés, signés et certifiés sincères et véritables par le demandeur. Ceux qui sont mentionnés aux l°, 2°, 5°, 6°, 7° et 8° sont établis à la date de la demande ou dans les sept jours qui précèdent.
 
 Dans le cas où l'un ou l'autre de ces documents ne peut être fourni ou ne peut l'être qu'incomplètement, la demande indique les motifs qui empêchent cette production.
