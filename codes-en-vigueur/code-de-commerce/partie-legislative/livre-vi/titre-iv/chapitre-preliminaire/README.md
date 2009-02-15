@@ -1,4 +1,4 @@
-# Chapitre préliminaire : De l'ouverture et du déroulement de la liquidation judiciaire.
+# Chapitre préliminaire : Des conditions d'ouverture de la liquidation judiciaire.
 
 - [Article L640-1](article-l640-1.md)
 - [Article L640-2](article-l640-2.md)
