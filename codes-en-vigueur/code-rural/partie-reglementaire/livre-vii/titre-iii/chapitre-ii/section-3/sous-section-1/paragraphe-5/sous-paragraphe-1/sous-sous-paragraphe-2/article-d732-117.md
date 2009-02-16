@@ -1,3 +1,0 @@
-# Article D732-117
-
-Pour les assurés qui justifient d'une durée d'activité non salariée agricole comprise entre vingt-deux années et demie et trente-sept années et demie, le nombre de points supplémentaires calculé conformément aux dispositions de l'article D. 732-116 est minoré par l'application d'un coefficient. Ce coefficient est fonction de l'écart entre cette durée et trente-sept années et demie. Pour chacune des années de l'écart constaté, le coefficient de minoration à appliquer est de 5,5 % au 1er janvier 2007 pour les pensions dues au titre de l'année 2007 et de 4 % au 1er janvier 2008 pour les pensions dues à compter du 1er janvier 2008.
