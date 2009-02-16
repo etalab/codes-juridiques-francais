@@ -1,6 +1,6 @@
 # Article D723-8
 
-La nouvelle caisse de mutualité sociale agricole est subrogée dans les droits et obligations des anciennes caisses fusionnées.
+La nouvelle caisse de mutualité sociale agricole est subrogée dans les droits et obligations des anciennes caisses fusionnées et le cas échéant dans ceux des associations ou groupements qu'elles ont constitués en application de l'article L. 723-5.
 
 Sur décision des assemblées générales réunies dans les conditions prévues à l'article D. 723-5, les biens meubles et immeubles, les fonds disponibles, les valeurs réalisables et les valeurs exigibles, les réserves ou provisions, regroupés par nature, des caisses fusionnées sont dévolus à la caisse pluridépartementale de mutualité sociale agricole issue de leur fusion.
 
