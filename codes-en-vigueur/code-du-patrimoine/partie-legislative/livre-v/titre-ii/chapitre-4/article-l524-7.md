@@ -6,9 +6,9 @@ I.-Lorsqu'elle est perçue sur les travaux visés au a de l'article L. 524-2, l'
 
 La redevance n'est pas due pour les travaux de construction créant moins de 1 000 mètres carrés de surface hors oeuvre nette ou, pour les parcs de stationnement visés à l'alinéa précédent, de surface.
 
-Le tarif de la redevance est de 0, 3 % de la valeur de l'ensemble immobilier déterminée conformément à l'article 1585 D du code général des impôts.
+Le tarif de la redevance est de   0,4 % de la valeur de l'ensemble immobilier déterminée conformément à l'article 1585 D du code général des impôts.
 
-II.-Lorsqu'elle est perçue sur des travaux visés aux b et c de l'article L. 524-2, son montant est égal à 0, 32 euro par mètre carré. Ce montant est indexé sur l'indice du coût de la construction.
+II.-Lorsqu'elle est perçue sur des travaux visés aux b et c de l'article L. 524-2, son montant est égal à 0,50 € par mètre carré. Ce montant est indexé sur l'indice du coût de la construction.
 
 La surface prise en compte est selon le cas :
 

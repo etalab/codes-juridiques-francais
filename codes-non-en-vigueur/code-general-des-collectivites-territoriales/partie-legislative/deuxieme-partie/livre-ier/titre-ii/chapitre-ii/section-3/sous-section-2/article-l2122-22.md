@@ -8,7 +8,7 @@ Le maire peut, en outre, par délégation du conseil municipal, être chargé, e
 
 3° De procéder, dans les limites fixées par le conseil municipal, à la réalisation des emprunts destinés au financement des investissements prévus par le budget, et aux opérations financières utiles à la gestion des emprunts, y compris les opérations de couvertures des risques de taux et de change ainsi que de prendre les décisions mentionnées au III de l'article L. 1618-2 et au a de l'article L. 2221-5-1, sous réserve des dispositions du c de ce même article, et de passer à cet effet les actes nécessaires ;
 
-4° De prendre toute décision concernant la préparation, la passation, l'exécution et le règlement des marchés et des accords-cadres d'un montant inférieur à un seuil défini par décret ainsi que toute décision concernant leurs avenants qui n'entraînent pas une augmentation du montant du contrat initial supérieure à 5 %, lorsque les crédits sont inscrits au budget ;
+4° De prendre toute décision concernant la préparation, la passation, l'exécution et le règlement des marchés et des accords-cadres ainsi que toute décision concernant leurs avenants                , lorsque les crédits sont inscrits au budget ;
 
 5° De décider de la conclusion et de la révision du louage de choses pour une durée n'excédant pas douze ans ;
 
