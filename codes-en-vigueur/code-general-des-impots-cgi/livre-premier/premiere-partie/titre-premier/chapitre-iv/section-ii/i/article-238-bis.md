@@ -18,7 +18,11 @@ e ter) De sociétés, dont l'Etat est l'actionnaire unique, qui ont pour activit
 
 f) De la " Fondation du patrimoine " ou d'une fondation ou une association qui affecte irrévocablement ces versements à la " Fondation du patrimoine ", en vue de subventionner la réalisation des travaux prévus par les conventions conclues en application de l'article L. 143-2-1 du code du patrimoine entre la " Fondation du patrimoine " et les propriétaires des immeubles, personnes physiques ou sociétés civiles composées uniquement de personnes physiques et qui ont pour objet exclusif la gestion et la location nue des immeubles dont elles sont propriétaires.
 
-Les immeubles mentionnés au premier alinéa ne doivent pas faire l'objet d'une exploitation commerciale.
+Les immeubles mentionnés au premier alinéa du présent f ne doivent pas faire l'objet d'une exploitation commerciale. Toutefois, ces dispositions ne sont pas applicables lorsque la gestion de l'immeuble est désintéressée et que les conditions suivantes sont cumulativement remplies :
+
+1° Les revenus fonciers nets, les bénéfices agricoles, les bénéfices industriels et commerciaux et les bénéfices des sociétés commerciales, augmentés des charges déduites en application du 5° du 1 de l'article 39, générés par l'immeuble au cours des trois années précédentes sont affectés au financement des travaux prévus par la convention ;
+
+2° Le montant des dons collectés n'excède pas le montant restant à financer au titre de ces travaux, après affectation des subventions publiques et des sommes visées au 1° du présent f.
 
 Les dirigeants ou les membres du conseil d'administration ou du directoire de la société ne doivent pas avoir conclu une convention avec la " Fondation du patrimoine " en application de l'article L. 143-2-1 précité, être propriétaires de l'immeuble sur lequel sont effectués les travaux ou être un conjoint, un ascendant, un descendant ou un collatéral du propriétaire de cet immeuble. Lorsque l'immeuble est détenu par une société mentionnée au premier alinéa, les associés ne peuvent pas être dirigeants ou membres du conseil d'administration ou du directoire de la société donatrice ou d'une société qui entretiendrait avec la société donatrice des liens de dépendance au sens du 12 de l'article 39. Les dirigeants ou les membres du conseil d'administration ou du directoire de la société donatrice ne peuvent être un conjoint, un ascendant, un descendant ou un collatéral des associés de la société civile propriétaire de l'immeuble.
 
@@ -28,7 +32,7 @@ g) De fonds de dotation :
 
 1° Répondant aux caractéristiques mentionnées au a ;
 
-2° Ou dont la gestion est désintéressée et qui reversent les revenus tirés des dons et versements mentionnés au premier alinéa du présent 1 à des organismes mentionnés aux a à e bis ou à la Fondation du patrimoine dans les conditions mentionnées aux deux premiers alinéas du f, ou à une fondation ou association reconnue d'utilité publique agréée par le ministre chargé du budget dans les conditions mentionnées au quatrième alinéa du même f. Ces organismes délivrent aux fonds de dotation une attestation justifiant le montant et l'affectation des versements effectués à leur profit.
+2° Ou dont la gestion est désintéressée et qui reversent les revenus tirés des dons et versements mentionnés au premier alinéa du présent 1 à des organismes mentionnés aux a à e bis ou à la Fondation du patrimoine dans les conditions mentionnées aux quatre premiers alinéas du f, ou à une fondation ou association reconnue d'utilité publique agréée par le ministre chargé du budget dans les conditions mentionnées au sixième alinéa du même f. Ces organismes délivrent aux fonds de dotation une attestation justifiant le montant et l'affectation des versements effectués à leur profit.
 
 Les organismes mentionnés au b peuvent, lorsque leurs statuts ont été approuvés à ce titre par décret en Conseil d'Etat, recevoir des versements pour le compte d'oeuvres ou d'organismes mentionnés au a.
 

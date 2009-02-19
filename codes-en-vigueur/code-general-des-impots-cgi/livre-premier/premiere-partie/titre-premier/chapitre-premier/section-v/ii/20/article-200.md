@@ -18,7 +18,7 @@ g) De fonds de dotation :
 
 1° Répondant aux caractéristiques mentionnées au b ;
 
-2° Ou dont la gestion est désintéressée et qui reversent les revenus tirés des dons et versements mentionnés au premier alinéa du présent 1 à des organismes mentionnés aux a à f ou à la Fondation du patrimoine dans les conditions mentionnées aux deux premiers alinéas du 2 bis, ou à une fondation ou association reconnue d'utilité publique agréée par le ministre chargé du budget dans les conditions mentionnées au dernier alinéa du même 2 bis. Ces organismes délivrent aux fonds de dotation une attestation justifiant le montant et l'affectation des versements effectués à leur profit. »
+2° Ou dont la gestion est désintéressée et qui reversent les revenus tirés des dons et versements mentionnés au premier alinéa du présent 1 à des organismes mentionnés aux a à f ou à la Fondation du patrimoine dans les conditions mentionnées aux quatre premiers alinéas du 2 bis, ou à une fondation ou association reconnue d'utilité publique agréée par le ministre chargé du budget dans les conditions mentionnées au dernier alinéa du même 2 bis. Ces organismes délivrent aux fonds de dotation une attestation justifiant le montant et l'affectation des versements effectués à leur profit.
 
 Ouvrent également droit à la réduction d'impôt les frais engagés dans le cadre d'une activité bénévole et en vue strictement de la réalisation de l'objet social d'un organisme mentionné aux deuxième à huitième alinéas, lorsque ces frais, dûment justifiés, ont été constatés dans les comptes de l'organisme et que le contribuable a renoncé expressément à leur remboursement.
 
@@ -36,7 +36,11 @@ Un décret en Conseil d'Etat fixe les conditions de cette reconnaissance et les 
 
 2 bis. Ouvrent également droit à la réduction d'impôt les dons versés à la " Fondation du patrimoine " ou à une fondation ou une association qui affecte irrévocablement ces dons à la " Fondation du patrimoine ", en vue de subventionner la réalisation des travaux prévus par les conventions conclues en application de l'article L. 143-2-1 du code du patrimoine entre la " Fondation du patrimoine " et les propriétaires des immeubles, personnes physiques ou sociétés civiles composées uniquement de personnes physiques et qui ont pour objet exclusif la gestion et la location nue des immeubles dont elles sont propriétaires.
 
-Les immeubles mentionnés au premier alinéa du présent 2 bis ne doivent pas faire l'objet d'une exploitation commerciale.
+Les immeubles mentionnés au premier alinéa du présent 2 bis ne doivent pas faire l'objet d'une exploitation commerciale. Toutefois, ces dispositions ne sont pas applicables lorsque la gestion de l'immeuble est désintéressée et que les conditions suivantes sont cumulativement remplies :
+
+1° Les revenus fonciers nets, les bénéfices agricoles, les bénéfices industriels et commerciaux et les bénéfices des sociétés commerciales, augmentés des charges déduites en application du 5° du 1 de l'article 39, générés par l'immeuble au cours des trois années précédentes sont affectés au financement des travaux prévus par la convention ;
+
+2° Le montant des dons collectés n'excède pas le montant restant à financer au titre de ces travaux, après affectation des subventions publiques et des sommes visées au 1° du présent 2 bis.
 
 Le donateur ou l'un des membres de son foyer fiscal ne doit pas avoir conclu de convention avec la " Fondation du patrimoine " en application de l'article L. 143-2-1 précité, être propriétaire de l'immeuble sur lequel sont effectués les travaux ou être un ascendant, un descendant ou un collatéral du propriétaire de cet immeuble. En cas de détention de l'immeuble par une société mentionnée au premier alinéa, le donateur ou l'un des membres de son foyer fiscal ne doit pas être associé de cette société ou un ascendant, un descendant ou un collatéral des associés de la société propriétaire de l'immeuble.
 
@@ -46,7 +50,7 @@ Les dons versés à d'autres fondations ou associations reconnues d'utilité pub
 
 4. (abrogé).
 
-5. Le bénéfice des dispositions du 1, du 1 ter et du 2 bis est subordonné à la condition que soient jointes à la déclaration des revenus des pièces justificatives, répondant à un modèle fixé par un arrêté attestant le total du montant et la date des versements ainsi que l'identité des bénéficiaires. A défaut, la réduction d'impôt est refusée sans proposition de rectification préalable.
+5. Le bénéfice des dispositions du 1, du 1 ter et du 2 bis est subordonné à la condition que soient jointes à la déclaration des revenus des pièces justificatives, répondant à un modèle fixé par un arrêté attestant le total du montant et la date des versements ainsi que l'identité des bénéficiaires.A défaut, la réduction d'impôt est refusée sans proposition de rectification préalable.
 
 Toutefois, pour l'application du 3, les reçus délivrés pour les dons et les cotisations d'un montant égal ou inférieur à 3 000 euros ne mentionnent pas la dénomination du bénéficiaire. Un décret en Conseil d'Etat détermine les modalités d'application de cette disposition.
 
