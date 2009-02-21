@@ -1,6 +1,6 @@
 # Article 396 bis
 
-1. L'inscription des sommes privilégiées dues au Trésor prescrite au 1 de l'article 1929 quater du code général des impôts est faite :
+1.L'inscription des sommes privilégiées dues au Trésor prescrite au 1 de l'article 1929 quater du code général des impôts est faite :
 
 1° Si le redevable est une personne physique, au greffe du tribunal de commerce ou du tribunal de grande instance statuant commercialement, dans le ressort duquel se trouve son principal établissement commercial ;
 
@@ -10,13 +10,7 @@
 
 Pour les redevables visés aux 2° et 3° dont le siège n'est pas situé sur le territoire métropolitain ou dans les départements d'outre-mer, l'inscription est requise, selon le cas, au greffe du tribunal de commerce ou du tribunal de grande instance statuant commercialement ou au greffe du tribunal de grande instance dans le ressort duquel se trouve le principal établissement du redevable.
 
-2. Lorsque la publicité est faite, en application du 4 de l'article 1929 quater du code général des impôts, l'inscription des sommes déterminées dans les conditions fixées au 3 dudit article doit être requise au plus tard :
-
-a. Le 28 ou 29 février pour les sommes dues au 31 décembre de l'année précédente ;
-
-b. Le 31 août pour les sommes dues au 30 juin de l'année courante.
-
-L'octroi de délais de paiement ne fait pas obstacle à l'application des dispositions du présent article.
+2. Lorsque la publicité est faite, en application du premier alinéa du 4 de l'article 1929 quater du code général des impôts, l'inscription des sommes déterminées dans les conditions fixées au 3 dudit article doit être requise au plus tard dans le mois qui suit l'expiration du délai de neuf mois.
 
 3. Pour requérir l'inscription des sommes privilégiées dues au Trésor, le comptable public chargé du recouvrement remet ou adresse par lettre recommandée avec demande d'avis de réception, au greffier compétent, un bordereau établi en double exemplaire et comportant les indications suivantes :
 
@@ -50,7 +44,7 @@ Le greffier mentionne les radiations en marge de l'inscription correspondante.
 
 7. Pour inscrire son privilège, le subrogé dans les droits du Trésor produit au greffier un certificat établi par le comptable public chargé du recouvrement et attestant la subrogation. Si la créance ayant fait l'objet d'une subrogation est comprise dans une inscription, le certificat vaut radiation de cette inscription à due concurrence.
 
-8. Les attestations ou certificats prévus aux 5, 6 et 7 sont remis en double exemplaire ou adressés aux greffiers par lettre recommandée avec demande d'avis de réception. L'un des exemplaires est rendu ou renvoyé à titre de récépissé au requérant, après avoir été revêtu, dès réception, d'une mention indiquant la date d'accomplissement de la formalité requise. Le deuxième exemplaire est conservé au greffe.
+8. Les attestations ou certificats prévus aux 5, 6 et 7 sont remis en double exemplaire ou adressés aux greffiers par lettre recommandée avec demande d'avis de réception.L'un des exemplaires est rendu ou renvoyé à titre de récépissé au requérant, après avoir été revêtu, dès réception, d'une mention indiquant la date d'accomplissement de la formalité requise. Le deuxième exemplaire est conservé au greffe.
 
 9. Les greffiers sont tenus de délivrer à tous ceux qui le requièrent et aux frais du requérant soit un état des inscriptions existantes, soit un certificat indiquant qu'il n'existe aucune inscription. Chaque réquisition ne peut viser qu'un redevable nommément désigné.
 
