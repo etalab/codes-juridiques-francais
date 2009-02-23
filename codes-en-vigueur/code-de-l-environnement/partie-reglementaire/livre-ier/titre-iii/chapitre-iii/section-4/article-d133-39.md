@@ -10,7 +10,7 @@ a) Dix-neuf membres représentant les administrations centrales et organismes pu
 
 -le directeur de l'eau ;
 
--le directeur de la prévention des pollutions et des risques ;
+-le        directeur général de la prévention des risques  ;
 
 -le directeur de la nature et des paysages ;
 
@@ -42,7 +42,7 @@ a) Dix-neuf membres représentant les administrations centrales et organismes pu
 
 -le directeur général du Muséum national d'histoire naturelle ;
 
--          le commissaire général au développement durable,
+-le commissaire général au développement durable,
 
 ou leur représentant ;
 
