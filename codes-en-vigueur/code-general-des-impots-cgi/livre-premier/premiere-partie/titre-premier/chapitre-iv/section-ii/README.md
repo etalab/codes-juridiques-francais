@@ -47,4 +47,5 @@
 - [XXXIX : Crédit d'impôt pour emploi de salariés réservistes](xxxix)
 - [XLII : Crédit d'impôt en faveur des maîtres restaurateurs](xlii)
 - [XLIII : Crédit d'impôt en faveur des débitants de tabac](xliii)
+- [XLV : Crédit d'impôt au titre des primes d'intéressement](xlv)
 - [0I bis : Transferts d'actifs hors de France, réalisés par les entreprises](0i-bis)
