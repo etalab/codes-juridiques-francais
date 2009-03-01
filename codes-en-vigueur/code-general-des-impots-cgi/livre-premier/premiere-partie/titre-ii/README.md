@@ -1,9 +1,8 @@
 # Titre II : Taxes sur le chiffre d'affaires et taxes assimilées
 
 - [Chapitre VII bis : Taxe sur la publicité télévisée](chapitre-vii-bis)
-- [Chapitre VII ter : Taxe sur les services de télévision](chapitre-vii-ter)
 - [Chapitre VII quater : Taxe sur la publicité diffusée par voie de radiodiffusion sonore et de télévision](chapitre-vii-quater)
-- [Chapitre VII quinquies : Taxe sur les ventes et les locations de vidéogrammes destinés à l'usage privé du public](chapitre-vii-quinquies)
+- [Chapitre VII quinquies](chapitre-vii-quinquies)
 - [Chapitre VII sexies : Contribution pour une pêche durable](chapitre-vii-sexies)
 - [Chapitre VIII bis : Taxe sur certaines dépenses de publicité](chapitre-viii-bis)
 - [Chapitre VIII ter : Taxe sur le chiffre d'affaires des exploitants agricoles](chapitre-viii-ter)
