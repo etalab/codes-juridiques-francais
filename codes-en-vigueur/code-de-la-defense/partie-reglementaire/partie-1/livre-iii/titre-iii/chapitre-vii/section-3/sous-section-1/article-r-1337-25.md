@@ -1,3 +1,0 @@
-# Article R*1337-25
-
-Les services d'exécution de travaux dépendant directement des collectivités territoriales et établissements publics restent normalement à la disposition de ces collectivités et établissements. Toutefois, les chefs de services de défense de zone pour l'équipement et les transports, les directeurs régionaux et les directeurs départementaux de l'équipement sont tenus informés de leurs moyens d'action et peuvent en disposer dans le cas où les circonstances l'exigent, en accord avec les autorités dont dépendent ces services d'exécution ou, à défaut, sur décision du préfet de zone, du préfet de région ou du préfet de département.
