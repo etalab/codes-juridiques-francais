@@ -1,4 +1,4 @@
-# Chapitre 3 : Etablissements d'enseignement.
+# Chapitre 3 : Etablissements d'enseignement et d'animation de stages de sensibilisation à la sécurité routière.
 
 - [Article L213-1](article-l213-1.md)
 - [Article L213-2](article-l213-2.md)
