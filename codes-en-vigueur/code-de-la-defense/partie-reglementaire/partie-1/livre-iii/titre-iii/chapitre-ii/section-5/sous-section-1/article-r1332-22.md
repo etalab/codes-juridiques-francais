@@ -4,4 +4,4 @@ Dès réception de l'avis mentionné à l'article R. 1332-21, le ministre coordo
 
 Le chef d'état-major des armées désigne les points d'importance vitale dépendant d'opérateurs d'importance vitale qui relèvent du ministre de la défense.
 
-La décision de l'autorité administrative n'est pas publiée. Elle est notifiée à l'opérateur d'importance vitale et est protégée dans les conditions prévues par le décret n° 98-608 du 17 juillet 1998 relatif à la protection des secrets de la défense nationale.
+La décision de l'autorité administrative n'est pas publiée. Elle est notifiée à l'opérateur d'importance vitale et est protégée dans les conditions prévues par les articles R. 2311-1 et suivants du code de la défense relatifs à la protection du secret de la défense nationale.
