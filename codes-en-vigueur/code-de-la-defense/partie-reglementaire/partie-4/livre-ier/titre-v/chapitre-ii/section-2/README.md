@@ -1,4 +1,4 @@
-# Section 2 : Collège interarmées de défense
+# Section 2 : Direction de l'enseignement militaire supérieur
 
 - [Article D4152-7](article-d4152-7.md)
 - [Article D4152-8](article-d4152-8.md)

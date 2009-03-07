@@ -1,6 +1,6 @@
 # Article D4152-1
 
-L'enseignement militaire supérieur, placé sous l'autorité du ministre de la défense, a pour mission de préparer des officiers :
+L'enseignement militaire supérieur, placé sous l'autorité du ministre de la défense, a pour mission de préparer les officiers :
 
 1° A tenir des postes demandant une qualification élevée dans certaines techniques ;
 

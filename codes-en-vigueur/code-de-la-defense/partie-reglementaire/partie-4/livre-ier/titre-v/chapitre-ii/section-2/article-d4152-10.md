@@ -1,5 +1,11 @@
 # Article D4152-10
 
-Un conseil d'orientation propose au chef d'état-major des armées l'orientation générale de l'enseignement militaire supérieur et un conseil de perfectionnement s'assure que l'enseignement dispensé au collège interarmées de défense est conforme à cette orientation.
+La direction de l'enseignement militaire supérieur comprend :
 
-Les attributions, l'organisation et le fonctionnement de ces conseils sont fixés par arrêté du ministre de la défense.
+1° Le centre des hautes études militaires ;
+
+2° Le collège interarmées de défense ;
+
+3° La division de la recherche et de la documentation.
+
+Son organisation est fixée par arrêté du ministre de la défense.
