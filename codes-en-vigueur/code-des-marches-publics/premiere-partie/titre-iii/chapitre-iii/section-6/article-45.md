@@ -1,6 +1,6 @@
 # Article 45
 
-I. - Le pouvoir adjudicateur ne peut exiger des candidats que des renseignements ou documents permettant d'évaluer leur expérience, leurs capacités professionnelles, techniques et financières ainsi que des documents relatifs aux pouvoirs des personnes habilitées à les engager. En ce qui concerne les marchés passés pour les besoins de la défense, le pouvoir adjudicateur peut également exiger des renseignements relatifs à leur nationalité et, si l'objet ou les conditions du marché le justifient, à leur habilitation préalable, ou leur demande d'habilitation préalable, en application du décret n° 98-608 du 17 juillet 1998 relatif à la protection des secrets de la défense nationale.
+I.-Le pouvoir adjudicateur ne peut exiger des candidats que des renseignements ou documents permettant d'évaluer leur expérience, leurs capacités professionnelles, techniques et financières ainsi que des documents relatifs aux pouvoirs des personnes habilitées à les engager. En ce qui concerne les marchés passés pour les besoins de la défense, le pouvoir adjudicateur peut également exiger des renseignements relatifs à leur nationalité et, si l'objet ou les conditions du marché le justifient, à leur habilitation préalable, ou leur demande d'habilitation préalable, en application les articles R. 2311-1 et suivants du code de la défense relatifs à la protection du secret de la défense nationale.
 
 La liste de ces renseignements et documents est fixée par arrêté du ministre chargé de l'économie.
 
@@ -8,7 +8,7 @@ Lorsque le pouvoir adjudicateur décide de fixer des niveaux minimaux de capacit
 
 Une même personne ne peut représenter plus d'un candidat pour un même marché.
 
-II. - Le pouvoir adjudicateur peut demander aux opérateurs économiques qu'ils produisent des certificats de qualité. Ces certificats, délivrés par des organismes indépendants, sont fondés sur les normes européennes.
+II.-Le pouvoir adjudicateur peut demander aux opérateurs économiques qu'ils produisent des certificats de qualité. Ces certificats, délivrés par des organismes indépendants, sont fondés sur les normes européennes.
 
 Pour les marchés qui le justifient, le pouvoir adjudicateur peut exiger la production de certificats, établis par des organismes indépendants, et attestant leur capacité à exécuter le marché.
 
@@ -16,10 +16,10 @@ Pour les marchés de travaux et de services dont l'exécution implique la mise e
 
 Dans les cas prévus aux trois alinéas précédents, le pouvoir adjudicateur accepte tout moyen de preuve équivalent ainsi que les certificats équivalents d'organismes établis dans d'autres Etats membres.
 
-III. - Pour justifier de ses capacités professionnelles, techniques et financières, le candidat, même s'il s'agit d'un groupement, peut demander que soient également prises en compte les capacités professionnelles, techniques et financières d'autres opérateurs économiques, quelle que soit la nature juridique des liens existant entre ces opérateurs et lui. Dans ce cas, il justifie des capacités de ce ou ces opérateurs économiques et apporte la preuve qu'il en disposera pour l'exécution du marché.
+III.-Pour justifier de ses capacités professionnelles, techniques et financières, le candidat, même s'il s'agit d'un groupement, peut demander que soient également prises en compte les capacités professionnelles, techniques et financières d'autres opérateurs économiques, quelle que soit la nature juridique des liens existant entre ces opérateurs et lui. Dans ce cas, il justifie des capacités de ce ou ces opérateurs économiques et apporte la preuve qu'il en disposera pour l'exécution du marché.
 
 Si le candidat est objectivement dans l'impossibilité de produire, pour justifier de sa capacité financière, l'un des renseignements ou documents prévus par l'arrêté mentionné au I et demandés par le pouvoir adjudicateur, il peut prouver sa capacité par tout autre document considéré comme équivalent par le pouvoir adjudicateur.
 
-IV. - Peuvent également être demandés, le cas échéant, des renseignements sur le respect de l'obligation d'emploi mentionnée aux articles L. 5212-1 à L. 5212-4 du code du travail.
+IV.-Peuvent également être demandés, le cas échéant, des renseignements sur le respect de l'obligation d'emploi mentionnée aux articles L. 5212-1 à L. 5212-4 du code du travail.
 
-V. - Le pouvoir adjudicateur peut exiger que les candidats joignent une traduction en français, certifiée conforme à l'original par un traducteur assermenté, aux documents rédigés dans une autre langue qu'ils remettent en application du présent article.
+V.-Le pouvoir adjudicateur peut exiger que les candidats joignent une traduction en français, certifiée conforme à l'original par un traducteur assermenté, aux documents rédigés dans une autre langue qu'ils remettent en application du présent article.

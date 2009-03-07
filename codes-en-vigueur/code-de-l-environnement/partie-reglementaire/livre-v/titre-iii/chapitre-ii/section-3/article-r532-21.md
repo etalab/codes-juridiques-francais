@@ -2,7 +2,7 @@
 
 I.-Le dossier de demande d'agrément est établi par l'exploitant du laboratoire dans lequel l'utilisation doit être mise en oeuvre, conformément aux dispositions de l'article R. 532-2.
 
-Les informations couvertes en tout ou partie par le secret de la défense nationale figurant dans le dossier sont signalées conformément aux articles 3 et 4 du décret n° 98-608 du 17 juillet 1998 modifié relatif à la protection des secrets de la défense nationale.
+Les informations couvertes en tout ou partie par le secret de la défense nationale figurant dans le dossier sont signalées conformément aux articles R. 2311-3 et R. 2311-4 du code de la défense relatifs à la protection du secret de la défense nationale.
 
 Ce dossier est adressé au ministre de la défense qui procède à son instruction dans les conditions prévues aux articles R. 532-2 à R. 532-10 et au I de l'article R. 532-11, dans le respect du décret du 17 juillet 1998 précité.
 
@@ -16,7 +16,7 @@ Le Haut Conseil des biotechnologies se prononce, à compter de la date de récep
 
 2° Dans un délai maximum de trente jours, lorsque la demande porte sur une autorisation dans un laboratoire où une utilisation d'organismes génétiquement modifiés a déjà été agréée.
 
-Dès réception de l'avis du haut conseil , le ministre de la défense consulte les ministres chargés de l'environnement et de la recherche.
+Dès réception de l'avis du haut conseil, le ministre de la défense consulte les ministres chargés de l'environnement et de la recherche.
 
 III.-Les avis du ministre chargé de l'environnement et du ministre chargé de la recherche sont réputés favorables en l'absence de réponse dans un délai de quatorze jours dans le cas mentionné au 1° du II et dans un délai de huit jours dans le cas mentionné au 2° du II.
 

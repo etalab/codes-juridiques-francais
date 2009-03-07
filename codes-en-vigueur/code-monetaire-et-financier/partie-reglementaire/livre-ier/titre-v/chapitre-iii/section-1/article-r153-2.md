@@ -14,11 +14,11 @@ Relèvent d'une procédure d'autorisation au sens du I de l'article L. 151-3 les
 
 6° Activités de production de biens ou de prestation de services de sécurité dans le secteur de la sécurité des systèmes d'information d'une entreprise liée par contrat passé avec un opérateur public ou privé gérant des installations au sens des articles L. 1332-1 à L. 1332-7 du code de la défense ;
 
-7° Activités relatives aux biens et technologies à double usage énumérés à l'annexe IV du règlement (CE) n° 1334/2000 du Conseil du 22 juin 2000 modifié instituant un régime communautaire de contrôle des exportations de biens et technologies à double usage ;
+7° Activités relatives aux biens et technologies à double usage énumérés à l'annexe IV du règlement (CE) n° 1334 / 2000 du Conseil du 22 juin 2000 modifié instituant un régime communautaire de contrôle des exportations de biens et technologies à double usage ;
 
 8° Activités relatives aux moyens de cryptologie et les prestations de cryptologie mentionnés aux paragraphes III, IV de l'article 30 et I de l'article 31 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique ;
 
-9° Activités exercées par les entreprises dépositaires de secrets de la défense nationale notamment au titre des marchés classés de défense nationale ou à clauses de sécurité conformément au décret n° 98-608 du 17 juillet 1998 relatif à la protection des secrets de la défense nationale ;
+9° Activités exercées par les entreprises dépositaires de secrets de la défense nationale notamment au titre des marchés classés de défense nationale ou à clauses de sécurité conformément aux articles R. 2311-1 et suivants du code de la défense relatifs à la protection du secret de la défense nationale ;
 
 10° Activités de recherche, de production ou de commerce d'armes, de munitions, de poudres et substances explosives destinées à des fins militaires ou de matériels de guerre et assimilés réglementés par le titre III ou le titre V du livre III de la deuxième partie du code de la défense ;
 
