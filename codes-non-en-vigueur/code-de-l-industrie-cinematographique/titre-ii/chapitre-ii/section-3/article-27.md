@@ -1,6 +1,6 @@
 # Article 27
 
-1. La mise en place d'une formule d'accès au cinéma donnant droit à des entrées multiples est soumise à agrément préalable du directeur général du Centre national de la cinématographie. Les modifications substantielles d'une telle formule, ainsi que toute adhésion d'un exploitant d'établissement de spectacles cinématographiques à cette formule, sont également soumises à agrément.
+1. La mise en place d'une formule d'accès au cinéma donnant droit à des entrées multiples est soumise à agrément préalable du directeur général du Centre national de la cinématographie. Les modifications substantielles d'une telle formule, ainsi que toute adhésion d'un exploitant d'établissement de spectacles cinématographiques à cette formule, sont également soumises à agrément, dans des conditions prévues par un décret en Conseil d'Etat.
 
 2. L'agrément est accordé si les conditions suivantes sont remplies :
 
