@@ -16,6 +16,8 @@ e bis) De projets de thèse proposés au mécénat de doctorat par les écoles d
 
 e ter) De sociétés, dont l'Etat est l'actionnaire unique, qui ont pour activité la représentation de la France aux expositions universelles ;
 
+e quater) Des sociétés nationales de programme mentionnées à l'article 44 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication et affectés au financement de programmes audiovisuels culturels ;
+
 f) De la " Fondation du patrimoine " ou d'une fondation ou une association qui affecte irrévocablement ces versements à la " Fondation du patrimoine ", en vue de subventionner la réalisation des travaux prévus par les conventions conclues en application de l'article L. 143-2-1 du code du patrimoine entre la " Fondation du patrimoine " et les propriétaires des immeubles, personnes physiques ou sociétés civiles composées uniquement de personnes physiques et qui ont pour objet exclusif la gestion et la location nue des immeubles dont elles sont propriétaires.
 
 Les immeubles mentionnés au premier alinéa du présent f ne doivent pas faire l'objet d'une exploitation commerciale. Toutefois, ces dispositions ne sont pas applicables lorsque la gestion de l'immeuble est désintéressée et que les conditions suivantes sont cumulativement remplies :
