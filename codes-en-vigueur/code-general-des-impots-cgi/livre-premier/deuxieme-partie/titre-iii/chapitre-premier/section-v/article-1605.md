@@ -1,6 +1,6 @@
 # Article 1605
 
-I. ― A compter du 1er janvier 2005, il est institué, d'une part, au profit des sociétés et de l'établissement public visés par les articles 44,45 et 49 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication et, d'autre part, jusqu'au 31 décembre 2011, au profit du groupement d'intérêt public visé à l'article 100 de la loi n° 86-1067 du 30 septembre 1986 précitée, une taxe dénommée redevance audiovisuelle.
+I. ― A compter du 1er janvier 2005, il est institué, d'une part, au profit des sociétés et de l'établissement public visés par les articles 44,45 et 49 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication et, d'autre part, jusqu'au 31 décembre 2011, au profit du groupement d'intérêt public visé à l'article 100 de la loi n° 86-1067 du 30 septembre 1986 précitée, une taxe dénommée contribution à l'audiovisuel public.
 
 II.-La redevance audiovisuelle est due :
 
