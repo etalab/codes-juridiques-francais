@@ -1,6 +1,6 @@
 # Article R123-197
 
-Les personnes morales mentionnent en outre dans l'annexe  :
+Les personnes morales mentionnent en outre dans l'annexe :
 
 1° Pour chaque poste du bilan concernant les éléments fongibles de l'actif circulant, l'indication de la différence entre l'évaluation figurant au bilan et celle qui résulterait des derniers prix du marché connus à la clôture des comptes ;
 
@@ -16,4 +16,6 @@ Les personnes morales mentionnent en outre dans l'annexe  :
 
 7° Le montant des engagements pris en matière de pensions, compléments de retraite et indemnités assimilées en distinguant, d'une part, ceux qui ont fait l'objet de provisions et, d'autre part, ceux qui ont été contractés au profit de dirigeants ;
 
-8° Le montant des avances et des crédits alloués aux dirigeants sociaux avec l'indication des conditions consenties et des remboursements effectués pendant l'exercice.
+8° Le montant des avances et des crédits alloués aux dirigeants sociaux avec l'indication des conditions consenties et des remboursements effectués pendant l'exercice ;
+
+9° La nature et l'objectif commercial des opérations non inscrites au bilan, à condition que les risques ou les avantages résultant de ces opérations soient significatifs et dans la mesure où la divulgation de ces risques ou avantages est nécessaire pour l'appréciation de la situation financière de la société. Un règlement du Comité de la réglementation comptable en fixe les modalités.
