@@ -18,4 +18,6 @@ Les dépens afférents aux instances, actes et procédures d'exécution comprenn
 
 8° Les frais occasionnés par la notification d'un acte à l'étranger ;
 
-9° Les frais d'interprétariat et de traduction rendus nécessaires par les mesures d'instruction effectuées à l'étranger à la demande des juridictions dans le cadre du règlement (CE) n° 1206/2001 du Conseil du 28 mai 2001 relatif à la coopération entre les juridictions des Etats membres dans le domaine de l'obtention des preuves en matière civile et commerciale.
+9° Les frais d'interprétariat et de traduction rendus nécessaires par les mesures d'instruction effectuées à l'étranger à la demande des juridictions dans le cadre du règlement (CE) n° 1206 / 2001 du Conseil du 28 mai 2001 relatif à la coopération entre les juridictions des Etats membres dans le domaine de l'obtention des preuves en matière civile et commerciale ;
+
+10° Les enquêtes sociales ordonnées en application des articles 1072 et 1248.
