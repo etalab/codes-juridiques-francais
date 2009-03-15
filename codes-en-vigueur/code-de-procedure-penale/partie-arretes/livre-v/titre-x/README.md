@@ -8,3 +8,4 @@
 - [Article A43-9](article-a43-9.md)
 - [Article A43-10](article-a43-10.md)
 - [Article A43-11](article-a43-11.md)
+- [Article A43-12](article-a43-12.md)
