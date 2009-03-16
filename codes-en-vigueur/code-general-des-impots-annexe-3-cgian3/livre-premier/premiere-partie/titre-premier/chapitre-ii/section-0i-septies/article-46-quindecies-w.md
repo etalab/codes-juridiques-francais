@@ -16,6 +16,4 @@ f) La date et le montant des versements effectués au titre de la souscription d
 
 Lorsque des actions de la société agréée ont été cédées au cours d'une année, la société agréée adresse avant le 16 février de l'année suivante au service qui a délivré l'agrément et à la direction des services fiscaux dont elle dépend le relevé mentionné ci-dessus relatif à l'associé cédant et à l'associé cessionnaire, ou un duplicata de ce relevé.
 
-Lorsque des droits à consommation ont été cédés en application des dispositions du huitième alinéa de l'article 238 bis HW du code général des impôts, la société agréée adresse avant le 16 février de l'année suivante au service qui a délivré l'agrément et à la direction des services fiscaux dont elle dépend un relevé mentionnant la date de cession, la quantité d'électricité cédée et les identités du cédant et du cessionnaire.
-
 Ces relevés sont établis sur papier libre.
