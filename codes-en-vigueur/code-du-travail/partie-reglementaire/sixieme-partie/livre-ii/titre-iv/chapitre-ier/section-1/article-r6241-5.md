@@ -1,6 +1,6 @@
 # Article R6241-5
 
-Les organismes collecteurs de la taxe d'apprentissage mentionnés à l'article L. 6242-1 reversent :
+Les organismes collecteurs de la taxe d'apprentissage mentionnés        à l'article L. 6242-1 et à l'article L. 6242-2 reversent :
 
 1° Au Trésor public, la part du quota de la taxe d'apprentissage, définie au deuxième alinéa de l'article L. 6241-2, le 30 avril de chaque année au plus tard ;
 

@@ -4,7 +4,7 @@ Il est interdit d'employer des salariés titulaires d'un contrat de travail à d
 
 1° Amiante : opérations d'entretien ou de maintenance sur des flocages ou calorifugeages ; travaux de confinement, de retrait ou et de démolition ;
 
-2° Amines aromatiques suivantes : benzidine, ses homologues, ses sels et ses dérivés chlorés, 3,3'diméthoxybenzidine (ou dianisidine), 4-aminobiphényle (ou amino-4 diphényle) ;
+2° Amines aromatiques suivantes : benzidine, ses homologues, ses sels et ses dérivés chlorés, 3, 3'diméthoxybenzidine (ou dianisidine), 4-aminobiphényle (ou amino-4 diphényle) ;
 
 3° Arsenite de sodium ;
 
@@ -14,7 +14,7 @@ Il est interdit d'employer des salariés titulaires d'un contrat de travail à d
 
 6° Béryllium et ses sels ;
 
-7° Bêta-naphtylamine, N, N-bis(2-chloroéthyl)-2-naphtylamine (ou chlornaphazine), o-toluidine (ou orthotoluidine) ;
+7° Bêta-naphtylamine, N, N-bis (2-chloroéthyl)-2-naphtylamine (ou chlornaphazine), o-toluidine (ou orthotoluidine) ;
 
 8° Brome liquide ou gazeux, à l'exclusion des composés ;
 
@@ -42,7 +42,7 @@ Il est interdit d'employer des salariés titulaires d'un contrat de travail à d
 
 20° Phosphore, pentafluorure de phosphore, phosphure d'hydrogène (ou hydrogène phosphoré) ;
 
-21° Poussières de lin : travaux exposant à l'inhalation ;
+21° Poussières de lin et de déshydratation de la luzerne : travaux exposant à l'inhalation ;
 
 22° Poussières de métaux durs ;
 
@@ -54,4 +54,4 @@ Il est interdit d'employer des salariés titulaires d'un contrat de travail à d
 
 26° Tétrachlorométhane (ou tétrachlorure de carbone) ;
 
-27° Travaux de désinsectisation des bois (pulvérisation du produit, trempage du bois, empilage ou sciage des bois imprégnés, traitement des charpentes en place) et des grains lors de leur stockage.
+27° Travaux de désinsectisation des bois (pulvérisation du produit, trempage du bois, empilage ou sciage des bois imprégnés, traitement des charpentes en place),  des grains lors de leur stockage et des semences ou des cultures.

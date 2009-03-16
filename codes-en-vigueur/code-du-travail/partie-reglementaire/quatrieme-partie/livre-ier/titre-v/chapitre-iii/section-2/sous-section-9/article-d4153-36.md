@@ -1,6 +1,8 @@
 # Article D4153-36
 
-Sauf dérogation prévue à l'article D. 4153-48, il est interdit d'employer les jeunes travailleurs âgés de moins de dix-huit ans, sur les chantiers de bâtiment et de travaux publics, aux travaux suivants :
+Sauf dérogation prévue à l'article D. 4153-48, il est interdit d'employer les jeunes travailleurs âgés de moins de dix-huit ans, sur les chantiers de bâtiment et de travaux publics, à des travaux en élévation.
+
+Les travaux suivants sont également interdits :
 
 1° Travaux sur nacelles suspendues, échafaudages volants, échelles suspendues et plates-formes élévatrices sur mâts ou élévateurs à nacelle ;
 

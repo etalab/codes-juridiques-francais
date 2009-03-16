@@ -6,7 +6,7 @@ Outre les dispositions communes applicables aux fonds d'assurance formation, son
 
 2° R. 6332-22, relatif aux biens nécessaires au fonctionnement des organismes collecteurs paritaires agréés ;
 
-3° R. 6332-23 à R. 6332-25, relatifs aux conditions de prise en charge et de paiement des frais de formation ;
+3° R. 6332-23, premier alinéa, à R. 6332-25, relatifs aux conditions de prise en charge et de paiement des frais de formation ;
 
 4° R. 6332-28 et R. 6332-29, relatifs aux disponibilités des organismes collecteurs paritaires agréés ;
 

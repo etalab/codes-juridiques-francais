@@ -7,3 +7,5 @@ Le Conseil national de la formation professionnelle tout au long de la vie étab
 2° Tous les trois ans, un rapport d'évaluation des politiques régionales d'apprentissage et de formation professionnelle continue.
 
 Ces rapports sont transmis au Parlement, aux conseils régionaux et aux comités de coordination régionaux de l'emploi et de la formation professionnelle.
+
+Le Conseil national de formation professionnelle tout au long de la vie émet un avis sur les projets de loi, d'ordonnance ou de décret relatifs à l'apprentissage et à la formation professionnelle continue, sans préjudice de la consultation prévue à l'article L. 6123-1.

@@ -1,6 +1,6 @@
 # Article R1441-59
 
-La décision prise par le tribunal d'instance, en application des articles R. 1441-53 et R. 1441-57, est notifiée immédiatement par le greffe au requérant par lettre recommandée avec avis de réception. Dans le cas où d'autres électeurs sont concernés par cette décision, le greffe la leur notifie dans la même forme. Le greffe la communique au préfet et au maire dans le transmet délai.
+La décision prise par le tribunal d'instance, en application des articles R. 1441-53 et R. 1441-57, est notifiée immédiatement par le greffe au requérant par lettre recommandée avec avis de réception. Dans le cas où d'autres électeurs sont concernés par cette décision, le greffe la leur notifie dans la même forme. Le greffe la communique au préfet et au maire dans le même délai.
 
 La décision n'est pas susceptible d'opposition.
 

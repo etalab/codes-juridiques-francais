@@ -1,4 +1,4 @@
-# Partie réglementaire
+# Partie réglementaire ancienne - Décrets simples
 
 - [Livre II : Réglementation du travail](livre-ii)
 - [Livre VII : Dispositions particulières à certaines professions](livre-vii)

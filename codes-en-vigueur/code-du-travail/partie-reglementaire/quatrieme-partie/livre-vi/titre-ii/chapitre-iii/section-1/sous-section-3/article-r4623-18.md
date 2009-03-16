@@ -8,4 +8,6 @@ Lorsque l'ordre du jour comporte des questions relatives à l'organisation et au
 
 3° De la commission de contrôle ;
 
-4° De la commission consultative paritaire de secteur.
+4° De la commission consultative paritaire de secteur ;
+
+5° Du conseil d'administration.

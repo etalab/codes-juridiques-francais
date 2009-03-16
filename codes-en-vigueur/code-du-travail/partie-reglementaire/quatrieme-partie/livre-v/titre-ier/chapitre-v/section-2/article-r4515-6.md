@@ -10,4 +10,4 @@ Pour l'entreprise d'accueil, le protocole de sécurité comprend, notamment, les
 
 4° Les moyens de secours en cas d'accident ou d'incident ;
 
-5° L'identité du responsable désigné par l'entreprise d'accueil, auquel l'employeur délègue ses attributions conformément à l'article R. 4511-9.
+5° L'identité du responsable désigné par l'entreprise d'accueil, auquel l'employeur délègue, le cas échéant, ses attributions.

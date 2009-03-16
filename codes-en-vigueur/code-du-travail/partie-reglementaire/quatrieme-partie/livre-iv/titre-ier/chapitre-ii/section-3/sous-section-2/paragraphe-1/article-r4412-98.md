@@ -1,6 +1,6 @@
 # Article R4412-98
 
-La formation à la sécurité prévue à l'article R. 4412-87 est aisément compréhensible par le travailleur.
+La formation à la sécurité          est aisément compréhensible par le travailleur.
 
 Elle porte notamment sur :
 
