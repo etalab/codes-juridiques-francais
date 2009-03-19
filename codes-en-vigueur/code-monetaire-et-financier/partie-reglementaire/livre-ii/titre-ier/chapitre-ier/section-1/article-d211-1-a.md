@@ -1,6 +1,6 @@
 # Article D211-1 A
 
-I. - Les instruments financiers à terme mentionnés au 4 du I de l'article L. 211-1 sont :
+I.-Les contrats financiers mentionnés au III de l'article L. 211-1 sont :
 
 1. Les contrats d'option, contrats à terme fermes, contrats d'échange, accords de taux futurs et tous autres contrats à terme relatifs à des instruments financiers, des devises, des taux d'intérêt, des rendements, des indices financiers ou des mesures financières qui peuvent être réglés par une livraison physique ou en espèces ;
 
@@ -18,4 +18,4 @@ I. - Les instruments financiers à terme mentionnés au 4 du I de l'article L. 2
 
 8. Tout autre contrat à terme concernant des actifs, des droits, des obligations, des indices et des mesures, non mentionné par ailleurs aux 1 à 7 ci-dessus, qui présente les caractéristiques d'autres instruments financiers à terme, en tenant compte de ce que, notamment, il est négocié sur un marché réglementé ou un système multilatéral de négociation, est compensé et réglé par l'intermédiaire d'une chambre de compensation reconnue ou fait l'objet d'appels de couvertures périodiques.
 
-II. - Pour l'application de l'article L. 431-7, sont également des instruments financiers à terme les contrats d'options, contrats à terme fermes, contrats d'échanges et tous autres contrats à terme sur marchandises ou autorisations d'émission autres que ceux mentionnés au I, à condition qu'ils fassent l'objet, en suite de négociation, d'un enregistrement par une chambre de compensation reconnue ou d'appels de couvertures périodiques.
+II. (Abrogé)
