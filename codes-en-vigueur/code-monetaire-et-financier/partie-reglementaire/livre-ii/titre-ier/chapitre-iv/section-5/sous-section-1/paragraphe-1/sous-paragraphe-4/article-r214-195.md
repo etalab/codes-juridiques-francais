@@ -10,7 +10,7 @@ III.-Pour effectuer des opérations mentionnées aux I et II, un organisme de pl
 
 1° Ces opérations sont réalisées avec un établissement mentionné au deuxième alinéa de l'article R. 214-188 ;
 
-2° Elles sont régies par une convention-cadre mentionnée à l'article L. 431-7 ;
+2° Elles sont régies par une convention-cadre mentionnée aux articles L. 211-36 et L. 211-36-1 ;
 
 3° Elles doivent être prises en compte pour l'application des dispositions prévues aux articles R. 214-174 à R. 214-179, des règles d'exposition au risque de contrepartie définies à l'article R. 214-190 et de la règle d'engagement définie au 1° de l'article D. 214-192 ;
 

@@ -4,7 +4,7 @@ L'actionnaire qui renonce à titre individuel à son droit préférentiel de sou
 
 Dans les sociétés dont les actions sont admises aux négociations sur un marché réglementé, la renonciation ne peut être faite au profit de bénéficiaires dénommés.
 
-La renonciation sans indication de bénéficiaire est accompagnée pour les actions au porteur des coupons correspondants ou d'une attestation du dépositaire des titres ou de l'intermédiaire habilité prévu par l'article R. 211-4 du code monétaire et financier constatant la renonciation de l'actionnaire.
+La renonciation sans indication de bénéficiaire est accompagnée pour les actions au porteur des coupons correspondants ou d'une attestation du dépositaire des titres ou de l'intermédiaire prévu par l'article R. 211-4 du code monétaire et financier constatant la renonciation de l'actionnaire.
 
 La renonciation faite au profit de bénéficiaires dénommés est accompagnée de l'acceptation de ces derniers.
 
