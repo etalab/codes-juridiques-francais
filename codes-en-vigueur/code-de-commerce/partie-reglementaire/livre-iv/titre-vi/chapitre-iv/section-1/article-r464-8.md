@@ -12,4 +12,4 @@ I. - Les décisions de l'Autorité de la concurrence sont notifiées :
 
 5° Pour les décisions mentionnées au dernier alinéa de l'article L. 461-3 prises à la suite d'une saisine du ministre chargé de l'économie en application du quatrième alinéa de l'article L. 464-9, aux parties concernées et au ministre chargé de l'économie.
 
-II. - Les décisions de l'Autorité de la concurrence mentionnées à l'article L. 470-7-1 sont publiées sur le site internet de l'Autorité. Leur publicité peut être limitée pour tenir compte de l'intérêt légitime des parties et des personnes citées à ce que leurs secrets d'affaires ne soient pas divulgués.
+II. - abrogé
