@@ -5,952 +5,794 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 <table>
 <tbody>
 <tr>
-<th>
-<br/>SIÈGE <br/>
-</th>
-<th>
-<br/>COMPÉTENCE TERRITORIALE <br/>
-<br/>s'étendant au ressort des tribunaux de <br/>
-<br/>grande instance de : <br/>
-</th>
+<td align="center">SIÈGE <br/>
+</td>
+<td align="center">COMPÉTENCE TERRITORIALE <br/>s'étendant au ressort <br/>des tribunaux de grande instance de : <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel d'Agen <br/>
+<td colspan="2">
+<br/>
+<i>Cour d'appel d'Agen</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Agen. <br/>
+<td>Agen. <br/>
 </td>
-<td align="center">
-<br/>Agen, Auch, Cahors, Marmande. <br/>
+<td>Agen, Auch, Cahors, Marmande. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel d'Aix-en-Provence <br/>
+<td align="center" colspan="2">
+<br/>
+<i>Cour d'appel d'Aix-en-Provence</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Aix-en-Provence. <br/>
+<td>Aix-en-Provence. <br/>
 </td>
-<td align="center">
-<br/>Aix-en-Provence, Digne-les-Bains, Tarascon. <br/>
+<td>Aix-en-Provence, Digne-les-Bains, Tarascon. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Draguignan. <br/>
+<td>Draguignan. <br/>
 </td>
-<td align="center">
-<br/>Draguignan. <br/>
+<td>Draguignan. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Grasse. <br/>
+<td>Grasse. <br/>
 </td>
-<td align="center">
-<br/>Grasse. <br/>
+<td>Grasse. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Marseille. <br/>
+<td>Marseille. <br/>
 </td>
-<td align="center">
-<br/>Marseille. <br/>
+<td>Marseille. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Nice. <br/>
+<td>Nice. <br/>
 </td>
-<td align="center">
-<br/>Nice. <br/>
+<td>Nice. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Toulon. <br/>
+<td>Toulon. <br/>
 </td>
-<td align="center">
-<br/>Toulon. <br/>
+<td>Toulon. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel d'Amiens <br/>
+<td colspan="2">
+<br/>
+<i>Cour d'appel d'Amiens</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Amiens. <br/>
+<td>Amiens. <br/>
 </td>
-<td align="center">
-<br/>Abbeville, Amiens, Péronne. <br/>
+<td>Abbeville, Amiens, Péronne. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Laon. <br/>
+<td>Laon. <br/>
 </td>
-<td align="center">
-<br/>Laon, Saint-Quentin, Soissons. <br/>
+<td>Laon, Saint-Quentin, Soissons. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Senlis. <br/>
+<td>Senlis. <br/>
 </td>
-<td align="center">
-<br/>Beauvais, Compiègne, Senlis. <br/>
+<td>Beauvais, Compiègne, Senlis. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel d'Angers <br/>
+<td colspan="2">
+<br/>
+<i>Cour d'appel d'Angers</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Angers. <br/>
+<td>Angers. <br/>
 </td>
-<td align="center">
-<br/>Angers, Saumur. <br/>
+<td>Angers, Saumur. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Le Mans. <br/>
+<td>Le Mans. <br/>
 </td>
-<td align="center">
-<br/>Laval, Le Mans. <br/>
+<td>Laval, Le Mans. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Bastia <br/>
+<td colspan="2">
+<br/>
+<i>Cour d'appel de Bastia</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Ajaccio. <br/>
+<td>Ajaccio. <br/>
 </td>
-<td align="center">
-<br/>Ajaccio. <br/>
+<td>Ajaccio. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Bastia. <br/>
+<td>Bastia. <br/>
 </td>
-<td align="center">
-<br/>Bastia. <br/>
+<td>Bastia. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Besançon <br/>
+<td colspan="2">
+<br/>
+<i>Cour d'appel de Besançon</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Besançon. <br/>
+<td>Besançon. <br/>
 </td>
-<td align="center">
-<br/>Besançon, Dôle, Lons-le-Saunier, Lure, Vesoul. <br/>
+<td>Besançon, Dôle, Lons-le-Saunier, Lure, Vesoul. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Montbéliard. <br/>
+<td>Montbéliard. <br/>
 </td>
-<td align="center">
-<br/>Belfort, Montbéliard. <br/>
+<td>Belfort, Montbéliard. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Bordeaux <br/>
+<td colspan="2">
+<br/>
+<i>Cour d'appel de Bordeaux</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Angoulême. <br/>
+<td>Angoulême. <br/>
 </td>
-<td align="center">
-<br/>Angoulême. <br/>
+<td>Angoulême. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Bordeaux. <br/>
+<td>Bordeaux. <br/>
 </td>
-<td align="center">
-<br/>Bordeaux, Libourne. <br/>
+<td>Bordeaux, Libourne. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Périgueux. <br/>
+<td>Périgueux. <br/>
 </td>
-<td align="center">
-<br/>Bergerac, Périgueux. <br/>
+<td>Bergerac, Périgueux. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Bourges <br/>
+<td colspan="2">
+<br/>
+<i>Cour d'appel de Bourges</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Bourges. <br/>
+<td>Bourges. <br/>
 </td>
-<td align="center">
-<br/>Bourges, Châteauroux, Nevers. <br/>
+<td>Bourges, Châteauroux, Nevers. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Caen <br/>
+<td colspan="2">
+<br/>
+<i>Cour d'appel de Caen</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Caen. <br/>
+<td>Caen. <br/>
 </td>
-<td align="center">
-<br/>Alençon, Argentan, Caen, Lisieux. <br/>
+<td>Alençon, Argentan, Caen, Lisieux. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Coutances. <br/>
+<td>Coutances. <br/>
 </td>
-<td align="center">
-<br/>Avranches, Cherbourg-Octeville, Coutances. <br/>
+<td>Avranches, Cherbourg-Octeville, Coutances. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Chambéry <br/>
+<td colspan="2">
+<br/>
+<i>Cour d'appel de Chambéry</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Annecy. <br/>
+<td>Annecy. <br/>
 </td>
-<td align="center">
-<br/>Annecy, Bonneville, Thonon-les-Bains. <br/>
+<td>Annecy, Bonneville, Thonon-les-Bains. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chambéry. <br/>
+<td>Chambéry. <br/>
 </td>
-<td align="center">
-<br/>Albertville, Chambéry. <br/>
+<td>Albertville, Chambéry. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Colmar <br/>
+<td colspan="2">
+<br/>
+<i>Cour d'appel de Colmar</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Colmar. <br/>
+<td>Colmar. <br/>
 </td>
-<td align="center">
-<br/>Colmar. <br/>
+<td>Colmar. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Mulhouse. <br/>
+<td>Mulhouse. <br/>
 </td>
-<td align="center">
-<br/>Mulhouse. <br/>
+<td>Mulhouse. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Strasbourg. <br/>
+<td>Strasbourg. <br/>
 </td>
-<td align="center">
-<br/>Saverne, Strasbourg. <br/>
+<td>Saverne, Strasbourg. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Dijon <br/>
+<td colspan="2">
+<i>
+<br/>Cour d'appel de Dijon</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chalon-sur-Saône. <br/>
+<td>Chalon-sur-Saône. <br/>
 </td>
-<td align="center">
-<br/>Chalon-sur-Saône, Mâcon. <br/>
+<td>Chalon-sur-Saône, Mâcon. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Dijon. <br/>
+<td>Dijon. <br/>
 </td>
-<td align="center">
-<br/>Dijon, Chaumont. <br/>
+<td>Dijon, Chaumont. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Douai <br/>
+<td colspan="2">
+<br/>
+<i>Cour d'appel de Douai</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Béthune. <br/>
+<td>Béthune. <br/>
 </td>
-<td align="center">
-<br/>Arras, Béthune. <br/>
+<td>Arras, Béthune. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Boulogne-sur-Mer. <br/>
+<td>Boulogne-sur-Mer. <br/>
 </td>
-<td align="center">
-<br/>Boulogne-sur-Mer, Saint-Omer. <br/>
+<td>Boulogne-sur-Mer, Saint-Omer. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Douai. <br/>
+<td>Douai. <br/>
 </td>
-<td align="center">
-<br/>Douai, Cambrai. <br/>
+<td>Douai, Cambrai. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Dunkerque. <br/>
+<td>Dunkerque. <br/>
 </td>
-<td align="center">
-<br/>Dunkerque, Hazebrouck. <br/>
+<td>Dunkerque, Hazebrouck. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Lille. <br/>
+<td>Lille. <br/>
 </td>
-<td align="center">
-<br/>Lille. <br/>
+<td>Lille. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Valenciennes. <br/>
+<td>Valenciennes. <br/>
 </td>
-<td align="center">
-<br/>Avesnes-sur-Helpe, Valenciennes. <br/>
+<td>Avesnes-sur-Helpe, Valenciennes. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Grenoble <br/>
+<td colspan="2">
+<br/>
+<i>Cour d'appel de Grenoble</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Grenoble. <br/>
+<td>Grenoble. <br/>
 </td>
-<td align="center">
-<br/>Gap, Bourgoin-Jallieu, Grenoble, Vienne. <br/>
+<td>Gap, Bourgoin-Jallieu, Grenoble, Vienne. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Valence. <br/>
+<td>Valence. <br/>
 </td>
-<td align="center">
-<br/>Valence. <br/>
+<td>Valence. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Limoges <br/>
+<td colspan="2">
+<br/>
+<i>Cour d'appel de Limoges</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Limoges. <br/>
+<td>Limoges. <br/>
 </td>
-<td align="center">
-<br/>Brive-la-Gaillarde, Guéret, Limoges, Tulle. <br/>
+<td>Brive-la-Gaillarde, Guéret, Limoges, Tulle. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Lyon <br/>
+<td colspan="2">
+<i>
+<br/>Cour d'appel de Lyon</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Bourg-en-Bresse. <br/>
+<td>Bourg-en-Bresse. <br/>
 </td>
-<td align="center">
-<br/>Belley, Bourg-en-Bresse. <br/>
+<td>Belley, Bourg-en-Bresse. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Lyon. <br/>
+<td>Lyon. <br/>
 </td>
-<td align="center">
-<br/>Lyon, Villefranche-sur-Saône. <br/>
+<td>Lyon, Villefranche-sur-Saône. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Saint-Etienne. <br/>
+<td>Saint-Etienne. <br/>
 </td>
-<td align="center">
-<br/>Montbrison, Roanne, Saint-Etienne. <br/>
+<td>Montbrison, Roanne, Saint-Etienne. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Metz <br/>
+<td colspan="2">
+<i>
+<br/>Cour d'appel de Metz</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Metz. <br/>
+<td>Metz. <br/>
 </td>
-<td align="center">
-<br/>Metz, Sarreguemines, Thionville. <br/>
+<td>Metz, Sarreguemines, Thionville. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Montpellier <br/>
+<td colspan="2">
+<i>
+<br/>Cour d'appel de Montpellier</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Béziers. <br/>
+<td>Béziers. <br/>
 </td>
-<td align="center">
-<br/>Béziers. <br/>
+<td>Béziers. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Montpellier. <br/>
+<td>Montpellier. <br/>
 </td>
-<td align="center">
-<br/>Montpellier, Millau, Rodez. <br/>
+<td>Montpellier, Millau, Rodez. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Narbonne. <br/>
+<td>Narbonne. <br/>
 </td>
-<td align="center">
-<br/>Carcassonne, Narbonne. <br/>
+<td>Carcassonne, Narbonne. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Perpignan. <br/>
+<td>Perpignan. <br/>
 </td>
-<td align="center">
-<br/>Perpignan. <br/>
+<td>Perpignan. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Nancy <br/>
+<td colspan="2">
+<br/>
+<i>Cour d'appel de Nancy</i>
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Epinal. <br/>
+<td>Epinal. <br/>
 </td>
-<td align="center">
-<br/>Epinal, Saint-Dié-des-Vosges. <br/>
+<td>Epinal, Saint-Dié-des-Vosges. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Nancy. <br/>
+<td>Nancy. <br/>
 </td>
-<td align="center">
-<br/>Bar-le-Duc, Briey, Nancy, Verdun. <br/>
+<td>Bar-le-Duc, Briey, Nancy, Verdun. <br/>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<br/>
+<i>Cour d'appel de Nîmes</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Nîmes <br/>
+<td>Avignon. <br/>
+</td>
+<td>Avignon, Carpentras, Privas. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Avignon. <br/>
+<td>Nîmes. <br/>
 </td>
-<td align="center">
-<br/>Avignon, Carpentras, Privas. <br/>
+<td>Alès, Mende, Nîmes. <br/>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<br/>
+<i>Cour d'appel d'Orléans</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Nîmes. <br/>
+<td>Blois. <br/>
 </td>
-<td align="center">
-<br/>Alès, Mende, Nîmes. <br/>
+<td>Blois. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel d'Orléans <br/>
+<td>Orléans. <br/>
+</td>
+<td>Montargis, Orléans. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Blois. <br/>
+<td>Tours. <br/>
 </td>
-<td align="center">
-<br/>Blois. <br/>
+<td>Tours. <br/>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<br/>
+<i>Cour d'appel de Paris</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Orléans. <br/>
+<td>Auxerre. <br/>
 </td>
-<td align="center">
-<br/>Montargis, Orléans. <br/>
+<td>Auxerre, Sens. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Tours. <br/>
+<td>Bobigny. <br/>
 </td>
-<td align="center">
-<br/>Tours. <br/>
+<td>Bobigny. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Paris <br/>
+<td>Créteil. <br/>
+</td>
+<td>Créteil. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Auxerre. <br/>
+<td>Evry. <br/>
 </td>
-<td align="center">
-<br/>Auxerre, Sens. <br/>
+<td>Evry. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Bobigny. <br/>
+<td>Meaux. <br/>
 </td>
-<td align="center">
-<br/>Bobigny. <br/>
+<td>Meaux. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Créteil. <br/>
+<td>Melun. <br/>
 </td>
-<td align="center">
-<br/>Créteil. <br/>
+<td>Fontainebleau, Melun. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Evry. <br/>
+<td>Paris. <br/>
 </td>
-<td align="center">
-<br/>Evry. <br/>
+<td>Paris. <br/>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<i>
+<br/>Cour d'appel de Pau<br/>
+</i>
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Meaux. <br/>
+<td>Bayonne. <br/>
 </td>
-<td align="center">
-<br/>Meaux. <br/>
+<td>Bayonne. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Melun. <br/>
+<td>Mont-de-Marsan. <br/>
 </td>
-<td align="center">
-<br/>Fontainebleau, Melun. <br/>
+<td>Dax, Mont-de-Marsan. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Paris. <br/>
+<td>Pau. <br/>
 </td>
-<td align="center">
-<br/>Paris. <br/>
+<td>Pau, Tarbes. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Pau <br/>
+<td colspan="2">
+<br/>
+<i>Cour d'appel de Poitiers</i>
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Bayonne. <br/>
+<td>La Rochelle. <br/>
 </td>
-<td align="center">
-<br/>Bayonne. <br/>
+<td>La Rochelle, Rochefort, Saintes. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Mont-de-Marsan. <br/>
+<td>La Roche-sur-Yon. <br/>
 </td>
-<td align="center">
-<br/>Dax, Mont-de-Marsan. <br/>
+<td>La Roche-sur-Yon, Les Sables-d'Olonne. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Pau. <br/>
+<td>Poitiers. <br/>
 </td>
-<td align="center">
-<br/>Pau, Tarbes. <br/>
+<td>Bressuire, Niort, Poitiers. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Poitiers <br/>
+<td colspan="2">
+<i>
+<br/>Cour d'appel de Reims</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>La Rochelle. <br/>
+<td>Reims. <br/>
 </td>
-<td align="center">
-<br/>La Rochelle, Rochefort, Saintes. <br/>
+<td>Châlons-en-Champagne, Charleville-Mézières, Reims. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>La Roche-sur-Yon. <br/>
+<td>Troyes. <br/>
 </td>
-<td align="center">
-<br/>La Roche-sur-Yon, Les Sables-d'Olonne. <br/>
+<td>Troyes. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Poitiers. <br/>
+<td colspan="2">
+<br/>
+<i>Cour d'appel de Rennes</i>
 </td>
-<td align="center">
-<br/>Bressuire, Niort, Poitiers. <br/>
+</tr>
+<tr>
+<td>Brest. <br/>
+</td>
+<td>Brest, Morlaix, Quimper. <br/>
+</td>
+</tr>
+<tr>
+<td>Lorient. <br/>
 </td>
+<td>Lorient, Vannes. <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Reims <br/>
+<td>Nantes. <br/>
+</td>
+<td>Nantes, Saint-Nazaire. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Reims. <br/>
+<td>Rennes. <br/>
 </td>
-<td align="center">
-<br/>Châlons-en Champagne, Charleville-Mézières, Reims. <br/>
+<td>Rennes, Saint-Malo. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Troyes. <br/>
+<td>Saint-Brieuc. <br/>
 </td>
-<td align="center">
-<br/>Troyes. <br/>
+<td>Dinan, Guingamp, Saint-Brieuc.<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Rennes <br/>
+<td colspan="2">
+<i>
+<br/>Cour d'appel de Riom</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Brest. <br/>
+<td>Clermont-Ferrand. <br/>
 </td>
-<td align="center">
-<br/>Brest, Morlaix, Quimper. <br/>
+<td>Aurillac, Clermont-Ferrand, Le Puy-en-Velay, Riom. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Lorient. <br/>
+<td>Cusset. <br/>
 </td>
-<td align="center">
-<br/>Lorient, Vannes. <br/>
+<td>Cusset, Montluçon, Moulins. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Nantes. <br/>
+<td colspan="2">
+<i>Cour d'appel de Rouen</i>
+<br/>
 </td>
-<td align="center">
-<br/>Nantes, Saint-Nazaire. <br/>
+</tr>
+<tr>
+<td>Evreux. <br/>
 </td>
+<td>Bernay, Evreux. <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Rennes. <br/>
+<td>Le Havre. <br/>
 </td>
-<td align="center">
-<br/>Rennes, Saint-Malo. <br/>
+<td>Le Havre. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Saint-Brieuc. <br/>
+<td>Rouen. <br/>
 </td>
-<td align="center">
-<br/>Dinan, Guingamp, Saint-Brieuc. <br/>
+<td>Dieppe, Rouen. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Riom <br/>
+<td colspan="2">
+<i>
+<br/>Cour d'appel de Toulouse</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Clermont-Ferrand. <br/>
+<td>Montauban. <br/>
 </td>
-<td align="center">
-<br/>Aurillac, Clermont-Ferrand, Le Puy-en-Velay, Riom. <br/>
+<td>Montauban. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cusset. <br/>
+<td>Toulouse. <br/>
 </td>
-<td align="center">
-<br/>Cusset, Montluçon, Moulins. <br/>
+<td>Albi, Castres, Foix, Saint-Gaudens, Toulouse. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Rouen <br/>
+<td colspan="2">
+<br/>
+<i>Cour d'appel de Versailles</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Evreux. <br/>
+<td>Chartres. <br/>
 </td>
-<td align="center">
-<br/>Bernay, Evreux. <br/>
+<td>Chartres. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Le Havre. <br/>
+<td>Nanterre. <br/>
 </td>
-<td align="center">
-<br/>Le Havre. <br/>
+<td>Nanterre. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Rouen. <br/>
+<td>Pontoise. <br/>
 </td>
-<td align="center">
-<br/>Dieppe, Rouen. <br/>
+<td>Pontoise. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Toulouse <br/>
+<td>Versailles. <br/>
 </td>
+<td>Versailles.</td>
 </tr>
+</tbody>
+</table>
+
+_Départements d'outre-mer_
+
+<table>
+<tbody>
 <tr>
-<td align="center">
-<br/>Montauban. <br/>
+<td align="center">SIÈGE <br/>
+</td>
+<td align="center">RESSORT <br/>s'étendant aux limites territoriales <br/>des tribunaux de grande instance de : <br/>
 </td>
-<td align="center">
-<br/>Montauban. <br/>
+</tr>
+<tr>
+<td colspan="2">
+<br/>
+<i>Cour d'appel de Basse-Terre</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Toulouse. <br/>
+<td>Pointe-à-Pitre. <br/>
 </td>
-<td align="center">
-<br/>Albi, Castres, Foix, Saint-Gaudens, Toulouse. <br/>
+<td>Basse-Terre, Pointe-à-Pitre. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Versailles <br/>
+<td colspan="2">
+<br/>
+<i>Cour d'appel de Fort-de-France</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chartres. <br/>
+<td>Fort-de-France. <br/>
 </td>
-<td align="center">
-<br/>Chartres. <br/>
+<td>Fort-de-France. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Nanterre. <br/>
+<td>Cayenne. <br/>
 </td>
-<td align="center">
-<br/>Nanterre. <br/>
+<td>Cayenne. <br/>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<br/>
+<i>Cour d'appel de Saint-Denis</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Pontoise. <br/>
+<td>Saint-Denis. <br/>
 </td>
-<td align="center">
-<br/>Pontoise. <br/>
+<td>Saint-Denis. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Versailles. <br/>
+<td>Saint-Pierre. <br/>
 </td>
-<td align="center">
-<br/>Versailles. <br/>
+<td>Saint-Pierre. <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-DÉPARTEMENTS D'OUTRE-MER
+_Collectivités d'outre-mer_
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>SIÈGE<br/>
-<br/>. <br/>
-</th>
-<th>
-<br/>RESSORT <br/>
-<br/>s'étendant aux limites territoriales des <br/>
-<br/>tribunaux de grande instance de : <br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Cour d'appel de Basse-Terre <br/>
+<td align="center">SIÈGE <br/>
+</td>
+<td align="center">RESSORT <br/>s'étendant aux limites <br/>des tribunaux de grande instance de : <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Pointe-à-Pitre. <br/>
-</td>
-<td align="center">
-<br/>Basse-Terre, Pointe-à-Pitre. <br/>
+<td colspan="2">
+<br/>
+<i>Cour d'appel de Nouméa</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Fort-de-France <br/>
+<td>Nouméa. <br/>
+</td>
+<td>Nouméa. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Fort-de-France. <br/>
-</td>
-<td align="center">
-<br/>Fort-de-France. <br/>
+<td colspan="2">
+<i>
+<br/>Cour d'appel de Papeete</i>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cayenne. <br/>
+<td>Papeete. <br/>
 </td>
-<td align="center">
-<br/>Cayenne. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Cour d'appel de Saint-Denis <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Saint-Denis. <br/>
-</td>
-<td align="center">
-<br/>Saint-Denis. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Saint-Pierre. <br/>
-</td>
-<td align="center">
-<br/>Saint-Pierre. <br/>
-</td>
-</tr>
-</tbody>
-</table>
-
-COLLECTIVITÉS D'OUTRE-MER
-
-<table>
-<tbody>
-<tr>
-<th>
-<br/>SIÈGE<br/>
-<br/>. <br/>
-</th>
-<th>
-<br/>RESSORT <br/>
-<br/>s'étendant aux limites territoriales des <br/>
-<br/>tribunaux de grande instance de : <br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Cour d'appel de Nouméa <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Nouméa. <br/>
-</td>
-<td align="center">
-<br/>Nouméa. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Cour d'appel de Papeete <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Papeete. <br/>
-</td>
-<td align="center">
-<br/>Papeete.<br/>
+<td>Papeete.<br/>
 </td>
 </tr>
 </tbody>
