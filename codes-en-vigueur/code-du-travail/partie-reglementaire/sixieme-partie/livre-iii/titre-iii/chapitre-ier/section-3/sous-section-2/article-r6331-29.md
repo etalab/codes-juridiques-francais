@@ -1,6 +1,6 @@
 # Article R6331-29
 
-La déclaration prévue à l'article L. 6331-32 est adressée au plus tard le 30 avril de l'année suivant celle au cours de laquelle les dépenses au titre de la contribution prévue à l'article L. 6331-9 ont été réalisées au service des impôts du lieu :
+La déclaration prévue à l'article L. 6331-32 est adressée au plus tard le deuxième jour ouvré suivant le 1er mai de l'année suivant celle au cours de laquelle les dépenses au titre de la contribution prévue à l'article L. 6331-9 ont été réalisées au service des impôts du lieu :
 
 1° De souscription de la déclaration des résultats pour les sociétés, les entreprises industrielles, commerciales ou artisanales ainsi que pour les employeurs exerçant une activité non commerciale ;
 
