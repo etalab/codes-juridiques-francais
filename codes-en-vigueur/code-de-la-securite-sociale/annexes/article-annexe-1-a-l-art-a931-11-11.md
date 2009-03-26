@@ -1119,7 +1119,7 @@ Règles de raccordement des comptes au bilan (passif)
 <p>B3j</p>
 </td>
 <td valign="top" width="95">
-<p align="center">372 et 375.</p>
+<p align="center">372, 375 et 379.</p>
 </td>
 <td valign="top" width="170"/>
 </tr>

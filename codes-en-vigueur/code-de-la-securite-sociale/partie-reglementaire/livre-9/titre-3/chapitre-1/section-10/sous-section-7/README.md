@@ -9,3 +9,5 @@
 - [Article A931-10-16](article-a931-10-16.md)
 - [Article A931-10-17](article-a931-10-17.md)
 - [Article A931-10-18](article-a931-10-18.md)
+- [Article A931-10-18-1](article-a931-10-18-1.md)
+- [Article A931-10-18-2](article-a931-10-18-2.md)
