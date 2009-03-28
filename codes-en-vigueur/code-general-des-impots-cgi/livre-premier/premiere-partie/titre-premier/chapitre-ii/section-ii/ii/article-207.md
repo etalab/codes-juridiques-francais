@@ -54,9 +54,9 @@ b) Des prêts à leurs filiales et aux organismes mentionnés au 4°. Le taux de
 
 c) Des avances remboursables ne portant pas intérêt prévues par l'article R. 317-1 du code de la construction et de l'habitation. La fraction du bénéfice net provenant des avances accordées à compter du 1er janvier 2001 est soumise à l'impôt sur les sociétés.
 
-4° quater Les unions d'économie sociale visées à l'article L. 365-1 du code de la construction et de l'habitation, et dont les dirigeants de droit ou de fait ne sont pas rémunérés, pour :
+4° quater Les unions d'économie sociale dont les dirigeants de droit ou de fait ne sont pas rémunérés, pour :
 
-a. les opérations mentionnées au deuxième alinéa de l'article L. 365-1 du même code lorsqu'elles relèvent du service d'intérêt général défini aux septième et neuvième alinéas de l'article L. 411-2 du même code ainsi que les services accessoires à ces opérations ;
+a. Les activités mentionnées à l'article L. 365-1 du code de la construction et de l'habitation pour lesquelles les unions d'économie sociale font l'objet des agréments prévus aux articles L. 365-2 à L. 365-4 du même code lorsqu'elles relèvent du service d'intérêt général défini aux septième et neuvième alinéas de l'article L. 411-2 du même code ainsi que les services accessoires à ces activités ;
 
 b. les produits engendrés par les locaux annexes et accessoires des ensembles d'habitations mentionnés à l'article L. 411-1 du même code, à la condition que ces locaux soient nécessaires à la vie économique et sociale de ces ensembles ;
 
@@ -90,7 +90,7 @@ e.-opérations de rénovation urbaine.
 
 11° Les fondations reconnues d'utilité publique du secteur de la recherche, parmi lesquelles les fondations de coopération scientifique.
 
-Les exonérations dont bénéficient les personnes morales visées aux 9°,10° et 11° s'appliquent aux revenus tirés des activités conduites dans le cadre des missions du service public de l'enseignement supérieur et de la recherche définies aux articles L. 123-3 du code de l'éducation et L. 112-1 du code de la recherche.
+Les exonérations dont bénéficient les personnes morales visées aux 9°, 10° et 11° s'appliquent aux revenus tirés des activités conduites dans le cadre des missions du service public de l'enseignement supérieur et de la recherche définies aux articles L. 123-3 du code de l'éducation et L. 112-1 du code de la recherche.
 
 1 bis. Lorsque les sociétés coopératives ou leurs unions émettent des certificats coopératifs d'investissement, l'exonération visée au 1 n'est pas applicable à la fraction des résultats correspondant à la part du montant nominal des certificats coopératifs dans le capital social.
 
@@ -104,7 +104,7 @@ Les résultats sont déterminés selon les règles visées à l'article 209 avan
 
 1 quinquies. Pour l'application des dispositions du 1 ter et du 1 quater, sont regardées comme associés non coopérateurs les personnes physiques ou morales qui n'ont pas vocation à recourir aux services de la coopérative ou dont celle-ci n'utilise pas le travail, mais qui entendent contribuer par l'apport de capitaux à la réalisation des objectifs de celle-ci.
 
-2. Sont exonérés de l'impôt sur les sociétés les résultats définis aux 1° et 2° dans les conditions prévues aux 3°,4°,5° et 6° :
+2. Sont exonérés de l'impôt sur les sociétés les résultats définis aux 1° et 2° dans les conditions prévues aux 3°, 4°, 5° et 6° :
 
 1° Les résultats, y compris la quote-part des produits financiers, afférents aux opérations portant sur la gestion des contrats d'assurance maladie relatifs à des opérations individuelles et collectives à adhésion facultative, à la condition que l'organisme ne recueille pas d'informations médicales, lors de l'adhésion, auprès de l'assuré au titre de ce contrat ou des personnes souhaitant bénéficier de cette couverture, que les cotisations ou les primes ne soient pas fixées en fonction de l'état de santé de l'assuré, que ces garanties ne couvrent pas la participation mentionnée au II de l'article L. 322-2 du code de la sécurité sociale et qu'elles respectent les conditions mentionnées à l'article L. 871-1 du même code. Un décret précise les modalités de détermination de ces résultats.
 

@@ -2,7 +2,7 @@
 
 Les ressources de l'Agence nationale pour la cohésion sociale et l'égalité des chances sont constituées notamment par :
 
-1° Les subventions de l'Etat ;
+1° Les subventions ou concours de l'Etat ;
 
 2° Les concours des fonds structurels de la Communauté européenne ;
 
@@ -10,4 +10,4 @@ Les ressources de l'Agence nationale pour la cohésion sociale et l'égalité de
 
 4° Les produits divers, dons et legs.
 
-L'agence peut, en outre, recevoir, dans le cadre de conventions, des contributions d'organismes nationaux ou locaux des régimes obligatoires de sécurité sociale ou de la mutualité sociale agricole, ou d'établissements publics.
+L'agence peut, en outre, recevoir, dans le cadre de conventions, des contributions de collectivités territoriales ou de leurs établissements publics de coopération, d'organismes nationaux ou locaux des régimes obligatoires de sécurité sociale ou de la mutualité sociale agricole, ou d'établissements publics.

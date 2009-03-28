@@ -2,7 +2,7 @@
 
 Sous réserve de l'article 691 bis, sont exonérés de taxe de publicité foncière ou de droits d'enregistrement :
 
-A. I. Lorsqu'elles entrent dans le champ d'application de la taxe sur la valeur ajoutée, les acquisitions :
+A.I. Lorsqu'elles entrent dans le champ d'application de la taxe sur la valeur ajoutée, les acquisitions :
 
 1° De terrains nus ou recouverts de bâtiments destinés à être démolis ;
 
@@ -26,7 +26,7 @@ Pour les terrains destinés à la construction d'immeubles non affectés à l'ha
 
 IV. Une prolongation annuelle renouvelable du délai de quatre ans fixé au II peut être accordée par le directeur des services fiscaux du lieu de la situation des immeubles dans des conditions fixées par décret, notamment en cas de force majeure ou lorsqu'il s'agit de la construction d'ensembles à réaliser progressivement par tranches successives.
 
-IV bis. - Une prolongation annuelle renouvelable du délai mentionné au troisième alinéa de l'article 1115 peut être accordée, dans des conditions fixées par décret, par le directeur des services fiscaux du lieu de la situation des terrains nus ou biens assimilés mentionnés au I situés dans le périmètre d'une zone d'aménagement concerté définie à l'article L. 311-1 du code de l'urbanisme et acquis par la personne chargée de l'aménagement ou de l'équipement de cette zone.
+IV bis.-Une prolongation annuelle renouvelable du délai mentionné au troisième alinéa de l'article 1115 peut être accordée, dans des conditions fixées par décret, par le directeur des services fiscaux du lieu de la situation des terrains nus ou biens assimilés mentionnés au I situés dans le périmètre d'une zone d'aménagement concerté définie à l'article L. 311-1 du code de l'urbanisme et acquis par la personne chargée de l'aménagement ou de l'équipement de cette zone.
 
 V. En cas d'acquisition d'un terrain compris dans le périmètre d'une association syndicale de remembrement, le délai de quatre ans ne commence à courir qu'à compter de la décision de clôture des opérations de remembrement.
 
@@ -54,4 +54,4 @@ h. les acquisitions de biens soumis au droit de préemption institué dans les z
 
 i. les rétrocessions consenties en application de l'article L. 142-8 du code de l'urbanisme ;
 
-j. Les cessions d'actifs opérées par l'association mentionnée à l'article 116 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre 2001) ou par les sociétés civiles immobilières dont elle détient la majorité des parts, en faveur des régimes de retraites complémentaires obligatoires des salariés du secteur privé par répartition institués par voie d'accords collectifs interprofessionnels.
+j. Les cessions d'actifs opérées par l'association mentionnée à l'article L. 313-34 du code de la construction et de l'habitation ou par les sociétés civiles immobilières dont elle détient la majorité des parts, en faveur des régimes de retraites complémentaires obligatoires des salariés du secteur privé par répartition institués par voie d'accords collectifs interprofessionnels.

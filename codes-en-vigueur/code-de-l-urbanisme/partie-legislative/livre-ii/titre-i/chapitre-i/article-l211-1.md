@@ -4,6 +4,6 @@ Les communes dotées d'un plan d'occupation des sols rendu public ou d'un plan l
 
 Les conseils municipaux des communes dotées d'une carte communale approuvée peuvent, en vue de la réalisation d'un équipement ou d'une opération d'aménagement, instituer un droit de préemption dans un ou plusieurs périmètres délimités par la carte. La délibération précise, pour chaque périmètre, l'équipement ou l'opération projetée.
 
-Ce droit de préemption est ouvert à la commune. Le conseil municipal peut décider de le supprimer sur tout ou partie des zones considérées. Il peut ultérieurement le rétablir dans les mêmes conditions.
+Ce droit de préemption est ouvert à la commune. Le conseil municipal peut décider de le supprimer sur tout ou partie des zones considérées. Il peut ultérieurement le rétablir dans les mêmes conditions. Toutefois, dans le cas prévu au deuxième alinéa de l'article L. 210-1, le droit de préemption peut être institué ou rétabli par arrêté du représentant de l'Etat dans le département.
 
 Lorsqu'un lotissement a été autorisé ou une zone d'aménagement concerté créée, la commune peut exclure du champ d'application du droit de préemption urbain la vente des lots issus dudit lotissement ou les cessions de terrain par la personne chargée de l'aménagement de la zone d'aménagement concerté. Dans ce cas, la délibération du conseil municipal est valable pour une durée de cinq ans à compter du jour où la délibération est exécutoire.

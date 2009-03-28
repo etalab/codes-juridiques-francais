@@ -2,7 +2,7 @@
 
 Par exception aux dispositions du a de l'article L. 422-1, l'autorité administrative de l'Etat est compétente pour se prononcer sur un projet portant sur :
 
-a) Les travaux, constructions et installations réalisés pour le compte de l'Etat, de la région, de la collectivité territoriale de Corse, du département, de leurs établissements publics et concessionnaires ainsi que pour le compte d'Etats étrangers ou d'organisations internationales ;
+a) Les travaux, constructions et installations réalisés pour le compte d'Etats étrangers ou d'organisations internationales, de l'Etat, de ses établissements publics et concessionnaires ;
 
 b) Les ouvrages de production, de transport, de distribution et de stockage d'énergie, ainsi que ceux utilisant des matières radioactives ; un décret en Conseil d'Etat détermine la nature et l'importance de ces ouvrages ;
 

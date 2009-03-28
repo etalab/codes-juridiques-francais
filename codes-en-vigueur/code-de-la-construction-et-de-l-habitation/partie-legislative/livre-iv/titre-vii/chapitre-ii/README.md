@@ -8,4 +8,5 @@
 - [Article L472-1-5](article-l472-1-5.md)
 - [Article L472-1-6](article-l472-1-6.md)
 - [Article L472-1-7](article-l472-1-7.md)
+- [Article L472-1-8](article-l472-1-8.md)
 - [Article L472-2](article-l472-2.md)

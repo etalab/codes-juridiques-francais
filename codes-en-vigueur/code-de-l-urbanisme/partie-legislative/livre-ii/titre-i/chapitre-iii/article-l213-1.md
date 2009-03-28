@@ -20,8 +20,10 @@ d) Les immeubles cédés au locataire en exécution de la promesse de vente ins�
 
 e) Les immeubles qui font l'objet d'une mise en demeure d'acquérir en application des articles L. 111-10, L. 123-2, L123-17 ou L. 311-2 du présent code ou de l'article L. 11-7 du code de l'expropriation pour cause d'utilité publique ;
 
-f) Pendant la durée d'application d'un arrêté préfectoral pris sur le fondement de l'article L. 302-9-1 du code de la construction et de l'habitation, l'aliénation d'un immeuble ou d'un terrain destiné à être affecté à une opération ayant fait l'objet de la convention prévue au même article ;
+f) abrogé ;
 
-g) L'aliénation par l'Etat ou ses établissements publics de terrains, bâtis ou non bâtis, en vue de la réalisation des logements situés dans les périmètres mentionnés au deuxième alinéa du I de l'article 1er de la loi n° 2006-872 du 13 juillet 2006 portant engagement national pour le logement, tant que les décrets prévus au même alinéa ne sont pas caducs ou en vue de la réalisation des opérations d'intérêt national mentionnées au premier alinéa de l'article L. 121-2;
+g) L'aliénation par l'Etat, ses établissements publics ou des sociétés dont il détient la majorité du capital de terrains, bâtis ou non bâtis, en vue de la réalisation des logements situés dans les périmètres mentionnés au deuxième alinéa du I de l'article 1er de la loi n° 2006-872 du 13 juillet 2006 portant engagement national pour le logement, tant que les décrets prévus au même alinéa ne sont pas caducs ou en vue de la réalisation des opérations d'intérêt national mentionnées au premier alinéa de l'article L. 121-2 ;
 
-h) Les transferts en pleine propriété des immeubles appartenant à l'Etat ou à ses établissements publics, réalisés conformément à l'article 141 de la loi n° 2006-1771 du 30 décembre 2006 de finances rectificative pour 2006.
+h) Les transferts en pleine propriété des immeubles appartenant à l'Etat ou à ses établissements publics, réalisés conformément à l'article 141 de la loi n° 2006-1771 du 30 décembre 2006 de finances rectificative pour 2006 ;
+
+i) Les biens acquis par un organisme visé aux articles L. 321-4 et L. 324-1 lorsqu'il agit à la demande expresse de la collectivité titulaire du droit de préemption urbain.

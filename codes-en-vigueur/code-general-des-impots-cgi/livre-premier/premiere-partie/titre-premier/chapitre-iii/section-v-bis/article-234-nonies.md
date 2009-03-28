@@ -6,7 +6,7 @@ II.-(Abrogé)
 
 III.-Sont exonérés de la contribution les revenus tirés de la location :
 
-1° dont le montant annuel n'excède pas 1 830 euros par local ;
+1° dont le montant annuel n'excède pas 1 830 € par local ;
 
 2° qui donne lieu au paiement de la taxe sur la valeur ajoutée ;
 
@@ -24,7 +24,7 @@ III.-Sont exonérés de la contribution les revenus tirés de la location :
 
 9° des immeubles faisant partie de villages de vacances ou de maisons familiales de vacances agréés ;
 
-10° Des logements appartenant aux organismes sans but lucratif ou aux unions d'économie sociale visées à l'article L. 365-1 du code de la construction et de l'habitation, et dont les dirigeants de droit ou de fait ne sont pas rémunérés, qui les mettent à la disposition de personnes défavorisées mentionnées à l'article 1er de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement et qui ont été agréés à cet effet par le représentant de l'Etat dans le département ;
+10° Des logements appartenant aux organismes sans but lucratif ou aux unions d'économie sociale réalisant les activités mentionnées à l'article L. 365-1 du code de la construction et de l'habitation, et dont les dirigeants de droit ou de fait ne sont pas rémunérés ;
 
 11° Des logements qui ont fait l'objet de travaux de réhabilitation définis par décret, lorsque ces travaux ont été financés à hauteur d'au moins 15 % de leur montant par une subvention versée par l'Agence nationale de l'habitat, pour les quinze années suivant celle de l'achèvement des travaux.
 
