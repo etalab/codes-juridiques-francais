@@ -1,12 +1,12 @@
 # Article R314-1
 
-Pour l'application des dispositions des articles L. 314-8 et L. 314-9, l'étranger présente à l'appui de sa demande de carte de résident ou de carte de résident portant la mention "résident de longue durée-CE" :
+Pour l'application des dispositions des articles L. 314-8 et L. 314-9, l'étranger présente à l'appui de sa demande de carte de résident ou de carte de résident portant la mention " résident de longue durée-CE " :
 
 1° Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint et de ses enfants à charge ;
 
 2° S'il est marié et ressortissant d'un Etat dont la loi autorise la polygamie, une déclaration sur l'honneur selon laquelle il ne vit pas en France en état de polygamie ;
 
-3° Trois photographies de face, tête nue, de format 3,5 x 4,5 cm, récentes et parfaitement ressemblantes ;
+3° Trois photographies de face, tête nue, de format 3, 5 x 4, 5 cm, récentes et parfaitement ressemblantes ;
 
 4° Les pièces justifiant :
 
@@ -18,7 +18,7 @@ b) Ou, s'il ne relève pas de ces dispositions, des raisons pour lesquelles il e
 
 a) Une déclaration sur l'honneur par laquelle il s'engage à respecter les principes qui régissent la République française ;
 
-b) Le cas échéant, le contrat d'accueil et d'intégration conclu en application de l'article L. 311-9 ainsi que l'attestation nominative remise par l'Agence nationale de l'accueil des étrangers et des migrations précisant si les actions prévues au contrat ont été suivies ainsi que les conditions de leur validation ;
+b) Le cas échéant, le contrat d'accueil et d'intégration conclu en application de l'article L. 311-9 ainsi que l'attestation nominative remise par l'          Office français de l'immigration et de l'intégration  précisant si les actions prévues au contrat ont été suivies ainsi que les conditions de leur validation ;
 
 c) Tout document de nature à attester sa connaissance suffisante de la langue française, notamment le diplôme initial de langue française.
 

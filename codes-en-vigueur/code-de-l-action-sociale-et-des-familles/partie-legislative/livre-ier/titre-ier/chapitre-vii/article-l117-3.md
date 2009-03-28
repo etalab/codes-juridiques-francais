@@ -4,15 +4,15 @@ Il est créé une aide à la réinsertion familiale et sociale des anciens migra
 
 Elle est ouverte aux étrangers non ressortissants d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen, en situation régulière, vivant seuls :
 
-- âgés d'au moins soixante-cinq ans ou d'au moins soixante ans en cas d'inaptitude au travail ;
+-âgés d'au moins soixante-cinq ans ou d'au moins soixante ans en cas d'inaptitude au travail ;
 
-- qui justifient d'une résidence régulière et ininterrompue en France pendant les quinze années précédant la demande d'aide ;
+-qui justifient d'une résidence régulière et ininterrompue en France pendant les quinze années précédant la demande d'aide ;
 
-- qui sont hébergés, au moment de la demande, dans un foyer de travailleurs migrants ou dans un logement à usage locatif dont les bailleurs s'engagent à respecter certaines obligations dans le cadre de conventions conclues avec l'Etat ;
+-qui sont hébergés, au moment de la demande, dans un foyer de travailleurs migrants ou dans un logement à usage locatif dont les bailleurs s'engagent à respecter certaines obligations dans le cadre de conventions conclues avec l'Etat ;
 
-- dont les revenus sont inférieurs à un seuil fixé par décret en Conseil d'Etat ;
+-dont les revenus sont inférieurs à un seuil fixé par décret en Conseil d'Etat ;
 
-- et qui effectuent des séjours de longue durée dans leur pays d'origine.
+-et qui effectuent des séjours de longue durée dans leur pays d'origine.
 
 Son montant est calculé en fonction des ressources du bénéficiaire. Elle est versée annuellement et révisée, le cas échéant, une fois par an, en fonction de l'évolution des prix hors tabac prévue dans le rapport sur la situation et les perspectives économiques, sociales et financières de la Nation annexé au projet de loi de finances de l'année.
 
@@ -24,7 +24,7 @@ Le bénéfice de l'aide est supprimé à la demande des bénéficiaires, à tout
 
 L'aide est cessible et saisissable dans les mêmes conditions et limites que les salaires.
 
-Elle est servie par l'Agence nationale de l'accueil des étrangers et des migrations.
+Elle est servie par l'          Office français de l'immigration et de l'intégration.
 
 Elle est exclusive de toute aide personnelle au logement et de tous minima sociaux.
 

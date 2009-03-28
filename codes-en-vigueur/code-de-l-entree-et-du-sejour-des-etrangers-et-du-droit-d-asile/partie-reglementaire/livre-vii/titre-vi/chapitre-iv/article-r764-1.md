@@ -12,7 +12,7 @@ b) Au cinquième alinéa, les mots " le préfet sont remplacés par les mots : "
 
 2° Au troisième alinéa de l'article R. 723-2 :
 
-a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Agence nationale de l'accueil des étrangers et des migrations " sont remplacés par les mots : " au haut-commissaire de la République en Nouvelle-Calédonie " ;
+a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'          Office français de l'immigration et de l'intégration  " sont remplacés par les mots : " au haut-commissaire de la République en Nouvelle-Calédonie " ;
 
 b) Au troisième alinéa de l'article, les mots : " au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en font la demande " sont remplacés par les mots : " au haut-commissaire de la République en Nouvelle-Calédonie, lorsque celui-ci en fait la demande " ;
 
@@ -24,7 +24,7 @@ b) Au troisième alinéa de l'article, les mots : " au préfet intéressé et, �
 
 6° A l'article R. 733-20 :
 
-a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'Agence nationale de l'accueil des étrangers et des migrations " sont remplacés par les mots : " le haut-commissaire de la République en Nouvelle-Calédonie " ;
+a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'          Office français de l'immigration et de l'intégration  " sont remplacés par les mots : " le haut-commissaire de la République en Nouvelle-Calédonie " ;
 
 b) Au deuxième alinéa, les mots : " au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande " sont remplacés par les mots : " au haut-commissaire de la République en Nouvelle-Calédonie, lorsque celui-ci en fait la demande " ;
 
