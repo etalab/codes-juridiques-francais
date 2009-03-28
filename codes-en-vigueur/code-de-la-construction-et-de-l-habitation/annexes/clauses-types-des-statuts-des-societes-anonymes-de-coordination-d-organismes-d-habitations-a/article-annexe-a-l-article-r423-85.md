@@ -16,7 +16,7 @@ Dans le cadre de projets que ses actionnaires mènent en commun, la société a 
 
 2° De gérer des immeubles appartenant à ses actionnaires organismes d'habitations à loyer modéré ;
 
-3° De gérer, dans les périmètres où ses actionnaires mettent en oeuvre des projets communs, des immeubles appartenant à d'autres organismes d'habitations à loyer modéré et de gérer des immeubles à usage principal d'habitation appartenant à l'Etat, aux collectivités territoriales ou à leurs groupements, à des sociétés d'économie mixte de construction et de gestion de logements locatifs sociaux, à des organismes à but non lucratif, à l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre 2001) ou aux sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par cette association ;
+3° De gérer, dans les périmètres où ses actionnaires mettent en oeuvre des projets communs, des immeubles appartenant à d'autres organismes d'habitations à loyer modéré et de gérer des immeubles à usage principal d'habitation appartenant à l'Etat, aux collectivités territoriales ou à leurs groupements, à des sociétés d'économie mixte de construction et de gestion de logements locatifs sociaux, à des organismes à but non lucratif, à l'association agréée mentionnée à l'article L. 313-34 du code de la construction et de l'habitation ou aux sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par cette association ;
 
 4° De réaliser, pour le compte de ses actionnaires et dans le cadre d'une convention passée par la société avec la ou les collectivités territoriales ou le ou les établissements publics de coopération intercommunale compétents sur le ou les périmètres où sont conduits des projets en commun, toutes les interventions foncières, les actions ou opérations d'aménagement prévues par le code de l'urbanisme et le code de la construction et de l'habitation. Les dispositions de l'article L. 443-14 de ce dernier code ne sont pas applicables aux cessions d'immeubles rendues nécessaires par ces réalisations ;
 
@@ -26,17 +26,17 @@ Dans le cadre de projets que ses actionnaires mènent en commun, la société a 
 
 (2) Ne mentionner que celles des compétences énumérées aux alinéas quatrième et suivants de l'article L. 422-2 du code de la construction et de l'habitation et qui sont communes aux organismes publics et aux sociétés anonymes d'habitations à loyer modéré pour l'exercice desquelles la société a été spécialement agréée.
 
-4. Compétence territoriale - Siège social.
+4. Compétence territoriale-Siège social.
 
 L'activité de la société s'exerce dans le territoire délimité par la décision ministérielle portant agrément de la société en application de l'article R. 423-86 du code de la construction et de l'habitation.
 
-Le siège social de la société est fixé à ...
+Le siège social de la société est fixé à...
 
 Il pourra être transféré à l'intérieur du territoire où s'exerce l'activité de la société.
 
 5. Composition du capital social.
 
-Le capital social de la société est composé de ... actions nominatives de ... euro(s) chacune, entièrement libérées et détenues exclusivement par des organismes d'habitations à loyer modéré.
+Le capital social de la société est composé de... actions nominatives de... euro (s) chacune, entièrement libérées et détenues exclusivement par des organismes d'habitations à loyer modéré.
 
 6. Cession d'actions.
 
@@ -46,7 +46,7 @@ Le transfert d'actions à un organisme d'habitation à loyer modéré non action
 
 Le refus d'agrément peut résulter soit d'une décision expresse, soit d'un défaut de réponse dans un délai de trois mois à compter de la date de réception de la demande.
 
-En cas de refus d'agrément, le conseil d'administration ou le directoire est tenu, dans un délai de trois mois à compter de son refus, de faire acquérir les actions par un ou des organismes d'habitation à loyer modéré qu'il aura lui-même désigné(s). Dans ce cas, le prix ne peut être inférieur à celui de la cession non autorisée. Si, à l'expiration du délai susmentionné, l'achat n'est pas réalisé, l'agrément est considéré comme accordé, sauf prolongation de ce délai par décision de justice à la demande de la société.
+En cas de refus d'agrément, le conseil d'administration ou le directoire est tenu, dans un délai de trois mois à compter de son refus, de faire acquérir les actions par un ou des organismes d'habitation à loyer modéré qu'il aura lui-même désigné (s). Dans ce cas, le prix ne peut être inférieur à celui de la cession non autorisée. Si, à l'expiration du délai susmentionné, l'achat n'est pas réalisé, l'agrément est considéré comme accordé, sauf prolongation de ce délai par décision de justice à la demande de la société.
 
 Version applicable aux sociétés dotées d'un conseil d'administration (1) :
 
@@ -54,7 +54,7 @@ Version applicable aux sociétés dotées d'un conseil d'administration (1) :
 
 La société est administrée par un conseil d'administration constitué conformément aux dispositions de l'article L. 423-1-2 du code de la construction et de l'habitation et à celles non contraires de la sous-section 1 de la section 2 du chapitre V du titre II du livre II du code de commerce.
 
-Lorsque la société gère des logements appartenant à ses actionnaires, le conseil d'administration est complété, conformément aux dispositions de l'article L. 423-1-3 du code de la construction et de l'habitation, par trois administrateurs représentants les locataires et élus par ces derniers dans les conditions fixées à l'article R. 423-89 ou désignés dans les conditions de l'article R. 423-90 du même code. A cet effet, l'effectif du conseil d'administration peut excéder de deux unités le nombre maximum prévu à l'article L. 225-17 du code de commerce.
+Lorsque la société gère des logements appartenant à ses actionnaires, le conseil d'administration est complété, conformément aux dispositions de l'article L. 423-1-3 du code de la construction et de l'habitation, par trois administrateurs représentants les locataires et élus par ces derniers dans les conditions fixées à l'article R. 423-89 ou désignés dans les conditions de l'article R. 423-90 du même code.A cet effet, l'effectif du conseil d'administration peut excéder de deux unités le nombre maximum prévu à l'article L. 225-17 du code de commerce.
 
 Version applicable aux sociétés dotées d'un conseil de surveillance et d'un directoire (1) :
 
@@ -62,7 +62,7 @@ Version applicable aux sociétés dotées d'un conseil de surveillance et d'un d
 
 La société est administrée par un conseil de surveillance et un directoire constitués conformément aux dispositions de l'article L. 423-1-2 du code de la construction et de l'habitation et à celles non contraires de la sous-section 2 de la section 2 du chapitre V du titre II du livre II du code de commerce.
 
-Lorsque la société gère des logements appartenant à ses actionnaires, le conseil de surveillance est complété, conformément aux dispositions de l'article L. 423-1-3 du code de la construction et de l'habitation, par trois membres représentants les locataires et élus par ces derniers dans les conditions fixées à l'article R. 423-89 ou désignés dans les conditions de l'article R. 423-90 du même code. A cet effet, l'effectif du conseil de surveillance peut excéder de deux le nombre maximum prévu à l'article L. 225-69 du code de commerce.
+Lorsque la société gère des logements appartenant à ses actionnaires, le conseil de surveillance est complété, conformément aux dispositions de l'article L. 423-1-3 du code de la construction et de l'habitation, par trois membres représentants les locataires et élus par ces derniers dans les conditions fixées à l'article R. 423-89 ou désignés dans les conditions de l'article R. 423-90 du même code.A cet effet, l'effectif du conseil de surveillance peut excéder de deux le nombre maximum prévu à l'article L. 225-69 du code de commerce.
 
 (1) La société devra opter pour l'une de ces deux versions.
 

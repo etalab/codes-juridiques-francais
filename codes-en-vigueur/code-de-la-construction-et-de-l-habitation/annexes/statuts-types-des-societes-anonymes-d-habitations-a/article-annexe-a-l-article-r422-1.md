@@ -16,7 +16,7 @@ La société a pour objet :
 
 2° De gérer les immeubles appartenant à d'autres organismes d'habitations à loyer modéré ;
 
-3° De gérer les immeubles à usage principal d'habitation appartenant à l'Etat, à une collectivité territoriale ou à un groupement de collectivités territoriales, à une société d'économie mixte de construction et de gestion de logements sociaux, à des organismes à but non lucratif, à l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre 2001) ou aux sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par cette association ;
+3° De gérer les immeubles à usage principal d'habitation appartenant à l'Etat, à une collectivité territoriale ou à un groupement de collectivités territoriales, à une société d'économie mixte de construction et de gestion de logements sociaux, à des organismes à but non lucratif, à l'association agréée mentionnée à l'article L. 313-34 du code de la construction et de l'habitation ou aux sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par cette association ;
 
 4° De réaliser des missions d'accompagnement social destinées aux populations logées dans le patrimoine qu'elle gère ou, à titre de prestataire de services, pour les populations logées dans le patrimoine géré par d'autres organismes de logement social ;
 
@@ -34,7 +34,7 @@ La société a pour objet :
 
 11° De réaliser pour le compte d'autres organismes d'habitations à loyer modéré des prestations de services pour des missions entrant dans l'objet social et la compétence territoriale desdits organismes et de la société ;
 
-12° D'être syndic de copropriété et administrateur de biens d'immeubles bâtis, construits ou acquis soit par elle, soit par un autre organisme d'habitations à loyer modéré, une collectivité territoriale, une société d'économie mixte ou un organisme sans but lucratif, l'association mentionnée à l'article 116 de la loi de finances pour 2002 précitée ou une des sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par cette association ;
+12° D'être syndic de copropriété et administrateur de biens d'immeubles bâtis, construits ou acquis soit par elle, soit par un autre organisme d'habitations à loyer modéré, une collectivité territoriale, une société d'économie mixte ou un organisme sans but lucratif, l'association mentionnée à l'article       l'article L. 313-34 du code de la construction et de l'habitation précitée ou une des sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par cette association ;
 
 13° De vendre des ouvrages de bâtiment aux organismes visés à l'article L. 411-2 du code de la construction et de l'habitation et aux sociétés d'économie mixte ou de les acquérir auprès d'eux, par contrat de vente d'immeuble à construire prévu aux articles L. 261-1 et suivants du même code ;
 
@@ -64,7 +64,7 @@ La société a pour objet :
 
 26° De prendre à bail des logements vacants pour les donner en sous-location à des personnes physiques dans les conditions fixées par les articles L. 444-1 et suivants du code de la construction et de l'habitation ;
 
-27° De réaliser en vue de leur vente, dans les conditions prévues aux articles L. 261-1 à L. 261-22 du code de la construction et de l'habitation, à l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre 2001) ou aux sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette association, des immeubles à usage principal d'habitation destinés à la location ;
+27° De réaliser en vue de leur vente, dans les conditions prévues aux articles L. 261-1 à L. 261-22 du code de la construction et de l'habitation, à l'association agréée mentionnée à l'article       l'article L. 313-34 du code de la construction et de l'habitation (n° 2001-1275 du 28 décembre 2001) ou aux sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette association, des immeubles à usage principal d'habitation destinés à la location ;
 
 28° De participer, en application de l'article L. 424-2 du code de la construction et de l'habitation, à des actions de développement à caractère social d'intérêt direct pour les habitants des quartiers d'habitat social, dans le cadre des contrats de ville conclus en application de l'article 27 de la loi n° 99-533 du 25 juin 1999 d'orientation pour l'aménagement et le développement durable du territoire ;
 
@@ -76,7 +76,7 @@ La société a pour objet :
 
 32° De réaliser des travaux, d'acquérir, de construire et de gérer des immeubles à usage d'habitation au profit des fonctionnaires de la police et de la gendarmerie nationales, des services départementaux d'incendie et de secours ou des services pénitentiaires, ainsi que les locaux accessoires à ces immeubles et les locaux nécessaires au fonctionnement des gendarmeries ;
 
-33° De réaliser des prestations de services pour le compte de l'association agréée mentionnée à l'article 116 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre 2001) ou des sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette association ;
+33° De réaliser des prestations de services pour le compte de l'association agréée mentionnée à l'article       l'article L. 313-34 du code de la construction et de l'habitation (n° 2001-1275 du 28 décembre 2001) ou des sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette association ;
 
 34° D'être syndic de copropriété dans le cas prévu à l'article L. 443-15 du code de la construction et de l'habitation ;
 
