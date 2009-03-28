@@ -1,6 +1,5 @@
 # Chapitre Ier : L'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer)
 
-- [Section 1 : Dispositions communes.](section-1)
 - [Article L621-1](article-l621-1.md)
 - [Article L621-2](article-l621-2.md)
 - [Article L621-3](article-l621-3.md)
