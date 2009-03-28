@@ -5,6 +5,8 @@
 - [Article R723-29](article-r723-29.md)
 - [Article R723-30](article-r723-30.md)
 - [Article R723-31](article-r723-31.md)
+- [Article R723-31-1](article-r723-31-1.md)
+- [Article R723-31-2](article-r723-31-2.md)
 - [Article R723-32](article-r723-32.md)
 - [Article R723-33](article-r723-33.md)
 - [Article R723-34](article-r723-34.md)

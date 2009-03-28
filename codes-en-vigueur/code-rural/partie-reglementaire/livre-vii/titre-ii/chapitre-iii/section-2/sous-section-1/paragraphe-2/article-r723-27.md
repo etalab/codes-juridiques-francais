@@ -2,7 +2,7 @@
 
 La liste des personnes qui remplissent les conditions fixées par les articles L. 723-15 et L. 723-19 est établie, à titre provisoire, par collège électoral et selon le canton de résidence des intéressés, par le conseil d'administration de chaque caisse de mutualité sociale agricole.
 
-Elle est établie cent trente-cinq jours au moins avant la date fixée pour le scrutin.
+Elle est établie cent quarante-cinq jours au moins avant la date fixée pour le scrutin.
 
 Le président du conseil d'administration de la caisse communique par lettre simple à chacun des électeurs son inscription sur la liste provisoire, en mentionnant le canton et le collège d'inscription.
 
