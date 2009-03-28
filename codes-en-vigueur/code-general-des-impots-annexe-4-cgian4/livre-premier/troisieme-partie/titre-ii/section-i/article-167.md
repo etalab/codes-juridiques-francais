@@ -46,6 +46,6 @@ les chambres de métiers et de l'artisanat ;
 
 les sections de l'office de répartition des produits industriels ;
 
-l'Office national interprofessionnel des grandes cultures ;
+l'     établissement national des produits de l'agriculture et de la mer (FranceAgriMer) ;
 
 l'office national des anciens combattants et victimes de guerre.
