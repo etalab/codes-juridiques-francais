@@ -2,3 +2,4 @@
 
 - [Article 41-0 A bis](article-41-0-a-bis.md)
 - [Article 41-0 A bis A](article-41-0-a-bis-a.md)
+- [Article 41-0 A bis B](article-41-0-a-bis-b.md)
