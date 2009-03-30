@@ -2,4 +2,3 @@
 
 - [Article R313-25](article-r313-25.md)
 - [Article R313-26](article-r313-26.md)
-- [Article R313-27](article-r313-27.md)

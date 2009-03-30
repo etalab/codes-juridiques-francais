@@ -6,4 +6,3 @@
 - [Section 4 : Retrait du marché.](section-4)
 - [Section 5 : Récolte en vert et non-récolte.](section-5)
 - [Section 6 : Contrôles.](section-6)
-- [Section 7 : Dispositions diverses.](section-7)
