@@ -1,6 +1,6 @@
 # Article R5134-66
 
-Les organismes mentionnés à l'article L. 262-30 du code de l'action sociale et des familles et à l'article L. 5427-1 du présent code transmettent, par voie informatique au CNASEA, les données nécessaires à l'identification des bénéficiaires de l'allocation de revenu minimum d'insertion, de l'allocation de parent isolé, de l'allocation aux adultes handicapés et de l'allocation de solidarité spécifique remplissant les conditions pour bénéficier d'un contrat d'avenir.
+Les organismes mentionnés à l'article L. 262-30 du code de l'action sociale et des familles et à l'article L. 5427-1 du présent code transmettent, par voie informatique à l''Agence de services et de paiement, les données nécessaires à l'identification des bénéficiaires de l'allocation de revenu minimum d'insertion, de l'allocation de parent isolé, de l'allocation aux adultes handicapés et de l'allocation de solidarité spécifique remplissant les conditions pour bénéficier d'un contrat d'avenir.
 
 Ces données concernent :
 

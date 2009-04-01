@@ -6,7 +6,7 @@ Seules peuvent être agréées les sociétés dont les statuts prévoient ou qui
 
 2° Les mesures de nature à assurer le respect des dispositions de l'article L. 141-7 relatif aux buts non lucratifs des sociétés ;
 
-3° La présence au sein du conseil d'administration de la société de représentants des catégories déterminées au 4° parmi lesquels des représentants des collectivités territoriales, dans les conditions fixées au deuxième alinéa de l'article L. 141-6, et d'un représentant du Centre national pour l'aménagement des structures des exploitations agricoles.
+3° La présence au sein du conseil d'administration de la société de représentants des catégories déterminées au 4° parmi lesquels des représentants des collectivités territoriales, dans les conditions fixées au deuxième alinéa de l'article L. 141-6, et d'un représentant de l'Agence de services et de paiement.
 
 La représentation des collectivités territoriales est assurée, le cas échéant, dans les mêmes conditions que celles prévues pour les sociétés d'économie mixte locales, par l'article 8 de la loi n° 83-597 du 7 juillet 1983 et son décret d'application n° 85-491 du 9 mai 1985.
 

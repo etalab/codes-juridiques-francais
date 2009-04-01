@@ -12,7 +12,7 @@ II.-L'instruction du dossier est assurée :
 
 a) Pour la création d'entreprises, dans les mêmes conditions que pour les aides prévues à l'article L. 325-1 et peut être examinée conjointement à celles-ci ;
 
-b) Pour la formation en mobilité, par le délégué de l'Agence nationale pour l'insertion et la promotion des travailleurs d'outre-mer ou par celui de l'     institution mentionnée à l'article L. 5312-1 du code du travail  ou par le responsable de l'organisme agréé à cet effet selon les modalités prévues au X du présent article.
+b) Pour la formation en mobilité, par le délégué de l'Agence nationale pour l'insertion et la promotion des travailleurs d'outre-mer ou par celui de l'institution mentionnée à l'article L. 5312-1 du code du travail ou par le responsable de l'organisme agréé à cet effet selon les modalités prévues au X du présent article.
 
 III.-Pour l'application des dispositions du a de l'article L. 324-9, est considéré comme remplissant la condition de direction effective de l'entreprise créée ou reprise le demandeur qui, sous sa propre responsabilité, assure la direction de l'entreprise et la représente dans ses rapports avec les tiers.
 
@@ -22,7 +22,7 @@ V.-L'aide à la formation en mobilité comprend une allocation mensuelle dans la
 
 L'allocation est versée dans la limite de vingt-quatre mensualités à compter du premier jour du mois où débute la formation jusqu'au premier jour du mois civil suivant celui où a pris fin la formation, ou, le cas échéant, sur justification de l'inscription sur la liste des demandeurs d'emploi, jusqu'au terme d'une période de deux mois à l'issue de la formation s'il est attesté d'une recherche effective d'emploi.
 
-VI.-La gestion des crédits et le versement de l'aide en capital ainsi que des mensualités pour la formation en mobilité sont confiés au Centre national pour l'aménagement des structures des exploitations agricoles, sous réserve des dispositions prévues au dernier alinéa du présent paragraphe. Lorsque la formation en mobilité se déroule à l'étranger, la gestion des crédits et le versement des aides précités peuvent être confiés à un organisme qui passe une convention à cet effet dans les conditions prévues au dernier alinéa du présent paragraphe.
+VI.-La gestion des crédits et le versement de l'aide en capital ainsi que des mensualités pour la formation en mobilité sont confiés à l'Agence de services et de paiement, sous réserve des dispositions prévues au dernier alinéa du présent paragraphe. Lorsque la formation en mobilité se déroule à l'étranger, la gestion des crédits et le versement des aides précités peuvent être confiés à un organisme qui passe une convention à cet effet dans les conditions prévues au dernier alinéa du présent paragraphe.
 
 La gestion de l'aide pour les frais liés à la formation est assurée par l'Agence nationale pour l'insertion et la promotion des travailleurs d'outre-mer ou un organisme agréé dans les conditions prévues par le X du présent article.
 

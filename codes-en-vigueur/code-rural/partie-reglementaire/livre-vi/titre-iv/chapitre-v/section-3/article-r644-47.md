@@ -2,7 +2,7 @@
 
 Les vins bénéficiant d'une appellation d'origine assortie de la dénomination " Vin délimité de qualité supérieure ” ne peuvent être commercialisés avant le 1er décembre suivant la récolte.
 
-A partir de cette date, ils sont commercialisés librement, sous réserve que les quantités labellisées pendant une campagne viticole ne dépassent pas pour un même récoltant le quantum à l'hectare fixé pour chaque appellation par arrêté conjoint des ministres chargés de l'économie, du budget et de l'agriculture, sauf dérogations individuelles accordées par le syndicat de défense de chaque appellation sous le contrôle de l'Institut national de l'origine et de la qualité et de l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture.
+A partir de cette date, ils sont commercialisés librement, sous réserve que les quantités labellisées pendant une campagne viticole ne dépassent pas pour un même récoltant le quantum à l'hectare fixé pour chaque appellation par arrêté conjoint des ministres chargés de l'économie, du budget et de l'agriculture, sauf dérogations individuelles accordées par le syndicat de défense de chaque appellation sous le contrôle de l'Institut national de l'origine et de la qualité et de l'               Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer).
 
 En aucun cas, les dérogations individuelles ne doivent avoir pour effet d'accorder le label, pour la récolte d'une année déterminée, à une quantité de vin supérieure à 80 hectolitres pour les vins blancs et rosés et 72 hectolitres pour les vins rouges par hectare de vigne en production.
 

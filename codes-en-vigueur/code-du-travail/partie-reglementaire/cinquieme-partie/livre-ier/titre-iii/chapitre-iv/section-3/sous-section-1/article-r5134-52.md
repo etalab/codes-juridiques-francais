@@ -4,4 +4,4 @@ En cas de non-respect des dispositions de la convention individuelle par l'emplo
 
 Celui-ci dispose d'un délai de sept jours pour faire connaître ses observations.
 
-En cas de dénonciation de la convention, l'autorité ou le délégataire signataire informe le CNASEA ainsi que l'organisme de recouvrement des cotisations et contributions sociales compétent.
+En cas de dénonciation de la convention, l'autorité ou le délégataire signataire informe l'Agence de services et de paiement ainsi que l'organisme de recouvrement des cotisations et contributions sociales compétent.

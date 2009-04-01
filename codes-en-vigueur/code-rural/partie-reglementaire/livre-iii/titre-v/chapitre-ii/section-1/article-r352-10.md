@@ -8,4 +8,4 @@ Sous la même réserve, à défaut de la convention mentionnée au second aliné
 
 1° Soit par l'intermédiaire d'une société d'aménagement foncier et d'établissement rural ou d'une société d'aménagement régional ;
 
-2° Soit avec le concours du Centre national pour l'aménagement des structures des exploitations agricoles ou de ses organismes départementaux.
+2° Soit avec le concours de l'Agence de services et de paiement ou de ses organismes départementaux.

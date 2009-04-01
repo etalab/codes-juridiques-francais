@@ -6,4 +6,4 @@ La date limite de dépôt des demandes est fixée par arrêté préfectoral, au 
 
 Dans le cadre de l'enveloppe budgétaire annuelle qui lui est allouée, le préfet de Mayotte accorde le bénéfice des indemnités et en arrête le montant.
 
-La liquidation et le paiement des indemnités sont assurés par le Centre national pour l'aménagement des structures des exploitations agricoles.
+La liquidation et le paiement des indemnités sont assurés par           l'Agence de services et de paiement.

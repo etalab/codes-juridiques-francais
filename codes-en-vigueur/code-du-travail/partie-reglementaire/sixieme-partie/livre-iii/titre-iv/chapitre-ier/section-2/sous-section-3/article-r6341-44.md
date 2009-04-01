@@ -6,4 +6,4 @@ La fraction de la rémunération à rembourser à l'employeur qui maintient le s
 
 2° Le président du conseil régional ;
 
-3° Le directeur du CNASEA, lorsqu'il s'agit de stages relevant du ministre de l'agriculture ou faisant l'objet d'une convention conclue au nom de l'Etat par ce ministre.
+3° Le directeur l'Agence de services et de paiement, lorsqu'il s'agit de stages relevant du ministre de l'agriculture ou faisant l'objet d'une convention conclue au nom de l'Etat par ce ministre.

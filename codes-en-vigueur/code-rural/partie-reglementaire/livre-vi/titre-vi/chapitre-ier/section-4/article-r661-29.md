@@ -8,6 +8,6 @@ Les dispositions de la présente section relatives à la commercialisation sur l
 
 2. Les matériels de multiplication de variétés inscrites aux catalogues des autres Etats membres de la Communauté européenne reçoivent également la certification correspondante ou sont classés en tant que matériels standard, dans les conditions prévues par la présente section.
 
-3. Le ministre chargé de l'agriculture précise par arrêté les mentions portées sur le document d'accompagnement des matériels de multiplication végétative de la vigne produits dans un pays tiers, ainsi que les conditions dans lesquelles une copie de ce document est fournie par l'importateur à l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture.
+3. Le ministre chargé de l'agriculture précise par arrêté les mentions portées sur le document d'accompagnement des matériels de multiplication végétative de la vigne produits dans un pays tiers, ainsi que les conditions dans lesquelles une copie de ce document est fournie par l'importateur à l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer).
 
 4. Les matériels de multiplication de la vigne commercialisés sur le territoire national doivent être conditionnés et étiquetés dans les conditions et selon les modalités fixées par arrêté du ministre chargé de l'agriculture.
