@@ -4,6 +4,6 @@ Les indemnités journalières, à l'exclusion de celle servie par application co
 
 A cet effet, le montant des indemnités journalières est notifié par les organismes concernés :
 
-1° Au préfet du département dans lequel est situé l'établissement de formation ou, le cas échéant, au Centre national pour l'aménagement des structures des exploitations agricoles (CNASEA), lorsque le stage a été agréé par l'Etat ;
+1° Au préfet du département dans lequel est situé l'établissement de formation ou, le cas échéant, à l'Agence de services et de paiement, lorsque le stage a été agréé par l'Etat ;
 
 2° Au président du conseil régional, lorsque le stage a été agréé par une région.

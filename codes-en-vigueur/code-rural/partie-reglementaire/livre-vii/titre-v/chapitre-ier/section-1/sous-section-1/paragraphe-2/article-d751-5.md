@@ -24,7 +24,7 @@ g) Fonds social de l'assurance maladie des exploitants agricoles, institué à l
 
 4° Action sociale pour l'aménagement des structures agricoles :
 
-a) Centre national pour l'amélioration des structures des exploitations agricoles ;
+a) Agence de services et de paiement ;
 
 b) Associations départementales pour l'amélioration des structures des exploitations agricoles ;
 

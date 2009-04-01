@@ -54,7 +54,7 @@ Le préfet arrête la décision d'octroi de l'aide à la transmission de l'explo
 
 f) Lors du dépôt de sa demande, le candidat à l'aide à la transmission de l'exploitation ne peut pas être bénéficiaire de la préretraite ou de la retraite agricole.
 
-g) L'aide à la transmission de l'exploitation est financée sur le fonds de financement des contrats territoriaux d'exploitation. La liquidation et le paiement de l'aide sont assurés par le CNASEA après l'installation effective du jeune repreneur.
+g) L'aide à la transmission de l'exploitation est financée sur le fonds de financement des contrats territoriaux d'exploitation. La liquidation et le paiement de l'aide sont assurés par l'Agence de services et de paiement après l'installation effective du jeune repreneur.
 
 Sauf cas de force majeure, lorsque le bénéficiaire de l'aide à la transmission de l'exploitation cesse au cours des cinq ans suivant le transfert de remplir les conditions mentionnées au b et que la cession des terres en faire-valoir direct ne répond plus au projet agréé par le préfet, celui-ci prononce la déchéance de l'aide. Le bénéficiaire est alors contraint de rembourser la somme perçue.
 
