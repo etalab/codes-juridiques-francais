@@ -7,5 +7,3 @@
 - [Sous-section 5 : Récolte en vert et non-récolte.](sous-section-5)
 - [Sous-section 6 : Contrôles.](sous-section-6)
 - [Sous-section 7 : Dispositions diverses.](sous-section-7)
-- [Article D664-1](article-d664-1.md)
-- [Article D664-2](article-d664-2.md)

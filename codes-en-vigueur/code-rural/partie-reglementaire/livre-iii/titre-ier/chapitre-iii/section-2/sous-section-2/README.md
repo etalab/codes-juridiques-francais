@@ -1,8 +1,5 @@
 # Sous-section 2 : Organisation et fonctionnement de l'agence.
 
-- [Paragraphe 1 : Conseil d'administration.](paragraphe-1)
-- [Paragraphe 2 : Directeur général.](paragraphe-2)
-- [Paragraphe 3 : Personnels.](paragraphe-3)
 - [Article R313-17](article-r313-17.md)
 - [Article R313-18](article-r313-18.md)
 - [Article R313-19](article-r313-19.md)

@@ -9,4 +9,3 @@
 - [Article R5134-70](article-r5134-70.md)
 - [Article R5134-71](article-r5134-71.md)
 - [Article R5134-72](article-r5134-72.md)
-- [Article R5134-73](article-r5134-73.md)

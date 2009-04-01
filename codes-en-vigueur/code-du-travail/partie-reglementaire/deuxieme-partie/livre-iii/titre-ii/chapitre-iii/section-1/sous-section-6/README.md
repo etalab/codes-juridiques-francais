@@ -1,5 +1,3 @@
 # Sous-section 6 : Bilan social.
 
 - [Article R2323-17](article-r2323-17.md)
-- [Article R2323-18](article-r2323-18.md)
-- [Article R2323-19](article-r2323-19.md)

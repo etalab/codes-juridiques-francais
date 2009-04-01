@@ -1,9 +1,5 @@
 # Section 2 : Organisation régionale.
 
-- [Sous-section 1 : L'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture](sous-section-1)
-- [Sous-section 2 : L'Office national interprofessionnel de l'élevage et de ses productions](sous-section-2)
-- [Sous-section 3 : L'Office national interprofessionnel des plantes à parfum, aromatiques et médicinales.](sous-section-3)
-- [Sous-section 4 : L'Office national interprofessionnel des produits de la mer et de l'aquaculture](sous-section-4)
 - [Article D621-31](article-d621-31.md)
 - [Article D621-32](article-d621-32.md)
 - [Article D621-33](article-d621-33.md)
@@ -15,4 +11,3 @@
 - [Article R621-28](article-r621-28.md)
 - [Article R621-29](article-r621-29.md)
 - [Article R621-30](article-r621-30.md)
-- [Article R621-44](article-r621-44.md)

@@ -7,7 +7,6 @@
 - [Article R313-29](article-r313-29.md)
 - [Article R313-30](article-r313-30.md)
 - [Article R313-31](article-r313-31.md)
-- [Article R313-32](article-r313-32.md)
 - [Article R313-33](article-r313-33.md)
 - [Article R313-34](article-r313-34.md)
 - [Article R313-35](article-r313-35.md)
