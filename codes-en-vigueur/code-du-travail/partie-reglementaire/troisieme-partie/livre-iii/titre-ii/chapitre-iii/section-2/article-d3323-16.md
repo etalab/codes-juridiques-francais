@@ -17,3 +17,5 @@ Cette fiche mentionne :
 6° Les cas dans lesquels ces droits peuvent être exceptionnellement liquidés ou transférés avant l'expiration de ce délai.
 
 Elle comporte également, en annexe, une note rappelant les règles de calcul et de répartition prévues par l'accord de participation.
+
+Avec l'accord du salarié concerné, la remise de cette fiche distincte peut être effectuée par voie électronique, dans des conditions de nature à garantir l'intégrité des données.

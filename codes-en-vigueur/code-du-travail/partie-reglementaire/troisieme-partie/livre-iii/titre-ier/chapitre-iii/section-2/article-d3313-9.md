@@ -13,3 +13,5 @@ Cette fiche mentionne :
 4° La retenue opérée au titre de la contribution sociale généralisée et de la contribution au remboursement de la dette sociale.
 
 Elle comporte également, en annexe, une note rappelant les règles essentielles de calcul et de répartition prévues par l'accord d'intéressement.
+
+Avec l'accord du salarié concerné, la remise de cette fiche distincte peut être effectuée par voie électronique, dans des conditions de nature à garantir l'intégrité des données.

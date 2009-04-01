@@ -5,5 +5,3 @@
 - [Article D3346-5](article-d3346-5.md)
 - [Article D3346-6](article-d3346-6.md)
 - [Article D3346-7](article-d3346-7.md)
-- [Article D3346-8](article-d3346-8.md)
-- [Article D3346-9](article-d3346-9.md)
