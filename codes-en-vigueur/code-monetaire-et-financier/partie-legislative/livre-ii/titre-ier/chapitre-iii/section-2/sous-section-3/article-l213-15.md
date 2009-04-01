@@ -2,8 +2,6 @@
 
 L'émission d'obligations par une association entraîne, pour celle-ci, l'application des articles L. 612-1 et L. 612-3 du code de commerce, quels que soient le nombre de ses salariés, le montant de son chiffre d'affaires ou de ses ressources ou le total de son bilan.
 
-Lorsqu'il est fait appel public à l'épargne par une association, les dispositions de l'article L. 612-2 du code de commerce lui sont applicables.
-
 L'émission entraîne également l'obligation pour l'association de réunir ses membres en assemblée générale au moins une fois par an dans les six mois de la clôture de l'exercice en vue notamment de l'approbation des comptes annuels qui sont publiés dans des conditions fixées par décret.
 
 Lorsque, du fait des résultats déficitaires cumulés constatés dans les documents comptables, les fonds propres ont diminué de plus de la moitié par rapport au montant atteint à la fin de l'exercice précédant celui de l'émission, l'assemblée générale doit être également réunie dans les quatre mois qui suivent l'approbation des comptes ayant fait apparaître ces résultats déficitaires, à l'effet de décider s'il y a lieu de continuer l'activité de l'association ou de procéder à sa dissolution.

@@ -1,4 +1,4 @@
-# Titre Ier : L'appel public à l'épargne
+# Titre Ier : Opérations
 
-- [Chapitre Ier : Définition.](chapitre-ier)
-- [Chapitre II : Conditions de l'appel public à l'épargne](chapitre-ii)
+- [Chapitre Ier : Définitions et champ d'application](chapitre-ier)
+- [Chapitre II : Dispositions générales](chapitre-ii)

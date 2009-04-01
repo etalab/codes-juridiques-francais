@@ -1,4 +1,4 @@
-# Sous-section 2 : De la constitution sans appel public à l'épargne.
+# Sous-section 2 : De la constitution sans offre au public.
 
 - [Article L225-12](article-l225-12.md)
 - [Article L225-13](article-l225-13.md)

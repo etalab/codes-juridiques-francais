@@ -1,6 +1,6 @@
 # Article L223-11
 
-Une société à responsabilité limitée, tenue en vertu de l'article L. 223-35 de désigner un commissaire aux comptes et dont les comptes des trois derniers exercices de douze mois ont été régulièrement approuvés par les associés, peut, sans faire appel public à l'épargne, émettre des obligations nominatives.
+Une société à responsabilité limitée, tenue en vertu de l'article L. 223-35 de désigner un commissaire aux comptes et dont les comptes des trois derniers exercices de douze mois ont été régulièrement approuvés par les associés, peut émettre des obligations nominatives à condition qu'elle ne procède pas à une offre au public de ces obligations.
 
 L'émission d'obligations est décidée par l'assemblée des associés conformément aux dispositions applicables aux assemblées générales d'actionnaires. Ces titres sont soumis aux dispositions applicables aux obligations émises par les sociétés par actions, à l'exclusion de celles prévues par les articles L. 228-39 à L. 228-43 et L. 228-51.
 

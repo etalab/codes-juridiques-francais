@@ -6,7 +6,9 @@
 
 Toutefois les rémunérations ne sont admises en déduction des résultats que dans la mesure où elles correspondent à un travail effectif et ne sont pas excessives eu égard à l'importance du service rendu. Cette disposition s'applique à toutes les rémunérations directes ou indirectes, y compris les indemnités, allocations, avantages en nature et remboursements de frais.
 
-1° bis Pour les exercices clos à compter du 31 décembre 1987 et sous réserve des dispositions du 9, l'indemnité de congé payé calculée dans les conditions prévues aux articles L. 3141-22 à L. 3141-25 du code du travail, y compris les charges sociales et fiscales afférentes à cette indemnité.
+1° bis Pour les exercices clos à compter du 31 décembre 1987 et sous réserve des dispositions du 9, l'indemnité de congé payé calculée dans les conditions prévues aux
+articles L. 3141-22 à L. 3141-25 du code du travail
+, y compris les charges sociales et fiscales afférentes à cette indemnité.
 
 Par exception aux dispositions du premier alinéa et sur option irrévocable de l'entreprise, cette indemnité ainsi que les charges sociales et fiscales y afférentes revêtent du point de vue fiscal le caractère d'un salaire de substitution qui constitue une charge normale de l'exercice au cours duquel le salarié prend le congé correspondant. Cette option ne peut pas être exercée par les entreprises créées après le 31 décembre 1986. Elle est exercée avant l'expiration du délai de dépôt de la déclaration des résultats du premier exercice clos à compter du 31 décembre 1987.
 
@@ -40,7 +42,7 @@ A compter du 1er janvier 1983, les produits des clauses d'indexation afférentes
 
 La rémunération mentionnée au 1° ter est retenue pour l'appréciation de la limitation prévue au premier alinéa.
 
-La limite prévue au premier alinéa n'est pas applicable aux intérêts afférents aux avances consenties par une société à une autre société lorsque la première possède, au regard de la seconde, la qualité de société-mère au sens de l'article 145 et que ces avances proviennent de sommes empruntées par appel public à l'épargne sur le marché obligataire, ou par émission de titres de créances mentionnés au 1° bis du III bis de l'article 125 A ; dans ce cas, les intérêts sont déductibles dans la limite des intérêts des ressources ainsi collectées par la société-mère pour le compte de sa ou de ses filiales. Ces dispositions sont applicables aux intérêts afférents aux ressources empruntées à compter du 1er janvier 1986. Elles cessent de s'appliquer pour la détermination des résultats imposables des exercices ouverts à compter du 1er janvier 1988.
+La limite prévue au premier alinéa n'est pas applicable aux intérêts afférents aux avances consenties par une société à une autre société lorsque la première possède, au regard de la seconde, la qualité de société-mère au sens de l'article 145 et que ces avances proviennent de sommes empruntées par offre au public sur le marché obligataire, ou par émission de titres de créances mentionnés au 1° bis du III bis de l'article 125 A ; dans ce cas, les intérêts sont déductibles dans la limite des intérêts des ressources ainsi collectées par la société-mère pour le compte de sa ou de ses filiales. Ces dispositions sont applicables aux intérêts afférents aux ressources empruntées à compter du 1er janvier 1986. Elles cessent de s'appliquer pour la détermination des résultats imposables des exercices ouverts à compter du 1er janvier 1988.
 
 Les conditions d'application de l'alinéa précédent, notamment les obligations déclaratives des sociétés mentionnées, sont fixées par décret ;
 
@@ -128,7 +130,8 @@ Les dotations aux provisions pour dépréciation comptabilisées au titre de l'e
 
 Le montant total des dotations aux provisions non admises en déduction au titre de l'exercice en application de l'alinéa précédent vient minorer le montant total des provisions pour dépréciation des immeubles de placement rapporté au résultat des exercices ultérieurs.
 
-6° La contribution sociale de solidarité mentionnée à l'article L. 651-1 du code de la sécurité sociale et la taxe d'aide au commerce et à l'artisanat issue de l'article 3 modifié de la loi n° 72-657 du 13 juillet 1972 instituant des mesures en faveur de certaines catégories de commerçants et artisans âgés. Le fait générateur de cette contribution ou de cette taxe est constitué par l'existence de l'entreprise débitrice au 1er janvier de l'année au titre de laquelle elle est due ;
+6° La contribution sociale de solidarité mentionnée à l'article L. 651-1 du code de la sécurité sociale et la taxe d'aide au commerce et à l'artisanat issue de l'article 3 modifié de la loi n° 72-657 du 13 juillet 1972
+instituant des mesures en faveur de certaines catégories de commerçants et artisans âgés. Le fait générateur de cette contribution ou de cette taxe est constitué par l'existence de l'entreprise débitrice au 1er janvier de l'année au titre de laquelle elle est due ;
 
 7° Les dépenses engagées dans le cadre de manifestations de caractère philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial, culturel ou concourant à la mise en valeur du patrimoine artistique, à la défense de l'environnement naturel ou à la diffusion de la culture, de la langue et des connaissances scientifiques françaises, lorsqu'elles sont exposées dans l'intérêt direct de l'exploitation ;
 
@@ -136,8 +139,7 @@ Le montant total des dotations aux provisions non admises en déduction au titre
 
 2. Les sanctions pécuniaires et pénalités de toute nature mises à la charge des contrevenants à des obligations légales ne sont pas admises en déduction des bénéfices soumis à l'impôt.
 
-Il en est de même du versement libératoire prévu au IV de l'article 14 de la loi n° 2005-781 du 13 juillet 2005
-de programme fixant les orientations de la politique énergétique.
+Il en est de même du versement libératoire prévu au IV de l'article 14 de la loi n° 2005-781 du 13 juillet 2005 de programme fixant les orientations de la politique énergétique.
 
 2 bis.A compter de l'entrée en vigueur sur le territoire de la République de la convention sur la lutte contre la corruption d'agents publics étrangers dans les transactions commerciales internationales, les sommes versées ou les avantages octroyés, directement ou par des intermédiaires, au profit d'un agent public au sens du 4 de l'article 1er de ladite convention ou d'un tiers pour que cet agent agisse ou s'abstienne d'agir dans l'exécution de fonctions officielles, en vue d'obtenir ou conserver un marché ou un autre avantage indu dans des transactions commerciales internationales, ne sont pas admis en déduction des bénéfices soumis à l'impôt.
 
@@ -157,9 +159,7 @@ c) Aux dépenses de toute nature résultant de l'achat, de la location ou de tou
 
 La fraction de l'amortissement des véhicules de tourisme exclue des charges déductibles par les limitations ci-dessus est néanmoins retenue pour la détermination des plus-values ou moins-values résultant de la vente ultérieure des véhicules ainsi amortis.
 
-Les dispositions du premier alinéa ne sont pas applicables aux charges exposées pour les besoins de l'exploitation et résultant de l'achat, de la location ou de l'entretien des demeures historiques classées, inscrites à l'inventaire supplémentaire des monuments historiques ou agréésou des résidences servant d'adresse ou de siège de l'entreprise en application des
-articles L. 123-10 et L. 123-11-1 du code de commerce
-, ou des résidences faisant partie intégrante d'un établissement de production et servant à l'accueil de la clientèle. (1)
+Les dispositions du premier alinéa ne sont pas applicables aux charges exposées pour les besoins de l'exploitation et résultant de l'achat, de la location ou de l'entretien des demeures historiques classées, inscrites à l'inventaire supplémentaire des monuments historiques ou agréésou des résidences servant d'adresse ou de siège de l'entreprise en application des articles L. 123-10 et L. 123-11-1 du code de commerce, ou des résidences faisant partie intégrante d'un établissement de production et servant à l'accueil de la clientèle. (1)
 
 5. Sont également déductibles les dépenses suivantes :
 
@@ -187,8 +187,7 @@ Lorsqu'elles augmentent dans une proportion supérieure à celle des bénéfices
 
 7. Les dépenses exposées pour la tenue de la comptabilité et, éventuellement, pour l'adhésion à un centre de gestion agréé ne sont pas prises en compte pour la détermination du résultat imposable lorsqu'elles sont supportées par l'Etat du fait de la réduction d'impôt mentionnée à l'article 199 quater B.
 
-8. Si un fonds de commerce, un fonds artisanal ou l'un de leurs éléments incorporels non amortissables ou des parts sociales ou des actions de sociétés commerciales non négociables sur un marché réglementé sont loués dans les conditions prévues au 3 ou au 4 de l'article L. 313-7 du code monétaire et financier
-, la quote-part de loyers prise en compte pour la fixation du prix de vente convenu pour l'acceptation de la promesse unilatérale de vente n'est pas déductible pour l'assiette de l'impôt sur les bénéfices dû par le locataire. Elle doit être indiquée distinctement dans le contrat de crédit-bail.
+8. Si un fonds de commerce, un fonds artisanal ou l'un de leurs éléments incorporels non amortissables ou des parts sociales ou des actions de sociétés commerciales non négociables sur un marché réglementé sont loués dans les conditions prévues au 3 ou au 4 de l'article L. 313-7 du code monétaire et financier, la quote-part de loyers prise en compte pour la fixation du prix de vente convenu pour l'acceptation de la promesse unilatérale de vente n'est pas déductible pour l'assiette de l'impôt sur les bénéfices dû par le locataire. Elle doit être indiquée distinctement dans le contrat de crédit-bail.
 
 Un décret fixe les modalités d'application de ces dispositions, notamment les obligations déclaratives.
 
