@@ -1,6 +1,6 @@
 # Article R3324-22
 
-Les cas dans lesquels, en application de l'article L. 3324-10, les droits constitués au profit des salariés peuvent être, sur leur demande, exceptionnellement liquidés avant l'expiration des délais fixés au premier alinéa de ce même article et au deuxième alinéa de l'article L. 3323-5 sont les suivants :
+Dans le cas où le bénéficiaire n'a pas opté pour la disponibilité immédiate, les cas dans lesquels, en application de l'article L. 3324-10, les droits constitués au profit des bénéficiaires peuvent être exceptionnellement liquidés avant l'expiration des délais fixés au premier alinéa de cet article et au deuxième alinéa de l'article L. 3323-5 sont les suivants :
 
 1° Le mariage ou la conclusion d'un pacte civil de solidarité par l'intéressé ;
 
@@ -12,7 +12,7 @@ Les cas dans lesquels, en application de l'article L. 3324-10, les droits consti
 
 5° Le décès de l'intéressé, de son conjoint ou de son partenaire lié par un pacte civil de solidarité ;
 
-6° La rupture du contrat de travail ;
+6° La rupture du contrat de travail, la cessation de son activité par l'entrepreneur individuel, la fin du mandat social, la perte du statut de conjoint collaborateur ou de conjoint associé ;
 
 7° L'affectation des sommes épargnées à la création ou reprise, par l'intéressé, ses enfants, son conjoint ou son partenaire lié par un pacte civil de solidarité, d'une entreprise industrielle, commerciale, artisanale ou agricole, soit à titre individuel, soit sous la forme d'une société, à condition d'en exercer effectivement le contrôle au sens de l'article R. 5141-2, à l'installation en vue de l'exercice d'une autre profession non salariée ou à l'acquisition de parts sociales d'une société coopérative de production ;
 
