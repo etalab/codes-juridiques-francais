@@ -6,7 +6,7 @@ Pour les travaux et projets d'aménagements définis au présent article, la dis
 
 2° Travaux d'installations de remontées mécaniques et travaux d'aménagement de pistes pour la pratique de sports d'hiver, lorsque leur coût total est inférieur à 950 000 euros ;
 
-3° Travaux d'installation des ouvrages de transport et de distribution d'électricité de tension inférieure à 63 kV, à l'exclusion des travaux souterrains ;
+3° Travaux d'installation des ouvrages aériens de transport et de distribution d'électricité de tension inférieure à 63 kV. Constructions et travaux d'installation ou de modernisation concernant les liaisons souterraines de tension supérieure ou égale à 63 kV et inférieure à 225 kV. Constructions et travaux d'installation ou de modernisation concernant les liaisons souterraines de tension égale à 225 kV et d'une longueur inférieure ou égale à 15 km ;
 
 4° Autorisations relatives aux ouvrages utilisant l'énergie hydraulique dont la puissance maximale brute totale est inférieure ou égale à 500 kW, à l'exception des demandes de changement de titulaire, des changements de destination de l'énergie ou des avenants ne modifiant pas la consistance ou le mode de fonctionnement des ouvrages ;
 

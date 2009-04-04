@@ -1,12 +1,12 @@
 # Article R122-8
 
-I. - Ne sont pas soumis à la procédure de l'étude d'impact, sous réserve des dispositions de l'article R. 122-9, les aménagements, ouvrages et travaux dont le coût total est inférieur à 1 900 000 euros. En cas de réalisation fractionnée, le montant à retenir est celui du programme général de travaux.
+I.-Ne sont pas soumis à la procédure de l'étude d'impact, sous réserve des dispositions de l'article R. 122-9, les aménagements, ouvrages et travaux dont le coût total est inférieur à 1 900 000 euros. En cas de réalisation fractionnée, le montant à retenir est celui du programme général de travaux.
 
-II. - Toutefois, la procédure de l'étude d'impact est applicable quel que soit le coût de leur réalisation, aux aménagements, ouvrages et travaux définis ci-après :
+II.-Toutefois, la procédure de l'étude d'impact est applicable quel que soit le coût de leur réalisation, aux aménagements, ouvrages et travaux définis ci-après :
 
 1° Opérations d'aménagements fonciers agricoles et forestiers visées au 1° de l'article L. 121-1 du code rural, y compris leurs travaux connexes ;
 
-2° Travaux d'installation ou de modernisation des ouvrages de transport et de distribution d'électricité de tension supérieure ou égale à 63 kV ;
+2° Travaux d'installation ou de modernisation des lignes aériennes de transport et de distribution d'électricité de tension supérieure ou égale à 63 kV. Constructions et travaux d'installation ou de modernisation concernant les liaisons souterraines de tension égale à 225 kV et d'une longueur supérieure à 15 km. Constructions et travaux d'installation ou de modernisation concernant les liaisons souterraines de tension supérieure à 225 kV. Travaux d'installation ou de modernisation des postes de transformation dont la tension maximale de transformation est supérieure ou égale à 63 kV ;
 
 3° Autorisations relatives aux ouvrages utilisant l'énergie hydraulique dont la puissance maximale brute totale est supérieure à 500 kW, à l'exception des demandes de changement de titulaire, des changements de destination de l'énergie ou des avenants ne modifiant pas la consistance ou le mode de fonctionnement des ouvrages ;
 
@@ -18,7 +18,7 @@ II. - Toutefois, la procédure de l'étude d'impact est applicable quel que soit
 
 b) Travaux nécessitant une autorisation de création ou une autorisation de courte durée ou une autorisation de mise à l'arrêt définitif et de démantèlement ou une autorisation de mise à l'arrêt définitif et de passage en phase de surveillance, en application de l'article 29 de la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire ;
 
-7° Réservoirs de stockage d'eau "sur tour" d'une capacité égale ou supérieure à 1 000 m3 et autres réservoirs de stockage d'eau d'une superficie égale ou supérieure à 10 ha ;
+7° Réservoirs de stockage d'eau " sur tour " d'une capacité égale ou supérieure à 1 000 m3 et autres réservoirs de stockage d'eau d'une superficie égale ou supérieure à 10 ha ;
 
 8° Aménagement de terrains de camping ou de stationnement de caravanes comportant 200 emplacements ou plus ;
 
