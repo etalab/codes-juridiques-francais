@@ -16,7 +16,7 @@ a) Un psychiatre ;
 
 b) Des rééducateurs divers.
 
-L'établissement s'assure le concours d'un ou plusieurs audioprothésistes chargés de la surveillance technique de l'adaptation prothétique.
+L'établissement s'assure le concours d'un ou plusieurs audioprothésistes chargés de la surveillance technique de l'adaptation prothétique. Sous la responsabilité de l'un des médecins attachés à l'établissement, l'équipe médicale et paramédicale met en œuvre les composantes thérapeutique et rééducative du projet individualisé d'accompagnement de l'enfant ou de l'adolescent.
 
 Le pédiatre assure la surveillance générale de l'établissement en ce qui concerne l'hygiène des locaux, l'alimentation, la discipline de vie des enfants et, en liaison avec les autres médecins, la surveillance de la santé des enfants et adolescents, en coordination avec le médecin habituel de l'enfant.
 

@@ -1,8 +1,8 @@
 # Article D312-89
 
-L'un des deux médecins mentionnés aux 1° et 2° de l'article D. 312-88 :
+Sous la responsabilité de l'un des médecins mentionnés aux 1° et 2° de l'article D. 312-88, l'équipe médicale et paramédicale :
 
-1° Veille à la mise en oeuvre et à l'adaptation du projet thérapeutique et rééducatif des enfants ou adolescents ;
+1° Met en œuvre les composantes thérapeutique et rééducative du projet individualisé d'accompagnement de l'enfant ou de l'adolescent ;
 
 2° Assure, en liaison avec les autres médecins attachés à l'établissement, la surveillance de la santé des enfants ou adolescents en coordination avec les médecins habituels de la famille ;
 

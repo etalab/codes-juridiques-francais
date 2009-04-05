@@ -1,6 +1,6 @@
 # Article D312-40
 
-Dans le cadre du projet pédagogique, éducatif et thérapeutique, les enfants ou adolescents demeurent sous le contrôle du personnel de l'établissement.
+Dans le cadre du projet individualisé d'accompagnement, les enfants ou adolescents demeurent sous le contrôle du personnel de l'établissement ou du service.
 
 Un registre des présences est tenu quotidiennement sous la responsabilité du directeur.
 

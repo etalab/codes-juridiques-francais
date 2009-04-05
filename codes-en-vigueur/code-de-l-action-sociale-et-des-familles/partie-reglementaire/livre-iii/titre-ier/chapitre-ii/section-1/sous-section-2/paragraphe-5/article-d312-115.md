@@ -1,6 +1,6 @@
 # Article D312-115
 
-L'établissement doit s'assurer le concours d'une équipe médicale, paramédicale et psycho-sociale travaillant en liaison avec les enseignants et les éducateurs et comprenant au moins :
+L'établissement  s'assure le concours d'une équipe médicale, paramédicale et psycho-sociale travaillant en liaison avec les enseignants et les éducateurs et comprenant au moins :
 
 1° Un pédiatre ;
 
@@ -10,7 +10,11 @@ L'établissement doit s'assurer le concours d'une équipe médicale, paramédica
 
 4° Un psychologue ;
 
-5° Un assistant de service social.
+5° Un assistant de travail social ;
+
+6° Et, en fonction des besoins de l'établissement, un psychiatre et un neurologue.
+
+Sous la responsabilité de l'un des médecins attachés à l'établissement, l'équipe médicale et paramédicale met en œuvre les composantes thérapeutique et rééducative du projet individualisé d'accompagnement de l'enfant ou de l'adolescent.
 
 Le pédiatre assure la surveillance générale de l'établissement en ce qui concerne l'hygiène des locaux, l'alimentation, la discipline de vie des enfants et, en liaison avec les autres médecins, la surveillance de la santé des enfants et adolescents, en coordination avec le médecin habituel de l'enfant.
 

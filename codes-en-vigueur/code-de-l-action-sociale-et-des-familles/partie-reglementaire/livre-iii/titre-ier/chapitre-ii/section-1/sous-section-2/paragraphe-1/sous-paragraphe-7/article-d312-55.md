@@ -4,9 +4,9 @@ Un service d'éducation spéciale et de soins à domicile peut être rattaché �
 
 Son action est orientée, selon les âges, vers :
 
-1° La prise en charge précoce pour les enfants de la naissance à six ans comportant le conseil et l'accompagnement des familles et de l'entourage familier de l'enfant, l'approfondissement du diagnostic, l'aide au développement psychomoteur initial de l'enfant et la préparation des orientations collectives ultérieures ;
+1°  L'accompagnement précoce pour les enfants de la naissance à six ans comportant le conseil et l'accompagnement des familles et de l'entourage familier de l'enfant, l'approfondissement du diagnostic, l'aide au développement psychomoteur initial de l'enfant et la préparation des orientations collectives ultérieures ;
 
-2° Le soutien à l'intégration scolaire ou à l'acquisition de l'autonomie comportant l'ensemble des moyens médicaux, paramédicaux, psycho-sociaux, éducatifs et pédagogiques adaptés.
+2° Le soutien à la scolarisation ou à l'acquisition de l'autonomie comportant l'ensemble des moyens médicaux, paramédicaux, psycho-sociaux, éducatifs et pédagogiques adaptés.
 
 Les interventions s'accomplissent dans les différents lieux de vie et d'activité de l'enfant ou adolescent, domicile, crèche, école, et dans les locaux du service.
 

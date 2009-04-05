@@ -6,6 +6,6 @@ Les couloirs utilisés par les enfants ou adolescents sont les plus spacieux pos
 
 Les murs sont protégés par des pare-chocs et des revêtements adaptés et sont munis de mains courantes.
 
-Des installations de soulève-malades, fixes ou mobiles, sont prévues dans les locaux de rééducation, dans certains sanitaires et dans l'infirmerie.
+Des installations de lève-personne, fixes ou mobiles, sont prévues dans les locaux de rééducation, dans certains sanitaires et dans l'infirmerie.
 
 L'établissement dispose d'un matériel d'oxygénothérapie ; le personnel soignant reçoit la formation nécessaire à son utilisation, en cas d'urgence, sous la responsabilité d'un médecin de l'établissement, et dans l'attente des services spécialisés.

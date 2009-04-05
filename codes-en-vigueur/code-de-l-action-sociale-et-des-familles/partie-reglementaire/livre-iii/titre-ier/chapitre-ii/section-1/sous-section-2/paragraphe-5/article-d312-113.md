@@ -1,11 +1,19 @@
 # Article D312-113
 
-L'établissement peut comprendre les sections suivantes :
+L'établissement ou le service peut comporter une unité d'enseignement, créée par convention conformément aux dispositions du troisième alinéa de l'article D. 312-10-6.L'unité d'enseignement a pour mission de dispenser :
 
-1° Une section d'éducation et d'enseignement spécialisés prenant en charge l'enfant dans sa globalité et qui assure, en liaison avec la famille, une éducation et un enseignement adaptés à des enfants qui ne peuvent momentanément ou durablement être pris en charge par le service d'aide à l'acquisition de l'autonomie et à l'intégration scolaire défini à l'article D. 312-117 ;
+1° Un enseignement général permettant d'assurer les apprentissages scolaires et le développement de l'autonomie et de la socialisation ;
 
-2° Une section d'éducation pour les jeunes déficients visuels avec handicaps associés importants, tels les troubles de la personnalité et du comportement, les déficiences intellectuelle, déficience motrice, déficience auditive ou autres, et qui intègre des actions thérapeutiques, éducatives et pédagogiques particulières en fonction des handicaps considérés, éventuellement en liaison avec d'autres services ou établissements spécialisés si nécessaire ;
+2° Un enseignement professionnel intégrant l'initiation et la première formation professionnelle pour les adolescents déficients visuels.
 
-3° Une section de première formation professionnelle théorique et pratique des adolescents déficients visuels, suivant les programmes de l'enseignement technique, selon une progressions au besoin adaptée, en particulier pour les enseignements technologiques.
+L'unité d'enseignement recourt à des méthodes pédagogiques adaptées et fait appel à des services de transcription et d'adaptation documentaires.
 
-Pour une part de son action, la section mentionnée au 1° peut faire appel à la collaboration d'établissements scolaires ou d'autres organismes en passant avec eux une convention portée à la connaissance de l'autorité de contrôle.
+Les objectifs, les contenus, les certifications de la première formation professionnelle se réfèrent aux programmes scolaires en vigueur.
+
+Pour orienter chaque élève vers l'activité qu'il est le mieux à même d'exercer, compte tenu de ses aptitudes propres, l'établissement ou le service s'assure le concours de services d'orientation. Cette première formation professionnelle est réalisée en liaison étroite avec le milieu professionnel.
+
+L'établissement ou le service peut être organisé en sections notamment pour l'accueil des jeunes déficients visuels présentant des handicaps associés importants, tels que des troubles de la personnalité et du comportement, des déficiences intellectuelles, motrices, auditives ou autres. Les locaux et les équipements doivent être aménagés en conséquence.
+
+Dans le cadre de l'enseignement professionnel, l'établissement ou le service peut également faire appel à des éducateurs techniques spécialisés.
+
+Des actions thérapeutiques et éducatives particulières définies individuellement en fonction des besoins propres à chaque enfant ou adolescent sont réalisées conformément au projet individualisé d'accompagnement. Ces actions sont mises en œuvre, en tant que de besoin, en liaison avec d'autres services ou établissements spécialisés, selon les modalités de convention prévues à l'article D. 312-10-12.

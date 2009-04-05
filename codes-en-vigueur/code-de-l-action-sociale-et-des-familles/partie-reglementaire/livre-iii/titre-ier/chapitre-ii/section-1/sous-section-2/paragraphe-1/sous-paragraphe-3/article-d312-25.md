@@ -1,10 +1,12 @@
 # Article D312-25
 
-L'établissement s'assure le concours d'une équipe pédagogique et éducative comprenant, selon l'âge et les besoins des enfants :
+L'établissement s'assure le concours d'une équipe pédagogique et éducative comprenant selon l'âge et les besoins des enfants :
 
-1° Des enseignants assurant la formation scolaire et professionnelle des enfants ou adolescents par des actions pédagogiques adaptées et dont la rémunération est prise en charge par l'Etat en application de l'article L. 351-1 du code de l'éducation ;
+1° Des enseignants mentionnés dans l'arrêté prévu à l'article D. 351-20 du code de l'éducation dont la rémunération est prise en charge par l'Etat en application de l'article L. 351-1 du même code ;
 
 2° Des éducateurs assurant des actions orientées vers le développement de la personnalité et la socialisation des enfants et adolescents.
+
+Dans le cadre de l'enseignement professionnel, l'établissement ou le service peut également faire appel à des éducateurs techniques.
 
 Les enseignants mentionnés au deuxième alinéa sont recrutés dans les catégories suivantes :
 

@@ -4,6 +4,6 @@ Lorsque le service d'éducation spéciale et de soins à domicile est autonome, 
 
 L'un des deux médecins mentionnés à l'article D. 312-66 assure :
 
-- l'application du projet thérapeutique et de rééducation des enfants ou adolescents ;
+-l'application du projet individualisé d'accompagnement des enfants ou adolescents ;
 
-- en liaison avec le médecin de famille et au besoin avec les services hospitaliers, la surveillance de la santé des enfants ou adolescents.
+-en liaison avec le médecin de famille et au besoin avec les services hospitaliers, la surveillance de la santé des enfants ou adolescents.

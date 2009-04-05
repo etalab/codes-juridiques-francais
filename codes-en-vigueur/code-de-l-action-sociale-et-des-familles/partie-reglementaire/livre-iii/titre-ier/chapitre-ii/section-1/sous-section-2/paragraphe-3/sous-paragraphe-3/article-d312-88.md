@@ -2,7 +2,7 @@
 
 L'établissement s'assure le concours d'une équipe médicale, paramédicale, psycho-sociale et éducative comprenant au moins :
 
-1° Un médecin de rééducation et réadaptation fonctionnelles ;
+1° Un médecin de médecine physique et de rééducation fonctionnelle ;
 
 2° Un pédiatre ;
 
@@ -24,7 +24,7 @@ f) Infirmier, auxiliaire de puériculture, aide soignant ;
 
 g) Éducateur spécialisé, moniteur éducateur, éducateur de jeunes enfants et éducateur technique spécialisé ;
 
-h) Éventuellement, professeur des écoles spécialisé ;
+h) Un enseignant mentionné dans l'arrêté prévu à l'article D. 351-20 du code de l'éducation ;
 
 i) Aide médico-psychologique ;
 
@@ -48,6 +48,6 @@ Le concours demandé à ces médecins spécialistes permet l'examen complet de t
 
 Des accords sont passés avec un oto-rhino-laryngologiste et un dentiste ou un stomatologiste afin qu'ils puissent prodiguer leurs soins aux enfants accueillis dans l'établissement.
 
-Des conventions peuvent être passées pour certaines des prestations nécessaires avec des établissements hospitaliers, le secteur de psychiatrie infanto-juvénile, des services de dépistage et de diagnostic, des centres d'action médico-sociale précoce, des centres médico-psychopédagogiques, d'autres établissements ou services d'éducation spéciale ou des intervenants spécialisés proches du domicile des parents.
+Des conventions peuvent être passées avec des établissements de santé, pour l'une de leurs activités de psychiatrie infanto-juvénile, des centres d'action médico-sociale précoce, des centres médico-psychopédagogiques, des centres de ressources, d'autres établissements ou services d'éducation adaptée ou des intervenants spécialisés proches du domicile des parents.
 
 En particulier, une convention est passée avec un établissement de santé possédant un service de réanimation susceptible d'intervenir dans des délais rapprochés.

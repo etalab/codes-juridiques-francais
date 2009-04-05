@@ -1,9 +1,7 @@
 # Article D312-63
 
-La famille doit être associée à l'élaboration du projet individuel pédagogique, éducatif et thérapeutique, à sa mise en oeuvre, à son suivi régulier et à son évaluation.
+La famille est associée à l'élaboration du projet individualisé d'accompagnement, à sa mise en œuvre, à son suivi régulier et à son évaluation.
 
-L'équipe médico-psycho-pédagogique de l'établissement ou du service fait parvenir à la famille, au moins tous les trois mois, des informations détaillées sur l'évolution de l'enfant ou de l'adolescent.
+L'équipe médico-psychopédagogique de l'établissement ou du service fait parvenir à la famille, au moins tous les trimestres, des informations détaillées sur l'évolution de l'enfant ou de l'adolescent et chaque année un bilan pluridisciplinaire complet de la situation du jeune.
 
-Chaque année, les parents sont destinataires d'un bilan pluridisciplinaire complet de la situation de l'enfant ou de l'adolescent.
-
-Les parents sont saisis de tout fait ou décision relevant de l'autorité parentale.
+Au moins une fois par an, les parents sont invités à rencontrer les professionnels de l'établissement. Ils sont également saisis de tout fait ou décision relevant de l'autorité parentale.

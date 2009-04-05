@@ -1,5 +1,7 @@
 # Article D312-121
 
-La famille doit être associée à l'élaboration du projet individuel thérapeutique, pédagogique et éducatif et à sa mise en oeuvre.
+La famille est associée à l'élaboration du projet individualisé d'accompagnement, à sa mise en œuvre, à son suivi régulier et à son évaluation.
 
-L'équipe médico-psycho-pédagogique de l'établissement ou service fait parvenir aux familles, au moins tous les trois mois, des informations détaillées sur l'évolution de l'enfant.
+L'équipe médico-psychopédagogique de l'établissement ou du service fait parvenir à la famille, au moins tous les trimestres, des informations détaillées sur l'évolution de l'enfant ou de l'adolescent et chaque année un bilan pluridisciplinaire complet de sa situation.
+
+Au moins une fois par an, les parents sont invités à rencontrer les professionnels de l'établissement. Ils sont également saisis de tout fait ou décision relevant de l'autorité parentale.

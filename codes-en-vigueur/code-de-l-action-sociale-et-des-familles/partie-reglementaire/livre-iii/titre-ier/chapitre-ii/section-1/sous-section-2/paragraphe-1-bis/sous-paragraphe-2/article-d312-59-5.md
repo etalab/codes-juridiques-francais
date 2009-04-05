@@ -1,8 +1,8 @@
 # Article D312-59-5
 
-I. - Chaque projet personnalisé d'accompagnement mentionné au 2° du II de l'article D. 312-59-2 :
+I.-Chaque projet personnalisé d'accompagnement mentionné au 2° du II de l'article D. 312-59-2 :
 
-1° Tient compte de la situation singulière des personnes mentionnées à l'article D. 312-59-1 et de leurs parents ;
+1° Tient compte de la situation singulière des personnes mentionnées à l'article D. 312-59-1 et de leurs parents ou des détenteurs de l'autorité parentale ;
 
 2° Comporte une composante thérapeutique, éducative et pédagogique ;
 
@@ -14,4 +14,4 @@ I. - Chaque projet personnalisé d'accompagnement mentionné au 2° du II de l'a
 
 6° Organise la mise en oeuvre des transferts de l'établissement dans les conditions prévues à l'article D. 312-17.
 
-II. - Les principales caractéristiques du projet personnalisé d'accompagnement sont retracées, selon les cas, dans le contrat de séjour ou dans le document individuel de prise en charge visés à l'article L. 311-4.
+II.-Les principales caractéristiques du projet personnalisé d'accompagnement sont retracées, selon les cas, dans le contrat de séjour ou dans le document individuel de prise en charge visés à l'article L. 311-4.

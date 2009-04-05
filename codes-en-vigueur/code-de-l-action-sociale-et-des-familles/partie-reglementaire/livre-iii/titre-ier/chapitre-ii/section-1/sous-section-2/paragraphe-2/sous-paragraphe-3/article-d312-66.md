@@ -4,7 +4,7 @@ L'établissement s'assure les services d'une équipe médicale, paramédicale et
 
 1° Un médecin spécialiste de rééducation et réadaptation fonctionnelles, à raison d'au moins une vacation de quatre heures par semaine pour vingt-quatre enfants accueillis ;
 
-2° Un pédiatre, pour tout établissement prenant en charge des enfants.
+2° Un pédiatre.
 
 L'équipe comprend également des membres des professions suivantes :
 

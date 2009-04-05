@@ -1,6 +1,7 @@
 # Sous-section 2 : Conditions techniques minimales d'organisation et de fonctionnement des établissements
 
 - [Paragraphe 9-1 : Les unités d'évaluation, de réentraînement et d'orientation sociale et socioprofessionnelle pour personnes cérébro-lésées.](paragraphe-9-1)
+- [Paragraphe préliminaire : Coopération entre les établissements et services accueillant des enfants et adolescents handicapés et les établissements d'enseignement scolaire](paragraphe-preliminaire)
 - [Paragraphe 1 : Etablissements accueillant des enfants ou adolescents présentant des déficiences intellectuelles](paragraphe-1)
 - [Paragraphe 1 bis : Les instituts thérapeutiques, éducatifs et pédagogiques](paragraphe-1-bis)
 - [Paragraphe 2 : Etablissements et services prenant en charge des enfants ou adolescents présentant une déficience motrice](paragraphe-2)

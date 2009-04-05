@@ -1,3 +1,3 @@
 # Article D312-60
 
-Les établissements et les services qui prennent en charge des enfants ou adolescents dont la déficience motrice nécessite le recours à des moyens spécifiques pour le suivi médical, l'éducation spécialisée, la formation générale et professionnelle, afin de réaliser leur intégration familiale, sociale et professionnelle sont régis par les dispositions du présent paragraphe.
+Les dispositions du présent paragraphe sont applicables aux établissements et services qui accueillent et accompagnent des enfants ou des adolescents présentant une déficience motrice, conformément à leur plan personnalisé de compensation comprenant le projet personnalisé de scolarisation et prenant en compte le recours à des moyens spécifiques pour le suivi médical, la scolarisation, la formation générale et professionnelle, afin de réaliser leur intégration familiale, sociale et professionnelle.

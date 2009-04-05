@@ -1,0 +1,18 @@
+# Paragraphe préliminaire : Coopération entre les établissements et services accueillant des enfants et adolescents handicapés et les établissements d'enseignement scolaire
+
+- [Article D312-10-1](article-d312-10-1.md)
+- [Article D312-10-2](article-d312-10-2.md)
+- [Article D312-10-3](article-d312-10-3.md)
+- [Article D312-10-4](article-d312-10-4.md)
+- [Article D312-10-5](article-d312-10-5.md)
+- [Article D312-10-6](article-d312-10-6.md)
+- [Article D312-10-7](article-d312-10-7.md)
+- [Article D312-10-8](article-d312-10-8.md)
+- [Article D312-10-9](article-d312-10-9.md)
+- [Article D312-10-10](article-d312-10-10.md)
+- [Article D312-10-11](article-d312-10-11.md)
+- [Article D312-10-12](article-d312-10-12.md)
+- [Article D312-10-13](article-d312-10-13.md)
+- [Article D312-10-14](article-d312-10-14.md)
+- [Article D312-10-15](article-d312-10-15.md)
+- [Article D312-10-16](article-d312-10-16.md)

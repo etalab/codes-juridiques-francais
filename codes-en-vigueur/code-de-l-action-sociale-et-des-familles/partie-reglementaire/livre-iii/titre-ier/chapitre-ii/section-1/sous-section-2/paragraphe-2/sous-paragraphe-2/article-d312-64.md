@@ -1,19 +1,19 @@
 # Article D312-64
 
-L'établissement peut comporter :
+L'établissement ou le service peut comporter une unité d'enseignement, créée par convention conformément aux dispositions du troisième alinéa de l'article D. 312-10-6. L'unité d'enseignement a pour mission de dispenser :
 
-1° Une section d'éducation et d'enseignement spécialisés ;
+1° Un enseignement général permettant d'assurer les apprentissages scolaires et le développement de l'autonomie et de la socialisation ;
 
-2° Une section d'initiation et de première formation professionnelle ;
+2° Un enseignement professionnel intégrant l'initiation et la première formation professionnelle pour les jeunes déficients moteurs.
 
-3° Une section d'éducation pour les jeunes déficients moteurs avec handicaps associés, tels que déficience visuelle, déficience auditive, déficience intellectuelle légère ou moyenne, troubles du comportement ;
+L'unité d'enseignement recourt à des méthodes pédagogiques adaptées. Les objectifs, les contenus, les certifications de la première formation professionnelle se réfèrent aux programmes scolaires en vigueur.
 
-4° Une section de préparation à la vie sociale.
+Pour orienter chaque élève vers l'activité qu'il est le mieux à même d'exercer, compte tenu de ses aptitudes propres, l'établissement ou le service s'assure le concours de services d'orientation. Cette première formation professionnelle est réalisée en liaison étroite avec le milieu professionnel.
 
-La section d'éducation et d'enseignement spécialisés prend en charge l'enfant ou l'adolescent dans sa globalité et assure, en liaison avec la famille, une éducation et un enseignement adaptés à l'enfant ou l'adolescent qui ne peut momentanément ou durablement être pris en charge par des services d'éducation spéciale et de soins à domicile. Pour une part de son action, cette section peut faire appel à la collaboration d'établissements scolaires ou d'autres organismes en passant avec eux une convention portée à la connaissance de l'autorité de contrôle.
+L'établissement ou le service peut être organisé en sections notamment pour l'accueil de jeunes déficients moteurs présentant des handicaps associés importants, tels que des troubles de la personnalité et du comportement, des déficiences intellectuelles, motrices, visuelles, auditives ou autres. De même, une section de préparation à la vie sociale peut accueillir les adolescents, qui, en raison de la gravité de leur déficience motrice, ne pourraient envisager une insertion professionnelle même en milieu de travail protégé.
 
-La section d'initiation et de première formation professionnelle a pour objectif la préparation à l'un des diplômes délivrés par l'Etat, conformément aux programmes publiés par les ministères de l'éducation nationale et de l'agriculture, en mettant en place une progression adaptée des enseignements, lorsque cela est nécessaire. Des actions pédagogiques, éducatives et thérapeutiques sont définies individuellement en fonction des besoins propres à chaque enfant et adolescent et sont mises en oeuvre éventuellement en liaison avec d'autres services ou établissements spécialisés si nécessaire. Cette section comporte des personnels répondant aux conditions requises par la prise en charge. Les locaux et les équipements sont aménagés en conséquence.
+Les locaux et les équipements doivent être aménagés en conséquence.
 
-La section de préparation à la vie sociale accueille les adolescents qui, en raison de la gravité de leur déficience motrice, ne pourraient envisager une insertion professionnelle même en milieu de travail protégé.
+Dans le cadre de l'enseignement professionnel, l'établissement ou le service peut également faire appel à des éducateurs techniques spécialisés.
 
-Pour une part de leur action, ces différentes sections peuvent faire appel à la collaboration d'établissements scolaires ou d'autres organismes sanitaires ou sociaux en passant avec eux une convention portée à la connaissance des autorités académiques et du directeur départemental des affaires sanitaires et sociales.
+Des actions thérapeutiques et éducatives particulières définies individuellement en fonction des besoins propres à chaque enfant ou adolescent sont réalisées conformément à son projet individualisé d'accompagnement. Ces actions sont mises en œuvre, en tant que de besoin, en liaison avec d'autres services ou établissements spécialisés par des conventions dans le cadre des dispositions de l'article D. 312-10-12.
