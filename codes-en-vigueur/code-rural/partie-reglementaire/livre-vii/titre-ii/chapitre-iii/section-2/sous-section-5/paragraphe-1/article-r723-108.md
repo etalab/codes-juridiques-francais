@@ -12,6 +12,8 @@ Outre le rôle défini à l'article R. 121-1 du code de la sécurité sociale, l
 
 5° De déléguer aux agents de direction les pouvoirs nécessaires en vue d'assurer, dans le cadre des textes législatifs et réglementaires, le fonctionnement de l'organisme ;
 
-6° De décider des opérations immobilières et des marchés.
+6° De décider des opérations immobilières et des marchés ;
+
+7° D'approuver, sauf vote contraire à la majorité des deux tiers des membres, les comptes annuels et les comptes combinés des régimes de protection sociale au vu de l'opinion émise par l'instance chargée de la certification.
 
 Les décisions des unions, unions d'économie sociale, groupements d'intérêt économique et sociétés civiles immobilières mentionnées aux articles L. 723-7 et L. 723-13 ne peuvent avoir d'incidence sur la gestion administrative et financière des caisses de mutualité sociale agricole, qu'après approbation donnée par délibération des conseils d'administration des organismes.
