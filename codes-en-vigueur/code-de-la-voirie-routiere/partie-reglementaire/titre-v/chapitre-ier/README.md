@@ -1,6 +1,5 @@
 # Chapitre Ier : Routes express.
 
-- [Article R*151-1](article-r-151-1.md)
 - [Article R151-1](article-r151-1.md)
 - [Article R*151-2](article-r-151-2.md)
 - [Article R*151-3](article-r-151-3.md)
