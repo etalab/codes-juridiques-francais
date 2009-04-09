@@ -1,5 +1,12 @@
 # Sous-section 4 : Du règlement des créances publiques.
 
+- [Article D626-9](article-d626-9.md)
+- [Article D626-10](article-d626-10.md)
+- [Article D626-11](article-d626-11.md)
+- [Article D626-12](article-d626-12.md)
+- [Article D626-13](article-d626-13.md)
+- [Article D626-14](article-d626-14.md)
+- [Article D626-15](article-d626-15.md)
 - [Article R626-9](article-r626-9.md)
 - [Article R626-10](article-r626-10.md)
 - [Article R626-11](article-r626-11.md)
@@ -7,4 +14,3 @@
 - [Article R626-13](article-r626-13.md)
 - [Article R626-14](article-r626-14.md)
 - [Article R626-15](article-r626-15.md)
-- [Article R626-16](article-r626-16.md)
