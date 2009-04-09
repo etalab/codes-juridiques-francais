@@ -8,5 +8,4 @@
 - [Article D723-186](article-d723-186.md)
 - [Article D723-187](article-d723-187.md)
 - [Article D723-188](article-d723-188.md)
-- [Article D723-189](article-d723-189.md)
 - [Article D723-190](article-d723-190.md)
