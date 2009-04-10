@@ -6,7 +6,7 @@ Sous réserve des dispositions des articles 118 à 120, 125 et 126, le résultat
 
 a) Du résultat de cette société, déterminé dans les conditions de droit commun ou, le cas échéant, du résultat d'ensemble mentionné à l'article 223 B du code général des impôts lorsque la société a été autorisée à opter, en application des dispositions du 2 de l'article 223 P de ce code, pour le régime défini à l'article 223 A du même code ;
 
-b) Du résultat des exploitations directes situées hors de la France métropolitaine et des départements d'outre-mer, déterminé dans les conditions prévues aux articles 116 bis et 116 ter de la présente annexe ;
+b) Du résultat des exploitations directes situées hors de la France métropolitaine et des départements d'outre-mer, déterminé dans les conditions prévues aux articles 116 bis et 116 ter ;
 
 c) Du résultat des exploitations indirectes situées en France métropolitaine ou dans les départements d'outre-mer, tel qu'il est retenu pour l'imposition de ces dernières à l'impôt sur les sociétés, dans la proportion correspondant aux droits de la société agréée dans la distribution des bénéfices de ces exploitations à la date de clôture de la période d'imposition ou à la date de la distribution des dividendes afférents à cette période d'imposition, si la participation de la société agréée est plus forte à cette date qu'à la clôture de la période d'imposition ; si une ou plusieurs de ces sociétés ont été autorisées à opter, en application des dispositions du 2 de l'article 223 P du code général des impôts, pour le régime de groupe défini à l'article 223 A de ce code, le résultat d'ensemble de ce groupe, mentionné à l'article 223 B du même code, se substitue au résultat propre de la société ;
 

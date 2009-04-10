@@ -10,7 +10,7 @@ II.-Outre les dispositions de la réglementation communautaire susmentionnée, l
 
 Par exception aux dispositions qui précèdent, les écritures relatives à chaque opération peuvent être portées sur les registres au plus tard le cinquième jour de chaque mois pour les opérations du mois précédent, à condition qu'un contrôle des entrées et sorties, ainsi que des manipulations, reste possible sur la base de pièces justificatives à toute réquisition des agents des douanes et droits indirects ou de ceux de la concurrence, de la consommation et de la répression des fraudes.
 
-Les registres comportent les colonnes ouvertes avec les intitulés exigés par la réglementation communautaire et portent les références des contrats d'achat soumis au visa de l'               établissement mentionné à l' article L. 621-1 du code rural  pour les transactions soumises à cette procédure.
+Les registres comportent les colonnes ouvertes avec les intitulés exigés par la réglementation communautaire et portent les références des contrats d'achat soumis au visa de l'établissement mentionné à l'article L. 621-1 du code rural pour les transactions soumises à cette procédure.
 
 Sans préjudice d'autres dispositions prévues par les règlements et accords interprofessionnels visés notamment aux articles L. 632-1 à L. 632-7 du code rural, les registres comportent pour les vins d'appellation d'origine, les références aux certificats d'agrément ou de labellisation, les numéros d'enregistrement des contrats d'achat et les numéros des déclarations de transactions soumis préalablement aux interprofessions tels que prévus dans les accords interprofessionnels étendus mentionnés aux articles précités.
 
@@ -26,7 +26,7 @@ Les personnes qui tiennent les registres informatisés doivent, à toute réquis
 
 3° Ces registres vitivinicoles peuvent être constitués par des éléments d'une comptabilité commerciale informatisée dès lors qu'elle comporte :
 
-a) Toutes les indications nécessaires relatives aux mouvements des produits et au déroulement des manipulations conformément aux dispositions communautaires et aux informations prévues au 1° du II du présent article ;
+a) Toutes les indications nécessaires relatives aux mouvements des produits et au déroulement des manipulations conformément aux dispositions communautaires et aux informations prévues au 1° du II ;
 
 b) La reprise des inventaires physiques des produits réalisés au moment de la clôture de l'exercice comptable.
 
@@ -34,7 +34,7 @@ III.-Les entrepositaires agréés doivent effectuer la balance des registres en 
 
 Cette balance ne peut servir à elle seule d'élément de preuve pour la constatation de manquants entraînant, conformément au 2° du 1 du I de l'article 302 D du code général des impôts, l'exigibilité de l'impôt.
 
-Les entrepositaires agréés transmettent au service des douanes et droits indirects territorialement compétent, au plus tard le cinquième jour de chaque mois, une déclaration récapitulative comportant les renseignements mentionnés au premier alinéa du présent III et, le cas échéant, ceux prévus au 1° du II du présent article.
+Les entrepositaires agréés transmettent au service des douanes et droits indirects territorialement compétent, au plus tard le cinquième jour de chaque mois, une déclaration récapitulative comportant les renseignements mentionnés au premier alinéa et, le cas échéant, ceux prévus au 1° du II.
 
 IV.-Les registres doivent être clôturés une fois par an, à la date de souscription de la déclaration des stocks mentionnée à l'article 408 du code général des impôts, pour les récoltants y compris les sociétés coopératives et leurs unions. La déclaration annuelle est transmise au service des douanes et droits indirects territorialement compétent, au plus tard le cinquième jour du deuxième mois qui suit la clôture des comptes.
 

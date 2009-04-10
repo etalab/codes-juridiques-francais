@@ -9,5 +9,7 @@
 - [6 : Amortissement dégressif des biens d'équipement](6)
 - [7 : Plus-values provenant de cessions d'éléments de l'actif immobilisé](7)
 - [8 quater : Majoration d'amortissement des immobilisations acquises ou créées au moyen de certaines primes](8-quater)
+- [8 quinquies : Abattement des entreprises de pêche maritime](8-quinquies)
 - [9 : Contrôle des frais généraux - Obligations des entreprises](9)
 - [12 : Régime simplifié d'imposition](12)
+- [8-0 quinquies : Jeunes entreprises innovantes](8-0-quinquies)

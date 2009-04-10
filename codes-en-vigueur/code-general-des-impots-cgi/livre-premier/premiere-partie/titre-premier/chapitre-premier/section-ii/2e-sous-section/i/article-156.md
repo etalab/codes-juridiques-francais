@@ -6,7 +6,7 @@ I. du déficit constaté pour une année dans une catégorie de revenus ; si le 
 
 Toutefois, n'est pas autorisée l'imputation :
 
-1° des déficits provenant d'exploitations agricoles lorsque le total des revenus nets d'autres sources excède 101 300 euros ; ces déficits peuvent cependant être admis en déduction des bénéfices de même nature des années suivantes jusqu'à la sixième inclusivement.
+1° des déficits provenant d'exploitations agricoles lorsque le total des revenus nets d'autres sources excède 104 238 euros ; ces déficits peuvent cependant être admis en déduction des bénéfices de même nature des années suivantes jusqu'à la sixième inclusivement.
 
 Le montant mentionné au premier alinéa du 1° est révisé chaque année selon les mêmes modalités que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
@@ -82,11 +82,11 @@ Un contribuable ne peut, au titre d'une même année et pour un même enfant, b�
 
 2° bis (Abrogé) ;
 
-2° ter. Avantages en nature consentis en l'absence d'obligation alimentaire résultant des articles 205 à 211 du code civil à des personnes agées de plus de 75 ans vivant sous le toit du contribuable et dont le revenu imposable n'excède pas le plafond de ressources mentionné à l'article L. 815-9 du code de la sécurité sociale pour l'octroi de l'allocation de solidarité aux personnes âgées mentionnée à l'article L. 815-1 du même code et de l'allocation supplémentaire d'invalidité mentionnée à l'article L. 815-24 du même code. La déduction opérée par le contribuable ne peut excéder, par bénéficiaire, la somme de 3 203 euros.
+2° ter. Avantages en nature consentis en l'absence d'obligation alimentaire résultant des articles 205 à 211 du code civil à des personnes agées de plus de 75 ans vivant sous le toit du contribuable et dont le revenu imposable n'excède pas le plafond de ressources mentionné à l'article L. 815-9 du code de la sécurité sociale pour l'octroi de l'allocation de solidarité aux personnes âgées mentionnée à l'article L. 815-1 du même code et de l'allocation supplémentaire d'invalidité mentionnée à l'article L. 815-24 du même code. La déduction opérée par le contribuable ne peut excéder, par bénéficiaire, la somme de 3 296 euros.
 
 Le montant de la déduction mentionnée à l'alinéa précédent est relevé chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu ;
 
-2° quater  Sur option irrévocable du contribuable entraînant renoncement à leur prise en  compte pour l'évaluation de ses revenus fonciers, les dépenses effectivement  supportées par les nus-propriétaires au titre de travaux payés en application de  l'article 605 du code  civil, lorsque le démembrement  de propriété d'un immeuble bâti résulte de succession ou de donation entre vifs,  effectuée sans charge ni condition et consentie entre parents jusqu'au quatrième  degré inclusivement. Ces dépenses peuvent être déduites dans la limite annuelle  de 25 000 €. La fraction des dépenses excédant cette limite peut être déduite,  dans les mêmes conditions, au titre des dix années suivantes ;
+2° quater Sur option irrévocable du contribuable entraînant renoncement à leur prise en compte pour l'évaluation de ses revenus fonciers, les dépenses effectivement supportées par les nus-propriétaires au titre de travaux payés en application de l'article 605 du code civil, lorsque le démembrement de propriété d'un immeuble bâti résulte de succession ou de donation entre vifs, effectuée sans charge ni condition et consentie entre parents jusqu'au quatrième degré inclusivement. Ces dépenses peuvent être déduites dans la limite annuelle de 25 000 €. La fraction des dépenses excédant cette limite peut être déduite, dans les mêmes conditions, au titre des dix années suivantes ;
 
 3° (Abrogé) ;
 
@@ -108,7 +108,7 @@ d. (sans objet).
 
 9° bis et 9° ter (Abrogés) ;
 
-10° Les cotisations mentionnées à l'article L. 612-2 du code de la sécurité sociale. En ce qui concerne les cotisations instituées par application de l'article L. 612-13 du même code, un décret fixe, le cas échéant, dans quelle proportion elles sont admises en déduction ;
+10° Conformément à l'article L. 612-6 du code de la sécurité sociale, les cotisations mentionnées à l'article L. 612-2 du code précité et les cotisations instituées par application de l'article L. 612-13 du même code ;
 
 11° Les primes ou cotisations des contrats d'assurances conclus en application des articles L. 752-1 à L. 752-21 du code rural relatifs à l'assurance obligatoire contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des non salariés des professions agricoles ;
 

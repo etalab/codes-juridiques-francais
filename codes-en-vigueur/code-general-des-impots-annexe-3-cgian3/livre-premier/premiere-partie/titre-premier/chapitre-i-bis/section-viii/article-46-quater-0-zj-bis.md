@@ -4,7 +4,7 @@
 
 Lorsque la cessation du groupe résulte d'une scission, le déficit d'ensemble est, préalablement au calcul effectué au premier alinéa, réparti entre les branches apportées en fonction de l'origine de ce déficit. Le déficit qui ne peut être affecté à une branche est réparti selon les modalités prévues au deuxième membre de la deuxième phrase du premier alinéa du e du 6 de l'article 223 L du code général des impôts. Pour chacun des nouveaux groupes, la fraction du déficit restant à reporter et qui peut être imputée dans les conditions prévues au 5 de l'article 223 I de ce code est alors calculée, au titre de chaque exercice, selon les modalités précisées au premier alinéa.
 
-La liste des sociétés pour lesquelles le bénéfice des dispositions du 5 de l'article 223 I du code général des impôts est demandé est jointe à l'option et figure de manière distincte sur le document prévu aux c, d, e ou g du 6 de l'article 223 L concernant l'identité des sociétés membres du nouveau groupe.
+La liste des sociétés pour lesquelles le bénéfice des dispositions du 5 de l'article 223 I du code général des impôts est demandé est jointe à l'option et figure de manière distincte sur le document prévu aux c, d, e ou g du 6 de l'article 223 L de ce code concernant l'identité des sociétés membres du nouveau groupe.
 
 2. Pour l'application du troisième alinéa de l'article 223 R du code général des impôts :
 

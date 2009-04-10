@@ -5,6 +5,7 @@
 - [Section II bis : Dispositions communes à la taxe pour frais de chambres de commerce et d'industrie et à la taxe pour frais de chambres de métiers](section-ii-bis)
 - [Section IV : Taxe pour frais de chambres d'agriculture](section-iv)
 - [Section V : Redevance audiovisuelle](section-v)
+- [Section V bis :  Prélèvement spécial sur les bénéfices résultant de la vente, la location ou l'exploitation d'œuvres pornographiques ou d'incitation à la violence](section-v-bis)
 - [Section VII bis : Taxe spéciale d'équipement perçue au profit des établissements publics fonciers](section-vii-bis)
 - [Section VIII : Taxe spéciale d'équipement perçue au profit de l'établissement public d'aménagement de la Basse-Seine](section-viii)
 - [Section IX ter : Taxe spéciale d'équipement perçue au profit de l'Etablissement public d'aménagement en Guyane](section-ix-ter)

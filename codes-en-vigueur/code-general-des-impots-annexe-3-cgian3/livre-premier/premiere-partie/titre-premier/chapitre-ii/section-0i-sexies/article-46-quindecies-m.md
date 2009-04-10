@@ -4,4 +4,4 @@ Les statuts des organismes bénéficiaires des dons mentionnés au 4 de l'articl
 
 Ils prévoient également qu'aucune aide ne peut être consentie au profit d'une entreprise ayant des liens directs ou indirects avec les donateurs, les membres ou le personnel de l'organisme qui est associé à la prise de décision.
 
-Ils prévoient en outre que les organismes s'engagent à accorder des aides compatibles avec le règlement (CE) n° 70/2001 de la Commission du 12 janvier 2001. Ce règlement est annexé à leurs statuts.
+Ils prévoient en outre que les organismes s'engagent à accorder des aides compatibles avec le 1 de l'article 12 du règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie). Ce règlement est annexé à leurs statuts.

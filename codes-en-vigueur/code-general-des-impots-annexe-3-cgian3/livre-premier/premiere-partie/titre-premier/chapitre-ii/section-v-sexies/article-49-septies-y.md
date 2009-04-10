@@ -1,6 +1,6 @@
 # Article 49 septies Y
 
-Pour l'application des dispositions prévues au a du I de l'article 244 quater F du code général des impôts, il y a lieu de retenir :
+Pour l'application des dispositions prévues au 1 du I de l'article 244 quater F du code général des impôts, il y a lieu de retenir :
 
 a) Les dépenses engagées par l'entreprise pour financer la création ou le fonctionnement d'un des établissements visés au premier alinéa de l'article L. 2324-1 du code de la santé publique exploité directement par l'entreprise et assurant l'accueil des enfants de moins de trois ans de ses salariés ;
 

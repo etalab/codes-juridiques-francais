@@ -12,8 +12,6 @@
 - [4° : Actes, archives, registres et documents détruits par suite d'événements de guerre, de sinistre ou de tout autre fait](4)
 - [5° : Attribution gratuite d'actions ou de parts sociales au personnel des entreprises](5)
 - [6° : Certificats de vie](6)
-- [7° : Contrat d'apprentissage](7)
-- [8° : Contrat et certificat de travail](8)
 - [9° : Mariages. Dissentiment des parents](9)
 - [12° bis : Changement de régime matrimonial au profit d'un régime communautaire](12-bis)
 - [14° bis : Droits de succession. Exonération des immeubles et droits immobiliers situés en Corse](14-bis)

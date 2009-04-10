@@ -2,11 +2,11 @@
 
 Pour l'application du 2° du 6 de l'article 199 undecies A du code général des impôts, les plafonds de loyer et de ressources du locataire sont les suivants :
 
-1. Pour les baux conclus en 2008, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface habitable à :
+1. Pour les baux conclus en 2009, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface habitable à :
 
-1° 145 euros dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation hors tabac de chacun des quatre départements d'outre-mer ;
+1° 150 euros dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation hors tabac de chacun des quatre départements d'outre-mer ;
 
-2° 184 euros en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
+2° 189 euros en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
 
 1 bis. Pour le calcul des plafonds mentionnés au 1, il est fait application :
 
@@ -18,127 +18,115 @@ Pour l'application du 2° du 6 de l'article 199 undecies A du code général des
 
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Pour les baux conclus en 2008, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2009, les plafonds annuels de ressources sont les suivants :
 
+<div>
 <table>
 <tbody>
 <tr>
 <th>
-<font size="1">COMPOSITION DU FOYER DU LOCATAIRE <br/>
-</font>
+<br/>COMPOSITION DU FOYER DU LOCATAIRE<br/>
 </th>
 <th colspan="2">
-<br/>
-<font size="1">PLAFOND ANNUEL DE RESSOURCES (en euros) <br/>
-</font>
+<br/>PLAFOND ANNUEL DE RESSOURCES<br/>
+<br/>(en €)<br/>
 </th>
 </tr>
 <tr>
+<th/>
 <th>
-<font size="1"/>
-</th>
-<th>
-<br/>
-<font size="1">Départements d'outre-mer, Saint-Barthélemy, Saint-Martin </font>
-<p>
-<font size="1">et Mayotte <br/>
-</font>
-</p>
+<br/>Départements d'outre-mer ; Saint-Barthélemy ; Saint-Martin et Mayotte<br/>
 </th>
 <th>
-<br/>
-<font size="1">Polynésie française ; Nouvelle-Calédonie ; îles Wallis et Futuna ; Terres australes et antarctiques françaises et Saint-Pierre-et-Miquelon <br/>
-</font>
+<br/>Polynésie française ; Nouvelle-Calédonie ;<br/>
+<br/>îles Wallis et Futuna ; Terres australes<br/>
+<br/>et antarctiques françaises<br/>
+<br/>et Saint-Pierre-et-Miquelon<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Personne seule <br/>
+<br/>Personne seule<br/>
 </td>
 <td align="center">
-<br/>27 781 <br/>
+<br/>28 638<br/>
 </td>
 <td align="center">
-<br/>26 962 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Couple <br/>
-</td>
-<td align="center">
-<br/>51 383 <br/>
-</td>
-<td align="center">
-<br/>49 867 <br/>
+<br/>27 794<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Personne seule ou couple ayant une personne à charge <br/>
+<br/>Couple<br/>
 </td>
 <td align="center">
-<br/>54 355 <br/>
+<br/>52 968<br/>
 </td>
 <td align="center">
-<br/>52 751 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Personne seule ou couple ayant deux personnes à charge <br/>
-</td>
-<td align="center">
-<br/>57 327 <br/>
-</td>
-<td align="center">
-<br/>55 636 <br/>
+<br/>51 406<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Personne seule ou couple ayant trois personnes à charge <br/>
+<br/>Personne seule ou couple ayant une personne à charge<br/>
 </td>
 <td align="center">
-<br/>61 600 <br/>
+<br/>56 032<br/>
 </td>
 <td align="center">
-<br/>59 489 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Personne seule ou couple ayant quatre personnes à charge <br/>
-</td>
-<td align="center">
-<br/>62 271 <br/>
-</td>
-<td align="center">
-<br/>63 344 <br/>
+<br/>54 379<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Majoration par personne à charge à partir de la cinquième <br/>
+<br/>Personne seule ou couple ayant deux personnes à charge<br/>
 </td>
 <td align="center">
-<br/>+ 4 169 <br/>
+<br/>59 096<br/>
 </td>
 <td align="center">
-<br/>+ 4 045 <br/>
+<br/>57 353<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Personne seule ou couple ayant trois personnes à charge<br/>
+</td>
+<td align="center">
+<br/>63 191<br/>
+</td>
+<td align="center">
+<br/>61 324<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Personne seule ou couple ayant quatre personnes à charge<br/>
+</td>
+<td align="center">
+<br/>67 285<br/>
+</td>
+<td align="center">
+<br/>65 298<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Majoration par personne à charge à partir de la cinquième<br/>
+</td>
+<td align="center">
+<br/>+ 4 298<br/>
+</td>
+<td align="center">
+<br/>+ 4 170<br/>
 </td>
 </tr>
 </tbody>
 </table>
-
-Ces plafonds sont relevés chaque année selon les modalités définies au 1.
-
-Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à 196 B du code général des impôts.
-
-3. Dans le cas mentionné au troisième alinéa du 7 de l'article 199 undecies A du code général des impôts, les conditions prévues au 1 et au 2 s'apprécient en tenant compte du montant :
-
-a) Du loyer payé au bailleur par l'organisme locataire ;
-
-b) Du loyer payé à cet organisme par le sous-locataire ;
-
-c) Des ressources du sous-locataire.
+</div>
+<div align="left">Ces plafonds sont relevés chaque année selon les modalités définies au 1. </div>
+<div align="left">Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à 196 B du code général des impôts. </div>
+<div align="left">3. Dans le cas mentionné au troisième alinéa du 7 de l'article 199 undecies A du code général des impôts, les conditions prévues au 1 et au 2 s'apprécient en tenant compte du montant : </div>
+<div align="left">a) Du loyer payé au bailleur par l'organisme locataire ; </div>
+<div align="left">b) Du loyer payé à cet organisme par le sous-locataire ; </div>
+<div align="left">c) Des ressources du sous-locataire.</div>

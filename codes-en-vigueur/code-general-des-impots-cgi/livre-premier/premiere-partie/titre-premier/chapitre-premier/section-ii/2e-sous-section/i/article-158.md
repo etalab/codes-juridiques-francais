@@ -40,7 +40,7 @@ Pour la détermination de cette part, il est également tenu compte des revenus 
 
 L'application de ces dispositions est conditionnée à la ventilation par les organismes ou sociétés en cause de leurs distributions ou répartitions en fonction de leur nature et origine ;
 
-5° Il est opéré un abattement annuel de 1 525 Euros pour les contribuables célibataires, divorcés ou veufs et de 3 050 Euros pour les contribuables mariés soumis à une imposition commune sur le montant net des revenus déterminé dans les conditions du 2° et après déduction des dépenses effectuées en vue de leur acquisition ou conservation.
+5° Il est opéré un abattement annuel de 1 525 euros pour les contribuables célibataires, divorcés ou veufs et de 3 050 euros pour les contribuables mariés soumis à une imposition commune sur le montant net des revenus déterminé dans les conditions du 2° et après déduction des dépenses effectuées en vue de leur acquisition ou conservation.
 
 4. Les bénéfices des professions industrielles, commerciales, artisanales et ceux de l'exploitation minière sont déterminés conformément aux dispositions des articles 34 à 61 A, 237 ter A, et 302 septies A bis ; les rémunérations mentionnées à l'article 62 sont déterminées conformément aux dispositions de cet article ; les bénéfices de l'exploitation agricole sont déterminées conformément aux dispositions des articles 63 à 78 et des articles L1 à L4 du livre des procédures fiscales ; les bénéfices tirés de l'exercice d'une profession non commerciale sont déterminés conformément aux dispositions des articles 92 à 103. Toutefois, les plus-values à long terme définies aux articles 39 duodecies et au 1 de l'article 39 terdecies sont distraites des bénéfices en vue d'être distinctement taxées à l'impôt sur le revenu dans les conditions prévues au 2 de l'article 39 terdecies et aux articles 39 quindecies et 93 quater.
 
@@ -52,9 +52,9 @@ Dans le cas des entreprises industrielles, commerciales, artisanales ou agricole
 
 5. a. Les revenus provenant de traitements publics et privés, indemnités, émoluments, salaires et pensions ainsi que de rentes viagères autres que celles mentionnées au 6 sont déterminés conformément aux dispositions des articles 79 à 90.
 
-Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut excéder 3 491 euros. Ce plafond s'applique au montant total des pensions et retraites perçues par l'ensemble des membres du foyer fiscal. Chaque année, il est révisé selon les mêmes modalités que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
+Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut excéder 3 592 euros. Ce plafond s'applique au montant total des pensions et retraites perçues par l'ensemble des membres du foyer fiscal. Chaque année, il est révisé selon les mêmes modalités que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
-L'abattement indiqué au deuxième alinéa ne peut être inférieur à 357 euros, sans pouvoir excéder le montant brut des pensions et retraites. Cette disposition s'applique au montant des pensions ou retraites perçu par chaque retraité ou pensionné membre du foyer fiscal. La somme de 357 euros est révisée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
+L'abattement indiqué au deuxième alinéa ne peut être inférieur à 367 euros, sans pouvoir excéder le montant brut des pensions et retraites. Cette disposition s'applique au montant des pensions ou retraites perçu par chaque retraité ou pensionné membre du foyer fiscal. La somme de 367 euros est révisée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
 b. Les dispositions du a sont applicables aux allocations mentionnées aux articles L. 3232-6, L. 5122-1, L. 5122-2, L. 5123-2, L. 5422-1, L. 5423-1 et L. 5423-8 du code du travail, aux participations en espèces et, à compter du 1er janvier 1991, aux dividendes des actions de travail, alloués aux travailleurs mentionnés au 18° bis de l'article 81, lorsque ces sommes sont imposables.
 

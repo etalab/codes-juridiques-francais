@@ -30,4 +30,4 @@ Il est statué sur le caractère de bienfaisance de la disposition par le décre
 
 13° Les dons et legs d'immeubles situés dans les coeurs des parcs nationaux, faits au profit de l'établissement public du parc national concerné.
 
-14° Les dons et legs consentis aux fonds de dotation répondant aux conditions fixées au g du 1 de l'article 200 du présent code.
+14° Les dons et legs consentis aux fonds de dotation répondant aux conditions fixées au g du 1 de l'article 200.

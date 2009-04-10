@@ -104,7 +104,7 @@ Les dispositions du présent f sont également applicables sous les mêmes condi
 
 Cette réserve doit être incorporée au capital au plus tard au cours de l'exercice suivant le troisième exercice ayant bénéficié des dispositions du premier alinéa du présent f. En cas de prélèvement sur cette réserve ou d'absence d'incorporation au capital dans ce délai, les dispositions du sixième alinéa du présent f sont applicables. Lorsque les incorporations de capital afférentes à l'imposition de résultats d'exercices ouverts avant le 1er janvier 2001 ont été différées, elles doivent être effectuées au plus tard à la clôture du second exercice ouvert à compter de cette date.
 
-Les conditions d'application du f ainsi que les obligations déclaratives qui en découlent sont fixées par décret.
+Les conditions d'application du présent f ainsi que les obligations déclaratives qui en découlent sont fixées par décret.
 
 II. Les plus-values visées au I de l'article 238 octies sont soumises à l'impôt au taux de 15 % lorsque la société n'a pas demandé à bénéficier de l'exonération sous condition de remploi prévue audit article.L'application de la présente disposition est toutefois subordonnée à la double condition que :
 

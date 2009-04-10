@@ -1,4 +1,4 @@
 # Section II : Incidence des résultats des exploitations directes ou indirectes situées à l'étranger
 
 - [II : Régime du bénéfice consolidé](ii)
-- [III : Dispositions communes.](iii)
+- [III : Régime du bénéfice mondial](iii)

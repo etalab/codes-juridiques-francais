@@ -1,6 +1,6 @@
 # Article 151 nonies
 
-I. Lorsqu'un contribuable exerce son activité professionnelle dans le cadre d'une société dont les bénéfices sont, en application des articles 8 et 8 ter, soumis en son nom à l'impôt sur le revenu dans la catégorie des bénéfices agricoles réels, des bénéfices industriels ou commerciaux ou des bénéfices non commerciaux, ses droits ou parts dans la société sont considérés notamment pour l'application des articles 38, 72 et 93, comme des éléments d'actif affectés à l'exercice de la profession.
+I. Lorsqu'un contribuable exerce son activité professionnelle dans le cadre d'une société dont les bénéfices sont, en application des articles 8 et 8 ter, soumis en son nom à l'impôt sur le revenu dans la catégorie des bénéfices agricoles réels, des bénéfices industriels ou commerciaux ou des bénéfices non commerciaux, ses droits ou parts dans la société sont considérés notamment pour l'application des articles 38,72 et 93, comme des éléments d'actif affectés à l'exercice de la profession.
 
 II.-1. En cas de transmission à titre gratuit à une personne physique de droits sociaux considérés, en application du I, comme des éléments d'actif affectés à l'exercice de la profession, l'imposition de la plus-value constatée peut faire l'objet d'un report jusqu'à la date de cession, de rachat, d'annulation ou de transmission ultérieure de ces droits.
 
@@ -8,7 +8,7 @@ L'imposition de cette plus-value est effectuée à la date à laquelle il est mi
 
 Lorsqu'un des événements mettant fin au report d'imposition cités au premier alinéa survient, l'imposition de la plus-value est effectuée au nom du bénéficiaire de la transmission.
 
-En cas de nouvelle transmission à titre gratuit par l'un des bénéficiaires de la transmission visée au premier alinéa, le report est maintenu si le bénéficiaire de la nouvelle transmission prend l'engagement d'acquitter l'impôt sur la plus-value à la date où l'un des événements cités au premier alinéa survient.A défaut, l'imposition de la plus-value afférente aux droits transmis est effectuée au nom du donateur ou du défunt.
+En cas de nouvelle transmission à titre gratuit par l'un des bénéficiaires de la transmission visée au premier alinéa, le report est maintenu si le bénéficiaire de la nouvelle transmission prend l'engagement d'acquitter l'impôt sur la plus-value à la date où l'un des événements cités au premier alinéa survient. A défaut, l'imposition de la plus-value afférente aux droits transmis est effectuée au nom du donateur ou du défunt.
 
 Lorsque l'activité est poursuivie pendant au moins cinq ans à compter de la date de la transmission à titre gratuit visée au premier alinéa, la plus-value en report est définitivement exonérée.
 
@@ -20,7 +20,7 @@ Le ou les bénéficiaires ayant opté pour le régime défini au 1 communiquent 
 
 3. Un décret précise le contenu des obligations déclaratives mentionnées au 2.
 
-4.L'article 151 septies ne s'applique pas en cas d'exercice de l'option prévue au 2.
+4. L'article 151 septies ne s'applique pas en cas d'exercice de l'option prévue au 2.
 
 III. En cas d'assujettissement à l'impôt sur les sociétés d'une société visée au paragraphe I ou de sa transformation en société passible de cet impôt, l'imposition de la plus-value constatée est reportée à la date de cession, de rachat ou d'annulation des parts ou actions de l'associé. Ce report est maintenu en cas de transmission, à titre gratuit, des parts ou actions de l'associé à une personne physique si celle-ci prend l'engagement de déclarer en son nom cette plus-value lors de la cession, du rachat ou de l'annulation de ces parts ou actions.
 
@@ -38,7 +38,7 @@ IV. Lorsque le contribuable mentionné au paragraphe I cesse d'exercer son activ
 
 Ce report est maintenu en cas de transmission, à titre gratuit, des parts ou actions de l'associé à une personne physique si celle-ci prend l'engagement de déclarer en son nom cette plus-value lors de la cession, du rachat ou de l'annulation de ces parts ou actions.
 
-En cas de transmission à titre gratuit réalisée dans les conditions prévues à l'alinéa précédent, la plus-value en report détenue par le bénéficiaire de la transmission est définitivement exonérée lorsque, de manière continue pendant les cinq années suivant la transmission, ce bénéficiaire de la transmission exerce son activité professionnelle au sein de la société, dans les conditions prévues au I ou au 1° du III, et que celle-ci poursuit son activité commerciale, industrielle, artisanale, libérale ou agricole.
+En cas de transmission à titre gratuit réalisée dans les conditions prévues au deuxième alinéa, la plus-value en report détenue par le bénéficiaire de la transmission est définitivement exonérée lorsque, de manière continue pendant les cinq années suivant la transmission, ce bénéficiaire de la transmission exerce son activité professionnelle au sein de la société, dans les conditions prévues au I ou au 1° du III, et que celle-ci poursuit son activité commerciale, industrielle, artisanale, libérale ou agricole.
 
 IV bis.-Le I de l'article 151 octies B est applicable à l'apport de l'intégralité des droits ou parts mentionnés au I dans les conditions suivantes :
 

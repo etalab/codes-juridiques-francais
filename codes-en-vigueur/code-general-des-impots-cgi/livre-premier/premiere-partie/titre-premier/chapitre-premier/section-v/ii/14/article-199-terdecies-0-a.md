@@ -36,7 +36,7 @@ La fraction d'une année excédant, le cas échéant, les limites mentionnées a
 
 II bis. ― Les limites mentionnées au premier alinéa du II sont portées respectivement à 50 000 € pour les contribuables célibataires, veufs ou divorcés et à 100 000 € pour les contribuables mariés soumis à imposition commune pour les souscriptions ouvrant droit à la réduction d'impôt mentionnée au I au capital initial ou aux augmentations de capital des sociétés vérifiant les conditions mentionnées au I du présent article, aux 2° et 3° du II de l'article 239 bis AB et aux f et g du 1 du I de l'article 885-0 V bis.
 
-Le dernier alinéa du II du présent article n'est pas applicable au titre des souscriptions mentionnées à l'alinéa précédent.
+Le second alinéa du II n'est pas applicable au titre des souscriptions mentionnées au premier alinéa.
 
 II ter. ― La réduction d'impôt prévue au I est calculée sur le montant total des versements mentionnés aux II et II bis retenus dans leur limite annuelle respective. Le montant total ainsi déterminé ne peut excéder les limites mentionnées au premier alinéa du II bis. La fraction des versements pour laquelle le contribuable entend bénéficier de la réduction d'impôt dans la limite prévue au II ne peut ouvrir droit à la réduction d'impôt dans la limite prévue au II bis, et inversement.
 

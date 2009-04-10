@@ -10,7 +10,7 @@ Si le demandeur fournit deux photographies d'identité, tel que prévu à l'arti
 
 Par dérogation au premier alinéa, le tarif applicable au passeport délivré à titre exceptionnel et pour un motif d'urgence dûment justifié ou délivré par une autorité qui n'est pas celle du lieu de résidence ou du domicile du demandeur est de 30 euros.
 
-Le renouvellement des passeports mentionnés aux premier et deuxième alinéas est effectué à titre gratuit, jusqu'à concurrence de leur durée de validité et dans les cas suivants :
+Le renouvellement des passeports mentionnés aux premier et troisième alinéas est effectué à titre gratuit, jusqu'à concurrence de leur durée de validité et dans les cas suivants :
 
 a) Modification d'état civil ;
 

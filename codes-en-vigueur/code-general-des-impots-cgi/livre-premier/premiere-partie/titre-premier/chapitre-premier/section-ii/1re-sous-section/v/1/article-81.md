@@ -38,7 +38,7 @@ b.L'allocation de reconnaissance prévue aux I et I bis de l'article 47 de la lo
 
 9° quinquies La prime de retour à l'emploi instituée par l'article L. 5133-1 du code du travail ;
 
-9° septies L'aide à la réinsertion familiale et sociale des anciens migrants dans leur pays d'origine instituée par l'article L. 117-2 du code de l'action sociale et des familles ;
+9° septies L'aide à la réinsertion familiale et sociale des anciens migrants dans leur pays d'origine instituée par l'article L. 117-3 du code de l'action sociale et des familles ;
 
 10° Les rentes viagères servies par application de l'article 96 de la loi du 30 décembre 1928, de l'article 5 de la loi du 17 septembre 1932, de l'article 1er de la loi du 1er octobre 1936 et de l'article 6 de la loi n° 652 du 26 juin 1942 ;
 
@@ -90,7 +90,7 @@ L'exonération s'applique sous réserve du dépôt de l'accord d'intéressement,
 
 Les dispositions du premier alinéa bénéficient également, dans les mêmes conditions et limites aux dividendes des actions de travail attribuées aux salariés des sociétés anonymes à participation ouvrière régies par la loi du 26 avril 1917, à compter du 1er janvier 1991 ;
 
-19° Dans la limite de 5, 04 € par titre, le complément de rémunération résultant de la contribution de l'employeur à l'acquisition par le salarié des titres-restaurant émis conformément aux dispositions du chapitre II du titre VI du livre II de la troisième partie du code du travail, lorsque cette contribution est comprise entre un minimum et un maximum fixés par arrêté du ministre chargé du budget. La limite d'exonération est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu de l'année précédant celle de l'acquisition des titres-restaurant et arrondie, s'il y a lieu, au centime d'euro le plus proche.
+19° Dans la limite de 5, 19 € par titre, le complément de rémunération résultant de la contribution de l'employeur à l'acquisition par le salarié des titres-restaurant émis conformément aux dispositions du chapitre II du titre VI du livre II de la troisième partie du code du travail, lorsque cette contribution est comprise entre un minimum et un maximum fixés par arrêté du ministre chargé du budget. La limite d'exonération est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu de l'année précédant celle de l'acquisition des titres-restaurant et arrondie, s'il y a lieu, au centime d'euro le plus proche.
 
 Cette exonération est subordonnée à la condition que le salarié se conforme aux obligations qui sont mises à sa charge par le même chapitre II ;
 
@@ -122,7 +122,9 @@ d. (disjoint) ;
 
 26° L'indemnisation ou, le cas échéant, la valeur des actions attribuées à ce titre, prévue à l'article L. 225-270 du code de commerce ;
 
-27° L'allocation forfaitaire complémentaire, les aides spécifiques au logement et les aides spécifiques en faveur des conjoints survivants servies en application de la loi n° 94-488 du 11 juin 1994 relative aux rapatriés anciens membres des formations supplétives et assimilés ou victimes de la captivité en Algérie ;
+27° L'allocation forfaitaire complémentaire, les aides spécifiques au logement et les aides spécifiques en faveur des conjoints survivants servies en application de la
+loi n° 94-488 du 11 juin 1994
+relative aux rapatriés anciens membres des formations supplétives et assimilés ou victimes de la captivité en Algérie ;
 
 28° Lorsqu'elle est prise en charge par l'employeur, la part salariale du complément de cotisation d'assurance vieillesse, prévue à l'article L. 741-24 du code rural ;
 

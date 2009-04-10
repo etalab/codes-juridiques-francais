@@ -8,7 +8,7 @@ Les revenus exonérés en application des articles 44 sexies à 44 undecies ains
 
 b) Ou 10 % du montant annuel du plafond mentionné à l'article L. 241-3 du code de la sécurité sociale.
 
-Cette limite est réduite, le cas échéant, des sommes versées par l'entreprise au plan d'épargne pour la retraite collectif défini aux articles L. 3334-1 et L. 3334-16 du code du travail et exonérées en application du 18° de l'article 81.
+Cette limite est réduite, le cas échéant, des sommes versées par l'entreprise au plan d'épargne pour la retraite collectif défini aux articles L. 3334-1 et L. 3334-16 du code du travail et exonérées en application du a du 18° de l'article 81.
 
 II.-La déduction mentionnée au I est subordonnée à la justification par le chef d'exploitation ou d'entreprise de la régularité de sa situation vis-à-vis des régimes d'assurance vieillesse obligatoires dont il relève, conformément au 2° de l'article L. 144-1 du code des assurances.
 

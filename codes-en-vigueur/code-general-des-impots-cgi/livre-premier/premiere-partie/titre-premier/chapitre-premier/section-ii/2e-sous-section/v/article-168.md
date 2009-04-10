@@ -1,6 +1,6 @@
 # Article 168
 
-1. En cas de disproportion marquée entre le train de vie d'un contribuable et ses revenus, la base d'imposition à l'impôt sur le revenu est portée à une somme forfaitaire déterminée en appliquant à certains éléments de ce train de vie le barème ci-après, compte tenu, le cas échéant, de la majoration prévue au 2, lorsque cette somme est supérieure ou égale à 42 699 euros ; cette limite est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu :
+1. En cas de disproportion marquée entre le train de vie d'un contribuable et ses revenus, la base d'imposition à l'impôt sur le revenu est portée à une somme forfaitaire déterminée en appliquant à certains éléments de ce train de vie le barème ci-après, compte tenu, le cas échéant, de la majoration prévue au 2, lorsque cette somme est supérieure ou égale à 43 938 euros ; cette limite est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu :
 
 ELEMENTS DU TRAIN DE VIE / BASE.
 
@@ -42,7 +42,7 @@ Elle est également réduite de moitié pour les voitures qui sont affectées pr
 
 Ce barème est quintuplé pour les bateaux de plaisance battant pavillon d'un pays ou territoire qui n'a pas conclu avec la France de convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales.
 
-Le nombre de tonneaux à prendre en considération est égal au nombre de tonneaux correspondant à la jauge brute sous déduction, le cas échéant, d'un abattement pour vétusté égal à 25 %,50 % ou 75 % suivant que la construction du yacht ou du bateau de plaisance a été achevée depuis plus de cinq ans, plus de quinze ans ou plus de vingt-cinq ans. Le tonnage ainsi obtenu est arrondi, s'il y a lieu, à l'unité immédiatement inférieure.
+Le nombre de tonneaux à prendre en considération est égal au nombre de tonneaux correspondant à la jauge brute sous déduction, le cas échéant, d'un abattement pour vétusté égal à 25 %, 50 % ou 75 % suivant que la construction du yacht ou du bateau de plaisance a été achevée depuis plus de cinq ans, plus de quinze ans ou plus de vingt-cinq ans. Le tonnage ainsi obtenu est arrondi, s'il y a lieu, à l'unité immédiatement inférieure.
 
 7. Bateaux de plaisance à moteur fixe ou hors-bord d'une puissance réelle d'au moins 20 CV :
 
@@ -50,7 +50,7 @@ Le nombre de tonneaux à prendre en considération est égal au nombre de tonnea
 
 -par cheval-vapeur supplémentaire / 69 euros
 
-Toutefois, la puissance n'est comptée que pour 75 %,50 % ou 25 %, en ce qui concerne les bateaux construits respectivement depuis plus de cinq ans, quinze ans et vingt-cinq ans.
+Toutefois, la puissance n'est comptée que pour 75 %, 50 % ou 25 %, en ce qui concerne les bateaux construits respectivement depuis plus de cinq ans, quinze ans et vingt-cinq ans.
 
 Ce barème est quintuplé pour les bateaux de plaisance battant pavillon d'un pays ou territoire qui n'a pas conclu avec la France de convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales.
 

@@ -8,7 +8,7 @@ Ces dispositions sont applicables aux dépenses exposées dans les opérations d
 
 I bis. Les subventions allouées aux entreprises par l'Etat, les collectivités territoriales et les établissements publics spécialisés dans l'aide à la recherche scientifique ou technique et qui sont affectées au financement de dépenses de recherche immobilisées dans les conditions prévues au I ci-dessus sont rattachées aux résultats imposables à concurrence des amortissements du montant de ces dépenses pratiqués à la clôture de chaque exercice.
 
-Ces dispositions sont applicables aux subventions acquises au cours des exercices clos à compter du 31 décembre 1990.
+(Alinéa disjoint).
 
 II. Lorsqu'une entreprise acquiert un logiciel, le coût de revient de celui-ci peut être amorti en totalité dès la fin de la période des onze mois consécutifs suivant le mois de cette acquisition.
 
