@@ -6,3 +6,4 @@
 - [Sous-section 4 : Suivi financier et statistique](sous-section-4)
 - [Sous-section 5 : Aide financière et exonérations](sous-section-5)
 - [Sous-section 6 : Commission de pilotage](sous-section-6)
+- [Sous-section 7 : Période d'immersion.](sous-section-7)
