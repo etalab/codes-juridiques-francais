@@ -12,7 +12,6 @@
 - [Article L145 B](article-l145-b.md)
 - [Article L146](article-l146.md)
 - [Article L146 A](article-l146-a.md)
-- [Article L146 B](article-l146-b.md)
 - [Article L147](article-l147.md)
 - [Article L147 C](article-l147-c.md)
 - [Article L147 A](article-l147-a.md)
