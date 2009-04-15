@@ -2,7 +2,7 @@
 
 1. L'assiette et le recouvrement de la taxe sont assurés par les services de la direction générale des douanes et droits indirects, selon les règles, garanties et sanctions applicables en matière douanière.
 
-Toutefois, la circulation de véhicules dont le poids total en charge dépasse le poids total autorisé, tel qu'il figure sur la carte grise, est réprimée exclusivement par application de l'article 25 de la loi n° 52-401 du 14 avril 1952 et de l'article R. 238 du code de la route.
+Toutefois, la circulation de véhicules dont le poids total en charge dépasse le poids total autorisé, tel qu'il figure sur le certificat d'immatriculation, est réprimée exclusivement par application de l'article 25 de la loi n° 52-401 du 14 avril 1952 et de l'article R. 238 du code de la route.
 
 2. Le montant de la taxe est exigible d'avance.
 

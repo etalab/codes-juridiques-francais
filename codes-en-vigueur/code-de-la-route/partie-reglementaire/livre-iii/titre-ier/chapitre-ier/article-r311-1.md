@@ -40,7 +40,7 @@ b) Pour un cyclomoteur à trois roues, d'un moteur d'une cylindrée ne dépassan
 
 - véhicule articulé : ensemble composé d'un véhicule tracteur et d'une semi-remorque ;
 
-- véhicule de collection : véhicule, de plus de vingt-cinq ans d'âge, qui ne peut satisfaire aux prescriptions techniques exigées par le présent livre ;
+- véhicule de collection : véhicule, de plus de trente ans d'âge, qui ne peut satisfaire aux prescriptions techniques exigées par le présent livre ;
 
 - véhicule de transport en commun : autobus ou autocar ;
 
