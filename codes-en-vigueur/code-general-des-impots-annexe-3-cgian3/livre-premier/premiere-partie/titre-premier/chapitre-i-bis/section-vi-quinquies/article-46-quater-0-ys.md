@@ -12,7 +12,9 @@ b. Au titre des dépenses liées à l'utilisation des studios d'enregistrement a
 
 c. Au titre des dépenses liées à la conception graphique d'un enregistrement phonographique : les frais d'acquisition des droits des auteurs des photographies, des illustrations et créations graphiques, des biographies ;
 
-2. S'agissant des dépenses liées au développement de productions phonographiques ou vidéographiques musicales mentionnées au 1° du II de l'article 220 octies du code général des impôts :
+d. au titre des frais de personnel permanent : les salaires et charges sociales correspondant à la période pendant laquelle les personnels permanents mentionnés au a bis du 1° du III de l'article 220 octies du code général des impôts ont été effectivement employés à la production d'une œuvre phonographique ou vidéographique musicale éligible au crédit d'impôt ;
+
+2. S'agissant des dépenses liées au développement de productions phonographiques ou vidéographiques musicales mentionnées au 2° du III de l'article 220 octies du code général des impôts :
 
 a. Au titre des dépenses engagées afin de soutenir la production de concerts de l'artiste en France ou à l'étranger, dont le montant global est fixé dans le cadre d'un contrat d'artiste ou de licence :
 
@@ -24,4 +26,6 @@ c. Au titre des dépenses liées à la réalisation et à la production d'images
 
 Dans le cas d'un disque numérique polyvalent musical : les frais de conception technique tels que la création d'éléments d'interactivité, d'une arborescence, ou le recours à des effets spéciaux ;
 
-d. Au titre des dépenses liées à la création d'un site internet dédié à l'artiste dans le cadre du développement de sa carrière dans l'environnement numérique : les frais de création (interactivité, arborescence, graphisme). Ces dispositions sont également applicables en cas de création d'un site internet consacré à plusieurs artistes tels que visés au c du 1° du II de l'article 220 octies du code général des impôts.
+d. Au titre des dépenses liées à la création d'un site internet dédié à l'artiste dans le cadre du développement de sa carrière dans l'environnement numérique : les frais de création (interactivité, arborescence, graphisme). Ces dispositions sont également applicables en cas de création d'un site internet consacré à plusieurs artistes tels que visés au b du II de l'article 220 octies du code général des impôts ;
+
+e. au titre des frais de personnel permanent : les salaires et charges sociales correspondant à la période pendant laquelle ces personnels ont été effectivement employés au développement d'une production phonographique ou vidéographique musicale éligible au crédit d'impôt.
