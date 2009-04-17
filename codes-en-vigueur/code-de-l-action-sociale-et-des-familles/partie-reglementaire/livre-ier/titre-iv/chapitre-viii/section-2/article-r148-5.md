@@ -1,5 +1,7 @@
 # Article R148-5
 
-L'Autorité centrale pour l'adoption internationale se réunit au moins trois fois par an. Elle peut en outre se réunir à l'initiative de son président, à la demande de trois de ses membres, ainsi qu'à celle du ministre des affaires étrangères. Elle est convoquée par son président ou, en cas d'empêchement, par son vice-président, qui fixe l'ordre du jour.
+L'Autorité centrale pour l'adoption internationale bénéficie, en tant que de besoin, du concours des services compétents relevant des autres ministres, notamment le ministre de la justice et le ministre chargé de la famille.
 
-Pour l'examen de tout ou partie de l'ordre du jour, le président peut autoriser l'audition de toute personne dont l'avis ou l'expertise lui paraît utile.
+Des magistrats, des fonctionnaires des autres services de l'Etat et des fonctionnaires territoriaux peuvent être mis à sa disposition ou détachés auprès d'elle dans les conditions prévues par l'ordonnance n° 58-1270 du 22 décembre 1958, la loi n° 84-53 du 26 janvier 1984 et le décret n° 85-986 du 16 septembre 1985.
+
+Les services compétents des départements, l'Agence française de l'adoption et les organismes privés autorisés et habilités pour l'adoption internationale peuvent également lui apporter leur concours.
