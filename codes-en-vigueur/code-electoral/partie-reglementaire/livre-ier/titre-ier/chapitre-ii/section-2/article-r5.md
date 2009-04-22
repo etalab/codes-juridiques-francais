@@ -2,7 +2,7 @@
 
 Pour chaque révision annuelle des listes électorales, les demandes d'inscription des électeurs doivent parvenir dans les mairies jusqu'au dernier jour ouvrable de décembre inclus, le samedi étant considéré comme un jour ouvrable.
 
-Les demandes d'inscription doivent soit être déposées personnellement ou par l'intermédiaire d'un mandataire, muni d'un mandat écrit, soit être adressées par courrier, au moyen du formulaire agréé prévu à cet effet.
+Les demandes d'inscription doivent soit être déposées personnellement ou par l'intermédiaire d'un mandataire, muni d'un mandat écrit, soit être adressées par courrier, au moyen du formulaire agréé prévu à cet effet. Elles peuvent également être admises dans le cadre d'une téléprocédure dans les conditions agréées par le ministre de l'intérieur.
 
 Les demandes doivent être accompagnées des pièces de nature à prouver que le demandeur remplit les conditions fixées aux articles L. 11 et L. 12 à L. 15-1. La liste de ces pièces est fixée par arrêté du ministre de l'intérieur.
 
