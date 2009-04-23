@@ -26,6 +26,8 @@ I.-Ces informations, à l'exception de celles relatives aux gages constitués su
 
 11° Aux fonctionnaires de la police nationale et du contrôle des transports terrestres ainsi qu'aux militaires de la gendarmerie nationale, aux seules fins de vérifier la régularité de la situation des redevables au regard des taxes sur les poids lourds prévues aux articles 269 à 283 quinquies et 285 septies du code des douanes et d'identifier les auteurs des manquements au regard de ces taxes ;
 
-12° Aux personnels agréés du prestataire autorisé par l'Etat à exploiter les appareils de contrôle automatique et à procéder à la constatation des manquements au regard des taxes sur les poids lourds prévues aux articles 269 à 283 quinquies et 285 septies du code des douanes, aux seules fins de vérifier la régularité de la situation des redevables au regard de ces taxes et d'identifier les auteurs des manquements au regard de ces taxes.
+12° Aux personnels agréés du prestataire autorisé par l'Etat à exploiter les appareils de contrôle automatique et à procéder à la constatation des manquements au regard des taxes sur les poids lourds prévues aux articles 269 à 283 quinquies et 285 septies du code des douanes, aux seules fins de vérifier la régularité de la situation des redevables au regard de ces taxes et d'identifier les auteurs des manquements au regard de ces taxes ;
+
+13° Aux constructeurs de véhicules ou à leurs mandataires pour les besoins des rappels de sécurité et des rappels de mise au point des véhicules.
 
 II.-Les entreprises d'assurances doivent fournir à l'appui de leur demande tous éléments utiles permettant de vérifier la réalité du sinistre.

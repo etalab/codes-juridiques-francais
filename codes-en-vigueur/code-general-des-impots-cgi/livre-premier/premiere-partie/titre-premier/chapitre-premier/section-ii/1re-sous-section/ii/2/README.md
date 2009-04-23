@@ -54,6 +54,7 @@
 - [Article 39 quindecies](article-39-quindecies.md)
 - [Article 39 quindecies A](article-39-quindecies-a.md)
 - [Article 39 octodecies](article-39-octodecies.md)
+- [Article 39 novodecies](article-39-novodecies.md)
 - [Article 39 A](article-39-a.md)
 - [Article 39 AA](article-39-aa.md)
 - [Article 39 AA bis](article-39-aa-bis.md)
