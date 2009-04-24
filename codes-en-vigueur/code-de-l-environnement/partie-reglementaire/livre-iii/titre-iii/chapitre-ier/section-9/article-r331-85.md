@@ -2,15 +2,21 @@
 
 Les dispositions relatives à chacun des parcs nationaux sont énoncées aux décrets suivants :
 
-1° Décret n° 63-651 du 6 juillet 1963 créant le parc national de la Vanoise ;
+1°
+Décret n° 2009-447 du 21 avril 2009
+pris pour l'adaptation de la délimitation et de la réglementation du parc national de la Vanoise aux dispositions du code de l'environnement issues de la loi n° 2006-436 du 14 avril 2006
 
-2° Décret n° 63-1235 du 14 décembre 1963 créant le parc national de Port-Cros ;
+2°
+Décret n° 2009-449 du 22 avril 2009
+pris pour l'adaptation de la délimitation et de la réglementation du parc national de Port-Cros aux dispositions du code de l'environnement issues de la loi n° 2006-436 du 14 avril 2006 ;
 
 3° Décret n° 2009-406 du 15 avril 2009 pris pour l'adaptation de la délimitation et de la réglementation du parc national des Pyrénées occidentales aux dispositions du code de l'environnement issues de la loi n° 2006-436 du 14 avril 2006 ;
 
 4° Décret n° 70-777 du 2 septembre 1970 créant le parc national des Cévennes ;
 
-5° Décret n° 73-378 du 27 mars 1973 créant le parc national des Ecrins ;
+5°
+Décret n° 2009-448 du 21 avril 2009
+pris pour l'adaptation de la délimitation et de la réglementation du parc national des Ecrins aux dispositions du code de l'environnement issues de la loi n° 2006-436 du 14 avril 2006 ;
 
 6° Décret n° 79-696 du 18 août 1979 créant le parc national du Mercantour ;
 
