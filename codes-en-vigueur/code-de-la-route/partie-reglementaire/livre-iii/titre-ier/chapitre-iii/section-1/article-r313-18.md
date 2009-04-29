@@ -4,6 +4,8 @@ Catadioptres arrière.
 
 I. - Sauf dispositions différentes prévues au présent article, tout véhicule à moteur ou toute remorque doit être muni de deux catadioptres arrière rouges, de forme non triangulaire pour les véhicules à moteur et de forme triangulaire pour les remorques.
 
+Toutefois, les remorques peuvent également être munies de deux catadioptres arrière rouges, de forme non triangulaire, à condition qu'ils soient groupés avec les dispositifs arrière de signalisation lumineuse.
+
 II. - Toute motocyclette, tout cyclomoteur à deux roues doit être muni à l'arrière d'un catadioptre.
 
 III. - Tout tricycle à moteur, tout quadricycle à moteur, tout cyclomoteur à trois roues doit être muni d'un ou de deux catadioptres arrière.
