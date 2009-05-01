@@ -4,7 +4,7 @@ Si la société n'agrée pas le cessionnaire proposé, il est procédé conform�
 
 Si l'acquéreur est un tiers à la société, les dispositions des articles R. 743-44 et R. 743-125 sont applicables.
 
-Si les titres de capital ou parts sociales sont acquis par la société ou par un ou plusieurs associés exerçant en son sein, il est procédé conformément à l'article R. 743-45. En ce cas, l'expédition ou l'un des originaux de l'acte de cession est adressé au procureur de la République.
+Si les titres de capital ou parts sociales sont acquis par la société ou par un ou plusieurs associés exerçant en son sein, il est procédé conformément à l'article R. 743-45. En ce cas, l'expédition ou l'un des originaux de l'acte de cession est adressé au procureur général.
 
 Le cessionnaire prend, par écrit, l'engagement de payer le prix fixé ; son engagement est joint à sa requête et une copie du projet d'acte de cession tient lieu de l'expédition ou de l'un des originaux visés au deuxième alinéa de l'article R. 743-44.
 
