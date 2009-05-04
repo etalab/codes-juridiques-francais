@@ -2,3 +2,4 @@
 
 - [Section 1 : Travail à temps partiel](section-1)
 - [Section unique  Travail à temps partiel](section-unique)
+- [Section 2 : Travail intermittent](section-2)
