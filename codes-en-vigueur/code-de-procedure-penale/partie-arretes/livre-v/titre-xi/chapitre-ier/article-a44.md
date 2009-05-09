@@ -1899,7 +1899,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>Maison d'arrêt de Nancy. </p>
+<p>Centre pénitentiaire de Nancy-Maxéville </p>
 </td>
 </tr>
 <tr>
