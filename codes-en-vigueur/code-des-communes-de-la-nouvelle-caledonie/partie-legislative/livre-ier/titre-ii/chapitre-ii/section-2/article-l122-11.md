@@ -8,7 +8,9 @@ Le maire peut également donner, sous sa surveillance et sa responsabilité, par
 
 1° Au secrétaire général et au secrétaire général adjoint de mairie dans les communes ;
 
-2° Au directeur général des services techniques et au directeur des services techniques des communes.
+2° Au directeur général des services techniques et au directeur des services techniques des communes ;
+
+3° Aux responsables de services communaux.
 
 Ces délégations subsistent tant qu'elles ne sont pas rapportées.
 

@@ -1,4 +1,4 @@
-# Sous-section 1 : De la constitution avec appel public à l'épargne.
+# Sous-section 1 : De la constitution avec offre au public.
 
 - [Article L225-2](article-l225-2.md)
 - [Article L225-3](article-l225-3.md)

@@ -5,5 +5,4 @@
 - [Article 1979](article-1979.md)
 - [Article 1980](article-1980.md)
 - [Article 1981](article-1981.md)
-- [Article 1982](article-1982.md)
 - [Article 1983](article-1983.md)

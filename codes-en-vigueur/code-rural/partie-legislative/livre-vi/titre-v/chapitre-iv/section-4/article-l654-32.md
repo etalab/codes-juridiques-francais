@@ -6,7 +6,7 @@ a) Ont notifié aux producteurs qui leur livrent du lait des quantités de réf�
 
 b) N'ont pas notifié, dans les délais réglementaires, une quantité de référence individuelle à chacun des producteurs qui leur livrent du lait pour chaque période d'application du régime ;
 
-c) N'ont pas affecté, pour chaque période d'application du régime du prélèvement, à chacun des producteurs qui leur livrent du lait, la quantité de référence et le taux de référence de matière grasse individuelles dont ces producteurs disposent, ou n'ont pas attribué, conformément aux normes réglementaires en vigueur, les avoirs ou les remboursements de prélèvement ;
+c) N'ont pas affecté, pour chaque période d'application du régime du prélèvement, à chacun des producteurs qui leur livrent du lait, la quantité de référence et le taux de référence de matière grasse individuelles dont ces producteurs disposent, ou n'ont pas attribué, conformément aux normes réglementaires en vigueur, les avoirs ou les remboursements de prélèvement, les allocations provisoires ou les prêts de quantités de référence ;
 
 d) N'ont pas communiqué aux représentants de l'Etat dans les départements dans lesquels ils collectent du lait et au directeur général de l'établissement mentionné à l'article L. 621-1 les informations concernant la situation individuelle des producteurs de lait au regard du prélèvement, établies en conformité avec les normes réglementaires, complètes et exploitables.
 
@@ -26,7 +26,7 @@ i) N'ont pas déclaré à l'établissement mentionné à l'article L. 621-1, dan
 
 j) N'ont pas déclaré à l'établissement mentionné à l'article L. 621-1, dans les délais et les formes réglementaires, les informations complètes et exploitables relatives aux producteurs qui changent d'acheteur ;
 
-k) N'ont pas déclaré à l'établissement mentionné à l'article L. 621-1, dans les délais et les formes réglementaires, les informations complètes et exploitables relatives aux producteurs n'ayant pas utilisé, durant deux campagnes successives,70 % au moins de la quantité individuelle de référence dont ils disposent, notamment les volumes de lait que ces producteurs ont livrés, en tenant compte du taux de matière grasse ;
+k) N'ont pas déclaré à l'établissement mentionné à l'article L. 621-1, dans les délais et les formes réglementaires, les informations complètes et exploitables relatives aux producteurs n'ayant pas utilisé, durant deux campagnes successives, 70 % au moins de la quantité individuelle de référence dont ils disposent, notamment les volumes de lait que ces producteurs ont livrés, en tenant compte du taux de matière grasse ;
 
 l) Ne sont pas en mesure d'attester, selon les modalités réglementaires, l'exactitude des instruments de mesure du volume ainsi que de la méthode de prélèvement des échantillons servant à la mesure de la teneur en matière grasse du lait collecté, la fiabilité du décompte des quantités de lait collectées en fonction de l'organisation de la collecte qu'ils mettent en place et l'exactitude du décompte de la quantité de lait au moment du déchargement, au regard des quantités de lait collectées ;
 

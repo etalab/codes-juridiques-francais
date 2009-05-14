@@ -8,7 +8,7 @@ Le maire peut, en outre, par délégation du conseil municipal, être chargé, e
 
 3° De procéder, dans les limites fixées par le conseil municipal, à la réalisation des emprunts destinés au financement des investissements prévus par le budget, et aux opérations financières utiles à la gestion des emprunts, y compris les opérations de couvertures des risques de taux et de change ainsi que de prendre les décisions mentionnées au III de l'article L. 1618-2 et au a de l'article L. 2221-5-1, sous réserve des dispositions du c de ce même article, et de passer à cet effet les actes nécessaires ;
 
-4° De prendre toute décision concernant la préparation, la passation, l'exécution et le règlement des marchés et des accords-cadres ainsi que toute décision concernant leurs avenants                , lorsque les crédits sont inscrits au budget ;
+4° De prendre toute décision concernant la préparation, la passation, l'exécution et le règlement des marchés et des accords-cadres ainsi que toute décision concernant leurs avenants, lorsque les crédits sont inscrits au budget ;
 
 5° De décider de la conclusion et de la révision du louage de choses pour une durée n'excédant pas douze ans ;
 
@@ -44,4 +44,6 @@ Le maire peut, en outre, par délégation du conseil municipal, être chargé, e
 
 21° D'exercer, au nom de la commune et dans les conditions fixées par le conseil municipal, le droit de préemption défini par l'article L. 214-1 du code de l'urbanisme ;
 
-22° D'exercer au nom de la commune le droit de priorité défini aux articles L. 240-1 et suivants du code de l'urbanisme.
+22° D'exercer au nom de la commune le droit de priorité défini aux articles L. 240-1 et suivants du code de l'urbanisme ;
+
+23° De prendre les décisions mentionnées aux articles L. 523-4 et L. 523-5 du code du patrimoine relatives à la réalisation de diagnostics d'archéologie préventive prescrits pour les opérations d'aménagement ou de travaux sur le territoire de la commune.

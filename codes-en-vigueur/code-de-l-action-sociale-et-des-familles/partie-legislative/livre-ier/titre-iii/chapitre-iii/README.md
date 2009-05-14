@@ -7,5 +7,4 @@
 - [Article L133-5](article-l133-5.md)
 - [Article L133-5-1](article-l133-5-1.md)
 - [Article L133-6](article-l133-6.md)
-- [Article L133-6-1](article-l133-6-1.md)
 - [Article L133-7](article-l133-7.md)

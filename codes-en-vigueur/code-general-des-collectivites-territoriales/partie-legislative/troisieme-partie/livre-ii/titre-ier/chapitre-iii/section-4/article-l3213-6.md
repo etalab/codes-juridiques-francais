@@ -1,3 +1,3 @@
 # Article L3213-6
 
-Le conseil général statue sur l'acceptation des dons et legs faits au département.
+Sous réserve des dispositions de l'article L. 3211-2, le conseil général statue sur l'acceptation des dons et legs faits au département.

@@ -4,7 +4,7 @@ I. Sont exclus du champ d'application de la taxe locale d'équipement :
 
 1° Les constructions qui sont destinées à être affectées à un service public ou d'utilité publique, et dont la liste est fixée par un décret en Conseil d'Etat ;
 
-2° Les constructions édifiées dans les zones d'aménagement concerté au sens de l'article L. 311-1 du code de l'urbanisme lorsque le coût des équipements, dont la liste est fixée par un décret en Conseil d'Etat, a été mis à la charge des constructeurs, cette liste pouvant être complétée pour chaque commune par une délibération du conseil municipal, valable pour une durée minimum de trois ans.
+2° Les constructions édifiées dans les zones d'aménagement concerté au sens de l'article L. 311-1 du code de l'urbanisme lorsque le coût des équipements, dont la liste est fixée par un décret en Conseil d'Etat, a été mis à la charge de l'aménageur ou des constructeurs, cette liste pouvant être complétée pour chaque commune par une délibération du conseil municipal, valable pour une durée minimum de trois ans.
 
 3° Les constructions édifiées dans les secteurs de la commune où un programme d'aménagement d'ensemble a été approuvé par le conseil municipal lorsque ce dernier a décidé de mettre à la charge des constructeurs tout ou partie du coût des équipements publics réalisés conformément à l'article L. 332-9 du code de l'urbanisme.
 

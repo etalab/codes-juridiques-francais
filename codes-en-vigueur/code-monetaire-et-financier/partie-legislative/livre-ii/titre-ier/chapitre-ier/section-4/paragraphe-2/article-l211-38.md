@@ -4,7 +4,7 @@ I. ― A titre de garantie des obligations financières présentes ou futures me
 
 Les dettes et créances relatives à ces garanties et celles afférentes à ces obligations sont alors compensables conformément au I de l'article L. 211-36-1.
 
-II. ― Lorsque les garanties mentionnées au I sont relatives aux obligations financières mentionnées aux 2° et 3° de l'article L. 211-36-1 :
+II. ― Lorsque les garanties mentionnées au I sont relatives aux obligations financières mentionnées aux 2° et 3° de l'article L. 211-36 :
 
 1° La constitution de telles garanties et leur opposabilité ne sont subordonnées à aucune formalité. Elles résultent du transfert des biens et droits en cause, de la dépossession du constituant ou de leur contrôle par le bénéficiaire ou par une personne agissant pour son compte ;
 

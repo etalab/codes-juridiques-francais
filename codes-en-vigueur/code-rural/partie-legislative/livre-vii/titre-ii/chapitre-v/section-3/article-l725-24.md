@@ -2,7 +2,7 @@
 
 Les caisses de mutualité sociale agricole doivent se prononcer de manière explicite sur toute demande d'un cotisant ou futur cotisant, présentée en sa qualité d'employeur, ayant pour objet de connaître l'application à sa situation au regard de la législation relative :
 
-1° Au dispositif de taux réduits de cotisations patronales de sécurité sociale pour l'emploi de travailleurs occasionnels et de demandeurs d'emploi prévu par les  articles L. 741-5 et L. 741-16 ;
+1° Au dispositif de taux réduits de cotisations patronales de sécurité sociale pour l'emploi de travailleurs occasionnels et de demandeurs d'emploi prévu par les articles L. 741-5 et L. 741-16 ;
 
 2° Aux exonérations de cotisations de sécurité sociale ;
 
@@ -26,4 +26,4 @@ Un cotisant affilié auprès d'une nouvelle caisse de mutualité sociale agricol
 
 Lorsque la caisse de mutualité sociale agricole entend modifier pour l'avenir sa décision, elle en informe le cotisant.
 
-Un décret en Conseil d'Etat définit les modalités d'application du présent article.
+Un décret en Conseil d'Etat définit les modalités d'application du présent article, notamment les conditions dans lesquelles les décisions rendues par les organismes de recouvrement font l'objet d'une publicité.

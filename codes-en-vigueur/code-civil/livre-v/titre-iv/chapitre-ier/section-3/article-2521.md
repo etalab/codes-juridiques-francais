@@ -16,7 +16,7 @@ e) La superficie ;
 
 f) Les servitudes ;
 
-g) L'antichrèse ;
+g) Le gage immobilier ;
 
 h) Le droit réel résultant d'un titre d'occupation du domaine public de l'Etat ou de l'un de ses établissements publics délivré en application du code du domaine de l'Etat et des collectivités publiques applicable à Mayotte ;
 

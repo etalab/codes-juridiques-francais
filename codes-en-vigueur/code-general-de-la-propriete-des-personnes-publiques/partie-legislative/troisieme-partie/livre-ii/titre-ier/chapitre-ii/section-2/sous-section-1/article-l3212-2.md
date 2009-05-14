@@ -8,4 +8,6 @@ Par dérogation aux dispositions du premier alinéa de l'article L. 3211-18, peu
 
 3° Les cessions des matériels informatiques dont les services de l'Etat ou de l'un de ses établissements publics n'ont plus l'emploi et dont la valeur unitaire n'excède pas un seuil fixé par décret aux associations de parents d'élèves aux associations de soutien scolaire et aux associations d'étudiants. Les associations s'engagent par écrit à n'utiliser les matériels qui leur sont cédés que pour l'objet prévu par leurs statuts, à l'exclusion de tout autre. Elles ne peuvent procéder à la cession, à titre onéreux, des biens ainsi alloués, à peine d'être exclues du bénéfice des présentes mesures ;
 
-4° Les cessions de matériels et d'équipements destinés à l'enseignement et à la recherche scientifiques, lorsqu'ils ont été remis, dans le cadre d'une convention de coopération, à un organisme assurant des missions de même nature.
+4° Les cessions de matériels et d'équipements destinés à l'enseignement et à la recherche scientifiques, lorsqu'ils ont été remis, dans le cadre d'une convention de coopération, à un organisme assurant des missions de même nature ;
+
+5° Les cessions des matériels informatiques et des logiciels nécessaires à leur utilisation, dont les services de l'Etat ou de l'un de ses établissements publics n'ont plus l'emploi et dont la valeur unitaire n'excède pas un plafond fixé par décret, aux personnels des administrations concernées.

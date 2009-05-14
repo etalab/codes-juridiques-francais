@@ -14,5 +14,4 @@
 - [Article L623-32-1](article-l623-32-1.md)
 - [Article L623-32-2](article-l623-32-2.md)
 - [Article L623-33](article-l623-33.md)
-- [Article L623-34](article-l623-34.md)
 - [Article L623-35](article-l623-35.md)

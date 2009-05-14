@@ -1,3 +1,3 @@
-# TITRE V : PRÉVENTION DES RISQUES D'EXPOSITION AUX RAYONNEMENTS IONISANTS
+# TITRE V : PRÉVENTION DES RISQUES D'EXPOSITION AUX RAYONNEMENTS
 
-- [Chapitre Ier : Principes et dispositions d'application.](chapitre-ier)
+- [Chapitre Ier : Prévention des risques d'exposition aux rayonnements ionisants.](chapitre-ier)

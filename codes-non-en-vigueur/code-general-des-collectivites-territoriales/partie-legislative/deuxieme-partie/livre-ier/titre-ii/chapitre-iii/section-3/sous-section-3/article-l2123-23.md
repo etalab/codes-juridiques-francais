@@ -79,4 +79,4 @@ Les indemnités maximales votées par les conseils municipaux pour l'exercice ef
 </tbody>
 </table>
 
-La population à prendre en compte est la population municipale du dernier recensement.
+La population à prendre en compte est la population totale du dernier recensement.

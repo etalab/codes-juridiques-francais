@@ -4,4 +4,4 @@ Un organisme de contrôle, qui peut être un organisme certificateur ou un organ
 
 Constitue un opérateur au sens du présent chapitre toute personne qui participe effectivement aux activités de production, de transformation ou d'élaboration d'un produit bénéficiant d'un signe d'identification de la qualité et de l'origine prévues par le cahier des charges.
 
-L'utilisation d'un signe d'identification de la qualité et de l'origine est subordonnée aux résultats des contrôles effectués.
+L'utilisation d'un signe d'identification de la qualité et de l'origine est subordonnée à l'identification des opérateurs auprès de l'organisme de défense et de gestion en vue de leur habilitation, au respect du plan de contrôle ou du plan d'inspection approuvé par l'Institut national de l'origine et de la qualité, et aux résultats des contrôles effectués.

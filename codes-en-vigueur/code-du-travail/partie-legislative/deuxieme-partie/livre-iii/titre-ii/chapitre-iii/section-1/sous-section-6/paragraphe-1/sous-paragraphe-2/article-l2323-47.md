@@ -6,6 +6,6 @@ A cette occasion, l'employeur informe le comité d'entreprise des éléments qui
 
 Les membres du comité d'entreprise reçoivent le rapport annuel quinze jours avant la réunion.
 
-Le rapport, modifié le cas échéant à la suite de la réunion du comité d'entreprise, est transmis à l'inspecteur du travail, accompagné de l'avis du comité, dans les quinze jours qui suivent.
+Le rapport, modifié le cas échéant à la suite de la réunion du comité d'entreprise, est tenu à la disposition de l'inspecteur du travail, accompagné de l'avis du comité, dans les quinze jours qui suivent la réunion.
 
 Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat.

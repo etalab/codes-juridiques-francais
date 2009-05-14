@@ -14,7 +14,7 @@ e) La taxe spéciale d'équipement prévue à l'article 1599-0 B du code génér
 
 2° a) La participation pour raccordement à l'égout prévue à l'article L. 1331-7 code de la santé publique ;
 
-b) La participation destinée à la réalisation de parcs publics de stationnement prévue au troisième alinéa de l'article L. 421-3 ;
+b) La participation destinée à la réalisation de parcs publics de stationnement prévue à l'article L. 332-7-1 ;
 
 c) La participation spécifique pour la réalisation d'équipements publics exceptionnels prévue à l'article L. 332-8 ;
 

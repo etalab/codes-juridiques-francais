@@ -6,7 +6,7 @@ Cette demande peut être formulée :
 
 2° lorsque le propriétaire se refuse à participer, au moins en proportion de sa part dans les bénéfices, aux investissements en cheptel ou en matériel indispensables à l'exploitation ;
 
-3° lorsque, en raison d'une clause du bail ou d'un accord entre les parties, le colon est propriétaire de plus de deux tiers du cheptel et du matériel ;
+3° lorsque, en raison d'une clause du bail ou d'un accord entre les parties, le métayer  est propriétaire de plus de deux tiers du cheptel et du matériel ;
 
 4° lorsqu'une constante collaboration entre les parties n'a pu être assurée par le fait du bailleur ;
 

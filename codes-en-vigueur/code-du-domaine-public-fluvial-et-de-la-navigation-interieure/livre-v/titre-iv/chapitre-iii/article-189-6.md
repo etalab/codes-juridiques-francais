@@ -12,4 +12,4 @@ IV bis.-Est punie d'une amende de 15 000 euros la méconnaissance, par le cocont
 
 V.-Les II, III, IV et IV bis sont applicables aux contrats de commission de transport pour la part relative à l'organisation du transport fluvial de marchandises ainsi qu'aux contrats de location d'un bateau de marchandises avec équipage.
 
-VI.-Les quatrième à sixième alinéas de l'article 209 s'appliquent aux infractions prévues au présent article.
+VI.-Les deuxième à quatrième alinéas de l'article 209 s'appliquent aux infractions prévues au présent article.

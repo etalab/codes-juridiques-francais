@@ -15,5 +15,3 @@ Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende :
 1° Le fait d'exercer des fonctions à quelque titre que ce soit en vue de l'accueil de mineurs mentionnés à l'article L. 227-4, ou d'exploiter les locaux accueillant ces mineurs malgré les incapacités prévues à l'article L. 133-6 ;
 
 2° Le fait de ne pas exécuter les décisions préfectorales prévues aux articles L. 227-5, L. 227-10 et L. 227-11.
-
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du code pénal, des infractions définies au présent article.

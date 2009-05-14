@@ -24,3 +24,4 @@
 - [Article L562-22](article-l562-22.md)
 - [Article L562-23](article-l562-23.md)
 - [Article L562-24](article-l562-24.md)
+- [Article L562-24-1](article-l562-24-1.md)

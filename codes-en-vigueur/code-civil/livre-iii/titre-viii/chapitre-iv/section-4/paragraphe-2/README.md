@@ -1,4 +1,4 @@
-# Paragraphe 2 : Du cheptel donné au colon partiaire.
+# Paragraphe 2 : Du cheptel donné au métayer.
 
 - [Article 1827](article-1827.md)
 - [Article 1828](article-1828.md)

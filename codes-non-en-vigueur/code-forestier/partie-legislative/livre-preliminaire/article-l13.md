@@ -8,6 +8,6 @@ La politique conduite dans le but de promouvoir la qualité des produits foresti
 
 3° Fixer sur le territoire les capacités de transformation des produits forestiers et assurer le maintien de l'activité économique, notamment en zone rurale défavorisée.
 
-Les procédures de certification qui sont effectuées en conformité avec les articles L. 115-27 et suivants du code de la consommation concourent aux objectifs de la politique forestière.
+Les procédures de certification de gestion durable des forêts sont reconnues bénéficier de la certification de conformité environnementale ou écocertification prévue par les articles L. 115-27 à L. 115-33 du code de la consommation.
 
-Les produits forestiers fabriqués à partir de bois récoltés dans le cadre de l'un des documents de gestion visés aux a, b, c et d de l'article L. 4 peuvent prétendre à bénéficier d'une certification de conformité environnementale ou écocertification.
+Les produits forestiers fabriqués à partir de bois récoltés dans le cadre de l'un des documents de gestion visés aux a à d de l'article L. 4 du présent code ou issus d'une forêt bénéficiant d'une certification de gestion durable des forêts peuvent prétendre à bénéficier d'une certification de conformité environnementale ou écocertification.

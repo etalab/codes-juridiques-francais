@@ -8,7 +8,7 @@ Les animaux attachés à la culture ;
 
 Les ustensiles aratoires ;
 
-Les semences données aux fermiers ou colons partiaires ;
+Les semences données aux fermiers ou métayers ;
 
 Les pigeons des colombiers ;
 
@@ -16,7 +16,7 @@ Les lapins des garennes ;
 
 Les ruches à miel ;
 
-Les poissons des eaux non visées à l'article 402 du code rural et des plans d'eau visés aux articles 432 et 433 du même code ;
+Les poissons des eaux non visées à l'article 402 du code rural et des plans d'eau visés aux articles 432 et 433  du même code ;
 
 Les pressoirs, chaudières, alambics, cuves et tonnes ;
 
