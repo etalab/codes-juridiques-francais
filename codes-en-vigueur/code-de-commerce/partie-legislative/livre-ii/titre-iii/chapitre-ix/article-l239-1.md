@@ -12,7 +12,7 @@ La location d'actions ou de parts sociales ne peut pas porter sur des titres :
 
 3° Détenus par un fonds commun de placement à risques, un fonds commun de placement dans l'innovation ou un fonds d'investissement de proximité respectivement mentionnés aux articles L. 214-36, L. 214-41 et L. 214-41-1 du code monétaire et financier.
 
-A peine de nullité, les actions ou parts louées ne peuvent faire l'objet d'une sous-location ou d'un prêt de titres au sens des articles L. 432-6 à L. 432-11 du même code.
+A peine de nullité, les actions ou parts louées ne peuvent faire l'objet d'une sous-location ou d'un prêt de titres au sens des articles L. 211-22 à L. 211-26 du même code.
 
 Les actions des sociétés par actions ou les parts sociales des sociétés à responsabilité limitée, lorsque les unes ou les autres de ces sociétés sont constituées pour l'exercice des professions visées à l'article 1er de la loi n° 90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé et aux sociétés de participations financières de professions libérales, ne peuvent pas faire l'objet du contrat de bail prévu au présent article, sauf au profit de professionnels salariés ou collaborateurs libéraux exerçant en leur sein.
 
