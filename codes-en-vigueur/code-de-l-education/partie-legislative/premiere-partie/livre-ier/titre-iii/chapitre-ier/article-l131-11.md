@@ -6,10 +6,4 @@ Les manquements aux obligations résultant des articles L. 131-10 et L. 442-2 du
 
 Le fait, par un directeur d'établissement privé accueillant des classes hors contrat, de n'avoir pas pris, malgré la mise en demeure de l'inspecteur d'académie, les dispositions nécessaires pour que l'enseignement qui y est dispensé soit conforme à l'objet de l'instruction obligatoire, tel que celui-ci est défini par les articles L. 131-1-1 et L. 131-10 du code de l'éducation, et de n'avoir pas procédé à la fermeture de ces classes est puni de six mois d'emprisonnement et de 7500 euros d'amende. En outre, le tribunal peut ordonner à l'encontre de celui-ci l'interdiction de diriger ou d'enseigner ainsi que la fermeture de l'établissement. "
 
-" Art. 227-17-2.-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction définie au second alinéa de l'article 227-17-1.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende suivant les modalités prévues par l'article 131-38 ;
-
-2° Les peines mentionnées à l'article 131-39. "
+" Art. 227-17-2.-Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, des infractions définies aux articles 227-15 à 227-17-1 encourent, outre l'amende suivant les modalités prévues par l'article 131-38, les peines prévues par l'article 131-39."
