@@ -4,7 +4,7 @@ Le certificat d'aptitude prévu à l'article R. 822-2 est organisé chaque anné
 
 Les candidats au titre de l'article R. 822-2 déposent au siège de la compagnie des commissaires aux comptes de leur domicile, entre le 1er et le 30 juin, leur demande accompagnée de tous documents officiels justificatifs de l'identité et de la nationalité et la justification de leur stage professionnel.
 
-En outre, ils justifient de la possession de l'un des diplômes ou titres prévus par le présent livre.
+En outre, ils justifient de la possession de l'un des diplômes ou titres prévus à l'article A. 822-1.
 
 S'ils demandent à bénéficier des dispositions de l'article R. 822-5, ils fournissent au garde des sceaux, ministre de la justice, au plus tard le 30 juin, tous éléments établissant qu'ils ont exercé pendant une durée de quinze ans au moins une activité publique ou privée qui leur a permis d'acquérir dans les domaines financier, comptable et juridique intéressant les sociétés commerciales une expérience jugée suffisante par le garde des sceaux, ministre de la justice.
 

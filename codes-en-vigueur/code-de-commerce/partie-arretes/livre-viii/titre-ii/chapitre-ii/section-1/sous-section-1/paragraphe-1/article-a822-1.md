@@ -4,7 +4,7 @@ Ne peuvent être admis à se présenter au certificat d'aptitude aux fonctions d
 
 1° Diplôme national d'enseignement supérieur sanctionnant un minimum de trois années d'études après le baccalauréat ;
 
-2° Diplôme visé du ministre chargé de l'éducation nationale, délivré par un établissement d'enseignement supérieur de commerce et de gestion reconnu par l'Etat et autorisé à délivrer un tel diplôme ;
+2° Diplôme visé du ministre chargé de l'enseignement supérieur, délivré par un établissement d'enseignement supérieur de commerce et de gestion reconnu par l'Etat et autorisé à délivrer un tel diplôme ;
 
 3° Diplôme d'études comptables supérieures (DECS) ;
 
