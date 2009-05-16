@@ -1,3 +1,0 @@
-# TITRE IX : DISPOSITIONS DIVERSES
-
-- [CHAPITRE UNIQUE](chapitre-unique)
