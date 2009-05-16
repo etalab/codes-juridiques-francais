@@ -1,4 +1,4 @@
-# Titre Ier : Dispositions applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis-et-Futuna.
+# Titre Ier : Dispositions applicables en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie
 
 - [Chapitre Ier : Dispositions générales](chapitre-ier)
 - [Chapitre II : De l'action publique et de l'action civile](chapitre-ii)
