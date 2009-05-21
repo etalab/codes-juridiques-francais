@@ -1,6 +1,6 @@
 # Article R421-5
 
-Le règlement intérieur, adopté par le conseil d'administration, définit les droits et les devoirs de chacun des membres de la communauté éducative.
+Le règlement intérieur, adopté par le conseil d'administration, définit les droits et les devoirs de chacun des membres de la communauté éducative. Il rappelle les règles de civilité et de comportement.
 
 Il détermine notamment les modalités selon lesquelles sont mis en application :
 
@@ -20,6 +20,6 @@ Il détermine également les modalités :
 
 7° D'application de l'obligation d'assiduité mentionnée à l'article L. 511-1.
 
-Le règlement intérieur comporte un chapitre consacré à la discipline des élèves qui reproduit l'échelle des sanctions prévues à l'article 3 du décret n° 85-924 du 30 août 1985 relatif aux établissements publics locaux d'enseignement.
+Le règlement intérieur comporte un chapitre consacré à la discipline des élèves qui reproduit l'échelle des sanctions prévues à l'article R511-13.
 
 Le règlement intérieur est porté à la connaissance des membres de la communauté éducative. Tout manquement au règlement intérieur justifie la mise en œuvre d'une procédure disciplinaire ou de poursuites appropriées.
