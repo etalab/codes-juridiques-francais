@@ -1,6 +1,6 @@
 # Article R237-2
 
-L'acte de nomination des liquidateurs, quelle que soit sa forme, est publié, dans le délai d'un mois, dans un journal habilité à recevoir les annonces légales dans le département du siège social et, si la société a fait publiquement appel à l'épargne ou si toutes ses actions ne revêtent pas la forme nominative, au Bulletin des annonces légales obligatoires.
+L'acte de nomination des liquidateurs, quelle que soit sa forme, est publié, dans le délai d'un mois, dans un journal habilité à recevoir les annonces légales dans le département du siège social et, si les actions de la société sont admises aux négociations sur un marché réglementé ou si toutes ses actions ne revêtent pas la forme nominative, au Bulletin des annonces légales obligatoires.
 
 Il contient les indications suivantes :
 

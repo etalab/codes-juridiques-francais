@@ -2,7 +2,7 @@
 
 Les demandes d'inscription à l'ordre du jour des projets de résolution mentionnés au deuxième alinéa de l'article L. 2323-67 sont réalisées comme suit :
 
-1° Lorsque la société ne fait pas appel public à l'épargne :
+1° Lorsque toutes les actions de la société revêtent la forme nominative :
 
 a) Les demandes sont adressées par le comité d'entreprise représenté par un de ses membres, au siège social de la société ;
 
@@ -10,7 +10,7 @@ b) Elles sont formulées par lettre recommandée avec avis de réception ou par 
 
 c) Elles sont adressées dans un délai de vingt-cinq jours avant la date de l'assemblée réunie sur première convocation ;
 
-2° Lorsque la société fait appel public à l'épargne :
+2° Lorsque toutes les actions de la société ne revêtent pas la forme nominative :
 
 a) Les demandes sont adressées au siège social selon les modalités décrites au a du 1° ;
 

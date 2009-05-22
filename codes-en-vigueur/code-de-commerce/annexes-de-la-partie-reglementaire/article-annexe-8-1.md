@@ -74,7 +74,7 @@ Il fait preuve de prudence et de discrétion dans l'utilisation des informations
 
 Il ne communique les informations qu'il détient qu'aux personnes légalement qualifiées pour en connaître.
 
-TITRE II  : INTERDICTIONS SITUATIONS À RISQUE ET MESURES DE SAUVEGARDE
+TITRE II : INTERDICTIONS, SITUATIONS À RISQUE ET MESURES DE SAUVEGARDE
 
 Section 1 : Interdictions
 
@@ -134,7 +134,7 @@ Le commissaire aux comptes n'accepte pas la mission ou y met fin si celle-ci ne 
 
 En cas de doute sérieux ou de difficulté d'interprétation, il saisit, pour avis, le Haut Conseil du commissariat aux comptes, après en avoir informé le président de la compagnie régionale des commissaires aux comptes.
 
-Lorsqu'il est amené à démissionner et que la personne ou entité dont il certifie les comptes exerce une activité dans un secteur soumis à une réglementation particulière telle que l'appel public à l'épargne, la banque ou l'assurance, il informe de sa démission les instances publiques compétentes pour cette activité.
+Lorsqu'il est amené à démissionner et que la personne ou entité dont il certifie les comptes exerce une activité dans un secteur soumis à une réglementation particulière telle que celle applicable à l'admission aux négociations de titres financiers sur un marché réglementé, au secteur bancaire ou des assurances, il informe de sa démission les instances publiques compétentes pour cette activité. Ces dispositions s'appliquent également aux commissaires aux comptes de personnes ou d'entités dont les titres financiers sont offerts au public sur un système multilatéral de négociation qui se soumet aux dispositions législatives ou réglementaires visant à protéger les investisseurs contre les opérations d'initiés, les manipulations de cours ou la diffusion de fausses informations.
 
 TITRE III : ACCEPTATION, CONDUITE ET MAINTIEN DE LA MISSION DU COMMISSAIRE AUX COMPTES
 
@@ -376,7 +376,7 @@ Pour l'application des dispositions qui précèdent, il existe un lien familial 
 
 II.-Autres liens personnels :
 
-Un commissaire aux comptes ne peut accepter ou conserver une mission de contrôle légal de la part de la personne ou de l'entité qui l'a désigné, dès lors que lui-même ou l'un des membres de la direction de la société de commissaires aux comptes entretient avec cette personne ou entité ou avec une personne occupant une fonction sensible au sein de celle-ci des liens personnels étroits, affectant son indépendance.
+Un commissaire aux comptes ne peut accepter ou conserver une mission de contrôle légal de la part de la personne ou de l'entité qui l'a désigné, dès lors que lui-même ou l'un des membres de la direction de la société de commissaires aux comptes entretient avec cette personne ou entité ou avec une personne occupant une fonction sensible au sein de celle-ci des liens personnels étroits affectant son indépendance.
 
 Article 28
 
@@ -384,7 +384,7 @@ Liens financiers
 
 I.-Les liens financiers s'entendent comme :
 
-a) La détention, directe ou indirecte, d'actions ou de tous autres titres donnant ou pouvant donner accès, directement ou indirectement, au capital ou aux droits de vote de la personne ou de l'entité, sauf lorsqu'ils sont acquis par l'intermédiaire d'un organisme de placement collectif en valeurs mobilières faisant appel public à l'épargne ;
+a) La détention, directe ou indirecte, d'actions ou de tous autres titres donnant ou pouvant donner accès, directement ou indirectement, au capital ou aux droits de vote de la personne ou de l'entité, sauf lorsqu'ils sont acquis par l'intermédiaire d'un organisme de placement collectif en valeurs mobilières, à moins qu'il ne s'agisse d'un organisme de placement collectif en valeurs mobilières contractuel ou d'un fonds commun de placement à risques contractuel ;
 
 b) La détention, directe ou indirecte, de titres de créance ou de tous autres instruments financiers émis par la personne ou l'entité ;
 

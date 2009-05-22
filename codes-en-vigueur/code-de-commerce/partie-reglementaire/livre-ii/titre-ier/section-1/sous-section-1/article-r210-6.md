@@ -1,6 +1,6 @@
 # Article R210-6
 
-Lors de la constitution d'une société par actions ne faisant pas appel public à l'épargne, l'état des actes accomplis pour le compte de la société en formation, avec l'indication, pour chacun d'eux, de l'engagement qui en résulterait pour la société, est tenu à la disposition des actionnaires dans les conditions prévues à l'article R. 225-14.
+Lors de la constitution d'une société par actions sans offre au public, l'état des actes accomplis pour le compte de la société en formation, avec l'indication, pour chacun d'eux, de l'engagement qui en résulterait pour la société, est tenu à la disposition des actionnaires dans les conditions prévues à l'article R. 225-14.
 
 Cet état est annexé aux statuts, dont la signature emporte reprise des engagements par la société, lorsque celle-ci a été immatriculée au registre du commerce.
 

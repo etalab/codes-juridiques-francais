@@ -12,7 +12,7 @@ Le document prévu au premier alinéa de l'article L. 330-3 contient les informa
 
 Les informations mentionnées à l'alinéa précédent peuvent ne porter que sur les cinq dernières années qui précèdent celle de la remise du document. Elles doivent être complétées par une présentation de l'état général et local du marché des produits ou services devant faire l'objet du contrat et des perspectives de développement de ce marché.
 
-Doivent être annexés à cette partie du document les comptes annuels des deux derniers exercices ou, pour les sociétés faisant publiquement appel à l'épargne, les rapports établis au titre des deux derniers exercices en application du troisième alinéa de l'article L. 232-7 ;
+Doivent être annexés à cette partie du document les comptes annuels des deux derniers exercices ou, pour les sociétés dont les titres financiers sont admis aux négociations sur un marché réglementé, les rapports établis au titre des deux derniers exercices en application du III de l'article L. 451-1-2 du code monétaire et financier ;
 
 5° Une présentation du réseau d'exploitants qui comporte :
 
