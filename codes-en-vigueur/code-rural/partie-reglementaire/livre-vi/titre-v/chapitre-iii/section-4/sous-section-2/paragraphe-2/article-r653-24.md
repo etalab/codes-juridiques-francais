@@ -6,7 +6,7 @@ Le directeur général soumet au président les projets de délibérations du co
 
 Il a autorité sur l'ensemble du personnel.
 
-Il recrute, nomme et gère les fonctionnaires régis par le décret du 6 mai 1995 portant statut particulier des corps des adjoints techniques et des agents techniques des haras ainsi que les personnels non titulaires de l'établissement.
+Il recrute, nomme et gère les fonctionnaires membres du corps des adjoints techniques de l'établissement public Les Haras nationaux régi par le décret n° 2006-1761 du 23 décembre 2006 relatif aux dispositions statutaires communes applicables aux corps d'adjoints techniques des administrations de l'Etat ainsi que les personnels non titulaires de l'établissement.
 
 Il est ordonnateur principal des dépenses et recettes de l'établissement et peut désigner des ordonnateurs secondaires.
 
