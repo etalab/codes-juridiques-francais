@@ -1,5 +1,20 @@
-# Sous-section 3 : Bonifications.
+# Sous-section 3 : Formation, démarche de reconnaissance des savoir-faire et des compétences et validation des acquis de l'expérience des travailleurs handicapés
 
 - [Article D243-14](article-d243-14.md)
 - [Article D243-15](article-d243-15.md)
 - [Article D243-16](article-d243-16.md)
+- [Article D243-17](article-d243-17.md)
+- [Article D243-18](article-d243-18.md)
+- [Article D243-19](article-d243-19.md)
+- [Article D243-20](article-d243-20.md)
+- [Article D243-21](article-d243-21.md)
+- [Article D243-22](article-d243-22.md)
+- [Article D243-23](article-d243-23.md)
+- [Article D243-24](article-d243-24.md)
+- [Article D243-25](article-d243-25.md)
+- [Article D243-26](article-d243-26.md)
+- [Article D243-27](article-d243-27.md)
+- [Article D243-28](article-d243-28.md)
+- [Article D243-29](article-d243-29.md)
+- [Article D243-30](article-d243-30.md)
+- [Article D243-31](article-d243-31.md)

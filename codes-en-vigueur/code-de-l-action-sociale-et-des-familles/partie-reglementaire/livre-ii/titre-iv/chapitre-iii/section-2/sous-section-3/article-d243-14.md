@@ -1,7 +1,7 @@
 # Article D243-14
 
-Le système de bonifications que doivent prévoir les conventions prévues à l'article L. 323-31 du code du travail en ce qui concerne les ateliers protégés et les conventions passées avec les organismes gestionnaires des centres d'aide par le travail est applicable :
+Lorsque le travailleur handicapé accueilli en établissement ou service d'aide par le travail accède à une action de formation professionnelle, il bénéficie d'un congé de formation qui le dispense en tout ou partie de l'exercice de son activité à caractère professionnel.
 
-- aux personnes handicapées salariées en atelier protégé ou en centre de distribution du travail à domicile dont le salaire versé par l'employeur dépasse 45 % du salaire minimum de croissance ;
+Pendant la durée de ce congé de formation, le travailleur handicapé bénéficie du maintien de sa rémunération garantie.
 
-- aux personnes handicapées admises en centre d'aide par le travail dont la rémunération dépasse 15 % du salaire minimum de croissance.
+Les actions de formation professionnelle sont éligibles aux dépenses prises en charge par l'organisme paritaire collecteur agréé lorsque l'établissement ou le service d'aide par le travail verse une contribution globale auprès d'un tel organisme au titre du financement de la formation professionnelle prévu au dernier alinéa de l'article R. 243-9.
