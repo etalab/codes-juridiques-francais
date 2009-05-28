@@ -7,5 +7,3 @@ Un extrait de ces arrêtés, énumérant notamment les conditions auxquelles l'�
 Le même extrait est affiché en permanence de façon visible, à l'entrée de l'établissement, par les soins du bénéficiaire de l'autorisation.
 
 Une copie de l'arrêté est adressée aux collectivités locales consultées.
-
-Un avis est inséré par le préfet, aux frais de l'exploitant, dans deux journaux locaux ou régionaux diffusés dans tout le département.

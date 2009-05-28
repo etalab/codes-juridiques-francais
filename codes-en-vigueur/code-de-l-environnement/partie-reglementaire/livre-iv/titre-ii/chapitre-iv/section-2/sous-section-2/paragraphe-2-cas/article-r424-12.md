@@ -2,65 +2,64 @@
 
 Dans le département de la Réunion, les périodes de chasse doivent être comprises entre les dates suivantes :
 
-<div>
 <table>
-<thead>
-<tr>
-<th align="center" bgcolor="#efeff7" width="195">
-<br/>
-<font size="2"/>
-</th>
-<th align="center" bgcolor="#efeff7" width="130">
-<br/>
-<font size="2">DATE D'OUVERTURE SPÉCIFIQUE au plus tôt le</font>
-</th>
-<th align="center" bgcolor="#efeff7" width="130">
-<br/>
-<font size="2">DATE DE CLÔTURE SPÉCIFIQUE au plus tard le</font>
-</th>
-</tr>
-</thead>
 <tbody>
 <tr>
-<td align="left">
-<br/>Gibier à poil</td>
-<td align="center">
-<br/>1<sup>er</sup> juin</td>
-<td align="center">
-<br/>15 octobre</td>
+<th>
+<br/>
+</th>
+<th>
+<br/>DATE D'OUVERTURE SPÉCIFIQUE <p>au plus tôt le : <br/>
+</p>
+</th>
+<th>
+<br/>DATE DE CLÔTURE SPÉCIFIQUE <p>au plus tôt le : <br/>
+</p>
+</th>
 </tr>
 <tr>
-<td align="left">
-<br/>Tangue</td>
 <td align="center">
-<br/>15 février</td>
+<br/>Lièvre <br/>
+</td>
 <td align="center">
-<br/>15 avril</td>
+<br/>1er mai <br/>
+</td>
+<td align="center">
+<br/>15 août <br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Cerf</td>
 <td align="center">
-<br/>1<sup>er</sup> juin</td>
+<br/>Tangue <br/>
+</td>
 <td align="center">
-<br/>1<sup>er</sup> décembre</td>
+<br/>15 février <br/>
+</td>
+<td align="center">
+<br/>15 avril <br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Gibier à plume</td>
 <td align="center">
-<br/>1<sup>er</sup> juin</td>
+<br/>Cerf <br/>
+</td>
 <td align="center">
-<br/>15 août</td>
+<br/>1er juin <br/>
+</td>
+<td align="center">
+<br/>1er décembre <br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Merle</td>
 <td align="center">
-<br/>1<sup>er</sup> juillet</td>
+<br/>Gibier à plume <br/>
+</td>
 <td align="center">
-<br/>15 août</td>
+<br/>1er juin <br/>
+</td>
+<td align="center">
+<br/>15 août<br/>
+</td>
 </tr>
 </tbody>
 </table>
-</div>

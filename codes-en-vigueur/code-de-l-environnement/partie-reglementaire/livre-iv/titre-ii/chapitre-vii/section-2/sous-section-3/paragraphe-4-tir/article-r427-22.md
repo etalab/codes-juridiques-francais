@@ -115,3 +115,5 @@ Le préfet peut, par arrêté motivé, prévoir qu'il sera, compte tenu des part
 </tr>
 </tbody>
 </table>
+
+Le préfet peut prévoir, par arrêté motivé, qu'il sera tenu compte des intérêts mentionnés au 2° du I de l'article R. 427-7 pour déroger aux dispositions de l'article R. 427-21 en instaurant une période complémentaire de destruction à tir du lapin de garenne, comprise entre le 15 août et la date d'ouverture générale de la chasse.

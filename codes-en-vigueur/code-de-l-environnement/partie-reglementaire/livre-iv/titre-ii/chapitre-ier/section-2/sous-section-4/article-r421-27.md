@@ -1,6 +1,6 @@
 # Article R421-27
 
-Le directeur de la nature et des paysages exerce les fonctions de commissaire du Gouvernement auprès de l'Office national de la chasse et de la faune sauvage. Il est suppléé en cas d'absence ou d'empêchement par le directeur général de la forêt et des affaires rurales, commissaire adjoint.
+Le directeur chargé de la chasse exerce les fonctions de commissaire du Gouvernement auprès de l'Office national de la chasse et de la faune sauvage. Il est suppléé en cas d'absence ou d'empêchement par le directeur général de la forêt et des affaires rurales, commissaire adjoint.
 
 Il a accès aux réunions du conseil d'administration et de ses commissions ; il n'a pas voix délibérative mais peut être entendu chaque fois qu'il le demande. Il reçoit les convocations, ordres du jour et tous autres documents adressés aux membres du conseil d'administration.
 
