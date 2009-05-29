@@ -6,8 +6,8 @@ Dans la limite du montant fixé au premier alinéa de l'article L. 314-4 et comp
 
 a) Des orientations nationales ou locales en matière de prise en charge des personnes ;
 
-b) Des mesures législatives ou réglementaires ayant une incidence sur la masse salariale des établissements et services sanitaires, sociaux et médico-sociaux et des services concourant à leur fonctionnement du siège de leurs organismes gestionnaires.
+b) Des mesures législatives ou réglementaires ayant une incidence sur la masse salariale des établissements et services sociaux et médico-sociaux et des services concourant à leur fonctionnement du siège de leurs organismes gestionnaires.
 
-Ils peuvent également varier compte tenu de l'évolution prévisionnelle des rémunérations des personnels des établissements et services sanitaires, sociaux et médico-sociaux compte tenu de leur ancienneté ou de leur qualification.
+Ils peuvent également varier compte tenu de l'évolution prévisionnelle des rémunérations des personnels des établissements et services sociaux et médico-sociaux compte tenu de leur ancienneté ou de leur qualification.
 
 Un arrêté du ministre de l'action sociale précise les modalités de recueil auprès des départements des informations relatives aux objectifs mentionnés à l'article L. 313-8.

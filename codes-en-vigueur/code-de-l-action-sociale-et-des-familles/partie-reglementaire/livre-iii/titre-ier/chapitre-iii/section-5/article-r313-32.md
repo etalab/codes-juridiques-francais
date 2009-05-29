@@ -1,7 +1,9 @@
 # Article R313-32
 
-Ces établissements doivent être en mesure d'assurer la continuité de la prise en charge rendue nécessaire par la nature des pathologies ou les besoins des personnes accueillies en répondant à l'une des deux obligations suivantes :
+I. - Les établissements qui hébergent à titre permanent des personnes présentant des pathologies nécessitant l'usage de dispositifs médicaux fonctionnant à l'électricité et indispensables à leur sécurité doivent assurer la continuité de la prise en charge en mettant en place des moyens d'alimentation autonomes en énergie.
 
-1° S'assurer de la disponibilité de moyens d'alimentation autonomes en énergie pour les installations utilisées afin de garantir la sécurité des personnes hébergées pendant quarante-huit heures au moins ;
+II. - Lorsqu'ils ne sont pas soumis aux obligations mentionnées au I, les établissements médico-sociaux doivent prévoir les mesures, proportionnées aux besoins, leur permettant d'assurer par eux-mêmes la sécurité des personnes hébergées en cas de défaillance du réseau d'énergie.
 
-2° Prévoir les mesures permettant d'assurer, par eux-mêmes, la sécurité des personnes hébergées en cas de défaillance du réseau d'énergie ; ces mesures doivent être prévues par le représentant légal de l'établissement.
+Dans ce cas, le représentant légal de l'établissement peut avoir recours à des moyens mutualisés ou partagés avec d'autres établissements du secteur sanitaire, social, ou médico-social, ou avec d'autres établissements accueillant du public.
+
+Le recours à des moyens mutualisés ou partagés avec d'autres établissements doit faire l'objet de conventions, actualisées en fonction de l'évolution des besoins.
