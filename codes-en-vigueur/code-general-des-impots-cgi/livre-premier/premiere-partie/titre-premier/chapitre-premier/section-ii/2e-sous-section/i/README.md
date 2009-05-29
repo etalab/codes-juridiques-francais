@@ -31,3 +31,4 @@
 - [a : Plan d'épargne en actions](a)
 - [g : Copropriétés de navires de commerce](g)
 - [h : Souscription en numéraire au capital de sociétés agréées de financement de la pêche artisanale](h)
+- [j : Cotisations ou primes versées aux plans d'épargne retraite populaire ou dans le cadre de certains régimes de retraite supplémentaire obligatoires ou complémentaires facultatifs](j)

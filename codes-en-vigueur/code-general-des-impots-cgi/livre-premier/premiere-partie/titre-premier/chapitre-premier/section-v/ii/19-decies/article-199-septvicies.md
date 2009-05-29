@@ -61,3 +61,15 @@ L'application de la présente réduction d'impôt est, au titre d'une même sous
 IX. ― Le montant total des dépenses retenu pour l'application du présent article au titre, d'une part, de l'acquisition, de la construction ou de la transformation d'un logement et, d'autre part, de souscriptions de titres, ne peut excéder globalement 300 000 € par contribuable et pour une même année d'imposition.
 
 X. ― A compter de la publication d'un arrêté des ministres chargés du budget et du logement classant les communes par zones géographiques en fonction de l'offre et de la demande de logements, la réduction d'impôt prévue au présent article n'est plus accordée au titre des logements situés dans des communes classées dans des zones géographiques ne se caractérisant pas par un déséquilibre entre l'offre et la demande de logements et acquis à compter du lendemain de la date de publication de cet arrêté.
+
+XI.-Les investissements mentionnés aux I et VIII et afférents à des logements situés dans les départements d'outre-mer, à Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ou à des souscriptions employées dans les conditions définies au troisième alinéa du VIII pour le financement de tels logements ouvrent droit à la réduction d'impôt prévue au présent article dans les mêmes conditions, sous réserve des adaptations prévues au présent XI.
+
+Pour ces investissements, le taux de la réduction est égal :
+
+1° A 40 % pour les logements acquis ou construits et pour les souscriptions réalisées entre la date de promulgation de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer et le 31 décembre 2011 ;
+
+2° A 35 % pour les logements acquis ou construits et pour les souscriptions réalisées entre le 1er janvier 2012 et le 31 décembre 2013 ;
+
+3° A 35 % pour les logements acquis ou construits et pour les souscriptions réalisées entre le 1er janvier 2014 et le 31 décembre 2017, dès lors que le propriétaire s'engage à ce que les logements restent loués à l'issue de la période couverte par l'engagement mentionné au I selon les conditions prévues au V.
+
+Pour l'application du présent XI, le plafond de loyer mentionné au III du présent article ainsi que les conditions mentionnées au deuxième alinéa du l du 1° du I de l'article 31 peuvent être adaptés par décret.

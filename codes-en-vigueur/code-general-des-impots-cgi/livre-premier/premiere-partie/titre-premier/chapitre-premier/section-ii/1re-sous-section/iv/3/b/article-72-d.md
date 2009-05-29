@@ -12,7 +12,7 @@ d) A 20 000 euros lorsque ce bénéfice excède 60 000 euros.
 
 Pour les exploitations agricoles à responsabilité limitée qui n'ont pas opté pour le régime fiscal des sociétés de capitaux, le plafond est multiplié par le nombre des associés exploitants dans la limite de trois.
 
-La déduction est pratiquée après application de l'abattement prévu à l'article 73 B.
+La déduction est pratiquée après application des abattements prévus aux articles 44 quaterdecies et 73 B.
 
 Cette déduction doit être utilisée au cours des cinq exercices qui suivent celui de sa réalisation pour l'acquisition et la création d'immobilisations amortissables strictement nécessaires à l'activité ou pour l'acquisition et pour la production de stocks de produits ou animaux dont le cycle de rotation est supérieur à un an ou pour l'acquisition de parts sociales de sociétés coopératives agricoles visées à l'article L521-1 du code rural.
 
