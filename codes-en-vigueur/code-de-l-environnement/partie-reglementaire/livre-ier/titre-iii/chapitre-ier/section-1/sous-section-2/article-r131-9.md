@@ -1,39 +1,41 @@
 # Article R131-9
 
-I. - Le conseil d'administration règle par ses délibérations les affaires de l'agence. Ses délibérations portent notamment sur les objets suivants :
+I.-Le conseil d'administration règle par ses délibérations les affaires de l'agence. Ses délibérations portent notamment sur les objets suivants :
 
 1° L'organisation générale de l'agence ;
 
-2° Le programme d'activité de l'agence ;
+2° Le contrat d'objectifs pluriannuel et la convention mentionnée au V de l'article R. 131-3 ;
 
-3° L'état annuel des prévisions de recettes et de dépenses et les décisions modificatives ;
+3° Le programme d'activité de l'agence ;
 
-4° Le rapport annuel d'activité ;
+4° L'état annuel des prévisions de recettes et de dépenses et les décisions modificatives ;
 
-5° Le compte financier et les bilans annuels ;
+5° Le rapport annuel d'activité ;
 
-6° La détermination et l'affectation des résultats ;
+6° Le compte financier et les bilans annuels ;
 
-7° Les prises, extensions ou cessions de participations financières ;
+7° La détermination et l'affectation des résultats ;
 
-8° L'approbation des projets de construction, d'achat ou de vente d'immeubles, de constitution d'hypothèques ou de droits réels, des projets de baux et locations d'immeubles dont la durée est supérieure à trois ans ;
+8° Les prises, extensions ou cessions de participations financières ;
 
-9° Le régime des contrats et conventions passés par l'agence ;
+9° L'approbation des projets de construction, d'achat ou de vente d'immeubles, de constitution d'hypothèques ou de droits réels ;
 
-10° Les conditions générales d'attribution de subventions ou d'avances remboursables aux personnes publiques ou privées ;
+10° Le régime des contrats et conventions passés par l'agence ;
 
-11° L'acceptation ou le refus des dons et legs ;
+11° Les conditions générales d'attribution de subventions ou d'avances remboursables aux personnes publiques ou privées ;
 
-12° Les emprunts ;
+12° L'acceptation ou le refus des dons et legs ;
 
-13° Les conditions générales de recrutement, d'emploi et de rémunération du personnel ;
+13° Les emprunts ;
 
-14° Les actions en justice et les transactions ;
+14° Les conditions générales de recrutement, d'emploi et de rémunération du personnel ;
 
-15° Toutes questions se rapportant à l'objet de l'agence qui lui sont soumises par l'un des ministres de tutelle.
+15° Les actions en justice et les transactions ;
 
-II. - Le conseil d'administration fixe également :
+16° Toutes questions se rapportant à l'objet de l'agence qui lui sont soumises par l'un des ministres de tutelle.
 
-1° Les montants au-dessus desquels les contrats, conventions ou marchés, autres que ceux visés aux 8° et 12° du I, ne peuvent être passés qu'avec son autorisation ;
+II.-Le conseil d'administration fixe également :
 
-2° Les modalités et critères d'attribution des concours financiers de l'agence pour chaque type d'opération. Le conseil fixe en outre les modalités et seuils de saisine des commissions nationales des aides mentionnées à l'article R. 131-15 et des commissions régionales des aides mentionnées à l'article R. 131-18 ainsi que les seuils en fonction desquels les décisions sont prises soit par le président, soit par les délégués régionaux.
+1° Les montants au-dessus desquels les décisions d'octroi de subventions, contrats, conventions ou marchés, autres que ceux visés aux 9° et 13° du I, ne peuvent être passés qu'avec son autorisation ;
+
+2° Les modalités et critères d'attribution des concours financiers de l'agence pour chaque type d'opération. Le conseil fixe en outre les modalités et seuils de saisine des commissions nationales des aides mentionnées à l'article R. 131-15 et des commissions régionales des aides mentionnées à l'article R. 131-18.
