@@ -16,7 +16,9 @@ Pour les acquisitions, le bénéfice de l'exonération est subordonné à l'enga
 
 a. Les importations de matières premières et produits dont la liste est fixée par arrêtés conjoints du ministre de l'économie et des finances et du ministre d'Etat chargé des départements d'outre-mer ;
 
-b. Les ventes et les livraisons à soi-même des produits de fabrication locale analogues à ceux dont l'importation dans les départements susvisés est exemptée en vertu des dispositions qui précèdent;
+b. Les ventes et les livraisons à soi-même des produits de fabrication locale analogues à ceux dont l'importation dans les départements susvisés est exemptée en vertu des dispositions qui précèdent ;
+
+c. La livraison en l'état de biens importés en exonération de la taxe conformément au a ;
 
 6° Les importations de produits repris au tableau B de l'article 265 du code des douanes et les affaires de vente, de commission, de courtage et de façon portant sur lesdits produits dans les départements de la Guyane, de la Guadeloupe, de la Martinique et de la Réunion.
 
