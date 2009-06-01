@@ -8,7 +8,7 @@ La déclaration comporte également les indications suivantes :
 
 2° Les nom de famille, prénoms, nationalité, date et lieu de naissance du salarié ;
 
-3° Le numéro du titre de séjour de l'étranger ;
+3° Le numéro du titre de séjour de l'étranger ou le numéro du visa pour un séjour d'une durée supérieure à trois mois mentionné au 3° de l'article R. 5221-3 ;
 
 4° La nature de l'emploi, la durée du contrat et le nombre d'heures de travail annuel ;
 
