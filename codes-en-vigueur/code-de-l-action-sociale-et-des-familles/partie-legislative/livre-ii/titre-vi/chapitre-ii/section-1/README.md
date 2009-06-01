@@ -5,4 +5,3 @@
 - [Article L262-3](article-l262-3.md)
 - [Article L262-4](article-l262-4.md)
 - [Article L262-5](article-l262-5.md)
-- [Article L262-6](article-l262-6.md)
