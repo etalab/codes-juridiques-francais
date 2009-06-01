@@ -15,6 +15,4 @@ L. 232-8 et L. 245-6 du présent code ;
 
 6° Les allocations mentionnées à l'article 2 de l'ordonnance n° 2004-605 du 24 juin 2004 simplifiant le minimum vieillesse ;
 
-7° L'allocation de revenu minimum d'insertion mentionnée à l'article L. 262-1 et les primes mentionnées aux 20° et 21° de l'article R. 262-6 ;
-
-8° Le revenu de solidarité active mis en œuvre pour les bénéficiaires de ces allocations en application de l'article 19 de la loi n° 2007-1223 du 21 août 2007 en faveur du travail, de l'emploi et du pouvoir d'achat.
+7° La part du revenu de solidarité active égale à la différence entre le montant forfaitaire mentionné au 2° de l'article L. 262-2 et les ressources du foyer.

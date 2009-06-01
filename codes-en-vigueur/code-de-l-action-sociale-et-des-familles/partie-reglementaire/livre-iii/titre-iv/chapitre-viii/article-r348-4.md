@@ -1,6 +1,7 @@
 # Article R348-4
 
-I.-Les personnes hébergées en centre d'accueil pour demandeurs d'asile dont le niveau de ressources mensuelles est égal ou supérieur au montant du revenu minimum d'insertion défini à l'article L. 262-2 acquittent une participation financière à leurs frais d'hébergement et d'entretien. Le montant de cette participation est fixé par le préfet sur la base d'un barème établi par arrêté du ministre chargé de l'action sociale et du ministre chargé du budget. La décision est notifiée à l'intéressé par le directeur de l'établissement.
+I.-Les personnes hébergées en centre d'accueil pour demandeurs d'asile dont le niveau de ressources mensuelles est égal ou supérieur au montant forfaitaire du revenu de solidarité active mentionné au 2° de l'article
+L. 262-2 acquittent une participation financière à leurs frais d'hébergement et d'entretien. Le montant de cette participation est fixé par le préfet sur la base d'un barème établi par arrêté du ministre chargé de l'action sociale et du ministre chargé du budget. La décision est notifiée à l'intéressé par le directeur de l'établissement.
 
 Le barème tient compte notamment :
 

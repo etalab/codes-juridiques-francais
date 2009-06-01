@@ -32,9 +32,9 @@ Les prestations sociales mentionnées aux articles L. 271-1 et L. 271-5 sont :
 
 15° La prestation de compensation du handicap mentionnée aux I et II de l'article L. 245-1 du présent code, sauf si elle est versée dans les conditions prévues à l'article L. 245-11 ;
 
-16° L'allocation de revenu minimum d'insertion mentionné à l'article L. 262-1 et la prime forfaitaire mentionnée à l'article L. 262-11, dès lors qu'ils ne sont pas reversés par un organisme mentionné à l'article R. 262-50, ou le revenu de solidarité active mis en œuvre pour les bénéficiaires de ces allocations en application de l'article 19 de la loi n° 2007-1223 du 21 août 2007 en faveur du travail, de l'emploi et du pouvoir d'achat ;
+16° (Abrogé) ;
 
-17° L'allocation de parent isolé mentionnée à l'article L. 511-1 du code de la sécurité sociale et la prime forfaitaire instituée par l'article L. 524-5 du même code ou le revenu de solidarité active mis en œuvre pour les bénéficiaires de ces allocations en application de l'article 20 de la loi n° 2007-1223 du 21 août 2007 en faveur du travail, de l'emploi et du pouvoir d'achat ;
+17° La part du revenu de solidarité active égale à la différence entre le montant forfaitaire mentionné au 2° de l'article L. 262-2 et les ressources du foyer ;
 
 18° La prestation d'accueil du jeune enfant mentionnée à l'article L. 511-1 du code de la sécurité sociale ;
 

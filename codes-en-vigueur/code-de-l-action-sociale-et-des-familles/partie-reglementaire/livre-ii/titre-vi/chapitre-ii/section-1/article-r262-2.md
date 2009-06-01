@@ -1,9 +1,5 @@
 # Article R262-2
 
-Sous réserve des dispositions du deuxième alinéa de l'article L. 262-9, sont considérés comme à charge :
+La durée maximale pendant laquelle la majoration du montant forfaitaire mentionnée à l'article L. 262-9 est perçue est de douze mois. Pour bénéficier de cette durée maximale, la demande doit être présentée dans un délai de six mois à compter de la date à laquelle les conditions d'ouverture du droit sont réunies. Au-delà de ce délai, la durée de service de l'allocation majorée est réduite à due proportion.
 
-1° Les enfants ouvrant droit aux prestations familiales ;
-
-2° Les autres personnes de moins de vingt-cinq ans qui sont à la charge réelle et continue du bénéficiaire à condition, lorsqu'elles sont arrivées au foyer après leur dix-septième anniversaire, d'avoir avec le bénéficiaire ou son conjoint, ou le partenaire lié par un pacte civil de solidarité ou le concubin un lien de parenté jusqu'au 4e degré inclus.
-
-Toutefois, les personnes mentionnées aux 1° et 2° ne sont pas considérées comme à charge si elles perçoivent des ressources égales ou supérieures à la majoration de 50 %, de 40 % ou de 30 % qui, en raison de leur présence au foyer, s'ajoute au montant du revenu minimum.
+Toutefois, cette durée de douze mois est prolongée jusqu'à ce que le plus jeune enfant à charge ait atteint l'âge de trois ans. Cette disposition s'applique même si le parent isolé n'a assumé la charge de l'enfant qu'après la date à laquelle les conditions d'ouverture du droit à l'allocation ont été réunies.
