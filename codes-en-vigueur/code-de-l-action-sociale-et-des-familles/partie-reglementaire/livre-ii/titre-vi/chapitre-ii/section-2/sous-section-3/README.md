@@ -10,5 +10,3 @@
 - [Article D262-57](article-d262-57.md)
 - [Article D262-58](article-d262-58.md)
 - [Article D262-59](article-d262-59.md)
-- [Article R262-12](article-r262-12.md)
-- [Article R262-13](article-r262-13.md)

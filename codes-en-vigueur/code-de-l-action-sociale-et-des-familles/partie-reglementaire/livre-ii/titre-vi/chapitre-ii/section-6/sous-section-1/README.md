@@ -1,18 +1,9 @@
 # Sous-section 1 : Informations relatives au revenu de solidarité active
 
-- [Article D262-74](article-d262-74.md)
-- [Article D262-75](article-d262-75.md)
-- [Article D262-76](article-d262-76.md)
-- [Article D262-77](article-d262-77.md)
-- [Article D262-79](article-d262-79.md)
-- [Article D262-80](article-d262-80.md)
-- [Article D262-81](article-d262-81.md)
-- [Article D262-82](article-d262-82.md)
 - [Article D262-95](article-d262-95.md)
 - [Article D262-96](article-d262-96.md)
 - [Article D262-97](article-d262-97.md)
 - [Article D262-98](article-d262-98.md)
 - [Article D262-99](article-d262-99.md)
 - [Article D262-100](article-d262-100.md)
-- [Article R262-78](article-r262-78.md)
 - [Article R262-101](article-r262-101.md)

@@ -1,5 +1,0 @@
-# Article R262-15
-
-Les personnes relevant de l'impôt sur le revenu dans la catégorie des bénéfices industriels et commerciaux ou des bénéfices non commerciaux peuvent prétendre à l'allocation de revenu minimum d'insertion lorsqu'au cours de l'année de la demande et depuis l'année correspondant au dernier bénéfice connu elles n'ont employé aucun salarié et ont été soumises aux régimes d'imposition prévus aux articles 50-0 et 102 ter du code général des impôts et qu'en outre le dernier chiffre d'affaires annuel connu actualisé, le cas échéant, n'excède pas, selon la nature de l'activité exercée, les montants fixés auxdits articles.
-
-Le montant du dernier chiffre d'affaires connu est, s'il y a lieu, actualisé, l'année au cours de laquelle est déposée la demande, en fonction du taux d'évolution en moyenne annuelle de l'indice général des prix à la consommation des ménages entre cette année et celle à laquelle le chiffre d'affaires se rapporte, tel que ce taux d'évolution figure dans le rapport économique et financier annexé au projet de loi de finances.

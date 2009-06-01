@@ -1,3 +1,0 @@
-# Article R262-8
-
-Si l'allocataire, son conjoint, le partenaire lié par un pacte civil de solidarité ou le concubin ou l'une des personnes à charge définies à l'article R. 262-2 exerce un travail saisonnier et si le montant de ses ressources, telles que définies à l'article R. 531-10 du code de la sécurité sociale pour la dernière année civile, est supérieur à douze fois le montant mensuel de l'allocation de revenu minimum d'insertion fixé pour un allocataire isolé au 1er janvier de ladite année, le droit à l'allocation n'est pas ouvert ou cesse sauf si l'intéressé justifie d'une modification effective de sa situation professionnelle.
