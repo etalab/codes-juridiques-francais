@@ -1,4 +1,4 @@
-# Section 3 : Attribution de l'allocation
+# Section 3 : Droits et devoirs du bénéficiaire du revenu de solidarité active
 
 - [Article L262-13](article-l262-13.md)
 - [Article L262-14](article-l262-14.md)
@@ -21,7 +21,9 @@
 - [Article L262-31](article-l262-31.md)
 - [Article L262-32](article-l262-32.md)
 - [Article L262-33](article-l262-33.md)
-- [Article L262-33-1](article-l262-33-1.md)
 - [Article L262-34](article-l262-34.md)
 - [Article L262-35](article-l262-35.md)
 - [Article L262-36](article-l262-36.md)
+- [Article L262-37](article-l262-37.md)
+- [Article L262-38](article-l262-38.md)
+- [Article L262-39](article-l262-39.md)

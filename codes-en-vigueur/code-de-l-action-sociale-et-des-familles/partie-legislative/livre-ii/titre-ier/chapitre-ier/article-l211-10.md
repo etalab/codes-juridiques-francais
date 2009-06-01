@@ -12,9 +12,9 @@ b) Une deuxième part est destinée à financer des actions définies par voie c
 
 Les prestations familiales prises en compte pour l'application du présent article sont :
 
-- les prestations que mentionne l'article L. 511-1 du code de la sécurité sociale, y compris celles qui sont versées dans les départements mentionnés à l'article L. 751-1 du même code, à l'exception de l'allocation de parent isolé ;
+-les prestations que mentionne l'article L. 511-1 du code de la sécurité sociale, y compris celles qui sont versées dans les départements mentionnés à l'article L. 751-1 du même code ;
 
-- l'allocation pour jeune enfant, l'allocation d'adoption et l'allocation parentale d'éducation versées en vertu de la réglementation applicable antérieurement au 1er janvier 2004.
+-l'allocation pour jeune enfant, l'allocation d'adoption et l'allocation parentale d'éducation versées en vertu de la réglementation applicable antérieurement au 1er janvier 2004.
 
 Sont assimilées aux prestations familiales, pour l'application du présent article, l'allocation de garde d'enfant à domicile et l'aide à la famille pour l'emploi d'une assistante maternelle agréée versées en vertu de la réglementation applicable antérieurement au 1er janvier 2004.
 

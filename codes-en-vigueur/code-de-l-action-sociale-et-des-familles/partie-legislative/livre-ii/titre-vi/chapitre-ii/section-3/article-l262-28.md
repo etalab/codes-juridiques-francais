@@ -1,5 +1,7 @@
 # Article L262-28
 
-En cas de suspension de l'allocation au titre des articles L. 262-19, L. 262-21, L. 262-23 ou L. 522-13, ou en cas d'interruption du versement de l'allocation, le président du conseil général met fin au droit au revenu minimum d'insertion dans des conditions fixées par voie réglementaire.
+Le bénéficiaire du revenu de solidarité active est tenu, lorsque, d'une part, les ressources du foyer sont inférieures au niveau du montant forfaitaire mentionné au 2° de l'article L. 262-2 et, d'autre part, qu'il est sans emploi ou ne tire de l'exercice d'une activité professionnelle que des revenus inférieurs à une limite fixée par décret, de rechercher un emploi, d'entreprendre les démarches nécessaires à la création de sa propre activité ou d'entreprendre les actions nécessaires à une meilleure insertion sociale ou professionnelle.
 
-Lorsque cette décision fait suite à une mesure de suspension prise en application des articles L. 262-19, L. 262-21 ou L. 262-23, l'ouverture d'un nouveau droit, dans l'année qui suit la décision de suspension, est subordonnée à la signature d'un contrat d'insertion.
+Pour les bénéficiaires du revenu de solidarité active titulaires d'un des revenus de remplacement prévus à l'article L. 5421-2 du code du travail, le respect des obligations mentionnées à l'article L. 5421-3 du même code vaut respect des règles prévues par la présente section.
+
+Les obligations auxquelles est tenu, au titre du présent article, le bénéficiaire ayant droit à la majoration mentionnée à l'article L. 262-9 du présent code tiennent compte des sujétions particulières, notamment en matière de garde d'enfants, auxquelles celui-ci est astreint.

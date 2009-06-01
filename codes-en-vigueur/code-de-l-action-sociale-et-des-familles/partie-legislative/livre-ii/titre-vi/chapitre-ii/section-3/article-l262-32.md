@@ -1,5 +1,3 @@
 # Article L262-32
 
-Le département peut déléguer aux organismes payeurs mentionnés à l'article L. 262-30 tout ou partie des compétences du président du conseil général à l'égard des décisions individuelles relatives à l'allocation, à l'exception des décisions de suspension prises en application des articles L. 262-19, L. 262-21 et L. 262-23, ainsi qu'à la prime forfaitaire instituée par l'article L. 262-11.
-
-La convention prévue à l'article L. 262-30 détermine les conditions de mise en oeuvre et de contrôle de cette délégation.
+Une convention conclue entre le département, l'institution mentionnée à l'article L. 5312-1 du code du travail, l'Etat, le cas échéant les maisons de l'emploi ou, à défaut, les personnes morales gestionnaires des plans locaux pluriannuels pour l'insertion et l'emploi, les organismes mentionnés à l'article L. 262-16 du présent code et un représentant des centres communaux et intercommunaux d'action sociale définit les modalités de mise en œuvre du dispositif d'orientation et du droit à l'accompagnement prévus aux articles L. 262-27 à L. 262-29. Elle précise en particulier les conditions dans lesquelles sont examinés et appréciés les critères définis aux 1° et 2° de l'article L. 262-29.

@@ -34,7 +34,7 @@ b.L'allocation de reconnaissance prévue aux I et I bis de l'article 47 de la lo
 
 9° ter La prestation de compensation servie en vertu des dispositions de l'article L. 245-1 du code de l'action sociale et des familles ;
 
-9° quater Les primes forfaitaires instituées respectivement par les articles L. 262-11 du code de l'action sociale et des familles, L. 524-5 du code de la sécurité sociale et L. 5425-3 du code du travail ;
+9° quater La prime forfaitaire instituée par l'article L. 5425-3 du code du travail ;
 
 9° quinquies La prime de retour à l'emploi instituée par l'article L. 5133-1 du code du travail ;
 
@@ -90,9 +90,9 @@ L'exonération s'applique sous réserve du dépôt de l'accord d'intéressement,
 
 Les dispositions du premier alinéa bénéficient également, dans les mêmes conditions et limites aux dividendes des actions de travail attribuées aux salariés des sociétés anonymes à participation ouvrière régies par la loi du 26 avril 1917, à compter du 1er janvier 1991 ;
 
-19° Dans la limite de 5, 19 € par titre, le complément de rémunération résultant de la contribution de l'employeur à l'acquisition par le salarié des titres-restaurant émis conformément aux dispositions du chapitre II du titre VI du livre II de la troisième partie du code du travail, lorsque cette contribution est comprise entre un minimum et un maximum fixés par arrêté du ministre chargé du budget. La limite d'exonération est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu de l'année précédant celle de l'acquisition des titres-restaurant et arrondie, s'il y a lieu, au centime d'euro le plus proche.
+19° Dans la limite de 5, 19 euros par titre, le complément de rémunération résultant de la contribution de l'employeur à l'acquisition par le salarié des titres-restaurant émis conformément aux dispositions du chapitre II du titre VI du livre II de la troisième partie du code du travail, lorsque cette contribution est comprise entre un minimum et un maximum fixés par arrêté du ministre chargé du budget. La limite d'exonération est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu de l'année précédant celle de l'acquisition des titres-restaurant et arrondie, s'il y a lieu, au centime d'euro le plus proche.
 
-Cette exonération est subordonnée à la condition que le salarié se conforme aux obligations qui sont mises à sa charge par le même chapitre II ;
+Cette exonération est subordonnée à la condition que le salarié se conforme aux obligations qui sont mises à sa charge par le même chapitre II  ;
 
 19° bis l'avantage résultant de la contribution de l'employeur à l'acquisition des chèques-vacances dans les conditions et limite prévues aux articles L. 411-4 et L. 411-5 du code du tourisme ;
 
@@ -122,9 +122,7 @@ d. (disjoint) ;
 
 26° L'indemnisation ou, le cas échéant, la valeur des actions attribuées à ce titre, prévue à l'article L. 225-270 du code de commerce ;
 
-27° L'allocation forfaitaire complémentaire, les aides spécifiques au logement et les aides spécifiques en faveur des conjoints survivants servies en application de la
-loi n° 94-488 du 11 juin 1994
-relative aux rapatriés anciens membres des formations supplétives et assimilés ou victimes de la captivité en Algérie ;
+27° L'allocation forfaitaire complémentaire, les aides spécifiques au logement et les aides spécifiques en faveur des conjoints survivants servies en application de la loi n° 94-488 du 11 juin 1994 relative aux rapatriés anciens membres des formations supplétives et assimilés ou victimes de la captivité en Algérie ;
 
 28° Lorsqu'elle est prise en charge par l'employeur, la part salariale du complément de cotisation d'assurance vieillesse, prévue à l'article L. 741-24 du code rural ;
 
@@ -132,7 +130,7 @@ relative aux rapatriés anciens membres des formations supplétives et assimilé
 
 30° Le pécule modulable d'incitation des militaires à une seconde carrière, versé en application du I de l'article 149 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 ;
 
-30° bis.L'indemnité de départ volontaire versée en application du I de l'article 150 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 ;
+30° bis L'indemnité de départ volontaire versée en application du I de l'article 150 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 ;
 
 31° Les avantages résultant des opérations définies au 1° du 11 de l'article 39, dans la limite globale de 1 525 euros par salarié, appréciée sur l'ensemble de la période couverte par l'accord mentionné au 2° du même article ;
 
@@ -148,6 +146,6 @@ relative aux rapatriés anciens membres des formations supplétives et assimilé
 
 35° L'aide financière de l'Etat mentionnée à l'article L. 5141-2 du code du travail ;
 
-36° Sur option des bénéficiaires, dans le cadre d'une déclaration des revenus personnelle ou de celle du foyer fiscal de rattachement, les salaires versés aux personnes âgées de vingt-cinq ans au plus au 1er janvier de l'année d'imposition, à l'exception des agents publics percevant une rémunération dans le cadre de leur formation, en rémunération d'activités exercées pendant leurs études, secondaires ou supérieures, ou exercées durant leurs congés scolaires ou universitaires, dans la limite de trois fois le montant mensuel du salaire minimum de croissance ;
+36° Sur option des bénéficiaires, dans le cadre d'une déclaration des revenus personnelle ou de celle du foyer fiscal de rattachement, les salaires versés aux personnes âgées de vingt-cinq ans au plus au 1er janvier de l'année d'imposition, à l'exception des agents publics percevant une rémunération dans le cadre de leur formation, en rémunération d'activités exercées pendant leurs études, secondaires ou supérieures, ou exercées durant leurs congés scolaires ou universitaires, dans la limite de trois fois le montant mensuel du salaire minimum de croissance (1) ;
 
 37° L'aide financière mentionnée aux articles L. 7233-4 et L. 7233-5 du code du travail.

@@ -1,7 +1,4 @@
-# Section 2 : Dispositif local d'insertion.
+# Section 2 : Fonds d'aide aux jeunes en difficulté.
 
 - [Article L263-3](article-l263-3.md)
-- [Article L263-10](article-l263-10.md)
-- [Article L263-11](article-l263-11.md)
-- [Article L263-13](article-l263-13.md)
-- [Article L263-14](article-l263-14.md)
+- [Article L263-4](article-l263-4.md)

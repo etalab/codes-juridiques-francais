@@ -5,3 +5,4 @@
 - [Sous-section 3 : Entreprises de travail temporaire d'insertion.](sous-section-3)
 - [Sous-section 4 : Associations intermédiaires.](sous-section-4)
 - [Sous-section 5 : Ateliers et chantiers d'insertion.](sous-section-5)
+- [Sous-section 6 : Groupes économiques solidaires.](sous-section-6)

@@ -6,7 +6,7 @@ Sont à la charge de l'Etat au titre de l'aide sociale :
 
 2° Les frais d'aide médicale de l'Etat, mentionnée au titre V du livre II ;
 
-3° Alinéa abrogé.
+3° La part du revenu de solidarité active financée par le fonds national des solidarités actives en application de l'article L. 262-24 ;
 
 4° L'allocation simple aux personnes âgées, mentionnée à l'article L. 231-1 ;
 

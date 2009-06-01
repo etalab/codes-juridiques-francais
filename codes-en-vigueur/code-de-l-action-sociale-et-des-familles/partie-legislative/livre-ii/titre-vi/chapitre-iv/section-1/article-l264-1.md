@@ -4,4 +4,4 @@ Pour prétendre au service des prestations sociales légales, réglementaires et
 
 L'organisme compétent pour attribuer une prestation sociale légale, réglementaire ou conventionnelle est celui dans le ressort duquel la personne a élu domicile.
 
-Le département débiteur de l'allocation personnalisée d'autonomie, de la prestation de compensation du handicap et du revenu minimum d'insertion mentionnés respectivement aux articles L. 232-1, L. 245-1 et L. 262-1 est celui dans le ressort duquel l'intéressé a élu domicile.
+Le département débiteur de l'allocation personnalisée d'autonomie, de la prestation de compensation du handicap et du revenu de solidarité active mentionnés respectivement aux articles L. 232-1, L. 245-1 et L. 262-1 est celui dans le ressort duquel l'intéressé a élu domicile.

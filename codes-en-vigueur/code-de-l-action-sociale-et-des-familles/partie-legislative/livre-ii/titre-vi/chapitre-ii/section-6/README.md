@@ -1,4 +1,4 @@
-# Section 6 : Suivi statistique, évaluation et contrôle
+# Section 6 :  Lutte contre la fraude et sanctions
 
 - [Article L262-48](article-l262-48.md)
 - [Article L262-49](article-l262-49.md)

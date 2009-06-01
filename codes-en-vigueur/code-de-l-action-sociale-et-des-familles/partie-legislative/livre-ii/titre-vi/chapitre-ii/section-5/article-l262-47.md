@@ -1,3 +1,5 @@
 # Article L262-47
 
-Le fait d'offrir ou de faire offrir ses services à une personne en qualité d'intermédiaire et moyennant émoluments, en vue de lui faire obtenir l'allocation de revenu minimum d'insertion ou la prime forfaitaire instituée par l'article L. 262-11 est puni des peines prévues par l'article L. 554-2 du code de la sécurité sociale.
+Toute réclamation dirigée contre une décision relative au revenu de solidarité active fait l'objet, préalablement à l'exercice d'un recours contentieux, d'un recours administratif auprès du président du conseil général. Ce recours est, dans les conditions et limites prévues par la convention mentionnée à l'article L. 262-25, soumis pour avis à la commission de recours amiable qui connaît des réclamations relevant de l'article L. 142-1 du code de la sécurité sociale. Les modalités d'examen du recours sont définies par décret en Conseil d'Etat.
+
+Ce décret détermine également les conditions dans lesquelles les associations régulièrement constituées depuis cinq ans au moins pour œuvrer dans les domaines de l'insertion et de la lutte contre l'exclusion et la pauvreté peuvent exercer les recours prévus au premier alinéa du présent article en faveur du foyer, sous réserve de l'accord écrit du bénéficiaire.

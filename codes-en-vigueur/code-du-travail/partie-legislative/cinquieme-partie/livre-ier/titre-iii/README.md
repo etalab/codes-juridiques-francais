@@ -2,6 +2,6 @@
 
 - [Chapitre Ier : Accompagnement personnalisé pour l'accès à l'emploi](chapitre-ier)
 - [Chapitre II : Insertion par l'activité économique](chapitre-ii)
-- [Chapitre III : Prime de retour à l'emploi.](chapitre-iii)
+- [Chapitre III : Prime de retour à  l'emploi et aide personnalisée de retour à l'emploi .](chapitre-iii)
 - [Chapitre IV : Contrats de travail aidés](chapitre-iv)
 - [Chapitre V : Dispositions pénales.](chapitre-v)

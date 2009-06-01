@@ -1,3 +1,7 @@
 # Article L262-52
 
-Pour l'application des articles L. 262-49 et L. 262-50, la Caisse nationale des allocations familiales et la Caisse centrale de mutualité sociale agricole consolident les données fournies par les organismes payeurs mentionnés à l'article L. 262-30.
+La fausse déclaration ou l'omission délibérée de déclaration ayant abouti au versement indu du revenu de solidarité active est passible d'une amende administrative prononcée et recouvrée dans les conditions et les limites définies pour la pénalité prévue à l'article L. 114-17 du code de la sécurité sociale. La décision est prise par le président du conseil général après avis de l'équipe pluridisciplinaire mentionnée à l'article L. 262-39 du présent code. La juridiction compétente pour connaître des recours à l'encontre des contraintes délivrées par le président du conseil général est la juridiction administrative.
+
+Aucune amende ne peut être prononcée à raison de faits remontant à plus de deux ans, ni lorsque la personne concernée a, pour les mêmes faits, déjà été définitivement condamnée par le juge pénal ou a bénéficié d'une décision définitive de non-lieu ou de relaxe déclarant que la réalité de l'infraction n'est pas établie ou que cette infraction ne lui est pas imputable. Si une telle décision de non-lieu ou de relaxe intervient postérieurement au prononcé d'une amende administrative, la révision de cette amende est de droit. Si, à la suite du prononcé d'une amende administrative, une amende pénale est infligée pour les mêmes faits, la première s'impute sur la seconde.
+
+Le produit de l'amende est versé aux comptes de la collectivité débitrice du revenu de solidarité active.

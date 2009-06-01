@@ -6,4 +6,3 @@
 - [Article L262-4](article-l262-4.md)
 - [Article L262-5](article-l262-5.md)
 - [Article L262-6](article-l262-6.md)
-- [Article L262-6-1](article-l262-6-1.md)

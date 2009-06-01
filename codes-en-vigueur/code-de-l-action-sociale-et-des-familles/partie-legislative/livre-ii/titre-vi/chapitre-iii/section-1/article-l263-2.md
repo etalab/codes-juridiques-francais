@@ -1,11 +1,11 @@
 # Article L263-2
 
-Un conseil départemental d'insertion, composé notamment de représentants des services de l'Etat, des collectivités territoriales, des organismes chargés de l'emploi et de la formation professionnelle et des autres personnes de droit public ou privé, notamment des associations, oeuvrant dans le domaine de l'insertion et de la lutte contre l'exclusion, est placé auprès du président du conseil général. Il comprend également des représentants de la commission départementale compétente en matière d'emploi et d'insertion mentionnée à l'article L. 322-2-1 du code du travail.
+Pour la mise en œuvre du programme départemental d'insertion, le département conclut avec les parties intéressées un pacte territorial pour l'insertion.
 
-Le conseil départemental d'insertion émet un avis sur le programme départemental d'insertion. Il est informé de son exécution.
+Le pacte peut associer au département, notamment, l'Etat, l'institution mentionnée à l'article L. 5312-1 du code du travail, les organismes concourant au service public de l'emploi, les maisons de l'emploi ou, à défaut, les personnes morales gestionnaires des plans locaux pluriannuels pour l'insertion et l'emploi, les organismes compétents en matière d'insertion sociale, les organismes mentionnés à l'article L. 262-16 du présent code, les organisations syndicales représentatives à l'échelon national, les organismes consulaires intéressés et les collectivités territoriales intéressées, en particulier la région, et leurs groupements, ainsi que les associations de lutte contre l'exclusion.
 
-Le président du conseil général préside le conseil départemental d'insertion et arrête la liste de ses membres. Les membres mentionnés au premier alinéa sont désignés par les personnes morales qu'ils représentent.
+Il définit notamment les modalités de coordination des actions entreprises par les parties pour favoriser l'insertion sociale et professionnelle des bénéficiaires du revenu de solidarité active.
 
-Le président de chaque commission locale d'insertion ou le représentant qu'il désigne est membre de droit du conseil départemental d'insertion.
+Le pacte prévoit, en particulier, au titre de la formation professionnelle, le concours de la région aux politiques territoriales d'insertion.
 
-Le conseil est réuni au minimum deux fois par an.
+Le pacte pour l'insertion peut faire l'objet de déclinaisons locales dont le président du conseil général détermine le nombre et le ressort.
