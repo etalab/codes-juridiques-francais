@@ -1287,13 +1287,7 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 <p>[Guéret</p>
 </td>
 <td width="314">
-<p>Ressort des tribunaux d'instance d'Aubusson, Bourganeuf et Guéret. (1)]</p>
-</td>
-</tr>
-<tr>
-<td>[Guéret <br/>
-</td>
-<td>Ressort des tribunaux d'instance de Bourganeuf et Guéret. (2 et 3)] <br/>
+<p>Ressort des tribunaux d'instance de Bourganeuf et Guéret. (2 et 3)]</p>
 </td>
 </tr>
 <tr>
@@ -1645,13 +1639,8 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 <p>[Epinal</p>
 </td>
 <td width="314">
-<p>Ressort des tribunaux d'instance d'Epinal, Mirecourt, Neufchâteau, Remiremont et Saint-Dié-des-Vosges. (1)]</p>
+<p>Ressort des tribunaux d'instance d'Epinal, Mirecourt, Remiremont et Saint-Dié-des-Vosges. (2 et 3)]</p>
 </td>
-</tr>
-<tr>
-<td>[Epinal <br/>
-</td>
-<td>Ressort des tribunaux d'instance d'Epinal, Mirecourt, Remiremont et Saint-Dié-des-Vosges. (2 et 3)]</td>
 </tr>
 <tr>
 <td colspan="2" width="614">
@@ -1885,11 +1874,6 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 </td>
 </tr>
 <tr>
-<td>[Orléans <br/>
-</td>
-<td>Ressort des tribunaux d'instance d'Orléans et Pithiviers. (1)] </td>
-</tr>
-<tr>
 <td width="300">
 <p>[Orléans</p>
 </td>
@@ -2012,119 +1996,7 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 <p>Paris 1er arrondissement</p>
 </td>
 <td width="314">
-<p>Ressort du tribunal d'instance de Paris 1er arrondissement.</p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>Paris 4e arrondissement</p>
-</td>
-<td width="314">
-<p>Ressort des tribunaux d'instance de Paris 2e arrondissement, Paris 3e arrondissement et Paris 4e arrondissement.</p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>Paris 6e arrondissement</p>
-</td>
-<td width="314">
-<p>Ressort des tribunaux d'instance de Paris 5e arrondissement, Paris 6e arrondissement et Paris 7e arrondissement.</p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>Paris 8e arrondissement</p>
-</td>
-<td width="314">
-<p>Ressort du tribunal d'instance de Paris 8e arrondissement.</p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>Paris 9e arrondissement</p>
-</td>
-<td width="314">
-<p>Ressort du tribunal d'instance de Paris 9e arrondissement.</p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>Paris 10e arrondissement</p>
-</td>
-<td width="314">
-<p>Ressort du tribunal d'instance de Paris 10e arrondissement.</p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>Paris 11e arrondissement</p>
-</td>
-<td width="314">
-<p>Ressort du tribunal d'instance de Paris 11e arrondissement.</p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>Paris 12e arrondissement</p>
-</td>
-<td width="314">
-<p>Ressort du tribunal d'instance de Paris 12e arrondissement.</p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>Paris 13e arrondissement</p>
-</td>
-<td width="314">
-<p>Ressort des tribunaux d'instance de Paris 13e arrondissement et Paris 14e arrondissement.</p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>Paris 15e arrondissement</p>
-</td>
-<td width="314">
-<p>Ressort du tribunal d'instance de Paris 15e arrondissement.</p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>Paris 16e arrondissement</p>
-</td>
-<td width="314">
-<p>Ressort du tribunal d'instance de Paris 16e arrondissement.</p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>Paris 17e arrondissement</p>
-</td>
-<td width="314">
-<p>Ressort du tribunal d'instance de Paris 17e arrondissement.</p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>Paris 18e arrondissement</p>
-</td>
-<td width="314">
-<p>Ressort du tribunal d'instance de Paris 18e arrondissement.</p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>Paris 19e arrondissement</p>
-</td>
-<td width="314">
-<p>Ressort du tribunal d'instance de Paris 19e arrondissement.</p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>Paris 20e arrondissement</p>
-</td>
-<td width="314">
-<p>Ressort du tribunal d'instance de Paris 20e arrondissement.</p>
+<p>Ressort des tribunaux d'instance de Paris 1er arrondissement, Paris 2e arrondissement, Paris 3e arrondissement, Paris 4e arrondissement, Paris 5e arrondissement, Paris 6e arrondissement, Paris 7e arrondissement, Paris 8e arrondissement, Paris 9e arrondissement, Paris 10e arrondissement, Paris 11e arrondissement, Paris 12e arrondissement, Paris 13e arrondissement, Paris 14e arrondissement, Paris 15e arrondissement, Paris 16e arrondissement, Paris 17e arrondissement, Paris 18e arrondissement, Paris 19e arrondissement et Paris 20e arrondissement. </p>
 </td>
 </tr>
 <tr>
@@ -3128,13 +3000,7 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 <p>[Montauban</p>
 </td>
 <td width="314">
-<p>Ressort des tribunaux d'instance de Castelsarrasin, Moissac et Montauban. (1)]</p>
-</td>
-</tr>
-<tr>
-<td>[Montauban <br/>
-</td>
-<td>Ressort des tribunaux d'instance de Castelsarrasin et Montauban. (2)] <br/>
+<p>Ressort des tribunaux d'instance de Castelsarrasin et Montauban. (2)]</p>
 </td>
 </tr>
 <tr>
@@ -3376,7 +3242,6 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 </tr>
 <tr>
 <td colspan="2" width="614">
-<p align="left">(1) Applicable jusqu'au 31 décembre 2008. </p>
 <p align="left">(2) applicable à compter du 1er janvier 2009. </p>
 <p align="left">(3) applicable jusqu'au 31 décembre 2009. </p>
 <p align="left">(4) applicable à compter du 1er janvier 2010 </p>
