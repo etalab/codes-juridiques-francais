@@ -1,4 +1,4 @@
-# Sous-section 2 : Organisation.
+# Sous-section 2 : Organisation centrale.
 
 - [Article R516-10](article-r516-10.md)
 - [Article R516-11](article-r516-11.md)
