@@ -6,4 +6,3 @@
 - [Article R374-23](article-r374-23.md)
 - [Article R374-24](article-r374-24.md)
 - [Article R374-25](article-r374-25.md)
-- [Article R374-26](article-r374-26.md)

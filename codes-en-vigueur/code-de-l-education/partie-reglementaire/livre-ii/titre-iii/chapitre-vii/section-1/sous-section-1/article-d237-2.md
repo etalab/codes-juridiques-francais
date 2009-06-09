@@ -1,3 +1,0 @@
-# Article D237-2
-
-Le haut comité soumet au ministre chargé de l'éducation et de l'enseignement supérieur des mesures propres à améliorer la relation éducation-économie-emploi. Pour ce faire, il constitue un lieu d'échanges et de débats notamment avec les ministères et les personnels compétents. Il arrête annuellement son programme de travail. Il prend toute initiative et dispose des études concernant l'éducation, l'économie et l'emploi. Il peut également en faire réaliser à son initiative. Il peut, de la même manière, se saisir ou être saisi par le ministre de tout problème lié à son champ de compétence. Il se réunit au moins une fois par an et peut créer des groupes de travail en tant que de besoin.

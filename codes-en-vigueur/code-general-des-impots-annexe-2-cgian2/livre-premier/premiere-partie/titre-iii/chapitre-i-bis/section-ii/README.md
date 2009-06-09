@@ -1,7 +1,6 @@
 # Section II : Organismes de contrôle agréés
 
 - [Article 275 ter](article-275-ter.md)
-- [Article 275 ter L](article-275-ter-l.md)
 - [Article 275 ter C](article-275-ter-c.md)
 - [Article 275 ter D](article-275-ter-d.md)
 - [Article 275 ter M](article-275-ter-m.md)

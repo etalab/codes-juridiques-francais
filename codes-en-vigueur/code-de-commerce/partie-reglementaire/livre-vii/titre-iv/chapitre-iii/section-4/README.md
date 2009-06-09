@@ -12,7 +12,6 @@
 - [Article R743-167](article-r743-167.md)
 - [Article R743-168](article-r743-168.md)
 - [Article R743-169](article-r743-169.md)
-- [Article R743-170](article-r743-170.md)
 - [Article R743-171](article-r743-171.md)
 - [Article R743-172](article-r743-172.md)
 - [Article R743-173](article-r743-173.md)
