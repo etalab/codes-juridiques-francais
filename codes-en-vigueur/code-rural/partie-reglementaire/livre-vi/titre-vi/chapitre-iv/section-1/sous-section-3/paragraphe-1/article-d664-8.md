@@ -6,4 +6,4 @@ Pour l'application des articles 54 à 56 du règlement (CE) n° 1580 / 2007 susm
 
 2° La date limite de versement par les adhérents de l'organisation de producteurs de leurs contributions au fonds opérationnel ;
 
-3° La date limite de communication, par l'organisation de producteurs au préfet, des montants prévisionnels de la participation communautaire et des contributions de ses adhérents au fonds opérationnel.
+3° La date limite de communication, par l'organisation de producteurs au directeur général de FranceAgriMer, des montants prévisionnels de la participation communautaire et des contributions de ses adhérents au fonds opérationnel.

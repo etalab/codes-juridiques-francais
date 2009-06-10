@@ -1,8 +1,8 @@
 # Article D664-7
 
-I.-Les organisations de producteurs et les associations d'organisations de producteurs peuvent demander au préfet la modification de leur programme opérationnel pour l'année en cours dans les conditions mentionnées au 2 de l'article 67 du règlement (CE) n° 1580 / 2007 susmentionné.
+I.-Les organisations de producteurs et les associations d'organisations de producteurs peuvent demander au directeur général de FranceAgriMer la modification de leur programme opérationnel pour l'année en cours dans les conditions mentionnées au 2 de l'article 67 du règlement (CE) n° 1580 / 2007 susmentionné.
 
-II.-Sont soumises à autorisation du préfet les demandes de modification des programmes concernant :
+II.-Sont soumises à autorisation du directeur général de FranceAgriMer les demandes de modification des programmes concernant :
 
 1° La création ou la suppression de tout ou partie d'une mesure du programme opérationnel ;
 
@@ -12,7 +12,7 @@ Par dérogation au 2°, en cas de fusion d'organisations de producteurs au sens 
 
 Un arrêté du ministre chargé de l'agriculture fixe la liste des pièces à joindre à l'appui de la demande de modification, ainsi que la date limite de dépôt de celle-ci.
 
-III.-Doivent être notifiées par écrit au préfet les modifications des programmes concernant :
+III.-Doivent être notifiées par écrit au directeur général de FranceAgriMer les modifications des programmes concernant :
 
 1° La diminution ou l'augmentation du montant d'une ou plusieurs mesures, dans la limite d'une augmentation de 25 % par mesure, et sans que puisse être dépassé le montant du fonds opérationnel de l'année en cours ;
 
