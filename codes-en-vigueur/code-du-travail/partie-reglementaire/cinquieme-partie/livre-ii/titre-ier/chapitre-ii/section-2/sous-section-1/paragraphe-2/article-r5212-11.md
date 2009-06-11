@@ -1,8 +1,8 @@
 # Article R5212-11
 
-Pour chaque stagiaire accueilli, une convention est conclue entre l'entreprise d'accueil et l'organisme de formation. Cette convention indique :
+Pour chaque stagiaire accueilli, une convention est conclue entre l'entreprise d'accueil, le stagiaire et l'organisme de formation ou l'organisme œuvrant pour l'insertion professionnelle. Cette convention indique :
 
-1° Le nom et l'adresse de l'entreprise d'accueil, de l'organisme de formation et du stagiaire ;
+1° Le nom et l'adresse de l'entreprise d'accueil, de l'organisme de formation ou de l'organisme œuvrant pour l'insertion professionnelle et du stagiaire ;
 
 2° La nature, l'objectif et les modalités d'exécution du stage ;
 
