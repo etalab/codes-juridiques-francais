@@ -1,17 +1,9 @@
 # Article A142-26
 
-Au sein de la Commission professionnelle consultative « Métiers du sport et de l'animation » une sous-commission est chargée de traiter les questions relatives aux métiers de l'animation.
+La présidence de chaque sous-commission est assurée pour deux ans par l'un de ses membres choisi alternativement dans le collège des employeurs et dans celui des salariés. Le président est assisté d'un vice-président appartenant à l'autre collège.
 
-Elle est composée, en ce qui concerne les employeurs :
+Le collège chargé de la première présidence est différent de celui qui assure la première présidence de la commission professionnelle consultative des métiers du sport et de l'animation mentionné à l'article A. 142-22.
 
-1° D'un représentant de l'Association des maires de France (AMF) ;
+Le président et le vice-président sont élus simultanément, respectivement par chacun des deux collèges concernés.
 
-2° D'un représentant du Conseil social du mouvement sportif (COSMOS) ;
-
-3° De trois représentants du Conseil national des employeurs associatifs (CNEA) ;
-
-4° D'un représentant du Syndicat national des associations d'employeurs de personnels des centres sociaux et socioculturels (SNAECSO).
-
-Elle est composée, en ce qui concerne les salariés, de six représentants proposés par les organisations syndicales les plus représentatives du secteur (CFDT, CFE-CGC, CFTC, CGT, CGT-FO, UNSA).
-
-Des représentants des pouvoirs publics et des personnalités qualifiées de la commission plénière participent aux travaux des deux sous-commissions.
+En cas d'incapacité du président ou du vice-président à terminer son mandat, le collège d'origine est appelé à en élire un nouveau pour la durée du mandat restant à courir.

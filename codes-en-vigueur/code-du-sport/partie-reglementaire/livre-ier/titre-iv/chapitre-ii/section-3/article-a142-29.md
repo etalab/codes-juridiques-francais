@@ -1,3 +1,3 @@
 # Article A142-29
 
-Un agent de la direction de la vie associative, de l'emploi et des formations, nommé par arrêté du ministre chargé de la jeunesse et des sports exerce les fonctions de secrétaire général de la commission. Il organise le secrétariat des réunions et coordonne les travaux de la commission et des sous-commissions.
+Le programme du travail annuel est arrêté, après avis de l'instance de coordination mentionnée à l'article A. 142-28, par accord entre le directeur des sports et le président de la commission professionnelle consultative des métiers du sport et de l'animation.A défaut d'accord, le programme est arrêté par le ministre chargé de la jeunesse et le ministre chargé des sports.

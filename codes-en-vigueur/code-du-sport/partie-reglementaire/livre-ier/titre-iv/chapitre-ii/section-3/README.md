@@ -1,4 +1,4 @@
-# Section 3  La commission « Métiers du sport et de l'animation »
+# Section 3 : La commission professionnelle consultative des métiers du sport et de l'animation
 
 - [Article A142-20](article-a142-20.md)
 - [Article A142-21](article-a142-21.md)

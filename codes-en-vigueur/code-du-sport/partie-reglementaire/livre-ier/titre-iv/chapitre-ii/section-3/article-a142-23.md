@@ -1,5 +1,15 @@
 # Article A142-23
 
-Les membres de la commission professionnelle consultative mentionnés aux 1°, 2° et 3° de l'article A. 142-22 sont nommés par arrêté du ministre chargé de la jeunesse et des sports. Ils cessent d'en faire partie si l'organisation d'employeurs, le syndicat de salariés, le ministre ou le président du centre d'études et de recherche sur les qualifications qui les a désignés en fait la demande par écrit au secrétaire général mentionné à l'article A. 142-29. La cessation des fonctions est effective un mois après la réception de cette demande.
+Au sein de la commission professionnelle consultative des métiers du sport et de l'animation, une sous-commission est chargée de traiter les questions relatives aux métiers du sport. Elle est composée de :
 
-Les membres de la commission professionnelle consultative mentionnésau 4° de l'article A. 142-22 sont nommés pour une durée de trois ans renouvelable par arrêté du ministre chargé de la jeunesse et des sports.
+1° En ce qui concerne les employeurs :
+
+a) Un représentant de l'Association des maires de France (AMF) ;
+
+b) Quatre représentants du Conseil social du mouvement sportif (COSMOS) ;
+
+c) Trois représentants du Conseil national des employeurs associatifs (CNEA).
+
+2° En ce qui concerne les salariés :
+
+Huit représentants proposés par les organisations syndicales représentatives du secteur (CFDT, CFE-CGC, CFTC, CGT, CGT-FO, CNES, FNASS, UNSA).
