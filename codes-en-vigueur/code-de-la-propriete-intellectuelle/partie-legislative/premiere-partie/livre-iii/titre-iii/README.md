@@ -1,4 +1,4 @@
-# Titre III : Procédures et sanctions
+# Titre III : Prévention, procédures et sanctions
 
 - [Chapitre Ier : Dispositions générales](chapitre-ier)
 - [Chapitre II : Saisie-contrefaçon](chapitre-ii)
