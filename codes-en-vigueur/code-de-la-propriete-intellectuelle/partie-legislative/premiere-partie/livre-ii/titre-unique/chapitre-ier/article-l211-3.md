@@ -22,6 +22,6 @@ Les bénéficiaires des droits ouverts au présent titre ne peuvent interdire :
 
 6° La reproduction et la communication au public d'une interprétation, d'un phonogramme, d'un vidéogramme ou d'un programme dans les conditions définies aux deux premiers alinéas du 7° de l'article L. 122-5 ;
 
-7° Les actes de reproduction d'une interprétation, d'un phonogramme, d'un vidéogramme ou d'un programme réalisés à des fins de conservation ou destinés à préserver les conditions de sa consultation sur place, effectués par des bibliothèques accessibles au public, par des musées ou par des services d'archives, sous réserve que ceux-ci ne recherchent aucun avantage économique ou commercial.
+7° Les actes de reproduction et de représentation d'une interprétation, d'un phonogramme, d'un vidéogramme ou d'un programme réalisés à des fins de conservation ou destinés à préserver les conditions de sa consultation à des fins de recherche ou d'études privées par des particuliers, dans les locaux de l'établissement et sur des terminaux dédiés, effectués par des bibliothèques accessibles au public, par des musées ou par des services d'archives, sous réserve que ceux-ci ne recherchent aucun avantage économique ou commercial.
 
 Les exceptions énumérées par le présent article ne peuvent porter atteinte à l'exploitation normale de l'interprétation, du phonogramme, du vidéogramme ou du programme ni causer un préjudice injustifié aux intérêts légitimes de l'artiste-interprète, du producteur ou de l'entreprise de communication audiovisuelle.

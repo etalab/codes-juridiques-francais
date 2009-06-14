@@ -3,3 +3,4 @@
 - [Chapitre I : Dispositions générales](chapitre-i)
 - [Chapitre II : Dispositions particulières à l'exploitation](chapitre-ii)
 - [Chapitre III :  Aménagement cinématographique du territoire](chapitre-iii)
+- [Chapitre IV : Délais d'exploitation des œuvres cinématographiques.](chapitre-iv)
