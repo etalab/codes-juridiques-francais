@@ -1,4 +1,4 @@
-# Paragraphe 2 : Dispositions relatives à la qualification des personnes encadrant les mineurs dans les centres de vacances et les centres de loisirs
+# Paragraphe 2 : Dispositions relatives à la qualification des personnes encadrant les mineurs dans les accueils collectifs de mineurs à caractère éducatif.
 
 - [Article R227-12](article-r227-12.md)
 - [Article R227-13](article-r227-13.md)
