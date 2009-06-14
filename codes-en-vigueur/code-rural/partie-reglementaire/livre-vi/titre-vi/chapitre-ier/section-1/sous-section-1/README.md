@@ -11,6 +11,3 @@
 - [Article D661-9](article-d661-9.md)
 - [Article D661-10](article-d661-10.md)
 - [Article D661-11](article-d661-11.md)
-- [Article R661-1](article-r661-1.md)
-- [Article R661-2](article-r661-2.md)
-- [Article R661-3](article-r661-3.md)
