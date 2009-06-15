@@ -1,6 +1,6 @@
 # Article R*111-34
 
-La commission d'agrément est présidée par un membre du conseil général des ponts et chaussées ; elle comprend [*composition*] :
+La commission d'agrément est présidée par un membre du Conseil général de l'environnement et du développement durable ; elle comprend :
 
 Deux représentants du ministre chargé de la construction ;
 
@@ -8,17 +8,13 @@ Un représentant du ministre de l'intérieur ;
 
 Un représentant du ministre chargé de l'économie ;
 
-Un représentant du ministre chargé de l'éducation ;
-
-Un représentant du ministre chargé de l'industrie ;
-
 Un représentant du ministre chargé du travail ;
 
 Un représentant des sociétés d'assurances garantissant les risques de la construction ;
 
 Deux représentants des maîtres d'ouvrages publics et privés ;
 
-Cinq représentants des professions intervenant à l'acte de construire, dont un représentant des contrôleurs techniques ;
+Cinq représentants des professions intervenant à l'acte de construire ;
 
 Un suppléant est désigné pour le président et chacun des membres de la commission.
 
