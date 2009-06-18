@@ -1,6 +1,6 @@
 # Article D334-8
 
-La valeur de chacune des épreuves est exprimée par une note variant de 0 à 20, en points entiers. L'absence non justifiée à une épreuve que le candidat doit subir est sanctionnée par la note zéro.
+La valeur de chacune des épreuves est exprimée par une note variant de 0 à 20, en points entiers.L'absence non justifiée à une épreuve que le candidat doit subir est sanctionnée par la note zéro.
 
 La note de chaque épreuve obligatoire est multipliée par son coefficient. Un arrêté du ministre chargé de l'éducation peut prévoir, pour certaines épreuves obligatoires, que seuls les points excédant 10 sur 20 sont retenus et multipliés par un coefficient.
 
@@ -12,4 +12,4 @@ Après délibération du jury à l'issue du premier groupe d'épreuves, les cand
 
 Après délibération du jury à l'issue du second groupe d'épreuves, sont déclarés admis les candidats dont la note moyenne pour l'ensemble des deux groupes d'épreuves est au moins égale à 10 sur 20. Les candidats admis à l'issue du second groupe d'épreuves ne peuvent obtenir une mention.
 
-Pour les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles et qui sont autorisés à étaler sur plusieurs sessions le passage de la totalité des épreuves de l'examen, le jury délibère pour les seules épreuves effectivement présentées. La mention "sans décision finale" est portée sur le relevé des notes du candidat.
+Pour les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles et qui sont autorisés à étaler sur plusieurs sessions le passage de la totalité des épreuves de l'examen, le jury délibère pour les seules épreuves effectivement présentées. La mention " sans décision finale " est portée sur le relevé des notes du candidat. Pour ces candidats, la présentation des épreuves du second groupe de l'examen fait l'objet d'aménagements dans les conditions fixées par arrêté du ministre chargé de l'éducation.

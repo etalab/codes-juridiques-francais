@@ -1,6 +1,6 @@
 # Article D336-28
 
-La valeur de chacune des épreuves est exprimée par une note variant de 0 à 20 en points entiers. L'absence à une épreuve obligatoire est sanctionnée par la note zéro.
+La valeur de chacune des épreuves est exprimée par une note variant de 0 à 20 en points entiers.L'absence à une épreuve obligatoire est sanctionnée par la note zéro.
 
 La note de chaque épreuve obligatoire est multipliée par le coefficient fixé par l'arrêté prévu à l'article D. 336-24.
 
@@ -16,4 +16,4 @@ En ce qui concerne l'épreuve d'éducation physique et sportive, la note résult
 
 En ce qui concerne l'épreuve facultative, ne sont retenus que les points excédant 10. Ces points entrent en ligne de compte pour l'admission à l'issue du premier ou du deuxième groupe d'épreuves ou pour l'attribution d'une mention à l'issue du premier groupe d'épreuves.
 
-Pour les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles et qui sont autorisés à étaler sur plusieurs sessions le passage de la totalité des épreuves de l'examen, le jury délibère pour les seules épreuves effectivement présentées. La mention "sans décision finale" est portée sur le relevé des notes du candidat.
+Pour les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles et qui sont autorisés à étaler sur plusieurs sessions le passage de la totalité des épreuves de l'examen, le jury délibère pour les seules épreuves effectivement présentées. La mention " sans décision finale " est portée sur le relevé des notes du candidat. Pour ces candidats, la présentation des épreuves du second groupe de l'examen fait l'objet d'aménagements dans les conditions fixées par arrêté du ministre chargé de l'éducation.
