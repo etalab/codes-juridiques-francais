@@ -1,6 +1,5 @@
 # Section 3 : Des soldes.
 
-- [Article Annexe](article-annexe.md)
 - [Article Annexe art. D310-15-3](article-annexe-art-d310-15-3.md)
 - [Article D310-15-2](article-d310-15-2.md)
 - [Article D310-15-3](article-d310-15-3.md)
