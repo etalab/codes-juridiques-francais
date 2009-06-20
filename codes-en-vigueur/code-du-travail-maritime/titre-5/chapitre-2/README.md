@@ -1,6 +1,5 @@
 # Chapitre 2 : Dispositions spéciales aux contrats à durée indéterminée
 
-- [Article 102-1](article-102-1.md)
 - [Article 102-2](article-102-2.md)
 - [Article 102-3](article-102-3.md)
 - [Article 102-4](article-102-4.md)
