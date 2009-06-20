@@ -6,4 +6,4 @@ Ainsi qu'il est dit au e) du 3° de l'article R. 48-1 du code de procédure pén
 
 3° Contraventions en matière de protection de l'environnement réprimées par : ...
 
-e) L'article L. 322-10-2 du code de l'environnement relatif aux contraventions constatées par la garderie du domaine du Conservatoire de l'espace littoral et des rivages lacustres et les agents visés à l'article L. 322-10-1 du même code. "
+e) L'article L. 322-10-2 du code de l'environnement relatif aux contraventions constatées par la garderie du domaine du Conservatoire de l'espace littoral et des rivages lacustres et les agents visés à l'article L. 322-20 du même code".
