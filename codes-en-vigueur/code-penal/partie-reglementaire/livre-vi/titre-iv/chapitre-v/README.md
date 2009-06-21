@@ -10,3 +10,4 @@
 - [Section 7 : De l'altération ou de la contrefaçon des timbres-poste ou des timbres émis par l'administration des finances.](section-7)
 - [Section 8 : De l'intrusion dans les établissements scolaires.](section-8)
 - [Section 9 : De l'intrusion dans les lieux historiques ou culturels.](section-9)
+- [Section 10 : De la dissimulation illicite du visage à l'occasion de manifestations sur la voie publique](section-10)
