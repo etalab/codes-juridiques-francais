@@ -1,5 +1,6 @@
 # Sous-section 2 : Dispositions applicables aux employeurs relevant de régimes autres que le régime des assurances sociales agricoles (R).
 
+- [Article D2531-9](article-d2531-9.md)
 - [Article D2531-10](article-d2531-10.md)
 - [Article D2531-11](article-d2531-11.md)
 - [Article D2531-12](article-d2531-12.md)
