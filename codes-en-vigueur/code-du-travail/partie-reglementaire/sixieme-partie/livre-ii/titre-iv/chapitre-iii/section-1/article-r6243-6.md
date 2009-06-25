@@ -1,6 +1,6 @@
-# Article R6331-1
+# Article R6243-6
 
-Pour la détermination du montant de la participation des employeurs au développement de la formation professionnelle continue, l'effectif de l'entreprise calculé au 31 décembre, tous établissements confondus, est égal à la moyenne des effectifs déterminés chaque mois de l'année civile.
+Pour l'application des dispositions prévues à l'article L. 6243-2, l'effectif de l'entreprise calculé au 31 décembre, tous établissements confondus, est égal à la moyenne des effectifs déterminés chaque mois de l'année civile.
 
 Pour la détermination des effectifs du mois, il est tenu compte des salariés titulaires d'un contrat de travail le dernier jour de chaque mois, y compris les salariés absents, conformément aux dispositions des articles L. 1111-2, L. 1111-3 et L. 1251-54.
 
