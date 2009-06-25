@@ -7,7 +7,6 @@
 - [Article Annexe V](article-annexe-v.md)
 - [Article Annexe VI](article-annexe-vi.md)
 - [Article Annexe VII](article-annexe-vii.md)
-- [Article Annexe 7-6](article-annexe-7-6.md)
 - [Article Annexe VIII](article-annexe-viii.md)
 - [Article Annexe IX](article-annexe-ix.md)
 - [Article Annexe X](article-annexe-x.md)

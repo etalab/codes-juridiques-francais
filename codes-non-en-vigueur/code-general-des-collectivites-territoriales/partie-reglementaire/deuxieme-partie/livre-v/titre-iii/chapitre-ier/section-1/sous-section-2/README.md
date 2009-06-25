@@ -10,5 +10,4 @@
 - [Article D2531-17](article-d2531-17.md)
 - [Article R2531-7](article-r2531-7.md)
 - [Article R2531-8](article-r2531-8.md)
-- [Article R2531-9](article-r2531-9.md)
 - [Article R2531-13](article-r2531-13.md)
