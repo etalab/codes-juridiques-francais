@@ -8,4 +8,4 @@ La valeur du risque calculée pour la période triennale de référence comprend
 
 3° Les capitaux correspondant aux accidents mortels dont le caractère professionnel a été reconnu au cours de cette période, que la victime ait ou non des ayants droit, ces capitaux comprenant les frais funéraires.
 
-Les bases d'évaluation forfaitaire des capitaux définis aux 2° et 3° ci-dessus sont déterminées par arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé du budget.
+Les bases d'évaluation forfaitaire des capitaux définis aux 2° et 3° ci-dessus sont déterminées par arrêté conjoint      du ministre chargé de l'agriculture, du ministre chargé de la sécurité sociale et du ministre chargé du budget.

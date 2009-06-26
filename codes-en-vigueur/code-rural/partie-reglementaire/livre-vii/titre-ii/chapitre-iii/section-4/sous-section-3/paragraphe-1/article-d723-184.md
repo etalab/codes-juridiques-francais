@@ -6,4 +6,4 @@ En ce qui concerne les caisses pluridépartementales, l'installation de l'agent 
 
 Le procès-verbal doit relater en particulier les explications du comptable sortant et, s'il y a lieu, les réserves du comptable entrant.
 
-Avant son installation, l'agent comptable doit fournir, en garantie de sa gestion, un cautionnement dont le montant minimal est fixé dans le cadre d'un arrêté du ministre chargé des finances et du ministre chargé de l'agriculture. Ce cautionnement est à la charge de l'agent comptable.
+Avant son installation, l'agent comptable doit fournir, en garantie de sa gestion, un cautionnement dont le montant minimal est fixé dans le cadre d'un arrêté    du ministre chargé des finances, du ministre chargé de la sécurité sociale et du ministre chargé de l'agriculture. Ce cautionnement est à la charge de l'agent comptable.

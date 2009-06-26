@@ -14,4 +14,4 @@ Ces fonds peuvent aussi être utilisés, dans la limite des crédits inscrits au
 
 6° Prêts subordonnés accordés à des mutuelles conformément au 8 de l'article R. 212-11 du code de la mutualité.
 
-Les modalités de ces prêts, notamment leur montant maximal, leurs conditions d'attribution, leur taux d'intérêt, leur durée et les garanties à exiger sont fixées par arrêtés du ministre chargé de l'agriculture et du ministre chargé de l'économie et des finances.
+Les modalités de ces prêts, notamment leur montant maximal, leurs conditions d'attribution, leur taux d'intérêt, leur durée et les garanties à exiger sont fixées par arrêtés du ministre chargé de l'agriculture, du ministre chargé de la sécurité sociale et du ministre chargé de l'économie et des finances.
