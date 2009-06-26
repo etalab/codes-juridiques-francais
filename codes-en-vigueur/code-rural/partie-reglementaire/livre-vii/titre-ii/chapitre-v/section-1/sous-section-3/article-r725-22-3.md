@@ -4,4 +4,4 @@ Si le montant de l'indu a été entièrement payé dans le mois suivant la mise 
 
 La majoration peut être remise soit totalement en cas de bonne foi du débiteur ou lorsque son montant est inférieur aux seuils fixés par l'arrêté prévu au II de l'article R. 133-9-1 du code de la sécurité sociale, soit partiellement en proportion des ressources du débiteur.
 
-Un arrêté du ministre chargé de l'agriculture fixe les conditions d'application du présent article aux bénéficiaires de prestations indues autres que les professionnels ou les établissements de santé.
+Un arrêté du ministre chargé de l'agriculture et du ministre chargé de la sécurité sociale fixe les conditions d'application du présent article aux bénéficiaires de prestations indues autres que les professionnels ou les établissements de santé.

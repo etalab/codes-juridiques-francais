@@ -12,4 +12,4 @@ Les demandes de rachat doivent être présentées avant le 1er janvier 2003.
 
 Les personnes mentionnées au 3° ci-dessus doivent présenter leur demande de rachat dans le délai de six mois à compter de la date d'effet de leur immatriculation à l'assurance obligatoire ; toutefois, ce délai ne pourra venir à expiration avant le 1er janvier 2003.
 
-Les demandes de rachat doivent être présentées, dans des conditions fixées par arrêté du ministre chargé de l'agriculture, à la caisse mentionnée à l'article D. 742-27. Cet organisme est compétent pour l'encaissement des cotisations de rachat.
+Les demandes de rachat doivent être présentées, dans des conditions fixées par arrêté du ministre chargé de l'agriculture et du ministre chargé de la sécurité sociale, à la caisse mentionnée à l'article D. 742-27. Cet organisme est compétent pour l'encaissement des cotisations de rachat.

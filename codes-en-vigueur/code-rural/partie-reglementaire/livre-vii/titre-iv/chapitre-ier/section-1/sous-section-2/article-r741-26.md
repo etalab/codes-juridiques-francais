@@ -6,7 +6,7 @@ Le conseil d'administration peut déléguer tout ou partie de ses pouvoirs de d�
 
 La demande n'est recevable qu'après paiement de la totalité des cotisations ayant donné lieu aux majorations de retard. Dès paiement de la totalité des cotisations, y compris en cas de recouvrement forcé, la caisse de mutualité sociale agricole informe les intéressés de la possibilité de formuler cette demande de remise ainsi que du délai dans lequel cette demande doit être présentée sous peine de forclusion.
 
-Le délai dans lequel doit être présentée la demande de remise des pénalités et majorations de retard est fixé par arrêté du ministre chargé de l'agriculture et du ministre chargé du budget.
+Le délai dans lequel doit être présentée la demande de remise des pénalités et majorations de retard est fixé par arrêté du ministre chargé de l'agriculture, du ministre chargé de la sécurité sociale et du ministre chargé du budget.
 
 Les décisions sont motivées. En cas de remise totale ou partielle, elles doivent, lorsqu'elles portent sur une somme excédant un seuil fixé par arrêté du ministre chargé de l'agriculture et du ministre chargé du budget, être approuvées par le préfet de région.
 

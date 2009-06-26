@@ -24,4 +24,4 @@ f) D'une situation prévue à l'article R. 322-7 du code du travail.
 
 Toutefois, si le salaire de base déterminé conformément aux 1° et 4° du présent article se trouve inférieur au montant global des gains effectivement perçus dans les différents emplois au cours de la période à considérer, l'indemnité journalière est calculée sur ce montant global.
 
-Pour certaines catégories de salariés ou assimilés soumis à des conditions particulières de rémunérations résultant du caractère normalement discontinu ou occasionnel du travail, le salaire journalier de base mentionné au premier alinéa peut être adapté à ces conditions particulières de rémunérations suivant les modalités fixées par arrêté du ministre chargé de l'agriculture.
+Pour certaines catégories de salariés ou assimilés soumis à des conditions particulières de rémunérations résultant du caractère normalement discontinu ou occasionnel du travail, le salaire journalier de base mentionné au premier alinéa peut être adapté à ces conditions particulières de rémunérations suivant les modalités fixées par arrêté du ministre chargé de l'agriculture et du ministre chargé de la sécurité sociale.

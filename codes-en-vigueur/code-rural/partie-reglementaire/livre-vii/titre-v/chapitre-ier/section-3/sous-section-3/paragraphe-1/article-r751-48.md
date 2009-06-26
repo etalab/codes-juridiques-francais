@@ -10,4 +10,4 @@ Le salaire journalier servant de base au calcul de l'indemnité journalière pr�
 
 4° Un quatre-vingt-dixième du montant du salaire ou du gain des trois mois antérieurs à la date de l'arrêt de travail, si ce salaire ou ce gain n'est pas réglé au moins une fois par mois, mais l'est au moins une fois par trimestre.
 
-L'indemnité journalière calculée à partir de ce salaire journalier ne peut dépasser le montant du gain journalier net perçu par la victime et déterminé selon des modalités fixées par arrêté du ministre chargé de l'agriculture.
+L'indemnité journalière calculée à partir de ce salaire journalier ne peut dépasser le montant du gain journalier net perçu par la victime et déterminé selon des modalités fixées par arrêté du ministre chargé de l'agriculture et du ministre chargé de la sécurité sociale.
