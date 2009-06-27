@@ -2,3 +2,4 @@
 
 - [Article L712-4](article-l712-4.md)
 - [Article L712-4-1](article-l712-4-1.md)
+- [Article L712-5](article-l712-5.md)
