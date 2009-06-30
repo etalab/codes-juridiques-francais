@@ -16,6 +16,7 @@
 - [Article 80 duodecies](article-80-duodecies.md)
 - [Article 80 terdecies](article-80-terdecies.md)
 - [Article 80 quaterdecies](article-80-quaterdecies.md)
+- [Article 80 quindecies](article-80-quindecies.md)
 - [Article 81](article-81.md)
 - [Article 81 bis](article-81-bis.md)
 - [Article 81 ter](article-81-ter.md)
