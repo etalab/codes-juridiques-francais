@@ -4,6 +4,14 @@ I. ― Il est institué une taxe additionnelle à la taxe sur les certificats d'
 
 La taxe est due sur le premier certificat d'immatriculation délivré en France pour une voiture particulière au sens du 1 du C de l'annexe II de la directive 70 / 156 / CEE du Conseil, du 6 février 1970, concernant le rapprochement des législations des Etats membres relatives à la réception des véhicules à moteur et de leurs remorques.
 
+La taxe n'est pas due :
+
+a) Sur les certificats d'immatriculation des véhicules immatriculés dans le genre " Véhicule automoteur spécialisé " ou voiture particulière carrosserie " Handicap " ;
+
+b) Sur les certificats d'immatriculation des véhicules acquis par une personne titulaire de la carte d'invalidité mentionnée à l'article L. 241-3 du code de l'action sociale et des familles ou par une personne dont au moins un enfant mineur ou à charge, et du même foyer fiscal, est titulaire de cette carte.
+
+Le b ne s'applique qu'à un seul véhicule par bénéficiaire.
+
 II. ― La taxe est assise :
 
 a) Pour les voitures particulières qui ont fait l'objet d'une réception communautaire au sens de la directive 70 / 156 / CEE du Conseil, du 6 février 1970, précitée, sur le nombre de grammes de dioxyde de carbone émis par kilomètre ;
