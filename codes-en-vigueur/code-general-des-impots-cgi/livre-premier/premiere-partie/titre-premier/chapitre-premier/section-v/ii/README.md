@@ -11,6 +11,7 @@
 - [23° : Crédit d'impôt pour dépenses d'équipement de l'habitation principale](23)
 - [25° : Prime pour l'emploi](25)
 - [26° : Crédit d'impôt au titre des revenus distribués](26)
+- [27° : Réduction d'impôt accordée au titre de l'aide apportée à certains créateurs d'entreprise](27)
 - [28° : Crédit d'impôt au titre des contrats d'assurance pour loyers impayés des logements locatifs conventionnés](28)
 - [29° : Crédit d'impôt en faveur des jeunes prenant un métier rencontrant des difficultés de recrutement](29)
 - [3° : Réduction d'impôt accordée au titre des cotisations versées aux organisations syndicales](3)
