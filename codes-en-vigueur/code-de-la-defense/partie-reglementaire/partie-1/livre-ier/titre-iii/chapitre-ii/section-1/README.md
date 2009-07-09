@@ -7,7 +7,6 @@
 - [Article D1132-6](article-d1132-6.md)
 - [Article D1132-7](article-d1132-7.md)
 - [Article D1132-8](article-d1132-8.md)
-- [Article D1132-9](article-d1132-9.md)
 - [Article R1132-1](article-r1132-1.md)
 - [Article R1132-2](article-r1132-2.md)
 - [Article R1132-3](article-r1132-3.md)
