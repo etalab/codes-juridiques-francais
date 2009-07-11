@@ -26,6 +26,7 @@
 - [Section V sexdecies : Crédit d'impôt pour dépenses de formation à l'économie de l'entreprise et aux dispositifs d'épargne salariale et d'actionnariat salarié](section-v-sexdecies)
 - [Section V septdecies : Crédit d'impôt en faveur des maîtres restaurateurs](section-v-septdecies)
 - [Section V octodecies : Crédit d'impôt en faveur  des débitants de tabac](section-v-octodecies)
+- [Section V novodecies : Crédit d'impôt au titre des primes d'intéressement](section-v-novodecies)
 - [Section V vicies : Crédit d'impôt au titre des avances remboursables ne portant pas intérêt pour le financement de travaux d'amélioration de la performance énergétique des logements anciens](section-v-vicies)
 - [Section VI : Indemnités de congé payé](section-vi)
 - [Section VII : Opérations de crédit-bail](section-vii)
