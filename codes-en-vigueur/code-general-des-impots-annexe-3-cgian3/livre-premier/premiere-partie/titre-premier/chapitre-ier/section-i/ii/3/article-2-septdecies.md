@@ -10,11 +10,11 @@ II.-La société doit, au plus tard le deuxième jour ouvré suivant le premier 
 
 3° L'attestation que la location et, le cas échéant, la sous-location remplissent les conditions prévues par les articles 2 duodecies, 2 terdecies, 2 terdecies A, 2 terdecies B, 2 terdecies C, 2 sexdecies, 2 sexdecies-0 A ter et 2 sexdecies-0 A quater ;
 
-4° Lorsqu'il y a lieu, le montant de l'amortissement correspondant aux droits de l'associé ;
+4° Lorsqu'il y a lieu, le montant de l'amortissement ou de la réduction d'impôt correspondant aux droits de l'associé ;
 
-5° Le montant du revenu net foncier correspondant aux droits de l'associé déterminé dans les conditions de droit commun et le montant de ce revenu déterminé compte tenu, selon le cas, de la déduction calculée en fonction du revenu brut ou de la déduction au titre de l'amortissement ;
+5° Le montant du revenu net foncier correspondant aux droits de l'associé déterminé dans les conditions de droit commun et , s'il y a lieu, le montant de ce revenu déterminé compte tenu, selon le cas, de la déduction calculée en fonction du revenu brut ou de la déduction au titre de l'amortissement ;
 
-6° En cas de non-respect par la société ou un associé de ses engagements, la quote-part de supplément de déduction calculée en fonction du revenu brut ou des déductions au titre de l'amortissement que l'associé doit ajouter au revenu foncier de l'année au cours de laquelle la rupture de l'engagement ou la cession du logement ou des parts sociales est intervenue.
+6° En cas de non-respect par la société ou un associé de ses engagements, la quote-part de supplément de déduction calculée en fonction du revenu brut ou des déductions au titre de l'amortissement que l'associé doit ajouter au revenu foncier de l'année au cours de laquelle la rupture de l'engagement ou la cession du logement ou des parts sociales est intervenue ou de la quote-part de la réduction d'impôt que l'associé doit ajouter à l'impôt sur le revenu dû au titre de la même année.
 
 7° Lorsqu'un logement est mis à la disposition d'un ascendant ou d'un descendant de l'un des associés dans les conditions prévues au premier alinéa du j et au au deuxième alinéa du l du 1° du I de l'article 31 du code général des impôts, les éléments figurant sur la note annexe prévue à l'article 2 sexdecies A.
 
