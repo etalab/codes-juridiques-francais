@@ -1,6 +1,8 @@
 # Chapitre Ier : Dispositions d'adaptation du livre Ier.
 
 - [Article L931-1](article-l931-1.md)
+- [Article L931-1-1](article-l931-1-1.md)
+- [Article L931-1-2](article-l931-1-2.md)
 - [Article L931-2](article-l931-2.md)
 - [Article L931-3](article-l931-3.md)
 - [Article L931-4](article-l931-4.md)
