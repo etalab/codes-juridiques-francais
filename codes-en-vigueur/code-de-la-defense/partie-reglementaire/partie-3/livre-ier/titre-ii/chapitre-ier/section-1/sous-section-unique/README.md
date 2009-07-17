@@ -1,10 +1,5 @@
 # Sous-section unique : Le chef d'état-major des armées
 
-- [Article R3121-1](article-r3121-1.md)
-- [Article R3121-2](article-r3121-2.md)
-- [Article R3121-3](article-r3121-3.md)
-- [Article R3121-4](article-r3121-4.md)
-- [Article R3121-5](article-r3121-5.md)
 - [Article R3121-6](article-r3121-6.md)
 - [Article R3121-7](article-r3121-7.md)
 - [Article R3121-8](article-r3121-8.md)
