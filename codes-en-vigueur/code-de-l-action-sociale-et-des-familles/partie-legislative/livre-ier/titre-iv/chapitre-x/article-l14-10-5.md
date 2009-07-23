@@ -38,19 +38,19 @@ Sont également retracées en charges les subventions dues à la Caisse national
 
 Avant imputation des contributions aux sections mentionnées aux V et VI, l'ensemble des ressources destinées aux personnes handicapées, soit au titre des établissements et services financés par la sous-section mentionnée au 1 du I, soit au titre de la présente section, doit totaliser 40 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4.
 
-IV. - Une section consacrée à la promotion des actions innovantes et au renforcement de la professionnalisation des métiers de service, qui est divisée en deux sous-sections.
+IV. - Une section consacrée à la promotion des actions innovantes, à la formation des aidants familiaux, à la formation des accueillants familiaux mentionnés aux articles L. 441-1 et L. 444-1 et au renforcement de la professionnalisation des métiers de service, qui est divisée en deux sous-sections.
 
 1. La première sous-section, consacrée aux personnes âgées, retrace :
 
 a) En ressources, une fraction du produit mentionné au 3° de l'article L. 14-10-4, fixée par arrêté conjoint des ministres chargés de l'action sociale, de la sécurité sociale et du budget, qui ne peut être inférieure à 5 % ni supérieure à 12 % de ce produit ;
 
-b) En charges, le financement de dépenses de modernisation des services ou de professionnalisation des métiers qui apportent au domicile des personnes âgées dépendantes une assistance dans les actes quotidiens de la vie, ainsi que de dépenses de formation et de qualification des personnels soignants recrutés dans le cadre des mesures de médicalisation des établissements et services mentionnés au 3° de l'article L. 314-3-1.
+b) En charges, le financement de dépenses de modernisation des services ou de professionnalisation des métiers qui apportent au domicile des personnes âgées dépendantes une assistance dans les actes quotidiens de la vie, de dépenses de formation des aidants familiaux, de dépenses de formation des accueillants familiaux mentionnés aux articles L. 441-1 et L. 444-1 ainsi que de dépenses de formation et de qualification des personnels soignants recrutés dans le cadre des mesures de médicalisation des établissements et services mentionnés au 3° de l'article L. 314-3-1.
 
 2. La deuxième sous-section, consacrée aux personnes handicapées, retrace :
 
 a) En ressources, une part de la fraction du produit des contributions mentionnées aux 1° et 2° de l'article L. 14-10-4 affectée au a du 1 du I du présent article ; cette part est fixée par arrêté conjoint des ministres chargés de l'action sociale, de la sécurité sociale et du budget dans la limite de 12 % de cette fraction ;
 
-b) En charges, le financement de dépenses de modernisation des services ou de professionnalisation des métiers qui apportent au domicile des personnes handicapées une assistance dans les actes quotidiens de la vie, ainsi que de dépenses de formation et de qualification des personnels soignants des établissements et services mentionnés au 1° de l'article L. 314-3-1.
+b) En charges, le financement de dépenses de modernisation des services ou de professionnalisation des métiers qui apportent au domicile des personnes handicapées une assistance dans les actes quotidiens de la vie, de dépenses de formation des aidants familiaux, de dépenses de formation des accueillants familiaux mentionnés aux articles L. 441-1 et L. 444-1 ainsi que de dépenses de formation et de qualification des personnels soignants des établissements et services mentionnés au 1° de l'article L. 314-3-1.
 
 Les projets financés par cette section doivent être agréés par l'autorité compétente de l'Etat qui recueille, le cas échéant, dans les cas et conditions fixés par voie réglementaire, l'avis préalable de la Caisse nationale de solidarité pour l'autonomie.
 
