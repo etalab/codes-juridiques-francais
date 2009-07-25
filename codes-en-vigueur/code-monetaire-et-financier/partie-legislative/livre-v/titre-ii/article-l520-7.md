@@ -4,7 +4,7 @@ I.-Les agents des douanes ayant au moins le grade de contrôleur sont habilités
 
 II.-A cette fin, les agents des douanes mentionnés au I ont accès, durant les heures d'activité professionnelle des changeurs manuels, aux locaux à usage professionnel à l'exclusion des parties de ces locaux affectées au domicile privé.
 
-Ils peuvent se faire communiquer les registres et les documents professionnels que les changeurs manuels sont tenus d'établir en application du présent titre et des articles L. 563-2 à L. 563-4.
+Ils peuvent se faire communiquer les registres et les documents professionnels que les changeurs manuels sont tenus d'établir en application du présent titre et de l'article L. 561-12.
 
 Ils peuvent se faire délivrer copie des documents susmentionnés.
 

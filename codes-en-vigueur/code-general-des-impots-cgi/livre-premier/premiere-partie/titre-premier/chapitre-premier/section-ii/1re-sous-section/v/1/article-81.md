@@ -94,7 +94,8 @@ Les dispositions du premier alinéa bénéficient également, dans les mêmes co
 
 Cette exonération est subordonnée à la condition que le salarié se conforme aux obligations qui sont mises à sa charge par le même chapitre II  ;
 
-19° bis l'avantage résultant de la contribution de l'employeur à l'acquisition des chèques-vacances dans les conditions et limite prévues aux articles L. 411-4 et L. 411-5 du code du tourisme ;
+19° bis l'avantage résultant de la contribution de l'employeur à l'acquisition des chèques-vacances dans les conditions et limite prévues
+à la section 1 du chapitre Ier du titre Ier du livre IV du code du tourisme ;
 
 19° ter a.L'avantage résultant de la prise en charge obligatoire par l'employeur du prix des titres d'abonnement souscrits par les salariés pour les déplacements effectués au moyen de transports publics de voyageurs ou de services publics de location de vélos entre leur résidence habituelle et leur lieu de travail, conformément à l'article L. 3261-2 du code du travail ;
 
@@ -134,7 +135,7 @@ d. (disjoint) ;
 
 31° Les avantages résultant des opérations définies au 1° du 11 de l'article 39, dans la limite globale de 1 525 euros par salarié, appréciée sur l'ensemble de la période couverte par l'accord mentionné au 2° du même article ;
 
-31° bis L'avantage résultant pour le salarié de la remise gratuite par son employeur de matériels informatiques et de logiciels nécessaires à leur utilisation entièrement amortis et pouvant permettre l'accès à des services de communications électroniques et de communication au public en ligne, dans la limite d'un prix de revient global des matériels et logiciels reçus dans l'année de 2 000 ;
+31° bis L'avantage résultant pour le salarié de la remise gratuite par son employeur de matériels informatiques et de logiciels nécessaires à leur utilisation entièrement amortis et pouvant permettre l'accès à des services de communications électroniques et de communication au public en ligne, dans la limite d'un prix de revient global des matériels et logiciels reçus dans l'année de 2 000 euros ;
 
 32° L'indemnité de cessation d'activité prévue au V de l'article 41 de la loi de financement de la sécurité sociale pour 1999 (n° 98-1194 du 23 décembre 1998) ;
 
@@ -146,6 +147,6 @@ d. (disjoint) ;
 
 35° L'aide financière de l'Etat mentionnée à l'article L. 5141-2 du code du travail ;
 
-36° Sur option des bénéficiaires, dans le cadre d'une déclaration des revenus personnelle ou de celle du foyer fiscal de rattachement, les salaires versés aux personnes âgées de vingt-cinq ans au plus au 1er janvier de l'année d'imposition, à l'exception des agents publics percevant une rémunération dans le cadre de leur formation, en rémunération d'activités exercées pendant leurs études, secondaires ou supérieures, ou exercées durant leurs congés scolaires ou universitaires, dans la limite de trois fois le montant mensuel du salaire minimum de croissance (1) ;
+36° Sur option des bénéficiaires, dans le cadre d'une déclaration des revenus personnelle ou de celle du foyer fiscal de rattachement, les salaires versés aux personnes âgées de vingt-cinq ans au plus au 1er janvier de l'année d'imposition, à l'exception des agents publics percevant une rémunération dans le cadre de leur formation, en rémunération d'activités exercées pendant leurs études, secondaires ou supérieures, ou exercées durant leurs congés scolaires ou universitaires, dans la limite de trois fois le montant mensuel du salaire minimum de croissance ;
 
 37° L'aide financière mentionnée aux articles L. 7233-4 et L. 7233-5 du code du travail.

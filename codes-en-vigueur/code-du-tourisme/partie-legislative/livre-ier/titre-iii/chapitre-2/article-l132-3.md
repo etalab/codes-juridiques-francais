@@ -12,6 +12,6 @@ Il comprend notamment des délégués du conseil général ainsi que des membres
 
 4° Les associations de tourisme et de loisirs ;
 
-5° Les communes touristiques ou leurs groupements ;
+5° Les communes touristiques ou leurs groupements et les stations classées de tourisme ;
 
 6° Le comité régional du tourisme.

@@ -14,6 +14,6 @@ c) Les professions du tourisme et des loisirs ;
 
 d) Les associations de tourisme et de loisirs ;
 
-e) Les communes touristiques ou leurs groupements ;
+e) Les communes touristiques ou leurs groupements et les stations classées de tourisme ;
 
 2° Le comité du tourisme de Mayotte prépare la politique touristique de la collectivité départementale. Le conseil général peut lui confier l'élaboration du schéma d'aménagement touristique qui est ensuite soumis à l'approbation du conseil général, après consultation du conseil économique et social de la collectivité départementale.

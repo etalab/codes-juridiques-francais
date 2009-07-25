@@ -6,7 +6,7 @@ Les changeurs manuels tiennent un registre de leurs transactions.
 
 Le ministre chargé de l'économie peut, par arrêté, les soumettre à des règles et conditions particulières relatives à leurs obligations prévues par le titre VI et par le présent titre, ainsi qu'à des règles d'exécution des opérations de change manuel, d'organisation et de contrôle interne propres à en assurer le respect.
 
-II.-La Commission bancaire exerce le pouvoir disciplinaire sur les changeurs manuels dans les conditions prévues au II de l'article L. 613-21.
+II.-La Commission bancaire exerce le pouvoir disciplinaire sur les changeurs manuels dans les conditions prévues à l'article L. 613-21-1.
 
 La Commission bancaire exerce le contrôle, notamment sur place, des changeurs manuels dans les conditions prévues aux articles L. 613-6 à L. 613-8, L. 613-10, L. 613-11 et L. 613-20. Les agents chargés du contrôle sur place peuvent procéder au contrôle de caisse.
 

@@ -9,3 +9,4 @@
 - [Article 1594 H](article-1594-h.md)
 - [Article 1594 H bis](article-1594-h-bis.md)
 - [Article 1594 J](article-1594-j.md)
+- [Article 1594 J bis](article-1594-j-bis.md)

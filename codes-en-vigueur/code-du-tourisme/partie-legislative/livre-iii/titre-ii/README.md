@@ -5,3 +5,4 @@
 - [Chapitre 3 : Villages résidentiels de tourisme](chapitre-3)
 - [Chapitre 5 : Villages et maisons familiales de vacances](chapitre-5)
 - [Chapitre 6 : Refuges de montagne](chapitre-6)
+- [Chapitre 7 : Dénominations et appellations](chapitre-7)

@@ -6,7 +6,7 @@ Il contribue à coordonner les interventions des divers partenaires du développ
 
 Il peut être chargé, par le conseil municipal, de tout ou partie de l'élaboration et de la mise en oeuvre de la politique locale du tourisme et des programmes locaux de développement touristique, notamment dans les domaines de l'élaboration des services touristiques, de l'exploitation d'installations touristiques et de loisirs, des études, de l'animation des loisirs, de l'organisation de fêtes et de manifestations culturelles.
 
-Il peut être autorisé à commercialiser des prestations de services touristiques.
+L'office de tourisme peut commercialiser des prestations de services touristiques dans les conditions prévues au chapitre unique du titre Ier du livre II.
 
 Il peut être consulté sur des projets d'équipements collectifs touristiques.
 

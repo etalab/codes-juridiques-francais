@@ -14,4 +14,4 @@ Le comité comprend notamment des délégués du conseil régional, un ou plusie
 
 5° Les associations de tourisme et de loisirs ;
 
-6° Les communes touristiques ou leurs groupements.
+6° Les communes touristiques ou leurs groupements et les stations classées de tourisme.
