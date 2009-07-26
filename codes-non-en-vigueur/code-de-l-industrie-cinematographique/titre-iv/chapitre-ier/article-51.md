@@ -1,3 +1,0 @@
-# Article 51
-
-Les sommes encaissées pour le compte de l'Etat, à compter du 1er janvier 2007, par le Centre national de la cinématographie au titre de l'article 47 sont conservées par ce dernier et inscrites dans ses écritures comptables. Le comptable assignataire auprès du compte d'affectation spéciale " Cinéma, audiovisuel et expression radiophonique locale " retrace également dans ses écritures comptables ces sommes au titre du a du 1° du A du I de l'article 50 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006 ainsi que les dépenses correspondantes au titre du a du 2° du A du I du même article.
