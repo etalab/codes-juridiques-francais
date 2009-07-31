@@ -6,6 +6,6 @@ Sans préjudice de l'application des dispositions de l'article 3 bis de la loi n
 
 2. Les groupements qui, se rattachant par leur objet à l'une des activités mentionnées au premier alinéa de l'article L. 512-68 appartiennent à l'une des catégories déterminées par le décret prévu à l'article L. 512-84 ;
 
-3. La Banque fédérale des banques populaires et les organismes dont elle centralise ou contrôle la gestion financière et comptable ;
+3. L'organe central des caisses d'épargne et des banques populaires et les organismes dont elle centralise ou contrôle la gestion financière et comptable ;
 
 4. Les autres personnes physiques ou morales qui exercent leur activité ou qui ont une résidence dans les départements côtiers.
