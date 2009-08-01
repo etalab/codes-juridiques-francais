@@ -97,7 +97,7 @@ L'âge maximal de maintien en première section est de soixante-cinq ans ;
 </tr>
 <tr>
 <td align="left">
-<br/>Ingénieurs de l'armement, ingénieurs des études et techniques de l'armement, ingénieurs des études et techniques des travaux maritimes, professeurs de l'enseignement maritime</td>
+<br/>Ingénieurs de l'armement, ingénieurs des études et techniques de l'armement, ingénieurs des études et techniques des travaux maritimes, professeurs de l'enseignement maritime, ingénieurs militaires d'infrastructure de la défense</td>
 <td align="center" colspan="4">
 <br/>64</td>
 <td align="center">

@@ -1,6 +1,6 @@
 # Article 322-3
 
-L'infraction définie au premier alinéa de l'article 322-1 est punie de cinq ans d'emprisonnement et de 75000 euros d'amende et celle définie au deuxième alinéa du même article de 15000 euros d'amende et d'une peine de travail d'intérêt général :
+L'infraction définie au premier alinéa de l'article 322-1 est punie de cinq ans d'emprisonnement et de 75 000 euros d'amende et celle définie au deuxième alinéa du même article de 15 000 euros d'amende et d'une peine de travail d'intérêt général :
 
 1° Lorsqu'elle est commise par plusieurs personnes agissant en qualité d'auteur ou de complice ;
 
@@ -10,6 +10,8 @@ L'infraction définie au premier alinéa de l'article 322-1 est punie de cinq an
 
 4° Lorsqu'elle est commise au préjudice d'un temoin, d'une victime ou d'une partie civile, soit pour l'empêcher de dénoncer le fait, de porter plainte ou de déposer en justice, soit en raison de sa dénonciation, de sa plainte ou de sa déposition ;
 
-5° Lorsqu'elle est commise dans un local d'habitation ou dans un lieu utilisé ou destiné à l'entrepôt de fonds, valeurs, marchandises ou matériels, en pénétrant dans les lieux par ruse, effraction ou escalade.
+5° Lorsqu'elle est commise dans un local d'habitation ou dans un lieu utilisé ou destiné à l'entrepôt de fonds, valeurs, marchandises ou matériels, en pénétrant dans les lieux par ruse, effraction ou escalade ;
+
+6° Lorsqu'elle est commise à l'encontre d'un lieu classifié au titre du secret de la défense nationale.
 
 Lorsque l'infraction définie au premier alinéa de l'article 322-1 est commise à l'encontre d'un établissement scolaire, éducatif ou de loisirs ou d'un véhicule transportant des enfants, les peines encourues sont également portées à cinq ans d'emprisonnement et à 75 000 euros d'amende.
