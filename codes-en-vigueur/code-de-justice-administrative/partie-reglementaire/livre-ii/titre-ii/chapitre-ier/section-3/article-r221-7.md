@@ -8,7 +8,7 @@ Douai : ressort des tribunaux administratifs d'Amiens, Lille et Rouen ;
 
 Lyon : ressort des tribunaux administratifs de Clermont-Ferrand, Dijon, Grenoble et Lyon ;
 
-Marseille : ressort des tribunaux administratifs de Bastia, Marseille, Montpellier, Nice, Nîmes et Toulon  ;
+Marseille : ressort des tribunaux administratifs de Bastia, Marseille, Montpellier, Nice, Nîmes et Toulon ;
 
 Nancy : ressort des tribunaux administratifs de Besançon, Châlons-en-Champagne, Nancy et Strasbourg ;
 
@@ -16,4 +16,4 @@ Nantes : ressort des tribunaux administratifs de Caen, Nantes, Orléans et Renne
 
 Paris : ressort des tribunaux administratifs de Melun, Paris, Mata-Utu, Nouvelle-Calédonie et Polynésie française ;
 
-Versailles : ressort des tribunaux administratifs de Cergy-Pontoise et Versailles.
+Versailles : ressort des tribunaux administratifs de Cergy-Pontoise, Montreuil et Versailles.

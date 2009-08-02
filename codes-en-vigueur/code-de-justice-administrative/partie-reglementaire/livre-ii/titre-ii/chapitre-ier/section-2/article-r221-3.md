@@ -12,7 +12,7 @@ Bordeaux : Dordogne, Gironde, Lot-et-Garonne ;
 
 Caen : Calvados, Manche, Orne ;
 
-Cergy-Pontoise : Seine-Saint-Denis, Val-d'Oise ;
+Cergy-Pontoise : Val-d'Oise ;
 
 Châlons-en-Champagne : Ardennes, Aube, Marne, Haute-Marne ;
 
@@ -22,7 +22,7 @@ Dijon : Côte-d'Or, Nièvre, Saône-et-Loire, Yonne ;
 
 Grenoble : Drôme, Isère, Savoie, Haute-Savoie ;
 
-Lille : Nord, Pas-de-Calais ;
+Lille : Nord - Pas-de-Calais ;
 
 Limoges : Corrèze, Creuse, Indre, Haute-Vienne ;
 
@@ -33,6 +33,8 @@ Marseille : Alpes-de-Haute-Provence, Hautes-Alpes, Bouches-du-Rhône ;
 Melun : Seine-et-Marne, Val-de-Marne ;
 
 Montpellier : Aude, Hérault, Pyrénées-Orientales ;
+
+Montreuil : Seine-Saint-Denis ;
 
 Nancy : Meurthe-et-Moselle, Meuse, Vosges ;
 
@@ -84,6 +86,6 @@ Saint-Martin : Saint-Martin ;
 
 Saint-Pierre : Saint-Pierre-et-Miquelon.
 
-Toutefois, le ressort du tribunal administratif de Melun comprend l'intégralité de l'emprise de l'aérodrome de Paris-Orly et celui du tribunal administratif de Cergy-Pontoise l'intégralité de l'emprise de l'aérodrome de Paris-Charles-de-Gaulle.
+Toutefois, le ressort du tribunal administratif de Melun comprend l'intégralité de l'emprise de l'aérodrome de Paris-Orly et celui du tribunal administratif de Montreuil l'intégralité de l'emprise de l'aérodrome de Paris - Charles-de-Gaulle.
 
 Le siège des tribunaux administratifs de Saint-Barthélemy et de Saint-Martin est fixé à Basse-Terre.

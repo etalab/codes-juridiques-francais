@@ -10,7 +10,7 @@ Besançon : deux chambres ;
 
 Bordeaux : cinq chambres ;
 
-Caen : deux chambres ;
+Caen : trois chambres ;
 
 Cergy-Pontoise : dix chambres ;
 
@@ -20,7 +20,7 @@ Clermont-Ferrand : deux chambres ;
 
 Dijon : trois chambres ;
 
-Grenoble : cinq chambres ;
+Grenoble : six chambres ;
 
 Lille : six chambres ;
 
@@ -34,6 +34,8 @@ Melun : sept chambres ;
 
 Montpellier : sept chambres ;
 
+Montreuil : sept chambres ;
+
 Nancy : deux chambres ;
 
 Nantes : cinq chambres ;
@@ -44,7 +46,7 @@ Nîmes : trois chambres ;
 
 Orléans : cinq chambres ;
 
-Pau : deux chambres ;
+Pau : trois chambres ;
 
 Poitiers : trois chambres ;
 
