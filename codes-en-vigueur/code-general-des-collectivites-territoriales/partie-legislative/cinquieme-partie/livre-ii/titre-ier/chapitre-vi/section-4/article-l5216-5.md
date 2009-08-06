@@ -32,7 +32,7 @@ II bis.-La communauté d'agglomération est titulaire du droit de préemption ur
 
 III.-Lorsque l'exercice des compétences mentionnées aux I et II du présent article est subordonné à la reconnaissance de leur intérêt communautaire, cet intérêt est déterminé à la majorité des deux tiers du conseil de la communauté d'agglomération. Il est défini au plus tard deux ans après l'entrée en vigueur de l'arrêté prononçant le transfert de compétence. A défaut, la communauté d'agglomération exerce l'intégralité de la compétence transférée.
 
-IV.-La communauté d'agglomération peut transférer certaines de ses compétences à un syndicat mixte dont le périmètre inclut en totalité le périmètre communautaire après création du syndicat ou adhésion de la communauté.
+IV. (Abrogé).
 
 V.-Par convention passée avec le département, une communauté d'agglomération peut exercer pour le département tout ou partie des compétences qui, dans le domaine de l'action sociale, sont attribuées au département en vertu des articles L. 121-1 et L. 121-2 du code de l'action sociale et des familles.
 
