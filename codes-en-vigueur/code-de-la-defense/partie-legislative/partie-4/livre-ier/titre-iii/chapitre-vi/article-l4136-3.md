@@ -4,6 +4,8 @@ Nul ne peut être promu au choix à un grade autre que ceux d'officiers généra
 
 Une commission dont les membres, d'un grade supérieur à celui des intéressés, sont désignés par le ministre de la défense, présente à ce dernier tous les éléments d'appréciation nécessaires, notamment l'ordre de préférence et les notations données aux candidats par leurs supérieurs hiérarchiques.
 
+Pour les militaires de la gendarmerie nationale, le ministre compétent est le ministre de l'intérieur.
+
 Sous réserve des nécessités du service, les promotions ont lieu dans l'ordre du tableau d'avancement.
 
 Si le tableau n'a pas été épuisé, les militaires qui y figurent sont reportés en tête du tableau suivant.

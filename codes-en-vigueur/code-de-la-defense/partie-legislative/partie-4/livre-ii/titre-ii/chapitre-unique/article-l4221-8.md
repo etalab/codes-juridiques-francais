@@ -6,4 +6,4 @@ Pour l'application de l'article L. 4221-7, une convention est conclue entre l'Et
 
 2° Les conditions de l'exercice de la tutelle technique de l'entreprise sur les réservistes ;
 
-3° Les modalités selon lesquelles la solde versée aux réservistes est remboursée au ministère de la défense.
+3° Les modalités selon lesquelles la solde versée aux réservistes est remboursée au ministère de la défense et, pour les réservistes de la gendarmerie nationale, au ministère de l'intérieur.

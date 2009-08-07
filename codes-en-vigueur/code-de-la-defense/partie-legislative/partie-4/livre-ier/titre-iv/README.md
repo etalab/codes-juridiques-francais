@@ -4,3 +4,4 @@
 - [Chapitre II : Militaires servant à titre étranger](chapitre-ii)
 - [Chapitre III : Militaires servant au titre de la réserve](chapitre-iii)
 - [Chapitre IV : Fonctionnaires en détachement servant en qualité de militaire](chapitre-iv)
+- [Chapitre V : Militaires de la gendarmerie nationale](chapitre-v)
