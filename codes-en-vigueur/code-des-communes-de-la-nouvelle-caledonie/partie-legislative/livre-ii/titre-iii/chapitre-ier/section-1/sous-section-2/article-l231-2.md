@@ -24,7 +24,7 @@ Les recettes de la section d'investissement du budget communal se composent :
 
 11° Des amortissements des immobilisations pour les communes de 3 500 habitants et plus et pour celles de moins de 3 500 habitants qui ont inscrit en dépenses des dotations aux amortissements des immobilisations ;
 
-12° Des provisions pour les communes de 3 500 habitants et plus et pour celles de moins de 3 500 habitants qui ont inscrit en dépenses des dotations aux provisions ;
+12° Le cas échéant, des recettes des provisions, dans les conditions prévues par décret ;
 
 13° Des provisions spéciales constituées pour toute dette financière faisant l'objet d'un différé de remboursement ;
 

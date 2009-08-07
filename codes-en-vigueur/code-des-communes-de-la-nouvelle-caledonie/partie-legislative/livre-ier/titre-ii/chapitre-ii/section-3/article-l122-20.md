@@ -34,7 +34,7 @@ Le maire peut, en outre, par délégation du conseil municipal, être chargé, e
 
 16° De régler les conséquences dommageables des accidents dans lesquels sont impliqués des véhicules municipaux dans la limite fixée par le conseil municipal ;
 
-17° Dans les communes dotées d'un document d'urbanisme approuvé et sauf délibération contraire du conseil municipal, le maire, agissant au nom de la commune, instruit et délivre les autorisations de construire et de lotir et les certificats d'urbanisme ;
+17° Dans les communes dotées d'un document d'urbanisme approuvé et sauf délibération contraire du conseil municipal, d'instruire et de délivrer, en agissant au nom de la commune, les autorisations et les actes relatifs aux constructions, aux aménagements et aux démolitions dans les conditions fixées par la réglementation applicable localement ;
 
 18° D'exercer au nom de la commune, et sans préjudice des droits de préemption de la Nouvelle-Calédonie et des provinces, les droits de préemption définis par les règlements d'urbanisme ;
 

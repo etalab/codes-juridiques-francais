@@ -4,7 +4,7 @@ Les antennes de la société nationale chargée du service public de la communic
 
 I. - Une durée d'émission de trois heures à la télévision et de trois heures à la radio est mise à la disposition des listes présentées par les partis et groupements politiques représentés au congrès et aux assemblées de province.
 
-Le Conseil supérieur de l'audiovisuel détermine le temps attribué à chaque liste en fonction de la représentation des partis et groupements politiques au congrès. Cette représentation est constatée au plus tard deux mois avant la date d'expiration du mandat du congrès, au vu de la déclaration individuelle de rattachement faite par chaque élu sortant.
+Le Conseil supérieur de l'audiovisuel détermine le temps attribué à chaque liste en fonction de la représentation des partis et groupements politiques au congrès. Cette représentation est constatée au plus tard deux mois avant la date d'expiration du mandat du congrès, au vu de la déclaration individuelle de rattachement faite par chaque élu sortant. En cas de dissolution du congrès, la déclaration individuelle de rattachement est faite dans les huit jours qui suivent la publication du décret de dissolution au Journal officiel de la Nouvelle-Calédonie.
 
 Les listes peuvent décider d'utiliser en commun leur temps de parole.
 
