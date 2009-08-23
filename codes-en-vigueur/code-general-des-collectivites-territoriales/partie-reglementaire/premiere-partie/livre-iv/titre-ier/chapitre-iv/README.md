@@ -7,4 +7,5 @@
 - [Article D1414-5](article-d1414-5.md)
 - [Article D1414-6](article-d1414-6.md)
 - [Article D1414-7](article-d1414-7.md)
+- [Article D1414-9](article-d1414-9.md)
 - [Article R1414-8](article-r1414-8.md)
