@@ -6,7 +6,6 @@
 - [Article D751-77](article-d751-77.md)
 - [Article D751-78](article-d751-78.md)
 - [Article D751-79](article-d751-79.md)
-- [Article D751-80](article-d751-80.md)
 - [Article D751-80-1](article-d751-80-1.md)
 - [Article D751-80-2](article-d751-80-2.md)
 - [Article D751-81](article-d751-81.md)
