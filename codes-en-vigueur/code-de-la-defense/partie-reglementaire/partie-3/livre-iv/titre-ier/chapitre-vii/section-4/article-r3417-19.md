@@ -21,3 +21,5 @@ A ce titre, il exerce les compétences suivantes :
 8° Le secrétariat du conseil d'administration ;
 
 9° L'élaboration du règlement intérieur du conseil d'administration.
+
+Le directeur peut déléguer sa signature pour accomplir en son nom des actes relatifs à certaines de ses attributions.

@@ -2,13 +2,15 @@
 
 I. ― Le conseil d'administration de l'établissement comprend, outre son président, treize membres :
 
-1° Douze membres représentant l'Etat, dont :
+1° Douze membres représentant l'Etat dont :
 
 a) Neuf membres au titre du ministère de la défense ;
 
-b) Deux membres au titre du ministère chargé de l'économie et des finances ;
+b) Un membre au titre du ministère chargé de l'économie ;
 
-c) Un membre au titre du ministère chargé de l'aviation civile.
+c) Un membre au titre du ministère chargé du budget ;
+
+d) Un membre au titre du ministère chargé de l'aviation civile.
 
 Ces membres sont nommés par arrêté du ministre concerné. La durée de leur mandat est de trois ans renouvelable une fois.
 
