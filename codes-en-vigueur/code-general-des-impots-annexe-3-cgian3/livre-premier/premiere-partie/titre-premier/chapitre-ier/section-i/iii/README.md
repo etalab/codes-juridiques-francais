@@ -11,6 +11,7 @@
 - [A : Opérations réalisées sur des marchés financiers à terme](a)
 - [A bis : Frais d'émission d'emprunts](a-bis)
 - [A ter : Régime fiscal des contrats d'échange de taux d'intérêt ou de devises réalisés par les établissements de crédit](a-ter)
+- [A quater : Entreposage de produits agricoles](a-quater)
 - [B : Provision pour fluctuation des cours](b)
 - [E : Provisions pour investissement à l'étranger](e)
 - [G : Réinvestissement des plus-values. Exclusion des acquisitions de biens de caractère somptuaire](g)
