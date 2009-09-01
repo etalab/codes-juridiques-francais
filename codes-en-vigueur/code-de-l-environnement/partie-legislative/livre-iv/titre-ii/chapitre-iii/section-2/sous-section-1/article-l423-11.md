@@ -22,4 +22,4 @@ Ne peuvent obtenir la délivrance d'un permis de chasser :
 
 Sous les peines encourues pour le délit prévu par l'article 441-6 du code pénal, toute personne demandant la délivrance d'un permis de chasser doit déclarer qu'elle n'est pas dans l'un des cas d'incapacité ou d'interdiction prévus ci-dessus.
 
-Le permis de chasser délivré sur une fausse déclaration est nul de plein droit. Dans ce cas, il doit être remis au préfet à sa demande. Il peut être fait application des peines prévues contre ceux qui ont chassé sans permis valable.
+Le permis de chasser délivré sur une fausse déclaration est nul de plein droit. Dans ce cas, il doit être remis à l'Office national de la chasse et de la faune sauvage à sa demande. Il peut être fait application des peines prévues contre ceux qui ont chassé sans permis valable.
