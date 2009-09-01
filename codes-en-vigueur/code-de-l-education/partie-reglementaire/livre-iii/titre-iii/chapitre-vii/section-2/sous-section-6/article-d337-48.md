@@ -7,3 +7,5 @@ Le jury du brevet d'études professionnelles est composé à parité :
 2° De personnalités qualifiées de la profession choisies en nombre égal parmi les employeurs et les salariés après consultation des organisations représentatives.
 
 Le jury est présidé par un conseiller de l'enseignement technologique. Un vice-président est désigné parmi les membres du jury enseignant dans des établissements d'enseignement publics pour suppléer le président en cas d'indisponibilité de ce dernier.
+
+Pour les spécialités relevant de la formation professionnelle maritime mentionnées au dernier alinéa de l'article D. 337-27, le jury est présidé par un professeur de l'enseignement maritime.
