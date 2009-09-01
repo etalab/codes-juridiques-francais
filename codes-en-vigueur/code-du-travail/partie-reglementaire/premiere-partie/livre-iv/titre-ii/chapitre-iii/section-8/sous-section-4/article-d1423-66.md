@@ -9,13 +9,13 @@ Le nombre d'heures indemnisables qu'un conseiller prud'homme peut déclarer avoi
 <br/>OBJET DE LA RÉDACTION <br/>
 </th>
 <th>
-<br/>NOMBRE D'HEURES <br/>
-<br/>indemnisables <br/>
+<br/>NOMBRE D'HEURES <p>indemnisables <br/>
+</p>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Procès-verbal <br/>
+<br/>Procès-verbal de conciliation <br/>
 </td>
 <td align="center">
 <br/>30 minutes <br/>
@@ -26,12 +26,12 @@ Le nombre d'heures indemnisables qu'un conseiller prud'homme peut déclarer avoi
 <br/>Jugement <br/>
 </td>
 <td align="center">
-<br/>3 heures <br/>
+<br/>5 heures <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Ordonnance <br/>
+<br/>Ordonnance de référé <br/>
 </td>
 <td align="center">
 <br/>1 heure <br/>
@@ -40,12 +40,8 @@ Le nombre d'heures indemnisables qu'un conseiller prud'homme peut déclarer avoi
 </tbody>
 </table>
 
-Toutefois, lorsque le bureau de jugement autorise expressément, au cours du délibéré, le principe du dépassement de cette durée, le conseiller qui en a été chargé peut déclarer pour la rédaction d'un jugement un temps pouvant aller jusqu'à cinq heures.
+Lorsque le conseiller consacre à la rédaction d'un jugement ou d'une ordonnance de référé un temps supérieur à ces durées, il en réfère au président du bureau de jugement ou de la formation de référé qui saisit sans délai, par requête motivée, le président du conseil de prud'hommes.
 
-Lorsque le bureau de jugement ne parvient pas à un accord sur le principe du dépassement de cette durée, le président du bureau saisit sans délai le président du conseil de prud'hommes ou, dans les sections des activités diverses, du commerce et des services commerciaux, de l'encadrement et de l'industrie des conseils de prud'hommes de Paris, Bobigny, Lyon, Marseille et Nanterre, le président de la section.
+Le président du conseil décide de la durée de rédaction dans les huit jours de sa saisine, au vu du dossier et de la copie de la minute après avis du vice-président du conseil. Le temps fixé ne peut être inférieur aux durées fixées au tableau ci-dessus.
 
-Lorsque le conseiller consacre à la rédaction un temps supérieur à celui autorisé par le bureau de jugement ou, le cas échéant, par le président du conseil de prud'hommes ou le président de section, il en réfère au président du bureau qui saisit sans délai, par requête motivée, le président du conseil de prud'hommes ou le président de section.
-
-Le président du conseil ou le président de section décide de la durée de rédaction dans les huit jours de sa saisine, au vu du dossier et, le cas échéant, de la copie de la minute, et après avis, selon les cas, du vice-président du conseil ou du vice-président de section. Le temps fixé ne peut être inférieur à la durée initialement prévue.
-
-La décision du président du conseil de prud'hommes ou du président de section est une mesure d'administration judiciaire.
+La décision du président du conseil de prud'hommes est une mesure d'administration judiciaire.

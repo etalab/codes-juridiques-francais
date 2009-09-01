@@ -1,7 +1,6 @@
 # Article D1423-72
 
 Le nombre d'heures indemnisées chaque mois pour le temps que consacrent à leurs activités administratives les présidents et vice-présidents de conseils de prud'hommes ne peut dépasser les durées fixées au tableau ci-après :
-
 <table>
 <tbody>
 <tr>
@@ -43,7 +42,7 @@ Le nombre d'heures indemnisées chaque mois pour le temps que consacrent à leur
 <br/>Conseils de Bobigny, Lyon, Marseille et Nanterre <br/>
 </td>
 <td align="center">
-<br/>48 heures par mois <br/>
+<br/>60 heures par mois <br/>
 </td>
 </tr>
 <tr>
@@ -51,12 +50,8 @@ Le nombre d'heures indemnisées chaque mois pour le temps que consacrent à leur
 <br/>Conseil de Paris <br/>
 </td>
 <td align="center">
-<br/>72 heures par mois <br/>
+<br/>72 heures par mois<br/>
 </td>
 </tr>
 </tbody>
 </table>
-
-Les présidents et vice-présidents des sections des activités diverses, du commerce et des services commerciaux, de l'encadrement et de l'industrie du conseil de prud'hommes de Paris peuvent être indemnisés pour le temps consacré à leurs activités administratives dans la limite de 52 heures par mois.
-
-Les présidents et vice-présidents des mêmes sections des conseils de prud'hommes de Bobigny, Lyon, Marseille et Nanterre peuvent être indemnisés pour le temps consacré à leurs activités administratives dans la limite de 60 heures par an.
