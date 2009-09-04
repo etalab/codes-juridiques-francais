@@ -1,0 +1,23 @@
+# Chapitre IV : Mesures d'application.
+
+- [Section 1 : Dispositions générales](section-1)
+- [Section 2 : Etiquetage des denrées alimentaires](section-2)
+- [Section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires](section-3)
+- [Section 4 : Organismes génétiquement modifiés](section-4)
+- [Section 5 : Boissons alcoolisées](section-5)
+- [Section 6 :  Arômes](section-6)
+- [Section 7 : Adjonction de vitamines, de minéraux 
+et de certaines autres substances aux denrées alimentaires](section-7)
+- [Section 8 : Contaminants](section-8)
+- [Section 9 : Fruits et légumes](section-9)
+- [Section 10 : Huile d'olive et olives de table](section-10)
+- [Section 11 : Œufs et viande de volaille](section-11)
+- [Section 12 : Produits laitiers et matières grasses laitières ou non](section-12)
+- [Section 13 : Produits de la pêche](section-13)
+- [Section 14 : Viandes bovine, ovine et porcine](section-14)
+- [Section 15 : Modes de valorisation](section-15)
+- [Section 16 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux, d'origine végétale et animale](section-16)
+- [Section 17 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées](section-17)
+- [Section 18 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires](section-18)
+- [Section 19 : Engrais](section-19)
+- [Section 20 : Détergents](section-20)
