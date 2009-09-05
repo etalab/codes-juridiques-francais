@@ -16,8 +16,6 @@ Lorsqu'il s'agit de la collectivité territoriale de Corse, le président du con
 
 6° Lorsqu'il s'agit d'un autre établissement public local, le représentant légal de l'établissement ou son représentant, président, et de deux à quatre membres de l'organe délibérant, désignés par celui-ci.
 
-Outre le directeur ou son représentant, président, chaque commission comporte obligatoirement au moins un membre désigné par le conseil d'administration en son sein ou parmi des personnalités qualifiées proposées par le directeur. Chaque commission comporte un nombre impair de membres.
-
 II. - Dans tous les cas énumérés ci-dessus, il est procédé, selon les mêmes modalités, à la désignation ou à l'élection de suppléants en nombre égal à celui des membres titulaires. Cette règle ne s'applique pas aux établissements publics de coopération intercommunale et aux syndicats mixtes dont l'organe délibérant comporte moins de cinq membres.
 
 III. - Pour les collectivités mentionnées aux 1°, 2°, 3°, 4° et 5° du I, l'élection des membres titulaires et des suppléants a lieu sur la même liste, sans panachage ni vote préférentiel. Les listes peuvent comprendre moins de noms qu'il n'y a de sièges de titulaires et de suppléants à pourvoir.
