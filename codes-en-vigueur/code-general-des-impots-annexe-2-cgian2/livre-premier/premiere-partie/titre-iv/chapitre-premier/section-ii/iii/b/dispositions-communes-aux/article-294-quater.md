@@ -8,6 +8,10 @@ Toutefois, dans le cas prévu au f de l'article 787 B, l'année de l'apport, cha
 
 De même, en cas d'opération de fusion, de scission ou d'augmentation de capital telles que prévues aux g et h de l'article 787 B, chacun des héritiers, donataires ou légataires ayant bénéficié du régime prévu par l'article précité certifie chaque année qu'il a conservé les titres reçus à l'issue de l'opération.
 
+Dans le cas prévu au i de l'article 787 B précité, le donateur doit fournir une copie de l'acte de donation et adresser, dans les conditions prévues au premier alinéa du présent article, une attestation certifiant que les obligations mentionnées au premier alinéa du présent a sont satisfaites.
+
 b) Pour les biens mentionnés à l'article 787 C, les obligations prévues aux b et c de cet article étaient remplies au 31 décembre de chaque année.
 
-Cette attestation individuelle est produite à compter du point de départ de l'engagement individuel de conservation de six ans des biens dont la transmission à titre gratuit a été partiellement exonérée, et jusqu'à l'expiration de celui-ci.
+Dans le cas prévu au d de l'article 787 C du même code, le donataire doit fournir une copie de l'acte de donation et adresser, dans les conditions prévues au premier alinéa du présent article, une attestation certifiant que les obligations mentionnées au premier alinéa du présent b sont satisfaites.
+
+Cette attestation individuelle est produite à compter du point de départ de l'engagement individuel de conservation de quatre ans des biens dont la transmission à titre gratuit a été partiellement exonérée, et jusqu'à l'expiration de celui-ci.
