@@ -6,8 +6,6 @@ La liste des établissements pénitentiaires spécialisés pour mineurs prévue 
 
 -établissement spécialisé pour mineurs de Marseille (Bouches-du-Rhône) ;
 
--établissement spécialisé pour mineurs de Meaux-Chauconin-Neufmontiers (Seine-et-Marne) ;
-
 -établissement spécialisé pour mineurs d'Orvault (Loire-Atlantique) ;
 
 -établissement spécialisé pour mineurs de Porcheville (Yvelines) ;

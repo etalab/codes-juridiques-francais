@@ -2606,8 +2606,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>Maison d'arrêt de Lyon-Saint-Paul (quartier maison d'arrêt Saint-Joseph inclus). </p>
-<p>(jusqu'au 15 mai 2009). </p>
+<p>Maison d'arrêt de Lyon-Corbas. </p>
 </td>
 </tr>
 <tr>
@@ -2615,15 +2614,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>Maison d'arrêt de Lyon-Montluc (jusqu'au 15 février 2009). </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
-<p>Maison d'arrêt de Lyon-Corbas (à partir du 27 avril 2009). </p>
 <p>Centre de semi-liberté de Lyon. </p>
 </td>
 </tr>
@@ -3155,7 +3145,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>(Arr. 1 <sup>er </sup>oct. 2004, art. 2) Antenne de Draguignan. </p>
+<p>(Arr. 1er oct. 2004, art. 2) Antenne de Draguignan. </p>
 </td>
 <td valign="top">
 <p>(Arr. 13 déc. 2005, art. 5) Circonscription judiciaire de Draguignan. </p>
@@ -3174,7 +3164,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>(Arr. 1 <sup>er </sup>oct. 2004, art. 2) Centre pénitentiaire de Draguignan. </p>
+<p>(Arr. 1er oct. 2004, art. 2) Centre pénitentiaire de Draguignan. </p>
 </td>
 </tr>
 <tr>
@@ -3268,7 +3258,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>Maison d'arrêt de Poitiers. </p>
+<p>Centre pénitentiaire de Poitiers-Vivonne (quartier de semi-liberté de Poitiers inclus). </p>
 </td>
 </tr>
 <tr>
@@ -3492,7 +3482,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>Maison d'arrêt de Fresnes. </p>
+<p>Centre pénitentiaire de Fresnes (quartier pour peines aménagées de Villejuif inclus). </p>
 </td>
 </tr>
 <tr>
@@ -3509,14 +3499,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top"/>
 <td valign="top">
 <p>Centre national d'observation. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
-<p>(Arr. 13 déc. 2005, art. 5) Centre pour peines aménagées de Villejuif. </p>
 </td>
 </tr>
 <tr>
@@ -3678,16 +3660,16 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top">
-<p>(Arr. 13 déc. 2005, art. 1 <sup>er</sup>) Service pénitentiaire d'insertion et de probation de Mayotte. </p>
+<p>(Arr. 13 déc. 2005, art. 1er) Service pénitentiaire d'insertion et de probation de Mayotte. </p>
 </td>
 <td valign="top">
-<p>(Arr. 13 déc. 2005, art. 1 <sup>er</sup>) Mamoudzou. </p>
+<p>(Arr. 13 déc. 2005, art. 1er) Mamoudzou. </p>
 </td>
 <td valign="top">
-<p>(Arr. 13 déc. 2005, art. 1 <sup>er</sup>) Néant. </p>
+<p>(Arr. 13 déc. 2005, art. 1er) Néant. </p>
 </td>
 <td valign="top">
-<p>(Arr. 13 déc. 2005, art. 1 <sup>er</sup>) Circonscription judiciaire du tribunal de première instance de Mamoudzou. </p>
+<p>(Arr. 13 déc. 2005, art. 1er) Circonscription judiciaire du tribunal de première instance de Mamoudzou. </p>
 </td>
 </tr>
 <tr>
@@ -3695,7 +3677,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>(Arr. 13 déc. 2005, art. 1 <sup>er</sup>) Maison d'arrêt de Majicavo.</p>
+<p>(Arr. 13 déc. 2005, art. 1er) Maison d'arrêt de Majicavo.</p>
 </td>
 </tr>
 </tbody>

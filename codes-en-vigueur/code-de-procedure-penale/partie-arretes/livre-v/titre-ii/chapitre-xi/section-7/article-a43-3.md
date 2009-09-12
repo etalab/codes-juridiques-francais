@@ -2,8 +2,6 @@
 
 La liste des quartiers des mineurs des maisons d'arrêt ou des établissements pour peines prévue à l'article R. 57-9-11 est fixée comme suit :
 
-Quartier des mineurs de la maison d'arrêt d'Angers (Maine-et-Loire) ;
-
 Quartier des mineurs de la maison d'arrêt d'Angoulême (Charente) ;
 
 Quartier des mineurs du centre pénitentiaire d'Avignon-le-Pontet (Vaucluse) ;
@@ -11,8 +9,6 @@ Quartier des mineurs du centre pénitentiaire d'Avignon-le-Pontet (Vaucluse) ;
 Quartier des mineurs du centre pénitentiaire de Baie-Mahault (Guadeloupe) ;
 
 Quartier des mineurs de la maison d'arrêt de Besançon (Doubs) ;
-
-Quartier des mineurs de la maison d'arrêt de Bois-d'Arcy (Yvelines) ;
 
 Quartier des mineurs de la maison d'arrêt de Bonneville (Haute-Savoie) ;
 
@@ -44,8 +40,6 @@ Quartier des mineurs de la maison d'arrêt de Grenoble-Varces (Isère) ;
 
 Quartier des mineurs du centre pénitentiaire de Laon (Aisne) ;
 
-Quartier des mineurs du centre pénitentiaire du Port (Réunion) ;
-
 Quartier des mineurs du centre pénitentiaire de Liancourt (Oise) ;
 
 Quartier des mineurs de la maison d'arrêt de Limoges (Haute-Vienne) ;
@@ -68,8 +62,6 @@ Quartier des mineurs de la maison d'arrêt de Nanterre (Hauts-de-Seine) ;
 
 Quartier des mineurs de la maison d'arrêt d'Orléans (Loiret) ;
 
-Quartier des mineurs de la maison d'arrêt d'Osny-Pontoise (Val-d'Oise) ;
-
 Quartier des mineurs de la maison d'arrêt de Pau (Pyrénées-Atlantiques) ;
 
 Quartier des mineurs du centre pénitentiaire de Perpignan (Pyrénées-Orientales) ;
@@ -85,6 +77,8 @@ Quartier des mineurs de la maison d'arrêt de Rouen (Seine-Maritime) ;
 Quartier des mineurs du quartier maison d'arrêt du centre pénitentiaire de Saint-Denis (Réunion) ;
 
 Quartier des mineurs du centre pénitentiaire de Saint-Etienne (Loire) ;
+
+Quartier des mineurs du centre de semi-liberté de Souffelweyersheim (Bas-Rhin).
 
 Quartier des mineurs de la maison d'arrêt de Strasbourg (Bas-Rhin) ;
 
