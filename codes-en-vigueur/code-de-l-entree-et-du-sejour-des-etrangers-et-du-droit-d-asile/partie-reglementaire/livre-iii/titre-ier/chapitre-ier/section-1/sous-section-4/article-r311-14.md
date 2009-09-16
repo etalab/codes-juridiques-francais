@@ -8,7 +8,7 @@ Le titre de séjour est retiré :
 
 3° Si l'étranger titulaire d'une carte de résident s'est absenté du territoire français pendant une période de plus de trois ans consécutifs sans que cette période ait fait l'objet d'une autorisation de prolongation ;
 
-4° Si l'étranger titulaire d'une carte de résident portant la mention "résident de longue durée-CE" accordée par la France a résidé en dehors du territoire des Etats membres de l'Union européenne pendant une période de plus de trois ans consécutifs sans que cette période ait fait l'objet d'une autorisation de prolongation, ou a résidé en dehors du territoire français pendant une période de plus de six ans consécutifs, ou a acquis le statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne ;
+4° Si l'étranger titulaire d'une carte de résident portant la mention " résident de longue durée-CE " accordée par la France a résidé en dehors du territoire des Etats membres de l'Union européenne pendant une période de plus de trois ans consécutifs sans que cette période ait fait l'objet d'une autorisation de prolongation, ou a résidé en dehors du territoire français pendant une période de plus de six ans consécutifs, ou a acquis le statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne ;
 
 5° Si son détenteur fait l'objet d'une mesure d'expulsion ;
 
@@ -16,6 +16,10 @@ Le titre de séjour est retiré :
 
 7° Si l'étranger titulaire d'une carte de résident est condamné pour avoir commis sur un mineur de quinze ans l'infraction définie à l'article 222-9 du code pénal ou s'être rendu complice de celle-ci ;
 
-8° Si l'étranger titulaire de la carte de séjour temporaire ou de la carte de séjour "compétences et talents" cesse de remplir l'une des conditions exigées pour sa délivrance.
+8° Si l'étranger titulaire de la carte de séjour temporaire ou de la carte de séjour " compétences et talents " cesse de remplir l'une des conditions exigées pour sa délivrance ;
 
-Par dérogation à l'alinéa précédent, la carte de séjour temporaire portant la mention "salarié" ou "travailleur temporaire" ne peut être retirée au motif que l'étranger s'est trouvé, autrement que de son fait, privé d'emploi.
+9° Si l'opération ou l'engagement mentionné à l'article R. 314-6 qui a motivé la délivrance de la carte ne connaît aucun début d'exécution dans un délai d'un an suivant la date de délivrance de la carte de résident ;
+
+10° S'il est établi que les fonds nécessaires à l'opération mentionnée à l'article R. 314-6 proviennent d'activités illicites.
+
+Par dérogation à l'alinéa précédent, la carte de séjour temporaire portant la mention " salarié " ou " travailleur temporaire " ne peut être retirée au motif que l'étranger s'est trouvé, autrement que de son fait, privé d'emploi.
