@@ -4,7 +4,7 @@ Dans les établissements soumis aux prescriptions du présent chapitre, il doit 
 
 - l'état du personnel chargé du service d'incendie ;
 
-- les diverses consignes, générales et particulières, établies en cas d'incendie ;
+- les diverses consignes, générales et particulières, établies en cas d'incendie y compris les consignes d'évacuation prenant en compte les différents types de handicap ;
 
 - les dates des divers contrôles et vérifications ainsi que les observations auxquelles ceux-ci ont donné lieu ;
 
