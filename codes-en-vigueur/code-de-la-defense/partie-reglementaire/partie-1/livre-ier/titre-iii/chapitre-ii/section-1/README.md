@@ -1,7 +1,6 @@
 # Section 1 : Secrétariat général de la défense nationale
 
 - [Article D*1132-10](article-d-1132-10.md)
-- [Article D*1132-11](article-d-1132-11.md)
 - [Article D1132-4](article-d1132-4.md)
 - [Article D1132-5](article-d1132-5.md)
 - [Article D1132-6](article-d1132-6.md)
