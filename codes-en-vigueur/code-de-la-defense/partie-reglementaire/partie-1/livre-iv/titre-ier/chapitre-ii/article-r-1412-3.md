@@ -1,4 +1,4 @@
-# Article R*1411-9
+# Article R*1412-3
 
 Le délégué délivre les autorisations ou reçoit les déclarations mentionnées à l'article L. 1333-4 du code de la santé publique lorsque les sources de rayonnements ionisants sont détenues ou utilisées dans les équipements et installations soumis à son contrôle.
 

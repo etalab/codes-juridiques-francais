@@ -1,4 +1,4 @@
-# Article R*1411-8
+# Article R*1412-2
 
 Le délégué est notamment chargé :
 

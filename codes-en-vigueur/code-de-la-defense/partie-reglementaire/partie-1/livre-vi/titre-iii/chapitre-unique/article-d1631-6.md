@@ -6,6 +6,6 @@ Sont applicables à Mayotte, sous réserve des adaptations prévues à l'article
 
 2° Au livre III, les dispositions des articles D. 1313-7 à D. 1313-10, D. 1321-2 à D. 1321-18, D. 1332-39 à D. 1332-41, D. 1334-5 à D. 1334-14, D. 1336-43 à D. 1336-46, D. 1337-14 à D. 1337-17, D. 1338-6 ;
 
-3° Au livre IV, les dispositions des articles D. 1411-14 à D. 1443-4 ;
+3° Au livre IV, les dispositions des articles D. 1443-2 à D. 1443-4 ;
 
 4° Au titre VIII du présent livre, les dispositions des articles D. 1681-7 à D. 1681-12, D. 1681-15 et D. 1681-16.

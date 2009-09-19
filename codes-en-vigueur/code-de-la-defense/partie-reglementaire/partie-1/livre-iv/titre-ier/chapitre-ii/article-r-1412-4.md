@@ -1,4 +1,4 @@
-# Article R*1411-10
+# Article R*1412-4
 
 Le délégué est assisté de deux adjoints, un adjoint militaire nommé par le ministre de la défense et un adjoint nommé par le ministre chargé de l'industrie.
 

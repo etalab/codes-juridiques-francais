@@ -1,4 +1,4 @@
-# Article R*1411-7
+# Article R*1412-1
 
 Le délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités nucléaires intéressant la défense est placé auprès du ministre de la défense et du ministre chargé de l'industrie. Le délégué est nommé par décret, sur proposition conjointe des deux ministres, pour une durée de cinq ans renouvelable.
 
