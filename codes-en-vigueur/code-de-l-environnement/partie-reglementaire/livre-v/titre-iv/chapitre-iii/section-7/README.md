@@ -1,5 +1,8 @@
 # Section 7 : Piles et accumulateurs
 
-- [Sous-section 1 : Conditions de mise sur le marché des piles et accumulateurs](sous-section-1)
-- [Sous-section 2 : Elimination des piles et accumulateurs usagés](sous-section-2)
-- [Sous-section 3 : Dispositions pénales](sous-section-3)
+- [Sous-section 1 : Champ d'application et définitions](sous-section-1)
+- [Sous-section 2 : Mise sur le marché des piles et accumulateurs](sous-section-2)
+- [Sous-section 3 : Elimination des piles et accumulateurs usagés](sous-section-3)
+- [Sous-section 4 :  Traitement des piles et accumulateurs usagés](sous-section-4)
+- [Sous-section 5 : Registre](sous-section-5)
+- [Sous-section 6 : Sanctions pénales](sous-section-6)
