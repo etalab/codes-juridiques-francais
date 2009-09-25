@@ -6,4 +6,4 @@ Le secrétariat du comité est assuré par le représentant de l'Etat ou par une
 
 Des rapporteurs désignés par le président sont chargés de l'étude et de la présentation des affaires inscrites à l'ordre du jour. Ils sont choisis à l'intérieur ou à l'extérieur du comité.
 
-Toute personne qualifiée peut être appelée par le président, s'il le juge utile, à participer aux travaux du comité avec voix consultative.
+Le président peut, en fonction de l'ordre du jour, appeler à participer à la délibération du comité, avec voix consultative, toute personne compétente dont il juge la présence utile.
