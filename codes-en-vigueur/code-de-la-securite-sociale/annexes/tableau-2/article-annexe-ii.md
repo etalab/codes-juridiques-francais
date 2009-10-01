@@ -164,7 +164,7 @@
 <p>Nancy</p>
 </td>
 <td valign="top" width="378">
-<p>Meurthe-et-Moselle, Meuse, Vosges et Moselle, sauf pour les décisions d'organismes sous le contrôle de la DRASS et du SRITEPSA d'Alsace.</p>
+<p>Meurthe-et-Moselle, Meuse, Vosges et Moselle, sauf pour les décisions d'organismes sous le contrôle du SRITEPSA d'Alsace.</p>
 </td>
 </tr>
 <tr>
@@ -241,7 +241,7 @@
 <p>Strasbourg</p>
 </td>
 <td valign="top" width="378">
-<p>Bas-Rhin, Haut-Rhin et Moselle, pour les décisions des organismes sous le contrôle de la DRASS et du SRITEPSA d'Alsace.</p>
+<p>Bas-Rhin, Haut-Rhin et Moselle, pour les décisions d'organismes sous le contrôle du SRITEPSA d'Alsace.</p>
 </td>
 </tr>
 <tr>
