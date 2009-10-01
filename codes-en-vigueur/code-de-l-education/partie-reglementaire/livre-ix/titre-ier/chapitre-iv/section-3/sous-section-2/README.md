@@ -1,5 +1,4 @@
-# Sous-section 2 : Concours de recrutement de maîtres 
-de l'enseignement privé sous contrat.
+# Sous-section 2 : Concours de recrutement de maîtres   de l'enseignement privé sous contrat dans le second degré.
 
 - [Paragraphe 1 : Concours externes.](paragraphe-1)
 - [Paragraphe 2 : Concours internes.](paragraphe-2)

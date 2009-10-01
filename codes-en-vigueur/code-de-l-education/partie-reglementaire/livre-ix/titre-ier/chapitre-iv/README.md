@@ -2,8 +2,7 @@
 
 - [Section 1 : Dispositions générales.](section-1)
 - [Section 2 : Les organismes consultatifs.](section-2)
-- [Section 3 : Recrutement et formation des enseignants 
-des classes sous contrat.](section-3)
+- [Section 3 : Recrutement des enseignants  des classes sous contrat.](section-3)
 - [Section 4 : Notation, avancement, mouvement, classement.](section-4)
 - [Section 5 : Rémunération.](section-5)
 - [Section 6 : Charges sociales.](section-6)
