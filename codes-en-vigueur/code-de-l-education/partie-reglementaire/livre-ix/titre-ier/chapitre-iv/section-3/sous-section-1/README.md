@@ -1,11 +1,5 @@
 # Sous-section 1 : Concours de recrutement des maîtres de l'enseignement privé sous contrat dans le premier degré
 
-- [Article R914-14](article-r914-14.md)
-- [Article R914-15](article-r914-15.md)
-- [Article R914-16](article-r914-16.md)
-- [Article R914-17](article-r914-17.md)
-- [Article R914-18](article-r914-18.md)
-- [Article R914-19](article-r914-19.md)
 - [Article R914-19-1](article-r914-19-1.md)
 - [Article R914-19-2](article-r914-19-2.md)
 - [Article R914-19-3](article-r914-19-3.md)
