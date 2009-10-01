@@ -44,7 +44,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </td>
 <td>
 <br/>
-<p align="center">11 </p>
+<p align="center">12 </p>
 </td>
 <td>
 <br/>
@@ -132,6 +132,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <br/>
@@ -149,6 +150,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <br/>
@@ -165,6 +167,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -201,6 +204,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <br/>
@@ -218,6 +222,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <br/>
@@ -234,6 +239,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -270,6 +276,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <br/>
@@ -286,6 +293,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -328,6 +336,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <br/>
@@ -362,6 +371,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -620,6 +630,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <br/>
@@ -654,6 +665,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -756,6 +768,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <br/>
@@ -790,6 +803,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -868,6 +882,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <br/>
@@ -945,6 +960,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <br/>
@@ -986,6 +1002,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <br/>
@@ -1002,6 +1019,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -1020,6 +1038,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <br/>
@@ -1036,6 +1055,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -1071,6 +1091,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -1148,6 +1169,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -1268,6 +1290,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <br/>
@@ -1302,6 +1325,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -1343,6 +1367,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -1396,6 +1421,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -1455,6 +1481,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -1707,6 +1734,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <br/>
@@ -1778,6 +1806,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <br/>
@@ -1819,6 +1848,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <br/>
@@ -1853,6 +1883,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -1912,6 +1943,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -2044,6 +2076,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <br/>
@@ -2103,6 +2136,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <br/>
@@ -2137,6 +2171,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -2173,6 +2208,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <br/>
@@ -2207,6 +2243,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -2248,6 +2285,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -2344,6 +2382,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <br/>
@@ -2379,6 +2418,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <br/>
@@ -2395,6 +2435,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -2472,6 +2513,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td>
+<br/>
 <br/>
 </td>
 <td>
