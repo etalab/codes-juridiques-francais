@@ -4,4 +4,4 @@ I.-Lorsque l'infraction qui a motivé l'immobilisation n'a pas cessé au moment 
 
 II.-La fiche d'immobilisation énonce les date, heure et lieu de l'immobilisation, l'infraction qui l'a motivée, les éléments d'identification du véhicule et du certificat d'immatriculation, les nom et adresse du contrevenant, les noms, qualités et affectations des agents qui la rédigent et précise la résidence de l'officier de police judiciaire ou l'agent de police judiciaire adjoint, chef de la police municipale ou occupant ces fonctions, qualifié pour lever la mesure.
 
-III.-Par dérogation aux dispositions du I ci-dessus, si la mesure a été motivée par le franchissement d'une barrière de dégel, l'autorité saisie est l'ingénieur des ponts et chaussées ou, s'il s'agit d'une voie communale, le maire.
+III.-Par dérogation aux dispositions du I ci-dessus, si la mesure a été motivée par le franchissement d'une barrière de dégel, l'autorité saisie est l'    ingénieur des ponts, des eaux et des forêts  ou, s'il s'agit d'une voie communale, le maire.

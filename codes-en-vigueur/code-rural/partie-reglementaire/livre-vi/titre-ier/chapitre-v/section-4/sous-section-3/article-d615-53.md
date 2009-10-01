@@ -2,9 +2,9 @@
 
 I.-Les agents relevant de l'un des organismes mentionnés aux I à III de l'article D. 615-52 ont qualité pour réaliser pour le compte de l'un ou l'autre de ces organismes les contrôles mentionnés aux mêmes paragraphes, qu'ils soient fonctionnaires ou agents non titulaires de l'Etat, notamment :
 
--les inspecteurs de la santé publique vétérinaire et les ingénieurs du génie rural, des eaux et des forêts ;
+-les inspecteurs de la santé publique vétérinaire et les         ingénieurs des ponts, des eaux et des forêts  ;
 
-- les vétérinaires contractuels de l'Etat ;
+-les vétérinaires contractuels de l'Etat ;
 
 -les ingénieurs de l'agriculture et de l'environnement ;
 
