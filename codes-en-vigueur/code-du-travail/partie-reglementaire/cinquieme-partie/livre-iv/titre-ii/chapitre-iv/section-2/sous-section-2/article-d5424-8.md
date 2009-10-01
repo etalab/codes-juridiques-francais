@@ -6,6 +6,6 @@ Les périodes d'arrêt saisonnier de travail prévues à l'article L. 5424-7 son
 
 2° Le directeur départemental de l'équipement ;
 
-3° L'ingénieur en chef des ponts et chaussées du service ordinaire.
+3° L'ingénieur en chef des ponts, des eaux et des forêts du service ordinaire.
 
 Peut également être appelée à siéger, en tant que de besoin, toute personne dont la compétence est jugée utile par les membres de la commission.
