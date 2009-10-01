@@ -321,15 +321,7 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 <p>[Laval </p>
 </td>
 <td width="314">
-<p>Ressort des tribunaux d'instance de Château-Gontier, Laval et Mayenne. (11)] </p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>[Laval </p>
-</td>
-<td width="314">
-<p>Ressort des tribunaux d'instance de Château-Gontier, Laval et Mayenne. (12 et 3)] </p>
+<p>Ressort des tribunaux d'instance de Château-Gontier et Laval. (12 et 3)] </p>
 </td>
 </tr>
 <tr>
@@ -656,7 +648,7 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 <p>[Nevers </p>
 </td>
 <td width="314">
-<p>Ressort des tribunaux d'instance de Château-Chinon, Clamecy, Cosne-Cours-sur-Loire et Nevers. (3)] </p>
+<p>Ressort des tribunaux d'instance de Château-Chinon, Clamecy, Cosne-Cours-sur-Loire et Nevers. (9)] </p>
 </td>
 </tr>
 <tr>
@@ -664,7 +656,7 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 <p>[Nevers </p>
 </td>
 <td width="314">
-<p>Ressort des tribunaux d'instance de Clamecy et Nevers. (4)] </p>
+<p>Ressort des tribunaux d'instance de Clamecy et Nevers. (10)] </p>
 </td>
 </tr>
 <tr>
@@ -937,7 +929,7 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 <p>[Chaumont </p>
 </td>
 <td width="314">
-<p>Ressort des tribunaux d'instance de Chaumont, Langres et Saint-Dizier. (3)] </p>
+<p>Ressort des tribunaux d'instance de Chaumont, Langres et Saint-Dizier. (9)] </p>
 </td>
 </tr>
 <tr>
@@ -945,7 +937,7 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 <p>[Chaumont </p>
 </td>
 <td width="314">
-<p>Ressort des tribunaux d'instance de Chaumont et Saint-Dizier. (4)] </p>
+<p>Ressort des tribunaux d'instance de Chaumont et Saint-Dizier. (10)] </p>
 </td>
 </tr>
 <tr>
@@ -1468,7 +1460,7 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 <p>[Carcassonne </p>
 </td>
 <td width="314">
-<p>Ressort des tribunaux d'instance de Carcassonne, Castelnaudary, Limoux et Narbonne. (3)] </p>
+<p>Ressort des tribunaux d'instance de Carcassonne, Castelnaudary, Limoux et Narbonne. (9)] </p>
 </td>
 </tr>
 <tr>
@@ -1476,7 +1468,7 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 <p>[Carcassonne </p>
 </td>
 <td width="314">
-<p>Ressort des tribunaux d'instance de Carcassonne et Narbonne. (4)] </p>
+<p>Ressort des tribunaux d'instance de Carcassonne, Limoux et Narbonne. (10 et 3)] </p>
 </td>
 </tr>
 <tr>
@@ -1513,7 +1505,7 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 <p>[Rodez </p>
 </td>
 <td width="314">
-<p>Ressort des tribunaux d'instance d'Espalion et Rodez. (10 et 3)] </p>
+<p>Ressort du tribunal d'instance de Rodez. (10)] </p>
 </td>
 </tr>
 <tr>
@@ -2276,14 +2268,14 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 </tr>
 <tr>
 <td width="300">
-<p>Dax</p>
+<br/>Dax<br/>
 </td>
 <td width="314">
 <p>Ressort du tribunal d'instance de Dax.</p>
 </td>
 </tr>
 <tr>
-<td>[Mont-de-Marsan  <br/>
+<td>[Mont-de-Marsan <br/>
 </td>
 <td>Ressort des tribunaux d'instance de Mont-de-Marsan et Saint-Sever. (7)]  <br/>
 </td>
@@ -3250,16 +3242,16 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 </tr>
 <tr>
 <td width="300">
-<p>Mamoudzou </p>
+<p align="left">Mamoudzou </p>
 </td>
 <td width="314">
-<p>Ressort du tribunal de Première instance de Mamoudzou. </p>
+<p align="left">Ressort du tribunal de Première instance de Mamoudzou. </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" width="614">
 <p align="left">(2) applicable à compter du 1er janvier 2009. </p>
-<p align="left">(3) applicable jusqu'au 31 décembre 2009. </p>
+<p align="left">(3) applicable à compter du 31 décembre 2009. </p>
 <p align="left">(4) applicable à compter du 1er janvier 2010. </p>
 <p align="left">(5) applicable jusqu'au 31 décembre 2010. </p>
 <p align="left">(6) applicable à compter du 1er janvier 2011. </p>
