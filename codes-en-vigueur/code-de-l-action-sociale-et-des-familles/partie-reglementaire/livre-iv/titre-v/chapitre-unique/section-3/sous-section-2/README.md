@@ -5,7 +5,6 @@
 - [Paragraphe 3 : Diplôme d'Etat d'éducateur de jeunes enfants.](paragraphe-3)
 - [Paragraphe 4 : Diplôme d'Etat aux fonctions d'éducateur technique spécialisé.](paragraphe-4)
 - [Paragraphe 5 : Diplôme d'Etat de conseiller en économie sociale et familiale.](paragraphe-5)
-- [Paragraphe 6 : Diplôme d'Etat relatif aux fonctions d'animation.](paragraphe-6)
 - [Paragraphe 7 : Diplôme d'Etat de médiateur familial.](paragraphe-7)
 - [Paragraphe 8 : Diplôme d'Etat de moniteur éducateur.](paragraphe-8)
 - [Paragraphe 9 : Diplôme d'Etat de technicien de l'intervention sociale et familiale.](paragraphe-9)
