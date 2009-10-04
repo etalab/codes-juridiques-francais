@@ -1,7 +1,5 @@
 # Article A321-28
 
-Les entretiens se déroulent en séance publique.
+L'épreuve d'aptitude prévue à l'article R. 321-67 a lieu au moins deux fois par an.
 
-Chaque entretien est noté sur 20 et est précédé de trente minutes de préparation.
-
-Le conseil des ventes volontaires de meubles aux enchères publiques assure le secrétariat du jury.
+L'organisation matérielle de l'épreuve est confiée au conseil des ventes volontaires de meubles aux enchères publiques.
