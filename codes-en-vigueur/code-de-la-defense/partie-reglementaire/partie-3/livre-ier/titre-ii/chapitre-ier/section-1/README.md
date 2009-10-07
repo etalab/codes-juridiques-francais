@@ -1,7 +1,6 @@
 # Section 1 :  Responsabilités générales du chef d'état-major des armées
 
 - [Paragraphe 1 : Emploi des forces](paragraphe-1)
-- [Sous-section unique : Le chef d'état-major des armées](sous-section-unique)
 - [Paragraphe 2 :  Préparation et mise en condition d'emploi des armées](paragraphe-2)
 - [Paragraphe 3 : Constitution des capacités militaires](paragraphe-3)
 - [Paragraphe 4 : Ressources humaines](paragraphe-4)
