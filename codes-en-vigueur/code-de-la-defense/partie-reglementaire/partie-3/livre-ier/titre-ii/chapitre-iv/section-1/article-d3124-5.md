@@ -1,6 +1,6 @@
 # Article D3124-5
 
-Dans chaque armée, la gendarmerie nationale et la délégation générale pour l'armement, l'inspecteur général est consulté par le délégué général, le chef d'état-major ou le directeur général pour la définition de la politique de gestion et la préparation des mesures individuelles intéressant les officiers généraux de son armée, de la gendarmerie nationale ou de la délégation générale pour l'armement.
+Dans chaque armée, la gendarmerie nationale et la direction générale de l'armement, l'inspecteur général est consulté par le délégué général, le chef d'état-major ou le directeur général pour la définition de la politique de gestion et la préparation des mesures individuelles intéressant les officiers généraux de son armée, de la gendarmerie nationale ou de la direction générale de l'armement.
 
 Il formule tout avis qu'il estime nécessaire sur les décisions individuelles concernant les autres personnels militaires.
 

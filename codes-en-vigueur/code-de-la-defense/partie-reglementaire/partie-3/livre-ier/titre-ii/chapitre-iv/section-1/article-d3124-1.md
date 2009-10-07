@@ -1,6 +1,6 @@
 # Article D3124-1
 
-Un officier général de chacune des trois armées, de la gendarmerie nationale et de la délégation générale pour l'armement portant le titre d'inspecteur général des armées et relevant directement du ministre remplit, sous l'autorité de celui-ci, des missions d'inspection, d'étude et d'information s'étendant à l'ensemble des armées, de la gendarmerie nationale, de la délégation générale pour l'armement.
+Un officier général de chacune des trois armées, de la gendarmerie nationale et de la direction générale de l'armement portant le titre d'inspecteur général des armées et relevant directement du ministre remplit, sous l'autorité de celui-ci, des missions d'inspection, d'étude et d'information s'étendant à l'ensemble des armées, de la gendarmerie nationale, de la direction générale de l'armement.
 
 Les inspecteurs généraux de chacune des trois armées et de la gendarmerie nationale portent notamment leur attention sur l'aptitude des forces armées à mener des opérations interarmées.
 

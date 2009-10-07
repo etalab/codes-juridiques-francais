@@ -10,7 +10,7 @@ Les conseils de la fonction militaire, instances nationales de consultation et d
 
 4° Le conseil de la fonction militaire de la gendarmerie nationale ;
 
-5° Le conseil de la fonction militaire de la délégation générale pour l'armement ;
+5° Le conseil de la fonction militaire de la     direction générale de l'armement ;
 
 6° Le conseil de la fonction militaire du service de santé des armées ;
 

@@ -10,7 +10,7 @@ II. ― Sont membres de droit :
 
 3° L'inspecteur de l'armement chef de l'inspection de l'armement ;
 
-4° Le directeur des ressources humaines de la délégation générale pour l'armement ;
+4° Le directeur des ressources humaines de la     direction générale de l'armement ;
 
 5° Le secrétaire général du Conseil général de l'armement.
 
@@ -20,7 +20,7 @@ III. ― Sont membres titulaires :
 
 2° Un officier en position d'activité appartenant à l'un des corps militaires de l'armement ;
 
-3° Cinq officiers choisis parmi les personnels des corps militaires de l'armement exerçant des fonctions à l'extérieur de la délégation générale pour l'armement.
+3° Cinq officiers choisis parmi les personnels des corps militaires de l'armement exerçant des fonctions à l'extérieur de la     direction générale de l'armement.
 
 IV. ― Les membres titulaires sont nommés, sur proposition conjointe du vice-président du Conseil général de l'armement et du délégué général pour l'armement, par arrêté du ministre de la défense pour une durée de trois ans renouvelable.
 

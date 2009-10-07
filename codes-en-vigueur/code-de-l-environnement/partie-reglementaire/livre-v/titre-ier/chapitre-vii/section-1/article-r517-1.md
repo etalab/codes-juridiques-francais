@@ -8,7 +8,7 @@ Les dispositions du présent titre s'appliquent, sous réserve des dispositions 
 
 3° Corps de troupe, unités, formations et états-majors des armées de terre, de mer, de l'air et de la gendarmerie ainsi que les organismes inter-armées ou à vocation inter-armées ;
 
-4° Organismes et établissements du service de santé des armées, de la délégation générale pour l'armement, du service des essences des armées et du secrétariat général pour l'administration ;
+4° Organismes et établissements du service de santé des armées, de la     direction générale de l'armement, du service des essences des armées et du secrétariat général pour l'administration ;
 
 5° Bases de fusées, bases aériennes, navales et aéronavales, camps militaires d'entraînement ;
 

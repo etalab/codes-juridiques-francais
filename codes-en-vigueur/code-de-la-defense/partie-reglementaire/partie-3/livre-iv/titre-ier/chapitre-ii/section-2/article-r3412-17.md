@@ -16,7 +16,7 @@ Le ministre de la défense peut déléguer, dans des conditions fixées par arr�
 
 7° Commandants de formations administratives au sein desquelles il a été créé un cercle ou un foyer ;
 
-8° Directeur d'établissements de services ou de centres de la délégation générale pour l'armement ;
+8° Directeur d'établissements de services ou de centres de la     direction générale de l'armement ;
 
 9° Autorité désignée par le chef d'état-major des armées pour assurer le contrôle administratif des éléments français déployés à l'étranger.
 

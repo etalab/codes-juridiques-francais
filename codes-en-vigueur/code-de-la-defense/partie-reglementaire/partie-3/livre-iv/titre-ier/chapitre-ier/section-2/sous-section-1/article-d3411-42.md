@@ -10,7 +10,7 @@ Le conseil de la recherche de l'Ecole nationale supérieure de techniques avanc�
 
 4° Trois représentants du personnel des laboratoires de l'école, dont au moins un chercheur ou ingénieur, désignés par ce personnel ;
 
-5° Trois représentants de la délégation générale pour l'armement ;
+5° Trois représentants de la     direction générale de l'armement ;
 
 6° Cinq personnalités extérieures choisies par le conseil d'administration ;
 
