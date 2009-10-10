@@ -5,4 +5,3 @@
 - [Article R670-3](article-r670-3.md)
 - [Article R670-4](article-r670-4.md)
 - [Article R670-5](article-r670-5.md)
-- [Article R670-6](article-r670-6.md)
