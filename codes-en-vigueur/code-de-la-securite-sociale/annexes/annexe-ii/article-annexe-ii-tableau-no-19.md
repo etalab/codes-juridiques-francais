@@ -21,6 +21,7 @@
 </td>
 <td width="81">
 <br/>
+<br/>
 </td>
 <td width="282">
 <p align="center">- A -</p>
@@ -34,7 +35,23 @@
 <p align="center">21 jours</p>
 </td>
 <td valign="top" width="282">
-<p>Travaux suivants exposant au contact d'animaux susceptibles d'être porteurs de germe et effectués notamment au contact d'eau ou dans des lieux humides, susceptibles d'être souillés par les déjections de ces animaux : travaux effectués dans les mines, carrières (travaux au fond), les tranchées, les tunnels, les galeries, les souterrains ; travaux du génie ; travaux effectués dans les égouts, les caves, les chais ; travaux d'entretien des cours d'eau, canaux, marais, étangs et lacs, bassins de réserve et de lagunage ; travaux d'entretien et de surveillance des parcs aquatiques et stations d'épuration ; travaux de drainage, de curage des fossés, de pose de canalisation d'eau ou d'égout, d'entretien et vidange des fosses et citernes de récupération de déchets organiques ; travaux effectués dans les laiteries, les fromageries, les poissonneries, les cuisines, les fabriques de conserves alimentaires, les brasseries, les fabriques d'aliments du bétail ; travaux effectués dans les abattoirs, les chantiers d'équarissage, travaux de récupération et exploitation du cinquième quartier des animaux de boucherie ; travaux exécutés sur les bateaux, les péniches, les installations portuaires ; travaux des mariniers et dockers ; travaux de dératisation ; travaux de soins aux animaux vertébrés ; travaux dans les laboratoires de bactériologie ou de parasitologie.</p>
+<p>Travaux suivants exposant à des animaux susceptibles d'être porteurs de germe et effectués notamment au contact d'eau ou dans des lieux humides, susceptibles d'être souillés par les déjections de ces animaux :</p>
+<p> a) Travaux effectués dans les mines, carrières (travaux au fond), les tranchées, les tunnels, les galeries, les souterrains ; travaux du génie ;</p>
+<p> b) Travaux effectués dans les égouts, les caves, les chais ;</p>
+<p> c) Travaux d'entretien des cours d'eau, canaux, marais, étangs et lacs, bassins de réserve et de lagunage ;</p>
+<p> d) Travaux d'entretien et de surveillance des parcs aquatiques et stations d'épuration ;</p>
+<p> e) Travaux de drainage, de curage des fossés, de pose de canalisation d'eau ou d'égout, d'entretien et vidange des fosses et citernes de récupération de déchets organiques ;</p>
+<p> f) Travaux effectués dans les laiteries, les fromageries, les poissonneries, les cuisines, les fabriques de conserves alimentaires, les brasseries, les fabriques d'aliments du bétail ;</p>
+<p> g) Travaux effectués dans les abattoirs, les chantiers d'équarrissage, travaux de récupération et exploitation du cinquième quartier des animaux de boucherie ;</p>
+<p> h) Travaux exécutés sur les bateaux, les péniches, les installations portuaires ; travaux de mariniers et dockers ;</p>
+<p> i) Travaux de dératisation et de destruction des rongeurs inféodés au milieu aquatique ;</p>
+<p> j) Travaux de soins aux animaux vertébrés ;</p>
+<p> k) Travaux dans les laboratoires de bactériologie ou de parasitologie ;</p>
+<p> l) Travaux piscicoles de production et d'élevage ;</p>
+<p> m) Travaux d'encadrement d'activité en milieu aquatique naturel (exception faite du domaine maritime) : activités nautiques, halieutiques, subaquatiques ;</p>
+<p> n) Travaux d'assistance, de secours et de sauvetage en milieu aquatique naturel (exception faite du domaine maritime) ;</p>
+<p> o) Travaux de culture de la banane, travaux de coupe de cannes à sucre.</p>
+<br/>
 </td>
 </tr>
 <tr>
@@ -42,6 +59,7 @@
 <p align="center">- B -</p>
 </td>
 <td width="81">
+<br/>
 <br/>
 </td>
 <td width="282">
