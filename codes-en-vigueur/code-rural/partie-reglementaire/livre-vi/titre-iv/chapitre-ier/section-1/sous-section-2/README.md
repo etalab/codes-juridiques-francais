@@ -2,3 +2,4 @@
 
 - [Paragraphe 1 : Dispositions applicables aux demandes déposées en France.](paragraphe-1)
 - [Paragraphe 2 : Dispositions applicables à la procédure d'opposition aux demandes émanant d'un autre Etat membre de la Communauté européenne ou d'un pays tiers.](paragraphe-2)
+- [Paragraphe 3 : Dispositions particulières aux indications géographiques protégées des vins.](paragraphe-3)
