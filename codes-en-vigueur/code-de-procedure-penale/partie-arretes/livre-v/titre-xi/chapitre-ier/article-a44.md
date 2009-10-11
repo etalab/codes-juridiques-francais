@@ -455,7 +455,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Antenne d'Arles-Tarascon. </p>
 </td>
 <td valign="top">
-<p>(Arr. 13 déc. 2005, art. 5) Centre pénitentiaire d'Arles. </p>
+<p>Maison centrale d'Arles. </p>
 </td>
 </tr>
 <tr>
@@ -463,23 +463,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>(Arr. 13 déc. 2005, art. 5) circonscription judiciaire de Tarascon. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
-<p>(Arr. 13 déc. 2005, art. 5) Centre de détention de Tarascon. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
-<p>(Arr. 17 sept. 2003, art. 5) Circonscription judiciaire de Tarascon. </p>
+<p>Circonscription judiciaire de Tarascon. </p>
 </td>
 </tr>
 <tr>
