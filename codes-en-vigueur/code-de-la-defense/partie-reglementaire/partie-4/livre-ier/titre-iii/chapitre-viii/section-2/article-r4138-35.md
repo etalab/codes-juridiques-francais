@@ -8,7 +8,7 @@ Le militaire peut être placé en détachement :
 
 3° Auprès d'une collectivité territoriale ou d'un établissement public autre que national ;
 
-4° Auprès d'une entreprise ou d'un organisme privé d'intérêt général ou de caractère associatif assurant des missions d'intérêt général : le nombre et la nature des emplois auxquels il est éventuellement pourvu par des militaires détachés doivent être précisés par une disposition des statuts de l'entreprise ou de l'organisme considéré, approuvée par arrêté du ministre chargé de la fonction publique et du ou des ministres intéressés. Les associations ou fondations reconnues d'utilité publique sont dispensées de cette formalité ;
+4° Auprès d'une entreprise ou d'un organisme privé d'intérêt général ou de caractère associatif assurant des missions d'intérêt général ;
 
 5° Auprès d'Etats étrangers, d'une organisation internationale intergouvernementale ou d'un organisme d'intérêt général à caractère international pour remplir une mission d'intérêt public. Le détachement auprès d'un organisme d'intérêt général à caractère international ne peut intervenir que dans les conditions prévues par une convention préalablement passée entre le ministre de la défense, l'autorité de tutelle de l'organisme d'accueil et le ministre des affaires étrangères. Cette convention, examinée par l'autorité chargée du contrôle financier, dans les conditions prévues par le décret n° 2005-54 du 27 janvier 2005 relatif au contrôle financier au sein des administrations de l'Etat, définit la nature et le niveau des activités confiées au militaire, ses conditions d'emploi et de rémunération, les modalités d'appel de retenues pour pension ainsi que les modalités du contrôle et de l'évaluation desdites activités ;
 
