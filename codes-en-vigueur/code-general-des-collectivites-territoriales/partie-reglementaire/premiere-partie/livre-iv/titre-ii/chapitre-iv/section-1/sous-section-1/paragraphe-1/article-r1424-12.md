@@ -6,4 +6,8 @@ Elle donne, pour chaque collège, au premier candidat titulaire élu dans l'ordr
 
 Pour être électeurs et éligibles, à la date de l'élection, les sapeurs-pompiers professionnels doivent être titulaires de leur grade. Leurs représentants sont élus sur des listes présentées par les organisations syndicales représentatives, au sens des articles 29 et 32 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.
 
+Les sapeurs-pompiers professionnels par ailleurs sapeurs-pompiers volontaires au sein du même service départemental d'incendie et de secours participent en qualité de candidat ou d'électeur dans le collège des officiers sapeurs-pompiers professionnels ou celui des sapeurs-pompiers professionnels non officiers suivant leur grade aux scrutins prévus pour l'élection des représentants des sapeurs-pompiers professionnels.
+
+Les listes des électeurs pour chacun des quatre scrutins sont fixées par le préfet.
+
 Chaque bulletin de vote est inséré sous double enveloppe : l'enveloppe intérieure ne comporte aucune mention ni signe distinctif ; l'enveloppe extérieure porte la mention : " Election CASDIS / CATSIS ", l'indication du nom, de la qualité et du collège de l'électeur, ainsi que sa signature.
