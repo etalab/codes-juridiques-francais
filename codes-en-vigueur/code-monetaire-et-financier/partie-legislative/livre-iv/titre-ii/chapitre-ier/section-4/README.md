@@ -1,4 +1,4 @@
-# Section 4 : Admission aux négociations, suspension et radiation des instruments financiers
+# Section 4 : Admission aux négociations, suspension, radiation et retrait des instruments financiers
 
 - [Article L421-14](article-l421-14.md)
 - [Article L421-15](article-l421-15.md)
