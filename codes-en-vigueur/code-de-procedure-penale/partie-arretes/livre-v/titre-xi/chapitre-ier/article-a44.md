@@ -238,7 +238,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top">
-<p>Service pénitentiaire d'insertion et de probation de l'Ardèche </p>
+<p>Service pénitentiaire d'insertion et de probation de l'Ardèche. </p>
 </td>
 <td valign="top">
 <p>Privas. </p>
@@ -1225,7 +1225,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>Maison d'arrêt de Béziers. </p>
+<p>Centre pénitentiaire de Béziers. </p>
 </td>
 </tr>
 <tr>
