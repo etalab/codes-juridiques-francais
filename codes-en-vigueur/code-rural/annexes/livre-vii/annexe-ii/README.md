@@ -42,7 +42,7 @@
 - [Article Tableau n° 42](article-tableau-no-42.md)
 - [Article Tableau n° 43](article-tableau-no-43.md)
 - [Article Tableau n° 44](article-tableau-no-44.md)
-- [Article tableau n° 45](article-tableau-no-45.md)
+- [Article Tableau n° 45](article-tableau-no-45.md)
 - [Article Tableau n° 46](article-tableau-no-46.md)
 - [Article Tableau n° 47](article-tableau-no-47.md)
 - [Article Tableau n° 47 bis](article-tableau-no-47-bis.md)
