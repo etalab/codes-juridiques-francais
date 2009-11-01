@@ -482,20 +482,22 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">1</p>
 </td>
 <td valign="top" width="129">
-<p>a) supérieure ou égal à 106</p>
+<p>a) supérieure ou égal à 10<sup>6</sup>
+</p>
 </td>
 <td valign="top" width="31">
 <p align="center">3</p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td/>
-<td>
-<p align="left">b) supérieure ou égal à 104</p>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">b) supérieure ou égal à 10<sup>4</sup>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">1</p>
 </td>
 </tr>
@@ -510,7 +512,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129"/>
+<td valign="top" width="129">
+<p>
+<sup/>
+</p>
+</td>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -1361,7 +1367,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Capacité logeable d'eau moins 100 000 œufs</p>
+<p>Capacité logeable d'eau moins 100 000 oeufs</p>
 </td>
 <td valign="top" width="38">
 <p align="center">D</p>
@@ -1672,7 +1678,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">2170</p>
 </td>
 <td valign="top" width="340">
-<p>Engrais et supports de culture (fabrication des) à partir de matières organiques</p>
+<p>Engrais, amendements et supports de culture (fabrication des) à partir de matières organiques, à l'exclusion des rubriques 2780 et 2781 :</p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -1702,7 +1708,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. Lorsque la capacité de production et supérieure ou égale à 1 t/j et inférieure à 10 t/j</p>
+<p>2. Lorsque la capacité de production est supérieure à 1 t/j et inférieure à 10 t/j</p>
 </td>
 <td valign="top" width="38">
 <p align="center">D</p>
@@ -1997,13 +2003,13 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td/>
-<td>
-<p align="left">b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j </p>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p>b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">1</p>
 </td>
 </tr>
@@ -2787,7 +2793,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">2265</p>
 </td>
 <td valign="top" width="340">
-<p>Fermentation acétique en milieu liquide (mise en oeuvre d'un procédé de)</p>
+<p>Fermentation acétique en milieu liquide (mise en œuvre d'un procédé de)</p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -5943,7 +5949,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. Procédés utilisant des liquides (sans mise en oeuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :</p>
+<p>2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :</p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -6007,7 +6013,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>3. Traitement en phase gazeuse ou autres traitements sans mise en oeuvre de cadmium</p>
+<p>3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de cadmium</p>
 </td>
 <td valign="top" width="38">
 <p align="center">DC</p>
@@ -6845,7 +6851,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">2680</p>
 </td>
 <td valign="top" width="340">
-<p>Organismes génétiquement modifiés (installations où sont mis en oeuvre dans un processus de production industrielle ou commercial des) à l'exclusion de l'utilisation de produits contenant des organismes génétiquement modifiés qui ont reçu une autorisation de mise sur le marché conformément à la loi n<sup>o </sup>92-654 du 13 juillet 1992 et utilisés dans les conditions prévues par cette autorisation de mise sur le marché</p>
+<p>Organismes génétiquement modifiés (installations où sont mis en œuvre dans un processus de production industrielle ou commercial des) à l'exclusion de l'utilisation de produits contenant des organismes génétiquement modifiés qui ont reçu une autorisation de mise sur le marché conformément à la loi n<sup>o </sup>92-654 du 13 juillet 1992 et utilisés dans les conditions prévues par cette autorisation de mise sur le marché</p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -6909,7 +6915,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>On entend par mise en oeuvre au sens de la présente rubrique toute opération ou ensemble d'opérations faisant partie d'un processus de production industrielle ou commercial au cours desquelles des organismes sont génétiquement modifiés ou au cours desquelles des organismes génétiquement modifiés sont cultivés, utilisés, stockés, détruits ou éliminés.</p>
+<p>On entend par mise en œuvre au sens de la présente rubrique toute opération ou ensemble d'opérations faisant partie d'un processus de production industrielle ou commercial au cours desquelles des organismes sont génétiquement modifiés ou au cours desquelles des organismes génétiquement modifiés sont cultivés, utilisés, stockés, détruits ou éliminés.</p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -6927,7 +6933,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">2681</p>
 </td>
 <td valign="top" width="340">
-<p>Micro-organismes naturels pathogènes (mise en oeuvre dans des installations de production industrielle)</p>
+<p>Micro-organismes naturels pathogènes (mise en œuvre dans des installations de production industrielle)</p>
 </td>
 <td valign="top" width="38">
 <p align="center">A</p>
@@ -7323,6 +7329,226 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="31">
 <p align="center">2</p>
 </td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">2780</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Installations de traitement aérobie (compostage ou stabilisation<br/>biologique) de déchets non dangereux ou matière végétale<br/>brute, ayant le cas échéant subi une étape de méthanisation</p>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">1. Compostage de matière végétale brute, effluents d'élevage,<br/>matières stercoraires :</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">a) La quantité de matières traitées étant supérieure ou égale à<br/>30 t/j</p>
+</td>
+<td>
+<p align="center">A</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">b) La quantité de matières traitées étant supérieure ou égale<br/>à 3 t/j et inférieure à 30 t/j</p>
+</td>
+<td>
+<p align="center">D</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">2. Compostage de la fraction fermentescible des ordures ménagères (FFOM), de denrées végétales déclassées, de rebuts de fabrication<br/>de denrées alimentaires végétales, de boues de station d'épuration<br/>des eaux urbaines, de papeteries, d'industries agroalimentaires, seuls<br/>ou en mélange avec des déchets végétaux ou des effluents d'élevages<br/>ou des matières stercoraires :</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">a) La quantité de matières traitées étant supérieure ou égale<br/>à 20 t/j</p>
+</td>
+<td>
+<p align="center">A</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">b) La quantité de matières traitées étant supérieure ou égale<br/>à 2 t/j<br/>et inférieure à 20 t/j</p>
+</td>
+<td align="left" valign="top">
+<p align="center">D</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td/>
+<td>3. Compostage d'autres déchets ou stabilisation biologique </td>
+<td>
+<p align="center">A</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">2781</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Installations de méthanisation de déchets non dangereux ou<br/>matière végétale brute à l'exclusion des installations de stations<br/>d'épuration urbaines</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="left">1. Méthanisation de matière végétale brute, effluents d'élevage,<br/>matières stercoraires, déchets végétaux d'industries agroalimentaires :</p>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="left">a) La quantité de matières traitées étant supérieure ou égale<br/>à 30 t/j<br/>
+</p>
+</td>
+<td>
+<p align="center">A</p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="left">b) La quantité de matières traitées étant inférieure à 30 t/j<br/>
+</p>
+</td>
+<td>
+<p align="center">DC</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="left">2. Méthanisation d'autres déchets non dangereux</p>
+</td>
+<td>
+<p align="center">A</p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">2782</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Installations mettant en œuvre d'autres traitements<br/>biologiques de déchets non dangereux que ceux mentionnés<br/>aux rubriques 2780 et 2781 à l'exclusion des installations<br/>réglementées au titre d'une autre législation</p>
+</td>
+<td align="left" valign="top">
+<p align="center">A</p>
+</td>
+<td align="left" valign="top">
+<p align="center">3</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td valign="top" width="33">
@@ -7754,7 +7980,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. Lorsque l'installation n'est pas du type "circuit primaire fermé" :</p>
+<p>1. Lorsque l'installation n'est pas du type "circuit primaire fermé :</p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -7816,7 +8042,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Nota : Une installation est de type "circuit primaire fermé" lorsque l'eau dispersée dans l'air refroidit un fluide au travers d'un ou plusieurs échangeurs thermiques étanches situés à l'intérieur de la tour de refroidissement ou accolés à celle-ci ; tout contact direct est rendu impossible entre l'eau dispersée dans la tour et le fluide traversant le ou les échangeurs thermiques.</p>
+<p>Nota : Une installation est de type circuit primaire fermé lorsque l'eau dispersée dans l'air refroidit un fluide au travers d'un ou plusieurs échangeurs thermiques étanches situés à l'intérieur de la tour de refroidissement ou accolés à celle-ci ; tout contact direct est rendu impossible entre l'eau dispersée dans la tour et le fluide traversant le ou les échangeurs thermiques.</p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -8052,7 +8278,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. Lorsque les produits mis en oeuvre sont à base de liquides et lorsque l'application est faite par procédé au trempé . Si la quantité maximale de produits susceptible d'être présente dans l'installation est :</p>
+<p>1. Lorsque les produits mis en œuvre sont à base de liquides et lorsque l'application est faite par procédé "au trempé". Si la quantité maximale de produits susceptible d'être présente dans l'installation est :</p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -8099,7 +8325,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. Lorsque l'application est faite par tout procédé autre que le trempé (pulvérisation, enduction). Si la quantité maximale de produits susceptible d'être mise en œuvre est :</p>
+<p>2. Lorsque l'application est faite par tout procédé autre que le "trempé" (pulvérisation, enduction). Si la quantité maximale de produits susceptible d'être mise en œuvre est :</p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -8108,7 +8334,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <br/>
 </td>
 <td valign="top" width="129">
-<p>2. La quantité maximale de produits susceptible d'être mise en oeuvre est :</p>
+<p>2. La quantité maximale de produits susceptible d'être mise en œuvre est :</p>
 </td>
 <td valign="top" width="31">
 <br/>

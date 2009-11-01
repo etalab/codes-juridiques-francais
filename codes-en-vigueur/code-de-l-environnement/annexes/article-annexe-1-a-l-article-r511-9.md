@@ -7,25 +7,31 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <table>
 <tbody>
 <tr>
-<td align="center" rowspan="2" valign="middle">N° </td>
-<td align="center" colspan="3" valign="middle">
-<p align="center">A-NOMENCLATURE DES INSTALLATIONS CLASSEES </p>
+<td rowspan="2">
+<p align="center">N° </p>
 </td>
-<td align="center" colspan="2" valign="middle">
-<p align="center">B-TAXE GENERALE SUR LES ACTIVITES POLLUANTES</p>
+<td colspan="3">
+<p align="center">A-NOMENCLATURE DES INSTALLATIONS CLASSEES</p>
+</td>
+<td colspan="2">
+<p align="center">B-TAXE GENERALE SUR LES ACTIVITES POLLUANTES </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">Désignation de la rubrique </td>
-<td align="center" valign="middle">
+<td width="340">
+<p align="center">Désignation de la rubrique </p>
+</td>
+<td width="38">
 <p align="center">A, D, S C (1) </p>
 </td>
-<td align="center" valign="middle">Rayon (2) </td>
-<td align="center" valign="middle">
+<td width="35">
+<p align="center">Rayon (2) </p>
+</td>
+<td width="129">
 <p align="center">Capacité de l'activité </p>
 </td>
-<td align="center" valign="middle">
-<p align="center">Coef.</p>
+<td width="31">
+<p align="center">Coef. </p>
 </td>
 </tr>
 <tr>
@@ -205,7 +211,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">2. la quantité entreposée étant supérieure à 30 m<sup>3 </sup>mais inférieure ou égale à 150 m <sup>3 </sup>
+<p align="left">2. la quantité entreposée étant supérieure à 30 m<sup>3 </sup>mais inférieure ou égale à 150 m<sup>3 </sup>
 </p>
 </td>
 <td valign="top" width="38">
@@ -480,7 +486,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">322 </p>
 </td>
 <td valign="top" width="340">
-<p align="left">Ordures ménagères et autres résidus urbains (stockage et traitement des) </p>
+<p align="left">Ordures ménagères et autres résidus urbains (stockage et traitement des)</p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -497,41 +503,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">A. stations de transit, à l'exclusion des déchetteries mentionnées à la rubrique 2710 </p>
-</td>
-<td valign="top" width="38">
-<p align="center">A </p>
-</td>
-<td valign="top" width="35">
-<p align="center">1 </p>
-</td>
-<td valign="top" width="129">
-<p align="left">A. Non soumis à la taxe</p>
-</td>
-<td valign="top" width="31">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="340">
-<p align="left">B. traitement : </p>
-</td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="35">
-<br/>
-</td>
-<td valign="top" width="129">
-<p align="left">B. : </p>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="340">
-<p align="left">1-broyage </p>
+<p align="left">A. - Station de transit, à l'exclusion des déchèteries mentionnées à la rubrique 2710 </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -540,15 +512,32 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">1 </p>
 </td>
 <td valign="top" width="129">
-<p align="left">1. La capacité de traitement est supérieure à 4 t / h </p>
+<br/>
 </td>
 <td valign="top" width="31">
-<p align="center">1 </p>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">2-décharge ou déposante </p>
+<p align="left">B. Traitement : </p>
+</td>
+<td valign="top" width="38">
+<br/>
+</td>
+<td valign="top" width="35">
+<br/>
+</td>
+<td valign="top" width="129">
+<br/>
+</td>
+<td valign="top" width="31">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p align="left">1-Broyage </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -557,15 +546,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">1 </p>
 </td>
 <td valign="top" width="129">
-<p align="left">2. Non soumis à la taxe</p>
+<br/>
 </td>
 <td valign="top" width="31">
-<p align="center">-</p>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">3-compostage </p>
+<p align="left">2-Décharge ou déposante </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -574,15 +563,32 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">1 </p>
 </td>
 <td valign="top" width="129">
-<p align="left">3. La capacité de traitement est supérieure à 4 t / h </p>
+<br/>
 </td>
 <td valign="top" width="31">
-<p align="center">1 </p>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">4-incinération </p>
+<p align="left">3-(Sans objet)</p>
+</td>
+<td valign="top" width="38">
+<br/>
+</td>
+<td valign="top" width="35">
+<br/>
+</td>
+<td valign="top" width="129">
+<br/>
+</td>
+<td valign="top" width="31">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p align="left">4-Incinération </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -591,10 +597,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">2 </p>
 </td>
 <td valign="top" width="129">
-<p align="left">4. La capacité de traitement est supérieure à 4 t / h </p>
+<br/>
 </td>
 <td valign="top" width="31">
-<p align="center">1 </p>
+<br/>
 </td>
 </tr>
 <tr>
@@ -679,7 +685,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td rowspan="4" valign="top" width="33">
-<p align="left">1110 </p>
+<p align="center">1110 </p>
 </td>
 <td valign="top" width="340">
 <p align="left">Très toxiques (fabrication industrielle de substances et préparations) telles que définies à la rubrique 1000, à l'exclusion des substances et préparations visées explicitement ou par famille par d'autres rubriques de la nomenclature et à l'exclusion de l'uranium et ses composés. </p>
@@ -1209,35 +1215,23 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340">
 <p align="left">Toxiques (emploi ou stockage de substances et préparations) telles que définies à la rubrique 1000, à l'exclusion des substances et préparations visées explicitement ou par famille par d'autres rubriques de la nomenclature ainsi que du méthanol. </p>
 </td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="38"/>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <br/>
 </td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="31"/>
 </tr>
 <tr>
 <td valign="top" width="340">
 <p align="left">1. substances et préparations solides ; la quantité totale susceptible d'être présente dans l'installation étant : </p>
 </td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="38"/>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <p align="left">1. La quantité totale susceptible d'être présente dans l'installation étant : </p>
 </td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="31"/>
 </tr>
 <tr>
 <td valign="top" width="340">
@@ -1280,12 +1274,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="35"/>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -1297,9 +1287,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <p align="left">2. La quantité totale susceptible d'être présente dans l'installation étant : </p>
 </td>
@@ -1348,26 +1336,18 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <br/>
 </td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="31"/>
 </tr>
 <tr>
 <td valign="top" width="340">
 <p align="left">3. gaz ou gaz liquéfiés ; la quantité totale susceptible d'être présente dans l'installation étant : </p>
 </td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="38"/>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <p align="left">3. La quantité totale susceptible d'être présente dans l'installation étant : </p>
 </td>
@@ -1416,9 +1396,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <br/>
 </td>
@@ -1433,12 +1411,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340">
 <p align="left">Ammoniac (fabrication industrielle de l') </p>
 </td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="38"/>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <br/>
 </td>
@@ -1450,12 +1424,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340">
 <p align="left">La quantité totale susceptible d'être présente dans l'installation étant : </p>
 </td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="38"/>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <p align="left">La quantité totale susceptible d'être présente dans l'installation étant : </p>
 </td>
@@ -1510,9 +1480,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -1524,9 +1492,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <p align="left">A. La quantité totale susceptible d'être présente dans l'installation étant : </p>
 </td>
@@ -1538,12 +1504,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340">
 <p align="left">La quantité totale susceptible d'être présente dans l'installation étant : </p>
 </td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="38"/>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <br/>
 </td>
@@ -1555,12 +1517,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340">
 <p align="left">1. en récipients de capacité unitaire supérieure à 50 kg </p>
 </td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="38"/>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <p align="left">1. en récipients de capacité unitaire supérieure à 50 kg </p>
 </td>
@@ -1606,9 +1564,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340">
 <p align="left">2. en récipients de capacité unitaire inférieure ou égale à 50 kg </p>
 </td>
-<td valign="top" width="38">
-<br/>
-</td>
+<td valign="top" width="38"/>
 <td valign="top" width="35">
 <br/>
 </td>
@@ -1677,9 +1633,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <p align="left">B. La quantité totale susceptible d'être présente dans l'installation étant : </p>
 </td>
@@ -1694,9 +1648,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <br/>
 </td>
@@ -1745,9 +1697,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <p align="center">DC </p>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <br/>
 </td>
@@ -1765,12 +1715,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="35"/>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -1782,9 +1728,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <p align="left">La quantité totale susceptible d'être présente dans l'installation étant : </p>
 </td>
@@ -1836,9 +1780,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <p align="left">La quantité totale susceptible d'être présente dans l'installation étant : </p>
 </td>
@@ -1907,9 +1849,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -1949,9 +1889,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 </tr>
 <tr>
-<td rowspan="10" valign="top" width="33">
-<p align="center">1140 </p>
-</td>
+<td rowspan="10" valign="top" width="33">1140 </td>
 <td valign="top" width="340">
 <p align="left">Formaldéhyde de concentration supérieure ou égale à 90 % (fabrication industrielle, emploi ou stockage de) </p>
 </td>
@@ -1961,9 +1899,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -2043,9 +1979,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <p align="left">2. La quantité totale susceptible d'être présente dans l'installation étant : </p>
 </td>
@@ -2060,12 +1994,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="35"/>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -2176,9 +2106,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">3. En récipients de capacité inférieure ou égale à 37 kg, la quantité totale susceptible d'être présente dans l'installation étant : </p>
-</td>
+<td valign="top" width="340">3. En récipients de capacité inférieure ou égale à 37 kg, la quantité totale susceptible d'être présente dans l'installation étant : </td>
 <td valign="top" width="38">
 <br/>
 </td>
@@ -2202,9 +2130,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <p align="center">3 </p>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -2219,9 +2145,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -2239,16 +2163,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">1. Substances et préparations à des concentrations en poids supérieures à 5 % à base de : <br/>4-aminobiphényle et / ou ses sels, benzidine et / ou ses sels, chlorure de N, N-diméthylcarbamoyle, diméthylnitrosamine, 2-naphthylamine et / ou ses sels, oxyde de bis (chlorométhyle), oxyde de chlorométhyle et de méthyle, 1, 3-propanesultone, 4-nitrodiphényle, triamide hexaméthylphosphorique, benzotrichlorure, 1, 2-dibromoéthane, sulfate de diéthyle, sulfate de diméthyle, 1, 2-dibromo-3-chloropropane, 1, 2-diméthylhydrazine, hydrazine. </p>
+<p align="left">1. Substances et préparations à des concentrations en poids supérieures à 5 % à base de : <br/>4-aminobiphényle et/ou ses sels, benzidine et / ou ses sels, chlorure de N, N-diméthylcarbamoyle, diméthylnitrosamine, 2-naphthylamine et/ou ses sels, oxyde de bis (chlorométhyle), oxyde de chlorométhyle et de méthyle, 1, 3-propanesultone, 4-nitrodiphényle, triamide hexaméthylphosphorique, benzotrichlorure, 1, 2-dibromoéthane, sulfate de diéthyle, sulfate de diméthyle, 1, 2-dibromo-3-chloropropane, 1, 2-diméthylhydrazine, hydrazine. </p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -2256,9 +2178,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -2321,9 +2241,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <p align="left">2. La quantité totale susceptible d'être présente dans l'installation étant : </p>
 </td>
@@ -2338,9 +2256,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <br/>
 </td>
@@ -2477,9 +2393,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -2525,9 +2439,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <p align="left">5. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant : </p>
 </td>
@@ -2542,12 +2454,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="35"/>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -2610,12 +2518,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="35"/>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -2664,9 +2568,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -2678,9 +2580,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <p align="left">7. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant : </p>
 </td>
@@ -2695,9 +2595,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <br/>
 </td>
@@ -2723,9 +2621,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">b) supérieure ou égale à 1 t, mais inférieure à 2 t </p>
-</td>
+<td valign="top" width="340">b) supérieure ou égale à 1 t, mais inférieure à 2 t </td>
 <td valign="top" width="38">
 <p align="center">A </p>
 </td>
@@ -2749,9 +2645,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -2783,9 +2677,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -2834,9 +2726,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -2950,9 +2840,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <br/>
 </td>
@@ -3021,9 +2909,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -3089,9 +2975,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <br/>
 </td>
@@ -3106,9 +2990,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
+<td valign="top" width="35"/>
 <td valign="top" width="129">
 <p align="left">La quantité totale susceptible d'être présente dans l'installation étant : </p>
 </td>
@@ -3126,9 +3008,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <p align="center">6 </p>
 </td>
-<td valign="top" width="129">
-<p align="left">1. supérieure ou égale à 20 t </p>
-</td>
+<td valign="top" width="129">1. supérieure ou égale à 20 t </td>
 <td valign="top" width="31">
 <p align="center">6 </p>
 </td>
@@ -3143,9 +3023,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <p align="center">3 </p>
 </td>
-<td valign="top" width="129">
-<p align="left">2. supérieure à 2 t, mais inférieure à 20 t </p>
-</td>
+<td valign="top" width="129">2. supérieure à 2 t, mais inférieure à 20 t </td>
 <td valign="top" width="31">
 <p align="center">3 </p>
 </td>
@@ -3160,9 +3038,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -3180,9 +3056,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -3197,9 +3071,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<p align="left">La quantité totale susceptible d'être présente dans l'installation étant : </p>
-</td>
+<td valign="top" width="129">La quantité totale susceptible d'être présente dans l'installation étant : </td>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -3214,26 +3086,20 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <p align="center">3 </p>
 </td>
-<td valign="top" width="129">
-<p align="left">1. supérieure ou égale à 75 t </p>
-</td>
+<td valign="top" width="129">1. supérieure ou égale à 75 t </td>
 <td valign="top" width="31">
 <p align="center">6 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">2. supérieure à 2 t, mais inférieure à 75 t </p>
-</td>
+<td valign="top" width="340">2. supérieure à 2 t, mais inférieure à 75 t </td>
 <td valign="top" width="38">
 <p align="center">A </p>
 </td>
 <td valign="top" width="35">
 <p align="center">3 </p>
 </td>
-<td valign="top" width="129">
-<p align="left">2. supérieure à 2 t, mais inférieure à 75 t </p>
-</td>
+<td valign="top" width="129">2. supérieure à 2 t, mais inférieure à 75 t </td>
 <td valign="top" width="31">
 <p align="center">2 </p>
 </td>
@@ -3248,9 +3114,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -3268,9 +3132,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -3285,9 +3147,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <p align="center">1 </p>
 </td>
-<td valign="top" width="129">
-<p align="left">A. Quelle que soit la capacité </p>
-</td>
+<td valign="top" width="129">A. Quelle que soit la capacité </td>
 <td valign="top" width="31">
 <p align="center">2 </p>
 </td>
@@ -3302,9 +3162,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
@@ -3319,207 +3177,149 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<p align="left">B. La quantité totale susceptible d'être présente dans l'installation étant supérieure à 20 t </p>
-</td>
+<td valign="top" width="129">B. La quantité totale susceptible d'être présente dans l'installation étant supérieure à 20 t </td>
 <td valign="top" width="31">
 <p align="center">2 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">1. supérieure à 20 t </p>
-</td>
+<td valign="top" width="340">1. supérieure à 20 t </td>
 <td valign="top" width="38">
 <p align="center">A </p>
 </td>
 <td valign="top" width="35">
 <p align="center">1 </p>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">2. supérieure à 2 t, mais inférieure ou égale à 20 t </p>
-</td>
+<td valign="top" width="340">2. supérieure à 2 t, mais inférieure ou égale à 20 t </td>
 <td valign="top" width="38">
 <p align="center">DC </p>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="35"/>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="9" valign="top" width="33">
-<p align="center">1171 </p>
-</td>
-<td valign="top" width="340">
-<p align="left">Dangereux pour l'environnement-A et / ou B-, très toxiques et / ou toxiques pour les organismes aquatiques (fabrication industrielle de substances ou préparations) telles que définies à la rubrique 1 000, à l'exclusion de celles visées nominativement ou par famille par d'autres rubriques. </p>
-</td>
+<td rowspan="9" valign="top" width="33">1171 </td>
+<td valign="top" width="340">Dangereux pour l'environnement-A et/ou B-, très toxiques et/ou toxiques pour les organismes aquatiques (fabrication industrielle de substances ou préparations) telles que définies à la rubrique 1 000, à l'exclusion de celles visées nominativement ou par famille par d'autres rubriques. </td>
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="35"/>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">1. Cas des substances très toxiques pour les organismes aquatiques-A-: </p>
-</td>
+<td valign="top" width="340">1. Cas des substances très toxiques pour les organismes aquatiques-A-: </td>
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
-<td valign="top" width="129">
-<p align="left">1. La quantité totale susceptible d'être présente dans l'installation étant : </p>
-</td>
+<td valign="top" width="35"/>
+<td valign="top" width="129">1. La quantité totale susceptible d'être présente dans l'installation étant : </td>
 <td valign="top" width="31">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">La quantité totale susceptible d'être présente dans l'installation étant : </p>
-</td>
+<td valign="top" width="340">La quantité totale susceptible d'être présente dans l'installation étant : </td>
 <td valign="top" width="38">
 <br/>
 </td>
-<td valign="top" width="35">
-<br/>
-</td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="35"/>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">a) Supérieure ou égale à 200 t </p>
-</td>
+<td valign="top" width="340">a) Supérieure ou égale à 200 t </td>
 <td valign="top" width="38">
 <p align="center">AS </p>
 </td>
 <td valign="top" width="35">
 <p align="center">4 </p>
 </td>
-<td valign="top" width="129">
-<p align="left">a) supérieure ou égale à 200 t </p>
-</td>
+<td valign="top" width="129">a) supérieure ou égale à 200 t </td>
 <td valign="top" width="31">
 <p align="center">10 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">b) Inférieure à 200 t </p>
-</td>
+<td valign="top" width="340">b) Inférieure à 200 t </td>
 <td valign="top" width="38">
 <p align="center">A </p>
 </td>
 <td valign="top" width="35">
 <p align="center">2 </p>
 </td>
-<td valign="top" width="129">
-<p align="left">b) inférieure à 200 t </p>
-</td>
+<td valign="top" width="129">b) inférieure à 200 t </td>
 <td valign="top" width="31">
 <p align="center">6 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">2. Cas des substances toxiques pour les organismes aquatiques-B-: </p>
-</td>
+<td valign="top" width="340">2. Cas des substances toxiques pour les organismes aquatiques-B-: </td>
 <td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<p align="left">2. La quantité totale susceptible d'être présente dans l'installation étant : </p>
-</td>
+<td valign="top" width="129">2. La quantité totale susceptible d'être présente dans l'installation étant : </td>
 <td valign="top" width="31">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">La quantité totale susceptible d'être présente dans l'installation étant : </p>
-</td>
+<td valign="top" width="340">La quantité totale susceptible d'être présente dans l'installation étant : </td>
 <td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
+<td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">a) Supérieure ou égale 500 t </p>
-</td>
+<td valign="top" width="340">a) Supérieure ou égale 500 t </td>
 <td valign="top" width="38">
 <p align="center">AS </p>
 </td>
 <td valign="top" width="35">
 <p align="center">4 </p>
 </td>
-<td valign="top" width="129">
-<p align="left">a) supérieure ou égale à 500 t </p>
-</td>
+<td valign="top" width="129">a) supérieure ou égale à 500 t </td>
 <td valign="top" width="31">
 <p align="center">10 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">b) Inférieure à 500 t </p>
-</td>
+<td valign="top" width="340">b) Inférieure à 500 t </td>
 <td valign="top" width="38">
 <p align="center">A </p>
 </td>
 <td valign="top" width="35">
 <p align="center">2 </p>
 </td>
-<td valign="top" width="129">
-<p align="left">b) inférieure à 500 t </p>
-</td>
+<td valign="top" width="129">b) inférieure à 500 t </td>
 <td valign="top" width="31">
 <p align="center">6 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" valign="top" width="33">
-<p align="center">1172 </p>
-</td>
+<td rowspan="5" valign="top" width="33">1172 </td>
 <td valign="top" width="340">
 <p align="left">Dangereux pour l'environnement-A-, très toxiques pour les organismes aquatiques (stockage et emploi de substances ou préparations) telles que définies à la rubrique 1000 à l'exclusion de celles visées nominativement ou par famille par d'autres rubriques. </p>
 </td>
@@ -3529,12 +3329,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
 <td valign="top" width="340">
@@ -3549,9 +3345,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129">
 <p align="left">La quantité susceptible d'être présente dans l'installation étant : </p>
 </td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="31"/>
 </tr>
 <tr>
 <td valign="top" width="340">
@@ -3597,17 +3391,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
-<td rowspan="5" valign="top" width="33">
-<p align="center">1173 </p>
-</td>
+<td rowspan="5" valign="top" width="33">1173 </td>
 <td valign="top" width="340">
 <p align="left">Dangereux pour l'environnement-B-, toxiques pour les organismes aquatiques (stockage et emploi de substances ou préparations) telles que définies à la rubrique 1000 à l'exclusion de celles visées nominativement ou par famille par d'autres rubriques. </p>
 </td>
@@ -3617,12 +3405,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
 <td valign="top" width="340">
@@ -3637,9 +3421,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129">
 <p align="left">La quantité susceptible d'être présente dans l'installation étant : </p>
 </td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="31"/>
 </tr>
 <tr>
 <td valign="top" width="340">
@@ -3685,12 +3467,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
 <td valign="top" width="33">
@@ -3713,9 +3491,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 </tr>
 <tr>
-<td rowspan="5" valign="top" width="33">
-<p align="center">1175 </p>
-</td>
+<td rowspan="5" valign="top" width="33">1175 </td>
 <td valign="top" width="340">
 <p align="left">Organohalogénés (emploi de liquides) pour la mise en solution, l'extraction, etc., à l'exclusion du nettoyage à sec visé par la rubrique 2345 et du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564. </p>
 </td>
@@ -3725,12 +3501,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
 <td valign="top" width="340">
@@ -3745,9 +3517,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129">
 <p align="left">1. La quantité de liquides organohalogénés susceptible d'être présente étant : </p>
 </td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="31"/>
 </tr>
 <tr>
 <td valign="top" width="340">
@@ -3767,9 +3537,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<br/>
-</td>
+<td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
 </td>
@@ -3793,12 +3561,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
 <td valign="top" width="33">
@@ -3813,12 +3577,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <p align="center">1 </p>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
 <td rowspan="8" valign="top" width="33">
@@ -3833,12 +3593,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
 <td valign="top" width="340">
@@ -3867,12 +3623,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
 <td valign="top" width="340">
@@ -3884,12 +3636,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
 <td valign="top" width="340">
@@ -3909,525 +3657,351 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">b) supérieure ou égale à 100 l, mais inférieure à 1 000 l </p>
-</td>
+<td valign="top" width="340">b) supérieure ou égale à 100 l, mais inférieure à 1 000 l </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">3. Réparation, récupération, maintenance, décontamination (1), démontage de composants, appareils et matériels imprégnés, hors du lieu de service lorsque la quantité de produits est supérieure à 50 l </p>
-</td>
+<td valign="top" width="340">3. Réparation, récupération, maintenance, décontamination (1), démontage de composants, appareils et matériels imprégnés, hors du lieu de service lorsque la quantité de produits est supérieure à 50 l </td>
 <td valign="top" width="38">
 <p align="center">A </p>
 </td>
 <td valign="top" width="35">
 <p align="center">2 </p>
 </td>
-<td valign="top" width="129">
-<p align="left">3. La quantité totale de produits susceptible d'être présente dans l'installation est supérieure à 50 l </p>
-</td>
+<td valign="top" width="129">3. La quantité totale de produits susceptible d'être présente dans l'installation est supérieure à 50 l </td>
 <td valign="top" width="31">
 <p align="center">2 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">(1) La définition de décontamination est celle figurant à l'article 9 du décret du 2 février 1987 relatif à la mise sur le marché, l'utilisation et l'élimination des PCB et PCT. </p>
-</td>
+<td valign="top" width="340">(1) La définition de décontamination est celle figurant à l'article 9 du décret du 2 février 1987 relatif à la mise sur le marché, l'utilisation et l'élimination des PCB et PCT. </td>
 <td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
-<td rowspan="10" valign="top" width="33">
-<p align="center">1185 </p>
-</td>
-<td valign="top" width="340">
-<p align="left">Chlorofluorocarbures, halons et autres carbures et hydrocarbures halogénés </p>
-</td>
+<td rowspan="10" valign="top" width="33">1185 </td>
+<td valign="top" width="340">Chlorofluorocarbures, halons et autres carbures et hydrocarbures halogénés </td>
 <td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">1. Conditionnement de fluides et mise en oeuvre telle que fabrication de mousses, etc. à l'exclusion du nettoyage à sec de produits textiles visé par la rubrique 2345 et du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564 </p>
-</td>
+<td valign="top" width="340">1. Conditionnement de fluides et mise en oeuvre telle que fabrication de mousses, etc. à l'exclusion du nettoyage à sec de produits textiles visé par la rubrique 2345 et du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564 </td>
 <td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">La quantité de fluide susceptible d'être présente dans l'installation étant : </p>
-</td>
+<td valign="top" width="340">La quantité de fluide susceptible d'être présente dans l'installation étant : </td>
 <td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<p align="left">1. La quantité totale de fluide susceptible d'être présente dans l'installation étant supérieure à 8 000 l </p>
-</td>
+<td valign="top" width="129">1. La quantité totale de fluide susceptible d'être présente dans l'installation étant supérieure à 8 000 l </td>
 <td valign="top" width="31">
 <p align="center">1 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">a) supérieure à 800 l </p>
-</td>
+<td valign="top" width="340">a) supérieure à 800 l </td>
 <td valign="top" width="38">
 <p align="center">A </p>
 </td>
 <td valign="top" width="35">
 <p align="center">1 </p>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">b) supérieure à 80 l, mais inférieure ou égale à 800 l </p>
-</td>
+<td valign="top" width="340">b) supérieure à 80 l, mais inférieure ou égale à 800 l </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">2. Composants et appareils clos en exploitation, dépôts de produits neufs ou régénérés, à l'exception des appareils de compression et de réfrigération visés par la rubrique 2920 </p>
-</td>
+<td valign="top" width="340">2. Composants et appareils clos en exploitation, dépôts de produits neufs ou régénérés, à l'exception des appareils de compression et de réfrigération visés par la rubrique 2920 </td>
 <td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<p align="left">2. Non soumis à la taxe.</p>
-</td>
+<td valign="top" width="129">2. Non soumis à la taxe.</td>
 <td valign="top" width="31">
 <p align="center">-</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">La quantité de fluide susceptible d'être présente dans l'installation étant : </p>
-</td>
+<td valign="top" width="340">La quantité de fluide susceptible d'être présente dans l'installation étant : </td>
 <td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">a) supérieure à 800 l de capacité unitaire sauf installations d'extinction </p>
-</td>
+<td valign="top" width="340">a) supérieure à 800 l de capacité unitaire sauf installations d'extinction </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">b) supérieure à 200 kg dans les installations d'extinction </p>
-</td>
+<td valign="top" width="340">b) supérieure à 200 kg dans les installations d'extinction </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">3. Régénération des fluides et recyclage des halons, sur site de traitement </p>
-</td>
+<td valign="top" width="340">3. Régénération des fluides et recyclage des halons, sur site de traitement </td>
 <td valign="top" width="38">
 <p align="center">A </p>
 </td>
 <td valign="top" width="35">
 <p align="center">1 </p>
 </td>
-<td valign="top" width="129">
-<p align="left">3. Quelle que soit la capacité </p>
-</td>
+<td valign="top" width="129">3. Quelle que soit la capacité </td>
 <td valign="top" width="31">
 <p align="center">1 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" valign="top" width="33">
-<p align="center">1190 </p>
-</td>
-<td valign="top" width="340">
-<p align="left">Emploi ou stockage dans un laboratoire de substances ou préparations très toxiques ou toxiques visées par les rubriques 1100 à 1189. </p>
-</td>
+<td rowspan="4" valign="top" width="33">1190 </td>
+<td valign="top" width="340">Emploi ou stockage dans un laboratoire de substances ou préparations très toxiques ou toxiques visées par les rubriques 1100 à 1189. </td>
 <td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">1. La quantité totale de substances ou préparations très toxiques ou toxiques, y compris des substances toxiques particulières visées par la rubrique 1150 susceptible d'être présente dans l'installation étant supérieure à 100 kg </p>
-</td>
+<td valign="top" width="340">1. La quantité totale de substances ou préparations très toxiques ou toxiques, y compris des substances toxiques particulières visées par la rubrique 1150 susceptible d'être présente dans l'installation étant supérieure à 100 kg </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">2. La quantité totale de substances ou préparations toxiques particulières visées à la rubrique 1150-1 et 1150-11 susceptibles d'être présentes dans l'installation étant supérieure à 1 kg </p>
-</td>
+<td valign="top" width="340">2. La quantité totale de substances ou préparations toxiques particulières visées à la rubrique 1150-1 et 1150-11 susceptibles d'être présentes dans l'installation étant supérieure à 1 kg </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">3. La quantité totale des substances et préparations toxiques visées à la rubrique 1150-2 susceptible d'être présente dans l'installation étant supérieure à 10 kg </p>
-</td>
+<td valign="top" width="340">3. La quantité totale des substances et préparations toxiques visées à la rubrique 1150-2 susceptible d'être présente dans l'installation étant supérieure à 10 kg </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
-<td rowspan="9" valign="top" width="33">
-<p align="center">1200 </p>
-</td>
-<td valign="top" width="340">
-<p align="left">Comburants (fabrication, emploi ou stockage de substances ou préparations) telles que définies à la rubrique 1000 à l'exclusion des substances visées nominativement ou par famille par d'autres rubriques : </p>
-</td>
+<td rowspan="9" valign="top" width="33">1200 </td>
+<td valign="top" width="340">Comburants (fabrication, emploi ou stockage de substances ou préparations) telles que définies à la rubrique 1000 à l'exclusion des substances visées nominativement ou par famille par d'autres rubriques : </td>
 <td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">1. Fabrication. La quantité totale susceptible d'être présente dans l'installation étant : </p>
-</td>
+<td valign="top" width="340">1. Fabrication. La quantité totale susceptible d'être présente dans l'installation étant : </td>
 <td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<p align="left">1. La quantité totale susceptible d'être présente dans l'installation étant : </p>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129">1. La quantité totale susceptible d'être présente dans l'installation étant : </td>
+<td valign="top" width="31"/>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">a) supérieure ou égale à 200 t </p>
-</td>
+<td valign="top" width="340">a) supérieure ou égale à 200 t </td>
 <td valign="top" width="38">
 <p align="center">AS </p>
 </td>
 <td valign="top" width="35">
 <p align="center">6 </p>
 </td>
-<td valign="top" width="129">
-<p align="left">a) supérieure ou égale à 200 t </p>
-</td>
+<td valign="top" width="129">a) supérieure ou égale à 200 t </td>
 <td valign="top" width="31">
 <p align="center">10 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">b) inférieure à 200 t </p>
-</td>
+<td valign="top" width="340">b) inférieure à 200 t </td>
 <td valign="top" width="38">
 <p align="center">A </p>
 </td>
 <td valign="top" width="35">
 <p align="center">3 </p>
 </td>
-<td valign="top" width="129">
-<p align="left">b) inférieure à 200 t </p>
-</td>
+<td valign="top" width="129">b) inférieure à 200 t </td>
 <td valign="top" width="31">
 <p align="center">6 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">2. Emploi ou stockage. La quantité totale susceptible d'être présente dans l'installation étant : </p>
-</td>
+<td valign="top" width="340">2. Emploi ou stockage. La quantité totale susceptible d'être présente dans l'installation étant : </td>
 <td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<p align="left">2. La quantité totale susceptible d'être présente dans l'installation étant : </p>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129">2. La quantité totale susceptible d'être présente dans l'installation étant : </td>
+<td valign="top" width="31"/>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">a) supérieure ou égale à 200 t </p>
-</td>
+<td valign="top" width="340">a) supérieure ou égale à 200 t </td>
 <td valign="top" width="38">
 <p align="center">AS </p>
 </td>
 <td valign="top" width="35">
 <p align="center">6 </p>
 </td>
-<td valign="top" width="129">
-<p align="left">a) supérieure ou égale à 200 t </p>
-</td>
+<td valign="top" width="129">a) supérieure ou égale à 200 t </td>
 <td valign="top" width="31">
 <p align="center">6 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">b) supérieure ou égale à 50 t, mais inférieure à 200 t </p>
-</td>
+<td valign="top" width="340">b) supérieure ou égale à 50 t, mais inférieure à 200 t </td>
 <td valign="top" width="38">
 <p align="center">A </p>
 </td>
 <td valign="top" width="35">
 <p align="center">3 </p>
 </td>
-<td valign="top" width="129">
-<p align="left">b) supérieure ou égale à 50 t, mais inférieure à 200 t </p>
-</td>
+<td valign="top" width="129">b) supérieure ou égale à 50 t, mais inférieure à 200 t </td>
 <td valign="top" width="31">
 <p align="center">3 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">c) supérieure ou égale à 2 t, mais inférieure à 50 t </p>
-</td>
+<td valign="top" width="340">c) supérieure ou égale à 2 t, mais inférieure à 50 t </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">Nota : Pour les solutions de peroxyde d'hydrogène, on considère les quantités d'eau oxygénée contenues. </p>
-</td>
+<td valign="top" width="340">Nota : Pour les solutions de peroxyde d'hydrogène, on considère les quantités d'eau oxygénée contenues. </td>
 <td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<p align="left">Nota : Pour les solutions de peroxyde d'hydrogène, on considère les quantités d'eau oxygénée contenues. </p>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129">Nota : Pour les solutions de peroxyde d'hydrogène, on considère les quantités d'eau oxygénée contenues. </td>
+<td valign="top" width="31"/>
 </tr>
 <tr>
-<td rowspan="7" valign="top" width="33">
-<p align="center">1210 </p>
-</td>
-<td valign="top" width="340">
-<p align="left">Peroxydes organiques (définition et classification) </p>
-</td>
+<td rowspan="7" valign="top" width="33">1210 </td>
+<td valign="top" width="340">Peroxydes organiques (définition et classification) </td>
 <td rowspan="7" valign="top" width="38">
 <br/>
 </td>
 <td rowspan="7" valign="top" width="35">
 <br/>
 </td>
-<td rowspan="7" valign="top" width="129">
-<br/>
-</td>
-<td rowspan="7" valign="top" width="31">
-<br/>
-</td>
+<td rowspan="7" valign="top" width="129"/>
+<td rowspan="7" valign="top" width="31"/>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">Les peroxydes organiques et les préparations en contenant sont répartis en quatre groupes de risques : </p>
-</td>
+<td valign="top" width="340">Les peroxydes organiques et les préparations en contenant sont répartis en quatre groupes de risques : </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">Groupe de risques Gr1 : produits présentant un risque de décomposition violente ou de combustion très rapide </p>
-</td>
+<td valign="top" width="340">Groupe de risques Gr1 : produits présentant un risque de décomposition violente ou de combustion très rapide </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">Groupe de risque Gr2 : produits présentant un risque de combustion rapide </p>
-</td>
+<td valign="top" width="340">Groupe de risque Gr2 : produits présentant un risque de combustion rapide </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">Groupe de risque Gr3 : produits présentant un risque de combustion moyenne similaire à celle du bois ou des solvants organiques </p>
-</td>
+<td valign="top" width="340">Groupe de risque Gr3 : produits présentant un risque de combustion moyenne similaire à celle du bois ou des solvants organiques </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">Groupe de risque Gr4 : produits présentant un risque combustion lente. </p>
-</td>
+<td valign="top" width="340">Groupe de risque Gr4 : produits présentant un risque combustion lente. </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">Les critères permettant cette répartition sont définis par arrêté ministériel. </p>
-</td>
+<td valign="top" width="340">Les critères permettant cette répartition sont définis par arrêté ministériel. </td>
 </tr>
 <tr>
-<td rowspan="4" valign="top" width="33">
-<p align="center">1211 </p>
-</td>
-<td valign="top" width="340">
-<p align="left">Peroxydes organiques (fabrications des) </p>
-</td>
+<td rowspan="4" valign="top" width="33">1211 </td>
+<td valign="top" width="340">Peroxydes organiques (fabrications des) </td>
 <td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
 </td>
-<td valign="top" width="129">
-<br/>
-</td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="129"/>
+<td valign="top" width="31"/>
 </tr>
 <tr>
 <td valign="top" width="340">
@@ -4442,9 +4016,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129">
 <p align="left">La quantité totale susceptible d'être présente dans l'installation étant : </p>
 </td>
-<td valign="top" width="31">
-<br/>
-</td>
+<td valign="top" width="31"/>
 </tr>
 <tr>
 <td valign="top" width="340">
@@ -5135,7 +4707,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">6 </p>
 </td>
 <td valign="top" width="129">
-<p align="left">a) supérieure à 10 t </p>
+<p align="center">a) supérieure à 10 t </p>
 </td>
 <td valign="top" width="31">
 <p align="center">10 </p>
@@ -5302,7 +4874,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">1312 </p>
 </td>
 <td valign="top" width="340">
-<p align="left">Produits explosifs (mise en oeuvre de) à des fins industrielles telles que découpage, formage, emboutissage, placage de métaux. </p>
+<p align="left">Produits explosifs (mise en œuvre de) à des fins industrielles telles que découpage, formage, emboutissage, placage de métaux. </p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -5586,7 +5158,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">-comprise entre 24, 5 % et 28 % en poids et qui contiennent au plus 0, 4 % de substances combustibles ;</p>
+<p align="left">- comprise entre 24,5 % et 28 % en poids et qui contiennent au plus 0,4 % de substances combustibles ;</p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -5603,7 +5175,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">-supérieure à 28 % en poids et qui contiennent au plus 0, 2 % de substances combustibles. </p>
+<p align="left">- supérieure à 28 % en poids et qui contiennent au plus 0,2 % de substances combustibles. </p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -5776,7 +5348,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">1331 </p>
 </td>
 <td valign="top" width="340">
-<p align="left">Engrais solides simples et composés à base de nitrate d'ammonium correspondant aux spécifications du règlement européen n <sup>o </sup>2003 / 2003 du Parlement européen et du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme française équivalente NF U 42-001 (stockage de) : </p>
+<p align="left">Engrais solides simples et composés à base de nitrate d'ammonium correspondant aux spécifications du règlement européen n° 2003/2003 du Parlement européen et du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme française équivalente NF U 42-001 (stockage de) : </p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -5793,7 +5365,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">I.-Engrais composés à base de nitrate d'ammonium susceptibles de subir une décomposition auto-entretenue (un engrais composé contient du nitrate d'ammonium avec du phosphate et/ou de la potasse) dans lesquels la teneur en azote due au nitrate d'ammonium est :</p>
+<p align="left">I.-Engrais composés à base de nitrate d'ammonium susceptibles de subir une décomposition auto-entretenue (un engrais composé contient du nitrate d'ammonium avec du phosphate et / ou de la potasse) dans lesquels la teneur en azote due au nitrate d'ammonium est :</p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -5810,7 +5382,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">-de 15,75 % en poids ou moins sans limitation de teneur en matières combustibles ;</p>
+<p align="left">- de 15,75 % en poids ou moins sans limitation de teneur en matières combustibles ;</p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -5827,7 +5399,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">-comprise entre 15,75 % et 24,5 % en poids et qui soit contiennent au maximum 0, 4 % de matières organiques ou combustibles au total, soit sont conformes aux exigences de l'annexe III-2 (*) du règlement européen. </p>
+<p align="left">- comprise entre 15,75 % et 24,5 % en poids et qui soit contiennent au maximum 0, 4 % de matières organiques ou combustibles au total, soit sont conformes aux exigences de l'annexe III-2 (*) du règlement européen. </p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -5844,7 +5416,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">Ces engrais sont susceptibles de subir une décomposition auto-entretenue selon le test en auge défini dans le cadre de l'Organisation des Nations unies (ONU) (voir Recommandations des Nations unies relatives au transport des marchandises dangereuses : Manual of Tests and Criteria, partie III, sous-section 38.2). </p>
+<p align="left">Ces engrais sont susceptibles de subir une décomposition auto-entretenue selon le test en auge défini dans le cadre de l'Organisation des Nations unies (ONU) (voir Recommandations des Nations unies relatives au transport des marchandises dangereuses : Manual of Tests and Criteria, partie III, sous-section 38. 2). </p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -5878,7 +5450,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">-supérieure à 24,5 % en poids, et qui sont conformes aux exigences de l'annexe III-2 (*) du règlement européen (**) ;</p>
+<p align="left">- supérieure à 24,5 % en poids, et qui sont conformes aux exigences de l'annexe III-2 (*) du règlement européen (**) ;</p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -5895,7 +5467,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">-supérieure à 15,75 % en poids pour les mélanges de nitrate d'ammonium et de sulfate d'ammonium et qui sont conformes aux exigences de l'annexe III-2 (*) du règlement européen. </p>
+<p align="left">- supérieure à 15,75 % en poids pour les mélanges de nitrate d'ammonium et de sulfate d'ammonium et qui sont conformes aux exigences de l'annexe III-2 (*) du règlement européen. </p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -6065,7 +5637,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">(*) Annexe III-2 relative à l'essai de détonabilité décrit dans la section 3 (méthode 1, point 3) et la section 4 de l'annexe III du règlement européen no 2003 / 2003. </p>
+<p align="left">(*) Annexe III-2 relative à l'essai de détonabilité décrit dans la section 3 (méthode 1, point 3) et la section 4 de l'annexe III du règlement européen n° 2003/2003. </p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -6102,7 +5674,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">1332 </p>
 </td>
 <td valign="top" width="340">
-<p align="left">Nitrate d'ammonium : matières hors spécifications ou produits correspondant aux engrais simples à base de nitrate d'ammonium et à forte teneur en azote n'étant pas conformes aux exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ou III-2 (**) du règlement européen n° 2003 / 2003 du Parlement européen et du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme française équivalente NF U 42-001 ou produits n'étant pas conformes aux exigences de l'annexe III-2 (**) du règlement européen n° 2003 / 2003 ou à la norme française équivalente NF U 42-001 (stockage de). <br/>
+<p align="left">Nitrate d'ammonium : matières hors spécifications ou produits correspondant aux engrais simples à base de nitrate d'ammonium et à forte teneur en azote n'étant pas conformes aux exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ou III-2 (**) du règlement européen n° 2003/2003 du Parlement européen et du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme française équivalente NF U 42-001 ou produits n'étant pas conformes aux exigences de l'annexe III-2 (**) du règlement européen n° 2003/2003 ou à la norme française équivalente NF U 42-001 (stockage de). <br/>
 </p>
 </td>
 <td valign="top" width="38">
@@ -6137,7 +5709,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">-aux matières rejetées ou écartées au cours du processus de fabrication, au nitrate d'ammonium et aux préparations à base de nitrate d'ammonium, aux engrais simples à base de nitrate d'ammonium et aux engrais composés à base de nitrate d'ammonium qui sont ou ont été renvoyés par l'utilisateur final à un fabricant, à une installation de stockage temporaire ou à une usine de retraitement pour subir un nouveau processus, un recyclage ou un traitement en vue de pouvoir être utilisés sans danger, parce qu'ils ne satisfaisaient plus aux prescriptions des rubriques 1330 et 1331-II ;</p>
+<p align="left">- aux matières rejetées ou écartées au cours du processus de fabrication, au nitrate d'ammonium et aux préparations à base de nitrate d'ammonium, aux engrais simples à base de nitrate d'ammonium et aux engrais composés à base de nitrate d'ammonium qui sont ou ont été renvoyés par l'utilisateur final à un fabricant, à une installation de stockage temporaire ou à une usine de retraitement pour subir un nouveau processus, un recyclage ou un traitement en vue de pouvoir être utilisés sans danger, parce qu'ils ne satisfaisaient plus aux prescriptions des rubriques 1330 et 1331-II ;</p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -6154,7 +5726,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">-aux engrais simples à base de nitrate d'ammonium dans lesquels la teneur en azote due au nitrate d'ammonium est supérieure à 28 % qui ne satisfont pas aux exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ;-aux engrais visés dans les rubriques 1331-I, deuxième alinéa, 1331-II qui ne satisfont pas aux exigences de l'annexe III-2 (**). </p>
+<p align="left">- aux engrais simples à base de nitrate d'ammonium dans lesquels la teneur en azote due au nitrate d'ammonium est supérieure à 28 % qui ne satisfont pas aux exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ;</p>
+<p align="left">- aux engrais visés dans les rubriques 1331-I, deuxième alinéa, 1331-II qui ne satisfont pas aux exigences de l'annexe III-2 (**). </p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -6222,7 +5795,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">(*) Annexe III-1 relative aux caractéristiques et limites de l'engrais simple à base de nitrate d'ammonium et à forte teneur en azote du règlement européen n° 2003 / 2003. <br/>(**) Annexe III-2 relative à l'essai de détonabilité décrit dans la section 3 (méthode 1, point 3) et la section 4 de l'annexe III du règlement européen n° 2003 / 2003. </p>
+<p align="left">(*) Annexe III-1 relative aux caractéristiques et limites de l'engrais simple à base de nitrate d'ammonium et à forte teneur en azote du règlement européen n° 2003/2003. <br/>(**) Annexe III-2 relative à l'essai de détonabilité décrit dans la section 3 (méthode 1, point 3) et la section 4 de l'annexe III du règlement européen n° 2003/2003. </p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -6503,7 +6076,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">Les gaz sont maintenus liquéfiés à une température telle que la pression absolue de vapeur correspondante n'excède pas 1, 5 bar (stockages réfrigérés ou cryogéniques) ou sous pression quelle que soit la température </p>
+<p align="left">Les gaz sont maintenus liquéfiés à une température telle que la pression absolue de vapeur correspondante n'excède pas 1,5 bar (stockages réfrigérés ou cryogéniques) ou sous pression quelle que soit la température </p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -6608,7 +6181,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">1. Supérieur ou égal à 2 000 m <sup>3 </sup>/ h ou si la masse totale de gaz contenu dans l'installation est supérieure à 10 t </p>
+<p align="left">1. Supérieur ou égal à 2 000 m<sup>3</sup>/h ou si la masse totale de gaz contenu dans l'installation est supérieure à 10 t </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -6625,7 +6198,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">2. Supérieur ou égal à 80 m <sup>3 </sup>/ h, mais inférieur à 2 000 m <sup>3 </sup>/ h, ou si la masse de gaz contenu dans l'installation est supérieure à 1 t </p>
+<p align="left">2. Supérieur ou égal à 80 m<sup>3</sup>/h, mais inférieur à 2 000 m<sup>3</sup>/h, ou si la masse de gaz contenu dans l'installation est supérieure à 1 t </p>
 </td>
 <td valign="top" width="38">
 <p align="center">DC </p>
@@ -6642,7 +6215,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">Nota.-Les débits sont exprimés pour une température de gaz de 273, 15 K à une pression de 101, 325 kPa. </p>
+<p align="left">Nota.-Les débits sont exprimés pour une température de gaz de 273,15 K à une pression de 101,325 kPa. </p>
 </td>
 <td valign="top" width="38">
 <br/>
@@ -6960,7 +6533,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">2. Pour l'obtention d'acétylène gazeux sous une pression absolue supérieure à 2. 5 × 105 Pa </p>
+<p align="left">2. Pour l'obtention d'acétylène gazeux sous une pression absolue supérieure à 2,5 × 10<sup>5</sup> Pa </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -6977,7 +6550,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">3. Pour l'obtention d'acétylène gazeux sous une pression inférieure ou égale à 2. 5 × 105 Pa lorsque le volume de gaz emmagasiné (calculé à la température de 15 <sup>o</sup>C et à la pression de 105 Pa) est supérieure à 1 200 l </p>
+<p align="left">3. Pour l'obtention d'acétylène gazeux sous une pression inférieure ou égale à 2,5 × 10<sup>5</sup> Pa lorsque le volume de gaz emmagasiné (calculé à la température de 15<sup>o </sup>C et à la pression de 10<sup>5</sup> Pa) est supérieure à 1 200 l </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -7366,22 +6939,22 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">A représente la capacité relative aux liquides extrêmement inflammables (coefficient 10) : oxyde d'éthyle, et tout liquide dont le point d'éclair est inférieur à 0 oC et dont la pression de vapeur à 35 oC est supérieure à 105 pascals </p>
+<p align="left">A représente la capacité relative aux liquides extrêmement inflammables (coefficient 10) : oxyde d'éthyle, et tout liquide dont le point d'éclair est inférieur à 0 oC et dont la pression de vapeur à 35<sup>o </sup>C est supérieure à 105 pascals </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">B représente la capacité relative aux liquides inflammables de la 1ère catégorie (coefficient 1) : tous liquides dont le point d'éclair est inférieur à 55 oC et qui ne répondent pas à la définition des liquides extrêmement inflammables </p>
+<p align="left">B représente la capacité relative aux liquides inflammables de la 1ère catégorie (coefficient 1) : tous liquides dont le point d'éclair est inférieur à 55<sup>o </sup>C et qui ne répondent pas à la définition des liquides extrêmement inflammables </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">C représente la capacité relative aux liquides inflammables de 2ème catégorie (coefficient 1 / 5) : tout liquide dont le point éclair est supérieur ou égal à 55 oC et inférieur à 100 oC, sauf les fuels lourds.</p>
+<p align="left">C représente la capacité relative aux liquides inflammables de 2ème catégorie (coefficient 1/5) : tout liquide dont le point éclair est supérieur ou égal à 55<sup>o </sup>C et inférieur à 100<sup>o </sup>C, sauf les fuels lourds.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">D représente la capacité relative aux liquides peu inflammables (coefficient 1 / 15) : fuels (ou mazout) lourds tels qu'ils sont définis par les spécifications administratives </p>
+<p align="left">D représente la capacité relative aux liquides peu inflammables (coefficient 1/15) : fuels (ou mazout) lourds tels qu'ils sont définis par les spécifications administratives </p>
 </td>
 </tr>
 <tr>
@@ -7497,7 +7070,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">c) Supérieure ou égale à 10 000 t pour la catégorie B, notamment les essences y compris les naphtes et kérosènes, dont le point éclair est inférieur à 55 oC (carburants d'aviation compris) </p>
+<p align="left">c) Supérieure ou égale à 10 000 t pour la catégorie B, notamment les essences y compris les naphtes et kérosènes, dont le point éclair est inférieur à 55<sup>o </sup>C (carburants d'aviation compris) </p>
 </td>
 <td valign="top" width="38">
 <p align="center">AS </p>
@@ -7506,7 +7079,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">4 </p>
 </td>
 <td valign="top" width="129">
-<p align="left">c) supérieure à 10 000 t pour la catégorie B, notamment les essences y compris les naphtes et kérosènes dont le point éclair est inférieur à 55 oC (carburants d'aviation compris) </p>
+<p align="left">c) supérieure à 10 000 t pour la catégorie B, notamment les essences y compris les naphtes et kérosènes dont le point éclair est inférieur à 55<sup>o </sup>C (carburants d'aviation compris) </p>
 </td>
 <td valign="top" width="31">
 <p align="center">6 </p>
@@ -7514,7 +7087,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">d) Supérieure ou égale à 25 000 t pour la catégorie C, y compris les gazoles (gazole diesel, gazole de chauffage domestique et mélanges de gazoles) et les kérosènes dont le point éclair est supérieur ou à 55 oC </p>
+<p align="left">d) Supérieure ou égale à 25 000 t pour la catégorie C, y compris les gazoles (gazole diesel, gazole de chauffage domestique et mélanges de gazoles) et les kérosènes dont le point éclair est supérieur ou à 55<sup>o </sup>C </p>
 </td>
 <td valign="top" width="38">
 <p align="center">AS </p>
@@ -7523,7 +7096,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">4 </p>
 </td>
 <td valign="top" width="129">
-<p align="left">d) supérieure ou égale à 25 000 t pour la catégorie C, y compris les gazoles (gazole diesel, gazole de chauffage domestique et mélanges de gazoles) et les kérosènes dont le point éclair est supérieur ou égal à 55 <sup>o </sup>C </p>
+<p align="left">d) supérieure ou égale à 25 000 t pour la catégorie C, y compris les gazoles (gazole diesel, gazole de chauffage domestique et mélanges de gazoles) et les kérosènes dont le point éclair est supérieur ou égal à 55<sup>o </sup>C </p>
 </td>
 <td valign="top" width="31">
 <p align="center">6 </p>
