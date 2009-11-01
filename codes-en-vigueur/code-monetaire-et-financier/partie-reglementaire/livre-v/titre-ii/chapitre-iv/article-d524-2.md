@@ -1,4 +1,4 @@
-# Article D520-2
+# Article D524-2
 
 I.-Pour l'application du c du I de l'article L. 520-3, les bénéficiaires effectifs sont :
 
