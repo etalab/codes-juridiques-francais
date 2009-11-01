@@ -2,6 +2,7 @@
 
 - [Article D211-5](article-d211-5.md)
 - [Article D211-6](article-d211-6.md)
+- [Article D211-6-1](article-d211-6-1.md)
 - [Article D211-8](article-d211-8.md)
 - [Article D211-9](article-d211-9.md)
 - [Article D211-10](article-d211-10.md)
