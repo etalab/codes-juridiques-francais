@@ -1,5 +1,6 @@
-# Titre II : Les changeurs manuels.
+# Titre II : Les prestataires de services de paiement et les changeurs manuels
 
+- [Chapitre IV : Les changeurs manuels](chapitre-iv)
 - [Article L520-1](article-l520-1.md)
 - [Article L520-2](article-l520-2.md)
 - [Article L520-3](article-l520-3.md)
