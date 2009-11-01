@@ -1,4 +1,4 @@
-# Chapitre III : Infractions relatives aux chèques et aux cartes de paiement.
+# Chapitre III : Infractions relatives aux chèques et aux autres instruments de la monnaie scripturale
 
 - [Article L163-1](article-l163-1.md)
 - [Article L163-2](article-l163-2.md)
