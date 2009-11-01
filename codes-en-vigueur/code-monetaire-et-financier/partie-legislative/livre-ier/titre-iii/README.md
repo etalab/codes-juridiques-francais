@@ -1,5 +1,4 @@
 # Titre III : Les instruments de la monnaie scripturale
 
-- [Chapitre II : La carte de paiement.](chapitre-ii)
-- [Chapitre III : Le virement au sein de l'Espace économique européen.](chapitre-iii)
-- [Chapitre IV : La lettre de change et le billet à ordre.](chapitre-iv)
+- [Chapitre II : La lettre de change et le billet à ordre](chapitre-ii)
+- [Chapitre III :  Les règles applicables aux autres instruments de paiement](chapitre-iii)

@@ -4,7 +4,7 @@ I.-Les règles de fonctionnement, la convention-cadre ou la convention type rég
 
 II.-Les règles de fonctionnement, la convention-cadre ou la convention type précisent les modalités de constitution, d'affectation, de réalisation ou d'utilisation des biens ou droits constitués en garantie.
 
-III.-Les dispositions du livre VI du code de commerce ou celles équivalentes régissant toutes procédures judiciaires ou amiables ouvertes hors de France ainsi que toutes procédures civiles d'exécution ou tout exercice d'un droit d'opposition ne font pas obstacle à l'application du présent titre.
+III.-Les dispositions du livre VI du code de commerce ou celles équivalentes régissant toutes procédures judiciaires ou amiables ouvertes hors de France ainsi que toutes procédures civiles d'exécution ou tout exercice d'un droit d'opposition ne font pas obstacle à l'application des articles L. 330-1 et L. 330-2.
 
 Aucun créancier d'un établissement participant, directement ou indirectement, à un tel système, ou selon le cas, du système lui-même, ne peut se prévaloir d'un droit quelconque sur ces garanties, même sur le fondement des dispositions susmentionnées.
 

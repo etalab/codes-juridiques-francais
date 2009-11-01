@@ -2,7 +2,7 @@
 
 I.-Un système de règlements interbancaires ou de règlement et de livraison d'instruments financiers s'entend d'une procédure nationale ou internationale organisant les relations entre deux parties au moins, permettant l'exécution à titre habituel, par compensation ou non, de paiements ainsi que, pour ce qui concerne les systèmes de règlement et de livraison d'instruments financiers, la livraison de titres entre lesdits participants.
 
-Le système doit soit avoir été institué par une autorité publique, soit être régi par une convention-cadre respectant les principes généraux d'une convention-cadre de place ou par une convention type. Le ministre chargé de l'économie notifie à la Commission européenne la liste des systèmes bénéficiant des dispositions du présent titre.
+Le système doit soit avoir été institué par une autorité publique, soit être régi par une convention-cadre respectant les principes généraux d'une convention-cadre de place ou par une convention type. Le ministre chargé de l'économie notifie à la Commission européenne la liste des systèmes bénéficiant des   articles L. 330-1 et L. 330-2 .
 
 II.-Seuls peuvent avoir la qualité de participants d'un système de règlements interbancaires ou d'un système de règlement et de livraison d'instruments financiers :
 
