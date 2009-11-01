@@ -4,6 +4,3 @@
 - [Chapitre II  : Les établissements de paiement](chapitre-ii)
 - [Chapitre III :  Les agents](chapitre-iii)
 - [Chapitre IV : Les changeurs manuels](chapitre-iv)
-- [Article L520-4](article-l520-4.md)
-- [Article L520-6](article-l520-6.md)
-- [Article L520-7](article-l520-7.md)
