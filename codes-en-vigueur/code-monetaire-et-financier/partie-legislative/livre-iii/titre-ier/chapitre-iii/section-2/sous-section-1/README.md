@@ -1,4 +1,4 @@
-# Sous-section 1 : Crédit-bail.
+# Sous-section 1 : Crédit-bail
 
 - [Article L313-7](article-l313-7.md)
 - [Article L313-8](article-l313-8.md)
