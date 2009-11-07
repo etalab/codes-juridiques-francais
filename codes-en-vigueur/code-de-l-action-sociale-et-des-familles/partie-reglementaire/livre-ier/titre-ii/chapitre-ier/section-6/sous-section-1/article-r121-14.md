@@ -2,77 +2,61 @@
 
 L'Agence nationale pour la cohésion sociale et l'égalité des chances est administrée par un conseil d'administration qui comprend :
 
-1° Vingt-quatre représentants de l'Etat :
+1° Treize représentants de l'Etat disposant de la moitié des voix :
 
-a) Sept membres de droit :
+- le secrétaire général du comité interministériel des villes disposant de quatre voix ;
 
-- le délégué interministériel à la ville ;
+- le directeur général de l'action sociale disposant d'une voix ;
 
-- le directeur de la population et des migrations ;
+- le secrétaire général du ministère de l'intérieur disposant de deux voix ;
 
-- le directeur général de l'action sociale ;
+- le secrétaire général du comité interministériel de prévention de la délinquance disposant d'une voix ;
 
-- le délégué général à l'emploi et à la formation professionnelle ;
+- le directeur du budget disposant de deux voix ;
 
-- le directeur général de l'urbanisme, de l'habitat et de la construction ;
+- le délégué général à l'emploi et à la formation professionnelle disposant d'une voix ;
 
-- le chef du service des droits des femmes et de l'égalité ;
+- le secrétaire général du ministère de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire disposant d'une voix ;
 
-- le délégué interministériel à l'innovation, à l'expérimentation sociale et à l'économie sociale ;
+- le directeur général de l'enseignement scolaire disposant d'une voix ;
 
-b) Trois autres représentants des ministres chargés de la ville, de l'intégration et de la promotion de l'égalité des chances ;
+- le secrétaire général du ministère de la justice disposant d'une voix ;
 
-c) Deux représentants du ministre de l'intérieur ;
+- le directeur général de la santé disposant d'une voix ;
 
-d) Un représentant du ministre chargé de l'économie et des finances ;
+- le secrétaire général du ministère chargé de la culture disposant d'une voix ;
 
-e) Un représentant du ministre chargé du budget ;
+- le directeur de la jeunesse, de l'éducation populaire et de la vie associative disposant d'une voix ;
 
-f) Un représentant du ministre de la défense ;
+- le directeur de l'habitat, de l'urbanisme et des paysages disposant d'une voix.
 
-g) Deux représentants du ministre de l'éducation nationale ;
+2° Huit représentants des organisations syndicales d'employeurs et de salariés représentatives au plan national disposant chacun d'une voix ;
 
-h) Un représentant du ministre de la justice ;
+3° Deux représentants du Parlement disposant chacun d'une voix :
 
-i) Un représentant du ministre chargé de la santé ;
+- un député ;
 
-j) Un représentant du ministre chargé de la culture ;
+- un sénateur ;
 
-k) Un représentant du ministre chargé de la jeunesse ;
+4° Quatre représentants des communes, de leurs groupements, des départements et des régions disposant chacun d'une voix désignés respectivement par :
 
-l) Un représentant du ministre chargé de la vie associative ;
+- l'Association des maires de France ;
 
-m) Un représentant du ministre chargé de l'outre-mer ;
+- l'Assemblée des départements de France ;
 
-n) Un représentant du ministre chargé de l'agriculture ;
+- l'Association des régions de France ;
 
-2° Huit représentants des organisations syndicales d'employeurs et de salariés représentatives au plan national ;
+- l'Association des communautés de France ;
 
-3° Deux représentants du Parlement :
+5° Quatre personnalités qualifiées, choisies en raison de leur expérience dans les domaines de compétence de l'agence, disposant chacune d'une voix.
 
-a) Un député ;
+Le mandat des membres du conseil d'administration autres que ceux mentionnés au 1° et au 3° est de trois ans. Il est renouvelable. Les membres mentionnés au 3° siègent pour la durée du mandat à l'origine de leur désignation.
 
-b) Un sénateur ;
-
-4° Trois représentants des communes et de leurs groupements, des départements et des régions désignés respectivement par l'Association des maires de France, l'Assemblée des départements de France et l'Association des régions de France ;
-
-5° Un représentant de la Caisse nationale d'allocations familiales ;
-
-6° Un représentant des organismes régis par le code de la mutualité ;
-
-7° Quatre représentants des associations intervenant dans les domaines de compétence de l'agence ;
-
-8° Une personnalité issue des chambres consulaires ;
-
-9° Quatre personnalités qualifiées, choisies en raison de leur expérience dans les domaines de compétence de l'agence.
-
-Le mandat des membres du conseil d'administration autres que ceux mentionnés au 1° et au 3° est de trois ans. Il est renouvelable. Le mandat des membres mentionnés au 3° est renouvelé après chaque renouvellement partiel ou total de l'assemblée à laquelle ils appartiennent.
-
-Les membres du conseil d'administration autres que ceux mentionnés aux 1°, 3° et 4° sont désignés par arrêté des ministres de tutelle de l'agence. Le même arrêté publie la liste des membres mentionnés aux 1° (de b à n), 3° et 4° nommés par l'autorité compétente.
+Les membres du conseil d'administration autres que ceux mentionnés aux 1°, 3° et 4° sont désignés par arrêté du ministre chargé de la tutelle de l'agence. La liste des membres mentionnés aux 3° et 4° est établie par arrêté du même ministre.
 
 Les membres mentionnés au 1° peuvent se faire représenter.
 
-Un suppléant est nommé dans les mêmes conditions pour chacun des membres mentionnés aux 2° à 9°.
+Un suppléant est nommé dans les mêmes conditions pour chacun des membres mentionnés aux 2° à 5°.
 
 La perte de la qualité au titre de laquelle un membre a été nommé entraîne sa démission de plein droit du conseil d'administration.
 

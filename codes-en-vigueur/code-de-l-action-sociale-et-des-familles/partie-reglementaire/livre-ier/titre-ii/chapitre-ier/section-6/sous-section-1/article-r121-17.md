@@ -1,6 +1,6 @@
 # Article R121-17
 
-Le conseil d'administration règle par ses délibérations les affaires de l'établissement. A ce titre, il exerce les attributions suivantes :
+Le conseil d'administration règle par ses délibérations les affaires de l'établissement.A ce titre, il exerce les attributions suivantes :
 
 1° Il arrête l'organisation générale de l'agence et le tableau des emplois ;
 
@@ -14,7 +14,7 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 6° Il détermine la part des crédits destinés aux concours financiers qu'il attribue au niveau national et celle destinée au niveau territorial ;
 
-7° Il approuve la répartition des dotations financières que le directeur général délègue aux délégués de l'agence et notifie aux directeurs régionaux de l'agence ;
+7° Il approuve la répartition des dotations financières que le directeur général délègue aux délégués de l'agence         ;
 
 8° Il approuve les concours financiers attribués au niveau national et dont le montant est supérieur à un seuil fixé par arrêté ministériel conjoint du ministre chargé du budget et des ministres de tutelle ;
 
@@ -28,4 +28,4 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 13° Il autorise les programmes d'actions de l'agence au titre de ses relations internationales.
 
-Le conseil d'administration peut déléguer au directeur général de l'agence les compétences prévues aux 3°,10° et 11° du présent article, dans des conditions qu'il détermine.
+Le conseil d'administration peut déléguer au directeur général de l'agence les compétences prévues aux 7°, 10° et 11° du présent article, dans des conditions et limites qu'il détermine.

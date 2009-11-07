@@ -1,11 +1,17 @@
 # Article R121-22
 
-Dans chaque région métropolitaine et en Corse, un directeur régional est nommé par le directeur général de l'agence, après avis du préfet de région. Dans les régions d'outre-mer, ce directeur peut être le préfet délégué de l'agence.
+Le délégué de l'agence dans chaque région ou en Corse assure la coordination de l'action des délégués départementaux et veille à la mise en œuvre par ceux-ci des orientations définies par le conseil d'administration de l'agence et des instructions fixées par le directeur général.
 
-Le directeur régional assure la préparation, la conduite et l'évaluation des programmes d'actions qui lui sont confiés par le directeur général dans le cadre des missions de l'agence. Il gère à cet effet les crédits qui lui sont notifiés en propre et décide de l'octroi de concours financiers et de subventions dans des conditions déterminées par le directeur général.
+A ce titre :
 
-Il présente au comité régional de l'agence les orientations et les programmes de l'agence visés à l'article R. 121-25.
+1° Il propose au directeur général une répartition des crédits entre chaque département ;
 
-Il exerce ses missions en liaison étroite avec les services de l'Etat et rend compte régulièrement de son action au directeur général, au préfet de région et, en Corse, au préfet de Corse.
+2° Il propose à l'agence un programme de formation des acteurs publics et associatifs participant aux interventions de cette dernière ;
 
-Les délégués de l'agence font appel, en tant que de besoin et pour l'exercice des missions qui leur sont confiées, au concours et à l'expertise du directeur régional.
+3° Il coordonne les évaluations des interventions de l'agence ;
+
+4° Il met en œuvre le contrôle de l'utilisation des crédits de l'agence et définit le programme d'audit et de contrôle des organismes qui bénéficient de ces crédits ;
+
+5° Il met en œuvre ou soutient financièrement les actions qui relèvent du niveau régional au moyen des crédits qui lui ont été délégués à cet effet.
+
+La direction régionale de la jeunesse, des sports et de la cohésion sociale lui apporte son concours pour l'exercice des missions figurant au présent article.

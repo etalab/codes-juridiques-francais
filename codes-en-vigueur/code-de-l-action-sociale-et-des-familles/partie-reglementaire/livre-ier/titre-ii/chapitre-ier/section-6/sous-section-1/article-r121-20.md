@@ -10,11 +10,11 @@ Il signe les conventions mentionnées aux quatrième et cinquième alinéas de l
 
 Il décide des concours financiers dont le montant est inférieur au seuil mentionné au 8° de l'article R. 121-17.
 
-Il délègue aux délégués de l'agence les crédits correspondant à la répartition décidée par le conseil d'administration. Il notifie aux directeurs régionaux les dotations financières correspondant aux missions qu'il leur confie.
+Il délègue aux délégués de l'agence les crédits correspondant à la répartition décidée par le conseil d'administration.
 
 Dans les domaines autres que ceux qui sont mentionnés au deuxième alinéa de l'article L. 121-15, il peut déléguer sa signature aux délégués de l'agence.
 
-Il peut également la déléguer aux directeurs régionaux et aux autres agents de l'établissement.
+Il peut également la déléguer aux agents de l'établissement.
 
 Il peut nommer des ordonnateurs secondaires autres que ceux définis à l'article R. 121-21.
 
