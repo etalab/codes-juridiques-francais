@@ -1,4 +1,4 @@
-# Article L212-26
+# Article L212-32
 
 Le contrôle des recettes d'exploitation des œuvres et documents cinématographiques ou audiovisuels dans les établissements de spectacles cinématographiques est organisé dans les conditions suivantes :
 

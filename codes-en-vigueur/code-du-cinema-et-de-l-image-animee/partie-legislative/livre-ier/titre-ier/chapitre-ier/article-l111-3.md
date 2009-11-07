@@ -18,9 +18,9 @@ Le président du Centre national du cinéma et de l'image animée dispose en pro
 
 8° Il enregistre la déclaration des exploitants d'établissements de spectacles cinématographiques relative au déplacement de séances de spectacles cinématographiques prévue par l'article L. 212-18 ;
 
-9° Il délivre l'agrément préalable à la constitution des groupements et ententes de programmation cinématographique et homologue les engagements de programmation, conformément aux articles L. 212-19 à L. 212-21 ;
+9° Il délivre l'agrément préalable à la constitution des groupements et ententes de programmation cinématographique et homologue les engagements de programmation, conformément aux articles L. 212-19 à L. 212-26 ;
 
-10° Il délivre l'agrément préalable à la mise en place des formules d'accès au cinéma donnant droit à des entrées multiples, conformément aux articles L. 212-22 à L. 212-25 ;
+10° Il délivre l'agrément préalable à la mise en place des formules d'accès au cinéma donnant droit à des entrées multiples, conformément aux articles L. 212-27 à L. 212-31 ;
 
 11° Il accorde l'autorisation relative à l'organisation de séances de spectacles cinématographiques en plein air, conformément à l'article L. 214-6 ;
 

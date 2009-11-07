@@ -4,4 +4,4 @@ Une œuvre cinématographique peut faire l'objet d'une exploitation sous forme d
 
 La fixation d'un délai inférieur est subordonnée à la délivrance par le Centre national du cinéma et de l'image animée, au vu notamment des résultats d'exploitation de l'œuvre cinématographique en salles de spectacles cinématographiques, d'une dérogation accordée dans des conditions fixées par voie réglementaire. Cette dérogation ne peut avoir pour effet de réduire le délai de plus de quatre semaines.
 
-Les contestations relatives à la fixation d'un délai supérieur peuvent faire l'objet d'une conciliation menée par le médiateur du cinéma, dans le cadre des missions qui lui sont confiées par les articles L. 213-1 à L. 213-3.
+Les contestations relatives à la fixation d'un délai supérieur peuvent faire l'objet d'une conciliation menée par le médiateur du cinéma, dans le cadre des missions qui lui sont confiées par les articles L. 213-1 à L. 213-8.
