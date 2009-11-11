@@ -2,7 +2,7 @@
 
 Les dispositions du présent livre sont applicables en Guyane sous réserve des modifications et adaptations suivantes :
 
-1° Les missions assignées au centre régional de la propriété forestière ou au Centre national professionnel de la propriété forestière sont exercées par la commission régionale de la forêt et des produits forestiers ;
+1° Les missions assignées au Centre national de la propriété forestière sont exercées par la commission régionale de la forêt et des produits forestiers ;
 
 2° Pour l'application de l'article L. 6 :
 

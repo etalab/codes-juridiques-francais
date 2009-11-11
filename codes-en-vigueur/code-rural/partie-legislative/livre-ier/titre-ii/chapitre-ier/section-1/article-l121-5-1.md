@@ -18,7 +18,7 @@ La commission comprend également :
 
 6° Un représentant du président du conseil général désigné par le président de cette assemblée ;
 
-7° Quatre propriétaires forestiers de la commune désignés par la chambre d'agriculture sur proposition du centre régional de la propriété forestière, quatre suppléants étant en outre désignés suivant la même procédure et quatre propriétaires forestiers de la commune désignés par le conseil municipal qui désigne en outre quatre suppléants.
+7° Quatre propriétaires forestiers de la commune désignés par la chambre d'agriculture sur proposition du Centre national de la propriété forestière, quatre suppléants étant en outre désignés suivant la même procédure et quatre propriétaires forestiers de la commune désignés par le conseil municipal qui désigne en outre quatre suppléants.
 
 A défaut de désignation d'un exploitant par la chambre d'agriculture dans un délai de trois mois après sa saisine, le président du conseil général procède à sa désignation.
 
@@ -42,7 +42,7 @@ La commission comprend également :
 
 6° Un représentant du président du conseil général désigné par le président de cette assemblée ;
 
-7° Quatre propriétaires forestiers de chaque commune désignés par la chambre d'agriculture sur proposition du centre régional de la propriété forestière, quatre suppléants étant en outre désignés suivant la même procédure, et quatre propriétaires forestiers de chaque commune désignés par le conseil municipal qui désigne en outre quatre suppléants.
+7° Quatre propriétaires forestiers de chaque commune désignés par la chambre d'agriculture sur proposition du centre national de la propriété forestière, quatre suppléants étant en outre désignés suivant la même procédure, et quatre propriétaires forestiers de chaque commune désignés par le conseil municipal qui désigne en outre quatre suppléants.
 
 La commission peut appeler à titre consultatif toute personne dont il lui paraît utile de provoquer l'avis.
 

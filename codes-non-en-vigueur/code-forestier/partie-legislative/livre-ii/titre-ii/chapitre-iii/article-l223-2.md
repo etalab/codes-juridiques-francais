@@ -4,6 +4,6 @@ I. - En cas de coupe abusive mentionnée à l'article L. 223-1, l'interruption d
 
 Est puni d'un emprisonnement de six mois et d'une amende portée au double du montant prévu au premier alinéa de l'article L. 223-1 le fait de continuer la coupe en violation d'une décision administrative ou judiciaire en ordonnant l'interruption.
 
-II. - Le propriétaire qui a été condamné en application de l'article L. 223-1 doit, à la demande de l'autorité administrative, présenter au centre régional de la propriété forestière un avenant au plan simple de gestion applicable aux bois concernés par la coupe. A défaut d'avenant présenté dans le délai imparti, le plan simple de gestion est réputé caduc.
+II. - Le propriétaire qui a été condamné en application de l'article L. 223-1 doit, à la demande de l'autorité administrative, présenter au Centre national de la propriété forestière un avenant au plan simple de gestion applicable aux bois concernés par la coupe. A défaut d'avenant présenté dans le délai imparti, le plan simple de gestion est réputé caduc.
 
-III. - En outre, l'autorité administrative, après avis du centre régional de la propriété forestière, peut imposer au propriétaire du fonds la réalisation, dans un délai fixé par elle, de travaux de reconstruction forestière sur les fonds parcourus par la coupe.
+III. - En outre, l'autorité administrative, après avis du Centre national de la propriété forestière, peut imposer au propriétaire du fonds la réalisation, dans un délai fixé par elle, de travaux de reconstruction forestière sur les fonds parcourus par la coupe.

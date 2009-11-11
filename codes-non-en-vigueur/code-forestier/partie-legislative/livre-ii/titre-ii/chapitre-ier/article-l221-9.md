@@ -1,14 +1,14 @@
-# Article L221-6
+# Article L221-9
 
-L'Etat contribue au financement des centres régionaux de la propriété forestière et du Centre national professionnel de la propriété forestière, au titre de leurs missions de développement forestier, reconnues d'intérêt général.
+L'Etat contribue au financement des centres régionaux de la propriété forestière et du Centre national de la propriété forestière, au titre de leurs missions de développement forestier, reconnues d'intérêt général.
 
-Les chambres d'agriculture sont tenues de verser une cotisation aux centres régionaux de la propriété forestière et au Centre national professionnel de la propriété forestière par l'intermédiaire du fonds national de péréquation et d'action professionnelle des chambres d'agriculture.
+Les chambres d'agriculture sont tenues de verser une cotisation aux centres régionaux de la propriété forestière et au Centre national de la propriété forestière par l'intermédiaire du fonds national de péréquation et d'action professionnelle des chambres d'agriculture.
 
 Cette cotisation est fixée à 50 p. 100 du montant des taxes perçues par l'ensemble des chambres d'agriculture sur tous les immeubles classés au cadastre en nature de bois.
 
 La cotisation est répartie entre les chambres d'agriculture départementales en fonction notamment de la superficie forestière constatée dans la statistique agricole.
 
-Un décret fixe les conditions de versement par les chambres d'agriculture et de répartition entre les centres régionaux de la propriété forestière et le Centre national professionnel de la propriété forestière des sommes mentionnées aux alinéas qui précèdent.
+Un décret fixe les conditions de versement par les chambres d'agriculture et de répartition entre les centres régionaux de la propriété forestière et le Centre national de la propriété forestière des sommes mentionnées aux alinéas qui précèdent.
 
 En contrepartie de la part qu'elles conservent du montant des taxes perçues sur tous les immeubles classés au cadastre en nature de bois, les chambres d'agriculture mettent en oeuvre un programme pluriannuel d'actions. Celui-ci est destiné, d'une part, à la mise en valeur des bois et des forêts privés et il est élaboré en coordination avec le programme pluriannuel d'actions des centres régionaux de la propriété forestière, d'autre part, à la mise en valeur des bois et des forêts des collectivités territoriales et il est élaboré en coordination avec le programme pluriannuel d'actions de l'Office national des forêts. Il porte sur :
 

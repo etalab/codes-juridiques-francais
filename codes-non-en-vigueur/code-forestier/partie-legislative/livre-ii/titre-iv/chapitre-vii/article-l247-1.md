@@ -6,7 +6,7 @@ Elles regroupent des propriétaires de bois, forêts ou terrains à boiser ainsi
 
 Ces associations syndicales sont libres ou autorisées. Elles sont constituées et fonctionnent conformément à l'ordonnance n° 2004-632 du 1er juillet 2004 relative aux associations syndicales de propriétaires, sous réserve des dispositions suivantes.
 
-Dès lors qu'elles remplissent les conditions prévues par l'article L. 222-1, ces associations syndicales élaborent pour la partie forestière de leur périmètre un plan simple de gestion qui est présenté à l'agrément du centre régional de la propriété forestière au nom des propriétaires.
+Dès lors qu'elles remplissent les conditions prévues par l'article L. 222-1, ces associations syndicales élaborent pour la partie forestière de leur périmètre un plan simple de gestion qui est présenté à l'agrément du Centre national de la propriété forestière au nom des propriétaires.
 
 Elles peuvent, à titre accessoire, autoriser ou réaliser des équipements à des fins ni forestières ni pastorales, à condition qu'ils soient de nature à contribuer au maintien de la vie rurale.
 

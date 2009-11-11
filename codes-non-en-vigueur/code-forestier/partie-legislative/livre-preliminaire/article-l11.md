@@ -20,4 +20,4 @@ f) Article L. 350-1 du code de l'environnement ;
 
 g) Article L. 414-4 du code de l'environnement.
 
-Chaque année, le représentant de l'Etat dans la région porte à la connaissance de l'Office national des forêts et du centre régional de la propriété forestière la liste élaborée par la commission régionale de la forêt et des produits forestiers recensant, dans les espaces boisés, les habitats d'espèces de la faune ou de la flore ainsi que les périmètres, monuments, sites ou zones concernés par les dispositions mentionnées aux alinéas précédents et par toute autre législation de protection et de classement.
+Chaque année, le représentant de l'Etat dans la région porte à la connaissance de l'Office national des forêts et du Centre national de la propriété forestière la liste élaborée par la commission régionale de la forêt et des produits forestiers recensant, dans les espaces boisés, les habitats d'espèces de la faune ou de la flore ainsi que les périmètres, monuments, sites ou zones concernés par les dispositions mentionnées aux alinéas précédents et par toute autre législation de protection et de classement.
