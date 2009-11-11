@@ -1,9 +1,5 @@
 # Chapitre Ier : Le Centre national de la propriété forestière.
 
-- [Section 1 : Dispositions générales.](section-1)
-- [Section 2 : Election des administrateurs.](section-2)
-- [Section 3 : Administration générale.](section-3)
-- [Section 6 : Centre national professionnel de la propriété forestière.](section-6)
 - [Article L221-1](article-l221-1.md)
 - [Article L221-2](article-l221-2.md)
 - [Article L221-3](article-l221-3.md)
