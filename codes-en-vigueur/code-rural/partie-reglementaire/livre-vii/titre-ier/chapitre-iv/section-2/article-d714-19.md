@@ -10,4 +10,4 @@ S'il se trouve dans l'attente d'une réponse à une demande de dérogation, il d
 
 Dans l'un et l'autre cas, l'inspecteur du travail fait connaître sa décision selon les modalités prévues au troisième alinéa.
 
-Les recours hiérarchiques contre les décisions mentionnées au présent article doivent être formés devant le                    directeur régional du travail, de l'emploi et de la formation professionnelle dans le délai d'un mois suivant la date à laquelle les intéressés en ont reçu notification.
+Les recours hiérarchiques contre les décisions mentionnées au présent article doivent être formés devant le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi dans le délai d'un mois suivant la date à laquelle les intéressés en ont reçu notification.

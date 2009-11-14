@@ -10,11 +10,11 @@ La politique générale du tourisme comprend :
 
 4° La participation à la politique menée en faveur de l'emploi et de la formation professionnelle dans le domaine du tourisme ;
 
-5° La coordination administrative et financière des services centraux, des délégations régionales au tourisme et des organismes associés ainsi que la gestion des moyens de fonctionnement des services centraux et déconcentrés ;
+5° La coordination administrative et financière des services centraux, des directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi et des organismes associés ainsi que la gestion des moyens de fonctionnement des services centraux et déconcentrés ;
 
 6° La mise en cohérence des actions mises en oeuvre par les organismes dénommés " Maison de la France " et " ODIT France " avec la politique de l'Etat auquel ils apportent leur concours dans les domaines de la promotion, de l'observation, du développement et de l'ingénierie touristiques ;
 
-7° La contribution à la mise en oeuvre au niveau local de la politique publique du tourisme dans un contexte de développement durable. A ce titre, elle comprend l'orientation et l'évaluation de l'action des délégués régionaux au tourisme ;
+7° La contribution à la mise en oeuvre au niveau local de la politique publique du tourisme dans un contexte de développement durable.A ce titre, elle comprend l'orientation et l'évaluation de l'action des   directeurs régionaux des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ;
 
 8° La coordination des affaires européennes et internationales en matière de tourisme ;
 
