@@ -7,3 +7,4 @@
 - [Sous-section 5 : Diplôme d'Etat supérieur de la jeunesse,  de l'éducation populaire et du sport](sous-section-5)
 - [Sous-section 6 : Brevet d'Etat d'éducateur sportif](sous-section-6)
 - [Sous-section 7 : Brevets d'Etat spécifiques à l'encadrement  et à l'enseignement des sports de montagne](sous-section-7)
+- [Sous-section 8 : Commission de reconnaissance des qualifications](sous-section-8)
