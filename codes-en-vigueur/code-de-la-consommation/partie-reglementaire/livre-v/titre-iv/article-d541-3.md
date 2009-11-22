@@ -1,55 +1,59 @@
 # Article D541-3
 
-Le Conseil national de l'alimentation comprend les membres suivants :
+Le Conseil national de l'alimentation comprend :
 
-1° Neuf représentants des associations de consommateurs et d'usagers ;
+1° Quarante-neuf membres répartis en sept collèges :
 
-2° Neuf représentants des producteurs agricoles ;
+a) Le collège constitué de neuf représentants des associations nationales de consommateurs ou d'usagers ;
 
-3° Neuf représentants du secteur de la transformation, dont un représentant de l'artisanat ;
+b) Le collège constitué de neuf représentants des producteurs agricoles ;
 
-4° Trois représentants du secteur de la distribution ;
+c) Le collège constitué de neuf représentants de la transformation, dont un représentant de l'artisanat ;
 
-5° Six représentants de la restauration collective, dont :
+d) Le collège constitué de trois représentants de la distribution ;
 
-a) Trois représentants de la restauration commerciale ;
+e) Le collège constitué de six représentants de la restauration ;
 
-b) Trois représentants du comité de coordination des collectivités ;
+f) Le collège constitué de cinq représentants des syndicats de salariés de l'agriculture, de l'agroalimentaire et de la distribution des produits alimentaires ;
 
-6° Cinq représentants des syndicats de salariés de l'agriculture, de l'agroalimentaire et de la distribution des produits alimentaires ;
+g) Le collège constitué de huit personnalités désignées en raison de leurs compétences en matière d'alimentation.
 
-7° Le directeur général de l'Agence française de sécurité sanitaire des aliments ou son représentant ;
+2° Huit membres de droit :
 
-8° Le directeur de l'Institut national de la recherche agronomique ou son représentant ;
+a) Le directeur de l'Agence française de sécurité sanitaire des aliments, ou son représentant ;
 
-9° Le directeur de l'Institut national de la santé et de la recherche médicale ou son représentant ;
+b) Le directeur de l'Institut national de la recherche agronomique, ou son représentant ;
 
-10° Le directeur de l'institut scientifique et technique des pêches maritimes ou son représentant ;
+c) Le directeur de l'Institut national de la santé et de la recherche médicale, ou son représentant ;
 
-11° Le directeur du Centre national de coordination des études et recherches sur la nutrition et l'alimentation ou son représentant ;
+d) Le directeur de l'Institut français de recherche pour l'exploitation de la mer, ou son représentant ;
 
-12° Le directeur de l'Institut national de la consommation ou son représentant ;
+e) Le directeur de l'Institut national de la consommation, ou son représentant ;
 
-13° Six personnalités scientifiques qualifiées nommées conjointement par le ministre de l'agriculture, le ministre chargé de la santé et le ministre chargé de la consommation ;
+f) Le président de l'Association des maires de France, ou son représentant ;
 
-14° Deux personnalités qualifiées nommées sur proposition du président du Haut Conseil de la santé publique.
+g) Le président de l'Association des départements de France, ou son représentant ;
 
-En outre, assistent de plein droit aux séances du conseil les représentants des ministres chargés des départements suivants :
+h) le président de l'Association des régions de France, ou son représentant.
 
-- recherche ;
+En outre, assistent de plein droit aux séances du conseil, et participent aux débats avec voix consultative, les représentants des ministres chargés :
 
-- industrie ;
+- de la recherche ;
 
-- agriculture ;
+- de l'industrie ;
 
-- santé ;
+- de l'agriculture ;
 
-- consommation ;
+- de la santé ;
 
-- éducation nationale ;
+- de la consommation ;
 
-- mer ;
+- de l'éducation nationale ;
 
-- commerce et artisanat ;
+- de la pêche ;
 
-- économie et finances.
+- du commerce et de l'artisanat ;
+
+- de l'économie ;
+
+- de l'emploi.
