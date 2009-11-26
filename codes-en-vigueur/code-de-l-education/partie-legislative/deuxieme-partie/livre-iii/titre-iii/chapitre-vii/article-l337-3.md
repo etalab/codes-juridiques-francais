@@ -12,6 +12,6 @@ Les stages en milieu professionnel se déroulent dans les conditions prévues à
 
 L'élève stagiaire en parcours d'initiation aux métiers, avec l'accord de son représentant légal, peut signer un contrat d'apprentissage à partir de l'âge de quinze ans, à la condition qu'il soit jugé apte à poursuivre l'acquisition, par la voie de l'apprentissage, du socle commun de connaissances et de compétences mentionné à l'article L. 122-1-1 dans la perspective d'obtenir une qualification professionnelle sanctionnée par un diplôme ou un titre à finalité professionnelle enregistré au répertoire national des certifications professionnelles.
 
-L'ouverture des parcours d'initiation aux métiers dans les lycées professionnels et les centres de formation d'apprentis est inscrite au plan régional de développement des formations professionnelles mentionné à l'article L. 214-13.
+L'ouverture des parcours d'initiation aux métiers dans les lycées professionnels et les centres de formation d'apprentis est inscrite au contrat de plan régional de développement des formations professionnelles mentionné à l'article L. 214-13.
 
 Les dépenses de transport scolaire spécifiquement liées à la formation de l'apprenti junior sous statut scolaire donnent lieu à une compensation au département par l'Etat, dans des conditions fixées par décret.

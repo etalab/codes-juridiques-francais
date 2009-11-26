@@ -5,3 +5,4 @@
 - [Chapitre III : Droit individuel à la formation](chapitre-iii)
 - [Chapitre IV : Périodes de professionnalisation](chapitre-iv)
 - [Chapitre V : Contrats de professionnalisation](chapitre-v)
+- [Chapitre VI : Préparation opérationnelle à l'emploi](chapitre-vi)

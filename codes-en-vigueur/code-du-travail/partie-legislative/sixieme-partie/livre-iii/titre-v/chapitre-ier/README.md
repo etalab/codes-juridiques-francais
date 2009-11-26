@@ -1,5 +1,7 @@
 # Chapitre Ier : Déclaration d'activité.
 
+- [Section 1 : Principes généraux](section-1)
+- [Section 2 : Régime juridique de la déclaration d'activité](section-2)
 - [Article L6351-1](article-l6351-1.md)
 - [Article L6351-2](article-l6351-2.md)
 - [Article L6351-3](article-l6351-3.md)
