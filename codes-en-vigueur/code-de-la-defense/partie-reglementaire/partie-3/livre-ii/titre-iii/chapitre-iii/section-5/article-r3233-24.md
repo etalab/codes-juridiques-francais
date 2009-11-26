@@ -1,6 +1,6 @@
 # Article R3233-24
 
-Pour l'exercice des missions mentionnées à l'article D. 2333-24, la SIMMAD :
+Pour l'exercice des missions mentionnées à l'article R. 3233-23, la SIMMAD :
 
 1° S'assure de l'exécution des règles générales et techniques du maintien en condition opérationnelle des matériels aéronautiques ;
 
@@ -18,11 +18,11 @@ a) De certains artifices et munitions, hormis les missiles, déjà référencés
 
 b) Des matériels sol et d'environnement à caractère aéronautique qui ne font pas l'objet d'une qualification aéronautique ou de sécurité nucléaire ;
 
-c) Des matériels aéronautiques déjà qualifiés et ne nécessitant pas de complément de qualification, hormis les matériels qui relèvent de la compétence de la     direction générale de l'armement ;
+c) Des matériels aéronautiques déjà qualifiés et ne nécessitant pas de complément de qualification, hormis les matériels qui relèvent de la compétence de la direction générale de l'armement ;
 
-7° Définit ses instructions d'achat en concertation avec les services compétents de la     direction générale de l'armement et en cohérence avec les instructions d'achat des armées et de la gendarmerie nationale ;
+7° Définit ses instructions d'achat en concertation avec les services compétents de la direction générale de l'armement et en cohérence avec les instructions d'achat des armées et de la gendarmerie nationale ;
 
-8° Définit sa politique de qualité en concertation avec les services compétents de la     direction générale de l'armement et en cohérence avec les politiques de qualité des armées et de la gendarmerie nationale ;
+8° Définit sa politique de qualité en concertation avec les services compétents de la direction générale de l'armement et en cohérence avec les politiques de qualité des armées et de la gendarmerie nationale ;
 
 9° Gère les stocks de rechanges et les outillages spécifiques appartenant à l'Etat, hormis ceux du service de la maintenance aéronautique.
 

@@ -16,7 +16,6 @@
 - [Article D3123-14](article-d3123-14.md)
 - [Article D3123-15](article-d3123-15.md)
 - [Article D3123-16](article-d3123-16.md)
-- [Article D3123-17](article-d3123-17.md)
 - [Article D3123-18](article-d3123-18.md)
 - [Article D3123-19](article-d3123-19.md)
 - [Article D3123-20](article-d3123-20.md)
