@@ -6,7 +6,7 @@
 - [Section 4 : Des auditions de témoins](section-4)
 - [Section 5 : Des interrogatoires et confrontations](section-5)
 - [Section 6 : Des mandats et de leur exécution](section-6)
-- [Section 7 : Du contrôle judiciaire et de la détention provisoire](section-7)
+- [Section 7 : Du contrôle judiciaire, de l'assignation à résidence et de la détention provisoire](section-7)
 - [Section 8 : Des commissions rogatoires](section-8)
 - [Section 9 : De l'expertise](section-9)
 - [Section 10 : Des nullités de l'information](section-10)

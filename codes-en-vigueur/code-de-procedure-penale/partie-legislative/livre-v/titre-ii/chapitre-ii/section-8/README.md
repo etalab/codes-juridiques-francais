@@ -1,9 +1,7 @@
-# Section 8 : Dispositions applicables aux condamnés en fin de peine
+# Section 8 : Modalités d'exécution des fins de peines d'emprisonnement     en l'absence de tout aménagement de peine
 
 - [Article 723-20](article-723-20.md)
-- [Article 723-21](article-723-21.md)
 - [Article 723-22](article-723-22.md)
-- [Article 723-23](article-723-23.md)
 - [Article 723-24](article-723-24.md)
 - [Article 723-25](article-723-25.md)
 - [Article 723-26](article-723-26.md)

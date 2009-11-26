@@ -7,3 +7,4 @@
 - [Article 712-20](article-712-20.md)
 - [Article 712-21](article-712-21.md)
 - [Article 712-22](article-712-22.md)
+- [Article 712-23](article-712-23.md)
