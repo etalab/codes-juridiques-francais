@@ -1,4 +1,4 @@
-# Section 3  :   Des observatoires départementaux d'équipement commercial
+# Section 3  :   Des observatoires départementaux d'aménagement commercial
 
 - [Article A751-1](article-a751-1.md)
 - [Article A751-2](article-a751-2.md)

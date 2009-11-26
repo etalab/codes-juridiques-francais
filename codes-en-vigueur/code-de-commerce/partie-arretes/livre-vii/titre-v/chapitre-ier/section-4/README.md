@@ -1,4 +1,4 @@
-# Section 4  :   De l'observatoire d'équipement commercial d'Ile-de-France
+# Section 4 : De l'observatoire d'aménagement commercial d'Ile-de-France
 
 - [Article A751-7](article-a751-7.md)
 - [Article A751-8](article-a751-8.md)
