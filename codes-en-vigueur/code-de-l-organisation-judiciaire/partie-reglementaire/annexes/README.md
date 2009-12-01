@@ -8,6 +8,7 @@
 - [Article Annexe Tableau VI](article-annexe-tableau-vi.md)
 - [Article Annexe Tableau VII](article-annexe-tableau-vii.md)
 - [Article Annexe Tableau VIII](article-annexe-tableau-viii.md)
+- [Article Annexe Tableau VIII-II](article-annexe-tableau-viii-ii.md)
 - [Article Annexe Tableau IX](article-annexe-tableau-ix.md)
 - [Article Annexe Tableau X](article-annexe-tableau-x.md)
 - [Article Annexe Tableau XI](article-annexe-tableau-xi.md)
