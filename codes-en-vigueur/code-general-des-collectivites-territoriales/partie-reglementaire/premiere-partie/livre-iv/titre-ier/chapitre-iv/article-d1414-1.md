@@ -23,3 +23,5 @@ V. ― Le Bulletin officiel des annonces des marchés publics est tenu de publie
 Lorsque la Direction des Journaux officiels est dans l'impossibilité de publier l'édition du Bulletin officiel des annonces des marchés publics dans sa version imprimée, elle peut se borner à la publier, à titre temporaire, sous sa forme électronique. Dans ce cas, elle avertit immédiatement les abonnés à la version imprimée de ce bulletin de l'interruption temporaire de sa parution.
 
 La personne publique doit être en mesure de faire la preuve de la date d'envoi des avis.
+
+VI.-Pour rendre applicables les dispositions du premier alinéa de l'article L. 551-15 du code de justice administrative, la personne publique publie au Journal officiel de l'Union européenne un avis, conforme au modèle fixé par le règlement précité, relatif à son intention de conclure un contrat d'un montant inférieur au seuil défini au II du présent article, et respecte un délai d'au moins onze jours entre la date de publication de cet avis et la date de conclusion du contrat.
