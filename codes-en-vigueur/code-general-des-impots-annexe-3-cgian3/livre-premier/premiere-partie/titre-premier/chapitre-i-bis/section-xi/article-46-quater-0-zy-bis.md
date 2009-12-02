@@ -1,11 +1,5 @@
 # Article 46 quater-0 ZY bis
 
-Pour l'application du quatrième alinéa du I de l'article 209 du code général des impôts :
+Les œuvres cinématographiques ou audiovisuelles dont les dépenses de production ouvrent droit au bénéfice du crédit d'impôt prévu aux articles 220 quaterdecies et 220 Z bis du code général des impôts sont celles qui satisfont aux conditions prévues par le décret n° 2009-1465 du 30 novembre 2009 pris pour l'application des articles 220 quaterdecies et 220 Z bis du code général des impôts et relatif à l'agrément des œuvres cinématographiques et audiovisuelles ouvrant droit au crédit d'impôt pour dépenses de production exécutive en France d'œuvres cinématographiques ou audiovisuelles étrangères.
 
-1. La valeur d'origine des éléments repris ou transférés est comparée à la valeur d'origine de l'ensemble des éléments de l'actif immobilisé qui figurent au bilan du dernier exercice clos à la date de la reprise ou du transfert d'activités ;
-
-2. Le chiffre d'affaires s'entend du chiffre d'affaires hors taxes réalisé au cours du dernier exercice clos à la date de la reprise ou du transfert d'activités ;
-
-3. L'effectif des salariés correspond au nombre mensuel moyen de salariés employés au cours du même exercice et titulaires d'un contrat de travail.
-
-Chaque salarié à temps partiel au sens de l'article L. 212-4-2 du code du travail entre en compte dans l'effectif des salariés au prorata du rapport qui existe entre la durée hebdomadaire de travail mentionnée dans son contrat et la durée légale de travail sur la même période ou, si elle est inférieure à la durée légale, la durée normale de travail accomplie dans l'établissement ou la partie de l'établissement où il est employé.
+Les entreprises de production exécutive qui peuvent bénéficier du crédit d'impôt prévu aux articles 220 quaterdecies et 220 Z bis du code général des impôts sont celles définies à l'article 2 du décret précité.

@@ -25,7 +25,7 @@
 - [Section VIII bis : Régime de taxation au tonnage](section-viii-bis)
 - [Section VIII ter : Imputation de déficits subis à l'étranger par les petites et moyennes entreprises](section-viii-ter)
 - [Section IX : Entreprises nouvelles bénéficiant des dispositions de l'article 44 septies](section-ix)
-- [Section XI : Régime des amortissements réputés différés en période déficitaire en cas de reprise ou de transfert d'activités](section-xi)
+- [Section XI : Crédit d'impôt pour dépenses de production exécutive d'œuvres cinématographiques et audiovisuelles](section-xi)
 - [Section XII : Réduction du taux de l'impôt sur les sociétés pour certaines sociétés qui incorporent une fraction de leur bénéfice au capital](section-xii)
 - [Section XII bis : Réduction du taux de l'impôt sur les sociétés pour les petites entreprises.](section-xii-bis)
 - [Section XII ter : Réduction du taux de l'impôt sur les sociétés pour les sociétés d'investissements immobiliers cotées, leurs filiales, les filiales de sociétés de placement à prépondérance immobilière à capital variable et les sociétés se transformant en sociétés de placement à prépondérance immobilière à capital variable](section-xii-ter)
