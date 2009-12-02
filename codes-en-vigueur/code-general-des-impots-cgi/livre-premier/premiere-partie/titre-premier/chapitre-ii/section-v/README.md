@@ -7,6 +7,7 @@
 - [6° : Réduction d'impôt en faveur des petites et moyennes entreprises de croissance](6)
 - [7° : Réduction d'impôt pour souscription au capital de sociétés de presse](7)
 - [8° : Crédit d'impôt pour dépenses de distribution de programmes audiovisuels](8)
+- [10 ° : Crédit d'impôt pour dépenses de production exécutive d'œuvres cinématographiques et audiovisuelles](10)
 - [Article 219](article-219.md)
 - [Article 219 bis](article-219-bis.md)
 - [Article 219 ter](article-219-ter.md)
