@@ -341,7 +341,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Antenne de Clairvaux. </p>
 </td>
 <td valign="top">
-<p>Centre pénitentiaire de Clairvaux. </p>
+<p>Maison centrale de Clairvaux. </p>
 </td>
 </tr>
 <tr>
@@ -2702,7 +2702,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Néant. </p>
 </td>
 <td valign="top">
-<p>Circonscription judiciaire du Mans. </p>
+<p>Circonscription judiciaire du Mans ; </p>
 </td>
 </tr>
 <tr>
@@ -2710,7 +2710,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>Maison d'arrêt du Mans. </p>
+<p>Maison d'arrêt du Mans-Les Croisettes. </p>
 </td>
 </tr>
 <tr>
