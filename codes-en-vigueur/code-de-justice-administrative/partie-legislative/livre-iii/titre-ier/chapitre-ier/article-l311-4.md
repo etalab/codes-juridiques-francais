@@ -18,4 +18,6 @@ Le Conseil d'Etat connaît, en premier et dernier ressort, des recours de pleine
 
 8° Des articles L. 232-24 et L. 241-8 du code du sport ;
 
-9° De l'article 40 de la loi n° 2000-108 du 10 février 2000 contre les décisions de sanction prises par la Commission de régulation de l'énergie.
+9° De l'article 40 de la loi n° 2000-108 du 10 février 2000 contre les décisions de sanction prises par la Commission de régulation de l'énergie ;
+
+10° De l'article 17 de la loi n° 2009-1503 du 8 décembre 2009 relative à l'organisation et à la régulation des transports ferroviaires et portant diverses dispositions relatives aux transports contre les décisions de sanction prises par l'Autorité de régulation des activités ferroviaires.
