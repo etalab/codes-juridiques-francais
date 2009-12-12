@@ -10,7 +10,7 @@ La subvention accordée est au plus égale à la différence entre le coût de l
 
 Une convention fixe les obligations contractées par les sociétés en contrepartie des financements accordés pour les logements.
 
-Dans le cadre du présent article, les collectivités territoriales et leurs groupements peuvent, dans les mêmes conditions, céder des terrains ou des constructions, la valeur attribuée aux constructions cédées ne pouvant être inférieure à la valeur fixée par le service des domaines, quel que soit le prix de cession effectivement retenu. Le tableau récapitulatif visé aux articles L. 2241-2, L. 3213-2, L. 4221-4 et L. 5211-38 mentionne alors la valeur de cession des terrains et, à titre indicatif, la valeur estimée par le service des domaines.
+Dans le cadre du présent article, les collectivités territoriales et leurs groupements peuvent, dans les mêmes conditions, céder des terrains ou des constructions, la valeur attribuée aux constructions cédées ne pouvant être inférieure à la valeur fixée par le service des domaines, quel que soit le prix de cession effectivement retenu.
 
 Sous réserve des décisions de justice devenues définitives, les conventions passées antérieurement à la promulgation de la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains et qui seraient conformes à ses nouvelles dispositions, en tant que la validité de ces conventions au regard des dispositions du titre Ier du livre V de la première partie du présent code est contestée, sont validées.
 

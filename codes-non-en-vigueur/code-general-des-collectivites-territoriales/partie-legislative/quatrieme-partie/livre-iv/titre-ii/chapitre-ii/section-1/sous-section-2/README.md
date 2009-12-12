@@ -7,6 +7,7 @@
 - [Article L4422-7](article-l4422-7.md)
 - [Article L4422-8](article-l4422-8.md)
 - [Article L4422-9](article-l4422-9.md)
+- [Article L4422-9-1](article-l4422-9-1.md)
 - [Article L4422-10](article-l4422-10.md)
 - [Article L4422-11](article-l4422-11.md)
 - [Article L4422-12](article-l4422-12.md)

@@ -22,7 +22,7 @@ Ces représentants peuvent percevoir une rémunération ou des avantages particu
 
 Les élus locaux agissant en tant que mandataires des collectivités territoriales ou de leurs groupements au sein du conseil d'administration ou de surveillance des sociétés d'économie mixte locales et exerçant les fonctions de membre ou de président du conseil d'administration, de président-directeur général ou de membre ou de président du conseil de surveillance, ne sont pas considérés comme étant intéressés à l'affaire, au sens de l'article L. 2131-11, lorsque la collectivité ou le groupement délibère sur ses relations avec la société d'économie mixte locale.
 
-Toutefois, ils ne peuvent participer aux commissions d'appel d'offres ou aux commissions d'attribution de délégations de service public de la collectivité territoriale ou du groupement lorsque la société d'économie mixte locale est candidate à l'attribution d'un marché public ou d'une délégation de service public dans les conditions prévues aux articles L. 1411-1 et suivants.
+Toutefois, ils ne peuvent participer aux commissions d'appel d'offres ou aux commissions d'attribution de délégations de service public de la collectivité territoriale ou du groupement lorsque la société d'économie mixte locale est candidate à l'attribution d'un marché public ou d'une délégation de service public dans les conditions prévues aux articles L. 1411-1 à L. 1411-18.
 
 En cas de fin légale du mandat de l'assemblée, le mandat de ses représentants au conseil d'administration ou au conseil de surveillance est prorogé jusqu'à la désignation de leurs remplaçants par la nouvelle assemblée, leurs pouvoirs se limitant à la gestion des affaires courantes.
 

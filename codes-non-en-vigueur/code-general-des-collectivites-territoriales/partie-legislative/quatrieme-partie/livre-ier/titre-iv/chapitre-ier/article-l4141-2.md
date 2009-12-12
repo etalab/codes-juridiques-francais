@@ -14,7 +14,7 @@ Sont soumis aux dispositions de l'article L. 4141-1 les actes suivants :
 
 6° Les décisions relevant de l'exercice de prérogatives de puissance publique, prises par des sociétés d'économie mixte locales pour le compte d'une région ou d'un établissement public de coopération interrégionale ;
 
-7° Le budget adopté selon la procédure prévue par l'article L. 4311-1-1 ;
+7° (Supprimé) ;
 
 8° Les décisions prises par les régions d'outre-mer en application des articles 68-21 et 68-22 du code minier ;
 

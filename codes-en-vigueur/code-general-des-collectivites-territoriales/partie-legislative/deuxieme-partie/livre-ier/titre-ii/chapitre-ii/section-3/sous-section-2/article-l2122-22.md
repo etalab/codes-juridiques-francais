@@ -44,6 +44,6 @@ Le maire peut, en outre, par délégation du conseil municipal, être chargé, e
 
 21° D'exercer, au nom de la commune et dans les conditions fixées par le conseil municipal, le droit de préemption défini par l'article L. 214-1 du code de l'urbanisme ;
 
-22° D'exercer au nom de la commune le droit de priorité défini aux articles L. 240-1 et suivants du code de l'urbanisme ;
+22° D'exercer au nom de la commune le droit de priorité défini aux articles L. 240-1 à L. 240-3 du code de l'urbanisme ;
 
 23° De prendre les décisions mentionnées aux articles L. 523-4 et L. 523-5 du code du patrimoine relatives à la réalisation de diagnostics d'archéologie préventive prescrits pour les opérations d'aménagement ou de travaux sur le territoire de la commune.

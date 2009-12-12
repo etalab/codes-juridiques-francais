@@ -1,6 +1,7 @@
 # Article L1862-1
 
-I.-Les dispositions des articles L. 1521-1, L. 1522-1 à L. 1522-5, L. 1523-1, L. 1523-4 à L. 1523-5, à l'exception de son septième alinéa, L. 1523-6 et L. 1523-7, L. 1524-1 à L. 1524-7 et du 3° de l'article L. 1525-3, en tant qu'elles s'appliquent aux communes et à leurs groupements, sont applicables aux sociétés d'économie mixte créées par les communes de la Polynésie française ainsi que leurs groupements sous réserve des dispositions suivantes :
+I.-Les dispositions des articles L. 1521-1, L. 1522-1 à L. 1522-5,
+L. 1523-1, L. 1523-4 à L. 1523-5, à l'exception de son septième alinéa, L. 1523-6 et L. 1523-7, L. 1524-1 à L. 1524-7 et du 3° de l'article L. 1525-3, en tant qu'elles s'appliquent aux communes et à leurs groupements, sont applicables aux sociétés d'économie mixte créées par les communes de la Polynésie française ainsi que leurs groupements sous réserve des dispositions suivantes :
 
 II.-Pour l'application de l'article L. 1521-1 :
 
@@ -36,6 +37,6 @@ X.-Pour l'application de l'article L. 1524-3, les mots : " au représentant de l
 
 XI.-Pour l'application de l'article L. 1524-5 :
 
-1° Les références à des articles du code du commerce sont remplacées par les références aux dispositions correspondantes applicables localement et, à la fin du douzième alinéa, les mots : " aux articles L. 1411-1 et suivants " sont remplacés par les mots : " par les dispositions en vigueur localement " ;
+1° Les références à des articles du code du commerce sont remplacées par les références aux dispositions correspondantes applicables localement et, à la fin du douzième alinéa, les mots : " aux articles L. 1411-1 à L. 1411-18 " sont remplacés par les mots : " par les dispositions en vigueur localement " ;
 
 2° Au neuvième alinéa, les mots : ", départementaux ou régionaux au sens des articles L. 207, L. 231 et L. 343 du code électoral " sont remplacés par les mots : " ou territoriaux au sens du code électoral ".

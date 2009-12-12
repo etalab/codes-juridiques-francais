@@ -1,6 +1,6 @@
 # Article L2122-4
 
-Le conseil municipal élit le maire et les adjoints parmi ses membres, au scrutin secret et à la majorité absolue. Nul ne peut être élu maire s'il n'est âgé de dix-huit ans révolus.
+Le conseil municipal élit le maire et les adjoints parmi ses membres, au scrutin secret. Nul ne peut être élu maire s'il n'est âgé de dix-huit ans révolus.
 
 Les fonctions de maire sont incompatibles avec l'exercice d'une des fonctions électives suivantes : président d'un conseil régional, président d'un conseil général.
 

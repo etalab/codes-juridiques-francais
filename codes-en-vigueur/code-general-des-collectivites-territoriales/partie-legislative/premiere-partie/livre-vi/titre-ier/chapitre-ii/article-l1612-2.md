@@ -5,5 +5,3 @@ Si le budget n'est pas adopté avant le 31 mars de l'exercice auquel il s'appliq
 A compter de la saisine de la chambre régionale des comptes et jusqu'au règlement du budget par le représentant de l'Etat, l'organe délibérant ne peut adopter de délibération sur le budget de l'exercice en cours.
 
 Ces dispositions ne sont pas applicables quand le défaut d'adoption résulte de l'absence de communication avant le 15 mars à l'organe délibérant d'informations indispensables à l'établissement du budget. La liste de ces informations est fixée par décret. Dans ce cas, l'organe délibérant dispose de quinze jours à compter de cette communication pour arrêter le budget.
-
-Le présent article est applicable aux régions, sous réserve des dispositions de l'article L. 4311-1-1..

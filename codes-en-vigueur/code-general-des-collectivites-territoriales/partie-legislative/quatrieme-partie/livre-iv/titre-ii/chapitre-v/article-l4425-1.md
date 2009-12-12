@@ -14,4 +14,4 @@ La collectivité territoriale de Corse bénéficie des ressources fiscales suiva
 
 La collectivité territoriale de Corse bénéficie également des ressources financières particulières dont disposait la région de Corse en vertu de la loi n° 82-659 du 30 juillet 1982 portant statut particulier de la région de Corse : compétences et de celles instituées par la loi n° 91-428 du 13 mai 1991 portant statut de la collectivité territoriale de Corse et la loi n° 94-1131 du 27 décembre 1994 portant statut fiscal de la Corse.
 
-La collectivité territoriale de Corse bénéficie également de la dotation globale de fonctionnement des régions dans les conditions définies aux articles L. 4332-4 et suivants.
+La collectivité territoriale de Corse bénéficie également de la dotation globale de fonctionnement des régions dans les conditions définies aux articles L. 4332-4 à L. 4332-8.

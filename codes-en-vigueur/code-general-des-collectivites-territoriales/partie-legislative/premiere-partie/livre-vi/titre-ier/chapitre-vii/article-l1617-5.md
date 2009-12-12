@@ -10,7 +10,7 @@ L'introduction de l'instance ayant pour objet de contester la régularité forme
 
 2° L'action dont dispose le débiteur d'une créance assise et liquidée par une collectivité territoriale ou un établissement public local pour contester directement devant la juridiction compétente le bien-fondé de ladite créance se prescrit dans le délai de deux mois suivant la réception du titre exécutoire ou, à défaut, du premier acte procédant de ce titre ou de la notification d'un acte de poursuite.
 
-L'action dont dispose le débiteur de la créance visée à l'alinéa précédent pour contester directement devant le juge de l'exécution visé à l'article L. 311-12 du code de l'organisation judiciaire la régularité formelle de l'acte de poursuite diligenté à son encontre se prescrit dans le délai de deux mois suivant la notification de l'acte contesté.
+L'action dont dispose le débiteur de la créance visée à l'alinéa précédent pour contester directement devant le juge de l'exécution mentionné aux articles L. 213-5 et L. 213-6 du code de l'organisation judiciaire la régularité formelle de l'acte de poursuite diligenté à son encontre se prescrit dans le délai de deux mois suivant la notification de l'acte contesté.
 
 3° L'action des comptables publics chargés de recouvrer les créances des régions, des départements, des communes et des établissements publics locaux se prescrit par quatre ans à compter de la prise en charge du titre de recettes.
 

@@ -1,6 +1,7 @@
 # Article L2573-7
 
-I.-Les articles L. 2123-1 à L. 2123-3, L. 2123-5 à L. 2123-21, L. 2123-23 à L. 2123-24-1 sont applicables aux communes de la Polynésie française sous réserve des adaptations prévues du II au XVII.
+I.-Les articles L. 2123-1 à L. 2123-3,
+L. 2123-5 à L. 2123-21, L. 2123-23 à L. 2123-24-1 sont applicables aux communes de la Polynésie française sous réserve des adaptations prévues du II au XVII.
 
 II.-Pour l'application de l'article L. 2123-2, les mots : " la durée hebdomadaire légale du travail " et " la durée légale du travail " sont remplacés par les mots : " la durée hebdomadaire maximum du travail fixée par la réglementation applicable en Polynésie française ".
 
@@ -20,7 +21,7 @@ VII.-Pour l'application de l'article L. 2123-10, après le mot : " publique " so
 
 VIII.-Pour l'application de l'article L. 2123-11-2 :
 
-1° Les mots : " être inscrit à l'institution mentionnée à l'article L. 311-7 du code du travail  (1) conformément aux dispositions de l'article L. 311-2 du code du travail " (1) sont remplacés par les mots : " être considéré comme demandeur d'emploi en Polynésie française selon la réglementation applicable localement " ;
+1° Les mots : " être inscrit à l'institution mentionnée à l'article L. 5312-1 du code du travail conformément aux dispositions de l'article L. 5411-1 du même code " sont remplacés par les mots : " être considéré comme demandeur d'emploi en Polynésie française selon la réglementation applicable localement " ;
 
 2° Les références : " L. 2123-23, L. 2123-24 et L. 2511-34 " sont remplacées par les références : " L. 2123-23 et L. 2123-24 ".
 

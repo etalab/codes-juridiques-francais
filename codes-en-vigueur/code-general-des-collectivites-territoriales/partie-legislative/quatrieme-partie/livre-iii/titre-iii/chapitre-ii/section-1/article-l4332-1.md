@@ -8,7 +8,7 @@ Ce fonds est alimenté chaque année par :
 
 Les crédits mentionnés à l'alinéa précédent sont diminués en 2005, 2006 et à compter de 2007 d'un montant de respectivement 197, 2 millions d'euros, 395, 84 millions d'euros et 593, 76 millions d'euros, en valeur 2005 et à indexer chaque année selon le taux d'évolution de la dotation globale de fonctionnement.
 
-2° Les crédits transférés par l'Etat dont le montant est égal aux versements au Trésor public effectués l'année précédente en application des articles L. 920-9 et L. 951-9 du code du travail (1), et dont la répartition obéit aux mêmes critères que ceux mentionnés au 1° ci-dessus ;
+2° Les crédits transférés par l'Etat dont le montant est égal aux versements au Trésor public effectués l'année précédente en application des articles L. 6354-2 et L. 6331-28 du code du travail, et dont la répartition obéit aux mêmes critères que ceux mentionnés au 1° ci-dessus ;
 
 3° Le cas échéant, les autres ressources susceptibles de lui être régulièrement attribuées ;
 
