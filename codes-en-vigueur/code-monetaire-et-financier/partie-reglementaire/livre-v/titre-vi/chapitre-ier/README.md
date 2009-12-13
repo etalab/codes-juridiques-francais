@@ -5,3 +5,4 @@
 - [Section 4 : Obligations de déclaration](section-4)
 - [Section 5 : La cellule de renseignement financier nationale](section-5)
 - [Section 6 :  Procédures et contrôle interne](section-6)
+- [Section 7 : Contrôle du respect des obligations et Commission nationale des sanctions](section-7)
