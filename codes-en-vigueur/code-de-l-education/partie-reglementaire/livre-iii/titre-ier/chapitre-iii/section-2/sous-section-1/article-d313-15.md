@@ -26,13 +26,13 @@ i) Le directeur général de la concurrence, de la consommation et de la répres
 
 j) Le directeur de la jeunesse et de la vie associative au ministère chargé de la jeunesse ;
 
-k) Le directeur général de l'     institution mentionnée à l'article L. 5312-1 du code du travail  ;
+k) Le directeur général de l'institution mentionnée à l'article L. 5312-1 du code du travail ;
 
 l) Le directeur général de l'industrie, des technologies de l'information et des postes au ministère chargé de l'industrie ;
 
 m) Le directeur du commerce, de l'artisanat, des services et des professions libérales au ministère chargé de l'artisanat ;
 
-n) Le délégué interministériel à l'aménagement et à la compétitivité des territoires ;
+n) Le           délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ;
 
 o) Le secrétaire général du comité interministériel prévu à l'article L. 910-1 du code du travail ;
 
