@@ -16,7 +16,7 @@ e) Le directeur de la direction de l'animation et de la recherche, des études e
 
 f) Le délégué général à l'emploi et à la formation professionnelle ou son représentant ;
 
-g) Le délégué interministériel à l'aménagement et à la compétitivité des territoires ou son représentant ;
+g) Le           délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ou son représentant ;
 
 h) Le directeur général de l'aménagement, du logement et de la nature, ou son représentant ;
 
