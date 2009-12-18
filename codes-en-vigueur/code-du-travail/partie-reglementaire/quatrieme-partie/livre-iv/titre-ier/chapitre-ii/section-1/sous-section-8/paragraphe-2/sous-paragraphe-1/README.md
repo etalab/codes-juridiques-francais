@@ -8,5 +8,7 @@
 - [Article R4412-49](article-r4412-49.md)
 - [Article R4412-50](article-r4412-50.md)
 - [Article R4412-51](article-r4412-51.md)
+- [Article R4412-51-1](article-r4412-51-1.md)
+- [Article R4412-51-2](article-r4412-51-2.md)
 - [Article R4412-52](article-r4412-52.md)
 - [Article R4412-53](article-r4412-53.md)
