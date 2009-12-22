@@ -38,6 +38,7 @@
 - [11° bis : Réduction d'impôt accordée au titre des investissements immobiliers locatifs réalisés dans des résidences de tourisme classées dans les zones de revitalisation rurales](11-bis)
 - [15° bis : Réduction d'impôt accordée au titre d'emprunts souscrits pour la reprise d'une entreprise](15-bis)
 - [19° bis : Réduction d'impôt au titre de la souscription de la déclaration de revenus par voie électronique associée au paiement de l'impôt correspondant par voie de prélèvement ou électronique](19-bis)
+- [23° bis : Crédit d'impôt pour frais de garde des jeunes enfants](23-bis)
 - [29° bis : Réduction d'impôt au titre des cotisations versées aux associations syndicales chargées du défrichement forestier](29-bis)
 - [11° ter : Réduction d'impôt au titre 
 d'investissements ou de travaux forestiers](11-ter)
