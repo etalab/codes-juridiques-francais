@@ -10,13 +10,19 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 <tbody>
 <tr>
 <th>
-<br/>INTITULÉ DU DIPLÔME <br/>
+<br/>
+<font size="1">INTITULÉ DU DIPLÔME <br/>
+</font>
 </th>
 <th>
-<br/>CONDITIONS D'EXERCICE <br/>
+<br/>
+<font size="1">CONDITIONS D'EXERCICE <br/>
+</font>
 </th>
 <th>
-<br/>LIMITES DES CONDITIONS D'EXERCICE <br/>
+<br/>
+<font size="1">LIMITES DES CONDITIONS D'EXERCICE</font>
+<br/>
 </th>
 </tr>
 <tr>
@@ -197,13 +203,19 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <tbody>
 <tr>
 <th>
-<br/>INTITULÉ DU DIPLÔME <br/>
+<br/>
+<font size="1">INTITULÉ DU DIPLÔME <br/>
+</font>
 </th>
 <th>
-<br/>CONDITIONS D'EXERCICE <br/>
+<br/>
+<font size="1">CONDITIONS D'EXERCICE <br/>
+</font>
 </th>
 <th>
-<br/>LIMITES DES CONDITIONS D'EXERCICE <br/>
+<br/>
+<font size="1">LIMITES DES CONDITIONS D'EXERCICE <br/>
+</font>
 </th>
 </tr>
 <tr>
@@ -1905,7 +1917,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td align="center" colspan="3">
-<br/>Mentions de la spécialité  " sport automobile " <br/>
+<br/>Mentions de la spécialité " sport automobile " <br/>
 </td>
 </tr>
 <tr>
@@ -2594,49 +2606,57 @@ C.-Diplômes délivrés par le ministère chargé des sports
 
 (*) Normes de classement des sites itinéraires d'escalade (Fédération française de la montagne et de l'escalade / FFME) en vigueur au 17 juillet 2007.
 
-D.-Titres délivrés par le ministère chargé de la défense
+D. - Titres à finalité professionnelle
+
+D-1. Titres à finalité professionnelle délivrés par le ministère chargé de la défense
 
 <table>
 <tbody>
 <tr>
 <th>
-<br/>INTITULÉ DU DIPLÔME <br/>
+<br/>
+<font size="1">INTITULÉ DU TITRE<br/>
+</font>
 </th>
 <th>
-<br/>CONDITIONS D'EXERCICE <br/>
+<br/>
+<font size="1">CONDITIONS D'EXERCICE<br/>
+</font>
 </th>
 <th>
-<br/>LIMITES DES CONDITIONS D'EXERCICE <br/>
+<br/>
+<font size="1">LIMITES DES CONDITIONS D'EXERCICE<br/>
+</font>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Aide-moniteur d'entraînement physique, militaire et sportif. <br/>
+<br/>Aide-moniteur d'entraînement physique, militaire et sportif.<br/>
 </td>
 <td align="center">
-<br/>Participation à l'animation des activités physiques ou sportives. <br/>
+<br/>Participation à l'animation des activités physiques ou sportives.<br/>
 </td>
 <td align="center">
-<br/>Sous le contrôle d'un titulaire de diplôme ou titre de niveau IV. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Moniteur d'entraînement physique, militaire et sportif. <br/>
-</td>
-<td align="center">
-<br/>Animation auprès de tous publics des activités physiques ou sportives à des fins d'initiation, de découverte, de loisir, de développement et de maintien des capacités physiques individuelles. <br/>
-</td>
-<td align="center">
-<br/>Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique. <br/>
+<br/>Sous le contrôle d'un titulaire de diplôme ou titre de niveau IV.<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Moniteur-chef d'entraînement physique, militaire et sportif. <br/>
+<br/>Moniteur d'entraînement physique, militaire et sportif.<br/>
 </td>
 <td align="center">
-<br/>Encadrement et coordination auprès de tous publics des activités physiques ou sportives. <br/>
+<br/>Animation auprès de tous publics des activités physiques ou sportives à des fins d'initiation, de découverte, de loisir, de développement et de maintien des capacités physiques individuelles.<br/>
+</td>
+<td align="center">
+<br/>Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Moniteur-chef d'entraînement physique, militaire et sportif.<br/>
+</td>
+<td align="center">
+<br/>Encadrement et coordination auprès de tous publics des activités physiques ou sportives.<br/>
 </td>
 <td align="center">
 <br/>Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique.<br/>
@@ -2645,23 +2665,70 @@ D.-Titres délivrés par le ministère chargé de la défense
 </tbody>
 </table>
 
-E.-Certificats de qualification délivrés par les branches professionnelles
-
-E-1. Certificats de qualification délivrés par la Commission paritaire nationale
-
-de l'emploi des entreprises équestres (CPNE-EE)
+D-2. Titres à finalité professionnelle délivrés par la Fédération française d'équitation
 
 <table>
 <tbody>
 <tr>
 <th>
-<br/>INTITULÉ DU DIPLÔME <br/>
+<br/>
+<font size="1">INTITULÉ DU TITRE<br/>
+</font>
 </th>
 <th>
-<br/>CONDITIONS D'EXERCICE <br/>
+<br/>
+<font size="1">CONDITIONS D'EXERCICE<br/>
+</font>
 </th>
 <th>
-<br/>LIMITES DES CONDITIONS D'EXERCICE <br/>
+<br/>
+<font size="1">LIMITES DES CONDITIONS D'EXERCICE<br/>
+</font>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Animateur poney.<br/>
+</td>
+<td align="center">
+<br/>Initiation au poney dans tout établissement.<br/>
+</td>
+<td align="center">
+<br/>Sous l'autorité d'un titulaire du brevet d'Etat d'éducateur sportif du 1er degré, option  équitation-activités équestres , ou du brevet d'Etat d'éducateur sportif du 2e degré, option  équitation , ou du brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité  activités équestres  toutes mentions.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Accompagnateur de tourisme équestre.<br/>
+</td>
+<td align="center">
+<br/>Accompagnement et conduite de randonnées équestres en autonomie dans tout établissement, dans le cadre de parcours identifiés.<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+E.-Certificats de qualification délivrés par les branches professionnelles
+
+E-1. Certificats de qualification délivrés par la Commission paritaire nationale de l'emploi des entreprises équestres (CPNE-EE)
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>
+<font size="1">INTITULÉ DU DIPLÔME <br/>
+</font>
+</th>
+<th>
+<br/>
+<font size="1">CONDITIONS D'EXERCICE <br/>
+</font>
+</th>
+<th>
+<br/>
+<font size="1">LIMITES DES CONDITIONS D'EXERCICE</font>
+<br/>
 </th>
 </tr>
 <tr>
@@ -2678,21 +2745,25 @@ de l'emploi des entreprises équestres (CPNE-EE)
 </tbody>
 </table>
 
-E-2. Certificats de qualification délivrés par la Commission paritaire nationale
-
-emploi-formation du sport (CPNEF du sport)
+E-2. Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport (CPNEF du sport)
 
 <table>
 <tbody>
 <tr>
 <th>
-<br/>INTITULÉ DU CERTIFICAT <br/>
+<br/>
+<font size="1">INTITULÉ DU CERTIFICAT <br/>
+</font>
 </th>
 <th>
-<br/>CONDITIONS D'EXERCICE <br/>
+<br/>
+<font size="1">CONDITIONS D'EXERCICE <br/>
+</font>
 </th>
 <th>
-<br/>LIMITES DES CONDITIONS D'EXERCICE <br/>
+<br/>
+<font size="1">LIMITES DES CONDITIONS D'EXERCICE <br/>
+</font>
 </th>
 </tr>
 <tr>
@@ -2867,13 +2938,19 @@ F.-Diplômes délivrés par le ministère chargé de la santé
 <tbody>
 <tr>
 <th>
-<br/>INTITULÉ DU DIPLÔME <br/>
+<br/>
+<font size="1">INTITULÉ DU DIPLÔME <br/>
+</font>
 </th>
 <th>
-<br/>CONDITIONS D'EXERCICE <br/>
+<br/>
+<font size="1">CONDITIONS D'EXERCICE <br/>
+</font>
 </th>
 <th>
-<br/>LIMITES DES CONDITIONS D'EXERCICE <br/>
+<br/>
+<font size="1">LIMITES DES CONDITIONS D'EXERCICE <br/>
+</font>
 </th>
 </tr>
 <tr>
