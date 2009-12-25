@@ -11,18 +11,21 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <p align="center">DÉPARTEMENT</p>
 </td>
 <td align="left" rowspan="2" valign="top">
-<p align="center">TRIBUNAL<br/>de grande instance </p>
+<p align="center">TRIBUNAL<br/>de grande instance <br/>
+</p>
 </td>
 <td align="left" colspan="2" valign="top">
-<p align="center">SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES </p>
+<p align="center">SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES <br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="center">Siège du conseil<br/>de prud'hommes </p>
+<p align="center">Siège du conseil<br/>de prud'hommes</p>
 </td>
 <td align="left" valign="top">
-<p align="center">Ressort du conseil<br/>de prud'hommes </p>
+<p align="center">Ressort du conseil<br/>de prud'hommes <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -2074,9 +2077,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -3159,7 +3160,9 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Riom <br/>
+<p>
+<b>Cour d'appel de Riom</b>
+<br/>
 </p>
 </td>
 </tr>
@@ -3288,7 +3291,9 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Rouen <br/>
+<p>
+<b>Cour d'appel de Rouen</b>
+<br/>
 </p>
 </td>
 </tr>
@@ -3397,7 +3402,9 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Toulouse <br/>
+<p>
+<b>Cour d'appel de Toulouse</b>
+<br/>
 </p>
 </td>
 </tr>
@@ -3509,7 +3516,9 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Versailles <br/>
+<p>
+<b>Cour d'appel de Versailles</b>
+<br/>
 </p>
 </td>
 </tr>
@@ -3527,7 +3536,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Chartres et Nogent-le-Rotrou. <br/>
+<p>Ressort des tribunaux d'instance de Chartres et de Nogent-le-Rotrou. <br/>
 </p>
 </td>
 </tr>
@@ -3731,7 +3740,9 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Basse-Terre <br/>
+<p>
+<b>Cour d'appel de Basse-Terre</b>
+<br/>
 </p>
 </td>
 </tr>
@@ -3814,7 +3825,9 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cour d'appel de Saint-Denis de la Réunion <br/>
+<p>
+<b>Cour d'appel de Saint-Denis de la Réunion <br/>
+</b>
 </p>
 </td>
 </tr>
