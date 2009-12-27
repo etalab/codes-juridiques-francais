@@ -16,9 +16,9 @@ Entreprises autres que les entreprises liées, dans lesquelles l'entreprise d'as
 
 1.L'amortissement annuel de l'emprunt pour fonds d'établissement est porté en charge par le crédit du compte 102 pour la part remboursée dans l'exercice et du compte 10642 pour la part non remboursée.
 
-2. Les passifs subordonnés portés au compte 160 sont les titres émis et les dettes de toutes natures, venant à un rang inférieur à tous les autres créanciers.
+2. Les passifs subordonnés portés au compte 160 sont les titres émis et les dettes de toutes natures, venant à un rang inférieur à tous les autres créanciers. Par ailleurs, au compte divisionnaire 165, sont indiqués, en tant que de besoin, au sous-compte 1657, pour leur valeur nominale, les éléments remboursables constitutifs de la composante dépôt au titre des opérations dites de " réassurance finite " mentionnées à l'article L. 310-1-1 et des opérations de réassurance purement financière.
 
-3. En tant que de besoin, en assurance Non-vie, le compte 17 est intitulé : Dettes pour dépôts espèces reçus des cessionnaires et rétrocessionnaires, et des organismes dispensés d'agrément en représentation d'engagements techniques ».
+3. En tant que de besoin, en assurance Non-vie, le compte 17 est intitulé : Dettes pour dépôts espèces reçus des cessionnaires et rétrocessionnaires, et des organismes dispensés d'agrément en représentation d'engagements techniques .
 
 4 Les écarts résultant de la conversion des emprunts libellés en devises et affectés au financement dans les mêmes devises des titres de participation ou des titres dans des entreprises liées ainsi que des dotations des succursales étrangères bénéficiant d'une autonomie économique et financière sont inscrits à un sous-compte rattaché au compte 16.
 
@@ -94,6 +94,8 @@ Les plus et moins-values constatées à cette occasion sont inscrites respective
 
 8. Sont portés au compte 2332 les dépôts de toutes natures auprès des établissements de crédit autres que les dépôts à vue.
 
+9. Sont portés au compte 237, pour leur valeur nominale, les éléments remboursables constitutifs de la composante dépôt au titre des opérations dites de " réassurance finite " mentionnées à l'article L. 310-1-1 et des opérations de réassurance purement financière.
+
 **III.-Classe 3**
 
 1. Les comptes 300 et 304 comportent les provisions mathématiques, les provisions de gestion et la provision pour frais d'acquisition reportés. Chacune de ces provisions est portée à un sous-compte distinct.
@@ -108,7 +110,7 @@ Les plus et moins-values constatées à cette occasion sont inscrites respective
 
 6. La part des cessionnaires et rétrocessionnaires est comptabilisée selon une nomenclature aussi détaillée que celle retenue par l'entreprise pour la comptabilisation des provisions.
 
-En tant que de besoin, en assurance Non-vie, le compte 38 est intitulé : Part des organismes dispensés d'agrément dans les provisions techniques ». Il retrace la part des organismes dispensés d'agrément dans les provisions, selon une nomenclature aussi détaillée que celle retenue par l'entreprise pour la comptabilisation des provisions.
+En tant que de besoin, en assurance Non-vie, le compte 38 est intitulé : Part des organismes dispensés d'agrément dans les provisions techniques . Il retrace la part des organismes dispensés d'agrément dans les provisions, selon une nomenclature aussi détaillée que celle retenue par l'entreprise pour la comptabilisation des provisions.
 
 **IV.-Classe 4**
 
@@ -140,7 +142,7 @@ Les charges techniques sont classées par destination :
 
 -les frais d'acquisition incluent notamment les commissions d'acquisition, les frais des réseaux commerciaux, et des services chargés de l'établissement des contrats, de la publicité, du marketing, ou exposés à leur profit ;
 
--les frais d'administration incluent notamment les commissions d'apérition, de gestion et d'encaissement, les frais des services chargés du terme », de la surveillance du portefeuille, de la réassurance acceptée et cédée ou exposés à leur profit, ainsi que les frais de contentieux lié aux primes ;
+-les frais d'administration incluent notamment les commissions d'apérition, de gestion et d'encaissement, les frais des services chargés du terme , de la surveillance du portefeuille, de la réassurance acceptée et cédée ou exposés à leur profit, ainsi que les frais de contentieux lié aux primes ;
 
 -les charges des placements incluent notamment les frais des services de gestion des placements, y compris les honoraires, commissions et courtages versés ;
 
@@ -154,7 +156,7 @@ L'enregistrement des charges aux comptes par destination doit être effectué in
 
 4. Les remboursements de frais sont portés à des sous-comptes séparés de chaque compte de charge correspondant. Les loyers sur immeubles d'exploitation dont l'entreprise est propriétaire sont portés en charge de manière distincte. Sauf lorsqu'un compte spécifique est prévu au présent code, les mouvements des comptes de régularisation (compte 48) sont portés à des sous-comptes distincts rattachés aux comptes de charges ou de produits correspondants.
 
-Aux comptes 60, 64 et 65, les sous-comptes intitulés autres frais » ou autres charges » incluent notamment les provisions pour dépréciation des créances d'exploitation et l'amortissement des matériels d'exploitation ; ils doivent comporter des sous-comptes rattachés retraçant leurs différentes composantes (frais internes, frais externes, dotations aux provisions et aux amortissements).
+Aux comptes 60, 64 et 65, les sous-comptes intitulés autres frais  ou autres charges  incluent notamment les provisions pour dépréciation des créances d'exploitation et l'amortissement des matériels d'exploitation ; ils doivent comporter des sous-comptes rattachés retraçant leurs différentes composantes (frais internes, frais externes, dotations aux provisions et aux amortissements).
 
 5. Des sous-comptes distincts retraçant les entrées et sorties de portefeuille (assurances collectives, acceptations et cessions) sont rattachés aux comptes de prestations et frais payés. Les transferts de portefeuille soumis à autorisation administrative ne sont pas considérés comme entrées ou sorties de portefeuille pour l'application de cette règle ; ils sont comptabilisés directement aux comptes de classe 1 à 5.
 

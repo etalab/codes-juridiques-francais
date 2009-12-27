@@ -82,6 +82,8 @@
 
 1654 Autres.
 
+1657. Dettes représentatives de la composante dépôt des contrats de réassurance.
+
 168 Autres emprunts et dettes assimilées :
 
 1680 Entreprises liées.
@@ -201,6 +203,8 @@
 2344 Autres.
 
 235 Créances pour espèces déposées chez les cédantes.
+
+237. Créances représentatives de la composante dépôt des contrats de réassurance.
 
 24 Placements représentant les provisions techniques afférentes aux contrats en unités de compte
 

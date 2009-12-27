@@ -111,6 +111,12 @@ e) Le montant global de la contre-valeur en euros et la composition par devise d
 
 1. 16. (cf. note 64) Les entreprises indiquent séparément, pour chacun des postes 2 a, 2 b, 2 c, 2 d, 5 et 6 du tableau des engagements reçus et donnés, le montant des engagements à l'égard des dirigeants, le montant des engagements à l'égard des entreprises liées et le montant des engagements à l'égard des entreprises avec lesquelles existe un lien de participation.
 
+1. 17. En ce qui concerne les opérations dites de " réassurance finite " mentionnées à l'article L. 310-1-1 et les opérations de réassurance purement financière, lorsqu'elles ont une importance significative, les entreprises d'assurance ou de réassurance indiquent dans l'annexe aux comptes annuels :
+
+a) Une description des principes et méthodes comptables ainsi que des méthodes d'évaluation appliquées ;
+
+b) A chaque fois que cela est utile à la compréhension et à l'appréciation des risques assumés par l'entreprise d'assurance ou de réassurance, des informations sur les postes du bilan et du compte de résultat concernés par ces opérations. Lorsque, pour les contrats dits de  réassurance finite  mentionnés à l'article L. 310-1-1, la décomposition entre la composante financière correspondant au dépôt et la composante correspondant au transfert significatif de risques d'assurance n'a pu être effectuée, l'entreprise d'assurance ou de réassurance indiquera les montants comptabilisés dans les postes du bilan et du compte de résultat concernés.
+
 2. Pour le compte de résultat
 
 2. 1. Les entreprises indiquent la ventilation des produits et des charges des placements inscrits au compte de résultat selon le modèle ci-après :
