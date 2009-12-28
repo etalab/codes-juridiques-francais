@@ -1,8 +1,8 @@
-# Article D313-1
+# Article D312-1
 
 Les règles relatives à la publicité à l'intérieur des lieux de vente à caractère spécialisé, notamment les restaurants et hôtels, sont fixées par les articles R. 3323-2 à R. 3323-4 du code de la santé publique ci-après reproduits :
 
-" Art.R. 3323-2 du code de la santé publique.
+" Art. R. 3323-2 du code de la santé publique.
 
 Les lieux de vente à caractère spécialisé mentionnés au 3° de l'article L. 3323-2 sont :
 
@@ -12,15 +12,15 @@ Les lieux de vente à caractère spécialisé mentionnés au 3° de l'article L.
 
 3° Les installations permanentes de vente directe de boissons alcooliques par les exploitants agricoles. "
 
-" Art.R. 3323-3 du code de la santé publique.
+"  Art. R. 3323-3 du code de la santé publique.
 
-A l'intérieur des lieux de vente définis à l'article R. 3323-2, la dimension d'une affichette publicitaire en faveur d'une boisson alcoolique ne peut excéder 0, 35 mètre carré.
+A l'intérieur des lieux de vente définis à l'article R. 3323-2, la dimension d'une affichette publicitaire en faveur d'une boisson alcoolique ne peut excéder 0,35 mètre carré.
 
 Dans les salles des débits de boissons, des restaurants et des hôtels, des chevalets évoquant une boisson alcoolique peuvent être disposés sur un comptoir ou sur une table.
 
 Ces affichettes et chevalets doivent être conformes aux prescriptions de l'article L. 3323-4. "
 
-" Art.R. 3323-4 du code de la santé publique.
+" Art. R. 3323-4 du code de la santé publique.
 
 Dans les débits de boissons, restaurants et hôtels, les matériels, la vaisselle et les objets de toute nature strictement réservés au fonctionnement de l'établissement, à l'usage du personnel pendant ses activités professionnelles et à celui de la clientèle lors de son passage ou de son séjour dans l'établissement, peuvent évoquer le nom d'une boisson alcoolique. Dans ce cas, ils ne peuvent être ni vendus ni remis à titre gratuit au public.
 

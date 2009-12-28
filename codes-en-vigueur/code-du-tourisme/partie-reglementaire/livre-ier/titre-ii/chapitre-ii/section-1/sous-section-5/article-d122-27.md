@@ -30,7 +30,7 @@ La commission des comptes du tourisme comprend :
 
 -le directeur des études économiques et de l'évaluation environnementale ;
 
--le           délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ;
+-le délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ;
 
 -le directeur général du Centre d'analyse stratégique ;
 
@@ -38,6 +38,6 @@ La commission des comptes du tourisme comprend :
 
 -le président du Centre national des monuments historiques ;
 
--le président de Maison de la France.
+-      le président de l'Agence de développement touristique de la France.
 
 Son secrétariat est assuré par la direction chargée du tourisme au sein de laquelle est choisi le rapporteur désigné par arrêté conjoint du ministre chargé du tourisme et du ministre chargé de l'économie.

@@ -1,4 +1,4 @@
-# Article D311-3
+# Article D311-2
 
 Cette commission, présidée par le préfet ou son représentant, comprend :
 

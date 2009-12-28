@@ -4,7 +4,6 @@
 - [Article D122-6](article-d122-6.md)
 - [Article D122-7](article-d122-7.md)
 - [Article D122-8](article-d122-8.md)
-- [Article D122-9](article-d122-9.md)
 - [Article D122-10](article-d122-10.md)
 - [Article D122-11](article-d122-11.md)
 - [Article D122-12](article-d122-12.md)

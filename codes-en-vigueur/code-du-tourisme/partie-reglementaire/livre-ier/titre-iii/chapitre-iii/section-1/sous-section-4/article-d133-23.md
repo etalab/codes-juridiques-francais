@@ -1,19 +1,3 @@
 # Article D133-23
 
-La commission nationale, présidée par le directeur du tourisme ou son représentant, comprend :
-
-- quatre représentants de la Fédération nationale des offices de tourisme et syndicats d'initiative, désignés par cette fédération ;
-
-- le directeur d'ODIT France (observation, développement et ingénierie touristiques) ou son représentant ;
-
-- le directeur de l'organisme dénommé " Maison de la France " ou son représentant ;
-
-- le président de l'Association des maires de France ou son représentant ;
-
-- le président de l'Association nationale des maires des stations classées et des communes touristiques ou son représentant ;
-
-- deux personnalités qualifiées désignées par le directeur du tourisme ;
-
-- le chef du bureau de la direction du tourisme en charge du classement des offices de tourisme.
-
-Le secrétariat de la commission est assuré par la direction du tourisme.
+Lorsque le dossier est incomplet au regard des conditions exigées pour le classement sollicité, le représentant de l'Etat dans le département en avise le maire ou, le cas échéant, le président de l'établissement public de coopération intercommunale ou du syndicat mixte, dans le délai de deux mois en lui précisant les pièces manquantes.

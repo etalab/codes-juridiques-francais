@@ -1,5 +1,3 @@
 # Article D133-22
 
-Une Commission nationale de classement des offices de tourisme est placée auprès du ministre chargé du tourisme.
-
-Cette commission est chargée de donner un avis dans le cas prévu au dernier alinéa de l'article D. 133-21, de suivre l'application de la réglementation et de proposer au ministre chargé du tourisme toute modification concernant cette réglementation, et notamment les normes de classement.
+Le maire ou, le cas échéant, le président de l'établissement public de coopération intercommunale ou du syndicat mixte, adresse la délibération, accompagnée du dossier de demande de classement, au représentant de l'Etat dans le département territorialement compétent par voie électronique ou, à défaut, par voie postale, selon des modalités fixées par arrêté du ministre chargé du tourisme.
