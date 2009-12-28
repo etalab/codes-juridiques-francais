@@ -6,6 +6,6 @@ La durée de la sanction est déterminée par le président du conseil général
 
 Cette suppression ne peut être prononcée lorsque la personne concernée a, pour les mêmes faits, déjà été définitivement condamnée par le juge pénal ou a bénéficié d'une décision définitive de non-lieu ou de relaxe déclarant que la réalité de l'infraction n'est pas établie ou que cette infraction ne lui est pas imputable. Si une telle décision de non-lieu ou de relaxe intervient postérieurement au prononcé de la suppression du service des allocations, celles-ci font l'objet d'un versement rétroactif au bénéficiaire. Si, à la suite du prononcé d'une décision prise en application du présent article, une amende pénale est infligée pour les mêmes faits, les montants de revenu de solidarité active supprimé s'imputent sur celle-ci.
 
-La décision de suppression du revenu de solidarité active et l'amende administrative prévue à l'article L. 262-52 ne peuvent être prononcées pour les mêmes faits.
+La décision de suppression du revenu de solidarité active, la pénalité mentionnée à l'article L. 114-17 du code de la sécurité sociale et l'amende administrative prévue à l'article L. 262-52 du présent code ne peuvent être prononcées pour les mêmes faits.
 
 La décision de suppression prise par le président du conseil général est transmise à la Caisse nationale des allocations familiales et à la Caisse centrale de la mutualité sociale agricole qui en informent, pour son application, l'ensemble des organismes chargés du versement du revenu de solidarité active.

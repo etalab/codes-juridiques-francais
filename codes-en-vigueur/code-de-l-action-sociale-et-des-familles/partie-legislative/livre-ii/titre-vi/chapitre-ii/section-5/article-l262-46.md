@@ -6,9 +6,11 @@ Toute réclamation dirigée contre une décision de récupération de l'indu, le
 
 Sauf si le bénéficiaire opte pour le remboursement de l'indu en une seule fois, l'organisme mentionné au premier alinéa procède au recouvrement de tout paiement indu de revenu de solidarité active par retenues sur les montants à échoir.
 
-A défaut, l'organisme mentionné au premier alinéa peut également, dans des conditions fixées par décret, procéder à la récupération de l'indu par retenues sur les échéances à venir dues au titre des prestations familiales et de l'allocation de logement mentionnées respectivement aux articles L. 511-1 et L. 831-1 du code de la sécurité sociale, au titre des prestations mentionnées au titre II du livre VIII du même code ainsi qu'au titre de l'aide personnalisée au logement mentionnée à l'article L. 351-11 du code de la construction et de l'habitation.
+A défaut, l'organisme mentionné au premier alinéa peut également, dans des conditions fixées par décret, procéder à la récupération de l'indu par retenues sur les échéances à venir dues au titre des prestations familiales et de l'allocation de logement mentionnées respectivement aux articles L. 511-1 et L. 831-1 du code de la sécurité sociale, au titre des prestations mentionnées au titre II du livre VIII du même code ainsi qu'au titre de l'aide personnalisée au logement mentionnée à l'article L. 351-1 du code de la construction et de l'habitation.
 
-Les retenues mentionnées aux troisième et quatrième alinéas du présent article sont déterminées en application des règles prévues au deuxième alinéa de l'article L. 553-2 du code de la sécurité sociale.
+Par dérogation aux dispositions précédentes, lorsqu'un indu a été constitué sur une prestation versée en tiers payant, l'organisme peut, si d'autres prestations sont versées directement à l'allocataire, recouvrer l'indu sur ces prestations selon des modalités et des conditions précisées par décret.
+
+Les retenues mentionnées aux troisième et quatrième alinéas du présent article sont déterminées en application des règles prévues au troisième alinéa de l'article L. 553-2 du code de la sécurité sociale.
 
 L'article L. 161-1-5 du même code est applicable pour le recouvrement des sommes indûment versées au titre du revenu de solidarité active.
 

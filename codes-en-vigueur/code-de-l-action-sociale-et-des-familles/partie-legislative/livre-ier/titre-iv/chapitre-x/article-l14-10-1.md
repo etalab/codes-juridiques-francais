@@ -1,6 +1,6 @@
 # Article L14-10-1
 
-I. - La Caisse nationale de solidarité pour l'autonomie a pour missions :
+I. ― La Caisse nationale de solidarité pour l'autonomie a pour missions :
 
 1° De contribuer au financement de l'accompagnement de la perte d'autonomie des personnes âgées et des personnes handicapées, à domicile et en établissement, dans le respect de l'égalité de traitement des personnes concernées sur l'ensemble du territoire ;
 
@@ -20,9 +20,11 @@ I. - La Caisse nationale de solidarité pour l'autonomie a pour missions :
 
 9° D'assurer une coopération avec les institutions étrangères ayant le même objet ;
 
-10° De contribuer au financement de l'investissement destiné à la mise aux normes techniques et de sécurité, à la modernisation des locaux en fonctionnement ainsi qu'à la création de places nouvelles en établissements et services sociaux et médico-sociaux.
+10° De contribuer au financement de l'investissement destiné à la mise aux normes techniques et de sécurité, à la modernisation des locaux en fonctionnement ainsi qu'à la création de places nouvelles en établissements et services sociaux et médico-sociaux ;
 
-II. - L'autorité compétente de l'Etat conclut avec la Caisse nationale de solidarité pour l'autonomie une convention d'objectifs et de gestion comportant des engagements réciproques des signataires. Elle précise notamment, pour la durée de son exécution :
+11° De réaliser, dans des conditions fixées par voie réglementaire, une étude relative à l'analyse des différents coûts de revient et tarifs des établissements et services mentionnés à l'article L. 312-1 et relevant de sa compétence, sur la base des données qu'ils lui transmettent ainsi que le prévoit l'article L. 312-9.
+
+II. ― L'autorité compétente de l'Etat conclut avec la Caisse nationale de solidarité pour l'autonomie une convention d'objectifs et de gestion comportant des engagements réciproques des signataires. Elle précise notamment, pour la durée de son exécution :
 
 1° Les objectifs liés à la mise en oeuvre des dispositions législatives et réglementaires qui régissent le domaine de compétence de la caisse ;
 
@@ -36,4 +38,4 @@ II. - L'autorité compétente de l'Etat conclut avec la Caisse nationale de soli
 
 La convention d'objectifs et de gestion est conclue pour une période minimale de quatre ans. Elle est signée, pour le compte de la caisse, par le président du conseil et par le directeur.
 
-III. - Un décret fixe la nature et le contenu des conventions qui organisent les relations entre la Caisse nationale de solidarité pour l'autonomie et les organismes nationaux d'assurance maladie et d'assurance vieillesse et notamment les échanges réguliers d'informations portant sur l'action de la caisse.
+III. ― Un décret fixe la nature et le contenu des conventions qui organisent les relations entre la Caisse nationale de solidarité pour l'autonomie et les organismes nationaux d'assurance maladie et d'assurance vieillesse et notamment les échanges réguliers d'informations portant sur l'action de la caisse.

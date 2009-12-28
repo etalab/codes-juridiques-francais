@@ -47,7 +47,7 @@ d) Des impositions équivalentes à celles mentionnées aux a, e et f du 2 lorsq
 
 6. Les revenus des comptes d'épargne-logement mentionnés aux articles L. 315-1 à L. 315-6 du code de la construction et de l'habitation, des plans d'épargne populaire mentionnés au 22° de l'article 157 ainsi que des bons ou contrats de capitalisation et des placements de même nature, autres que ceux en unités de compte, sont réalisés, pour l'application du 4, à la date de leur inscription en compte.
 
-7. Les gains retirés des cessions de valeurs mobilières, droits sociaux et titres assimilés qui n'excèdent pas le seuil fixé par le 1 du I de l'article 150-0 A ne sont pas pris en compte pour la détermination du droit à restitution.
+7. Les gains retirés des cessions de valeurs mobilières, droits sociaux et titres assimilés qui n'excèdent pas le seuil fixé par le 1 du I de l'article 150-0 A sont pris en compte pour leur montant net soumis à la contribution sociale généralisée en application du I de l'article L. 136-6 du code de la sécurité sociale.
 
 8. Les demandes de restitution doivent être déposées avant le 31 décembre de la deuxième année suivant celle de la réalisation des revenus mentionnés au 4. Les dispositions de l'article 1965 L sont applicables.
 
@@ -63,6 +63,6 @@ Le dépôt de la déclaration s'effectue auprès du service chargé du recouvrem
 
 Lorsque le contribuable procède à l'imputation de la créance mentionnée au premier alinéa sur des impositions ou acomptes provisionnels distincts, la déclaration doit également comporter le montant des imputations déjà pratiquées au cours de l'année, ainsi que les références aux impositions ou aux acomptes provisionnels qui ont déjà donné lieu à une imputation.
 
-Ces déclarations sont contrôlées selon les mêmes règles, garanties et sanctions que celles prévues en matière d'impôt sur le revenu, même lorsque les revenus pris en compte pour la détermination du plafonnement sont issus d'une période prescrite. L'article 1783 sexies est applicable.
+Ces déclarations sont contrôlées selon les mêmes règles, garanties et sanctions que celles prévues en matière d'impôt sur le revenu, même lorsque les revenus pris en compte pour la détermination du plafonnement sont issus d'une période prescrite.L'article 1783 sexies est applicable.
 
-Lorsque le contribuable pratique une ou plusieurs imputations en application du présent 9, il conserve la possibilité de déposer une demande de restitution, dans les conditions mentionnées au 8, pour la part non imputée de la créance mentionnée au premier alinéa. A compter de cette demande, il ne peut plus imputer cette créance dans les conditions prévues au présent 9.
+Lorsque le contribuable pratique une ou plusieurs imputations en application du présent 9, il conserve la possibilité de déposer une demande de restitution, dans les conditions mentionnées au 8, pour la part non imputée de la créance mentionnée au premier alinéa.A compter de cette demande, il ne peut plus imputer cette créance dans les conditions prévues au présent 9.
