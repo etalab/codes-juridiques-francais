@@ -10,6 +10,8 @@ Quartier des mineurs du centre pénitentiaire de Baie-Mahault (Guadeloupe) ;
 
 Quartier des mineurs de la maison d'arrêt de Besançon (Doubs) ;
 
+Quartier des mineurs du centre de semi-liberté de Besançon (Doubs) ;
+
 Quartier des mineurs de la maison d'arrêt de Bonneville (Haute-Savoie) ;
 
 Quartier des mineurs de la maison d'arrêt de Bordeaux-Gradignan (Gironde) ;
@@ -56,7 +58,9 @@ Quartier des mineurs du centre pénitentiaire de Metz (Moselle) ;
 
 Quartier des mineurs du centre pénitentiaire de Moulins-Yzeure (Allier) ;
 
-Quartier des mineurs de la maison d'arrêt de Mulhouse (Bas-Rhin) ;
+Quartier des mineurs de la maison d'arrêt de Mulhouse (Haut-Rhin) ;
+
+Quartier des mineurs du quartier de semi-liberté de la maison d'arrêt de Mulhouse (Haut-Rhin) ;
 
 Quartier des mineurs de la maison d'arrêt de Nanterre (Hauts-de-Seine) ;
 
