@@ -11,7 +11,3 @@
 - [Article D133-28](article-d133-28.md)
 - [Article D133-29](article-d133-29.md)
 - [Article D133-30](article-d133-30.md)
-- [Article R133-20](article-r133-20.md)
-- [Article R133-28](article-r133-28.md)
-- [Article R133-29](article-r133-29.md)
-- [Article R133-30](article-r133-30.md)
