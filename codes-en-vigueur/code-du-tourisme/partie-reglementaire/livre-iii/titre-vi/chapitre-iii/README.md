@@ -5,4 +5,3 @@
 - [Article R363-3](article-r363-3.md)
 - [Article R363-4](article-r363-4.md)
 - [Article R363-5](article-r363-5.md)
-- [Article R363-6](article-r363-6.md)

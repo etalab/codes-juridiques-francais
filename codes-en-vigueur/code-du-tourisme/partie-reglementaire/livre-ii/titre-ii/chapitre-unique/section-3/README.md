@@ -1,5 +1,7 @@
-# Section 3 : Des aptitudes professionnelles, acquises dans d'autres Etats, permettant la délivrance d'une carte professionnelle.
+# Section 3 : Des aptitudes professionnelles acquises dans les autres Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen.
 
+- [Sous-section 1 : Liberté d'établissement.](sous-section-1)
+- [Sous-section 2  : Libre prestation de services](sous-section-2)
 - [Article D221-19](article-d221-19.md)
 - [Article D221-20](article-d221-20.md)
 - [Article D221-21](article-d221-21.md)

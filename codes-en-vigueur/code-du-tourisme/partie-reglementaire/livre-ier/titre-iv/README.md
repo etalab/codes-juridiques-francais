@@ -1,3 +1,3 @@
-# TITRE IV : GROUPEMENTS D'INTÉRÊT PUBLIC.
+# TITRE IV : GROUPEMENTS.
 
 - [Chapitre unique.](chapitre-unique)

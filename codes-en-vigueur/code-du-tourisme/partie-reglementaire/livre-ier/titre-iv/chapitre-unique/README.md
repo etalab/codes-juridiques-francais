@@ -1,5 +1,7 @@
 # Chapitre unique.
 
+- [Section 1 : Groupements d'intérêt public.](section-1)
+- [Section 2 : Agence de développement touristique de la France.](section-2)
 - [Article D141-1](article-d141-1.md)
 - [Article D141-2](article-d141-2.md)
 - [Article D141-3](article-d141-3.md)
