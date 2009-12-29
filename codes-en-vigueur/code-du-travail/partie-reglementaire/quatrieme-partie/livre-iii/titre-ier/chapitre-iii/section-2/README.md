@@ -1,6 +1,6 @@
-# Section 2 :  Procédure de certification applicable à chaque catégorie d'équipement de travail ou de moyen de protection neuf ou considéré comme neuf
+# Section 2 :  Les procédures d'évaluation de la conformité
 
-- [Sous-section 1 : Machines](sous-section-1)
-- [Sous-section 2 : Accessoire de levage et composants d'accessoires de levage](sous-section-2)
-- [Sous-section 3 : Composants de sécurité](sous-section-3)
-- [Sous-section 4 : Équipements de protection individuelle](sous-section-4)
+- [Sous-section 1 : Dispositions communes](sous-section-1)
+- [Sous-section 2 : Procédures d'évaluation de la conformité applicables aux machines ainsi qu'aux équipements de protection individuelle](sous-section-2)
+- [Sous-section 3 : Le système d'assurance qualité complète](sous-section-3)
+- [Sous-section 4 : Procédures d'évaluation de la conformité applicables aux équipements de protection individuelle](sous-section-4)

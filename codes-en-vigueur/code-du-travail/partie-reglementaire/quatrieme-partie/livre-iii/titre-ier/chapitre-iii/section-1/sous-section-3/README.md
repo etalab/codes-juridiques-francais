@@ -1,4 +1,4 @@
-# Sous-section 3 : Procédure d'examen CE de type
+# Sous-section 3 : Interdictions
 
 - [Article R4313-5](article-r4313-5.md)
 - [Article R4313-6](article-r4313-6.md)

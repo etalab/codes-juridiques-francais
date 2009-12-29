@@ -4,7 +4,7 @@ L'employeur informe de manière appropriée les travailleurs chargés de l'utili
 
 1° De leurs conditions d'utilisation ou de maintenance ;
 
-2° Des instructions ou consignes les concernant ;
+2° Des instructions ou consignes les concernant notamment celles contenues dans la notice d'instructions du fabricant ;
 
 3° De la conduite à tenir face aux situations anormales prévisibles ;
 
