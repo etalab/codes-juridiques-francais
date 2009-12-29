@@ -13,6 +13,7 @@
 - [Article R4313-33](article-r4313-33.md)
 - [Article R4313-34](article-r4313-34.md)
 - [Article R4313-35](article-r4313-35.md)
+- [Article R4313-36](article-r4313-36.md)
 - [Article R4313-37](article-r4313-37.md)
 - [Article R4313-38](article-r4313-38.md)
 - [Article R4313-39](article-r4313-39.md)
