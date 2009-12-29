@@ -5,5 +5,3 @@
 - [Section 3 : Les procédures d'évaluation de la conformité applicables à chaque catégorie de machines, équipements de travail ou d'équipements de protection individuelle](section-3)
 - [Section 4 : Organismes notifiés](section-4)
 - [Section 5 : Communication à l'autorité administrative et mesures de contrôle](section-5)
-- [Section 6 : Organismes habilités](section-6)
-- [Section 7 : Communications à l'autorité administrative  et mesures de contrôle](section-7)

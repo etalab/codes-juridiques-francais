@@ -1,18 +1,4 @@
 # Sous-section 3 : Interdictions
 
-- [Article R4313-5](article-r4313-5.md)
-- [Article R4313-6](article-r4313-6.md)
-- [Article R4313-7](article-r4313-7.md)
-- [Article R4313-8](article-r4313-8.md)
-- [Article R4313-9](article-r4313-9.md)
-- [Article R4313-10](article-r4313-10.md)
-- [Article R4313-11](article-r4313-11.md)
-- [Article R4313-12](article-r4313-12.md)
-- [Article R4313-13](article-r4313-13.md)
-- [Article R4313-14](article-r4313-14.md)
-- [Article R4313-15](article-r4313-15.md)
-- [Article R4313-16](article-r4313-16.md)
 - [Article R4313-17](article-r4313-17.md)
 - [Article R4313-18](article-r4313-18.md)
-- [Article R4313-19](article-r4313-19.md)
-- [Article R4313-20](article-r4313-20.md)

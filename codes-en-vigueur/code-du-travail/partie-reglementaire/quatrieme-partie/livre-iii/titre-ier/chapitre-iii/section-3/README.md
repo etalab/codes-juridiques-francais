@@ -2,4 +2,3 @@
 
 - [Paragraphe 1 : Machines et autres équipements de travail](paragraphe-1)
 - [Paragraphe 2 : Equipements de protection individuelle](paragraphe-2)
-- [Article R4313-57](article-r4313-57.md)
