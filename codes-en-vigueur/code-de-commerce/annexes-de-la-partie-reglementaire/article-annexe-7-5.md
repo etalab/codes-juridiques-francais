@@ -485,7 +485,7 @@ ACTES JUDICIAIRES (1)
 <p align="center">165</p>
 </td>
 <td valign="top">
-<p>Notifications en matière d'ordonnance d'admission de créances sans débat contradictoire.</p>
+<p>Avis au créancier en matière d'admission de créances sans débat contradictoire </p>
 </td>
 <td valign="top">
 <br/>
@@ -2545,7 +2545,7 @@ Pour l'application des droits forfaitaires, le nombre de salariés et le chiffre
 
 A défaut, ils sont déterminés au vu des données disponibles dans le dossier de la procédure.
 
-La moitié des émoluments et des frais de transmission est versée au terme d'un délai de deux mois à compter de l'ouverture des procédures ci-dessus mentionnées. Le solde est exigible à la date de leur clôture.
+Une somme fixée à 200 euros hors taxe à valoir sur les émoluments et frais de transmission est versée dès l'ouverture ou le prononcé des procédures de liquidation judiciaire ci-dessus mentionnées. Le solde est exigible à la date de leur clôture.
 
 Tarification forfaitaire
 
@@ -2797,9 +2797,6 @@ Emoluments du greffe par débiteur et forfait de transmission
 </tr>
 </tbody>
 </table>
-<p>
-<br/>
-</p>
 </div>
 
 <table>
@@ -2809,17 +2806,14 @@ Emoluments du greffe par débiteur et forfait de transmission
 <p>719 : Droit accessoire par établissement secondaire (à charge pour le greffier de la procédure principale de reverser la moitié du droit au greffe de l'établissement secondaire)...</p>
 </td>
 <td valign="top">
-<br/>
 <p>150 taux de base.</p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p>720 : Droit accessoire par créancier supplémentaire au-delà de 25 créanciers...</p>
 </td>
 <td valign="top">
-<br/>
 <p>10 taux de base plafonné à 100 taux de base.</p>
 </td>
 </tr>
