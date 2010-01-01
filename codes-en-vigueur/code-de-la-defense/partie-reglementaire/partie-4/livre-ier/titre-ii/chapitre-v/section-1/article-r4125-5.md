@@ -1,6 +1,6 @@
 # Article R4125-5
 
-La commission est présidée par un officier général de la 1re section en activité. Elle comprend en outre :
+La commission est présidée par un officier général de la 1re section en activité ou un contrôleur général des armées de la 1re section en activité. Elle comprend en outre :
 
 1° Quatre officiers généraux appartenant respectivement à l'armée de terre, à la marine nationale, à l'armée de l'air et à la gendarmerie nationale ;
 

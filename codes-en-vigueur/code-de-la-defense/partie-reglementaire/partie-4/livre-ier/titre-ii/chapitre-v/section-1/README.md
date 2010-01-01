@@ -11,5 +11,4 @@
 - [Article R4125-10](article-r4125-10.md)
 - [Article R4125-11](article-r4125-11.md)
 - [Article R4125-12](article-r4125-12.md)
-- [Article R4125-13](article-r4125-13.md)
 - [Article R4125-14](article-r4125-14.md)
