@@ -20,4 +20,6 @@ Le barème est révisé chaque année au 1er janvier. Cette révision assure, pa
 
 - le montant forfaitaire des charges ;
 
-- les équivalences de loyer et de charges locatives.
+- les équivalences de loyer et de charges locatives ;
+
+― le terme  constant de la participation personnelle du ménage.
