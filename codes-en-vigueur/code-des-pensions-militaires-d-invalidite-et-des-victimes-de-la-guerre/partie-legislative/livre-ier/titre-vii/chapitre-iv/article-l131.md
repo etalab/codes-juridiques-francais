@@ -6,4 +6,4 @@ Les fabricants titulaires de commandes qui refuseraient de livrer sont passibles
 
 2° Une amende au profit du Trésor, à l'encontre d'une entreprise, pouvant aller jusqu'à 10 % du chiffre d'affaires.
 
-Ces sanctions sont prononcées par le ministre chargé de la production industrielle sur demande motivée du ministre des anciens combattants et victimes de guerre.
+Ces sanctions sont prononcées par le ministre chargé de la production industrielle sur demande motivée du            ministre chargé des anciens combattants et victimes de guerre.

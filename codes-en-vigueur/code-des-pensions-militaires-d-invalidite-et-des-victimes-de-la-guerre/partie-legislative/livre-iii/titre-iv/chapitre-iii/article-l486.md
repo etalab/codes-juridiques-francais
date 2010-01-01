@@ -6,4 +6,4 @@ Les conditions d'application du présent titre, notamment celles qui sont relati
 
 2° A l'aptitude de recevoir des pupilles prévue à l'article L. 480 ;
 
-3° A la gestion et à la manutention des deniers des pupilles placés sous la tutelle de l'office départemental, ainsi qu'à la garantie de leurs intérêts, sont fixées aux articles R. 503 et R. 505 à R. 532.
+3° A la gestion et à la manutention des deniers des pupilles placés sous la tutelle de l'office national, ainsi qu'à la garantie de leurs intérêts, sont fixées aux articles R. 503 et R. 505 à R. 532.
