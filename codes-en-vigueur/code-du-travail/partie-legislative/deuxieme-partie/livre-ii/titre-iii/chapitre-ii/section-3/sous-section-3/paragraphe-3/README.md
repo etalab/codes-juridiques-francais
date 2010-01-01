@@ -5,3 +5,4 @@
 - [Article L2232-27](article-l2232-27.md)
 - [Article L2232-27-1](article-l2232-27-1.md)
 - [Article L2232-28](article-l2232-28.md)
+- [Article L2232-29](article-l2232-29.md)
