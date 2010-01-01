@@ -10,7 +10,7 @@ Au vu du rapport établi par le chef de service sur l'aptitude professionnelle d
 
 3° Soit pour son maintien en détachement pendant une année supplémentaire dans l'emploi occupé ou dans un autre emploi de la même administration ou du même établissement public.
 
-La décision de réintégration ou de maintien en détachement est prononcée après avis de la Commission nationale d'orientation et d'intégration, lequel est transmis au ministre de la défense et à l'autorité chargée de la gestion du corps d'accueil.
+La décision de réintégration ou de maintien en détachement est prononcée après avis de la Commission nationale d'orientation et d'intégration, lequel est transmis au   ministre de la défense, ou au ministre de l'intérieur pour les militaires de la gendarmerie nationale, et à l'autorité chargée de la gestion du corps d'accueil.
 
 En cas de maintien en détachement pendant une année supplémentaire, la demande d'intégration doit être présentée dans le même délai que celui prévu au premier alinéa du présent article.
 

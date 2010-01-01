@@ -1,6 +1,6 @@
 # Article R*4139-22
 
-Le mandat du président, du vice-président et des deux représentants du ministre de la défense est d'une durée de quatre ans renouvelable.
+Le mandat du président, du vice-président et des deux représentants du   ministre de la défense, ou du ministre de l'intérieur pour les militaires de la gendarmerie nationale, est d'une durée de quatre ans renouvelable.
 
 En cas de décès ou de démission d'un membre de la commission ou lorsque l'un d'eux cesse d'exercer les fonctions au titre desquelles il a été nommé, il est pourvu à son remplacement dans les mêmes conditions pour la durée du mandat restant à courir.
 
