@@ -4,7 +4,7 @@ Dans le cas où le budget d'une collectivité territoriale n'a pas été adopté
 
 Il est en droit de mandater les dépenses afférentes au remboursement en capital des annuités de la dette venant à échéance avant le vote du budget.
 
-En outre, jusqu'à l'adoption du budget ou jusqu'au 31 mars, en l'absence d'adoption du budget avant cette date,  l'exécutif de la collectivité territoriale peut, sur autorisation de l'organe délibérant, engager, liquider et mandater les dépenses d'investissement, dans la limite du quart des crédits ouverts au budget de l'exercice précédent, non compris les crédits afférents au remboursement de la dette.
+En outre, jusqu'à l'adoption du budget ou jusqu'au 31 mars, en l'absence d'adoption du budget avant cette date, l'exécutif de la collectivité territoriale peut, sur autorisation de l'organe délibérant, engager, liquider et mandater les dépenses d'investissement, dans la limite du quart des crédits ouverts au budget de l'exercice précédent, non compris les crédits afférents au remboursement de la dette.
 
 L'autorisation mentionnée à l'alinéa ci-dessus précise le montant et l'affectation des crédits.
 
@@ -12,4 +12,4 @@ Pour les dépenses à caractère pluriannuel incluses dans une autorisation de p
 
 Les crédits correspondants, visés aux alinéas ci-dessus, sont inscrits au budget lors de son adoption. Le comptable est en droit de payer les mandats et recouvrer les titres de recettes émis dans les conditions ci-dessus.
 
-Le présent article s'applique aux régions, sous réserve des dispositions du dernier alinéa du I de l'article L. 4311-3.
+Le présent article s'applique aux régions, sous réserve des dispositions de l'article L. 4312-6.
