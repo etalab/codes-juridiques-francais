@@ -8,7 +8,7 @@ Les dispositions relatives à chacun des parcs nationaux sont énoncées aux dé
 
 3° Décret n° 2009-406 du 15 avril 2009 pris pour l'adaptation de la délimitation et de la réglementation du parc national des Pyrénées occidentales aux dispositions du code de l'environnement issues de la loi n° 2006-436 du 14 avril 2006 ;
 
-4° Décret n° 70-777 du 2 septembre 1970 créant le parc national des Cévennes ;
+4° Décret n° 2009-1677 du 29 décembre 2009 pris pour l'adaptation de la délimitation et de la réglementation du Parc national des Cévennes aux dispositions du code de l'environnement issues de la loi n° 2006-436 du 14 avril 2006 ;
 
 5° Décret n° 2009-448 du 21 avril 2009 pris pour l'adaptation de la délimitation et de la réglementation du parc national des Ecrins aux dispositions du code de l'environnement issues de la loi n° 2006-436 du 14 avril 2006 ;
 
