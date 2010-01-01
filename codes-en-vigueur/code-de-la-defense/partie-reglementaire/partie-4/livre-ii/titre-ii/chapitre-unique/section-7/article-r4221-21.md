@@ -1,6 +1,6 @@
 # Article R4221-21
 
-Dans la limite d'un contingent annuel fixé par arrêté ministériel, les réservistes ayant obtenu une qualification dans les conditions fixées par le ministre de la défense peuvent être nommés :
+Dans la limite d'un contingent annuel fixé par arrêté ministériel, les réservistes ayant obtenu une qualification dans les conditions fixées par le ministre de la défense, ou pour les réservistes de la gendarmerie nationale par le ministre de l'intérieur, peuvent être nommés :
 
 1° Au premier grade d'officier, les sous-officiers ou officiers mariniers ayant au moins deux ans de grade ;
 

@@ -1,6 +1,6 @@
 # Article R4138-65
 
-Le congé pour convenances personnelles peut être accordé par décision du ministre de la défense dans les conditions fixées à l'article L. 4138-16.
+Le congé pour convenances personnelles peut être accordé par décision du ministre de la défense, ou du ministre de l'intérieur pour les militaires de la gendarmerie nationale, dans les conditions fixées à l'article L. 4138-16.
 
 Le militaire peut bénéficier d'un congé pour convenances personnelles après quatre ans de services, dont deux ans pour les officiers en cette qualité.
 

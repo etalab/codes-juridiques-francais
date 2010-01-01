@@ -1,6 +1,6 @@
 # Article R4139-50
 
-Pour l'application du deuxième alinéa de l'article L. 4139-13, un arrêté du ministre de la défense fixe la liste des formations spécialisées et la durée du lien au service qui leur est attachée.
+Pour l'application du deuxième alinéa de l'article L. 4139-13, un arrêté conjoint du ministre de la défense et du ministre de l'intérieur fixe la liste des formations spécialisées et la durée du lien au service qui leur est attachée.
 
 Le militaire admis à une formation spécialisée s'engage à servir en position d'activité ou en détachement d'office, pour la durée fixée par l'arrêté mentionné au premier alinéa, à compter de la date d'obtention du titre validant la formation ou, à défaut, de la date de la fin de la formation.
 

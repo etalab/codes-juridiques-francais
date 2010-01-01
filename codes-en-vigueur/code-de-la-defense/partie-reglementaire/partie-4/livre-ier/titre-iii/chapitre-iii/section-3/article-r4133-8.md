@@ -4,4 +4,6 @@ Les changements d'office de corps au sein d'une même armée ou d'une même form
 
 1° Par décret du Président de la République, pour les officiers ;
 
-2° Par arrêté du ministre de la défense, pour les sous-officiers et les officiers mariniers.
+2° Par arrêté du ministre de la défense, pour les sous-officiers des armées et formations rattachées autres que la gendarmerie nationale et les officiers mariniers ;
+
+3° Par arrêté du ministre de l'intérieur, pour les sous-officiers de la gendarmerie nationale.

@@ -1,6 +1,6 @@
 # Article R4211-6
 
-Lorsqu'ils quittent la réserve, sont admis de droit, sur leur demande, à l'honorariat de leur grade, par décision du ministre de la défense, les réservistes qui remplissent au moins l'une des conditions suivantes :
+I. - Lorsqu'ils quittent la réserve, sont admis de droit, sur leur demande, à l'honorariat de leur grade, par décision du ministre de la défense, les réservistes qui remplissent au moins l'une des conditions suivantes :
 
 1° Avoir été radié de la réserve opérationnelle pour atteinte de la limite d'âge du grade définie à l'article L. 4221-2 ;
 
@@ -11,3 +11,5 @@ Lorsqu'ils quittent la réserve, sont admis de droit, sur leur demande, à l'hon
 4° Avoir été décoré de la médaille de la défense nationale ;
 
 5° Etre âgé de plus de trente-cinq ans et justifier de deux cents jours au moins d'activité dans la réserve opérationnelle.
+
+II. - Lorsqu'ils remplissent au moins l'une des conditions mentionnées au I, les réservistes de la gendarmerie nationale sont admis de droit, sur leur demande, à l'honorariat de leur grade, par décision du ministre de l'intérieur.
