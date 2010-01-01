@@ -8,6 +8,6 @@ II. - Les carcasses de volailles et de lagomorphes abattues dans les conditions 
 
 III. - Les carcasses entières et les produits découpés ou transformés qui en sont issus peuvent être cédés directement au consommateur sur le site même de l'exploitation ou sur les marchés proches de l'exploitation ainsi qu'aux commerces de détail locaux fournissant directement le consommateur final dans les conditions fixées par arrêté du ministre chargé de l'agriculture. Cet arrêté détermine notamment le périmètre de vente correspondant et les conditions dans lesquelles le préfet peut l'étendre.
 
-Toutefois, les exploitants d'établissements d'abattage non agréés peuvent participer à des manifestations annuelles ou bisannuelles sur l'ensemble du territoire national pour autant que les ventes ne portent que sur des produits stabilisés et que l'exploitant en assure lui-même la vente sur le lieu de la manifestation.
+Toutefois, les exploitants d'établissements d'abattage non agréés peuvent participer à des manifestations au plus deux fois par an sur l'ensemble du territoire national pour autant que les ventes ne portent que sur des produits stabilisés et que l'exploitant en assure lui-même la vente sur le lieu de la manifestation.
 
 La vente par correspondance des carcasses et des produits découpés ou transformés qui en sont issus est interdite.
