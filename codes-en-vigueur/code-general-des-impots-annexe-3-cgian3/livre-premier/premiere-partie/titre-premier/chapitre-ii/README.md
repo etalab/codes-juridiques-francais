@@ -10,6 +10,7 @@
 - [Section II quinquies : Entreprises implantées en Corse](section-ii-quinquies)
 - [Section II sexies : Entreprises implantées dans les bassins d'emploi à redynamiser](section-ii-sexies)
 - [Section II septies : Activités créées dans les zones de restructuration de la défense](section-ii-septies)
+- [Section II octies : Entreprises implantées dans les zones franches d'activités des départements d'outre-mer](section-ii-octies)
 - [Section III : Restitution d'impôts consécutive au remboursement des sommes visées à l'article 111 du code général des impôts](section-iii)
 - [Section V quater : Crédit d'impôt pour certains investissements réalisés et exploités en Corse](section-v-quater)
 - [Section V quinquies : Réduction d'impôt pour versement de dons aux oeuvres et organismes d'intérêt général prévue à l'article 238 bis du code général des impôts](section-v-quinquies)
