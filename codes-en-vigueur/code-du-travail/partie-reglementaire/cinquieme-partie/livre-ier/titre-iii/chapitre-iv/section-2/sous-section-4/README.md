@@ -1,9 +1,4 @@
-# Sous-section 4 : Période d'immersion.
+# Sous-section 4 : Aide financière et exonérations
 
-- [Article D5134-37-1](article-d5134-37-1.md)
-- [Article D5134-37-2](article-d5134-37-2.md)
-- [Article D5134-37-3](article-d5134-37-3.md)
-- [Article D5134-37-4](article-d5134-37-4.md)
-- [Article D5134-37-5](article-d5134-37-5.md)
-- [Article D5134-37-6](article-d5134-37-6.md)
-- [Article D5134-37-7](article-d5134-37-7.md)
+- [Paragraphe 1er : Aide financière](paragraphe-1er)
+- [Paragraphe 2 : Exonérations](paragraphe-2)
