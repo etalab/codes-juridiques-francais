@@ -1,16 +1,5 @@
-# Section 2 : Institut des hautes études de la défense nationale
+# Sous-section 2 : Organisation administrative
 
-- [Sous-section 1 : Dispositions générales](sous-section-1)
-- [Sous-section 2 : Organisation administrative](sous-section-2)
-- [Sous-section 3 : Le personnel](sous-section-3)
-- [Sous-section 4 : Organisation financière](sous-section-4)
-- [Article R1132-12](article-r1132-12.md)
-- [Article R1132-13](article-r1132-13.md)
-- [Article R1132-14](article-r1132-14.md)
-- [Article R1132-15](article-r1132-15.md)
-- [Article R1132-16](article-r1132-16.md)
-- [Article R1132-17](article-r1132-17.md)
-- [Article R1132-18](article-r1132-18.md)
 - [Article R1132-19](article-r1132-19.md)
 - [Article R1132-20](article-r1132-20.md)
 - [Article R1132-21](article-r1132-21.md)
