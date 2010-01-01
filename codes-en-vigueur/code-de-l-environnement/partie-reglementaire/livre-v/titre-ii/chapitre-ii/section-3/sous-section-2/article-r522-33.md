@@ -8,7 +8,7 @@ Le ministre chargé de l'environnement ne peut utiliser au profit d'un autre dem
 
 3° Pour une substance active biocide se trouvant déjà sur le marché au 14 mai 2000 ou pour un produit biocide contenant une telle substance :
 
-a) Pendant dix ans à compter du 14 mai 2000 en ce qui concerne toutes les informations transmises en application du présent chapitre ;
+a) Jusqu'au 14 mai 2014 en ce qui concerne toutes les informations transmises en application du présent chapitre. Cette période de protection est prolongée au-delà du 14 mai 2014 d'une durée égale à la durée par laquelle le programme de travail est étendu en application des dispositions de l'article 16, paragraphe 2, de la directive 98/8/CE  ;
 
 b) Pendant dix ans à compter de la date de la décision d'inscription d'une substance active biocide ou d'un type de produit additionnel sur l'annexe I ou IA de la directive n° 98 / 8 / CEE précitée, pour les informations transmises pour la première fois à l'appui de la demande de première inscription à l'annexe I ou IA soit de la substance active, soit d'un type de produit additionnel pour cette substance active ;
 
