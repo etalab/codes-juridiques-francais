@@ -1,6 +1,6 @@
 # Article D241-3
 
-Au début de chaque année, le maire dispose d'un délai de deux mois pour procéder à l'émission des titres de perception et des mandats correspondant aux droits acquis et aux services faits pendant l'année ou les années précédentes.
+Au début de chaque année, le maire dispose d'un délai d'un mois pour procéder à l'émission des titres de perception et des mandats correspondant aux droits acquis et aux services faits pendant l'année ou les années précédentes.
 
 Le comptable dispose du même délai pour comptabiliser les titres de perception et les mandats émis par le maire.
 
