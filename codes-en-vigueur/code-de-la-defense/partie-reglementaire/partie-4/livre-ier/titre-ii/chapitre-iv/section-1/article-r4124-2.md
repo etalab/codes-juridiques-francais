@@ -2,7 +2,7 @@
 
 Le Conseil supérieur de la fonction militaire comprend, sous la présidence du ministre de la défense, quatre-vingt-cinq membres siégeant avec voix délibérative, dont soixante-dix-neuf militaires en position d'activité et six retraités militaires.
 
-Il comprend en outre, à titre consultatif, le représentant du ministre chargé du budget et celui du ministre chargé de la fonction publique, nommés par arrêté de leur ministre respectif.
+Il comprend en outre, à titre consultatif, le représentant du ministre de l'intérieur, celui du ministre chargé du budget et celui du ministre chargé de la fonction publique, nommés par arrêté de leur ministre respectif.
 
 La répartition des membres militaires du Conseil supérieur de la fonction militaire par armée ou formations rattachées et par catégories, en tenant compte de leurs effectifs, est fixée par arrêté du ministre de la défense, après avis du Conseil supérieur de la fonction militaire.
 

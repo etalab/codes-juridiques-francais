@@ -1,6 +1,6 @@
 # Article R4124-17
 
-Chaque conseil se réunit au moins deux fois par an sur convocation du ministre de la défense.
+Chaque conseil se réunit au moins deux fois par an sur convocation du ou des ministres intéressés.
 
 Les sessions des conseils de la fonction militaire se terminent, au plus tard, neuf jours avant la session du Conseil supérieur de la fonction militaire.
 
