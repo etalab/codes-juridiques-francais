@@ -11,6 +11,7 @@
 - [Chapitre X : Redevance sanitaire de découpage](chapitre-x)
 - [Chapitre X bis : Redevances sanitaires sur les produits de la pêche et de l'aquaculture](chapitre-x-bis)
 - [Chapitre X ter : Redevance sanitaire pour le contrôle de certaines substances et de leurs résidus](chapitre-x-ter)
+- [Chapitre X quater : Redevance pour l'agrément des établissements du secteur de l'alimentation animale](chapitre-x-quater)
 - [Chapitre XII : Taxe forfaitaire sur les actes des huissiers de justice](chapitre-xii)
 - [Chapitre XIII : Taxe due par les entreprises de transports publics aériens.](chapitre-xiii)
 - [Chapitre XV : Taxe due par les concessionnaires d'autoroutes](chapitre-xv)

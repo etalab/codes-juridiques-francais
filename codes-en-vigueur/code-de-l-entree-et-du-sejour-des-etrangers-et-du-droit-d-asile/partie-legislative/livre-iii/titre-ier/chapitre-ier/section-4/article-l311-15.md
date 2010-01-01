@@ -14,6 +14,8 @@ Lorsque l'embauche intervient pour un emploi temporaire d'une durée supérieure
 
 Lorsque l'embauche intervient pour un emploi à caractère saisonnier, le montant de cette taxe est modulé selon la durée de l'embauche à raison de 50 euros par mois d'activité salariée complet ou incomplet. Chaque embauche donne lieu à l'acquittement de la taxe.
 
+Sont exonérés de la taxe prévue au premier alinéa les organismes de recherche publics, les établissements d'enseignement supérieur délivrant un diplôme conférant un grade de master, les fondations de coopération scientifique, les établissements publics de coopération scientifique et les fondations reconnues d'utilité publique du secteur de la recherche agréées conformément à l'article L. 313-8 qui embauchent, pour une durée supérieure à trois mois, un ressortissant étranger aux fins de mener des travaux de recherche ou de dispenser un enseignement de niveau universitaire, quels que soient la durée du contrat et le montant de la rémunération.
+
 La taxe prévue au présent article est perçue comme en matière de recettes des établissements publics nationaux à caractère administratif.
 
 Les modalités d'application du présent article sont précisées, en tant que de besoin, par décret.

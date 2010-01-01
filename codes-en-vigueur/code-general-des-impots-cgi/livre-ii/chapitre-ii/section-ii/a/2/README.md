@@ -4,6 +4,7 @@
 - [Article 1760](article-1760.md)
 - [Article 1761](article-1761.md)
 - [Article 1762](article-1762.md)
+- [Article 1762 decies](article-1762-decies.md)
 - [Article 1763](article-1763.md)
 - [Article 1763 C](article-1763-c.md)
 - [Article 1763 A](article-1763-a.md)

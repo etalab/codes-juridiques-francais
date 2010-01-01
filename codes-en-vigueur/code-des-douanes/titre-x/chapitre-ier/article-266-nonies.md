@@ -10,44 +10,74 @@ a) Déchets ménagers et assimilés réceptionnés dans une installation de stoc
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES MATIÈRES <p>ou opérations imposables <br/>
+<br/>
+<font size="1">DÉSIGNATION DES MATIÈRES </font>
+<p>
+<font size="1">ou opérations imposables <br/>
+</font>
 </p>
 </th>
 <th>
-<br/>UNITÉ <p>de perception <br/>
+<br/>
+<font size="1">UNITÉ </font>
+<p>
+<font size="1">de perception <br/>
+</font>
 </p>
 </th>
 <th colspan="7">
-<br/>QUOTITÉ EN EUROS <br/>
+<br/>
+<font size="1">QUOTITÉ EN EUROS <br/>
+</font>
 </th>
 </tr>
 <tr>
 <th>
+<font size="1">
 <br/>
+</font>
+</th>
+<th>
+<font size="1">
+<br/>
+</font>
 </th>
 <th>
 <br/>
+<font size="1">2009 <br/>
+</font>
 </th>
 <th>
-<br/>2009 <br/>
+<br/>
+<font size="1">2010 <br/>
+</font>
 </th>
 <th>
-<br/>2010 <br/>
+<br/>
+<font size="1">2011 <br/>
+</font>
 </th>
 <th>
-<br/>2011 <br/>
+<br/>
+<font size="1">2012 <br/>
+</font>
 </th>
 <th>
-<br/>2012 <br/>
+<br/>
+<font size="1">2013 <br/>
+</font>
 </th>
 <th>
-<br/>2013 <br/>
+<br/>
+<font size="1">2014 <br/>
+</font>
 </th>
 <th>
-<br/>2014 <br/>
-</th>
-<th>
-<br/>A compter <p>de 2015 <br/>
+<br/>
+<font size="1">A compter </font>
+<p>
+<font size="1">de 2015 <br/>
+</font>
 </p>
 </th>
 </tr>
@@ -171,7 +201,7 @@ a) Déchets ménagers et assimilés réceptionnés dans une installation de stoc
 </tbody>
 </table>
 
-Les déchets réceptionnés dans une installation de stockage de déchets ménagers ou assimilés visée au A du tableau du présent a ou transférés vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet équivalent bénéficient d'une réduction à raison des tonnages dont le transfert entre le site de regroupement et le site de traitement final est effectué par voie ferroviaire ou fluviale, sous réserve que la desserte routière terminale, lorsqu'elle est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global.
+Les déchets réceptionnés dans une installation de stockage de déchets ménagers ou assimilés visée au A ou au B du tableau du présent a ou transférés vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet équivalent bénéficient d'une réduction à raison des tonnages dont le transfert entre le site de regroupement et le site de traitement final est effectué par voie ferroviaire ou fluviale, sous réserve que la desserte routière terminale, lorsqu'elle est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global.
 
 Cette réduction est égale à 0, 50 € par tonne en 2009, 0, 60 € par tonne en 2010 et 2011, 0, 70 € par tonne en 2012, 0, 80 € par tonne en 2013, 0, 90 € par tonne en 2014 et 1 € par tonne à compter de 2015. Elle est, à compter du 1er janvier 2016, revalorisée dans la même proportion que la limite supérieure de la première tranche de l'impôt sur le revenu ;
 
@@ -181,38 +211,64 @@ b) Déchets ménagers et assimilés réceptionnés dans une installation d'incin
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES MATIÈRES <p>ou opérations imposables <br/>
+<br/>
+<font size="1">DÉSIGNATION DES MATIÈRES </font>
+<p>
+<font size="1">ou opérations imposables <br/>
+</font>
 </p>
 </th>
 <th>
-<br/>UNITÉ <p>de perception <br/>
+<br/>
+<font size="1">UNITÉ </font>
+<p>
+<font size="1">de perception <br/>
+</font>
 </p>
 </th>
 <th colspan="5">
-<br/>QUOTITÉ EN EUROS <br/>
+<br/>
+<font size="1">QUOTITÉ EN EUROS <br/>
+</font>
 </th>
 </tr>
 <tr>
 <th>
+<font size="1">
 <br/>
+</font>
+</th>
+<th>
+<font size="1">
+<br/>
+</font>
 </th>
 <th>
 <br/>
+<font size="1">2009 <br/>
+</font>
 </th>
 <th>
-<br/>2009 <br/>
+<br/>
+<font size="1">2010 <br/>
+</font>
 </th>
 <th>
-<br/>2010 <br/>
+<br/>
+<font size="1">2011 <br/>
+</font>
 </th>
 <th>
-<br/>2011 <br/>
+<br/>
+<font size="1">2012 <br/>
+</font>
 </th>
 <th>
-<br/>2012 <br/>
-</th>
-<th>
-<br/>A compter <p>de 2013 <br/>
+<br/>
+<font size="1">A compter </font>
+<p>
+<font size="1">de 2013 <br/>
+</font>
 </p>
 </th>
 </tr>
@@ -339,225 +395,286 @@ Les déchets réceptionnés dans une installation d'incinération de déchets m�
 
 Cette réduction est égale à 0, 50 € par tonne en 2009 et 2010, 0, 80 € par tonne en 2011 et 2012 et 1 € par tonne à compter de 2013. Elle est, à compter du 1er janvier 2014, revalorisée dans la même proportion que la limite supérieure de la première tranche de l'impôt sur le revenu.
 
+Les tarifs visés au A des tableaux du a et du b s'appliquent aux tonnages de déchets réceptionnés entre la date d'obtention de l'enregistrement EMAS ou de la certification ISO 14001 et le 31 décembre de l'année au titre de laquelle la taxe est due.
+
+Le tarif visé au B du tableau du a s'applique aux tonnages de déchets réceptionnés entre la date de notification au préfet de la date de mise en service effective des équipements assurant la valorisation du biogaz à plus de 75 % et le 31 décembre de l'année au titre de laquelle la taxe est due.
+
+Le tarif visé au B du tableau du b s'applique aux tonnages de déchets réceptionnés entre la date de notification au préfet de la date de mise en service effective des équipements assurant une performance énergétique de niveau élevé et le 31 décembre de l'année au titre de laquelle la taxe est due.
+
+Le tarif visé au C du tableau du b s'applique aux tonnages de déchets réceptionnés entre la date de notification de l'arrêté préfectoral mentionnant la valeur limite d'émission d'oxyde d'azote inférieure à 80 mg/Nm³ et le 31 décembre de l'année au titre de laquelle la taxe est due
+
 B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, les tarifs sont fixés comme suit :
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>DÉSIGNATION DES MATIÈRES <p>ou opérations imposables <br/>
+<td>
+<p align="center">
+<b>
+<br/>DÉSIGNATION DES MATIÈRES </b>
 </p>
-</th>
-<th>
-<br/>UNITÉ DE PERCEPTION <br/>
-</th>
-<th>
-<br/>QUOTITÉ <p>(en euros) <br/>
-</p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Déchets industriels spéciaux réceptionnés dans une installation d'élimination de déchets industriels spéciaux ou transférés vers une telle installation située dans un autre Etat. <br/>
-</td>
-<td align="center">
-<br/>Tonne <br/>
-</td>
-<td align="center">
-<br/>10, 03 (10,32 en 2009)<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ou transférés vers une telle installation située dans un autre Etat. <br/>
-</td>
-<td align="center">
-<br/>Tonne <br/>
-</td>
-<td align="center">
-<br/>20, 01 (20,59 en 2009)<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Substances émises dans l'atmosphère : <p>-oxydes de soufre et autres composés soufrés <br/>
+<p align="center">
+<b>ou opérations imposables </b>
 </p>
 </td>
-<td align="center">
-<br/>Tonne <br/>
-</td>
-<td align="center">
-<br/>43, 24 (44,49 en 2009)<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>-acide chlorhydrique <br/>
-</td>
-<td align="center">
-<br/>Tonne <br/>
-</td>
-<td align="center">
-<br/>43, 24 (44,49 en 2009)<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>-protoxyde d'azote <br/>
-</td>
-<td align="center">
-<br/>Tonne <br/>
-</td>
-<td align="center">
-<br/>64, 86 (66,74 en 2009)<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>-oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote <br/>
-</td>
-<td align="center">
-<br/>Tonne <br/>
-</td>
-<td align="center">
-<br/>51, 89 (53,39 en 2009)<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>hydrocarbures non méthaniques, solvants et autres composés organiques volatils <br/>
-</td>
-<td align="center">
-<br/>Tonne <br/>
-</td>
-<td align="center">
-<br/>43, 24 (44,49 en 2009)<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>-poussières totales en suspension <br/>
-</td>
-<td align="center">
-<br/>Tonne <br/>
-</td>
-<td align="center">
-<br/>64, 86 en 2009 et 85 à compter de 2010 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées. <br/>
-</td>
-<td align="center">
-<br/>Tonne <br/>
-</td>
-<td align="center">
-<br/>44, 02 (45,30 en 2009)<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Préparations pour lessives, y compris les préparations auxiliaires de lavage, et produits adoucissants ou assouplissants pour le linge : <p>-dont la teneur en phosphate est inférieure à 5 % du poids <br/>
+<td colspan="2">
+<p align="center">
+<b>
+<br/>UNITÉ DE PERCEPTION </b>
 </p>
 </td>
-<td align="center">
-<br/>Tonne <br/>
-</td>
-<td align="center">
-<br/>39, 51(40,66 en 2009)<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>-dont la teneur en phosphate est comprise entre 5 % et 30 % du poids <br/>
-</td>
-<td align="center">
-<br/>Tonne <br/>
-</td>
-<td align="center">
-<br/>170, 19 (175,13 en 2009)<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>-dont la teneur en phosphate est supérieure à 30 % du poids <br/>
-</td>
-<td align="center">
-<br/>Tonne <br/>
-</td>
-<td align="center">
-<br/>283, 65 (291,88 en 2009)<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Matériaux d'extraction. <br/>
-</td>
-<td align="center">
-<br/>Tonne <br/>
-</td>
-<td align="center">
-<br/>0, 20 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Installations classées : <p>Délivrance d'autorisation :</p>
-<p>-artisan n'employant pas plus de deux salariés <br/>
+<td colspan="2" width="79">
+<p align="center">
+<b>
+<br/>QUOTITÉ </b>
+</p>
+<p align="center">
+<b>(en euros) </b>
 </p>
 </td>
-<td align="center"/>
-<td align="center">
-<br/>501, 61 (516,16 en 2009)<br/>
+</tr>
+<tr>
+<td>
+<p>Déchets industriels spéciaux réceptionnés dans une installation d'élimination de déchets industriels spéciaux ou transférés vers une telle installation située dans un autre Etat. </p>
+</td>
+<td colspan="2">
+<p align="center">Tonne </p>
+</td>
+<td colspan="2" width="79">
+<p align="center">10, 03 (10,32 en 2009)</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>-autres entreprises inscrites au répertoire des métiers <br/>
+<td>
+<p>Déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ou transférés vers une telle installation située dans un autre Etat. </p>
 </td>
-<td align="center"/>
-<td align="center">
-<br/>1 210, 78 (1 245,89 en 2009)<br/>
+<td colspan="2">
+<p align="center">Tonne </p>
 </td>
-</tr>
-<tr>
-<td align="center">
-<br/>-autres entreprises <br/>
-</td>
-<td align="center"/>
-<td align="center">
-<br/>2 525, 35  (2 598,59 en 2009)<br/>
+<td colspan="2" width="79">
+<p align="center">20, 01 (20,59 en 2009)</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Exploitation au cours d'une année civile (tarifs de base) : <p>-installation ayant fait l'objet d'un enregistrement dans le cadre du système communautaire de management environnemental et d'audit (EMAS) défini par le règlement (CE) n° 761 / 2001 du Parlement européen et du Conseil du 19 mars 2001 ou dont le système de management environnemental a été certifié conforme à la norme ISO 14001 par un organisme accrédité <br/>
-</p>
+<td>
+<p>Substances émises dans l'atmosphère : </p>
+<p>-oxydes de soufre et autres composés soufrés </p>
 </td>
-<td align="center"/>
-<td align="center">
-<br/>339, 37 (349,21 en 2009)<br/>
+<td colspan="2">
+<p align="center">Tonne </p>
 </td>
-</tr>
-<tr>
-<td align="center">
-<br/>-autres installations <br/>
-</td>
-<td align="center"/>
-<td align="center">
-<br/>380, 44 (391,47 en 2009)<br/>
+<td colspan="2" width="79">
+<p align="center">43, 24 (44,49 en 2009)</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Imprimés papiers émis à destination des utilisateurs finaux. <br/>
+<td>
+<p align="center">-acide chlorhydrique </p>
 </td>
-<td align="center">
-<br/>Kg <br/>
+<td colspan="2">
+<p align="center">Tonne </p>
 </td>
-<td align="center">
-<br/>0, 91 <br/>
+<td colspan="2" width="79">
+<p align="center">43, 24 (44,49 en 2009)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">-protoxyde d'azote </p>
+</td>
+<td colspan="2">
+<p align="center">Tonne </p>
+</td>
+<td colspan="2" width="79">
+<p align="center">64, 86 (66,74 en 2009)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">-oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote </p>
+</td>
+<td colspan="2">
+<p align="center">Tonne </p>
+</td>
+<td colspan="2" width="79">
+<p align="center">51, 89 (53,39 en 2009)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">hydrocarbures non méthaniques, solvants et autres composés organiques volatils </p>
+</td>
+<td colspan="2">
+<p align="center">Tonne </p>
+</td>
+<td colspan="2" width="79">
+<p align="center">43, 24 (44,49 en 2009)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">-poussières totales en suspension </p>
+</td>
+<td colspan="2">
+<p align="center">Tonne </p>
+</td>
+<td colspan="2" width="79">
+<p align="center">64, 86 en 2009 et 85 à compter de 2010 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées. </p>
+</td>
+<td colspan="2">
+<p align="center">Tonne </p>
+</td>
+<td colspan="2" width="79">
+<p align="center">44, 02 (45,30 en 2009)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Préparations pour lessives, y compris les préparations auxiliaires de lavage, et produits adoucissants ou assouplissants pour le linge : </p>
+<p align="center">-dont la teneur en phosphate est inférieure à 5 % du poids </p>
+</td>
+<td colspan="2">
+<p align="center">Tonne </p>
+</td>
+<td colspan="2" width="79">
+<p align="center">39, 51(40,66 en 2009)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">-dont la teneur en phosphate est comprise entre 5 % et 30 % du poids </p>
+</td>
+<td colspan="2">
+<p align="center">Tonne </p>
+</td>
+<td colspan="2" width="79">
+<p align="center">170, 19 (175,13 en 2009)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">-dont la teneur en phosphate est supérieure à 30 % du poids </p>
+</td>
+<td colspan="2">
+<p align="center">Tonne </p>
+</td>
+<td colspan="2" width="79">
+<p align="center">283, 65 (291,88 en 2009)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Matériaux d'extraction. </p>
+</td>
+<td colspan="2">
+<p align="center">Tonne </p>
+</td>
+<td colspan="2" width="79">
+<p align="center">0, 20 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Installations classées : </p>
+<p align="center">Délivrance d'autorisation :</p>
+<p align="center">-artisan n'employant pas plus de deux salariés </p>
+</td>
+<td colspan="2">
+<br/>
+</td>
+<td colspan="2" width="79">
+<p align="center">501, 61 (516,16 en 2009)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">-autres entreprises inscrites au répertoire des métiers </p>
+</td>
+<td colspan="2">
+<br/>
+</td>
+<td colspan="2" width="79">
+<p align="center">1 210, 78 (1 245,89 en 2009)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">-autres entreprises </p>
+</td>
+<td colspan="2">
+<br/>
+</td>
+<td colspan="2" width="79">
+<p align="center">2 525, 35 (2 598,59 en 2009)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Exploitation au cours d'une année civile (tarifs de base) : </p>
+<p align="center">-installation ayant fait l'objet d'un enregistrement dans le cadre du système communautaire de management environnemental et d'audit (EMAS) défini par le règlement (CE) n° 761 / 2001 du Parlement européen et du Conseil du 19 mars 2001 ou dont le système de management environnemental a été certifié conforme à la norme ISO 14001 par un organisme accrédité </p>
+</td>
+<td colspan="2">
+<br/>
+</td>
+<td colspan="2" width="79">
+<p align="center">339, 37 (349,21 en 2009)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>-autres installations </p>
+</td>
+<td colspan="2">
+<br/>
+</td>
+<td colspan="2" width="79">
+<p align="center">
+<br/>380, 44 (391,47 en 2009)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> Imprimés papiers émis à destination des utilisateurs finaux</p>
+</td>
+<td colspan="2">
+<p> Kilogramme</p>
+</td>
+<td colspan="2" width="79">
+<p align="center">0,12</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Papiers à usage graphique, transformés, manufacturés, conditionnés et destinés à être imprimés par ou pour le compte d'utilisateurs finaux</p>
+</td>
+<td>
+<p>  Kilogramme</p>
+</td>
+<td width="39">
+<p> 2010 </p>
+</td>
+<td width="38">
+<p>0,06</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td width="39">
+<p> 2011 </p>
+</td>
+<td width="38">
+<p>0,12</p>
 </td>
 </tr>
 </tbody>
@@ -575,7 +692,7 @@ c) Qu'à compter du 1er janvier 2016 aux tarifs mentionnés au a du A du 1.
 
 2. Le montant minimal annuel de la taxe due par les deux premières catégories de personnes mentionnées au 1 du I de l'article 266 sexies est de 450 € par installation.
 
-3. Le montant minimal annuel de la taxe due par les personnes mentionnées au 9 du I de l'article 266 sexies est de 450 € par redevable.
+3. Le seuil d'assujettissement à la taxe due par les personnes mentionnées au 9 du I de l'article 266 sexies est de 5 000 kilogrammes.
 
 4. Le tarif applicable aux déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ne s'applique pas aux résidus de traitement des installations d'élimination de déchets assujetties à la taxe.
 

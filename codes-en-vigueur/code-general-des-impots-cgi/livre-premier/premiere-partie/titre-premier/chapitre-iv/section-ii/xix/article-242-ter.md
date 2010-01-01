@@ -20,7 +20,7 @@ Pour l'établissement de la déclaration mentionnée au premier alinéa, les per
 
 La déclaration mentionnée au premier alinéa doit être faite dans des conditions et délais fixés par décret. Une copie de cette déclaration doit être adressée aux bénéficiaires ds revenus concernés.
 
-Elle est obligatoirement transmise à l'administration fiscale selon un procédé informatique par le déclarant qui a souscrit au moins cent déclarations au cours de l'année précédente.
+Elle est obligatoirement transmise à l'administration fiscale selon un procédé informatique par le déclarant qui a souscrit au moins cent déclarations au cours de l'année précédente ou qui a souscrit, au titre de cette même année, une ou plusieurs déclarations pour un montant global de revenus, tels que définis au premier alinéa du présent 1, égal ou supérieur à 15 000 euros.
 
 1 bis. Les dispositions du 1 sont applicables aux revenus imposables dans les conditions prévues par l'article 238 septies B. La déclaration doit être faite par la personne chez laquelle les titres ou droits sont déposés ou inscrits en compte ou, dans les autres cas, par l'emprunteur.
 

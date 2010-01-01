@@ -4,13 +4,13 @@ I. Les entreprises soumises de plein droit ou sur option à un régime réel d'i
 
 Le bénéfice du présent article est réservé aux entreprises qui se créent dans les zones et durant les périodes suivantes, à la condition que le siège social ainsi que l'ensemble de l'activité et des moyens d'exploitation soient implantés dans l'une de ces zones :
 
-1° A compter du 1er janvier 1995 et jusqu'au 31 décembre 2009, dans les zones de revitalisation rurale mentionnées à l'article 1465 A ou dans les zones de redynamisation urbaine définies au I ter de l'article 1466 A ;
+1° A compter du 1er janvier 1995 et jusqu'au 31 décembre 2010, dans les zones de revitalisation rurale mentionnées à l'article 1465 A ou dans les zones de redynamisation urbaine définies au I ter de l'article 1466 A ;
 
-2° A compter du 1er janvier 2007 et jusqu'au 31 décembre 2009, dans les zones d'aide à finalité régionale.
+2° A compter du 1er janvier 2007 et jusqu'au 31 décembre 2010, dans les zones d'aide à finalité régionale.
 
 Lorsqu'une entreprise exerce une activité non sédentaire, réalisée en partie en dehors des zones précitées, la condition d'implantation est réputée satisfaite dès lors qu'elle réalise au plus 15 % de son chiffre d'affaires en dehors de ces zones. Au-delà de 15 %, les bénéfices réalisés sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les conditions de droit commun en proportion du chiffre d'affaires réalisé en dehors des zones déjà citées. Cette condition de chiffre d'affaires s'apprécie exercice par exercice.
 
-Toutefois, les entreprises qui se sont créées à compter du 1er janvier 2004 jusqu'au 31 décembre 2009 dans les zones de revitalisation rurale mentionnées à l'article 1465 A, et à la condition que le siège social ainsi que l'ensemble de l'activité et des moyens d'exploitation soient implantés dans ces zones, sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices réalisés, à l'exclusion des plus-values constatées lors de la réévaluation des éléments d'actif, jusqu'au terme du cinquante-neuvième mois suivant celui de leur création et déclarés selon les modalités prévues à l'article 53 A. Ces bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à hauteur de 40 %, 60 % ou 80 % de leur montant selon qu'ils sont réalisés respectivement au cours des cinq premières, des sixième et septième ou des huitième et neuvième périodes de douze mois suivant cette période d'exonération.
+Toutefois, les entreprises qui se sont créées à compter du 1er janvier 2004 jusqu'au 31 décembre 2010 dans les zones de revitalisation rurale mentionnées à l'article 1465 A, et à la condition que le siège social ainsi que l'ensemble de l'activité et des moyens d'exploitation soient implantés dans ces zones, sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices réalisés, à l'exclusion des plus-values constatées lors de la réévaluation des éléments d'actif, jusqu'au terme du cinquante-neuvième mois suivant celui de leur création et déclarés selon les modalités prévues à l'article 53 A. Ces bénéfices sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à hauteur de 40 %, 60 % ou 80 % de leur montant selon qu'ils sont réalisés respectivement au cours des cinq premières, des sixième et septième ou des huitième et neuvième périodes de douze mois suivant cette période d'exonération.
 
 Ces dispositions s'appliquent également aux sociétés soumises à l'impôt sur les sociétés qui exercent une activité professionnelle au sens du 1 de l'article 92 dont l'effectif de salariés bénéficiant d'un contrat de travail à durée indéterminée ou d'une durée de six mois au moins est égal ou supérieur à trois à la clôture du premier exercice et au cours de chaque exercice de la période d'application des dispositions du présent article ; si l'effectif varie en cours d'exercice, il est calculé compte tenu de la durée de présence des salariés en cause pendant l'exercice.
 
@@ -20,9 +20,9 @@ II. Le capital des sociétés nouvellement créées ne doit pas être détenu, d
 
 Pour l'application du premier alinéa, le capital d'une société nouvellement créée est détenu indirectement par d'autres sociétés lorsque l'une au moins des conditions suivantes est remplie :
 
-a - un associé exerce en droit ou en fait une fonction de direction ou d'encadrement dans une autre entreprise, lorsque l'activité de celle-ci est similaire à celle de l'entreprise nouvellement créée ou lui est complémentaire ;
+a-un associé exerce en droit ou en fait une fonction de direction ou d'encadrement dans une autre entreprise, lorsque l'activité de celle-ci est similaire à celle de l'entreprise nouvellement créée ou lui est complémentaire ;
 
-b - un associé détient avec les membres de son foyer fiscal 25 % au moins des droits sociaux dans une autre entreprise dont l'activité est similaire à celle de l'entreprise nouvellement créée ou lui est complémentaire.
+b-un associé détient avec les membres de son foyer fiscal 25 % au moins des droits sociaux dans une autre entreprise dont l'activité est similaire à celle de l'entreprise nouvellement créée ou lui est complémentaire.
 
 III. Les entreprises créées dans le cadre d'une concentration, d'une restructuration, d'une extension d'activités préexistantes ou qui reprennent de telles activités ne peuvent pas bénéficier du régime défini au paragraphe I.
 

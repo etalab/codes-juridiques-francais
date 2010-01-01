@@ -16,6 +16,7 @@
 - [Article 237 quinquies](article-237-quinquies.md)
 - [Article 237 sexies](article-237-sexies.md)
 - [Article 237 septies](article-237-septies.md)
+- [Article 238-0 A](article-238-0-a.md)
 - [Article 238 bis](article-238-bis.md)
 - [Article 238 bis-0 A](article-238-bis-0-a.md)
 - [Article 238 bis-0 AB](article-238-bis-0-ab.md)

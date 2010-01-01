@@ -6,7 +6,7 @@ Dans le cas où, l'année d'un transfert de compétences, le produit des impôts
 
 A cette fin, le produit des impôts revenant à la collectivité concernée est diminué, au profit du fonds de compensation de la fiscalité transférée, de la différence entre le produit calculé sur la base des taux en vigueur à la date du transfert et le montant des charges visé ci-dessus ainsi que la moitié du supplément de ressources fiscales résultant des dispositions de l'article 14 de la loi de finances pour 1984 (n° 83-1179 du 29 décembre 1983).
 
-Dès l'année du transfert et pour les années ultérieures, le montant de cet ajustement évolue dans les conditions prévues à l'article L. 1614-1. Il est modifié, en tant que de besoin, pour tenir compte des accroissements de charges résultant de nouveaux transferts de compétences.
+Dès l'année du transfert et pour les années ultérieures, le montant de cet ajustement évolue comme la dotation générale de décentralisation dans les conditions prévues à l'article L. 1614-1. Il est modifié, en tant que de besoin, pour tenir compte des accroissements de charges résultant de nouveaux transferts de compétences.
 
 A compter de 1997, il est créé un Fonds de compensation de la fiscalité transférée qui dispose en ressources de la diminution du produit des impôts définie au troisième alinéa du présent article.
 

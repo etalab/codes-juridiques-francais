@@ -8,6 +8,8 @@ II.-L'application des dispositions du premier alinéa du I est subordonnée à l
 
 Le non-respect de ces conditions par la société cessionnaire entraîne l'application de l'amende prévue au I de l'article 1764.
 
+En cas de fusion de sociétés, l'engagement de conservation de cinq ans souscrit par la société absorbée n'est pas rompu lorsque l'opération est réalisée entre sociétés civiles de placement immobilier dont les parts sociales ont fait l'objet d'une offre au public ou entre sociétés de placement à prépondérance immobilière à capital variable.L'application de ces dispositions est subordonnée à la condition que la société absorbante s'engage, dans l'acte de fusion, à se substituer à la société absorbée dans l'engagement de conservation mentionné au premier alinéa.
+
 Toutefois, l'obligation de conservation mentionnée au premier alinéa est respectée en cas de démolition totale ou partielle d'un immeuble acquis sous le bénéfice des dispositions du I lorsque la démolition est effectuée en vue de la reconstruction totale ou partielle, réhabilitation ou rénovation de l'immeuble, et sous réserve que la reconstruction, réhabilitation ou rénovation soit achevée dans les cinq années qui suivent l'acquisition.
 
 L'application du second alinéa du I est subordonnée à la condition que la société crédit-preneuse intervienne à l'acte de cession de l'immeuble ou du droit réel et prenne les engagements de conclure avec l'acquéreur un contrat de crédit-bail portant sur l'immeuble ou le droit réel et de conserver pendant cinq ans les droits afférents audit contrat de crédit-bail. Lorsque la société crédit-preneuse est une filiale mentionnée au premier alinéa du II de l'article 208 C ou une société mentionnée au III bis du même article, elle doit être placée sous le régime prévu au II de cet article pendant une durée minimale de cinq ans à compter de l'exercice d'acquisition.
@@ -20,4 +22,4 @@ IV.-Les plus-values nettes dégagées par les organismes et sociétés mentionn�
 
 Le non-respect de cet engagement par la société cédante entraîne l'application de l'amende prévue au I de l'article 1764.
 
-V.-Un décret fixe les conditions d'application du présent article. Le I s'applique aux cessions réalisées jusqu'au 31 décembre 2011, le III aux cessions réalisées jusqu'au 31 décembre 2009 et le IV aux cessions réalisées jusqu'au 31 décembre 2010.
+V.-Un décret fixe les conditions d'application du présent article. Le I s'applique aux cessions réalisées jusqu'au 31 décembre 2011, le III aux cessions réalisées jusqu'au 31 décembre 2011 et le IV aux cessions réalisées jusqu'au 31 décembre 2010.

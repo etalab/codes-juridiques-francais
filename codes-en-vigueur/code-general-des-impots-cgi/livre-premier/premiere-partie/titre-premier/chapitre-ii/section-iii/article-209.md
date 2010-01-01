@@ -1,6 +1,6 @@
 # Article 209
 
-I. Sous réserve des dispositions de la présente section, les bénéfices passibles de l'impôt sur les sociétés sont déterminés d'après les règles fixées par les articles 34 à 45,53 A à 57,237 ter A et 302 septies A bis et en tenant compte uniquement des bénéfices réalisés dans les entreprises exploitées en France ainsi que de ceux dont l'imposition est attribuée à la France par une convention internationale relative aux doubles impositions.
+I. Sous réserve des dispositions de la présente section, les bénéfices passibles de l'impôt sur les sociétés sont déterminés d'après les règles fixées par les articles 34 à 45, 53 A à 57, 237 ter A et 302 septies A bis et en tenant compte uniquement des bénéfices réalisés dans les entreprises exploitées en France, de ceux mentionnés aux a, e, e bis et e ter du I de l'article 164 B   ainsi que de ceux dont l'imposition est attribuée à la France par une convention internationale relative aux doubles impositions.
 
 Toutefois, par dérogation aux dispositions du deuxième alinéa de l'article 37, l'impôt sur les sociétés dû par les entreprises créées à compter du 1er janvier 1984 est établi, lorsqu'aucun bilan n'est dressé au cours de la première année civile d'activité, sur les bénéfices de la période écoulée depuis le commencement des opérations jusqu'à la date de clôture du premier exercice et, au plus tard, jusqu'au 31 décembre de l'année suivant celle de la création.
 
@@ -12,9 +12,9 @@ En cas de scission ou d'apport partiel d'actif, les déficits transférés sont 
 
 L'agrément est délivré lorsque :
 
-a. L'opération est justifiée du point de vue économique et obéit à des motivations principales autres que fiscales ;
+a.L'opération est justifiée du point de vue économique et obéit à des motivations principales autres que fiscales ;
 
-b. L'activité à l'origine des déficits ou des intérêts dont le transfert est demandé est poursuivie par la ou les sociétés bénéficiaires des apports pendant un délai minimum de trois ans.
+b.L'activité à l'origine des déficits ou des intérêts dont le transfert est demandé est poursuivie par la ou les sociétés bénéficiaires des apports pendant un délai minimum de trois ans.
 
 II bis.-En cas de reprise d'un passif excédant la valeur réelle de l'actif qui est transféré à l'occasion d'une opération mentionnée au 3° du I de l'article 210-0 A, la charge correspondant à cet excédent ne peut être déduite.
 

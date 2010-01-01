@@ -30,7 +30,7 @@
 - [XX ter : Déclaration des investissements réalisés outre-mer.](xx-ter)
 - [XIX : Déclaration des revenus de capitaux mobiliers (IFU)](xix)
 - [XXI : Mesures de publicité](xxi)
-- [XXIII : Prélèvement de 50 % sur certains profits immobiliers réalisés par les personnes physiques ou sociétés n'ayant pas d'établissement en France.](xxiii)
+- [XXIII : Prélèvement sur certains profits immobiliers réalisés par les personnes physiques ou sociétés n'ayant pas d'établissement en France](xxiii)
 - [XXIII bis : Imposition des plus-values réalisées par les personnes physiques ou sociétés qui ne sont pas fiscalement domiciliées en France](xxiii-bis)
 - [XXVI : Prélèvements sur les plus-values prévues à l'article 244 bis.](xxvi)
 - [XXVII : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales ou agricoles](xxvii)
