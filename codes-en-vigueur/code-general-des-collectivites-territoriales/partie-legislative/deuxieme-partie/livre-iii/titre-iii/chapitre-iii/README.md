@@ -1,6 +1,6 @@
 # CHAPITRE III : Taxes, redevances ou versements non prévus par le code général des impôts
 
-- [Section 1 : Taxe d'usage des abattoirs publics](section-1)
+- [Section 1 : Redevance d'usage des abattoirs publics](section-1)
 - [Section 2 : Taxe communale sur l'électricité](section-2)
 - [Section 3 : Taxe locale sur la publicité extérieure](section-3)
 - [Section 6 : Taxes particulières aux stations](section-6)

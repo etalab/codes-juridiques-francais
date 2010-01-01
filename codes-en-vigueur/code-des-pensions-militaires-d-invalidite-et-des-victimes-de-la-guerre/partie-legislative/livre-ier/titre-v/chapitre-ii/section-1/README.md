@@ -1,3 +1,3 @@
-# Section 1 : Tribunal départemental des pensions.
+# Section 1 : Tribunal des pensions.
 
 - [Article L80](article-l80.md)
