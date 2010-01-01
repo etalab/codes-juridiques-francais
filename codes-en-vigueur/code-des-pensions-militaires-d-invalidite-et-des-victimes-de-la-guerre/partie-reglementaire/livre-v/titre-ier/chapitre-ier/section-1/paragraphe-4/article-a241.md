@@ -12,12 +12,12 @@ Indépendamment des recettes et des dépenses budgétaires, l'agent comptable es
 
 5° Les retenues au profit des asiles de Vincennes et du Vésinet ;
 
-6° Les recettes au titre du compte "recettes à classer" ;
+6° Les recettes au titre du compte " recettes à classer " ;
 
-7° Les recettes du compte "recettes et emploi de fonds recueillis au moyen des appels à la générosité publique" ;
+7° Les recettes du compte " recettes et emploi de fonds recueillis au moyen des appels à la générosité publique " ;
 
 8° Les restes à payer sur exercice clos ;
 
 9° Fonds de réserve.
 
-Aucun compte nouveau d'opérations hors budget ne peut être ouvert par l'agent comptable que sur l'autorisation qui lui en aura été donnée par le ministre des anciens combattants et victimes de guerre, d'accord avec le ministre de l'économie et des finances.
+Aucun compte nouveau d'opérations hors budget ne peut être ouvert par l'agent comptable que sur l'autorisation qui lui en aura été donnée par le       ministre chargé des anciens combattants et victimes de guerre, d'accord avec le ministre de l'économie et des finances.
