@@ -24,6 +24,7 @@
 - [XIV quater : Régime fiscal des groupements européens d'intérêt économique et de leurs membres](xiv-quater)
 - [XIV quinquies : Régime fiscal des groupements de coopération sanitaire et sociale et de leurs membres](xiv-quinquies)
 - [XVII bis : Personnes morales passibles de l'impôt sur les sociétés ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble.](xvii-bis)
+- [XVII ter : Régime fiscal des fonds de placement immobiliers](xvii-ter)
 - [XVIII : Déclaration des commissions, courtages, ristournes, honoraires, des droits d'auteur, des rémunérations d'associés et des parts de bénéfices](xviii)
 - [XX : Attribution de l'avoir fiscal aux non-résidents](xx)
 - [XX bis : Déclaration des sociétés de gestion de fonds communs de placement à risques, de fonds professionnels de capital investissement et des sociétés de capital-risque](xx-bis)

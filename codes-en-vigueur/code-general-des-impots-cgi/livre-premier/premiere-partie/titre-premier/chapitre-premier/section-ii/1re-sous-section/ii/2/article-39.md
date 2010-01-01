@@ -6,9 +6,7 @@
 
 Toutefois les rémunérations ne sont admises en déduction des résultats que dans la mesure où elles correspondent à un travail effectif et ne sont pas excessives eu égard à l'importance du service rendu. Cette disposition s'applique à toutes les rémunérations directes ou indirectes, y compris les indemnités, allocations, avantages en nature et remboursements de frais.
 
-1° bis Pour les exercices clos à compter du 31 décembre 1987 et sous réserve des dispositions du 9, l'indemnité de congé payé calculée dans les conditions prévues aux
-articles L. 3141-22 à L. 3141-25 du code du travail
-, y compris les charges sociales et fiscales afférentes à cette indemnité.
+1° bis Pour les exercices clos à compter du 31 décembre 1987 et sous réserve des dispositions du 9, l'indemnité de congé payé calculée dans les conditions prévues aux articles L. 3141-22 à L. 3141-25 du code du travail, y compris les charges sociales et fiscales afférentes à cette indemnité.
 
 Par exception aux dispositions du premier alinéa et sur option irrévocable de l'entreprise, cette indemnité ainsi que les charges sociales et fiscales y afférentes revêtent du point de vue fiscal le caractère d'un salaire de substitution qui constitue une charge normale de l'exercice au cours duquel le salarié prend le congé correspondant. Cette option ne peut pas être exercée par les entreprises créées après le 31 décembre 1986. Elle est exercée avant l'expiration du délai de dépôt de la déclaration des résultats du premier exercice clos à compter du 31 décembre 1987.
 
@@ -50,7 +48,7 @@ Les conditions d'application de l'alinéa précédent, notamment les obligations
 
 4° Sous réserve des dispositions de l'article 153, les impôts à la charge de l'entreprise, mis en recouvrement au cours de l'exercice, à l'exception des taxes prévues aux articles 238 quater et 990 G et, pour les rappels de taxe sur la valeur ajoutée afférents à des opérations au titre desquelles la taxe due peut être totalement ou partiellement déduite par le redevable lui-même, du montant de la taxe déductible.
 
-Par exception aux dispositions du premier alinéa, lorsque, en application des dispositions du sixième alinéa de l'article 1679 quinquies, un redevable réduit le montant du solde de taxe professionnelle du montant du dégrèvement attendu du plafonnement de la taxe professionnelle due au titre de la même année, le montant de la cotisation de taxe professionnelle déductible du bénéfice net est réduit dans les mêmes proportions. Corrélativement, le montant du dégrèvement ainsi déduit ne constitue pas un produit imposable, lorsqu'il est accordé ultérieurement.
+Par exception aux dispositions du premier alinéa, lorsque, en application du sixième alinéa de l'article 1679 quinquies, un redevable réduit le montant du solde de cotisation foncière des entreprises du montant du dégrèvement attendu du plafonnement de la contribution économique territoriale due au titre de la même année, le montant de la cotisation foncière des entreprises déductible du bénéfice net est réduit dans les mêmes proportions. Corrélativement, le montant du dégrèvement ainsi déduit ne constitue pas un produit imposable, lorsqu'il est accordé ultérieurement.
 
 4° bis-Le prélèvement opéré au titre de l'article 4 modifié de la loi n° 51-675 du 24 mai 1951, relative à la construction navale, et faisant l'objet d'un ordre de versement émis au cours de l'exercice ;
 
@@ -130,8 +128,7 @@ Les dotations aux provisions pour dépréciation comptabilisées au titre de l'e
 
 Le montant total des dotations aux provisions non admises en déduction au titre de l'exercice en application de l'alinéa précédent vient minorer le montant total des provisions pour dépréciation des immeubles de placement rapporté au résultat des exercices ultérieurs.
 
-6° La contribution sociale de solidarité mentionnée à l'article L. 651-1 du code de la sécurité sociale et la taxe d'aide au commerce et à l'artisanat issue de l'article 3 modifié de la loi n° 72-657 du 13 juillet 1972
-instituant des mesures en faveur de certaines catégories de commerçants et artisans âgés. Le fait générateur de cette contribution ou de cette taxe est constitué par l'existence de l'entreprise débitrice au 1er janvier de l'année au titre de laquelle elle est due ;
+6° La contribution sociale de solidarité mentionnée à l'article L. 651-1 du code de la sécurité sociale et la taxe d'aide au commerce et à l'artisanat issue de l'article 3 modifié de la loi n° 72-657 du 13 juillet 1972 instituant des mesures en faveur de certaines catégories de commerçants et artisans âgés. Le fait générateur de cette contribution est constitué par l'existence de l'entreprise débitrice au 1er janvier de l'année au titre de laquelle elle est due ;
 
 7° Les dépenses engagées dans le cadre de manifestations de caractère philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial, culturel ou concourant à la mise en valeur du patrimoine artistique, à la défense de l'environnement naturel ou à la diffusion de la culture, de la langue et des connaissances scientifiques françaises, lorsqu'elles sont exposées dans l'intérêt direct de l'exploitation ;
 

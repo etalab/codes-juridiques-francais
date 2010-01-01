@@ -1,4 +1,4 @@
-# Section 1 : Conseil supérieur des installations classées
+# Section 1 : Conseil supérieur de la prévention des risques technologiques
 
 - [Article D511-1](article-d511-1.md)
 - [Article D511-2](article-d511-2.md)

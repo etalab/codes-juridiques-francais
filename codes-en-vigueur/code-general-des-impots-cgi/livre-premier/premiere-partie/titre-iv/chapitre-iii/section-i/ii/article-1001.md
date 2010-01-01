@@ -16,7 +16,7 @@ Toutefois les taux de la taxe sont réduits à 7 % pour les assurances contre l'
 
 A 7 % ;
 
-2° bis à 7 %  pour les contrats d'assurance maladie ;
+2° bis à 7 % pour les contrats d'assurance maladie ;
 
 3° à 19 % pour les assurances contre les risques de toute nature de navigation maritime ou fluviale des bateaux de sport ou de plaisance ;
 
@@ -31,3 +31,5 @@ A 7 % ;
 A 9 %.
 
 Les risques d'incendie couverts par des assurances ayant pour objet des risques de transport sont compris dans les risques désignés sous le 3° ou sous le 5° bis.
+
+A compter des impositions établies au titre de l'année 2011, le produit de la taxe est affecté aux départements.

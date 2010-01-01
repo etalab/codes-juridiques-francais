@@ -2,7 +2,9 @@
 
 Les recettes du budget de la communauté d'agglomération comprennent :
 
-1° Les ressources fiscales mentionnées à l'article 1609 nonies C et 1609 nonies D du code général des impôts ;
+1° Les ressources fiscales mentionnées au I et au V de l'article 1379-0 bis du code général des impôts.
+
+La communauté d'agglomération peut, en outre, percevoir à la place des communes membres, selon les compétences qui lui sont transférées, la taxe sur les fournitures d'électricité dans les conditions prévues aux articles L. 2333-2 à L. 2333-5 au lieu et place des communes membres dont la population est inférieure à 2 000 habitants. Dans ce cas, cette taxe est recouvrée sans frais par le gestionnaire du réseau de distribution ou le fournisseur ;
 
 2° Le revenu des biens, meubles ou immeubles, de la communauté d'agglomération ;
 
