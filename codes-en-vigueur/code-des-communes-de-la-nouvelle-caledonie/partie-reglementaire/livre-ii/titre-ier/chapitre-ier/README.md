@@ -15,5 +15,3 @@
 - [Article D211-13](article-d211-13.md)
 - [Article D211-14](article-d211-14.md)
 - [Article D211-15](article-d211-15.md)
-- [Article R211-1](article-r211-1.md)
-- [Article R211-2](article-r211-2.md)

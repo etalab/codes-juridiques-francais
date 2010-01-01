@@ -1,4 +1,3 @@
 # C : Taxe de balayage
 
 - [Article 1528](article-1528.md)
-- [Article 1530](article-1530.md)

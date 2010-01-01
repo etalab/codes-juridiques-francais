@@ -1,18 +1,5 @@
 # Sous-section 1 : Convention individuelle
 
-- [Article R5134-38](article-r5134-38.md)
-- [Article R5134-39](article-r5134-39.md)
-- [Article R5134-40](article-r5134-40.md)
-- [Article R5134-41](article-r5134-41.md)
-- [Article R5134-42](article-r5134-42.md)
-- [Article R5134-43](article-r5134-43.md)
-- [Article R5134-44](article-r5134-44.md)
-- [Article R5134-45](article-r5134-45.md)
-- [Article R5134-46](article-r5134-46.md)
-- [Article R5134-47](article-r5134-47.md)
-- [Article R5134-48](article-r5134-48.md)
-- [Article R5134-49](article-r5134-49.md)
-- [Article R5134-50](article-r5134-50.md)
 - [Article R5134-51](article-r5134-51.md)
 - [Article R5134-52](article-r5134-52.md)
 - [Article R5134-53](article-r5134-53.md)

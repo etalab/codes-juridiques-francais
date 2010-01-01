@@ -1,6 +1,5 @@
 # Paragraphe 3 : Décision de la caisse de mutualité sociale agricole.
 
-- [Article D751-115](article-d751-115.md)
 - [Article D751-117](article-d751-117.md)
 - [Article D751-118](article-d751-118.md)
 - [Article D751-119](article-d751-119.md)
