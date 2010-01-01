@@ -1,4 +1,6 @@
 # III : Base d'imposition
 
 - [4° : Réduction des bases en Corse](4)
+- [Article 1467 A](article-1467-a.md)
+- [Article 1468](article-1468.md)
 - [Article 1469 A quater](article-1469-a-quater.md)

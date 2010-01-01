@@ -22,7 +22,7 @@ L'exonération s'applique également lorsque la société détenue directement p
 
 Dans cette hypothèse, l'exonération partielle est appliquée à la valeur des titres de la société détenus directement par le redevable, dans la limite de la fraction de la valeur réelle de l'actif brut de celle-ci représentative de la valeur de la participation indirecte ayant fait l'objet d'un engagement de conservation.
 
-Le bénéfice de l'exonération partielle est subordonné à la condition que les participations soient conservées inchangées à chaque niveau d'interposition pendant toute la durée de l'engagement collectif.
+Le bénéfice de l'exonération partielle est subordonné à la condition que les participations soient conservées inchangées à chaque niveau d'interposition pendant toute la durée de l'engagement collectif. Toutefois, le bénéfice du régime de faveur n'est pas remis en cause en cas d'augmentation de la participation détenue par les sociétés interposées.
 
 c. Chacun des héritiers, donataires ou légataires prend l'engagement dans la déclaration de succession ou l'acte de donation, pour lui et ses ayants cause à titre gratuit, de conserver les parts ou les actions transmises pendant une durée de quatre ans à compter de la date d'expiration du délai visé au a.
 

@@ -14,3 +14,4 @@
 - [Article 1766](article-1766.md)
 - [Article 1767](article-1767.md)
 - [Article 1768](article-1768.md)
+- [Article 1770 decies](article-1770-decies.md)

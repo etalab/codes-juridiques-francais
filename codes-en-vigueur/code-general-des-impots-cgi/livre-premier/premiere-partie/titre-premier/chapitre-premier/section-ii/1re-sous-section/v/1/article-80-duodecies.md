@@ -1,6 +1,6 @@
 # Article 80 duodecies
 
-1. Toute indemnité versée à l'occasion de la rupture du contrat de travail constitue une rémunération imposable, sous réserve de l'exonération prévue au 22° de l'article 81 et des dispositions suivantes.
+1. Toute indemnité versée à l'occasion de la rupture du contrat de travail constitue une rémunération imposable, sous réserve des dispositions suivantes.
 
 Ne constituent pas une rémunération imposable :
 
@@ -20,7 +20,7 @@ a) Soit deux fois le montant de la rémunération annuelle brute perçue par le 
 
 b) Soit le montant de l'indemnité de mise à la retraite prévue par la convention collective de branche, par l'accord professionnel ou interprofessionnel ou, à défaut, par la loi ;
 
-5° La fraction des indemnités de départ volontaire versées aux salariés dans le cadre d'un accord collectif de gestion prévisionnelle des emplois et des compétences dans les conditions prévues à l'article L. 2242-17 du code du travail, n'excédant pas quatre fois le plafond mentionné à l'article L. 241-3 du code de la sécurité sociale en vigueur à la date du versement des indemnités.
+5° La fraction des indemnités de départ volontaire versées aux salariés dans le cadre d'un accord collectif de gestion prévisionnelle des emplois et des compétences dans les conditions prévues à l'article L. 2242-17 du code du travail, n'excédant pas quatre fois le plafond mentionné à l'article L. 241-3 du code de la sécurité sociale en vigueur à la date du versement des indemnités ;
 
 6° La fraction des indemnités prévues à l'article L. 1237-13 du code du travail versées à l'occasion de la rupture conventionnelle du contrat de travail d'un salarié lorsqu'il n'est pas en droit de bénéficier d'une pension de retraite d'un régime légalement obligatoire, qui n'excède pas :
 

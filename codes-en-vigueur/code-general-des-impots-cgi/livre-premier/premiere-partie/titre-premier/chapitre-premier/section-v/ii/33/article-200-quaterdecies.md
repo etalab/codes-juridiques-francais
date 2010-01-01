@@ -4,11 +4,11 @@ I.-Les contribuables fiscalement domiciliés en France au sens de l'article 4 B 
 
 Le premier alinéa s'applique également aux contribuables qui font construire un logement destiné à être affecté, dès son achèvement, à leur habitation principale. Dans cette situation, les prêts mentionnés au premier alinéa s'entendent de ceux qui sont contractés en vue de financer l'acquisition du terrain et les dépenses de construction.
 
-Le logement doit, au jour de l'affectation à usage d'habitation principale du bénéficiaire du crédit d'impôt, satisfaire aux normes minimales de surface et d'habitabilité mentionnées à l'article 244 quater J. En outre, le logement acquis neuf, en l'état futur d'achèvement ou que le contribuable fait construire doit présenter des caractéristiques thermiques et une performance énergétique conformes aux prescriptions de l'article L. 111-9 du code de la construction et de l'habitation. Le contribuable justifie du respect de cette dernière condition selon des modalités définies par décret (1).
+Le logement doit, au jour de l'affectation à usage d'habitation principale du bénéficiaire du crédit d'impôt, satisfaire aux normes minimales de surface et d'habitabilité mentionnées à l'article 244 quater J. En outre, le logement acquis neuf, en l'état futur d'achèvement ou que le contribuable fait construire doit présenter des caractéristiques thermiques et une performance énergétique conformes aux prescriptions de l'article L. 111-9 du code de la construction et de l'habitation. Le contribuable justifie du respect de cette dernière condition selon des modalités définies par décret.
 
 II.-Le I ne s'applique pas aux intérêts des prêts affectés :
 
-1° Au remboursement en tout ou partie d'autres crédits ou découverts en compte. Toutefois, les intérêts des emprunts souscrits pour se substituer aux prêts mentionnés au I ou rembourser ceux-ci ouvrent droit au crédit d'impôt, dans la limite des intérêts qui figurent sur les échéanciers des emprunts initiaux et de celles des annuités mentionnées au premier alinéa du III restant à courir ;
+1° Au remboursement en tout ou partie d'autres crédits ou découverts en compte. Toutefois, les intérêts des emprunts souscrits pour se substituer aux prêts mentionnés au I ou rembourser ceux-ci ouvrent droit au crédit d'impôt, dans la limite des intérêts qui figurent sur les échéanciers des emprunts initiaux et de celles des annuités mentionnées au III restant à courir ;
 
 2° A l'acquisition d'un logement par l'intermédiaire d'une société non soumise à l'impôt sur les sociétés, lorsque ce logement a antérieurement appartenu au contribuable directement ou par l'intermédiaire d'une société non soumise à l'impôt sur les sociétés.
 
@@ -16,7 +16,7 @@ III.-Ouvrent droit au crédit d'impôt les intérêts payés au titre des cinq p
 
 Lorsque les prêts sont consentis à une société non soumise à l'impôt sur les sociétés dont le contribuable est membre et qui met gratuitement à la disposition de celui-ci un immeuble ou une partie d'immeuble lui appartenant qu'il affecte à son habitation principale, il est tenu compte des intérêts payés à proportion de la quote-part des droits du contribuable dans la société correspondant au logement concerné.
 
-Par dérogation aux dispositions du premier alinéa, lorsque le contribuable acquiert ou fait construire un logement neuf dont le niveau élevé de performance énergétique globale, déterminé dans des conditions fixées par décret et justifié par le bénéficiaire, est supérieur à celui qu'impose la législation en vigueur, les intérêts ouvrant droit au crédit d'impôt sont ceux payés au titre des sept premières annuités (2).
+Par dérogation aux dispositions du premier alinéa, lorsque le contribuable acquiert ou fait construire un logement neuf dont le niveau élevé de performance énergétique globale, déterminé dans des conditions fixées par décret et justifié par le bénéficiaire, est supérieur à celui qu'impose la législation en vigueur, les intérêts ouvrant droit au crédit d'impôt sont ceux payés au titre des sept premières annuités.
 
 IV.-Le montant des intérêts mentionnés au III ouvrant droit au crédit d'impôt ne peut excéder, au titre de chaque année d'imposition, la somme de 3 750 euros pour une personne célibataire, veuve ou divorcée et de 7 500 euros pour un couple soumis à imposition commune. Cette somme est majorée chaque année de 500 euros par personne à charge au sens des articles 196 à 196 bis. La somme de 500 euros est divisée par deux lorsqu'il s'agit d'un enfant réputé à charge égale de l'un et l'autre de ses parents.
 
@@ -26,7 +26,17 @@ V.-Le crédit d'impôt est égal à 20 % du montant des intérêts mentionnés a
 
 Ce taux est porté à 40 % pour les intérêts payés au titre de la première annuité de remboursement.
 
-Le taux mentionné au premier alinéa est porté à 40 % lorsque l'acquisition ou la construction porte sur un logement mentionné au troisième alinéa du III (2).
+Toutefois, pour les logements acquis neufs, en l'état futur d'achèvement ou que le contribuable fait construire :
+
+1° Lorsque l'acquisition ou la construction porte sur un logement mentionné au dernier alinéa du III, le taux mentionné au premier alinéa du présent V est porté à 40 % ;
+
+2° Lorsque l'acquisition ou la construction porte sur un logement autre que celui visé au 1°, les taux mentionnés aux premier et deuxième alinéas sont respectivement ramenés à :
+
+- 15 % et 30 % pour les logements acquis ou construits en 2010 ;
+
+- 10 % et 25 % pour les logements acquis ou construits en 2011 ;
+
+- 5 % et 15 % pour les logements acquis ou construits en 2012.
 
 VI.-Le I s'applique à la condition que le logement faisant l'objet du prêt soit, à la date de paiement des intérêts, affecté à l'usage d'habitation principale du contribuable.
 

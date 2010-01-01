@@ -8,11 +8,13 @@ II. - L'intérêt de retard n'est pas dû :
 
 2. Au titre des éléments d'imposition pour lesquels un contribuable fait connaître, par une indication expresse portée sur la déclaration ou l'acte, ou dans une note annexée, les motifs de droit ou de fait qui le conduisent à ne pas les mentionner en totalité ou en partie, ou à leur donner une qualification qui entraînerait, si elle était fondée, une taxation atténuée, ou fait état de déductions qui sont ultérieurement reconnues injustifiées ;
 
-2 bis. Au titre des éléments d'imposition afférents à une déclaration souscrite  dans les délais prescrits, lorsque le principe ou les modalités de la  déclaration de ces éléments se heurtent, soit à une difficulté d'interprétation  d'une disposition fiscale entrée en vigueur à compter du 1er janvier de l'année  précédant l'échéance déclarative, soit à une difficulté de détermination des  incidences fiscales d'une règle comptable, et que les conditions suivantes sont  remplies :
+2 bis. Au titre des éléments d'imposition afférents à une déclaration souscrite dans les délais prescrits, lorsque le principe ou les modalités de la déclaration de ces éléments se heurtent, soit à une difficulté d'interprétation d'une disposition fiscale entrée en vigueur à compter du 1er janvier de l'année précédant l'échéance déclarative, soit à une difficulté de détermination des incidences fiscales d'une règle comptable, et que les conditions suivantes sont remplies :
 
-1° Le contribuable de bonne foi a joint à sa  déclaration la copie de la demande, déposée avant l'expiration du délai de  déclaration, par laquelle il a sollicité de l'administration, de manière précise  et complète, une prise de position sur la question sans obtenir de réponse  ;
+1° Le contribuable de bonne foi a joint à sa déclaration la copie de la demande, déposée avant l'expiration du délai de déclaration, par laquelle il a sollicité de l'administration, de manière précise et complète, une prise de position sur la question sans obtenir de réponse ;
 
-2° L'administration n'a pas formellement pris position sur  la question avant l'expiration du délai de déclaration.
+2° L'administration n'a pas formellement pris position sur la question avant l'expiration du délai de déclaration.
+
+2 ter. Si la cause du rehaussement poursuivi par l'administration est un différend sur la valeur locative des biens mentionnés au I de l'article 1496 et à l'article 1498 et s'il est démontré, d'une part, que le contribuable de bonne foi a acquitté l'imposition sur la base du rôle établi par l'administration et, d'autre part, que celui-ci ne résultait ni d'un défaut ni d'une inexactitude de déclaration.
 
 3. Sauf manquement délibéré, lorsque l'insuffisance des chiffres déclarés, appréciée pour chaque bien, n'excède pas le dixième de la base d'imposition en ce qui concerne les droits d'enregistrement ou la taxe de publicité foncière ;
 

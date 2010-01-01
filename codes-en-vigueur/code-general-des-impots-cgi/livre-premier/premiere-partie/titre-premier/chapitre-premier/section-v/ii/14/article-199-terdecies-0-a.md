@@ -30,7 +30,7 @@ Le montant de la souscription réalisée par le contribuable est pris en compte,
 
 La réduction d'impôt sur le revenu est accordée au titre de l'année de la clôture de l'exercice de la société mentionnée au premier alinéa au cours duquel le contribuable a procédé à la souscription.
 
-II. Les versements ouvrant droit à la réduction d'impôt mentionnée au I sont ceux effectués jusqu'au 31 décembre 2010. Ils sont retenus dans la limite annuelle de 20 000 euros pour les contribuables célibataires, veufs ou divorcés et de 40 000 euros pour les contribuables mariés soumis à imposition commune.
+II. Les versements ouvrant droit à la réduction d'impôt mentionnée au I sont ceux effectués jusqu'au 31 décembre 2012. Ils sont retenus dans la limite annuelle de 20 000 euros pour les contribuables célibataires, veufs ou divorcés et de 40 000 euros pour les contribuables mariés soumis à imposition commune.
 
 La fraction d'une année excédant, le cas échéant, les limites mentionnées au premier alinéa ouvre droit à la réduction d'impôt dans les mêmes conditions au titre des quatre années suivantes.
 
@@ -58,7 +58,9 @@ VI. 1. Les contribuables domiciliés fiscalement en France peuvent bénéficier 
 
 a. les personnes physiques prennent l'engagement de conserver les parts de fonds, pendant cinq ans au moins à compter de leur souscription ;
 
-b. le porteur de parts, son conjoint et leurs ascendants et descendants ne doivent pas détenir ensemble plus de 10 % des parts du fonds et, directement ou indirectement, plus de 25 % des droits dans les bénéfices des sociétés dont les titres figurent à l'actif du fonds ou avoir détenu ce montant à un moment quelconque au cours des cinq années précédant la souscription des parts du fonds ou l'apport des titres.
+b. le porteur de parts, son conjoint et leurs ascendants et descendants ne doivent pas détenir ensemble plus de 10 % des parts du fonds et, directement ou indirectement, plus de 25 % des droits dans les bénéfices des sociétés dont les titres figurent à l'actif du fonds ou avoir détenu ce montant à un moment quelconque au cours des cinq années précédant la souscription des parts du fonds ou l'apport des titres ;
+
+c) Par dérogation aux dispositions du dernier alinéa du I de l'article L. 214-41 du code monétaire et financier, si le fonds n'a pas pour objet d'investir plus de 50 % de son actif au capital de jeunes entreprises innovantes définies à l'article 44 sexies-0 A, le quota d'investissement de 60 % prévu à ce même I doit être atteint à hauteur de 50 % au moins au plus tard huit mois à compter de la date de clôture de la période de souscription fixée dans le prospectus complet du fonds, laquelle ne peut excéder huit mois à compter de la date de constitution du fonds, ou huit mois après la promulgation de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 et à hauteur de 100 % au plus tard le dernier jour du huitième mois suivant.
 
 2. Les versements ouvrant droit à la réduction d'impôt mentionnée au 1 sont ceux effectués jusqu'au 31 décembre 2010. Les versements sont retenus dans les limites annuelles de 12 000 euros pour les contribuables célibataires, veufs ou divorcés et de 24 000 euros pour les contribuables mariés soumis à imposition commune.
 
@@ -70,7 +72,7 @@ Les présentes dispositions ne s'appliquent pas aux parts de fonds d'investissem
 
 VI ter.-A compter de l'imposition des revenus de 2007, les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 50 % des souscriptions en numéraire de parts de fonds d'investissement de proximité, mentionnés à l'article L. 214-41-1 du code monétaire et financier, dont l'actif est constitué pour 60 % au moins de valeurs mobilières, parts de société à responsabilité limitée et avances en compte courant émises par des sociétés qui exercent leurs activités exclusivement dans des établissements situés en Corse.
 
-Les dispositions des a et b du 1 et du 3 du VI sont applicables.
+Les dispositions des a à c du 1 et du 3 du VI sont applicables.
 
 Les versements ouvrant droit à réduction d'impôt sont ceux effectués jusqu'au 31 décembre 2010. Ils sont retenus dans les limites annuelles de 12 000 euros pour les contribuables célibataires, veufs ou divorcés et de 24 000 euros pour les contribuables mariés soumis à imposition commune. Les réductions d'impôts prévues aux VI, VI bis et au présent VI ter sont exclusives les unes des autres pour les souscriptions dans un même fonds. Les présentes dispositions ne s'appliquent pas aux parts de fonds d'investissement de proximité donnant lieu à des droits différents sur l'actif net ou sur les produits du fonds, attribuées en fonction de la qualité de la personne.
 

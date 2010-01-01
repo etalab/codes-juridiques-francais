@@ -12,7 +12,7 @@ Pour les exploitations agricoles à responsabilité limitée qui n'ont pas opté
 
 La déduction pour aléas s'exerce à la condition que, dans les trois mois de la clôture de l'exercice, l'exploitant ait inscrit à un compte d'affectation ouvert auprès d'un établissement de crédit une somme provenant des recettes de l'exploitation de cet exercice égale au montant de la déduction.L'épargne professionnelle ainsi constituée doit être inscrite à l'actif du bilan de l'exploitation. Les intérêts produits par cette épargne professionnelle et qui sont capitalisés dans le compte d'affectation ne sont pas soumis à l'impôt.
 
-La déduction est pratiquée après application          des abattements prévus aux articles 44 quaterdecies et 73 B et de la déduction pour investissement prévue à l'article 72 D.
+La déduction est pratiquée après application des abattements prévus aux articles 44 quaterdecies et 73 B et de la déduction pour investissement prévue à l'article 72 D.
 
 Les sommes déduites et leurs intérêts capitalisés non soumis à l'impôt peuvent être utilisés au cours des dix exercices qui suivent celui de leur inscription au compte d'affectation :
 
@@ -20,13 +20,15 @@ a) Au titre de chaque exercice, dans la limite des cotisations et primes réglé
 
 b) Au titre de l'exercice de survenance d'un incendie ou d'un dommage aux cultures ou de perte du bétail assuré, dans la limite des franchises ;
 
-c) Au titre de l'exercice de survenance d'un aléa non assuré d'origine climatique, naturelle ou sanitaire, reconnu par une autorité administrative compétente, ou déclaré par l'exploitant lorsque la différence positive entre la moyenne des chiffres d'affaires hors taxes des trois exercices précédents et le chiffre d'affaires hors taxes de l'exercice, réalisé dans des conditions comparables, excède 10 % de cette moyenne, dans la limite de cette différence.
+c) Au titre de l'exercice de survenance d'un aléa non assuré d'origine climatique, naturelle ou sanitaire, reconnu par une autorité administrative compétente, ou déclaré par l'exploitant lorsque la différence positive entre la moyenne des chiffres d'affaires hors taxes des trois exercices précédents et le chiffre d'affaires hors taxes de l'exercice, réalisé dans des conditions comparables, excède 10 % de cette moyenne, dans la limite de cette différence ;
+
+d) Au titre de l'exercice de survenance d'un aléa d'origine économique lorsque la différence positive entre la moyenne des valeurs ajoutées des trois exercices précédents et la valeur ajoutée de l'exercice, réalisée dans des conditions comparables, excède 10 % de cette moyenne, dans la limite de cette différence. Pour l'application du présent d, la valeur ajoutée s'entend de la différence entre d'une part, la somme hors taxes, des ventes, des variations d'inventaire, de la production immobilisée et autoconsommée et des indemnités et subventions d'exploitation et, d'autre part, la somme hors taxes et sous déduction des transferts de charges d'exploitation affectés, du coût d'achat des marchandises vendues et de la consommation de l'exercice en provenance de tiers.
 
 Les sommes et intérêts ainsi utilisés sont rapportés au résultat de l'exercice au cours duquel leur retrait du compte est intervenu.
 
 Lorsque ces sommes et intérêts ne sont pas utilisés au cours des dix exercices qui suivent celui de leur inscription au compte, ils sont rapportés aux résultats du dixième exercice suivant celui au titre duquel ils ont été inscrits.
 
-Lorsque ces sommes et intérêts sont prélevés dans des cas autres que ceux mentionnés aux a à c au cours des dix exercices qui suivent celui de leur inscription, ils sont rapportés au résultat de l'exercice au cours duquel ce prélèvement a été effectué et majorés d'un montant égal au produit de ces sommes et intérêts par le taux de l'intérêt de retard prévu à l'article 1727.
+Lorsque ces sommes et intérêts sont prélevés dans des cas autres que ceux mentionnés aux a à d au cours des dix exercices qui suivent celui de leur inscription, ils sont rapportés au résultat de l'exercice au cours duquel ce prélèvement a été effectué et majorés d'un montant égal au produit de ces sommes et intérêts par le taux de l'intérêt de retard prévu à l'article 1727.
 
 II.-L'apport d'une exploitation individuelle dans les conditions visées au I de l'article 151 octies, à une société civile agricole par un exploitant agricole qui a pratiqué la déduction au titre d'un exercice précédant celui de l'apport n'est pas considéré pour l'application du I comme une cessation d'activité si la société bénéficiaire de l'apport en remplit les conditions et s'engage à utiliser les sommes déposées sur le compte au cours des dix exercices qui suivent celui au titre duquel la déduction correspondante a été pratiquée.
 

@@ -4,11 +4,13 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 50 % en ce qui 
 
 a. Les prestations relatives :
 
-à la fourniture de logement et aux trois quarts du prix de pension ou de demi-pension dans les établissements d'hébergement ; ce taux s'applique aux locations meublées dans les mêmes conditions que pour les établissements d'hébergement ;
+A la fourniture de logement et aux trois quarts du prix de pension ou de demi-pension dans les établissements d'hébergement ; ce taux s'applique aux locations meublées dans les mêmes conditions que pour les établissements d'hébergement ;
 
 A la fourniture de logement et de nourriture dans les maisons de retraite et les établissements accueillant des personnes handicapées. Ce taux s'applique également aux prestations exclusivement liées, d'une part, à l'état de dépendance des personnes âgées et, d'autre part, aux besoins d'aide des personnes handicapées, hébergées dans ces établissements et qui sont dans l'incapacité d'accomplir les gestes essentiels de la vie quotidienne ;
 
-à la fourniture de logement dans les terrains de camping classés, lorsque l'exploitant du terrain de camping délivre une note dans les conditions fixées au a ter, assure l'accueil et consacre 1, 5 % de son chiffre d'affaires total hors taxes à des dépenses de publicité, ou si l'hébergement est assuré par un tiers lorsque celui-ci consacre 1, 5 % de son chiffre d'affaires total en France à la publicité ;
+A la fourniture de logement dans les terrains de camping classés, lorsque l'exploitant du terrain de camping délivre une note dans les conditions fixées au a ter, assure l'accueil et consacre 1, 5 % de son chiffre d'affaires total hors taxes à des dépenses de publicité, ou si l'hébergement est assuré par un tiers lorsque celui-ci consacre 1, 5 % de son chiffre d'affaires total en France à la publicité ;
+
+A la fourniture de logement et de nourriture dans les lieux de vie et d'accueil mentionnés au III de l'article L. 312-1 du code de l'action sociale et des familles ;
 
 a bis. Les recettes provenant de la fourniture des repas dans les cantines d'entreprises et répondant aux conditions qui sont fixées par décret ;
 
@@ -30,16 +32,13 @@ théâtres de chansonniers ;
 
 cirques ;
 
-concerts, à l'exception de ceux qui sont donnés dans des établissements où il est d'usage de consommer pendant les séances. Toutefois, si les consommations sont servies facultativement pendant le spectacle et à la condition que l'exploitant soit titulaire de la licence d'entrepreneur de spectacle de la catégorie mentionnée au
-1° de l'article D. 7122-1 du code du travail
-, le taux réduit s'applique au prix du billet donnant exclusivement accès au concert ;
+concerts, à l'exception de ceux qui sont donnés dans des établissements où il est d'usage de consommer pendant les séances. Toutefois, si les consommations sont servies facultativement pendant le spectacle et à la condition que l'exploitant soit titulaire de la licence d'entrepreneur de spectacle de la catégorie mentionnée au 1° de l'article D. 7122-1 du code du travail, le taux réduit s'applique au prix du billet donnant exclusivement accès au concert ;
 
 spectacles de variétés, à l'exception de ceux qui sont donnés dans les établissements où il est d'usage de consommer pendant les séances ;
 
 foires, salons, expositions autorisés ;
 
-jeux et manèges forains à l'exception des appareils automatiques autres que ceux qui sont assimilés à des loteries foraines en application de l'article 7 de la loi du 21 mai 1836
-portant prohibition des loteries ;
+jeux et manèges forains à l'exception des appareils automatiques autres que ceux qui sont assimilés à des loteries foraines en application de l'article 7 de la loi du 21 mai 1836 portant prohibition des loteries ;
 
 b bis a. (abrogé)
 
@@ -55,11 +54,9 @@ b septies. les travaux sylvicoles et d'exploitation forestière réalisés au pr
 
 b octies. les abonnements souscrits par les usagers afin de recevoir :
 
-1° les services de télévision prévus à l'article 79 de la loi n° 82-652 du 29 juillet 1982
-sur la communication audiovisuelle ;
+1° les services de télévision prévus à l'article 79 de la loi n° 82-652 du 29 juillet 1982 sur la communication audiovisuelle ;
 
-2° les services de télévision prévus à l'article 1er de la loi n° 84-743 du 1er août 1984
-relative à l'exploitation des services de radiotélévision mis à la disposition du public sur un réseau câblé ;
+2° les services de télévision prévus à l'article 1er de la loi n° 84-743 du 1er août 1984 relative à l'exploitation des services de radiotélévision mis à la disposition du public sur un réseau câblé ;
 
 3° les services autorisés de télévision par voie hertzienne et les services de télévision mis à la disposition du public sur un réseau de communications électroniques prévus par les chapitres 1er et 2 du titre II de la loi n° 86-1067 du 30 septembre 1986 modifiée relative à la liberté de la communication. Lorsque ces services sont compris dans une offre composite pour un prix forfaitaire comprenant d'autres services fournis par voie électronique, le taux réduit s'applique à hauteur de 50 % de ce prix ;
 
@@ -91,4 +88,4 @@ k. Les remboursements et les rémunérations versés par les communes ou leurs g
 
 l. Les remboursements et les rémunérations versés par les communes ou leurs groupements aux exploitants assurant les prestations de déneigement des voies publiques lorsqu'elles se rattachent à un service public de voirie communale ;
 
-m. Les ventes à consommer sur place, à l'exclusion de celles relatives aux boissons alcooliques (1).
+m. Les ventes à consommer sur place, à l'exclusion de celles relatives aux boissons alcooliques.

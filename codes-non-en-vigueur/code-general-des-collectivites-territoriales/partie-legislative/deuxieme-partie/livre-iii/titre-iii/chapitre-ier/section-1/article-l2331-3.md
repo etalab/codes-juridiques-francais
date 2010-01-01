@@ -12,7 +12,9 @@ a) Le produit des impôts et taxes dont l'assiette et le recouvrement ont lieu d
 
 4° Le produit de la surtaxe sur les eaux minérales ;
 
-5° Le produit de la taxe sur les jeux de boules et de quilles comportant des dispositifs électromécaniques.
+5° Le produit de la taxe sur les jeux de boules et de quilles comportant des dispositifs électromécaniques ;
+
+6° Le produit de la taxe sur les surfaces commerciales ;
 
 b) Les recettes suivantes :
 

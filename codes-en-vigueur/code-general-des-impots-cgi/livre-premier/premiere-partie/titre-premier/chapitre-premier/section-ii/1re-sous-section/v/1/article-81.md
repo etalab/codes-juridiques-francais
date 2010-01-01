@@ -26,7 +26,7 @@ b.L'allocation de reconnaissance prévue aux I et I bis de l'article 47 de la lo
 
 7° Les traitements attachés à la légion d'honneur et à la médaille militaire ;
 
-8° Les indemnités temporaires, prestations et rentes viagères servies aux victimes d'accidents du travail ou à leurs ayants droit ;
+8° Les indemnités temporaires, à hauteur de 50 % de leur montant, ainsi que les prestations et rentes viagères, servies aux victimes d'accidents du travail ou à leurs ayants droit (2) ;
 
 9° Les allocations, indemnités et prestations servies, sous quelque forme que ce soit, par l'Etat, les collectivités et les établissements publics, en application des lois et décrets d'assistance et d'assurance ;
 
@@ -113,7 +113,7 @@ d. (disjoint) ;
 
 21° (Abrogé) ;
 
-22° Les indemnités de départ en retraite, prévues à l'article L. 1237-9 du code du travail dans la limite de 3 050 euros ;
+22° (Abrogé) (3)
 
 23° L'indemnité compensatoire pour frais de transport attribuée aux magistrats, militaires, fonctionnaires et agents de la fonction publique de l'Etat, aux fonctionnaires et agents de la fonction publique hospitalière, aux fonctionnaires et agents des collectivités territoriales et de leurs établissements publics et aux agents de droit public de La Poste et de France Télécom en service dans les départements de la Haute-Corse et de la Corse-du-Sud ;
 
@@ -149,4 +149,6 @@ d. (disjoint) ;
 
 36° Sur option des bénéficiaires, dans le cadre d'une déclaration des revenus personnelle ou de celle du foyer fiscal de rattachement, les salaires versés aux personnes âgées de vingt-cinq ans au plus au 1er janvier de l'année d'imposition, à l'exception des agents publics percevant une rémunération dans le cadre de leur formation, en rémunération d'activités exercées pendant leurs études, secondaires ou supérieures, ou exercées durant leurs congés scolaires ou universitaires, dans la limite de trois fois le montant mensuel du salaire minimum de croissance ;
 
-37° L'aide financière mentionnée aux articles L. 7233-4 et L. 7233-5 du code du travail.
+37° L'aide financière mentionnée aux articles L. 7233-4 et L. 7233-5 du code du travail ;
+
+38° Le revenu supplémentaire temporaire d'activité versé, en application du décret n° 2009-602 du 27 mai 2009 relatif au revenu supplémentaire temporaire d'activité, dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de La Réunion (1).

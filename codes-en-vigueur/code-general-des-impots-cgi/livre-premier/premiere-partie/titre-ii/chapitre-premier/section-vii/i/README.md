@@ -9,3 +9,4 @@
 - [A  quater : Tenue des registres](a-quater)
 - [B : Déclarations de recettes](b)
 - [E : Etat récapitulatif des clients](e)
+- [G : Demande de remboursement de la taxe sur la valeur ajoutée supportée dans un autre Etat membre](g)

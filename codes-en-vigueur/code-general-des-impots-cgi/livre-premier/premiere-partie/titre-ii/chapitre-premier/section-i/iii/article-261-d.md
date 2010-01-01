@@ -12,7 +12,7 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
 Toutefois, l'exonération ne s'applique pas :
 
-a. Aux prestations d'hébergement fournies dans les hôtels de tourisme classés, les villages de vacances classés ou agréés et les résidences de tourisme classées lorsque ces dernières sont destinées à l'hébergement des touristes et qu'elles sont louées par un contrat d'une durée d'au moins neuf ans à un exploitant qui a souscrit un engagement de promotion touristique à l'étranger dans les conditions fixées par un décret en Conseil d'Etat ;
+a. Aux prestations d'hébergement fournies dans les hôtels de tourisme classés, les villages de vacances classés ou agréés et les résidences de tourisme classées lorsque ces dernières sont destinées à l'hébergement des touristes et qu'elles sont louées par un contrat d'une durée d'au moins neuf ans à un  ou plusieurs exploitants qui ont souscrit un engagement de promotion touristique à l'étranger dans les conditions fixées par un décret en Conseil d'Etat ;
 
 b. Aux prestations de mise à disposition d'un local meublé ou garni effectuées à titre onéreux et de manière habituelle, comportant en sus de l'hébergement au moins trois des prestations suivantes, rendues dans des conditions similaires à celles proposées par les établissements d'hébergement à caractère hôtelier exploités de manière professionnelle : le petit déjeuner, le nettoyage régulier des locaux, la fourniture de linge de maison et la réception, même non personnalisée, de la clientèle.
 

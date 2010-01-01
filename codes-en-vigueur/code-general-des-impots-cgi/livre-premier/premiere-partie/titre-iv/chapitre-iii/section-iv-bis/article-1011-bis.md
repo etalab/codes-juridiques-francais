@@ -123,7 +123,7 @@ a) Pour les voitures particulières mentionnées au a du II :
 <p align="center">0 </p>
 </td>
 <td align="center">
-<p align="center">0 </p>
+<p align="center">200 </p>
 </td>
 <td align="center">
 <p align="center">
@@ -149,7 +149,7 @@ a) Pour les voitures particulières mentionnées au a du II :
 </td>
 <td align="center">
 <p align="center">
-<br/>200 <br/>
+<br/>750 <br/>
 </p>
 </td>
 <td align="center">
@@ -227,7 +227,7 @@ a) Pour les voitures particulières mentionnées au a du II :
 <p align="center">750 </p>
 </td>
 <td align="center">
-<p align="center">750 </p>
+<p align="center">1600 </p>
 </td>
 <td align="center">
 <p align="center">1 600 </p>
@@ -267,7 +267,7 @@ a) Pour les voitures particulières mentionnées au a du II :
 <br/>1 600 <br/>
 </td>
 <td align="center">1 600 </td>
-<td align="center">1 600 </td>
+<td align="center">2 600 </td>
 <td align="center">2 600 </td>
 </tr>
 <tr>
@@ -351,7 +351,7 @@ b) Pour les voitures particulières mentionnées au b du II :
 </tbody>
 </table>
 
-Pour les véhicules introduits en France après avoir été immatriculés dans un autre pays, la taxe est réduite d'un dixième par année écoulée depuis cette immatriculation.
+Pour les véhicules introduits en France après avoir été immatriculés dans un autre pays, la taxe est réduite d'un dixième par année entamée depuis cette immatriculation.
 
 Les véhicules spécialement équipés pour fonctionner au moyen du superéthanol E85 mentionné au tableau B du 1 de l'article 265 du code des douanes bénéficient d'un abattement de 40 % sur les taux d'émissions de dioxyde de carbone, au sens de la directive 70 / 156 / CEE du Conseil, du 6 février 1970, concernant le rapprochement des législations des Etats membres relatives à la réception des véhicules à moteur et de leurs remorques, figurant dans le tableau mentionné au a. Cet abattement ne s'applique pas aux véhicules dont les émissions de dioxyde de carbone sont supérieures à 250 grammes par kilomètre.
 

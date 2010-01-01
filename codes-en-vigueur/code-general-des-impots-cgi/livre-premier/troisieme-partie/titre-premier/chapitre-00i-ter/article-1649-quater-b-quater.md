@@ -25,3 +25,7 @@ II. - Les déclarations de bénéfices industriels et commerciaux, de bénéfice
 III. - Les déclarations de taxe sur la valeur ajoutée et leurs annexes, ainsi que celles des taxes assimilées aux taxes sur le chiffre d'affaires sont souscrites par voie électronique, lorsque le chiffre d'affaires ou les recettes réalisés par le redevable au titre de l'exercice précédent est supérieur à 760 000 d'euros hors taxes.
 
 Cette obligation s'applique également aux redevables définis aux deuxième à dixième alinéas du I.
+
+IV. - Les déclarations de cotisation sur la valeur ajoutée des entreprises et leurs annexes sont obligatoirement souscrites par voie électronique lorsque le chiffre d'affaires de l'entreprise redevable est supérieur à 500 000 euros.
+
+IV. - L'état récapitulatif mentionné au III de l'article 289 B est souscrit par voie électronique. Toutefois, les assujettis bénéficiant du régime visé à l'article 293 B peuvent le déposer sur support papier.
