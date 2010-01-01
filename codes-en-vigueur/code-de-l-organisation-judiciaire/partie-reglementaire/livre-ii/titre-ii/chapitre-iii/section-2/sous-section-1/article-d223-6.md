@@ -1,6 +1,6 @@
 # Article D223-6
 
-Les tribunaux d'instance disposent d'un effectif propre de juges du livre foncier.
+Le tribunal d'instance au siège duquel est situé le bureau foncier dispose d'un effectif propre de juges du livre foncier.
 
 Le bureau foncier est tenu par un juge du livre foncier.
 
