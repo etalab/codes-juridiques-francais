@@ -12,7 +12,7 @@ Bordeaux : Dordogne, Gironde, Lot-et-Garonne ;
 
 Caen : Calvados, Manche, Orne ;
 
-Cergy-Pontoise : Val-d'Oise ;
+Cergy-Pontoise : Hauts-de-Seine, Val-d'Oise ;
 
 Châlons-en-Champagne : Ardennes, Aube, Marne, Haute-Marne ;
 
@@ -62,7 +62,7 @@ Toulon : Var ;
 
 Toulouse : Ariège, Aveyron, Haute-Garonne, Lot, Tarn, Tarn-et-Garonne ;
 
-Versailles : Essonne, Hauts-de-Seine, Yvelines ;
+Versailles : Essonne, Yvelines ;
 
 Basse-Terre : Guadeloupe ;
 
