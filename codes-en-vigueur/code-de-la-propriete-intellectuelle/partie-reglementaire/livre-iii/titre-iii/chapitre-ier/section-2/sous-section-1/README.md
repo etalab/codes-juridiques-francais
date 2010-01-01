@@ -1,7 +1,11 @@
-# Sous-section 1 : Organisation et fonctionnement de l'Autorité de régulation des mesures techniques
+# Sous-section 1 : Organisation de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet
 
-- [Article Annexe art. D331-9-1](article-annexe-art-d331-9-1.md)
-- [Article D331-9-1](article-d331-9-1.md)
+- [Paragraphe 1 : Le collège de la Haute Autorité](paragraphe-1)
+- [Paragraphe 2 : La commission de protection des droits](paragraphe-2)
+- [Paragraphe 3 : Le président et le secrétaire général de la Haute Autorité](paragraphe-3)
+- [Paragraphe 4 : Dispositions relatives au personnel](paragraphe-4)
+- [Paragraphe 5 : Dispositions financières et comptables](paragraphe-5)
+- [Paragraphe 6 : Dispositions diverses](paragraphe-6)
 - [Article R331-3](article-r331-3.md)
 - [Article R331-4](article-r331-4.md)
 - [Article R331-5](article-r331-5.md)

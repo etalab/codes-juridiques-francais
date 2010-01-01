@@ -7,6 +7,3 @@
 - [Article R331-32](article-r331-32.md)
 - [Article R331-33](article-r331-33.md)
 - [Article R331-34](article-r331-34.md)
-- [Article R331-35](article-r331-35.md)
-- [Article R331-36](article-r331-36.md)
-- [Article R331-37](article-r331-37.md)
