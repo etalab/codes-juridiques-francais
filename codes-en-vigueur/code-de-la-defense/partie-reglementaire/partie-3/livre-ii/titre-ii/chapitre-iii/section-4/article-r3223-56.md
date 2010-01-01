@@ -2,7 +2,7 @@
 
 Les services de la marine nationale sont :
 
-1° Le service du commissariat de la marine ;
+1° (Supprimé) ;
 
 2° Le service de soutien de la flotte ;
 

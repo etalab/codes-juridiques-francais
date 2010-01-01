@@ -20,4 +20,4 @@ Sont convoqués par le président en fonction de l'ordre du jour des séances, a
 
 ― des représentants des organisations professionnelles mentionnées au dernier alinéa de l'article R. 2234-96.
 
-Le secrétariat du comité est assuré par la direction centrale du commissariat de l'armée de terre.
+Le secrétariat du comité est assuré par la direction centrale du service du commissariat des armées.
