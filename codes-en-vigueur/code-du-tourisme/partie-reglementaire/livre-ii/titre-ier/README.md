@@ -2,5 +2,3 @@
 
 - [Chapitre Ier : Dispositions communes.](chapitre-ier)
 - [Chapitre unique : Régime de la vente de voyages et de séjours.](chapitre-unique)
-- [Chapitre II : Licence d'agent de voyages.](chapitre-ii)
-- [Chapitre III : Autres régimes de vente de voyages et de séjours.](chapitre-iii)

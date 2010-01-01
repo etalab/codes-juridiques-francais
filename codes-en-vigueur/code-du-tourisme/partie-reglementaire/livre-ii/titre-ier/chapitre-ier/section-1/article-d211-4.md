@@ -1,3 +1,0 @@
-# Article D211-4
-
-Dans le délai de deux mois suivant la délivrance de l'autorisation tacite, le préfet procède à l'affichage dans les locaux de la préfecture du département d'un avis informant les tiers de la nature de l'autorisation, de l'identité du titulaire et de l'adresse du siège de l'entreprise s'il s'agit d'une personne physique ou, s'il s'agit d'une personne morale, de la dénomination et de la raison sociale, de la forme juridique et de l'adresse du siège social. Dans le même délai, le préfet adresse au demandeur un courrier lui indiquant le numéro de licence, d'agrément, d'autorisation ou d'habilitation qui lui a été accordé.

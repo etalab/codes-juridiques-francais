@@ -1,4 +1,5 @@
-# Chapitre Ier : Exploitation de voitures de tourisme de luxe dites de grande remise.
+# Chapitre Ier : Transport par voitures de tourisme avec chauffeur.
 
 - [Section 1 : Dispositions générales.](section-1)
-- [Section 2 : Procédure d'attribution.](section-2)
+- [Section 2 : Exploitation de voitures de tourisme avec chauffeur.](section-2)
+- [Section 4 : Sanctions.](section-4)

@@ -1,5 +1,4 @@
-# Section 2 : Procédure d'attribution.
+# Section 2 : Exploitation de voitures de tourisme avec chauffeur.
 
-- [Article R231-7](article-r231-7.md)
-- [Article R231-8](article-r231-8.md)
-- [Article R231-9](article-r231-9.md)
+- [Sous-section 1 : Procédure d'immatriculation des entreprises touristiques de transport avec chauffeur.](sous-section-1)
+- [Sous-section 2 : Radiation.](sous-section-2)
