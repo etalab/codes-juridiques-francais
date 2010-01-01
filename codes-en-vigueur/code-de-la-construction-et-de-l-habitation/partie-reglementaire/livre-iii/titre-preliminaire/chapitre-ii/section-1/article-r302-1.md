@@ -6,4 +6,4 @@ Le programme local de l'habitat comprend, pour l'ensemble des communes membres d
 
 - un document d'orientation comprenant l'énoncé des principes et objectifs du programme ;
 
-- un programme d'actions détaillé pour l'ensemble du territoire auquel il s'applique et pour chaque secteur géographique défini à l'intérieur de celui-ci.
+- un programme d'actions détaillé pour l'ensemble du territoire auquel il s'applique et pour chaque commune et, le cas échéant, secteur géographique défini à l'intérieur de celui-ci.

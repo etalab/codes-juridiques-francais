@@ -8,10 +8,10 @@ b) Les principes retenus pour répondre aux besoins et, notamment, à ceux des p
 
 c) Les axes principaux susceptibles de guider les politiques d'attribution des logements locatifs sociaux ;
 
-d) Les secteurs géographiques et les catégories de logements sur lesquels des interventions publiques sont nécessaires ;
+d) Les communes et, le cas échéant, secteurs géographiques et les catégories de logements sur lesquels des interventions publiques sont nécessaires ;
 
-e) La politique envisagée en matière de requalification du parc public et privé existant, de lutte contre l'habitat indigne et de renouvellement urbain, en particulier les actions de rénovation urbaine au sens du chapitre II de la loi n° 2003-710 du 1er août 2003 ;
+e) La politique envisagée en matière de requalification du parc public et privé existant, de lutte contre l'habitat indigne et de renouvellement urbain, en particulier les actions de rénovation urbaine au sens du chapitre II de la loi n° 2003-710 du 1er août 2003 et les actions de requalification des quartiers anciens dégradés au sens de l'article 25 de la loi n° 2009-323 du 25 mars 2009 de mobilisation pour le logement et la lutte contre l'exclusion ;
 
 f) Les principaux axes d'une politique d'adaptation de l'habitat en faveur des personnes âgées et handicapées ;
 
-g) Les réponses apportées aux besoins particuliers de logement des étudiants.
+g) Les réponses apportées aux besoins particuliers de logement des jeunes, et notamment des étudiants.
