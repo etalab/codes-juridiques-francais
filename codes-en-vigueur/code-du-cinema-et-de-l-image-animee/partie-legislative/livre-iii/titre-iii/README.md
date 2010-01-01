@@ -5,5 +5,5 @@
 - [Chapitre III : Déductions fiscales et réductions d'impôt
 au titre des investissements outre-mer](chapitre-iii)
 - [Chapitre IV : Taxe sur la valeur ajoutée](chapitre-iv)
-- [Chapitre V : Taxe professionnelle](chapitre-v)
+- [Chapitre V : Contribution économique territoriale](chapitre-v)
 - [Chapitre VI : Dispositions diverses](chapitre-vi)
