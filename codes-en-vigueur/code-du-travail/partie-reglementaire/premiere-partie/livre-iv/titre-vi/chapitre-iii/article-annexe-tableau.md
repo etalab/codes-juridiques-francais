@@ -1,6 +1,8 @@
 # Article Annexe Tableau
 
-TABLEAU A
+TABLEAU B
+
+EN VIGUEUR AU 1er JANVIER 2010
 
 SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 
@@ -8,15 +10,13 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <tbody>
 <tr>
 <td align="left" rowspan="2" valign="top">
-<p align="center">DÉPARTEMENT</p>
+<p align="center">DÉPARTEMENT </p>
 </td>
 <td align="left" rowspan="2" valign="top">
-<p align="center">TRIBUNAL<br/>de grande instance <br/>
-</p>
+<p align="center">TRIBUNAL<br/>de grande instance </p>
 </td>
 <td align="left" colspan="2" valign="top">
-<p align="center">SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES <br/>
-</p>
+<p align="center">SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal de grande instance de Cahors <br/>
+<p>Ressort du tribunal de grande instance de Cahors. <br/>
 </p>
 </td>
 </tr>
@@ -89,9 +89,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Marmande <br/>
 </p>
@@ -148,12 +146,8 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Grasse <br/>
 </p>
@@ -164,9 +158,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Nice <br/>
 </p>
@@ -199,12 +191,8 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Martigues <br/>
 </p>
@@ -215,9 +203,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Marseille <br/>
 </p>
@@ -232,9 +218,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Tarascon <br/>
 </p>
@@ -267,12 +251,8 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Fréjus <br/>
 </p>
@@ -283,9 +263,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Toulon <br/>
 </p>
@@ -324,9 +302,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Saint-Quentin <br/>
 </p>
@@ -341,9 +317,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Soissons <br/>
 </p>
@@ -376,9 +350,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Compiègne <br/>
 </p>
@@ -393,9 +365,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Senlis <br/>
 </p>
@@ -428,9 +398,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Amiens <br/>
 </p>
@@ -445,9 +413,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Péronne <br/>
 </p>
@@ -486,9 +452,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Saumur <br/>
 </p>
@@ -623,9 +587,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Montbéliard <br/>
 </p>
@@ -658,9 +620,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Lons-le-Saunier <br/>
 </p>
@@ -693,9 +653,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Vesoul <br/>
 </p>
@@ -752,9 +710,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Périgueux <br/>
 </p>
@@ -787,9 +743,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Libourne <br/>
 </p>
@@ -888,9 +842,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Lisieux <br/>
 </p>
@@ -923,9 +875,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Cherbourg <br/>
 </p>
@@ -940,9 +890,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Coutances <br/>
 </p>
@@ -975,9 +923,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Argentan <br/>
 </p>
@@ -1016,9 +962,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Chambéry <br/>
 </p>
@@ -1028,23 +972,19 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance d'Aix-les-Bains. <br/>
+<p>Cantons d'Aix-les-Bains-Centre, Aix-les-Bains-Nord-Grésy, Aix-les-Bains-Sud, Albens, Le Châtelard, Ruffieux et Yenne. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Chambéry <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Chambéry. <br/>
+<p>Ressort du tribunal d'instance de Chambéry, à l'exception des cantons d'Aix-les-Bains-Centre, Aix-les-Bains-Nord-Grésy, Aix-les-Bains-Sud, Albens, Le Châtelard, Ruffieux et Yenne. <br/>
 </p>
 </td>
 </tr>
@@ -1067,9 +1007,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Bonneville <br/>
 </p>
@@ -1084,9 +1022,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Thonon-les-Bains <br/>
 </p>
@@ -1125,9 +1061,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Strasbourg <br/>
 </p>
@@ -1137,33 +1071,25 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance d'Haguenau et Wissembourg. <br/>
+<p>Ressort du tribunal d'instance d'Haguenau, à l'exception des cantons de Brumath, Hochfelden et Truchtersheim. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Schiltigheim <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Brumath et Schiltigheim. <br/>
+<p>Ressort du tribunal d'instance de Schiltigheim et cantons de Brumath, Hochfelden et Truchtersheim. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Strasbourg <br/>
 </p>
@@ -1192,9 +1118,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Mulhouse <br/>
 </p>
@@ -1269,9 +1193,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Mâcon <br/>
 </p>
@@ -1310,9 +1232,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Cambrai <br/>
 </p>
@@ -1327,9 +1247,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Douai <br/>
 </p>
@@ -1344,9 +1262,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Dunkerque <br/>
 </p>
@@ -1361,9 +1277,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Hazebrouck <br/>
 </p>
@@ -1378,9 +1292,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Lille <br/>
 </p>
@@ -1395,12 +1307,8 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Lille <br/>
 </p>
@@ -1411,12 +1319,8 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Roubaix <br/>
 </p>
@@ -1427,12 +1331,8 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Tourcoing <br/>
 </p>
@@ -1443,9 +1343,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Valenciennes <br/>
 </p>
@@ -1478,9 +1376,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Béthune <br/>
 </p>
@@ -1490,30 +1386,24 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Béthune et Houdain. <br/>
+<p>Ressort du tribunal d'instance de Béthune. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Lens <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Carvin, Lens et Liévin. <br/>
+<p>Ressort du tribunal d'instance de Lens. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Boulogne-sur-Mer <br/>
 </p>
@@ -1528,12 +1418,8 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Calais <br/>
 </p>
@@ -1544,9 +1430,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Saint-Omer <br/>
 </p>
@@ -1598,23 +1482,19 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Montélimar et Nyons. <br/>
+<p>Ressort du tribunal d'instance de Montélimar. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Valence <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Die, Romans-sur-Isère et Valence. <br/>
+<p>Ressort des tribunaux d'instance de Romans-sur-Isère et Valence. <br/>
 </p>
 </td>
 </tr>
@@ -1637,9 +1517,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Grenoble <br/>
 </p>
@@ -1654,9 +1532,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Vienne <br/>
 </p>
@@ -1695,9 +1571,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Tulle <br/>
 </p>
@@ -1772,9 +1646,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Bourg-en-Bresse <br/>
 </p>
@@ -1789,12 +1661,8 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Oyonnax <br/>
 </p>
@@ -1823,9 +1691,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Roanne <br/>
 </p>
@@ -1840,9 +1706,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Saint-Etienne <br/>
 </p>
@@ -1875,9 +1739,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Villefranche-sur-Saône <br/>
 </p>
@@ -1916,9 +1778,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Sarreguemines <br/>
 </p>
@@ -1933,9 +1793,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Thionville <br/>
 </p>
@@ -1974,9 +1832,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Narbonne <br/>
 </p>
@@ -2009,9 +1865,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Rodez <br/>
 </p>
@@ -2044,9 +1898,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Montpellier <br/>
 </p>
@@ -2056,17 +1908,13 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Lodève et Montpellier. <br/>
+<p>Ressort du tribunal d'instance de Montpellier. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Sète <br/>
 </p>
@@ -2075,9 +1923,6 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 <p>Ressort du tribunal d'instance de Sète. <br/>
 </p>
 </td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -2122,9 +1967,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Nancy <br/>
 </p>
@@ -2157,9 +2000,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Verdun <br/>
 </p>
@@ -2192,9 +2033,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Saint-Dié-des-Vosges <br/>
 </p>
@@ -2228,23 +2067,19 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Tournon-sur-Rhône. <br/>
+<p>Ressort du tribunal d'instance d'Annonay. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Aubenas <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Largentière et Privas. <br/>
+<p>Ressort des tribunaux d'instance d'Aubenas et Privas. <br/>
 </p>
 </td>
 </tr>
@@ -2267,9 +2102,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Nîmes <br/>
 </p>
@@ -2320,9 +2153,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Carpentras <br/>
 </p>
@@ -2397,9 +2228,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Orléans <br/>
 </p>
@@ -2438,12 +2267,8 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Longjumeau <br/>
 </p>
@@ -2472,9 +2297,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Meaux <br/>
 </p>
@@ -2489,9 +2312,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Melun <br/>
 </p>
@@ -2537,23 +2358,19 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Charenton-le-Pont, Ivry-sur-Seine, Nogent-sur-Marne, Saint-Maur-des-Fossés, Villejuif et Vincennes, à l'exception des cantons de Choisy-le-Roi et Orly, et de l'emprise de l'aérodrome de Paris-Orly. <br/>
+<p>Ressort des tribunaux d'instance de Charenton-le-Pont, Ivry-sur-Seine, Nogent-sur-Marne, Saint-Maur-des-Fossés et Villejuif, à l'exception des cantons de Choisy-le-Roi et Orly et de l'emprise de l'aérodrome de Paris-Orly. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Villeneuve-Saint-Georges <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Boissy-Saint-Léger, cantons de Choisy-le-Roi et Orly, et l'emprise de l'aérodrome de Paris-Orly. <br/>
+<p>Ressort du tribunal d'instance de Boissy-Saint-Léger, cantons de Choisy-le-Roi et Orly et l'emprise de l'aérodrome de Paris-Orly. <br/>
 </p>
 </td>
 </tr>
@@ -2576,9 +2393,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Sens <br/>
 </p>
@@ -2635,9 +2450,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Mont-de-Marsan <br/>
 </p>
@@ -2670,9 +2483,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Pau <br/>
 </p>
@@ -2729,9 +2540,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Rochefort <br/>
 </p>
@@ -2746,9 +2555,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Saintes <br/>
 </p>
@@ -2781,9 +2588,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Niort <br/>
 </p>
@@ -2816,9 +2621,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Les Sables-d'Olonne <br/>
 </p>
@@ -2906,30 +2709,24 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Châlons-en-Champagne et Vitry-le-François. <br/>
+<p>Ressort du tribunal d'instance de Châlons-en-Champagne, à l'exception des cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Epernay <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance d'Epernay. <br/>
+<p>Cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Reims <br/>
 </p>
@@ -2968,9 +2765,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Guingamp <br/>
 </p>
@@ -2985,9 +2780,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Saint-Brieuc <br/>
 </p>
@@ -3020,9 +2813,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Morlaix <br/>
 </p>
@@ -3037,9 +2828,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Quimper <br/>
 </p>
@@ -3072,9 +2861,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Saint-Malo <br/>
 </p>
@@ -3107,9 +2894,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Saint-Nazaire <br/>
 </p>
@@ -3142,9 +2927,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Vannes <br/>
 </p>
@@ -3160,9 +2943,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>
-<b>Cour d'appel de Riom</b>
-<br/>
+<p>Cour d'appel de Riom <br/>
 </p>
 </td>
 </tr>
@@ -3185,9 +2966,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Montluçon <br/>
 </p>
@@ -3202,9 +2981,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Moulins <br/>
 </p>
@@ -3273,9 +3050,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Riom <br/>
 </p>
@@ -3291,9 +3066,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>
-<b>Cour d'appel de Rouen</b>
-<br/>
+<p>Cour d'appel de Rouen <br/>
 </p>
 </td>
 </tr>
@@ -3316,9 +3089,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Evreux <br/>
 </p>
@@ -3328,23 +3099,19 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance d'Evreux. <br/>
+<p>Ressort du tribunal d'instance d'Evreux, à l'exception des cantons d'Amfreville-la-Campagne, Gaillon, Gaillon-Campagne, Le Neubourg, Louviers-Nord, Louviers-Sud, Pont-de-l'Arche et Val-de-Reuil. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Louviers <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance des Andelys et Louviers. <br/>
+<p>Ressort du tribunal d'instance des Andelys et cantons d'Amfreville-la-Campagne, Gaillon, Gaillon-Campagne, Le Neubourg, Louviers-Nord, Louviers-Sud, Pont-de-l'Arche et Val-de-Reuil. <br/>
 </p>
 </td>
 </tr>
@@ -3367,9 +3134,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Le Havre <br/>
 </p>
@@ -3384,9 +3149,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Rouen <br/>
 </p>
@@ -3402,9 +3165,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>
-<b>Cour d'appel de Toulouse</b>
-<br/>
+<p>Cour d'appel de Toulouse <br/>
 </p>
 </td>
 </tr>
@@ -3445,9 +3206,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Saint-Gaudens <br/>
 </p>
@@ -3480,9 +3239,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Castres <br/>
 </p>
@@ -3516,9 +3273,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>
-<b>Cour d'appel de Versailles</b>
-<br/>
+<p>Cour d'appel de Versailles <br/>
 </p>
 </td>
 </tr>
@@ -3536,33 +3291,25 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance de Chartres et de Nogent-le-Rotrou. <br/>
+<p>Ressort du tribunal d'instance de Chartres, à l'exception des cantons de Bonneval, Brou, Châteaudun, Cloyes-sur-le-Loir et Orgères-en-Beauce. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Châteaudun <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort du tribunal d'instance de Châteaudun. <br/>
+<p>Cantons de Bonneval, Brou, Châteaudun, Cloyes-sur-le-Loir et Orgères-en-Beauce. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Dreux <br/>
 </p>
@@ -3591,18 +3338,14 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Nanterre <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance d'Asnières-sur-Seine, Clichy, Colombes, Courbevoie, Levallois-Perret, Neuilly-sur-Seine et Puteaux. <br/>
+<p>Ressort des tribunaux d'instance d'Asnières-sur-Seine, Colombes, Courbevoie et Puteaux. <br/>
 </p>
 </td>
 </tr>
@@ -3625,28 +3368,20 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Montmorency <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Ressort des tribunaux d'instance d'Ecouen, Gonesse et Montmorency. <br/>
+<p>Ressort des tribunaux d'instance de Gonesse et Montmorency. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Cergy-Pontoise <br/>
 </p>
@@ -3675,12 +3410,8 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Poissy <br/>
 </p>
@@ -3691,12 +3422,8 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Rambouillet <br/>
 </p>
@@ -3707,12 +3434,8 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Saint-Germain-en-Laye <br/>
 </p>
@@ -3723,12 +3446,8 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Versailles <br/>
 </p>
@@ -3740,9 +3459,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>
-<b>Cour d'appel de Basse-Terre</b>
-<br/>
+<p>Cour d'appel de Basse-Terre <br/>
 </p>
 </td>
 </tr>
@@ -3765,9 +3482,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Pointe-à-Pitre <br/>
 </p>
@@ -3825,9 +3540,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>
-<b>Cour d'appel de Saint-Denis de la Réunion <br/>
-</b>
+<p>Cour d'appel de Saint-Denis de la Réunion <br/>
 </p>
 </td>
 </tr>
@@ -3850,9 +3563,7 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p>Saint-Pierre <br/>
 </p>
