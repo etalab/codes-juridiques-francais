@@ -1,6 +1,7 @@
 # Article 18
 
-Pour l'année 2009, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires, pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme suit :
+<div>Pour l'année 2010, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires, pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme suit : <br/>
+<br/>
 
 <table>
 <tbody>
@@ -31,7 +32,7 @@ Pour l'année 2009, les limites de chaque tranche du tarif de la retenue à la s
 <br/>(en euros) <br/>
 </th>
 <th>
-<br/>Jour ou fractions <br/>
+<br/>Jour ou fraction <br/>
 <br/>de jour <br/>
 <br/>(en euros) <br/>
 </th>
@@ -39,19 +40,19 @@ Pour l'année 2009, les limites de chaque tranche du tarif de la retenue à la s
 <tr>
 <td align="center">
 <br/>0 % <br/>
-<br/>Moins de <br/>
+<br/>- moins de... <br/>
 </td>
 <td align="center">
-<br/>13   977 <br/>
+<br/>14   034 <br/>
 </td>
 <td align="center">
-<br/>3   494 <br/>
+<br/>3   509 <br/>
 </td>
 <td align="center">
-<br/>1   165 <br/>
+<br/>1   170 <br/>
 </td>
 <td align="center">
-<br/>269 <br/>
+<br/>270 <br/>
 </td>
 <td align="center">
 <br/>45 <br/>
@@ -60,19 +61,19 @@ Pour l'année 2009, les limites de chaque tranche du tarif de la retenue à la s
 <tr>
 <td align="center">
 <br/>12 % <br/>
-<br/>De <br/>
+<br/>- de... <br/>
 </td>
 <td align="center">
-<br/>13   977 <br/>
+<br/>14   034 <br/>
 </td>
 <td align="center">
-<br/>3   494 <br/>
+<br/>3   509 <br/>
 </td>
 <td align="center">
-<br/>1   165 <br/>
+<br/>1   170 <br/>
 </td>
 <td align="center">
-<br/>269 <br/>
+<br/>270 <br/>
 </td>
 <td align="center">
 <br/>45 <br/>
@@ -80,44 +81,46 @@ Pour l'année 2009, les limites de chaque tranche du tarif de la retenue à la s
 </tr>
 <tr>
 <td align="center">
-<br/>à <br/>
+<br/>- à... <br/>
 </td>
 <td align="center">
-<br/>40   553 <br/>
+<br/>40   716 <br/>
 </td>
 <td align="center">
-<br/>10   138 <br/>
+<br/>10   179 <br/>
 </td>
 <td align="center">
-<br/>3   379 <br/>
+<br/>3   393 <br/>
 </td>
 <td align="center">
-<br/>780 <br/>
+<br/>783 <br/>
 </td>
 <td align="center">
-<br/>130 <br/>
+<br/>131 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>20 % <br/>
-<br/>Au-delà de <br/>
+<br/>- au-delà de... <br/>
 </td>
 <td align="center">
-<br/>40   553 <br/>
+<br/>40   716 <br/>
 </td>
 <td align="center">
-<br/>10   138 <br/>
+<br/>10   179 <br/>
 </td>
 <td align="center">
-<br/>3   379 <br/>
+<br/>3   393 <br/>
 </td>
 <td align="center">
-<br/>780 <br/>
+<br/>783 <br/>
 </td>
 <td align="center">
-<br/>130 <br/>
+<br/>131<br/>
 </td>
 </tr>
 </tbody>
 </table>
+
+</div>

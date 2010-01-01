@@ -6,4 +6,6 @@ La liste des gros équipements mentionnés au 1 de l'article 279-0 bis du code g
 
 2. Ascenseur ;
 
-3. Installations sanitaires : cabine hammam ou sauna prête à poser.
+3. Installations sanitaires : cabine hammam ou sauna prête à poser ;
+
+4. Système de climatisation : tous les systèmes de climatisation, ainsi que les pompes à chaleur de type air/ air.
