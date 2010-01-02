@@ -1,6 +1,5 @@
 # CHAPITRE II : Adoption du budget et règlement des comptes
 
-- [Article D4312-7](article-d4312-7.md)
 - [Article D4312-9](article-d4312-9.md)
 - [Article R4312-1](article-r4312-1.md)
 - [Article R4312-2](article-r4312-2.md)
