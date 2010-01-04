@@ -4,3 +4,4 @@
 - [Paragraphe 2  Ski et activités assimilées](paragraphe-2-ski-et)
 - [Paragraphe 3  Plongée subaquatique](paragraphe-3)
 - [Paragraphe 4  Canyonisme](paragraphe-4)
+- [Paragraphe 5 : Parachutisme](paragraphe-5)
