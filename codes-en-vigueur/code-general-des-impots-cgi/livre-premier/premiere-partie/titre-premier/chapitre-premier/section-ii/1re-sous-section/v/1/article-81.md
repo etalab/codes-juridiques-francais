@@ -143,6 +143,8 @@ d. (disjoint) ;
 
 33° bis Les indemnités versées, sous quelque forme que ce soit, aux victimes de l'amiante ou à leurs ayants droit par le Fonds d'indemnisation des victimes de l'amiante en application de l'article 53 de la loi de financement de la sécurité sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ou par décision de justice ;
 
+33° ter Les indemnités versées aux personnes souffrant de maladies radio-induites ou à leurs ayants droit, en application de la loi n° 2010-2 du 5 janvier 2010 relative à la reconnaissance et à l'indemnisation des victimes des essais nucléaires français ;
+
 34° abrogé ;
 
 35° L'aide financière de l'Etat mentionnée à l'article L. 5141-2 du code du travail ;
