@@ -1,11 +1,5 @@
-# Section 2 : Organisation et fonctionnement
+# Section 3 : Dispositions financières
 
-- [Article R3422-3](article-r3422-3.md)
-- [Article R3422-4](article-r3422-4.md)
-- [Article R3422-5](article-r3422-5.md)
-- [Article R3422-6](article-r3422-6.md)
-- [Article R3422-7](article-r3422-7.md)
-- [Article R3422-8](article-r3422-8.md)
 - [Article R3422-9](article-r3422-9.md)
 - [Article R3422-10](article-r3422-10.md)
 - [Article R3422-11](article-r3422-11.md)
