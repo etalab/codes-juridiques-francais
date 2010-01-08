@@ -98,20 +98,9 @@ Siège et ressort des tribunaux mixtes de commerce dans les départements d'outr
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="139">
+<td valign="top" width="139">
 <p align="left">La Réunion </p>
 </td>
-<td valign="top" width="124">
-<p align="left">Saint-Denis</p>
-</td>
-<td valign="top" width="195">
-<p align="left">Saint-Denis </p>
-</td>
-<td valign="top" width="225">
-<p align="left">Ressort du tribunal de grande instance de Saint-Denis </p>
-</td>
-</tr>
-<tr>
 <td valign="top" width="124">
 <p align="left">Saint-Pierre</p>
 </td>

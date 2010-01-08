@@ -6,33 +6,33 @@ Siège et ressort des tribunaux de commerce
 <tbody>
 <tr>
 <td align="left" valign="top">
-<p align="center">DÉPARTEMENT<br/>
+<p align="center">DÉPARTEMENT</p>
+</td>
+<td align="left" valign="top">
+<p align="center">TRIBUNAL<br/>de grande instance<br/>
 </p>
 </td>
-<td align="left" valign="top">
-<p align="center">TRIBUNAL<br/>de grande instance</p>
-</td>
 <td align="left" colspan="2" valign="top">
-<p align="center">SIÈGE ET RESSORT DES TRIBUNAUX DE COMMERCE</p>
-<p align="center">Siège</p>
-<p align="center">Ressort</p>
+<p align="center">SIÈGE ET RESSORT DES TRIBUNAUX DE COMMERCE<br/>Siège<br/>Ressort</p>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="4" valign="top">
+<p align="center">Cour d'appel d'Agen</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Cour d'appel d'Agen</p>
+<br/>Gers<br/>
 </td>
-<td align="left" valign="top"/>
-<td align="left" valign="top"/>
-<td align="left" valign="top"/>
-</tr>
-<tr>
-<td align="left" valign="top">Gers</td>
-<td align="left" valign="top">Auch<br/>
+<td align="left" valign="top">
+<br/>Auch<br/>
 </td>
-<td align="left" valign="top">Auch<br/>
+<td align="left" valign="top">
+<br/>Auch<br/>
 </td>
-<td align="left" valign="top">Ressort du tribunal de grande instance d'Auch<br/>
+<td align="left" valign="top">
+<br/>Ressort du tribunal de grande instance d'Auch<br/>
 </td>
 </tr>
 <tr>
@@ -65,8 +65,8 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Cour d'appel d'Aix-en-Provence<br/>
+<td align="left" colspan="4" valign="top">
+<p align="center">Cour d'appel d'Aix-en-Provence</p>
 </td>
 </tr>
 <tr>
@@ -127,11 +127,6 @@ Siège et ressort des tribunaux de commerce
 </td>
 <td align="left" valign="top">
 <br/>Ressort du tribunal d'instance de Cannes<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Cour d'appel d'Agen<br/>
 </td>
 </tr>
 <tr>
@@ -219,8 +214,9 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Cour d'appel d'Amiens<br/>
+<td align="left" colspan="4" valign="top">
+<p align="center">Cour d'appel d'Amiens<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -294,8 +290,9 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Cour d'appel d'Angers<br/>
+<td align="left" colspan="4" valign="top">
+<p align="center">Cour d'appel d'Angers<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -342,8 +339,9 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Cour d'appel de Bastia<br/>
+<td align="left" colspan="4" valign="top">
+<p align="center">Cour d'appel de Bastia<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -375,8 +373,9 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Cour d'appel de Besançon<br/>
+<td align="left" colspan="4" valign="top">
+<p align="center">Cour d'appel de Besançon<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -441,8 +440,9 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Cour d'appel de Bordeaux<br/>
+<td align="left" colspan="4" valign="top">
+<p align="center">Cour d'appel de Bordeaux<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -511,8 +511,9 @@ Siège et ressort des tribunaux de commerce
 <br/>Ressort du tribunal d'instance de Libourne et cantons de Blaye, Bourg, Saint-Ciers-sur-Gironde et Saint-Savin</td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Cour d'appel de Bourges<br/>
+<td align="left" colspan="4" valign="top">
+<p align="center">Cour d'appel de Bourges<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -558,8 +559,10 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td align="left" colspan="4" valign="top">
+<p align="center">
 <br/>Cour d'appel de Caen<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -631,8 +634,8 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Cour d'appel de Chambéry<br/>
+<td align="left" colspan="4" valign="top">
+<p align="center">Cour d'appel de Chambéry</p>
 </td>
 </tr>
 <tr>
@@ -678,8 +681,8 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Cour d'appel de Colmar<br/>
+<td align="left" colspan="4" valign="top">
+<p align="center">Cour d'appel de Colmar</p>
 </td>
 </tr>
 <tr>
@@ -727,8 +730,10 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td align="left" colspan="4" valign="top">
+<p align="center">
 <br/>Cour d'appel de Dijon<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -786,8 +791,9 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Cour d'appel de Douai<br/>
+<td align="left" colspan="4" valign="top">
+<p align="center">Cour d'appel de Douai<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -882,8 +888,8 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Cour d'appel de Grenoble<br/>
+<td align="left" colspan="4" valign="top">
+<p align="center">Cour d'appel de Grenoble</p>
 </td>
 </tr>
 <tr>
@@ -942,8 +948,9 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Cour d'appel de Limoges<br/>
+<td align="left" colspan="4" valign="top">
+<p align="center">Cour d'appel de Limoges<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -990,8 +997,10 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td align="left" colspan="4" valign="top">
+<p align="center">
 <br/>Cour d'appel de Lyon<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -999,14 +1008,12 @@ Siège et ressort des tribunaux de commerce
 <br/>Ain<br/>
 </td>
 <td align="left" valign="top">
-<br/>Bourg-en-Bresse <p>Belley<br/>
-</p>
-</td>
+<br/>Bourg-en-Bresse </td>
 <td align="left" valign="top">
 <br/>Bourg-en-Bresse<br/>
 </td>
 <td align="left" valign="top">
-<br/>Ressort des tribunaux de grande instance de Bourg-en-Bresse et de Belley<br/>
+<br/>Ressort des tribunaux de grande instance de Bourg-en-Bresse <br/>
 </td>
 </tr>
 <tr>
@@ -1063,8 +1070,9 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Cour d'appel de Metz<br/>
+<td align="left" colspan="4" valign="top">
+<p align="center">
+<br/>Cour d'appel de Metz</p>
 </td>
 </tr>
 <tr>
@@ -1100,8 +1108,8 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Cour d'appel de Montpellier<br/>
+<td align="left" colspan="4" valign="top">
+<p align="center">Cour d'appel de Montpellier</p>
 </td>
 </tr>
 <tr>
@@ -1135,14 +1143,12 @@ Siège et ressort des tribunaux de commerce
 <br/>Aveyron<br/>
 </td>
 <td align="left" valign="top">
-<br/>Rodez <p>Millau<br/>
-</p>
-</td>
+<br/>Rodez </td>
 <td align="left" valign="top">
 <br/>Rodez<br/>
 </td>
 <td align="left" valign="top">
-<br/>Ressort des tribunaux de grande instance de Rodez et de Millau<br/>
+<br/>Ressort des tribunaux de grande instance de Rodez <br/>
 </td>
 </tr>
 <tr>
@@ -1186,8 +1192,9 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Cour d'appel de Nancy<br/>
+<td align="left" colspan="4" valign="top">
+<p align="center">Cour d'appel de Nancy<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1247,8 +1254,9 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Cour d'appel de Nîmes<br/>
+<td align="left" colspan="4" valign="top">
+<p align="center">Cour d'appel de Nîmes<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1310,8 +1318,10 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td align="left" colspan="4" valign="top">
+<p align="center">
 <br/>Cour d'appel d'Orléans<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1358,8 +1368,10 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td align="left" colspan="4" valign="top">
+<p align="center">
 <br/>Cour d'appel de Paris<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1472,8 +1484,9 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Cour d'appel de Pau<br/>
+<td align="left" colspan="4" valign="top">
+<p align="center">
+<br/>Cour d'appel de Pau</p>
 </td>
 </tr>
 <tr>
@@ -1543,8 +1556,10 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td align="left" colspan="4" valign="top">
+<p align="center">
 <br/>Cour d'appel de Poitiers<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1619,8 +1634,10 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td align="left" colspan="4" valign="top">
+<p align="center">
 <br/>Cour d'appel de Reims<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1662,8 +1679,7 @@ Siège et ressort des tribunaux de commerce
 <br/>Châlons-en-Champagne<br/>
 </td>
 <td align="left" valign="top">
-<br/>Ressort du tribunal d'instance de Châlons-en-Champagne<br/>
-</td>
+<br/>Ressort du tribunal d'instance de Châlons-en-Champagne, à l'exception des cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne</td>
 </tr>
 <tr>
 <td align="left" valign="top"/>
@@ -1678,8 +1694,9 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Cour d'appel de Rennes<br/>
+<td align="left" colspan="4" valign="top">
+<p align="center">Cour d'appel de Rennes<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1726,21 +1743,7 @@ Siège et ressort des tribunaux de commerce
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Ille-et-Vilaine<br/>
-</td>
-<td align="left" valign="top">
-<br/>Rennes<br/>
-</td>
-<td align="left" valign="top">
-<br/>Rennes<br/>
-</td>
-<td align="left" valign="top">
-<br/>Ressort du tribunal de grande instance de Rennes<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>et <p>Côtes-d'Armor<br/>
+<br/>Ille-et-Vilaine et <p>Côtes-d'Armor<br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1807,8 +1810,8 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Cour d'appel de Riom<br/>
+<td align="left" colspan="4" valign="top">
+<p align="center">Cour d'appel de Riom</p>
 </td>
 </tr>
 <tr>
@@ -1882,8 +1885,10 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td align="left" colspan="4" valign="top">
+<p align="center">
 <br/>Cour d'appel de Rouen<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1951,8 +1956,9 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Cour d'appel de Toulouse<br/>
+<td align="left" colspan="4" valign="top">
+<p align="center">Cour d'appel de Toulouse<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -2025,8 +2031,8 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Cour d'appel de Versailles<br/>
+<td align="left" colspan="4" valign="top">
+<p align="center">Cour d'appel de Versailles</p>
 </td>
 </tr>
 <tr>
