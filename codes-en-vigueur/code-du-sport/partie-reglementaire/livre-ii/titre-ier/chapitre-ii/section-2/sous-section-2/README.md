@@ -5,3 +5,4 @@
 - [Paragraphe 3  Plongée subaquatique](paragraphe-3)
 - [Paragraphe 4  Canyonisme](paragraphe-4)
 - [Paragraphe 5 : Parachutisme](paragraphe-5)
+- [Paragraphe 6 : Spéléologie](paragraphe-6)
