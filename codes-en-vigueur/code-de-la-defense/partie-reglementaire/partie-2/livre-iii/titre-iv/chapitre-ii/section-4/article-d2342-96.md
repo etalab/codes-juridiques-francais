@@ -28,4 +28,4 @@ En fonction de la nature des questions à l'ordre du jour, le président associe
 
 Le CICIAC se réunit sur convocation de son président ou à la demande d'un ministre intéressé.
 
-Le secrétariat du CICIAC est assuré par le secrétariat général de la défense nationale.
+Le secrétariat du CICIAC est assuré par le     secrétariat général de la défense et de la sécurité nationale.

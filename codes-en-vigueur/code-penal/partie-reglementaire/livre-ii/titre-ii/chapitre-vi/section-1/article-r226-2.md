@@ -2,7 +2,7 @@
 
 Il est institué auprès du Premier ministre une commission consultative composée comme suit :
 
-1° Le secrétaire général de la défense nationale ou son représentant, président ;
+1° Le directeur général de l'Agence nationale de la sécurité des systèmes d'information ou son représentant, président ;
 
 2° Un représentant du ministre de la justice ;
 
@@ -28,4 +28,4 @@ Elle est saisie pour avis des projets d'arrêtés pris en application des articl
 
 Elle est également consultée sur les demandes d'autorisation présentées en application des articles R. 226-3 et R. 226-7.
 
-Le secrétariat de la commission est assuré par le secrétariat général de la défense nationale.
+Le secrétariat de la commission est assuré par l'Agence nationale de la sécurité des systèmes d'information.

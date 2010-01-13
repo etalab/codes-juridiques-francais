@@ -1,6 +1,6 @@
 # Article R1332-7
 
-Le comité national des secteurs d'activités d'importance vitale est présidé par le secrétaire général de la défense nationale.
+Le comité national des secteurs d'activités d'importance vitale est présidé par le     secrétaire général de la défense et de la sécurité nationale.
 
 Ce comité comprend :
 

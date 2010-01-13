@@ -4,4 +4,4 @@ Les collectivités territoriales informent le préfet de tout projet de construc
 
 Le préfet dispose d'un délai de deux mois pour faire connaître son avis à la collectivité territoriale concernée. Les travaux ne peuvent commencer avant la transmission de cet avis.
 
-Toute attribution de subvention en application de l'article L. 1421-5 est subordonnée au visa technique de la direction des Archives de France.
+Toute attribution de subvention en application de l'article L. 1421-5 est subordonnée au visa technique de la    direction générale des patrimoines.

@@ -10,7 +10,7 @@ a) Le secrétaire général pour l'administration du ministère de la défense o
 
 b) Le directeur du budget au ministère du budget ou son représentant ;
 
-c) Le directeur des musées de France ou son représentant ;
+c) Le directeur général des patrimoines ou son représentant ;
 
 d) Le chef d'état-major de la marine ou son représentant ;
 

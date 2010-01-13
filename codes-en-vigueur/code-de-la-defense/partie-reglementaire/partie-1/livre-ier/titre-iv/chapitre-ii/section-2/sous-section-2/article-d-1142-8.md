@@ -4,7 +4,7 @@ La commission permanente de la défense civile assiste le ministre de l'intérie
 
 1° Le ministre de l'intérieur ou son représentant, président ;
 
-2° Le secrétaire général de la défense nationale ou son représentant ;
+2° Le     secrétaire général de la défense et de la sécurité nationale ou son représentant ;
 
 3° Le directeur du service d'information du Gouvernement ;
 

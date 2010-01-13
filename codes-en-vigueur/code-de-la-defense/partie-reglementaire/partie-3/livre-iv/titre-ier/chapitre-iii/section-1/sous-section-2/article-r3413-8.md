@@ -12,7 +12,7 @@ b) Le secrétaire général pour l'administration du ministère de la défense o
 
 c) Le directeur du budget au ministère de l'économie et des finances ou son représentant ;
 
-d) Le directeur des musées de France ou son représentant ;
+d) Le directeur général des patrimoines ou son représentant ;
 
 e) Le chef d'état-major de l'armée de terre ou son représentant ;
 

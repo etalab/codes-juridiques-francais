@@ -2,7 +2,7 @@
 
 Outre le directeur du cabinet du Premier ministre qui en assure la présidence, la commission interministérielle de la sûreté aérienne comprend :
 
-1° Le secrétaire général de la défense nationale ;
+1° Le     secrétaire général de la défense et de la sécurité nationale ;
 
 2° Le secrétaire général du ministère de l'intérieur ;
 
@@ -28,7 +28,7 @@ Outre le directeur du cabinet du Premier ministre qui en assure la présidence, 
 
 Les membres de la commission peuvent se faire représenter par un suppléant nommément désigné à cet effet.
 
-Le secrétariat de la commission est assuré par le secrétaire général de la défense nationale.
+Le secrétariat de la commission est assuré par le     secrétaire général de la défense et de la sécurité nationale.
 
 La commission se réunit sur convocation de son président au moins deux fois par an.
 
