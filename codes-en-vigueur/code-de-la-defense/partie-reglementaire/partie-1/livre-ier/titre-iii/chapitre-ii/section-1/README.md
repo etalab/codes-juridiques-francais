@@ -4,8 +4,5 @@
 - [Article D1132-5](article-d1132-5.md)
 - [Article D1132-6](article-d1132-6.md)
 - [Article R*1132-1](article-r-1132-1.md)
-- [Article R1132-1](article-r1132-1.md)
 - [Article R*1132-2](article-r-1132-2.md)
-- [Article R1132-2](article-r1132-2.md)
 - [Article R*1132-3](article-r-1132-3.md)
-- [Article R1132-3](article-r1132-3.md)
