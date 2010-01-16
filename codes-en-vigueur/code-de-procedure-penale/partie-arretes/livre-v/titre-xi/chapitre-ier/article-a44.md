@@ -19,10 +19,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de l'Ain. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Bourg-en-Bresse. </p>
 </td>
 <td valign="top">
@@ -30,19 +30,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Bourg-en-Bresse. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Bourg-en-Bresse. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Belley. </p>
 </td>
@@ -51,10 +42,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="4" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de l'Aisne. </p>
 </td>
-<td valign="top">
+<td rowspan="4" valign="top">
 <p>Laon. </p>
 </td>
 <td valign="top">
@@ -62,19 +53,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Laon. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Centre pénitentiaire de Laon. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Saint-Quentin. </p>
 </td>
@@ -83,8 +65,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Soissons. </p>
 </td>
@@ -93,8 +73,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Château-Thierry. </p>
 </td>
@@ -103,10 +81,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de l'Allier. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Moulins. </p>
 </td>
 <td valign="top">
@@ -114,37 +92,19 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Moulins. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Centre pénitentiaire de Moulins-Yzeure. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Montluçon. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Montluçon. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Montluçon. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Cusset. </p>
 </td>
@@ -164,13 +124,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Digne. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Digne. </p>
 </td>
 </tr>
@@ -186,21 +139,14 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Gap. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Gap. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation des Alpes-Maritimes. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Nice. </p>
 </td>
 <td valign="top">
@@ -208,31 +154,15 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Nice. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Nice. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Grasse. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Grasse. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Grasse. </p>
 </td>
 </tr>
@@ -248,13 +178,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Privas. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Privas. </p>
 </td>
 </tr>
@@ -270,13 +193,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Charleville-Mézières. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Charleville-Mézières. </p>
 </td>
 </tr>
@@ -292,21 +208,14 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Foix. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Foix. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de l'Aube. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Troyes. </p>
 </td>
 <td valign="top">
@@ -314,19 +223,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Troyes. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Troyes. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Villenauxe-la-Grande. </p>
 </td>
@@ -335,8 +235,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Clairvaux. </p>
 </td>
@@ -345,10 +243,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de l'Aude. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Carcassonne. </p>
 </td>
 <td valign="top">
@@ -356,19 +254,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Carcassonne. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Carcassonne. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Narbonne. </p>
 </td>
@@ -377,10 +266,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de l'Aveyron. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Rodez. </p>
 </td>
 <td valign="top">
@@ -388,19 +277,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Rodez. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Rodez. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Millau. </p>
 </td>
@@ -409,10 +289,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="6" valign="top">
 <p>Service pénitentiaire d'insertion et de probation des Bouches-du-Rhône. </p>
 </td>
-<td valign="top">
+<td rowspan="6" valign="top">
 <p>Marseille. </p>
 </td>
 <td valign="top">
@@ -420,19 +300,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Marseille. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Centre pénitentiaire de Marseille. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne d'Aix-Salon-de-Provence. </p>
 </td>
@@ -442,15 +313,11 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>(Arr. 17 sept. 2003, art. 5) Centre de détention de Salon-de-Provence. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne d'Arles-Tarascon. </p>
 </td>
@@ -460,25 +327,21 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Circonscription judiciaire de Tarascon. </p>
 </td>
 </tr>
 <tr>
 <td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Centre de détention de Tarascon. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="4" valign="top">
 <p>Service pénitentiaire d'insertion et de probation du Calvados. </p>
 </td>
-<td valign="top">
+<td rowspan="4" valign="top">
 <p>Caen. </p>
 </td>
 <td valign="top">
@@ -490,23 +353,17 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Maison d'arrêt de Caen. </p>
 </td>
 </tr>
 <tr>
 <td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Centre pénitentiaire de Caen. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Lisieux. </p>
 </td>
@@ -526,13 +383,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire d'Aurillac. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt d'Aurillac. </p>
 </td>
 </tr>
@@ -548,21 +398,14 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire d'Angoulême. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt d'Angoulême. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="4" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Charente-Maritime. </p>
 </td>
-<td valign="top">
+<td rowspan="4" valign="top">
 <p>La Rochelle. </p>
 </td>
 <td valign="top">
@@ -570,57 +413,30 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de La Rochelle. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison centrale de Saint-Martin-de-Ré. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Saintes-Bédenac. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Saintes. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Saintes. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top"/>
 <td valign="top">
 <p>(Arr. 17 sept. 2003, art. 5) Centre de détention de Bédenac. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Rochefort. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Rochefort. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Rochefort. </p>
 </td>
 </tr>
@@ -636,21 +452,14 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Bourges. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Bourges. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Corrèze. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Tulle. </p>
 </td>
 <td valign="top">
@@ -658,19 +467,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Tulle. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Tulle. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Brive. </p>
 </td>
@@ -679,8 +479,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne d'Uzerche. </p>
 </td>
@@ -700,21 +498,14 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire d'Ajaccio. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt d'Ajaccio. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Haute-Corse. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Bastia. </p>
 </td>
 <td valign="top">
@@ -726,15 +517,11 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>(Arr. 17 févr. 2004 art. 2) Centre pénitentiaire de Borgo. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Casabianda. </p>
 </td>
@@ -754,21 +541,14 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Dijon. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Dijon. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation des Côtes-d'Armor. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Saint-Brieuc. </p>
 </td>
 <td valign="top">
@@ -776,19 +556,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Saint-Brieuc. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Saint-Brieuc. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Dinan. </p>
 </td>
@@ -797,8 +568,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Guingamp. </p>
 </td>
@@ -818,21 +587,14 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Guéret. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Guéret. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="4" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Dordogne. </p>
 </td>
-<td valign="top">
+<td rowspan="4" valign="top">
 <p>Périgueux. </p>
 </td>
 <td valign="top">
@@ -844,15 +606,11 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>(Arr. 17 sept. 2003, art. 5) Centre de détention de Neuvic-sur-l'Isle. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Bergerac-Mauzac. </p>
 </td>
@@ -862,17 +620,15 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>(Arr. 17 sept. 2003, art. 5) Centre de détention de Mauzac. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation du Doubs. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Besançon. </p>
 </td>
 <td valign="top">
@@ -880,39 +636,16 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Besançon. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Besançon. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Centre de semi-liberté de Besançon. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Montbéliard. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Montbéliard. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Montbéliard. </p>
 </td>
 </tr>
@@ -928,21 +661,14 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Valence. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Valence. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de l'Eure. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Evreux. </p>
 </td>
 <td valign="top">
@@ -950,19 +676,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire d'Evreux. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt d'Evreux. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Bernay. </p>
 </td>
@@ -971,8 +688,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Val-de-Reuil. </p>
 </td>
@@ -981,10 +696,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation d'Eure-et-Loir. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Chartres. </p>
 </td>
 <td valign="top">
@@ -992,29 +707,20 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Chartres. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Chartres. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top"/>
 <td valign="top">
 <p>(Arr. 17 sept. 2003 art. 5) Centre de détention de Châteaudun. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation du Finistère. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Brest. </p>
 </td>
 <td valign="top">
@@ -1022,19 +728,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Brest. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Brest. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Quimper. </p>
 </td>
@@ -1043,8 +740,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Morlaix. </p>
 </td>
@@ -1053,10 +748,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation du Gard. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Nîmes. </p>
 </td>
 <td valign="top">
@@ -1064,19 +759,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Nîmes. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Nîmes. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne d'Alès. </p>
 </td>
@@ -1085,10 +771,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="4" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Haute-Garonne. </p>
 </td>
-<td valign="top">
+<td rowspan="4" valign="top">
 <p>Toulouse. </p>
 </td>
 <td valign="top">
@@ -1096,27 +782,16 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Toulouse. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Toulouse. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top"/>
 <td valign="top">
 <p>(Arr. 17 sept. 2003, art. 5) Centre de semi-liberté de Toulouse-Seysses </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Muret. </p>
 </td>
@@ -1125,8 +800,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Saint-Gaudens. </p>
 </td>
@@ -1149,10 +822,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Gironde. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Bordeaux. </p>
 </td>
 <td valign="top">
@@ -1160,19 +833,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Bordeaux. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Bordeaux-Gradignan. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Libourne. </p>
 </td>
@@ -1181,10 +845,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de l'Hérault. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Montpellier. </p>
 </td>
 <td valign="top">
@@ -1192,47 +856,24 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Montpellier. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Villeneuve-lès-Maguelone. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Centre de semi-liberté de Montpellier. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Béziers. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Béziers. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Centre pénitentiaire de Béziers. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation d'Ille-et-Vilaine. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Rennes. </p>
 </td>
 <td valign="top">
@@ -1240,47 +881,24 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Rennes. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Rennes. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Centre pénitentiaire de Rennes. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Saint-Malo. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Saint-Malo. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Saint-Malo. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de l'Indre. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Châteauroux. </p>
 </td>
 <td valign="top">
@@ -1288,19 +906,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Châteauroux. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Centre pénitentiaire de Châteauroux. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Saint-Maur. </p>
 </td>
@@ -1320,21 +929,14 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Tours. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Tours. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de l'Isère. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Grenoble. </p>
 </td>
 <td valign="top">
@@ -1342,45 +944,20 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Grenoble. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Grenoble. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Centre de semi-liberté de Grenoble. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Vienne-Saint-Quentin-Fallavier. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Vienne. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Centre pénitentiaire de Saint-Quentin-Fallavier. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Bourgoin-Jallieu. </p>
 </td>
@@ -1389,13 +966,13 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation du Jura. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Lons-le-Saunier. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Antenne de Lons-le-Saunier. </p>
 </td>
 <td valign="top">
@@ -1403,16 +980,11 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Maison d'arrêt de Lons-le-Saunier. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Dole. </p>
 </td>
@@ -1421,13 +993,13 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation des Landes. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Mont-de-Marsan. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Antenne de Mont-de-Marsan. </p>
 </td>
 <td valign="top">
@@ -1436,16 +1008,11 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Maison d'arrêt de Mont-de-Marsan. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Dax. </p>
 </td>
@@ -1454,10 +1021,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de Loir-et-Cher. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Blois. </p>
 </td>
 <td valign="top">
@@ -1469,17 +1036,15 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Maison d'arrêt de Blois. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>Service pénitentiaire d'insertion et de probation de la Loire </p>
+<td rowspan="3" valign="top">
+<p>Service pénitentiaire d'insertion et de probation de la Loire. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Saint-Etienne. </p>
 </td>
 <td valign="top">
@@ -1487,19 +1052,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Saint-Etienne. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Saint-Etienne. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Montbrison. </p>
 </td>
@@ -1508,8 +1064,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Roanne. </p>
 </td>
@@ -1530,21 +1084,14 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire du Puy-en-Velay. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt du Puy-en-Velay. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Loire-Atlantique. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Nantes. </p>
 </td>
 <td valign="top">
@@ -1552,19 +1099,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Nantes. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Centre pénitentiaire de Nantes (quartier de semi-liberté et maison d'arrêt de Nantes inclus). </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Saint-Nazaire. </p>
 </td>
@@ -1573,10 +1111,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>Service pénitentiaire d'insertion et de probation du Loiret </p>
+<td rowspan="2" valign="top">
+<p>Service pénitentiaire d'insertion et de probation du Loiret. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Orléans. </p>
 </td>
 <td valign="top">
@@ -1584,31 +1122,15 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire d'Orléans. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt d'Orléans </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Montargis. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Montargis. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Centre de semi-liberté de Montargis. </p>
 </td>
 </tr>
@@ -1624,21 +1146,14 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Cahors. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Cahors. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de Lot-et-Garonne. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Agen. </p>
 </td>
 <td valign="top">
@@ -1646,19 +1161,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire d'Agen. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt d'Agen. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Marmande. </p>
 </td>
@@ -1667,8 +1173,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne d'Eysses. </p>
 </td>
@@ -1688,21 +1192,14 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Mende. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Mende. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de Maine-et-Loire. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Angers. </p>
 </td>
 <td valign="top">
@@ -1710,19 +1207,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire d'Angers. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt d'Angers. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Saumur. </p>
 </td>
@@ -1731,10 +1219,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Manche. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Coutances. </p>
 </td>
 <td valign="top">
@@ -1742,37 +1230,19 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Coutances. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Coutances. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Cherbourg. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Cherbourg. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Cherbourg. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne d'Avranches. </p>
 </td>
@@ -1781,10 +1251,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Marne. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Châlons-en-Champagne. </p>
 </td>
 <td valign="top">
@@ -1792,31 +1262,15 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Châlons-en-Champagne. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Châlons-en-Champagne. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Reims. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Reims. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Reims. </p>
 </td>
 </tr>
@@ -1832,13 +1286,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Chaumont. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Chaumont. </p>
 </td>
 </tr>
@@ -1854,88 +1301,62 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Laval. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Laval. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="4" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de Meurthe-et-Moselle. </p>
 </td>
 <td valign="top">
 <p>Nancy. </p>
+<br/>
 </td>
 <td valign="top">
 <p>Antenne de Nancy. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Nancy. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Centre pénitentiaire de Nancy-Maxéville </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Centre de semi-liberté de Maxéville. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
-<p>Antenne de Briey. </p>
+<td align="left" valign="top">
+<br/>
 </td>
-<td valign="top">
+<td align="left" valign="top">
+<p align="left">Antenne de Briey. </p>
+</td>
+<td align="left" valign="top">
 <p>Circonscription judiciaire de Briey. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Centre de semi-liberté de Briey. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
-<p>Antenne de Toul-Ecrouves.</p>
+<br/>
+</td>
+<td>
+<p align="left">Antenne de Toul-Ecrouves.</p>
 </td>
 <td valign="top">
-<p>    Centre de détention de Toul.  </p>
+<p>Centre de détention de Toul. </p>
 </td>
 </tr>
 <tr>
 <td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
+<td/>
 <td valign="top">
 <p>(Arr. 17 sept. 2003, art. 5) Centre de détention d'Ecrouves. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="4" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Meuse. </p>
 </td>
-<td valign="top">
-<p>(Arr. 30 mars 2005, art. 2) <br/>Bar-le-Duc </p>
+<td>
+<p align="left">(Arr. 30 mars 2005, art. 2) <br/>Bar-le-Duc </p>
 </td>
 <td valign="top">
 <p>Antenne de Verdun. </p>
@@ -1945,48 +1366,40 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
-<p>Antenne de Bar-le-Duc. </p>
+<td align="left" valign="top">
+<br/>
 </td>
-<td valign="top">
-<p>Circonscription judiciaire de Bar-le-Duc. </p>
+<td align="left" valign="top">
+<p align="left">Antenne de Bar-le-Duc. </p>
 </td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
+<td align="left" valign="top">
+<p align="left">Circonscription judiciaire de Bar-le-Duc. </p>
 <p>Maison d'arrêt de Bar-le-Duc. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
-<p>Antenne de Montmédy. </p>
+<br/>
 </td>
+<td>Antenne de Montmédy.</td>
 <td valign="top">
 <p>(Arr. 17 sept. 2003, art. 5) Centre de détention de Montmédy. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
-<p>Antenne de Saint-Mihiel. </p>
+<p>. </p>
 </td>
+<td>Antenne de Saint-Mihiel</td>
 <td valign="top">
 <p>(Arr. 17 sept. 2003, art. 5) Centre de détention de Saint-Mihiel. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation du Morbihan. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Lorient. </p>
 </td>
 <td valign="top">
@@ -1994,39 +1407,23 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Lorient. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Centre pénitentiaire de Lorient-Ploëmeur. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Vannes. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Vannes. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Vannes. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Moselle. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Metz. </p>
 </td>
 <td valign="top">
@@ -2034,37 +1431,19 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Metz. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>(Arr. 17 sept. 2003, art. 5) Centre pénitentiaire de Metz </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Sarreguemines. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Sarreguemines. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Sarreguemines. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Thionville. </p>
 </td>
@@ -2073,10 +1452,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Nièvre. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Nevers. </p>
 </td>
 <td valign="top">
@@ -2088,17 +1467,15 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Maison d'arrêt de Nevers. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="7" valign="top">
 <p>Service pénitentiaire d'insertion et de probation du Nord. </p>
 </td>
-<td valign="top">
+<td rowspan="7" valign="top">
 <p>Lille. </p>
 </td>
 <td valign="top">
@@ -2110,8 +1487,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne d'Avesnes-sur-Helpe-Maubeuge. </p>
 </td>
@@ -2120,8 +1495,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Cambrai. </p>
 </td>
@@ -2130,8 +1503,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Douai. </p>
 </td>
@@ -2140,8 +1511,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Dunkerque. </p>
 </td>
@@ -2150,8 +1519,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne d'Hazebrouck. </p>
 </td>
@@ -2160,8 +1527,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Valenciennes. </p>
 </td>
@@ -2170,10 +1535,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="4" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de l'Oise. </p>
 </td>
-<td valign="top">
+<td rowspan="4" valign="top">
 <p>Beauvais. </p>
 </td>
 <td valign="top">
@@ -2184,8 +1549,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Compiègne. </p>
 </td>
@@ -2194,8 +1557,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Liancourt. </p>
 </td>
@@ -2204,8 +1565,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Creil. </p>
 </td>
@@ -2214,13 +1573,13 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de l'Orne. </p>
 </td>
-<td valign="top">
-<p>Argentan. </p>
+<td rowspan="3" valign="top">
+<p>Alençon. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Antenne d'Argentan. </p>
 </td>
 <td valign="top">
@@ -2228,16 +1587,11 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>(Arr. 17 sept. 2003, art. 5) Centre de détention d'Argentan. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne d'Alençon. </p>
 </td>
@@ -2246,18 +1600,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
-<p>Maison d'arrêt d'Alençon. </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
+<td rowspan="5" valign="top">
 <p>Service pénitentiaire d'insertion et de probation du Pas-de-Calais. </p>
 </td>
-<td valign="top">
+<td rowspan="5" valign="top">
 <p>Arras. </p>
 </td>
 <td valign="top">
@@ -2265,19 +1611,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire d'Arras. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt d'Arras. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Bapaume. </p>
 </td>
@@ -2286,26 +1623,15 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Béthune. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Béthune. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Béthune. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Boulogne-sur-Mer. </p>
 </td>
@@ -2314,28 +1640,19 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Saint-Omer-Longuenesse. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Saint-Omer. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Centre pénitentiaire de Longuenesse. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation du Puy-de-Dôme. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Clermont-Ferrand. </p>
 </td>
 <td valign="top">
@@ -2343,47 +1660,24 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Clermont-Ferrand. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Clermont-Ferrand. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Riom. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Riom. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Riom. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison centrale de Riom. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation des Pyrénées-Atlantiques. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Pau. </p>
 </td>
 <td valign="top">
@@ -2391,39 +1685,23 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Pau. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Pau. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Bayonne. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Bayonne. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Bayonne. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation des Hautes-Pyrénées. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Tarbes. </p>
 </td>
 <td valign="top">
@@ -2431,19 +1709,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Tarbes. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Tarbes. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Lannemazan. </p>
 </td>
@@ -2463,21 +1732,14 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Perpignan. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Centre pénitentiaire de Perpignan (quartier de semi-liberté inclus). </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="4" valign="top">
 <p>Service pénitentiaire d'insertion et de probation du Bas-Rhin. </p>
 </td>
-<td valign="top">
+<td rowspan="4" valign="top">
 <p>Schiltigheim. </p>
 </td>
 <td valign="top">
@@ -2485,27 +1747,16 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Strasbourg. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Strasbourg. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top"/>
 <td valign="top">
 <p>Centre de semi-liberté de Souffelweyersheim. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Saverne-Oermingen. </p>
 </td>
@@ -2515,17 +1766,15 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Centre de détention d'Oermingen. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation du Haut-Rhin. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Colmar. </p>
 </td>
 <td valign="top">
@@ -2533,37 +1782,19 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Colmar. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Colmar. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Mulhouse. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Mulhouse. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Mulhouse (quartier de semi-liberté inclus). </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne d'Ensisheim. </p>
 </td>
@@ -2572,10 +1803,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation du Rhône. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Lyon. </p>
 </td>
 <td valign="top">
@@ -2583,47 +1814,24 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Lyon. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Lyon-Corbas. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Centre de semi-liberté de Lyon. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Villefranche-sur-Saône. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Villefranche-sur-Saône. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Villefranche-sur-Saône. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Haute-Saône. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Vesoul. </p>
 </td>
 <td valign="top">
@@ -2631,39 +1839,23 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Vesoul. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Vesoul. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Lure. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Lure. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Lure. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de Saône-et-Loire. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Mâcon. </p>
 </td>
 <td valign="top">
@@ -2674,9 +1866,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Antenne de Chalon-sur-Saône-Varennes-le-Grand. </p>
 </td>
 <td valign="top">
@@ -2684,9 +1874,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Centre pénitentiaire de Varennes-le-Grand. </p>
 </td>
@@ -2699,25 +1886,18 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Le Mans. </p>
 </td>
 <td valign="top">
-<p>Néant. </p>
+<p align="center">Néant. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire du Mans ; </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt du Mans-Les Croisettes. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Savoie. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Chambéry. </p>
 </td>
 <td valign="top">
@@ -2725,39 +1905,23 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Chambéry. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Chambéry. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne d'Albertville-Aiton. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire d'Albertville. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Centre pénitentiaire d'Aiton. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Haute-Savoie. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Annecy. </p>
 </td>
 <td valign="top">
@@ -2768,26 +1932,15 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Bonneville. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Bonneville. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Bonneville. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Thonon-les-Bains. </p>
 </td>
@@ -2807,21 +1960,14 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Paris. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Paris-La Santé. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Seine-Maritime. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Rouen. </p>
 </td>
 <td valign="top">
@@ -2829,19 +1975,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Rouen. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Rouen. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Dieppe. </p>
 </td>
@@ -2850,28 +1987,19 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne du Havre. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire du Havre. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt du Havre. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="5" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de Seine-et-Marne. </p>
 </td>
-<td valign="top">
+<td rowspan="5" valign="top">
 <p>Melun. </p>
 </td>
 <td valign="top">
@@ -2883,23 +2011,17 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>(Arr. 29 août 2006, art. 2) Centre de semi-liberté de Melun </p>
 </td>
 </tr>
 <tr>
 <td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>(Arr. 17 sept. 2003, art. 5) Centre de détention de Melun. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Fontainebleau. </p>
 </td>
@@ -2908,28 +2030,19 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Meaux. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Meaux. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>(Arr. 30 mars 2005, art. 2) Centre pénitentiaire de Meaux-Chauconin-Neufmontiers (quartier centre de détention de Meaux inclus). </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation des Yvelines. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Versailles. </p>
 </td>
 <td valign="top">
@@ -2937,27 +2050,11 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Versailles. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Versailles (quartier des semi-liberté inclus). </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Bois-d'Arcy. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Poissy. </p>
 </td>
@@ -2966,10 +2063,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation des Deux-Sèvres. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Niort. </p>
 </td>
 <td valign="top">
@@ -2977,19 +2074,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Niort. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Niort. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Bressuire. </p>
 </td>
@@ -2998,10 +2086,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Somme. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Amiens. </p>
 </td>
 <td valign="top">
@@ -3009,19 +2097,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire d'Amiens. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt d'Amiens. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne d'Abbeville. </p>
 </td>
@@ -3030,8 +2109,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Péronne. </p>
 </td>
@@ -3040,10 +2117,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation du Tarn. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Albi. </p>
 </td>
 <td valign="top">
@@ -3051,19 +2128,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire d'Albi. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt d'Albi. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Castres. </p>
 </td>
@@ -3072,8 +2140,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Saint-Sulpice-la-Pointe. </p>
 </td>
@@ -3093,21 +2159,14 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Montauban. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Montauban. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="5" valign="top">
 <p>Service pénitentiaire d'insertion et de probation du Var. </p>
 </td>
-<td valign="top">
+<td rowspan="5" valign="top">
 <p>Toulon. </p>
 </td>
 <td valign="top">
@@ -3119,15 +2178,11 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>(Arr. 13 déc. 2005, art. 5) Centre pénitentiaire de Toulon-La Farlède (quartier de semi-liberté de Toulon-Saint-Roch inclus). </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>(Arr. 1er oct. 2004, art. 2) Antenne de Draguignan. </p>
 </td>
@@ -3137,25 +2192,21 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>(Arr. 13 déc. 2005, art. 5) Centre pénitentiaire de Draguignan. </p>
 </td>
 </tr>
 <tr>
 <td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>(Arr. 1er oct. 2004, art. 2) Centre pénitentiaire de Draguignan. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de Vaucluse. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Avignon. </p>
 </td>
 <td valign="top">
@@ -3163,19 +2214,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire d'Avignon. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>(Arr. 17 sept. 2003, art. 5) Centre pénitentiaire d'Avignon-Le Pontet. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Carpentras. </p>
 </td>
@@ -3184,10 +2226,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Vendée. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>La Roche-sur-Yon. </p>
 </td>
 <td valign="top">
@@ -3195,27 +2237,11 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de la Roche-sur-Yon. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de La Roche-sur-Yon. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Fontenay-le-Comte. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne des Sables-d'Olonne. </p>
 </td>
@@ -3235,13 +2261,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Poitiers. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Centre pénitentiaire de Poitiers-Vivonne (quartier de semi-liberté de Poitiers inclus). </p>
 </td>
 </tr>
@@ -3257,21 +2276,14 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Limoges. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Limoges. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation des Vosges. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Epinal. </p>
 </td>
 <td valign="top">
@@ -3279,19 +2291,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire d'Epinal. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt d'Epinal. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Saint-Dié. </p>
 </td>
@@ -3300,10 +2303,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de l'Yonne. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Auxerre. </p>
 </td>
 <td valign="top">
@@ -3311,19 +2314,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire d'Auxerre. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt d'Auxerre. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Sens. </p>
 </td>
@@ -3332,8 +2326,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Joux-la-Ville. </p>
 </td>
@@ -3353,21 +2345,14 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Belfort. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Belfort. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de l'Essonne. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Corbeil-Essonnes. </p>
 </td>
 <td valign="top">
@@ -3379,15 +2364,11 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Centre de semi-liberté de Corbeil. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Fleury-Mérogis. </p>
 </td>
@@ -3407,24 +2388,17 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Nanterre. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Nanterre. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Seine-Saint-Denis. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Drancy </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Néant. </p>
 </td>
 <td valign="top">
@@ -3432,29 +2406,23 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Maison d'arrêt de Villepinte. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Centre de semi-liberté de Gagny. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="4" valign="top">
 <p>Service pénitentiaire d'insertion et de probation du Val-de-Marne. </p>
 </td>
-<td valign="top">
+<td rowspan="4" valign="top">
 <p>Créteil. </p>
 </td>
-<td valign="top">
+<td rowspan="4" valign="top">
 <p>Néant. </p>
 </td>
 <td valign="top">
@@ -3462,25 +2430,16 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Centre pénitentiaire de Fresnes (quartier pour peines aménagées de Villejuif inclus). </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Etablissement public de santé national de Fresnes. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Centre national d'observation. </p>
 </td>
@@ -3497,21 +2456,14 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Pontoise. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt d'Osny-Pontoise. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="4" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Guadeloupe. </p>
 </td>
-<td valign="top">
+<td rowspan="4" valign="top">
 <p>Pointe-à-Pitre. </p>
 </td>
 <td valign="top">
@@ -3523,15 +2475,11 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Centre pénitentiaire de Baie-Mahault. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Basse-Terre. </p>
 </td>
@@ -3541,20 +2489,18 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Maison d'arrêt de Basse-Terre. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Martinique. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Fort-de-France. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Néant. </p>
 </td>
 <td valign="top">
@@ -3562,21 +2508,18 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Centre pénitentiaire de Ducos. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Guyane. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Cayenne. </p>
 </td>
-<td valign="top">
+<td rowspan="2" valign="top">
 <p>Néant. </p>
 </td>
 <td valign="top">
@@ -3584,18 +2527,15 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Centre pénitentiaire de Remire-Montjoly. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de la Réunion. </p>
 </td>
-<td valign="top">
+<td rowspan="3" valign="top">
 <p>Saint-Denis. </p>
 </td>
 <td valign="top">
@@ -3604,37 +2544,19 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <p>Circonscription judiciaire de Saint-Denis. </p>
 <p>Centre pénitentiaire de Saint-Denis. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Saint-Denis. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne de Saint-Pierre. </p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Saint-Pierre. </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
 <p>Maison d'arrêt de Saint-Pierre. </p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
 <p>Antenne du Port. </p>
 </td>
