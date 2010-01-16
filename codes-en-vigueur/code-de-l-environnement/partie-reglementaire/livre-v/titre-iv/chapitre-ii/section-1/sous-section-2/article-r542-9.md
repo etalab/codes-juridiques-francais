@@ -14,18 +14,16 @@ I. - Le conseil d'administration de l'agence règle par ses délibérations les 
 
 6° Les acquisitions, échanges et aliénations de biens immobiliers ainsi que les prises et cessions à bail d'une durée supérieure à trois ans ;
 
-7° Les prises, extensions et cessions de participations financières ;
+7° Les projets d'investissement, dans les conditions qu'il détermine ;
 
-8° Les acquisitions et cessions de droits de propriété industrielle ;
+8° La création de filiales, les prises, extensions et cessions de participations financières ;
 
-9° Les conditions générales de recrutement, d'emploi et de rémunération du personnel ;
+9° Les acquisitions et cessions de droits de propriété industrielle ;
 
-10° Le rapport annuel d'activité de l'établissement prévu à l'article R. 542-1 ;
+10° Les conditions générales de recrutement, d'emploi et de rémunération du personnel ;
 
-11° Les suites à donner aux résultats des travaux de l'établissement ;
+11° Les conditions générales de passation des contrats, conventions et marchés ;
 
-12° Les conditions générales de passation des contrats, conventions et marchés ;
-
-13° Les conditions générales d'attribution des subventions et avances remboursables.
+12° Les conditions générales d'attribution des subventions et avances remboursables.
 
 II. - Il arrête son règlement intérieur.

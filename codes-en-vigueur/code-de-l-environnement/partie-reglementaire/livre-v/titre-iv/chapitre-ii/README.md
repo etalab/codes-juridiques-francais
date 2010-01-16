@@ -7,3 +7,4 @@
 - [Section 5 : Groupement d'intérêt public](section-5)
 - [Section 6 : Importation, exportation, transit et transfert avec emprunt du territoire national de déchets radioactifs ou de combustible nucléaire usé](section-6)
 - [Section 7 : Obligations déclaratives relatives aux matières et déchets radioactifs](section-7)
+- [Section 8 : Comité de coordination industrielle pour les déchets radioactifs](section-8)

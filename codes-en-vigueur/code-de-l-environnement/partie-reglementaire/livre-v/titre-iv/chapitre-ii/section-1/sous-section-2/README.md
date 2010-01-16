@@ -13,3 +13,5 @@
 - [Article R542-12](article-r542-12.md)
 - [Article R542-13](article-r542-13.md)
 - [Article R542-14](article-r542-14.md)
+- [Article R542-15](article-r542-15.md)
+- [Article R542-16](article-r542-16.md)
