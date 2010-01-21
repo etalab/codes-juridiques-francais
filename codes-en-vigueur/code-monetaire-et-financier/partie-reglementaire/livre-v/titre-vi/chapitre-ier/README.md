@@ -6,3 +6,4 @@
 - [Section 5 : La cellule de renseignement financier nationale](section-5)
 - [Section 6 :  Procédures et contrôle interne](section-6)
 - [Section 7 : Contrôle du respect des obligations et Commission nationale des sanctions](section-7)
+- [Section 8 : Conseil d'orientation de la lutte contre le blanchiment de capitaux et le financement du terrorisme](section-8)
