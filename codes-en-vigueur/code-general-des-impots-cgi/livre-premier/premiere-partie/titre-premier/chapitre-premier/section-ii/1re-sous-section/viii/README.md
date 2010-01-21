@@ -15,3 +15,4 @@
 - [5 : Contribuables disposant de revenus professionnels ressortissant à des catégories différentes](5)
 - [6 : Sommes perçues par une personne domiciliée ou établie hors de France](6)
 - [7 : Dispositions applicables aux impatriés détachés en France](7)
+- [1-0 quinquies : Maintien des reports d'imposition dont bénéficient certaines plus-values professionnelles](1-0-quinquies)
