@@ -1,4 +1,4 @@
-# Titre Ier : Les institutions communes aux établissements de crédit, aux établissements de paiement et aux entreprises d'investissement
+# Titre Ier : Les institutions compétentes en matière de réglementation et de contrôle
 
 - [Chapitre Ier : Réglementation](chapitre-ier)
 - [Chapitre II : Comité des établissements de crédit et des entreprises d'investissement](chapitre-ii)

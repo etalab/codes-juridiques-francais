@@ -26,9 +26,7 @@ I. ― Le conseil d'orientation comprend, outre son président, les vingt-trois 
 
 ― le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 
-― le secrétaire général de la Commission bancaire ou son représentant ;
-
-― le secrétaire général de l'Autorité de contrôle des assurances et des mutuelles ou son représentant ;
+― le secrétaire général de l'Autorité de contrôle prudentiel ou son représentant ;
 
 ― le secrétaire général de l'Autorité des marchés financiers ou son représentant ;
 
