@@ -4,7 +4,7 @@ I. Les informations requises visées à l'article L. 362-1 doivent être rédig�
 
 a) La dénomination et l'adresse du siège social de l'entreprise ;
 
-b) L'adresse de la succursale en France, à laquelle l'Autorité de contrôle des assurances et des mutuelles et le ministre chargé de l'économie et des finances peuvent demander des informations pour l'exercice de leurs compétences ;
+b) L'adresse de la succursale en France, à laquelle l'Autorité de contrôle prudentiel et le ministre chargé de l'économie et des finances peuvent demander des informations pour l'exercice de leurs compétences ;
 
 c) Le nom et les pouvoirs du mandataire général ;
 

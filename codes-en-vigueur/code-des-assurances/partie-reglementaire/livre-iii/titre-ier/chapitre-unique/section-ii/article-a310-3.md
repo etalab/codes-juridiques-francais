@@ -1,6 +1,6 @@
 # Article A310-3
 
-I. - 1° En application du premier alinéa du I de l'article R. 310-17, toute entreprise projetant d'ouvrir une succursale ou d'exercer des activités en libre prestation de services doit fournir, en double exemplaire, à l'Autorité de contrôle des assurances et des mutuelles les documents et informations suivants :
+I. - 1° En application du premier alinéa du I de l'article R. 310-17, toute entreprise projetant d'ouvrir une succursale ou d'exercer des activités en libre prestation de services doit fournir, en double exemplaire, à l'Autorité de contrôle prudentiel les documents et informations suivants :
 
 a) La dénomination et l'adresse du siège social de l'entreprise ;
 
@@ -26,9 +26,9 @@ d) Un programme d'activité relatif à l'établissement envisagé comportant les
 
 e) Un programme d'activité complémentaire relatif à l'établissement envisagé comportant les pièces mentionnées au g (2 et 10) de l'article A. 321-1.
 
-II. - Le dossier communiqué par l'Autorité de contrôle des assurances et des mutuelles, en application du deuxième alinéa du I de l'article R. 310-17, aux autorités de l'Etat membre sur le territoire duquel l'entreprise envisage d'opérer en liberté d'établissement ou en libre prestation de services comprend :
+II. - Le dossier communiqué par l'Autorité de contrôle prudentiel, en application du deuxième alinéa du I de l'article R. 310-17, aux autorités de l'Etat membre sur le territoire duquel l'entreprise envisage d'opérer en liberté d'établissement ou en libre prestation de services comprend :
 
-1° Une attestation de l'Autorité de contrôle des assurances et des mutuelles certifiant que l'entreprise dispose de la marge de solvabilité conformément aux dispositions des sections II ou III du chapitre IV du titre III du livre III du présent code ;
+1° Une attestation de l'Autorité de contrôle prudentiel certifiant que l'entreprise dispose de la marge de solvabilité conformément aux dispositions des sections II ou III du chapitre IV du titre III du livre III du présent code ;
 
 2° Les éléments mentionnés aux a, c, d et e du 1° du I ainsi que, s'agissant de l'ouverture d'une succursale, les éléments mentionnés aux a, b, d et e du 2° du I.
 

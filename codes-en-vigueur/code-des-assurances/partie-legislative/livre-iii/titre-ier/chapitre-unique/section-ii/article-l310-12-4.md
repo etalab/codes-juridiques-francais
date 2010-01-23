@@ -1,6 +1,6 @@
 # Article L310-12-4
 
-Les entreprises soumises au contrôle de l'Autorité de contrôle des assurances et des mutuelles sont assujetties à une contribution pour frais de contrôle, acquittée chaque année, dont l'assiette est constituée par les primes ou cotisations émises et acceptées au cours de l'exercice clos durant l'année civile précédente, y compris les accessoires de primes, de cotisations, de coûts de contrats et règlements et coûts de police, nettes d'impôts, de cessions et d'annulations de l'exercice et de tous les exercices antérieurs, auxquelles s'ajoute la variation, au cours du même exercice, du total des primes ou cotisations restant à émettre, nettes de cession.
+Les entreprises soumises au contrôle de l'Autorité de contrôle prudentiel sont assujetties à une contribution pour frais de contrôle, acquittée chaque année, dont l'assiette est constituée par les primes ou cotisations émises et acceptées au cours de l'exercice clos durant l'année civile précédente, y compris les accessoires de primes, de cotisations, de coûts de contrats et règlements et coûts de police, nettes d'impôts, de cessions et d'annulations de l'exercice et de tous les exercices antérieurs, auxquelles s'ajoute la variation, au cours du même exercice, du total des primes ou cotisations restant à émettre, nettes de cession.
 
 Le taux de la contribution, fixé par décret, est compris entre 0, 05 pour mille et 0, 15 pour mille. Ce même décret peut fixer un taux distinct pour les organismes régis par le livre III du code de la mutualité.
 

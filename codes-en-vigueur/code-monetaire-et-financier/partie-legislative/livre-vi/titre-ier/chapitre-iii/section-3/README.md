@@ -1,4 +1,5 @@
-# Section 3 : Règles de fonctionnement.
+# Section 3 : Régime de contrôle spécifique
 
-- [Article L613-4](article-l613-4.md)
-- [Article L613-5](article-l613-5.md)
+- [Article L613-33](article-l613-33.md)
+- [Article L613-33-1](article-l613-33-1.md)
+- [Article L613-33-2](article-l613-33-2.md)

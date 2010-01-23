@@ -6,13 +6,13 @@ La proposition d'assurance ou le contrat comporte, à peine de nullité, la ment
 
 L'exercice du droit de renonciation dans le délai prévu au premier alinéa entraîne la résiliation du contrat à compter de la date de réception de la lettre recommandée mentionnée au même alinéa. Dès lors qu'il a connaissance d'un sinistre mettant en jeu la garantie du contrat, le souscripteur ne peut plus exercer ce droit de renonciation.
 
-En cas de renonciation, le souscripteur ne peut être tenu qu'au paiement de la partie de prime ou de cotisation correspondant à la période pendant laquelle le risque a couru, cette période étant calculée jusqu'à la date de la résiliation.L'entreprise d'assurance est tenue de rembourser au souscripteur le solde au plus tard dans les trente jours suivant la date de résiliation. Au-delà de ce délai, les sommes non versées produisent de plein droit intérêt au taux légal.
+En cas de renonciation, le souscripteur ne peut être tenu qu'au paiement de la partie de prime ou de cotisation correspondant à la période pendant laquelle le risque a couru, cette période étant calculée jusqu'à la date de la résiliation. L'entreprise d'assurance est tenue de rembourser au souscripteur le solde au plus tard dans les trente jours suivant la date de résiliation. Au-delà de ce délai, les sommes non versées produisent de plein droit intérêt au taux légal.
 
 Toutefois, l'intégralité de la prime reste due à l'entreprise d'assurance si le souscripteur exerce son droit de renonciation alors qu'un sinistre mettant en jeu la garantie du contrat et dont il n'a pas eu connaissance est intervenu pendant le délai de renonciation.
 
 Le présent article n'est applicable ni aux contrats d'assurance sur la vie ou de capitalisation ni aux contrats d'assurance de voyage ou de bagages ni aux contrats d'assurance d'une durée maximum d'un mois.
 
-Les infractions aux dispositions du présent article sont constatées et sanctionnées par l'autorité instituée à l'article L. 310-12 dans les conditions prévues au livre III.
+Les infractions aux dispositions du présent article sont constatées et sanctionnées par l'autorité instituée à l'article L. 612-1 du code monétaire et financier dans les conditions prévues au livre III du présent code.
 
 II.-Les infractions constituées par la violation des dispositions du deuxième alinéa et de la deuxième phrase du quatrième alinéa du I sont recherchées et constatées dans les mêmes conditions que les infractions prévues au I de l'article L. 141-1 du code de la consommation.
 

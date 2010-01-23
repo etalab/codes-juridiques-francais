@@ -1,4 +1,3 @@
-# Chapitre III : Mesures de sauvegarde et d'assainissement
+# Chapitre III : Mesures d'assainissement des entreprises communautaires
 
-- [Section I : Règles générales.](section-i)
-- [Section II : Mesures d'assainissement des entreprises communautaires.](section-ii)
+- [Section II](section-ii)

@@ -12,6 +12,6 @@ L'interdiction relative aux opérations de crédit ne s'applique pas :
 
 4. Abrogé ;
 
-5. Aux associations sans but lucratif et aux fondations reconnues d'utilité publique accordant sur ressources propres et sur emprunts contractés auprès d'établissements de crédit, ou d'institutions ou services mentionnés à l'article L. 518-1, des prêts pour la création et le développement d'entreprises dont l'effectif salarié n'excède pas un nombre fixé par décret ou pour la réalisation de projets d'insertion par des personnes physiques. Ces organismes sont habilités et contrôlés dans des conditions définies par décret en Conseil d'Etat ;
+5. Aux associations sans but lucratif et aux fondations reconnues d'utilité publique accordant sur ressources propres et sur emprunts contractés auprès d'établissements de crédit, ou d'institutions ou services mentionnés à l'article L. 518-1, des prêts pour la création et le développement d'entreprises dont l'effectif salarié n'excède pas un nombre fixé par décret ou pour la réalisation de projets d'insertion par des personnes physiques. Ces organismes sont habilités  dans des conditions définies par décret en Conseil d'Etat ;
 
 6. Aux personnes morales pour les prêts participatifs qu'elles consentent en vertu des articles L. 313-13 à L. 313-17 et aux personnes morales mentionnées à l'article L. 313-21-1 pour la délivrance des garanties prévues par cet article.

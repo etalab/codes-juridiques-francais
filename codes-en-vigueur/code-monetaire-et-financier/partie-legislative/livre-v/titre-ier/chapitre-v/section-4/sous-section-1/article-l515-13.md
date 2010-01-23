@@ -1,6 +1,6 @@
 # Article L515-13
 
-I.-Les sociétés de crédit foncier sont des établissements de crédit, agréés en qualité de société financière par le comité des établissements de crédit et des entreprises d'investissement, qui ont pour objet exclusif :
+I.-Les sociétés de crédit foncier sont des établissements de crédit, agréés en qualité de société financière par l'Autorité de contrôle prudentiel, qui ont pour objet exclusif :
 
 1. De consentir ou d'acquérir des prêts garantis, des expositions sur des personnes publiques et des titres et valeurs tels que définis aux articles L. 515-14 à L. 515-17 ;
 

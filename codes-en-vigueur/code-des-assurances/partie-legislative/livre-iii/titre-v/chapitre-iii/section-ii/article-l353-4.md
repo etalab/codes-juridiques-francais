@@ -1,6 +1,6 @@
 # Article L353-4
 
-I. - Sous la seule réserve d'en informer préalablement le Comité des entreprises d'assurance, toute entreprise d'assurance peut prendre sur le territoire de la République française des engagements en régime de libre prestation de services lorsque le souscripteur a pris l'initiative de solliciter ces engagements auprès de l'entreprise d'assurance. Un décret en Conseil d'Etat fixe les documents à produire à l'appui de cette information.
+I.-Sous la seule réserve d'en informer préalablement l'Autorité de contrôle prudentiel, toute entreprise d'assurance peut prendre sur le territoire de la République française des engagements en régime de libre prestation de services lorsque le souscripteur a pris l'initiative de solliciter ces engagements auprès de l'entreprise d'assurance. Un décret en Conseil d'Etat fixe les documents à produire à l'appui de cette information.
 
 Le souscripteur est réputé avoir pris l'initiative lorsque l'une au moins des deux situations suivantes est réalisée :
 
@@ -8,4 +8,4 @@ Le souscripteur est réputé avoir pris l'initiative lorsque l'une au moins des 
 
 2° Le souscripteur s'est adressé à un intermédiaire d'assurance établi en France en vue de se procurer des informations sur des contrats d'assurance offerts par des entreprises d'assurance établies dans d'autres Etats membres ou en vue de souscrire un contrat auprès d'une de ces entreprises.
 
-II. - Les entreprises d'assurance ne bénéficient des dispositions du premier alinéa du I du présent article que si le souscripteur a signé, avant de souscrire le contrat, une déclaration par laquelle il reconnaît savoir que l'entreprise d'assurance concernée est soumise au régime de contrôle de l'Etat où elle est établie ; il signe également, le cas échéant, une déclaration analogue avant de prendre connaissance des informations mentionnées au dernier alinéa (2°) du I.
+II.-Les entreprises d'assurance ne bénéficient des dispositions du premier alinéa du I du présent article que si le souscripteur a signé, avant de souscrire le contrat, une déclaration par laquelle il reconnaît savoir que l'entreprise d'assurance concernée est soumise au régime de contrôle de l'Etat où elle est établie ; il signe également, le cas échéant, une déclaration analogue avant de prendre connaissance des informations mentionnées au dernier alinéa (2°) du I.

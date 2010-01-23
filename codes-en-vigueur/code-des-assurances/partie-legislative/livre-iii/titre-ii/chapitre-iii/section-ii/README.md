@@ -1,3 +1,3 @@
-# Section II : Mesures d'assainissement des entreprises communautaires.
+# Section II
 
 - [Article L323-8](article-l323-8.md)

@@ -1,4 +1,4 @@
-# Chapitre Ier : Dispositions relatives aux institutions communes aux établissements de crédit et aux entreprises d'investissement
+# Chapitre Ier : Dispositions relatives à l'Autorité de contrôle prudentiel
 
 - [Section 1 : Comité des établissements de crédit et des entreprises d'investissement](section-1)
-- [Section 2 : Commission bancaire](section-2)
+- [Article L641-1](article-l641-1.md)
