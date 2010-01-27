@@ -8,4 +8,6 @@ Le conseil exécutif délibère sur les décisions individuelles intervenant dan
 
 3° Nomination aux emplois fonctionnels de la collectivité ;
 
-4° Exercice du droit de préemption dans les conditions définies à l'article LO 6314-7.
+4° Exercice du droit de préemption dans les conditions définies à l'article LO 6314-7 ;
+
+5° Agréments et décisions desquels dépend le bénéfice d'un avantage prévu par la réglementation fiscale de la collectivité.
