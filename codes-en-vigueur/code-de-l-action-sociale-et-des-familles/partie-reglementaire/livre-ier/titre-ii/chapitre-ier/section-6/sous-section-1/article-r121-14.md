@@ -4,49 +4,49 @@ L'Agence nationale pour la cohésion sociale et l'égalité des chances est admi
 
 1° Treize représentants de l'Etat disposant de la moitié des voix :
 
-- le secrétaire général du comité interministériel des villes disposant de quatre voix ;
+-le secrétaire général du comité interministériel des villes disposant de quatre voix ;
 
-- le directeur général de l'action sociale disposant d'une voix ;
+-le      directeur général de la cohésion sociale  disposant d'une voix ;
 
-- le secrétaire général du ministère de l'intérieur disposant de deux voix ;
+-le secrétaire général du ministère de l'intérieur disposant de deux voix ;
 
-- le secrétaire général du comité interministériel de prévention de la délinquance disposant d'une voix ;
+-le secrétaire général du comité interministériel de prévention de la délinquance disposant d'une voix ;
 
-- le directeur du budget disposant de deux voix ;
+-le directeur du budget disposant de deux voix ;
 
-- le délégué général à l'emploi et à la formation professionnelle disposant d'une voix ;
+-le délégué général à l'emploi et à la formation professionnelle disposant d'une voix ;
 
-- le secrétaire général du ministère de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire disposant d'une voix ;
+-le secrétaire général du ministère de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire disposant d'une voix ;
 
-- le directeur général de l'enseignement scolaire disposant d'une voix ;
+-le directeur général de l'enseignement scolaire disposant d'une voix ;
 
-- le secrétaire général du ministère de la justice disposant d'une voix ;
+-le secrétaire général du ministère de la justice disposant d'une voix ;
 
-- le directeur général de la santé disposant d'une voix ;
+-le directeur général de la santé disposant d'une voix ;
 
-- le secrétaire général du ministère chargé de la culture disposant d'une voix ;
+-le secrétaire général du ministère chargé de la culture disposant d'une voix ;
 
-- le directeur de la jeunesse, de l'éducation populaire et de la vie associative disposant d'une voix ;
+-le directeur de la jeunesse, de l'éducation populaire et de la vie associative disposant d'une voix ;
 
-- le directeur de l'habitat, de l'urbanisme et des paysages disposant d'une voix.
+-le directeur de l'habitat, de l'urbanisme et des paysages disposant d'une voix.
 
 2° Huit représentants des organisations syndicales d'employeurs et de salariés représentatives au plan national disposant chacun d'une voix ;
 
 3° Deux représentants du Parlement disposant chacun d'une voix :
 
-- un député ;
+-un député ;
 
-- un sénateur ;
+-un sénateur ;
 
 4° Quatre représentants des communes, de leurs groupements, des départements et des régions disposant chacun d'une voix désignés respectivement par :
 
-- l'Association des maires de France ;
+-l'Association des maires de France ;
 
-- l'Assemblée des départements de France ;
+-l'Assemblée des départements de France ;
 
-- l'Association des régions de France ;
+-l'Association des régions de France ;
 
-- l'Association des communautés de France ;
+-l'Association des communautés de France ;
 
 5° Quatre personnalités qualifiées, choisies en raison de leur expérience dans les domaines de compétence de l'agence, disposant chacune d'une voix.
 

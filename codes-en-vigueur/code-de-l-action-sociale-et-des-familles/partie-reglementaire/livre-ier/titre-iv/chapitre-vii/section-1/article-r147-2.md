@@ -8,7 +8,7 @@ Le représentant des conseils généraux est nommé sur proposition de l'Assembl
 
 Les représentants des ministres concernés sont :
 
-1° Le directeur général de l'action sociale et le chef du service des droits des femmes et de l'égalité ou leurs représentants au ministère des affaires sociales ;
+1° Le directeur général de la cohésion sociale ou son représentant au ministère des affaires sociales ;
 
 2° Le directeur des affaires civiles et du sceau ou son représentant au ministère de la justice ;
 

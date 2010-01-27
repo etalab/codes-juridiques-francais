@@ -32,11 +32,11 @@ l) Le directeur général de l'industrie, des technologies de l'information et d
 
 m) Le directeur du commerce, de l'artisanat, des services et des professions libérales au ministère chargé de l'artisanat ;
 
-n) Le           délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ;
+n) Le délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ;
 
 o) Le secrétaire général du comité interministériel prévu à l'article L. 910-1 du code du travail ;
 
-p) La chef du service des droits des femmes et de l'égalité au ministère chargé des droits des femmes ;
+p) Le chef du service des droits des femmes et de l'égalité au ministère chargé des droits des femmes ;
 
 2° Quatre représentants des organisations professionnelles d'employeurs les plus représentatives ;
 

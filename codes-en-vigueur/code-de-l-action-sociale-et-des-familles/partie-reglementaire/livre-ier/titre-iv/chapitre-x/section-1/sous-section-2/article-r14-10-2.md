@@ -30,7 +30,7 @@ Le conseil de la Caisse nationale de solidarité pour l'autonomie est composé d
 
 6° Dix représentants de l'Etat :
 
--le directeur général de l'action sociale, ou son représentant ;
+-le      directeur général de la cohésion sociale , ou son représentant ;
 
 -le directeur de la sécurité sociale, ou son représentant ;
 

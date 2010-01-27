@@ -2,7 +2,7 @@
 
 Outre son président, le Comité national de vigilance et de lutte contre la maltraitance des personnes âgées et des adultes handicapés est composé de représentants des organismes et administrations en charge de la politique en faveur des personnes âgées et des personnes handicapées :
 
-1° Le directeur général de l'action sociale ;
+1° Le      directeur général de la cohésion sociale  ;
 
 2° Le directeur de l'hospitalisation et de l'organisation des soins ;
 
@@ -24,7 +24,7 @@ Outre son président, le Comité national de vigilance et de lutte contre la mal
 
 11° Le président de l'Association Allô maltraitance des personnes âgées (Alma-France) ;
 
-12° Le président de l'Association francilienne pour la bientraitance des aînés et/ou des handicapés (AFBAH) ;
+12° Le président de l'Association francilienne pour la bientraitance des aînés et / ou des handicapés (AFBAH) ;
 
 13° Le président de l'Institut national d'aide aux victimes et de médiation (INAVEM) ;
 

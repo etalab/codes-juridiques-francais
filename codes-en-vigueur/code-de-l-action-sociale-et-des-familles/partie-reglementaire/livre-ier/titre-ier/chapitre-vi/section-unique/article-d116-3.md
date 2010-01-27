@@ -4,4 +4,4 @@ Le Comité national de vigilance et de lutte contre la maltraitance des personne
 
 Le président du comité, sur proposition des membres, arrête un programme de travail annuel.
 
-Le secrétariat du comité est assuré par la direction générale de l'action sociale.
+Le secrétariat du comité est assuré par la      direction générale de la cohésion sociale .

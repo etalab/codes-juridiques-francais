@@ -18,7 +18,7 @@ b) Au titre du ministère chargé de l'emploi :
 
 ― le directeur général de la formation professionnelle ou son représentant ;
 
-― le directeur général de l'action sociale ou son représentant ;
+― le      directeur général de la cohésion sociale  ou son représentant ;
 
 c) Au titre du ministère chargé de l'éducation nationale :
 
