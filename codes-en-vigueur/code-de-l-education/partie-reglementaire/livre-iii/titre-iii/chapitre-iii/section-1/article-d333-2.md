@@ -4,7 +4,7 @@ Trois voies de formation sont organisées dans les lycées :
 
 1° La voie générale conduisant au diplôme national du baccalauréat général ;
 
-2° La voie technologique conduisant au diplôme national du baccalauréat technologique et au diplôme national du brevet de technicien qui porte mention d'une spécialité technique. Ces diplômes attestent que leurs titulaires sont aptes à exercer une activité de technicien ;
+2° La voie technologique conduisant au diplôme national du baccalauréat technologique et au diplôme national du brevet de technicien qui porte mention d'une spécialité technique. Le diplôme national du brevet de technicien atteste que ses titulaires sont aptes à exercer une activité de technicien ;
 
 3° La voie professionnelle conduisant à la délivrance du certificat d'aptitude professionnelle, du brevet d'études professionnelles et du baccalauréat professionnel. Ces diplômes portent mention d'une spécialité professionnelle.
 
@@ -22,4 +22,6 @@ b) Un cycle de référence de trois ans conduisant au diplôme du baccalauréat 
 
 Des passerelles permettant une adaptation des parcours sont organisées entre les voies générale, technologique et professionnelle ainsi qu'entre les cycles de la voie professionnelle.
 
-Des dispositifs d'aide et d'accompagnement sont mis en place pour les élèves qui en ont besoin, sur proposition de l'équipe pédagogique de la classe.
+Des dispositifs d'accompagnement personnalisé sont mis en place pour tous les élèves selon leurs besoins dans les classes de seconde, première et terminale préparant aux baccalauréats général, technologique et professionnel. Ils comprennent des activités de soutien, d'approfondissement, d'aide méthodologique et d'aide à l'orientation, pour favoriser la maîtrise progressive par l'élève de son parcours de formation et d'orientation. Ils prennent notamment la forme de travaux interdisciplinaires (1).
+
+Un dispositif de tutorat est proposé à tous les élèves, pour les aider à construire leur parcours de formation et d'orientation (1).
