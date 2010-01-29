@@ -1,6 +1,6 @@
 # Article R421-41
 
-La commission permanente instruit les questions soumises à l'examen du conseil d'administration. Elle est saisie obligatoirement des questions qui relèvent des domaines définis à l'article R. 421-2. Elle veille à ce qu'il soit procédé à toutes consultations utiles, et notamment à celles des équipes pédagogiques intéressées.
+La commission permanente instruit les questions soumises à l'examen du conseil d'administration. Elle est saisie obligatoirement des questions qui relèvent des domaines définis à l'article R. 421-2. Elle veille à ce qu'il soit procédé à toutes consultations utiles, et notamment à celles des équipes pédagogiques intéressées ainsi que du conseil pédagogique.
 
 Elle peut recevoir délégation du conseil d'administration pour exercer certaines de ses compétences, dans les conditions prévues à l'article R. 421-22. Les décisions prises sur délégation sont transmises aux membres du conseil d'administration dans le délai de quinze jours.
 

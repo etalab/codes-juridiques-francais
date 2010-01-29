@@ -6,7 +6,7 @@ En qualité d'organe délibérant de l'établissement, le conseil d'administrati
 
 2° Il adopte le projet d'établissement et approuve le contrat d'objectifs qui doit avoir été communiqué à la collectivité territoriale au moins un mois avant la réunion du conseil ;
 
-3° Il établit chaque année un rapport sur le fonctionnement pédagogique de l'établissement et ses conditions matérielles de fonctionnement. Ce rapport rend compte notamment de la mise en œuvre du projet d'établissement, des expérimentations menées par l'établissement et du contrat d'objectifs ;
+3° Il délibère chaque année sur le rapport relatif au fonctionnement pédagogique de l'établissement et à ses conditions matérielles de fonctionnement. Ce rapport rend compte notamment de la mise en œuvre du projet d'établissement, des expérimentations menées par l'établissement et du contrat d'objectifs ;
 
 4° Il adopte :
 

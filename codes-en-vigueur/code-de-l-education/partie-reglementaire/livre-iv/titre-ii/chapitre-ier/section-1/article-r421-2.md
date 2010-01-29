@@ -4,7 +4,7 @@ Les collèges, les lycées, les écoles régionales du premier degré et les ét
 
 1° L'organisation de l'établissement en classes et en groupes d'élèves ainsi que les modalités de répartition des élèves ;
 
-2° L'emploi des dotations en heures d'enseignement mises à la disposition de l'établissement dans le respect des obligations résultant des horaires réglementaires ;
+2° L'emploi des dotations en heures d'enseignement et, dans les lycées, d'accompagnement personnalisé mises à la disposition de l'établissement dans le respect des obligations résultant des horaires réglementaires ;
 
 3° L'organisation du temps scolaire et les modalités de la vie scolaire ;
 
