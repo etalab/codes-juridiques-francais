@@ -1,7 +1,5 @@
 # Chapitre IX : Contrôle.
 
-- [Article L719-1](article-l719-1.md)
-- [Article L719-2](article-l719-2.md)
 - [Article L719-3](article-l719-3.md)
 - [Article L719-4](article-l719-4.md)
 - [Article L719-5](article-l719-5.md)

@@ -2,10 +2,6 @@
 
 - [Article L741-9](article-l741-9.md)
 - [Article L741-10](article-l741-10.md)
-- [Article L741-10-1](article-l741-10-1.md)
-- [Article L741-10-2](article-l741-10-2.md)
-- [Article L741-10-3](article-l741-10-3.md)
-- [Article L741-10-4](article-l741-10-4.md)
 - [Article L741-11](article-l741-11.md)
 - [Article L741-12](article-l741-12.md)
 - [Article L741-13](article-l741-13.md)
@@ -21,5 +17,4 @@
 - [Article L741-21](article-l741-21.md)
 - [Article L741-22](article-l741-22.md)
 - [Article L741-23](article-l741-23.md)
-- [Article L741-24](article-l741-24.md)
 - [Article L741-25](article-l741-25.md)
