@@ -12,4 +12,4 @@ Le temps à passer dans chacun des échelons pour accéder à l'échelon supéri
 
 4° Les maîtres des requêtes accèdent au 7e échelon après douze ans dans ce grade ou, sous réserve d'avoir passé un an au moins au 6e échelon, après seize ans depuis l'entrée dans le corps comme auditeur ; ils accèdent au 8e échelon après quinze ans dans ce grade ou, sous réserve d'avoir passé un an au moins dans les deux échelons précédents, après dix-neuf ans depuis l'entrée dans le corps comme auditeur.
 
-Les conseillers d'Etat accèdent au 2e échelon après avoir passé cinq ans au moins dans le 1er échelon.
+Les conseillers d'Etat accèdent au 2e échelon après avoir passé cinq ans au moins dans le 1er échelon. Le temps passé dans un emploi de directeur d'administration centrale ou un emploi au moins équivalent est pris en compte comme temps de service dans le 1er échelon.
