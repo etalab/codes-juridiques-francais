@@ -4,4 +4,4 @@ Pour chaque race, est créée une commission de stud-book. Elle est présidée p
 
 La commission de stud-book détermine la politique d'amélioration génétique et de sélection de la race, propose les modifications du règlement de stud-book et se prononce sur les cas particuliers d'application de ce règlement aux équidés relevant de la race concernée.
 
-Le secrétariat des commissions de stud-book est assuré par l'établissement public Les Haras nationaux.
+Le secrétariat des commissions de stud-book est assuré par l'établissement public Institut français du cheval et de l'équitation.

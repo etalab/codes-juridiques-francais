@@ -1,5 +1,6 @@
 # Sous-section 2 : Contrôle financier
 
+- [Article A211-32](article-a211-32.md)
 - [Article A211-33](article-a211-33.md)
 - [Article A211-34](article-a211-34.md)
 - [Article A211-35](article-a211-35.md)
