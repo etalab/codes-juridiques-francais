@@ -1,8 +1,5 @@
 # Sous-section 2 : L'Institut français du cheval et de l'équitation
 
-- [Paragraphe 1 : Missions.](paragraphe-1)
-- [Paragraphe 2 : Administration et fonctionnement.](paragraphe-2)
-- [Paragraphe 3 : Organisation financière.](paragraphe-3)
 - [Article R653-13](article-r653-13.md)
 - [Article R653-14](article-r653-14.md)
 - [Article R653-15](article-r653-15.md)
