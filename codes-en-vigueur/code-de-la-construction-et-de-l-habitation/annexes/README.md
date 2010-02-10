@@ -12,6 +12,7 @@
 - [Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution.](statuts-types-des-societes-anonymes-cooperatives-d-habitations-a)
 - [Statuts types des sociétés anonymes coopératives de production d'habitations à loyer modéré.](statuts-types-des-societes-anonymes-cooperatives-de-production-d-habitations-a)
 - [Statuts types des sociétés anonymes d'habitations à loyer modéré.](statuts-types-des-societes-anonymes-d-habitations-a)
+- [Convention-type applicable au secteur locatif intermédiaire et au secteur locatif social portant sur un immeuble ou sur un ou plusieurs logements bénéficiant de subventions pour travaux](convention-type-applicable-au)
 - [Clauses types applicables aux sociétés immobilières locatives mentionnées à l'article L. 313-1-2.](clauses-types-applicables-aux)
 - [Convention type pour les établissements de crédit consentant des prêts conventionnés.](convention-type-pour-les-etablissements-de-credit-consentant-des-prets-conventionnes)
 - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour personnes âgées.](convention-conclue-entre-l-etat-l-organisme-proprietaire-et)
