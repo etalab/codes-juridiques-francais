@@ -1,6 +1,6 @@
 # Article D732-80
 
-Le montant de la cotisation due pour chaque année faisant l'objet du rachat est calculé en appliquant le taux de la cotisation prévue au b) du 2° de l'article L. 731-42 à un revenu égal à quatre cents fois la valeur horaire du salaire minimum de croissance, en vigueur au 1er janvier de l'année de versement.
+Le montant de la cotisation due pour chaque année faisant l'objet du rachat est égal à 15 % du quadruple du montant du versement prévu au 2° de l'article D. 732-46.
 
 Dans le cas de demande unique effectuée en fin de carrière dans les conditions précisées au premier alinéa de l'article D. 732-79, le versement des cotisations de rachat peut être échelonné, avec l'accord de la caisse compétente, sur une période dont la durée ne peut excéder quatre ans à compter de la notification de l'admission au rachat. Les cotisations dont le versement est ainsi échelonné sont majorées du taux fixé par arrêté du ministre chargé de la sécurité sociale en application du dernier alinéa de l'article R. 742-39 du code de la sécurité sociale.
 
