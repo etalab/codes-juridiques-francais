@@ -48,8 +48,6 @@ Sous cette rubrique, il convient de faire entrer des perturbations qui, d'un poi
 
 - troubles addictifs graves ;
 
-- troubles précoces de l'identité de genre ;
-
 - dysharmonies évolutives graves de l'enfance, etc.
 
 Il est essentiel, sur ce terrain, de ne pas étendre à l'excès le cadre des troubles mentaux justifiant l'exonération du ticket modérateur. A titre d'exemple :
