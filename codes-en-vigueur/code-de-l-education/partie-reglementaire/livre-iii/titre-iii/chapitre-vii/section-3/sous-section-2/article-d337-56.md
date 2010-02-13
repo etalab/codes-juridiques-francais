@@ -4,4 +4,4 @@ L'admission, à l'issue de la classe de troisième, et la progression dans le cy
 
 L'admission, à l'issue de la classe de troisième, et la progression dans le cycle conduisant aux spécialités de baccalauréat professionnel mentionnées au deuxième alinéa de l'article D. 337-53 s'effectuent dans les conditions fixées par les articles D. 341-1 et suivants.L'organisation et la durée de ce cycle sont définies aux articles D. 810-5 et R. 811-145 du code rural.
 
-Pour les spécialités de baccalauréat professionnel mentionnées au troisième alinéa de l'article D. 337-53, l'admission dans le cycle est prononcée, dans les conditions fixées par arrêté du ministre chargé de l'éducation et du ministre chargé de la mer, par le directeur régional des affaires maritimes.
+Pour les spécialités de baccalauréat professionnel mentionnées au troisième alinéa de l'article D. 337-53, l'admission dans le cycle est prononcée, dans les conditions fixées par arrêté du ministre chargé de l'éducation et du ministre chargé de la mer, par le    directeur interrégional de la mer.

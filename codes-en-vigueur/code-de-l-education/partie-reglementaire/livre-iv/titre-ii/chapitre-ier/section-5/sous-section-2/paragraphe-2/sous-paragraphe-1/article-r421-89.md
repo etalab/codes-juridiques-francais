@@ -8,7 +8,7 @@ Le conseil d'administration des lycées professionnels maritimes comprend :
 
 3° Deux représentants de la commune siège de l'établissement ;
 
-4° Quatre personnalités qualifiées, dont deux désignées par le conseil régional et deux par le directeur régional des affaires maritimes ;
+4° Quatre personnalités qualifiées, dont deux désignées par le conseil régional et deux par le    directeur interrégional de la mer ;
 
 5° Huit représentants élus des personnels de l'établissement ;
 
