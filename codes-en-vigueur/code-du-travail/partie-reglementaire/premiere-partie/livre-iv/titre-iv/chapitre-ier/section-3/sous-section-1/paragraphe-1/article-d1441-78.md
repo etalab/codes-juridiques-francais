@@ -4,6 +4,6 @@ Au vu des listes électorales, un arrêté du préfet, pris dans les délais fix
 
 1° Les maires, qui, le cas échéant, recueillent préalablement l'avis de la commission administrative mentionnée à l'article L. 1441-13 ;
 
-2° Le directeur départemental du travail, de l'emploi et de la formation professionnelle ;
+2° Le             directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ;
 
 3° Les représentants locaux des organisations d'employeurs et de salariés représentatives au niveau national.

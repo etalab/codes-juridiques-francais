@@ -1,6 +1,6 @@
 # Article D4622-15
 
-Le service de santé au travail d'entreprise ou d'établissement ou commun aux entreprises constituant une unité économique et sociale fait, après avis du médecin inspecteur du travail, l'objet d'un agrément préalable par le directeur régional du travail, de l'emploi et de la formation professionnelle.
+Le service de santé au travail d'entreprise ou d'établissement ou commun aux entreprises constituant une unité économique et sociale fait, après avis du médecin inspecteur du travail, l'objet d'un agrément préalable par le             directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
 
 La demande d'agrément est renouvelée tous les cinq ans.
 

@@ -1,6 +1,6 @@
 # Article R4721-1
 
-La mise en demeure du directeur départemental du travail, de l'emploi, et de la formation professionnelle, prévue au 2° de l'article L. 4721-1, peut être adressée à l'employeur lorsque la situation dangereuse créant un risque professionnel trouve son origine, notamment :
+La mise en demeure du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, prévue au 2° de l'article L. 4721-1, peut être adressée à l'employeur lorsque la situation dangereuse créant un risque professionnel trouve son origine, notamment :
 
 1° Dans les conditions d'organisation du travail ou d'aménagement du poste de travail ;
 

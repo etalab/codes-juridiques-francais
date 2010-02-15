@@ -8,9 +8,9 @@ a) Les recteurs d'académie ;
 
 b) Des représentants des services de l'Etat désignés par le préfet de région, dont :
 
-― le directeur régional du travail, de l'emploi et de la formation professionnelle ;
+― le             directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ;
 
-― le directeur régional de l'agriculture et de la forêt ;
+― le directeur régional de l'alimentation, de l'agriculture et de la forêt ;
 
 ― le directeur régional de la jeunesse, des sports et de la vie associative ;
 

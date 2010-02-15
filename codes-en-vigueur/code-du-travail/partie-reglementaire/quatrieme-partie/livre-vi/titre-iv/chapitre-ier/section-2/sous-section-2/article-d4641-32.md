@@ -4,15 +4,11 @@ Les membres du comité régional sont :
 
 1° Au titre du collège des administrations régionales de l'Etat :
 
-a) Le directeur régional du travail, de l'emploi et de la formation professionnelle et trois autres membres de ce service qu'il désigne ;
+a) Le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi et trois autres membres de ce service qu'il désigne ;
 
 b) Le directeur régional des affaires sanitaires et sociales ;
 
 c) Le directeur régional de l'industrie, de la recherche et de l'environnement ;
-
-d) abrogé ;
-
-e) abrogé ;
 
 2° Au titre du collège des partenaires sociaux :
 

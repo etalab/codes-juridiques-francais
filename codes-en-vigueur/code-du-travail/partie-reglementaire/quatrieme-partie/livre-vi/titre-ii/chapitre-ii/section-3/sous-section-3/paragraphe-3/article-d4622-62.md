@@ -6,4 +6,4 @@ Elle se réunit au moins une fois par an.
 
 L'ordre du jour des réunions est arrêté par le président du service de santé au travail.
 
-Le procès-verbal de chaque réunion est transmis au directeur régional du travail, de l'emploi et de la formation professionnelle dans le délai d'un mois à compter de la date de la réunion.
+Le procès-verbal de chaque réunion est transmis au             directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi dans le délai d'un mois à compter de la date de la réunion.

@@ -4,4 +4,4 @@ Le comité d'entreprise ou, à défaut, les délégués du personnel sont consul
 
 L'étude est également communiquée aux délégués syndicaux.
 
-L'étude et les avis recueillis sont communiqués au directeur départemental du travail, de l'emploi et de la formation professionnelle.
+L'étude et les avis recueillis sont communiqués au directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.

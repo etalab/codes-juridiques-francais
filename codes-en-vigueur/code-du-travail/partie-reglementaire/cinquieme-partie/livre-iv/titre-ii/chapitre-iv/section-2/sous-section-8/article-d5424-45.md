@@ -4,4 +4,4 @@ Les contestations collectives résultant de l'application de la présente sectio
 
 Cette commission est composée de quatre membres employeurs et de quatre membres salariés désignés respectivement par les organisations d'employeurs et de salariés représentatives pour l'ensemble des activités professionnelles énumérées à l'article D. 5424-7.
 
-Elle siège sous la présidence du directeur départemental du travail, de l'emploi et de la formation professionnelle en présence, le cas échéant, des représentants des administrations intéressées.
+Elle siège sous la présidence du             directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi en présence, le cas échéant, des représentants des administrations intéressées.

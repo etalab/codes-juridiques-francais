@@ -2,7 +2,7 @@
 
 Lorsque le contrat de professionnalisation, ou l'action de professionnalisation lorsqu'il s'agit d'un contrat de travail à durée indéterminée, est rompu avant son terme, l'employeur signale cette rupture dans un délai de trente jours :
 
-1° Au directeur départemental du travail, de l'emploi et de la formation professionnelle ;
+1° Au             directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ;
 
 2° A l'organisme collecteur paritaire agréé ;
 

@@ -1,6 +1,6 @@
 # Article D1233-13
 
-Le directeur départemental du travail, de l'emploi et de la formation professionnelle adresse les pièces suivantes à l'employeur par lettre recommandée :
+Le             directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi adresse les pièces suivantes à l'employeur par lettre recommandée :
 
 1° Le constat de carence établi en application de l'article L. 1233-52 ;
 

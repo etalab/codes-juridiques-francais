@@ -4,4 +4,4 @@ Les membres de la commission départementale sont désignés par le préfet selo
 
 1° Des organisations d'employeurs et de travailleurs intéressées représentatives au niveau national ;
 
-2° Du directeur départemental du travail, de l'emploi et de la formation professionnelle.
+2° Du             directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.

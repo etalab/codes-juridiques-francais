@@ -1,6 +1,6 @@
 # Article R7123-24
 
-L'agence de mannequins établie dans un autre Etat de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen adresse, préalablement à l'exercice d'une activité sur le territoire français, à la direction départementale du travail, de l'emploi et de la formation professionnelle du lieu d'exécution de son activité, une déclaration comportant les mentions suivantes :
+L'agence de mannequins établie dans un autre Etat de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen adresse, préalablement à l'exercice d'une activité sur le territoire français, à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi du lieu d'exécution de son activité, une déclaration comportant les mentions suivantes :
 
 1° Le nom ou la raison sociale et l'adresse du lieu d'établissement de l'agence de mannequins ;
 

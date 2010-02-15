@@ -8,7 +8,7 @@ Elle comprend :
 
 2° L'inspecteur d'académie ou son représentant ;
 
-3° Le directeur départemental du travail, de l'emploi et de la formation professionnelle ou son représentant ;
+3° Le             directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou son représentant ;
 
 4° Le directeur départemental des affaires sanitaires et sociales ou son représentant ;
 

@@ -4,4 +4,4 @@ La faculté de récupération est, en cas de chômage extraordinaire et prolong�
 
 1° Par arrêté du ministre chargé du travail soit pour l'ensemble du territoire, soit pour une ou plusieurs régions ;
 
-2° Par décision du directeur régional du travail, de l'emploi et de la formation professionnelle pour des établissements spécialement déterminés.
+2° Par décision du             directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi pour des établissements spécialement déterminés.

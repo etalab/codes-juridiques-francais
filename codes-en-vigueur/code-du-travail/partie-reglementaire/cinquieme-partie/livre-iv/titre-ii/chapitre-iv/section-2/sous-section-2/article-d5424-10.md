@@ -1,3 +1,3 @@
 # Article D5424-10
 
-La décision du directeur départemental du travail, de l'emploi et de la formation professionnelle est soumise à l'approbation du ministre chargé de l'emploi.
+La décision du             directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi est soumise à l'approbation du ministre chargé de l'emploi.

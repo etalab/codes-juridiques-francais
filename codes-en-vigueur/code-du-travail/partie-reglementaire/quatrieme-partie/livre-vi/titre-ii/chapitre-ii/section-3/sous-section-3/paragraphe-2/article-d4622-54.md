@@ -4,4 +4,4 @@ L'ordre du jour des réunions de la commission de contrôle est arrêté par le 
 
 Il est transmis par le président aux membres de la commission au moins quinze jours avant la date de la réunion, accompagné des documents correspondants.
 
-Il est communiqué, dans les mêmes conditions, à l'inspecteur du travail et au directeur régional du travail, de l'emploi et de la formation professionnelle.
+Il est communiqué, dans les mêmes conditions, à l'inspecteur du travail et au             directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.

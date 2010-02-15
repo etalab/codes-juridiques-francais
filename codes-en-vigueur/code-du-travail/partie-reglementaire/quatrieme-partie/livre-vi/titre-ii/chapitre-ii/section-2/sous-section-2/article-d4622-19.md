@@ -1,6 +1,6 @@
 # Article D4622-19
 
-Lorsque le directeur régional du travail, de l'emploi et de la formation professionnelle constate que les conditions de fonctionnement du service de santé au travail d'entreprise ou d'établissement ne satisfont pas aux obligations résultant des prescriptions du présent titre, il peut, après avis du médecin-inspecteur du travail et sous réserve d'un engagement précis et daté de mise en conformité de la part de l'employeur :
+Lorsque le             directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi constate que les conditions de fonctionnement du service de santé au travail d'entreprise ou d'établissement ne satisfont pas aux obligations résultant des prescriptions du présent titre, il peut, après avis du médecin-inspecteur du travail et sous réserve d'un engagement précis et daté de mise en conformité de la part de l'employeur :
 
 1° Mettre fin à l'agrément précédemment accordé ;
 

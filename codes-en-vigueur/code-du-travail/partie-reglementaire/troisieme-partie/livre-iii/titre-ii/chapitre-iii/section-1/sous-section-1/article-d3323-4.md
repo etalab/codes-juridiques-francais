@@ -1,6 +1,6 @@
 # Article D3323-4
 
-Lorsqu'un accord de participation de groupe est conclu, les documents déposés à la direction départementale du travail, de l'emploi et de la formation professionnelle comportent :
+Lorsqu'un accord de participation de groupe est conclu, les documents déposés à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi comportent :
 
 1° Quel que soit le mode de conclusion de l'accord, les mandats habilitant le mandataire des différentes sociétés intéressées à signer l'accord de groupe ;
 
