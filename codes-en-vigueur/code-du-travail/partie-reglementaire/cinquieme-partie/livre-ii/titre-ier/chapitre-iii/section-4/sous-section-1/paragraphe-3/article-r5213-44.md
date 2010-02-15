@@ -1,6 +1,6 @@
 # Article R5213-44
 
-Lorsque la demande émane d'un bénéficiaire de l'obligation d'emploi exerçant une activité professionnelle non salariée, elle est adressée, par pli recommandé avec avis de réception, au directeur départemental du travail, de l'emploi et de la formation professionnelle du département où il exerce son activité professionnelle.
+Lorsque la demande émane d'un bénéficiaire de l'obligation d'emploi exerçant une activité professionnelle non salariée, elle est adressée, par pli recommandé avec avis de réception, au             directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi du département où il exerce son activité professionnelle.
 
 Elle contient :
 

@@ -1,6 +1,6 @@
 # Article R5132-35
 
-La convention fait l'objet d'un bilan d'activité annuel, transmis au directeur départemental du travail, de l'emploi et de la formation professionnelle et au directeur départemental des affaires sanitaires et sociales.
+La convention fait l'objet d'un bilan d'activité annuel, transmis au             directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi et au directeur départemental des affaires sanitaires et sociales.
 
 Lorsque l'organisme conventionné bénéficie de l'aide à l'accompagnement prévue à l'article L. 5132-2, ce document comprend un bilan des réalisations en termes de suivi, d'accompagnement social et professionnel, d'encadrement des personnes présentant des difficultés sociales et professionnelles particulières, comportant notamment les mentions suivantes :
 

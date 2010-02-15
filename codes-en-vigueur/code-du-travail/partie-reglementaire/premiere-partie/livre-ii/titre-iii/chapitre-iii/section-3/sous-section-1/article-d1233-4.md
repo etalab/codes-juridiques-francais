@@ -1,6 +1,6 @@
 # Article D1233-4
 
-La notification du projet de licenciement prévue à l'article L. 1233-46 est adressée au directeur départemental du travail, de l'emploi et de la formation professionnelle par lettre recommandée.
+La notification du projet de licenciement prévue à l'article L. 1233-46 est adressée au directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi par lettre recommandée.
 
 Outre les renseignements prévus au troisième alinéa de l'article précité, la notification précise :
 

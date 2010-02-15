@@ -8,4 +8,4 @@ Lorsque cette liste n'a pas été remise, l'agent de contrôle le mentionne dans
 
 2° L'objet et le montant de chacun des contrats qu'elles ont conclus en méconnaissance des obligations prévues à l'article L. 8254-1.
 
-Un exemplaire du procès-verbal et, le cas échéant, de la notice sont adressés au directeur départemental du travail, de l'emploi et de la formation professionnelle.
+Un exemplaire du procès-verbal et, le cas échéant, de la notice sont adressés au             directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
