@@ -1,6 +1,5 @@
 # Sous-section 1 : Prélèvements, analyses et essais
 
-- [Article R521-1](article-r521-1.md)
 - [Article R521-2](article-r521-2.md)
 - [Article R521-2-1](article-r521-2-1.md)
 - [Article R521-2-2](article-r521-2-2.md)
