@@ -5,3 +5,4 @@
 - [Article A80 CB-3-3](article-a80-cb-3-3.md)
 - [Article A80 CB-3-4](article-a80-cb-3-4.md)
 - [Article A80 CB-3-5](article-a80-cb-3-5.md)
+- [Article A80 CB-6-1](article-a80-cb-6-1.md)
