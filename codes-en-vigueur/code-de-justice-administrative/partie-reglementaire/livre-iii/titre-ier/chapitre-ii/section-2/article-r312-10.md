@@ -4,4 +4,4 @@ Les litiges relatifs aux législations régissant les activités professionnelle
 
 Si, pour ces mêmes catégories de litiges, la décision contestée a un caractère réglementaire et ne s'applique que dans le ressort d'un seul tribunal administratif, ce tribunal administratif est compétent pour connaître du litige.
 
-Par dérogation aux dispositions du premier alinéa, les recours mentionnés à l'article R. 311-3 sont portés devant le tribunal administratif dans le ressort duquel se situe le siège de l'entreprise.
+Par dérogation aux dispositions du premier alinéa, les recours contre les décisions prises par les autorités administratives en matière de composition et d'élection des institutions représentatives du personnel, sur le fondement des dispositions des titres Ier, II et III du livre III de la deuxième partie du code du travail, sont portés devant le tribunal administratif dans le ressort duquel se situe le siège de l'entreprise.

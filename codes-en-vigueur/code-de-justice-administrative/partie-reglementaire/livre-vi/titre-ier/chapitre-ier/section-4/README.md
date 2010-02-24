@@ -9,4 +9,3 @@
 - [Article R611-26](article-r611-26.md)
 - [Article R611-27](article-r611-27.md)
 - [Article R611-29](article-r611-29.md)
-- [Article R611-30](article-r611-30.md)

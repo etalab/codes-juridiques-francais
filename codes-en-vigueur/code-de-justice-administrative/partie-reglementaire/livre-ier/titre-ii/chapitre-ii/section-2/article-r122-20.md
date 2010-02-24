@@ -17,3 +17,5 @@ L'assemblée du contentieux comprend :
 La présidence de l'assemblée du contentieux appartient au vice-président du Conseil d'Etat.
 
 L'assemblée ne peut valablement siéger que si neuf de ses membres ou leurs suppléants sont présents.
+
+L'assemblée du contentieux ne peut statuer qu'en nombre impair. Lorsque les membres présents à la séance ayant voix délibérative sont en nombre pair, l'assemblée est complétée par le président de sous-section le plus ancien dans ses fonctions ne siégeant pas au titre du 4° ou du 5° ou, à défaut, par l'assesseur le plus ancien dans ses fonctions.

@@ -12,4 +12,4 @@ Lorsqu'il est manifeste qu'aucun moyen sérieux n'est invoqué, le président de
 
 2° Les pourvois dirigés contre les ordonnances prises en application de l'article R. 222-1 ;
 
-3° Les pourvois dirigés contre les ordonnances prises en application des articles L. 521-1, L. 521-3, L. 521-4 et L. 522-3.
+3° Les pourvois dirigés contre les ordonnances prises en application des articles L. 521-1, L. 521-3, L. 521-4, L. 522-3, R. 541-1 ainsi que contre les ordonnances rejetant les demandes présentées sur le fondement des dispositions du chapitre Ier du titre V du livre V.
