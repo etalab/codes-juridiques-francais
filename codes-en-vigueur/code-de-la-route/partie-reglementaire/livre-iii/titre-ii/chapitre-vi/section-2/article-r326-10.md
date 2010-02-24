@@ -1,6 +1,6 @@
 # Article R326-10
 
-Toute personne souhaitant être inscrite sur la liste des experts en automobile doit en faire la demande au secrétariat de la commission. Cette demande est accompagnée des pièces justificatives suivantes :
+Toute personne, à l'exception de celles visées au II de l'article L. 326-4, souhaitant être inscrite sur la liste des experts en automobile doit en faire la demande au secrétariat de la commission. Cette demande est accompagnée des pièces justificatives suivantes :
 
 1° Un document établissant l'état civil de l'intéressé ;
 
@@ -21,3 +21,9 @@ La commission peut, en outre, demander à l'intéressé de fournir tout autre do
 5° Un extrait du bulletin n° 3 du casier judiciaire, ou pour les ressortissants étrangers un document équivalent, accompagné d'une déclaration sur l'honneur de l'intéressé selon laquelle il n'a fait l'objet d'aucune des condamnations pénales prévues à l'article L. 326-2 et n'est pas sous le coup d'un jugement rendu en application de l'article L. 326-9 lui interdisant d'exercer l'activité d'expert en automobile ;
 
 6° La copie de l'attestation justifiant que le demandeur a suivi la formation dans les conditions prévues à l'article R. 326-17 lorsqu'il sollicite la reconnaissance de sa qualification pour le contrôle des véhicules endommagés prévue par les articles L. 327-1 à L. 327-6.
+
+Les pièces visées aux 4° et 5° ne peuvent dater de plus de trois mois au moment de leur production.
+
+Les documents en langue étrangère visés au présent article sont accompagnés de leur traduction en langue française.
+
+La commission accuse réception du dossier du demandeur dans un délai d'un mois à compter de sa réception et l'informe, le cas échéant, de tout document manquant. Elle statue sur la demande d'inscription par une décision motivée qui doit intervenir dans un délai de trois mois à compter de la date de réception du dossier complet présenté par l'intéressé.
