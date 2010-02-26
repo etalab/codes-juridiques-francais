@@ -1,6 +1,6 @@
 # Article L633-5
 
-Le service public hospitalier concourt à l'enseignement universitaire et postuniversitaire pharmaceutique en application de l'article L. 6112-1 du code de la santé publique.
+Les établissements de santé concourent à l'enseignement universitaire et postuniversitaire pharmaceutique en application de l'article L. 6112-1 du code de la santé publique.
 
 Au cours des études qui conduisent au diplôme d'Etat de docteur en pharmacie ainsi qu'à certaines spécialités qui s'y rattachent, les étudiants accomplissent des stages dans les laboratoires hospitaliers de biologie ou les pharmacies hospitalières.
 

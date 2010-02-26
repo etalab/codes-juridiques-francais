@@ -10,7 +10,7 @@ Outre les officiers et agents de police judiciaire énumérés aux articles 16 e
 
 4° Les agents mentionnés aux 1° à 7° du I de l'article L. 231-2 ;
 
-5° Les médecins inspecteurs départementaux de la santé ;
+5° (Abrogé) ;
 
 6° Les agents chargés de la métrologie légale ;
 

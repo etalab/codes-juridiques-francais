@@ -1,6 +1,6 @@
 # Article L241-5
 
-La commission des droits et de l'autonomie des personnes handicapées comprend notamment des représentants du département, des services de l'Etat, des organismes de protection sociale, des organisations syndicales, des associations de parents d'élèves et, pour au moins un tiers de ses membres, des représentants des personnes handicapées et de leurs familles désignés par les associations représentatives, et un membre du conseil départemental consultatif des personnes handicapées. Des représentants des organismes gestionnaires d'établissements ou de services siègent à la commission avec voix consultative.
+La commission des droits et de l'autonomie des personnes handicapées comprend notamment des représentants du département,     des services et des établissements publics de l'Etat, des organismes de protection sociale, des organisations syndicales, des associations de parents d'élèves et, pour au moins un tiers de ses membres, des représentants des personnes handicapées et de leurs familles désignés par les associations représentatives, et un membre du conseil départemental consultatif des personnes handicapées. Des représentants des organismes gestionnaires d'établissements ou de services siègent à la commission avec voix consultative.
 
 Le président de la commission est désigné tous les deux ans par les membres de la commission en son sein.
 

@@ -8,7 +8,7 @@ Sont qualifiés pour procéder à la recherche et à la constatation des infract
 
 -les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes, de la direction générale des douanes et des droits indirects ;
 
--les inspecteurs de la pharmacie et les médecins-inspecteurs de la santé du ministère chargé de la santé ;
+-les agents mentionnés aux articles L. 1421-1 et L. 1435-7 du code de la santé publique ayant la qualité de médecin ou de pharmacien, habilités et assermentés pour la recherche et le constat d'infractions au même code ;
 
 -les inspecteurs du travail ;
 

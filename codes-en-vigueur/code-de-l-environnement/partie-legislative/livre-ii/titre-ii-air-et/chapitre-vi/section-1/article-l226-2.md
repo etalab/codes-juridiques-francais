@@ -4,7 +4,7 @@ Outre les officiers et agents de police judiciaire agissant dans le cadre des di
 
 1° Les agents mentionnés à l'article L. 514-5 ;
 
-2° Les fonctionnaires et agents, commissionnés à cet effet et assermentés dans les conditions prévues par décret en Conseil d'Etat, appartenant aux services de l'Etat chargés de l'environnement, de l'industrie, de l'équipement, des transports, de la mer, de l'agriculture, de la concurrence, de la consommation et de la répression des fraudes, et de la santé ;
+2° Les fonctionnaires et agents, commissionnés à cet effet et assermentés dans les conditions prévues par décret en Conseil d'Etat, appartenant aux services de l'Etat chargés de l'environnement, de l'industrie, de l'équipement, des transports, de la mer, de l'agriculture, de la concurrence, de la consommation et de la répression des fraudes ;
 
 3° Les agents des douanes ;
 

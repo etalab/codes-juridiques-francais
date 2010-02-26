@@ -6,6 +6,6 @@ Ce certificat, rédigé sur un modèle établi par le ministère chargé de la s
 
 Ces informations ne peuvent être utilisées que pour des motifs de santé publique :
 
-1° A des fins de veille et d'alerte, par l'Etat et par l'Institut de veille sanitaire ;
+1° A des fins de veille et d'alerte, par l'Etat, les agences régionales de santé et l'Institut de veille sanitaire ;
 
 2° Pour l'établissement de la statistique nationale des causes de décès et pour la recherche en santé publique par l'Institut national de la santé et de la recherche médicale.

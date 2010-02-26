@@ -18,7 +18,7 @@ b) En charges, le remboursement aux régimes d'assurance maladie des charges aff
 
 Les opérations comptables relatives aux produits et aux charges de la présente section sont effectuées simultanément à la clôture des comptes de l'exercice.
 
-La dotation globale versée à l'agence mentionnée à l'article L. 312-8 est imputée sur le financement à la charge des organismes de sécurité sociale soumis à l'objectif de dépenses mentionné à l'article L. 314-3.
+La dotation globale versée à l'agence mentionnée à l'article L. 312-8 du présent code et la dotation versée à l'agence mentionnée à l'article L. 6113-10 du code de la santé publique sont imputées sur le financement à la charge des organismes de sécurité sociale soumis à l'objectif de dépenses mentionné à l'article L. 314-3 du présent code.
 
 II.-Une section consacrée à la prestation d'allocation personnalisée d'autonomie mentionnée à l'article L. 232-1. Elle retrace :
 
