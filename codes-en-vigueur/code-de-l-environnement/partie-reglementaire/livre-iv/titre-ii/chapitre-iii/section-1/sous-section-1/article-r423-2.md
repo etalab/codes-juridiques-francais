@@ -6,7 +6,7 @@ L'Office national de la chasse et de la faune sauvage reçoit les demandes d'ins
 
 -du montant du droit d'examen et de la déclaration sur l'honneur prévus à l'article L. 423-6 ainsi que du certificat médical prévu audit article, datant de moins de deux mois ;
 
--du droit de timbre pour la délivrance du permis de chasser prévu à l'article L. 423-10 ;
+-du montant de la redevance pour la délivrance du permis de chasser, prévu à l'article R. 423-11 ;
 
 -pour les majeurs en tutelle, d'une autorisation du juge des tutelles et pour les mineurs non émancipés, de l'autorisation de leur père, mère ou tuteur, de se présenter à l'examen du permis de chasser et d'obtenir la délivrance de ce permis en cas de réussite.
 
