@@ -12,7 +12,6 @@
 - [Article L732-34](article-l732-34.md)
 - [Article L732-35](article-l732-35.md)
 - [Article L732-35-1](article-l732-35-1.md)
-- [Article L732-36](article-l732-36.md)
 - [Article L732-37](article-l732-37.md)
 - [Article L732-38](article-l732-38.md)
 - [Article L732-39](article-l732-39.md)
