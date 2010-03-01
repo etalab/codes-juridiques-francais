@@ -12,11 +12,7 @@ II. Pour les catégories de placements définies par arrêté du ministre de l'�
 
 II bis. (Abrogé)
 
-III. Le prélèvement est obligatoirement applicable aux revenus visés ci-dessus, dont le débiteur est établi ou domicilié en France, qui sont encaissés par des personnes n'ayant pas en France leur domicile fiscal ou leur siège social.
-
-Toutefois, ce prélèvement n'est pas applicable aux intérêts des obligations émises à compter du 1er octobre 1984 par un débiteur domicilié ou établi en France lorsque le bénéficiaire effectif de ces intérêts justifie, auprès du débiteur ou de la personne qui en assure le paiement, qu'il a son domicile fiscal ou son siège hors du territoire de la République française, de Monaco ou d'un Etat dont l'institut d'émission est lié au Trésor français par un compte d'opération monétaire.
-
-De même, le prélèvement n'est pas obligatoirement applicable aux produits de titres de créances mentionnés au 1° bis du III bis du présent article.
+III. - Le prélèvement est obligatoirement applicable aux revenus et produits mentionnés aux I et II, dont le débiteur est établi ou domicilié en France et qui sont payés hors de France, dans un Etat ou territoire non coopératif au sens de l'article 238-0 A, sauf si le débiteur démontre que les opérations auxquelles correspondent ces revenus et produits ont principalement un objet et un effet autres que de permettre la localisation de ces revenus et produits dans un Etat ou territoire non coopératif.
 
 III bis. Le taux du prélèvement est fixé :
 
@@ -54,7 +50,9 @@ et à 60 % lorsque l'une de ces conditions n'est pas remplie.
 
 Un décret fixe les conditions d'application du présent 9° ;
 
-10° A 5 % pour les revenus des produits d'épargne donnés au profit d'un organisme mentionné au 1 de l'article 200 dans le cadre d'un mécanisme dit solidaire de versement automatique à l'organisme bénéficiaire par le gestionnaire du fonds d'épargne.
+10° A 5 % pour les revenus des produits d'épargne donnés au profit d'un organisme mentionné au 1 de l'article 200 dans le cadre d'un mécanisme dit solidaire de versement automatique à l'organisme bénéficiaire par le gestionnaire du fonds d'épargne ;
+
+11° A 50 % pour les revenus et produits soumis obligatoirement au prélèvement en application du III du présent article.
 
 IV.L'option pour le prélèvement prévue au I est subordonnée :
 
@@ -62,7 +60,7 @@ a. (Abrogé) ;
 
 b. En ce qui concerne les produits des bons de caisse, à la condition que les bons aient été émis par des établissements de crédit ;
 
-c. En ce qui concerne les produits des autres créances, à la condition que le capital et les intérêts ne fassent pas l'objet d'une indexation. Cette condition n'est cependant pas exigée lorsque l'indexation est autorisée en vertu des dispositions des articles L. 112-1 à L. 112-4 du code monétaire et financier ou, lorsque le débiteur est établi hors de France, serait autorisée en vertu de dispositions analogues. Elle n'est pas non plus exigée pour les titres de créance mentionnés au 2 du II de l'article L. 211-1 du code monétaire et financier ;
+c. En ce qui concerne les produits des autres créances, à la condition que le capital et les intérêts ne fassent pas l'objet d'une indexation. Cette condition n'est cependant pas exigée lorsque l'indexation est autorisée en vertu des dispositions des articles L. 112-1 à L. 112-4 du code monétaire et financier ou, lorsque le débiteur est établi hors de France, serait autorisée en vertu de dispositions analogues. Elle n'est pas non plus exigée pour les titres de créance mentionnés au 2 du II de l'article L. 211-1 du code monétaire et financier.
 
 V. Le caractère libératoire du prélèvement ne peut être invoqué pour les produits qui sont pris en compte pour la détermination du bénéfice imposable d'une entreprise industrielle, commerciale, artisanale ou agricole, ou d'une profession non commerciale.
 
