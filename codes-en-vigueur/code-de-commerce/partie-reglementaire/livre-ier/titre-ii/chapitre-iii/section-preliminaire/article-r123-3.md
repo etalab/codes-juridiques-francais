@@ -32,7 +32,7 @@ b) Les employeurs dont les entreprises ne sont pas immatriculées au registre du
 
 6° Les chambres d'agriculture créent et gèrent les centres compétents pour les personnes physiques et morales exerçant à titre principal des activités agricoles.
 
-7° Les centres des impôts créent et gèrent les centres compétents pour les personnes suivantes dès lors qu'elles exercent leur activité à titre de profession habituelle, qu'elles ne relèvent pas des dispositions des 1° à 6° et qu'elles n'ont pas d'autres obligations déclaratives que statistiques et fiscales :
+7° Les services des impôts créent et gèrent les centres compétents pour les personnes suivantes dès lors qu'elles exercent leur activité à titre de profession habituelle, qu'elles ne relèvent pas des dispositions des 1° à 6° et qu'elles n'ont pas d'autres obligations déclaratives que statistiques et fiscales :
 
 a) Les assujettis à la taxe sur la valeur ajoutée ;
 
@@ -42,4 +42,6 @@ c) Les redevables de l'impôt sur le revenu au titre des bénéfices non commerc
 
 d) Les redevables de l'impôt sur les sociétés.
 
-Les déclarations d'activité des personnes bénéficiant de la dispense d'immatriculation au registre du commerce et des sociétés ou au répertoire des métiers, prévue à l'article L. 123-1-1 ou au V de l'article 19 de la loi n° 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat, sont recueillies par les centres de formalités des entreprises mentionnés, respectivement, au 1° et au 2° du présent article. Lorsqu'elles sont effectuées par voie électronique, ces déclarations peuvent également être recueillies par les centres de formalités des entreprises mentionnés au 5. Elles sont alors transmises pour information, dans des conditions fixées par arrêté du ministre chargé du commerce et de l'artisanat, aux centres de formalités des entreprises mentionnés aux 1° et 2° pour les personnes relevant de leur compétence.
+Les déclarations des personnes bénéficiant de la dispense d'immatriculation au registre du commerce et des sociétés prévue à l'article L. 123-1-1 ainsi que les déclarations des personnes physiques exerçant une activité artisanale et ayant opté pour le régime prévu à l'article L. 133-6-8 du code de la sécurité sociale sont recueillies par les centres de formalités des entreprises mentionnés respectivement au 1° et au 2° du présent article. Lorsqu'elles sont effectuées par voie électronique, ces déclarations peuvent également être recueillies par les centres de formalités des entreprises mentionnés au 5. Elles sont alors transmises aux centres de formalités des entreprises compétents mentionnés aux 1° et 2° aux fins d'information ainsi que, le cas échéant, aux fins d'immatriculation au répertoire des métiers sans formalité additionnelle.
+
+Les personnes souhaitant exercer ou exerçant une activité de restauration à titre principal relèvent des centres de formalités des entreprises gérés par les chambres de commerce et d'industrie mentionnés au 1°.

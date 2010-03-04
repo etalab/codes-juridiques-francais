@@ -1,6 +1,8 @@
 # Article R123-8
 
-Le centre de formalités des entreprises est réputé saisi lorsque les déclarations qui lui sont remises directement ou par voie postale ou électronique sont établies sur les formulaires homologués prévus à l'article R. 123-7, signées du déclarant ou de son mandataire et qu'elles comportent au moins les énonciations indispensables pour identifier :
+Le centre de formalités des entreprises est réputé saisi du dossier visé à l'article R. 123-1 lorsque les déclarations et, le cas échéant, les demandes d'autorisation, qui lui sont remises directement ou adressées par voie postale ou électronique, répondent aux conditions suivantes :
+
+I.-Les déclarations visées au 1° du I de l'article R. 123-1 sont établies sur les formulaires homologués prévus à l'article R. 123-7, signées du déclarant ou de son mandataire. Elles comportent les énonciations indispensables pour identifier :
 
 1° Pour les créations d'entreprises :
 
@@ -29,3 +31,7 @@ b) Le numéro unique d'identification de l'entreprise et, le cas échéant, le n
 c) L'objet de la formalité, ainsi que la date d'effet de l'événement la justifiant.
 
 Le centre ne peut refuser les déclarations respectant les conditions ci-dessus énumérées, ni en apprécier le bien-fondé.
+
+II.-Les demandes d'autorisation visées au 2° du I de l'article R. 123-1 mentionnent l'identité du demandeur et l'objet de la demande.
+
+Le centre ne peut refuser les déclarations et demandes d'autorisation respectant les conditions ci-dessus énumérées ni en apprécier le bien-fondé.
