@@ -4,3 +4,5 @@
 - [Section 2 : De la participation délictueuse à un attroupement.](section-2)
 - [Section 3 : Des manifestations illicites et de la participation délictueuse à une manifestation ou à une réunion publique.](section-3)
 - [Section 4 : Des groupes de combat et des mouvements dissous.](section-4)
+- [Section 5 : De l'intrusion dans un établissement   d'enseignement scolaire](section-5)
+- [Section 6 : De l'introduction d'armes dans un établissement scolaire](section-6)

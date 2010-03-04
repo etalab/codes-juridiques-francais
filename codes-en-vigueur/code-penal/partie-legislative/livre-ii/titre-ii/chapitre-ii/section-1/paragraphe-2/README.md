@@ -9,6 +9,7 @@
 - [Article 222-13](article-222-13.md)
 - [Article 222-14](article-222-14.md)
 - [Article 222-14-1](article-222-14-1.md)
+- [Article 222-14-2](article-222-14-2.md)
 - [Article 222-15](article-222-15.md)
 - [Article 222-15-1](article-222-15-1.md)
 - [Article 222-16](article-222-16.md)
