@@ -8,7 +8,7 @@ Le conseil départemental de la protection de l'enfance comprend :
 
 3° Un magistrat du parquet ;
 
-4° Le directeur départemental de la protection judiciaire de la jeunesse ;
+4° Le        directeur territorial de la protection judiciaire de la jeunesse ;
 
 5° Le directeur départemental des affaires sanitaires et sociales ;
 

@@ -8,7 +8,7 @@ a) Le directeur régional des affaires sanitaires et sociales, vice-président, 
 
 b) Le trésorier payeur général de la région ou son représentant ;
 
-c) Le directeur régional de la protection judiciaire de la jeunesse ou son représentant ;
+c) Le        directeur interrégional de la protection judiciaire de la jeunesse ou son représentant ;
 
 d) Un recteur d'académie ou son représentant ;
 

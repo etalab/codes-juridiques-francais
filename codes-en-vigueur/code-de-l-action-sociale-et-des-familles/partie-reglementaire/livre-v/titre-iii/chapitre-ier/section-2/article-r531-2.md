@@ -8,7 +8,7 @@ Pour l'application du chapitre IV du titre Ier du livre III à Saint-Pierre-et-M
 
 3° Les attributions dévolues au directeur régional des affaires sanitaires et sociales ou au directeur départemental des affaires sanitaires et sociales sont dévolues au chef du service des affaires sanitaires et sociales ;
 
-4° Les attributions dévolues au directeur régional de la protection judiciaire de la jeunesse sont dévolues au chef du service de la protection judiciaire de la jeunesse ;
+4° Les attributions dévolues au        directeur interrégional de la protection judiciaire de la jeunesse sont dévolues au chef du service de la protection judiciaire de la jeunesse ;
 
 5° Les attributions dévolues au directeur départemental de la concurrence, de la consommation et de la répression des fraudes sont dévolues au chef du service de la concurrence, de la consommation et de la répression des fraudes ;
 

@@ -8,4 +8,4 @@ Pour l'application des dispositions du chapitre IV du titre I er du livre III da
 
 3° Les attributions dévolues au directeur départemental du travail, de l'emploi et de la formation professionnelle sont dévolues au directeur du travail, de l'emploi et de la formation professionnelle ;
 
-4° Les attributions dévolues au directeur régional de la protection judiciaire de la jeunesse sont dévolues au directeur départemental de la protection judiciaire de la jeunesse.
+4° Les attributions dévolues au directeur interrégional de la protection judiciaire de la jeunesse sont dévolues au        directeur territorial de la protection judiciaire de la jeunesse.

@@ -38,7 +38,7 @@ b) Les deux représentants des travailleurs sociaux ;
 
 7° Au titre des représentants du comité régional de l'organisation sanitaire, deux représentants du comité régional de l'organisation sanitaire n'appartenant pas à la catégorie mentionnée au 8° de l'article L. 6121-10.
 
-Dans la section spécialisée des établissements et services pour enfants relevant d'une protection administrative ou judiciaire, le directeur régional des affaires sanitaires et sociales est remplacé par le directeur régional de la protection judiciaire de la jeunesse.
+Dans la section spécialisée des établissements et services pour enfants relevant d'une protection administrative ou judiciaire, le directeur régional des affaires sanitaires et sociales est remplacé par le        directeur interrégional de la protection judiciaire de la jeunesse.
 
 La section spécialisée compétente pour les services mentionnés au 14° du I de l'article L. 312-1 est la section compétente pour les établissements et services pour personnes handicapées.
 
