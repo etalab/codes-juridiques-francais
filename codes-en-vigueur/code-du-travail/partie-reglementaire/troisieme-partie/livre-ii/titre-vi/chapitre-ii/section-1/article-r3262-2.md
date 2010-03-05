@@ -4,4 +4,4 @@ Les mentions prévues aux 1° à 4° et 6° de l'article R. 3262-1 sont apposée
 
 L'employeur indique, avant de remettre les titres aux salariés, la période d'utilisation mentionnée au 5° de ce même article si elle n'a pas été apposée par l'émetteur.
 
-Les mentions prévues au 7° sont apposées par le restaurateur au moment de l'acceptation du titre.
+Les mentions prévues au 7° sont apposées par le restaurateur ou le détaillant en fruits et légumes au moment de l'acceptation du titre.

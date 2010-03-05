@@ -1,4 +1,4 @@
-# Sous-section 2 : Condition d'exercice de la profession de restaurateur ou assimilé
+# Sous-section 2 : Condition d'exercice de la profession de restaurateur ou assimilé ou des détaillants en fruits et légumes
 
 - [Article R3262-26](article-r3262-26.md)
 - [Article R3262-27](article-r3262-27.md)

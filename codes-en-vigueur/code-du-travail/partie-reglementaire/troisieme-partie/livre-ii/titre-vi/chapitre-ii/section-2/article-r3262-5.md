@@ -1,6 +1,6 @@
 # Article R3262-5
 
-Les titres-restaurant ne peuvent être présentés en paiement d'un repas à un restaurateur que pendant l'année civile et la période d'utilisation dont ils font mention.
+Les titres-restaurant ne peuvent être présentés en paiement d'un repas à un restaurateur ou à un détaillant en fruits et légumes que pendant l'année civile et la période d'utilisation dont ils font mention.
 
 La période d'utilisation ne peut être inférieure à un mois, ni excéder un trimestre. Elle commence le premier jour et finit le dernier jour d'un mois, d'un bimestre ou d'un trimestre de l'année civile considérée.
 
