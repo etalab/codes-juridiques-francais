@@ -1,3 +1,3 @@
-# Sous-section 3 : La Commission bancaire
+# Sous-section 3 : L'Autorité de contrôle prudentiel
 
 - [Article R756-3](article-r756-3.md)
