@@ -6,3 +6,4 @@
 - [Article R*1311-36](article-r-1311-36.md)
 - [Article R*1311-37](article-r-1311-37.md)
 - [Article R*1311-38](article-r-1311-38.md)
+- [Article R1311-38-1](article-r1311-38-1.md)
