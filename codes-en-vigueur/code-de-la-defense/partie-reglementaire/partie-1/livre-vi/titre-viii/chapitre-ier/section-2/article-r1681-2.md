@@ -1,21 +1,21 @@
 # Article R1681-2
 
-La composition et l'organisation des zones de défense prévues à l'article L. 1311-1 sont fixées conformément au tableau suivant :
+La composition et l'organisation des zones de défense et de sécurité prévues à l'article L. 1311-1 sont fixées conformément au tableau suivant :
 
 <table>
 <thead>
 <tr>
 <td width="104">
-<p>ZONE DE DÉFENSE</p>
+<p>ZONE DE DÉFENSE ET DE SECURITE</p>
 </td>
 <td width="104">
 <p>COMPOSITION</p>
 </td>
 <td width="104">
-<p>HAUT FONCTIONNAIRE<br/>de zone de défense</p>
+<p>HAUT FONCTIONNAIRE<br/>de zone de défense et de sécurité</p>
 </td>
 <td width="216">
-<p>COMMANDANT<br/>de zone de défense</p>
+<p>COMMANDANT<br/>de zone de défense et de sécurité</p>
 </td>
 </tr>
 </thead>

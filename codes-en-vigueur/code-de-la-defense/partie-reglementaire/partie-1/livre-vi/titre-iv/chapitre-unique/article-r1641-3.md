@@ -4,7 +4,7 @@ Pour l'application de la présente partie du code dans les îles Wallis et Futun
 
 1° Au livre Ier, les décisions et directives intéressant la défense dans le domaine économique mentionnées à l'article R. 1142-36 sont coordonnées, préparées et exécutées dans les conditions prévues aux articles R. 1682-2 à R. 1682-6 ;
 
-2° Au livre II, l'organisation territoriale et opérationnelle de la défense est régie par les dispositions des articles R. 1681-2 à R. 1681-6 ;
+2° Au livre II, l'organisation territoriale et opérationnelle de la défense est régie par les dispositions des articles R. 1681-2 à R. 1681-5 ;
 
 3° Au livre III :
 
@@ -18,4 +18,6 @@ d) A l'article R. 1333-3 et au 1° du IV de l'article R. 1333-17, les mots : " l
 
 e) A l'avant-dernier alinéa de l'article R. 1333-4, les mots : " et du ministre chargé de l'énergie " sont remplacés par les mots : " du ministre chargé de l'énergie et du ministre chargé de l'outre-mer ", et à l'article R. 1333-18, les mots : " et du ministre chargé des transports " sont remplacés par les mots : " du ministre chargé des transports et du ministre chargé de l'outre-mer " ;
 
-f) Au premier alinéa de l'article R. 1333-78, le montant de 1 500 euros est remplacé par sa contrepartie en francs CFP.
+f) Au premier alinéa de l'article R. 1333-78, le montant de 1 500 euros est remplacé par sa contrepartie en francs CFP ;
+
+g) Les dispositions relatives à la mise en œuvre de la sécurité nationale dans les secteurs relevant de la compétence des îles Wallis et Futuna s'appliquent sous réserve des mesures d'adaptation nécessitées par l'organisation particulière du territoire.

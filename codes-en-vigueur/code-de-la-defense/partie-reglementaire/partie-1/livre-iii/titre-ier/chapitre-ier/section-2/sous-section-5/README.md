@@ -1,4 +1,4 @@
-# Sous-section 5 : Préfet délégué pour la sécurité et la défense auprès du préfet de zone
+# Sous-section 5 : Préfet délégué pour la défense et la sécurité auprès du préfet de zone de défense et de sécurité
 
 - [Article R1311-15](article-r1311-15.md)
 - [Article R1311-16](article-r1311-16.md)
