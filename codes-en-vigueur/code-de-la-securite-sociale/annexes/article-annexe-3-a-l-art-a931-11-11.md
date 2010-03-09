@@ -20,7 +20,7 @@ Tout changement de méthode et de présentation des comptes annuels doit être d
 
 1. Pour le bilan.
 
-1.1. Les institutions de prévoyance et les unions d'institutions de prévoyance indiquent les mouvements ayant affecté les divers éléments de l'actif ci-après énumérés :
+1. 1. Les institutions de prévoyance et les unions d'institutions de prévoyance indiquent les mouvements ayant affecté les divers éléments de l'actif ci-après énumérés :
 
 -les actifs incorporels ;
 
@@ -32,13 +32,13 @@ Tout changement de méthode et de présentation des comptes annuels doit être d
 
 Les institutions et les unions indiquent, pour chacune de ces catégories d'actif, le montant brut en début et en fin d'exercice, les transferts et mouvements de l'exercice, le montant cumulé des amortissements et provisions pour dépréciation à la clôture et le montant net inscrit au bilan, ainsi que les dotations aux amortissements et provisions pour dépréciation et les reprises de provisions pour dépréciation constatées au cours de l'exercice.
 
-1.1 bis. Les institutions et les unions indiquent ces mêmes informations pour les éléments d'actifs relatifs à l'action sociale décomposées en placements immobiliers, placements immobiliers en cours, placements financiers et autres actifs.
+1. 1 bis. Les institutions et les unions indiquent ces mêmes informations pour les éléments d'actifs relatifs à l'action sociale décomposées en placements immobiliers, placements immobiliers en cours, placements financiers et autres actifs.
 
-1.2. En ce qui concerne les placements autres que ceux visés au 1. 1, les institutions et les unions indiquent les dotations aux amortissements et aux provisions pour dépréciation constatées au cours de l'exercice, par poste de bilan. Elles indiquent également, par poste du bilan, le montant brut, le montant cumulé des amortissements et des provisions pour dépréciation à la clôture et le montant net inscrit au bilan.
+1. 2. En ce qui concerne les placements autres que ceux visés au 1. 1, les institutions et les unions indiquent les dotations aux amortissements et aux provisions pour dépréciation constatées au cours de l'exercice, par poste de bilan. Elles indiquent également, par poste du bilan, le montant brut, le montant cumulé des amortissements et des provisions pour dépréciation à la clôture et le montant net inscrit au bilan.
 
-1.3. Les institutions et les unions établissent un état détaillé et un état récapitulatif de l'ensemble des placements inscrits à leur bilan.L'état récapitulatif figure obligatoirement dans l'annexe.
+1. 3. Les institutions et les unions établissent un état détaillé et un état récapitulatif de l'ensemble des placements inscrits à leur bilan.L'état récapitulatif figure obligatoirement dans l'annexe.
 
-Lorsqu'une institution ou une union décide de ne pas le faire figurer dans l'annexe, l'état détaillé doit, dans les mêmes délais que les comptes annuels, être établi par l'institution ou l'union et communiqué aux commissaires aux comptes, qui en vérifient la sincérité et la concordance avec les comptes annuels dans les conditions définies au troisième alinéa de l'article L. 823-10 du code de commerce ; dans ce cas, l'état détaillé est délivré à toute personne qui en fait la demande et à l'Autorité de contrôle instituée par l'article L. 951-1 dans les conditions définies à l'article R. 931-11-8.
+Lorsqu'une institution ou une union décide de ne pas le faire figurer dans l'annexe, l'état détaillé doit, dans les mêmes délais que les comptes annuels, être établi par l'institution ou l'union et communiqué aux commissaires aux comptes, qui en vérifient la sincérité et la concordance avec les comptes annuels dans les conditions définies au troisième alinéa de l'article L. 823-10 du code de commerce ; dans ce cas, l'état détaillé est délivré à toute personne qui en fait la demande et à              l'Autorité de contrôle prudentiel dans les conditions définies à l'article R. 931-11-8.
 
 A.-L'état détaillé comporte :
 
@@ -72,90 +72,90 @@ Les tableaux sont présentés selon le modèle ci-dessous :
 <tbody>
 <tr>
 <td rowspan="2" width="115">
-<p align="center">NOMBRE</p>
-<p align="center">et désignation des valeurs ou des actifs avec, le cas échéant, mention de la devise autre que le FF dans laquelle elles sont libellées</p>
+<p align="center">NOMBRE </p>
+<p align="center">et désignation des valeurs ou des actifs avec, le cas échéant, mention de la devise autre que le FF dans laquelle elles sont libellées </p>
 </td>
 <td rowspan="2" width="82">
-<p align="center">AFFECTATION</p>
+<p align="center">AFFECTATION </p>
 </td>
 <td rowspan="2" width="82">
-<p align="center">LOCALISATION</p>
+<p align="center">LOCALISATION </p>
 </td>
 <td colspan="2" width="149">
-<p align="center">VALEUR INSCRITE AU BILAN</p>
+<p align="center">VALEUR INSCRITE AU BILAN </p>
 </td>
 <td rowspan="2" width="67">
-<p align="center">VALEUR</p>
-<p align="center">nette</p>
+<p align="center">VALEUR </p>
+<p align="center">nette </p>
 </td>
 <td rowspan="2" width="67">
-<p align="center">VALEUR</p>
-<p align="center">de réalisation</p>
+<p align="center">VALEUR </p>
+<p align="center">de réalisation </p>
 </td>
 <td rowspan="2" width="82">
-<p align="center">VALEUR</p>
-<p align="center">de</p>
-<p align="center">remboursement</p>
+<p align="center">VALEUR </p>
+<p align="center">de </p>
+<p align="center">remboursement </p>
 </td>
 </tr>
 <tr>
 <td width="74">
-<p align="center">Valeur brute</p>
+<p align="center">Valeur brute </p>
 </td>
 <td width="74">
-<p align="center">Corrections de valeur</p>
-</td>
-</tr>
-<tr>
-<td width="115">
-<p align="center">(A)</p>
-</td>
-<td width="82">
-<p align="center">(B)</p>
-</td>
-<td width="82">
-<p align="center">(B 1)</p>
-</td>
-<td width="74">
-<p align="center">(C)</p>
-</td>
-<td width="74">
-<p align="center">(D)</p>
-</td>
-<td width="67">
-<p align="center">(E)</p>
-</td>
-<td width="67">
-<p align="center">(F)</p>
-</td>
-<td width="82">
-<p align="center">(G)</p>
+<p align="center">Corrections de valeur </p>
 </td>
 </tr>
 <tr>
 <td width="115">
-<p align="center">(1)</p>
+<p align="center">(A) </p>
 </td>
 <td width="82">
-<p align="center">(2)</p>
+<p align="center">(B) </p>
 </td>
 <td width="82">
-<p align="center">(3)</p>
+<p align="center">(B 1) </p>
 </td>
 <td width="74">
-<p align="center">(4)</p>
+<p align="center">(C) </p>
 </td>
 <td width="74">
-<p align="center">(5)</p>
+<p align="center">(D) </p>
+</td>
+<td width="67">
+<p align="center">(E) </p>
+</td>
+<td width="67">
+<p align="center">(F) </p>
+</td>
+<td width="82">
+<p align="center">(G) </p>
+</td>
+</tr>
+<tr>
+<td width="115">
+<p align="center">(1) </p>
+</td>
+<td width="82">
+<p align="center">(2) </p>
+</td>
+<td width="82">
+<p align="center">(3) </p>
+</td>
+<td width="74">
+<p align="center">(4) </p>
+</td>
+<td width="74">
+<p align="center">(5) </p>
 </td>
 <td width="67">
 <br/>
 </td>
 <td width="67">
-<p align="center">(6)</p>
+<p align="center">(6) </p>
 </td>
 <td width="82">
-<p align="center">(7)</p>
+<p align="center">(7) </p>
 </td>
 </tr>
 </tbody>
@@ -273,9 +273,9 @@ b) Le montant des terrains et constructions en faisant apparaître, de manière 
 
 c) Le solde non encore amorti ou non encore repris correspondant à la différence sur prix de remboursement des titres, évalués conformément à l'article R. 931-10-40.
 
-1.4. Les institutions et les unions indiquent la ventilation selon leur durée résiduelle, en distinguant les tranches jusqu'à un an, de un jusqu'à cinq ans, au-delà de cinq ans, de leurs créances et dettes.
+1. 4. Les institutions et les unions indiquent la ventilation selon leur durée résiduelle, en distinguant les tranches jusqu'à un an, de un jusqu'à cinq ans, au-delà de cinq ans, de leurs créances et dettes.
 
-1.5. Les institutions et les unions indiquent :
+1. 5. Les institutions et les unions indiquent :
 
 -le montant des participations et parts détenues dans des entreprises d'assurance liées ;
 
@@ -285,9 +285,9 @@ c) Le solde non encore amorti ou non encore repris correspondant à la différen
 
 Certaines de ces indications peuvent ne pas être fournies à la condition que l'institution ou l'union soit en mesure de justifier le préjudice grave qui pourrait résulter de leur divulgation. Il est alors fait mention du caractère incomplet des informations figurant sur la liste.
 
-1.6. En ce qui concerne les opérations se rapportant à des entreprises liées et à des entreprises avec lesquelles existe un lien de participation, les institutions et les unions indiquent, séparément pour chacune de ces deux catégories, le montant des parts détenues dans ces entreprises (actions et autres titres à revenu variable), et le montant des créances et des dettes sur ces entreprises, détaillées par poste et sous-poste du bilan et, pour les créances et dettes nées d'opérations directes, en distinguant les créances ou dettes sur les preneurs d'assurance et les créances ou dettes sur les intermédiaires.
+1. 6. En ce qui concerne les opérations se rapportant à des entreprises liées et à des entreprises avec lesquelles existe un lien de participation, les institutions et les unions indiquent, séparément pour chacune de ces deux catégories, le montant des parts détenues dans ces entreprises (actions et autres titres à revenu variable), et le montant des créances et des dettes sur ces entreprises, détaillées par poste et sous-poste du bilan et, pour les créances et dettes nées d'opérations directes, en distinguant les créances ou dettes sur les preneurs d'assurance et les créances ou dettes sur les intermédiaires.
 
-1.7. En ce qui concerne les passifs subordonnés, les institutions et les unions mentionnent :
+1. 7. En ce qui concerne les passifs subordonnés, les institutions et les unions mentionnent :
 
 a) Pour chaque dette, matérialisée ou non par un titre, représentant plus de 10 % du montant total des dettes subordonnées :
 
@@ -301,7 +301,7 @@ a) Pour chaque dette, matérialisée ou non par un titre, représentant plus de 
 
 b) Pour les autres dettes subordonnées, les modalités qui les régissent de manière globale et leur répartition par nature de dette.
 
-1.8. Les institutions et les unions fournissent :
+1. 8. Les institutions et les unions fournissent :
 
 a) La ventilation des réserves en distinguant les réserves statutaires et chacune des réserves réglementaires et la réserve de l'action sociale des autres réserves, avec leur dénomination précise ;
 
@@ -309,11 +309,11 @@ b) Le montant des éléments du bilan ayant fait l'objet d'une réévaluation au
 
 c) Le détail des mouvements ayant affecté la composition des fonds propres au cours de l'exercice, notamment les réserves incorporées au fonds d'établissement ou les augmentations de fonds d'établissement ou de fonds de développement ou les montants affectant la réserve de l'action sociale.
 
-1.9. Les institutions et les unions fournissent le montant des frais d'établissement, ventilés selon leur nature, des frais de développement, de la valeur d'achat des fonds commerciaux et des autres actifs incorporels.
+1. 9. Les institutions et les unions fournissent le montant des frais d'établissement, ventilés selon leur nature, des frais de développement, de la valeur d'achat des fonds commerciaux et des autres actifs incorporels.
 
-1.10. Les institutions et les unions doivent indiquer, dès lors qu'il est important, le montant des provisions pour risques en cours.L'appréciation de l'importance du montant s'effectue globalement.
+1. 10. Les institutions et les unions doivent indiquer, dès lors qu'il est important, le montant des provisions pour risques en cours.L'appréciation de l'importance du montant s'effectue globalement.
 
-1.11. Les institutions et les unions précisent :
+1. 11. Les institutions et les unions précisent :
 
 a) Dès lors qu'il est significatif, le montant des recours à recevoir déduits des provisions pour sinistres à payer.L'appréciation du caractère significatif du montant s'effectue globalement ;
 
@@ -323,37 +323,37 @@ c) Les institutions et les unions agréées pour la branche mentionnée au 16 (a
 <tbody>
 <tr>
 <td rowspan="2" width="259">
-<p align="center">ANNÉE D'INVENTAIRE</p>
+<p align="center">ANNÉE D'INVENTAIRE </p>
 </td>
 <td colspan="5" width="346">
-<p align="center">EXERCICE DE SURVENANCE</p>
+<p align="center">EXERCICE DE SURVENANCE </p>
 </td>
 </tr>
 <tr>
 <td width="69">
-<p align="center">19....</p>
-<p align="center">(n - 4)</p>
+<p align="center">19.... </p>
+<p align="center">(n-4) </p>
 </td>
 <td width="69">
-<p align="center">19....</p>
-<p align="center">(n - 3)</p>
+<p align="center">19.... </p>
+<p align="center">(n-3) </p>
 </td>
 <td width="70">
-<p align="center">19....</p>
-<p align="center">(n - 2)</p>
+<p align="center">19.... </p>
+<p align="center">(n-2) </p>
 </td>
 <td width="69">
-<p align="center">19....</p>
-<p align="center">(n - 1)</p>
+<p align="center">19.... </p>
+<p align="center">(n-1) </p>
 </td>
 <td width="70">
-<p align="center">19....</p>
-<p align="center">n</p>
+<p align="center">19.... </p>
+<p align="center">n </p>
 </td>
 </tr>
 <tr>
 <td width="259">
-<p align="center">Inventaire N - 2</p>
+<p align="center">Inventaire N-2 </p>
 </td>
 <td width="69">
 <br/>
@@ -373,7 +373,7 @@ c) Les institutions et les unions agréées pour la branche mentionnée au 16 (a
 </tr>
 <tr>
 <td valign="top" width="259">
-<p>Règlements</p>
+<p>Règlements </p>
 </td>
 <td valign="top" width="69"/>
 <td valign="top" width="69"/>
@@ -383,7 +383,7 @@ c) Les institutions et les unions agréées pour la branche mentionnée au 16 (a
 </tr>
 <tr>
 <td valign="top" width="259">
-<p>Provisions</p>
+<p>Provisions </p>
 </td>
 <td valign="top" width="69"/>
 <td valign="top" width="69"/>
@@ -393,7 +393,7 @@ c) Les institutions et les unions agréées pour la branche mentionnée au 16 (a
 </tr>
 <tr>
 <td valign="top" width="259">
-<p>Total sinistres</p>
+<p>Total sinistres </p>
 </td>
 <td valign="top" width="69"/>
 <td valign="top" width="69"/>
@@ -403,7 +403,7 @@ c) Les institutions et les unions agréées pour la branche mentionnée au 16 (a
 </tr>
 <tr>
 <td valign="top" width="259">
-<p>Cotisations acquises</p>
+<p>Cotisations acquises </p>
 </td>
 <td valign="top" width="69"/>
 <td valign="top" width="69"/>
@@ -413,77 +413,7 @@ c) Les institutions et les unions agréées pour la branche mentionnée au 16 (a
 </tr>
 <tr>
 <td valign="top" width="259">
-<p>Pourcentage sinistres/cotisations acquises</p>
-</td>
-<td valign="top" width="69"/>
-<td valign="top" width="69"/>
-<td valign="top" width="70"/>
-<td valign="top" width="69"/>
-<td valign="top" width="70"/>
-</tr>
-<tr>
-<td width="259">
-<p align="center">Inventaire N - 1</p>
-</td>
-<td width="69">
-<br/>
-</td>
-<td width="69">
-<br/>
-</td>
-<td width="70">
-<br/>
-</td>
-<td width="69">
-<br/>
-</td>
-<td width="70">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="259">
-<p>Règlements</p>
-</td>
-<td valign="top" width="69"/>
-<td valign="top" width="69"/>
-<td valign="top" width="70"/>
-<td valign="top" width="69"/>
-<td valign="top" width="70"/>
-</tr>
-<tr>
-<td valign="top" width="259">
-<p>Provisions</p>
-</td>
-<td valign="top" width="69"/>
-<td valign="top" width="69"/>
-<td valign="top" width="70"/>
-<td valign="top" width="69"/>
-<td valign="top" width="70"/>
-</tr>
-<tr>
-<td valign="top" width="259">
-<p>Total sinistres</p>
-</td>
-<td valign="top" width="69"/>
-<td valign="top" width="69"/>
-<td valign="top" width="70"/>
-<td valign="top" width="69"/>
-<td valign="top" width="70"/>
-</tr>
-<tr>
-<td valign="top" width="259">
-<p>Cotisations acquises</p>
-</td>
-<td valign="top" width="69"/>
-<td valign="top" width="69"/>
-<td valign="top" width="70"/>
-<td valign="top" width="69"/>
-<td valign="top" width="70"/>
-</tr>
-<tr>
-<td valign="top" width="259">
-<p>Pourcentage sinistres/cotisations acquises</p>
+<p>Pourcentage sinistres / cotisations acquises </p>
 </td>
 <td valign="top" width="69"/>
 <td valign="top" width="69"/>
@@ -493,7 +423,7 @@ c) Les institutions et les unions agréées pour la branche mentionnée au 16 (a
 </tr>
 <tr>
 <td width="259">
-<p align="center">Inventaire N</p>
+<p align="center">Inventaire N-1 </p>
 </td>
 <td width="69">
 <br/>
@@ -513,7 +443,7 @@ c) Les institutions et les unions agréées pour la branche mentionnée au 16 (a
 </tr>
 <tr>
 <td valign="top" width="259">
-<p>Règlements</p>
+<p>Règlements </p>
 </td>
 <td valign="top" width="69"/>
 <td valign="top" width="69"/>
@@ -523,7 +453,7 @@ c) Les institutions et les unions agréées pour la branche mentionnée au 16 (a
 </tr>
 <tr>
 <td valign="top" width="259">
-<p>Provisions</p>
+<p>Provisions </p>
 </td>
 <td valign="top" width="69"/>
 <td valign="top" width="69"/>
@@ -533,7 +463,7 @@ c) Les institutions et les unions agréées pour la branche mentionnée au 16 (a
 </tr>
 <tr>
 <td valign="top" width="259">
-<p>Total sinistres</p>
+<p>Total sinistres </p>
 </td>
 <td valign="top" width="69"/>
 <td valign="top" width="69"/>
@@ -543,7 +473,7 @@ c) Les institutions et les unions agréées pour la branche mentionnée au 16 (a
 </tr>
 <tr>
 <td valign="top" width="259">
-<p>Cotisations acquises</p>
+<p>Cotisations acquises </p>
 </td>
 <td valign="top" width="69"/>
 <td valign="top" width="69"/>
@@ -553,7 +483,77 @@ c) Les institutions et les unions agréées pour la branche mentionnée au 16 (a
 </tr>
 <tr>
 <td valign="top" width="259">
-<p>Pourcentage sinistres/cotisations acquises</p>
+<p>Pourcentage sinistres / cotisations acquises </p>
+</td>
+<td valign="top" width="69"/>
+<td valign="top" width="69"/>
+<td valign="top" width="70"/>
+<td valign="top" width="69"/>
+<td valign="top" width="70"/>
+</tr>
+<tr>
+<td width="259">
+<p align="center">Inventaire N </p>
+</td>
+<td width="69">
+<br/>
+</td>
+<td width="69">
+<br/>
+</td>
+<td width="70">
+<br/>
+</td>
+<td width="69">
+<br/>
+</td>
+<td width="70">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="259">
+<p>Règlements </p>
+</td>
+<td valign="top" width="69"/>
+<td valign="top" width="69"/>
+<td valign="top" width="70"/>
+<td valign="top" width="69"/>
+<td valign="top" width="70"/>
+</tr>
+<tr>
+<td valign="top" width="259">
+<p>Provisions </p>
+</td>
+<td valign="top" width="69"/>
+<td valign="top" width="69"/>
+<td valign="top" width="70"/>
+<td valign="top" width="69"/>
+<td valign="top" width="70"/>
+</tr>
+<tr>
+<td valign="top" width="259">
+<p>Total sinistres </p>
+</td>
+<td valign="top" width="69"/>
+<td valign="top" width="69"/>
+<td valign="top" width="70"/>
+<td valign="top" width="69"/>
+<td valign="top" width="70"/>
+</tr>
+<tr>
+<td valign="top" width="259">
+<p>Cotisations acquises </p>
+</td>
+<td valign="top" width="69"/>
+<td valign="top" width="69"/>
+<td valign="top" width="70"/>
+<td valign="top" width="69"/>
+<td valign="top" width="70"/>
+</tr>
+<tr>
+<td valign="top" width="259">
+<p>Pourcentage sinistres / cotisations acquises </p>
 </td>
 <td valign="top" width="69"/>
 <td valign="top" width="69"/>
@@ -564,7 +564,7 @@ c) Les institutions et les unions agréées pour la branche mentionnée au 16 (a
 </tbody>
 </table>
 
-1.12. Sont également mentionnés :
+1. 12. Sont également mentionnés :
 
 a) Le montant des actifs ayant fait l'objet d'une clause de réserve de propriété ;
 
@@ -574,49 +574,41 @@ c) Les provisions pour risques et charges ventilées selon leur objet respectif 
 
 d) Le montant global de la contre-valeur en francs et la composition par devise de l'actif et du passif en devises, ainsi que le montant par devises des différences de conversion.
 
-1.13. a) Les institutions et les unions indiquent séparément, pour chacun des postes C2a, C2b, C2c, C2d, C5 et C7 du tableau des engagements reçus et donnés, le montant des engagements à l'égard des dirigeants, le montant des engagements à l'égard des entreprises liées et le montant des engagements à l'égard des entreprises avec lesquelles existe un lien de participation ;
+1. 13. a) Les institutions et les unions indiquent séparément, pour chacun des postes C2a, C2b, C2c, C2d, C5 et C7 du tableau des engagements reçus et donnés, le montant des engagements à l'égard des dirigeants, le montant des engagements à l'égard des entreprises liées et le montant des engagements à l'égard des entreprises avec lesquelles existe un lien de participation ;
 
 b) Les institutions et les unions détaillent le montant et la nature des engagements donnés au titre de l'action sociale.
 
-1.14. Les institutions de prévoyance membres d'une union d'institutions de prévoyance indiquent les risques et engagements qu'elles gèrent pour le compte de celle-ci.
+1. 14. Les institutions de prévoyance membres d'une union d'institutions de prévoyance indiquent les risques et engagements qu'elles gèrent pour le compte de celle-ci.
 
-1.15. En ce qui concerne les opérations dites de "réassurance finite" mentionnées à l'article L. 931-1-1 et des opérations de réassurance purement financières, lorsqu'elles ont une importance significative, les institutions de prévoyance et leurs unions exerçant une activité d'assurance ou de réassurance indiquent dans l'annexe aux comptes annuels :
+1. 15. En ce qui concerne les opérations dites de " réassurance finite " mentionnées à l'article L. 931-1-1 et des opérations de réassurance purement financières, lorsqu'elles ont une importance significative, les institutions de prévoyance et leurs unions exerçant une activité d'assurance ou de réassurance indiquent dans l'annexe aux comptes annuels :
 
 a) Une description des principes et méthodes comptables ainsi que des méthodes d'évaluation appliquées ;
 
-b) A chaque fois que cela est utile à la compréhension et à l'appréciation des risques assumés par l'institution de prévoyance ou l'union exerçant une activité d'assurance ou de réassurance des informations sur les postes du bilan et du compte de résultat concernés par ces opérations. Lorsque, pour les contrats de réassurance dite "réassurance finite" mentionnée à l'article L. 931-1-1, la décomposition de la prime entre la composante financière correspondant au dépôt et la composante correspondant au transfert significatif de risques d'assurance n'a pu être effectuée, l'institution ou l'union indiquera les montants comptabilisés dans les postes du bilan et du compte de résultat.
+b) A chaque fois que cela est utile à la compréhension et à l'appréciation des risques assumés par l'institution de prévoyance ou l'union exerçant une activité d'assurance ou de réassurance des informations sur les postes du bilan et du compte de résultat concernés par ces opérations. Lorsque, pour les contrats de réassurance dite " réassurance finite " mentionnée à l'article L. 931-1-1, la décomposition de la prime entre la composante financière correspondant au dépôt et la composante correspondant au transfert significatif de risques d'assurance n'a pu être effectuée, l'institution ou l'union indiquera les montants comptabilisés dans les postes du bilan et du compte de résultat.
 
 2. Pour le compte de résultat.
 
-2.1. Les institutions et les unions indiquent la ventilation de l'ensemble des produits et charges des placements (ventilation des postes E 2 et E 9 pour les institutions et unions agréées pour pratiquer les opérations visées au a de l'article L. 931-1 et des postes F 3 et F 5 pour les autres institutions et unions), selon le modèle ci-dessous : <table>
+2. 1. Les institutions et les unions indiquent la ventilation de l'ensemble des produits et charges des placements (ventilation des postes E 2 et E 9 pour les institutions et unions agréées pour pratiquer les opérations visées au a de l'article L. 931-1 et des postes F 3 et F 5 pour les autres institutions et unions), selon le modèle ci-dessous : <table>
 <tbody>
 <tr>
 <td width="265">
 <br/>
 </td>
 <td width="151">
-<p align="center">REVENUS FINANCIERS</p>
-<p align="center">et frais financiers concernant les placements dans les entreprises liées</p>
+<p align="center">REVENUS FINANCIERS </p>
+<p align="center">et frais financiers concernant les placements dans les entreprises liées </p>
 </td>
 <td width="113">
-<p align="center">AUTRES REVENUS</p>
-<p align="center">et frais financiers</p>
+<p align="center">AUTRES REVENUS </p>
+<p align="center">et frais financiers </p>
 </td>
 <td width="76">
-<p align="center">TOTAL</p>
+<p align="center">TOTAL </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="265">
-<p>Revenus des participations (1)</p>
-</td>
-<td valign="top" width="151"/>
-<td valign="top" width="113"/>
-<td valign="top" width="76"/>
-</tr>
-<tr>
-<td valign="top" width="265">
-<p>Revenus des placements immobiliers</p>
+<p>Revenus des participations (1) </p>
 </td>
 <td valign="top" width="151"/>
 <td valign="top" width="113"/>
@@ -624,7 +616,7 @@ b) A chaque fois que cela est utile à la compréhension et à l'appréciation d
 </tr>
 <tr>
 <td valign="top" width="265">
-<p>Revenus des autres placements</p>
+<p>Revenus des placements immobiliers </p>
 </td>
 <td valign="top" width="151"/>
 <td valign="top" width="113"/>
@@ -632,7 +624,7 @@ b) A chaque fois que cela est utile à la compréhension et à l'appréciation d
 </tr>
 <tr>
 <td valign="top" width="265">
-<p>Autres revenus financiers (commission, honoraires)</p>
+<p>Revenus des autres placements </p>
 </td>
 <td valign="top" width="151"/>
 <td valign="top" width="113"/>
@@ -640,7 +632,7 @@ b) A chaque fois que cela est utile à la compréhension et à l'appréciation d
 </tr>
 <tr>
 <td valign="top" width="265">
-<p>Total (poste E2a et/ou F3a du compte de résultat)</p>
+<p>Autres revenus financiers (commission, honoraires) </p>
 </td>
 <td valign="top" width="151"/>
 <td valign="top" width="113"/>
@@ -648,7 +640,15 @@ b) A chaque fois que cela est utile à la compréhension et à l'appréciation d
 </tr>
 <tr>
 <td valign="top" width="265">
-<p>Frais financiers (commissions, honoraires, intérêts et agios...)</p>
+<p>Total (poste E2a et / ou F3a du compte de résultat) </p>
+</td>
+<td valign="top" width="151"/>
+<td valign="top" width="113"/>
+<td valign="top" width="76"/>
+</tr>
+<tr>
+<td valign="top" width="265">
+<p>Frais financiers (commissions, honoraires, intérêts et agios...) </p>
 </td>
 <td valign="top" width="151"/>
 <td valign="top" width="113"/>
@@ -656,15 +656,15 @@ b) A chaque fois que cela est utile à la compréhension et à l'appréciation d
 </tr>
 <tr>
 <td colspan="4" valign="top" width="605">
-<p>(1) Au sens de l'article 20 du décret du 29 novembre 1983.</p>
-<p>Total des autres produits des placements (plus-values, reprises sur amortissements ou provisions...) inclus au poste E2 et/ou F3 du compte de résultat :</p>
-<p>Total des autres charges de placements (moins-values, dotations aux amortissements et provisions, charges internes...) incluses au poste E9 et/ou F5 du compte de résultat :</p>
+<p>(1) Au sens de l'article 20 du décret du 29 novembre 1983. </p>
+<p>Total des autres produits des placements (plus-values, reprises sur amortissements ou provisions...) inclus au poste E2 et / ou F3 du compte de résultat : </p>
+<p>Total des autres charges de placements (moins-values, dotations aux amortissements et provisions, charges internes...) incluses au poste E9 et / ou F5 du compte de résultat : </p>
 </td>
 </tr>
 </tbody>
 </table>
 
-2.2. Les institutions et unions indiquent la ventilation de l'ensemble des produits et charges des opérations techniques par catégorie, selon la forme définie ci-après.
+2. 2. Les institutions et unions indiquent la ventilation de l'ensemble des produits et charges des opérations techniques par catégorie, selon la forme définie ci-après.
 
 Pour chacune des catégories définies à l'article A. 931-11-10 est établi un compte technique conforme au modèle ci-après.
 
@@ -676,39 +676,39 @@ A.-Opérations Vie.-Catégories 1 à 19
 <tbody>
 <tr>
 <td width="340">
-<p align="center">RUBRIQUE</p>
+<p align="center">RUBRIQUE </p>
 </td>
 <td width="265">
-<p align="center">POSTE CORRESPONDANT AU CR</p>
+<p align="center">POSTE CORRESPONDANT AU CR </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. Cotisations</p>
+<p>1. Cotisations </p>
 </td>
 <td valign="top" width="265">
-<p>Poste E1.</p>
+<p>Poste E1. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. Charges des prestations</p>
+<p>2. Charges des prestations </p>
 </td>
 <td valign="top" width="265">
-<p>Poste E5.</p>
+<p>Poste E5. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>3. Charges des provisions d'assurance vie et autres provisions techniques</p>
+<p>3. Charges des provisions d'assurance vie et autres provisions techniques </p>
 </td>
 <td valign="top" width="265">
-<p>Poste E6.</p>
+<p>Poste E6. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>4. Ajustement ACAV</p>
+<p>4. Ajustement ACAV </p>
 </td>
 <td valign="top" width="265">
 <p>Poste E3 diminué du poste E10.</p>
@@ -716,23 +716,23 @@ A.-Opérations Vie.-Catégories 1 à 19
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>A. - SOLDE DE SOUSCRIPTION</p>
+<p>A.-SOLDE DE SOUSCRIPTION </p>
 </td>
 <td valign="top" width="265">
-<p>(1 - 2 - 3 + 4).</p>
+<p>(1-2-3 + 4). </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>5. Frais d'acquisition</p>
+<p>5. Frais d'acquisition </p>
 </td>
 <td valign="top" width="265">
-<p>Poste E8a.</p>
+<p>Poste E8a. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>6. Autres charges de gestion nettes</p>
+<p>6. Autres charges de gestion nettes </p>
 </td>
 <td valign="top" width="265">
 <p>Poste E8b et E11 diminués du poste E4.</p>
@@ -740,23 +740,23 @@ A.-Opérations Vie.-Catégories 1 à 19
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>B. - CHARGES D'ACQUISITION ET DE GESTION NETTES</p>
+<p>B.-CHARGES D'ACQUISITION ET DE GESTION NETTES </p>
 </td>
 <td valign="top" width="265">
-<p>(5 + 6).</p>
+<p>(5 + 6). </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>7. Produit net des placements</p>
+<p>7. Produit net des placements </p>
 </td>
 <td valign="top" width="265">
-<p>Poste E2 diminué des postes E9 et E12.</p>
+<p>Poste E2 diminué des postes E9 et E12. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>8. Participation aux résultats</p>
+<p>8. Participation aux résultats </p>
 </td>
 <td valign="top" width="265">
 <p>Poste E7.</p>
@@ -764,47 +764,47 @@ A.-Opérations Vie.-Catégories 1 à 19
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>C. - SOLDE FINANCIER</p>
+<p>C.-SOLDE FINANCIER </p>
 </td>
 <td valign="top" width="265">
-<p>(7 - 8).</p>
+<p>(7-8). </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>9. Cotisations cédées</p>
+<p>9. Cotisations cédées </p>
 </td>
 <td valign="top" width="265">
-<p>Poste E1 cession.</p>
+<p>Poste E1 cession. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>10. Part des réassureurs dans les charges des prestations</p>
+<p>10. Part des réassureurs dans les charges des prestations </p>
 </td>
 <td valign="top" width="265">
-<p>Poste E5 cession.</p>
+<p>Poste E5 cession. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>11. Part des réassureurs dans les charges des provisions d'assurance vie et autres provisions techniques</p>
+<p>11. Part des réassureurs dans les charges des provisions d'assurance vie et autres provisions techniques </p>
 </td>
 <td valign="top" width="265">
-<p>Poste E6 cession.</p>
+<p>Poste E6 cession. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>12. Part des réassureurs dans la participation aux résultats</p>
+<p>12. Part des réassureurs dans la participation aux résultats </p>
 </td>
 <td valign="top" width="265">
-<p>Poste E7 cession.</p>
+<p>Poste E7 cession. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>13. Commissions reçues des réassureurs</p>
+<p>13. Commissions reçues des réassureurs </p>
 </td>
 <td valign="top" width="265">
 <p>Poste E8c cession.</p>
@@ -812,49 +812,49 @@ A.-Opérations Vie.-Catégories 1 à 19
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>D. - SOLDE DE RÉASSURANCE</p>
+<p>D.-SOLDE DE RÉASSURANCE </p>
 </td>
 <td valign="top" width="265">
-<p>(10 + 11 + 12 + 13 - 9).</p>
+<p>(10 + 11 + 12 + 13-9). </p>
 </td>
 </tr>
 <tr>
 <td width="340">
-<p align="center">Résultat technique</p>
+<p align="center">Résultat technique </p>
 </td>
 <td width="265">
-<p align="center">A - B + C + D</p>
+<p align="center">A-B + C + D </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Hors compte</p>
-</td>
-<td valign="top" width="265"/>
-</tr>
-<tr>
-<td valign="top" width="340">
-<p>14. Montant des rachats</p>
+<p>Hors compte </p>
 </td>
 <td valign="top" width="265"/>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>15. Intérêts techniques bruts de l'exercice</p>
+<p>14. Montant des rachats </p>
+</td>
+<td valign="top" width="265"/>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>15. Intérêts techniques bruts de l'exercice </p>
 </td>
 <td valign="top" width="265">
-<p>Comptes 5300, 6301, 6302, 6340, 6341 et 6342.</p>
+<p>Comptes 5300, 6301, 6302, 6340, 6341 et 6342. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>16. Provisions techniques brutes à la clôture</p>
+<p>16. Provisions techniques brutes à la clôture </p>
 </td>
 <td valign="top" width="265"/>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>17. Provisions techniques brutes à l'ouverture</p>
+<p>17. Provisions techniques brutes à l'ouverture </p>
 </td>
 <td valign="top" width="265">
 <p>Postes B3b, B3c, B3e, B3g, B3j et B4 du bilan.</p>
@@ -869,55 +869,55 @@ B.-Opérations Non-vie.-Catégories 20 à 39
 <tbody>
 <tr>
 <td width="340">
-<p align="center">RUBRIQUE</p>
+<p align="center">RUBRIQUE </p>
 </td>
 <td width="265">
-<p align="center">POSTE CORRESPONDANT AU CR</p>
+<p align="center">POSTE CORRESPONDANT AU CR </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. Cotisations acquises</p>
+<p>1. Cotisations acquises </p>
 </td>
 <td valign="top" width="265">
-<p>(1a - 1b).</p>
+<p>(1a-1b). </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1a. Cotisations</p>
+<p>1a. Cotisations </p>
 </td>
 <td valign="top" width="265">
-<p>Poste D1a.</p>
+<p>Poste D1a. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1b. Variation des cotisations non acquises</p>
+<p>1b. Variation des cotisations non acquises </p>
 </td>
 <td valign="top" width="265">
-<p>Poste D1b.</p>
+<p>Poste D1b. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. Charges des prestations</p>
+<p>2. Charges des prestations </p>
 </td>
 <td valign="top" width="265">
-<p>(2a + 2b).</p>
+<p>(2a + 2b). </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2a. Prestations et frais payés</p>
+<p>2a. Prestations et frais payés </p>
 </td>
 <td valign="top" width="265">
-<p>Poste D4a.</p>
+<p>Poste D4a. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2b. Charges des provisions pour prestations et diverses</p>
+<p>2b. Charges des provisions pour prestations et diverses </p>
 </td>
 <td valign="top" width="265">
 <p>Poste D4b, D5 et D9.</p>
@@ -925,23 +925,23 @@ B.-Opérations Non-vie.-Catégories 20 à 39
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>A. - SOLDE DE SOUSCRIPTION</p>
+<p>A.-SOLDE DE SOUSCRIPTION </p>
 </td>
 <td valign="top" width="265">
-<p>(1 - 2).</p>
+<p>(1-2). </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>5. Frais d'acquisition</p>
+<p>5. Frais d'acquisition </p>
 </td>
 <td valign="top" width="265">
-<p>Poste D7a.</p>
+<p>Poste D7a. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>6. Autres charges de gestion nettes</p>
+<p>6. Autres charges de gestion nettes </p>
 </td>
 <td valign="top" width="265">
 <p>Poste D7b et D8 diminués du poste D3.</p>
@@ -949,23 +949,23 @@ B.-Opérations Non-vie.-Catégories 20 à 39
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>B. - CHARGES D'ACQUISITION ET DE GESTION NETTES</p>
+<p>B.-CHARGES D'ACQUISITION ET DE GESTION NETTES </p>
 </td>
 <td valign="top" width="265">
-<p>(5 + 6).</p>
+<p>(5 + 6). </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>7. Produits des placements</p>
+<p>7. Produits des placements </p>
 </td>
 <td valign="top" width="265">
-<p>Poste D2.</p>
+<p>Poste D2. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>8. Participation aux résultats</p>
+<p>8. Participation aux résultats </p>
 </td>
 <td valign="top" width="265">
 <p>Poste D6.</p>
@@ -973,113 +973,113 @@ B.-Opérations Non-vie.-Catégories 20 à 39
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>C. - SOLDE FINANCIER</p>
+<p>C.-SOLDE FINANCIER </p>
 </td>
 <td valign="top" width="265">
-<p>(7 - 8).</p>
+<p>(7-8). </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>9. Part des réassureurs dans les cotisations acquises</p>
+<p>9. Part des réassureurs dans les cotisations acquises </p>
 </td>
 <td valign="top" width="265">
-<p>Postes D1a et D1b cession.</p>
+<p>Postes D1a et D1b cession. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>10. Pari des réassureurs dans les prestations payées</p>
+<p>10. Pari des réassureurs dans les prestations payées </p>
 </td>
 <td valign="top" width="265">
-<p>Poste D4a cession.</p>
+<p>Poste D4a cession. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>11. Part des réassureurs dans les charges des provisions pour prestations</p>
+<p>11. Part des réassureurs dans les charges des provisions pour prestations </p>
 </td>
 <td valign="top" width="265">
-<p>Postes D4b, D5 et D9 cession.</p>
+<p>Postes D4b, D5 et D9 cession. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>12. Part des réassureurs dans les participations aux résultats</p>
+<p>12. Part des réassureurs dans les participations aux résultats </p>
 </td>
 <td valign="top" width="265">
-<p>Poste D6 cession.</p>
+<p>Poste D6 cession. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>13. Commissions reçues des réassureurs</p>
+<p>13. Commissions reçues des réassureurs </p>
 </td>
 <td valign="top" width="265">
-<p>Poste D7c cession,</p>
+<p>Poste D7c cession, </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>D. - SOLDE DE RÉASSURANCE</p>
+<p>D.-SOLDE DE RÉASSURANCE </p>
 </td>
 <td valign="top" width="265">
-<p>(10 + 11 + 12 + 13 - 9).</p>
+<p>(10 + 11 + 12 + 13-9). </p>
 </td>
 </tr>
 <tr>
 <td width="340">
-<p align="center">Résultat technique</p>
+<p align="center">Résultat technique </p>
 </td>
 <td width="265">
-<p align="center">A - B + C + D</p>
+<p align="center">A-B + C + D </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Hors compte :</p>
+<p>Hors compte : </p>
 </td>
 <td valign="top" width="265"/>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>14. Provisions pour cotisations non acquises (clôture)</p>
+<p>14. Provisions pour cotisations non acquises (clôture) </p>
 </td>
 <td valign="top" width="265">
-<p>Poste B3a du bilan.</p>
+<p>Poste B3a du bilan. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>15. Provisions pour cotisations non acquises (ouverture)</p>
+<p>15. Provisions pour cotisations non acquises (ouverture) </p>
 </td>
 <td valign="top" width="265"/>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>16. Provisions pour sinistres à payer (clôture)</p>
+<p>16. Provisions pour sinistres à payer (clôture) </p>
 </td>
 <td valign="top" width="265">
-<p>Poste B3d du bilan.</p>
+<p>Poste B3d du bilan. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>17. Provisions pour sinistres à payer (ouverture)</p>
+<p>17. Provisions pour sinistres à payer (ouverture) </p>
 </td>
 <td valign="top" width="265"/>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>18. Autres provisions techniques (clôture)</p>
+<p>18. Autres provisions techniques (clôture) </p>
 </td>
 <td valign="top" width="265">
-<p>Postes B3f, B3h et B3j du bilan.</p>
+<p>Postes B3f, B3h et B3j du bilan. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>19. Autres provisions techniques (ouverture)</p>
+<p>19. Autres provisions techniques (ouverture) </p>
 </td>
 <td valign="top" width="265"/>
 </tr>
@@ -1094,15 +1094,15 @@ Les produits financiers nets sont, à défaut d'une étude plus poussée, ventil
 
 Lorsque les opérations d'une catégorie sont exclusivement relatives à des garanties accessoires au sens des articles R. 931-2-2 et R. 931-2-3, la mention " garanties accessoires " est portée dans l'intitulé de la colonne relative à la catégorie concernée.
 
-2.3. Les institutions et les unions décrivent leur action sociale. Elles indiquent notamment les produits prélevés sur les opérations Vie et sur les opérations Non-vie, les produits des placements, les allocations, attributions et frais payés et à payer et les frais de gestion.
+2. 3. Les institutions et les unions décrivent leur action sociale. Elles indiquent notamment les produits prélevés sur les opérations Vie et sur les opérations Non-vie, les produits des placements, les allocations, attributions et frais payés et à payer et les frais de gestion.
 
-2.4. Les institutions membres d'une union d'institutions de prévoyance indiquent :
+2. 4. Les institutions membres d'une union d'institutions de prévoyance indiquent :
 
 a) Les principaux flux de l'exercice des opérations gérées pour le compte de celle-ci ;
 
 b) L'impact sur leurs états financiers des conventions passées avec cette union, notamment pour les fonds gérés pour le compte de celle-ci.
 
-2.5. Les institutions et les unions fournissent également :
+2. 5. Les institutions et les unions fournissent également :
 
 a) La ventilation des charges de personnel selon le modèle suivant :
 
@@ -1126,13 +1126,13 @@ c) La ventilation des cotisations brutes émises selon le modèle suivant :
 
 d) Le montant, d'une part, des entrées, d'autre part, des sorties de portefeuille.
 
-2.6. Les institutions et les unions indiquent la proportion dans laquelle le résultat de l'exercice a été affecté par des dérogations aux principes généraux d'évaluation en application de la règlementation fiscale et l'écart qui en est résulté.
+2. 6. Les institutions et les unions indiquent la proportion dans laquelle le résultat de l'exercice a été affecté par des dérogations aux principes généraux d'évaluation en application de la règlementation fiscale et l'écart qui en est résulté.
 
-2.7. Les institutions et les unions indiquent la différence entre la charge fiscale imputée à l'exercice et aux exercices antérieurs et la charge fiscale déjà payée ou à payer au cours de ces exercices.
+2. 7. Les institutions et les unions indiquent la différence entre la charge fiscale imputée à l'exercice et aux exercices antérieurs et la charge fiscale déjà payée ou à payer au cours de ces exercices.
 
-2.8. Les institutions et les unions indiquent la ventilation des autres produits et autres charges techniques, des produits et charges exceptionnels et des produits et charges non techniques.
+2. 8. Les institutions et les unions indiquent la ventilation des autres produits et autres charges techniques, des produits et charges exceptionnels et des produits et charges non techniques.
 
-2.9. Les institutions et les unions agréées pour pratiquer les opérations visées au a de l'article L. 931-1 :
+2. 9. Les institutions et les unions agréées pour pratiquer les opérations visées au a de l'article L. 931-1 :
 
 a) Indiquent le détail de la variation des provisions d'assurance vie brutes de réassurance entre le bilan d'ouverture et le bilan de clôture, selon le modèle ci-dessous ;
 
@@ -1152,42 +1152,32 @@ b) Fournissent un tableau récapitulatif des éléments constitutifs de la parti
 <tbody>
 <tr>
 <td rowspan="2" width="381">
-<p align="center">DÉSIGNATIONS</p>
+<p align="center">DÉSIGNATIONS </p>
 </td>
 <td colspan="5" width="284">
-<p align="center">EXERCICES (1)</p>
+<p align="center">EXERCICES (1) </p>
 </td>
 </tr>
 <tr>
 <td width="57">
-<p align="center">n- 4</p>
+<p align="center">n-4 </p>
 </td>
 <td width="57">
-<p align="center">n- 3</p>
+<p align="center">n-3 </p>
 </td>
 <td width="57">
-<p align="center">n- 2</p>
+<p align="center">n-2 </p>
 </td>
 <td width="57">
-<p align="center">n- 1</p>
+<p align="center">n-1 </p>
 </td>
 <td width="56">
-<p align="center">n</p>
+<p align="center">n </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="381">
-<p>A. - Participation aux résultats totale (poste D6 et E7 du compte de résultat = A1 + A2) :</p>
-</td>
-<td valign="top" width="57"/>
-<td valign="top" width="57"/>
-<td valign="top" width="57"/>
-<td valign="top" width="57"/>
-<td valign="top" width="56"/>
-</tr>
-<tr>
-<td valign="top" width="381">
-<p>A1 : Participation attribuée (y compris intérêts techniques)</p>
+<p>A.-Participation aux résultats totale (poste D6 et E7 du compte de résultat = A1 + A2) : </p>
 </td>
 <td valign="top" width="57"/>
 <td valign="top" width="57"/>
@@ -1197,7 +1187,7 @@ b) Fournissent un tableau récapitulatif des éléments constitutifs de la parti
 </tr>
 <tr>
 <td valign="top" width="381">
-<p>A2 : Variation de la provision pour participation aux excédents</p>
+<p>A1 : Participation attribuée (y compris intérêts techniques) </p>
 </td>
 <td valign="top" width="57"/>
 <td valign="top" width="57"/>
@@ -1207,7 +1197,7 @@ b) Fournissent un tableau récapitulatif des éléments constitutifs de la parti
 </tr>
 <tr>
 <td valign="top" width="381">
-<p>B. - Participation aux résultats des opérations vie visées au (4) :</p>
+<p>A2 : Variation de la provision pour participation aux excédents </p>
 </td>
 <td valign="top" width="57"/>
 <td valign="top" width="57"/>
@@ -1217,7 +1207,7 @@ b) Fournissent un tableau récapitulatif des éléments constitutifs de la parti
 </tr>
 <tr>
 <td valign="top" width="381">
-<p>B1 : Provisions mathématiques moyennes (2)</p>
+<p>B.-Participation aux résultats des opérations vie visées au (4) : </p>
 </td>
 <td valign="top" width="57"/>
 <td valign="top" width="57"/>
@@ -1227,7 +1217,7 @@ b) Fournissent un tableau récapitulatif des éléments constitutifs de la parti
 </tr>
 <tr>
 <td valign="top" width="381">
-<p>B2 : Montant minimal de la participation aux résultats</p>
+<p>B1 : Provisions mathématiques moyennes (2) </p>
 </td>
 <td valign="top" width="57"/>
 <td valign="top" width="57"/>
@@ -1237,7 +1227,7 @@ b) Fournissent un tableau récapitulatif des éléments constitutifs de la parti
 </tr>
 <tr>
 <td valign="top" width="381">
-<p>B3 : Montant effectif de la participation aux résultats (3) :</p>
+<p>B2 : Montant minimal de la participation aux résultats </p>
 </td>
 <td valign="top" width="57"/>
 <td valign="top" width="57"/>
@@ -1247,7 +1237,7 @@ b) Fournissent un tableau récapitulatif des éléments constitutifs de la parti
 </tr>
 <tr>
 <td valign="top" width="381">
-<p>B3a : Participation attribuée (y compris intérêts techniques)</p>
+<p>B3 : Montant effectif de la participation aux résultats (3) : </p>
 </td>
 <td valign="top" width="57"/>
 <td valign="top" width="57"/>
@@ -1257,7 +1247,17 @@ b) Fournissent un tableau récapitulatif des éléments constitutifs de la parti
 </tr>
 <tr>
 <td valign="top" width="381">
-<p>B3b : Variation de la provision pour participation aux excédents</p>
+<p>B3a : Participation attribuée (y compris intérêts techniques) </p>
+</td>
+<td valign="top" width="57"/>
+<td valign="top" width="57"/>
+<td valign="top" width="57"/>
+<td valign="top" width="57"/>
+<td valign="top" width="56"/>
+</tr>
+<tr>
+<td valign="top" width="381">
+<p>B3b : Variation de la provision pour participation aux excédents </p>
 </td>
 <td valign="top" width="57"/>
 <td valign="top" width="57"/>
@@ -1267,10 +1267,10 @@ b) Fournissent un tableau récapitulatif des éléments constitutifs de la parti
 </tr>
 <tr>
 <td colspan="6" valign="top" width="664">
-<p>(1) L'exercice n est l'exercice sous revue.</p>
-<p>(2) Demi-somme des provisions mathématiques à l'ouverture et à la clôture de l'exercice, correspondant aux opérations visées au (4).</p>
-<p>(3) Participation effective (charge de l'exercice, y compris intérêts techniques) correspondant aux opérations visées au (4).</p>
-<p>(4) Opérations individuelles et collectives souscrites sur le territoire de la République française à l'exception des opérations collectives en cas de décès et des opérations à capital variable.</p>
+<p>(1) L'exercice n est l'exercice sous revue. </p>
+<p>(2) Demi-somme des provisions mathématiques à l'ouverture et à la clôture de l'exercice, correspondant aux opérations visées au (4). </p>
+<p>(3) Participation effective (charge de l'exercice, y compris intérêts techniques) correspondant aux opérations visées au (4). </p>
+<p>(4) Opérations individuelles et collectives souscrites sur le territoire de la République française à l'exception des opérations collectives en cas de décès et des opérations à capital variable. </p>
 </td>
 </tr>
 </tbody>
@@ -1278,7 +1278,7 @@ b) Fournissent un tableau récapitulatif des éléments constitutifs de la parti
 
 3. Autres informations.
 
-3.1. Les institutions et les unions mentionnent :
+3. 1. Les institutions et les unions mentionnent :
 
 a) L'effectif moyen du personnel en activité au cours de l'exercice, ventilé par catégories professionnelles ;
 
@@ -1292,20 +1292,20 @@ Ces indications doivent être données de telle manière qu'elles ne permettent 
 
 c) Le montant global des prêts éventuellement accordés pendant l'exercice respectivement à l'ensemble des membres du conseil d'administration, à l'ensemble des autres dirigeants ainsi que le montant des engagements pris pour le compte de ces personnes au titre d'une garantie quelconque.
 
-3.2.
+3. 2.
 
 Lorsque l'institution de prévoyance ou l'union d'institutions applique l'option prévue à l'article R. 931-15-1 du présent code qui lui permet de reporter la charge constituée par la dotation à la provision pour risque d'exigibilité, il en est fait mention dans les annexes des états financiers.
 
 Si ces informations sont significatives pour l'organisme concerné, ce dernier doit également mentionner les informations suivantes :
 
-- le montant de la moins-value latente globale nette mentionnée à l'article R. 931-10-15 du présent code ;
+-le montant de la moins-value latente globale nette mentionnée à l'article R. 931-10-15 du présent code ;
 
-- le montant de la provision pour risque d'exigibilité brute déjà constituée au niveau des autres provisions techniques (comptes 3703 et 3723 du plan comptable des institutions de prévoyance ou d'unions d'institutions) ;
+-le montant de la provision pour risque d'exigibilité brute déjà constituée au niveau des autres provisions techniques (comptes 3703 et 3723 du plan comptable des institutions de prévoyance ou d'unions d'institutions) ;
 
-- les hypothèses relatives à l'évaluation de la duration des passifs définie par l'article A. 931-10-18-1 du présent code ainsi que les informations sur les événements affectant cette duration, si elle était modifiée significativement par rapport à l'exercice antérieur ;
+-les hypothèses relatives à l'évaluation de la duration des passifs définie par l'article A. 931-10-18-1 du présent code ainsi que les informations sur les événements affectant cette duration, si elle était modifiée significativement par rapport à l'exercice antérieur ;
 
-- le montant de la charge relative à la provision pour risque d'exigibilité restant à constater en résultat sur les exercices futurs si l'option n'avait pas été retenue (compte 379 du plan comptable des institutions de prévoyance ou d'unions d'institutions) ;
+-le montant de la charge relative à la provision pour risque d'exigibilité restant à constater en résultat sur les exercices futurs si l'option n'avait pas été retenue (compte 379 du plan comptable des institutions de prévoyance ou d'unions d'institutions) ;
 
-- les informations qualitatives expliquant l'évolution sur l'exercice du solde du compte de dotation à la provision pour risque d'exigibilité restant à constater ;
+-les informations qualitatives expliquant l'évolution sur l'exercice du solde du compte de dotation à la provision pour risque d'exigibilité restant à constater ;
 
-- le résultat de l'organisme d'assurance tel qu'il aurait été si ce dernier n'avait pas utilisé l'option mentionnée à l'article R. 931-10-15-1 (c'est-à-dire en neutralisant l'impact du compte 753 sur le résultat).
+-le résultat de l'organisme d'assurance tel qu'il aurait été si ce dernier n'avait pas utilisé l'option mentionnée à l'article R. 931-10-15-1 (c'est-à-dire en neutralisant l'impact du compte 753 sur le résultat).
