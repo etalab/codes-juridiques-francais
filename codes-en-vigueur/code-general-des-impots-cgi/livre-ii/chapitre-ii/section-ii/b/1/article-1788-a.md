@@ -18,6 +18,8 @@ b. Chaque omission ou inexactitude relevée dans les renseignements devant figur
 
 4. Lorsqu'au titre d'une opération donnée le redevable de la taxe sur la valeur ajoutée est autorisé à la déduire, le défaut de mention de la taxe exigible sur la déclaration prévue au 1 de l'article 287, qui doit être déposée au titre de la période concernée, entraîne l'application d'une amende égale à 5 % de la somme déductible.
 
+Toutefois, lorsque l'opération mentionnée au premier alinéa est une livraison à soi-même de biens prévue par l'article 257, le montant de l'amende est multiplié par le rapport entre les coûts ou les dépenses non grevés de taxe sur la valeur ajoutée figurant dans la base d'imposition de la livraison à soi-même telle qu'elle résulte de l'article 266 et la totalité de cette base d'imposition.
+
 5. Les infractions prévues aux 1 à 3 peuvent être constatées par la direction générale des impôts ou la direction générale des douanes et droits indirects.
 
 Les amendes prévues au présent article sont prononcées, dans le même délai de reprise qu'en matière de taxe sur la valeur ajoutée, par l'administration qui constate l'infraction. Le recouvrement et le contentieux sont assurés et suivis par l'administration qui prononce l'amende suivant les mêmes procédures, et sous les mêmes garanties, sûretés et privilèges que ceux prévus pour cette taxe.

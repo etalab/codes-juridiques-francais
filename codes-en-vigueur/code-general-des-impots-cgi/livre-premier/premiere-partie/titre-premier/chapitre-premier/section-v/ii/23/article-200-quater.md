@@ -10,9 +10,9 @@ b. Aux dépenses afférentes à un immeuble achevé depuis plus de deux ans, pay
 
 1° L'acquisition de chaudières à condensation ;
 
-2° L'acquisition de matériaux d'isolation thermique des parois vitrées ;
+2° L'acquisition de matériaux d'isolation thermique des parois vitrées, de volets isolants ou de portes d'entrée donnant sur l'extérieur ;
 
-3° L'acquisition et la pose de matériaux d'isolation thermique des parois opaques ;
+3° L'acquisition et la pose de matériaux d'isolation thermique des parois opaques ainsi que l'acquisition de matériaux de calorifugeage de tout ou partie d'une installation de production ou de distribution de chaleur ou d'eau chaude sanitaire ;
 
 4° L'acquisition d'appareils de régulation de chauffage ;
 
@@ -101,7 +101,7 @@ d) Pour le montant des équipements de production d'énergie utilisant une sourc
 </tr>
 <tr>
 <td align="center">
-<br/>Pompes à chaleur (autres que air/air) thermodynamiques.</td>
+<br/>Pompes à chaleur (autres que air/air) thermodynamiques dédiées à la production d'eau chaude sanitaire (1).</td>
 <td align="center">
 <br/>Non applicable</td>
 <td align="center">

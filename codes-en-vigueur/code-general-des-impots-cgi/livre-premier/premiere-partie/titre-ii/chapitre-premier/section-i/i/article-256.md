@@ -2,7 +2,7 @@
 
 I. Sont soumises à la taxe sur la valeur ajoutée les livraisons de biens et les prestations de services effectuées à titre onéreux par un assujetti agissant en tant que tel.
 
-II. 1° Est considéré comme livraison d'un bien, le transfert du pouvoir de disposer d'un bien meuble corporel comme un propriétaire.
+II. 1° Est considéré comme livraison d'un bien, le transfert du pouvoir de disposer d'un bien corporel comme un propriétaire.
 
 2° Sont notamment considérés comme des biens meubles corporels :
 

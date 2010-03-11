@@ -1,7 +1,6 @@
 # Section I : Conditions d'exercice du droit de communication
 
 - [1° : Personnes versant des honoraires ou des droits d'auteur](1)
-- [10° : Personnes effectuant des opérations immobilières](10)
 - [11° : Personnes effectuant des opérations d'assurance](11)
 - [12° : Entrepreneurs de transport](12)
 - [13° : Redevables du droit d'accroissement](13)

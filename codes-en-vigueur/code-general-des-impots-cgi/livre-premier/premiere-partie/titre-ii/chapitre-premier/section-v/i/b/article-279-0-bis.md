@@ -4,7 +4,7 @@
 
 2. Cette disposition n'est pas applicable aux travaux, réalisés sur une période de deux ans au plus :
 
-a) Qui concourent à la production d'un immeuble au sens des deuxième à sixième alinéas du c du 1 du 7° de l'article 257 ;
+a) Qui concourent à la production d'un immeuble neuf au sens du 2° du 2 du I de l'article 257 ;
 
 b) A l'issue desquels la surface de plancher hors oeuvre nette des locaux existants, majorée, le cas échéant, des surfaces des bâtiments d'exploitations agricoles mentionnées au d de l'article R. 112-2 du code de l'urbanisme, est augmentée de plus de 10 %.
 

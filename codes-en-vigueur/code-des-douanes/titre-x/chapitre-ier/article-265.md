@@ -79,7 +79,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>100 kg net. <br/>
 </td>
 <td align="center">
-<br/>1,50. <br/>
+<br/>1, 50. <br/>
 </td>
 </tr>
 <tr>
@@ -205,7 +205,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>5,66.<br/>
+<br/>5, 66.<br/>
 </td>
 </tr>
 <tr>
@@ -233,7 +233,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>58,92.<br/>
+<br/>58, 92.<br/>
 </td>
 </tr>
 <tr>
@@ -289,12 +289,12 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>35,90.<br/>
+<br/>35, 90.<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>-----supercarburant d'une teneur en plomb n'excédant pas 0,005 g / litre, autre que le supercarburant correspondant à l'indice d'identi-fication n° 11 bis ; <br/>
+<br/>-----supercarburant d'une teneur en plomb n'excédant pas 0, 005 g / litre, autre que le supercarburant correspondant à l'indice d'identi-fication n° 11 bis ; <br/>
 </td>
 <td align="center">
 <br/>11 <br/>
@@ -303,12 +303,12 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>60,69.<br/>
+<br/>60, 69.<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>-----supercarburant d'une teneur en plomb n'excédant pas 0,005 g / litre, contenant un additif spécifique améliorant les caractéristiques antirécession de soupape (ARS), à base de potassium, ou tout autre additif reconnu de qualité équivalente dans un autre Etat membre de la Communauté européenne ou dans un autre Etat membre de l'Espace économique européen. <br/>
+<br/>-----supercarburant d'une teneur en plomb n'excédant pas 0, 005 g / litre, contenant un additif spécifique améliorant les caractéristiques antirécession de soupape (ARS), à base de potassium, ou tout autre additif reconnu de qualité équivalente dans un autre Etat membre de la Communauté européenne ou dans un autre Etat membre de l'Espace économique européen. <br/>
 </td>
 <td align="center">
 <br/>11 bis <br/>
@@ -317,7 +317,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>63,96.<br/>
+<br/>63, 96. <br/>
 </td>
 </tr>
 <tr>
@@ -328,10 +328,10 @@ Tableau B : Produits pétroliers et assimilés.
 <p align="center">11 ter </p>
 </td>
 <td>
-<p align="center">Hectolitre</p>
+<p align="center">Hectolitre </p>
 </td>
 <td>
-<p align="center">60,69</p>
+<p align="center">60, 69</p>
 </td>
 </tr>
 <tr>
@@ -354,7 +354,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>2,54.<br/>
+<br/>2, 54.<br/>
 </td>
 </tr>
 <tr>
@@ -368,7 +368,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>30,20.<br/>
+<br/>30, 20.<br/>
 </td>
 </tr>
 <tr>
@@ -382,7 +382,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>58,92.<br/>
+<br/>58, 92.<br/>
 </td>
 </tr>
 <tr>
@@ -396,7 +396,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>58,92.<br/>
+<br/>58, 92.<br/>
 </td>
 </tr>
 <tr>
@@ -438,7 +438,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>5,66.<br/>
+<br/>5, 66.<br/>
 </td>
 </tr>
 <tr>
@@ -452,7 +452,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>41,69.<br/>
+<br/>41, 69.<br/>
 </td>
 </tr>
 <tr>
@@ -480,7 +480,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>2,54.<br/>
+<br/>2, 54.<br/>
 </td>
 </tr>
 <tr>
@@ -494,7 +494,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>30,2.<br/>
+<br/>30, 2.<br/>
 </td>
 </tr>
 <tr>
@@ -508,7 +508,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>41,69.<br/>
+<br/>41, 69.<br/>
 </td>
 </tr>
 <tr>
@@ -522,7 +522,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>41,69.<br/>
+<br/>41, 69.<br/>
 </td>
 </tr>
 <tr>
@@ -564,7 +564,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>5,66.<br/>
+<br/>5, 66.<br/>
 </td>
 </tr>
 <tr>
@@ -578,7 +578,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>5,66.<br/>
+<br/>5, 66.<br/>
 </td>
 </tr>
 <tr>
@@ -592,7 +592,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>42,84.<br/>
+<br/>42, 84.<br/>
 </td>
 </tr>
 <tr>
@@ -606,7 +606,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>100 kg net. <br/>
 </td>
 <td align="center">
-<br/>1,85.<br/>
+<br/>1, 85.<br/>
 </td>
 </tr>
 <tr>
@@ -676,7 +676,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>100 kg net. <br/>
 </td>
 <td align="center">
-<br/>4,68.<br/>
+<br/>4, 68.<br/>
 </td>
 </tr>
 <tr>
@@ -690,7 +690,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>100 kg net. <br/>
 </td>
 <td align="center">
-<br/>10,76.<br/>
+<br/>10, 76.<br/>
 </td>
 </tr>
 <tr>
@@ -760,7 +760,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>100 kg net. <br/>
 </td>
 <td align="center">
-<br/>4,68.<br/>
+<br/>4, 68.<br/>
 </td>
 </tr>
 <tr>
@@ -774,7 +774,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>100 kg net. <br/>
 </td>
 <td align="center">
-<br/>10,76.<br/>
+<br/>10, 76.<br/>
 </td>
 </tr>
 <tr>
@@ -872,7 +872,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>100 kg net. <br/>
 </td>
 <td align="center">
-<br/>4,68.<br/>
+<br/>4, 68.<br/>
 </td>
 </tr>
 <tr>
@@ -886,7 +886,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>100 kg net. <br/>
 </td>
 <td align="center">
-<br/>10,76. <br/>
+<br/>10, 76. <br/>
 </td>
 </tr>
 <tr>
@@ -1045,7 +1045,7 @@ Tableau B : Produits pétroliers et assimilés.
 </tr>
 <tr>
 <td align="center">
-<br/>-Paraffine contenant en poids moins de 0,75 % d'huile. <br/>
+<br/>-Paraffine contenant en poids moins de 0, 75 % d'huile. <br/>
 </td>
 <td align="center">
 <br/>41 <br/>
@@ -1306,7 +1306,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>2,1.<br/>
+<br/>2, 1.<br/>
 </td>
 </tr>
 <tr>
@@ -1320,7 +1320,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>24,78</td>
+<br/>28, 71</td>
 </tr>
 <tr>
 <td align="center">
@@ -1347,7 +1347,7 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>Hectolitre. <br/>
 </td>
 <td align="center">
-<br/>23,24 à compter du 1er janvier 2009, puis 20,69 à compter du 1er janvier 2010, puis 17,29 à compter du 1er janvier 2011. <br/>
+<br/>23, 24 à compter du 1er janvier 2009, puis 20, 69 à compter du 1er janvier 2010, puis 17, 29 à compter du 1er janvier 2011. <br/>
 </td>
 </tr>
 </tbody>
@@ -1514,11 +1514,11 @@ Les produits visés au présent tableau sont exemptés de la taxe intérieure de
 </tbody>
 </table>
 
-2. Une réfaction peut être effectuée sur les taux de taxe intérieure de consommation applicable au supercarburant repris à l'indice d'identification 11 et au gazole repris à l'indice d'identification 22.
+2. Une réfaction peut être effectuée sur les taux de taxe intérieure de consommation applicable au supercarburant repris       aux indices d'identification 11 et 11 ter et au gazole repris à l'indice d'identification 22.
 
-A compter du 1er janvier 2006, le montant de cette réfaction est de 1,77 euro par hectolitre pour le supercarburant et de 1,15 euro par hectolitre pour le gazole.
+A compter du 1er janvier 2006, le montant de cette réfaction est de 1, 77 euro par hectolitre pour le supercarburant et de 1, 15 euro par hectolitre pour le gazole.
 
-A compter du 1er janvier 2007, les conseils régionaux et l'assemblée de Corse peuvent réduire ou augmenter le montant de la réfaction du taux de la taxe intérieure de consommation applicable aux carburants vendus aux consommateurs finals sur leur territoire dans la double limite de la fraction de tarif affectée à chaque région et à la collectivité territoriale de Corse en vertu du I de l'article 40 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006 relatif à la compensation financière des transferts de compétences aux régions et de respectivement 1,77 euro par hectolitre pour le supercarburant mentionné à l'indice d'identification 11 et 1,15 euro par hectolitre pour le gazole mentionné à l'indice d'identification 22.
+A compter du 1er janvier 2007, les conseils régionaux et l'assemblée de Corse peuvent réduire ou augmenter le montant de la réfaction du taux de la taxe intérieure de consommation applicable aux carburants vendus aux consommateurs finals sur leur territoire dans la double limite de la fraction de tarif affectée à chaque région et à la collectivité territoriale de Corse en vertu du I de l'article 40 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006 relatif à la compensation financière des transferts de compétences aux régions et de respectivement 1, 77 euro par hectolitre pour le supercarburant mentionné       aux indices d'identification 11 et 11 ter et 1, 15 euro par hectolitre pour le gazole mentionné à l'indice d'identification 22.
 
 Les délibérations des conseils régionaux et de l'assemblée de Corse ne peuvent intervenir qu'une fois par an et au plus tard le 30 novembre de l'année qui précède l'entrée en vigueur du tarif modifié. Elles sont notifiées à la direction générale des douanes et droits indirects, qui procède à la publication des tarifs de la taxe intérieure de consommation ainsi modifiés au plus tard à la fin de la première quinzaine du mois de décembre suivant. Les tarifs modifiés de la taxe intérieure de consommation entrent en vigueur le 1er janvier de l'année suivante.
 
@@ -1526,7 +1526,7 @@ Les délibérations des conseils régionaux et de l'assemblée de Corse ne peuve
 
 A l'exclusion de la tourbe reprise au code NC 2703 de la nomenclature douanière, tout hydrocarbure autre que ceux pour lesquels un tarif de taxe intérieure de consommation est prévu par le présent code ou tout produit mentionné au tableau C du 1, mis en vente, utilisé ou destiné à être utilisé comme combustible, est soumis à la taxe intérieure de consommation au taux applicable pour le combustible équivalent, prévue au présent article et aux articles 266 quinquies et 266 quinquies B.
 
-4. A compter du 1er janvier 2007, les personnes physiques ou morales qui vendent, en régime de droits acquittés, des carburants visés aux indices d'identification 11 et 22 dans des régions ou collectivités territoriales où le taux de la taxe intérieure de consommation diffère du taux appliqué lors de la mise à la consommation :
+4. A compter du 1er janvier 2007, les personnes physiques ou morales qui vendent, en régime de droits acquittés, des carburants visés aux indices d'identification 11, 11 ter et 22 dans des régions ou collectivités territoriales où le taux de la taxe intérieure de consommation diffère du taux appliqué lors de la mise à la consommation :
 
 a) Acquittent le montant différentiel de taxe si le taux supporté lors de la mise à la consommation est inférieur ;
 
