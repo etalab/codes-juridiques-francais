@@ -16,6 +16,7 @@
 - [Titre XIV bis : De l'aide au recouvrement des dommages et intérêts pour les victimes d'infractions](titre-xiv-bis)
 - [Titre XVIII : De la poursuite, de l'instruction et du jugement des infractions commises par les personnes morales](titre-xviii)
 - [Titre XX : Du fichier national automatisé des empreintes génétiques](titre-xx)
+- [Titre XX bis : Du répertoire des données à caractère personnel collectées dans le cadre des procédures judiciaires](titre-xx-bis)
 - [Titre XIX : De la procédure applicable aux infractions de nature sexuelle et de la protection des mineurs victimes](titre-xix)
 - [Titre XXI : De la protection des témoins](titre-xxi)
 - [Titre XXI bis : Protection des personnes bénéficiant d'exemptions ou de réductions de peines pour avoir permis d'éviter la réalisation d'infractions, de faire cesser ou d'atténuer le dommage causé par une infraction, ou d'identifier les auteurs ou complices d'infractions](titre-xxi-bis)

@@ -5,3 +5,5 @@ Le tribunal qui prononce une condamnation peut exclure expressément sa mention 
 L'exclusion de la mention d'une condamnation au bulletin n° 2 emporte relèvement de toutes les interdictions, déchéances ou incapacités de quelque nature qu'elles soient résultant de cette condamnation.
 
 Les dispositions du présent article ne sont pas applicables aux personnes condamnées pour l'une des infractions mentionnées à l'article 706-47.
+
+Le présent article est également applicable aux jugements ou arrêts de déclaration d'irresponsabilité pénale pour cause de trouble mental.

@@ -12,4 +12,4 @@ Toute personne qui veut faire rectifier une mention portée à son casier judici
 
 Mention de la décision est faite en marge du jugement ou de l'arrêt visé par la demande en rectification.
 
-La même procédure est applicable au cas de contestation sur la réhabilitation de droit, ou de difficultés soulevées par l'interprétation d'une loi d'amnistie, dans les termes de l'article 769, alinéa 2.
+La même procédure est applicable au cas de contestation sur la réhabilitation de droit, ou de difficultés soulevées par l'interprétation d'une loi d'amnistie, dans les termes du troisième alinéa de l'article 769.

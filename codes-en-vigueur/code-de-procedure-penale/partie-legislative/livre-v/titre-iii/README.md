@@ -8,4 +8,5 @@
 - [Article 731](article-731.md)
 - [Article 731-1](article-731-1.md)
 - [Article 732](article-732.md)
+- [Article 732-1](article-732-1.md)
 - [Article 733](article-733.md)

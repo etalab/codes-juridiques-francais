@@ -3,6 +3,7 @@
 - [Article 723-29](article-723-29.md)
 - [Article 723-30](article-723-30.md)
 - [Article 723-31](article-723-31.md)
+- [Article 723-31-1](article-723-31-1.md)
 - [Article 723-32](article-723-32.md)
 - [Article 723-33](article-723-33.md)
 - [Article 723-34](article-723-34.md)
@@ -10,4 +11,5 @@
 - [Article 723-36](article-723-36.md)
 - [Article 723-37](article-723-37.md)
 - [Article 723-38](article-723-38.md)
+- [Article 723-38-1](article-723-38-1.md)
 - [Article 723-39](article-723-39.md)

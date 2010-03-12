@@ -9,3 +9,4 @@
 - [Article 706-53-19](article-706-53-19.md)
 - [Article 706-53-20](article-706-53-20.md)
 - [Article 706-53-21](article-706-53-21.md)
+- [Article 706-53-22](article-706-53-22.md)

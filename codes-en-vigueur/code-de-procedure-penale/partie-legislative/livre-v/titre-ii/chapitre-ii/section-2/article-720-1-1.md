@@ -10,7 +10,7 @@ Dans les autres cas, elle est prononcée par le tribunal de l'application des pe
 
 La juridiction qui accorde une suspension de la peine en application des dispositions du présent article peut décider de soumettre le condamné à une ou plusieurs des obligations ou interdictions prévues par les articles 132-44 et 132-45 du code pénal.
 
-Le juge de l'application des peines peut à tout moment ordonner une expertise médicale à l'égard d'un condamné ayant bénéficié d'une mesure de suspension de peine en application du présent article et ordonner qu'il soit mis fin à la suspension si les conditions de celle-ci ne sont plus remplies. Il en est de même si le condamné ne respecte pas les obligations qui lui ont été imposées en application des dispositions de l'alinéa précédent. La décision du juge de l'application des peines est prise selon les modalités prévues par l'article 712-6.
+Le juge de l'application des peines peut à tout moment ordonner une expertise médicale à l'égard d'un condamné ayant bénéficié d'une mesure de suspension de peine en application du présent article et ordonner qu'il soit mis fin à la suspension si les conditions de celle-ci ne sont plus remplies. Il en est de même si le condamné ne respecte pas les obligations qui lui ont été imposées en application des dispositions de l'alinéa précédent ou s'il existe de nouveau un risque grave de renouvellement de l'infraction. La décision du juge de l'application des peines est prise selon les modalités prévues par l'article 712-6.
 
 Si la suspension de peine a été ordonnée pour une condamnation prononcée en matière criminelle, une expertise médicale destinée à vérifier que les conditions de la suspension sont toujours remplies doit intervenir tous les six mois.
 
