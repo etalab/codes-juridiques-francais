@@ -1,5 +1,11 @@
 # Article D370-7
 
-Le Conseil supérieur de l'aviation marchande se réunit soit en séance plénière à laquelle participent les membres des deux collèges, soit en séance ordinaire à laquelle participent les membres du premier collège. Le conseil ne peut valablement siéger, selon les cas, que si la moitié au moins des membres composant l'une ou l'autre de ces formations plénière ou ordinaire sont présents ou suppléés. Si cette condition n'est pas remplie, les membres sont convoqués pour une nouvelle réunion au cours de laquelle le conseil peut siéger quel que soit le nombre des membres présents ou suppléés.
+Le Conseil supérieur de l'aviation civile ne peut délibérer que si la majorité des membres est présente ou représentée.
 
-Les délibérations sont prises à la majorité des suffrages exprimés. En cas de partage, la voix du président est prépondérante.
+Lorsque le quorum n'est pas atteint, le Conseil supérieur de l'aviation civile délibère valablement sans condition de quorum après une nouvelle convocation portant sur le même ordre du jour et spécifiant qu'aucun quorum ne sera exigé.
+
+Un membre qui n'est pas suppléé peut donner un mandat à un autre membre. Chaque membre ne peut recevoir qu'un seul mandat.
+
+Le Conseil supérieur de l'aviation civile se prononce à la majorité des voix des membres présents ou représentés. Le président a voix prépondérante en cas de partage égal des voix.
+
+Chaque délibération du Conseil supérieur de l'aviation civile donne lieu à la rédaction d'un avis qui est transmis par le président au ministre chargé de l'aviation civile.

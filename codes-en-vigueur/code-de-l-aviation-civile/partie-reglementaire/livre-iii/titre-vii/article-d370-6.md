@@ -1,3 +1,5 @@
 # Article D370-6
 
-Tout membre ayant perdu la qualité en raison de laquelle il a été désigné cesse de plein droit d'appartenir au Conseil supérieur de l'aviation marchande. Il est remplacé pour la durée du mandat restant à courir par une personne désignée conformément aux dispositions de l'article D. 370-4. Il en est de même en cas de décès ou de démission.
+En cas d'absence ou d'empêchement du président du Conseil supérieur de l'aviation civile, le ministre chargé de l'aviation civile désigne pour le suppléer l'un des membres nommés au titre du 9° de l'article D. 370-4.
+
+Sauf urgence, les membres du Conseil supérieur de l'aviation civile reçoivent, cinq jours au moins avant la date de la séance, une convocation comportant l'ordre du jour fixé par le président et les documents nécessaires à l'examen des affaires qui y sont inscrites.

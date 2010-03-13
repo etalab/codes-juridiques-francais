@@ -1,55 +1,41 @@
 # Article D370-4
 
-Outre le président, le Conseil supérieur de l'aviation marchande comprend quarante-trois autres membres répartis en deux collèges, qui sont nommés par arrêté du ministre chargé de l'aviation civile, dans les conditions suivantes :
+Outre le président, le Conseil supérieur de l'aviation civile comprend vingt-sept membres :
 
-Premier collège :
+1° Un député désigné par l'Assemblée nationale ;
 
-1° Un député et un sénateur désignés par l'assemblée à laquelle ils appartiennent, un conseiller régional et un conseiller général, désignés sur proposition du ministre de l'intérieur ;
+Un sénateur désigné par le Sénat ;
 
-2° Onze membres représentant l'Etat :
+2° Un conseiller régional et un conseiller général, désignés sur proposition respectivement de l'Association des régions de France et de l'Assemblée des départements de France ;
 
-- un membre du Conseil d'Etat désigné sur proposition du vice-président du Conseil d'Etat ;
+3° Six représentants de l'Etat :
 
-- un magistrat de la Cour des comptes désigné sur proposition du premier président de la Cour des comptes ;
-
-- un représentant du ministre chargé de l'économie et des finances ;
-
-- un représentant du ministre chargé du budget ;
+- un représentant du ministre chargé de l'économie ;
 
 - un représentant du ministre chargé de l'aviation civile ;
 
-- un représentant du ministre chargé des relations extérieures ;
-
-- un représentant du ministre de la défense ;
-
-- un représentant du ministre chargé de la tutelle des chambres de commerce et d'industrie ;
-
-- un représentant du ministre chargé de la poste ;
+- un représentant du ministre des affaires étrangères ;
 
 - un représentant du ministre chargé de l'aménagement du territoire ;
 
-- un représentant du ministre chargé des départements et territoires d'outre-mer.
+- un représentant du ministre chargé de l'intérieur ;
 
-Les représentants des ministres sont désignés sur proposition de chacun d'entre eux ;
+- un représentant du ministre chargé de l'outre-mer.
 
-3° Cinq personnalités choisies en raison de leur compétence dans le domaine du transport aérien ;
+Les représentants des ministres sont nommés sur proposition de chacun d'entre eux.
 
-4° Le président du Conseil national des transports ou son représentant.
+4° Le président du Conseil national des transports ou son représentant ;
 
-Deuxième collège :
+5° Trois représentants des entreprises de transport aérien désignés après avis des organisations professionnelles intéressées ;
 
-1° Huit représentants des entreprises de transport aérien désignés après avis des organisations professionnelles intéressées ;
+6° Deux représentants des exploitants d'infrastructures aéroportuaires ;
 
-2° Huit représentants des salariés désignés sur proposition des organisations syndicales représentatives au plan national dans le domaine du transport aérien, à raison de :
+7° Quatre représentants des salariés désignés sur proposition des organisations syndicales représentatives dans le domaine du transport aérien ;
 
-- trois pour le personnel navigant ;
+8° Trois représentants des usagers du transport aérien ;
 
-- cinq pour le personnel au sol ;
+9° Quatre personnalités nommées en raison de leur compétence dans le domaine de l'aviation civile. Quatre autres personnalités nommées en raison de leur compétence dans le domaine de l'aviation civile sont nommées dans les mêmes conditions en tant que suppléantes.
 
-3° Trois représentants des usagers du transport aérien ;
+Les membres du Conseil supérieur de l'aviation civile mentionnés aux 2°, 3° et 5° à 9° sont nommés par arrêté du ministre chargé de l'aviation civile.
 
-4° Deux représentants des gestionnaires d'aéroports, dont un représentant d'Aéroports de Paris ;
-
-5° Un représentant des industries françaises aéronautiques et spatiales.
-
-Le conseil supérieur de l'aviation marchande comprend des membres suppléants désignés dans les mêmes conditions que les membres titulaires.
+La durée du mandat des membres du Conseil supérieur de l'aviation civile est de cinq ans.
