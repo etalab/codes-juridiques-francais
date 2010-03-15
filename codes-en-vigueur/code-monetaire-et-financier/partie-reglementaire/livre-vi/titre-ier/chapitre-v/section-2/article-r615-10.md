@@ -1,4 +1,4 @@
-# Article R312-8
+# Article R615-10
 
 Le comité est convoqué par son président. Il ne délibère valablement que si quatre de ses membres sont présents.
 

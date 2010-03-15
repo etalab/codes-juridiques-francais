@@ -2,3 +2,4 @@
 
 - [Chapitre II : Comptes et dépôts.](chapitre-ii)
 - [Chapitre III : Crédits](chapitre-iii)
+- [Chapitre IV : Les services de paiement](chapitre-iv)

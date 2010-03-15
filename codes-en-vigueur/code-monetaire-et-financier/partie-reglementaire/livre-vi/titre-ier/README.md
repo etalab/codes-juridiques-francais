@@ -1,4 +1,4 @@
-# Titre Ier : Les institutions communes aux établissements de crédit et aux entreprises d'investissement
+# Titre Ier : Les institutions communes aux établissements de crédit, aux établissements de paiement et aux entreprises d'investissement
 
 - [Chapitre Ier : Réglementation](chapitre-ier)
 - [Chapitre II : L'Autorité de contrôle prudentiel](chapitre-ii)
