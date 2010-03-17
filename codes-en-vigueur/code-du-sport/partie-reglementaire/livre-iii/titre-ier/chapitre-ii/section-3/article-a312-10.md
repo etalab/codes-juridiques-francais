@@ -26,7 +26,7 @@ d) Un représentant du ministre chargé de la défense :
 
 e) Un représentant du ministre chargé de la santé :
 
-― le directeur de l'hospitalisation et de l'organisation des soins ou son représentant ;
+― le           directeur général de l'offre de soins  ou son représentant ;
 
 2° Quatre membres nommés par arrêté du ministre chargé des sports ;
 
