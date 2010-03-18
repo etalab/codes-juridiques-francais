@@ -7,6 +7,7 @@
 - [15° : Crédit d'impôt au titre des dépenses de remplacement pour congé de certains exploitants agricoles](15)
 - [16° : Crédit d'impôt au titre des intérêts d'emprunt supportés pour l'acquisition ou la construction de l'habitation principale](16)
 - [18° : Réduction d'impôt accordée au titre des dépenses relatives aux travaux de conservation ou de restauration d'objets mobiliers classés monuments historiques](18)
+- [19° : Plafonnement de certains avantages fiscaux au titre de l'impôt sur le revenu](19)
 - [3° : Réduction d'impôt au titre de certains investissements réalisés outre-mer](3)
 - [5° : Réduction d'impôt au titre des souscriptions en numéraire au capital de sociétés non cotées](5)
 - [6° : Réduction d'impôt au titre des souscriptions de parts de fonds communs de placement dans l'innovation](6)
