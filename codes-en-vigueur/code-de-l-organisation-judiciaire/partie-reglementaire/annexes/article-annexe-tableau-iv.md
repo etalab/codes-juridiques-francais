@@ -9,7 +9,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p align="center">Siège<br/>du tribunal<br/>de grande instance </p>
 </td>
 <td width="109">
-<p align="center">Siège<br/>du tribunal d'instance et<br/>de la juridiction<br/>de proximité </p>
+<p align="center">Siège<br/>du tribunal d'instance et<br/>de la juridiction<br/>de proximité</p>
 </td>
 <td width="333">
 <p align="center">Ressort </p>
@@ -3477,18 +3477,18 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>Epinal </p>
 </td>
 <td valign="top" width="109">
-<p>[Epinal </p>
+<p align="left">[Epinal </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Bains-les-Bains, Bruyères, Bulgnéville, Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est, Épinal-Ouest, Lamarche, Neufchâteau, Rambervillers et Xertigny. (11)] </p>
+<p align="left">Cantons de Bains-les-Bains, Bruyères, Bulgnéville, Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est, Épinal-Ouest, Lamarche, Neufchâteau, Rambervillers et Xertigny. (11)] </p>
 </td>
 </tr>
 <tr>
-<td>
-<p>[Epinal </p>
+<td align="left" valign="top">
+<p align="left">[Epinal </p>
 </td>
-<td>
-<p>Cantons de Bains-les-Bains, Bruyères, Bulgnéville, </p>
+<td align="left" valign="top">
+<p align="left">Cantons de Bains-les-Bains, Bruyères, Bulgnéville, </p>
 <p>Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est, </p>
 <p>Épinal-Ouest, Lamarche, Le Thillot, Neufchâteau, </p>
 <p>Plombière-les-Bains, Rambervillers, Remiremont, </p>
@@ -3500,7 +3500,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>[Mirecourt </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Charmes, Darney, Dompaire, Mirecourt, Monthureux-sur-Saône et Vittel. (3)] </p>
+<p align="left">Cantons de Charmes, Darney, Dompaire, Mirecourt, Monthureux-sur-Saône et Vittel. (3)] </p>
 </td>
 </tr>
 <tr>
@@ -5344,7 +5344,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </td>
 </tr>
 <tr>
-<td rowspan="4" valign="top" width="154">
+<td rowspan="3" valign="top" width="154">
 <p>Cusset </p>
 </td>
 <td valign="top" width="109">
@@ -5352,14 +5352,6 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </td>
 <td valign="top" width="333">
 <p>Cantons de Chantelle, Ébreuil, Escurolles, Gannat et Saint-Pourçain-sur-Sioule. (3)] </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Moulins (6)] </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons de Bourbon-l'Archambault, Chevagnes, Dompierre-sur-Besbre, Le Montet, Lurcy-Lévis, Moulins-Ouest, Moulins-Sud, Neuilly-le-Réal, Souvigny et Yzeure. </p>
 </td>
 </tr>
 <tr>
@@ -5391,7 +5383,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td valign="top" width="154">
-<p>[Moulins (5)] </p>
+<p>[Moulins ] </p>
 </td>
 <td valign="top" width="109">
 <p>Moulins </p>
@@ -5962,7 +5954,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p align="left">Montauban</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Cantons de Caussade, Caylus, Lafrançaise, Molières,<br/>Monclar-de-Quercy, Montauban, 1er canton, Montauban<br/>2e canton, Montauban 3e canton, Montauban 4e canton,<br/>Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy, Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier. (nota)<br/>
+<p align="left">Cantons de Caussade, Caylus, Lafrançaise, Molières,<br/>Monclar-de-Quercy, Montauban, 1er canton, Montauban 2e<br/>canton, Montauban 3ème canton, Montauban 4e canton,<br/>Montauban 5e canton, Montauban 6e canton, Montpezat-<br/>de-Quercy, Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier.<br/>
 </p>
 </td>
 </tr>
@@ -6345,8 +6337,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <tbody>
 <tr>
 <td width="312">
-<p align="center">Siège du tribunal de première instance </p>
-<p align="center">et de la juridiction de proximité </p>
+<p align="center">Siège du tribunal de première instance<br/>et de la juridiction de proximité </p>
 </td>
 <td width="302">
 <p align="center">Ressort </p>
