@@ -62,9 +62,9 @@ c) Le président de la Caisse centrale de la mutualité sociale agricole ;
 
 6° Sept représentants de l'Etat :
 
-a) Le      directeur général de la cohésion sociale  ;
+a) Le directeur général de la cohésion sociale ;
 
-b) Le directeur général du Trésor et de la politique économique ;
+b) Le        directeur général du Trésor ;
 
 c) Le directeur général du Centre d'analyse stratégique ;
 

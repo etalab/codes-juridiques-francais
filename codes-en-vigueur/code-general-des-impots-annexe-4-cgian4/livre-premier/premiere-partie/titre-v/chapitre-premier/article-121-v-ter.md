@@ -16,7 +16,7 @@ Le directeur général des impôts ;
 
 Le directeur du budget ;
 
-Le directeur général du Trésor et de la politique économique ou son représentant ;
+Le directeur général du Trésor ou son représentant ;
 
 Le directeur de la comptabilité publique ;
 
@@ -28,7 +28,7 @@ Le directeur général de la SOCREDOM, ou leurs représentants.
 
 Le secrétariat de la commission centrale est assuré par les services de la direction des affaires économiques, sociales et culturelles du secrétariat d'Etat auprès du ministre de l'intérieur (DOM-TOM).
 
-La commission se réunit sur la convocation du président. Sauf en cas d'urgence dûment motivé, ses membres sont convoqués dix jours au moins avant la date fixée pour la réunion. Elle délibère valablement à condition qu'il y ait au moins sept membres présents . En cas de partage égal des voix, la voix du président est prépondérante.
+La commission se réunit sur la convocation du président. Sauf en cas d'urgence dûment motivé, ses membres sont convoqués dix jours au moins avant la date fixée pour la réunion. Elle délibère valablement à condition qu'il y ait au moins sept membres présents. En cas de partage égal des voix, la voix du président est prépondérante.
 
 La commission peut entendre, à titre consultatif, les personnalités et experts dont elle estime utile de prendre l'avis.
 

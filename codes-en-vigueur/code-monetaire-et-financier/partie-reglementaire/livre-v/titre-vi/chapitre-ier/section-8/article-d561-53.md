@@ -8,7 +8,7 @@ I. ― Le conseil d'orientation comprend, outre son président, les vingt-deux m
 
 ― le directeur général des finances publiques ou son représentant ;
 
-― le directeur général du Trésor et de la politique économique ou son représentant ;
+― le        directeur général du Trésor ou son représentant ;
 
 ― le directeur général de la police nationale ou son représentant ;
 
