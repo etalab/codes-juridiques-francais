@@ -881,8 +881,8 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Rennes. </p>
-<p>Maison d'arrêt de Rennes. </p>
 <p>Centre pénitentiaire de Rennes. </p>
+<p>Centre pénitentiaire de Rennes-Vezin-le-Coquet </p>
 </td>
 </tr>
 <tr>
@@ -1322,13 +1322,11 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td valign="top">
 <br/>
 </td>
-<td align="left" valign="top">
-<p align="left">Antenne de Briey. </p>
-</td>
-<td align="left" valign="top">
+<td>Antenne de Briey. </td>
+<td valign="top">
 <p>Circonscription judiciaire de Briey. </p>
 <p>Centre de semi-liberté de Briey. </p>
 </td>
@@ -1366,14 +1364,12 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td valign="top">
 <br/>
 </td>
-<td align="left" valign="top">
-<p align="left">Antenne de Bar-le-Duc. </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Circonscription judiciaire de Bar-le-Duc. </p>
+<td>Antenne de Bar-le-Duc. </td>
+<td valign="top">
+<p>Circonscription judiciaire de Bar-le-Duc. </p>
 <p>Maison d'arrêt de Bar-le-Duc. </p>
 </td>
 </tr>
@@ -1388,9 +1384,9 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top">
-<p>. </p>
+<br/>
 </td>
-<td>Antenne de Saint-Mihiel</td>
+<td>Antenne de Saint-Mihiel. </td>
 <td valign="top">
 <p>(Arr. 17 sept. 2003, art. 5) Centre de détention de Saint-Mihiel. </p>
 </td>
