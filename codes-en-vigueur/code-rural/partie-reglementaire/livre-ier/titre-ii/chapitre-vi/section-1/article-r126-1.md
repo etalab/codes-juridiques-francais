@@ -10,12 +10,12 @@ c) Les zones dans lesquelles des plantations et des semis d'essences forestière
 
 d) Les obligations déclaratives auxquelles sont soumis les propriétaires dans les périmètres réglementés, préalablement à tous semis, à toutes plantations ou, le cas échéant, toutes replantations dans les périmètres réglementés.
 
-Le projet de délibération est soumis pour avis à la chambre départementale d'agriculture et au centre régional de la propriété forestière, accompagné d'un rapport qui recense :
+Le projet de délibération est soumis pour avis à la chambre départementale d'agriculture et au Centre national de la propriété forestière, accompagné d'un rapport qui recense :
 
-- les massifs forestiers protégés ;
+-les massifs forestiers protégés ;
 
-- les zones agricoles protégées prévues notamment à l'article L. 112-2 ;
+-les zones agricoles protégées prévues notamment à l'article L. 112-2 ;
 
-- les zones et espaces protégés au titre de l'environnement et des paysages ;
+-les zones et espaces protégés au titre de l'environnement et des paysages ;
 
-- les zones figurant dans les inventaires de patrimoine naturel et des paysages.
+-les zones figurant dans les inventaires de patrimoine naturel et des paysages.

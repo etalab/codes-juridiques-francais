@@ -40,7 +40,7 @@ e) La mer ;
 
 14° Le président de la Ligue pour la protection des oiseaux ;
 
-15° Le président de l'Association nationale des centres régionaux de la propriété forestière ;
+15° Le président du Centre national de la propriété forestière ;
 
 16° Le président du Fonds mondial pour la nature, WWF-France.
 
