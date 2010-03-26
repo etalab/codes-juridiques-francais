@@ -6,7 +6,7 @@ FORMULAIRE DE DÉCLARATION D'UN PROGRAMME DE MANIFESTATIONS COMMERCIALES SE TENA
 
 (Articles L. 762-1 et R. 762-5 du code de commerce)
 
-<div align="center">Identification du parc d'exposition <br/>accueillant le programme de manifestations </div>
+<div align="center">Identification du parc d'exposition accueillant le programme de manifestations </div>
 
 Dénomination (4) :
 
@@ -16,7 +16,7 @@ Numéro d'enregistrement du parc :
 
 Identification de la manifestation n° 1
 
-<div align="center">Première session de la manifestation / <br/>nouvelle session d'une manifestation (2) </div>
+<div align="center">Première session de la manifestation / nouvelle session d'une manifestation (2) </div>
 
 Dénomination (4) :
 
@@ -189,7 +189,6 @@ Adresse :
 Code postal : Ville :
 
 <div align="center">Organisateur de la manifestation </div>
-
 <div align="center">(Si différent de l'exploitant du parc d'exposition <p>accueillant la manifestation) <br/>
 </p>
 </div>
@@ -209,7 +208,6 @@ Mél (1) (4) :
 Adresse de site internet (1) (4) :
 
 <div align="center">Responsable de la manifestation </div>
-
 <div align="center">(Si différent de l'organisateur) </div>
 
 Nom, prénom (s) :
@@ -234,4 +232,4 @@ Signature
 
 (4) Donnée publiée sur le site internet public du ministère chargé du commerce.
 
-(5) La définition de ces catégories figure à l'article R. 762-4. Les informations recueillies font l'objet d'un traitement informatique effectué pour le compte de l'Etat et destiné à informer le public et les tiers. Les autres destinataires des données sont les agents habilités à instruire votre dossier.A l'exception des données identifiées comme facultatives, les réponses sont obligatoires pour permettre le traitement de votre demande. La loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés vous accorde un droit d'accès et de rectification aux informations qui vous concernent. Pour exercer ce droit, veuillez vous adresser à la DCASPL (bureau de la communication), 3-5, rue Barbet-de-Jouy, 75353 Paris 07 SP. Pour plus d'informations : www. pme. gouv. fr.
+(5) La définition de ces catégories figure à l'article R. 762-4. Les informations recueillies font l'objet d'un traitement informatique effectué pour le compte de l'Etat et destiné à informer le public et les tiers. Les autres destinataires des données sont les agents habilités à instruire votre dossier.A l'exception des données identifiées comme facultatives, les réponses sont obligatoires pour permettre le traitement de votre demande. La loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés vous accorde un droit d'accès et de rectification aux informations qui vous concernent. Pour exercer ce droit, veuillez vous adresser DGCIS (secrétariat général), Le Bervil, 12, rue Villiot, 75572 Paris Cedex 12. Pour plus d'informations : www. pme. gouv. fr.

@@ -2,7 +2,7 @@
 
 (ANNEXE À L'ARTICLE A. 762-2)
 
-<div align="center">FORMULAIRE DE DEMANDE D'ENREGISTREMENT <br/>D'UN PARC D'EXPOSITION </div>
+<div align="center">FORMULAIRE DE DEMANDE D'ENREGISTREMENT D'UN PARC D'EXPOSITION </div>
 
 (Articles L. 762-1 et R. 762-1 du code de commerce)
 
@@ -75,5 +75,5 @@ Signature
 </font>
 
 <font color="#808080" size="1">
-<font color="#000000" size="1">(2) Donnée publiée sur le site internet public du ministère chargé du commerce. Les informations recueillies font l'objet d'un traitement informatique effectué pour le compte de l'Etat et destiné à informer le public et les tiers. Les autres destinataires des données sont les agents habilités à instruire votre dossier.A l'exception des données identifiées comme facultatives, les réponses sont obligatoires pour permettre le traitement de votre demande. La loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés vous accorde un droit d'accès et de rectification aux informations qui vous concernent. Pour exercer ce droit, veuillez vous adresser à la DCASPL (bureau de la communication), 3-5, rue Barbet-de-Jouy, 75353 Paris 07 SP. Pour plus d'informations : www. pme. gouv. fr.</font>
+<font color="#000000" size="1">(2) Donnée publiée sur le site internet public du ministère chargé du commerce. Les informations recueillies font l'objet d'un traitement informatique effectué pour le compte de l'Etat et destiné à informer le public et les tiers. Les autres destinataires des données sont les agents habilités à instruire votre dossier.A l'exception des données identifiées comme facultatives, les réponses sont obligatoires pour permettre le traitement de votre demande. La loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés vous accorde un droit d'accès et de rectification aux informations qui vous concernent. Pour exercer ce droit, veuillez vous adresser à la DGCIS (secrétariat général), Le Bervil, 12, rue Villiot, 75572 Paris Cedex 12 . Pour plus d'informations : www. pme. gouv. fr.</font>
 </font>
