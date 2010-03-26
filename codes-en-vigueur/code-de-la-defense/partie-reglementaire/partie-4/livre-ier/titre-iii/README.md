@@ -1,5 +1,6 @@
 # TITRE III : DISPOSITIONS STATUTAIRES RELATIVES  AUX DÉROULEMENTS DES CARRIÈRES
 
+- [Chapitre VI-1 : Orientation professionnelle](chapitre-vi-1)
 - [Chapitre Ier : Hiérarchie militaire](chapitre-ier)
 - [Chapitre III : Changements d'armée ou de corps](chapitre-iii)
 - [Chapitre V : Notation](chapitre-v)
