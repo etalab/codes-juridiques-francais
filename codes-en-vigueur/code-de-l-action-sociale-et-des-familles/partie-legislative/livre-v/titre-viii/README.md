@@ -1,3 +1,3 @@
-# Titre VIII : Terres australes et antarctiques françaises
+# Titre VIII : Saint-Barthélemy et Saint-Martin
 
-- [Chapitre unique : Principes généraux.](chapitre-unique)
+- [Chapitre unique : Dispositions communes à Saint-Barthélemy et à Saint-Martin.](chapitre-unique)

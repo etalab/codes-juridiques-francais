@@ -34,38 +34,14 @@ b) De réadaptation, de préorientation et de rééducation professionnelle pour
 
 Les établissements et services sociaux et médico-sociaux délivrent des prestations à domicile, en milieu de vie ordinaire, en accueil familial ou dans une structure de prise en charge. Ils assurent l'accueil à titre permanent, temporaire ou selon un mode séquentiel, à temps complet ou partiel, avec ou sans hébergement, en internat, semi-internat ou externat.
 
-2° L'article L. 312-3, sous réserve de l'adaptation suivante : le II de l'article est ainsi rédigé :
-
-II.-Le comité de l'organisation sociale et médico-sociale de Mayotte comprend :
-
-1° Des représentants de l'Etat, des collectivités territoriales et de la caisse de sécurité sociale de Mayotte ;
-
-2° Des représentants des personnes morales gestionnaires d'établissements et de services sociaux et médico-sociaux, notamment des établissements spécialisés ;
-
-3° Des représentants des personnels de ces établissements et services ;
-
-4° Des représentants des usagers de ces établissements et services ;
-
-5° Des personnes qualifiées comprenant notamment des représentants des travailleurs sociaux et des professions de santé ;
-
-6° Un représentant du comité de l'organisation sanitaire de Mayotte.
-
-Le comité est présidé par un magistrat du corps des conseillers des cours administratives d'appel et des tribunaux administratifs ou du corps des conseillers de chambres régionales des comptes.
-
-Le comité de l'organisation sociale et médico-sociale et le comité de l'organisation sanitaire de Mayotte peuvent siéger en formation conjointe lorsque l'ordre du jour rend souhaitable un avis commun de ces deux instances et selon des modalités fixées par voie réglementaire.
-
-Le comité de l'organisation sociale et médico-sociale émet des avis en fonction de l'intérêt des projets et de sa compatibilité avec le schéma prévu à l'article L. 312-5 applicable à Mayotte.
-
-La composition et les modalités de fonctionnement du comité de l'organisation sociale et médico-sociale de Mayotte sont fixées par décret en Conseil d'Etat. Ce décret précise notamment les modalités de fonctionnement du comité, si, pendant une période transitoire, il n'a pas été possible de désigner un représentant pour chacune des catégories de membres mentionnées au présent article.
+2° L'article L. 312-3,
 
 3° L'article L. 312-4 ;
 
 4° L'article L. 312-5 qui, pour son application à Mayotte, est ainsi rédigé :
 
-Art.L. 312-5.-Le schéma d'organisation sociale et médico-sociale de Mayotte est arrêté par le représentant de l'Etat à Mayotte lorsqu'il porte sur les établissements ou services mentionnés à l'article L. 312-1 applicable à Mayotte autres que ceux devant figurer dans les schémas nationaux et ceux relevant du conseil général de Mayotte.
+Art.L. 312-5.-Le schéma d'organisation sociale et le schéma territorial d'organisation médico-social de Mayotte sont arrêtés par le représentant de l'Etat à Mayotte lorsqu'ils portent sur les établissements ou services mentionnés à l'article L. 312-1 applicable à Mayotte autres que ceux devant figurer dans les schémas nationaux, ceux relevant du conseil général de Mayotte ainsi que celui relevant de la compétence du directeur général de l'agence de santé de l'océan Indien mentionné à l'article L. 1434-12 du code de la santé publique.
 
-Lorsque le schéma porte sur les centres de rééducation professionnelle mentionnés au b du 5° du I de l'article L. 312-1 applicable à Mayotte, le représentant de l'Etat à Mayotte prend l'avis du comité de la formation professionnelle, de la promotion sociale et de l'emploi de Mayotte.
+Le schéma d'organisation médico-sociale de La Réunion et de Mayotte et le programme prévu à l'article L. 312-5-1 sont élaborés et arrêtés par le directeur général de l'agence de santé après consultation des commissions de coordination compétentes de La Réunion et de Mayotte et après avis des présidents des conseils généraux de La Réunion et de Mayotte.
 
-Le représentant de l'Etat à Mayotte adopte le schéma, après avis du comité de l'organisation sociale et médico-sociale de Mayotte.  ;
-
-5° Les articles L. 312-8 et L. 312-9.
+5° Les articles L. 312-5-1 et L. 312-8.
