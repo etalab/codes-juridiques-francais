@@ -1,5 +1,6 @@
 # Section 1 : Tribunaux interrégionaux de la tarification sanitaire et sociale.
 
+- [Article D351-3-1](article-d351-3-1.md)
 - [Article R351-1](article-r351-1.md)
 - [Article R351-2](article-r351-2.md)
 - [Article R351-3](article-r351-3.md)

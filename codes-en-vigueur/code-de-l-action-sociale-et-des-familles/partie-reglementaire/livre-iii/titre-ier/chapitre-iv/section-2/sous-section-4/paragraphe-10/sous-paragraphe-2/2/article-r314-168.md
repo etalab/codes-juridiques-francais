@@ -2,7 +2,7 @@
 
 Sont à la charge des régimes obligatoires de base de l'assurance maladie dans les conditions prévues par le code de la sécurité sociale ou de l'aide médicale, mais ne peuvent être prises en compte dans le calcul des tarifs journaliers afférents aux soins, les prestations suivantes :
 
-1° Les soins avec ou sans hébergement mentionnés au 1° de l'article L. 6111-2 du code de la santé publique incluant les prises en charge au sein des structures de soins alternatives à l'hospitalisation définies à l'article R. 712-2-1 et les prestations visées à l'article R. 712-2-2 du code de la santé publique ;
+1° Les soins dispensés par des établissements de santé autres que ceux autorisés à dispenser des soins de longue durée ;
 
 2° Les séjours et interventions de services de suppléance aux insuffisants rénaux et respiratoires chroniques ;
 

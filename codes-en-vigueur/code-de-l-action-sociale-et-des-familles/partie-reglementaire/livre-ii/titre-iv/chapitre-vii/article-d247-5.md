@@ -12,7 +12,9 @@ c) Les agents des caisses nationales de sécurité sociale et de la Caisse centr
 
 d) Les agents des administrations centrales des ministères chargés de l'assurance maladie, de la santé, de l'action sociale, des personnes handicapées, des personnes âgées, de l'emploi et de l'éducation nationale nommément désignés par les directeurs d'administration centrale compétents, ainsi que les agents des services déconcentrés de ces ministères nommément désignés par les directeurs des services déconcentrés compétents ;
 
-e) Les agents de l'Institut de veille sanitaire nommément désignés par le directeur de l'institut.
+e) Les agents de l'Institut de veille sanitaire nommément désignés par le directeur de l'institut ;
+
+f) Les agents des agences régionales de santé nommément désignés par le  directeur général de chaque agence.
 
 2° Pour l'ensemble des informations, uniquement sous forme de données statistiques agrégées :
 

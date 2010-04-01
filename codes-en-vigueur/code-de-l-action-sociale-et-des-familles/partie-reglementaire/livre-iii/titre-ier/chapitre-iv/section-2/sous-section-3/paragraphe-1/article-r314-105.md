@@ -82,7 +82,7 @@ XI.-Pour les établissements et services mentionnés au 11° de l'article L. 312
 
 Pour les dépenses afférentes aux soins dans les centres de ressources pour personnes autistes, les centres de ressources pour personnes atteintes de handicaps rares ou les unités d'évaluation, de ré-entraînement et d'orientation sociale et socio-professionnelle pour personnes cérébro-lésées, par l'assurance maladie en vertu des dispositions combinées des articles L. 162-24-1, L. 174-7 et L. 321-1 du code de la sécurité sociale, sous la forme d'une dotation globale établie et versée dans les conditions fixée par les articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale.
 
-XII.-Pour les établissements mentionnés au 2° de l'article L. 6111-2 du code de la santé publique :
+XII.-Pour les établissements de santé autorisés à  dispenser des soins de longue durée :
 
 1° Pour ceux d'entre eux qui sont signataires de la convention mentionnée au I de l'article L. 313-12, par le département dans les conditions fixées par les dispositions du paragraphe 10 de la sous-section 4 de la présente section, et par l'assurance maladie, sous la forme d'une dotation globale, versée dans les conditions fixées par les articles R. 174-9 à R. 174-16 du code de la sécurité sociale ;
 

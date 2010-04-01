@@ -1,6 +1,6 @@
 # Article R314-31
 
-Pour chaque catégorie d'établissement ou service dont la tarification relève exclusivement ou conjointement de l'Etat, le préfet de région rend publiques, chaque année, les valeurs moyennes et médianes des indicateurs du tableau de bord, calculées sur la base des comptes du dernier exercice clos, dans le ressort de la région et de chacun des départements qui la composent.
+Pour chaque catégorie d'établissement ou service dont la tarification relève exclusivement ou conjointement de l'Etat ou de l'agence régionale de la santé, le préfet de région ou le directeur général de l'agence régionale de santé rend publiques, chaque année, les valeurs moyennes et médianes des indicateurs du tableau de bord, calculées sur la base des comptes du dernier exercice clos, dans le ressort de la région et de chacun des départements qui la composent.
 
 Les données relatives au calcul des indicateurs des établissements ou services dont l'autorité de tarification ne fait pas usage en application du dernier alinéa de l'article R. 314-32 ne sont pas intégrées dans le calcul des valeurs moyennes et médianes.
 

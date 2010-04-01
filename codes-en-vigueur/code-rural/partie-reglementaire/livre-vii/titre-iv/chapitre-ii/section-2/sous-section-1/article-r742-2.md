@@ -16,4 +16,4 @@ e) Les titres VI et VII ;
 
 2° Le chapitre 1er du titre VIII du livre IV du code de la sécurité sociale (deuxième partie : Décrets en Conseil d'Etat).
 
-Pour l'application de ces dispositions, les caisses de mutualité sociale agricole sont substituées aux caisses primaires et régionales d'assurance maladie.
+Pour l'application de ces dispositions, les caisses de mutualité sociale agricole sont substituées aux caisses primaires d'assurance maladie et caisse d'assurance retraite et de la santé au travail.

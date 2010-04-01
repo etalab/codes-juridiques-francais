@@ -6,7 +6,7 @@ Ne peuvent être prises en compte pour la fixation du tarif d'un établissement 
 
 2° Les frais médicaux, notamment dentaires, les frais paramédicaux, les frais pharmaceutiques et les frais de laboratoire, autres que ceux afférents aux soins qui correspondent aux missions de l'établissement ou du service ;
 
-3° Le coût des soins dispensés par les établissements de santé mentionnés au 1° de l'article L. 6111-2 du code de la santé publique, incluant les prises en charge au sein des structures de soins alternatives à l'hospitalisation définies à l'article L. 6121-2, et les prestations mentionnées à l'article R. 712-2-2 du même code ;
+3° Le coût des soins dispensés par les établissements de santé autres que ceux autorisés à dispenser des soins de longue durée ;
 
 4° Le coût des dispositifs médicaux mentionnés à l'article L. 5211-1 du code de la santé publique, à l'exception de ceux qui figurent sur une liste arrêtée par les ministres chargés de la sécurité sociale et de l'action sociale ;
 
