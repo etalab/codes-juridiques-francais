@@ -4,7 +4,7 @@ Pour les aérodromes mentionnés au I de l'article 1609 quatervicies A du code g
 
 1° Définit :
 
--les indicateurs de mesure du bruit et de la gêne sonore ;
+-les indicateurs de mesure du bruit et des nuisances sonores ;
 
 -les prescriptions techniques applicables, en conformité avec les normes internationales, aux dispositifs de mesure de bruit et de suivi des trajectoires ;
 
