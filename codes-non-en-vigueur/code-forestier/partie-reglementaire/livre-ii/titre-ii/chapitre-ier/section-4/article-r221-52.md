@@ -1,5 +1,0 @@
-# Article R221-52
-
-Les centres régionaux de la propriété forestière sont soumis au contrôle financier prévu par le décret du 25 octobre 1935.
-
-Un membre du corps du contrôle général économique et financier placé sous l'autorité du ministre chargé des finances assure le contrôle financier de l'établissement ; ses attributions sont définies conjointement par arrêté du ministre chargé des forêts et du ministre chargé des finances.
