@@ -2,7 +2,7 @@
 
 Une taxe additionnelle à la cotisation foncière des entreprises est perçue au profit des chambres de métiers et de l'artisanat, des chambres régionales de métiers et de l'artisanat et de l'assemblée permanente des chambres de métiers et de l'artisanat.
 
-Cette taxe est acquittée par les chefs d'entreprises individuelles ou les sociétés soumis à l'obligation de s'inscrire au répertoire des métiers ou qui y demeurent immatriculés. Les personnes physiques titulaires de l'allocation de solidarité aux personnes âgées mentionnée à l'article L. 815-1 du code de la sécurité sociale ou de l'allocation supplémentaire d'invalidité mentionnée à l'article L. 815-24 du même code sont dégrevées d'office de la taxe.
+Cette taxe est acquittée par les chefs d'entreprises individuelles ou les sociétés soumis à l'obligation de s'inscrire au répertoire des métiers ou qui y demeurent immatriculés. Les personnes physiques titulaires de l'allocation de solidarité aux personnes âgées mentionnée à l'article L. 815-1 du code de la sécurité sociale ou de l'allocation supplémentaire d'invalidité mentionnée à l'article L. 815-24 du même code sont dégrevées d'office de la taxe. Les chefs d'entreprises individuelles exerçant une activité artisanale à titre principal bénéficiant du régime prévu à l'article L. 133-6-8 du code de la sécurité sociale sont exonérés de cette taxe jusqu'au terme de la deuxième année civile suivant celle de la création de leur entreprise.
 
 Cette taxe est composée :
 
