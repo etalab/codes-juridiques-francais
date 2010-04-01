@@ -38,19 +38,19 @@ B :
 
 C :
 
-- le président du Centre national professionnel de la propriété forestière ou son représentant ;
+-le président du      Centre national de la propriété forestière ou son représentant ;
 
-- le président de l'Assemblée permanente des chambres d'agriculture ou son représentant ;
+-le président de l'Assemblée permanente des chambres d'agriculture ou son représentant ;
 
-- le directeur général de l'Office national des forêts ou son représentant ;
+-le directeur général de l'Office national des forêts ou son représentant ;
 
-- le directeur général de l'Institut national de la recherche agronomique ou son représentant ;
+-le directeur général de l'Institut national de la recherche agronomique ou son représentant ;
 
-- le directeur général du Centre national du machinisme agricole, du génie rural, des eaux et des forêts ou son représentant.
+-le directeur général du Centre national du machinisme agricole, du génie rural, des eaux et des forêts ou son représentant.
 
 D :
 
-I. - 4 représentants de la propriété forestière privée ;
+I.-4 représentants de la propriété forestière privée ;
 
 1 représentant de l'Association des sociétés et groupements fonciers et forestiers ;
 
@@ -78,13 +78,13 @@ I. - 4 représentants de la propriété forestière privée ;
 
 3 représentants des associations d'usagers de la forêt ;
 
-II. - 3 représentants des salariés de la forêt et des professions du bois.
+II.-3 représentants des salariés de la forêt et des professions du bois.
 
 Ces membres sont nommés par le ministre chargé des forêts sur proposition, le cas échéant, des organisations représentatives du secteur concerné.
 
 E :
 
-I. - 4 représentants des associations agréées de protection de la nature et de gestion des espaces naturels ;
+I.-4 représentants des associations agréées de protection de la nature et de gestion des espaces naturels ;
 
 1 représentant de la Fédération des parcs naturels régionaux ;
 
@@ -94,6 +94,6 @@ I. - 4 représentants des associations agréées de protection de la nature et d
 
 Ces membres sont nommés par le ministre chargé des forêts, sur proposition du ministre chargé de l'environnement.
 
-II. - 5 personnalités qualifiées désignées par le ministre chargé des forêts en raison de leur compétence technique, économique, sociale ou juridique.
+II.-5 personnalités qualifiées désignées par le ministre chargé des forêts en raison de leur compétence technique, économique, sociale ou juridique.
 
 Le ministre chargé des forêts désigne parmi les membres du conseil un vice-président.

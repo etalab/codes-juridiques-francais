@@ -1,7 +1,7 @@
 # Article R221-1
 
-Les centres régionaux de la propriété forestière sont des établissements publics nationaux à caractère administratif chargés d'assurer la réalisation des tâches mentionnées à l'article L. 221-1 dans l'étendue de leur circonscription.
+L'établissement est sous la tutelle du ministre chargé des forêts.
 
-La région où le centre a son siège, le ressort et le nombre des administrateurs de chacun des dix-huit centres régionaux de la propriété forestière, ainsi que la répartition par département des administrateurs élus par les collèges départementaux, sont fixés au tableau I annexé à la partie réglementaire du présent code.
+Les activités du Centre national de la propriété forestière s'inscrivent dans un contrat de performance passé entre l'Etat et l'établissement public. Ce contrat précise les orientations de gestion et les programmes d'actions du Centre national de la propriété forestière. Il détermine les objectifs liés à l'exercice de ses missions et évalue les moyens nécessaires à leur mise en œuvre.
 
-Sauf décision contraire du préfet de la région du siège indiquée au tableau ci-dessus mentionné, prise sur proposition du centre, le siège se trouve au chef-lieu de cette région.
+Sauf décision contraire du ministre chargé des forêts, prise sur proposition du conseil d'administration, le siège du centre est fixé à Paris.

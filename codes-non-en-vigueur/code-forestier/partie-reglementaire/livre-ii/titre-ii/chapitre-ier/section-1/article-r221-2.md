@@ -1,3 +1,3 @@
 # Article R221-2
 
-Les centres régionaux de la propriété forestière assurent directement toutes les missions dont ils sont chargés. Ils ne peuvent ni créer ni gérer d'établissements distincts des centres quels qu'en soient la nature et l'objet. Sauf autorisation du ministre chargé des forêts, ces centres ne peuvent faire partie de syndicats, coopératives, sociétés, associations, comités ou groupements d'aucune sorte ou y être représentés.
+Le Centre national de la propriété forestière peut faire partie de coopératives forestières, sociétés, associations, comités ou groupements ayant un objet entrant dans son champ de compétences, ou y être représenté, sous réserve du droit du commissaire du Gouvernement de s'y opposer dans le délai prévu à l'article R. 221-79.

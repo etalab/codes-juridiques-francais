@@ -1,3 +1,3 @@
 # Article R221-7
 
-Les membres du collège départemental des propriétaires forestiers ne peuvent être inscrits sur une autre liste électorale pour les élections aux chambres d'agriculture que s'ils possèdent, pour participer à ces élections, d'autres titres que ceux prévus au premier alinéa de l'article R. 221-5.
+Les organisations syndicales les plus représentatives des personnels du Centre national de la propriété forestière désignent au conseil d'administration deux représentants parmi les personnels du centre ainsi qu'un suppléant pour chacun d'eux. A cette fin, tous les trois ans, il est procédé, dans des conditions fixées par arrêté du ministre chargé des forêts, à une consultation de l'ensemble du personnel du centre national en vue de constater la représentativité des organisations syndicales.
