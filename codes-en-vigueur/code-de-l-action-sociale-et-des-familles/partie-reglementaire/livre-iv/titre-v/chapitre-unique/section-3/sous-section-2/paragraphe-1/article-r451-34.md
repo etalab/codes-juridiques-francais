@@ -2,7 +2,7 @@
 
 Le préfet de région nomme le jury du diplôme, qui, dans le respect des dispositions du I de l'article L. 335-5 du code de l'éducation, comprend :
 
-1° Le directeur régional des affaires sanitaires et sociales ou son représentant, président du jury ;
+1° Le      directeur régional de la jeunesse, des sports et de la cohésion sociale  ou son représentant, président du jury ;
 
 2° Des formateurs issus des établissements de formation préparant au diplôme d'Etat d'assistant de service social ;
 

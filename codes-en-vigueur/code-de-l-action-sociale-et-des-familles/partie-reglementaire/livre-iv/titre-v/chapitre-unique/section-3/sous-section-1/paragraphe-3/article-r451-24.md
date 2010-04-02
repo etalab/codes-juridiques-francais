@@ -2,7 +2,7 @@
 
 Le préfet de région nomme le jury du diplôme qui comprend :
 
-1° Le directeur régional des affaires sanitaires et sociales, ou son représentant, président ;
+1° Le directeur régional de la jeunesse, des sports et de la cohésion sociale, ou son représentant, président ;
 
 2° Des formateurs ou des enseignants ;
 

@@ -4,7 +4,7 @@ Le recteur d'académie nomme le jury du diplôme qui comprend :
 
 1° Le recteur d'académie ou son représentant, président ;
 
-2° Le directeur régional des affaires sanitaires et sociales ou son représentant, vice-président ;
+2° Le      directeur régional de la jeunesse, des sports et de la cohésion sociale  ou son représentant, vice-président ;
 
 3° Des formateurs d'établissements de formation préparant au diplôme d'Etat d'éducateur spécialisé ou à d'autres diplômes d'Etat sociaux, socioculturels ou paramédicaux, de membres de l'enseignement supérieur ou de professeurs du second cycle de l'enseignement secondaire ;
 

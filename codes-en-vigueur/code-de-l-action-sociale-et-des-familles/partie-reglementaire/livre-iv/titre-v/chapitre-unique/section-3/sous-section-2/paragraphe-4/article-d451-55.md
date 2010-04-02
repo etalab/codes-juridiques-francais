@@ -4,7 +4,7 @@ Le recteur d'académie nomme le jury du diplôme qui, dans le respect des dispos
 
 1° Le recteur d'académie ou son représentant, président du jury ;
 
-2° Le directeur régional des affaires sanitaires et sociales ou son représentant, vice-président du jury ;
+2° Le      directeur régional de la jeunesse, des sports et de la cohésion sociale  ou son représentant, vice-président du jury ;
 
 3° Des formateurs issus des centres dispensant la formation au diplôme d'éducateur technique spécialisé, des membres de l'enseignement supérieur ou des professeurs de l'enseignement technologique ou professionnel ;
 

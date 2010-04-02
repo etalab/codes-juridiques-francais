@@ -1,4 +1,4 @@
-# Paragraphe 4 : Certificat d'aptitude aux fonctions d'éducateur technique spécialisé.
+# Paragraphe 4 : Diplôme d'Etat aux fonctions d'éducateur technique spécialisé.
 
 - [Article D451-52](article-d451-52.md)
 - [Article D451-53](article-d451-53.md)
