@@ -16,7 +16,9 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center" colspan="2">
-<br/>Cour d'appel d'Aix-en-Provence </td>
+<p align="center">
+<br/>Cour d'appel d'Aix-en-Provence </p>
+</td>
 </tr>
 <tr>
 <td colspan="2">
@@ -481,9 +483,7 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<p align="center">
 <br/>Lyon <br/>
-</p>
 </td>
 <td align="center">
 <p align="left">
@@ -556,13 +556,11 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<p align="center">
 <br/>Nancy <br/>
-</p>
 </td>
 <td align="center">
 <p align="left">
-<br/>Haut-du-Lièvre, Tomblaine, Vandœuvre-lès-Nancy.<br/>
+<br/>Haut du Lièvre, Tomblaine, Vandœuvre-lès-Nancy, Toul.<br/>
 </p>
 </td>
 </tr>
@@ -849,9 +847,7 @@ Liste des maisons de justice et du droit
 <br/>Rouen <br/>
 </td>
 <td align="center">
-<p align="left">
 <br/>Elbeuf-sur-Seine, Canteleu, Rouen, Saint-Etienne-du-Rouvray.<br/>
-</p>
 </td>
 </tr>
 <tr>
