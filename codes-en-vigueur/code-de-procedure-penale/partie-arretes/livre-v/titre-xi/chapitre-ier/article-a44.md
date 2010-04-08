@@ -1264,7 +1264,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Antenne de Briey. </p>
+<p align="left">Antenne de Briey.</p>
 </td>
 <td align="left" valign="top">
 <p>Circonscription judiciaire de Briey. </p>
@@ -1922,7 +1922,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire du Havre. </p>
-<p>Maison d'arrêt du Havre. </p>
+<p>Centre pénitentiaire du Havre. </p>
 </td>
 </tr>
 <tr>
