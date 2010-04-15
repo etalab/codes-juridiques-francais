@@ -4,4 +4,4 @@
 - [Sous-section 2 : Instruction de la demande](sous-section-2)
 - [Sous-section 3 : Autorisation et prescriptions](sous-section-3)
 - [Sous-section 4 : Mesures de publicité](sous-section-4)
-- [Sous-section 5 : Dispositions propres à certaines catégories d'installations](sous-section-5)
+- [Sous-section 5 : Mise à l'arrêt définitif et remise en état](sous-section-5)

@@ -56,6 +56,8 @@ I.-La liste nationale des documents de planification, programmes ou projets ains
 
 27° Les manifestations nautiques en mer soumises à déclaration dans des conditions fixées par arrêté des ministres chargés de la mer et des sports dès lors qu'elles donnent lieu à délivrance d'un titre international ou national ou que leur budget d'organisation dépasse 100 000 € ou dès lors qu'elles concernent des engins motorisés ;
 
-28° Les manifestations aériennes de grande importance soumises à autorisation en application des articles L. 133-1 et R. 131-3 du code de l'aviation civile.
+28° Les manifestations aériennes de grande importance soumises à autorisation en application des articles L. 133-1 et R. 131-3 du code de l'aviation civile ;
+
+29° Les installations classées soumises à enregistrement en application de l'article L. 512-7 du code de l'environnement, dès lors que ces installations sont localisées en site Natura 2000.
 
 II.-Sauf mention contraire, les documents de planification, programmes, projets, manifestations ou interventions listés au I sont soumis à l'obligation d'évaluation des incidences Natura 2000, que le territoire qu'ils couvrent ou que leur localisation géographique soient situés ou non dans le périmètre d'un site Natura 2000.

@@ -10,4 +10,4 @@ Il envoie le dossier au préfet dans les quinze jours à compter de la réponse 
 
 Le préfet adresse, dès leur réception, copie du rapport et des conclusions au président du tribunal administratif, au demandeur et aux maires des communes comprises dans le périmètre de l'enquête publique.
 
-Toute personne peut prendre connaissance à la préfecture et à la mairie de la commune d'implantation du mémoire en réponse du demandeur, du rapport et des conclusions motivées du commissaire enquêteur.
+Toute personne peut prendre connaissance à la préfecture et à la mairie de la commune d'implantation du mémoire en réponse du demandeur, du rapport et des conclusions motivées du commissaire enquêteur. Ces éléments sont mis à disposition du public sur le site internet de la préfecture pour une durée qui ne peut être inférieure à un an à compter de la décision finale.

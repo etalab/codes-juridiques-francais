@@ -10,4 +10,3 @@
 - [Article R512-35](article-r512-35.md)
 - [Article R512-36](article-r512-36.md)
 - [Article R512-37](article-r512-37.md)
-- [Article R512-38](article-r512-38.md)

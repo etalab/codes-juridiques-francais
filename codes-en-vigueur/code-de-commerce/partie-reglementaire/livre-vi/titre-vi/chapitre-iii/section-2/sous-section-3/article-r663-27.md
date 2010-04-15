@@ -4,8 +4,8 @@ Il est alloué au liquidateur un droit fixe au titre de l'ensemble des obligatio
 
 1° 500 euros lorsque la ou les installations classées sont soumises à déclaration ;
 
-2° 1 500 euros lorsque l'une au moins des installations classées est soumise à autorisation ;
+2° 1 500 euros lorsque l'une au moins des installations classées est soumise à autorisation ou à enregistrement ;
 
-3° 4 500 euros lorsque l'une au moins des installations classées figure sur une liste prévue au IV de l'article L. 515-8 du code de l'environnement ou est soumise aux dispositions du décret n° 77-1133 du 21 septembre 1977 et de ses textes d'application.
+3° 4 500 euros lorsque l'une au moins des installations classées figure sur une liste prévue au IV de l'article L. 515-8 du code de l'environnement.
 
-Ce droit est doublé lorsque l'une au moins des installations classées soumises à autorisation a fait l'objet d'un arrêté de l'autorité administrative prescrivant des mesures d'urgence et de mise en sécurité du site.
+Ce droit est doublé lorsque l'une au moins des installations classées soumises à autorisation ou à enregistrement a fait l'objet d'un arrêté de l'autorité administrative prescrivant des mesures d'urgence et de mise en sécurité du site.
