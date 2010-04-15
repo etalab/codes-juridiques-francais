@@ -6,3 +6,4 @@
 - [Paragraphe 4 : Remise en service](paragraphe-4)
 - [Paragraphe 5 : Agrément des organismes de contrôle](paragraphe-5)
 - [Paragraphe 6 : Surveillance de l'installation](paragraphe-6)
+- [Article R512-54](article-r512-54.md)
