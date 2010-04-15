@@ -9,13 +9,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <tr>
 <td rowspan="2" valign="top" width="33">
 <br/>
+<br/>
 <p align="center">N° </p>
 </td>
 <td colspan="3" width="412">
 <p align="center">A-NOMENCLATURE DES INSTALLATIONS CLASSEES </p>
 </td>
 <td colspan="2" width="160">
-<p align="center">B-TAXE GENERALE SUR LES ACTIVITES POLLUANTES </p>
+<p align="left">B-TAXE GENERALE SUR LES ACTIVITES POLLUANTES </p>
 </td>
 </tr>
 <tr>
@@ -23,7 +24,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">Désignation de la rubrique </p>
 </td>
 <td width="38">
-<p align="center">A, D, S C (1) </p>
+<p align="center">A, E, D, S, C (1) </p>
 </td>
 <td width="35">
 <p align="center">Rayon (2) </p>
@@ -44,12 +45,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -59,12 +63,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -81,6 +88,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -92,9 +100,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -107,12 +117,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -122,14 +135,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
 <p>A. La quantité totale susceptible d'être présente dans l'installation étant : </p>
 </td>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -139,12 +155,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -188,14 +207,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
 <p>B. La quantité totale susceptible d'être présente dans l'installation étant : </p>
 </td>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -205,12 +227,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -257,9 +282,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -272,12 +299,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -304,12 +334,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -319,12 +352,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -334,12 +370,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -356,6 +395,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -367,9 +407,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -402,12 +444,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td rowspan="8" valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td rowspan="8" valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td rowspan="8" valign="top" width="129"/>
 <td rowspan="8" valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -428,7 +473,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1° Les opérations visées à la rubrique 1715 font l'objet d'un classement au titre de la présente nomenclature dès lors qu'elles sont mises en œuvre dans un établissement industriel ou commercial, dont une installation au moins est soumise à autorisation au titre d'une autre rubrique de la nomenclature. </p>
+<p>1° Les opérations visées à la rubrique 1715 font l'objet d'un classement au titre de la présente nomenclature dès lors qu'elles sont mises en oeuvre dans un établissement industriel ou commercial, dont une installation au moins est soumise à autorisation au titre d'une autre rubrique de la nomenclature. </p>
 </td>
 </tr>
 <tr>
@@ -459,8 +504,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -468,11 +515,12 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. La valeur de Q est égale ou supérieure à 10 <sup>4 </sup>
+<p>1. La valeur de Q est égale ou supérieure à 10<sup>4 </sup>
 </p>
 </td>
 <td valign="top" width="38">
@@ -482,7 +530,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">1 </p>
 </td>
 <td valign="top" width="129">
-<p>a) supérieure ou égal à 106</p>
+<p>a) supérieure ou égal à 10<sup>6</sup>
+</p>
 </td>
 <td valign="top" width="31">
 <p align="center">3 </p>
@@ -493,15 +542,16 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td/>
 <td/>
 <td>
-<p>b) supérieure ou égal à 104</p>
+<p>b) supérieure ou égal à 10<sup>4</sup>
+</p>
 </td>
 <td>
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. La valeur de Q est égale ou supérieure à 1 et strictement inférieure à 10 <sup>4 </sup>
+<p>2. La valeur de Q est égale ou supérieure à 1 et strictement inférieure à 10<sup>4 </sup>
 </p>
 </td>
 <td valign="top" width="38">
@@ -509,9 +559,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -544,8 +596,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -553,14 +607,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -568,14 +625,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -591,8 +651,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -616,6 +678,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p>B. Emploi ou stockage </p>
 </td>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -634,6 +697,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -644,6 +708,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -657,8 +722,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -677,8 +744,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -686,14 +755,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -701,14 +773,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -724,8 +799,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -750,6 +827,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -767,6 +845,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -777,6 +856,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -790,8 +870,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -810,27 +892,33 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. élevage de veaux de boucherie et/ou bovins à l'engraissement ; transit et vente de bovins lorsque leur présence simultanée est supérieure à 24 heures, à l'exclusion des rassemblements occasionnels : </p>
+<p>1. élevage de veaux de boucherie et / ou bovins à l'engraissement ; transit et vente de bovins lorsque leur présence simultanée est supérieure à 24 heures, à l'exclusion des rassemblements occasionnels : </p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -847,6 +935,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -858,9 +947,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -873,24 +964,29 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. élevage de vaches laitières et/ou mixtes : </p>
+<p>2. élevage de vaches laitières et / ou mixtes : </p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -907,6 +1003,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -918,9 +1015,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -930,12 +1029,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -948,9 +1050,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -960,12 +1064,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -978,9 +1085,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -993,12 +1102,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1015,6 +1127,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1026,9 +1139,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1041,12 +1156,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1059,12 +1177,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1081,6 +1202,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1092,9 +1214,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1107,12 +1231,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1129,6 +1256,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1140,9 +1268,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1155,9 +1285,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1167,72 +1299,87 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. caille = 0, 125 </p>
+<p>1. caille = 0,125 </p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. pigeon, perdrix = 0, 25 </p>
+<p>2. pigeon, perdrix = 0,25 </p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>3. coquelet = 0, 75 </p>
+<p>3. coquelet = 0,75 </p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>4. poulet léger = 0, 85 </p>
+<p>4. poulet léger = 0,85 </p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1242,27 +1389,33 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>6. poulet lourd = 1, 15 </p>
+<p>6. poulet lourd = 1,15 </p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1272,27 +1425,33 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>8. dinde légère = 2, 20 </p>
+<p>8. dinde légère = 2,20 </p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1302,27 +1461,33 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>10. dinde lourde = 3, 50 </p>
+<p>10. dinde lourde = 3,50 </p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1332,12 +1497,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1350,12 +1518,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1368,9 +1539,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1383,12 +1556,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1405,6 +1581,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1416,9 +1593,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1431,12 +1610,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1453,6 +1635,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1464,9 +1647,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1476,12 +1661,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1494,12 +1682,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1516,6 +1707,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1524,12 +1716,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1546,6 +1741,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1557,9 +1753,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1582,6 +1780,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1590,12 +1789,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1615,6 +1817,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1626,18 +1829,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>a) si le volume total de stockage est supérieur à 15 000 m<sup>3 </sup>
+<p>a) si le volume total de stockage est supérieur à 15 000 m³ <sup/>
 </p>
 </td>
 <td valign="top" width="38">
@@ -1649,21 +1855,23 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>b) si le volume total de stockage est supérieur à 5 000 m<sup>3</sup>, mais inférieur ou égal à 15 000 m<sup>3 </sup>
-</p>
+<p>b) si le volume total de stockage est supérieur à 5 000 m³, mais inférieur ou égal à 15 000 m³</p>
 </td>
 <td valign="top" width="38">
 <p align="center">DC </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1676,12 +1884,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1698,6 +1909,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1709,9 +1921,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1724,18 +1938,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Le dépôt étant supérieur à 200 m <sup>3 </sup>
+<p>Le dépôt étant supérieur à 200 m³ <sup/>
 </p>
 </td>
 <td valign="top" width="38">
@@ -1743,9 +1960,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1758,18 +1977,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. Supérieure ou égale à 500 m <sup>3 </sup>
+<p>1. Supérieure ou égale à 500 m³ <sup/>
 </p>
 </td>
 <td valign="top" width="38">
@@ -1781,21 +2003,23 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. Supérieure à 100 m <sup>3 </sup>mais inférieure à 500 m <sup>3 </sup>
-</p>
+<p>2. Supérieure à 100 m³ mais inférieure à 500 m³</p>
 </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1808,12 +2032,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1823,12 +2050,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1845,6 +2075,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1856,9 +2087,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1871,12 +2104,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1886,14 +2122,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
 <p>1. Le poids de carcasses susceptibles d'être abattues étant : </p>
 </td>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1918,8 +2157,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -1933,8 +2174,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -1953,9 +2196,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1968,14 +2213,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
 <p>1. La capacité de production étant : </p>
 </td>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2016,6 +2264,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
@@ -2031,12 +2280,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2046,14 +2298,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
 <p>1. La capacité de production étant : </p>
 </td>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2078,8 +2333,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -2098,9 +2355,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2122,14 +2381,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -2143,8 +2405,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -2172,14 +2436,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -2193,8 +2460,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -2214,12 +2483,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2234,7 +2506,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">1 </p>
 </td>
 <td valign="top" width="129">
-<p>1. La capacité journalière de traitement de l'installation exprimée en litre de lait ou équivalent-lait étant supérieure à 250 000 l / j </p>
+<p>1. La capacité journalière de traitement de l'installation exprimée en litre de lait ou équivalent-lait étant supérieure à 250 000 l/j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">4 </p>
@@ -2242,11 +2514,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. supérieure à 7 000 l/j, mais inférieure ou égale à<br/>70 000 l/j </p>
+<p>2. supérieure à 7 000 l/j, mais inférieure ou égale à 70 000 l/j </p>
 <p>Equivalences sur les produits entrant dans l'installation : </p>
 <p>1 litre de crème = 8 l équivalent-lait </p>
 <p>1 litre de lait écrémé, de sérum, de beurre non concentré = 1 l équivalent-lait </p>
-<p>1 litre de lait écrémé, de sérum, de beurre préconcentré =<br/>6 l équivalent-lait </p>
+<p>1 litre de lait écrémé, de sérum, de beurre préconcentré = 6 l équivalent-lait </p>
 <p>1 kg de fromage = 10 l équivalent-lait </p>
 </td>
 <td valign="top" width="38">
@@ -2254,9 +2526,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2269,12 +2543,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2284,14 +2561,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
 <p>1. La capacité de production étant : </p>
 </td>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2316,8 +2596,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -2336,9 +2618,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2351,12 +2635,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2366,12 +2653,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2401,9 +2691,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2416,12 +2708,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2431,12 +2726,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2466,9 +2764,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2481,12 +2781,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2496,12 +2799,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2531,9 +2837,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2546,12 +2854,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2561,12 +2872,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2596,9 +2910,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2611,12 +2927,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2626,14 +2945,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
 <p>La quantité stockée de produits dont le titre alcoométrique volumique est supérieur à 40 %, susceptible d'être présente est : </p>
 </td>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2656,7 +2978,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. supérieure ou égale à 500 m <sup>3 </sup>
+<p>2. supérieure ou égale à 500 m³ <sup/>
 </p>
 </td>
 <td valign="top" width="38">
@@ -2666,7 +2988,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">2 </p>
 </td>
 <td valign="top" width="129">
-<p>2. supérieure ou égale à 500 m <sup>3 </sup>
+<p>2. supérieure ou égale à 500 m³ <sup/>
 </p>
 </td>
 <td valign="top" width="31">
@@ -2675,7 +2997,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>3. supérieure ou égale à 50 m <sup>3 </sup>
+<p>3. supérieure ou égale à 50 m³ <sup/>
 </p>
 </td>
 <td valign="top" width="38">
@@ -2683,9 +3005,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2698,18 +3022,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. traitement et transformation destinés à la fabrication de produits alimentaires d'une capacité de production de produits finis supérieure à 300 t/j </p>
+<p>1. traitement et transformation destinés à la fabrication de produits alimentaires d'une capacité de production de produits finis supérieure à 300 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -2730,14 +3057,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
 <p>2. La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant : </p>
 </td>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2766,7 +3096,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p>b) Supérieure à 1 MW, mais inférieure à 5 MW </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p>1 </p>
 </td>
 </tr>
 <tr>
@@ -2778,9 +3108,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2789,16 +3121,19 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">2265 </p>
 </td>
 <td valign="top" width="340">
-<p>Fermentation acétique en milieu liquide (mise en œuvre d'un procédé de) </p>
+<p>Fermentation acétique en milieu liquide (mise en oeuvre d'un procédé de) </p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2808,18 +3143,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. supérieur à 100 m<sup>3 </sup>
+<p>1. supérieur à 100 m³ <sup/>
 </p>
 </td>
 <td valign="top" width="38">
@@ -2831,21 +3169,23 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. supérieur à 30 m<sup>3</sup>, mais inférieur ou égal à 100 m<sup>3 </sup>
-</p>
+<p>2. supérieur à 30 m³, mais inférieur ou égal à 100 m³</p>
 </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2865,6 +3205,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2882,6 +3223,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2901,6 +3243,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2912,12 +3255,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2927,18 +3273,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. supérieure à 5 t/j </p>
+<p>1. supérieure à 5 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -2949,20 +3298,23 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. supérieure à 500 kg/j, mais inférieure ou égale à 5 t/j </p>
+<p>2. supérieure à 500 kg / j, mais inférieure ou égale à 5 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2975,18 +3327,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>La capacité de production étant supérieure à 2 t/j </p>
+<p>La capacité de production étant supérieure à 2 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -2996,6 +3351,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3008,12 +3364,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3026,9 +3385,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3041,12 +3402,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3059,9 +3423,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3074,12 +3440,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3089,8 +3458,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -3098,11 +3469,12 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. supérieure à 1 t/j </p>
+<p>1. supérieure à 1 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -3111,7 +3483,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">1 </p>
 </td>
 <td valign="top" width="129">
-<p>a) supérieure à 20 t/j </p>
+<p>a) supérieure à 20 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">3 </p>
@@ -3121,12 +3493,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>b) supérieure à 5 t/j, mais inférieure ou égale à 20 t/j </p>
+<p>b) supérieure à 5 t / j, mais inférieure ou égale à 20 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">1 </p>
@@ -3134,16 +3508,18 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. supérieure à 50 kg/j, mais inférieure ou égale à 1 t/j </p>
+<p>2. supérieure à 50 kg / j, mais inférieure ou égale à 1 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3156,12 +3532,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3171,18 +3550,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. supérieure à 5 t/j </p>
+<p>1. supérieure à 5 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -3193,20 +3575,23 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. supérieure à 500 kg/j, mais inférieure ou égale à 5 t/j </p>
+<p>2. supérieure à 500 kg / j, mais inférieure ou égale à 5 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3219,12 +3604,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3241,6 +3629,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3252,24 +3641,29 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>(1) La capacité nominale est calculée conformément à la norme NF G 45-010 de février 1982, relative au matériel pour l'industrie textile et matériel connexe "Matériel de nettoyage à sec-Définitions et contrôle des caractéristiques de capacité de consommation d'une machine." </p>
+<p>(1) La capacité nominale est calculée conformément à la norme NF G 45-010 de février 1982, relative au matériel pour l'industrie textile et matériel connexe "Matériel de nettoyage à sec-Définitions et contrôle des caractéristiques de capacité de consommation d'une machine."</p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3291,18 +3685,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>a) supérieure à 5 t/j </p>
+<p>a) supérieure à 5 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">4 </p>
@@ -3312,12 +3709,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>b) supérieure à 1 t/j, mais inférieure ou égale à 5 t/j </p>
+<p>b) supérieure à 1 t / j, mais inférieure ou égale à 5 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">1 </p>
@@ -3332,12 +3731,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3347,8 +3749,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -3356,11 +3760,12 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. supérieure à 1 t/j </p>
+<p>1. supérieure à 1 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -3369,7 +3774,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">1 </p>
 </td>
 <td valign="top" width="129">
-<p>a) supérieure à 20 t/j </p>
+<p>a) supérieure à 20 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">3 </p>
@@ -3379,12 +3784,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>b) supérieure à 5 t/j, mais inférieure ou égale à 20 t/j </p>
+<p>b) supérieure à 5 t / j, mais inférieure ou égale à 20 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">1 </p>
@@ -3392,16 +3799,18 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. supérieure à 100 kg/j, mais inférieure ou égale à 1 t/j </p>
+<p>2. supérieure à 100 kg / j, mais inférieure ou égale à 1 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">DC </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3421,6 +3830,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3432,12 +3842,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3450,9 +3863,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3465,12 +3880,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3480,12 +3898,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3501,6 +3922,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3513,9 +3935,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3528,12 +3952,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3543,12 +3970,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3565,6 +3995,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3576,9 +4007,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3591,12 +4024,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3619,16 +4055,18 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. La quantité susceptible d'être présente dans l'installation étant supérieure ou égale à 200 l ou la quantité de solvants consommée étant supérieure à 25 t/an, sans que la quantité susceptible d'être présente dans l'installation soit supérieure à 1 000 l </p>
+<p>2. La quantité susceptible d'être présente dans l'installation étant supérieure ou égale à 200 l ou la quantité de solvants consommée étant supérieure à 25t/an, sans que la quantité susceptible d'être présente dans l'installation soit supérieure à 1 000 l </p>
 </td>
 <td valign="top" width="38">
 <p align="center">DC </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3641,12 +4079,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3663,6 +4104,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -3671,18 +4113,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>a) supérieure à 100 m<sup>3 </sup>
+<p>a) supérieure à 100 m³ <sup/>
 </p>
 </td>
 <td valign="top" width="38">
@@ -3694,11 +4139,12 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>b) inférieure ou égale à 100 m<sup>3 </sup>
+<p>b) inférieure ou égale à 100 m³ <sup/>
 </p>
 </td>
 <td valign="top" width="38">
@@ -3706,9 +4152,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3721,12 +4169,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3736,8 +4187,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -3745,11 +4198,12 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>a) supérieure à 100 t/j </p>
+<p>a) supérieure à 100 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -3758,7 +4212,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">5 </p>
 </td>
 <td valign="top" width="129">
-<p>a) supérieure à 500 t/j </p>
+<p>a) supérieure à 500 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">6 </p>
@@ -3768,12 +4222,13 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <p align="center">3 </p>
 </td>
 <td valign="top" width="129">
-<p>supérieure à 100 t/j, mais inférieure ou égale à 500 t/j </p>
+<p>supérieure à 100 t / j, mais inférieure ou égale à 500 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">3 </p>
@@ -3781,16 +4236,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>b) inférieure ou égale à 100 t/j </p>
+<p>b) inférieure ou égale à 100 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>b) supérieure à 20 t/j, mais inférieure ou égale à 100 t/j </p>
+<p>b) supérieure à 20 t / j, mais inférieure ou égale à 100 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">1 </p>
@@ -3811,18 +4267,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>a) supérieure à 500 t/j </p>
+<p>a) supérieure à 500 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">6 </p>
@@ -3832,12 +4291,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>b) supérieure à 100 t/j, mais inférieure ou égale à 500 t/j </p>
+<p>b) supérieure à 100 t / j, mais inférieure ou égale à 500 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">3 </p>
@@ -3847,12 +4308,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>c) inférieure ou égale à 100 t/j </p>
+<p>c) inférieure ou égale à 100 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">1 </p>
@@ -3876,18 +4339,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>a) supérieure à 500 t/j </p>
+<p>a) supérieure à 500 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">6 </p>
@@ -3897,12 +4363,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>b) supérieure à 100 t/j, mais inférieure ou égale à 500 t/j </p>
+<p>b) supérieure à 100 t / j, mais inférieure ou égale à 500 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">3 </p>
@@ -3912,12 +4380,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>c) supérieure à 20 t/j, mais inférieure ou égale à 100 t/j </p>
+<p>c) supérieure à 20 t / j, mais inférieure ou égale à 100 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">1 </p>
@@ -3932,12 +4402,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3947,18 +4420,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. supérieure à 20 t/j </p>
+<p>1. supérieure à 20 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -3969,20 +4445,23 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. supérieure à 1 t/j, mais inférieure ou égale à 20 t/j </p>
+<p>2. supérieure à 1 t / j, mais inférieure ou égale à 20 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3995,12 +4474,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4027,8 +4509,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -4036,11 +4520,12 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>a) supérieure à 200 kg/j </p>
+<p>a) supérieure à 200 kg / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -4049,7 +4534,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">2 </p>
 </td>
 <td valign="top" width="129">
-<p>a) supérieure à 5 t/j </p>
+<p>a) supérieure à 5 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">4 </p>
@@ -4059,12 +4544,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>supérieure ou égale à 1 t/j mais inférieure à 5 t/j </p>
+<p>supérieure ou égale à 1 t / j mais inférieure à 5 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">2 </p>
@@ -4074,12 +4561,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>supérieure ou égale à 200 kg/j mais inférieure à 1 t/j </p>
+<p>supérieure ou égale à 200 kg / j mais inférieure à 1 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">1 </p>
@@ -4087,16 +4576,18 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>b) supérieure à 50 kg/j mais inférieure ou égale à 200 kg/j </p>
+<p>b) supérieure à 50 kg / j mais inférieure ou égale à 200 kg / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4106,8 +4597,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -4115,11 +4608,12 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>a) supérieure ou égale à 400 kg/j </p>
+<p>a) supérieure ou égale à 400 kg / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -4128,7 +4622,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">2 </p>
 </td>
 <td valign="top" width="129">
-<p>a) supérieure à 5 t/j </p>
+<p>a) supérieure à 5 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">4 </p>
@@ -4138,12 +4632,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>supérieure ou égale à 1 t/j, mais inférieure à 5 t/j </p>
+<p>supérieure ou égale à 1 t / j, mais inférieure à 5 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">2 </p>
@@ -4153,12 +4649,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>supérieure ou égale à 400 kg/j, mais inférieure à 1 t/j </p>
+<p>supérieure ou égale à 400 kg / j, mais inférieure à 1 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">1 </p>
@@ -4166,16 +4664,18 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>b) supérieure à 100 kg/j mais inférieure ou égale à 400 kg/j </p>
+<p>b) supérieure à 100 kg / j mais inférieure ou égale à 400 kg / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4185,12 +4685,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4203,12 +4706,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4227,14 +4733,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -4248,12 +4757,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>b) supérieure ou égale à 150 000 t/an, mais inférieure à 500 000 t/an </p>
+<p>b) supérieure ou égale à 150 000 t/an, mais inférieure à 500 000 t / an </p>
 </td>
 <td valign="top" width="31">
 <p align="center">4 </p>
@@ -4263,12 +4774,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>c) supérieure ou égale à 50 000 t/an, mais inférieure à 150 000 t/an. </p>
+<p>c) supérieure ou égale à 50 000 t / an, mais inférieure à 150 000 t / an. </p>
 </td>
 <td valign="top" width="31">
 <p align="center">2 </p>
@@ -4281,11 +4794,13 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="38"/>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
 <p>2. La capacité nominale de production étant : </p>
 </td>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4293,12 +4808,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>a) supérieure ou égale à 500 000 t/an </p>
+<p>a) supérieure ou égale à 500 000 t / an </p>
 </td>
 <td valign="top" width="31">
 <p align="center">8 </p>
@@ -4308,12 +4825,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>b) supérieure ou égale à 150 000 t/an, mais inférieure à 500 000 t/an </p>
+<p>b) supérieure ou égale à 150 000 t / an, mais inférieure à 500 000 t / an </p>
 </td>
 <td valign="top" width="31">
 <p align="center">4 </p>
@@ -4323,12 +4842,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>c) supérieure ou égale à 50 000 t/an, mais inférieure à 150 000 t/an. </p>
+<p>c) supérieure ou égale à 50 000 t / an, mais inférieure à 150 000 t / an. </p>
 </td>
 <td valign="top" width="31">
 <p align="center">2 </p>
@@ -4336,7 +4857,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>3. Affouillements du sol (à l'exception des affouillements rendus nécessaires pour l'implantation des constructions bénéficiant d'un permis de construire et des affouillements réalisés sur l'emprise des voies de circulation), lorsque les matériaux prélevés sont utilisés à des fins autres que la réalisation de l'ouvrage sur l'emprise duquel ils ont été extraits et lorsque la superficie d'affouillement est supérieure à 1 000 m<sup>2 </sup>ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t </p>
+<p>3. Affouillements du sol (à l'exception des affouillements rendus nécessaires pour l'implantation des constructions bénéficiant d'un permis de construire et des affouillements réalisés sur l'emprise des voies de circulation), lorsque les matériaux prélevés sont utilisés à des fins autres que la réalisation de l'ouvrage sur l'emprise duquel ils ont été extraits et lorsque la superficie d'affouillement est supérieure à 1 000 m²<sup/>ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -4349,18 +4870,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>a) supérieure ou égale à 500 000 t/an </p>
+<p>a) supérieure ou égale à 500 000 t / an </p>
 </td>
 <td valign="top" width="31">
 <p align="center">8 </p>
@@ -4370,12 +4894,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>b) supérieure ou égale à 150 000 t/an mais inférieure à 500 000 t/an </p>
+<p>b) supérieure ou égale à 150 000 t / an mais inférieure à 500 000 t / an </p>
 </td>
 <td valign="top" width="31">
 <p align="center">4 </p>
@@ -4385,12 +4911,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>c) supérieure ou égale à 50 000 t/an mais inférieure à 150 000 t/an. </p>
+<p>c) supérieure ou égale à 50 000 t / an mais inférieure à 150 000 t / an. </p>
 </td>
 <td valign="top" width="31">
 <p align="center">2 </p>
@@ -4398,7 +4926,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>4. Exploitation, en vue de leur utilisation, des masses constituées par des haldes et terrils de mines et par les déchets d'exploitation de carrières (à l'exception des cas visés à l'article 1er du décret n° 79-1109 du 20 décembre 1979 pris pour l'application de l'article 130 du code minier), lorsque la superficie d'exploitation est supérieure à<br/>1 000 m<sup>2 </sup>ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t par an </p>
+<p>4. Exploitation, en vue de leur utilisation, des masses constituées par des haldes et terrils de mines et par les déchets d'exploitation de carrières (à l'exception des cas visés à l'article 1er du décret n°<sup/>79-1109 du 20 décembre 1979 pris pour l'application de l'article 130 du code minier), lorsque la superficie d'exploitation est supérieure à 1 000 m²<sup/>ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t par an </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -4411,18 +4939,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>a) supérieure ou égale à 500 000 t/an </p>
+<p>a) supérieure ou égale à 500 000 t / an </p>
 </td>
 <td valign="top" width="31">
 <p align="center">8 </p>
@@ -4432,12 +4963,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>b) supérieure ou égale à 150 000 t/an mais inférieure à 500 000 t/an </p>
+<p>b) supérieure ou égale à 150 000 t / an mais inférieure à 500 000 t / an </p>
 </td>
 <td valign="top" width="31">
 <p align="center">4 </p>
@@ -4447,12 +4980,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>c) supérieure ou égale à 50 000 t/an mais inférieure à 150 000 t/an. </p>
+<p>c) supérieure ou égale à 50 000 t / an mais inférieure à 150 000 t / an. </p>
 </td>
 <td valign="top" width="31">
 <p align="center">2 </p>
@@ -4460,12 +4995,13 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>5. Carrières de marne, de craie et de tout matériau destiné au marnage des sols ou d'arène granitique, à ciel ouvert, sans but commercial, distantes d'au moins 500 m d'une carrière soumise à autorisation ou à déclaration, lorsque la superficie d'extraction est inférieure à 500 m<sup>2 </sup>et lorsque la quantité de matériaux à extraire est inférieure à 250 t par an et que la quantité totale d'extraction n'excède pas 1 000 t, lesdites carrières étant exploitées soit par l'exploitant agricole dans ses propres champs, soit par la commune, le groupement de communes ou le syndicat intercommunal dans un intérêt public </p>
+<p>5. Carrières de marne, de craie et de tout matériau destiné au marnage des sols ou d'arène granitique, à ciel ouvert, sans but commercial, distantes d'au moins 500 m d'une carrière soumise à autorisation ou à déclaration, lorsque la superficie d'extraction est inférieure à 500 m²<sup/>et lorsque la quantité de matériaux à extraire est inférieure à 250 t par an et que la quantité totale d'extraction n'excède pas 1 000 t, lesdites carrières étant exploitées soit par l'exploitant agricole dans ses propres champs, soit par la commune, le groupement de communes ou le syndicat intercommunal dans un intérêt public </p>
 </td>
 <td valign="top" width="38">
 <p align="center">D</p>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
@@ -4479,12 +5015,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4494,12 +5033,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4509,24 +5051,27 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>lorsqu'elles sont distantes de plus de 500 mètres d'une exploitation de carrière soumise à autorisation ou à déclaration et lorsque la quantité de matériaux à extraire est inférieure à 100 m<sup>3 </sup>par an et que la quantité totale d'extraction n'excède pas 500 m<sup>3 </sup>
-</p>
+<p>lorsqu'elles sont distantes de plus de 500 mètres d'une exploitation de carrière soumise à autorisation ou à déclaration et lorsque la quantité de matériaux à extraire est inférieure à 100 m³ par an et que la quantité totale d'extraction n'excède pas 500 m³</p>
 </td>
 <td valign="top" width="38">
 <p align="center">DC</p>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
@@ -4539,16 +5084,19 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">2515 </p>
 </td>
 <td valign="top" width="340">
-<p>Broyage, concassage, criblage, ensachage, pulvérisation, nettoyage, tamisage, mélange de pierres, cailloux, minerais et autres produits minéraux naturels ou artificiels </p>
+<p>Broyage, concassage, criblage, ensachage, pulvérisation, nettoyage, tamisage, mélange de pierres, cailloux, minerais et autres produits minéraux naturels ou artificiels ou de déchets non dangereux inertes. </p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4558,14 +5106,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
 <p>1. La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant : </p>
 </td>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4590,8 +5141,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -4610,9 +5163,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4621,22 +5176,25 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">2516 </p>
 </td>
 <td valign="top" width="340">
-<p>Station de transit de produits minéraux pulvérulents non ensachés tels que ciments, plâtres, chaux, sables fillérisés, la capacité de stockage étant : </p>
+<p>Station de transit de produits minéraux pulvérulents non ensachés tels que ciments, plâtres, chaux, sables fillérisés ou de déchets non dangereux inertes pulvérulents, la capacité de stockage étant : </p>
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. supérieure à 25 000 m<sup>3 </sup>
+<p>1. supérieure à 25 000 m ³ <sup/>
 </p>
 </td>
 <td valign="top" width="38">
@@ -4648,11 +5206,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. supérieure à 5 000 m<sup>3</sup>, mais inférieure ou égale à 25 000 m<sup>3 </sup>
+<p>2. Supérieure à 5 000 m³ mais inférieure ou égale à 25 000 m³.<sup>
+<sup/>
+</sup>
 </p>
 </td>
 <td valign="top" width="38">
@@ -4660,9 +5221,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4671,22 +5234,25 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">2517 </p>
 </td>
 <td valign="top" width="340">
-<p>Station de transit de produits minéraux autres que ceux visés par d'autres rubriques, la capacité de stockage étant : </p>
+<p>Station de transit de produits minéraux ou de déchets non dangereux inertes autres que ceux visés par d'autres rubriques, la capacité de stockage étant : </p>
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. supérieure à 75 000 m<sup>3 </sup>
+<p>1. supérieure à 75 000 m ³ <sup/>
 </p>
 </td>
 <td valign="top" width="38">
@@ -4698,11 +5264,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. supérieure à 15 000 m<sup>3</sup>, mais inférieure ou égale à 75 000 m<sup>3 </sup>
+<p>2. Supérieure à 15 000 m³ mais inférieure ou égale à 75 000 m³.<sup>
+<sup/>
+</sup>
 </p>
 </td>
 <td valign="top" width="38">
@@ -4710,9 +5279,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4721,7 +5292,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">2520 </p>
 </td>
 <td valign="top" width="340">
-<p>Ciments, chaux, plâtres (fabrication de), la capacité de production étant supérieure à 5 t/j </p>
+<p>Ciments, chaux, plâtres (fabrication de), la capacité de production étant supérieure à 5 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -4734,18 +5305,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>a) supérieure à 100 t/j </p>
+<p>a) supérieure à 100 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">5 </p>
@@ -4755,12 +5329,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>b) inférieure ou égale à 100 t/j mais supérieure à 20 t/j </p>
+<p>b) inférieure ou égale à 100 t / j mais supérieure à 20 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">1 </p>
@@ -4775,12 +5351,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4797,6 +5376,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4805,18 +5385,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>a) supérieure à 1 500 t/j </p>
+<p>a) supérieure à 1 500 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -4827,20 +5410,23 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>b) supérieure à 100 t/j, mais inférieure ou égale à 1 500 t/j </p>
+<p>b) supérieure à 100 t / j, mais inférieure ou égale à 1 500 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4853,12 +5439,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4875,6 +5464,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4886,9 +5476,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4897,7 +5489,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">2523 </p>
 </td>
 <td valign="top" width="340">
-<p>Céramiques et réfractaires (fabrication de produits), la capacité de production étant supérieure à 20 t/j </p>
+<p>Céramiques et réfractaires (fabrication de produits), la capacité de production étant supérieure à 20 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -4906,7 +5498,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">2 </p>
 </td>
 <td valign="top" width="129">
-<p>La capacité de production étant supérieure à 20 t/j </p>
+<p>La capacité de production étant supérieure à 20 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">1 </p>
@@ -4921,12 +5513,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4939,9 +5534,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4954,18 +5551,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>La capacité de fusion étant supérieure à 20 t/j </p>
+<p>La capacité de fusion étant supérieure à 20 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -4974,7 +5574,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">1 </p>
 </td>
 <td valign="top" width="129">
-<p>La capacité de fusion étant supérieure à 20 t/j </p>
+<p>La capacité de fusion étant supérieure à 20 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">6 </p>
@@ -4989,12 +5589,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5004,12 +5607,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>1. La capacité de production des fours de fusion et de ramollissement étant supérieure à 5 t/j </p>
+<p>1. La capacité de production des fours de fusion et de ramollissement étant supérieure à 5 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">2 </p>
@@ -5017,7 +5622,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>a) supérieure à 5 t/j </p>
+<p>a) supérieure à 5 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -5028,20 +5633,23 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>b) supérieure à 500 kg/j, mais inférieure ou égale à 5 t/j </p>
+<p>b) supérieure à 500 kg / j, mais inférieure ou égale à 5 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5051,8 +5659,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -5064,7 +5674,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>a) supérieure à 500 kg/j </p>
+<p>a) supérieure à 500 kg / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -5075,20 +5685,23 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>b) supérieure à 50 kg/j, mais inférieure ou égale à 500 kg/j </p>
+<p>b) supérieure à 50 kg / j, mais inférieure ou égale à 500 kg / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5101,12 +5714,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5116,12 +5732,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5138,6 +5757,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5149,9 +5769,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5164,18 +5786,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>La capacité de traitement étant supérieure à 10 t/j </p>
+<p>La capacité de traitement étant supérieure à 10 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -5184,7 +5809,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">2 </p>
 </td>
 <td valign="top" width="129">
-<p>La capacité de traitement étant supérieure à 100 t/j </p>
+<p>La capacité de traitement étant supérieure à 100 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">6 </p>
@@ -5195,7 +5820,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">2541 </p>
 </td>
 <td valign="top" width="340">
-<p>1. Agglomération de houille, charbon de bois, minerai de fer, fabrication de graphite artificiel, la capacité de production étant supérieure à 10 t/j </p>
+<p>1. Agglomération de houille, charbon de bois, minerai de fer, fabrication de graphite artificiel, la capacité de production étant supérieure à 10 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -5204,7 +5829,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">1 </p>
 </td>
 <td valign="top" width="129">
-<p>1. La capacité de production étant supérieure à 100 t/j </p>
+<p>1. La capacité de production étant supérieure à 100 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">4 </p>
@@ -5221,7 +5846,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">1 </p>
 </td>
 <td valign="top" width="129">
-<p>2. La capacité de production étant supérieure à 100 t/j </p>
+<p>2. La capacité de production étant supérieure à 100 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">6 </p>
@@ -5265,18 +5890,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>a) supérieure à 500 t/j </p>
+<p>a) supérieure à 500 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">10 </p>
@@ -5286,12 +5914,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>b) supérieure à 100 t/j mais inférieure ou égale à 500 t/j </p>
+<p>b) supérieure à 100 t / j mais inférieure ou égale à 500 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">4 </p>
@@ -5315,18 +5945,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>a) supérieure à 500 t/j </p>
+<p>a) supérieure à 500 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">10 </p>
@@ -5336,12 +5969,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>b) supérieure à 100 t/j mais inférieure ou égale à 500 t/j </p>
+<p>b) supérieure à 100 t / j mais inférieure ou égale à 500 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">4 </p>
@@ -5374,12 +6009,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5389,18 +6027,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. supérieure à 100 kg/j </p>
+<p>1. supérieure à 100 kg / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -5413,18 +6054,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>a) supérieure à 2 t/j </p>
+<p>a) supérieure à 2 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">6 </p>
@@ -5434,12 +6078,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>b) supérieure à 500 kg/j, mais inférieure ou égale à 2 t/j </p>
+<p>b) supérieure à 500 kg / j, mais inférieure ou égale à 2 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">3 </p>
@@ -5449,12 +6095,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>c) supérieure à 100 kg/j, mais inférieure ou égale à 500 kg/j </p>
+<p>c) supérieure à 100 kg / j, mais inférieure ou égale à 500 kg / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">1 </p>
@@ -5462,16 +6110,18 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. supérieure à 10 kg/j, mais inférieure ou égale à 100 kg/j </p>
+<p>2. supérieure à 10 kg / j, mais inférieure ou égale à 100 kg / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">DC </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5484,12 +6134,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5499,18 +6152,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. supérieure à 10 t/j </p>
+<p>1. supérieure à 10 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -5523,18 +6179,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>a) supérieure à 200 t/j </p>
+<p>a) supérieure à 200 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">4 </p>
@@ -5544,12 +6203,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j </p>
+<p>b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">1 </p>
@@ -5557,16 +6218,18 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. supérieure à 1 t/j, mais inférieure ou égale à 10 t/j </p>
+<p>2. supérieure à 1 t / j, mais inférieure ou égale à 10 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">DC </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5579,12 +6242,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5594,18 +6260,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. supérieure à 2 t/j </p>
+<p>1. supérieure à 2 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -5614,7 +6283,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">2 </p>
 </td>
 <td valign="top" width="129">
-<p>1. La capacité de production étant supérieure à 50 t/j </p>
+<p>1. La capacité de production étant supérieure à 50 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">1 </p>
@@ -5622,16 +6291,18 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. supérieure à 100 kg/j, mais inférieure ou égale à 2 t/j </p>
+<p>2. supérieure à 100 kg / j, mais inférieure ou égale à 2 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">DC </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5644,12 +6315,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5659,12 +6333,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5694,9 +6371,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5712,9 +6391,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5727,12 +6408,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5742,12 +6426,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5764,6 +6451,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -5775,9 +6463,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5790,12 +6480,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5805,14 +6498,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
 <p>1. Le volume des cuves de traitement étant : </p>
 </td>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5837,8 +6533,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -5857,9 +6555,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5872,24 +6572,29 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>(1) Solvant organique : tout composé organique volatil (composé organique ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15 K ou ayant une volatilité correspondante dans des conditions d'utilisation particulières), utilisé seul ou en association avec d'autres agents, sans subir de modification chimique, pour dissoudre des matières premières, des produits ou des déchets, ou utilisé comme agent de nettoyage pour dissoudre des salissures, ou comme dissolvant, dispersant, correcteur de viscosité, correcteur de tension superficielle, plastifiant ou agent protecteur. </p>
+<p>(1) Solvant organique : tout composé organique volatil (composé organique ayant une pression de vapeur de 0, 01 kPa ou plus à une température de 293, 15 K ou ayant une volatilité correspondante dans des conditions d'utilisation particulières), utilisé seul ou en association avec d'autres agents, sans subir de modification chimique, pour dissoudre des matières premières, des produits ou des déchets, ou utilisé comme agent de nettoyage pour dissoudre des salissures, ou comme dissolvant, dispersant, correcteur de viscosité, correcteur de tension superficielle, plastifiant ou agent protecteur. </p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5899,12 +6604,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5917,18 +6625,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. Lorsqu'il y a mise en œuvre de cadmium </p>
+<p>1. Lorsqu'il y a mise en oeuvre de cadmium </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -5945,18 +6656,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant : </p>
+<p>2. Procédés utilisant des liquides (sans mise en oeuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant : </p>
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
 <p>2. Le volume des cuves de traitement étant : </p>
 </td>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5981,8 +6695,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -6001,9 +6717,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6016,9 +6734,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6031,9 +6751,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6073,6 +6795,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -6084,12 +6807,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6099,18 +6825,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>a) supérieure à 500 kg/j </p>
+<p>a) supérieure à 500 kg / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -6121,35 +6850,40 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>b) supérieure à 50 kg/j, mais inférieure ou égale à 500 kg/j </p>
+<p>b) supérieure à 50 kg / j, mais inférieure ou égale à 500 kg / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">DC </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. Application, la quantité de matière susceptible d'être traitée étant supérieure à 100 kg/j </p>
+<p>2. Application, la quantité de matière susceptible d'être traitée étant supérieure à 100 kg / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">DC </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6162,12 +6896,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6180,9 +6917,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6204,18 +6943,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>a) Supérieure ou égale à 200 t/j </p>
+<p>a) Supérieure ou égale à 200 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">6 </p>
@@ -6225,12 +6967,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>b) Supérieure à 50 t/j, mais inférieure à 200 t/j </p>
+<p>b) Supérieure à 50 t / j, mais inférieure à 200 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">2 </p>
@@ -6265,12 +7009,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6280,18 +7027,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>a) supérieure ou égale à 5 t/j </p>
+<p>a) supérieure ou égale à 5 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -6300,7 +7050,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">2 </p>
 </td>
 <td valign="top" width="129">
-<p>a) La capacité de production étant supérieure ou égale à 5 t/j </p>
+<p>a) La capacité de production étant supérieure ou égale à 5 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">2 </p>
@@ -6308,16 +7058,18 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>b) supérieure ou égale à 1 t/j, mais inférieure à 5 t/j </p>
+<p>b) supérieure ou égale à 1 t / j, mais inférieure à 5 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6330,12 +7082,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6345,18 +7100,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. Supérieure à 50 m<sup>3 </sup>
+<p>1. Supérieure à 50 m ³ <sup/>
 </p>
 </td>
 <td valign="top" width="38">
@@ -6368,21 +7126,25 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. Supérieure ou égale à 6 m<sup>3</sup>, mais inférieure ou égale à 50 m<sup>3 </sup>
-</p>
+<p>2. Supérieure ou égale à 6 m³, mais inférieure ou égale à 50 m³</p>
 </td>
 <td valign="top" width="38">
-<p align="center">D </p>
+<p align="center">
+<br/>
+</p>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6395,18 +7157,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. Fabrication industrielle de produits destinés à la mise sur le marché ou à la mise en œuvre dans un procédé d'une autre installation </p>
+<p>1. Fabrication industrielle de produits destinés à la mise sur le marché ou à la mise en oeuvre dans un procédé d'une autre installation </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -6415,7 +7180,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">1 </p>
 </td>
 <td valign="top" width="129">
-<p>1. La quantité de matière produite étant supérieure ou égale à 2 t/j </p>
+<p>1. La quantité de matière produite étant supérieure ou égale à 2 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">6 </p>
@@ -6427,12 +7192,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6442,18 +7210,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>a) supérieure ou égale à 2 t/j </p>
+<p>a) supérieure ou égale à 2 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -6462,7 +7233,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">1 </p>
 </td>
 <td valign="top" width="129">
-<p>2. La quantité de matière utilisée étant supérieure ou égale à 2 t/j </p>
+<p>2. La quantité de matière utilisée étant supérieure ou égale à 2 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">2 </p>
@@ -6470,16 +7241,18 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>b) supérieure ou égale à 200 kg/j, mais inférieure à 2 t/j </p>
+<p>b) supérieure ou égale à 200 kg / j, mais inférieure à 2 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6492,14 +7265,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
 <p>La capacité de production étant : </p>
 </td>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6512,7 +7288,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">1 </p>
 </td>
 <td valign="top" width="129">
-<p>a) supérieure à 20 t/j </p>
+<p>a) supérieure à 20 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">6 </p>
@@ -6522,12 +7298,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>b) supérieure à 5 t/j, mais inférieure ou égale à 20 t/j </p>
+<p>b) supérieure à 5 t / j, mais inférieure ou égale à 20 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">2 </p>
@@ -6542,12 +7320,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6557,18 +7338,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>a) Supérieure ou égale à 10 t/j </p>
+<p>a) Supérieure ou égale à 10 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -6577,7 +7361,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">1 </p>
 </td>
 <td valign="top" width="129">
-<p>1. La quantité de matière susceptible d'être traitée étant supérieure ou égale à 20 t/j </p>
+<p>1. La quantité de matière susceptible d'être traitée étant supérieure ou égale à 20 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">1 </p>
@@ -6585,16 +7369,18 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>b) Supérieure ou égale à 1 t/j, mais inférieure à 10 t/j </p>
+<p>b) Supérieure ou égale à 1 t / j, mais inférieure à 10 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6604,18 +7390,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>a) Supérieure ou égale à 20 t/j </p>
+<p>a) Supérieure ou égale à 20 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -6624,7 +7413,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">1 </p>
 </td>
 <td valign="top" width="129">
-<p>2. La quantité de matière susceptible d'être traitée étant supérieure ou égale à 20 t/j </p>
+<p>2. La quantité de matière susceptible d'être traitée étant supérieure ou égale à 20 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">1 </p>
@@ -6632,34 +7421,39 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>b) Supérieure ou égale à 2 t/j, mais inférieure à 20 t/j </p>
+<p>b) Supérieure ou égale à 2 t / j, mais inférieure à 20 t / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="4" valign="top" width="33">
+<td rowspan="5" valign="top" width="33">
 <p align="center">2662 </p>
 </td>
 <td valign="top" width="340">
-<p>Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhésifs synthétiques) (stockage de) </p>
+<p>Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhésifs synthétiques) (stockage de). </p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6669,18 +7463,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>a) Supérieur ou égal à 1 000 m<sup>3 </sup>
+<p>1. Supérieur ou égal à 40 000 m³ ; <sup/>
 </p>
 </td>
 <td valign="top" width="38">
@@ -6692,60 +7489,78 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>b) Supérieure ou égal à 100 m<sup>3</sup>, mais inférieur à 1 000 m<sup>3 </sup>
+<p>2. Supérieur ou égal à 1 000 m³ mais inférieur à 40 000 m³ ; <sup/>
 </p>
 </td>
 <td valign="top" width="38">
-<p align="center">D </p>
+<p align="center">E </p>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="7" valign="top" width="33">
+<td>
+<p align="left">3. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³.</p>
+</td>
+<td align="center">D </td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td rowspan="9" valign="top" width="33">
 <p align="center">2663 </p>
 </td>
 <td valign="top" width="340">
-<p>Pneumatiques et produits dont 50 % au moins de la masse totale unitaire est composée de polymères (matières plastiques, caoutchoucs, élastomères, résines et adhésifs synthétiques) (stockage de) </p>
+<p>Pneumatiques et produits dont 50 % au moins de la masse totale unitaire est composée de polymères (matières plastiques, caoutchoucs, élastomères, résines et adhésifs synthétiques) (stockage de) : </p>
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. À l'état alvéolaire ou expansé tels que mousse de latex, de polyuréthanne, de polystyrène, etc., le volume susceptible d'être stocké étant : </p>
+<p>1. A l'état alvéolaire ou expansé tels que mousse de latex, de polyuréthane, de polystyrène, etc., le volume susceptible d'être stocké étant : </p>
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>a) supérieur ou égal à 2 000 m<sup>3 </sup>
+<p>a) Supérieur ou égal à 45 000 m³ ; <sup/>
 </p>
 </td>
 <td valign="top" width="38">
@@ -6757,23 +7572,35 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>b) supérieur ou égal à 200 m<sup>3</sup>, mais inférieur à 2 000 m<sup>3 </sup>
+<p>b) Supérieur ou égal à 2 000 m³ mais inférieur à 45 000 m³ ; <sup/>
 </p>
 </td>
 <td valign="top" width="38">
-<p align="center">D </p>
+<p align="center">E </p>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
+</tr>
+<tr>
+<td>
+<p align="left">c) Supérieur ou égal à 200 m³ mais inférieur à 2 000 m³.</p>
+</td>
+<td align="center">D </td>
+<td/>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="340">
@@ -6781,18 +7608,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>a) supérieur ou égal à 10 000 m<sup>3 </sup>
+<p>a) Supérieur ou égal à 80 000 m³ ; <sup/>
 </p>
 </td>
 <td valign="top" width="38">
@@ -6804,23 +7634,35 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>b) supérieur ou égal à 1 000 m<sup>3</sup>, mais inférieur à 10 000 m<sup>3 </sup>
+<p>b) Supérieur ou égal à 10 000 m³ mais inférieur à 80 000 m³ ; <sup/>
 </p>
 </td>
 <td valign="top" width="38">
-<p align="center">D </p>
+<p align="center">E </p>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
+</tr>
+<tr>
+<td>
+<p align="left">c) Supérieur ou égal à 1 000 m³ mais inférieur à 10 000 m³.</p>
+</td>
+<td align="center">D </td>
+<td/>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="33">
@@ -6851,12 +7693,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6868,6 +7713,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -6896,16 +7742,19 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Les organismes génétiquement modifiés visés sont ceux définis par la loi n° 92-654 du 13 juillet 1992 et par le décret n° 93-744 du 27 mars 1993 fixant la liste des techniques de modification génétique et les critères de classement des organismes génétiquement modifiés en groupe I et II </p>
+<p>Les organismes génétiquement modifiés visés sont ceux définis par la loi n <sup>o </sup>92. 654 du 13 juillet 1992 et par le décret n° 93-744 du 27 mars 1993 fixant la liste des techniques de modification génétique et les critères de classement des organismes génétiquement modifiés en groupe I et II </p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6915,12 +7764,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6953,12 +7805,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6971,9 +7826,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -6990,6 +7847,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7001,12 +7859,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7016,12 +7877,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7031,12 +7895,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7046,12 +7913,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7061,18 +7931,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. la superficie de l'installation hors espaces verts étant supérieure à 3 500 m<sup>2 </sup>
+<p>1. la superficie de l'installation hors espaces verts étant supérieure à 3 500 m²<sup/>
 </p>
 </td>
 <td valign="top" width="38">
@@ -7084,21 +7957,29 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. la superficie de l'installation hors espaces verts étant supérieure à 100 m<sup>2</sup>, mais inférieure ou égale à 3 500 m<sup>2 </sup>
+<p>2. la superficie de l'installation hors espaces verts étant supérieure à 100 m², mais inférieure ou égale à 3 500 m²<sup>
+<sup/>
+</sup>
 </p>
 </td>
 <td valign="top" width="38">
-<p align="center">D </p>
+<p align="center">
+<sup>D</sup>
+<br/>
+</p>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7111,12 +7992,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7126,18 +8010,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. Supérieur ou égal à 1 000 m<sup>3 </sup>
+<p>1. Supérieur ou égal à 1 000 m ³ <sup/>
 </p>
 </td>
 <td valign="top" width="38">
@@ -7149,11 +8036,12 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. Supérieur ou égal à 200 m<sup>3</sup>, mais inférieur à 1 000 m<sup>3 </sup>
+<p>2. Supérieur ou égal à 200 m³, mais inférieur à 1 000 m³<sup/>
 </p>
 </td>
 <td valign="top" width="38">
@@ -7161,11 +8049,354 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
+</tr>
+<tr>
+<td>
+<p align="center">2712</p>
+</td>
+<td>
+<p align="left">Installation de stockage, dépollution, démontage, découpage ou broyage de véhicules hors d'usage ou de différents moyens de transport hors d'usage, la surface étant supérieure à 50 m².</p>
+</td>
+<td align="center">A</td>
+<td align="center">1</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="left" rowspan="4" valign="top">
+<p align="center">2713</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Installation de transit, regroupement ou tri de métaux ou de déchets de métaux non dangereux, d'alliage de métaux ou de déchets d'alliage de métaux non dangereux, à l'exclusion des activités et installations visées aux rubriques 2710, 2711 et 2712.</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td>
+<p align="left">La surface étant :</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">1. Supérieure ou égale à 1 000 m² ; </p>
+</td>
+<td align="center">
+<p align="center">A</p>
+</td>
+<td align="center">
+<p align="center">1</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">2. Supérieure ou égale à 100 m² et inférieure à 1 000 m².</p>
+</td>
+<td align="center">
+<p align="center">D</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="4" valign="top">
+<p align="center">2714</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Installation de transit, regroupement ou tri de déchets non dangereux de papiers/cartons, plastiques, caoutchouc, textiles, bois à l'exclusion des activités visées aux rubriques 2710 et 2711.</p>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Le volume susceptible d'être présent dans l'installation étant : </p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">1. Supérieur ou égal à 1 000 m³ ; </p>
+</td>
+<td align="center">
+<p align="center">A</p>
+</td>
+<td align="center">
+<p align="center">1</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">2. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³. </p>
+</td>
+<td align="center">
+<p align="center">D</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2715 </p>
+</td>
+<td>
+<p align="left">Installation de transit, regroupement ou tri de déchets non dangereux de verre à l'exclusion des installations visées à la rubrique 2710, le volume susceptible d'être présent dans l'installation étant supérieur ou égal à 250 m³. </p>
+</td>
+<td align="center">
+<p align="center">D</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="4" valign="top">
+<p align="center">2716 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Installation de transit, regroupement ou tri de déchets non dangereux non inertes à l'exclusion des installations visées aux rubriques 2710, 2711, 2712, 2713, 2714, 2715 et 2719. </p>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Le volume susceptible d'être présent dans l'installation étant : </p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">1. Supérieur ou égal à 1 000 m³ ; </p>
+</td>
+<td align="center">
+<p align="center">A</p>
+</td>
+<td align="center">
+<p align="center">1</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">2. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³. </p>
+</td>
+<td align="center">
+<p align="center">DC</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="3" valign="top">
+<p align="center">2717 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Installation de transit, regroupement ou tri de déchets contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement, à l'exclusion des installations visées aux rubriques 1313, 2710, 2711, 2712 et 2719. </p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td>
+<p align="left">1. La quantité des substances dangereuses ou préparations dangereuses susceptible d'être présente dans l'installation étant supérieure ou égale aux seuils AS des rubriques d'emploi ou de stockage de ces substances ou préparations. </p>
+</td>
+<td align="center">AS</td>
+<td align="center">2</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">2. La quantité des substances dangereuses ou préparations dangereuses susceptible d'être présente dans l'installation étant inférieure aux seuils AS et supérieures ou égales aux seuils A des rubriques d'emploi ou de stockage de ces substances ou préparations. </p>
+</td>
+<td align="center">A</td>
+<td align="center">2</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="left" rowspan="4" valign="top">
+<p align="center">2718<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Installation de transit, regroupement ou tri de déchets dangereux ou de déchets contenant les substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement, à l'exclusion des installations visées aux rubriques 1313, 2710, 2711, 2712, 2717 et 2719. </p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td>La quantité de déchets susceptible d'être présente dans l'installation étant : </td>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>1. Supérieure ou égale à 1 t ; </td>
+<td align="center">A</td>
+<td align="center">2</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>2. Inférieure à 1 t. </td>
+<td align="center">DC</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>2719 </td>
+<td>
+<p align="left">Installation temporaire de transit de déchets issus de pollutions accidentelles marines ou fluviales ou de déchets issus de catastrophes naturelles, le volume susceptible d'être présent dans l'installation étant supérieur à 100 m³. </p>
+</td>
+<td align="center">D</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="left" rowspan="3" valign="top">
+<p align="center">2720 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Installation de stockage de déchets résultant de la prospection, de l'extraction, du traitement et du stockage de ressources minérales ainsi que de l'exploitation de carrières (site choisi pour y accumuler ou déposer des déchets solides, liquides, en solution ou en suspension). </p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td>
+<p align="left">1. Installation de stockage de déchets dangereux ; </p>
+</td>
+<td align="center">A</td>
+<td align="center">2</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">2. Installation de stockage de déchets non dangereux non inertes. </p>
+</td>
+<td align="center">A</td>
+<td align="center">1</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td rowspan="3" valign="top" width="33">
@@ -7176,8 +8407,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -7185,11 +8418,12 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>La capacité de traitement étant supérieure à 500 kg/j </p>
+<p>La capacité de traitement étant supérieure à 500 kg / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -7198,7 +8432,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">5 </p>
 </td>
 <td valign="top" width="129">
-<p>a) supérieure à 50 t/j </p>
+<p>a) supérieure à 50 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">8 </p>
@@ -7208,12 +8442,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>b) supérieure à 10 t/j, mais inférieure ou égale à 50 t/j </p>
+<p>b) supérieure à 10 t / j, mais inférieure ou égale à 50 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">2 </p>
@@ -7228,12 +8464,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7249,6 +8488,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7267,6 +8507,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7306,6 +8547,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7327,11 +8569,57 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="center">2780 </p>
+<td align="left" rowspan="3" valign="top">
+<p align="center">2760 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Installations de traitement aérobie (compostage ou stabilisation<br/>biologique) de déchets non dangereux ou matière végétale brute,<br/>ayant le cas échéant subi une étape de méthanisation </p>
+<p align="left">Installation de stockage de déchets autre que celles mentionnées à la rubrique 2720 et celles relevant des dispositions de l'article L. 541-30-1 du code de l'environnement. </p>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">1. Installation de stockage de déchets dangereux ; </p>
+</td>
+<td align="center">
+<p align="center">A</p>
+</td>
+<td align="center">
+<p align="center">2</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">2. Installation de stockage de déchets non dangereux. </p>
+</td>
+<td align="center">A</td>
+<td align="center">1</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="left" rowspan="5" valign="top">
+<p align="center">2770 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Installation de traitement thermique de déchets dangereux ou de déchets contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement. </p>
 </td>
 <td align="left" valign="top"/>
 <td align="left" valign="top"/>
@@ -7339,9 +8627,55 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td align="left" valign="top"/>
 </tr>
 <tr>
-<td/>
 <td>
-<p align="left">1. Compostage de matière végétale brute, effluents d'élevage,<br/>matières stercoraires : </p>
+<p align="left">1. Les déchets destinés à être traités contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement. </p>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">a) La quantité de substances dangereuses ou préparations dangereuses susceptible d'être présente dans l'installation étant supérieure ou égale aux seuils AS des rubriques d'emploi ou de stockage de ces substances ou préparations ; </p>
+</td>
+<td align="center">AS</td>
+<td align="center">3</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">b) La quantité de substances dangereuses ou préparations dangereuses susceptible d'être présente dans l'installation étant inférieure aux seuils AS des rubriques d'emploi ou de stockage de ces substances ou préparations </p>
+</td>
+<td align="center">A</td>
+<td align="center">2</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">2. Les déchets destinés à être traités ne contenant pas les substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement. </p>
+</td>
+<td align="center">A</td>
+<td align="center">2</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center">2771 </p>
+</td>
+<td>Installation de traitement thermique de déchets non dangereux. </td>
+<td align="center">A</td>
+<td align="center">2</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>2780 </td>
+<td>
+<p align="left">Installations de traitement aérobie (compostage ou stabilisation biologique) de déchets non dangereux ou matière végétale brute, ayant le cas échéant subi une étape de méthanisation </p>
 </td>
 <td/>
 <td/>
@@ -7351,7 +8685,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <tr>
 <td/>
 <td>
-<p align="left">a) La quantité de matières traitées étant supérieure ou égale<br/>à 30 t/j </p>
+<p align="left">1. Compostage de matière végétale brute, effluents d'élevage, matières stercoraires : </p>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="left">a) La quantité de matières traitées étant supérieure ou égale à 30 t / j </p>
 </td>
 <td>
 <p align="center">A </p>
@@ -7364,9 +8708,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td/>
-<td>
-<p align="left">b) La quantité de matières traitées étant supérieure ou égale à<br/>3 t/j et inférieure à 30 t/j </p>
-</td>
+<td>b) La quantité de matières traitées étant supérieure ou égale à 3 t / j et inférieure à 30 t / j </td>
 <td>
 <p align="center">D </p>
 </td>
@@ -7377,7 +8719,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <tr>
 <td/>
 <td>
-<p align="left">2. Compostage de la fraction fermentescible des ordures<br/>ménagères (FFOM), de denrées végétales déclassées, de rebuts<br/>de fabrication de denrées alimentaires végétales, de boues de station d'épuration des eaux urbaines, de papeteries, d'industries<br/>agroalimentaires, seuls ou en mélange avec des déchets végétaux ou des effluents d'élevages ou des matières stercoraires : </p>
+<p align="left">2. Compostage de la fraction fermentescible des ordures ménagères (FFOM), de denrées végétales déclassées, de rebuts de fabrication de denrées alimentaires végétales, de boues de station d'épuration des eaux urbaines, de papeteries, d'industries agroalimentaires, seuls ou en mélange avec des déchets végétaux ou des effluents d'élevages ou des matières stercoraires : </p>
 </td>
 <td/>
 <td/>
@@ -7386,9 +8728,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td/>
-<td>
-<p align="left">a) La quantité de matières traitées étant supérieure ou égale<br/>à 20 t/j </p>
-</td>
+<td>a) La quantité de matières traitées étant supérieure ou égale à 20 t / j </td>
 <td>
 <p align="center">A </p>
 </td>
@@ -7400,9 +8740,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td/>
-<td>
-<p align="left">b) La quantité de matières traitées étant supérieure ou égale<br/>à 2 t/j et inférieure à 20 t/j </p>
-</td>
+<td>b) La quantité de matières traitées étant supérieure ou égale à 2 t / j et inférieure à 20 t / j </td>
 <td>
 <p align="center">D </p>
 </td>
@@ -7423,21 +8761,19 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td/>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="center">2781 </p>
+<td>2781 </td>
+<td>
+<p align="left">Installations de méthanisation de déchets non dangereux ou matière végétale brute à l'exclusion des installations de stations d'épuration urbaines </p>
 </td>
-<td align="left" valign="top">
-<p align="left">Installations de méthanisation de déchets non dangereux ou<br/>matière végétale brute à l'exclusion des installations de stations<br/>d'épuration urbaines </p>
-</td>
-<td align="left" valign="top"/>
-<td align="left" valign="top"/>
-<td align="left" valign="top"/>
-<td align="left" valign="top"/>
+<td/>
+<td/>
+<td/>
+<td/>
 </tr>
 <tr>
 <td/>
 <td>
-<p align="left">1. Méthanisation de matière végétale brute, effluents d'élevage, matières stercoraires, déchets végétaux d'industries<br/>agroalimentaires : </p>
+<p align="left">1. Méthanisation de matière végétale brute, effluents d'élevage, matières stercoraires, déchets végétaux d'industries agroalimentaires : </p>
 </td>
 <td/>
 <td/>
@@ -7445,23 +8781,23 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td/>
 </tr>
 <tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<p align="left">a) La quantité de matières traitées étant supérieure ou égale<br/>à 30 t/j </p>
+<td/>
+<td>
+<p align="left">a) La quantité de matières traitées étant supérieure ou égale à 30 t / j <br/>
+</p>
 </td>
-<td align="left" valign="top">
+<td>
 <p align="center">A </p>
 </td>
-<td align="left" valign="top">
+<td>
 <p align="center">2 </p>
 </td>
-<td align="left" valign="top"/>
-<td align="left" valign="top"/>
+<td/>
+<td/>
 </tr>
 <tr>
 <td/>
-<td>
-<p align="left">b) La quantité de matières traitées étant inférieure à 30 t/j </p>
+<td>b) La quantité de matières traitées étant inférieure à 30 t / j <br/>
 </td>
 <td>
 <p align="center">DC </p>
@@ -7483,40 +8819,144 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td/>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="center">2782 </p>
+<td>2782 </td>
+<td>
+<p align="left">Installations mettant en œuvre d'autres traitements biologiques de déchets non dangereux que ceux mentionnés aux rubriques 2780 et 2781 à l'exclusion des installations réglementées au titre d'une autre législation </p>
 </td>
-<td align="left" valign="top">
-<p align="left">Installations mettant en œuvre d'autres traitements biologiques de<br/>déchets non dangereux que ceux mentionnés aux rubriques<br/>2780 et 2781 à l'exclusion des installations réglementées au<br/>titre d'une autre législation </p>
-</td>
-<td align="left" valign="top">
+<td>
 <p align="center">A </p>
 </td>
-<td align="left" valign="top">
+<td>
 <p align="center">3 </p>
 </td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="left" rowspan="5" valign="top">
+<p align="center">2790 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Installation de traitement de déchets dangereux ou de déchets contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement, à l'exclusion des installations visées aux rubriques 1313, 2720, 2760 et 2770. </p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top"/>
 <td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="33">
-<p align="center">2799 </p>
+<td>
+<p align="left">1. Les déchets destinés à être traités contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement. </p>
 </td>
-<td valign="top" width="340">
-<p>Déchets provenant d'installations nucléaires de base (installations d'élimination, à l'exception des installations mentionnées aux rubriques 322, 1715 et 1735 et des installations nucléaires de base) </p>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">a) La quantité de substances dangereuses ou préparations dangereuses susceptible d'être présente dans l'installation étant supérieure ou égale aux seuils AS des rubriques d'emploi ou de stockage de ces substances ou préparations ; </p>
 </td>
-<td valign="top" width="38">
-<p align="center">A </p>
+<td align="center">AS</td>
+<td align="center">3</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">b) La quantité de substances dangereuses ou préparations dangereuses susceptible d'être présente dans l'installation étant inférieure aux seuils AS des rubriques d'emploi ou de stockage de ces substances ou préparations </p>
 </td>
-<td valign="top" width="35">
-<p align="center">2 </p>
+<td align="center">A</td>
+<td align="center">2</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">2. Les déchets destinés à être traités ne contenant pas les substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement. </p>
 </td>
-<td valign="top" width="129">
-<p>Quelle que soit la capacité </p>
+<td align="center">A</td>
+<td align="center">2</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="left" rowspan="4" valign="top">
+<p align="center">2791 </p>
 </td>
-<td valign="top" width="31">
-<p align="center">5 </p>
+<td align="left" valign="top">
+<p align="left">Installation de traitement de déchets non dangereux à l'exclusion des installations visées aux rubriques 2720, 2760, 2771, 2780, 2781 et 2782. </p>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td>
+<p align="left">La quantité de déchets traités étant : </p>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">1. Supérieure ou égale à 10 t/j ; </p>
+</td>
+<td align="center">A</td>
+<td align="center">2</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">2. Inférieure à 10 t/j. </p>
+</td>
+<td align="center">DC</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="left" rowspan="4" valign="top">
+<p align="center">2795 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Installation de lavage de fûts, conteneurs et citernes de transport de matières alimentaires, de matières dangereuses au sens de la rubrique 1000 de la nomenclature des installations classées ou de déchets dangereux </p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td>
+<p align="left">La quantité d'eau mise en œuvre étant : </p>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">1. Supérieure ou égale à 20 m³/j ; </p>
+</td>
+<td align="center">A</td>
+<td align="center">1</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">2. Inférieure à 20 m³/j. </p>
+</td>
+<td align="center">DC</td>
+<td/>
+<td/>
+<td/>
 </tr>
 <tr>
 <td rowspan="11" valign="top" width="33">
@@ -7527,12 +8967,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7542,12 +8985,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7557,14 +9003,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
 <p>A. La puissance thermique maximale de l'installation (quantité maximale de combustible exprimée en PCI susceptible d'être consommée par seconde), étant : </p>
 </td>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7589,8 +9038,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -7604,8 +9055,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -7624,15 +9077,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et si la puissance thermique maximale est supérieure à 0,1 MW </p>
+<p>B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et si la puissance thermique maximale est supérieure à 0, 1 MW </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -7645,14 +9100,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -7666,8 +9124,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -7681,8 +9141,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -7701,12 +9163,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7716,27 +9181,33 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Si la quantité totale de fluides présente dans l'installation (mesurée à 25 <sup>o</sup>C) est : </p>
+<p>Si la quantité totale de fluides présente dans l'installation (mesurée à 25 <sup>o </sup>C) est : </p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7753,6 +9224,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7764,9 +9236,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7776,27 +9250,32 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Si la quantité totale de fluides présente dans l'installation (mesurée à 25 <sup>o</sup>C) est supérieure à 250 l.</p>
+<p>Si la quantité totale de fluides présente dans l'installation (mesurée à 25 <sup>o </sup>C) est supérieure à 250 l.</p>
 </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7805,16 +9284,19 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">2920 </p>
 </td>
 <td valign="top" width="340">
-<p>Réfrigération ou compression (installations de) fonctionnant à des pressions effectives supérieures à 10<sup>5 </sup>Pa. </p>
+<p>Réfrigération ou compression (installations de) fonctionnant à des pressions effectives supérieures à 10 <sup>5 </sup>Pa. </p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7824,12 +9306,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7846,6 +9331,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7857,9 +9343,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7869,12 +9357,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7891,6 +9382,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -7902,9 +9394,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7917,27 +9411,33 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>1. Lorsque l'installation n'est pas du type "circuit primaire fermé" : </p>
+<p>1. Lorsque l'installation n'est pas du type circuit primaire fermé : </p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -7960,46 +9460,53 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p align="left">b) la puissance thermique évacuée maximale étant inférieure à 2 000 kW </p>
+<p>b) la puissance thermique évacuée maximale étant inférieure à 2 000 kW </p>
 </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>2. Lorsque l'installation est du type "circuit primaire fermé" </p>
+<p>2. Lorsque l'installation est du type circuit primaire fermé </p>
 </td>
 <td valign="top" width="38">
 <p align="center">D </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Nota : Une installation est de type "circuit primaire fermé" lorsque l'eau dispersée dans l'air refroidit un fluide au travers d'un ou plusieurs échangeurs thermiques étanches situés à l'intérieur de la tour de refroidissement ou accolés à celle-ci ; tout contact direct est rendu impossible entre l'eau dispersée dans la tour et le fluide traversant le ou les échangeurs thermiques. </p>
+<p>Nota : Une installation est de type circuit primaire fermé lorsque l'eau dispersée dans l'air refroidit un fluide au travers d'un ou plusieurs échangeurs thermiques étanches situés à l'intérieur de la tour de refroidissement ou accolés à celle-ci ; tout contact direct est rendu impossible entre l'eau dispersée dans la tour et le fluide traversant le ou les échangeurs thermiques. </p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8012,12 +9519,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8030,9 +9540,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8045,12 +9557,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8060,18 +9575,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>a) La surface de l'atelier étant supérieure à 5 000 m<sup>2 </sup>
+<p>a) La surface de l'atelier étant supérieure à 5 000 m²<sup/>
 </p>
 </td>
 <td valign="top" width="38">
@@ -8089,7 +9607,9 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>b) La surface de l'atelier étant supérieure à 2 000 m<sup>2</sup>, mais inférieure ou égale à 5 000 m<sup>2 </sup>
+<p>b) La surface de l'atelier étant supérieure à 2 000 m², mais inférieure ou égale à 5 000 m²<sup>
+<sup/>
+</sup>
 </p>
 </td>
 <td valign="top" width="38">
@@ -8097,9 +9617,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8109,8 +9631,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -8118,11 +9642,12 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>a) Si la quantité maximale de produits susceptibles d'être utilisée est supérieure à 100 kg/j </p>
+<p>a) Si la quantité maximale de produits susceptibles d'être utilisée est supérieure à 100 kg / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -8139,16 +9664,17 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>b) Si la quantité maximale de produits susceptible d'être utilisée est supérieure à 10 kg/j ou si la quantité annuelle de solvants contenus dans les produits susceptible d'être utilisée est supérieure à 0,5 t, sans que la quantité maximale de produits susceptible d'être utilisée dépasse 100 kg/j </p>
+<p>b) Si la quantité maximale de produits susceptible d'être utilisée est supérieure à 10 kg / j ou si la quantité annuelle de solvants contenus dans les produits susceptible d'être utilisée est supérieure à 0, 5 t, sans que la quantité maximale de produits susceptible d'être utilisée dépasse 100 kg / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">DC </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>supérieure ou égale à 12,5 t, mais inférieure à 50 t </p>
+<p>supérieure ou égale à 12, 5 t, mais inférieure à 50 t </p>
 </td>
 <td valign="top" width="31">
 <p align="center">1 </p>
@@ -8163,18 +9689,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Lorsque la puissance totale définie comme la puissance mécanique sur l'arbre au régime de rotation maximal, des moteurs ou turbines simultanément en essais est supérieure à 150 kW ou lorsque la poussée dépasse 1,5 kN </p>
+<p>Lorsque la puissance totale définie comme la puissance mécanique sur l'arbre au régime de rotation maximal, des moteurs ou turbines simultanément en essais est supérieure à 150 kW ou lorsque la poussée dépasse 1, 5 kN </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -8185,6 +9714,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -8193,12 +9723,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8215,12 +9748,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8230,12 +9766,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8265,9 +9804,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8277,8 +9818,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129">
@@ -8286,11 +9829,12 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>a) supérieure à 100 kg/j </p>
+<p>a) supérieure à 100 kg / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -8299,7 +9843,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">1 </p>
 </td>
 <td valign="top" width="129">
-<p>a) supérieure ou égale à 5 t/j </p>
+<p>a) supérieure ou égale à 5 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">4 </p>
@@ -8309,12 +9853,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>supérieure ou égale à 1 t /j et inférieure à 5 t/j </p>
+<p>supérieure ou égale à 1 t / j et inférieure à 5 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">2 </p>
@@ -8324,12 +9870,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="340"/>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129">
-<p>supérieure ou égale à 250 kg/j et inférieure à 1 t/j </p>
+<p>supérieure ou égale à 250 kg / j et inférieure à 1 t / j </p>
 </td>
 <td valign="top" width="31">
 <p align="center">1 </p>
@@ -8337,37 +9885,42 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>b) supérieure à 10 kg /j, mais inférieure ou égale à 100 kg/j</p>
+<p>b) supérieure à 10 kg / j, mais inférieure ou égale à 100 kg / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">DC </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>3. Lorsque les produits mis en oeuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits susceptible d'être mise en œuvre est : </p>
+<p>3. Lorsque les produits mis en oeuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits susceptible d'être mise en oeuvre est : </p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>a) supérieure à 200 kg/j </p>
+<p>a) supérieure à 200 kg / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">A </p>
@@ -8384,31 +9937,36 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>b) supérieure à 20 kg/j, mais inférieure ou égale à 200 kg/j </p>
+<p>b) supérieure à 20 kg / j, mais inférieure ou égale à 200 kg / j </p>
 </td>
 <td valign="top" width="38">
 <p align="center">DC </p>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Nota.-Le régime de classement est déterminé par rapport à la quantité de produits mise en œuvre dans l'installation en tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point éclair inférieur à 55 <sup>o </sup>C) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55 <sup>o</sup>C) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont affectées d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le classement sera égale à : Q = A + B / 2. </p>
+<p>Nota.-Le régime de classement est déterminé par rapport à la quantité de produits mise en oeuvre dans l'installation en tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point éclair inférieur à 55 <sup>o</sup>C) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55 <sup>o</sup>C) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont affectées d'un coefficient 1 / 2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le classement sera égale à : Q = A + B / 2. </p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8421,12 +9979,15 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td valign="top" width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8436,18 +9997,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>a) supérieure à 20 000 m<sup>2 </sup>
+<p>a) supérieure à 20 000 m²<sup/>
 </p>
 </td>
 <td valign="top" width="38">
@@ -8459,11 +10023,14 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>b) supérieure à 2 000 m<sup>2</sup>, mais inférieure ou égale à 20 000 m<sup>2 </sup>
+<p>b) supérieure à 2 000 m², mais inférieure ou égale à 20 000 m²<sup>
+<sup/>
+</sup>
 </p>
 </td>
 <td valign="top" width="38">
@@ -8471,9 +10038,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="35">
 <br/>
+<br/>
 </td>
 <td valign="top" width="129"/>
 <td width="31">
+<br/>
 <br/>
 </td>
 </tr>
@@ -8483,18 +10052,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
 <td width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>a) supérieure à 50 000 m <sup>2 </sup>
+<p>a) supérieure à 50 000 m²<sup/>
 </p>
 </td>
 <td valign="top" width="38">
@@ -8506,17 +10078,21 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="129"/>
 <td width="31">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>b) supérieure à 5 000 m<sup>2</sup>, mais inférieure ou égale à 50 000 m<sup>2 </sup>
+<p>b) supérieure à 5 000 m², mais inférieure ou égale à 50 000 m²<sup>
+<sup/>
+</sup>
 </p>
 </td>
 <td valign="top" width="38">
-<p align="center">DC</p>
+<p align="center">DC </p>
 </td>
 <td valign="top" width="35">
+<br/>
 <br/>
 </td>
 <td valign="top" width="129"/>
@@ -8524,3 +10100,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 </tbody>
 </table>
+
+(1) A : autorisation, E : enregistrement, D : déclaration, S : servitude d'utilité publique, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
+
+(2) Rayon d'affichage en kilomètres.
