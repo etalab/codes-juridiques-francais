@@ -1,5 +1,6 @@
-# Sous-section 2 : Mise à l'arrêt définitif et remise en état
+# Sous-section 2 : Contrôle périodique de certaines installations
 
+- [Paragraphe 2 : Agrément des organismes de contrôle](paragraphe-2)
 - [Article R512-74](article-r512-74.md)
 - [Article R512-75](article-r512-75.md)
 - [Article R512-76](article-r512-76.md)
