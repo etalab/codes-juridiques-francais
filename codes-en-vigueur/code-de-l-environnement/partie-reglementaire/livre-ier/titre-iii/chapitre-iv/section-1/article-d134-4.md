@@ -1,3 +1,3 @@
 # Article D134-4
 
-La durée du mandat des membres du Conseil national du développement durable est de trois ans renouvelable. Les fonctions de membre du Conseil national du développement durable sont exercées à titre gratuit.
+Les ministres compétents à l'égard des sujets inscrits à l'ordre du jour sont invités par le ministre chargé du développement durable à participer aux réunions du Comité national du développement durable et du Grenelle de l'environnement.

@@ -1,4 +1,4 @@
-# Section 1 : Conseil national du développement durable
+# Section 1 : Comité national du développement durable  et du Grenelle de l'environnement
 
 - [Article D134-1](article-d134-1.md)
 - [Article D134-2](article-d134-2.md)

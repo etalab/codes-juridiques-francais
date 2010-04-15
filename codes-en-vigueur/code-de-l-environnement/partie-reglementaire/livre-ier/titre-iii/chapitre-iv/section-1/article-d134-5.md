@@ -1,3 +1,3 @@
 # Article D134-5
 
-Le président du Conseil national du développement durable est nommé par arrêté du Premier ministre pour une durée de trois ans renouvelable.
+Le secrétariat du Comité national du développement durable et du Grenelle de l'environnement est assuré par le Commissariat général au développement durable.
