@@ -5,3 +5,4 @@
 - [Sous-section 3 : Autorisation et prescriptions](sous-section-3)
 - [Sous-section 4 : Mesures de publicité](sous-section-4)
 - [Sous-section 5 : Mise à l'arrêt définitif et remise en état](sous-section-5)
+- [Sous-section 6 : Dispositions propres à certaines catégories d'installations](sous-section-6)
