@@ -1,7 +1,5 @@
-# Section 5 : Voies de recours et prescription
+# Section 6 :  Dispositions pénales
 
-- [Article L232-24](article-l232-24.md)
-- [Article L232-24-1](article-l232-24-1.md)
 - [Article L232-25](article-l232-25.md)
 - [Article L232-26](article-l232-26.md)
 - [Article L232-27](article-l232-27.md)
