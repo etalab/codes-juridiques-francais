@@ -15,7 +15,7 @@ a) Au premier alinéa, les mots : " et du livret de développement durable régi
 
 b) Au deuxième alinéa, les mots : " et du livret de développement durable " sont supprimés et les mots : " ces livrets " sont remplacés par les mots : " ce livret " ;
 
-c) Aux quatrième et cinquième alinéas, les mots : " ou le livret de développement durable " sont supprimés ;
+c) Aux quatrième, cinquième et sixième alinéas, les mots : " ou le livret de développement durable " sont supprimés ;
 
 d) Au cinquième alinéa, les mots : " ces deux livrets " sont remplacés par les mots : " ce livret " ;
 
