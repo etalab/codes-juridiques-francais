@@ -6,6 +6,8 @@ Il comprend, outre son président :
 
 - des représentants du ministre de l'intérieur, du ministre de la défense, du ministre chargé des transports et du ministre chargé du budget ;
 
+- des représentants des collectivités territoriales propriétaires des aérodromes ;
+
 - des représentants des entreprises ou organismes assurant ou concourant à la mise en oeuvre des mesures de sûreté sur les aérodromes ;
 
 - des représentants des personnels navigants et des représentants des personnels employés dans les zones réservées des aérodromes.
