@@ -10,4 +10,6 @@ Sont habilités à demander l'inscription au répertoire national des personnes 
 
 4° Les services départementaux de la direction générale des impôts en ce qui concerne toute personne, institution ou service soumis à une des catégories d'obligations fiscales définies par l'article A. 123-84 ;
 
-5° Les centres de formalités des entreprises.
+5° Le service de la statistique et de la prospective du ministère chargé de l'agriculture en ce qui concerne toute personne exploitant une unité de production agricole ;
+
+6° Les centres de formalité des entreprises.
