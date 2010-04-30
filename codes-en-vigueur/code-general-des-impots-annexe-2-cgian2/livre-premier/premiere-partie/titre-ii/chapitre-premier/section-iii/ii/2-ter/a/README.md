@@ -1,0 +1,18 @@
+# A : Assujettis établis dans l'Union européenne
+
+- [Article 242-0 V](article-242-0-v.md)
+- [Article 242-0 X](article-242-0-x.md)
+- [Article 242-0 M](article-242-0-m.md)
+- [Article 242-0 N](article-242-0-n.md)
+- [Article 242-0 O](article-242-0-o.md)
+- [Article 242-0 P](article-242-0-p.md)
+- [Article 242-0 Q](article-242-0-q.md)
+- [Article 242-0 R](article-242-0-r.md)
+- [Article 242-0 S](article-242-0-s.md)
+- [Article 242-0 T](article-242-0-t.md)
+- [Article 242-0 U](article-242-0-u.md)
+- [Article 242-0 W](article-242-0-w.md)
+- [Article 242-0 Y](article-242-0-y.md)
+- [Article 242-0 Z](article-242-0-z.md)
+- [Article 242-0 Z bis](article-242-0-z-bis.md)
+- [Article 242-0 Z ter](article-242-0-z-ter.md)
