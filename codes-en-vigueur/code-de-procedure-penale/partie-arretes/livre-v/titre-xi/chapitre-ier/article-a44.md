@@ -1264,7 +1264,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Antenne de Briey.</p>
+<p align="left">Antenne de Briey. </p>
 </td>
 <td align="left" valign="top">
 <p>Circonscription judiciaire de Briey. </p>
@@ -1294,7 +1294,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Service pénitentiaire d'insertion et de probation de la Meuse. </p>
 </td>
 <td>
-<p align="left">(Arr. 30 mars 2005, art. 2) <br/>Bar-le-Duc </p>
+<p>(Arr. 30 mars 2005, art. 2) <br/>Bar-le-Duc</p>
 </td>
 <td valign="top">
 <p>Antenne de Verdun. </p>
@@ -1304,12 +1304,14 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td align="left" valign="top">
 <br/>
 </td>
-<td>Antenne de Bar-le-Duc. </td>
-<td valign="top">
-<p>Circonscription judiciaire de Bar-le-Duc. </p>
+<td align="left" valign="top">
+<p align="left">Antenne de Bar-le-Duc. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Circonscription judiciaire de Bar-le-Duc. </p>
 <p>Maison d'arrêt de Bar-le-Duc. </p>
 </td>
 </tr>
@@ -1317,7 +1319,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <br/>
 </td>
-<td>Antenne de Montmédy. </td>
+<td>Antenne de Montmédy.</td>
 <td valign="top">
 <p>(Arr. 17 sept. 2003, art. 5) Centre de détention de Montmédy. </p>
 </td>
@@ -1326,7 +1328,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <br/>
 </td>
-<td>Antenne de Saint-Mihiel. </td>
+<td>Antenne de Saint-Mihiel.</td>
 <td valign="top">
 <p>(Arr. 17 sept. 2003, art. 5) Centre de détention de Saint-Mihiel. </p>
 </td>
@@ -2393,7 +2395,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td rowspan="3" valign="top">
-<p>Service pénitentiaire d'insertion et de probation de la Réunion. </p>
+<p>Service pénitentiaire d'insertion et de probation de La Réunion. </p>
 </td>
 <td rowspan="3" valign="top">
 <p>Saint-Denis. </p>
@@ -2421,7 +2423,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Antenne du Port. </p>
 </td>
 <td valign="top">
-<p>Centre pénitentiaire du Port. </p>
+<p>Centre détention du Port. </p>
 </td>
 </tr>
 <tr>
