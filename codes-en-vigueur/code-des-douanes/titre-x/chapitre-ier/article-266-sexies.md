@@ -24,7 +24,7 @@ b) Toute personne qui, pour les besoins de son activité économique, utilise po
 
 8. a. Tout exploitant d'un établissement industriel ou commercial ou d'un établissement public à caractère industriel et commercial dont certaines installations sont soumises à autorisation au titre du livre V (titre Ier) du code de l'environnement ;
 
-b. Tout exploitant d'un établissement mentionné au a dont les activités, figurant sur une liste établie par décret en Conseil d'Etat après avis du Conseil supérieur des installations classées, font courir, par leur nature ou leur volume, des risques particuliers à l'environnement ;
+b. Tout exploitant d'un établissement mentionné au a dont les activités, figurant sur une liste établie par décret en Conseil d'Etat après avis du    Conseil supérieur de la prévention des risques technologiques, font courir, par leur nature ou leur volume, des risques particuliers à l'environnement ;
 
 9. Toute personne mentionnée au I de l'article L. 541-10-1 du code de l'environnement qui, au titre d'une année civile, a émis ou fait émettre des imprimés papiers dans les conditions mentionnées audit article et qui n'a pas acquitté la contribution financière ou en nature qui y est prévue.
 
