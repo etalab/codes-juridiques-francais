@@ -6,7 +6,7 @@ Les comités régionaux des vins, eaux-de-vie et autres boissons alcoolisées so
 
 2° Sont désignés par le ministre chargé de l'agriculture :
 
--un directeur régional de l'agriculture et de la forêt ;
+-un         directeur régional de l'alimentation, de l'agriculture et de la forêt  ;
 
 -un directeur départemental de l'agriculture et de la forêt ;
 
