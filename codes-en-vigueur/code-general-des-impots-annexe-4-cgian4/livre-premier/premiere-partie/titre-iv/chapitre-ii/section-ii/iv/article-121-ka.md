@@ -16,4 +16,4 @@ Peuvent notamment être timbrés par ce procédé :
 
 6° Les permis de conduire les véhicules automobiles, les motocyclettes d'une cylindrée supérieure à 125 cm3 et tous autres véhicules à moteur (art. 1599 terdecies du code général des impôts) ;
 
-7° Les certificats d'immatriculation des véhicules automobiles et de tous autres véhicules à moteur (certificats d'immatriculation) (art. 1599 quindecies du code général des impôts et art. 339 à 341 de l'annexe II à ce code).
+7° Les certificats d'immatriculation des véhicules automobiles et de tous autres véhicules à moteur  (art. 1599 quindecies du code général des impôts).
