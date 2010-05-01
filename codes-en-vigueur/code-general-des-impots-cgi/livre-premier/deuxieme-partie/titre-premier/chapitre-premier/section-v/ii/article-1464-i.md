@@ -4,13 +4,13 @@ I. ― Les communes et leurs établissements publics de coopération intercommun
 
 II. ― Pour bénéficier de l'exonération prévue au I, un établissement doit, au cours de la période de référence mentionnée à l'article 1467 A, relever d'une entreprise qui satisfait aux conditions suivantes :
 
-1° L'entreprise doit être une petite et moyenne entreprise au sens de l'annexe I au règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie) ;
+1° L'entreprise doit être une petite et moyenne entreprise au sens de l'annexe I au règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie) ;
 
 2° Le capital de l'entreprise est détenu de manière continue à hauteur de 50 % au moins :
 
 a) Par des personnes physiques ;
 
-b) Ou par une société répondant aux conditions du 1° et du 3° du présent II et dont le capital est détenu à hauteur de 50 % au moins par des personnes physiques ;
+b) Ou par une société répondant aux conditions du 1° et du 3° et dont le capital est détenu à hauteur de 50 % au moins par des personnes physiques ;
 
 3° L'entreprise n'est pas liée à une autre entreprise par un contrat prévu par l'article L. 330-3 du code de commerce.
 
@@ -18,4 +18,4 @@ III. ― Pour bénéficier de l'exonération, les contribuables déclarent, chaq
 
 IV. ― Le label de librairie indépendante de référence est délivré par l'autorité administrative aux établissements qui réalisent une activité principale de vente de livres neufs au détail, disposent de locaux ouverts à tout public, et proposent un service de qualité reposant notamment sur une offre diversifiée de titres, la présence d'un personnel affecté à la vente de livres en nombre suffisant et des actions régulières d'animation culturelle, dans les conditions précisées par décret en Conseil d'Etat.
 
-V. ― L'exonération prévue au I est subordonnée au respect du règlement (CE) n° 1998 / 2006 de la Commission, du 15 décembre 2006, concernant l'application des articles 87 et 88 du traité aux aides de minimis.
+V. ― L'exonération prévue au I est subordonnée au respect du règlement (CE) n° 1998/2006 de la Commission, du 15 décembre 2006, concernant l'application des articles 87 et 88 du traité aux aides de minimis.
