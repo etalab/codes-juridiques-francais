@@ -52,7 +52,7 @@ b. Dans les mêmes conditions qu'au premier alinéa du a, les bâtiments affect�
 
 Les coopératives de blé peuvent, sans perdre le bénéfice de l'exonération, louer tout ou partie de leurs magasins à l' établissement national des produits de l'agriculture et de la mer (FranceAgriMer) en vue du logement des blés excédentaires.
 
-Le bénéfice de l'exonération est également maintenu aux coopératives de céréales et à leurs unions pour les opérations qu'elles effectuent avec l' établissement national des produits de l'agriculture et de la mer (FranceAgriMer) relativement à l'achat, la vente, la transformation ou le transport de céréales ; il en est de même pour les opérations effectuées par des coopératives de céréales avec d'autres coopératives de céréales dans le cadre de programmes élaborés par l'office ou avec l'autorisation de cet établissement ;
+Le bénéfice de l'exonération est également maintenu aux coopératives de céréales et à leurs unions pour les opérations qu'elles effectuent avec l' établissement national des produits de l'agriculture et de la mer (FranceAgriMer) relativement à l'achat, la vente, la transformation ou le transport de céréales ; il en est de même pour les opérations effectuées par des coopératives de céréales avec d'autres coopératives de céréales dans le cadre de programmes élaborés par l'établissement ou avec son autorisation ;
 
 7° Les abris contre les bombardements aériens établis en exécution des lois et règlements relatifs à la défense passive et qui remplissent les conditions fixées par un décret contresigné du ministre de l'économie et des finances et du ministre chargé de la défense passive ;
 
