@@ -8,7 +8,7 @@ Les articles D. 321-18 à D. 321-27, D. 331-23 à D. 331-43, D. 331-46 à D. 331
 
 " Nouvelle-Calédonie " ;
 
-3° Les mots : " directeur régional de l'agriculture et de la forêt " sont remplacés par les mots : " directeur de l'agriculture, de la forêt et de l'environnement " ;
+3° Les mots : "         directeur régional de l'alimentation, de l'agriculture et de la forêt  " sont remplacés par les mots : " directeur de l'agriculture, de la forêt et de l'environnement " ;
 
 4° Les mots : " directeur régional des affaires maritimes " sont remplacés par les mots : " directeur des affaires maritimes " ;
 

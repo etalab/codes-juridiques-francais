@@ -1,6 +1,6 @@
 # Article D423-32
 
-Le recteur d'académie ou le directeur régional de l'agriculture et de la forêt exerce la fonction de commissaire du Gouvernement auprès du groupement d'intérêt public. Il peut se faire représenter. Il assiste, avec voix consultative, aux séances de toutes les instances de délibération et d'administration du groupement.
+Le recteur d'académie ou le         directeur régional de l'alimentation, de l'agriculture et de la forêt  exerce la fonction de commissaire du Gouvernement auprès du groupement d'intérêt public. Il peut se faire représenter. Il assiste, avec voix consultative, aux séances de toutes les instances de délibération et d'administration du groupement.
 
 Le commissaire du Gouvernement exerce les compétences suivantes :
 

@@ -4,7 +4,7 @@ Un comité régional d'agrément des groupements agricoles d'exploitation en com
 
 Le comité régional d'agrément des groupements agricoles d'exploitation en commun comprend, sous la présidence du préfet de région ou de son représentant :
 
-1° Le directeur régional de l'agriculture et de la forêt ou son représentant ;
+1° Le         directeur régional de l'alimentation, de l'agriculture et de la forêt  ou son représentant ;
 
 2° Le directeur des services fiscaux du chef-lieu de région ou son représentant ;
 

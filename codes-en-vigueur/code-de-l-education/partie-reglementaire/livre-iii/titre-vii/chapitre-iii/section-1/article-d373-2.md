@@ -8,7 +8,7 @@ Les articles D. 332-16 à D. 332-29, D. 334-1 à D. 334-22, D. 336-1 à D. 336-5
 
 " collectivité d'outre-mer " ;
 
-3° Les mots : " directeur régional de l'agriculture et de la forêt " sont remplacés par les mots : " directeur de l'agriculture, de la forêt et de l'environnement " ;
+3° Les mots : "         directeur régional de l'alimentation, de l'agriculture et de la forêt  " sont remplacés par les mots : " directeur de l'agriculture, de la forêt et de l'environnement " ;
 
 4° Les mots : " directeur régional des affaires maritimes " sont remplacés par les mots : " directeur des affaires maritimes " ;
 

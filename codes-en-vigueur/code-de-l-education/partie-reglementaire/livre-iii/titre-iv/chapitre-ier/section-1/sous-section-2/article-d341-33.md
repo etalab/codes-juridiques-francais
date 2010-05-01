@@ -4,4 +4,4 @@ La famille ou l'élève majeur doit pouvoir saisir une commission d'appel. En ca
 
 Les décisions prises par la commission d'appel valent décisions d'orientation ou de redoublement définitives.
 
-La composition et les règles de fonctionnement de la commission sont communiquées au directeur régional de l'agriculture et de la forêt.
+La composition et les règles de fonctionnement de la commission sont communiquées au         directeur régional de l'alimentation, de l'agriculture et de la forêt.
