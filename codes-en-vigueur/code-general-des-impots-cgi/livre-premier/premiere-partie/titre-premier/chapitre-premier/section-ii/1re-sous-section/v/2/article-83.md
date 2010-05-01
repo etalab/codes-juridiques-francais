@@ -12,9 +12,9 @@ c) Les cotisations au régime public de retraite additionnel obligatoire institu
 
 1° 0 bis Les cotisations versées conformément aux dispositions du règlement CEE n° 1408 / 71 du Conseil du 14 juin 1971 relatif à l'application des régimes de sécurité sociale aux travailleurs salariés et aux membres de leur famille qui se déplacent à l'intérieur de la Communauté ou conformément aux stipulations d'une convention ou d'un accord international relatif à l'application des régimes de sécurité sociale ;
 
-1° bis Abrogé
+1° bis (Abrogé)
 
-1° ter (abrogé à compter de l'entrée en vigueur de la loi n° 2002-73 du 17 janvier 2002).
+1° ter (Abrogé à compter de l'entrée en vigueur de la loi n° 2002-73 du 17 janvier 2002).
 
 1° quater Les cotisations ou primes versées aux régimes de prévoyance complémentaire auxquels le salarié est affilié à titre obligatoire, à condition, lorsque ces cotisations ou primes financent des garanties portant sur le remboursement ou l'indemnisation de frais occasionnés par une maladie, une maternité ou un accident, que ces garanties respectent les conditions mentionnées à l'article L. 871-1 du code de la sécurité sociale.
 
@@ -62,9 +62,9 @@ Cette disposition est applicable dans les conditions fixées au 2° quater.
 
 3° Les frais inhérents à la fonction ou à l'emploi lorsqu'ils ne sont pas couverts par des allocations spéciales.
 
-La déduction à effectuer du chef des frais professionnels est calculée forfaitairement en fonction du revenu brut, après défalcation des cotisations, contributions et intérêts mentionnés aux 1° à 2° quinquies et à l'article 83 bis ; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 13 893 euros pour l'imposition des rémunérations perçues en 2008 ; chaque année, le plafond retenu pour l'imposition des revenus de l'année précédente est relevé dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
+La déduction à effectuer du chef des frais professionnels est calculée forfaitairement en fonction du revenu brut, après défalcation des cotisations, contributions et intérêts mentionnés aux 1° à 2° quinquies et à l'article 83 bis ; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 13 948 euros pour l'imposition des rémunérations perçues en 2009 ; chaque année, le plafond retenu pour l'imposition des revenus de l'année précédente est relevé dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
-Le montant de la déduction forfaitaire pour frais professionnels ne peut être inférieur à 413 euros ou à 906 euros pour les personnes inscrites en tant que demandeurs d'emploi depuis plus d'un an, sans pouvoir excéder le montant brut des traitements et salaires. Cette disposition s'applique séparément aux rémunérations perçues par chaque membre du foyer fiscal désigné aux 1 et 3 de l'article 6.
+Le montant de la déduction forfaitaire pour frais professionnels ne peut être inférieur à 415 euros ou à 910 euros pour les personnes inscrites en tant que demandeurs d'emploi depuis plus d'un an, sans pouvoir excéder le montant brut des traitements et salaires. Cette disposition s'applique séparément aux rémunérations perçues par chaque membre du foyer fiscal désigné aux 1 et 3 de l'article 6.
 
 Les sommes figurant au troisième alinéa sont révisées chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 

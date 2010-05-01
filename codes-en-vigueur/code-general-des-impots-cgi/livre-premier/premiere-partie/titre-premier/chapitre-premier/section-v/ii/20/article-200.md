@@ -24,7 +24,7 @@ Ouvrent également droit à la réduction d'impôt les frais engagés dans le ca
 
 1 bis. Pour l'application des dispositions du 1, lorsque les dons et versements effectués au cours d'une année excèdent la limite de 20 %, l'excédent est reporté successivement sur les années suivantes jusqu'à la cinquième inclusivement et ouvre droit à la réduction d'impôt dans les mêmes conditions.
 
-1 ter Le taux de la réduction d'impôt visée au 1 est porté à 75 % pour les versements effectués au profit d'organismes sans but lucratif qui procèdent à la fourniture gratuite de repas à des personnes en difficulté, qui contribuent à favoriser leur logement ou qui procèdent, à titre principal, à la fourniture gratuite des soins mentionnés au 1° du 4 de l'article 261 à des personnes en difficulté. Ces versements sont retenus dans la limite de 495 euros à compter de l'imposition des revenus de l'année 2008. Il n'en est pas tenu compte pour l'application de la limite mentionnée au 1.
+1 ter Le taux de la réduction d'impôt visée au 1 est porté à 75 % pour les versements effectués au profit d'organismes sans but lucratif qui procèdent à la fourniture gratuite de repas à des personnes en difficulté, qui contribuent à favoriser leur logement ou qui procèdent, à titre principal, à la fourniture gratuite des soins mentionnés au 1° du 4 de l'article 261 à des personnes en difficulté. Ces versements sont retenus dans la limite de 510 € à compter de l'imposition des revenus de l'année 2009. Il n'en est pas tenu compte pour l'application de la limite mentionnée au 1.
 
 La limite de versements mentionnée au premier alinéa est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu de l'année précédant celle des versements. Le montant obtenu est arrondi, s'il y a lieu, à l'euro supérieur.
 
@@ -36,11 +36,11 @@ Un décret en Conseil d'Etat fixe les conditions de cette reconnaissance et les 
 
 2 bis. Ouvrent également droit à la réduction d'impôt les dons versés à la " Fondation du patrimoine " ou à une fondation ou une association qui affecte irrévocablement ces dons à la " Fondation du patrimoine ", en vue de subventionner la réalisation des travaux prévus par les conventions conclues en application de l'article L. 143-2-1 du code du patrimoine entre la " Fondation du patrimoine " et les propriétaires des immeubles, personnes physiques ou sociétés civiles composées uniquement de personnes physiques et qui ont pour objet exclusif la gestion et la location nue des immeubles dont elles sont propriétaires.
 
-Les immeubles mentionnés au premier alinéa du présent 2 bis ne doivent pas faire l'objet d'une exploitation commerciale. Toutefois, ces dispositions ne sont pas applicables lorsque la gestion de l'immeuble est désintéressée et que les conditions suivantes sont cumulativement remplies :
+Les immeubles mentionnés au premier alinéa ne doivent pas faire l'objet d'une exploitation commerciale. Toutefois, ces dispositions ne sont pas applicables lorsque la gestion de l'immeuble est désintéressée et que les conditions suivantes sont cumulativement remplies :
 
 1° Les revenus fonciers nets, les bénéfices agricoles, les bénéfices industriels et commerciaux et les bénéfices des sociétés commerciales, augmentés des charges déduites en application du 5° du 1 de l'article 39, générés par l'immeuble au cours des trois années précédentes sont affectés au financement des travaux prévus par la convention ;
 
-2° Le montant des dons collectés n'excède pas le montant restant à financer au titre de ces travaux, après affectation des subventions publiques et des sommes visées au 1° du présent 2 bis.
+2° Le montant des dons collectés n'excède pas le montant restant à financer au titre de ces travaux, après affectation des subventions publiques et des sommes visées au 1°.
 
 Le donateur ou l'un des membres de son foyer fiscal ne doit pas avoir conclu de convention avec la " Fondation du patrimoine " en application de l'article L. 143-2-1 précité, être propriétaire de l'immeuble sur lequel sont effectués les travaux ou être un ascendant, un descendant ou un collatéral du propriétaire de cet immeuble. En cas de détention de l'immeuble par une société mentionnée au premier alinéa, le donateur ou l'un des membres de son foyer fiscal ne doit pas être associé de cette société ou un ascendant, un descendant ou un collatéral des associés de la société propriétaire de l'immeuble.
 

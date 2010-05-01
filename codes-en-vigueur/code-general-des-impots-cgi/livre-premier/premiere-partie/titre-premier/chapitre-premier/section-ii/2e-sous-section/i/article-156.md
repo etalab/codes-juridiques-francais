@@ -6,9 +6,9 @@ I. du déficit constaté pour une année dans une catégorie de revenus ; si le 
 
 Toutefois, n'est pas autorisée l'imputation :
 
-1° des déficits provenant d'exploitations agricoles lorsque le total des revenus nets d'autres sources excède 104 238 euros ; ces déficits peuvent cependant être admis en déduction des bénéfices de même nature des années suivantes jusqu'à la sixième inclusivement.
+1° des déficits provenant d'exploitations agricoles lorsque le total des revenus nets d'autres sources excède 104 665 euros ; ces déficits peuvent cependant être admis en déduction des bénéfices de même nature des années suivantes jusqu'à la sixième inclusivement.
 
-Le montant mentionné au premier alinéa du 1° est révisé chaque année selon les mêmes modalités que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
+Le montant mentionné au premier alinéa est révisé chaque année selon les mêmes modalités que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
 1° bis des déficits provenant, directement ou indirectement, des activités relevant des bénéfices industriels ou commerciaux lorsque ces activités ne comportent pas la participation personnelle, continue et directe de l'un des membres du foyer fiscal à l'accomplissement des actes nécessaires à l'activité. Il en est ainsi, notamment, lorsque la gestion de l'activité est confiée en droit ou en fait à une personne qui n'est pas un membre du foyer fiscal par l'effet d'un mandat, d'un contrat de travail ou de toute autre convention. Les déficits non déductibles pour ces motifs peuvent cependant être imputés sur les bénéfices tirés d'activités de même nature exercées dans les mêmes conditions, durant la même année ou les six années suivantes. Ces modalités d'imputation ne sont pas applicables aux déficits provenant de l'activité de location directe ou indirecte de locaux d'habitation meublés ou destinés à être loués meublés.
 
@@ -80,9 +80,9 @@ Un contribuable ne peut, au titre d'une même année et pour un même enfant, b�
 
 2° bis (Abrogé) ;
 
-2° ter. Avantages en nature consentis en l'absence d'obligation alimentaire résultant des articles 205 à 211 du code civil à des personnes agées de plus de 75 ans vivant sous le toit du contribuable et dont le revenu imposable n'excède pas le plafond de ressources mentionné à l'article L. 815-9 du code de la sécurité sociale pour l'octroi de l'allocation de solidarité aux personnes âgées mentionnée à l'article L. 815-1 du même code et de l'allocation supplémentaire d'invalidité mentionnée à l'article L. 815-24 du même code. La déduction opérée par le contribuable ne peut excéder, par bénéficiaire, la somme de 3 296 euros.
+2° ter. Avantages en nature consentis en l'absence d'obligation alimentaire résultant des articles 205 à 211 du code civil à des personnes agées de plus de 75 ans vivant sous le toit du contribuable et dont le revenu imposable n'excède pas le plafond de ressources mentionné à l'article L. 815-9 du code de la sécurité sociale pour l'octroi de l'allocation de solidarité aux personnes âgées mentionnée à l'article L. 815-1 du même code et de l'allocation supplémentaire d'invalidité mentionnée à l'article L. 815-24 du même code. La déduction opérée par le contribuable ne peut excéder, par bénéficiaire, la somme de 3 309 euros.
 
-Le montant de la déduction mentionnée à l'alinéa précédent est relevé chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu ;
+Le montant de la déduction mentionnée au premier alinéa est relevé chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu ;
 
 2° quater Sur option irrévocable du contribuable entraînant renoncement à leur prise en compte pour l'évaluation de ses revenus fonciers, les dépenses effectivement supportées par les nus-propriétaires au titre de travaux payés en application de l'article 605 du code civil, lorsque le démembrement de propriété d'un immeuble bâti résulte de succession ou de donation entre vifs, effectuée sans charge ni condition et consentie entre parents jusqu'au quatrième degré inclusivement. Ces dépenses peuvent être déduites dans la limite annuelle de 25 000 €. La fraction des dépenses excédant cette limite peut être déduite, dans les mêmes conditions, au titre des dix années suivantes ;
 

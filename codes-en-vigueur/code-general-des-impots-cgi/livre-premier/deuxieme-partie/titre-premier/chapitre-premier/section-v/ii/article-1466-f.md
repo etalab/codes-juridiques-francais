@@ -6,7 +6,7 @@ II.-Le taux de l'abattement mentionné au I est égal à 80 % de la base nette i
 
 III.-Le taux de l'abattement mentionné au II est majoré dans les cas suivants :
 
-1° Pour les établissements situés en Guyane, dans les îles des Saintes, à Marie-Galante, à La Désirade et dans les communes de La Réunion définies par l' article 2 du décret n° 78-690 du 23 juin 1978  portant création d'une zone spéciale d'action rurale dans le département de La Réunion ;
+1° Pour les établissements situés en Guyane, dans les îles des Saintes, à Marie-Galante, à La Désirade et dans les communes de La Réunion définies par l' article 2 du décret n° 78-690 du 23 juin 1978 portant création d'une zone spéciale d'action rurale dans le département de La Réunion ;
 
 2° Pour les établissements situés dans des communes de Guadeloupe ou de Martinique, dont la liste est fixée par décret et qui satisfont cumulativement aux trois critères suivants :
 
@@ -26,6 +26,6 @@ IV.-La délibération mentionnée au I porte sur la totalité de la part revenan
 
 V.-Pour bénéficier de l'abattement, les contribuables déclarent, chaque année, dans les conditions prévues à l'article 1477, les éléments entrant dans le champ d'application de l'abattement. Cette demande doit être adressée, pour chaque établissement exonéré, au service des impôts dont relève l'établissement.
 
-VI.-Lorsqu'un établissement réunit les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1464 A, 1464 B, 1464 D, 1464 I, 1465, 1465 A, 1465 B, 1466 A, 1466 D ou 1466 E et de l'abattement prévu au présent article, le contribuable peut opter pour ce dernier régime. L'option, qui est irrévocable, vaut pour l'ensemble des collectivités territoriales et de leurs établissements publics de coopération intercommunale et doit être exercée dans le délai prévu pour le dépôt, selon le cas, de la déclaration annuelle ou de la déclaration provisoire de cotisation foncière des entreprises mentionnées à l'article 1477.
+VI.-Lorsqu'un établissement réunit les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1464 A, 1464 B, 1464 D, 1464 I, 1465, 1465 A, 1465 B, 1466 A, 1466 D ou 1466 E et de l'abattement prévu au présent article, le contribuable peut opter pour ce dernier régime. L'option, qui est irrévocable, vaut pour l'ensemble des communes et de leurs établissements publics de coopération intercommunale et doit être exercée dans le délai prévu pour le dépôt, selon le cas, de la déclaration annuelle ou de la déclaration provisoire de cotisation foncière des entreprises mentionnées à l'article 1477.
 
 VII. - (Abrogé)

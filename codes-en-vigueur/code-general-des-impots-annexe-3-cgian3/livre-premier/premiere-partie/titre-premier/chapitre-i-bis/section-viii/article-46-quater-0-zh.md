@@ -2,7 +2,7 @@
 
 I. (Sans objet).
 
-II. Pour l'application des dispositions de l'article 223 F, la société mère doit :
+II. Pour l'application des dispositions de l'article 223 F du code général des impôts, la société mère doit :
 
 1. Réintégrer au résultat d'ensemble de chaque exercice une somme égale à la fraction de l'annuité fiscale d'amortissements pratiquée par la société cessionnaire, qui excède la dotation fiscale calculée dans les mêmes conditions et au même taux que cette annuité, sur la valeur nette que l'immobilisation amortissable avait, du point de vue fiscal, dans les écritures de la société du groupe qui a effectué la première cession à une autre société du même groupe. Cette dernière valeur est, le cas échéant, diminuée des amortissements différés en contravention aux dispositions de l'article 39 B du code déjà cité.
 

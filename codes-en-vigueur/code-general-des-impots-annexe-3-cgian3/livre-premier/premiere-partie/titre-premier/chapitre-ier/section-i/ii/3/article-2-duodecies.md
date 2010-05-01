@@ -2,7 +2,7 @@
 
 Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de ressources du locataire sont les suivants :
 
-a) Pour les baux conclus en 2009, les plafonds de loyer mensuel, charges non comprises, sont fixés à 17,31 euros par mètre carré en zone A, 11,31 euros en zone B et 8,19 euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, dans la même proportion que la variation de l'indice de référence des loyers publié par l'Institut national de la statistique et des études économiques, prise en pourcentage et deux chiffres après la virgule, à un niveau arrondi au centime d'euro supérieur. L'indice mentionné ci-dessus est le dernier indice connu au 1er novembre qui précède la date de référence.
+a) Pour les baux conclus en 2010, les plafonds de loyer mensuel, charges non comprises, sont fixés à 17,37 euros par mètre carré en zone A, 11,35 euros en zone B et 8,22 euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, dans la même proportion que la variation de l'indice de référence des loyers publié par l'Institut national de la statistique et des études économiques, prise en pourcentage et deux chiffres après la virgule, à un niveau arrondi au centime d'euro supérieur. L'indice mentionné ci-dessus est le dernier indice connu au 1er novembre qui précède la date de référence.
 
 Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du logement.
 
@@ -10,7 +10,7 @@ La surface à prendre en compte pour l'appréciation du plafond de loyer s'enten
 
 b) Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location.
 
-Pour les baux conclus en 2009, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2010, les plafonds annuels de ressources sont les suivants :
 
 <table>
 <tbody>
@@ -23,20 +23,15 @@ Pour les baux conclus en 2009, les plafonds annuels de ressources sont les suiva
 </th>
 </tr>
 <tr>
+<th/>
 <th>
-<br/>
+<br/>Zone A (en €)<br/>
 </th>
 <th>
-<br/>Zone A <p>(en €)<br/>
-</p>
+<br/>Zone B (en €)<br/>
 </th>
 <th>
-<br/>Zone B <p>(en €)<br/>
-</p>
-</th>
-<th>
-<br/>Zone C <p>(en €)<br/>
-</p>
+<br/>Zone C (en €)<br/>
 </th>
 </tr>
 <tr>
@@ -44,13 +39,13 @@ Pour les baux conclus en 2009, les plafonds annuels de ressources sont les suiva
 <br/>Personne seule<br/>
 </td>
 <td align="center">
-<br/>43 753<br/>
+<br/>44 306 €<br/>
 </td>
 <td align="center">
-<br/>33 816<br/>
+<br/>34 243 €<br/>
 </td>
 <td align="center">
-<br/>29 590<br/>
+<br/>29 964 €<br/>
 </td>
 </tr>
 <tr>
@@ -58,13 +53,13 @@ Pour les baux conclus en 2009, les plafonds annuels de ressources sont les suiva
 <br/>Couple<br/>
 </td>
 <td align="center">
-<br/>65 389<br/>
+<br/>66 215 €<br/>
 </td>
 <td align="center">
-<br/>45 155<br/>
+<br/>45 726 €<br/>
 </td>
 <td align="center">
-<br/>39 771<br/>
+<br/>40 274 €<br/>
 </td>
 </tr>
 <tr>
@@ -72,13 +67,13 @@ Pour les baux conclus en 2009, les plafonds annuels de ressources sont les suiva
 <br/>Personne seule ou couple ayant une personne à charge<br/>
 </td>
 <td align="center">
-<br/>78 602<br/>
+<br/>79 595 €<br/>
 </td>
 <td align="center">
-<br/>54 302<br/>
+<br/>54 988 €<br/>
 </td>
 <td align="center">
-<br/>47 612<br/>
+<br/>48 214 €<br/>
 </td>
 </tr>
 <tr>
@@ -86,13 +81,13 @@ Pour les baux conclus en 2009, les plafonds annuels de ressources sont les suiva
 <br/>Personne seule ou couple ayant deux personnes à charge<br/>
 </td>
 <td align="center">
-<br/>94 153<br/>
+<br/>95 342 €<br/>
 </td>
 <td align="center">
-<br/>65 553<br/>
+<br/>66 381 €<br/>
 </td>
 <td align="center">
-<br/>57 622<br/>
+<br/>58 350 €<br/>
 </td>
 </tr>
 <tr>
@@ -100,13 +95,13 @@ Pour les baux conclus en 2009, les plafonds annuels de ressources sont les suiva
 <br/>Personne seule ou couple ayant trois personnes à charge<br/>
 </td>
 <td align="center">
-<br/>111 459<br/>
+<br/>112 867 €<br/>
 </td>
 <td align="center">
-<br/>77 113<br/>
+<br/>78 087 €<br/>
 </td>
 <td align="center">
-<br/>67 630<br/>
+<br/>68 484 €<br/>
 </td>
 </tr>
 <tr>
@@ -114,13 +109,13 @@ Pour les baux conclus en 2009, les plafonds annuels de ressources sont les suiva
 <br/>Personne seule ou couple ayant quatre personnes à charge<br/>
 </td>
 <td align="center">
-<br/>125 421<br/>
+<br/>127 005 €<br/>
 </td>
 <td align="center">
-<br/>86 902<br/>
+<br/>88 000 €<br/>
 </td>
 <td align="center">
-<br/>76 287<br/>
+<br/>77 251 €<br/>
 </td>
 </tr>
 <tr>
@@ -128,13 +123,14 @@ Pour les baux conclus en 2009, les plafonds annuels de ressources sont les suiva
 <br/>Majoration par personne à charge à partir de la cinquième<br/>
 </td>
 <td align="center">
-<br/>+ 13 979<br/>
+<br/>+ 14 156 €<br/>
 </td>
 <td align="center">
-<br/>+ 9 693<br/>
+<br/>+ 9 816 €<br/>
 </td>
 <td align="center">
-<br/>+ 8 664</td>
+<br/>+ 8 774 €<br/>
+</td>
 </tr>
 </tbody>
 </table>

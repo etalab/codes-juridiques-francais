@@ -4,6 +4,6 @@ a. Est puni d'une amende pénale de 6 000 euros, quiconque, n'étant pas titulai
 
 b. Toute infraction aux dispositions de l'article 306 est punie des mêmes peines ;
 
-c. En cas de récidive des infractions prévues aux a et b du présent article, une peine d'emprisonnement d'un an peut en outre être prononcée.
+c. En cas de récidive des infractions prévues aux a et b, une peine d'emprisonnement d'un an peut en outre être prononcée.
 
 Est considéré comme en état de récidive légale quiconque ayant été condamné pour un délit prévu par l'une des législations ayant pour objet la prévention, la répression ou la cure de l'alcoolisme ou de l'ivresse, ou par la législation sur la police des débits de boissons, a, dans les cinq ans qui suivent la date à laquelle cette condamnation est devenue définitive, commis un nouveau délit tombant sous l'application des a et b.

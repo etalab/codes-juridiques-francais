@@ -8,37 +8,83 @@ III.-La taxe est assise sur le nombre de passagers et la masse de fret et de cou
 
 IV.-Le tarif de la taxe par passager applicable sur chaque aérodrome est compris entre les valeurs correspondant à la classe dont il relève.
 
-Les aérodromes sont répartis en trois classes en fonction du nombre d'unités de trafic embarquées ou débarquées au cours de la dernière année civile connue sur l'aérodrome ou le système aéroportuaire dont il dépend au sens du m de l'article 2 du règlement (CEE) n° 2408 / 92 du Conseil, du 23 juillet 1992, concernant l'accès des transporteurs aériens communautaires aux liaisons aériennes intracommunautaires.
+Les aérodromes sont répartis en trois classes en fonction du nombre d'unités de trafic embarquées ou débarquées au cours de la dernière année civile connue sur l'aérodrome ou le système aéroportuaire dont il dépend au sens du m de l'article 2 du règlement (CEE) n° 2408/92 du Conseil, du 23 juillet 1992, concernant l'accès des transporteurs aériens communautaires aux liaisons aériennes intracommunautaires.
 
 Les classes d'aérodromes sont fixées comme suit :
 
-CLASSE : 1
-
-Nombre d'unités de trafic de l'aérodrome ou du système aéroportuaire : A partir de 10 000 001
-
-CLASSE : 2
-
-Nombre d'unités de trafic de l'aérodrome ou du système aéroportuaire : De 2 200 001 à 10 000 000
-
-CLASSE : 3
-
-Nombre d'unités de trafic de l'aérodrome ou du système aéroportuaire : De 5 001 à 2 200 000
+<table>
+<tbody>
+<tr>
+<td width="161">
+<p align="center">CLASSE</p>
+</td>
+<td width="444">
+<p align="center">Nombre d'unités de trafic de l'aérodrome ou du système aéroportuaire</p>
+</td>
+</tr>
+<tr>
+<td width="161">
+<p align="center">1</p>
+</td>
+<td width="444">
+<p align="center">A partir de 10 000 001</p>
+</td>
+</tr>
+<tr>
+<td width="161">
+<p align="center">2</p>
+</td>
+<td width="444">
+<p align="center">De 2 200 001 à 10 000 000</p>
+</td>
+</tr>
+<tr>
+<td width="161">
+<p align="center">3</p>
+</td>
+<td width="444">
+<p align="center">De 5 001 à 2 200 000</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Les limites supérieures et inférieures des tarifs correspondant aux classes d'aérodromes sont fixées comme suit :
 
-CLASSE : 1
+<table>
+<tbody>
+<tr>
+<td width="161">
+<p align="center">CLASSE</p>
+</td>
+<td width="142">
+<p align="center">1</p>
+</td>
+<td width="151">
+<p align="center">2</p>
+</td>
+<td width="151">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td width="161">
+<p align="center">Tarifs par passager</p>
+</td>
+<td width="142">
+<p align="center">De 4,3 à 10 euros</p>
+</td>
+<td width="151">
+<p align="center">De 3,5 à 9,5 euros.</p>
+</td>
+<td width="151">
+<p align="center">De 2,6 à 11,5 euros</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-Tarifs par passager : De 4, 3 à 10 euros
-
-CLASSE : 2
-
-Tarifs par passager : De 3, 5 à 9,5 euros.
-
-CLASSE : 3
-
-Tarifs par passager : De 2, 6 à 11,5 euros.
-
-Le tarif de la taxe est égal à 1 par tonne de fret et de courrier pour tous les aérodromes visés au I.
+Le tarif de la taxe est égal à 1 euro par tonne de fret et de courrier pour tous les aérodromes visés au I.
 
 Un arrêté, pris par le ministre chargé du budget et le ministre chargé de l'aviation civile, fixe la liste des aérodromes concernés par classe et, au sein de chaque classe, le tarif de la taxe applicable pour chaque aérodrome.
 
@@ -46,7 +92,7 @@ Le produit de la taxe est affecté sur chaque aérodrome au financement des serv
 
 Ces données font l'objet d'une déclaration par les exploitants d'aérodromes selon des modalités fixées par un arrêté conjoint du ministre chargé du budget et du ministre chargé de l'aviation civile, qui précise la proportion de prise en charge des coûts qui ne sont pas directement ou totalement imputables aux missions définies au présent IV.
 
-Ces données peuvent faire l'objet de contrôles sur l'année en cours et les deux années antérieures, diligentés par les services de la direction générale de l'aviation civile. Les exploitants d'aérodromes sont tenus de présenter les pièces justificatives et toutes les informations relatives aux données mentionnées à l'alinéa précédent. En cas de contrôle sur place, la direction générale de l'aviation civile en informe préalablement l'exploitant par l'envoi d'un avis qui précise l'identité des personnes qui en sont chargées et la période visée par le contrôle. L'exploitant peut se faire assister par un conseil de son choix. A l'issue du contrôle, un rapport est adressé à l'exploitant concerné qui dispose d'un délai de deux mois pour faire part de ses observations.
+Ces données peuvent faire l'objet de contrôles sur l'année en cours et les deux années antérieures, diligentés par les services de la direction générale de l'aviation civile. Les exploitants d'aérodromes sont tenus de présenter les pièces justificatives et toutes les informations relatives aux données mentionnées au huitième alinéa. En cas de contrôle sur place, la direction générale de l'aviation civile en informe préalablement l'exploitant par l'envoi d'un avis qui précise l'identité des personnes qui en sont chargées et la période visée par le contrôle. L'exploitant peut se faire assister par un conseil de son choix. A l'issue du contrôle, un rapport est adressé à l'exploitant concerné qui dispose d'un délai de deux mois pour faire part de ses observations.
 
 Le tarif défini pour le fret et le courrier s'applique au tonnage total déclaré par chaque entreprise le mois considéré, arrondi à la tonne inférieure.
 

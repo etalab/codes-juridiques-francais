@@ -24,12 +24,12 @@ Sur le rapport du directeur général du Trésor et du directeur de la législat
 
 2. Le comité du capital-investissement comprend :
 
--le directeur général des finances publiques ou son représentant ;
+1° le directeur général des finances publiques ou son représentant ;
 
--le directeur général du Trésor ou son représentant ;
+2° le directeur général du Trésor ou son représentant ;
 
--le directeur de la législation fiscale ou son représentant.
+3° le directeur de la législation fiscale ou son représentant.
 
 Le comité peut inviter des personnalités qualifiées en raison de leurs compétences techniques en matière de capital-investissement à participer à ses travaux.
 
-3. Le secrétariat général du comité du capital-investissement est assuré par la        direction générale du Trésor.
+3. Le secrétariat général du comité du capital-investissement est assuré par la direction générale du Trésor.

@@ -10,7 +10,7 @@ Pour la détermination de la cotisation sur la valeur ajoutée des entreprises, 
 
 Pour les entreprises de navigation maritime ou aérienne qui exercent des activités conjointement en France et à l'étranger, il n'est pas tenu compte de la valeur ajoutée provenant des opérations directement liées à l'exploitation de navires ou d'aéronefs ne correspondant pas à l'activité exercée en France.
 
-Un décret en Conseil d'Etat précise les modalités d'application de l'alinéa précédent.
+Un décret en Conseil d'Etat précise les modalités d'application du troisième alinéa.
 
 2. La fraction de la valeur ajoutée mentionnée au 1 est obtenue en multipliant cette valeur ajoutée par un taux égal à 1, 5 %.
 

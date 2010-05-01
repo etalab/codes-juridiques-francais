@@ -38,7 +38,7 @@ a) Les opérations d'assurances et de réassurances et les opérations de courta
 
 2° Des exportations de biens ;
 
-b) Les services bancaires et financiers exonérés en application des dispositions des a à e du 1 de l'article 261 C lorsqu'ils sont rendus à des personnes domiciliées ou établies en dehors de la Communauté européenne ou se rapportent à des exportations de biens ;
+b) Les services bancaires et financiers exonérés en application des dispositions des a à e du 1° de l'article 261 C lorsqu'ils sont rendus à des personnes domiciliées ou établies en dehors de la Communauté européenne ou se rapportent à des exportations de biens ;
 
 c) Les opérations exonérées en application des dispositions des articles 262 et 262 bis, du I de l'article 262 ter, de l'article 263, du 1° du II et du 2° du III de l'article 291 ;
 

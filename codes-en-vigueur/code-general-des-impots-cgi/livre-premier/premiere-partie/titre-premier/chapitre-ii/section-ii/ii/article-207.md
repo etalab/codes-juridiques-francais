@@ -22,7 +22,7 @@ b. Opérations de transformation portant sur les produits ou sous-produits autre
 
 c. Opérations effectuées par les sociétés coopératives ou unions susvisées avec des non-sociétaires.
 
-Cette exonération est applicable aux opérations effectuées par les coopératives de céréales et leurs unions avec l'Office national interprofessionnel des grandes cultures relativement à l'achat, la vente, la transformation ou le transport de céréales ; il en est de même pour les opérations effectuées par des coopératives de céréales avec d'autres coopératives de céréales dans le cadre de programmes élaborés par l'office ou avec l'autorisation de cet établissement.
+Cette exonération est applicable aux opérations effectuées par les coopératives de céréales et leurs unions avec l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) relativement à l'achat, la vente, la transformation ou le transport de céréales ; il en est de même pour les opérations effectuées par des coopératives de céréales avec d'autres coopératives de céréales dans le cadre de programmes élaborés par l'établissement ou avec son autorisation.
 
 Les sociétés coopératives agricoles et leurs unions sont tenues de produire, à toute réquisition de l'administration, leur comptabilité et les justifications nécessaires tendant à prouver qu'elles fonctionnent conformément aux dispositions législatives et réglementaires relatives au statut juridique de la coopération agricole ;
 
@@ -48,7 +48,7 @@ Toutefois, les organismes et les sociétés mentionnés au premier alinéa peuve
 
 4° ter. Les sociétés anonymes de crédit immobilier qui exercent uniquement les activités prévues au I et au II de l'article L. 422-4 du code de la construction et de l'habitation et qui accordent exclusivement :
 
-a) Des prêts visés aux articles R. 331-32, R. 313-31 et R. 313-34 du même code ;
+a) Des prêts visés aux articles R. 331-32 et R. 313-34 du même code ;
 
 b) Des prêts à leurs filiales et aux organismes mentionnés au 4°. Le taux de rémunération de ces prêts ne doit pas excéder celui prévu au 3° du 1 de l'article 39.
 
@@ -66,7 +66,7 @@ c. les produits financiers issus du placement de la trésorerie de ces organisme
 
 5° bis. Les organismes sans but lucratif mentionnés au 1° du 7 de l'article 261, pour les opérations à raison desquelles ils sont exonérés de la taxe sur la valeur ajoutée ;
 
-6° Les régions et les ententes interrégionales, les départements et les ententes interdépartementales, les communes, les établissements publics de coopération intercommunale à fiscalité propre, syndicats de communes et syndicats mixtes constitués exclusivement de collectivités territoriales ou de groupements de ces collectivités ainsi que leurs régies de services publics ;
+6° Les régions et les ententes interrégionales, les  départements et les ententes interdépartementales, les communes, les établissements publics de coopération intercommunale à fiscalité propre, syndicats de communes et syndicats mixtes constitués exclusivement de collectivités territoriales ou de groupements de ces collectivités ainsi que leurs régies de services publics ;
 
 6° bis. Dans les conditions fixées par décret, les établissements publics et sociétés d'économie mixte chargés de l'aménagement par une convention contractée, en application du deuxième alinéa de l'article L. 300-4 du code de l'urbanisme ainsi que les organismes d'habitations à loyer modéré régis par l'article L. 411-2 du code de la construction et de l'habitation et les sociétés anonymes de coordination d'organismes d'habitations à loyer modéré régies par l'article L. 423-1-1 du même code, pour les résultats provenant des opérations réalisées dans le cadre des procédures suivantes :
 
@@ -108,7 +108,7 @@ Les résultats sont déterminés selon les règles visées à l'article 209 avan
 
 1° Les résultats, y compris la quote-part des produits financiers, afférents aux opérations portant sur la gestion des contrats d'assurance maladie relatifs à des opérations individuelles et collectives à adhésion facultative, à la condition que l'organisme ne recueille pas d'informations médicales, lors de l'adhésion, auprès de l'assuré au titre de ce contrat ou des personnes souhaitant bénéficier de cette couverture, que les cotisations ou les primes ne soient pas fixées en fonction de l'état de santé de l'assuré, que ces garanties ne couvrent pas la participation mentionnée au II de l'article L. 322-2 du code de la sécurité sociale et qu'elles respectent les conditions mentionnées à l'article L. 871-1 du même code. Un décret précise les modalités de détermination de ces résultats.
 
-Cette exonération bénéficie aux mutuelles et unions régies par le code de la mutualité, aux institutions de prévoyance régies par le titre III du livre IX du code de la sécurité sociale ou par le livre VII du code rural et aux entreprises d'assurance régies par le code des assurances, lorsque les souscripteurs et membres participants des contrats d'assurance maladie mentionnés au présent 1° représentent au moins 150 000 personnes ou une proportion minimale, fixée par décret en Conseil d'Etat, de l'ensemble des souscripteurs et membres participants des contrats d'assurance maladie relatifs à des opérations individuelles et collectives à adhésion facultative souscrits auprès de l'organisme. Cette proportion est comprise entre 80 % et 90 % ;
+Cette exonération bénéficie aux mutuelles et unions régies par le code de la mutualité, aux institutions de prévoyance régies par le titre III du livre IX du code de la sécurité sociale ou par le livre VII du code rural et de la pêche maritime et aux entreprises d'assurance régies par le code des assurances, lorsque les souscripteurs et membres participants des contrats d'assurance maladie mentionnés au présent 1° représentent au moins 150 000 personnes ou une proportion minimale, fixée par décret en Conseil d'Etat, de l'ensemble des souscripteurs et membres participants des contrats d'assurance maladie relatifs à des opérations individuelles et collectives à adhésion facultative souscrits auprès de l'organisme. Cette proportion est comprise entre 80 % et 90 % ;
 
 2° Les résultats, y compris la quote-part des produits financiers, afférents aux opérations portant sur la gestion des contrats d'assurance maladie relatifs à des opérations collectives à adhésion obligatoire, à la condition que les cotisations ou les primes ne soient pas fixées en fonction de l'état de santé de l'assuré, que ces garanties ne couvrent pas la participation mentionnée au II de l'article L. 322-2 du code de la sécurité sociale et qu'elles respectent les conditions mentionnées à l'article L. 871-1 du même code. Un décret précise les modalités de détermination de ces résultats.
 

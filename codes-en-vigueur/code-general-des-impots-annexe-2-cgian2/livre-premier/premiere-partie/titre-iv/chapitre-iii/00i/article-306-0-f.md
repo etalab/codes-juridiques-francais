@@ -16,4 +16,4 @@ b. Pour la fraction non rachetable de chaque contrat mentionné au I de l'articl
 
 II. - Ces déclarations sont établies sur des formules imprimées délivrées sans frais par le service des impôts.
 
-III. - Les mêmes obligations incombent aux organismes d'assurance et assimilés non établis en France et admis à y opérer en libre prestation de services. La déclaration souscrite par le représentant fiscal mentionné au III de l'article 990 I du code général des impôts est adressée à la direction des services fiscaux du domicile de l'assuré.
+III. - (sans objet).

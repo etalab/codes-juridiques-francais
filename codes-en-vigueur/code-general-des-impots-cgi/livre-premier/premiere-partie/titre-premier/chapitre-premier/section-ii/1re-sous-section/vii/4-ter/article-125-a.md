@@ -52,7 +52,7 @@ Un décret fixe les conditions d'application du présent 9° ;
 
 10° A 5 % pour les revenus des produits d'épargne donnés au profit d'un organisme mentionné au 1 de l'article 200 dans le cadre d'un mécanisme dit solidaire de versement automatique à l'organisme bénéficiaire par le gestionnaire du fonds d'épargne ;
 
-11° A 50 % pour les revenus et produits soumis obligatoirement au prélèvement en application du III du présent article.
+11° A 50 % pour les revenus et produits soumis obligatoirement au prélèvement en application du III.
 
 IV.L'option pour le prélèvement prévue au I est subordonnée :
 

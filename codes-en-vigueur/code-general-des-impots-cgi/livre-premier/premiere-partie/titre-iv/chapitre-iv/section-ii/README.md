@@ -6,6 +6,7 @@
 - [13° : Terrains communaux](13)
 - [14° : Matelots et pêcheurs de la commune de Fort-Mardyck](14)
 - [15° : Réquisitions](15)
+- [17° : Occupations du domaine public](17)
 - [2° : Etablissements d'utilité publique](2)
 - [3° : Comités professionnels de développement économique](3)
 - [4° : Etat](4)

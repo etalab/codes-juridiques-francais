@@ -39,8 +39,6 @@
 - [XXXI : Crédit d'impôt famille](xxxi)
 - [XXXIII : Crédit d'impôt pour dépenses de prospection commerciale](xxxiii)
 - [XXXV : Crédit d'impôt au titre des avances remboursables ne portant pas intérêt pour financer l'acquisition ou la construction d'une résidence principale](xxxv)
-- [XXXIV : Crédit d'impôt pour relocalisation d'activité en France](xxxiv)
-- [XXXVI : Crédit d'impôt pour investissement dans les technologies de l'information](xxxvi)
 - [XXXVII : Crédit d'impôt en faveur de l'agriculture biologique](xxxvii)
 - [XXXVIII : Crédit d'impôt pour formation des dirigeants](xxxviii)
 - [XL : Crédit d'impôt en faveur des métiers d'art](xl)

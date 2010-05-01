@@ -2,9 +2,9 @@
 
 Sous réserve de l'article 691 bis, sont exonérés de taxe de publicité foncière ou de droits d'enregistrement :
 
-A. I. - Les acquisitions d'immeubles réalisées par une personne assujettie au sens de l'article 256 A, lorsque l'acte d'acquisition contient l'engagement, pris par l'acquéreur, d'effectuer dans un délai de quatre ans les travaux conduisant à la production d'un immeuble neuf au sens du 2° du 2 du I de l'article 257, ou nécessaires pour terminer un immeuble inachevé.
+A.I.-Les acquisitions d'immeubles réalisées par une personne assujettie au sens de l'article 256 A, lorsque l'acte d'acquisition contient l'engagement, pris par l'acquéreur, d'effectuer dans un délai de quatre ans les travaux conduisant à la production d'un immeuble neuf au sens du 2° du 2 du I de l'article 257, ou nécessaires pour terminer un immeuble inachevé.
 
-II. - Cette exonération est subordonnée à la condition que l'acquéreur justifie à l'expiration du délai de quatre ans, sauf application du IV, de l'exécution des travaux prévus au I.
+II.-Cette exonération est subordonnée à la condition que l'acquéreur justifie à l'expiration du délai de quatre ans, sauf application du IV, de l'exécution des travaux prévus au I.
 
 En cas d'acquisitions successives par des personnes mentionnées au I, l'engagement pris par le cédant peut être repris par l'acquéreur auquel s'impose alors le délai imparti au cédant. La personne à laquelle s'impose l'engagement mentionné au I peut, dans la limite de cinq années à compter de la date à laquelle il a été souscrit par le premier acquéreur, y substituer l'engagement de revendre prévu à l'article 1115 qui est réputé avoir pris effet à compter de cette même date.
 
@@ -16,9 +16,9 @@ Elle profite sans limitation de superficie aux terrains destinés à la construc
 
 Pour les terrains destinés à la construction d'immeubles non affectés à l'habitation pour les trois-quarts au moins de leur superficie totale, elle est applicable dans la limite des surfaces occupées par les constructions à édifier et par les dépendances nécessaires à l'exploitation de ces constructions.
 
-IV. - Sur demande de l'acquéreur, une prolongation annuelle renouvelable du délai de quatre ans fixé au I peut être accordée par le directeur des services fiscaux du lieu de la situation des immeubles dans des conditions fixées par décret. L'absence de notification d'un refus motivé de l'administration dans les deux mois de la réception de la demande vaut acceptation.
+IV.-Sur demande de l'acquéreur, une prolongation annuelle renouvelable du délai de quatre ans fixé au I peut être accordée par l'autorité compétente de l'Etat du lieu de la situation des immeubles dans des conditions fixées par décret.L'absence de notification d'un refus motivé de l'administration dans les deux mois de la réception de la demande vaut acceptation.
 
-IV bis.-Une prolongation annuelle renouvelable du délai mentionné au premier alinéa de l'article 1115 peut être accordée, dans des conditions fixées par décret, par le directeur des services fiscaux du lieu de la situation des immeubles  situés dans le périmètre d'une zone d'aménagement concerté définie à l'article L. 311-1 du code de l'urbanisme et acquis par la personne chargée de l'aménagement ou de l'équipement de cette zone.
+IV bis.-Une prolongation annuelle renouvelable du délai mentionné au premier alinéa de l'article 1115 peut être accordée, dans des conditions fixées par décret, par l'autorité compétente de l'Etat du lieu de la situation des immeubles situés dans le périmètre d'une zone d'aménagement concerté définie à l'article L. 311-1 du code de l'urbanisme et acquis par la personne chargée de l'aménagement ou de l'équipement de cette zone.
 
 V. En cas d'acquisition d'un terrain compris dans le périmètre d'une association syndicale de remembrement, le délai de quatre ans ne commence à courir qu'à compter de la décision de clôture des opérations de remembrement.
 
@@ -28,7 +28,7 @@ VII. Les modalités d'application des I à V sont fixées par décret.
 
 B. Les opérations suivantes :
 
-a. Les acquisitions d'immeubles effectuées en vue de l'aménagement de zones à urbaniser par priorité, par les collectivités et par les organismes concessionnaires de cet aménagement  ;
+a. Les acquisitions d'immeubles effectuées en vue de l'aménagement de zones à urbaniser par priorité, par les collectivités et par les organismes concessionnaires de cet aménagement ;
 
 b. Les acquisitions d'immeubles situés dans les zones d'aménagement différé, effectuées dans les conditions prévues aux articles L. 212-2 et L. 212-3 du code de l'urbanisme dans leur rédaction antérieure à la loi n° 85-729 du 18 juillet 1985 par les collectivités et les organismes bénéficiaires du droit de préemption ;
 

@@ -2,7 +2,7 @@
 
 I. La société de gestion d'un fonds commun de placement dans l'innovation ou le dépositaire des actifs de ce fonds agissant pour le compte de la société de gestion informe la direction des services fiscaux dans le ressort de laquelle est souscrite sa déclaration de résultats, de la constitution d'un fonds commun de placement dans l'innovation ou, le cas échéant, de la transformation d'un fonds commun de placement à risques existant en fonds commun de placement dans l'innovation. Cette déclaration intervient dans le mois qui suit la création ou la transformation du fonds.
 
-II. La société de gestion du fonds ou le dépositaire des actifs de ce fonds est soumis aux obligations définies aux articles 41 sexdecies A à 41 sexdecies F, 280 A et R. 87-1 du livre des procédures fiscales.
+II. La société de gestion du fonds ou le dépositaire des actifs de ce fonds est soumis aux obligations définies aux articles 41 sexdecies A à 41 sexdecies F et 280 A de la présente annexe ainsi qu'à l'articleR. 87-1 du livre des procédures fiscales.
 
 III. En cas de cession ou de rachat de parts, de dissolution du fonds ou de distribution d'une partie de ses avoirs, la société de gestion du fonds ou le dépositaire des actifs de ce fonds est soumis aux obligations définies aux articles 41 duovicies F et 41 duovicies G.
 

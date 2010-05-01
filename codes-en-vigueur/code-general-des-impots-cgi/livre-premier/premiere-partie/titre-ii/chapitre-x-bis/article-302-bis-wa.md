@@ -14,13 +14,13 @@ IV. - La redevance n'est pas perçue :
 
 3. En cas de débarquement direct de poissons frais par un navire de pêche battant pavillon d'un pays tiers à la Communauté européenne.
 
-V. - Les taux de la redevance sont fixés par tonne de produits de la pêche ou de l'aquaculture dans la limite d'un plafond de 150 % des niveaux forfaitaires définis en euro par décision du Conseil de l'Union européenne. Toutefois :
+V. - Les taux de la redevance sont fixés par tonne de produits de la pêche ou de l'aquaculture dans la limite d'un plafond de 150 % des niveaux forfaitaires définis en euros par décision du Conseil de l'Union européenne. Toutefois :
 
 1. Les opérations de première vente réalisées dans les halles à marées sont soumises à un taux réduit fixé dans la limite d'un plancher égal à 45 % des niveaux forfaitaires ;
 
 2. Les opérations de première vente réalisées en cas d'absence de classification par catégorie de fraîcheur et/ou de calibrage, ou de classification insuffisante, conformément au règlement (CE) n° 2406/96 du Conseil du 26 novembre 1996 fixant des normes communes de commercialisation pour certains produits de la pêche, sont soumises à un taux majoré fixé dans la limite du plafond de 150 % des niveaux forfaitaires définis en euros par décision du Conseil de l'Union européenne ;
 
-3. Un montant maximum par lot est fixé pour certaines espèces dans la limite de 50 euros ;
+3. Un montant maximum par lot est fixé pour certaines espèces dans la limite de 50 € ;
 
 Un arrêté conjoint du ministre chargé du budget et du ministre chargé de l'agriculture fixe les taux de la redevance.
 

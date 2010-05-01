@@ -14,7 +14,7 @@ La réduction d'impôt n'est pas applicable aux logements dont le droit de propr
 
 II. ― La réduction d'impôt n'est applicable qu'aux logements dont les caractéristiques thermiques et la performance énergétique sont conformes aux prescriptions de l'article L. 111-9 du code de la construction et de l'habitation. Le respect de cette condition est justifié par le contribuable selon des modalités définies par décret.
 
-Le premier alinéa s'applique à compter de la publication du décret mentionné au même alinéa et au plus tard à compter du 1er janvier 2010.
+Le premier alinéa s'applique à compter du 1er janvier 2010.
 
 III. ― L'engagement de location mentionné au I doit prendre effet dans les douze mois qui suivent la date d'achèvement de l'immeuble ou de son acquisition si elle est postérieure. Cet engagement prévoit que le loyer ne doit pas excéder un plafond fixé par le décret prévu au troisième alinéa du h du 1° du I de l'article 31.
 
@@ -92,4 +92,4 @@ Pour ces investissements, le taux de la réduction est égal :
 
 3° A 35 % pour les logements acquis ou construits et pour les souscriptions réalisées entre le 1er janvier 2014 et le 31 décembre 2017, dès lors que le propriétaire s'engage à ce que les logements restent loués à l'issue de la période couverte par l'engagement mentionné au I selon les conditions prévues au V.
 
-Pour l'application du présent XI, le plafond de loyer mentionné au III du présent article ainsi que les conditions mentionnées au deuxième alinéa du l du 1° du I de l'article 31 peuvent être adaptés par décret.
+Pour l'application du présent XI, le plafond de loyer mentionné au III ainsi que les conditions mentionnées au deuxième alinéa du l du 1° du I de l'article 31 peuvent être adaptés par décret.

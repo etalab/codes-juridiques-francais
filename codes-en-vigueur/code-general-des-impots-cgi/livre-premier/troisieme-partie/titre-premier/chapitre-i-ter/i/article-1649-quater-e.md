@@ -1,6 +1,6 @@
 # Article 1649 quater E
 
-Les centres sont notamment habilités à élaborer, pour le compte de leurs adhérents placés sous un régime réel d'imposition, les déclarations destinées à l'administration fiscale ; un agent de l'administration fiscale apporte son assistance technique au centre de gestion agréé, dans les conditions prévues par la convention passée entre le centre et l'administration fiscale. Les modalités d'assistance et de contrôle des centres de gestion agréés par l'administration fiscale sont précisées dans la convention visée à l'article 371 C de l'annexe II au présent code.
+Les centres sont notamment habilités à élaborer, pour le compte de leurs adhérents placés sous un régime réel d'imposition, les déclarations destinées à l'administration fiscale ; un agent de l'administration fiscale apporte son assistance technique au centre de gestion agréé, dans les conditions prévues par la convention passée entre le centre et l'administration fiscale. Les modalités d'assistance et de contrôle des centres de gestion agréés par l'administration fiscale sont précisées dans la convention visée à l'article 371 C de l'annexe II.
 
 Les centres demandent à leurs adhérents tous renseignements utiles afin de procéder chaque année, sous leur propre responsabilité, à un examen en la forme des déclarations de résultats et de leurs annexes, des déclarations de taxes sur le chiffre d'affaires, puis à l'examen de leur cohérence, de leur vraisemblance et de leur concordance.
 

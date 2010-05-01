@@ -16,11 +16,11 @@ les friches et landes appartenant au groupement sont susceptibles de reboisement
 
 les terrains pastoraux appartenant au groupement sont susceptibles d'un régime d'exploitation normale ;
 
-b. que le groupement forestier prenne, selon le cas, l'un des engagements prévus au b du 2° du 2 du présent article ;
+b. que le groupement forestier prenne, selon le cas, l'un des engagements prévus au b du 2° du 2 ;
 
 Ce groupement doit s'engager en outre :
 
-à reboiser ses friches et landes dans un délai de cinq ans à compter de la délivrance du certificat et à les soumettre ensuite au régime défini au b du 2° du 2 du présent article ;
+à reboiser ses friches et landes dans un délai de cinq ans à compter de la délivrance du certificat et à les soumettre ensuite au régime défini au b du 2° du 2 ;
 
 à soumettre pendant trente ans ses terrains pastoraux à un régime d'exploitation normale ou, à défaut, à les reboiser ;
 

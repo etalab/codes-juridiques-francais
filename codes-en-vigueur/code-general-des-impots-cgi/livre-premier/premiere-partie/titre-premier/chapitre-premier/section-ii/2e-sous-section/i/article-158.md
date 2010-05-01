@@ -52,17 +52,15 @@ Dans le cas des entreprises industrielles, commerciales, artisanales ou agricole
 
 5. a. Les revenus provenant de traitements publics et privés, indemnités, émoluments, salaires et pensions ainsi que de rentes viagères autres que celles mentionnées au 6 sont déterminés conformément aux dispositions des articles 79 à 90.
 
-Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut excéder 3 491 euros. Ce plafond s'applique au montant total des pensions et retraites perçues par l'ensemble des membres du foyer fiscal. Chaque année, il est révisé selon les mêmes modalités que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
+Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut excéder 3 606 €. Ce plafond s'applique au montant total des pensions et retraites perçues par l'ensemble des membres du foyer fiscal. Chaque année, il est révisé selon les mêmes modalités que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
-L'abattement indiqué au deuxième alinéa ne peut être inférieur à 357 euros, sans pouvoir excéder le montant brut des pensions et retraites. Cette disposition s'applique au montant des pensions ou retraites perçu par chaque retraité ou pensionné membre du foyer fiscal. La somme de 357 euros est révisée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
+L'abattement indiqué au deuxième alinéa ne peut être inférieur à 368 €, sans pouvoir excéder le montant brut des pensions et retraites. Cette disposition s'applique au montant des pensions ou retraites perçu par chaque retraité ou pensionné membre du foyer fiscal. La somme de 368 € est révisée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
 b. Les dispositions du a sont applicables aux allocations mentionnées aux articles L. 3232-6, L. 5122-1, L. 5122-2, L. 5123-2, L. 5422-1, L. 5423-1 et L. 5423-8 du code du travail, aux participations en espèces et, à compter du 1er janvier 1991, aux dividendes des actions de travail, alloués aux travailleurs mentionnés au 18° bis de l'article 81, lorsque ces sommes sont imposables.
 
 Sous réserve de l'exonération prévue à l'article 163 bis AA, les dispositions du a sont également applicables aux sommes revenant aux salariés au titre de la participation aux résultats de l'entreprise en application du titre II du livre III de la troisième partie du code du travail.
 
 b bis. Les dispositions du a sont applicables aux prestations servies sous forme de rentes ou pour perte d'emploi subie, au titre des contrats d'assurance groupe ou des régimes mentionnés au deuxième alinéa du I de l'article 154 bis.
-
-Les dispositions du a sont également applicables aux prestations servies sous forme de rentes au titre des contrats d'assurance de groupe visés au premier alinéa du I de l'article 154 bis-0 A.
 
 b ter. (abrogé à compter de la date d'entrée en vigueur de la loi n° 2002-73 du 17 janvier 2002) ;
 
@@ -80,13 +78,13 @@ Les dispositions des deux alinéas précédents sont également applicables pour
 
 6. Les rentes viagères constituées à titre onéreux ne sont considérées comme un revenu, pour l'application de l'impôt sur le revenu dû par le crédirentier, que pour une fraction de leur montant. Cette fraction, déterminée d'après l'âge du crédirentier lors de l'entrée en jouissance de la rente, est fixée à :
 
--à 70 % si l'intéressé est âgé de moins de 50 ans ;
+- 70 % si l'intéressé est âgé de moins de 50 ans ;
 
--à 50 % s'il est âgé de 50 à 59 ans inclus ;
+- 50 % s'il est âgé de 50 à 59 ans inclus ;
 
--à 40 % s'il est âgé de 60 à 69 ans inclus ;
+- 40 % s'il est âgé de 60 à 69 ans inclus ;
 
--à 30 % s'il est âgé de plus de 69 ans.
+- 30 % s'il est âgé de plus de 69 ans.
 
 La fraction de rentes viagères définie ci-dessus est imposée dans les mêmes conditions que les revenus énumérés à l'article 124.
 

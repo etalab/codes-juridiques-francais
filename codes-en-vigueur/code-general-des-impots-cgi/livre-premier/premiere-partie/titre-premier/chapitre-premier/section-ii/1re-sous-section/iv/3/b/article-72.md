@@ -1,6 +1,6 @@
 # Article 72
 
-I. Sous réserve de l'application des articles 71 et 72 A à 73 D, le bénéfice réel de l'exploitation agricole est déterminé et imposé selon les principes généraux applicables aux entreprises industrielles et commerciales, conformément à toutes les dispositions législatives et à leurs textes d'application, sans restriction ni réserve notamment de vocabulaire, applicables aux industriels ou commerçants ayant opté pour le régime réel mais avec des règles et modalités adaptées aux contraintes et caractéristiques particulières de la production agricole, et de leur incidence sur la gestion, qui sont notamment :
+I. Sous réserve de l'application des articles 71 et 72 A à 73 E, le bénéfice réel de l'exploitation agricole est déterminé et imposé selon les principes généraux applicables aux entreprises industrielles et commerciales, conformément à toutes les dispositions législatives et à leurs textes d'application, sans restriction ni réserve notamment de vocabulaire, applicables aux industriels ou commerçants ayant opté pour le régime réel mais avec des règles et modalités adaptées aux contraintes et caractéristiques particulières de la production agricole, et de leur incidence sur la gestion, qui sont notamment :
 
 Le faible niveau du chiffre d'affaires par rapport au capital investi, ce qui se traduit par une lente rotation des capitaux ;
 

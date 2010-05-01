@@ -2,7 +2,7 @@
 
 Pour l'application du 2° du II de l'article 1605 :
 
-1° La  contribution à l'audiovisuel public est due pour chaque appareil récepteur de télévision ou dispositif assimilé permettant la réception de la télévision détenu au 1er janvier de l'année au cours de laquelle la contribution à l'audiovisuel public est due. Toutefois :
+1° La contribution à l'audiovisuel public est due pour chaque appareil récepteur de télévision ou dispositif assimilé permettant la réception de la télévision détenu au 1er janvier de l'année au cours de laquelle la contribution à l'audiovisuel public est due. Toutefois :
 
 a. Un abattement est appliqué au taux de 30 % sur la contribution à l'audiovisuel public due pour chacun des points de vision à partir du troisième et jusqu'au trentième, puis de 35 % sur la contribution à l'audiovisuel public due pour chacun des points de vision à partir du trente et unième. Ce décompte est opéré par établissement ;
 
@@ -58,7 +58,7 @@ Le paiement de la contribution à l'audiovisuel public est effectué au plus tar
 
 6° Les personnes physiques ou morales mentionnées au 2° du II de l'article 1605 et non redevables de la taxe sur la valeur ajoutée déclarent et acquittent la contribution à l'audiovisuel public auprès du service chargé du recouvrement dont relève leur siège ou principal établissement en utilisant l'annexe à la déclaration prévue au 1 de l'article 287, au plus tard le 25 avril de l'année au cours de laquelle la contribution à l'audiovisuel public est due ;
 
-7° a. Lorsqu'une contribution à l'audiovisuel public était due en 2004, elle est acquittée annuellement et d'avance, en une seule fois et par période de douze mois. Cette période est décomptée à partir de la date anniversaire du premier jour de la période au titre de laquelle elle était due en 2004.
+7° a. Lorsqu'une redevance audiovisuelle était due en 2004, elle est acquittée annuellement et d'avance, en une seule fois et par période de douze mois. Cette période est décomptée à partir de la date anniversaire du premier jour de la période au titre de laquelle elle était due en 2004.
 
 b. La contribution à l'audiovisuel public n'est pas due pour les périodes de douze mois s'ouvrant postérieurement à la cessation définitive de l'activité. Cette disposition n'est pas applicable aux opérations de fusion définies au 1° du I de l'article 210-0 A ;
 

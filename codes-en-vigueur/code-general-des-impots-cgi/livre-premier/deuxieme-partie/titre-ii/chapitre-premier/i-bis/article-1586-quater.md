@@ -26,7 +26,7 @@ II.-Le montant du dégrèvement est majoré de 1 000 euros pour les entreprises 
 
 III.-En cas d'apport, de cession d'activité ou de scission d'entreprise réalisés à compter du 22 octobre 2009, le chiffre d'affaires à retenir pour l'application du I est égal à la somme des chiffres d'affaires des redevables parties à l'opération lorsque l'entité à laquelle l'activité est transmise est détenue, directement ou indirectement, à plus de 50 % par l'entreprise cédante, apporteuse ou scindée ou par une entreprise qui détient cette dernière ou une de ses filiales, et ce dans les mêmes proportions, tant que les conditions suivantes sont simultanément remplies :
 
--la somme des cotisations dues minorées des dégrèvements prévus au présent article, d'une part, par l'entreprise cédante, apporteuse ou scindée et, d'autre part, par le nouvel exploitant est inférieure, sans application de l'alinéa précédent, d'au moins 10 % aux impositions au titre de la cotisation sur la valeur ajoutée des entreprises qui auraient été dues par ces mêmes redevables en l'absence de réalisation de l'opération, minorées des dégrèvements prévus au présent article ;
+-la somme des cotisations dues minorées des dégrèvements prévus au présent article, d'une part, par l'entreprise cédante, apporteuse ou scindée et, d'autre part, par le nouvel exploitant est inférieure, sans application du premier alinéa, d'au moins 10 % aux impositions au titre de la cotisation sur la valeur ajoutée des entreprises qui auraient été dues par ces mêmes redevables en l'absence de réalisation de l'opération, minorées des dégrèvements prévus au présent article ;
 
 -l'activité continue d'être exercée par ces derniers ou par une ou plusieurs de leurs filiales ;
 

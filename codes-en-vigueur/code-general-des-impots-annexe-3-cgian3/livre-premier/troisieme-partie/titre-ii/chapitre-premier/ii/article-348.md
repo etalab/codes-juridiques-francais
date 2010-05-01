@@ -6,7 +6,7 @@ Lorsqu'en matière de taxes sur le chiffre d'affaires, la commission est saisie 
 
 2. Les secrétaires et secrétaires adjoints agissent pour ordre et par délégation du président de la commission.
 
-II. - 1. Lorsque la commission est appelée à connaître des matières prévues aux articles 1651 A et 1651 C, le secrétaire de la commission informe le contribuable qu'il peut demander que l'un des représentants des contribuables soit désigné par une organisation ou un organisme professionnel de son choix. Le contribuable dispose alors d'un délai de trente jours pour faire connaître sa réponse.
+II. - 1. Lorsque la commission est appelée à connaître des matières prévues aux articles 1651 A et 1651 C du code général des impôts, le secrétaire de la commission informe le contribuable qu'il peut demander que l'un des représentants des contribuables soit désigné par une organisation ou un organisme professionnel de son choix. Le contribuable dispose alors d'un délai de trente jours pour faire connaître sa réponse.
 
 Lorsque le contribuable est à la fois inscrit au répertoire des métiers et immatriculé au registre du commerce et des sociétés, il est invité par le secrétaire de la commission à faire connaître son activité principale dans un délai de trente jours à compter de la réception de la demande. Les représentants des contribuables correspondant à l'activité principale exercée par l'intéressé sont appelés à siéger.
 
