@@ -1,6 +1,6 @@
 # Article L224-9
 
-Les deniers des pupilles de l'Etat sont confiés au trésorier-payeur général.
+Les deniers des pupilles de l'Etat sont confiés au directeur départemental des finances publiques.
 
 Le tuteur peut autoriser, au profit du pupille, le retrait de tout ou partie des fonds lui appartenant.
 

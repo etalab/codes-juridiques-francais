@@ -2,7 +2,7 @@
 
 I.-Sont qualifiés pour procéder dans l'exercice de leurs fonctions à la recherche et à la constatation des infractions au présent livre :
 
-1° Les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes, de la direction générale des douanes et de la direction générale des impôts ;
+1° Les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes, de la direction générale des douanes et de la direction générale des finances publiques ;
 
 2° Les inspecteurs du travail ;
 

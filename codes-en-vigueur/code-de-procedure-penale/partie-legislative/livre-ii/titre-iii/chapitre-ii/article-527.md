@@ -10,4 +10,4 @@ A défaut de paiement ou d'opposition dans le délai ci-dessus, l'amende et le d
 
 Toutefois, s'il ne résulte pas de l'avis de réception que le prévenu a reçu la lettre de notification, l'opposition reste recevable jusqu'à l'expiration d'un délai de trente jours qui courent de la date à laquelle l'intéressé a eu connaissance, d'une part, de la condamnation, soit par un acte d'exécution, soit par tout autre moyen, d'autre part, du délai et des formes de l'opposition qui lui est ouverte.
 
-Le comptable du Trésor arrête le recouvrement dès réception de l'avis d'opposition à l'ordonnance pénale établi par le greffe.
+Le comptable public compétent arrête le recouvrement dès réception de l'avis d'opposition à l'ordonnance pénale établi par le greffe.

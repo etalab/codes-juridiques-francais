@@ -1,6 +1,6 @@
 # Article L283 B
 
-Le recouvrement des créances mentionnées à l'article L. 283 A est confié, selon la nature de la créance, aux comptables du Trésor, des impôts ou des douanes compétents en application du présent code.
+Le recouvrement des créances mentionnées à l'article L. 283 A est confié, selon la nature de la créance, aux comptables publics ou des douanes compétents en application du présent code.
 
 L'administration compétente donne suite à la demande d'assistance au recouvrement d'un Etat membre de la Communauté européenne dès lors que :
 

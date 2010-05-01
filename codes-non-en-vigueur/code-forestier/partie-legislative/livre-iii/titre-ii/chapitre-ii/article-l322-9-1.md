@@ -16,4 +16,4 @@ III. - Le taux de l'astreinte, tel qu'il a été fixé par la décision d'ajourn
 
 Pour la liquidation de l'astreinte, la juridiction apprécie l'inexécution, ou le retard dans l'exécution des travaux, en tenant compte, s'il y a lieu, de la survenance des événements qui ne sont pas imputables au prévenu.
 
-L'astreinte est recouvrée par le comptable du Trésor comme en matière pénale au vu d'un extrait de la décision prononcée par le tribunal. Son montant est versé au budget de la commune du lieu de l'infraction et est affecté au financement de travaux de débroussaillement obligatoire exécutés d'office en application de l'article L. 322-4. L'astreinte ne donne pas lieu à la contrainte judiciaire.
+L'astreinte est recouvrée par le comptable public compétent comme en matière pénale au vu d'un extrait de la décision prononcée par le tribunal. Son montant est versé au budget de la commune du lieu de l'infraction et est affecté au financement de travaux de débroussaillement obligatoire exécutés d'office en application de l'article L. 322-4. L'astreinte ne donne pas lieu à la contrainte judiciaire.

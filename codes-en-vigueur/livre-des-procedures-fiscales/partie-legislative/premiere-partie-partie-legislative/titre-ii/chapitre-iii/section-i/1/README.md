@@ -3,7 +3,6 @@
 - [Article L104](article-l104.md)
 - [Article L105](article-l105.md)
 - [Article L106](article-l106.md)
-- [Article L107](article-l107.md)
 - [Article L107 A](article-l107-a.md)
 - [Article L108](article-l108.md)
 - [Article L109](article-l109.md)

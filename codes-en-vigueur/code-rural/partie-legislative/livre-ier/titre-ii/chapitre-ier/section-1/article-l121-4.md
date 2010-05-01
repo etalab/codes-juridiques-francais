@@ -14,7 +14,7 @@ La commission intercommunale comprend également :
 
 4° Deux fonctionnaires désignés par le président du conseil général ;
 
-5° Un délégué du directeur des services fiscaux ;
+5° Un délégué du directeur départemental des finances publiques ;
 
 6° Un représentant du président du conseil général désigné par le président de cette assemblée.
 

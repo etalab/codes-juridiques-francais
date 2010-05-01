@@ -4,7 +4,7 @@ I.-Lorsque la location est consentie par une personne morale ou un organisme dev
 
 II.-La contribution est déclarée, contrôlée et recouvrée selon les mêmes règles et sous les mêmes garanties et sanctions qu'en matière d'impôt sur les sociétés.
 
-III.-La contribution est payée spontanément au comptable de la direction générale des impôts, au plus tard à la date prévue au 2 de l'article 1668.
+III.-La contribution est payée spontanément au comptable public compétent, au plus tard à la date prévue au 2 de l'article 1668.
 
 Elle donne lieu au préalable, à la date prévue pour le paiement du dernier acompte d'impôt sur les sociétés de l'exercice ou de la période d'imposition, à un acompte égal à 2, 5 % des recettes nettes définies à l'article 29 qui ont été perçues au cours de l'exercice précédent.
 

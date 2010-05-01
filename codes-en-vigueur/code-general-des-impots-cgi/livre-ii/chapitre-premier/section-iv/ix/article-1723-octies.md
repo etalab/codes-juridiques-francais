@@ -2,7 +2,7 @@
 
 Conformément à l'article L. 333-2 du code de l'urbanisme modifié par l'article 118 de la loi n° 89-935 du 29 décembre 1989 modifiée, le montant du versement pour dépassement du plafond légal de densité, défini à l'article L. 112-2 du même code, est dû par le bénéficiaire de l'autorisation de construire. Ce versement peut être mis à la charge du lotisseur ou de l'association foncière urbaine de remembrement (2). En cas de désaccord sur la valeur du terrain, il est provisoirement arrêté, puis mis en recouvrement sur la base de l'estimation administrative. Lorsqu'il n'excède pas 12 euros le versement n'est pas mis en recouvrement.
 
-Il doit être payé au comptable du Trésor de la situation des biens en deux fractions égales ou en un versement unique lorsque le montant dû n'excède pas 305 euros.
+Il doit être payé au comptable public de la situation des biens en deux fractions égales ou en un versement unique lorsque le montant dû n'excède pas 305 euros.
 
 Le paiement de la première fraction ou le versement unique est exigible à l'expiration d'un délai de dix-huit mois à compter de la date de délivrance du permis de construire ou de la date à laquelle l'autorisation de construire est réputée avoir été tacitement accordée et celui de la seconde fraction à l'expiration d'un délai de trente-six mois à compter de cette même date.
 

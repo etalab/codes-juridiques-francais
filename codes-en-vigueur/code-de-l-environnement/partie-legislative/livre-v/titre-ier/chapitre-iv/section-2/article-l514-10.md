@@ -20,4 +20,4 @@ IV. - Le taux de l'astreinte, tel qu'il a été fixé par la décision d'ajourne
 
 Pour la liquidation de l'astreinte, la juridiction apprécie l'inexécution ou le retard dans l'exécution des prescriptions en tenant compte, s'il y a lieu, de la survenance des événements qui ne sont pas imputables au prévenu.
 
-L'astreinte est recouvrée par le comptable du Trésor comme une amende pénale ; elle ne donne pas lieu à contrainte judiciaire.
+L'astreinte est recouvrée par le comptable public compétent comme une amende pénale ; elle ne donne pas lieu à contrainte judiciaire.

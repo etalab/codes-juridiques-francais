@@ -1,6 +1,6 @@
 # Article 1652
 
-1. Il est institué au ministère de l'économie et des finances une commission centrale permanente compétente pour fixer les éléments à retenir pour le calcul du bénéfice agricole forfaitaire lorsque ces éléments n'ont pas été fixés par la commission prévue à l'article 1651 ou lorsque les présidents des fédérations départementales des syndicats d'exploitants agricoles ou le directeur des services fiscaux ont fait appel de la décision de cette commission.
+1. Il est institué au ministère chargé du budget une commission centrale permanente compétente pour fixer les éléments à retenir pour le calcul du bénéfice agricole forfaitaire lorsque ces éléments n'ont pas été fixés par la commission prévue à l'article 1651 ou lorsque les présidents des fédérations départementales des syndicats d'exploitants agricoles ou le directeur départemental des finances publiques ont fait appel de la décision de cette commission.
 
 2. Cette commission est composée de trois magistrats en activité ou honoraires :
 
@@ -14,7 +14,7 @@ En cas d'absence ou d'empêchement, ces magistrats sont remplacés par des suppl
 
 Assistent également aux séances de la commission avec voix consultative :
 
-Deux hauts fonctionnaires de la direction générale des impôts désignés par le ministre de l'économie et des finances ;
+Deux hauts fonctionnaires de la direction générale des finances publiques désignés par le ministre chargé du budget ;
 
 Un haut fonctionnaire de l'administration de l'agriculture, désigné par le ministre de l'agriculture ;
 
