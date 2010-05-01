@@ -4,7 +4,7 @@ L'organisme du régime général de sécurité sociale chargé du recouvrement d
 
 La Caisse centrale de la mutualité sociale agricole communique à l'administration fiscale, dans les conditions prévues au premier alinéa, les déclarations de salaires relevant du titre emploi simplifié agricole prévu à l'article L. 712-1 du code rural.
 
-L'organisme habilité mentionné au premier alinéa de l'article L. 7122-23 du code du travail communique à l'administration fiscale, dans les conditions prévues au premier alinéa du présent article, les déclarations prévues par l'article R. 7122-29 du même code.
+L'organisme habilité mentionné au premier alinéa de l'article L. 7122-23 du code du travail communique à l'administration fiscale, dans les conditions prévues au premier alinéa, les déclarations prévues par l'article R. 7122-29 du même code.
 
 La communication prévue aux trois alinéas précédents peut être faite par voie électronique.
 

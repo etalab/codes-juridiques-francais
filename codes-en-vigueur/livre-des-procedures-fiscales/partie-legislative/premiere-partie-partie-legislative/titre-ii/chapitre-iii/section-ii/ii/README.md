@@ -24,7 +24,6 @@
 - [Article L133](article-l133.md)
 - [Article L134](article-l134.md)
 - [Article L134 A](article-l134-a.md)
-- [Article L134 B](article-l134-b.md)
 - [Article L135](article-l135.md)
 - [Article L135 I](article-l135-i.md)
 - [Article L135 V](article-l135-v.md)
@@ -46,3 +45,4 @@
 - [Article L135 R](article-l135-r.md)
 - [Article L135 S](article-l135-s.md)
 - [Article L135 T](article-l135-t.md)
+- [Article L135 W](article-l135-w.md)

@@ -4,7 +4,7 @@ L'administration adresse au contribuable une proposition de rectification qui do
 
 Sur demande du contribuable reçue par l'administration avant l'expiration du délai mentionné à l'article L. 11, ce délai est prorogé de trente jours.
 
-En cas d'application des dispositions de l'article L. 47 A, l'administration précise au contribuable la nature des traitements effectués.
+En cas d'application des dispositions du II de l'article L. 47 A, l'administration précise au contribuable la nature des traitements effectués.
 
 Lorsque, pour rectifier le prix ou l'évaluation d'un fonds de commerce ou d'une clientèle, en application de l'article L. 17, l'administration se fonde sur la comparaison avec la cession d'autres biens, l'obligation de motivation en fait est remplie par l'indication :
 
@@ -14,6 +14,6 @@ Lorsque, pour rectifier le prix ou l'évaluation d'un fonds de commerce ou d'une
 
 3° De la nature des activités exercées ;
 
-4° Et des prix de cession, chiffres d'affaires ou bénéfices, si ces informations sont soumises à une obligation de publicité ou, dans le cas contraire, des moyennes de ces données chiffrées concernant les entreprises pour lesquelles sont fournis les éléments mentionnés aux 1°,2° et 3°.
+4° Et des prix de cession, chiffres d'affaires ou bénéfices, si ces informations sont soumises à une obligation de publicité ou, dans le cas contraire, des moyennes de ces données chiffrées concernant les entreprises pour lesquelles sont fournis les éléments mentionnés aux 1°, 2° et 3°.
 
 Lorsque l'administration rejette les observations du contribuable sa réponse doit également être motivée.
