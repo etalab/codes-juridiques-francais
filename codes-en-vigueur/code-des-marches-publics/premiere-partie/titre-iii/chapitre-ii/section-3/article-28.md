@@ -8,4 +8,4 @@ Pour la détermination de ces modalités, le pouvoir adjudicateur peut s'inspire
 
 Quel que soit son choix, le pouvoir adjudicateur ne peut exiger des opérateurs économiques plus de renseignements ou de documents que ceux prévus pour les procédures formalisées par les articles 45, 46 et 48.
 
-Le pouvoir adjudicateur peut décider que le marché sera passé sans publicité ni mise en concurrence préalables si les circonstances le justifient, ou si son montant estimé est inférieur à 20 000 Euros HT, ou dans les situations décrites au II de l'article 35.
+Le pouvoir adjudicateur peut décider que le marché sera passé sans publicité ni mise en concurrence préalables si les circonstances le justifient, ou si son montant estimé est inférieur à 4 000 euros HT (1), ou dans les situations décrites au II de l'article 35.
