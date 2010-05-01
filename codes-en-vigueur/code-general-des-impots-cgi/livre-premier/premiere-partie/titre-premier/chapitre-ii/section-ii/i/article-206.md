@@ -2,7 +2,7 @@
 
 1. Sous réserve des dispositions des articles 8 ter, 239 bis AA, 239 bis AB et 1655 ter, sont passibles de l'impôt sur les sociétés, quel que soit leur objet, les sociétés anonymes, les sociétés en commandite par actions, les sociétés à responsabilité limitée n'ayant pas opté pour le régime fiscal des sociétés de personnes dans les conditions prévues au IV de l'article 3 du décret n° 55-594 du 20 mai 1955 modifié, les sociétés coopératives et leurs unions ainsi que, sous réserve des dispositions des 6° et 6° bis du 1 de l'article 207, les établissements publics, les organismes de l'Etat jouissant de l'autonomie financière, les organismes des départements et des communes et toutes autres personnes morales se livrant à une exploitation ou à des opérations de caractère lucratif.
 
-1 bis. Toutefois, ne sont pas passibles de l'impôt sur les sociétés prévu au 1 les associations régies par la loi du 1er juillet 1901, les associations régies par la loi locale maintenue en vigueur dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin, les syndicats régis par les articles L. 2131-1 à L. 2136-2 du code du travail, les fondations reconnues d'utilité publique, les fondations d'entreprise, les fonds de dotation et les congrégations, dont la gestion est désintéressée, lorsque leurs activités non lucratives restent significativement prépondérantes et le montant de leurs recettes d'exploitation encaissées au cours de l'année civile au titre de leurs activités lucratives n'excède pas 60 000 euros. Sont réputées lucratives les activités de gestion et de capitalisation, par les fonds de dotation, de dons, droits et legs dont les fruits sont versés à des organismes autres que ceux mentionnés au présent alinéa ou à des organismes publics pour l'exercice d'activités lucratives.
+1 bis. Toutefois, ne sont pas passibles de l'impôt sur les sociétés prévu au 1 les associations régies par la loi du 1er juillet 1901, les associations régies par la loi locale maintenue en vigueur dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin, les syndicats régis par les articles L. 2131-1 à L. 2136-2 du code du travail, les fondations reconnues d'utilité publique, les fondations d'entreprise, les fonds de dotation et les congrégations, dont la gestion est désintéressée, lorsque leurs activités non lucratives restent significativement prépondérantes et le montant de leurs recettes d'exploitation encaissées au cours de l'année civile au titre de leurs activités lucratives n'excède pas 60 000 €. Sont réputées lucratives les activités de gestion et de capitalisation, par les fonds de dotation, de dons, droits et legs dont les fruits sont versés à des organismes autres que ceux mentionnés au présent alinéa ou à des organismes publics pour l'exercice d'activités lucratives.
 
 Les organismes mentionnés au premier alinéa deviennent passibles de l'impôt sur les sociétés prévu au 1 à compter du 1er janvier de l'année au cours de laquelle l'une des trois conditions prévues à l'alinéa précité n'est plus remplie.
 
@@ -44,7 +44,7 @@ a. Les revenus de la location des immeubles bâtis et non bâtis dont ils sont p
 
 b. Les revenus de l'exploitation des propriétés agricoles ou forestières ;
 
-c. Des revenus de capitaux mobiliers dont ils disposent, lorsque ces revenus n'entrent pas dans le champ d'application de la retenue à la source visée à l'article 119 bis ; ces revenus sont comptés dans le revenu imposable pour leur montant brut ;
+c. les revenus de capitaux mobiliers dont ils disposent, lorsque ces revenus n'entrent pas dans le champ d'application de la retenue à la source visée à l'article 119 bis ; ces revenus sont comptés dans le revenu imposable pour leur montant brut ;
 
 d. (Abrogé à compter des exercices clos à compter du 31 décembre 2009) ;
 
@@ -54,7 +54,7 @@ e. (Abrogé à compter des exercices clos à compter du 31 décembre 2009).
 
 5 ter. (Transféré au VIII de l'article 209)
 
-6. 1° L'organe central du crédit agricole, les caisses régionales de crédit agricole mutuel mentionnées à l'article L. 512-21 du code monétaire et financier et les caisses locales de crédit agricole mutuel affiliées à ces dernières sont assujetties à l'impôt sur les sociétés dans les conditions de droit commun.
+6.1° L'organe central du crédit agricole, les caisses régionales de crédit agricole mutuel mentionnées à l'article L. 512-21 du code monétaire et financier et les caisses locales de crédit agricole mutuel affiliées à ces dernières sont assujetties à l'impôt sur les sociétés dans les conditions de droit commun.
 
 2° Lorsqu'elles n'exercent aucune activité bancaire pour leur propre compte ou aucune activité rémunérée d'intermédiaire financier, les caisses locales mentionnées au 1° sont redevables de l'impôt sur les sociétés dans les conditions prévues au 5 et à l'article 219 bis.
 
