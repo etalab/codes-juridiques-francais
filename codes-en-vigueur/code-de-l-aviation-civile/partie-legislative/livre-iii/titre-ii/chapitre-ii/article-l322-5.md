@@ -6,4 +6,4 @@ Lorsque l'auteur de l'un des délits mentionnés à l'alinéa précédent se tro
 
 La décision imposant le paiement d'une consignation est prise par le procureur de la République, qui est tenu de statuer dans le délai de la garde à vue si la personne fait l'objet de cette mesure ou, à défaut, dans un délai de quatre heures à compter soit de la constatation du délit si celui-ci a été commis dans un lieu destiné à l'accès à un aéronef, soit de l'arrivée des passagers si le délit a été commis dans un aéronef.
 
-La consignation est versée à un comptable du Trésor ou à un agent visé à l'article L. 330-10 porteur d'un carnet de quittances à souche.
+La consignation est versée au comptable public compétent ou à un agent visé à l'article L. 330-10 porteur d'un carnet de quittances à souche.
