@@ -14,8 +14,6 @@ L'entreprise déclare chaque année les éléments entrant dans le champ d'appli
 
 L'exonération cesse pour la période restant à courir lorsqu'au cours de cette période l'entreprise ne remplit plus les conditions exigées pour l'obtention de cette exonération.
 
-Pour l'application du présent article, les délibérations prises par les conseils municipaux s'appliquent aux impositions perçues au profit des groupements de communes autres que les communautés urbaines en ce qui concerne les décentralisations, extensions, créations, reconversions d'activité ou reprises d'établissements en difficulté réalisées avant le 1er janvier 1991. Les délibérations instituant l'exonération prises en 1995 par les collectivités locales et leurs groupements dotés d'une fiscalité propre s'appliquent aux opérations réalisées à compter du 1er janvier 1995.
-
 Lorsque tout ou partie de la part communale de la cotisation foncière des entreprises acquittée par les entreprises implantées sur une zone d'activités économiques créée ou gérée par un groupement de communes est affectée à ce groupement en vertu de l'article 11 modifié de la loi n° 80-10 du 10 janvier 1980 portant aménagement de la fiscalité directe locale, celui-ci est substitué à la commune pour l'application du présent article.
 
 Nonobstant les dispositions de l'article L174 du livre des procédures fiscales, toute entreprise qui cesse volontairement son activité pendant une période d'exonération prévue au présent article, ou dans les cinq années suivant la fin de celle-ci, est tenue de verser les sommes qu'elle n'a pas acquittées au titre de la cotisation foncière des entreprises.

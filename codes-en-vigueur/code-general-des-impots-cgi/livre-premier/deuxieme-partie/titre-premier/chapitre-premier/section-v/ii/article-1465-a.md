@@ -18,9 +18,7 @@ Les zones de revitalisation rurale comprennent également les communes appartena
 
 La modification du périmètre de l'établissement public de coopération intercommunale en cours d'année n'emporte d'effet, le cas échéant, qu'à compter du 1er janvier de l'année suivante.
 
-Les communes classées en zone de revitalisation rurale antérieurement à la promulgation de la loi n° 2005-157 du 23 février 2005 relative au développement des territoires ruraux, restent classées en zone de revitalisation rurale jusqu'au 31 décembre 2008.
-
-Les dispositions des cinquième, sixième, septième et dixième alinéas de l'article 1465 sont applicables aux exonérations prévues au premier alinéa du I. Toutefois, pour l'application du dizième alinéa de l'article 1465, l'imposition est établie au profit de l'Etat.
+Les dispositions des cinquième, sixième, septième et neuvième alinéas de l'article 1465 sont applicables aux exonérations prévues au premier alinéa du I. Toutefois, pour l'application du neuvième alinéa de l'article 1465, l'imposition est établie au profit de l'Etat.
 
 III.-Un décret en Conseil d'Etat précise les conditions d'application du II et en particulier les critères et seuils visant à déterminer le périmètre des zones de revitalisation rurale.
 
