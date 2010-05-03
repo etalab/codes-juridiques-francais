@@ -10,202 +10,257 @@ LISTE DES ZONES MENTIONNÉES À L'ARTICLE D. 310-15-3
 <tbody>
 <tr>
 <th>
-<br/>DÉPARTEMENTS <br/>
+<br/>DÉPARTEMENTS<br/>
 </th>
 <th>
-<br/>APPLICATION TERRITORIALE <br/>
+<br/>APPLICATION TERRITORIALE<br/>
 </th>
 <th>
-<br/>DATES DE DÉBUT <p>des périodes de soldes <br/>
-</p>
+<br/>DATES DE DÉBUT DES PÉRIODES DE SOLDES<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Alpes-Maritimes (06) <br/>
+<p align="center">Alpes-de-Haute-Provence (04)</p>
 </td>
 <td align="center">
-<br/>Tout le département <br/>
+<p align="left">Tout le département</p>
 </td>
 <td align="center">
-<br/>Soldes d'été : deuxième mercredi du mois de juillet <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Corse-du-Sud (2A) <br/>
-</td>
-<td align="center">
-<br/>Tout le département <br/>
-</td>
-<td align="center">
-<br/>Soldes d'été : deuxième mercredi du mois de juillet <br/>
+<p align="left">Soldes d'été : premier mercredi du mois de juillet</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Haute-Corse (2B) <br/>
+<p align="center">Hautes-Alpes (05)</p>
 </td>
 <td align="center">
-<br/>Tout le département <br/>
+<p align="left">Tout le département</p>
 </td>
 <td align="center">
-<br/>Soldes d'été : deuxième mercredi du mois de juillet <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Landes (40) <br/>
-</td>
-<td align="center">
-<br/>Tout le département <br/>
-</td>
-<td align="center">
-<br/>Soldes d'hiver : premier mercredi du mois de janvier <br/>
+<p align="left">Soldes d'été : premier mercredi du mois de juillet</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Meurthe-et-Moselle (54) <br/>
+<p align="center">Alpes-Maritimes (06)</p>
 </td>
 <td align="center">
-<br/>Tout le département <br/>
+<p align="left">Tout le département</p>
 </td>
 <td align="center">
-<br/>Soldes d'hiver : premier jour ouvré du mois de janvier <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Meuse (55) <br/>
-</td>
-<td align="center">
-<br/>Tout le département <br/>
-</td>
-<td align="center">
-<br/>Soldes d'hiver : premier jour ouvré du mois de janvier <br/>
+<p align="left">Soldes d'été : premier mercredi du mois de juillet</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Moselle (57) <br/>
+<p align="center">Bouches-du-Rhône (13)</p>
 </td>
 <td align="center">
-<br/>Tout le département <br/>
+<p align="left">Tout le département</p>
 </td>
 <td align="center">
-<br/>Soldes d'hiver : premier jour ouvré du mois de janvier <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Pyrénées-Atlantiques (64) <br/>
-</td>
-<td align="center">
-<br/>Tout le département <br/>
-</td>
-<td align="center">
-<br/>Soldes d'hiver : premier mercredi du mois de janvier <br/>
+<p align="left">Soldes d'été : premier mercredi du mois de juillet</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Vosges (88) <br/>
+<p align="center">Corse-du-Sud (2A)</p>
 </td>
 <td align="center">
-<br/>Tout le département <br/>
+<p align="left">Tout le département</p>
 </td>
 <td align="center">
-<br/>Soldes d'hiver : premier jour ouvré du mois de janvier <br/>
+<p align="left">Soldes d'été : deuxième mercredi du mois de juillet</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Guadeloupe (971) <br/>
+<p align="center">Haute-Corse (2B)</p>
 </td>
-<td align="center"/>
 <td align="center">
-<br/>Soldes d'hiver : premier samedi de janvier <p>Soldes d'été : dernier samedi de septembre <br/>
+<p align="left">Tout le département</p>
+</td>
+<td align="center">
+<p align="left">Soldes d'été : deuxième mercredi du mois de juillet</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Landes (40)</p>
+</td>
+<td align="center">
+<p align="left">Tout le département</p>
+</td>
+<td align="center">
+<p align="left">Soldes d'hiver : premier mercredi du mois de janvier</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Meurthe-et-Moselle (54)</p>
+</td>
+<td align="center">
+<p align="left">Tout le département</p>
+</td>
+<td align="center">
+<p align="left">Soldes d'hiver : premier jour ouvré du mois de janvier</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Meuse (55)</p>
+</td>
+<td align="center">
+<p align="left">Tout le département</p>
+</td>
+<td align="center">
+<p align="left">Soldes d'hiver : premier jour ouvré du mois de janvier</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Moselle (57)</p>
+</td>
+<td align="center">
+<p align="left">Tout le département</p>
+</td>
+<td align="center">
+<p align="left">Soldes d'hiver : premier jour ouvré du mois de janvier</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Pyrénées-Atlantiques (64)</p>
+</td>
+<td align="center">
+<p align="left">Tout le département</p>
+</td>
+<td align="center">
+<p align="left">Soldes d'hiver : premier mercredi du mois de janvier</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Var (83)</p>
+</td>
+<td align="center">
+<p align="left">Tout le département</p>
+</td>
+<td align="center">
+<p align="left">Soldes d'été : premier mercredi du mois de juillet</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Vaucluse (84)</p>
+</td>
+<td align="center">
+<p align="left">Tout le département</p>
+</td>
+<td align="center">
+<p align="left">Soldes d'été : premier mercredi du mois de juillet</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Vosges (88)</p>
+</td>
+<td align="center">
+<p align="left">Tout le département</p>
+</td>
+<td align="center">
+<p align="left">Soldes d'hiver : premier jour ouvré du mois de janvier</p>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2" valign="top">
+<p align="center">Guadeloupe (971)</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>
 </p>
 </td>
-</tr>
-<tr>
-<td align="center"/>
 <td align="center">
-<br/>Saint-Barthélemy et Saint-Martin <br/>
-</td>
-<td align="center">
-<br/>Soldes d'hiver : premier samedi de mai <p>Soldes d'été : deuxième samedi d'octobre <br/>
-</p>
+<p align="left">Soldes d'hiver : premier samedi de janvier </p>
+<p align="left">Soldes d'été : dernier samedi de septembre</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Martinique (972) <br/>
+<p align="left">Saint-Barthélemy et Saint-Martin</p>
 </td>
 <td align="center">
-<br/>Tout le département <br/>
-</td>
-<td align="center">
-<br/>Soldes d'été : premier jeudi d'octobre <br/>
+<p align="left">Soldes d'hiver : premier samedi de mai </p>
+<p align="left">Soldes d'été : deuxième samedi d'octobre</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Guyane (973) <br/>
+<p align="center">Martinique (972)</p>
 </td>
 <td align="center">
-<br/>Tout le département <br/>
+<p align="left">Tout le département</p>
 </td>
 <td align="center">
-<br/>Soldes d'hiver : premier mercredi du mois de janvier <p>Soldes d'été : premier jeudi du mois d'octobre <br/>
-</p>
+<p align="left">Soldes d'été : premier jeudi d'octobre</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>La Réunion (974) <br/>
+<p align="center">Guyane (973)</p>
 </td>
 <td align="center">
-<br/>Tout le département <br/>
+<p align="left">Tout le département</p>
 </td>
 <td align="center">
-<br/>Soldes d'hiver : premier jour ouvré du mois de février <p>Soldes d'été : premier jour ouvré du mois de septembre <br/>
-</p>
+<p align="left">Soldes d'hiver : premier mercredi du mois de janvier </p>
+<p align="left">Soldes d'été : premier jeudi du mois d'octobre</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">La Réunion (974)</p>
+</td>
+<td align="center">
+<p align="left">Tout le département</p>
+</td>
+<td align="center">
+<p align="left">Soldes d'hiver : premier samedi du mois de septembre </p>
+<p align="left">Soldes d'été : premier samedi du mois de février.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
+
 <br/>
-</p>
 
 <table>
 <tbody>
 <tr>
 <th>
-<br/>COLLECTIVITÉ <p>d'outre-mer </p>
-<p>(COM) <br/>
+<br/>COLLECTIVITÉ <p>d'outre-mer</p>
+<p>(COM)<br/>
 </p>
 </th>
 <th>
-<br/>APPLICATION TERRITORIALE <br/>
+<br/>APPLICATION TERRITORIALE<br/>
 </th>
 <th>
-<br/>DATES DE DÉBUT <p>des périodes de soldes <br/>
-</p>
+<br/>DATES DE DÉBUT DES PÉRIODES DE SOLDES<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Saint-Pierre-et-Miquelon (975) <br/>
+<p align="center">Saint-Pierre-et-Miquelon (975)</p>
 </td>
 <td align="center">
-<br/>Tout le département <br/>
+<p align="left">Tout le département</p>
 </td>
 <td align="center">
-<br/>Soldes d'été : premier mercredi après le 14 juillet <p>Soldes d'hiver : premier mercredi après le 15 janvier<br/>
-</p>
+<p align="left">Soldes d'été : premier mercredi après le 14 juillet </p>
+<p align="left">Soldes d'hiver : premier mercredi après le 15 janvier</p>
 </td>
 </tr>
 </tbody>
@@ -213,7 +268,8 @@ LISTE DES ZONES MENTIONNÉES À L'ARTICLE D. 310-15-3
 
 <br/>
 
-</div>
 <br/>
+
+</div>
 
 </div>
