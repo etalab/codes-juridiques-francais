@@ -2,3 +2,4 @@
 
 - [Article L723-2](article-l723-2.md)
 - [Article L723-4-1](article-l723-4-1.md)
+- [Article L723-7](article-l723-7.md)
