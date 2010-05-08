@@ -2,3 +2,4 @@
 
 - [Chapitre II : L'identification et les déplacements des animaux](chapitre-ii)
 - [Chapitre IV : La protection des animaux](chapitre-iv)
+- [Chapitre V : Dispositions pénales.](chapitre-v)
