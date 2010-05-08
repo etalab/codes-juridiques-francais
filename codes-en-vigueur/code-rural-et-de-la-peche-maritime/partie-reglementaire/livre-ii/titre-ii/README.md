@@ -5,3 +5,4 @@
 - [Chapitre IV : Les prophylaxies organisées](chapitre-iv)
 - [Chapitre VI : Des sous-produits animaux](chapitre-vi)
 - [Chapitre VII : Pharmacie vétérinaire et réactifs](chapitre-vii)
+- [Chapitre VIII : Dispositions pénales.](chapitre-viii)
