@@ -6,3 +6,4 @@
 - [Article D731-94](article-d731-94.md)
 - [Article D731-97](article-d731-97.md)
 - [Article D731-99](article-d731-99.md)
+- [Article R731-88](article-r731-88.md)
