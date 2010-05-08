@@ -1,5 +1,6 @@
 # Chapitre III : Reproduction et amélioration génétique des animaux d'élevage
 
+- [Section 1 : Les instances consultatives](section-1)
 - [Section 3 : La gestion des ressources zoogénétiques](section-3)
 - [Section 4 : Les organismes nationaux](section-4)
 - [Section 5 : Les établissements de l'élevage](section-5)

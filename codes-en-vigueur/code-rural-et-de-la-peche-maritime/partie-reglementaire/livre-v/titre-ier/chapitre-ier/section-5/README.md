@@ -14,5 +14,6 @@
 - [Article R511-75](article-r511-75.md)
 - [Article R511-76](article-r511-76.md)
 - [Article R511-82](article-r511-82.md)
+- [Article R511-83](article-r511-83.md)
 - [Article R511-84](article-r511-84.md)
 - [Article R511-95](article-r511-95.md)
