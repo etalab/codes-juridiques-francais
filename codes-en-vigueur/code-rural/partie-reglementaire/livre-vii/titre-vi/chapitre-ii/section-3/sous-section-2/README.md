@@ -1,6 +1,5 @@
 # Sous-section 2 : Financement.
 
-- [Article D762-34](article-d762-34.md)
 - [Article D762-35](article-d762-35.md)
 - [Article D762-36](article-d762-36.md)
 - [Article D762-37](article-d762-37.md)
