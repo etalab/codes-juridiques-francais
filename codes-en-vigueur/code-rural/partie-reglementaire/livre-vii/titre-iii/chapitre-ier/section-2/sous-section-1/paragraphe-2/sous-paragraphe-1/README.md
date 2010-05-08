@@ -2,4 +2,3 @@
 
 - [Article D731-34](article-d731-34.md)
 - [Article D731-35](article-d731-35.md)
-- [Article D731-36](article-d731-36.md)
