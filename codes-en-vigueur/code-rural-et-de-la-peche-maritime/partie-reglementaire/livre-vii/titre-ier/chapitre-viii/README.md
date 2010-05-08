@@ -1,5 +1,6 @@
 # Chapitre VIII : Dispositions diverses
 
+- [Section 4 : Contrats de travail](section-4)
 - [Section 5 : Conflits collectifs](section-5)
 - [Section 6 : Formation professionnelle tout au long de la vie](section-6)
 - [Section 7 : Travailleurs à domicile](section-7)
