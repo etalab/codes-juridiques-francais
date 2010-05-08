@@ -1,10 +1,12 @@
 # Section 2 : Les animaux dangereux et errants.
 
+- [Article L211-11](article-l211-11.md)
 - [Article L211-12](article-l211-12.md)
 - [Article L211-13](article-l211-13.md)
 - [Article L211-13-1](article-l211-13-1.md)
 - [Article L211-14](article-l211-14.md)
 - [Article L211-14-1](article-l211-14-1.md)
+- [Article L211-14-2](article-l211-14-2.md)
 - [Article L211-15](article-l211-15.md)
 - [Article L211-16](article-l211-16.md)
 - [Article L211-17](article-l211-17.md)

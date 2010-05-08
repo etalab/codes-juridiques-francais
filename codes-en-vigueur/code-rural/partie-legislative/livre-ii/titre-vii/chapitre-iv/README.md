@@ -7,6 +7,5 @@
 - [Article L274-5](article-l274-5.md)
 - [Article L274-6](article-l274-6.md)
 - [Article L274-7](article-l274-7.md)
-- [Article L274-8](article-l274-8.md)
 - [Article L274-9](article-l274-9.md)
 - [Article L274-10](article-l274-10.md)
