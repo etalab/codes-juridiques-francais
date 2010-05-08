@@ -6,4 +6,5 @@
 - [Section 4 : Faute de l'assuré ou d'un tiers.](section-4)
 - [Section 5 : Organisation et financement](section-5)
 - [Section 6 : Formalités, procédure et contentieux](section-6)
+- [Section 7 : Accidents survenus ou maladies constatées avant le 1er juillet 1973.](section-7)
 - [Section 8 : Prévention](section-8)
