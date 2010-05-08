@@ -2,7 +2,10 @@
 
 - [Article L241-3](article-l241-3.md)
 - [Article L241-4](article-l241-4.md)
+- [Article L241-6](article-l241-6.md)
 - [Article L241-8](article-l241-8.md)
+- [Article L241-9](article-l241-9.md)
+- [Article L241-11](article-l241-11.md)
 - [Article L241-12](article-l241-12.md)
 - [Article L241-14](article-l241-14.md)
 - [Article L241-15](article-l241-15.md)
