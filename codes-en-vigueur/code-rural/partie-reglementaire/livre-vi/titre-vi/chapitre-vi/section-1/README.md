@@ -9,4 +9,3 @@
 - [Article D666-7](article-d666-7.md)
 - [Article D666-8](article-d666-8.md)
 - [Article D666-9](article-d666-9.md)
-- [Article D666-10](article-d666-10.md)
