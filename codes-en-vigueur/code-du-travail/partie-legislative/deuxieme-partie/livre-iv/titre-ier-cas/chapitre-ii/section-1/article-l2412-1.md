@@ -22,12 +22,12 @@ Bénéficie de la protection en cas de rupture d'un contrat à durée détermin�
 
 8° Représentant du personnel d'une entreprise extérieure, désigné au comité d'hygiène, de sécurité et des conditions de travail d'un établissement comprenant au moins une installation classée figurant sur la liste prévue au IV de l'article L. 515-8 du code de l'environnement ou mentionnée à l'article 3-1 du code minier ;
 
-9° Membre d'une commission paritaire d'hygiène, de sécurité et des conditions de travail en agriculture prévue à l'article L. 717-7 du code rural ;
+9° Membre d'une commission paritaire d'hygiène, de sécurité et des conditions de travail en agriculture prévue à l'article L. 717-7 du code rural et de la pêche maritime ;
 
 10° Salarié mandaté dans les conditions prévues à l'article L. 2232-24, dans les entreprises dépourvues de délégué syndical ;
 
 11° Membre du conseil ou administrateur d'une caisse de sécurité sociale mentionné à l'article L. 231-11 du code de la sécurité sociale ;
 
-12° Représentant des salariés dans une chambre d'agriculture, mentionné à l'article L. 515-1 du code rural ;
+12° Représentant des salariés dans une chambre d'agriculture, mentionné à l'article L. 515-1 du code rural et de la pêche maritime ;
 
 13° Conseiller prud'homme.

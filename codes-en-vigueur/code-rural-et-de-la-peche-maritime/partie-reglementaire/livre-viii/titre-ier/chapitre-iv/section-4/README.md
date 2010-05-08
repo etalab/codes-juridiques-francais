@@ -1,6 +1,7 @@
 # Section 4 : Comités régionaux de l'enseignement agricole.
 
 - [Article R814-33](article-r814-33.md)
+- [Article R814-34](article-r814-34.md)
 - [Article R814-35](article-r814-35.md)
 - [Article R814-36](article-r814-36.md)
 - [Article R814-37](article-r814-37.md)

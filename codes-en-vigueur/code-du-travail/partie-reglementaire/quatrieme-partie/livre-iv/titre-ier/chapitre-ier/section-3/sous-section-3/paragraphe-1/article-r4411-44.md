@@ -8,7 +8,7 @@ Les dispositions de la présente sous-section ne s'appliquent pas aux substances
 
 3° Médicaments à usage humain ou vétérinaire mentionnés à l'article L. 5111-1 du code de la santé publique et produits cosmétiques mentionnés à l'article L. 5131-1 du même code ;
 
-4° Produits phytopharmaceutiques au sens de l'article L. 253-1 du code rural ;
+4° Produits phytopharmaceutiques au sens de l'article L. 253-1 du code rural et de la pêche maritime ;
 
 5° Munitions, matières explosives et explosifs ;
 
@@ -16,4 +16,4 @@ Les dispositions de la présente sous-section ne s'appliquent pas aux substances
 
 7° Aliments pour animaux destinés au consommateur final ;
 
-8° Matières fertilisantes et supports de culture au sens du chapitre V du titre V du livre II du code rural.
+8° Matières fertilisantes et supports de culture au sens du chapitre V du titre V du livre II du code rural et de la pêche maritime.

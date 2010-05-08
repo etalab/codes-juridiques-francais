@@ -2,3 +2,5 @@
 
 - [Titre Ier : Enseignement et formation professionnelle agricoles](titre-ier)
 - [Titre II : Développement agricole.](titre-ii)
+- [Titre III : Recherche agronomique et vétérinaire.](titre-iii)
+- [Article L800-1](article-l800-1.md)

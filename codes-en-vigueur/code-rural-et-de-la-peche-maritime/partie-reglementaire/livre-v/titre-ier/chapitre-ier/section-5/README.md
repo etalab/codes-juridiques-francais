@@ -3,6 +3,8 @@
 - [Article D511-74](article-d511-74.md)
 - [Article D511-77](article-d511-77.md)
 - [Article D511-78](article-d511-78.md)
+- [Article D511-79](article-d511-79.md)
+- [Article D511-80](article-d511-80.md)
 - [Article D511-81](article-d511-81.md)
 - [Article D511-91](article-d511-91.md)
 - [Article D511-92](article-d511-92.md)

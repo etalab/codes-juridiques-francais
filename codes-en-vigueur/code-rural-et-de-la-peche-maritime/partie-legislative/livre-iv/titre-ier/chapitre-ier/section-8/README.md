@@ -1,5 +1,13 @@
 # Section 8 : Droit de renouvellement et droit de reprise.
 
+- [Article L411-47](article-l411-47.md)
 - [Article L411-48](article-l411-48.md)
+- [Article L411-49](article-l411-49.md)
+- [Article L411-50](article-l411-50.md)
 - [Article L411-55](article-l411-55.md)
+- [Article L411-56](article-l411-56.md)
+- [Article L411-57](article-l411-57.md)
 - [Article L411-60](article-l411-60.md)
+- [Article L411-64](article-l411-64.md)
+- [Article L411-67](article-l411-67.md)
+- [Article L411-68](article-l411-68.md)

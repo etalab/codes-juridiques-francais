@@ -4,4 +4,5 @@
 - [Sous-section 2 : Constitution des dossiers de demande d'indemnisation.](sous-section-2)
 - [Sous-section 3 : Evaluation des dommages.](sous-section-3)
 - [Sous-section 4 : Conditions d'indemnisation.](sous-section-4)
+- [Sous-section 5 : Conditions relatives aux assurances.](sous-section-5)
 - [Sous-section 6 : Procédures d'indemnisation.](sous-section-6)

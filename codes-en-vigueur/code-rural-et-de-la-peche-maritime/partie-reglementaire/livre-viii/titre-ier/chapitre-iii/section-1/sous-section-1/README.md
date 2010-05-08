@@ -1,5 +1,17 @@
 # Sous-section 1 : Relations entre l'Etat et les établissements d'enseignement agricole privés.
 
+- [Article R813-2](article-r813-2.md)
+- [Article R813-3](article-r813-3.md)
 - [Article R813-4](article-r813-4.md)
+- [Article R813-5](article-r813-5.md)
+- [Article R813-6](article-r813-6.md)
 - [Article R813-7](article-r813-7.md)
+- [Article R813-8](article-r813-8.md)
 - [Article R813-9](article-r813-9.md)
+- [Article R813-10](article-r813-10.md)
+- [Article R813-11](article-r813-11.md)
+- [Article R813-12](article-r813-12.md)
+- [Article R813-13](article-r813-13.md)
+- [Article R813-14](article-r813-14.md)
+- [Article R813-15](article-r813-15.md)
+- [Article R813-16](article-r813-16.md)

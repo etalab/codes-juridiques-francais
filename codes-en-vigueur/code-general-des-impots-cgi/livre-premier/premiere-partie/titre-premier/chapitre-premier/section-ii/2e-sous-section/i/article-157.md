@@ -52,7 +52,7 @@ Pour les plans d'épargne-logement, cette exonération est limitée à la fracti
 
 a) aux travailleurs, salariés de l'artisanat, des ateliers industriels, des chantiers et de l'agriculture ;
 
-b) aux aides familiaux ou aux associés d'exploitation désignés au 2° de l'article L. 722-10 du code rural et aux articles L. 321-6 et suivants du même code ;
+b) aux aides familiaux ou aux associés d'exploitation désignés au 2° de l'article L. 722-10 du code rural et de la pêche maritime et aux articles L. 321-6 et suivants du même code ;
 
 c) aux aides familiaux et associés d'exploitation de l'artisanat.
 

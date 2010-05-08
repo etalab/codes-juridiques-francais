@@ -12,7 +12,7 @@ En application de l'article L. 313-50, sont couverts par le mécanisme de garant
 
 5° Du d de l'article L. 261-11 et des articles R. 261-17 à R. 261-24 du code de la construction et de l'habitation et des articles 6 et 15 de la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière ;
 
-6° De l'article R. 141-2 du code rural ;
+6° De l'article R. 141-2 du code rural et de la pêche maritime ;
 
 7° De l'article 3 (2°) de la loi n° 70-9 du 2 janvier 1970 réglementant les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et les fonds de commerce ;
 

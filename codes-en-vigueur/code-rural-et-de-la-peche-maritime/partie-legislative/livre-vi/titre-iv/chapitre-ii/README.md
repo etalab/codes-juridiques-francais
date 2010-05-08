@@ -3,3 +3,4 @@
 - [Section 1 : Dispositions générales.](section-1)
 - [Section 2 : L'Institut national de l'origine et de la qualité (INAO)](section-2)
 - [Section 3 : Les organismes de défense et de gestion](section-3)
+- [Section 4 : Le contrôle du cahier des charges](section-4)

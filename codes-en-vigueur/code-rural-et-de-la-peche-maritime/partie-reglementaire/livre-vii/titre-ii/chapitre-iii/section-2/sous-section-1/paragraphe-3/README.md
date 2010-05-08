@@ -3,3 +3,4 @@
 - [Sous-paragraphe 1 : Opérations préliminaires.](sous-paragraphe-1)
 - [Sous-paragraphe 2 : Déclarations de candidatures pour le deuxième collège.](sous-paragraphe-2)
 - [Sous-paragraphe 3 : Déclaration de candidature pour les premier et troisième collèges.](sous-paragraphe-3)
+- [Sous-paragraphe 4 : Dispositions communes aux trois collèges.](sous-paragraphe-4)

@@ -6,6 +6,6 @@ La procédure prévue à la présente sous-section s'applique également au sala
 
 2° Membre du conseil d'administration d'une mutuelle, union ou fédération mentionné à l'article L. 114-24 du code de la mutualité ;
 
-3° Représentant des salariés dans une chambre d'agriculture mentionné à l'article L. 515-1 du code rural ;
+3° Représentant des salariés dans une chambre d'agriculture mentionné à l'article L. 515-1 du code rural et de la pêche maritime ;
 
 4° Conseiller prud'homme.

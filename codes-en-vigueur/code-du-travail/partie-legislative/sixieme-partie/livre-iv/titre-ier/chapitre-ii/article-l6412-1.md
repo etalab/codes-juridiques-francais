@@ -10,7 +10,7 @@ La validation des acquis de l'expérience est régie par les articles L. 335-5, 
 
 " La validation est effectuée par un jury dont la composition garantit une présence significative de représentants qualifiés des professions concernées.
 
-" Le jury peut attribuer la totalité du diplôme ou du titre.A défaut, il se prononce sur l'étendue de la validation et, en cas de validation partielle, sur la nature des connaissances et aptitudes devant faire l'objet d'un contrôle complémentaire.
+" Le jury peut attribuer la totalité du diplôme ou du titre. A défaut, il se prononce sur l'étendue de la validation et, en cas de validation partielle, sur la nature des connaissances et aptitudes devant faire l'objet d'un contrôle complémentaire.
 
 " Le jury se prononce au vu d'un dossier constitué par le candidat, à l'issue d'un entretien à son initiative ou à l'initiative du candidat et, le cas échéant, d'une mise en situation professionnelle réelle ou reconstituée, lorsque cette procédure est prévue par l'autorité qui délivre la certification.
 
@@ -18,19 +18,25 @@ La validation des acquis de l'expérience est régie par les articles L. 335-5, 
 
 " II.-Le jury d'un diplôme ou d'un titre à finalité professionnelle délivré au nom de l'Etat ou par des établissements publics ayant une mission de formation peut dispenser un candidat désirant l'acquérir des titres ou diplômes requis pour le préparer. Cette dispense doit se fonder sur les compétences professionnelles acquises par le candidat.
 
-" Art.L. 335-6.-I.-Les diplômes et titres à finalité professionnelle délivrés au nom de l'Etat sont créés par décret et organisés par arrêté des ministres compétents, après avis d'instances consultatives associant les organisations représentatives d'employeurs et de salariés quand elles existent, sans préjudice des dispositions des articles L. 331-1, L. 335-14, L. 613-1, L. 641-4 et L. 641-5 du présent code et L. 811-2 et L. 813-2 du code rural.
+" Art.L. 335-6.-I.-Les diplômes et titres à finalité professionnelle délivrés au nom de l'Etat sont créés par décret et organisés par arrêté des ministres compétents, après avis d'instances consultatives associant les organisations représentatives d'employeurs et de salariés quand elles existent, sans préjudice des dispositions des articles L. 331-1, L. 335-14, L. 613-1, L. 641-4 et L. 641-5 du présent code et L. 811-2 et L. 813-2 du code rural et de la pêche maritime.
 
-" II.-Il est créé un répertoire national des certifications professionnelles. Les diplômes et les titres à finalité professionnelle y sont classés par domaine d'activité et par niveau.
+II.-II est créé un répertoire national des certifications professionnelles. Les diplômes et les titres à finalité professionnelle y sont classés par domaine d'activité et par niveau.
 
-" Les diplômes et titres à finalité professionnelle, ainsi que les certificats de qualification figurant sur une liste établie par la commission paritaire nationale de l'emploi d'une branche professionnelle, peuvent y être enregistrés à la demande des organismes les ayant créés et après avis de la Commission nationale de la certification professionnelle.
+Les diplômes et titres à finalité professionnelle peuvent y être enregistrés à la demande des organismes ou instances les ayant créés et après avis de la Commission nationale de la certification professionnelle. Ceux qui sont délivrés au nom de l'Etat et créés après avis d'instances consultatives associant les organisations représentatives d'employeurs et de salariés y sont enregistrés de droit. Préalablement à leur élaboration, l'opportunité de leur création fait l'objet d'un avis public de cette commission dans un délai de trois mois. Passé ce délai, cet avis est réputé favorable.
 
-" Ceux qui sont délivrés au nom de l'Etat et créés après avis d'instances consultatives associant les organisations représentatives d'employeurs et de salariés sont enregistrés de droit dans ce répertoire.
+Les certificats de qualification professionnelle établis par une ou plusieurs commissions paritaires nationales de l'emploi peuvent également être enregistrés au répertoire national des certifications professionnelles, à la demande des organismes ou instances les ayant créés et après avis conforme de la Commission nationale de la certification professionnelle.
 
-" La Commission nationale de la certification professionnelle établit et actualise le répertoire national des certifications professionnelles. Elle veille au renouvellement et à l'adaptation des diplômes et titres à l'évolution des qualifications et de l'organisation du travail.
+La Commission nationale de la certification professionnelle établit et actualise le répertoire national des certifications professionnelles. Elle veille à la cohérence, à la complémentarité et au renouvellement des diplômes et des titres ainsi qu'à leur adaptation à l'évolution des qualifications et de l'organisation du travail.
 
-" Elle émet des recommandations à l'attention des institutions délivrant des diplômes, des titres à finalité professionnelle ou des certificats de qualification figurant sur une liste établie par la commission paritaire nationale de l'emploi d'une branche professionnelle ; en vue d'assurer l'information des particuliers et des entreprises, elle leur signale notamment les éventuelles correspondances totales ou partielles entre les certifications enregistrées dans le répertoire national, ainsi qu'entre ces dernières et d'autres certifications, notamment européennes.
+Les certifications et habilitations correspondant à des compétences transversales exercées en situation professionnelle peuvent être recensées dans un inventaire spécifique établi par la Commission nationale de la certification professionnelle.
 
-" Un décret en Conseil d'Etat détermine les conditions d'enregistrement des diplômes et titres dans le répertoire national ainsi que la composition et les attributions de la commission. "
+Les personnes qui appartiennent aux promotions prises en compte dans le cadre de la procédure d'instruction pour enregistrement au répertoire national des certifications professionnelles visé au présent article ainsi que celles qui appartiennent à la promotion en cours et ayant obtenu la certification peuvent se prévaloir de l'inscription de cette certification au répertoire national des certifications professionnelles.
+
+De même, les personnes qui ont suivi un cycle préparatoire à une certification en cours de validité au moment de leur entrée en formation peuvent, après obtention de la certification, se prévaloir de l'inscription de celle-ci au répertoire national des certifications professionnelles.
+
+La Commission nationale de la certification professionnelle réalise l'évaluation publique qu'elle juge nécessaire de certificats de qualification professionnelle et émet des recommandations à l'attention des institutions délivrant des diplômes, des titres à finalité professionnelle ou des certificats de qualification figurant sur une liste établie par la commission paritaire nationale de l'emploi d'une branche professionnelle ; en vue d'assurer l'information des particuliers et des entreprises, elle leur signale notamment les éventuelles correspondances totales ou partielles entre les certifications enregistrées dans le répertoire national, ainsi qu'entre ces dernières et d'autres certifications, notamment européennes.
+
+Un décret en Conseil d'Etat détermine les conditions d'enregistrement des diplômes et titres dans le répertoire national ainsi que la composition et les attributions de la commission."
 
 " Art.L. 613-3.-Toute personne qui a exercé pendant au moins trois ans une activité professionnelle, salariée, non salariée, bénévole ou de volontariat, en rapport avec l'objet de sa demande, peut demander la validation des acquis de son expérience pour justifier tout ou partie des connaissances et des aptitudes exigées pour l'obtention d'un diplôme ou titre délivré, au nom de l'Etat, par un établissement d'enseignement supérieur.
 

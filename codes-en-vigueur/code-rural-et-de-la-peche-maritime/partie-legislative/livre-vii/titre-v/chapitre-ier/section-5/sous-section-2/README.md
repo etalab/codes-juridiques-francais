@@ -1,11 +1,16 @@
 # Sous-section 2 : Financement.
 
+- [Article L751-12](article-l751-12.md)
 - [Article L751-14](article-l751-14.md)
+- [Article L751-14-1](article-l751-14-1.md)
 - [Article L751-15](article-l751-15.md)
 - [Article L751-16](article-l751-16.md)
+- [Article L751-17](article-l751-17.md)
 - [Article L751-18](article-l751-18.md)
 - [Article L751-19](article-l751-19.md)
 - [Article L751-20](article-l751-20.md)
+- [Article L751-21](article-l751-21.md)
 - [Article L751-22](article-l751-22.md)
 - [Article L751-23](article-l751-23.md)
+- [Article L751-24](article-l751-24.md)
 - [Article L751-25](article-l751-25.md)

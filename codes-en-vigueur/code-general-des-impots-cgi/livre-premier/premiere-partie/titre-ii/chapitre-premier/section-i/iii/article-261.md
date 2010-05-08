@@ -16,7 +16,7 @@ Sont exonérés de la taxe sur la valeur ajoutée :
 
 2° (Abrogé) ;
 
-3° les prestations réalisées dans le cadre de l'entraide entre agriculteurs définie par les articles L325-1 à L325-3 du code rural. Cette exonération pourra être étendue par décret en Conseil d'Etat aux départements d'outre-mer ;
+3° les prestations réalisées dans le cadre de l'entraide entre agriculteurs définie par les articles L325-1 à L325-3 du code rural et de la pêche maritime. Cette exonération pourra être étendue par décret en Conseil d'Etat aux départements d'outre-mer ;
 
 4° les opérations effectuées par les pêcheurs et armateurs à la pêche, à l'exception des pêcheurs en eau douce, en ce qui concerne la vente des produits de leur pêche (poissons, crustacés, coquillages frais ou conservés à l'état frais par un procédé frigorifique) ;
 

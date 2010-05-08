@@ -6,3 +6,4 @@
 - [Section 4 : Faute de l'assuré ou d'un tiers.](section-4)
 - [Section 5 : Formalités, procédure et contentieux](section-5)
 - [Section 6 : Prévention.](section-6)
+- [Section 7 : Dispositions diverses](section-7)

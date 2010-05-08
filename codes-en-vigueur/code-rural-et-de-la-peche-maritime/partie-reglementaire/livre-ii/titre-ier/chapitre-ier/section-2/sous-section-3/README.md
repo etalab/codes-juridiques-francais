@@ -7,3 +7,5 @@
 - [Article R211-5-4](article-r211-5-4.md)
 - [Article R211-5-5](article-r211-5-5.md)
 - [Article R211-5-6](article-r211-5-6.md)
+- [Article R211-6](article-r211-6.md)
+- [Article R211-7](article-r211-7.md)

@@ -4,3 +4,4 @@
 - [Article D732-79](article-d732-79.md)
 - [Article D732-80](article-d732-80.md)
 - [Article D732-81](article-d732-81.md)
+- [Article D732-82](article-d732-82.md)

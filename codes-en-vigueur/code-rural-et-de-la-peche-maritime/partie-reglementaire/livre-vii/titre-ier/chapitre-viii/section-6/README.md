@@ -1,5 +1,6 @@
 # Section 6 : Formation professionnelle tout au long de la vie
 
+- [Article D718-16](article-d718-16.md)
 - [Article D718-17](article-d718-17.md)
 - [Article R718-18](article-r718-18.md)
 - [Article R718-19](article-r718-19.md)

@@ -7,4 +7,6 @@
 - [Section 6 : Formation des techniciens supérieurs agricoles.](section-6)
 - [Section 7 : Dispositions relatives à l'enseignement professionnel du second degré par la voie scolaire.](section-7)
 - [Section 8 : Dispositions relatives à l'enseignement par la voie de l'apprentissage, de la formation professionnelle continue et des formations alternées, ainsi qu'à l'enseignement à distance](section-8)
+- [Section 9 : Dispositions relatives aux examens et concours publics.](section-9)
+- [Section 10 : Dispositions relatives à l'inspection des établissements d'enseignement et de formation professionnelle agricoles.](section-10)
 - [Section 11 : Dispositions relatives aux parents d'élèves et aux associations de parents d'élèves](section-11)

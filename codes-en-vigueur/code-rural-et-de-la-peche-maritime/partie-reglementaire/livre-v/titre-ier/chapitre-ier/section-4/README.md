@@ -1,6 +1,7 @@
 # Section 4 : Fonctionnement.
 
 - [Article R511-54](article-r511-54.md)
+- [Article R511-54-1](article-r511-54-1.md)
 - [Article R511-55](article-r511-55.md)
 - [Article R511-56](article-r511-56.md)
 - [Article R511-57](article-r511-57.md)
@@ -16,3 +17,4 @@
 - [Article R511-67](article-r511-67.md)
 - [Article R511-68](article-r511-68.md)
 - [Article R511-69](article-r511-69.md)
+- [Article R511-70](article-r511-70.md)

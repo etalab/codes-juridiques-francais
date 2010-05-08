@@ -14,7 +14,7 @@ II. - Ces décrets déterminent en particulier les conditions dans lesquelles l'
 
 a) Délimiter des zones dites "zones humides d'intérêt environnemental particulier" dont le maintien ou la restauration présente un intérêt pour la gestion intégrée du bassin versant, ou une valeur touristique, écologique, paysagère ou cynégétique particulière. Ces zones peuvent englober les zones humides dites "zones stratégiques pour la gestion de l'eau" prévues à l'article L. 212-5-1 ;
 
-b) Etablir, dans les conditions prévues à l'article L. 114-1 du code rural, un programme d'actions visant à restaurer, préserver, gérer et mettre en valeur de façon durable les zones définies au a du présent article ;
+b) Etablir, dans les conditions prévues à l'article L. 114-1 du code rural et de la pêche maritime, un programme d'actions visant à restaurer, préserver, gérer et mettre en valeur de façon durable les zones définies au a du présent article ;
 
 5° Délimiter, le cas échéant après qu'elles ont été identifiées dans le plan d'aménagement et de gestion durable de la ressource en eau et des milieux aquatiques prévu par l'article L. 212-5-1, des zones où il est nécessaire d'assurer la protection quantitative et qualitative des aires d'alimentation des captages d'eau potable d'une importance particulière pour l'approvisionnement actuel ou futur, ainsi que des zones dans lesquelles l'érosion diffuse des sols agricoles est de nature à compromettre la réalisation des objectifs de bon état ou, le cas échéant, de bon potentiel prévus par l'article L. 212-1, et y établir, dans les conditions prévues au 4° du présent article, un programme d'actions à cette fin ;
 

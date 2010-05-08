@@ -30,7 +30,7 @@ Sont exonérés de la taxe spéciale sur les conventions d'assurances :
 
 Cette exonération s'applique, dans les mêmes conditions, aux camions, camionnettes, fourgonnettes à utilisations exclusivement utilitaires ;
 
-13° Les contrats d'assurance maladie complémentaire couvrant les personnes physiques ou morales qui exercent exclusivement ou principalement une des professions agricoles ou connexes à l'agriculture définies aux articles L722-4, L722-9, au 1° de l'article L722-10 et aux articles L722-21, L722-28, L722-29, L731-25 et L741-2 du code rural ainsi que leurs salariés et les membres de la famille de ces personnes, lorsqu'ils vivent avec elles sur l'exploitation, si ces garanties respectent les conditions mentionnées à l'article L. 871-1 du code de la sécurité sociale.
+13° Les contrats d'assurance maladie complémentaire couvrant les personnes physiques ou morales qui exercent exclusivement ou principalement une des professions agricoles ou connexes à l'agriculture définies aux articles L722-4, L722-9, au 1° de l'article L722-10 et aux articles L722-21, L722-28, L722-29, L731-25 et L741-2 du code rural et de la pêche maritimeainsi que leurs salariés et les membres de la famille de ces personnes, lorsqu'ils vivent avec elles sur l'exploitation, si ces garanties respectent les conditions mentionnées à l'article L. 871-1 du code de la sécurité sociale.
 
 14° Les contrats d'assurance dépendance ;
 

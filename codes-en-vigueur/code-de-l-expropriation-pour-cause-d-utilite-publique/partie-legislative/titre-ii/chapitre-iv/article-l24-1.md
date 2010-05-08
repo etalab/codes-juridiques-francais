@@ -12,6 +12,6 @@ Des dispositions particulières concernant l'expropriation figurent notamment :
 
 - aux articles 13 à 26 de la loi n° 70-612 du 10 juillet 1970 tendant à faciliter la suppression de l'habitat insalubre ;
 
-- à l'article L. 563-1 du code rural ;
+- à l'article L. 563-1 du code rural et de la pêche maritime ;
 
 - aux articles L. 2243-1 à L. 2343-4 du code général des collectivités territoriales.

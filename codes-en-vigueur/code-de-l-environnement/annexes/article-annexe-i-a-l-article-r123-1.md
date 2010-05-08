@@ -1,5 +1,6 @@
 # Article Annexe I à l'article R123-1
 
+<div>
 <table>
 <tbody>
 <tr>
@@ -43,7 +44,7 @@
 </tr>
 <tr>
 <td rowspan="9" valign="top" width="227">
-<p>5° Travaux d'hydraulique agricole mentionnés du 2° au 7° de l'article  L. 151-36 du code rural.
+<p>5° Travaux d'hydraulique agricole mentionnés du 2° au 7° de l'article  L. 151-36 du code rural et de la pêche maritime
 </p>
 </td>
 <td valign="top" width="454">
@@ -452,7 +453,7 @@
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>35° Premiers boisements soumis à l'autorisation de l'article L. 126-1 du code rural. </p>
+<p>35° Premiers boisements soumis à l'autorisation de l'article L. 126-1 du code rural et de la pêche maritime. </p>
 </td>
 <td valign="top" width="454">
 <p>Premiers boisements d'un seul tenant portant sur une superficie d'au moins 25 hectares. </p>
@@ -476,3 +477,4 @@
 </tr>
 </tbody>
 </table>
+</div>

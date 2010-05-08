@@ -6,6 +6,4 @@ II.-Le I ne s'applique pas aux propriétés non bâties qui bénéficient des ex
 
 Le I de l'article 1394 B bis et les exonérations partielles prévues au 1° ter de l'article 1395 ou au I de l'article 1395 D ne s'appliquent pas aux propriétés qui bénéficient de la présente exonération.
 
-Le I du présent article ne s'applique pas aux parcelles visées au
-deuxième alinéa de l'article L. 128-4 du code rural
-à compter de l'année suivant celle au cours de laquelle soit elles ont fait l'objet d'une des procédures mentionnées aux articles L. 128-4 à L. 128-7 du même code, soit elles ont été recensées en application de l'article L. 128-13 du même code.
+Le I du présent article ne s'applique pas aux parcelles visées au  deuxième alinéa de l'article L. 128-4 du code rural et de la pêche maritime à compter de l'année suivant celle au cours de laquelle soit elles ont fait l'objet d'une des procédures mentionnées aux articles L. 128-4 à L. 128-7 du même code, soit elles ont été recensées en application de l'article L. 128-13 du même code.

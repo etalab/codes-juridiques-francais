@@ -14,7 +14,7 @@ d) En cas d'exécution de travaux ou d'utilisation du sol en infraction aux pres
 
 e) En cas d'exécution, dans une zone d'aménagement concerté, de travaux dont la réalisation doit obligatoirement être précédée d'une étude de sécurité publique en application de l'article L. 111-3-1, avant la réception de cette étude par la commission compétente en matière de sécurité publique.
 
-Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 252-1 du code rural, peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction aux alinéas premier et second du présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de défendre.
+Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 252-1 du code rural et de la pêche maritime, peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction aux alinéas premier et second du présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de défendre.
 
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles les associations visées à l'alinéa précédent pourront être agréées. Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, la procédure d'agrément est applicable aux associations inscrites depuis trois ans au moins.
 
