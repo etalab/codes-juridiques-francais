@@ -11,3 +11,4 @@
 - [Article L524-4](article-l524-4.md)
 - [Article L524-4-1](article-l524-4-1.md)
 - [Article L524-5](article-l524-5.md)
+- [Article L524-5-1](article-l524-5-1.md)
