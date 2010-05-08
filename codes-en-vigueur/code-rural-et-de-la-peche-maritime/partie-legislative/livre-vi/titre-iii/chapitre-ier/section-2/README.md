@@ -6,5 +6,6 @@
 - [Article L631-6](article-l631-6.md)
 - [Article L631-7](article-l631-7.md)
 - [Article L631-8](article-l631-8.md)
+- [Article L631-9](article-l631-9.md)
 - [Article L631-10](article-l631-10.md)
 - [Article L631-11](article-l631-11.md)
