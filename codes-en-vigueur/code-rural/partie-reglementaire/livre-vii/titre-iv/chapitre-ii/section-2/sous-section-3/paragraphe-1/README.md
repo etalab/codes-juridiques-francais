@@ -6,4 +6,3 @@
 - [Article R742-21](article-r742-21.md)
 - [Article R742-22](article-r742-22.md)
 - [Article R742-23](article-r742-23.md)
-- [Article R742-24](article-r742-24.md)
