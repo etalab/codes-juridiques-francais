@@ -3,5 +3,6 @@
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre III : La police sanitaire](chapitre-iii)
 - [Chapitre IV : Les prophylaxies organisées.](chapitre-iv)
+- [Chapitre V : Les contrôles sanitaires facultatifs.](chapitre-v)
 - [Chapitre VI : Des sous-produits animaux.](chapitre-vi)
 - [Chapitre VIII : Dispositions pénales.](chapitre-viii)
