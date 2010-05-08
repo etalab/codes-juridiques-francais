@@ -6,6 +6,7 @@
 - [Article R811-35](article-r811-35.md)
 - [Article R811-36](article-r811-36.md)
 - [Article R811-37](article-r811-37.md)
+- [Article R811-38](article-r811-38.md)
 - [Article R811-39](article-r811-39.md)
 - [Article R811-40](article-r811-40.md)
 - [Article R811-41](article-r811-41.md)
