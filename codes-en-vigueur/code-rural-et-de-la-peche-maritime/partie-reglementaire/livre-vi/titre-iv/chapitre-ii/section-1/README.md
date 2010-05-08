@@ -1,0 +1,11 @@
+# Section 1 : L'Institut national de l'origine et de la qualité (INAO)
+
+- [Sous-section 1 : Le conseil permanent](sous-section-1)
+- [Sous-section 2 : Les comités nationaux](sous-section-2)
+- [Sous-section 3 : Le conseil des agréments et contrôles](sous-section-3)
+- [Sous-section 4 : Les comités régionaux](sous-section-4)
+- [Sous-section 5 : Dispositions communes au conseil permanent, aux comités nationaux et régionaux et au conseil des agréments et contrôles](sous-section-5)
+- [Sous-section 6 : Le directeur](sous-section-6)
+- [Sous-section 7 : Agents.](sous-section-7)
+- [Sous-section 8 : Tutelle.](sous-section-8)
+- [Article R642-1](article-r642-1.md)
