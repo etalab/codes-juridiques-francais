@@ -6,5 +6,4 @@
 - [Article D721-6](article-d721-6.md)
 - [Article D721-7](article-d721-7.md)
 - [Article D721-9](article-d721-9.md)
-- [Article R721-2](article-r721-2.md)
 - [Article R721-8](article-r721-8.md)
