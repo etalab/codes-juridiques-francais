@@ -5,4 +5,3 @@
 - [Chapitre III : Groupements agricoles d'exploitation en commun](chapitre-iii)
 - [Chapitre IV : Exploitation agricole à responsabilité limitée.](chapitre-iv)
 - [Chapitre VI : Contrats d'intégration.](chapitre-vi)
-- [Chapitre VIII : Dispositions particulières à certaines collectivités territoriales](chapitre-viii)
