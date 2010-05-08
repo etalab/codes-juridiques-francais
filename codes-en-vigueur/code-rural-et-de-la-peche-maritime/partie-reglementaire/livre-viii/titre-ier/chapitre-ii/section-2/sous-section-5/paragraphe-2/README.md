@@ -1,5 +1,6 @@
 # Paragraphe 2 : Dispositions particulières aux élèves étrangers.
 
+- [Article R812-42](article-r812-42.md)
 - [Article R812-43](article-r812-43.md)
 - [Article R812-44](article-r812-44.md)
 - [Article R812-45](article-r812-45.md)
