@@ -6,3 +6,4 @@
 - [Article L151-38](article-l151-38.md)
 - [Article L151-38-1](article-l151-38-1.md)
 - [Article L151-39](article-l151-39.md)
+- [Article L151-40](article-l151-40.md)

@@ -18,7 +18,6 @@
 - [Article L362-16](article-l362-16.md)
 - [Article L362-17](article-l362-17.md)
 - [Article L362-18](article-l362-18.md)
-- [Article L362-19](article-l362-19.md)
 - [Article L362-20](article-l362-20.md)
 - [Article L362-21](article-l362-21.md)
 - [Article L362-22](article-l362-22.md)

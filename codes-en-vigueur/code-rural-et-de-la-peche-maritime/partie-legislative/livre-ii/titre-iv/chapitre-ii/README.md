@@ -8,3 +8,4 @@
 - [Article L242-6](article-l242-6.md)
 - [Article L242-7](article-l242-7.md)
 - [Article L242-8](article-l242-8.md)
+- [Article L242-9](article-l242-9.md)

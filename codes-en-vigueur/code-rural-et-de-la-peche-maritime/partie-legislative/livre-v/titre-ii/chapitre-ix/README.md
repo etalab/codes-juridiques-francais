@@ -5,3 +5,4 @@
 - [Article L529-3](article-l529-3.md)
 - [Article L529-4](article-l529-4.md)
 - [Article L529-5](article-l529-5.md)
+- [Article L529-6](article-l529-6.md)

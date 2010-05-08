@@ -9,4 +9,5 @@
 - [Article L128-9](article-l128-9.md)
 - [Article L128-10](article-l128-10.md)
 - [Article L128-11](article-l128-11.md)
+- [Article L128-12](article-l128-12.md)
 - [Article L128-13](article-l128-13.md)

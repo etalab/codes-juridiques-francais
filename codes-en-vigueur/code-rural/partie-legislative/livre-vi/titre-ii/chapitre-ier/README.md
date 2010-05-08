@@ -13,4 +13,3 @@
 - [Article L621-11](article-l621-11.md)
 - [Article L621-12](article-l621-12.md)
 - [Article L621-12-1](article-l621-12-1.md)
-- [Article L621-38](article-l621-38.md)

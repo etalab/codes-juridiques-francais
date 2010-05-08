@@ -5,4 +5,3 @@
 - [Article L112-12](article-l112-12.md)
 - [Article L112-13](article-l112-13.md)
 - [Article L112-14](article-l112-14.md)
-- [Article L112-15](article-l112-15.md)
