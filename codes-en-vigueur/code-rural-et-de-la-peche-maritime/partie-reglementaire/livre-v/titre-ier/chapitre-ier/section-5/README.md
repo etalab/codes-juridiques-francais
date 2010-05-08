@@ -10,6 +10,7 @@
 - [Article D511-94](article-d511-94.md)
 - [Article D511-96](article-d511-96.md)
 - [Article R511-71](article-r511-71.md)
+- [Article R511-72](article-r511-72.md)
 - [Article R511-73](article-r511-73.md)
 - [Article R511-75](article-r511-75.md)
 - [Article R511-76](article-r511-76.md)
