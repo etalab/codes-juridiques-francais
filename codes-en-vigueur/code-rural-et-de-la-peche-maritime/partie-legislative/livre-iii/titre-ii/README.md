@@ -5,3 +5,4 @@
 - [Chapitre III : Les groupements agricoles d'exploitation en commun.](chapitre-iii)
 - [Chapitre IV : Exploitation agricole à responsabilité limitée.](chapitre-iv)
 - [Chapitre V : L'entraide entre agriculteurs.](chapitre-v)
+- [Chapitre VIII : Dispositions particulières à certaines collectivités territoriales](chapitre-viii)
