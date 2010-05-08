@@ -8,3 +8,4 @@
 - [Chapitre VI : Dissolution, liquidation, fusion, scission et apport partiel d'actifs.](chapitre-vi)
 - [Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle](chapitre-vii)
 - [Chapitre VIII : Haut Conseil de la coopération agricole](chapitre-viii)
+- [Chapitre IX : Dispositions pénales, dispositions d'application.](chapitre-ix)
