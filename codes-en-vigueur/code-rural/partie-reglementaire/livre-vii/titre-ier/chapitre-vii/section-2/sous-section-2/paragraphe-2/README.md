@@ -8,7 +8,6 @@
 - [Article R717-18](article-r717-18.md)
 - [Article R717-19](article-r717-19.md)
 - [Article R717-20](article-r717-20.md)
-- [Article R717-21](article-r717-21.md)
 - [Article R717-22](article-r717-22.md)
 - [Article R717-23](article-r717-23.md)
 - [Article R717-24](article-r717-24.md)
