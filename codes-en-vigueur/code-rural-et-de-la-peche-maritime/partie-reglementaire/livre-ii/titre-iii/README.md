@@ -2,3 +2,4 @@
 
 - [Chapitre Ier : Dispositions générales](chapitre-ier)
 - [Chapitre IV : Dispositions relatives aux élevages](chapitre-iv)
+- [Chapitre VII : Dispositions pénales.](chapitre-vii)
