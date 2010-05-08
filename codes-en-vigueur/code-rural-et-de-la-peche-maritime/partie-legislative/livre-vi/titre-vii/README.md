@@ -7,6 +7,7 @@
 - [Article L671-5](article-l671-5.md)
 - [Article L671-6](article-l671-6.md)
 - [Article L671-7](article-l671-7.md)
+- [Article L671-9](article-l671-9.md)
 - [Article L671-10](article-l671-10.md)
 - [Article L671-13](article-l671-13.md)
 - [Article L671-14](article-l671-14.md)
