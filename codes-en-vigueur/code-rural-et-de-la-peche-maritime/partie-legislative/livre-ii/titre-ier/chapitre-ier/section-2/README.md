@@ -8,5 +8,6 @@
 - [Article L211-18](article-l211-18.md)
 - [Article L211-20](article-l211-20.md)
 - [Article L211-21](article-l211-21.md)
+- [Article L211-23](article-l211-23.md)
 - [Article L211-27](article-l211-27.md)
 - [Article L211-28](article-l211-28.md)
