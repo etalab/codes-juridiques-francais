@@ -1,5 +1,6 @@
 # Section 1 : Organisation et fonctionnement.
 
+- [Article D513-6](article-d513-6.md)
 - [Article D513-7](article-d513-7.md)
 - [Article D513-11](article-d513-11.md)
 - [Article R513-1](article-r513-1.md)
