@@ -1,6 +1,7 @@
 # B. - Les centres d'enseignement et de formation.
 
 - [Article R811-29](article-r811-29.md)
+- [Article R811-30](article-r811-30.md)
 - [Article R811-31](article-r811-31.md)
 - [Article R811-32](article-r811-32.md)
 - [Article R811-33](article-r811-33.md)
@@ -12,5 +13,7 @@
 - [Article R811-39](article-r811-39.md)
 - [Article R811-40](article-r811-40.md)
 - [Article R811-41](article-r811-41.md)
+- [Article R811-42](article-r811-42.md)
 - [Article R811-44](article-r811-44.md)
+- [Article R811-45](article-r811-45.md)
 - [Article R811-46](article-r811-46.md)

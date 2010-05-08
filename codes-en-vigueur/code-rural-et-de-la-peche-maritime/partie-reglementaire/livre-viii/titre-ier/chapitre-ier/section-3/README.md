@@ -4,4 +4,5 @@
 - [Sous-section 2 : Organisation administrative](sous-section-2)
 - [Sous-section 3 : Organisation financière.](sous-section-3)
 - [Sous-section 4 : Droits et obligations des élèves](sous-section-4)
+- [Sous-section 5 : Hébergement et restauration.](sous-section-5)
 - [Article R811-4](article-r811-4.md)

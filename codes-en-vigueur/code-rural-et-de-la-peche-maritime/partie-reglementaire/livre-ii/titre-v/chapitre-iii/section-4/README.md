@@ -2,3 +2,4 @@
 
 - [Article R253-66](article-r253-66.md)
 - [Article R253-67](article-r253-67.md)
+- [Article R253-71](article-r253-71.md)
