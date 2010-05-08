@@ -3,5 +3,6 @@
 - [Article R527-5](article-r527-5.md)
 - [Article R527-6](article-r527-6.md)
 - [Article R527-7](article-r527-7.md)
+- [Article R527-9](article-r527-9.md)
 - [Article R527-10](article-r527-10.md)
 - [Article R527-11](article-r527-11.md)
