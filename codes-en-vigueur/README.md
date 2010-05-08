@@ -68,5 +68,6 @@
 - [Code du domaine de l'Etat et des collectivités publiques applicable à la collectivité territoriale de Mayotte](code-du-domaine-de-l-etat-et-des-collectivites-publiques-applicable-a-la-collectivite-territoriale-de-mayotte)
 - [Code du domaine public fluvial et de la navigation intérieure](code-du-domaine-public-fluvial-et-de-la-navigation-interieure)
 - [Code monétaire et financier](code-monetaire-et-financier)
+- [Code rural et de la pêche maritime](code-rural-et-de-la-peche-maritime)
 - [Livre des procédures fiscales](livre-des-procedures-fiscales)
 - [Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance](code-des-pensions-de-retraite-des-marins-francais-du-commerce-de-peche-ou-de-plaisance)
