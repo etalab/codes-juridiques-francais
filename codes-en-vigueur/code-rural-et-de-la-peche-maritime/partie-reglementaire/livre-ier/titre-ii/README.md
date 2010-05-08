@@ -4,3 +4,4 @@
 - [Chapitre III : L'aménagement foncier agricole et forestier](chapitre-iii)
 - [Chapitre IV : Les échanges et cessions amiables d'immeubles ruraux](chapitre-iv)
 - [Chapitre VI : Aménagement agricole et forestier](chapitre-vi)
+- [Chapitre VIII : Dispositions particulières à certaines collectivités territoriales](chapitre-viii)
