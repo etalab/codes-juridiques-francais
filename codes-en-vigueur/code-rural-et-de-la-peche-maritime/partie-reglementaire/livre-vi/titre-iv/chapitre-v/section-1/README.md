@@ -11,3 +11,4 @@
 - [Sous-section 9](sous-section-9)
 - [Sous-section 10 : Date de mise à la consommation.](sous-section-10)
 - [Sous-section 11 : Conditionnement et stockage.](sous-section-11)
+- [Sous-section 12 : Obligations déclaratives.](sous-section-12)
