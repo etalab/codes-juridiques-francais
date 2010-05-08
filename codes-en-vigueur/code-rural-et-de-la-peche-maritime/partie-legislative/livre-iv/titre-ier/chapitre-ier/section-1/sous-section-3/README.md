@@ -6,3 +6,4 @@
 - [Article L411-15](article-l411-15.md)
 - [Article L411-16](article-l411-16.md)
 - [Article L411-18](article-l411-18.md)
+- [Article L411-24](article-l411-24.md)
