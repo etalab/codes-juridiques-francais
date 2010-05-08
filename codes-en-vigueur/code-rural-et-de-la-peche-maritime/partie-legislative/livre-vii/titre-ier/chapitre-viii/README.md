@@ -5,3 +5,4 @@
 - [Section 3 : Contrats de travail.](section-3)
 - [Section 4 : Syndicats professionnels](section-4)
 - [Section 5 : Conflits collectifs](section-5)
+- [Section 6 : Lutte contre le travail illégal](section-6)
