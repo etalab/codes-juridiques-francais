@@ -2,4 +2,5 @@
 
 - [Chapitre Ier : La surveillance biologique du territoire](chapitre-ier)
 - [Chapitre III : Mise sur le marché des produits phytosanitaires](chapitre-iii)
+- [Chapitre IV : La distribution et l'application des produits phytosanitaires](chapitre-iv)
 - [Chapitre VI : Règles relatives aux matériels destinés à l'application de produits phytopharmaceutiques.](chapitre-vi)
