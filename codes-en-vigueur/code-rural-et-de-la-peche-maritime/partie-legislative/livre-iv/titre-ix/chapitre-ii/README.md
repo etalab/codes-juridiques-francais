@@ -1,5 +1,7 @@
 # Chapitre II : Composition du tribunal.
 
+- [Article L492-1](article-l492-1.md)
+- [Article L492-2](article-l492-2.md)
 - [Article L492-3](article-l492-3.md)
 - [Article L492-4](article-l492-4.md)
 - [Article L492-5](article-l492-5.md)
