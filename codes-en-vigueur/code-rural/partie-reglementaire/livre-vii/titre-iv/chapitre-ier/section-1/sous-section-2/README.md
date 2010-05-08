@@ -30,4 +30,3 @@
 - [Article R741-28](article-r741-28.md)
 - [Article R741-29](article-r741-29.md)
 - [Article R741-30](article-r741-30.md)
-- [Article R741-31](article-r741-31.md)
