@@ -3,6 +3,7 @@
 - [Article R653-85](article-r653-85.md)
 - [Article R653-86](article-r653-86.md)
 - [Article R653-87](article-r653-87.md)
+- [Article R653-89](article-r653-89.md)
 - [Article R653-90](article-r653-90.md)
 - [Article R653-91](article-r653-91.md)
 - [Article R653-92](article-r653-92.md)
