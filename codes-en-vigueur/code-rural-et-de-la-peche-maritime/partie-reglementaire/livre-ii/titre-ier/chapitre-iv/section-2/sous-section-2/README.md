@@ -13,6 +13,7 @@
 - [Article R214-27-1](article-r214-27-1.md)
 - [Article R214-27-2](article-r214-27-2.md)
 - [Article R214-27-3](article-r214-27-3.md)
+- [Article R214-28](article-r214-28.md)
 - [Article R214-29](article-r214-29.md)
 - [Article R214-30](article-r214-30.md)
 - [Article R214-30-1](article-r214-30-1.md)
