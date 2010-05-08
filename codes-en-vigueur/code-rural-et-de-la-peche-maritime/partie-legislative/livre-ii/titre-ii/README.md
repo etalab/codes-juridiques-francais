@@ -5,4 +5,5 @@
 - [Chapitre IV : Les prophylaxies organisées.](chapitre-iv)
 - [Chapitre V : Les contrôles sanitaires facultatifs.](chapitre-v)
 - [Chapitre VI : Des sous-produits animaux.](chapitre-vi)
+- [Chapitre VII : Pharmacie vétérinaire.](chapitre-vii)
 - [Chapitre VIII : Dispositions pénales.](chapitre-viii)
