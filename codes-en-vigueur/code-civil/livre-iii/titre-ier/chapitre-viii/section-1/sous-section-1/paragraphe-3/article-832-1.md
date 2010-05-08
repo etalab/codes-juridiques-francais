@@ -2,7 +2,7 @@
 
 Si le maintien dans l'indivision n'a pas été ordonné et à défaut d'attribution préférentielle en propriété dans les conditions prévues à l'article 831 ou à l'article 832, le conjoint survivant ou tout héritier copropriétaire peut demander l'attribution préférentielle de tout ou partie des biens et droits immobiliers à destination agricole dépendant de la succession en vue de constituer avec un ou plusieurs cohéritiers et, le cas échéant, un ou plusieurs tiers, un groupement foncier agricole.
 
-Cette attribution est de droit si le conjoint survivant ou un ou plusieurs des cohéritiers remplissant les conditions personnelles prévues à l'article 831, ou leurs descendants participant effectivement à l'exploitation, exigent que leur soit donné à bail, dans les conditions fixées au chapitre VI du titre Ier du livre IV du code rural, tout ou partie des biens du groupement.
+Cette attribution est de droit si le conjoint survivant ou un ou plusieurs des cohéritiers remplissant les conditions personnelles prévues à l'article 831, ou leurs descendants participant effectivement à l'exploitation, exigent que leur soit donné à bail, dans les conditions fixées au chapitre VI du titre Ier du livre IV du code rural et de la pêche maritime, tout ou partie des biens du groupement.
 
 En cas de pluralité de demandes, les biens du groupement peuvent, si leur consistance le permet, faire l'objet de plusieurs baux bénéficiant à des cohéritiers différents.
 

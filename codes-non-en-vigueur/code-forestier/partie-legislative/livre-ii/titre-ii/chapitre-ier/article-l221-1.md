@@ -22,4 +22,4 @@ Il est compétent, dans le cadre de la politique forestière définie par les lo
 
 9° Donner un avis sur l'agrément des sociétés de gestion des sociétés d'épargne forestière en application de l'article L. 214-87 du code monétaire et financier.
 
-Sans préjudice des attributions de l'Assemblée permanente des chambres d'agriculture définies à l'article L. 513-1 du code rural, il peut être consulté par les pouvoirs publics et émettre des propositions sur toutes les questions relatives à la filière forêt-bois, au développement durable des forêts et de leurs fonctions économiques, environnementales et sociales, et à leur contribution à l'aménagement rural.
+Sans préjudice des attributions de l'Assemblée permanente des chambres d'agriculture définies à l'article L. 513-1 du code rural et de la pêche maritime, il peut être consulté par les pouvoirs publics et émettre des propositions sur toutes les questions relatives à la filière forêt-bois, au développement durable des forêts et de leurs fonctions économiques, environnementales et sociales, et à leur contribution à l'aménagement rural.

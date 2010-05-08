@@ -12,4 +12,4 @@ A compter de 2011, le montant de la dotation revenant à chaque région est obte
 
 La dotation régionale d'équipement scolaire est versée aux régions en une seule fois au cours du troisième trimestre de l'année en cours.
 
-La dotation est inscrite au budget de chaque région, qui l'affecte à la reconstruction, aux grosses réparations, à l'équipement et, si ces opérations figurent sur la liste établie en application de l'article L. 211-2 du code de l'éducation, à l'extension et à la construction des lycées, des établissements d'éducation spéciale, des écoles de formation maritime et aquacole et des établissements d'enseignement agricole visés à l'article L. 811-8 du code rural.
+La dotation est inscrite au budget de chaque région, qui l'affecte à la reconstruction, aux grosses réparations, à l'équipement et, si ces opérations figurent sur la liste établie en application de l'article L. 211-2 du code de l'éducation, à l'extension et à la construction des lycées, des établissements d'éducation spéciale, des écoles de formation maritime et aquacole et des établissements d'enseignement agricole visés à l'article L. 811-8 du code rural et de la pêche maritime.

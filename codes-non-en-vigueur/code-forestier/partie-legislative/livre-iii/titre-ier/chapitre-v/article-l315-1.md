@@ -8,7 +8,7 @@ N'entrent pas dans le champ d'application du présent titre :
 
 3° Les opérations portant sur les taillis à courte rotation normalement entretenus et exploités implantés sur d'anciens sols agricoles depuis moins de trente ans ;
 
-4° Les défrichements effectués dans les zones définies en application du 1° de l'article L. 126-1 du code rural dans lesquelles la reconstitution des boisements après coupe rase est interdite ou réglementée, ou ayant pour but une mise en valeur agricole et pastorale de bois situés dans une zone agricole définie en application de l'article L. 123-21 du même code ;
+4° Les défrichements effectués dans les zones définies en application du 1° de l'article L. 126-1 du code rural et de la pêche maritime dans lesquelles la reconstitution des boisements après coupe rase est interdite ou réglementée, ou ayant pour but une mise en valeur agricole et pastorale de bois situés dans une zone agricole définie en application de l'article L. 123-21 du même code ;
 
 5° Les opérations portant sur les jeunes bois de moins de vingt ans sauf s'ils ont été conservés à titre de réserves boisées ou plantés à titre de compensation en vertu de l'article L. 311-4 ou bien exécutés en application du livre IV (titres II et III) et du livre V ;
 

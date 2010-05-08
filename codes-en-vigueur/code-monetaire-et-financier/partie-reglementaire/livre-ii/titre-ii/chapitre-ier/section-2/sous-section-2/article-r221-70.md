@@ -6,4 +6,4 @@ II. - Les opérations autorisées dans le cadre du plan d'épargne populaire au 
 
 III. - Les opérations autorisées dans le cadre du plan d'épargne populaire au titre du code de la sécurité sociale sont les opérations d'épargne qui sont réalisées par les institutions mentionnées à l'article R. 731-1 de ce code et qui comportent une valeur de rachat ou de réduction et une garantie en cas de vie.
 
-IV. - Les opérations autorisées dans le cadre du plan d'épargne populaire au titre du code rural sont les opérations d'épargne qui sont réalisées par les institutions mentionnées à l'article L. 727-2 du code rural et qui comportent une valeur de rachat ou de réduction et une garantie en cas de vie.
+IV. - Les opérations autorisées dans le cadre du plan d'épargne populaire au titre du code rural sont les opérations d'épargne qui sont réalisées par les institutions mentionnées à l'article L. 727-2 du code rural et de la pêche maritime  et qui comportent une valeur de rachat ou de réduction et une garantie en cas de vie.

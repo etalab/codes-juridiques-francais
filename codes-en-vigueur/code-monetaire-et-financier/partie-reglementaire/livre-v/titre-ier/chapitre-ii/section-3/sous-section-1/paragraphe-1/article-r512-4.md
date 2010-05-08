@@ -22,7 +22,7 @@ Peuvent s'affilier aux caisses de crédit agricole mutuel :
 
 10° Les établissements d'enseignement, de formation professionnelle ou d'éducation agricoles et instituts de recherches agronomiques, constitués sous la forme d'établissements publics ou agréés dans les conditions fixées par un arrêté du ministre de l'agriculture ;
 
-11° Les organismes mentionnés à la section 3 du chapitre 2 du titre Ier du livre Ier du code rural ;
+11° Les organismes mentionnés à la section 3 du chapitre 2 du titre Ier du livre Ier du code rural et de la pêche maritime ;
 
 12° Les organismes d'intervention mentionnés au titre II du décret n° 53-974 du 30 septembre 1953 ;
 

@@ -6,4 +6,4 @@ La rémunération de ces activités est assurée par l'Etat ; elle peut être cu
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article. Il précise notamment le type d'activités éducatives confiées aux titulaires des contrats et les conditions dans lesquelles les titulaires des contrats peuvent renoncer à l'exécution de ceux-ci.
 
-Les dispositions du présent article s'appliquent aux formations, établissements et personnels relevant du ministre de l'agriculture, dans le respect des principes définis aux chapitres Ier et III du titre Ier du livre VIII du code rural.
+Les dispositions du présent article s'appliquent aux formations, établissements et personnels relevant du ministre de l'agriculture, dans le respect des principes définis aux chapitres Ier et III du titre Ier du livre VIII du code rural et de la pêche maritime.

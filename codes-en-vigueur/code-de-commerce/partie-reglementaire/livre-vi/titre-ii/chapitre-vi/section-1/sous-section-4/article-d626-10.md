@@ -4,7 +4,7 @@ Les dettes susceptibles d'être remises correspondent :
 
 1° Aux pénalités, intérêts de retard, intérêts moratoires, amendes fiscales ou douanières, majorations, frais de poursuite, quel que soit l'impôt ou le produit divers du budget de l'Etat auquel ces pénalités ou frais s'appliquent ;
 
-2° Aux majorations de retard, frais de poursuite, pénalités et amendes attachés aux cotisations et contributions sociales recouvrées par les organismes de sécurité sociale et par les institutions régies par le livre IX du code de la sécurité sociale et par les institutions régies par le livre VII du code rural ;
+2° Aux majorations de retard, frais de poursuite, pénalités et amendes attachés aux cotisations et contributions sociales recouvrées par les organismes de sécurité sociale et par les institutions régies par le livre IX du code de la sécurité sociale et par les institutions régies par le livre VII du code rural et de la pêche maritime ;
 
 3° Aux majorations de retard, frais de poursuite et pénalités attachés aux contributions et cotisations recouvrées par l'institution mentionnée à l'article L. 5312-1 (1) du code du travail pour le compte de l'organisme gestionnaire du régime d'assurance chômage ;
 

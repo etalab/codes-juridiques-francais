@@ -1,6 +1,6 @@
 # Article L341-1
 
-L'enseignement et la formation professionnelle agricoles sont organisés conformément aux dispositions des articles L. 811-1, L. 811-2, L. 813-1 et L. 813-2 du code rural, ci-après reproduites :
+L'enseignement et la formation professionnelle agricoles sont organisés conformément aux dispositions des articles L. 811-1, L. 811-2, L. 813-1 et L. 813-2 du code rural et de la pêche maritime, ci-après reproduites :
 
 " Art.L. 811-1.-L'enseignement et la formation professionnelle agricoles publics ont pour objet d'assurer, en les associant, une formation générale et une formation technologique et professionnelle dans les métiers de l'agriculture, de la forêt, de l'aquaculture, de la transformation et de la commercialisation des produits agricoles ainsi que dans d'autres métiers concourant au développement de ceux-ci, notamment dans les domaines des services et de l'aménagement de l'espace agricole, rural et forestier, de la gestion de l'eau et de l'environnement. Ils contribuent au développement personnel des élèves, étudiants, apprentis et stagiaires, à l'élévation et à l'adaptation de leurs qualifications et à leur insertion professionnelle et sociale.
 
@@ -22,7 +22,7 @@ L'enseignement et la formation professionnelle agricoles publics sont organisés
 
 Les formations assurées par l'enseignement et la formation professionnelle agricoles publics sont dispensées suivant des programmes et référentiels nationaux, qui en précisent respectivement le contenu et les objectifs et qui sont arrêtés soit par le ministre de l'agriculture, soit conjointement par le ministre de l'agriculture et le ministre chargé de l'éducation nationale, soit par le ministre chargé de l'éducation nationale. Ces formations sont organisées en cycles.
 
-Sous réserve des dispositions des articles L. 6211-1, L. 6211-2, L. 6211-5, L. 6221-1, L. 6232-6, L. 6232-8 à L. 6232-10, L. 6313-1 à L. 6313-11, L. 6324-5 et L. 6325-2 du code du travail, les formations dispensées par l'enseignement général, technologique et professionnel et la formation professionnelle agricoles publics sont sanctionnées par des diplômes d'Etat ou des diplômes nationaux reconnus équivalents aux diplômes de même niveau de l'enseignement général, technologique et professionnel. "
+Sous réserve des dispositions des articles  L. 6211-1, L. 6211-2, L. 6211-5, L. 6221-1, L. 6232-6, L. 6232-8 à L. 6232-10, L. 6313-1 à L. 6313-11, L. 6324-5 et L. 6325-2 du code du travail, les formations dispensées par l'enseignement général, technologique et professionnel et la formation professionnelle agricoles publics sont sanctionnées par des diplômes d'Etat ou des diplômes nationaux reconnus équivalents aux diplômes de même niveau de l'enseignement général, technologique et professionnel. "
 
 " Art.L. 813-1.-Les établissements d'enseignement et de formation professionnelle agricoles privés dont l'association ou l'organisme responsable a passé un contrat avec l'Etat participent au service public d'éducation et de formation. Ils relèvent du ministre de l'agriculture. Leurs enseignements sont dispensés dans le respect des principes de liberté de conscience, d'égal accès de tous à l'éducation et de liberté de l'enseignement, qui implique notamment qu'un tel établissement puisse, à ces conditions, naître d'une initiative privée.
 

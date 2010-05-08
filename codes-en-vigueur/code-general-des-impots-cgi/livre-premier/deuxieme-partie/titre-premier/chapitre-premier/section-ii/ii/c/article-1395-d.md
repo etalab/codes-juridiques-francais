@@ -6,7 +6,7 @@ L'exonération est applicable pendant cinq ans à compter de l'année qui suit c
 
 La liste des parcelles bénéficiant de l'exonération ainsi que les modifications qui sont apportées à cette liste sont communiquées par le maire à l'administration des impôts avant le 1er septembre de l'année qui précède l'année d'imposition. Cette liste ainsi que les modifications qui y sont apportées sont affichées en mairie.
 
-Pour bénéficier de l'exonération, le propriétaire doit fournir au service des impôts avant le 1er janvier de la première année au titre de laquelle l'exonération est applicable ou renouvelable, l'engagement souscrit pour les parcelles lui appartenant inscrites sur la liste dressée par le maire. Pour les parcelles données à bail en application des articles L. 411-l et suivants du code rural, l'engagement doit être cosigné par le preneur. Les modalités de cet engagement sont définies par décret en Conseil d'Etat.
+Pour bénéficier de l'exonération, le propriétaire doit fournir au service des impôts avant le 1er janvier de la première année au titre de laquelle l'exonération est applicable ou renouvelable, l'engagement souscrit pour les parcelles lui appartenant inscrites sur la liste dressée par le maire. Pour les parcelles données à bail en application des articles L. 411-l et suivants du code rural et de la pêche maritime, l'engagement doit être cosigné par le preneur. Les modalités de cet engagement sont définies par décret en Conseil d'Etat.
 
 En cas d'inscription erronée sur la liste ou lorsque les conditions pour bénéficier de l'exonération ne sont pas respectées, les impositions en résultant sont établies au profit de l'Etat dans les conditions prévues à l'article L. 173 du livre des procédures fiscales.
 

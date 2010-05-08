@@ -12,6 +12,6 @@ Ce contrat précise notamment :
 
 4° Les conditions dans lesquelles l'établissement ou le service d'aide par le travail assure au travailleur handicapé l'aide et le soutien médico-social qui lui incombent ;
 
-5° Les conditions dans lesquelles est exercée la surveillance médicale du travailleur handicapé prévue par l'article R. 241-50 du code du travail ou à l'article R. 717-16 du code rural ;
+5° Les conditions dans lesquelles est exercée la surveillance médicale du travailleur handicapé prévue par l'article R. 241-50 du code du travail ou à l'article R. 717-16 du code rural et de la pêche maritime ;
 
 6° Les mesures prévues pour assurer l'adaptation du travailleur handicapé à son nouveau milieu de travail.

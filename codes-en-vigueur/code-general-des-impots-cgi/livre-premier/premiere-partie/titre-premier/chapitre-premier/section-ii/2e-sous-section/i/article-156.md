@@ -108,7 +108,7 @@ d. (sans objet).
 
 10° Conformément à l'article L. 612-6 du code de la sécurité sociale, les cotisations mentionnées à l'article L. 612-2 du code précité et les cotisations instituées par application de l'article L. 612-13 du même code ;
 
-11° Les primes ou cotisations des contrats d'assurances conclus en application des articles L. 752-1 à L. 752-21 du code rural relatifs à l'assurance obligatoire contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des non salariés des professions agricoles ;
+11° Les primes ou cotisations des contrats d'assurances conclus en application des articles L. 752-1 à L. 752-21 du code rural et de la pêche maritime relatifs à l'assurance obligatoire contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des non salariés des professions agricoles ;
 
 12° (sans objet).
 

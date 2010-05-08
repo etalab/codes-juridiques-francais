@@ -2,7 +2,7 @@
 
 I. - Le titre VI du livre V ainsi que les articles L. 574-1 à L. 574-4 sont applicables dans les îles Wallis et Futuna dans les conditions prévues au II.
 
-II. - 1° Les références au code des assurances au 2° de l'article L. 561-2 et à l'article L. 561-20, au code de la sécurité sociale et au code rural au 3° de l'article L. 561-2 et au code de la mutualité au 4° du même article sont remplacées par des références à des dispositions applicables localement ayant le même objet ;
+II. - 1° Les références au code des assurances au 2° de l'article L. 561-2 et à l'article L. 561-20, au code de la sécurité sociale et au code rural et de la pêche maritime au 3° de l'article L. 561-2 et au code de la mutualité au 4° du même article sont remplacées par des références à des dispositions applicables localement ayant le même objet ;
 
 2° Au 8° de l'article L. 561-2, les références à l'article 1er de la loi n° 70-9 du 2 janvier 1970 réglementant les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et fonds de commerce, à l'exclusion de l'échange, de la location ou de la sous-location, saisonnière ou non, en nu ou en meublé, sont remplacées par des références à des dispositions applicables localement ayant le même objet ;
 
@@ -14,6 +14,6 @@ II. - 1° Les références au code des assurances au 2° de l'article L. 561-2 e
 
 6° Pour l'application dans les îles Wallis et Futuna des dispositions des troisième et quatrième alinéas du II de l'article L. 561-29, l'infraction définie à l'article 1741 du code général des impôts s'entend de l'infraction de fraude fiscale au sens des dispositions du 6° du II du présent article. Lorsque le service mentionné à l'article L. 561-23 a reçu des informations sur des faits de soustraction frauduleuse ou de tentative de soustraction frauduleuse à l'établissement ou au payement partiel ou total des impôts prévus par la réglementation fiscale établie localement, il peut les transmettre à l'administration fiscale de la collectivité. Il peut également transmettre à l'administration fiscale de la collectivité des informations sur des faits de blanchiment de fraude fiscale à la réglementation locale. Dans ce dernier cas, l'administration fiscale de la collectivité les transmet au procureur de la République sur avis conforme de la commission des infractions fiscales mentionnée à l'article 1741 A du code général des impôts. Celle-ci se prononce sur le caractère raisonnablement suffisant des soupçons de fraude fiscale déclarés au service mentionné à l'article L. 561-23 du présent code ;
 
-7° Au 3° du I de l'article L. 561-36, les mots : " en vertu de l'article L. 310-12 du code des assurances " sont remplacés par les mots : " en vertu des articles 7 et 8 de l'ordonnance n° 2006-60 du 19 janvier 2006 portant actualisation et adaptation du droit économique et financier applicables à Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna " ;
+7° (Abrogé) ;
 
 8° Au II de l'article L. 561-36, les mots : ", des organismes mentionnés à l' article L. 134-1 du code des juridictions financières " sont supprimés.

@@ -20,7 +20,7 @@ Servitude de passage sur le littoral instituée en application des articles L. 1
 
 c) Eaux.
 
-Servitudes prévues aux articles L. 215-4 et L. 215-5 _(2bis)_ du code de l'environnement ainsi qu'à l'article L. 151-37-1 du code rural, y compris les servitudes instituées en application du décret n° 59-96 du 7 janvier 1959 validées dans les conditions prévues au IV de l'article L. 211-7 du code de l'environnement ;
+Servitudes prévues aux articles L. 215-4 et L. 215-5 _(2bis)_ du code de l'environnement ainsi qu'à l'article L. 151-37-1 du code rural et de la pêche maritime, y compris les servitudes instituées en application du décret n° 59-96 du 7 janvier 1959 validées dans les conditions prévues au IV de l'article L. 211-7 du code de l'environnement ;
 
 Servitudes attachées à la protection des eaux potables instituées en vertu des articles L. 1321-2 et R. 1321-13 du code de la santé publique ;
 
@@ -36,7 +36,7 @@ Règles prévues au I de l'article L. 331-4 du code de l'environnement applicabl
 
 e) Zones agricoles protégées.
 
-Zones agricoles protégées délimitées et classées en application de l'article L. 112-2 du code rural.
+Zones agricoles protégées délimitées et classées en application de l'article L. 112-2 du code rural et de la pêche maritime.
 
 B. - Patrimoine culturel.
 
@@ -110,17 +110,17 @@ b) Eaux et assainissement.
 
 Zones où ont été instituées, en application de la loi n° 62-904 du 4 août 1962 et du décret n° 64-153 du 15 février 1964, les servitudes attachées aux canalisations publiques d'eau et d'assainissement.
 
-Servitudes attachées à l'établissement des canalisations souterraines d'irrigation instituées en application des articles 128-7 et 128-9 du code rural _(4)_ ;
+Servitudes attachées à l'établissement des canalisations souterraines d'irrigation instituées en application des articles 128-7 et 128-9 du code rural et de la pêche maritime _(4)_ ;
 
-Servitudes de passage des engins mécaniques d'entretien et de dépôt des produits de curage et faucardement attachées aux canaux d'irrigation et émissaires d'assainissement instituées en application des articles 128-6 et 138-1 du code rural _(5)_ ;
+Servitudes de passage des engins mécaniques d'entretien et de dépôt des produits de curage et faucardement attachées aux canaux d'irrigation et émissaires d'assainissement instituées en application des articles 128-6 et 138-1 du code rural et de la pêche maritime _(5)_ ;
 
-Servitudes d'écoulement des eaux nuisibles attachées aux travaux d'assainissement des terres par le drainage instituées en application des articles 135 à 138 du code rural _(6)_.
+Servitudes d'écoulement des eaux nuisibles attachées aux travaux d'assainissement des terres par le drainage instituées en application des articles 135 à 138 du code rural et de la pêche maritime _(6)_.
 
 D. - Communications.
 
 a) Cours d'eau.
 
-Servitudes de halage et de marchepied instituées par les articles 15, 16 et 28 du code du domaine public fluvial et de la navigation intérieure et par l'article 424 du code rural _(7)_.
+Servitudes de halage et de marchepied instituées par les articles 15, 16 et 28 du code du domaine public fluvial et de la navigation intérieure et par l'article 424 du code rural et de la pêche maritime _(7)_.
 
 b) Navigation maritime.
 
@@ -172,7 +172,7 @@ Servitudes de protection des centres de réception radio-électriques contre les
 
 Servitudes attachées aux réseaux de télécommunications instituées en application des articles L. 45-1 et L. 48 du code des postes et des communications électroniques.
 
-III -  Servitudes relatives à la Défense Nationale
+III - Servitudes relatives à la Défense Nationale
 
 Servitudes de champ de vue instituées par la loi du 18 juillet 1895 concernant la détermination et la conservation des postes électro-sémaphoriques, modifiée par la loi du 27 mai 1933 ;
 
@@ -206,7 +206,7 @@ B. - Sécurité publique
 
 Plans de prévention des risques naturels prévisibles établis en application de l'article L. 562-1 du code de l'environnement, ou plans de prévention des risques miniers établis en application de l'article 94 du code minier ;
 
-Documents valant plans de prévention des risques naturels prévisibles en application de l'article L. 562-6 du code  de l'environnement ;
+Documents valant plans de prévention des risques naturels prévisibles en application de l'article L. 562-6 du code de l'environnement ;
 
 Servitudes instituées, en ce qui concerne la Loire et ses affluents, par les articles 55 et suivants du code du domaine public fluvial et de la navigation intérieure ;
 

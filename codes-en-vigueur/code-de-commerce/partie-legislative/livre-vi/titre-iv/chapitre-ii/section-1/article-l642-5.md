@@ -6,7 +6,7 @@ Les débats doivent avoir lieu en présence du ministère public lorsque la proc
 
 Le jugement qui arrête le plan en rend les dispositions applicables à tous.
 
-Les droits de préemption institués par le code rural ou le code de l'urbanisme ne peuvent s'exercer sur un bien compris dans ce plan.
+Les droits de préemption institués par le code rural et de la pêche maritime ou le code de l'urbanisme ne peuvent s'exercer sur un bien compris dans ce plan.
 
 Lorsque le plan prévoit des licenciements pour motif économique, il ne peut être arrêté par le tribunal qu'après que le comité d'entreprise ou, à défaut, les délégués du personnel ont été consultés dans les conditions prévues à l'article L. 321-9 du code du travail et l'autorité administrative compétente informée dans les conditions prévues à l'article L. 321-8 du même code. Le plan précise notamment les licenciements qui doivent intervenir dans le délai d'un mois après le jugement. Dans ce délai, ces licenciements interviennent sur simple notification du liquidateur, ou de l'administrateur lorsqu'il en a été désigné, sous réserve des droits de préavis prévus par la loi, les conventions ou les accords collectifs du travail.
 

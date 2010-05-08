@@ -1,6 +1,6 @@
 # Article L946-12
 
-A l'article L. 621-84, l'obligation faite au tribunal de tenir compte des dispositions contenues aux 1°, 2°, 3° et 4° de l'article L. 331-7 du code rural s'entend des prescriptions suivantes :
+A l'article L. 621-84, l'obligation faite au tribunal de tenir compte des dispositions contenues aux 1°, 2°, 3° et 4° de l'article L. 331-7 du code rural et de la pêche maritime s'entend des prescriptions suivantes :
 
 " Observer l'ordre des priorités établi entre l'installation des jeunes agriculteurs et l'agrandissement des exploitations, en tenant compte de l'intérêt économique et social du maintien de l'autonomie de l'exploitation faisant l'objet de la demande ;
 

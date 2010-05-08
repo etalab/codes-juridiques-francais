@@ -4,9 +4,10 @@ Afin de bénéficier des dispositions du deuxième alinéa du II de l'article L.
 
 Dans les quatre mois qui suivent le retrait ou le rachat, le titulaire du plan adresse à l'organisme gestionnaire :
 
-a. En cas d'affectation des sommes au financement de la création d'une entreprise exerçant une activité industrielle, commerciale, artisanale, agricole ou libérale, la copie du récépissé de dépôt de dossier de création d'entreprise tel que prévu à l'article L. 123-9-1 du code de commerce, à l'article L. 311-2-1 du code rural ou à l'article 19-1 de la loi n° 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat ou tout document officiel comportant l'immatriculation de l'entreprise et son identification ;
+a. En cas d'affectation des sommes au financement de la création d'une entreprise exerçant une activité industrielle, commerciale, artisanale, agricole ou libérale, la copie du récépissé de dépôt de dossier de création d'entreprise tel que prévu à l'article L. 123-9-1 du code de commerce, à l'article L. 311-2-1 du code rural et de la pêche maritime ou à l'article 19-1 de la loi n° 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat ou tout document officiel comportant l'immatriculation de l'entreprise et son identification ;
 
-b. En cas d'affectation des sommes au financement de la reprise d'une entreprise exerçant une activité mentionnée au a, la copie du document constatant l'opération, soumis à la formalité de l'enregistrement et mentionné aux articles 635, 638 ou 639 du code général des impôts, accompagnée de tout document officiel comportant l'immatriculation de l'entreprise et son identification ;
+b. En cas d'affectation des sommes au financement de la reprise d'une entreprise exerçant une activité mentionnée au a, la copie du document constatant l'opération, soumis à la formalité de l'enregistrement et mentionné aux articles 635
+,638 ou 639 du code général des impôts, accompagnée de tout document officiel comportant l'immatriculation de l'entreprise et son identification ;
 
 c. Une attestation sur l'honneur délivrée par l'entrepreneur individuel, la société ou, s'agissant de la reprise d'une entreprise, le cédant, mentionnant la date et le montant des sommes ou valeurs investies dans l'entreprise par le titulaire du plan conformément aux conditions fixées par la deuxième phrase du 2 du II de l'article 150-0 A précité ;
 

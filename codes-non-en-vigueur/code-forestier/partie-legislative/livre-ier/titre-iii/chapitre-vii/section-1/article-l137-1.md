@@ -4,4 +4,4 @@ Le pâturage des bovins, ovins, équidés et porcins, ainsi que l'utilisation de
 
 Lorsque le droit de pâturage est concédé à l'amiable, la concession peut être accordée en priorité à un groupement pastoral ou à un agriculteur de la commune de situation des fonds domaniaux concernés ou des communes voisines. En cas de pluralité des demandes, l'attributaire de la concession est désigné après avis de la commission départementale des structures agricoles.
 
-Lorsque la demande de concession de pâturage concerne un usage pastoral extensif saisonnier, une convention pluriannuelle de pâturage est établie dans les formes et conditions prévues aux articles L. 481-3 et L. 481-4 du code rural.
+Lorsque la demande de concession de pâturage concerne un usage pastoral extensif saisonnier, une convention pluriannuelle de pâturage est établie dans les formes et conditions prévues aux articles L. 481-3 et L. 481-4 du code rural et de la pêche maritime.

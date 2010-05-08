@@ -30,4 +30,4 @@ Ce montant est déterminé défalcation faite des charges immobilières qui ont 
 
 5. En cas de calamités telles que grêle, gelée, inondation, dégâts occasionnés par les rongeurs sur les récoltes en terre, mortalité du bétail, l'exploitant peut demander que le bénéfice forfaitaire de son exploitation soit réduit du montant des pertes subies par ses récoltes ou sur son cheptel à condition de présenter, soit une attestation du maire de sa commune en ce qui concerne les sinistres sur les récoltes, soit un certificat dûment établi par le vétérinaire et légalisé par la mairie s'il s'agit de pertes de bétail.
 
-Le tribunal peut prononcer la déchéance du bénéfice de la mesure prévue au premier alinéa à l'encontre des contrevenants aux dispositions des articles L223-18 à L223-19 du code rural.
+Le tribunal peut prononcer la déchéance du bénéfice de la mesure prévue au premier alinéa à l'encontre des contrevenants aux dispositions des articles L223-18 à L223-19 du code rural et de la pêche maritime.

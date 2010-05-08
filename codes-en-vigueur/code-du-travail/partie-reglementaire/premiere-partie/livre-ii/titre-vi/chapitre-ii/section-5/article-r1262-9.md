@@ -30,4 +30,4 @@ Sont applicables, sous réserve des dispositions des articles R. 1262-10 à R. 1
 
 Dans les services de santé au travail, les établissements de santé, sociaux et médico-sociaux, les dispositions prévues par les articles R. 4623-1 à R. 4626-19, R. 4626-21, R. 4626-25 à D. 4626-32 sont applicables.
 
-Dans les professions agricoles, les dispositions des articles R. 717-3 à R. 717-12, R. 717-15 à R. 717-30 du code rural sont applicables.
+Dans les professions agricoles, les dispositions des articles R. 717-3 à R. 717-12, R. 717-15 à R. 717-30 du code rural et de la pêche maritime sont applicables.

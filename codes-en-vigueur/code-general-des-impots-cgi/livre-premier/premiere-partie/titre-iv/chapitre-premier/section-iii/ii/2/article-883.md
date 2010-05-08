@@ -2,7 +2,7 @@
 
 Sont réduits de moitié les salaires dus aux conservateurs des hypothèques pour l'accomplissement des formalités se rapportant :
 
-1° Au paiement fractionné ou différé, autorisé par l'article 1717, du droit d'apport en société, des droits de mutation par décès et des droits de mutation à titre onéreux dus sur les acquisitions effectuées par les Français rapatriés d'outre-mer à l'aide des prêts de reclassement et sur celles effectuées par des migrants agricoles à l'aide de prêts consentis dans le cadre des dispositions de l'article R. 341-5 du code rural ;
+1° Au paiement fractionné ou différé, autorisé par l'article 1717, du droit d'apport en société, des droits de mutation par décès et des droits de mutation à titre onéreux dus sur les acquisitions effectuées par les Français rapatriés d'outre-mer à l'aide des prêts de reclassement et sur celles effectuées par des migrants agricoles à l'aide de prêts consentis dans le cadre des dispositions de l'article R. 341-5 du code rural et de la pêche maritime ;
 
 2° A la vente des biens mis sous séquestre ou en liquidation en conséquence d'une mesure de sûreté générale.
 

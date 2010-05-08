@@ -76,7 +76,7 @@ VII.-Sans que cela fasse obstacle aux dispositions de l'article 70 de l'annexe I
 
 1° Par tarif d'imposition, en volume d'alcool pur et en volume effectif, pour les alcools et les produits alcooligènes mentionnés à l'article 338 du code général des impôts, sous réserve des dispositions relatives aux comptes d'âge ou de vieillissement prévus par les textes réglementaires en vigueur et les règlements des organismes interprofessionnels ;
 
-2° Par tarif d'imposition, en volume effectif, par couleur et par appellation d'origine ou dénomination pour les produits intermédiaires et les produits mentionnés à l'article 438 dudit code, sous réserve des règlements ou accords interprofessionnels prévus notamment en application des articles L. 632-1 à L. 632-7 du code rural ;
+2° Par tarif d'imposition, en volume effectif, par couleur et par appellation d'origine ou dénomination pour les produits intermédiaires et les produits mentionnés à l'article 438 dudit code, sous réserve des règlements ou accords interprofessionnels prévus notamment en application des articles L. 632-1 à L. 632-7 du code rural et de la pêche maritime ;
 
 3° Par tarif d'imposition, en volume effectif, par degré alcoométrique, pour les bières ;
 

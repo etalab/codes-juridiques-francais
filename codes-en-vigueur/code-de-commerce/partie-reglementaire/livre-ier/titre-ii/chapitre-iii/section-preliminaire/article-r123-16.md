@@ -22,7 +22,7 @@ Lorsque la déclaration comporte une demande d'immatriculation au registre du co
 
 Dans le cas prévu au deuxième alinéa de l'article R. 123-5, le greffier adresse copie du récépissé de création d'entreprise au centre de formalités des entreprises.
 
-II.-Lorsqu'il est délivré en application de l'article L. 311-2-1 du code rural, le récépissé de dépôt de dossier de création d'entreprise, délivré gratuitement et sans délai, indique :
+II.-Lorsqu'il est délivré en application de l'article L. 311-2-1 du code rural et de la pêche maritime, le récépissé de dépôt de dossier de création d'entreprise, délivré gratuitement et sans délai, indique :
 
 1° Le nom et l'adresse du centre ;
 

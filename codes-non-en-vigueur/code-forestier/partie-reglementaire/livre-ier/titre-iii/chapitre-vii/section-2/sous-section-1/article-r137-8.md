@@ -2,9 +2,9 @@
 
 Les locations amiables, sans mise en adjudication préalable, sont réservées :
 
-1° A l'Office national de la chasse et de la faune sauvage en vue de l'aménagement des réserves de chasse prévues à l'article L. 222-25 du code rural ;
+1° A l'Office national de la chasse et de la faune sauvage en vue de l'aménagement des réserves de chasse prévues à l'article L. 222-25 du code rural (1) ;
 
-2° Aux associations communales et intercommunales de chasse agréées prévues à l'article L. 222-2 du code rural ;
+2° Aux associations communales et intercommunales de chasse agréées prévues à l'article L. 222-2 du code rural (2) ;
 
 3° A des organismes scientifiques ou techniques afin de conduire des recherches ou des expérimentations sur la gestion de la faune sauvage ;
 

@@ -1,5 +1,6 @@
 # Section 1 : Conseil d'administration.
 
+- [Article R524-1](article-r524-1.md)
 - [Article R524-1-1](article-r524-1-1.md)
 - [Article R524-1-2](article-r524-1-2.md)
 - [Article R524-1-3](article-r524-1-3.md)
@@ -11,3 +12,4 @@
 - [Article R524-6](article-r524-6.md)
 - [Article R524-7](article-r524-7.md)
 - [Article R524-8](article-r524-8.md)
+- [Article R524-9](article-r524-9.md)

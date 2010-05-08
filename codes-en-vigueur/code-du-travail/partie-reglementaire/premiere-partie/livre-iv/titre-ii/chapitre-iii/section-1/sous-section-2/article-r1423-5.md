@@ -8,7 +8,7 @@ L'activité principale de l'entreprise détermine l'appartenance des salariés �
 
 3° Les ouvriers et employés du commerce et des services commerciaux relèvent de la section du commerce et des services commerciaux ;
 
-4° Les ouvriers et employés des professions agricoles mentionnés aux 1° à 3°,6° et 7° de l'article L. 722-20 du code rural relèvent de la section de l'agriculture ;
+4° Les ouvriers et employés des professions agricoles mentionnés aux 1° à 3°,6° et 7° de l'article L. 722-20 du code rural et de la pêche maritime relèvent de la section de l'agriculture ;
 
 5° Relèvent de la section des activités diverses :
 

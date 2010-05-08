@@ -8,4 +8,4 @@ Sous réserve de la compétence de la juridiction de proximité, le tribunal d'i
 
 3° Des contestations relatives aux indemnités dues à raison des servitudes prévues par l'article L. 171-10 du code de la voirie routière ;
 
-4° Des actions mentionnées aux articles L. 211-1 et L. 211-20 du code rural.
+4° Des actions mentionnées aux articles L. 211-1 et L. 211-20 du code rural et de la pêche maritime.

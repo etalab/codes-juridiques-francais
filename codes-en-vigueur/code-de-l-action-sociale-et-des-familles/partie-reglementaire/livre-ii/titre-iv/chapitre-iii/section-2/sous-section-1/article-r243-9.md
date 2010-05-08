@@ -1,6 +1,6 @@
 # Article R243-9
 
-Les cotisations prévues à l'article L. 242-1 du code de la sécurité sociale et aux articles L. 741-3, L. 741-9, L. 751-10 à L. 751-13 du code rural ainsi que les cotisations de retraite complémentaire dues pour les travailleurs handicapés de l'établissement ou du service d'aide par le travail se répartissent ainsi qu'il suit :
+Les cotisations prévues à l'article L. 242-1 du code de la sécurité sociale et aux articles L. 741-3, L. 741-9, L. 751-10 à L. 751-13 du code rural et de la pêche maritime ainsi que les cotisations de retraite complémentaire dues pour les travailleurs handicapés de l'établissement ou du service d'aide par le travail se répartissent ainsi qu'il suit :
 
 a) Le travailleur handicapé acquitte la part de cotisations qui lui incombe sur le montant de ce qu'il perçoit au titre de la rémunération garantie ;
 

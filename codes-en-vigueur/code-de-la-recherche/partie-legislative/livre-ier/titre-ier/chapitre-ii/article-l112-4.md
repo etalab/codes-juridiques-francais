@@ -1,6 +1,6 @@
 # Article L112-4
 
-La recherche agronomique et vétérinaire est régie par les dispositions de l'article L. 830-1 du code rural, ci-après reproduites :
+La recherche agronomique et vétérinaire est régie par les dispositions de l'article L. 830-1 du code rural et de la pêche maritime, ci-après reproduites :
 
 " Art. L. 830-1. - La recherche agronomique et vétérinaire concourt au développement et à la compétitivité de la filière agricole et du secteur de la transformation des produits agricoles. Elle répond en priorité aux impératifs de la gestion durable de l'espace rural, de la valorisation de la biomasse, de la sécurité et de la qualité des produits alimentaires et de la préservation des ressources naturelles mondiales. Elle s'appuie sur le développement de la recherche fondamentale.
 

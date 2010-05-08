@@ -16,7 +16,7 @@ Sera considéré comme étant en état de récidive légale quiconque ayant ét�
 
 - loi du 6 avril 1897 concernant la fabrication, la circulation et la vente des vins artificiels ;
 
-- les articles L. 253-12 et L. 253-13 du code rural ;
+- les articles L. 253-12 et L. 253-13 du code rural et de la pêche maritime ;
 
 - loi du 11 juillet 1906 relative à la protection des conserves de sardines, de légumes et de prunes contre la fraude étrangère, dont les dispositions ont été rendues applicables à toutes les conserves étrangères de poissons entrant en France par la loi du 28 juin 1913 ;
 
@@ -40,7 +40,7 @@ Sera considéré comme étant en état de récidive légale quiconque ayant ét�
 
 - loi du 3 février 1940 tendant à réglementer le commerce des produits destinés à l'alimentation des animaux ;
 
-- les articles L. 253-1 à L. 253-11 et les articles L. 253-14 à L. 253-17 du code rural ;
+- les articles L. 253-1 à L. 253-11 et les articles L. 253-14 à L. 253-17 du code rural et de la pêche maritime ;
 
 - loi n° 60-808 du 5 août 1960 d'orientation agricole ;
 
@@ -50,6 +50,6 @@ Sera considéré comme étant en état de récidive légale quiconque ayant ét�
 
 - loi n° 73-1097 du 12 décembre 1973 sur les appellations d'origine en matière viticole ;
 
-- les articles L. 255-1 à L. 255-11 du code rural ;
+- les articles L. 255-1 à L. 255-11 du code rural et de la pêche maritime ;
 
-- les articles L. 645-1 et L. 671-7 du code rural ;
+- les articles L. 645-1 et L. 671-7 du code rural et de la pêche maritime ;

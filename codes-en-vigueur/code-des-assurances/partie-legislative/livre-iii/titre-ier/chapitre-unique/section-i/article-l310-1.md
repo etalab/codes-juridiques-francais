@@ -8,6 +8,6 @@ Le contrôle de l'Etat s'exerce dans l'intérêt des assurés, souscripteurs et 
 
 3° les entreprises qui sous forme d'assurance directe couvrent d'autres risques y compris ceux liés à une activité d'assistance.
 
-Les mutuelles régies par le code de la mutualité, les institutions régies par le livre IX du code de la sécurité sociale et à l'article L. 727-2 du code rural ne sont pas soumises aux dispositions du présent code.
+Les mutuelles régies par le code de la mutualité, les institutions régies par le livre IX du code de la sécurité sociale et à l'article L. 727-2 du code rural et de la pêche maritime ne sont pas soumises aux dispositions du présent code.
 
 Sont également soumises au contrôle de l'Etat les entreprises agréées à la date du 1er janvier 1993 qui font appel à l'épargne en vue de la capitalisation sans souscrire d'engagements déterminés.

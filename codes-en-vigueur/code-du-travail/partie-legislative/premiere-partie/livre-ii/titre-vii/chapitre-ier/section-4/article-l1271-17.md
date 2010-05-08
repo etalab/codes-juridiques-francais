@@ -6,7 +6,7 @@ Des décrets déterminent les modalités d'utilisation et de fonctionnement du c
 
 2° Celles relatives aux chèques emploi-service universels préfinancés pour la rémunération de personnes ou le paiement de services mentionnés à l'article L. 421-1 du code de l'action sociale et des familles et aux deux premiers alinéas de l'article L. 2324-1 du code de la santé publique ;
 
-3° Celles relatives aux chèques emploi-service universels préfinancés pour la rémunération de personnes mentionnées au 2° de l'article L. 722-20 du code rural employées par des particuliers pour la mise en état et l'entretien de jardins ;
+3° Celles relatives aux chèques emploi-service universels préfinancés pour la rémunération de personnes mentionnées au 2° de l'article L. 722-20 du code rural et de la pêche maritime employées par des particuliers pour la mise en état et l'entretien de jardins ;
 
 4° Celles relatives aux échanges d'information entre l'organisme de recouvrement habilité et les organismes ou établissements mentionnés à l'article L. 1271-10 ;
 

@@ -12,7 +12,7 @@ Les dispositions particulières relatives à l'institution, la compétence, l'or
 
 5° Au code de procédure pénale en ce qui concerne le tribunal d'application des peines ;
 
-6° Au code rural en ce qui concerne le tribunal paritaire des baux ruraux ;
+6° Au code rural et de la pêche maritime en ce qui concerne le tribunal paritaire des baux ruraux ;
 
 7° Au code de la sécurité sociale en ce qui concerne le tribunal des affaires de sécurité sociale, le tribunal du contentieux de l'incapacité et la Cour nationale de l'incapacité et de la tarification de l'assurance des accidents du travail ;
 

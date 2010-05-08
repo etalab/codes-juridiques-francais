@@ -8,7 +8,7 @@ I.-Les établissements publics nationaux dont le jugement des comptes et l'exame
 
 3° Les écoles d'architecture mentionnées à l'article L. 752-1 du code de l'éducation ;
 
-4° Les établissements d'enseignement supérieur agricole et vétérinaire mentionnés à l'article L. 751-1 du code de l'éducation et à l'article L. 812-2 du code rural ;
+4° Les établissements d'enseignement supérieur agricole et vétérinaire mentionnés à l'article L. 751-1 du code de l'éducation et à l'article L. 812-2 du code rural et de la pêche maritime ;
 
 5° Les instituts universitaires de formation des maîtres ;
 

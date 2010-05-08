@@ -10,7 +10,7 @@ Doivent adresser chaque année à l'administration des impôts un relevé récap
 
 4° les caisses de base du régime social des indépendants mentionnées à l'article L. 611-3 du code de la sécurité sociale ;
 
-5° les sociétés et organismes qui assurent le service des prestations prévues par les articles L752-1 à L752-21 du code rural relatifs à l'assurance des personnes non salariées contre les accidents et les maladies professionnelles dans l'agriculture.
+5° les sociétés et organismes qui assurent le service des prestations prévues par les articles L752-1 à L752-21 du code rural et de la pêche maritime relatifs à l'assurance des personnes non salariées contre les accidents et les maladies professionnelles dans l'agriculture.
 
 Ce relevé mentionne, notamment, le montant des honoraires versés par les assurés aux praticiens.
 

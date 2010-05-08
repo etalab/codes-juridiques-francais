@@ -22,7 +22,7 @@ Pour l'application de l'article R. 262-6, il n'est pas tenu compte :
 
 10° Des prestations en nature dues au titre des assurances maladie, maternité, accidents du travail et maladies professionnelles ou au titre de l'aide médicale de l'Etat ;
 
-11° De l'allocation de remplacement pour maternité prévue par les articles L. 613-19-1 et L. 722-8-1 du code de la sécurité sociale et L. 732-10 du code rural ;
+11° De l'allocation de remplacement pour maternité prévue par les articles L. 613-19-1 et L. 722-8-1 du code de la sécurité sociale et L. 732-10 du code rural et de la pêche maritime ;
 
 12° De l'indemnité en capital attribuée à la victime d'un accident du travail prévue à l'article L. 434-1 du code de la sécurité sociale ;
 

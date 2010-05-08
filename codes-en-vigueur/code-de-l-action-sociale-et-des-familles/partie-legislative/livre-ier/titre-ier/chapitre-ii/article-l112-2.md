@@ -2,7 +2,7 @@
 
 Afin d'aider les familles à élever leurs enfants, il leur est accordé notamment :
 
-1° Des prestations familiales mentionnées à l'article L. 511-1 du code de la sécurité sociale et à l'article L. 732-1 du code rural ;
+1° Des prestations familiales mentionnées à l'article L. 511-1 du code de la sécurité sociale et à l'article L. 732-1 code rural et de la pêche maritime ;
 
 2° Des aides à l'emploi pour la garde des jeunes enfants mentionnées au titre IV du livre VIII du code de la sécurité sociale ;
 

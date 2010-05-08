@@ -8,7 +8,7 @@ Ces services sont décomptés au prorata de leur durée effective lorsqu'ils ne 
 
 a) Services accomplis à temps partiel ;
 
-b) Services accomplis à temps incomplet lorsque, concomitamment, a été exercée, dans un établissement d'enseignement privé sous contrat avec l'Etat ou reconnu par celui-ci, une activité de direction ou, dans un centre de formation des personnels mentionnés à l'article L. 914-1 du code de l'éducation ou L. 813-8 du code rural, une activité de direction ou de formateur, sous réserve que ces activités aient donné lieu à validation au regard du régime général de la sécurité sociale ou de la mutualité sociale agricole.
+b) Services accomplis à temps incomplet lorsque, concomitamment, a été exercée, dans un établissement d'enseignement privé sous contrat avec l'Etat ou reconnu par celui-ci, une activité de direction ou, dans un centre de formation des personnels mentionnés à l'article L. 914-1 du code de l'éducation ou L. 813-8 du code rural et de la pêche maritime, une activité de direction ou de formateur, sous réserve que ces activités aient donné lieu à validation au regard du régime général de la sécurité sociale ou de la mutualité sociale agricole.
 
 2° Les périodes accomplies au titre du service national actif ;
 

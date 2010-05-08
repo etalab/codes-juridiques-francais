@@ -6,6 +6,6 @@ Les dispositions qui précèdent sont applicables à une partie de l'exploitatio
 
 Il est tenu compte, s'il y a lieu, de la dépréciation due à l'existence du bail dans l'évaluation des terres incluses dans les différents lots.
 
-Les articles L. 412-14 et L. 412-15 du code rural déterminent les règles spécifiques au bail mentionné au premier alinéa du présent article.
+Les articles L. 412-14 et L. 412-15 du code rural et de la pêche maritime déterminent les règles spécifiques au bail mentionné au premier alinéa du présent article.
 
 Si, en raison de l'inaptitude manifeste du ou des demandeurs à gérer tout ou partie de l'exploitation, les intérêts des cohéritiers risquent d'être compromis, le tribunal peut décider qu'il n'y a pas lieu d'appliquer les trois premiers alinéas du présent article.

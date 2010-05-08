@@ -4,7 +4,7 @@ Le responsable de la mise sur le marché adresse le dossier de demande d'autoris
 
 1° Au ministre chargé de l'environnement pour les produits biocides mentionnés à l'article L. 522-1 du code de l'environnement ;
 
-2° Au ministre chargé de l'agriculture pour les produits phytopharmaceutiques mentionnés à l'article L. 253-1 du code rural ;
+2° Au ministre chargé de l'agriculture pour les produits phytopharmaceutiques mentionnés à l'article L. 253-1 du code rural et de la pêche maritime ;
 
 3° Au ministre chargé du travail lorsque la préparation est exclusivement destinée à un usage professionnel et n'entre pas dans les catégories définies aux 1° et 2° ;
 
