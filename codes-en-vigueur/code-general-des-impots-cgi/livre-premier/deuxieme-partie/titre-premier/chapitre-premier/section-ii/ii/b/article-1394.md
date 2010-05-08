@@ -26,6 +26,6 @@ les immeubles qui sont incorporés gratuitement au domaine de l'Etat, des collec
 
 5° les terrains qui appartiennent aux associations syndicales de propriétaires prévues par l'article 23 de la loi du 11 octobre 1940 modifiée par la loi du 12 juillet 1941 relative à la reconstruction des immeubles d'habitation partiellement ou totalement détruits par suite d'actes de guerre ;
 
-6° lks terrains sis dans les communes de plus de 5. 000 habitants, qui appartiennent aux organismes de jardins familiaux, ou dont ils ont la jouissance, et qu'ils utilisent pour la réalisation de leur objet social, tel qu'il est défini à l'article L561-1 du code rural ;
+6° les terrains sis dans les communes de plus de 5. 000 habitants, qui appartiennent aux organismes de jardins familiaux, ou dont ils ont la jouissance, et qu'ils utilisent pour la réalisation de leur objet social, tel qu'il est défini à l'article L561-1 du code rural et de la pêche maritime ;
 
 7° les sols et terrains passibles de la taxe foncière sur les propriétés bâties.
