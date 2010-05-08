@@ -8,7 +8,6 @@
 - [Article Tableau n° 6](article-tableau-no-6.md)
 - [Article Tableau n° 7](article-tableau-no-7.md)
 - [Article Tableau n° 8](article-tableau-no-8.md)
-- [Article Tableau n° 9](article-tableau-no-9.md)
 - [Article Tableau n° 10](article-tableau-no-10.md)
 - [Article Tableau n° 11](article-tableau-no-11.md)
 - [Article Tableau n° 12](article-tableau-no-12.md)
