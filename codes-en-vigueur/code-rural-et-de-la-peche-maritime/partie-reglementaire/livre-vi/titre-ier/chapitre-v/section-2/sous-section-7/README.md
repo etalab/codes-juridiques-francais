@@ -2,4 +2,5 @@
 
 - [Article D615-37](article-d615-37.md)
 - [Article D615-38](article-d615-38.md)
+- [Article D615-40](article-d615-40.md)
 - [Article D615-41](article-d615-41.md)
