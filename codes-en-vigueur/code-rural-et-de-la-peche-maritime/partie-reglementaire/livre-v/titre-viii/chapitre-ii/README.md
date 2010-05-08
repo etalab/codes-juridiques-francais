@@ -9,4 +9,5 @@
 - [Section 7 : Fédérations de coopératives et association nationale de révision, sociétés de caution mutuelle.](section-7)
 - [Section 8 : Conseils et commissions compétents en matière de coopération agricole.](section-8)
 - [Article R582-1](article-r582-1.md)
+- [Article R582-2](article-r582-2.md)
 - [Article R582-3](article-r582-3.md)

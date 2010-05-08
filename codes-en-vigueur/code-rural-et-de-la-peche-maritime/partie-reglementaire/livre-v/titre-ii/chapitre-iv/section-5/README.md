@@ -2,6 +2,7 @@
 
 - [Article R524-26](article-r524-26.md)
 - [Article R524-27](article-r524-27.md)
+- [Article R524-28](article-r524-28.md)
 - [Article R524-29](article-r524-29.md)
 - [Article R524-30](article-r524-30.md)
 - [Article R524-31](article-r524-31.md)
@@ -12,4 +13,5 @@
 - [Article R524-36](article-r524-36.md)
 - [Article R524-37](article-r524-37.md)
 - [Article R524-38](article-r524-38.md)
+- [Article R524-39](article-r524-39.md)
 - [Article R524-40](article-r524-40.md)

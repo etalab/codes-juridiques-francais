@@ -8,3 +8,4 @@
 - [Section 7 : Fédérations de coopératives et associations nationales de révision, sociétés de caution mutuelle.](section-7)
 - [Section 9 : Dispositions pénales, dispositions d'application.](section-9)
 - [Article L582-1](article-l582-1.md)
+- [Article L582-2](article-l582-2.md)
