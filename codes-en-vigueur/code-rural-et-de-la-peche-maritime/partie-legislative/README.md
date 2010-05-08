@@ -7,3 +7,4 @@
 - [Livre V : Organismes professionnels agricoles](livre-v)
 - [Livre VI : Production et marchés](livre-vi)
 - [Livre VII : Dispositions sociales](livre-vii)
+- [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique](livre-viii)
