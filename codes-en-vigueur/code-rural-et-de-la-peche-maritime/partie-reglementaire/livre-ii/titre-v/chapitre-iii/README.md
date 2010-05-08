@@ -5,3 +5,5 @@
 - [Section 3 : Autorisations de mise sur le marché](section-3)
 - [Section 4 : Mesures prises lors du contrôle des produits phytopharmaceutiques.](section-4)
 - [Section 5 : Dispositions pénales.](section-5)
+- [Section 6 : Dispositions diverses.](section-6)
+- [Section 7 : Dispositions applicables aux préparations naturelles peu préoccupantes](section-7)
