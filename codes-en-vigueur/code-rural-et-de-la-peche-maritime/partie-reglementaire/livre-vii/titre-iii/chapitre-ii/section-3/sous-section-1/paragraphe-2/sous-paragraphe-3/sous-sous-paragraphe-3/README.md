@@ -2,3 +2,5 @@
 
 - [Article D732-78](article-d732-78.md)
 - [Article D732-79](article-d732-79.md)
+- [Article D732-80](article-d732-80.md)
+- [Article D732-81](article-d732-81.md)
