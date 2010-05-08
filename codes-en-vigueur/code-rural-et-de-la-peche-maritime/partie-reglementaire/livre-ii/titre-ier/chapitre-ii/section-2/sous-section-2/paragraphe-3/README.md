@@ -3,3 +3,4 @@
 - [Article D212-28](article-d212-28.md)
 - [Article D212-30-1](article-d212-30-1.md)
 - [Article D212-33](article-d212-33.md)
+- [Article R212-32](article-r212-32.md)
