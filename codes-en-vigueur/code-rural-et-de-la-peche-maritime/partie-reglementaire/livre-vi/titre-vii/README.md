@@ -6,3 +6,4 @@
 - [Article R671-10](article-r671-10.md)
 - [Article R671-11](article-r671-11.md)
 - [Article R671-12](article-r671-12.md)
+- [Article R671-18](article-r671-18.md)

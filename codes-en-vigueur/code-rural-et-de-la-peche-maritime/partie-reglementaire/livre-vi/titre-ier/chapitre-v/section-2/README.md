@@ -7,4 +7,5 @@
 - [Sous-section 5 : Paiement à la surface pour les fruits à coque.](sous-section-5)
 - [Sous-section 6 : Aide aux cultures énergétiques.](sous-section-6)
 - [Sous-section 7 : Utilisation des terres mises en jachère pour la production de matières premières.](sous-section-7)
+- [Sous-section 11 : Aide au tabac.](sous-section-11)
 - [Sous-section 12 : Paiements transitoires pour les fruits et légumes.](sous-section-12)
