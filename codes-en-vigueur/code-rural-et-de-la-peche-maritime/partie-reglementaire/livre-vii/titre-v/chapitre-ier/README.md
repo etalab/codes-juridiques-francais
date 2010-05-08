@@ -8,3 +8,4 @@
 - [Section 6 : Formalités, procédure et contentieux](section-6)
 - [Section 7 : Accidents survenus ou maladies constatées avant le 1er juillet 1973.](section-7)
 - [Section 8 : Prévention](section-8)
+- [Article R751-1](article-r751-1.md)
