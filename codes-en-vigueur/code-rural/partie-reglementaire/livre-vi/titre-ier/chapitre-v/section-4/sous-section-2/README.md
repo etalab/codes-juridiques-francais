@@ -1,7 +1,0 @@
-# Sous-section 2 : Bonnes conditions agricoles et environnementales.
-
-- [Article D615-46](article-d615-46.md)
-- [Article D615-47](article-d615-47.md)
-- [Article D615-49](article-d615-49.md)
-- [Article D615-50](article-d615-50.md)
-- [Article D615-51](article-d615-51.md)

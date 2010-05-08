@@ -52,7 +52,6 @@
 - [Code général des collectivités territoriales](code-general-des-collectivites-territoriales)
 - [Code minier](code-minier)
 - [Code pénal](code-penal)
-- [Code rural](code-rural)
 - [Code rural ancien](code-rural-ancien)
 - [Code de l'action sociale et des familles](code-de-l-action-sociale-et-des-familles)
 - [Code de l'entrée et du séjour des étrangers et du droit d'asile.](code-de-l-entree-et-du-sejour-des-etrangers-et-du-droit-d-asile)
