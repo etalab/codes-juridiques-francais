@@ -2,4 +2,4 @@
 
 - [Chapitre Ier : Organisation des manifestations sportives](chapitre-ier)
 - [Chapitre II : Sécurité des manifestations sportives](chapitre-ii)
-- [Chapitre III : Retransmission des manifestations sportives](chapitre-iii)
+- [Chapitre III : Exploitation des manifestations sportives](chapitre-iii)

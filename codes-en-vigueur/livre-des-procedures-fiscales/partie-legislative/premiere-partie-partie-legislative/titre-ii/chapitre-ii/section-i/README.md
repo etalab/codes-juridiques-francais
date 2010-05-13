@@ -21,4 +21,5 @@
 - [8° : Membres de certaines professions non commerciales](8)
 - [9° : Institutions et organismes versant des rémunérations ou répartissant des fonds](9)
 - [15° bis : Sociétés civiles](15-bis)
+- [5° bis : Autorité de régulation des jeux en ligne](5-bis)
 - [6° bis : Personnes versant des revenus de capitaux  mobiliers](6-bis)
