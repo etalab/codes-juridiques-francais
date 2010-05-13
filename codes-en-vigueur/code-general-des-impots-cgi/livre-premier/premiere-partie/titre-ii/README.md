@@ -18,6 +18,5 @@
 - [Chapitre XIV : Taxe due par les titulaires d'ouvrages hydroélectriques.](chapitre-xiv)
 - [Chapitre XVI : Contribution annuelle sur les logements sociaux à usage locatif](chapitre-xvi)
 - [Chapitre XVIII : Contribution sur la cession à un service de télévision des droits de diffusion de manifestations ou de compétitions sportives](chapitre-xviii)
-- [Chapitre XX : Contribution annuelle destinée à financer le fonds de modernisation de la restauration](chapitre-xx)
 - [Chapitre XIX : Taxe destinée à financer le fonds de garantie des risques liés à l'épandage des boues d'épuration urbaines ou industrielles](chapitre-xix)
 - [Chapitre premier : Taxe sur la valeur ajoutée](chapitre-premier)
