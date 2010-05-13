@@ -7,7 +7,6 @@
 - [Article 95 O](article-95-o.md)
 - [Article 95 P](article-95-p.md)
 - [Article 95 Q](article-95-q.md)
-- [Article 95 R](article-95-r.md)
 - [Article 95 S](article-95-s.md)
 - [Article 95 T](article-95-t.md)
 - [Article 95 U](article-95-u.md)

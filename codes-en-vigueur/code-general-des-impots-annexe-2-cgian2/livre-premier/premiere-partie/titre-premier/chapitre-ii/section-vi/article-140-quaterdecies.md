@@ -1,6 +1,6 @@
 # Article 140 quaterdecies
 
-Le taux de rétrocession mentionné au 5° du I de l'article 217 undecies du code général des impôts est calculé par le rapport existant entre :
+Le taux de rétrocession mentionné dix-neuvième alinéa (5°) du I et au 3° du I bis de l'article 217 undecies du code général des impôts est calculé par le rapport existant entre :
 
 a) Au numérateur, la différence entre, d'une part, le montant hors taxe de l'investissement diminué de la fraction de son prix de revient financée par une subvention publique et, d'autre part, la valeur actualisée de l'ensemble des sommes mises à la charge du locataire lui permettant d'obtenir la disposition du bien et d'en acquérir la propriété au terme de la location ;
 

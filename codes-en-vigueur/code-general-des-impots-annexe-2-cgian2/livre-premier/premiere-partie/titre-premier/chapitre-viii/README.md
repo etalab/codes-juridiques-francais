@@ -10,6 +10,5 @@
 - [VII : Souscription de parts de copropriété de navires](vii)
 - [VII bis : Sociétés de capital-risque](vii-bis)
 - [VII ter : Fonds communs de placement à risques](vii-ter)
-- [VII quater : Déclaration des investissements dans les départements d'outre-mer](vii-quater)
 - [VIII : Réductions d'impôts pour l'achat de biens culturels](viii)
 - [IX : Crédit d'impôt au titre des avances remboursables ne portant pas intérêt pour financer l'acquisition ou la construction d'une résidence principale](ix)
