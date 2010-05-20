@@ -3,4 +3,3 @@
 - [Sous-section 1 : Les prestataires de services de paiement](sous-section-1)
 - [Sous-section 2 : Les établissements de paiement](sous-section-2)
 - [Sous-section 4 :  Les changeurs manuels](sous-section-4)
-- [Article D745-5](article-d745-5.md)
