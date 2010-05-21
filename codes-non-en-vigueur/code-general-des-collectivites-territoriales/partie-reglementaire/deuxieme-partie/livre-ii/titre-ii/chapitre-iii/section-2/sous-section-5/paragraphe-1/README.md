@@ -10,4 +10,3 @@
 - [Article D2223-129](article-d2223-129.md)
 - [Article D2223-130](article-d2223-130.md)
 - [Article D2223-131](article-d2223-131.md)
-- [Article D2223-132](article-d2223-132.md)
