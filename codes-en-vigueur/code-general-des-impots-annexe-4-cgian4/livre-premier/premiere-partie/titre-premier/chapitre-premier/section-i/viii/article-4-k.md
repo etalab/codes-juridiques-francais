@@ -8,6 +8,6 @@ b. Pour les frais visés au 2°, des frais de voyage et de déplacement qui sont
 
 c. Pour les dépenses et charges énumérées au 3°, de celles qui sont afférentes aux véhicules et autres biens, y compris les immeubles non affectés à l'exploitation, que l'entreprise met à la disposition des personnes les mieux rémunérées. Toutefois, le montant de ces dépenses et charges dont il s'agit est diminué, le cas échéant, des dépenses qui, incombant à ces mêmes personnes, ont été prises en charge par l'entreprise, sous forme de rémunérations indirectes ;
 
-d. Pour les dépenses visées au 4°, des cadeaux de toute nature, à l'exception de ceux qui sont spécialement conçus pour la publicité et dont la valeur unitaire n'excède pas 30 euros, toutes taxes comprises, par bénéficiaire ;
+d. (alinéa abrogé) (1).
 
 e. Pour les frais visés au 5°, des frais de réception, y compris les frais de restaurant et de spectacles, qui se rattachent à la gestion de l'entreprise et dont la charge lui incombe normalement.
