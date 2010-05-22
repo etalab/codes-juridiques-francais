@@ -10,4 +10,5 @@
 - [Article 281 F](article-281-f.md)
 - [Article 281 G](article-281-g.md)
 - [Article 281 H](article-281-h.md)
+- [Article 281 H bis](article-281-h-bis.md)
 - [Article 281 J](article-281-j.md)

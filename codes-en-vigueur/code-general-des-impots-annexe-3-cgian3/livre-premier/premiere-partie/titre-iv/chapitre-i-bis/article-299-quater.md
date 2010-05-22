@@ -4,4 +4,4 @@ En cas d'exonération partielle d'impôt de solidarité sur la fortune prévue �
 
 Le certificat ne doit pas être établi depuis plus de six mois lors du dépôt de la déclaration d'impôt de solidarité sur la fortune auprès du service des impôts. Pour les parts de groupement forestier ou de société d'épargne forestière, il ne doit pas être établi depuis plus de deux ans.
 
-Un nouveau certificat doit être produit tous les dix ans. A défaut, les biens correspondant ne bénéficient plus de l'exonération partielle précitée pour les années restant à courir.
+Un nouveau certificat doit être produit tous les dix ans ainsi qu'un bilan de la mise en œuvre du document de gestion durable dans les conditions prévues à l'article 281 H bis.A défaut, les biens correspondant ne bénéficient plus de l'exonération partielle précitée pour les années restant à courir.
