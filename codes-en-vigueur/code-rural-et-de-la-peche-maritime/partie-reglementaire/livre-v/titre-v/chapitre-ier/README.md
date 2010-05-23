@@ -6,4 +6,5 @@
 - [Section 4 : Dispositions particulières aux organisations de producteurs, associations d'organisations de producteurs et groupements de producteurs dans le secteur des fruits et légumes.](section-4)
 - [Section 5 :  Dispositions particulières aux organisations de producteurs dans le secteur de l'élevage porcin](section-5)
 - [Section 6 :  Dispositions particulières aux organisations de producteurs dans les secteurs de l'élevage avicole et cunicole](section-6)
+- [Section 7 : Dispositions particulières aux organisations de producteurs dans le secteur de la reproduction animale](section-7)
 - [Section 8 : Dispositions particulières aux organisations de producteurs dans le secteur forestier](section-8)
