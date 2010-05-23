@@ -6,4 +6,5 @@
 - [Article R6351-4](article-r6351-4.md)
 - [Article R6351-5](article-r6351-5.md)
 - [Article R6351-6](article-r6351-6.md)
+- [Article R6351-6-1](article-r6351-6-1.md)
 - [Article R6351-7](article-r6351-7.md)
