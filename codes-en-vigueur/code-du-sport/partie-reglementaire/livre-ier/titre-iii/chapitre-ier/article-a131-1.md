@@ -8,8 +8,6 @@ Fédération nationale d'aéronautique : Info pilote.
 
 Fédération française d'aérostation : L'Aéronote.
 
-Fédération française d'athlétisme : Infos FFA.
-
 Fédération française des sociétés d'aviron : Aviron magazine.
 
 Fédération française de badminton : Badminton magazine.
