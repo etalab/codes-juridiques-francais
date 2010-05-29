@@ -1,6 +1,6 @@
 # Article R136
 
-La médaille militaire, destinée à récompenser les militaires et assimilés non officiers, peut être attribuée :
+La médaille militaire, destinée à récompenser les militaires non officiers, peut être attribuée :
 
 1° A ceux qui comptent huit années de services militaires ;
 
