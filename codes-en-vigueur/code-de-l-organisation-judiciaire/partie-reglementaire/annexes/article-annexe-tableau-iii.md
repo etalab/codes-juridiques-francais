@@ -559,9 +559,7 @@ Liste des maisons de justice et du droit
 <br/>Nancy <br/>
 </td>
 <td align="center">
-<p align="left">
 <br/>Haut du Lièvre, Tomblaine, Vandœuvre-lès-Nancy, Toul.<br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -847,7 +845,9 @@ Liste des maisons de justice et du droit
 <br/>Rouen <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Elbeuf-sur-Seine, Canteleu, Rouen, Saint-Etienne-du-Rouvray.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -861,7 +861,9 @@ Liste des maisons de justice et du droit
 <br/>Toulouse <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Toulouse, Toulouse-Nord, Toulouse-Ouest.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -888,7 +890,8 @@ Liste des maisons de justice et du droit
 <br/>Chartres <br/>
 </td>
 <td align="center">
-<br/>Dreux.<br/>
+<p align="left">
+<br/>Dreux, Nogent-le-Rotrou.</p>
 </td>
 </tr>
 <tr>
