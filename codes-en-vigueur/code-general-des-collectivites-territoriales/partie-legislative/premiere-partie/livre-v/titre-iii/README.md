@@ -1,0 +1,3 @@
+# TITRE III : SOCIÉTÉS PUBLIQUES LOCALES
+
+- [Article L1531-1](article-l1531-1.md)
