@@ -4,6 +4,6 @@ Les troisièmes concours sont ouverts aux candidats justifiant de l'exercice pen
 
 Au titre d'une même session, un candidat ne peut s'inscrire dans une même section au troisième concours pour l'accès à une liste d'aptitude et au troisième concours correspondant de l'enseignement public.
 
-Les conditions fixées s'apprécient à la date de clôture des registres d'inscription aux concours.
+Les conditions fixées s'apprécient à la date retenue pour les concours correspondants de l'enseignement public.
 
 Les candidats aux troisièmes concours pour l'accès à une liste d'aptitude subissent les mêmes épreuves que les candidats des concours correspondants de l'enseignement public. Ils subissent ces épreuves devant le jury des concours correspondants de l'enseignement public, auquel il est adjoint, pour ces candidats, des représentants des établissements privés associés à l'Etat par contrat et ayant les titres requis pour enseigner (1).
