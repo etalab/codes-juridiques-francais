@@ -132,7 +132,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>1. supérieure à 25 000 m³<sup/>
+<p>1. supérieure à 25 000 m³ <sup/>
 </p>
 </td>
 <td valign="top" width="32">
@@ -560,7 +560,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>a) supérieure à 500 kg / j </p>
+<p>a) supérieure à 500 kg/j </p>
 </td>
 <td valign="top" width="32">
 <p align="center">A</p>
@@ -1424,7 +1424,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>1. Lorsqu'il y a mise en oeuvre de cadmium </p>
+<p>1. Lorsqu'il y a mise en œuvre de cadmium </p>
 </td>
 <td valign="top" width="32">
 <p align="center">A</p>
@@ -1441,7 +1441,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>2. Procédés utilisant des liquides (sans mise en oeuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant : </p>
+<p>2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant : </p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -2436,7 +2436,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>Les organismes génétiquement modifiés visés sont ceux définis par la loi n<sup>o </sup>92-654 du 13 juillet 1992 et par le décret n<sup>o </sup>93-744 du 27 mars 1993 fixant la liste des techniques de modification génétique et les critères de classement des organismes génétiquement modifiés en groupe I et II </p>
+<p>Les organismes génétiquement modifiés visés sont ceux définis par la loi n° 92-654 du 13 juillet 1992 et par le décret n° 93-744 du 27 mars 1993 fixant la liste des techniques de modification génétique et les critères de classement des organismes génétiquement modifiés en groupe I et II </p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -2935,10 +2935,10 @@
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top">
+<td rowspan="5" valign="top">
 <p>2717 </p>
 </td>
-<td valign="top" width="437">
+<td rowspan="3" valign="top" width="437">
 <p>Installation de transit, regroupement ou tri de déchets contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement, à l'exclusion des installations visées aux rubriques 1313, 2710, 2711, 2712 et 2719. </p>
 </td>
 <td valign="top" width="32">
@@ -2947,9 +2947,31 @@
 <td valign="top" width="29">
 <br/>
 </td>
-<td valign="top" width="155"/>
+<td valign="top" width="155">
+<p align="left">La quantité susceptible d'être présente étant :</p>
+</td>
 <td valign="top" width="26">
 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">1. Supérieure ou égale à 50 t</p>
+</td>
+<td align="left" valign="top">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td>
+<p align="left">2. Inférieure à 50 t</p>
+</td>
+<td>
+<p align="center">3</p>
 </td>
 </tr>
 <tr>
@@ -2983,7 +3005,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="4" valign="top">
+<td rowspan="8" valign="top">
 <p>2718</p>
 </td>
 <td valign="top" width="437">
@@ -3043,6 +3065,48 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td>
+<p align="left">1. La quantité de déchets susceptible d'être présente dans l'installation étant :</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">a) Supérieure ou égale à 50 t</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">b) Supérieure ou égale à 1 t et inférieure à 50 t</p>
+</td>
+<td align="left" valign="top">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td>
+<p align="left">2. Non soumis à la taxe</p>
+</td>
+<td>
+<p align="center">-</p>
 </td>
 </tr>
 <tr>
@@ -3133,7 +3197,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>La capacité de traitement étant supérieure à 500 kg / j </p>
+<p>La capacité de traitement étant supérieure à 500 kg/j </p>
 </td>
 <td valign="top" width="32">
 <p align="center">A</p>
@@ -3142,7 +3206,7 @@
 <p align="center">5</p>
 </td>
 <td valign="top" width="155">
-<p>a) supérieure à 50 t / j </p>
+<p>a) supérieure à 50 t/j </p>
 </td>
 <td valign="top" width="26">
 <p align="center">8</p>
@@ -3157,7 +3221,7 @@
 <br/>
 </td>
 <td valign="top" width="155">
-<p>b) supérieure à 10 t / j, mais inférieure ou égale à 50 t / j </p>
+<p>b) supérieure à 10 t/j, mais inférieure ou égale à 50 t/j </p>
 </td>
 <td valign="top" width="26">
 <p align="center">2</p>
@@ -3271,7 +3335,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top">
+<td rowspan="5" valign="top">
 <p>2760 </p>
 </td>
 <td valign="top" width="437">
@@ -3319,6 +3383,28 @@
 </td>
 </tr>
 <tr>
+<td/>
+<td/>
+<td/>
+<td>
+<p align="left">1. La capacité journalière autorisée étant supérieure ou égale à 10 t/j ou la capacité totale de l'installation étant supérieure ou égale à 25 000 t</p>
+</td>
+<td align="center" valign="top">
+<p align="center">6</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td>
+<p align="left">2. La capacité journalière autorisée étant inférieure à 10 t/j et la capacité totale de l'installation étant inférieure à 25 000 t</p>
+</td>
+<td align="center" valign="top">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
 <td rowspan="5" valign="top">
 <p>2770 </p>
 </td>
@@ -3338,7 +3424,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>1. Les déchets destinés à être traités contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement. </p>
+<p>1. Les déchets destinés à être traités contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement : </p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -3363,7 +3449,7 @@
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
+<p align="center">10</p>
 </td>
 </tr>
 <tr>
@@ -3378,12 +3464,12 @@
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>2. Les déchets destinés à être traités ne contenant pas les substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement. </p>
+<p>2. Les déchets destinés à être traités ne contenant pas les substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement quelle que soit la quantité de déchets destinés à être traités. </p>
 </td>
 <td valign="top" width="32">
 <p align="center">A</p>
@@ -3393,7 +3479,7 @@
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
@@ -3412,6 +3498,40 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td/>
+<td>
+<p align="left">La capacité de traitement étant :</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td/>
+<td>
+<p align="left">1. Supérieure ou égale à 3 t/h</p>
+</td>
+<td>
+<p align="center">6</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td/>
+<td>
+<p align="left">2. Inférieure à 3 t/h</p>
+</td>
+<td>
+<p align="center">3</p>
 </td>
 </tr>
 <tr>
@@ -3451,7 +3571,7 @@
 <tr>
 <td valign="top"/>
 <td valign="top" width="437">
-<p>a) La quantité de matières traitées étant supérieure ou égale à 30 t / j </p>
+<p>a) La quantité de matières traitées étant supérieure ou égale à 30 t/j </p>
 </td>
 <td valign="top" width="32">
 <p align="center">A</p>
@@ -3467,7 +3587,7 @@
 <tr>
 <td valign="top"/>
 <td valign="top" width="437">
-<p>b) La quantité de matières traitées étant supérieure ou égale à 3 t / j et inférieure à 30 t / j </p>
+<p>b) La quantité de matières traitées étant supérieure ou égale à 3 t/j et inférieure à 30 t/j </p>
 </td>
 <td valign="top" width="32">
 <p align="center">D</p>
@@ -3499,7 +3619,7 @@
 <tr>
 <td valign="top"/>
 <td valign="top" width="437">
-<p>a) La quantité de matières traitées étant supérieure ou égale à 20 t / j </p>
+<p>a) La quantité de matières traitées étant supérieure ou égale à 20 t/j </p>
 </td>
 <td valign="top" width="32">
 <p align="center">A</p>
@@ -3515,7 +3635,7 @@
 <tr>
 <td valign="top"/>
 <td valign="top" width="437">
-<p>b) La quantité de matières traitées étant supérieure ou égale à 2 t / j et inférieure à 20 t / j </p>
+<p>b) La quantité de matières traitées étant supérieure ou égale à 2 t/j et inférieure à 20 t/j </p>
 </td>
 <td valign="top" width="32">
 <p align="center">D</p>
@@ -3542,6 +3662,50 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td/>
+<td>
+<p align="left">1. Non soumis à la taxe</p>
+</td>
+<td>
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td/>
+<td>
+<p align="left">2. La quantité de matières et déchets traités étant :</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td/>
+<td>
+<p align="left">a) Supérieure ou égale à 50 t/j</p>
+</td>
+<td>
+<p align="center">6</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td/>
+<td>b) Inférieure à 50 t/j </td>
+<td>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
@@ -3581,7 +3745,7 @@
 <tr>
 <td valign="top"/>
 <td valign="top" width="437">
-<p>a) La quantité de matières traitées étant supérieure ou égale à 30 t / j </p>
+<p>a) La quantité de matières traitées étant supérieure ou égale à 30 t/j </p>
 </td>
 <td valign="top" width="32">
 <p align="center">A</p>
@@ -3597,7 +3761,7 @@
 <tr>
 <td valign="top"/>
 <td valign="top" width="437">
-<p>b) La quantité de matières traitées étant inférieure à 30 t / j </p>
+<p>b) La quantité de matières traitées étant inférieure à 30 t/j </p>
 </td>
 <td valign="top" width="32">
 <p align="center">DC</p>
@@ -3664,7 +3828,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>1. Les déchets destinés à être traités contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement. </p>
+<p>1. Les déchets destinés à être traités contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement : </p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -3689,7 +3853,7 @@
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
+<p align="center">10</p>
 </td>
 </tr>
 <tr>
@@ -3704,12 +3868,12 @@
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>2. Les déchets destinés à être traités ne contenant pas les substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement. </p>
+<p>2. Les déchets destinés à être traités ne contenant pas les substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement, quelle que soit la quantité de déchets destinés à être traités. </p>
 </td>
 <td valign="top" width="32">
 <p align="center">A</p>
@@ -3719,11 +3883,11 @@
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" valign="top">
+<td rowspan="8" valign="top">
 <p>2791 </p>
 </td>
 <td valign="top" width="437">
@@ -3783,6 +3947,48 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td>
+<p align="left">1. La capacité de traitement étant :</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">a) Supérieure ou égale à 50 t/j</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j</p>
+</td>
+<td align="left" valign="top">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td>
+<p align="left">2. Non soumis à la taxe</p>
+</td>
+<td>
+<p align="center">-</p>
 </td>
 </tr>
 <tr>
@@ -3947,7 +4153,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et C et si la puissance thermique maximale de l'installation est supérieure à 0, 1 MW </p>
+<p>B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et C et si la puissance thermique maximale de l'installation est supérieure à 0,1 MW </p>
 </td>
 <td valign="top" width="32">
 <p align="center">A</p>
@@ -4104,7 +4310,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>Si la quantité totale de fluides présente dans l'installation (mesurée à 25 <sup>o </sup>C) est : </p>
+<p>Si la quantité totale de fluides présente dans l'installation (mesurée à 25 <sup>o</sup>C) est : </p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -4352,7 +4558,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>2. Lorsque l'installation est du type "circuit primaire fermé"</p>
+<p>2. Lorsque l'installation est du type "circuit primaire fermé" </p>
 </td>
 <td valign="top" width="32">
 <p align="center">D</p>
@@ -4525,7 +4731,7 @@
 <br/>
 </td>
 <td valign="top" width="155">
-<p>supérieure ou égale à 12, 5 t, mais inférieure à 50 t </p>
+<p>supérieure ou égale à 12,5 t, mais inférieure à 50 t </p>
 </td>
 <td valign="top" width="26">
 <p align="center">1</p>
@@ -4587,7 +4793,7 @@
 <p>Vernis, peinture, apprêt, colle, enduit, etc. (application, cuisson, séchage de) sur support quelconque (métal, bois, plastique, cuir, papier, textile) à l'exclusion :</p>
 <p>- des activités de traitement ou d'emploi de goudrons, d'asphaltes, de brais et de matières bitumineuses, couvertes par la rubrique 1521,</p>
 <p>- des activités couvertes par les rubriques 2445 et 2450,</p>
-<p>- des activités de revêtement sur véhicules et engins à moteurs couvertes par la rubrique 2930,</p>
+<p>-des activités de revêtement sur véhicules et engins à moteurs couvertes par la rubrique 2930,</p>
 <p>- ou de toute autre activité couverte explicitement par une autre rubrique. </p>
 </td>
 <td valign="top" width="32">
