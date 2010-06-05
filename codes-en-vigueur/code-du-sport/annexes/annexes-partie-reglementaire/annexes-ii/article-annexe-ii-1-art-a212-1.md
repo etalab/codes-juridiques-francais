@@ -2929,6 +2929,29 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </p>
 </td>
 </tr>
+<tr>
+<td>CQP "assistant moniteur char à voile".<br/>
+</td>
+<td>Initiation à la pratique du char à voile de loisirs dans le support certifié (char assis/allongé, char debout ou char tracté).<br/>
+</td>
+<td>Sous l'autorité d'un titulaire d'un diplôme de niveau IV ou supérieur dans la discipline du char à voile, le nombre de titulaires du CQP assistant moniteur char à voile placés sous cette autorité ne pouvant être supérieur à 3.<p>Dans la limite de 8 chars.</p>
+<p>Vent de force 6 Beaufort maximum.</p>
+<p>Jusqu'au niveau 3 des niveaux de la Fédération française de char à voile.</p>
+</td>
+</tr>
+<tr>
+<td>CQP "assistant professeur arts martiaux".<br/>
+</td>
+<td>Encadrement en autonomie jusqu'au premier niveau de compétition dans la mention considérée (aïkido, aïkibudo, arts martiaux chinois internes, arts martiaux chinois externes, arts énergétiques chinois, judo-jujitsu, karaté et disciplines associées, kendo et disciplines associées, taekwondo et disciplines associées).<br/>
+</td>
+<td>Les mercredis et les samedis pendant l'année scolaire dans les structures de plus de deux cents adhérents.<p>A raison de quatre séquences maximum par semaine pendant l'année scolaire dans les structures de moins de deux cents adhérents.</p>
+<p>A l'exclusion du temps scolaire contraint.</p>
+<p>A l'exclusion du secteur du tourisme.</p>
+<p>Sous réserve de la présentation du certificat d'aptitude à l'exercice de la fonction d'assistant professeur arts martiaux en cours de validité.<br/>
+</p>
+<br/>
+</td>
+</tr>
 </tbody>
 </table>
 
