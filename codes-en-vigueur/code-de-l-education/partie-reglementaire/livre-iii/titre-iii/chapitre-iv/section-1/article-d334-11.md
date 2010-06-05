@@ -10,4 +10,4 @@ Les diplômes délivrés aux candidats admis à l'issue des épreuves, sous rés
 
 En application de modalités fixées par arrêté du ministre chargé de l'éducation, dans toutes les séries du baccalauréat, les diplômes délivrés aux candidats peuvent comporter l'indication :
 
-" section européenne " ou " section de langue orientale ".
+" section européenne " ou " section de langue orientale " ou " option internationale ".
