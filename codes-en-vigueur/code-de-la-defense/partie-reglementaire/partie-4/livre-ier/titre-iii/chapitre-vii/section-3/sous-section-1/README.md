@@ -2,6 +2,7 @@
 
 - [Article R4137-9](article-r4137-9.md)
 - [Article R4137-10](article-r4137-10.md)
+- [Article R4137-10-1](article-r4137-10-1.md)
 - [Article R4137-11](article-r4137-11.md)
 - [Article R4137-12](article-r4137-12.md)
 - [Article R4137-13](article-r4137-13.md)
@@ -15,4 +16,6 @@
 - [Article R4137-21](article-r4137-21.md)
 - [Article R4137-22](article-r4137-22.md)
 - [Article R4137-23](article-r4137-23.md)
+- [Article R4137-23-1](article-r4137-23-1.md)
+- [Article R4137-23-2](article-r4137-23-2.md)
 - [Article R4137-24](article-r4137-24.md)

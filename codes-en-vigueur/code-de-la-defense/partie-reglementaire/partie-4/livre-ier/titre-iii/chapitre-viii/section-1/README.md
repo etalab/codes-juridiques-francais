@@ -9,4 +9,5 @@
 - [Sous-section 7 : Congé de reconversion](sous-section-7)
 - [Sous-section 8 : Affectation temporaire d'un militaire en dehors des armées](sous-section-8)
 - [Article R4138-1](article-r4138-1.md)
+- [Article R4138-1-1](article-r4138-1-1.md)
 - [Article R4138-2](article-r4138-2.md)
