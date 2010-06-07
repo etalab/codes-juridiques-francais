@@ -2,7 +2,7 @@
 
 I.-1. La société de gestion d'un fonds d'investissement de proximité mentionné à l'article L. 214-41-1 du code monétaire et financier ou d'un fonds commun de placement dans l'innovation mentionné à l'article L. 214-41 du même code ou d'un fonds commun de placement à risque mentionné à l'article L. 214-36 du même code ou le dépositaire des actifs de ces fonds agissant pour le compte de la société de gestion est soumis aux obligations définies aux I à III de l'article 46 AI ter lorsque les souscripteurs des parts de ce fonds entendent bénéficier de la réduction d'impôt de solidarité sur la fortune prévue au III de l'article 885-0 V bis du code général des impôts.
 
-2. La société de gestion du fonds ou le dépositaire des actifs du fonds délivre, avant la date limite de dépôt de la déclaration d'impôt de solidarité sur la fortune suivant la souscription des parts, aux souscripteurs qui entendent bénéficier de la réduction d'impôt de solidarité sur la fortune prévue au III de l'article 885-0 V bis du code précité, un état individuel qui mentionne :
+2. La société de gestion du fonds ou le dépositaire des actifs du fonds délivre, au plus tard dans les trois mois suivant la date limite de dépôt de la déclaration d'impôt de solidarité sur la fortune suivant la souscription des parts, aux souscripteurs qui entendent bénéficier de la réduction d'impôt de solidarité sur la fortune prévue au III de l'article 885-0 V bis du code précité, un état individuel qui mentionne :
 
 a. L'objet pour lequel il est établi : application du III de l'article 885-0 V bis du code précité ;
 
@@ -30,4 +30,4 @@ La société de gestion du fonds ou le dépositaire de ses actifs adresse, à la
 
 III.-1. L'engagement de conservation des parts prévu au 1 du III de l'article 885-0 V bis du code précité est constaté par un document, établi en double exemplaire à l'occasion de chaque souscription, qui précise le nombre de parts, la date et le montant total de la souscription réalisée.
 
-2. Pour bénéficier de la réduction d'impôt prévue au III de l'article 885-0 V bis du code précité, le contribuable joint à sa déclaration d'impôt de solidarité sur la fortune l'état individuel qui lui est remis conformément au 2 du I ainsi qu'une copie de l'engagement de conservation mentionné au 1.
+2. Pour bénéficier de la réduction d'impôt prévue au III de l'article 885-0 V bis du code précité, le contribuable joint à sa déclaration d'impôt de solidarité sur la fortune, ou fournit dans les trois mois suivant la date limite de dépôt de ladite déclaration, l'état individuel qui lui est remis conformément au 2 du I ainsi qu'une copie de l'engagement de conservation mentionné au 1.
