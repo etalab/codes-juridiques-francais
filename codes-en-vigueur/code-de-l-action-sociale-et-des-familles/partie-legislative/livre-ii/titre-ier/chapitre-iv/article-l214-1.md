@@ -12,7 +12,7 @@ Les conditions de qualification ou d'expérience professionnelle, de moralité e
 
 Les dispositions de l'article L. 133-6 du code de l'action sociale et des familles s'appliquent aux établissements, services et lieux de vie et d'accueil mentionnés au présent chapitre. "
 
-" Art.L. 2324-2.-" " Les établissements et services mentionnés à l'article L. 2324-1 sont soumis au contrôle et à la surveillance du médecin responsable du service départemental de protection maternelle et infantile. "
+" Art.L. 2324-2.-" Les établissements et services mentionnés à l'article L. 2324-1 sont soumis au contrôle et à la surveillance du médecin responsable du service départemental de protection maternelle et infantile. "
 
 " Art.L. 2324-3.-Lorsqu'il estime que la santé physique ou mentale ou l'éducation des enfants sont compromises ou menacées :
 
