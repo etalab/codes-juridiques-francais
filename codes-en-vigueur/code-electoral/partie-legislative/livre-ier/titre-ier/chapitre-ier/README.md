@@ -4,4 +4,3 @@
 - [Article L2](article-l2.md)
 - [Article L5](article-l5.md)
 - [Article L6](article-l6.md)
-- [Article L7](article-l7.md)
