@@ -8,6 +8,6 @@ Le droit à pension d'invalidité ne peut être reconnu aux intéressés que sur
 
 La pension d'invalidité est toujours concédée à titre temporaire et sous réserve que l'intéressé se soumette, sauf motif valable, aux mesures prescrites en vue de sa rééducation fonctionnelle ou professionnelle.
 
-La pension d'invalidité est servie jusqu'à la fin du mois comprenant le soixantième anniversaire de l'intéressé. Elle est remplacée à cette date par les avantages de vieillesse, l'assuré étant considéré comme inapte au regard de la législation d'assurance vieillesse des exploitants agricoles.
+La pension d'invalidité est servie jusqu'à la fin du mois au cours duquel l'intéressé atteint l'âge prévu au premier alinéa de l'article R. 732-39. Elle est remplacée, à partir de cet âge, par la pension de vieillesse allouée en cas d'inaptitude au travail.
 
 La part excédant les avantages de vieillesse auxquels l'assuré peut prétendre à cette date lui reste acquise. Elle peut être supprimée ou suspendue dans les conditions prévues à l'article R. 732-5 tant que l'assuré n'a pas atteint l'âge de soixante-cinq ans. Elle lui est servie, sauf dispositions contraires prévues par arrêté du ministre chargé de l'agriculture, du ministre chargé de la sécurité sociale et du ministre chargé du budget, au même titre et dans les mêmes conditions que la pension de retraite ou l'allocation d'assurance vieillesse agricole.
