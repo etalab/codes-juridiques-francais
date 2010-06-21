@@ -559,7 +559,9 @@ Liste des maisons de justice et du droit
 <br/>Nancy <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Haut du Lièvre, Tomblaine, Vandœuvre-lès-Nancy, Toul.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -573,7 +575,9 @@ Liste des maisons de justice et du droit
 <br/>Nîmes <br/>
 </td>
 <td align="center">
-<br/>Bagnols-sur-Cèze, Nîmes.<br/>
+<p align="left">
+<br/>Bagnols-sur-Cèze, Nîmes, Vauvert.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -587,7 +591,9 @@ Liste des maisons de justice et du droit
 <br/>Tours <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Joué-lès-Tours.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -600,7 +606,9 @@ Liste des maisons de justice et du droit
 <br/>Blois <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Blois.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -613,7 +621,9 @@ Liste des maisons de justice et du droit
 <br/>Orléans <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Orléans.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -642,7 +652,9 @@ Liste des maisons de justice et du droit
 <br/>Paris <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Paris (10e), Paris (14e), Paris (17e).<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -655,7 +667,9 @@ Liste des maisons de justice et du droit
 <br/>Meaux <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Chelles, Meaux, Val Maubuée.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -663,7 +677,9 @@ Liste des maisons de justice et du droit
 <br/>Melun <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Pontault-Combault, Savigny-le-Temple.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -691,7 +707,9 @@ Liste des maisons de justice et du droit
 <br/>Créteil <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Champigny-sur-Marne.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -705,7 +723,9 @@ Liste des maisons de justice et du droit
 <br/>La Rochelle <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>La Rochelle.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -719,7 +739,9 @@ Liste des maisons de justice et du droit
 <br/>Charleville-Mézières <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Charleville-Mézières, Sedan.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -732,7 +754,9 @@ Liste des maisons de justice et du droit
 <br/>Troyes <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Troyes.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -745,7 +769,9 @@ Liste des maisons de justice et du droit
 <br/>Reims <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Reims.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -759,7 +785,9 @@ Liste des maisons de justice et du droit
 <br/>[Guingamp <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Lannion (3).]<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -767,7 +795,9 @@ Liste des maisons de justice et du droit
 <br/>[Saint-Brieuc <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Lannion (4).]<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -780,7 +810,9 @@ Liste des maisons de justice et du droit
 <br/>Nantes <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Châteaubriant.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -794,7 +826,9 @@ Liste des maisons de justice et du droit
 <br/>Montluçon <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Montluçon.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -808,7 +842,9 @@ Liste des maisons de justice et du droit
 <br/>[Bernay <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Pont-Audemer (3).]<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -816,7 +852,9 @@ Liste des maisons de justice et du droit
 <br/>[Evreux <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Evreux, Louviers, Vernon (3).]<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -824,7 +862,9 @@ Liste des maisons de justice et du droit
 <br/>[Evreux <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Evreux, Louviers, Pont-Audemer, Vernon (4).]<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -837,7 +877,9 @@ Liste des maisons de justice et du droit
 <br/>Le Havre <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Fécamp, Le Havre.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -876,7 +918,9 @@ Liste des maisons de justice et du droit
 <br/>Castres <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Mazamet.<br/>
+</p>
 </td>
 </tr>
 <tr>
