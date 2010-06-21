@@ -35,5 +35,3 @@ II. - Est puni de la peine d'amende prévue pour les contraventions de la 3e cla
 2° Le fait, pour les personnes titulaires d'une autorisation d'expérimenter, de ne pas avoir notifié au préfet leur cessation d'activité ;
 
 3° Le fait, pour toute personne responsable d'un établissement d'expérimentation animale, d'élevage ou de fourniture d'animaux destinés à être utilisés à des fins expérimentales ou à d'autres fins scientifiques, de ne pas être en mesure de présenter aux agents chargés du contrôle, le registre dûment renseigné, permettant d'établir l'origine et la destination des animaux détenus ou qui ont été détenus.
-
-III. - Les personnes morales peuvent être reconnues pénalement responsables, dans les conditions prévues à l'article 121-2 du code pénal, des contraventions prévues aux 1° et 2° du I et au 3° du II ci-dessus, et encourent la peine d'amende, dans les conditions prévues à l'article 131-38 du même code.

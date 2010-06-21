@@ -8,14 +8,10 @@ Les personnes coupables de la contravention prévue au présent article encouren
 
 2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction définie au présent article.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction définie au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-41, les peines suivantes :
 
-Les peines encourues par les personnes morales sont :
+1° L'interdiction, pour une durée de trois ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;
 
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° L'interdiction, pour une durée de trois ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;
-
-3° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
 
 La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15.

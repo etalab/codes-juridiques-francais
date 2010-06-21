@@ -12,5 +12,4 @@
 - [Article R228-11](article-r228-11.md)
 - [Article R228-12](article-r228-12.md)
 - [Article R228-13](article-r228-13.md)
-- [Article R228-14](article-r228-14.md)
 - [Article R228-16](article-r228-16.md)

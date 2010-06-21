@@ -4,10 +4,4 @@ Hors le cas prévu par l'article R. 625-3, le fait, par maladresse, imprudence, 
 
 Les personnes coupables de la contravention prévue au présent article encourent également la peine complémentaire de confiscation de la chose qui a servi à commettre l'infraction.
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction définie au présent article.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° La confiscation de la chose qui a servi à commettre l'infraction.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction définie au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-41, la peine de confiscation de la chose qui a servi à commettre l'infraction.

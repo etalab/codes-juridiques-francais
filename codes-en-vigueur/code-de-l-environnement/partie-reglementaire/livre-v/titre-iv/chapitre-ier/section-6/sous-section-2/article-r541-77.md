@@ -6,12 +6,6 @@ Ainsi qu'il est dit à l'article R. 635-8 du code pénal :
 
 Les personnes coupables de la contravention prévue au présent article encourent également la peine complémentaire de confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction définie au présent article.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction définie au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-41, la peine de confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
 
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-41 ;
-
-2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
-
-La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15. "
+La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15.

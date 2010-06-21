@@ -14,6 +14,6 @@ I.-Est puni de l'amende prévue pour les contraventions de la 4e classe :
 
 II.-Est puni de l'amende prévue pour les contraventions de la 3e classe le fait, pour toute personne exerçant les fonctions de convoyeur, de ne pas être en mesure de présenter aux agents chargés du contrôle, pendant le voyage d'animaux vivants, les documents désignés à l'article R. 214-59.
 
-III.-Les personnes morales peuvent être reconnues pénalement responsables, dans les conditions prévues à l'article 121-2 du code pénal, des contraventions prévues aux 1°, 2°, 3° et 4° du I et encourent la peine d'amende, dans les conditions prévues à l'article 131-38 du même code.
+III.(alinéa supprimé)
 
 IV.-Est puni de la peine d'amende prévue pour les contraventions de la 3e classe le fait pour tout transporteur d'animaux d'aquaculture au sens du b du 1 de l'article 3 de la directive 2006 / 88 / CE du 24 octobre 2006 de ne pas remplir, à l'issue de chaque transport, le relevé mentionné à l'article R. 212-79 ou de ne pas le conserver pendant la durée prévue au même article.
