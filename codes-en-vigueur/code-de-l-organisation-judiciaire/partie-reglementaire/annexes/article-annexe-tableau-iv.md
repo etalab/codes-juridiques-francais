@@ -9,7 +9,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p align="center">Siège<br/>du tribunal<br/>de grande instance </p>
 </td>
 <td width="109">
-<p align="center">Siège<br/>du tribunal d'instance et<br/>de la juridiction<br/>de proximité</p>
+<p align="center">Siège<br/>du tribunal d'instance et<br/>de la juridiction<br/>de proximité </p>
 </td>
 <td width="333">
 <p align="center">Ressort </p>
@@ -621,7 +621,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>[Péronne (6)] </p>
+<p>[Péronne (16)] </p>
 </td>
 <td valign="top" width="333">
 <p>Cantons d'Albert, Bray-sur-Somme, Chaulnes, Combles, Ham, Nesle, Péronne et Roisel. </p>
@@ -629,7 +629,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td valign="top" width="154">
-<p>[Péronne (5)] </p>
+<p>[Péronne (15)] </p>
 </td>
 <td valign="top" width="109">
 <p>Péronne </p>
@@ -1368,7 +1368,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>[Bourges </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Baugy, Bourges 1er canton, Bourges 2° canton, Bourges 3e canton, Bourges 4e canton, Bourges 5e canton, Chârost, Les Aix d'Angillon, Levet, Mehun-sur-Yèvre, Saint-Doulchard et Saint-Martin-d'Auxigny. (11)] </p>
+<p>Cantons de Baugy, Bourges 1er canton, Bourges 2e canton, Bourges 3e canton, Bourges 4e canton, Bourges 5e canton, Chârost, Les Aix d'Angillon, Levet, Mehun-sur-Yèvre, Saint-Doulchard et Saint-Martin-d'Auxigny. (11)] </p>
 </td>
 </tr>
 <tr>
@@ -2159,7 +2159,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>[Chalon-sur-Saône </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Buxy, Chagny, Chalon-sur-S aône-Centre, Chalon-sur-Saône-Nord, Chalon-sur-Saône-Ouest, Chalon-sur-Saône-Sud, Givry, Saint-Germain-du-Plain, Saint-Martin-en-Bresse, Sennecey-le-Grand et Verdun-sur-le-Doubs. (3)] </p>
+<p>Cantons de Buxy, Chagny, Chalon-sur-Saône-Centre, Chalon-sur-Saône-Nord, Chalon-sur-Saône-Ouest, Chalon-sur-Saône-Sud, Givry, Saint-Germain-du-Plain, Saint-Martin-en-Bresse, Sennecey-le-Grand et Verdun-sur-le-Doubs. (3)] </p>
 </td>
 </tr>
 <tr>
@@ -2495,7 +2495,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>Cayenne </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Approuague-Kaw, Cayenne 1, r canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura, Saint-Georges Oyapoc, Saint-Laurent-du-Maroni et Sinnamary. </p>
+<p>Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura, Saint-Georges Oyapoc, Saint-Laurent-du-Maroni et Sinnamary. </p>
 </td>
 </tr>
 <tr>
@@ -3477,18 +3477,18 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>Epinal </p>
 </td>
 <td valign="top" width="109">
-<p align="left">[Epinal </p>
+<p>[Epinal </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons de Bains-les-Bains, Bruyères, Bulgnéville, Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est, Épinal-Ouest, Lamarche, Neufchâteau, Rambervillers et Xertigny. (11)] </p>
+<p>Cantons de Bains-les-Bains, Bruyères, Bulgnéville, Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est, Épinal-Ouest, Lamarche, Neufchâteau, Rambervillers et Xertigny. (11)] </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">[Epinal </p>
+<td>
+<p>[Epinal </p>
 </td>
-<td align="left" valign="top">
-<p align="left">Cantons de Bains-les-Bains, Bruyères, Bulgnéville, </p>
+<td>
+<p>Cantons de Bains-les-Bains, Bruyères, Bulgnéville, </p>
 <p>Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est, </p>
 <p>Épinal-Ouest, Lamarche, Le Thillot, Neufchâteau, </p>
 <p>Plombière-les-Bains, Rambervillers, Remiremont, </p>
@@ -3500,7 +3500,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>[Mirecourt </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons de Charmes, Darney, Dompaire, Mirecourt, Monthureux-sur-Saône et Vittel. (3)] </p>
+<p>Cantons de Charmes, Darney, Dompaire, Mirecourt, Monthureux-sur-Saône et Vittel. (3)] </p>
 </td>
 </tr>
 <tr>
@@ -3858,7 +3858,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>[Vendôme </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1 ` t canton et Vendôme 2e canton. (3)] </p>
+<p>Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1er canton et Vendôme 2e canton. (3)] </p>
 </td>
 </tr>
 <tr>
@@ -5383,7 +5383,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td valign="top" width="154">
-<p>[Moulins ] </p>
+<p>Moulins </p>
 </td>
 <td valign="top" width="109">
 <p>Moulins </p>
@@ -5954,7 +5954,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p align="left">Montauban</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Cantons de Caussade, Caylus, Lafrançaise, Molières,<br/>Monclar-de-Quercy, Montauban, 1er canton, Montauban 2e<br/>canton, Montauban 3ème canton, Montauban 4e canton,<br/>Montauban 5e canton, Montauban 6e canton, Montpezat-<br/>de-Quercy, Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier.<br/>
+<p align="left">Cantons de Caussade, Caylus, Lafrançaise, Molières,<br/>Monclar-de-Quercy, Montauban, 1er canton, Montauban<br/>2e canton, Montauban 3ème canton, Montauban 4e canton,<br/>Montauban 5e canton, Montauban 6e canton, Montpezat-<br/>de-Quercy, Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier.<br/>
 </p>
 </td>
 </tr>
@@ -6407,3 +6407,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 (13) applicable jusqu'au 30 juin 2009.
 
 (14) applicable à compter du 1er juillet 2009.
+
+(15) Applicable jusqu'au 30 juin 2010.
+
+(16) Applicable à compter du 1er juillet 2010.
