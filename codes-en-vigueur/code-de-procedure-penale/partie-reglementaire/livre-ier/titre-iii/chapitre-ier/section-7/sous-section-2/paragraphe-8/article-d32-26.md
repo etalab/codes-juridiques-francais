@@ -4,7 +4,7 @@ Lorsque l'assignation à résidence avec surveillance électronique concerne un 
 
 La décision d'assignation à résidence avec surveillance électronique est alors accompagnée d'une décision de placement au sein de l'établissement.
 
-En cas d'assignation à résidence avec surveillance électronique au domicile des représentants légaux du mineur, le juge d'instruction spécialement chargé des affaires concernant les mineurs, le juge de l'enquête ou des libertés ou le juge des enfants compétent pour ordonner la mesure recueille préalablement l'accord écrit de ces derniers.
+En cas d'assignation à résidence avec surveillance électronique au domicile des représentants légaux du mineur, le juge d'instruction spécialement chargé des affaires concernant les mineurs, le juge des libertés et de la détention ou le juge des enfants compétent pour ordonner la mesure recueille préalablement l'accord écrit de ces derniers.
 
 Les vérifications prévues par les articles D. 32-4 et D. 32-5 sont confiées à un service du secteur public de la protection judiciaire de la jeunesse. Lorsque la personne mise en examen, mineure au moment des faits, a atteint l'âge de dix-huit ans, ces vérifications peuvent être confiées au service pénitentiaire d'insertion et de probation.
 
