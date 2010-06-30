@@ -2,7 +2,7 @@
 
 Les fonctions de juré sont incompatibles avec celles qui sont énumérées ci-après :
 
-1° Membre du Gouvernement, du Parlement, du Conseil constitutionnel, du Conseil supérieur de la magistrature et du Conseil économique et social ;
+1° Membre du Gouvernement, du Parlement, du Conseil constitutionnel, du Conseil supérieur de la magistrature et du   Conseil économique, social et environnemental ;
 
 2° Membre du Conseil d'Etat ou de la Cour des comptes, magistrat de l'ordre judiciaire, membre des tribunaux administratifs, magistrat des tribunaux de commerce, assesseur des tribunaux paritaires de baux ruraux et conseiller prud'homme ;
 

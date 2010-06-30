@@ -8,4 +8,4 @@ L'Agence nationale pour l'amélioration des conditions de travail est administr�
 
 3° Des représentants des ministres intéressés et de personnes qualifiées.
 
-En outre, participent au conseil d'administration, à titre consultatif, un représentant de chacune des commissions chargées des affaires sociales au Parlement, ainsi qu'un représentant de la section chargée des affaires sociales au Conseil économique et social.
+En outre, participent au conseil d'administration, à titre consultatif, un représentant de chacune des commissions chargées des affaires sociales au Parlement, ainsi qu'un représentant de la section chargée des affaires sociales au   Conseil économique, social et environnemental.

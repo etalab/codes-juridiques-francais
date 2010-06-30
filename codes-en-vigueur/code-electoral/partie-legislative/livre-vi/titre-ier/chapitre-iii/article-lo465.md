@@ -4,7 +4,7 @@ I. - Le mandat de conseiller général est incompatible :
 
 1° Avec les fonctions de représentant de l'Etat, directeur de cabinet, secrétaire général, secrétaire général adjoint et directeur de préfecture ;
 
-2° Avec la qualité de membre du conseil économique et social ou du conseil de la culture, de l'éducation et de l'environnement de Mayotte ;
+2° Avec la qualité de membre du Conseil économique, social et environnemental ou du conseil de la culture, de l'éducation et de l'environnement de Mayotte ;
 
 3° Avec la qualité de membre d'une assemblée ou d'un exécutif d'une collectivité à statut particulier régie par le premier alinéa de l'article 72 de la Constitution, d'une collectivité mentionnée au dernier alinéa de l'article 73 de la Constitution, d'une autre collectivité d'outre-mer régie par l'article 74 de la Constitution ou de la collectivité régie par le titre XIII de la Constitution, ainsi qu'avec celle de conseiller général d'un département, de conseiller régional, de conseiller de Paris ou de membre de l'Assemblée de Corse ;
 
