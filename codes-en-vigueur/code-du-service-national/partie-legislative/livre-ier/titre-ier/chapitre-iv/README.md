@@ -1,4 +1,4 @@
-# Chapitre IV : L'enseignement de la défense et l'appel de préparation à la défense.
+# Chapitre IV : L'enseignement de la défense et       la journée défense et citoyenneté.
 
 - [Article L114-1](article-l114-1.md)
 - [Article L114-2](article-l114-2.md)

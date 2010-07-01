@@ -1,6 +1,5 @@
-# Chapitre II : Les volontariats civils
+# Chapitre II : Dispositions relatives aux volontariats internationaux
 
-- [Section I : Principes de volontariats civils.](section-i)
-- [Section II : Droits et obligations du volontaire civil.](section-ii)
+- [Section I : Principes du volontariat international.](section-i)
+- [Section II : Droits et obligations du volontaire international.](section-ii)
 - [Section III : Dispositions diverses.](section-iii)
-- [Section IV : Dispositions relatives à l'outre-mer.](section-iv)

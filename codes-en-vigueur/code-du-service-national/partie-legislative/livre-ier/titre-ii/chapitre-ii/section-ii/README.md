@@ -1,4 +1,4 @@
-# Section II : Droits et obligations du volontaire civil.
+# Section II : Droits et obligations du volontaire international.
 
 - [Article L122-10](article-l122-10.md)
 - [Article L122-11](article-l122-11.md)

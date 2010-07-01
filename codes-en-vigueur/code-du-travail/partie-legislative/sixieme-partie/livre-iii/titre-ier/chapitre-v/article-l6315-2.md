@@ -18,7 +18,7 @@ Il est mis à disposition de toute personne un modèle de passeport orientation 
 
 ― les habilitations de personnes ;
 
-― le ou les emplois occupés et les activités bénévoles, ainsi que les connaissances, les compétences et les aptitudes professionnelles mises en œuvre dans le cadre de ces emplois et de ces activités.
+― le ou les emplois occupés, le service civique et les activités bénévoles effectués, ainsi que les connaissances, les compétences et les aptitudes professionnelles mises en œuvre dans le cadre de ces emplois, de ce service civique et de ces activités.
 
 L'employeur ne peut exiger du salarié qui répond à une offre d'embauche qu'il lui présente son passeport orientation et formation. Est illicite le fait de refuser l'embauche d'un salarié en raison de son refus ou de son impossibilité de présenter son passeport orientation et formation.
 
