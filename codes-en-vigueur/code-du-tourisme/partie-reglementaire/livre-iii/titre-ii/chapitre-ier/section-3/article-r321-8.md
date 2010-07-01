@@ -1,5 +1,5 @@
 # Article R321-8
 
-Des sanctions peuvent être prononcées par le préfet, pour défaut ou insuffisance grave d'entretien de l'immeuble et des installations, et, d'une façon générale, lorsque l'exploitation cesse d'être assurée dans des conditions satisfaisantes d'accueil, de moralité et de compétence professionnelle.
+Le préfet peut prononcer la radiation de la liste des établissements classés résidences de tourisme pour défaut ou insuffisance grave d'entretien des bâtiments et des installations.
 
-Toutes les réclamations faisant état de tels manquements sont soumises au préfet de département.
+Il informe de sa décision l'organisme mentionné à l'article L. 141-2.

@@ -1,3 +1,3 @@
 # Article R321-9
 
-Le non-respect de l'obligation prévue à l'article D. 321-4 entraîne la radiation de la liste des établissements classés de tourisme.
+La radiation prévue à l'article R. 321-8 ne peut être prononcée sans que l'exploitant en ait été préalablement avisé et invité à se faire entendre personnellement ou par mandataire.

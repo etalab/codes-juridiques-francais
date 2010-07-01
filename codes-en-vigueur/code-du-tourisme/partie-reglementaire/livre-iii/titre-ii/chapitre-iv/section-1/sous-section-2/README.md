@@ -7,4 +7,3 @@
 - [Article D324-6](article-d324-6.md)
 - [Article D324-7](article-d324-7.md)
 - [Article D324-8](article-d324-8.md)
-- [Article R*324-9](article-r-324-9.md)
