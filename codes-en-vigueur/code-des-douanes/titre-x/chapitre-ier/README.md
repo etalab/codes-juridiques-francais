@@ -11,6 +11,7 @@
 - [Article 265 septies](article-265-septies.md)
 - [Article 265 octies](article-265-octies.md)
 - [Article 265 A](article-265-a.md)
+- [Article 265 A bis](article-265-a-bis.md)
 - [Article 265 B](article-265-b.md)
 - [Article 266](article-266.md)
 - [Article 266 bis](article-266-bis.md)
