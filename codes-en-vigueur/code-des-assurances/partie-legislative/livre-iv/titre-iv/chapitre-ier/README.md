@@ -2,4 +2,3 @@
 
 - [Section I : Dispositions générales.](section-i)
 - [Section II : Règles techniques et comptables.](section-ii)
-- [Section IV : Dispositions transitoires.](section-iv)
