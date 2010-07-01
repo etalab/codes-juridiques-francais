@@ -16,7 +16,7 @@ b (Transféré sous le b de l'article 80 ter) ;
 
 2° ter Les majorations de retraite ou de pension pour charges de famille ;
 
-3° Les sommes attribuées à l'héritier d'un exploitant agricole au titre du contrat de travail à salaire différé prévu par l'article L321-13 du code rural ;
+3° Les sommes attribuées à l'héritier d'un exploitant agricole au titre du contrat de travail à salaire différé prévu par l'article L321-13 du code rural et de la pêche maritime ;
 
 4° a. Les pensions servies en vertu des dispositions du code des pensions militaires d'invalidité et des victimes de guerre ainsi que la retraite du combattant mentionnée aux articles L. 255 à L. 257 du même code ;
 
@@ -54,7 +54,7 @@ b.L'allocation de reconnaissance prévue aux I et I bis de l'article 47 de la lo
 
 14° ter L'indemnité prévue par l'article L. 1121-11 du code de la santé publique ;
 
-15° Les prestations, visées aux articles L. 325-1 et L. 325-2 du code rural dans le cadre de l'entraide entre agriculteurs.
+15° Les prestations, visées aux articles L. 325-1 et L. 325-2 du code rural et de la pêche maritime dans le cadre de l'entraide entre agriculteurs.
 
 Ces dispositions pourront être étendues par décret en conseil d'Etat aux départements d'outre-mer ;
 
@@ -66,15 +66,15 @@ Ces dispositions pourront être étendues par décret en conseil d'Etat aux dép
 
 17° a. Les prestations de subsistance, d'équipement et de logement ainsi que l'indemnité forfaitaire d'entretien allouées, en application de l'article L. 104 du code du service national, au personnel accomplissant le service national actif dans le service de la coopération ou dans le service de l'aide technique ;
 
-b.L'indemnité mensuelle et l'indemnité supplémentaire versées dans le cadre de l'accomplissement du volontariat civil en application de l'article L. 122-12 du code du service national ;
+b.L'indemnité mensuelle et l'indemnité supplémentaire versées dans le cadre de l'accomplissement d'un volontariat international en application de l'article L. 122-12 du code du service national ;
 
 c. l'allocation et la prime versées dans le cadre du contrat de volontariat pour l'insertion conformément à l'article L. 130-3 du code du service national ;
 
 d. l'indemnité versée dans le cadre d'un contrat de volontariat de solidarité internationale en application de l'article 7 de la loi n° 2005-159 du 23 février 2005 relative au contrat de volontariat de solidarité internationale ;
 
-e. l'indemnité versée et l'avantage résultant de la contribution de l'association ou de la fondation d'utilité publique au financement de titres-repas dans le cadre d'un contrat de volontariat associatif en application des articles 9 et 11 de la loi n° 2006-586 du 23 mai 2006 relative au volontariat associatif et à l'engagement éducatif ;
+e.L'indemnité versée, les prestations de subsistance, d'équipement et de logement ainsi que l'avantage résultant de la contribution de la personne morale agréée au financement des titres-repas dans le cadre d'un engagement de service civique en application des articles L. 120-21 et L. 120-22 du code du service national ;
 
-f. l'avantage résultant pour le bénévole de la contribution de l'association au financement de chèques-repas en application de l'article 12 de la loi n° 2006-586 du 23 mai 2006 relative au volontariat associatif et à l'engagement éducatif ;
+f. l'avantage résultant pour le bénévole de la contribution de l'association au financement de chèques-repas en application de l'article 12 de la loi n° 2006-586 du 23 mai 2006 relative à l'engagement éducatif ;
 
 17° bis Le versement complémentaire de l'entreprise effectué à l'occasion de l'émission et de l'achat en bourse d'actions réservées aux salariés et mentionné aux articles L. 225-192 et L. 225-196 du code de commerce ;
 
@@ -125,7 +125,7 @@ d. (disjoint) ;
 
 27° L'allocation forfaitaire complémentaire, les aides spécifiques au logement et les aides spécifiques en faveur des conjoints survivants servies en application de la loi n° 94-488 du 11 juin 1994 relative aux rapatriés anciens membres des formations supplétives et assimilés ou victimes de la captivité en Algérie ;
 
-28° Lorsqu'elle est prise en charge par l'employeur, la part salariale du complément de cotisation d'assurance vieillesse, prévue à l'article L. 741-24 du code rural ;
+28° Lorsqu'elle est prise en charge par l'employeur, la part salariale du complément de cotisation d'assurance vieillesse, prévue à l'article L. 741-24 du code rural et de la pêche maritime ;
 
 29° Les vacations horaires, l'allocation de vétérance personnelle ou de reversion et la prestation de fidélisation et de reconnaissance servies aux sapeurs-pompiers volontaires ou à leurs ayants droit, en application du titre II de la loi n° 96-370 du 3 mai 1996 relative au développement du volontariat dans les corps de sapeurs-pompiers ;
 
