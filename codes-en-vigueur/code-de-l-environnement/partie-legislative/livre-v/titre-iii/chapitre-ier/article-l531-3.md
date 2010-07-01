@@ -1,6 +1,6 @@
 # Article L531-3
 
-Le Haut Conseil des biotechnologies a pour missions d'éclairer le Gouvernement sur toutes questions intéressant les organismes génétiquement modifiés ou toute autre biotechnologie et de formuler des avis en matière d'évaluation des risques pour l'environnement et la santé publique que peuvent présenter l'utilisation confinée ou la dissémination volontaire des organismes génétiquement modifiés, ainsi qu'en matière de surveillance biologique du territoire prévue à l'article L. 251-1 du code rural, sans préjudice des compétences exercées par les agences visées aux articles L. 1323-1 et L. 5311-1 du code de la santé publique. Ses avis et recommandations sont rendus publics.
+Le Haut Conseil des biotechnologies a pour missions d'éclairer le Gouvernement sur toutes questions intéressant les organismes génétiquement modifiés ou toute autre biotechnologie et de formuler des avis en matière d'évaluation des risques pour l'environnement et la santé publique que peuvent présenter l'utilisation confinée ou la dissémination volontaire des organismes génétiquement modifiés, ainsi qu'en matière de surveillance biologique du territoire prévue à l'article L. 251-1 du code rural, sans préjudice des compétences exercées par les agences visées aux articles L. 1313-1 et L. 5311-1 du code de la santé publique. Ses avis et recommandations sont rendus publics.
 
 En vue de l'accomplissement de ses missions, le haut conseil :
 
