@@ -17,3 +17,5 @@ La représentation des collectivités territoriales est assurée, le cas échéa
 6° En cas de refus d'approbation ou de retrait de l'approbation donnée, l'élection d'un autre président ou la nomination d'un autre directeur dans un délai déterminé par le ministre de l'agriculture ;
 
 7° La mise en place d'un comité technique consultatif dans chacun des départements figurant dans la zone d'action de la société d'aménagement foncier et d'établissement rural.
+
+Dans la région d'Ile-de-France, les compétences des comités techniques des départements de Paris et des Hauts-de-Seine, du département de la Seine-Saint-Denis et de celui du Val-de-Marne sont exercées respectivement par les comités techniques départementaux des Yvelines, du Val-d'Oise et de l'Essonne.

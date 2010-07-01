@@ -6,11 +6,11 @@ A Paris, la commission comprend :
 
 2° Le directeur de l'enseignement de la ville de Paris ou son représentant ;
 
-3° Le             directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou son représentant ;
+3° Le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou son représentant ;
 
-4° Le directeur général de l'action sanitaire et sociale de la préfecture de Paris ou son représentant ;
+4° Le directeur général de l'action sanitaire et sociale de la  préfecture de la région d'Ile-de-France, préfecture de Paris ou son représentant ;
 
-5° Un médecin inspecteur de la santé de la préfecture de Paris ;
+5° Un médecin inspecteur de la santé de la  préfecture de la région d'Ile-de-France, préfecture de Paris ;
 
 6° Un représentant du ministre chargé de la culture, désigné par arrêté ;
 

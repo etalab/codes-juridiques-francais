@@ -1,6 +1,6 @@
 # Article R2531-27
 
-L'élection des représentants de groupements de communes et des maires a lieu par bulletin de vote adressé par lettre recommandée à la préfecture de la région d'Ile-de-France.
+L'élection des représentants de groupements de communes et des maires a lieu par bulletin de vote adressé par lettre recommandée à la          préfecture de la région d'Ile-de-France, préfecture de Paris.
 
 Les bulletins de vote sont recensés par une commission comprenant :
 

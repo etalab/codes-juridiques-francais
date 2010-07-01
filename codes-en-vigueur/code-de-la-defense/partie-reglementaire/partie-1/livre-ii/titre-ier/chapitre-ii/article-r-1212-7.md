@@ -7,18 +7,18 @@ La composition des régions de gendarmerie et des groupements de gendarmerie dé
 <tr>
 <td>
 <p align="center">
-<strong>RÉGIONS DE GENDARMERIE</strong>
+<b>RÉGIONS DE GENDARMERIE</b>
 </p>
 </td>
 <td>
 <p align="center">
-<strong>GROUPEMENTS DE GENDARMERIE DEPARTEMENTALE</strong>
+<b>GROUPEMENTS DE GENDARMERIE DEPARTEMENTALE</b>
 </p>
 </td>
 </tr>
 <tr>
 <td>Ile-de-France.</td>
-<td>Essonne, Hauts-de-Seine, Paris, Seine-et-Marne, Seine-Saint-Denis, Val-d'Oise, Val-de-Marne, Yvelines.</td>
+<td>Groupement de gendarmerie interdépartemental de Paris (Paris, Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne), Essonne, Seine-et-Marne, Val-d'Oise, Yvelines.</td>
 </tr>
 <tr>
 <td>Alsace.</td>
