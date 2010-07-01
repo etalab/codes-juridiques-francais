@@ -29,3 +29,5 @@
 - [Article Annexe III-23](article-annexe-iii-23.md)
 - [Article Annexe III-24](article-annexe-iii-24.md)
 - [Article Annexe III-25](article-annexe-iii-25.md)
+- [Article Annexe III-26](article-annexe-iii-26.md)
+- [Article Annexe III-27](article-annexe-iii-27.md)
