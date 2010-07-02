@@ -1,86 +1,43 @@
 # Article Annexe III-16 a (art. A322-77)
 
-CONDITIONS DE PRATIQUE DE LA PLONGÉE EN MILIEU NATUREL EN ENSEIGNEMENT
+CONDITIONS D'ÉVOLUTION EN ENSEIGNEMENT
+
+EN PLONGÉE À L'AIR EN MILIEU NATUREL
 
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center">ESPACES D'ÉVOLUTION</p>
+<p align="center">ESPACES<br/>d'évolution</p>
 </td>
 <td>
-<p align="center">NIVEAUX DE PRATIQUE<br/>des plongeurs</p>
+<p align="center">APTITUDES MINIMALES DES PLONGEURS</p>
 </td>
 <td>
-<p align="center">COMPÉTENCE MINIMUM<br/>de l'encadrant de palanquée </p>
+<p align="center">COMPÉTENCE MINIMALE<br/>de l'enseignant<br/>
+</p>
 </td>
-<td colspan="2">
-<p align="center">EFFECTIF MAXIMUM<br/>de la palanquée encadrement<br/>non compris </p>
+<td>
+<p align="center">EFFECTIF MAXIMAL<br/>de la palanquée<br/>(enseignant non compris)</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Espace proche : </p>
-<p align="left">0-6 mètres <br/>
+<p align="left">Espace de 0 à 6 mètres<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Baptême <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>E1 <br/>
+<p align="left">Baptême<br/>
 </p>
 </td>
 <td align="center">
 <p align="center">
-<br/>1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<p align="left">
-<br/>Débutant <br/>
+<br/>E-1<br/>
 </p>
 </td>
 <td align="center">
 <p align="center">
-<br/>E1 <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>4 + 1 P4 éventuellement <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Espace médian (*) : </p>
-<p align="left">6-20 mètres <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>Débutant en fin de formation <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>E2 <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>4 + 1 P4 éventuellement <br/>
+<br/>1 (*)<br/>
 </p>
 </td>
 </tr>
@@ -89,111 +46,103 @@ CONDITIONS DE PRATIQUE DE LA PLONGÉE EN MILIEU NATUREL EN ENSEIGNEMENT
 <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Niveau P1 <br/>
+<p align="left">Débutants<br/>
 </p>
 </td>
 <td align="center">
 <p align="center">
-<br/>E2 <br/>
+<br/>E-1<br/>
 </p>
 </td>
 <td align="center">
 <p align="center">
-<br/>4 + 1 P4 éventuellement <br/>
+<br/>4 (*)<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>
+<p align="left">Espace de 0 à 12 mètres <br/>
+</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Niveau P2 <br/>
+<p align="left">PE-1 ou débutants en cours de formation vers les aptitudes PE-1 ou PA-1<br/>
 </p>
 </td>
 <td align="center">
 <p align="center">
-<br/>E2 <br/>
+<br/>E-2<br/>
 </p>
 </td>
 <td align="center">
 <p align="center">
-<br/>4 + 1 P4 éventuellement <br/>
+<br/>4 (*)<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Espace lointain (*) : </p>
-<p align="left">20-40 mètres <br/>
+<p align="left">Espace de 0 à 20 mètres<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Niveau P1 en fin de formation <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>E3 <br/>
+<p align="left">Débutants ou PE-1 en cours de formation vers les aptitudes PE-2 ou PA-2<br/>
 </p>
 </td>
 <td align="center">
 <p align="center">
-<br/>2 + 1 P4 éventuellement <br/>
+<br/>E-2<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">
+<br/>4 (*)<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>
+<p align="left">Espace de 0 à 40 mètres<br/>
+</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Niveau P2 <br/>
+<p align="left">PE-2 ou PA-2 en cours de formation vers les aptitudes PE-3 ou PA-3 <br/>
 </p>
 </td>
 <td align="center">
 <p align="center">
-<br/>E3 <br/>
+<br/>E-3<br/>
 </p>
 </td>
 <td align="center">
 <p align="center">
-<br/>2 + 1 P4 éventuellement <br/>
+<br/>3 (*)<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Au-delà de 40 mètres et dans la limite de 60 mètres <br/>
+<p align="left">Espace de 0 à 60 mètres<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Niveaux P3, P4 et P5 <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>E4 <br/>
+<p align="left">PE-3 ou PA-3 encours de formation vers les aptitudes PE-4 ou PA-4<br/>
 </p>
 </td>
 <td align="center">
 <p align="center">
-<br/>3 + 1 E4 éventuellement <br/>
+<br/>E-4<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">
+<br/>3 (*) <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td colspan="5">
-<p align="left">
-<br/>(*) Dans des conditions favorables, les espaces médian et lointain peuvent être étendus dans la limite de 5 mètres. La plongée est limitée à 60 mètres avec possibilité de dépassement accidentel de 5 mètres.<br/>
-</p>
+<td colspan="4">
+<p align="left">(*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au minimum titulaire d'une qualification de GP.</p>
 </td>
 </tr>
 </tbody>

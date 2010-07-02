@@ -1,4 +1,4 @@
-# Sous-section 1 : Etablissements qui organisent et dispensent l'enseignement de la plongée autonome à l'air.
+# Sous-section 1 : Etablissements qui organisent et dispensent l'enseignement de la plongée subaquatique à l'air.
 
 - [Article A322-71](article-a322-71.md)
 - [Article A322-72](article-a322-72.md)
@@ -11,6 +11,8 @@
 - [Article A322-79](article-a322-79.md)
 - [Article A322-80](article-a322-80.md)
 - [Article A322-81](article-a322-81.md)
+- [Article A322-81-1](article-a322-81-1.md)
+- [Article A322-81-2](article-a322-81-2.md)
 - [Article A322-82](article-a322-82.md)
 - [Article A322-83](article-a322-83.md)
 - [Article A322-84](article-a322-84.md)

@@ -22,6 +22,6 @@ Ils ont en outre le matériel d'assistance suivant :
 
 ― une tablette de notation ;
 
-― un jeu de tables permettant de vérifier ou de recalculer les procédures de remontées des plongées réalisées au-delà de l'espace proche.
+― un jeu de tables permettant de vérifier ou de recalculer les procédures de remontées des plongées réalisées au-delà    de la profondeur de 6 mètres.
 
 Les matériels et équipements nautiques des plongeurs sont conformes à la réglementation en vigueur et correctement entretenus.

@@ -1,183 +1,143 @@
 # Article Annexe III-16 b
 
-CONDITIONS DE PRATIQUE DE LA PLONGÉE EN MILIEU NATUREL EN EXPLORATION
+CONDITIONS D'ÉVOLUTION EN EXPLORATION
+
+EN PLONGÉE À L'AIR EN MILIEU NATUREL
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">ESPACES D'ÉVOLUTION</p>
+<td rowspan="2">
+<p align="center">ESPACES d'évolution</p>
 </td>
-<td>
-<p align="center">NIVEAUX<br/>de pratique<br/>des plongeurs</p>
-</td>
-<td>
-<p align="center"> COMPÉTENCE MINIMUM<br/>de l'encadrant de palanquée <br/>
-</p>
+<td colspan="3">
+<p align="center">PLONGÉE ENCADRÉE</p>
 </td>
 <td colspan="2">
-<p align="center"> EFFECTIF MAXIMUM<br/>de la palanquée encadrement<br/>non compris <br/>
-</p>
+<p align="center">PLONGÉE AUTONOME</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Aptitudes minimales des plongeurs encadrés</p>
+</td>
+<td>
+<p align="center">Effectif maximal<br/>de la palanquée (encadrement<br/>non compris)</p>
+</td>
+<td>
+<p align="center">Compétence minimale de l'encadrant</p>
+</td>
+<td>
+<p align="center">Aptitudes minimales des plongeurs en autonomie</p>
+</td>
+<td>
+<p align="center">Effectif maximal de la palanquée</p>
 </td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">
-<br/>Espace proche : </p>
-<p align="left">0-6 mètres <br/>
+<br/>Espace de 0 à 6 mètres<br/>
 </p>
 </td>
+<td align="center">
+<br/>Débutants<br/>
+</td>
+<td align="center">
+<br/>4<br/>
+</td>
+<td align="center">
+<br/>GP<br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
 <td align="center">
 <p align="left">
-<br/>Débutant <br/>
+<br/>Espace de 0 à 12 mètres<br/>
 </p>
 </td>
 <td align="center">
-<p align="center">
-<br/>P4 <br/>
-</p>
+<br/>PE-1<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>4 + 1 P4 éventuellement <br/>
-</p>
+<br/>4<br/>
+</td>
+<td align="center">
+<br/>GP<br/>
+</td>
+<td align="center">
+<br/>PA-1<br/>
+</td>
+<td align="center">
+<br/>3<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">
-<br/>Espace médian : </p>
-<p align="left">6-20 mètres <br/>
+<br/>Espace de 0 à 20 mètres<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Débutant en fin de formation <br/>
-</p>
+<br/>PE-2<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>P4 <br/>
-</p>
+<br/>4<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>4 + 1 P4 éventuellement <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
+<br/>GP<br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>Niveau P1 <br/>
-</p>
+<br/>PA-2<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>P4 <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>4 + 1 P4 éventuellement <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<p align="left">
-<br/>Niveau P1 <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>En surface : E3 + P4 quand autonomie dans la zone des 10 mètres <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>5 équipes <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<p align="left">
-<br/>Niveau P2 <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>Autonomie <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>3 <br/>
-</p>
+<br/>3<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">
-<br/>Espace lointain (*) : </p>
-<p align="left">20-40 mètres <br/>
+<br/>Espace de 0 à 40 mètres<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Niveau P2 <br/>
-</p>
+<br/>PE-3<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>P4 <br/>
-</p>
+<br/>4<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>4 <br/>
-</p>
+<br/>GP<br/>
+</td>
+<td align="center">
+<br/>PA-3<br/>
+</td>
+<td align="center">
+<br/>3<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">
-<br/>Au-delà de 40 mètres et dans la limite de 60 mètres (*) <br/>
+<br/>Espace de 0 à 60 mètres<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Niveaux P3, P4 et P5 <br/>
-</p>
+<br/>PE-4<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>Autonomie <br/>
-</p>
+<br/>2<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>3 <br/>
-</p>
+<br/>E 4<br/>
 </td>
-</tr>
-<tr>
-<td colspan="5">
-<p align="left">
-<br/>E1, E2, E3 et E4 = niveaux d'encadrement. </p>
-<p align="left">P1, P2, P3, P4 et P5 = niveaux de pratique. </p>
-<p align="left">(*) Dans des conditions favorables, les espaces médian et lointain peuvent être étendus dans la limite de 5 mètres. La plongée est limitée à 60 mètres avec possibilité de dépassement accidentel de 5 mètres.<br/>
-</p>
+<td align="center">
+<br/>PA-4<br/>
+</td>
+<td align="center">
+<br/>3<br/>
 </td>
 </tr>
 </tbody>
