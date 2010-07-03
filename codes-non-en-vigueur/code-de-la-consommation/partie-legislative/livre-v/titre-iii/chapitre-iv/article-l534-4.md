@@ -1,4 +1,4 @@
-# Article L224-1
+# Article L534-4
 
 La commission de la sécurité des consommateurs est composée d'un président nommé par décret en conseil des ministres, de membres des juridictions de l'ordre administratif ou judiciaire. Elle comprend en outre des personnes appartenant aux organisations professionnelles, aux associations nationales de consommateurs et des experts. Ces personnes et experts sont désignés par le ministre chargé de la consommation après avis des ministres intéressés et sont choisis en raison de leurs compétences en matière de prévention des risques.
 

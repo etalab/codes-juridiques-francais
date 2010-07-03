@@ -1,6 +1,6 @@
 # Article L221-3
 
-Des décrets en Conseil d'Etat, pris après avis de la commission prévue à l'article L. 224-1 :
+Des décrets en Conseil d'Etat, pris après avis de la commission prévue à l'article L. 534-4 :
 
 1° Fixent, en tant que de besoin, par produits ou catégories de produits, les conditions dans lesquelles la fabrication, l'importation, l'exportation, l'offre, la vente, la distribution à titre gratuit, la détention, l'étiquetage, le conditionnement, la circulation des produits ou le mode d'utilisation de ces produits sont interdits ou réglementés ;
 

@@ -14,7 +14,7 @@ L'Autorité de contrôle prudentiel vérifie également si :
 
 a) L'établissement de paiement remplit les conditions de l'article L. 522-7 et du I de l'article L. 522-8 ;
 
-b) Les personnes déclarées comme chargées de la direction effective de l'établissement de paiement et, dans le cas d'établissements de paiement exerçant des activités hybrides, les personnes déclarées responsables de la gestion des activités de services de paiement de l'établissement de paiement possèdent l'honorabilité ainsi que la compétence et l'expérience nécessaires à leur fonction et requises pour les activités de services de paiement aux fins de garantir une gestion saine et prudente ;
+b) Les personnes déclarées comme chargées de la direction effective de l'établissement de paiement et, dans le cas d'établissements de paiement exerçant des activités hybrides, la personne déclarée responsable de la gestion des activités de services de paiement de l'établissement de paiement possèdent l'honorabilité ainsi que la compétence et l'expérience nécessaires à leur fonction et requises pour les activités de services de paiement aux fins de garantir une gestion saine et prudente ;
 
 c) L'exercice de la mission de contrôle de l'entreprise requérante n'est pas susceptible d'être entravée soit par l'existence de liens de capital ou de contrôle directs ou indirects entre l'entreprise et d'autres personnes soit par l'existence de dispositions législatives ou réglementaires d'un Etat qui n'est pas partie à l'accord sur l'Espace économique européen et dont relèvent une ou plusieurs personnes.
 

@@ -8,7 +8,7 @@ I.-Sont recherchés et constatés, dans les conditions fixées par les articles 
 
 3° Les sections 3,4 et 5 du chapitre II du titre II du livre Ier ;
 
-4° Les sections 5 et 7 du chapitre Ier du titre Ier du livre III ;
+4° Les sections 9 à 11 du chapitre Ier du titre Ier du livre III ;
 
 5° La section 7 du chapitre II du titre Ier du livre III ;
 
