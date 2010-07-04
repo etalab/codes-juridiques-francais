@@ -10,4 +10,4 @@ b) La liste des mesures de sûreté que le futur exploitant propose de mettre en
 
 2° S'agissant des installations mentionnées à l'article R. 2352-92, l'étude de sûreté mentionnée au 1° est remplacée par un descriptif des mesures envisagées par le futur exploitant pour prévenir les intrusions et les vols de produits explosifs, conformément aux règles techniques de sûreté prévues à l'article R. 2352-92.
 
-3° Le futur exploitant justifie la compatibilité des mesures de sûreté qu'il propose de mettre en œuvre avec les mesures de sécurité mentionnées au 1° de l'article R. 2352-99.
+3° Le futur exploitant justifie la compatibilité des mesures de sûreté qu'il propose de mettre en œuvre avec les mesures de sécurité mises en place.

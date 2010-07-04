@@ -4,4 +4,3 @@
 - [LIVRE II : REQUISITIONS](livre-ii)
 - [LIVRE III : REGIMES JURIDIQUES DE DEFENSE  D'APPLICATION PERMANENTE](livre-iii)
 - [LIVRE IV : DISPOSITIONS RELATIVES A L'OUTRE MER](livre-iv)
-- [Annexes mentionnées aux articles R. 2352-50, R. 2352-51, R. 2352-52 ET R. 2352-61](annexes-mentionnees-aux)
