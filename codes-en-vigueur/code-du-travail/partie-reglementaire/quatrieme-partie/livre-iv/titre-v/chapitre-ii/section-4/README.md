@@ -1,6 +1,8 @@
-# Section 4 : Protections collective et individuelle
+# Section 4 : Evaluation des risques
 
-- [Article R4452-23](article-r4452-23.md)
-- [Article R4452-24](article-r4452-24.md)
-- [Article R4452-25](article-r4452-25.md)
-- [Article R4452-26](article-r4452-26.md)
+- [Article R4452-7](article-r4452-7.md)
+- [Article R4452-8](article-r4452-8.md)
+- [Article R4452-9](article-r4452-9.md)
+- [Article R4452-10](article-r4452-10.md)
+- [Article R4452-11](article-r4452-11.md)
+- [Article R4452-12](article-r4452-12.md)

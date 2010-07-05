@@ -8,4 +8,4 @@ Les jeunes travailleurs âgés de seize à dix-huit ans autorisés lors de leur 
 
 3° 45 mSv pour le cristallin.
 
-Conformément aux articles R. 4453-2 et R. 4453-6, ces travailleurs ne peuvent être affectés à des travaux requérant un classement en catégorie A et leur formation tient compte des règles particulières qui leur sont applicables.
+Conformément aux articles R. 4451-45 et R. 4451-49, ces travailleurs ne peuvent être affectés à des travaux requérant un classement en catégorie A et leur formation tient compte des règles particulières qui leur sont applicables.

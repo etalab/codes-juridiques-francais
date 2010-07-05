@@ -4,4 +4,6 @@ Des arrêtés conjoints des ministres chargés du travail et de l'agriculture pr
 
 1° Du bruit ;
 
-2° Des vibrations mécaniques.
+2° Des vibrations mécaniques ;
+
+3° Des rayonnements optiques artificiels.

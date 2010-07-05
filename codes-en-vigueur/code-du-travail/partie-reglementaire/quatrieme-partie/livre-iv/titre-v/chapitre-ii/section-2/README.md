@@ -1,6 +1,5 @@
-# Section 2 : Contrôles techniques
+# Section 2 : Principes de prévention
 
-- [Sous-section 1 : Sources, appareils émetteurs de rayonnements ionisants,  dispositifs de protection et d'alarme et instruments de mesure](sous-section-1)
-- [Sous-section 2 : Ambiance de travail](sous-section-2)
-- [Sous-section 3 : Organisation des contrôles](sous-section-3)
-- [Sous-section 4 : Exploitation des résultats](sous-section-4)
+- [Article R4452-2](article-r4452-2.md)
+- [Article R4452-3](article-r4452-3.md)
+- [Article R4452-4](article-r4452-4.md)
