@@ -4,4 +4,3 @@
 - [Sous-section 2 : Les établissements de paiement](sous-section-2)
 - [Sous-section 3 : Les agents](sous-section-3)
 - [Sous-section 4 : Les changeurs manuels](sous-section-4)
-- [Article L745-8](article-l745-8.md)
