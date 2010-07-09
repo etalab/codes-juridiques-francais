@@ -1,3 +1,0 @@
-# Article D324-8
-
-L'organisme chargé de la délivrance des certificats de visite mentionné aux articles D. 324-3 et D. 324-5 est agréé par le préfet. La convention d'agrément conclue entre le préfet et l'organisme mentionne notamment les obligations réciproques des parties. En cas de non-respect de ses obligations par l'organisme, le préfet procède au retrait de l'agrément. Pour être agréé, l'organisme doit justifier d'une représentativité au niveau national ou départemental dans le domaine du tourisme, en particulier dans le secteur des meublés. Celle-ci est appréciée notamment en fonction de l'activité et de l'expérience de l'organisme. Chaque année, le préfet publie au recueil des actes administratifs de la préfecture la liste des organismes qu'il a agréés.
