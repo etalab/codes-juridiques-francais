@@ -6,4 +6,3 @@
 - [Article D324-5](article-d324-5.md)
 - [Article D324-6](article-d324-6.md)
 - [Article D324-6-1](article-d324-6-1.md)
-- [Article D324-7](article-d324-7.md)
