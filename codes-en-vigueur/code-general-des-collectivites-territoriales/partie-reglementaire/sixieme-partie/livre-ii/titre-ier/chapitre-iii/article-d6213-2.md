@@ -40,6 +40,8 @@ IV.-Le livre IV est applicable à Saint-Barthélemy dans les conditions suivante
 
 V.-Le livre VI est applicable à Saint-Barthélemy dans les conditions suivantes :
 
-1° Pour l'application de l'article D. 1612-1, il est inséré après le 3° un 4° ainsi rédigé : « 4° Le montant de la dotation globale de fonctionnement à inscrire au budget primitif » ;
+1° Pour l'application de l'article D. 1612-1,  il est inséré après le 3° un  4° ainsi rédigé :  4° Le montant de la dotation globale de fonctionnement à inscrire au budget primitif  ;
 
-2° Les articles D. 1612-5 à D. 1612-7 ne sont pas applicables à Saint-Barthélemy.
+2° Les articles D. 1612-5 à D. 1612-7 ne sont pas applicables à Saint-Barthélemy ;
+
+3° Pour l'application de l'article L. 1614-10, les bibliothèques de la collectivité de Saint-Barthélemy sont soumises aux règles applicables aux bibliothèques municipales de départements d'outre-mer.
