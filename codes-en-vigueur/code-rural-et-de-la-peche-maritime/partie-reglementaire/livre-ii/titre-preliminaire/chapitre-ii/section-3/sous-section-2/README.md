@@ -6,4 +6,3 @@
 - [Article R202-12](article-r202-12.md)
 - [Article R202-13](article-r202-13.md)
 - [Article R202-14](article-r202-14.md)
-- [Article R202-15](article-r202-15.md)
