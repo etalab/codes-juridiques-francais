@@ -8,7 +8,7 @@ Il est procédé à la saisie des données informatiques nécessaires à la mani
 
 Si une copie est réalisée dans le cadre de cette procédure, il peut être procédé, sur ordre du juge d'instruction, à l'effacement définitif, sur le support physique qui n'a pas été placé sous main de justice, des données informatiques dont la détention ou l'usage est illégal ou dangereux pour la sécurité des personnes ou des biens.
 
-Avec l'accord du juge d'instruction, l'officier de police judiciaire ne maintient que la saisie des objets, documents et données informatiques utiles à la manifestation de la vérité.
+Avec l'accord du juge d'instruction, l'officier de police judiciaire ne maintient que la saisie des objets, documents et données informatiques utiles à la manifestation de la vérité, ainsi que des biens dont la confiscation est prévue à l'article 131-21 du code pénal.
 
 Lorsque ces scellés sont fermés, ils ne peuvent être ouverts et les documents dépouillés qu'en présence de la personne mise en examen, assistée de son avocat, ou eux dûment appelés. Le tiers chez lequel la saisie a été faite est également invité à assister à cette opération.
 

@@ -46,6 +46,8 @@ Ces agents sont autorisés à déclarer comme domicile l'adresse du siège du se
 
 Au cours des procédures confiées sur réquisition ou commission rogatoire à ces agents, les dispositions des articles 100 à 100-7, 122 à 136, 694 à 695-3, 706-28, 706-30-1 et 706-73 à 706-106 sont applicables ; lorsque ces agents agissent en application des articles 706-80 à 706-87, ils sont également compétents en matière d'infractions douanières de contrebande de tabac manufacturé, d'alcool et de spiritueux et de contrefaçon de marque, ainsi que pour celles prévues à l'article 415 du code des douanes et aux articles L. 716-9 à L. 716-11 du code de la propriété intellectuelle. Ces agents peuvent être assistés par les personnes mentionnées aux articles 706 et 706-2 agissant sur délégation des magistrats.
 
+Ces agents peuvent également faire application des dispositions du titre XXIX du livre IV au cours des enquêtes judiciaires et sur commissions rogatoires qui leur sont confiées.
+
 Par dérogation à la règle fixée au 2 de l'article 343 du code des douanes, l'action pour l'application des sanctions fiscales peut être exercée par le ministère public, en vue de l'application des dispositions du présent article.
 
 VII.-Les agents des douanes mentionnés aux I et II sont placés sous la direction administrative d'un magistrat de l'ordre judiciaire selon des modalités fixées par décret en Conseil d'Etat.
