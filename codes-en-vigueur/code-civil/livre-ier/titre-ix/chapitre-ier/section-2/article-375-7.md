@@ -11,3 +11,5 @@ S'il a été nécessaire de confier l'enfant à une personne ou un établissemen
 Si la situation de l'enfant le permet, le juge fixe la nature et la fréquence des droits de visite et d'hébergement et peut décider que leurs conditions d'exercice sont déterminées conjointement entre les titulaires de l'autorité parentale et la personne, le service ou l'établissement à qui l'enfant est confié, dans un document qui lui est alors transmis. Il est saisi en cas de désaccord.
 
 Le juge peut décider des modalités de l'accueil de l'enfant en considération de l'intérêt de celui-ci. Si l'intérêt de l'enfant le nécessite ou en cas de danger, le juge décide de l'anonymat du lieu d'accueil.
+
+Lorsqu'il fait application des articles 375-2, 375-3 ou 375-5, le juge peut également ordonner l'interdiction de sortie du territoire de l'enfant. La décision fixe la durée de cette interdiction qui ne saurait excéder deux ans. Cette interdiction de sortie du territoire est inscrite au fichier des personnes recherchées par le procureur de la République.

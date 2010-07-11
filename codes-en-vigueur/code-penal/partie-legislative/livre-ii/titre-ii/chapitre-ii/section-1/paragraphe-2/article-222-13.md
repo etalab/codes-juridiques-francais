@@ -22,6 +22,8 @@ Les violences ayant entraîné une incapacité de travail inférieure ou égale 
 
 6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
 
+6° bis Contre une personne, en raison de son refus de contracter un mariage ou de conclure une union ou afin de la contraindre à contracter un mariage ou à conclure une union ;
+
 7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission ;
 
 8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
