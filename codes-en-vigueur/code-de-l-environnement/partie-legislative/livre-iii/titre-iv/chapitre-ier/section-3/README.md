@@ -2,5 +2,4 @@
 
 - [Article L341-19](article-l341-19.md)
 - [Article L341-20](article-l341-20.md)
-- [Article L341-21](article-l341-21.md)
 - [Article L341-22](article-l341-22.md)
