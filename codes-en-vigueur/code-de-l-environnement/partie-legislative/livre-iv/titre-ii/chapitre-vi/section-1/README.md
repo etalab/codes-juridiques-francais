@@ -1,4 +1,4 @@
-# Section 1 : Indemnisation par les fédérations départementales des chasseurs des dégâts causés par les sangliers et les grands gibiers
+# Section 1 : Procédure non contentieuse d'indemnisation des dégâts causés par le grand gibier aux cultures et aux récoltes agricoles
 
 - [Article L426-1](article-l426-1.md)
 - [Article L426-2](article-l426-2.md)
