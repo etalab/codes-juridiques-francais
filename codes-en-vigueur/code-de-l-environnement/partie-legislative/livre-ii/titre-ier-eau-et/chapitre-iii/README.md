@@ -6,3 +6,4 @@
 - [Section 3 : Comités de bassin et agences de l'eau](section-3)
 - [Section 4 : Organismes à vocation de maîtrise d'ouvrage](section-4)
 - [Section 5 : Comités de bassin et offices de l'eau des départements d'outre-mer](section-5)
+- [Section 6 : Comité technique permanent des barrages et des ouvrages hydrauliques](section-6)

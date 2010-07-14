@@ -1,6 +1,6 @@
 # Article L362-1
 
-Les dispositions des chapitres Ier, II et III à l'exception de l'article L. 311-4 sont applicables dans les périmètres définis par l'autorité administrative compétente de l'Etat, après enquête publique, en tenant compte de l'intérêt de la conservation des bois ou des massifs qu'ils complètent ou du maintien de la destination forestière des sols, au regard de l'une ou plusieurs des fonctions suivantes :
+Les dispositions des chapitres Ier, II et III à l'exception de l'article L. 311-4 sont applicables dans les périmètres définis par l'autorité administrative compétente de l'Etat, après enquête publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement, en tenant compte de l'intérêt de la conservation des bois ou des massifs qu'ils complètent ou du maintien de la destination forestière des sols, au regard de l'une ou plusieurs des fonctions suivantes :
 
 1° Maintien des terres sur les montagnes ou sur les pentes ;
 

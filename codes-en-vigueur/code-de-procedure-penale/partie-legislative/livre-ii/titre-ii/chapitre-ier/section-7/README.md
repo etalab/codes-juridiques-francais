@@ -8,3 +8,4 @@
 - [Article 495-5](article-495-5.md)
 - [Article 495-6](article-495-6.md)
 - [Article 495-6-1](article-495-6-1.md)
+- [Article 495-6-2](article-495-6-2.md)

@@ -7,6 +7,7 @@
 - [Article L5112-4-1](article-l5112-4-1.md)
 - [Article L5112-5](article-l5112-5.md)
 - [Article L5112-6](article-l5112-6.md)
+- [Article L5112-6-1](article-l5112-6-1.md)
 - [Article L5112-7](article-l5112-7.md)
 - [Article L5112-8](article-l5112-8.md)
 - [Article L5112-9](article-l5112-9.md)
