@@ -1,4 +1,4 @@
-# Sous-section 1 : Autorisations
+# Sous-section 1 : Dispositions générales
 
 - [Article L218-42](article-l218-42.md)
 - [Article L218-43](article-l218-43.md)
