@@ -1,6 +1,6 @@
 # Article L2224-10
 
-Les communes ou leurs établissements publics de coopération délimitent, après enquête publique :
+Les communes ou leurs établissements publics de coopération délimitent, après enquête publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement :
 
 1° Les zones d'assainissement collectif où elles sont tenues d'assurer la collecte des eaux usées domestiques et le stockage, l'épuration et le rejet ou la réutilisation de l'ensemble des eaux collectées ;
 
