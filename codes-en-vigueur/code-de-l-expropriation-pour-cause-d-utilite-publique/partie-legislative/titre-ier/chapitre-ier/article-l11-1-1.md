@@ -1,6 +1,6 @@
 # Article L11-1-1
 
-Lorsqu'un projet public de travaux, d'aménagements ou d'ouvrages constitue une des opérations mentionnées à l'article L. 123-1 du code de l'environnement et que sa réalisation rend nécessaire l'expropriation d'immeubles ou de droits réels immobiliers, la déclaration de projet prévue à l'article L. 126-1 du code de l'environnement intervient, au vu des résultats de l'enquête prévue à l'article L. 11-1 du présent code, selon les modalités et dans les conditions suivantes :
+En ce qui concerne les projets mentionnés au II de l'article L. 11-1, la déclaration de projet prévue à l'article L. 126-1 du code de l'environnement prend en considération l'étude d'impact, l'avis de l'autorité administrative de l'Etat compétente en matière d'environnement et le résultat de la consultation du public. Elle intervient selon les modalités et dans les conditions suivantes :
 
 1. Si l'expropriation est poursuivie au profit d'une collectivité territoriale ou d'un de ses établissements publics, l'autorité compétente de l'Etat demande, au terme de l'enquête publique, à la collectivité ou à l'établissement intéressé de se prononcer, dans un délai qui ne peut excéder six mois, sur l'intérêt général du projet dans les conditions prévues à l'article L. 126-1 du code de l'environnement. Après transmission de la déclaration de projet ou à l'expiration du délai imparti à la collectivité ou à l'établissement intéressé, l'autorité de l'Etat compétente décide de la déclaration d'utilité publique.
 

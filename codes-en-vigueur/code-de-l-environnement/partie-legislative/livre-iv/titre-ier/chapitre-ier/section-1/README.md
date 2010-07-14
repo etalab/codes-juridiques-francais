@@ -1,4 +1,4 @@
-# Section 1 : Préservation du patrimoine biologique
+# Section 1 : Préservation du patrimoine naturel
 
 - [Article L411-1](article-l411-1.md)
 - [Article L411-2](article-l411-2.md)

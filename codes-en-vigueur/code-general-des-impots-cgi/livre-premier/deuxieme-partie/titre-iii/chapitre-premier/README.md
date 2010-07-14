@@ -14,6 +14,7 @@
 - [Section IX septies : Taxe spéciale d'équipement perçue au profit de l'établissement public foncier de Provence-Alpes-Côte d'Azur](section-ix-septies)
 - [Section X : Impositions perçues au profit des communautés urbaines](section-x)
 - [Section XI : Impositions perçues au profit des syndicats de communes et des syndicats mixtes](section-xi)
+- [Section XI bis :  Expérimentation des péages urbains](section-xi-bis)
 - [Section XII bis : Impositions perçues au profit des communautés de communes](section-xii-bis)
 - [Section XIII bis : Dispositions applicables à l'ensemble des groupements de communes](section-xiii-bis)
 - [Section XIII ter : Impositions perçues par les communautés ou syndicats d'agglomérations nouvelles](section-xiii-ter)

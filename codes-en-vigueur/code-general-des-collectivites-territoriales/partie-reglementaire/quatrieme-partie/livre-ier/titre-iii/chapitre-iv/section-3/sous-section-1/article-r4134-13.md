@@ -2,4 +2,4 @@
 
 Les séances du conseil sont publiques, sauf décision contraire du bureau.
 
-Les avis adoptés par le conseil économique et social régional font l'objet d'une publication officielle et sont communiqués au conseil régional ainsi qu'au Conseil économique et social.
+Les avis adoptés par le    conseil économique, social et environnemental régional font l'objet d'une publication officielle et sont communiqués au conseil régional ainsi qu'au Conseil économique et social.

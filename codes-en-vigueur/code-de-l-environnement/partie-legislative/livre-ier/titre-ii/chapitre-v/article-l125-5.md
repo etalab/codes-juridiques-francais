@@ -6,6 +6,8 @@ A cet effet, un état des risques naturels et technologiques est établi à part
 
 II.-En cas de mise en location de l'immeuble, l'état des risques naturels et technologiques est fourni au nouveau locataire dans les conditions et selon les modalités prévues à l'article 3-1 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986.
 
+L'état des risques naturels et technologiques, fourni par le bailleur, est joint aux baux commerciaux mentionnés aux articles L. 145-1 et L. 145-2 du code de commerce.
+
 III.-Le préfet arrête la liste des communes dans lesquelles les dispositions du I et du II sont applicables ainsi que, pour chaque commune concernée, la liste des risques et des documents à prendre en compte.
 
 IV.-Lorsqu'un immeuble bâti a subi un sinistre ayant donné lieu au versement d'une indemnité en application de l'article L. 125-2 ou de l'article L. 128-2 du code des assurances, le vendeur ou le bailleur de l'immeuble est tenu d'informer par écrit l'acquéreur ou le locataire de tout sinistre survenu pendant la période où il a été propriétaire de l'immeuble ou dont il a été lui-même informé en application des présentes dispositions. En cas de vente de l'immeuble, cette information est mentionnée dans l'acte authentique constatant la réalisation de la vente.

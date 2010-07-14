@@ -18,4 +18,4 @@ c) Les représentants des parents d'élèves sur proposition des associations re
 
 5° Les maires ou conseillers municipaux ou représentants des établissements publics de coopération intercommunale sont désignés par accord entre les associations départementales des maires ou, à défaut, par le collège des maires du département ;
 
-6° Les représentants du conseil économique et social régional sont désignés par le conseil.
+6° Les représentants du    conseil économique, social et environnemental régional sont désignés par le conseil.

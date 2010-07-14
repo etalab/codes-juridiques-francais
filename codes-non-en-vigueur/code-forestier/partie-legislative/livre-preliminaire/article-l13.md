@@ -8,6 +8,4 @@ La politique conduite dans le but de promouvoir la qualité des produits foresti
 
 3° Fixer sur le territoire les capacités de transformation des produits forestiers et assurer le maintien de l'activité économique, notamment en zone rurale défavorisée.
 
-Les procédures de certification de gestion durable des forêts sont reconnues bénéficier de la certification de conformité environnementale ou écocertification prévue par les articles L. 115-27 à L. 115-33 du code de la consommation.
-
-Les produits forestiers fabriqués à partir de bois récoltés dans le cadre de l'un des documents de gestion visés aux a à d de l'article L. 4 du présent code ou issus d'une forêt bénéficiant d'une certification de gestion durable des forêts peuvent prétendre à bénéficier d'une certification de conformité environnementale ou écocertification.
+Les forêts gérées durablement peuvent faire l'objet d'une écocertification de gestion durable. Un décret définit les critères et les modalités de cette écocertification, dont la prise en compte des documents de gestion mentionnés à l'article L. 4, les types de contrôles applicables, les conditions de reconnaissance des systèmes de certification, les mentions correspondantes et leurs conditions d'utilisation. Il précise les conditions dans lesquelles le bénéfice de cette écocertification peut être étendu aux produits provenant des forêts dont la gestion est certifiée et aux produits issus de leur transformation.

@@ -8,3 +8,4 @@
 - [Chapitre VI : Les céréales.](chapitre-vi)
 - [Chapitre VII :  Les oléagineux.](chapitre-vii)
 - [Chapitre VIII : Les plantes à parfum, aromatiques et médicinales.](chapitre-viii)
+- [Chapitre IX : Politique génétique des semences et plants](chapitre-ix)

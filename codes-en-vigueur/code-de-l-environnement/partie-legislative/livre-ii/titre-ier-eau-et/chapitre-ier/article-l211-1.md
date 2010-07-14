@@ -12,7 +12,9 @@ I. - Les dispositions des chapitres Ier à VII du présent titre ont pour objet 
 
 5° La valorisation de l'eau comme ressource économique et, en particulier, pour le développement de la production d'électricité d'origine renouvelable ainsi que la répartition de cette ressource ;
 
-6° La promotion d'une utilisation efficace, économe et durable de la ressource en eau.
+6° La promotion d'une utilisation efficace, économe et durable de la ressource en eau ;
+
+7° Le rétablissement de la continuité écologique au sein des bassins hydrographiques.
 
 Un décret en Conseil d'Etat précise les critères retenus pour l'application du 1°.
 

@@ -7,6 +7,7 @@
 - [Article 80](article-80.md)
 - [Article 81](article-81.md)
 - [Article 83](article-83.md)
+- [Article 83-1](article-83-1.md)
 - [Article 84-1](article-84-1.md)
 - [Article 85](article-85.md)
 - [Article 86](article-86.md)

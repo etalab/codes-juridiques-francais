@@ -16,7 +16,7 @@ d) Lycées et collèges dans les conditions fixées au titre Ier du livre II et 
 
 a) Schéma de cohérence territoriale et schéma de secteur ; plan local d'urbanisme et documents d'urbanisme en tenant lieu ; création et réalisation de zones d'aménagement concerté d'intérêt communautaire ; et après avis des conseils municipaux, constitution de réserves foncières d'intérêt communautaire ;
 
-b) Organisation des transports urbains au sens du chapitre II du titre II de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs, sous réserve des dispositions de l'article 46 de cette loi ; création ou aménagement et entretien de voirie ; signalisation ; parcs de stationnement ;
+b) Organisation des transports urbains au sens du chapitre II du titre II de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs, sous réserve des dispositions de l'article 46 de cette loi ; création ou aménagement et entretien de voirie ; signalisation ; parcs de stationnement ; à ce titre, elle peut organiser un service de mise à disposition de bicyclettes en libre-service ;
 
 c) Prise en considération d'un programme d'aménagement d'ensemble et détermination des secteurs d'aménagement au sens du code de l'urbanisme ;
 
@@ -54,10 +54,12 @@ c) Lutte contre les nuisances sonores ;
 
 d) Soutien aux actions de maîtrise de la demande d'énergie.
 
-Lorsque l'exercice des compétences mentionnées au présent paragraphe est subordonné à la reconnaissance de leur intérêt communautaire, cet intérêt est déterminé à la majorité des deux tiers du conseil de la communauté urbaine. Il est défini au plus tard deux ans après l'entrée en vigueur de l'arrêté prononçant le transfert de compétence. A défaut, la communauté urbaine exerce l'intégralité de la compétence transférée.
+Lorsque l'exercice des compétences mentionnées au présent paragraphe est subordonné à la reconnaissance de leur intérêt communautaire, cet intérêt est déterminé à la majorité des deux tiers du conseil de la communauté urbaine. Il est défini au plus tard deux ans après l'entrée en vigueur de l'arrêté prononçant le transfert de compétence.A défaut, la communauté urbaine exerce l'intégralité de la compétence transférée.
 
 II.-(Abrogé).
 
 III.-Par convention passée avec le département, une communauté urbaine peut exercer pour le département tout ou partie des compétences qui, dans le domaine de l'action sociale, sont attribuées au département en vertu des articles L. 121-1 et L. 121-2 du code de l'action sociale et des familles.
 
 La convention précise l'étendue et les conditions financières de la délégation ainsi que les conditions dans lesquelles les services départementaux correspondants sont mis à la disposition de la communauté urbaine.
+
+IV. ― Par convention passée avec le département, une communauté urbaine dont le plan de déplacements urbains comprend la réalisation d'un service de transport collectif en site propre empruntant des voiries départementales ou prévoit sa réalisation peut, dans le périmètre de transports urbains, exercer en lieu et place du département tout ou partie des compétences qui, dans le domaine de la voirie, sont attribuées au département en vertu des articles L. 131-1 à L. 131-8 du code de la voirie routière. Le refus du conseil général de déléguer tout ou partie de ces compétences doit être motivé par délibération. La convention précise l'étendue et les conditions financières de la délégation de compétence ainsi que les conditions dans lesquelles les services départementaux correspondants sont mis à la disposition de la communauté urbaine.

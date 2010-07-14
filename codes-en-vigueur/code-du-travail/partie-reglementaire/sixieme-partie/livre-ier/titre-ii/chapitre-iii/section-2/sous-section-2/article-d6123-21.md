@@ -8,7 +8,7 @@ a) Les recteurs d'académie ;
 
 b) Des représentants des services de l'Etat désignés par le préfet de région, dont :
 
-― le             directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ;
+― le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ;
 
 ― le directeur régional de l'alimentation, de l'agriculture et de la forêt ;
 
@@ -20,4 +20,4 @@ b) Des représentants des services de l'Etat désignés par le préfet de régio
 
 4° Sept représentants des organisations syndicales de salariés, dont cinq représentants des organisations syndicales représentatives au plan national ;
 
-5° Le président du conseil économique et social régional.
+5° Le président du    conseil économique, social et environnemental régional.

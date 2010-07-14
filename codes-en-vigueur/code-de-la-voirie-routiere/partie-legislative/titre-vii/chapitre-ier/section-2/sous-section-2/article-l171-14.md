@@ -1,6 +1,6 @@
 # Article L171-14
 
-La propriété des voies privées ouvertes à la circulation publique, peut, sur délibération du conseil municipal, et après enquête publique être transférée dans le domaine public de la ville de Paris.
+La propriété des voies privées ouvertes à la circulation publique, peut, sur délibération du conseil municipal, et après enquête publique réalisée conformément aux dispositions du code de l'expropriation pour cause d'utilité publique être transférée dans le domaine public de la ville de Paris.
 
 La décision de classement est prise par arrêté motivé du maire lorsque aucune déclaration contraire au projet n'est produite à l'enquête par un des propriétaires intéressés et que l'avis du commissaire enquêteur est favorable.
 

@@ -2,7 +2,7 @@
 
 Le comité de coordination régional de l'emploi et de la formation professionnelle est le lieu de concertation des orientations à moyen terme des politiques de l'Etat, de la région, du département et des partenaires sociaux, en matière d'emploi et de formation professionnelle.
 
-Il favorise, en liaison avec le conseil économique et social régional, la mise en œuvre dans la région d'une politique cohérente d'emploi et de formation professionnelle. A cette fin :
+Il favorise, en liaison avec le    conseil économique, social et environnemental régional, la mise en œuvre dans la région d'une politique cohérente d'emploi et de formation professionnelle.A cette fin :
 
 1° Il est informé des activités de l'Agence nationale pour l'insertion et la promotion des travailleurs de l'outre-mer dans la région ;
 

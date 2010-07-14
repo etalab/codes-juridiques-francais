@@ -9,3 +9,5 @@ La déclaration d'utilité publique ou, si une déclaration d'utilité publique 
 La déclaration d'utilité publique emporte approbation des nouvelles dispositions du schéma de cohérence territoriale.
 
 La déclaration de projet emporte approbation des nouvelles dispositions du schéma de cohérence territoriale lorsqu'elle est prise par l'établissement public prévu à l'article L. 122-4. Lorsqu'elle est prise par une autre personne publique, elle ne peut intervenir qu'après mise en compatibilité du schéma par l'établissement public prévu à l'article L. 122-4 ou, en cas de désaccord, par arrêté préfectoral.
+
+Dès l'ouverture de l'enquête publique et jusqu'à l'adoption de la déclaration d'utilité publique, le plan local d'urbanisme ne peut plus faire l'objet d'une modification ou d'une révision portant sur les dispositions faisant l'objet de la mise en compatibilité.

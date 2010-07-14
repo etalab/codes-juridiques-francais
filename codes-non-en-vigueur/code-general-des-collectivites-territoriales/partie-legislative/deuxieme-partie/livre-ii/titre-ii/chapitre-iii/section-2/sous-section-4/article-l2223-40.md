@@ -4,4 +4,4 @@ Les communes et les établissements publics de coopération intercommunale sont 
 
 Lorsqu'un site cinéraire contigu d'un crématorium fait l'objet d'une délégation de service public, le terrain sur lequel il est implanté et les équipements qu'il comporte font l'objet d'une clause de retour à la commune ou à l'établissement public de coopération intercommunale au terme de la délégation.
 
-Toute création ou extension de crématorium ne peut avoir lieu sans l'autorisation du représentant de l'Etat dans le département, accordée après une enquête publique conduite selon les modalités prévues aux articles L. 123-1 à L. 123-16 du code de l'environnement et un avis de la commission départementale compétente en matière d'environnement, de risques sanitaires et technologiques.
+Toute création ou extension de crématorium ne peut avoir lieu sans l'autorisation du représentant de l'Etat dans le département, accordée après une enquête publique réalisée conformément au chapitre III du titre II du livre Ier  du code de l'environnement et un avis de la commission départementale compétente en matière d'environnement, de risques sanitaires et technologiques.

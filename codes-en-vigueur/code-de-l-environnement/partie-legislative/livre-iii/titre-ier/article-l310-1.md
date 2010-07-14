@@ -11,3 +11,5 @@ II. - Cet inventaire recense :
 III. - L'inventaire départemental du patrimoine naturel fait l'objet de modifications périodiques pour tenir compte des changements intervenus, dans le département, dans les recensements des sites, paysages et milieux et dans les mesures de protection visés aux alinéas précédents.
 
 IV. - Cet inventaire est mis à la disposition du public pour consultation. Il est également mis à la disposition du commissaire enquêteur ou de la commission d'enquête lors d'une enquête publique concernant un ouvrage entrant dans le champ de cet inventaire. Il est communiqué, à leur demande, aux associations départementales agréées de protection de l'environnement concernées.
+
+V. ― L'inventaire du patrimoine naturel du département de la Guyane n'est pas soumis aux II et III mais fait l'objet d'un régime spécifique, adapté à ses particularités. Après concertation avec les collectivités territoriales concernées, un décret définit son contenu et les modalités de sa réalisation.

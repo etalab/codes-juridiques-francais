@@ -8,4 +8,6 @@ b) De la faible durée de leur maintien en place ou de leur caractère temporair
 
 c) Du fait qu'ils nécessitent le secret pour des raisons de sûreté ;
 
-d) Du fait que leur contrôle est exclusivement assuré par une autre autorisation ou une autre législation.
+d) Du fait que leur contrôle est exclusivement assuré par une autre autorisation ou une autre législation ;
+
+e) De leur nature et de leur implantation en mer, sur le domaine public maritime immergé au-delà de la laisse de la basse mer.

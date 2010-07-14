@@ -6,7 +6,7 @@ II.-Le livre II est applicable à Saint-Barthélemy dans les conditions suivante
 
 1° Les titres Ier et III ne sont pas applicables à Saint-Barthélemy ;
 
-2° Pour l'application de l'article R. 4241-1, le conseil économique, social et culturel est assimilé au conseil économique et social régional.
+2° Pour l'application de l'article R. 4241-1, le conseil économique, social et culturel est assimilé au    conseil économique, social et environnemental régional.
 
 III.-Le livre IV est applicable à Saint-Barthélemy dans les conditions suivantes :
 

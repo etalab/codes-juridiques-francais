@@ -2,13 +2,13 @@
 
 Outre son président, le Conseil national du tourisme est composé des membres, nommés pour une période de cinq ans par arrêté du ministre chargé du tourisme, ainsi répartis :
 
-1° Représentants du Parlement et du Conseil économique et social :
+1° Représentants du Parlement et du Conseil économique, social et environnemental :
 
 -cinq députés désignés par le président de l'Assemblée nationale ;
 
 -cinq sénateurs désignés par le président du Sénat ;
 
--deux membres du Conseil économique et social désignés par son président ;
+-deux membres du Conseil économique, social et environnemental désignés par son président ;
 
 2° Représentants des collectivités territoriales :
 
@@ -30,9 +30,9 @@ Outre son président, le Conseil national du tourisme est composé des membres, 
 
 -sept présidents d'offices de tourisme et syndicats d'initiative (OTSI) désignés sur proposition du président de la Fédération nationale des offices de tourisme et syndicats d'initiative (FNOTSI) ou leurs représentants ;
 
--le président de l'Assemblée des conseils économiques et sociaux régionaux de France ou son représentant ;
+-le président de l'Assemblée des conseils économiques, sociaux et environnementaux régionaux de France ou son représentant ;
 
--sept présidents de conseils économiques et sociaux régionaux (CESR) désignés sur proposition du président de l'Assemblée des conseils économiques et sociaux régionaux de France ou leurs représentants ;
+-sept présidents de conseils économiques, sociaux et environnementaux régionaux (CESR) désignés sur proposition du président de l'Assemblée des conseils économiques, sociaux et environnementaux régionaux de France ou leurs représentants ;
 
 -le président de l'Association des maires de France (AMF) ou son représentant ;
 
@@ -176,7 +176,7 @@ Outre son président, le Conseil national du tourisme est composé des membres, 
 
 7° Représentants des secteurs de l'emploi, de la formation et de la recherche :
 
--le président de l'     institution mentionnée à l'article L. 5312-1 du code du travail  (ANPE) ou son représentant ;
+-le président de l'institution mentionnée à l'article L. 5312-1 du code du travail (ANPE) ou son représentant ;
 
 -le président du Centre d'études et de recherche sur les qualifications (CEREQ) ou son représentant ;
 

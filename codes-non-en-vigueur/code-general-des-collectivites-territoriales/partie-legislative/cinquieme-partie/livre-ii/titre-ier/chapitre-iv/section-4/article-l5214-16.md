@@ -14,6 +14,8 @@ II.-La communauté de communes doit par ailleurs exercer dans les mêmes conditi
 
 3° Création, aménagement et entretien de la voirie ;
 
+Lorsque la communauté de communes exerce la compétence " création, aménagement et entretien de la voirie communautaire ” et que son territoire est couvert par un plan de déplacements urbains, la circulation d'un service de transport collectif en site propre entraîne l'intérêt communautaire des voies publiques supportant cette circulation et des trottoirs adjacents à ces voies. Toutefois, les conseils municipaux des communes membres de la communauté de communes statuant dans les conditions prévues au IV du présent article peuvent, sur certaines portions de trottoirs adjacents, décider de limiter l'intérêt communautaire aux seuls équipements affectés au service de transports collectifs ;
+
 4° Construction, entretien et fonctionnement d'équipements culturels et sportifs et d'équipements de l'enseignement préélémentaire et élémentaire ;
 
 5° Action sociale d'intérêt communautaire ;
@@ -26,7 +28,7 @@ III.-La définition des compétences transférées au sein de chacun des groupes
 
 IV.-L'intérêt communautaire des compétences exercées au sein des groupes mentionnés aux I et II est déterminé à la majorité qualifiée requise pour la création de la communauté de communes.
 
-Il est défini au plus tard deux ans après l'entrée en vigueur de l'arrêté prononçant le transfert de compétence. A défaut, la communauté de communes exerce l'intégralité de la compétence transférée.
+Il est défini au plus tard deux ans après l'entrée en vigueur de l'arrêté prononçant le transfert de compétence.A défaut, la communauté de communes exerce l'intégralité de la compétence transférée.
 
 V.-Afin de financer la réalisation ou le fonctionnement d'un équipement, des fonds de concours peuvent être versés entre la communauté de communes et les communes membres après accords concordants exprimés à la majorité simple du conseil communautaire et des conseils municipaux concernés.
 

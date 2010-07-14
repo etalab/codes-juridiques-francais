@@ -2,7 +2,7 @@
 
 Lorsqu'un projet public de travaux, d'aménagements ou d'ouvrages a fait l'objet d'une enquête publique en application du chapitre III du présent titre, l'autorité de l'Etat ou l'organe délibérant de la collectivité territoriale ou de l'établissement public responsable du projet se prononce, par une déclaration de projet, sur l'intérêt général de l'opération projetée.
 
-La déclaration de projet mentionne l'objet de l'opération tel qu'il figure dans le dossier soumis à l'enquête et comporte les motifs et considérations qui justifient son caractère d'intérêt général. Elle indique, le cas échéant, la nature et les motifs des principales modifications qui, sans en altérer l'économie générale, sont apportées au projet au vu des résultats de l'enquête publique.
+La déclaration de projet mentionne l'objet de l'opération tel qu'il figure dans le dossier soumis à l'enquête et comporte les motifs et considérations qui justifient son caractère d'intérêt général. La déclaration de projet prend en considération l'étude d'impact, l'avis de l'autorité administrative de l'Etat compétente en matière d'environnement et le résultat de la consultation du public.  Elle indique, le cas échéant, la nature et les motifs des principales modifications qui, sans en altérer l'économie générale, sont apportées au projet au vu des résultats de l'enquête publique.
 
 Si la déclaration de projet n'est pas intervenue dans le délai d'un an à compter de la clôture de l'enquête, l'opération ne peut être réalisée sans une nouvelle enquête.
 

@@ -12,6 +12,8 @@ Toutefois, les communautés de communes et communautés d'agglomération ont la 
 
 Cette faculté est également ouverte aux communautés urbaines et aux autorités organisatrices de transports urbains auxquelles ont adhéré une communauté urbaine, une communauté d'agglomération ou une communauté de communes.
 
+Dans les territoires comprenant une ou plusieurs communes classées communes touristiques au sens de l'article L. 133-11 du code du tourisme, le taux applicable peut être majoré de 0,2 %.
+
 En cas d'extension d'un périmètre de transports urbains résultant de l'extension du périmètre d'un établissement public de coopération intercommunale doté de fiscalité propre ou d'un syndicat mixte auquel a adhéré un établissement public de coopération intercommunale doté de fiscalité propre, le taux de versement destiné au financement des transports en commun applicable sur le territoire des communes incluses peut être réduit par décision de l'organe délibérant de l'établissement public ou du syndicat mixte, pour une durée maximale de cinq ans à compter de cette inclusion, par rapport au taux applicable sur le territoire des autres communes, lorsque le versement de transport n'était pas institué sur le territoire de communes nouvellement incluses ou l'était à un taux inférieur.
 
 Les dispositions de l'alinéa précédent s'appliquent aux communes incluses dans un périmètre de transports urbains résultant soit de la création d'un établissement public de coopération intercommunale doté de fiscalité propre compétent en matière de transports urbains, soit du transfert de la compétence en matière d'organisation de transports urbains à un établissement public de coopération intercommunale doté de fiscalité propre dont elles sont membres.

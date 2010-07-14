@@ -6,7 +6,7 @@ Il comprend également des chambres interdépartementales et des chambres interr
 
 Les établissements qui composent le réseau des chambres d'agriculture ont, dans le respect de leurs compétences respectives, une fonction de représentation des intérêts de l'agriculture auprès des pouvoirs publics et des collectivités territoriales.
 
-Ils contribuent, par les services qu'ils mettent en place, au développement des territoires ruraux et des entreprises agricoles.
+Ils contribuent, par les services qu'ils mettent en place, au développement durable des territoires ruraux et des entreprises agricoles, ainsi qu'à la préservation et à la valorisation des ressources naturelles et à la lutte contre le changement climatique.
 
 Ces établissements sont des établissements publics placés sous la tutelle de l'Etat et administrés par des élus représentant l'activité agricole, les groupements professionnels agricoles et les propriétaires forestiers.
 

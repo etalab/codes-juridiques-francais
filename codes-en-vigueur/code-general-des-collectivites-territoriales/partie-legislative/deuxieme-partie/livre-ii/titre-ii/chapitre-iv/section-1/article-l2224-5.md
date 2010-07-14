@@ -4,6 +4,8 @@ Le maire présente au conseil municipal ou le président de l'établissement pub
 
 Ce rapport est présenté au plus tard dans les six mois qui suivent la clôture de l'exercice concerné.
 
+Le maire y joint la note établie chaque année par l'agence de l'eau ou l'office de l'eau sur les redevances figurant sur la facture d'eau des abonnés et sur la réalisation de son programme pluriannuel d'intervention.
+
 Le rapport et l'avis du conseil municipal ou de l'assemblée délibérante sont mis à la disposition du public dans les conditions prévues à l'article L. 1411-13.
 
 Un décret fixe les indicateurs techniques et financiers figurant obligatoirement dans le rapport prévu ci-dessus ainsi que, s'il y a lieu, les autres conditions d'application du présent article.

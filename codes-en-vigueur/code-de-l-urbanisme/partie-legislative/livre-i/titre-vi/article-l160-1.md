@@ -18,4 +18,4 @@ Toute association agréée de protection de l'environnement en application des d
 
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles les associations visées à l'alinéa précédent pourront être agréées. Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, la procédure d'agrément est applicable aux associations inscrites depuis trois ans au moins.
 
-La commune peut exercer les droits reconnus à la partie civile, en ce qui concerne les faits commis sur son territoire et constituant une infraction aux dispositions du présent article.
+La commune ainsi que l'établissement public de coopération intercommunale compétent en matière d'urbanisme peuvent exercer les droits reconnus à la partie civile, en ce qui concerne les faits commis sur leur territoire et constituant une infraction aux dispositions du présent article.
