@@ -30,4 +30,8 @@ I.-Ces informations, à l'exception de celles relatives aux gages constitués su
 
 13° Aux constructeurs de véhicules ou à leurs mandataires pour les besoins des rappels de sécurité et des rappels de mise au point des véhicules.
 
+14° Aux agents des exploitants d'une autoroute ou d'un ouvrage routier ouvert à la circulation publique et soumis à péage, assermentés dans les conditions prévues à l'article L. 130-7, aux seules fins d'identifier les auteurs des contraventions au présent code qu'ils sont habilités à constater conformément au 8° de l'article L. 130-4.
+
 II.-Les entreprises d'assurances doivent fournir à l'appui de leur demande tous éléments utiles permettant de vérifier la réalité du sinistre.
+
+III. ― Les exploitants d'une autoroute ou d'un ouvrage routier ouvert à la circulation publique et soumis à péage doivent produire à l'appui de leur demande tous éléments utiles permettant de vérifier la réalité de la contravention pour non-paiement du péage.
