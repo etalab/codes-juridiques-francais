@@ -30,7 +30,7 @@ e) S'il y a lieu, le montant des régularisations commerciales effectuées en ap
 
 3. Autres informations :
 
-Le nombre et la nature des autres informations portées sur la déclaration dépendent de la nature des flux précisés à l'article 96 J et du montant des échanges par rapport aux seuils statistiques définis à l'article 28 du règlement C.E.E. n° 3330-91 et fixés par arrêté du ministre chargé des douanes :
+Le nombre et la nature des autres informations portées sur la déclaration dépendent de la nature des flux précisés à l'article 96 J et du montant des échanges par rapport aux seuils statistiques définis à l'article 10 du règlement (CE) n° 638/2004 du Parlement européen et du Conseil du 31 mars 2004 et fixés par arrêté du ministre chargé des douanes :
 
 a) Pour les opérateurs dont le montant annuel des échanges intracommunautaires est supérieur au seuil d'assimilation :
 

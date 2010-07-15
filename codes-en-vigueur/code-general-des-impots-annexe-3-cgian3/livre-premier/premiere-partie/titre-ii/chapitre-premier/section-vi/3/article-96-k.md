@@ -6,7 +6,7 @@ a) Pour les livraisons, le mois au cours duquel la taxe est devenue exigible dan
 
 b) Pour les acquisitions intracommunautaires de biens, le mois au cours duquel la taxe est devenue exigible ;
 
-c) Pour les autres opérations, le mois au cours duquel a eu lieu le mouvement de marchandises.
+c) Pour les autres opérations portant sur des biens, le mois au cours duquel a eu lieu le mouvement de marchandises.
 
 Lorsque la déclaration est produite sur support papier, elle est obligatoirement établie sur les formulaires CERFA intitulés " déclaration d'échanges de biens entre Etats membres de la Communauté européenne " ou " déclaration simplifiée d'échanges de biens entre Etats membres de la Communauté européenne ". Des dérogations peuvent être accordées aux entreprises remplissant les conditions déterminées par arrêtés.
 
