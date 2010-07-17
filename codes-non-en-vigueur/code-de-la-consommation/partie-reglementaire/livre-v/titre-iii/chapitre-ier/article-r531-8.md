@@ -28,6 +28,6 @@ Le conseil d'administration délibère sur :
 
 13° Les conditions générales de recrutement, d'emploi et de rémunération des personnels ;
 
-14° L'exercice des actions en justice.
+14° L'exercice des actions en justice et les transactions.
 
 Le conseil d'administration élabore son règlement intérieur.

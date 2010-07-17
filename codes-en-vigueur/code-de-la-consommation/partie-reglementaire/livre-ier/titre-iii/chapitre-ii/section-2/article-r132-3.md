@@ -14,4 +14,6 @@ La commission des clauses abusives, instituée par l'article L. 132-2, comprend 
 
 Un vice-président, nommé au titre du 2°, est désigné.
 
+Le directeur général de l'Institut national de la consommation ou son représentant peut participer aux séances de la Commission des clauses abusives. Il ne prend pas part aux votes sur les recommandations et avis.
+
 La fonction de commissaire du Gouvernement est exercée par le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant.
