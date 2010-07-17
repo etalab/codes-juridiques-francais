@@ -121,7 +121,7 @@ En application des dispositions du deuxième alinéa de l'article 260, le nombre
 <p>(Arr. 26 mai 2004, art. 2, 2°) Martinique</p>
 </td>
 <td valign="top" width="151">
-<p align="center">400</p>
+<p align="center">550</p>
 </td>
 </tr>
 <tr>
@@ -130,6 +130,12 @@ En application des dispositions du deuxième alinéa de l'article 260, le nombre
 </td>
 <td valign="top" width="151">
 <p align="center">300</p>
+</td>
+</tr>
+<tr>
+<td>Meurthe-et-Moselle </td>
+<td>
+<p align="center">600</p>
 </td>
 </tr>
 <tr>
