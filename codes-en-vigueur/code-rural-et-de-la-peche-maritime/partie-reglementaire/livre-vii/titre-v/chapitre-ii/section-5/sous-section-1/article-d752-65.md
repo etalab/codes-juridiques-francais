@@ -8,7 +8,7 @@ Le modèle de déclaration d'accident du travail ou de maladie professionnelle e
 
 1° Un est destiné à l'organisme, caisse de mutualité sociale agricole ou groupement auprès duquel est assurée la victime ;
 
-2° Deux sont adressés immédiatement, l'un à la caisse de mutualité sociale agricole, l'autre au chef du service départemental de l'inspection du travail, de l'emploi, de la politique sociale agricoles ;
+2° Deux sont adressés immédiatement, l'un à la caisse de mutualité sociale agricole, l'autre au ministre chargé de l'agriculture ;
 
 3° Le dernier est remis à la victime.
 
