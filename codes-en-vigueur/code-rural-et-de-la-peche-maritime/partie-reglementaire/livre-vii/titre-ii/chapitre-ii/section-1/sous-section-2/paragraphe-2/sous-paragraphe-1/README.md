@@ -2,6 +2,7 @@
 
 - [Article R722-16](article-r722-16.md)
 - [Article R722-17](article-r722-17.md)
+- [Article R722-17-1](article-r722-17-1.md)
 - [Article R722-18](article-r722-18.md)
 - [Article R722-19](article-r722-19.md)
 - [Article R722-20](article-r722-20.md)

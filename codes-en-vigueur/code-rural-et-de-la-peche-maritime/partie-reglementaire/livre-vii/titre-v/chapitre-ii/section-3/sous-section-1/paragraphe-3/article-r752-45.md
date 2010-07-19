@@ -14,4 +14,4 @@ Pour obtenir la certification de l'immatriculation des assurés auprès du régi
 
 Sur la base des données ainsi transmises, les caisses de mutualité sociale agricole vérifient l'immatriculation des assurés et adressent leur réponse au groupement.
 
-Lorsqu'une caisse de mutualité sociale agricole constate qu'un assujetti ne s'est pas affilié à l'assurance contre les accidents du travail et les maladies professionnelles, elle communique les nom et adresse de cette personne au chef du service départemental de l'inspection du travail, de l'emploi et de la politique sociale agricoles en vue de son affiliation d'office conformément aux dispositions de l'article L. 752-13.
+Lorsqu'une caisse de mutualité sociale agricole constate qu'un assujetti ne s'est pas affilié à l'assurance contre les accidents du travail et les maladies professionnelles, elle communique les nom et adresse de cette personne au directeur régional de l'alimentation, de l'agriculture et de la forêt en vue de son affiliation d'office conformément aux dispositions de l'article L. 752-13.

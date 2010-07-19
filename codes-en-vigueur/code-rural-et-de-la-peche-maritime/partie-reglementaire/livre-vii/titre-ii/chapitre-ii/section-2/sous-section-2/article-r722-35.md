@@ -4,4 +4,4 @@ L'employeur et le propriétaire d'un corps de bien donné à métayage sont tenu
 
 Les employeurs qui occupent des salariés dans plusieurs départements peuvent être autorisés, par décision du ministre chargé de l'agriculture, à adresser leurs déclarations à la caisse de mutualité sociale agricole du lieu de leur principal établissement, sauf en ce qui concerne le personnel employé d'une manière permanente dans un même département.
 
-La déclaration peut être établie indépendamment de l'employeur par le salarié ou assimilé, par les agents de contrôle assermentés des caisses de mutualité sociale agricole et par les inspecteurs et contrôleurs du service de l'inspection du travail, de l'emploi et de la politique sociale agricoles.
+La déclaration peut être établie indépendamment de l'employeur par le salarié ou assimilé et par les agents de contrôle assermentés des caisses de mutualité sociale agricole.

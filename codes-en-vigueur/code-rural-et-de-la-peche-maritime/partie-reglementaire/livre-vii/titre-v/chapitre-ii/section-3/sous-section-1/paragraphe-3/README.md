@@ -7,6 +7,5 @@
 - [Article R752-48](article-r752-48.md)
 - [Article R752-49](article-r752-49.md)
 - [Article R752-50](article-r752-50.md)
-- [Article R752-51](article-r752-51.md)
 - [Article R752-52](article-r752-52.md)
 - [Article R752-53](article-r752-53.md)
