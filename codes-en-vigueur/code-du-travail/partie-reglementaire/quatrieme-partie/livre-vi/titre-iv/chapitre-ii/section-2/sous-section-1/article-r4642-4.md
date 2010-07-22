@@ -41,3 +41,5 @@ d) Un représentant du ou des ministres chargés de l'industrie, du commerce et 
 e) Un représentant du ministre chargé de la construction ;
 
 f) Un représentant du ministre chargé des droits des femmes, nommés par le ministre du travail, sur proposition, en tant que de besoin, du ministre compétent.
+
+Chacun des membres mentionnés aux 1° et 2° a un suppléant désigné dans les mêmes conditions que le titulaire.
