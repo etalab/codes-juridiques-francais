@@ -2694,7 +2694,7 @@ D-2. Titres à finalité professionnelle délivrés par la Fédération françai
 <br/>Initiation au poney dans tout établissement.<br/>
 </td>
 <td align="center">
-<br/>Sous l'autorité d'un titulaire du brevet d'Etat d'éducateur sportif du 1er degré, option  équitation-activités équestres , ou du brevet d'Etat d'éducateur sportif du 2e degré, option  équitation , ou du brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité  activités équestres  toutes mentions.<br/>
+<br/>Sous l'autorité d'un titulaire du brevet d'Etat d'éducateur sportif du 1er degré, option équitation-activités équestres , ou du brevet d'Etat d'éducateur sportif du 2e degré, option équitation , ou du brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité activités équestres toutes mentions.<br/>
 </td>
 </tr>
 <tr>
@@ -2934,7 +2934,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </td>
 <td>Initiation à la pratique du char à voile de loisirs dans le support certifié (char assis/allongé, char debout ou char tracté).<br/>
 </td>
-<td>Sous l'autorité d'un titulaire d'un diplôme de niveau IV ou supérieur dans la discipline du char à voile, le nombre de titulaires du CQP assistant moniteur char à voile placés sous cette autorité ne pouvant être supérieur à 3.<p>Dans la limite de 8 chars.</p>
+<td>Sous l'autorité d'un titulaire d'un diplôme de niveau IV ou supérieur dans la discipline du char à voile, le nombre de titulaires du CQP assistant moniteur char à voile placés sous cette autorité ne pouvant être supérieur à 3. <p>Dans la limite de 8 chars.</p>
 <p>Vent de force 6 Beaufort maximum.</p>
 <p>Jusqu'au niveau 3 des niveaux de la Fédération française de char à voile.</p>
 </td>
@@ -2944,12 +2944,29 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </td>
 <td>Encadrement en autonomie jusqu'au premier niveau de compétition dans la mention considérée (aïkido, aïkibudo, arts martiaux chinois internes, arts martiaux chinois externes, arts énergétiques chinois, judo-jujitsu, karaté et disciplines associées, kendo et disciplines associées, taekwondo et disciplines associées).<br/>
 </td>
-<td>Les mercredis et les samedis pendant l'année scolaire dans les structures de plus de deux cents adhérents.<p>A raison de quatre séquences maximum par semaine pendant l'année scolaire dans les structures de moins de deux cents adhérents.</p>
+<td>Les mercredis et les samedis pendant l'année scolaire dans les structures de plus de deux cents adhérents. <p>A raison de quatre séquences maximum par semaine pendant l'année scolaire dans les structures de moins de deux cents adhérents.</p>
 <p>A l'exclusion du temps scolaire contraint.</p>
 <p>A l'exclusion du secteur du tourisme.</p>
 <p>Sous réserve de la présentation du certificat d'aptitude à l'exercice de la fonction d'assistant professeur arts martiaux en cours de validité.<br/>
 </p>
-<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left"> CQP  assistant moniteur motonautique.</p>
+</td>
+<td>
+<p align="left"> Animation de séances de découverte et d'initiation à la pratique du motonautisme au moyen du support véhicule nautique à moteur (VNM).</p>
+</td>
+<td>
+<p>Sous l'autorité d'un référent, le titulaire du CQP encadre : </p>
+<p>- 2 VNM maximum ; </p>
+<p>- ou 4 VNM maximum à vue du référent. </p>
+<p>Le référent est titulaire : </p>
+<p>- d'un diplôme d'Etat à compétence motonautique de niveau IV ou supérieur ; </p>
+<p>- ou du brevet fédéral jet 2e degré délivré par la Fédération française motonautique jusqu'au 28 août 2007. </p>
+<p>Le nombre de titulaires du CQP placés sous l'autorité du référent ne peut être supérieur à deux ou à un, dans le cas où il encadre 4 VNM à vue.</p>
+<p>A l'exclusion du temps scolaire contraint pour le public scolaire.</p>
 </td>
 </tr>
 </tbody>
