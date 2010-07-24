@@ -15,4 +15,3 @@
 - [Article 574](article-574.md)
 - [Article 574-1](article-574-1.md)
 - [Article 574-2](article-574-2.md)
-- [Article 575](article-575.md)
