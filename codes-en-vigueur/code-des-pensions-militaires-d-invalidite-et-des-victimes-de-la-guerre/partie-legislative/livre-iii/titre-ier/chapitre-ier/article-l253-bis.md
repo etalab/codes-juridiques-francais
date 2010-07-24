@@ -4,7 +4,7 @@ Ont vocation à la qualité de combattant et à l'attribution de la carte du com
 
 Les militaires des armées françaises,
 
-Les membres des forces supplétives françaises possédant la nationalité française à la date de la présentation de leur demande ou domiciliés en France à la même date,
+Les membres des forces supplétives françaises,
 
 Les personnes civiles possédant la nationalité française à la date de la présentation de leur demande qui ont pris part à des actions de feu ou de combat au cours de ces opérations.
 
