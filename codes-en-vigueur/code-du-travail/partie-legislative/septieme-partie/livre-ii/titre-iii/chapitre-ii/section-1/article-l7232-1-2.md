@@ -1,6 +1,6 @@
-# Article L7232-4
+# Article L7232-1-2
 
-Peuvent également être agréés :
+Sont dispensées de la condition d'activité exclusive fixée par les articles L. 7232-1-1, L. 7233-2 et L. 7233-3 :
 
 1° Pour leurs activités d'aide à domicile :
 

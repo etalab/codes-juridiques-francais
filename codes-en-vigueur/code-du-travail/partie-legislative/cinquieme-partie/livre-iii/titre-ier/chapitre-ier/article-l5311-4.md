@@ -6,6 +6,4 @@ Peuvent également participer au service public de l'emploi :
 
 2° Les organismes liés à l'Etat par une convention mentionnée à l'article L. 5132-2, relative à l'insertion par l'activité économique de personnes rencontrant des difficultés sociales et professionnelles particulières ;
 
-3° Les entreprises de travail temporaire ;
-
-4° Les agences de placement privées mentionnées à l'article L. 5323-1.
+3° Les entreprises de travail temporaire.

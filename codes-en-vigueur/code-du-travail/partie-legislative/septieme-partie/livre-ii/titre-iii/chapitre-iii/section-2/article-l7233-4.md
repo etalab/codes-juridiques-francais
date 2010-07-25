@@ -4,6 +4,8 @@ L'aide financière du comité d'entreprise et celle de l'entreprise versées en 
 
 1° Des activités entrant dans le champ des services à la personne ;
 
-2° Des activités de services assurées par les organismes mentionnés aux premier et deuxième alinéas de l'article L. 2324-1 du code de la santé publique ou par des assistants maternels agréés en application de l'article L. 421-1 du code de l'action sociale et des familles.
+2° Des activités de services assurées par les organismes mentionnés aux premier et deuxième alinéas de l'article L. 2324-1 du code de la santé publique ou les organismes ou les personnes organisant l'accueil sans hébergement prévu au troisième alinéa du même article ou par des assistants maternels agréés en application de l'article L. 421-1 du code de l'action sociale et des familles ;
+
+3° Des prestations directement liées à la gestion et au fonctionnement du chèque emploi-service et proposées aux salariés par les établissements spécialisés mentionnés à l'article L. 1271-10.
 
 Les dispositions du présent article ne donnent pas lieu à application de l'article L. 131-7 du code de la sécurité sociale.

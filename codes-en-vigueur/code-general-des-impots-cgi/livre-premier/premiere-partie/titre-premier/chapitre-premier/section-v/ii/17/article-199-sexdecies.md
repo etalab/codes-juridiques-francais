@@ -2,9 +2,9 @@
 
 1. Lorsqu'elles n'entrent pas en compte pour l'évaluation des revenus des différentes catégories, ouvrent droit à une aide les sommes versées par un contribuable domicilié en France au sens de l'article 4 B pour :
 
-a) L'emploi d'un salarié qui rend des services définis aux articles D. 129-35 et D. 129-36 du code du travail ;
+a) L'emploi d'un salarié qui rend des services définis aux articles L. 7231-1 et D. 7231-1 du code du travail ;
 
-b) Le recours à une association, une entreprise ou un organisme ayant reçu un agrément délivré par l'Etat et qui rend des services mentionnés au a ;
+b) Le recours à une association, une entreprise ou un organisme déclaré en application de l'article L. 7232-1-1 du même code et qui rend exclusivement des services mentionnés au a du présent 1 ou qui bénéficie d'une dérogation à la condition d'activité exclusive selon l'article L. 7232-1-2 du code du travail ;
 
 c) Le recours à un organisme à but non lucratif ayant pour objet l'aide à domicile et habilité au titre de l'aide sociale ou conventionné par un organisme de sécurité sociale.
 
@@ -22,7 +22,7 @@ Cette limite est portée à 20 000 euros pour les contribuables mentionnés au 3
 
 La limite de 12 000 euros est majorée de 1 500 euros par enfant à charge au sens des articles 196 et 196 B et au titre de chacun des membres du foyer fiscal âgé de plus de soixante-cinq ans. La majoration s'applique également aux ascendants visés au premier alinéa du 2 remplissant la même condition d'âge. Le montant de 1 500 euros est divisé par deux pour les enfants réputés à charge égale de l'un et l'autre de leurs parents. La limite de 12 000 euros augmentée de ces majorations ne peut excéder 15 000 euros. Toutefois, lorsque les dispositions du deuxième alinéa sont applicables, la limite de 15 000 € fait l'objet des majorations prévues au présent alinéa et le montant total des dépenses ne peut excéder 18 000 €.
 
-4. L'aide prend la forme d'un crédit d'impôt sur le revenu égal à 50 % des dépenses mentionnées au 3 au titre des services définis à l'article D. 129-35 du code du travail, supportées au titre de l'emploi, à leur résidence, d'un salarié ou en cas de recours à une association, une entreprise ou un organisme, mentionné aux b ou c du 1 par :
+4. L'aide prend la forme d'un crédit d'impôt sur le revenu égal à 50 % des dépenses mentionnées au 3 au titre des services définis aux articles L. 7231-1 et D. 7231-1 du code du travail, supportées au titre de l'emploi, à leur résidence, d'un salarié ou en cas de recours à une association, une entreprise ou un organisme, mentionné aux b ou c du 1 par :
 
 a) Le contribuable célibataire, veuf ou divorcé qui exerce une activité professionnelle ou est inscrit sur la liste des demandeurs d'emplois prévue à l'article L. 5411-1 du code du travail durant trois mois au moins au cours de l'année du paiement des dépenses ;
 
