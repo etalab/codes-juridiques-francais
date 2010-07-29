@@ -36,7 +36,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td rowspan="3" valign="top" width="21">
-<p>47 </p>
+<p align="center">47 </p>
 </td>
 <td valign="top" width="433">
 <p>Aluminium (fabrication du sulfate d') et fabrication d'aluns </p>
@@ -76,7 +76,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="21">
-<p>70 </p>
+<p align="center">70 </p>
 </td>
 <td valign="top" width="433">
 <p>Bains et boues provenant du dérochage des métaux (traitement des) par l'acide nitrique </p>
@@ -90,7 +90,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="21">
-<p>187 </p>
+<p align="center">187 </p>
 </td>
 <td valign="top" width="433">
 <p>Etamage des glaces (ateliers d') </p>
@@ -108,7 +108,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="21">
-<p>195 </p>
+<p align="center">195 </p>
 </td>
 <td valign="top" width="433">
 <p>Ferro-silicium (dépôts de) </p>
@@ -125,51 +125,58 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 </tr>
 <tr>
-<td rowspan="9" valign="top" width="21">
-<p>1000 </p>
+<td>
+<p align="center">1000</p>
 </td>
-<td valign="top" width="433">
+<td>
 <p>Substances et préparations dangereuses (définition et classification des). </p>
 </td>
-<td rowspan="9" valign="top" width="31">
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td rowspan="8" valign="top" width="21">
 <br/>
 </td>
-<td rowspan="9" valign="top" width="34">
+<td valign="top" width="433">
+<p>Définition : Les termes "substances" et "préparations", ainsi que les catégories de dangers des substances et préparations dangereuses, notamment celles de "comburantes", "explosibles", "facilement inflammables", "toxiques", "très toxiques" et "dangereuses pour l'environnement", sont définis aux articles R. 4411-2 à R. 4411-6 du code du travail. <br/>On entend par produit explosif toute substance ou préparation explosible et tout produit ouvré comportant des substances ou préparation explosibles destiné à être utilisé pour les effets de son explosion ou à des fins pyrotechniques. </p>
+</td>
+<td rowspan="8" valign="top" width="31">
 <br/>
 </td>
-<td rowspan="9" valign="top" width="148"/>
-<td rowspan="9" valign="top" width="33">
+<td rowspan="8" valign="top" width="34">
+<br/>
+</td>
+<td rowspan="8" valign="top" width="148"/>
+<td rowspan="8" valign="top" width="33">
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>Définition : Les termes " substances " et " préparations ", ainsi que les catégories de dangers des substances et préparations dangereuses, notamment celles de " comburantes ", " explosibles ", " facilement inflammables ", " toxiques ", " très toxiques " et " dangereuses pour l'environnement ", sont définis aux articles R. 4411-2 à R. 4411-6 du code du travail. <br/>On entend par produit explosif toute substance ou préparation explosible et tout produit ouvré comportant des substances ou préparation explosibles destiné à être utilisé pour les effets de son explosion ou à des fins pyrotechniques. </p>
+<p>Pour les substances dangereuses pour l'environnement, on distingue : A-Les substances très toxiques pour les organismes aquatiques, y compris celles pouvant entraîner des effets néfastes à long terme pour l'environnement aquatique, auxquelles sont attribuées les phrases de risques R. 50 ou R. 50-53 définies par l'arrêté du 20 avril 1994 modifié relatif à la déclaration, la classification, l'emballage et l'étiquetage des substances ; B-Les substances toxiques pour les organismes aquatiques et pouvant entraîner des effets néfastes à long terme pour l'environnement aquatique, auxquelles sont attribuées les phrases de risques R 51-53 définies par l'arrêté du 20 avril 1994 susmentionné.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>Pour les substances dangereuses pour l'environnement, on distingue : A-Les substances très toxiques pour les organismes aquatiques, y compris celles pouvant entraîner des effets néfastes à long terme pour l'environnement aquatique, auxquelles sont attribuées les phrases de risques R. 50 ou R. 50-53 définies par l'arrêté du 20 avril 1994 modifié relatif à la déclaration, la classification, l'emballage et l'étiquetage des substances ; B-Les substances toxiques pour les organismes aquatiques et pouvant entraîner des effets néfastes à long terme pour l'environnement aquatique, auxquelles sont attribuées les phrases de risques R 51-53 définies par l'arrêté du 20 avril 1994 susmentionné. </p>
+<p>Le terme gaz désigne toute substance dont la pression de vapeur absolue est égale ou supérieure à 101, 3 kPa à une température de 20 °C. <br/>Le terme liquide désigne toute substance qui n'est pas définie comme étant un gaz et qui ne se trouve pas à l'état solide à une température de 20 °C et à une pression normale de 101, 3 kPa.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>Le terme gaz désigne toute substance dont la pression de vapeur absolue est égale ou supérieure à 101, 3 kPa à une température de 20° C. <br/>Le terme liquide désigne toute substance qui n'est pas définie comme étant un gaz et qui ne se trouve pas à l'état solide à une température de 20 oC et à une pression normale de 101, 3 kPa. </p>
+<p>Classification : a) Substances : Les substances comburantes, explosibles, inflammables, toxiques, très toxiques et dangereuses pour l'environnement sont définies à l'annexe I de l'arrêté du 20 avril 1994 susmentionné. Les substances présentant ces dangers, mais ne figurant pas encore à l'annexe I de l'arrêté du 20 avril 1994 susmentionné sont classées et étiquetées par leurs fabricants, distributeurs ou importateurs en fonction des informations sur leurs propriétés physico-chimiques ou toxicologiques pertinentes et accessibles existantes, conformément aux critères de classification et d'étiquetage qui font l'objet de l'annexe VI de l'arrêté du 20 avril 1994 susmentionné.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>Classification : a) Substances : Les substances comburantes, explosibles, inflammables, toxiques, très toxiques et dangereuses pour l'environnement sont définies à l'annexe I de l'arrêté du 20 avril 1994 susmentionné. Les substances présentant ces dangers, mais ne figurant pas encore à l'annexe I de l'arrêté du 20 avril 1994 susmentionné sont classées et étiquetées par leurs fabricants, distributeurs ou importateurs en fonction des informations sur leurs propriétés physico-chimiques ou toxicologiques pertinentes et accessibles existantes, conformément aux critères de classification et d'étiquetage qui font l'objet de l'annexe VI de l'arrêté du 20 avril 1994 susmentionné. </p>
+<p>b) Préparations : Le classement des préparations dangereuses résulte : - du classement des substances dangereuses qu'elles contiennent et de la concentration de celles-ci ; - du type de préparation. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>b) Préparations : Le classement des préparations dangereuses résulte :-du classement des substances dangereuses qu'elles contiennent et de la concentration de celles-ci ;-du type de préparation. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="433">
-<p>Les préparations dangereuses sont classées suivant les dispositions de l'arrêté du 9 novembre 2004 définissant les critères de classification et les conditions d'étiquetage et d'emballage des substances et préparations dangereuses et transposant la directive 1999 / 45 / CE du Parlement européen et du Conseil du 31 mai 1999, concernant le rapprochement des dispositions législatives, réglementaires et administratives relatives à la classification, à l'emballage et à l'étiquetage des préparations dangereuses. </p>
+<p>Les préparations dangereuses sont classées suivant les dispositions de l'arrêté du 9 novembre 2004 définissant les critères de classification et les conditions d'étiquetage et d'emballage des substances et préparations dangereuses et transposant la directive 1999/45/CE du Parlement européen et du Conseil du 31 mai 1999, concernant le rapprochement des dispositions législatives, réglementaires et administratives relatives à la classification, à l'emballage et à l'étiquetage des préparations dangereuses. </p>
 </td>
 </tr>
 <tr>
@@ -179,7 +186,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>Pour ses propriétés toxicologiques, une préparation toxique ou très toxique est classée par son fabricant :-soit, lorsque cette information est disponible, à l'aide de la détermination de ses effets aigus létaux (DL50 ou CL50) par des essais toxicologiques effectués directement sur la préparation en appliquant les méthodes de l'annexe V de l'arrêté du 20 avril 1994 susmentionnés, puis les critères de classification de l'annexe VI de ce même arrêté ;-soit en utilisant la méthode de calcul décrite aux points 1 et 2 de la partie A de l'annexe II de l'arrêté du 9 novembre 2004 susmentionné, qui fait intervenir une pondération des substances toxiques et très toxiques contenues dans la préparation en fonction de leur concentration. Pour ses propriétés environnementales, une préparation dangereuse pour l'environnement est classée par son fabricant :<br/>-soit par des essais effectués directement sur la préparation en appliquant les méthodes de l'annexe V de l'arrêté du 20 avril 1994 susmentionné, puis les critères de classification de l'annexe VI de ce même arrêté ;<br/>-soit en utilisant la méthode de calcul décrite au point a de la partie A de l'annexe III de l'arrêté du 9 novembre 2004 susmentionné, qui fait intervenir une pondération des substances écotoxiques contenues dans la préparation en fonction de leur concentration. </p>
+<p>Pour ses propriétés toxicologiques, une préparation toxique ou très toxique est classée par son fabricant : - soit, lorsque cette information est disponible, à l'aide de la détermination de ses effets aigus létaux (DL50 ou CL50) par des essais toxicologiques effectués directement sur la préparation en appliquant les méthodes de l'annexe V de l'arrêté du 20 avril 1994 susmentionnés, puis les critères de classification de l'annexe VI de ce même arrêté ; - soit en utilisant la méthode de calcul décrite aux points 1 et 2 de la partie A de l'annexe II de l'arrêté du 9 novembre 2004 susmentionné, qui fait intervenir une pondération des substances toxiques et très toxiques contenues dans la préparation en fonction de leur concentration. Pour ses propriétés environnementales, une préparation dangereuse pour l'environnement est classée par son fabricant :<br/>- soit par des essais effectués directement sur la préparation en appliquant les méthodes de l'annexe V de l'arrêté du 20 avril 1994 susmentionné, puis les critères de classification de l'annexe VI de ce même arrêté ;<br/>- soit en utilisant la méthode de calcul décrite au point a de la partie A de l'annexe III de l'arrêté du 9 novembre 2004 susmentionné, qui fait intervenir une pondération des substances écotoxiques contenues dans la préparation en fonction de leur concentration. </p>
 </td>
 </tr>
 <tr>
@@ -1192,7 +1199,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>b) supérieure à 1, 5 t, mais inférieure à 200 t </p>
+<p>b) supérieure à 1,5 t, mais inférieure à 200 t </p>
 </td>
 <td valign="top" width="31">
 <p align="center">A</p>
@@ -1201,7 +1208,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">3</p>
 </td>
 <td valign="top" width="148">
-<p>b) supérieure à 1, 5 t, mais inférieure à 200 t </p>
+<p>b) supérieure à 1,5 t, mais inférieure à 200 t </p>
 </td>
 <td valign="top" width="33">
 <p align="center">3</p>
@@ -1209,7 +1216,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>c) supérieure ou égale à 150 kg, mais inférieure ou égale à 1, 5 t </p>
+<p>c) supérieure ou égale à 150 kg, mais inférieure ou égale à 1,5 t </p>
 </td>
 <td valign="top" width="31">
 <p align="center">DC</p>
@@ -1689,7 +1696,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>1. Substances et préparations à des concentrations en poids supérieures à 5 % à base de : <br/>4-aminobiphényle et / ou ses sels, benzidine et / ou ses sels, chlorure de N, N-diméthylcarbamoyle, diméthylnitrosamine, 2-naphthylamine et / ou ses sels, oxyde de bis (chlorométhyle), oxyde de chlorométhyle et de méthyle, 1, 3-propanesultone, 4-nitrodiphényle, triamide hexaméthylphosphorique, benzotrichlorure, 1, 2-dibromoéthane, sulfate de diéthyle, sulfate de diméthyle, 1, 2-dibromo-3-chloropropane, 1, 2-diméthylhydrazine, hydrazine. </p>
+<p>1. Substances et préparations à des concentrations en poids supérieures à 5 % à base de : <br/>4-aminobiphényle et/ou ses sels, benzidine et/ou ses sels, chlorure de N, N-diméthylcarbamoyle, diméthylnitrosamine, 2-naphthylamine et/ou ses sels, oxyde de bis (chlorométhyle), oxyde de chlorométhyle et de méthyle, 1, 3-propanesultone, 4-nitrodiphényle, triamide hexaméthylphosphorique, benzotrichlorure, 1, 2-dibromoéthane, sulfate de diéthyle, sulfate de diméthyle, 1, 2-dibromo-3-chloropropane, 1, 2-diméthylhydrazine, hydrazine. </p>
 </td>
 <td valign="top" width="31">
 <br/>
@@ -2758,7 +2765,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p>1171 </p>
 </td>
 <td valign="top" width="433">
-<p>Dangereux pour l'environnement-A et / ou B-, très toxiques et / ou toxiques pour les organismes aquatiques (fabrication industrielle de substances ou préparations) telles que définies à la rubrique 1 000, à l'exclusion de celles visées nominativement ou par famille par d'autres rubriques. </p>
+<p>Dangereux pour l'environnement-A et/ou B-, très toxiques et/ou toxiques pour les organismes aquatiques (fabrication industrielle de substances ou préparations) telles que définies à la rubrique 1000, à l'exclusion de celles visées nominativement ou par famille par d'autres rubriques. </p>
 </td>
 <td valign="top" width="31">
 <br/>
@@ -4326,11 +4333,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 </tr>
 <tr>
-<td rowspan="9" valign="top" width="21">
+<td rowspan="12" valign="top" width="21">
 <p>1310 </p>
 </td>
 <td valign="top" width="433">
-<p>Produits explosifs (fabrication). </p>
+<p>Produits explosifs (fabrication, chargement, encartouchage, conditionnement (1) de, études et recherches, essais, montage, assemblage, mise en liaison électrique ou pyrotechnique de et travail mécanique sur)</p>
 </td>
 <td valign="top" width="31">
 <br/>
@@ -4345,7 +4352,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>1. Fabrication industrielle par transformation chimique de : La quantité totale de matière active susceptible d'être présente dans l'installation étant (3) : </p>
+<p>1. Fabrication industrielle par transformation chimique de la quantité totale de matière active susceptible d'être présente dans l'installation étant (2) : </p>
 </td>
 <td valign="top" width="31">
 <br/>
@@ -4396,7 +4403,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>2. Autres fabrications (1), chargement, encartouchage, conditionnement, études et recherches, essais, à l'exclusion des opérations effectuées sur le site d'emploi (2) en vue de celui-ci telles que chargement de trous de mines, montage, amorçage, mise en liaison électrique ou pyrotechnique. <br/>La quantité totale de matière active susceptible d'être présente dans l'installation étant (3) : </p>
+<p>2. Autres fabrications (3), chargement, encartouchage, conditionnement (1) de, études et recherches, essais, montage, assemblage, mise en liaison électrique ou pyrotechnique de et travail mécanique sur, à l'exclusion des opérations effectuées sur le lieu d'utilisation en vue de celle-ci.<br/>La quantité totale de matière active susceptible d'être présente dans l'installation étant (2) :</p>
 </td>
 <td valign="top" width="31">
 <br/>
@@ -4447,7 +4454,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>c) Inférieure à 100 kg (4) </p>
+<p>c) Inférieure à 100 kg </p>
 </td>
 <td valign="top" width="31">
 <p align="center">DC</p>
@@ -4463,8 +4470,40 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 </tr>
 <tr>
+<td>3. Fabrication d'explosif en unité mobile.<br/>La quantité totale de matière active susceptible d'être présente dans l'installation étant (4) :</td>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>a) Supérieure ou égale à 100 kg</td>
+<td>
+<p align="center">A</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>b) Inférieure à 100 kg</td>
+<td>
+<p align="center">DC</p>
+</td>
+<td>
+<br/>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
 <td valign="top" width="433">
-<p>(1) Nota.-Les autres fabrications concernent les fabrications par procédé non chimique, c'est-à-dire par mélange physique de produits non explosifs ou non prévus pour être explosifs (par exemple, explosifs anti-avalanches, nitrate-fuels, émulsions, poudres propulsives, propergols, compositions pyrotechniques...). <br/>(2) Nota.-On entend par emploi d'un produit explosif soit son utilisation pour les effets de son explosion, soit sa mise en situation d'utilisation dans un objet lui-même non classé produit explosif (dispositifs pyrotechniques de sécurité, par exemple). <br/>(3) Nota.-La quantité de matière active à retenir dans le classement sous cette rubrique doit tenir compte des produits intermédiaires, des en-cours et des déchets, dont la présence dans l'installation s'avère connexe à l'activité de fabrication. <br/>(4) Nota.-Les unités mobiles de fabrication d'explosif sont classées sous cette rubrique si la quantité d'explosif fabriqué susceptible d'être concernée par la transmission d'une détonation prenant naissance en son sein n'est pas supérieure à 100 kg. </p>
+<p>Nota :<br/>(1) Les opérations de manipulation, manutention, conditionnement, reconditionnement, mise au détail ou distribution réalisées dans les espaces de vente des établissements recevant du public sont exclues.</p>
+<p>(2) La quantité de matière active à retenir tient compte des produits intermédiaires, des en-cours et des déchets dont la présence dans l'installation s'avère connexe à l'activité de fabrication.</p>
+<p>(3) Les autres fabrications concernent les fabrications par procédé non chimique, c'est-à-dire par mélange physique de produits non explosifs ou non prévus pour être explosifs.</p>
+<p>(4) La quantité de matière active à prendre en compte est la quantité d'explosif fabriqué susceptible d'être concernée par la transmission d'une détonation prenant naissance en son sein.</p>
 </td>
 <td valign="top" width="31">
 <br/>
@@ -4478,11 +4517,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 </tr>
 <tr>
-<td rowspan="6" valign="top" width="21">
+<td rowspan="8" valign="top" width="21">
 <p>1311 </p>
 </td>
 <td valign="top" width="433">
-<p>Produits explosifs (stockage de) </p>
+<p>Produits explosifs (stockage de), à l'exclusion des produits explosifs présents dans les espaces de vente des établissements recevant du public :</p>
 </td>
 <td valign="top" width="31">
 <br/>
@@ -4497,7 +4536,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>La quantité équivalente totale de matière active susceptible d'être présente dans l'installation étant : </p>
+<p>La quantité équivalente totale de matière active (1) susceptible d'être présente dans l'installation étant : </p>
 </td>
 <td valign="top" width="31">
 <br/>
@@ -4514,7 +4553,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>1. supérieure ou égale à 10 t </p>
+<p>1. Supérieure ou égale à 10 t </p>
 </td>
 <td valign="top" width="31">
 <p align="center">AS</p>
@@ -4548,10 +4587,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>3. Supérieure ou égale à 250 kg, mais inférieure à 500 kg </p>
+<p>3. Supérieure ou égale à 100 kg, mais inférieure à 500 kg </p>
 </td>
 <td valign="top" width="31">
-<p align="center">DC</p>
+<p align="center">E</p>
 </td>
 <td valign="top" width="34">
 <br/>
@@ -4562,8 +4601,28 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 </tr>
 <tr>
-<td valign="top" width="433">
-<p>Nota.-Les produits explosifs appartiennent à la classe 1 des marchandises dangereuses et sont classés en divisions de risque et en groupes de compatibilité selon les articles 3 à 9 de l'arrêté du 20 avril 2007 fixant les règles relatives à l'évaluation des risques et à la prévention des accidents dans les établissements pyrotechniques. <br/>Le régime de classement d'une installation est déterminé en fonction de la quantité équivalente totale de matière active exprimée en quantité équivalente à celle d'un produit explosif de division de risques 1. 1 selon la formule : <br/>Quantité équivalente totale = A + B + C / 3 + D / 5 + E + F, <br/>B, C, D, E, F représentant respectivement les quantités relatives aux produits classés en division de risque 1. 2, 1. 3, 1. 4, 1. 5 et 1. 6 lorsque ceux-ci sont en emballages fermés conformes aux dispositions réglementaires en matière de transport, <br/>A représentant la quantité relative aux produits classés en division de risque 1. 1 lorsque ceux-ci sont en emballages fermés conformes aux dispositions réglementaires en matière de transport ainsi que tous les produits lorsque ceux-ci ne sont pas en emballages fermés conformes aux dispositions réglementaires en matière de transport. </p>
+<td>4. a) Supérieure ou égale à 30 kg et inférieure à 100 kg lorsque seuls des produits classés en division de risque 1.3 et 1.4 sont stockés dans l'installation</td>
+<td>
+<p align="center">DC</p>
+</td>
+<td>
+<br/>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>b) Inférieure à 100 kg dans les autres cas</td>
+<td>
+<p align="center">DC</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td valign="top" width="433">Nota : <p>(1) Les produits explosifs appartiennent à la classe 1 des marchandises dangereuses et sont classés en divisions de risque et en groupes de compatibilité selon les articles 3 à 9 de l'arrêté du 20 avril 2007 fixant les règles relatives à l'évaluation des risques et à la prévention des accidents dans les établissements pyrotechniques.</p>
+<p>La "quantité équivalente totale de matière active" est établie selon la formule :<br/>Quantité équivalente totale = A + B + C/3 + D/5 + E + F<br/>A représentant la quantité relative aux produits classés en division de risque 1.1 ainsi que tous les produits lorsque ceux-ci ne sont pas en emballages fermés conformes aux dispositions réglementaires en matière de transport.<br/>B, C, D, E, F représentant respectivement les quantités relatives aux produits classés en division de risque 1.2, 1.3, 1.4, 1.5 et 1.6 lorsque ceux-ci sont en emballages fermés conformes aux dispositions réglementaires en matière de transport.</p>
 </td>
 <td valign="top" width="31">
 <br/>
@@ -4581,7 +4640,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p>1312 </p>
 </td>
 <td valign="top" width="433">
-<p>Produits explosifs (mise en oeuvre de) à des fins industrielles telles que découpage, formage, emboutissage, placage de métaux. </p>
+<p>Produits explosifs (mise en œuvre de) à des fins industrielles telles que découpage, formage, emboutissage, placage de métaux. </p>
 </td>
 <td valign="top" width="31">
 <br/>
