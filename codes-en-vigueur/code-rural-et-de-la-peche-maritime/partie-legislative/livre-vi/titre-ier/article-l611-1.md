@@ -18,7 +18,7 @@ Indépendamment des attributions qui lui sont conférées par les dispositions l
 
 2° Les orientations de la politique de qualité dans le domaine agro-alimentaire et agro-industriel, notamment les orientations en matière de soutien financier, de protection et de promotion des signes de qualité ;
 
-3° L'affectation des moyens, notamment ceux ouverts par la loi de finances, en matière d'orientation et de valorisation de la production agricole ;
+3° (Abrogé) ;
 
 4° La coordination et la cohérence des activités de l'établissement mentionné à l'article L. 621-1 et des organisations professionnelles reconnues ;
 
@@ -28,7 +28,7 @@ Indépendamment des attributions qui lui sont conférées par les dispositions l
 
 7° Les règles de mise en marché et de commercialisation lorsqu'elles sont définies par l'autorité administrative compétente.
 
-Dans l'exercice de ses compétences, le conseil tient compte de la nécessité d'un développement équilibré du territoire et du maintien de l'économie rurale et de l'emploi.
+Dans l'exercice de ses compétences, le conseil tient compte de la nécessité d'un développement équilibré et durable du territoire et du maintien de l'économie rurale et de l'emploi.
 
 Certaines attributions du conseil peuvent être exercées, dans les conditions fixées par décret, par des commissions techniques spécialisées comprenant pour partie des personnalités extérieures au conseil.
 

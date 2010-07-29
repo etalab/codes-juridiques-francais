@@ -16,4 +16,4 @@ d) Les codes des bonnes pratiques sylvicoles.
 
 Ils sont établis conformément, selon les cas, aux directives ou schémas régionaux dont ils relèvent.
 
-Les orientations régionales forestières, les directives et les schémas visés au deuxième alinéa ainsi que les documents d'aménagement, pour leur partie technique, sont consultables par le public.
+Les orientations régionales forestières, les directives et les schémas visés au deuxième alinéa ainsi que les documents d'aménagement, pour leur partie technique, sont consultables par le public. Ils sont communicables à toute personne sur sa demande et à ses frais.

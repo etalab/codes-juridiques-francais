@@ -10,6 +10,12 @@ II. - Chaque établissement du réseau des chambres d'agriculture est doté d'un
 
 III. - Par délibération de leurs assemblées, plusieurs établissements du réseau peuvent décider de réaliser des projets communs sur le territoire de plusieurs départements et confier leur réalisation à l'un d'entre eux.
 
+Les établissements du réseau peuvent créer entre eux, notamment pour l'exercice de missions de service public réglementaires, de fonctions de gestion ou d'administration interne, des services communs dont les règles de fonctionnement et de financement sont fixées par décret.
+
+Plusieurs chambres d'agriculture peuvent, par convention, contribuer conjointement à la réalisation d'un ou plusieurs projets communs par la mobilisation de moyens humains, matériels ou financiers donnant lieu à un suivi comptable spécifique pour reddition en fin d'exercice, et confier à l'une d'entre elles la gestion administrative et financière de ces projets.
+
+Les services d'un établissement du réseau peuvent être mis, en totalité ou en partie, à disposition d'un autre établissement du réseau lorsque cette mise à disposition présente un intérêt dans le cadre de la mutualisation des services au sein de la région ou du réseau des chambres d'agriculture. Les modalités de cette mise à disposition sont définies par une convention conclue entre les établissements du réseau concernés.
+
 Pour gérer des moyens communs ou mettre en oeuvre des actions communes, plusieurs établissements du réseau peuvent créer des organismes disposant de la personnalité juridique et de l'autonomie financière ; la nature de ces personnes morales et leurs modalités de fonctionnement sont fixées par décret.
 
 Les établissements du réseau peuvent constituer entre eux ou avec d'autres personnes morales des groupements d'intérêt public pour exercer, pendant une durée déterminée, des activités entrant dans leur champ de compétences, ainsi que pour créer et gérer des équipements, des personnels ou des services communs nécessaires à ces activités. Les modalités de constitution et de fonctionnement de ces groupements d'intérêt public sont définies par décret.

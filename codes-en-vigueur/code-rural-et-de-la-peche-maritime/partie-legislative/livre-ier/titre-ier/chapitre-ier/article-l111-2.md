@@ -18,4 +18,6 @@ Pour parvenir à la réalisation des objectifs définis en ce domaine par le pr�
 
 8° Contribuer à la prévention des risques naturels ;
 
-9° Assurer la mise en valeur et la protection du patrimoine rural et des paysages.
+9° Assurer la mise en valeur et la protection du patrimoine rural et des paysages ;
+
+10° Préserver les ressources en eau, notamment par une politique de stockage de l'eau, la biodiversité sauvage et domestique et les continuités écologiques entre les milieux naturels.

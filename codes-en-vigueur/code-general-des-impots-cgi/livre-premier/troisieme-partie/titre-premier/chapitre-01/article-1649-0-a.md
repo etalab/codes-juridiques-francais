@@ -16,8 +16,7 @@ d) la taxe d'habitation, établie au titre de l'année qui suit celle de la réa
 
 e) Les contributions et prélèvements, prévus aux articles L. 136-6 et L. 245-14 du code de la sécurité sociale et à l'article 15 de l'ordonnance n° 96-50 du 24 janvier 1996 relative au remboursement de la dette sociale, ainsi que les contributions additionnelles à ces prélèvements, prévues au 2° de l'article L. 14-10-4 et au III de l'article L. 262-24 du code de l'action sociale et des familles, sur les revenus du patrimoine compris dans les revenus mentionnés au 4 ;
 
-f) Les contributions et prélèvements, prévus aux articles L. 136-1 à L. 136-5,
-L. 136-7 et L. 245-15 du code de la sécurité sociale et aux articles 14 et 16 de l'ordonnance n° 96-50 du 24 janvier 1996 précitée, ainsi que les contributions additionnelles à ces prélèvements, prévues au 2° de l'article L. 14-10-4 et au III de l'article L. 262-24 du code de l'action sociale et des familles, sur les revenus d'activité et de remplacement et les produits de placement compris dans les revenus mentionnés au 4.
+f) Les contributions et prélèvements, prévus aux articles L. 136-1 à L. 136-5, L. 136-7 et L. 245-15 du code de la sécurité sociale et aux articles 14 et 16 de l'ordonnance n° 96-50 du 24 janvier 1996 précitée, ainsi que les contributions additionnelles à ces prélèvements, prévues au 2° de l'article L. 14-10-4 et au III de l'article L. 262-24 du code de l'action sociale et des familles, sur les revenus d'activité et de remplacement et les produits de placement compris dans les revenus mentionnés au 4.
 
 3. Les impositions mentionnées au 2 sont diminuées des restitutions de l'impôt sur le revenu perçues ou des dégrèvements obtenus au cours de l'année suivant celle de la réalisation des revenus mentionnés au 4.
 
@@ -45,7 +44,7 @@ c bis) Du montant des moins-values non imputables en application du I bis de l'a
 
 d) Des impositions équivalentes à celles mentionnées aux a, e et f du 2 lorsque celles-ci ont été payées à l'étranger.
 
-6. Les revenus des comptes d'épargne-logement mentionnés aux articles L. 315-1 à L. 315-6 du code de la construction et de l'habitation, des plans d'épargne populaire mentionnés au 22° de l'article 157 ainsi que des bons ou contrats de capitalisation et des placements de même nature, autres que ceux en unités de compte, sont réalisés, pour l'application du 4, à la date de leur inscription en compte.
+6. Les revenus des comptes d'épargne-logement mentionnés aux articles L. 315-1 à L. 315-6 du code de la construction et de l'habitation, des plans d'épargne populaire et des comptes épargne d'assurance pour la forêt mentionnés respectivement aux 22° et 23° de l'article 157 ainsi que des bons ou contrats de capitalisation et des placements de même nature, autres que ceux en unités de compte, sont réalisés, pour l'application du 4, à la date de leur inscription en compte.
 
 7. Les gains retirés des cessions de valeurs mobilières, droits sociaux et titres assimilés qui n'excèdent pas le seuil fixé par le 1 du I de l'article 150-0 A sont pris en compte pour leur montant net soumis à la contribution sociale généralisée en application du I de l'article L. 136-6 du code de la sécurité sociale.
 

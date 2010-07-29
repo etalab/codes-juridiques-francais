@@ -7,3 +7,4 @@
 - [Article L723-12-3](article-l723-12-3.md)
 - [Article L723-13](article-l723-13.md)
 - [Article L723-13-1](article-l723-13-1.md)
+- [Article L723-13-2](article-l723-13-2.md)

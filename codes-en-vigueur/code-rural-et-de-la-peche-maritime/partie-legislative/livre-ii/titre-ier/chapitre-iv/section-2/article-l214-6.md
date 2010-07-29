@@ -12,11 +12,9 @@ IV.-La gestion d'une fourrière ou d'un refuge, l'élevage, l'exercice à titre 
 
 2° Sont subordonnés à la mise en place et à l'utilisation d'installations conformes aux règles sanitaires et de protection animale pour ces animaux ;
 
-3° Ne peuvent s'exercer que si au moins une personne, en contact direct avec les animaux, possède un certificat de capacité attestant de ses connaissances relatives aux besoins biologiques, physiologiques, comportementaux et à l'entretien des animaux de compagnie. Ce certificat est délivré par l'autorité administrative, qui statue au vu des connaissances ou de la formation, et notamment des diplômes ou de l'expérience professionnelle d'au moins trois ans des postulants. Les prestations de services effectuées en France, à titre temporaire et occasionnel, par les professionnels ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'Espace économique européen établis sur le territoire d'un de ces Etats ou d'un Etat membre de l'Union européenne sont régies par l'article L. 204-1.
+3° Ne peuvent s'exercer que si au moins une personne, en contact direct avec les animaux, possède un certificat de capacité attestant de ses connaissances relatives aux besoins biologiques, physiologiques, comportementaux et à l'entretien des animaux de compagnie. Ce certificat est délivré par l'autorité administrative, qui statue au vu des connaissances ou de la formation, et notamment des diplômes ou de l'expérience professionnelle des postulants. Les prestations de services effectuées en France, à titre temporaire et occasionnel, par les professionnels ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'Espace économique européen établis sur le territoire d'un de ces Etats ou d'un Etat membre de l'Union européenne sont régies par l'article L. 204-1.
 
 Les mêmes dispositions s'appliquent pour l'exercice à titre commercial des activités de vente et de présentation au public des autres animaux de compagnie d'espèces domestiques.
-
-Les établissements où s'exerce le toilettage des chiens et des chats sont soumis aux dispositions figurant aux 1° et 2° ci-dessus.
 
 V.-Les personnes qui, sans exercer les activités mentionnées au III, détiennent plus de neuf chiens sevrés doivent mettre en place et utiliser des installations conformes aux règles sanitaires et de protection animale pour ces animaux.
 
@@ -25,3 +23,5 @@ VI.-Seules les associations de protection des animaux reconnues d'utilité publi
 La gestion de ces établissements est subordonnée à une déclaration auprès du préfet du département où ils sont installés.
 
 Les conditions sanitaires et les modalités de contrôle correspondantes sont fixées par décret.
+
+VII. - L'activité de toilettage des chiens et des chats doit être exercée dans des installations conformes aux règles sanitaires et de protection animale applicables à ces animaux.

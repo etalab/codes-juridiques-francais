@@ -1,6 +1,6 @@
 # Article L954-3
 
-Le dernier alinéa de l'article L. 441-2 est remplacé par quatre alinéas ainsi rédigés :
+Le dernier alinéa du I de l'article L. 441-2 est remplacé par quatre alinéas ainsi rédigés :
 
 " La cessation de la publicité, réalisée dans des conditions non conformes aux dispositions de l'alinéa 1, peut être ordonnée par le juge d'instruction ou par le tribunal saisi des poursuites, soit sur réquisition du ministère public, soit d'office. La mesure ainsi prise est exécutoire nonobstant toutes voies de recours.
 

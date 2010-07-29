@@ -12,4 +12,4 @@ Sont habilités à constater les infractions aux dispositions des articles L. 33
 
 4° bis Les gardes champêtres ;
 
-5° Lorsque les mesures de protection portent sur le domaine public maritime ou les eaux territoriales, les agents habilités par le décret du 9 janvier 1852 sur l'exercice de la pêche maritime à constater les infractions à la réglementation sur l'exercice de la pêche maritime, ainsi que les fonctionnaires chargés de la police du domaine public maritime et des eaux territoriales.
+5° Lorsque les mesures de protection portent sur le domaine public maritime ou les eaux territoriales, les agents habilités par l'article L. 942-1 du code rural et de la pêche maritime à constater les infractions à la réglementation sur l'exercice de la pêche maritime, ainsi que les fonctionnaires chargés de la police du domaine public maritime et des eaux territoriales.

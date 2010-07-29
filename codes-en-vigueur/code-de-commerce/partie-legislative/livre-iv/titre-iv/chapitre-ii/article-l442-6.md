@@ -10,7 +10,7 @@ I.-Engage la responsabilité de son auteur et l'oblige à réparer le préjudice
 
 4° D'obtenir ou de tenter d'obtenir, sous la menace d'une rupture brutale totale ou partielle des relations commerciales, des conditions manifestement abusives concernant les prix, les délais de paiement, les modalités de vente ou les services ne relevant pas des obligations d'achat et de vente ;
 
-5° De rompre brutalement, même partiellement, une relation commerciale établie, sans préavis écrit tenant compte de la durée de la relation commerciale et respectant la durée minimale de préavis déterminée, en référence aux usages du commerce, par des accords interprofessionnels. Lorsque la relation commerciale porte sur la fourniture de produits sous marque de distributeur, la durée minimale de préavis est double de celle qui serait applicable si le produit n'était pas fourni sous marque de distributeur.A défaut de tels accords, des arrêtés du ministre chargé de l'économie peuvent, pour chaque catégorie de produits, fixer, en tenant compte des usages du commerce, un délai minimum de préavis et encadrer les conditions de rupture des relations commerciales, notamment en fonction de leur durée. Les dispositions qui précèdent ne font pas obstacle à la faculté de résiliation sans préavis, en cas d'inexécution par l'autre partie de ses obligations ou en cas de force majeure. Lorsque la rupture de la relation commerciale résulte d'une mise en concurrence par enchères à distance, la durée minimale de préavis est double de celle résultant de l'application des dispositions du présent alinéa dans les cas où la durée du préavis initial est de moins de six mois, et d'au moins un an dans les autres cas ;
+5° De rompre brutalement, même partiellement, une relation commerciale établie, sans préavis écrit tenant compte de la durée de la relation commerciale et respectant la durée minimale de préavis déterminée, en référence aux usages du commerce, par des accords interprofessionnels. Lorsque la relation commerciale porte sur la fourniture de produits sous marque de distributeur, la durée minimale de préavis est double de celle qui serait applicable si le produit n'était pas fourni sous marque de distributeur. A défaut de tels accords, des arrêtés du ministre chargé de l'économie peuvent, pour chaque catégorie de produits, fixer, en tenant compte des usages du commerce, un délai minimum de préavis et encadrer les conditions de rupture des relations commerciales, notamment en fonction de leur durée. Les dispositions qui précèdent ne font pas obstacle à la faculté de résiliation sans préavis, en cas d'inexécution par l'autre partie de ses obligations ou en cas de force majeure. Lorsque la rupture de la relation commerciale résulte d'une mise en concurrence par enchères à distance, la durée minimale de préavis est double de celle résultant de l'application des dispositions du présent alinéa dans les cas où la durée du préavis initial est de moins de six mois, et d'au moins un an dans les autres cas ;
 
 6° De participer directement ou indirectement à la violation de l'interdiction de revente hors réseau faite au distributeur lié par un accord de distribution sélective ou exclusive exempté au titre des règles applicables du droit de la concurrence ;
 
@@ -20,7 +20,13 @@ I.-Engage la responsabilité de son auteur et l'oblige à réparer le préjudice
 
 9° De ne pas communiquer ses conditions générales de vente, dans les conditions prévues à l'article L. 441-6, à tout acheteur de produits ou tout demandeur de prestations de services qui en fait la demande pour l'exercice d'une activité professionnelle ;
 
-10° De refuser de mentionner sur l'étiquetage d'un produit vendu sous marque de distributeur le nom et l'adresse du fabricant si celui-ci en a fait la demande conformément à l'article L. 112-6 du code de la consommation.
+10° De refuser de mentionner sur l'étiquetage d'un produit vendu sous marque de distributeur le nom et l'adresse du fabricant si celui-ci en a fait la demande conformément à l'article L. 112-6 du code de la consommation ;
+
+11° D'annoncer des prix hors des lieux de vente, pour un fruit ou légume frais, sans respecter les règles définies aux II et III de l'article L. 441-2 du présent code ;
+
+12° De ne pas joindre aux fruits et légumes frais destinés à la vente ou à la revente à un professionnel établi en France, lors de leur transport sur le territoire national, le document prévu à l'article L. 441-3-1 ;
+
+13° De bénéficier de remises, rabais et ristournes à l'occasion de l'achat de fruits et légumes frais en méconnaissance de l'article L. 441-2-2.
 
 II.-Sont nuls les clauses ou contrats prévoyant pour un producteur, un commerçant, un industriel ou une personne immatriculée au répertoire des métiers, la possibilité :
 

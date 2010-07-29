@@ -6,3 +6,4 @@
 - [Section 4 : Installations où s'effectuent des opérations soumises à agrément](section-4)
 - [Section 5 : Installations d'élimination de déchets](section-5)
 - [Section 6 : Installations soumises à un plan de prévention des risques technologiques](section-6)
+- [Section 7 : Installations d'élevage](section-7)

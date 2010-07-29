@@ -15,7 +15,7 @@
 - [Chapitre XII : Taxe forfaitaire sur les actes des huissiers de justice](chapitre-xii)
 - [Chapitre XIII : Taxe due par les entreprises de transports publics aériens.](chapitre-xiii)
 - [Chapitre XV : Taxe due par les concessionnaires d'autoroutes](chapitre-xv)
-- [Chapitre XIV : Taxe due par les titulaires d'ouvrages hydroélectriques.](chapitre-xiv)
+- [Chapitre XIV : Taxe additionnelle à la taxe   sur les surfaces commerciales](chapitre-xiv)
 - [Chapitre XVI : Contribution annuelle sur les logements sociaux à usage locatif](chapitre-xvi)
 - [Chapitre XVIII : Contribution sur la cession à un service de télévision des droits de diffusion de manifestations ou de compétitions sportives](chapitre-xviii)
 - [Chapitre XX : Prélèvements sur les jeux et paris](chapitre-xx)

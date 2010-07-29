@@ -1,12 +1,12 @@
 # Article L141-1
 
-I. - Des sociétés d'aménagement foncier et d'établissement rural peuvent être constituées pour contribuer, en milieu rural, à la mise en oeuvre du volet foncier de la politique d'aménagement et de développement durable du territoire rural, dans le cadre des objectifs définis à l'article L. 111-2.
+I.-Des sociétés d'aménagement foncier et d'établissement rural peuvent être constituées pour contribuer, en milieu rural, à la mise en oeuvre du volet foncier de la politique d'aménagement et de développement durable du territoire rural, dans le cadre des objectifs définis à l'article L. 111-2.
 
-Elles ont pour mission d'améliorer les structures foncières par l'installation ou le maintien d'exploitants agricoles ou forestiers, par l'accroissement de la superficie de certaines exploitations agricoles ou forestières, par la mise en valeur des sols et, éventuellement, par l'aménagement et le remaniement parcellaires. Elles concourent à la diversité des paysages, à la protection des ressources naturelles et au maintien de la diversité biologique. Elles assurent la transparence du marché foncier rural.
+Elles ont pour mission d'améliorer les structures foncières par l'installation ou le maintien d'exploitants agricoles ou forestiers, par l'accroissement de la superficie de certaines exploitations agricoles ou forestières, par la mise en valeur des sols et, éventuellement, par l'aménagement et le remaniement parcellaires. Elles concourent à la diversité des paysages, à la protection des ressources naturelles et au maintien de la diversité biologique et, notamment, communiquent aux services de l'Etat, dans des conditions fixées par décret, les informations qu'elles détiennent sur l'évolution des prix et l'ampleur des changements de destination des terres agricoles. Elles assurent la transparence du marché foncier rural.
 
 Les collectivités publiques et les personnes morales représentatives des intérêts économiques, environnementaux et sociaux, à caractère rural, peuvent participer à leur capital social.
 
-II. - Pour la réalisation des missions définies au I, les sociétés d'aménagement foncier et d'établissement rural peuvent :
+II.-Pour la réalisation des missions définies au I, les sociétés d'aménagement foncier et d'établissement rural peuvent :
 
 1° Acquérir, dans le but de les rétrocéder, des biens ruraux, des terres, des exploitations agricoles ou forestières ;
 
@@ -16,7 +16,7 @@ II. - Pour la réalisation des missions définies au I, les sociétés d'aménag
 
 4° Se livrer ou prêter leur concours, en vertu d'un mandat écrit, à des opérations immobilières portant sur les biens d'autrui et relatives au louage régi par le livre IV (nouveau).
 
-III. - 1° Dans les cas visés aux 1° et 2° du II, le choix de l'attributaire se fait au regard des missions mentionnées au I. L'attributaire peut être tenu au respect d'un cahier des charges.
+III.-1° Dans les cas visés aux 1° et 2° du II, le choix de l'attributaire se fait au regard des missions mentionnées au I.L'attributaire peut être tenu au respect d'un cahier des charges.
 
 En cas de substitution, le cahier des charges mentionné à l'alinéa précédent comporte l'engagement du maintien pendant un délai minimal de dix ans de l'usage agricole ou forestier des biens attribués et soumet, pendant ce même délai, toute opération de cession à titre onéreux en propriété ou en jouissance du bien attribué à l'accord préalable de la société d'aménagement foncier et d'établissement rural. En cas de non-respect de ces engagements pris dans le cadre d'un cahier des charges, l'attributaire est tenu de délaisser le bien, si la société d'aménagement foncier et d'établissement rural le demande, au prix fixé par le cahier des charges ou, à défaut, par le juge de l'expropriation ;
 

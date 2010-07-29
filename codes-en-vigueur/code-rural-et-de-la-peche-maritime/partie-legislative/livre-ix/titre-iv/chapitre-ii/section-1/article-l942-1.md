@@ -18,4 +18,4 @@ I. ― Sans préjudice des compétences des officiers et agents de police judici
 
 8° Dans les eaux situées en aval de la limite de salure pour les espèces vivant alternativement dans les eaux douces et dans les eaux salées, les agents de l'Office national de l'eau et des milieux aquatiques.
 
-II. ― Dans les limites de leurs pouvoirs de contrôle, les agents publics assermentés des parcs nationaux, des réserves naturelles, des parcs naturels marins et de l'Office national de la chasse et de la faune sauvage sont également habilités à rechercher et constater les infractions prévues et réprimées par le présent livre.
+II. ― Dans          l'exercice de leurs fonctions, les agents assermentés des parcs nationaux, des réserves naturelles, des parcs naturels marins et de l'Office national de la chasse et de la faune sauvage sont également habilités à rechercher et constater les infractions prévues et réprimées par le présent livre.

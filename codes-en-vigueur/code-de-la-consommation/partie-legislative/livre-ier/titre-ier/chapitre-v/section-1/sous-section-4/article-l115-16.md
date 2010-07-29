@@ -12,7 +12,9 @@ Est puni de deux ans d'emprisonnement et d'une amende de 37 500 € le fait :
 
 5° D'utiliser un mode de présentation faisant croire ou de nature à faire croire qu'un produit bénéficie d'une appellation d'origine ;
 
-6° De faire croire ou de tenter de faire croire qu'un produit assorti d'une appellation d'origine est garanti par l'Etat ou par un organisme public.
+6° De faire croire ou de tenter de faire croire qu'un produit assorti d'une appellation d'origine est garanti par l'Etat ou par un organisme public ;
+
+7° De mentionner sur un produit la présence dans sa composition d'un autre produit bénéficiant d'une appellation d'origine lorsque cette mention détourne ou affaiblit la réputation de l'appellation concernée.
 
 Le tribunal pourra, en outre, ordonner l'affichage du jugement dans les lieux qu'il désignera et son insertion intégrale ou par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
 

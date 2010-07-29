@@ -1,5 +1,6 @@
 # Titre VI : Les productions végétales
 
+- [Chapitre préliminaire : La conservation des ressources phytogénétiques](chapitre-preliminaire)
 - [Chapitre Ier : Les productions de semences et de plants.](chapitre-ier)
 - [Chapitre II : Les obtentions végétales.](chapitre-ii)
 - [Chapitre III : Les plantes génétiquement modifiées.](chapitre-iii)

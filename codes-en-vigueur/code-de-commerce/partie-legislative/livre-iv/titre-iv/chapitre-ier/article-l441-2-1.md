@@ -7,3 +7,5 @@ Ce contrat comprend notamment des clauses relatives aux engagements sur les volu
 Lorsqu'un contrat type relatif aux activités mentionnées au premier alinéa est inclus dans un accord interprofessionnel adopté par l'organisation interprofessionnelle reconnue pour le produit concerné et étendu en application des dispositions des articles L. 632-3 et L. 632-4 du code rural et de la pêche maritime, le contrat mentionné au premier alinéa doit être conforme à ce contrat type.
 
 Toute infraction aux dispositions du présent article est punie d'une amende de 15 000 Euros.
+
+Les deuxième et troisième alinéas ne sont pas applicables aux produits pour lesquels la conclusion de contrats écrits a été rendue obligatoire en application de l'article L. 631-24 du code rural et de la pêche maritime.

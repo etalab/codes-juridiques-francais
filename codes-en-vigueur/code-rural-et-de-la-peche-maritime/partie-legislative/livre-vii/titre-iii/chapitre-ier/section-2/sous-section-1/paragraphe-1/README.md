@@ -8,3 +8,4 @@
 - [Article L731-19](article-l731-19.md)
 - [Article L731-21](article-l731-21.md)
 - [Article L731-22](article-l731-22.md)
+- [Article L731-22-1](article-l731-22-1.md)

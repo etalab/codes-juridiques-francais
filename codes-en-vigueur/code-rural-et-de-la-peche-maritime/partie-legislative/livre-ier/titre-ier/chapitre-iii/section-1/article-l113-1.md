@@ -16,4 +16,6 @@ En conformité avec les dispositions des traités instituant la Communauté éco
 
 6° Faciliter, en tant que de besoin, la pluriactivité par la complémentarité des activités économiques ;
 
-7° Conforter la fonction environnementale de l'activité agricole en montagne, notamment par la voie contractuelle.
+7° Conforter la fonction environnementale de l'activité agricole en montagne, notamment par la voie contractuelle ;
+
+8° Assurer la pérennité des exploitations agricoles et le maintien du pastoralisme, en particulier en protégeant les troupeaux des attaques du loup et de l'ours dans les territoires exposés à ce risque.

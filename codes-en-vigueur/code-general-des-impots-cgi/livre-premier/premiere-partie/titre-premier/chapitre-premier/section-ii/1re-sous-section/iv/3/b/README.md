@@ -9,6 +9,7 @@
 - [Article 72 A](article-72-a.md)
 - [Article 72 B](article-72-b.md)
 - [Article 72 E](article-72-e.md)
+- [Article 72 F](article-72-f.md)
 - [Article 73 C](article-73-c.md)
 - [Article 73 D](article-73-d.md)
 - [Article 73 B](article-73-b.md)

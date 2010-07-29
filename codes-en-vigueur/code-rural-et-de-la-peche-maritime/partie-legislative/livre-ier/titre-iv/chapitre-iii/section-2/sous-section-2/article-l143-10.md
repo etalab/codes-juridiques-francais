@@ -1,6 +1,6 @@
 # Article L143-10
 
-Lorsque la société d'aménagement foncier et d'établissement rural déclare vouloir faire usage de son droit de préemption et qu'elle estime que le prix et les conditions d'aliénation sont exagérés, notamment en fonction des prix pratiqués dans la région pour des immeubles de même ordre, elle adresse au vendeur, après accord des commissaires du Gouvernement, une offre d'achat établie à ses propres conditions.
+Lorsque la société d'aménagement foncier et d'établissement rural déclare vouloir faire usage de son droit de préemption et qu'elle estime que le prix et les conditions d'aliénation sont exagérés, notamment en fonction des prix pratiqués dans la région pour des immeubles de même ordre, elle adresse au notaire du vendeur, après accord des commissaires du Gouvernement, une offre d'achat établie à ses propres conditions.
 
 Si le vendeur n'accepte pas l'offre de la société d'aménagement foncier et d'établissement rural, il peut soit retirer le bien de la vente, soit demander la révision du prix proposé par la société d'aménagement foncier et d'établissement rural au tribunal compétent de l'ordre judiciaire qui se prononce dans les conditions prescrites par l'article L. 412-7.
 

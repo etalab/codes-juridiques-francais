@@ -12,6 +12,8 @@ Pour chaque produit bénéficiant d'un signe d'identification de la qualité et 
 
 -met en oeuvre les décisions du comité national qui le concernent.
 
+Il peut élaborer une charte de bonnes pratiques contenant des dispositions de nature à préserver certaines caractéristiques environnementales de son terroir ou des dispositions spécifiques en matière de bien-être animal ; le respect de cette charte n'est pas une condition d'obtention du signe d'identification de la qualité et de l'origine.
+
 Il peut se livrer à d'autres activités en rapport avec les missions de gestion et de défense du signe d'identification de la qualité et de l'origine qui lui incombent, sous réserve qu'elles soient financées par des moyens autres que le produit de la cotisation prévue par l'article L. 642-24.
 
 L'ensemble de ces missions s'exerce dans la limite des missions exercées par les organisations interprofessionnelles au sein desquelles les producteurs des produits sous signe d'identification de la qualité et de l'origine sont représentés.

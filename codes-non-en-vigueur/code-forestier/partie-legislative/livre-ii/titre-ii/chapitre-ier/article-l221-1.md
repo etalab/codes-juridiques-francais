@@ -8,7 +8,7 @@ Il est compétent, dans le cadre de la politique forestière définie par les lo
 
 2° Encourager l'adoption de méthodes de sylviculture conduisant à une gestion durable des forêts compatibles avec une bonne valorisation économique du bois, de la biomasse et des autres produits et services des forêts, par la formation théorique et pratique des propriétaires forestiers et par le développement et la vulgarisation sylvicoles, à l'exclusion de tout acte de gestion directe, de maîtrise d'œuvre de travaux ou de commercialisation ;
 
-3° Elaborer les schémas régionaux de gestion sylvicole des forêts privées et les codes de bonnes pratiques sylvicoles, agréer les plans simples de gestion prévus aux articles L. 222-1 à L. 222-5 et au II de l'article L. 222-6 et approuver les règlements types de gestion prévue au I de l'article L. 222-6 ;
+3° Elaborer les schémas régionaux de gestion sylvicole des forêts privées et les codes de bonnes pratiques sylvicoles, agréer les plans simples de gestion dans les conditions prévues aux articles L. 222-1 à L. 222-5 et approuver les règlements types de gestion dans les conditions prévues par le I de l'article L. 222-6 ;
 
 4° Concourir au développement durable et à l'aménagement rural, en particulier au développement économique des territoires par la valorisation des produits et des services de la forêt privée et de la contribution de ces forêts à la lutte contre l'effet de serre ;
 

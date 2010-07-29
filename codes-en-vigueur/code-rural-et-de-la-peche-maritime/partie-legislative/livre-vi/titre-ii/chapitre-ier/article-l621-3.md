@@ -18,6 +18,10 @@ Les missions de l'établissement mentionné à l'article L. 621-1 sont les suiva
 
 6° Alerter les pouvoirs publics en cas de crise, faire toute proposition appropriée et concourir à la mise en œuvre des solutions retenues par l'autorité administrative pour y faire face ;
 
-7° Assurer des fonctions de veille économique et contribuer à des actions de coopération internationale.
+7° Assurer des fonctions de veille économique et contribuer à des actions de coopération internationale ;
+
+8° Transmettre les données économiques nécessaires à l'observatoire mentionné à l'article L. 692-1 pour l'exercice de ses missions ;
+
+9° Mettre à la disposition des organisations interprofessionnelles reconnues, des instituts et centres techniques et des établissements publics intervenant dans le domaine de l'agriculture, de la pêche et de l'aquaculture les données relatives aux filières, aux marchés et à la mise en œuvre des politiques publiques.
 
 Dans le cadre de la mission mentionnée au 3°, l'établissement peut concourir à la mise en œuvre de missions tendant à prévenir les maladies des animaux et des végétaux et à assurer la qualité sanitaire des aliments.
