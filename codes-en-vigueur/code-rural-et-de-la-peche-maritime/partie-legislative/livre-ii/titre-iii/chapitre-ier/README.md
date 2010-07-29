@@ -1,4 +1,4 @@
-# Chapitre Ier : Dispositions générales
+# Chapitre Ier : Dispositions générales relatives au contrôle sanitaire
 
 - [Section 1 : Inspection sanitaire et qualitative.](section-1)
 - [Section 2 : Délégation des tâches de contrôle](section-2)

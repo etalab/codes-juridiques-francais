@@ -6,7 +6,7 @@ L'établissement mentionné à l'article L. 621-1 possède, pour le recouvrement
 
 Ce privilège, qui ne peut primer celui du porteur du warrant agricole tel qu'il résulte de l'article L. 342-12, porte sur les meubles et effets mobiliers des personnes physiques ou morales auxquelles l'établissement mentionné à l'article L. 621-1 a dû se substituer en vertu de son aval. Il prend rang immédiatement après les privilèges fiscaux au profit du Trésor.
 
-Le même privilège est accordé aux sociétés de caution mutuelle des négociants en grains agréés en qualité de collecteurs lorsqu'elles ont donné leur aval aux effets créés par leurs sociétaires dans les conditions prévues au deuxième alinéa de l'article L. 666-2.
+Le même privilège est accordé aux sociétés de caution mutuelle lorsqu'elles ont donné leur aval aux effets créés par leurs sociétaires dans les conditions prévues au deuxième alinéa de l'article L. 666-2.
 
 Indépendamment de l'exercice du privilège sur les meubles et effets mobiliers, l'agent de recouvrement peut requérir, à concurrence du montant en principal de la créance de l'établissement mentionné à l'article L. 621-1, l'inscription d'une hypothèque sur les immeubles des groupements ou sociétés auxquels ledit établissement a dû se substituer en vertu de son aval.
 
