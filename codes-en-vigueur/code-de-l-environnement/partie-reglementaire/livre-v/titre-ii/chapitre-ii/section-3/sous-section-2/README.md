@@ -1,5 +1,6 @@
 # Sous-section 2 : Dispositions diverses
 
+- [Article D522-47](article-d522-47.md)
 - [Article R522-31](article-r522-31.md)
 - [Article R522-32](article-r522-32.md)
 - [Article R522-33](article-r522-33.md)
