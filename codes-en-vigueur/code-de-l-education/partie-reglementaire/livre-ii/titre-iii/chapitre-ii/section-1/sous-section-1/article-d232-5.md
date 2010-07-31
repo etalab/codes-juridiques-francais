@@ -6,7 +6,7 @@ Ces personnalités comprennent notamment des représentants des employeurs et de
 
 Elles comprennent en outre :
 
-1° Trois personnalités choisies respectivement parmi les membres de l'Assemblée nationale, du Sénat et du Conseil économique et social, à raison d'une pour chacune de ces assemblées et sur leur proposition exprimée conformément aux dispositions prévues par leur règlement. Pour chacune d'elles, un suppléant est désigné dans les mêmes conditions.
+1° Trois personnalités choisies respectivement parmi les membres de l'Assemblée nationale, du Sénat et du   Conseil économique, social et environnemental, à raison d'une pour chacune de ces assemblées et sur leur proposition exprimée conformément aux dispositions prévues par leur règlement. Pour chacune d'elles, un suppléant est désigné dans les mêmes conditions.
 
 2° Deux personnalités choisies respectivement :
 

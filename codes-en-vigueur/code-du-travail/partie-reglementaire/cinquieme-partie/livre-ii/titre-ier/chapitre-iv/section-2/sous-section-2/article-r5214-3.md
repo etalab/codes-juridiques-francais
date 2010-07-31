@@ -22,7 +22,7 @@ Le Conseil supérieur se compose :
 
 10° De deux représentants du Sénat désignés parmi les membres des commissions compétentes ;
 
-11° D'un représentant du Conseil économique et social ;
+11° D'un représentant du   Conseil économique, social et environnemental ;
 
 12° D'un représentant du Centre d'analyse stratégique ;
 
@@ -48,6 +48,6 @@ Le Conseil supérieur se compose :
 
 23° D'un représentant de l'association chargée de la gestion du fonds de développement pour l'insertion des personnes handicapées ;
 
-24° D'un représentant de l'     institution mentionnée à l'article L. 5312-1 du code du travail  ;
+24° D'un représentant de l'institution mentionnée à l'article L. 5312-1 du code du travail ;
 
 25° D'un représentant de l'Association pour la formation professionnelle des adultes.

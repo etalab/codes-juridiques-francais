@@ -4,7 +4,7 @@ Les membres de la commission sont nommés par arrêté du Premier ministre.
 
 Les membres mentionnés au 1° de l'article R. 2343-2 sont nommés respectivement sur proposition du président de l'Assemblée nationale pour la durée de la législature et sur proposition du président du Sénat après chaque renouvellement partiel du Sénat.
 
-Les membres mentionnés au 4° de l'article R. 2343-2 sont nommés après consultation du Conseil économique et social.
+Les membres mentionnés au 4° de l'article R. 2343-2 sont nommés après consultation du   Conseil économique, social et environnemental.
 
 Les membres représentant un ministre et leur suppléant sont nommés sur proposition de celui-ci.
 

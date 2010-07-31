@@ -1,6 +1,6 @@
 # Article R315-2
 
-La Commission nationale des compétences et des talents est placée auprès du ministre chargé de l'immigration. Elle comprend dix-sept membres  :
+La Commission nationale des compétences et des talents est placée auprès du ministre chargé de l'immigration. Elle comprend dix-sept membres :
 
 1° Cinq personnalités qualifiées dont l'une est le président ;
 
@@ -8,7 +8,7 @@ La Commission nationale des compétences et des talents est placée auprès du m
 
 3° Un sénateur ;
 
-4° Un membre du Conseil économique et social ;
+4° Un membre du   Conseil économique, social et environnemental ;
 
 5° Le secrétaire général du comité interministériel de contrôle de l'immigration ;
 

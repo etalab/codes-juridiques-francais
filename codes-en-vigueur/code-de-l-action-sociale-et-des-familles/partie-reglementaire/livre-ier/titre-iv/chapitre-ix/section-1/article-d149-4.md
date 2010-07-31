@@ -10,7 +10,7 @@ trois représentants des départements désignés par l'assemblée des départem
 
 un représentant des communes désigné par l'association des maires de France ;
 
-Un membre du Conseil économique et social désigné par son président ;
+Un membre du   Conseil économique, social et environnemental désigné par son président ;
 
 un membre de l'inspection générale des affaires sociales désigné par le ministre ;
 
