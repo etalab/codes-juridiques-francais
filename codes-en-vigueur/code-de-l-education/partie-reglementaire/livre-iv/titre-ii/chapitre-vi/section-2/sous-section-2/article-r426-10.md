@@ -1,6 +1,6 @@
 # Article R426-10
 
-Le directeur général est un recteur d'académie. Il assure la direction du Centre national d'enseignement à distance. A ce titre :
+Le directeur général du Centre national d'enseignement à distance est nommé par décret pris sur proposition des ministres chargés de l'éducation et de l'enseignement supérieur.A ce titre :
 
 1° Il conduit la politique générale de l'établissement dans le cadre des orientations définies par le conseil d'administration ;
 
@@ -14,7 +14,7 @@ Le directeur général est un recteur d'académie. Il assure la direction du Cen
 
 6° Il gère le personnel, donne un avis préalable à l'affectation à l'établissement des personnels fonctionnaires, nomme aux emplois pour lesquels aucune autre autorité n'a pouvoir de nomination et recrute les personnels contractuels. Il a autorité sur l'ensemble du personnel de l'établissement et l'affecte dans les différents services ;
 
-7° Il conclut les conventions et marchés, sous réserve des dispositions de l'article R. 426-7.
+7° Il conclut les conventions et marchés, sous réserve des ispositions de l'article R. 426-7.
 
 Le directeur général est assisté d'un secrétaire général nommé sur sa proposition par les ministres chargés de l'éducation et de l'enseignement supérieur. Il peut également se faire assister de directeurs adjoints qu'il nomme. Il peut nommer des ordonnateurs secondaires et fixer leurs attributions.
 
