@@ -13,7 +13,7 @@
 - [Chapitre X ter : Redevance sanitaire pour le contrôle de certaines substances et de leurs résidus](chapitre-x-ter)
 - [Chapitre X quater : Redevance pour l'agrément des établissements du secteur de l'alimentation animale](chapitre-x-quater)
 - [Chapitre XII : Taxe forfaitaire sur les actes des huissiers de justice](chapitre-xii)
-- [Chapitre XIII : Taxe due par les entreprises de transports publics aériens.](chapitre-xiii)
+- [Chapitre XIII : Contribution annuelle destinée à financer le fonds de modernisation de la restauration](chapitre-xiii)
 - [Chapitre XV : Taxe due par les concessionnaires d'autoroutes](chapitre-xv)
 - [Chapitre XIV : Taxe additionnelle à la taxe   sur les surfaces commerciales](chapitre-xiv)
 - [Chapitre XVI : Contribution annuelle sur les logements sociaux à usage locatif](chapitre-xvi)
