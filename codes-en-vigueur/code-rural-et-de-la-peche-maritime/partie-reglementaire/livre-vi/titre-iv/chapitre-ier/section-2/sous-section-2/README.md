@@ -1,5 +1,6 @@
 # Sous-section 2 : Les termes "produits pays"
 
+- [Article D641-52](article-d641-52.md)
 - [Article R641-45](article-r641-45.md)
 - [Article R641-46](article-r641-46.md)
 - [Article R641-47](article-r641-47.md)
