@@ -8,7 +8,6 @@
 - [Article R641-49](article-r641-49.md)
 - [Article R641-50](article-r641-50.md)
 - [Article R641-51](article-r641-51.md)
-- [Article R641-52](article-r641-52.md)
 - [Article R641-53](article-r641-53.md)
 - [Article R641-54](article-r641-54.md)
 - [Article R641-55](article-r641-55.md)
