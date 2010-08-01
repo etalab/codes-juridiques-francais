@@ -1,6 +1,6 @@
 # Article D313-13
 
-Au plus tard trois semaines avant la date d'ouverture, la ou les autorités mentionnées à l'article D. 313-11 organisent une visite de l'établissement ou du service, avec le concours des représentants de la caisse régionale d'assurance maladie et de l'échelon régional du service médical lorsque le financement de l'établissement ou du service est pris en charge en tout ou partie par l'assurance maladie.
+Au plus tard trois semaines avant la date d'ouverture, la ou les autorités mentionnées à l'article D. 313-11 organisent une visite de l'établissement ou du service, avec le concours de l'échelon régional du service médical lorsque le financement de l'établissement ou du service est pris en charge en tout ou partie par l'assurance maladie.
 
 Il est notamment vérifié sur place que l'établissement ou le service :
 
