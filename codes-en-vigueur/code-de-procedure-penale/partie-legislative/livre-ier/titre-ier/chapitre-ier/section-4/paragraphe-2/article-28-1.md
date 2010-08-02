@@ -12,7 +12,7 @@ Ils sont compétents pour rechercher et constater :
 
 3° Les infractions relatives à la protection des intérêts financiers de l'Union européenne ;
 
-4° Les infractions prévues par les articles L. 2339-1 à L. 2339-11 et L. 2353-13 du code de la défense ;
+4° Les infractions prévues par les articles L. 2339-1 à L. 2339-11, L. 2344-7 et L. 2353-13 du code de la défense ;
 
 5° Les infractions prévues par les articles 324-1 à 324-9 du code pénal ;
 
