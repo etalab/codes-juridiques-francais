@@ -1,4 +1,4 @@
-# CHAPITRE II : Concessions et affermages
+# CHAPITRE II : Services gérés en application de conventions
 
 - [Article R2222-1](article-r2222-1.md)
 - [Article R2222-2](article-r2222-2.md)
