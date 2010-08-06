@@ -7,5 +7,3 @@
 - [Article R2213-48](article-r2213-48.md)
 - [Article R2213-49](article-r2213-49.md)
 - [Article R2213-50](article-r2213-50.md)
-- [Article R2213-51](article-r2213-51.md)
-- [Article R2213-52](article-r2213-52.md)

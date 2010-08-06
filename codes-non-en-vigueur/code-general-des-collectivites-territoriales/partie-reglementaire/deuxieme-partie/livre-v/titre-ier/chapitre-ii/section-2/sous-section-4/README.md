@@ -7,4 +7,3 @@
 - [Article R2512-34](article-r2512-34.md)
 - [Article R2512-35](article-r2512-35.md)
 - [Article R2512-36](article-r2512-36.md)
-- [Article R2512-37](article-r2512-37.md)
