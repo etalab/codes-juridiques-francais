@@ -4,7 +4,6 @@
 - [Article D711-56-1](article-d711-56-1.md)
 - [Article D711-56-2](article-d711-56-2.md)
 - [Article D711-56-3](article-d711-56-3.md)
-- [Article R711-54](article-r711-54.md)
 - [Article R711-55](article-r711-55.md)
 - [Article R711-57](article-r711-57.md)
 - [Article R711-58](article-r711-58.md)

@@ -2,9 +2,9 @@
 
 Les schémas sectoriels sont révisés dans les mêmes conditions :
 
-1° A la demande du ministre chargé de la tutelle des chambres de commerce et d'industrie ou du préfet de région ;
+1° A la demande du ministre chargé de la tutelle des chambres de commerce et d'industrie territoriales ou du préfet de région ;
 
-2° A la demande de la majorité des membres des chambres de commerce et d'industrie composant la chambre régionale de commerce et d'industrie ;
+2° A la demande de la majorité des membres des chambres de commerce et d'industrie territoriales composant la chambre de commerce et d'industrie de région ;
 
 3° A l'occasion de la création d'un nouveau secteur d'activités ou de la modification des conditions de la gestion d'un équipement portuaire ou aéroportuaire ;
 

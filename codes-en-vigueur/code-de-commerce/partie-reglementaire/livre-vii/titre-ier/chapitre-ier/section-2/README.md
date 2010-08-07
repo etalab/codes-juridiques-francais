@@ -1,4 +1,4 @@
-# Section 2 : Des chambres régionales de commerce et d'industrie.
+# Section 2 : Des chambres de commerce et d'industrie de région
 
 - [Sous-section 1 : Des compétences.](sous-section-1)
 - [Sous-section 2 : Des schémas directeurs.](sous-section-2)
