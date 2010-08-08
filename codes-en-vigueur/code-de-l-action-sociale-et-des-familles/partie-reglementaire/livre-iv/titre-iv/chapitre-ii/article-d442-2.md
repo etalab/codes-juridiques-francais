@@ -1,6 +1,6 @@
 # Article D442-2
 
-1° Le montant minimum de la rémunération journalière des services rendus, visée au 1° de l'article L. 442-1, est égal à 2,5 fois la valeur horaire du salaire minimum de croissance, déterminé dans les conditions prévues aux articles L. 141-2 à L. 141-7 du code du travail, pour un accueil à temps complet.
+1° Le montant minimum de la rémunération journalière des services rendus, visée au 1° de l'article L. 442-1, est égal à 2, 5 fois la valeur horaire du salaire minimum de croissance, déterminé dans les conditions prévues aux articles L. 141-2 à L. 141-7 du code du travail.
 
 La rémunération journalière pour services rendus donne lieu au paiement d'une indemnité de congés payés conformément aux dispositions de l'article L. 223-11 du code du travail.
 
