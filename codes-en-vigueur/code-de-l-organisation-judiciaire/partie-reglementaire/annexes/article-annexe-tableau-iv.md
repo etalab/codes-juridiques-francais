@@ -2159,7 +2159,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>[Chalon-sur-Saône </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Buxy, Chagny, Chalon-sur-Saône-Centre, Chalon-sur-Saône-Nord, Chalon-sur-Saône-Ouest, Chalon-sur-Saône-Sud, Givry, Saint-Germain-du-Plain, Saint-Martin-en-Bresse, Sennecey-le-Grand et Verdun-sur-le-Doubs. (3)] </p>
+<p>Cantons de Buxy, Chagny, Chalon-sur-S aône-Centre, Chalon-sur-Saône-Nord, Chalon-sur-Saône-Ouest, Chalon-sur-Saône-Sud, Givry, Saint-Germain-du-Plain, Saint-Martin-en-Bresse, Sennecey-le-Grand et Verdun-sur-le-Doubs. (3)] </p>
 </td>
 </tr>
 <tr>
@@ -4660,7 +4660,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td rowspan="3" valign="top" width="154">
-<p>[Bressuire (5)] </p>
+<p>[Bressuire (17)] </p>
 </td>
 <td valign="top" width="109">
 <p>[Bressuire </p>
@@ -4690,7 +4690,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>Niort </p>
 </td>
 <td valign="top" width="109">
-<p>[Bressuire (6)] </p>
+<p>[Bressuire (18)] </p>
 </td>
 <td valign="top" width="333">
 <p>Cantons d'Airvault, Argenton-les-Vallées, Bressuire, Cerizay, Mauléon, Mazières-en-Gâtine, Ménigoute, Moncoutant, Parthenay, Saint-Loup-Lamairé, Saint-Varent, Secondigny, Thénezay, Thouars 1er canton et Thouars 2e canton. </p>
@@ -4709,7 +4709,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>[Niort </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Beauvoir-sur-Niort, Champdeniers-Saint-Denis, Coulonges-sur-1'Autize, Frontenay-Rohan-Rohan, Mauzé-sur-le Mignon, Niort-Est, Niort-Nord, Niort-Ouest, Prahecq, Saint-Maixent l'Écolc 1er canton et Saint-Maixent-l'École 2e canton. (3)] </p>
+<p>Cantons de Beauvoir-sur-Niort, Champdeniers-Saint-Denis, Coulonges-sur-l'Autize, Frontenay-Rohan-Rohan, Mauzé-sur-le Mignon, Niort-Est, Niort-Nord, Niort-Ouest, Prahecq, Saint-Maixent l'École 1er canton et Saint-Maixent-l'École 2e canton. (3)] </p>
 </td>
 </tr>
 <tr>
@@ -5939,13 +5939,13 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td valign="top" width="154">
-<p>Montauban </p>
+<p align="left">Montauban </p>
 </td>
 <td valign="top" width="109">
-<p>[Castelsarrasin </p>
+<p align="left">[Castelsarrasin </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Auvillar, Beaumont-de-Lomagne, Bourg-de-Visa, Castelsarrasin 1er canton, Castelsarrasin 2e canton, Grisolles, Lauzerte, Lavit, Moissac 1er canton, Moissac 2e canton, Montaigu-de-Quercy, Montech, Saint-Nicolas-de-la-Grave, Valence et Verdun-sur-Garonne. (2)] </p>
+<p align="left">Cantons d'Auvillar, Beaumont-de-Lomagne, Bourg-de-Visa, Castelsarrasin 1er canton, Castelsarrasin 2e canton, Grisolles, Lauzerte, Lavit, Moissac 1er canton, Moissac 2e canton, Montaigu-de-Quercy, Montech, Saint-Nicolas-de-la-Grave, Valence et Verdun-sur-Garonne. (2)] </p>
 </td>
 </tr>
 <tr>
@@ -5954,7 +5954,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p align="left">Montauban</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Cantons de Caussade, Caylus, Lafrançaise, Molières,<br/>Monclar-de-Quercy, Montauban, 1er canton, Montauban<br/>2e canton, Montauban 3ème canton, Montauban 4e canton,<br/>Montauban 5e canton, Montauban 6e canton, Montpezat-<br/>de-Quercy, Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier.<br/>
+<p align="left">Cantons de Caussade, Caylus, Lafrançaise, Molières,<br/>Monclar-de-Quercy, Montauban, 1er canton, Montauban 2e<br/>canton, Montauban 3ème canton, Montauban 4ème canton,<br/>Montauban 5e canton, Montauban 6e canton, Montpezat-<br/>de-Quercy, Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier.<br/>
 </p>
 </td>
 </tr>
@@ -6355,10 +6355,10 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td width="312">
-<p>Mamoudzou </p>
+<p align="left">Mamoudzou </p>
 </td>
 <td width="302">
-<p>Collectivité départementale de Mayotte. </p>
+<p align="left">Collectivité départementale de Mayotte. </p>
 </td>
 </tr>
 <tr>
@@ -6411,3 +6411,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 (15) Applicable jusqu'au 30 juin 2010.
 
 (16) Applicable à compter du 1er juillet 2010.
+
+(17) Applicable jusqu'au 5 septembre 2010.
+
+(18) Applicable à compter du 6 septembre 2010.
