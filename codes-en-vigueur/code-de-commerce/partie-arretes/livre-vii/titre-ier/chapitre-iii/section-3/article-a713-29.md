@@ -14,4 +14,4 @@ Les catégories d'informations nominatives traitées concernent les personnes ph
 
 6° La base nette taxable de l'établissement.
 
-Ces informations sont collectées conformément à l'article A. 713-27.
+Ces informations sont collectées dans les conditions prévues au dernier alinéa du II de l'article R. 713-66.

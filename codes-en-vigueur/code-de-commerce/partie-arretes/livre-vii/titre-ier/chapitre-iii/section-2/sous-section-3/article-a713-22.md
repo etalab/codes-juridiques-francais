@@ -1,45 +1,43 @@
 # Article A713-22
 
-Les plafonds maxima de dépenses d'impression et d'affichage arrêtés par les préfets dans les limites desquels les candidats peuvent prétendre à remboursement sont ceux des documents présentant les caractéristiques suivantes :
+Les candidats peuvent prétendre à remboursement des documents présentant les caractéristiques suivantes :
 
-1° Bulletins de vote sur papier blanc ou éventuellement sur papier recyclé, 80 grammes au mètre carré, ne pouvant dépasser les formats suivants :
+1° Bulletins de vote imprimés en une seule couleur sur papier tirant sur le blanc, d'un grammage de 80 grammes au mètre carré, aux formats suivants :
 
-a) 74 mm × 105 mm pour une candidature isolée ;
+105 × 148 mm, pour une candidature isolée ;
 
-b) 148 mm × 210 mm pour les regroupements de candidats.
+148 × 210 mm, pour les regroupements de candidats ;
 
-Il est procédé au remboursement des bulletins sur la base du nombre d'exemplaires effectivement remis et dans la limite du maximum fixé à l'article A. 713-16.
+210 mm × 297 mm, pour le document unique mentionné à l'article A. 713-5.
 
-Les bulletins de vote précisent :
+Le nombre de bulletins admis à remboursement ne peut excéder celui effectivement remis, conformément à l'article A. 713-16.
 
-a) Le nom et le prénom usuels du ou des candidats ;
+Les bulletins de vote, lesquels sont exclusivement recto, précisent, pour chacun des candidats, titulaire ou suppléant :
 
-b) Le cas échéant, leur titres et décorations ;
+a) Son nom et son prénom usuel ;
 
-c) Leur profession ;
+b) Le cas échéant, ses titres et décorations ;
 
-d) La commune de leur activité ;
+c) Sa profession ou son secteur d'activité ;
 
-e) L'entité sous l'égide de laquelle ils se présentent et la personne soutenant la ou les candidatures ;
+d) La commune de son activité ;
 
-f) Leur sous-catégorie ou, à défaut, leur catégorie professionnelle ;
+e) Le cas échéant, l'intitulé du groupement sous l'égide duquel il se présente et la personne soutenant la ou les candidatures ;
 
-g) La mention, le cas échéant, du département.
+f) L'élection à laquelle le ou les candidats se présentent ;
 
-2° Circulaires sur papier blanc satiné, 100 grammes au mètre carré, d'un format maximum de 297 mm × 420 mm, en quadrichromie.
+g) La catégorie professionnelle et, le cas échéant, la sous-catégorie professionnelle, dans lesquelles il se présente.
 
-Il est procédé au remboursement des circulaires sur la base du nombre d'exemplaires effectivement remis et dans la limite du maximum fixé à l'article A. 713-16.
+Les formats et les mentions des bulletins de vote pour le vote électronique peuvent s'écarter des dispositions ci-dessus, à condition de garantir une stricte égalité entre les candidats.
 
-3° Les affiches électorales sur papier couleur, 100 grammes au mètre carré, sans travaux de repiquage, d'un format maximum de 594 mm × 841 mm.
+2° Circulaires sur papier blanc, 100 grammes au mètre carré, d'un format maximum de 297 mm × 420 mm, en quadrichromie.
 
-Le nombre d'affiches admises à remboursement ne peut excéder une affiche par tranche entière de 100 électeurs inscrits.
+Le nombre de circulaires admis à remboursement ne peut excéder celui effectivement remis, conformément à l'article A. 713-16.
+
+3° Affiches électorales sur papier couleur, 100 grammes au mètre carré, sans travaux de repiquage, d'un format maximum de 594 mm × 841 mm.
 
 Conformément à l'article R. 27 du code électoral, les affiches ne peuvent comporter une combinaison des trois couleurs : bleu, blanc, rouge.
 
-Le préfet fixe par arrêté un montant maximum de remboursement des dépenses engagées par les candidats dans les conditions ci-dessus.
+Le nombre d'affiches admises à remboursement ne peut excéder deux affiches par emplacement mis à disposition de chaque candidat ou groupement de candidats défini par la commission d'organisation des élections.
 
-Les demandes de remboursement sont adressées au président de la chambre de commerce et d'industrie.
-
-Conformément à l'article R. 39 du code électoral, les tarifs d'impression ne peuvent s'appliquer qu'à des documents présentant les caractéristiques ci-dessus et excluant tous travaux de photogravure (clichés, simili ou trait).
-
-Les candidats d'une liste ou un candidat isolé peuvent choisir d'utiliser un papier de qualité supérieure, de faire imprimer des photographies sur les affiches ou sur les circulaires, d'utiliser un mode d'impression d'un coût supérieur à la quadrichromie. Ces dépenses supplémentaires ne sont pas soumises à remboursement.
+Les candidats se présentant dans le cadre d'un groupement ou de manière individuelle peuvent choisir d'utiliser un papier de qualité supérieure, de faire imprimer des photographies sur les affiches ou sur les circulaires, d'utiliser un mode d'impression d'un coût supérieur à la quadrichromie. Ces dépenses supplémentaires ne sont pas soumises à remboursement.

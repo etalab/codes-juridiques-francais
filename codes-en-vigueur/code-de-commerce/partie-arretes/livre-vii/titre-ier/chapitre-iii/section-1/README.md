@@ -1,4 +1,4 @@
-# Section 1  :   De l'élection des membres des chambres de commerce et d'industrie
+# Section 1  :   De l'élection des membres des chambres de commerce et d'industrie territoriales et des chambres de commerce et d'industrie de région
 
 - [Sous-section 1  :   De l'établissement des listes électorales](sous-section-1)
 - [Sous-section 2  :   Des candidatures](sous-section-2)

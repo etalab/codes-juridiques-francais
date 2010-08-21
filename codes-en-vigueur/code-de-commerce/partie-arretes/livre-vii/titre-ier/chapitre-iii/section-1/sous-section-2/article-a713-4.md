@@ -1,3 +1,3 @@
 # Article A713-4
 
-Dans le cas de candidatures présentées sous forme collective, un même bulletin de vote regroupe, par catégorie ou sous-catégorie, les candidatures correspondantes.
+En cas de candidatures présentées dans le cadre d'un groupement, un même bulletin de vote rassemble, par catégories ou sous-catégories, les candidatures correspondantes.

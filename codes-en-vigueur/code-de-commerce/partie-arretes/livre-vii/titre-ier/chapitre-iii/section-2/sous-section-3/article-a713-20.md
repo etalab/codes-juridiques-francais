@@ -1,3 +1,3 @@
 # Article A713-20
 
-Dans le cas de candidatures présentées sous forme collective, un même bulletin de vote regroupe par catégorie ou sous-catégorie les candidatures correspondantes.
+Les dispositions de l'article A. 713-4 sont applicables aux élections des délégués consulaires.

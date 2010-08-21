@@ -12,11 +12,11 @@ II. ― Les listes électorales dressées en vertu de l'article L. 713-14 par re
 
 III. ― Les listes doivent porter la mention de la juridiction de première instance compétente en matière commerciale comportant des juges élus. Elles comportent pour chaque électeur les informations suivantes :
 
-1° La sous-catégorie et la catégorie de l'électeur ;
+1° La catégorie et, le cas échéant, la sous-catégorie de l'électeur ;
 
 2° Un numéro d'ordre sur la liste ;
 
-3° Le numéro SIREN de l'entreprise ;
+3° Le numéro SIRET de l'établissement ;
 
 4° La dénomination sociale de l'entreprise ;
 
@@ -27,3 +27,5 @@ III. ― Les listes doivent porter la mention de la juridiction de première ins
 7° L'adresse professionnelle de l'électeur pour répondre aux objectifs prévus au I, 1° et 3°, ci-dessus ;
 
 8° L'adresse internet de l'électeur dans le cas où cette mention est nécessaire aux opérations de vote.
+
+La date de naissance figurant au 5° et les informations mentionnées aux 6° et 8° ci-dessus ne figurent pas sur les listes électorales mises à disposition du public en application de l'article R. 713-38.
