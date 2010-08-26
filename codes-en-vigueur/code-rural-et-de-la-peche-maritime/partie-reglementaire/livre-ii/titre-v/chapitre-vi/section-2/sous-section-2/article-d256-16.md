@@ -1,6 +1,8 @@
 # Article D256-16
 
-I. - Pour être agréé, un organisme d'inspection doit présenter des garanties d'indépendance et de compétence et disposer des moyens nécessaires à l'exécution des tâches pour lesquelles il est agréé. Ces conditions sont réputées remplies lorsque l'organisme est accrédité au titre des annexes A, B, ou C de la norme NF EN ISO / CEI 17020 pour les activités de " contrôle périodique des pulvérisateurs " par le Comité français d'accréditation (COFRAC) ou par tout autre organisme d'accréditation signataire de l'accord de reconnaissance multilatéral établi par la coordination européenne des organismes d'accréditation.
+I.-Pour être agréé, un organisme d'inspection doit présenter des garanties d'indépendance et de compétence et disposer des moyens nécessaires à l'exécution des tâches pour lesquelles il est agréé. Ces conditions sont réputées remplies lorsque l'organisme est accrédité au titre des annexes A, B, ou C de la norme NF EN ISO / CEI 17020 pour les activités de " contrôle périodique des pulvérisateurs " par le Comité français d'accréditation (COFRAC) ou par tout autre organisme d'accréditation signataire de l'accord de reconnaissance multilatéral établi par la coordination européenne des organismes d'accréditation.
+
+Elles sont également réputées remplies lorsque leur respect a été vérifié par les autorités d'un autre Etat membre de l'Union européenne ou de l'Espace économique européen pour l'exercice de cette même activité sur son territoire.
 
 II.-La délivrance de l'agrément est également subordonnée à l'engagement par l'organisme d'inspection :
 
