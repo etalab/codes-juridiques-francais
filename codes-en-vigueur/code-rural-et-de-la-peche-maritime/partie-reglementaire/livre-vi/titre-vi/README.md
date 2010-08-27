@@ -5,3 +5,4 @@
 - [Chapitre IV : Les fruits, les légumes et l'horticulture.](chapitre-iv)
 - [Chapitre V : Gestion du potentiel de production viticole.](chapitre-v)
 - [Chapitre VI : Dispositions relatives aux céréales.](chapitre-vi)
+- [Chapitre VII : Les oléagineux](chapitre-vii)
