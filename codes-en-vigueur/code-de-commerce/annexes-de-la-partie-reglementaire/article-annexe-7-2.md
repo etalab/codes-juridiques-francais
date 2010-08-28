@@ -1628,7 +1628,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </td>
 <td>
 <br/>
-<p align="center">22 </p>
+<p align="center">25</p>
 </td>
 <td>
 <br/>
