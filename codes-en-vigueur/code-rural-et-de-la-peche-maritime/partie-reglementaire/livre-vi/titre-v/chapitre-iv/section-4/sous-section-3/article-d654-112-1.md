@@ -10,7 +10,7 @@ Une indemnité est versée aux producteurs cédant la quantité de référence d
 
 Les montants de ce paiement et de cette indemnité sont calculés selon des barèmes fixés au litre de lait par l'arrêté mentionné au I du présent article.
 
-III.-Ce dispositif peut être mis en oeuvre dans chaque département, dans le cadre de l'arrêté mentionné au I du présent article, par décision du préfet, prise sur proposition de la commission départementale d'orientation de l'agriculture.
+III.-(Abrogé).
 
 IV.-L'arrêté mentionné au I du présent article détermine pour chaque campagne les catégories de producteurs susceptibles d'accéder à ce dispositif ou définit les modalités de détermination au niveau départemental de ces catégories.
 
