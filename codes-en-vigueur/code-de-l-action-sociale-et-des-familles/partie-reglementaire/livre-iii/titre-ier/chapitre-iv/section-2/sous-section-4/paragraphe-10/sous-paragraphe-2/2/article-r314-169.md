@@ -1,23 +1,43 @@
 # Article R314-169
 
-Afin d'assurer un suivi de la consommation médicale et de l'activité des professionnels de santé libéraux dans l'établissement, celui-ci doit fournir :
+I.-Afin de faciliter l'exécution des dispositions de l'article L. 133-4-4 du code de la sécurité sociale et la récupération des indus, la Caisse nationale de l'assurance maladie des travailleurs salariés met en œuvre un traitement automatisé de données à caractère personnel, inter-régimes, dénommé " listes des résidents et données relatives à la consommation médicale dans les établissements d'hébergement pour personnes âgées dépendantes ". Sont soumis à ce traitement les résidents et l'activité des professionnels de santé libéraux dans les établissements d'hébergement pour personnes âgées dépendantes mentionnés au 6° du I de l'article L. 312-1 du présent code et dont la tarification est fixée par les articles R. 314-158 à R. 314-193 de ce même code.
 
-1° Chaque semestre, à la caisse pivot et, sur leur demande, aux autres organismes d'assurance maladie, la liste des personnes hébergées ainsi que les mouvements intervenus au cours des six derniers mois. Cette liste comporte, pour chaque personne hébergée :
+II.-Ce traitement a pour finalités de permettre :
 
-a) Les nom et prénom ;
+1° Le suivi de la consommation médicale et de l'activité des professionnels de santé libéraux dans l'établissement ;
 
-b) Le numéro d'inscription au répertoire national d'identification des personnes physiques ;
+2° Les contrôles afférents aux facturations présentées au remboursement des organismes d'assurance maladie par le rapprochement des données relatives aux résidents avec celles relatives aux remboursements au titre des soins de ville dispensés à ces mêmes personnes ;
 
-c) Le nom de l'organisme de prise en charge, assorti du numéro de centre de paiement ;
+3° La répartition entre les régimes du forfait de soins.
 
-d) La date d'entrée dans l'établissement ;
+III.-Les catégories d'informations enregistrées dans le traitement sont :
 
-e) Le cas échéant, la date de sortie.
+1° S'agissant de l'identification des résidents présents dans l'établissement :
 
-2° Chaque mois, à la caisse pivot, un bordereau portant mention de l'option tarifaire choisie par l'établissement, en application de l'article R. 314-167, et comportant :
+a) Le nom de famille et, le cas échéant, le nom marital ou d'usage, et les prénoms ;
 
-a) Pour la part des rémunérations des professionnels d'exercice libéral intégrée dans le tarif journalier afférent aux soins, le montant, par catégorie professionnelle en distinguant, pour les médecins, les généralistes des médecins spécialistes, des rémunérations versées mensuellement ;
+b) Le numéro d'inscription au répertoire national d'identification des personnes physiques du résident et, le cas échéant, de l'assuré ouvrant droit ;
 
-b) Le montant mensuel de la consommation de médicaments ;
+c) Les date et lieu de naissance ;
 
-c) Le montant mensuel de la consommation des résidents au titre de dispositifs médicaux intégrés dans le tarif afférent aux soins.
+d) La nature de l'hébergement ;
+
+e) Les jours de présence pour le mois considéré ;
+
+2° L'identification de l'établissement et son régime tarifaire ;
+
+3° Le montant des rémunérations versées aux professionnels de santé libéraux et intégrées dans le tarif journalier afférent aux soins, par catégorie professionnelle, en distinguant, pour les médecins, les généralistes des autres spécialités ;
+
+4° La consommation globale de médicaments, d'une part, et de dispositifs médicaux, d'autre part, intégrés dans le tarif journalier afférent aux soins.
+
+IV.-Les informations mentionnées au III sont fournies mensuellement aux organismes d'assurance maladie, par voie électronique, par le directeur de l'établissement. Elles sont conservées pendant une durée de trente trois mois par la Caisse nationale de l'assurance maladie des travailleurs salariés.
+
+V.-La Caisse nationale de l'assurance maladie des travailleurs salariés est habilitée, afin de vérifier et compléter les données relatives à l'affiliation et à l'identification des résidents, à accéder au répertoire prévu à l'article L. 161-32 du code de la sécurité sociale.
+
+VI.-Sont destinataires de tout ou partie des données à caractère personnel et des informations mentionnées au III, pour satisfaire aux seules finalités mentionnées au II, les agents individuellement désignés et dûment habilités des caisses pivots et d'affiliation.
+
+VII.-Les organismes nationaux des différents régimes d'assurance maladie, la Caisse nationale de solidarité pour l'autonomie et les agences régionales de santé désignent et habilitent des agents pour exploiter, à des seules fins statistiques, les données et informations mentionnées au III, à l'exception de celles mentionnées aux a et b du 1° ainsi que du lieu, jour et mois de naissance.
+
+VIII.-Les droits d'accès et de rectification des résidents, prévus aux articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, s'exercent auprès du directeur de leur caisse d'affiliation.
+
+IX.-Le droit d'opposition prévu à l'article 38 de la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés ne s'applique pas au traitement mentionné à l'article R. 314-169 du présent code.
