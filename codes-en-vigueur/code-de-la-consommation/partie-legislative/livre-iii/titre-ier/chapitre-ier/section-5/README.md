@@ -9,3 +9,4 @@
 - [Article L311-25-1](article-l311-25-1.md)
 - [Article L311-26](article-l311-26.md)
 - [Article L311-27](article-l311-27.md)
+- [Article L311-28](article-l311-28.md)
