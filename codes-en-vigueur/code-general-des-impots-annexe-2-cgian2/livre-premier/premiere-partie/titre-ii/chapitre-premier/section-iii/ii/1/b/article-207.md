@@ -1,12 +1,14 @@
 # Article 207
 
-I. - Sous réserve des dispositions qui suivent, la déduction opérée dans les conditions mentionnées aux articles 205 et 206 est définitivement acquise à l'entreprise.
+I.-Sous réserve des dispositions qui suivent, la déduction opérée dans les conditions mentionnées aux articles 205 et 206 est définitivement acquise à l'entreprise.
 
-II. - 1. Pour les biens immobilisés, une régularisation de la taxe initialement déduite est opérée chaque année pendant cinq ans, dont celle au cours de laquelle ils ont été acquis, importés, achevés, utilisés pour la première fois ou transférés entre secteurs d'activité constitués en application de l'article 209.
+II.-1. Pour les biens immobilisés, une régularisation de la taxe initialement déduite est opérée chaque année pendant cinq ans, dont celle au cours de laquelle ils ont été acquis, importés, achevés, utilisés pour la première fois ou transférés entre secteurs d'activité constitués en application de l'article 209.
 
 2. Chaque année, la régularisation est égale au cinquième du produit de la taxe initiale par la différence entre le coefficient de déduction de l'année et le coefficient de déduction de référence mentionné au 2 du V. Elle prend la forme d'une déduction complémentaire si cette différence est positive, d'un reversement dans le cas contraire.
 
 3. Par dérogation à la durée mentionnée au 1 et à la fraction mentionnée au 2, cette régularisation s'opère pour les immeubles immobilisés par vingtième pendant vingt années.
+
+Toutefois, pour les immeubles donnés en location dans les conditions prévues au 2 de l'article L. 313-7 du code monétaire et financier, cette durée est égale au nombre d'années qui courent jusqu'à l'échéance du contrat de bail, arrondi à l'entier supérieur, sans pouvoir excéder vingt années, et la régularisation s'opère par fractions égales à l'inverse de cette durée.
 
 4. La régularisation doit être effectuée avant le 25 avril de l'année suivante. Aucune régularisation n'est effectuée si la différence entre le produit des coefficients d'assujettissement et de taxation de l'année, d'une part, et le produit des coefficients d'assujettissement et de taxation de référence mentionnés au 2 du V, d'autre part, n'est pas supérieure, en valeur absolue, à un dixième.
 
@@ -18,11 +20,11 @@ II. - 1. Pour les biens immobilisés, une régularisation de la taxe initialemen
 
 6. Pour la détermination des coefficients de référence mentionnés au 2 et au 4, il n'est pas tenu compte des dispositions du 1° et du 2° du 2 du V au titre de l'année où il est fait application de ces dispositions.
 
-III. - 1. Une régularisation de la taxe initialement déduite et grevant un bien immobilisé est également opérée :
+III.-1. Une régularisation de la taxe initialement déduite et grevant un bien immobilisé est également opérée :
 
-1° Lorsqu'il est cédé ou apporté, sans que cette opération soit soumise à la taxe sur le prix total ou la valeur totale, ou est transféré entre secteurs d'activité constitués en application de l'article 209 ;
+1° Lorsqu'il est cédé ou apporté, sans que cette opération soit soumise à la taxe sur le prix total, sur la valeur totale ou dans les conditions fixées à l'article 268 du code général des impôts, ou est transféré entre secteurs d'activité constitués en application de l'article 209 ;
 
-2° Lorsqu'il est cédé ou apporté, et que cette opération est soumise à la taxe sur le prix total ou la valeur totale ;
+2° Lorsqu'il est cédé ou apporté, et que cette opération est soumise à la taxe sur le prix total, sur la valeur totale ou dans les conditions fixées à l'article 268 du code général des impôts ;
 
 3° Lorsque la réglementation modifie la valeur de son coefficient d'admission en cours d'utilisation ;
 
@@ -42,7 +44,7 @@ III. - 1. Une régularisation de la taxe initialement déduite et grevant un bie
 
 5° Dans le cas visé au 5° du 1, le coefficient d'assujettissement est égal à zéro.
 
-3. Dans les cas visés au 1° du 1, sous réserve que le bien constitue également une immobilisation pour le bénéficiaire de la cession, de l'apport ou du transfert, celui-ci peut déduire une fraction du montant de taxe sur la valeur ajoutée ayant grevé initialement le bien, à proportion du rapport entre le nombre d'années restant à courir, pour le cédant ou l'apporteur, jusqu'au terme de la période de régularisation et le nombre d'années total de celle-ci. A cette fin, le cédant ou l'apporteur délivre au bénéficiaire une attestation mentionnant le montant de la taxe qu'il est en droit de déduire. Cette déduction est opérée dans les conditions prévues à l'article 206.
+3. Dans les cas visés au 1° du 1, sous réserve que le bien constitue également une immobilisation pour le bénéficiaire de la cession, de l'apport ou du transfert, celui-ci peut déduire une fraction du montant de taxe sur la valeur ajoutée ayant grevé initialement le bien, à proportion du rapport entre le nombre d'années restant à courir, pour le cédant ou l'apporteur, jusqu'au terme de la période de régularisation et le nombre d'années total de celle-ci.A cette fin, le cédant ou l'apporteur délivre au bénéficiaire une attestation mentionnant le montant de la taxe qu'il est en droit de déduire. Cette déduction est opérée dans les conditions prévues à l'article 206.
 
 4. Les dispositions des 1 à 3 ne sont pas applicables :
 
@@ -54,11 +56,13 @@ a. Qui ont été volés ou détruits, dès lors qu'il est justifié du vol ou de
 
 b. Dont le coefficient d'assujettissement de référence est nul.
 
-IV. - 1. Par dérogation au III, en cas de cession ou d'apport soumis à la taxe sur la valeur ajoutée sur le prix total ou la valeur totale d'un immeuble affecté à l'habitation, la taxe initiale peut être déduite intégralement.
+IV.-1. (alinéa abrogé)
 
 2. Lorsqu'un bien en stock, ou un bien immobilisé non encore utilisé, vient à être utilisé à des opérations ouvrant droit à déduction, la taxe initiale peut être déduite à proportion du coefficient de déduction résultant de ce changement.
 
-V. - 1. La taxe initiale s'entend, selon le cas, de la taxe mentionnée au 1 du II de l'article 271 du code général des impôts ou de la fraction de taxe mentionnée sur les attestations prévues au 3 du III du présent article ou au 3 du I de l'article 210.
+3. Pour l'application du II et des 1° et 2° du 1 du III, un immeuble ou une fraction d'immeuble en stock est considéré comme immobilisé lorsque, au-delà de la date d'échéance mentionnée au II de l'article 270 du code général des impôts, il est utilisé pendant plus d'un an pour une opération relevant d'une activité économique mentionnée à l'article 256 A du code général des impôts.
+
+V.-1. La taxe initiale s'entend, selon le cas, de la taxe mentionnée au 1 du II de l'article 271 du code général des impôts ou de la fraction de taxe mentionnée sur les attestations prévues au 3 du III du présent article ou au 3 du I de l'article 210.
 
 2. Les coefficients d'assujettissement, de taxation et d'admission de référence sont initialement égaux aux coefficients retenus pour le calcul de la déduction opérée en application de l'article 206 lors de l'acquisition, de l'importation ou de la livraison à soi-même du bien. Le cas échéant :
 
@@ -68,7 +72,7 @@ V. - 1. La taxe initiale s'entend, selon le cas, de la taxe mentionnée au 1 du 
 
 Le coefficient de déduction de référence est égal au produit des coefficients d'assujettissement, de taxation et d'admission de référence résultant des dispositions qui précèdent.
 
-VI. - Le montant de la taxe dont la déduction a déjà été opérée doit être reversé dans les cas suivants :
+VI.-Le montant de la taxe dont la déduction a déjà été opérée doit être reversé dans les cas suivants :
 
 1° Lorsque les marchandises ont disparu ;
 
