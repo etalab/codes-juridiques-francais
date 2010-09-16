@@ -181,23 +181,18 @@ Sauf dans les cours d'appel figurant dans le tableau ci-après, il est établi d
 </td>
 </tr>
 <tr>
-<td valign="top" width="181">
-<p>Riom</p>
-</td>
-<td valign="top" width="209">
-<p>Riom</p>
-</td>
-<td valign="top" width="215">
-<p>Ressorts des tribunaux de grande instance de Riom, Clermont-Ferrand, Aurillac et du Puy-en-Velay</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="181"/>
+<td valign="top" width="181">Riom</td>
 <td valign="top" width="209">
 <p>Moulins</p>
 </td>
 <td valign="top" width="215">
-<p>Ressorts des tribunaux de grande instance de Moulins, Montluçon et Cusset</p>
+<p>Ressorts des tribunaux de grande instance de Moulins, Cusset et Montluçon </p>
+</td>
+</tr>
+<tr>
+<td/>
+<td> Riom</td>
+<td> Ressort des tribunaux de grande instance de Riom, Clermont-Ferrand, Aurillac et du Puy-en-Velay.<br/>
 </td>
 </tr>
 </tbody>

@@ -1,10 +1,13 @@
 # Article Annexe Tableau XIV
 
+<div align="center">
+<br/>
+</div>
+
 Siège et ressort des tribunaux pour enfants
 
 (annexe de l'article D. 251-1)
 
-<div align="left">
 <table>
 <tbody>
 <tr>
@@ -88,7 +91,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel d'Aix-en-Provence </p>
 <p align="center">Alpes-de-Haute-Provence </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -203,7 +208,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel d'Amiens </p>
 <p align="center">Aisne </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -309,7 +316,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel d'Angers </p>
 <p align="center">Maine-et-Loire </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -375,7 +384,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Basse-Terre </p>
 <p align="center">Guadeloupe </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -403,7 +414,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Bastia </p>
 <p align="center">Corse-du-Sud </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -440,7 +453,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Besançon </p>
 <p align="center">Doubs </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -545,7 +560,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Bordeaux </p>
 <p align="center">Charente </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -621,7 +638,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Bourges </p>
 <p align="center">Cher </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -677,7 +696,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Caen </p>
 <p align="center">Calvados </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -753,7 +774,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Chambéry </p>
 <p align="center">Haute-Savoie </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -810,7 +833,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Colmar </p>
 <p align="center">Bas-Rhin </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -867,7 +892,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Dijon </p>
 <p align="center">Côte-d'Or </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -933,7 +960,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Douai </p>
 <p align="center">Nord </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -1060,7 +1089,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Fort-de-France </p>
 <p align="center">Guyane </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -1097,7 +1128,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Grenoble </p>
 <p align="center">Drôme </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -1144,7 +1177,7 @@ Siège et ressort des tribunaux pour enfants
 </td>
 <td>
 <br/>
-<p align="left">Ressort du tribunal de grande instance de Bourgoin-Jallieu. (3)] </p>
+<p align="left">Ressort du tribunal de grande instance de Bourgoin-Jallieu. (11)] </p>
 </td>
 </tr>
 <tr>
@@ -1160,11 +1193,20 @@ Siège et ressort des tribunaux pour enfants
 <tr>
 <td>
 <br/>
-<p align="left">Vienne </p>
+<p align="left">(Vienne </p>
 </td>
 <td>
 <br/>
-<p align="left">Ressort du tribunal de grande instance de Vienne. </p>
+<p align="left">Ressort du tribunal de grande instance de Vienne.[11]) </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">(Villefontaine</p>
+</td>
+<td align="center">
+<p align="left">Ressort du tribunal de grande instance de Villefontaine. [12])<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1173,7 +1215,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Limoges </p>
 <p align="center">Corrèze </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -1239,7 +1283,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Lyon </p>
 <p align="center">Ain </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -1335,7 +1381,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Metz </p>
 <p align="center">Moselle </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -1373,7 +1421,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Montpellier </p>
 <p align="center">Aude </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -1478,7 +1528,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Nancy </p>
 <p align="center">Meurthe-et-Moselle </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -1554,7 +1606,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Nîmes </p>
 <p align="center">Ardèche </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -1639,7 +1693,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Nouméa </p>
 <p align="center">Nouvelle-Calédonie </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -1676,7 +1732,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel d'Orléans </p>
 <p align="center">Indre-et-Loire </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -1742,7 +1800,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Tribunal supérieur d'appel de Papeete </p>
 <p align="center">Polynésie française </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -1760,7 +1820,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Paris </p>
 <p align="center">Essonne </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -1883,7 +1945,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Pau </p>
 <p align="center">Hautes-Pyrénées </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -1959,7 +2023,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Poitiers </p>
 <p align="center">Charente-Maritime </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -2080,7 +2146,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Reims </p>
 <p align="center">Ardennes </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -2146,7 +2214,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Rennes </p>
 <p align="center">Côtes-d'Armor </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -2165,7 +2235,7 @@ Siège et ressort des tribunaux pour enfants
 </td>
 <td>
 <br/>
-<p align="left">Ressort des tribunaux de grande instance de Dinan et Saint-Brieuc. (3)] </p>
+<p align="left">Ressort des tribunaux de grande instance de Dinan et de Saint-Brieuc. (3)] </p>
 </td>
 </tr>
 <tr>
@@ -2310,26 +2380,18 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Riom </p>
 <p align="center">Allier </p>
 </td>
-<td/>
-</tr>
-<tr>
 <td>
 <br/>
-<p align="left">[Moulins </p>
-</td>
-<td>
-<br/>
-<p align="left">Ressort des tribunaux de grande instance de Cusset, Montluçon et Moulins. (3)] </p>
 </td>
 </tr>
 <tr>
 <td>
 <br/>
-<p align="left">[Cusset </p>
+<p align="left">Moulins </p>
 </td>
 <td>
 <br/>
-<p align="left">Ressort des tribunaux de grande instance de Cusset et Montluçon. (4)] </p>
+<p align="left">Ressort des tribunaux de grande instance de Cusset, Montluçon et Moulins. </p>
 </td>
 </tr>
 <tr>
@@ -2405,7 +2467,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Rouen </p>
 <p align="center">Eure </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -2472,7 +2536,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Saint-Denis </p>
 <p align="center">La Réunion </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -2500,7 +2566,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Toulouse </p>
 <p align="center">Ariège </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -2595,7 +2663,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel de Versailles </p>
 <p align="center">Eure-et-Loir </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -2670,7 +2740,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Tribunal supérieur d'appel de Mamoudzou </p>
 <p align="center">Mayotte </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -2685,10 +2757,12 @@ Siège et ressort des tribunaux pour enfants
 <tr>
 <td>
 <br/>
-<p align="center">Tribunal supérieur d'appel de Saint-Pierre </p>
+<p align="center">Tribunal supérieur d'appel<br/>de Saint-Pierre </p>
 <p align="center">Saint-Pierre-et-Miquelon </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -2706,11 +2780,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="left">(4) Applicable à compter du 1er janvier 2011. </p>
 <p align="left">(5) Applicable jusqu'au 31 décembre 2010. </p>
 <p align="left">(6) Applicable à compter du 1er janvier 2011.</p>
+<p align="left">(11) Applicable jusqu'au 30 juin 2014.</p>
+<p align="left">(12) Applicable à compter du 1er juillet 2014.</p>
 </td>
 </tr>
 </tbody>
 </table>
-</div>
-<div align="left"/>
-<div align="left"/>
-<div align="left"/>
