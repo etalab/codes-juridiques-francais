@@ -52,9 +52,9 @@ VII.-Pour les établissements et services mentionnés au 6° de l'article L. 312
 
 VIII.-Pour les établissements et services mentionnés au 7° de l'article L. 312-1 :
 
-1° Pour les établissements mentionnés à l'article L. 344-1, par l'assurance maladie sous la forme d'un prix de journée, établi et versé conformément aux dispositions du paragraphe 3 de la sous-section 2 de la présente section ;
+1° Pour les établissements mentionnés à l'article L. 344-1, par l'assurance maladie sous la forme d'un prix de journée, établi et versé conformément aux dispositions du sous-paragraphe 3 du paragraphe 2 de la présente sous-section ;
 
-2° Pour les foyers d'accueil médicalisés et les services d'accompagnement médico-social pour adultes handicapés, par le département pour les frais d'accompagnement à la vie sociale et, le cas échéant, d'hébergement, sous la forme d'un tarif journalier établi et versé dans les conditions fixées par les articles R. 314-145 et R. 314-146, et par l'assurance maladie pour les dépenses afférentes aux soins médicaux, en vertu des articles L. 174-7 et L. 162-24-1 du code de la sécurité sociale, sous la forme d'un forfait journalier établi et versé dans les conditions fixées aux articles R. 314-142 et R. 314-143 ;
+2° Pour les foyers d'accueil médicalisés et les services d'accompagnement médico-social pour adultes handicapés, par le département pour les frais d'accompagnement à la vie sociale et, le cas échéant, d'hébergement, sous la forme d'un tarif journalier établi et versé dans les conditions fixées par les articles R. 314-144 et R. 314-145, et par l'assurance maladie pour les dépenses afférentes aux soins médicaux, en vertu des articles L. 174-7 et L. 162-24-1 du code de la sécurité sociale, sous la forme d'un forfait journalier établi et versé dans les conditions fixées aux articles R. 314-141 et R. 314-142 ;
 
 3° Pour les services d'aide à domicile ne dispensant pas de soins, par le département, sous la forme de tarifs horaires établis et versés dans les conditions fixées au paragraphe 5 de la sous-section 4 de la présente section ;
 
@@ -82,7 +82,7 @@ XI.-Pour les établissements et services mentionnés au 11° de l'article L. 312
 
 Pour les dépenses afférentes aux soins dans les centres de ressources pour personnes autistes, les centres de ressources pour personnes atteintes de handicaps rares ou les unités d'évaluation, de ré-entraînement et d'orientation sociale et socio-professionnelle pour personnes cérébro-lésées, par l'assurance maladie en vertu des dispositions combinées des articles L. 162-24-1, L. 174-7 et L. 321-1 du code de la sécurité sociale, sous la forme d'une dotation globale établie et versée dans les conditions fixée par les articles R. 174-16-1 à R. 174-16-5 du code de la sécurité sociale.
 
-XII.-Pour les établissements de santé autorisés à  dispenser des soins de longue durée :
+XII.-Pour les établissements de santé autorisés à dispenser des soins de longue durée :
 
 1° Pour ceux d'entre eux qui sont signataires de la convention mentionnée au I de l'article L. 313-12, par le département dans les conditions fixées par les dispositions du paragraphe 10 de la sous-section 4 de la présente section, et par l'assurance maladie, sous la forme d'une dotation globale, versée dans les conditions fixées par les articles R. 174-9 à R. 174-16 du code de la sécurité sociale ;
 
