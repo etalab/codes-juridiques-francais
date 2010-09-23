@@ -20,6 +20,4 @@ c) La participation spécifique pour la réalisation d'équipements publics exce
 
 d) La participation pour voirie et réseaux prévue à l'article L. 332-11-1 ;
 
-e) Les cessions gratuites de terrains destinés à être affectés à certains usages publics qui, dans la limite de 10 % de la superficie du terrain auquel s'applique la demande, peuvent être exigées des bénéficiaires d'autorisations portant sur la création de nouveaux bâtiments ou de nouvelles surfaces construites ;
-
 3° La participation des riverains prévue par la législation applicable dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, celle-ci pouvant être actualisée pour tenir compte du délai écoulé entre la date de réalisation des travaux concernés et le montant de perception de cette participation. Elle peut également inclure les frais de premier établissement de l'éclairage public.
