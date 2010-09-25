@@ -2,4 +2,4 @@
 
 - [Sous-section 1 : Statut et organisation](sous-section-1)
 - [Sous-section 2 : Conseil d'administration](sous-section-2)
-- [Sous-section 3 : Comité des engagements et comité scientifique](sous-section-3)
+- [Sous-section 3 : Bureau exécutif](sous-section-3)

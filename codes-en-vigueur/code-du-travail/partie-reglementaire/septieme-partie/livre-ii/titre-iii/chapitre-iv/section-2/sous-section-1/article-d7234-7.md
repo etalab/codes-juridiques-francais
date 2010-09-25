@@ -2,7 +2,7 @@
 
 Le directeur général de l'Agence nationale des services à la personne :
 
-1° Prépare les délibérations du conseil d'administration et s'assure de leur exécution ;
+1° Prépare les délibérations du conseil d'administration et du bureau exécutif et s'assure de leur exécution ;
 
 2° Exerce la direction administrative, technique et financière de l'agence. Il est l'ordonnateur des recettes et des dépenses. Il prépare les délibérations du comité des engagements ;
 
@@ -10,4 +10,6 @@ Le directeur général de l'Agence nationale des services à la personne :
 
 4° Recrute et a autorité sur l'ensemble du personnel ;
 
-5° Peut déléguer sa signature à d'autres agents, à l'exclusion de l'agent comptable.
+5° Peut déléguer sa signature à d'autres agents, à l'exclusion de l'agent comptable ;
+
+6° Convoque le bureau exécutif.

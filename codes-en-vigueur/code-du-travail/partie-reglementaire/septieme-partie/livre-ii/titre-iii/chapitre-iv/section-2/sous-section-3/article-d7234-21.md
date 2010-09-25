@@ -1,11 +1,15 @@
 # Article D7234-21
 
-Le comité des engagements est présidé par le directeur général de l'Agence nationale des services à la personne.
+Le bureau exécutif est présidé par le directeur général de l'Agence nationale des services à la personne.
 
 Il est composé des membres du conseil d'administration suivants :
 
-1° Trois représentants du ministre chargé de l'emploi ;
+a) Le directeur général de la compétitivité, de l'industrie et des services ou son représentant ;
 
-2° Deux représentants du ministre chargé de l'économie ;
+b) Le directeur du budget ou son représentant ;
 
-3° Deux représentants du secteur des services à la personne.
+c) Le délégué général à l'emploi et à la formation professionnelle ou son représentant ;
+
+d) Le directeur général de la cohésion sociale ou son représentant ;
+
+e) Deux représentants des organisations professionnelles représentatives.
