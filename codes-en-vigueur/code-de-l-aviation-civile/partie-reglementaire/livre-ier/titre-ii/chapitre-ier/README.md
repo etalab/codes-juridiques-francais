@@ -36,4 +36,3 @@
 - [Article D121-33](article-d121-33.md)
 - [Article D121-34](article-d121-34.md)
 - [Article D121-35](article-d121-35.md)
-- [Article D121-36](article-d121-36.md)
