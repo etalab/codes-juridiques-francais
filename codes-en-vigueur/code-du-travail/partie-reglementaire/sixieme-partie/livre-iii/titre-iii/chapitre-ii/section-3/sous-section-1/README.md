@@ -7,5 +7,4 @@
 - [Article R6332-79](article-r6332-79.md)
 - [Article R6332-80](article-r6332-80.md)
 - [Article R6332-81](article-r6332-81.md)
-- [Article R6332-82](article-r6332-82.md)
 - [Article R6332-84](article-r6332-84.md)
