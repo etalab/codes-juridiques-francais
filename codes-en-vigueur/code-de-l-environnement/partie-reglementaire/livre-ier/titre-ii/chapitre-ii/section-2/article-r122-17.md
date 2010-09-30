@@ -30,4 +30,6 @@ Sous réserve, le cas échéant, des règles particulières applicables à chaqu
 
 14° Schémas régionaux de gestion sylvicole des forêts privées prévus par l'article L. 4 du code forestier. ;
 
-15° Plans, schémas, programmes et autres documents de planification soumis à évaluation des incidences Natura 2000 au titre de l'article L. 414-4 à l'exception des documents régis par le code de l'urbanisme.
+15° Plans, schémas, programmes et autres documents de planification soumis à évaluation des incidences Natura 2000 au titre de l'article L. 414-4 à l'exception des documents régis par le code de l'urbanisme ;
+
+16° Schéma d'ensemble du réseau de transport public du Grand Paris prévu par les articles 2 et 3 de la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris.
