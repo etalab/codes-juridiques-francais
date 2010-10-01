@@ -8,7 +8,7 @@ Les dépenses déductibles comprennent notamment :
 
 2° Les amortissements effectués suivant les règles applicables en matière de bénéfices industriels et commerciaux ;
 
-3° Les loyers versés en exécution d'un contrat de crédit-bail ou de location portant sur des voitures particulières, à l'exclusion de la part de loyer visée au 4 de l'article 39 ;
+3° Les loyers versés en exécution d'un contrat de crédit-bail ou de location portant sur des  véhicules de tourisme au sens de l'article 1010, à l'exclusion de la part de loyer visée au 4 de l'article 39 ;
 
 4° Les dépenses exposées pour la tenue de la comptabilité et, éventuellement, pour l'adhésion à une association agréée ne sont pas prises en compte pour la détermination du résultat imposable lorsqu'elles sont supportées par l'Etat du fait de la réduction d'impôt mentionnée à l'article 199 quater B ;
 
