@@ -60,11 +60,11 @@ b) Le directeur de la Caisse nationale des allocations familiales ;
 
 c) Le président de la Caisse centrale de la mutualité sociale agricole ;
 
-6° Sept représentants de l'Etat :
+6° Huit représentants de l'Etat et de ses établissements publics :
 
 a) Le directeur général de la cohésion sociale ;
 
-b) Le        directeur général du Trésor ;
+b) Le directeur général du Trésor ;
 
 c) Le directeur général du Centre d'analyse stratégique ;
 
@@ -75,6 +75,8 @@ e) Le directeur du budget ;
 f) Le directeur de l'accueil, de l'intégration et de la citoyenneté ;
 
 g) Le directeur de la recherche, des études, de l'évaluation et des statistiques ;
+
+h) Le directeur de l'Institut national d'études démographiques ;
 
 7° Sept personnalités désignées par le ministre chargé de la famille, choisies en raison de leur compétence et de leur expérience.
 
