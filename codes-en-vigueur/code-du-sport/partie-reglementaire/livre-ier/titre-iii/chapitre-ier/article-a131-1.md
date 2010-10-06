@@ -10,8 +10,6 @@ Fédération française d'aérostation : L'Aéronote.
 
 Fédération française des sociétés d'aviron : Aviron magazine.
 
-Fédération française de badminton : Badminton magazine.
-
 Fédération française de ball-trap et de tir à balle : Ball-trap magazine.
 
 Fédération française de basketball : Basketball.
