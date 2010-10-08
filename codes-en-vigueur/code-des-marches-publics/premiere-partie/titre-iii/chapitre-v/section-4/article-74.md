@@ -30,4 +30,4 @@ Dans ce cas, la mise en compétition peut être limitée à l'examen des compét
 
 IV.-(Abrogé).
 
-V.-Pour les collectivités territoriales et les établissements publics locaux à l'exception des établissements publics de santé et des établissements publics sociaux ou médico-sociaux, c'est l'assemblée délibérante qui attribue le ou les marchés de maîtrise d'oeuvre.
+V.-Pour les collectivités territoriales et les établissements publics locaux à l'exception des établissements publics sociaux ou médico-sociaux, c'est l'assemblée délibérante qui attribue le ou les marchés de maîtrise d'oeuvre.

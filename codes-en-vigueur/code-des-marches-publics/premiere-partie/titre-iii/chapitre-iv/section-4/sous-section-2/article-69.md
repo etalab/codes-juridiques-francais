@@ -12,7 +12,7 @@ Le jury dresse un procès-verbal d'examen des prestations et d'audition des cand
 
 Le pouvoir adjudicateur peut demander des clarifications ou des précisions concernant les offres déposées par les candidats. Cependant, ces précisions, clarifications ou compléments ne peuvent avoir pour effet de modifier des éléments fondamentaux de l'offre ou des caractéristiques essentielles du marché.
 
-Le marché est attribué au vu de l'avis du jury. Pour les collectivités territoriales et les établissements publics locaux à l'exception des établissements publics de santé et des établissements publics sociaux ou médico-sociaux, c'est la commission d'appel d'offres qui attribue le marché.
+Le marché est attribué au vu de l'avis du jury. Pour les collectivités territoriales et les établissements publics locaux à l'exception des établissements publics sociaux ou médico-sociaux, c'est la commission d'appel d'offres qui attribue le marché.
 
 Le règlement de la consultation prévoit le montant des primes et les modalités de réduction ou de suppression des primes des candidats dont le jury a estimé que les offres remises avant l'audition étaient incomplètes ou ne répondaient pas au règlement de la consultation. Le montant de la prime attribuée à chaque candidat est égal au prix estimé des études de conception à effectuer telles que définies par le règlement de la consultation, affecté d'un abattement au plus égal à 20 %. La rémunération de l'attributaire du marché tient compte de la prime qu'il a reçue.
 

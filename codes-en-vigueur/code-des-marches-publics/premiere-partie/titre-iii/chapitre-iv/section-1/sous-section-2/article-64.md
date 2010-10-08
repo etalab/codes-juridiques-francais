@@ -20,6 +20,6 @@ Lorsque l'appel d'offres est déclaré infructueux, il est possible de mettre en
 
 2° Soit, s'il s'agit d'un lot qui remplit les conditions mentionnées au III de l'article 27, une procédure adaptée.
 
-Pour les collectivités territoriales et les établissements publics locaux à l'exception des établissements publics de santé et des établissements publics sociaux et médico-sociaux, c'est la commission d'appel d'offres qui choisit le type de procédure à mettre en oeuvre.
+Pour les collectivités territoriales et les établissements publics locaux à l'exception des établissements publics sociaux et médico-sociaux, c'est la commission d'appel d'offres qui choisit le type de procédure à mettre en oeuvre.
 
 IV. - A tout moment, la procédure peut être déclarée sans suite pour des motifs d'intérêt général. Les candidats en sont informés.

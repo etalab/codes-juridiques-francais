@@ -74,7 +74,7 @@ Lorsque le dialogue compétitif est déclaré infructueux, il est possible de me
 
 2° Soit, s'il s'agit d'un lot qui remplit les conditions mentionnées au III de l'article 27, une procédure adaptée.
 
-Pour les collectivités territoriales et les établissements publics locaux à l'exception des établissements publics de santé et des établissements publics sociaux et médico-sociaux, c'est la commission d'appel d'offres qui choisit le type de procédure à mettre en oeuvre.
+Pour les collectivités territoriales et les établissements publics locaux à l'exception des établissements publics sociaux et médico-sociaux, c'est la commission d'appel d'offres qui choisit le type de procédure à mettre en oeuvre.
 
 X. - Il peut être prévu dans le règlement de la consultation ou dans l'avis d'appel public à la concurrence qu'une prime sera allouée à tous les participants au dialogue ou à ceux dont les propositions ont fait l'objet de la discussion ou encore à ceux dont les offres ont été les mieux classées.
 

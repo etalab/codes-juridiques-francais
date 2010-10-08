@@ -20,7 +20,7 @@ Celui-ci est chargé de procéder, dans le respect des règles prévues par le p
 
 Chaque membre du groupement s'engage, dans la convention, à signer avec le cocontractant retenu un marché à hauteur de ses besoins propres, tels qu'il les a préalablement déterminés.
 
-III. - Une commission d'appel d'offres du groupement est instaurée dès lors qu'une collectivité territoriale ou un établissement public local autres qu'un établissement public de santé ou un établissement public social ou médico-social participe au groupement.
+III. - Une commission d'appel d'offres du groupement est instaurée dès lors qu'une collectivité territoriale ou un établissement public local autres qu'un établissement public social ou médico-social participe au groupement.
 
 Sont membres de cette commission d'appel d'offres :
 
@@ -36,9 +36,9 @@ La commission d'appel d'offres peut également être assistée par des agents de
 
 Pour les marchés et accords-cadres des groupements mentionnés aux 2°, 3° et, le cas échéant, 4° du I, le comptable du coordonnateur du groupement, si celui-ci est un comptable public et un représentant du directeur général de la concurrence, de la consommation et de la répression des fraudes, peuvent participer, avec voix consultative, aux réunions de la commission d'appel d'offres, lorsqu'ils y sont invités. Leurs observations sont consignées au procès-verbal.
 
-V. - Pour les groupements dans lesquels les collectivités territoriales ou les établissements publics locaux autres qu'un établissement public de santé ou un établissement public social ou médico-social sont majoritaires, le titulaire est choisi par la commission d'appel d'offres en application des règles prévues par le présent code pour les collectivités territoriales.
+V. - Pour les groupements dans lesquels les collectivités territoriales ou les établissements publics locaux autres qu'un établissement public social ou médico-social sont majoritaires, le titulaire est choisi par la commission d'appel d'offres en application des règles prévues par le présent code pour les collectivités territoriales.
 
-Pour les groupements dans lesquels les collectivités territoriales ou les établissements publics locaux autres qu'un établissement public de santé ou un établissement public social ou médico-social ne sont pas majoritaires, le titulaire est choisi après avis de la commission d'appel d'offres, selon les modalités définies par la convention constitutive du groupement.
+Pour les groupements dans lesquels les collectivités territoriales ou les établissements publics locaux autres qu'un établissement public social ou médico-social ne sont pas majoritaires, le titulaire est choisi après avis de la commission d'appel d'offres, selon les modalités définies par la convention constitutive du groupement.
 
 Pour les groupements constitués entre des personnes ne disposant pas de commission d'appel d'offres, le titulaire est choisi selon les modalités définies par la convention constitutive du groupement.
 
@@ -54,4 +54,4 @@ VII.-La convention constitutive du groupement peut aussi avoir prévu que le coo
 
 Dans ces deux cas, lorsqu'il est instauré une commission d'appel d'offres, la convention constitutive peut prévoir qu'il s'agit de celle du coordonnateur.
 
-Lorsqu'une collectivité territoriale ou un établissement public local autre qu'un établissement public de santé ou un établissement public social ou médico-social participe au groupement et que le coordonnateur ne dispose pas d'une commission d'appel d'offres, il en constitue une pour les besoins du fonctionnement du groupement.
+Lorsqu'une collectivité territoriale ou un établissement public local autre qu'un établissement public social ou médico-social participe au groupement et que le coordonnateur ne dispose pas d'une commission d'appel d'offres, il en constitue une pour les besoins du fonctionnement du groupement.
