@@ -1199,7 +1199,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>b) supérieure à 1,5 t, mais inférieure à 200 t </p>
+<p>b) supérieure à 1, 5 t, mais inférieure à 200 t </p>
 </td>
 <td valign="top" width="31">
 <p align="center">A</p>
@@ -1208,7 +1208,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">3</p>
 </td>
 <td valign="top" width="148">
-<p>b) supérieure à 1,5 t, mais inférieure à 200 t </p>
+<p>b) supérieure à 1, 5 t, mais inférieure à 200 t </p>
 </td>
 <td valign="top" width="33">
 <p align="center">3</p>
@@ -1216,7 +1216,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>c) supérieure ou égale à 150 kg, mais inférieure ou égale à 1,5 t </p>
+<p>c) supérieure ou égale à 150 kg, mais inférieure ou égale à 1, 5 t </p>
 </td>
 <td valign="top" width="31">
 <p align="center">DC</p>
@@ -4446,7 +4446,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p align="center">3</p>
 </td>
 <td valign="top" width="148">
-<p>b) Supérieure à 100 kg, mais inférieure à 10 t </p>
+<p>b) Supérieure ou égale à 100 kg, mais inférieure à 10 t </p>
 </td>
 <td valign="top" width="33">
 <p align="center">6</p>
@@ -4454,7 +4454,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>c) Inférieure à 100 kg </p>
+<p>c) Inférieure à 100 kg</p>
 </td>
 <td valign="top" width="31">
 <p align="center">DC</p>
@@ -4462,18 +4462,16 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="34">
 <br/>
 </td>
-<td valign="top" width="148">
-<p>c) Inférieure à 200 kg pour les unités mobiles de fabrication d'explosifs et les fabrications sur sites d'explosifs destinées à prévenir les avalanches de montagne : non soumis à la taxe</p>
-</td>
+<td valign="top" width="148"/>
 <td valign="top" width="33">
-<p align="center">-</p>
+<br/>
 </td>
 </tr>
 <tr>
 <td>3. Fabrication d'explosif en unité mobile.<br/>La quantité totale de matière active susceptible d'être présente dans l'installation étant (4) :</td>
 <td/>
 <td/>
-<td/>
+<td>3. La quantité totale de matière active susceptible d'être présente dans l'installation étant :</td>
 <td/>
 </tr>
 <tr>
@@ -4484,8 +4482,12 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td>
 <p align="center">3</p>
 </td>
-<td/>
-<td/>
+<td>
+<p>a) Supérieure ou égale à 100 kg</p>
+</td>
+<td>
+<p align="center">6</p>
+</td>
 </tr>
 <tr>
 <td>b) Inférieure à 100 kg</td>
