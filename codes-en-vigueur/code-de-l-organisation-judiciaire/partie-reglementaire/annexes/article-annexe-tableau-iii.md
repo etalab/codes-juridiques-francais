@@ -55,6 +55,14 @@ Liste des maisons de justice et du droit
 </td>
 </tr>
 <tr>
+<td align="center">
+<p align="center">Tarascon</p>
+</td>
+<td align="center">
+<p align="center">Arles</p>
+</td>
+</tr>
+<tr>
 <td align="center" colspan="2">
 <br/>Var<br/>
 </td>
@@ -869,7 +877,9 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center" colspan="2">
+<p align="center">
 <br/>Seine-Maritime<br/>
+</p>
 </td>
 </tr>
 <tr>
