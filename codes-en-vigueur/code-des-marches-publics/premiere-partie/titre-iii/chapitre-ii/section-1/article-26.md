@@ -16,7 +16,7 @@ II.-Les marchés et accords-cadres peuvent aussi être passés selon une procéd
 
 1° 125 000 € HT pour les fournitures et les services de l'Etat ;
 
-2° 193 000 € HT pour les fournitures et les services des collectivités territoriales ;
+2° 193 000 € HT pour les fournitures et les services des collectivités territoriales et des établissements publics de santé ;
 
 3° 193 000 € HT pour les fournitures acquises par des pouvoirs adjudicateurs opérant dans le domaine de la défense autres que celles figurant dans la liste établie par arrêté conjoint du ministre chargé de l'économie et du ministre chargé de la défense ;
 
