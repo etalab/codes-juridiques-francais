@@ -8,4 +8,4 @@ II.-Pour l'application de l'article L. 2143-3 :
 
 2° Au troisième alinéa, les mots : " au président du conseil général, au conseil départemental consultatif des personnes handicapées " sont remplacés par les mots : " au président de la Polynésie française " ;
 
-3° Au septième alinéa, les mots : " de transports ou " sont supprimés.
+3° Au sixième alinéa, les mots : "de transports ou" sont supprimés et les mots : "de la voirie, des espaces publics et des transports" sont remplacés par les mots : "de la voirie et des espaces publics".

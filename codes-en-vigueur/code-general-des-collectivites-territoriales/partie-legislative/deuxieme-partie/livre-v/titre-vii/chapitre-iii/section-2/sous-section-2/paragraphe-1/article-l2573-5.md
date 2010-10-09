@@ -16,7 +16,7 @@ Dans les communes comprenant des communes associées situées dans plusieurs îl
 
 V.-Après le deuxième alinéa de l'article L. 2121-11 et après le troisième alinéa de l'article L. 2121-12 est inséré l'alinéa ainsi rédigé :
 
-Dans les communes comprenant des communes associées situées dans plusieurs îles, le délai de convocation est fixé à quinze jours francs. En cas d'urgence, le délai peut être abrégé par le maire, sans pouvoir toutefois être inférieur à huit jours francs. Dans ces communes, les convocations peuvent se faire par tout moyen de télécommunication.
+Dans les communes comprenant des communes associées situées dans plusieurs îles, le délai de convocation est fixé à huit jours francs. En cas d'urgence, le délai peut être abrégé par le maire, sans pouvoir toutefois être inférieur à trois jours francs. Dans ces communes, les convocations peuvent se faire par tout moyen de télécommunication.
 
 VI.-L'article L. 2121-17 est complété par un troisième alinéa ainsi rédigé :
 
