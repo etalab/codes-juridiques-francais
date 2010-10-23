@@ -3,8 +3,3 @@
 - [Sous-section 1 : Mise en œuvre des activités de projet prévues par le protocole de Kyoto](sous-section-1)
 - [Sous-section 2 : Autres unités définies par le protocole de Kyoto](sous-section-2)
 - [Sous-Section 3 : Dispositions communes](sous-section-3)
-- [Article L229-20](article-l229-20.md)
-- [Article L229-21](article-l229-21.md)
-- [Article L229-22](article-l229-22.md)
-- [Article L229-23](article-l229-23.md)
-- [Article L229-24](article-l229-24.md)
