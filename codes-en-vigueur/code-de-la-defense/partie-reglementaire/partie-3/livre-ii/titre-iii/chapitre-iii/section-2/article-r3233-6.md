@@ -2,7 +2,7 @@
 
 Le service des essences des armées est chargé :
 
-1° De la définition des spécifications et de l'homologation des produits pétroliers et assimilés nécessaires aux armées et à la gendarmerie ;
+1° De la définition des spécifications et de l'homologation des produits pétroliers et assimilés nécessaires aux armées ;
 
 2° De la définition, de la réalisation, de la gestion et du soutien des matériels pétroliers ;
 
