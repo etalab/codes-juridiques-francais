@@ -6,7 +6,7 @@ L'ouverture d'un tel compte intervient après remise auprès de l'établissement
 
 L'Association française des établissements de crédit et des entreprises d'investissement, mentionnée à l'article L. 511-29, adopte une charte d'accessibilité bancaire afin de renforcer l'effectivité du droit au compte. Cette charte précise les délais et les modalités de transmission, par les établissements de crédit à la Banque de France, des informations requises pour l'ouverture d'un compte. Elle définit les documents d'information que les établissements de crédit doivent mettre à disposition de la clientèle et les actions de formation qu'ils doivent réaliser.
 
-La charte d'accessibilité bancaire, homologuée par arrêté du ministre chargé de l'économie, après avis du comité consultatif du secteur financier et du comité consultatif de la législation et de la réglementation financières, est applicable à tout établissement de crédit. Le contrôle du respect de la charte est assuré par l'Autorité de contrôle prudentiel et relève de la procédure prévue à l'article L. 612-34.
+La charte d'accessibilité bancaire, homologuée par arrêté du ministre chargé de l'économie, après avis du comité consultatif du secteur financier et du comité consultatif de la législation et de la réglementation financières, est applicable à tout établissement de crédit. Le contrôle du respect de la charte est assuré par l'Autorité de contrôle prudentiel et relève de la procédure prévue à l'article L. 612-31.
 
 Les établissements de crédit ne peuvent limiter les services liés à l'ouverture d'un compte de dépôt aux services bancaires de base que dans des conditions définies par décret.
 

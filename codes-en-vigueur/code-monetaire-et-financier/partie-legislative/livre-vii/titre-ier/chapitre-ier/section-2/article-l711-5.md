@@ -1,6 +1,6 @@
 # Article L711-5
 
-I. - L'Institut d'émission des départements d'outre-mer est administré par un conseil de surveillance composé de sept membres :
+I.-L'Institut d'émission des départements d'outre-mer est administré par un conseil de surveillance composé de sept membres :
 
 1° Le gouverneur de la Banque de France ou son représentant, président ;
 
@@ -16,7 +16,7 @@ En cas de partage égal des voix lors des délibérations, la voix du président
 
 Les statuts de l'institut fixent les conditions dans lesquelles, en cas d'urgence constatée par le président, le conseil de surveillance peut délibérer par voie de consultation écrite.
 
-II. - Il est créé au sein de l'Institut d'émission des départements d'outre-mer un comité économique consultatif chargé d'étudier les questions relatives à la conjoncture et au développement économiques des départements et collectivités d'outre-mer situés dans le champ d'intervention de l'institut. Le comité peut faire appel aux services de l'institut pour la réalisation de ses travaux.
+II.-Il est créé au sein de l'Institut d'émission des départements d'outre-mer un comité économique consultatif chargé d'étudier les questions relatives à la conjoncture et au développement économiques des départements et collectivités d'outre-mer situés dans le champ d'intervention de l'institut. Le comité peut faire appel aux services de l'institut pour la réalisation de ses travaux.
 
 Le comité économique consultatif se réunit au moins une fois l'an.
 
@@ -31,3 +31,7 @@ Le comité économique consultatif est composé de douze membres :
 4° Les deux représentants de l'Etat mentionnés au 4° du I.
 
 Un suppléant peut être désigné dans les mêmes formes que le titulaire pour les membres autres que le président.
+
+III.-Il est créé au sein de l'Institut d'émission des départements d'outre-mer un observatoire des tarifs bancaires chargé d'étudier les questions relatives aux tarifs bancaires pratiqués dans les collectivités mentionnées à l'article L. 711-1. Il publie périodiquement des relevés portant sur l'évolution des tarifs et les différences constatées entre les établissements.
+
+Il établit chaque année un rapport d'activité remis au ministre chargé de l'économie, qui est transmis au Parlement.

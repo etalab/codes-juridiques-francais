@@ -1,6 +1,6 @@
 # Article L233-7
 
-I.-Lorsque les actions d'une société ayant son siège sur le territoire de la République sont admises aux négociations sur un marché réglementé d'un Etat partie à l'accord sur l'Espace économique européen ou sur un marché d'instruments financiers admettant aux négociations des actions pouvant être inscrites en compte chez un intermédiaire mentionné à l'article L. 211-3 du code monétaire et financier, toute personne physique ou morale agissant seule ou de concert qui vient à posséder un nombre d'actions représentant plus du vingtième, du dixième, des trois vingtièmes, du cinquième, du quart, du tiers, de la moitié, des deux tiers, des dix-huit vingtièmes ou des dix-neuf vingtièmes du capital ou des droits de vote informe la société dans un délai fixé par décret en Conseil d'Etat, à compter du franchissement du seuil de participation, du nombre total d'actions ou de droits de vote qu'elle possède.
+I.-Lorsque les actions d'une société ayant son siège sur le territoire de la République sont admises aux négociations sur un marché réglementé d'un Etat partie à l'accord sur l'Espace économique européen ou sur un marché d'instruments financiers admettant aux négociations des actions pouvant être inscrites en compte chez un intermédiaire mentionné à l'article L. 211-3 du code monétaire et financier, toute personne physique ou morale agissant seule ou de concert qui vient à posséder un nombre d'actions représentant plus du vingtième, du dixième, des trois vingtièmes, du cinquième, du quart, des trois dixièmes (1), du tiers, de la moitié, des deux tiers, des dix-huit vingtièmes ou des dix-neuf vingtièmes du capital ou des droits de vote informe la société dans un délai fixé par décret en Conseil d'Etat, à compter du franchissement du seuil de participation, du nombre total d'actions ou de droits de vote qu'elle possède.
 
 L'information mentionnée à l'alinéa précédent est également donnée dans les mêmes délais lorsque la participation en capital ou en droits de vote devient inférieure aux seuils mentionnés par cet alinéa.
 
@@ -8,9 +8,9 @@ La personne tenue à l'information prévue au premier alinéa précise en outre 
 
 a) Le nombre de titres qu'elle possède donnant accès à terme aux actions à émettre et les droits de vote qui y seront attachés ;
 
-b) Les actions déjà émises que cette personne peut acquérir, en vertu d'un accord ou d'un instrument financier mentionné à l' article L. 211-1 du code monétaire et financier , sans préjudice des dispositions du 4° du I de l'article L. 233-9 du présent code. Il en est de même pour les droits de vote que cette personne peut acquérir dans les mêmes conditions ;
+b) Les actions déjà émises que cette personne peut acquérir, en vertu d'un accord ou d'un instrument financier mentionné à l'article L. 211-1 du code monétaire et financier, sans préjudice des dispositions du 4° du I de l'article L. 233-9 du présent code. Il en est de même pour les droits de vote que cette personne peut acquérir dans les mêmes conditions ;
 
-c) Les actions déjà émises sur lesquelles porte tout accord ou instrument financier mentionné à l' article L. 211-1 du code monétaire et financier , réglé exclusivement en espèces et ayant pour cette personne un effet économique similaire à la possession desdites actions. Il en va de même pour les droits de vote sur lesquels porte dans les mêmes conditions tout accord ou instrument financier (1).
+c) Les actions déjà émises sur lesquelles porte tout accord ou instrument financier mentionné à l'article L. 211-1 du code monétaire et financier, réglé exclusivement en espèces et ayant pour cette personne un effet économique similaire à la possession desdites actions. Il en va de même pour les droits de vote sur lesquels porte dans les mêmes conditions tout accord ou instrument financier.
 
 II.-La personne tenue à l'information mentionnée au I informe également l'Autorité des marchés financiers, dans un délai et selon des modalités fixés par son règlement général, à compter du franchissement du seuil de participation, lorsque les actions de la société sont admises aux négociations sur un marché réglementé ou sur un marché d'instruments financiers autre qu'un marché réglementé, à la demande de la personne qui gère ce marché d'instruments financiers. Dans ce dernier cas, l'information peut ne porter que sur une partie des seuils mentionnés au I, dans les conditions fixées par le règlement général de l'Autorité des marchés financiers. Cette information est portée à la connaissance du public dans les conditions fixées par le règlement général de l'Autorité des marchés financiers.
 
@@ -18,7 +18,7 @@ Le règlement général précise également les modalités de calcul des seuils 
 
 III.-Les statuts de la société peuvent prévoir une obligation supplémentaire d'information portant sur la détention de fractions du capital ou des droits de vote inférieures à celle du vingtième mentionnée au I.L'obligation porte sur la détention de chacune de ces fractions, qui ne peuvent être inférieures à 0, 5 % du capital ou des droits de vote.
 
-IV.-Les obligations d'information prévues aux I, II et III ne s'appliquent pas aux actions :
+IV.-Les obligations d'information prévues aux I, II et III du présent article ainsi que l'obligation d'information prévue au I de l'article L. 225-126 ne s'appliquent pas aux actions :
 
 1° Acquises aux seules fins de la compensation, du règlement ou de la livraison d'instruments financiers, dans le cadre habituel du cycle de règlement à court terme défini par le règlement général de l'Autorité des marchés financiers ;
 

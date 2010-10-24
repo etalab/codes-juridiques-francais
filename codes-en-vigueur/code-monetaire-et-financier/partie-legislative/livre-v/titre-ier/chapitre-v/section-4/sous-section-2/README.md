@@ -5,4 +5,6 @@
 - [Article L515-16](article-l515-16.md)
 - [Article L515-16-1](article-l515-16-1.md)
 - [Article L515-17](article-l515-17.md)
+- [Article L515-17-1](article-l515-17-1.md)
+- [Article L515-17-2](article-l515-17-2.md)
 - [Article L515-18](article-l515-18.md)

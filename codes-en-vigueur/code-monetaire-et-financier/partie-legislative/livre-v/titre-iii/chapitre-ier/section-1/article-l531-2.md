@@ -10,7 +10,7 @@ c) L'Institut d'émission des départements d'outre-mer et l'Institut d'émissio
 
 2° a) Les entreprises d'assurance et de réassurance régies par le code des assurances ;
 
-b) Les organismes de placement collectif mentionnés à l'article L. 214-1, ainsi que les sociétés chargées de la gestion des organismes de placement collectif mentionnés aux 2, 3 et 4 du I de l'article L. 214-1 ;
+b) Les organismes de placement collectif mentionnés à l'article L. 214-1, ainsi que les sociétés chargées de la gestion des organismes de placement collectif mentionnés aux 2,3 et 4 du I de l'article L. 214-1 ;
 
 c) Les institutions de retraites professionnelles mentionnées à l'article L. 370-1 du code des assurances pour leurs opérations mentionnées à l'article L. 370-2 du même code, ainsi que les personnes morales administrant une institution de retraite professionnelle mentionnée à l'article 8 de l'ordonnance n° 2006-344 du 23 mars 2006 relative aux retraites professionnelles supplémentaires ;
 
@@ -22,7 +22,7 @@ f) Les entreprises dont les activités se limitent à celles mentionnées aux d 
 
 g) Les personnes qui fournissent les services de conseil en investissement ou de réception et de transmission d'ordres pour le compte de tiers, de manière accessoire et dans le cadre d'une activité professionnelle non financière ou d'une activité d'expert-comptable, dans la mesure où celle-ci est régie par des dispositions législatives ou réglementaires ou par un code de déontologie approuvé par une autorité publique qui ne l'interdisent pas formellement ;
 
-h) Les personnes dont l'activité est régie par le chapitre Ier du titre IV du livre III à la condition qu'elles soient mandatées, conformément à l'article L. 341-4, par des personnes habilitées à fournir les mêmes services d'investissement ;
+h) (abrogé)
 
 i) Les personnes qui ne fournissent aucun autre service d'investissement que la négociation pour compte propre, à moins qu'elles ne soient teneurs de marché ou qu'elles ne négocient pour compte propre de façon organisée, fréquente et systématique en dehors d'un marché réglementé ou d'un système multilatéral de négociation, en fournissant un service accessible à des tiers afin d'entrer en négociation avec eux. Au sens du présent alinéa, un teneur de marché est une personne qui est présente de manière continue sur les marchés financiers pour négocier pour son propre compte et qui se porte acheteuse et vendeuse d'instruments financiers en engageant ses propres capitaux, à des prix fixés par elle ;
 

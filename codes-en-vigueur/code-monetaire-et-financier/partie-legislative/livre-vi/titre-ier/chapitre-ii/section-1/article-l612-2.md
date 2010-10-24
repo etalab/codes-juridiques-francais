@@ -32,7 +32,7 @@ Aux fins du contrôle des personnes mentionnées au 3°, l'Autorité peut sollic
 
 B. - Dans le secteur de l'assurance :
 
-1° Les entreprises exerçant une activité d'assurance directe mentionnées à l'article L. 310-1 du code des assurances ;
+1° Les entreprises exerçant une activité d'assurance directe mentionnées à l'article L. 310-1 du code des assurances et les entreprises mentionnées au dernier alinéa du même article  ;
 
 2° Les entreprises exerçant une activité de réassurance dont le siège social est situé en France ;
 
@@ -50,7 +50,7 @@ B. - Dans le secteur de l'assurance :
 
 II. - L'Autorité peut soumettre à son contrôle :
 
-1° Toute personne ayant reçu d'une entreprise pratiquant des opérations d'assurance un mandat de souscription ou de gestion ou souscrivant à un contrat d'assurance de groupe, ou exerçant, à quelque titre que ce soit, une activité d'intermédiation en assurance ou en réassurance mentionnée à l'article L. 511-1 du code des assurances ;
+1° Toute personne ayant reçu d'un organisme  pratiquant des opérations d'assurance un mandat de souscription ou de gestion ou souscrivant à un contrat d'assurance de groupe, ou exerçant, à quelque titre que ce soit, une activité d'intermédiation en assurance ou en réassurance mentionnée à l'article L. 511-1 du code des assurances ;
 
 2° Toute personne qui s'entremet, directement ou indirectement, entre un organisme mentionné au 3° ou au 4° du B et une personne qui souhaite adhérer ou adhère à cet organisme ;
 

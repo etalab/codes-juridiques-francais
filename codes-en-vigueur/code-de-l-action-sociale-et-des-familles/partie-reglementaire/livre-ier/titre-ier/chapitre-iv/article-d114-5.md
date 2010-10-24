@@ -1,6 +1,6 @@
 # Article D114-5
 
-L' Observatoire national sur la formation, la recherche et l'innovation sur le handicap est doté d'un conseil d'orientation composé des membres suivants :
+L'Observatoire national sur la formation, la recherche et l'innovation sur le handicap est doté d'un conseil d'orientation composé des membres suivants :
 
 a) Un président ;
 
@@ -28,7 +28,7 @@ l) Le directeur de l'Agence nationale de la recherche ;
 
 m) Le directeur général de l'Institut national de recherche sur les transports et leur sécurité ;
 
-n) Le président d'OSEO Anvar ;
+n) Le président de la société anonyme OSEO ;
 
 o) Le président du Centre scientifique et technique du bâtiment ;
 

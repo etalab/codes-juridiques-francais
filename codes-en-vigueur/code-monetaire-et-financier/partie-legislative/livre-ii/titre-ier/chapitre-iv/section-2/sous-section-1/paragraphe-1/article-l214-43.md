@@ -4,6 +4,8 @@ L'organisme de titrisation peut comporter deux ou plusieurs compartiments si les
 
 Les conditions dans lesquelles l'organisme ou, le cas échéant, les compartiments de l'organisme peuvent emprunter et conclure des contrats constituant des instruments financiers à terme sont fixées par décret en Conseil d'Etat. Ce décret fixe également les règles que respecte la composition de l'actif de l'organisme.
 
+Pour la réalisation de son objet, un organisme de titrisation peut détenir, à titre accessoire, des titres de capital reçus par conversion, échange ou remboursement de titres de créances ou de titres donnant accès au capital.
+
 Les parts ou actions et les titres de créances émis par l'organisme peuvent donner lieu à des droits différents sur le capital et les intérêts. Le règlement ou les statuts de l'organisme et tout contrat conclu pour le compte de l'organisme peuvent stipuler que les droits de certains créanciers sont subordonnés aux droits d'autres créanciers de l'organisme. Les règles d'affectation des sommes reçues par l'organisme s'imposent aux porteurs de parts, aux actionnaires, aux détenteurs de titres de créances ainsi qu'aux créanciers les ayant acceptées. Elles sont applicables même en cas de liquidation de l'organisme.
 
 Les actifs de l'organisme de titrisation ne peuvent faire l'objet de mesures civiles d'exécution que dans le respect des règles d'affectation définies par le règlement ou les statuts de l'organisme.

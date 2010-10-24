@@ -1,6 +1,6 @@
 # Article L214-39
 
-Le règlement du fonds constitué en vue de gérer les sommes investies en application de l'article L. 225-187 du code de commerce (1) et du titre IV du livre IV du code du travail relatif à l'intéressement et à la participation des salariés prévoit l'institution d'un conseil de surveillance et les cas où la société de gestion doit recueillir l'avis de ce conseil.
+Le règlement du fonds constitué en vue de gérer les sommes investies en application du titre III du livre III de la troisième partie du code du travail relatif aux plans d'épargne salariale prévoit l'institution d'un conseil de surveillance et les cas où la société de gestion doit recueillir l'avis de ce conseil.
 
 Le conseil de surveillance est composé de salariés représentant les porteurs de parts, eux-mêmes porteurs de parts et, pour moitié au plus, de représentants de l'entreprise. Lorsque le fonds réunit les valeurs acquises avec des sommes provenant de réserves de participation ou versées dans des plans d'épargne d'entreprise constitués dans plusieurs entreprises, le règlement détermine, dans des conditions fixées par décret, les modalités de représentation des entreprises dans le conseil de surveillance et de désignation de leurs représentants.
 
@@ -28,10 +28,12 @@ Le règlement précise, le cas échéant, les considérations sociales, environn
 
 Lorsque l'entreprise est régie par les dispositions de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, le fonds commun de placement d'entreprise peut investir dans les titres de capital qu'elle émet, sans préjudice des dispositions spécifiques qui régissent, le cas échéant, la souscription de ces titres par les salariés et dans les conditions fixées par décret.
 
-Les dispositions du présent article sont également applicables aux fonds solidaires qui peuvent être souscrits dans le cadre du plan d'épargne pour la retraite collectif mentionné à l'article L. 3334-1 à L. 3334-9 et L. 3334-11 à L. 3334-16 du même code.L'actif de ces fonds solidaires est composé :
+Le présent article est également applicable aux fonds solidaires qui peuvent être souscrits dans le cadre d'un plan d'épargne salariale mentionné au titre III du livre III de la troisième partie du même code. L'actif de ces fonds solidaires est composé :
 
-a) Pour une part, comprise entre 5 et 10 %, de titres émis par des entreprises solidaires agréées en application de l'article L. 443-3-2 du code du travail ou par des sociétés de capital-risque visées à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier ou par des fonds communs de placements à risques, visés à l'article L. 214-36, sous réserve que leur actif soit composé d'au moins 40 % de titres émis par des entreprises solidaires mentionnées à l'article L. 443-3-2 du code du travail ;
+a) Pour une part, comprise entre 5 et 10 %, de titres émis par des entreprises solidaires agréées en application de l'article L. 3332-17-1 du code du travail ou par des sociétés de capital-risque visées à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier ou par des fonds communs de placements à risques, visés à l'article L. 214-36, sous réserve que leur actif soit composé d'au moins 40 % de titres émis par des entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du travail ;
 
 b) Pour le surplus, de titres financiers admis aux négociations sur un marché réglementé, de parts d'organismes de placement collectif en valeurs mobilières investies dans ces mêmes titres et, à titre accessoire, de liquidités.
+
+L'actif des fonds solidaires peut, dans les conditions fixées à l'article L. 214-34 du présent code, être investi en actions ou parts d'un seul organisme de placement collectif en valeurs mobilières respectant la composition des fonds solidaires.
 
 Les fonds qui peuvent être souscrits dans le cadre d'un plan d'épargne pour la retraite collectif ne peuvent détenir plus de 5 % de titres non admis aux négociations sur un marché réglementé, sans préjudice des dispositions du a, ou plus de 5 % de titres de l'entreprise qui a mis en place le plan ou de sociétés qui lui sont liées au sens de l'article L. 3344-1 et L. 3344-2 du code du travail. Cette limitation ne s'applique pas aux parts et actions d'organismes de placement collectif en valeurs mobilières détenues par le fonds.
