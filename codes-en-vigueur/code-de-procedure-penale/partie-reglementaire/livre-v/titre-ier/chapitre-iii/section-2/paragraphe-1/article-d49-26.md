@@ -22,7 +22,9 @@ Pour l'application des dispositions de l'article R. 69, un extrait de l'ordonnan
 
 10° La conversion d'un emprisonnement avec sursis assorti de l'obligation d'accomplir un travail d'intérêt général en peine de jours-amende ;
 
-11° La conversion d'une peine de travail d'intérêt général en peine de jours-amende.
+11° La conversion d'une peine de travail d'intérêt général en peine de jours-amende ;
+
+12° Le relèvement d'une interdiction en application de l'article 712-22.
 
 Dans les trois derniers cas, un relevé ou un extrait de la décision est également adressé, selon les mêmes modalités, au comptable principal du Trésor.
 
