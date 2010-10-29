@@ -4,3 +4,4 @@
 - [Paragraphe 2 : Contenu et durée de la surveillance judiciaire](paragraphe-2)
 - [Paragraphe 3 : Retrait des réductions de peines en cas d'inobservation des obligations](paragraphe-3)
 - [Article D147-31](article-d147-31.md)
+- [Article D147-31-1](article-d147-31-1.md)

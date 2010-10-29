@@ -1,6 +1,6 @@
 # Article D147-43
 
-Lorsque le juge de l'application des peines n'a ordonné le retrait que d'une partie des réductions de peine, la surveillance judiciaire s'applique à nouveau à la libération du condamné jusqu'à la date fixée par la décision qui l'avait prononcée. Si cette mesure n'avait pas déjà été ordonnée, le juge de l'application des peines peut, avant cette libération, ordonner que le condamné sera placé sous surveillance électronique mobile.
+Lorsque le juge de l'application des peines n'a ordonné le retrait que d'une partie des réductions de peine, la surveillance judiciaire s'applique à nouveau de plein droit et dans toutes ses obligations, à la libération du condamné jusqu'à la date fixée par la décision qui l'avait prononcée. Si cette mesure n'avait pas déjà été ordonnée, le juge de l'application des peines peut, avant cette libération, ordonner que le condamné sera placé sous surveillance électronique mobile.
 
 Lorsque le juge de l'application des peines a ordonné le retrait de la totalité des réductions de peines, il peut avant l'exécution de l'intégralité de cette nouvelle période de détention, décider d'une nouvelle surveillance judiciaire, le cas échéant avec placement sous surveillance électronique mobile, pour la durée du retrait des réductions de peine qui n'a pas été exécuté. Dans ce cas, il n'est pas nécessaire de procéder à une nouvelle expertise de dangerosité.
 
