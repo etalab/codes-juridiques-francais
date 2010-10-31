@@ -2,4 +2,3 @@
 
 - [Section 1 : Dispositions générales](section-1)
 - [Section 2 : Du contrôle par le juge des mesures recommandées](section-2)
-- [Section 3 : Procédure de rétablissement personnel](section-3)
