@@ -1,4 +1,6 @@
-# Chapitre IV : Dispositions relatives à l'outre-mer
+# Chapitre IV : Les mesures de traitement
 
-- [Section 1 : Dispositions applicables à Mayotte.](section-1)
-- [Section 2 : Dispositions applicables en Nouvelle-Calédonie.](section-2)
+- [Section 1 : Dispositions communes](section-1)
+- [Section 2 : Le plan conventionnel](section-2)
+- [Section 3 : Les mesures de traitement ordinaires](section-3)
+- [Section 4 : Les procédures de rétablissement personnel](section-4)
