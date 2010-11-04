@@ -2,6 +2,7 @@
 
 - [Chapitre Ier : Haut Conseil de la famille](chapitre-ier)
 - [Chapitre Ier bis : Conseil pour les droits et devoirs des familles](chapitre-ier-bis)
+- [Chapitre Ier ter : Comité national de soutien à la parentalité](chapitre-ier-ter)
 - [Chapitre II : Conseil supérieur du travail social](chapitre-ii)
 - [Chapitre III : Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale](chapitre-iii)
 - [Chapitre IV : Observatoire national de la pauvreté et de l'exclusion sociale](chapitre-iv)
