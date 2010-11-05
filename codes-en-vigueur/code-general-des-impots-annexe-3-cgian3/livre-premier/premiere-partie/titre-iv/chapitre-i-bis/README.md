@@ -7,4 +7,5 @@
 - [Article 299 sexies](article-299-sexies.md)
 - [Article 299 septies](article-299-septies.md)
 - [Article 299 octies](article-299-octies.md)
+- [Article 299 octies A](article-299-octies-a.md)
 - [Article 299 nonies](article-299-nonies.md)

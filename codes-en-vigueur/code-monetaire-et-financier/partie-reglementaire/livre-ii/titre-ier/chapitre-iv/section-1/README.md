@@ -14,4 +14,5 @@
 - [Sous-section 12 : Fonds communs de placement dans l'innovation.](sous-section-12)
 - [Sous-section 13 : Fonds d'investissement de proximité.](sous-section-13)
 - [Sous-section 14 : Fonds communs d'intervention sur les marchés à terme.](sous-section-14)
+- [Sous-section 15 : Frais et commissions de gestion et de commercialisation supportés par les souscripteurs aux parts de fonds communs de placement mentionnés au 1 du III de l'article 885-0 V bis du code général des impôts](sous-section-15)
 - [Article D214-1](article-d214-1.md)
