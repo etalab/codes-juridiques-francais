@@ -5,3 +5,5 @@ Les agents commerciaux se font immatriculer, avant de commencer l'exercice de le
 Par dérogation aux dispositions de l'alinéa précédent, dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle le registre spécial d'immatriculation des agents commerciaux est tenu pour l'étendue du ressort de chaque tribunal de grande instance au greffe des tribunaux d'instance de Colmar, Metz, Mulhouse, Sarreguemines, Saverne, Strasbourg et Thionville.
 
 Tout fait de nature à modifier l'une des mentions figurant à la déclaration d'immatriculation fait l'objet d'une déclaration.
+
+L'obligation de déclaration prévue au premier alinéa n'est pas applicable aux agents commerciaux qui, étant domiciliés à l'étranger et ne disposant en France d'aucun établissement, n'exercent que de façon temporaire et occasionnelle leur activité sur le territoire national.
