@@ -1,6 +1,7 @@
 # Chapitre V : Les produits de la vigne
 
 - [Section 1 : Gestion du potentiel de production viticole](section-1)
+- [Section 2 : Agrément des opérateurs et certification des vins ne bénéficiant pas d'une appellation d'origine protégée ou d'une indication géographique protégée et portant une mention de cépage ou de millésime](section-2)
 - [Article D665-17](article-d665-17.md)
 - [Article R665-1](article-r665-1.md)
 - [Article R665-2](article-r665-2.md)
