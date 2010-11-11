@@ -4,7 +4,7 @@ L'employeur prend les mesures nécessaires pour assurer la sécurité et protég
 
 Ces mesures comprennent :
 
-1° Des actions de prévention des risques professionnels ;
+1° Des actions de prévention des risques professionnels et de la pénibilité au travail  ;
 
 2° Des actions d'information et de formation ;
 

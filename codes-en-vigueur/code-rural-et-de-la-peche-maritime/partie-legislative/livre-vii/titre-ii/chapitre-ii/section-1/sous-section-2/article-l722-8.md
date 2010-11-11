@@ -6,6 +6,6 @@ Le régime de protection sociale des personnes non salariées des professions ag
 
 2° L'assurance maladie, invalidité et maternité ;
 
-3° L'assurance veillesse ;
+3° L'assurance vieillesse et veuvage ;
 
 4° L'assurance contre les accidents du travail et les maladies professionnelles.

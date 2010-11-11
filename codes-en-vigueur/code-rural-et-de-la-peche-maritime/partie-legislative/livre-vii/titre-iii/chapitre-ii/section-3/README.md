@@ -1,4 +1,4 @@
-# Section 3 : Assurance vieillesse
+# Section 3 : Assurance vieillesse et assurance veuvage
 
 - [Sous-section 1 : Assurance vieillesse](sous-section-1)
 - [Sous-section 2 : Paiement des pensions.](sous-section-2)
