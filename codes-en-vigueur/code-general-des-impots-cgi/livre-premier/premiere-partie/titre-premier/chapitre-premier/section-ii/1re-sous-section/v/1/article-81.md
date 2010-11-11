@@ -82,7 +82,7 @@ f. l'avantage résultant pour le bénévole de la contribution de l'association 
 
 18° a) Les sommes versées par l'entreprise en application de plans d'épargne constitués conformément aux dispositions du titre III du livre III de la troisième partie du code du travail ;
 
-b) Les sommes versées par le salarié pour alimenter un plan d'épargne pour la retraite collectif dans les conditions du dernier alinéa de l'article L. 3153-3 du code du travail ;
+b) Les sommes versées par le salarié pour alimenter un plan d'épargne pour la retraite collectif dans les conditions du dernier alinéa de l'article L. 3153-3 du code du travail  ou du deuxième alinéa de l'article L. 3334-8 du même code ;
 
 18° bis Dans la limite d'un montant égal à la moitié du plafond annuel moyen retenu pour le calcul des cotisations de sécurité sociale, les sommes reçues au titre de l'intéressement et affectées à la réalisation de plans d'épargne constitués conformément au titre III du livre III de la troisième partie du code du travail.
 
