@@ -13,3 +13,5 @@
 - [Article R331-30](article-r331-30.md)
 - [Article R331-31](article-r331-31.md)
 - [Article R331-32](article-r331-32.md)
+- [Article R331-32-1](article-r331-32-1.md)
+- [Article R331-32-2](article-r331-32-2.md)
