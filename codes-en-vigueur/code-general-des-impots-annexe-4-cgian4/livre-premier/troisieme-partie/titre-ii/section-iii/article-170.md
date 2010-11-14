@@ -22,7 +22,7 @@ les chambres de commerce et d'industrie et ports autonomes ;
 
 les chambres d'agriculture ;
 
-les chambres de métiers et de l'artisanat ;
+les       chambres de métiers et de l'artisanat de région ;
 
 le comité national interprofessionnel des viandes ;
 
@@ -36,7 +36,7 @@ l'office national des anciens combattants et victimes de guerre ;
 
 voies navigables de France ;
 
-l'     établissement national des produits de l'agriculture et de la mer (FranceAgriMer) ;
+l'établissement national des produits de l'agriculture et de la mer (FranceAgriMer) ;
 
 les offices publics de l'habitat ;
 

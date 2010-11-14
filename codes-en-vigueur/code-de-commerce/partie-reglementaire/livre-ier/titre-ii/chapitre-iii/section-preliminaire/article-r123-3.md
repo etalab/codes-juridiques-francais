@@ -6,7 +6,7 @@ a) Les commerçants ;
 
 b) Les sociétés commerciales.
 
-2° Les chambres de métiers et de l'artisanat créent et gèrent les centres compétents pour les personnes physiques et les sociétés assujetties à l'immatriculation au répertoire des métiers et pour les personnes physiques bénéficiant de la dispense d'immatriculation prévue au V de l'article 19 de la loi n° 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat, à l'exclusion des personnes mentionnées au 3° du présent article.
+2° Les       chambres de métiers et de l'artisanat de région créent et gèrent les centres compétents pour les personnes physiques et les sociétés assujetties à l'immatriculation au répertoire des métiers et pour les personnes physiques bénéficiant de la dispense d'immatriculation prévue au V de l'article 19 de la loi n° 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat, à l'exclusion des personnes mentionnées au 3° du présent article.
 
 3° La chambre nationale de la batellerie artisanale crée et gère le centre compétent pour les personnes physiques et les sociétés assujetties à l'immatriculation au registre des entreprises de la batellerie artisanale.
 
@@ -16,7 +16,7 @@ a) Les sociétés civiles et autres que commerciales ;
 
 b) Les sociétés d'exercice libéral ;
 
-c) Les personnes morales assujetties à l'immatriculation au registre du commerce et des sociétés autres que celles mentionnées aux 1°, 2° et 3° ;
+c) Les personnes morales assujetties à l'immatriculation au registre du commerce et des sociétés autres que celles mentionnées aux 1°,2° et 3° ;
 
 d) Les établissements publics industriels et commerciaux ;
 

@@ -24,7 +24,7 @@ I.-Les établissements publics nationaux dont le jugement des comptes et l'exame
 
 11° Les chambres de commerce et d'industrie et leurs groupements ;
 
-12° Les chambres de métiers et de l'artisanat et leurs groupements ;
+12° Les       chambres de métiers et de l'artisanat de région et leurs groupements ;
 
 13° Les chambres d'agriculture et leurs groupements ;
 

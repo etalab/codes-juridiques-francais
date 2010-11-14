@@ -6,7 +6,7 @@ Le directeur général de la cohésion sociale du ministère chargé des affaire
 
 2° Le directeur en charge du tourisme du ministère de l'économie ;
 
-3° Les chambres de métiers et de l'artisanat et les chambres régionales du commerce et de l'industrie ;
+3° Les       chambres de métiers et de l'artisanat de région et les chambres régionales du commerce et de l'industrie ;
 
 4° Le directeur en charge de la sécurité et de la circulation routières, le secrétaire général et le directeur en charge des affaires économiques et internationales, le directeur général de la mer et des transports, le directeur général en charge de l'aviation civile, le directeur général en charge de l'urbanisme, de l'habitat et de la construction du ministère de l'écologie et du développement durable ;
 

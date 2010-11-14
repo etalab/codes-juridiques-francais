@@ -26,7 +26,7 @@ h) Les date et lieu de naissance des déclarants personnes physiques ;
 
 a) Les nom, nom d'usage, prénoms et pseudonyme du déclarant pour les personnes physiques, la dénomination ou la raison sociale pour les personnes morales ;
 
-b) Le numéro unique d'identification de l'entreprise et, le cas échéant, le nom de la ville où se trouve le greffe où elle est immatriculée, ou la chambre de métiers et de l'artisanat où elle est inscrite au répertoire des métiers ;
+b) Le numéro unique d'identification de l'entreprise et, le cas échéant, le nom de la ville où se trouve le greffe où elle est immatriculée, ou la       chambre de métiers et de l'artisanat de région  où elle est inscrite au répertoire des métiers ;
 
 c) L'objet de la formalité, ainsi que la date d'effet de l'événement la justifiant.
 

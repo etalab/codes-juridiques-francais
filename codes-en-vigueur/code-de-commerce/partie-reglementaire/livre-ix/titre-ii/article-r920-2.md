@@ -24,4 +24,4 @@ Pour l'application du présent code à Mayotte, les termes énumérés ci-après
 
 11° " chambre d'agriculture " par " chambre d'agriculture, de la pêche, et de l'aquaculture de Mayotte " ;
 
-12° " chambre des métiers et de l'artisanat " par " chambre de métiers et de l'artisanat de Mayotte ".
+12° " chambre des métiers et de l'artisanat " par "       chambre de métiers et de l'artisanat de région  de Mayotte ".
