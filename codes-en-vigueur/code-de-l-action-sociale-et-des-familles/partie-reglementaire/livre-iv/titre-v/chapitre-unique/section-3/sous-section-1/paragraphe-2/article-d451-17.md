@@ -1,7 +1,7 @@
 # Article D451-17
 
-Le diplôme supérieur en travail social atteste les compétences acquises dans les domaines de la connaissance et de l'expertise des politiques sociales, de la conception, de la mise en oeuvre et de l'évaluation de projets d'intervention sociale, de la direction et de la gestion de services et de l'encadrement d'équipes, de la méthodologie de recherche.
+Le diplôme d'Etat d'ingénierie sociale atteste des compétences nécessaires pour exercer des fonctions d'expertise, de conseil, de conception, de développement et d'évaluation appliquées aux domaines des politiques sociales et de l'intervention sociale.
 
-La formation au diplôme supérieur en travail social s'effectue dans le cadre de la formation professionnelle continue.
+Il est structuré en domaines de compétences et peut être obtenu par la voie de la formation ou, en tout ou partie, par la validation des acquis de l'expérience.
 
-Ce diplôme est délivré aux candidats ayant réussi les épreuves de l'examen définies par arrêté du ministre chargé des affaires sociales et du ministre chargé de l'enseignement supérieur.
+Il est délivré conjointement par le préfet de région et le recteur.

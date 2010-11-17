@@ -1,4 +1,4 @@
-# Livre IV : Professions et activités d'accueil
+# Livre IV : Professions et activités sociales
 
 - [Titre Ier : Assistants de service social](titre-ier)
 - [Titre II : Assistants maternels et assistants familiaux](titre-ii)
