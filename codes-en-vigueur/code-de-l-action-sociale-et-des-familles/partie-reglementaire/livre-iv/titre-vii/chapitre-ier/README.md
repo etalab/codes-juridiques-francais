@@ -3,6 +3,7 @@
 - [Article D471-1](article-d471-1.md)
 - [Article D471-3](article-d471-3.md)
 - [Article D471-4](article-d471-4.md)
+- [Article D471-6](article-d471-6.md)
 - [Article D471-7](article-d471-7.md)
 - [Article D471-8](article-d471-8.md)
 - [Article D471-10](article-d471-10.md)
