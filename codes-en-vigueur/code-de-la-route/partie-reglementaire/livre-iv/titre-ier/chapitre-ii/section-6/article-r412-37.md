@@ -5,3 +5,5 @@ Les piétons doivent traverser la chaussée en tenant compte de la visibilité a
 Ils sont tenus d'utiliser, lorsqu'il en existe à moins de 50 mètres, les passages prévus à leur intention.
 
 Aux intersections à proximité desquelles n'existe pas de passage prévu à leur intention, les piétons doivent emprunter la partie de la chaussée en prolongement du trottoir.
+
+Les dispositions du présent article ne s'appliquent pas aux aires piétonnes et aux zones de rencontre.

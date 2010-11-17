@@ -6,7 +6,9 @@ Lorsqu'un véhicule paraît exagérément bruyant, le fonctionnaire ou agent peu
 
 Lorsqu'un véhicule paraît ne pas satisfaire aux prescriptions de l'article R. 318-1 et à celles prises pour son application, le fonctionnaire ou agent peut prescrire de le présenter à un service de contrôle.
 
-Dans les cas prévus aux deux précédents alinéas, le conducteur peut être autorisé par le fonctionnaire ou agent verbalisateur à conduire le véhicule dans un établissement de son choix pour y faire procéder aux réparations nécessaires ; en pareil cas, une fiche de circulation provisoire est établie conformément aux prescriptions du II de l'article R. 325-9 et à celles de l'article R. 325-36.
+Lorsqu'un cyclomoteur paraît avoir été équipé d'un dispositif ayant pour effet de permettre de dépasser les limites réglementaires fixées à l'article R. 311-1 en matière de vitesse, de cylindrée ou de puissance maximale du moteur ou avoir fait l'objet d'une transformation à cette fin, l'agent peut prescrire de le présenter à un service de contrôle en vue de vérifier la conformité du véhicule aux dispositions de l'article R. 311-1. Un arrêté du ministre chargé des transports fixe les conditions d'application de ces dispositions.
+
+Dans les cas prévus aux trois précédents alinéas, le conducteur peut être autorisé par le fonctionnaire ou agent verbalisateur à conduire le véhicule dans un établissement de son choix pour y faire procéder aux réparations nécessaires ; en pareil cas, une fiche de circulation provisoire est établie conformément aux prescriptions du II de l'article R. 325-9 et à celles de l'article R. 325-36.
 
 En cas d'infraction, les frais de ces opérations sont à la charge du propriétaire du véhicule.
 

@@ -5,3 +5,5 @@ Hors des intersections, les piétons sont tenus de traverser la chaussée perpen
 Il est interdit aux piétons de circuler sur la chaussée d'une place ou d'une intersection à moins qu'il n'existe un passage prévu à leur intention leur permettant la traversée directe.
 
 Ils doivent contourner la place ou l'intersection en traversant autant de chaussées qu'il est nécessaire.
+
+Les dispositions du présent article ne s'appliquent pas aux aires piétonnes et aux zones de rencontre.
