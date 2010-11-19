@@ -1,8 +1,6 @@
 # Article Annexe III-16 b
 
-CONDITIONS D'ÉVOLUTION EN EXPLORATION
-
-EN PLONGÉE À L'AIR EN MILIEU NATUREL
+CONDITIONS D'ÉVOLUTION EN EXPLORATION EN PLONGÉE À L'AIR EN MILIEU NATUREL
 
 <table>
 <tbody>
@@ -22,7 +20,7 @@ EN PLONGÉE À L'AIR EN MILIEU NATUREL
 <p align="center">Aptitudes minimales des plongeurs encadrés</p>
 </td>
 <td>
-<p align="center">Effectif maximal<br/>de la palanquée (encadrement<br/>non compris)</p>
+<p align="center">Effectif maximal de la palanquée (encadrement non compris)</p>
 </td>
 <td>
 <p align="center">Compétence minimale de l'encadrant</p>
@@ -44,10 +42,10 @@ EN PLONGÉE À L'AIR EN MILIEU NATUREL
 <br/>Débutants<br/>
 </td>
 <td align="center">
-<br/>4<br/>
+<br/>4 (*)<br/>
 </td>
 <td align="center">
-<br/>GP<br/>
+<br/>E1 ou GP<br/>
 </td>
 <td align="center"/>
 <td align="center"/>
@@ -62,10 +60,10 @@ EN PLONGÉE À L'AIR EN MILIEU NATUREL
 <br/>PE-1<br/>
 </td>
 <td align="center">
-<br/>4<br/>
+<br/>4 (*)<br/>
 </td>
 <td align="center">
-<br/>GP<br/>
+<br/>E2 ou GP<br/>
 </td>
 <td align="center">
 <br/>PA-1<br/>
@@ -84,10 +82,10 @@ EN PLONGÉE À L'AIR EN MILIEU NATUREL
 <br/>PE-2<br/>
 </td>
 <td align="center">
-<br/>4<br/>
+<br/>4 (*)<br/>
 </td>
 <td align="center">
-<br/>GP<br/>
+<br/>E2 ou GP<br/>
 </td>
 <td align="center">
 <br/>PA-2<br/>
@@ -106,10 +104,10 @@ EN PLONGÉE À L'AIR EN MILIEU NATUREL
 <br/>PE-3<br/>
 </td>
 <td align="center">
-<br/>4<br/>
+<br/>4 (*)<br/>
 </td>
 <td align="center">
-<br/>GP<br/>
+<br/>E3 ou GP<br/>
 </td>
 <td align="center">
 <br/>PA-3<br/>
@@ -128,7 +126,7 @@ EN PLONGÉE À L'AIR EN MILIEU NATUREL
 <br/>PE-4<br/>
 </td>
 <td align="center">
-<br/>2<br/>
+<br/>3 (*)<br/>
 </td>
 <td align="center">
 <br/>E 4<br/>
@@ -137,7 +135,13 @@ EN PLONGÉE À L'AIR EN MILIEU NATUREL
 <br/>PA-4<br/>
 </td>
 <td align="center">
-<br/>3<br/>
+<br/>3 <br/>
+</td>
+</tr>
+<tr>
+<td colspan="6">
+<p align="left">
+<br/>(*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au minimum titulaire d'une qualification de GP.</p>
 </td>
 </tr>
 </tbody>
