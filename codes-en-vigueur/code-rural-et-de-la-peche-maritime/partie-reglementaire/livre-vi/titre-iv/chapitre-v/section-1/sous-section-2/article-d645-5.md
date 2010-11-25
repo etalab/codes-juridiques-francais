@@ -1,4 +1,4 @@
-# Article D644-23
+# Article D645-5
 
 I. ― L'irrigation des vignes aptes à la production de vins à appellation d'origine contrôlée est interdite du 1er mai à la récolte.
 

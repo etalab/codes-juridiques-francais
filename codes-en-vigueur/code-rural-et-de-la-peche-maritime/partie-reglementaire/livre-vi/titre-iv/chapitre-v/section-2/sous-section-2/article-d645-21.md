@@ -1,4 +1,4 @@
-# Article D644-39
+# Article D645-21
 
 I. ― Lorsque, pour une même parcelle de vigne, plusieurs appellations d'origine sont susceptibles d'être revendiquées, cette parcelle ne peut faire l'objet que d'une seule déclaration préalable d'affectation parcellaire.
 

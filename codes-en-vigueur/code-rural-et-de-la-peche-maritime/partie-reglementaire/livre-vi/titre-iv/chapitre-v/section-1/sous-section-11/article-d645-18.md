@@ -1,4 +1,4 @@
-# Article D644-36
+# Article D645-18
 
 I. ― Est considérée comme préparation à la mise à la consommation la préparation du vin en vue de sa vente en vrac au consommateur ou le préemballage dans les quantités nominales obligatoires d'un volume inférieur ou égal à 60 litres.
 

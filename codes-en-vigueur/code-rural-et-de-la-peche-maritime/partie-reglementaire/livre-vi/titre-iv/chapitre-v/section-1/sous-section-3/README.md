@@ -1,3 +1,3 @@
 # Sous-section 3 : Dispositions relatives à la maturité.
 
-- [Article D644-24](article-d644-24.md)
+- [Article D645-6](article-d645-6.md)

@@ -1,3 +1,3 @@
 # Sous-section 12 : Obligations déclaratives.
 
-- [Article D644-37](article-d644-37.md)
+- [Article D645-19](article-d645-19.md)

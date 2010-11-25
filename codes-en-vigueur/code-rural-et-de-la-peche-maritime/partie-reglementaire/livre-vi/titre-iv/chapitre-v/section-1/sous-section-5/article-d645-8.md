@@ -1,4 +1,4 @@
-# Article D644-26
+# Article D645-8
 
 Les raisins obtenus sur les parcelles de jeunes vignes situées à l'intérieur de la zone de production des raisins d'une appellation d'origine contrôlée et répondant aux conditions d'encépagement définies dans le cahier des charges ne peuvent être utilisés pour produire du vin :
 

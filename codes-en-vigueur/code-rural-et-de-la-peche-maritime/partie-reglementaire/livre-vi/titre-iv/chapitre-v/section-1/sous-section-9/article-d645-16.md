@@ -1,4 +1,4 @@
-# Article D644-34
+# Article D645-16
 
 Pour les vins mousseux ou pétillants, les moûts, appelés " rebêches ”, obtenus en fin de pressurage au-delà du volume pouvant être produit dans la limite du rendement maximum au pressoir autorisé sont séparés des moûts pouvant prétendre à l'appellation d'origine contrôlée concernée.
 

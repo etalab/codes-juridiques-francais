@@ -1,4 +1,4 @@
-# Article D644-31
+# Article D645-13
 
 En cas de production ou d'élaboration de vins à partir de moûts ayant fait l'objet d'une concentration partielle, le volume déclaré en récolte totale pour l'appellation d'origine contrôlée concernée s'entend avant élimination du volume d'eau. La mention du volume d'eau éliminée est portée sur la déclaration de récolte.
 

@@ -1,4 +1,4 @@
-# Article D644-42
+# Article D645-24
 
 Pour toute parcelle présentant des pieds de vigne morts ou manquants, le rendement autorisé en application des dispositions du cahier des charges d'une eau-de-vie à appellation d'origine contrôlée et entrant dans le calcul du volume pouvant être revendiqué en appellation d'origine contrôlée est réduit proportionnellement au pourcentage de pieds morts ou manquants.
 

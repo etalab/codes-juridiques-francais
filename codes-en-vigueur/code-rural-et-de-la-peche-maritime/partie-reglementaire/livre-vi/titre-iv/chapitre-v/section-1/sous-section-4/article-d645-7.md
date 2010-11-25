@@ -1,4 +1,4 @@
-# Article D644-25
+# Article D645-7
 
 I. ― Le rendement fixé dans le cahier des charges d'une appellation d'origine contrôlée correspond à la quantité maximale de raisins ou l'équivalent en volume de vin ou de moût récolté par hectare de vigne pour lequel l'appellation peut être revendiquée dans la déclaration de récolte. Il est exprimé soit en kilogrammes de raisins par hectare, soit en hectolitres de moût par hectare, soit en hectolitres de vin par hectare.
 
@@ -20,4 +20,6 @@ b) Un volume substituable individuel, supérieur au rendement déterminé en app
 
 III. ― La modification de rendement et le volume substituable individuel mentionnés au II sont fixés par décision du comité national des vins, eaux-de-vie et autres boissons alcoolisées de l'Institut national de l'origine et de la qualité, prise après avis de l'organisme de défense et de gestion de l'appellation d'origine contrôlée concernée. Cette décision est approuvée par arrêté conjoint des ministres concernés, conformément à l'article R. 642-7.
 
-IV. ― Lorsque l'irrigation des vignes est rendue possible en application de l'article D. 644-23, le rendement ne peut être augmenté.
+IV. - Pour les vins de liqueur d'appellation d'origine contrôlée obtenus par addition d'eaux-de-vie de vin ou de marc de raisins, le cahier des charges peut fixer des rendements exprimés en moût destiné à l'élaboration des vins de l'appellation d'origine contrôlée et en vins de liqueur pouvant bénéficier de l'appellation d'origine contrôlée par hectare de vigne.
+
+V. ― Lorsque l'irrigation des vignes est rendue possible en application de l'article D. 644-23, le rendement ne peut être augmenté.

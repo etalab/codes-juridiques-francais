@@ -1,4 +1,4 @@
-# Article D644-21
+# Article D645-3
 
 I. ― Une parcelle de vigne est présumée être conduite selon les conditions s'appliquant au vignoble prévues dans le cahier des charges de l'appellation d'origine contrôlée à laquelle les vins qui en sont issus peuvent prétendre.
 

@@ -1,4 +1,4 @@
-# Article D644-40
+# Article D645-22
 
 Les quantités produites au-delà du rendement annuel maximum autorisé doivent être livrées et détruites par envoi aux usages industriels avant le 31 juillet de la campagne en cours, sans que l'opérateur ne puisse prétendre à les commercialiser sous forme d'un des produits de la vigne par dans le règlement (CE) n° 479 / 2008 du Conseil du 29 avril 2008 portant organisation commune de marché vitivinicole ni sous une des dénominations de boissons spiritueuses définies par le règlement (CE) n° 110 / 2008 du Parlement européen et du Conseil du 15 janvier 2008 concernant la définition, la désignation, la présentation, l'étiquetage et la protection des indications géographiques des boissons spiritueuses.
 

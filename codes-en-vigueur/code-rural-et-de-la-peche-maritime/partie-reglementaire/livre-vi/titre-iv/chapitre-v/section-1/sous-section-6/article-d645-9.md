@@ -1,4 +1,4 @@
-# Article D644-27
+# Article D645-9
 
 I. ― Il est interdit d'augmenter par adjonction de moût de raisins concentré le titre alcoométrique volumique naturel des raisins frais, du moût de raisins, du môut de raisins partiellement fermenté ou du vin nouveau encore en fermentation, aptes à la production ou à l'élaboration des vins d'appellation d'origine contrôlée.
 
