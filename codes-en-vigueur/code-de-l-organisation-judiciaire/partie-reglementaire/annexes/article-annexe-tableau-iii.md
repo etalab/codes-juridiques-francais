@@ -553,7 +553,7 @@ Liste des maisons de justice et du droit
 <br/>Montpellier <br/>
 </td>
 <td align="center">
-<br/>Lunel, Montpellier (La Paillade).<br/>
+<br/>Lodève, Lunel, Montpellier (La Paillade).<br/>
 </td>
 </tr>
 <tr>
@@ -877,9 +877,7 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
 <br/>Seine-Maritime<br/>
-</p>
 </td>
 </tr>
 <tr>
