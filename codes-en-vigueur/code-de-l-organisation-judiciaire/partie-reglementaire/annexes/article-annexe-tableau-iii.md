@@ -7,12 +7,12 @@ Liste des maisons de justice et du droit
 <table>
 <tbody>
 <tr>
-<th>
-<br/>TRIBUNAUX DE GRANDE INSTANCE<br/>
-</th>
-<th>
-<br/>MAISONS DE JUSTICE ET DU DROIT<br/>
-</th>
+<td>
+<p align="center">TRIBUNAUX DE GRANDE INSTANCE</p>
+</td>
+<td>
+<p align="center">MAISONS DE JUSTICE ET DU DROIT</p>
+</td>
 </tr>
 <tr>
 <td align="center" colspan="2">
@@ -58,9 +58,7 @@ Liste des maisons de justice et du droit
 <td align="center">
 <p align="center">Tarascon</p>
 </td>
-<td align="center">
-<p align="center">Arles</p>
-</td>
+<td align="center">Arles</td>
 </tr>
 <tr>
 <td align="center" colspan="2">
@@ -472,8 +470,20 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center" colspan="2">
-<br/>Cour d'appel de Lyon <p>Loire<br/>
-</p>
+<br/>Cour d'appel de Lyon <p>Ain</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Bourg-en-Bresse</p>
+</td>
+<td>
+<p align="center">Bourg-en-Bresse</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Loire</p>
 </td>
 </tr>
 <tr>
@@ -902,7 +912,9 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center" colspan="2">
-<br/>Cour d'appel de Toulouse <p>Haute-Garonne<br/>
+<p align="center">
+<br/>Cour d'appel de Toulouse </p>
+<p>Haute-Garonne<br/>
 </p>
 </td>
 </tr>
