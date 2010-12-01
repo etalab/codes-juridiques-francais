@@ -1,6 +1,5 @@
 # Chapitre III : Infractions touchant la police intérieure du navire.
 
-- [Article 42](article-42.md)
 - [Article 43](article-43.md)
 - [Article 55](article-55.md)
 - [Article 59](article-59.md)
