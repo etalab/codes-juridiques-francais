@@ -15,3 +15,9 @@ Sous réserve des dispositions du présent article, tout contrat de travail conc
 Les dispositions du présent code ne portent pas atteinte aux stipulations des contrats individuels de travail plus favorables pour les salariés dans la mesure où elles ne sont pas contraires aux dispositions d'ordre public du présent code.
 
 Est nulle ou de nul effet toute clause de juridiction incluse dans un contrat de travail.
+
+Les marins sont également soumis aux dispositions applicables à Mayotte du titre IV du livre V de la cinquième partie du code des transports.
+
+Le personnel navigant aérien est également soumis aux dispositions des chapitres III et V du titre II du livre V de la sixième partie du code des transports.
+
+Le titre Ier du livre III de la première partie du code des transports est également applicable à Mayotte

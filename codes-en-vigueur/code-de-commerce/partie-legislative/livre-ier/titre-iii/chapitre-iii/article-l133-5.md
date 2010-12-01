@@ -1,3 +1,3 @@
 # Article L133-5
 
-Les dispositions contenues dans le présent chapitre sont communes aux transporteurs routiers et aux transporteurs fluviaux.
+Sans préjudice des dispositions prévues par le code des transports, les dispositions contenues dans le présent chapitre sont applicables aux transporteurs routiers, fluviaux et aériens.

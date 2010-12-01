@@ -5,8 +5,6 @@
 - [Article L325-2](article-l325-2.md)
 - [Article L325-3](article-l325-3.md)
 - [Article L325-3-1](article-l325-3-1.md)
-- [Article L325-4](article-l325-4.md)
-- [Article L325-5](article-l325-5.md)
 - [Article L325-6](article-l325-6.md)
 - [Article L325-7](article-l325-7.md)
 - [Article L325-8](article-l325-8.md)

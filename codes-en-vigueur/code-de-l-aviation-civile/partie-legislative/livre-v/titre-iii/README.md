@@ -1,3 +1,0 @@
-# TITRE III : FONDS DE PREVOYANCE DES SPORTS AERIENS.
-
-- [Article L530-1](article-l530-1.md)

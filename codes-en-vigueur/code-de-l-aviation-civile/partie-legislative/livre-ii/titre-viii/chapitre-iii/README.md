@@ -1,3 +1,0 @@
-# CHAPITRE III : CONTROLE SANITAIRE AUX FRONTIERES.
-
-- [Article L283-1](article-l283-1.md)

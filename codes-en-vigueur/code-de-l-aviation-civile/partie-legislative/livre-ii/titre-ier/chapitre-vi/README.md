@@ -1,3 +1,0 @@
-# CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE.
-
-- [Article L216-1](article-l216-1.md)

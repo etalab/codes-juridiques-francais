@@ -5,4 +5,3 @@
 - [Article L410-3](article-l410-3.md)
 - [Article L410-4](article-l410-4.md)
 - [Article L410-5](article-l410-5.md)
-- [Article L410-6](article-l410-6.md)

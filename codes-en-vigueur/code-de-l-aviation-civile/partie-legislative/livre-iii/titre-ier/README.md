@@ -1,3 +1,0 @@
-# TITRE Ier : DISPOSITIONS GENERALES - DEFINITION.
-
-- [Article L310-1](article-l310-1.md)

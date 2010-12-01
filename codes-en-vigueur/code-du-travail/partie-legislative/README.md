@@ -1,4 +1,4 @@
-# Partie législative
+# Partie législative ancienne
 
 - [Chapitre préliminaire : Dialogue social.](chapitre-preliminaire)
 - [Livre Ier : Conventions relatives au travail](livre-ier)

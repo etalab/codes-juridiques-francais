@@ -1,4 +1,4 @@
 # Code du travail
 
-- [Partie législative](partie-legislative)
+- [Partie législative ancienne](partie-legislative)
 - [Partie réglementaire](partie-reglementaire)
