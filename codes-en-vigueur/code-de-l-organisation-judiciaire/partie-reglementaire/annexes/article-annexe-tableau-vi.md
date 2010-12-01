@@ -1,72 +1,126 @@
 # Article Annexe Tableau VI
 
-<div align="left">Siège et ressort des tribunaux de grande instance et des tribunaux de première instance compétents pour connaître des actions en matière de propriété littéraire et artistique, de dessins et modèles, de marques et d'indications géographiques (annexe de l'article D. 211-6-1) </div>
-<div align="left"/>
+<div align="left">Siège et ressort des tribunaux de grande instance et des tribunaux de première instance compétents pour connaître des actions en matière de propriété littéraire et artistique, de dessins et modèles, de marques et d'indications géographiques<br/>(annexe de l'article D. 211-6-1)</div>
+<div/>
 
 <table>
 <tbody>
 <tr>
 <td align="left" valign="top">
-<p align="center">SIÈGE <br/>
+<p align="center">SIÈGE</p>
+</td>
+<td align="left" valign="top">
+<p align="center">RESSORT</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Bordeaux. <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p align="center">RESSORT </p>
+<p>Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. <br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Bordeaux </td>
+<p>Lille. <br/>
+</p>
+</td>
 <td align="left" valign="top">
-<br/>Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. </td>
+<p>Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. <br/>
+</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Lille </td>
+<p>Lyon. <br/>
+</p>
+</td>
 <td align="left" valign="top">
-<br/>Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. </td>
+<p>Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. <br/>
+</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Lyon </td>
+<p>Marseille. <br/>
+</p>
+</td>
 <td align="left" valign="top">
-<br/>Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. </td>
+<p>Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. <br/>
+</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Marseille </td>
+<p>Nanterre. <br/>
+</p>
+</td>
 <td align="left" valign="top">
-<br/>Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. </td>
+<p>Ressort de la cour d'appel de Versailles. <br/>
+</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Nanterre </td>
+<p>Nancy. <br/>
+</p>
+</td>
 <td align="left" valign="top">
-<br/>Ressort de la cour d'appel de Versailles. </td>
+<p>Ressort des cours d'appel de Besançon, Dijon, Metz et Nancy. <br/>
+</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Nancy </td>
+<p>Paris. <br/>
+</p>
+</td>
 <td align="left" valign="top">
-<br/>Ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy. </td>
+<p>Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete, Saint-Denis et des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre. <br/>
+</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Paris </td>
+<p>Rennes. <br/>
+</p>
+</td>
 <td align="left" valign="top">
-<br/>Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete, Saint-Denis et des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre. </td>
+<p>Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. <br/>
+</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Rennes </td>
+<p>Strasbourg. <br/>
+</p>
+</td>
 <td align="left" valign="top">
-<br/>Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. </td>
+<p>Ressort de la cour d'appel de Colmar. <br/>
+</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Fort-de-France </td>
+<p>Fort-de-France. <br/>
+</p>
+</td>
 <td align="left" valign="top">
-<br/>Ressort des cours d'appel de Basse-terre et Fort-de-France.</td>
+<p>Ressort des cours d'appel de Basse-Terre et Fort-de-France.<br/>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
+
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
