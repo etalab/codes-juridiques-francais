@@ -1,7 +1,5 @@
-# Sous-section I : Les débats.
+# Paragraphe 1 : Dispositions générales
 
-- [Paragraphe 1 : Dispositions générales](paragraphe-1)
-- [Paragraphe 2 : Dispositions propres à la procédure orale](paragraphe-2)
 - [Article 430](article-430.md)
 - [Article 431](article-431.md)
 - [Article 432](article-432.md)

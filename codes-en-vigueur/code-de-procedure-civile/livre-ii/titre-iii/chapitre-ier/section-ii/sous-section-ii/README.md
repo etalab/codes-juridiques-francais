@@ -1,4 +1,6 @@
-# Sous-section II : Dispositions générales.
+# Sous-section II : Le juge rapporteur.
 
-- [Article 870](article-870.md)
-- [Article 871](article-871.md)
+- [Article 861-3](article-861-3.md)
+- [Article 862](article-862.md)
+- [Article 863](article-863.md)
+- [Article 865](article-865.md)
