@@ -4,6 +4,6 @@ Les candidats à une chambre de commerce et d'industrie territoriale qui ont rec
 
 En cas de regroupement de candidatures, tous les candidats de ce regroupement sont considérés comme ayant obtenu 5 % des suffrages exprimés dès lors qu'un d'entre eux au moins a atteint ce pourcentage.
 
-Un arrêté conjoint du ministre de la justice et du ministre chargé de la tutelle des chambres de commerce et d'industrie définit les frais de propagande et fixe le nombre et les caractéristiques des documents admis à remboursement ainsi que les conditions de celui-ci.
+Un arrêté conjoint du ministre de la justice et du ministre chargé de la tutelle des chambres de commerce et d'industrie définit les frais de campagne et fixe le nombre et les caractéristiques des documents admis à remboursement ainsi que les conditions de celui-ci.
 
 Le préfet fixe, par référence aux tarifs fixés en application de l'article L. 52-11-1 du code électoral, les tarifs maximaux d'impression et d'affichage dans les limites desquels le remboursement intervient.

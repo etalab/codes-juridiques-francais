@@ -6,3 +6,4 @@
 - [Article R713-66](article-r713-66.md)
 - [Article R713-67](article-r713-67.md)
 - [Article R713-70](article-r713-70.md)
+- [Article R713-71](article-r713-71.md)
