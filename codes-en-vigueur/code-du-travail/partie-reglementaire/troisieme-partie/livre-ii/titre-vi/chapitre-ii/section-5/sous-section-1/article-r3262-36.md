@@ -2,7 +2,7 @@
 
 La Commission nationale des titres-restaurant est chargée :
 
-1° D'accorder l'assimilation à la profession de restaurateur aux personnes, entreprises ou organismes qui satisfont aux conditions requises ;
+1° D'accorder l'assimilation à la profession de restaurateur aux personnes, entreprises ou organismes qui satisfont aux conditions prévues à l'article R. 3262-4 et aux articles R. 3262-26 à R. 3262-32 ;
 
 2° De constater les cas où les restaurateurs, les personnes, entreprises, organismes assimilés ou les détaillants en fruits et légumes ont cessé leur activité ou ne satisfont plus aux conditions ouvrant droit au remboursement des titres-restaurant ;
 
@@ -16,4 +16,4 @@ La Commission nationale des titres-restaurant est chargée :
 
 7° D'étudier et de transmettre à l'administration les propositions de modification de la réglementation des titres-restaurant ;
 
-8° D'exercer un contrôle sur le fonctionnement des comptes de titres-restaurant ouverts par les entreprises émettrices afin d'assurer que sont respectées les obligations qui leur sont imposées ainsi que celles des restaurateurs, organismes ou entreprises assimilées et des détaillants en fruits et légumes.
+8° D'exercer un contrôle sur le fonctionnement des comptes de titres-restaurant ouverts par les entreprises émettrices afin d'assurer que sont respectées les obligations qui leur sont imposées ainsi que celles des restaurateurs, organismes ou entreprises assimilés et des détaillants en fruits et légumes.
