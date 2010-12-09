@@ -94,6 +94,4 @@ Fédération française de tir à l'arc : Le tir à l'arc.
 
 Fédération française de twirling-bâton : Twirling magazine.
 
-Fédération française de voile : Lettre de grand voile.
-
 Fédération française de vol libre : Vol passion.
