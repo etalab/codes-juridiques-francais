@@ -1,4 +1,4 @@
-# Section 1 : Dispositions particulières à certains salariés du secteur public.
+# Section 1 : Dispositions particulières à certains salariés.
 
 - [Article L5424-1](article-l5424-1.md)
 - [Article L5424-2](article-l5424-2.md)

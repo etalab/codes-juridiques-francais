@@ -10,7 +10,7 @@ I.-A compter du 13 novembre 1982 et nonobstant toute disposition ou stipulation 
 
 La liste de ces charges est fixée par décret en Conseil d'Etat. Il peut y être dérogé par accords collectifs locaux portant sur l'amélioration de la sécurité ou la prise en compte du développement durable, conclus conformément à l'article 42 de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière.
 
-Pour l'application du présent I, le coût des services assurés dans le cadre d'un contrat d'entreprise correspond à la dépense, toutes taxes comprises, acquittée par le bailleur.
+Pour l'application du présent I, le coût des services assurés dans le cadre d'un contrat d'entreprise ou d'un contrat d'achat d'électricité, d'énergie calorifique ou de gaz naturel combustible, distribués par réseaux correspond à la dépense, toutes taxes comprises, acquittée par le bailleur.
 
 II.-Lorsque des travaux d'économie d'énergie sont réalisés par le bailleur dans les parties privatives d'un logement ou dans les parties communes de l'immeuble, une contribution pour le partage des économies de charge peut être demandée au locataire du logement loué, à partir de la date d'achèvement des travaux, sous réserve que ces derniers lui bénéficient directement et qu'ils lui soient justifiés. Elle ne peut toutefois être exigible qu'à la condition qu'un ensemble de travaux ait été réalisé ou que le logement atteigne un niveau minimal de performance énergétique.
 
