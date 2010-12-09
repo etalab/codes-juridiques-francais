@@ -16,8 +16,7 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel d'Aix-en-Provence </p>
+<p align="center">Cour d'appel d'Aix-en-Provence </p>
 </td>
 </tr>
 <tr>
@@ -30,7 +29,8 @@ Liste des maisons de justice et du droit
 <br/>Nice <br/>
 </td>
 <td align="center">
-<br/>Menton, Nice (Ariane).<br/>
+<p align="left">Menton, Nice (Ariane).<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -43,22 +43,23 @@ Liste des maisons de justice et du droit
 <br/>Aix-en-Provence <br/>
 </td>
 <td align="center">
-<br/>Aix-en-Provence (Jas du Bouffan), Martigues, Salon-de-Provence.<br/>
+<p align="left">Aix-en-Provence (Jas du Bouffan), Martigues, Salon-de-Provence.<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Marseille <br/>
+<p align="center">Marseille</p>
 </td>
 <td align="center">
-<br/>Aubagne.<br/>
+<p align="left">Aubagne.</p>
 </td>
 </tr>
 <tr>
+<td align="center">Tarascon</td>
 <td align="center">
-<p align="center">Tarascon</p>
+<p align="left">Arles</p>
 </td>
-<td align="center">Arles</td>
 </tr>
 <tr>
 <td align="center" colspan="2">
@@ -67,10 +68,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Toulon <br/>
+<p align="center">Toulon</p>
 </td>
 <td align="center">
-<br/>La Seyne-sur-Mer, Toulon.<br/>
+<p align="left">La Seyne-sur-Mer, Toulon.</p>
 </td>
 </tr>
 <tr>
@@ -85,26 +86,26 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Beauvais <br/>
+<p align="center">Beauvais </p>
 </td>
 <td align="center">
-<br/>Méru/Vexin-Thelle-Sablons.<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Compiègne <br/>
-</td>
-<td align="center">
-<br/>Noyon.<br/>
+<p align="left">Méru/Vexin-Thelle-Sablons.</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Senlis <br/>
+<p align="center">Compiègne </p>
 </td>
 <td align="center">
-<br/>Creil.<br/>
+<p align="left">Noyon.</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Senlis</p>
+</td>
+<td align="center">
+<p align="left">Creil.</p>
 </td>
 </tr>
 <tr>
@@ -114,10 +115,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Amiens <br/>
+<p align="center">Amiens</p>
 </td>
 <td align="center">
-<br/>Amiens.<br/>
+<p align="left">Amiens.</p>
 </td>
 </tr>
 <tr>
@@ -128,10 +129,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Angers <br/>
+<p align="center">Angers</p>
 </td>
 <td align="center">
-<br/>Angers.<br/>
+<p align="left">Angers.</p>
 </td>
 </tr>
 <tr>
@@ -141,10 +142,23 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Le Mans <br/>
+<p align="center">Le Mans</p>
 </td>
 <td align="center">
-<br/>Allonnes.<br/>
+<p align="left">Allonnes.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Cour d'appel de Bastia<br/>Corse-du-Sud</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Ajaccio</p>
+</td>
+<td>
+<p align="left">Porto-Vecchio.</p>
 </td>
 </tr>
 <tr>
@@ -155,10 +169,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Angoulême <br/>
+<p align="center">Angoulême</p>
 </td>
 <td align="center">
-<br/>Angoulême.<br/>
+<p align="left">Angoulême.</p>
 </td>
 </tr>
 <tr>
@@ -168,10 +182,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Bergerac <br/>
+<p align="center">Bergerac</p>
 </td>
 <td align="center">
-<br/>Bergerac.<br/>
+<p align="left">Bergerac.</p>
 </td>
 </tr>
 <tr>
@@ -181,24 +195,23 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Bordeaux <br/>
+<p align="center">Bordeaux</p>
 </td>
 <td align="center">
-<br/>Bordeaux-Bastide, Bordeaux-Nord.<br/>
+<p align="left">Bordeaux-Bastide, Bordeaux-Nord.</p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<br/>Cour d'appel de Bourges <p>Cher<br/>
-</p>
+<br/>Cour d'appel de Bourges <p>Cher</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Bourges <br/>
+<p align="center">Bourges</p>
 </td>
 <td align="center">
-<br/>Vierzon.<br/>
+<p align="left">Vierzon.</p>
 </td>
 </tr>
 <tr>
@@ -209,10 +222,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Caen <br/>
+<p align="center">Caen</p>
 </td>
 <td align="center">
-<br/>Hérouville-Saint-Clair.<br/>
+<p align="left">Hérouville-Saint-Clair.</p>
 </td>
 </tr>
 <tr>
@@ -223,10 +236,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Thonon-les-Bains <br/>
+<p align="center">Thonon-les-Bains</p>
 </td>
 <td align="center">
-<br/>Annemasse.<br/>
+<p align="left">Annemasse.</p>
 </td>
 </tr>
 <tr>
@@ -236,18 +249,18 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Albertville <br/>
+<p align="center">Albertville</p>
 </td>
 <td align="center">
-<br/>Albertville (La Tarentaise).<br/>
+<p align="left">Albertville (La Tarentaise).</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chambéry <br/>
+<p align="center">Chambéry</p>
 </td>
 <td align="center">
-<br/>Aix-les-Bains, Chambéry.<br/>
+<p align="left">Aix-les-Bains, Chambéry.</p>
 </td>
 </tr>
 <tr>
@@ -258,10 +271,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Strasbourg <br/>
+<p align="center">Strasbourg</p>
 </td>
 <td align="center">
-<br/>Strasbourg.<br/>
+<p align="left">Strasbourg.</p>
 </td>
 </tr>
 <tr>
@@ -271,18 +284,18 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Colmar <br/>
+<p align="center">Colmar</p>
 </td>
 <td align="center">
-<br/>Colmar.<br/>
+<p align="left">Colmar.</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Mulhouse <br/>
+<p align="center">Mulhouse</p>
 </td>
 <td align="center">
-<br/>Mulhouse.<br/>
+<p align="left">Mulhouse.</p>
 </td>
 </tr>
 <tr>
@@ -293,10 +306,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Dijon <br/>
+<p align="center">Dijon</p>
 </td>
 <td align="center">
-<br/>Chenôve.<br/>
+<p align="left">Chenôve.</p>
 </td>
 </tr>
 <tr>
@@ -306,18 +319,18 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Chalon-sur-Saône <br/>
+<p align="center">Chalon-sur-Saône</p>
 </td>
 <td align="center">
-<br/>Chalon-sur-Saône.<br/>
+<p align="left">Chalon-sur-Saône.</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Mâcon <br/>
+<p align="center">Mâcon</p>
 </td>
 <td align="center">
-<br/>Mâcon.<br/>
+<p align="left">Mâcon.</p>
 </td>
 </tr>
 <tr>
@@ -328,26 +341,26 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Avesnes-sur-Helpe <br/>
+<p align="center">Avesnes-sur-Helpe</p>
 </td>
 <td align="center">
-<br/>Aulnoy-Aymeries, Maubeuge.<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Dunkerque <br/>
-</td>
-<td align="center">
-<br/>Dunkerque.<br/>
+<p align="left">Aulnoy-Aymeries, Maubeuge.</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Lille <br/>
+<p align="center">Dunkerque</p>
 </td>
 <td align="center">
-<br/>Roubaix, Tourcoing.<br/>
+<p align="left">Dunkerque.</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Lille</p>
+</td>
+<td align="center">
+<p align="left">Roubaix, Tourcoing.</p>
 </td>
 </tr>
 <tr>
@@ -357,26 +370,26 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Valenciennes <br/>
+<p align="center">Valenciennes</p>
 </td>
 <td align="center">
-<br/>Denain.<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Béthune <br/>
-</td>
-<td align="center">
-<br/>Lens.<br/>
+<p align="left">Denain.</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Boulogne-sur-Mer <br/>
+<p align="center">Béthune</p>
 </td>
 <td align="center">
-<br/>Calais.<br/>
+<p align="left">Lens.</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Boulogne-sur-Mer</p>
+</td>
+<td align="center">
+<p align="left">Calais.</p>
 </td>
 </tr>
 <tr>
@@ -387,10 +400,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Cayenne <br/>
+<p align="center">Cayenne</p>
 </td>
 <td align="center">
-<br/>Saint-Laurent-du-Maroni.<br/>
+<p align="left">Saint-Laurent-du-Maroni.</p>
 </td>
 </tr>
 <tr>
@@ -400,10 +413,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Fort-de-France <br/>
+<p align="center">Fort-de-France</p>
 </td>
 <td align="center">
-<br/>Fort-de-France.<br/>
+<p align="left">Fort-de-France.</p>
 </td>
 </tr>
 <tr>
@@ -414,10 +427,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Valence <br/>
+<p align="center">Valence</p>
 </td>
 <td align="center">
-<br/>Romans-sur-Isère.<br/>
+<p align="left">Romans-sur-Isère.</p>
 </td>
 </tr>
 <tr>
@@ -427,18 +440,18 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Grenoble <br/>
+<p align="center">Grenoble</p>
 </td>
 <td align="center">
-<br/>Grenoble.<br/>
+<p align="left">Grenoble.</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Vienne <br/>
+<p align="center">Vienne</p>
 </td>
 <td align="center">
-<br/>Villefontaine.<br/>
+<p align="left">Villefontaine.</p>
 </td>
 </tr>
 <tr>
@@ -449,10 +462,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Brive-la-Gaillarde <br/>
+<p align="center">Brive-la-Gaillarde</p>
 </td>
 <td align="center">
-<br/>Brive-la-Gaillarde.<br/>
+<p align="left">Brive-la-Gaillarde.</p>
 </td>
 </tr>
 <tr>
@@ -462,10 +475,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Limoges <br/>
+<p align="center">Limoges</p>
 </td>
 <td align="center">
-<br/>Limoges.<br/>
+<p align="left">Limoges.</p>
 </td>
 </tr>
 <tr>
@@ -478,7 +491,7 @@ Liste des maisons de justice et du droit
 <p align="center">Bourg-en-Bresse</p>
 </td>
 <td>
-<p align="center">Bourg-en-Bresse</p>
+<p align="left">Bourg-en-Bresse.</p>
 </td>
 </tr>
 <tr>
@@ -488,10 +501,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Saint-Etienne <br/>
+<p align="center">Saint-Etienne</p>
 </td>
 <td align="center">
-<br/>Saint-Etienne.<br/>
+<p align="left">Saint-Etienne.</p>
 </td>
 </tr>
 <tr>
@@ -501,12 +514,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Lyon <br/>
+<p align="center">Lyon</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Bron, Givors, Lyon-Sud, Vaulx-en-Velin, Villeurbanne, Vénissieux.<br/>
-</p>
+<p align="left">Bron, Givors, Lyon-Sud, Vaulx-en-Velin, Villeurbanne, Vénissieux.</p>
 </td>
 </tr>
 <tr>
@@ -517,18 +528,18 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Metz <br/>
+<p align="center">Metz</p>
 </td>
 <td align="center">
-<br/>Woippy.<br/>
+<p align="left">Woippy.</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sarreguemines <br/>
+<p align="center">Sarreguemines</p>
 </td>
 <td align="center">
-<br/>Forbach.<br/>
+<p align="left">Forbach.</p>
 </td>
 </tr>
 <tr>
@@ -539,10 +550,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Narbonne <br/>
+<p align="center">Narbonne</p>
 </td>
 <td align="center">
-<br/>Narbonne.<br/>
+<p align="left">Narbonne.</p>
 </td>
 </tr>
 <tr>
@@ -552,18 +563,18 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Béziers <br/>
+<p align="center">Béziers</p>
 </td>
 <td align="center">
-<br/>Agde.<br/>
+<p align="left">Agde.</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Montpellier <br/>
+<p align="center">Montpellier</p>
 </td>
 <td align="center">
-<br/>Lodève, Lunel, Montpellier (La Paillade).<br/>
+<p align="left">Lodève, Lunel, Montpellier (La Paillade).</p>
 </td>
 </tr>
 <tr>
@@ -574,12 +585,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Nancy <br/>
+<p align="center">Nancy</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Haut du Lièvre, Tomblaine, Vandœuvre-lès-Nancy, Toul.<br/>
-</p>
+<p align="left">Haut du Lièvre, Tomblaine, Vandœuvre-lès-Nancy, Toul.</p>
 </td>
 </tr>
 <tr>
@@ -590,12 +599,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Nîmes <br/>
+<p align="center">Nîmes</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Bagnols-sur-Cèze, Nîmes, Vauvert.<br/>
-</p>
+<p align="left">Bagnols-sur-Cèze, Nîmes, Vauvert.</p>
 </td>
 </tr>
 <tr>
@@ -606,12 +613,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Tours <br/>
+<p align="center">Tours</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Joué-lès-Tours.<br/>
-</p>
+<p align="left">Joué-lès-Tours.</p>
 </td>
 </tr>
 <tr>
@@ -621,12 +626,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Blois <br/>
+<p align="center">Blois</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Blois.<br/>
-</p>
+<p align="left">Blois.</p>
 </td>
 </tr>
 <tr>
@@ -636,28 +639,23 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Orléans <br/>
+<p align="center">Orléans</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Orléans.<br/>
-</p>
+<p align="left">Orléans.</p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<br/>Cour d'appel de Paris <p>Essonne<br/>
-</p>
+<br/>Cour d'appel de Paris <p>Essonne</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Evry <br/>
+<p align="center">Evry</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Athis-Mons, Les Ulis, Villemoisson-sur-Orge (val d'Orge).<br/>
-</p>
+<p align="left">Athis-Mons, Les Ulis, Villemoisson-sur-Orge (val d'Orge).</p>
 </td>
 </tr>
 <tr>
@@ -667,12 +665,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Paris <br/>
+<p align="center">Paris</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Paris (10e), Paris (14e), Paris (17e).<br/>
-</p>
+<p align="left">Paris (10e), Paris (14e), Paris (17e).</p>
 </td>
 </tr>
 <tr>
@@ -682,22 +678,18 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Meaux <br/>
+<p align="center">Meaux</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Chelles, Meaux, Val Maubuée.<br/>
-</p>
+<p align="left">Chelles, Meaux, Val Maubuée.</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Melun <br/>
+<p align="center">Melun</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Pontault-Combault, Savigny-le-Temple.<br/>
-</p>
+<p align="left">Pontault-Combault, Savigny-le-Temple.</p>
 </td>
 </tr>
 <tr>
@@ -707,12 +699,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Bobigny <br/>
+<p align="center">Bobigny</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Aubervilliers, Clichy-sous-Bois - Montfermeil, Epinay-sur-Seine, La Courneuve, Le Blanc-Mesnil, Pantin, Saint-Denis.<br/>
-</p>
+<p align="left">Aubervilliers, Clichy-sous-Bois - Montfermeil, Epinay-sur-Seine, La Courneuve, Le Blanc-Mesnil, Pantin, Saint-Denis.</p>
 </td>
 </tr>
 <tr>
@@ -722,44 +712,36 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Créteil <br/>
+<p align="center">Créteil</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Champigny-sur-Marne.<br/>
-</p>
+<p align="left">Champigny-sur-Marne.</p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<br/>Cour d'appel de Poitiers <p>Charente-Maritime<br/>
-</p>
+<br/>Cour d'appel de Poitiers <p>Charente-Maritime</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>La Rochelle <br/>
+<p align="center">La Rochelle</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>La Rochelle.<br/>
-</p>
+<p align="left">La Rochelle.</p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<br/>Cour d'appel de Reims <p>Ardennes<br/>
-</p>
+<br/>Cour d'appel de Reims <p>Ardennes</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Charleville-Mézières <br/>
+<p align="center">Charleville-Mézières</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Charleville-Mézières, Sedan.<br/>
-</p>
+<p align="left">Charleville-Mézières, Sedan.</p>
 </td>
 </tr>
 <tr>
@@ -769,12 +751,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Troyes <br/>
+<p align="center">Troyes</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Troyes.<br/>
-</p>
+<p align="left">Troyes.</p>
 </td>
 </tr>
 <tr>
@@ -784,38 +764,31 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Reims <br/>
+<p align="center">Reims</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Reims.<br/>
-</p>
+<p align="left">Reims.</p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<br/>Cour d'appel de Rennes <p>Côtes-d'Armor<br/>
-</p>
+<br/>Cour d'appel de Rennes <p>Côtes-d'Armor</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>[Guingamp <br/>
+<p align="center">[Guingamp</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Lannion (3).]<br/>
-</p>
+<p align="left">Lannion (3).]</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>[Saint-Brieuc <br/>
+<p align="center">[Saint-Brieuc</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Lannion (4).]<br/>
-</p>
+<p align="left">Lannion (4).]</p>
 </td>
 </tr>
 <tr>
@@ -825,64 +798,52 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Nantes <br/>
+<p align="center">Nantes</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Châteaubriant.<br/>
-</p>
+<p align="left">Châteaubriant.</p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<br/>Cour d'appel de Riom <p>Allier<br/>
-</p>
+<br/>Cour d'appel de Riom <p>Allier</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Montluçon <br/>
+<p align="center">Montluçon</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Montluçon.<br/>
-</p>
+<p align="left">Montluçon.</p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<br/>Cour d'appel de Rouen <p>Eure<br/>
-</p>
+<br/>Cour d'appel de Rouen <p>Eure</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>[Bernay <br/>
+<p align="center">[Bernay</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Pont-Audemer (3).]<br/>
-</p>
+<p align="left">Pont-Audemer (3).]</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>[Evreux <br/>
+<p align="center">[Evreux</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Evreux, Louviers, Vernon (3).]<br/>
-</p>
+<p align="left">Evreux, Louviers, Vernon (3).]</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>[Evreux <br/>
+<p align="center">[Evreux</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Evreux, Louviers, Pont-Audemer, Vernon (4).]<br/>
-</p>
+<p align="left">Evreux, Louviers, Pont-Audemer, Vernon (4).]</p>
 </td>
 </tr>
 <tr>
@@ -892,40 +853,32 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Le Havre <br/>
+<p align="center">Le Havre</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Fécamp, Le Havre.<br/>
-</p>
+<p align="left">Fécamp, Le Havre.</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Rouen <br/>
+<p align="center">Rouen</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Elbeuf-sur-Seine, Canteleu, Rouen, Saint-Etienne-du-Rouvray.<br/>
-</p>
+<p align="left">Elbeuf-sur-Seine, Canteleu, Rouen, Saint-Etienne-du-Rouvray.</p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Toulouse </p>
-<p>Haute-Garonne<br/>
+<br/>Cour d'appel de Toulouse <p>Haute-Garonne<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Toulouse <br/>
+<p align="center">Toulouse</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Toulouse, Toulouse-Nord, Toulouse-Ouest.<br/>
-</p>
+<p align="left">Toulouse, Toulouse-Nord, Toulouse-Ouest.</p>
 </td>
 </tr>
 <tr>
@@ -935,12 +888,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Castres <br/>
+<p align="center">Castres</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Mazamet.<br/>
-</p>
+<p align="left">Mazamet.</p>
 </td>
 </tr>
 <tr>
@@ -951,11 +902,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Chartres <br/>
+<p align="center">Chartres</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Dreux, Nogent-le-Rotrou.</p>
+<p align="left">Dreux, Nogent-le-Rotrou.</p>
 </td>
 </tr>
 <tr>
@@ -965,12 +915,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Nanterre <br/>
+<p align="center">Nanterre</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Bagneux, Châtenay-Malabry, Gennevilliers.<br/>
-</p>
+<p align="left">Bagneux, Châtenay-Malabry, Gennevilliers.</p>
 </td>
 </tr>
 <tr>
@@ -980,12 +928,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Pontoise <br/>
+<p align="center">Pontoise</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Argenteuil, Cergy-Pontoise, Ermont, Garges-lès-Gonesse, Persan, Sarcelles, Villiers-le-Bel.<br/>
-</p>
+<p align="left">Argenteuil, Cergy-Pontoise, Ermont, Garges-lès-Gonesse, Persan, Sarcelles, Villiers-le-Bel.</p>
 </td>
 </tr>
 <tr>
@@ -995,12 +941,10 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center">
-<br/>Versailles <br/>
+<p align="center">Versailles</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Les Mureaux, Saint-Quentin-en-Yvelines. <br/>
-</p>
+<p align="left">Les Mureaux, Saint-Quentin-en-Yvelines.</p>
 </td>
 </tr>
 <tr>
