@@ -1,6 +1,7 @@
 # Paragraphe 1 : Assiette des cotisations.
 
 - [Article L731-14](article-l731-14.md)
+- [Article L731-14-1](article-l731-14-1.md)
 - [Article L731-15](article-l731-15.md)
 - [Article L731-16](article-l731-16.md)
 - [Article L731-17](article-l731-17.md)
