@@ -2,7 +2,7 @@
 
 Après avoir recueilli l'avis du ministère public et entendu ou dûment appelé le débiteur, le liquidateur, l'administrateur lorsqu'il en a été désigné, les représentants du comité d'entreprise ou, à défaut, des délégués du personnel et les contrôleurs, le tribunal retient l'offre qui permet dans les meilleures conditions d'assurer le plus durablement l'emploi attaché à l'ensemble cédé, le paiement des créanciers et qui présente les meilleures garanties d'exécution. Il arrête un ou plusieurs plans de cession.
 
-Les débats doivent avoir lieu en présence du ministère public lorsque la procédure est ouverte au bénéfice de personnes physiques ou morales dont le nombre de salariés ou le chiffre d'affaires hors taxes est supérieur à un seuil fixé par décret en Conseil d'Etat.
+Les débats doivent avoir lieu en présence du ministère public lorsque la procédure est ouverte au bénéfice d'un débiteur dont le nombre de salariés ou le chiffre d'affaires hors taxes est supérieur à un seuil fixé par décret en Conseil d'Etat.
 
 Le jugement qui arrête le plan en rend les dispositions applicables à tous.
 

@@ -6,7 +6,7 @@ I.-Sont susceptibles d'appel ou de pourvoi en cassation :
 
 2° Les décisions statuant sur l'ouverture de la liquidation judiciaire de la part du débiteur, du créancier poursuivant, du comité d'entreprise ou, à défaut, des délégués du personnel et du ministère public ;
 
-3° Les décisions statuant sur l'extension d'une procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire de la part du débiteur soumis à la procédure, du débiteur visé par l'extension, du mandataire judiciaire ou du liquidateur, de l'administrateur et du ministère public ;
+3° Les décisions statuant sur l'extension d'une procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire ou sur la réunion de patrimoines de la part du débiteur soumis à la procédure, du débiteur visé par l'extension, du mandataire judiciaire ou du liquidateur, de l'administrateur et du ministère public ;
 
 4° Les décisions statuant sur la conversion de la procédure de sauvegarde en redressement judiciaire de la part du débiteur, de l'administrateur, du mandataire judiciaire et du ministère public ;
 
