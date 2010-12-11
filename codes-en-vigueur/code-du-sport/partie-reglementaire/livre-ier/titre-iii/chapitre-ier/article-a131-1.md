@@ -32,8 +32,6 @@ Fédération française d'études et de sports sous-marins : Subaqua.
 
 Fédération française de giraviation : Le Colibri.
 
-Fédération française de gymnastique : l'Officiel du gymnaste.
-
 Fédération française de handball : Handinfos.
 
 Fédération française handisport : Handisport magazine.
@@ -60,7 +58,7 @@ Fédération française de pêche à la mouche et au lancer : Bulletin de la fé
 
 Fédération française de pêche au coup : Pêche de compétition.
 
-Fédération française des pêcheurs en mer : Info / FFPM.
+Fédération française des pêcheurs en mer : Info/ FFPM.
 
 Fédération française de pelote basque : Pilota.
 
