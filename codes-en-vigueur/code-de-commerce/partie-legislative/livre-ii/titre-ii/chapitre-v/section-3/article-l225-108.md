@@ -4,4 +4,6 @@ Le conseil d'administration ou le directoire, selon le cas, doit adresser ou met
 
 La nature de ces documents et les conditions de leur envoi ou de leur mise à la disposition des actionnaires sont déterminées par décret en Conseil d'Etat.
 
-A compter de la communication prévue au premier alinéa, tout actionnaire a la faculté de poser par écrit des questions auxquelles le conseil d'administration ou le directoire, selon le cas, est tenu de répondre au cours de l'assemblée.
+A compter de la communication prévue au premier alinéa, tout actionnaire a la faculté de poser par écrit des questions auxquelles le conseil d'administration ou le directoire, selon le cas, est tenu de répondre au cours de l'assemblée. Une réponse commune peut être apportée à ces questions dès lors qu'elles présentent le même contenu.
+
+La réponse à une question écrite est réputée avoir été donnée dès lors qu'elle figure sur le site internet de la société dans une rubrique consacrée aux questions-réponses.
