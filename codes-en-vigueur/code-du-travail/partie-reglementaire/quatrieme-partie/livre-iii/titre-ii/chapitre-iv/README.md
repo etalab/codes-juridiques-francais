@@ -3,3 +3,4 @@
 - [Section 1 : Prescriptions techniques communes](section-1)
 - [Section 2 : Prescriptions complémentaires pour le levage de charges  et le levage et le déplacement des travailleurs](section-2)
 - [Section 3 : Prescriptions complémentaires  pour les équipements de travail mobiles](section-3)
+- [Section 4 : Prescriptions complémentaires pour les équipements de travail desservant des niveaux définis à l'aide d'un habitacle.](section-4)
