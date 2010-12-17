@@ -12,7 +12,7 @@ Le Conseil d'Etat est compétent pour connaître en premier et dernier ressort :
 
 - l'Agence française de lutte contre le dopage ;
 
-- l'Autorité de contrôle des assurances et des mutuelles ;
+- L'Autorité de contrôle prudentiel ;
 
 - l'Autorité de la concurrence ;
 
@@ -27,10 +27,6 @@ Le Conseil d'Etat est compétent pour connaître en premier et dernier ressort :
 - l'Autorité de sûreté nucléaire ;
 
 - la Commission de régulation de l'énergie ;
-
-- la Commission bancaire ;
-
-- le Comité des établissements de crédit et des entreprises d'investissement ;
 
 - le Conseil supérieur de l'audiovisuel ;
 
