@@ -6,4 +6,4 @@ Le préfet, par dérogation aux dispositions applicables du code général des c
 
 Dès la publication de l'arrêté du préfet, les dispositions du schéma concernant la commune ou l'établissement public de coopération intercommunale sont abrogées.
 
-Les dispositions des alinéas précédents ne sont pas applicables lorsque l'établissement public prévu à l'article L. 122-4 est une communauté urbaine, une communauté d'agglomérations ou une communauté de communes.
+Les dispositions des alinéas précédents ne sont pas applicables lorsque l'établissement public prévu à l'article L. 122-4 est une communauté urbaine, une métropole, une communauté d'agglomérations ou une communauté de communes.

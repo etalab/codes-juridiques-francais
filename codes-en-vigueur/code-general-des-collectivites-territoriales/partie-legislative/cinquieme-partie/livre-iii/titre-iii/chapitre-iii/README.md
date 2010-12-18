@@ -1,4 +1,4 @@
-# CHAPITRE III : Compétences et pouvoirs de la communauté d'agglomération nouvelle et du syndicat d'agglomération nouvelle
+# CHAPITRE III : Compétences et pouvoirs du syndicat d'agglomération nouvelle
 
 - [Article L5333-1](article-l5333-1.md)
 - [Article L5333-2](article-l5333-2.md)

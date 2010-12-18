@@ -4,7 +4,7 @@ Un document-cadre intitulé " Schéma régional de cohérence écologique ” es
 
 Le schéma régional de cohérence écologique prend en compte les orientations nationales pour la préservation et la remise en bon état des continuités écologiques mentionnées à l'article L. 371-2 ainsi que les éléments pertinents des schémas directeurs d'aménagement et de gestion de l'eau mentionnés à l'article L. 212-1.
 
-Le projet de schéma régional de cohérence écologique est transmis aux communes concernées et soumis pour avis aux départements, aux communautés urbaines, aux communautés d'agglomération, aux communautés de communes, aux parcs naturels régionaux et aux parcs nationaux situés en tout ou partie dans le périmètre du schéma. Cet avis est réputé favorable s'il n'a pas été rendu par écrit dans un délai de trois mois à compter de leur saisine.
+Le projet de schéma régional de cohérence écologique est transmis aux communes concernées et soumis pour avis aux départements, aux métropoles, aux communautés urbaines, aux communautés d'agglomération, aux communautés de communes, aux parcs naturels régionaux et aux parcs nationaux situés en tout ou partie dans le périmètre du schéma. Cet avis est réputé favorable s'il n'a pas été rendu par écrit dans un délai de trois mois à compter de leur saisine.
 
 Le projet de schéma régional de cohérence écologique, assorti des avis recueillis, est soumis à enquête publique, réalisée conformément au chapitre III du titre II du livre Ier, par le représentant de l'Etat dans la région.A l'issue de l'enquête publique, le schéma, éventuellement modifié pour tenir notamment compte des observations du public, est soumis à délibération du conseil régional et adopté par arrêté du représentant de l'Etat dans la région.
 

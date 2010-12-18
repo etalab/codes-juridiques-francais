@@ -6,6 +6,6 @@ Le projet d'extension du périmètre communautaire est arrêté par le représen
 
 L'extension du périmètre communautaire est prononcée par arrêté du ou des représentants de l'Etat dans le ou les départements. Cet arrêté vaut retrait des communes auxquelles le périmètre est étendu des établissements publics de coopération intercommunale dont elles sont membres. Dans le cas particulier de syndicats de communes ou de syndicats mixtes, le retrait s'effectue dans les conditions fixées à l'article L. 5215-22.
 
-L'extension du périmètre entraîne une nouvelle répartition des sièges au conseil de la communauté urbaine conformément aux articles L. 5215-6 et L. 5215-7. Elle entraîne l'application à l'ensemble des biens, équipements et services publics nécessaires à l'exercice des compétences transférées, ainsi que des droits et obligations attachés à ces biens, équipements et services à la date du transfert, des dispositions prévues au II de l'article L. 5211-18.
+L'extension du périmètre entraîne l'attribution de sièges, conformément au 1° de l'article L. 5211-6-2, à chaque commune intégrant la communauté urbaine. Elle entraîne l'application à l'ensemble des biens, équipements et services publics nécessaires à l'exercice des compétences transférées, ainsi que des droits et obligations attachés à ces biens, équipements et services à la date du transfert, des dispositions prévues au II de l'article L. 5211-18.
 
 La procédure peut être renouvelée tous les douze ans à compter de l'expiration du délai de trois ans prévu au premier alinéa.

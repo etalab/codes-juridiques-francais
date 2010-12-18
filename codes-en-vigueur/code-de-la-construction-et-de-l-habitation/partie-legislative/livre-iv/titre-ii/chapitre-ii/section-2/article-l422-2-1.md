@@ -4,7 +4,7 @@ I. - Le capital des sociétés anonymes d'habitations à loyer modéré est rép
 
 1° Un actionnaire de référence détenant la majorité du capital ;
 
-2° Lorsqu'ils n'ont pas la qualité d'actionnaire de référence, les communautés de communes de plus de 50 000 habitants comprenant au moins une commune de plus de 15 000 habitants, les communautés urbaines, les communautés d'agglomération, les syndicats d'agglomération nouvelle, les départements et les régions sur le territoire desquels la société anonyme d'habitations à loyer modéré possède des logements ;
+2° Lorsqu'ils n'ont pas la qualité d'actionnaire de référence, les communautés de communes de plus de 50 000 habitants comprenant au moins une commune de plus de 15 000 habitants, les communautés urbaines, les métropoles, les communautés d'agglomération, les syndicats d'agglomération nouvelle, les départements et les régions sur le territoire desquels la société anonyme d'habitations à loyer modéré possède des logements ;
 
 3° Les représentants des locataires, élus sur des listes de candidats présentés par des associations oeuvrant dans le domaine du logement, indépendantes de tout parti politique ou organisation philosophique, confessionnelle, ethnique ou raciale, et ne poursuivant pas des intérêts collectifs contraires aux objectifs du logement social fixés par le présent code, notamment par les articles L. 411 et L. 441, et par le droit à la ville défini par la loi n° 91-662 du 13 juillet 1991 d'orientation pour la ville ;
 

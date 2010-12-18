@@ -10,7 +10,7 @@ Le taux de versement est fixé ou modifié par délibération du conseil municip
 
 Toutefois, les communautés de communes et communautés d'agglomération ont la faculté de majorer de 0, 05 % les taux maxima mentionnés aux alinéas précédents.
 
-Cette faculté est également ouverte aux communautés urbaines et aux autorités organisatrices de transports urbains auxquelles ont adhéré une communauté urbaine, une communauté d'agglomération ou une communauté de communes.
+Cette faculté est également ouverte aux communautés urbaines, aux métropoles et aux autorités organisatrices de transports urbains auxquelles ont adhéré une communauté urbaine, une métropole, une communauté d'agglomération ou une communauté de communes.
 
 Dans les territoires comprenant une ou plusieurs communes classées communes touristiques au sens de l'article L. 133-11 du code du tourisme, le taux applicable peut être majoré de 0,2 %.
 
