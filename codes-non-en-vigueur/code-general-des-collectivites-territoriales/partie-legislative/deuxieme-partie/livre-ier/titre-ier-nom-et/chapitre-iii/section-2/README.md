@@ -1,6 +1,5 @@
 # Section 2 : Création, au sein d'une commune nouvelle, de communes déléguées
 
-- [Article L2113-9](article-l2113-9.md)
 - [Article L2113-10](article-l2113-10.md)
 - [Article L2113-11](article-l2113-11.md)
 - [Article L2113-12](article-l2113-12.md)

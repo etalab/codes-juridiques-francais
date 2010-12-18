@@ -1,6 +1,5 @@
 # Section 1 : Procédure de création
 
-- [Article L2113-1](article-l2113-1.md)
 - [Article L2113-2](article-l2113-2.md)
 - [Article L2113-3](article-l2113-3.md)
 - [Article L2113-4](article-l2113-4.md)
