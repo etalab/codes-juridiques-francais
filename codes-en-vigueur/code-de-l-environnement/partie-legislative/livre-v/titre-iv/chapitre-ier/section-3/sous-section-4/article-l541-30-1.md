@@ -8,4 +8,4 @@ II. - Le présent article ne s'applique pas :
 
 2° Aux installations où les déchets inertes sont entreposés pour une durée inférieure à trois ans afin de permettre leur préparation à un transport en vue d'une valorisation dans un endroit différent, ou entreposés pour une durée inférieure à un an avant leur transport sur un lieu de stockage définitif ;
 
-3° A l'utilisation de déchets inertes pour la réalisation de travaux d'aménagement, de remblai, de réhabilitation ou à des fins de construction.
+3° A l'utilisation de déchets inertes pour la réalisation de travaux d'aménagement, de réhabilitation ou à des fins de construction.

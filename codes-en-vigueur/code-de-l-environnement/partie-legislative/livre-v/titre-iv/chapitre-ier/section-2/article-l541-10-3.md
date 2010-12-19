@@ -4,7 +4,7 @@ A compter du 1er janvier 2007, toutes les personnes physiques ou morales qui met
 
 Les personnes visées au premier alinéa accomplissent cette obligation :
 
-- soit en contribuant financièrement à un organisme agréé par arrêté conjoint des ministres chargés de l'écologie et de l'industrie qui passe convention avec les opérateurs de tri et les collectivités territoriales ou leurs groupements en charge de l'élimination des déchets et leur verse un soutien financier pour les opérations de recyclage et de traitement des déchets visés au premier alinéa qu'ils assurent ;
+- soit en contribuant financièrement à un organisme agréé par arrêté conjoint des ministres chargés de l'écologie et de l'industrie qui passe convention avec les opérateurs de tri et les collectivités territoriales ou leurs groupements en charge de la gestion des déchets et leur verse un soutien financier pour les opérations de recyclage et de traitement des déchets visés au premier alinéa qu'ils assurent ;
 
 - soit en mettant en place, dans le respect d'un cahier des charges, un système individuel de recyclage et de traitement des déchets visés au premier alinéa approuvé par arrêté conjoint des ministres chargés de l'écologie et de l'industrie.
 

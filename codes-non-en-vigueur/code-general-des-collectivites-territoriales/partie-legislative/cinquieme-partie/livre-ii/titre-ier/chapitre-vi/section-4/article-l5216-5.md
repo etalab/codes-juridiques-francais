@@ -20,7 +20,7 @@ Lorsque la communauté d'agglomération exerce la compétence " création ou am�
 
 3° Eau ;
 
-4° En matière de protection et de mise en valeur de l'environnement et du cadre de vie : lutte contre la pollution de l'air, lutte contre les nuisances sonores, soutien aux actions de maîtrise de la demande d'énergie, élimination et valorisation des déchets des ménages et déchets assimilés ou partie de cette compétence dans les conditions fixées par l'article L. 2224-13 ;
+4° En matière de protection et de mise en valeur de l'environnement et du cadre de vie : lutte contre la pollution de l'air, lutte contre les nuisances sonores, soutien aux actions de maîtrise de la demande d'énergie, collecte et traitement des déchets des ménages et déchets assimilés ou partie de cette compétence dans les conditions fixées par l'article L. 2224-13 ;
 
 5° Construction, aménagement, entretien et gestion d'équipements culturels et sportifs d'intérêt communautaire ;
 

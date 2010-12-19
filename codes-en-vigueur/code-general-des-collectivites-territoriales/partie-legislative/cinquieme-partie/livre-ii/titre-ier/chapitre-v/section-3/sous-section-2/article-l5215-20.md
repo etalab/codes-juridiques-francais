@@ -46,7 +46,7 @@ d) Services d'incendie et de secours, dans les conditions fixées au chapitre IV
 
 6° En matière de protection et mise en valeur de l'environnement et de politique du cadre de vie :
 
-a) Elimination et valorisation des déchets des ménages et déchets assimilés ;
+a) Collecte et traitement des déchets des ménages et déchets assimilés ;
 
 b) Lutte contre la pollution de l'air ;
 

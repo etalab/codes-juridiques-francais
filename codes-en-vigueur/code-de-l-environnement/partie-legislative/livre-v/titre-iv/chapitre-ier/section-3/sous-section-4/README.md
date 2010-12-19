@@ -1,8 +1,7 @@
-# Sous-section 4 : Installations ayant pour objet l'élimination des déchets
+# Sous-section 4 : Installations de traitement des déchets
 
 - [Article L541-22](article-l541-22.md)
 - [Article L541-23](article-l541-23.md)
-- [Article L541-24](article-l541-24.md)
 - [Article L541-25](article-l541-25.md)
 - [Article L541-25-1](article-l541-25-1.md)
 - [Article L541-26](article-l541-26.md)

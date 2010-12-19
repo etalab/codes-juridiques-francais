@@ -10,7 +10,7 @@ Les communautés de communes faisant application des dispositions de l'article 1
 
 4° Politique du logement social d'intérêt communautaire et action, par des opérations d'intérêt communautaire, en faveur du logement des personnes défavorisées ;
 
-5° Elimination et valorisation des déchets des ménages et déchets assimilés ;
+5° Collecte et traitement des déchets des ménages et déchets assimilés ;
 
 6° En matière de développement et d'aménagement sportif de l'espace communautaire : construction, aménagement, entretien et gestion des équipements sportifs d'intérêt communautaire.
 

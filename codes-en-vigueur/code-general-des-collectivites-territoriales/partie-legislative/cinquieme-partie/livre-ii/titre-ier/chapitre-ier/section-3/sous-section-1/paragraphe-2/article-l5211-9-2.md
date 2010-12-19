@@ -2,7 +2,7 @@
 
 I.-Sans préjudice de l'article L. 2212-2, lorsqu'un établissement public de coopération intercommunale à fiscalité propre est compétent en matière d'assainissement, les maires des communes membres de celui-ci transfèrent au président de cet établissement les attributions lui permettant de réglementer cette activité.
 
-Sans préjudice de l'article L. 2212-2 et par dérogation à l'article L. 2224-16, lorsqu'un établissement public de coopération intercommunale à fiscalité propre est compétent en matière d'élimination des déchets ménagers, les maires des communes membres de celui-ci transfèrent au président de cet établissement les attributions lui permettant de réglementer cette activité.
+Sans préjudice de l'article L. 2212-2 et par dérogation à l'article L. 2224-16, lorsqu'un établissement public de coopération intercommunale à fiscalité propre est compétent en matière  de gestion des déchets ménagers, les maires des communes membres de celui-ci transfèrent au président de cet établissement les attributions lui permettant de réglementer cette activité.
 
 Par dérogation à l'article 9 de la loi n° 2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage, lorsqu'un établissement public de coopération intercommunale à fiscalité propre est compétent en matière de réalisation d'aires d'accueil ou de terrains de passage des gens du voyage, les maires des communes membres de celui-ci transfèrent au président de cet établissement leurs attributions dans ce domaine de compétences.
 

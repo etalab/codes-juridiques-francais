@@ -1,3 +1,3 @@
 # Titre IV : Déchets
 
-- [Chapitre Ier : Elimination des déchets et récupération des matériaux](chapitre-ier)
+- [Chapitre Ier : Prévention et gestion des déchets](chapitre-ier)

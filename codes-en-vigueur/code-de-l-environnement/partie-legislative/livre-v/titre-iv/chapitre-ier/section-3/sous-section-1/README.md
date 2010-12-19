@@ -1,6 +1,7 @@
-# Sous-section 1 : Plans d'élimination des déchets
+# Sous-section 1 : Plans de prévention et de gestion des déchets
 
 - [Article L541-11](article-l541-11.md)
+- [Article L541-11-1](article-l541-11-1.md)
 - [Article L541-12](article-l541-12.md)
 - [Article L541-13](article-l541-13.md)
 - [Article L541-14](article-l541-14.md)
