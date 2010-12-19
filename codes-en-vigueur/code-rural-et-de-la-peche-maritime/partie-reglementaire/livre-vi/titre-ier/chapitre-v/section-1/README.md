@@ -4,5 +4,4 @@
 - [Sous-section 2 : Conditions climatiques exceptionnelles, circonstances climatiques particulières et catastrophes naturelles graves.](sous-section-2)
 - [Sous-section 3 : Dépassements des superficies et des plafonds budgétaires.](sous-section-3)
 - [Sous-section 4 : Détermination des taux d'intérêt, montants minimaux et réductions.](sous-section-4)
-- [Sous-section 5 : Transfert des superficies éligibles à certains régimes de soutien.](sous-section-5)
 - [Sous-section 6 : Détermination des superficies.](sous-section-6)

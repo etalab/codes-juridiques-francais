@@ -1,4 +1,4 @@
-# Sous-section 8 : Transfert des droits à prime dans les secteurs bovin et ovin.
+# Sous-section 8 : Transfert des droits à prime dans le secteur bovin.
 
 - [Paragraphe 1 : Transfert des droits à prime avec le transfert de l'exploitation](paragraphe-1)
 - [Paragraphe 2 : Transfert des droits à prime par l'intermédiaire de la réserve nationale](paragraphe-2)
