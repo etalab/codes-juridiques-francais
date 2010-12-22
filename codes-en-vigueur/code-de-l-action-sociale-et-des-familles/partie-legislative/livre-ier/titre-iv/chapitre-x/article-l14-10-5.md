@@ -2,19 +2,27 @@
 
 La Caisse nationale de solidarité pour l'autonomie retrace ses ressources et ses charges en six sections distinctes selon les modalités suivantes :
 
-I.-Une section consacrée au financement des établissements ou services sociaux et médico-sociaux mentionnés à l'article L. 314-3-1, qui est divisée en deux sous-sections.
+I.-Une section consacrée au financement des établissements ou services sociaux et médico-sociaux mentionnés à l'article L. 314-3-1 ainsi qu'au financement des maisons pour l'autonomie et l'intégration des malades d'Alzheimer mentionnées à l'article L. 113-3 et des groupes d'entraide mutuelle mentionnés aux articles L. 114-1-1 et L. 114-3 qui respectent un cahier des charges fixé par arrêté du ministre chargé des personnes handicapées, qui est divisée en deux sous-sections.
 
-1. La première sous-section est relative aux établissements et services mentionnés aux 1° et 4° de l'article L. 314-3-1 et à ceux du 2° du même article qui accueillent principalement des personnes handicapées. Elle retrace :
+1. La première sous-section est relative aux établissements et services mentionnés aux 1° et 4° de l'article L. 314-3-1 et à ceux du 2° du même article qui accueillent principalement des personnes handicapées, ainsi qu'aux groupes d'entraide mutuelle mentionnés aux articles L. 114-1-1 et L. 114-3. Elle retrace :
 
 a) En ressources, une fraction au moins égale à 10 % et au plus égale à 14 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4, ainsi que la part de la contribution des régimes d'assurance maladie, mentionnée au deuxième alinéa du I de l'article L. 314-3, qui est destinée au financement de ces établissements ou services ;
 
-b) En charges, le remboursement aux régimes d'assurance maladie des charges afférentes à l'accueil de leurs affiliés dans ces établissements ou services et une contribution, par voie de fonds de concours créé par l'Etat en 2006, au financement des groupes d'entraide mutuelle mentionnés à l'article L. 114-1-1.
+a bis). Pour l'année 2011, le pourcentage défini au a est fixé à 12 % ;
 
-2. La deuxième sous-section est relative aux établissements et services mentionnés au 3° de l'article L. 314-3-1 et à ceux du 2° du même article qui accueillent principalement des personnes âgées. Elle retrace :
+b) En charges, le remboursement aux régimes d'assurance maladie des charges afférentes à l'accueil de leurs affiliés dans ces établissements ou services et les contributions aux budgets des agences régionales de santé pour le financement des groupes d'entraide mutuelle mentionnés aux articles L. 114-1-1 et L. 114-3.
 
-a) En ressources, 40 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4, ainsi que la part de la contribution des régimes d'assurance maladie, mentionnée au deuxième alinéa du I de l'article L. 314-3, qui est destinée au financement de ces établissements ou services ;
+Ces contributions sont arrêtées par décision du directeur de la Caisse nationale de solidarité pour l'autonomie dans la limite du montant inscrit au budget de la section.
 
-b) En charges, le remboursement aux régimes d'assurance maladie des charges afférentes à l'accueil de leurs affiliés dans ces établissements ou services.
+2. La deuxième sous-section est relative aux établissements et services mentionnés au 3° de l'article L. 314-3-1 et à ceux du 2° du même article qui accueillent principalement des personnes âgées, ainsi qu'aux maisons pour l'autonomie et l'intégration des malades d'Alzheimer mentionnées à l'article L. 113-3. Elle retrace :
+
+a) En ressources,40 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4, ainsi que la part de la contribution des régimes d'assurance maladie, mentionnée au deuxième alinéa du I de l'article L. 314-3, qui est destinée au financement de ces établissements ou services ;
+
+a bis). Pour l'année 2011, le pourcentage défini au a est fixé à 38 % ;
+
+b) En charges, le remboursement aux régimes d'assurance maladie des charges afférentes à l'accueil de leurs affiliés dans ces établissements ou services et les contributions au budget des agences régionales de santé pour le financement des maisons pour l'autonomie et l'intégration des personnes malades d'Alzheimer mentionnées à l'article L. 113-3.
+
+Ces contributions sont arrêtées par décision du directeur de la Caisse nationale de solidarité pour l'autonomie dans la limite du montant inscrit au budget de la section.
 
 Les opérations comptables relatives aux produits et aux charges de la présente section sont effectuées simultanément à la clôture des comptes de l'exercice.
 
@@ -22,7 +30,7 @@ La dotation globale versée à l'agence mentionnée à l'article L. 312-8 du pr�
 
 II.-Une section consacrée à la prestation d'allocation personnalisée d'autonomie mentionnée à l'article L. 232-1. Elle retrace :
 
-a) En ressources, 20 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4, le produit mentionné au 4° du même article et le produit de la contribution sociale généralisée mentionné au 3° du même article, diminué du montant mentionné au IV du présent article ;
+a) En ressources,20 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4, le produit mentionné au 4° du même article et le produit de la contribution sociale généralisée mentionné au 3° du même article, diminué du montant mentionné au IV du présent article ;
 
 b) En charges, un concours versé aux départements dans la limite des ressources mentionnées au a, destiné à couvrir une partie du coût de l'allocation personnalisée d'autonomie. Le montant de ce concours est réparti selon les modalités prévues à l'article L. 14-10-6.
 
@@ -36,7 +44,7 @@ b) En charges, un concours versé aux départements dans la limite des ressource
 
 Sont également retracées en charges les subventions dues à la Caisse nationale d'allocations familiales en application des articles L. 381-1 du code de la sécurité sociale, lorsque la personne aidée est une personne handicapée, et L. 541-4 du même code.
 
-Avant imputation des contributions aux sections mentionnées aux V et VI, l'ensemble des ressources destinées aux personnes handicapées, soit au titre des établissements et services financés par la sous-section mentionnée au 1 du I, soit au titre de la présente section, doit totaliser 40 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4.
+Avant imputation des contributions aux sections mentionnées aux V et VI, l'ensemble des ressources destinées aux personnes handicapées, soit au titre des établissements et services financés par la sous-section mentionnée au 1 du I, soit au titre de la présente section, doit totaliser 38 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4.
 
 IV.-Une section consacrée à la promotion des actions innovantes, à la formation des aidants familiaux, à la formation des accueillants familiaux mentionnés aux articles L. 441-1 et L. 444-1 et au renforcement de la professionnalisation des métiers de service, qui est divisée en deux sous-sections.
 
@@ -58,7 +66,11 @@ V.-Une section consacrée au financement des autres dépenses en faveur des pers
 
 a) Pour les personnes âgées, ces charges sont retracées dans une sous-section spécifique abondée par une fraction, fixée par arrêté des ministres chargés des personnes âgées et du budget, des ressources prévues au a du 2 du I ;
 
-b) Pour les personnes handicapées, ces charges sont retracées dans une sous-section spécifique abondée par une fraction, fixée par arrêté des ministres chargés des personnes handicapées et du budget, des ressources prévues au a du III.
+a bis). Pour l'année 2011,2 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4 est affecté au financement des opérations visées au a de l'article L. 14-10-9 ;
+
+b) Pour les personnes handicapées, ces charges sont retracées dans une sous-section spécifique abondée par une fraction, fixée par arrêté des ministres chargés des personnes handicapées et du budget, des ressources prévues au a du III ;
+
+b bis) Pour l'année 2011,2 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4 est affectée au financement des opérations visées au a de l'article L. 14-10-9.
 
 VI.-Une section consacrée aux frais de gestion de la caisse. Les charges de cette section sont financées par un prélèvement sur les ressources mentionnées aux 1° à 4° de l'article L. 14-10-4, réparti entre les sections précédentes au prorata du montant des ressources qui leur sont affectées.
 

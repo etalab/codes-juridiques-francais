@@ -8,9 +8,11 @@ Les caisses de mutualité sociale agricole peuvent accorder des ristournes sur l
 
 Pour l'imposition d'une cotisation supplémentaire, en dehors du cas d'infraction constatée en application de l'article L. 611-10 du code du travail, l'envoi d'une injonction préalable n'est pas exigé en ce qui concerne les dispositions générales de prévention ayant fait l'objet d'un arrêté d'extension du ministre chargé de l'agriculture et les mesures particulières de prévention rendues obligatoires par arrêté du ministre chargé de l'agriculture pour tous les employeurs d'un secteur professionnel déterminé, à moins que ces arrêtés n'en aient disposé autrement.
 
+Il en est de même pour l'imposition découlant d'une répétition dans un établissement, dans un délai déterminé, de certaines situations particulièrement graves de risque exceptionnel définies par arrêté qui ont déjà donné lieu à une première injonction à cet établissement.
+
 Il en est de même pour l'imposition d'une cotisation supplémentaire plus élevée en cas de récidive dans un délai de trois ans ou en cas de persistance, après l'expiration du délai fixé, de la situation ayant donné lieu à l'imposition d'une cotisation supplémentaire.
 
-La cotisation supplémentaire est due à partir de la date à laquelle ont été constatés les risques exceptionnels.
+La cotisation supplémentaire est due à partir de la date à laquelle ont été constatés les risques exceptionnels. Le taux de la cotisation supplémentaire, la durée pendant laquelle elle est due et son montant forfaitaire minimal sont fixés par arrêté.
 
 Les décisions des caisses sont susceptibles de recours devant la cour nationale mentionnée à l'article L. 751-16.
 
