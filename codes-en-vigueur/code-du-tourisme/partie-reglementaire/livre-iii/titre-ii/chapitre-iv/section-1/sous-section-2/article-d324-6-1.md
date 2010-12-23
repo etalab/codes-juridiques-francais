@@ -6,7 +6,7 @@ Est réputé détenir l'accréditation mentionnée au troisième alinéa de l'ar
 
 2° Soit de l'agrément délivré par le ministre chargé du tourisme, conformément aux dispositions de l'article R. 324-9 dans sa rédaction en vigueur à la date du 22 juillet 2009.
 
-Au plus tard à compter du 1er janvier 2011, les visites de contrôle effectuées dans ce cadre doivent être réalisées selon une procédure bénéficiant d'un niveau de certification fixé par arrêté du ministre chargé du tourisme.
+Au plus tard à compter du 1er avril 2011, les visites de contrôle effectuées dans ce cadre doivent être réalisées selon une procédure bénéficiant d'un niveau de certification fixé par arrêté du ministre chargé du tourisme.
 
 Le représentant de l'Etat dans le département procède au retrait de l'agrément :
 
