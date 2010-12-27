@@ -14,6 +14,8 @@ Pendant une période ininterrompue commençant au plus tard le vingt et unième 
 
 Lorsque, pour des raisons techniques, ces formulaires ne peuvent être rendus accessibles sur son site internet, la société indique sur celui-ci les lieux et conditions dans lesquels ils peuvent être obtenus. Elle les envoie à ses frais à tout actionnaire qui en fait la demande.
 
-La société publie sans délai sur son site internet le texte des projets de résolution présentés par des actionnaires.
+La société publie sans délai sur son site internet le texte des projets de résolution présentés par les actionnaires et la liste des points ajoutés à l'ordre du jour à leur demande.
+
+Pour chaque point inscrit à l'ordre du jour, la société peut également publier un commentaire du conseil d'administration ou du directoire, selon le cas.
 
 Lorsque l'assemblée est convoquée en application des dispositions de l'article L. 233-32, le délai fixé au premier alinéa du présent article est ramené au plus tard au quinzième jour précédant l'assemblée.
