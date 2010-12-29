@@ -5,6 +5,7 @@
 - [Section 1 ter : De l'enseignement et de la formation professionnelle](section-1-ter)
 - [Section 2 : De l'assistance spirituelle](section-2)
 - [Section 3 : De l'action socio-culturelle](section-3)
+- [Section 4 : Des activités physiques et sportives](section-4)
 - [Section 5 : De l'intervention socio-éducative](section-5)
 - [Section 6 : Des visiteurs de prison](section-6)
 - [Section 7 : De l'aide à la sortie de détention](section-7)
