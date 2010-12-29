@@ -1,4 +1,4 @@
-# Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire
+# Section 1 : De l'organisation générale de l'administration pénitentiaire
 
 - [Article D188](article-d188.md)
 - [Article D189](article-d189.md)

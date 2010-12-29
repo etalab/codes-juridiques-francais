@@ -2,3 +2,4 @@
 
 - [Paragraphe 2 : La procédure d'orientation](paragraphe-2)
 - [Paragraphe 3 : La décision d'affectation](paragraphe-3)
+- [Paragraphe 4 : Changements d'affectation](paragraphe-4)
