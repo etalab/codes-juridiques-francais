@@ -2,9 +2,8 @@
 
 - [Section 1 : Des divers établissements affectés à l'exécution des peines](section-1)
 - [Section 2 : De la procédure d'orientation et des décisions d'affectation des condamnés](section-2)
-- [Section 3 : Du régime auquel les condamnés sont soumis](section-3)
-- [Section 4 : Du travail des détenus](section-4)
-- [Section 5 : De la répartition du produit du travail](section-5)
+- [Section 3 : Des modalités de prise en charge des personnes détenues condamnées](section-3)
+- [Section 4 : De l'encellulement individuel](section-4)
 - [Section 6 : Des réductions de peine](section-6)
 - [Section 7 : Du placement à l'extérieur, du régime de  semi-liberté, du placement sous surveillance électronique et des permissions de sortir](section-7)
 - [Section 8 : De la suspension de peine prévue par l'article 720-1-1](section-8)

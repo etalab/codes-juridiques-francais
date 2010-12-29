@@ -4,7 +4,7 @@ Des permissions de sortir d'une durée n'excédant pas la journée peuvent être
 
 1° Présentation à leurs employeurs éventuels des détenus prochainement libérables ou susceptibles d'être admis au bénéfice de la libération conditionnelle ou au régime de semi-liberté ou de placement à l'extérieur en application de l'article D. 136 ;
 
-2° Présentation aux épreuves d'un examen dans les conditions prévues aux articles D. 455 et D. 459 ;
+2° Présentation aux épreuves d'un examen dans les conditions prévues aux articles D. 436-3 et D. 438-2 ;
 
 3° Présentation dans un centre de soins ;
 

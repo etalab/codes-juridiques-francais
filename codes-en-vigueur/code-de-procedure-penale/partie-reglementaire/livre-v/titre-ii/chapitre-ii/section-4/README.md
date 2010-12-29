@@ -1,4 +1,5 @@
-# Section 4 : Du travail des détenus
+# Section 4 : De l'encellulement individuel
 
-- [Paragraphe 1er : Principes](paragraphe-1er)
-- [Paragraphe 2 : Formes et modalités du travail](paragraphe-2)
+- [Article D93](article-d93.md)
+- [Article D94](article-d94.md)
+- [Article D95](article-d95.md)
