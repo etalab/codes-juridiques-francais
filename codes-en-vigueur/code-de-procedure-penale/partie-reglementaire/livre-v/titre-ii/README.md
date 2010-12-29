@@ -1,7 +1,7 @@
 # Titre II : De la détention
 
 - [Chapitre Ier : De l'exécution de la détention provisoire](chapitre-ier)
-- [Chapitre II : De l'exécution des peines privatives de liberté](chapitre-ii)
+- [Chapitre II : Des conditions générales de détention](chapitre-ii)
 - [Chapitre IV : De l'administration des établissements pénitentiaires](chapitre-iv)
 - [Chapitre VI : Des mouvements de personnes détenues](chapitre-vi)
 - [Chapitre VII : De la gestion des biens et de l'entretien des personnes détenues](chapitre-vii)

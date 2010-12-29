@@ -1,6 +1,7 @@
-# Chapitre II : De l'exécution des peines privatives de liberté
+# Chapitre II : Des conditions générales de détention
 
 - [Section 1 : Des divers établissements affectés à l'exécution des peines](section-1)
+- [Section 2 : De la procédure d'orientation et des décisions d'affectation des condamnés](section-2)
 - [Section 3 : Du régime auquel les condamnés sont soumis](section-3)
 - [Section 4 : Du travail des détenus](section-4)
 - [Section 5 : De la répartition du produit du travail](section-5)
