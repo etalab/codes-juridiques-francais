@@ -5,7 +5,6 @@
 - [Chapitre IV : De l'administration des établissements pénitentiaires](chapitre-iv)
 - [Chapitre VI : Des mouvements de personnes détenues](chapitre-vi)
 - [Chapitre VII : De la gestion des biens et de l'entretien des personnes détenues](chapitre-vii)
-- [Chapitre VIII : De l'hygiène et de l'organisation sanitaire](chapitre-viii)
 - [Chapitre IX : Des relations des personnes détenues avec l'extérieur](chapitre-ix)
 - [Chapitre X : Des actions de préparation à la réinsertion des personnes détenues](chapitre-x)
 - [Chapitre XI : De différentes catégories de personnes détenues](chapitre-xi)
