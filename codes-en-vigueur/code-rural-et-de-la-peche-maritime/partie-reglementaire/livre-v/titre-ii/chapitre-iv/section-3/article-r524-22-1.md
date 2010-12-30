@@ -2,11 +2,11 @@
 
 Les sociétés coopératives agricoles et unions sont tenues de désigner au moins un commissaire aux comptes et un suppléant lorsque, à la clôture de l'exercice, elles dépassent les seuils fixés ci-dessous pour deux des trois critères suivants :
 
-1° Trois pour le nombre de salariés ; les salariés pris en compte sont ceux qui sont liés à la personne morale par un contrat de travail à durée indéterminée ;
+1° Dix pour le nombre de salariés  ; les salariés pris en compte sont ceux qui sont liés à la personne morale par un contrat de travail à durée indéterminée ;
 
-2° 110 000 euros pour le montant hors taxes du chiffre d'affaires ;
+2° 534 000 euros  pour le montant hors taxes du chiffre d'affaires ;
 
-3° 55 000 euros pour le total du bilan ; celui-ci est égal à la somme des montants nets des éléments d'actif.
+3° 267 000 euros  pour le total du bilan ; celui-ci est égal à la somme des montants nets des éléments d'actif.
 
 Ces sociétés et unions déposent en double exemplaire, au greffe du tribunal compétent, dans le mois qui suit l'approbation des comptes annuels par l'assemblée générale des associés :
 
