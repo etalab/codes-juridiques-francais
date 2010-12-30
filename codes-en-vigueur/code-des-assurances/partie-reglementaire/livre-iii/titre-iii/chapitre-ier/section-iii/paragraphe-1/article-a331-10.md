@@ -12,4 +12,4 @@ Le calcul des provisions techniques de prestations d'incapacité de travail et d
 
 Toutefois, il est possible pour une entreprise d'assurances d'utiliser une loi de survie en invalidité établie par l'entreprise d'assurance et certifiée par un actuaire indépendant de cette entreprise, agréé à cet effet par l'une des associations d'actuaires reconnues par l'Autorité de contrôle prudentiel ;
 
-2° Un taux d'actualisation qui ne peut excéder 60 % du taux moyen des emprunts de l'Etat français calculé sur base semestrielle, sans pouvoir dépasser 3,5 %.
+2° Un taux d'actualisation qui ne peut excéder 60 % du taux moyen au cours des vingt-quatre derniers mois des emprunts de l'Etat français, sans pouvoir dépasser 3,5 %.
