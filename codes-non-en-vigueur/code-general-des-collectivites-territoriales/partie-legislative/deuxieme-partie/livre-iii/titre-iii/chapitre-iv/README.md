@@ -5,4 +5,3 @@
 - [Section 3 : Dotation spéciale pour le logement des instituteurs](section-3)
 - [Section 4 : Dotation globale d'équipement](section-4)
 - [Section 5 : Dotation de développement rural](section-5)
-- [Section 6 : Dotation de développement urbain](section-6)
