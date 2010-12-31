@@ -1,6 +1,7 @@
 # Chapitre III : Des sociétés à responsabilité limitée.
 
 - [Article D223-2](article-d223-2.md)
+- [Article D223-6-1](article-d223-6-1.md)
 - [Article R223-1](article-r223-1.md)
 - [Article R223-3](article-r223-3.md)
 - [Article R223-4](article-r223-4.md)
