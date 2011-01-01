@@ -1,9 +1,3 @@
 # Article 905
 
-La cour est saisie à la diligence de l'une ou de l'autre partie par la remise au secretariat-greffe d'une demande d'inscription au rôle.
-
-Cette demande doit être remise dans les deux mois de la déclaration, faute de quoi celle-ci sera caduque.
-
-La caducité est constatée d'office par ordonnance du premier président ou du président de la chambre à laquelle l'affaire a été distribuée.
-
-A défaut de remise, requête peut être présentée au premier président en vue de faire constater la caducité.
+Lorsque l'affaire semble présenter un caractère d'urgence ou être en état d'être jugée ou lorsque l'appel est relatif à une ordonnance de référé ou à une des ordonnances du juge de la mise en état énumérées aux 1° à 4° de l'article 776, le président de la chambre saisie, d'office ou à la demande d'une partie, fixe à bref délai l'audience à laquelle elle sera appelée ; au jour indiqué, il est procédé selon les modalités prévues aux articles 760 à 762.
