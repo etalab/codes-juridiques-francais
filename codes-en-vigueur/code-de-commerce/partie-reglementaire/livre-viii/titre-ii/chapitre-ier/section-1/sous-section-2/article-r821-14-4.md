@@ -8,7 +8,7 @@ Il est chargé :
 
 a) De la tenue de la comptabilité du haut conseil ;
 
-b) Du recouvrement, auprès de la Compagnie nationale des commissaires aux comptes, du reversement des droits et contributions institué à l'article L. 821-5 ;
+b) Du recouvrement, auprès de la Compagnie nationale des commissaires aux comptes, du reversement des droits et contributions institué à l'article L. 821-5, ainsi que de la cotisation instituée par l'article L. 821-6-1 ;
 
 c) Du recouvrement de toutes les autres recettes du haut conseil ;
 

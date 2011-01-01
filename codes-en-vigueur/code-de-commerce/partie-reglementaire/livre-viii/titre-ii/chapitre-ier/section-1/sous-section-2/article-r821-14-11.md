@@ -2,7 +2,7 @@
 
 Le secrétaire général peut décider, après l'avis conforme de l'agent comptable :
 
-1° En cas de gêne des débiteurs, d'accorder une remise gracieuse des créances du haut conseil, sauf pour le reversement des droits et contributions institué à l'article L. 821-5 ;
+1° En cas de gêne des débiteurs, d'accorder une remise gracieuse des créances du haut conseil, sauf pour le reversement des droits et contributions institué à l'article L. 821-5 et pour le versement de la cotisation instituée à l'article L. 821-6-1 ;
 
 2° Une admission en non-valeur des créances du haut conseil, en cas d'irrécouvrabilité avérée ou d'insolvabilité des débiteurs.
 
