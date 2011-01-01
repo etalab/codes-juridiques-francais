@@ -1,9 +1,11 @@
 # Article 235 ter Z
 
-Les entreprises qui exploitent en France des gisements d'hydrocarbures liquides ou gazeux doivent acquitter un prélèvement exceptionnel égal à 12 p. 100 du bénéfice net imposable réalisé au cours de l'avant-dernière année précédant celle de l'imposition et provenant de la vente, en l'état ou après transformation, des produits marchands extraits de ces gisements à l'exception de ceux mis en exploitation ((à compter du 1er janvier 1994.)) (1)
+Il est institué une contribution additionnelle à l'imposition forfaitaire sur les entreprises de réseaux applicable aux stations radioélectriques mentionnées à l'article 1519 H autres que celles mentionnées au deuxième alinéa du III du même article.
 
-Le prélèvement n'est pas dû par les entreprises dont le chiffre d'affaires de l'année précédant celle de l'imposition n'excède pas 100 millions de francs.
+Cette contribution est due chaque année par la personne redevable de l'imposition forfaitaire mentionnée au premier alinéa du présent article.
 
-Le prélèvement n'est pas déductible pour la détermination du bénéfice imposable. Il est établi, déclaré, liquidé et recouvré selon les mêmes modalités et sous les mêmes garanties et sanctions que la retenue à la source sur les revenus de capitaux mobiliers. Il est payé pour moitié le 15 mai et pour moitié le 15 octobre de chaque année.
+Elle est égale à un pourcentage du montant de cette imposition fixé par décret dans la limite de 5 %.
 
-(1) Modification.
+Cette contribution fait l'objet d'une déclaration dans les mêmes conditions que l'imposition mentionnée à l'article 1519 H.
+
+Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et privilèges sont régis comme en matière de cotisation foncière des entreprises.
