@@ -4,3 +4,4 @@
 - [Section 3 : Contrats ou conventions pluriannuels](section-3)
 - [Section 4 : Contrôle](section-4)
 - [Section 5 : Sécurité des personnes hébergées dans des établissements médico-sociaux en cas de défaillance du réseau d'énergie.](section-5)
+- [Section 6 : Sécurité des personnes hébergées dans des établissements médico-sociaux en cas de défaillance du réseau d'énergie](section-6)
