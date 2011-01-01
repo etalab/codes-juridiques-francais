@@ -8,7 +8,7 @@ Cet abattement s'applique au titre des impositions établies de 2001 à 2007 et 
 
 II bis.-Ouvrent également droit à l'abattement prévu au I les logements faisant l'objet d'une convention d'utilité sociale définie à l'article L. 445-1 du code de la construction et de l'habitation passée entre le propriétaire et l'Etat.
 
-Cet abattement s'applique aux impositions établies au titre des années 2006 à 2013 et à compter du 1er janvier de l'année suivant celle de la signature de la convention.
+Cet abattement s'applique aux impositions établies au titre des années 2011 à 2013 sous réserve de la signature de la convention d'utilité sociale avant le 1er juillet 2011.
 
 III.-Pour bénéficier de l'abattement prévu au I, les organismes concernés doivent adresser au service des impôts du lieu de situation des biens, avant le 1er janvier de l'année suivant celle de la signature de la convention, une déclaration conforme au modèle établi par l'administration comportant tous les éléments d'identification des biens. Elle doit être accompagnée d'une copie de la convention visée au II ou au II bis ainsi que des documents justifiant des modalités de financement de la construction ou de l'acquisition. Lorsque la déclaration est souscrite hors délai, l'abattement s'applique pour la période restant à courir après le 31 décembre de l'année de la souscription.
 

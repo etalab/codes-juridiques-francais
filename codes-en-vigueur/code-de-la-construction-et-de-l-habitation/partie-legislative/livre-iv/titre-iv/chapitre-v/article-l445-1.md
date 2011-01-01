@@ -1,6 +1,6 @@
 # Article L445-1
 
-Avant le 31 décembre 2010, les organismes d'habitations à loyer modéré concluent avec l'Etat, sur la base du plan stratégique de patrimoine mentionné à l'article L. 411-9 et en tenant compte des programmes locaux de l'habitat, une convention d'utilité sociale d'une durée de six ans renouvelable.
+Avant le 1er juillet 2011, les organismes d'habitations à loyer modéré concluent avec l'Etat, sur la base du plan stratégique de patrimoine mentionné à l'article L. 411-9 et en tenant compte des programmes locaux de l'habitat, une convention d'utilité sociale d'une durée de six ans renouvelable.
 
 Les établissements publics de coopération intercommunale dotés d'un programme local de l'habitat et les départements sont associés, selon des modalités définies par décret en Conseil d'Etat, à l'élaboration des dispositions des conventions d'utilité sociale relatives aux immeubles situés sur leur territoire. Ils sont signataires des conventions d'utilité sociale conclues par les organismes qui leur sont rattachés et peuvent l'être pour les organismes disposant d'un patrimoine sur leur territoire.
 

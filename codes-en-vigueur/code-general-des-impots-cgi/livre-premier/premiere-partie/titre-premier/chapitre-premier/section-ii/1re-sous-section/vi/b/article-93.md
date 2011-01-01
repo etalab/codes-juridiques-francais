@@ -8,7 +8,7 @@ Les dépenses déductibles comprennent notamment :
 
 2° Les amortissements effectués suivant les règles applicables en matière de bénéfices industriels et commerciaux ;
 
-3° Les loyers versés en exécution d'un contrat de crédit-bail ou de location portant sur des  véhicules de tourisme au sens de l'article 1010, à l'exclusion de la part de loyer visée au 4 de l'article 39 ;
+3° Les loyers versés en exécution d'un contrat de crédit-bail ou de location portant sur des véhicules de tourisme au sens de l'article 1010, à l'exclusion de la part de loyer visée au 4 de l'article 39 ;
 
 4° Les dépenses exposées pour la tenue de la comptabilité et, éventuellement, pour l'adhésion à une association agréée ne sont pas prises en compte pour la détermination du résultat imposable lorsqu'elles sont supportées par l'Etat du fait de la réduction d'impôt mentionnée à l'article 199 quater B ;
 
@@ -34,7 +34,7 @@ Les intéressés ne doivent pas bénéficier d'autres revenus professionnels, à
 
 Le montant brut de ces courtages et rémunérations accessoires ne doit pas excéder 10 % du montant brut des commissions.
 
-La demande doit être adressée au service des impôts du lieu d'exercice de la profession avant le 1er mars de l'année au titre de laquelle l'imposition est établie. L'option demeure valable tant qu'elle n'a pas été expressément dénoncée dans les mêmes conditions.
+La demande doit être adressée au service des impôts du lieu d'exercice de la profession avant le 1er mars de l'année au titre de laquelle l'imposition est établie.L'option demeure valable tant qu'elle n'a pas été expressément dénoncée dans les mêmes conditions.
 
 Les contribuables ayant demandé l'application de ce régime doivent joindre à leur déclaration annuelle un état donnant la ventilation des sommes reçues suivant les parties versantes.
 
@@ -56,7 +56,7 @@ La déduction forfaitaire de 10 % pour frais professionnels, prévue au 3° de l
 
 **7**. Les sommes perçues postérieurement à la cession à titre onéreux par le cédant d'une entreprise individuelle exerçant une activité industrielle, commerciale ou artisanale en raison de son activité au profit du cessionnaire pendant la période de trois mois précédant la cession sont soumises à l'impôt sur le revenu sous déduction d'un abattement de 1 550 euros.
 
-Cette disposition s'applique si le cédant est âgé de soixante ans au moins et soixante-cinq ans au plus à la date de la cession et s'il cesse d'exercer une activité de chef d'entreprise.
+Cette disposition s'applique si l'âge du cédant à la date de cession excède, dans la limite de cinq ans, celui auquel lui est ouvert le droit à une pension de retraite et si le cédant cesse d'exercer une activité de chef d'entreprise.
 
 **8**. Sur demande expresse des contribuables soumis au régime de la déclaration contrôlée qui exercent une activité professionnelle au sens du 1 de l'article 92, les subventions visées à l'article 42 septies ne sont pas comprises dans les résultats de l'année en cours à la date de leur versement. Dans ce cas, elles sont imposables dans les conditions définies par ce dernier article.
 

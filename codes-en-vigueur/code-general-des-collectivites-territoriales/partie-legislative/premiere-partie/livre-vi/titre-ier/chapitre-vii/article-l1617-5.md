@@ -16,15 +16,27 @@ L'action dont dispose le débiteur de la créance visée à l'alinéa précéden
 
 Le délai de quatre ans mentionné à l'alinéa précédent est interrompu par tous actes comportant reconnaissance de la part des débiteurs et par tous actes interruptifs de la prescription.
 
-4° Le titre de recettes individuel ou un extrait du titre de recettes collectif est adressé aux redevables sous pli simple. Lorsque le redevable n'a pas effectué le versement qui lui était demandé à la date limite du paiement, le comptable chargé du recouvrement doit lui envoyer une lettre de rappel avant la notification du premier acte de poursuite devant donner lieu à des frais.
+4°  Une ampliation du titre de recettes individuel ou de l'extrait du titre  de recettes collectif est adressée au redevable sous pli simple.  Lorsque le redevable n'a pas effectué le versement qui lui était demandé  à la date limite de paiement, le comptable public compétent lui adresse  une mise en demeure de payer avant la notification du premier acte  d'exécution forcée devant donner lieu à des frais.
 
 En application de l'article 4 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations, le titre de recettes individuel ou l'extrait du titre de recettes collectif mentionne les nom, prénoms et qualité de la personne qui l'a émis ainsi que les voies et délais de recours.
 
 Seul le bordereau de titres de recettes est signé pour être produit en cas de contestation.
 
-5° Le recouvrement par les comptables directs du Trésor des titres rendus exécutoires dans les conditions prévues au présent article peut être assuré par voie d'opposition à tiers détenteur adressée aux personnes physiques ou morales qui détiennent des fonds pour le compte de redevables, qui ont une dette envers lui ou qui lui versent une rémunération.
+5°  Lorsque la mise en demeure de payer n'a pas été suivie de paiement, le  comptable public compétent peut, à l'expiration d'un délai de trente  jours suivant sa notification, engager des poursuites devant donner lieu  à des frais mis à la charge du redevable dans les conditions fixées à  l'article 1912 du code général des impôts.
 
-Les comptables directs du Trésor chargés du recouvrement de ces titres peuvent procéder par la voie de l'opposition à tiers détenteur lorsque les sommes dues par un redevable au même poste comptable sont supérieures à un montant, fixé par décret en Conseil d'Etat, pour chacune des catégories de tiers détenteur.
+La mise en demeure de payer interrompt la prescription de l'action en recouvrement.
+
+L'envoi de la mise en demeure de payer tient lieu du commandement prescrit par le code de procédure civile préalablement  à une saisie-vente. Dans ce cas, la mise en demeure de payer n'est pas  soumise aux conditions générales de validité des actes des huissiers de  justice ;
+
+6°  Pour les créances d'un montant inférieur à 15 000 €, la mise en demeure  de payer est précédée d'une lettre de relance adressée par le comptable  public compétent ou d'une phase comminatoire, par laquelle il demande à  un huissier de justice d'obtenir du redevable qu'il s'acquitte auprès  de lui du montant de sa dette.
+
+Les frais de  recouvrement sont versés directement par le redevable à l'huissier de  justice. Le montant des frais, qui restent acquis à l'huissier de  justice, est calculé selon un taux proportionnel aux sommes recouvrées  fixé par arrêté conjoint du ministre chargé du budget et du ministre de  la justice.
+
+Lorsque la lettre de relance ou la  phase comminatoire n'a pas été suivie de paiement, le comptable public  compétent peut adresser une mise en demeure de payer. Dans ce cas,  l'exécution forcée des poursuites donnant lieu à des frais peut être  engagée à l'expiration d'un délai de huit jours suivant la notification  de la mise en demeure de payer.
+
+7° Le recouvrement par les comptables publics compétents des titres rendus exécutoires dans les conditions prévues au présent article peut être assuré par voie d'opposition à tiers détenteur adressée aux personnes physiques ou morales qui détiennent des fonds pour le compte de redevables, qui ont une dette envers lui ou qui lui versent une rémunération.
+
+Les comptables publics compétents chargés du recouvrement de ces titres peuvent procéder par la voie de l'opposition à tiers détenteur lorsque les sommes dues par un redevable au même poste comptable sont supérieures à un montant, fixé par décret en Conseil d'Etat, pour chacune des catégories de tiers détenteur.
 
 Le comptable public chargé du recouvrement notifie cette opposition au redevable en même temps qu'elle est adressée au tiers détenteur.
 
@@ -40,7 +52,7 @@ Si les fonds détenus ou dus par le tiers détenteur sont indisponibles entre se
 
 Les contestations relatives à l'opposition sont introduites et instruites dans les conditions fixées aux 1° et 2° du présent article.
 
-6° Les comptables directs du Trésor chargés du recouvrement d'une créance assise et liquidée par une collectivité territoriale ou ses établissements publics peuvent obtenir sans que le secret professionnel ne puisse leur être opposé, les informations et renseignements nécessaires à l'exercice de cette mission.
+8° Les comptables publics compétents chargés du recouvrement d'une créance assise et liquidée par une collectivité territoriale ou ses établissements publics peuvent obtenir sans que le secret professionnel ne puisse leur être opposé, les informations et renseignements nécessaires à l'exercice de cette mission.
 
 Ce droit de communication s'exerce quel que soit le support utilisé pour la conservation de ces informations ou renseignements.
 
@@ -48,4 +60,4 @@ Les renseignements et informations communiqués aux comptables visés au premier
 
 Ces renseignements et informations peuvent être sollicités auprès des collectivités territoriales et de leurs établissements publics locaux, des administrations et entreprises publiques, des établissements et organismes de sécurité sociale, ainsi que des organismes ou particuliers assurant des prestations de services à caractère juridique, financier ou comptable, ou la détention de biens ou de fonds pour le compte de débiteurs.
 
-En complément de ce droit de communication, les comptables directs du Trésor chargés du recouvrement d'une créance dont l'assiette est établie et qui est liquidée par une collectivité territoriale ou l'un de ses établissements publics disposent d'un droit d'accès aux fichiers utilisés par les services en charge de l'établissement de l'assiette et du recouvrement des impôts.
+En complément de ce droit de communication, les comptables publics compétents chargés du recouvrement d'une créance dont l'assiette est établie et qui est liquidée par une collectivité territoriale ou l'un de ses établissements publics disposent d'un droit d'accès aux fichiers utilisés par les services en charge de l'établissement de l'assiette et du recouvrement des impôts.
