@@ -13,3 +13,5 @@ A compter de 2008, le montant de la dotation forfaitaire est minoré de 59 427 7
 A compter de 2008, le montant de la dotation globale de fonctionnement des départements est majoré d'un montant égal à la dotation globale de fonctionnement versée aux communes de Saint-Martin et Saint-Barthélemy en 2007.
 
 A compter de 2009, pour le calcul du montant de la dotation globale de fonctionnement des départements, le montant de la dotation globale de fonctionnement de 2008 calculé dans les conditions définies ci-dessus est minoré du montant de dotation globale de fonctionnement calculé au profit de la collectivité de Saint-Barthélemy en 2008.
+
+En 2011, le montant de la dotation globale de fonctionnement des départements mise en répartition est augmenté de 67 millions d'euros par rapport à 2010.

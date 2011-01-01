@@ -5,54 +5,42 @@
 <table>
 <tbody>
 <tr>
-<td align="center" rowspan="3" valign="middle">
-<font size="1">DÉSIGNATION DES PRODUITS</font>
+<td rowspan="3">
+<p align="center">DÉSIGNATION DES PRODUITS <br/>
+</p>
 </td>
-<td align="center" colspan="3" valign="middle">
-<font size="1">RÉDUCTION<br/>
-</font>
-<font size="1">(en euros par hectolitre) </font>
+<td colspan="3">
+<p align="center">RÉDUCTION<br/>(en euros par hectolitre)</p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p align="center">
-<font size="1">Année</font>
-</p>
+<p align="center">Année</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<font size="1">2009 </font>
-</p>
+<p align="center">2011</p>
 </td>
 <td>
-<p align="center">
-<font size="1">2010 </font>
-</p>
+<p align="center">2012</p>
 </td>
 <td>
-<p align="center">
-<font size="1">2011</font>
-</p>
+<p align="center">2013</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td>
 <p align="left">1. Esters méthyliques d'huile végétale incorporés au gazole ou au fioul domestique</p>
 </td>
-<td align="center">
-<p align="center">
-<br/>15,00 </p>
+<td>
+<p align="center">8,00</p>
 </td>
-<td align="center">
-<p align="center">
-<br/>11,00 </p>
+<td>
+<p align="center">8,00</p>
 </td>
-<td align="center">
-<p align="center">
-<br/>8,00 </p>
+<td>
+<p align="center">8,00</p>
 </td>
 </tr>
 <tr>
@@ -60,50 +48,41 @@
 <p align="left">2. Esters méthyliques d'huile animale ou usagée incorporés au gazole ou au fioul domestique</p>
 </td>
 <td align="center">
-<p align="center">
-<br/>15,00 </p>
+<br/>8,00 <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>11 00 </p>
+<br/>8,00 <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>8 00</p>
+<br/>8,00 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">3. Contenu en alcool des dérivés de l'alcool éthylique incorporés aux supercarburants dont la composante alcool est d'origine agricole, sous nomenclature douanière combinée NC 220710 </p>
+<p align="left">3. Contenu en alcool des dérivés de l'alcool éthylique incorporés aux supercarburants dont la composante alcool est d'origine agricole, sous nomenclature douanière combinée NC 220710</p>
 </td>
 <td align="center">
-<p align="center">
-<br/>21,00 </p>
+<br/>14,00 <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>18,00 </p>
+<br/>14,00 <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>14,00 </p>
+<br/>14,00 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">4. Alcool éthylique d'origine agricole, sous nomenclature douanière combinée NC 220710, incorporé aux supercarburants ou au superéthanol E85 repris à l'indice d'identification 55 </p>
+<p align="left">4. Alcool éthylique d'origine agricole, sous nomenclature douanière combinée NC 220710, incorporé aux supercarburants ou au superéthanol E85 repris à l'indice d'identification 55</p>
 </td>
 <td align="center">
-<p align="center">
-<br/>21,00</p>
+<p align="center">14,00</p>
 </td>
 <td align="center">
-<p align="center">
-<br/>18,00 </p>
+<p align="center">14,00</p>
 </td>
 <td align="center">
-<p align="center">
-<br/>14,00 </p>
+<p align="center">14,00</p>
 </td>
 </tr>
 <tr>
@@ -111,16 +90,13 @@
 <p align="left">5. Biogazole de synthèse</p>
 </td>
 <td align="center">
-<p align="center">
-<br/>15,00 </p>
+<p align="center">8,00</p>
 </td>
 <td align="center">
-<p align="center">
-<br/>11,00 </p>
+<p align="center">8,00</p>
 </td>
 <td align="center">
-<p align="center">
-<br/>8,00 </p>
+<p align="center">8,00</p>
 </td>
 </tr>
 <tr>
@@ -128,16 +104,13 @@
 <p align="left">6. Esters éthyliques d'huile végétale incorporés au gazole ou au fioul domestique</p>
 </td>
 <td align="center">
-<p align="center">
-<br/>21,00 </p>
+<p align="center">14,00</p>
 </td>
 <td align="center">
-<p align="center">
-<br/>18,00 </p>
+<p align="center">14,00</p>
 </td>
 <td align="center">
-<p align="center">
-<br/>14,00 </p>
+<p align="center">14,00</p>
 </td>
 </tr>
 </tbody>

@@ -6,7 +6,7 @@ La nature et les conditions d'attribution de ces aides, qui peut notamment être
 
 Les collectivités territoriales et leurs groupements peuvent aussi attribuer des aides visant à financer des structures participant à la permanence des soins, notamment des maisons médicales.
 
-Les investissements immobiliers réalisés par les communes et / ou leurs groupements, destinés à l'installation des professionnels de santé et / ou à l'action sanitaire et sociale, sont éligibles au Fonds de compensation pour la taxe sur la valeur ajoutée.
+Les investissements immobiliers réalisés, par les communes et leurs groupements, dans les zones en déficit en matière d'offre de soins définies au premier alinéa du présent I, les zones de revitalisation rurale ou les territoires ruraux de développement prioritaire, et destinés à l'installation des professionnels de santé ou à l'action sanitaire et sociale, sont éligibles au Fonds de compensation pour la taxe sur la valeur ajoutée.
 
 Les collectivités territoriales et leurs groupements peuvent également accorder des indemnités de logement et de déplacement aux étudiants de troisième cycle de médecine générale lorsqu'ils effectuent leurs stages dans les zones définies par la loi de financement de la sécurité sociale pour 1999 précitée, dans lesquelles est constaté un déficit en matière d'offre de soins.
 

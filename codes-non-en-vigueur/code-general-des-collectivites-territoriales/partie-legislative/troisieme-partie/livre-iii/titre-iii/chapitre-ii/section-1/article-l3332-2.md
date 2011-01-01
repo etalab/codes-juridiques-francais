@@ -22,4 +22,6 @@ Les recettes non fiscales de la section de fonctionnement se composent notamment
 
 10° Des produits versés par la Caisse nationale de solidarité pour l'autonomie mentionnée par l'article L. 14-10-1 du code de l'action sociale et des familles ;
 
-11° Des dons et legs en espèces hormis ceux visés au 7° de l'article L. 3332-3.
+11° Des dons et legs en espèces hormis ceux visés au 7° de l'article L. 3332-3 ;
+
+12° La dotation de compensation de la réforme de la taxe professionnelle.

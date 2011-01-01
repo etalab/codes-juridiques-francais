@@ -10,6 +10,7 @@
 - [Article L353-9](article-l353-9.md)
 - [Article L353-9-1](article-l353-9-1.md)
 - [Article L353-9-2](article-l353-9-2.md)
+- [Article L353-9-3](article-l353-9-3.md)
 - [Article L353-10](article-l353-10.md)
 - [Article L353-11](article-l353-11.md)
 - [Article L353-12](article-l353-12.md)

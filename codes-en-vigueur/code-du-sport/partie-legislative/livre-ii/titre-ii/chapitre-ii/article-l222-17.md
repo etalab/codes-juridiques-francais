@@ -10,6 +10,6 @@ Le contrat écrit en exécution duquel l'agent sportif exerce l'activité consis
 
 Lorsque, pour la conclusion d'un contrat mentionné à l'article L. 222-7, plusieurs agents sportifs interviennent, le montant total de leurs rémunérations ne peut excéder 10 % du montant de ce contrat.
 
-Le montant de la rémunération de l'agent sportif peut, par accord entre celui-ci et les parties aux contrats mentionnés à l'article L. 222-7, être pour tout ou partie acquitté par le cocontractant du sportif ou de l'entraîneur. Cette rémunération n'est alors pas qualifiée d'avantage en argent accordé au sportif ou à l'entraîneur en sus des salaires, indemnités ou émoluments.L'agent sportif donne quittance du paiement au cocontractant du sportif ou de l'entraîneur.
+Le montant de la rémunération de l'agent sportif peut, par accord entre celui-ci et les parties aux contrats mentionnés à l'article L. 222-7, être pour tout ou partie acquitté par le cocontractant du sportif ou de l'entraîneur. L'agent sportif donne quittance du paiement au cocontractant du sportif ou de l'entraîneur.
 
 Toute convention contraire au présent article est réputée nulle et non écrite.

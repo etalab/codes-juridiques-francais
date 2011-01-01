@@ -5,6 +5,7 @@
 - [Chapitre VII sexies : Contribution pour une pêche durable](chapitre-vii-sexies)
 - [Chapitre VII septies : Taxe sur la publicité diffusée par les chaînes de télévision](chapitre-vii-septies)
 - [Chapitre VII octies : Taxe sur les services fournis par les opérateurs de communications électroniques](chapitre-vii-octies)
+- [Chapitre VII nonies : Taxe sur les services de publicité en ligne](chapitre-vii-nonies)
 - [Chapitre VIII bis : Taxe sur certaines dépenses de publicité](chapitre-viii-bis)
 - [Chapitre VIII ter : Taxe sur le chiffre d'affaires des exploitants agricoles](chapitre-viii-ter)
 - [Chapitre IX : Redevance sanitaire d'abattage](chapitre-ix)

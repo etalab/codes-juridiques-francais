@@ -12,6 +12,6 @@ c) 30,49 € par mètre carré pour une emprise située dans une commune de plus
 
 Pour les ouvrages destinés à un usage agricole, le plafond est celui fixé au a) quelle que soit la population de la commune où est situé l'ouvrage.
 
-2° Un élément égal au produit du volume prélevable ou rejetable par l'ouvrage par un taux de base compris entre 1,5 € et 4,6 € par millier de mètres cubes prélevables ou rejetables, et identique pour tous les usagers.A ce deuxième élément est appliqué un coefficient d'abattement compris entre 90 % et 97 % pour les usages agricoles et entre 10 % et 30 % pour les usages industriels.
+2° Un élément égal au produit du volume prélevable ou rejetable par l'ouvrage par un taux de base compris entre 1,5 € et 7 € par millier de mètres cubes prélevables ou rejetables, et identique pour tous les usagers.A ce deuxième élément est appliqué un coefficient d'abattement compris entre 90 % et 97 % pour les usages agricoles et entre 10 % et 30 % pour les usages industriels.
 
 Dans les cas particuliers où un acte de concession a prévu la réalisation par le concessionnaire d'ouvrages hydrauliques visant à rétablir des prélèvements ou des écoulements d'eau existants au profit de tiers, la taxe est due par ces derniers, au prorata de leurs volumes prélevables ou rejetables.

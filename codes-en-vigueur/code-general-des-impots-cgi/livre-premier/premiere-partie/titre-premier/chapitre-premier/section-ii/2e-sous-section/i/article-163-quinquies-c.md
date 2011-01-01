@@ -28,6 +28,8 @@ c) Les distributions auxquelles donnent droit ces actions sont versées au moins
 
 4° L'actionnaire, son conjoint et leurs ascendants et descendants ne détiennent pas ensemble, directement ou indirectement, plus de 25 % des droits dans les bénéfices de sociétés dont les titres figurent à l'actif de la société de capital-risque, ou n'ont pas détenu cette part à un moment quelconque au cours des cinq années précédant la souscription ou l'acquisition des actions de la société de capital-risque.
 
+Cette disposition ne s'applique pas aux actions de sociétés de capital-risque donnant lieu à des droits différents sur l'actif net ou sur les produits du fonds et attribuées en fonction de la qualité de la personne.
+
 III. Les sommes qui ont été exonérées d'impôt sur le revenu sont ajoutées au revenu imposable de l'année au cours de laquelle la société ou le contribuable cesse de remplir les conditions fixées ci-dessus.
 
 Toutefois, l'exonération est maintenue en cas de cession des actions par le contribuable lorsque lui-même ou l'un des époux soumis à une imposition commune se trouve dans l'un des cas suivants : invalidité correspondant au classement dans la deuxième ou troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, décès, départ à la retraite ou licenciement.

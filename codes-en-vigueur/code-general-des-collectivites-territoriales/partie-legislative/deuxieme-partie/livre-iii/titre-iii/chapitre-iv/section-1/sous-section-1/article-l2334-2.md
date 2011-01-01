@@ -4,7 +4,7 @@ La population à prendre en compte pour l'application de la présente section es
 
 Cette population est la population totale majorée, sauf disposition particulière, d'un habitant par résidence secondaire et d'un habitant par place de caravane située sur une aire d'accueil des gens du voyage satisfaisant aux conditions de la convention de l'article L. 851-1 du code de la sécurité sociale et aux normes techniques en vigueur, fixées par un décret en Conseil d'Etat. La majoration de population est portée à deux habitants par place de caravane pour les communes éligibles l'année précédente à la dotation de solidarité urbaine et de cohésion sociale prévue à l'article L. 2334-15 ou à la première fraction de la dotation de solidarité rurale prévue à l'article L. 2334-21.
 
-Pour les communes qui répondent aux cinq conditions cumulatives mentionnées aux six alinéas suivants, la population à prendre en compte en 2009 et en 2010 pour l'application de la présente section est celle ayant servi au calcul de la dotation globale de fonctionnement au titre de l'exercice 2008.
+Pour les communes qui répondent aux cinq conditions cumulatives mentionnées aux six alinéas suivants, la population à prendre en compte en 2009,2010 et 2011 pour l'application de la présente section est celle ayant servi au calcul de la dotation globale de fonctionnement au titre de l'exercice 2008.
 
 Sont concernées par cette disposition les communes répondant aux conditions suivantes :
 

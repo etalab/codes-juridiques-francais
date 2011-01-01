@@ -10,9 +10,9 @@ Les communautés urbaines faisant application des dispositions de l'article 1609
 
 II. Toutefois :
 
-1° A compter de 2005, les communautés de communes ne faisant pas application des dispositions de l'article 1609 nonies C du code général des impôts dont le coefficient d'intégration fiscale est supérieur à 0,5 perçoivent une dotation par habitant progressant au moins comme la dotation forfaitaire prévue à l'article L. 2334-7 du présent code.
+1° A compter de 2005, les communautés de communes ne faisant pas application des dispositions de l'article 1609 nonies C du code général des impôts dont le coefficient d'intégration fiscale est supérieur à 0,5 perçoivent une dotation par habitant progressant au moins comme la dotation forfaitaire prévue à l'article L. 2334-7 du présent code. A compter de 2011, cette garantie s'applique lorsque leur coefficient d'intégration fiscale est supérieur à 0,6.
 
-Les communautés d'agglomération et les communautés de communes faisant application des dispositions de l'article 1609 nonies C du code général des impôts dont le coefficient d'intégration fiscale est supérieur à 0,5 en 2005 perçoivent une dotation par habitant progressant au moins comme la dotation forfaitaire prévue à l'article L. 2334-7 du présent code. A compter de 2006, cette garantie s'applique lorsque leur coefficient d'intégration fiscale est supérieur à 0,4 ;
+Les communautés d'agglomération et les communautés de communes faisant application des dispositions de l'article 1609 nonies C du code général des impôts dont le coefficient d'intégration fiscale est supérieur à 0,5 perçoivent une dotation par habitant progressant au moins comme la dotation forfaitaire prévue à l'article L. 2334-7 du présent code.
 
 2° Les établissements publics de coopération intercommunale mentionnés au premier alinéa du I dont la dotation par habitant perçue au titre des dotations de base et de péréquation est supérieure à celle perçue l'année précédente ne peuvent percevoir une dotation d'intercommunalité par habitant inférieure à celle de l'année précédente ;
 

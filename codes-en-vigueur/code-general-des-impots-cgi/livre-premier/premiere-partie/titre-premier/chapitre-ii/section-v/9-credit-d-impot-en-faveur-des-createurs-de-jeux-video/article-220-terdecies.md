@@ -1,6 +1,6 @@
 # Article 220 terdecies
 
-I.-Les entreprises de création de jeux vidéo soumises à l'impôt sur les sociétés ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies et 44 duodecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses mentionnées au IV qu'elles exposent en vue de la création de jeux vidéo agréés.
+I.-Les entreprises de création de jeux vidéo soumises à l'impôt sur les sociétés ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies, 44 duodecies et 44 quindecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses mentionnées au IV qu'elles exposent en vue de la création de jeux vidéo agréés.
 
 Le bénéfice du crédit d'impôt est subordonné au respect, par les entreprises de création de jeux vidéo, de la législation sociale en vigueur.
 
@@ -20,7 +20,7 @@ Le respect des conditions de création prévues aux 3° et 4° est vérifié au 
 
 2.-N'ouvrent pas droit au bénéfice du crédit d'impôt les jeux vidéo comportant des séquences à caractère pornographique ou de très grande violence, susceptibles de nuire gravement à l'épanouissement physique, mental ou moral des utilisateurs.
 
-IV.-1.-Pour la création d'un jeu vidéo déterminé, le crédit d'impôt calculé au titre de chaque année est égal à 20 % du montant total des dépenses suivantes, correspondant à des opérations effectuées en France, dans un autre Etat membre de la Communauté européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention fiscale contenant une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, dès lors qu'elles entrent dans la détermination du résultat imposable :
+IV.-1.-Pour la création d'un jeu vidéo déterminé, le crédit d'impôt calculé au titre de chaque année est égal à 20 % du montant total des dépenses suivantes, correspondant à des opérations effectuées en France, dans un autre Etat membre de la Communauté européenne, ou d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention fiscale contenant une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, dès lors qu'elles entrent dans la détermination du résultat imposable :
 
 1° Les dotations aux amortissements des immobilisations créées ou acquises à l'état neuf et affectées directement à la création du jeu vidéo dans les conditions prévues au III. Les dotations aux amortissements des immeubles ne sont pas retenues dans la base de calcul du crédit d'impôt ;
 

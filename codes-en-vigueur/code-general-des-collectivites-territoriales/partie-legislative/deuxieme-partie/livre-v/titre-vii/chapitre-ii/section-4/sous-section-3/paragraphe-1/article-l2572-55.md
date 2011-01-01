@@ -10,7 +10,7 @@ I. - Les recettes de la section d'investissement comprennent :
 
 4° Le montant de la participation instituée dans les secteurs d'aménagement en vertu des dispositions du code de l'urbanisme applicable à Mayotte ;
 
-5° Les attributions de la dotation globale d'équipement ;
+5° Les attributions de la dotation d'équipement des territoires ruraux ;
 
 6° Le produit des cessions d'immobilisations dans les conditions fixées par décret ;
 

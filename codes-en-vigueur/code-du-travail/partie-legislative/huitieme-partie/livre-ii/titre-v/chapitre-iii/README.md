@@ -5,5 +5,4 @@
 - [Article L8253-3](article-l8253-3.md)
 - [Article L8253-4](article-l8253-4.md)
 - [Article L8253-5](article-l8253-5.md)
-- [Article L8253-6](article-l8253-6.md)
 - [Article L8253-7](article-l8253-7.md)

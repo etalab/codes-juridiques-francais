@@ -2,6 +2,8 @@
 
 I. Les personnes physiques qui prennent l'engagement de conserver, pendant cinq ans au moins à compter de leur souscription, des parts de fonds communs de placement à risques sont exonérées de l'impôt sur le revenu à raison des sommes ou valeurs auxquelles donnent droit les parts concernées.
 
+Cette disposition ne s'applique pas aux porteurs de parts de fonds communs de placement à risques donnant lieu à des droits différents sur l'actif net ou sur les produits du fonds et attribuées en fonction de la qualité de la personne.
+
 II. L'exonération est subordonnée aux conditions suivantes :
 
 1° Outre les conditions prévues aux articles L. 214-36 et L. 214-37 du code monétaire et financier, les titres pris en compte, directement dans le quota d'investissement de 50 % doivent ête émis par des sociétés ayant leur siège dans un Etat membre de la Communauté européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, qui exercent une activité mentionnée à l'article 34 et qui sont soumises à l'impôt sur les sociétés dans les conditions de droit commun ou y seraient soumises dans les mêmes conditions si l'activité était exercée en France ;

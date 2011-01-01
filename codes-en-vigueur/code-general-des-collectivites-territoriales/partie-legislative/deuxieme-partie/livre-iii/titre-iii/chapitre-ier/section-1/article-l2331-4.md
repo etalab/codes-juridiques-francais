@@ -32,4 +32,6 @@ Les recettes non fiscales de la section de fonctionnement peuvent comprendre :
 
 15° Le remboursement des frais engagés à l'occasion d'opérations de secours consécutives à la pratique de toute activité sportive ou de loisirs. Cette participation, que les communes peuvent exiger sans préjudice des dispositions applicables aux activités réglementées, aux intéressés ou à leurs ayants droit, peut porter sur tout ou partie des dépenses et s'effectue dans les conditions déterminées par les communes.
 
-Les communes sont tenues d'informer le public des conditions d'application du premier alinéa du présent 15° sur leur territoire, par un affichage approprié en mairie et, le cas échéant, dans tous les lieux où sont apposées les consignes relatives à la sécurité.
+Les communes sont tenues d'informer le public des conditions d'application du premier alinéa du présent 15° sur leur territoire, par un affichage approprié en mairie et, le cas échéant, dans tous les lieux où sont apposées les consignes relatives à la sécurité ;
+
+16° La dotation de compensation de la réforme de la taxe professionnelle.

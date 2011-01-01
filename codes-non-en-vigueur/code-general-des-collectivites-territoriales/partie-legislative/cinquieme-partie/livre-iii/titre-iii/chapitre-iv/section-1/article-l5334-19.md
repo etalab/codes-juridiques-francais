@@ -6,7 +6,7 @@ Le syndicat d'agglomération nouvelle ou la commune créée en application des 1
 
 2° De subventions d'équipement qui font l'objet d'une individualisation dans les budgets de l'Etat, des régions et des départements et d'une notification distincte. Cette individualisation s'applique également aux dotations d'aide au logement et à tout programme d'investissements publics ;
 
-3° D'une dotation spécifique en matière d'équipement, qui est individualisée dans la loi de finances. Cette dotation à caractère transitoire est prévue pour une durée de quinze ans à compter de l'année 1984 ; à l'issue de ce délai, elle disparaîtra pour faire place à la dotation globale d'équipement de droit commun. Ce délai pourra être réduit lorsque des villes nouvelles actuellement en cours de réalisation verront leur achèvement constaté avant la fin de cette période de quinze ans suivant les modalités indiquées à l'article L. 5341-1.
+3° D'une dotation spécifique en matière d'équipement, qui est individualisée dans la loi de finances. Cette dotation à caractère transitoire est prévue pour une durée de quinze ans à compter de l'année 1984 ; à l'issue de ce délai, elle disparaîtra pour faire place à la dotation d'équipement des territoires ruraux de droit commun. Ce délai pourra être réduit lorsque des villes nouvelles actuellement en cours de réalisation verront leur achèvement constaté avant la fin de cette période de quinze ans suivant les modalités indiquées à l'article L. 5341-1.
 
 En cas de création d'une commune nouvelle ou d'un syndicat en application de l'article L. 5321-1 ci-dessus, les majorations de subventions prévues aux articles L. 2335-6 à L. 2335-8 ne sont pas applicables.
 

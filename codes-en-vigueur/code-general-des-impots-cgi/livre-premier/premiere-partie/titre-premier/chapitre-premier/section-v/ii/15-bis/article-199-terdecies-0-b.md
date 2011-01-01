@@ -24,7 +24,7 @@ La condition mentionnée au e s'apprécie à la date à laquelle le seuil de 25 
 
 II.-Les intérêts ouvrant droit à la réduction d'impôt prévue au I sont ceux payés à raison des emprunts contractés à compter de la publication de la loi n° 2003-721 du 1er août 2003 pour l'initiative économique. Ils sont retenus dans la limite annuelle de 20 000 euros pour les contribuables célibataires, veufs ou divorcés et de 40 000 euros pour les contribuables mariés soumis à imposition commune.
 
-III. - La réduction d'impôt mentionnée au I ne peut pas concerner des titres figurant dans un plan d'épargne en actions défini à l'article 163 quinquies D ou dans un plan d'épargne salariale prévu au titre III du livre III de la troisième partie du code du travail, ni des titres dont la souscription a ouvert droit à la réduction d'impôt prévue aux I à IV de l'article 199 terdecies-0 A ou à la réduction d'impôt de solidarité sur la fortune prévue à l'article 885-0 V bis.
+III. - La réduction d'impôt mentionnée au I ne peut pas concerner des titres figurant dans un plan d'épargne en actions défini à l'article 163 quinquies D ou dans un plan d'épargne salariale prévu au titre III du livre III de la troisième partie du code du travail, ni la fraction des versements effectués au titre de souscriptions ayant  ouvert droit à la réduction d'impôt prévue aux I à IV de l'article 199 terdecies-0 A ou à la réduction d'impôt de solidarité sur la fortune prévue à l'article 885-0 V bis.
 
 Les intérêts ouvrant droit à la réduction d'impôt mentionnée au I ne peuvent ouvrir droit aux déductions prévues au 2° quinquies et, au titre des frais réels et justifiés, au 3° de l'article 83.
 

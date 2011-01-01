@@ -5,6 +5,7 @@
 - [Section III : Taxe destinée au financement des prestations d'assurance maladie, invalidité et maternité du régime de protection sociale des non-salariés agricoles](section-iii)
 - [Section VI : Taxe d'aéroport](section-vi)
 - [Section VI bis : Taxe sur les nuisances sonores aériennes](section-vi-bis)
+- [Section VII : Contribution à la formation professionnelle des chefs d'entreprise individuelle exerçant une activité artisanale et bénéficiant du régime prévu à l'article L. 133-6-8 du code de la sécurité sociale](section-vii)
 - [Section VIII : Taxe pour le développement de la formation professionnelle dans les métiers de la réparation de l'automobile, du cycle et du motocycle](section-viii)
 - [Section IX : Taxe d'abattage](section-ix)
 - [Section X : Contribution perçue au profit de l'Institut national de prévention et d'éducation pour la santé](section-x)

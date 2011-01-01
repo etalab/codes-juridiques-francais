@@ -13,6 +13,7 @@
 - [Article 80 decies](article-80-decies.md)
 - [Article 80 undecies](article-80-undecies.md)
 - [Article 80 undecies A](article-80-undecies-a.md)
+- [Article 80 undecies B](article-80-undecies-b.md)
 - [Article 80 duodecies](article-80-duodecies.md)
 - [Article 80 terdecies](article-80-terdecies.md)
 - [Article 80 quaterdecies](article-80-quaterdecies.md)

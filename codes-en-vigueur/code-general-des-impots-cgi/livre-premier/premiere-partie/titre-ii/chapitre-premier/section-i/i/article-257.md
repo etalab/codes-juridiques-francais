@@ -1,6 +1,6 @@
 # Article 257
 
-I. - Les opérations concourant à la production ou à la livraison d'immeubles sont soumises à la taxe sur la valeur ajoutée dans les conditions qui suivent.
+I.-Les opérations concourant à la production ou à la livraison d'immeubles sont soumises à la taxe sur la valeur ajoutée dans les conditions qui suivent.
 
 1. Sont assimilés à des biens corporels et suivent le régime du bien immeuble auquel ils se rapportent :
 
@@ -38,9 +38,9 @@ b) Les livraisons à soi-même des travaux immobiliers mentionnés au III de l'a
 
 a) La livraison d'un immeuble neuf lorsque le cédant avait au préalable acquis l'immeuble cédé comme immeuble à construire ;
 
-b) La livraison à soi-même des logements visés aux 9 et 11 du I de l'article 278 sexies.
+b) La livraison à soi-même de logements visés au II de l'article 278 sexies.
 
-II. - Les opérations suivantes sont assimilées, selon le cas, à des livraisons de biens ou à des prestations de services effectuées à titre onéreux.
+II.-Les opérations suivantes sont assimilées, selon le cas, à des livraisons de biens ou à des prestations de services effectuées à titre onéreux.
 
 1. Sont assimilés à des livraisons de biens effectuées à titre onéreux :
 
@@ -60,7 +60,7 @@ II. - Les opérations suivantes sont assimilées, selon le cas, à des livraison
 
 3. Un décret en Conseil d'Etat définit les opérations désignées ci-dessus ainsi que le moment où la taxe devient exigible.
 
-III. - Sont également soumis à la taxe sur la valeur ajoutée :
+III.-Sont également soumis à la taxe sur la valeur ajoutée :
 
 1° La cession d'aéronefs ou d'éléments d'aéronefs par les compagnies de navigation aérienne mentionnées au 4° du II de l'article 262 à d'autres compagnies ne remplissant pas les conditions fixées à cet article. Les modalités d'application de cette disposition sont fixées, en tant que de besoin, par des arrêtés du ministre chargé de l'économie et des finances ;
 

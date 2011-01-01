@@ -13,7 +13,6 @@
 - [Article L5334-9](article-l5334-9.md)
 - [Article L5334-10](article-l5334-10.md)
 - [Article L5334-11](article-l5334-11.md)
-- [Article L5334-12](article-l5334-12.md)
 - [Article L5334-13](article-l5334-13.md)
 - [Article L5334-14](article-l5334-14.md)
 - [Article L5334-15](article-l5334-15.md)
