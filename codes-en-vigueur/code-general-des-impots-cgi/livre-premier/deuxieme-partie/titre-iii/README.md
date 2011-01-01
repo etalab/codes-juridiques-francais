@@ -4,5 +4,4 @@
 - [Chapitre II : Contributions indirectes](chapitre-ii)
 - [Chapitre III : Enregistrement, publicité foncière et timbre](chapitre-iii)
 - [Chapitre IV : Dispositions communes](chapitre-iv)
-- [Chapitre V : Taxe forfaitaire sur le produit de certaines valorisations immobilières de la région d'Ile-de-France](chapitre-v)
 - [Chapitre premier : Impôts directs et taxes assimilées](chapitre-premier)

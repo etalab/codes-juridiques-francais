@@ -8,4 +8,5 @@
 - [Sous-section 6 : Etablissement de la taxe](sous-section-6)
 - [Sous-section 7 : Contrôle et sanctions](sous-section-7)
 - [Sous-section 8 : Recouvrement de la taxe](sous-section-8)
+- [Sous-section 9 : Recours](sous-section-9)
 - [Sous-section 10 : Versement aux collectivités](sous-section-10)
