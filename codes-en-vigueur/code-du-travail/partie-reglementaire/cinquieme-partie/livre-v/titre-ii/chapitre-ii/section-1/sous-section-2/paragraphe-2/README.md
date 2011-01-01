@@ -1,7 +1,6 @@
 # Paragraphe 2 : Convention.
 
 - [Article R5522-14](article-r5522-14.md)
-- [Article R5522-15](article-r5522-15.md)
 - [Article R5522-16](article-r5522-16.md)
 - [Article R5522-17](article-r5522-17.md)
 - [Article R5522-18](article-r5522-18.md)
