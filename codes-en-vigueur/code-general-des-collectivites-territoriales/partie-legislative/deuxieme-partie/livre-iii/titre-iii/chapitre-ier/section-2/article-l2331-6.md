@@ -16,4 +16,4 @@ Les recettes non fiscales de la section d'investissement comprennent :
 
 7° Le montant des contributions aux dépenses d'équipements publics prévues au 2° de l'article L. 332-6-1 du code de l'urbanisme ;
 
-8° Les attributions de la dotation globale d'équipement.
+8° Les attributions de la dotationd'équipement des territoires ruraux.
