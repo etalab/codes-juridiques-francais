@@ -4,9 +4,9 @@
 
 Corps de fonctionnaires :
 
--chercheurs, ingénieurs, assistants ingénieurs et techniciens de la recherche régis par le décret n° 83-1260 du 30 décembre 1983  modifié.
+-chercheurs, ingénieurs, assistants ingénieurs et techniciens de la recherche régis par le décret n° 83-1260 du 30 décembre 1983 modifié.
 
--enseignants chercheurs régis par le décret n° 84-431 du 6 juin 1984  modifié et enseignants-chercheurs appartenant à des corps propres dont la liste figure en annexe dudit décret.
+-enseignants chercheurs régis par le décret n° 84-431 du 6 juin 1984 modifié et enseignants-chercheurs appartenant à des corps propres dont la liste figure en annexe dudit décret.
 
 -ingénieurs, assistants ingénieurs et techniciens de recherche et de formation régis par le décret n° 85-1534 du 31 décembre 1985 modifié.
 
@@ -30,7 +30,7 @@ Agents non titulaires :
 
 -moniteurs en pharmacie régis par le décret n° 92-1229 du 19 novembre 1992 modifié.
 
--attachés temporaires d'enseignement et de recherche régis par le décret n° 88-654 du 7 mai 1988  modifié.
+-attachés temporaires d'enseignement et de recherche régis par le décret n° 88-654 du 7 mai 1988 modifié.
 
 -Chercheurs associés au Centre national de la recherche scientifique régis par le décret n° 69-894 du 26 septembre 1969 modifié.
 
@@ -40,11 +40,11 @@ Agents non titulaires :
 
 -Ingénieurs experts de l'Institut national de recherche en informatique et en automatique régis par le décret n° 86-83 du 17 janvier 1986 modifié.
 
--Agents recrutés par les établissements publics à caractère scientifique et technologique en application des dispositions de l'article 23 de la loi n° 82-610 du 15 juillet 1982  modifiée d'orientation et de programmation pour la recherche et le développement technologique de la France.
+-Agents recrutés par les établissements publics à caractère scientifique et technologique en application des dispositions de l'article 23 de la loi n° 82-610 du 15 juillet 1982 modifiée d'orientation et de programmation pour la recherche et le développement technologique de la France.
 
 -autres agents recrutés par les établissements publics à caractère scientifique et technologique et les établissements d'enseignement supérieur en application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
 
--agents recrutés dans les services d'activités industrielles et commerciales des établissements publics d'enseignement supérieur en application de l'article L. 123-5 du code de l'éducation  pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
+-agents recrutés dans les services d'activités industrielles et commerciales des établissements publics d'enseignement supérieur en application de l'article L. 123-5 du code de l'éducation pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
 
 **Enseignement supérieur, recherche et affaires sociales :**
 
@@ -96,19 +96,17 @@ Corps de fonctionnaires :
 
 -Ingénieurs de l'industrie et des mines régis par le décret n° 88-507 du 29 avril 1988 modifié.
 
--Professeurs, maîtres-assistants et assistants des écoles nationales supérieures des mines et des écoles nationales supérieures des techniques industrielles et des mines régis par le décret n° 2007-468 du 28 mars 2007 .
+-Professeurs, maîtres-assistants et assistants des écoles nationales supérieures des mines et des écoles nationales supérieures des techniques industrielles et des mines régis par le décret n° 2007-468 du 28 mars 2007.
 
 -Techniciens de laboratoire affectés dans les écoles nationales supérieures des mines et dans les écoles nationales supérieures des techniques industrielles et des mines et régis par le décret n° 96-273 du 26 mars 1996 modifié.
 
 -Ingénieurs du corps interministériel des ingénieurs des télécommunications régis par le décret n° 67-715 du 16 août 1967.
 
--Fonctionnaires de l'Etat détachés sur des emplois de l'Institut Télécom en vertu du 1° de l'article 36 du décret n° 96-1177 du 27 décembre 1996 .
+-Fonctionnaires de l'Etat détachés sur des emplois de l'Institut Télécom en vertu du 1° de l'article 36 du décret n° 96-1177 du 27 décembre 1996.
 
 Agents non titulaires
 
--chercheurs et ingénieurs régis par le
-décret n° 2000-677 du 18 juillet 2000
-portant dispositions statutaires communes aux agents contractuels des écoles nationales supérieures des mines et des écoles nationales supérieures des techniques industrielles et des mines placées sous la tutelle du ministre chargé de l'industrie ;
+-chercheurs et ingénieurs régis par le décret n° 2000-677 du 18 juillet 2000 portant dispositions statutaires communes aux agents contractuels des écoles nationales supérieures des mines et des écoles nationales supérieures des techniques industrielles et des mines placées sous la tutelle du ministre chargé de l'industrie ;
 
 -attachés de recherche régis par le décret n° 71-999 du 7 décembre 1971 ;
 
@@ -124,10 +122,9 @@ portant dispositions statutaires communes aux agents contractuels des écoles na
 
 Corps de fonctionnaires :
 
-- ingénieurs des ponts, des eaux et des forêts régis par le décret n° 59-358 du 20 février 1959 modifié ;
+-ingénieurs des ponts, des eaux et des forêts régis par le décret n° 59-358 du 20 février 1959 modifié ;
 
--chargés de recherche et directeurs de recherche régis par le
-décret n° 94-943 du 28 octobre 1994 ;
+-chargés de recherche et directeurs de recherche régis par le décret n° 94-943 du 28 octobre 1994 ;
 
 -ingénieurs des travaux publics de l'Etat régis par le décret n° 71-345 du 5 mai 1971 modifié ;
 
@@ -135,25 +132,17 @@ décret n° 94-943 du 28 octobre 1994 ;
 
 -ingénieurs des travaux géographiques et cartographiques de l'Etat régis par le décret n° 73-264 du 6 mars 1973 modifié ;
 
--ingénieurs de l'aviation civile régis par le
-décret n° 71-234 du 30 mars 1971
-modifié ;
+-ingénieurs de l'aviation civile régis par le décret n° 71-234 du 30 mars 1971 modifié ;
 
--ingénieurs des études et de l'exploitation de l'aviation civile régis par le
-décret n° 71-907 du 8 novembre 1971
-modifié ;
+-ingénieurs des études et de l'exploitation de l'aviation civile régis par le décret n° 71-907 du 8 novembre 1971 modifié ;
 
 -ingénieurs du contrôle de la navigation aérienne régis par le décret n° 90-998 du 8 novembre 1990 modifié ;
 
--ingénieurs électroniciens des systèmes de la sécurité aérienne régis par le
-décret n° 91-56 du 16 janvier 1991
-, modifié par le décret n° 94-278 du 11 avril 1994 ;
+-ingénieurs électroniciens des systèmes de la sécurité aérienne régis par le décret n° 91-56 du 16 janvier 1991, modifié par le décret n° 94-278 du 11 avril 1994 ;
 
 -ingénieurs de la météorologie régis par le décret n° 63-1376 du 24 décembre 1963 modifié ;
 
--ingénieurs des travaux de la météorologie régis par le
-décret n° 65-184 du 5 mars 1965
-modifié.
+-ingénieurs des travaux de la météorologie régis par le décret n° 65-184 du 5 mars 1965 modifié.
 
 Agents non titulaires :
 
@@ -161,7 +150,7 @@ Agents non titulaires :
 
 -décision du 18 mars 1992 du ministre d'Etat, ministre de la fonction publique et de la modernisation de l'administration, du ministre de l'équipement, du logement, des transports et de l'espace et du ministre délégué au budget ;
 
--règlement du 14 mai 1973 régissant les personnels non titulaires du laboratoire central des ponts et chaussées et des centres d'études techniques de l'équipement ;
+-règlement du 14 mai 1973 régissant les personnels non titulaires du institut français des sciences et technologies des transports, de l'aménagement et des réseaux et des centres d'études techniques de l'équipement ;
 
 -règlement intérieur du 30 octobre 1969 modifié relatif aux personnels non titulaires employés au service d'études techniques des routes et autoroutes ;
 
@@ -179,39 +168,23 @@ Agents non titulaires :
 
 Corps de fonctionnaires civils et militaires :
 
--ingénieurs de l'armement régis par le
-décret n° 82-1067 du 15 décembre 1982
-modifié ;
+-ingénieurs de l'armement régis par le décret n° 82-1067 du 15 décembre 1982 modifié ;
 
--ingénieurs militaires des essences régis par le
-décret n° 76-802 du 19 août 1976
-modifié ;
+-ingénieurs militaires des essences régis par le décret n° 76-802 du 19 août 1976 modifié ;
 
--praticiens des armées régis par le
-décret n° 2004-534 du 14 juin 2004
-;
+-praticiens des armées régis par le décret n° 2004-534 du 14 juin 2004 ;
 
--ingénieurs des études et techniques régis par le
-décret n° 79-1135 du 27 décembre 1979
-modifié ;
+-ingénieurs des études et techniques régis par le décret n° 79-1135 du 27 décembre 1979 modifié ;
 
--ingénieurs d'études et de fabrications du ministère de la défense régis par le
-décret n° 89-750 du 18 octobre 1989
-modifié ;
+-ingénieurs d'études et de fabrications du ministère de la défense régis par le décret n° 89-750 du 18 octobre 1989 modifié ;
 
--techniciens supérieurs d'études et de fabrications du ministère de la défense régis par le
-décret n° 89-749 du 18 octobre 1989
-modifié ;
+-techniciens supérieurs d'études et de fabrications du ministère de la défense régis par le décret n° 89-749 du 18 octobre 1989 modifié ;
 
--techniciens du ministère de la défense régis par le
-décret n° 98-203 du 20 mars 1998
-modifié.
+-techniciens du ministère de la défense régis par le décret n° 98-203 du 20 mars 1998 modifié.
 
 Agents non titulaires :
 
--agents non titulaires de catégorie spéciale, hors catégorie et de catégorie A, régis par le
-décret n° 49-1378 du 3 octobre 1949
-modifié ;
+-agents non titulaires de catégorie spéciale, hors catégorie et de catégorie A, régis par le décret n° 49-1378 du 3 octobre 1949 modifié ;
 
 -professeurs à occupation principale de l'Ecole nationale supérieure de l'aéronautique régis par le décret n° 67-962 du 23 octobre 1967 ;
 
@@ -219,15 +192,10 @@ modifié ;
 
 -ingénieurs et spécialistes des laboratoires et centres de recherche de l'Ecole polytechnique régis par le décret n° 73-312 du 14 mars 1973 modifié ;
 
--agents non titulaires ingénieurs régis par le
-décret n° 88-541 du 4 mai 1988
-relatif à certains agents sur contrat des services à caractère industriel ou commercial du ministère de la défense ;
+-agents non titulaires ingénieurs régis par le décret n° 88-541 du 4 mai 1988 relatif à certains agents sur contrat des services à caractère industriel ou commercial du ministère de la défense ;
 
--personnels enseignants de l'Ecole polytechnique régis par le
-décret n° 2000-497 du 5 juin 2000 ;
+-personnels enseignants de l'Ecole polytechnique régis par le décret n° 2000-497 du 5 juin 2000 ;
 
--personnels contractuels scientifiques, techniques et administratifs de recherche de l'Ecole polytechnique régis par le
-décret n° 2003-1006 du 21 octobre 2003
-;
+-personnels contractuels scientifiques, techniques et administratifs de recherche de l'Ecole polytechnique régis par le décret n° 2003-1006 du 21 octobre 2003 ;
 
 -autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
