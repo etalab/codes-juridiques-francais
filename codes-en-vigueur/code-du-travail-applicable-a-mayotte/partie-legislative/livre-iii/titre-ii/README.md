@@ -7,3 +7,4 @@
 - [Chapitre IV : Dispositions particulières relatives à l'emploi des jeunes](chapitre-iv)
 - [Chapitre VI : Placement](chapitre-vi)
 - [Chapitre VII : Indemnisation du chômage](chapitre-vii)
+- [Chapitre VIII : Dispositions régissant l'emploi de certaines catégories de travailleurs.](chapitre-viii)
