@@ -1,6 +1,6 @@
 # Article R4421-2
 
-Le conseil des sites de Corse comprend vingt membres communs aux formations prévues aux 1°, 2° et 4° de l'article R4421-1, répartis en trois collèges, et nommés dans les conditions prévues à l'article R. 4421-6 :
+Le conseil des sites de Corse comprend vingt membres communs aux formations prévues aux 1°, 2° et 4° de l'article R. 4421-1, répartis en trois collèges, et nommés dans les conditions prévues à l'article R. 4421-6 :
 
 1° Huit membres appartenant au collège des représentants de l'Etat, membres de droit :
 
@@ -8,13 +8,13 @@ a) Le préfet de Corse ;
 
 b) Le préfet de Haute-Corse ;
 
-c) Le         directeur régional de l'alimentation, de l'agriculture et de la forêt  ;
+c) Le directeur régional de l'alimentation, de l'agriculture et de la forêt ;
 
 d) Le directeur régional de l'équipement ;
 
 e) Le directeur régional de l'environnement ;
 
-f) Le délégué régional aux affaires culturelles ;
+f) Le directeur régional des affaires culturelles ;
 
 g) Les deux chefs des services départementaux de l'architecture et du patrimoine.
 
