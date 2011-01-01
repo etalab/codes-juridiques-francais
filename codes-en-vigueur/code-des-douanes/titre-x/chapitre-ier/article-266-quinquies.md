@@ -28,7 +28,7 @@ b. Le gaz naturel n'est pas soumis à la taxe intérieure de consommation mentio
 
 5. Le gaz naturel est exonéré de la taxe intérieure de consommation prévue au 1 lorsqu'il est utilisé :
 
-a) Pour la production d'électricité.
+a) Pour la production d'électricité, à l'exclusion du gaz naturel utilisé par les petits producteurs d'électricité au sens du 4° du V de l'article L. 3333-2 du code général des collectivités territoriales.
 
 Cette exonération ne s'applique pas au gaz naturel destiné à être utilisé dans les installations visées à l'article 266 quinquies A. Toutefois, les producteurs dont l'installation ne bénéficie pas d'un contrat d'achat d'électricité conclu dans le cadre de l'article 10 de la loi n° 2000-108 du 10 février 2000 relative à la modernisation et au développement du service public de l'électricité ou mentionné à l'article 50 de cette même loi, renonçant à bénéficier de l'exonération des taxes intérieures de consommation prévues à l'article 266 quinquies A, bénéficient du régime prévu au présent a ;
 
@@ -44,7 +44,7 @@ d) Pour la consommation des autorités régionales et locales ou des autres orga
 
 7. Sont également exonérés de la taxe intérieure de consommation mentionnée au 1 les gaz repris au code NC 2705.
 
-8. La taxe intérieure de consommation mentionnée au 1 est assise sur la quantité d'énergie livrée, exprimée en mégawattheures, après arrondissement au mégawattheure le plus voisin et le tarif de la taxe est fixé à 1, 19 euros par mégawattheure.
+8. La taxe intérieure de consommation mentionnée au 1 est assise sur la quantité d'énergie livrée, exprimée en mégawattheures, après arrondissement au mégawattheure le plus voisin et le tarif de la taxe est fixé à 1,19 euros par mégawattheure.
 
 9. a. Les fournisseurs de gaz naturel établis sur le territoire douanier de la France se font enregistrer auprès de l'administration des douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement au commencement de leur activité.
 
@@ -54,7 +54,7 @@ b. Les fournisseurs qui ne sont pas établis sur le territoire douanier de la Fr
 
 c. Les utilisateurs finals mentionnés au second alinéa du 2 et ceux qui importent du gaz naturel pour leurs besoins propres se font enregistrer auprès de l'administration des douanes et droits indirects. Ils lui communiquent tous les éléments d'assiette nécessaires pour l'établissement de la taxe.
 
-10. La taxe est acquittée, selon une périodicité mensuelle, auprès du  service des douanes désigné lors de l'enregistrement.
+10. La taxe est acquittée, selon une périodicité mensuelle, auprès du service des douanes désigné lors de l'enregistrement.
 
 Les quantités d'énergie livrées à un utilisateur final ou importées ou, dans les autres cas, consommées par un utilisateur final au titre d'un mois, pour lesquelles la taxe est devenue exigible, sont portées sur une déclaration déposée avant le 15 du mois suivant. La taxe correspondante est acquittée lors du dépôt de la déclaration.
 
