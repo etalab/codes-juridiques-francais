@@ -4,7 +4,7 @@ Dans le département de la Guyane, il est institué une taxe spéciale d'équipe
 
 Cette taxe est destinée à financer les missions définies aux articles 36 et 38 de la loi n° 94-638 du 25 juillet 1994 tendant à favoriser l'emploi, l'insertion et les activités économiques dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon et à Mayotte.
 
-Le montant de cette taxe est arrêté chaque année par le conseil d'administration de l'établissement public dans la limite de 1 875 000 euros.
+Le montant de cette taxe est arrêté chaque année par le conseil d'administration de l'établissement public dans la limite de 2 365 000 euros.
 
 Ce montant est réparti, dans les conditions définies au I de l'article 1636 B octies, entre toutes les personnes physiques ou morales assujetties aux taxes foncières sur les propriétés bâties et non bâties, à la taxe d'habitation et à la cotisation foncière des entreprises dans les communes comprises dans la zone de compétence de l'établissement public.
 

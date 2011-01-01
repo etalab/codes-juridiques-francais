@@ -2,7 +2,7 @@
 
 - [Section I : Taxe pour frais de chambres de commerce et d'industrie](section-i)
 - [Section II : Taxe pour frais de chambres de métiers et de l'artisanat](section-ii)
-- [Section II bis : Dispositions communes à la taxe pour frais de chambres de commerce et d'industrie et à la taxe pour frais de chambres de métiers](section-ii-bis)
+- [Section II bis : Dispositions communes à la taxe pour frais de chambres de commerce et d'industrie et à la taxe pour frais de chambres de métiers et de l'artisanat](section-ii-bis)
 - [Section IV : Taxe pour frais de chambres d'agriculture](section-iv)
 - [Section V : Contribution à l'audiovisuel public](section-v)
 - [Section V bis :  Prélèvement spécial sur les bénéfices résultant de la vente, la location ou l'exploitation d'œuvres pornographiques ou d'incitation à la violence](section-v-bis)
