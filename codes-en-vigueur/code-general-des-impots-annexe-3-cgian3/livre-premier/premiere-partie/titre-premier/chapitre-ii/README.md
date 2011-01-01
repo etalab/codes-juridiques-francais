@@ -27,6 +27,7 @@
 - [Section V octodecies : Crédit d'impôt en faveur  des débitants de tabac](section-v-octodecies)
 - [Section V novodecies : Crédit d'impôt au titre des primes d'intéressement](section-v-novodecies)
 - [Section V vicies : Crédit d'impôt au titre des avances remboursables ne portant pas intérêt pour le financement de travaux d'amélioration de la performance énergétique des logements anciens](section-v-vicies)
+- [Section V unvicies : Crédit d'impôt au titre des prêts ne portant pas intérêt consentis pour financer la primo-accession à la propriété](section-v-unvicies)
 - [Section VI : Indemnités de congé payé](section-vi)
 - [Section VII : Opérations de crédit-bail](section-vii)
 - [Section 0I bis : Personnes morales passibles de l'impôt sur les sociétés, ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble](section-0i-bis)
