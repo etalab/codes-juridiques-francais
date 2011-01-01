@@ -8,4 +8,3 @@
 - [Article L3-1](article-l3-1.md)
 - [Article L3-2](article-l3-2.md)
 - [Article L3-3](article-l3-3.md)
-- [Article L3-4](article-l3-4.md)
