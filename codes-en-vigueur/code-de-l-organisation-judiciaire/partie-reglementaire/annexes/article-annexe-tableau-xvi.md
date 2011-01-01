@@ -1,6 +1,6 @@
 # Article Annexe Tableau XVI
 
-<div align="left">Siège et ressort des cours d'appel mentionnées à l'article R. 411-19 du code de la propriété intellectuelle compétentes pour connaître directement des recours formés contre les décisions du directeur de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des dessins et modèles et des marques (annexe de l'article D. 311-8) </div>
+Siège et ressort des cours d'appel mentionnées à l'article R. 411-19 du code de la propriété intellectuelle compétentes pour connaître directement des recours formés contre les décisions du directeur de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des dessins et modèles et des marques (annexe de l'article D. 311-8) :
 
 <table>
 <tbody>
@@ -39,6 +39,18 @@
 <tr>
 <td align="center">
 <p align="left">
+<br/>Colmar <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">
+<br/>Ressort de la cour d'appel de Colmar. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
 <br/>Douai <br/>
 </p>
 </td>
@@ -56,7 +68,7 @@
 </td>
 <td align="center">
 <p align="left">
-<br/>Ressort des cours d'appel de Basse-terre et Fort-de-France. <br/>
+<br/>Ressort des cours d'appel de Basse-Terre et Fort-de-France. <br/>
 </p>
 </td>
 </tr>
@@ -80,7 +92,7 @@
 </td>
 <td align="center">
 <p align="left">
-<br/>Ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy. <br/>
+<br/>Ressort des cours d'appel de Besançon, Dijon, Metz et Nancy. <br/>
 </p>
 </td>
 </tr>
@@ -122,9 +134,3 @@
 </tr>
 </tbody>
 </table>
-
-<div align="left">
-<br/>
-</div>
-<div align="left"/>
-<div align="left"/>
