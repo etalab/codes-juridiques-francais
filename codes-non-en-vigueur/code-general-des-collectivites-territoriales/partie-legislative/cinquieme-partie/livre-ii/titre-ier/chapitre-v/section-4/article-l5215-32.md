@@ -2,7 +2,7 @@
 
 Les recettes du budget de la communauté urbaine comprennent :
 
-1° Les ressources fiscales mentionnées au II ou, le cas échéant, au I de l'article 1379-0 bis du code général des impôts, ainsi que celles mentionnées au V du même article ;
+1° Les ressources fiscales mentionnées au II ou, le cas échéant, au I de l'article 1379-0 bis du code général des impôts, ainsi que celles mentionnées aux V et V bis  du même article ;
 
 2° Soit le produit de la taxe d'enlèvement des ordures ménagères, de la redevance d'enlèvement des ordures ménagères sur les terrains de camping, de la redevance spéciale, soit le produit de la redevance pour enlèvement des ordures, déchets et résidus ;
 
@@ -30,4 +30,6 @@ Les recettes du budget de la communauté urbaine comprennent :
 
 14° Le produit de la participation instituée dans les secteurs d'aménagement en vertu des dispositions de l'article L. 332-9 du code de l'urbanisme ;
 
-15° Le produit du versement destiné aux transports en commun prévu à l'article L. 2333-64.
+15° Le produit du versement destiné aux transports en commun prévu à l'article L. 2333-64 ;
+
+16° La dotation de compensation de la réforme de la taxe professionnelle et le reversement du Fonds national de garantie individuelle des ressources.
