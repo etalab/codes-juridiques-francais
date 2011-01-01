@@ -5,3 +5,4 @@
 - [Section III : Indemnité](section-iii)
 - [Section IV : Agrément](section-iv)
 - [Section V : Dispositions diverses](section-v)
+- [Section VI : Dispositions relatives à l'outre-mer](section-vi)
