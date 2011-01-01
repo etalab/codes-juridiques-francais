@@ -8,7 +8,7 @@ Lorsqu'au titre d'une année une cotisation foncière des entreprises a été é
 
 II. En cas de création d'un établissement autre que ceux mentionnés au III, la cotisation foncière des entreprises n'est pas due pour l'année de la création.
 
-Pour les deux années suivant celle de la création, la base d'imposition est calculée d'après les immobilisations dont le redevable a disposé au 31 décembre de la première année d'activité et les recettes réalisées au cours de cette même année, ajustées pour correspondre à une année pleine.
+Pour les deux années suivant celle de la création, la base d'imposition est calculée d'après les biens passibles de taxe foncière dont le redevable a disposé au 31 décembre de la première année d'activité.
 
 En cas de création d'établissement, la base du nouvel exploitant est réduite de moitié pour la première année d'imposition.
 
@@ -18,9 +18,11 @@ IV. En cas de changement d'exploitant, la base d'imposition est calculée pour l
 
 Si le changement d'exploitant prend effet le 1er janvier, le nouvel exploitant est imposé pour l'année du changement sur les bases relatives à l'activité de son prédécesseur.
 
-IV bis. Pour les deux années qui suivent celle où elles sont, pour la première fois, assujetties à l'impôt sur les sociétés, les bases d'imposition des sociétés civiles professionnelles sont calculées dans les conditions définies au deuxième alinéa du II.
+IV bis. Abrogé.
 
 V. La valeur locative est corrigée en fonction de la période d'activité pour les exploitants d'hôtels de tourisme saisonniers classés dans les conditions fixées par le ministre chargé du tourisme, les restaurants, les cafés, les discothèques, les établissements de spectacles ou de jeux ainsi que les établissements thermaux, exerçant une activité à caractère saisonnier, telle que définie par décret.
+
+Sur décision de l'organe délibérant de la commune ou de l'établissement public de coopération intercommunale, cette disposition s'applique également aux parcs d'attractions et de loisirs exerçant une activité saisonnière.
 
 VI. Les organismes mentionnés au II de l'article 1447 deviennent imposables dans les conditions prévues au II, à compter de l'année au cours de laquelle l'une des trois conditions prévues au premier alinéa du 1 bis de l'article 206 n'est plus remplie. Lorsque l'organisme se livrait à une activité lucrative l'année précédant celle au cours de laquelle il devient imposable, la réduction de base prévue au troisième alinéa du II n'est pas applicable.
 
