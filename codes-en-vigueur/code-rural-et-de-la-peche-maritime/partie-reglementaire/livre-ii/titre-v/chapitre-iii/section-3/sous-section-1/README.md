@@ -3,6 +3,8 @@
 - [Article R253-38](article-r253-38.md)
 - [Article R253-39](article-r253-39.md)
 - [Article R253-40](article-r253-40.md)
+- [Article R253-40-1](article-r253-40-1.md)
+- [Article R253-40-2](article-r253-40-2.md)
 - [Article R253-41](article-r253-41.md)
 - [Article R253-42](article-r253-42.md)
 - [Article R253-43](article-r253-43.md)
