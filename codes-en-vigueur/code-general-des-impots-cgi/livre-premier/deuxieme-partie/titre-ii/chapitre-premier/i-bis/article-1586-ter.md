@@ -1,8 +1,6 @@
 # Article 1586 ter
 
-I. - Les personnes physiques ou morales ainsi que les sociétés non dotées de la personnalité morale qui exercent une activité dans les conditions fixées aux articles 1447 et 1447 bis et dont le chiffre d'affaires est supérieur à 152 500 euros sont soumises à la cotisation sur la valeur ajoutée des entreprises.
-
-[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2009-599 DC du 29 décembre 2009.]
+I. - Les personnes physiques ou morales ainsi que les sociétés non dotées de la personnalité morale et les fiduciaires pour leur activité exercée en vertu d'un contrat de fiducie qui exercent une activité dans les conditions fixées aux articles 1447 et 1447 bis et dont le chiffre d'affaires est supérieur à 152 500 € sont soumises à la cotisation sur la valeur ajoutée des entreprises.
 
 II. - 1. La cotisation sur la valeur ajoutée des entreprises est égale à une fraction de la valeur ajoutée produite par l'entreprise, telle que définie à l'article 1586 sexies.
 
@@ -14,4 +12,4 @@ Un décret en Conseil d'Etat précise les modalités d'application du troisième
 
 2. La fraction de la valeur ajoutée mentionnée au 1 est obtenue en multipliant cette valeur ajoutée par un taux égal à 1, 5 %.
 
-3. La cotisation sur la valeur ajoutée des entreprises est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.
+3. La cotisation sur la valeur ajoutée des entreprises est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à la cotisation foncière des entreprises.
