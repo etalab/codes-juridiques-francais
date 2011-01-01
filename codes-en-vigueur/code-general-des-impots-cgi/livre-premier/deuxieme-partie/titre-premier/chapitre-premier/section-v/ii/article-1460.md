@@ -20,4 +20,4 @@ Sont exonérés de la cotisation foncière des entreprises :
 
 8° Les avocats ayant suivi la formation prévue au chapitre II du titre Ier de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques, pour une période de deux ans à compter de l'année qui suit le début de l'exercice de la profession d'avocat ;
 
-9° Les membres du corps de réserve sanitaire constitué dans les conditions prévues au titre III du livre Ier de la troisième partie du code de la santé publique pour leurs recettes perçues à ce titre.
+9° Les membres du corps de réserve sanitaire constitué dans les conditions prévues au titre III du livre Ier de la troisième partie du code de la santé publique pour leurs activités exercées à ce titre.
