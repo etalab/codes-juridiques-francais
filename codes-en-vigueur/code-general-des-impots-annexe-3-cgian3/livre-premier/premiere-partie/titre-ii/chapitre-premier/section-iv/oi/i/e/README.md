@@ -1,3 +1,3 @@
-# E : Entrepôts nationaux d'importation et d'exportation
+# E : Fonctions du régime fiscal suspensif
 
 - [Article 85 E](article-85-e.md)
