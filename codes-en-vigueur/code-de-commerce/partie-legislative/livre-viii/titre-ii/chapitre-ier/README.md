@@ -10,6 +10,7 @@
 - [Article L821-5-2](article-l821-5-2.md)
 - [Article L821-5-3](article-l821-5-3.md)
 - [Article L821-6](article-l821-6.md)
+- [Article L821-6-1](article-l821-6-1.md)
 - [Article L821-7](article-l821-7.md)
 - [Article L821-8](article-l821-8.md)
 - [Article L821-9](article-l821-9.md)

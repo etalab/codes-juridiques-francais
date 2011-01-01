@@ -9,3 +9,4 @@
 - [Section VI : Groupements de communes. Taxe locale d'équipement](section-vi)
 - [Section IX : Association pour le développement de la formation professionnelle dans les transports](section-ix)
 - [Section X : Droit de timbre perçu au profit de l'Office national de la chasse et de la faune sauvage](section-x)
+- [Section XII : Droit affecté au fonds d'indemnisation de la profession d'avoués près les cours d'appel](section-xii)

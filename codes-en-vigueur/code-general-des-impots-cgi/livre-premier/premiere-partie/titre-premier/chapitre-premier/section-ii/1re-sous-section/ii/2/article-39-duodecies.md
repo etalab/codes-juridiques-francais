@@ -8,7 +8,7 @@ a. Aux plus-values provenant de la cession d'éléments acquis ou créés depuis
 
 b. Aux plus-values réalisées à l'occasion de la cession d'éléments détenus depuis deux ans au moins, dans la mesure où elles correspondent à des amortissements déduits pour l'assiette de l'impôt. Le cas échéant, ces plus-values sont majorées du montant des amortissements expressément exclus des charges déductibles ainsi que de ceux qui ont été différés en contravention aux dispositions de l'article 39 B ;
 
-c. (Disposition périmée).
+c. Aux plus-values réalisées à l'occasion de la cession de titres de sociétés établies dans un Etat ou territoire non coopératif au sens de l'article 238-0 A.
 
 3. Le régime des plus-values à long terme est applicable aux plus-values autres que celles définies au 2.
 

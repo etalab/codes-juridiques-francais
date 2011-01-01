@@ -2,7 +2,7 @@
 
 I.-Le Haut Conseil du commissariat aux comptes dispose de l'autonomie financière. Il arrête son budget sur proposition du secrétaire général. Le haut conseil n'est pas soumis au contrôle financier exercé au sein des administrations de l'Etat.
 
-II.-Le haut conseil perçoit le produit des contribution et droit mentionnés aux III et IV.
+II.-Le haut conseil perçoit le produit des contribution et droit mentionnés aux III et IV, ainsi qu'à l'article L. 821-6-1.
 
 III.-Les personnes inscrites sur la liste de l'article L. 822-1 sont assujetties à une contribution annuelle, dont le montant est fixé à 10 euros.
 
@@ -10,7 +10,7 @@ IV.-Il est institué un droit fixe sur chaque rapport de certification des compt
 
 1 000 euros pour les rapports de certification signés dans le cadre de missions conduites auprès de personnes ou d'entités admises à la négociation sur un marché réglementé ;
 
-500 euros pour les rapports de certification signés dans le cadre de missions conduites auprès de personnes ou d'entités      dont les titres financiers sont offerts au public sur un système multilatéral de négociation autre qu'un marché réglementé ;
+500 euros pour les rapports de certification signés dans le cadre de missions conduites auprès de personnes ou d'entités dont les titres financiers sont offerts au public sur un système multilatéral de négociation autre qu'un marché réglementé ;
 
 20 euros pour les autres rapports de certification.
 
