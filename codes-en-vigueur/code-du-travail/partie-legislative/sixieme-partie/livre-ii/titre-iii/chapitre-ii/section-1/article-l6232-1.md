@@ -8,7 +8,7 @@ La création des centres de formation d'apprentis fait l'objet de conventions co
 
 3° Les établissements publics ;
 
-4° Les chambres de commerce et d'industrie, les chambres des métiers et les chambres d'agriculture ;
+4° Les      chambres de commerce et d'industrie territoriales, les chambres des métiers et les chambres d'agriculture ;
 
 5° Les établissements d'enseignement privés sous contrat ;
 
