@@ -14,7 +14,7 @@ Constituent également des opérations ouvrant droit à une attribution du Fonds
 
 Les communes et les établissements publics de coopération intercommunale bénéficient des attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au titre des dépenses d'investissement exposées sur leurs immobilisations affectées à l'usage d'alpage.
 
-Les collectivités territoriales et leurs groupements bénéficient des attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au titre de leurs dépenses d'investissement réalisées sur la période 2003-2010, sous maîtrise d'ouvrage publique, en matière d'infrastructures passives intégrant leur patrimoine dans le cadre du plan d'action relatif à l'extension de la couverture du territoire par les réseaux de téléphonie mobile et d'accès à internet.
+Les collectivités territoriales et leurs groupements bénéficient des attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au titre de leurs dépenses d'investissement réalisées sur la période 2003-2014, sous maîtrise d'ouvrage publique, en matière d'infrastructures passives intégrant leur patrimoine dans le cadre du plan d'action relatif à l'extension de la couverture du territoire par les réseaux de téléphonie mobile et d'accès à internet.
 
 Lorsque les travaux sont effectués sur la base d'études préparatoires réalisées à compter de 2003, par une collectivité territoriale ou un établissement public de coopération intercommunale autre que celui ayant réalisé les études, les dépenses relatives aux études préalables sont éligibles au fonds de compensation pour la taxe sur la valeur ajoutée.
 

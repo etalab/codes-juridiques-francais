@@ -16,6 +16,8 @@ Toutefois, lorsqu'une livraison de biens ou une prestation de services mentionn�
 
 2 sexies. Pour les livraisons et les prestations de façon portant sur des déchets neufs d'industrie et des matières de récupération, la taxe est acquittée par le destinataire ou le preneur qui dispose d'un numéro d'identification à la taxe sur la valeur ajoutée en France.
 
+2 septies. Pour les transferts de quotas autorisant les exploitants à émettre  des gaz à effet de serre, au sens de l'article 3 de la directive 2003/87/CE du  Parlement européen et du Conseil du 13 octobre 2003 établissant un système  d'échange de quotas d'émission de gaz à effet de serre dans la Communauté et  modifiant la directive 96/61/CE du Conseil, et d'autres unités pouvant être  utilisées par les opérateurs en vue de se conformer à cette directive, la taxe  est acquittée par l'assujetti bénéficiaire du transfert.
+
 3. Toute personne qui mentionne la taxe sur la valeur ajoutée sur une facture est redevable de la taxe du seul fait de sa facturation.
 
 4. Lorsque la facture ne correspond pas à la livraison d'une marchandise ou à l'exécution d'une prestation de services, ou fait état d'un prix qui ne doit pas être acquitté effectivement par l'acheteur, la taxe est due par la personne qui l'a facturée.

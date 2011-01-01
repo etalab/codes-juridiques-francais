@@ -2,6 +2,8 @@
 
 I. - Une taxe dénommée taxe sur les nuisances sonores aériennes est perçue au profit des personnes publiques ou privées exploitant des aérodromes pour lesquels le nombre annuel des mouvements d'aéronefs de masse maximale au décollage supérieure ou égale à 20 tonnes a dépassé vingt mille lors de l'une des cinq années civiles précédentes.
 
+Cette taxe est également perçue au profit des personnes publiques ou privées  exploitant un aérodrome pour lequel le nombre annuel des mouvements d'aéronefs  de masse maximale au décollage supérieure ou égale à deux tonnes a dépassé  cinquante mille lors de l'une des cinq années civiles précédentes, si les plans  d'exposition au bruit ou de gêne sonore de cet aérodrome possèdent un domaine  d'intersection avec les plans d'exposition au bruit ou de gêne sonore d'un  aérodrome présentant les caractéristiques définies à l'alinéa précédent.
+
 II. - La taxe est due par tout exploitant d'aéronefs ou, à défaut, leur propriétaire. Elle ne s'applique pas :
 
 a) Aux aéronefs de masse maximale au décollage inférieure à 2 tonnes ;
@@ -14,15 +16,15 @@ III. - La taxe est assise sur le logarithme décimal de la masse maximale au dé
 
 Un décret précise les conditions d'application du présent III.
 
-IV. - Le produit de la taxe est affecté, pour l'aérodrome où se situe le fait générateur, au financement des aides versées à des riverains en application des articles L. 571-14 à L. 571-16 du code de l'environnement et, le cas échéant, dans la limite des deux tiers du produit annuel de la taxe, au remboursement à des personnes publiques des annuités des emprunts qu'elles ont contractés ou des avances qu'elles ont consenties pour financer des travaux de réduction des nuisances sonores prévus par des conventions passées avec l'exploitant de l'aérodrome sur avis conformes de la commission prévue par l'article L. 571-16 du code de l'environnement et du ministre chargé de l'aviation civile.
+IV. - Le produit de la taxe est affecté, pour l'aérodrome où se situe le fait générateur, au financement des aides versées à des riverains en application des articles L. 571-14 à L. 571-16 du code de l'environnement et, le cas échéant, dans la limite des deux tiers du produit annuel de la taxe, au remboursement à des personnes publiques des annuités des emprunts qu'elles ont contractés ou des avances qu'elles ont consenties pour financer des travaux de réduction des nuisances sonores prévus par des conventions passées avec l'exploitant de l'aérodrome sur avis conformes de la commission prévue par l'article L. 571-16 du code de l'environnement et du ministre chargé de l'aviation civile. Dans le cas prévu au second alinéa du I et lorsque l'exploitant est identique  pour les deux aérodromes, une partie du produit de la taxe perçue au titre de  l'un des deux aérodromes concernés peut chaque année être affectée par  l'exploitant au financement des aides aux riverains de l'autre aérodrome.
 
 Le tarif de la taxe applicable sur chaque aérodrome est compris entre les valeurs inférieure et supérieure du groupe dont il relève, en fonction du besoin de financement sur chaque aérodrome, tel qu'il résulte notamment des aides à accorder en application de la réglementation en vigueur, de l'évolution prévisible des plans de gêne sonore et de celle des coûts d'insonorisation.
 
 1er groupe : aérodromes de Paris-Orly, Toulouse-Blagnac : de 30 euros à 68 euros ;
 
-2e groupe : aérodromes de Paris - Charles-de-Gaulle et de Nantes-Atlantique : de 10 euros à 22 euros ;
+2e groupe : aérodromes de Paris - Charles-de-Gaulle, Paris - Le Bourget  et de Nantes-Atlantique : de 10 euros à 22 euros ;
 
-3e groupe : aérodromes de Bordeaux-Mérignac, Lyon-Saint-Exupéry, Marseille-Provence, Nice-Côte d'Azur : de 4 euros à 8 euros.
+3e groupe : aérodromes de Beauvais - Tillé, Bordeaux-Mérignac, Lyon-Saint-Exupéry, Marseille-Provence, Nice-Côte d'Azur : de 4 euros à 8 euros.
 
 4e groupe : les autres aérodromes qui dépassent le seuil fixé au I : de 0,5 euros à 3 euros.
 

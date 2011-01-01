@@ -28,9 +28,9 @@ b) A faire l'objet de travaux à condition que le bien soit réexpédié ou tran
 
 c) A faire l'objet d'une installation ou d'un montage.
 
-d) A faire l'objet de livraisons à bord des moyens de transport, effectuées par l'assujetti, dans les conditions mentionnées à l'article 37 de la directive 2006 / 112 / CE du Conseil du 28 novembre 2006.
+d) A faire l'objet de livraisons à bord des moyens de transport, effectuées par l'assujetti, dans les conditions mentionnées à l'article 37 de la directive 2006/112/ CE du Conseil du 28 novembre 2006.
 
-Pour l'application du présent III, n'est pas assimilé à une livraison de biens, le transfert, au sens des dispositions du premier alinéa, de gaz naturel ou d'électricité vers un autre Etat membre pour les besoins d'une livraison dont le lieu y est situé, conformément aux dispositions des articles 38 et 39 de la directive 2006 / 112 / CE du Conseil du 28 novembre 2006.
+Pour l'application du présent III, n'est pas assimilé à une livraison de biens, le transfert, au sens des dispositions du premier alinéa, de gaz naturel, d'électricité, de chaleur ou de froid vers un autre Etat membre pour les besoins d'une livraison dont le lieu y est situé, conformément aux dispositions des articles 38 et 39 de la directive 2006/112/ CE du Conseil du 28 novembre 2006.
 
 IV. 1° Les opérations autres que celles qui sont définies au II, notamment la cession ou la concession de biens meubles incorporels, le fait de s'obliger à ne pas faire ou à tolérer un acte ou une situation, les opérations de façon, les travaux immobiliers et l'exécution des obligations du fiduciaire, sont considérés comme des prestations de services ;
 

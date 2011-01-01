@@ -68,6 +68,8 @@ b. les cours ou leçons relevant de l'enseignement scolaire, universitaire, prof
 
 8° bis Les prestations de services et les livraisons de biens qui leur sont étroitement liées, effectuées dans le cadre de la garde d'enfants par les établissements visés aux deux premiers alinéas de l'article L. 2324-1 du code de la santé publique et assurant l'accueil des enfants de moins de trois ans ; (1)
 
+8° ter Les prestations de services réalisées par les mandataires judiciaires à  la protection des majeurs au sens de l'article L. 471-2 du code de l'action  sociale et des familles ;
+
 9° les prestations de services et les livraisons de biens qui leur sont étroitement liées fournies à leurs membres, moyennant une cotisation fixée conformément aux statuts, par des organismes légalement constitués agissant sans but lucratif dont la gestion est désintéressée et qui poursuivent des objectifs de nature philosophique, religieuse, politique, patriotique, civique ou syndicale, dans la mesure où ces opérations se rattachent directement à la défense collective des intérêts moraux ou matériels des membres ; les dispositions des c et d du 1° du 7 s'appliquent à ces organismes ;
 
 10° Les travaux de construction, d'aménagement, de réparation et d'entretien des monuments, cimetières ou sépultures commémoratifs des combattants, héros, victimes ou morts des guerres, effectués pour les collectivités publiques et les organismes légalement constitués agissant sans but lucratif ;

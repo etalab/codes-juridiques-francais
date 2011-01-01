@@ -13,6 +13,7 @@
 - [Section IX quater : Taxe spéciale d'équipement perçue au profit de l'agence pour la mise en valeur des espaces urbains de la zone dite des cinquante pas géométriques en Guadeloupe.](section-ix-quater)
 - [Section IX quinquies : Taxe spéciale d'équipement perçue au profit de l'agence pour la mise en valeur des espaces urbains de la zone dite des cinquante pas géométriques en Martinique.](section-ix-quinquies)
 - [Section IX septies : Taxe spéciale d'équipement perçue au profit de l'établissement public foncier de Provence-Alpes-Côte d'Azur](section-ix-septies)
+- [Section IX octies : Taxe spéciale d'équipement au profit de l'établissement public Société du Grand Paris](section-ix-octies)
 - [Section XI : Impositions perçues au profit des syndicats de communes et des syndicats mixtes](section-xi)
 - [Section XI bis :  Expérimentation des péages urbains](section-xi-bis)
 - [Section XII bis : Impositions perçues au profit des communautés de communes](section-xii-bis)

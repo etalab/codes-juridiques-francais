@@ -2,6 +2,7 @@
 
 - [Article 170](article-170.md)
 - [Article 170 bis](article-170-bis.md)
+- [Article 170 ter](article-170-ter.md)
 - [Article 172](article-172.md)
 - [Article 172 bis](article-172-bis.md)
 - [Article 173](article-173.md)

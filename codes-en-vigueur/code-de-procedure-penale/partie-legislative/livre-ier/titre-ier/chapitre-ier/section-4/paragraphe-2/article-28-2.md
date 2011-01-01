@@ -2,7 +2,7 @@
 
 I.-Des agents des services fiscaux de catégories A et B, spécialement désignés par arrêté des ministres chargés de la justice et du budget, pris après avis conforme d'une commission dont la composition et le fonctionnement sont déterminés par décret en Conseil d'Etat, peuvent être habilités à effectuer des enquêtes judiciaires sur réquisition du procureur de la République ou sur commission rogatoire du juge d'instruction.
 
-Ces agents ont compétence uniquement pour rechercher et constater, sur l'ensemble du territoire national, les infractions prévues par les articles 1741 et 1743 du code général des impôts lorsqu'il existe des présomptions caractérisées que les infractions prévues par ces articles résultent d'une des conditions prévues aux 1° à 3° de l'article L. 228 du livre des procédures fiscales.
+Ces agents ont compétence pour rechercher et constater, sur l'ensemble du territoire national, les infractions prévues par les articles 1741 et 1743 du code général des impôts lorsqu'il existe des présomptions caractérisées que les infractions prévues par ces articles résultent d'une des conditions prévues aux 1° à 3° de l'article L. 228 du livre des procédures fiscales, ainsi que les infractions qui leur sont connexes.
 
 II.-Les agents des services fiscaux désignés dans les conditions prévues au I doivent, pour mener des enquêtes judiciaires et recevoir des commissions rogatoires, y être habilités personnellement en vertu d'une décision du procureur général.
 
@@ -12,7 +12,7 @@ Dans le mois qui suit la notification de la décision de suspension ou de retrai
 
 III.-Les agents des services fiscaux habilités dans les conditions prévues au II sont placés exclusivement sous la direction du procureur de la République, sous la surveillance du procureur général et sous le contrôle de la chambre de l'instruction dans les conditions prévues par les articles 224 à 230. Ils sont placés au sein du ministère de l'intérieur.
 
-IV.-Lorsque, sur réquisition du procureur de la République, les agents des services fiscaux habilités dans les conditions prévues au II du présent article procèdent à des enquêtes judiciaires, il est fait application des deuxième et troisième alinéas de l'article 54 et des articles 55-1, 56, 57 à 62, 63 à 67 et 75 à 78 du présent code.
+IV.-Lorsque, sur réquisition du procureur de la République, les agents des services fiscaux habilités dans les conditions prévues au II du présent article procèdent à des enquêtes judiciaires, il est fait application des deuxième et troisième alinéas de l'article 54 et des articles 55-1,56,57 à 62,63 à 67 et 75 à 78 du présent code.
 
 Lorsque ces agents agissent sur commission rogatoire d'un juge d'instruction, il est également fait application des articles 100 à 100-7 et 152 à 155.
 
