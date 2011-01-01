@@ -81,7 +81,7 @@ Sauf dans les cours d'appel figurant dans le tableau ci-après, il est établi d
 <p>Lille</p>
 </td>
 <td valign="top" width="215">
-<p>Ressorts des tribunaux de grande instance de Lille, Dunkerque, Hazebrouck, Douai, Valenciennes, Cambrai et Avesnes-sur-Helpe</p>
+<p>Ressorts des tribunaux de grande instance de Lille, Dunkerque, Douai, Valenciennes, Cambrai et Avesnes-sur-Helpe</p>
 </td>
 </tr>
 <tr>
@@ -168,7 +168,7 @@ Sauf dans les cours d'appel figurant dans le tableau ci-après, il est établi d
 <p>Rennes</p>
 </td>
 <td valign="top" width="215">
-<p>Ressorts des tribunaux de grande instance de Rennes, Saint-Malo, Guingamp, Saint-Brieuc, Dinan, Quimper, Brest et Morlaix</p>
+<p>Ressorts des tribunaux de grande instance de Rennes, Saint-Malo, Saint-Brieuc, Quimper et Brest</p>
 </td>
 </tr>
 <tr>
@@ -181,18 +181,23 @@ Sauf dans les cours d'appel figurant dans le tableau ci-après, il est établi d
 </td>
 </tr>
 <tr>
-<td valign="top" width="181">Riom</td>
+<td valign="top" width="181">
+<p>Riom</p>
+</td>
+<td valign="top" width="209">
+<p>Clermont-Ferrand</p>
+</td>
+<td valign="top" width="215">
+<p>Ressorts des tribunaux de grande instance de Clermont-Ferrand, Aurillac et Le Puy-en-Velay</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="181"/>
 <td valign="top" width="209">
 <p>Moulins</p>
 </td>
 <td valign="top" width="215">
-<p>Ressorts des tribunaux de grande instance de Moulins, Cusset et Montluçon </p>
-</td>
-</tr>
-<tr>
-<td/>
-<td> Riom</td>
-<td> Ressort des tribunaux de grande instance de Riom, Clermont-Ferrand, Aurillac et du Puy-en-Velay.<br/>
+<p>Ressorts des tribunaux de grande instance de Moulins, Cusset et Montluçon</p>
 </td>
 </tr>
 </tbody>
