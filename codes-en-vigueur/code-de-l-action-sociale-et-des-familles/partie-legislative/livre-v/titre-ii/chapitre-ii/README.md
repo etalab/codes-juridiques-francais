@@ -1,4 +1,4 @@
-# Chapitre II : Revenu minimum d'insertion.
+# Chapitre II : Revenu de solidarité active
 
 - [Article L522-1](article-l522-1.md)
 - [Article L522-2](article-l522-2.md)

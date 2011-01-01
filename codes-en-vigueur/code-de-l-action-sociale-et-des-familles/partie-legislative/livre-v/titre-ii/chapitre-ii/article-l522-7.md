@@ -1,9 +1,5 @@
 # Article L522-7
 
-Les articles L. 263-10 à L. 263-13 ne sont pas applicables dans les départements d'outre-mer. Les agences d'insertion exercent les missions dévolues aux commissions locales d'insertion.
+L'agence d'insertion est partie à la convention prévue aux articles L. 262-25 et L. 262-32.
 
-Les contrats d'insertion sont signés par le directeur de l'agence ou son représentant par délégation, y compris dans des services publics ou organismes conventionnés à cet effet.
-
-Le programme local d'insertion est élaboré par l'agence d'insertion en partenariat avec la commune ou le groupement de communes concerné, et en cohérence avec le plan départemental d'insertion.
-
-Ce programme local est approuvé par le conseil municipal ou l'organe délibérant du groupement de communes, et signé par le maire ou le président du groupement, et par le directeur de l'agence d'insertion.
+Pour l'application de l'article L. 262-39 dans les départements d'outre-mer, les équipes pluridisciplinaires constituées par le président du conseil général peuvent comprendre des personnels de l'agence d'insertion.
