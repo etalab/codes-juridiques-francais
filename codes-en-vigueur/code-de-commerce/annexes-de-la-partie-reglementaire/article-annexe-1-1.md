@@ -18,6 +18,6 @@ Les principaux organismes destinataires des formalités des entreprises selon le
 
 7. Inspection du travail.
 
-8. Chambres des métiers et de l'artisanat, lesquelles retransmettent à l'Institut national de la propriété industrielle (INPI).
+8. Chambres des métiers et de l'artisanat.
 
 9. Institut national de la statistique et des études économiques (INSEE). Chambre nationale de la batellerie artisanale.

@@ -14,8 +14,10 @@ Toute personne immatriculée indique sur ses factures, notes de commande, tarifs
 
 6° Le cas échéant, la qualité de locataire-gérant ou de gérant-mandataire ;
 
-7° Si elle est bénéficiaire d'un contrat d'appui au projet d'entreprise pour la création ou la reprise d'une activité économique au sens du chapitre VII du titre II du livre Ier du code de commerce, la dénomination sociale de la personne morale responsable de l'appui, le lieu de son siège social, ainsi que son numéro unique d'identification.
+7° Si elle est bénéficiaire d'un contrat d'appui au projet d'entreprise pour la création ou la reprise d'une activité économique au sens du chapitre VII du titre II du livre Ier du code de commerce, la dénomination sociale de la personne morale responsable de l'appui, le lieu de son siège social, ainsi que son numéro unique d'identification ;
 
-Toute personne immatriculée indique en outre sur son site internet la mention RCS suivie du nom de la ville où se trouve le greffe où elle est immatriculée, ainsi que des renseignements mentionnés aux 1°,3° et 5°.
+8° Si elle a constitué un patrimoine affecté en application de l'article L. 526-6, l'objet de l'activité professionnelle à laquelle le patrimoine est affecté et la dénomination utilisée pour l'exercice de l'activité professionnelle incorporant son nom ou nom d'usage précédé ou suivi immédiatement des mots : " entrepreneur individuel à responsabilité limitée " ou des initiales : " EIRL ".
+
+Toute personne immatriculée indique en outre sur son site internet la mention RCS suivie du nom de la ville où se trouve le greffe où elle est immatriculée, ainsi que des renseignements mentionnés aux 1°,3°,5° et 8°.
 
 Toute contravention aux dispositions des alinéas précédents est punie de l'amende prévue pour les contraventions de la 4e classe.

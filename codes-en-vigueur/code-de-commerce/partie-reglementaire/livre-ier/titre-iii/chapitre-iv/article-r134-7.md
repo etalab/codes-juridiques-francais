@@ -1,3 +1,3 @@
 # Article R134-7
 
-L'immatriculation au registre spécial des agents commerciaux et le récépissé de déclaration sont valables cinq ans à compter de la date d'immatriculation.
+L'agent commercial qui a constitué un patrimoine affecté en application de l'article L. 526-6 dépose au registre spécial, dans le délai de six mois suivant la clôture de l'exercice, les documents comptables mentionnés à l'article L. 526-14.

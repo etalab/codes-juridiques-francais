@@ -18,7 +18,7 @@ L'Institut national de la propriété industrielle a notamment pour attributions
 
 8° L'application des accords internationaux et la mise en oeuvre d'actions de coopération en matière de propriété industrielle, et notamment les relations administratives avec l'Organisation mondiale de la propriété intellectuelle et l'Organisation européenne des brevets ;
 
-9° La tenue du Registre national du commerce et des sociétés et du Répertoire central des métiers ;
+9° La tenue du Registre national du commerce et des sociétés      ;
 
 10° La conservation du dépôt des actes constitutifs et modificatifs de sociétés déposés dans les greffes des tribunaux de commerce et des tribunaux civils en tenant lieu ;
 
