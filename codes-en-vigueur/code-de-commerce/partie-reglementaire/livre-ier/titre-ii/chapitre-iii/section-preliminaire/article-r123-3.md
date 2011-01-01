@@ -1,12 +1,12 @@
 # Article R123-3
 
-1° Sous réserve des dispositions des 2° et 3°, les chambres de commerce et d'industrie créent et gèrent les centres de formalités des entreprises compétents pour :
+1° Sous réserve des dispositions des 2° et 3°, les chambres de commerce et d'industrie territoriales créent et gèrent les centres de formalités des entreprises compétents pour :
 
 a) Les commerçants ;
 
 b) Les sociétés commerciales.
 
-2° Les       chambres de métiers et de l'artisanat de région créent et gèrent les centres compétents pour les personnes physiques et les sociétés assujetties à l'immatriculation au répertoire des métiers et pour les personnes physiques bénéficiant de la dispense d'immatriculation prévue au V de l'article 19 de la loi n° 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat, à l'exclusion des personnes mentionnées au 3° du présent article.
+2° Les chambres de métiers et de l'artisanat de région créent et gèrent les centres compétents pour les personnes physiques et les sociétés assujetties à l'immatriculation au répertoire des métiers et pour les personnes physiques bénéficiant de la dispense d'immatriculation prévue au V de l'article 19 de la loi n° 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat, à l'exclusion des personnes mentionnées au 3° du présent article.
 
 3° La chambre nationale de la batellerie artisanale crée et gère le centre compétent pour les personnes physiques et les sociétés assujetties à l'immatriculation au registre des entreprises de la batellerie artisanale.
 
@@ -42,6 +42,8 @@ c) Les redevables de l'impôt sur le revenu au titre des bénéfices non commerc
 
 d) Les redevables de l'impôt sur les sociétés.
 
+La compétence des centres de formalités des entreprises des services des impôts pour les activités exercées par les assujettis ou les redevables susmentionnés peut être transférée aux organismes mentionnés aux 1° à 6° par convention conclue entre le directeur général des finances publiques et le représentant de la personne morale placée à la tête du réseau des organismes destinataires de ce transfert. Cette convention est approuvée par arrêté conjoint du ministre chargé du budget et du ministre assurant la tutelle des organismes destinataires de ce transfert.
+
 Les déclarations des personnes bénéficiant de la dispense d'immatriculation au registre du commerce et des sociétés prévue à l'article L. 123-1-1 ainsi que les déclarations des personnes physiques exerçant une activité artisanale et ayant opté pour le régime prévu à l'article L. 133-6-8 du code de la sécurité sociale sont recueillies par les centres de formalités des entreprises mentionnés respectivement au 1° et au 2° du présent article. Lorsqu'elles sont effectuées par voie électronique, ces déclarations peuvent également être recueillies par les centres de formalités des entreprises mentionnés au 5. Elles sont alors transmises aux centres de formalités des entreprises compétents mentionnés aux 1° et 2° aux fins d'information ainsi que, le cas échéant, aux fins d'immatriculation au répertoire des métiers sans formalité additionnelle.
 
-Les personnes souhaitant exercer ou exerçant une activité de restauration à titre principal relèvent des centres de formalités des entreprises gérés par les chambres de commerce et d'industrie mentionnés au 1°.
+Les personnes souhaitant exercer ou exerçant une activité de restauration à titre principal relèvent des centres de formalités des entreprises gérés par les chambres de commerce et d'industrie territoriales mentionnés au 1°.
