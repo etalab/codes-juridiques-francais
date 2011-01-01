@@ -40,9 +40,9 @@ p) Le chef du service des droits des femmes et de l'égalité au ministère char
 
 2° Quatre représentants des organisations professionnelles d'employeurs les plus représentatives ;
 
-3° Un représentant des chambres de commerce et d'industrie ;
+3° Un représentant des      chambres de commerce et d'industrie territoriales ;
 
-4° Un représentant des       chambres de métiers et de l'artisanat de région ;
+4° Un représentant des chambres de métiers et de l'artisanat de région ;
 
 5° Six représentants d'organisations syndicales de salariés représentatives ;
 

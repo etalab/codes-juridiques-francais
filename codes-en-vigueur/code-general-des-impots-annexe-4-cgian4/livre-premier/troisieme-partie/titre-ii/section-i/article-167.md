@@ -6,7 +6,7 @@ voies navigables de France ;
 
 la caisse nationale du crédit agricole ;
 
-les chambres de commerce et d'industrie et ports autonomes ;
+les      chambres de commerce et d'industrie territoriales et ports autonomes ;
 
 le comité national interprofessionnel des viandes ;
 
@@ -42,7 +42,7 @@ la caisse de compensation pour la décentralisation de l'industrie aéronautique
 
 les chambres d'agriculture ;
 
-les       chambres de métiers et de l'artisanat de région ;
+les chambres de métiers et de l'artisanat de région ;
 
 les sections de l'office de répartition des produits industriels ;
 

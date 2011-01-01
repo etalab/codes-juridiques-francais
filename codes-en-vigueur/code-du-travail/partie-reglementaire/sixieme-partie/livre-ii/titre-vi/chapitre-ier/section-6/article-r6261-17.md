@@ -1,6 +1,6 @@
 # Article R6261-17
 
-Nul ne peut être nommé inspecteur de l'apprentissage d'une       chambre de métiers et de l'artisanat de région  ou d'une chambre de commerce et d'industrie, en application de l'article R. 6261-16 :
+Nul ne peut être nommé inspecteur de l'apprentissage d'une chambre de métiers et de l'artisanat de région ou d'une      chambre de commerce et d'industrie territoriale, en application de l'article R. 6261-16 :
 
 1° S'il ne jouit de ses droits civiques et s'il n'est pas de bonne moralité ;
 

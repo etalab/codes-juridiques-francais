@@ -4,15 +4,15 @@ La commission paritaire prévue à l'article 1er de la loi n° 52-1311 du 10 dé
 
 1° Un représentant du ministre chargé de leur tutelle, président de la commission ;
 
-2° Six présidents de chambres de commerce et d'industrie désignés par le bureau de l'assemblée de leurs présidents dont :
+2° Six présidents de chambres de commerce et d'industrie territoriales désignés par le bureau de l'assemblée de leurs présidents dont :
 
 a) Le président de cette assemblée ;
 
-b) Trois présidents de chambre de commerce et d'industrie gérant des services publics ;
+b) Trois présidents de      chambre de commerce et d'industrie territoriale gérant des services publics ;
 
-c) Deux présidents de chambres de commerce et d'industrie qui ne gèrent aucun service public ;
+c) Deux présidents de chambres de commerce et d'industrie territoriales qui ne gèrent aucun service public ;
 
-3° Six représentants du personnel des chambres de commerce et d'industrie désignés par les organisations syndicales les plus représentatives et choisis dans les catégories suivantes, à raison de :
+3° Six représentants du personnel des chambres de commerce et d'industrie territoriales désignés par les organisations syndicales les plus représentatives et choisis dans les catégories suivantes, à raison de :
 
 a) Trois pour les cadres dont un secrétaire général au moins ;
 

@@ -12,7 +12,7 @@ Lorsque la commission départementale d'évaluation est chargée d'examiner des 
 
 5° Un fonctionnaire choisi pour chaque catégorie d'affaires en raison de sa compétence technique et désigné par le préfet ;
 
-6° Le président de la chambre de commerce et d'industrie ou son délégué ;
+6° Le président de la chambre de commerce et d'industrie territoriale ou son délégué ;
 
 7° Le président de la chambre d'agriculture ou son délégué ;
 

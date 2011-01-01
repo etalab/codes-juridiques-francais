@@ -8,12 +8,12 @@ Le dossier de réduction d'un périmètre de référence comprend :
 
 3° L'avis de l'organisme gestionnaire du marché d'intérêt national concerné ;
 
-4° L'avis de la ou des chambres de commerce et d'industrie, de la ou des chambres des métiers et de l'artisanat et de la ou des chambres d'agriculture dans le ressort desquelles est situé le périmètre de référence.
+4° L'avis de la ou des      chambres de commerce et d'industrie territoriales, de la ou des chambres des métiers et de l'artisanat et de la ou des chambres d'agriculture dans le ressort desquelles est situé le périmètre de référence.
 
 Le dossier de suppression anticipée d'un périmètre de référence comprend :
 
 1° L'avis de l'organisme gestionnaire du marché d'intérêt national concerné ;
 
-2° L'avis de la ou des chambres de commerce et d'industrie, de la ou des chambres des métiers et de l'artisanat et de la ou des chambres d'agriculture dans le ressort desquelles est situé le périmètre de référence.
+2° L'avis de la ou des      chambres de commerce et d'industrie territoriales, de la ou des chambres des métiers et de l'artisanat et de la ou des chambres d'agriculture dans le ressort desquelles est situé le périmètre de référence.
 
 Le dossier est adressé au préfet de région, qui le transmet aux ministres de tutelle avec son avis.

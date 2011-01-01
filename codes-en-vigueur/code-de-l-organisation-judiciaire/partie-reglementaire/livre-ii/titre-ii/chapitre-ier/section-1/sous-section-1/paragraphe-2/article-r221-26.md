@@ -4,4 +4,4 @@ Le tribunal d'instance connaît des contestations des décisions prises par la c
 
 1° Des délégués consulaires ;
 
-2° Des membres des chambres de commerce et d'industrie.
+2° Des membres des      chambres de commerce et d'industrie territoriales.

@@ -28,10 +28,10 @@ a) le président du comité local de la Fédération bancaire française ou son 
 
 b) un représentant des établissements de crédit non membres de la Fédération bancaire française, ou son suppléant, nommés par le haut-commissaire de la République après avis du président du gouvernement de la Nouvelle-Calédonie ;
 
-c) le président de la chambre de commerce et d'industrie ou son représentant ;
+c) le président de la      chambre de commerce et d'industrie territoriale ou son représentant ;
 
 d) le président de la chambre d'agriculture ou son représentant ;
 
-e) le président de la       chambre de métiers et de l'artisanat de région  ou son représentant ;
+e) le président de la chambre de métiers et de l'artisanat de région ou son représentant ;
 
 f) un représentant désigné par le Conseil économique et social ou son suppléant.

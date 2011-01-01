@@ -18,11 +18,11 @@ la caisse générale de garantie des assurances sociales ;
 
 la caisse de compensation pour la décentralisation de l'industrie aéronautique ;
 
-les chambres de commerce et d'industrie et ports autonomes ;
+les      chambres de commerce et d'industrie territoriales et ports autonomes ;
 
 les chambres d'agriculture ;
 
-les       chambres de métiers et de l'artisanat de région ;
+les chambres de métiers et de l'artisanat de région ;
 
 le comité national interprofessionnel des viandes ;
 

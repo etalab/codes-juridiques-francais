@@ -2,7 +2,7 @@
 
 La commission régionale de la forêt et des produits forestiers est présidée par le préfet de région et comprend :
 
-1° Le         directeur régional de l'alimentation, de l'agriculture et de la forêt , le directeur régional de l'environnement et le directeur régional de l'industrie, de la recherche et de l'environnement ou leurs représentants ;
+1° Le directeur régional de l'alimentation, de l'agriculture et de la forêt, le directeur régional de l'environnement et le directeur régional de l'industrie, de la recherche et de l'environnement ou leurs représentants ;
 
 2° Des représentants du conseil régional et des conseils généraux ;
 
@@ -12,7 +12,7 @@ La commission régionale de la forêt et des produits forestiers est présidée 
 
 5° Des représentants d'associations d'usagers de la forêt, de protection de la nature et de gestionnaires d'espaces naturels, dont au moins un représentant des fédérations départementales des chasseurs ;
 
-6° Des représentants de la chambre régionale d'agriculture, de la chambre régionale de commerce et d'industrie et de la conférence régionale des métiers ;
+6° Des représentants de la chambre régionale d'agriculture, de la       chambre de commerce et d'industrie de région et de la conférence régionale des métiers ;
 
 7° Des personnalités qualifiées.
 

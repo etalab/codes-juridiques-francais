@@ -4,4 +4,4 @@ Les décisions de la commission peuvent faire l'objet d'une contestation formée
 
 Les recours prévus aux premier et deuxième alinéas de l'article L. 25 sont formés dans les dix jours à compter de la notification de la décision de la commission.
 
-Le tribunal d'instance territorialement compétent est celui dans le ressort duquel la chambre de commerce et d'industrie a son siège.
+Le tribunal d'instance territorialement compétent est celui dans le ressort duquel la chambre de commerce et d'industrie territoriale a son siège.

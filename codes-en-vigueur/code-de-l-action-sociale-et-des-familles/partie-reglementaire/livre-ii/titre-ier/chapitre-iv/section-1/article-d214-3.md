@@ -24,7 +24,7 @@ La commission comprend :
 
 11° un représentant désigné par chacune des organisations syndicales de salariés interprofessionnelles représentatives sur le plan national ;
 
-12° un représentant des entreprises désigné conjointement par la ou les chambres de commerce et d'industrie, la       chambre de métiers et de l'artisanat de région  et la chambre d'agriculture ;
+12° un représentant des entreprises désigné conjointement par la ou les      chambres de commerce et d'industrie territoriales, la chambre de métiers et de l'artisanat de région et la chambre d'agriculture ;
 
 13° trois personnes qualifiées dans le domaine de l'accueil des jeunes enfants et de la conciliation de la vie familiale et de la vie professionnelle, sur proposition du préfet ;
 

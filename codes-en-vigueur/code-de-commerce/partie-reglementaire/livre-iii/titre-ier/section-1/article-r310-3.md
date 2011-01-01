@@ -6,4 +6,4 @@ Dans le cas de survenance du fait imprévisible mentionné au deuxième alinéa 
 
 Aucune vente en liquidation ne peut intervenir tant que le récépissé de déclaration n'a pas été délivré par le préfet.
 
-Le préfet informe la chambre de commerce et d'industrie de la vente en liquidation ainsi déclarée.
+Le préfet informe la      chambre de commerce et d'industrie territoriale de la vente en liquidation ainsi déclarée.
