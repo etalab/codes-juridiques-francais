@@ -2,13 +2,11 @@
 
 Le conseil d'administration comprend :
 
-1° Des représentants des services de l'Etat dans le département ;
+1° Des représentants du département ;
 
-2° Des représentants du département ;
+2° Des représentants de la région et des communes ou des établissements publics de coopération intercommunale ;
 
-3° Des représentants de la région et des communes ou des établissements publics de coopération intercommunale ;
-
-4° Des personnalités qualifiées choisies au sein d'associations ou d'institutions intervenant dans le domaine de l'insertion sociale et professionnelle.
+3° Des personnalités qualifiées choisies au sein d'associations ou d'institutions intervenant dans le domaine de l'insertion sociale et professionnelle.
 
 Les représentants du département constituent la majorité des membres.
 

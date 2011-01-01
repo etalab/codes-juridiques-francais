@@ -1,3 +1,3 @@
 # Article L522-12
 
-Dès le dépôt de la demande, l'intéressé est informé, par la caisse ou l'organisme mentionné au premier alinéa de l'article L. 522-11, de la démarche d'insertion dans laquelle il a l'obligation de s'engager aux termes de l'article L. 262-1, des conditions de suspension ou de radiation du revenu minimum d'insertion, ainsi que des sanctions pénales, en cas de manquement à ses obligations ou de fraude.
+Pour l'application du troisième alinéa de l'article L. 262-24 dans les départements d'outre-mer, l'allocation n'est intégralement à la charge du Fonds national des solidarités actives que si le contrat unique d'insertion prend la forme du contrat d'accompagnement dans l'emploi.
