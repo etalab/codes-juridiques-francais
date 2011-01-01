@@ -1,7 +1,3 @@
 # Article 913
 
-Les avoués ont seuls qualité pour représenter les parties et conclure en leur nom.
-
-Les avis ou injonctions sont valablement adressés aux seuls avoués.
-
-Les avocats sont entendus sur leur demande.
+Le conseiller de la mise en état peut enjoindre aux avoués de mettre leurs conclusions en conformité avec les dispositions de l'article 954.
