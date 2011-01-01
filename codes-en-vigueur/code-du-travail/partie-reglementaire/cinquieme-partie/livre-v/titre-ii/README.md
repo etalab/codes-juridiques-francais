@@ -3,4 +3,3 @@
 - [Chapitre Ier : Dispositions générales](chapitre-ier)
 - [Chapitre II : Dispositifs en faveur de l'emploi](chapitre-ii)
 - [Chapitre III : Dispositions applicables  à certaines catégories de travailleurs](chapitre-iii)
-- [Chapitre IV : Le demandeur d'emploi](chapitre-iv)

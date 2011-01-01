@@ -46,4 +46,6 @@ Pour l'application de l'article R. 262-6, il n'est pas tenu compte :
 
 22° Des mesures de réparation mentionnées à l'article 2 du décret n° 2000-657 du 13 juillet 2000 instituant une mesure de réparation pour les orphelins dont les parents ont été victimes de persécutions antisémites ;
 
-23° Des mesures de réparation mentionnées à l'article 2 du décret n° 2004-751 du 27 juillet 2004 instituant une aide financière en reconnaissance des souffrances endurées par les orphelins dont les parents ont été victimes d'actes de barbarie durant la Deuxième Guerre mondiale.
+23° Des mesures de réparation mentionnées à l'article 2 du décret n° 2004-751 du 27 juillet 2004 instituant une aide financière en reconnaissance des souffrances endurées par les orphelins dont les parents ont été victimes d'actes de barbarie durant la Deuxième Guerre mondiale ;
+
+24° Du revenu de solidarité prévu à l'article L. 522-14 du code de l'action sociale et des familles.

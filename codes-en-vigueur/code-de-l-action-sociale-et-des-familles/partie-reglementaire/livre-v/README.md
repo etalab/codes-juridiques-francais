@@ -6,3 +6,4 @@
 - [Titre V : Territoire des Iles Wallis et Futuna](titre-v)
 - [Titre VI : Polynésie française](titre-vi)
 - [Titre VII : Nouvelle-Calédonie](titre-vii)
+- [Titre VIII : Saint-Barthélemy et Saint-Martin](titre-viii)

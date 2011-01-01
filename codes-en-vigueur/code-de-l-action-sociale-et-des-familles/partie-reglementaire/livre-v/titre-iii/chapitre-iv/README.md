@@ -1,3 +1,3 @@
 # Chapitre IV : Adoption
 
-- [Article R533-1](article-r533-1.md)
+- [Article R534-1](article-r534-1.md)
