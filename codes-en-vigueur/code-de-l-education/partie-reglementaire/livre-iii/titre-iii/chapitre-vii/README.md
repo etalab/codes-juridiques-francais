@@ -7,3 +7,4 @@
 - [Section 5 : Le diplôme national du brevet des métiers d'art.](section-5)
 - [Section 6 : La mention complémentaire](section-6)
 - [Section 7 : La formation d'apprenti junior](section-7)
+- [Section 8 : Le dispositif d'initiation aux métiers en alternance](section-8)
