@@ -1,6 +1,6 @@
 # Article L6527-1
 
-Le personnel navigant professionnel civil salarié inscrit sur les registres prévus par l'article L. 6521-3, qui exerce de manière habituelle la profession de navigant à titre d'occupation principale, bénéficie d'un régime complémentaire de retraite auquel il est obligatoirement affilié.
+Le personnel navigant professionnel civil salarié, nonobstant les dispositions du 2° de l'article L. 6521-2, qui exerce de manière habituelle la profession de navigant à titre d'occupation principale, bénéficie d'un régime complémentaire de retraite auquel il est obligatoirement affilié.
 
 Les navigants stagiaires de l'aéronautique civile sont assujettis à ce régime de retraite.
 

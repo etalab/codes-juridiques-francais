@@ -11,3 +11,5 @@ a) Essais et réceptions ;
 b) Transport aérien ;
 
 c) Travail aérien.
+
+Le personnel navigant prestataire de services de transport ou de travail aériens établi dans un Etat membre de l'Union européenne autre que la France ou dans un Etat partie à l'accord sur l'Espace économique européen ou aux accords bilatéraux passés par l'Union européenne avec la Confédération suisse ainsi que le personnel navigant salarié d'un prestataire de services de transport ou de travail aériens établi dans l'un des Etats précités, qui exercent temporairement leur activité en France, n'entrent pas dans le champ d'application du présent article.

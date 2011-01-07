@@ -12,4 +12,4 @@ c) Soit à une peine prévue par les articles 186 et 192 de la loi n° 85-98 du 
 
 2° Justifier de la capacité à la gestion d'un établissement d'enseignement de la conduite ;
 
-3° Remplir les conditions d'âge, d'ancienneté du permis de conduire, d'expérience professionnelle et de réactualisation des connaissances fixées par décret en Conseil d'Etat.
+3° Remplir les conditions d'âge, d'ancienneté du permis de conduire et de réactualisation des connaissances fixées par décret en Conseil d'Etat.
