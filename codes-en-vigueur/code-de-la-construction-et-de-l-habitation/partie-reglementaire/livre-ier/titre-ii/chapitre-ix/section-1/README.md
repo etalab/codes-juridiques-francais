@@ -4,6 +4,3 @@
 - [Sous-section 2 : Dispositions particulières aux bâtiments en copropriété](sous-section-2)
 - [Sous-section 3 : Autres dispositions](sous-section-3)
 - [Article R*129-1](article-r-129-1.md)
-- [Article R*129-2](article-r-129-2.md)
-- [Article R*129-3](article-r-129-3.md)
-- [Article R*129-4](article-r-129-4.md)
