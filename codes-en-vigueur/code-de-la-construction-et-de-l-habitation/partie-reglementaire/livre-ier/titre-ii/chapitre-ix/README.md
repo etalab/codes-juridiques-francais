@@ -1,6 +1,6 @@
-# Chapitre IX : Sécurité des immeubles collectifs à usage principal d'habitation.
+# Chapitre IX : Sécurité des immeubles à usage d'habitation.
 
-- [Section 1 : Dispositions générales.](section-1)
-- [Section 2 : Dispositions particulières aux bâtiments en copropriété.](section-2)
+- [Section 1 : Dispositions générales pour la sécurité des occupants d'immeubles collectifs à usage d'habitation.](section-1)
+- [Section 2 : Détecteurs de fumée normalisés](section-2)
 - [Section 3 : Autres dispositions.](section-3)
 - [Article R*129-1](article-r-129-1.md)

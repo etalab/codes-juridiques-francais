@@ -7,4 +7,4 @@
 - [Chapitre V : Sécurité de certains équipements d'immeubles par destination.](chapitre-v)
 - [Chapitre VII : Gardiennage ou surveillance de certains immeubles d'habitation.](chapitre-vii)
 - [Chapitre VIII : Sécurité des piscines.](chapitre-viii)
-- [Chapitre IX : Sécurité des immeubles collectifs à usage principal d'habitation.](chapitre-ix)
+- [Chapitre IX : Sécurité des immeubles à usage d'habitation.](chapitre-ix)
