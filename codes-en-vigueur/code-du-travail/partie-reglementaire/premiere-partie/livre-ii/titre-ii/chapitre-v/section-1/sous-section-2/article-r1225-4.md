@@ -12,4 +12,4 @@ Pour bénéficier de la garantie de rémunération prévue au troisième alinéa
 
 5° Virus de la rubéole ou toxoplasme ;
 
-6° Travaux en milieu hyperbare dès lors que la pression relative maximale excède la pression d'intervention définie IA, soit 1,2 bar.
+6° Travaux en milieu hyperbare dès lors que la pression relative maximale est supérieure à 100 hectopascals.

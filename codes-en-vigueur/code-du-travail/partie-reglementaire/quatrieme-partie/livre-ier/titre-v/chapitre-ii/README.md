@@ -7,3 +7,4 @@
 - [Section 5 : Travaux exposant aux agents chimiques dangereux](section-5)
 - [Section 6 : Manutention des charges](section-6)
 - [Section 7 : Local dédié à l'allaitement](section-7)
+- [Section 8 : Interventions et travaux en milieu hyperbare](section-8)
