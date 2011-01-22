@@ -1,4 +1,4 @@
-# Sous-section 3 : Indemnisation du chômage des militaires  ayant servi en vertu d'un contrat
+# Sous-section 3 : Indemnisation du chômage des militaires involontairement privés d'emploi
 
 - [Article R4123-30](article-r4123-30.md)
 - [Article R4123-31](article-r4123-31.md)
