@@ -27,6 +27,7 @@
 - [Article L225-80](article-l225-80.md)
 - [Article L225-81](article-l225-81.md)
 - [Article L225-82](article-l225-82.md)
+- [Article L225-82-1](article-l225-82-1.md)
 - [Article L225-83](article-l225-83.md)
 - [Article L225-84](article-l225-84.md)
 - [Article L225-85](article-l225-85.md)
