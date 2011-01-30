@@ -2,324 +2,545 @@
 
 ANNEXE A L'ARTICLE R. 4134-1
 
-Nombre des membres des    conseils économiques, sociaux et environnementaux régionaux
+Nombre des membres des conseils économiques, sociaux et environnementaux régionaux
 
 et répartition de ces derniers entre les collèges
 
-<div>
 <table>
 <tbody>
 <tr>
-<td align="center">REGIONS </td>
+<td rowspan="2">
+<p align="center">RÉGIONS</p>
+</td>
+<td rowspan="2">
+<p align="center">PREMIER<br/>collège</p>
+</td>
+<td rowspan="2">
+<p align="center">DEUXIÈME<br/>collège</p>
+</td>
+<td colspan="2">
+<p align="center">TROISIÈME COLLÈGE</p>
+</td>
+<td rowspan="2">
+<p align="center">QUATRIÈME<br/>collège</p>
+</td>
+<td rowspan="2">
+<p align="center">TOTAL</p>
+</td>
+</tr>
+<tr>
 <td>
-<p align="center">PREMIER </p>
-<p align="center">collège </p>
+<p align="center">Total troisième collège</p>
 </td>
 <td>
-<p>DEUXIEME </p>
-<p align="center">collège </p>
-</td>
-<td>
-<p>TROISIEME </p>
-<p align="center">collège </p>
-</td>
-<td>
-<p>QUATRIEME </p>
-<p align="center">collège </p>
-</td>
-<td>TOTAL <br/>
+<p align="center">Dont au titre<br/>du deuxième alinéa<br/>de l'article L. 4134-2<br/>du CGCT<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>Alsace <br/>
+<td align="center">
+<p>Alsace<br/>
+</p>
 </td>
-<td align="center">25 <br/>
+<td align="center">
+<br/>25<br/>
 </td>
-<td align="center">25 <br/>
+<td align="center">
+<br/>25<br/>
 </td>
-<td align="center">21 <br/>
+<td align="center">
+<br/>25<br/>
 </td>
-<td align="center">3 <br/>
+<td align="center">
+<br/>4<br/>
 </td>
-<td align="center">74 <br/>
+<td align="center">
+<br/>3<br/>
 </td>
-</tr>
-<tr>
-<td>Aquitaine </td>
-<td align="center">38 <br/>
-</td>
-<td align="center">38 <br/>
-</td>
-<td align="center">32 <br/>
-</td>
-<td align="center">5 <br/>
-</td>
-<td align="center">113 <br/>
+<td align="center">
+<br/>78<br/>
 </td>
 </tr>
 <tr>
-<td>Auvergne <br/>
+<td align="center">
+<p>Aquitaine<br/>
+</p>
 </td>
-<td align="center">24 <br/>
+<td align="center">
+<br/>38<br/>
 </td>
-<td align="center">24 <br/>
+<td align="center">
+<br/>38<br/>
 </td>
-<td align="center">20 <br/>
+<td align="center">
+<br/>38<br/>
 </td>
-<td align="center">3 <br/>
+<td align="center">
+<br/>6<br/>
 </td>
-<td align="center">71 <br/>
+<td align="center">
+<br/>5<br/>
 </td>
-</tr>
-<tr>
-<td>Basse-Normandie <br/>
-</td>
-<td align="center">25 <br/>
-</td>
-<td align="center">25 <br/>
-</td>
-<td align="center">21 <br/>
-</td>
-<td align="center">3 <br/>
-</td>
-<td align="center">74 <br/>
+<td align="center">
+<br/>119<br/>
 </td>
 </tr>
 <tr>
-<td>Bourgogne <br/>
+<td align="center">
+<p>Auvergne<br/>
+</p>
 </td>
-<td align="center">25 <br/>
+<td align="center">
+<br/>24<br/>
 </td>
-<td align="center">25 <br/>
+<td align="center">
+<br/>24<br/>
 </td>
-<td align="center">21 <br/>
+<td align="center">
+<br/>24<br/>
 </td>
-<td align="center">3 <br/>
+<td align="center">
+<br/>4<br/>
 </td>
-<td align="center">74 <br/>
+<td align="center">
+<br/>3<br/>
 </td>
-</tr>
-<tr>
-<td>Bretagne <br/>
-</td>
-<td align="center">38 <br/>
-</td>
-<td align="center">38 <br/>
-</td>
-<td align="center">32 <br/>
-</td>
-<td align="center">5 <br/>
-</td>
-<td align="center">113 <br/>
+<td align="center">
+<br/>75<br/>
 </td>
 </tr>
 <tr>
-<td>Centre <br/>
+<td align="center">
+<p>Basse-Normandie<br/>
+</p>
 </td>
-<td align="center">32 <br/>
+<td align="center">
+<br/>25<br/>
 </td>
-<td align="center">32 <br/>
+<td align="center">
+<br/>25<br/>
 </td>
-<td align="center">27 <br/>
+<td align="center">
+<br/>25<br/>
 </td>
-<td align="center">4 <br/>
+<td align="center">
+<br/>4<br/>
 </td>
-<td align="center">95 <br/>
+<td align="center">
+<br/>3<br/>
 </td>
-</tr>
-<tr>
-<td>Champagne-Ardennes <br/>
-</td>
-<td align="center">25 <br/>
-</td>
-<td align="center">25 <br/>
-</td>
-<td align="center">21 <br/>
-</td>
-<td align="center">3 <br/>
-</td>
-<td align="center">74 <br/>
+<td align="center">
+<br/>78<br/>
 </td>
 </tr>
 <tr>
-<td>Franche-Comté <br/>
+<td align="center">
+<p>Bourgogne<br/>
+</p>
 </td>
-<td align="center">22 <br/>
+<td align="center">
+<br/>25<br/>
 </td>
-<td align="center">22 <br/>
+<td align="center">
+<br/>25<br/>
 </td>
-<td align="center">18 <br/>
+<td align="center">
+<br/>25<br/>
 </td>
-<td align="center">3 </td>
-<td align="center">65 <br/>
+<td align="center">
+<br/>4<br/>
 </td>
-</tr>
-<tr>
-<td>Haute-Normandie <br/>
+<td align="center">
+<br/>3<br/>
 </td>
-<td align="center">25 <br/>
-</td>
-<td align="center">25 <br/>
-</td>
-<td align="center">21 <br/>
-</td>
-<td align="center">3 <br/>
-</td>
-<td align="center">74 <br/>
+<td align="center">
+<br/>78<br/>
 </td>
 </tr>
 <tr>
-<td>Ile-de-France <br/>
+<td align="center">
+<p>Bretagne<br/>
+</p>
 </td>
-<td align="center">41 <br/>
+<td align="center">
+<br/>38<br/>
 </td>
-<td align="center">41 <br/>
+<td align="center">
+<br/>38<br/>
 </td>
-<td align="center">35 <br/>
+<td align="center">
+<br/>38<br/>
 </td>
-<td align="center">5 <br/>
+<td align="center">
+<br/>6<br/>
 </td>
-<td align="center">122 <br/>
+<td align="center">
+<br/>5<br/>
 </td>
-</tr>
-<tr>
-<td>Languedoc-Roussillon <br/>
-</td>
-<td align="center">30 <br/>
-</td>
-<td align="center">30 <br/>
-</td>
-<td align="center">25 <br/>
-</td>
-<td align="center">4 <br/>
-</td>
-<td align="center">89 <br/>
+<td align="center">
+<br/>119<br/>
 </td>
 </tr>
 <tr>
-<td>Limousin <br/>
+<td align="center">
+<p>Centre<br/>
+</p>
 </td>
-<td align="center">22 <br/>
+<td align="center">
+<br/>32<br/>
 </td>
-<td align="center">22 <br/>
+<td align="center">
+<br/>32<br/>
 </td>
-<td align="center">18 <br/>
+<td align="center">
+<br/>32<br/>
 </td>
-<td align="center">3 <br/>
+<td align="center">
+<br/>5<br/>
 </td>
-<td align="center">65 <br/>
+<td align="center">
+<br/>4<br/>
 </td>
-</tr>
-<tr>
-<td>Lorraine <br/>
-</td>
-<td align="center">31 <br/>
-</td>
-<td align="center">31 <br/>
-</td>
-<td align="center">26 <br/>
-</td>
-<td align="center">4 <br/>
-</td>
-<td align="center">92 <br/>
+<td align="center">
+<br/>100<br/>
 </td>
 </tr>
 <tr>
-<td>Midi-Pyrénées <br/>
+<td align="center">
+<p>Champagne-Ardenne<br/>
+</p>
 </td>
-<td align="center">38 <br/>
+<td align="center">
+<br/>25<br/>
 </td>
-<td align="center">38 <br/>
+<td align="center">
+<br/>25<br/>
 </td>
-<td align="center">32 <br/>
+<td align="center">
+<br/>25<br/>
 </td>
-<td align="center">5 <br/>
+<td align="center">
+<br/>4<br/>
 </td>
-<td align="center">113 <br/>
+<td align="center">
+<br/>3<br/>
 </td>
-</tr>
-<tr>
-<td>Nord-Pas-de-Calais </td>
-<td align="center">38 <br/>
-</td>
-<td align="center">38 <br/>
-</td>
-<td align="center">32 <br/>
-</td>
-<td align="center">5 <br/>
-</td>
-<td align="center">113 <br/>
+<td align="center">
+<br/>78<br/>
 </td>
 </tr>
 <tr>
-<td>Pays de la Loire <br/>
+<td align="center">
+<p>Franche-Comté<br/>
+</p>
 </td>
-<td align="center">38 <br/>
+<td align="center">
+<br/>22<br/>
 </td>
-<td align="center">38 <br/>
+<td align="center">
+<br/>22<br/>
 </td>
-<td align="center">32 <br/>
+<td align="center">
+<br/>22<br/>
 </td>
-<td align="center">5 <br/>
+<td align="center">
+<br/>4<br/>
 </td>
-<td align="center">113 <br/>
+<td align="center">
+<br/>3<br/>
 </td>
-</tr>
-<tr>
-<td>Picardie <br/>
-</td>
-<td align="center">25 <br/>
-</td>
-<td align="center">25 <br/>
-</td>
-<td align="center">21 <br/>
-</td>
-<td align="center">3 <br/>
-</td>
-<td align="center">74 <br/>
+<td align="center">
+<br/>69<br/>
 </td>
 </tr>
 <tr>
-<td>Poitou Charentes </td>
-<td align="center">25 <br/>
+<td align="center">
+<p>Haute-Normandie<br/>
+</p>
 </td>
-<td align="center">25 <br/>
+<td align="center">
+<br/>25<br/>
 </td>
-<td align="center">21 <br/>
+<td align="center">
+<br/>25<br/>
 </td>
-<td align="center">3 <br/>
+<td align="center">
+<br/>25<br/>
 </td>
-<td align="center">74 <br/>
+<td align="center">
+<br/>4<br/>
 </td>
-</tr>
-<tr>
-<td>Provence-Alpes-Côte d'Azur <br/>
+<td align="center">
+<br/>3<br/>
 </td>
-<td align="center">39 <br/>
-</td>
-<td align="center">39 <br/>
-</td>
-<td align="center">33 <br/>
-</td>
-<td align="center">5 <br/>
-</td>
-<td align="center">116 <br/>
+<td align="center">
+<br/>78<br/>
 </td>
 </tr>
 <tr>
-<td>Rhônes-Alpes <br/>
+<td align="center">
+<p>Ile-de-France<br/>
+</p>
 </td>
-<td align="center">39 <br/>
+<td align="center">
+<br/>41<br/>
 </td>
-<td align="center">39 <br/>
+<td align="center">
+<br/>41<br/>
 </td>
-<td align="center">33 <br/>
+<td align="center">
+<br/>41<br/>
 </td>
-<td align="center">5 <br/>
+<td align="center">
+<br/>6<br/>
 </td>
-<td align="center">116<br/>
+<td align="center">
+<br/>5<br/>
 </td>
+<td align="center">
+<br/>128<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Languedoc-Roussillon<br/>
+</p>
+</td>
+<td align="center">
+<br/>30<br/>
+</td>
+<td align="center">
+<br/>30<br/>
+</td>
+<td align="center">
+<br/>30<br/>
+</td>
+<td align="center">
+<br/>5<br/>
+</td>
+<td align="center">
+<br/>4<br/>
+</td>
+<td align="center">
+<br/>94<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Limousin<br/>
+</p>
+</td>
+<td align="center">
+<br/>22<br/>
+</td>
+<td align="center">
+<br/>22<br/>
+</td>
+<td align="center">
+<br/>22<br/>
+</td>
+<td align="center">
+<br/>4<br/>
+</td>
+<td align="center">
+<br/>3<br/>
+</td>
+<td align="center">
+<br/>69<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Lorraine<br/>
+</p>
+</td>
+<td align="center">
+<br/>31<br/>
+</td>
+<td align="center">
+<br/>31<br/>
+</td>
+<td align="center">
+<br/>31<br/>
+</td>
+<td align="center">
+<br/>5<br/>
+</td>
+<td align="center">
+<br/>4<br/>
+</td>
+<td align="center">
+<br/>97<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Midi-Pyrénées<br/>
+</p>
+</td>
+<td align="center">
+<br/>38<br/>
+</td>
+<td align="center">
+<br/>38<br/>
+</td>
+<td align="center">
+<br/>38<br/>
+</td>
+<td align="center">
+<br/>6<br/>
+</td>
+<td align="center">
+<br/>5<br/>
+</td>
+<td align="center">
+<br/>119<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Nord - Pas-de-Calais<br/>
+</p>
+</td>
+<td align="center">
+<br/>38<br/>
+</td>
+<td align="center">
+<br/>38<br/>
+</td>
+<td align="center">
+<br/>38<br/>
+</td>
+<td align="center">
+<br/>6<br/>
+</td>
+<td align="center">
+<br/>5<br/>
+</td>
+<td align="center">
+<br/>119<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Pays de la Loire<br/>
+</p>
+</td>
+<td align="center">
+<br/>38<br/>
+</td>
+<td align="center">
+<br/>38<br/>
+</td>
+<td align="center">
+<br/>38<br/>
+</td>
+<td align="center">
+<br/>6<br/>
+</td>
+<td align="center">
+<br/>5<br/>
+</td>
+<td align="center">
+<br/>119<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Picardie<br/>
+</p>
+</td>
+<td align="center">
+<br/>25<br/>
+</td>
+<td align="center">
+<br/>25<br/>
+</td>
+<td align="center">
+<br/>25<br/>
+</td>
+<td align="center">
+<br/>4<br/>
+</td>
+<td align="center">
+<br/>3<br/>
+</td>
+<td align="center">
+<br/>78<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Poitou-Charentes<br/>
+</p>
+</td>
+<td align="center">
+<br/>25<br/>
+</td>
+<td align="center">
+<br/>25<br/>
+</td>
+<td align="center">
+<br/>25<br/>
+</td>
+<td align="center">
+<br/>4<br/>
+</td>
+<td align="center">
+<br/>3<br/>
+</td>
+<td align="center">
+<br/>78<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Provence-Alpes-Côte d'Azur<br/>
+</p>
+</td>
+<td align="center">
+<br/>39<br/>
+</td>
+<td align="center">
+<br/>39<br/>
+</td>
+<td align="center">
+<br/>39<br/>
+</td>
+<td align="center">
+<br/>6<br/>
+</td>
+<td align="center">
+<br/>5<br/>
+</td>
+<td align="center">
+<p align="center">
+<br/>122<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Rhône-Alpes<br/>
+</p>
+</td>
+<td align="center">
+<br/>39<br/>
+</td>
+<td align="center">
+<br/>39<br/>
+</td>
+<td align="center">
+<br/>39<br/>
+</td>
+<td align="center">
+<br/>6<br/>
+</td>
+<td align="center">
+<br/>5<br/>
+</td>
+<td align="center">
+<br/>122</td>
 </tr>
 </tbody>
 </table>
-</div>
