@@ -1,0 +1,9 @@
+# Paragraphe 1 Diplôme national de thanatopracteurs (R)
+
+- [Article D2223-122](article-d2223-122.md)
+- [Article D2223-123](article-d2223-123.md)
+- [Article D2223-124](article-d2223-124.md)
+- [Article D2223-125](article-d2223-125.md)
+- [Article D2223-126](article-d2223-126.md)
+- [Article D2223-130](article-d2223-130.md)
+- [Article D2223-131](article-d2223-131.md)
