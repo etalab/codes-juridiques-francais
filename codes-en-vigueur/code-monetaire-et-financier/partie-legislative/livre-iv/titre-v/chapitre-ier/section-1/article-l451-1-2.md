@@ -26,7 +26,7 @@ Cette information financière comprend :
 
 2° Une description générale de la situation financière et des résultats de l'émetteur et des entités qu'il contrôle pendant la période considérée ;
 
-3° Le montant net par branche d'activité du chiffre d'affaires du trimestre écoulé et, le cas échéant, de chacun des trimestres précédents de l'exercice en cours et de l'ensemble de cet exercice, ainsi que l'indication des chiffres d'affaires correspondants de l'exercice précédent. Ce montant est établi individuellement ou, le cas échéant, de façon consolidée.
+3° Le montant net par branche d'activité du chiffre d'affaires du trimestre écoulé et, le cas échéant, de l'ensemble de l'exercice en cours, ainsi que l'indication des chiffres d'affaires correspondants de l'exercice précédent. Ce montant est établi individuellement ou, le cas échéant, de façon consolidée.
 
 V.-Sans préjudice des règles du code de commerce applicables aux comptes annuels, aux comptes consolidés, au rapport de gestion et au rapport semestriel d'activité ainsi qu'aux rapports des commissaires aux comptes, le règlement général de l'Autorité des marchés financiers précise le contenu des documents mentionnés aux I, III et IV.
 
