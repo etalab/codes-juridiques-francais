@@ -26,5 +26,6 @@
 - [Article 481](article-481.md)
 - [Article 482](article-482.md)
 - [Article 484](article-484.md)
+- [Article 484-1](article-484-1.md)
 - [Article 485](article-485.md)
 - [Article 486](article-486.md)

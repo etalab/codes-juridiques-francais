@@ -27,5 +27,6 @@
 - [Titre XXVI : De la procédure applicable en cas de pollution des eaux maritimes par rejets des navires](titre-xxvi)
 - [Titre XXVII : De la poursuite, de l'instruction et du jugement des infractions commises par des majeurs protégés](titre-xxvii)
 - [Titre XXVIII : De la procédure et des décisions d'irresponsabilité pénale pour cause de trouble mental](titre-xxviii)
+- [Titre XXX : De l'agence de gestion et de recouvrement des avoirs saisis et confisqués.](titre-xxx)
 - [Titre XXIX : Des saisies spéciales](titre-xxix)
 - [Titre XXXI : Des mesures conservatoires](titre-xxxi)
