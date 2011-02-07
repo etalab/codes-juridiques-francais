@@ -6,6 +6,6 @@ Cet agrément est délivré, suspendu ou retiré selon les modalités prévues �
 
 Est annexé à cet agrément un cahier des charges qui fixe les obligations du bénéficiaire.
 
-Ce cahier des charges est défini à l'article R. 543-164 pour les démolisseurs et à l'article R. 543-165 pour les broyeurs.
+Ce cahier des charges est défini à l'article R. 543-164 pour les centres VHU  et à l'article R. 543-165 pour les broyeurs.
 
 Un arrêté conjoint des ministres chargés, respectivement, de l'environnement, de l'intérieur, de l'économie et de l'industrie en précise le contenu.

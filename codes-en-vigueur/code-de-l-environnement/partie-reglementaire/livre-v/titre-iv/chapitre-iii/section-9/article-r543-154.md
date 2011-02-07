@@ -6,4 +6,4 @@ L'article R. 543-156, le premier alinéa de l'article R. 543-160 et les articles
 
 Sous réserve des dispositions de l'article R. 543-157, la présente section s'applique indépendamment de la manière dont le véhicule a été entretenu ou réparé pendant son utilisation et que le véhicule soit équipé de composants fournis par le producteur ou d'autres composants ou équipements supplémentaires, quel qu'en soit le fournisseur.
 
-Pour l'application de la présente section, est regardé comme hors d'usage un véhicule que son détenteur remet à un tiers pour qu'il le détruise.
+Pour l'application de la présente section, est regardé comme hors d'usage un véhicule que son détenteur remet à un tiers pour qu'il le détruise ou qu'il a l'obligation de détruire.
