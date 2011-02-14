@@ -878,6 +878,158 @@ Registre des agents commerciaux
 </td>
 </tr>
 <tr>
+<td colspan="3">
+<div align="center">C. - Registre du commerce et des sociétés</div>
+<p align="center">Dépôt effectué par les entrepreneurs individuels à responsabilité limitée</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">230</td>
+<td>Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert (7) et mentions RCS (8) (9) (art. L. 526-7, L. 526-16 et L. 526-17-II) <br/>
+</td>
+<td align="center">32</td>
+</tr>
+<tr>
+<td align="center">231<br/>
+</td>
+<td>Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine, entraînant mentions au RCS (10)<br/>
+</td>
+<td align="center">28<br/>
+</td>
+</tr>
+<tr>
+<td align="center">232</td>
+<td>Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des actes ou décisions de modification sans mentions RCS (10)<br/>
+</td>
+<td align="center">14</td>
+</tr>
+<tr>
+<td align="center">233</td>
+<td>Dépôt des comptes annuels au RCS ou du document comptable simplifié (art. L. 526-14)<br/>
+</td>
+<td align="center">5</td>
+</tr>
+<tr>
+<td align="center">234</td>
+<td>Notification à un autre registre en cas de double immatriculation ou d'immatriculation secondaire<br/>
+</td>
+<td align="center">6</td>
+</tr>
+<tr>
+<td align="center">235</td>
+<td>Mise à jour des renseignements figurant dans les immatriculations principales aux immatriculations secondaires ou reçus d'un autre registre ou répertoire aux fins de mentions<br/>
+</td>
+<td align="center">18</td>
+</tr>
+<tr>
+<td align="center">236</td>
+<td>Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17)<br/>
+</td>
+<td align="center">7</td>
+</tr>
+<tr>
+<td align="center">237</td>
+<td>Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation<br/>
+</td>
+<td align="center">6</td>
+</tr>
+<tr>
+<td colspan="3">
+<div align="center">D. - Registre des agents commerciaux</div>
+<p align="center">Dépôt effectué par les entrepreneurs individuels à responsabilité limitée</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">240<br/>
+</td>
+<td>Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert (7) et mentions au RSAC (8) (art. L. 526-7, L. 526-16 et L. 526-17-II) </td>
+<td align="center">32<br/>
+</td>
+</tr>
+<tr>
+<td align="center">241<br/>
+</td>
+<td>Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine entraînant mentions au RSAC (11)</td>
+<td align="center">28<br/>
+</td>
+</tr>
+<tr>
+<td align="center">242<br/>
+</td>
+<td>Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des actes ou décisions de modification sans mentions au RSAC (11) </td>
+<td align="center">14<br/>
+</td>
+</tr>
+<tr>
+<td align="center">243 </td>
+<td>Dépôt des comptes annuels ou du document comptable simplifié (art. L. 526-14)<br/>
+</td>
+<td align="center">5</td>
+</tr>
+<tr>
+<td align="center">244</td>
+<td>Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17)<br/>
+</td>
+<td align="center">7</td>
+</tr>
+<tr>
+<td align="center">245</td>
+<td>Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation<br/>
+</td>
+<td align="center">6</td>
+</tr>
+<tr>
+<td colspan="3">
+<div align="center">E. - Registre des entrepreneurs individuels</div>
+<p align="center">à responsabilité limitée visés au 3° de l'article L. 526-7</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">250</td>
+<td>Immatriculation y compris après reprise ou transfert (7) (art. L. 526-7, L. 526-16 et L. 526-17-II) comprenant le dépôt de la déclaration d'affectation du patrimoine et les émoluments de radiation </td>
+<td align="center">36</td>
+</tr>
+<tr>
+<td align="center">251</td>
+<td>Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine, entraînant mentions au registre (11)<br/>
+</td>
+<td align="center">28</td>
+</tr>
+<tr>
+<td align="center">252</td>
+<td>Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des actes ou décisions de modification sans mentions au registre (11)</td>
+<td align="center">14</td>
+</tr>
+<tr>
+<td align="center">253</td>
+<td>Dépôt des comptes annuels ou du document comptable simplifié (art. L. 526-14)<br/>
+</td>
+<td align="center">5</td>
+</tr>
+<tr>
+<td align="center">254<br/>
+</td>
+<td>Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17)</td>
+<td align="center">7<br/>
+</td>
+</tr>
+<tr>
+<td align="center">255</td>
+<td>Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation<br/>
+</td>
+<td align="center">6</td>
+</tr>
+<tr>
+<td align="center">256<br/>
+</td>
+<td>Extrait du registre des entrepreneurs individuels à responsabilité limitée</td>
+<td align="center">2<br/>
+</td>
+</tr>
+<tr>
 <td colspan="3" valign="top">
 <p>(1) Le greffier réclame distinctement le montant des taxes perçues pour le compte de l'Institut national de la propriété industrielle et des frais d'insertion au BODACC.</p>
 <p>(2) Cet émolument rémunère forfaitairement l'ensemble des formalités liées à l'immatriculation principale, l'immatriculation secondaire ou l'inscription complémentaire et inclut le coût de la radiation. Il inclut également le coût de la délivrance au requérant de cinq extraits, en ce qui concerne l'immatriculation principale, l'immatriculation secondaire ou l'inscription complémentaire, et de quatre extraits, en ce qui concerne la radiation, ainsi que celui des frais postaux. Lorsque l'immatriculation est effectuée en application des articles R. 743-162 et R. 743-168 du code de commerce, les émoluments ainsi prévus sont fixés à neuf taux de base, en ce qui concerne l'immatriculation principale et l'immatriculation secondaire, y compris les frais postaux.</p>
@@ -885,6 +1037,11 @@ Registre des agents commerciaux
 <p>(4) Pour la publicité des sociétés, il n'est perçu qu'un émolument, quel que soit le nombre des actes et des pièces déposés simultanément par un même intéressé.</p>
 <p>(5) Il s'agit des extraits K bis et L bis délivrés aux tiers ou des extraits à délivrer, en plus des extraits compris dans le forfait, à la personne assujettie, sur leur demande écrite. L'ensemble de ces demandes est répertorié au greffe.</p>
 <p>(6) Lorsque l'immatriculation ou la radiation est effectuée en application des articles R. 743-162 et R. 743-168 du code de commerce, les émoluments ainsi prévus sont réduits de moitié.</p>
+<p>(7) Hors coût de l'insertion au BODACC.</p>
+<p>(8) Il n'est perçu aucun émolument pour le dépôt de la déclaration d'affectation du patrimoine lorsqu'il intervient simultanément à la demande d'immatriculation (art. L. 526-19).</p>
+<p>(9) Y compris la transmission à l'INPI.</p>
+<p>(10) Y compris la transmission des documents visés à l'article R. 123-121-3 au service des impôts et la transmission à l'INPI.</p>
+<p>(11) Y compris la transmission des documents visés à l'article R. 123-121-3 au service des impôts.</p>
 </td>
 </tr>
 </tbody>
