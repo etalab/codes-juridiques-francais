@@ -14,7 +14,7 @@ d) Unions ou fédérations départementales de la mutualité agricole créées e
 
 e) Etablissements ou institutions destinés à améliorer l'état sanitaire et social créés en application de l'article R. 726-1 ;
 
-f) Comités techniques paritaires de prévention des accidents du travail et des maladies professionnelles des salariés agricoles, institués par la section 8 du présent chapitre ;
+f) Comités techniques de prévention des accidents du travail et des maladies professionnelles des salariés agricoles, institués par la section 8 du présent chapitre ;
 
 g) Fonds social de l'assurance maladie des exploitants agricoles, institué à l'article L. 726-2 ;
 
