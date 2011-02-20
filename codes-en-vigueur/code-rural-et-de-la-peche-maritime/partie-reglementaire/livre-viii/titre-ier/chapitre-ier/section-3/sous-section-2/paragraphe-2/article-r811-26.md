@@ -1,6 +1,6 @@
 # Article R811-26
 
-Le directeur de l'établissement public local représente l'Etat au sein de l'établissement public. Son autorité s'étend à toutes les parties et à tous les services de l'établissement. Il peut être assisté par un directeur adjoint nommé dans les mêmes conditions que lui et qui assure la suppléance ou l'intérim. Si l'établissement public n'est pas doté d'un directeur adjoint, un fonctionnaire de l'établissement est désigné, sur proposition du directeur, par le directeur régional de l'alimentation, de l'agriculture et de la forêt, pour assurer, en cas de besoin, cette suppléance ou cet intérim.L'agent comptable en est informé.
+Le directeur de l'établissement public local représente l'Etat au sein de l'établissement public. Son autorité s'étend à toutes les parties et à tous les services de l'établissement. Il peut être assisté par un directeur adjoint nommé dans les mêmes conditions que lui et qui assure la suppléance ou l'intérim. Si l'établissement public n'est pas doté d'un directeur adjoint, un fonctionnaire de l'établissement est désigné, sur proposition du directeur, par le directeur régional de l'alimentation, de l'agriculture et de la forêt, pour assurer, en cas de besoin, cette suppléance ou cet intérim. L'agent comptable en est informé.
 
 Le directeur est l'organe exécutif de l'établissement public ; en cette qualité :
 
@@ -10,9 +10,9 @@ Le directeur est l'organe exécutif de l'établissement public ; en cette qualit
 
 3° Il est ordonnateur des recettes et des dépenses de l'établissement public local ;
 
-4° Il prépare les travaux du conseil d'administration et notamment le projet de budget de l'établissement public local en fonction des orientations relatives à l'équipement et au fonctionnement matériel fixées par la collectivité de rattachement et dans la limite des ressources dont dispose l'établissement ;
+4° Il prépare les travaux du conseil d'administration et notamment le projet de budget de l'établissement public local en fonction des orientations relatives à l'équipement et au fonctionnement matériel fixées par la collectivité de rattachement et dans la limite des ressources dont dispose l'établissement. Il prépare également, le cas échéant, les travaux de la commission permanente ;
 
-5° Il exécute les délibérations du conseil d'administration, et notamment le budget adopté par le conseil d'administration, dans les conditions fixées aux articles L. 421-11 à L. 421-13 du code de l'éducation ;
+5° Il exécute les délibérations du conseil d'administration, et le cas échéant, celles de la commission permanente, et notamment le budget adopté par le conseil d'administration, dans les conditions fixées aux articles L. 421-11 à L. 421-13 du code de l'éducation ;
 
 6° Il soumet au conseil d'administration le projet d'établissement conformément à l'article L. 811-8.
 
@@ -38,8 +38,7 @@ Ces délibérations deviennent exécutoires quinze jours après leur transmissio
 
 a) Au recrutement des personnels rémunérés sur le budget de l'établissement ;
 
-b) Aux contrats, conventions et marchés comportant des incidences financières, à l'exception des marchés passés selon une procédure adaptée en raison de leur montant conformément aux dispositions de l'article 28 du code des marchés publics
-;
+b) Aux contrats, conventions et marchés comportant des incidences financières, à l'exception des marchés passés selon une procédure adaptée en raison de leur montant conformément aux dispositions de l'article 28 du code des marchés publics ;
 
 c) Aux emprunts, aux baux emphytéotiques, aux baux ruraux.
 
