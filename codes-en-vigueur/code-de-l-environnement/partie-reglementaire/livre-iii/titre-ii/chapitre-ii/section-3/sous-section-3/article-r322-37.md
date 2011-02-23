@@ -10,7 +10,7 @@ Il nomme les délégués des rivages du conservatoire qui, sous son autorité, m
 
 Le directeur est la personne responsable des marchés pour les marchés de l'établissement public. Il peut déléguer ses compétences aux délégués des rivages, pour la passation des marchés de travaux et de services relatifs à l'aménagement et à la gestion des biens immobiliers, conformément à la détermination du niveau de prise en compte des besoins arrêtée par le conseil d'administration.
 
-Il représente le conservatoire en justice.
+Il représente le conservatoire en justice et engage toute action en justice.
 
 Il peut déléguer sa signature.
 
