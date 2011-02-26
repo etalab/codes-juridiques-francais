@@ -1,10 +1,10 @@
-# Article D515-11
+# Article R515-10
 
-Le bordereau par lequel s'effectue, en application de l'article L. 515-21, la cession à une société de crédit foncier des prêts mentionnés à l'article L. 515-13 doit comporter les énonciations suivantes :
+Le bordereau, mentionné à l'article L. 313-23, par lequel s'effectue la cession des créances détenues par une société de crédit foncier, doit comporter les énonciations suivantes :
 
 1° La dénomination acte de cession de créances ;
 
-2° La mention que l'acte est soumis aux dispositions des articles L. 515-13 à L. 515-33 ;
+2° La mention que l'acte est soumis aux dispositions des articles L. 313-23 à L. 313-35 et des articles L. 515-13 à L. 515-33 (1) ;
 
 3° Le nom ou la dénomination sociale de l'établissement de crédit bénéficiaire ;
 
