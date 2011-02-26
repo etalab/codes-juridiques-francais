@@ -8,11 +8,11 @@ Pour leur application à Mayotte, les dispositions du présent code sont ainsi a
 
 3° Les attributions du tribunal de grande instance et de son président ainsi que celles du tribunal d'instance et de son président sont exercées par le tribunal de première instance et son président ;
 
-4° Les références au département ou à la région sont remplacées par des références à la collectivité départementale de Mayotte ;
+4° Les références au département ou à la région sont remplacées par des références au Département de Mayotte (1)  ;
 
-5° Le délégué du Gouvernement pour l'action de l'Etat en mer exerce les attributions du préfet maritime ;
+5° Les références au préfet maritime sont remplacées par des références au représentant de l'Etat compétent en mer ;
 
-6° Le chef du service des affaires maritimes exerce les attributions du directeur départemental des territoires et de la mer ;
+6° Les références au directeur départemental des territoires et de la mer, au directeur départemental ou interdépartemental des affaires maritimes, au directeur interrégional de la mer, au directeur régional des affaires maritimes ou au chef des services des affaires maritimes sont remplacées, selon les modalités d'organisation et les attributions des services chargés des activités maritimes, par des références au directeur de la mer ou à tout autre directeur ou chef de service compétent ;
 
 7° Les références au code général des impôts et au code des douanes sont remplacées respectivement par des références aux textes applicables localement en matière fiscale et au code des douanes de Mayotte ;
 

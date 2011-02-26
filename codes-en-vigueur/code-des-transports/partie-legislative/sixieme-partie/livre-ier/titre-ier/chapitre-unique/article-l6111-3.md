@@ -8,4 +8,6 @@ Un aéronef ne peut être immatriculé en France que s'il remplit l'une des cond
 
 3° Il est exploité par un transporteur aérien dont la licence d'exploitation a été délivrée par l'autorité administrative française.
 
-Les conditions d'application du présent article et les conditions dans lesquelles l'autorité administrative peut, par dérogation, immatriculer des aéronefs exploités en France mais ne remplissant pas ces conditions sont fixées par arrêté ministériel.
+Les conditions d'application du présent article et les conditions dans lesquelles l'autorité administrative peut, par dérogation, immatriculer des aéronefs ne remplissant pas ces conditions, mais exploités en France ou en attente de certification dans le pays de leur exploitant, sont fixées par arrêté ministériel.
+
+Les aéronefs immatriculés en France à titre dérogatoire avant le 1er décembre 2010 conservent le bénéfice de cette dérogation.

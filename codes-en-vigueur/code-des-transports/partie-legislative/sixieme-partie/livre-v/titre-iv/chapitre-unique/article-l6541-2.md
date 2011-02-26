@@ -1,4 +1,4 @@
-# Article L6531-2
+# Article L6541-2
 
 Est puni d'un mois d'emprisonnement et de 3 750 € d'amende le fait d'exercer un des emplois correspondant aux brevets, licences et qualifications du personnel navigant professionnel de l'aéronautique civile en infraction aux dispositions du titre II du présent livre.
 

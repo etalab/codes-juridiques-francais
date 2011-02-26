@@ -2,7 +2,7 @@
 
 Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait de délivrer une formation à la conduite des navires et des bateaux de plaisance à moteur en mer et en eaux intérieures sans avoir obtenu l'agrément prévu par l'article L. 5272-1 ou en violation d'une mesure de suspension provisoire de celui-ci.
 
-Est puni des mêmes peines le fait d'employer un formateur non titulaire d'une autorisation d'enseigner en cours de validité.
+Est puni des mêmes peines le fait d'employer un formateur non titulaire d'une autorisation d'enseigner en cours de validité ou n'ayant pas rempli l'obligation de déclaration préalable à une première prestation sur le territoire national.
 
 Les personnes physiques coupables de l'une des infractions définies aux alinéas précédents encourent également les peines complémentaires suivantes :
 

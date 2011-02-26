@@ -1,6 +1,6 @@
 # Article L6523-6
 
-Le contrat de travail qui prévoit, à la demande de l'employeur, le détachement du navigant sur un poste à l'étranger, comporte les mentions suivantes :
+Le contrat de travail qui prévoit, à la demande de l'employeur, l'affectation du navigant sur un poste à l'étranger, comporte les mentions suivantes :
 
 1° La durée du séjour hors de France, qui ne peut excéder, sauf accord entre les deux parties, une durée fixée par voie réglementaire ;
 

@@ -1,4 +1,4 @@
-# Article L5722-1
+# Article L5724-2
 
 Les articles L. 5431-2 et L. 5431-3 sont applicables aux transports maritimes réguliers publics de personnes pour la desserte de ports ou appontements du littoral.
 

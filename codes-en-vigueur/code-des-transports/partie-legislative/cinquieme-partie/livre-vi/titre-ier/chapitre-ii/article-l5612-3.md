@@ -1,14 +1,6 @@
 # Article L5612-3
 
-A bord des navires immatriculés au registre international français, les membres de l'équipage sont, dans une proportion d'au moins 35 % calculée sur la fiche d'effectif, des ressortissants d'un Etat membre de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse.
-
-La fiche d'effectif désigne le document par lequel l'autorité maritime française atteste que l'effectif du navire satisfait aux exigences des conventions internationales suivantes et des mesures prises pour leur application :
-
-1° La convention internationale pour la sauvegarde de la vie humaine en mer, faite à Londres le 1er novembre 1974 modifiée ;
-
-2° La convention internationale sur les normes de formation des gens de mer, de délivrance des brevets et de veille, faite à Londres le 7 juillet 1978 modifiée ;
-
-3° La convention n° 180 sur la durée du travail des gens de mer et les effectifs des navires adoptée le 22 octobre 1996 par l'Organisation internationale du travail.
+A bord des navires immatriculés au registre international français, les membres de l'équipage sont, dans une proportion d'au moins 35 % calculée sur la fiche d'effectif mentionnée à l'article L. 5522-2, des ressortissants d'un Etat membre de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse.
 
 Le pourcentage visé au premier alinéa est fixé à 25 % pour les navires ne bénéficiant pas ou plus du dispositif d'aide fiscale attribué au titre de leur acquisition.
 

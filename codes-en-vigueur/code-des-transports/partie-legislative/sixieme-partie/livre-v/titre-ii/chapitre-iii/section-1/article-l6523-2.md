@@ -10,7 +10,7 @@ Le contrat de travail précise :
 
 4° Le cas échéant, les conditions d'accomplissement de la mission pour laquelle il a été conclu ;
 
-5° Le cas échéant, les conditions de détachement du navigant sur un poste à l'étranger ;
+5° Le cas échéant, les conditions d'affectation du navigant sur un poste à l'étranger ;
 
 6° Le délai de préavis à observer en cas de résiliation du contrat par l'une ou l'autre des parties ;
 
