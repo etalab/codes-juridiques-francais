@@ -1,6 +1,6 @@
 # Article R542-25
 
-I. - Le comité local d'information et de suivi prévu par l'article L. 542-13 comprend :
+I.-Le comité local d'information et de suivi prévu par l'article L. 542-13 comprend :
 
 1° Le préfet et le directeur régional de l'industrie, de la recherche et de l'environnement ou leurs représentants ;
 
@@ -20,10 +20,12 @@ I. - Le comité local d'information et de suivi prévu par l'article L. 542-13 c
 
 9° Deux à quatre personnalités qualifiées ;
 
-10° Le titulaire de l'autorisation prévue à l'article L. 542-10-1 ou son représentant.
+10° Le titulaire de l'autorisation prévue à l'article L. 542-10-1 ou son représentant ;
 
-II. - Le titulaire de l'autorisation d'installation et d'exploitation du laboratoire et le président de l'Autorité de sûreté nucléaire ou leurs représentants peuvent assister aux séances du comité avec voix consultative.
+11° Le directeur général de l'agence régionale de santé ou son représentant.
 
-III. - La liste des collectivités territoriales représentées au comité local d'information et de suivi en application du 3° du I est fixée par arrêté du ministre chargé de l'énergie.
+II.-Le titulaire de l'autorisation d'installation et d'exploitation du laboratoire et le président de l'Autorité de sûreté nucléaire ou leurs représentants peuvent assister aux séances du comité avec voix consultative.
 
-IV. - Les membres du comité qui perdent la qualité au titre de laquelle ils ont été désignés cessent de faire partie du comité. Il est procédé à leur remplacement selon les modalités prévues à l'article L. 542-13 et à la présente section.
+III.-La liste des collectivités territoriales représentées au comité local d'information et de suivi en application du 3° du I est fixée par arrêté du ministre chargé de l'énergie.
+
+IV.-Les membres du comité qui perdent la qualité au titre de laquelle ils ont été désignés cessent de faire partie du comité. Il est procédé à leur remplacement selon les modalités prévues à l'article L. 542-13 et à la présente section.
