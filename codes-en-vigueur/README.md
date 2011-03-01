@@ -52,6 +52,7 @@
 - [Code général de la propriété des personnes publiques.](code-general-de-la-propriete-des-personnes-publiques)
 - [Code général des collectivités territoriales](code-general-des-collectivites-territoriales)
 - [Code minier](code-minier)
+- [Code minier (nouveau)](code-minier-nouveau)
 - [Code pénal](code-penal)
 - [Code rural ancien](code-rural-ancien)
 - [Code de l'action sociale et des familles](code-de-l-action-sociale-et-des-familles)
