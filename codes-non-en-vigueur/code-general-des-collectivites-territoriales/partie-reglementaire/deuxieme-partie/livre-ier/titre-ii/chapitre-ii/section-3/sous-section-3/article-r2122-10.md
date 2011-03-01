@@ -6,4 +6,6 @@ L'arrêté portant délégation est transmis tant au préfet ou au sous-préfet 
 
 Le ou les fonctionnaires titulaires de la commune délégués pour la réception des déclarations, la rédaction, la transcription et la mention en marge des actes de l'état civil prévus par le présent article peuvent valablement délivrer toutes copies, et extraits, quelle que soit la nature des actes.
 
+Ils peuvent également mettre en œuvre la procédure de vérification prévue par les dispositions du titre III du décret n° 62-921 du 3 août 1962.
+
 L'exercice des fonctions déléguées s'opère sous le contrôle et la responsabilité du maire.
