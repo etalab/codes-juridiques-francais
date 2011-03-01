@@ -24,7 +24,7 @@ c) La restitution, en cas de fuites, de quotas d'émissions de gaz à effet de s
 
 Il emporte la fin de la validité de la concession de stockage géologique de dioxyde de carbone.
 
-Après intervention de la décision de transfert, l'Etat peut recourir aux dispositions des articles 71 et 72 du code minier pour assurer l'exécution des obligations découlant du a et du b.
+Après intervention de la décision de transfert, l'Etat peut recourir aux dispositions des articles L. 153-3 à L. 153-13 du code minier et aux décrets pris pour leur application pour assurer l'exécution des obligations découlant du a et du b.
 
 III. ― Une période minimale de surveillance de trente ans doit en principe s'écouler entre l'arrêt définitif mentionné à l'article L. 229-46 et la décision d'approbation du transfert de responsabilité visée ci-dessus. Si la condition fixée au c du I est remplie et si une période minimale de dix ans s'est écoulée depuis l'arrêt définitif du site, cette période peut être réduite par les ministres chargés des mines et des installations classées.
 

@@ -5,3 +5,4 @@
 - [Code des transports](code-des-transports)
 - [Code forestier](code-forestier)
 - [Code général des collectivités territoriales](code-general-des-collectivites-territoriales)
+- [Code minier (nouveau)](code-minier-nouveau)

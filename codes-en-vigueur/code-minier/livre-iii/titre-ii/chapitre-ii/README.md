@@ -1,6 +1,5 @@
 # Chapitre II : Délégués permanents de la surface
 
-- [Article 251](article-251.md)
 - [Article 251-1](article-251-1.md)
 - [Article 251-2](article-251-2.md)
 - [Article 251-3](article-251-3.md)

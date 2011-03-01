@@ -9,8 +9,5 @@
 - [Titre VI : Des carrières.](titre-vi)
 - [Titre VI bis : Du retrait des titres de recherches et d'exploitation et de la renonciation à ces droits.](titre-vi-bis)
 - [Titre VI ter : Des mutations et amodiations des titres de recherches et d'exploitation.](titre-vi-ter)
-- [Titre VII : Du passage dans la classe des mines de substances antérieurement soumises au régime légal des minières ou à celui des carrières.](titre-vii)
-- [Titre VII bis : De l'exploitation des haldes et terrils et des déchets des exploitations de carrières.](titre-vii-bis)
 - [Titre VIII : Des déclarations de fouilles et de levés géophysiques.](titre-viii)
-- [Titre IX : Des expertises.](titre-ix)
 - [Titre X : De la constatation des infractions et des pénalités.](titre-x)

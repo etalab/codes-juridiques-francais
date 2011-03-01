@@ -1,16 +1,4 @@
 # Chapitre II : De l'exercice de la surveillance administrative et des mesures à prendre en cas d'accidents.
 
-- [Article 77](article-77.md)
 - [Article 78](article-78.md)
-- [Article 79](article-79.md)
-- [Article 79-1](article-79-1.md)
-- [Article 80](article-80.md)
-- [Article 81](article-81.md)
-- [Article 83](article-83.md)
-- [Article 83-1](article-83-1.md)
-- [Article 84-1](article-84-1.md)
-- [Article 85](article-85.md)
 - [Article 86](article-86.md)
-- [Article 86 bis](article-86-bis.md)
-- [Article 87](article-87.md)
-- [Article 90](article-90.md)
