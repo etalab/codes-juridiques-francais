@@ -434,6 +434,19 @@ Liste des maisons de justice et du droit
 </td>
 </tr>
 <tr>
+<td colspan="2">
+<p align="center">Hautes-Alpes </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Gap</p>
+</td>
+<td align="left">
+<p align="left">Briançon</p>
+</td>
+</tr>
+<tr>
 <td align="center" colspan="2">
 <br/>Isère<br/>
 </td>
@@ -949,9 +962,7 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td colspan="2">
-<p align="left">
-<br/>(3) Applicable jusqu'au 31 décembre 2010. </p>
-<p align="left">(4) Applicable à compter du 1er janvier 2011.<br/>
+<br/>(3) Applicable jusqu'au 31 décembre 2010. <p>(4) Applicable à compter du 1er janvier 2011.<br/>
 </p>
 </td>
 </tr>
