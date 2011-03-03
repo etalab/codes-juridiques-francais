@@ -9,3 +9,6 @@
 - [Article 299 octies](article-299-octies.md)
 - [Article 299 octies A](article-299-octies-a.md)
 - [Article 299 nonies](article-299-nonies.md)
+- [Article 299 decies](article-299-decies.md)
+- [Article 299 undecies](article-299-undecies.md)
+- [Article 299 duodecies](article-299-duodecies.md)
