@@ -5,3 +5,4 @@
 - [Chapitre III : Autres mesures de prévention](chapitre-iii)
 - [Chapitre IV : Prévision des crues](chapitre-iv)
 - [Chapitre V : Schémas de prévention des risques naturels majeurs et organismes consultatifs](chapitre-v)
+- [Chapitre VI  : Evaluation et gestion des risques d'inondation](chapitre-vi)

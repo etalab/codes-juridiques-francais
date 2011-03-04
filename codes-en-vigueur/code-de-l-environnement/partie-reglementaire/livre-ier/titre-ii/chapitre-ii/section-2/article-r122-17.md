@@ -4,7 +4,7 @@ Sous réserve, le cas échéant, des règles particulières applicables à chaqu
 
 1° Schémas de mise en valeur de la mer prévus par l'article 57 de la loi n° 83-8 du 7 janvier 1983 ;
 
-2° Plans de déplacements urbains prévus par les articles 28, 28-2-1 et 28-3 de la loi n° 82-1153 du 30 décembre 1982 modifiée d'orientation des transports intérieurs ;
+2° Plans de déplacements urbains prévus par les articles 28,28-2-1 et 28-3 de la loi n° 82-1153 du 30 décembre 1982 modifiée d'orientation des transports intérieurs ;
 
 3° Plans départementaux des itinéraires de randonnée motorisée prévus par l'article L. 361-2 du présent code ;
 
@@ -32,4 +32,6 @@ Sous réserve, le cas échéant, des règles particulières applicables à chaqu
 
 15° Plans, schémas, programmes et autres documents de planification soumis à évaluation des incidences Natura 2000 au titre de l'article L. 414-4 à l'exception des documents régis par le code de l'urbanisme ;
 
-16° Schéma d'ensemble du réseau de transport public du Grand Paris prévu par les articles 2 et 3 de la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris.
+16° Schéma d'ensemble du réseau de transport public du Grand Paris prévu par les articles 2 et 3 de la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris ;
+
+17° Plans de gestion des risques d'inondation prévus par l'article L. 566-7.
