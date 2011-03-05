@@ -40,4 +40,8 @@ Est puni de l'amende prévue pour les contraventions de la 5e classe le fait :
 
 19° De manipuler ou faire manipuler une denrée animale ou d'origine animale par une personne susceptible de la contaminer ;
 
-20° De ne pas tenir, ni mettre à jour le registre d'élevage dans les conditions prévues aux articles L. 214-9 et L. 234-1.
+20° De ne pas tenir, ni mettre à jour le registre d'élevage dans les conditions prévues aux articles L. 214-9 et L. 234-1 ;
+
+21° D'exploiter un centre de rassemblement non agréé au titre de l'article L. 233-3 ou dont l'agrément a été suspendu ou retiré ;
+
+22° Pour tout opérateur commercial, de ne pas se conformer à l'obligation de déclaration prévue à l'article R. 233-7.
