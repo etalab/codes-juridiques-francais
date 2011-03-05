@@ -7,3 +7,4 @@
 - [Chapitre V : Du règlement des créances résultant du contrat de travail.](chapitre-v)
 - [Chapitre VI : Du plan de sauvegarde.](chapitre-vi)
 - [Chapitre VII : Dispositions particulières en l'absence d'administrateur judiciaire.](chapitre-vii)
+- [Chapitre VIII : De la sauvegarde financière accélérée](chapitre-viii)

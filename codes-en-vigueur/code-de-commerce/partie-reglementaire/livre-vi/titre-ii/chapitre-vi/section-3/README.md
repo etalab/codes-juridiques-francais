@@ -12,5 +12,6 @@
 - [Article R626-59](article-r626-59.md)
 - [Article R626-60](article-r626-60.md)
 - [Article R626-61](article-r626-61.md)
+- [Article R626-61-1](article-r626-61-1.md)
 - [Article R626-62](article-r626-62.md)
 - [Article R626-63](article-r626-63.md)

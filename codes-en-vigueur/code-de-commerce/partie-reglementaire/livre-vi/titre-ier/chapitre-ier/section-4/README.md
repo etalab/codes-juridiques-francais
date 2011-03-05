@@ -18,6 +18,7 @@
 - [Article R611-36](article-r611-36.md)
 - [Article R611-37](article-r611-37.md)
 - [Article R611-38](article-r611-38.md)
+- [Article R611-38-1](article-r611-38-1.md)
 - [Article R611-39](article-r611-39.md)
 - [Article R611-40](article-r611-40.md)
 - [Article R611-41](article-r611-41.md)

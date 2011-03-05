@@ -12,7 +12,7 @@ A cette demande sont jointes, outre les comptes annuels du dernier exercice, les
 
 4° Le nombre des salariés employés à la date de la demande et le montant du chiffre d'affaires, défini conformément aux dispositions du cinquième alinéa de l'article R. 123-200, apprécié à la date de clôture du dernier exercice comptable ;
 
-5° L'état chiffré des créances et des dettes avec l'indication des noms et du domicile des créanciers ainsi que, par créancier ou débiteur, le montant total des sommes à payer et à recouvrer au cours d'une période de trente jours à compter de la demande ;
+5° L'état chiffré des créances et des dettes avec l'indication selon le cas, du nom ou de la dénomination et du domicile ou siège des créanciers ainsi que, par créancier ou débiteur, le montant total des sommes à payer et à recouvrer au cours d'une période de trente jours à compter de la demande ;
 
 6° L'état actif et passif des sûretés ainsi que celui des engagements hors bilan ;
 
@@ -24,7 +24,7 @@ A cette demande sont jointes, outre les comptes annuels du dernier exercice, les
 
 10° Lorsque le débiteur exerce une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé, la désignation de l'ordre professionnel ou de l'autorité dont il relève ;
 
-11° Lorsque le débiteur exploite une ou des installations classées au sens du titre Ier du livre V du code de l'environnement, la copie     de la décision d'autorisation ou d'enregistrement ou la déclaration ;
+11° Lorsque le débiteur exploite une ou des installations classées au sens du titre Ier du livre V du code de l'environnement, la copie de la décision d'autorisation ou d'enregistrement ou la déclaration ;
 
 12° Lorsque le débiteur propose un administrateur à la désignation du tribunal, l'indication de l'identité et de l'adresse de la personne concernée.
 
