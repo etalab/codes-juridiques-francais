@@ -6,7 +6,7 @@ Constituent les mesures d'exécution prévues à l'article L. 214-1 :
 
 2° Les dispositions des articles 1er à 5 du règlement (CE) n° 1895 / 2005 de la Commission du 18 novembre 2005 concernant la limitation de l'utilisation de certains dérivés époxydiques dans les matériaux et objets destinés à entrer en contact avec des denrées alimentaires ;
 
-3° Les dispositions des articles 1er à 7 du règlement (CE) n° 2023 / 2006 de la Commission du 22 décembre 2006 relatif aux bonnes pratiques de fabrication des matériaux et objets destinés à entrer en contact avec des denrées alimentaires et de son annexe, modifié par le règlement (CE) n° 282 / 2008 de la Commission du 27 mars 2008 ;
+3° Les dispositions des articles 1er à 7 du règlement (CE) n° 2023 / 2006 de la Commission du 22 décembre 2006 modifié relatif aux bonnes pratiques de fabrication des matériaux et objets destinés à entrer en contact avec des denrées alimentaires et de son annexe ;
 
 4° Les dispositions des articles 2 et 3 du règlement (CE) n° 282 / 2008 de la Commission du 27 mars 2008 relatif aux matériaux et aux objets en matière plastique recyclée destinés à entrer en contact avec des denrées alimentaires et modifiant le règlement (CE) n° 2023 / 2006 ;
 
