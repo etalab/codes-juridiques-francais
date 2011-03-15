@@ -23,3 +23,5 @@
 - [15° bis : Sociétés civiles](15-bis)
 - [5° bis : Autorité de régulation des jeux en ligne](5-bis)
 - [6° bis : Personnes versant des revenus de capitaux  mobiliers](6-bis)
+- [5° ter : Etablissements de jeux](5-ter)
+- [6° ter : Artisans](6-ter)
