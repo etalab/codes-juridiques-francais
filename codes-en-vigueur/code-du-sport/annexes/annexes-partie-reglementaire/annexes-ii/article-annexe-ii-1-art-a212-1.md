@@ -102,9 +102,9 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 <br/>Animation auprès de tout public par la découverte des activités physiques, sportives ou culturelles et par l'initiation à ces activités. <br/>
 </td>
 <td align="center">
-<br/>Animation auprès de tout public, à l'exclusion :<br/>
-<br/>-des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique ;<br/>
-<br/>-des pratiques compétitives. <br/>
+<br/>Animation auprès de tout public, à l'exclusion : <p>-des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique ;</p>
+<p>-des pratiques compétitives. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -137,9 +137,9 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 <br/>Encadrement et animation auprès de tout public, des activités physiques et sportives. <br/>
 </td>
 <td align="center">
-<br/>Encadrement et animation auprès de tout public, à l'exclusion :<br/>
-<br/>-des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique ;<br/>
-<br/>-des pratiques compétitives. <br/>
+<br/>Encadrement et animation auprès de tout public, à l'exclusion : <p>-des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique ;</p>
+<p>-des pratiques compétitives. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -149,10 +149,7 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 <td align="center">
 <br/>Encadrement auprès de tout public d'activités physiques dans le secteur des métiers de la forme. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -161,10 +158,7 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 <td align="center">
 <br/>Encadrement auprès de tout public à des fins d'initiation, d'entretien ou de loisir dans la ou les discipline (s) mentionnée (s) dans l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -173,10 +167,7 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 <td align="center">
 <br/>Encadrement et enseignement des activités physiques ou sportives auprès des enfants, adolescents et jeunes adultes. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -185,10 +176,7 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 <td align="center">
 <br/>Encadrement de différents publics à des fins d'amélioration de la performance ou de développement personnel dans la (les) discipline (s) mentionnée (s) dans l'annexe descriptive au diplôme mentionnée à l'article D. 123-13 du code de l'éducation. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -197,10 +185,7 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 <td align="center">
 <br/>Encadrement des activités physiques ou sportives à destination de différents publics dans une perspective de prévention-santé ou de réadaptation ou d'intégration de personnes présentant l'altération d'une fonction physique ou psychique.<br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 </tbody>
 </table>
@@ -236,10 +221,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement des méthodes et techniques visant à entretenir et améliorer la condition physique ; conduite de séances de préparation physique sportive. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -248,10 +230,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement des activités gymniques dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -260,10 +239,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement des activités gymniques dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -272,10 +248,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement des activités gymniques dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -284,10 +257,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement des activités gymniques dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -296,10 +266,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement des activités gymniques dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -308,10 +275,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement de l'haltérophilie, du culturisme, de la musculation éducative, sportive et d'entretien dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -343,8 +307,8 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <br/>Enseignement des activités physiques ou sportives adaptées auprès des personnes handicapées physiques et sensorielles. <br/>
 </td>
 <td align="center">
-<br/>Enseignement de la natation dans les seuls établissements spécialisés, sous la surveillance d'un maître nageur sauveteur ; <br/>
-<br/>Enseignement du ski alpin et du ski nordique réservé aux personnes ayant choisi ces disciplines en option. <br/>
+<br/>Enseignement de la natation dans les seuls établissements spécialisés, sous la surveillance d'un maître nageur sauveteur ; <p>Enseignement du ski alpin et du ski nordique réservé aux personnes ayant choisi ces disciplines en option. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -365,10 +329,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement de l'aviron dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -378,8 +339,8 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <br/>Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout établissement. <br/>
 </td>
 <td align="center">
-<br/>Dans les rivières jusqu'à la classe 3. <br/>
-<br/>En mer jusqu'à un mille d'un abri et par vent jusqu'à 3 Beaufort. <br/>
+<br/>Dans les rivières jusqu'à la classe 3. <p>En mer jusqu'à un mille d'un abri et par vent jusqu'à 3 Beaufort. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -390,8 +351,8 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <br/>Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout établissement. Organisation et encadrement de séances ou stages d'entraînement. <br/>
 </td>
 <td align="center">
-<br/>Dans les rivières jusqu'à la classe 3. <br/>
-<br/>En mer jusqu'à un mille d'un abri et par vent jusqu'à 3 Beaufort. <br/>
+<br/>Dans les rivières jusqu'à la classe 3. <p>En mer jusqu'à un mille d'un abri et par vent jusqu'à 3 Beaufort. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -401,10 +362,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout établissement. Organisation et encadrement des sorties en mer, y compris vent supérieur à force 3 Beaufort ou à plus d'un mille d'un abri accessible et conduite des séances d'apprentissage et d'entraînement de canoë-kayak de vagues. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -413,10 +371,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout établissement. Organisation et encadrement du canoë-kayak et du raft y compris dans les rivières de classe supérieure à 3. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -425,10 +380,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout établissement. Organisation et encadrement du canoë-kayak et de la nage en eaux vives y compris dans les rivières de classe supérieure à 3. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -437,10 +389,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Organisation et enseignement du canoë-kayak sur rivières de toutes classes. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -449,10 +398,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du char à voile dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -461,10 +407,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement de la plongée subaquatique dans les conditions techniques et de sécurité prévues par la réglementation. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -473,10 +416,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement et organisation des activités de ski nautique sous toutes leurs formes, dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -485,10 +425,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement des activités du surf dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -497,10 +434,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement de la voile (catamarans, dériveurs, planches à voile, habitables) dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -509,10 +443,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement de l'aïkido dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -521,10 +452,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement de l'aïkibudo dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -533,10 +461,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement de la boxe anglaise dans tout établissement, avec le titre de prévôt. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -545,10 +470,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement de la boxe française dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -557,10 +479,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement de l'escrime (épée, fleuret, sabre) dans tout établissement, avec le titre de maître d'armes. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -569,10 +488,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du judo et des disciplines associées dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -581,10 +497,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du karaté et des arts martiaux affinitaires dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -593,10 +506,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement de la lutte dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -605,10 +515,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du sambo dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -617,10 +524,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du taekwondo et des disciplines associées dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -629,10 +533,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement de l'athlétisme (vitesse, haies, demi-fond, fond, marche, sauts, lancers) dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -641,10 +542,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du badminton dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -653,10 +551,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du billard (billard français, américain, pool anglais) dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -665,10 +560,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du bobsleigh dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -677,10 +569,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du hockey sur glace dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -689,10 +578,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du patinage sur glace dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -701,10 +587,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du patinage sur glace et notamment du patinage artistique dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -713,10 +596,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du patinage sur glace et notamment du patinage de vitesse dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -725,10 +605,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du patinage sur glace et notamment du patinage danse dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -737,10 +614,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du roller-skating (patinage artistique, rink-hockey, course, danse, randonnée, roller acrobatique, roller in line hockey, skateboard) dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -749,10 +623,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du pentathlon moderne dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -761,10 +632,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du motocyclisme dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -773,10 +641,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du motocyclisme dans tout établissement. Encadrement de stages d'initiation à la conduite de cyclomoteurs dont le déroulement s'effectue en partie sur la voie publique et qui conduisent à la délivrance du brevet de sécurité routière valant autorisation de conduite des cyclomoteurs. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -785,10 +650,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du trampoline et des sports acrobatiques dans tout établissement : trampoline, double mini-tramp, tumbling, acrosport. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -797,10 +659,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du golf et des disciplines associées dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -809,10 +668,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du tennis dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -821,10 +677,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du tennis de table dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -833,10 +686,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du squash dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -845,24 +695,18 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du tir à l'arc dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
 <br/>BEES, option " tir sportif ". <br/>
 </td>
 <td align="center">
-<br/>Enseignement du tir sportif dans tout établissement :<br/>
-<br/>-plateau : double trap, fosse olympique, skeet olympique, fosse américaine ;<br/>
-<br/>-cible : arbalète, carabine, pistolet, sanglier courant. <br/>
+<br/>Enseignement du tir sportif dans tout établissement : <p>-plateau : double trap, fosse olympique, skeet olympique, fosse américaine ;</p>
+<p>-cible : arbalète, carabine, pistolet, sanglier courant. <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -871,10 +715,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du sport-boules dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -883,10 +724,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement de la pelote basque dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -895,10 +733,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement des activités du cyclisme dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -907,10 +742,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du cyclisme traditionnel dans tout établissement : route, piste, cyclo-cross. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -919,10 +751,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du bicross dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -931,10 +760,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du cyclisme en salle dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -943,10 +769,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du vélo tout terrain dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -955,10 +778,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement de la spécialité et de l'activité VTT en milieu montagnard dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -967,10 +787,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement et conduite de la course d'orientation dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -979,10 +796,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement des activités équestres dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -991,10 +805,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement de la TRAD dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1003,10 +814,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement de la PAC dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1015,10 +823,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du parachute biplace (tandem) dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1027,10 +832,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du parapente dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1039,10 +841,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du delta dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1051,10 +850,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement de la spéléologie dans toute cavité et tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1063,10 +859,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement de la spéléologie dans toutes cavités, canyons, lieux d'entraînement pour tout public et dans le respect du milieu naturel. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1075,10 +868,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement de la discipline sur des structures artificielles d'escalade à toute altitude et sur des sites naturels d'escalade situés à une altitude inférieure à 1 500 mètres. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1088,10 +878,10 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <br/>Enseignement de la discipline sur des structures artificielles d'escalade et dans les canyons à caractéristiques verticales et aquatiques nécessitant l'usage d'agrès à toute altitude et sur des sites naturels d'escalade situés à une altitude inférieure à 1 500 mètres.<br/>
 </td>
 <td align="center">
-<br/>A l'exclusion :<br/>
-<br/>-des sites enneigés ou de ceux dont l'accès ne peut s'effectuer qu'en traversant des zones enneigées ;<br/>
-<br/>-des sites dont la fréquentation fait appel aux techniques de la neige et de la glace. <br/>
-<br/>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. <br/>
+<br/>A l'exclusion : <p>-des sites enneigés ou de ceux dont l'accès ne peut s'effectuer qu'en traversant des zones enneigées ;</p>
+<p>-des sites dont la fréquentation fait appel aux techniques de la neige et de la glace. </p>
+<p>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1099,21 +889,21 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <br/>Diplôme d'aspirant guide du brevet d'Etat d'alpinisme. <br/>
 </td>
 <td align="center">
-<br/>Encadrement et conduite de personnes dans des excursions ou des ascensions :<br/>
-<br/>-alpinisme (randonnée, rocher, neige, glace et mixte) : randonnées à toutes altitudes ; courses faciles et peu difficiles ; courses AD, D, TD ; courses hivernales<br/>
-<br/>-ski alpinisme ;<br/>
-<br/>-escalade sportive. <br/>
-<br/>Enseignement des techniques d'alpinisme, de ski de randonnée, de ski alpinisme et ski hors pistes et entraînement aux pratiques de compétition dans ces disciplines. <br/>
+<br/>Encadrement et conduite de personnes dans des excursions ou des ascensions : <p>-alpinisme (randonnée, rocher, neige, glace et mixte) : randonnées à toutes altitudes ; courses faciles et peu difficiles ; courses AD, D, TD ; courses hivernales</p>
+<p>-ski alpinisme ;</p>
+<p>-escalade sportive. </p>
+<p>Enseignement des techniques d'alpinisme, de ski de randonnée, de ski alpinisme et ski hors pistes et entraînement aux pratiques de compétition dans ces disciplines. <br/>
+</p>
 </td>
 <td align="center">
-<br/>Alpinisme :<br/>
-<br/>-courses faciles et peu difficiles jusqu'à 5 000 mètres ;<br/>
-<br/>-courses AD, D, TD jusqu'à 3 500 mètres ;<br/>
-<br/>-courses hivernales jusqu'à 2 000 mètres sans limitation de difficulté. <br/>
-<br/>Ski alpinisme jusqu'à 4 000 mètres et pour des randonnées à ski de deux jours maximum (une seule nuit en refuge). <br/>
-<br/>Escalade sportive jusqu'à 2 000 mètres sans limitation de difficulté. <br/>
-<br/>Enseignement des techniques d'alpinisme, de ski de randonnée, de ski alpinisme et ski hors pistes et entraînement aux pratiques de compétition dans les mêmes limites. <br/>
-<br/>Ces limites sont sans objet, lorsque les activités sont placées sous la conduite d'un guide. <br/>
+<br/>Alpinisme : <p>-courses faciles et peu difficiles jusqu'à 5 000 mètres ;</p>
+<p>-courses AD, D, TD jusqu'à 3 500 mètres ;</p>
+<p>-courses hivernales jusqu'à 2 000 mètres sans limitation de difficulté. </p>
+<p>Ski alpinisme jusqu'à 4 000 mètres et pour des randonnées à ski de deux jours maximum (une seule nuit en refuge). </p>
+<p>Escalade sportive jusqu'à 2 000 mètres sans limitation de difficulté. </p>
+<p>Enseignement des techniques d'alpinisme, de ski de randonnée, de ski alpinisme et ski hors pistes et entraînement aux pratiques de compétition dans les mêmes limites. </p>
+<p>Ces limites sont sans objet, lorsque les activités sont placées sous la conduite d'un guide. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1157,10 +947,10 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <br/>Conduite et encadrement de personnes en espace rural montagnard. Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu.<br/>
 </td>
 <td align="center">
-<br/>A l'exclusion :<br/>
-<br/>-des rochers, des glaciers, des canyons et des terrains nécessitant, pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;<br/>
-<br/>-de toute pratique de la moyenne montagne enneigée. <br/>
-<br/>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. <br/>
+<br/>A l'exclusion : <p>-des rochers, des glaciers, des canyons et des terrains nécessitant, pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;</p>
+<p>-de toute pratique de la moyenne montagne enneigée. </p>
+<p>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1168,14 +958,14 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <br/>Diplôme d'AMM du brevet d'Etat d'alpinisme délivré en application de l'arrêté du 10 mai 1993 relatif au brevet d'Etat d'alpinisme. <br/>
 </td>
 <td align="center">
-<br/>Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de type nordique, excluant tout accident de terrain et situés en moyenne montagne. <br/>
-<br/>Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu.<br/>
+<br/>Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de type nordique, excluant tout accident de terrain et situés en moyenne montagne. <p>Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu.<br/>
+</p>
 </td>
 <td align="center">
-<br/>A l'exclusion :<br/>
-<br/>-des rochers, des glaciers, des canyons et des terrains nécessitant pour la progression, l'utilisation du matériel ou des techniques de l'alpinisme ;<br/>
-<br/>-de la pratique du ski et activités assimilées. <br/>
-<br/>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. <br/>
+<br/>A l'exclusion : <p>-des rochers, des glaciers, des canyons et des terrains nécessitant pour la progression, l'utilisation du matériel ou des techniques de l'alpinisme ;</p>
+<p>-de la pratique du ski et activités assimilées. </p>
+<p>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1183,14 +973,14 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <br/>Diplôme d'AMM du brevet d'Etat d'alpinisme assorti de la qualification " pratique de la moyenne montagne enneigée ". <br/>
 </td>
 <td align="center">
-<br/>Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de type nordique, excluant tout accident de terrain et situés en moyenne montagne. <br/>
-<br/>Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu.<br/>
+<br/>Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de type nordique, excluant tout accident de terrain et situés en moyenne montagne. <p>Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu.<br/>
+</p>
 </td>
 <td align="center">
-<br/>A l'exclusion :<br/>
-<br/>-des rochers, des glaciers, des canyons et des terrains nécessitant, pour la progression, l'utilisation du matériel ou des techniques de l'alpinisme ;<br/>
-<br/>-de la pratique du ski et activités assimilées. <br/>
-<br/>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. <br/>
+<br/>A l'exclusion : <p>-des rochers, des glaciers, des canyons et des terrains nécessitant, pour la progression, l'utilisation du matériel ou des techniques de l'alpinisme ;</p>
+<p>-de la pratique du ski et activités assimilées. </p>
+<p>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1198,14 +988,14 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <br/>Diplôme d'AMM du brevet d'Etat d'alpinisme assorti du brevet national de pisteur-secouriste 2e degré ou option ski alpin 2e degré ou option ski nordique 2e degré. <br/>
 </td>
 <td align="center">
-<br/>Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de type nordique, excluant tout accident de terrain et situés en moyenne montagne. <br/>
-<br/>Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu.<br/>
+<br/>Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de type nordique, excluant tout accident de terrain et situés en moyenne montagne. <p>Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu.<br/>
+</p>
 </td>
 <td align="center">
-<br/>A l'exclusion :<br/>
-<br/>-des rochers, des glaciers, des canyons et des terrains nécessitannt pour la progression, l'utilisation du matériel ou des techniques de l'alpinisme ;<br/>
-<br/>-de la pratique du ski et activités assimilées. <br/>
-<br/>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. <br/>
+<br/>A l'exclusion : <p>-des rochers, des glaciers, des canyons et des terrains nécessitannt pour la progression, l'utilisation du matériel ou des techniques de l'alpinisme ;</p>
+<p>-de la pratique du ski et activités assimilées. </p>
+<p>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1213,15 +1003,15 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <br/>Diplôme d'AMM du brevet d'Etat d'alpinisme assorti du BEES du 1er degré, option " ski alpin " ou option " ski nordique ". <br/>
 </td>
 <td align="center">
-<br/>Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de type nordique, excluant tout accident de terrain et situés en moyenne montagne. <br/>
-<br/>Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu. <br/>
-<br/>Prérogatives conférées aux titulaires du BEES option " ski alpin " ou " ski nordique " selon la spécialité.<br/>
+<br/>Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de type nordique, excluant tout accident de terrain et situés en moyenne montagne. <p>Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu. </p>
+<p>Prérogatives conférées aux titulaires du BEES option " ski alpin " ou " ski nordique " selon la spécialité.<br/>
+</p>
 </td>
 <td align="center">
-<br/>A l'exclusion :<br/>
-<br/>-des rochers, des glaciers, des canyons et des terrains nécessitant, pour la progression, l'utilisation du matériel ou des techniques de l'alpinisme ;<br/>
-<br/>-de la pratique du ski et activités assimilées. <br/>
-<br/>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. <br/>
+<br/>A l'exclusion : <p>-des rochers, des glaciers, des canyons et des terrains nécessitant, pour la progression, l'utilisation du matériel ou des techniques de l'alpinisme ;</p>
+<p>-de la pratique du ski et activités assimilées. </p>
+<p>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1242,10 +1032,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement de personnes dans les canyons situés en milieu tropical. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1254,10 +1041,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement de l'activité VTT en milieu montagnard. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1277,10 +1061,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement, encadrement et animation du ski nordique de fond sous toutes ses formes, dans toutes les classes de la progression de l'enseignement du ski nordique de fond définie par le CSSM, y compris la classe compétition. Confère le titre de moniteur national. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1289,10 +1070,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du football dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1301,10 +1079,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du baseball et du softball dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1313,10 +1088,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du basket-ball dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1325,10 +1097,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du handball dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1337,10 +1106,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du volley-ball dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1349,10 +1115,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du hockey sur gazon dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1361,10 +1124,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du rugby dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1373,29 +1133,20 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement du rugby à XIII dans tout établissement. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Brevet d'aptitude professionnelle d'assistant animateur <br/>
-<br/>technicien de la jeunesse et des sports (BAPAAT) <br/>
+<br/>Brevet d'aptitude professionnelle d'assistant animateur <p>technicien de la jeunesse et des sports (BAPAAT) <br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>BAPAAT, options " loisirs du jeune et de l'enfant " ; " loisirs tout public dans les sites et structures d'accueil collectif " ; " loisirs de pleine nature ". <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1409,10 +1160,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Initiation au bicross, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié relatif à l'organisation et aux conditions de préparation et de délivrance du BAPAAT. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1421,10 +1169,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Initiation à l'escalade, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1433,10 +1178,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Animation de l'activité poney, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1445,10 +1187,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Accompagnement de randonnée équestre avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1457,10 +1196,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Initiation au raft, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1469,10 +1205,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Initiation au canoë-kayak, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1481,10 +1214,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Initiation à la nage en eau vive, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1493,10 +1223,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Initiation au kayak en mer, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1505,10 +1232,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Initiation à la spéléologie, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1517,10 +1241,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Initiation au VTT, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1529,10 +1250,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de randonnées pédestres, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1541,10 +1259,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement de la course d'orientation, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1553,10 +1268,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Animation des jeux sportifs collectifs, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1565,10 +1277,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Animation de l'activité roller-skating, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1577,10 +1286,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Animation de la pratique du tennis de table, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1589,10 +1295,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Animation de la pratique du tir à l'arc, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1601,10 +1304,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Animation de la pratique du swin, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1613,29 +1313,20 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de randonnées équestres dans les conditions prévues par l'arrêté du 14 septembre 1993 créant une spécialité " accompagnement de randonnée équestre " du brevet d'études professionnelles agricoles, option " activités hippiques " et fixant les modalités de certification conjointe avec le BAPAAT, support technique " randonnée équestre ". <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Brevet professionnel de la jeunesse, <br/>
-<br/>de l'éducation populaire et du sport (BP JEPS) <br/>
+<br/>Brevet professionnel de la jeunesse, <p>de l'éducation populaire et du sport (BP JEPS) <br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>BP JEPS, spécialité " activités équestres ". <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1649,10 +1340,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition en équitation. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1661,10 +1349,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition en tourisme équestre. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1673,10 +1358,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition en équitation western. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1685,10 +1367,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition en équitation de tradition et de travail. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1697,10 +1376,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition en attelage. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1714,23 +1390,14 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'animation en course d'orientation. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
 <br/>BP JEPS, spécialité " activités nautiques ". <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1744,10 +1411,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en aviron. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1897,10 +1561,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de découverte et d'initiation en char à voile. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2012,8 +1673,8 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td align="center">
-<br/>Unités capitalisables complémentaires (UCC) associées <br/>
-<br/>à la spécialité " activités nautiques " <br/>
+<br/>Unités capitalisables complémentaires (UCC) associées <p>à la spécialité " activités nautiques " <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -2193,23 +1854,14 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Découverte, animation et initiation jusqu'au premier niveau de compétition en cerf-volant. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
 <br/>BP JEPS, spécialité " activités pugilistiques ". <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2223,10 +1875,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de kick boxing. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2235,10 +1884,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de muaythaï. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2247,10 +1893,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de boxe anglaise. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2259,10 +1902,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de boxe française, savate. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2271,10 +1911,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de full contact <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2288,10 +1925,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'initiation en lutte et dans les disciplines associées. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2300,15 +1934,12 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation de l'activité golf. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Unités capitalisables complémentaires (UCC) <br/>
-<br/>associées à la spécialité " golf " <br/>
+<br/>Unités capitalisables complémentaires (UCC) <p>associées à la spécialité " golf " <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -2318,10 +1949,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'apprentissage en squash, jusqu'au premier niveau de compétition. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2330,10 +1958,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement, animation et initiation d'activités de pêche sportive en eau douce. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2347,23 +1972,14 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'apprentissage en pêche de loisir en milieu maritime, jusqu'au premier niveau de compétition. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
 <br/>BP JEPS, spécialité " sport automobile ". <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2377,10 +1993,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de compétition en circuit. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2389,10 +2002,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de compétition en karting. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2401,10 +2011,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de compétition en perfectionnement du pilotage. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2413,10 +2020,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de compétition en rallye. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2425,10 +2029,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de compétition en tout-terrain. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2442,10 +2043,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de compétition en conduite sur glace. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2454,10 +2052,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de loisir, d'initiation, de découverte. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2472,8 +2067,8 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td align="center">
-<br/>Unités capitalisables complémentaires (UCC) <br/>
-<br/>associées à la spécialité " activités physiques pour tous " <br/>
+<br/>Unités capitalisables complémentaires (UCC) <p>associées à la spécialité " activités physiques pour tous " <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -2483,10 +2078,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en baseball et softball. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2495,10 +2087,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en cricket. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2507,10 +2096,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en football américain et flag. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2519,10 +2105,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'initiation et d'apprentissage jusqu'au premier niveau de compétition en football américain. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2531,10 +2114,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'initiation et d'apprentissage jusqu'au premier niveau de compétition en flag. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2543,10 +2123,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en rugby à XIII. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2555,10 +2132,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en triathlon. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2567,10 +2141,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en swin. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2579,10 +2150,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en pétanque. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2591,10 +2159,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'apprentissage en skateboard. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2603,10 +2168,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en squash. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2615,10 +2177,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en cyclisme sur route, en cyclisme sur piste et en cyclo-cross. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2627,10 +2186,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en BMX. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2639,10 +2195,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en carambole. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2651,15 +2204,12 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en billard à poches. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Certificats de spécialisation (CS) <br/>
-<br/>associés à la spécialité " activités physiques pour tous " <br/>
+<br/>Certificats de spécialisation (CS) <p>associés à la spécialité " activités physiques pour tous " <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -2669,10 +2219,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Découverte, animation et initiation jusqu'au premier niveau de compétition en cerf-volant. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2681,10 +2228,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles de découverte, d'initiation et d'apprentissage en roller. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2693,10 +2237,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Découverte, animation et initiation jusqu'au premier niveau de compétition en activités athlétiques. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2716,10 +2257,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'animation et d'entraînement en tennis de table. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2728,10 +2266,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'apprentissage et de séances d'entraînement jusqu'au premier niveau de compétition en bowling. Conduite de cycles d'initiation et d'apprentissage en sports de quilles. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2740,10 +2275,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'animation dans toutes les disciplines du tir sportif. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2752,10 +2284,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'animation en tir à l'arc. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2764,25 +2293,22 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'animation en escrime. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
 <br/>CS " accompagnement et intégration des personnes en situation de handicap ". <br/>
 </td>
 <td align="center">
-<br/>Animation des activités physiques ou sportives :<br/>
-<br/>-auprès de groupes intégrant des personnes déficientes motrices, sensorielles ou intellectuelles ; des personnes présentant une souffrance psychique ou éprouvant des difficultés d'adaptation du fait de carences affectives ou éducatives ;<br/>
-<br/>-auprès de groupes constitués exclusivement de ces publics. <br/>
+<br/>Animation des activités physiques ou sportives : <p>-auprès de groupes intégrant des personnes déficientes motrices, sensorielles ou intellectuelles ; des personnes présentant une souffrance psychique ou éprouvant des difficultés d'adaptation du fait de carences affectives ou éducatives ;</p>
+<p>-auprès de groupes constitués exclusivement de ces publics. <br/>
+</p>
 </td>
 <td align="center">
-<br/>Auprès de groupes constitués exclusivement de ces publics, cette intervention est réalisée :<br/>
-<br/>-à titre ponctuel ;<br/>
-<br/>-et en qualité de prestataire pour le compte de la structure employeuse. <br/>
-<br/>Les pratiquants demeurent sous la responsabilité éducative et / ou thérapeutique du personnel de la structure spécialisée qui les accompagne. <br/>
+<br/>Auprès de groupes constitués exclusivement de ces publics, cette intervention est réalisée : <p>-à titre ponctuel ;</p>
+<p>-et en qualité de prestataire pour le compte de la structure employeuse. </p>
+<p>Les pratiquants demeurent sous la responsabilité éducative et / ou thérapeutique du personnel de la structure spécialisée qui les accompagne. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -2792,10 +2318,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'initiation en pentathlon moderne. Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en pentajeune. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2804,10 +2327,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'animation en course d'orientation. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2816,23 +2336,14 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'initiation en lutte et dans les disciplines associées. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
 <br/>BP JEPS, spécialité " activités gymniques de la forme et de la force ". <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2846,10 +2357,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de loisir, d'initiation et de découverte des activités gymniques acrobatiques. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2858,10 +2366,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de loisir, d'initiation et de découverte des activités gymniques d'expression. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2870,10 +2375,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de loisir, d'initiation et de découverte des activités de forme en cours collectifs. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2882,15 +2384,12 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement et animation d'activités de loisir, d'initiation et de découverte des activités haltère, musculation et forme sur plateau. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Unités capitalisables complémentaires <br/>
-<br/>associées à la spécialité " activités gymniques de la forme et de la force " <br/>
+<br/>Unités capitalisables complémentaires <p>associées à la spécialité " activités gymniques de la forme et de la force " <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -2900,10 +2399,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en gymnastique artistique féminine. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2912,10 +2408,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en gymnastique artistique masculine. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2924,10 +2417,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en gymnastique acrobatique. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2936,10 +2426,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en gymnastique rythmique. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2948,10 +2435,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en gymnastique aérobic. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2960,10 +2444,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en trampoline. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2972,10 +2453,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en tumbling. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2984,10 +2462,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en twirling. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -2996,10 +2471,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en force athlétique. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3008,10 +2480,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en culturisme. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3020,15 +2489,12 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en haltérophilie. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Certificats de spécialisation associés à la spécialité <br/>
-<br/>" activités gymniques de la forme et de la force " <br/>
+<br/>Certificats de spécialisation associés à la spécialité <p>" activités gymniques de la forme et de la force " <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -3049,10 +2515,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'animation et d'entraînement en tennis de table. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3061,10 +2524,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'animation en escrime. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3073,10 +2533,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'initiation en lutte et dans les disciplines associées. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3085,10 +2542,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive en sports collectifs. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3102,10 +2556,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite en autonomie d'une séance d'entraînement en basket-ball. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3114,10 +2565,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite en autonomie d'une séance d'entraînement en football. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3126,10 +2574,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite en autonomie d'une séance d'entraînement en handball. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3138,10 +2583,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite en autonomie d'une séance d'entraînement en hockey sur gazon. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3150,10 +2592,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite en autonomie d'une séance d'entraînement en rugby à XIII. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3162,10 +2601,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite en autonomie d'une séance d'entraînement en rugby à XIII. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3174,10 +2610,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite en autonomie d'une séance d'entraînement en volley-ball. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3191,10 +2624,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles de découverte et d'apprentissage jusqu'au premier niveau de compétition fédérale en squash. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3208,10 +2638,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Découverte, animation et initiation jusqu'au premier niveau de compétition en activités athlétiques. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3220,23 +2647,14 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'animation et d'entraînement en tennis de table. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
 <br/>BP JEPS, spécialité " vol libre ". <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3250,10 +2668,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement d'actions d'animation, d'initiation et de progression jusqu'à l'autonomie en parapente. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3262,10 +2677,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement d'actions d'animation, d'initiation et de progression jusqu'à l'autonomie en parapente. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3290,15 +2702,12 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles de découverte et d'apprentissage jusqu'au premier niveau de compétition en triathlon. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>
-<br/>Certificats de spécialisation associés à la spécialité " activités aquatiques " <br/>
+<p>Certificats de spécialisation associés à la spécialité " activités aquatiques " <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -3308,10 +2717,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'initiation en pentathlon moderne. Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en pentajeune. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3326,8 +2732,8 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td align="center">
-<br/>Unités capitalisables complémentaires associées <br/>
-<br/>à la spécialité " activités de randonnée " du BP JEPS <br/>
+<br/>Unités capitalisables complémentaires associées <p>à la spécialité " activités de randonnée " du BP JEPS <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -3337,10 +2743,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en cyclisme sur route, en cyclisme sur piste et en cyclo-cross. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3349,10 +2752,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en BMX. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3366,10 +2766,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'animation en course d'orientation. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3383,10 +2780,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'initiation et d'apprentissage jusqu'au premier niveau de compétition en football américain. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3395,10 +2789,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'initiation et d'apprentissage jusqu'au premier niveau de compétition en flag. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3412,10 +2803,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'animation dans toutes les disciplines du tir sportif. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3424,10 +2812,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'animation en tir à l'arc. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3436,10 +2821,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'animation en escrime. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3448,15 +2830,12 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'animation en course d'orientation. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Certificats de spécialisation associés <br/>
-<br/>à la spécialité " animation culturelle " du BP JEPS <br/>
+<br/>Certificats de spécialisation associés <p>à la spécialité " animation culturelle " du BP JEPS <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -3466,10 +2845,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'animation dans toutes les disciplines du tir sportif. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3478,10 +2854,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'animation en escrime. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3495,15 +2868,12 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Conduite de cycles d'animation en tir à l'arc. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Diplôme d'Etat et diplôme d'Etat supérieur de la jeunesse, <br/>
-<br/>de l'éducation populaire et du sport (DE JEPS et DES JEPS) <br/>
+<br/>Diplôme d'Etat et diplôme d'Etat supérieur de la jeunesse, <p>de l'éducation populaire et du sport (DE JEPS et DES JEPS) <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -3513,10 +2883,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement, animation, encadrement de l'activité visée par la mention considérée ou entraînement de ses pratiquants. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3525,10 +2892,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement, animation, encadrement de l'activité visée par la mention considérée ou entraînement de ses pratiquants. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3543,8 +2907,8 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td align="center">
-<br/>Unités capitalisables complémentaires associées <br/>
-<br/>aux DE JEPS et aux DES JEPS <br/>
+<br/>Unités capitalisables complémentaires associées <p>aux DE JEPS et aux DES JEPS <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -3554,15 +2918,12 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Enseignement, animation, encadrement du baby et du mini-volley. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Certificats de spécialisation associés <br/>
-<br/>aux DE JEPS et aux DES JEPS <br/>
+<br/>Certificats de spécialisation associés <p>aux DE JEPS et aux DES JEPS <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -3572,38 +2933,29 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement du beach-volley et entraînement de ses pratiquants. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>CS " cerf-volant " associé :<br/>
-<br/>-au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS, spécialité " performance sportive ", mention " glisses aérotractées nautiques " ;<br/>
-<br/>-au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS, spécialité " performance sportive ", mention " voile ". <br/>
+<br/>CS " cerf-volant " associé : <p>-au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS, spécialité " performance sportive ", mention " glisses aérotractées nautiques " ;</p>
+<p>-au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS, spécialité " performance sportive ", mention " voile ". <br/>
+</p>
 </td>
 <td align="center">
 <br/>Découverte, animation et initiation, jusqu'au premier niveau de compétition en cerf-volant. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>CS " canoë-kayak et disciplines associées en mer " associé :<br/>
-<br/>-au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS, spécialité " performance sportive ", mention " canoë-kayak et disciplines associées en eau calme " ;<br/>
-<br/>-au DE JEPS, spécialité " perfectionnement sportif ", mention " canoë-kayak et disciplines associées en eau vive ". <br/>
+<br/>CS " canoë-kayak et disciplines associées en mer " associé : <p>-au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS, spécialité " performance sportive ", mention " canoë-kayak et disciplines associées en eau calme " ;</p>
+<p>-au DE JEPS, spécialité " perfectionnement sportif ", mention " canoë-kayak et disciplines associées en eau vive ". <br/>
+</p>
 </td>
 <td align="center">
 <br/>Encadrement du kayak de mer et des disciplines associées et entraînement des pratiquants. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3612,10 +2964,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement de la natation en eau libre et entraînement de ses pratiquants. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -3624,18 +2973,15 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center">
 <br/>Encadrement de la nage avec palmes et entraînement de ses pratiquants. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>CS " sauvetage et sécurité en milieu aquatique " associé :<br/>
-<br/>-au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS, spécialité " performance sportive ", mention " natation course " ;<br/>
-<br/>-au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS, spécialité " performance sportive ", mention " natation synchronisée " ;<br/>
-<br/>-au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS, spécialité " performance sportive ", mention " water-polo " ;<br/>
-<br/>-au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS, spécialité " performance sportive ", mention " plongeon ". <br/>
+<br/>CS " sauvetage et sécurité en milieu aquatique " associé : <p>-au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS, spécialité " performance sportive ", mention " natation course " ;</p>
+<p>-au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS, spécialité " performance sportive ", mention " natation synchronisée " ;</p>
+<p>-au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS, spécialité " performance sportive ", mention " water-polo " ;</p>
+<p>-au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS, spécialité " performance sportive ", mention " plongeon ". <br/>
+</p>
 </td>
 <td align="center">
 <br/>Surveillance de tout lieu de pratique des activités aquatiques et sauvetage de tout public en milieu aquatique. <br/>
@@ -3733,10 +3079,7 @@ D-2. Titres à finalité professionnelle délivrés par la Fédération françai
 <td align="center">
 <br/>Accompagnement et conduite de randonnées équestres en autonomie dans tout établissement, dans le cadre de parcours identifiés.<br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 </tbody>
 </table>
@@ -3768,9 +3111,27 @@ de l'emploi des entreprises équestres (CPNE-EE)
 <br/>Participation à l'encadrement des pratiquants dans le cadre d'une action d'animation en équitation cheval, en équitation poney ou en tourisme équestre. <br/>
 </td>
 <td align="center">
-<br/>Pour les mentions " équitation public poney " et " équitation public cheval ", sous le contrôle d'un titulaire du brevet d'Etat d'éducateur sportif option " équitation " ou du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité " activités équestres " mention équitation. <br/>
-<br/>Pour la mention " tourisme équestre ", sous le contrôle d'un titulaire du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité " activités équestres " mention " tourisme équestre " ou du brevet de guide de tourisme équestre.<br/>
+<br/>Pour les mentions " équitation public poney " et " équitation public cheval ", sous le contrôle d'un titulaire du brevet d'Etat d'éducateur sportif option " équitation " ou du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité " activités équestres " mention équitation. <p>Pour la mention " tourisme équestre ", sous le contrôle d'un titulaire du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité " activités équestres " mention " tourisme équestre " ou du brevet de guide de tourisme équestre.<br/>
+</p>
 </td>
+</tr>
+<tr>
+<td>
+<p align="center"> CQP " enseignant animateur d'équitation ". </p>
+</td>
+<td>
+<p align="center"> Conduite en autonomie de séances d'initiation aux pratiques équestres. </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center"> CQP " organisateur de randonnées équestres ". </p>
+</td>
+<td>
+<p align="center"> Initiation aux techniques de la randonnée équestre et conduite de promenades et de randonnées équestres en autonomie.</p>
+</td>
+<td/>
 </tr>
 </tbody>
 </table>
@@ -3800,10 +3161,10 @@ emploi-formation du sport (CPNEF du sport)
 <br/>Encadrement en autonomie d'excursions en quad pour des publics titulaires d'un permis ou d'un brevet délivré par l'Etat permettant la conduite d'un quad, conformément à l'article R. 213 du code de la route.<br/>
 </td>
 <td align="center">
-<br/>A l'exclusion de toute activité d'enseignement ou d'entraînement ; <br/>
-<br/>Dans la limite de 6 personnes accompagnées ; <br/>
-<br/>Sur des parcours connus et reconnus ; <br/>
-<br/>Sous réserve de la présentation de l'attestation triennale de recyclage. <br/>
+<br/>A l'exclusion de toute activité d'enseignement ou d'entraînement ; <p>Dans la limite de 6 personnes accompagnées ; </p>
+<p>Sur des parcours connus et reconnus ; </p>
+<p>Sous réserve de la présentation de l'attestation triennale de recyclage. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -3814,10 +3175,10 @@ emploi-formation du sport (CPNEF du sport)
 <br/>Encadrement en autonomie du tir à l'arc, par la découverte et l'animation. <br/>
 </td>
 <td align="center">
-<br/>Dans la limite de 12 pratiquants ; <br/>
-<br/>Durant la période allant du début des vacances de printemps à la fin des vacances d'été, conformément aux dates du calendrier des vacances scolaires fixé par les ministères de l'enseignement supérieur et de l'éducation nationale ; <br/>
-<br/>A l'exclusion du temps scolaire contraint ; <br/>
-<br/>Dans les structures de loisirs sportifs, socio-éducatives et de tourisme. <br/>
+<br/>Dans la limite de 12 pratiquants ; <p>Durant la période allant du début des vacances de printemps à la fin des vacances d'été, conformément aux dates du calendrier des vacances scolaires fixé par les ministères de l'enseignement supérieur et de l'éducation nationale ; </p>
+<p>A l'exclusion du temps scolaire contraint ; </p>
+<p>Dans les structures de loisirs sportifs, socio-éducatives et de tourisme. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -3828,8 +3189,8 @@ emploi-formation du sport (CPNEF du sport)
 <br/>Animation et initiation à la pratique de la voile. <br/>
 </td>
 <td align="center">
-<br/>Sous l'autorité d'un titulaire d'une certification professionnelle des activités physiques ou sportives de niveau IV ou supérieur, le nombre de titulaires du CQP AMV placés sous cette autorité ne pouvant être supérieur à 10, dans la limite de 140 pratiquants encadrés par titulaire d'une certification de niveau IV ou supérieur ; <br/>
-<br/>Durant les périodes de congés scolaires et universitaires fixées par les ministères de l'enseignement supérieur et de l'éducation nationale. <br/>
+<br/>Sous l'autorité d'un titulaire d'une certification professionnelle des activités physiques ou sportives de niveau IV ou supérieur, le nombre de titulaires du CQP AMV placés sous cette autorité ne pouvant être supérieur à 10, dans la limite de 140 pratiquants encadrés par titulaire d'une certification de niveau IV ou supérieur ; <p>Durant les périodes de congés scolaires et universitaires fixées par les ministères de l'enseignement supérieur et de l'éducation nationale. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -3848,9 +3209,9 @@ emploi-formation du sport (CPNEF du sport)
 <br/>CQP " animateur des activités gymniques ", mention " activités gymniques acrobatiques ". <br/>
 </td>
 <td align="center">
-<br/>Encadrement en autonomie, par la découverte et l'initiation, des activités gymniques acrobatiques, à visée compétitive ou non :<br/>
-<br/>-activités gymniques au sol, aux agrès ou sur supports élastiques (piste gonflable, fast track, mini-trampoline, trampoline) ;<br/>
-<br/>-activités gymniques acrobatiques de groupe. <br/>
+<br/>Encadrement en autonomie, par la découverte et l'initiation, des activités gymniques acrobatiques, à visée compétitive ou non : <p>-activités gymniques au sol, aux agrès ou sur supports élastiques (piste gonflable, fast track, mini-trampoline, trampoline) ;</p>
+<p>-activités gymniques acrobatiques de groupe. <br/>
+</p>
 </td>
 <td align="center">
 <br/>Activité exercée à titre secondaire. <br/>
@@ -3861,10 +3222,10 @@ emploi-formation du sport (CPNEF du sport)
 <br/>CQP " animateur des activités gymniques ", mention " activités d'éveil gymnique pour la petite enfance ". <br/>
 </td>
 <td align="center">
-<br/>Encadrement en autonomie, par la découverte et l'initiation, des activités d'éveil gymnique pour la petite enfance :<br/>
-<br/>-activités gymniques sous forme de parcours de motricité ;<br/>
-<br/>-activités gymniques d'expression avec ou sans engins ;<br/>
-<br/>-activités gymniques d'expression avec ou sans support musical. <br/>
+<br/>Encadrement en autonomie, par la découverte et l'initiation, des activités d'éveil gymnique pour la petite enfance : <p>-activités gymniques sous forme de parcours de motricité ;</p>
+<p>-activités gymniques d'expression avec ou sans engins ;</p>
+<p>-activités gymniques d'expression avec ou sans support musical. <br/>
+</p>
 </td>
 <td align="center">
 <br/>Activité exercée à titre secondaire. <br/>
@@ -3875,12 +3236,12 @@ emploi-formation du sport (CPNEF du sport)
 <br/>CQP " animateur des activités gymniques ", mention " activités gymniques d'expression et d'entretien ". <br/>
 </td>
 <td align="center">
-<br/>Encadrement en autonomie, par la découverte et l'initiation, des activités gymniques d'expression et d'entretien :<br/>
-<br/>-activités gymniques à dominante cardio-vasculaire ;<br/>
-<br/>-activités gymniques dansées de groupe avec ou sans engins ;<br/>
-<br/>-activités gymniques de renforcement musculaire avec ou sans petit matériel ;<br/>
-<br/>-activités gymniques de renforcement musculaire sur parcours avec agrès ;<br/>
-<br/>-stretching. <br/>
+<br/>Encadrement en autonomie, par la découverte et l'initiation, des activités gymniques d'expression et d'entretien : <p>-activités gymniques à dominante cardio-vasculaire ;</p>
+<p>-activités gymniques dansées de groupe avec ou sans engins ;</p>
+<p>-activités gymniques de renforcement musculaire avec ou sans petit matériel ;</p>
+<p>-activités gymniques de renforcement musculaire sur parcours avec agrès ;</p>
+<p>-stretching. <br/>
+</p>
 </td>
 <td align="center">
 <br/>Activité exercée à titre secondaire. <br/>
@@ -3891,16 +3252,16 @@ emploi-formation du sport (CPNEF du sport)
 <br/>CQP " animateur de loisirs sportifs ", option " activités gymniques d'entretien et d'expression ". <br/>
 </td>
 <td align="center">
-<br/>Encadrement en autonomie par la découverte et l'animation des activités gymniques d'entretien et d'expression :<br/>
-<br/>-techniques cardio ;<br/>
-<br/>-renforcement musculaire ;<br/>
-<br/>-techniques douces ;<br/>
-<br/>-activités d'expression. <br/>
+<br/>Encadrement en autonomie par la découverte et l'animation des activités gymniques d'entretien et d'expression : <p>-techniques cardio ;</p>
+<p>-renforcement musculaire ;</p>
+<p>-techniques douces ;</p>
+<p>-activités d'expression. <br/>
+</p>
 </td>
 <td align="center">
-<br/>Activité exercée à titre secondaire ; <br/>
-<br/>Sans recours à des appareils de musculation ; <br/>
-<br/>Sous réserve de la présentation du certificat d'aptitude à l'exercice de la fonction d'animateur de loisirs sportifs en cours de validité. <br/>
+<br/>Activité exercée à titre secondaire ; <p>Sans recours à des appareils de musculation ; </p>
+<p>Sous réserve de la présentation du certificat d'aptitude à l'exercice de la fonction d'animateur de loisirs sportifs en cours de validité. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -3908,16 +3269,16 @@ emploi-formation du sport (CPNEF du sport)
 <br/>CQP " animateur de loisirs sportifs ", option " jeux sportifs et jeux d'opposition ". <br/>
 </td>
 <td align="center">
-<br/>Encadrement en autonomie par la découverte et l'animation des jeux sportifs et des jeux d'opposition :<br/>
-<br/>-arts et éducation par les activités physiques d'opposition ;<br/>
-<br/>-jeux de raquettes ;<br/>
-<br/>-jeux de ballons, petits et grands terrains <br/>
+<br/>Encadrement en autonomie par la découverte et l'animation des jeux sportifs et des jeux d'opposition : <p>-arts et éducation par les activités physiques d'opposition ;</p>
+<p>-jeux de raquettes ;</p>
+<p>-jeux de ballons, petits et grands terrains <br/>
+</p>
 </td>
 <td align="center">
-<br/>Activité exercée à titre secondaire ; <br/>
-<br/>A l'exclusion des pratiques compétitives ; <br/>
-<br/>A l'exclusion de la délivrance de niveaux, de ceintures ou de grades ; <br/>
-<br/>Sous réserve de la présentation du certificat d'aptitude à l'exercice de la fonction d'animateur de loisirs sportifs en cours de validité. <br/>
+<br/>Activité exercée à titre secondaire ; <p>A l'exclusion des pratiques compétitives ; </p>
+<p>A l'exclusion de la délivrance de niveaux, de ceintures ou de grades ; </p>
+<p>Sous réserve de la présentation du certificat d'aptitude à l'exercice de la fonction d'animateur de loisirs sportifs en cours de validité. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -3928,9 +3289,9 @@ emploi-formation du sport (CPNEF du sport)
 <br/>Initiation au tennis en cours collectif, des jeunes âgés de 18 ans au maximum.L'assistant moniteur de tennis bénéficie du suivi pédagogique d'un référent titulaire d'un diplôme d'Etat de niveau IV ou supérieur. <br/>
 </td>
 <td align="center">
-<br/>Activité exercée le mercredi et le samedi, excepté dans le cas où la structure ne dispose pas d'équipement permanent ; <br/>
-<br/>A l'exclusion du temps scolaire contraint ; <br/>
-<br/>A l'exclusion des cours individuels. <br/>
+<br/>Activité exercée le mercredi et le samedi, excepté dans le cas où la structure ne dispose pas d'équipement permanent ; <p>A l'exclusion du temps scolaire contraint ; </p>
+<p>A l'exclusion des cours individuels. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -3952,14 +3313,14 @@ emploi-formation du sport (CPNEF du sport)
 <br/>Entraînement et encadrement en compétition d'équipes évoluant majoritairement aux niveaux régional et départemental. <br/>
 </td>
 <td align="center">
-<br/>Activité exercée à titre secondaire ; <br/>
-<br/>A l'exclusion des équipes évoluant :<br/>
-<br/>-en pro A et en pro B ;<br/>
-<br/>-en nationale masculine 1 et nationale masculine 2 ;<br/>
-<br/>-en ligue féminine ;<br/>
-<br/>-en nationale féminine 1 et nationale féminine 2 ; <br/>
-<br/>Dans la limite de 2 équipes ; <br/>
-<br/>A l'exclusion du temps scolaire contraint. <br/>
+<br/>Activité exercée à titre secondaire ; <p>A l'exclusion des équipes évoluant :</p>
+<p>-en pro A et en pro B ;</p>
+<p>-en nationale masculine 1 et nationale masculine 2 ;</p>
+<p>-en ligue féminine ;</p>
+<p>-en nationale féminine 1 et nationale féminine 2 ; </p>
+<p>Dans la limite de 2 équipes ; </p>
+<p>A l'exclusion du temps scolaire contraint. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -3970,10 +3331,10 @@ emploi-formation du sport (CPNEF du sport)
 <br/>Initiation à la pratique du char à voile de loisirs dans le support certifié (char assis / allongé, char debout ou char tracté). <br/>
 </td>
 <td align="center">
-<br/>Sous l'autorité d'un titulaire d'un diplôme de niveau IV ou supérieur dans la discipline du char à voile, le nombre de titulaires du CQP " assistant moniteur char à voile " placés sous cette autorité, ne pouvant être supérieur à 3 ; <br/>
-<br/>Dans la limite de 8 chars ; <br/>
-<br/>Vent de force 6 Beaufort maximum ; <br/>
-<br/>Jusqu'au niveau 3 des niveaux de la Fédération française de char à voile. <br/>
+<br/>Sous l'autorité d'un titulaire d'un diplôme de niveau IV ou supérieur dans la discipline du char à voile, le nombre de titulaires du CQP " assistant moniteur char à voile " placés sous cette autorité, ne pouvant être supérieur à 3 ; <p>Dans la limite de 8 chars ; </p>
+<p>Vent de force 6 Beaufort maximum ; </p>
+<p>Jusqu'au niveau 3 des niveaux de la Fédération française de char à voile. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -3984,11 +3345,11 @@ emploi-formation du sport (CPNEF du sport)
 <br/>Encadrement en autonomie jusqu'au premier niveau de compétition dans la mention considérée (aïkido, aïkibudo, arts martiaux chinois internes, arts martiaux chinois externes, arts énergétiques chinois, judo-jujitsu, karaté et disciplines associées, kendo et disciplines associées, taekwondo et disciplines associées). <br/>
 </td>
 <td align="center">
-<br/>Les mercredis et les samedis pendant l'année scolaire, dans les structures de plus de 200 adhérents ; <br/>
-<br/>A raison de 4 séances maximum par semaine pendant l'année scolaire, dans les structures de moins de 200 adhérents ; <br/>
-<br/>A l'exclusion du temps scolaire contraint ; <br/>
-<br/>A l'exclusion du secteur du tourisme ; <br/>
-<br/>Sous réserve de la présentation du certificat d'aptitude à l'exercice de la fonction d'assistant professeur arts martiaux en cours de validité. <br/>
+<br/>Les mercredis et les samedis pendant l'année scolaire, dans les structures de plus de 200 adhérents ; <p>A raison de 4 séances maximum par semaine pendant l'année scolaire, dans les structures de moins de 200 adhérents ; </p>
+<p>A l'exclusion du temps scolaire contraint ; </p>
+<p>A l'exclusion du secteur du tourisme ; </p>
+<p>Sous réserve de la présentation du certificat d'aptitude à l'exercice de la fonction d'assistant professeur arts martiaux en cours de validité. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -3999,14 +3360,14 @@ emploi-formation du sport (CPNEF du sport)
 <br/>Animation de séances de découverte et d'initiation à la pratique du motonautisme au moyen du support véhicule nautique à moteur (VNM). <br/>
 </td>
 <td align="center">
-<br/>Sous l'autorité d'un référent, le titulaire du CQP encadre :<br/>
-<br/>-2 VNM maximum ;<br/>
-<br/>-ou 4 VNM à vue du référent. <br/>
-<br/>Le référent est titulaire :<br/>
-<br/>-d'un diplôme d'Etat à compétence motonautique de niveau IV ou supérieur ;<br/>
-<br/>-ou du brevet fédéral jet 2e degré délivré par la Fédération française motonautique jusqu'au 28 août 2007. <br/>
-<br/>Le nombre de titulaires du CQP placés sous l'autorité du référent ne peut être supérieur à 2 ou à 1, dans le cas où il encadre 4 VNM à vue.<br/>
-<br/>A l'exclusion du temps scolaire contraint pour le public scolaire.<br/>
+<br/>Sous l'autorité d'un référent, le titulaire du CQP encadre : <p>-2 VNM maximum ;</p>
+<p>-ou 4 VNM à vue du référent. </p>
+<p>Le référent est titulaire :</p>
+<p>-d'un diplôme d'Etat à compétence motonautique de niveau IV ou supérieur ;</p>
+<p>-ou du brevet fédéral jet 2e degré délivré par la Fédération française motonautique jusqu'au 28 août 2007. </p>
+<p>Le nombre de titulaires du CQP placés sous l'autorité du référent ne peut être supérieur à 2 ou à 1, dans le cas où il encadre 4 VNM à vue.</p>
+<p>A l'exclusion du temps scolaire contraint pour le public scolaire.<br/>
+</p>
 </td>
 </tr>
 </tbody>
