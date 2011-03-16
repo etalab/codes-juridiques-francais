@@ -1,0 +1,5 @@
+# TITRE XXXII : DE LA PROCÉDURE APPLICABLE AUX INFRACTIONS RELATIVES À LA PROLIFÉRATION D'ARMES DE DESTRUCTION MASSIVE ET DE LEURS VECTEURS
+
+- [Section 1 : Compétence](section-1)
+- [Section 2 : Procédure](section-2)
+- [Article 706-167](article-706-167.md)

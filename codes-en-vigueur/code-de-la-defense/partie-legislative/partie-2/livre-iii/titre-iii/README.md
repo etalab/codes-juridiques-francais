@@ -1,4 +1,4 @@
-# TITRE III : MATÉRIELS DE GUERRE, ARMES ET MUNITIONS SOUMIS À AUTORISATION
+# TITRE III : MATÉRIELS DE GUERRE, ARMES ET MUNITIONS
 
 - [Chapitre Ier : Dispositions générales](chapitre-ier)
 - [Chapitre II : Fabrication et commerce](chapitre-ii)

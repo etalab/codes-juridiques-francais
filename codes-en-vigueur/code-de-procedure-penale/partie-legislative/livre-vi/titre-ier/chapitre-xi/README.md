@@ -10,3 +10,4 @@
 - [Article 865](article-865.md)
 - [Article 866](article-866.md)
 - [Article 866-1](article-866-1.md)
+- [Article 866-2](article-866-2.md)

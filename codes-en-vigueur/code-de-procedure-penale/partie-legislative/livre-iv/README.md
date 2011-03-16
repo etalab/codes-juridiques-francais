@@ -30,3 +30,4 @@
 - [Titre XXX : De l'agence de gestion et de recouvrement des avoirs saisis et confisqués.](titre-xxx)
 - [Titre XXIX : Des saisies spéciales](titre-xxix)
 - [Titre XXXI : Des mesures conservatoires](titre-xxxi)
+- [TITRE XXXII : DE LA PROCÉDURE APPLICABLE AUX INFRACTIONS RELATIVES À LA PROLIFÉRATION D'ARMES DE DESTRUCTION MASSIVE ET DE LEURS VECTEURS](titre-xxxii)
