@@ -4,7 +4,7 @@ Les gardes particuliers mentionnés à l'article 29 sont commissionnés par le p
 
 Ne peuvent être agréés comme gardes particuliers :
 
-1° Les personnes dont le comportement est incompatible avec l'exercice de ces fonctions, en particulier si elles ne remplissent pas les conditions de moralité et d'honorabilité requises, au vu notamment des mentions portées au bulletin n° 2 de leur casier judiciaire ou dans les traitements automatisés de données personnelles mentionnés à l'article 21 de la loi n° 2003-239 du 18 mars 2003 pour la sécurité intérieure ;
+1° Les personnes dont le comportement est incompatible avec l'exercice de ces fonctions, en particulier si elles ne remplissent pas les conditions de moralité et d'honorabilité requises, au vu notamment des mentions portées au bulletin n° 2 de leur casier judiciaire ou dans les traitements automatisés de données personnelles mentionnés à l'article 230-6 ;
 
 2° Les personnes qui ne remplissent pas les conditions d'aptitude technique, fixées par décret en Conseil d'Etat, qui sont exigées pour l'exercice de leurs fonctions ;
 

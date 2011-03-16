@@ -10,6 +10,8 @@ Le procureur de la République, tant que l'action publique n'a pas été mise en
 
 4° Remettre au greffe du tribunal de grande instance son permis de conduire, pour une période maximale de six mois ;
 
+4° bis Suivre un programme de réhabilitation et de sensibilisation comportant l'installation à ses frais d'un éthylotest anti-démarreur sur son véhicule, pour une période minimale de six mois et maximale de trois ans ;
+
 5° Remettre au greffe du tribunal de grande instance son permis de chasser, pour une période maximale de six mois ;
 
 6° Accomplir au profit de la collectivité, notamment au sein d'une personne morale de droit public ou d'une personne morale de droit privé chargée d'une mission de service public ou d'une association habilitées, un travail non rémunéré pour une durée maximale de soixante heures, dans un délai qui ne peut être supérieur à six mois ;

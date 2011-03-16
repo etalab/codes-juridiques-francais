@@ -12,7 +12,7 @@ Le directeur ou la directrice de l'établissement d'enseignement saisit l'inspec
 
 L'inspecteur d'académie saisit sans délai le président du conseil général du cas des enfants pour lesquels un avertissement est intervenu en vue de la mise en place d'un contrat de responsabilité parentale ou de toute autre mesure d'accompagnement que le président du conseil général pourrait proposer aux familles en application de l'article L. 222-4-1 du code de l'action sociale et des familles.
 
-Il communique trimestriellement au maire la liste des élèves domiciliés dans la commune pour lesquels un avertissement tel que défini au présent article a été notifié.
+Il communique au maire la liste des élèves domiciliés dans la commune pour lesquels un avertissement tel que défini au présent article a été notifié.
 
 Les informations communiquées au maire en application du présent article sont enregistrées dans le traitement prévu à l'article L. 131-6.
 

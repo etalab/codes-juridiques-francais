@@ -16,4 +16,6 @@ Les infractions aux interdictions du travail dissimulé prévues à l'article L.
 
 7° Les fonctionnaires des corps techniques de l'aviation civile commissionnés à cet effet et assermentés ;
 
-8° Les fonctionnaires ou agents de l'Etat chargés du contrôle des transports terrestres.
+8° Les fonctionnaires ou agents de l'Etat chargés du contrôle des transports terrestres ;
+
+9° Les agents de l'institution mentionnée à l'article L. 5312-1 chargés de la prévention des fraudes, agréés et assermentés à cet effet.

@@ -17,6 +17,8 @@
 - [Article L332-14](article-l332-14.md)
 - [Article L332-15](article-l332-15.md)
 - [Article L332-16](article-l332-16.md)
+- [Article L332-16-1](article-l332-16-1.md)
+- [Article L332-16-2](article-l332-16-2.md)
 - [Article L332-17](article-l332-17.md)
 - [Article L332-18](article-l332-18.md)
 - [Article L332-19](article-l332-19.md)

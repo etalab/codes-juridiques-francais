@@ -8,4 +8,6 @@ Lorsqu'il est fait application des dispositions de l'article L. 235-2, les dispo
 
 Il en est de même s'il existe une ou plusieurs raisons plausibles de soupçonner que le conducteur ou l'accompagnateur de l'élève conducteur a fait usage de stupéfiants ou lorsque le conducteur ou l'accompagnateur refuse de se soumettre aux épreuves de vérification prévues par l'article L. 235-2.
 
-Lorsque le dépassement de 40 km/h ou plus de la vitesse maximale autorisée est établi au moyen d'un appareil homologué et lorsque le véhicule est intercepté, les dispositions du présent article sont applicables au conducteur.
+Lorsque le dépassement de 40 km/ h ou plus de la vitesse maximale autorisée est établi au moyen d'un appareil homologué et lorsque le véhicule est intercepté, les dispositions du présent article sont applicables au conducteur. Dans ce cas, les agents de police judiciaire adjoints mentionnés à l'article 21 du code de procédure pénale sont habilités à retenir à titre conservatoire le permis de conduire du conducteur.
+
+En cas d'accident de la circulation ayant entraîné la mort d'une personne, les officiers et agents de police judiciaire retiennent également à titre conservatoire le permis de conduire du conducteur à l'égard duquel il existe une ou plusieurs raisons plausibles de le soupçonner d'avoir commis une infraction en matière de respect des vitesses maximales autorisées ou des règles de croisement, de dépassement, d'intersection et de priorités de passage.

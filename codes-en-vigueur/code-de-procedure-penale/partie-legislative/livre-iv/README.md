@@ -5,6 +5,7 @@
 - [Titre II : Du faux](titre-ii)
 - [Titre III : De la manière de procéder en cas de disparition des pièces d'une procédure](titre-iii)
 - [Titre IV : De la manière dont sont reçues les dépositions des membres du Gouvernement et celles des représentants des puissances étrangères](titre-iv)
+- [Titre IV bis : De la manière dont sont reçues les dépositions des personnels des services spécialisés de renseignement](titre-iv-bis)
 - [Titre V : Des règlements de juges](titre-v)
 - [Titre VI : Des renvois d'un tribunal à un autre](titre-vi)
 - [Titre VII : De la récusation](titre-vii)

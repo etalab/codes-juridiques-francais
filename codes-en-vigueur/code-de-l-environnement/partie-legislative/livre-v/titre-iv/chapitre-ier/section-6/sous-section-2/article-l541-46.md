@@ -42,18 +42,20 @@ i) De procéder à un mélange de déchets au cours du transfert en méconnaissa
 
 j) De ne pas déférer à une mise en demeure prise sur le fondement de l'article L. 541-42 ;
 
-12° Méconnaître les obligations d'information prévues à l'article L. 343-3 du code des ports maritimes ;
+12° Méconnaître les obligations d'information prévues à l'article L. 5334-9 du code des transports ;
 
 13° Ne pas respecter les prescriptions édictées en application de l'article 7 du règlement (CE) n° 850/2004 du Parlement européen et du Conseil, du 29 avril 2004, concernant les polluants organiques persistants et modifiant la directive 79/117/ CEE ;
 
 14° Ne pas respecter les interdictions édictées à l'article 1er du règlement (CE) n° 1102/2008 du Parlement européen et du Conseil du 22 octobre 2008 relatif à l'interdiction des exportations de mercure métallique et de certains composés et mélanges de mercure et au stockage en toute sécurité de cette substance.
 
-II.-En cas de condamnation prononcée pour les infractions visées aux 4°,6° et 8° du I, le tribunal peut ordonner, sous astreinte, la remise en état des lieux endommagés par les déchets qui n'ont pas été traités dans les conditions conformes à la loi.
+II.-En cas de condamnation prononcée pour les infractions visées aux 4°, 6° et 8° du I, le tribunal peut ordonner, sous astreinte, la remise en état des lieux endommagés par les déchets qui n'ont pas été traités dans les conditions conformes à la loi.
 
 III.-En cas de condamnation prononcée pour les infractions visées aux 7° et 8° du I, le tribunal peut, en outre, ordonner la fermeture temporaire ou définitive de l'installation et interdire à son exploitant d'exercer l'activité d'éliminateur ou de récupérateur.
 
-IV.-En cas de condamnation prononcée pour les infractions visées aux 6°,7°,8° et 11° du I et commises à l'aide d'un véhicule, le tribunal peut, de plus, ordonner la suspension du permis de conduire pour une durée n'excédant pas cinq ans.
+IV.-En cas de condamnation prononcée pour les infractions visées aux 6°, 7°, 8° et 11° du I et commises à l'aide d'un véhicule, le tribunal peut, de plus, ordonner la suspension du permis de conduire pour une durée n'excédant pas cinq ans.
 
 V.-En cas de condamnation prononcée pour les infractions mentionnées au 11° du I, le tribunal peut, en outre, ordonner l'interdiction, suivant les modalités prévues par l'article 131-27 du code pénal, d'intervenir dans un transfert transfrontalier de déchets à titre de notifiant ou de personne responsable d'un transfert au sens du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets.
 
 VI.-Le tribunal peut ordonner l'affichage ou la diffusion intégrale ou partielle de la décision prononcée dans les conditions prévues par l'article 131-35 du code pénal.
+
+VII.-La peine mentionnée au I est portée à sept ans d'emprisonnement et à 150 000 € d'amende lorsque l'infraction est commise en bande organisée, au sens de l'article 132-71 du code pénal.

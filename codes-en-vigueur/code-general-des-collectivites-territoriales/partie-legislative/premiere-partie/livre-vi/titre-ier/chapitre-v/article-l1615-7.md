@@ -10,8 +10,6 @@ b) Le bien est confié à un tiers en vue de l'exercice, par ce dernier, d'une m
 
 c) Le bien est confié à titre gratuit à l'Etat.
 
-Constituent également des opérations ouvrant droit à une attribution du Fonds de compensation pour la taxe sur la valeur ajoutée les constructions mises en chantier, acquises à l'état neuf ou ayant fait l'objet d'une rénovation, mentionnées à l'article L. 1311-4-1, pour lesquelles les travaux ont reçu un commencement d'exécution au plus tard le 31 décembre 2007 et qui sont mises à disposition de l'Etat à titre gratuit.
-
 Les communes et les établissements publics de coopération intercommunale bénéficient des attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au titre des dépenses d'investissement exposées sur leurs immobilisations affectées à l'usage d'alpage.
 
 Les collectivités territoriales et leurs groupements bénéficient des attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au titre de leurs dépenses d'investissement réalisées sur la période 2003-2014, sous maîtrise d'ouvrage publique, en matière d'infrastructures passives intégrant leur patrimoine dans le cadre du plan d'action relatif à l'extension de la couverture du territoire par les réseaux de téléphonie mobile et d'accès à internet.

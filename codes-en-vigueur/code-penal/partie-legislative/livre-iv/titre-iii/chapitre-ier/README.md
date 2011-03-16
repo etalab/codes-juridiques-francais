@@ -6,3 +6,4 @@
 - [Section 4 : Des groupes de combat et des mouvements dissous.](section-4)
 - [Section 5 : De l'intrusion dans un établissement   d'enseignement scolaire](section-5)
 - [Section 6 : De l'introduction d'armes dans un établissement scolaire](section-6)
+- [Section 7 : De la distribution d'argent à des fins publicitaires sur la voie publique](section-7)

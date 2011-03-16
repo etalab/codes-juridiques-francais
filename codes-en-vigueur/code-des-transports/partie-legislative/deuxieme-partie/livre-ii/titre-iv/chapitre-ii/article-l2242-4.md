@@ -16,4 +16,6 @@ Est puni de six mois d'emprisonnement et de 3 750 € d'amende le fait pour tout
 
 7° De laisser subsister, après une mise en demeure de les supprimer faite par l'autorité administrative compétente de l'Etat, toutes installations lumineuses et notamment toute publicité lumineuse au moyen d'affiches, enseignes ou panneaux lumineux ou réfléchissants, lorsqu'elles sont de nature à créer un danger pour la circulation des convois en raison de la gêne qu'elles apportent pour l'observation des signaux par les agents du chemin de fer ;
 
-8° De faire usage du signal d'alarme ou d'arrêt mis à la disposition des voyageurs de manière illégitime et dans l'intention de troubler ou d'entraver la mise en marche ou la circulation des trains.
+8° De faire usage du signal d'alarme ou d'arrêt mis à la disposition des voyageurs de manière illégitime et dans l'intention de troubler ou d'entraver la mise en marche ou la circulation des trains ;
+
+9° De pénétrer sans autorisation dans les espaces affectés à la conduite des trains.

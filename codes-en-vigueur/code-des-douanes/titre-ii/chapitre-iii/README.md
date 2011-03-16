@@ -11,4 +11,5 @@
 - [Article 59 ter](article-59-ter.md)
 - [Article 59 quater](article-59-quater.md)
 - [Article 59 quinquies](article-59-quinquies.md)
+- [Article 59 sexies](article-59-sexies.md)
 - [Article 59 septies](article-59-septies.md)

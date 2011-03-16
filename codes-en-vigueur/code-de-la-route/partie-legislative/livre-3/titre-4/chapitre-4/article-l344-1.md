@@ -42,6 +42,8 @@ Les articles L. 325-1, L. 325-1-1, L. 325-2 et L. 325-6 à L. 325-11 sont applic
 
 "Lorsque le produit de la vente est inférieur au montant des frais visés ci-dessus, le propriétaire ou ses ayants droit restent débiteurs de la différence. Celle-ci est recouvrée dans les conditions fixées par délibération du congrès de la Nouvelle-Calédonie.
 
+Le présent article est applicable au créancier gagiste en cas de confiscation du véhicule qui a servi pour commettre une infraction.
+
 "Art. L. 325-10 - La collectivité publique intéressée n'est pas responsable des dommages subis par les véhicules visés au quatrième alinéa de l'article L. 325-7, placés dans une fourrière non clôturée et non gardée.
 
 "Art. L. 325-11 - Un décret en Conseil d'Etat détermine les conditions d'application des articles L. 325-1, L. 325-1-1, L. 325-2 et L. 325-6 à L. 325-9.
