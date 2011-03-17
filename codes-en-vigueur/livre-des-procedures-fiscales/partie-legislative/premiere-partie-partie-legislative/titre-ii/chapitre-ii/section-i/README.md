@@ -25,3 +25,4 @@
 - [6° bis : Personnes versant des revenus de capitaux  mobiliers](6-bis)
 - [5° ter : Etablissements de jeux](5-ter)
 - [6° ter : Artisans](6-ter)
+- [25° Fabricants et marchands de métaux précieux](25-fabricants-et)
