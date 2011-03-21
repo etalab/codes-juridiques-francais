@@ -1,4 +1,4 @@
-# Section 2 : Du périmètre de référence et des interdictions destinées à protéger les marchés d'intérêt national
+# Section 2 : Du périmètre de référence et de l'autorisation d'installation dans ce périmètre
 
 - [Sous-section 1 : Du périmètre de référence.](sous-section-1)
-- [Sous-section 2 : Des interdictions destinées à protéger les marchés d'intérêt national.](sous-section-2)
+- [Sous-section 2 : De l'autorisation d'installation dans un périmètre de référence](sous-section-2)
