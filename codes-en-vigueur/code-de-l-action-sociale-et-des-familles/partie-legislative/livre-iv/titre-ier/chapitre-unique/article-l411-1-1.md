@@ -1,6 +1,6 @@
 # Article L411-1-1
 
-L'assistant de service social, ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui est établi et exerce légalement les activités d'assistant de service social dans l'un de ces Etats, peut les exercer en France, de manière temporaire et occasionnelle, sans avoir à procéder aux formalités prévues à l'article L. 411-2.
+L'assistant de service social, ressortissant d'un Etat membre de l'Unioneuropéenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui est établi et exerce légalement les activités d'assistant de service social dans l'un de ces Etats, peut les exercer en France, de manière temporaire et occasionnelle, sans avoir à procéder aux formalités prévues à l'article L. 411-2.
 
 Lorsque l'exercice ou la formation conduisant à la profession n'est pas réglementé dans l'Etat où il est établi, le prestataire de services doit justifier y avoir exercé pendant deux ans au moins au cours des dix années précédentes.
 

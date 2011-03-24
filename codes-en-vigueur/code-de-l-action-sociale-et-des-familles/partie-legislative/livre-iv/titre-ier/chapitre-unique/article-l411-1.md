@@ -2,11 +2,11 @@
 
 Peuvent porter le titre professionnel ou occuper un emploi d'assistant de service social les titulaires du diplôme d'Etat français d'assistant de service social.
 
-Peuvent également être autorisés à porter le titre ou occuper un emploi d'assistant de service social les ressortissants d'un Etat membre de la Communauté européenne d'un autre Etat partie à l'accord sur l'Espace économique européen, à une convention internationale ou un arrangement en matière de reconnaissance mutuelle des qualifications professionnelles qui ne possèdent pas le diplôme mentionné au premier alinéa mais qui, après avoir suivi avec succès un cycle d'études postsecondaires, sont titulaires :
+Peuvent également être autorisés à porter le titre ou occuper un emploi d'assistant de service social les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, à une convention internationale ou un arrangement en matière de reconnaissance mutuelle des qualifications professionnelles qui ne possèdent pas le diplôme mentionné au premier alinéa mais qui, après avoir suivi avec succès un cycle d'études postsecondaires, sont titulaires :
 
 1° D'un titre de formation délivré par l'autorité compétente d'un Etat, membre ou partie, et qui est requis pour accéder à la profession d'assistant de service social ou pour l'exercer dans cet Etat ;
 
-2° Ou d'un titre de formation délivré par l'autorité compétente d'un Etat, membre ou partie, qui ne réglemente pas l'accès à la profession d'assistant de service social ou son exercice et attestant de la préparation du titulaire à l'exercice de cette profession, si l'intéressé justifie avoir exercé pendant deux ans à temps plein au cours des dix dernières années dans un Etat, membre ou partie ;
+2° Ou d'un titre de formation délivré par l'autorité compétente d'un Etat, membre ou partie, qui ne réglemente pas l'accès à la profession d'assistant de service social ou son exercice et attestant de la préparation du titulaire à l'exercice de cette profession, si l'intéressé justifie avoir exercé pendant deux ans à temps plein au cours des dix dernières années dans un Etat, membre ou partie ;  cette justification n'est pas requise lorsque la formation conduisant à cette profession est réglementée dans l'Etat membre ou partie dans lequel elle a été validée ;
 
 3° Ou d'un titre de formation délivré par un Etat tiers, accompagné d'une attestation de l'autorité compétente de l'Etat membre ou partie qui a reconnu ce titre certifiant que l'intéressé a exercé légalement la profession d'assistant de service social dans cet Etat pendant au moins trois ans à temps plein ;
 
