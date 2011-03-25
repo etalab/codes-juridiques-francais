@@ -9,3 +9,4 @@
 - [Section 7 : Dispositions particulières aux organisations de producteurs dans le secteur de la reproduction animale](section-7)
 - [Section 8 : Dispositions particulières aux organisations de producteurs dans le secteur forestier](section-8)
 - [Section 9 : Dispositions particulières aux organisations de producteurs dans le secteur de l'élevage équin](section-9)
+- [Section 10 : Dispositions particulières aux organisations de producteurs dans le secteur de la banane](section-10)
