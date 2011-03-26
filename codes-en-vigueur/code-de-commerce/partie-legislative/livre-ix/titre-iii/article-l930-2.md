@@ -12,4 +12,6 @@ Pour l'application du présent code dans le territoire, les termes énumérés c
 
 5° " Département " ou " arrondissement " par " Nouvelle-Calédonie " ou par " province " ;
 
-6° " Préfet " ou " sous-préfet " par " représentant de l'Etat en Nouvelle-Calédonie ".
+6° " Préfet " ou " sous-préfet " par " représentant de l'Etat en Nouvelle-Calédonie " ;
+
+7° " Bureau des hypothèques " par " service de la conservation des hypothèques ".
