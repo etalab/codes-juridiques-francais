@@ -4,7 +4,7 @@ La direction de l'enseignement militaire supérieur comprend :
 
 1° Le centre des hautes études militaires ;
 
-2° Le collège interarmées de défense ;
+2° L'Ecole de guerre ;
 
 3° Le centre de documentation de l'Ecole militaire.
 
