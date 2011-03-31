@@ -1,3 +1,9 @@
 # Article L3511-2
 
-Les dispositions législatives postérieures à la loi n° 2001-616 du 11 juillet 2001 relative à Mayotte, qui modifient les dispositions des livres Ier à IV de la troisième partie du présent code qui sont déclarées applicables à la collectivité départementale de Mayotte par le présent livre, sont applicables de plein droit à cette collectivité sous réserve des dispositions du 1° de l'article  L. 3571-3 .
+<div id="LEGIARTI000023260577_corps">
+<p>Pour l'application à Mayotte de la troisième partie du présent code :</p>
+<p>1° La référence au département ou au département d'outre-mer est remplacée  par la référence au Département de Mayotte ;</p>
+<p>2° La référence au conseil régional est remplacée par la référence au conseil  général ;</p>
+<p>3° La référence au conseil économique, social et environnemental régional est  remplacée par la référence au conseil économique, social et environnemental.  </p>
+<br/>
+</div>

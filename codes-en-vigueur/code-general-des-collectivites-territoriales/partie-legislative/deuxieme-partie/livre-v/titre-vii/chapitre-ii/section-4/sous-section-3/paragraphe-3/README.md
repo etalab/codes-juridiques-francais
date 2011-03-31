@@ -2,6 +2,5 @@
 
 - [Article L2572-60](article-l2572-60.md)
 - [Article L2572-61](article-l2572-61.md)
-- [Article L2572-61-1](article-l2572-61-1.md)
 - [Article L2572-62](article-l2572-62.md)
 - [Article L2572-63](article-l2572-63.md)

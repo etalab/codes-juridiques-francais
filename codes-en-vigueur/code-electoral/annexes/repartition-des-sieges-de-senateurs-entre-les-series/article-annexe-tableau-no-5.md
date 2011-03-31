@@ -417,22 +417,20 @@ III. - A compter du renouvellement partiel de 2011, le tableau précité est ain
 </tr>
 <tr>
 <td width="101">
-<p>Guadeloupe, Martinique, La Réunion</p>
+<p>Guadeloupe, Martinique, Mayotte, La Réunion</p>
 </td>
 <td width="100">
-<p align="center">9</p>
+<p align="center">11</p>
 </td>
 <td width="101"/>
-<td width="100">
-<br/>
-</td>
+<td width="100"/>
 </tr>
 <tr>
 <td width="101">
 <br/>
 </td>
 <td width="100">
-<p align="center">159</p>
+<p align="center">161</p>
 </td>
 <td width="101"/>
 <td width="100">
@@ -445,11 +443,9 @@ III. - A compter du renouvellement partiel de 2011, le tableau précité est ain
 </td>
 </tr>
 <tr>
-<td width="101">
-<p>Mayotte</p>
-</td>
+<td width="101"/>
 <td width="100">
-<p align="center">2</p>
+<br/>
 </td>
 <td width="101">
 <p>Polynésie française</p>

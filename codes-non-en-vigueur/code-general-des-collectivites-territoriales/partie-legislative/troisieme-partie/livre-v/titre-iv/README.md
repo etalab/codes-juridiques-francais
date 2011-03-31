@@ -1,5 +1,5 @@
-# TITRE IV : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS DE LA COLLECTIVITÉ DÉPARTEMENTALE
+# TITRE IV : FINANCES DE LA COLLECTIVITÉ
 
-- [CHAPITRE Ier : Publicité et entrée en vigueur](chapitre-ier)
-- [CHAPITRE II : Contrôle de légalité](chapitre-ii)
-- [CHAPITRE III : Exercice par un contribuable des actions appartenant à la collectivité départementale](chapitre-iii)
+- [CHAPITRE Ier : Budgets et comptes](chapitre-ier)
+- [CHAPITRE II : Dépenses](chapitre-ii)
+- [CHAPITRE III : Recettes](chapitre-iii)

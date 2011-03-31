@@ -28,7 +28,7 @@ g) Le président du gouvernement de la Nouvelle-Calédonie et, quand il agit dan
 
 h) Le président de la Polynésie française et, quand ils agissent dans le cadre des dispositions de l'article 67 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française, le vice-président et les ministres ;
 
-i) Le président du conseil général de Mayotte et, quand ils agissent dans le cadre des dispositions de l'article LO 6162-9 du code général des collectivités territoriales, les vice-présidents et autres membres du conseil général ;
+i) Le président du conseil général de Mayotte et, quand ils agissent dans le cadre des dispositions des articles L. 3221-3 et L. 3221-7 du code général des collectivités territoriales, les vice-présidents et autres membres du conseil général ;
 
 j) Le président du conseil territorial de Saint-Barthélemy et, quand ils agissent dans le cadre des dispositions de l'article LO 6252-3 du même code, les vice-présidents et autres membres du conseil exécutif ;
 

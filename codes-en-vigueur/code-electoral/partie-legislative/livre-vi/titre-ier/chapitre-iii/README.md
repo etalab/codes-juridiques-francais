@@ -1,9 +1,7 @@
 # Chapitre III : Dispositions applicables à l'élection des conseillers généraux
 
-- [Article L460](article-l460.md)
 - [Article L462](article-l462.md)
 - [Article L463](article-l463.md)
-- [Article L464](article-l464.md)
 - [Article LO456](article-lo456.md)
 - [Article LO457](article-lo457.md)
 - [Article LO458](article-lo458.md)
