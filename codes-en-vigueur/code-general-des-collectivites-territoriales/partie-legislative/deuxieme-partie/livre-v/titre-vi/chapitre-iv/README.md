@@ -6,5 +6,3 @@
 - [Section 4 :  Finances communales](section-4)
 - [Section 5 : Intérêts propres à certaines catégories d'habitants](section-5)
 - [Section 6 : Dispositions diverses](section-6)
-- [Article L2564-1](article-l2564-1.md)
-- [Article L2565-1](article-l2565-1.md)

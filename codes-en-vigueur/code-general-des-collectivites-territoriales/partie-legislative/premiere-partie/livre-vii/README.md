@@ -1,3 +1,0 @@
-# LIVRE VII : DISPOSITIONS APPLICABLES À MAYOTTE
-
-- [Article L1711-1](article-l1711-1.md)
