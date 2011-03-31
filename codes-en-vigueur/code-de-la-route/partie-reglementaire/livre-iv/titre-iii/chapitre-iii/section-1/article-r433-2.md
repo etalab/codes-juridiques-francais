@@ -5,3 +5,5 @@ L'autorisation prévue à l'article R. 433-1 est délivrée par arrêté du pré
 Le préfet peut délivrer des autorisations valables pour plusieurs voyages. Il peut également délivrer des autorisations individuelles permanentes valables pour une durée déterminée qui ne peut excéder cinq ans.
 
 L'arrêté du préfet portant autorisation de transport exceptionnel mentionne les mesures à prendre pour faciliter la circulation publique, préserver la sécurité et empêcher tout dommage aux routes, aux ouvrages d'art et aux dépendances du domaine public et, le cas échéant, l'itinéraire à suivre. S'il y a lieu, il est communiqué par le préfet du lieu de départ aux préfets des départements traversés afin de permettre à ces derniers de prendre toutes mesures de police nécessaires.
+
+Le fait pour tout usager de contrevenir aux indications des conducteurs de véhicules de guidage mentionnés à l'article R. 433-17 et mettant en œuvre les mesures de circulation précisées par l'arrêté du préfet autorisant le transport exceptionnel est puni de l'amende prévue pour les contraventions de la quatrième classe.
