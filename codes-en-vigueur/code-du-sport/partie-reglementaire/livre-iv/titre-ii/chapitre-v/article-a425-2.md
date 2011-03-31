@@ -1,6 +1,6 @@
 # Article A425-2
 
-I. ― La commission territoriale du Centre national pour le développement du sport comprend de façon paritaire, outre son président, qui est le délégué territorial de l'établissement, membre de droit, ou son représentant :
+I. ― La commission territoriale du Centre national pour le développement du sport comprend de façon paritaire, outre le délégué territorial de l'établissement, membre de droit, ou son représentant :
 
 1° D'une part :
 
@@ -13,6 +13,8 @@ b) Deux agents de la direction de la jeunesse et des sports de la Nouvelle-Calé
 a) Le président du comité territorial olympique et sportif de la Nouvelle-Calédonie, membre de droit, ou son représentant ;
 
 b) Deux représentants du mouvement sportif désignés par le président du comité territorial olympique et sportif. L'un de ces représentants est issu d'une discipline olympique.
+
+La commission territoriale est coprésidée par le délégué territorial de l'établissement ou son représentant et par le président du comité territorial olympique et sportif de la Nouvelle-Calédonie ou son représentant.
 
 II. - Les membres de la commission territoriale autres que les membres de droit sont nommés par le délégué territorial de l'établissement. Pour chacun de ces membres, un suppléant est désigné dans les mêmes conditions.
 
