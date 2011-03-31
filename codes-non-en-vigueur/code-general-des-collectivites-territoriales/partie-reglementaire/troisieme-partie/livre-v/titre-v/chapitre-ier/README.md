@@ -1,4 +1,3 @@
-# CHAPITRE Ier : Compétences du conseil général
+# CHAPITRE Ier : Dispositions générales
 
 - [Section 1 : Compétences générales](section-1)
-- [Section 2 : Autres compétences](section-2)

@@ -1,3 +1,0 @@
-# TITRE VII : DISPOSITIONS DIVERSES
-
-- [CHAPITRE UNIQUE](chapitre-unique)
