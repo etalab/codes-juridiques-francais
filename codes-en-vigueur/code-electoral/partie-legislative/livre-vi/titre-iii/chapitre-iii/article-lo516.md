@@ -1,6 +1,6 @@
 # Article LO516
 
-I. - Sont inéligibles au conseil territorial :
+I.-Sont inéligibles au conseil territorial :
 
 1° Pendant un an à compter de la décision juridictionnelle constatant l'inéligibilité, le président du conseil territorial et les membres de celui-ci qui n'ont pas déposé l'une des déclarations prévues par le titre Ier de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique ;
 
@@ -12,9 +12,9 @@ I. - Sont inéligibles au conseil territorial :
 
 5° Pendant un an à compter de la décision devenue définitive du juge administratif prononçant sa démission d'office, le membre du conseil territorial qui a refusé, sans excuse valable, d'exercer les fonctions qui lui sont dévolues par la loi, conformément à l'article LO 6321-3 du code général des collectivités territoriales ;
 
-6° Le Médiateur de la République et le Défenseur des enfants, sauf s'ils exerçaient le même mandat antérieurement à leur nomination.
+6° Le Défenseur des droits (1).
 
-II. - En outre, ne peuvent être élus membres du conseil territorial s'ils exercent leurs fonctions à Saint-Martin ou s'ils les ont exercées depuis moins de six mois :
+II.-En outre, ne peuvent être élus membres du conseil territorial s'ils exercent leurs fonctions à Saint-Martin ou s'ils les ont exercées depuis moins de six mois :
 
 1° Les magistrats des juridictions administratives et des juridictions judiciaires ; les juges de proximité ; le secrétaire général de la chambre territoriale des comptes ;
 
@@ -32,4 +32,4 @@ II. - En outre, ne peuvent être élus membres du conseil territorial s'ils exer
 
 8° Les directeurs et directeurs généraux des hôpitaux publics ; le directeur, les directeurs adjoints et le secrétaire général de l'agence régionale de l'hospitalisation ; les directeurs des organismes régionaux et locaux de la sécurité sociale ; les directeurs des caisses primaires et des caisses régionales de sécurité sociale.
 
-III. - Les agents salariés de la collectivité ne peuvent être élus au conseil territorial. Ne sont pas compris dans cette catégorie ceux qui, étant fonctionnaires ou exerçant une profession indépendante, ne reçoivent une indemnité de la collectivité qu'à raison des services qu'ils lui rendent dans l'exercice de cette profession et ceux qui ne sont agents salariés de la collectivité qu'au titre d'une activité saisonnière ou occasionnelle.
+III.-Les agents salariés de la collectivité ne peuvent être élus au conseil territorial. Ne sont pas compris dans cette catégorie ceux qui, étant fonctionnaires ou exerçant une profession indépendante, ne reçoivent une indemnité de la collectivité qu'à raison des services qu'ils lui rendent dans l'exercice de cette profession et ceux qui ne sont agents salariés de la collectivité qu'au titre d'une activité saisonnière ou occasionnelle.
