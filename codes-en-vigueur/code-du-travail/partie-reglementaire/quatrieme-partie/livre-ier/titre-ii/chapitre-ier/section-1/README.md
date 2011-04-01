@@ -1,7 +1,5 @@
-# Chapitre Ier : Obligations de l'employeur
+# Section 1 : Document unique d'évaluation des risques
 
-- [Section 1 : Document unique d'évaluation des risques](section-1)
-- [Section 2 : Pénibilité](section-2)
 - [Article R4121-1](article-r4121-1.md)
 - [Article R4121-2](article-r4121-2.md)
 - [Article R4121-3](article-r4121-3.md)
