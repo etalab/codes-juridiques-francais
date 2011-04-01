@@ -1,4 +1,4 @@
-# Article R717-84
+# Article R717-76-1
 
 Le temps passé par les membres salariés aux réunions de la commission paritaire d'hygiène, de sécurité et des conditions et de travail est de plein droit considéré comme temps de travail, et rémunéré comme tel. Les intéressés bénéficient d'une autorisation d'absence rémunérée pour exercer leurs fonctions, dans la limite de quatre heures par mois.
 

@@ -1,4 +1,4 @@
-# Article R717-83
+# Article R717-76
 
 Des commissions paritaires d'hygiène, de sécurité et des conditions de travail en agriculture sont instituées dans chaque département. Elles sont chargées de promouvoir la formation à la sécurité, de contribuer à l'amélioration des conditions d'hygiène et de sécurité et à l'évaluation des risques pour la sécurité et la santé des travailleurs des exploitations et entreprises agricoles énumérées aux 1°,2°,3° et 4° de l'article L. 722-1 et qui sont dépourvues de comité d'hygiène, de sécurité et des conditions de travail ou de délégués du personnel.
 
