@@ -8,12 +8,4 @@ Pour l'application à Mayotte de ces dispositions :
 
 - les mots : "établissements ou services d'utilité agricole" sont remplacés par les mots : "service d'utilité agricole, halieutique ou aquacole" ;
 
-- les mots : "commissaire de la République" sont remplacés par les mots : "représentant de l'Etat à Mayotte" ;
-
-- les mots : "trésorier-payeur général du département" sont remplacés par les mots : "trésorier-payeur général de Mayotte" ;
-
-- le mot : "département" est remplacé par les mots : "collectivité départementale de Mayotte" ;
-
-- les mots : "tribunal d'instance" sont remplacés par les mots :
-
-"tribunal de première instance".
+- les mots : "commissaire de la République" sont remplacés par les mots : "représentant de l'Etat à Mayotte".

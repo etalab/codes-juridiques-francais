@@ -1,8 +1,6 @@
 # Article Annexe 9-2
 
-JURIDICTIONS COMPÉTENTES DANS LES COLLECTIVITÉS D'OUTRE-MER ET EN NOUVELLE-CALÉDONIE POUR CONNAÎTRE,
-
-EN APPLICATION DE L'ARTICLE L. 610-1, DES PROCÉDURES APPLICABLES AUX COMMERCANTS ET ARTISANS
+Juridictions compétentes dans les collectivités d'outre-mer et en Nouvelle-Calédonie pour connaître en application de l'article L. 610-1 ou de l'article L. 621-5 dans sa version applicable à la Polynésie française des procédures applicables aux commerçants et artisans
 
 <table>
 <thead>
@@ -19,17 +17,6 @@ EN APPLICATION DE L'ARTICLE L. 610-1, DES PROCÉDURES APPLICABLES AUX COMMERCANT
 </tr>
 </thead>
 <tbody>
-<tr>
-<td valign="top" width="227">
-<p align="left">Mayotte. </p>
-</td>
-<td valign="top" width="227">
-<p align="left">Tribunal de première instance de Mamoudzou. </p>
-</td>
-<td valign="top" width="227">
-<p align="left">La collectivité territoriale. </p>
-</td>
-</tr>
 <tr>
 <td valign="top" width="227">
 <p align="left">Saint-Pierre-et-Miquelon. </p>

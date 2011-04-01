@@ -1,12 +1,6 @@
 # Article Annexe Tableau XIV
 
-<div align="center">
-<br/>
-</div>
-
-Siège et ressort des tribunaux pour enfants
-
-(annexe de l'article D. 251-1)
+<div align="center">Siège et ressort des tribunaux pour enfants<br/>(annexe de l'article D. 251-1) </div>
 
 <table>
 <tbody>
@@ -25,7 +19,9 @@ Siège et ressort des tribunaux pour enfants
 <p align="center">Cour d'appel d'Agen </p>
 <p align="center">Gers </p>
 </td>
-<td/>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -63,16 +59,6 @@ Siège et ressort des tribunaux pour enfants
 </td>
 <td>
 <br/>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="left">[Agen </p>
-</td>
-<td>
-<br/>
-<p align="left">Ressort des tribunaux de grande instance d'Agen et Marmande. (3)] </p>
 </td>
 </tr>
 <tr>
@@ -297,16 +283,6 @@ Siège et ressort des tribunaux pour enfants
 </td>
 <td>
 <br/>
-<p align="left">Ressort des tribunaux de grande instance d'Abbeville, Amiens et Péronne. (3)] </p>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="left">[Amiens </p>
-</td>
-<td>
-<br/>
 <p align="left">Ressort du tribunal de grande instance d'Amiens. (4)] </p>
 </td>
 </tr>
@@ -318,16 +294,6 @@ Siège et ressort des tribunaux pour enfants
 </td>
 <td>
 <br/>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="left">[Angers </p>
-</td>
-<td>
-<br/>
-<p align="left">Ressort des tribunaux de grande instance d'Angers et Saumur. (3)] </p>
 </td>
 </tr>
 <tr>
@@ -493,16 +459,6 @@ Siège et ressort des tribunaux pour enfants
 </td>
 <td>
 <br/>
-<p align="left">Ressort des tribunaux de grande instance de Lure et Vesoul. (3)] </p>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="left">[Vesoul </p>
-</td>
-<td>
-<br/>
 <p align="left">Ressort du tribunal de grande instance de Vesoul. (4)] </p>
 </td>
 </tr>
@@ -513,16 +469,6 @@ Siège et ressort des tribunaux pour enfants
 </td>
 <td>
 <br/>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="left">[Lons-le-Saunier </p>
-</td>
-<td>
-<br/>
-<p align="left">Ressort des tribunaux de grande instance de Dole et Lons-le-Saunier. (3)] </p>
 </td>
 </tr>
 <tr>
@@ -727,16 +673,6 @@ Siège et ressort des tribunaux pour enfants
 <td>
 <br/>
 <p align="left">Ressort du tribunal de grande instance de Cherbourg-Octeville. </p>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="left">[Coutances </p>
-</td>
-<td>
-<br/>
-<p align="left">Ressort des tribunaux de grande instance d'Avranches et Coutances. (3)] </p>
 </td>
 </tr>
 <tr>
@@ -1001,16 +937,6 @@ Siège et ressort des tribunaux pour enfants
 </td>
 <td>
 <br/>
-<p align="left">Ressort des tribunaux de grande instance de Dunkerque et Hazebrouck. (3)] </p>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="left">[Dunkerque </p>
-</td>
-<td>
-<br/>
 <p align="left">Ressort du tribunal de grande instance de Dunkerque. (4)] </p>
 </td>
 </tr>
@@ -1226,16 +1152,6 @@ Siège et ressort des tribunaux pour enfants
 </td>
 <td>
 <br/>
-<p align="left">Ressort des tribunaux de grande instance de Brive-la-Gaillarde et Tulle. (3)] </p>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="left">[Brive-la-Gaillarde </p>
-</td>
-<td>
-<br/>
 <p align="left">Ressort du tribunal de grande instance de Brive-la-Gaillarde. (4)] </p>
 </td>
 </tr>
@@ -1294,16 +1210,6 @@ Siège et ressort des tribunaux pour enfants
 </td>
 <td>
 <br/>
-<p align="left">Ressort des tribunaux de grande instance de Belley et Bourg-en-Bresse. (3)] </p>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="left">[Bourg-en-Bresse </p>
-</td>
-<td>
-<br/>
 <p align="left">Ressort du tribunal de grande instance de Bourg-en-Bresse. (4)] </p>
 </td>
 </tr>
@@ -1324,16 +1230,6 @@ Siège et ressort des tribunaux pour enfants
 <td>
 <br/>
 <p align="left">Ressort du tribunal de grande instance de Roanne. </p>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="left">[Saint-Etienne </p>
-</td>
-<td>
-<br/>
-<p align="left">Ressort des tribunaux de grande instance de Montbrison et Saint-Etienne. (3)] </p>
 </td>
 </tr>
 <tr>
@@ -1461,16 +1357,6 @@ Siège et ressort des tribunaux pour enfants
 </td>
 <td>
 <br/>
-<p align="left">Ressort des tribunaux de grande instance de Millau et Rodez. (3)] </p>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="left">[Rodez </p>
-</td>
-<td>
-<br/>
 <p align="left">Ressort du tribunal de grande instance de Rodez. (4)] </p>
 </td>
 </tr>
@@ -1578,16 +1464,6 @@ Siège et ressort des tribunaux pour enfants
 </td>
 <td>
 <br/>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="left">[Epinal </p>
-</td>
-<td>
-<br/>
-<p align="left">Ressort des tribunaux de grande instance d'Epinal et Saint-Dié-des-Vosges. (3)] </p>
 </td>
 </tr>
 <tr>
@@ -2034,27 +1910,7 @@ Siège et ressort des tribunaux pour enfants
 </td>
 <td>
 <br/>
-<p align="left">Ressort du tribunal de grande instance de La Rochelle. (5)] </p>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="left">[La Rochelle </p>
-</td>
-<td>
-<br/>
 <p align="left">Ressort des tribunaux de grande instance de La Rochelle et Saintes. (4)] </p>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="left">[Rochefort </p>
-</td>
-<td>
-<br/>
-<p align="left">Ressort des tribunaux de grande instance de Rochefort et Saintes. (5)] </p>
 </td>
 </tr>
 <tr>
@@ -2080,16 +1936,6 @@ Siège et ressort des tribunaux pour enfants
 </td>
 <td>
 <br/>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="left">[Niort </p>
-</td>
-<td>
-<br/>
-<p align="left">Ressort des tribunaux de grande instance de Bressuire et Niort. (3)] </p>
 </td>
 </tr>
 <tr>
@@ -2221,26 +2067,6 @@ Siège et ressort des tribunaux pour enfants
 <tr>
 <td>
 <br/>
-<p align="left">[Guingamp </p>
-</td>
-<td>
-<br/>
-<p align="left">Ressort du tribunal de grande instance de Guingamp. (3)] </p>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="left">[Saint-Brieuc </p>
-</td>
-<td>
-<br/>
-<p align="left">Ressort des tribunaux de grande instance de Dinan et de Saint-Brieuc. (3)] </p>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
 <p align="left">[Saint-Brieuc </p>
 </td>
 <td>
@@ -2255,16 +2081,6 @@ Siège et ressort des tribunaux pour enfants
 </td>
 <td>
 <br/>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="left">[Brest </p>
-</td>
-<td>
-<br/>
-<p align="left">Ressort des tribunaux de grande instance de Brest et Morlaix. (3)] </p>
 </td>
 </tr>
 <tr>
@@ -2448,16 +2264,6 @@ Siège et ressort des tribunaux pour enfants
 </td>
 <td>
 <br/>
-<p align="left">Ressort des tribunaux de grande instance de Clermont-Ferrand et Riom. (3)] </p>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="left">[Clermont-Ferrand </p>
-</td>
-<td>
-<br/>
 <p align="left">Ressort du tribunal de grande instance de Clermont-Ferrand. (4)] </p>
 </td>
 </tr>
@@ -2469,16 +2275,6 @@ Siège et ressort des tribunaux pour enfants
 </td>
 <td>
 <br/>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="left">[Evreux </p>
-</td>
-<td>
-<br/>
-<p align="left">Ressort des tribunaux de grande instance de Bernay et Evreux. (3)] </p>
 </td>
 </tr>
 <tr>
@@ -2552,12 +2348,26 @@ Siège et ressort des tribunaux pour enfants
 </tr>
 <tr>
 <td>
-<br/>
 <p align="left">Saint-Pierre </p>
 </td>
 <td>
-<br/>
 <p align="left">Ressort du tribunal de grande instance de Saint-Pierre. </p>
+</td>
+</tr>
+<tr>
+<td>
+<div align="left">Mayotte </div>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Mamoudzou </p>
+</td>
+<td align="center">
+<p align="left">Ressort du tribunal de grande instance de Mamoudzou </p>
 </td>
 </tr>
 <tr>
@@ -2587,16 +2397,6 @@ Siège et ressort des tribunaux pour enfants
 </td>
 <td>
 <br/>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="left">[Toulouse </p>
-</td>
-<td>
-<br/>
-<p align="left">Ressort des tribunaux de grande instance de Saint-Gaudens et Toulouse. (3)] </p>
 </td>
 </tr>
 <tr>
@@ -2737,27 +2537,7 @@ Siège et ressort des tribunaux pour enfants
 <tr>
 <td>
 <br/>
-<p align="center">Tribunal supérieur d'appel de Mamoudzou </p>
-<p align="center">Mayotte </p>
-</td>
-<td>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="left">Mamoudzou </p>
-</td>
-<td>
-<br/>
-<p align="left">Ressort du tribunal de première instance de Mamoudzou. </p>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="center">Tribunal supérieur d'appel<br/>de Saint-Pierre </p>
+<p align="center">Tribunal supérieur d'appel de<br/>Saint-Pierre </p>
 <p align="center">Saint-Pierre-et-Miquelon </p>
 </td>
 <td>
@@ -2771,14 +2551,12 @@ Siège et ressort des tribunaux pour enfants
 </td>
 <td>
 <br/>
-<p align="left">Ressort du tribunal de première instance de Saint-Pierre. </p>
+<p align="left">Ressort du tribunal de grande instance de Saint-Pierre </p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p align="left">(3) Applicable jusqu'au 31 décembre 2010. </p>
 <p align="left">(4) Applicable à compter du 1er janvier 2011. </p>
-<p align="left">(5) Applicable jusqu'au 31 décembre 2010. </p>
 <p align="left">(6) Applicable à compter du 1er janvier 2011.</p>
 <p align="left">(11) Applicable jusqu'au 30 juin 2014.</p>
 <p align="left">(12) Applicable à compter du 1er juillet 2014.</p>
@@ -2786,3 +2564,7 @@ Siège et ressort des tribunaux pour enfants
 </tr>
 </tbody>
 </table>
+
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>

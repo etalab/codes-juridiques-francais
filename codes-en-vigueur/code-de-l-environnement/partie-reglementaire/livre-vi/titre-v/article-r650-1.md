@@ -14,7 +14,7 @@ I.-Pour l'application du présent code à la collectivité départementale de Ma
 
 " représentant de l'Etat en mer " ;
 
-6° La référence à la direction départementale de l'agriculture et de la forêt ou à la         direction régionale de l'alimentation, de l'agriculture et de la forêt est remplacée par la référence à la direction de l'agriculture et de la forêt ;
+6° La référence à la direction départementale de l'agriculture et de la forêt ou à la direction régionale de l'alimentation, de l'agriculture et de la forêt est remplacée par la référence à la direction de l'agriculture et de la forêt ;
 
 7° La référence à la direction départementale de l'équipement est remplacée par la référence à la direction de l'équipement ;
 
@@ -24,7 +24,7 @@ I.-Pour l'application du présent code à la collectivité départementale de Ma
 
 10° Les mots : " cour d'appel " sont remplacés par les mots :
 
-" tribunal supérieur d'appel " ;
+"chambre d'appel de Mamoudzou" ;
 
 11° La référence au conseil départemental de l'environnement, des risques sanitaires et technologiques est remplacée par la référence au conseil d'hygiène de Mayotte.
 

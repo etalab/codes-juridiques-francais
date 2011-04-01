@@ -1,6 +1,6 @@
 # Article Annexe 7-3
 
-Siège et ressort des tribunaux mixtes de commerce dans les départements d'outre-mer
+**Siège et ressort des tribunaux mixtes de commerce dans les départements d'outre-mer**
 
 <table>
 <tbody>
@@ -9,7 +9,7 @@ Siège et ressort des tribunaux mixtes de commerce dans les départements d'outr
 <p align="center">DÉPARTEMENT</p>
 </td>
 <td rowspan="2" width="124">
-<p align="center">TRIBUNAL<br/>de grande instance</p>
+<p align="center">TRIBUNAL de grande instance</p>
 </td>
 <td colspan="2" width="420">
 <p align="center">SIÈGE ET RESSORT DES TRIBUNAUX MIXTES DE COMMERCE</p>
@@ -32,27 +32,27 @@ Siège et ressort des tribunaux mixtes de commerce dans les départements d'outr
 </tr>
 <tr>
 <td rowspan="2" valign="top" width="139">
-<p align="left">Guadeloupe </p>
+<p>Guadeloupe </p>
 </td>
 <td valign="top" width="124">
-<p align="left">Basse-Terre </p>
+<p>Basse-Terre </p>
 </td>
 <td valign="top" width="195">
-<p align="left">Basse-Terre </p>
+<p>Basse-Terre </p>
 </td>
 <td valign="top" width="225">
-<p align="left">Ressort du tribunal de grande instance de Basse-Terre </p>
+<p>Ressort du tribunal de grande instance de Basse-Terre </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="124">
-<p align="left">Pointe-à-Pitre</p>
+<p>Pointe-à-Pitre</p>
 </td>
 <td valign="top" width="195">
-<p align="left">Pointe-à-Pitre</p>
+<p>Pointe-à-Pitre</p>
 </td>
 <td valign="top" width="225">
-<p align="left">Ressort du tribunal de grande instance de Pointe-à-Pitre </p>
+<p>Ressort du tribunal de grande instance de Pointe-à-Pitre </p>
 </td>
 </tr>
 <tr>
@@ -64,30 +64,30 @@ Siège et ressort des tribunaux mixtes de commerce dans les départements d'outr
 </tr>
 <tr>
 <td valign="top" width="139">
-<p align="left">Martinique </p>
+<p>Martinique </p>
 </td>
 <td valign="top" width="124">
-<p align="left">Fort-de-France </p>
+<p>Fort-de-France </p>
 </td>
 <td valign="top" width="195">
-<p align="left">Fort-de-France </p>
+<p>Fort-de-France </p>
 </td>
 <td valign="top" width="225">
-<p align="left">Ressort du tribunal de grande instance de Fort-de-France </p>
+<p>Ressort du tribunal de grande instance de Fort-de-France </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="139">
-<p align="left">Guyane </p>
+<p>Guyane </p>
 </td>
 <td valign="top" width="124">
-<p align="left">Cayenne </p>
+<p>Cayenne </p>
 </td>
 <td valign="top" width="195">
-<p align="left">Cayenne</p>
+<p>Cayenne</p>
 </td>
 <td valign="top" width="225">
-<p align="left">Ressort du tribunal de grande instance de Cayenne </p>
+<p>Ressort du tribunal de grande instance de Cayenne </p>
 </td>
 </tr>
 <tr>
@@ -99,16 +99,37 @@ Siège et ressort des tribunaux mixtes de commerce dans les départements d'outr
 </tr>
 <tr>
 <td valign="top" width="139">
-<p align="left">La Réunion </p>
+<p>Mayotte</p>
 </td>
 <td valign="top" width="124">
-<p align="left">Saint-Pierre</p>
+<p>Mamoudzou </p>
+<br/>
+<br/>
 </td>
 <td valign="top" width="195">
-<p align="left">Saint-Pierre</p>
+<p>Mamoudzou </p>
+<br/>
+<br/>
 </td>
-<td valign="top" width="225">
-<p align="left">Ressort du tribunal de grande instance de Saint-Pierre</p>
+<td valign="top" width="225">Ressort du tribunal de grande instance de Mamoudzou <br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td>La Réunion <br/>
+</td>
+<td>Saint-Denis  </td>
+<td>Saint-Denis  </td>
+<td>Ressort du tribunal de grande instance de Saint-Denis <br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td>Saint-Pierre <br/>
+</td>
+<td>Saint-Pierre <br/>
+</td>
+<td>Ressort du tribunal de grande instance de Saint-Pierre <br/>
 </td>
 </tr>
 </tbody>

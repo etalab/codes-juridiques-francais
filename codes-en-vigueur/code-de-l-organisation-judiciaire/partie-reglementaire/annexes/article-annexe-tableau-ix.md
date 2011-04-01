@@ -2268,14 +2268,14 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 </tr>
 <tr>
 <td width="300">
-<br/>Dax<br/>
+<p>Dax</p>
 </td>
 <td width="314">
 <p>Ressort du tribunal d'instance de Dax.</p>
 </td>
 </tr>
 <tr>
-<td>[Mont-de-Marsan <br/>
+<td>[Mont-de-Marsan  <br/>
 </td>
 <td>Ressort des tribunaux d'instance de Mont-de-Marsan et Saint-Sever. (7)]  <br/>
 </td>
@@ -2879,39 +2879,55 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 </tr>
 <tr>
 <td colspan="2" width="614">
-<p align="center">Réunion </p>
+<p align="center">Mayotte <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="300">Mamoudzou <br/>
+</td>
+<td width="314">
+<p>Ressort du tribunal d'instance de Mamoudzou <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Réunion</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Saint-Benoît <br/>
+</p>
+</td>
+<td>
+<p align="left">Ressort du tribunal d'instance de Saint-Benoît. <br/>
+</p>
 </td>
 </tr>
 <tr>
 <td width="300">
-<p>Saint-Benoît </p>
+<p align="left">Saint-Denis </p>
 </td>
 <td width="314">
-<p>Ressort du tribunal d'instance de Saint-Benoît. </p>
+<p align="left">Ressort du tribunal d'instance de Saint-Denis. </p>
 </td>
 </tr>
 <tr>
 <td width="300">
-<p>Saint-Denis </p>
+<p align="left">Saint-Paul </p>
 </td>
 <td width="314">
-<p>Ressort du tribunal d'instance de Saint-Denis. </p>
+<p align="left">Ressort du tribunal d'instance de Saint-Paul. </p>
 </td>
 </tr>
 <tr>
 <td width="300">
-<p>Saint-Paul </p>
+<p align="left">Saint-Pierre </p>
 </td>
 <td width="314">
-<p>Ressort du tribunal d'instance de Saint-Paul. </p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>Saint-Pierre </p>
-</td>
-<td width="314">
-<p>Ressort du tribunal d'instance de Saint-Pierre. </p>
+<p align="left">Ressort du tribunal d'instance de Saint-Pierre. </p>
 </td>
 </tr>
 <tr>
@@ -3224,28 +3240,10 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 </tr>
 <tr>
 <td width="300">
-<p>Saint-Pierre </p>
+<p align="left">Saint-Pierre </p>
 </td>
 <td width="314">
-<p>Ressort du tribunal de Première instance de Saint-Pierre. </p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="614">
-<p align="center">Tribunal supérieur d'appel de Mamoudzou </p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="614">
-<p align="center">Mayotte </p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p align="left">Mamoudzou </p>
-</td>
-<td width="314">
-<p align="left">Ressort du tribunal de Première instance de Mamoudzou. </p>
+<p align="left">Ressort du tribunal de Première instance de Saint-Pierre. </p>
 </td>
 </tr>
 <tr>

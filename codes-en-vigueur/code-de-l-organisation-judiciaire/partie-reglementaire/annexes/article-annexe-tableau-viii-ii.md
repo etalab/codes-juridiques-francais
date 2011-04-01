@@ -7,12 +7,12 @@ Siège et ressort des tribunaux de grande instance et des tribunaux de première
 <tr>
 <td>
 <p align="center">
-<font size="1">SIÈGE </font>
+<font size="1">SIÈGE</font>
 </p>
 </td>
 <td>
 <p align="center">
-<font size="1">RESSORT </font>
+<font size="1">RESSORT</font>
 </p>
 </td>
 </tr>
@@ -145,18 +145,6 @@ Siège et ressort des tribunaux de grande instance et des tribunaux de première
 <td align="center">
 <p align="left">
 <br/>Ressort du tribunal supérieur d'appel de Saint-Pierre. <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Mamoudzou <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>Ressort du tribunal supérieur d'appel de Mamoudzou.<br/>
 </p>
 </td>
 </tr>

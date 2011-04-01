@@ -9,7 +9,7 @@ Siège et ressort des cours d'appel mentionnées à l'article R. 411-19 du code 
 <p align="center">SIÈGE</p>
 </td>
 <td>
-<p align="center">RESSORT </p>
+<p align="center">RESSORT</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +104,7 @@ Siège et ressort des cours d'appel mentionnées à l'article R. 411-19 du code 
 </td>
 <td align="center">
 <p align="left">
-<br/>Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete, Saint-Denis et des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre. <br/>
+<br/>Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete, Saint-Denis et du tribunal supérieur d'appel de Saint-Pierre.<br/>
 </p>
 </td>
 </tr>

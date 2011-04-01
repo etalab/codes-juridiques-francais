@@ -8,7 +8,7 @@ DES PROCÉDURES APPLICABLES AUX PERSONNES QUI NE SONT NI COMMERÇANTS NI ARTISAN
 <tbody>
 <tr>
 <td width="227">
-<p align="center">SIÈGE DES TRIBUNAUX<br/>de grande instance</p>
+<p align="center">SIÈGE DES TRIBUNAUX <br/>de grande instance</p>
 </td>
 <td width="491">
 <p align="center">RESSORT</p>
@@ -19,7 +19,7 @@ DES PROCÉDURES APPLICABLES AUX PERSONNES QUI NE SONT NI COMMERÇANTS NI ARTISAN
 <p align="left">Paris. </p>
 </td>
 <td width="491">
-<p align="left">Le ressort des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre.</p>
+<p align="left">Ressort du tribunal supérieur d'appel de Saint-Pierre </p>
 </td>
 </tr>
 </tbody>

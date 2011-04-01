@@ -506,9 +506,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 <tr>
 <td colspan="2">
 <i>
-<br/>Cour d'appel de Pau<br/>
-</i>
-<br/>
+<br/>Cour d'appel de Pau</i>
 </td>
 </tr>
 <tr>
@@ -532,8 +530,9 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 <tr>
 <td colspan="2">
 <br/>
+<div>
 <i>Cour d'appel de Poitiers</i>
-<br/>
+</div>
 </td>
 </tr>
 <tr>
@@ -700,68 +699,70 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tbody>
 </table>
 
-_Départements d'outre-mer_
+Départements d'outre-mer
 
 <table>
+<thead>
+<tr>
+<th>
+<br/>SIÈGE </th>
+<th colspan="2">
+<br/>RESSORT S'ÉTENDANT AUX LIMITES TERRITORIALES <br/>des tribunaux de grande instance </th>
+</tr>
+</thead>
 <tbody>
 <tr>
-<td align="center">SIÈGE <br/>
-</td>
-<td align="center">RESSORT <br/>s'étendant aux limites territoriales <br/>des tribunaux de grande instance de : <br/>
-</td>
+<td align="center">
+<br/>Cour d'appel de Basse-Terre </td>
 </tr>
 <tr>
-<td colspan="2">
-<br/>
-<i>Cour d'appel de Basse-Terre</i>
-</td>
+<td align="center">
+<br/>Pointe-à-Pitre. </td>
+<td align="center">
+<br/>Basse-Terre, Pointe-à-Pitre </td>
 </tr>
 <tr>
-<td>Pointe-à-Pitre. <br/>
-</td>
-<td>Basse-Terre, Pointe-à-Pitre. <br/>
-</td>
+<td align="center">
+<br/>Cour d'appel de Fort-de-France </td>
 </tr>
 <tr>
-<td colspan="2">
-<br/>
-<i>Cour d'appel de Fort-de-France</i>
-</td>
+<td align="center">
+<br/>Fort-de-France. </td>
+<td align="center">
+<br/>Fort-de-France. </td>
 </tr>
 <tr>
-<td>Fort-de-France. <br/>
-</td>
-<td>Fort-de-France. <br/>
-</td>
+<td align="center">
+<br/>Cayenne. </td>
+<td align="center">
+<br/>Cayenne. </td>
 </tr>
 <tr>
-<td>Cayenne. <br/>
-</td>
-<td>Cayenne. <br/>
-</td>
+<td align="center">
+<br/>Cour d'appel de Saint-Denis </td>
 </tr>
 <tr>
-<td colspan="2">
-<br/>
-<i>Cour d'appel de Saint-Denis</i>
-</td>
+<td align="center">
+<br/>Mamoudzou. </td>
+<td align="center">
+<br/>Mamoudzou. </td>
 </tr>
 <tr>
-<td>Saint-Denis. <br/>
-</td>
-<td>Saint-Denis. <br/>
-</td>
+<td align="center">
+<br/>Saint-Denis. </td>
+<td align="center">
+<br/>Saint-Denis. </td>
 </tr>
 <tr>
-<td>Saint-Pierre. <br/>
-</td>
-<td>Saint-Pierre. <br/>
-</td>
+<td align="center">
+<br/>Saint-Pierre. </td>
+<td align="center">
+<br/>Saint-Pierre. </td>
 </tr>
 </tbody>
 </table>
 
-_Collectivités d'outre-mer_
+Collectivités d'outre-mer
 
 <table>
 <tbody>

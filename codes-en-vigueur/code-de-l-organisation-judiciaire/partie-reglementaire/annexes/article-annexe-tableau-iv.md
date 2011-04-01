@@ -2495,7 +2495,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>Cayenne </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura, Saint-Georges Oyapoc, Saint-Laurent-du-Maroni et Sinnamary. </p>
+<p>Cantons d'Approuague-Kaw, Cayenne 1, r canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura, Saint-Georges Oyapoc, Saint-Laurent-du-Maroni et Sinnamary. </p>
 </td>
 </tr>
 <tr>
@@ -2660,10 +2660,10 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>[Grenoble </p>
+<p align="left">[Grenoble </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Allevard, Clelles, Corps, Domène, Échirolles-Est, Échirolles-Ouest, Eybens, Fontaine-Sassenage, Fontaine-Seyssinet, Goncelin, Grenoble 1er canton, Grenoble 2e canton, Grenoble 3e canton, Grenoble 4e canton, Grenoble 5e canton, Grenoble 6e canton, La Mure, Le Bourg-d'Oisans, Le Touvet, Mens, Meylan, Monestier de-Clermont, Pont-en-Royans, Rives, Roybon, Saint-Égrève, Saint-Étienne-de-Saint-Geoirs, Saint-Ismier, Saint-Laurent-du-Pont, Saint-Marcellin, Saint-Martin-d'Hères-Nord, Saint-Martin-d'Hères-Sud, Tullins, Valbonnais, Vif, Villard-de-Lans, Vinay, Vizille et Voiron. (4)] </p>
+<p align="left">Cantons d'Allevard, Clelles, Corps, Domène, Échirolles-Est, Échirolles-Ouest, Eybens, Fontaine-Sassenage, Fontaine-Seyssinet, Goncelin, Grenoble 1er canton, Grenoble 2e canton, Grenoble 3e canton, Grenoble 4e canton, Grenoble 5e canton, Grenoble 6e canton, La Mure, Le Bourg-d'Oisans, Le Touvet, Mens, Meylan, Monestier de-Clermont, Pont-en-Royans, Rives, Roybon, Saint-Égrève, Saint-Étienne-de-Saint-Geoirs, Saint-Ismier, Saint-Laurent-du-Pont, Saint-Marcellin, Saint-Martin-d'Hères-Nord, Saint-Martin-d'Hères-Sud, Tullins, Valbonnais, Vif, Villard-de-Lans, Vinay, Vizille et Voiron. (4)] </p>
 </td>
 </tr>
 <tr>
@@ -2797,13 +2797,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p align="left">[Guéret </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche, </p>
-<p align="left">Bénévent-l'Abbaye, Bonnat, Bourganeuf, Boussac, Chambon-sur-Voueize, </p>
-<p align="left">Châtelus-Malvaleix, Chénérailles, Crocq, Dun-le-Palestel, </p>
-<p align="left">Évaux-les-Bains, Felletin, Gentioux-Pigerolles, Guéret-Nord, </p>
-<p>Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La Courtine, </p>
-<p>La Souterraine, Le Grand-Bourg, Pontarion, Royère-de-Vassière, </p>
-<p>Saint-Sulpice-les Champs et Saint-Vaury. (10)] </p>
+<p align="left">Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche,<br/>Bénévent-l'Abbaye, Bonnat, Bourganeuf, Boussac, Chambon-sur-Voueize,<br/>Châtelus-Malvaleix, Chénérailles, Crocq, Dun-le-Palestel,<br/>Évaux-les-Bains, Felletin, Gentioux-Pigerolles, Guéret-Nord,<br/>Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La Courtine,<br/>La Souterraine, Le Grand-Bourg, Pontarion, Royère-de-Vassière,<br/>Saint-Sulpice-les Champs et Saint-Vaury. (10)] </p>
 </td>
 </tr>
 <tr>
@@ -3441,40 +3435,40 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td rowspan="3" valign="top" width="154">
-<p>Bar-le-Duc </p>
+<p align="left">Bar-le-Duc </p>
 </td>
 <td valign="top" width="109">
-<p>[Bar-le-Duc </p>
+<p align="left">[Bar-le-Duc </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Ancervillc, Bar-le-Duc-Nord, Bar-le-Duc-Sud, Gondrecourt-le-Château, Ligny-en-Barrois, Montiers-sur-Saulx, Revigny-sur-Ornain, Seuil-d'Argonne, Vaubecourt et Vavincourt. (3)] </p>
+<p align="left">Cantons d'Ancervillc, Bar-le-Duc-Nord, Bar-le-Duc-Sud, Gondrecourt-le-Château, Ligny-en-Barrois, Montiers-sur-Saulx, Revigny-sur-Ornain, Seuil-d'Argonne, Vaubecourt et Vavincourt. (3)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>[Bar-le-Duc </p>
+<p align="left">[Bar-le-Duc </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Ancerville, Bar-le-Duc-Nord, Bar-le-Duc-Sud, Commercy, Gondrecourt-le-Château, Ligny-en-Barrois, Montiers-sur-Saulx, Pierrefitte-sur-Aire, Revigny-sur-Ornain, Saint-Mihiel, Seuil d'Argonne, Vaubecourt, Vaucouleurs, Vavincourt, Vigneulles-lès-Hattonchâtel et Void-Vacon. (4)] </p>
+<p align="left">Cantons d'Ancerville, Bar-le-Duc-Nord, Bar-le-Duc-Sud, Commercy, Gondrecourt-le-Château, Ligny-en-Barrois, Montiers-sur-Saulx, Pierrefitte-sur-Aire, Revigny-sur-Ornain, Saint-Mihiel, Seuil d'Argonne, Vaubecourt, Vaucouleurs, Vavincourt, Vigneulles-lès-Hattonchâtel et Void-Vacon. (4)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>[Saint-Mihiel </p>
+<p align="left">[Saint-Mihiel </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Commercy, Pierrefitte-sur-Aire, Saint-Mihiel, Vaucouleurs, Vigneulles-lès-Hattonchâtel et Void-Vacon. (3)] </p>
+<p align="left">Cantons de Commercy, Pierrefitte-sur-Aire, Saint-Mihiel, Vaucouleurs, Vigneulles-lès-Hattonchâtel et Void-Vacon. (3)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="154">
-<p>Verdun </p>
+<p align="left">Verdun </p>
 </td>
 <td valign="top" width="109">
-<p>Verdun </p>
+<p align="left">Verdun </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Charny-sur-Meuse, Clermont-en-Argonne, Damvillers, Dun-sur-Meuse, Étain, Fresnes-en-Woëvre, Montfaucon-d'Argonne, Montmédy, Souilly, Spincourt, Stenay, Varennes-en-Argonne, Verdun-Centre, Verdun-Est et Verdun-Ouest. </p>
+<p align="left">Cantons de Charny-sur-Meuse, Clermont-en-Argonne, Damvillers, Dun-sur-Meuse, Étain, Fresnes-en-Woëvre, Montfaucon-d'Argonne, Montmédy, Souilly, Spincourt, Stenay, Varennes-en-Argonne, Verdun-Centre, Verdun-Est et Verdun-Ouest. </p>
 </td>
 </tr>
 <tr>
@@ -3498,7 +3492,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p align="left">[Epinal </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Cantons de Bains-les-Bains, Bruyères, Bulgnéville, <br/>Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est,<br/>Épinal-Ouest, Lamarche, Le Thillot, Neufchâteau,<br/>Plombière-les-Bains, Rambervillers, Remiremont,<br/>Saulxures-sur-Moselotte et Xertigny. (12 et 3)] </p>
+<p align="left">Cantons de Bains-les-Bains, Bruyères, Bulgnéville,<br/>Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est,<br/>Épinal-Ouest, Lamarche, Le Thillot, Neufchâteau,<br/>Plombière-les-Bains, Rambervillers, Remiremont,<br/>Saulxures-sur-Moselotte et Xertigny. (12 et 3)] </p>
 </td>
 </tr>
 <tr>
@@ -3527,13 +3521,13 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td valign="top" width="154">
-<p>[Saint-Dié-des-Vosges (5)] </p>
+<p align="left">[Saint-Dié-des-Vosges (5)] </p>
 </td>
 <td valign="top" width="109">
-<p>Saint-Dié-des-Vosges </p>
+<p align="left">Saint-Dié-des-Vosges </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Brouvelieures, Corcieux, Fraize, Gérardmer, Provenchères-sur-Fave, Raon-l'Étape, Saint-Dié-des-Vosges-Est, Saint-Dié-des-Vosges-Ouest et Senones. </p>
+<p align="left">Cantons de Brouvelieures, Corcieux, Fraize, Gérardmer, Provenchères-sur-Fave, Raon-l'Étape, Saint-Dié-des-Vosges-Est, Saint-Dié-des-Vosges-Ouest et Senones. </p>
 </td>
 </tr>
 <tr>
@@ -5776,6 +5770,23 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </td>
 </tr>
 <tr>
+<td colspan="3">
+<p align="center">Mayotte </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Mamoudzou </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Mamoudzou </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Cantons de Acoua, Bandraboua, Bandrele, Bouéni, Chiconi,<br/>Chirongui, Dembeni, Dzaoudzi, Kani-Kéli, Koungou,<br/>Mamoudzou-I-, Mamoudzou-II, Mamoudzou-III, Mtsamboro,<br/>M'Tsangamouji, Ouangani, Pamandzi, Sada, Tsingoni. <br/>
+</p>
+</td>
+</tr>
+<tr>
 <td colspan="3" valign="top" width="596">
 <p align="center">Cour d'appel de Toulouse </p>
 </td>
@@ -6349,24 +6360,6 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </td>
 <td width="302">
 <p align="center">Ressort </p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="614">
-<p align="center">Tribunal supérieur d'appel de Mamoudzou </p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="614">
-<p align="center">Mayotte </p>
-</td>
-</tr>
-<tr>
-<td width="312">
-<p align="left">Mamoudzou </p>
-</td>
-<td width="302">
-<p align="left">Collectivité départementale de Mayotte. </p>
 </td>
 </tr>
 <tr>

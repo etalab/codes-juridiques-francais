@@ -4,11 +4,6 @@ JURIDICTION COMPÉTENTE POUR CONNAÎTRE, EN APPLICATION DE L'ARTICLE L. 420-7,
 
 DES PROCÉDURES APPLICABLES AUX PERSONNES QUI NE SONT NI COMMERÇANTS NI ARTISANS
 
-<div align="left"/>
-<div align="left"/>
-<div align="left"/>
-<div align="left"/>
-<div align="left">
 <table>
 <thead>
 <tr>
@@ -26,9 +21,8 @@ DES PROCÉDURES APPLICABLES AUX PERSONNES QUI NE SONT NI COMMERÇANTS NI ARTISAN
 <p align="left">Paris. </p>
 </td>
 <td valign="top" width="491">
-<p align="left">Le ressort des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre.</p>
+<p align="left">Ressort du tribunal supérieur d'appel de Saint-Pierre </p>
 </td>
 </tr>
 </tbody>
 </table>
-</div>

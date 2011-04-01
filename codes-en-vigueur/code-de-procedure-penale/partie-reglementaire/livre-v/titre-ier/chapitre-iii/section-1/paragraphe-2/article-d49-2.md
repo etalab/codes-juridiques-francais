@@ -200,5 +200,16 @@ Sauf dans les cours d'appel figurant dans le tableau ci-après, il est établi d
 <p>Ressorts des tribunaux de grande instance de Moulins, Cusset et Montluçon</p>
 </td>
 </tr>
+<tr>
+<td>Saint-Denis </td>
+<td>Saint-Denis </td>
+<td>Ressort des tribunaux de grande instance de Saint-Denis et de Saint-Pierre<br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td>Mamoudzou </td>
+<td>Ressort du tribunal de grande instance de Mamoudzou </td>
+</tr>
 </tbody>
 </table>

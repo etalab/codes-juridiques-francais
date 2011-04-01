@@ -117,7 +117,7 @@ en matière d'obtentions végétales (annexe de l'article D. 211-5)
 <p align="left">Paris</p>
 </td>
 <td>
-<p align="left">Ressort des cours d'appel de Basse-Terre, Fort-de-France, Nouméa, Orléans, Papeete, Paris, Reims, Rouen, Saint-Denis et Versailles, et des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre.</p>
+<p align="left">Ressort des cours d'appel de Basse-Terre, Cayenne, Fort-de-France, Nouméa, Orléans, Papeete, Paris, Reims, Rouen, Saint-Denis et Versailles, et du tribunal supérieur d'appel de Saint-Pierre. </p>
 </td>
 </tr>
 <tr>

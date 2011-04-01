@@ -473,19 +473,6 @@ Siège et ressort des tribunaux de grande instance et des tribunaux de première
 </tr>
 <tr>
 <td colspan="2">
-<p align="center">Tribunal supérieur d'appel de Mamoudzou </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Mamoudzou </p>
-</td>
-<td>
-<p align="left">Ressort du tribunal supérieur d'appel de Mamoudzou. </p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
 <p align="center">Tribunal supérieur d'appel de Saint-Pierre </p>
 </td>
 </tr>

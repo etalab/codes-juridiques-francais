@@ -25,7 +25,7 @@ Par application des dispositions de l'article 706-2 du code de procédure pénal
 <p>Paris</p>
 </td>
 <td valign="top" width="360">
-<p>Agen, Amiens, Angers, Basse-Terre, Besançon, Bordeaux, Bourges, Caen, Colmar, Dijon, Douai, Fort-de-France, Limoges, Metz, Nancy, Nouméa, Orléans, Papeete, Paris, Pau, Poitiers, Reims, Rennes, Riom, Rouen, Saint-Denis-de-la-Réunion, Toulouse, Versailles, et tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre-et-Miquelon</p>
+<p>Agen, Amiens, Angers, Basse-Terre, Besançon, Bordeaux, Bourges, Caen, Colmar, Dijon, Douai, Fort-de-France, Limoges, Metz, Nancy, Nouméa, Orléans, Papeete, Paris, Pau, Poitiers, Reims, Rennes, Riom, Rouen, Saint-Denis-de-la-Réunion, Toulouse, Versailles, et tribunal supérieur d'appel de Saint-Pierre-et-Miquelon</p>
 </td>
 </tr>
 </tbody>
