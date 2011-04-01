@@ -62,7 +62,7 @@ et 706-53-21 sont fixés comme suit :
 <br/>Paris <br/>
 </td>
 <td align="center">
-<br/>Bourges, Paris, Orléans, Versailles, Mamoudzou, Nouméa, Papeete, Saint-Denis-de-la-Réunion, Saint-Pierre-et-Miquelon. <br/>
+<br/>Bourges, Paris, Orléans, Versailles, Nouméa, Papeete, Saint-Denis-de-la-Réunion, Saint-Pierre-et-Miquelon. <br/>
 </td>
 </tr>
 <tr>
