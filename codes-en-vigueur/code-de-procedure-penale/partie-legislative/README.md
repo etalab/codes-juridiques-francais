@@ -7,4 +7,3 @@
 - [Livre III : Des voies de recours extraordinaires](livre-iii)
 - [Livre IV : De quelques procédures particulières](livre-iv)
 - [Livre V : Des procédures d'exécution](livre-v)
-- [Livre VI : Dispositions relatives aux collectivités d'outre-mer régies par l'article 74 de la Constitution et à la Nouvelle-Calédonie](livre-vi)
