@@ -6,4 +6,4 @@ Toutefois, aucune infraction nouvelle ne pourra être relevée pour la même cau
 
 En cas de récidive constatée par le procès-verbal dressé conformément aux articles L. 610-9 et L. 610-11, après une condamnation prononcée en vertu de l'article précédent, le tribunal correctionnel pourra ordonner la fermeture totale ou partielle, définitive ou temporaire de l'établissement dans lequel n'auraient pas été faits les travaux de sécurité ou de salubrité imposés par la loi ou les règlements.
 
-Le jugement est susceptible d'appel, le tribunal supérieur d'appel statue d'urgence.
+Le jugement est susceptible d'appel,     la chambre d'appel de Mamoudzou statue d'urgence.

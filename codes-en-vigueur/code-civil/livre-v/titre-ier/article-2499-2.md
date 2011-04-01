@@ -8,4 +8,4 @@ La durée du sursis ainsi décidé ne peut excéder un mois, renouvelable une fo
 
 A l'expiration du sursis, le procureur de la République fait connaître à l'officier de l'état civil et aux intéressés, par décision motivée, s'il laisse procéder à l'enregistrement de la reconnaissance ou à sa mention en marge de l'acte de naissance de l'enfant.
 
-L'auteur de la reconnaissance peut contester la décision de sursis ou de renouvellement de celui-ci devant le tribunal de première instance, qui statue dans un délai de dix jours à compter de sa saisine. En cas d'appel, le tribunal supérieur d'appel statue dans le même délai.
+L'auteur de la reconnaissance peut contester la décision de sursis ou de renouvellement de celui-ci devant le tribunal de première instance, qui statue dans un délai de dix jours à compter de sa saisine. En cas d'appel,     la chambre d'appel de Mamoudzou statue dans le même délai.

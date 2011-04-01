@@ -8,4 +8,4 @@ Pour l'application au département de Mayotte des dispositions du présent code 
 
 3° Les mots : " tribunal de grande instance " sont remplacés par les mots : " tribunal de première instance " ;
 
-4° Les mots : " procureur de la République " sont remplacés par les mots : " procureur de la République près le tribunal de première instance ".
+4° Les mots : " procureur de la République " sont remplacés par les mots : "         procureur de la République près le tribunal de grande instance ".

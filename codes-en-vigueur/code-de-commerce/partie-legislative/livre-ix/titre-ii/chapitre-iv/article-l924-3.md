@@ -6,6 +6,6 @@ Le dernier alinéa du I de l'article L. 441-2 est remplacé par quatre alinéas 
 
 Mainlevée peut en être donnée par la juridiction qui l'a ordonnée ou qui est saisie du dossier. La mesure cesse d'avoir effet en cas de décision de non-lieu ou de relaxe.
 
-Les décisions statuant sur les demandes de mainlevée peuvent faire l'objet d'un recours devant le tribunal supérieur d'appel selon qu'elles ont été prononcées par un juge d'instruction ou par le tribunal saisi des poursuites.
+Les décisions statuant sur les demandes de mainlevée peuvent faire l'objet d'un recours devant     la chambre d'appel de Mamoudzou selon qu'elles ont été prononcées par un juge d'instruction ou par le tribunal saisi des poursuites.
 
-Le tribunal supérieur d'appel statue dans un délai de dix jours à compter de la réception des pièces. "
+La chambre d'appel de Mamoudzou  statue dans un délai de dix jours à compter de la réception des pièces. "
