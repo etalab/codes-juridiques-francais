@@ -8,6 +8,6 @@ Toute opération tendant à supprimer ou à réduire l'efficacité du dispositif
 
 Le ministre chargé des transports, le ministre chargé de la santé et le ministre chargé de l'environnement fixent par arrêté les conditions d'application du présent article.
 
-Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende prévue pour les contraventions de la troisième classe.
+Le fait de contrevenir aux dispositions du présent article ou à celles prises pour son application est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
