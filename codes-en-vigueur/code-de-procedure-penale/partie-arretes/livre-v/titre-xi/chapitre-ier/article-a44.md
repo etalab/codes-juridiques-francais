@@ -371,8 +371,9 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <p>Antenne de La Rochelle-Saint-Martin-de-Ré. </p>
 </td>
-<td valign="top">Circonscription judiciaire de La Rochelle, à l'exception des cantons situés dans le ressort de l'antenne de Rochefort <p>Maison centrale de Saint-Martin-de-Ré</p>
-<br/>
+<td valign="top">
+<p>Circonscription judiciaire de La Rochelle, à l'exception des cantons situés dans le ressort de l'antenne de Rochefort </p>
+<p>Maison centrale de Saint-Martin-de-Ré</p>
 </td>
 </tr>
 <tr>
@@ -389,8 +390,9 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <p>Antenne de Rochefort. </p>
 </td>
-<td valign="top">Cantons d'Aigrefeuille-d'Aunis, La Tremblade, Le Château-d'Oléron, Marennes, Rochefort-Centre, Rochefort-Nord, Rochefort-Sud, Saint-Agnant, Saint-Pierre-d'Oléron, Surgères et Tonnay-Charente <p>Maison d'arrêt de Rochefort</p>
-<br/>
+<td valign="top">
+<p>Cantons d'Aigrefeuille-d'Aunis, La Tremblade, Le Château-d'Oléron, Marennes, Rochefort-Centre, Rochefort-Nord, Rochefort-Sud, Saint-Agnant, Saint-Pierre-d'Oléron, Surgères et Tonnay-Charente </p>
+<p>Maison d'arrêt de Rochefort</p>
 </td>
 </tr>
 <tr>
@@ -418,18 +420,17 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <p>Antenne de Tulle. </p>
 </td>
-<td valign="top">Cantons d'Argentat, Bort-les-Orgues, Bugeat, Corrèze, Egletons, Eygurande, La Roche-Canillac, Lapleau, Mercœur, Meymac, Neuvic, Saint-Privat, Seilhac, Sornac, Treignac, Tulle-Campagne-Nord, Tulle-Campagne-Sud, Tulle-Urbain-Nord, Tulle-Urbain-Sud, Ussel-Est, Ussel-Ouest et Uzerche <p>Maison d'arrêt de Tulle</p>
-<br/>
+<td valign="top">
+<p>Cantons d'Argentat, Bort-les-Orgues, Bugeat, Corrèze, Egletons, Eygurande, La Roche-Canillac, Lapleau, Mercœur, Meymac, Neuvic, Saint-Privat, Seilhac, Sornac, Treignac, Tulle-Campagne-Nord, Tulle-Campagne-Sud, Tulle-Urbain-Nord, Tulle-Urbain-Sud, Ussel-Est, Ussel-Ouest et Uzerche </p>
+<p>Maison d'arrêt de Tulle</p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p>Antenne de Brive-la-Gaillarde<br/>
-</p>
+<p>Antenne de Brive-la-Gaillarde</p>
 </td>
 <td valign="top">
-<p>Circonscription judiciaire de Brive-la-Gaillarde, à l'exception des cantons situés dans le ressort de l'antenne de Tulle<br/>
-</p>
+<p>Circonscription judiciaire de Brive-la-Gaillarde, à l'exception des cantons situés dans le ressort de l'antenne de Tulle</p>
 </td>
 </tr>
 <tr>
@@ -503,9 +504,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <p>Antenne de Saint-Brieuc. </p>
 </td>
-<td valign="top">Circonscription judiciaire de Saint-Brieuc, à l'exception des cantons situés dans le ressort de l'antenne de Guingamp <p>Cantons de Broons, Caulnes, Dinan-Est, Dinan-Ouest, Evran, Jugon-les-Lacs, Matignon, Plancoët, Plélan-le-Petit et Ploubalay</p>
+<td valign="top">
+<p>Circonscription judiciaire de Saint-Brieuc, à l'exception des cantons situés dans le ressort de l'antenne de Guingamp </p>
+<p>Cantons de Broons, Caulnes, Dinan-Est, Dinan-Ouest, Evran, Jugon-les-Lacs, Matignon, Plancoët, Plélan-le-Petit et Ploubalay</p>
 <p>Maison d'arrêt de Saint-Brieuc</p>
-<br/>
 </td>
 </tr>
 <tr>
@@ -513,8 +515,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Antenne de Guingamp. </p>
 </td>
 <td valign="top">
-<p>Cantons de Bégard, Belle-Isle-en-Terre, Bourbriac, Callac, Guingamp, Lannion, La Roche-Derrien, Lézardrieux, Maël-Carhaix, Perros-Guirec, Plestin-les-Grèves, Plouagat, Plouaret, Pontrieux, Rostrenen, Saint-Nicolas-du-Pélem et Tréguier<br/>
-</p>
+<p>Cantons de Bégard, Belle-Isle-en-Terre, Bourbriac, Callac, Guingamp, Lannion, La Roche-Derrien, Lézardrieux, Maël-Carhaix, Perros-Guirec, Plestin-les-Grèves, Plouagat, Plouaret, Pontrieux, Rostrenen, Saint-Nicolas-du-Pélem et Tréguier</p>
 </td>
 </tr>
 <tr>
@@ -606,8 +607,9 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <p>Antenne d'Evreux. </p>
 </td>
-<td valign="top">Circonscription judiciaire d'Evreux, à l'exception des cantons du ressort de l'antenne de Bernay <p>Maison d'arrêt d'Evreux</p>
-<br/>
+<td valign="top">
+<p>Circonscription judiciaire d'Evreux, à l'exception des cantons du ressort de l'antenne de Bernay </p>
+<p>Maison d'arrêt d'Evreux</p>
 </td>
 </tr>
 <tr>
@@ -615,8 +617,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Antenne de Bernay. </p>
 </td>
 <td valign="top">
-<p>Cantons de Beaumesnil, Beaumont-le-Roger, Bernay-Est, Bernay-Ouest, Beuzeville, Bourgtheroulde-Infreville, Brionne, Broglie, Cormeilles, Montfort-sur-Risle, Pont-Audemer, Quillebeuf-sur-Seine, Routot, Saint-Georges-du-Vièvre et Thiberville<br/>
-</p>
+<p>Cantons de Beaumesnil, Beaumont-le-Roger, Bernay-Est, Bernay-Ouest, Beuzeville, Bourgtheroulde-Infreville, Brionne, Broglie, Cormeilles, Montfort-sur-Risle, Pont-Audemer, Quillebeuf-sur-Seine, Routot, Saint-Georges-du-Vièvre et Thiberville</p>
 </td>
 </tr>
 <tr>
@@ -658,8 +659,9 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <p>Antenne de Brest. </p>
 </td>
-<td valign="top">Circonscription judiciaire de Brest, à l'exception des cantons situés dans le ressort de l'antenne de Morlaix <p>Maison d'arrêt de Brest</p>
-<br/>
+<td valign="top">
+<p>Circonscription judiciaire de Brest, à l'exception des cantons situés dans le ressort de l'antenne de Morlaix </p>
+<p>Maison d'arrêt de Brest</p>
 </td>
 </tr>
 <tr>
@@ -675,8 +677,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Antenne de Morlaix. </p>
 </td>
 <td valign="top">
-<p>Cantons de Carhaix-Plouguer, Huelgoat, Landivisiau, Lanmeur, Morlaix, Plouescat, Plouigneau, Plouzévédé, Saint-Pol-de-Léon, Saint-Thégonnec, Sizun et Taulé<br/>
-</p>
+<p>Cantons de Carhaix-Plouguer, Huelgoat, Landivisiau, Lanmeur, Morlaix, Plouescat, Plouigneau, Plouzévédé, Saint-Pol-de-Léon, Saint-Thégonnec, Sizun et Taulé</p>
 </td>
 </tr>
 <tr>
@@ -712,8 +713,9 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <p>Antenne de Toulouse.</p>
 </td>
-<td valign="top">Circonscription judiciaire de Toulouse, à l'exception des cantons situés dans le ressort de l'antenne de Saint-Gaudens <p>Centre pénitentiaire de Toulouse-Seysses (quartier de semi-liberté inclus)</p>
-<br/>
+<td valign="top">
+<p>Circonscription judiciaire de Toulouse, à l'exception des cantons situés dans le ressort de l'antenne de Saint-Gaudens </p>
+<p>Centre pénitentiaire de Toulouse-Seysses (quartier de semi-liberté inclus)</p>
 </td>
 </tr>
 <tr>
@@ -729,8 +731,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Antenne de Saint-Gaudens. </p>
 </td>
 <td valign="top">
-<p>Cantons d'Aspet, Aurignac, Bagnères-de-Luchon, Barbazan, Boulogne-sur-Gesse, Cazères, Le Fousseret, L'Isle-en-Dodon, Montréjeau, Saint-Béat, Saint-Gaudens, Saint-Martory et Salies-du-Salat<br/>
-</p>
+<p>Cantons d'Aspet, Aurignac, Bagnères-de-Luchon, Barbazan, Boulogne-sur-Gesse, Cazères, Le Fousseret, L'Isle-en-Dodon, Montréjeau, Saint-Béat, Saint-Gaudens, Saint-Martory et Salies-du-Salat</p>
 </td>
 </tr>
 <tr>
@@ -805,17 +806,19 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <p>Antenne de Rennes. </p>
 </td>
-<td valign="top">Circonscription judiciaire de Rennes <p>Centre pénitentiaire de Rennes</p>
+<td valign="top">
+<p>Circonscription judiciaire de Rennes </p>
+<p>Centre pénitentiaire de Rennes</p>
 <p>Centre pénitentiaire de Rennes - Vezin-le-Coquet (quartier de semi-liberté de Rennes compris)</p>
-<br/>
 </td>
 </tr>
 <tr>
 <td valign="top">
 <p>Antenne de Saint-Malo. </p>
 </td>
-<td valign="top">Circonscription judiciaire de Saint Malo, à l'exception des cantons de Broons, Caulnes, Dinan-Est, Dinan-Ouest, Evran, Jugon-les-Lacs, Matignon, Plancoët, Plélan-le-Petit et Ploubalay <p>Maison d'arrêt de Saint-Malo</p>
-<br/>
+<td valign="top">
+<p>Circonscription judiciaire de Saint Malo, à l'exception des cantons de Broons, Caulnes, Dinan-Est, Dinan-Ouest, Evran, Jugon-les-Lacs, Matignon, Plancoët, Plélan-le-Petit et Ploubalay </p>
+<p>Maison d'arrêt de Saint-Malo</p>
 </td>
 </tr>
 <tr>
@@ -874,8 +877,9 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <p>Antenne de Vienne-Saint-Quentin-Fallavier. </p>
 </td>
-<td valign="top">Circonscription judiciaire de Vienne, à l'exception des cantons situés dans le ressort de l'antenne de Bourgoin-Jallieu <p>Centre pénitentiaire de Saint-Quentin-Fallavier</p>
-<br/>
+<td valign="top">
+<p>Circonscription judiciaire de Vienne, à l'exception des cantons situés dans le ressort de l'antenne de Bourgoin-Jallieu </p>
+<p>Centre pénitentiaire de Saint-Quentin-Fallavier</p>
 </td>
 </tr>
 <tr>
@@ -883,8 +887,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Antenne de Bourgoin-Jallieu. </p>
 </td>
 <td valign="top">
-<p>Cantons de Bourgoin-Jallieu-Nord, Bourgoin-Jallieu-Sud, Crémieu, La Tour-du-Pin, Le Grand-Lemps, Le Pont-de-Beauvoisin, Morestel, Saint-Geoire-en-Valdaine et Virieu<br/>
-</p>
+<p>Cantons de Bourgoin-Jallieu-Nord, Bourgoin-Jallieu-Sud, Crémieu, La Tour-du-Pin, Le Grand-Lemps, Le Pont-de-Beauvoisin, Morestel, Saint-Geoire-en-Valdaine et Virieu</p>
 </td>
 </tr>
 <tr>
@@ -897,8 +900,9 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <p>Antenne de Lons-le-Saunier. </p>
 </td>
-<td valign="top">Circonscription judiciaire de Lons-le-Saunier, à l'exception des cantons situés dans le ressort de l'antenne de Dole. <p>Maison d'arrêt de Lons-le-Saunier</p>
-<br/>
+<td valign="top">
+<p>Circonscription judiciaire de Lons-le-Saunier, à l'exception des cantons situés dans le ressort de l'antenne de Dole. </p>
+<p>Maison d'arrêt de Lons-le-Saunier</p>
 </td>
 </tr>
 <tr>
@@ -906,8 +910,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Antenne de Dole. </p>
 </td>
 <td valign="top">
-<p>Cantons d'Arbois, Champagnole, Chaumergy, Chaussin, Chemin, Dampierre, Dole-Nord-Est, Dole-Sud-Ouest, Gendrey, Les Planches-en-Montagne, Montbarrey, Montmirey-le-Château, Nozeroy, Poligny, Rochefort-sur-Nenon, Salins-les-Bains et Villers-Farlay<br/>
-</p>
+<p>Cantons d'Arbois, Champagnole, Chaumergy, Chaussin, Chemin, Dampierre, Dole-Nord-Est, Dole-Sud-Ouest, Gendrey, Les Planches-en-Montagne, Montbarrey, Montmirey-le-Château, Nozeroy, Poligny, Rochefort-sur-Nenon, Salins-les-Bains et Villers-Farlay</p>
 </td>
 </tr>
 <tr>
@@ -1068,8 +1071,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Antenne d'Agen. </p>
 </td>
 <td valign="top">
-<p>Circonscription judiciaire d'Agen.<br/>
-</p>
+<p>Circonscription judiciaire d'Agen.</p>
 </td>
 </tr>
 <tr>
@@ -1103,8 +1105,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Angers. </p>
 </td>
 <td valign="top">
-<p>Néant<br/>
-</p>
+<p>Néant</p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire d'Angers. </p>
@@ -1122,8 +1123,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Antenne de Coutances. </p>
 </td>
 <td valign="top">
-<p>Circonscription judiciaire de Coutances, à l'exception des cantons situés dans le ressort de l'antenne d'Avranches<br/>
-</p>
+<p>Circonscription judiciaire de Coutances, à l'exception des cantons situés dans le ressort de l'antenne d'Avranches</p>
 </td>
 </tr>
 <tr>
@@ -1140,8 +1140,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Antenne d'Avranches. </p>
 </td>
 <td valign="top">
-<p>Cantons d'Avranches, Barenton, Brécey, Ducey, Granville, Isigny-le-Buat, Juvigny-le-Tertre, La Haye-Pesnel, Le Teilleul, Mortain, Pontorson, Saint-Hilaire-du-Harcouët, Saint-James, Saint-Pois, Sartilly, Sourdeval et Villedieu-les-Poêles<br/>
-</p>
+<p>Cantons d'Avranches, Barenton, Brécey, Ducey, Granville, Isigny-le-Buat, Juvigny-le-Tertre, La Haye-Pesnel, Le Teilleul, Mortain, Pontorson, Saint-Hilaire-du-Harcouët, Saint-James, Saint-Pois, Sartilly, Sourdeval et Villedieu-les-Poêles</p>
 </td>
 </tr>
 <tr>
@@ -1204,7 +1203,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Nancy. </p>
-<br/>
 </td>
 <td valign="top">
 <p>Antenne de Nancy. </p>
@@ -1216,21 +1214,17 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
-<br/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Antenne de Briey. </p>
 </td>
-<td>
-<p>Antenne de Briey. </p>
-</td>
-<td valign="top">
+<td align="left" valign="top">
 <p>Circonscription judiciaire de Briey. </p>
 <p>Centre de semi-liberté de Briey. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<br/>
-</td>
+<td valign="top"/>
 <td>
 <p align="left">Antenne de Toul-Ecrouves.</p>
 </td>
@@ -1260,29 +1254,23 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td valign="top">
-<br/>
-</td>
-<td>Antenne de Bar-le-Duc. </td>
+<td valign="top"/>
+<td>Antenne de Bar-le-Duc.</td>
 <td valign="top">
 <p>Circonscription judiciaire de Bar-le-Duc. </p>
 <p>Maison d'arrêt de Bar-le-Duc. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<br/>
-</td>
-<td>Antenne de Montmédy.</td>
+<td valign="top"/>
+<td>Antenne de Montmédy. </td>
 <td valign="top">
 <p>(Arr. 17 sept. 2003, art. 5) Centre de détention de Montmédy. </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<br/>
-</td>
-<td>Antenne de Saint-Mihiel. </td>
+<td valign="top"/>
+<td>Antenne de Saint-Mihiel.</td>
 <td valign="top">
 <p>(Arr. 17 sept. 2003, art. 5) Centre de détention de Saint-Mihiel. </p>
 </td>
@@ -1540,26 +1528,20 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top">
+<td valign="top">
 <p>Service pénitentiaire d'insertion et de probation du Puy-de-Dôme. </p>
 </td>
-<td rowspan="2" valign="top">
+<td valign="top">
 <p>Clermont-Ferrand. </p>
 </td>
 <td valign="top">
-<p>Antenne de Clermont-Ferrand. </p>
+<p>Néant </p>
 </td>
-<td valign="top">Circonscription judiciaire de Clermont-Ferrand, à l'exception des cantons situés dans le ressort de l'antenne de Riom <p>Maison d'arrêt de Clermont-Ferrand</p>
-<br/>
-</td>
-</tr>
-<tr>
 <td valign="top">
-<p>Antenne de Riom. </p>
-</td>
-<td valign="top">Cantons d'Aigueperse, Combronde, Ennezat, Manzat, Menat, Montaigut, Pionsat, Pontaumur, Pontgibaud, Randan, Riom-Est, Riom-Ouest et Saint-Gervais-d'Auvergne <p>Maison d'arrêt de Riom</p>
+<p>Circonscription judiciaire de Clermont-Ferrand </p>
+<p>Maison d'arrêt de Clermont-Ferrand</p>
+<p>Maison d'arrêt de Riom</p>
 <p>Centre de détention de Riom</p>
-<br/>
 </td>
 </tr>
 <tr>
@@ -1721,16 +1703,18 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <p>Antenne de Vesoul. </p>
 </td>
-<td valign="top">Circonscription judiciaire de Vesoul, à l'exception des cantons situés dans le ressort de l'antenne de Lure <p>Maison d'arrêt de Vesoul</p>
-<br/>
+<td valign="top">
+<p>Circonscription judiciaire de Vesoul, à l'exception des cantons situés dans le ressort de l'antenne de Lure </p>
+<p>Maison d'arrêt de Vesoul</p>
 </td>
 </tr>
 <tr>
 <td valign="top">
 <p>Antenne de Lure. </p>
 </td>
-<td valign="top">Cantons de Champagney, Faucogney-et-la-Mer, Héricourt-Est, Héricourt-Ouest, Lure-Nord, Lure-Sud, Luxeuil-les-Bains, Mélisey, Saint-Loup-sur-Semouse, Saint-Sauveur, Saulx, Vauvillers et Villersexel <p>Maison d'arrêt de Lure</p>
-<br/>
+<td valign="top">
+<p>Cantons de Champagney, Faucogney-et-la-Mer, Héricourt-Est, Héricourt-Ouest, Lure-Nord, Lure-Sud, Luxeuil-les-Bains, Mélisey, Saint-Loup-sur-Semouse, Saint-Sauveur, Saulx, Vauvillers et Villersexel </p>
+<p>Maison d'arrêt de Lure</p>
 </td>
 </tr>
 <tr>
@@ -1768,7 +1752,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Le Mans. </p>
 </td>
 <td valign="top">
-<p align="left">Néant.</p>
+<p>Néant.</p>
 </td>
 <td valign="top">
 <p>Circonscription judiciaire du Mans.</p>
@@ -1945,8 +1929,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Antenne de Niort. </p>
 </td>
 <td valign="top">
-<p>Circonscription judiciaire de Niort, à l'exception des cantons du ressort de l'antenne de Bressuire<br/>
-</p>
+<p>Circonscription judiciaire de Niort, à l'exception des cantons du ressort de l'antenne de Bressuire</p>
 </td>
 </tr>
 <tr>
@@ -1954,8 +1937,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Antenne de Bressuire. </p>
 </td>
 <td valign="top">
-<p>Cantons d'Airvault, Argenton-les-Vallées, Bressuire, Cerizay, Mauléon, Mazières-en-Gâtine, Ménigoute, Moncoutant, Parthenay, Saint-Loup-Lamairé, Saint-Varent, Secondigny, Thénezay, Thouars 1er canton et Thouars 2e canton<br/>
-</p>
+<p>Cantons d'Airvault, Argenton-les-Vallées, Bressuire, Cerizay, Mauléon, Mazières-en-Gâtine, Ménigoute, Moncoutant, Parthenay, Saint-Loup-Lamairé, Saint-Varent, Secondigny, Thénezay, Thouars 1er canton et Thouars 2e canton</p>
 </td>
 </tr>
 <tr>
@@ -1968,8 +1950,9 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <p>Antenne d'Amiens. </p>
 </td>
-<td valign="top">Circonscription judiciaire d'Amiens, à l'exception des cantons situés dans le ressort des antennes d'Abbeville et de Péronne <p>Maison d'arrêt d'Amiens</p>
-<br/>
+<td valign="top">
+<p>Circonscription judiciaire d'Amiens, à l'exception des cantons situés dans le ressort des antennes d'Abbeville et de Péronne </p>
+<p>Maison d'arrêt d'Amiens</p>
 </td>
 </tr>
 <tr>
@@ -1977,8 +1960,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Antenne d'Abbeville. </p>
 </td>
 <td valign="top">
-<p>Cantons d'Abbeville-Nord, Abbeville-Sud, Ailly-le-Haut-Clocher, Ault, Crécy-en-Ponthieu, Friville-Escarbotin, Gamaches, Hallencourt, Moyenneville, Nouvion, Rue et Saint-Valery-sur-Somme<br/>
-</p>
+<p>Cantons d'Abbeville-Nord, Abbeville-Sud, Ailly-le-Haut-Clocher, Ault, Crécy-en-Ponthieu, Friville-Escarbotin, Gamaches, Hallencourt, Moyenneville, Nouvion, Rue et Saint-Valery-sur-Somme</p>
 </td>
 </tr>
 <tr>
@@ -2056,7 +2038,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Draguignan.</p>
-<p>Centre pénitentiaire de Draguignan.</p>
 </td>
 </tr>
 <tr>
@@ -2069,8 +2050,9 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <p>Antenne d'Avignon. </p>
 </td>
-<td valign="top">Circonscription judiciaire d'Avignon. <p>(Arr. 17 sept. 2003, art. 5). Centre pénitentiaire d'Avignon-Le Pontet (quartier de semi-liberté inclus)</p>
-<br/>
+<td valign="top">
+<p>Circonscription judiciaire d'Avignon. </p>
+<p>(Arr. 17 sept. 2003, art. 5). Centre pénitentiaire d'Avignon-Le Pontet (quartier de semi-liberté inclus)</p>
 </td>
 </tr>
 <tr>
@@ -2145,8 +2127,9 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <p>Antenne d'Epinal. </p>
 </td>
-<td valign="top">Circonscription judiciaire d'Epinal, à l'exception des cantons situés dans le ressort de l'antenne de Saint-Dié-des Vosges <p>Maison d'arrêt d'Epinal</p>
-<br/>
+<td valign="top">
+<p>Circonscription judiciaire d'Epinal, à l'exception des cantons situés dans le ressort de l'antenne de Saint-Dié-des Vosges </p>
+<p>Maison d'arrêt d'Epinal</p>
 </td>
 </tr>
 <tr>
@@ -2154,8 +2137,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Antenne de Saint-Dié-des-Vosges </p>
 </td>
 <td valign="top">
-<p>Cantons de Brouvelieures, Corcieux, Fraize, Gérardmer, Provenchères-sur-Fave, Raon-l'Etape, Saint-Dié-des-Vosges-Est, Saint-Dié-des-Vosges-Ouest et Senones<br/>
-</p>
+<p>Cantons de Brouvelieures, Corcieux, Fraize, Gérardmer, Provenchères-sur-Fave, Raon-l'Etape, Saint-Dié-des-Vosges-Est, Saint-Dié-des-Vosges-Ouest et Senones</p>
 </td>
 </tr>
 <tr>
@@ -2333,14 +2315,14 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Service pénitentiaire d'insertion et de probation de la Guyane. </p>
 </td>
 <td valign="top">
-<p>Rémire-Montjoly<br/>
-</p>
+<p>Rémire-Montjoly</p>
 </td>
 <td valign="top">
 <p>Néant. </p>
 </td>
-<td valign="top">Circonscription judiciaire de Cayenne. <p>Centre pénitentiaire de Rémire-Montjoly</p>
-<br/>
+<td valign="top">
+<p>Circonscription judiciaire de Cayenne. </p>
+<p>Centre pénitentiaire de Rémire-Montjoly</p>
 </td>
 </tr>
 <tr>
