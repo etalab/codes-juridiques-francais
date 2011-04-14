@@ -8,6 +8,6 @@ Le vétérinaire exerçant dans une entreprise ou un établissement mentionné �
 
 Le vétérinaire exerçant dans une entreprise ou un établissement mentionné à l'article L. 5142-1 du code de la santé publique qui change de lieu d'exercice ou dont l'entreprise transfère son siège social doit communiquer au conseil régional de l'ordre dans le ressort duquel il se propose d'exercer ou dans lequel l'entreprise aura son siège tous renseignements concernant son activité professionnelle et notamment les pièces mentionnées aux 8°, 9° et 10° de l'article R. 242-85.
 
-Les conseils régionaux intéressés informent le Conseil supérieur de l'ordre et, pour les vétérinaires exerçant dans une entreprise ou un établissement mentionné à l'article L. 5142-1 du code de la santé publique, le directeur général de l'Agence française de sécurité sanitaire des aliments de tout changement de domicile professionnel administratif ou d'exercice ou de siège social.
+Les conseils régionaux intéressés informent le Conseil supérieur de l'ordre et, pour les vétérinaires exerçant dans une entreprise ou un établissement mentionné à l'article L. 5142-1 du code de la santé publique, le directeur général de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail de tout changement de domicile professionnel administratif ou d'exercice ou de siège social.
 
 Les transferts d'inscription prévus aux alinéas précédents sont effectués sans délai.

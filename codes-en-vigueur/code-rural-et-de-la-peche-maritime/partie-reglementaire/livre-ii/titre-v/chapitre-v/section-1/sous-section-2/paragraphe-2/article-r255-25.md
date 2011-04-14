@@ -1,6 +1,6 @@
 # Article R255-25
 
-Dès réception de la demande, l'Agence française de sécurité sanitaire des aliments délivre au demandeur un accusé de réception mentionnant sa date d'enregistrement.
+Dès réception de la demande, l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail délivre au demandeur un accusé de réception mentionnant sa date d'enregistrement.
 
 Elle transmet sans délai au ministre chargé de l'agriculture, le chèque établi par le demandeur en application de l'article L. 535-4 du code de l'environnement, la synthèse du dossier pour transmission à la Commission des Communautés européennes et, le cas échéant, la demande de reconnaissance du caractère confidentiel de certaines informations figurant dans la demande d'autorisation.
 
@@ -10,6 +10,6 @@ Dès que le dossier est complet, elle transmet la demande au ministre chargé de
 
 Elle procède à l'instruction de la demande parallèlement au Haut Conseil des biotechnologies.
 
-Au vu des avis de l'Agence française de sécurité sanitaire des aliments et du Haut Conseil des biotechnologies, le ministre chargé de l'agriculture établit le rapport d'évaluation mentionné à l'article R. 533-30 du code de l'environnement.
+Au vu des avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail et du Haut Conseil des biotechnologies, le ministre chargé de l'agriculture établit le rapport d'évaluation mentionné à l'article R. 533-30 du code de l'environnement.
 
-L'Agence française de sécurité sanitaire des aliments et le ministre chargé de l'agriculture peuvent inviter le demandeur à leur communiquer les informations complémentaires nécessaires à l'examen de sa demande.
+L'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail et le ministre chargé de l'agriculture peuvent inviter le demandeur à leur communiquer les informations complémentaires nécessaires à l'examen de sa demande.

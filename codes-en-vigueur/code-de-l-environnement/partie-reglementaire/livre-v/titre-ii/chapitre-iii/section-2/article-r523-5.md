@@ -36,17 +36,15 @@ e) Trois représentants d'associations de défense de la santé, des consommateu
 
 f) Trois représentants des salariés, nommés par les syndicats les plus représentatifs du secteur ;
 
-4° Un représentant de l'Agence française de sécurité sanitaire de l'environnement et du travail ;
+4° Un représentant de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail ;
 
 a) Un représentant de l'organisme agréé par le ministre chargé du travail au titre du quatrième alinéa de l'article L. 231-7 du code du travail ;
 
 b) Un représentant de l'Institut national de l'environnement industriel et des risques ;
 
-c) Un représentant de l'Agence française de sécurité sanitaire des aliments ;
+c) Un représentant de l'Agence française de sécurité sanitaire des produits de santé ;
 
-d) Un représentant de l'Agence française de sécurité sanitaire des produits de santé ;
-
-e) Un représentant des centres antipoison.
+d) Un représentant des centres antipoison.
 
 II. - Les membres énumérés au 2° du I sont nommés par le ministre chargé de l'environnement sur proposition de chacun des ministres intéressés.
 
