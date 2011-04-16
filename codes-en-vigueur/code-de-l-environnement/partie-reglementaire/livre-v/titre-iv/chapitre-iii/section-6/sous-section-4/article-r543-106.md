@@ -7,3 +7,5 @@ L'opérateur satisfait aux conditions de capacité professionnelle lorsque les p
 2° Soit d'un diplôme, d'un titre professionnel, d'un certificat de qualification professionnelle ou d'une certification enregistrée au répertoire national des certifications professionnelles correspondant aux types d'activités exercées et aux types d'équipements utilisés ;
 
 3° Soit d'un diplôme, d'un titre, d'un certificat de compétence ou d'une attestation de niveau équivalent aux attestations, titres, diplômes ou certificats mentionnés au 1° ou au 2°, délivré dans un des Etats membres de l'Union européenne et correspondant aux types d'activités exercées et aux types d'équipements utilisés.
+
+Un arrêté conjoint des ministres chargés de l'environnement et de l'industrie fixe les modalités d'application des articles 5.3, 5.4 et 11 du règlement (CE) n° 303/2008.

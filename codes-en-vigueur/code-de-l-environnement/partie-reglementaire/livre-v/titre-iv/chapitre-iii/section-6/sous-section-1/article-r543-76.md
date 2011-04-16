@@ -10,7 +10,7 @@ Pour l'application de la présente section, sont considérés comme :
 
 4° " Producteurs d'équipements " non seulement les personnes qui produisent des équipements préchargés contenant des fluides frigorigènes mais également celles qui importent ou introduisent sur le territoire national ces équipements préchargés à titre professionnel ;
 
-5° " Distributeurs de fluides frigorigènes " les personnes qui cèdent à titre onéreux ou gratuit, dans le cadre d'une activité professionnelle, des fluides frigorigènes. Ne sont pas considérés comme distributeurs les opérateurs qui procèdent à la récupération des fluides et les cèdent à des distributeurs pour qu'ils les mettent en conformité avec leurs spécifications d'origine ou pour qu'ils les détruisent ;
+5° Distributeurs de fluides frigorigènes. Les personnes qui cèdent à titre onéreux ou gratuit, dans le cadre d'une activité professionnelle, des fluides frigorigènes à un opérateur, à d'autres distributeurs ou aux personnes produisant, dans des installations relevant des dispositions du titre Ier du présent livre, des équipements préchargés contenant de tels fluides ;
 
 6° " Opérateurs " les entreprises et les organismes qui procèdent à titre professionnel à tout ou partie des opérations suivantes :
 
