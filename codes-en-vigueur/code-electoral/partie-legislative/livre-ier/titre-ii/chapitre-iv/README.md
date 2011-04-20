@@ -18,5 +18,8 @@
 - [Article LO150](article-lo150.md)
 - [Article LO151](article-lo151.md)
 - [Article LO151-1](article-lo151-1.md)
+- [Article LO151-2](article-lo151-2.md)
+- [Article LO151-3](article-lo151-3.md)
+- [Article LO151-4](article-lo151-4.md)
 - [Article LO152](article-lo152.md)
 - [Article LO153](article-lo153.md)
