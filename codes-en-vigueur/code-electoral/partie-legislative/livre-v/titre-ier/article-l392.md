@@ -36,7 +36,7 @@ Pour l'application des dispositions du chapitre V bis du titre Ier du livre Ier 
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>N'excédant pas 15 000 habitants</p>
+<p align="left">N'excédant pas 15 000 habitants</p>
 </td>
 <td valign="top" width="113">
 <p align="center">146</p>
@@ -50,7 +50,7 @@ Pour l'application des dispositions du chapitre V bis du titre Ier du livre Ier 
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>De 15 001 à 30 000 habitants</p>
+<p align="left">De 15 001 à 30 000 habitants</p>
 </td>
 <td valign="top" width="113">
 <p align="center">128</p>
@@ -64,7 +64,7 @@ Pour l'application des dispositions du chapitre V bis du titre Ier du livre Ier 
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>De 30 001 à 60 000 habitants</p>
+<p align="left">De 30 001 à 60 000 habitants</p>
 </td>
 <td valign="top" width="113">
 <p align="center">110</p>
@@ -78,7 +78,7 @@ Pour l'application des dispositions du chapitre V bis du titre Ier du livre Ier 
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Plus de 60 000 habitants</p>
+<p align="left">Plus de 60 000 habitants</p>
 </td>
 <td valign="top" width="113">
 <p align="center">100</p>
@@ -98,101 +98,102 @@ Pour l'application des dispositions du chapitre V bis du titre Ier du livre Ier 
 <table>
 <tbody>
 <tr>
-<td rowspan="3" width="223">
+<td rowspan="3">
 <p align="center">FRACTION DE LA POPULATION<br/>DE LA CIRCONSCRIPTION</p>
 </td>
-<td colspan="4" width="452">
+<td colspan="4">
 <p align="center">PLAFOND PAR HABITANT DES DÉPENSES ÉLECTORALES (EN FRANCS CFP)</p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="225">
-<p align="center">Election des conseillers municipaux</p>
+<td colspan="2">
+<p align="center">Election des conseillers municipaux <br/>
+</p>
 </td>
-<td colspan="2" width="224">
-<p align="center">Election des membres<br/>de l'assemblée de la Polynésie française</p>
+<td colspan="2">
+<p align="center">Election des membres<br/>de l'assemblée de la Polynésie française </p>
 </td>
 </tr>
 <tr>
-<td width="112">
-<p align="center">Listes présentes<br/>au premier tour</p>
+<td>
+<p align="center">Listes présentes<br/>au premier tour </p>
 </td>
-<td width="111">
+<td>
 <p align="center">Listes présentes<br/>au second tour</p>
 </td>
-<td width="111">
-<p align="center">Listes présentes<br/>au premier tour</p>
+<td>
+<p align="center">Listes présentes<br/>au premier tour </p>
 </td>
-<td width="111">
-<p align="center">Listes présentes<br/>au second tour</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>N'excédant pas 15 000 habitants </p>
-</td>
-<td valign="top" width="112">
-<p align="center">156</p>
-</td>
-<td valign="top" width="111">
-<p align="center">214</p>
-</td>
-<td valign="top" width="111">
-<p align="center">136</p>
-</td>
-<td valign="top" width="111">
-<p align="center">186</p>
+<td>
+<p align="center">Listes présentes<br/>au second tour </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>De 15 001 à 30 000 habitants </p>
+<td align="center">
+<p align="left">N'excédant pas 15 000 habitants </p>
 </td>
-<td valign="top" width="112">
-<p align="center">137</p>
+<td align="center">
+<br/>156 <br/>
 </td>
-<td valign="top" width="111">
-<p align="center">195</p>
+<td align="center">
+<br/>214 <br/>
 </td>
-<td valign="top" width="111">
-<p align="center">107</p>
+<td align="center">
+<br/>136 <br/>
 </td>
-<td valign="top" width="111">
-<p align="center">152</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>De 30 001 à 60 000 habitants </p>
-</td>
-<td valign="top" width="112">
-<p align="center">118</p>
-</td>
-<td valign="top" width="111">
-<p align="center">156</p>
-</td>
-<td valign="top" width="111">
-<p align="center">97</p>
-</td>
-<td valign="top" width="111">
-<p align="center">129</p>
+<td align="center">
+<br/>186 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>De plus de 60 000 habitants </p>
+<td align="center">
+<p align="left">De 15 001 à 30 000 habitants</p>
 </td>
-<td valign="top" width="112">
-<p align="center">107</p>
+<td align="center">
+<br/>137 <br/>
 </td>
-<td valign="top" width="111">
-<p align="center">147</p>
+<td align="center">
+<br/>195 <br/>
 </td>
-<td valign="top" width="111">
-<p align="center">68</p>
+<td align="center">
+<br/>107 <br/>
 </td>
-<td valign="top" width="111">
-<p align="center">94</p>
+<td align="center">
+<br/>152 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">De 30 001 à 60 000 habitants</p>
+</td>
+<td align="center">
+<br/>118 <br/>
+</td>
+<td align="center">
+<br/>156 <br/>
+</td>
+<td align="center">
+<br/>97 <br/>
+</td>
+<td align="center">
+<br/>129 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">De plus de 60 000 habitants</p>
+</td>
+<td align="center">
+<br/>107 <br/>
+</td>
+<td align="center">
+<br/>147 <br/>
+</td>
+<td align="center">
+<br/>68 <br/>
+</td>
+<td align="center">
+<br/>94 <br/>
 </td>
 </tr>
 </tbody>
@@ -200,7 +201,7 @@ Pour l'application des dispositions du chapitre V bis du titre Ier du livre Ier 
 
 5° Le plafond des dépenses pour l'élection des députés mentionné au troisième alinéa de l'article L. 52-11 est de 4 545 000 francs CFP ; il est majoré de 20 francs CFP par habitant de la circonscription.
 
-6° Dans l'article L. 52-11, la référence à l'indice du coût de la vie de l'Institut national de la statistique et des études économiques est remplacée :
+6° Aux articles L. 52-8 et L. 52-11, la référence à l'indice du coût de la vie de l'Institut national de la statistique et des études économiques est remplacée :
 
 a) En Nouvelle-Calédonie, par la référence à l'indice du coût de la vie (hors tabac) de l'Institut territorial de la statistique et des études économiques ;
 

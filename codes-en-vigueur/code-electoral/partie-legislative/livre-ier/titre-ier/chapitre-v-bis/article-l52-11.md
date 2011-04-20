@@ -160,4 +160,4 @@ Le plafond des dépenses pour l'élection des députés est de 38 000 euros par 
 
 Les plafonds définis pour l'élection des conseillers régionaux sont applicables à l'élection des conseillers à l'Assemblée de Corse.
 
-Ces plafonds sont actualisés tous les trois ans par décret, en fonction de l'indice du coût de la vie de l'Institut national de la statistique et des études économiques.
+Les montants prévus au présent article sont actualisés tous les ans par décret. Ils évoluent comme l'indice des prix à la consommation des ménages, hors tabac.

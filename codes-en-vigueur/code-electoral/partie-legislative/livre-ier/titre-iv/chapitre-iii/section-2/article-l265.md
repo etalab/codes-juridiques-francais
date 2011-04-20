@@ -1,6 +1,6 @@
 # Article L265
 
-La déclaration de candidature résulte du dépôt à la préfecture ou à la sous-préfecture d'une liste répondant aux conditions fixées aux articles L. 260, L. 263, L. 264 et LO 265-1. Il en est délivré récépissé.
+La déclaration de candidature résulte du dépôt à la préfecture ou à la sous-préfecture d'une liste répondant aux conditions fixées aux articles L. 260, L. 263, L. 264 et LO. 265-1. Il en est délivré récépissé.
 
 Elle est faite collectivement pour chaque liste par la personne ayant la qualité de responsable de liste. A cet effet, chaque candidat établit un mandat signé de lui, confiant au responsable de liste le soin de faire ou de faire faire, par une personne déléguée par lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le second tours. La liste déposée indique expressément :
 
@@ -13,6 +13,8 @@ Le dépôt de la liste doit être assorti, pour le premier tour, de l'ensemble d
 Pour chaque tour de scrutin, cette déclaration comporte la signature de chaque candidat, sauf le droit pour tout candidat de compléter la déclaration collective non signée de lui par une déclaration individuelle faite dans le même délai et portant sa signature.
 
 Toutefois, les signatures de chaque candidat ne sont pas exigées pour la déclaration de candidature des listes qui ne procèdent à aucune modification de leur composition au second tour.
+
+Pour le premier tour de scrutin dans les communes de 9 000 habitants et plus, sont également jointes les pièces de nature à prouver que le candidat a procédé à la déclaration d'un mandataire conformément aux articles L. 52-5 et L. 52-6 ou, s'il n'a pas procédé à cette déclaration, les pièces prévues au premier alinéa de ces mêmes articles.
 
 Récépissé ne peut être délivré que si les conditions énumérées au présent article sont remplies et si les documents officiels visés au quatrième alinéa établissent que les candidats satisfont aux conditions d'éligibilité posées par les deux premiers alinéas de l'article L. 228.
 
