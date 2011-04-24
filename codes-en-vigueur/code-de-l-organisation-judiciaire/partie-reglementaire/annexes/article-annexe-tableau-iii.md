@@ -239,7 +239,7 @@ Liste des maisons de justice et du droit
 <p align="center">Thonon-les-Bains</p>
 </td>
 <td align="center">
-<p align="left">Annemasse.</p>
+<p align="left">Annemasse, Saint-Julien-en-Genevois.</p>
 </td>
 </tr>
 <tr>
