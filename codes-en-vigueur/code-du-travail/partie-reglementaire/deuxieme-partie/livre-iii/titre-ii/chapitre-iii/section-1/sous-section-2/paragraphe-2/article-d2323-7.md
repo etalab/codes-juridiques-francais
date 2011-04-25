@@ -6,4 +6,4 @@ La première réunion porte sur la présentation et la discussion des documents 
 
 La seconde réunion est relative au plan de formation, aux conditions de mise en œuvre des périodes et des contrats de professionnalisation et à la mise en œuvre du droit individuel à la formation mentionné au 8° de l'article précité.
 
-Ces deux réunions doivent intervenir respectivement avant le 1er octobre et avant le 31 décembre de l'année en cours.
+Ces deux réunions doivent intervenir respectivement avant le 1er octobre et avant le 31 décembre de l'année en cours. Toutefois, dans les branches du transport aérien, les deux dates limites de consultation du comité peuvent être modifiées par un accord de branche étendu.
