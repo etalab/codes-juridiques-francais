@@ -12,7 +12,6 @@
 - [Article Annexe art. A344-9](article-annexe-art-a344-9.md)
 - [Article Annexe art. A344-13](article-annexe-art-a344-13.md)
 - [Article Annexe art. A344-14-1](article-annexe-art-a344-14-1.md)
-- [Article Annexe art. A344-16](article-annexe-art-a344-16.md)
 - [Article A344-3](article-a344-3.md)
 - [Article A344-4](article-a344-4.md)
 - [Article A344-6](article-a344-6.md)
@@ -25,4 +24,3 @@
 - [Article A344-14](article-a344-14.md)
 - [Article A344-14-1](article-a344-14-1.md)
 - [Article A344-15](article-a344-15.md)
-- [Article A344-16](article-a344-16.md)
