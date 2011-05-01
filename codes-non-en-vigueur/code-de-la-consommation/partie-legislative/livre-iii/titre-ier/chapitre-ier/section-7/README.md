@@ -10,5 +10,3 @@
 - [Article L311-25](article-l311-25.md)
 - [Article L311-25-1](article-l311-25-1.md)
 - [Article L311-26](article-l311-26.md)
-- [Article L311-33](article-l311-33.md)
-- [Article L311-36](article-l311-36.md)

@@ -1,7 +1,5 @@
 # Chapitre II : Le tribunal arbitral
 
-- [Article 1447](article-1447.md)
-- [Article 1448](article-1448.md)
 - [Article 1450](article-1450.md)
 - [Article 1451](article-1451.md)
 - [Article 1452](article-1452.md)
