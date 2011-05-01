@@ -1,4 +1,4 @@
-# Chapitre III : Règles communes.
+# Chapitre III : L'instance arbitrale
 
 - [Article 1451](article-1451.md)
 - [Article 1452](article-1452.md)
@@ -9,3 +9,19 @@
 - [Article 1457](article-1457.md)
 - [Article 1458](article-1458.md)
 - [Article 1459](article-1459.md)
+- [Article 1462](article-1462.md)
+- [Article 1463](article-1463.md)
+- [Article 1464](article-1464.md)
+- [Article 1465](article-1465.md)
+- [Article 1466](article-1466.md)
+- [Article 1467](article-1467.md)
+- [Article 1468](article-1468.md)
+- [Article 1469](article-1469.md)
+- [Article 1470](article-1470.md)
+- [Article 1471](article-1471.md)
+- [Article 1472](article-1472.md)
+- [Article 1473](article-1473.md)
+- [Article 1474](article-1474.md)
+- [Article 1475](article-1475.md)
+- [Article 1476](article-1476.md)
+- [Article 1477](article-1477.md)

@@ -1,7 +1,7 @@
 # Livre IV : L'arbitrage.
 
-- [Titre Ier : Les conventions d'arbitrage.](titre-ier)
-- [Titre II : L'instance arbitrale.](titre-ii)
+- [Titre Ier : L'arbitrage interne.](titre-ier)
+- [Titre II : L'arbitrage international](titre-ii)
 - [Titre III : La sentence arbitrale.](titre-iii)
 - [Titre IV : Les voies de recours.](titre-iv)
 - [Titre V : L'arbitrage international.](titre-v)
