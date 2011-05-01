@@ -1,6 +1,6 @@
-# Article R311-8
+# Article R311-9
 
-L'acheteur qui sollicite la livraison ou la fourniture immédiate du bien ou de la prestation de services en application de l'article L. 311-24 doit apposer sur le contrat de vente une demande rédigée de sa main dans les termes suivants :
+L'acheteur qui sollicite la livraison ou la fourniture immédiate du bien ou de la prestation de services en application de l'article L. 311-35 doit apposer sur le contrat de vente une demande rédigée de sa main dans les termes suivants :
 
 "Je demande à être livré immédiatement (ou à bénéficier immédiatement de la prestation de services).
 

@@ -1,7 +1,9 @@
 # Chapitre Ier : Crédit à la consommation
 
-- [Section 1 : Champ d'application](section-1)
-- [Section 2 : Publicité](section-2)
-- [Section 3 : Crédit gratuit](section-3)
-- [Section 4 : Le contrat de crédit](section-4)
-- [Section 5 : Les crédits affectés](section-5)
+- [Section 1 : Publicité](section-1)
+- [Section 2 : Information précontractuelle de l'emprunteur](section-2)
+- [Section 3 : Formation du contrat de crédit](section-3)
+- [Section 4 : Informations mentionnées dans le contrat](section-4)
+- [Section 6 : Les crédits affectés](section-6)
+- [Section 7 : Opérations de découvert en compte](section-7)
+- [Section 8 : Sanctions](section-8)

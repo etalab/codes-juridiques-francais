@@ -1,4 +1,4 @@
-# Section 4 : Le contrat de crédit
+# Section 4 : Informations mentionnées dans le contrat
 
-- [Article R311-6](article-r311-6.md)
-- [Article R311-7](article-r311-7.md)
+- [Article R311-5](article-r311-5.md)
+- [Article R311-5-1](article-r311-5-1.md)

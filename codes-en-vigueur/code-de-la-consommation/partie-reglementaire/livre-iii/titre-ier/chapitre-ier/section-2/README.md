@@ -1,3 +1,3 @@
-# Section 2 : Publicité
+# Section 2 : Information précontractuelle de l'emprunteur
 
-- [Article D311-3-1](article-d311-3-1.md)
+- [Article R311-3](article-r311-3.md)

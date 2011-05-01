@@ -1,4 +1,4 @@
-# Section 1 : Champ d'application
+# Section 1 : Publicité
 
 - [Article D311-1](article-d311-1.md)
 - [Article D311-2](article-d311-2.md)
