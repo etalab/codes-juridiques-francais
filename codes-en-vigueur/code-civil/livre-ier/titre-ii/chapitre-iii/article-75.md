@@ -1,6 +1,6 @@
 # Article 75
 
-Le jour désigné par les parties, après le délai de publication, l'officier de l'état civil, à la mairie, en présence d'au moins deux témoins, ou de quatre au plus, parents ou non des parties, fera lecture aux futurs époux des articles 212, 213 (alinéas 1er et 2), 214 (alinéa 1er) et 215 (alinéa 1er) du présent code. Il sera également fait lecture de l'article 371-1.
+Le jour désigné par les parties, après le délai de publication, l'officier de l'état civil, à la mairie, en présence d'au moins deux témoins, ou de quatre au plus, parents ou non des parties, fera lecture aux futurs époux des articles 212, 213 (alinéas 1er et 2), 214 (alinéa 1er), 215 (alinéa 1er) et 220 du présent code. Il sera également fait lecture de l'article 371-1.
 
 Toutefois, en cas d'empêchement grave, le procureur de la République du lieu du mariage pourra requérir l'officier de l'état civil de se transporter au domicile ou à la résidence de l'une des parties pour célébrer le mariage. En cas de péril imminent de mort de l'un des futurs époux, l'officier de l'état civil pourra s'y transporter avant toute réquisition ou autorisation du procureur de la République, auquel il devra ensuite, dans le plus bref délai, faire part de la nécessité de cette célébration hors de la maison commune.
 

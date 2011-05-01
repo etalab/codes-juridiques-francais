@@ -8,7 +8,7 @@ Les prêts mentionnés au premier alinéa s'entendent de ceux définis aux artic
 
 a) Des ventes ou prestations de service dont le paiement est échelonné, différé ou fractionné ;
 
-b) Des ouvertures de crédit mentionnées à l'article L. 311-9 du même code ;
+b) Des ouvertures de crédit mentionnées à l'article L. 311-16 du même code ;
 
 c) Des découverts en compte ;
 
