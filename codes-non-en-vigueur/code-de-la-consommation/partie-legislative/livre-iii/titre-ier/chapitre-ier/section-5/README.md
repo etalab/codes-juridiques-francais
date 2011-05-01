@@ -1,5 +1,6 @@
-# Section 5 : Les crédits affectés.
+# Section 5 : Formation du contrat de crédit
 
+- [Article L311-16](article-l311-16.md)
 - [Article L311-20](article-l311-20.md)
 - [Article L311-21](article-l311-21.md)
 - [Article L311-22](article-l311-22.md)
