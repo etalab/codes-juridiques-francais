@@ -7,5 +7,6 @@
 - [Article R*4139-18](article-r-4139-18.md)
 - [Article R*4139-19](article-r-4139-19.md)
 - [Article R*4139-20](article-r-4139-20.md)
+- [Article R4139-20-1](article-r4139-20-1.md)
 - [Article R*4139-21](article-r-4139-21.md)
 - [Article R*4139-22](article-r-4139-22.md)

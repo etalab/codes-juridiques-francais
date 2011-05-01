@@ -1,7 +1,6 @@
 # Sous-section 1 :  Dispositions relatives au détachement ou au classement des militaires lauréats de concours de la fonction publique ou de la magistrature
 
 - [Article R4139-1](article-r4139-1.md)
-- [Article R4139-2](article-r4139-2.md)
 - [Article R4139-3](article-r4139-3.md)
 - [Article R4139-4](article-r4139-4.md)
 - [Article R4139-5](article-r4139-5.md)
