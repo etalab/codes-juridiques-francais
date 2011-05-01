@@ -25,5 +25,4 @@
 - [Article Annexe VI à l'article R432-3](article-annexe-vi-a-l-article-r432-3.md)
 - [Article Annexe VII à l'article R432-3](article-annexe-vii-a-l-article-r432-3.md)
 - [Article Annexe de l'article R214-85](article-annexe-de-l-article-r214-85.md)
-- [Article Annexe de l'article R563-4](article-annexe-de-l-article-r563-4.md)
 - [Article Annexe à l'article R543-177](article-annexe-a-l-article-r543-177.md)

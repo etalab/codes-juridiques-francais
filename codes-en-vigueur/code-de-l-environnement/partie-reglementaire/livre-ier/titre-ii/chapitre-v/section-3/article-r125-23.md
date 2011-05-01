@@ -8,4 +8,4 @@ L'obligation d'information prévue au I de l'article L. 125-5 s'applique, dans c
 
 3° Dans le périmètre mis à l'étude dans le cadre de l'élaboration d'un plan de prévention des risques technologiques ou d'un plan de prévention des risques naturels prévisibles prescrit ;
 
-4° Dans une des zones de sismicité I a, I b, II ou III mentionnées à l'article R563-4 du code de l'environnement.
+4° Dans une des zones de sismicité 2, 3, 4 ou 5 mentionnées à l'article R. 563-4 du code de l'environnement.
