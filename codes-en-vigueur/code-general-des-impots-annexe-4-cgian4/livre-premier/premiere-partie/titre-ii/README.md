@@ -5,4 +5,5 @@
 - [Chapitre III : Redevance sanitaire de découpage](chapitre-iii)
 - [Chapitre III bis : Redevances sanitaires sur les produits de la pêche et de l'aquaculture](chapitre-iii-bis)
 - [Chapitre III ter : Redevance sanitaire pour le contrôle de certaines substances et de leurs résidus](chapitre-iii-ter)
+- [Chapitre V : Contribution de solidarité territoriale](chapitre-v)
 - [Chapitre premier : Taxe sur la valeur ajoutée](chapitre-premier)
