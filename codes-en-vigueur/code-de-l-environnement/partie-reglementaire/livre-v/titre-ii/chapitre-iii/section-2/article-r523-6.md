@@ -10,4 +10,4 @@ Les membres de la commission, ainsi que toute personne qu'elle consulte, sont te
 
 Les avis de la commission sont émis à la majorité des membres présents ou représentés. En cas de partage égal des voix, la voix du président est prépondérante.
 
-La commission élabore son règlement intérieur.
+La commission adopte son règlement intérieur qui est soumis à l'approbation du ministre chargé de l'environnement.
