@@ -1,4 +1,4 @@
-# Section 2 : Dotation globale d'équipement
+# Section 2 : Dotation d'équipement des territoires ruraux
 
 - [Article R234-5](article-r234-5.md)
 - [Article R234-6](article-r234-6.md)

@@ -1,5 +1,5 @@
-# Sous-paragraphe 5 : Dotation globale d'équipement.
+# Sous-paragraphe 5 : Dotation d'équipement des territoires ruraux.
 
 - [C. Procédure d'attribution de la subvention.](c)
-- [A. Modalités de répartition de la quote-part de la dotation globale d'équipement.](a)
+- [A. Modalités de répartition.](a)
 - [B. Commission instituée par l'article R. 2573-55.](b)

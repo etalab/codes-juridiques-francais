@@ -4,4 +4,4 @@
 - [Sous-paragraphe 2 : Répartition des ressources du fonds intercommunal de péréquation.](sous-paragraphe-2)
 - [Sous-paragraphe 3 : Dotation globale de fonctionnement.](sous-paragraphe-3)
 - [Sous-paragraphe 4 : Dotation spéciale pour le logement des instituteurs.](sous-paragraphe-4)
-- [Sous-paragraphe 5 : Dotation globale d'équipement.](sous-paragraphe-5)
+- [Sous-paragraphe 5 : Dotation d'équipement des territoires ruraux.](sous-paragraphe-5)
