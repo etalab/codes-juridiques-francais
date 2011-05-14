@@ -1,5 +1,4 @@
-# Section 1 : Placement
+# Section 1 : Agents artistiques
 
-- [Sous-section 1 : Licence d'agent artistique](sous-section-1)
-- [Sous-section 2 : Rémunération des services de placement](sous-section-2)
-- [Sous-section 3 : Obligations des agences artistiques](sous-section-3)
+- [Sous-section 1 : Dispositions générales](sous-section-1)
+- [Sous-section 2 : Le mandat](sous-section-2)

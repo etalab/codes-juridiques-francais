@@ -6,5 +6,3 @@
 - [Article R7121-4](article-r7121-4.md)
 - [Article R7121-5](article-r7121-5.md)
 - [Article R7121-6](article-r7121-6.md)
-- [Article R7121-7](article-r7121-7.md)
-- [Article R7121-8](article-r7121-8.md)
