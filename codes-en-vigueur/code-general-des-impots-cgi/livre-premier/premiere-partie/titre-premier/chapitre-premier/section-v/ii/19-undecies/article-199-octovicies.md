@@ -4,7 +4,7 @@ I.-Les contribuables domiciliés en France au sens de l'article 4 B bénéficien
 
 La réduction d'impôt s'applique aux dépenses mentionnées au premier alinéa ayant reçu un avis favorable du service de l'Etat compétent en matière d'environnement.
 
-II.-La réduction d'impôt est égale à 25 % des dépenses mentionnées au I effectivement supportées au titre de l'année d'imposition et restant à la charge des propriétaires des espaces concernés, retenues dans la limite annuelle de 10 000 euros.
+II.-La réduction d'impôt est égale à 22 % des dépenses mentionnées au I effectivement supportées au titre de l'année d'imposition et restant à la charge des propriétaires des espaces concernés, retenues dans la limite annuelle de 10 000 euros.
 
 Lorsque le montant de la réduction d'impôt excède l'impôt dû par le contribuable au titre d'une année d'imposition, le solde peut être imputé sur l'impôt sur le revenu dû au titre des années suivantes jusqu'à la sixième année inclusivement.
 

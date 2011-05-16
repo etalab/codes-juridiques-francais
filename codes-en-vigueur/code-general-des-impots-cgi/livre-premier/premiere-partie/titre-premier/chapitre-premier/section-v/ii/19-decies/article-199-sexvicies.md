@@ -12,7 +12,7 @@ I.-Les contribuables domiciliés en France au sens de l'article 4 B peuvent bén
 
 II.-La réduction d'impôt est calculée sur le prix de revient des logements retenu pour sa fraction inférieure à 300 000 €. Lorsqu'elle est acquise au titre d'un logement achevé depuis au moins quinze ans et qui fait l'objet de travaux de réhabilitation, elle est calculée sur le prix d'acquisition majoré du montant de ces travaux.
 
-Le taux de la réduction d'impôt est de 25 % pour les logements acquis en 2009 et en 2010, et de 20 % pour les logements acquis à compter de l'année 2011.
+Le taux de la réduction d'impôt est de 25 % pour les logements acquis en 2009 et en 2010, et de 18 % pour les logements acquis à compter de l'année 2011.
 
 Lorsque le logement est détenu en indivision, chaque indivisaire bénéficie de la réduction d'impôt dans la limite de la quote-part du prix de revient, majoré le cas échéant des dépenses de travaux de réhabilitation, correspondant à ses droits dans l'indivision.
 
