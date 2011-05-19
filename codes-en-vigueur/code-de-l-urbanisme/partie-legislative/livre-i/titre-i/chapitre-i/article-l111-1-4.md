@@ -2,7 +2,9 @@
 
 En dehors des espaces urbanisés des communes, les constructions ou installations sont interdites dans une bande de cent mètres de part et d'autre de l'axe des autoroutes, des routes express et des déviations au sens du code de la voirie routière et de soixante-quinze mètres de part et d'autre de l'axe des autres routes classées à grande circulation.
 
-Cette interdiction ne s'applique pas :
+Cette interdiction s'applique également dans une bande de soixante-quinze mètres de part et d'autre des routes visées au dernier alinéa du III de l'article L. 122-1-5.
+
+Elle ne s'applique pas :
 
 -aux constructions ou installations liées ou nécessaires aux infrastructures routières ;
 
@@ -12,7 +14,7 @@ Cette interdiction ne s'applique pas :
 
 -aux réseaux d'intérêt public.
 
-Elle ne s'applique pas non plus à l'adaptation, au changement de destination, à la réfection ou à l'extension de constructions existantes. Un règlement local de publicité pris en application de l'article L. 581-14 du code de l'environnement est établi par l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme ou la commune.L'élaboration et l'approbation des dispositions d'urbanisme et du règlement local de publicité font l'objet d'une procédure unique et d'une même enquête publique.
+Elle ne s'applique pas non plus à l'adaptation, au changement de destination, à la réfection ou à l'extension de constructions existantes. Un règlement local de publicité pris en application de l'article L. 581-14 du code de l'environnement est établi par l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme ou la commune. L'élaboration et l'approbation des dispositions d'urbanisme et du règlement local de publicité font l'objet d'une procédure unique et d'une même enquête publique.
 
 Le plan local d'urbanisme, ou un document d'urbanisme en tenant lieu, peut fixer des règles d'implantation différentes de celles prévues par le présent article lorsqu'il comporte une étude justifiant, en fonction des spécificités locales, que ces règles sont compatibles avec la prise en compte des nuisances, de la sécurité, de la qualité architecturale, ainsi que de la qualité de l'urbanisme et des paysages.
 

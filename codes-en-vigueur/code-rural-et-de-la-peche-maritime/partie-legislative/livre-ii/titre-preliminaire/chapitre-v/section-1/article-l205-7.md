@@ -6,9 +6,9 @@ I. ― Les agents mentionnés à l'article L. 205-1 peuvent :
 
 2° Accéder, sur les véhicules soumis à l'obligation d'en être équipés, au chrono-tachygraphe et à toutes ses composantes afin d'en vérifier l'intégrité ou de copier, par tout moyen, les informations enregistrées par l'appareil ;
 
-3° Recueillir les de toute personne présente susceptible d'apporter des éléments utiles à leurs constatations (1).
+3° Recueillir les observations de toute personne présente susceptible d'apporter des éléments utiles à leurs constatations.
 
-II. ― Ils peuvent procéder à des prélèvements aux fins d'analyse sur des produits ou des animaux soumis à leur contrôle.L'analyse est confiée à l'un des laboratoires habilités mentionnés à l'article L. 202-1. A défaut, le choix du laboratoire est soumis à l'accord du procureur de la République.
+II. ― Ils peuvent procéder à des prélèvements aux fins d'analyse sur des produits ou des animaux soumis à leur contrôle. L'analyse est confiée à l'un des laboratoires habilités mentionnés à l'article L. 202-1. A défaut, le choix du laboratoire est soumis à l'accord du procureur de la République.
 
 Ils peuvent consigner les produits dans l'attente des résultats de l'analyse.
 

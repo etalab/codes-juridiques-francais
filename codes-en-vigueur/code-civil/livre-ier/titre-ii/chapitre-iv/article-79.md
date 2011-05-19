@@ -10,6 +10,8 @@ L'acte de décès énoncera :
 
 4° Les prénoms et nom de l'autre époux, si la personne décédée était mariée, veuve ou divorcée ;
 
+4° bis Les prénoms et nom de l'autre partenaire, si la personne décédée était liée par un pacte civil de solidarité ;
+
 5° Les prénoms, nom, âge, profession et domicile du déclarant et, s'il y a lieu, son degré de parenté avec la personne décédée.
 
 Le tout, autant qu'on pourra le savoir.

@@ -46,4 +46,6 @@ Le maire peut, en outre, par délégation du conseil municipal, être chargé, e
 
 22° D'exercer au nom de la commune le droit de priorité défini aux articles L. 240-1 à L. 240-3 du code de l'urbanisme ;
 
-23° De prendre les décisions mentionnées aux articles L. 523-4 et L. 523-5 du code du patrimoine relatives à la réalisation de diagnostics d'archéologie préventive prescrits pour les opérations d'aménagement ou de travaux sur le territoire de la commune.
+23° De prendre les décisions mentionnées aux articles L. 523-4 et L. 523-5 du code du patrimoine relatives à la réalisation de diagnostics d'archéologie préventive prescrits pour les opérations d'aménagement ou de travaux sur le territoire de la commune ;
+
+24° D'autoriser, au nom de la commune, le renouvellement de l'adhésion aux associations dont elle est membre.

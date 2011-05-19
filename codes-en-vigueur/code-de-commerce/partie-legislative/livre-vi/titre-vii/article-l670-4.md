@@ -5,5 +5,3 @@ Lors de la clôture des opérations de liquidation judiciaire, le tribunal peut,
 Pour fixer les proportions de la contribution, le tribunal prend en compte les facultés contributives du débiteur déterminées au regard de ses ressources et charges incompressibles. Le tribunal réduit le montant de la contribution en cas de diminution des ressources ou d'augmentation des charges du contributeur.
 
 Son paiement doit être effectué dans un délai de deux ans.
-
-Les modalités d'application du présent article sont fixées par décret.

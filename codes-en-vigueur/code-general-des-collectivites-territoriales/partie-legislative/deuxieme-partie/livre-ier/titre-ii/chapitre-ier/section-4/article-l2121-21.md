@@ -11,3 +11,5 @@ Il est voté au scrutin secret :
 Dans ces derniers cas, si aucun des candidats n'a obtenu la majorité absolue après deux tours de scrutin secret, il est procédé à un troisième tour de scrutin et l'élection a lieu à la majorité relative ; à égalité de voix, l'élection est acquise au plus âgé.
 
 Le conseil municipal peut décider, à l'unanimité, de ne pas procéder au scrutin secret aux nominations ou aux présentations, sauf disposition législative ou réglementaire prévoyant expressément ce mode de scrutin.
+
+Si une seule candidature a été déposée pour chaque poste à pourvoir au sein des commissions municipales ou dans les organismes extérieurs, ou si une seule liste a été présentée après appel de candidatures, les nominations prennent effet immédiatement, dans l'ordre de la liste le cas échéant, et il en est donné lecture par le maire.

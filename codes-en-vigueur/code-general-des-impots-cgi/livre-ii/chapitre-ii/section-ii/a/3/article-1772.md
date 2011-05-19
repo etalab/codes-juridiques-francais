@@ -1,6 +1,6 @@
 # Article 1772
 
-1. Sont passibles, indépendamment des sanctions fiscales édictées par le présent code, d'une amende de 4 500 euros et d'un emprisonnement de cinq ans ou de l'une de ces deux peines seulement :
+1. Sont passibles, indépendamment des sanctions fiscales édictées par le présent code, d'une amende de 4 500 € et d'un emprisonnement de cinq ans :
 
 1° Tout agent d'affaires, expert et toute autre personne qui fait profession, soit pour son compte, soit comme dirigeant ou agent salarié de société, association, groupement ou entreprise quelconque, de tenir les écritures comptables de plusieurs clients et qui est convaincu d'avoir établi ou aidé à établir de faux bilans, inventaires, comptes et documents, de quelque nature qu'ils soient, produits pour la détermination des bases des impôts dus par lesdits clients ;
 

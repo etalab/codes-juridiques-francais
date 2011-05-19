@@ -11,3 +11,5 @@ Elle est habilitée à intervenir comme intermédiaire pour l'adoption dans les 
 Pour l'exercice de son activité, dans les pays d'origine, elle s'appuie sur un réseau de correspondants.
 
 Elle assure ses compétences dans le strict respect des principes d'égalité et de neutralité.
+
+Sous réserve des dispositions de la présente section, ce groupement est régi par le chapitre II de la loi n° 2011-525 du 17 mai 2011 de simplification et d'amélioration de la qualité du droit.

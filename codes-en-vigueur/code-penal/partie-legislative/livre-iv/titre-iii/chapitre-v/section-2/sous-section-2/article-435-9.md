@@ -12,6 +12,6 @@ Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait, par q
 
 5° Tout arbitre exerçant sa mission sous l'empire du droit d'un Etat étranger sur l'arbitrage,
 
-pour lui-même ou pour autrui, des offres, des promesses, des dons, des présents ou des avantages quelconques pour obtenir l'accomplissement ou l'abstention d'un acte de sa fonction ou facilité par sa fonction.
+pour lui-même ou pour autrui, des offres, des promesses, des dons, des présents ou des avantages quelconques pour que cette personne accomplisse ou s'abstienne d'accomplir, ou parce qu'elle a accompli ou s'est abstenue d'accomplir un  acte de sa fonction ou facilité par sa fonction.
 
-Est puni des mêmes peines le fait, par quiconque, de céder à une personne mentionnée aux 1° à 5° qui sollicite, sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques, pour elle-même ou pour autrui, en vue de l'accomplissement ou de l'abstention d'un acte de sa fonction.
+Est puni des mêmes peines le fait, par quiconque, de céder à une personne mentionnée aux 1° à 5° qui sollicite, sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques, pour elle-même ou pour autrui, pour accomplir ou avoir accompli, pour s'abstenir ou s'être abstenue d'accomplir un acte de sa fonction ou facilité par  sa fonction.

@@ -10,8 +10,4 @@ Le département peut signer des conventions avec l'Etat, les organismes de sécu
 
 Les conventions relatives à la coordination des prestations servies aux personnes agées dépendantes conclues avec les organismes de sécurité sociale doivent être conformes à un cahier des charges arrêté par le ministre chargé des personnes âgées après avis des représentants des présidents de conseils généraux et des organismes nationaux de sécurité sociale.
 
-Un comité national de la coordination gérontologique est chargé du suivi de la mise en oeuvre de ces conventions et, le cas échéant, d'une fonction de médiation pour leur conclusion. Ce comité a également pour mission d'évaluer le développement qualitatif et quantitatif du dispositif d'allocation personnalisée d'autonomie au terme des deux ans d'application. Cette mission ne comprend pas la réforme de la grille mentionnée à l'article L. 232-2.
-
-Un décret précise les modalités de fonctionnement et la composition du comité mentionné à l'alinéa précédent qui comprend, notamment, des représentants des présidents de conseils généraux, des organismes de sécurité sociale et du comité national des retraités et des personnes âgées.
-
 Pour favoriser l'évaluation des prestations servies aux personnes âgées par les collectivités publiques et institutions concernées, des conventions organisant des dispositifs d'observation partagée peuvent être passées entre l'Etat, le département, les organismes de protection sociale et toute commune souhaitant y participer.

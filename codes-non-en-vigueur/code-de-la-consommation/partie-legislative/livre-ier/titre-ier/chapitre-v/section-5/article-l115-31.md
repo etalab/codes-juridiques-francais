@@ -4,9 +4,9 @@ Sont qualifiés pour procéder à la recherche et à la constatation des infract
 
 -les officiers et agents de police judiciaire ;
 
--les agents de la sous-direction de la métrologie au ministère chargé de l'industrie ainsi que ceux des directions régionales de l'industrie, de la recherche et de l'environnement ;
+-les agents de la sous-direction de la métrologie au ministère chargé de l'industrie ainsi que ceux des services déconcentrés de l'Etat chargés des contrôles dans le domaine de la métrologie ;
 
--les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes, de la direction générale des douanes et des droits indirects ;
+-les                 agents de la concurrence, de la consommation et de la répression des fraudes, de la direction générale des douanes et des droits indirects ;
 
 -les agents mentionnés aux articles L. 1421-1 et L. 1435-7 du code de la santé publique ayant la qualité de médecin ou de pharmacien, habilités et assermentés pour la recherche et le constat d'infractions au même code ;
 

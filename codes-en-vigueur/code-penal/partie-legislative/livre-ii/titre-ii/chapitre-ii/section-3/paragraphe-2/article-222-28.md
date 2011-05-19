@@ -12,7 +12,7 @@ L'infraction définie à l'article 222-27 est punie de sept ans d'emprisonnement
 
 5° Lorsqu'elle est commise avec usage ou menace d'une arme ;
 
-6° Lorsque la victime a été mise en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à destination d'un public non déterminé, d'un réseau de télécommunications ;
+6° Lorsque la victime a été mise en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à destination d'un public non déterminé, d'un réseau de communication électronique   ;
 
 7° Lorsqu'elle est commise par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
 

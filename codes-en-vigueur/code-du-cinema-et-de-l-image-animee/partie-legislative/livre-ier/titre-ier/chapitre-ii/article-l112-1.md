@@ -4,6 +4,8 @@ Le président du Centre national du cinéma et de l'image animée est nommé par
 
 Outre son président, le conseil d'administration de l'établissement public est composé :
 
+1° A De deux parlementaires désignés respectivement par les commissions  chargées de la culture de l'Assemblée nationale et du Sénat ;
+
 1° Pour la majorité de ses membres, de représentants de l'Etat ;
 
 2° De membres du Conseil d'Etat, de la Cour de cassation et de la Cour des comptes ;

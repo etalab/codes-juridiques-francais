@@ -16,4 +16,16 @@ Le conseil municipal ou l'assemblée délibérante du groupement de collectivit�
 
 Lorsque le conseil municipal ou l'assemblée délibérante du groupement de collectivités territoriales définit un tarif progressif ou dégressif en fonction des consommations d'eau, il peut définir, pour les immeubles collectifs d'habitation, un barème particulier tenant compte du nombre de logements.
 
+III bis.-Dès que le service d'eau potable constate une augmentation anormale du volume d'eau consommé par l'occupant d'un local d'habitation susceptible d'être causée par la fuite d'une canalisation, il en informe sans délai l'abonné. Une augmentation du volume d'eau consommé est anormale si le volume d'eau consommé depuis le dernier relevé excède le double du volume d'eau moyen consommé par l'abonné ou par un ou plusieurs abonnés ayant occupé le local d'habitation pendant une période équivalente au cours des trois années précédentes ou, à défaut, le volume d'eau moyen consommé dans la zone géographique de l'abonné dans des locaux d'habitation de taille et de caractéristiques comparables.
+
+L'abonné n'est pas tenu au paiement de la part de la consommation excédant le double de la consommation moyenne s'il présente au service d'eau potable, dans le délai d'un mois à compter de l'information prévue au premier alinéa du présent III bis, une attestation d'une entreprise de plomberie indiquant qu'il a fait procéder à la réparation d'une fuite sur ses canalisations.
+
+L'abonné peut demander, dans le même délai d'un mois, au service d'eau potable de vérifier le bon fonctionnement du compteur. L'abonné n'est alors tenu au paiement de la part de la consommation excédant le double de la consommation moyenne qu'à compter de la notification par le service d'eau potable, et après enquête, que cette augmentation n'est pas imputable à un défaut de fonctionnement du compteur.
+
+A défaut de l'information mentionnée au premier alinéa du présent III bis, l'abonné n'est pas tenu au paiement de la part de la consommation excédant le double de la consommation moyenne.
+
+Les redevances et sommes prévues par le premier alinéa de l'article L. 2224-12-2 sont calculées en tenant compte de la consommation facturée.
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent III bis.
+
 IV.-Dans les communes où l'équilibre entre la ressource et la consommation d'eau est menacé de façon saisonnière, le conseil municipal ou l'assemblée délibérante du groupement de collectivités territoriales peut définir des tarifs différents selon les périodes de l'année.

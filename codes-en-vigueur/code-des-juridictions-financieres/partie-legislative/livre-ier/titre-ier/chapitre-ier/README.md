@@ -11,7 +11,6 @@
 - [Article L111-8](article-l111-8.md)
 - [Article L111-8-1](article-l111-8-1.md)
 - [Article L111-8-2](article-l111-8-2.md)
-- [Article L111-8-3](article-l111-8-3.md)
 - [Article L111-9](article-l111-9.md)
 - [Article L111-9-1](article-l111-9-1.md)
 - [Article L111-10](article-l111-10.md)

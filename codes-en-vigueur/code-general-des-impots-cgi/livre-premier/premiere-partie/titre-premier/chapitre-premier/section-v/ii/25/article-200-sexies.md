@@ -78,4 +78,4 @@ Ce versement suit les règles applicables en matière d'excédent de versement.
 
 V.-Le bénéfice de la prime est subordonné à l'indication par les contribuables, sur la déclaration prévue au 1 de l'article 170, du montant des revenus d'activité professionnelle définis au 3° du B du I et des éléments relatifs à la durée d'exercice de ces activités. Pour bénéficier de la prime pour l'emploi, les contribuables peuvent adresser ces indications à l'administration fiscale au plus tard le 31 décembre de la deuxième année suivant celle de la mise en recouvrement du rôle.
 
-VI.-Un décret précise, en tant que de besoin, les modalités d'application du présent article, et notamment celles relatives aux obligations des employeurs.
+VI.(Abrogé)

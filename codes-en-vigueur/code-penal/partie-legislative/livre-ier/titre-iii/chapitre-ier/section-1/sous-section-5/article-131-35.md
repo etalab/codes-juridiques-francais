@@ -9,3 +9,5 @@ L'affichage ou la diffusion de la décision ou du communiqué ne peut comporter 
 La peine d'affichage s'exécute dans les lieux et pour la durée indiqués par la juridiction ; sauf disposition contraire de la loi qui réprime l'infraction, l'affichage ne peut excéder deux mois. En cas de suppression, dissimulation ou lacération des affiches apposées, il est de nouveau procédé à l'affichage aux frais de la personne reconnue coupable de ces faits.
 
 La diffusion de la décision est faite par le Journal officiel de la République française, par une ou plusieurs autres publications de presse, ou par un ou plusieurs services de communication au public par voie électronique. Les publications ou les services de communication au public par voie électronique chargés de cette diffusion sont désignés par la juridiction. Ils ne peuvent s'opposer à cette diffusion.
+
+L'affichage et la diffusion peuvent être ordonnés cumulativement.

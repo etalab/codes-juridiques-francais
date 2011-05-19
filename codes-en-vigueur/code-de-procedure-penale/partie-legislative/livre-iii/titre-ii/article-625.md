@@ -1,6 +1,6 @@
 # Article 625
 
-Si la cour de révision estime que l'affaire n'est pas en état, elle procède comme il est dit à l'avant-dernier alinéa de l'article 623.
+Si la cour de révision estime que l'affaire n'est pas en état, elle procède comme il est dit au sixième alinéa de l'article 623.
 
 Lorsque l'affaire est en état, la cour l'examine au fond et statue, par arrêt motivé non susceptible de voie de recours, à l'issue d'une audience publique au cours de laquelle sont recueillies les observations orales ou écrites du requérant ou de son avocat, celles du ministère public ainsi que, si elle intervient à l'instance, après en avoir été dûment avisée, celles de la partie civile constituée au procès dont la révision est demandée ou de son avocat. Elle rejette la demande si elle l'estime mal fondée. Si, au contraire, elle l'estime fondée, elle annule la condamnation prononcée. Elle apprécie s'il est possible de procéder à de nouveaux débats contradictoires. Dans l'affirmative, elle renvoie les accusés ou prévenus devant une juridiction de même ordre et de même degré, mais autre que celle dont émane la décision annulée.
 

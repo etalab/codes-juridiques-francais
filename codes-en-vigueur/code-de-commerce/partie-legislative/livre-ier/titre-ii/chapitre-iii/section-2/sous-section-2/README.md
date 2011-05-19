@@ -1,4 +1,4 @@
-# Sous-section 2 : Des obligations comptables applicables à certains commerçants, personnes physiques.
+# Sous-section 2 : Des obligations comptables applicables à certains commerçants.
 
 - [Article L123-25](article-l123-25.md)
 - [Article L123-26](article-l123-26.md)

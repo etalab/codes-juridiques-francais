@@ -12,7 +12,7 @@ Sont réputées agressives au sens de l'article L. 122-11 les pratiques commerci
 
 5° Dans une publicité, d'inciter directement les enfants à acheter ou à persuader leurs parents ou d'autres adultes de leur acheter le produit faisant l'objet de la publicité ;
 
-6° D'exiger le paiement immédiat ou différé de produits fournis par le professionnel sans que le consommateur les ait demandés, ou exiger leur renvoi ou leur conservation, sauf lorsqu'il s'agit d'un produit de substitution fourni conformément à l'article L. 121-20-3 ;
+6° (Abrogé) ;
 
 7° D'informer explicitement le consommateur que s'il n'achète pas le produit ou le service, l'emploi ou les moyens d'existence du professionnel seront menacés ;
 

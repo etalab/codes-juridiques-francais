@@ -9,4 +9,3 @@
 - [Article L921-5](article-l921-5.md)
 - [Article L921-6](article-l921-6.md)
 - [Article L921-7](article-l921-7.md)
-- [Article L921-8](article-l921-8.md)

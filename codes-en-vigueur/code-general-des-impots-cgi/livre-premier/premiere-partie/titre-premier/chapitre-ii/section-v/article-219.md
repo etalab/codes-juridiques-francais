@@ -82,8 +82,6 @@ Lorsque les actions ou parts cédées ont été reçues dans le cadre d'un écha
 
 2. Pour les exercices ouverts à compter du 1er janvier 2006, la  plus-value réalisée sur la cession de parts de fonds communs de  placement à risques ou d'actions de sociétés de capital-risque  mentionnées au premier alinéa du a ter est soumise au taux de 8 % à  hauteur du rapport existant à la date de la cession entre la valeur des  actions ou parts de sociétés mentionnées au premier alinéa du 1  inscrites à l'actif du fonds ou de la société augmentée des sommes en  instance de distribution depuis moins de six mois représentative de la  cession d'actions ou de parts de sociétés mentionnées au premier alinéa  du 1 et la valeur de l'actif total de ce fonds ou de cette société. Ce  taux est fixé à 0 % pour les exercices ouverts à compter du 1er janvier  2007.
 
-Un décret en Conseil d'Etat fixe les modalités d'appréciation du rapport précité.
-
 a septies) Lorsqu'il existe des liens de dépendance entre l'entreprise cédante et l'entreprise cessionnaire au sens du 12 de l'article 39, l'imposition des plus-values et moins-values de cession de titres de participation définis au dix-huitième alinéa du 5° du 1 de l'article 39, autres que ceux mentionnés au a sexies-0 bis du présent article, et détenus depuis moins de deux ans, intervient à la première des dates suivantes :
 
 a) La date à laquelle l'entreprise cédante cesse d'être soumise à l'impôt sur les sociétés ou est absorbée par une entreprise qui, à l'issue de l'absorption, n'est pas liée à l'entreprise détenant les titres cédés ;

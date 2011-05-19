@@ -36,7 +36,7 @@ Le procureur de la République, tant que l'action publique n'a pas été mise en
 
 16° Se soumettre à une mesure d'activité de jour consistant en la mise en oeuvre d'activités d'insertion professionnelle ou de mise à niveau scolaire soit auprès d'une personne morale de droit public, soit auprès d'une personne morale de droit privé chargée d'une mission de service public ou d'une association habilitées à mettre en oeuvre une telle mesure ;
 
-17° Se soumettre à une mesure d'injonction thérapeutique, selon les modalités définies aux articles L. 3413-1 à L. 3413-4 du code de la santé publique, lorsqu'il apparaît que l'intéressé fait usage de stupéfiants ou fait une consommation habituelle et excessive de boissons alcooliques.
+17° Se soumettre à une mesure d'injonction thérapeutique, selon les modalités définies aux articles L. 3413-1 à L. 3413-4 du code de la santé publique, lorsqu'il apparaît que l'intéressé fait usage de stupéfiants ou fait une consommation habituelle et excessive de boissons alcooliques. La durée de la mesure est de vingt-quatre mois au plus.
 
 Lorsque la victime est identifiée, et sauf si l'auteur des faits justifie de la réparation du préjudice commis, le procureur de la République doit également proposer à ce dernier de réparer les dommages causés par l'infraction dans un délai qui ne peut être supérieur à six mois. Il informe la victime de cette proposition. Cette réparation peut consister, avec l'accord de la victime, en la remise en état d'un bien endommagé par la commission de l'infraction.
 

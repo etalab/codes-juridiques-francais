@@ -2,7 +2,7 @@
 
 Tout actionnaire a droit, dans les conditions et délais déterminés par décret en Conseil d'Etat, d'obtenir communication :
 
-1° De l'inventaire, des comptes annuels et de la liste des administrateurs ou des membres du directoire et du conseil de surveillance, et, le cas échéant, des comptes consolidés ;
+1° Des comptes annuels et de la liste des administrateurs ou des membres du directoire et du conseil de surveillance, et, le cas échéant, des comptes consolidés ;
 
 2° Des rapports du conseil d'administration ou du directoire et du conseil de surveillance, selon le cas, et des commissaires aux comptes, qui seront soumis à l'assemblée ;
 
@@ -12,4 +12,4 @@ Tout actionnaire a droit, dans les conditions et délais déterminés par décre
 
 5° Du montant global, certifié par les commissaires aux comptes des versements effectués en application des 1 et 4 de l'article 238 bis du code général des impôts ainsi que de la liste des actions nominatives de parrainage, de mécénat ;
 
-6° De la liste et de l'objet des conventions portant sur des opérations courantes conclues à des conditions normales, établis conformément aux articles L. 225-39 et L. 225-87.
+6° (Abrogé)

@@ -11,3 +11,4 @@
 - [Article L5722-7-1](article-l5722-7-1.md)
 - [Article L5722-8](article-l5722-8.md)
 - [Article L5722-9](article-l5722-9.md)
+- [Article L5722-10](article-l5722-10.md)

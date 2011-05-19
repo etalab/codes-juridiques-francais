@@ -8,6 +8,8 @@ Il peut exercer, aux mêmes fins, une action directe, au besoin par voie de cons
 
 L'Etat est également tenu d'accorder sa protection au militaire dans le cas où il fait l'objet de poursuites pénales à l'occasion de faits qui n'ont pas le caractère d'une faute personnelle.
 
+Le service compétent pour accorder la protection est celui dont relève le militaire à la date des faits en cause.
+
 En cas de poursuites exercées par un tiers contre des militaires pour faute de service sans que le conflit d'attribution ait été élevé, l'Etat doit, dans la mesure où aucune faute personnelle détachable de l'exercice des fonctions n'a été commise, les couvrir des condamnations civiles prononcées contre eux.
 
 Les conjoints, enfants et ascendants directs des militaires bénéficient de la protection de l'Etat lorsque, du fait des fonctions de ces derniers, ils sont victimes de menaces, violences, voies de fait, injures, diffamations ou outrages.

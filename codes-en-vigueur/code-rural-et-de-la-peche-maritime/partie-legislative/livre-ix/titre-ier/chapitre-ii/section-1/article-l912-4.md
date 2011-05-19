@@ -4,7 +4,7 @@ I.-Le comité national mentionné à l'article L. 912-1 est administré par un c
 
 En outre, participent aux travaux de ce comité, avec voix consultative, des représentants des entreprises de premier achat et de transformation de la filière des pêches maritimes et des élevages marins.
 
-II.-Les comités régionaux et les comités départementaux ou interdépartementaux sont administrés par un conseil composé de représentants des équipages et salariés des entreprises de pêche maritime et d'élevage marin et des chefs de ces entreprises, de représentants des coopératives maritimes mentionnées aux articles L. 931-5 et suivants, de représentants des organisations de producteurs telles que définies à la section 3 du présent chapitre et de représentants des chefs d'entreprise d'élevage marin.
+II.-Les comités régionaux et les comités départementaux ou interdépartementaux sont administrés par un conseil composé de représentants des équipages et salariés des entreprises de pêche maritime et d'élevage marin et des chefs de ces entreprises, de représentants des coopératives maritimes mentionnées aux articles L. 931-5 et suivants, de représentants des organisations de producteurs telles que définies à la section 3 du présent chapitre.
 
 Les conseils des comités régionaux comprennent également des représentants des comités départementaux ou interdépartementaux.
 

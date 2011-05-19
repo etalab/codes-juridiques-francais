@@ -14,4 +14,4 @@ Un arrêté du ministre chargé de la famille fixe la composition du dossier de 
 
 Tout refus d'agrément doit être motivé.
 
-Les conjoints des membres des Forces françaises et de l'Elément civil stationnés en Allemagne qui souhaitent exercer la profession d'assistant maternel pour accueillir des mineurs à charge de personnes membres des Forces françaises et de l'Elément civil peuvent solliciter un agrément auprès du président du conseil général d'un département limitrophe sauf dans les cas, prévus par décret, où cette compétence est exercée par l'Etat. Les modalités de délivrance de l'agrément sont prévues par convention entre l'Etat et les départements concernés.
+Les conjoints des membres des Forces françaises et de l'Elément civil stationnés en Allemagne qui souhaitent exercer la profession d'assistant maternel pour accueillir des mineurs à charge de personnes membres des Forces françaises et de l'Elément civil sollicitent un agrément auprès du président du conseil général d'un département frontalier. Les modalités de délivrance de l'agrément sont prévues par convention entre l'Etat et les départements concernés.

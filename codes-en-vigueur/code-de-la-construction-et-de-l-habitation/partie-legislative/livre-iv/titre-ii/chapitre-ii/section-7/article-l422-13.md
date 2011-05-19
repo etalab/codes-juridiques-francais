@@ -4,4 +4,4 @@ Les sociétés anonymes coopératives d'habitations à loyer modéré de locatio
 
 Un décret fixe les conditions d'application du présent article, notamment en ce qui concerne les sociétés anonymes coopératives d'habitations à loyer modéré existant au 16 juillet 1971 et toutes dispositions transitoires nécessaires.
 
-Les dispositions des alinéas précédents sont également applicables aux sociétés anonymes coopératives de production d'habitations à loyer modéré mentionnées à l'article L. 422-3 désireuses de transférer leurs réserves au profit d'autres sociétés anonymes coopératives de production d'habitations à loyer modéré.
+Les dispositions des alinéas précédents sont également applicables aux sociétés anonymes coopératives d'habitations à loyer modéré mentionnées aux articles L. 422-3 et L. 422-3-2 désireuses de transférer leurs réserves au profit d'autres sociétés anonymes coopératives d'habitations à loyer modéré.

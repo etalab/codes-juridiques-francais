@@ -12,4 +12,4 @@ Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait, par :
 
 5° Tout arbitre exerçant sa mission sous l'empire du droit d'un Etat étranger sur l'arbitrage,
 
-de solliciter ou d'agréer, sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques, pour lui-même ou pour autrui, en vue de l'accomplissement ou de l'abstention d'un acte de sa fonction ou facilité par sa fonction.
+de solliciter ou d'agréer, sans droit, à tout moment, directement ou indirectement, des offres, des promesses, des dons, des présents ou des avantages quelconques, pour lui-même ou pour autrui, pour accomplir ou avoir accompli, pour s'abstenir ou s'être abstenu d'accomplir un   acte de sa fonction ou facilité par sa fonction.
