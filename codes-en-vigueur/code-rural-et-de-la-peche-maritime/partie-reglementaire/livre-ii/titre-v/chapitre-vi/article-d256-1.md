@@ -7,9 +7,9 @@ Au sens du présent chapitre, on entend par :
 , à l'exclusion des machines mentionnées à l'article R. 4311-6 du même code, destinée à l'application, sous forme liquide, des produits phytopharmaceutiques énumérés à l'article L. 253-1 du présent code
 ;
 
-2° Matériel " neuf " : tout pulvérisateur n'ayant pas été utilisé dans un Etat membre de la Communauté européenne ;
+2° Matériel " neuf " : tout pulvérisateur n'ayant pas été utilisé dans un Etat membre de l'Union européenne ;
 
-3° Matériel " d'occasion " : tout pulvérisateur ayant déjà été utilisé dans un Etat membre de la Communauté européenne ;
+3° Matériel " d'occasion " : tout pulvérisateur ayant déjà été utilisé dans un Etat membre de l'Union européenne ;
 
 4° Professionnels du machinisme : tout responsable de la première mise sur le marché national d'un pulvérisateur ou toute personne vendant un pulvérisateur inscrite au registre du commerce mentionné à l'
 article L. 123-1 du code de commerce

@@ -4,6 +4,6 @@ I.-Tout détenteur d'un ou plusieurs ovins ou caprins, à l'exception des transp
 
 II.-Par dérogation au I, tout détenteur d'un ou plusieurs ovins ou caprins peut confier, par convention, la réalisation de la notification prévue au I à une personne responsable ou propriétaire d'une exploitation ou à un opérateur commercial. La personne chargée de la notification est tenue de se déclarer auprès des services compétents du ministère de l'agriculture afin que ceux-ci procèdent à son enregistrement.
 
-Le détenteur d'un ou plusieurs ovins ou caprins doit être en mesure de justifier, sur demande des agents mentionnés aux articles L. 221-5 et L. 221-6, de la notification effectuée par la personne chargée de sa réalisation.
+Le détenteur d'un ou plusieurs ovins ou caprins doit être en mesure de justifier, sur demande des agents mentionnés à l'article L. 221-5, de la notification effectuée par la personne chargée de sa réalisation.
 
 Le ministre chargé de l'agriculture précise, par arrêté, les conditions et les modalités de transmission des notifications de mouvements des animaux au gestionnaire de la base de données nationale d'identification des ovins et caprins et à l'établissement de l'élevage.

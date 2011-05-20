@@ -2,7 +2,6 @@
 
 - [Article R228-1](article-r228-1.md)
 - [Article R228-2](article-r228-2.md)
-- [Article R228-3](article-r228-3.md)
 - [Article R228-5](article-r228-5.md)
 - [Article R228-6](article-r228-6.md)
 - [Article R228-7](article-r228-7.md)

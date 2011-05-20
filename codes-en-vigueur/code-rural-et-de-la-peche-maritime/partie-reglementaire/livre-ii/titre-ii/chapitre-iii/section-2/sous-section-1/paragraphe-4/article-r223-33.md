@@ -6,4 +6,4 @@ Les herbivores et les porcins contaminés de rage peuvent être abattus en vue d
 
 Conformément aux dispositions prévues à l'article L. 223-10, lorsque les animaux contaminés de rage sont mordeurs ou griffeurs, le maire sursoit à leur abattage, afin qu'ils soient soumis aux dispositions de l'article R. 223-35.
 
-Les animaux contaminés de rage dont la conservation par leur propriétaire a été autorisée ne peuvent faire l'objet d'aucune transaction à titre gratuit ou onéreux pendant une période fixée par arrêté du ministre chargé de l'agriculture. Ils ne peuvent être transportés ni abattus pendant cette période sans autorisation du directeur départemental chargé de la protection des populations.
+Les animaux contaminés de rage dont la conservation par leur propriétaire a été autorisée ne peuvent faire l'objet d'aucune transaction à titre gratuit ou onéreux pendant une période fixée par arrêté du ministre chargé de l'agriculture. Ils ne peuvent être transportés ni abattus pendant cette période sans autorisation du       préfet .

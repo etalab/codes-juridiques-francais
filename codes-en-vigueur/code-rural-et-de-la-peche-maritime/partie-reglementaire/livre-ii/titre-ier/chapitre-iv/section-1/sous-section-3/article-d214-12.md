@@ -4,6 +4,6 @@ Les opérations d'expertise en vue de la confirmation et de l'inscription à tit
 
 Appel des décisions de l'expert peut être interjeté dans les deux mois devant la fédération tenant le livre généalogique soit par le propriétaire de l'animal, soit par l'association spécialisée intéressée. La fédération tenant le livre généalogique désignera un jury d'appel composé d'au minimum trois experts choisis dans la liste visée à l'alinéa précédent du présent article, dont un accepté par l'appelant.
 
-Le directeur départemental des territoires dans le département duquel doivent avoir lieu les opérations de confirmation est informé des dates et des lieux de rassemblement. Il peut y assister ou s'y faire représenter.
+Le préfet du département dans lequel doivent avoir lieu les opérations de confirmation est informé des dates et des lieux de rassemblement. Il peut y assister ou s'y faire représenter.
 
 A titre exceptionnel, le ministre chargé de l'agriculture peut désigner une commission composée de deux ou trois personnalités chargées d'examiner si les décisions prises par le jury d'appel répondent au but assigné à l'examen de confirmation, et de proposer éventuellement les solutions nécessaires.

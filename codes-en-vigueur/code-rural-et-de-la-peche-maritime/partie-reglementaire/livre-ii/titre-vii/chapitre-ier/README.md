@@ -5,3 +5,4 @@
 - [Article R271-4](article-r271-4.md)
 - [Article R271-5](article-r271-5.md)
 - [Article R271-6](article-r271-6.md)
+- [Article R271-7](article-r271-7.md)

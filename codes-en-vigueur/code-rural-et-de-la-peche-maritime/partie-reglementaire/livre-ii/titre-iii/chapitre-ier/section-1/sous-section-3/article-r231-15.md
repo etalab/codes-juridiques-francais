@@ -14,6 +14,6 @@ Les exploitants du secteur alimentaire qui produisent des denrées d'origine ani
 
 6° Entreposer et manipuler les déchets et les substances dangereuses de façon à éviter toute contamination ;
 
-7° S'assurer que les denrées respectent les normes fixées par la législation alimentaire mentionnée à l'article L. 231-2 ;
+7° S'assurer que les denrées respectent les normes fixées par la législation alimentaire mentionnée à l'article L. 231-1 ;
 
 8° Conserver les denrées à des températures qui n'affectent pas leurs caractéristiques en matière de sécurité.

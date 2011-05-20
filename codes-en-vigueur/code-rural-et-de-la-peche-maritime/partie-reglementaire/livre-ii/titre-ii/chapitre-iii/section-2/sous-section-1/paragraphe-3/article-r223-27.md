@@ -4,4 +4,4 @@ Pour être reconnus valablement vaccinés contre la rage, les animaux domestique
 
 La vaccination peut être effectuée dans les écoles nationales vétérinaires sous l'autorité des directeurs de ces écoles.
 
-Pour les animaux relevant du ministère de la défense, cette vaccination peut être effectuée par un vétérinaire de la réserve opérationnelle de la défense nationale, sous la responsabilité d'un vétérinaire biologiste appartenant au cadre actif du service de santé des armées.
+Pour les animaux relevant du ministère de la défense et pour les animaux relevant d'autres ministères dont les vétérinaires des armées assurent le soutien vétérinaire dans le cadre d'un protocole d'accord interministériel, cette vaccination peut être effectuée par un vétérinaire des armées.

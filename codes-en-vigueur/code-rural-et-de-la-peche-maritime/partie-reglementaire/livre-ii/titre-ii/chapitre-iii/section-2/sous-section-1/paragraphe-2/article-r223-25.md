@@ -12,17 +12,19 @@ b) Ou tout animal sensible à la rage qui, en quelque lieu que ce soit, a mordu 
 
 3° Animal contaminé de rage :
 
-a) Tout animal sensible à la rage qui, au cours d'une période définie par un arrêté du ministre chargé de l'agriculture, a été mordu ou griffé par un animal reconnu enragé ;
+a) Tout animal sensible à la rage qui, au cours d'une période dont la durée est définie par un arrêté du ministre chargé de l'agriculture, a été mordu ou griffé par un animal reconnu enragé ;
 
-b) Ou tout carnivore qui, au cours d'une période dont la durée est définie par un arrêté du ministre chargé de l'agriculture, a été en contact avec un animal reconnu enragé ou pour lequel une enquête des services vétérinaires n'a pu écarter formellement l'hypothèse d'un tel contact.
+b) Ou tout carnivore qui, au cours d'une période dont la durée est définie par un arrêté du ministre chargé de l'agriculture, a été en contact avec un animal reconnu enragé ou pour lequel une enquête des services chargés de la protection des populations a conduit à estimer que la probabilité de contact avec un animal reconnu enragé est élevée.
 
 4° Animal éventuellement contaminé de rage :
 
 a) Tout animal sensible à la rage qui, au cours d'une période dont la durée est définie par un arrêté du ministre chargé de l'agriculture, a été mordu ou griffé par un animal suspect de rage ;
 
-b) Ou tout carnivore qui, au cours d'une période dont la durée est définie par un arrêté du ministre chargé de l'agriculture, a été en contact avec un animal suspect de rage ou pour lequel une enquête des services vétérinaires n'a pu écarter formellement l'hypothèse d'un tel contact ;
+b) Ou tout carnivore qui, au cours d'une période dont la durée est définie par un arrêté du ministre chargé de l'agriculture, a été en contact avec un animal suspect de rage ou pour lequel une enquête des services chargés de la protection des populations n'a pu écarter formellement l'hypothèse d'un tel contact ;
 
-c) Ou tout animal sensible à la rage, non carnivore qui, au cours d'une période dont la durée est définie par un arrêté du ministre chargé de l'agriculture, a été en contact avec un animal reconnu enragé.
+c) Ou tout animal sensible à la rage, non carnivore qui, au cours d'une période dont la durée est définie par un arrêté du ministre chargé de l'agriculture, a été en contact avec un animal reconnu enragé ;
+
+d) Ou tout carnivore pour lequel une enquête des services chargés de la protection des populations n'a pu écarter formellement l'hypothèse d'un contact avec un animal enragé au cours d'une période dont la durée est définie par un arrêté du ministre chargé de l'agriculture.
 
 5° Animal mordeur ou griffeur, tout animal sensible à la rage qui :
 

@@ -10,7 +10,7 @@ Elles comportent tout ou partie des mesures et interdictions suivantes :
 
 3° L'isolement et le marquage des bovins tuberculeux ;
 
-4° L'élimination des animaux marqués par leur acheminement direct vers l'abattoir ou l'établissement chargé du service public de l'équarrissage et leur abattage dans un délai déterminé ;
+4° L'élimination des animaux marqués par leur acheminement direct vers l'abattoir ou  l'équarrissage et leur abattage dans un délai déterminé ;
 
 5° La désinfection des étables contaminées, cette désinfection étant effectuée selon les procédés et avec les produits prévus par arrêté du ministre chargé de l'agriculture ;
 

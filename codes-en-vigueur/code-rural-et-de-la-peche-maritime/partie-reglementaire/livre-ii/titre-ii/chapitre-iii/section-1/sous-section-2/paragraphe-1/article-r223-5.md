@@ -1,6 +1,6 @@
 # Article R223-5
 
-Les cadavres ou parties de cadavres des animaux morts ou abattus comme atteints de maladie contagieuse sont soit traités conformément aux prescriptions déterminées par un arrêté du ministre chargé de l'agriculture, soit transportés dans un établissement chargé du service public de l'équarrissage pour y être détruits.
+Les cadavres ou parties de cadavres des animaux morts ou abattus comme atteints de maladie contagieuse sont soit traités conformément aux prescriptions déterminées par un arrêté du ministre chargé de l'agriculture, soit transportés dans un établissement d'équarrissage pour y être détruits.
 
 Dans le cas où aucun de ces moyens ne peut être employé, on a recours à la destruction par le feu ou à l'enfouissement.
 

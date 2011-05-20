@@ -4,4 +4,5 @@ Lorsque dans des locaux où se pratiquent de façon habituelle l'élevage en vue
 
 Dans le cas où les locaux abritent des animaux destinés à être cédés, le préfet peut prononcer l'interdiction de cession des animaux. Cette décision préfectorale précise, le cas échéant, la destination des animaux hébergés dans les locaux.
 
-En cas de suspension d'activité dans les conditions prévues à l'article L. 215-9, lorsque le responsable de cette activité n'est pas en mesure d'assurer l'entretien des animaux, il doit procéder à leur placement auprès d'une association de protection des animaux ou d'un autre établissement pouvant les prendre en charge.
+En cas de suspension d'activité dans les conditions prévues à l'article L. 206-2
+, lorsque le responsable de cette activité n'est pas en mesure d'assurer l'entretien des animaux, il doit procéder à leur placement auprès d'une association de protection des animaux ou d'un autre établissement pouvant les prendre en charge.

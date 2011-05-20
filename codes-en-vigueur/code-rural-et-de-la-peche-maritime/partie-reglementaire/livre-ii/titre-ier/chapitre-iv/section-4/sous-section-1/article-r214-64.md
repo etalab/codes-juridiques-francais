@@ -4,7 +4,7 @@ I. - Au sens de la présente section et des textes pris pour son application, on
 
 1° " Etablissements d'abattage " : les établissements ou installations non agréés mentionnés à l'article L. 654-3 réalisant l'abattage de volailles et de lagomorphes et les abattoirs ;
 
-2° " Abattoir " : tout établissement ou installation agréé par les services vétérinaires, utilisé pour l'abattage ou, exceptionnellement, la mise à mort sans saignée des ongulés domestiques, des volailles, des lagomorphes et du gibier d'élevage, y compris les installations destinées au déchargement, à l'acheminement ou à l'hébergement des animaux ;
+2° " Abattoir " : tout établissement ou installation agréé par  le préfet , utilisé pour l'abattage ou, exceptionnellement, la mise à mort sans saignée des ongulés domestiques, des volailles, des lagomorphes et du gibier d'élevage, y compris les installations destinées au déchargement, à l'acheminement ou à l'hébergement des animaux ;
 
 3° " Acheminement " : le fait de décharger ou de conduire un animal des quais de débarquement, des locaux de stabulation ou des parcs de l'établissement d'abattage jusqu'aux locaux ou emplacements d'abattage ;
 

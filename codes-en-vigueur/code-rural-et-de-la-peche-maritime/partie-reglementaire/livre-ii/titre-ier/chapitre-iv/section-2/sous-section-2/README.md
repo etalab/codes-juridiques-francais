@@ -10,7 +10,6 @@
 - [Article R214-25](article-r214-25.md)
 - [Article R214-25-1](article-r214-25-1.md)
 - [Article R214-26](article-r214-26.md)
-- [Article R214-27](article-r214-27.md)
 - [Article R214-27-1](article-r214-27-1.md)
 - [Article R214-27-2](article-r214-27-2.md)
 - [Article R214-27-3](article-r214-27-3.md)

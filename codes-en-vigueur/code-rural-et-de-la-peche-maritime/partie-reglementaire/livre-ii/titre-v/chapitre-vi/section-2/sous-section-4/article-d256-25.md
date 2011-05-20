@@ -6,7 +6,7 @@ Le groupement d'intérêt public prévu à l'article L. 256-2-1 est chargé pour
 
 2° De tenir à jour la liste des organismes d'inspection, des centres de formation agréés et des inspecteurs détenant un certificat ;
 
-3° D'instruire les dossiers des ressortissants de la Communauté européenne ou d'Etats partie à l'Espace économique européen et notamment les dossiers de déclaration de prestation de services occasionnelle ou de demande de reconnaissance de qualification prévus aux articles D. 256-27 et D. 256-28 ;
+3° D'instruire les dossiers des ressortissants de l'Union européenne ou d'Etats partie à l'Espace économique européen et notamment les dossiers de déclaration de prestation de services occasionnelle ou de demande de reconnaissance de qualification prévus aux articles D. 256-27 et D. 256-28 ;
 
 4° D'assurer une veille technologique, normative et réglementaire et de proposer, en fonction des évolutions constatées, des adaptations des méthodes de contrôle, des équipements de contrôle, des référentiels en lien avec la délivrance du certificat et de participer, dans cet objectif, aux instances techniques européennes et internationales traitant des pulvérisateurs ;
 
