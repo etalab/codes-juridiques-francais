@@ -2495,7 +2495,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>Cayenne </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Approuague-Kaw, Cayenne 1, r canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura, Saint-Georges Oyapoc, Saint-Laurent-du-Maroni et Sinnamary. </p>
+<p>Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura, Saint-Georges Oyapoc, Saint-Laurent-du-Maroni et Sinnamary. </p>
 </td>
 </tr>
 <tr>
@@ -2660,26 +2660,26 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td valign="top" width="109">
-<p align="left">[Grenoble </p>
+<p>[Grenoble </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons d'Allevard, Clelles, Corps, Domène, Échirolles-Est, Échirolles-Ouest, Eybens, Fontaine-Sassenage, Fontaine-Seyssinet, Goncelin, Grenoble 1er canton, Grenoble 2e canton, Grenoble 3e canton, Grenoble 4e canton, Grenoble 5e canton, Grenoble 6e canton, La Mure, Le Bourg-d'Oisans, Le Touvet, Mens, Meylan, Monestier de-Clermont, Pont-en-Royans, Rives, Roybon, Saint-Égrève, Saint-Étienne-de-Saint-Geoirs, Saint-Ismier, Saint-Laurent-du-Pont, Saint-Marcellin, Saint-Martin-d'Hères-Nord, Saint-Martin-d'Hères-Sud, Tullins, Valbonnais, Vif, Villard-de-Lans, Vinay, Vizille et Voiron. (4)] </p>
+<p>Cantons d'Allevard, Clelles, Corps, Domène, Échirolles-Est, Échirolles-Ouest, Eybens, Fontaine-Sassenage, Fontaine-Seyssinet, Goncelin, Grenoble 1er canton, Grenoble 2e canton, Grenoble 3e canton, Grenoble 4e canton, Grenoble 5e canton, Grenoble 6e canton, La Mure, Le Bourg-d'Oisans, Le Touvet, Mens, Meylan, Monestier de-Clermont, Pont-en-Royans, Rives, Roybon, Saint-Égrève, Saint-Étienne-de-Saint-Geoirs, Saint-Ismier, Saint-Laurent-du-Pont, Saint-Marcellin, Saint-Martin-d'Hères-Nord, Saint-Martin-d'Hères-Sud, Tullins, Valbonnais, Vif, Villard-de-Lans, Vinay, Vizille et Voiron. (4)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p align="left">[La Mure </p>
+<p>[La Mure </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons de Clelles, Corps, La Mure, Mens, Monestier-de-Clermont et Valbonnais. (3)] </p>
+<p>Cantons de Clelles, Corps, La Mure, Mens, Monestier-de-Clermont et Valbonnais. (3)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p align="left">[Saint-Marcellin </p>
+<p>[Saint-Marcellin </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons de Pont-en-Royans, Rives, Roybon, Saint-Étienne-de-Saint-Geoirs, Saint-Marcellin, Tullins et Vinay. (3)] </p>
+<p>Cantons de Pont-en-Royans, Rives, Roybon, Saint-Étienne-de-Saint-Geoirs, Saint-Marcellin, Tullins et Vinay. (3)] </p>
 </td>
 </tr>
 <tr>
@@ -2775,29 +2775,29 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td rowspan="3" valign="top" width="154">
-<p align="left">Guéret </p>
+<p>Guéret </p>
 </td>
 <td valign="top" width="109">
-<p align="left">[Bourganeuf </p>
+<p>[Bourganeuf </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons de Bénévent-l'Abbaye, Bourganeuf, Pontarion et Royère-de-Vassivière. (9)] </p>
+<p>Cantons de Bénévent-l'Abbaye, Bourganeuf, Pontarion et Royère-de-Vassivière. (9)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p align="left">[Guéret </p>
+<p>[Guéret </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche, Bonnat, Boussac, Chambon-sur-Voueize, Châtelus-Malvaleix Chénérailles, Crocq, Dun-le-Palestel, Évaux-les-Bains, Felletin, Gentioux-Pigerolles, Guéret-Nord, Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La Courtine, La Souterraine, Le Grand-Bourg, Saint-Sulpice-les Champs et Saint-Vaury. (9)] </p>
+<p>Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche, Bonnat, Boussac, Chambon-sur-Voueize, Châtelus-Malvaleix Chénérailles, Crocq, Dun-le-Palestel, Évaux-les-Bains, Felletin, Gentioux-Pigerolles, Guéret-Nord, Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La Courtine, La Souterraine, Le Grand-Bourg, Saint-Sulpice-les Champs et Saint-Vaury. (9)] </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">[Guéret </p>
+<p>[Guéret </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche,<br/>Bénévent-l'Abbaye, Bonnat, Bourganeuf, Boussac, Chambon-sur-Voueize,<br/>Châtelus-Malvaleix, Chénérailles, Crocq, Dun-le-Palestel,<br/>Évaux-les-Bains, Felletin, Gentioux-Pigerolles, Guéret-Nord,<br/>Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La Courtine,<br/>La Souterraine, Le Grand-Bourg, Pontarion, Royère-de-Vassière,<br/>Saint-Sulpice-les Champs et Saint-Vaury. (10)] </p>
+<p>Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche,<br/>Bénévent-l'Abbaye, Bonnat, Bourganeuf, Boussac, Chambon-sur-Voueize,<br/>Châtelus-Malvaleix, Chénérailles, Crocq, Dun-le-Palestel,<br/>Évaux-les-Bains, Felletin, Gentioux-Pigerolles, Guéret-Nord,<br/>Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La Courtine,<br/>La Souterraine, Le Grand-Bourg, Pontarion, Royère-de-Vassière,<br/>Saint-Sulpice-les Champs et Saint-Vaury. (10)] </p>
 </td>
 </tr>
 <tr>
@@ -3435,40 +3435,40 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td rowspan="3" valign="top" width="154">
-<p align="left">Bar-le-Duc </p>
+<p>Bar-le-Duc </p>
 </td>
 <td valign="top" width="109">
-<p align="left">[Bar-le-Duc </p>
+<p>[Bar-le-Duc </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons d'Ancervillc, Bar-le-Duc-Nord, Bar-le-Duc-Sud, Gondrecourt-le-Château, Ligny-en-Barrois, Montiers-sur-Saulx, Revigny-sur-Ornain, Seuil-d'Argonne, Vaubecourt et Vavincourt. (3)] </p>
+<p>Cantons d'Ancervillc, Bar-le-Duc-Nord, Bar-le-Duc-Sud, Gondrecourt-le-Château, Ligny-en-Barrois, Montiers-sur-Saulx, Revigny-sur-Ornain, Seuil-d'Argonne, Vaubecourt et Vavincourt. (3)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p align="left">[Bar-le-Duc </p>
+<p>[Bar-le-Duc </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons d'Ancerville, Bar-le-Duc-Nord, Bar-le-Duc-Sud, Commercy, Gondrecourt-le-Château, Ligny-en-Barrois, Montiers-sur-Saulx, Pierrefitte-sur-Aire, Revigny-sur-Ornain, Saint-Mihiel, Seuil d'Argonne, Vaubecourt, Vaucouleurs, Vavincourt, Vigneulles-lès-Hattonchâtel et Void-Vacon. (4)] </p>
+<p>Cantons d'Ancerville, Bar-le-Duc-Nord, Bar-le-Duc-Sud, Commercy, Gondrecourt-le-Château, Ligny-en-Barrois, Montiers-sur-Saulx, Pierrefitte-sur-Aire, Revigny-sur-Ornain, Saint-Mihiel, Seuil d'Argonne, Vaubecourt, Vaucouleurs, Vavincourt, Vigneulles-lès-Hattonchâtel et Void-Vacon. (4)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p align="left">[Saint-Mihiel </p>
+<p>[Saint-Mihiel </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons de Commercy, Pierrefitte-sur-Aire, Saint-Mihiel, Vaucouleurs, Vigneulles-lès-Hattonchâtel et Void-Vacon. (3)] </p>
+<p>Cantons de Commercy, Pierrefitte-sur-Aire, Saint-Mihiel, Vaucouleurs, Vigneulles-lès-Hattonchâtel et Void-Vacon. (3)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="154">
-<p align="left">Verdun </p>
+<p>Verdun </p>
 </td>
 <td valign="top" width="109">
-<p align="left">Verdun </p>
+<p>Verdun </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons de Charny-sur-Meuse, Clermont-en-Argonne, Damvillers, Dun-sur-Meuse, Étain, Fresnes-en-Woëvre, Montfaucon-d'Argonne, Montmédy, Souilly, Spincourt, Stenay, Varennes-en-Argonne, Verdun-Centre, Verdun-Est et Verdun-Ouest. </p>
+<p>Cantons de Charny-sur-Meuse, Clermont-en-Argonne, Damvillers, Dun-sur-Meuse, Étain, Fresnes-en-Woëvre, Montfaucon-d'Argonne, Montmédy, Souilly, Spincourt, Stenay, Varennes-en-Argonne, Verdun-Centre, Verdun-Est et Verdun-Ouest. </p>
 </td>
 </tr>
 <tr>
@@ -5145,7 +5145,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>[Fougères </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Antrain, Fougères-Nord, Fougères-Sud, Louvigné-du-Désert, Saint-Aubin-du-Cormier et Saint-Brice-en-Coglès. (3)] </p>
+<p>Cantons d'Antrain, Argentré-du-Plessis, Châteaubourg, Fougères-Nord, Fougères-Sud, La Guerche-de-Bretagne, Louvigné-du-Désert, Retiers, Saint-Aubin-du-Cormier, Saint-Brice-en-Coglès, Vitré-Est, Vitré-Ouest (22)] </p>
 </td>
 </tr>
 <tr>
@@ -5161,42 +5161,42 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>Redon </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Bain-de-Bretagne, Grand-Fougeray, Guichen, Le Sel-de-Bretagne, Maure-de-Bretagne, Pipriac et Redon. </p>
+<p>Cantons de Bain-de-Bretagne, Grand-Fougeray, Guichen, Le Sel-de-Bretagne, Maure-de-Bretagne, Pipriac et Redon.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>[Rennes </p>
+<p align="left">[Rennes </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Betton, Bruz, Cesson-Sévigné, Châteaugiron, Hédé, Janzé, Liffré, Mordelles, Rennes-Brequigny, Rennes-Centre, Rennes-Centre Ouest, Rennes-Centre-Sud, Rennes-Est, Rennes-le-Blosne, Rennes Nord, Rennes-Nord-Est, Rennes-Nord-Ouest, Rennes-Sud-Est, Rennes-Sud-Ouest et Saint-Aubin-d'Aubigné. (3)] </p>
+<p align="left">Cantons d'Antrain, Argentré-du-Plessis, Bécherel, Betton, Bruz, Cesson-Sévigné, Châteaubourg, Châteaugiron, Fougères-Nord, Fougères-Sud, Hédé, Janzé, La Guerche-de-Bretagne, Liffré, Louvigné-du-Désert, Montauban-de-Bretagne, Montfort-sur-Meu, Mordelles, Plélan-le-Grand, Rennes-Brequigny, Rennes-Centre, Rennes-Centre-Ouest, Rennes-Centre-Sud, Rennes-Est, Rennes-le-Blosne, Rennes-Nord, Rennes-Nord-Est, Rennes-Nord-Ouest, Rennes-Sud-Est, Rennes-Sud-Ouest, Retiers, Saint-Aubin-d'Aubigné, Saint-Aubin-du-Cormier, Saint-Brice-en-Coglès, Saint-Méen-le-Grand, Vitré-Est et Vitré-Ouest (21)] </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">[Rennes </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Cantons de Bécherel, Betton, Bruz, Cesson-Sévigné,<br/>Châteaugiron, Hédé, Janzé, Liffré, Montauban-de-Bretagne,<br/>Montfort-sur-Meu, Mordelles, Plélan-le-Grand, Rennes-Brequigny,<br/>Rennes-Centre, Rennes-Centre-Ouest, Rennes-Centre-Sud,<br/>Rennes-Est, Rennes-le-Blosne, Rennes-Nord, Rennes-Nord-Est,<br/>Rennes-Nord-Ouest, Rennes-Sud-Est, Rennes-Sud-Ouest,<br/>Saint-Aubin-d'Aubigné, Saint-Méen-le-Grand (22)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>[Rennes </p>
+<p align="left">[Vitré </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Antrain, Argentré-du-Plessis, Bécherel, Betton, Bruz, Cesson-Sévigné, Châteaubourg, Châteaugiron, Fougères-Nord, Fougères-Sud, Hédé, Janzé, La Guerche-de-Bretagne, Liffré, Louvigné-du-Désert, Montauban-de-Bretagne, Montfort-sur-Meu, Mordelles, Plélan-le-Grand, Rennes-Brequigny, Rennes-Centre, Rennes-Centre-Ouest, Rennes-Centre-Sud, Rennes-Est, Rennes-le Blosne, Rennes-Nord, Rennes-Nord-Est, Rennes-Nord-Ouest, Rennes Sud-Est, Rennes-Sud-Ouest, Retiers, Saint-Aubin-d'Aubigné, Saint-Aubin-du-Cormier, Saint-Brice-en-Coglès, Saint-Méen-le-Grand, Vitré-Est et Vitré-Ouest. (4)] </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Vitré </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons d'Argentré-du-Plessis, Châteaubourg, La Guerche-de-Bretagne, Retiers, Vitré-Est et Vitré-Ouest. (3)] </p>
+<p align="left">Cantons d'Argentré-du-Plessis, Châteaubourg, La Guerche-de-Bretagne, Retiers, Vitré-Est et Vitré-Ouest. (3)] </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" valign="top" width="154">
-<p>Saint-Malo </p>
+<p align="left">Saint-Malo </p>
 </td>
 <td valign="top" width="109">
-<p>[Dinan (6)] </p>
+<p align="left">[Dinan (6)] </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Broons, Caulnes, Dinan-Est, Dinan-Ouest, Évran, Jugon les-Lacs, Matignon, Plancoët, Plélan-le-Petit et Ploubalay. </p>
+<p align="left">Cantons de Broons, Caulnes, Dinan-Est, Dinan-Ouest, Évran, Jugon les-Lacs, Matignon, Plancoët, Plélan-le-Petit et Ploubalay. </p>
 </td>
 </tr>
 <tr>
@@ -5775,14 +5775,14 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td align="center" valign="top">
 <p align="left">Mamoudzou </p>
 </td>
-<td align="left" valign="top">
+<td align="center" valign="top">
 <p align="left">Mamoudzou </p>
 </td>
-<td align="left" valign="top">
-<p align="left">Cantons de Acoua, Bandraboua, Bandrele, Bouéni, Chiconi,<br/>Chirongui, Dembeni, Dzaoudzi, Kani-Kéli, Koungou,<br/>Mamoudzou-I-, Mamoudzou-II, Mamoudzou-III, Mtsamboro,<br/>M'Tsangamouji, Ouangani, Pamandzi, Sada, Tsingoni. <br/>
+<td align="center" valign="top">
+<p align="left">Cantons de Acoua, Bandraboua, Bandrele, Bouéni,<br/>Chiconi, Chirongui, Dembeni, Dzaoudzi, Kani-Kéli, Koungou,<br/>Mamoudzou-I-, Mamoudzou-II, Mamoudzou-III, Mtsamboro,<br/>M'Tsangamouji, Ouangani, Pamandzi, Sada, Tsingoni. <br/>
 </p>
 </td>
 </tr>
@@ -5973,7 +5973,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p align="left">Montauban</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Cantons de Caussade, Caylus, Lafrançaise, Molières,<br/>Monclar-de-Quercy, Montauban, 1er canton, Montauban 2e<br/>canton, Montauban 3ème canton, Montauban 4e canton,<br/>Montauban 5e canton, Montauban 6e canton, Montpezat-<br/>de-Quercy, Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier.<br/>
+<p align="left">Cantons de Caussade, Caylus, Lafrançaise, Molières,<br/>Monclar-de-Quercy, Montauban, 1er canton, Montauban<br/>2e canton, Montauban 3ème canton, Montauban 4e canton,<br/>Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy,<br/>Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier.<br/>
 </p>
 </td>
 </tr>
@@ -6420,3 +6420,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 (19) Applicable jusqu'au 30 juin 2014.
 
 (20) Applicable à compter du 1er juillet 2014.
+
+(21) Applicable jusqu'au 31 décembre 2011.
+
+(22) Applicable à compter du 1er janvier 2012.
