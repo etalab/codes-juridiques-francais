@@ -1,5 +1,6 @@
-# Sous-section 4 : La péripneumonie contagieuse bovine.
+# Sous-section 4 : La peste équine
 
+- [Paragraphe 1 : Généralités.](paragraphe-1)
 - [Article R223-63](article-r223-63.md)
 - [Article R223-64](article-r223-64.md)
 - [Article R223-65](article-r223-65.md)
