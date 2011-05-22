@@ -4,9 +4,9 @@ Lorsque l'infirmité imputable au service entraîne la mise à la retraite ou la
 
 1° Une allocation principale dont le montant est fixé comme suit :
 
-a) S'il est marié ou partenaire lié par un pacte civil de solidarité d'au moins trois ans ou a des enfants à charge : montant égal à celui prévu à l'article D. 4123-4 pour le conjoint ou le partenaire lié par un pacte civil de solidarité d'au moins trois ans survivant avec un ou plusieurs enfants à charge ;
+a) S'il est marié ou partenaire lié par un pacte civil de solidarité      ou a des enfants à charge : montant égal à celui prévu à l'article D. 4123-4 pour le conjoint ou le partenaire lié par un pacte civil de solidarité      survivant avec un ou plusieurs enfants à charge ;
 
-b) Dans les autres cas : montant égal à celui prévu à l'article D. 4123-4 pour le conjoint ou le partenaire lié par un pacte civil de solidarité d'au moins trois ans survivant sans enfant à charge ;
+b) Dans les autres cas : montant égal à celui prévu à l'article D. 4123-4 pour le conjoint ou le partenaire lié par un pacte civil de solidarité      survivant sans enfant à charge ;
 
 c) Pour les taux d'invalidité inférieurs à 40 %, l'allocation principale est calculée proportionnellement au taux d'invalidité.
 

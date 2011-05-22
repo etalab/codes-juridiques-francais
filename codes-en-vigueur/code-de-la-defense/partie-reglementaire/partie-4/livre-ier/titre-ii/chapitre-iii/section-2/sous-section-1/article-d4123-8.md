@@ -4,7 +4,7 @@ Lorsque l'infirmité imputable à l'un des risques exceptionnels spécifiques au
 
 1° Une allocation principale dont le montant est fixé comme suit :
 
-a) Si celui-ci est marié, partenaire lié par un pacte civil de solidarité d'au moins trois ans ou a des enfants à charge, montant égal à quatre fois la solde budgétaire annuelle correspondant à :
+a) Si celui-ci est marié, partenaire lié par un pacte civil de solidarité      ou a des enfants à charge, montant égal à quatre fois la solde budgétaire annuelle correspondant à :
 
 i) L'indice brut 762 s'il est officier ;
 
