@@ -2,7 +2,7 @@
 
 Peuvent prétendre à l'allocation en cas de décès survenu en service aérien aux personnels affiliés au fonds de prévoyance de l'aéronautique leurs ayants cause définis comme suit :
 
-1° Le conjoint non divorcé et non séparé de corps ou le partenaire lié par un pacte civil de solidarité d'au moins trois ans, survivant.
+1° Le conjoint non divorcé et non séparé de corps ou le partenaire lié par un pacte civil de solidarité, survivant.
 
 2° Les enfants à charge, c'est-à-dire âgés de moins de vingt-cinq ans ou infirmes.
 
