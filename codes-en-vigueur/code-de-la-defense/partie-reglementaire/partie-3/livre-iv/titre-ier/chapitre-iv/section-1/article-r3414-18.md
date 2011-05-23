@@ -10,8 +10,8 @@ Le directeur général dirige l'établissement public dans le cadre des orientat
 
 4° L'ordonnancement des recettes et des dépenses ;
 
-5° La signature des contrats et conventions engageant l'établissement. A ce titre, il est la personne responsable des marchés ;
+5° La signature des contrats et conventions engageant l'établissement. A ce titre, il est le représentant du pouvoir adjudicateur ;
 
 6° La représentation de l'établissement en justice et dans tous les actes de la vie civile ainsi que dans ses rapports avec les tiers.
 
-Il peut déléguer aux directeurs adjoints une partie de ses compétences.
+Il peut déléguer sa signature aux agents de l'établissement.
