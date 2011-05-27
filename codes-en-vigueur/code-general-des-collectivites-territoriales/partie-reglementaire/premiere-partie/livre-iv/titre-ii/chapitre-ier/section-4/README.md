@@ -1,3 +1,3 @@
-# Section 4 : Règles particulières aux archives régionales (R)
+# Section 4 : Monuments historiques
 
-- [Article R1421-16](article-r1421-16.md)
+- [Article D1421-8](article-d1421-8.md)

@@ -1,4 +1,4 @@
-# Section 3 : Règles particulières aux archives départementales (R)
+# Section 3 : Archéologie
 
-- [Article R1421-14](article-r1421-14.md)
-- [Article R1421-15](article-r1421-15.md)
+- [Article D1421-6](article-d1421-6.md)
+- [Article D1421-7](article-d1421-7.md)
