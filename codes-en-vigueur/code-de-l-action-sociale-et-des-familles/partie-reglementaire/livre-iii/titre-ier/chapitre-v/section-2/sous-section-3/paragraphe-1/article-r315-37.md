@@ -1,9 +1,15 @@
 # Article R315-37
 
-Sous réserve des dispositions du troisième alinéa de l'article L. 315-13, les listes de candidats sont présentées par collège par les organisations syndicales. Nul ne peut être candidat sur plusieurs listes. Chaque liste doit comporter autant de noms qu'il y a de sièges à pourvoir, titulaires et suppléants.
+I.-Chaque candidature doit comporter le nom d'un délégué qui, en cas de scrutin de liste, peut être ou non candidat, désigné par l'organisation syndicale afin de représenter la candidature dans toutes opérations électorales. L'organisation syndicale peut désigner un délégué suppléant.
 
-Si, pour un collège donné, une liste comporte, à la date de dépôt prévue à l'alinéa suivant, un nombre de candidats supérieur ou inférieur au nombre de sièges de représentants titulaires et suppléants à prévoir, l'organisation syndicale qui a déposé cette liste est réputée n'avoir présenté aucun candidat pour ledit collège.
+Les candidatures peuvent être communes à plusieurs organisations syndicales.
 
-Les listes sont déposées à la direction de l'établissement au moins quarante-deux jours avant la date fixée pour les élections. Elles indiquent le nom d'un délégué de liste et d'un délégué suppléant habilités à les représenter dans toutes les opérations électorales.
+II.-En cas d'élection au scrutin de liste, nul ne peut être candidat sur plusieurs listes pour un même scrutin.
 
-Le dépôt de chaque liste est accompagné d'une déclaration de candidature signée de chaque candidat. Le dépôt fait l'objet d'un récépissé remis par le directeur au délégué de liste ou au délégué suppléant.
+Chaque liste comprend un nombre de noms égal au moins aux deux tiers et au plus au nombre de sièges de représentants titulaires et de représentants suppléants à pourvoir dans chaque collège, sans qu'il soit fait mention pour chacun des candidats de la qualité de titulaire ou de suppléant. En outre, elle doit comporter un nombre pair de noms pour chaque collège au moment de leur dépôt.
+
+Si, pour un collège donné, une liste comporte, à la date limite de dépôt prévue à l'article R. 315-36-2, un nombre de candidats supérieur ou inférieur à celui fixé au quatrième alinéa du présent article, l'organisation syndicale qui a déposé cette liste est réputée n'avoir présenté aucun candidat pour ce collège.
+
+Le dépôt de chaque liste est accompagné d'une déclaration de candidature signée de chaque candidat. Le dépôt fait l'objet d'un récépissé remis par le directeur d'établissement au délégué de liste ou au délégué suppléant.
+
+III.-Lorsqu'il est recouru à l'élection au scrutin sur sigle dans les conditions prévues aux deuxième et troisième alinéas de l'article R. 315-36-1, l'organisation syndicale fait acte de candidature sans qu'il y ait lieu d'appliquer le II du présent article.

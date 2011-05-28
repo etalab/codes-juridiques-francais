@@ -1,6 +1,5 @@
 # Paragraphe 3 : Fonctionnement des comités techniques d'établissement.
 
-- [Article D315-64](article-d315-64.md)
 - [Article R315-52](article-r315-52.md)
 - [Article R315-53](article-r315-53.md)
 - [Article R315-54](article-r315-54.md)
