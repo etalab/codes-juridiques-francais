@@ -1,9 +1,9 @@
-# Chapitre Ier : Chambres départementales
+# Chapitre Ier : Chambres départementales et interdépartementales
 
 - [Section 1 : Institution et attributions.](section-1)
 - [Section 2 : Composition.](section-2)
 - [Section 3 : Elections](section-3)
 - [Section 4 : Fonctionnement.](section-4)
 - [Section 5 : Régime financier](section-5)
-- [Section 6 : Chambre interdépartementale de l'Ile-de-France.](section-6)
+- [Section 6 : Chambres interdépartementales](section-6)
 - [Section 7 : Dispositions particulières aux chambres d'agriculture des départements d'outre-mer.](section-7)
