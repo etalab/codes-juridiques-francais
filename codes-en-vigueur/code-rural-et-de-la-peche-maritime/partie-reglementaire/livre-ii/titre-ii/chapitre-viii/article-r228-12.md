@@ -12,4 +12,4 @@ Est puni de la peine prévue pour les contraventions de la 5e classe le fait :
 
 5° S'agissant des entreprise de transport, de ne pas respecter les règles prévues au chapitre II de l'annexe II du règlement (CE) n° 1774/2002 ou de ne pas respecter les prescriptions prévues au II de l'article R. 226-1 ;
 
-6° S'agissant de toute personne qui expédie, transporte ou reçoit des sous-produits animaux, de ne pas procéder à l'établissement du relevé visé à l'article R. 226-5.
+6° S'agissant de toute personne qui expédie, transporte ou reçoit des sous-produits animaux, de ne pas procéder à l'établissement du relevé visé à l'article R. 226-5 ou de ne pas transmettre à l'administration les données mentionnées à l'article D. 226-4.
