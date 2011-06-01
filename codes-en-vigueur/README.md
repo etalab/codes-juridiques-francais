@@ -16,6 +16,7 @@
 - [Code de l'artisanat](code-de-l-artisanat)
 - [Code de l'aviation civile](code-de-l-aviation-civile)
 - [Code de l'éducation](code-de-l-education)
+- [Code de l'énergie](code-de-l-energie)
 - [Code de l'environnement](code-de-l-environnement)
 - [Code de l'expropriation pour cause d'utilité publique](code-de-l-expropriation-pour-cause-d-utilite-publique)
 - [Code de l'organisation judiciaire](code-de-l-organisation-judiciaire)
