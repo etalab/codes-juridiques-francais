@@ -9,3 +9,4 @@
 - [5° : Vente de fonds de commerce](5)
 - [7° : Liquidation judiciaire](7)
 - [8° : Procédure accélérée](8)
+- [12° Entrepreneur individuel à responsabilité limitée](12-entrepreneur-individuel-a)
