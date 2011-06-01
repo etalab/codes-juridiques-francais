@@ -5,3 +5,4 @@
 - [Section 3 : Marché de définition.](section-3)
 - [Section 4 : Marché de maîtrise d'oeuvre.](section-4)
 - [Section 5 : Marchés réalisés dans le cadre de programmes expérimentaux.](section-5)
+- [Section 6 : Marchés et accords-cadres relatifs à l'achat de véhicules à moteur](section-6)
