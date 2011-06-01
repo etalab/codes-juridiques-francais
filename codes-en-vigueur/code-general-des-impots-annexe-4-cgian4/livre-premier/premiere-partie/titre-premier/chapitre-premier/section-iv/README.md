@@ -1,5 +1,6 @@
 # Section IV : Calcul de l'impôt
 
+- [3° Réduction d'impôt pour l'acquisition de certains véhicules de tourisme outre-mer](3-reduction-d-impot-pour-l-acquisition-de-certains-vehicules-de-tourisme-outre-mer)
 - [5° Crédit d'impôt pour dépenses d'équipement de l'habitation principale](5-credit-d-impot-pour-depenses-d-equipement-de-l-habitation-principale)
 - [1° Retenue à la source de l'impôt sur le revenu](1-retenue-a)
 - [Retenue à la source de l'impôt sur le revenu](retenue-a)
