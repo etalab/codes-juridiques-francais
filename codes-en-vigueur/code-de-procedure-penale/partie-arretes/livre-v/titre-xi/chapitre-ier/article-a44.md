@@ -1214,11 +1214,9 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<p align="left">Antenne de Briey. </p>
-</td>
-<td align="left" valign="top">
+<td valign="top"/>
+<td>Antenne de Briey. </td>
+<td valign="top">
 <p>Circonscription judiciaire de Briey. </p>
 <p>Centre de semi-liberté de Briey. </p>
 </td>
@@ -1270,7 +1268,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top"/>
-<td>Antenne de Saint-Mihiel.</td>
+<td>Antenne de Saint-Mihiel. </td>
 <td valign="top">
 <p>(Arr. 17 sept. 2003, art. 5) Centre de détention de Saint-Mihiel. </p>
 </td>
@@ -1352,19 +1350,16 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td rowspan="6" valign="top">
+<td rowspan="7" valign="top">
 <p>Service pénitentiaire d'insertion et de probation du Nord. </p>
 </td>
-<td rowspan="6" valign="top">
+<td rowspan="7" valign="top">
 <p>Lille. </p>
 </td>
 <td valign="top">
 <p>Antenne de Lille-Loos-Sequedin. </p>
 </td>
-<td valign="top">
-<p>Circonscription judiciaire de Lille. </p>
-<p>Centre pénitentiaire de Lille-Loos-Sequedin (quartier maison d'arrêt de Sequedin, quartier maison d'arrêt de Loos, quartier centre de détention de Loos, quartier de semi-liberté d'Haubourdin). </p>
-</td>
+<td valign="top">Circonscription judiciaire de Lille.<br/>Centre pénitentiaire de Lille-Loos-Sequedin (quartier maison d'arrêt de Sequedin, quartier maison d'arrêt de Loos et quartier centre de détention de Loos, quartier de semi-liberté d'Haubourdin.</td>
 </tr>
 <tr>
 <td valign="top">
@@ -1398,9 +1393,12 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Dunkerque.</p>
-<p>Maison d'arrêt de Dunkerque.</p>
 <p>Circonscription judiciaire d'Hazebrouck.</p>
 </td>
+</tr>
+<tr>
+<td>Antenne de Lille Annœullin.</td>
+<td>Centre pénitentiaire de Lille Annœullin.</td>
 </tr>
 <tr>
 <td valign="top">
@@ -1585,7 +1583,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top">
-<p>Antenne de Lannemazan. </p>
+<p>Antenne de Lannemezan. </p>
 </td>
 <td valign="top">
 <p>(Arr. 17 sept. 2003, art. 5) Centre pénitentiaire de Lannemazan. </p>
