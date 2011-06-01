@@ -5,3 +5,5 @@
 - [Article D226-3-3](article-d226-3-3.md)
 - [Article D226-3-4](article-d226-3-4.md)
 - [Article D226-3-5](article-d226-3-5.md)
+- [Article D226-3-6](article-d226-3-6.md)
+- [Article D226-3-7](article-d226-3-7.md)
