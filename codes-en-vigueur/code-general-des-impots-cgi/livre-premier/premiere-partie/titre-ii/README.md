@@ -17,7 +17,7 @@
 - [Chapitre XIII : Contribution annuelle destinée à financer le fonds de modernisation de la restauration](chapitre-xiii)
 - [Chapitre XV : Taxe due par les concessionnaires d'autoroutes](chapitre-xv)
 - [Chapitre XIV : Taxe additionnelle à la taxe   sur les surfaces commerciales](chapitre-xiv)
-- [Chapitre XVI : Contribution annuelle sur les logements sociaux à usage locatif](chapitre-xvi)
+- [Chapitre XVI : Contribution de solidarité territoriale](chapitre-xvi)
 - [Chapitre XVIII : Contribution sur la cession à un service de télévision des droits de diffusion de manifestations ou de compétitions sportives](chapitre-xviii)
 - [Chapitre XX : Prélèvements sur les jeux et paris](chapitre-xx)
 - [Chapitre XIX : Taxe destinée à financer le fonds de garantie des risques liés à l'épandage des boues d'épuration urbaines ou industrielles](chapitre-xix)

@@ -15,3 +15,4 @@
 - [7° : Emprunts contractés à l'étranger](7)
 - [8° : Produits financiers bénéficiant aux organisations internationales aux Etats souverains étrangers, à leurs banques centrales ou institutions financières](8)
 - [9° : Emprunts émis par l'Etat](9)
+- [14° bis : Fonds de placement immobilier](14-bis)

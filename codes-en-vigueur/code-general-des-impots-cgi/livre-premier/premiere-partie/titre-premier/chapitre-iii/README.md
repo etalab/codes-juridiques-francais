@@ -16,3 +16,4 @@
 - [Section XX : Taxe sur les transactions sur devises](section-xx)
 - [Section XIX : Contribution sociale sur l'impôt sur les sociétés](section-xix)
 - [Section XXI : Taxe de risque systémique](section-xxi)
+- [Section XXII : Taxe sur le résultat des entreprises ferroviaires](section-xxii)

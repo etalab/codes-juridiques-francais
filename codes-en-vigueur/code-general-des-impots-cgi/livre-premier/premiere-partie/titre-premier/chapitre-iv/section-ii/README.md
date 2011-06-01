@@ -46,4 +46,5 @@
 - [XLIII : Crédit d'impôt en faveur des débitants de tabac](xliii)
 - [XLV : Crédit d'impôt au titre des primes d'intéressement](xlv)
 - [XLVI : Crédit d'impôt au titre des avances remboursables ne portant pas intérêt pour le financement de travaux d'amélioration de la performance énergétique des logements anciens](xlvi)
+- [XLVII : Crédit d'impôt au profit des établissements de crédit qui octroient des prêts à taux zéro permettant la première accession à la propriété](xlvii)
 - [0I bis : Transferts d'actifs hors de France, réalisés par les entreprises](0i-bis)
