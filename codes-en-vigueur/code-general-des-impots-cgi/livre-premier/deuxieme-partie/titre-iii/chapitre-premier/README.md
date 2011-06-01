@@ -18,5 +18,4 @@
 - [Section XI bis :  Expérimentation des péages urbains](section-xi-bis)
 - [Section XII bis : Impositions perçues au profit des communautés de communes et des établissements publics de coopération intercommunale](section-xii-bis)
 - [Section XIII ter : Impositions perçues par les communautés ou syndicats d'agglomérations nouvelles](section-xiii-ter)
-- [Section XIII quater : Impositions perçues par les groupements substitués aux communes pour l'application des dispositions relatives à la taxe professionnelle](section-xiii-quater)
 - [Section 0VII bis : Taxes spéciales d'équipement perçues au profit des établissements publics. Exonération de certaines terres agricoles](section-0vii-bis)
