@@ -6,7 +6,7 @@ Toute personne arrêtée en vertu d'un extrait de jugement ou d'arrêt portant c
 
 Le procureur de la République, ou le procureur général, en est informé dès le début de la mesure.
 
-La personne arrêtée est immédiatement avisée par l'officier de police judiciaire qu'elle peut exercer les droits prévus par les articles 63-2, 63-3 et 63-4 (premier et deuxième alinéa).
+La personne arrêtée est immédiatement avisée par l'officier de police judiciaire qu'elle peut exercer les droits prévus par les articles 63-2, 63-3 et 63-4.
 
 Lorsque, à l'issue de la mesure, le procureur de la République, ou le procureur général, envisage de ramener la peine à exécution, il peut ordonner que la personne soit conduite devant lui. Après avoir recueilli les observations éventuelles de la personne, le procureur de la République lui notifie s'il y a lieu le titre d'écrou.
 
