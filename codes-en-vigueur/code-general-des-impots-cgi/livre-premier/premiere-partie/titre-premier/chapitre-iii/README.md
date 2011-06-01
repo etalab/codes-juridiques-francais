@@ -3,7 +3,7 @@
 - [Section 0II : Imposition forfaitaire annuelle des sociétés](section-0ii)
 - [Section I : Taxe d'apprentissage](section-i)
 - [Section II : Taxe sur les salaires](section-ii)
-- [Section II bis : Taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux et les locaux de stockage perçue dans la région Ile-de-France](section-ii-bis)
+- [Section II bis : Taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage et les surfaces de stationnement perçue dans la région Ile-de-France](section-ii-bis)
 - [Section III : Taxe annuelle sur les logements vacants.](section-iii)
 - [Section V : Redevance fixe des mines.](section-v)
 - [Section V bis : Contribution annuelle sur les revenus locatifs](section-v-bis)
@@ -15,3 +15,4 @@
 - [Section XIV bis : Prélèvement spécial relatif aux écarts de conversion sur les prêts en monnaie étrangère](section-xiv-bis)
 - [Section XX : Taxe sur les transactions sur devises](section-xx)
 - [Section XIX : Contribution sociale sur l'impôt sur les sociétés](section-xix)
+- [Section XXI : Taxe de risque systémique](section-xxi)
