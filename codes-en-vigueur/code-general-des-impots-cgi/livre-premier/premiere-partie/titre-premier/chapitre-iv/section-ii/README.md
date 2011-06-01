@@ -42,8 +42,6 @@
 - [XXXVII : Crédit d'impôt en faveur de l'agriculture biologique](xxxvii)
 - [XXXVIII : Crédit d'impôt pour formation des dirigeants](xxxviii)
 - [XL : Crédit d'impôt en faveur des métiers d'art](xl)
-- [XLI : Crédit d'impôt pour dépenses de formation à l'économie de l'entreprise et aux dispositifs d'épargne salariale et d'actionnariat salarié](xli)
-- [XXXIX : Crédit d'impôt pour emploi de salariés réservistes](xxxix)
 - [XLII : Crédit d'impôt en faveur des maîtres restaurateurs](xlii)
 - [XLIII : Crédit d'impôt en faveur des débitants de tabac](xliii)
 - [XLV : Crédit d'impôt au titre des primes d'intéressement](xlv)

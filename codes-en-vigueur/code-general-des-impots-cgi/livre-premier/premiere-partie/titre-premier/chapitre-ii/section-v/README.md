@@ -4,7 +4,6 @@
 - [2° : Crédit d'impôt pour dépenses de production déléguée d'oeuvres cinématographiques ou audiovisuelles](2)
 - [3° : Crédit d'impôt pour investissements en faveur des entreprises implantées dans certains secteurs de la région Nord - Pas-de-Calais](3)
 - [5° : Crédit d'impôt pour le rachat du capital d'une société](5)
-- [6° : Réduction d'impôt en faveur des petites et moyennes entreprises de croissance](6)
 - [7° : Réduction d'impôt pour souscription au capital de sociétés de presse](7)
 - [8° : Crédit d'impôt pour dépenses de distribution de programmes audiovisuels](8)
 - [10 ° : Crédit d'impôt pour dépenses de production exécutive d'œuvres cinématographiques et audiovisuelles](10)
