@@ -7,5 +7,6 @@
 - [2 ter : Entreprises implantées dans les zones franches urbaines- territoires entrepreneurs](2-ter)
 - [2 quater : Entreprises de pêche maritime](2-quater)
 - [2 quinquies : Entreprises implantées en Corse](2-quinquies)
+- [2 sexies : Entreprises implantées dans une zone de recherche et de développement. Pôles de compétitivité](2-sexies)
 - [3 : Révision des bilans](3)
 - [4 : Fixation du bénéfice imposable](4)
