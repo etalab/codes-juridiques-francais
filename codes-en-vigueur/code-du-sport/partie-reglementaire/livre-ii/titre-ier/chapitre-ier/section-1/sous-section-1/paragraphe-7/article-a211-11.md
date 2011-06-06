@@ -2,7 +2,7 @@
 
 L'Institut de recherche biomédicale et d'épidémiologie du sport a pour missions de :
 
-1° Constituer une banque nationale de données épidémiologiques du sport de haut niveau, en liaison avec les plateaux techniques des hôpitaux et des centres d'éducation populaire et de sport, ainsi qu'avec les autres unités de suivi médical des sportifs ;
+1° Constituer une banque nationale de données épidémiologiques du sport de haut niveau, en liaison avec les plateaux techniques des hôpitaux et des centres de ressources, d'expertise et de performance sportives, ainsi qu'avec les autres unités de suivi médical des sportifs ;
 
 2° Encourager, conduire et développer des recherches épidémiologiques, physiopathologiques et physiologiques dans le domaine du sport de haut niveau ;
 

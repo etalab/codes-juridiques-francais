@@ -2,7 +2,7 @@
 
 Le déclarant est évalué par un jury désigné et présidé par le chef de service déconcentré régional de l'Etat chargé des sports de Rhône-Alpes ou son représentant et comprenant :
 
-― le responsable du site de Vallon-Pont-d'Arc du centre d'éducation populaire et de sport de Voiron ou son représentant ;
+― le responsable du site de Vallon-Pont-d'Arc du       centre de ressources, d'expertise et de performance sportives  de Voiron ou son représentant ;
 
 ― au moins un représentant des organisations professionnelles les plus représentatives ;
 
