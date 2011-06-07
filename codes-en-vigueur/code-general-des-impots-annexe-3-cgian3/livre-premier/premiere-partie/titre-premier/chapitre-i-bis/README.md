@@ -5,7 +5,7 @@
 - [Section I ter : Activités créées en Corse](section-i-ter)
 - [Section II : Monuments historiques. Charges déductibles pour les organismes non lucratifs](section-ii)
 - [Section III : Intérêts de livrets supplémentaires de caisses d'épargne](section-iii)
-- [Section III bis : Supplément d'impôt sur les sociétés](section-iii-bis)
+- [Section III bis : Détermination des intérêts non déductibles des sommes laissées à disposition d'une entreprise en cas de sous-capitalisation](section-iii-bis)
 - [Section IV bis : Modalités de l'exonération de la retenue à la source ou du prélèvement applicable aux dividendes, intérêts et redevances distribués ou payées entre sociétés associées d'Etats membres de la Communauté européenne](section-iv-bis)
 - [Section V : Profits de construction](section-v)
 - [Section V bis : Rachat d'une entreprise par ses salariés](section-v-bis)
