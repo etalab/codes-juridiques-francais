@@ -13,7 +13,6 @@
 - [Section VI : Report en arrière des déficits](section-vi)
 - [Section VI bis : Option de souscription, achat ou attribution gratuite d'actions](section-vi-bis)
 - [Section VI ter : Crédit d'impôt pour investissement en faveur des entreprises implantées dans certains secteurs de la région Nord - Pas-de-Calais.](section-vi-ter)
-- [Section VI quater : Crédit d'impôt pour dépenses de production d'oeuvres cinématographiques ou audiovisuelles](section-vi-quater)
 - [Section VI quinquies : Crédit d'impôt pour dépenses de production d'oeuvres phonographiques](section-vi-quinquies)
 - [Section VI sexies : Réduction d'impôt en faveur des petites et moyennes entreprises de croissance](section-vi-sexies)
 - [Section VI septies : Crédit d'impôt pour le rachat du capital d'une société](section-vi-septies)
