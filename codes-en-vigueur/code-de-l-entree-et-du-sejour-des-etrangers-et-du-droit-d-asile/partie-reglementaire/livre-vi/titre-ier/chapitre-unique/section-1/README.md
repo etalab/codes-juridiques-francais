@@ -1,10 +1,8 @@
-# Section 1 : Système informatisé de gestion des dossiers des ressortissants étrangers en France.
+# Section 1 : Application de gestion des dossiers des ressortissants étrangers en France.
 
-- [Article D611-1](article-d611-1.md)
-- [Article D611-2](article-d611-2.md)
-- [Article D611-3](article-d611-3.md)
-- [Article D611-4](article-d611-4.md)
-- [Article D611-5](article-d611-5.md)
-- [Article D611-5-1](article-d611-5-1.md)
-- [Article D611-6](article-d611-6.md)
-- [Article D611-7](article-d611-7.md)
+- [Sous-section 1 : Finalités du traitement](sous-section-1)
+- [Sous-section 2 : Données enregistrées dans le traitement](sous-section-2)
+- [Sous-section 3 : Destinataires des données](sous-section-3)
+- [Sous-section 4 : Accès aux données en consultation](sous-section-4)
+- [Sous-section 5 : Conservation des données](sous-section-5)
+- [Sous-section 6 : Droits d'accès, de rectification et d'opposition](sous-section-6)
