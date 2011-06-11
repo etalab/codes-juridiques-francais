@@ -1,7 +1,5 @@
 # Section 4 : Traitement automatisé de données à caractère personnel relatives aux étrangers faisant l'objet d'une mesure d'éloignement
 
-- [Article R611-25](article-r611-25.md)
-- [Article R611-26](article-r611-26.md)
 - [Article R611-27](article-r611-27.md)
 - [Article R611-28](article-r611-28.md)
 - [Article R611-29](article-r611-29.md)
