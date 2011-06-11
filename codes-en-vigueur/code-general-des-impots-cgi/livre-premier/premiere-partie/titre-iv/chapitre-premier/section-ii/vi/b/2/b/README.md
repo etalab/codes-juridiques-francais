@@ -4,4 +4,5 @@
 - [2° : Dettes du défunt](2)
 - [3° : Frais funéraires](3)
 - [4° : Rentes et indemnités versées en réparation de dommages corporels](4)
+- [6° : Loyers et indemnités d'occupation](6)
 - [7° : Rémunération du mandataire à titre posthume](7)
