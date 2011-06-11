@@ -1,4 +1,4 @@
-# Section 2 : Rémunération de l'assistance aux navires et bateaux
+# Section 2 : Rémunération de l'assistance
 
 - [Article L5132-2](article-l5132-2.md)
 - [Article L5132-3](article-l5132-3.md)

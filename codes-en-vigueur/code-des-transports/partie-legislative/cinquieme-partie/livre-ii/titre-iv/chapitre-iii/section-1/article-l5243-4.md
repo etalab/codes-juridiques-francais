@@ -4,4 +4,4 @@ Les fonctionnaires et agents de l'Etat mentionnés aux articles précédents peu
 
 Ils peuvent visiter le navire et demander la communication des titres, certificats et autres documents professionnels et recueillir les renseignements et justifications utiles à leur mission.
 
-Toutefois, ils ne peuvent accéder aux parties du navire qui sont à usage exclusif d'habitation sauf en cas de contrôle portant sur les conditions d'habitabilité et de sécurité.
+Toutefois, ils ne peuvent accéder aux parties du navire qui sont à usage exclusif d'habitation sauf en cas de contrôle portant sur les conditions de sécurité, d'habitabilité, d'hygiène, de santé et de sécurité au travail.

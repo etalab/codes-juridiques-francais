@@ -6,3 +6,4 @@
 - [Article L5242-4](article-l5242-4.md)
 - [Article L5242-5](article-l5242-5.md)
 - [Article L5242-6](article-l5242-6.md)
+- [Article L5242-6-1](article-l5242-6-1.md)
