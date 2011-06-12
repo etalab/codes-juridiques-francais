@@ -1,8 +1,8 @@
 # Article R711-59
 
-Le bureau de l'assemblée des chambres françaises de commerce et d'industrie se compose de dix à quatorze membres, chacun de ses membres disposant d'une voix, à savoir :
+Le bureau de l'assemblée des chambres françaises de commerce et d'industrie se compose de dix à quinze membres, chacun de ses membres disposant d'une voix, à savoir :
 
-Un président et deux vice-présidents ;
+Un président et trois vice-présidents ;
 
 Un secrétaire ;
 

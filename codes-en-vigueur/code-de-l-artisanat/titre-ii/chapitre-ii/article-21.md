@@ -8,7 +8,7 @@ Auprès de la chambre de métiers et de l'artisanat départementale qui le déci
 
 Le règlement intérieur fixe le mode de désignation des membres associés et pour chaque collège intéressé leur nombre, limité, sauf dérogation admise par l'autorité de tutelle, à la moitié au plus du nombre des membres élus.
 
-Les membres associés répondent aux conditions d'éligibilité prévues par l'article 6 du décret n° 99-433 du 27 mai 1999 relatif à la composition des chambres régionales de métiers et de l'artisanat et des chambres de métiers et de l'artisanat de région et à leur élection.
+Les membres associés répondent aux conditions d'éligibilité prévues par l'article 6 du décret n° 99-433 du 27 mai 1999 relatif à la composition des chambres de métiers et de l'artisanat de région et de leurs sections, des chambres régionales de métiers et de l'artisanat et des chambres de métiers et de l'artisanat départementales et à l'élection de leurs membres.
 
 III.-Le règlement intérieur précise les missions des membres associés et les modalités de leur participation, à titre consultatif, aux délibérations de l'assemblée générale de la chambre.
 
