@@ -4,4 +4,4 @@
 - [D : Factures transmises par voie télématique](d)
 - [A : Déclarations d'existence et comptabilité. Déclarations de recettes](a)
 - [B : Tenue des registres](b)
-- [E : Services fournis par voie électronique](e)
+- [E : Remboursement de la taxe aux assujettis établis dans l'Union européenne](e)

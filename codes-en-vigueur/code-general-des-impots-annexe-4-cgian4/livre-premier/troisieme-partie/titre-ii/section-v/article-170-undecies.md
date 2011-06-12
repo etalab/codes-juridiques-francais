@@ -4,7 +4,7 @@ En application du III de l'article 347 de l'annexe III au code général des imp
 
 1. pour la ville de Paris :
 
-a) jusqu'à cent cinquante, en ce qui concerne les représentants des contribuables désignés par la chambre de commerce et d'industrie ;
+a) jusqu'à cent cinquante, en ce qui concerne les représentants des contribuables désignés par la chambre de commerce et d'industrie territoriale ;
 
 b) jusqu'à cinquante, en ce qui concerne les représentants des contribuables désignés par la chambre des métiers et de l'artisanat et par les organisations ou organismes professionnels regroupant les titulaires de revenus non commerciaux ;
 

@@ -31,12 +31,6 @@ Les tarifs de la taxe minière sur l'or en Guyane applicables en 2010 sont fixé
 <br/>448, 36 <br/>
 </td>
 </tr>
-<tr>
-<td align="center">
-<br/>Tarif applicable au titre de l'année 2010 <br/>
-</td>
-<td align="center"/>
-</tr>
 </tbody>
 </table>
 
