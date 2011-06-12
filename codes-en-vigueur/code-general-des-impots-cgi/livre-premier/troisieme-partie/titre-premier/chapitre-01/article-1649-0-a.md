@@ -23,11 +23,11 @@ L. 136-7 et L. 245-15 du code de la sécurité sociale et aux articles 14 et 16 
 
 3. Les impositions mentionnées au 2 sont diminuées :
 
-Les restitutions et les dégrèvements d'impôt sont retenus pour des montants calculés sans appliquer la diminution de 10 % de certains avantages fiscaux prévus au I de l'article 105 de la loi n° 2010-1657 du 29 décembre 2010 précitée.
-
 a) De la restitution prévue au III bis de l'article L. 136-7 du code de la sécurité sociale perçue au cours de l'année de la réalisation des revenus mentionnés au 4 ;
 
 b) Des restitutions de l'impôt sur le revenu perçues ou des dégrèvements obtenus au cours de l'année suivant celle de la réalisation des revenus mentionnés au 4.
+
+Les restitutions et les dégrèvements d'impôt sont retenus pour des montants calculés sans appliquer la diminution de 10 % de certains avantages fiscaux prévus au  I de l'article 105 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011.
 
 Lorsque les impositions mentionnées au c du 2 sont établies au nom des sociétés et groupements non soumis à l'impôt sur les sociétés dont le contribuable est membre, il est tenu compte de la fraction de ces impositions à proportion des droits du contribuable dans les bénéfices comptables de ces sociétés et groupements. En cas d'indivision, il est tenu compte de la fraction de ces impositions à proportion des droits du contribuable dans l'indivision.
 
