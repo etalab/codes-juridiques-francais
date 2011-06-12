@@ -34,6 +34,6 @@ III. Les pages des répertoires des notaires sont numérotées. Elles sont visé
 
 Les répertoires des greffiers des cours et tribunaux sont cotés et paraphés par le greffier en chef de la juridiction et ceux des huissiers, par le président de la chambre départementale des huissiers ou son délégué.
 
-IV. Les dispositions relatives à la tenue des répertoires sont applicables aux commissaires-priseurs et aux courtiers de commerce, mais seulement pour les procès-verbaux de ventes de meubles et de marchandises, et pour les actes faits en conséquence de ces ventes.
+IV. Les dispositions relatives à la tenue des répertoires sont applicables aux commissaires-priseurs judiciaires et aux courtiers de commerce, mais seulement pour les procès-verbaux de ventes de meubles et de marchandises, et pour les actes faits en conséquence de ces ventes.
 
 V. Les seuls actes dont il doit être tenu répertoire, dans les préfectures et sous-préfectures, sont ceux des autorités administratives et des établissements publics, dénommés dans les 3° et 4° du 1 et les 5° et 6° du 2 de l'article 635, y compris ceux qui ne sont pas soumis à un droit proportionnel ou progressif.

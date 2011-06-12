@@ -24,7 +24,7 @@ Ouvrent également droit à la réduction d'impôt les frais engagés dans le ca
 
 1 bis. Pour l'application des dispositions du 1, lorsque les dons et versements effectués au cours d'une année excèdent la limite de 20 %, l'excédent est reporté successivement sur les années suivantes jusqu'à la cinquième inclusivement et ouvre droit à la réduction d'impôt dans les mêmes conditions.
 
-1 ter Le taux de la réduction d'impôt visée au 1 est porté à 75 % pour les versements effectués au profit d'organismes sans but lucratif qui procèdent à la fourniture gratuite de repas à des personnes en difficulté, qui contribuent à favoriser leur logement ou qui procèdent, à titre principal, à la fourniture gratuite des soins mentionnés au 1° du 4 de l'article 261 à des personnes en difficulté. Ces versements sont retenus dans la limite de 510 € à compter de l'imposition des revenus de l'année 2009. Il n'en est pas tenu compte pour l'application de la limite mentionnée au 1.
+1 ter Le taux de la réduction d'impôt visée au 1 est porté à 75 % pour les versements effectués au profit d'organismes sans but lucratif qui procèdent à la fourniture gratuite de repas à des personnes en difficulté, qui contribuent à favoriser leur logement ou qui procèdent, à titre principal, à la fourniture gratuite des soins mentionnés au 1° du 4 de l'article 261 à des personnes en difficulté. Ces versements sont retenus dans la limite de 513 € à compter de l'imposition des revenus de l'année 2010. Il n'en est pas tenu compte pour l'application de la limite mentionnée au 1.
 
 La limite de versements mentionnée au premier alinéa est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu de l'année précédant celle des versements. Le montant obtenu est arrondi, s'il y a lieu, à l'euro supérieur.
 
@@ -56,7 +56,7 @@ Lorsque les dons et versements ont été effectués au profit d'un organisme non
 
 Un décret fixe les conditions d'application du présent 4 bis et notamment la durée de validité ainsi que les modalités de délivrance, de publicité et de retrait de l'agrément.
 
-5. Le bénéfice des dispositions du 1, du 1 ter, du 2 bis et du 4 bis est subordonné à la condition que soient jointes à la déclaration des revenus des pièces justificatives, répondant à un modèle fixé par un arrêté attestant le total du montant et la date des versements ainsi que l'identité des bénéficiaires.A défaut, la réduction d'impôt est refusée sans proposition de rectification préalable.
+5. Le bénéfice des dispositions du 1, du 1 ter, du 2 bis et du 4 bis est subordonné à la condition que soient jointes à la déclaration des revenus des pièces justificatives, répondant à un modèle fixé par un arrêté attestant le total du montant et la date des versements ainsi que l'identité des bénéficiaires. A défaut, la réduction d'impôt est refusée sans proposition de rectification préalable.
 
 Toutefois, pour l'application du 3, les reçus délivrés pour les dons et les cotisations d'un montant égal ou inférieur à 3 000 euros ne mentionnent pas la dénomination du bénéficiaire. Un décret en Conseil d'Etat détermine les modalités d'application de cette disposition.
 

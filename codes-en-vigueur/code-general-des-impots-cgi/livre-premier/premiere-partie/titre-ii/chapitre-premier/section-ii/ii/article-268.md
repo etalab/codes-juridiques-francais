@@ -6,8 +6,8 @@ S'agissant de la livraison d'un terrain à bâtir, ou d'une opération mentionn�
 
 2° D'autre part, selon le cas :
 
-- soit les sommes que le cédant a versées, à quelque titre que ce soit, pour l'acquisition du terrain ou de l'immeuble ;
+a) soit les sommes que le cédant a versées, à quelque titre que ce soit, pour l'acquisition du terrain ou de l'immeuble ;
 
-- soit la valeur nominale des actions ou parts reçues en contrepartie des apports en nature qu'il a effectués.
+b) soit la valeur nominale des actions ou parts reçues en contrepartie des apports en nature qu'il a effectués.
 
-Lorsque l'opération est réalisée par un fiduciaire, les sommes mentionnées aux deux précédents alinéas s'apprécient, le cas échéant, chez le constituant.
+Lorsque l'opération est réalisée par un fiduciaire, les sommes mentionnées aux a et b du 2° s'apprécient, le cas échéant, chez le constituant.

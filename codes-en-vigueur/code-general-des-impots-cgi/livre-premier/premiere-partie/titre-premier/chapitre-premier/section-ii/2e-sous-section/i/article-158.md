@@ -52,9 +52,9 @@ Dans le cas des entreprises industrielles, commerciales, artisanales ou agricole
 
 5. a. Les revenus provenant de traitements publics et privés, indemnités, émoluments, salaires et pensions ainsi que de rentes viagères autres que celles mentionnées au 6 sont déterminés conformément aux dispositions des articles 79 à 90.
 
-Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut excéder 3 606 €. Ce plafond s'applique au montant total des pensions et retraites perçues par l'ensemble des membres du foyer fiscal. Chaque année, il est révisé selon les mêmes modalités que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
+Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut excéder 3 660 €. Ce plafond s'applique au montant total des pensions et retraites perçues par l'ensemble des membres du foyer fiscal. Chaque année, il est révisé selon les mêmes modalités que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
-L'abattement indiqué au deuxième alinéa ne peut être inférieur à 368 €, sans pouvoir excéder le montant brut des pensions et retraites. Cette disposition s'applique au montant des pensions ou retraites perçu par chaque retraité ou pensionné membre du foyer fiscal. La somme de 368 € est révisée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
+L'abattement indiqué au deuxième alinéa ne peut être inférieur à 374 €, sans pouvoir excéder le montant brut des pensions et retraites. Cette disposition s'applique au montant des pensions ou retraites perçu par chaque retraité ou pensionné membre du foyer fiscal. La somme de 374 € est révisée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
 b. Les dispositions du a sont applicables aux allocations mentionnées aux articles L. 3232-6, L. 5122-1, L. 5122-2, L. 5123-2, L. 5422-1, L. 5423-1 et L. 5423-8 du code du travail, aux participations en espèces et, à compter du 1er janvier 1991, aux dividendes des actions de travail, alloués aux travailleurs mentionnés au 18° bis de l'article 81, lorsque ces sommes sont imposables.
 
@@ -66,7 +66,7 @@ b ter. (abrogé à compter de la date d'entrée en vigueur de la loi n° 2002-73
 
 b quater. Les dispositions du a sont applicables aux pensions servies au titre des plans d'épargne retraite populaire prévus à l'article L. 144-2 du code des assurances ;
 
-b quinquies. Sous réserve de l'application du 6° bis de l'article 120, le a est applicable aux prestations de retraite versées sous forme de capital, à l'exception de celles versées en exercice des facultés de rachat prévues aux troisième à septième alinéas de l'article L. 132-23 du code des assurances. Le bénéficiaire peut toutefois demander le bénéfice des dispositions du II de l'article 163 bis du présent code.
+b quinquies. Sous réserve de l'application du 6° bis de l'article 120, le a est applicable aux prestations de retraite versées sous forme de capital, à l'exception de celles versées en exercice des facultés de rachat prévues aux troisième à septième alinéas de l'article L. 132-23 du code des assurances. Le bénéficiaire peut toutefois demander le bénéfice des dispositions du II de l'article 163 bis.
 
 c. Lorsque, étant en instance de séparation de corps ou de divorce, les époux font l'objet d'impositions distinctes par application des dispositions du b du 4 de l'article 6, la provision alimentaire qui est allouée à l'un d'eux pour son entretien et celui des enfants dont il a la charge est comptée dans les revenus imposables de l'intéressé ;
 

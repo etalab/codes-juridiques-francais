@@ -18,8 +18,7 @@ Tarif des droits applicables en ligne directe :
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>N'excédant pas 7 953 € <br/>
+<p>N'excédant pas 8 072 € <br/>
 </p>
 </td>
 <td align="center">
@@ -28,8 +27,7 @@ Tarif des droits applicables en ligne directe :
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Comprise entre 7 953 € et 11 930 € <br/>
+<p>Comprise entre 8 072 € et 12 109 € <br/>
 </p>
 </td>
 <td align="center">
@@ -38,8 +36,7 @@ Tarif des droits applicables en ligne directe :
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Comprise entre 11 930 € et 15 697 € <br/>
+<p>Comprise entre 12 109 € et 15 932 € <br/>
 </p>
 </td>
 <td align="center">
@@ -48,8 +45,7 @@ Tarif des droits applicables en ligne directe :
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Comprise entre 15 697 € et 544 173 € <br/>
+<p>Comprise entre 15 932 € et 552 324 € <br/>
 </p>
 </td>
 <td align="center">
@@ -58,8 +54,7 @@ Tarif des droits applicables en ligne directe :
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Comprise entre 544 173 € et 889 514 € <br/>
+<p>Comprise entre 552 324 € et 902 838 € <br/>
 </p>
 </td>
 <td align="center">
@@ -68,8 +63,7 @@ Tarif des droits applicables en ligne directe :
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Comprise entre 889 514 € et 1 779 029 € <br/>
+<p>Comprise entre 902 838 € et 1 805 677 € <br/>
 </p>
 </td>
 <td align="center">
@@ -78,8 +72,7 @@ Tarif des droits applicables en ligne directe :
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Au-delà de 1 779 029 € <br/>
+<p>Au-delà de 1 805 677 € <br/>
 </p>
 </td>
 <td align="center">
@@ -105,8 +98,7 @@ Tarif des droits applicables entre époux et entre partenaires liés par un pact
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>N'excédant pas 7 953 € <br/>
+<p>N'excédant pas 8 072 € <br/>
 </p>
 </td>
 <td align="center">
@@ -115,8 +107,7 @@ Tarif des droits applicables entre époux et entre partenaires liés par un pact
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Comprise entre 7 953 € et 15 697 € <br/>
+<p>Comprise entre 8 072 € et 15 932 € <br/>
 </p>
 </td>
 <td align="center">
@@ -125,8 +116,7 @@ Tarif des droits applicables entre époux et entre partenaires liés par un pact
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Comprise entre 15 697 € et 31 395 € <br/>
+<p>Comprise entre 15 932 € et 31 865 € <br/>
 </p>
 </td>
 <td align="center">
@@ -135,8 +125,7 @@ Tarif des droits applicables entre époux et entre partenaires liés par un pact
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Comprise entre 31 395 € et 544 173 € <br/>
+<p>Comprise entre 31 865 € et 552 324 € <br/>
 </p>
 </td>
 <td align="center">
@@ -145,8 +134,7 @@ Tarif des droits applicables entre époux et entre partenaires liés par un pact
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Comprise entre 544 173 € et 889 514 € <br/>
+<p>Comprise entre 552 324 € et 902 838 € <br/>
 </p>
 </td>
 <td align="center">
@@ -155,8 +143,7 @@ Tarif des droits applicables entre époux et entre partenaires liés par un pact
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Comprise entre 889 514 € et 1 779 029 € <br/>
+<p>Comprise entre 902 838 € et 1 805 677 € <br/>
 </p>
 </td>
 <td align="center">
@@ -165,8 +152,7 @@ Tarif des droits applicables entre époux et entre partenaires liés par un pact
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Au-delà de 1 779 029 € <br/>
+<p>Au-delà de 1 805 677 € <br/>
 </p>
 </td>
 <td align="center">
@@ -192,8 +178,7 @@ Tarif des droits applicables en ligne collatérale et entre non-parents :
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Entre frères et sœurs vivants ou représentés : <br/>
+<p>Entre frères et sœurs vivants ou représentés : <br/>
 </p>
 </td>
 <td align="center">
@@ -202,8 +187,7 @@ Tarif des droits applicables en ligne collatérale et entre non-parents :
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>N'excédant pas 24 069 € <br/>
+<p>N'excédant pas 24 430 € <br/>
 </p>
 </td>
 <td align="center">
@@ -212,8 +196,7 @@ Tarif des droits applicables en ligne collatérale et entre non-parents :
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Supérieure à 24 069 € <br/>
+<p>Supérieure à 24 430 € <br/>
 </p>
 </td>
 <td align="center">
@@ -222,8 +205,7 @@ Tarif des droits applicables en ligne collatérale et entre non-parents :
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Entre parents jusqu'au 4e degré inclusivement <br/>
+<p>Entre parents jusqu'au 4e degré inclusivement <br/>
 </p>
 </td>
 <td align="center">
@@ -232,8 +214,7 @@ Tarif des droits applicables en ligne collatérale et entre non-parents :
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Entre parents au-delà du 4e degré et entre personnes nonparentes <br/>
+<p>Entre parents au-delà du 4e degré et entre personnes non-parentes <br/>
 </p>
 </td>
 <td align="center">

@@ -6,6 +6,5 @@
 - [II : Engagements d'épargne à long terme.](ii)
 - [II bis : Fonds communs de placement à risques et fonds professionnels de capital investissement](ii-bis)
 - [II sexies : Epargne retraite](ii-sexies)
-- [II septies : Compte épargne codéveloppement](ii-septies)
 - [III : Présentation et contenu des déclarations](iii)
 - [0I bis : Opérations de restauration immobilière.](0i-bis)

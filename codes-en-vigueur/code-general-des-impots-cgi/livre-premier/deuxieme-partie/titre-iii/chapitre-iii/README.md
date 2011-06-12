@@ -2,8 +2,8 @@
 
 - [Section I : Taxes à percevoir pour l'alimentation du fonds commun des accidents du travail agricole](section-i)
 - [Section I bis : Droit de timbre perçu au profit de l'Agence nationale des titres sécurisés](section-i-bis)
-- [Section I quater : Fonds de garantie contre les accidents de circulation et de chasse](section-i-quater)
-- [Section V : Fonds national de garantie des calamités agricoles](section-v)
+- [Section I quater : Fonds de garantie des assurances obligatoires de dommages](section-i-quater)
+- [Section V : Fonds national de gestion des risques en agriculture](section-v)
 - [Section V bis : Fonds de garantie des calamités agricoles dans les départements d'outre-mer](section-v-bis)
 - [Section V quater : Fonds de prévention des risques naturels majeurs](section-v-quater)
 - [Section VI : Groupements de communes. Taxe locale d'équipement](section-vi)

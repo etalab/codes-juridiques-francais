@@ -8,7 +8,7 @@ II. 1. L'abattement obligatoire pour charges de famille est fixé, pour les pers
 
 Ces taux peuvent être majorés d'un ou plusieurs points sans excéder 10 points par le conseil municipal.
 
-2. L'abattement facultatif à la base, que le conseil municipal peut instituer, est à un certain pourcentage, ce pourcentage pouvant varier de un pour cent à plusieurs pour cent sans excéder 15 % de la valeur locative moyenne des habitations de la commune.
+2. L'abattement facultatif à la base, que le conseil municipal peut instituer, est égal à un certain pourcentage, ce pourcentage pouvant varier de un pour cent à plusieurs pour cent sans excéder 15 % de la valeur locative moyenne des habitations de la commune.
 
 3. Sans préjudice de l'application de l'abattement prévu au 2, le conseil municipal peut accorder un abattement à la base aux contribuables dont le montant des revenus de l'année précédente n'excède pas la limite prévue à l'article 1417 et dont l'habitation principale a une valeur locative inférieure à 130 % de la moyenne communale. Cet abattement est égal à un pourcentage de la valeur locative moyenne des habitations de la commune, ce pourcentage pouvant varier de un pour cent à plusieurs pour cent sans excéder 15 % ; il peut être augmenté de 10 points par personne à charge à titre exclusif ou principal.
 

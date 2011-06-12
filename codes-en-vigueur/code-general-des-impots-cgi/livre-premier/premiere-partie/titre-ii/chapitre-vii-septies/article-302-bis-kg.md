@@ -2,7 +2,7 @@
 
 I.-Il est institué une taxe due par tout éditeur de services de télévision au sens de l'article 2 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, établi en France.
 
-II.-La taxe est assise sur le montant, hors taxe sur la valeur ajoutée, des sommes versées par les annonceurs, pour la diffusion de leurs messages publicitaires, aux redevables concernés ou aux régisseurs de messages publicitaires, déduction faite des sommes versées en application de la taxe prévue à l'article 302 bis KC. Ces sommes font l'objet d'un abattement forfaitaire de 4 %.
+II.-La taxe est assise sur le montant, hors taxe sur la valeur ajoutée, des sommes versées par les annonceurs, pour la diffusion de leurs messages publicitaires, aux redevables concernés ou aux régisseurs de messages publicitaires, déduction faite des sommes versées en application de la taxe prévue aux articles L. 115-6 à L. 115-13 du code du cinéma et de l'image animée. Ces sommes font l'objet d'un abattement forfaitaire de 4 %.
 
 III.-L'exigibilité de la taxe est constituée par le versement des sommes mentionnées au II.
 

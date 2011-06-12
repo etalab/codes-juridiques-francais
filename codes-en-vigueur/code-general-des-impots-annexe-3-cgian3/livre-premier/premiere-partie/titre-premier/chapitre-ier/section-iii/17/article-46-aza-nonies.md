@@ -1,4 +1,4 @@
-# Article 46 AZD
+# Article 46 AZA nonies
 
 I.-Pour l'application de l'article 199 sexvicies du code général des impôts, le contribuable joint à sa déclaration de revenus de l'année au titre de laquelle le bénéfice de la réduction d'impôt est demandé :
 

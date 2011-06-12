@@ -26,7 +26,7 @@ Cette exonération est applicable aux opérations effectuées par les coopérati
 
 Les sociétés coopératives agricoles et leurs unions sont tenues de produire, à toute réquisition de l'administration, leur comptabilité et les justifications nécessaires tendant à prouver qu'elles fonctionnent conformément aux dispositions législatives et réglementaires relatives au statut juridique de la coopération agricole ;
 
-3° bis. Lorsqu'elles fonctionnent conformément aux dispositions de la loi n° 83-657 du 20 juillet 1983 relative au développement de certaines activités d'économie sociale, les coopératives artisanales et leurs unions, les coopératives d'entreprises de transports, les coopératives artisanales de transport fluvial ainsi que les coopératives maritimes et leurs unions, visées au chapitre Ier du titre III de la même loi, sauf pour les affaires effectuées avec des non-sociétaires ;
+3° bis. Lorsqu'elles fonctionnent conformément aux dispositions de la loi n° 83-657 du 20 juillet 1983 relative au développement de certaines activités d'économie sociale, les coopératives artisanales et leurs unions, les coopératives d'entreprises de transports, les coopératives artisanales de transport fluvial ainsi que les coopératives maritimes et leurs unions, visées aux articles L. 931-5 à L. 931-27 du code rural et de la pêche maritime, sauf pour les affaires effectuées avec des non-sociétaires ;
 
 4° Les organismes d'habitations à loyer modéré mentionnés à l'article L. 411-2 du code de la construction et de l'habitation, à l'exception des sociétés anonymes de crédit immobilier, les sociétés d'économie mixte visées à l'article L. 481-1-1 du même code et les sociétés anonymes de coordination entre les organismes d'habitations à loyer modéré mentionnées à l'article L. 423-1-1 du même code pour :
 
@@ -66,7 +66,7 @@ c. les produits financiers issus du placement de la trésorerie de ces organisme
 
 5° bis. Les organismes sans but lucratif mentionnés au 1° du 7 de l'article 261, pour les opérations à raison desquelles ils sont exonérés de la taxe sur la valeur ajoutée ;
 
-6° Les régions et les ententes interrégionales, les  départements et les ententes interdépartementales, les communes, les établissements publics de coopération intercommunale à fiscalité propre, syndicats de communes et syndicats mixtes constitués exclusivement de collectivités territoriales ou de groupements de ces collectivités ainsi que leurs régies de services publics ;
+6° Les régions et les ententes interrégionales, les départements et les ententes interdépartementales, les communes, les établissements publics de coopération intercommunale à fiscalité propre, syndicats de communes et syndicats mixtes constitués exclusivement de collectivités territoriales ou de groupements de ces collectivités ainsi que leurs régies de services publics ;
 
 6° bis. Dans les conditions fixées par décret, les établissements publics et sociétés d'économie mixte chargés de l'aménagement par une convention contractée, en application du deuxième alinéa de l'article L. 300-4 du code de l'urbanisme ainsi que les organismes d'habitations à loyer modéré régis par l'article L. 411-2 du code de la construction et de l'habitation et les sociétés anonymes de coordination d'organismes d'habitations à loyer modéré régies par l'article L. 423-1-1 du même code, pour les résultats provenant des opérations réalisées dans le cadre des procédures suivantes :
 

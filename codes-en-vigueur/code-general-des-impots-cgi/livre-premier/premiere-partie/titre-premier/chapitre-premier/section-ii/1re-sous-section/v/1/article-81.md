@@ -26,7 +26,7 @@ b. L'allocation de reconnaissance prévue aux I et I bis de l'article 47 de la l
 
 7° Les traitements attachés à la légion d'honneur et à la médaille militaire ;
 
-8° Les indemnités temporaires, à hauteur de 50 % de leur montant, ainsi que les prestations et rentes viagères, servies aux victimes d'accidents du travail ou à leurs ayants droit (2) ;
+8° Les indemnités temporaires, à hauteur de 50 % de leur montant, ainsi que les prestations et rentes viagères, servies aux victimes d'accidents du travail ou à leurs ayants droit ;
 
 9° Les allocations, indemnités et prestations servies, sous quelque forme que ce soit, par l'Etat, les collectivités et les établissements publics, en application des lois et décrets d'assistance et d'assurance ;
 
@@ -90,7 +90,7 @@ L'exonération s'applique sous réserve du dépôt de l'accord d'intéressement,
 
 Les dispositions du premier alinéa bénéficient également, dans les mêmes conditions et limites aux dividendes des actions de travail attribuées aux salariés des sociétés anonymes à participation ouvrière régies par la loi du 26 avril 1917, à compter du 1er janvier 1991 ;
 
-19° Dans la limite de 5,21 euros par titre, le complément de rémunération résultant de la contribution de l'employeur à l'acquisition par le salarié des titres-restaurant émis conformément aux dispositions du chapitre II du titre VI du livre II de la troisième partie du code du travail, lorsque cette contribution est comprise entre un minimum et un maximum fixés par arrêté du ministre chargé du budget. La limite d'exonération est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu de l'année précédant celle de l'acquisition des titres-restaurant et arrondie, s'il y a lieu, au centime d'euro le plus proche.
+19° Dans la limite de 5,29 euros par titre, le complément de rémunération résultant de la contribution de l'employeur à l'acquisition par le salarié des titres-restaurant émis conformément aux dispositions du chapitre II du titre VI du livre II de la troisième partie du code du travail, lorsque cette contribution est comprise entre un minimum et un maximum fixés par arrêté du ministre chargé du budget. La limite d'exonération est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu de l'année précédant celle de l'acquisition des titres-restaurant et arrondie, s'il y a lieu, au centime d'euro le plus proche.
 
 Cette exonération est subordonnée à la condition que le salarié se conforme aux obligations qui sont mises à sa charge par le même chapitre II  ;
 
@@ -112,7 +112,7 @@ d. (disjoint) ;
 
 21° (Abrogé) ;
 
-22° (Abrogé) (3)
+22° (Abrogé)
 
 23° L'indemnité compensatoire pour frais de transport attribuée aux magistrats, militaires, fonctionnaires et agents de la fonction publique de l'Etat, aux fonctionnaires et agents de la fonction publique hospitalière, aux fonctionnaires et agents des collectivités territoriales et de leurs établissements publics et aux agents de droit public de La Poste et de France Télécom en service dans les départements de la Haute-Corse et de la Corse-du-Sud ;
 
@@ -152,4 +152,4 @@ d. (disjoint) ;
 
 37° L'aide financière mentionnée aux articles L. 7233-4 et L. 7233-5 du code du travail ;
 
-38° Le revenu supplémentaire temporaire d'activité versé, en application du décret n° 2009-602 du 27 mai 2009 relatif au revenu supplémentaire temporaire d'activité, dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de La Réunion (1).
+38° Le revenu supplémentaire temporaire d'activité versé, en application du décret n° 2009-602 du 27 mai 2009 relatif au revenu supplémentaire temporaire d'activité, dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de La Réunion.

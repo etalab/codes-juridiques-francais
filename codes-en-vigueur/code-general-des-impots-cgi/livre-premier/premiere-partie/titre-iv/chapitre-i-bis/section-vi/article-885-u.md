@@ -15,7 +15,7 @@ Le tarif de l'impôt est fixé à :
 </tr>
 <tr>
 <td align="center">
-<br/>N'excédant pas 790 000 € <br/>
+<br/>N'excédant pas 800 000 € <br/>
 </td>
 <td align="center">
 <br/>0 <br/>
@@ -23,7 +23,7 @@ Le tarif de l'impôt est fixé à :
 </tr>
 <tr>
 <td align="center">
-<br/>Supérieure à 790 000 € et inférieure ou égale à 1 290 000 € <br/>
+<br/>Supérieure à 800 000 € et inférieure ou égale à 1 310 000 € <br/>
 </td>
 <td align="center">
 <br/>0, 55 <br/>
@@ -31,7 +31,7 @@ Le tarif de l'impôt est fixé à :
 </tr>
 <tr>
 <td align="center">
-<br/>Supérieure à 1 290 000 € et inférieure ou égale à 2 530 000 € <br/>
+<br/>Supérieure à 1 310 000 € et inférieure ou égale à 2 570 000 € <br/>
 </td>
 <td align="center">
 <br/>0, 75 <br/>
@@ -39,7 +39,7 @@ Le tarif de l'impôt est fixé à :
 </tr>
 <tr>
 <td align="center">
-<br/>Supérieure à 2 530 000 € et inférieure ou égale à 3 980 000 € <br/>
+<br/>Supérieure à 2 570 000 € et inférieure ou égale à 4 040 000 € <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -47,7 +47,7 @@ Le tarif de l'impôt est fixé à :
 </tr>
 <tr>
 <td align="center">
-<br/>Supérieure à 3 980 000 € et inférieure ou égale à 7 600 000 € <br/>
+<br/>Supérieure à 4 040 000 € et inférieure ou égale à 7 710 000 € <br/>
 </td>
 <td align="center">
 <br/>1, 30 <br/>
@@ -55,7 +55,7 @@ Le tarif de l'impôt est fixé à :
 </tr>
 <tr>
 <td align="center">
-<br/>Supérieure à 7 600 000 € et inférieure ou égale à 16 540 000 € <br/>
+<br/>Supérieure à 7 710 000 € et inférieure ou égale à 16 790 000 € <br/>
 </td>
 <td align="center">
 <br/>1, 65 <br/>
@@ -63,7 +63,7 @@ Le tarif de l'impôt est fixé à :
 </tr>
 <tr>
 <td align="center">
-<br/>Supérieure à 16 540 000 € <br/>
+<br/>Supérieure à 16 790 000 € <br/>
 </td>
 <td align="center">
 <br/>1, 80 <br/>

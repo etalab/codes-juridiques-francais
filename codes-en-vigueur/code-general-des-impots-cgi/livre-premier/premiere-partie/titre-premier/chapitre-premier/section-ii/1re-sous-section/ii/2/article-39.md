@@ -224,4 +224,4 @@ a-lorsque l'une détient directement ou par personne interposée la majorité du
 
 b-lorsqu'elles sont placées l'une et l'autre, dans les conditions définies au a, sous le contrôle d'une même tierce entreprise.
 
-Les modalités d'application du présent 12 sont fixées par décret en Conseil d'Etat.
+(Alinéa disjoint).

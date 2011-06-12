@@ -1,10 +1,10 @@
 # Article 1609 quatervicies A
 
-I. - Une taxe dénommée taxe sur les nuisances sonores aériennes est perçue au profit des personnes publiques ou privées exploitant des aérodromes pour lesquels le nombre annuel des mouvements d'aéronefs de masse maximale au décollage supérieure ou égale à 20 tonnes a dépassé vingt mille lors de l'une des cinq années civiles précédentes.
+I.-Une taxe dénommée taxe sur les nuisances sonores aériennes est perçue au profit des personnes publiques ou privées exploitant des aérodromes pour lesquels le nombre annuel des mouvements d'aéronefs de masse maximale au décollage supérieure ou égale à 20 tonnes a dépassé vingt mille lors de l'une des cinq années civiles précédentes.
 
-Cette taxe est également perçue au profit des personnes publiques ou privées  exploitant un aérodrome pour lequel le nombre annuel des mouvements d'aéronefs  de masse maximale au décollage supérieure ou égale à deux tonnes a dépassé  cinquante mille lors de l'une des cinq années civiles précédentes, si les plans  d'exposition au bruit ou de gêne sonore de cet aérodrome possèdent un domaine  d'intersection avec les plans d'exposition au bruit ou de gêne sonore d'un  aérodrome présentant les caractéristiques définies à l'alinéa précédent.
+Cette taxe est également perçue au profit des personnes publiques ou privées exploitant un aérodrome pour lequel le nombre annuel des mouvements d'aéronefs de masse maximale au décollage supérieure ou égale à deux tonnes a dépassé cinquante mille lors de l'une des cinq années civiles précédentes, si les plans d'exposition au bruit ou de gêne sonore de cet aérodrome possèdent un domaine d'intersection avec les plans d'exposition au bruit ou de gêne sonore d'un aérodrome présentant les caractéristiques définies au premier alinéa.
 
-II. - La taxe est due par tout exploitant d'aéronefs ou, à défaut, leur propriétaire. Elle ne s'applique pas :
+II.-La taxe est due par tout exploitant d'aéronefs ou, à défaut, leur propriétaire. Elle ne s'applique pas :
 
 a) Aux aéronefs de masse maximale au décollage inférieure à 2 tonnes ;
 
@@ -12,31 +12,31 @@ b) Aux aéronefs d'Etat ou participant à des missions de protection civile ou d
 
 Le fait générateur de la taxe sur les nuisances sonores aériennes est constitué par le décollage d'aéronefs sur les aérodromes concernés. La taxe est exigible à la date du fait générateur.
 
-III. - La taxe est assise sur le logarithme décimal de la masse maximale au décollage des aéronefs, exprimée en tonnes. Des coefficients de modulation prennent en compte, dans un rapport de 0,5 à 120, l'heure de décollage et les caractéristiques acoustiques de l'appareil.
+III.-La taxe est assise sur le logarithme décimal de la masse maximale au décollage des aéronefs, exprimée en tonnes. Des coefficients de modulation prennent en compte, dans un rapport de 0,5 à 120, l'heure de décollage et les caractéristiques acoustiques de l'appareil.
 
 Un décret précise les conditions d'application du présent III.
 
-IV. - Le produit de la taxe est affecté, pour l'aérodrome où se situe le fait générateur, au financement des aides versées à des riverains en application des articles L. 571-14 à L. 571-16 du code de l'environnement et, le cas échéant, dans la limite des deux tiers du produit annuel de la taxe, au remboursement à des personnes publiques des annuités des emprunts qu'elles ont contractés ou des avances qu'elles ont consenties pour financer des travaux de réduction des nuisances sonores prévus par des conventions passées avec l'exploitant de l'aérodrome sur avis conformes de la commission prévue par l'article L. 571-16 du code de l'environnement et du ministre chargé de l'aviation civile. Dans le cas prévu au second alinéa du I et lorsque l'exploitant est identique  pour les deux aérodromes, une partie du produit de la taxe perçue au titre de  l'un des deux aérodromes concernés peut chaque année être affectée par  l'exploitant au financement des aides aux riverains de l'autre aérodrome.
+IV.-Le produit de la taxe est affecté, pour l'aérodrome où se situe le fait générateur, au financement des aides versées à des riverains en application des articles L. 571-14 à L. 571-16 du code de l'environnement et, le cas échéant, dans la limite des deux tiers du produit annuel de la taxe, au remboursement à des personnes publiques des annuités des emprunts qu'elles ont contractés ou des avances qu'elles ont consenties pour financer des travaux de réduction des nuisances sonores prévus par des conventions passées avec l'exploitant de l'aérodrome sur avis conformes de la commission prévue par l'article L. 571-16 du code de l'environnement et du ministre chargé de l'aviation civile. Dans le cas prévu au second alinéa du I et lorsque l'exploitant est identique pour les deux aérodromes, une partie du produit de la taxe perçue au titre de l'un des deux aérodromes concernés peut chaque année être affectée par l'exploitant au financement des aides aux riverains de l'autre aérodrome.
 
 Le tarif de la taxe applicable sur chaque aérodrome est compris entre les valeurs inférieure et supérieure du groupe dont il relève, en fonction du besoin de financement sur chaque aérodrome, tel qu'il résulte notamment des aides à accorder en application de la réglementation en vigueur, de l'évolution prévisible des plans de gêne sonore et de celle des coûts d'insonorisation.
 
-1er groupe : aérodromes de Paris-Orly, Toulouse-Blagnac : de 30 euros à 68 euros ;
+1er groupe : aérodromes de Paris-Orly, Toulouse-Blagnac : de 30 € à 68 € ;
 
-2e groupe : aérodromes de Paris - Charles-de-Gaulle, Paris - Le Bourget  et de Nantes-Atlantique : de 10 euros à 22 euros ;
+2e groupe : aérodromes de Paris-Charles-de-Gaulle, Paris-Le Bourget et de Nantes-Atlantique : de 10 € à 22 € ;
 
-3e groupe : aérodromes de Beauvais - Tillé, Bordeaux-Mérignac, Lyon-Saint-Exupéry, Marseille-Provence, Nice-Côte d'Azur : de 4 euros à 8 euros.
+3e groupe : aérodromes de Beauvais-Tillé, Bordeaux-Mérignac, Lyon-Saint-Exupéry, Marseille-Provence, Nice-Côte d'Azur : de 4 € à 8 €.
 
-4e groupe : les autres aérodromes qui dépassent le seuil fixé au I : de 0,5 euros à 3 euros.
+4e groupe : les autres aérodromes qui dépassent le seuil fixé au I : de 0,5 € à 3 €.
 
 Un arrêté, pris par les ministres chargés du budget, de l'aviation civile et de l'environnement, fixe le tarif de la taxe applicable pour chaque aérodrome.
 
-V. - Les redevables déclarent par mois, ou par trimestre civil si le montant des sommes dues pour le premier mois du trimestre est inférieur à 1 000 Euros, les éléments nécessaires à l'établissement de la taxe, sur un imprimé fourni par l'administration de l'aviation civile.
+V.-Les redevables déclarent par mois, ou par trimestre civil si le montant des sommes dues pour le premier mois du trimestre est inférieur à 1 000 €, les éléments nécessaires à l'établissement de la taxe, sur un imprimé fourni par l'administration de l'aviation civile.
 
-La déclaration mensuelle ou trimestrielle, accompagnée du paiement de la taxe due, est adressée aux comptables du budget annexe "contrôle et exploitation aériens".
+La déclaration mensuelle ou trimestrielle, accompagnée du paiement de la taxe due, est adressée aux comptables du budget annexe " contrôle et exploitation aériens ".
 
 La date limite de dépôt de la déclaration et de paiement de la taxe est fixée au dernier jour du deuxième mois suivant la période mensuelle ou trimestrielle visée par la déclaration.
 
-VI. - 1. La déclaration visée au V est contrôlée dans les mêmes conditions que celles mentionnées au 1 du IV de l'article 302 bis K. La taxe est recouvrée par les services de la direction générale de l'aviation civile, selon les mêmes règles, conditions, garanties et sanctions que celles prévues pour la taxe de l'article 302 bis K.
+VI.-1. La déclaration visée au V est contrôlée dans les mêmes conditions que celles mentionnées au 1 du IV de l'article 302 bis K. La taxe est recouvrée par les services de la direction générale de l'aviation civile, selon les mêmes règles, conditions, garanties et sanctions que celles prévues pour la taxe de l'article 302 bis K.
 
 2. A défaut de déclaration dans les délais, il est procédé à une taxation d'office. Le montant de la taxe établie d'office résulte du produit de la taxe relative au décollage de l'aéronef le plus fortement taxable du redevable par le nombre de décollages relevés sur le mois ou le trimestre. Les droits sont assortis de l'intérêt de retard prévu à l'article 1727 et de la majoration prévue au 1 de l'article 1728.
 
@@ -56,4 +56,4 @@ Le paiement des sommes dues entraîne la mainlevée de la saisie conservatoire.
 
 4. Le droit de rectification de la taxe par les services de la direction générale de l'aviation civile s'exerce jusqu'à l'expiration d'un délai de trois ans suivant le mois ou le trimestre civil au titre duquel la taxe est due. La prescription est suspendue et interrompue dans les conditions de droit commun et notamment par le dépôt d'une déclaration dans les conditions visées au 2.
 
-VII. - Le contentieux est suivi par la direction générale de l'aviation civile. Les réclamations sont présentées, instruites et jugées comme en matière de taxes sur le chiffre d'affaires.
+VII.-Le contentieux est suivi par la direction générale de l'aviation civile. Les réclamations sont présentées, instruites et jugées comme en matière de taxes sur le chiffre d'affaires.

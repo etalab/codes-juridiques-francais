@@ -8,7 +8,7 @@ a) Etre une petite et moyenne entreprise au sens de l'annexe I au règlement (CE
 
 b) Exercer exclusivement une activité industrielle, commerciale, artisanale, agricole ou libérale, à l'exclusion des activités procurant des revenus garantis en raison de l'existence d'un tarif réglementé de rachat de la production, des activités financières, des activités de gestion de patrimoine mobilier définie à l'article 885 O quater et des activités immobilières. Toutefois, les exclusions relatives à l'exercice d'une activité financière ou immobilière ne sont pas applicables aux entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du travail ;
 
-Ne pas exercer une activité de production d'électricité utilisant l'énergie radiative du soleil ;
+0 b bis) Ne pas exercer une activité de production d'électricité utilisant l'énergie radiative du soleil ;
 
 b bis) Ses actifs ne sont pas constitués de façon prépondérante de métaux précieux, d'œuvres d'art, d'objets de collection, d'antiquités, de chevaux de course ou de concours ou, sauf si l'objet même de son activité consiste en leur consommation ou en leur vente au détail, de vins ou d'alcools ;
 
@@ -84,9 +84,9 @@ Les versements servant de base au calcul de l'avantage fiscal sont retenus aprè
 
 IV.-Les versements ouvrant droit à l'avantage fiscal mentionné au I ou au III sont ceux effectués entre la date limite de dépôt de la déclaration de l'année précédant celle de l'imposition et la date limite de dépôt de la déclaration de l'année d'imposition.
 
-V.-L'avantage fiscal prévu au présent article ne s'applique ni aux titres figurant dans un plan d'épargne en actions mentionné à l'article 163 quinquies D ou dans un plan d'épargne salariale mentionné au titre III du livre III de la troisième partie du code du travail, ni à la fraction des versements effectués au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues aux f, g ou h du 2 de l'article 199 undecies A, aux articles 199 undecies B,199 terdecies-0 A,199 terdecies-0 B,199 unvicies ou 199 quatervicies. La fraction des versements effectués au titre de souscriptions donnant lieu aux déductions prévues aux 2° quater et 2° quinquies de l'article 83 n'ouvre pas droit à l'avantage fiscal.
+V.-L'avantage fiscal prévu au présent article ne s'applique ni aux titres figurant dans un plan d'épargne en actions mentionné à l'article 163 quinquies D ou dans un plan d'épargne salariale mentionné au titre III du livre III de la troisième partie du code du travail, ni à la fraction des versements effectués au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues aux f, g ou h du 2 de l'article 199 undecies A, aux articles 199 undecies B,199 terdecies-0 A,199 terdecies-0 B,199 unvicies ou 199 quatervicies du présent code. La fraction des versements effectués au titre de souscriptions donnant lieu aux déductions prévues aux 2° quater et 2° quinquies de l'article 83 n'ouvre pas droit à l'avantage fiscal.
 
-Les souscriptions réalisées par un contribuable au capital d'une société dans les douze mois suivant le remboursement, total ou partiel, par cette société de ses apports précédents n'ouvrent pas droit à l'avantage fiscal mentionné au I du présent article.
+Les souscriptions réalisées par un contribuable au capital d'une société dans les douze mois suivant le remboursement, total ou partiel, par cette société de ses apports précédents n'ouvrent pas droit à l'avantage fiscal mentionné au I.
 
 Les souscriptions réalisées au capital d'une société holding animatrice ouvrent droit à l'avantage fiscal mentionné au I lorsque la société est constituée et contrôle au moins une filiale depuis au moins douze mois. Pour l'application du présent alinéa, une société holding animatrice s'entend d'une société qui, outre la gestion d'un portefeuille de participations, participe activement à la conduite de la politique de leur groupe et au contrôle de leurs filiales et rend, le cas échéant et à titre purement interne, des services spécifiques, administratifs, juridiques, comptables, financiers et immobiliers.
 

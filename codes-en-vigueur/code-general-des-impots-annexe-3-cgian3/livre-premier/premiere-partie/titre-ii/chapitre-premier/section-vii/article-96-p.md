@@ -4,7 +4,7 @@ Le 4° du III de l'article 291 du code général des impôts s'applique lorsque 
 
 1° a. Le numéro d'identification à la taxe sur la valeur ajoutée qui lui a été attribué s'il est établi en France ;
 
-b. Le numéro d'identification à la taxe sur la valeur ajoutée qui lui a été attribué en France s'il est établi dans un autre Etat membre de l'Union européenne ou, le cas échéant, le numéro attribué à son mandataire ponctuel désigné conformément au I de l'article 95 B de l'annexe 3 au code général des impôts ;
+b. Le numéro d'identification à la taxe sur la valeur ajoutée qui lui a été attribué en France s'il est établi dans un autre Etat membre de l'Union européenne ou, le cas échéant, le numéro attribué à son mandataire ponctuel désigné conformément au I de l'article 95 B ;
 
 c. Le numéro d'identification à la taxe sur la valeur ajoutée qui lui a été attribué et sous lequel agit son représentant fiscal, désigné conformément au I de l'article 289-A du code général des impôts, s'il est établi en pays tiers ou, le cas échéant, le numéro d'identification à la taxe sur la valeur ajoutée sous lequel agit son représentant désigné conformément au III de l'article 289-A précité ;
 

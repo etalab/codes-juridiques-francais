@@ -6,7 +6,7 @@ I.-Les aléas non assurés reconnus par une autorité administrative compétente
 
 a) Sinistre, constaté dans les conditions prévues à l'article R. 361-41 du code rural et de la pêche maritime ;
 
-b) Calamité agricole, constatée dans les conditions prévues à l'article L. 361-3 du code rural et de la pêche maritime ;
+b) Calamité agricole, constatée dans les conditions prévues à l'article L. 361-5 du code rural et de la pêche maritime ;
 
 c) Catastrophe naturelle, constatée dans les conditions prévues à l'article L. 125-1 du code des assurances ;
 
@@ -26,7 +26,7 @@ III. Pour l'application de l'article 72 D bis du code général des impôts, les
 
 1° Pour la totalité de leur exploitation, une assurance contre l'incendie ;
 
-2° Le cas échéant, une assurance contre l'ensemble des risques assurables à l'ouverture de l'exercice, définis à l'article D. 361-33 du code rural et de la pêche maritime, dont une fraction des primes ou cotisations est prise en charge par le Fonds national de garantie des calamités agricoles en application de l'article L. 361-8 du même code et dont les garanties sont fixées en fonction des normes de production habituellement admises dans la région considérée ;
+2° Le cas échéant, une assurance contre l'ensemble des risques assurables à l'ouverture de l'exercice, définis à l'article D. 361-33 du code rural et de la pêche maritime, dont une fraction des primes ou cotisations est prise en charge par le Fonds national de gestion des risques en agriculture en application de l'article L. 361-4 du même code et dont les garanties sont fixées en fonction des normes de production habituellement admises dans la région considérée ;
 
 3° Et, selon le cas :
 

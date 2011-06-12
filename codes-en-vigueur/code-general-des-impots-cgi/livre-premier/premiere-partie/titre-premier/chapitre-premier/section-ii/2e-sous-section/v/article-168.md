@@ -1,6 +1,6 @@
 # Article 168
 
-1. En cas de disproportion marquée entre le train de vie d'un contribuable et ses revenus, la base d'imposition à l'impôt sur le revenu est portée à une somme forfaitaire déterminée en appliquant à certains éléments de ce train de vie le barème ci-après, compte tenu, le cas échéant, de la majoration prévue au 2, lorsque cette somme est supérieure ou égale à 44 111 € ; cette limite est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu :
+1. En cas de disproportion marquée entre le train de vie d'un contribuable et ses revenus, la base d'imposition à l'impôt sur le revenu est portée à une somme forfaitaire déterminée en appliquant à certains éléments de ce train de vie le barème ci-après, compte tenu, le cas échéant, de la majoration prévue au 2, lorsque cette somme est supérieure ou égale à 44 772 € ; cette limite est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu :
 
 <table>
 <tbody>
@@ -39,7 +39,7 @@
 <p>- pour la première personne âgée de moins de 60 ans</p>
 </td>
 <td valign="top" width="227">
-<p align="center">4 600 euros</p>
+<p align="center">4 600 €</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +47,7 @@
 <p>- pour chacune des autres personnes</p>
 </td>
 <td valign="top" width="227">
-<p align="center">5 700 euros</p>
+<p align="center">5 700 €</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@
 <p>- pour les trois premiers tonneaux</p>
 </td>
 <td valign="top" width="227">
-<p align="center">1 140 euros</p>
+<p align="center">1 140 €</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@
 <p>- de 4 à 10 tonneaux</p>
 </td>
 <td valign="top" width="227">
-<p align="center">340 euros</p>
+<p align="center">340 €</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@
 <p>- de 10 à 25 tonneaux</p>
 </td>
 <td valign="top" width="227">
-<p align="center">460 euros</p>
+<p align="center">460 €</p>
 </td>
 </tr>
 <tr>
@@ -132,7 +132,7 @@
 <p>- au-dessus de 25 tonneaux</p>
 </td>
 <td valign="top" width="227">
-<p align="center">910 euros</p>
+<p align="center">910 €</p>
 </td>
 </tr>
 <tr>
@@ -153,7 +153,7 @@
 <p>- pour les vingt premiers chevaux</p>
 </td>
 <td valign="top" width="227">
-<p align="center">910 euros</p>
+<p align="center">910 €</p>
 </td>
 </tr>
 <tr>
@@ -161,7 +161,7 @@
 <p>- par cheval-vapeur supplémentaire</p>
 </td>
 <td valign="top" width="227">
-<p align="center">69 euros</p>
+<p align="center">69 €</p>
 </td>
 </tr>
 <tr>
@@ -176,7 +176,7 @@
 <p>8. Avions de tourisme : par cheval-vapeur de la puissance réelle de chaque avion</p>
 </td>
 <td valign="top" width="227">
-<p align="center">69 euros</p>
+<p align="center">69 €</p>
 </td>
 </tr>
 <tr>
@@ -190,7 +190,7 @@
 <p>- par cheval de pur sang</p>
 </td>
 <td valign="top" width="227">
-<p align="center">4 600 euros</p>
+<p align="center">4 600 €</p>
 </td>
 </tr>
 <tr>
@@ -198,7 +198,7 @@
 <p>- par cheval autre que de pur sang et par trotteur</p>
 </td>
 <td valign="top" width="227">
-<p align="center">2 700 euros</p>
+<p align="center">2 700 €</p>
 </td>
 </tr>
 <tr>
@@ -206,7 +206,7 @@
 <p>10. Chevaux de selle : par cheval âgé au moins de deux ans à compter du second cheval</p>
 </td>
 <td valign="top" width="227">
-<p align="center">1 370 euros</p>
+<p align="center">1 370 €</p>
 </td>
 </tr>
 <tr>
@@ -214,7 +214,7 @@
 <p>11. Location de droits de chasse et participation dans les sociétés de chasse</p>
 </td>
 <td valign="top" width="227">
-<p>Deux fois le montant des loyers payés ou des participations versées lorsqu'il dépasse 4 600 euros. </p>
+<p>Deux fois le montant des loyers payés ou des participations versées lorsqu'il dépasse 4 600 €. </p>
 </td>
 </tr>
 <tr>
@@ -222,7 +222,7 @@
 <p>12. Clubs de golf : participation dans les clubs de golf et abonnements payés en vue de disposer de leurs installations</p>
 </td>
 <td valign="top" width="227">
-<p>Deux fois le montant des sommes versées lorsqu'il dépasse 4 600 euros.</p>
+<p>Deux fois le montant des sommes versées lorsqu'il dépasse 4 600 €.</p>
 </td>
 </tr>
 </tbody>

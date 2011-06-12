@@ -1,3 +1,3 @@
-# Section I quater : Fonds de garantie contre les accidents de circulation et de chasse
+# Section I quater : Fonds de garantie des assurances obligatoires de dommages
 
 - [Article 1628 quater](article-1628-quater.md)

@@ -14,7 +14,7 @@ c bis) La société compte au moins deux salariés à la clôture de son premier
 
 d) La société exerce une activité commerciale, industrielle, artisanale, libérale ou agricole, à l'exclusion des activités procurant des revenus garantis en raison de l'existence d'un tarif réglementé de rachat de la production, des activités financières, des activités de gestion de patrimoine mobilier définie à l'article 885 O quater et des activités immobilières. Toutefois, les exclusions relatives à l'exercice d'une activité financière ou immobilière ne sont pas applicables aux entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du travail.
 
-La société n'exerce pas une activité de production d'électricité utilisant l'énergie radiative du soleil (1) ;
+La société n'exerce pas une activité de production d'électricité utilisant l'énergie radiative du soleil ;
 
 d bis) Les actifs de la société ne sont pas constitués de façon prépondérante de métaux précieux, d'œuvres d'art, d'objets de collection, d'antiquités, de chevaux de course ou de concours ou, sauf si l'objet même de son activité consiste en leur consommation ou en leur vente au détail, de vins ou d'alcools ;
 
@@ -52,7 +52,7 @@ II. Les versements ouvrant droit à la réduction d'impôt mentionnée au I sont
 
 La fraction d'une année excédant, le cas échéant, les limites mentionnées au premier alinéa ouvre droit à la réduction d'impôt dans les mêmes conditions au titre des quatre années suivantes.
 
-II bis. ― Les limites mentionnées au premier alinéa du II sont portées respectivement à 50 000 € pour les contribuables célibataires, veufs ou divorcés et à 100 000 € pour les contribuables mariés soumis à imposition commune pour les souscriptions ouvrant droit à la réduction d'impôt mentionnée au I au capital initial ou aux augmentations de capital des sociétés vérifiant les conditions mentionnées au I du présent article, aux 2° et 3° du II de l'article 239 bis AB et aux b et c du VI quinquies.
+II bis. ― Les limites mentionnées au premier alinéa du II sont portées respectivement à 50 000 € pour les contribuables célibataires, veufs ou divorcés et à 100 000 € pour les contribuables mariés soumis à imposition commune pour les souscriptions ouvrant droit à la réduction d'impôt mentionnée au I au capital initial ou aux augmentations de capital des sociétés vérifiant les conditions mentionnées au I, aux 2° et 3° du II de l'article 239 bis AB et aux b et c du VI quinquies.
 
 Le second alinéa du II n'est pas applicable au titre des souscriptions mentionnées au premier alinéa.
 
@@ -64,7 +64,7 @@ IV. Les dispositions du 5 du I de l'article 197 sont applicables.
 
 Lorsque tout ou partie des actions ou parts ayant donné lieu à la réduction est cédé avant le 31 décembre de la cinquième année suivant celle de la souscription, il est pratiqué au titre de l'année de la cession une reprise des réductions d'impôt obtenues. Il en est de même si, pendant ces cinq années, la société mentionnée au premier alinéa du 3° du I cède les parts ou actions reçues en contrepartie de sa souscription au capital de sociétés vérifiant l'ensemble des conditions prévues au 2° et prises en compte pour le bénéfice de la réduction d'impôt sur le revenu. Les mêmes dispositions s'appliquent en cas de remboursement des apports aux souscripteurs avant le 31 décembre de la dixième année suivant celle de la souscription.
 
-Les dispositions du deuxième alinéa ne s'appliquent pas en cas de licenciement, d'invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, du décès du contribuable ou de l'un des époux soumis à une imposition commune ou de la liquidation judiciaire de la société. Il en est de même en cas de donation à une personne physique des titres reçus en contrepartie de la souscription au capital de la société si le donataire reprend l'obligation de conservation des titres transmis prévue au deuxième alinéa et s'il ne bénéficie pas du remboursement des apports avant le terme mentionné à la dernière phrase du même alinéa.A défaut, la reprise de la réduction d'impôt sur le revenu obtenue est effectuée au nom du donateur.
+Les dispositions du deuxième alinéa ne s'appliquent pas en cas de licenciement, d'invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, du décès du contribuable ou de l'un des époux soumis à une imposition commune ou de la liquidation judiciaire de la société. Il en est de même en cas de donation à une personne physique des titres reçus en contrepartie de la souscription au capital de la société si le donataire reprend l'obligation de conservation des titres transmis prévue au deuxième alinéa et s'il ne bénéficie pas du remboursement des apports avant le terme mentionné à la dernière phrase du même alinéa. A défaut, la reprise de la réduction d'impôt sur le revenu obtenue est effectuée au nom du donateur.
 
 Lorsque le contribuable opte pour l'exonération mentionnée au 7 du III de l'article 150-0 A, une reprise des réductions d'impôt obtenues pour cette même souscription est pratiquée au titre de l'année de l'option.
 
@@ -98,13 +98,13 @@ Les versements ouvrant droit à réduction d'impôt sont ceux effectués jusqu'a
 
 VI quater.-Les réductions d'impôt mentionnées aux I, VI, VI bis et VI ter ne s'appliquent pas aux titres figurant dans un plan d'épargne en actions mentionné à l'article 163 quinquies D ou dans un plan d'épargne salariale mentionné au titre III du livre III de la troisième partie du code du travail, ni à la fraction des versements effectués au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues aux f, g ou h du 2 de l'article 199 undecies A, aux articles 199 undecies B,199 terdecies-0 B,199 unvicies,199 quatervicies ou 885-0 V bis du présent code. La fraction des versements effectués au titre de souscriptions donnant lieu aux déductions prévues aux 2° quater et 2° quinquies de l'article 83 n'ouvre pas droit à ces réductions d'impôt.
 
-Les souscriptions réalisées par un contribuable au capital d'une société dans les douze mois suivant le remboursement, total ou partiel, par cette société de ses apports précédents n'ouvrent pas droit à la réduction d'impôt mentionnée au I du présent article.
+Les souscriptions réalisées par un contribuable au capital d'une société dans les douze mois suivant le remboursement, total ou partiel, par cette société de ses apports précédents n'ouvrent pas droit à la réduction d'impôt mentionnée au I.
 
 Les souscriptions réalisées au capital d'une société holding animatrice ouvrent droit à l'avantage fiscal mentionné au I lorsque la société est constituée et contrôle au moins une filiale depuis au moins douze mois. Pour l'application du présent alinéa, une société holding animatrice s'entend d'une société qui, outre la gestion d'un portefeuille de participations, participe activement à la conduite de la politique de leur groupe et au contrôle de leurs filiales et rend le cas échéant et à titre purement interne des services spécifiques, administratifs, juridiques, comptables, financiers et immobiliers.
 
 VI quinquies.-Le bénéfice des I à II ter, VI, VI bis et VI ter est subordonné au respect, selon le cas par les sociétés bénéficiaires des versements mentionnées au 1 du I ou par les sociétés éligibles au quota mentionné au I de l'article L. 214-41 du code monétaire et financier ou au 1 de l'article L. 214-41-1 du même code, du règlement (CE) n° 1998/2006 de la Commission, du 15 décembre 2006, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis ou du règlement (CE) n° 1535/2007 de la Commission, du 20 décembre 2007, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis dans le secteur de la production de produits agricoles. Toutefois, cette disposition n'est pas applicable lorsque les conditions suivantes sont cumulativement satisfaites par les sociétés mentionnées à la phrase précédente :
 
-a) La société répond à la condition prévue au e du 2° du I du présent article ;
+a) La société répond à la condition prévue au e du 2° du I ;
 
 b) La société est en phase d'amorçage, de démarrage ou d'expansion au sens des lignes directrices communautaires concernant les aides d'Etat visant à promouvoir les investissements en capital-investissement dans les petites et moyennes entreprises (2006/ C 194/02) ;
 

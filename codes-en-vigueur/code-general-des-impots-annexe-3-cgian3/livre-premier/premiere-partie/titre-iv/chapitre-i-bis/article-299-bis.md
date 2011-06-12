@@ -6,7 +6,7 @@ I. - 1. La personne qui demande le bénéfice pour la première fois des disposi
 
 2° La date à laquelle les titres ont été souscrits et le nombre de titres reçus à cette occasion ;
 
-3° Lorsqu'elle a déjà clôturé un exercice à la date mentionnée au 2°, l'ensemble des éléments permettant d'établir qu'elle répond, à cette date, à la définition des petites et moyennes entreprises mentionnée à l'article 885 I ter I du code général des impôts ;
+3° Lorsqu'elle a déjà clôturé un exercice à la date mentionnée au 2°, l'ensemble des éléments permettant d'établir qu'elle répond, à cette date, à la définition des petites et moyennes entreprises mentionnée au I de l'article 885 I ter du code général des impôts ;
 
 4° En cas de souscription en nature, la désignation et la valeur retenue des biens éligibles, ainsi que leur affectation.
 

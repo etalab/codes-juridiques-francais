@@ -11,3 +11,4 @@
 - [Section X : Contribution perçue au profit de l'Institut national de prévention et d'éducation pour la santé](section-x)
 - [Section XI : Prélèvements sur les jeux de loterie et les paris sportifs perçus au profit du Centre national pour le développement du sport](section-xi)
 - [Section XII : Redevance sur les paris hippiques en ligne](section-xii)
+- [Section XIII :  Prélèvements sociaux sur les jeux et paris perçus au profit d'organismes divers concourant au financement de la protection sociale](section-xiii)

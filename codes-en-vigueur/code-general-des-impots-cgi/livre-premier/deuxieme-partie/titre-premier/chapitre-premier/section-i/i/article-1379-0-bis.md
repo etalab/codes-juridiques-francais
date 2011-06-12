@@ -1,6 +1,6 @@
 # Article 1379-0 bis
 
-I. ― Perçoivent la cotisation foncière des entreprises, la cotisation sur la valeur ajoutée des entreprises, les composantes de l'imposition forfaitaire sur les entreprises de réseaux, prévues aux articles 1519 D,1519 E,1519 F,1519 G,1519 H et 1519 HA, la taxe foncière sur les propriétés bâties, la taxe foncière sur les propriétés non bâties, la taxe additionnelle à la taxe foncière sur les propriétés non bâties prévue à l'article 1519 I, ainsi que la taxe d'habitation selon le régime fiscal prévu à l'article 1609 nonies C :
+I. ― Perçoivent la cotisation foncière des entreprises, la cotisation sur la valeur ajoutée des entreprises, les composantes de l'imposition forfaitaire sur les entreprises de réseaux, prévues aux articles 1519 D, 1519 E, 1519 F, 1519 G, 1519 H et 1519 HA, la taxe foncière sur les propriétés bâties, la taxe foncière sur les propriétés non bâties, la taxe additionnelle à la taxe foncière sur les propriétés non bâties prévue à l'article 1519 I, ainsi que la taxe d'habitation selon le régime fiscal prévu à l'article 1609 nonies C :
 
 1° Les communautés urbaines, à l'exception de celles mentionnées au 1° du II ;
 
@@ -38,13 +38,15 @@ Cette décision doit être prise par l'organe délibérant de l'établissement p
 
 V. ― Les établissements publics de coopération intercommunale à fiscalité propre peuvent se substituer à leurs communes membres pour les dispositions relatives à l'imposition forfaitaire sur les pylônes prévue à l'article 1519 A, et la perception du produit de cette taxe, sur délibérations concordantes de l'établissement public et des communes concernées prises dans les conditions prévues au I de l'article 1639 A bis.
 
-Les établissements publics de coopération intercommunale mentionnés aux II et III peuvent, selon les modalités prévues au premier alinéa, se substituer à leurs communes membres pour les dispositions relatives aux composantes de l'imposition forfaitaire sur les entreprises de réseaux prévues aux articles 1519 E,1519 F,1519 G,1519 H et 1519 HA.
+Les établissements publics de coopération intercommunale mentionnés aux II et III peuvent, selon les modalités prévues au premier alinéa, se substituer à leurs communes membres pour les dispositions relatives aux composantes de l'imposition forfaitaire sur les entreprises de réseaux prévues aux articles 1519 E, 1519 F, 1519 G, 1519 H et 1519 HA.
 
 Les établissements publics de coopération intercommunale mentionnés au deuxième alinéa peuvent se substituer à leurs communes membres pour les dispositions relatives à la taxe additionnelle à la taxe foncière sur les propriétés non bâties prévue à l'article 1519 I et la perception de son produit, sur délibérations concordantes de l'établissement public et des communes concernées prises dans les conditions prévues au I de l'article 1639 A bis.
 
-V bis.-Sans préjudice des dispositions du 2 du II de l'article 1609 quinquies C et du I bis de l'article 1609 nonies C, les établissements publics de coopération intercommunale à fiscalité propre perçoivent 50 % de l'imposition forfaitaire sur les entreprises de réseaux relative aux installations de production d'électricité utilisant l'énergie mécanique du vent.
+V bis.-Sans préjudice des dispositions du 2 du II de l'article 1609 quinquies C et du I bis de l'article 1609 nonies C, les établissements publics de coopération intercommunale à fiscalité propre perçoivent :
 
-V bis. ― Sans préjudice des dispositions du 2 du II de l'article 1609 quinquies C et du I bis de l'article 1609 nonies C, les établissements publics de coopération intercommunale à fiscalité propre perçoivent la moitié de la composante de l'imposition forfaitaire sur les entreprises de réseaux relative aux stockages souterrains de gaz naturel.
+1° 50 % de l'imposition forfaitaire sur les entreprises de réseaux relative aux installations de production d'électricité utilisant l'énergie mécanique du vent ;
+
+2° 50 % de la composante de l'imposition forfaitaire sur les entreprises de réseaux relative aux stockages souterrains de gaz naturel.
 
 VI. ― 1. Sont substitués aux communes pour l'application des dispositions relatives à la taxe d'enlèvement des ordures ménagères :
 

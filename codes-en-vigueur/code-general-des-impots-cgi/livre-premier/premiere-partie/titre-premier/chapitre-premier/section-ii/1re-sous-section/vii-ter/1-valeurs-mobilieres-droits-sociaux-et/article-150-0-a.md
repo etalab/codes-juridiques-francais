@@ -100,11 +100,11 @@ III.-Les dispositions du I ne s'appliquent pas :
 
 1. Aux cessions et aux rachats de parts de fonds communs de placement à risques mentionnées à l'article 163 quinquies B, réalisés par les porteurs de parts, remplissant les conditions fixées aux I et II ou aux I et III bis de l'article précité, après l'expiration de la période mentionnée au I du même article. Cette disposition n'est pas applicable si, à la date de la cession ou du rachat, le fonds a cessé de remplir les conditions énumérées au II ou au III bis de l'article 163 quinquies B ;
 
-Cette disposition ne s'applique pas aux parts de fonds communs de placement à risques donnant lieu à des droits différents sur l'actif net ou sur les produits du fonds et attribuées en fonction de la qualité de la personne.
+Les dispositions du premier alinéa ne s'appliquent pas aux parts de fonds communs de placement à risques donnant lieu à des droits différents sur l'actif net ou sur les produits du fonds et attribuées en fonction de la qualité de la personne.
 
 1 bis. Aux cessions d'actions de sociétés de capital-risque mentionnées au 2 du II de l'article 163 quinquies C souscrites ou acquises à compter du 1er janvier 2001, réalisées par des actionnaires remplissant les conditions fixées au 2 du II de l'article précité, après l'expiration de la période de cinq ans mentionnée au 2° du 2 du même II. Cette disposition n'est pas applicable si, à la date de la cession, la société a cessé de remplir les conditions énumérées à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 ;
 
-Cette disposition ne s'applique pas aux actions de sociétés de capital-risque donnant lieu à des droits différents sur l'actif net ou sur les produits du fonds et attribuées en fonction de la qualité de la personne.
+Les dispositions du premier alinéa ne s'appliquent pas aux actions de sociétés de capital-risque donnant lieu à des droits différents sur l'actif net ou sur les produits du fonds et attribuées en fonction de la qualité de la personne.
 
 2. Aux titres cédés dans le cadre de leur gestion par les fonds communs de placement sous réserve qu'aucune personne physique agissant directement, par personne interposée ou par l'intermédiaire d'une fiducie ne possède plus de 10 % des parts du fonds. Cette condition ne s'applique pas aux fonds mentionnés au 3.
 

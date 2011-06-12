@@ -6,7 +6,7 @@ Il en va de même pour les secteurs d'activité qui ne sont pas soumis à des di
 
 Sont constitués en secteurs d'activité :
 
-1° Chaque immeuble ou ensemble d'immeubles ou fraction d'immeuble dont la livraison à soi-même est imposable en application du II de l'article 278 sexies du code général des impôts ou dans lequel sont réalisés des travaux d'amélioration, de transformation ou d'aménagement de logement dont les livraisons à soi-même sont imposables en application du b du 1° du 3 du I de l'article 257 ;
+1° Chaque immeuble ou ensemble d'immeubles ou fraction d'immeuble dont la livraison à soi-même est imposable en application du II de l'article 278 sexies du code général des impôts ou dans lequel sont réalisés des travaux d'amélioration, de transformation ou d'aménagement de logement dont les livraisons à soi-même sont imposables en application du b du 1° du 3 du I de l'article 257 du même code ;
 
 2° Les immeubles, ensembles d'immeubles ou fractions d'immeubles dont la location est imposée en application du 2° de l'article 260 du code général des impôts ;
 

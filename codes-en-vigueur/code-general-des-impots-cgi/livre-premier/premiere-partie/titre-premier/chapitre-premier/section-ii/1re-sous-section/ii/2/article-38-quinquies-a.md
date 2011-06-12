@@ -4,9 +4,9 @@ I. - Par dérogation aux dispositions du 1 de l'article 38, le résultat imposab
 
 Le résultat imposable de la Banque de France est établi :
 
-1° Après déduction des montants mentionnés au quatrième alinéa de l'article L. 612-18 du code monétaire et financier ;
+1° Après déduction des montants mentionnés au quatrième alinéa de l'article L. 612-18 du même code  ;
 
-2° Après intégration des montants mentionnés au cinquième alinéa de l'article L. 612-18 du code monétaire et financier.
+2° Après intégration des montants mentionnés au cinquième alinéa de l'article L. 612-18 du code précité.
 
 II. - Pour l'application des dispositions du 2 de l'article 38, les éléments suivants ne sont pas retenus dans la définition de l'actif net de la Banque de France :
 
