@@ -5,5 +5,4 @@
 - [Article D332-25](article-d332-25.md)
 - [Article D332-26](article-d332-26.md)
 - [Article D332-27](article-d332-27.md)
-- [Article D332-28](article-d332-28.md)
 - [Article D332-29](article-d332-29.md)
