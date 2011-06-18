@@ -2,13 +2,13 @@
 
 L'étranger titulaire de la carte de résident de longue durée-CE définie par les dispositions communautaires applicables en cette matière et accordée dans un autre Etat membre de l'Union européenne qui justifie de ressources stables et suffisantes pour subvenir à ses besoins et, le cas échéant, à ceux de sa famille ainsi que d'une assurance maladie obtient, sous réserve qu'il en fasse la demande dans les trois mois qui suivent son entrée en France et sans que la condition prévue à l'article L. 311-7 soit exigée :
 
-1° Une carte de séjour temporaire portant la mention "visiteur" s'il remplit les conditions définies à l'article L. 313-6 ;
+1° Une carte de séjour temporaire portant la mention " visiteur " s'il remplit les conditions définies à l'article L. 313-6 ;
 
-2° Une carte de séjour temporaire portant la mention "étudiant" s'il remplit les conditions définies au I et aux 2°, 3° ou 5° du II de l'article L. 313-7 ;
+2° Une carte de séjour temporaire portant la mention " étudiant " s'il remplit les conditions définies au I et aux 2°, 3° ou 5° du II de l'article L. 313-7 ;
 
-3° Une carte de séjour temporaire portant la mention "scientifique" s'il remplit les conditions définies à l'article L. 313-8 ;
+3° Une carte de séjour temporaire portant la mention " scientifique-chercheur ” s'il remplit les conditions définies à l'article L. 313-8 ;
 
-4° Une carte de séjour temporaire portant la mention "profession artistique et culturelle" s'il remplit les conditions définies à l'article L. 313-9 ;
+4° Une carte de séjour temporaire portant la mention " profession artistique et culturelle " s'il remplit les conditions définies à l'article L. 313-9 ;
 
 5° Une carte de séjour temporaire portant la mention de l'activité professionnelle pour laquelle il a obtenu l'autorisation préalable requise, dans les conditions définies, selon le cas, aux 1°, 2° ou 3° de l'article L. 313-10.
 

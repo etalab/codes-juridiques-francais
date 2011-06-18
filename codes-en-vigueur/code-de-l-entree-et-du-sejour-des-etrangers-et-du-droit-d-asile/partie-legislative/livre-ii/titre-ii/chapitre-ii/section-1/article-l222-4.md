@@ -6,4 +6,6 @@ En cas de nécessité, le président du tribunal de grande instance peut décide
 
 Par décision du juge prise sur une proposition de l'autorité administrative à laquelle l'étranger dûment informé dans une langue qu'il comprend ne s'est pas opposé, l'audience peut également se dérouler avec l'utilisation de moyens de télécommunication audiovisuelle garantissant la confidentialité de la transmission. Il est alors dressé, dans chacune des deux salles d'audience ouvertes au public, un procès-verbal des opérations effectuées.
 
-Sous réserve de l'application de l'article 435 du    code de procédure civile, le juge des libertés et de la détention statue publiquement.
+Sous réserve de l'application de l'article 435 du code de procédure civile, le juge des libertés et de la détention statue publiquement.
+
+L'étranger est maintenu à disposition de la justice dans des conditions fixées par le procureur de la République pendant le temps strictement nécessaire à la tenue de l'audience et au prononcé de l'ordonnance.

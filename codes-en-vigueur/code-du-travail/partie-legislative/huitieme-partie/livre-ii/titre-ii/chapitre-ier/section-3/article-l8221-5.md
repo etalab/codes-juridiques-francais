@@ -6,4 +6,4 @@ Est réputé travail dissimulé par dissimulation d'emploi salarié le fait pour
 
 2° Soit de se soustraire intentionnellement à l'accomplissement de la formalité prévue à l'article L. 3243-2, relatif à la délivrance d'un bulletin de paie, ou de mentionner sur ce dernier un nombre d'heures de travail inférieur à celui réellement accompli, si cette mention ne résulte pas d'une convention ou d'un accord collectif d'aménagement du temps de travail conclu en application du titre II du livre Ier de la troisième partie ;
 
-3° Soit de ne pas accomplir auprès des organismes de recouvrement des contributions et cotisations sociales les déclarations relatives aux salaires ou aux cotisations sociales assises sur ceux-ci.
+3° Soit de se soustraire intentionnellement aux déclarations relatives aux salaires ou aux cotisations sociales assises sur ceux-ci auprès des organismes de recouvrement des contributions et cotisations sociales ou de l'administration fiscale en vertu des dispositions légales.

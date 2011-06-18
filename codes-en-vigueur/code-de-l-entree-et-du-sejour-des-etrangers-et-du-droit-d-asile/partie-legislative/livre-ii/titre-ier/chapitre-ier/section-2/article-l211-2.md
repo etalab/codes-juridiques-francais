@@ -4,7 +4,7 @@ Par dérogation aux dispositions de la loi n° 79-587 du 11 juillet 1979 relativ
 
 1° Membres de la famille de ressortissants des Etats membres de l'Union européenne et des autres Etats parties à l'accord sur l'Espace économique européen qui ne sont pas ressortissants de l'un de ces Etats, appartenant à des catégories définies par décret en Conseil d'Etat ;
 
-2° Conjoints, enfants de moins de vingt et un ans ou à charge, et ascendants de ressortissants français ;
+2° Conjoints, enfants de moins de vingt et un ans ou à charge, ascendants de ressortissants français et partenaires liés à un ressortissant français par un pacte civil de solidarité ;
 
 3° Enfants mineurs ayant fait l'objet, à l'étranger, d'une décision d'adoption plénière au profit de personnes titulaires d'un agrément pour adoption délivré par les autorités françaises ;
 
