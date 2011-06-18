@@ -439,9 +439,7 @@ Liste des maisons de justice et du droit
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="center">Gap</p>
-</td>
+<td align="center">Gap</td>
 <td align="left">
 <p align="left">Briançon</p>
 </td>
@@ -668,7 +666,7 @@ Liste des maisons de justice et du droit
 <p align="center">Evry</p>
 </td>
 <td align="center">
-<p align="left">Athis-Mons, Les Ulis, Villemoisson-sur-Orge (val d'Orge).</p>
+<p align="left">Athis-Mons, Les Ulis, Villemoisson-sur-Orge (Val d'Orge).</p>
 </td>
 </tr>
 <tr>
@@ -694,7 +692,7 @@ Liste des maisons de justice et du droit
 <p align="center">Meaux</p>
 </td>
 <td align="center">
-<p align="left">Chelles, Meaux, Val Maubuée.</p>
+<p align="left">Chelles, Meaux, Val-Maubuée.</p>
 </td>
 </tr>
 <tr>
@@ -715,7 +713,7 @@ Liste des maisons de justice et du droit
 <p align="center">Bobigny</p>
 </td>
 <td align="center">
-<p align="left">Aubervilliers, Clichy-sous-Bois - Montfermeil, Epinay-sur-Seine, La Courneuve, Le Blanc-Mesnil, Pantin, Saint-Denis.</p>
+<p align="left">Aubervilliers, Clichy-sous-Bois, Montfermeil, Epinay-sur-Seine, La Courneuve, Le Blanc-Mesnil, Pantin, Saint-Denis.</p>
 </td>
 </tr>
 <tr>
@@ -728,7 +726,7 @@ Liste des maisons de justice et du droit
 <p align="center">Créteil</p>
 </td>
 <td align="center">
-<p align="left">Champigny-sur-Marne.</p>
+<p align="left">Champigny-sur-Marne, Val de Bièvre.</p>
 </td>
 </tr>
 <tr>
