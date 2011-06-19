@@ -8,21 +8,19 @@ N'est pas pénalement responsable de l'infraction définie au 1° l'employé qui
 
 2° D'un établissement de crédit, de La Poste, d'un établissement de paiement ou d'un de leurs agents, sachant que son employeur ou, dans le cas de l'employé d'un agent, le mandant de son employeur, n'a pas signé de convention avec la Banque de France, d'utiliser, pour l'alimentation d'un automate en libre-service, des billets en euros qui n'ont pas été prélevés directement auprès d'une banque centrale de l'Eurosystème ;
 
-3° D'un établissement de crédit, de La Poste ou d'un établissement de paiement, sachant que son employeur n'a pas signé de convention avec la Banque de France, d'utiliser un automate recyclant en libre service remplissant les fonctions mentionnées à l'article R. 122-7 ;
+3° D'un changeur manuel, d'alimenter un automate de change en libre service avec des billets en euros qui n'ont pas été prélevés auprès d'un établissement de crédit ou de La Poste ;
 
-4° D'un changeur manuel, d'alimenter un automate de change en libre service avec des billets en euros qui n'ont pas été prélevés auprès d'un établissement de crédit ou de La Poste ;
+4° D'un établissement de crédit, de La Poste, d'un établissement de paiement, d'un de leurs agents ou d'un prestataire effectuant au nom et pour le compte de ceux-ci des opérations de traitement des pièces en euros à titre professionnel, de livrer à l'une des personnes précitées des pièces en euros en sachant qu'elles n'ont pas été préalablement triées et contrôlées au moyen d'un équipement mentionné à l'article R. 121-3 ;
 
-5° D'un établissement de crédit, de La Poste, d'un établissement de paiement, d'un de leurs agents ou d'un prestataire effectuant au nom et pour le compte de ceux-ci des opérations de traitement des pièces en euros à titre professionnel, de livrer à l'une des personnes précitées des pièces en euros en sachant qu'elles n'ont pas été préalablement triées et contrôlées au moyen d'un équipement mentionné à l'article R. 121-3 ;
+5° D'un établissement de crédit, de La Poste, d'un établissement de paiement, d'un de leurs agents d'un prestataire effectuant au nom et pour le compte de ceux-ci des opérations de traitement des billets ou de pièces en euros à titre professionnel ou d'un changeur manuel, de ne pas remettre sans délai à la Banque de France ou à l'établissement public La Monnaie de Paris les pièces de monnaie ou les billets en euros dont il a des raisons suffisantes de penser qu'ils sont faux ;
 
-6° D'un établissement de crédit, de La Poste, d'un établissement de paiement, d'un de leurs agents d'un prestataire effectuant au nom et pour le compte de ceux-ci des opérations de traitement des billets ou de pièces en euros à titre professionnel ou d'un changeur manuel, de ne pas remettre sans délai à la Banque de France ou à l'établissement public La Monnaie de Paris les pièces de monnaie ou les billets en euros dont il a des raisons suffisantes de penser qu'ils sont faux ;
+N'est pas pénalement responsable de l'infraction définie au 5° l'employé qui justifie avoir effectué les contrôles et respecté les procédures de remise sans délai prévues à l'article R. 123-1, de façon conforme aux règles écrites internes adoptées par l'établissement dont il relève, ou celui dont l'établissement n'a pas établi de telles règles.
 
-N'est pas pénalement responsable de l'infraction définie au 6° l'employé qui justifie avoir effectué les contrôles et respecté les procédures de remise sans délai prévues à l'article R. 123-1, de façon conforme aux règles écrites internes adoptées par l'établissement dont il relève, ou celui dont l'établissement n'a pas établi de telles règles.
-
-II.-Les dispositions du 1°, du 4° et du 6° du I sont applicables à toute personne, chargée à un titre quelconque de la direction ou de l'administration d'une entreprise de change manuel, qui commet, par un acte personnel, l'une des infractions prévues à ces articles.
+II.-Les dispositions du 1°, du 3° et du 5° du I sont applicables à toute personne, chargée à un titre quelconque de la direction ou de l'administration d'une entreprise de change manuel, qui commet, par un acte personnel, l'une des infractions prévues à ces articles.
 
 III.-Est puni des mêmes peines le fait, pour toute personne chargée à un titre quelconque de la direction ou de l'administration :
 
-1° D'un établissement de crédit, de La Poste, d'un établissement de paiement, ou d'une entreprise de change manuel, de ne pas établir les règles écrites internes et les procédures prévues à l'article R. 122-5 ;
+1° D'un établissement de crédit, de La Poste, d'un établissement de paiement, ou d'une entreprise de change manuel, de ne pas établir les règles écrites internes et les procédures prévues à l'article R. 122-6 ;
 
 2° D'un établissement de crédit, de La Poste, d'un établissement de paiement, d'un prestataire effectuant au nom et pour le compte de ceux-ci des opérations de traitement des billets et des pièces en euros ou d'une entreprise de change manuel, de ne pas établir les règles écrites internes et les procédures prévues à l'article R. 123-1 ;
 
