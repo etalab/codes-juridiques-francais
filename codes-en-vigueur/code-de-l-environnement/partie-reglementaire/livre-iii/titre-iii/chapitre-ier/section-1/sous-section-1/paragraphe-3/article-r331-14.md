@@ -2,7 +2,7 @@
 
 I.-Les documents qui, en application du quatrième alinéa du III de l'article L. 331-3, doivent être compatibles ou rendus compatibles, dans un délai de trois ans à compter de l'approbation de la charte s'ils sont antérieurs à celle-ci, avec les objectifs de protection définis par cette dernière pour le coeur du parc sont les suivants :
 
-1° Le document de gestion de l'espace agricole et forestier prévu par l'article L. 112-1 du code rural et de la pêche maritime  ;
+1° Le document de gestion de l'espace agricole et forestier prévu par l'article L. 112-1 du code rural et de la pêche maritime ;
 
 2° Le schéma départemental de vocation piscicole prévu par l'article L. 433-2 du présent code ;
 
@@ -18,7 +18,7 @@ I.-Les documents qui, en application du quatrième alinéa du III de l'article L
 
 8° Les règlements types de gestion prévus par les articles L. 4, L. 133-1 et L. 143-1 du même code ;
 
-9° Le schéma régional éolien prévu par l'article L. 553-4 du présent code ;
+9° Le schéma régional du climat, de l'air et de l'énergie prévu par l'article L. 222-1 du présent code ;
 
 10° Le schéma départemental des carrières prévu par l'article L. 515-3 ;
 
