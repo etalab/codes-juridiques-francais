@@ -6,9 +6,9 @@ a) Un représentant du ministre chargé de leur tutelle, président de la commis
 
 b) Une délégation patronale composée comme suit :
 
--cinq présidents de chambres de commerce et d'industrie territoriales ou de région, désignés par le bureau de l'assemblée des chambres françaises de commerce et d'industrie ;
+- cinq présidents de chambres de commerce et d'industrie territoriales ou de région, désignés par le bureau de l'assemblée des chambres françaises de commerce et d'industrie ;
 
--le président de l'assemblée des chambres françaises de commerce et d'industrie ;
+- le président de l'assemblée des chambres françaises de commerce et d'industrie ;
 
 c) Une délégation du personnel composée de six représentants du personnel et répartie en trois collèges : cadres, agents de maîtrise et employés. Les membres de la délégation sont désignés à l'issue de la consolidation des résultats du premier tour aux élections des commissions paritaires des établissements du réseau, en application de l'article R. 712-11-1, par les organisations syndicales représentatives appelées à siéger à la commission paritaire nationale, parmi leurs candidats aux élections des commissions paritaires des établissements du réseau des chambres de commerce et d'industrie.
 
