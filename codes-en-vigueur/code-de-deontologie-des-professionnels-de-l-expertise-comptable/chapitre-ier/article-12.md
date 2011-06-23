@@ -1,8 +1,6 @@
 # Article 12
 
-I.-Il est interdit aux personnes mentionnées à l'article 1er d'effectuer toute démarche non sollicitée en vue de proposer leurs services à des tiers.
-
-Leur participation à des colloques, séminaires ou autres manifestations universitaires ou scientifiques est autorisée dans la mesure où elles ne se livrent pas, à cette occasion, à des actes assimilables à du démarchage.
+I.- (1)
 
 II.-Les actions de promotion sont permises aux personnes mentionnées à l'article 1er dans la mesure où elles procurent au public une information utile. Les moyens auxquels il est recouru à cet effet sont mis en oeuvre avec discrétion, de façon à ne pas porter atteinte à l'indépendance, à la dignité et à l'honneur de la profession, pas plus qu'aux règles du secret professionnel et à la loyauté envers les clients et les autres membres de la profession.
 
