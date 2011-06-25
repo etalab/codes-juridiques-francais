@@ -4,7 +4,7 @@ L'instruction de la demande mentionnée à l'article R. 241-16 est assurée, sel
 
 1° Soit par un médecin de l'équipe pluridisciplinaire prévue à l'article L. 146-8 ;
 
-2° Soit par un médecin de la direction des services déconcentrés du ministère chargé des anciens combattants, pour les personnes ayant déposé une demande auprès du service départemental de l'Office national des anciens combattants et victimes de guerre.
+2° Soit, pour les personnes ayant déposé une demande auprès du service départemental de l'Office national des anciens combattants et victimes de guerre, par un médecin relevant du service de santé des armées ou d'un organisme ayant passé une convention avec ce service.
 
 Le médecin, dans le cadre de son instruction, peut, le cas échéant, convoquer le demandeur afin d'évaluer sa capacité de déplacement.
 
