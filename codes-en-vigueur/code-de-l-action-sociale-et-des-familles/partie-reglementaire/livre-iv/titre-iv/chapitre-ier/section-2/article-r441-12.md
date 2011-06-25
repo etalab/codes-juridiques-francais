@@ -1,11 +1,11 @@
 # Article R441-12
 
-La commission consultative de retrait instituée par l'article L. 441-2 du code de l'action sociale et des familles comprend, en nombre égal, des membres représentant :
+La commission consultative de retrait instituée par l'article L. 441-2 comprend, en nombre égal :
 
-1° Le département.
+1° Des représentants du département ;
 
-2° Les accueillants familiaux agréés dans le département.
+2° Des représentants des associations et organisations représentant les personnes âgées et des associations représentant les personnes handicapées et leurs familles ;
 
-3° Des associations des personnes âgées et de personnes handicapées.
+3° Des personnes qualifiées dans le domaine de la prise en charge sanitaire et sociale des personnes âgées et des personnes handicapées.
 
-Le président du conseil général fixe par arrêté le nombre des membres de la commission dans la limite de neuf personnes.
+Le président du conseil général fixe le nombre des membres de la commission dans la limite de neuf personnes. Il procède à leur désignation.
