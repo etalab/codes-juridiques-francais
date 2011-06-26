@@ -1,4 +1,4 @@
-# Chapitre VIII : Sécurité d'ouvrages du réseau routier dont l'exploitation présente des risques particuliers pour la sécurité des personnes.
+# Chapitre VIII : Sécurité des ouvrages et des infrastructures.
 
 - [Section 1 : Ouvrages dont l'exploitation présente des risques particuliers pour la sécurité des personnes](section-1)
 - [Section 2 : Commission nationale d'évaluation de la sécurité des ouvrages routiers et agrément des experts](section-2)
