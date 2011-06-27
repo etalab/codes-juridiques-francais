@@ -439,7 +439,9 @@ Liste des maisons de justice et du droit
 </td>
 </tr>
 <tr>
-<td align="center">Gap</td>
+<td align="center">
+<p align="center">Gap</p>
+</td>
 <td align="left">
 <p align="left">Briançon</p>
 </td>
@@ -542,7 +544,7 @@ Liste des maisons de justice et du droit
 <p align="center">Metz</p>
 </td>
 <td align="center">
-<p align="left">Woippy.</p>
+<p>Faulquemont, Woippy.</p>
 </td>
 </tr>
 <tr>
