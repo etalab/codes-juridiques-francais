@@ -18,7 +18,7 @@ L'enseignement supérieur agricole public relevant du ministre chargé de l'agri
 
 8° L'Ecole nationale vétérinaire de Toulouse ;
 
-9° L'Ecole nationale supérieure du paysage de Versailles ;
+9° L'Ecole nationale supérieure de paysage de Versailles ;
 
 10° L'Ecole nationale de formation agronomique de Toulouse ;
 
