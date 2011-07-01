@@ -1,5 +1,6 @@
 # Titre III : Le contrôle sanitaire des animaux et aliments
 
+- [Chapitre préliminaire : La politique publique de l'alimentation](chapitre-preliminaire)
 - [Chapitre Ier : Dispositions générales](chapitre-ier)
 - [Chapitre II : Dispositions relatives aux produits](chapitre-ii)
 - [Chapitre III : Dispositions relatives aux établissements](chapitre-iii)
