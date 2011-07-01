@@ -8,4 +8,5 @@
 - [Section 6 : Vibrations mécaniques.](section-6)
 - [Section 7 : Rayonnements .](section-7)
 - [Section 8 : Travaux du bâtiment et du génie civil.](section-8)
-- [Section 9 : Dispositions communes.](section-9)
+- [Section 9 : Installations électriques](section-9)
+- [Section 10 : Dispositions communes](section-10)

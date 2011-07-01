@@ -1,6 +1,5 @@
 # Section 4 : Emploi et stockage  de matières explosives et inflammables
 
-- [Article R4227-21](article-r4227-21.md)
 - [Article R4227-22](article-r4227-22.md)
 - [Article R4227-23](article-r4227-23.md)
 - [Article R4227-24](article-r4227-24.md)
