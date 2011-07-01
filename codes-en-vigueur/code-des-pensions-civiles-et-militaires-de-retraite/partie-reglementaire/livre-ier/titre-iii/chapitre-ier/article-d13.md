@@ -1,3 +1,7 @@
 # Article D13
 
-Les personnels titulaires de brevets ou certificats de spécialité aériens obtenus antérieurement au 1er décembre 1964 conservent de ce chef le bénéfice des bonifications de services fixes prévues par le tableau annexé au code des pensions civiles et militaires de retraite en vigueur avant la date susvisée.
+Le coefficient de minoration prévu au I de l'article L. 14 n'est pas applicable aux fonctionnaires âgés d'au moins soixante-cinq ans qui :
+
+-soit bénéficient d'au moins un trimestre au titre de la majoration de durée d'assurance prévue à l'article L. 12 ter ;
+
+-soit établissent qu'ils ont été salarié ou aidant familial, pendant une durée d'au moins trente mois, de leur enfant bénéficiaire de l'élément de la prestation relevant du 1° de l'article L. 245-3 du code de l'action sociale et des familles.
