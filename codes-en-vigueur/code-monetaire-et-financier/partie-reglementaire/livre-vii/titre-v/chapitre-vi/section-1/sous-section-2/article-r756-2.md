@@ -10,4 +10,4 @@ II.-Le recouvrement forcé de la contribution mentionnée à l'article L. 612-20
 
 3° Au III de l'article R. 612-24, les mots : " des articles L. 613-20-2 et L. 613-5 " sont remplacés par les mots : " à l'article L. 613-20-2 " ;
 
-4° Au cinquième alinéa de l'article R. 612-38, la référence au code des assurances est remplacée par une référence aux dispositions applicables localement ayant le même objet.
+4° A l'article R. 612-37, les références au code des assurances, au code de la mutualité et au code de la sécurité sociale sont remplacées par des références aux dispositions applicables localement ayant le même objet.
