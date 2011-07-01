@@ -11,4 +11,3 @@
 - [Article R326-12](article-r326-12.md)
 - [Article R326-13](article-r326-13.md)
 - [Article R326-14](article-r326-14.md)
-- [Article R326-15](article-r326-15.md)
