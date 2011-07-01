@@ -5,4 +5,3 @@
 - [Section 3 : Recrutement après détachement](section-3)
 - [Section 4 : Recrutement complémentaire](section-4)
 - [Section 5 : Maintien en surnombre](section-5)
-- [Section 6 : Fin de fonctions](section-6-fin)

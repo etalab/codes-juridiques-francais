@@ -6,7 +6,8 @@ Le financement des prestations d'assurance vieillesse et veuvage du régime de p
 
 2° Le produit des cotisations de solidarité mentionnées à l'article L. 731-23 ;
 
-3° Le produit des droits de consommation sur les alcools mentionnés au I de l'article 403 du code général des impôts ;
+3° Le produit des droits de consommation sur les alcools mentionnés au I de l'article 403 du code général des impôts
+;
 
 4° Une fraction égale à 34,4 % du produit du droit de circulation sur les vins, cidres, poirés et hydromels mentionné à l'article 438 du même code ;
 
@@ -15,5 +16,7 @@ Le financement des prestations d'assurance vieillesse et veuvage du régime de p
 6° La contribution du fonds mentionné à l'article L. 135-1 du même code, dans les conditions prévues par l'article L. 135-2 de ce code ;
 
 7° Les impôts, taxes et amendes qui sont affectés à la branche ;
+
+7° bis Une contribution de la branche Accidents du travail et maladies professionnelles couvrant les dépenses supplémentaires engendrées par les départs en retraite à l'âge prévu à l'article L. 732-18-3 ;
 
 8° Toute autre ressource prévue par la loi.

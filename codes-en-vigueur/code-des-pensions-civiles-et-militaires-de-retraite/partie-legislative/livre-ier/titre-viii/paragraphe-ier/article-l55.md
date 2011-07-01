@@ -8,4 +8,4 @@ Dans un délai d'un an à compter de la notification de la décision de concessi
 
 La restitution des sommes payées indûment au titre de la pension ou de la rente viagère d'invalidité supprimée ou révisée est exigible lorsque l'intéressé était de mauvaise foi. Cette restitution est, en tant que de besoin, poursuivie par l'agent judiciaire du Trésor.
 
-La pension des militaires n'est pas assimilée à un avantage vieillesse avant l'âge de soixante ans.
+La pension des militaires n'est pas assimilée à un avantage vieillesse avant l'âge mentionné à l'article L. 161-17-2 du code de la sécurité sociale.

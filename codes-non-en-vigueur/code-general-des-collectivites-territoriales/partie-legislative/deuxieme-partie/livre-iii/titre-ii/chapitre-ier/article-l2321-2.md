@@ -8,7 +8,7 @@ Les dépenses obligatoires comprennent notamment :
 
 3° Les indemnités de fonction prévues à l'article L. 2123-20, les cotisations au régime général de la sécurité sociale en application de l'article L. 2123-25-2, les cotisations aux régimes de retraites en application des articles L. 2123-26 à L. 2123-28, les cotisations au fonds institué par l'article L. 1621-2 ainsi que les frais de formation des élus mentionnés à l'article L. 2123-14 ;
 
-4° La rémunération des agents communaux ;
+4° La rémunération des agents communaux, les contributions et les cotisations sociales afférentes ;
 
 4° bis Dans les conditions prévues à l'article 88-1 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, les dépenses afférentes aux prestations mentionnées à l'article 9 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires ;
 
@@ -44,7 +44,7 @@ Les dépenses obligatoires comprennent notamment :
 
 20° Les dépenses d'entretien des voies communales ;
 
-21° Les dépenses d'entretien et de conservation en bon état d'ouvrages, mentionnées à l'article L. 151-40 du code rural et de la pêche maritime  ;
+21° Les dépenses d'entretien et de conservation en bon état d'ouvrages, mentionnées à l'article L. 151-40 du code rural et de la pêche maritime ;
 
 22° Les dépenses résultant de l'entretien des biens autres que ceux mentionnés au 20°, transférés à la commune par application de l'article L. 318-2 du code de l'urbanisme ;
 
