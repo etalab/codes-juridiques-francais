@@ -14,7 +14,7 @@ II.-La déclaration mentionnée au II de l'article L. 212-1 est adressée au pr�
 
 3° Une preuve de ses qualifications professionnelles ;
 
-4° La preuve par tout moyen qu'il a exercé la ou les activités concernées pendant au moins deux ans consécutifs ou non au cours des dix années précédentes ou pendant une durée équivalente à temps partiel lorsque l'activité n'est pas réglementée dans l'Etat d'établissement ;
+4° La preuve par tout moyen qu'il a exercé la ou les activités concernées pendant au moins deux ans consécutifs ou non au cours des dix années précédentes ou pendant une durée équivalente à temps partiel   lorsque l'activité ou la formation y conduisant n'est pas réglementée dans l'Etat d'établissement ;
 
 La déclaration et les documents joints peuvent être transmis par tout moyen, accompagnés, le cas échéant, de leur traduction en langue française.
 
