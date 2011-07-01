@@ -1,6 +1,7 @@
 # Sous-section 1 : Dispositions générales.
 
 - [Article D742-3](article-d742-3.md)
+- [Article D742-3-1](article-d742-3-1.md)
 - [Article D742-12](article-d742-12.md)
 - [Article R742-2](article-r742-2.md)
 - [Article R742-4](article-r742-4.md)
