@@ -1,4 +1,4 @@
-# Chapitre Ier : Organisation générale du régime de garantie
+# Chapitre Ier : Organisation de la gestion des risques en agriculture
 
 - [Section 1 : Composition, mission et fonctionnement](section-1)
 - [Section 2 : Les procédures](section-2)
