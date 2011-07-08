@@ -5,42 +5,47 @@ Le nombre d'heures indemnisables qu'un conseiller prud'homme peut déclarer avoi
 <table>
 <tbody>
 <tr>
-<th>
-<br/>OBJET DE LA RÉDACTION <br/>
-</th>
-<th>
-<br/>NOMBRE D'HEURES <p>indemnisables <br/>
-</p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Procès-verbal de conciliation <br/>
+<td>
+<p align="center">OBJET DE LA RÉDACTION </p>
 </td>
-<td align="center">
-<br/>30 minutes <br/>
+<td>
+<p align="center">NOMBRE D'HEURES INDEMNISABLES </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Jugement <br/>
+<p align="left">
+<br/>Procès-verbal de conciliation </p>
 </td>
 <td align="center">
-<br/>5 heures <br/>
+<p align="center">
+<br/>30 minutes </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Ordonnance de référé <br/>
+<p align="left">
+<br/>Jugement </p>
 </td>
 <td align="center">
-<br/>1 heure <br/>
+<p align="center">
+<br/>5 heures </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Ordonnance </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>1 heure </p>
 </td>
 </tr>
 </tbody>
 </table>
 
-Lorsque le conseiller consacre à la rédaction d'un jugement ou d'une ordonnance de référé un temps supérieur à ces durées, il en réfère au président du bureau de jugement ou de la formation de référé qui saisit sans délai, par requête motivée, le président du conseil de prud'hommes.
+Lorsque le conseiller consacre à la rédaction d'un jugement, d'un procès-verbal de conciliation ou d'une ordonnance un temps supérieur à ces durées, il en réfère au président du bureau de jugement ou de la formation de référé qui saisit sans délai, par requête motivée, le président du conseil de prud'hommes.
 
 Le président du conseil décide de la durée de rédaction dans les huit jours de sa saisine, au vu du dossier et de la copie de la minute après avis du vice-président du conseil. Le temps fixé ne peut être inférieur aux durées fixées au tableau ci-dessus.
 
