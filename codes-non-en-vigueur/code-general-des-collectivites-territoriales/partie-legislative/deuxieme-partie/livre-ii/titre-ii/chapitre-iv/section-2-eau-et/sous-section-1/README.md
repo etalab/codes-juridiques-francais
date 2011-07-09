@@ -10,5 +10,4 @@
 - [Article L2224-11-2](article-l2224-11-2.md)
 - [Article L2224-11-3](article-l2224-11-3.md)
 - [Article L2224-11-4](article-l2224-11-4.md)
-- [Article L2224-11-5](article-l2224-11-5.md)
 - [Article L2224-11-6](article-l2224-11-6.md)
