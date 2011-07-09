@@ -8,3 +8,4 @@
 - [Section 8 : Versement destiné aux transports en commun.](section-8)
 - [Section 11 : Redevances dues pour le transport et la distribution de l'électricité, du gaz et pour les oléoducs (R)](section-11)
 - [Section 13 : Taxes sur les activités commerciales non salariées à durée saisonnière.](section-13)
+- [Section 14 : Taxe pour la gestion des eaux pluviales urbaines](section-14)
