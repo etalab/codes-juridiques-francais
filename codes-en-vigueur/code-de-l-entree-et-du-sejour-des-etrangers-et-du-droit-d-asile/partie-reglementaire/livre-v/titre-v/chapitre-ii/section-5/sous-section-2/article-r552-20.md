@@ -4,7 +4,7 @@ L'ordonnance mentionnée à l'article R. 552-19 est susceptible d'appel devant l
 
 L'appel n'est pas suspensif. Toutefois, le ministère public peut solliciter du premier président ou de son délégué qu'il déclare son recours suspensif, lorsqu'il lui apparaît que l'intéressé ne dispose pas de garanties de représentation effectives ou en cas de menace grave pour l'ordre public.
 
-Dans ce cas, l'appel est formé dans un délai de quatre heures à compter de la notification de l'ordonnance au procureur de la République.
+Dans ce cas, l'appel est formé dans un délai de six heures à compter de la notification de l'ordonnance au procureur de la République.
 
 Le ministère public fait notifier la déclaration d'appel, accompagnée de la demande qui se réfère à l'absence de garanties de représentation effectives ou à la menace grave pour l'ordre public, immédiatement et par tout moyen à l'autorité administrative, à l'étranger et, le cas échéant, à son avocat, qui en accusent réception.
 
