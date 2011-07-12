@@ -1,8 +1,8 @@
 # Article R543-190
 
-L'agrément est subordonné à un engagement de l'organisme relatif :
+L'agrément est subordonné à un engagement de l'éco-organisme relatif :
 
-1° Aux conditions d'enlèvement des déchets d'équipements électriques et électroniques collectés sélectivement dans les conditions définies aux articles R. 543-179 à R. 543-181 ;
+1° Aux conditions d'enlèvement des déchets d'équipements électriques et électroniques collectés séparément dans les conditions définies aux articles R. 543-179 à R. 543-181 ;
 
 2° Aux dispositions envisagées en matière de réemploi des équipements électriques et électroniques ;
 
@@ -12,7 +12,7 @@ L'agrément est subordonné à un engagement de l'organisme relatif :
 
 5° A sa capacité financière ;
 
-6° A l'obligation de communiquer au ministre chargé de l'environnement un bilan annuel d'activité destiné à être rendu public, ainsi que les résultats obtenus en matière de réutilisation, de valorisation ou de destruction des déchets d'équipements électriques et électroniques.
+6° A l'obligation de communiquer au ministre chargé de l'environnement un bilan annuel d'activité destiné à être rendu public, ainsi que les résultats obtenus en matière  de réutilisation, de recyclage, de valorisation ou d'élimination des déchets d'équipements électriques et électroniques.
 
 L'agrément est délivré pour une durée maximale de six ans renouvelable.
 

@@ -1,4 +1,4 @@
-# Sous-section 2 : Déchets dangereux
+# Sous-section 2 : Plans de prévention et de gestion des déchets dangereux
 
 - [Article R541-29](article-r541-29.md)
 - [Article R541-30](article-r541-30.md)
@@ -11,5 +11,7 @@
 - [Article R541-37](article-r541-37.md)
 - [Article R541-38](article-r541-38.md)
 - [Article R541-39](article-r541-39.md)
+- [Article R541-39-1](article-r541-39-1.md)
+- [Article R541-39-2](article-r541-39-2.md)
 - [Article R541-40](article-r541-40.md)
 - [Article R541-41](article-r541-41.md)

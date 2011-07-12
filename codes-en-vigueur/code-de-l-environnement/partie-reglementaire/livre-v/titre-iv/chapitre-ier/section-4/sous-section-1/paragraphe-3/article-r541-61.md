@@ -4,4 +4,4 @@ Sans préjudice de la réglementation relative au transport des marchandises dan
 
 1° Des prescriptions particulières à certaines catégories de déchets lors de leur transport, concernant notamment les conditions d'emballage, de conditionnement et d'étiquetage, les obligations de signalisation des véhicules, les conditions de chargement ;
 
-2° Des dispositions relatives au matériel de transport et au transport.
+2° Des dispositions relatives au matériel de collecte ou de transport et à la collecte ou au transport.

@@ -1,4 +1,4 @@
-# Sous-section 1 : Elimination des pneumatiques usagés
+# Sous-section 1 : Gestion des déchets de pneumatiques
 
 - [Article R543-139](article-r543-139.md)
 - [Article R543-140](article-r543-140.md)

@@ -10,4 +10,4 @@ I. - L'autorisation peut être refusée, par décision motivée, si l'exploitati
 
 4° A l'exercice des activités agricoles et forestières ou à la conservation des milieux naturels, de la faune ou de la flore.
 
-II. - L'autorisation peut également être refusée si l'exploitant ne dispose pas des capacités techniques nécessaires.
+II. - L'autorisation peut également être refusée si l'exploitant ne dispose pas des capacités techniques et financières nécessaires.

@@ -9,8 +9,6 @@
 - [Article R543-9](article-r543-9.md)
 - [Article R543-10](article-r543-10.md)
 - [Article R543-11](article-r543-11.md)
-- [Article R543-12](article-r543-12.md)
 - [Article R543-13](article-r543-13.md)
 - [Article R543-14](article-r543-14.md)
 - [Article R543-15](article-r543-15.md)
-- [Article R543-16](article-r543-16.md)

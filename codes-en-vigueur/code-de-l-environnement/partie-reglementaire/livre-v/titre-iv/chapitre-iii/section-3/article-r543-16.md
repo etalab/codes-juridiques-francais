@@ -1,3 +1,0 @@
-# Article R543-16
-
-Sans préjudice des dispositions de l'article R. 515-38, et sous réserve que l'installation n'ait pas fait l'objet d'un changement d'exploitant, les agréments délivrés antérieurement au 1er juillet 1997, en application de l'article 8 du décret n° 79-981 du 21 novembre 1979 portant règlement de la récupération des huiles usagées ou de l'article 11 du décret n° 87-59 du 2 février 1987 relatif à la mise sur le marché, à l'utilisation et à l'élimination des polychlorobiphényles et polychloroterphényles, valent agrément au titre des dispositions du décret n° 77-1133 du 21 septembre 1977 pris pour l'application de la loi n° 76-663 du 19 juillet 1976 relative aux installations classées pour la protection de l'environnement sans limitation de durée.

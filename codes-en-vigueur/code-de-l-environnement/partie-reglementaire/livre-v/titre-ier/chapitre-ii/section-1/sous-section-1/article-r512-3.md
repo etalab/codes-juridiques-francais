@@ -14,4 +14,4 @@ Lorsque le demandeur de l'autorisation requiert l'institution de servitudes d'ut
 
 5° Les capacités techniques et financières de l'exploitant ;
 
-6° Lorsqu'elle porte sur une installation destinée à l'élimination des déchets, l'origine géographique prévue des déchets ainsi que la manière dont le projet est compatible avec la réalisation du ou des plans prévus aux articles L. 541-11, L. 541-13 et L. 541-14.
+6° Lorsqu'elle porte sur une installation destinée au traitement des déchets, l'origine géographique prévue des déchets ainsi que la manière dont le projet est compatible avec les plans prévus aux articles L. 541-11, L. 541-11-1, L. 541-13, L. 541-14 et L. 541-14-1.

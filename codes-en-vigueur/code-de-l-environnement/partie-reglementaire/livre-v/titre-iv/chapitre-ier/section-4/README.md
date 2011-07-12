@@ -1,4 +1,4 @@
-# Section 4 : Transport, négoce et courtage
+# Section 4 : Collecte, transport, négoce et courtage de déchets
 
-- [Sous-section 1 : Transport par route, opérations de négoce et de courtage](sous-section-1)
-- [Sous-section 2 : Dispositions particulières aux mouvements transfrontaliers de déchets](sous-section-2)
+- [Sous-section 1 : Dispositions générales](sous-section-1)
+- [Sous-section 2 : Collecte des déchets ménagers et assimilés](sous-section-2)

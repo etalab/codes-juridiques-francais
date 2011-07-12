@@ -7,5 +7,3 @@ Par dérogation aux dispositions de l'article R. 543-26, les détenteurs d'appar
 2° Emplacement et description de l'appareil ;
 
 3° Date de la déclaration.
-
-Par dérogation aux dispositions de l'article R. 543-28, les appareils définis au présent article portent un étiquetage sur lequel figure la mention : " contamination en PCB < 500 ppm ".
