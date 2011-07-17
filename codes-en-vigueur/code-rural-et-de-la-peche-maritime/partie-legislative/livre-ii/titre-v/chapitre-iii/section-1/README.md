@@ -1,4 +1,4 @@
-# Section 1 : Dispositions générales.
+# Section 1 : Conditions d'autorisation
 
 - [Article L253-1](article-l253-1.md)
 - [Article L253-2](article-l253-2.md)
