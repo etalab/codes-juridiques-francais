@@ -1,6 +1,6 @@
 # Article R14-10-52
 
-La demande d'agrément des projets mentionnés aux I et II de l'article R. 14-10-51 est établie sur un formulaire dont le modèle est fixé par les ministres chargés des personnes âgées et des personnes handicapées.
+La demande d'agrément des projets mentionnés à l'article R. 14-10-51 est établie sur un formulaire dont le modèle est fixé par les ministres chargés des personnes âgées et des personnes handicapées.
 
 La demande est adressée, pour les actions à caractère local, soit au préfet du département du lieu d'implantation de l'organisme demandeur pour les actions mentionnées au I de l'article R. 14-10-51, soit au préfet de la région du lieu d'implantation de l'organisme demandeur pour les actions mentionnées au II de l'article R. 14-10-51. Pour les actions à caractère national, la demande est adressée aux ministres chargés des personnes âgées et des personnes handicapées.
 
