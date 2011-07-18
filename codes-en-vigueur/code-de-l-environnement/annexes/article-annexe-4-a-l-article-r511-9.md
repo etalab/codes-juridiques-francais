@@ -213,7 +213,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -226,13 +225,59 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
+</td>
+</tr>
+<tr>
+<td>
 <br/>
 </td>
+<td>
+<p align="left">Installation de production de béton prêt à l'emploi équipée d'un dispositif<br/>d'alimentation en liants hydrauliques mécanisé, à l'exclusion des installations<br/>visées par la rubrique 2522. La capacité de malaxage étant :</p>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">2518</p>
+</td>
+<td>a) Supérieure à 3 m<sup>3</sup>
+</td>
+<td>
+<p align="center">E</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="left">b) Inférieure ou égale à 3 m<sup>3</sup>
+</p>
+</td>
+<td>
+<p align="center">D</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="left">Ces activités ne donnent pas lieu à classement sous la rubrique 2515.</p>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
 </tr>
 <tr>
 <td rowspan="3" valign="top" width="21">
@@ -263,10 +308,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155">
-<p>a) supérieure à 100 t/j </p>
+<p align="left">a) supérieure à 100 t/j </p>
 </td>
 <td valign="top" width="26">
 <p align="center">5</p>
@@ -378,11 +422,11 @@
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top" width="21">
+<td rowspan="4" valign="top" width="21">
 <p>2522 </p>
 </td>
 <td valign="top" width="437">
-<p>Matériel vibrant (emploi de) pour la fabrication de matériaux tels que béton, agglomérés, etc., la puissance installée du matériel vibrant étant : </p>
+<p>Installation de fabrication de produits en béton par procédé mécanique. La puissance installée du matériel de malaxage et de vibration, étant :</p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -400,36 +444,42 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>1. supérieure à 200 kW </p>
+<p>a) Supérieure à 400 kW </p>
 </td>
 <td valign="top" width="32">
-<p align="center">A</p>
+<p align="center">E</p>
 </td>
 <td valign="top" width="29">
-<p align="center">1</p>
+<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>2. supérieure à 40 kW, mais inférieure ou égale à 200 kW </p>
+<p>b) Supérieure à 40 kW, mais inférieure ou égale à 400 kW </p>
 </td>
 <td valign="top" width="32">
 <p align="center">D</p>
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
+</tr>
+<tr>
+<td>
+<p align="left">Ces activités ne donnent pas lieu à classement sous la rubrique 2515.</p>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="21">
@@ -621,7 +671,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>a) supérieure à 500 kg/j </p>
+<p>a) supérieure à 500 kg / j </p>
 </td>
 <td valign="top" width="32">
 <p align="center">A</p>
@@ -631,7 +681,6 @@
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -644,11 +693,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -661,15 +708,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -704,7 +748,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -716,11 +759,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -733,15 +774,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -844,10 +882,8 @@
 <td valign="top" width="437"/>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155">
@@ -899,10 +935,8 @@
 <td valign="top" width="437"/>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155">
@@ -974,15 +1008,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1001,17 +1032,14 @@
 </td>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="437"/>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155">
@@ -1064,11 +1092,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1081,15 +1107,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1099,15 +1122,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1126,17 +1146,14 @@
 </td>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="437"/>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155">
@@ -1172,11 +1189,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1207,15 +1222,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1245,11 +1257,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1262,15 +1272,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1318,11 +1325,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1338,11 +1343,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1355,15 +1358,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1373,15 +1373,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1398,7 +1395,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -1410,11 +1406,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1445,17 +1439,14 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155">
 <p>1. Le volume des cuves de traitement étant : </p>
 </td>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1502,11 +1493,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1642,10 +1631,8 @@
 <td valign="top" width="437"/>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155">
@@ -1664,11 +1651,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1681,11 +1666,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1698,11 +1681,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1754,15 +1735,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1772,15 +1750,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1797,7 +1772,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -1809,11 +1783,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1897,10 +1869,8 @@
 <td valign="top" width="437"/>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155">
@@ -1914,10 +1884,8 @@
 <td valign="top" width="437"/>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155">
@@ -1979,7 +1947,6 @@
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2054,7 +2021,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -2063,15 +2029,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2119,15 +2082,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2137,15 +2097,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2175,11 +2132,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2390,15 +2345,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2416,7 +2368,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -2429,11 +2380,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2446,11 +2395,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2507,7 +2454,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -2525,7 +2471,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -2537,11 +2482,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2551,15 +2494,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2576,7 +2516,6 @@
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2607,11 +2546,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2756,15 +2693,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2797,7 +2731,6 @@
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2891,7 +2824,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -2917,9 +2849,7 @@
 </p>
 </td>
 <td valign="top" width="32">
-<p align="center">
-<sup>D</sup>
-</p>
+<p align="center">D</p>
 </td>
 <td valign="top" width="29">
 <br/>
@@ -2984,7 +2914,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -2997,11 +2926,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3010,7 +2937,7 @@
 <p>2712</p>
 </td>
 <td valign="top" width="437">
-<p>Installation de stockage, dépollution, démontage, découpage ou broyage de véhicules hors d'usage ou de différents moyens de transport hors d'usage, la surface étant supérieure à 50 m².</p>
+<p>Installation de stockage, dépollution, démontage, découpage ou broyage de véhicules hors d'usage ou de différents moyens de transport hors d'usage, la surface étant supérieure à 50 m<sup>2</sup>.</p>
 </td>
 <td valign="top" width="32">
 <p align="center">A</p>
@@ -3051,15 +2978,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3076,7 +3000,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -3088,11 +3011,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3148,7 +3069,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -3160,11 +3080,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3240,7 +3158,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -3252,11 +3169,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3280,13 +3195,14 @@
 </td>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
 <td/>
 <td/>
-<td>1. Supérieure ou égale à 50 t</td>
+<td>
+<p align="left">1. Supérieure ou égale à 50 t</p>
+</td>
 <td>
 <p align="center">10</p>
 </td>
@@ -3294,7 +3210,9 @@
 <tr>
 <td/>
 <td/>
-<td>2. Inférieure à 50 t</td>
+<td>
+<p align="left">2. Inférieure à 50 t</p>
+</td>
 <td>
 <p align="center">3</p>
 </td>
@@ -3383,7 +3301,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -3395,11 +3312,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3493,7 +3408,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -3508,7 +3422,6 @@
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3661,7 +3574,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -3732,14 +3644,15 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
 <td/>
 <td/>
 <td/>
-<td>1. La capacité journalière autorisée étant supérieure ou égale à 10 t/j ou la capacité totale de l'installation étant supérieure ou égale à 25 000 t</td>
+<td>
+<p align="left">1. La capacité journalière autorisée étant supérieure ou égale à 10 t/j ou la capacité totale de l'installation étant supérieure ou égale à 25 000 t</p>
+</td>
 <td align="center" valign="top">
 <p align="center">6</p>
 </td>
@@ -3748,7 +3661,9 @@
 <td/>
 <td/>
 <td/>
-<td>2. La capacité journalière autorisée étant inférieure à 10 t/j et la capacité totale de l'installation étant inférieure à 25 000 t</td>
+<td>
+<p align="left">2. La capacité journalière autorisée étant inférieure à 10 t/j et la capacité totale de l'installation étant inférieure à 25 000 t</p>
+</td>
 <td align="center" valign="top">
 <p align="center">3</p>
 </td>
@@ -3853,7 +3768,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -3861,7 +3775,9 @@
 <td/>
 <td/>
 <td/>
-<td>La capacité de traitement étant :</td>
+<td>
+<p align="left">La capacité de traitement étant :</p>
+</td>
 <td/>
 </tr>
 <tr>
@@ -3938,7 +3854,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -3992,7 +3907,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -4010,7 +3924,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -4026,7 +3939,6 @@
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4045,7 +3957,9 @@
 <td/>
 <td/>
 <td/>
-<td>2. La quantité de matières et déchets traités étant :</td>
+<td>
+<p align="left">2. La quantité de matières et déchets traités étant :</p>
+</td>
 <td/>
 </tr>
 <tr>
@@ -4302,15 +4216,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4327,7 +4238,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -4339,11 +4249,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4351,7 +4259,9 @@
 <td/>
 <td/>
 <td/>
-<td>1. La capacité de traitement étant :</td>
+<td>
+<p align="left">1. La capacité de traitement étant :</p>
+</td>
 <td/>
 </tr>
 <tr>
@@ -4408,15 +4318,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4433,7 +4340,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -4445,11 +4351,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4462,15 +4366,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4584,10 +4485,8 @@
 <td valign="top" width="437"/>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155">
@@ -4782,7 +4681,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -4794,11 +4692,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4808,15 +4704,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4977,15 +4870,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5033,15 +4923,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5179,15 +5066,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5281,7 +5165,7 @@
 <br/>
 </td>
 <td valign="top" width="155">
-<p>2. La quantité maximale de produits susceptible d'être mise en oeuvre est : </p>
+<p>2. La quantité maximale de produits susceptible d'être mise en œuvre est : </p>
 </td>
 <td valign="top" width="26">
 <br/>
@@ -5358,7 +5242,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>3. Lorsque les produits mis en œuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits susceptible d'être mise en oeuvre est : </p>
+<p>3. Lorsque les produits mis en oeuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits susceptible d'être mise en œuvre est : </p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -5453,15 +5337,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5479,7 +5360,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -5492,11 +5372,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5506,15 +5384,12 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
-<br/>
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -5532,7 +5407,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -5545,11 +5419,9 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
