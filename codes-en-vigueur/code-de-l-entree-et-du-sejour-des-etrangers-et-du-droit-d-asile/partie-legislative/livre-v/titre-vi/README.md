@@ -1,3 +1,4 @@
-# TITRE VI : DISPOSITIONS DIVERSES
+# TITRE VI : ASSIGNATION À RÉSIDENCE
 
-- [Chapitre unique.](chapitre-unique)
+- [Chapitre Ier](chapitre-ier)
+- [Chapitre II : Assignation à résidence avec surveillance électronique](chapitre-ii)

@@ -6,4 +6,4 @@ Il en est de même lorsqu'un étranger non ressortissant d'un Etat membre de l'U
 
 Un décret en Conseil d'Etat fixe les conditions d'application du précédent alinéa.
 
-Pour l'exécution des mesures prévues au présent article, les dispositions de l'article L. 513-2, du premier alinéa de l'article L. 513-3 et de l'article L. 513-4 sont applicables.
+Pour l'exécution des mesures prévues au présent article, les dispositions de l'article L. 513-2, du premier alinéa de l'article L. 513-3 et de l'article L. 561-1 sont applicables.

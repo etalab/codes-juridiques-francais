@@ -1,4 +1,4 @@
-# Article L561-3
+# Article L571-3
 
 L'autorité administrative peut ordonner le placement sous surveillance électronique mobile de l'étranger astreint à résider dans les lieux qui lui sont fixés en application des articles L. 523-3, L. 523-4 ou L. 541-3 s'il a été condamné à une peine d'interdiction du territoire pour des actes de terrorisme prévus par le titre II du livre IV du code pénal ou si une mesure d'expulsion a été prononcée à son encontre pour un comportement lié à des activités à caractère terroriste.
 
