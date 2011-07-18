@@ -1,4 +1,4 @@
-# Article R775-5
+# Article R776-12
 
 Lorsqu'une requête sommaire mentionne l'intention du requérant de présenter un mémoire complémentaire, la production annoncée doit parvenir au greffe du tribunal administratif dans un délai de quinze jours à compter de la date à laquelle la requête a été enregistrée.
 

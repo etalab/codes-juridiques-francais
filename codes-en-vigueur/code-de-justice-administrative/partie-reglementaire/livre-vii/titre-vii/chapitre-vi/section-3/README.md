@@ -1,0 +1,17 @@
+# Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence
+
+- [Article R776-14](article-r776-14.md)
+- [Article R776-15](article-r776-15.md)
+- [Article R776-16](article-r776-16.md)
+- [Article R776-17](article-r776-17.md)
+- [Article R776-18](article-r776-18.md)
+- [Article R776-19](article-r776-19.md)
+- [Article R776-20](article-r776-20.md)
+- [Article R776-21](article-r776-21.md)
+- [Article R776-22](article-r776-22.md)
+- [Article R776-23](article-r776-23.md)
+- [Article R776-24](article-r776-24.md)
+- [Article R776-25](article-r776-25.md)
+- [Article R776-26](article-r776-26.md)
+- [Article R776-27](article-r776-27.md)
+- [Article R776-28](article-r776-28.md)

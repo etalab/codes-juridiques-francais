@@ -1,8 +1,10 @@
-# Chapitre VI : Le contentieux des arrêtés de reconduite à la frontière
+# Chapitre VI : Le contentieux des obligations de quitter le territoire et des arrêtés de reconduite à la frontière
 
+- [Section 1 : Dispositions communes](section-1)
+- [Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence](section-2)
+- [Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence](section-3)
 - [Article R776-1](article-r776-1.md)
 - [Article R776-2](article-r776-2.md)
-- [Article R776-2-1](article-r776-2-1.md)
 - [Article R776-3](article-r776-3.md)
 - [Article R776-4](article-r776-4.md)
 - [Article R776-5](article-r776-5.md)
