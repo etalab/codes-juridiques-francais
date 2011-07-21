@@ -8,7 +8,9 @@ Le président de la Cité de l'architecture et du patrimoine préside le conseil
 
 3° Il est ordonnateur des recettes et des dépenses, prépare et signe les accords d'entreprise et veille à leur bonne application ;
 
-4° Il peut prendre dans l'intervalle des séances du conseil d'administration, sous réserve de l'avis préalable du membre du corps du contrôle général économique et financier, des décisions modificatives de l'état prévisionnel des recettes et dépenses qui ne comportent ni accroissement des effectifs permanents ou du montant total des dépenses, ni réduction du montant total des recettes, ni virements de crédits entre les chapitres de personnel et les chapitres de matériel ; ces décisions sont ratifiées par le conseil d'administration lors de sa plus prochaine séance ;
+4° Il peut prendre dans l'intervalle des séances du conseil d'administration, sous réserve de l'avis préalable du membre du corps du contrôle général économique et financier, des décisions modificatives de l'état prévisionnel des recettes et dépenses qui ne comportent ni accroissement des effectifs permanents ou du montant total des dépenses, ni réduction du montant total des recettes, ni virements de crédits entre les chapitres de personnel et les chapitres de matériel ;
+
+ces décisions sont ratifiées par le conseil d'administration lors de sa plus prochaine séance ;
 
 5° Il signe les conventions engageant l'établissement ;
 
@@ -26,8 +28,12 @@ Le président de la Cité de l'architecture et du patrimoine préside le conseil
 
 12° Il arrête le programme d'activités en concertation avec les chefs de département ;
 
-13° Il organise les directions et les départements et a autorité sur les services de l'établissement.
+13° Il organise les directions et les départements et a autorité sur les services de l'établissement ;
+
+14° Il exerce les compétences dévolues au ministre chargé de l'architecture pour signer au nom de l'Etat le diplôme national d'enseignement supérieur délivré par l'établissement et au nom de l'établissement les diplômes qui lui sont propres.
 
 Le président rend compte de sa gestion au conseil d'administration.
 
-Il peut déléguer sa signature, selon l'étendue qu'il détermine, au directeur général délégué et aux chefs de département, sauf en ce qui concerne le 1° et le 4° du présent article.
+Le président ne peut pas déléguer sa signature en ce qui concerne le 1°, le 4° et le 14°.
+
+Dans les autres cas, il peut déléguer sa signature, dans les limites qu'il détermine, au directeur général délégué et aux chefs de département.
