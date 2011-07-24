@@ -1,4 +1,4 @@
-# Titre II : La lutte contre les maladies des animaux
+# Titre II : Mesures de prévention, surveillance et lutte contre les dangers zoosanitaires
 
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Le contrôle sanitaire des activités de reproduction animale](chapitre-ii)
