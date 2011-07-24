@@ -2,7 +2,7 @@
 
 Pour être destinées aux échanges ou exportées, les marchandises mentionnées au premier alinéa de l'article L. 236-1 doivent répondre aux conditions sanitaires ou ayant trait à la protection des animaux fixées par le ministre chargé de l'agriculture ou par des règlements ou décisions communautaires ; ces conditions peuvent comprendre un agrément de l'exploitation, du centre de regroupement, de l'établissement ou de la personne physique concernée.
 
-Les agents ayant la qualité de vétérinaire officiel en vertu du V de l'article L. 231-2 et les vétérinaires certificateurs mentionnés à l'article L. 221-13 sont habilités à établir et à délivrer tous certificats et documents attestant que les animaux vivants, les produits et sous-produits d'origine animale ainsi que les aliments pour animaux sont conformes aux exigences mentionnées au présent article.
+L'exercice des missions de certification officielle et l'établissement et la délivrance des certificats et documents attestant que les animaux vivants, leurs semences, ovules et embryons ainsi que les denrées animales ou d'origine animale, les aliments pour animaux et les sous-produits d'origine animale sont conformes aux exigences mentionnées au premier alinéa du présent article, sont assurés par les personnes désignées à l'article L. 236-2-1.
 
 Les modalités du contrôle du respect de ces conditions sont fixées par le ministre chargé de l'agriculture.
 

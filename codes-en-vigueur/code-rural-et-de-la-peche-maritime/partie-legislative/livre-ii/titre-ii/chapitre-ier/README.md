@@ -7,6 +7,3 @@
 - [Article L221-5](article-l221-5.md)
 - [Article L221-8](article-l221-8.md)
 - [Article L221-9](article-l221-9.md)
-- [Article L221-11](article-l221-11.md)
-- [Article L221-12](article-l221-12.md)
-- [Article L221-13](article-l221-13.md)

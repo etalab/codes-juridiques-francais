@@ -1,3 +1,4 @@
-# Chapitre III : Réactifs.
+# Chapitre III : Vétérinaires sanitaires et vétérinaires mandatés.
 
-- [Article L203-1](article-l203-1.md)
+- [Section 1 : Le vétérinaire sanitaire](section-1)
+- [Section 2 : Le vétérinaire mandaté par l'autorité administrative](section-2)

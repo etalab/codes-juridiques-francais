@@ -1,7 +1,5 @@
-# Chapitre II : Laboratoires et réactifs.
+# Section 1 : Laboratoires
 
-- [Section 1 : Laboratoires](section-1)
-- [Section 2 : Réactifs](section-2)
 - [Article L202-1](article-l202-1.md)
 - [Article L202-2](article-l202-2.md)
 - [Article L202-3](article-l202-3.md)
