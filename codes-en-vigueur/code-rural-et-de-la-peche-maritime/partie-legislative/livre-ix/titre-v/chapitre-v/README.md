@@ -1,4 +1,3 @@
-# Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises et dans l'île de Clipperton
+# Chapitre V : Dispositions particulières à Wallis-et-Futuna
 
-- [Section 1 : Dispositions spécifiques aux Terres australes et antarctiques françaises](section-1)
-- [Section 2 : Dispositions spécifiques à l'île de Clipperton](section-2)
+- [Article L955-1](article-l955-1.md)

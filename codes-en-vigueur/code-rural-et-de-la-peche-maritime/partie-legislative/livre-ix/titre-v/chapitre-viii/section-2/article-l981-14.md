@@ -1,4 +1,4 @@
-# Article L955-14
+# Article L981-14
 
 Le délai de trois jours ouvrés entre l'appréhension et la remise à l'autorité compétente pour les saisies, tel que fixé à l'article L. 943-1, est augmenté du temps de navigation nécessaire pour rejoindre le port de conduite désigné par l'autorité maritime.
 

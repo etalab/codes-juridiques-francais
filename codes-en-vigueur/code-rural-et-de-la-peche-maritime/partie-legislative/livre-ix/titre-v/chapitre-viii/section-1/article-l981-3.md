@@ -1,4 +1,4 @@
-# Article L955-3
+# Article L981-3
 
 L'exercice de la pêche maritime et de la chasse aux animaux marins et l'exploitation des produits de la mer dans les Terres australes et antarctiques françaises sont régis par les dispositions de la présente section.
 

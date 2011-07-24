@@ -1,4 +1,4 @@
-# Article L955-4
+# Article L981-4
 
 Nul ne peut exercer la pêche ou la chasse aux animaux marins ou se livrer à l'exploitation des produits de la mer, que ce soit à terre ou à bord des navires, sans avoir obtenu une autorisation.
 

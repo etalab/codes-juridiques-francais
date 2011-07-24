@@ -1,4 +1,4 @@
-# Article L955-13
+# Article L981-13
 
 Les infractions sont recherchées et constatées, outre par les officiers et agents de police judiciaire, par les agents énumérés à l'article L. 942-1, par les chefs de district des Terres australes et antarctiques françaises, les personnes chargées d'une mission de contrôle à bord de navires, dûment habilitées à cet effet par l'administrateur supérieur des Terres australes et antarctiques françaises et assermentées.
 
