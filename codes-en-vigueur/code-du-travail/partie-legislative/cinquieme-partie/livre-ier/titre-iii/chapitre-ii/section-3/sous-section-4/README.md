@@ -6,6 +6,5 @@
 - [Article L5132-10](article-l5132-10.md)
 - [Article L5132-11](article-l5132-11.md)
 - [Article L5132-11-1](article-l5132-11-1.md)
-- [Article L5132-12](article-l5132-12.md)
 - [Article L5132-13](article-l5132-13.md)
 - [Article L5132-14](article-l5132-14.md)
