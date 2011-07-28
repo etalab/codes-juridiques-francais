@@ -1415,13 +1415,14 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td align="center">
-<br/>Canoë-kayak. <br/>
+<br/>Canoë-kayak et disciplines associées. </td>
+<td align="center">
+<p>Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en canoë-kayak et disciplines associées. </p>
+<p>Encadrement des activités de canyonisme. </p>
 </td>
 <td align="center">
-<br/>Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en canoë-kayak. <br/>
-</td>
-<td align="center">
-<br/>Pour tout public, en eau calme, en rivière jusqu'en classe III incluse, en mer dans la limite de la navigation en 6e catégorie sur des parcours connus et reconnus, au maximum par vent de force 4 sur le site d'évolution. Conduite des séances d'initiation en kayak de vagues. <br/>
+<p>Pour tout public, en eau calme, en rivière jusqu'en classe III incluse, en mer dans la limite de la navigation en 6e catégorie sur des parcours connus et reconnus, au maximum par vent de force 4 sur le site d'évolution. Conduite des séances d'initiation en kayak de vagues. </p>
+<p>Jusqu'aux canyons cotés V1, A5 et E II inclus. </p>
 </td>
 </tr>
 <tr>
@@ -1429,10 +1430,10 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <br/>Char à voile. <br/>
 </td>
 <td align="center">
-<br/>Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en char à voile. <br/>
+<p>Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en char à voile. Char à voile en pratique assise et allongée, en pratique debout, en pratique tractée, pour tout lieu de pratique de l'activité aménagé et ouvert. </p>
 </td>
 <td align="center">
-<br/>Char à voile en pratique assise et allongée, en pratique debout, en pratique tractée, pour tout public et pour tout lieu de pratique de l'activité aménagé et ouvert. <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1559,9 +1560,8 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <br/>Char à voile d'initiation et de découverte. <br/>
 </td>
 <td align="center">
-<br/>Encadrement et animation d'activités de découverte et d'initiation en char à voile. <br/>
-</td>
-<td align="center"/>
+<br/>Encadrement et animation d'activités de découverte et d'initiation en char à voile. </td>
+<td align="center">Sur tout support (à l'exception des activités tractées), sur des parcours école aménagés.</td>
 </tr>
 <tr>
 <td align="center">
@@ -1726,10 +1726,11 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <br/>UCC " char à voile d'initiation et de découverte ". <br/>
 </td>
 <td align="center">
-<br/>Encadrement et animation d'activités de découverte et d'initiation en char à voile. <br/>
+<p>Encadrement et animation d'activités de découverte et d'initiation en char à voile. <br/>
+</p>
 </td>
 <td align="center">
-<br/>Sur tout support (à l'exception des activités tractées), pour tout public, sur des parcours école aménagés (mille mètres maximum). <br/>
+<p>Sur tout support (à l'exception des activités tractées), sur des parcours école aménagés.</p>
 </td>
 </tr>
 <tr>
@@ -2189,6 +2190,14 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="center"/>
 </tr>
 <tr>
+<td>
+<p align="center">UCC " vélo tout terrain ".</p>
+</td>
+<td>Encadrement de cycles d'initiation jusqu'au 1er niveau de compétition en vélo tout terrain.</td>
+<td>A l'exclusion du vélo tout terrain de descente.<br/>
+</td>
+</tr>
+<tr>
 <td align="center">
 <br/>UCC " carambole ". <br/>
 </td>
@@ -2205,6 +2214,14 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <br/>Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en billard à poches. <br/>
 </td>
 <td align="center"/>
+</tr>
+<tr>
+<td>
+<p align="center">UCC " vélo tout terrain ". </p>
+</td>
+<td>Encadrement de cycles d'initiation jusqu'au 1er niveau de compétition en vélo tout terrain. </td>
+<td>A l'exclusion du vélo tout terrain de descente.<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -2691,6 +2708,21 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </td>
 </tr>
 <tr>
+<td>BP JEPS, spécialité " activités aquatiques et de la natation ".<br/>
+</td>
+<td>
+<p>Encadrement et animation d'activités aquatiques d'éveil, de découverte et de loisirs aquatiques. Apprentissage et enseignement des différentes nages. </p>
+<p>Surveillance de tout lieu de pratique des activités aquatiques et sauvetage de tout public en milieu aquatique. </p>
+</td>
+<td>Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître nageur sauveteur en cours de validité. </td>
+</tr>
+<tr>
+<td>BP JEPS, spécialité " escrime ". </td>
+<td>Encadrement et animation d'activités d'éveil à l'escrime et de découverte des trois armes. Encadrement de cycles d'apprentissage et d'enseignement à deux armes, jusqu'au premier niveau de compétition. <br/>
+</td>
+<td/>
+</tr>
+<tr>
 <td align="center">
 <br/>Unités capitalisables complémentaires associées à la spécialité " activités aquatiques " <br/>
 </td>
@@ -3086,9 +3118,7 @@ D-2. Titres à finalité professionnelle délivrés par la Fédération françai
 
 E.-Certificats de qualification délivrés par les branches professionnelles
 
-E-1. Certificats de qualification délivrés par la Commission paritaire nationale
-
-de l'emploi des entreprises équestres (CPNE-EE)
+E-1. Certificats de qualification délivrés par la Commission paritaire nationale de l'emploi des entreprises équestres (CPNE-EE)
 
 <table>
 <tbody>
@@ -3117,28 +3147,26 @@ de l'emploi des entreprises équestres (CPNE-EE)
 </tr>
 <tr>
 <td>
-<p align="center"> CQP " enseignant animateur d'équitation ". </p>
+<p align="center">CQP " enseignant animateur d'équitation ". </p>
 </td>
 <td>
-<p align="center"> Conduite en autonomie de séances d'initiation aux pratiques équestres. </p>
+<p align="center">Conduite en autonomie de séances d'initiation aux pratiques équestres. </p>
 </td>
 <td/>
 </tr>
 <tr>
 <td>
-<p align="center"> CQP " organisateur de randonnées équestres ". </p>
+<p align="center">CQP " organisateur de randonnées équestres ". </p>
 </td>
 <td>
-<p align="center"> Initiation aux techniques de la randonnée équestre et conduite de promenades et de randonnées équestres en autonomie.</p>
+<p align="center">Initiation aux techniques de la randonnée équestre et conduite de promenades et de randonnées équestres en autonomie.</p>
 </td>
 <td/>
 </tr>
 </tbody>
 </table>
 
-E-2. Certificats de qualification délivrés par la Commission paritaire nationale
-
-emploi-formation du sport (CPNEF du sport)
+E-2. Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport (CPNEF du sport)
 
 <table>
 <tbody>
