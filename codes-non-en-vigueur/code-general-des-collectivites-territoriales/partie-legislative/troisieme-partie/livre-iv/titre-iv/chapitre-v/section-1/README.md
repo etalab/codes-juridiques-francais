@@ -6,5 +6,6 @@
 - [Article LO3445-4](article-lo3445-4.md)
 - [Article LO3445-5](article-lo3445-5.md)
 - [Article LO3445-6](article-lo3445-6.md)
+- [Article LO3445-6-1](article-lo3445-6-1.md)
 - [Article LO3445-7](article-lo3445-7.md)
 - [Article LO3445-8](article-lo3445-8.md)
