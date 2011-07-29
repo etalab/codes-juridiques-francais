@@ -494,20 +494,6 @@
 </tr>
 <tr>
 <td valign="top" width="154">
-<p align="center">Guyane</p>
-</td>
-<td valign="top" width="154">
-<p align="center">31</p>
-</td>
-<td valign="top" width="154">
-<p align="center">Guyane</p>
-</td>
-<td valign="top" width="154">
-<p align="center">33</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="154">
 <p align="center">Ile-de-France</p>
 </td>
 <td valign="top" width="154">
@@ -784,20 +770,6 @@
 </td>
 <td valign="top" width="154">
 <p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="154">
-<p align="center">Martinique</p>
-</td>
-<td valign="top" width="154">
-<p align="center">41</p>
-</td>
-<td valign="top" width="154">
-<p align="center">Martinique</p>
-</td>
-<td valign="top" width="154">
-<p align="center">43</p>
 </td>
 </tr>
 <tr>
