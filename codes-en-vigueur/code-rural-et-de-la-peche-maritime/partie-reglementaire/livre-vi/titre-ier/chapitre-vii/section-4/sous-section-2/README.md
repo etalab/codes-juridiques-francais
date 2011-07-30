@@ -6,3 +6,4 @@
 - [Article D617-25](article-d617-25.md)
 - [Article D617-26](article-d617-26.md)
 - [Article D617-27](article-d617-27.md)
+- [Article R617-28](article-r617-28.md)
