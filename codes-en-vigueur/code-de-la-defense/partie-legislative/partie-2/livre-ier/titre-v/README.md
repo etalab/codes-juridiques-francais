@@ -1,3 +1,3 @@
-# TITRE V : SERVICE DE DÉFENSE
+# TITRE V : SERVICE DE SÉCURITÉ NATIONALE
 
 - [Chapitre unique](chapitre-unique)

@@ -5,4 +5,3 @@
 - [Article L2151-3](article-l2151-3.md)
 - [Article L2151-4](article-l2151-4.md)
 - [Article L2151-5](article-l2151-5.md)
-- [Article L2151-6](article-l2151-6.md)
