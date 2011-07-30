@@ -6,6 +6,6 @@ Les institutions de garantie mentionnées à l'article L. 3253-14 versent au man
 
 2° Dans les huit jours suivant la réception des relevés mentionnés aux 2° et 4° du même article.
 
-Par dérogation, l'avance des contributions de l'employeur au financement de la convention de reclassement personnalisé est versée directement à l'institution mentionnée à l'article L. 5312-1.
+Par dérogation, l'avance des contributions de l'employeur au financement     du contrat de sécurisation professionnelle est versée directement à l'institution mentionnée à l'article L. 5312-1.
 
 Le mandataire judiciaire reverse immédiatement les sommes qu'il a reçues aux salariés et organismes créanciers, à l'exclusion des créanciers subrogés, et en informe le représentant des salariés.
