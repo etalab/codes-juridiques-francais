@@ -6,5 +6,6 @@
 - [Article L6222-10](article-l6222-10.md)
 - [Article L6222-11](article-l6222-11.md)
 - [Article L6222-12](article-l6222-12.md)
+- [Article L6222-12-1](article-l6222-12-1.md)
 - [Article L6222-13](article-l6222-13.md)
 - [Article L6222-14](article-l6222-14.md)

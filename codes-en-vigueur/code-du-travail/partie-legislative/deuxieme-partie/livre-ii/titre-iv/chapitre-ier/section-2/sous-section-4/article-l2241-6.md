@@ -2,7 +2,7 @@
 
 Les organisations liées par une convention de branche ou, à défaut, par un accord professionnel se réunissent au moins tous les trois ans pour négocier sur les priorités, les objectifs et les moyens de la formation professionnelle des salariés.
 
-Cette négociation porte notamment sur l'égal accès à la formation des salariés selon leur catégorie professionnelle et la taille de leur entreprise, la portabilité du droit individuel à la formation, la validation des acquis de l'expérience, l'accès aux certifications, la mise en œuvre du passeport orientation et formation, le développement du tutorat et la valorisation de la fonction de tuteur, en particulier les conditions de son exercice par des salariés âgés de plus de cinquante-cinq ans.
+Cette négociation porte notamment sur l'égal accès à la formation des salariés selon leur catégorie professionnelle et la taille de leur entreprise, la portabilité du droit individuel à la formation, la validation des acquis de l'expérience, l'accès aux certifications, la mise en œuvre du passeport orientation et formation, le développement du tutorat et la valorisation de la fonction de tuteur ou de maître d'apprentissage, en particulier les actions aidant à l'exercer et les conditions de son exercice par des salariés âgés de plus de cinquante-cinq ans.
 
 La négociation sur la validation des acquis de l'expérience visée à l'alinéa précédent porte sur :
 

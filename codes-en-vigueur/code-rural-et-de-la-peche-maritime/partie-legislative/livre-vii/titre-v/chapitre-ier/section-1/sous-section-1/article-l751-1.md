@@ -18,7 +18,7 @@ II.-Bénéficient également du présent régime :
 
 7° Les salariés agricoles désignés, dans les conditions définies à l'article L. 225-8 du code du travail, pour siéger dans une instance instituée par une disposition législative ou réglementaire auprès d'une autorité de l'Etat, pour les accidents survenus par le fait ou à l'occasion de leurs missions, dans la mesure où ils ne bénéficient pas à un autre titre des dispositions du présent article ;
 
-8° Les élèves et étudiants des établissements autres que ceux mentionnés au 1° effectuant, auprès d'un employeur relevant du régime agricole, un stage dans les conditions définies à l'article 9 de la loi n° 2006-396 du 31 mars 2006 pour l'égalité des chances, pour les accidents survenus par le fait ou à l'occasion de stages effectués dans le cadre de leur scolarité ou de leurs études ;
+8° Les élèves et étudiants des établissements autres que ceux mentionnés au 1° effectuant, auprès d'un employeur relevant du régime agricole, un stage dans les conditions définies à l'article L. 612-8 du code de l'éducation, pour les accidents survenus par le fait ou à l'occasion de stages effectués dans le cadre de leur scolarité ou de leurs études ;
 
 9° Les personnes non mentionnées aux 1° et 8° qui effectuent, dans un organisme public ou privé, un stage d'initiation, de formation ou de complément de formation professionnelle situé dans le champ d'application de l'article L. 722-20, ne faisant pas l'objet d'un contrat de travail et n'entrant pas dans le cadre de la formation professionnelle continue telle que définie par la sixième partie du code du travail ;
 

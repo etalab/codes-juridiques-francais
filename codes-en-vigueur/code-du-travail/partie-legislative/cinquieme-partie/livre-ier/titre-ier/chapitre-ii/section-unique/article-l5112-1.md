@@ -15,3 +15,5 @@ A cette fin, il émet un avis :
 4° Sur l'adaptation et la cohérence des systèmes d'information du service public de l'emploi.
 
 Dans chaque région, un conseil régional de l'emploi est présidé par le préfet de région et comprend des représentants des organisations professionnelles d'employeurs et de travailleurs, du conseil régional et des principales collectivités territoriales intéressées, des administrations intéressées et des universités, des représentants d'organisations participant au service public local de l'emploi, notamment des maisons de l'emploi, ainsi que le directeur régional de l'institution mentionnée à l'article L. 5312-1. Il est consulté sur l'organisation territoriale du service public de l'emploi en région et émet un avis sur la convention prévue à l'article L. 5312-11.
+
+A titre exceptionnel, le Conseil national de l'emploi peut être consulté et émettre un avis par voie écrite ou électronique.

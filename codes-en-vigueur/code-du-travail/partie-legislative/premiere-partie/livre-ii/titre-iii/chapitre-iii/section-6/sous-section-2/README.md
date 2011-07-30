@@ -1,4 +1,4 @@
-# Sous-section 2 : Convention de reclassement personnalisé.
+# Sous-section 2 : Contrat de sécurisation professionnelle
 
 - [Article L1233-65](article-l1233-65.md)
 - [Article L1233-66](article-l1233-66.md)

@@ -11,3 +11,5 @@ Elle est portée à vingt-quatre mois :
 2° Lorsque le contrat est conclu dans le cas du départ définitif d'un salarié précédant la suppression de son poste de travail ;
 
 3° Lorsque survient dans l'entreprise, qu'il s'agisse de celle de l'entrepreneur principal ou de celle d'un sous-traitant, une commande exceptionnelle à l'exportation dont l'importance nécessite la mise en oeuvre de moyens quantitativement ou qualitativement exorbitants de ceux que l'entreprise utilise ordinairement. Dans ce cas, la durée initiale du contrat ne peut être inférieure à six mois.
+
+Elle est portée à trente-six mois afin d'être égale à celle du cycle de formation effectué en apprentissage conformément à l'article L. 6222-7.
