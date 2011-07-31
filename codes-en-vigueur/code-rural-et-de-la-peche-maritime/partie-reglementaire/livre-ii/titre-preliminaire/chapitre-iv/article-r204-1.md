@@ -10,7 +10,7 @@ Elle est accompagnée des documents suivants :
 
 3° Une preuve de ses qualifications professionnelles ;
 
-4° Lorsque l'accès ou l'exercice d'une profession n'exige pas la possession d'un certificat de capacité dans l'Etat membre d'établissement, la preuve par tout moyen que le professionnel a exercé cette profession pendant au moins deux années au cours des dix années précédentes.
+4° Lorsque l'accès ou l'exercice d'une profession n'exige pas la possession d'un certificat de capacité dans l'Etat membre d'établissement, la preuve par tout moyen que le professionnel a exercé cette profession pendant au moins deux années au cours des dix années précédentes. Cette justification n'est pas requise lorsque la formation conduisant à cette profession est réglementée dans l'Etat membre ou partie à l'accord sur l'Espace économique européen dans lequel elle a été validée.
 
 La déclaration et les documents joints peuvent être transmis par tout moyen.
 
