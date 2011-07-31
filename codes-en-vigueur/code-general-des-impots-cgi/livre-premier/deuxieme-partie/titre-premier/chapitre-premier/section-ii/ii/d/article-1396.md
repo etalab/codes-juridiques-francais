@@ -4,7 +4,7 @@ La taxe foncière sur les propriétés non bâties est établie d'après la vale
 
 La valeur locative cadastrale des terrains constructibles situés dans les zones urbaines délimitées par une carte communale, un plan local d'urbanisme ou un plan de sauvegarde et de mise en valeur approuvé conformément au code de l'urbanisme, peut, sur délibération du conseil municipal prise dans les conditions prévues au premier alinéa du I de l'article 1639 A bis, être majorée d'une valeur forfaitaire comprise entre 0 et 3 € par mètre carré, pour le calcul de la part revenant aux communes et aux établissements publics de coopération intercommunale sans fiscalité propre.
 
-La superficie retenue pour le calcul de la majoration est réduite de 1 000 mètres carrés.
+La superficie retenue pour le calcul de la majoration est réduite de 1 000 mètres carrés. Cette réduction s'applique à l'ensemble des parcelles contiguës constructibles détenues par un même propriétaire.
 
 La majoration visée au deuxième alinéa ne peut excéder 3 % d'une valeur forfaitaire moyenne au mètre carré définie par décret et représentative de la valeur moyenne du terrain selon sa situation géographique.
 

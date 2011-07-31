@@ -67,7 +67,7 @@ Tarif des droits applicables en ligne directe :
 </p>
 </td>
 <td align="center">
-<br/>35 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ Tarif des droits applicables en ligne directe :
 </p>
 </td>
 <td align="center">
-<br/>40 <br/>
+<br/>45<br/>
 </td>
 </tr>
 </tbody>
@@ -147,7 +147,7 @@ Tarif des droits applicables entre époux et entre partenaires liés par un pact
 </p>
 </td>
 <td align="center">
-<br/>35 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
@@ -156,7 +156,7 @@ Tarif des droits applicables entre époux et entre partenaires liés par un pact
 </p>
 </td>
 <td align="center">
-<br/>40 <br/>
+<br/>45<br/>
 </td>
 </tr>
 </tbody>

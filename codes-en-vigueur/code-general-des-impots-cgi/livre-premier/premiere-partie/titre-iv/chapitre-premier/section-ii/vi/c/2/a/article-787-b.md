@@ -8,7 +8,7 @@ Lorsque les parts ou actions transmises par décès n'ont pas fait l'objet d'un 
 
 b. L'engagement collectif de conservation doit porter sur au moins 20 % des droits financiers et des droits de vote attachés aux titres émis par la société s'ils sont admis à la négociation sur un marché réglementé ou, à défaut, sur au moins 34 %, y compris les parts ou actions transmises.
 
-Ces pourcentages doivent être respectés tout au long de la durée de l'engagement collectif de conservation. Les associés de l'engagement collectif de conservation peuvent effectuer entre eux des cessions ou donations des titres soumis à l'engagement.
+Ces pourcentages doivent être respectés tout au long de la durée de l'engagement collectif de conservation. Les associés de l'engagement collectif de conservation peuvent effectuer entre eux des cessions ou donations des titres soumis à l'engagement. Ils peuvent également admettre un nouvel associé dans l'engagement collectif à condition que cet engagement collectif soit reconduit pour une durée minimale de deux ans.
 
 L'engagement collectif de conservation est opposable à l'administration à compter de la date de l'enregistrement de l'acte qui le constate. Dans le cas de titres admis à la négociation sur un marché réglementé, l'engagement collectif de conservation est soumis aux dispositions de l'article L. 233-11 du code de commerce.
 
@@ -32,6 +32,12 @@ e. La déclaration de succession ou l'acte de donation doit être appuyée d'une
 
 A compter de la transmission et jusqu'à l'expiration de l'engagement collectif de conservation visé au a, la société doit en outre adresser, dans les trois mois qui suivent le 31 décembre de chaque année, une attestation certifiant que les conditions prévues aux a et b sont remplies au 31 décembre de chaque année.
 
+e bis. En cas de non-respect de la condition prévue au a par l'un des signataires, l'exonération partielle n'est pas remise en cause à l'égard des signataires autres que le cédant si :
+
+1° Soit les titres que ces autres signataires détiennent ensemble respectent la condition prévue au b et ceux-ci les conservent jusqu'au terme initialement prévu ;
+
+2° Soit le cessionnaire s'associe à l'engagement collectif à raison des titres cédés afin que le pourcentage prévu au b demeure respecté. Dans ce cas, l'engagement collectif est reconduit pour une durée minimale de deux ans pour l'ensemble des signataires.
+
 f. En cas de non-respect de la condition prévue au c par suite d'un apport partiellement rémunéré par la prise en charge d'une soulte consécutive à un partage ou d'un apport pur et simple de titres d'une société ayant une activité industrielle, commerciale, artisanale, agricole ou libérale à une société dont l'objet unique est la gestion de son propre patrimoine constitué exclusivement de participations dans une ou plusieurs sociétés du même groupe que la société dont les parts ou actions ont été transmises et ayant une activité, soit similaire, soit connexe et complémentaire, l'exonération partielle n'est pas remise en cause si les conditions suivantes sont réunies :
 
 1° La société bénéficiaire de l'apport est détenue en totalité par les personnes physiques bénéficiaires de l'exonération. Le donateur peut toutefois détenir une participation directe dans le capital social de cette société, sans que cette participation puisse être majoritaire. Elle est dirigée directement par une ou plusieurs des personnes physiques bénéficiaires de l'exonération. Les conditions tenant à la composition de l'actif de la société, à la détention de son capital et à sa direction doivent être respectées à l'issue de l'opération d'apport et jusqu'au terme de l'engagement mentionné au c ;
@@ -48,6 +54,6 @@ De même, cette exonération n'est pas remise en cause lorsque la condition pré
 
 i) En cas de non-respect de la condition prévue au c par suite d'une donation, l'exonération partielle accordée au titre de la mutation à titre gratuit n'est pas remise en cause, à condition que le ou les donataires soient le ou les descendants du donateur et que le ou les donataires poursuivent l'engagement prévu au c jusqu'à son terme.
 
-Les dispositions du présent article s'appliquent en cas de donation avec réserve d'usufruit à la condition que les droits de vote de l'usufruitier soient statutairement limités aux décisions concernant l'affectation des bénéfices. Cette exonération n'est alors pas cumulable avec la réduction prévue à l'article 790.
+Les dispositions du présent article s'appliquent en cas de donation avec réserve d'usufruit à la condition que les droits de vote de l'usufruitier soient statutairement limités aux décisions concernant l'affectation des bénéfices.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article, notamment les obligations déclaratives incombant aux redevables et aux sociétés.

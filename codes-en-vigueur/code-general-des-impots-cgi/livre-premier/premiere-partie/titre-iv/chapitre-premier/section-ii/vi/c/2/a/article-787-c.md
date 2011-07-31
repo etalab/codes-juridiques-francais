@@ -9,5 +9,3 @@ b. Chacun des héritiers, donataires ou légataires prend l'engagement dans la d
 c.L'un des héritiers, donataires ou légataires mentionnés au b poursuit effectivement pendant les trois années qui suivent la date de la transmission l'exploitation de l'entreprise.
 
 d) En cas de non-respect de la condition prévue au b par suite d'une donation, l'exonération partielle accordée au titre de la mutation à titre gratuit n'est pas remise en cause, à condition que le ou les donataires soient le ou les descendants du donateur et que le ou les donataires poursuivent l'engagement prévu au b jusqu'à son terme.
-
-En cas de donation avec réserve d'usufruit, l'exonération prévue au présent article n'est pas cumulable avec la réduction prévue à l'article 790.

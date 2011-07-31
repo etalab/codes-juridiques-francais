@@ -4,7 +4,7 @@ Après constitution de la quote-part au profit des circonscriptions  territorial
 
 1° Pour 70 % du montant total de la dotation :
 
-a) A raison de 50 % en fonction de la population regroupée des  établissements publics de coopération intercommunale à fiscalité propre  éligibles ;
+a) A raison de 50 % en fonction de la population regroupée des  établissements publics de coopération intercommunale à fiscalité propre répondant aux critères d'éligibilité indiqués aux a et b du 1° de l'article L. 2334-33   ;
 
 b) A raison de 50 % en fonction du  rapport, pour chaque établissement public de coopération intercommunale à  fiscalité propre éligible, entre le potentiel fiscal moyen par habitant  des établissements publics de coopération intercommunale à fiscalité  propre de sa catégorie et son potentiel fiscal moyen par habitant ;
 
@@ -12,7 +12,7 @@ b) A raison de 50 % en fonction du  rapport, pour chaque établissement public d
 
 a) A raison de 50 % répartis entre les départements, en proportion du  rapport entre la densité moyenne de population de l'ensemble des  départements et la densité de population du département, le rapport pris  en compte étant plafonné à 10 ;
 
-b) A raison de  50 % en fonction du rapport, pour chaque commune éligible, entre le  potentiel financier moyen par habitant de l'ensemble des communes  appartenant au même groupe démographique et son potentiel financier  moyen par habitant.
+b) A raison de  50 % en fonction du rapport, pour chaque commune  répondant aux critères d'éligibilité indiqués aux a et b du 2° de l'article L. 2334-33, entre le  potentiel financier moyen par habitant de l'ensemble des communes  appartenant au même groupe démographique et son potentiel financier  moyen par habitant.
 
 La population à prendre en compte pour l'application du présent article est celle définie à l'article L. 2334-2.
 

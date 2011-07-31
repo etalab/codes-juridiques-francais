@@ -28,7 +28,7 @@ c) Dans un procédé de fabrication de produits minéraux non métalliques, clas
 
 5. Les produits mentionnés au 1 sont exonérés de la taxe intérieure de consommation lorsqu'ils sont utilisés :
 
-1° Pour la production d'électricité, à l'exclusion des produits utilisés dans des installations mentionnées à l'article 266 quinquies A et des produits utilisés pour leurs besoins par les petits producteurs d'électricité au sens du 4° du V de l'article L. 3333-2 du code général des collectivités territoriales ;
+1° Pour la production d'électricité, à l'exclusion des produits utilisés dans des installations mentionnées à l'article 266 quinquies A   et qui bénéficient d'un contrat d'achat d'électricité conclu en application de l'article L. 314-1 du code de l'énergie ou mentionné à l'article L. 121-27 du même code et des produits utilisés pour leurs besoins par les petits producteurs d'électricité au sens du 4° du V de l'article L. 3333-2 du code général des collectivités territoriales ;
 
 2° Pour les besoins de leur extraction et de leur production ;
 

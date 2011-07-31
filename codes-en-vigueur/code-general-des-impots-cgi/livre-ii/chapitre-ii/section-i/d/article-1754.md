@@ -1,18 +1,18 @@
 # Article 1754
 
-I. - Le recouvrement et le contentieux des pénalités calculées sur un impôt sont régis par les dispositions applicables à cet impôt.
+I.-Le recouvrement et le contentieux des pénalités calculées sur un impôt sont régis par les dispositions applicables à cet impôt.
 
-II. - Le recouvrement et le contentieux des autres pénalités sont régis par les dispositions applicables aux taxes sur le chiffre d'affaires.
+II.-Le recouvrement et le contentieux des autres pénalités sont régis par les dispositions applicables aux taxes sur le chiffre d'affaires.
 
-III. - Par dérogation aux dispositions du I :
+III.-Par dérogation aux dispositions du I :
 
 1. Sont constatées, poursuivies et sanctionnées comme en matière de contributions indirectes les infractions aux obligations imposées en vertu du I de l'article 268 ter et du III de l'article 298 bis, en vue du contrôle des opérations d'importation, d'achat, de vente, de commission et de courtage portant sur les animaux vivants de boucherie et de charcuterie.
 
 2. En cas de non-respect de l'un des engagements prévus à l'article 1137, les infractions sont constatées par des procès-verbaux dressés par les agents du service départemental de l'agriculture.
 
-IV. - En cas de décès du contrevenant ou s'il s'agit d'une société, en cas de dissolution, les amendes, majorations et intérêts dus par le défunt ou la société dissoute constituent une charge de la succession ou de la liquidation.
+IV.-En cas de décès du contrevenant ou s'il s'agit d'une société, en cas de dissolution, les amendes, majorations et intérêts dus par le défunt ou la société dissoute constituent une charge de la succession ou de la liquidation.
 
-V. - 1. En cas d'abus de droit ou de dissimulation d'une partie du prix stipulé dans un  contrat, toutes les parties à l'acte ou à la convention sont tenues  solidairement, avec le redevable de la cotisation d'impôt ou de la restitution  d'une créance indue, au paiement de l'intérêt de retard et de la majoration  prévue à l'article 1729.
+V.-1. En cas d'abus de droit ou de dissimulation d'une partie du prix stipulé dans un contrat, toutes les parties à l'acte ou à la convention sont tenues solidairement, avec le redevable de la cotisation d'impôt ou de la restitution d'une créance indue, au paiement de l'intérêt de retard et de la majoration prévue à l'article 1729.
 
 2. Les dirigeants de droit ou de fait des personnes morales émettrices des documents mentionnés à l'article 1740 A, qui étaient en fonction au moment de la délivrance, sont solidairement responsables du paiement de l'amende, en cas de manquement délibéré.
 
@@ -25,3 +25,5 @@ V. - 1. En cas d'abus de droit ou de dissimulation d'une partie du prix stipulé
 6. Sont solidaires pour le paiement des sanctions fiscales encourues en matière de droits de timbre toutes les parties à un acte ou écrit non timbré ou insuffisamment timbré, les prêteurs et les emprunteurs, pour les obligations, les officiers ministériels qui ont reçu ou rédigé des actes énonçant des actes ou livres non timbrés.
 
 7. Lorsque la déchéance du bénéfice du taux réduit prévue par le 2° du I du D de l'article 1594 F quinquies est encourue du fait du sous-acquéreur, ce dernier est tenu solidairement avec l'acquéreur d'acquitter sans délai le complément de taxe.
+
+8. Le constituant et les bénéficiaires soumis au prélèvement de l'article 990 J sont solidairement responsables avec l'administrateur du trust du paiement de l'amende prévue au IV bis de l'article 1736.
