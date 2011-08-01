@@ -1,4 +1,4 @@
-# Article R1221-10
+# Article R1221-34
 
 En cas d'expatriation du salarié d'une durée supérieure à un mois, le document remis par l'employeur au salarié mentionne également :
 
