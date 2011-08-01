@@ -16,7 +16,7 @@ Le répertoire centralise les expertises, évaluations et examens psychiatriques
 
 6° En application des articles 706-136 ou 706-137 ;
 
-7° Durant le déroulement d'une hospitalisation d'office ordonnée en application de l'article 706-135 du présent code ou de l'article L. 3213-7 du code de la santé publique.
+7° Durant le déroulement d'une   mesure de soins psychiatriques ordonnée en application de l'article 706-135 du présent code ou de l'article L. 3213-7 du code de la santé publique.
 
 En cas de décision de classement sans suite, hormis les cas où cette décision est fondée sur le premier alinéa de l'article 122-1 du code pénal, ou de décision définitive de non-lieu, de relaxe ou d'acquittement, les données concernant la personne poursuivie sont immédiatement effacées.
 
