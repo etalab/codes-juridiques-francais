@@ -1,4 +1,4 @@
-# Article A37-16
+# Article A37-30
 
 Le nombre, le siège et la compétence territoriale des commissions pluridisciplinaires des mesures de sûreté prévues par les articles 706-53-14, 763-10 et R. 61-7 sont fixés comme suit :
 

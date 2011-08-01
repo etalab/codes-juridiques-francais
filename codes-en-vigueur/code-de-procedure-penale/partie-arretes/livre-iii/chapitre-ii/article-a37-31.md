@@ -1,7 +1,6 @@
-# Article A37-17
+# Article A37-31
 
-Le nombre, le siège et la compétence territoriale des juridictions régionales de la rétention de sûreté prévues par les articles 706-53-15
-et 706-53-21 sont fixés comme suit :
+Le nombre, le siège et la compétence territoriale des juridictions régionales de la rétention de sûreté prévues par les articles 706-53-15 et 706-53-21 sont fixés comme suit :
 
 <table>
 <tbody>
