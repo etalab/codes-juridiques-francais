@@ -1,6 +1,6 @@
 # Article L214-106
 
-Le règlement d'un fonds de placement immobilier ou les statuts d'une société de placement à prépondérance immobilière à capital variable fixent la durée des exercices comptables qui ne peut excéder douze mois. Toutefois, le premier exercice peut s'étendre sur une durée supérieure sans excéder dix-huit mois.
+Le règlement d'un fonds de placement immobilier ou les statuts d'une société de placement à prépondérance immobilière à capital variable fixent la durée des exercices comptables qui ne peut excéder douze mois. Toutefois, le premier exercice peut s'étendre sur toute durée n'excédant pas dix-huit mois.
 
 Dans un délai de six semaines à compter de la fin de chaque semestre de l'exercice, la société de placement à prépondérance immobilière à capital variable ou la société de gestion du fonds établissent l'inventaire de l'actif de l'organisme de placement collectif immobilier sous le contrôle du dépositaire.
 

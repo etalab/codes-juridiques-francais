@@ -10,7 +10,7 @@ La location d'actions ou de parts sociales ne peut pas porter sur des titres :
 
 2° Inscrits à l'actif d'une société de capital-risque mentionnée à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier ou d'une société unipersonnelle d'investissement à risque mentionnée à l'article 208 D du code général des impôts ;
 
-3° Détenus par un fonds commun de placement à risques, un fonds commun de placement dans l'innovation ou un fonds d'investissement de proximité respectivement mentionnés aux articles L. 214-36, L. 214-41 et L. 214-41-1 du code monétaire et financier.
+3° Détenus par un fonds commun de placement à risques, un fonds commun de placement dans l'innovation ou un fonds d'investissement de proximité respectivement mentionnés aux articles L. 214-28, L. 214-30 et L. 214-31 du code monétaire et financier.
 
 A peine de nullité, les actions ou parts louées ne peuvent faire l'objet d'une sous-location ou d'un prêt de titres au sens des articles L. 211-22 à L. 211-26 du même code.
 

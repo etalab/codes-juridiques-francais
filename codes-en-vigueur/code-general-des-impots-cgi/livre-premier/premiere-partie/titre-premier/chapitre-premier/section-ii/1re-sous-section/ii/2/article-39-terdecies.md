@@ -38,8 +38,8 @@ Ou ont été acquis à titre onéreux depuis moins de deux ans.
 
 2° Des sommes reçues par la société de capital-risque au cours de l'exercice précédent au titre :
 
-a) Des répartitions d'une fraction des actifs d'un fonds commun de placement à risques, prévues au 9 de l'article L. 214-36 du code monétaire et financier, provenant de la cession de titres détenus depuis au moins deux ans ;
+a) Des répartitions d'une fraction des actifs d'un fonds commun de placement à risques, prévues au IX de l'article L. 214-28 du code monétaire et financier, provenant de la cession de titres détenus depuis au moins deux ans ;
 
-b) Des distributions d'une entité mentionnée au b du 2 de l'article L. 214-36 du même code, autre qu'un fonds commun de placement à risques, constituée dans un Etat ou territoire ayant conclu avec la France une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, prélevées sur des plus-values réalisées par l'entité lors de la cession de titres détenus depuis au moins deux ans.
+b) Des distributions d'une entité mentionnée au 2° du II de l'article L. 214-28 du même code, autre qu'un fonds commun de placement à risques, constituée dans un Etat ou territoire ayant conclu avec la France une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, prélevées sur des plus-values réalisées par l'entité lors de la cession de titres détenus depuis au moins deux ans.
 
 Lorsque les titres cédés sont des titres de sociétés établies dans un Etat ou territoire non coopératif, le présent 5 ne s'applique pas.

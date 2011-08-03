@@ -2,7 +2,7 @@
 
 Les sommes recueillies par un plan d'épargne d'entreprise peuvent être affectées à l'acquisition :
 
-1° De titres émis par des sociétés d'investissement à capital variable régies par les articles L. 214-15 à L. 214-19 du code monétaire et financier ;
+1° De titres émis par des sociétés d'investissement à capital variable régies par les articles L. 214-7 à L. 214-7-4 du code monétaire et financier ;
 
 2° De parts de fonds communs de placement ou des titres émis par des sociétés d'investissement à capital variable régis par les articles L. 214-39 et L. 214-40 du code monétaire et financier ;
 

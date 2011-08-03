@@ -2,7 +2,7 @@
 
 I. ― L'Autorité de contrôle prudentiel peut demander aux commissaires aux comptes des personnes soumises à son contrôle tout renseignement sur l'activité et sur la situation financière de l'entité qu'ils contrôlent ainsi que sur les diligences qu'ils y ont effectuées dans le cadre de leur mission.
 
-L'Autorité de contrôle prudentiel peut également transmettre aux commissaires aux comptes des personnes mentionnées au précédent alinéa, des organismes de placement collectif en valeurs mobilières et des sociétés de gestion mentionnées à l'article L. 214-25 les informations nécessaires à l'accomplissement de leur mission.
+L'Autorité de contrôle prudentiel peut également transmettre aux commissaires aux comptes des personnes mentionnées au précédent alinéa, des organismes de placement collectif en valeurs mobilières et des sociétés de gestion mentionnées à l'article L. 214-8-1 les informations nécessaires à l'accomplissement de leur mission.
 
 Les informations ainsi transmises sont couvertes par la règle du secret professionnel.
 
