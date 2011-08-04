@@ -1,20 +1,20 @@
 # Article A823-19
 
-La norme d'exercice professionnel relative aux événements postérieurs à la clôture de l'exercice, homologuée par le garde des sceaux, ministre de la justice, figure ci-dessous :
+La norme d'exercice professionnel relative aux évènements postérieurs à la clôture de l'exercice, homologuée par le garde des sceaux, ministre de la justice, figure ci-dessous :
 
-NORME D'EXERCICE PROFESSIONNEL RELATIVE AUX ÉVÉNEMENTS POSTÉRIEURS À LA CLÔTURE DE L'EXERCICE
+ÉVÉNEMENTS POSTÉRIEURS À LA CLÔTURE DE L'EXERCICE
 
 Introduction
 
-1. Entre la date de clôture de l'exercice et la date d'approbation des comptes, le commissaire aux comptes peut identifier des événements qui doivent faire l'objet d'un traitement comptable ou d'une information à l'organe appelé à statuer sur les comptes. Ces événements sont qualifiés d'« événements postérieurs ».
+1. Entre la date de clôture de l'exercice et la date d'approbation des comptes, le commissaire aux comptes peut identifier des événements qui doivent faire l'objet d'un traitement comptable ou d'une information à l'organe appelé à statuer sur les comptes. Ces événements sont qualifiés d'"événements postérieurs".
 
 2. Les référentiels comptables applicables définissent les événements postérieurs qui doivent faire l'objet d'un traitement comptable.
 
 Ce sont les événements survenus entre la date de clôture de l'exercice et la date d'arrêté des comptes :
 
-― qui ont un lien direct avec des situations qui existaient à la date de clôture de l'exercice et doivent donner lieu à un enregistrement comptable ;
+-qui ont un lien direct avec des situations qui existaient à la date de clôture de l'exercice et doivent donner lieu à un enregistrement comptable ;
 
-― ou qui doivent faire l'objet d'une information dans l'annexe.
+-ou qui doivent faire l'objet d'une information dans l'annexe.
 
 Au-delà de la date d'arrêté des comptes, aucun traitement comptable des événements postérieurs n'est prévu.
 
@@ -26,9 +26,9 @@ Lorsqu'ils surviennent au-delà de cette date, ils font l'objet d'une communicat
 
 4. La présente norme a pour objet de définir :
 
-― les procédures d'audit que le commissaire aux comptes met en œuvre pour identifier les événements postérieurs ;
+-les procédures d'audit que le commissaire aux comptes met en œuvre pour identifier les événements postérieurs ;
 
-― les incidences des événements postérieurs identifiés par le commissaire aux comptes sur son rapport ou sur l'information des organes compétents.
+-les incidences des événements postérieurs identifiés par le commissaire aux comptes sur son rapport ou sur l'information des organes compétents.
 
 Ces incidences sont différentes selon la date à laquelle le commissaire aux comptes identifie les événements postérieurs et selon la date de survenance de ces événements.
 
@@ -38,15 +38,15 @@ Identification des événements postérieurs
 
 6. Pour ce faire, le commissaire aux comptes peut notamment :
 
-― prendre connaissance des procédures mises en place par la direction pour identifier ces événements ;
+-prendre connaissance des procédures mises en place par la direction pour identifier ces événements ;
 
-― consulter les procès-verbaux ou les comptes rendus des réunions tenues par l'organe appelé à statuer sur les comptes, par l'organe d'administration ou de surveillance et par la direction après la date de clôture de l'exercice ;
+-consulter les procès-verbaux ou les comptes rendus des réunions tenues par l'organe délibérant et par les organes mentionnés à l'article L. 823-16 du code de commerce après la date de clôture de l'exercice ;
 
-― prendre connaissance, le cas échéant, des dernières situations intermédiaires et des derniers documents prévisionnels établis par l'entité ;
+-prendre connaissance, le cas échéant, des dernières situations intermédiaires et des derniers documents prévisionnels établis par l'entité ;
 
-― s'enquérir auprès des personnes compétentes de l'entité de l'évolution des procès, contentieux et litiges depuis ses derniers contrôles ;
+-s'enquérir auprès des personnes compétentes de l'entité de l'évolution des procès, contentieux et litiges depuis ses derniers contrôles ;
 
-― s'enquérir auprès de la direction de sa connaissance de la survenance d'événements postérieurs.
+-s'enquérir auprès de la direction de sa connaissance de la survenance d'événements postérieurs.
 
 7. Ces procédures sont mises en œuvre jusqu'à une date aussi rapprochée que possible de la date de signature de son rapport par le commissaire aux comptes.
 
