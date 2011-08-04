@@ -4,3 +4,4 @@
 - [Paragraphe 2 : Règles de fonctionnement](paragraphe-2)
 - [Paragraphe 3 : Règles d'investissement](paragraphe-3)
 - [Paragraphe 4 : Organismes de placement collectif  en valeurs mobilières maîtres et nourriciers](paragraphe-4)
+- [Paragraphe 5 : Information des investisseurs](paragraphe-5)

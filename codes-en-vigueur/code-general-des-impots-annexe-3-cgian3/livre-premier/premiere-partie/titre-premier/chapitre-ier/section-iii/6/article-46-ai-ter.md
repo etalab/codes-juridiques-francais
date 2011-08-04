@@ -6,7 +6,7 @@ II. La société de gestion du fonds ou le dépositaire des actifs de ce fonds e
 
 III. En cas de cession ou de rachat de parts, de dissolution du fonds ou de distribution d'une partie de ses avoirs, la société de gestion du fonds ou le dépositaire des actifs de ce fonds est soumis aux obligations définies aux articles 41 duovicies F et 41 duovicies G.
 
-IV. La société de gestion du fonds ou le dépositaire des actifs de ce fonds adresse, à la direction des services fiscaux désignée au I, un état de chacun des inventaires semestriels de l'actif du fonds prévus à l'article D. 214-72 du code monétaire et financier, à l'appui du bilan et du compte de résultats.
+IV. La société de gestion du fonds ou le dépositaire des actifs de ce fonds adresse, à la direction des services fiscaux désignée au I, un état de chacun des inventaires semestriels de l'actif du fonds prévus à l'article D. 214-60  du code monétaire et financier, à l'appui du bilan et du compte de résultats.
 
 V. La société de gestion du fonds ou le dépositaire des actifs de ce fonds délivre, au plus tard le 16 février de l'année civile qui suit celle de la souscription des parts, aux souscripteurs qui entendent bénéficier de la réduction d'impôt prévue au VI de l'article 199 terdecies-0 A du code général des impôts, un état individuel qui mentionne :
 
