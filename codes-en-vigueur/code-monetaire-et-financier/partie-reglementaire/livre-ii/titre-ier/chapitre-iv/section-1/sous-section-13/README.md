@@ -5,8 +5,6 @@
 - [Article R214-77](article-r214-77.md)
 - [Article R214-78](article-r214-78.md)
 - [Article R214-79](article-r214-79.md)
-- [Article R214-80](article-r214-80.md)
-- [Article R214-81](article-r214-81.md)
 - [Article R214-82](article-r214-82.md)
 - [Article R214-83](article-r214-83.md)
 - [Article R214-84](article-r214-84.md)

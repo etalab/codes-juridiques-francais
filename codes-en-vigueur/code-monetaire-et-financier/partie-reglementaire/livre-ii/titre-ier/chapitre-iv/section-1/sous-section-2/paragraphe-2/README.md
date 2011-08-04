@@ -1,0 +1,5 @@
+# Paragraphe 2 : Organismes de placement collectif  en valeurs mobilières destinés à tout souscripteur
+
+- [Sous-paragraphe 1 : Fonds communs de placements à risques](sous-paragraphe-1)
+- [Sous-paragraphe 2 : Fonds communs de placement dans l'innovation](sous-paragraphe-2)
+- [Sous-paragraphe 3 : Fonds d'investissement de proximité](sous-paragraphe-3)

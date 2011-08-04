@@ -2,7 +2,7 @@
 
 Un organisme de placement collectif immobilier peut conclure des contrats constituant des instruments financiers à terme mentionnés à l'article L. 214-94 répondant aux caractéristiques des dérivés de crédit définis par les conventions mentionnées aux articles L. 211-36 et L. 211-36-1, dans les conditions fixées aux articles R. 214-190 et D. 214-192.
 
-Ces instruments financiers à terme permettent de transférer le risque de crédit lié à un instrument mentionné à l'article R. 214-1-1, indépendamment des autres risques liés à cet instrument et respectent les critères qui suivent :
+Ces instruments financiers à terme permettent de transférer le risque de crédit lié à un instrument mentionné à l'article L. 214-20, indépendamment des autres risques liés à cet instrument et respectent les critères qui suivent :
 
 1° Dans des conditions fixées par le règlement général de l'Autorité des marchés financiers, l'organisme de placement collectif immobilier prend en compte de façon appropriée le risque que son cocontractant détienne des informations auxquelles il n'a pas accès ;
 
@@ -16,9 +16,9 @@ c) Une ou plusieurs collectivités territoriales de la Communauté européenne ;
 
 d) Une ou plusieurs personnes morales ayant émis au moins :
 
-i) Soit des titres de créance répondant aux critères définis au II de l'article R. 214-2 ou des titres de créance admis aux négociations sur un marché réglementé au sens du I de l'article R. 214-2, et ayant rendu publique pour au moins une émission de tels titres de créance au moins une notation obtenue auprès d'un organisme figurant sur une liste arrêtée par le ministre chargé de l'économie ;
+i) Soit des titres de créance répondant aux critères définis à l'article R. 214-12 ou des titres de créance admis aux négociations sur un marché réglementé au sens du I de l'article R. 214-11, et ayant rendu publique pour au moins une émission de tels titres de créance au moins une notation obtenue auprès d'un organisme figurant sur une liste arrêtée par le ministre chargé de l'économie ;
 
-ii) Soit des titres de capital admis aux négociations sur un marché réglementé au sens du I de l'article R. 214-2 ;
+ii) Soit des titres de capital admis aux négociations sur un marché réglementé au sens du I de l'article R. 214-11 ;
 
 e) Plusieurs entités relevant des catégories a à d ci-dessus ;
 

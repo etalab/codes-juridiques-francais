@@ -18,4 +18,4 @@ e) Les droits représentatifs d'un placement financier dans des entités mention
 
 f) Ne sont pas prises en compte les participations détenues par la société de capital-risque pour le compte de tiers ou financées grâce au concours de tiers qui en assument les risques financiers.
 
-II. - Pour l'application du quatrième alinéa du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985, la capitalisation boursière d'une société est déterminée conformément au II de l'article R. 214-38 du code monétaire et financier.
+II. - Pour l'application du quatrième alinéa du 1° de l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985, la capitalisation boursière d'une société est déterminée conformément au II de l'article R. 214-35 du code monétaire et financier.

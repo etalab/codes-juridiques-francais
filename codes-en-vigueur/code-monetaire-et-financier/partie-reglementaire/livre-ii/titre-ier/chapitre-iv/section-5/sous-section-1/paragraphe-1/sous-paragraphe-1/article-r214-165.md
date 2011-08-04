@@ -6,7 +6,7 @@ I. - Pour l'appréciation de la limite de 10 % mentionnée à l'article R. 214-1
 
 2° Des immeubles, droits réels mentionnés à l'article R. 214-161 et, le cas échéant, droits de crédit-preneur, détenus directement par les sociétés mentionnées au b ou au c du I de l'article L. 214-92 dont l'organisme détient des participations répondant aux conditions fixées à l'article R. 214-162, au prorata des participations directes et indirectes de l'organisme dans ces sociétés ;
 
-3° Des participations directes relevant de l'article R. 214-163, ainsi que des participations directes détenues par les sociétés mentionnées au 2° du présent article dans des sociétés mentionnées à l'article R. 214-63, au prorata des participations directes et indirectes de l'organisme de placement collectif immobilier dans lesdites sociétés mentionnées au 2° du présent article ;
+3° Des participations directes relevant de l'article R. 214-163, ainsi que des participations directes détenues par les sociétés mentionnées au 2° du présent article dans des sociétés mentionnées à l'article R. 214-163, au prorata des participations directes et indirectes de l'organisme de placement collectif immobilier dans lesdites sociétés mentionnées au 2° du présent article ;
 
 4° Des participations directes dans des organismes mentionnés au e du I de l'article L. 214-92, ainsi que des participations directes détenues par les sociétés mentionnées au 2° du présent article dans les organismes mentionnés audit e, au prorata des participations directes et indirectes de l'organisme de placement collectif immobilier dans lesdites sociétés mentionnées au 2° du présent article.
 
