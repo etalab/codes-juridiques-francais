@@ -9,5 +9,7 @@
 - [Article R474-22](article-r474-22.md)
 - [Article R474-23](article-r474-23.md)
 - [Article R474-24](article-r474-24.md)
+- [Article R474-24-1](article-r474-24-1.md)
 - [Article R474-25](article-r474-25.md)
+- [Article R474-25-1](article-r474-25-1.md)
 - [Article R474-26](article-r474-26.md)

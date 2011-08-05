@@ -1,4 +1,4 @@
-# Section 1
+# Section 1 : Dispositions communes aux délégués  aux prestations familiales
 
 - [Article D474-1](article-d474-1.md)
 - [Article D474-3](article-d474-3.md)
