@@ -1,6 +1,5 @@
-# Section 5 : Du jugement
+# Paragraphe 1 : Dispositions générales
 
-- [Paragraphe 1 : Dispositions générales](paragraphe-1)
 - [Article 462](article-462.md)
 - [Article 463](article-463.md)
 - [Article 464](article-464.md)
@@ -17,7 +16,6 @@
 - [Article 470-2](article-470-2.md)
 - [Article 471](article-471.md)
 - [Article 472](article-472.md)
-- [Article 474](article-474.md)
 - [Article 474-1](article-474-1.md)
 - [Article 475-1](article-475-1.md)
 - [Article 478](article-478.md)

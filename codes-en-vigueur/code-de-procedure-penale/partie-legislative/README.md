@@ -1,7 +1,7 @@
 # Partie législative
 
 - [Article préliminaire](article-preliminaire.md)
-- [Titre préliminaire : De l'action publique et de l'action civile](titre-preliminaire)
+- [Titre préliminaire : Dispositions générales](titre-preliminaire)
 - [Livre Ier : De l'exercice de l'action publique et de l'instruction](livre-ier)
 - [Livre II : Des juridictions de jugement](livre-ii)
 - [Livre III : Des voies de recours extraordinaires](livre-iii)

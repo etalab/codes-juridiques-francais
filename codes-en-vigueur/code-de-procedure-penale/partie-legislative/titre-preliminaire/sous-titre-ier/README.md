@@ -1,7 +1,6 @@
-# Titre préliminaire : Dispositions générales
+# Sous-titre Ier : De l'action publique et de l'action civile
 
 - [Article 1](article-1.md)
-- [Sous-titre Ier : De l'action publique et de l'action civile](sous-titre-ier)
 - [Article 2](article-2.md)
 - [Article 2-1](article-2-1.md)
 - [Article 2-2](article-2-2.md)
@@ -22,7 +21,6 @@
 - [Article 2-17](article-2-17.md)
 - [Article 2-18](article-2-18.md)
 - [Article 2-19](article-2-19.md)
-- [Article 2-20](article-2-20.md)
 - [Article 2-21](article-2-21.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
@@ -32,6 +30,5 @@
 - [Article 6](article-6.md)
 - [Article 6-1](article-6-1.md)
 - [Article 7](article-7.md)
-- [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
