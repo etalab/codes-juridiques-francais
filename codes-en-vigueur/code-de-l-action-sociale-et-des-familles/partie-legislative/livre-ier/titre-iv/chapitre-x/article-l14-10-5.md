@@ -16,7 +16,7 @@ Ces contributions sont arrêtées par décision du directeur de la Caisse nation
 
 2. La deuxième sous-section est relative aux établissements et services mentionnés au 3° de l'article L. 314-3-1 et à ceux du 2° du même article qui accueillent principalement des personnes âgées, ainsi qu'aux maisons pour l'autonomie et l'intégration des malades d'Alzheimer mentionnées à l'article L. 113-3. Elle retrace :
 
-a) En ressources,40 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4, ainsi que la part de la contribution des régimes d'assurance maladie, mentionnée au deuxième alinéa du I de l'article L. 314-3, qui est destinée au financement de ces établissements ou services ;
+a) En ressources, 40 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4, ainsi que la part de la contribution des régimes d'assurance maladie, mentionnée au deuxième alinéa du I de l'article L. 314-3, qui est destinée au financement de ces établissements ou services ;
 
 a bis). Pour l'année 2011, le pourcentage défini au a est fixé à 38 % ;
 
@@ -30,7 +30,7 @@ La dotation globale versée à l'agence mentionnée à l'article L. 312-8 du pr�
 
 II.-Une section consacrée à la prestation d'allocation personnalisée d'autonomie mentionnée à l'article L. 232-1. Elle retrace :
 
-a) En ressources,20 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4, le produit mentionné au 4° du même article et le produit de la contribution sociale généralisée mentionné au 3° du même article, diminué du montant mentionné au IV du présent article ;
+a) En ressources, 20 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4, le produit mentionné au 4° du même article et le produit de la contribution sociale généralisée mentionné au 3° du même article, diminué du montant mentionné au IV du présent article ;
 
 b) En charges, un concours versé aux départements dans la limite des ressources mentionnées au a, destiné à couvrir une partie du coût de l'allocation personnalisée d'autonomie. Le montant de ce concours est réparti selon les modalités prévues à l'article L. 14-10-6.
 
@@ -46,21 +46,13 @@ Sont également retracées en charges les subventions dues à la Caisse national
 
 Avant imputation des contributions aux sections mentionnées aux V et VI, l'ensemble des ressources destinées aux personnes handicapées, soit au titre des établissements et services financés par la sous-section mentionnée au 1 du I, soit au titre de la présente section, doit totaliser 38 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4.
 
-IV.-Une section consacrée à la promotion des actions innovantes, à la formation des aidants familiaux, à la formation des accueillants familiaux mentionnés aux articles L. 441-1 et L. 444-1 et au renforcement de la professionnalisation des métiers de service, qui est divisée en deux sous-sections.
+IV.-Une section consacrée à la promotion des actions innovantes, à la formation des aidants familiaux, à la formation des accueillants familiaux mentionnés aux articles L. 441-1 et L. 444-1 et au renforcement de la professionnalisation des métiers de service exercés auprès des personnes âgées et des personnes handicapées. Elle retrace :
 
-1. La première sous-section, consacrée aux personnes âgées, retrace :
+1° En ressources, une fraction du produit mentionné au 3° de l'article L. 14-10-4, fixée par arrêté conjoint des ministres chargés de l'action sociale, de la sécurité sociale et du budget, qui ne peut être inférieure à 5 % ni supérieure à 12 % de ce produit, d'une part ; une part de la fraction du produit des contributions mentionnées aux 1° et 2° du même article L. 14-10-4 affectée au a du 1 du I du présent article, d'autre part. Cette part est fixée par arrêté conjoint des ministres chargés de l'action sociale, de la sécurité sociale et du budget dans la limite de 12 % de cette fraction ;
 
-a) En ressources, une fraction du produit mentionné au 3° de l'article L. 14-10-4, fixée par arrêté conjoint des ministres chargés de l'action sociale, de la sécurité sociale et du budget, qui ne peut être inférieure à 5 % ni supérieure à 12 % de ce produit ;
+2° En charges, le financement de dépenses de modernisation des services ou de professionnalisation des métiers qui apportent au domicile des personnes âgées dépendantes et des personnes handicapées une assistance dans les actes quotidiens de la vie, de dépenses de formation des aidants familiaux, de dépenses de formation des accueillants familiaux mentionnés aux articles L. 441-1 et L. 444-1 ainsi que de dépenses de formation et de qualification des personnels soignants des établissements et services mentionnés aux 1° et 3° de l'article L. 314-3-1.
 
-b) En charges, le financement de dépenses de modernisation des services ou de professionnalisation des métiers qui apportent au domicile des personnes âgées dépendantes une assistance dans les actes quotidiens de la vie, de dépenses de formation des aidants familiaux, de dépenses de formation des accueillants familiaux mentionnés aux articles L. 441-1 et L. 444-1 ainsi que de dépenses de formation et de qualification des personnels soignants recrutés dans le cadre des mesures de médicalisation des établissements et services mentionnés au 3° de l'article L. 314-3-1.
-
-2. La deuxième sous-section, consacrée aux personnes handicapées, retrace :
-
-a) En ressources, une part de la fraction du produit des contributions mentionnées aux 1° et 2° de l'article L. 14-10-4 affectée au a du 1 du I du présent article ; cette part est fixée par arrêté conjoint des ministres chargés de l'action sociale, de la sécurité sociale et du budget dans la limite de 12 % de cette fraction ;
-
-b) En charges, le financement de dépenses de modernisation des services ou de professionnalisation des métiers qui apportent au domicile des personnes handicapées une assistance dans les actes quotidiens de la vie, de dépenses de formation des aidants familiaux, de dépenses de formation des accueillants familiaux mentionnés aux articles L. 441-1 et L. 444-1 ainsi que de dépenses de formation et de qualification des personnels soignants des établissements et services mentionnés au 1° de l'article L. 314-3-1.
-
-Les projets financés par cette section doivent être agréés par l'autorité compétente de l'Etat qui recueille, le cas échéant, dans les cas et conditions fixés par voie réglementaire, l'avis préalable de la Caisse nationale de solidarité pour l'autonomie.
+La Caisse nationale de solidarité pour l'autonomie peut déléguer une partie des crédits de la section aux agences régionales de santé. Les agences régionales de santé rendent compte annuellement de la conformité de l'utilisation de ces crédits, qui leur sont versés en application du 3° de l'article L. 1432-6 du code de la santé publique, aux objectifs assignés à la présente section.
 
 V.-Une section consacrée au financement des autres dépenses en faveur des personnes handicapées et des personnes âgées dépendantes, qui retrace le financement des autres actions qui entrent dans le champ de compétence de la caisse, au titre desquelles notamment les dépenses d'animation et de prévention, et les frais d'études dans les domaines d'action de la caisse :
 
