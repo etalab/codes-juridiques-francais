@@ -5,3 +5,4 @@
 - [Sous-paragraphe 3 : Dotation globale de fonctionnement.](sous-paragraphe-3)
 - [Sous-paragraphe 4 : Dotation spéciale pour le logement des instituteurs.](sous-paragraphe-4)
 - [Sous-paragraphe 5 : Dotation d'équipement des territoires ruraux.](sous-paragraphe-5)
+- [Sous-paragraphe 6 : Dotation territoriale pour l'investissement des communes](sous-paragraphe-6)
