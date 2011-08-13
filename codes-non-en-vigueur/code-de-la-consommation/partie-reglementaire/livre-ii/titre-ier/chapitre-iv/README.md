@@ -5,7 +5,7 @@
 - [Section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires](section-3)
 - [Section 4 : Organismes génétiquement modifiés](section-4)
 - [Section 5 : Boissons alcoolisées](section-5)
-- [Section 6 :  Arômes](section-6)
+- [Section 6 :  Additifs, enzymes et arômes  destinés à l'alimentation humaine](section-6)
 - [Section 7 : Adjonction de vitamines, de minéraux 
 et de certaines autres substances aux denrées alimentaires](section-7)
 - [Section 8 : Contaminants](section-8)
