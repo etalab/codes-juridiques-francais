@@ -535,7 +535,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td rowspan="2" valign="top">
-<p>Service pénitentiaire d'insertion et de probation de la Dordogne. </p>
+<p>Service pénitentiaire d'insertion et de probation de la Dordogne.</p>
 </td>
 <td rowspan="2" valign="top">
 <p>Périgueux. </p>
@@ -544,8 +544,9 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Antenne de Périgueux-Neuvic. </p>
 </td>
 <td valign="top">
+<p>MCirconscription judiciaire de Périgueux. </p>
 <p>Maison d'arrêt de Périgueux. </p>
-<p>(Arr. 17 sept. 2003, art. 5) Centre de détention de Neuvic-sur-l'Isle. </p>
+<p>Centre de détention de Neuvic-sur-l'Isle. </p>
 </td>
 </tr>
 <tr>
@@ -554,7 +555,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Bergerac. </p>
-<p>(Arr. 17 sept. 2003, art. 5) Centre de détention de Mauzac. </p>
+<p>Centre de détention de Mauzac.</p>
 </td>
 </tr>
 <tr>
