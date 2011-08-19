@@ -6,4 +6,4 @@ Le collège arrête le budget de l'Autorité des marchés financiers chaque ann�
 
 Avant que le collège ne délibère sur le budget, le secrétaire général recueille l'avis du président de la commission des sanctions sur les moyens affectés à son fonctionnement.
 
-Les délibérations du collège relatives au budget et à ses modifications sont exécutoires de plein droit à l'issue du délai dont dispose le commissaire du Gouvernement pour demander une seconde délibération.
+Les délibérations du collège relatives au budget et à ses modifications sont exécutoires de plein droit à l'issue du délai dont dispose le  directeur général du Trésor pour demander une seconde délibération.
