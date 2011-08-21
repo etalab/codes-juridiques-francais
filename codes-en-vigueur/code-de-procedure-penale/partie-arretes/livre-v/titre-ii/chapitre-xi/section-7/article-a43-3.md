@@ -1,6 +1,6 @@
 # Article A43-3
 
-La liste des quartiers des mineurs des maisons d'arrêt ou des établissements pour peines prévue à l'article R. 57-9-11 est fixée comme suit :
+La liste des quartiers des mineurs des maisons d'arrêt ou des établissements pour peines prévue à l'article R. 57-9-9 est fixée comme suit :
 
 Quartier des mineurs de la maison d'arrêt d'Angoulême (Charente) ;
 
@@ -40,7 +40,7 @@ Quartier des mineurs de la maison d'arrêt de Grasse (Alpes-Maritimes) ;
 
 Quartier des mineurs de la maison d'arrêt de Grenoble-Varces (Isère)
 
-Quartier  des mineurs du centre pénitentiaire du Havre (Seine-Maritime) ;
+Quartier des mineurs du centre pénitentiaire du Havre (Seine-Maritime) ;
 
 Quartier des mineurs du centre pénitentiaire de Laon (Aisne) ;
 
@@ -49,8 +49,6 @@ Quartier des mineurs du centre pénitentiaire de Liancourt (Oise) ;
 Quartier des mineurs de la maison d'arrêt de Limoges (Haute-Vienne) ;
 
 Quartier des mineurs de la maison d'arrêt de Longuenesse (Pas-de-Calais) ;
-
-Quartier des mineurs du centre pénitentiaire de Lorient-Plömeur (Morbihan) ;
 
 Quartier des mineurs de la maison d'arrêt de Majicavo (Mayotte) ;
 
