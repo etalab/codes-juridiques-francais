@@ -1,4 +1,4 @@
-# Section 4 : Dispositions pénales
+# Section 4 : Dispositions pénales et sanctions administratives
 
 - [Article R7122-40](article-r7122-40.md)
 - [Article R7122-41](article-r7122-41.md)

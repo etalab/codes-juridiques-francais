@@ -1,6 +1,6 @@
 # Article R7122-18
 
-Une commission consultative régionale donne au préfet son avis sur la délivrance, le renouvellement et le retrait de la licence d'entrepreneur de spectacles.
+Une commission consultative régionale donne au préfet de région son avis sur la délivrance, le renouvellement et le retrait de la licence d'entrepreneur de spectacles.
 
 Elle comprend :
 
