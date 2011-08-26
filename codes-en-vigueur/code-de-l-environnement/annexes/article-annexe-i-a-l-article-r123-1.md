@@ -1,6 +1,5 @@
 # Article Annexe I à l'article R123-1
 
-<div>
 <table>
 <tbody>
 <tr>
@@ -445,14 +444,6 @@
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>34° Travaux d'installation des ouvrages utilisant l'énergie éolienne. </p>
-</td>
-<td valign="top" width="454">
-<p>Travaux d'installation des ouvrages de production d'énergie éolienne dont la hauteur du mât dépasse 50 mètres </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
 <p>35° Premiers boisements soumis à l'autorisation de l'article L. 126-1 du code rural et de la pêche maritime. </p>
 </td>
 <td valign="top" width="454">
@@ -477,4 +468,3 @@
 </tr>
 </tbody>
 </table>
-</div>
