@@ -16,7 +16,7 @@ Pour les marchés d'une durée inférieure ou égale à un an, conclus pour rép
 
 III. - Lorsqu'un achat peut être réalisé par lots séparés, est prise en compte la valeur globale estimée de la totalité de ces lots.
 
-Les pouvoirs adjudicateurs peuvent décider de mettre en oeuvre soit une procédure commune de mise en concurrence pour l'ensemble des lots, soit une procédure de mise en concurrence propre à chaque lot. Quelle que soit l'option retenue, lorsque la valeur cumulée des lots est égale ou supérieure aux seuils prévus au II de l'article 26, la ou les procédures à mettre en oeuvre sont les procédures formalisées mentionnées au I du même article.
+Les pouvoirs adjudicateurs peuvent décider de mettre en oeuvre soit une procédure commune de mise en concurrence pour l'ensemble des lots, soit une procédure de mise en concurrence propre à chaque lot.  Quelle que soit l'option retenue, lorsque la valeur cumulée des lots est égale ou supérieure aux seuils de procédure formalisée définis à l'article 26, la ou les procédures à mettre en œuvre sont les procédures formalisées mentionnées au I de cet article.
 
 Toutefois, même si la valeur totale des lots est égale ou supérieure aux seuils des marchés formalisés, il est possible de recourir à une procédure adaptée :
 
@@ -34,4 +34,4 @@ IV. - Si le pouvoir adjudicateur prévoit des primes au profit des candidats, il
 
 V. - Pour les accords-cadres et pour les systèmes d'acquisition dynamique, la valeur à prendre en compte est la valeur maximale estimée de l'ensemble des marchés envisagés pendant la durée totale de l'accord-cadre ou du système d'acquisition dynamique.
 
-VI. - Pour les marchés à bons de commande comportant un maximum, la valeur à prendre en compte correspond à ce maximum. Si le marché ne fixe pas de maximum, sa valeur estimée est réputée excéder les seuils mentionnés au II de l'article 26 du présent code.
+VI. - Pour les marchés à bons de commande comportant un maximum, la valeur à prendre en compte correspond à ce maximum. Si le marché ne fixe pas de maximum, sa valeur estimée est réputée excéder  les seuils de procédure formalisée définis à l'article 26.

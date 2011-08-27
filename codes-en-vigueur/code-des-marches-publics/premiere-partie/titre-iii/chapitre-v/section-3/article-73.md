@@ -1,19 +1,17 @@
 # Article 73
 
-Lorsque le pouvoir adjudicateur n'est pas en mesure de préciser les buts et performances à atteindre, les techniques à utiliser, les moyens en personnel et en matériel à mettre en oeuvre, il peut recourir aux marchés de définition.
+I. ― Les marchés de réalisation et d'exploitation ou de maintenance sont des marchés publics qui associent l'exploitation ou la maintenance à la réalisation de prestations afin de remplir des objectifs chiffrés de performance définis notamment en termes de niveau d'activité, de qualité de service, d'efficacité énergétique ou d'incidence écologique. Ils comportent des engagements de performance mesurables. La durée du marché tient compte des délais nécessaires à la réalisation de ces objectifs et engagements qui constituent son objet.
 
-Ces marchés ont pour objet d'explorer les possibilités et les conditions d'établissement d'un marché ultérieur, le cas échéant au moyen de la réalisation d'une maquette ou d'un démonstrateur. Ils permettent également d'estimer le niveau du prix des prestations, les modalités de sa détermination et de prévoir les différentes phases de l'exécution des prestations.
+II. ― Les marchés de conception, de réalisation et d'exploitation ou de maintenance sont des marchés publics qui associent l'exploitation ou la maintenance à la conception et à la réalisation de prestations afin de remplir des objectifs chiffrés de performance définis notamment en termes de niveau d'activité, de qualité de service, d'efficacité énergétique ou d'incidence écologique. Ils comportent des engagements de performance mesurables. La durée du marché tient compte des délais nécessaires à la réalisation de ces objectifs et des engagements qui constituent son objet.
 
-Dans le cadre d'une procédure unique, les prestations d'exécution faisant suite à plusieurs marchés de définition ayant un même objet et exécutés simultanément, sont attribuées après remise en concurrence des seuls titulaires des marchés de définition, conformément aux dispositions suivantes :
+Si un tel marché comprend la réalisation de travaux qui relèvent de la loi n° 85-704 du 12 juillet 1985, l'entrepreneur ne peut être associé à la conception que pour la réalisation d'engagements de performance énergétique dans un ou des bâtiments existants, ou pour des motifs d'ordre technique tels que définis à l'article 37.
 
-1° L'avis d'appel public à la concurrence définit l'objet des marchés de définition passés simultanément et l'objet du marché d'exécution ultérieur ;
+Le régime de primes du IV de l'article 69 est applicable aux marchés définis au présent II, quel que soit leur montant estimé.
 
-2° L'avis d'appel public à la concurrence définit les critères de sélection des candidatures. Ces critères tiennent compte des capacités et compétences exigées des candidats tant pour les marchés de définition que pour le marché ultérieur d'exécution ;
+III. ― Lorsque la valeur estimée des marchés mentionnés aux I et II est inférieure aux seuils de procédure formalisée définis à l'article 26 ou lorsque ces marchés relèvent de l'article 30, ils peuvent être passés selon la procédure adaptée prévue à l'article 28.
 
-3° L'avis d'appel public à la concurrence définit les critères de sélection des offres des marchés de définition passés simultanément et les critères de sélection des offres du marché d'exécution ultérieur ;
+Lorsque leur valeur estimée est égale ou supérieure aux seuils de procédure formalisée définis à l'article 26, ces marchés sont passés selon une des procédures prévues au I de cet article. Lorsqu'ils comprennent la réalisation de travaux qui relèvent de la loi n° 85-704 du 12 juillet 1985, les marchés mentionnés au II sont passés selon les règles prévues aux I et II de l'article 69.
 
-4° Le montant des prestations à comparer aux seuils tient compte du montant des études de définition et du montant estimé du marché d'exécution ;
+IV. ― Les marchés mentionnés aux I et II fixent le prix de l'ensemble des prestations et les modalités de rémunération du titulaire. La rémunération de l'exploitation et de la maintenance est liée à l'atteinte de performances mesurées fixées dans le marché pour toute sa durée d'exécution. Les modalités de rémunération se conforment aux dispositions des deux dernières phrases de l'article 10 et de l'article 96 du présent code.
 
-5° Le nombre de marchés de définition passés simultanément dans le cadre de cette procédure ne peut être inférieur à trois, sous réserve d'un nombre suffisant de candidats.
-
-Le marché ou l'accord-cadre est attribué par la commission d'appel d'offres pour les collectivités territoriales.
+Ces marchés prévoient, parmi les critères de choix des offres, le critère de coût global de l'offre ainsi qu'un ou plusieurs critères relatifs aux objectifs de performance prévus aux I et II, définis en fonction de l'objet du marché.

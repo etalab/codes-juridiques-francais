@@ -14,15 +14,15 @@ I.-Les pouvoirs adjudicateurs passent leurs marchés et accords-cadres selon les
 
 II.-Les marchés et accords-cadres peuvent aussi être passés selon une procédure adaptée, dans les conditions définies par l'article 28, lorsque le montant estimé du besoin est inférieur aux seuils suivants :
 
-1° 125 000 € HT pour les fournitures et les services de l'Etat ;
+1° 125 000 € HT pour les marchés de fournitures et de services, non mentionnés aux 2° à 4° ci-dessous, de l'Etat et de ses établissements publics ;
 
-2° 193 000 € HT pour les fournitures et les services des collectivités territoriales et des établissements publics de santé ;
+2° 193 000 € HT pour les marchés de fournitures et de services des collectivités territoriales, des établissements publics de santé et des établissements du service de santé des armées ;
 
-3° 193 000 € HT pour les fournitures acquises par des pouvoirs adjudicateurs opérant dans le domaine de la défense autres que celles figurant dans la liste établie par arrêté conjoint du ministre chargé de l'économie et du ministre chargé de la défense ;
+3° 193 000 € HT pour les marchés de fournitures acquises par des pouvoirs adjudicateurs opérant dans le domaine de la défense autres que celles figurant dans la liste établie par arrêté conjoint du ministre chargé de l'économie et du ministre chargé de la défense ;
 
 4° 193 000 € HT pour les marchés de services de recherche et développement pour lesquels le pouvoir adjudicateur acquiert la propriété exclusive des résultats et qu'il finance entièrement ;
 
-5° 4 845 € HT (1) pour les travaux.
+5° 4 845 000 € HT pour les marchés de travaux.
 
 III.-Les pouvoirs adjudicateurs peuvent aussi mettre en oeuvre une procédure adaptée :
 

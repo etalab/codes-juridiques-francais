@@ -6,7 +6,7 @@ Les dispositions de la première partie du présent code sont applicables à May
 
 2° La référence au département est remplacée par la référence à la collectivité départementale.
 
-3° La référence à la direction générale de la concurrence, de la consommation et de la répression des fraudes est remplacée par la référence au service en charge de la concurrence et la référence au directeur général de la concurrence, de la consommation et de la répression des fraudes est remplacée par la référence au directeur du service en charge de la concurrence.
+3° (Abrogé).
 
 4° Le III de l'article 18 est complété par un alinéa rédigé comme suit :
 
@@ -40,11 +40,11 @@ b) Le 4° est rédigé comme suit :
 
 9° Pour l'application de l'article 55, les dispositions de la seconde phrase du dernier alinéa ne sont pas applicables.
 
-10° Pour l'application de l'article 56, le III est rédigé comme suit :
+10° Pour l'application de l'article 56 :
 
-"III. - 1° Le pouvoir adjudicateur indique dans l'avis d'appel public à la concurrence ou, pour les marchés négociés sans publicité préalable, dans la lettre de consultation le ou les modes de transmission des candidatures et des offres qu'il choisit. En l'absence de mention expresse relative au mode de transmission choisi, le pouvoir adjudicateur est réputé avoir retenu le seul mode de transmission sur support papier. Dans cette hypothèse, les candidatures et les offres transmises par voie électronique sont irrégulières et doivent être rejetées à ce titre.
+a) Le deuxième alinéa du I est complété par les dispositions suivantes : " En l'absence de mention expresse relative au mode de transmission choisi, le pouvoir adjudicateur est réputé avoir retenu le seul mode de transmission sur support papier. Dans cette hypothèse, les candidatures et les offres transmises par voie électronique sont irrégulières et doivent être rejetées. ”
 
-"2° A compter du 1er janvier 2014, le pouvoir adjudicateur sera tenu de recevoir les candidatures et les offres transmises par voie électronique et pourra imposer ce seul mode de transmission dans l'avis d'appel public à la concurrence ou, pour les marchés négociés sans publicité préalable, dans la lettre de consultation."
+b) Les II et III sont applicables à compter du 1er janvier 2014.
 
 11° L'article 98 est rédigé comme suit :
 
@@ -59,3 +59,7 @@ b) Le 4° est rédigé comme suit :
 "Le dépassement du délai de paiement ouvre de plein droit et sans autre formalité, pour le titulaire du marché ou le sous-traitant, le bénéfice d'intérêts moratoires, à compter du jour suivant l'expiration du délai.
 
 "Un décret précise les modalités d'application du présent article à Mayotte."
+
+12° Pour l'application de l'article 40, à la première phrase du 1° et du 2° du III, après les mots : "ainsi que" , sont insérés les mots : ", à compter du 1er janvier 2014," .
+
+13° Pour l'application de l'article 41, au début du troisième alinéa, sont insérés les mots : "A compter du 1er janvier 2014,".

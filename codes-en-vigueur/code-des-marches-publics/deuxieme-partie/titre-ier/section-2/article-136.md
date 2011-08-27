@@ -2,7 +2,7 @@
 
 Les dispositions du présent code ne sont pas applicables aux accords-cadres et marchés suivants passés par les entités adjudicatrices définies à l'article 134 :
 
-1° Accords-cadres et marchés de services conclus avec une entité adjudicatrice soumise à la présente partie ou à l'ordonnance du 6 juin 2005 susmentionnée, lorsque cette entité adjudicatrice bénéficie, sur le fondement d'une disposition légalement prise, d'un droit exclusif, à condition que cette disposition soit compatible avec le traité instituant la Communauté européenne ;
+1° Accords-cadres et marchés de services conclus avec une entité adjudicatrice soumise à la présente partie ou à l'ordonnance du 6 juin 2005 susmentionnée, lorsque cette entité adjudicatrice bénéficie, sur le fondement d'une disposition légalement prise, d'un droit exclusif, à condition que cette disposition soit compatible avec   le traité sur le fonctionnement de l'Union européenne ;
 
 2° Accords-cadres et marchés de services qui ont pour objet l'acquisition ou la location, quelles qu'en soient les modalités financières, de terrains, de bâtiments existants ou d'autres biens immeubles, ou qui concernent d'autres droits sur ces biens ; toutefois, les contrats de services financiers conclus en relation avec le contrat d'acquisition ou de location, sous quelque forme que ce soit, entrent dans le champ d'application de la présente partie ;
 

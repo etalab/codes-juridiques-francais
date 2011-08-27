@@ -5,5 +5,3 @@ Les marchés et accords-cadres d'un montant égal ou supérieur à 20 000 euros 
 Pour les marchés passés selon les procédures formalisées, l'acte d'engagement et, le cas échéant, les cahiers des charges en sont les pièces constitutives.
 
 L'acte d'engagement est la pièce signée par un candidat à un accord-cadre ou à un marché public dans laquelle le candidat présente son offre ou sa proposition dans le respect des clauses du cahier des charges qui déterminent les conditions dans lesquelles le marché est exécuté. Cet acte d'engagement est ensuite signé par le pouvoir adjudicateur.
-
-Lorsque les offres sont transmises par voie électronique, la signature de l'acte d'engagement est présentée selon les modalités prévues par un arrêté du ministre chargé de l'économie.

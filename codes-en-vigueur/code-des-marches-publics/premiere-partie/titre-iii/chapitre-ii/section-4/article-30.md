@@ -4,7 +4,7 @@ I.-Les marchés et les accords-cadres ayant pour objet des prestations de servic
 
 II.-Toutefois :
 
-1° Les dispositions du III de l'article 40 ne sont pas applicables ;
+1° Les dispositions du III de l'article 40 et du troisième alinéa de l'article 41 ne sont pas applicables ;
 
 2° Lorsque le montant estimé des prestations demandées est égal ou supérieur à 193 000 euros HT, elles sont définies conformément aux dispositions de l'article 6 et le marché fait l'objet d'un avis d'attribution dans les conditions fixées à l'article 85 ;
 

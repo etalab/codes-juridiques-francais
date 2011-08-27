@@ -4,4 +4,4 @@ Sous réserve des dispositions fixant la durée maximale pour les accords-cadres
 
 Un marché peut prévoir une ou plusieurs reconductions à condition que ses caractéristiques restent inchangées et que la mise en concurrence ait été réalisée en prenant en compte la durée totale du marché, périodes de reconduction comprises.
 
-Le pouvoir adjudicateur prend par écrit la décision de reconduire ou non le marché. Le titulaire du marché ne peut refuser sa reconduction sauf stipulation contraire prévue dans le marché.
+Sauf  stipulation contraire, la reconduction prévue dans le marché est tacite et le titulaire ne peut s'y opposer.

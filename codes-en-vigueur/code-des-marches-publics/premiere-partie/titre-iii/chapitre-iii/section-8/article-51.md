@@ -10,7 +10,7 @@ II. - Dans les deux formes de groupements, l'un des opérateurs économiques mem
 
 Si le marché le prévoit, le mandataire du groupement conjoint est solidaire, pour l'exécution du marché, de chacun des membres du groupement pour ses obligations contractuelles à l'égard du pouvoir adjudicateur.
 
-III. - En cas de groupement conjoint, l'acte d'engagement est un document unique qui indique le montant et la répartition détaillée des prestations que chacun des membres du groupement s'engage à exécuter.
+III. - En cas de groupement conjoint, l'acte d'engagement est un document unique qui indique le montant et la répartition détaillée des prestations que chacun des membres du groupement s'engage à exécuter. Pour les accords-cadres et les marchés à bons de commande, l'acte d'engagement peut n'indiquer que la répartition des prestations.
 
 En cas de groupement solidaire, l'acte d'engagement est un document unique qui indique le montant total du marché et l'ensemble des prestations que les membres du groupement s'engagent solidairement à réaliser.
 
