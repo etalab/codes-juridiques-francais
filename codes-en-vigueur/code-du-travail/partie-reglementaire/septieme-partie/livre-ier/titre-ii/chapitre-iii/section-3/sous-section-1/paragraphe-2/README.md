@@ -1,4 +1,4 @@
-# Paragraphe 2 : Retrait, renouvellement et refus de licence
+# Paragraphe 2 : Refus, suspension et retrait de licence d'agence de mannequins
 
 - [Article R7123-11](article-r7123-11.md)
 - [Article R7123-12](article-r7123-12.md)
