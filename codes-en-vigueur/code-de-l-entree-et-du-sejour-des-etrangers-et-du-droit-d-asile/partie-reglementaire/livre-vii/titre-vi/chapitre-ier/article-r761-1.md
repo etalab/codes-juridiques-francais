@@ -12,7 +12,7 @@ b) Au cinquième alinéa, les mots " le préfet sont remplacés par les mots : "
 
 2° Au troisième alinéa de l'article R. 723-2 :
 
-a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'          Office français de l'immigration et de l'intégration  " sont remplacés par les mots : " au représentant de l'Etat à Mayotte " ;
+a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l' Office français de l'immigration et de l'intégration " sont remplacés par les mots : " au représentant de l'Etat à Mayotte " ;
 
 b) Les mots : " au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en font la demande " sont remplacés par les mots : " au représentant de l'Etat à Mayotte, lorsque celui-ci en fait la demande " ;
 
@@ -24,11 +24,11 @@ b) Les mots : " au préfet intéressé et, à Paris, au préfet de police, lorsq
 
 6° A l'article R. 733-20 :
 
-a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'          Office français de l'immigration et de l'intégration  " sont remplacés par les mots : " le représentant de l'Etat à Mayotte " ;
+a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l' Office français de l'immigration et de l'intégration " sont remplacés par les mots : " le représentant de l'Etat à Mayotte " ;
 
 b) Au deuxième alinéa, les mots : " au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande " sont remplacés par les mots : " au représentant de l'Etat à Mayotte, lorsque celui-ci en fait la demande " ;
 
-7° A l'article R. 733-22, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile, qui doivent produire leurs observations " sont remplacés par les mots : " au représentant de l'Etat à Mayotte, qui doit produire ses observations », au premier alinéa de l'article R. 733-23, les mots : du ministre de l'intérieur et du ministre chargé de l'asile » sont remplacés par les mots : du représentant de l'Etat à Mayotte » et au troisième alinéa du même article, les mots : au ministre de l'intérieur et au ministre chargé de l'asile » sont remplacés par les mots : au représentant de l'Etat à Mayotte ;
+7° A l'article R. 733-22, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile, qui doivent produire leurs observations " sont remplacés par les mots : " au représentant de l'Etat à Mayotte, qui doit produire ses observations , au premier alinéa de l'article R. 733-23, les mots : du ministre de l'intérieur et du ministre chargé de l'asile  sont remplacés par les mots : du représentant de l'Etat à Mayotte et au troisième alinéa du même article, les mots : au ministre de l'intérieur et au ministre chargé de l'asile sont remplacés par les mots : au représentant de l'Etat à Mayotte ;
 
 8° A l'article R. 741-2 :
 
@@ -74,10 +74,12 @@ c) Au troisième alinéa, les mots : " à l'article L. 314-4 " sont remplacés p
 
 13° A l'article R. 742-6 :
 
-a) Les mots : " à l'article R. 313-1 " et : " aux articles R. 313-35 et R. 313-36 " sont remplacés par les mots : " par l'ordonnance n° 2000-373 du 26 avril 2000 " ;
+a) Les mots : "à l'article R. 313-1" et : " aux articles R. 313-35 et R. 313-36 " sont remplacés par les mots : " par l'ordonnance n° 2000-373 du 26 avril 2000 " ;
 
 b) Les mots : " à l'article L. 314-4 " sont remplacés par les mots :
 
 " à l'article 24 de l'ordonnance n° 2000-373 du 26 avril 2000 " ;
 
-c) Les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'article 17 de l'ordonnance n° 2000-373 du 26 avril 2000 ".
+c) Les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'article 17 de l'ordonnance n° 2000-373 du 26 avril 2000 " ;
+
+14° A l'article R. 751-2, les mots : "en France" sont remplacés par les mots : "à Mayotte".
