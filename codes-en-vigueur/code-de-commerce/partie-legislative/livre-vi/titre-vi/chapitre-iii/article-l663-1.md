@@ -8,7 +8,7 @@ I.-Lorsque les fonds disponibles du débiteur n'y peuvent suffire immédiatement
 
 3° Et à l'exercice des actions visées aux articles L. 653-3 à L. 653-6.
 
-L'accord du ministère public n'est pas nécessaire pour l'avance de la rémunération des officiers publics désignés par le tribunal en application des articles L. 621-4, L. 621-12, L. 622-6-1, L. 622-10, L. 631-9 ou L. 641-1 pour réaliser l'inventaire prévu à l'article L. 622-6 et, le cas échéant, la prisée des actifs du débiteur.
+L'accord du ministère public n'est pas nécessaire pour l'avance de la rémunération des officiers publics ou des courtiers de marchandises assermentés désignés par le tribunal en application des articles L. 621-4, L. 621-12, L. 622-6-1, L. 622-10, L. 631-9 ou L. 641-1 pour réaliser l'inventaire prévu à l'article L. 622-6 et, le cas échéant, la prisée des actifs du débiteur.
 
 II.-Le Trésor public sur ordonnance motivée du président du tribunal, fait également l'avance des mêmes frais afférents à l'exercice de l'action en résolution et en modification du plan.
 
