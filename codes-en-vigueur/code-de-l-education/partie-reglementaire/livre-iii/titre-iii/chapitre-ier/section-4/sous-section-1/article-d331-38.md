@@ -4,4 +4,4 @@ Le choix des enseignements optionnels, champs et spécialités d'une voie d'orie
 
 L'affectation est de la compétence de l'inspecteur d'académie, sous l'autorité du recteur, pour les formations implantées dans le département.L'affectation de l'élève, à l'issue d'un cycle, dans la voie d'orientation du cycle supérieur est réalisée en fonction des décisions d'orientation et des choix des parents de l'élève ou de l'élève majeur.
 
-Le changement d'établissement en cours de cycle de formation est autorisé par l'inspecteur d'académie dont relève l'établissement d'accueil. L'élève est scolarisé dans la même voie d'orientation et compte tenu de la formation déjà reçue.
+Le changement d'établissement en cours de cycle de formation est autorisé par l'inspecteur d'académie dont relève l'établissement d'accueil. L'élève est scolarisé dans la même voie d'orientation ou dans une voie d'orientation différente, en vertu d'un changement prononcé dans les conditions définies à l'article D. 331-29 et compte tenu de la formation déjà reçue.
