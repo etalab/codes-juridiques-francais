@@ -1,8 +1,8 @@
 # Article R336-4
 
-I. - Les dispositions du chapitre préliminaire et des chapitres Ier à V du présent titre, à l'exception des articles R. 331-1, R. 331-3, R. 334-48 à R. 334-60 et R. 335-4, sont applicables aux îles Wallis et Futuna sous réserve des adaptations prévues au II.
+I.-Les dispositions du chapitre préliminaire et des chapitres Ier à V du présent titre, à l'exception des articles R. 331-1, R. 331-3, R. 334-48 à R. 334-60 et R. 335-4, sont applicables aux îles Wallis et Futuna sous réserve des adaptations prévues au II.
 
-II. - Pour l'application du présent titre dans les îles Wallis et Futuna :
+II.-Pour l'application du présent titre dans les îles Wallis et Futuna :
 
 1° Le représentant de l'Institut d'émission d'outre-mer à la commission est le directeur de l'agence locale de l'institut. Il peut se faire représenter par l'un de ses adjoints ;
 
@@ -16,13 +16,13 @@ II. - Pour l'application du présent titre dans les îles Wallis et Futuna :
 
 6° Les références aux dispositions du code du travail sont remplacées par les références aux dispositions applicables localement ayant le même objet ;
 
-7° Les références au " juge de l'exécution " ou au " juge " sont remplacées par les références au " président du tribunal de première instance, ou les juges délégués par lui, " ou au " président du tribunal de première instance, ou des juges délégués par lui, " ;
+7° Les références au " juge du tribunal d'instance " ou au " juge " sont remplacées par les références au " président du tribunal de première instance, ou les juges délégués par lui, " ou au " président du tribunal de première instance, ou des juges délégués par lui, " ;
 
 8° La référence au service chargé de la publicité foncière est remplacée par la référence au greffe du tribunal de première instance ;
 
 9° En l'absence d'adaptation, les références faites par des dispositions du présent code applicables dans les îles Wallis et Futuna, à des dispositions qui n'y sont pas applicables, sont remplacées par les références aux dispositions ayant le même objet applicables localement.
 
-III. - Pour leur application dans les îles Wallis et Futuna, les articles ci-après sont adaptés comme suit :
+III.-Pour leur application dans les îles Wallis et Futuna, les articles ci-après sont adaptés comme suit :
 
 1° A l'article R. 331-2 :
 

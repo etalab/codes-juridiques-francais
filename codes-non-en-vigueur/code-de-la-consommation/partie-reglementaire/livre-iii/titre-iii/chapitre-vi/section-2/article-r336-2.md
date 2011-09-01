@@ -1,8 +1,8 @@
 # Article R336-2
 
-I. - Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues aux II et III, l'article R. 331-2, l'article R. 331-4, les articles R. 331-5 à R. 331-8-4, l'article R. 331-10, l'article R. 331-11, le premier alinéa de l'article R. 331-11-1, le premier et le deuxième alinéa de l'article R. 331-11-2, le premier alinéa de l'article R. 331-12, les articles R. 332-1 à R. 333-3, les articles R. 334-1 à R. 334-13, à l'exception de l'article R. 334-11 et de l'article R. 334-12, l'article R. 334-15, l'article R. 334-18, les articles R. 334-19 à R. 334-24, à l'exception de l'article R. 334-22, l'article R. 334-27, l'article R. 334-28, l'article R. 334-30, les articles R. 334-32 à R. 334-34, les articles R. 334-36 à R. 334-38, à l'exception du dernier alinéa de l'article R. 334-38, le I, à l'exception de la dernière phrase, et le II de l'article R. 334-39, l'article R. 334-40, à l'exception du dernier alinéa, l'article R. 334-41, les articles R. 334-43 à R. 334-47, à l'exception de la dernière phrase de l'article R. 334-44 et de la dernière phrase de l'article R. 334-47, l'article R. 334-61, l'article R. 334-68, l'article R. 334-71, l'article R. 334-72, l'article R. 334-76 et l'article R. 335-1.
+I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues aux II et III, l'article R. 331-2, l'article R. 331-4, les articles R. 331-5 à R. 331-8-4, l'article R. 331-10, l'article R. 331-11, le premier alinéa de l'article R. 331-11-1, le premier et le deuxième alinéa de l'article R. 331-11-2, le premier alinéa de l'article R. 331-12, les articles R. 332-1 à R. 333-3, les articles R. 334-1 à R. 334-13, à l'exception de l'article R. 334-11 et de l'article R. 334-12, l'article R. 334-15, l'article R. 334-18, les articles R. 334-19 à R. 334-24, à l'exception de l'article R. 334-22, l'article R. 334-27, l'article R. 334-28, l'article R. 334-30, les articles R. 334-32 à R. 334-34, les articles R. 334-36 à R. 334-38, à l'exception du dernier alinéa de l'article R. 334-38, le I, à l'exception de la dernière phrase, et le II de l'article R. 334-39, l'article R. 334-40, à l'exception du dernier alinéa, l'article R. 334-41, les articles R. 334-43 à R. 334-47, à l'exception de la dernière phrase de l'article R. 334-44 et de la dernière phrase de l'article R. 334-47, l'article R. 334-61, l'article R. 334-68, l'article R. 334-71, l'article R. 334-72, l'article R. 334-76 et l'article R. 335-1 .
 
-II. - Pour l'application du présent titre en Nouvelle-Calédonie :
+II.-Pour l'application du présent titre en Nouvelle-Calédonie :
 
 1° Le représentant de l'Institut d'émission d'outre-mer à la commission est le directeur de l'agence locale de l'institut. Il peut se faire représenter par l'un de ses adjoints ;
 
@@ -14,15 +14,15 @@ II. - Pour l'application du présent titre en Nouvelle-Calédonie :
 
 5° Les mots : " Bulletin officiel des annonces civiles et commerciales " sont remplacés par les mots : " Journal officiel de la Nouvelle-Calédonie " ;
 
-6° Les références aux dispositions du code du travail sont remplacées par les références aux dispositions applicables localement ayant le même objet ;
+6° Les références aux dispositions du  code du travail sont remplacées par les références aux dispositions applicables localement ayant le même objet ;
 
-7° Les références au " juge de l'exécution " ou au " juge " sont remplacées par les références au " président du tribunal de première instance, ou les juges délégués par lui, " ou par les références au " président du tribunal de première instance, ou des juges délégués par lui, " ;
+7° Les références au " juge du tribunal d'instance " ou au " juge " sont remplacées par les références au " président du tribunal de première instance, ou les juges délégués par lui, " ou par les références au " président du tribunal de première instance, ou des juges délégués par lui, " ;
 
 8° La référence au service chargé de la publicité foncière est remplacée par la référence au service de la conservation des hypothèques ;
 
 9° En l'absence d'adaptation, les références faites par des dispositions du présent code applicables en Nouvelle-Calédonie, à des dispositions qui n'y sont pas applicables, sont remplacées par les références aux dispositions ayant le même objet applicables localement.
 
-III. - Pour leur application en Nouvelle-Calédonie :
+III.-Pour leur application en Nouvelle-Calédonie :
 
 1° A l'article R. 331-2 :
 

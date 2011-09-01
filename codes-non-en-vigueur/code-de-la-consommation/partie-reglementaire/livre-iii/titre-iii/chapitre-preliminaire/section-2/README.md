@@ -1,4 +1,4 @@
-# Section 2 : Le juge de l'exécution
+# Section 2 : Le juge du tribunal d'instance
 
 - [Article R331-9](article-r331-9.md)
 - [Article R331-9-1](article-r331-9-1.md)
