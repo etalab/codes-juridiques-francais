@@ -6,7 +6,7 @@ En qualité d'organe exécutif de l'établissement, le chef d'établissement :
 
 2° A autorité sur le personnel recruté par l'établissement ;
 
-3° Préside le conseil d'administration, le conseil de perfectionnement et de la formation professionnelle et le conseil de discipline ;
+3° Préside le conseil d'administration, le conseil de perfectionnement et de la formation professionnelle, le conseil de discipline et la commission éducative ;
 
 4° Est ordonnateur des recettes et des dépenses de l'établissement ;
 

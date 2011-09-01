@@ -10,4 +10,14 @@ En qualité de représentant de l'Etat au sein de l'établissement, le chef d'é
 
 4° Est responsable de l'ordre dans l'établissement. Il veille au respect des droits et des devoirs de tous les membres de la communauté scolaire et assure l'application du règlement intérieur ;
 
-5° Engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes ; à l'égard des élèves, il prononce seul les sanctions mentionnées à l'article 6 du décret n° 85-1242 du 25 novembre 1985 relatif aux établissements publics locaux d'enseignement relevant du ministre chargé de le mer, sans préjudice de l'application des sanctions prévues par le règlement intérieur.
+5° Engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes.
+
+A l'égard des élèves, il est tenu, dans les cas suivants, d'engager une procédure disciplinaire, soit dans les conditions prévues à l'article R. 421-85-1, soit en saisissant le conseil de discipline :
+
+a) Lorsque l'élève est l'auteur de violence verbale à l'égard d'un membre du personnel de l'établissement ;
+
+b) Lorsque l'élève commet un acte grave à l'égard d'un membre du personnel ou d'un autre élève.
+
+Il peut prononcer sans saisir le conseil de discipline les sanctions mentionnées à l'article R. 511-16 ainsi que les mesures de prévention, d'accompagnement et les mesures alternatives aux sanctions prévues au règlement intérieur.
+
+Il est tenu de saisir le conseil de discipline lorsqu'un membre du personnel de l'établissement a été victime de violence physique.

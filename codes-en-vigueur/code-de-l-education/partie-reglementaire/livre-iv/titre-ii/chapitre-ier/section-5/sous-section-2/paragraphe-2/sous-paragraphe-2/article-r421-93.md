@@ -1,6 +1,6 @@
 # Article R421-93
 
-Le règlement intérieur adopté par le conseil d'administration définit les droits et les devoirs de chacun des membres de la communauté scolaire. Il détermine notamment les modalités selon lesquelles sont mis en application :
+Le règlement intérieur adopté par le conseil d'administration définit les droits et les devoirs de chacun des membres de la communauté scolaire. Il rappelle les règles de civilité et de comportement. Il détermine notamment les modalités selon lesquelles sont mis en application :
 
 1° Le respect des principes de laïcité et de pluralisme ;
 
