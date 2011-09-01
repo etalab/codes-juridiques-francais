@@ -8,7 +8,7 @@ Les titres en vertu desquels il agit ;
 
 La somme qui lui est due ;
 
-L'élection de domicile par lui faite dans le lieu où siège le tribunal de grande instance et dans le lieu où le bateau saisi est amarré ;
+L'élection de domicile par lui faite dans le lieu où siège le juge de l'exécution et dans le lieu où le bateau saisi est amarré ;
 
 Les nom, prénoms, profession et domicile du propriétaire du bateau saisi ;
 

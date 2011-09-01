@@ -6,6 +6,7 @@
 - [Article L532-4](article-l532-4.md)
 - [Article L532-5](article-l532-5.md)
 - [Article L532-6](article-l532-6.md)
+- [Article L532-6-1](article-l532-6-1.md)
 - [Article L532-7](article-l532-7.md)
 - [Article L532-8](article-l532-8.md)
 - [Article L532-9](article-l532-9.md)
