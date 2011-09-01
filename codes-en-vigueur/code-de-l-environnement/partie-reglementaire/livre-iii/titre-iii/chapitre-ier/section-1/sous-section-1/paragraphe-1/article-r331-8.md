@@ -6,7 +6,7 @@ Le préfet soumet à l'enquête publique, dans les conditions prévues par les a
 
 2° Un document présentant les composantes du patrimoine naturel, culturel et paysager qui confèrent aux espaces du coeur du parc le caractère justifiant leur classement et comportant l'exposé des règles dont l'édiction est envisagée pour la protection de ces espaces ;
 
-3° Le projet de charte et le projet de composition du conseil d'administration de l'établissement public du parc ;
+3° Le projet de charte, le rapport environnemental, l'avis émis par la formation d'autorité environnementale du Conseil général de l'environnement et du développement durable ainsi que le projet de composition du conseil d'administration de l'établissement public du parc ;
 
 4° Un document graphique indiquant les espaces inclus dans le coeur du parc ainsi que les espaces situés dans les communes ayant vocation à adhérer à la charte ;
 
