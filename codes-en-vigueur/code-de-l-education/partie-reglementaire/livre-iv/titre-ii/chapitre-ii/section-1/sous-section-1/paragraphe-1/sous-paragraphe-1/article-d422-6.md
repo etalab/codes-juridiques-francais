@@ -6,7 +6,7 @@ En qualité d'organe exécutif de l'établissement, le chef d'établissement :
 
 2° A autorité sur le personnel n'ayant pas le statut de fonctionnaire de l'Etat, recruté par l'établissement ;
 
-3° Préside le conseil d'administration, la commission permanente, l'assemblée générale des délégués des élèves et le conseil des délégués pour la vie lycéenne ;
+3° Préside le conseil d'administration, la commission permanente, la commission éducative, l'assemblée générale des délégués des élèves et le conseil des délégués pour la vie lycéenne ;
 
 4° Est ordonnateur des recettes et des dépenses de l'établissement ;
 
@@ -18,4 +18,4 @@ En qualité d'organe exécutif de l'établissement, le chef d'établissement :
 
 8° Conclut tout contrat ou convention après avoir recueilli l'autorisation du conseil d'administration. Il informe le conseil d'administration dans sa séance la plus proche des marchés conclus sans autorisation préalable dans les cas prévus à l'article D. 422-16 et tient à disposition des membres de ce dernier les documents y afférents ;
 
-Lorsque, pour la mise en œuvre de ses missions de formation continue, l'établissement est associé à un groupement d'établissements n'ayant pas le caractère de groupement d'intérêt public, le chef d'établissement vise les conventions s'inscrivant dans le programme des actions de formation continue de son établissement qui ont été signées par l'ordonnateur de l'établissement, dit « établissement support » auquel a été confiée la gestion du groupement. Il soumet ces conventions à l'approbation du conseil d'administration lorsqu'elles engagent les finances de l'établissement ou sont susceptibles d'entraîner des conséquences sur la formation initiale et la vie scolaire.
+Lorsque, pour la mise en œuvre de ses missions de formation continue, l'établissement est associé à un groupement d'établissements n'ayant pas le caractère de groupement d'intérêt public, le chef d'établissement vise les conventions s'inscrivant dans le programme des actions de formation continue de son établissement qui ont été signées par l'ordonnateur de l'établissement, dit établissement support auquel a été confiée la gestion du groupement. Il soumet ces conventions à l'approbation du conseil d'administration lorsqu'elles engagent les finances de l'établissement ou sont susceptibles d'entraîner des conséquences sur la formation initiale et la vie scolaire.

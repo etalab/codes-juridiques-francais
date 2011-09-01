@@ -6,7 +6,7 @@ Le chef d'établissement est l'organe exécutif de l'établissement. Il exerce l
 
 2° Il a autorité sur l'ensemble des personnels affectés ou mis à la disposition de l'établissement. Il fixe le service des personnels dans le respect du statut de ces derniers ;
 
-3° Il préside le conseil d'administration, la commission permanente, le conseil de discipline et le conseil des délégués des élèves ;
+3° Il préside le conseil d'administration, la commission permanente, le conseil de discipline, la commission éducative et le conseil des délégués des élèves ;
 
 4° Il est ordonnateur des recettes et des dépenses de l'établissement ;
 
@@ -24,8 +24,14 @@ Le chef d'établissement est l'organe exécutif de l'établissement. Il exerce l
 
 11° Il est responsable de l'ordre dans l'établissement. Il veille au respect des droits et des devoirs de tous les membres de la communauté scolaire et assure l'application du règlement intérieur ;
 
-12° Il engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes. A l'égard des élèves, il prononce seul les sanctions mentionnées à l'article 12 du décret n° 95-592 du 6 mai 1995 relatif à l'organisation et au fonctionnement des établissements d'enseignement français en Principauté d'Andorre, sans préjudice de l'application des sanctions prévues par le règlement intérieur.
+12° Il engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes.
 
-Le chef d'établissement recherche avec l'équipe éducative, dans la mesure du possible avant la mise en œuvre d'une procédure disciplinaire, toute mesure utile de nature éducative.
+A l'égard des élèves, il est tenu, dans les cas suivants, d'engager une procédure disciplinaire, soit dans les conditions prévues à l'article D. 454-12-1, soit en saisissant le conseil de discipline :
 
-Le chef d'établissement rend compte de sa gestion au conseil d'administration et en informe le délégué à l'enseignement et le recteur de l'académie de Montpellier.
+a) Lorsque l'élève est l'auteur de violence verbale à l'égard d'un membre du personnel de l'établissement ;
+
+b) Lorsque l'élève commet un acte grave à l'égard d'un membre du personnel ou d'un autre élève.
+
+Il peut prononcer sans saisir le conseil de discipline les sanctions mentionnées à l'article R. 511-15, ainsi que les mesures de prévention, d'accompagnement et les mesures alternatives aux sanctions prévues au règlement intérieur.
+
+Il est tenu de saisir le conseil de discipline lorsqu'un membre du personnel de l'établissement a été victime de violence physique.
