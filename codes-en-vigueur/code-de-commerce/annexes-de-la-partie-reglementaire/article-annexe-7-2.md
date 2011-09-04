@@ -29,7 +29,6 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td colspan="4">
-<br/>
 <p align="center">Cour d'appel d'Agen </p>
 </td>
 </tr>
@@ -89,7 +88,6 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td colspan="4">
-<br/>
 <p align="center">Cour d'appel d'Aix-en-Provence </p>
 </td>
 </tr>
@@ -311,7 +309,6 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td colspan="4">
-<br/>
 <p align="center">Cour d'appel d'Amiens </p>
 </td>
 </tr>
@@ -407,7 +404,6 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td colspan="4">
-<br/>
 <p align="center">Cour d'appel d'Angers </p>
 </td>
 </tr>
@@ -467,7 +463,6 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td colspan="4">
-<br/>
 <p align="center">Cour d'appel de Bastia </p>
 </td>
 </tr>
@@ -509,7 +504,6 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td colspan="4">
-<br/>
 <p align="center">Cour d'appel de Besançon </p>
 </td>
 </tr>
@@ -587,7 +581,6 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td colspan="4">
-<br/>
 <p align="center">Cour d'appel de Bordeaux </p>
 </td>
 </tr>
@@ -683,7 +676,6 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td colspan="4">
-<br/>
 <p align="center">Cour d'appel de Bourges </p>
 </td>
 </tr>
@@ -743,7 +735,6 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </tr>
 <tr>
 <td colspan="4">
-<br/>
 <p align="center">Cour d'appel de Caen </p>
 </td>
 </tr>
@@ -1178,11 +1169,11 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </td>
 <td>
 <br/>
-<p align="center">19 </p>
+<p align="center">26 </p>
 </td>
 <td>
 <br/>
-<p align="center">3 </p>
+<p align="center">4 </p>
 </td>
 </tr>
 <tr>
