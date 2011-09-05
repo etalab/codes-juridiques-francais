@@ -1,4 +1,4 @@
-# Article R811-145
+# Article D811-145
 
 A l'issue de la classe de troisième, l'enseignement professionnel du second degré comprend :
 

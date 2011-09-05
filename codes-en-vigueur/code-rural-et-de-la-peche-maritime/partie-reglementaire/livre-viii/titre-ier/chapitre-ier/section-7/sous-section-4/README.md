@@ -1,3 +1,3 @@
 # Sous-section 4 : Dispositions diverses.
 
-- [Article R811-155](article-r811-155.md)
+- [Article D811-155](article-d811-155.md)
