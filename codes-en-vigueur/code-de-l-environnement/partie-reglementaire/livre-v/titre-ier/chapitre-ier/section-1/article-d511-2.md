@@ -1,6 +1,6 @@
 # Article D511-2
 
-Le    Conseil supérieur de la prévention des risques technologiques est composé comme suit :
+Le Conseil supérieur de la prévention des risques technologiques est composé comme suit :
 
 1° Membres de droit :
 
@@ -8,7 +8,7 @@ a) Le directeur général de la prévention des risques au ministère chargé de
 
 b) Le directeur général de la santé au ministère chargé de la santé ou son représentant ;
 
-c) Le directeur de la sécurité civile au ministère de l'intérieur ou son représentant ;
+c) Le    directeur général de la sécurité civile et de la gestion des crises au ministère de l'intérieur ou son représentant ;
 
 d) Le directeur général de la compétitivité, de l'industrie et des services au ministère chargé de l'industrie ou son représentant ;
 
