@@ -14,4 +14,8 @@ Ouvrent droit à toute activité professionnelle salariée :
 
 6° Les autorisations de travail mentionnées aux 8° et 9° de l'article R. 5221-3, dans les conditions prévues respectivement aux articles R. 5221-23 à R. 5221-25, R. 5221-30 et R. 5221-31 ;
 
-7° L'autorisation de travail mentionnée au 10° de l'article R. 5221-3, sous réserve des dispositions du quatrième alinéa de l'article L. 313-12 du code de l'entrée et du séjour des étrangers et du droit d'asile.
+7° L'autorisation de travail mentionnée au 10° de l'article R. 5221-3, sous réserve des dispositions du quatrième alinéa de l'article L. 313-12 du code de l'entrée et du séjour des étrangers et du droit d'asile ;
+
+8° L'autorisation de travail mentionnée au 7° de l'article R. 5221-3 lorsque son renouvellement est obtenu après un séjour de douze mois continus sous son couvert, pour les étrangers titulaires de la carte de résident de longue durée-CE obtenue dans un autre Etat membre de l'Union européenne et mentionnée à l'article L. 313-4-1 du code de l'entrée et du séjour des étrangers et du droit d'asile ;
+
+9° L'autorisation de travail mentionnée au 9° bis de l'article R. 5221-3, à l'issue de la deuxième année de sa période de validité.

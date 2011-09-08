@@ -8,4 +8,6 @@ Lorsqu'il est exigé, le caractère suffisant des ressources est apprécié en t
 
 La charge pour le système d'assistance sociale que peut constituer le ressortissant mentionné à l'article L. 121-1 est évaluée en prenant notamment en compte le montant des prestations sociales non contributives qui lui ont été accordées, la durée de ses difficultés et de son séjour.
 
+En cas de doute, le préfet peut, sans y procéder de façon systématique, vérifier que les conditions mentionnées aux articles L. 121-1, R. 121-6 et R. 121-7 sont satisfaites.
+
 Les ressortissants mentionnés au premier alinéa de l'article L. 121-1 entrés en France pour y rechercher un emploi ne peuvent être éloignés pour un motif tiré de l'irrégularité de leur séjour tant qu'ils sont en mesure de faire la preuve qu'ils continuent à rechercher un emploi et qu'ils ont des chances réelles d'être engagés.

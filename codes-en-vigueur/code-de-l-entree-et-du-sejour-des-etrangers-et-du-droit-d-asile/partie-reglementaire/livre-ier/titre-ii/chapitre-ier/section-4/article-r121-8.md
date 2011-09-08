@@ -14,4 +14,4 @@ c) Lorsque des situations particulièrement difficiles l'exigent, notamment lors
 
 d) Lorsque le conjoint bénéficie, par accord entre les époux ou par décision de justice, d'un droit de visite à l'enfant mineur, à condition que ce droit s'exerce en France et pour la durée nécessaire à son exercice.
 
-Pour l'acquisition du droit de séjour permanent prévu au deuxième alinéa de l'article L. 122-1, ils doivent entrer à titre individuel dans l'une des catégories définies aux 1°, 2°, 4° ou 5° de l'article L. 121-1.
+Avant l'acquisition du droit de séjour permanent prévu au deuxième alinéa de l'article L. 122-1, ils doivent entrer à titre individuel dans l'une des catégories définies aux 1°, 2°, 4° ou 5° de l'article L. 121-1.
