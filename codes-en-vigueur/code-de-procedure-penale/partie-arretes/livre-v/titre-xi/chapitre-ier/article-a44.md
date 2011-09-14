@@ -1861,10 +1861,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top">
+<td rowspan="4" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de Seine-et-Marne. </p>
 </td>
-<td rowspan="3" valign="top">
+<td rowspan="4" valign="top">
 <p>Melun. </p>
 </td>
 <td valign="top">
@@ -1890,8 +1890,14 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Meaux. </p>
-<p>(Arr. 30 mars 2005, art. 2) Centre pénitentiaire de Meaux-Chauconin-Neufmontiers (quartier centre de détention de Meaux inclus). </p>
+<p>(Arr. 30 mars 2005, art. 2) Centre pénitentiaire de Meaux-Chauconin-Neufmontiers (quartier centre de détention inclus). </p>
 </td>
+</tr>
+<tr>
+<td>
+<p align="left">Antenne de Réau. </p>
+</td>
+<td>Centre pénitentiaire Sud francilien.</td>
 </tr>
 <tr>
 <td rowspan="2" valign="top">
