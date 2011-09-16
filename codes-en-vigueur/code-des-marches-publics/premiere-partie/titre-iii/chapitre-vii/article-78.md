@@ -1,6 +1,6 @@
 # Article 78
 
-I. - 1° Un système d'acquisition dynamique est une procédure entièrement électronique de passation de marché public, pour des fournitures et services  courants, par lequel le pouvoir adjudicateur attribue, après mise en concurrence, un ou plusieurs marchés à l'un des opérateurs préalablement sélectionnés sur la base d'une offre indicative.
+I.-1° Un système d'acquisition dynamique est une procédure entièrement électronique de passation de marché public, pour des fournitures et services courants, par lequel le pouvoir adjudicateur attribue, après mise en concurrence, un ou plusieurs marchés à l'un des opérateurs préalablement sélectionnés sur la base d'une offre indicative.
 
 Le système d'acquisition dynamique est créé pour une durée maximale de quatre ans, sauf dans des cas exceptionnels dûment justifiés.
 
@@ -20,9 +20,9 @@ Le pouvoir adjudicateur procède à l'évaluation des candidatures et des offres
 
 Le pouvoir adjudicateur ne peut recourir à ce système de manière à empêcher, restreindre ou fausser la concurrence.
 
-II. - Les marchés passés dans le cadre d'un système d'acquisition dynamique, dits marchés spécifiques, font l'objet d'une mise en concurrence.
+II.-Les marchés passés dans le cadre d'un système d'acquisition dynamique, dits marchés spécifiques, font l'objet d'une mise en concurrence.
 
-1° Avant de procéder à cette mise en concurrence le pouvoir adjudicateur publie un avis de marché simplifié conforme au règlement (CE) n° 1564/2005 susmentionné, invitant tous les opérateurs économiques, qui n'auraient pas déjà présenté une offre indicative dans le cadre de la mise en place du système d'acquisition dynamique, à présenter une offre indicative dans un délai qui ne peut être inférieur à quinze jours à compter de la date d'envoi de l'avis simplifié. Le pouvoir adjudicateur ne procède à la mise en concurrence qu'après avoir achevé l'évaluation de toutes les offres indicatives présentées dans ce délai.
+1° Avant de procéder à cette mise en concurrence le pouvoir adjudicateur publie un avis de marché simplifié conforme au         règlement de la Commission européenne établissant les formulaires standard pour la publication d'avis en matière de marchés publics, invitant tous les opérateurs économiques, qui n'auraient pas déjà présenté une offre indicative dans le cadre de la mise en place du système d'acquisition dynamique, à présenter une offre indicative dans un délai qui ne peut être inférieur à quinze jours à compter de la date d'envoi de l'avis simplifié. Le pouvoir adjudicateur ne procède à la mise en concurrence qu'après avoir achevé l'évaluation de toutes les offres indicatives présentées dans ce délai.
 
 2° Le pouvoir adjudicateur invite ensuite tous les candidats admis dans le système à présenter une offre définitive pour chaque marché spécifique à passer dans le cadre du système. A cette fin, il fixe un délai suffisant pour la présentation des offres.
 

@@ -2,7 +2,7 @@
 
 I.-Pour attribuer le marché au candidat qui a présenté l'offre économiquement la plus avantageuse, le pouvoir adjudicateur se fonde :
 
-1° Soit sur une pluralité de critères non discriminatoires et liés à l'objet du marché, notamment la qualité, le prix, la valeur technique, le caractère esthétique et fonctionnel,          les performances en matière de protection de l'environnement, les performances en matière de développement des approvisionnements directs de produits de l'agriculture, les performances en matière d'insertion professionnelle des publics en difficulté, le coût global d'utilisation, la rentabilité, le caractère innovant, le service après-vente et l'assistance technique, la date de livraison, le délai de livraison ou d'exécution. D'autres critères peuvent être pris en compte s'ils sont justifiés par l'objet du marché ;
+1° Soit sur une pluralité de critères non discriminatoires et liés à l'objet du marché, notamment la qualité, le prix, la valeur technique, le caractère esthétique et fonctionnel, les performances en matière de protection de l'environnement, les performances en matière de développement des approvisionnements directs de produits de l'agriculture, les performances en matière d'insertion professionnelle des publics en difficulté, le coût global d'utilisation, les coûts tout au long du cycle de vie, la rentabilité, le caractère innovant, le service après-vente et l'assistance technique, la date de livraison, le délai de livraison ou d'exécution, la sécurité d'approvisionnement, l'interopérabilité et les caractéristiques opérationnelles. D'autres critères peuvent être pris en compte s'ils sont justifiés par l'objet du marché ;
 
 2° Soit, compte tenu de l'objet du marché, sur un seul critère, qui est celui du prix.
 

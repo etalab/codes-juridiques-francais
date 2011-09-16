@@ -1,4 +1,3 @@
-# QUATRIÈME PARTIE : DISPOSITIONS APPLICABLES AUX COLLECTIVITÉS D'OUTRE-MER.
+# QUATRIÈME PARTIE : MARCHÉS MIXTES.
 
-- [Chapitre Ier : Dispositions applicables à Saint-Pierre-et-Miquelon.](chapitre-ier)
-- [Chapitre II : Dispositions applicables à Mayotte.](chapitre-ii)
+- [Article 292](article-292.md)
