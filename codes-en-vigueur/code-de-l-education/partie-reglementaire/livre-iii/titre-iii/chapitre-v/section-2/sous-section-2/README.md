@@ -11,4 +11,3 @@
 - [Article R*335-20](article-r-335-20.md)
 - [Article R335-21](article-r335-21.md)
 - [Article R335-22](article-r335-22.md)
-- [Article R335-23](article-r335-23.md)
