@@ -11,7 +11,6 @@
 - [Article 150 UD](article-150-ud.md)
 - [Article 150 VA](article-150-va.md)
 - [Article 150 VB](article-150-vb.md)
-- [Article 150 VE](article-150-ve.md)
 - [Article 150 VF](article-150-vf.md)
 - [Article 150 VG](article-150-vg.md)
 - [Article 150 VH](article-150-vh.md)
