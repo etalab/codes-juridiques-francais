@@ -1,10 +1,10 @@
 # Article 209
 
-I. Sous réserve des dispositions de la présente section, les bénéfices passibles de l'impôt sur les sociétés sont déterminés d'après les règles fixées par les articles 34 à 45, 53 A à 57, 237 ter A et 302 septies A bis et en tenant compte uniquement des bénéfices réalisés dans les entreprises exploitées en France, de ceux mentionnés aux a, e, e bis et e ter du I de l'article 164 B   ainsi que de ceux dont l'imposition est attribuée à la France par une convention internationale relative aux doubles impositions.
+I. Sous réserve des dispositions de la présente section, les bénéfices passibles de l'impôt sur les sociétés sont déterminés d'après les règles fixées par les articles 34 à 45,53 A à 57,237 ter A et 302 septies A bis et en tenant compte uniquement des bénéfices réalisés dans les entreprises exploitées en France, de ceux mentionnés aux a, e, e bis et e ter du I de l'article 164 B ainsi que de ceux dont l'imposition est attribuée à la France par une convention internationale relative aux doubles impositions.
 
 Toutefois, par dérogation aux dispositions du deuxième alinéa de l'article 37, l'impôt sur les sociétés dû par les entreprises créées à compter du 1er janvier 1984 est établi, lorsqu'aucun bilan n'est dressé au cours de la première année civile d'activité, sur les bénéfices de la période écoulée depuis le commencement des opérations jusqu'à la date de clôture du premier exercice et, au plus tard, jusqu'au 31 décembre de l'année suivant celle de la création.
 
-Sous réserve de l'option prévue à l'article 220 quinquies, en cas de déficit subi pendant un exercice, ce déficit est considéré comme une charge de l'exercice suivant et déduit du bénéfice réalisé pendant ledit exercice. Si ce bénéfice n'est pas suffisant pour que la déduction puisse être intégralement opérée, l'excédent du déficit est reporté sur les exercices suivants.
+Sous réserve de l'option prévue à l'article 220 quinquies, en cas de déficit subi pendant un exercice, ce déficit est considéré comme une charge de l'exercice suivant et déduit du bénéfice réalisé pendant ledit exercice dans la limite d'un montant de 1 000 000 € majoré de 60 % du montant correspondant au bénéfice imposable dudit exercice excédant ce premier montant. Si ce bénéfice n'est pas suffisant pour que la déduction puisse être intégralement opérée, l'excédent du déficit est reporté dans les mêmes conditions sur les exercices suivants. Il en est de même de la fraction de déficit non admise en déduction en application de la première phrase du présent alinéa.
 
 II. En cas de fusion ou opération assimilée placée sous le régime de l'article 210 A, les déficits antérieurs et la fraction d'intérêts mentionnée au sixième alinéa du 1 du II de l'article 212 non encore déduits par la société absorbée ou apporteuse sont transférés, sous réserve d'un agrément délivré dans les conditions prévues à l'article 1649 nonies, à la ou aux sociétés bénéficiaires des apports, et imputables sur ses ou leurs bénéfices ultérieurs dans les conditions prévues respectivement au troisième alinéa du I et au sixième alinéa du 1 du II de l'article 212.
 
@@ -12,9 +12,9 @@ En cas de scission ou d'apport partiel d'actif, les déficits transférés sont 
 
 L'agrément est délivré lorsque :
 
-a.L'opération est justifiée du point de vue économique et obéit à des motivations principales autres que fiscales ;
+a. L'opération est justifiée du point de vue économique et obéit à des motivations principales autres que fiscales ;
 
-b.L'activité à l'origine des déficits ou des intérêts dont le transfert est demandé est poursuivie par la ou les sociétés bénéficiaires des apports pendant un délai minimum de trois ans.
+b. L'activité à l'origine des déficits ou des intérêts dont le transfert est demandé est poursuivie par la ou les sociétés bénéficiaires des apports pendant un délai minimum de trois ans.
 
 II bis.-En cas de reprise d'un passif excédant la valeur réelle de l'actif qui est transféré à l'occasion d'une opération mentionnée au 3° du I de l'article 210-0 A, la charge correspondant à cet excédent ne peut être déduite.
 

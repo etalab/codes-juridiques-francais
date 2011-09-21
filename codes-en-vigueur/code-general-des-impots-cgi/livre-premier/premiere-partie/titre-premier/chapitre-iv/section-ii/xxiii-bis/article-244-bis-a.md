@@ -38,7 +38,7 @@ h) De parts, d'actions ou d'autres droits dans des organismes, autres que ceux m
 
 II.-Lorsque le prélèvement mentionné au I est dû par des contribuables assujettis à l'impôt sur le revenu, les plus-values sont déterminées selon les modalités définies :
 
-1° Au I et aux 2° à 8° du II de l'article 150 U, aux II et III de l'article 150 UB et aux articles 150 V à 150 VE ;
+1° Au I et aux 2° à 8° du II de l'article 150 U, aux II et III de l'article 150 UB et aux articles 150 V à 150 VD ;
 
 2° Au III de l'article 150 U lorsqu'elles s'appliquent à des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale.
 
