@@ -8,3 +8,4 @@
 - [Article 302 bis ZL](article-302-bis-zl.md)
 - [Article 302 bis ZM](article-302-bis-zm.md)
 - [Article 302 bis ZN](article-302-bis-zn.md)
+- [Article 302 bis ZO](article-302-bis-zo.md)
