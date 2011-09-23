@@ -8,7 +8,7 @@ L'émetteur de chèques emploi-service universel ayant la nature de titre spéci
 
 3° Garantir la contre-valeur des titres valablement émis et utilisés à la personne assurant le service rémunéré par le chèque emploi-service universel ;
 
-4° Vérifier que les assistants maternels sont agréés en application de l'article L. 421-3 du code de l'action sociale et des familles, que les associations ou les entreprises de services sont agréées en application de l'article L. 7232-1, que les organismes et personnes relevant des catégories mentionnées aux deux premiers alinéas de l'article L. 2324-1 du code de la santé publique ou de l'article L. 227-6 du code de l'action sociale et des familles, ont été créés et exercent régulièrement ;
+4° Vérifier que les assistants maternels sont agréés en application de l'article L. 421-3 du code de l'action sociale et des familles, que les associations ou les entreprises de services sont agréées en application        de l'article L. 7232-1 ou déclarées en application de l'article L. 7232-1-1, que les organismes et personnes relevant des catégories mentionnées aux deux premiers alinéas de l'article L. 2324-1 du code de la santé publique ou de l'article L. 227-6 du code de l'action sociale et des familles, ont été créés et exercent régulièrement ;
 
 5° Recueillir auprès des bénéficiaires particuliers employeurs l'attestation de la déclaration de leurs salariés ;
 
