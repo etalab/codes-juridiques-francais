@@ -14,7 +14,7 @@ Le premier groupe est constitué de deux épreuves organisées en fin de formati
 
 Le deuxième groupe est constitué de six épreuves au maximum organisées en fin de formation. Elles ont pour objet le contrôle de l'atteinte des objectifs d'un ou plusieurs modules, à l'intérieur d'un domaine. Elles prennent la forme, dans les établissements préalablement habilités à cet effet, de contrôles certificatifs en cours de formation assurés par les formateurs, selon les dispositions prévues au III ci-après.
 
-III.-Les contrôles certificatifs en cours de formation s'effectuent selon des modalités fixées par arrêté du ministre de l'agriculture. Les établissements publics ou privés ayant passé pour la filière concernée un contrat au titre des articles L. 813-8 et L. 813-9 et dispensant une formation scolaire ou les établissements mentionnés au d du I de l'article D. 811-140 doivent, pour mettre en oeuvre le contrôle certificatif en cours de formation, avoir obtenu préalablement au début de la formation une habilitation du         directeur régional de l'alimentation, de l'agriculture et de la forêt .
+III.-Les contrôles certificatifs en cours de formation s'effectuent selon des modalités fixées par arrêté du ministre de l'agriculture. Les établissements publics ou privés ayant passé pour la filière concernée un contrat au titre des articles L. 813-8 et L. 813-9 et dispensant une formation scolaire ou les établissements mentionnés au d du I de l'article D. 811-140 doivent, pour mettre en oeuvre le contrôle certificatif en cours de formation, avoir obtenu préalablement au début de la formation une habilitation du directeur régional de l'alimentation, de l'agriculture et de la forêt .
 
 Cette habilitation est donnée, sur demande de l'établissement, pour une filière. Les conditions de délivrance et de retrait de l'habilitation sont fixées par un arrêté du ministre de l'agriculture.
 
@@ -34,7 +34,7 @@ V.-Outre les candidats des établissements non habilités à mettre en oeuvre le
 
 Les candidats ajournés non redoublants ayant choisi de ne pas conserver le bénéfice des résultats du contrôle en cours de formation correspondant à une ou plusieurs épreuves du deuxième groupe sont soumis aux épreuves du deuxième groupe correspondantes.
 
-VI.-Le jury est nommé par arrêté du ministre de l'agriculture. Chaque jury national est présidé par un ingénieur général d'agronomie.
+VI.-Le jury est nommé par arrêté du ministre de l'agriculture. Chaque jury national est présidé par un membre du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux.
 
 Le jury est composé, pour deux tiers au moins, d'enseignants d'établissements agricoles publics ou privés, justifiant sans dérogation possible des titres ou diplômes requis pour enseigner dans une section préparatoire au brevet de technicien supérieur agricole, et, pour un tiers au maximum, d'employeurs et de salariés des professions concernées et de personnalités compétentes, dont au moins un membre de l'enseignement supérieur.
 
@@ -78,7 +78,7 @@ XII.-Les conditions dans lesquelles, d'une part, un candidat déjà titulaire d'
 
 Par dérogation, le ministre chargé de l'agriculture peut accorder des dispenses d'épreuve aux candidats titulaires de titres ou de diplômes autres que ceux mentionnés à l'alinéa précédent, obtenus après au moins trois années d'études supérieures.
 
-XIII.-Pour les étudiants à titre d'étranger non titulaires de diplômes français admis dans les classes de préparation au brevet de technicien supérieur agricole en application du b du troisième alinéa du III de l'article D. 811-140, la durée des épreuves écrites prévues dans les différentes options du brevet de technicien supérieur agricole et pour lesquelles un travail important de rédaction et de synthèse est demandé peut être prolongée d'un temps égal au plus au tiers de la durée normale de ces épreuves.
+XIII.-Pour les étudiants à titre d'étranger non titulaires de diplômes français admis dans les classes de préparation au brevet de technicien supérieur agricole, la durée des épreuves écrites prévues dans les différentes options du brevet de technicien supérieur agricole et pour lesquelles un travail important de rédaction et de synthèse est demandé peut être prolongée d'un temps égal au plus au tiers de la durée normale de ces épreuves.
 
 La nature des épreuves concernées ainsi que la durée de la prolongation accordée sont fixées par le ministre de l'agriculture.
 
