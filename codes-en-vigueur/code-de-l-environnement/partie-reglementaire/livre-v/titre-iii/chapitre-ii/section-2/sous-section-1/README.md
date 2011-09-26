@@ -1,9 +1,5 @@
-# Section 1 : Dispositions générales
+# Sous-section 1 : Dispositions relatives à l'agrément d'utilisation
 
-- [Article D532-2](article-d532-2.md)
-- [Article D532-3](article-d532-3.md)
-- [Article R532-1](article-r532-1.md)
-- [Article R532-4](article-r532-4.md)
 - [Article R532-5](article-r532-5.md)
 - [Article R532-6](article-r532-6.md)
 - [Article R532-7](article-r532-7.md)
@@ -13,7 +9,3 @@
 - [Article R532-11](article-r532-11.md)
 - [Article R532-12](article-r532-12.md)
 - [Article R532-13](article-r532-13.md)
-- [Article R532-14](article-r532-14.md)
-- [Article R532-15](article-r532-15.md)
-- [Article R532-16](article-r532-16.md)
-- [Article R532-17](article-r532-17.md)
