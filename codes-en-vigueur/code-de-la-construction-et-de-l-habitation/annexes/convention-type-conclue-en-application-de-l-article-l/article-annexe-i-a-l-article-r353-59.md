@@ -90,7 +90,7 @@ Les dispositions de l'alinéa ci-dessus ne s'appliquent pas aux logements financ
 
 a) Lorsque l'opération a été financée dans les conditions de l'article R. 331-14 autres que celles prévues au II de l'article R. 331-1 et qu'elle bénéficie de subventions prévues au 2° ou 3° de l'article R. 331-15, 30 % au moins, soit ... (4) des logements, doivent être occupés par des ménages dont les ressources n'excèdent pas 60 % du plafond prévu au premier alinéa de l'article R. 331-12 du code de la construction et de l'habitation pour l'attribution des logements sociaux. Toutefois, lorsque l'opération ainsi financée comporte moins de 10 logements, au moins 30 % des logements, soit ... logements (ce nombre s'obtenant en arrondissant à l'unité la plus proche le résultat de l'application du pourcentage), doivent être occupés par des ménages dont les ressources n'excèdent pas le plafond fixé au I du deuxième alinéa de l'article R. 331-12 du code de la construction et de l'habitation pour l'attribution des logements sociaux. Cette obligation n'est pas applicable aux opérations comportant un seul logement.
 
-A l'entrée en service de l'immeuble, en sus des 30 % de logements ci-dessus mentionnés, le bailleur s'engage, compte tenu de la demande locale, que visent notamment  à satisfaire le plan d'action départemental pour le logement des personnes défavorisées, l'accord collectif départemental signé avec le bailleur et les chartes et conférences intercommunales du logement, à louer ... (5) autres logements à des ménages dont les ressources n'excèdent pas 60 % du plafond prévu au premier alinéa de l'article R. 331-12 du code de la construction et de l'habitation pour l'attribution des logements sociaux. Le bailleur s'engage à fournir au préfet un état à la mise en location, permettant de vérifier que cet engagement d'occupation sociale est respecté.
+A l'entrée en service de l'immeuble, en sus des 30 % de logements ci-dessus mentionnés, le bailleur s'engage, compte tenu de la demande locale, que visent notamment à satisfaire le plan d'action départemental pour le logement des personnes défavorisées, l'accord collectif départemental signé avec le bailleur et les chartes et conférences intercommunales du logement, à louer ... (5) autres logements à des ménages dont les ressources n'excèdent pas 60 % du plafond prévu au premier alinéa de l'article R. 331-12 du code de la construction et de l'habitation pour l'attribution des logements sociaux. Le bailleur s'engage à fournir au préfet un état à la mise en location, permettant de vérifier que cet engagement d'occupation sociale est respecté.
 
 La vérification de l'engagement d'occupation sociale mentionné au premier alinéa sera effectuée tous les trois ans au vu des résultats de l'enquête prévue à l'article L. 442-5 du code de la construction et de l'habitation. S'il est constaté que cet engagement n'est plus rempli, tous les logements attribués postérieurement à ce constat fait par le préfet du lieu de situation des logements devront l'être à des ménages dont les ressources n'excèdent pas 60 % du plafond de ressources prévu au premier alinéa de l'article R. 331-12 du code de la construction et de l'habitation pour l'attribution des logements sociaux jusqu'à ce que le bailleur établisse que l'engagement est respecté à nouveau.
 
@@ -143,6 +143,14 @@ Durant le mois qui suit la signature de la convention, le bailleur informe les l
 Le locataire ou occupant de bonne foi peut également présenter ces justificatifs à tout moment et bénéficier de la même mesure, dès le mois qui suit la présentation de ces justificatifs.
 
 Le loyer pratiqué applicable à chaque logement occupé par un locataire ou un occupant de bonne foi dont les ressources excèdent les plafonds de ressources prévus à l'article R. 331-12 du code de la construction et de l'habitation pour l'attribution des logements sociaux au moment de l'acquisition ou qui n'a pas fourni d'informations sur le niveau de ses ressources ne peut excéder le loyer maximum fixé à l'article 8 bis.
+
+Article 9 ter.
+
+Conformément à l'arrêté préfectoral prévu à l'article R. 353-70-1 du code de la construction et de l'habitation, le loyer maximum peut être majoré dans les conditions de ce même article sans dépasser........ € par mètre carré et par mois.
+
+Cette majoration de loyer s'applique pendant une durée de........ mois et concerne........ mètres carrés de logements. Le nombre de mètres carrés peut varier de plus ou moins 20 %.
+
+Lorsque la majoration de loyer prévue aux alinéas précédents est appliquée, les stipulations du III de l'article 7 de la présente convention ne s'appliquent pas.
 
 Article 10.
 
