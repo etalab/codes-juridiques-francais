@@ -22,7 +22,7 @@ Cette obligation s'applique en outre aux personnes morales ou groupements de per
 
 II. - Les déclarations de bénéfices industriels et commerciaux, de bénéfices non commerciaux et de bénéfices agricoles ainsi que leurs annexes sont souscrites par voie électronique par les entreprises définies aux deuxième à dixième alinéas du I.
 
-III. - Les déclarations de taxe sur la valeur ajoutée, leurs annexes et les demandes de remboursement de crédit de cette taxe, ainsi que les déclarations de taxes assimilées aux taxes sur le chiffre d'affaires et leurs annexes sont souscrites par voie électronique lorsque le chiffre d'affaires ou les recettes réalisés par le redevable au titre de l'exercice précédent est supérieur à 500 000 EUR hors taxes.
+III. - Les déclarations de taxe sur la valeur ajoutée, leurs annexes et les demandes de remboursement de crédit de cette taxe, ainsi que les déclarations de taxes assimilées aux taxes sur le chiffre d'affaires et leurs annexes sont souscrites par voie électronique lorsque le chiffre d'affaires ou les recettes réalisés par le redevable au titre de l'exercice précédent est supérieur à 230 000 € hors taxes.
 
 Cette obligation s'applique également aux redevables définis aux deuxième à dixième alinéas du I.
 
