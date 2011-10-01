@@ -7,52 +7,83 @@ a) Pour les véhicules ayant fait l'objet d'une réception communautaire au sens
 <table>
 <tbody>
 <tr>
-<td align="center">TAUX D'EMISSION DE DIOXYDE<br/>de carbone<br/>(en grammes par kilomètre)</td>
+<td>
+<p align="center">TAUX D'ÉMISSION DE DIOXYDE DE CARBONE </p>
+<p align="center">(en grammes par kilomètre) <br/>
+</p>
+</td>
+<td colspan="3">
+<p align="center">
+<br/>TARIF APPLICABLE </p>
+<p align="center">par gramme de dioxyde </p>
+<p align="center">de carbone </p>
+<p align="center">(en euros) <br/>
+</p>
+</td>
+</tr>
+<tr>
 <td align="center">
-<p>TARIF<br/>applicable par gramme de dioxyde de carbone<br/>(en euros)</p>
+<p align="left">Inférieur ou égal à 50</p>
+</td>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
-<p align="left">Inférieur ou égal à 100</p>
+<td align="center">
+<p align="left">Supérieur à 50 et inférieur ou égal à 100</p>
 </td>
-<td align="center">2</td>
+<td align="center">
+<br/>2 <br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<p align="left">Supérieur à 100 et inférieur ou égal à 120</p>
+<td align="center">
+<p align="left">Supérieur à 100 et inférieur ou égal à 120 </p>
 </td>
-<td align="center">4</td>
+<td align="center">
+<br/>4 <br/>
+</td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <p align="left">Supérieur à 120 et inférieur ou égal à 140</p>
 </td>
-<td align="center">5</td>
-</tr>
-<tr>
-<td align="left">
-<p align="left">Supérieur à 140 et inférieur ou égal à 160</p>
+<td align="center">
+<br/>5,5 <br/>
 </td>
-<td align="center">10</td>
 </tr>
 <tr>
-<td align="left">
-<p align="left">Supérieur à 160 et inférieur ou égal à 200</p>
+<td align="center">
+<p align="left">Supérieur à 140 et inférieur ou égal à 160 </p>
 </td>
-<td align="center">15</td>
+<td align="center">
+<br/>11,5 <br/>
+</td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
+<p align="left">Supérieur à 160 et inférieur ou égal à 200 </p>
+</td>
+<td align="center">
+<br/>18 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
 <p align="left">Supérieur à 200 et inférieur ou égal à 250</p>
 </td>
-<td align="center">17</td>
+<td align="center">
+<br/>21,5 <br/>
+</td>
 </tr>
 <tr>
-<td align="left">
+<td align="center">
 <p align="left">Supérieur à 250</p>
 </td>
-<td align="center">19</td>
+<td align="center">
+<br/>27 <br/>
+</td>
 </tr>
 </tbody>
 </table>
@@ -62,45 +93,55 @@ b) Pour les véhicules autres que ceux mentionnés au a, le tarif applicable est
 <table>
 <tbody>
 <tr>
-<td align="center">
-<p align="center">PUISSANCE FISCALE<br/>(en chevaux-vapeur)</p>
+<td>
+<p align="center">PUISSANCE FISCALE </p>
+<p align="center">(en chevaux-vapeur) <br/>
+</p>
 </td>
-<td align="center">TARIF applicable<br/>(en euros)</td>
-</tr>
-<tr>
-<td align="left">
-<p align="left">Inférieure ou égale à 4</p>
-</td>
-<td align="center">750</td>
-</tr>
-<tr>
-<td align="left">
-<p align="left">De 5 à 7</p>
-</td>
-<td align="center">
-<p align="center">1 400<br/>
+<td colspan="3">
+<p align="center">TARIF APPLICABLE </p>
+<p align="center">(en euros) <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left">De 8 à 11</td>
 <td align="center">
-<p align="center">3 000<br/>
-</p>
+<p align="left">Inférieure ou égale à 3</p>
+</td>
+<td align="center">
+<br/>750 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">De 12 à 16</td>
 <td align="center">
-<p align="center">3 600<br/>
-</p>
+<p align="left">De 4 à 6</p>
+</td>
+<td align="center">
+<br/>1 400 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">Supérieure à 16</td>
 <td align="center">
-<p align="center">4 500<br/>
-</p>
+<p align="left">De 7 à 10</p>
+</td>
+<td align="center">
+<br/>3 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">De 11 à 15</p>
+</td>
+<td align="center">
+<br/>3 600 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Supérieure à 15</p>
+</td>
+<td align="center">
+<br/>4 500 <br/>
 </td>
 </tr>
 </tbody>
