@@ -14,4 +14,4 @@ Le projet d'établissement ou de service et le règlement de fonctionnement, men
 
 IV. - Les établissements mentionnés au I de l'article L. 313-12 qui organisent un accueil de jour en complément des prises en charge d'hébergement et les établissements mentionnés à l'article D. 313-20 doivent proposer une solution de transport adaptée aux besoins des personnes bénéficiant de l'accueil de jour.
 
-V. - Pour bénéficier de la prise en charge d'un forfait journalier de frais de transport, les gestionnaires des établissements mentionnés au IV doivent justifier des modalités d'organisation des transports.
+V. - Pour bénéficier de la prise en charge d'un forfait journalier de frais de transport, les gestionnaires des établissements mentionnés au IV doivent justifier des modalités d'organisation des transports. A défaut, ils remboursent aux personnes accueillies ou à leurs familles les frais de transport qu'elles supportent, dans la limite de ce forfait.
