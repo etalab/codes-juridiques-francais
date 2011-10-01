@@ -2,7 +2,7 @@
 
 L'action de l'agent comptable chargé du recouvrement des redevances se prescrit dans un délai de quatre ans à compter de la date de mise en recouvrement. Ce délai est interrompu par tous actes comportant reconnaissance de la part du contribuable et par tous autres actes interruptifs de la prescription.
 
-Les poursuites sont exercées par l'agent comptable dans les formes de droit commun. Toutefois, les commandements de payer sont, à l'initiative de l'agent comptable, notifiés au contribuable, par lettre recommandée avec accusé de réception, dans les conditions prévues au deuxième alinéa de l'article L. 259 du livre des procédures fiscales.
+Les poursuites sont exercées par l'agent comptable dans les formes de droit commun. Toutefois, les commandements de payer sont, à l'initiative de l'agent comptable, notifiés au contribuable, par lettre recommandée avec accusé de réception.
 
 Le recouvrement par le comptable de l'agence peut être assuré par voie d'opposition à tiers détenteur adressée aux personnes qui détiennent des fonds pour le compte du contribuable, qui ont une dette envers lui ou qui lui versent une rémunération.
 
