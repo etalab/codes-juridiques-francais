@@ -8,3 +8,7 @@
 - [Article 328 G septies](article-328-g-septies.md)
 - [Article 328 G octies](article-328-g-octies.md)
 - [Article 328 G nonies](article-328-g-nonies.md)
+- [Article 328 G nonies C](article-328-g-nonies-c.md)
+- [Article 328 G nonies D](article-328-g-nonies-d.md)
+- [Article 328 G nonies A](article-328-g-nonies-a.md)
+- [Article 328 G nonies B](article-328-g-nonies-b.md)
