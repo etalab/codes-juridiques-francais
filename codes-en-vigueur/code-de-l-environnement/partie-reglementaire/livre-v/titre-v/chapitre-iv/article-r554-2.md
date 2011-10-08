@@ -12,9 +12,9 @@ I.-Catégories d'ouvrages sensibles pour la sécurité
 
 -canalisations de transport et de distribution de vapeur d'eau, d'eau surchauffée, d'eau chaude, d'eau glacée, ou de tout autre fluide caloporteur ou frigorigène ;
 
--lignes électriques, réseaux d'éclairage public et lignes de traction associées aux ouvrages mentionnés à l'alinéa suivant ;
+-lignes électriques, réseaux d'éclairage public ;
 
--installations destinées à la circulation de véhicules de transport public guidé ;
+-installations destinées à la circulation de véhicules de transport public ferroviaire ou guidé ;
 
 -canalisations de transport de déchets par dispositif pneumatique sous pression ou par aspiration.
 
