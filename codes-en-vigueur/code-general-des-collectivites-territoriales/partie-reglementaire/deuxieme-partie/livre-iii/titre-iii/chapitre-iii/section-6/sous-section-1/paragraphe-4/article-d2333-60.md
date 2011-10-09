@@ -2,17 +2,17 @@
 
 Les tarifs de la taxe de séjour forfaitaire sont fixés par la commune conformément au barème suivant :
 
-- hôtels de tourisme 4 étoiles luxe et 4 étoiles, résidences de tourisme 4 étoiles, meublés de tourisme 4 et 5 étoiles et tous les autres établissements de caractéristiques équivalentes : entre 0,65 euros et 1,50 euros par nuitée et par unité de capacité d'accueil ;
+- hôtels de tourisme 4 étoiles luxe, 4 et 5 étoiles, résidences de tourisme 4 et 5 étoiles, meublés de tourisme 4 et 5 étoiles et tous les autres établissements de caractéristiques équivalentes : entre 0,65 euros et 1,50 euros par nuitée et par unité de capacité d'accueil ;
 
 - hôtels de tourisme 3 étoiles, résidences de tourisme 3 étoiles, meublés de tourisme 3 étoiles et tous les autres établissements de caractéristiques équivalentes : entre 0,50 euros et 1 euros par nuitée et par unité de capacité d'accueil ;
 
-- hôtels de tourisme 2 étoiles, résidences de tourisme 2 étoiles, meublés de tourisme 2 étoiles, villages de vacances de catégorie grand confort et tous les autres établissements de caractéristiques équivalentes : entre 0,30 euros et 0,90 euros par nuitée et par unité de capacité d'accueil ;
+- hôtels de tourisme 2 étoiles, résidences de tourisme 2 étoiles, meublés de tourisme 2 étoiles, villages de vacances 4 et 5 étoiles, de catégorie grand confort et tous les autres établissements de caractéristiques équivalentes : entre 0,30 euros et 0,90 euros par nuitée et par unité de capacité d'accueil ;
 
-- hôtels de tourisme 1 étoile, résidences de tourisme 1 étoile, meublés de tourisme 1 étoile, villages de vacances de catégorie confort et tous les autres établissements de caractéristiques équivalentes : entre 0,20 euros et 0,75 euros par nuitée et par unité de capacité d'accueil ;
+- hôtels de tourisme 1 étoile, résidences de tourisme 1 étoile, meublés de tourisme 1 étoile, villages de vacances 1, 2 et 3 étoiles, de catégorie confort et tous les autres établissements de caractéristiques équivalentes : entre 0,20 euros et 0,75 euros par nuitée et par unité de capacité d'accueil ;
 
 - hôtels de tourisme classés sans étoile et tous les autres établissements de caractéristiques équivalentes : entre 0,20 euros et 0,40 euros par nuitée et par unité de capacité d'accueil ;
 
-- terrains de camping et terrains de caravanage classés en 3 et 4 étoiles et tout autre terrain d'hébergement de plein air de caractéristiques équivalentes : entre 0,20 euros et 0,55 euros par nuitée et par unité de capacité d'accueil ;
+- terrains de camping et terrains de caravanage classés en 3, 4 et 5 étoiles et tout autre terrain d'hébergement de plein air de caractéristiques équivalentes : entre 0,20 euros et 0,55 euros par nuitée et par unité de capacité d'accueil ;
 
 - terrains de camping et terrains de caravanage classés en 1 et 2 étoiles et tout autre terrain d'hébergement de plein air de caractéristiques équivalentes, ports de plaisance : 0,20 euros par nuitée et par unité de capacité d'accueil.
 
