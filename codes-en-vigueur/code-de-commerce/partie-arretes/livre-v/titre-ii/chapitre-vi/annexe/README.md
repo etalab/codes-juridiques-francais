@@ -1,4 +1,4 @@
-# ANNEXE 5-1 (annexe aux articles A526-1 et A526-2)
+# ANNEXE 5-2 (Annexe à l'article A526-3)
 
 - [Article Annexe I](article-annexe-i.md)
 - [Article Annexe II](article-annexe-ii.md)

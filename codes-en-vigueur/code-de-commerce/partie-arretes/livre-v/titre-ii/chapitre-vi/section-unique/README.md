@@ -4,3 +4,4 @@
 - [Article A526-2](article-a526-2.md)
 - [Article A526-3](article-a526-3.md)
 - [Article A526-4](article-a526-4.md)
+- [Article A526-5](article-a526-5.md)
