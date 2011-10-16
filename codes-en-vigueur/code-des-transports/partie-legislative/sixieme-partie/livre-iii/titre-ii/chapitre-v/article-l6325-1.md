@@ -6,4 +6,4 @@ Le montant des redevances tient compte de la rémunération des capitaux investi
 
 Il peut faire l'objet, pour des motifs d'intérêt général, de modulations limitées tendant à réduire ou compenser les atteintes à l'environnement, améliorer l'utilisation des infrastructures, favoriser la création de nouvelles liaisons ou répondre à des impératifs de continuité et d'aménagement du territoire.
 
-Le produit global de ces redevances ne peut excéder le coût des services rendus sur l'aéroport.
+Le produit global de ces redevances ne peut excéder le coût des services rendus sur l'aérodrome ou sur le système d'aérodromes desservant la même ville ou agglomération urbaine concerné, système défini au sens du présent chapitre comme un groupe d'aérodromes desservant la même ville ou agglomération urbaine, géré par un même exploitant et désigné comme tel par l'autorité compétente de l'Etat.
