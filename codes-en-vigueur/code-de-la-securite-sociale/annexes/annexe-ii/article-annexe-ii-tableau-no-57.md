@@ -1,8 +1,8 @@
 # Article Annexe II : Tableau n° 57
 
 <font size="2">
-<strong>
-<br/>Affections périarticulaires provoquées par certains gestes et postures de travail</strong>
+<b>
+<br/>Affections périarticulaires provoquées par certains gestes et postures de travail</b>
 </font>
 
 <table>
@@ -24,8 +24,10 @@
 </td>
 <td width="76">
 <br/>
+<br/>
 </td>
 <td width="283">
+<br/>
 <br/>
 </td>
 </tr>
@@ -35,31 +37,55 @@
 </td>
 <td width="76">
 <br/>
+<br/>
 </td>
 <td width="283">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="246">
-<p>Epaule douloureuse simple (tendinopathie de la coiffe des rotateurs).</p>
+<p>Tendinopathie aiguë non rompue non calcifiante avec ou sans enthésopathie de la coiffe des rotateurs.<br/>
+</p>
 </td>
 <td valign="top" width="76">
-<p>7 jours</p>
+<p>30 jours</p>
 </td>
 <td valign="top" width="283">
-<p>Travaux comportant habituellement des mouvements répétés ou forcés de l'épaule.</p>
+<p>Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (**) avec un angle supérieur ou égal à 60° pendant au moins 3 h 30 par jour en cumulé.<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="246">
-<p>Epaule enraidie succédant à une épaule douloureuse simple rebelle.</p>
+<p>Tendinopathie chronique non rompue non calcifiante avec ou sans enthésopathie de la coiffe des rotateurs objectivée par IRM (*).<br/>
+</p>
 </td>
 <td valign="top" width="76">
-<p>90 jours</p>
+<p>6 mois (sous réserve d'une durée d'exposition de 6 mois)<br/>
+</p>
 </td>
-<td valign="top" width="283">
-<p>Travaux comportant habituellement des mouvements répétés ou forcés de l'épaule.</p>
+<td valign="top" width="283">Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (**) :<p>- avec un angle supérieur ou égal à 60° pendant au moins deux heures par jour en cumulé</p>
+<p>ou</p>
+<p>- avec un angle supérieur ou égal à 90° pendant au moins une heure par jour en cumulé.</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td>Rupture partielle ou transfixiante de la coiffe des rotateurs objectivée par IRM (*).<br/>
+<br/>
+</td>
+<td>1 an (sous réserve d'une durée d'exposition d'un an)<br/>
+</td>
+<td>Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (**) :<p>- avec un angle supérieur ou égal à 60° pendant au moins deux heures par jour en cumulé</p>
+<p>ou</p>
+<p>- avec un angle supérieur ou égal à 90° pendant au moins une heure par jour en cumulé. </p>
+<br/>
+</td>
+</tr>
+<tr>
+<td colspan="3">(*) Ou un arthroscanner en cas de contre-indication à l'IRM.<p>(**) Les mouvements en abduction correspondent aux mouvements entraînant un décollement des bras par rapport au corps.</p>
 </td>
 </tr>
 <tr>
@@ -68,8 +94,10 @@
 </td>
 <td width="76">
 <br/>
+<br/>
 </td>
 <td width="283">
+<br/>
 <br/>
 </td>
 </tr>
@@ -79,8 +107,10 @@
 </td>
 <td width="76">
 <br/>
+<br/>
 </td>
 <td width="283">
+<br/>
 <br/>
 </td>
 </tr>
@@ -152,8 +182,10 @@
 </td>
 <td width="76">
 <br/>
+<br/>
 </td>
 <td width="283">
+<br/>
 <br/>
 </td>
 </tr>
@@ -163,8 +195,10 @@
 </td>
 <td width="76">
 <br/>
+<br/>
 </td>
 <td width="283">
+<br/>
 <br/>
 </td>
 </tr>
@@ -212,8 +246,10 @@
 </td>
 <td width="76">
 <br/>
+<br/>
 </td>
 <td width="283">
+<br/>
 <br/>
 </td>
 </tr>
@@ -223,8 +259,10 @@
 </td>
 <td width="76">
 <br/>
+<br/>
 </td>
 <td width="283">
+<br/>
 <br/>
 </td>
 </tr>
@@ -296,8 +334,10 @@
 </td>
 <td width="76">
 <br/>
+<br/>
 </td>
 <td width="283">
+<br/>
 <br/>
 </td>
 </tr>
@@ -307,8 +347,10 @@
 </td>
 <td width="76">
 <br/>
+<br/>
 </td>
 <td width="283">
+<br/>
 <br/>
 </td>
 </tr>
