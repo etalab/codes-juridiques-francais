@@ -1,5 +1,8 @@
-# Section 2 : Exercice du contrôle.
+# Section 2 : Exigences applicables aux ventes  de produits phytopharmaceutiques .
 
+- [Sous-section 1 : Ventes de produits phytopharmaceutiques aux utilisateurs non professionnels](sous-section-1)
+- [Sous-section 2 : Informations pour la vente de produits phytopharmaceutiques](sous-section-2)
+- [Sous-section 3 : Registre d'activité](sous-section-3)
 - [Article R254-2](article-r254-2.md)
 - [Article R254-3](article-r254-3.md)
 - [Article R254-4](article-r254-4.md)
