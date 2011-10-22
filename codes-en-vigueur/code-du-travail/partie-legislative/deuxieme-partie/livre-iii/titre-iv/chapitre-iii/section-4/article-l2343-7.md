@@ -6,4 +6,4 @@ Il est présidé par le chef d'entreprise ou de l'entreprise dominante du groupe
 
 Le comité désigne un secrétaire.
 
-Il élit un bureau de trois membres lorsqu'il comprend au moins dix représentants des salariés.
+Il élit un bureau d'au maximum cinq membres qui bénéficie de conditions matérielles lui permettant d'exercer son activité de façon régulière.

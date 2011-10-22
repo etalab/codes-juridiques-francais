@@ -7,3 +7,4 @@
 - [Article L2344-6](article-l2344-6.md)
 - [Article L2344-7](article-l2344-7.md)
 - [Article L2344-8](article-l2344-8.md)
+- [Article L2344-9](article-l2344-9.md)
