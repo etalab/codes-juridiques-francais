@@ -6,7 +6,7 @@ La direction de l'enseignement militaire supérieur :
 
 2° Soumet aux instances chargées de superviser l'enseignement militaire supérieur des recommandations de nature à garantir sa cohérence d'ensemble, en particulier dans le domaine de la formation et de la recherche ;
 
-3° Prépare les officiers supérieurs des forces armées, de la direction générale de l'armement et de la justice militaire à exercer des responsabilités d'état-major, de commandement et de direction au sein de ces entités, des états-majors interarmées ou interalliés, des organismes interministériels et dans tout autre poste où s'élabore et s'exécute la politique de défense et de sécurité ;
+3° Prépare les officiers supérieurs des forces armées,            et des formations rattachées à exercer des responsabilités d'état-major, de commandement et de direction au sein de ces entités, des états-majors interarmées ou interalliés, des organismes interministériels et dans tout autre poste où s'élabore et s'exécute la politique de défense et de sécurité ;
 
 4° Contribue au développement et au rayonnement des études et de la recherche en matière de défense et de sécurité nationale ;
 
