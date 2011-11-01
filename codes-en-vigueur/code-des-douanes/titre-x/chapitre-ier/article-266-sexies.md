@@ -2,7 +2,7 @@
 
 I.-Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales suivantes :
 
-1. Tout exploitant d'une installation d'élimination par stockage ou par incinération de déchets ménagers et assimilés, tout exploitant d'une installation d'élimination des déchets industriels spéciaux par incinération, coincinération, stockage, traitement physico-chimique ou biologique non exclusivement utilisée pour les déchets que l'entreprise produit ou toute personne qui transfère ou fait transférer des déchets vers un autre Etat en application du règlement (CE) n° 1013 / 2006 du Parlement européen et du Conseil, du 14 juin 2006, concernant les transferts de déchets ;
+1. Tout exploitant d'une installation d'élimination par stockage ou par incinération de déchets ménagers et assimilés, tout exploitant d'une installation d'élimination des déchets industriels spéciaux par incinération, coincinération, stockage, traitement physico-chimique ou biologique non exclusivement utilisée pour les déchets que l'entreprise produit ou toute personne qui transfère ou fait transférer des déchets vers un autre Etat en application du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil, du 14 juin 2006, concernant les transferts de déchets ;
 
 2. Tout exploitant d'une installation soumise à autorisation au titre du livre V (titre Ier) du code de l'environnement dont la puissance thermique maximale lorsqu'il s'agit d'installations de combustion, la capacité lorsqu'il s'agit d'installations d'incinération d'ordures ménagères, ou le poids des substances mentionnées au 2 de l'article 266 septies émises en une année lorsque l'installation n'entre pas dans les catégories précédentes, dépassent certains seuils fixés par décret en Conseil d'Etat ;
 
@@ -12,9 +12,9 @@ I.-Il est institué une taxe générale sur les activités polluantes qui est du
 
 b) Toute personne qui, pour les besoins de son activité économique, utilise des huiles et des préparations lubrifiantes, autres que celles mentionnées au a, produisant des huiles usagées dont le rejet dans le milieu naturel est interdit ;
 
-c) Toute personne qui, pour les besoins de son activité économique, utilise des huiles et des préparations lubrifiantes à usage perdu, autres que celles mentionnées aux a et b, correspondant aux catégories suivantes (Europalub / CPL) : huiles pour moteur deux-temps (1C / D. dt), graisses utilisées en système ouvert (3A1 / J1 et 3A2 / J2), huiles pour scies à chaînes (6B / B2), huiles de démoulage / décoffrage (6C / K. 4a) ;
+c) Toute personne qui, pour les besoins de son activité économique, utilise des huiles et des préparations lubrifiantes à usage perdu, autres que celles mentionnées aux a et b, correspondant aux catégories suivantes (Europalub/ CPL) : huiles pour moteur deux-temps (1C/ D. dt), graisses utilisées en système ouvert (3A1/ J1 et 3A2/ J2), huiles pour scies à chaînes (6B/ B2), huiles de démoulage/ décoffrage (6C/ K. 4a) ;
 
-5. Toute personne qui, pour les besoins de son activité économique, livre pour la première fois sur le marché intérieur ou utilise pour la première fois des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants pour le linge relevant respectivement des rubriques 34022090, 34029090 et 38091010 à 38099100 du tarif douanier ;
+5. Toute personne qui, pour les besoins de son activité économique, livre pour la première fois sur le marché intérieur ou utilise pour la première fois des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants pour le linge relevant respectivement des rubriques 34022090,34029090 et 38091010 à 38099100 du tarif douanier ;
 
 6. a) Toute personne qui, pour les besoins de son activité économique, livre pour la première fois sur le marché intérieur des matériaux d'extraction de toutes origines se présentant naturellement sous la forme de grains ou obtenus à partir de roches concassées ou fractionnées, dont la plus grande dimension est inférieure ou égale à 125 millimètres et dont les caractéristiques et usages sont fixés par décret ;
 
@@ -44,15 +44,15 @@ II.-La taxe ne s'applique pas :
 
 1 quinquies. Aux réceptions de déchets non dangereux générés par une catastrophe naturelle, dont l'état est constaté par arrêté, entre la date de début de sinistre et soixante jours après la fin du sinistre. Les quantités non taxables font l'objet d'une comptabilité matière séparée ;
 
-2. (alinéa abrogé) ;
+2. Aux installations d'injection d'effluents industriels autorisées en application de l'article 84 de la loi n° 2003-699 du 30 juillet 2003  relative à la prévention des risques technologiques et naturels et à la réparation des dommages ;
 
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur produit sec d'au moins 97 % d'oxyde de silicium ;
 
 4. Aux lubrifiants, aux préparations pour lessives, y compris les préparations auxiliaires de lavage, aux produits adoucissants ou assouplissants pour le linge, aux matériaux d'extraction, mentionnés respectivement au a du 4 et aux 5, et 6 du I du présent article lorsque la première livraison après fabrication nationale consiste en une expédition directe à destination d'un Etat membre de la Communauté européenne ou en une exportation ;
 
-5.A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers ;
+5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers ;
 
-6. Aux lubrifiants biodégradables, non écotoxiques et d'origine renouvelable respectant les critères définis pour le label écologique communautaire des lubrifiants dans la décision n° 2005 / 360 / CE de la Commission européenne du 26 avril 2005 établissant les critères écologiques et les exigences associées en matière d'évaluation et de vérification pour l'attribution du label écologique communautaire aux lubrifiants ;
+6. Aux lubrifiants biodégradables, non écotoxiques et d'origine renouvelable respectant les critères définis pour le label écologique communautaire des lubrifiants dans la décision n° 2005/360/ CE de la Commission européenne du 26 avril 2005 établissant les critères écologiques et les exigences associées en matière d'évaluation et de vérification pour l'attribution du label écologique communautaire aux lubrifiants ;
 
 7. Aux sacs de caisse à usage unique en matière plastique biodégradables constitués, dans des conditions définies par décret, d'un minimum de 40 % de matières végétales en masse.
 
