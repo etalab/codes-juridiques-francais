@@ -34,7 +34,7 @@ Doivent être enregistrés dans le délai d'un mois à compter de leur date :
 
 7° Les actes portant cession d'actions, de parts de fondateurs ou de parts bénéficiaires ou cession de parts sociales dans les sociétés dont le capital n'est pas divisé en actions ;
 
-7° bis Les actes portant cession de participations dans des personnes morales à prépondérance immobilière au sens du troisième alinéa du 2° du I de l'article 726 ;
+7° bis Les actes portant cession de participations dans des personnes morales à prépondérance immobilière au sens du troisième alinéa du 2° du I de l'article 726 , y compris lorsque ces cessions sont réalisées à l'étranger et quelle que soit la nationalité des parties ;
 
 8° 9° (Abrogés) ;
 
