@@ -14,7 +14,7 @@ Le président du Centre des monuments nationaux dirige l'établissement public. 
 
 6° Il a autorité sur les personnels et les affecte au sein de l'établissement sur proposition du directeur général ; il gère et recrute les personnels contractuels ; il définit l'organisation des services de l'établissement, conformément aux orientations arrêtées par le conseil d'administration ;
 
-7° Il préside le comité technique paritaire et le comité d'hygiène et de sécurité ;
+7° Il préside le comité technique paritaire et le      comité d'hygiène, de sécurité et des conditions de travail ;
 
 8° Il signe les conventions engageant l'établissement et passe les marchés répondant aux besoins de celui-ci ;
 
