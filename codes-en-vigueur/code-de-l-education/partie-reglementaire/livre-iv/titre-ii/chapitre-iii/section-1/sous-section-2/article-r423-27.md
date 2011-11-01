@@ -4,4 +4,4 @@ Lorsque les missions, les activités et les ressources du groupement le justifie
 
 Un état annuel des effectifs du groupement est transmis au commissaire du Gouvernement et au membre du corps du contrôle général économique et financier.
 
-Un état des effectifs et un bilan des activités du groupement sont présentés chaque année au comité technique paritaire académique.
+Un état des effectifs et un bilan des activités du groupement sont présentés chaque année au  comité technique académique.

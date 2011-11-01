@@ -2,7 +2,7 @@
 
 Le conseil d'administration de l'agence est composé :
 
-I. - D'un collège de représentants de l'Etat, qui comprend :
+I.-D'un collège de représentants de l'Etat, qui comprend :
 
 1° Un représentant du ministre chargé de la protection de la nature ;
 
@@ -30,7 +30,7 @@ I. - D'un collège de représentants de l'Etat, qui comprend :
 
 13° Les préfets maritimes de la Manche et de la mer du Nord, de l'Atlantique, de la Méditerranée et un représentant des autorités chargées de l'action de l'Etat en mer outre-mer.
 
-II. - D'un autre collège qui comprend :
+II.-D'un autre collège qui comprend :
 
 1° Un député et un sénateur ;
 
@@ -64,7 +64,7 @@ II. - D'un autre collège qui comprend :
 
 16° Le directeur général de l'Institut de recherche pour le développement ;
 
-17° Un représentant du personnel élu par le personnel de l'agence sur une liste présentée par les organisations syndicales habilitées à désigner des représentants au comité technique paritaire central de l'agence ;
+17° Un représentant du personnel élu par le personnel de l'agence sur une liste présentée par les organisations syndicales habilitées à désigner des représentants au comité technique central de l'agence ;
 
 18° Deux personnalités qualifiées en raison de leur compétence dans le domaine de la protection, de la restauration ou de la gestion durable du patrimoine naturel marin.
 

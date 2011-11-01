@@ -1,6 +1,6 @@
 # Article D4626-7
 
-Le rapport annuel est présenté pour avis au comité technique paritaire et au comité d'hygiène, de sécurité et des conditions de travail. Il est transmis, assorti des avis et observations de ces comités, dans un délai de deux mois à compter de sa présentation :
+Le rapport annuel est présenté pour avis au  comité technique et au comité d'hygiène, de sécurité et des conditions de travail. Il est transmis, assorti des avis et observations de ces comités, dans un délai de deux mois à compter de sa présentation :
 
 1° A l'assemblée gestionnaire ;
 

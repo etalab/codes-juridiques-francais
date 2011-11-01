@@ -6,4 +6,4 @@ Les établissements sont dirigés par un directeur assisté par un secrétaire g
 
 Ils sont organisés en départements, unités de recherche et services.
 
-Un comité technique paritaire central et un comité d'hygiène et de sécurité sont institués dans chaque établissement.
+Un comité technique central et un comité d'hygiène et de sécurité sont institués dans chaque établissement.
