@@ -12,4 +12,6 @@ Pour l'application de ces dispositions, les conditions d'exécution du travail c
 
 4° La santé et la sécurité au travail ;
 
-5° Le travail des femmes, des enfants et des jeunes travailleurs.
+5° Le travail des femmes, des enfants et des jeunes travailleurs ;
+
+6° L'exercice de la fonction de maître d'apprentissage définie à la section 3 du chapitre III du titre II du livre II de la sixième partie.

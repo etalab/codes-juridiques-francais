@@ -5,3 +5,5 @@ Pour le calcul du nombre de bénéficiaires de l'obligation d'emploi, chaque per
 - les salariés dont la durée de travail est supérieure ou égale à la moitié de la durée légale ou conventionnelle sont décomptés dans la limite d'une unité comme s'ils avaient été employés à temps complet ;
 
 - les salariés dont la durée de travail est inférieure à la moitié de la durée légale ou conventionnelle sont décomptés dans des conditions fixées par décret sans que leur prise en compte puisse dépasser une demi-unité.
+
+Les personnes mises à disposition de l'entreprise par un groupement d'employeurs sont prises en compte dans les mêmes conditions que les salariés de l'entreprise.
