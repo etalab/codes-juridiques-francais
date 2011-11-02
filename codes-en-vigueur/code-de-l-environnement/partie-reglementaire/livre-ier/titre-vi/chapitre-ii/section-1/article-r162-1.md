@@ -44,4 +44,6 @@ g) La réglementation relative aux conditions techniques d'exploitation d'hélic
 
 11° La mise sur le marché et la dissémination volontaire d'organismes génétiquement modifiés dans l'environnement soumise à autorisation au titre des articles L. 533-3, L. 533-5, L. 533-6 ou du règlement (CE) n° 1829/2003 du Parlement européen et du Conseil du 22 septembre 2003 concernant les denrées alimentaires et les aliments pour animaux génétiquement modifiés ;
 
-12° Les opérations liées aux mouvements transfrontaliers de déchets à l'entrée et à la sortie de l'Union européenne régies par les articles L. 541-40 à L. 541-42-2 et par les dispositions du règlement (CE) n° 1013/2006 du Parlement et du Conseil du 14 juin 2006 concernant les transferts de déchets sous réserve des dispositions transitoires prévues en son article 62.
+12° Les opérations liées aux mouvements transfrontaliers de déchets à l'entrée et à la sortie de l'Union européenne régies par les articles L. 541-40 à L. 541-42-2 et par les dispositions du règlement (CE) n° 1013/2006 du Parlement et du Conseil du 14 juin 2006 concernant les transferts de déchets sous réserve des dispositions transitoires prévues en son article 62 ;
+
+13° L'exploitation des sites de stockage géologique de dioxyde de carbone conformément à la section 6 du chapitre IX du titre II du livre II.
