@@ -22,4 +22,6 @@ a) Le ravalement des halls de grande hauteur ;
 
 b) Les accès aux machineries d'ascenseurs ;
 
-c) Les accès aux canalisations en galerie technique, ou en vide sanitaire.
+c) Les accès aux canalisations en galerie technique, ou en vide sanitaire ;
+
+5° Pour la localisation des espaces d'attente sécurisés au sens des articles R. 4216-2-1, R. 4216-2-2 et R. 4216-2-3, il précise les caractéristiques de ces espaces.

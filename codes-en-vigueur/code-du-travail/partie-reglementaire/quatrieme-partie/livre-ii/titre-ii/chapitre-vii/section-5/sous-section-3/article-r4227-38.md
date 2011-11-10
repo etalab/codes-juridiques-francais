@@ -8,7 +8,7 @@ La consigne de sécurité incendie indique :
 
 3° Pour chaque local, les personnes chargées de diriger l'évacuation des travailleurs et éventuellement du public ;
 
-4° Les mesures spécifiques liées, le cas échéant, à la présence de handicapés ;
+4° Les mesures spécifiques liées à la présence de personnes handicapées, et notamment le nombre et la localisation des espaces d'attentes sécurisés ou des espaces équivalents ;
 
 5° Les moyens d'alerte ;
 

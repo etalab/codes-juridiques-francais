@@ -6,4 +6,4 @@ Dans les établissements mentionnés à l'article R. 4227-34, une consigne de s�
 
 2° Dans chaque local ou dans chaque dégagement desservant un groupe de locaux dans les autres cas.
 
-Dans les autres établissements, des instructions sont établies, permettant d'assurer l'évacuation rapide des personnes occupées ou réunies dans les locaux.
+Dans les autres établissements, des instructions sont établies, permettant d'assurer l'évacuation des personnes présentes dans les locaux dans les conditions prévues au 1° de l'article R. 4216-2.
