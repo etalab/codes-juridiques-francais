@@ -6,7 +6,7 @@ Le comité régional de l'enseignement agricole, présidé par le préfet de ré
 
 a) Quatre représentants de l'Etat, à savoir :
 
--le         directeur régional de l'alimentation, de l'agriculture et de la forêt  ou, en cas d'absence ou d'empêchement, le chef du service régional de la formation et du développement ; dans les régions d'outre-mer, le directeur de l'agriculture et de la forêt ou son représentant ;
+-le directeur régional de l'alimentation, de l'agriculture et de la forêt ou, en cas d'absence ou d'empêchement, le chef du service régional de la formation et du développement ; dans les régions d'outre-mer, le directeur de l'agriculture et de la forêt ou son représentant ;
 
 -le recteur d'académie ou son représentant (lorsqu'une région comporte plusieurs académies, les recteurs de ces académies sont membres de droit du comité, mais seul le recteur de l'académie où se situe la préfecture de région a voix délibérative) ;
 
@@ -45,3 +45,11 @@ b) Six représentants des organisations professionnelles et syndicales représen
 -deux représentants des salariés de l'agriculture et des industries agro-alimentaires appartenant aux organisations syndicales les plus représentatives au plan régional, désignés respectivement par ces organisations.
 
 La liste des organisations professionnelles et syndicales représentatives et la répartition des sièges entre elles sont fixées par le préfet de région.
+
+4° Au titre du 4° de l'article L. 814-1 :
+
+a) Un représentant des élèves et étudiants des établissements d'enseignement agricole publics élu, ainsi que son suppléant, par et parmi les membres du conseil régional des délégués des élèves et étudiants de l'enseignement agricole public ;
+
+b) Un représentant des élèves et étudiants des établissements d'enseignement agricole privés élu, ainsi que son suppléant, par et parmi les délégués des élèves et étudiants inscrits dans les établissements situés dans le ressort du comité, ayant conclu un contrat avec l'Etat en application des articles L. 813-8 et L. 813-9. Les élèves et étudiants n'ayant pas de délégués appartiennent à un collège où tous sont électeurs et éligibles.
+
+Lorsqu'il n'existe pas d'établissement privé dans le ressort d'un comité régional, le siège mentionné au b est attribué à un représentant des élèves et étudiants des établissements d'enseignement agricole publics, élu parmi les membres du conseil régional des délégués des élèves et étudiants de l'enseignement agricole public.
