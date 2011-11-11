@@ -8,3 +8,4 @@
 - [Article D731-32](article-d731-32.md)
 - [Article D731-33](article-d731-33.md)
 - [Article D731-33-1](article-d731-33-1.md)
+- [Article R731-32-1](article-r731-32-1.md)
