@@ -19,3 +19,5 @@ Il contient les indications suivantes :
 7° Le montant prévu de la prime de fusion ou de scission ;
 
 8° Les droits accordés aux associés ayant des droits spéciaux et aux porteurs de titres autres que des actions ainsi que, le cas échéant, tous avantages particuliers.
+
+Pour les opérations mentionnées à l'article L. 236-11, le projet de fusion ne mentionne ni les modalités de remise des parts ou actions, ni la date à partir de laquelle ces parts ou actions donnent droit aux bénéfices, ni aucune modalité particulière relative à ce droit, ni aucune des indications prévues 6° et 7° du présent article.
