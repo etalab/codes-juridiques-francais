@@ -2,7 +2,7 @@
 
 Pour l'application du c du II de l'article L. 211-18, la personne physique ou le représentant de la personne morale justifie :
 
-1° Soit de la réalisation d'un stage en relation avec les activités mentionnées à l'article L. 211-1, effectué auprès d'un centre de formation, répondant à des critères fixés par arrêté du ministre chargé du tourisme et d'une durée qui ne peut être inférieure à quatre mois ;
+1° Soit de la réalisation d'un stage en relation avec les activités mentionnées à l'article L. 211-1, effectué auprès d'un centre de formation, répondant à des critères fixés par arrêté du ministre chargé du tourisme et d'une durée qui ne peut être inférieure à quatre mois ou, pour les associations et organismes sans but lucratif dont l'objet principal n'est pas l'organisation de voyages et de séjours, auprès d'une structure dispensant un programme de formation agréé par arrêté du ministre chargé du tourisme ;
 
 2° Soit d'une expérience professionnelle d'une durée minimale d'un an dans des domaines en rapport avec les opérations mentionnées au I de l'article L. 211-1 ou avec des prestations d'hébergement touristique ou de transport touristique. ;
 
