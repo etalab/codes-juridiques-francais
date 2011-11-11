@@ -6,7 +6,7 @@ Pour obtenir l'approbation de son système de qualité, le fabricant introduit, 
 
 2° Les lieux de conception, de fabrication, d'inspection, d'essai et de stockage ;
 
-3° Le dossier technique prévu à l'article R. 4313-6 pour un modèle de chaque machine citée à l'article R. 4313-82 ;
+3° Le dossier technique prévu à l'article R. 4313-6 pour un modèle de chaque machine citée à l'article R. 4313-78 ;
 
 4° La documentation sur le système de qualité ;
 
