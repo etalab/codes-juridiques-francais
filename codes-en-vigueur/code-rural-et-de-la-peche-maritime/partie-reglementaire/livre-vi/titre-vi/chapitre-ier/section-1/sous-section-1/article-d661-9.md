@@ -8,4 +8,4 @@ Les représentants des professionnels et des utilisateurs comprennent :
 
 2° Au moins un représentant de chacune des catégories suivantes : obtenteurs de variétés, établissements producteurs de semences ou de plants, agriculteurs multiplicateurs de semences ou de plants, utilisateurs de semences ou de plants, utilisateurs de produits des récoltes obtenues à partir des semences ou plants, instituts techniques spécialisés ou assimilés.
 
-II. - Le président, le secrétaire et les membres des sections sont nommés par arrêté du ministre chargé de l'agriculture, après avis du comité plénier, pour une durée de deux ans.
+II. - Le président, le secrétaire et les membres des sections sont nommés par arrêté du ministre chargé de l'agriculture, après avis du comité plénier, pour une durée de trois ans.
