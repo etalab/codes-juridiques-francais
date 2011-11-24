@@ -4,7 +4,7 @@ Sont à la charge des régimes obligatoires de base de l'assurance maladie dans 
 
 1° Les soins dispensés par des établissements de santé autres que ceux autorisés à dispenser des soins de longue durée ;
 
-2° Les séjours et interventions de services de suppléance aux insuffisants rénaux et respiratoires chroniques ;
+2° Les séjours, interventions d'infirmier à titre libéral pour la réalisation d'actes nécessaires à la dialyse péritonéale et interventions de services de suppléance aux insuffisants rénaux et respiratoires chroniques ;
 
 3° Les interventions in situ des équipes pluridisciplinaires relevant des secteurs de psychiatrie générale définis aux articles R. 3221-1 et R. 3221-5 du code de la santé publique ;
 
