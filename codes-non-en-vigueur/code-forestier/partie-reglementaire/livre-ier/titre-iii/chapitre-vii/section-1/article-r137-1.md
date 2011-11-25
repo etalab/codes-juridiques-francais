@@ -12,13 +12,13 @@ Lorsque la concession de pâturage ne peut pas être conclue à l'amiable, il es
 
 1° Le chef des services de l'Office national des forêts dans le département ou son représentant, président ;
 
-2° Le directeur des services fiscaux territorialement compétent ou son représentant ;
+2° Le directeur départemental des finances publiques territorialement compétent ou son représentant ;
 
 3° L'un des exploitants agricoles membres de la commission prévue au troisième alinéa du présent article, désigné par la chambre départementale d'agriculture.
 
 Toutes les concessions de pâturage sont consenties, sous forme de vente d'herbe ou de produits, pour un nombre maximal d'animaux appartenant à une ou plusieurs espèces déterminées.
 
-Les actes de concession conclus à l'amiable ou après appel à la concurrence pour une durée n'excédant pas neuf ans sont passés, par dérogation à l'article R. 121-2, par le chef des services de l'Office national des forêts dans le département, suivant un contrat type approuvé par le ministre chargé des forêts et le ministre chargé du domaine. Lorsque leur durée est supérieure à trois ans, ces actes sont approuvés par le directeur des services fiscaux territorialement compétent.
+Les actes de concession conclus à l'amiable ou après appel à la concurrence pour une durée n'excédant pas neuf ans sont passés, par dérogation à l'article R. 121-2, par le chef des services de l'Office national des forêts dans le département, suivant un contrat type approuvé par le ministre chargé des forêts et le ministre chargé du domaine. Lorsque leur durée est supérieure à trois ans, ces actes sont approuvés par le directeur départemental des finances publiques territorialement compétent.
 
 Les actes de concession prévoient que la constatation de l'infraction réprimée par le deuxième alinéa de l'article R. 137-4 ouvre la faculté pour l'Office national des forêts de faire exécuter d'office les travaux de rétablissement des lieux dans leur état initial, aux frais du concessionnaire.
 
