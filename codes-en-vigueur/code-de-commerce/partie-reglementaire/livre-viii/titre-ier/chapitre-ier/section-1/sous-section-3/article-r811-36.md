@@ -4,4 +4,6 @@ La commission procède à la mise à jour de la liste des administrateurs judici
 
 L'administrateur judiciaire dont le nom a été retiré de la liste peut solliciter à nouveau son inscription lorsque la cause du retrait a disparu.
 
+Lorsqu'elle est saisie de cette demande ou en application de l'article L. 811-6, la commission statue dans les conditions mentionnées à l'article R. 811-43.
+
 La commission ne supprime de la liste le nom de l'administrateur judiciaire qui a démissionné qu'après avoir vérifié que ses dossiers ont été répartis entre les autres administrateurs judiciaires et ont donné lieu à une reddition des comptes et que l'administrateur judiciaire démissionnaire ne détient plus de fonds de tiers.
