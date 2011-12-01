@@ -7,5 +7,4 @@
 - [Article L2312-5](article-l2312-5.md)
 - [Article L2312-6](article-l2312-6.md)
 - [Article L2312-7](article-l2312-7.md)
-- [Article L2312-7-1](article-l2312-7-1.md)
 - [Article L2312-8](article-l2312-8.md)
