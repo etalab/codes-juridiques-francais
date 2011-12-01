@@ -12,4 +12,5 @@
 - [Article R2311-7-2](article-r2311-7-2.md)
 - [Article R2311-8](article-r2311-8.md)
 - [Article R2311-8-1](article-r2311-8-1.md)
+- [Article R2311-8-2](article-r2311-8-2.md)
 - [Article R2311-9](article-r2311-9.md)
