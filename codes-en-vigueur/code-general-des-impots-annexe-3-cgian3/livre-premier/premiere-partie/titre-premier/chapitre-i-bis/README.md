@@ -9,7 +9,7 @@
 - [Section IV bis : Modalités de l'exonération de la retenue à la source ou du prélèvement applicable aux dividendes, intérêts et redevances distribués ou payées entre sociétés associées d'Etats membres de la Communauté européenne](section-iv-bis)
 - [Section V : Profits de construction](section-v)
 - [Section V bis : Rachat d'une entreprise par ses salariés](section-v-bis)
-- [Section V ter : Exonération des plus-values à long terme afférentes à des titres de participation](section-v-ter)
+- [Section V ter : Cession de titres de participation détenus depuis moins de deux ans entre sociétés liées](section-v-ter)
 - [Section VI : Report en arrière des déficits](section-vi)
 - [Section VI bis : Option de souscription, achat ou attribution gratuite d'actions](section-vi-bis)
 - [Section VI ter : Crédit d'impôt pour investissement en faveur des entreprises implantées dans certains secteurs de la région Nord - Pas-de-Calais.](section-vi-ter)
