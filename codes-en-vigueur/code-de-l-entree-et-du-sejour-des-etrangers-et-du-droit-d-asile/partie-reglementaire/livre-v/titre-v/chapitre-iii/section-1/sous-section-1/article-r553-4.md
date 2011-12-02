@@ -7,3 +7,5 @@ Le règlement intérieur est établi par le chef de centre et approuvé par le p
 Il est traduit dans les langues les plus couramment utilisées désignées par un arrêté du ministre chargé de l'immigration.
 
 Un exemplaire en langue française et traduit dans les langues prévues à l'alinéa précédent est affiché dans les parties communes du centre.
+
+Les informations mentionnées à l'article R. 8252-2 du code du travail sont affichées dans les parties communes du centre de rétention administrative. Elles sont disponibles en langue française et traduites dans les langues étrangères désignées par le ministre chargé de l'immigration.
