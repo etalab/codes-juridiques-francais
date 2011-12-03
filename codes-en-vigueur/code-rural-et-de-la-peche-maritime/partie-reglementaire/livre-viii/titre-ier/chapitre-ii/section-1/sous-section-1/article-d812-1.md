@@ -22,6 +22,6 @@ L'enseignement supérieur agricole public relevant du ministre chargé de l'agri
 
 10° L'Ecole nationale de formation agronomique de Toulouse ;
 
-11° L'Ecole nationale d'ingénieurs des travaux agricoles de Bordeaux ;
+11° L'Ecole nationale supérieure des sciences agronomiques de Bordeaux Aquitaine (Bordeaux Sciences Agro) ;
 
 12° L'Ecole nationale du génie de l'eau et de l'environnement de Strasbourg.
