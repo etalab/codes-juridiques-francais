@@ -4,9 +4,9 @@ La commission permanente dans les établissements régionaux d'enseignement adap
 
 1° Le chef d'établissement, président ;
 
-2° L'adjoint au chef d'établissement ou, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de pluralité d'adjoints ;
+2° Le chef d'établissement adjoint ou, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de pluralité d'adjoints ;
 
-3° Le gestionnaire ;
+3° L'adjoint gestionnaire ;
 
 4° Un représentant de la collectivité territoriale de rattachement ;
 

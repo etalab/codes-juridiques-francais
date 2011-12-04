@@ -4,9 +4,9 @@ Le conseil d'administration des établissements régionaux d'enseignement adapt�
 
 1° Le chef d'établissement, président ;
 
-2° L'adjoint au chef d'établissement ;
+2° Le chef d'établissement adjoint ;
 
-3° Le gestionnaire de l'établissement ;
+3° L'adjoint gestionnaire ;
 
 4° Le conseiller principal d'éducation le plus ancien ou le chef des travaux ;
 

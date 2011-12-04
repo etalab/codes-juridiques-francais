@@ -4,9 +4,9 @@ Le conseil d'administration des collèges et des lycées comprend :
 
 1° Le chef d'établissement, président ;
 
-2° L'adjoint au chef d'établissement ou, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de pluralité d'adjoints ;
+2° Le chef d'établissement adjoint ou, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de pluralité d'adjoints ;
 
-3° Le gestionnaire de l'établissement ;
+3°     L'adjoint gestionnaire ;
 
 4° Le conseiller principal d'éducation le plus ancien ;
 
