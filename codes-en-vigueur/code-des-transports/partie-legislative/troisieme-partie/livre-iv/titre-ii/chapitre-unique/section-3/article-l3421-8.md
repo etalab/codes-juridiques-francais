@@ -1,6 +1,6 @@
 # Article L3421-8
 
-Sans préjudice de l'article L. 3421-2, un transporteur non résident ne peut se prévaloir des dispositions du règlement (CE) n° 1072/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes pour l'accès au marché du transport international de marchandises par route, ni celles du règlement (CE) n° 12/98 du Conseil du 11 décembre 1997 fixant les conditions de l'admission des transporteurs non résidents aux transports nationaux de voyageurs par route dans un Etat membre, lorsqu'il exerce sur le territoire national :
+Sans préjudice de l'article L. 3421-2, un transporteur non résident ne peut se prévaloir des dispositions du règlement (CE) n° 1072/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes pour l'accès au marché du transport international de marchandises par route, ni celles du règlement (CE) n° 1073/2009 du Parlement européen et du Conseil du 21 octobre 2009 fixant les conditions de l'admission des transporteurs non résidents aux transports nationaux de voyageurs par route dans un Etat membre, lorsqu'il exerce sur le territoire national :
 
 1° Une activité de transport intérieur de façon habituelle, continuelle ou régulière ;
 
