@@ -24,7 +24,7 @@ e) Collège et lycée à sections internationales de Sèvres (Hauts-de-Seine) ;
 
 f) Collège et lycée à sections internationales des Pontonniers de Strasbourg (Bas-Rhin) ;
 
-g) Foyer des lycéennes de Paris ;
+g) Lycée d'Etat Jean Zay internat d'excellence ;
 
 h) Collège et lycée d'Etat à sections internationales de Valbonne (Alpes-Maritimes) ;
 
@@ -34,4 +34,4 @@ j) Lycée polyvalent d'Etat et lycée professionnel de Saint-Pierre-et-Miquelon 
 
 k) Lycée-collège d'Etat de Sourdun ;
 
-l)  Internat d'excellence  de  Montpellier.
+l) Internat d'excellence de Montpellier.
