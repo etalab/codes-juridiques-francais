@@ -10,7 +10,7 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 
 4° Le livre IV, à l'exception des articles R. 463-16, R. 470-2 à R. 470-7 ;
 
-5° Le livre V, à l'exception des articles R. 522-1 à R. 522-25 ;
+5° Le livre V                  ;
 
 6° Le livre VI, à l'exception des articles R. 625-4, R. 670-1 à R. 670-7 ;
 
