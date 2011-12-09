@@ -1,6 +1,6 @@
 # Article D1143-9
 
-Le contrat pour l'égalité professionnelle précise :
+Le     contrat pour la mixité des emplois et l'égalité professionnelle entre les femmes et les hommes précise :
 
 1° L'objet et la nature des engagements souscrits par l'employeur ;
 

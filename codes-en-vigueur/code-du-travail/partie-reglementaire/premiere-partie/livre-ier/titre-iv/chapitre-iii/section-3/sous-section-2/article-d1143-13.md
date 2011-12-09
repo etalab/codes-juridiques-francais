@@ -1,3 +1,3 @@
 # Article D1143-13
 
-A défaut d'accord collectif de travail, ou en l'absence d'organisation syndicale de salariés représentative dans l'entreprise, l'employeur peut bénéficier de l'aide de l'Etat s'il décide de la mise en œuvre d'un plan pour l'égalité professionnelle dans les conditions prévues à l'article L. 1143-2.
+Pour le bénéfice de l'aide financière, les actions en faveur des salariés sous contrat à durée déterminée et des salariés intérimaires sont prises en compte lorsque leur contrat, ou la durée de leur mission, est d'une durée supérieure ou égale à six mois.
