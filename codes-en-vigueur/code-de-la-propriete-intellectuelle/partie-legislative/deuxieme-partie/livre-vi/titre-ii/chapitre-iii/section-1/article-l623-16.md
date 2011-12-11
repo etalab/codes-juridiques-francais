@@ -6,4 +6,4 @@ Une redevance est versée annuellement pendant toute la durée de validité du c
 
 Le barème de ces redevances est fixé par voie réglementaire.
 
-Le produit de ces redevances est porté en recettes à une section spéciale du budget de l'Institut national de la recherche agronomique.
+Le produit de ces redevances est porté en recettes au groupement d'intérêt public mentionné à l'article L. 412-1.

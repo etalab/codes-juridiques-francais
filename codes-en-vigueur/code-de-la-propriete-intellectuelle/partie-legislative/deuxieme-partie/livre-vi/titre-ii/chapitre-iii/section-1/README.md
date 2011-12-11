@@ -4,6 +4,7 @@
 - [Article L623-2](article-l623-2.md)
 - [Article L623-3](article-l623-3.md)
 - [Article L623-4](article-l623-4.md)
+- [Article L623-4-1](article-l623-4-1.md)
 - [Article L623-5](article-l623-5.md)
 - [Article L623-6](article-l623-6.md)
 - [Article L623-7](article-l623-7.md)
