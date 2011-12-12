@@ -1,8 +1,8 @@
 # Article 40
 
-I. - En dehors des exceptions prévues au cinquième alinéa de l'article 28 ainsi qu'au II de l'article 35, tout marché ou accord-cadre d'un montant égal ou supérieur à 4 000 euros HT est précédé d'une publicité, dans les conditions définies ci-après.
+I. - En dehors des exceptions prévues aux II et III de l'article 28 ainsi qu'au II de l'article 35, tout marché ou accord-cadre d'un montant égal ou supérieur à 15 000 euros HT est précédé d'une publicité, dans les conditions définies ci-après.
 
-II. - Pour les achats de fournitures, de services et de travaux d'un montant compris entre 4 000 euros HT et 90 000 euros HT, ainsi que pour les achats de services relevant du I de l'article 30 d'un montant égal ou supérieur à 4 000 euros HT, le pouvoir adjudicateur choisit librement les modalités de publicité adaptées en fonction des caractéristiques du marché, notamment le montant et la nature des travaux, des fournitures ou des services en cause.
+II. - Pour les achats de fournitures, de services et de travaux d'un montant compris entre 15 000 euros HT et 90 000 euros HT, ainsi que pour les achats de services relevant du I de l'article 30 d'un montant égal ou supérieur à 15 000 euros HT, le pouvoir adjudicateur choisit librement les modalités de publicité adaptées en fonction des caractéristiques du marché, notamment le montant et la nature des travaux, des fournitures ou des services en cause.
 
 III. ― 1° Lorsque le montant estimé du besoin est compris entre 90 000 euros HT et les seuils de procédure formalisée définis à l'article 26, le pouvoir adjudicateur est tenu de publier un avis d'appel public à la concurrence soit dans le Bulletin officiel des annonces des marchés publics, soit dans un journal habilité à recevoir des annonces légales, ainsi que sur son profil d'acheteur. Cet avis est établi conformément au modèle fixé par arrêté du ministre chargé de l'économie. Le pouvoir adjudicateur n'est pas tenu d'y faire figurer une estimation du prix des prestations attendues.
 
@@ -12,7 +12,7 @@ Le pouvoir adjudicateur apprécie si, compte tenu de la nature ou du montant des
 
 IV. ― Le pouvoir adjudicateur peut faire paraître, en plus de ces avis, un avis d'appel public à la concurrence dans une autre publication dans des conditions précisées par un arrêté du ministre chargé de l'économie.
 
-V. - Pour les marchés passés dans le cadre d'un système d'acquisition dynamique, l'avis d'appel public à la concurrence est un avis de marché simplifié établi pour publication au Journal officiel de l'Union européenne conformément au modèle fixé par le         règlement de la Commission européenne établissant les formulaires standard pour la publication d'avis en matière de marchés publics.
+V. - Pour les marchés passés dans le cadre d'un système d'acquisition dynamique, l'avis d'appel public à la concurrence est un avis de marché simplifié établi pour publication au Journal officiel de l'Union européenne conformément au modèle fixé par le règlement de la Commission européenne établissant les formulaires standard pour la publication d'avis en matière de marchés publics.
 
 VI. - Les avis destinés au Bulletin officiel des annonces des marchés publics sont envoyés par téléprocédure. Ils sont publiés sur support papier ou sous forme électronique.
 
