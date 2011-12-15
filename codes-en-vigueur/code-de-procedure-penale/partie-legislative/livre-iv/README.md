@@ -1,6 +1,5 @@
 # Livre IV : De quelques procédures particulières
 
-- [Titre Ier : De la coopération avec la Cour pénale internationale](titre-ier)
 - [Titre Ier bis : De la question prioritaire de constitutionnalité](titre-ier-bis)
 - [Titre II : Du faux](titre-ii)
 - [Titre III : De la manière de procéder en cas de disparition des pièces d'une procédure](titre-iii)
