@@ -32,3 +32,4 @@
 - [Titre XXIX : Des saisies spéciales](titre-xxix)
 - [Titre XXXI : Des mesures conservatoires](titre-xxxi)
 - [TITRE XXXII : DE LA PROCÉDURE APPLICABLE AUX INFRACTIONS RELATIVES À LA PROLIFÉRATION D'ARMES DE DESTRUCTION MASSIVE ET DE LEURS VECTEURS](titre-xxxii)
+- [Titre XXXIII : De la procédure applicable en cas d'accident collectif](titre-xxxiii)

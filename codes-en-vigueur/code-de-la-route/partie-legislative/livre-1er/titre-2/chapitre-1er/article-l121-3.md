@@ -7,3 +7,5 @@ La personne déclarée redevable en application des dispositions du présent art
 Lorsque le certificat d'immatriculation du véhicule est établi au nom d'une personne morale, la responsabilité pécuniaire prévue au premier alinéa incombe, sous les réserves prévues au premier alinéa de l'article L. 121-2, au représentant légal de cette personne morale.
 
 Lorsque le véhicule était loué à un tiers, la responsabilité pécuniaire prévue au premier alinéa incombe au locataire, sous les réserves prévues au premier alinéa de l'article L. 121-2.
+
+Dans le cas où le véhicule a été cédé, la responsabilité pécuniaire prévue au premier alinéa du présent article incombe, sous les réserves prévues au premier alinéa de l'article L. 121-2, à l'acquéreur du véhicule.

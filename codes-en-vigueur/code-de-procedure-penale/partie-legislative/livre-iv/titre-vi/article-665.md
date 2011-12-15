@@ -4,6 +4,8 @@ Le renvoi d'une affaire d'une juridiction à une autre peut être ordonné pour 
 
 Le renvoi peut également être ordonné, dans l'intérêt d'une bonne administration de la justice, par la chambre criminelle, soit sur requête du procureur général près la Cour de cassation, soit sur requête du procureur général près la cour d'appel dans le ressort de laquelle la juridiction saisie a son siège, agissant d'initiative ou sur demande des parties.
 
+La requête mentionnée au deuxième alinéa doit être signifiée à toutes les parties intéressées, qui ont un délai de huit jours pour déposer un mémoire au greffe de la Cour de cassation.
+
 Dans les dix jours de la réception de la demande et s'il n'y donne pas suite, le procureur général près la cour d'appel informe le demandeur des motifs de sa décision. Ce dernier peut alors former un recours devant le procureur général près la Cour de cassation qui, s'il ne saisit pas la chambre criminelle l'informe des motifs de sa décision.
 
 La chambre criminelle statue dans les huit jours de la requête.

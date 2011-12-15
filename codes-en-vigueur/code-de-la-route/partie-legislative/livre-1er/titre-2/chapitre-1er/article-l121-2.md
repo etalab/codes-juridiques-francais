@@ -4,4 +4,6 @@ Par dérogation aux dispositions de l'article L. 121-1, le titulaire du certific
 
 Dans le cas où le véhicule était loué à un tiers, cette responsabilité pèse, avec les mêmes réserves, sur le locataire.
 
+Dans le cas où le véhicule a été cédé, cette responsabilité pèse, avec les mêmes réserves, sur l'acquéreur du véhicule.
+
 Lorsque le certificat d'immatriculation du véhicule est établi au nom d'une personne morale, la responsabilité pécuniaire prévue au premier alinéa incombe, sous les mêmes réserves, au représentant légal de cette personne morale.

@@ -21,3 +21,5 @@ Le conseil donne un avis sur les mesures individuelles concernant la situation e
 Sauf en matière disciplinaire, tous les membres du conseil siègent, quel que soit le niveau hiérarchique des magistrats dont le cas est examiné. Toutefois, les représentants des conseillers maîtres en service extraordinaire et des rapporteurs extérieurs ne siègent pas lorsque le conseil se réunit pour donner l'avis prévu à l'alinéa précédent.
 
 Lorsque la situation de l'un des membres élus du conseil supérieur est évoquée à l'occasion de l'examen d'une question figurant à l'ordre du jour, le magistrat, le conseiller maître en service extraordinaire ou le rapporteur extérieur en cause ne siège pas à la réunion. Il est remplacé par son suppléant.
+
+Les membres de la Cour des comptes sont tenus de se conformer, dans l'exercice de leurs attributions, aux normes professionnelles fixées par le premier président, après avis du Conseil supérieur de la Cour des comptes.

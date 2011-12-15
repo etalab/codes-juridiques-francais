@@ -4,4 +4,6 @@ A la demande de l'intéressé, toute juridiction prononçant un non-lieu, une re
 
 Cette indemnité est à la charge de l'Etat. La juridiction peut toutefois ordonner qu'elle soit mise à la charge de la partie civile lorsque l'action publique a été mise en mouvement par cette dernière.
 
+Ces dispositions sont également applicables devant la Cour de cassation en cas de rejet d'un pourvoi portant sur une décision de non-lieu, de relaxe ou d'acquittement.
+
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.

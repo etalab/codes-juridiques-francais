@@ -8,13 +8,15 @@ Ce droit est de :
 
 2° 22 euros pour les autres décisions des tribunaux de police et des juridictions de proximité et celles des juridictions qui ne statuent pas sur le fond ;
 
-3° 90 euros pour les décisions des tribunaux correctionnels. Toutefois, ce droit est porté à 180 euros si le condamné n'a pas comparu personnellement, dès lors que la citation a été délivrée à personne ou qu'il est établi que le prévenu a eu connaissance de la citation, sauf s'il est jugé en son absence dans les conditions prévues par les premier et deuxième alinéas de l'article 411 du code de procédure pénale. Cette majoration ne s'applique pas si le condamné s'acquitte volontairement du montant du droit fixe de procédure dans un délai d'un mois à compter de la date où il a eu connaissance de la décision. Lorsque la personne a été condamnée pour le délit de conduite sous l'influence de produits stupéfiants prévu par l'article L. 235-1 du code de la route, le droit fixe de procédure est augmenté d'une somme fixée par décret en Conseil d'Etat, afin que le montant total du droit fixe soit égal au montant, arrondi à la dizaine inférieure, des indemnités maximales allouées aux personnes effectuant des analyses toxicologiques ;
+3° 90 euros pour les décisions des tribunaux correctionnels. Toutefois, ce droit est porté à 180 euros si le condamné n'a pas comparu personnellement, dès lors que la citation a été délivrée à personne ou qu'il est établi que le prévenu a eu connaissance de la citation, sauf s'il est jugé en son absence dans les conditions prévues par les premier et deuxième alinéas de l'article 411 du code de procédure pénale. Cette majoration ne s'applique pas si le condamné s'acquitte volontairement du montant du droit fixe de procédure dans un délai d'un mois à compter de la date où il a eu connaissance de la décision ;
 
 4° 120 euros pour les décisions des cours d'appel statuant en matière correctionnelle et de police ;
 
 5° 375 euros pour les décisions des cours d'assises.
 
 Il est de 150 euros pour les décisions de la Cour de cassation statuant en matière criminelle, correctionnelle ou de police.
+
+Lorsque la personne a été condamnée pour conduite sous l'influence de substances ou plantes classées comme stupéfiants en application de l'article L. 235-1 du code de la route ou du 3° des articles 221-6-1,222-19-1 ou 222-20-1 du code pénal, les droits fixes de procédure prévus au présent article sont augmentés d'une somme, fixée par arrêté du ministre de la justice, égale au montant, arrondi à la dizaine inférieure, des indemnités maximales prévues pour les différentes analyses toxicologiques permettant d'établir la présence de stupéfiants dans le sang.
 
 Les décisions rendues sur le fond s'entendent des jugements et arrêts des cours et tribunaux qui statuent sur l'action publique et qui ont pour effet, si aucune voie de recours n'est ouverte ou n'est exercée, de mettre fin à la procédure.
 

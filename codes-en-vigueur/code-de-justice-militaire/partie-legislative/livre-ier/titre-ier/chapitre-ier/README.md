@@ -7,3 +7,4 @@
 - [Section 5 : Incompatibilités.](section-5)
 - [Section 6 : Serment.](section-6)
 - [Section 7 : Défenseurs.](section-7)
+- [Article L111-1](article-l111-1.md)

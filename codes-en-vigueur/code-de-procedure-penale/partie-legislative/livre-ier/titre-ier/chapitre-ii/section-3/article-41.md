@@ -8,6 +8,8 @@ Le procureur de la République contrôle les mesures de garde à vue. Il visite 
 
 Il a tous les pouvoirs et prérogatives attachés à la qualité d'officier de police judiciaire prévus par la section II du chapitre Ier du titre Ier du présent livre, ainsi que par des lois spéciales.
 
+Il peut se transporter dans toute l'étendue du territoire national. Il peut également, dans le cadre d'une demande d'entraide adressée à un Etat étranger et avec l'accord des autorités compétentes de l'Etat concerné, se transporter sur le territoire d'un Etat étranger aux fins de procéder à des auditions.
+
 En cas d'infractions flagrantes, il exerce les pouvoirs qui lui sont attribués par l'article 68.
 
 Le procureur de la République peut également requérir, suivant les cas, le service pénitentiaire d'insertion et de probation, le service compétent de l'éducation surveillée ou toute personne habilitée dans les conditions prévues par l'article 81, sixième alinéa, de vérifier la situation matérielle, familiale et sociale d'une personne faisant l'objet d'une enquête et de l'informer sur les mesures propres à favoriser l'insertion sociale de l'intéressé.
