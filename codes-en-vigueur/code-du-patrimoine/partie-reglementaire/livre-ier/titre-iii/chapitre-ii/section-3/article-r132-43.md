@@ -1,5 +1,7 @@
 # Article R132-43
 
-Les déposants fournissent à l'Institut national de l'audiovisuel le conducteur des émissions, le rapport du chef de chaîne, une copie de la déclaration des droits relatifs aux programmes musicaux, les documents d'accompagnement dont ils disposent, et notamment le dossier de presse, le synopsis, la fiche technique et le matériel publicitaire.
+La consultation sur place des services de communication au public en ligne et des services de médias audiovisuels à la demande collectés s'effectue :
 
-Les ministres chargés de la culture et de la communication fixent par arrêté conjoint les mentions que doivent porter les documents mentionnés à la présente section.
+1° A l'Institut national de l'audiovisuel et dans tout organisme habilité à mettre en œuvre cette consultation par arrêté des ministres chargés de la culture et de la communication ;
+
+2° Sur des postes individuels équipés d'interfaces d'accès, de recherche et de traitement fournies par l'Institut national de l'audiovisuel ou les organismes habilités et dont l'usage est strictement réservé à des chercheurs dûment accrédités.

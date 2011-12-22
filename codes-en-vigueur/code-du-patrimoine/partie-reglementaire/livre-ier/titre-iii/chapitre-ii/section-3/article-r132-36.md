@@ -1,6 +1,6 @@
 # Article R132-36
 
-I. ― Sont intégralement collectés par l'Institut national de l'audiovisuel et conservés les documents sonores suivants lorsqu'ils sont d'origine française et font l'objet d'une première diffusion au sens de l'article R. 132-38 :
+I. ― Sont intégralement collectés par l'Institut national de l'audiovisuel et conservés les documents sonores suivants lorsqu'ils sont d'origine française au sens de l'article R. 132-37 et font l'objet d'une première diffusion par les services de radio mentionnés au 2° de l'article R. 132-34 :
 
 1° Les œuvres littéraires, dramatiques et documentaires ;
 
@@ -14,6 +14,6 @@ I. ― Sont intégralement collectés par l'Institut national de l'audiovisuel e
 
 6° Les messages publicitaires ;
 
-7° Les émissions relevant d'obligations particulières des cahiers des missions et des charges.
+7° Les émissions relevant d'obligations particulières des cahiers des charges des sociétés nationales de programme.
 
-II. ― Les autres émissions ou éléments d'émission font l'objet d'une sélection en vue d'un échantillonnage dans les conditions fixées par les articles R. 132-39, D. 132-40 et R. 132-41.
+II. ― Les autres émissions ou éléments d'émission sont collectés à raison d'au moins quatre documents par titre ou par discipline sportive ou par genre, par déposant et par an, à l'exception des journaux qui sont collectés à raison d'au moins une édition par jour et par déposant.

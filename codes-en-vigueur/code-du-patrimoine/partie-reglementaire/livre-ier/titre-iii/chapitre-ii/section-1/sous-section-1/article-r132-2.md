@@ -6,7 +6,7 @@ Les documents imprimés suivants ne sont pas soumis à l'obligation de dépôt :
 
 2° Les documents électoraux mentionnés aux articles R. 26, R. 29 et R. 30 du code électoral ;
 
-3° Les documents mentionnés au premier alinéa du présent article et importés à moins de cent exemplaires ;
+3° Les documents mentionnés à l'article R. 132-1 et importés à moins de cent exemplaires ;
 
 4° Les partitions musicales et les chorégraphies importées à moins de trente exemplaires ;
 
