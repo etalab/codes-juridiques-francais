@@ -15,4 +15,3 @@
 - [Article R350-13](article-r350-13.md)
 - [Article R350-14](article-r350-14.md)
 - [Article R350-15](article-r350-15.md)
-- [Article R350-16](article-r350-16.md)
