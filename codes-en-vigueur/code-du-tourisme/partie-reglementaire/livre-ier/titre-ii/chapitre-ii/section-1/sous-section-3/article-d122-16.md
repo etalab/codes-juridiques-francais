@@ -2,9 +2,9 @@
 
 Participent aux travaux du Conseil national du tourisme, à titre consultatif, les chefs des conseils généraux et des inspections générales suivants ou leurs représentants :
 
--Conseil général des ponts et chaussées ;
+-Conseil général de l'environnement et du développement durable ;
 
--              Conseil général de l'alimentation, de l'agriculture et des espaces ruraux ;
+-Conseil général de l'alimentation, de l'agriculture et des espaces ruraux ;
 
 -inspection générale de l'administration ;
 
@@ -13,8 +13,6 @@ Participent aux travaux du Conseil national du tourisme, à titre consultatif, l
 -inspection générale de l'administration des affaires culturelles ;
 
 -inspection générale de l'éducation nationale ;
-
--inspection générale de l'environnement ;
 
 -inspection générale des finances ;
 
