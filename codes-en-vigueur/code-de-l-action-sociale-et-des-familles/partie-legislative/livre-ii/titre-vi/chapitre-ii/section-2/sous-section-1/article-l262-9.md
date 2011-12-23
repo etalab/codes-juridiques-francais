@@ -8,4 +8,4 @@ Le montant forfaitaire mentionné au 2° de l'article L. 262-2 est majoré, pend
 
 La durée de la période de majoration est prolongée jusqu'à ce que le dernier enfant ait atteint un âge limite.
 
-Est considérée comme isolée une personne veuve, divorcée, séparée ou célibataire, qui ne vit pas en couple de manière notoire et permanente. Lorsque l'un des membres du couple réside à l'étranger, n'est pas considéré comme isolé celui qui réside en France.
+Est considérée comme isolée une personne veuve, divorcée, séparée ou célibataire, qui ne vit pas en couple de manière notoire et permanente et qui notamment ne met pas en commun avec un conjoint, concubin ou partenaire de pacte civil de solidarité ses ressources et ses charges. Lorsque l'un des membres du couple réside à l'étranger, n'est pas considéré comme isolé celui qui réside en France.

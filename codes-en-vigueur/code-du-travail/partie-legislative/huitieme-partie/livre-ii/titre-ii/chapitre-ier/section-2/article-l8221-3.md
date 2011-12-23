@@ -4,4 +4,4 @@ Est réputé travail dissimulé par dissimulation d'activité, l'exercice à but
 
 1° Soit n'a pas demandé son immatriculation au répertoire des métiers ou, dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin, au registre des entreprises ou au registre du commerce et des sociétés, lorsque celle-ci est obligatoire, ou a poursuivi son activité après refus d'immatriculation, ou postérieurement à une radiation ;
 
-2° Soit n'a pas procédé aux déclarations qui doivent être faites aux organismes de protection sociale ou à l'administration fiscale en vertu des dispositions légales en vigueur.
+2° Soit n'a pas procédé aux déclarations qui doivent être faites aux organismes de protection sociale ou à l'administration fiscale en vertu des dispositions légales en vigueur. Cette situation peut notamment résulter de la non-déclaration d'une partie de son chiffre d'affaires ou de ses revenus ou de la continuation d'activité après avoir été radié par les organismes de protection sociale en application de l'article L. 133-6-7-1 du code de la sécurité sociale.
