@@ -12,6 +12,7 @@
 - [Article R2224-15](article-r2224-15.md)
 - [Article R2224-16](article-r2224-16.md)
 - [Article R2224-17](article-r2224-17.md)
+- [Article R2224-18](article-r2224-18.md)
 - [Article R2224-19](article-r2224-19.md)
 - [Article R2224-19-1](article-r2224-19-1.md)
 - [Article R2224-19-2](article-r2224-19-2.md)
