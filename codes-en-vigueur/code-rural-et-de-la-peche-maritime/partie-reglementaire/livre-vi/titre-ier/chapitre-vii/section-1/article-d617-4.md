@@ -9,3 +9,5 @@ La certification de troisième niveau, permettant l'utilisation de la mention " 
 Ces seuils et indicateurs sont fixés par arrêté du ministre chargé de l'agriculture et du ministre chargé de l'environnement.
 
 Conformément à l'article L. 611-1, l'emploi de la mention " exploitation de haute valeur environnementale ”, ou de toute autre dénomination équivalente dans la publicité ou la présentation d'une exploitation agricole ainsi que dans les documents commerciaux qui s'y rapportent, est réservé aux exploitations ayant obtenu la certification de haute valeur environnementale.
+
+Les exploitations situées dans un autre Etat membre de l'Union européenne, dans un Etat partie à l'accord sur l'Espace économique européen ou en Turquie peuvent demander à bénéficier de cette certification.
