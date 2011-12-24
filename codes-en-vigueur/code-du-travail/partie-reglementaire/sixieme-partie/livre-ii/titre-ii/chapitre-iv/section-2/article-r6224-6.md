@@ -12,4 +12,4 @@ La chambre consulaire adresse copie du contrat :
 
 5° Au service chargé de l'inspection de l'apprentissage ;
 
-6° Au service chargé du suivi statistique des contrats d'apprentissage.
+6° A la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi du lieu d'exécution du contrat d'apprentissage, sous une forme dématérialisée.
