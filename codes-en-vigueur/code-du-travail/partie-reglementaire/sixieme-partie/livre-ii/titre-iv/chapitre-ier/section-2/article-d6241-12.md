@@ -1,6 +1,6 @@
 # Article D6241-12
 
-Les recettes attribuées à la première section du Fonds de développement et de modernisation de l'apprentissage sont réparties entre les fonds régionaux de l'apprentissage et de la formation professionnelle continue par arrêté du ministre chargé de la formation professionnelle selon les critères suivants :
+les sommes affectées au financement des centres de formation d'apprentis et aux sections d'apprentissage mentionnés à l'article L. 6241-10 sont réparties entre les fonds régionaux de l'apprentissage et de la formation professionnelle continue selon les critères suivants :
 
 1° Pour 60 %, à due proportion du nombre d'apprentis inscrits dans les centres de formation d'apprentis et les sections d'apprentissage dans la région au 31 décembre précédent et d'un quotient :
 
