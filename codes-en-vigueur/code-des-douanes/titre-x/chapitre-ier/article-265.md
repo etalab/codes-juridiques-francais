@@ -1,12 +1,12 @@
 # Article 265
 
-1.-Les produits énergétiques repris aux tableaux B et C ci-après, mis en vente, utilisés ou destinés à être utilisés comme carburant ou combustible sont passibles d'une taxe intérieure de consommation dont les tarifs sont fixés comme suit :
+1. Les produits énergétiques repris aux tableaux B et C ci-après, mis en vente, utilisés ou destinés à être utilisés comme carburant ou combustible sont passibles d'une taxe intérieure de consommation dont les tarifs sont fixés comme suit :
 
 Tableau A (abrogé par l'article 43 de la loi de finances rectificative n° 92-1476 du 31 décembre 1992).
 
 Tableau B : Produits pétroliers et assimilés.
 
-1. Nomenclature et tarif.
+1° Nomenclature et tarif.
 
 <table>
 <tbody>
@@ -560,7 +560,7 @@ Tableau B : Produits pétroliers et assimilés.
 <p align="center">Hectolitre</p>
 </td>
 <td align="left" valign="top">
-<p align="center">5,66</p>
+<p align="center">7,20</p>
 </td>
 </tr>
 <tr>
@@ -1331,7 +1331,7 @@ Tableau B : Produits pétroliers et assimilés.
 </tbody>
 </table>
 
-2. Règles d'application.
+2° Règles d'application.
 
 a) et b) (alinéas abrogés).
 
@@ -1343,13 +1343,13 @@ d) (alinéa abrogé).
 
 Tableau C : Autres produits énergétiques.
 
-1. Définition (division abrogée).
+1° Définition (division abrogée).
 
-2. Tarif et règles d'application.
+2° Tarif et règles d'application.
 
 Les produits visés au présent tableau sont exemptés de la taxe intérieure de consommation, sauf lorsqu'ils sont destinés à être utilisés comme carburant ou combustible.
 
-3. Nomenclature.
+3° Nomenclature.
 
 <table>
 <tbody>
@@ -1496,7 +1496,7 @@ Les produits visés au présent tableau sont exemptés de la taxe intérieure de
 
 A compter du 1er janvier 2006, le montant de cette réfaction est de 1,77 euro par hectolitre pour le supercarburant et de 1,15 euro par hectolitre pour le gazole.
 
-A compter du 1er janvier 2007, les conseils régionaux et l'assemblée de Corse peuvent réduire ou augmenter le montant de la réfaction du taux de la taxe intérieure de consommation applicable aux carburants vendus aux consommateurs finals sur leur territoire dans la double limite de la fraction de tarif affectée à chaque région et à la collectivité territoriale de Corse en vertu du I de l'article 40 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006 relatif à la compensation financière des transferts de compétences aux régions et de respectivement 1,77 euro par hectolitre pour le supercarburant mentionné aux indices d'identification 11 et 11 ter et 1, 15 euro par hectolitre pour le gazole mentionné à l'indice d'identification 22.
+A compter du 1er janvier 2007, les conseils régionaux et l'assemblée de Corse peuvent réduire ou augmenter le montant de la réfaction du taux de la taxe intérieure de consommation applicable aux carburants vendus aux consommateurs finals sur leur territoire dans la double limite de la fraction de tarif affectée à chaque région et à la collectivité territoriale de Corse en vertu du I de l'article 40 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006 relatif à la compensation financière des transferts de compétences aux régions et de respectivement 1,77 euro par hectolitre pour le supercarburant mentionné aux indices d'identification 11 et 11 ter et 1,15 euro par hectolitre pour le gazole mentionné à l'indice d'identification 22.
 
 Les délibérations des conseils régionaux et de l'assemblée de Corse ne peuvent intervenir qu'une fois par an et au plus tard le 30 novembre de l'année qui précède l'entrée en vigueur du tarif modifié. Elles sont notifiées à la direction générale des douanes et droits indirects, qui procède à la publication des tarifs de la taxe intérieure de consommation ainsi modifiés au plus tard à la fin de la première quinzaine du mois de décembre suivant. Les tarifs modifiés de la taxe intérieure de consommation entrent en vigueur le 1er janvier de l'année suivante.
 

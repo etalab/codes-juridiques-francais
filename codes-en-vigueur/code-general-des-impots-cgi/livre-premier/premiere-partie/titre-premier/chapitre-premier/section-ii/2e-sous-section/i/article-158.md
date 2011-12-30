@@ -18,6 +18,8 @@ a. Aux produits des actions des sociétés d'investissement mentionnées au 1° 
 
 b. Aux produits des actions des sociétés mentionnées au 1° bis A de l'article 208 et des sociétés d'investissement de même nature établies hors de France et soumises à un régime fiscal équivalent ;
 
+b bis) Aux bénéfices exonérés distribués par les sociétés d'investissements immobiliers cotées mentionnées à l'article 208 C ou par les sociétés de placement à prépondérance immobilière à capital variable mentionnées au 3° nonies de l'article 208 ;
+
 c. Aux revenus distribués qui ne constituent pas la rémunération du bénéficiaire en sa qualité d'associé ou d'actionnaire. Pour l'application de cette disposition, est considéré comme actionnaire ou associé le preneur bénéficiaire de revenus mentionnés au 2° distribués par la société dont il loue les actions ou parts sociales en application des articles L. 239-1 à L. 239-5 du code de commerce. De même, en cas d'acquisition d'actions sur un marché d'instruments financiers, dont le fonctionnement est assuré par une entreprise de marché ou un prestataire de services d'investissement ou tout autre organisme similaire, est considéré comme actionnaire ou associé, dès le jour de l'exécution de l'ordre, l'acheteur bénéficiaire de revenus mentionnés au 2° ;
 
 d. Aux revenus distribués mentionnés au a de l'article 111 ;
@@ -40,7 +42,7 @@ Pour la détermination de cette part, il est également tenu compte des revenus 
 
 L'application de ces dispositions est conditionnée à la ventilation par les organismes ou sociétés en cause de leurs distributions ou répartitions en fonction de leur nature et origine ;
 
-5° Il est opéré un abattement annuel de 1 525 Euros pour les contribuables célibataires, divorcés ou veufs et de 3 050 Euros pour les contribuables mariés soumis à une imposition commune sur le montant net des revenus déterminé dans les conditions du 2° et après déduction des dépenses effectuées en vue de leur acquisition ou conservation.
+5° Il est opéré un abattement annuel de 1 525 € pour les contribuables célibataires, divorcés ou veufs et de 3 050 € pour les contribuables mariés soumis à une imposition commune sur le montant net des revenus déterminé dans les conditions du 2° et après déduction des dépenses effectuées en vue de leur acquisition ou conservation.
 
 4. Les bénéfices des professions industrielles, commerciales, artisanales et ceux de l'exploitation minière sont déterminés conformément aux dispositions des articles 34 à 61 A,237 ter A, et 302 septies A bis ; les rémunérations mentionnées à l'article 62 sont déterminées conformément aux dispositions de cet article ; les bénéfices de l'exploitation agricole sont déterminées conformément aux dispositions des articles 63 à 78 et des articles L1 à L4 du livre des procédures fiscales ; les bénéfices tirés de l'exercice d'une profession non commerciale sont déterminés conformément aux dispositions des articles 92 à 103. Toutefois, les plus-values à long terme définies aux articles 39 duodecies et au 1 de l'article 39 terdecies sont distraites des bénéfices en vue d'être distinctement taxées à l'impôt sur le revenu dans les conditions prévues au 2 de l'article 39 terdecies et aux articles 39 quindecies et 93 quater.
 

@@ -4,7 +4,7 @@ La dotation spéciale pour le logement des instituteurs est régie par les dispo
 
 " Art.L. 2334-26.-A compter de l'exercice 1986, les communes reçoivent une dotation spéciale, prélevée sur les recettes de l'Etat, au titre des charges qu'elles supportent pour le logement des instituteurs.
 
-Cette dotation évolue, chaque année, comme la dotation globale de fonctionnement. A titre dérogatoire, cette évolution ne s'applique pas en 2009 et en 2011. Le Comité des finances locales peut majorer cette dotation de tout ou partie du reliquat comptable afférent au dernier exercice connu.
+Cette dotation évolue, chaque année, comme la dotation globale de fonctionnement. A compter de 2011 cette évolution ne s'applique pas. Le Comité des finances locales peut majorer cette dotation de tout ou partie du reliquat comptable afférent au dernier exercice connu.
 
 Cette dotation est répartie par le comité des finances locales proportionnellement au nombre des instituteurs, exerçant dans les écoles publiques, qui sont logés par chaque commune ou qui reçoivent d'elle une indemnité de logement.
 

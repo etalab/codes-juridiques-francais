@@ -1,6 +1,6 @@
 # Article 283
 
-1. La taxe sur la valeur ajoutée doit être acquittée par les personnes qui réalisent les opérations imposables, sous réserve des cas visés aux articles 274 à 277 A où le versement de la taxe peut être suspendu.
+1. La taxe sur la valeur ajoutée doit être acquittée par les personnes qui réalisent les opérations imposables, sous réserve des cas visés aux articles 275 à 277 A où le versement de la taxe peut être suspendu.
 
 Toutefois, lorsqu'une livraison de biens ou une prestation de services mentionnée à l'article 259 A est effectuée par un assujetti établi hors de France, la taxe est acquittée par l'acquéreur, le destinataire ou le preneur qui agit en tant qu'assujetti et qui dispose d'un numéro d'identification à la taxe sur la valeur ajoutée en France. Le montant dû est identifié sur la déclaration mentionnée à l'article 287.
 
@@ -16,7 +16,7 @@ Toutefois, lorsqu'une livraison de biens ou une prestation de services mentionn�
 
 2 sexies. Pour les livraisons et les prestations de façon portant sur des déchets neufs d'industrie et des matières de récupération, la taxe est acquittée par le destinataire ou le preneur qui dispose d'un numéro d'identification à la taxe sur la valeur ajoutée en France.
 
-2 septies. Pour les transferts de quotas autorisant les exploitants à émettre  des gaz à effet de serre, au sens de l'article 3 de la directive 2003/87/CE du  Parlement européen et du Conseil du 13 octobre 2003 établissant un système  d'échange de quotas d'émission de gaz à effet de serre dans la Communauté et  modifiant la directive 96/61/CE du Conseil, et d'autres unités pouvant être  utilisées par les opérateurs en vue de se conformer à cette directive, la taxe  est acquittée par l'assujetti bénéficiaire du transfert.
+2 septies. Pour les transferts de quotas autorisant les exploitants à émettre des gaz à effet de serre, au sens de l'article 3 de la directive 2003/87/ CE du Parlement européen et du Conseil du 13 octobre 2003 établissant un système d'échange de quotas d'émission de gaz à effet de serre dans la Communauté et modifiant la directive 96/61/ CE du Conseil, et d'autres unités pouvant être utilisées par les opérateurs en vue de se conformer à cette directive, la taxe est acquittée par l'assujetti bénéficiaire du transfert.
 
 3. Toute personne qui mentionne la taxe sur la valeur ajoutée sur une facture est redevable de la taxe du seul fait de sa facturation.
 

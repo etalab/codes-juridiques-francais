@@ -8,10 +8,12 @@ Le montant du plafond est déterminé en fonction du nombre d'habitants de la ci
 <tbody>
 <tr>
 <td rowspan="3" width="123">
-<p align="center">Fraction de la population de la circonscription : </p>
+<br/>
+<p align="center">FRACTION DE LA<br/>population de la circonscription : </p>
 </td>
 <td colspan="4" width="491">
-<p align="center">Plafond par habitant des de penses électorales (en euros) : </p>
+<br/>
+<p align="center">PLAFOND PAR HABITANT DES DEPENSES ELECTORALES (EN EUROS) : </p>
 <br/>
 </td>
 </tr>
@@ -39,16 +41,16 @@ Le montant du plafond est déterminé en fonction du nombre d'habitants de la ci
 <p>N'excédant pas 15 000 habitants : </p>
 </td>
 <td width="123">
-<p align="center">1, 22 </p>
+<p align="center">1,22 </p>
 </td>
 <td width="123">
-<p align="center">1, 68 </p>
+<p align="center">1,68 </p>
 </td>
 <td width="123">
-<p align="center">0, 64 </p>
+<p align="center">0,64 </p>
 </td>
 <td width="123">
-<p align="center">0, 53 </p>
+<p align="center">0,53 </p>
 </td>
 </tr>
 <tr>
@@ -56,16 +58,16 @@ Le montant du plafond est déterminé en fonction du nombre d'habitants de la ci
 <p>De 15 001 à 30 000 habitants : </p>
 </td>
 <td width="123">
-<p align="center">1, 07 </p>
+<p align="center">1,07 </p>
 </td>
 <td width="123">
-<p align="center">1, 52 </p>
+<p align="center">1,52 </p>
 </td>
 <td width="123">
-<p align="center">0, 53 </p>
+<p align="center">0,53 </p>
 </td>
 <td width="123">
-<p align="center">0, 53 </p>
+<p align="center">0,53 </p>
 </td>
 </tr>
 <tr>
@@ -73,16 +75,16 @@ Le montant du plafond est déterminé en fonction du nombre d'habitants de la ci
 <p>De 30 001 à 60 000 habitants : </p>
 </td>
 <td width="123">
-<p align="center">0, 91 </p>
+<p align="center">0,91 </p>
 </td>
 <td width="123">
-<p align="center">1, 22 </p>
+<p align="center">1,22 </p>
 </td>
 <td width="123">
-<p align="center">0, 43 </p>
+<p align="center">0,43 </p>
 </td>
 <td width="123">
-<p align="center">0, 53 </p>
+<p align="center">0,53 </p>
 </td>
 </tr>
 <tr>
@@ -90,16 +92,16 @@ Le montant du plafond est déterminé en fonction du nombre d'habitants de la ci
 <p>De 60 001 à 100 000 habitants : </p>
 </td>
 <td width="123">
-<p align="center">0, 84 </p>
+<p align="center">0,84 </p>
 </td>
 <td width="123">
-<p align="center">1, 14 </p>
+<p align="center">1,14 </p>
 </td>
 <td width="123">
-<p align="center">0, 30 </p>
+<p align="center">0,30 </p>
 </td>
 <td width="123">
-<p align="center">0, 53 </p>
+<p align="center">0,53 </p>
 </td>
 </tr>
 <tr>
@@ -107,16 +109,16 @@ Le montant du plafond est déterminé en fonction du nombre d'habitants de la ci
 <p>De 100 001 à 150 000 habitants : </p>
 </td>
 <td width="123">
-<p align="center">0, 76 </p>
+<p align="center">0,76 </p>
 </td>
 <td width="123">
-<p align="center">1, 07</p>
+<p align="center">1,07</p>
 </td>
 <td width="123">
 <p align="center">-</p>
 </td>
 <td width="123">
-<p align="center">0, 38 </p>
+<p align="center">0,38 </p>
 </td>
 </tr>
 <tr>
@@ -124,16 +126,16 @@ Le montant du plafond est déterminé en fonction du nombre d'habitants de la ci
 <p>De 150 001 à 250 000 habitants : </p>
 </td>
 <td width="123">
-<p align="center">0, 69 </p>
+<p align="center">0,69 </p>
 </td>
 <td width="123">
-<p align="center">0, 84</p>
+<p align="center">0,84</p>
 </td>
 <td width="123">
 <p align="center">-</p>
 </td>
 <td width="123">
-<p align="center">0, 30 </p>
+<p align="center">0,30 </p>
 </td>
 </tr>
 <tr>
@@ -141,23 +143,23 @@ Le montant du plafond est déterminé en fonction du nombre d'habitants de la ci
 <p>Excédant 250 000 habitants : </p>
 </td>
 <td width="123">
-<p align="center">0, 53 </p>
+<p align="center">0,53 </p>
 </td>
 <td width="123">
-<p align="center">0, 76</p>
+<p align="center">0,76</p>
 </td>
 <td width="123">
 <p align="center">-</p>
 </td>
 <td width="123">
-<p align="center">0, 23 </p>
+<p align="center">0,23 </p>
 </td>
 </tr>
 </tbody>
 </table>
 
-Le plafond des dépenses pour l'élection des députés est de 38 000 euros par candidat. Il est majoré de 0, 15 euro par habitant de la circonscription.
+Le plafond des dépenses pour l'élection des députés est de 38 000 euros par candidat. Il est majoré de 0,15 euro par habitant de la circonscription.
 
 Les plafonds définis pour l'élection des conseillers régionaux sont applicables à l'élection des conseillers à l'Assemblée de Corse.
 
-Les montants prévus au présent article sont actualisés tous les ans par décret. Ils évoluent comme l'indice des prix à la consommation des ménages, hors tabac.
+Les montants prévus au présent article sont actualisés tous les ans par décret. Ils évoluent comme l'indice des prix à la consommation des ménages, hors tabac. Il n'est pas procédé à une telle actualisation à compter de 2012 et jusqu'à l'année au titre de laquelle le déficit public des administrations publiques est nul. Ce déficit est constaté dans les conditions prévues au deuxième alinéa de l'article 3 du règlement (CE) n° 479/2009 du Conseil, du 25 mai 2009, relatif à l'application du protocole sur la procédure concernant les déficits excessifs annexé au traité instituant la Communauté européenne.

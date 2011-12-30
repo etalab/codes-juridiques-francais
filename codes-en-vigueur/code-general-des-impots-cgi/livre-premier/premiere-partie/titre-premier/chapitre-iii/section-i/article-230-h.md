@@ -30,7 +30,7 @@ III. ― Pour les entreprises visées à l'article L. 1251-2 du code du travail,
 
 IV. ― Les dépenses visées aux articles 226 bis, 227 et 227 bis ne sont pas admises en exonération de la contribution mentionnée au I.
 
-Les articles 230 B, 230 C, 230 D, 230 G et les I et III de l'article 1678 quinquies sont applicables à cette contribution.
+Les articles 230 C, 230 D, 230 G et les I et III de l'article 1678 quinquies sont applicables à cette contribution. Pour les établissements mentionnés à l'article 230 B, les taux prévus au II sont réduits à 52 % de leur montant.
 
 V. ― Le montant de la contribution mentionnée au I est versé aux organismes collecteurs agréés mentionnés aux articles L. 6242-1 et L. 6242-2 du code du travail avant le 1er mars de l'année suivant celle du versement des salaires.A défaut de versement ou en cas de versement insuffisant à la date précitée, le montant de la contribution est versé au comptable public compétent selon les modalités définies au III de l'article 1678 quinquies, majoré de l'insuffisance constatée.
 

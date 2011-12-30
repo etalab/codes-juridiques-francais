@@ -7,3 +7,4 @@
 - [Article 285 quinquies](article-285-quinquies.md)
 - [Article 285 sexies](article-285-sexies.md)
 - [Article 285 septies](article-285-septies.md)
+- [Article 285 octies](article-285-octies.md)

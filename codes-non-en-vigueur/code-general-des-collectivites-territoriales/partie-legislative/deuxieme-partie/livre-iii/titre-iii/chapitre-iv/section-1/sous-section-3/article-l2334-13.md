@@ -27,3 +27,5 @@ A compter de 2008, le montant des crédits affectés à la dotation de solidarit
 A compter de 2008, le montant des crédits affectés à la dotation de solidarité rurale est majoré de 68 574 738 euros.
 
 En 2011, les montants mis en répartition au titre de la dotation de solidarité urbaine et de cohésion sociale et de la dotation de solidarité rurale augmentent respectivement de 77 millions d'euros et de 50 millions d'euros par rapport aux montants mis en répartition en 2010.
+
+En 2012, les montants mis en répartition au titre de la dotation de solidarité urbaine et de cohésion sociale et de la dotation de solidarité rurale augmentent au moins, respectivement, de 60 millions d'euros et de 39 millions d'euros par rapport aux montants mis en répartition en 2011. Le montant mis en répartition au titre de la dotation nationale de péréquation est au moins égal à celui mis en répartition l'année précédente. Le comité des finances locales peut majorer le montant de ces dotations, en compensant les majorations correspondantes dans les conditions prévues à l'article L. 2334-7-1.

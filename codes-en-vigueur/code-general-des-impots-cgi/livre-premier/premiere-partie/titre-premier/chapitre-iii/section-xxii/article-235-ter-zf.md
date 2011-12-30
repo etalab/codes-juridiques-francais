@@ -10,7 +10,7 @@ II. ― 1. La taxe est assise sur le résultat imposable à l'impôt sur les soc
 
 2. Pour l'application du 1, les résultats imposables correspondent aux résultats déterminés avant application des règles de déduction des déficits mentionnées au dernier alinéa du I de l'article 209 et à l'article 220 quinquies.
 
-III. ― Le taux de la taxe, compris entre 5 % et 20 %, est fixé par arrêté conjoint des ministres chargés respectivement des transports, de l'économie et du budget. Le montant de la taxe est plafonné à 75 millions d'euros.
+III. ― Le taux de la taxe, compris entre 15 % et 35 %, est fixé par arrêté conjoint des ministres chargés respectivement des transports, de l'économie et du budget. Le montant de la taxe est plafonné à 155 millions d'euros.
 
 IV. ― La taxe est déclarée et liquidée dans les six mois de son exigibilité sur une déclaration dont le modèle est fixé par l'administration. Elle est acquittée lors du dépôt de cette déclaration.
 

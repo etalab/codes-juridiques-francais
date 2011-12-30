@@ -1,6 +1,6 @@
 # Article 223 B
 
-Le résultat d'ensemble est déterminé par la société mère en faisant la somme algébrique des résultats de chacune des sociétés du groupe, déterminés dans les conditions de droit commun ou selon les modalités prévues aux articles 214 et 217 bis (2).
+Le résultat d'ensemble est déterminé par la société mère en faisant la somme algébrique des résultats de chacune des sociétés du groupe, déterminés dans les conditions de droit commun ou selon les modalités prévues à l'article 214 (2).
 
 Le résultat d'ensemble est diminué de la quote-part de frais et charges afférente aux produits de participation perçus par une société du groupe d'une société membre du groupe depuis plus d'un exercice et aux produits de participation perçus par une société du groupe d'une société intermédiaire pour lesquels la société mère apporte la preuve qu'ils proviennent de produits de participation versés par une société membre du groupe depuis plus d'un exercice et n'ayant pas déjà justifié des rectifications effectuées en application du présent alinéa ou du troisième alinéa.
 

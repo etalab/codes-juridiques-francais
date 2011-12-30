@@ -21,3 +21,9 @@ Les conseils généraux des départements d'outre-mer peuvent également établi
 4. Le produit du droit de consommation perçu à la Guyane et à la Réunion sur les cigarettes, cigares et cigarillos, tabac à fumer, tabac à mâcher et tabac à priser, est affecté au budget de ces départements. Il en est de même à la Guadeloupe et à la Martinique à compter du 1er janvier 2001.
 
 Les conseils généraux des départements d'outre-mer peuvent fixer, par délibération, un prix de détail des cigarettes exprimé aux 1 000 unités et un prix de détail des tabacs fine coupe destinés à rouler des cigarettes exprimé aux 1 000 grammes, en deçà duquel ces différents produits du tabac ne peuvent être vendus dans leur circonscription administrative. Pour chacun de ces produits, ce prix est supérieur à 66 % et au plus égal à 110 % de la moyenne pondérée des prix homologués mentionnée au 1.
+
+5. La livraison, à destination des départements de la Martinique et de la Guadeloupe, de tabacs manufacturés qui ont fait l'objet d'une importation dans l'un de ces départements donne lieu à un versement du droit de consommation au profit du département de destination.
+
+Le versement est prélevé sur le produit du droit de consommation sur les tabacs perçu dans le département d'importation.
+
+Il est procédé au versement six mois au plus tard après la date à laquelle a été réalisée la livraison des tabacs dans le département de destination.

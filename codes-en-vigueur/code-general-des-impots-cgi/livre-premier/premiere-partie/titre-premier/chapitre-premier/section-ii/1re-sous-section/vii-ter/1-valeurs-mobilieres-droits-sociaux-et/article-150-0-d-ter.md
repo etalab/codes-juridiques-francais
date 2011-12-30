@@ -1,6 +1,6 @@
 # Article 150-0 D ter
 
-I. - L'abattement prévu à l'article 150-0 D bis s'applique dans les mêmes conditions, à l'exception de celles prévues au V du même article, aux gains nets réalisés lors de la cession à titre onéreux d'actions, de parts ou de droits démembrés portant sur ces actions ou parts, acquis ou souscrits avant le 1er janvier 2006, si les conditions suivantes sont remplies :
+I.-L'abattement prévu à l'article 150-0 D bis, dans sa rédaction antérieure à l'entrée en vigueur de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, s'applique dans les mêmes conditions, à l'exception de celles prévues au V du même article, aux gains nets réalisés lors de la cession à titre onéreux d'actions, de parts ou de droits démembrés portant sur ces actions ou parts, acquis ou souscrits avant le 1er janvier 2006, si les conditions suivantes sont remplies :
 
 1° La cession porte sur l'intégralité des actions, parts ou droits détenus par le cédant dans la société dont les titres ou droits sont cédés ou sur plus de 50 % des droits de vote ou, en cas de la seule détention de l'usufruit, sur plus de 50 % des droits dans les bénéfices sociaux de cette société ;
 
@@ -24,7 +24,7 @@ c) Son capital ou ses droits de vote ne sont pas détenus à hauteur de 25 % ou 
 
 4° En cas de cession des titres ou droits à une entreprise, le cédant ne doit pas détenir, directement ou indirectement, de droits de vote ou de droits dans les bénéfices sociaux de l'entreprise cessionnaire.
 
-II. - Pour l'application du 1 du I de l'article 150-0 D bis, la durée de détention est décomptée à partir du 1er janvier de l'année d'acquisition ou de souscription des titres ou droits, et :
+II.-Pour l'application du 1 du I de l'article 150-0 D bis, dans sa rédaction antérieure à l'entrée en vigueur de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, la durée de détention est décomptée à partir du 1er janvier de l'année d'acquisition ou de souscription des titres ou droits, et :
 
 1° En cas de cession de titres ou droits effectuée par une personne interposée, à partir du 1er janvier de l'année d'acquisition ou de souscription des titres ou droits par la personne interposée ;
 
@@ -36,6 +36,6 @@ II. - Pour l'application du 1 du I de l'article 150-0 D bis, la durée de déten
 
 5° Abrogé
 
-III. - En cas de cessions antérieures de titres ou droits de la société concernée pour lesquelles le gain net a été déterminé en retenant un prix d'acquisition calculé suivant la règle de la valeur moyenne pondérée d'acquisition prévue au premier alinéa du 3 de l'article 150-0 D, le nombre de titres ou droits cédés antérieurement est réputé avoir été prélevé en priorité sur les titres ou droits acquis ou souscrits aux dates les plus anciennes.
+III.-En cas de cessions antérieures de titres ou droits de la société concernée pour lesquelles le gain net a été déterminé en retenant un prix d'acquisition calculé suivant la règle de la valeur moyenne pondérée d'acquisition prévue au premier alinéa du 3 de l'article 150-0 D, le nombre de titres ou droits cédés antérieurement est réputé avoir été prélevé en priorité sur les titres ou droits acquis ou souscrits aux dates les plus anciennes.
 
-IV. - En cas de non-respect de la condition prévue au 4° du I à un moment quelconque au cours des trois années suivant la cession des titres ou droits, l'abattement prévu au même I est remis en cause au titre de l'année au cours de laquelle la condition précitée cesse d'être remplie. Il en est de même, au titre de l'année d'échéance du délai mentionné au c du 2° du I, lorsque l'une des conditions prévues au 1° ou au c du 2° du même I n'est pas remplie au terme de ce délai.
+IV.-En cas de non-respect de la condition prévue au 4° du I à un moment quelconque au cours des trois années suivant la cession des titres ou droits, l'abattement prévu au même I est remis en cause au titre de l'année au cours de laquelle la condition précitée cesse d'être remplie. Il en est de même, au titre de l'année d'échéance du délai mentionné au c du 2° du I, lorsque l'une des conditions prévues au 1° ou au c du 2° du même I n'est pas remplie au terme de ce délai.

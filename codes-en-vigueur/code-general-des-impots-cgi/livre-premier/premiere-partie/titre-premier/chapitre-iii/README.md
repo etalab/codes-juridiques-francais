@@ -1,11 +1,12 @@
 # Chapitre III : Taxes diverses
 
+- [Section 0I : Contribution exceptionnelle sur les hauts revenus.](section-0i)
 - [Section 0II : Imposition forfaitaire annuelle des sociétés](section-0ii)
 - [Section I : Taxe d'apprentissage](section-i)
 - [Section II : Taxe sur les salaires](section-ii)
 - [Section II bis : Taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage et les surfaces de stationnement perçue dans la région Ile-de-France](section-ii-bis)
 - [Section III : Taxe annuelle sur les logements vacants.](section-iii)
-- [Section V : Redevance fixe des mines.](section-v)
+- [Section V : Taxe sur les loyers élevés des logements de petite surface.](section-v)
 - [Section V bis : Contribution annuelle sur les revenus locatifs](section-v-bis)
 - [Section VI : Taxe sur les services d'informations ou interactifs à caractère pornographique](section-vi)
 - [Section X : Participation des employeurs au développement de la formation professionnelle continue](section-x)

@@ -8,7 +8,7 @@ Lorsqu'il existe plusieurs lignes de base, celle qui est la plus proche de la c�
 
 II. 1° A compter du 1er janvier 2002, les tarifs de la redevance communale des mines sont fixés à :
 
--41,9 euros par kilogramme d'or contenu pour les minerais aurifères ;
+-125,7 euros par kilogramme d'or contenu pour les minerais aurifères ;
 
 -172 euros par quintal d'uranium contenu pour les minerais d'uranium ;
 

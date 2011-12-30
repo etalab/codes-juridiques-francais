@@ -28,7 +28,6 @@
 - [Article 216 bis](article-216-bis.md)
 - [Article 216 ter](article-216-ter.md)
 - [Article 216 A](article-216-a.md)
-- [Article 217 bis](article-217-bis.md)
 - [Article 217 quater](article-217-quater.md)
 - [Article 217 quinquies](article-217-quinquies.md)
 - [Article 217 sexies](article-217-sexies.md)

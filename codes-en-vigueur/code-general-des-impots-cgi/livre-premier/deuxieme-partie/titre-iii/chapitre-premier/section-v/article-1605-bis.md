@@ -16,7 +16,7 @@ b. La condition d'occupation de l'habitation prévue par l'article 1390 est remp
 
 c. Le redevable n'est pas passible de l'impôt de solidarité sur la fortune au titre de l'année précédant celle au cours de laquelle la redevance ou la contribution est due ;
 
-Pour les années 2008 , 2009, 2010 et 2011, les redevables âgés de plus de soixante-cinq ans au 1er janvier 2004 visés aux premier et deuxième alinéas bénéficient d'un dégrèvement de la redevance audiovisuelle lorsqu'ils remplissent les conditions prévues aux a, b et c ;
+Pour les années 2008,2009,2010,2011 et 2012, les redevables âgés de plus de soixante-cinq ans au 1er janvier 2004 visés aux premier et deuxième alinéas bénéficient d'un dégrèvement de la redevance audiovisuelle lorsqu'ils remplissent les conditions prévues aux a, b et c ;
 
 3° bis Les contribuables bénéficiaires en 2009 du revenu minimum d'insertion, lorsqu'ils occupent leur habitation principale dans les conditions prévues à l'article 1390, bénéficient d'un dégrèvement de la redevance audiovisuelle au titre de l'année 2009.
 
@@ -40,7 +40,7 @@ a. Lorsque la ou les personnes au nom desquelles la taxe d'habitation est établ
 
 b. Lorsque la taxe d'habitation est établie au nom de plusieurs personnes appartenant à des foyers fiscaux différents, la contribution à l'audiovisuel public est due, pour le ou les appareils récepteurs de télévision ou dispositifs assimilés détenus, par l'une ou l'autre de ces personnes ;
 
-c. Lorsque l'appareil récepteur de télévision ou dispositif assimilé est détenu dans un local meublé affecté à l'habitation, occupé à titre d'habitation autre que principale et imposé à la taxe d'habitation au nom de plusieurs personnes qui appartiennent à des foyers fiscaux différents et qui ne détiennent pas d'appareil dans leur habitation principale, ces personnes doivent désigner celle d'entre elles qui sera redevable de la contribution à l'audiovisuel public.A défaut, la contribution à l'audiovisuel public est due par les personnes dont le nom est porté sur l'avis d'imposition de taxe d'habitation afférent à ce local ;
+c. Lorsque l'appareil récepteur de télévision ou dispositif assimilé est détenu dans un local meublé affecté à l'habitation, occupé à titre d'habitation autre que principale et imposé à la taxe d'habitation au nom de plusieurs personnes qui appartiennent à des foyers fiscaux différents et qui ne détiennent pas d'appareil dans leur habitation principale, ces personnes doivent désigner celle d'entre elles qui sera redevable de la contribution à l'audiovisuel public. A défaut, la contribution à l'audiovisuel public est due par les personnes dont le nom est porté sur l'avis d'imposition de taxe d'habitation afférent à ce local ;
 
 6° a. Lorsqu'une redevance audiovisuelle était due en 2004, elle est acquittée, sous réserve de l'article 1681 ter B, annuellement et d'avance, en une seule fois et pour une période de douze mois. Cette période est décomptée à partir de la date anniversaire du premier jour de la période au titre de laquelle elle était due en 2004 ;
 

@@ -6,4 +6,6 @@ Pour 2005, lorsqu'une commune cesse d'être éligible à la dotation, elle perç
 
 En outre, lorsque, à compter de 2000, une commune, dont l'établissement public de coopération intercommunale dont elle est membre a opté deux ans auparavant pour l'application du régime fiscal prévu à l'article 1609 nonies C du code général des impôts, cesse d'être éligible à la dotation du fait de l'application du douzième alinéa de l'article L2334-4, elle perçoit, pendant cinq ans, une attribution calculée en multipliant le montant de dotation perçu la dernière année où la commune était éligible par un coefficient égal à 90 % la première année et diminuant ensuite d'un dixième chaque année.
 
+A  titre dérogatoire en 2012, lorsqu'une commune cesse d'être éligible à  la dotation de solidarité urbaine et de cohésion sociale, elle perçoit, à  titre de garantie, une dotation égale à 90 % en 2012, 75 % en 2013 et 50  % en 2014 du montant perçu en 2011.
+
 Les sommes nécessaires sont prélevées sur les crédits affectés par le comité des finances locales à la dotation de solidarité urbaine et de cohésion sociale.
