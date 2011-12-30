@@ -10,7 +10,7 @@ b) 25 % du résultat courant avant impôts préalablement majoré desdits intér
 
 c) Le montant des intérêts servis à cette entreprise par des entreprises liées directement ou indirectement au sens du 12 de l'article 39,
 
-la fraction des intérêts excédant la plus élevée de ces limites ne peut être déduite au titre de cet exercice, sauf si cette fraction est inférieure à 150 000 Euros.
+la fraction des intérêts excédant la plus élevée de ces limites ne peut être déduite au titre de cet exercice, sauf si cette fraction est inférieure à 150 000 €.
 
 Toutefois, cette fraction d'intérêts non déductible immédiatement peut être déduite au titre de l'exercice suivant à concurrence de la différence calculée au titre de cet exercice entre la limite mentionnée au b et le montant des intérêts admis en déduction en vertu du I. Le solde non imputé à la clôture de cet exercice est déductible au titre des exercices postérieurs dans le respect des mêmes conditions sous déduction d'une décote de 5 % appliquée à l'ouverture de chacun de ces exercices.
 
@@ -38,13 +38,15 @@ Le présent 3 n'est pas applicable aux sommes laissées ou mises à disposition 
 
 2° Pour leur fraction dont le remboursement est exclusivement garanti par le nantissement des titres du débiteur, ou de créances sur ce débiteur, ou des titres d'une société détenant directement ou indirectement le débiteur lorsque le détenteur de ces titres et le débiteur sont membres d'un même groupe mentionné à l'article 223 A ;
 
-3° A la suite du remboursement d'une dette préalable, rendu obligatoire par la prise de contrôle du débiteur, dans la limite du capital remboursé et des intérêts échus à cette occasion ;
+3° A la suite du remboursement d'une dette préalable, rendu obligatoire par la prise de contrôle du débiteur ou en exécution d'une procédure de sauvegarde ou d'un redressement judiciaire, dans la limite du capital remboursé et des intérêts échus à cette occasion ;
 
-4° A raison d'emprunts contractés antérieurement au 1er janvier 2011 à l'occasion d'une opération d'acquisition de titres ou de son refinancement.
+4° A raison d'emprunts contractés antérieurement au 1er janvier 2011 à l'occasion d'une opération d'acquisition de titres ou de son refinancement ;
+
+5° A raison d'emprunts contractés par une société civile ayant pour objet la construction d'immeubles en vue de la vente et garantis par l'un ou plusieurs de ses associés, sous réserve toutefois que, d'une part, la quotité garantie par le ou les associés n'excède pas pour chaque emprunt la proportion de leurs droits dans ladite société civile et, d'autre part, que les sommes empruntées ne soient pas à nouveau mises à disposition par cette société à une autre entreprise qui lui est liée au sens du 12 de l'article 39.
 
 III.-Les dispositions du II ne s'appliquent pas si l'entreprise apporte la preuve que le ratio d'endettement du groupe auquel elle appartient est supérieur ou égal à son propre ratio d'endettement au titre de l'exercice mentionné au II.
 
-Pour l'application des dispositions du premier alinéa, le groupe s'entend de l'ensemble des entreprises françaises ou étrangères placées sous le contrôle exclusif d'une même société ou personne morale, au sens du II de l'article L. 233-16 du code de commerce.L'appréciation des droits de vote détenus indirectement par la société ou personne morale s'opère en additionnant les pourcentages de droits de vote détenus par chaque entreprise du groupe.
+Pour l'application des dispositions du premier alinéa, le groupe s'entend de l'ensemble des entreprises françaises ou étrangères placées sous le contrôle exclusif d'une même société ou personne morale, au sens du II de l'article L. 233-16 du code de commerce. L'appréciation des droits de vote détenus indirectement par la société ou personne morale s'opère en additionnant les pourcentages de droits de vote détenus par chaque entreprise du groupe.
 
 Le ratio d'endettement de l'entreprise mentionné au premier alinéa correspond au rapport existant entre le montant total de ses dettes et le montant de ses capitaux propres. Le ratio d'endettement du groupe est déterminé en tenant compte des dettes, à l'exception de celles envers des entreprises appartenant au groupe, et des capitaux propres, minorés du coût d'acquisition des titres des entreprises contrôlées et retraités des opérations réciproques réalisées entre les entreprises appartenant au groupe, figurant au bilan du dernier exercice clos de l'ensemble des entreprises appartenant au groupe.
 
