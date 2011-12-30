@@ -18,4 +18,4 @@ Pour l'application des abattements mentionnés aux premier et deuxième alinéas
 
 3° En cas de cession de biens ou droits reçus par le titulaire, autre que le constituant initial, de droits représentatifs des biens ou droits du patrimoine fiduciaire dans les conditions prévues à l'article 238 quater Q, à partir de la date d'acquisition de ces droits lorsque les biens ou droits cédés figuraient dans le patrimoine fiduciaire à cette date, ou à partir de la date d'acquisition des biens ou droits par la fiducie dans le cas contraire.
 
-II.-La plus-value brute réalisée lors de la cession d'un cheval de course ou de sport est réduite d'un abattement supplémentaire de 15 % par année de détention comprise entre la date d'acquisition du cheval et la fin de sa septième année. Toute année commencée compte pour une année pleine.
+II.-(Abrogé).
