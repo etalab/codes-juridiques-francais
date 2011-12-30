@@ -1,6 +1,6 @@
 # Article 223
 
-Les navires francisés dont la longueur de coque est supérieure ou égale à 7 mètres ou dont la puissance administrative des moteurs est supérieure ou égale à 22 CV sont soumis au paiement d'un droit annuel, dénommé droit de francisation et de navigation, à la charge des propriétaires, au 1er janvier de l'année considérée.
+Les navires francisés dont la longueur de coque est supérieure ou égale à 7 mètres ou dont la puissance administrative des moteurs est supérieure ou égale à 22 CV et les véhicules nautiques à moteur francisés dont la puissance réelle des moteurs est supérieure ou égale à 90 kW sont soumis au paiement d'un droit annuel, dénommé droit de francisation et de navigation, à la charge des propriétaires, au 1er janvier de l'année considérée.
 
 L'assiette, le taux et les modalités d'application de ce droit sont fixés comme suit :
 
@@ -12,7 +12,7 @@ L'assiette, le taux et les modalités d'application de ce droit sont fixés comm
 <p align="center">du navire ou longueur de coque</p>
 </td>
 <td valign="top" width="307">
-<p align="center">QUOTITE DU DROIT</p>
+<p align="center">QUOTITÉ DU DROIT</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@ L'assiette, le taux et les modalités d'application de ce droit sont fixés comm
 <p>De 7 mètres inclus à 8 mètres exclus</p>
 </td>
 <td valign="top" width="307">
-<p>92 euros</p>
+<p>77 euros</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ L'assiette, le taux et les modalités d'application de ce droit sont fixés comm
 <p>De 8 mètres inclus à 9 mètres exclus</p>
 </td>
 <td valign="top" width="307">
-<p>131 euros</p>
+<p>105 euros</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +84,7 @@ L'assiette, le taux et les modalités d'application de ce droit sont fixés comm
 <p>De 9 mètres inclus à 10 mètres exclus</p>
 </td>
 <td valign="top" width="307">
-<p>223 euros</p>
+<p>178 euros</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@ L'assiette, le taux et les modalités d'application de ce droit sont fixés comm
 <p>De 10 mètres inclus à 11 mètres exclus</p>
 </td>
 <td valign="top" width="307">
-<p>300 euros</p>
+<p>240 euros</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +100,7 @@ L'assiette, le taux et les modalités d'application de ce droit sont fixés comm
 <p>De 11 mètres inclus à 12 mètres exclus</p>
 </td>
 <td valign="top" width="307">
-<p>342 euros</p>
+<p>274 euros</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ L'assiette, le taux et les modalités d'application de ce droit sont fixés comm
 <p>De 12 mètres inclus à 15 mètres exclus</p>
 </td>
 <td valign="top" width="307">
-<p>573 euros</p>
+<p>458 euros</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@ L'assiette, le taux et les modalités d'application de ce droit sont fixés comm
 <p>De 15 mètres et plus</p>
 </td>
 <td valign="top" width="307">
-<p>1108 euros</p>
+<p>886 euros</p>
 </td>
 </tr>
 <tr>
@@ -138,7 +138,7 @@ L'assiette, le taux et les modalités d'application de ce droit sont fixés comm
 <p>De 6 à 8 CV</p>
 </td>
 <td valign="top" width="307">
-<p>13 euros par CV au-dessus du cinquième</p>
+<p>14 euros par CV au-dessus du cinquième</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +146,7 @@ L'assiette, le taux et les modalités d'application de ce droit sont fixés comm
 <p>De 9 à 10 CV</p>
 </td>
 <td valign="top" width="307">
-<p>15 euros par CV au-dessus du cinquième</p>
+<p>16 euros par CV au-dessus du cinquième</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +154,7 @@ L'assiette, le taux et les modalités d'application de ce droit sont fixés comm
 <p>De 11 à 20 CV</p>
 </td>
 <td valign="top" width="307">
-<p>32 euros par CV au-dessus du cinquième</p>
+<p>35 euros par CV au-dessus du cinquième</p>
 </td>
 </tr>
 <tr>
@@ -162,7 +162,7 @@ L'assiette, le taux et les modalités d'application de ce droit sont fixés comm
 <p>De 21 à 25 CV</p>
 </td>
 <td valign="top" width="307">
-<p>36 euros par CV au-dessus du cinquième</p>
+<p>40 euros par CV au-dessus du cinquième</p>
 </td>
 </tr>
 <tr>
@@ -170,7 +170,7 @@ L'assiette, le taux et les modalités d'application de ce droit sont fixés comm
 <p>De 26 à 50 CV</p>
 </td>
 <td valign="top" width="307">
-<p>40 euros par CV au-dessus du cinquième</p>
+<p>44 euros par CV au-dessus du cinquième</p>
 </td>
 </tr>
 <tr>
@@ -178,7 +178,7 @@ L'assiette, le taux et les modalités d'application de ce droit sont fixés comm
 <p>De 51 à 99 CV</p>
 </td>
 <td valign="top" width="307">
-<p>45 euros par CV au-dessus du cinquième</p>
+<p>50 euros par CV au-dessus du cinquième</p>
 </td>
 </tr>
 <tr>
@@ -190,11 +190,27 @@ L'assiette, le taux et les modalités d'application de ce droit sont fixés comm
 <tr>
 <td valign="top" width="307"/>
 <td valign="top" width="307">
-<p>Pour les moteurs ayant une puissance administrative égale ou supérieure à 100 CV, le droit prévu au b est remplacé par une taxe spéciale de 57, 96 euros par CV. </p>
+<p>Pour les moteurs ayant une puissance administrative égale ou supérieure à 100 CV, le droit prévu au b est remplacé par une taxe spéciale de 64 euros par CV. </p>
 <br/>
 </td>
+</tr>
+<tr>
+<td/>
+<td>d) Droit sur le moteur appliqué aux véhicules nautiques à moteur (puissance réelle)</td>
+</tr>
+<tr>
+<td>Jusqu'à 90 kW exclus</td>
+<td>exonération</td>
+</tr>
+<tr>
+<td>De 90 kW à 159 kW</td>
+<td>3 € par kW ou fraction de kW</td>
+</tr>
+<tr>
+<td>A partir de 160 kW</td>
+<td>4 € par kW ou fraction de kW </td>
 </tr>
 </tbody>
 </table>
 
-Toutefois, pour les navires de plaisance francisés dont le port d'attache est situé en Corse et qui ont stationné dans un port corse au moins une fois au cours de l'année écoulée, le taux du droit est fixé par la collectivité territoriale de Corse et doit être compris entre 50 p. 100 et 90 p. 100 du taux prévu dans le tableau ci-dessus pour la même catégorie de navire.
+Toutefois, pour les navires de plaisance francisés dont le port d'attache est situé en Corse et qui ont stationné dans un port corse au moins une fois au cours de l'année écoulée, le taux du droit est fixé par la collectivité territoriale de Corse et doit être compris entre 50 % et 90 % du taux prévu dans le tableau ci-dessus pour la même catégorie de navire.

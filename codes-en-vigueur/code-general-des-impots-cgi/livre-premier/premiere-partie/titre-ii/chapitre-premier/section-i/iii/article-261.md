@@ -36,7 +36,7 @@ b. (Disposition périmée) ;
 
 4. (Professions libérales et activités diverses) :
 
-1° Les soins dispensés aux personnes par les membres des professions médicales et paramédicales réglementées, par les praticiens autorisés à faire usage légalement du titre d'ostéopathe et par les psychologues, psychanalystes et psychothérapeutes titulaires d'un des diplômes requis, à la date de sa délivrance, pour être recruté comme psychologue dans la fonction publique hospitalière ainsi que les travaux d'analyse de biologie médicale et les fournitures de prothèses dentaires par les dentistes et les prothésistes ;
+1° Les soins dispensés aux personnes par les membres des professions médicales et paramédicales réglementées, par les praticiens autorisés à faire usage légalement du titre d'ostéopathe ou de chiropracteur et par les psychologues, psychanalystes et psychothérapeutes titulaires d'un des diplômes requis, à la date de sa délivrance, pour être recruté comme psychologue dans la fonction publique hospitalière ainsi que les travaux d'analyse de biologie médicale et les fournitures de prothèses dentaires par les dentistes et les prothésistes ;
 
 1° bis les frais d'hospitalisation et de traitement, y compris les frais de mise à disposition d'une chambre individuelle, dans les établissements de santé privés titulaires de l'autorisation mentionnée à l'article L. 6122-1 du code de la santé publique ;
 
@@ -68,7 +68,7 @@ b. les cours ou leçons relevant de l'enseignement scolaire, universitaire, prof
 
 8° bis Les prestations de services et les livraisons de biens qui leur sont étroitement liées, effectuées dans le cadre de la garde d'enfants par les établissements visés aux deux premiers alinéas de l'article L. 2324-1 du code de la santé publique et assurant l'accueil des enfants de moins de trois ans ; (1)
 
-8° ter Les prestations de services réalisées par les mandataires judiciaires à  la protection des majeurs au sens de l'article L. 471-2 du code de l'action  sociale et des familles ;
+8° ter Les prestations de services réalisées par les mandataires judiciaires à la protection des majeurs au sens de l'article L. 471-2 du code de l'action sociale et des familles ;
 
 9° les prestations de services et les livraisons de biens qui leur sont étroitement liées fournies à leurs membres, moyennant une cotisation fixée conformément aux statuts, par des organismes légalement constitués agissant sans but lucratif dont la gestion est désintéressée et qui poursuivent des objectifs de nature philosophique, religieuse, politique, patriotique, civique ou syndicale, dans la mesure où ces opérations se rattachent directement à la défense collective des intérêts moraux ou matériels des membres ; les dispositions des c et d du 1° du 7 s'appliquent à ces organismes ;
 
@@ -100,11 +100,11 @@ Ces dispositions sont également applicables aux unions d'associations qui répo
 
 b. les opérations faites au bénéfice de toutes personnes par des oeuvres sans but lucratif qui présentent un caractère social ou philanthropique et dont la gestion est désintéressée, lorsque les prix pratiqués ont été homologués par l'autorité publique ou que des opérations analogues ne sont pas couramment réalisées à des prix comparables par des entreprises commerciales, en raison notamment du concours désintéressé des membres de ces organismes ou des contributions publiques ou privées dont ils bénéficient.
 
-Les organismes mentionnés au premier alinéa du 1 bis de l'article 206 et qui en remplissent les conditions, sont également exonérés pour leurs autres opérations lorsque les recettes encaissées afférentes à ces opérations n'ont pas excédé au cours de l'année civile précédente le montant de 60 000 euros.
+Les organismes mentionnés au premier alinéa du 1 bis de l'article 206 et qui en remplissent les conditions, sont également exonérés pour leurs autres opérations lorsque les recettes encaissées afférentes à ces opérations n'ont pas excédé au cours de l'année civile précédente le montant de 60 000 €.
 
-Les opérations mentionnées au I de l'article 257 et les opérations donnant lieu à la perception de revenus patrimoniaux soumis aux dispositions de l'article 219 bis ne bénéficient pas de l'exonération et ne sont pas prises en compte pour le calcul de la limite de 60 000 euros.
+Les opérations mentionnées au I de l'article 257 et les opérations donnant lieu à la perception de revenus patrimoniaux soumis aux dispositions de l'article 219 bis ne bénéficient pas de l'exonération et ne sont pas prises en compte pour le calcul de la limite de 60 000 €.
 
-Lorsque la limite de 60 000 euros est atteinte en cours d'année, l'organisme ne peut plus bénéficier de l'exonération prévue au deuxième alinéa à compter du premier jour du mois suivant celui au cours duquel cette limite a été dépassée ;
+Lorsque la limite de 60 000 € est atteinte en cours d'année, l'organisme ne peut plus bénéficier de l'exonération prévue au deuxième alinéa à compter du premier jour du mois suivant celui au cours duquel cette limite a été dépassée ;
 
 c. les recettes de six manifestations de bienfaisance ou de soutien organisées dans l'année à leur profit exclusif par les organismes désignés au a et b ainsi que par les organismes permanents à caractère social des collectivités locales et des entreprises ;
 
@@ -114,11 +114,11 @@ L'organisme doit, en principe, être géré et administré à titre bénévole p
 
 Toutefois, lorsqu'une association régie par la loi du 1er juillet 1901 relative au contrat d'association, une association régie par la loi locale en vigueur dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin, une fondation reconnue d'utilité publique ou une fondation d'entreprise décide que l'exercice des fonctions dévolues à ses dirigeants justifie le versement d'une rémunération, le caractère désintéressé de sa gestion n'est pas remis en cause si ses statuts et ses modalités de fonctionnement assurent sa transparence financière, l'élection régulière et périodique de ses dirigeants, le contrôle effectif de sa gestion par ses membres et l'adéquation de la rémunération aux sujétions effectivement imposées aux dirigeants concernés ; cette disposition s'applique dans les conditions suivantes :
 
-l'un des organismes visés au troisième alinéa peut rémunérer l'un de ses dirigeants uniquement si le montant annuel de ses ressources, majorées de celles des organismes qui lui sont affiliés et qui remplissent les conditions leur permettant de bénéficier de la présente disposition, hors ressources issues des versements effectués par des personnes morales de droit public, est supérieur à 200 000 euros en moyenne sur les trois exercices clos précédant celui pendant lequel la rémunération est versée ;
+l'un des organismes visés au troisième alinéa peut rémunérer l'un de ses dirigeants uniquement si le montant annuel de ses ressources, majorées de celles des organismes qui lui sont affiliés et qui remplissent les conditions leur permettant de bénéficier de la présente disposition, hors ressources issues des versements effectués par des personnes morales de droit public, est supérieur à 200 000 € en moyenne sur les trois exercices clos précédant celui pendant lequel la rémunération est versée ;
 
-un tel organisme peut rémunérer deux de ses dirigeants si le montant annuel de ses ressources, majorées de celles des organismes qui lui sont affiliés et qui remplissent les conditions leur permettant de bénéficier de la présente disposition, hors ressources issues des versements effectués par des personnes morales de droit public, est supérieur à 500 000 euros, en moyenne sur les trois exercices clos précédant celui pendant lequel la rémunération est versée ;
+un tel organisme peut rémunérer deux de ses dirigeants si le montant annuel de ses ressources, majorées de celles des organismes qui lui sont affiliés et qui remplissent les conditions leur permettant de bénéficier de la présente disposition, hors ressources issues des versements effectués par des personnes morales de droit public, est supérieur à 500 000 €, en moyenne sur les trois exercices clos précédant celui pendant lequel la rémunération est versée ;
 
-un tel organisme peut rémunérer trois de ses dirigeants si le montant annuel de ses ressources, majorées de celles des organismes qui lui sont affiliés et qui remplissent les conditions leur permettant de bénéficier de la présente disposition, hors ressources issues des versements effectués par des personnes morales de droit public, est supérieur à 1 000 000 euros en moyenne sur les trois exercices clos précédant celui pendant lequel la rémunération est versée ;
+un tel organisme peut rémunérer trois de ses dirigeants si le montant annuel de ses ressources, majorées de celles des organismes qui lui sont affiliés et qui remplissent les conditions leur permettant de bénéficier de la présente disposition, hors ressources issues des versements effectués par des personnes morales de droit public, est supérieur à 1 000 000 € en moyenne sur les trois exercices clos précédant celui pendant lequel la rémunération est versée ;
 
 un tel organisme peut verser des rémunérations dans le cadre de la présente disposition uniquement si ses statuts le prévoient explicitement et si une décision de son organe délibérant l'a expressément décidé à la majorité des deux tiers de ses membres ;
 

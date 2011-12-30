@@ -72,21 +72,21 @@ Les limites supérieures et inférieures des tarifs correspondant aux classes d'
 <p align="center">Tarifs par passager</p>
 </td>
 <td width="142">
-<p align="center">De 4,3 à 11,5 euros</p>
+<p align="center">De 4,3 à 11,5 €</p>
 </td>
 <td width="151">
-<p align="center">De 3,5 à 9,5 euros.</p>
+<p align="center">De 3,5 à 9,5 €.</p>
 </td>
 <td width="151">
-<p align="center">De 2,6 à 12 euros</p>
+<p align="center">De 2,6 à 12 €</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-Le tarif de la taxe est égal à 1 euro par tonne de fret et de courrier pour tous les aérodromes visés au I.
+Le tarif de la taxe est égal à 1 € par tonne de fret et de courrier pour tous les aérodromes visés au I.
 
-Un arrêté, pris par le ministre chargé du budget et le ministre chargé de l'aviation civile, fixe la liste des aérodromes concernés par classe et, au sein de chaque classe, le tarif de la taxe applicable pour chaque aérodrome.
+Un arrêté, pris par le ministre chargé du budget et le ministre chargé de l'aviation civile, fixe la liste des aérodromes concernés par classe et, au sein de chaque classe, le tarif de la taxe applicable pour chaque aérodrome. Un abattement, dont le taux est fixé forfaitairement par l'arrêté dans la limite de 40 %, est toutefois applicable aux passagers en correspondance.
 
 Le produit de la taxe est affecté sur chaque aérodrome au financement des services de sécurité-incendie-sauvetage, de lutte contre le péril animalier, de sûreté et des mesures effectuées dans le cadre des contrôles environnementaux. Il contribue, dans une proportion fixée annuellement par arrêté, au financement des matériels de contrôle automatisé aux frontières par identification biométrique installés dans les aéroports. Le tarif de la taxe est fonction du besoin de financement sur chaque aérodrome, tel qu'il résulte notamment des prestations assurées en application de la réglementation en vigueur, et de l'évolution prévisionnelle des données relatives au trafic, aux coûts et aux autres produits de l'exploitant.
 
@@ -100,7 +100,7 @@ Les entreprises de transport aérien déclarent chaque mois, sur un imprimé fou
 
 Cette déclaration, accompagnée du paiement de la taxe due, est adressée aux comptables du budget annexe " Contrôle et exploitation aériens ".
 
-IV bis.-A compter du 1er janvier 2010, le tarif par passager de la taxe d'aéroport fait l'objet d'une majoration fixée, dans la limite d'un montant de 1,25 euro, par arrêté conjoint du ministre chargé du budget et du ministre chargé de l'aviation civile. Les limites supérieures des tarifs mentionnés au IV ne prennent pas en compte cette majoration.
+IV bis.-A compter du 1er janvier 2010, le tarif par passager de la taxe d'aéroport fait l'objet d'une majoration fixée, dans la limite d'un montant de 1,25 €, par arrêté conjoint du ministre chargé du budget et du ministre chargé de l'aviation civile. Les limites supérieures des tarifs mentionnés au IV ne prennent pas en compte cette majoration.
 
 Le produit de cette majoration est affecté aux exploitants des aérodromes de classe 3 ainsi qu'aux exploitants d'aérodromes ne relevant pas des classes des aérodromes mentionnées au IV, pour le financement des missions mentionnées audit IV.
 
@@ -110,8 +110,8 @@ V.-La taxe et la majoration de celle-ci prévue au IV bis sont recouvrées et co
 
 Le contentieux est suivi par la direction générale de l'aviation civile. Les réclamations sont présentées, instruites et jugées selon les règles applicables à la taxe de l'aviation civile.
 
-VI.-Les I à IV et le V sont applicables en Polynésie française, en  Nouvelle-Calédonie et à Mayotte. Pour les vols intérieurs à ces collectivités,  la taxe n'est pas due pour les passagers, le fret ou le courrier en  correspondance.
+VI.-Les I à IV et le V sont applicables en Polynésie française, en Nouvelle-Calédonie et à Mayotte. Pour les vols intérieurs à ces collectivités, la taxe n'est pas due pour les passagers, le fret ou le courrier en correspondance.
 
-VII.-Le IV bis est applicable en Polynésie française, en Nouvelle-Calédonie, à  Saint-Barthélemy, à Saint-Martin et à Mayotte. Le produit de la majoration perçu  dans chacune de ces collectivités est reversé directement aux exploitants des  aérodromes de la collectivité intéressée. Pour les vols intérieurs à la  Polynésie française, à la Nouvelle-Calédonie et à Mayotte, la majoration n'est  pas due pour les passagers, le fret ou le courrier en correspondance.
+VII.-Le IV bis est applicable en Polynésie française, en Nouvelle-Calédonie, à Saint-Barthélemy, à Saint-Martin et à Mayotte. Le produit de la majoration perçu dans chacune de ces collectivités est reversé directement aux exploitants des aérodromes de la collectivité intéressée. Pour les vols intérieurs à la Polynésie française, à la Nouvelle-Calédonie et à Mayotte, la majoration n'est pas due pour les passagers, le fret ou le courrier en correspondance.
 
-VIII. ― Pour l'application du présent article, la notion de correspondance est  celle définie au VI de l'article 302 bis K.
+VIII. ― Pour l'application du présent article, la notion de correspondance est celle définie au VI de l'article 302 bis K.

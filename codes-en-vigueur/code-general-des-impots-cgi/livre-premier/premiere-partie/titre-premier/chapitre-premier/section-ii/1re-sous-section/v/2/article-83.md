@@ -24,11 +24,13 @@ Les cotisations ou les primes mentionnées à l'alinéa précédent sont déduct
 
 Les cotisations ou les primes mentionnées à l'alinéa précédent sont déductibles dans la limite, y compris les versements de l'employeur, de 8 % de la rémunération annuelle brute retenue à concurrence de huit fois le montant annuel du plafond mentionné à l'article L. 241-3 du code de la sécurité sociale. En cas d'excédent, celui-ci est ajouté à la rémunération ;
 
-La limite mentionnée au deuxième alinéa est réduite, le cas échéant, des sommes versées par l'entreprise ou le salarié (1) au plan d'épargne pour la retraite collectif défini aux articles L. 3334-1 à L. 3334-16 du code du travail et exonérées en application du 18° de l'article 81 ;
+La limite mentionnée au deuxième alinéa est réduite, le cas échéant, des sommes versées par l'entreprise ou le salarié au plan d'épargne pour la retraite collectif défini aux articles L. 3334-1 à L. 3334-16 du code du travail et exonérées en application du 18° de l'article 81 ;
 
 2°-0 bis Par dérogation aux 1° quater et 2° et jusqu'à l'imposition des revenus de 2008, les dispositions du 2° dans leur rédaction en vigueur jusqu'à l'imposition des revenus de 2003 continuent de s'appliquer, si elles sont plus favorables, aux cotisations ou primes versées aux régimes de retraite et de prévoyance complémentaires auxquels le salarié était affilié à titre obligatoire avant le 25 septembre 2003, pour leur taux en vigueur avant la même date ;
 
 2°-0 ter Dans les limites prévues au deuxième alinéa du 1° quater, les cotisations versées aux régimes de prévoyance complémentaire et, dans les limites prévues aux deuxième et troisième alinéas du 2°, les cotisations versées aux régimes de retraite complémentaire répondant aux conditions fixées à l'article 3 de la directive 98/49/ CE du Conseil du 29 juin 1998 relative à la sauvegarde des droits à pension complémentaire des travailleurs salariés et non salariés qui se déplacent à l'intérieur de la Communauté ou à celles prévues par les conventions ou accords internationaux de sécurité sociale, auxquels les personnes désignées au I de l'article 81 B ou au 1 du I de l'article 155 B étaient affiliées ès qualités dans un autre Etat avant leur prise de fonctions en France. Les cotisations sont déductibles jusqu'au 31 décembre de la cinquième année suivant celle de leur prise de fonctions ;
+
+2°-0 quater La contribution prévue à l'article L. 137-11-1 du code de la sécurité sociale dans la limite de la fraction acquittée au titre des premiers 1 000 € de rente mensuelle ;
 
 2° bis Les contributions versées par les salariés en application des dispositions de l'article L. 5422-9 du code du travail et destinées à financer le régime d'assurance des travailleurs privés d'emploi ;
 

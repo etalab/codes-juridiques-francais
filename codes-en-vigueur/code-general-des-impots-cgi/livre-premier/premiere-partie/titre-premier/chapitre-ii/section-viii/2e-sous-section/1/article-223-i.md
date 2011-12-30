@@ -12,7 +12,7 @@ Si le bien mentionné au premier alinéa est cédé ou apporté à une autre soc
 
 4. Pour l'application du présent article, le bénéfice ou la plus-value nette à long terme de la société est diminué, le cas échéant, du montant des profits ou des plus-values à long terme qui résultent des abandons de créances ou des subventions directes ou indirectes qui lui sont consentis mais ne sont pas pris en compte pour la détermination du résultat d'ensemble en application du sixième alinéa de l'article 223 B, des cessions visées à l'article 223 F ainsi que d'une réévaluation libre des éléments d'actif de cette société et augmenté du montant des pertes ou des moins-values à long terme qui résultent des cessions visées à l'article 223 F ; ils sont également diminués du montant des plus-values de cession d'immobilisations non amortissables qui ont fait l'objet d'un apport ayant bénéficié des dispositions de l'article 210 A ainsi que des plus-values réintégrées en application du d du 3 du même article. De même, le déficit ou la moins-value nette à long terme de la société, mentionné au b du 1 et au 3, est augmenté de ces profits ou plus-values. Pour l'application de la limite prévue au dernier alinéa du I de l'article 209, le bénéfice imposable s'entend du bénéfice de la société déterminé selon les modalités prévues au présent 4.
 
-5. Dans les situations visées aux c, d, e, f ou i du 6 de l'article 223 L, et sous réserve, le cas échéant, de l'obtention de l'agrément prévu au 6, la fraction du déficit qui n'a pu être reportée au titre d'un exercice dans les conditions prévues à l'article 223 S peut, dans la mesure où ce déficit correspond à celui de la société mère absorbée ou à celui des sociétés membres du groupe ayant cessé et qui font partie du nouveau groupe, s'imputer sur les résultats, déterminés selon les modalités prévues au 4 et par dérogation au a du 1, des sociétés mentionnées ci-dessus.
+5. Dans les situations visées aux c, d, e, f ou i du 6 de l'article 223 L, et sous réserve, le cas échéant, de l'obtention de l'agrément prévu au 6, la fraction du déficit qui n'a pu être reportée au titre d'un exercice dans les conditions prévues à l'article 223 S peut, dans la mesure où ce déficit correspond à celui de la société mère absorbée ou à celui des sociétés membres du groupe ayant cessé et qui font partie du nouveau groupe, s'imputer sur les résultats, déterminés selon les modalités prévues au 4 et par dérogation au a du 1, des sociétés mentionnées ci-dessus. Cette fraction de déficit s'impute dans les limites et conditions prévues au dernier alinéa du I de l'article 209.
 
 La fraction du déficit transférée en application du 7 peut, dans la mesure où cette fraction correspond au déficit des sociétés apportées qui font partie du nouveau groupe, s'imputer sur les résultats, déterminés selon les modalités prévues au 4 et par dérogation au a du 1, des sociétés mentionnées ci-dessus.
 
@@ -20,7 +20,7 @@ La fraction du déficit transférée en application du 7 peut, dans la mesure o�
 
 L'agrément est délivré lorsque :
 
-a.L'opération est placée sous le régime prévu à l'article 210 A ;
+a. L'opération est placée sous le régime prévu à l'article 210 A ;
 
 b. Elle est justifiée du point de vue économique et obéit à des motivations principales autres que fiscales ;
 

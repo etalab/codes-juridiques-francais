@@ -2,7 +2,7 @@
 
 1. Lorsque la société mère opte pour le régime prévu au paragraphe I de l'article 220 quinquies :
 
-a) Le déficit d'ensemble déclaré au titre d'un exercice est imputé sur le bénéfice d'ensemble ou, le cas échéant, sur le bénéfice que la société mère a déclaré au titre des exercices précédant l'application du régime défini à la présente section, dans les conditions prévues à l'article 220 quinquies ;
+a) Le déficit d'ensemble déclaré au titre d'un exercice est imputé sur le bénéfice d'ensemble ou, le cas échéant, sur le bénéfice que la société mère a déclaré au titre de l'exercice précédant l'application du régime défini à la présente section, dans les conditions prévues à l'article 220 quinquies ;
 
 b) (Sans objet).
 

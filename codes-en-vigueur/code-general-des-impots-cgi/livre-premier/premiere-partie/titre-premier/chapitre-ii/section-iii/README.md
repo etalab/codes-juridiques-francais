@@ -18,6 +18,7 @@
 - [Article 210 B](article-210-b.md)
 - [Article 210 B bis](article-210-b-bis.md)
 - [Article 210 E](article-210-e.md)
+- [Article 210 F](article-210-f.md)
 - [Article 211](article-211.md)
 - [Article 211 bis](article-211-bis.md)
 - [Article 211 ter](article-211-ter.md)

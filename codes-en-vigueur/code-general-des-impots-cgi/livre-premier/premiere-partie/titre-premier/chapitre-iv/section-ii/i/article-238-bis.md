@@ -48,7 +48,7 @@ Les versements ne sont pas déductibles pour la détermination du bénéfice imp
 
 3. (abrogé).
 
-4. Ouvrent également droit, et dans les mêmes conditions, à la réduction d'impôt prévue au 1 les dons versés aux organismes agréés dans les conditions prévues à l'article 1649 nonies et dont l'objet exclusif est de verser des aides financières permettant la réalisation d'investissements tels que définis au 1 de l'article 12 du règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie) ou de fournir des prestations d'accompagnement à des petites et moyennes entreprises telles qu'elles sont définies à l'annexe I à ce règlement.
+4. Ouvrent également droit, et dans les mêmes conditions, à la réduction d'impôt prévue au 1 les dons versés aux organismes agréés dans les conditions prévues à l'article 1649 nonies et dont l'objet exclusif est de verser des aides financières permettant la réalisation d'investissements tels que définis au 1 de l'article 12 du règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie) ou de fournir des prestations d'accompagnement à des petites et moyennes entreprises telles qu'elles sont définies à l'annexe I à ce règlement.
 
 L'agrément est délivré à l'organisme s'il s'engage à respecter continûment l'ensemble des conditions suivantes :
 
@@ -56,7 +56,7 @@ L'agrément est délivré à l'organisme s'il s'engage à respecter continûment
 
 2° Ses aides et prestations ne sont pas rémunérées et sont utilisées dans l'intérêt direct des entreprises bénéficiaires ;
 
-3° Les aides accordées entrent dans le champ d'application de l'article 15 du règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 précité ;
+3° Les aides accordées entrent dans le champ d'application de l'article 15 du règlement (CE) n° 800/2008 de la Commission du 6 août 2008 précité ;
 
 4° Le montant versé chaque année à une entreprise ne devra pas excéder 20 % des ressources annuelles de l'organisme ;
 
@@ -66,8 +66,8 @@ L'agrément accordé aux organismes qui le sollicitent pour la première fois po
 
 Un décret fixe les modalités d'application du présent article, notamment les dispositions relatives aux statuts des organismes bénéficiaires des dons, les conditions de retrait de l'agrément et les informations relatives aux entreprises aidées que les organismes communiquent au ministre ayant délivré l'agrément.
 
-4 bis. Ouvrent également droit à la réduction d'impôt les dons et versements effectués au profit d'organismes agréés dans les conditions prévues à l'article 1649 nonies dont le siège est situé dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'Espace économique européen ayant conclu avec la France une convention fiscale contenant une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale. L'agrément est accordé lorsque l'organisme poursuit des objectifs et présente des caractéristiques similaires aux organismes dont le siège est situé en France répondant aux conditions fixées par le présent article.
+4 bis. Ouvrent également droit à la réduction d'impôt les dons et versements effectués au profit d'organismes agréés dans les conditions prévues à l'article 1649 nonies dont le siège est situé dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales. L'agrément est accordé lorsque l'organisme poursuit des objectifs et présente des caractéristiques similaires aux organismes dont le siège est situé en France répondant aux conditions fixées par le présent article.
 
-Lorsque les dons et versements ont été effectués au profit d'un organisme non agréé dont le siège est situé dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'Espace économique européen ayant conclu avec la France une convention fiscale contenant une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, la réduction d'impôt obtenue fait l'objet d'une reprise, sauf lorsque le contribuable a produit dans le délai de dépôt de déclaration les pièces justificatives attestant que cet organisme poursuit des objectifs et présente des caractéristiques similaires aux organismes dont le siège est situé en France répondant aux conditions fixées par le présent article.
+Lorsque les dons et versements ont été effectués au profit d'un organisme non agréé dont le siège est situé dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, la réduction d'impôt obtenue fait l'objet d'une reprise, sauf lorsque le contribuable a produit dans le délai de dépôt de déclaration les pièces justificatives attestant que cet organisme poursuit des objectifs et présente des caractéristiques similaires aux organismes dont le siège est situé en France répondant aux conditions fixées par le présent article.
 
 Un décret fixe les conditions d'application du présent 4 bis et notamment la durée de validité ainsi que les modalités de délivrance, de publicité et de retrait de l'agrément.

@@ -10,4 +10,6 @@ La décision ainsi communiquée demeure applicable tant qu'elle n'est pas rappor
 
 Pour 2011, le coefficient multiplicateur mentionné au deuxième alinéa est, sous réserve du respect des limites qui y sont fixées, égal à la multiplication par 100 du taux en valeur décimale appliqué au 31 décembre 2010 conformément à l'article L. 2333-4 dans sa rédaction antérieure à la promulgation de la loi n° 2010-1488 du 7 décembre 2010 portant nouvelle organisation du marché de l'électricité.
 
+Pour la taxe due au titre de 2012, la décision du conseil municipal doit être adoptée au plus tard le 15 octobre 2011. Le maire la transmet au comptable public assignataire de la commune au plus tard le deuxième jour ouvré suivant le 15 octobre 2011.
+
 En cas de changement du tarif de la taxe au cours d'une période de facturation, les quantités d'électricité concernées sont réparties en fonction des tarifs proportionnellement au nombre de jours de chaque période.
