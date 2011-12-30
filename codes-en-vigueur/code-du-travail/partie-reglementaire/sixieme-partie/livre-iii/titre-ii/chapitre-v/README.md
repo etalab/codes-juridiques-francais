@@ -6,3 +6,4 @@
 - [Section 4 : Salaire](section-4)
 - [Section 5 : Exonérations de cotisations sociales](section-5)
 - [Section 6 : Dispositions applicables aux groupements d'employeurs](section-6)
+- [Section 7 : Carte d'étudiant des métiers](section-7)
