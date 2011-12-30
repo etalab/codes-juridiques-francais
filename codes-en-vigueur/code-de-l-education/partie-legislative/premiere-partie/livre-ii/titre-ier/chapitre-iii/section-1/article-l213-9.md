@@ -6,9 +6,7 @@ La dotation départementale d'équipement des collèges est régie par les dispo
 
 Le montant alloué en 2008 à chaque département exerçant les compétences définies à l'article L. 213-2 du code de l'éducation est obtenu en appliquant un coefficient au montant total de la dotation départementale d'équipement des collèges fixé pour cette même année. Ce coefficient est calculé pour chaque département sur la base du rapport entre la moyenne actualisée des crédits de paiement qui lui ont été versés de 1998 à 2007 et la moyenne actualisée des crédits de paiement versés par l'Etat à l'ensemble des départements au titre de la dotation départementale d'équipement des collèges au cours de ces mêmes années.
 
-De 2009 à 2011, le montant alloué à chaque département est égal à celui de 2008.
-
-A compter de 2012, le montant de la dotation revenant à chaque département est obtenu par application au montant de l'année précédente du taux prévisionnel de croissance de la formation brute de capital fixe des administrations publiques associé au projet de loi de finances relatif à l'année de versement.
+A compter de 2009, le montant alloué à chaque département est égal à celui de 2008.
 
 La dotation départementale d'équipement des collèges est versée aux départements en une seule fois au cours du troisième trimestre de l'année en cours.
 
