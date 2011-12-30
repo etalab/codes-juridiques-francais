@@ -10,6 +10,14 @@ Un commissaire doit être domicilié en dehors de la commune.
 
 Lorsque le territoire de la commune comporte un ensemble de propriétés boisées de 100 hectares au minimum, un commissaire doit être propriétaire de bois ou forêts.
 
+Peuvent participer à la commission communale des impôts directs, sans voix délibérative, les agents de la commune, dans les limites suivantes :
+
+- un agent pour les communes dont la population est inférieure à 10 000 habitants ;
+
+- trois agents au plus pour les communes dont la population est comprise entre 10 000 et 150 000 habitants ;
+
+- cinq agents au plus pour les communes dont la population est supérieure à 150 000 habitants.
+
 2. Les commissaires ainsi que leurs suppléants en nombre égal sont désignés par le directeur  départemental des finances publiques sur une liste de contribuables, en nombre double, remplissant les conditions sus-énoncées, dressée par le conseil municipal.
 
 La désignation des commissaires et de leurs suppléants est effectuée de manière que les personnes respectivement imposées à la taxe foncière, à la taxe d'habitation et à la cotisation foncière des entreprises soient équitablement représentées.

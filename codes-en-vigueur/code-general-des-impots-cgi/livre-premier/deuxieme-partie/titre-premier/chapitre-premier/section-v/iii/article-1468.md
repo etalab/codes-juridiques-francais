@@ -26,4 +26,10 @@ Pour l'appréciation des conditions relatives au nombre de salariés et au chiff
 
 3° Pour les sociétés coopératives et unions de sociétés coopératives d'artisans, les sociétés coopératives et unions de sociétés coopératives de patrons-bateliers et les sociétés coopératives maritimes, de moitié, lorsque leur capital est détenu à concurrence de 20 % au moins et de 50 % au plus par des associés non coopérateurs au sens du 1 quinquies de l'article 207 et des titulaires de certificats coopératifs d'investissement lorsque les statuts prévoient qu'ils peuvent être rémunérés.
 
+4° (1) Pour les mutuelles et unions régies par le code de la mutualité et les institutions de prévoyance régies par le titre III du livre IX du code de la sécurité sociale :
+
+― de 60 % pour l'imposition établie au titre de 2013 ;
+
+― de 40 % pour l'imposition établie au titre de 2014.
+
 II. (Dispositions périmées).
