@@ -1,6 +1,6 @@
 # CHAPITRE III : Taxes, redevances ou versements non prévus par le code général des impôts
 
-- [Section 2 : Taxe communale sur l'électricité.](section-2)
+- [Section 2 : Taxe communale sur la consommation finale d'électricité.](section-2)
 - [Section 3 : Taxe sur la publicité frappant les affiches, réclames et enseignes lumineuses](section-3)
 - [Section 4 : Taxe sur les véhicules publicitaires.](section-4)
 - [Section 5 : Taxe communale sur les emplacements publicitaires fixes.](section-5)
