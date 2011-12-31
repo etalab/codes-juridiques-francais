@@ -3,4 +3,3 @@
 - [CHAPITRE Ier : Budgets et comptes](chapitre-ier)
 - [CHAPITRE II : Dépenses](chapitre-ii)
 - [CHAPITRE III :  Recettes](chapitre-iii)
-- [CHAPITRE IV : Relations entre la collectivité départementale et l'Etat](chapitre-iv)
