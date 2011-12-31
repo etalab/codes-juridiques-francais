@@ -5,3 +5,5 @@ Tout véhicule dont le poids total autorisé en charge est supérieur à 3,5 ton
 Toutefois, certaines catégories de véhicules livrés prêts à l'emploi, définies par le ministre chargé des transports en fonction de l'affectation et du poids des véhicules concernés, pourront n'être présentées au contrôle technique qu'au plus tard un an après la date de leur première mise en circulation.
 
 Les véhicules mentionnés au présent article sont ensuite soumis à des contrôles techniques périodiques renouvelés tous les ans.
+
+Pour les véhicules de collection, cette périodicité est portée à cinq ans.
