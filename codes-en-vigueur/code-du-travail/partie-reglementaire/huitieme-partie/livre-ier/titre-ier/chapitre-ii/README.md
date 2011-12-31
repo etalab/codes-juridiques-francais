@@ -5,3 +5,4 @@
 - [Article R8112-3](article-r8112-3.md)
 - [Article R8112-4](article-r8112-4.md)
 - [Article R8112-5](article-r8112-5.md)
+- [Article R8112-6](article-r8112-6.md)
