@@ -8,5 +8,3 @@
 - [Article 434](article-434.md)
 - [Article 435](article-435.md)
 - [Article 436](article-436.md)
-- [a : Sursis de versement](a)
-- [b : Décharge de responsabilité](b)

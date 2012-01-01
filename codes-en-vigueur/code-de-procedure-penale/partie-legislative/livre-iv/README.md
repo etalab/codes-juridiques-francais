@@ -9,7 +9,6 @@
 - [Titre VI : Des renvois d'un tribunal à un autre](titre-vi)
 - [Titre VII : De la récusation](titre-vii)
 - [Titre VIII : Du jugement des infractions commises à l'audience des cours et tribunaux](titre-viii)
-- [Titre XI : Des crimes et des délits en matière militaire et des crimes et délits contre les intérêts fondamentaux de la nation](titre-xi)
 - [Titre XII : Des demandes présentées en vue d'être relevé des interdictions, déchéances, incapacités ou mesures de publication](titre-xii)
 - [Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction](titre-xiv)
 - [Titre XVI : De la poursuite, de l'instruction et du jugement des infractions en matière de trafic de stupéfiants](titre-xvi)
