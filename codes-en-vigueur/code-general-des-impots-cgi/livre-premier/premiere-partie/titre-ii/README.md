@@ -2,7 +2,6 @@
 
 - [Chapitre VII bis : Taxe sur la publicité télévisée](chapitre-vii-bis)
 - [Chapitre VII quater : Taxe sur la publicité diffusée par voie de radiodiffusion sonore et de télévision](chapitre-vii-quater)
-- [Chapitre VII sexies : Contribution pour une pêche durable](chapitre-vii-sexies)
 - [Chapitre VII septies : Taxe sur la publicité diffusée par les chaînes de télévision](chapitre-vii-septies)
 - [Chapitre VII octies : Taxe sur les services fournis par les opérateurs de communications électroniques](chapitre-vii-octies)
 - [Chapitre VIII bis : Taxe sur certaines dépenses de publicité](chapitre-viii-bis)
