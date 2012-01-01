@@ -22,7 +22,7 @@ Le maire peut, en outre, par délégation du conseil municipal, être chargé, e
 
 10° De décider l'aliénation de gré à gré de biens mobiliers jusqu'à 545 760 F CFP (30 000 FF) ;
 
-11° De fixer les rémunérations et de régler les frais et honoraires des avocats, notaires, avoués, huissiers de justice et experts ;
+11° De fixer les rémunérations et de régler les frais et honoraires des avocats, notaires, huissiers de justice et experts ;
 
 12° De fixer, dans les limites de l'estimation des services fiscaux (domaines), le montant des offres de la commune à notifier aux expropriés et de répondre à leurs demandes ;
 

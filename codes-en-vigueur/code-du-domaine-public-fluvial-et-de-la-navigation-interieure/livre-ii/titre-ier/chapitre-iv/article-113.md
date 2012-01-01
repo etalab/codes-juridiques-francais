@@ -10,4 +10,4 @@ L'acquéreur d'un bateau hypothéqué qui veut se garantir des poursuites autori
 
 4° L'indication du lieu où le bateau se trouve et doit rester amarré jusqu'à l'expiration du délai donné aux créanciers pour requérir la mise aux enchères et, en outre, si cette mise aux enchères est requise, jusqu'à l'adjudication qui suivra ;
 
-5° Constitution d'un avoué près le tribunal de grande instance dans le ressort duquel se trouve le bateau.
+5° Constitution d'un avocat près le tribunal de grande instance dans le ressort duquel se trouve le bateau.

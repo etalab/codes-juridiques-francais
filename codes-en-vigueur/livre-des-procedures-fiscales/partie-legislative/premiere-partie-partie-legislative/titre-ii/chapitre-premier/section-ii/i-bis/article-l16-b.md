@@ -38,7 +38,7 @@ A défaut de réception, il est procédé à la signification de l'ordonnance pa
 
 Le délai et la voie de recours sont mentionnés dans l'ordonnance.
 
-L'ordonnance peut faire l'objet d'un appel devant le premier président de la cour d'appel. Les parties ne sont pas tenues de constituer avoué.
+L'ordonnance peut faire l'objet d'un appel devant le premier président de la cour d'appel. Les parties ne sont pas tenues de constituer avocat.
 
 Suivant les règles prévues par le code de procédure civile, cet appel doit être exclusivement formé par déclaration remise ou adressée, par pli recommandé ou, à compter du 1er janvier 2009, par voie électronique, au greffe de la cour dans un délai de quinze jours. Ce délai court à compter soit de la remise, soit de la réception, soit de la signification de l'ordonnance. Cet appel n'est pas suspensif.
 
@@ -70,7 +70,7 @@ Les pièces et documents saisis sont restitués à l'occupant des locaux dans le
 
 Le procès-verbal et l'inventaire mentionnent le délai et la voie de recours.
 
-Le premier président de la cour d'appel connaît des recours contre le déroulement des opérations de visite ou de saisie. Les parties ne sont pas tenues de constituer avoué.
+Le premier président de la cour d'appel connaît des recours contre le déroulement des opérations de visite ou de saisie. Les parties ne sont pas tenues de constituer avocat.
 
 Suivant les règles prévues par le code de procédure civile, ce recours doit être exclusivement formé par déclaration remise ou adressée, par pli recommandé ou, à compter du 1er janvier 2009, par voie électronique, au greffe de la cour dans un délai de quinze jours. Ce délai court à compter de la remise ou de la réception soit du procès-verbal, soit de l'inventaire, mentionnés au premier alinéa. Ce recours n'est pas suspensif.
 

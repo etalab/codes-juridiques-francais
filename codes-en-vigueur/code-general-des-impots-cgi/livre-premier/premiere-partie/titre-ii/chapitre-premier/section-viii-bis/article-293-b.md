@@ -12,7 +12,7 @@ b) Ou 89 600 € l'année civile précédente, lorsque le chiffre d'affaires de 
 
 a) 32 600 € l'année civile précédente ;
 
-b) Ou 34 600 € l'année civile précédente, lorsque la pénultième année il n'a pas excédé le montant mentionné au a.
+b) Ou 34 600 €  l'année civile précédente, lorsque la pénultième année il n'a pas excédé le montant mentionné au a.
 
 II.-1. Le I cesse de s'appliquer :
 
@@ -22,9 +22,9 @@ b) Ou à ceux dont le chiffre d'affaires de l'année en cours afférent à des p
 
 2. Les assujettis visés au 1 deviennent redevables de la taxe sur la valeur ajoutée pour les prestations de services et les livraisons de biens effectuées à compter du premier jour du mois au cours duquel ces chiffres d'affaires sont dépassés.
 
-III.-Le chiffre d'affaires limite de la franchise prévue au I est fixé à 42 300 € :
+III.-Le chiffre d'affaires limite de la franchise prévue au I est fixé à 42 300 €  :
 
-1. Pour les opérations réalisées par les avocats, les avocats au Conseil d'Etat et à la Cour de cassation et les avoués, dans le cadre de l'activité définie par la réglementation applicable à leur profession ;
+1. Pour les opérations réalisées par les avocats                et les avocats au Conseil d'Etat et à la Cour de cassation, dans le cadre de l'activité définie par la réglementation applicable à leur profession ;
 
 2. Pour la livraison de leurs oeuvres désignées aux 1° à 12° de l'article L. 112-2 du code de la propriété intellectuelle et la cession des droits patrimoniaux qui leur sont reconnus par la loi par les auteurs d'oeuvres de l'esprit, à l'exception des architectes ;
 
@@ -36,4 +36,4 @@ Cette disposition ne peut pas avoir pour effet d'augmenter le chiffre d'affaires
 
 V.-Les dispositions du III et du IV cessent de s'appliquer aux assujettis dont le chiffre d'affaires de l'année en cours dépasse respectivement 52 000 € et 20 900 €. Ils deviennent redevables de la taxe sur la valeur ajoutée pour les prestations de services et pour les livraisons de biens effectuées à compter du premier jour du mois au cours duquel ces chiffres d'affaires sont dépassés.
 
-VI. - Les seuils mentionnés aux I à V sont actualisés chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu et arrondis à la centaine d'euros la plus proche.
+VI.-Les seuils mentionnés aux I à V sont actualisés chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu et arrondis à la centaine d'euros la plus proche.

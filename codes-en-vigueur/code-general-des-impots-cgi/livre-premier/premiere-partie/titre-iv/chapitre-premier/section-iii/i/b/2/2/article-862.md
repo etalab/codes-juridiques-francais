@@ -1,6 +1,6 @@
 # Article 862
 
-Les notaires, huissiers, greffiers, avoués et autres officiers publics, les avocats et les autorités administratives ne peuvent faire ou rédiger un acte en vertu ou en conséquence d'un acte soumis obligatoirement à l'enregistrement ou à la formalité fusionnée, l'annexer à leurs minutes, le recevoir en dépôt ni le délivrer en brevet, extrait, copie ou expédition, avant que l'une ou l'autre formalité ait été exécutée, alors même que le délai pour y procéder ne serait pas encore expiré.
+Les notaires, huissiers, greffiers et autres officiers publics, les avocats et les autorités administratives ne peuvent faire ou rédiger un acte en vertu ou en conséquence d'un acte soumis obligatoirement à l'enregistrement ou à la formalité fusionnée, l'annexer à leurs minutes, le recevoir en dépôt ni le délivrer en brevet, extrait, copie ou expédition, avant que l'une ou l'autre formalité ait été exécutée, alors même que le délai pour y procéder ne serait pas encore expiré.
 
 Sont exceptés les actes de cette nature qui se signifient à partie ou par affiches et proclamations ainsi que les copies exécutoires des jugements de divorce rendus en application de l'article 232 du code civil.
 
