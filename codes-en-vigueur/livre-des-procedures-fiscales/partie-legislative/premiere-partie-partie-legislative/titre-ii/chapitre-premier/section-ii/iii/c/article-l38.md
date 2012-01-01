@@ -40,7 +40,7 @@ A défaut de réception, il est procédé à la signification de l'ordonnance pa
 
 Le délai et la voie de recours sont mentionnés dans l'ordonnance.
 
-L'ordonnance peut faire l'objet d'un appel devant le premier président de la cour d'appel. Les parties ne sont pas tenues de constituer avoué.
+L'ordonnance peut faire l'objet d'un appel devant le premier président de la cour d'appel. Les parties ne sont pas tenues de constituer avocat.
 
 Suivant les règles prévues par le code de procédure civile, cet appel doit être exclusivement formé par déclaration remise ou adressée, par pli recommandé ou, à compter du 1er janvier 2009, par voie électronique, au greffe de la cour dans un délai de quinze jours. Ce délai court à compter soit de la remise, soit de la réception, soit de la signification de l'ordonnance. Cet appel n'est pas suspensif.
 
@@ -56,7 +56,7 @@ L'officier de police judiciaire veille au respect du secret professionnel et des
 
 4. Le procès-verbal de visite relatant les modalités et le déroulement de l'opération est dressé sur-le-champ par les agents de l'administration des douanes et droits indirects. Un inventaire des pièces et documents saisis, ainsi que des biens et avoirs provenant directement ou indirectement des infractions dont la preuve est recherchée, lui est annexé. Le procès-verbal et l'inventaire sont signés par les agents de l'administration des douanes et droits indirects et par l'officier de police judiciaire ainsi que par les personnes mentionnées au premier alinéa du 3 ci-dessus ; en cas de refus de signer, mention en est faite au procès-verbal.
 
-Si l'inventaire sur place présente des difficultés, les pièces, documents, biens et avoirs saisis sont placés sous scellés.L'occupant des lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu en présence de l'officier de police judiciaire ; l'inventaire est alors établi.
+Si l'inventaire sur place présente des difficultés, les pièces, documents, biens et avoirs saisis sont placés sous scellés. L'occupant des lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu en présence de l'officier de police judiciaire ; l'inventaire est alors établi.
 
 5. Les originaux du procès-verbal de visite et de l'inventaire sont, dès qu'ils ont été établis, adressés au juge qui a délivré l'ordonnance ; une copie de ces mêmes documents est remise à l'occupant des lieux ou à son représentant. Une copie est également adressée par lettre recommandée avec demande d'avis de réception à l'auteur présumé des infractions mentionnées au 1, nonobstant les dispositions de l'article L. 103.
 
@@ -64,7 +64,7 @@ Si le juge constate que les biens et avoirs saisis ne proviennent pas directemen
 
 Les pièces et documents saisis sont restitués à l'occupant des lieux après exécution de la transaction consécutive à la rédaction du procès-verbal de constatation des infractions prévu par l'article L. 212 A ; en cas de poursuites judiciaires, leur restitution est autorisée par l'autorité judiciaire compétente.
 
-Le premier président de la cour d'appel connaît des recours contre le déroulement des opérations de visite ou de saisie autorisées en application du 2. Le procès-verbal et l'inventaire rédigés à l'issue de ces opérations mentionnent le délai et la voie de recours. Les parties ne sont pas tenues de constituer avoué.
+Le premier président de la cour d'appel connaît des recours contre le déroulement des opérations de visite ou de saisie autorisées en application du 2. Le procès-verbal et l'inventaire rédigés à l'issue de ces opérations mentionnent le délai et la voie de recours. Les parties ne sont pas tenues de constituer avocat.
 
 Suivant les règles prévues par le code de procédure civile, ce recours doit être exclusivement formé par déclaration remise ou adressée, par pli recommandé ou, à compter du 1er janvier 2009, par voie électronique, au greffe de la cour dans un délai de quinze jours. Ce délai court à compter de la remise ou de la réception soit du procès-verbal, soit de l'inventaire, mentionnés au premier alinéa. Ce recours n'est pas suspensif.
 
