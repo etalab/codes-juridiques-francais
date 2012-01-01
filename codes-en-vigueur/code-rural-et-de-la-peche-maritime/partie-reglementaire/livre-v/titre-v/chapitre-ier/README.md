@@ -10,3 +10,4 @@
 - [Section 8 : Dispositions particulières aux organisations de producteurs dans le secteur forestier](section-8)
 - [Section 9 : Dispositions particulières aux organisations de producteurs dans le secteur de l'élevage équin](section-9)
 - [Section 10 : Dispositions particulières aux organisations de producteurs dans le secteur de la banane](section-10)
+- [Section 11 : Dispositions particulières aux organisations de producteurs dans le secteur du plant de pommes de terre](section-11)
