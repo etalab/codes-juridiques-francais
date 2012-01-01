@@ -1,3 +1,5 @@
 # Article L541-2
 
-Les dispositions de l'article L. 131-6 du premier alinéa de l'article L. 133-3 et des articles L. 132-1, L. 132-2 et L. 133-6 sont applicables à Mayotte.
+Pour l'application à Mayotte de l'article L. 147-1, la référence :
+
+"L. 222-6" est remplacée par la référence : "L. 543-14".
