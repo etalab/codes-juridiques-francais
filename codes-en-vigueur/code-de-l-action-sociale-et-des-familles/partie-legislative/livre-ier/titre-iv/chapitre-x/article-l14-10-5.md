@@ -8,7 +8,7 @@ I.-Une section consacrée au financement des établissements ou services sociaux
 
 a) En ressources, une fraction au moins égale à 10 % et au plus égale à 14 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4, ainsi que la part de la contribution des régimes d'assurance maladie, mentionnée au deuxième alinéa du I de l'article L. 314-3, qui est destinée au financement de ces établissements ou services ;
 
-a bis). Pour l'année 2011, le pourcentage défini au a est fixé à 12 % ;
+a bis). Pour l'année 2012, le pourcentage défini au a est fixé à 13 % ;
 
 b) En charges, le remboursement aux régimes d'assurance maladie des charges afférentes à l'accueil de leurs affiliés dans ces établissements ou services et les contributions aux budgets des agences régionales de santé pour le financement des groupes d'entraide mutuelle mentionnés aux articles L. 114-1-1 et L. 114-3.
 
@@ -18,7 +18,7 @@ Ces contributions sont arrêtées par décision du directeur de la Caisse nation
 
 a) En ressources, 40 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4, ainsi que la part de la contribution des régimes d'assurance maladie, mentionnée au deuxième alinéa du I de l'article L. 314-3, qui est destinée au financement de ces établissements ou services ;
 
-a bis). Pour l'année 2011, le pourcentage défini au a est fixé à 38 % ;
+a bis). Pour l'année 2012, le pourcentage défini au a est fixé à 39 % ;
 
 b) En charges, le remboursement aux régimes d'assurance maladie des charges afférentes à l'accueil de leurs affiliés dans ces établissements ou services et les contributions au budget des agences régionales de santé pour le financement des maisons pour l'autonomie et l'intégration des personnes malades d'Alzheimer mentionnées à l'article L. 113-3.
 
@@ -26,7 +26,7 @@ Ces contributions sont arrêtées par décision du directeur de la Caisse nation
 
 Les opérations comptables relatives aux produits et aux charges de la présente section sont effectuées simultanément à la clôture des comptes de l'exercice.
 
-La dotation globale versée à l'agence mentionnée à l'article L. 312-8 du présent code et la dotation versée à l'agence mentionnée à l'article L. 6113-10 du code de la santé publique sont imputées sur le financement à la charge des organismes de sécurité sociale soumis à l'objectif de dépenses mentionné à l'article L. 314-3 du présent code.
+La dotation globale versée à l'agence mentionnée à l'article L. 312-8 du présent code et la dotation versée à l'agence mentionnée à l'article L. 6113-10 du code de la santé publique et la dotation versée à l'Agence technique de l'information sur l'hospitalisation mentionnée à l'article 4 de la loi n° 2002-73 du 17 janvier 2002 de modernisation sociale, pour la réalisation d'études sur les coûts des établissements et services mentionnés à l'article L. 314-3-1 du présent code,  sont imputées sur le financement à la charge des organismes de sécurité sociale soumis à l'objectif de dépenses mentionné à l'article L. 314-3 du présent code.
 
 II.-Une section consacrée à la prestation d'allocation personnalisée d'autonomie mentionnée à l'article L. 232-1. Elle retrace :
 
@@ -42,9 +42,11 @@ a) En ressources, une fraction au moins égale à 26 % et au plus égale à 30 %
 
 b) En charges, un concours versé aux départements dans la limite des ressources mentionnées au a, destiné à couvrir une partie du coût de la prestation de compensation et un concours versé pour l'installation ou le fonctionnement des maisons départementales des personnes handicapées. Les montants de ces concours sont répartis selon les modalités prévues à l'article L. 14-10-7.
 
-Sont également retracées en charges les subventions dues à la Caisse nationale d'allocations familiales en application des articles L. 381-1 du code de la sécurité sociale, lorsque la personne aidée est une personne handicapée, et L. 541-4 du même code.
+Sont également retracées en charges les subventions dues à la Caisse nationale d'allocations familiales en application de l'article L. 381-1 du code de la sécurité sociale , lorsque la personne aidée est une personne handicapée.
 
-Avant imputation des contributions aux sections mentionnées aux V et VI, l'ensemble des ressources destinées aux personnes handicapées, soit au titre des établissements et services financés par la sous-section mentionnée au 1 du I, soit au titre de la présente section, doit totaliser 38 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4.
+Avant imputation des contributions aux sections mentionnées aux V et VI, l'ensemble des ressources destinées aux personnes handicapées, soit au titre des établissements et services financés par la sous-section mentionnée au 1 du I, soit au titre de la présente section, doit totaliser 40 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4.
+
+Pour l'année 2012, ce taux est fixé à 39 %.
 
 IV.-Une section consacrée à la promotion des actions innovantes, à la formation des aidants familiaux, à la formation des accueillants familiaux mentionnés aux articles L. 441-1 et L. 444-1 et au renforcement de la professionnalisation des métiers de service exercés auprès des personnes âgées et des personnes handicapées. Elle retrace :
 
@@ -58,11 +60,11 @@ V.-Une section consacrée au financement des autres dépenses en faveur des pers
 
 a) Pour les personnes âgées, ces charges sont retracées dans une sous-section spécifique abondée par une fraction, fixée par arrêté des ministres chargés des personnes âgées et du budget, des ressources prévues au a du 2 du I ;
 
-a bis). Pour l'année 2011,2 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4 est affecté au financement des opérations visées au a de l'article L. 14-10-9 ;
+a bis). Pour l'année 2012, 1 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4 est affecté au financement des opérations visées au a de l'article L. 14-10-9 ;
 
 b) Pour les personnes handicapées, ces charges sont retracées dans une sous-section spécifique abondée par une fraction, fixée par arrêté des ministres chargés des personnes handicapées et du budget, des ressources prévues au a du III ;
 
-b bis) Pour l'année 2011,2 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4 est affectée au financement des opérations visées au a de l'article L. 14-10-9.
+b bis) Pour l'année 2012, 1 % du produit des contributions visées aux 1° et 2° de l'article L. 14-10-4 est affectée au financement des opérations visées au a de l'article L. 14-10-9.
 
 VI.-Une section consacrée aux frais de gestion de la caisse. Les charges de cette section sont financées par un prélèvement sur les ressources mentionnées aux 1° à 4° de l'article L. 14-10-4, réparti entre les sections précédentes au prorata du montant des ressources qui leur sont affectées.
 

@@ -6,6 +6,7 @@
 - [Section V : Fonds national de gestion des risques en agriculture](section-v)
 - [Section V bis : Fonds de garantie des calamités agricoles dans les départements d'outre-mer](section-v-bis)
 - [Section V quater : Fonds de prévention des risques naturels majeurs](section-v-quater)
+- [Section V quinquies : Droits perçus au profit de la Caisse nationale de l'assurance maladie des travailleurs salariés](section-v-quinquies)
 - [Section VI : Groupements de communes. Taxe locale d'équipement](section-vi)
 - [Section IX : Association pour le développement de la formation professionnelle dans les transports](section-ix)
 - [Section X : Droit de timbre perçu au profit de l'Office national de la chasse et de la faune sauvage](section-x)
