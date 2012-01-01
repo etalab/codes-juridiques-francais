@@ -4,7 +4,7 @@ Sans préjudice de l'exercice de ses compétences par la collectivité de Saint-
 
 1° Première partie : livres II, III, IV et V ;
 
-2° Deuxième partie : titres Ier, II et V du livre II ;
+2° Deuxième partie : titres Ier, II, à l'exception de l'article L. 2224-12-3-1, et V du livre II ;
 
 3° Troisième partie : livre II ;
 
