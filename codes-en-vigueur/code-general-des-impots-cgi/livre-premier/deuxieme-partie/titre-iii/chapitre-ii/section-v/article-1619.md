@@ -1,6 +1,6 @@
 # Article 1619
 
-I.-Il est institué une taxe au profit de l'établissement national des produits de l'agriculture et de la mer (FranceAgriMer) mentionné à l'article L. 621-1 du code rural et de la pêche maritime.
+I.-Il est institué une taxe qui est affectée, dans la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, à l'établissement national des produits de l'agriculture et de la mer (FranceAgriMer) mentionné à l'article L. 621-1 du code rural et de la pêche maritime.
 
 II.-La taxe est due par les exploitants agricoles producteurs de céréales.
 
@@ -10,7 +10,7 @@ Pour la détermination de l'assiette de la taxe, les tonnages de céréales livr
 
 1° Au taux d'humidité, égal à la différence entre le taux d'humidité constaté et un taux de référence compris entre 14 % et 15 % des tonnages fixé par arrêté du ministre chargé de l'agriculture ;
 
-2° Au taux d'impuretés diverses, égal à la différence entre le taux d'impuretés constaté et le taux de référence compris entre 0, 5 % et 2, 5 % des tonnages, fixé par arrêté du ministre chargé de l'agriculture pour chaque céréale, dans la limite d'un taux maximal de réfaction compris entre 1 % et 3 %.
+2° Au taux d'impuretés diverses, égal à la différence entre le taux d'impuretés constaté et le taux de référence compris entre 0,5 % et 2,5 % des tonnages, fixé par arrêté du ministre chargé de l'agriculture pour chaque céréale, dans la limite d'un taux maximal de réfaction compris entre 1 % et 3 %.
 
 III bis. Les quantités de céréales destinées à être récupérées, sous forme d'aliments pour la nourriture animale, par l'exploitant agricole qui les a initialement livrées, sont exonérées de la taxe.
 
@@ -18,7 +18,7 @@ IV.-Le fait générateur de la taxe est la livraison des céréales par les expl
 
 La taxe est exigible à la livraison.
 
-V.-Le taux de la taxe est fixé à 0, 36 euro par tonne.
+V.-Le taux de la taxe est fixé à 0,36 euro par tonne.
 
 VI.-La taxe est liquidée par les collecteurs agréés et les producteurs grainiers sur une déclaration agréée par l'administration des douanes et droits indirects. Cette déclaration est adressée au service des douanes et droits indirects territorialement compétent dans les dix premiers jours du mois suivant celui de son exigibilité.
 

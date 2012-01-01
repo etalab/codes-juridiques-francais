@@ -6,6 +6,5 @@
 - [Article L5123-4](article-l5123-4.md)
 - [Article L5123-5](article-l5123-5.md)
 - [Article L5123-6](article-l5123-6.md)
-- [Article L5123-7](article-l5123-7.md)
 - [Article L5123-8](article-l5123-8.md)
 - [Article L5123-9](article-l5123-9.md)
