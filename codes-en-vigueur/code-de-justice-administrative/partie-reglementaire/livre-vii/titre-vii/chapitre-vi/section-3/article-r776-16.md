@@ -5,3 +5,5 @@ Le tribunal administratif territorialement compétent est celui dans le ressort 
 Toutefois, lorsque, avant la tenue de l'audience, l'étranger est transféré dans un autre lieu de rétention, le président du tribunal administratif peut décider, dans l'intérêt d'une bonne administration de la justice, par une décision insusceptible de recours, de transmettre le dossier au tribunal administratif dans le ressort duquel est situé le nouveau lieu de rétention.
 
 Lorsque le président d'un tribunal administratif est saisi de conclusions qu'il estime relever de la compétence d'un autre tribunal administratif, il lui transmet le dossier sans délai et par tous moyens, dans les formes prévues au premier alinéa de l'article R. 351-6.
+
+Par exception aux dispositions du premier alinéa et de l'article R. 221-3, le tribunal administratif territorialement compétent est celui de Nancy lorsque le requérant est placé au centre de rétention de Metz.

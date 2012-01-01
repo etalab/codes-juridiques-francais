@@ -13,6 +13,7 @@
 - [Article R122-21](article-r122-21.md)
 - [Article R122-21-1](article-r122-21-1.md)
 - [Article R122-21-2](article-r122-21-2.md)
+- [Article R122-21-3](article-r122-21-3.md)
 - [Article R122-22](article-r122-22.md)
 - [Article R122-23](article-r122-23.md)
 - [Article R122-24](article-r122-24.md)
