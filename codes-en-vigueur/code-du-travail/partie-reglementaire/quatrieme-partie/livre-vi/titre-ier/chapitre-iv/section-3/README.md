@@ -4,7 +4,6 @@
 - [Article R4614-7](article-r4614-7.md)
 - [Article R4614-8](article-r4614-8.md)
 - [Article R4614-9](article-r4614-9.md)
-- [Article R4614-10](article-r4614-10.md)
 - [Article R4614-11](article-r4614-11.md)
 - [Article R4614-12](article-r4614-12.md)
 - [Article R4614-13](article-r4614-13.md)
