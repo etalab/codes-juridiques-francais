@@ -1,5 +1,7 @@
 # Sous-section 2 : Recouvrement des cotisations assises sur les salaires.
 
+- [Article R741-1-1](article-r741-1-1.md)
+- [Article R741-1-2](article-r741-1-2.md)
 - [Article R741-2](article-r741-2.md)
 - [Article R741-3](article-r741-3.md)
 - [Article R741-4](article-r741-4.md)

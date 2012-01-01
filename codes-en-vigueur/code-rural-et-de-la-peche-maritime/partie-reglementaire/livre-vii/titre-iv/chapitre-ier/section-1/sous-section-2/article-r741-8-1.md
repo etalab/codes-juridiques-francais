@@ -8,7 +8,7 @@ En cas de changement de périodicité de versement des cotisations en raison soi
 
 II.-Les employeurs mentionnés aux articles R. 741-3 et R. 741-7 doivent informer la caisse de mutualité sociale agricole dont ils relèvent de l'application du paiement partiellement différé des cotisations patronales de sécurité sociale au plus tard à la date de retour du bordereau mentionné à l'article R. 741-5 afférent au mois d'activité au titre duquel le différé de paiement est appliqué.
 
-L'employeur soumis à l'obligation du paiement trimestriel des cotisations prévue à l'article R. 741-6 doit présenter une demande de paiement partiellement différé des cotisations patronales de sécurité sociale par écrit auprès de la caisse de mutualité sociale agricole dont il relève, au plus tard à la date de retour du bordereau mentionné à l'article R. 741-2 afférent au trimestre d'activité au titre duquel le différé de paiement est sollicité.
+L'employeur soumis à l'obligation du paiement trimestriel des cotisations prévue à l'article R. 741-6 doit présenter une demande de paiement partiellement différé des cotisations patronales de sécurité sociale par écrit auprès de la caisse de mutualité sociale agricole dont il relève, au plus tard à la date de retour du bordereau ou de transmission de la déclaration de données sociales mentionnés à l'article R. 741-2 afférents au trimestre d'activité au titre duquel le différé de paiement est sollicité.
 
 Dans tous les cas, l'employeur doit fournir, dans les douze mois suivant la clôture de l'exercice pour lequel la réduction d'impôt dont bénéficie l'exploitation ou l'entreprise agricole a été calculée, copie de la déclaration spéciale prévue à l'article 46 quater-0 YW de l'annexe III du code général des impôts.
 

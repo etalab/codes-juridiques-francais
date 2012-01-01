@@ -4,7 +4,9 @@ En cas de cession ou de cessation d'activité de l'exploitation ou de l'entrepri
 
 Les cotisations sont dans ce cas immédiatement exigibles ; la caisse doit procéder à leur mise en recouvrement dans les vingt jours qui suivent la réception du bordereau et elles doivent être versées dans un délai de trente jours suivant leur mise en recouvrement.
 
-Le délai prévu au premier alinéa du présent article court :
+L'employeur qui a exercé l'option prévue à l'article R. 741-1-2 transmet dans les dix jours, en lieu et place du bordereau, la déclaration de données sociales définie au même article. Le versement des cotisations est exigible dans un délai de trente jours suivant la date limite de transmission de cette déclaration.
+
+Le délai prévu aux premier et troisième alinéas du présent article court :
 
 1° Lorsqu'il s'agit de la vente ou de la cession d'une exploitation agricole ou d'une entreprise ne constituant pas un fonds de commerce, du jour où le cessionnaire a pris effectivement la direction de l'exploitation ou entreprise ;
 
