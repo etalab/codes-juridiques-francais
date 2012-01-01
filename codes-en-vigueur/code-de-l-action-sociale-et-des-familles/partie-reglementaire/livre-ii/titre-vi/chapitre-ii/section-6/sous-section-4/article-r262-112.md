@@ -2,7 +2,7 @@
 
 Les catégories de données à caractère personnel et informations relatives au bénéficiaire et, s'il y a lieu, à son conjoint, concubin ou partenaire lié par un pacte civil de solidarité enregistrées dans le traitement, sont les suivantes :
 
-1° Le nom de famille et, le cas échéant, le nom marital ou le nom d'usage, les prénoms, la date et le lieu de naissance, ainsi que, pour le bénéficiaire, la situation familiale ;
+1° Le nom de famille ou, le cas échéant, le nom marital, le prénom, la date de naissance et l'adresse ;
 
 2° Le numéro d'inscription au répertoire national d'identification des personnes physiques ;
 
