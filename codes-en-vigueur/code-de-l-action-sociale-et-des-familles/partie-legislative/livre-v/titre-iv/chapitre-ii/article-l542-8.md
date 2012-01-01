@@ -1,3 +1,5 @@
 # Article L542-8
 
-L'habilitation des organismes publics ou privés chargés de mettre en oeuvre les actions mentionnées au 2° de l'article L. 121-2 est délivrée dans les conditions prévues par le règlement territorial de l'aide sociale.
+Les ascendants, descendants et conjoints d'une personne qui sollicite l'aide sociale doivent déclarer leurs ressources et indiquer l'aide qu'ils peuvent apporter à cette personne.
+
+Il est tenu compte de leur participation éventuelle dans la détermination de l'aide consentie par la collectivité de Mayotte.
