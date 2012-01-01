@@ -6,7 +6,7 @@ I. 1° Les contribuables domiciliés fiscalement en France peuvent bénéficier 
 
 a) Les titres de la société ne sont pas admis aux négociations sur un marché réglementé français ou étranger ;
 
-b) La société a son siège social dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale ;
+b) La société a son siège social dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales ;
 
 c) La société est soumise à l'impôt sur les sociétés dans les conditions de droit commun ou y serait soumise dans les mêmes conditions si l'activité était exercée en France ;
 
@@ -22,7 +22,9 @@ d ter) Les souscriptions au capital de la société confèrent aux souscripteurs
 
 e) La société doit être une petite et moyenne entreprise qui satisfait à la définition des petites et moyennes entreprises qui figure à l'annexe I au règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aide compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie) ;
 
-f) La société n'accorde aucune garantie en capital à ses associés ou actionnaires en contrepartie de leurs souscriptions.
+f) La société n'accorde aucune garantie en capital à ses associés ou actionnaires en contrepartie de leurs souscriptions ;
+
+g) La société vérifie les conditions mentionnées aux 2° et 3° du II de l'article 239 bis AB et aux b et c du VI quinquies du présent article. Toutefois, ces dispositions ne sont pas applicables aux entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du travail.
 
 3° L'avantage fiscal prévu au 1° trouve également à s'appliquer lorsque la société bénéficiaire de la souscription remplit les conditions suivantes :
 
@@ -31,6 +33,8 @@ a) La société vérifie l'ensemble des conditions prévues au 2°, à l'excepti
 b) La société a pour objet social exclusif de détenir des participations dans des sociétés exerçant les activités mentionnées au d du 2° ;
 
 c) La société ne compte pas plus de cinquante associés ou actionnaires ;
+
+La condition prévue au premier alinéa du présent c ne s'applique pas si la société détient exclusivement des participations dans une société exerçant une des activités mentionnées au d du 2° dont le capital est détenu pour 10 % au moins par une ou plusieurs sociétés coopératives ou par l'une de leurs unions (1) ;
 
 d) La société a exclusivement pour mandataires sociaux des personnes physiques ;
 
@@ -48,15 +52,13 @@ Un décret fixe les conditions dans lesquelles les investisseurs sont informés 
 
 La société adresse à l'administration fiscale, à des fins statistiques, au titre de chaque année, avant le 30 avril de l'année suivante et dans des conditions définies par arrêté conjoint des ministres chargés de l'économie et du budget, un état récapitulatif des sociétés financées, des titres détenus ainsi que des montants investis durant l'année. Les informations qui figurent sur cet état sont celles arrêtées au 31 décembre de l'année.
 
-II. Les versements ouvrant droit à la réduction d'impôt mentionnée au I sont ceux effectués jusqu'au 31 décembre 2012. Ils sont retenus dans la limite annuelle de 20 000 euros pour les contribuables célibataires, veufs ou divorcés et de 40 000 euros pour les contribuables mariés soumis à imposition commune.
+II. Les versements ouvrant droit à la réduction d'impôt mentionnée au I sont ceux effectués jusqu'au 31 décembre 2012. Ils sont retenus dans la limite annuelle de 50 000 € pour les contribuables célibataires, veufs ou divorcés et de 100 000 € pour les contribuables mariés soumis à imposition commune.
 
 La fraction d'une année excédant, le cas échéant, les limites mentionnées au premier alinéa ouvre droit à la réduction d'impôt dans les mêmes conditions au titre des quatre années suivantes.
 
-II bis. ― Les limites mentionnées au premier alinéa du II sont portées respectivement à 50 000 € pour les contribuables célibataires, veufs ou divorcés et à 100 000 € pour les contribuables mariés soumis à imposition commune pour les souscriptions ouvrant droit à la réduction d'impôt mentionnée au I au capital initial ou aux augmentations de capital des sociétés vérifiant les conditions mentionnées au I, aux 2° et 3° du II de l'article 239 bis AB et aux b et c du VI quinquies.
+II bis. ― Abrogé.
 
-Le second alinéa du II n'est pas applicable au titre des souscriptions mentionnées au premier alinéa.
-
-II ter. ― La réduction d'impôt prévue au I est calculée sur le montant total des versements mentionnés aux II et II bis retenus dans leur limite annuelle respective. Le montant total ainsi déterminé ne peut excéder les limites mentionnées au premier alinéa du II bis. La fraction des versements pour laquelle le contribuable entend bénéficier de la réduction d'impôt dans la limite prévue au II ne peut ouvrir droit à la réduction d'impôt dans la limite prévue au II bis, et inversement.
+II ter. ― Abrogé.
 
 III. Abrogé.
 
@@ -76,13 +78,13 @@ a. les personnes physiques prennent l'engagement de conserver les parts de fonds
 
 b. le porteur de parts, son conjoint et leurs ascendants et descendants ne doivent pas détenir ensemble plus de 10 % des parts du fonds et, directement ou indirectement, plus de 25 % des droits dans les bénéfices des sociétés dont les titres figurent à l'actif du fonds ou avoir détenu ce montant à un moment quelconque au cours des cinq années précédant la souscription des parts du fonds ou l'apport des titres ;
 
-c) Par dérogation aux dispositions du dernier alinéa du I de l'article L. 214-41 du code monétaire et financier, si le fonds n'a pas pour objet d'investir plus de 50 % de son actif au capital de jeunes entreprises innovantes définies à l'article 44 sexies-0 A, le quota d'investissement de 60 % prévu à ce même I doit être atteint à hauteur de 50 % au moins au plus tard huit mois à compter de la date de clôture de la période de souscription fixée dans le prospectus complet du fonds, laquelle ne peut excéder huit mois à compter de la date de constitution du fonds, ou huit mois après la promulgation de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 et à hauteur de 100 % au plus tard le dernier jour du huitième mois suivant.
+c) Par dérogation aux dispositions du dernier alinéa du I de l'article L. 214-30 du code monétaire et financier, si le fonds n'a pas pour objet d'investir plus de 50 % de son actif au capital de jeunes entreprises innovantes définies à l'article 44 sexies-0 A, le quota d'investissement de 60 % prévu à ce même I doit être atteint à hauteur de 50 % au moins au plus tard huit mois à compter de la date de clôture de la période de souscription fixée dans le prospectus complet du fonds, laquelle ne peut excéder huit mois à compter de la date de constitution du fonds, ou huit mois après la promulgation de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 et à hauteur de 100 % au plus tard le dernier jour du huitième mois suivant.
 
 2. Les versements ouvrant droit à la réduction d'impôt mentionnée au 1 sont ceux effectués jusqu'au 31 décembre 2012. Ils sont retenus, après imputation des droits ou frais d'entrée, dans les limites annuelles de 12 000 euros pour les contribuables célibataires, veufs ou divorcés et de 24 000 euros pour les contribuables mariés soumis à imposition commune.
 
 2 bis. Un décret fixe les conditions dans lesquelles les porteurs de parts sont informés annuellement du montant détaillé des frais et commissions, directs et indirects, qu'ils supportent et celles dans lesquelles ces frais sont encadrés.
 
-3. Les réductions d'impôt obtenues font l'objet d'une reprise au titre de l'année au cours de laquelle le fonds ou le contribuable cesse de remplir les conditions fixées à l'article L. 214-41 du code monétaire et financier et au 1. Cette disposition ne s'applique pas, pour les cessions de parts intervenues avant l'expiration du délai de conservation des parts prévu au 1, en cas de licenciement, d'invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale ou de décès du contribuable ou de l'un des époux soumis à une imposition commune.
+3. Les réductions d'impôt obtenues font l'objet d'une reprise au titre de l'année au cours de laquelle le fonds ou le contribuable cesse de remplir les conditions fixées à l'article L. 214-30 du code monétaire et financier et au 1. Cette disposition ne s'applique pas, pour les cessions de parts intervenues avant l'expiration du délai de conservation des parts prévu au 1, en cas de licenciement, d'invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale ou de décès du contribuable ou de l'un des époux soumis à une imposition commune.
 
 4. Le présent VI ne s'applique pas aux parts de fonds communs de placement dans l'innovation donnant lieu à des droits différents sur l'actif net ou sur les produits du fonds, attribuées en fonction de la qualité de la personne.
 
@@ -108,7 +110,7 @@ Les souscriptions réalisées par un contribuable au capital d'une société dan
 
 Les souscriptions réalisées au capital d'une société holding animatrice ouvrent droit à l'avantage fiscal mentionné au I lorsque la société est constituée et contrôle au moins une filiale depuis au moins douze mois. Pour l'application du présent alinéa, une société holding animatrice s'entend d'une société qui, outre la gestion d'un portefeuille de participations, participe activement à la conduite de la politique de leur groupe et au contrôle de leurs filiales et rend le cas échéant et à titre purement interne des services spécifiques, administratifs, juridiques, comptables, financiers et immobiliers.
 
-VI quinquies.-Le bénéfice des I à II ter, VI, VI bis et VI ter est subordonné au respect, selon le cas par les sociétés bénéficiaires des versements mentionnées au 1 du I ou par les sociétés éligibles au quota mentionné au I de l'article L. 214-30 du code monétaire et financier ou au I de l'article L. 214-31 du même code, du règlement (CE) n° 1998/2006 de la Commission, du 15 décembre 2006, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis ou du règlement (CE) n° 1535/2007 de la Commission, du 20 décembre 2007, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis dans le secteur de la production de produits agricoles. Toutefois, cette disposition n'est pas applicable lorsque les conditions suivantes sont cumulativement satisfaites par les sociétés mentionnées à la phrase précédente :
+VI quinquies.- Le bénéfice des I et II, VI, VI bis et VI ter est subordonné au respect, selon le cas par les sociétés bénéficiaires des versements mentionnées au 1 du I ou par les sociétés éligibles au quota mentionné au I de l'article L. 214-30 du code monétaire et financier ou au I de l'article L. 214-31 du même code, du règlement (CE) n° 1998/2006 de la Commission, du 15 décembre 2006, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis ou du règlement (CE) n° 1535/2007 de la Commission, du 20 décembre 2007, concernant l'application des articles 87 et 88 du traité CE aux aides de minimis dans le secteur de la production de produits agricoles. Toutefois, cette disposition n'est pas applicable lorsque les conditions suivantes sont cumulativement satisfaites par les sociétés mentionnées à la phrase précédente :
 
 a) La société répond à la condition prévue au e du 2° du I ;
 
@@ -117,5 +119,17 @@ b) La société est en phase d'amorçage, de démarrage ou d'expansion au sens d
 c) La société n'est pas qualifiable d'entreprise en difficulté au sens des lignes directrices communautaires concernant les aides d'Etat au sauvetage et à la restructuration d'entreprises en difficulté (2004/ C 244/02) et ne relève pas des secteurs de la construction navale, de l'industrie houillère ou de la sidérurgie ;
 
 d) Les versements au titre de souscriptions mentionnés au 1° du I n'excèdent pas, par entreprise cible, un montant fixé par décret et qui ne peut dépasser le plafond autorisé par la Commission européenne s'agissant des aides d'Etat visant à promouvoir les investissements en capital-investissement dans les petites et moyennes entreprises ou les entreprises innovantes.
+
+Par dérogation au premier alinéa du présent d, cette condition n'est pas applicable pour les versements au titre de souscriptions effectuées au capital des entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du travail qui ont exclusivement pour objet :
+
+1° Soit l'étude, la réalisation ou la gestion de construction de logements à destination de personnes défavorisées ou en situation de rupture d'autonomie et sélectionnées par une commission de personnes qualifiées, la société bénéficiant d'un agrément de maîtrise d'ouvrage en application des articles L. 365-1 et suivants du code de la construction et de l'habitation ;
+
+2° Soit l'acquisition, la construction, la réhabilitation, la gestion et l'exploitation par bail de tous biens et droits immobiliers en vue de favoriser l'amélioration des conditions de logement ou d'accueil et la réinsertion de personnes défavorisées ou en situation de rupture d'autonomie, la société bénéficiant d'un agrément d'intérêt collectif.
+
+Le bénéfice de la dérogation mentionnée au deuxième alinéa du présent d est subordonné au respect des conditions suivantes :
+
+― la société ne procède pas à la distribution de dividendes ;
+
+― la société réalise son objet social sur l'ensemble du territoire national. (2)
 
 VII. Un décret fixe les modalités d'application du VI et du VI bis, notamment les obligations déclaratives incombant aux porteurs de parts ainsi qu'aux gérants et dépositaires des fonds.
