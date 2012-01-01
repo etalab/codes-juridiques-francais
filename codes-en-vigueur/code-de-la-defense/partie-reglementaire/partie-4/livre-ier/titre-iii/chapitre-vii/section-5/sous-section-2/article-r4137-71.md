@@ -10,6 +10,6 @@ Ne peuvent faire partie d'un conseil d'enquête :
 
 4° Les militaires ayant connu de l'affaire comme magistrat ou comme officier ou agent de police judiciaire ;
 
-5° Le président de catégorie du comparant ;
+5° Le président de catégorie ou, pour la gendarmerie nationale, le président du personnel militaire du comparant ;
 
 6° Les militaires ayant fait partie d'un conseil de discipline ou d'enquête appelé à connaître de la même affaire.
