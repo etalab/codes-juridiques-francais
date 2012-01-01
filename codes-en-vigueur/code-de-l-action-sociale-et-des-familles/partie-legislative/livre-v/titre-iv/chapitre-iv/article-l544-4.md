@@ -1,3 +1,5 @@
 # Article L544-4
 
-L'Etat peut apporter son concours financier à Mayotte pour participer au développement de la protection sociale. Une convention conclue entre l'Etat et la collectivité territoriale en détermine les modalités.
+Pour l'application à Mayotte de l'article L. 224-7, la référence :
+
+"L. 222-6" est remplacée par la référence : "L. 543-14".
