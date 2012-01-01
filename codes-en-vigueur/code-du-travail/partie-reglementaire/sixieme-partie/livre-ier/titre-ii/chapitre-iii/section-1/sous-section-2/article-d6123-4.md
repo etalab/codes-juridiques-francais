@@ -1,6 +1,6 @@
 # Article D6123-4
 
-Les représentants des organisations de salariés et d'employeurs sont nommés par arrêté du ministre chargé de la formation professionnelle, sur proposition de leur organisation respective, à raison de :
+Les représentants des organisations de salariés et d'employeurs sont nommés par arrêté du     Premier ministre, sur proposition de leur organisation respective, à raison de :
 
 1° Cinq représentants des organisations syndicales de salariés représentatives au plan national ;
 
