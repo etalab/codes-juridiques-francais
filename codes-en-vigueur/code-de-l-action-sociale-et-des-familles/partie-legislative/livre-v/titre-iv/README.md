@@ -9,3 +9,4 @@
 - [Chapitre VI : Action sociale et médico-sociale mise en œuvre par des établissements et services.](chapitre-vi)
 - [Chapitre VII : Politique de la ville et cohésion sociale.](chapitre-vii)
 - [Chapitre VIII : Dispositions communes.](chapitre-viii)
+- [Chapitre IX : Revenu de solidarité active](chapitre-ix)
