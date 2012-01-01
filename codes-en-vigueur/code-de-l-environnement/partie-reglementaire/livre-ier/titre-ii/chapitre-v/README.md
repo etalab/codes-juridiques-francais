@@ -6,3 +6,4 @@
 - [Section 4 : Droit à l'information sur les nuisances sonores](section-4)
 - [Section 5 : Comités locaux d'information et de concertation](section-5)
 - [Section 6 : Secrétariats permanents pour la prévention des pollutions et des risques industriels](section-6)
+- [Section 7 : Annexe environnementale](section-7-annexe)
