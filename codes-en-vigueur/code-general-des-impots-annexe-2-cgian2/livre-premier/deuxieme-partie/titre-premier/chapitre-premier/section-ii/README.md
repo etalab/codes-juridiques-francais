@@ -1,9 +1,6 @@
-# Section II : Taxe professionnelle
+# Section II : Cotisation foncière des entreprises
 
 - [I : Dispositions générales](i)
 - [II : Exonérations](ii)
-- [III : Base d'imposition](iii)
-- [IV : Disposition transitoire](iv)
-- [V : Répartition des bases](v)
-- [VI : Etablissement de la taxe](vi)
-- [VII : Annualité de la taxe](vii)
+- [VI : Etablissement de la cotisation](vi)
+- [VII : Annualité de la cotisation](vii)
