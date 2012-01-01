@@ -1,6 +1,6 @@
 # Article L311-15
 
-Tout employeur qui embauche un travailleur étranger ou qui accueille un salarié détaché temporairement par une entreprise non établie en France dans les conditions prévues au titre VI du livre II de la première partie du code du travail acquitte, lors de la première entrée en France de cet étranger ou lors de sa première admission au séjour en qualité de salarié, une taxe au profit de l'Office français de l'immigration et de l'intégration.
+Tout employeur qui embauche un travailleur étranger ou qui accueille un salarié détaché temporairement par une entreprise non établie en France dans les conditions prévues au titre VI du livre II de la première partie du code du travail acquitte, lors de la première entrée en France de cet étranger ou lors de sa première admission au séjour en qualité de salarié, une taxe. Cette taxe est affectée à l'Office français de l'immigration et de l'intégration dans la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
 
 Lorsque l'embauche intervient pour une durée supérieure ou égale à douze mois, le montant de cette taxe est égal à 50 % du salaire versé à ce travailleur étranger, pris en compte dans la limite de 2,5 fois le salaire minimum de croissance.
 

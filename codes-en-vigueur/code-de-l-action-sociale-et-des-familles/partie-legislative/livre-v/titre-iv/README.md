@@ -1,7 +1,7 @@
 # Titre IV : Département de Mayotte
 
 - [Chapitre préliminaire : Principes généraux.](chapitre-preliminaire)
-- [Chapitre Ier : Aide sociale.](chapitre-ier)
+- [Chapitre Ier : Accès aux origines personnelles](chapitre-ier)
 - [Chapitre II : Aide sociale.](chapitre-ii)
 - [Chapitre III : Familles et aide sociale à l'enfance.](chapitre-iii)
 - [Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption.](chapitre-iv)
