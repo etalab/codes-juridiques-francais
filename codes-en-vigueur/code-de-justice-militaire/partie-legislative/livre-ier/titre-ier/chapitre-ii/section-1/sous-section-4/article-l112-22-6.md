@@ -1,6 +1,6 @@
-# Article L111-15
+# Article L112-22-6
 
-Nul ne peut, à peine de nullité, siéger comme président ou juge ou remplir les fonctions de juge d'instruction dans une affaire soumise à un tribunal aux armées :
+Nul ne peut, à peine de nullité, siéger comme président ou juge ou remplir les fonctions de juge d'instruction dans une affaire soumise à un tribunal territorial des forces armées :
 
 1° S'il est parent ou allié du prévenu jusqu'au degré de cousin issu de germain inclusivement ;
 
@@ -12,4 +12,4 @@ Nul ne peut, à peine de nullité, siéger comme président ou juge ou remplir l
 
 5° S'il est conjoint ou concubin du prévenu ou lié avec ce dernier par un pacte civil de solidarité.
 
-Les parents et alliés, jusqu'au degré d'oncle et de neveu inclusivement, ne peuvent, à peine de nullité, être membres d'un même tribunal aux armées.
+Les parents et alliés, jusqu'au degré d'oncle et de neveu inclusivement, ne peuvent, à peine de nullité, être membres d'un même tribunal territorial des forces armées.

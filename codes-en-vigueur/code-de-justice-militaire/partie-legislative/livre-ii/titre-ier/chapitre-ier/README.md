@@ -4,3 +4,4 @@
 - [Section 2 : De la garde à vue.](section-2)
 - [Section 3 : De l'action civile et de l'action publique.](section-3)
 - [Section 4 : Des juridictions d'instruction](section-4)
+- [Section 5 : De la défense](section-5)

@@ -1,4 +1,4 @@
-# Article L111-14
+# Article L112-22-5
 
 Les officiers greffiers, les sous-officiers commis-greffiers assistent le juge d'instruction et tiennent la plume aux audiences.
 

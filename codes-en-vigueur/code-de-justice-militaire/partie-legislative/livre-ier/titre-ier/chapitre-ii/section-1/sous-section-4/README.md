@@ -1,6 +1,14 @@
 # Sous-section 4 : Fonctionnement et service.
 
 - [Article L112-22](article-l112-22.md)
+- [Article L112-22-1](article-l112-22-1.md)
+- [Article L112-22-2](article-l112-22-2.md)
+- [Article L112-22-3](article-l112-22-3.md)
+- [Article L112-22-4](article-l112-22-4.md)
+- [Article L112-22-5](article-l112-22-5.md)
+- [Article L112-22-6](article-l112-22-6.md)
+- [Article L112-22-7](article-l112-22-7.md)
+- [Article L112-22-8](article-l112-22-8.md)
 - [Article L112-23](article-l112-23.md)
 - [Article L112-24](article-l112-24.md)
 - [Article L112-25](article-l112-25.md)
