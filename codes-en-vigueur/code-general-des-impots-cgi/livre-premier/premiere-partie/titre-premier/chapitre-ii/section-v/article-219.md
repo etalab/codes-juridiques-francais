@@ -82,7 +82,7 @@ Lorsque les actions ou parts cédées ont été reçues dans le cadre d'un écha
 
 2. Pour les exercices ouverts à compter du 1er janvier 2006, la plus-value réalisée sur la cession de parts de fonds communs de placement à risques ou d'actions de sociétés de capital-risque mentionnées au premier alinéa du a ter est soumise au taux de 8 % à hauteur du rapport existant à la date de la cession entre la valeur des actions ou parts de sociétés mentionnées au premier alinéa du 1 inscrites à l'actif du fonds ou de la société augmentée des sommes en instance de distribution depuis moins de six mois représentative de la cession d'actions ou de parts de sociétés mentionnées au premier alinéa du 1 et la valeur de l'actif total de ce fonds ou de cette société. Ce taux est fixé à 0 % pour les exercices ouverts à compter du 1er janvier 2007.
 
-a septies) Lorsqu'il existe des liens de dépendance entre l'entreprise cédante et l'entreprise cessionnaire au sens du 12 de l'article 39, l'imposition des plus-values et moins-values de cession de titres de participation définis au dix-huitième alinéa du 5° du 1 de l'article 39, autres que ceux mentionnés au a sexies-0 bis du présent I, et détenus depuis moins de deux ans, intervient à la première des dates suivantes :
+a septies) Lorsqu'il existe des liens de dépendance entre l'entreprise cédante et l'entreprise cessionnaire au sens du 12 de l'article 39, la déduction des moins-values de cession de titres de participation définis au dix-huitième alinéa du 5° du 1 de l'article 39, autres que ceux mentionnés au a sexies-0 bis du présent I, et détenus depuis moins de deux ans, intervient à la première des dates suivantes :
 
 1°) La date à laquelle l'entreprise cédante cesse d'être soumise à l'impôt sur les sociétés ou est absorbée par une entreprise qui, à l'issue de l'absorption, n'est pas liée à l'entreprise détenant les titres cédés ;
 
@@ -90,9 +90,9 @@ a septies) Lorsqu'il existe des liens de dépendance entre l'entreprise cédante
 
 3°) La date correspondant à l'expiration d'un délai de deux ans, décompté à partir du jour où l'entreprise cédante a acquis les titres.
 
-L'imposition est établie au nom de l'entreprise cédante ou, en cas d'absorption dans des conditions autres que celles mentionnées au 1°, de l'entreprise absorbante, selon le régime de plus-value ou moins-value qui aurait été applicable si l'entreprise avait cédé les titres à cette date et, le cas échéant, les avait détenus depuis la date d'acquisition par l'entreprise absorbée.
+L'imposition est établie au nom de l'entreprise cédante ou, en cas d'absorption dans des conditions autres que celles mentionnées au 1°, de l'entreprise absorbante, selon le régime de moins-value qui aurait été applicable si l'entreprise avait cédé les titres à cette date et, le cas échéant, les avait détenus depuis la date d'acquisition par l'entreprise absorbée.
 
-Toutefois, le présent a septies ne s'applique aux plus-values que si l'entreprise joint à sa déclaration de résultat au titre de chaque exercice concerné un état conforme au modèle fourni par l'administration, faisant apparaître les éléments nécessaires au calcul des plus-values et ceux relatifs à l'identification de l'entreprise qui détient les titres, explicitant les liens de dépendance qui les unissent.
+L'entreprise joint à sa déclaration de résultat au titre de chaque exercice concerné un état conforme au modèle fourni par l'administration, faisant apparaître les éléments nécessaires au calcul des moins-values et ceux relatifs à l'identification de l'entreprise qui détient les titres, explicitant les liens de dépendance qui les unissent.
 
 b. Par exception au deuxième alinéa du présent I et au premier alinéa du a, pour les redevables ayant réalisé un chiffre d'affaires de moins de 7 630 000 euros au cours de l'exercice ou de la période d'imposition, ramené s'il y a lieu à douze mois, le taux de l'impôt applicable au bénéfice imposable est fixé, dans la limite de 38 120 euros de bénéfice imposable par période de douze mois, à 25 % pour les exercices ouverts en 2001 et à 15 % pour les exercices ouverts à compter du 1er janvier 2002.
 
