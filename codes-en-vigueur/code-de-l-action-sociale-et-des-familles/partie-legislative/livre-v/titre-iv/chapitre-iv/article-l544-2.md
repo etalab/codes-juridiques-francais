@@ -1,5 +1,9 @@
 # Article L544-2
 
-Mayotte est responsable des services d'aide sociale prévus par le présent code et du règlement des prestations mentionnées à l'article L. 544-1 et au règlement territorial d'aide sociale. Elle en assume la charge financière.
+Pour l'application des dispositions du présent chapitre, les mots mentionnés ci-dessous sont respectivement remplacés par les mots suivants :
 
-Toutefois, les communes contribuent au financement de ces prestations. Leur contribution est portée au budget de la collectivité territoriale.
+- "association départementale d'entraide" par "association d'entraide de Mayotte" ;
+
+- "service départemental de protection maternelle et infantile" par "service de protection maternelle et infantile" ;
+
+- "service départemental d'action sociale" par "service d'action sociale".
