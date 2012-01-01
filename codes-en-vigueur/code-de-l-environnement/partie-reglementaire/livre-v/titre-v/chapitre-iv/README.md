@@ -2,5 +2,6 @@
 
 - [Section 1 : Guichet unique](section-1)
 - [Section 2 : Travaux à proximité d'ouvrages](section-2)
+- [Section 3 : Contrôles, sanctions et aménagements](section-3)
 - [Article R554-1](article-r554-1.md)
 - [Article R554-2](article-r554-2.md)
