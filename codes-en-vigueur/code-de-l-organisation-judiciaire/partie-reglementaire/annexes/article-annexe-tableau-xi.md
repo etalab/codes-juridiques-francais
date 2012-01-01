@@ -30,12 +30,12 @@ Siège et ressort des greffes détachés
 <p align="left">Le Moule </p>
 </td>
 <td width="349">
-<p align="left">Cantons d'Anse Bertrand, La Désirade, Morne-à-l'Eau 1er canton</p>
+<p align="left">Cantons d'Anse Bertrand, La Désirade, Morne-à-l'Eau 1er canton </p>
 </td>
 </tr>
 <tr>
 <td colspan="3" width="718">
-<p align="center">Cour d'appel de Fort-de-France </p>
+<p align="center">Cour d'appel de Cayenne </p>
 </td>
 </tr>
 <tr>

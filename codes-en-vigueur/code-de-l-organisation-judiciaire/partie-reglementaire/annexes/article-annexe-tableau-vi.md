@@ -90,9 +90,7 @@ Siège et ressort des tribunaux de grande instance et des tribunaux de première
 <td>
 <p>Fort-de-France.</p>
 </td>
-<td>
-<p>Ressort des cours d'appel de Basse-Terre et Fort-de-France.</p>
-</td>
+<td>Ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France.</td>
 </tr>
 </tbody>
 </table>

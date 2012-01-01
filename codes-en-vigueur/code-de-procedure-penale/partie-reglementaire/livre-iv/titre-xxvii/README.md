@@ -1,5 +1,6 @@
 # Titre XXVII : De la poursuite, de l'instruction et du jugement des infractions commises par des majeurs protégés
 
+- [Article D47-14](article-d47-14.md)
 - [Article D47-15](article-d47-15.md)
 - [Article D47-16](article-d47-16.md)
 - [Article D47-17](article-d47-17.md)

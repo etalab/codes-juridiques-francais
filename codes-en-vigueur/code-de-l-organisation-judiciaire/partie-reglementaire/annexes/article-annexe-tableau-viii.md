@@ -5,12 +5,10 @@ SIÈGE ET RESSORT DES TRIBUNAUX DE GRANDE INSTANCE ET DE PREMIÈRE INSTANCE COMP
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">SIÈGE</p>
+<td align="center">
+<p align="center">SIÈGE </p>
 </td>
-<td>
-<p align="center">RESSORT</p>
-</td>
+<td align="center">RESSORT </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
@@ -54,6 +52,19 @@ SIÈGE ET RESSORT DES TRIBUNAUX DE GRANDE INSTANCE ET DE PREMIÈRE INSTANCE COMP
 </td>
 </tr>
 <tr>
+<td colspan="2">
+<p align="center">Cour d'appel de Cayenne</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Cayenne</p>
+</td>
+<td>
+<p align="left">Ressort de la cour d'appel de Cayenne.</p>
+</td>
+</tr>
+<tr>
 <td align="center" colspan="2">
 <p align="center">Cour d'appel de Fort-de-France </p>
 </td>
@@ -63,15 +74,7 @@ SIÈGE ET RESSORT DES TRIBUNAUX DE GRANDE INSTANCE ET DE PREMIÈRE INSTANCE COMP
 <p align="left">Fort-de-France.</p>
 </td>
 <td align="center">
-<p align="left">Ressort des cours d'appel de Basse-Terre et de Fort-de-France, à l'exception du ressort du tribunal de grande instance de Cayenne.</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Cayenne.</p>
-</td>
-<td align="center">
-<p align="left">Ressort du tribunal de grande instance de Cayenne.</p>
+<p align="left">Ressort des cours d'appel de Basse-Terre et de Fort-de-France.</p>
 </td>
 </tr>
 <tr>
@@ -192,7 +195,7 @@ SIÈGE ET RESSORT DES TRIBUNAUX DE GRANDE INSTANCE ET DE PREMIÈRE INSTANCE COMP
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p>Tribunal supérieur d'appel de Saint-Pierre </p>
+<p align="center">Tribunal supérieur d'appel de Saint-Pierre </p>
 </td>
 </tr>
 <tr>

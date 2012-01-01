@@ -3,18 +3,18 @@
 Pour l'application des dispositions de l'article 52-1, les tribunaux de grande instance dans lesquels existe un pôle de l'instruction et le ressort de compétence territoriale de ces pôles sont déterminés comme suit :
 
 <table>
-<tbody>
+<thead>
 <tr>
 <td align="center">SIÈGE <br/>
 </td>
 <td align="center">COMPÉTENCE TERRITORIALE <br/>s'étendant au ressort <br/>des tribunaux de grande instance de : <br/>
 </td>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td colspan="2">
-<br/>
-<i>Cour d'appel d'Agen</i>
-</td>
+<br/>Cour d'appel d'Agen </td>
 </tr>
 <tr>
 <td>Agen. <br/>
@@ -24,9 +24,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td align="center" colspan="2">
-<br/>
-<i>Cour d'appel d'Aix-en-Provence</i>
-</td>
+<br/>Cour d'appel d'Aix-en-Provence </td>
 </tr>
 <tr>
 <td>Aix-en-Provence. <br/>
@@ -66,9 +64,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<br/>
-<i>Cour d'appel d'Amiens</i>
-</td>
+<br/>Cour d'appel d'Amiens </td>
 </tr>
 <tr>
 <td>Amiens. <br/>
@@ -90,9 +86,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<br/>
-<i>Cour d'appel d'Angers</i>
-</td>
+<br/>Cour d'appel d'Angers </td>
 </tr>
 <tr>
 <td>Angers. <br/>
@@ -108,9 +102,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<br/>
-<i>Cour d'appel de Bastia</i>
-</td>
+<br/>Cour d'appel de Bastia </td>
 </tr>
 <tr>
 <td>Ajaccio. <br/>
@@ -126,9 +118,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<br/>
-<i>Cour d'appel de Besançon</i>
-</td>
+<br/>Cour d'appel de Besançon </td>
 </tr>
 <tr>
 <td>Besançon. <br/>
@@ -144,9 +134,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<br/>
-<i>Cour d'appel de Bordeaux</i>
-</td>
+<br/>Cour d'appel de Bordeaux </td>
 </tr>
 <tr>
 <td>Angoulême. <br/>
@@ -168,9 +156,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<br/>
-<i>Cour d'appel de Bourges</i>
-</td>
+<br/>Cour d'appel de Bourges </td>
 </tr>
 <tr>
 <td>Bourges. <br/>
@@ -180,9 +166,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<br/>
-<i>Cour d'appel de Caen</i>
-</td>
+<br/>Cour d'appel de Caen </td>
 </tr>
 <tr>
 <td>Caen. <br/>
@@ -198,9 +182,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<br/>
-<i>Cour d'appel de Chambéry</i>
-</td>
+<br/>Cour d'appel de Chambéry </td>
 </tr>
 <tr>
 <td>Annecy. <br/>
@@ -216,9 +198,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<br/>
-<i>Cour d'appel de Colmar</i>
-</td>
+<br/>Cour d'appel de Colmar </td>
 </tr>
 <tr>
 <td>Colmar. <br/>
@@ -240,9 +220,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<i>
-<br/>Cour d'appel de Dijon</i>
-</td>
+<br/>Cour d'appel de Dijon </td>
 </tr>
 <tr>
 <td>Chalon-sur-Saône. <br/>
@@ -258,9 +236,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<br/>
-<i>Cour d'appel de Douai</i>
-</td>
+<br/>Cour d'appel de Douai </td>
 </tr>
 <tr>
 <td>Béthune. <br/>
@@ -300,9 +276,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<br/>
-<i>Cour d'appel de Grenoble</i>
-</td>
+<br/>Cour d'appel de Grenoble </td>
 </tr>
 <tr>
 <td>Grenoble. <br/>
@@ -318,9 +292,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<br/>
-<i>Cour d'appel de Limoges</i>
-</td>
+<br/>Cour d'appel de Limoges </td>
 </tr>
 <tr>
 <td>Limoges. <br/>
@@ -330,9 +302,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<i>
-<br/>Cour d'appel de Lyon</i>
-</td>
+<br/>Cour d'appel de Lyon </td>
 </tr>
 <tr>
 <td>Bourg-en-Bresse. <br/>
@@ -354,9 +324,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<i>
-<br/>Cour d'appel de Metz</i>
-</td>
+<br/>Cour d'appel de Metz </td>
 </tr>
 <tr>
 <td>Metz. <br/>
@@ -366,9 +334,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<i>
-<br/>Cour d'appel de Montpellier</i>
-</td>
+<br/>Cour d'appel de Montpellier </td>
 </tr>
 <tr>
 <td>Béziers. <br/>
@@ -397,8 +363,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 <tr>
 <td colspan="2">
 <br/>
-<i>Cour d'appel de Nancy</i>
-<br/>
+<div>Cour d'appel de Nancy </div>
 </td>
 </tr>
 <tr>
@@ -415,9 +380,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<br/>
-<i>Cour d'appel de Nîmes</i>
-</td>
+<br/>Cour d'appel de Nîmes </td>
 </tr>
 <tr>
 <td>Avignon. <br/>
@@ -433,9 +396,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<br/>
-<i>Cour d'appel d'Orléans</i>
-</td>
+<br/>Cour d'appel d'Orléans </td>
 </tr>
 <tr>
 <td>Blois. <br/>
@@ -457,9 +418,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<br/>
-<i>Cour d'appel de Paris</i>
-</td>
+<br/>Cour d'appel de Paris </td>
 </tr>
 <tr>
 <td>Auxerre. <br/>
@@ -505,8 +464,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<i>
-<br/>Cour d'appel de Pau</i>
+<br/>Cour d'appel de Pau <br/>
 </td>
 </tr>
 <tr>
@@ -530,9 +488,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 <tr>
 <td colspan="2">
 <br/>
-<div>
-<i>Cour d'appel de Poitiers</i>
-</div>
+<div>Cour d'appel de Poitiers </div>
 </td>
 </tr>
 <tr>
@@ -555,9 +511,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<i>
-<br/>Cour d'appel de Reims</i>
-</td>
+<br/>Cour d'appel de Reims </td>
 </tr>
 <tr>
 <td>Reims. <br/>
@@ -573,9 +527,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<br/>
-<i>Cour d'appel de Rennes</i>
-</td>
+<br/>Cour d'appel de Rennes </td>
 </tr>
 <tr>
 <td>Brest. <br/>
@@ -604,14 +556,12 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 <tr>
 <td>Saint-Brieuc. <br/>
 </td>
-<td>Dinan, Guingamp, Saint-Brieuc.<br/>
+<td>Dinan, Guingamp, Saint-Brieuc. <br/>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<i>
-<br/>Cour d'appel de Riom</i>
-</td>
+<br/>Cour d'appel de Riom </td>
 </tr>
 <tr>
 <td>Clermont-Ferrand. <br/>
@@ -626,9 +576,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </td>
 </tr>
 <tr>
-<td colspan="2">
-<i>Cour d'appel de Rouen</i>
-<br/>
+<td colspan="2">Cour d'appel de Rouen <br/>
 </td>
 </tr>
 <tr>
@@ -651,9 +599,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<i>
-<br/>Cour d'appel de Toulouse</i>
-</td>
+<br/>Cour d'appel de Toulouse </td>
 </tr>
 <tr>
 <td>Montauban. <br/>
@@ -669,9 +615,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 </tr>
 <tr>
 <td colspan="2">
-<br/>
-<i>Cour d'appel de Versailles</i>
-</td>
+<br/>Cour d'appel de Versailles </td>
 </tr>
 <tr>
 <td>Chartres. <br/>
@@ -694,7 +638,7 @@ Pour l'application des dispositions de l'article 52-1, les tribunaux de grande i
 <tr>
 <td>Versailles. <br/>
 </td>
-<td>Versailles.</td>
+<td>Versailles. </td>
 </tr>
 </tbody>
 </table>
@@ -705,64 +649,85 @@ Départements d'outre-mer
 <thead>
 <tr>
 <th>
-<br/>SIÈGE </th>
-<th colspan="2">
-<br/>RESSORT S'ÉTENDANT AUX LIMITES TERRITORIALES <br/>des tribunaux de grande instance </th>
+<br/>SIÈGE <br/>
+</th>
+<th>
+<br/>RESSORT <p>s'étendant aux limites territoriales </p>
+<p>des tribunaux de grande instance de : </p>
+</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center">
-<br/>Cour d'appel de Basse-Terre </td>
+<td align="center" colspan="2">
+<p align="center">Cour d'appel de Basse-Terre </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Pointe-à-Pitre. </p>
+</td>
+<td>
+<p align="left">Basse-Terre, Pointe-à-Pitre. </p>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<p align="center">Cour d'appel de Cayenne </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Cayenne. </p>
+</td>
+<td>Cayenne. </td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Cour d'appel de Fort-de-France </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Fort-de-France. </p>
+</td>
+<td>
+<p align="left">Fort-de-France. </p>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<p align="center">Cour d'appel de Saint-Denis </p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Pointe-à-Pitre. </td>
+<p align="left">Mamoudzou. </p>
+</td>
 <td align="center">
-<br/>Basse-Terre, Pointe-à-Pitre </td>
+<p align="left">Mamoudzou. </p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Cour d'appel de Fort-de-France </td>
+<p align="left">Saint-Denis. </p>
+</td>
+<td align="center">
+<p align="left">Saint-Denis. </p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Fort-de-France. </td>
+<p align="left">Saint-Pierre. </p>
+</td>
 <td align="center">
-<br/>Fort-de-France. </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Cayenne. </td>
-<td align="center">
-<br/>Cayenne. </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Cour d'appel de Saint-Denis </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Mamoudzou. </td>
-<td align="center">
-<br/>Mamoudzou. </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Saint-Denis. </td>
-<td align="center">
-<br/>Saint-Denis. </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Saint-Pierre. </td>
-<td align="center">
-<br/>Saint-Pierre. </td>
+<p align="left">Saint-Pierre. </p>
+</td>
 </tr>
 </tbody>
 </table>
 
-Collectivités d'outre-mer
+<div>Collectivités d'outre-mer</div>
 
 <table>
 <tbody>
@@ -774,9 +739,7 @@ Collectivités d'outre-mer
 </tr>
 <tr>
 <td colspan="2">
-<br/>
-<i>Cour d'appel de Nouméa</i>
-</td>
+<br/>Cour d'appel de Nouméa </td>
 </tr>
 <tr>
 <td>Nouméa. <br/>
@@ -786,9 +749,7 @@ Collectivités d'outre-mer
 </tr>
 <tr>
 <td colspan="2">
-<i>
-<br/>Cour d'appel de Papeete</i>
-</td>
+<br/>Cour d'appel de Papeete </td>
 </tr>
 <tr>
 <td>Papeete. <br/>

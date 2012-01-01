@@ -6,13 +6,9 @@ Siège et ressort des tribunaux de grande instance et des tribunaux de première
 <tbody>
 <tr>
 <td>
-<p align="center">
-<b/>
-</p>
 <p align="center">SIÈGE </p>
 </td>
 <td>
-<br/>
 <p align="center">RESSORT </p>
 </td>
 </tr>
@@ -144,6 +140,19 @@ Siège et ressort des tribunaux de grande instance et des tribunaux de première
 </td>
 <td>
 <p align="left">Ressort de la cour d'appel de Caen. </p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Cour d'appel de Cayenne </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Cayenne</p>
+</td>
+<td>
+<p align="left">Ressort de la cour d'appel de Cayenne.</p>
 </td>
 </tr>
 <tr>

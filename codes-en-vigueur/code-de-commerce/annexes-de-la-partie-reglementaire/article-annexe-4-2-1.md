@@ -8,10 +8,11 @@ DES PROCÉDURES APPLICABLES AUX PERSONNES QUI SONT COMMERÇANTS OU ARTISANS
 <tbody>
 <tr>
 <td>
-<p align="center">SIÈGE DES TRIBUNAUX DE COMMERCE<br/>et des tribunaux mixtes<br/>de commerce </p>
+<p align="center">SIÈGE DES TRIBUNAUX DE COMMERCE<br/>et des tribunaux mixtes de commerce </p>
 </td>
 <td>
-<p align="center">RESSORT</p>
+<p align="center">RESSORT <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -22,7 +23,6 @@ DES PROCÉDURES APPLICABLES AUX PERSONNES QUI SONT COMMERÇANTS OU ARTISANS
 </td>
 <td align="center">
 <p align="left">
-<br/>
 <br/>Le ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. <br/>
 </p>
 </td>
@@ -58,8 +58,7 @@ DES PROCÉDURES APPLICABLES AUX PERSONNES QUI SONT COMMERÇANTS OU ARTISANS
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Le ressort des cours d'appel de Basse-Terre et de Fort-de-France. <br/>
+<p align="left">Le ressort des cours d'appel de Basse-Terre, de Cayenne et de Fort-de-France. <br/>
 </p>
 </td>
 </tr>

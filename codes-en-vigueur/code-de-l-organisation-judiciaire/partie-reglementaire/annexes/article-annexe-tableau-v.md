@@ -8,11 +8,9 @@ en matière d'obtentions végétales (annexe de l'article D. 211-5)
 <tbody>
 <tr>
 <td>
-<br/>
 <p align="center">SIÈGE</p>
 </td>
 <td>
-<br/>
 <p align="center">RESSORT</p>
 </td>
 </tr>
@@ -113,11 +111,11 @@ en matière d'obtentions végétales (annexe de l'article D. 211-5)
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="left">Paris</p>
 </td>
-<td>
-<p align="left">Ressort des cours d'appel de Basse-Terre, Cayenne, Fort-de-France, Nouméa, Orléans, Papeete, Paris, Reims, Rouen, Saint-Denis et Versailles, et du tribunal supérieur d'appel de Saint-Pierre. </p>
+<td align="left" valign="top">
+<p align="left">Ressort des cours d'appel de Basse-Terre, Cayenne, Fort-de-France, Nouméa, Orléans, Papeete, Paris, Reims, Rouen, Saint-Denis et Versailles, et du tribunal supérieur d'appel de Saint-Pierre.</p>
 </td>
 </tr>
 <tr>

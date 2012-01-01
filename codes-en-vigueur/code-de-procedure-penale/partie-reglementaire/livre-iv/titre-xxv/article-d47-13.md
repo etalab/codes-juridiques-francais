@@ -6,101 +6,101 @@ Par application des dispositions de l'article 706-75 du code de procédure péna
 <tbody>
 <tr>
 <td width="132">
-<p align="center">TRIBUNAUX<br/>de grande instance compétents</p>
+<p align="center">TRIBUNAUX <br/>de grande instance compétents </p>
 </td>
 <td width="227">
-<p align="center">COURS D'ASSISES COMPÉTENTES</p>
+<p align="center">COURS D'ASSISES COMPÉTENTES </p>
 </td>
 <td width="250">
-<p align="center">COMPÉTENCE TERRITORIALE<br/>s'étendant au ressort des cours d'appel ou des tribunaux supérieurs d'appel de :</p>
+<p align="center">COMPÉTENCE TERRITORIALE <br/>s'étendant au ressort des cours d'appel ou des tribunaux supérieurs d'appel de : </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="132">
-<p>Bordeaux</p>
+<p>Bordeaux </p>
 </td>
 <td valign="top" width="227">
-<p>Cour d'assises de la Gironde</p>
+<p>Cour d'assises de la Gironde </p>
 </td>
 <td valign="top" width="250">
-<p>Agen, Bordeaux, Limoges, Pau, Toulouse</p>
+<p>Agen, Bordeaux, Limoges, Pau, Toulouse </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="132">
-<p>Lille</p>
+<p>Lille </p>
 </td>
 <td valign="top" width="227">
-<p>Cour d'assises du Nord</p>
+<p>Cour d'assises du Nord </p>
 </td>
 <td valign="top" width="250">
-<p>Amiens, Douai, Reims, Rouen</p>
+<p>Amiens, Douai, Reims, Rouen </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="132">
-<p>Lyon</p>
+<p>Lyon </p>
 </td>
 <td valign="top" width="227">
-<p>Cour d'assises du Rhône</p>
+<p>Cour d'assises du Rhône </p>
 </td>
 <td valign="top" width="250">
-<p>Chambéry, Grenoble, Lyon, Riom</p>
+<p>Chambéry, Grenoble, Lyon, Riom </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="132">
-<p>Marseille</p>
+<p>Marseille </p>
 </td>
 <td valign="top" width="227">
-<p>Cour d'assises des Bouches-du-Rhône</p>
+<p>Cour d'assises des Bouches-du-Rhône </p>
 </td>
 <td valign="top" width="250">
-<p>Aix-en-Provence, Bastia, Montpellier, Nîmes</p>
+<p>Aix-en-Provence, Bastia, Montpellier, Nîmes </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="132">
-<p>Nancy</p>
+<p>Nancy </p>
 </td>
 <td valign="top" width="227">
-<p>Cour d'assises de Meurthe-et-Moselle</p>
+<p>Cour d'assises de Meurthe-et-Moselle </p>
 </td>
 <td valign="top" width="250">
-<p>Besançon, Colmar, Dijon, Metz, Nancy</p>
+<p>Besançon, Colmar, Dijon, Metz, Nancy </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="132">
-<p>Paris</p>
+<p>Paris </p>
 </td>
 <td valign="top" width="227">
-<p>Cour d'assises de Paris</p>
+<p>Cour d'assises de Paris </p>
 </td>
 <td valign="top" width="250">
-<p>Bourges, Paris, Orléans, Versailles, Mamoudzou, Nouméa, Papeete, Saint-Denis-de-la-Réunion, Saint-Pierre-et-Miquelon</p>
+<p>Bourges, Paris, Orléans, Versailles, Mamoudzou, Nouméa, Papeete, Saint-Denis-de-la-Réunion, Saint-Pierre-et-Miquelon </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="132">
-<p>Rennes</p>
+<p>Rennes </p>
 </td>
 <td valign="top" width="227">
-<p>Cour d'assises d'Ille-et-Vilaine</p>
+<p>Cour d'assises d'Ille-et-Vilaine </p>
 </td>
 <td valign="top" width="250">
-<p>Angers, Caen, Poitiers, Rennes</p>
+<p>Angers, Caen, Poitiers, Rennes </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="132">
-<p>Fort-de-France</p>
+<p>Fort-de-France </p>
 </td>
 <td valign="top" width="227">
-<p>Cour d'assises de la Martinique</p>
+<p>Cour d'assises de la Martinique </p>
 </td>
 <td valign="top" width="250">
-<p>Basse-Terre, Fort-de-France</p>
+<p>Basse-Terre, Cayenne, Fort-de-France</p>
 </td>
 </tr>
 </tbody>

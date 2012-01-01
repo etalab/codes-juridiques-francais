@@ -25,9 +25,7 @@
 </tr>
 <tr>
 <td colspan="4" valign="top" width="683">
-<p align="center">
-<i>Cour d'appel de Basse-Terre</i>
-</p>
+<p align="center">Cour d'appel de Basse-Terre</p>
 </td>
 </tr>
 <tr>
@@ -57,9 +55,26 @@
 </tr>
 <tr>
 <td colspan="4" valign="top" width="683">
-<p align="center">
-<i>Cour d'appel de Fort-de-France</i>
-</p>
+<p align="center">Cour d'appel de Cayenne </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Guyane </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Cayenne </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Cayenne</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Ressort du tribunal de grande instance de Cayenne </p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p align="center">Cour d'appel de Fort-de-France</p>
 </td>
 </tr>
 <tr>
@@ -77,24 +92,8 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="139">
-<p>Guyane </p>
-</td>
-<td valign="top" width="124">
-<p>Cayenne </p>
-</td>
-<td valign="top" width="195">
-<p>Cayenne</p>
-</td>
-<td valign="top" width="225">
-<p>Ressort du tribunal de grande instance de Cayenne </p>
-</td>
-</tr>
-<tr>
 <td colspan="4" valign="top" width="683">
-<p align="center">
-<i>Cour d'appel de Saint-Denis-de-la-Réunion</i>
-</p>
+<p align="center">Cour d'appel de Saint-Denis-de-la-Réunion</p>
 </td>
 </tr>
 <tr>
@@ -103,24 +102,24 @@
 </td>
 <td valign="top" width="124">
 <p>Mamoudzou </p>
-<br/>
-<br/>
 </td>
 <td valign="top" width="195">
 <p>Mamoudzou </p>
-<br/>
-<br/>
 </td>
-<td valign="top" width="225">Ressort du tribunal de grande instance de Mamoudzou <br/>
-<br/>
+<td valign="top" width="225">
+<p align="left">Ressort du tribunal de grande instance de Mamoudzou </p>
 </td>
 </tr>
 <tr>
-<td>La Réunion <br/>
+<td>
+<p align="left">La Réunion <br/>
+</p>
 </td>
-<td>Saint-Denis  </td>
-<td>Saint-Denis  </td>
-<td>Ressort du tribunal de grande instance de Saint-Denis <br/>
+<td>Saint-Denis </td>
+<td>Saint-Denis </td>
+<td>
+<p align="left">Ressort du tribunal de grande instance de Saint-Denis <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -129,7 +128,9 @@
 </td>
 <td>Saint-Pierre <br/>
 </td>
-<td>Ressort du tribunal de grande instance de Saint-Pierre <br/>
+<td>
+<p align="left">Ressort du tribunal de grande instance de Saint-Pierre <br/>
+</p>
 </td>
 </tr>
 </tbody>

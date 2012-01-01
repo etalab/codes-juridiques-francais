@@ -7,13 +7,11 @@ Siège et ressort des tribunaux de grande instance et des tribunaux de première
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">SIÈGE <br/>
-</p>
+<td align="center">
+<p align="center">SIÈGE </p>
 </td>
-<td colspan="6">
-<p align="center">RESSORT <br/>
-</p>
+<td align="center" colspan="6">
+<p align="center">RESSORT </p>
 </td>
 </tr>
 <tr>
@@ -23,8 +21,7 @@ Siège et ressort des tribunaux de grande instance et des tribunaux de première
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Agen <br/>
+<p align="left">Agen <br/>
 </p>
 </td>
 <td align="center">
@@ -39,8 +36,7 @@ Siège et ressort des tribunaux de grande instance et des tribunaux de première
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Marseille <br/>
+<p align="left">Marseille <br/>
 </p>
 </td>
 <td align="center">
@@ -50,15 +46,12 @@ Siège et ressort des tribunaux de grande instance et des tribunaux de première
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel d'Amiens <br/>
-</p>
+<p align="center">Cour d'appel d'Amiens</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Amiens <br/>
+<p align="left">Amiens <br/>
 </p>
 </td>
 <td align="center">
@@ -68,15 +61,12 @@ Siège et ressort des tribunaux de grande instance et des tribunaux de première
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel d'Angers <br/>
-</p>
+<p align="center">Cour d'appel d'Angers </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Angers <br/>
+<p align="left">Angers <br/>
 </p>
 </td>
 <td align="center">
@@ -86,15 +76,12 @@ Siège et ressort des tribunaux de grande instance et des tribunaux de première
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Basse-Terre <br/>
-</p>
+<p align="center">Cour d'appel de Basse-Terre </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Basse-Terre <br/>
+<p align="left">Basse-Terre <br/>
 </p>
 </td>
 <td align="center">
@@ -104,15 +91,12 @@ Siège et ressort des tribunaux de grande instance et des tribunaux de première
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
 <br/>Cour d'appel de Bastia <br/>
-</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bastia <br/>
+<p align="left">Bastia <br/>
 </p>
 </td>
 <td align="center">
@@ -122,547 +106,464 @@ Siège et ressort des tribunaux de grande instance et des tribunaux de première
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Besançon <br/>
-</p>
+<p align="center">Cour d'appel de Besançon </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Besançon <br/>
+<p align="left">Besançon <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Besançon. <br/>
+<p align="left">Ressort de la cour d'appel de Besançon. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Bordeaux <br/>
-</p>
+<p align="center">Cour d'appel de Bordeaux</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bordeaux <br/>
+<p align="left">Bordeaux <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Bordeaux. <br/>
+<p align="left">Ressort de la cour d'appel de Bordeaux. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Bourges <br/>
-</p>
+<p align="center">Cour d'appel de Bourges</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bourges <br/>
+<p align="left">Bourges <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Bourges. <br/>
+<p align="left">Ressort de la cour d'appel de Bourges. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Caen <br/>
-</p>
+<p align="center">Cour d'appel de Caen</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Caen <br/>
+<p align="left">Caen <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Caen. <br/>
+<p align="left">Ressort de la cour d'appel de Caen. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Cour d'appel de Cayenne</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Cayenne</p>
+</td>
+<td>
+<p align="left">Ressort de la cour d'appel de Cayenne.</p>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<p align="center">Cour d'appel de Chambéry</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Chambéry <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">Ressort de la cour d'appel de Chambéry. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Chambéry <br/>
-</p>
+<p align="center">Cour d'appel de Colmar</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Chambéry <br/>
+<p align="left">Strasbourg <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Chambéry. <br/>
+<p align="left">Ressort de la cour d'appel de Colmar. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Colmar <br/>
-</p>
+<p align="center">Cour d'appel de Dijon</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Strasbourg <br/>
+<p align="left">Dijon <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Colmar. <br/>
+<p align="left">Ressort de la cour d'appel de Dijon. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Dijon <br/>
-</p>
+<p align="center">Cour d'appel de Douai</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Dijon <br/>
+<p align="left">Lille <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Dijon. <br/>
+<p align="left">Ressort de la cour d'appel de Douai. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Douai</p>
+<p align="center">Cour d'appel de Fort-de-France</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Lille <br/>
+<p align="left">Fort-de-France <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Douai. <br/>
+<p align="left">Ressort de la cour d'appel de Fort-de-France. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Fort-de-France</p>
+<br/>Cour d'appel de Grenoble <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Fort-de-France <br/>
+<p align="left">Grenoble <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Fort-de-France. <br/>
+<p align="left">Ressort de la cour d'appel de Grenoble. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Grenoble</p>
+<br/>Cour d'appel de Limoges <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Grenoble <br/>
+<p align="left">Limoges <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Grenoble. <br/>
+<p align="left">Ressort de la cour d'appel de Limoges. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Limoges</p>
+<p align="center">Cour d'appel de Lyon</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Limoges <br/>
+<p align="left">Lyon <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Limoges. <br/>
+<p align="left">Ressort de la cour d'appel de Lyon. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Lyon</p>
+<p align="center">Cour d'appel de Metz</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Lyon <br/>
+<p align="left">Metz <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Lyon. <br/>
+<p align="left">Ressort de la cour d'appel de Metz. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Metz</p>
+<p align="center">Cour d'appel de Montpellier</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Metz <br/>
+<p align="left">Montpellier <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Metz. <br/>
+<p align="left">Ressort de la cour d'appel de Montpellier. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Montpellier</p>
+<p align="center">Cour d'appel de Nancy</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Montpellier <br/>
+<p align="left">Nancy <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Montpellier. <br/>
+<p align="left">Ressort de la cour d'appel de Nancy. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Nancy</p>
+<p align="center">Cour d'appel de Nîmes</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Nancy <br/>
+<p align="left">Nîmes <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Nancy. <br/>
+<p align="left">Ressort de la cour d'appel de Nîmes. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Nîmes</p>
+<br/>Cour d'appel de Nouméa <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Nîmes <br/>
+<p align="left">Nouméa <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Nîmes. <br/>
+<p align="left">Ressort de la cour d'appel de Nouméa. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Nouméa</p>
+<br/>Cour d'appel d'Orléans <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Nouméa <br/>
+<p align="left">Orléans <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Nouméa. <br/>
+<p align="left">Ressort de la cour d'appel d'Orléans. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel d'Orléans</p>
+<br/>Cour d'appel de Papeete <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Orléans <br/>
+<p align="left">Papeete <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel d'Orléans. <br/>
+<p align="left">Ressort de la cour d'appel de Papeete. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Papeete</p>
+<p align="center">Cour d'appel de Paris</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Papeete <br/>
+<p align="left">Paris <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Papeete. <br/>
+<p align="left">Ressort de la cour d'appel de Paris. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Paris</p>
+<p align="center">Cour d'appel de Pau</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Paris <br/>
+<p align="left">Pau <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Paris. <br/>
+<p align="left">Ressort de la cour d'appel de Pau. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Pau</p>
+<p align="center">Cour d'appel de Poitiers</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Pau <br/>
+<p align="left">Poitiers <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Pau. <br/>
+<p align="left">Ressort de la cour d'appel de Poitiers. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Poitiers</p>
+<p align="center">Cour d'appel de Reims</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Poitiers <br/>
+<p align="left">Reims <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Poitiers. <br/>
+<p align="left">Ressort de la cour d'appel de Reims. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Reims</p>
+<p align="center">Cour d'appel de Rennes</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Reims <br/>
+<p align="left">Nantes <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Reims. <br/>
+<p align="left">Ressort de la cour d'appel de Rennes. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Rennes</p>
+<br/>Cour d'appel de Riom <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Nantes <br/>
+<p align="left">Clermont-Ferrand <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Rennes. <br/>
+<p align="left">Ressort de la cour d'appel de Riom. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Riom</p>
+<br/>Cour d'appel de Rouen <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Clermont-Ferrand <br/>
+<p align="left">Rouen <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Riom. <br/>
+<p align="left">Ressort de la cour d'appel de Rouen. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Rouen</p>
+<p align="center">Cour d'appel de Saint-Denis </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Rouen <br/>
+<p align="left">Saint-Denis <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Rouen. <br/>
+<p align="left">Ressort de la cour d'appel de Saint-Denis. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Saint-Denis</p>
+<br/>Cour d'appel de Toulouse <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Saint-Denis <br/>
+<p align="left">Toulouse <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Saint-Denis. <br/>
+<p align="left">Ressort de la cour d'appel de Toulouse. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">Cour d'appel de Toulouse</p>
+<p align="center">Cour d'appel de Versailles</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Toulouse <br/>
+<p align="left">Nanterre <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Toulouse. <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-<p align="center">
-<br/>Cour d'appel de Versailles</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Nanterre <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>Ressort de la cour d'appel de Versailles. <br/>
+<p align="left">Ressort de la cour d'appel de Versailles. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<p align="center">
-<br/>Tribunal supérieur d'appel de Saint-Pierre</p>
+<p align="center">Tribunal supérieur d'appel de Saint-Pierre</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Saint-Pierre <br/>
+<p align="left">Saint-Pierre <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Ressort du tribunal supérieur d'appel de Saint-Pierre.<br/>
+<p align="left">Ressort du tribunal supérieur d'appel de Saint-Pierre.<br/>
 </p>
 </td>
 </tr>

@@ -1,6 +1,12 @@
 # Article Annexe Tableau XIV
 
-<div align="center">Siège et ressort des tribunaux pour enfants<br/>(annexe de l'article D. 251-1) </div>
+<div align="left">
+<br/>
+</div>
+
+Siège et ressort des tribunaux pour enfants
+
+(annexe de l'article D. 251-1)
 
 <table>
 <tbody>
@@ -14,13 +20,10 @@
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 <br/>
 <p align="center">Cour d'appel d'Agen </p>
 <p align="center">Gers </p>
-</td>
-<td>
-<br/>
 </td>
 </tr>
 <tr>
@@ -72,13 +75,10 @@
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 <br/>
 <p align="center">Cour d'appel d'Aix-en-Provence </p>
 <p align="center">Alpes-de-Haute-Provence </p>
-</td>
-<td>
-<br/>
 </td>
 </tr>
 <tr>
@@ -189,13 +189,10 @@
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 <br/>
 <p align="center">Cour d'appel d'Amiens </p>
 <p align="center">Aisne </p>
-</td>
-<td>
-<br/>
 </td>
 </tr>
 <tr>
@@ -287,13 +284,10 @@
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 <br/>
 <p align="center">Cour d'appel d'Angers </p>
 <p align="center">Maine-et-Loire </p>
-</td>
-<td>
-<br/>
 </td>
 </tr>
 <tr>
@@ -345,13 +339,10 @@
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 <br/>
 <p align="center">Cour d'appel de Basse-Terre </p>
 <p align="center">Guadeloupe </p>
-</td>
-<td>
-<br/>
 </td>
 </tr>
 <tr>
@@ -375,13 +366,10 @@
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 <br/>
 <p align="center">Cour d'appel de Bastia </p>
 <p align="center">Corse-du-Sud </p>
-</td>
-<td>
-<br/>
 </td>
 </tr>
 <tr>
@@ -414,13 +402,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Besançon </p>
-<p align="center">Doubs </p>
-</td>
-<td>
-<br/>
+<p align="center">Doubs</p>
 </td>
 </tr>
 <tr>
@@ -501,13 +485,9 @@
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 <br/>
-<p align="center">Cour d'appel de Bordeaux </p>
-<p align="center">Charente </p>
-</td>
-<td>
-<br/>
+<p align="center">Cour d'appel de Bordeaux <br/>Charente</p>
 </td>
 </tr>
 <tr>
@@ -579,13 +559,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Bourges </p>
-<p align="center">Cher </p>
-</td>
-<td>
-<br/>
+<p align="center">Cher</p>
 </td>
 </tr>
 <tr>
@@ -637,13 +613,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Caen </p>
-<p align="center">Calvados </p>
-</td>
-<td>
-<br/>
+<p align="center">Calvados</p>
 </td>
 </tr>
 <tr>
@@ -705,13 +677,23 @@
 </td>
 </tr>
 <tr>
+<td colspan="2">
+<p align="center">Cour d'appel de Cayenne (Guyane)<br/>
+</p>
+</td>
+</tr>
+<tr>
 <td>
-<br/>
-<p align="center">Cour d'appel de Chambéry </p>
-<p align="center">Haute-Savoie </p>
+<p align="left">Cayenne</p>
 </td>
 <td>
-<br/>
+<p align="left">Ressort du tribunal de grande instance de Cayenne.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Cour d'appel de Chambéry </p>
+<p align="center">Haute-Savoie</p>
 </td>
 </tr>
 <tr>
@@ -764,13 +746,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Colmar </p>
-<p align="center">Bas-Rhin </p>
-</td>
-<td>
-<br/>
+<p align="center">Bas-Rhin</p>
 </td>
 </tr>
 <tr>
@@ -823,13 +801,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Dijon </p>
-<p align="center">Côte-d'Or </p>
-</td>
-<td>
-<br/>
+<p align="center">Côte-d'Or</p>
 </td>
 </tr>
 <tr>
@@ -891,13 +865,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Douai </p>
-<p align="center">Nord </p>
-</td>
-<td>
-<br/>
+<p align="center">Nord</p>
 </td>
 </tr>
 <tr>
@@ -1010,52 +980,22 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">Cour d'appel de Fort-de-France </p>
-<p align="center">Guyane </p>
-</td>
-<td>
-<br/>
+<td colspan="2">
+<p align="center">Cour d'appel de Fort-de-France (Martinique)</p>
 </td>
 </tr>
 <tr>
 <td>
-<br/>
-<p align="left">Cayenne </p>
-</td>
-<td>
-<br/>
-<p align="left">Ressort du tribunal de grande instance de Cayenne. </p>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="left">Martinique </p>
-</td>
-<td>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
 <p align="left">Fort-de-France </p>
 </td>
 <td>
-<br/>
-<p align="left">Ressort du tribunal de grande instance de Fort-de-France. </p>
+<p align="left">Ressort du tribunal de grande instance de Fort-de-France.</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Grenoble </p>
-<p align="center">Drôme </p>
-</td>
-<td>
-<br/>
+<p align="center">Drôme</p>
 </td>
 </tr>
 <tr>
@@ -1070,7 +1010,6 @@
 </tr>
 <tr>
 <td>
-<br/>
 <p align="left">Hautes-Alpes </p>
 </td>
 <td>
@@ -1079,17 +1018,14 @@
 </tr>
 <tr>
 <td>
-<br/>
 <p align="left">Gap </p>
 </td>
 <td>
-<br/>
 <p align="left">Ressort du tribunal de grande instance de Gap. </p>
 </td>
 </tr>
 <tr>
 <td>
-<br/>
 <p align="left">Isère </p>
 </td>
 <td>
@@ -1098,11 +1034,9 @@
 </tr>
 <tr>
 <td>
-<br/>
 <p align="left">[Bourgoin-Jallieu </p>
 </td>
 <td>
-<br/>
 <p align="left">Ressort du tribunal de grande instance de Bourgoin-Jallieu. (11)] </p>
 </td>
 </tr>
@@ -1118,11 +1052,9 @@
 </tr>
 <tr>
 <td>
-<br/>
 <p align="left">(Vienne </p>
 </td>
 <td>
-<br/>
 <p align="left">Ressort du tribunal de grande instance de Vienne.[11]) </p>
 </td>
 </tr>
@@ -1136,13 +1068,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Limoges </p>
-<p align="center">Corrèze </p>
-</td>
-<td>
-<br/>
+<p align="center">Corrèze</p>
 </td>
 </tr>
 <tr>
@@ -1194,13 +1122,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Lyon </p>
-<p align="center">Ain </p>
-</td>
-<td>
-<br/>
+<p align="center">Ain</p>
 </td>
 </tr>
 <tr>
@@ -1272,13 +1196,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Metz </p>
-<p align="center">Moselle </p>
-</td>
-<td>
-<br/>
+<p align="center">Moselle</p>
 </td>
 </tr>
 <tr>
@@ -1312,13 +1232,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Montpellier </p>
-<p align="center">Aude </p>
-</td>
-<td>
-<br/>
+<p align="center">Aude</p>
 </td>
 </tr>
 <tr>
@@ -1409,13 +1325,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Nancy </p>
-<p align="center">Meurthe-et-Moselle </p>
-</td>
-<td>
-<br/>
+<p align="center">Meurthe-et-Moselle</p>
 </td>
 </tr>
 <tr>
@@ -1477,13 +1389,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Nîmes </p>
-<p align="center">Ardèche </p>
-</td>
-<td>
-<br/>
+<p align="center">Ardèche</p>
 </td>
 </tr>
 <tr>
@@ -1564,13 +1472,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Nouméa </p>
 <p align="center">Nouvelle-Calédonie </p>
-</td>
-<td>
-<br/>
 </td>
 </tr>
 <tr>
@@ -1603,13 +1507,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel d'Orléans </p>
-<p align="center">Indre-et-Loire </p>
-</td>
-<td>
-<br/>
+<p align="center">Indre-et-Loire</p>
 </td>
 </tr>
 <tr>
@@ -1671,13 +1571,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Tribunal supérieur d'appel de Papeete </p>
-<p align="center">Polynésie française </p>
-</td>
-<td>
-<br/>
+<p align="center">Polynésie française</p>
 </td>
 </tr>
 <tr>
@@ -1691,13 +1587,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Paris </p>
-<p align="center">Essonne </p>
-</td>
-<td>
-<br/>
+<p align="center">Essonne</p>
 </td>
 </tr>
 <tr>
@@ -1782,9 +1674,7 @@
 <br/>
 <p align="left">Val-de-Marne </p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -1816,13 +1706,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Pau </p>
-<p align="center">Hautes-Pyrénées </p>
-</td>
-<td>
-<br/>
+<p align="center">Hautes-Pyrénées</p>
 </td>
 </tr>
 <tr>
@@ -1894,13 +1780,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Poitiers </p>
-<p align="center">Charente-Maritime </p>
-</td>
-<td>
-<br/>
+<p align="center">Charente-Maritime</p>
 </td>
 </tr>
 <tr>
@@ -1987,13 +1869,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Reims </p>
-<p align="center">Ardennes </p>
-</td>
-<td>
-<br/>
+<p align="center">Ardennes</p>
 </td>
 </tr>
 <tr>
@@ -2055,13 +1933,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Rennes </p>
-<p align="center">Côtes-d'Armor </p>
-</td>
-<td>
-<br/>
+<p align="center">Côtes-d'Armor</p>
 </td>
 </tr>
 <tr>
@@ -2191,13 +2065,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Riom </p>
-<p align="center">Allier </p>
-</td>
-<td>
-<br/>
+<p align="center">Allier</p>
 </td>
 </tr>
 <tr>
@@ -2268,13 +2138,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Rouen </p>
-<p align="center">Eure </p>
-</td>
-<td>
-<br/>
+<p align="center">Eure</p>
 </td>
 </tr>
 <tr>
@@ -2327,13 +2193,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Saint-Denis </p>
-<p align="center">La Réunion </p>
-</td>
-<td>
-<br/>
+<p align="center">La Réunion</p>
 </td>
 </tr>
 <tr>
@@ -2348,15 +2210,18 @@
 </tr>
 <tr>
 <td>
+<br/>
 <p align="left">Saint-Pierre </p>
 </td>
 <td>
+<br/>
 <p align="left">Ressort du tribunal de grande instance de Saint-Pierre. </p>
 </td>
 </tr>
 <tr>
 <td>
-<div align="left">Mayotte </div>
+<div align="left">Mayotte <br/>
+</div>
 </td>
 <td>
 <br/>
@@ -2371,13 +2236,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Toulouse </p>
-<p align="center">Ariège </p>
-</td>
-<td>
-<br/>
+<p align="center">Ariège</p>
 </td>
 </tr>
 <tr>
@@ -2397,6 +2258,7 @@
 </td>
 <td>
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2415,6 +2277,7 @@
 <p align="left">Tarn </p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2458,13 +2321,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
+<td colspan="2">
 <p align="center">Cour d'appel de Versailles </p>
-<p align="center">Eure-et-Loir </p>
-</td>
-<td>
-<br/>
+<p align="center">Eure-et-Loir</p>
 </td>
 </tr>
 <tr>
@@ -2535,13 +2394,9 @@
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">Tribunal supérieur d'appel de<br/>Saint-Pierre </p>
-<p align="center">Saint-Pierre-et-Miquelon </p>
-</td>
-<td>
-<br/>
+<td colspan="2">
+<p align="center">Tribunal supérieur d'appel de Saint-Pierre </p>
+<p align="center">Saint-Pierre-et-Miquelon</p>
 </td>
 </tr>
 <tr>
@@ -2565,6 +2420,4 @@
 </tbody>
 </table>
 
-<div align="left"/>
-<div align="left"/>
 <div align="left"/>

@@ -6,146 +6,98 @@ Siège et ressort des tribunaux de grande instance et des tribunaux de première
 <tbody>
 <tr>
 <td>
-<p align="center">
-<font size="1">SIÈGE</font>
-</p>
+<p align="center">SIÈGE </p>
 </td>
 <td>
-<p align="center">
-<font size="1">RESSORT</font>
-</p>
+<p align="center">RESSORT</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
+<td align="left" valign="top">
 <br/>Bordeaux <br/>
-</p>
 </td>
-<td align="center">
-<p align="left">
+<td align="left" valign="top">
 <br/>Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. <br/>
-</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
+<td align="left" valign="top">
 <br/>Lille <br/>
-</p>
 </td>
-<td align="center">
-<p align="left">
+<td align="left" valign="top">
 <br/>Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. <br/>
-</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
+<td align="left" valign="top">
 <br/>Lyon <br/>
-</p>
 </td>
-<td align="center">
-<p align="left">
+<td align="left" valign="top">
 <br/>Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. <br/>
-</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
+<td align="left" valign="top">
 <br/>Marseille <br/>
-</p>
 </td>
-<td align="center">
-<p align="left">
+<td align="left" valign="top">
 <br/>Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. <br/>
-</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
+<td align="left" valign="top">
 <br/>Nanterre <br/>
-</p>
 </td>
-<td align="center">
-<p align="left">
+<td align="left" valign="top">
 <br/>Ressort de la cour d'appel de Versailles. <br/>
-</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
+<td align="left" valign="top">
 <br/>Nancy <br/>
-</p>
 </td>
-<td align="center">
-<p align="left">
+<td align="left" valign="top">
 <br/>Ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy. <br/>
-</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
+<td align="left" valign="top">
 <br/>Paris <br/>
-</p>
 </td>
-<td align="center">
-<p align="left">
+<td align="left" valign="top">
 <br/>Ressort des cours d'appel de Bourges, Paris et Orléans. <br/>
-</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
+<td align="left" valign="top">
 <br/>Rennes <br/>
-</p>
 </td>
-<td align="center">
-<p align="left">
+<td align="left" valign="top">
 <br/>Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. <br/>
-</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
+<td align="left" valign="top">
 <br/>Fort-de-France <br/>
-</p>
 </td>
-<td align="center">
-<p align="left">
-<br/>Ressort des cours d'appel de Basse-Terre et Fort-de-France. <br/>
-</p>
+<td align="left" valign="top">
+<br/>Ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France.<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
+<td align="left" valign="top">
 <br/>Saint-Denis <br/>
-</p>
 </td>
-<td align="center">
-<p align="left">
+<td align="left" valign="top">
 <br/>Ressort de la cour d'appel de Saint-Denis. <br/>
-</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
+<td align="left" valign="top">
 <br/>Saint-Pierre-et-Miquelon <br/>
-</p>
 </td>
-<td align="center">
-<p align="left">
+<td align="left" valign="top">
 <br/>Ressort du tribunal supérieur d'appel de Saint-Pierre. <br/>
-</p>
 </td>
 </tr>
 </tbody>

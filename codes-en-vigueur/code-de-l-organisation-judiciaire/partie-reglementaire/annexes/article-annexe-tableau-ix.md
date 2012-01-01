@@ -744,6 +744,19 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 </td>
 </tr>
 <tr>
+<td colspan="2">
+<p align="center">Cour d'appel de Cayenne (Guyane)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Cayenne</p>
+</td>
+<td>
+<p align="left">Ressort du tribunal d'instance de Cayenne.</p>
+</td>
+</tr>
+<tr>
 <td colspan="2" width="614">
 <p align="center">Cour d'appel de Chambéry </p>
 </td>
@@ -1098,41 +1111,16 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 </tr>
 <tr>
 <td colspan="2" width="614">
-<p align="center">Cour d'appel de Fort-de-France </p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="614">
-<p align="center">Guyane </p>
+<p align="center">Cour d'appel de Fort-de-France (Martinique)<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td width="300">
-<p>Cayenne </p>
+<p>Fort-de-France </p>
 </td>
 <td width="314">
-<p>Ressort du tribunal d'instance de Cayenne. </p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="614">
-<p align="center">Martinique </p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>[Fort-de-France </p>
-</td>
-<td width="314">
-<p>Ressort des tribunaux d'instance de Fort-de-France et Le Lamentin. (3)] </p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>[Fort-de-France </p>
-</td>
-<td width="314">
-<p>Ressort du tribunal d'instance de Fort-de-France. (4)] </p>
+<p>Ressort du tribunal d'instance de Fort-de-France.</p>
 </td>
 </tr>
 <tr>
@@ -2878,14 +2866,12 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 </td>
 </tr>
 <tr>
-<td colspan="2" width="614">
-<p align="center">Mayotte <br/>
-</p>
+<td colspan="2">
+<p align="center">Mayotte</p>
 </td>
 </tr>
 <tr>
-<td width="300">Mamoudzou <br/>
-</td>
+<td width="300">Mamoudzou </td>
 <td width="314">
 <p>Ressort du tribunal d'instance de Mamoudzou <br/>
 </p>
@@ -2902,32 +2888,31 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 </p>
 </td>
 <td>
-<p align="left">Ressort du tribunal d'instance de Saint-Benoît. <br/>
-</p>
+<p align="left">Ressort du tribunal d'instance de Saint-Benoît. </p>
 </td>
 </tr>
 <tr>
 <td width="300">
-<p align="left">Saint-Denis </p>
+<p>Saint-Denis </p>
 </td>
 <td width="314">
-<p align="left">Ressort du tribunal d'instance de Saint-Denis. </p>
+<p>Ressort du tribunal d'instance de Saint-Denis. </p>
 </td>
 </tr>
 <tr>
 <td width="300">
-<p align="left">Saint-Paul </p>
+<p>Saint-Paul </p>
 </td>
 <td width="314">
-<p align="left">Ressort du tribunal d'instance de Saint-Paul. </p>
+<p>Ressort du tribunal d'instance de Saint-Paul. </p>
 </td>
 </tr>
 <tr>
 <td width="300">
-<p align="left">Saint-Pierre </p>
+<p>Saint-Pierre </p>
 </td>
 <td width="314">
-<p align="left">Ressort du tribunal d'instance de Saint-Pierre. </p>
+<p>Ressort du tribunal d'instance de Saint-Pierre. </p>
 </td>
 </tr>
 <tr>

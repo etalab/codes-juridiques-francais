@@ -2,9 +2,10 @@
 
 Nombre d'assesseurs des chambres commerciales des tribunaux de grande instance
 
-des départements du Bas-Rhin, du Haut-Rhin et de la Moselle
-
 <div align="center"/>
+<div align="center"/>
+
+des départements du Bas-Rhin, du Haut-Rhin et de la Moselle
 
 <div align="center"/>
 <table>
@@ -22,6 +23,7 @@ des départements du Bas-Rhin, du Haut-Rhin et de la Moselle
 </tr>
 <tr>
 <td>
+<br/>
 <p align="center">Cour d'appel de Colmar</p>
 </td>
 <td/>
@@ -29,9 +31,11 @@ des départements du Bas-Rhin, du Haut-Rhin et de la Moselle
 </tr>
 <tr>
 <td>
+<br/>
 <p align="left">Bas-Rhin </p>
 </td>
 <td>
+<br/>
 <p align="left">Saverne</p>
 </td>
 <td>
@@ -40,7 +44,9 @@ des départements du Bas-Rhin, du Haut-Rhin et de la Moselle
 </tr>
 <tr>
 <td>
+<p align="left">
 <br/>
+</p>
 </td>
 <td>
 <p align="left">Strasbourg</p>
@@ -51,7 +57,6 @@ des départements du Bas-Rhin, du Haut-Rhin et de la Moselle
 </tr>
 <tr>
 <td>
-<br/>
 <p align="left">Haut-Rhin </p>
 </td>
 <td>
@@ -163,14 +168,28 @@ Nombre de juges élus des tribunaux mixtes de commerce des départements d'outre
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-</td>
+<td/>
 <td>
 <p align="left">Pointe-à-Pitre</p>
 </td>
 <td>
 <p align="center">6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Cour d'appel de Cayenne </p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>Guyane </td>
+<td>
+<p align="left">Cayenne</p>
+</td>
+<td>
+<p align="center">5</p>
 </td>
 </tr>
 <tr>
@@ -193,17 +212,6 @@ Nombre de juges élus des tribunaux mixtes de commerce des départements d'outre
 </tr>
 <tr>
 <td>
-<p align="left">Guyane </p>
-</td>
-<td>
-<p align="left">Cayenne</p>
-</td>
-<td>
-<p align="center">5</p>
-</td>
-</tr>
-<tr>
-<td>
 <p align="center">Cour d'appel de Saint-Denis de La Réunion</p>
 </td>
 <td/>
@@ -211,8 +219,7 @@ Nombre de juges élus des tribunaux mixtes de commerce des départements d'outre
 </tr>
 <tr>
 <td>
-<p align="left">Mayotte <br/>
-</p>
+<p align="left">Mayotte</p>
 </td>
 <td>
 <p align="left">Mamoudzou </p>
@@ -228,13 +235,13 @@ Nombre de juges élus des tribunaux mixtes de commerce des départements d'outre
 <td align="center">
 <p align="left">Saint-Denis</p>
 </td>
-<td align="center">5</td>
+<td align="center">
+<p align="center">5</p>
+</td>
 </tr>
 <tr>
 <td>
-<p align="left">
 <br/>
-</p>
 </td>
 <td>
 <p align="left">Saint-Pierre</p>
