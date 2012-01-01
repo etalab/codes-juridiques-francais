@@ -1,4 +1,4 @@
 # Section II : Juridiction gracieuse
 
-- [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs](c)
+- [C : Demandes des comptables de la direction générale des finances publiques chargés du recouvrement des impôts et assimilés](c)
 - [D : Dispositions particulières aux impôts directs](d)
