@@ -1,4 +1,4 @@
 # TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE
 
-- [CHAPITRE Ier : Dispositions communes](chapitre-ier)
-- [CHAPITRE II : La coopération intercommunale](chapitre-ii)
+- [Chapitre Ier : Dispositions générales](chapitre-ier)
+- [Chapitre II : La coopération intercommunale](chapitre-ii)
