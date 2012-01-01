@@ -45,7 +45,7 @@ DES PROCÉDURES APPLICABLES AUX PERSONNES QUI SONT COMMERÇANTS OU ARTISANS
 <p>Fort-de-France.</p>
 </td>
 <td valign="top">
-<p>Le ressort des cours d'appel de Basse-Terre et de Fort-de-France.</p>
+<p>Le ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France.</p>
 </td>
 </tr>
 <tr>

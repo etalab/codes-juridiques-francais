@@ -150,7 +150,8 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td colspan="2">
-<p align="center">Cour d'appel de Bastia<br/>Corse-du-Sud</p>
+<p align="center">Cour d'appel de Bastia</p>
+<p align="center">Corse-du-Sud</p>
 </td>
 </tr>
 <tr>
@@ -226,6 +227,22 @@ Liste des maisons de justice et du droit
 </td>
 <td align="center">
 <p align="left">Hérouville-Saint-Clair.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Cour d'appel de Cayenne<br/>
+</p>
+<p align="center">Guyane<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Cayenne</p>
+</td>
+<td>
+<p align="left">Saint-Laurent-du-Maroni.</p>
 </td>
 </tr>
 <tr>
@@ -394,21 +411,9 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center" colspan="2">
-<br/>Cour d'appel de Fort-de-France <p>Guyane<br/>
+<p>Cour d'appel de Fort-de-France</p>
+<p>Martinique<br/>
 </p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="center">Cayenne</p>
-</td>
-<td align="center">
-<p align="left">Saint-Laurent-du-Maroni.</p>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-<br/>Martinique<br/>
 </td>
 </tr>
 <tr>
@@ -544,7 +549,7 @@ Liste des maisons de justice et du droit
 <p align="center">Metz</p>
 </td>
 <td align="center">
-<p>Faulquemont, Woippy.</p>
+<p align="left">Faulquemont, Woippy.</p>
 </td>
 </tr>
 <tr>

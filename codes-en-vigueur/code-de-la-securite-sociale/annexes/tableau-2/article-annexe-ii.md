@@ -1,5 +1,6 @@
 # Article Annexe II
 
+<div>
 <table>
 <tbody>
 <tr>
@@ -257,7 +258,7 @@
 </tr>
 <tr>
 <td valign="top" width="113">
-<p>Fort-de-France</p>
+<p>Cayenne</p>
 </td>
 <td valign="top" width="113">
 <p>Cayenne</p>
@@ -301,3 +302,4 @@
 </tr>
 </tbody>
 </table>
+</div>
