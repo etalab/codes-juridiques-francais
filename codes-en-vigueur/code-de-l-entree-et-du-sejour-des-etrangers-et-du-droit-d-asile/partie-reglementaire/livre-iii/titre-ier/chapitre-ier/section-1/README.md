@@ -6,4 +6,4 @@
 - [Sous-section 3 : Délivrance du titre de séjour.](sous-section-3)
 - [Sous-section 4 : Retrait du titre de séjour.](sous-section-4)
 - [Sous-section 5 : Restitution du titre de séjour.](sous-section-5)
-- [Sous-section 6 : Taxes perçues au profit de l'Agence nationale de l'accueil des étrangers et des migrations.](sous-section-6)
+- [Sous-section 6 : Dispositions fiscales.](sous-section-6)
