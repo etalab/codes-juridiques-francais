@@ -6,3 +6,4 @@
 - [Titre IV : Dispositions applicables en Nouvelle-Calédonie](titre-iv)
 - [Titre V : Dispositions applicables en Polynésie française](titre-v)
 - [Titre VI : Dispositions applicables dans les îles Wallis-et-Futuna](titre-vi)
+- [Titre VII : Dispositions spécifiques à Saint-Barthélemy](titre-vii)

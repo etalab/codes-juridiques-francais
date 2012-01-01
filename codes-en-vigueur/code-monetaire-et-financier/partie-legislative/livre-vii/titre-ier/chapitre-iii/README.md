@@ -1,4 +1,4 @@
-# Chapitre III : Dispositions communes à Saint-Pierre-et-Miquelon, à Mayotte, à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna en matière d'information sur le donneur d'ordre
+# Chapitre III : Dispositions communes        à Saint-Barthélemy, à Saint-Pierre-et-Miquelon, à Mayotte, à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna en matière d'information sur le donneur d'ordre
 
 - [Section 1 : Personnes et opérations soumises aux obligations d'information](section-1)
 - [Section 2 : Obligations du prestataire de services de paiement du donneur d'ordre](section-2)
