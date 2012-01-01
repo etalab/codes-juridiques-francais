@@ -1,6 +1,6 @@
 # Article 18
 
-Pour l'année 2011, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires, pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme suit :
+Pour l'année 2012, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires, pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme suit :
 
 <table>
 <tbody>
@@ -17,39 +17,39 @@ Pour l'année 2011, les limites de chaque tranche du tarif de la retenue à la s
 <br/>Taux applicables <br/>
 </th>
 <th>
-<br/>Année <br/>
-<br/>(en euros) <br/>
+<br/>Année <p>(en euros) <br/>
+</p>
 </th>
 <th>
-<br/>Trimestre <br/>
-<br/>(en euros) <br/>
+<br/>Trimestre <p>(en euros) <br/>
+</p>
 </th>
 <th>
-<br/>Mois <br/>
-<br/>(en euros) <br/>
+<br/>Mois <p>(en euros) <br/>
+</p>
 </th>
 <th>
-<br/>Semaine <br/>
-<br/>(en euros) <br/>
+<br/>Semaine <p>(en euros) <br/>
+</p>
 </th>
 <th>
-<br/>Jour ou fraction de jour <br/>
-<br/>(en euros) <br/>
+<br/>Jour ou fraction de jour <p>(en euros) <br/>
+</p>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>0 % <br/>
-<br/>- moins de <br/>
+<br/>0 % <p>- moins de <br/>
+</p>
 </td>
 <td align="center">
-<br/>14   245 <br/>
+<br/>14 245 <br/>
 </td>
 <td align="center">
-<br/>3   561 <br/>
+<br/>3 561 <br/>
 </td>
 <td align="center">
-<br/>1   187 <br/>
+<br/>1 187 <br/>
 </td>
 <td align="center">
 <br/>274 <br/>
@@ -60,17 +60,17 @@ Pour l'année 2011, les limites de chaque tranche du tarif de la retenue à la s
 </tr>
 <tr>
 <td align="center">
-<br/>12 % <br/>
-<br/>- de <br/>
+<br/>12 % <p>- de <br/>
+</p>
 </td>
 <td align="center">
-<br/>14   245 <br/>
+<br/>14 245 <br/>
 </td>
 <td align="center">
-<br/>3   561 <br/>
+<br/>3 561 <br/>
 </td>
 <td align="center">
-<br/>1   187 <br/>
+<br/>1 187 <br/>
 </td>
 <td align="center">
 <br/>274 <br/>
@@ -84,13 +84,13 @@ Pour l'année 2011, les limites de chaque tranche du tarif de la retenue à la s
 <br/>- à <br/>
 </td>
 <td align="center">
-<br/>41   327 <br/>
+<br/>41 327 <br/>
 </td>
 <td align="center">
-<br/>10   332 <br/>
+<br/>10 332 <br/>
 </td>
 <td align="center">
-<br/>3   444 <br/>
+<br/>3 444 <br/>
 </td>
 <td align="center">
 <br/>795 <br/>
@@ -101,17 +101,17 @@ Pour l'année 2011, les limites de chaque tranche du tarif de la retenue à la s
 </tr>
 <tr>
 <td align="center">
-<br/>20 % <br/>
-<br/>- au-delà de <br/>
+<br/>20 % <p>- au-delà de <br/>
+</p>
 </td>
 <td align="center">
-<br/>41   327 <br/>
+<br/>41 327 <br/>
 </td>
 <td align="center">
-<br/>10   332 <br/>
+<br/>10 332 <br/>
 </td>
 <td align="center">
-<br/>3   444 <br/>
+<br/>3 444 <br/>
 </td>
 <td align="center">
 <br/>795 <br/>
