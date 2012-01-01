@@ -4,3 +4,4 @@
 - [Paragraphe 2 : De la constitution de la partie civile et de ses effets](paragraphe-2)
 - [Paragraphe 3 : De l'administration de la preuve](paragraphe-3)
 - [Paragraphe 4 : De la discussion par les parties](paragraphe-4)
+- [Paragraphe 5 : Dispositions applicables devant le tribunal correctionnel dans sa formation citoyenne](paragraphe-5)

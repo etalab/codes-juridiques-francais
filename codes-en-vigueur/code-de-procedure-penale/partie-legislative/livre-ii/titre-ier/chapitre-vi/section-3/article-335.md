@@ -14,4 +14,6 @@ Ne peuvent être reçues sous la foi du serment les dépositions :
 
 6° De la partie civile ;
 
-7° Des enfants au-dessous de l'âge de seize ans.
+7° Des enfants au-dessous de l'âge de seize ans ;
+
+8° De toute personne qui a été accusée, prévenue ou condamnée soit pour le crime dont est saisie la cour d'assises en qualité de coauteur ou de complice, soit pour un crime ou un délit connexe ou formant un ensemble indivisible avec le crime dont est saisie la cour d'assises.

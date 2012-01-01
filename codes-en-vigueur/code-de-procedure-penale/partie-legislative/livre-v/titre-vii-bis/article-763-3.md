@@ -1,6 +1,6 @@
 # Article 763-3
 
-Pendant la durée du suivi socio-judiciaire, le juge de l'application des peines peut, après audition du condamné et avis du procureur de la République, modifier ou compléter les mesures prévues aux articles 131-36-2 et 131-36-3 du code pénal.
+Pendant la durée du suivi socio-judiciaire ou pendant l'incarcération lorsque la personne condamnée à un suivi socio-judiciaire doit exécuter cette mesure à la suite d'une peine privative de liberté, le juge de l'application des peines peut, après audition du condamné et avis du procureur de la République, modifier ou compléter les mesures prévues aux articles 131-36-2 et 131-36-3 du code pénal.
 
 Sa décision est exécutoire par provision. Elle peut être attaquée par la voie de l'appel par le condamné, le procureur de la République et le procureur général, à compter de sa notification selon les modalités prévues au l° de l'article 712-11.
 

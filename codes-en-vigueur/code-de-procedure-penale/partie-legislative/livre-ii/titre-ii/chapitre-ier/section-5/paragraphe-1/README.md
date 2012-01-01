@@ -16,6 +16,7 @@
 - [Article 470-2](article-470-2.md)
 - [Article 471](article-471.md)
 - [Article 472](article-472.md)
+- [Article 474](article-474.md)
 - [Article 474-1](article-474-1.md)
 - [Article 475-1](article-475-1.md)
 - [Article 478](article-478.md)
