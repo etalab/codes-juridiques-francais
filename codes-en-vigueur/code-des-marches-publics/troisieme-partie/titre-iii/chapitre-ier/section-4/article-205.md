@@ -6,7 +6,7 @@ II. ― Toutefois :
 
 1° Les dispositions du III de l'article 212 et du troisième alinéa de l'article 41 ne sont pas applicables ;
 
-2° Lorsque le montant estimé des prestations demandées est égal ou supérieur à 387 000 € HT, elles sont définies conformément aux dispositions de l'article 186 et le marché fait l'objet d'un avis d'attribution dans les conditions fixées à l'article 257 ;
+2° Lorsque le montant estimé des prestations demandées est égal ou supérieur à 400 000 € HT, elles sont définies conformément aux dispositions de l'article 186 et le marché fait l'objet d'un avis d'attribution dans les conditions fixées à l'article 257 ;
 
 3° La personne soumise à la présente partie veille au respect des principes déontologiques et des réglementations applicables, le cas échéant, aux professions concernées ;
 

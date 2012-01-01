@@ -6,9 +6,9 @@ II.-Toutefois :
 
 1° Les dispositions du III de l'article 40 et du troisième alinéa de l'article 41 ne sont pas applicables ;
 
-2° Lorsque le montant estimé des prestations demandées est égal ou supérieur à 193 000 euros HT, elles sont définies conformément aux dispositions de l'article 6 et le marché fait l'objet d'un avis d'attribution dans les conditions fixées à l'article 85 ;
+2° Lorsque le montant estimé des prestations demandées est égal ou supérieur à 200 000 euros HT, elles sont définies conformément aux dispositions de l'article 6 et le marché fait l'objet d'un avis d'attribution dans les conditions fixées à l'article 85 ;
 
-3° Les marchés d'un montant égal ou supérieur à 193 000 euros HT sont attribués par la commission d'appel d'offres pour les collectivités territoriales ;
+3° Les marchés d'un montant égal ou supérieur à 200 000 euros HT sont attribués par la commission d'appel d'offres pour les collectivités territoriales ;
 
 4° Le pouvoir adjudicateur veille au respect des principes déontologiques et des réglementations applicables, le cas échéant, aux professions concernées ;
 

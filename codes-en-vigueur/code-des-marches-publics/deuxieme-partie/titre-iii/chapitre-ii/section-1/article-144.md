@@ -46,7 +46,7 @@ Le premier marché doit avoir indiqué la possibilité de recourir à cette proc
 
 III.-Elles peuvent aussi mettre en oeuvre une procédure adaptée, dans les conditions prévues par l'article 146 :
 
-a) Lorsque le montant estimé du besoin est inférieur à 387 000 euros HT pour les fournitures et les services, ou lorsque le montant estimé du besoin est inférieur à 4 845 000 € HT pour les travaux ;
+a) Lorsque le montant estimé du besoin est inférieur à 400 000 euros HT pour les fournitures et les services, ou lorsque le montant estimé du besoin est inférieur à 5 000 000 € HT pour les travaux ;
 
 b) Pour certains lots, dans les conditions prévues au III de l'article 27 ;
 
