@@ -6,7 +6,7 @@ Ces dispositions ne sont pas applicables si la soulte excède 10 % de la valeur 
 
 II. ― L'application du I est subordonnée aux conditions suivantes :
 
-1° L'apporteur est une personne physique qui exerce une activité commerciale, industrielle, artisanale, libérale ou agricole à titre professionnel au sens du I de l'article 151 septies ;
+1° L'apporteur est une personne physique qui exerce une activité commerciale, industrielle, artisanale, libérale ou agricole à titre professionnel au sens du IV de l'article 155 ;
 
 2° L'apport porte sur l'intégralité des droits ou parts nécessaires à l'exercice de l'activité, détenus par le contribuable et inscrits à l'actif de son bilan ou dans le tableau des immobilisations.
 
@@ -18,7 +18,7 @@ Pour l'application du premier alinéa, ne sont pas réputés nécessaires à l'e
 
 III. ― Le report d'imposition prend fin lorsque :
 
-1° L'apporteur cesse d'exercer une activité commerciale, industrielle, artisanale, libérale ou agricole à titre professionnel au sens du I de l'article 151 septies ;
+1° L'apporteur cesse d'exercer une activité commerciale, industrielle, artisanale, libérale ou agricole à titre professionnel au sens du IV de l'article 155 ;
 
 2° Les droits ou parts reçus en rémunération de l'apport ou les droits ou parts apportés sont cédés, rachetés ou annulés ;
 
@@ -32,4 +32,4 @@ IV. ― Par dérogation au 2° du III, le report d'imposition prévu au I est ma
 
 V. ― L'apporteur doit joindre à la déclaration prévue à l'article 170 au titre de l'année en cours à la date de l'apport et des années suivantes un état conforme au modèle fourni par l'administration faisant apparaître les renseignements nécessaires au suivi des plus-values dont l'imposition est reportée. Un décret précise le contenu de cet état.
 
-L'option pour le bénéfice du régime défini au présent article est exclusive de celui des régimes prévus au II de l'article 93 quater et aux articles 151 septies, 151 septies A ,151 octies, 151 octies A et 238 quindecies.
+L'option pour le bénéfice du régime défini au présent article est exclusive de celui des régimes prévus au II de l'article 93 quater et aux articles 151 septies, 151 septies A, 151 octies, 151 octies A et 238 quindecies.
