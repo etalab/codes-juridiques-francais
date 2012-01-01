@@ -1,5 +1,9 @@
 # Article L542-1
 
-Une union territoriale des associations familiales peut être constituée par les associations ayant leur siège à Mayotte.
+Le conseil général de Mayotte peut décider de créer les prestations d'aide sociale suivantes :
 
-Les dispositions des articles L. 211-1 à L. 211-5, L. 211-7 à L. 211-12 et L. 211-14 du présent code lui sont applicables.
+1° Les prestations à la famille mentionnées au chapitre III du titre IV du livre V ;
+
+2° L'aide et le placement pour les personnes âgées mentionnées au chapitre Ier du titre III du livre II ;
+
+3° Des aides aux personnes handicapées mentionnées au chapitre Ier du titre IV du livre II.
