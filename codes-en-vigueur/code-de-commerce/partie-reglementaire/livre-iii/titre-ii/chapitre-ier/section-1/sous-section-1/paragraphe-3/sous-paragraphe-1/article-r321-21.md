@@ -14,7 +14,7 @@ Sont dispensés de la possession du diplôme national en droit prévue au 3° de
 
 6° Les avocats inscrits à un barreau français et les anciens conseils juridiques ;
 
-7° Les avoués près les cours d'appel ;
+7° Les anciens avoués près les cours d'appel ;
 
 8° Les huissiers de justice ;
 
