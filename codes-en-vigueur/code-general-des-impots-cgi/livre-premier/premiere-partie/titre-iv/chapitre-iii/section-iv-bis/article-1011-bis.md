@@ -26,9 +26,8 @@ a) Pour les véhicules de tourisme au sens de l'article 1010 mentionnés au a du
 <tbody>
 <tr>
 <th rowspan="3">
-<p align="center">
+<br/>
 <font size="2">TAUX D'ÉMISSION </font>
-</p>
 <p>
 <font size="2">de dioxyde de carbone </font>
 </p>
@@ -49,9 +48,7 @@ a) Pour les véhicules de tourisme au sens de l'article 1010 mentionnés au a du
 </tr>
 <tr>
 <th colspan="5">
-<div align="center">
 <br/>
-</div>
 <font size="2">Année d'acquisition </font>
 <br/>
 </th>
@@ -85,7 +82,8 @@ a) Pour les véhicules de tourisme au sens de l'article 1010 mentionnés au a du
 </tr>
 <tr>
 <td align="center">
-<p align="left">Taux ≤ 150</p>
+<p align="center">Taux ≤ 140 <br/>
+</p>
 </td>
 <td align="center">
 <p align="center">0 </p>
@@ -100,42 +98,69 @@ a) Pour les véhicules de tourisme au sens de l'article 1010 mentionnés au a du
 <p align="center">0 </p>
 </td>
 <td align="center">
-<p align="center">0</p>
+<p align="center">0 <br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">151 ≤ taux ≤ 155</p>
+<p align="center">141 ≤ taux ≤ 145 </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>0 <br/>
+</p>
+</td>
+<td align="center">
+<p align="center">
+<br/>0</p>
+</td>
+<td align="center">
+<p align="center">0 </p>
 </td>
 <td align="center">
 <p align="center">0</p>
 </td>
 <td align="center">
-<p align="center">0</p>
+<p align="center">
+<br/>200 <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">146 ≤ taux ≤150</p>
+</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">200</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">151 ≤ taux ≤ 155<br/>
+</p>
+</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">200</td>
+<td align="center">500</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">156 ≤ taux ≤ 160</p>
 </td>
 <td align="center">
-<p align="center">0</p>
+<p align="center">0 </p>
 </td>
 <td align="center">
-<p align="center">200 </p>
+<p align="center">0 </p>
 </td>
 <td align="center">
 <p align="center">200</p>
 </td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">156 ≤ taux ≤ 160</p>
-</td>
-<td align="center">
-<p align="center">0 </p>
-</td>
-<td align="center">
-<p align="center">0 </p>
-</td>
-<td align="center">
-<p align="center">200 </p>
-</td>
 <td align="center">
 <p align="center">750</p>
 </td>
@@ -145,27 +170,27 @@ a) Pour les véhicules de tourisme au sens de l'article 1010 mentionnés au a du
 </tr>
 <tr>
 <td align="center">
-<p align="left">161 ≤ taux ≤ 165 </p>
+<p align="center">161 ≤ taux ≤ 165 </p>
 </td>
 <td align="center">
-<p align="center">200 </p>
+<p align="center">200</p>
 </td>
 <td align="center">
-<p align="center">200 </p>
+<p align="center">200</p>
+</td>
+<td align="center">
+<p align="center">750 </p>
 </td>
 <td align="center">
 <p align="center">750 </p>
 </td>
 <td align="center">
 <p align="center">750 </p>
-</td>
-<td align="center">
-<p align="center">750</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">166 ≤ taux ≤ 190 </p>
+<p align="center">166 ≤ taux ≤ 180 </p>
 </td>
 <td align="center">
 <p align="center">750 </p>
@@ -185,7 +210,20 @@ a) Pour les véhicules de tourisme au sens de l'article 1010 mentionnés au a du
 </tr>
 <tr>
 <td align="center">
-<p align="left">191 ≤ taux ≤ 195 </p>
+<p align="center">181≤ taux ≤ 190<br/>
+</p>
+</td>
+<td align="center">750</td>
+<td align="center">750</td>
+<td align="center">750</td>
+<td align="center">750</td>
+<td align="center">
+<p align="center">1 300</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>191 ≤ taux ≤ 195 </p>
 </td>
 <td align="center">
 <p align="center">750</p>
@@ -197,74 +235,73 @@ a) Pour les véhicules de tourisme au sens de l'article 1010 mentionnés au a du
 <p align="center">750 </p>
 </td>
 <td align="center">
-<p align="center">1 600 </p>
+<p align="center">1600 </p>
 </td>
 <td align="center">
-<p align="center">1 600 </p>
+<p align="center">2 300 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">196 ≤ taux ≤ 200</p>
+<p>196 ≤ taux ≤ 200 </p>
 </td>
+<td align="center">750 </td>
+<td align="center">750 </td>
+<td align="center">1 600 </td>
+<td align="center">1 600 </td>
 <td align="center">
-<p align="center">750 </p>
-</td>
-<td align="center">
-<p align="center">750 </p>
-</td>
-<td align="center">
-<p align="center">1 600 </p>
-</td>
-<td align="center">
-<p align="center">1 600 </p>
-</td>
-<td align="center">
-<p align="center">1 600</p>
+<br/>2 300 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">201 ≤ taux ≤ 240 </p>
+<p>201 ≤ taux ≤ 230 </p>
+</td>
+<td align="center">1 600 </td>
+<td align="center">1 600 </td>
+<td align="center">
+<br/>1 600 <br/>
 </td>
 <td align="center">
-<p align="center">1 600 </p>
+<br/>1 600 <br/>
 </td>
+<td align="center">2 300 </td>
+</tr>
+<tr>
 <td align="center">
-<p align="center">1 600 </p>
+<p align="center">231 ≤ taux ≤ 235<br/>
+</p>
 </td>
-<td align="center">
-<p align="center">1 600</p>
+<td>
+<p align="center">1 600<br/>
+</p>
 </td>
-<td align="center">
-<p align="center">1 600</p>
+<td>
+<p align="center">1 600<br/>
+</p>
 </td>
-<td align="center">
-<p align="center">1 600 </p>
+<td>
+<p align="center">1 600 <br/>
+</p>
+</td>
+<td>
+<p align="center">1 600<br/>
+</p>
+</td>
+<td>
+<p align="center">3 600<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">241 ≤ taux ≤ 245 </p>
+<p align="center">236 ≤ taux ≤ 240 <br/>
+</p>
 </td>
-<td align="center">
-<p align="center">1 600</p>
+<td>
+<p align="center">1 600<br/>
+</p>
 </td>
-<td align="center">
-<p align="center">1 600</p>
-</td>
-<td align="center">
-<p align="center">1 600 </p>
-</td>
-<td align="center">
-<p align="center">2 600 </p>
-</td>
-<td align="center">
-<p align="center">2 600 </p>
-</td>
-</tr>
-<tr>
-<td>246 ≤ taux ≤ 250</td>
 <td>
 <p align="center">1 600</p>
 </td>
@@ -272,34 +309,53 @@ a) Pour les véhicules de tourisme au sens de l'article 1010 mentionnés au a du
 <p align="center">1 600</p>
 </td>
 <td>
-<p align="center">2 600 </p>
+<p align="center">1 600</p>
 </td>
 <td>
-<p align="center">2 600</p>
-</td>
-<td>
-<p align="center">2 600 </p>
+<p align="center">3 600</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">250 &lt; taux</p>
+<p>241 ≤ taux ≤ 245 </p>
 </td>
 <td align="center">
-<p align="center">2 600</p>
+<br/>1 600 <br/>
 </td>
 <td align="center">
-<p align="center">2 600</p>
+<br/>1 600 <br/>
+</td>
+<td align="center">1 600 </td>
+<td align="center">2 600 </td>
+<td align="center">3 600 </td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">246 ≤ taux ≤ 250 </p>
+</td>
+<td align="center">1 600 </td>
+<td align="center">1 600 </td>
+<td align="center">2 600 </td>
+<td align="center">2 600 </td>
+<td align="center">
+<br/>
+<p>3 600 <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">250 &lt; taux</p>
 </td>
 <td align="center">
-<p align="center">2 600 </p>
+<br/>2 600 <br/>
 </td>
 <td align="center">
-<p align="center">2 600 </p>
+<br/>2 600 <br/>
 </td>
-<td align="center">
-<p align="center">2 600</p>
-</td>
+<td align="center">2 600 </td>
+<td align="center">2 600 </td>
+<td align="center">3 600 </td>
 </tr>
 </tbody>
 </table>
@@ -313,52 +369,65 @@ b) Pour les véhicules de tourisme au sens de l'article 1010 mentionnés au b du
 <table>
 <tbody>
 <tr>
-<th>
-<br/>PUISSANCE FISCALE <p>(en chevaux-vapeur) <br/>
+<td>
+<p align="center">
+<b>
+<br/>PUISSANCE FISCALE </b>
 </p>
-</th>
-<th>
-<br/>MONTANT DE LA TAXE <p>(en euros) <br/>
+<p align="center">(en chevaux-vapeur) </p>
+</td>
+<td>
+<p align="center">
+<b>
+<br/>MONTANT DE LA TAXE </b>
 </p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Puissance fiscale ≤ 7</p>
-</td>
-<td align="center">
-<p align="center">0</p>
+<p align="center">(en euros) </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">8 ≤ puissance fiscale ≤11</p>
+<td>
+<p align="center">Puissance fiscale ≤ 7</p>
 </td>
-<td align="center">
-<br/>750 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">12 ≤ puissance fiscale ≤ 16 </p>
-</td>
-<td align="center">
-<br/>1 600 <br/>
+<td>
+<p align="center">
+<br/>0</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">16 &lt; puissance fiscale </p>
+<td>
+<p align="center">8 ≤ puissance fiscale ≤ 9</p>
 </td>
-<td align="center">
-<p align="center">2 600</p>
+<td>
+<p align="center">750</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">10 ≤ puissance totale ≤ 11</p>
+</td>
+<td>
+<p align="center">1 300</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">12 ≤ puissance fiscale ≤ 16 </p>
+</td>
+<td>
+<p align="center">2 300</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">16 &lt; puissance fiscale</p>
+</td>
+<td>
+<p align="center">3 600</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-Pour les véhicules introduits en France après avoir été immatriculés dans un autre pays, la taxe est réduite d'un dixième par année entamée depuis cette immatriculation.
-
-Les véhicules spécialement équipés pour fonctionner au moyen du superéthanol E85 mentionné au tableau B du 1 de l'article 265 du code des douanes bénéficient d'un abattement de 40 % sur les taux d'émissions de dioxyde de carbone, au sens de la directive 2007/46/CE, du 5 septembre 2007, précitée , figurant dans le tableau mentionné au a. Cet abattement ne s'applique pas aux véhicules dont les émissions de dioxyde de carbone sont supérieures à 250 grammes par kilomètre.
-
-IV. ― La taxe est recouvrée selon les mêmes règles et dans les mêmes conditions que la taxe prévue à l'article 1599 quindecies.
+<div align="left">Pour les véhicules introduits en France après avoir été immatriculés dans un autre pays, la taxe est réduite d'un dixième par année entamée depuis cette immatriculation.   </div>
+<div align="left">Les véhicules spécialement équipés pour fonctionner au moyen du superéthanol E85 mentionné au tableau B du 1 de l'article 265 du code des douanes bénéficient d'un abattement de 40 % sur les taux d'émissions de dioxyde de carbone, au sens de la directive 2007/46/CE, du 5 septembre 2007, précitée , figurant dans le tableau mentionné au a. Cet abattement ne s'applique pas aux véhicules dont les émissions de dioxyde de carbone sont supérieures à 250 grammes par kilomètre.  </div>
+<div align="left">IV. ― La taxe est recouvrée selon les mêmes règles et dans les mêmes conditions que la taxe prévue à l'article 1599 quindecies.</div>
