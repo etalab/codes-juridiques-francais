@@ -22,7 +22,7 @@ Le maire peut, en outre, par délégation du conseil municipal, être chargé, e
 
 10° De décider l'aliénation de gré à gré de biens mobiliers jusqu'à 4 600 euros ;
 
-11° De fixer les rémunérations et de régler les frais et honoraires des avocats, notaires, avoués, huissiers de justice et experts ;
+11° De fixer les rémunérations et de régler les frais et honoraires des avocats, notaires, huissiers de justice et experts ;
 
 12° De fixer, dans les limites de l'estimation des services fiscaux (domaines), le montant des offres de la commune à notifier aux expropriés et de répondre à leurs demandes ;
 
@@ -46,6 +46,6 @@ Le maire peut, en outre, par délégation du conseil municipal, être chargé, e
 
 22° D'exercer au nom de la commune le droit de priorité défini aux articles L. 240-1 à L. 240-3 du code de l'urbanisme ;
 
-23° De prendre les décisions mentionnées aux articles L. 523-4 et L. 523-5 du code du patrimoine relatives à la réalisation de diagnostics d'archéologie préventive prescrits pour les opérations d'aménagement ou de travaux sur le territoire de la commune ;
+23° De prendre les décisions mentionnées aux articles L. 523-4 et L. 523-5 du code du patrimoine relatives à la réalisation de diagnostics d'archéologie préventive prescrits pour les opérations d'aménagement ou de travaux sur le territoire de la commune.
 
 24° D'autoriser, au nom de la commune, le renouvellement de l'adhésion aux associations dont elle est membre.
