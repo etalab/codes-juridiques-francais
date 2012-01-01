@@ -6,4 +6,4 @@ Elles doivent être âgées de moins de six ans, sauf s'il s'agit de véhicules 
 
 Les voitures sont soumises à un contrôle périodique dans les conditions prévues à l'article R. 323-24 du code de la route.
 
-Elles doivent être munies d'une signalétique distinctive définie par arrêté conjoint du ministre chargé du tourisme et du ministre chargé de l'intérieur.
+Elles doivent être munies d'une signalétique distinctive définie par arrêté conjoint du ministre chargé du tourisme et du ministre chargé de l'intérieur. Cette signalétique doit être retirée ou occultée si le véhicule est utilisé pour une autre activité que celle de voiture de tourisme avec chauffeur.
