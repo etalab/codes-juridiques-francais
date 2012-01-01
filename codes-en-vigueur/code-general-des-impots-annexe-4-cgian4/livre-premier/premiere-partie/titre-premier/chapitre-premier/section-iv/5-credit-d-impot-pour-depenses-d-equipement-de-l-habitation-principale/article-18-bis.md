@@ -12,31 +12,37 @@ b) Acquisition de matériaux d'isolation thermique :
 
 1° Matériaux d'isolation thermique des parois opaques, dans la limite d'un plafond de dépenses fixé respectivement à 150 € et 100 €, toutes taxes comprises, par mètre carré de parois isolées par l'extérieur et par mètre carré de parois isolées par l'intérieur :
 
-Planchers bas sur sous-sol, sur vide sanitaire ou sur passage ouvert, murs en façade ou en pignon, possédant une résistance supérieure ou égale à 2, 8 mètres carrés Kelvin par watt (m2.K/W) ;
+Planchers bas sur sous-sol, sur vide sanitaire ou sur passage ouvert, possédant une résistance supérieure ou égale à 3 mètres carrés Kelvin par watt (m2.K/W) ;
 
-Toitures-terrasses possédant une résistance supérieure ou égale à 3 m2.K/W ;
+Murs en façade ou en pignon, possédant une résistance supérieure ou égale à 3,7 mètres carrés Kelvin par watt (m2.K/W) ;
 
-Planchers de combles perdus possédant une résistance thermique supérieure ou égale à 5 m2.K/W ;
+Toitures-terrasses possédant une résistance supérieure ou égale à 4,5 m2.K/W ;
 
-Rampants de toiture et plafonds de combles possédant une résistance thermique supérieure ou égale à 5 m2.K/W ;
+Planchers de combles perdus possédant une résistance thermique supérieure ou égale à 7 m2.K/W ;
+
+Rampants de toiture et plafonds de combles possédant une résistance thermique supérieure ou égale à 6 m2.K/W ;
 
 2° Matériaux d'isolation thermique des parois vitrées :
 
-Fenêtres ou portes-fenêtres composées en tout ou partie de polychlorure de vinyle (PVC), avec un coefficient de transmission thermique (Uw) inférieur ou égal à 1,6 watt par mètre carré Kelvin (W/m2.K) ; cette valeur est ramenée à 1,4 W/m2.K à partir du 1er janvier 2009 ;
+jusqu'au 31 décembre 2012, fenêtres ou portes-fenêtres composées en tout ou partie de polychlorure de vinyle (PVC), avec un coefficient de transmission thermique (Uw) inférieur ou égal à 1,4 watt par mètre carré Kelvin (W/m2.K) ;
 
-Fenêtres ou portes-fenêtres composées en tout ou partie de bois, autres que celles mentionnées ci-dessus, avec un coefficient de transmission thermique (Uw) inférieur ou égal à 1,8 W/m2.K ; cette valeur est ramenée à 1,6 W/m2.K à partir du 1er janvier 2009 ;
+jusqu'au 31 décembre 2012, fenêtres ou portes-fenêtres composées en tout ou partie de bois, autres que celles mentionnées ci-dessus, avec un coefficient de transmission thermique (Uw) inférieur ou égal à 1,6 W/m2.K ;
 
-Fenêtres ou portes-fenêtres métalliques avec un coefficient de transmission thermique (Uw) inférieur ou égal à 2 W/m2.K ; cette valeur est ramenée à 1,8 W/m2.K à partir du 1er janvier 2009 ;
+jusqu'au 31 décembre 2012, fenêtres ou portes-fenêtres métalliques avec un coefficient de transmission thermique (Uw) inférieur ou égal à 1,8 W/m2.K ;
 
-Vitrages de remplacement à isolation renforcée dénommés également vitrages à faible émissivité, installés sur une menuiserie existante et dont le coefficient de transmission thermique du vitrage (Ug) est inférieur ou égal à 1,5 W/m2.K ;
+Fenêtres ou porte-fenêtres avec un coefficient de transmission thermique (Uw) inférieur ou égal à 1,3 watt par mètre carré Kelvin (W/m2.K) et un facteur de transmission solaire (Sw) supérieur ou égal à 0,3 ou un coefficient de transmission thermique (Uw) inférieur ou égal à 1,7 watt par mètre carré Kelvin (W/m2.K) et un facteur de transmission solaire (Sw) supérieur ou égal à 0,36 ;
 
-Doubles fenêtres, consistant en la pose sur la baie existante d'une seconde fenêtre à double vitrage renforcé, dont le coefficient de transmission thermique (Uw) est inférieur ou égal à 2 W/m2.K ;
+Fenêtres en toitures avec un coefficient de transmission thermique (Uw) inférieur ou égal à 1,5 watt par mètre carré Kelvin (W/m2.K) et un facteur de transmission solaire (Sw) inférieur ou égal à 0,36 ;
 
-3° Volets isolants : volets isolants caractérisés par une résistance thermique additionnelle apportée par l'ensemble volet-lame d'air ventilé supérieure à 0,20 m2.K /W ;
+Vitrages de remplacement à isolation renforcée dénommés également vitrages à faible émissivité, installés sur une menuiserie existante et dont le coefficient de transmission thermique du vitrage (Ug) est inférieur ou égal à 1,1 W/m2.K ;
 
-4° Calorifugeage de tout ou partie d'une installation de production ou de distribution de chaleur ou d'eau chaude sanitaire avec une résistance thermique supérieure ou égale à 1 m2.K/W ;
+Doubles fenêtres, consistant en la pose sur la baie existante d'une seconde fenêtre à double vitrage renforcé, dont le coefficient de transmission thermique (Uw) est inférieur ou égal à 1,8 W/m2.K et, à partir du 1er janvier 2013, le facteur de transmission solaire (Sw) supérieur ou égal à 0,32 ;
 
-5° Portes d'entrée donnant sur l'extérieur présentant un coefficient Ud inférieur ou égal à 1,8 W/m².K ;
+3° Volets isolants : volets isolants caractérisés par une résistance thermique additionnelle apportée par l'ensemble volet-lame d'air ventilé supérieure à 0,22 m2.K/W ;
+
+4° Calorifugeage de tout ou partie d'une installation de production ou de distribution de chaleur ou d'eau chaude sanitaire avec une résistance thermique supérieure ou égale à 1,2 m2.K/W ;
+
+5° Portes d'entrée donnant sur l'extérieur présentant un coefficient Ud inférieur ou égal à 1,7 W/m2.K ;
 
 c) Acquisition d'appareils de régulation de chauffage permettant le réglage manuel ou automatique et la programmation des équipements de chauffage ou de production d'eau chaude sanitaire :
 
@@ -48,21 +54,35 @@ c) Acquisition d'appareils de régulation de chauffage permettant le réglage ma
 
 a) Equipements de production d'énergie utilisant une source d'énergie renouvelable :
 
-1° Equipements de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant à l'énergie solaire et dotés de capteurs solaires, disposant d'une certification CSTBat ou Solar Keymark ou équivalente ;
+1° Equipements de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant à l'énergie solaire et dotés de capteurs solaires, disposant d'une certification CSTBat ou Solar Keymark ou équivalente, dans la limite d'un plafond de dépenses fixé à 1 000 €, toutes taxes comprises, par mètre carré hors tout de capteurs solaires;
 
-2° Systèmes de fourniture d'électricité à partir de l'énergie solaire respectant les normes EN 61215 ou NF EN 61646 ;
+2° Systèmes de fourniture d'électricité à partir de l'énergie solaire respectant les normes EN 61215 ou NF EN 61646, dans la limite d'un plafond de dépenses fixé à 3 200 €, toutes taxes comprises, par kilowatt-crête de puissance installée ;
 
 3° Equipements de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant à l'énergie hydraulique ;
 
 4° Systèmes de fourniture d'électricité à partir de l'énergie éolienne, hydraulique ou de biomasse ;
 
-5° Equipements de chauffage ou de production d'eau chaude indépendants fonctionnant au bois ou autres biomasses, pour lesquels la concentration moyenne de monoxyde de carbone doit être inférieure ou égale à 0,3 %, et dont le rendement énergétique est supérieur ou égal à 70 % selon les référentiels des normes en vigueur, tels que :
+5° Equipements de chauffage ou de production d'eau chaude indépendants fonctionnant au bois ou autres biomasses, qui respectent les trois conditions suivantes :
 
--les poêles (norme NF EN 13240 ou NF D 35376 ou NF EN 14785 ou EN 15250) ;
+a. La concentration moyenne de monoxyde de carbone, dénommée " E ", doit être inférieure ou égale à 0,3 % ;
 
--les foyers fermés et les inserts de cheminées intérieures (norme NF EN 13 229 ou NF D 35376) ;
+b. Le rendement énergétique, dénommé " h " doit être supérieur ou égal à 70 % ;
 
--les cuisinières utilisées comme mode de chauffage (norme NF EN 12815 ou NF D 32301).
+c. L'indice de performance environnemental, dénommé " I ", doit être inférieur ou égal à 2.
+
+L'indice de performance environnemental " I " est défini par le calcul suivant :
+
+a. Pour les appareils à bûches : I = 101 532,2 × log (l + E)/h² ;
+
+b. Pour les appareils à granulés : I = 92 573,5 × log (l + E)/h².
+
+La concentration moyenne de monoxyde de carbone " E " et le rendement énergétique " h " sont mesurés selon les référentiels des normes en vigueur :
+
+a. Pour les poêles : norme NF EN 13240 ou NF EN 14785 ou EN 15250 ;
+
+b. Pour les foyers fermés et les inserts de cheminées intérieures : norme NF EN 13229 ;
+
+c. Pour les cuisinières utilisées comme mode de chauffage : norme NF EN 12815.
 
 6° Chaudières autres que celles mentionnées au 1 et au a du 2, fonctionnant au bois ou autres biomasses, de rendement énergétique, selon les référentiels des normes en vigueur, supérieur ou égal à 80 % pour les équipements à chargement manuel (norme NF EN 303. 5 ou EN 12809), supérieur ou égal à 85 % pour les équipements à chargement automatique (norme NF EN 303. 5 ou EN 12809), dont la puissance est inférieure à 300 kW ;
 
@@ -78,84 +98,70 @@ b) De pompes à chaleur spécifiques, sous réserve qu'elles respectent une inte
 
 5° (Paragraphe abrogé) ;
 
-6° Les pompes à chaleur dédiées à la production d'eau chaude sanitaire répondant, selon le référentiel de la norme d'essai EN 255-3, aux critères suivants en fonction de la technologie utilisée :
-
-<div>
+6° Les pompes à chaleur dédiées à la production d'eau chaude sanitaire répondant, selon le référentiel de la norme d'essai EN 16147, aux critères suivants en fonction de la technologie employée :
 <table>
 <tbody>
 <tr>
-<th>
-<br/>TECHNOLOGIE UTILISÉE<br/>(source) <br/>
-</th>
-<th>
-<br/>COP SUPÉRIEUR À <br/>
-</th>
-<th>
-<br/>TEMPÉRATURE D'ESSAI<br/>(source) <br/>
-</th>
-<th>
-<br/>TEMPÉRATURE<br/>de consigne de l'eau <br/>
-</th>
+<td>
+<p align="center"> TECHNOLOGIE UTILISÉE </p>
+<p align="center">(source) <br/>
+</p>
+</td>
+<td>
+<p align="center">COP </p>
+<p align="center">(supérieur à)</p>
+</td>
+<td>
+<p align="center"> TEMPÉRATURE D'EAU CHAUDE </p>
+<p align="center">de référence </p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Air ambiant <br/>
+<p align="left">Air ambiant</p>
+</td>
+<td align="center">
+<br/>2,3 <br/>
+</td>
+<td align="center">
+<br/>+ 52,5° <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Air extérieur</p>
+</td>
+<td align="center">
+<br/>2,3 <br/>
+</td>
+<td align="center">
+<br/>+ 52,5° <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Air extrait</p>
 </td>
 <td align="center">
 <br/>2,5 <br/>
 </td>
 <td align="center">
-<br/>+ 7° C <br/>
-</td>
-<td align="center">
-<br/>+ 50° <br/>
+<br/>+ 52,5° <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Air extérieur <br/>
+<p align="left">Géothermie</p>
 </td>
 <td align="center">
-<br/>2,5 <br/>
+<br/>2,3 <br/>
 </td>
 <td align="center">
-<br/>+ 7° C <br/>
-</td>
-<td align="center">
-<br/>+ 50° <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Air extrait <br/>
-</td>
-<td align="center">
-<br/>2,9 <br/>
-</td>
-<td align="center">
-<br/>+ 20° C <br/>
-</td>
-<td align="center">
-<br/>+ 50° <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Géothermie <br/>
-</td>
-<td align="center">
-<br/>2,5 <br/>
-</td>
-<td align="center">
-<br/>- <br/>
-</td>
-<td align="center">
-<br/>+ 50°<br/>
+<br/>+ 52,5°<br/>
 </td>
 </tr>
 </tbody>
 </table>
-</div>
 
 c) Equipements de raccordement à un réseau de chaleur, alimenté majoritairement par des énergies renouvelables ou par une installation de cogénération, qui s'entendent des éléments suivants :
 
