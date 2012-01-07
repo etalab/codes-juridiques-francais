@@ -1,5 +1,7 @@
 # Chapitre V : Autres modes d'information
 
+- [Section 1 : Dispositions relatives aux activités autres que les activités nucléaires](section-1)
+- [Section 2 : Dispositions propres aux activités nucléaires](section-2)
 - [Article L125-1](article-l125-1.md)
 - [Article L125-2](article-l125-2.md)
 - [Article L125-2-1](article-l125-2-1.md)

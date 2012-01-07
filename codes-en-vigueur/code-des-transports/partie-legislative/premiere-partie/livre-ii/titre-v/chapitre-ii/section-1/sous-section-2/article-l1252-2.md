@@ -12,4 +12,4 @@ Outre les officiers de police judiciaire, sont chargés de constater les infract
 
 5° Les fonctionnaires et agents des services déconcentrés relevant des ministres chargés des transports et de l'environnement assermentés et commissionnés à cet effet ;
 
-6° Les inspecteurs de la sûreté nucléaire remplissant les conditions prévues par l'article 46 de la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire.
+6° Les inspecteurs de la sûreté nucléaire remplissant les conditions prévues par l'article L596-2 du code de l'environnement.
