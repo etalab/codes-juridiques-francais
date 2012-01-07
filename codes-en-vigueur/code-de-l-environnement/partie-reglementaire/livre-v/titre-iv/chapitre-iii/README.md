@@ -13,3 +13,4 @@
 - [Section 11 : Déchets d'imprimés papiers et de papiers à usage graphique destinés à être imprimés](section-11)
 - [Section 12 : Déchets de produits textiles d'habillement, de chaussures ou de linge de maison destinés aux ménages](section-12)
 - [Section 13 : Biodéchets](section-13)
+- [Section 14 : Déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement](section-14)
