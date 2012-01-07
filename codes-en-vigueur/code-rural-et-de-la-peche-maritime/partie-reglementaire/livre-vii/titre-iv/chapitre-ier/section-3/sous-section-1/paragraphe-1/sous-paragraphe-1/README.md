@@ -5,7 +5,6 @@
 - [Article D741-39](article-d741-39.md)
 - [Article R741-36](article-r741-36.md)
 - [Article R741-37](article-r741-37.md)
-- [Article R741-38](article-r741-38.md)
 - [Article R741-40](article-r741-40.md)
 - [Article R741-41](article-r741-41.md)
 - [Article R741-42](article-r741-42.md)

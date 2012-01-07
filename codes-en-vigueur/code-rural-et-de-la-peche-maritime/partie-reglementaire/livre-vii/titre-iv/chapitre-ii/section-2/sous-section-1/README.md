@@ -12,4 +12,3 @@
 - [Article R742-9](article-r742-9.md)
 - [Article R742-10](article-r742-10.md)
 - [Article R742-11](article-r742-11.md)
-- [Article R742-12-1](article-r742-12-1.md)

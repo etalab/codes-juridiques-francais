@@ -8,10 +8,10 @@ Elles ont pour mission :
 
 2° De se prononcer annuellement sur la gestion des conseils d'administration des caisses de mutualité sociale agricole ;
 
-3° D'adopter et de modifier les statuts et le règlement intérieur des caisses de mutualité sociale agricole qui sont approuvés dans les conditions fixées par le deuxième alinéa de l'article L. 723-2 ;
+3° D'adopter et de modifier les statuts et le règlement intérieur des caisses de mutualité sociale agricole qui sont approuvés dans les conditions fixées par le deuxième alinéa de l'article L. 723-2. A défaut d'adoption des statuts par l'assemblée générale, les modèles de statuts prévus à l'article R. 723-2 sont réputés applicables à la caisse ;
 
 4° D'entendre chaque année le rapport général du conseil d'administration sur son activité au cours de l'exercice écoulé et sur son programme d'avenir, notamment en matière d'action sanitaire et sociale, et de se prononcer sur ce rapport ;
 
 5° De décider la fusion de caisses de mutualité sociale agricole dans les conditions fixées par l'article L. 723-4 ;
 
-6° D'adresser      au ministre chargé de l'agriculture et au ministre chargé de la sécurité sociale toutes propositions utiles en vue d'apporter à la réglementation en vigueur les adaptations jugées nécessaires pour une meilleure application du régime de sécurité sociale agricole.
+6° D'adresser au ministre chargé de l'agriculture et au ministre chargé de la sécurité sociale toutes propositions utiles en vue d'apporter à la réglementation en vigueur les adaptations jugées nécessaires pour une meilleure application du régime de sécurité sociale agricole.

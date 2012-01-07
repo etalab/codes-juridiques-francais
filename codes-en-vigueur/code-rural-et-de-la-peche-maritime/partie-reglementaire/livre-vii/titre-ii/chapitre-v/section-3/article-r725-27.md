@@ -19,3 +19,5 @@ II.-La demande est réputée complète si, dans le délai de trente jours à com
 La caisse de mutualité sociale agricole dispose d'un délai de trois mois, courant à compter de la date à laquelle la demande complète a été reçue, pour notifier au cotisant sa réponse. Celle-ci est motivée et signée par son directeur ou son délégataire.
 
 III.-Lorsqu'un organisme de recouvrement entend modifier pour l'avenir une décision explicite prise à la suite d'une demande présentée sur le fondement des dispositions de l'article L. 725-24, sa nouvelle décision, notifiée par lettre recommandée avec demande d'avis de réception, précise au cotisant les voies et délais de recours contre cette décision.
+
+IV. - Sur proposition du directeur général de la caisse centrale de la Mutualité sociale agricole faite chaque année avant le 31 mars, le ministre chargé de l'agriculture publie au Bulletin officiel du ministère de l'agriculture, après les avoir rendues anonymes, une sélection des décisions prises par les caisses de mutualité sociale agricole en application de l'article L. 725-24 et qui présentent une portée générale.

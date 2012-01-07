@@ -1,7 +1,6 @@
 # Paragraphe 1 : Indemnité journalière.
 
 - [Article R751-48](article-r751-48.md)
-- [Article R751-48-1](article-r751-48-1.md)
 - [Article R751-49](article-r751-49.md)
 - [Article R751-50](article-r751-50.md)
 - [Article R751-51](article-r751-51.md)
