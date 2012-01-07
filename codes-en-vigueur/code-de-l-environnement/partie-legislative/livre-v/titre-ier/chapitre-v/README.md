@@ -7,3 +7,4 @@
 - [Section 5 : Installations d'élimination de déchets](section-5)
 - [Section 6 : Installations soumises à un plan de prévention des risques technologiques](section-6)
 - [Section 7 : Installations d'élevage](section-7)
+- [Section 8 : Installations mentionnées à l'annexe I de la directive n° 2010/75/UE du 24 novembre 2010 relative aux émissions industrielles](section-8)
