@@ -10,4 +10,6 @@ L'évaluation des risques et les mesures de confinement et autres mesures de pro
 
 Un nouvel agrément doit être demandé en cas de modification notable des conditions de l'utilisation d'organismes génétiquement modifiés ayant fait l'objet de l'agrément.
 
-III. - Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+III.  ― Dans les cas où une défaillance des mesures de confinement pourrait  entraîner un danger grave, immédiat ou différé pour le personnel, la  population ou l'environnement, l'agrément est subordonné à la production  par l'exploitant d'un plan d'urgence.
+
+IV. - Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
