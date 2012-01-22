@@ -1,4 +1,4 @@
-# Titre III : Le contrôle sanitaire des animaux et aliments
+# Titre III : Qualité nutritionnelle et sécurité sanitaire des aliments
 
 - [Chapitre préliminaire : La politique publique de l'alimentation](chapitre-preliminaire)
 - [Chapitre Ier : Dispositions générales](chapitre-ier)
