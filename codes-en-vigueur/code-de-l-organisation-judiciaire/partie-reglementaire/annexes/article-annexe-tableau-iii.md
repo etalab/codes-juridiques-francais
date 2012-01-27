@@ -549,7 +549,7 @@ Liste des maisons de justice et du droit
 <p align="center">Metz</p>
 </td>
 <td align="center">
-<p align="left">Faulquemont, Woippy.</p>
+<p>Faulquemont, Woippy.</p>
 </td>
 </tr>
 <tr>
@@ -772,7 +772,7 @@ Liste des maisons de justice et du droit
 <p align="center">Troyes</p>
 </td>
 <td align="center">
-<p align="left">Troyes.</p>
+<p align="left">Romilly-sur-Seine, Troyes.</p>
 </td>
 </tr>
 <tr>
