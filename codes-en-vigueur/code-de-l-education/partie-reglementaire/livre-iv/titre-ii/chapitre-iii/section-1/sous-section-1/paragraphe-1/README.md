@@ -12,6 +12,3 @@
 - [Article D423-10](article-d423-10.md)
 - [Article D423-11](article-d423-11.md)
 - [Article D423-12](article-d423-12.md)
-- [Article D423-13](article-d423-13.md)
-- [Article D423-14](article-d423-14.md)
-- [Article D423-15](article-d423-15.md)

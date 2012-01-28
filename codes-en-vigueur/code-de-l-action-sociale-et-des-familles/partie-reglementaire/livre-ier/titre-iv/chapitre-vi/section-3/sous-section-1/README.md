@@ -9,3 +9,4 @@
 - [Article R146-22](article-r146-22.md)
 - [Article R146-23](article-r146-23.md)
 - [Article R146-24](article-r146-24.md)
+- [Article R146-24-1](article-r146-24-1.md)
