@@ -6,3 +6,4 @@
 - [Chapitre V : Régimes de soutien direct dans le cadre de la politique agricole commune](chapitre-v)
 - [Chapitre VI : Prévention et gestion des situations de crise conjoncturelle.](chapitre-vi)
 - [Chapitre VII : Certification environnementale des exploitations agricoles](chapitre-vii)
+- [Chapitre VIII :  Assistance en matière de recouvrement international](chapitre-viii)
