@@ -1,6 +1,5 @@
 # Article Annexe II
 
-<div>
 <table>
 <tbody>
 <tr>
@@ -22,7 +21,7 @@
 <p>Ajaccio</p>
 </td>
 <td valign="top" width="378">
-<p>Corse-du-Sud, Haute-Corse, sauf pour le régime agricole.</p>
+<p>Corse-du-Sud, Haute-Corse.</p>
 </td>
 </tr>
 <tr>
@@ -143,7 +142,7 @@
 <p>Marseille</p>
 </td>
 <td valign="top" width="378">
-<p>Alpes-de-Haute-Provence, Alpes-Maritimes, Hautes-Alpes, Bouches-du-Rhône, Var, Vaucluse et, pour le régime agricole, Corse-du-Sud et Haute-Corse.</p>
+<p>Alpes-de-Haute-Provence, Alpes-Maritimes, Hautes-Alpes, Bouches-du-Rhône, Var, Vaucluse. </p>
 </td>
 </tr>
 <tr>
@@ -302,4 +301,3 @@
 </tr>
 </tbody>
 </table>
-</div>
