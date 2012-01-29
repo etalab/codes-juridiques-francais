@@ -20,6 +20,8 @@ Les dépens afférents aux instances, actes et procédures d'exécution comprenn
 
 9° Les frais d'interprétariat et de traduction rendus nécessaires par les mesures d'instruction effectuées à l'étranger à la demande des juridictions dans le cadre du règlement (CE) n° 1206/2001 du Conseil du 28 mai 2001 relatif à la coopération entre les juridictions des Etats membres dans le domaine de l'obtention des preuves en matière civile et commerciale ;
 
-10° Les enquêtes sociales ordonnées en application des articles 1072,1171 et 1221 ;
+10° Les enquêtes sociales ordonnées en application des articles 1072, 1171 et 1221 ;
 
-11° La rémunération de la personne désignée par le juge pour entendre le mineur, en application de l'article 388-1 du code civil.
+11° La rémunération de la personne désignée par le juge pour entendre le mineur, en application de l'article 388-1 du code civil ;
+
+12° Les rémunérations et frais afférents aux mesures, enquêtes et examens requis en application des dispositions de l'article 1210-8.
