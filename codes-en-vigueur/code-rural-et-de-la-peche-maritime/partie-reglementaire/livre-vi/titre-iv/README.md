@@ -7,3 +7,4 @@
 - [Chapitre V : Dispositions particulières relatives aux conditions de production pour le secteur des vins, eaux-de-vie et autres boissons alcoolisées bénéficiant d'une appellation d'origine.](chapitre-v)
 - [Chapitre VI : Dispositions particulières relatives aux vins 
 bénéficiant d'une indication géographique protégée](chapitre-vi)
+- [Chapitre VII : Dispositions particulières relatives à l'écolabel des produits de la pêche maritime](chapitre-vii)
