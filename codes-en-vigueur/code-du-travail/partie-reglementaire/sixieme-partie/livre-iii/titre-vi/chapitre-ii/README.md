@@ -11,3 +11,4 @@
 - [Article R6362-6](article-r6362-6.md)
 - [Article R6362-7](article-r6362-7.md)
 - [Article R6362-8](article-r6362-8.md)
+- [Article R6362-9](article-r6362-9.md)
