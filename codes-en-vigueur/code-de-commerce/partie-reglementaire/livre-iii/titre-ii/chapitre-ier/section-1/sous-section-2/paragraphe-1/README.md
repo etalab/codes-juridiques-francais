@@ -9,4 +9,6 @@
 - [Article R321-41](article-r321-41.md)
 - [Article R321-42](article-r321-42.md)
 - [Article R321-43](article-r321-43.md)
+- [Article R321-43-1](article-r321-43-1.md)
+- [Article R321-43-2](article-r321-43-2.md)
 - [Article R321-44](article-r321-44.md)

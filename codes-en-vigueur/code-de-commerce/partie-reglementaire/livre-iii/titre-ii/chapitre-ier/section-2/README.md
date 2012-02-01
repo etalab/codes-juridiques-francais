@@ -1,4 +1,4 @@
-# Section 2 : De la libre prestation de services de l'activité de ventes volontaires de meubles aux enchères publiques par les ressortissants des Etats membres de la Communauté européenne et des Etats parties à l'accord sur l'Espace économique européen.
+# Section 2 : De la libre prestation de services de l'activité de ventes volontaires de meubles aux enchères publiques par les ressortissants des Etats membres de l'Union européenne et des Etats parties à l'accord sur l'Espace économique européen.
 
 - [Article R321-56](article-r321-56.md)
 - [Article R321-57](article-r321-57.md)

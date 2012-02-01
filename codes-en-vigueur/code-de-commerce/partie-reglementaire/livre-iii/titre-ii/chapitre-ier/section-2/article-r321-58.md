@@ -2,7 +2,7 @@
 
 La déclaration prévue à l'article L. 321-24 est accompagnée des pièces suivantes :
 
-1° Les documents justifiant l'identité et la nationalité de l'auteur de la déclaration ou, s'il s'agit d'une personne morale relevant de la législation d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen, une copie de ses statuts et la justification de son immatriculation dans un registre public ;
+1° Les documents justifiant l'identité et la nationalité de l'auteur de la déclaration ou, s'il s'agit d'une personne morale relevant de la législation d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen, une copie de ses statuts et la justification de son immatriculation dans un registre public ;
 
 2° Les documents justifiant de la légalité de l'exercice, par le déclarant, de l'activité de ventes volontaires de meubles aux enchères publiques dans l'Etat d'établissement, de la qualité professionnelle du déclarant et, s'il y a lieu, du nom de l'organisme professionnel dont il relève ;
 
