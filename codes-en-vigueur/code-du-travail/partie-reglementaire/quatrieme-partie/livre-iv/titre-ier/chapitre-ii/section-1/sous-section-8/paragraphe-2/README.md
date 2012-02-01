@@ -2,4 +2,3 @@
 
 - [Sous-paragraphe 1 : Examens médicaux et fiche d'aptitude](sous-paragraphe-1)
 - [Sous-paragraphe 2 : Dossier médical](sous-paragraphe-2)
-- [Sous-paragraphe 3 : Attestation d'exposition](sous-paragraphe-3)
