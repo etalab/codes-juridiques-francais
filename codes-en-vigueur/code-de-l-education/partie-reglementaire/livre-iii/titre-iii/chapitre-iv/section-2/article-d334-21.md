@@ -20,6 +20,6 @@ Le recteur peut nommer des examinateurs adjoints et des correcteurs adjoints pou
 
 Dans les sections comportant des enseignements artistiques spécialisés où interviennent des professionnels de façon continue, ceux-ci peuvent participer aux opérations d'évaluation et aux jurys du baccalauréat.
 
-Dans les centres ouverts à l'étranger, les jurys sont constitués selon les mêmes modalités ; toutefois, à défaut d'un président membre de l'enseignement supérieur, un inspecteur d'académie ou un professeur agrégé de l'enseignement du second degré peut être désigné.
+Dans les centres ouverts à l'étranger, les jurys sont constitués selon les mêmes modalités ; toutefois, à défaut d'un président membre de l'enseignement supérieur, un   directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ou un professeur agrégé de l'enseignement du second degré peut être désigné.
 
 Au sein des jurys conduisant à la délivrance du baccalauréat option internationale ou à la délivrance de baccalauréats binationaux, le recteur peut désigner des personnels d'inspection ou d'enseignement étrangers qui ne peuvent constituer plus de la moitié des membres du jury, ni exercer la fonction de président ou président adjoint.

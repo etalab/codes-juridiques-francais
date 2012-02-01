@@ -4,7 +4,7 @@ Le conseil d'établissement des collèges et des lycées mentionnés à l'articl
 
 Toutefois, la représentation des collectivités locales concerne exclusivement la collectivité qui assure la gestion financière de l'établissement. Cette représentation est fixée par la collectivité locale et est au plus égale à quatre ou trois membres, selon que le conseil d'établissement doit comprendre 30 ou 24 membres.
 
-En outre, lorsque le conseil d'établissement comprend une personnalité qualifiée, celle-ci est désignée par la collectivité qui assure la gestion financière de l'établissement. Si le conseil d'établissement comprend deux personnalités qualifiées, l'une est désignée, sur proposition du chef d'établissement, par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, l'autre par la collectivité qui assure la gestion financière de l'établissement.
+En outre, lorsque le conseil d'établissement comprend une personnalité qualifiée, celle-ci est désignée par la collectivité qui assure la gestion financière de l'établissement. Si le conseil d'établissement comprend deux personnalités qualifiées, l'une est désignée, sur proposition du chef d'établissement, par               le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, l'autre par la collectivité qui assure la gestion financière de l'établissement.
 
 Les membres du conseil d'établissement sont désignés conformément aux dispositions des articles D. 422-22 à D. 422-30.
 

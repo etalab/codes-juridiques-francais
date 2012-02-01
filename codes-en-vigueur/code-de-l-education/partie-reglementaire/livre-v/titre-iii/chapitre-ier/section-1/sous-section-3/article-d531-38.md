@@ -1,6 +1,6 @@
 # Article D531-38
 
-Pour les élèves mentionnés au troisième alinéa de l'article D. 531-37, la décision d'attribution de la bourse au mérite relève de la compétence de l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, après avis d'une commission départementale qu'il préside et dont il désigne les membres pour une durée de trois ans.
+Pour les élèves mentionnés au troisième alinéa de l'article D. 531-37, la décision d'attribution de la bourse au mérite relève de la compétence de               le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, après avis d'une commission départementale qu'il préside et dont il désigne les membres pour une durée de trois ans.
 
 Cette commission est composée de dix-sept membres :
 

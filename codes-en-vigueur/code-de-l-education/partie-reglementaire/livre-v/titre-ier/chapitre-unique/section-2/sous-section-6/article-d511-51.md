@@ -4,7 +4,7 @@ La commission académique est présidée par le recteur ou son représentant.
 
 Elle comprend en outre cinq membres :
 
-1° Un inspecteur d'académie, directeur des services départementaux de l'éducation nationale ;
+1° Un             directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ;
 
 2° Un chef d'établissement ;
 

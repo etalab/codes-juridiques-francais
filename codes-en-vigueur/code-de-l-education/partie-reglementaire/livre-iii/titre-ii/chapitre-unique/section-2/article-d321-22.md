@@ -10,12 +10,12 @@ Il est procédé par l'équipe pédagogique, éventuellement sur demande des par
 
 Toute proposition acceptée devient décision.
 
-Si les parents contestent la proposition, ils peuvent, dans le même délai, saisir une commission de recours constituée à l'initiative d'au moins une école privée. A cet effet, le directeur de l'école privée sous contrat, dans le délai de huit jours suivant leur refus de la proposition, informe les parents de l'existence de la commission et de la possibilité qu'ils ont de la saisir par son intermédiaire. La commission de recours est composée de deux directeurs d'écoles privées sous contrat au moins et de deux maîtres contractuels ou agréés au moins. Les membres de la commission de recours ne siègent pas lorsqu'est examiné le recours concernant un enfant de l'école dans laquelle ils exercent. La composition et les règles de fonctionnement de la commission sont communiquées à l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.
+Si les parents contestent la proposition, ils peuvent, dans le même délai, saisir une commission de recours constituée à l'initiative d'au moins une école privée. A cet effet, le directeur de l'école privée sous contrat, dans le délai de huit jours suivant leur refus de la proposition, informe les parents de l'existence de la commission et de la possibilité qu'ils ont de la saisir par son intermédiaire. La commission de recours est composée de deux directeurs d'écoles privées sous contrat au moins et de deux maîtres contractuels ou agréés au moins. Les membres de la commission de recours ne siègent pas lorsqu'est examiné le recours concernant un enfant de l'école dans laquelle ils exercent. La composition et les règles de fonctionnement de la commission sont communiquées au directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie.
 
 La commission procède à un nouvel examen de la situation de l'enfant.
 
-L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, ou son représentant, peut assister aux réunions de la commission de recours.
+Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, ou son représentant, peut assister aux réunions de la commission de recours.
 
 Les décisions prises par la commission de recours sont définitives.
 
-Elles sont communiquées aux parents et à l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.
+Elles sont communiquées aux parents et au directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie.

@@ -4,4 +4,4 @@ La famille ou l'élève majeur peut saisir une commission d'appel. En cas d'appe
 
 Les décisions prises par la commission d'appel valent décisions d'orientation ou de redoublement définitives.
 
-La composition et les règles de fonctionnement de la commission, ainsi que les décisions qu'elle prend, sont communiquées à l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.
+La composition et les règles de fonctionnement de la commission, ainsi que les décisions qu'elle prend, sont communiquées au directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie.

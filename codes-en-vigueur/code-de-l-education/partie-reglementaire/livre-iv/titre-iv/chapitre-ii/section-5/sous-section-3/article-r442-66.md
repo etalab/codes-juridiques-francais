@@ -6,9 +6,9 @@ La commission de concertation instituée au chef-lieu du département comprend :
 
 a) Le préfet du département, président ;
 
-b) L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale ;
+b) Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ;
 
-c) Deux représentants des services académiques et deux personnalités qualifiées dans les domaines économique, social, éducatif ou culturel, désignés par le préfet du département sur proposition de l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale ;
+c) Deux représentants des services académiques et deux personnalités qualifiées dans les domaines économique, social, éducatif ou culturel, désignés par le préfet du département sur proposition du directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ;
 
 2° Au titre des représentants des collectivités territoriales :
 

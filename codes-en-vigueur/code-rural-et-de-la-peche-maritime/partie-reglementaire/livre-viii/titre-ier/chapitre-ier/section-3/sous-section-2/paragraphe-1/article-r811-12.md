@@ -6,9 +6,9 @@ Le conseil d'administration de l'établissement public local comprend trente mem
 
 a) Le directeur départemental de l'agriculture et de la forêt ou son représentant ;
 
-b) Le directeur régional des entreprises, de la concurrence, de la consommation, du travail et  de l'emploi  ou son représentant ;
+b) Le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou son représentant ;
 
-c) L'inspecteur d'académie, directeur des services départementaux de l'éducation ou son représentant ;
+c) Le            directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ou son représentant ;
 
 d) Le directeur du centre d'information et d'orientation ou son représentant ;
 
@@ -40,6 +40,6 @@ d) Cinq représentants des organisations professionnelles et syndicales représe
 
 Pour l'ensemble des membres titulaires, désignés ou élus et en nombre égal à ceux-ci, des suppléants sont désignés ou élus dans les mêmes conditions que les titulaires. Le représentant suppléant siège au conseil d'administration en cas d'empêchement du titulaire.
 
-Le directeur de l'établissement public local, son adjoint, le gestionnaire, l'agent comptable et les directeurs des centres assistent avec voix consultative aux séances du conseil d'administration. Le         directeur régional de l'alimentation, de l'agriculture et de la forêt  ou son représentant peut assister avec voix consultative aux réunions du conseil d'administration.
+Le directeur de l'établissement public local, son adjoint, le gestionnaire, l'agent comptable et les directeurs des centres assistent avec voix consultative aux séances du conseil d'administration. Le directeur régional de l'alimentation, de l'agriculture et de la forêt ou son représentant peut assister avec voix consultative aux réunions du conseil d'administration.
 
 Dans l'hypothèse où l'établissement public local assure principalement des formations professionnelles continues, la représentation des élèves et des parents est respectivement remplacée, en tout ou partie, par celle des stagiaires et des anciens stagiaires.

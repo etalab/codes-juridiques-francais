@@ -14,4 +14,4 @@ Le jury est composé :
 
 Si cette proportion n'est pas atteinte en raison de l'absence d'un ou plusieurs membres, le jury peut néanmoins délibérer valablement.
 
-Dans les centres ouverts à l'étranger, les jurys sont constitués selon les mêmes modalités ; toutefois, à défaut d'un président membre de l'enseignement supérieur, un inspecteur d'académie ou un professeur agrégé de l'enseignement du second degré peut être désigné.
+Dans les centres ouverts à l'étranger, les jurys sont constitués selon les mêmes modalités ; toutefois, à défaut d'un président membre de l'enseignement supérieur, un   directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ou un professeur agrégé de l'enseignement du second degré peut être désigné.

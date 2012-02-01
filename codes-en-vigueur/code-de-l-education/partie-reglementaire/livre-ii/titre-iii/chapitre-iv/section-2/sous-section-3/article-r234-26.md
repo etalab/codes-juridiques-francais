@@ -4,7 +4,7 @@ Le conseil de l'éducation nationale, selon que les questions soumises à délib
 
 Les présidents des conseils de l'éducation nationale sont suppléés dans les conditions ci-après :
 
-1° En cas d'empêchement du préfet de région, le conseil est présidé par le recteur d'académie ou, en cas d'empêchement de ce dernier, par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale. Lorsque les questions examinées concernent l'enseignement agricole, le préfet est suppléé par le directeur départemental de l'agriculture ;
+1° En cas d'empêchement du préfet de région, le conseil est présidé par le recteur d'académie ou, en cas d'empêchement de ce dernier, par               le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie. Lorsque les questions examinées concernent l'enseignement agricole, le préfet est suppléé par le directeur départemental de l'agriculture ;
 
 2° En cas d'empêchement du président du conseil régional, le conseil de l'éducation nationale est présidé par un conseiller régional délégué à cet effet par le président du conseil régional ;
 

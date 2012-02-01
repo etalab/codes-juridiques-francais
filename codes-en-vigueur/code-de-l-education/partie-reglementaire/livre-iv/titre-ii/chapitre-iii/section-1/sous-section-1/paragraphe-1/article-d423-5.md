@@ -1,6 +1,6 @@
 # Article D423-5
 
-Le recteur ou son représentant, l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, ou son représentant assistent de droit aux séances du conseil interétablissements.
+Le recteur ou son représentant,               le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, ou son représentant assistent de droit aux séances du conseil interétablissements.
 
 Participent aux séances du conseil, avec voix consultative :
 

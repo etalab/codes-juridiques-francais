@@ -1,6 +1,6 @@
 # Article D321-8
 
-Les recours formés par les parents de l'élève, ou son représentant légal, contre les décisions prises par le conseil des maîtres sont examinés par une commission départementale d'appel présidée par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.
+Les recours formés par les parents de l'élève, ou son représentant légal, contre les décisions prises par le conseil des maîtres sont examinés par une commission départementale d'appel présidée par               le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie.
 
 La commission départementale d'appel comprend des inspecteurs responsables des circonscriptions du premier degré, des directeurs d'école, des enseignants du premier degré, des parents d'élèves et, au moins, un psychologue scolaire, un médecin de l'éducation nationale, un principal de collège et un professeur du second degré enseignant en collège. Sa composition et son fonctionnement sont précisés par arrêté du ministre chargé de l'éducation.
 

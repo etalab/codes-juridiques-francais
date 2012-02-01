@@ -6,7 +6,7 @@ Ce conseil comporte les membres suivants :
 
 1° Le recteur d'académie ou son représentant, président ;
 
-2° Un inspecteur d'académie, directeur des services départementaux de l'éducation nationale ;
+2° Un             directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ;
 
 3° Un inspecteur d'académie-inspecteur pédagogique régional ;
 
