@@ -11,7 +11,6 @@
 - [Article R*222-17](article-r-222-17.md)
 - [Article R*222-18](article-r-222-18.md)
 - [Article R*222-19](article-r-222-19.md)
-- [Article R222-19](article-r222-19.md)
 - [Article R222-19-1](article-r222-19-1.md)
 - [Article R222-19-2](article-r222-19-2.md)
 - [Article R222-19-3](article-r222-19-3.md)
