@@ -10,4 +10,4 @@ Leur diffusion s'accompagne dans tous les cas d'une identification suffisante du
 
 La cession du droit d'exploitation d'une manifestation ou d'une compétition sportive à un service de communication au public par voie électronique ne fait pas obstacle à la réalisation et à la diffusion gratuite par tout service de radiodiffusion sonore, sur tout ou partie du territoire, en direct ou en différé, du commentaire oral de cette manifestation ou de cette compétition.
 
-Un décret en Conseil d'Etat, pris après avis du Conseil supérieur de l'audiovisuel fixe       les conditions d'application du présent article.
+Le Conseil supérieur de l'audiovisuel fixe les conditions de diffusion des brefs extraits prévus au présent article, après consultation du Comité national olympique et sportif français et des organisateurs de manifestations sportives mentionnés à l'article L. 331-5.
