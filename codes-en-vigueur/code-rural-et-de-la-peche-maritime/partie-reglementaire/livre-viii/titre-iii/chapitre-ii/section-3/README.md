@@ -1,4 +1,4 @@
-# Section 3 : Organisation du centre.
+# Section 3 : Organisation de l'institut
 
 - [Article R832-11](article-r832-11.md)
 - [Article R832-12](article-r832-12.md)
