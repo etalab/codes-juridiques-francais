@@ -8,7 +8,7 @@ Le collège national de la direction générale des finances publiques mentionn�
 
 ― du chef du service juridique de la fiscalité ou de son représentant ;
 
-― du sous-directeur de la sous-direction du contrôle fiscal ou de son représentant ;
+― du          chef du service du contrôle fiscal ou de son représentant ;
 
 ― du directeur en charge de la direction des vérifications nationales et internationales ou de son représentant ;
 
