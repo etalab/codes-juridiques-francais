@@ -5,3 +5,5 @@ Les déclarations de candidature en vue du premier tour de scrutin sont reçues 
 Elles sont rédigées sur papier libre et font apparaître l'ordre des candidats au sein de chaque section électorale.
 
 Chaque déclaration doit être accompagnée de la copie d'une des pièces mentionnées au I de l'article R. 109-2.
+
+Elle est également accompagnée des pièces prévues, selon le cas, au 1° ou au 2° du II de l'article R. 99.
