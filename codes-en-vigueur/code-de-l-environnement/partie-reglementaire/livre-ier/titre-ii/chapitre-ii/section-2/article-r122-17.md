@@ -44,4 +44,6 @@ Sous réserve, le cas échéant, des règles particulières applicables à chaqu
 
 18° Le plan d'action pour le milieu marin ;
 
-19° Chartes des parcs nationaux prévues par l'article L. 331-3.
+19° Chartes des parcs nationaux prévues par l'article L. 331-3 ;
+
+20° Le document stratégique de façade.
