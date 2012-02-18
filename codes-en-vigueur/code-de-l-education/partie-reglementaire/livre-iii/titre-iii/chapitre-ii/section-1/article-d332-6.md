@@ -6,7 +6,7 @@ A tout moment de la scolarité, une aide spécifique est apportée aux élèves 
 
 Ce dispositif définit un projet individualisé qui doit permettre la progression de l'élève et son évaluation. Les parents sont associés au suivi de ce dispositif. A compter de la rentrée scolaire 2006, le programme personnalisé de réussite éducative prévu par l'article L. 311-3-1 est mis en place dans ce cadre. Il s'articule, le cas échéant, avec un dispositif de réussite éducative ;
 
-2° Des dispositifs spécifiques à vocation transitoire comportant, le cas échéant, des aménagements d'horaires et de programmes, proposés à l'élève avec l'accord de ses parents ou de son représentant légal ;
+2° Des dispositifs spécifiques à vocation transitoire comportant, le cas échéant, des aménagements d'horaires et de programmes, proposés à l'élève avec l'accord de ses parents ou de son représentant légal, parmi lesquels, durant les deux derniers niveaux de l'enseignement des collèges, des dispositifs d'alternance personnalisés permettant une découverte approfondie des métiers et des formations et comprenant notamment le suivi de stages dans les conditions définies à l'article L. 332-3 ainsi que de stages dans des centres de formation d'apprentis et des sections d'apprentissage ;
 
 3° Des aménagements au profit des élèves intellectuellement précoces ou manifestant des aptitudes particulières. En accord avec les parents ou le représentant légal, leur scolarité peut être accélérée en fonction de leur rythme d'apprentissage.
 
