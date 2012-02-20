@@ -1,6 +1,7 @@
 # Sous-section 4 : Information et protection des données.
 
 - [Article R253-13](article-r253-13.md)
+- [Article R253-13-1](article-r253-13-1.md)
 - [Article R253-14](article-r253-14.md)
 - [Article R253-15](article-r253-15.md)
 - [Article R253-15-1](article-r253-15-1.md)
