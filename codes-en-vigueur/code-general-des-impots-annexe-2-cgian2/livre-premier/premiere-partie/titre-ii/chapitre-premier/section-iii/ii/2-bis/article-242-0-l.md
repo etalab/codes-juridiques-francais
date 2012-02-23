@@ -1,5 +1,3 @@
 # Article 242-0 L
 
-Les dispositions des articles 242-0 A à 242-0 K sont applicables aux crédits de taxe sur la valeur ajoutée déductible des établissements publics.
-
-Lorsque les demandes de remboursement excèdent un million de francs, la décision de restitution est prononcée par le ministre de l'économie et des finances.
+Le remboursement du crédit de taxe déductible mentionné au b du 3 de l'article 1693 ter du code général des impôts est opéré au profit du redevable du groupe selon les conditions et modalités décrites au 1 du I et au premier alinéa du II de l'article 242-0 C.
