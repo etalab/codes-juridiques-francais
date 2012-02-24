@@ -4,4 +4,4 @@ Le Conseil supérieur de l'aviation civile peut être consulté par le ministre 
 
 Le Conseil supérieur de l'aviation civile peut, lorsqu'il en décide à la majorité, présenter au ministre chargé de l'aviation civile toute proposition portant sur des questions intéressant le transport aérien.
 
-Le ministre chargé de l'aviation civile peut saisir le Conseil supérieur de l'aviation civile de tout avis du Conseil national des transports qui intéresse le transport aérien. Il transmet les avis du Conseil supérieur de l'aviation civile au Conseil national des transports sur toute question relevant également de la compétence de ce dernier.
+Le ministre chargé de l'aviation civile peut saisir le Conseil supérieur de l'aviation civile de tout avis du   Conseil supérieur des transports terrestres et de l'intermodalité qui intéresse le transport aérien. Il transmet les avis du Conseil supérieur de l'aviation civile au   Conseil supérieur des transports terrestres et de l'intermodalité sur toute question relevant également de la compétence de ce dernier.
