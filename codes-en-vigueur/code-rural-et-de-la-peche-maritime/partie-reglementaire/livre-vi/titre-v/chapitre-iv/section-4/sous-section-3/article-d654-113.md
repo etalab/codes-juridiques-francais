@@ -2,7 +2,7 @@
 
 Tout transfert de références laitières doit faire l'objet d'une demande déposée auprès du préfet du département où se situe l'exploitation ou la partie d'exploitation reprise par la personne physique ou morale qui reprend celle-ci, dans un délai de six mois à compter, selon le cas, de la date de la reprise des terres, de la constitution de la société, ou de l'apport.
 
-La demande est transmise au producteur cédant qui peut solliciter sous un mois l'application du troisième alinéa de l'article D. 654-104.
+La demande est transmise au producteur cédant qui peut solliciter sous un mois l'application du deuxième alinéa de l'article D. 654-104.
 
 Le préfet du département prend la décision de transfert et notifie les quantités de référence transférées et celles ajoutées à la réserve au demandeur, au producteur cédant, aux acheteurs de lait et à l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer).
 
