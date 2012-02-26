@@ -12,7 +12,7 @@ I.-Les collectivités territoriales et leurs groupements ainsi que les syndicats
 
 5° La défense contre les inondations et contre la mer ;
 
-6° La lutte contre la pollution ;
+6° La lutte contre la pollution des eaux terrestres et marines, y compris les pollutions marines orphelines ;
 
 7° La protection et la conservation des eaux superficielles et souterraines ;
 
