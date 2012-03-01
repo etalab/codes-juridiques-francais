@@ -2,8 +2,7 @@
 
 - [CHAPITRE PRELIMINAIRE : Licenciement pour motif économique.](chapitre-preliminaire)
 - [CHAPITRE Ier : Généralités.](chapitre-ier)
-- [CHAPITRE II : Dispositions relatives au contrat emploi-solidarité.](chapitre-ii)
-- [Chapitre III : Dispositions relatives aux contrats de retour à l'emploi](chapitre-iii)
+- [Chapitre II : Contrat unique d'insertion](chapitre-ii)
 - [Chapitre IV : Dispositions particulières relatives à l'emploi des jeunes](chapitre-iv)
 - [Chapitre VI : Placement](chapitre-vi)
 - [Chapitre VII : Indemnisation du chômage](chapitre-vii)
