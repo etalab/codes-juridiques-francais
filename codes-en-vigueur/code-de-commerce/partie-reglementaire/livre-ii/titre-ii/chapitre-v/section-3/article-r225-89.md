@@ -6,4 +6,4 @@ Il a également le droit, à compter de la convocation de l'assemblée général
 
 Il peut aussi, à compter de la convocation de l'assemblée générale prévue à l'article L. 225-101, prendre connaissance dans les conditions prévues à l'alinéa précédent du texte des résolutions proposées, du rapport du conseil d'administration ou du directoire et du rapport des commissaires prévu à l'article L. 225-101.
 
-Sauf en ce qui concerne l'inventaire, le droit de prendre connaissance emporte celui de prendre copie.
+Le droit de prendre connaissance emporte celui de prendre copie.
