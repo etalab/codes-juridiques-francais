@@ -4,7 +4,7 @@ Le panneau prévu à l'article A. 424-1 (1) indique le nom, la raison sociale ou
 
 Il indique également, en fonction de la nature du projet :
 
-a) Si le projet prévoit des constructions, la superficie du plancher hors oeuvre nette autorisée ainsi que la hauteur de la ou des constructions, exprimée en mètres par rapport au sol naturel ;
+a) Si le projet prévoit des constructions, la surface de plancher autorisée ainsi que la hauteur de la ou des constructions, exprimée en mètres par rapport au sol naturel ;
 
 b) Si le projet porte sur un lotissement, le nombre maximum de lots prévus ;
 
