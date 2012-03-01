@@ -6,7 +6,7 @@ I.-Les communautés urbaines existant à la date de promulgation de la loi n° 9
 
 2° Création et réalisation de zones d'aménagement concerté ; actions de développement économique ; création et équipement des zones d'activité industrielle, tertiaire, artisanale, touristique, portuaire ou aéroportuaire ; actions de réhabilitation d'intérêt communautaire ;
 
-3° Prise en considération d'un programme d'aménagement d'ensemble et détermination de secteurs d'aménagement mentionnés à l'article L. 332-9 du code de l'urbanisme ;
+3° Abrogé ;
 
 4° Construction, aménagement et entretien des locaux scolaires dans les zones et secteurs mentionnés aux 2° et 3° et réalisés ou déterminés par la communauté ; à l'expiration d'un délai de dix ans à dater de leur mise en service, la propriété et l'entretien de ces locaux sont transférés, sur sa demande, à la commune sur le territoire de laquelle ils sont situés ; en ce cas, les conditions de prise en charge des annuités d'emprunt afférentes à ces locaux sont déterminées par délibérations concordantes du conseil de communauté et du conseil municipal intéressé ;
 
