@@ -8,4 +8,4 @@ Le maître d'ouvrage de tout bâtiment neuf ou de partie nouvelle de bâtiment e
 
 -le coût annuel d'exploitation du système prévu.
 
-Cette attestation est établie sur un formulaire conforme à des prescriptions fixées par arrêté. Elle est jointe à la demande de permis de construire dans les conditions prévues au g de l'article R. 431-16 du code de l'urbanisme.
+Cette attestation est établie sur un formulaire conforme à des prescriptions fixées par arrêté. Elle est jointe à la demande de permis de construire dans les conditions prévues au         i de l'article R. 431-16 du code de l'urbanisme.
