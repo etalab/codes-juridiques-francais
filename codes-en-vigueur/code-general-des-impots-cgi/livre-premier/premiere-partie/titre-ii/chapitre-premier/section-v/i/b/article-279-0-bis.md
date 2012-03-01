@@ -6,9 +6,9 @@
 
 a) Qui concourent à la production d'un immeuble neuf au sens du 2° du 2 du I de l'article 257 ;
 
-b) A l'issue desquels la surface de plancher hors œuvre nette des locaux existants, majorée, le cas échéant, des surfaces des bâtiments d'exploitations agricoles mentionnées au d de l'article R. 112-2 du code de l'urbanisme, est augmentée de plus de 10 %.
+b) A l'issue desquels la surface de plancher des locaux existants, majorée, le cas échéant, des surfaces des bâtiments d'exploitations agricoles mentionnées au d de l'article R. 112-2 du code de l'urbanisme, est augmentée de plus de 10 %.
 
-2 bis. Par dérogation au 1, le taux prévu à l'article 278 s'applique aux travaux de nettoyage ainsi qu'aux travaux d'aménagement et d'entretien des espaces verts.
+2 bis. Par dérogation au 1, le taux prévu à l'article 278 s'applique  aux travaux de nettoyage ainsi qu'aux travaux d'aménagement et d'entretien des espaces verts.
 
 3. Le taux réduit prévu au 1 est applicable aux travaux facturés au propriétaire ou, le cas échéant, au syndicat de copropriétaires, au locataire, à l'occupant des locaux ou à leur représentant à condition que le preneur atteste que ces travaux se rapportent à des locaux d'habitation achevés depuis plus de deux ans et ne répondent pas aux conditions mentionnées au 2. Le prestataire est tenu de conserver cette attestation à l'appui de sa comptabilité.
 
