@@ -5,4 +5,3 @@
 - [Titre Ier quater : Autres impositions perçues au profit des collectivités territoriales ou de certains établissements publics](titre-ier-quater)
 - [Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers](titre-ii)
 - [Titre III :  Dispositions communes aux titres Ier à II](titre-iii)
-- [Titre premier : Impositions communales](titre-premier)

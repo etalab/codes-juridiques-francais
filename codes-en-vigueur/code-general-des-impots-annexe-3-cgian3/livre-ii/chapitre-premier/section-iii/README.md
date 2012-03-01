@@ -6,4 +6,3 @@
 - [III : Paiement fractionné ou différé des droits](iii)
 - [V : Droits de timbre](v)
 - [VI : Taxes sur les véhicules à moteur](vi)
-- [VII : Taxe locale d'équipement](vii)
