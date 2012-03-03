@@ -2,7 +2,7 @@
 
 - [Titre préliminaire : Conseil supérieur de la prévention des risques technologiques](titre-preliminaire)
 - [Titre Ier : Installations classées pour la protection de l'environnement](titre-ier)
-- [Titre II : Produits chimiques et biocides](titre-ii)
+- [Titre II : Produits chimiques, biocides et substances à l'état nanoparticulaire](titre-ii)
 - [Titre III : Organismes génétiquement modifiés](titre-iii)
 - [Titre IV : Déchets](titre-iv)
 - [Titre V : Dispositions particulières à certains ouvrages ou certaines installations](titre-v)
