@@ -16,7 +16,7 @@ Dans le cadre de ses attributions fixées à l'article L. 722-1, le conseil d'ad
 
 Il arrête son règlement intérieur.
 
-Il émet un avis sur les nominations aux emplois de directeur général adjoint, de secrétaire général, de secrétaire général adjoint et de chef de division.
+Il émet un avis sur les nominations aux emplois de secrétaire général et de chef de division.
 
 Il étudie et propose au Gouvernement toutes mesures propres à améliorer le sort des réfugiés et le fonctionnement de l'office.
 
