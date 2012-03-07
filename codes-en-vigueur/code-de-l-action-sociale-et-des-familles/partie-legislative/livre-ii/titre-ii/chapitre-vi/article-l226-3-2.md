@@ -1,0 +1,7 @@
+# Article L226-3-2
+
+Dans le cas où la procédure de transmission d'informations prévue à l'article L. 221-3 est rendue impossible par l'absence d'information sur la nouvelle adresse de la famille et si l'interruption de l'évaluation ou du traitement de l'information préoccupante, de la prestation d'aide sociale à l'enfance ou de la mesure judiciaire de protection de l'enfance met en danger le mineur concerné, le président du conseil général du département d'origine avise sans délai l'autorité judiciaire de la situation en application de l'article L. 226-4.
+
+Le président du conseil général du département d'origine peut également, pour ses missions de protection de l'enfance, saisir la caisse primaire d'assurance maladie et la caisse d'allocations familiales compétentes, qui lui communiquent la nouvelle adresse de la famille dans un délai de dix jours à compter de la réception de la demande et dans le respect des dispositions relatives au secret professionnel. A cette fin, la caisse primaire d'assurance maladie peut accéder aux informations contenues dans le répertoire national inter-régimes des bénéficiaires de l'assurance maladie visé à l'article L. 161-32 du code de la sécurité sociale.
+
+Le président du conseil général du département d'origine communique sans délai au président du conseil général du département d'accueil l'adresse de la famille et lui transmet les informations relatives à cette famille et au mineur concerné en application de l'article L. 221-3 du présent code.
