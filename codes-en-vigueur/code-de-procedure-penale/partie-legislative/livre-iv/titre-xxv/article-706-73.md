@@ -26,7 +26,7 @@ La procédure applicable à l'enquête, la poursuite, l'instruction et le jugeme
 
 11° Crimes et délits constituant des actes de terrorisme prévus par les articles 421-1 à 421-6 du code pénal ;
 
-12° Délits en matière d'armes et de produits explosifs commis en bande organisée, prévus par les articles L. 2339-2, L. 2339-8, L. 2339-10, L. 2341-4, L. 2353-4 et L. 2353-5 du code de la défense ;
+12° Délits en matière d'armes et de produits explosifs commis en bande organisée, prévus par les articles L. 2339-2, L. 2339-3, L. 2339-5, L. 2339-8, L. 2339-10, L. 2341-4, L. 2353-4 et L. 2353-5 du code de la défense ;
 
 13° Délits d'aide à l'entrée, à la circulation et au séjour irréguliers d'un étranger en France commis en bande organisée prévus par l'article L622-1 du code de l'entrée et du séjour des étrangers et du droit d'asile ;
 
