@@ -2,7 +2,7 @@
 
 Dans le temps où la chasse est ouverte, le permis de chasser donne en outre à celui qui l'a obtenu le droit de chasser le gibier d'eau la nuit à partir de postes fixes tels que hutteaux, huttes, tonnes et gabions existants au 1er janvier 2000 dans les départements où cette pratique est traditionnelle. Ces départements sont : l'Aisne, les Ardennes, l'Aube, l'Aude, les Bouches-du-Rhône, le Calvados, la Charente-Maritime, les Côtes-d'Armor, l'Eure, le Finistère, la Haute-Garonne, la Gironde, l'Hérault, l'Ille-et-Vilaine, les Landes, la Manche, la Marne, la Meuse, le Nord, l'Oise, l'Orne, le Pas-de-Calais, les Pyrénées-Atlantiques, les Hautes-Pyrénées, la Seine-Maritime, la Seine-et-Marne et la Somme.
 
-Le déplacement d'un poste fixe est soumis à l'autorisation du préfet. Toutefois, pour les hutteaux, seul le changement de parcelle ou de lot de chasse est soumis à autorisation.
+Le déplacement d'un poste fixe est soumis à l'autorisation du préfet, selon les modalités prévues par le schéma départemental de gestion cynégétique.
 
 Tout propriétaire d'un poste fixe visé au premier alinéa doit déclarer celui-ci à l'autorité administrative contre délivrance d'un récépissé dont devront être porteurs les chasseurs pratiquant la chasse de nuit à partir de ce poste fixe.
 
