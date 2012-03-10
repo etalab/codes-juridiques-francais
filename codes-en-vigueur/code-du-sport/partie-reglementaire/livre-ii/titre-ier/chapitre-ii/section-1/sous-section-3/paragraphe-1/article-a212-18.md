@@ -10,7 +10,7 @@ Lorsque la certification est réalisée par validation des acquis de l'expérien
 
 -un guide méthodologique.
 
-Le candidat complète et transmet la première partie de son dossier avec les pièces justificatives attestant de la durée et de la nature de son expérience au directeur régional de la jeunesse, des sports et de la vie associative de son lieu de domicile, qui se prononce sur la recevabilité de sa demande.
+Le candidat complète et transmet la première partie de son dossier avec les pièces justificatives attestant de la durée et de la nature de son expérience au directeur régional de la jeunesse, des sports    et de la cohésion sociale de son lieu de domicile, qui se prononce sur la recevabilité de sa demande.
 
 La décision de recevabilité est fondée sur deux critères : la durée de l'expérience exigée et le rapport direct avec le diplôme visé.
 
