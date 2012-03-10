@@ -7,4 +7,5 @@
 - [Section 4 : Droit à l'information sur les nuisances sonores](section-4)
 - [Section 5 : Commissions de suivi de site créées en application du dernier alinéa de l'article L. 125-2](section-5)
 - [Section 6 : Secrétariats permanents pour la prévention des pollutions et des risques industriels](section-6)
-- [Section 7 : Annexe environnementale](section-7-annexe)
+- [Section 7 : Instances de suivi de mesures environnementales concernant certaines infrastructures linéaires soumises à étude d'impact](section-7)
+- [Section 8 : Annexe environnementale](section-8-annexe)
