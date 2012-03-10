@@ -1,8 +1,6 @@
 # Paragraphe 3 : Comité consultatif
 
 - [Article R5223-25](article-r5223-25.md)
-- [Article R5223-26](article-r5223-26.md)
-- [Article R5223-27](article-r5223-27.md)
 - [Article R5223-28](article-r5223-28.md)
 - [Article R5223-29](article-r5223-29.md)
 - [Article R5223-30](article-r5223-30.md)
