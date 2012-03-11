@@ -4,6 +4,5 @@
 - [Article R5122-11](article-r5122-11.md)
 - [Article R5122-12](article-r5122-12.md)
 - [Article R5122-14](article-r5122-14.md)
-- [Article R5122-15](article-r5122-15.md)
 - [Article R5122-16](article-r5122-16.md)
 - [Article R5122-17](article-r5122-17.md)

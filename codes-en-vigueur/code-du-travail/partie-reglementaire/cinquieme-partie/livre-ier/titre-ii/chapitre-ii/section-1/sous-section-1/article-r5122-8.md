@@ -8,4 +8,4 @@ Ne peuvent bénéficier de l'allocation spécifique de chômage partiel :
 
 3° En cas d'arrêt de travail imputable à la fermeture temporaire de l'établissement, les salariés dont la suspension d'activité se prolonge pendant plus de six semaines ;
 
-4° En cas de réduction de l'horaire de travail habituellement pratiqué dans l'établissement, les salariés dont la durée du travail est fixée par forfait en heures ou en jours sur l'année, en application des dispositions des articles L. 3121-42 à L. 3121-49 et L. 3121-51.
+4° En cas de réduction de l'horaire de travail habituellement pratiqué dans l'établissement, les salariés dont la durée du travail est fixée par forfait en heures ou en jours sur l'année, en application des articles L. 3121-42 et L. 3121-43. Toutefois, ces salariés bénéficient de l'allocation spécifique de chômage partiel en cas de fermeture totale de l'établissement ou d'une partie de l'établissement dont ils relèvent.
