@@ -10,7 +10,7 @@ L'interdiction prévue au 2° ne s'applique pas aux substances et méthodes pour
 
 a) Dispose d'une autorisation pour usage à des fins thérapeutiques ;
 
-b) Peut se prévaloir d'une déclaration d'usage, conformément aux dispositions de l'article L. 232-2 ;
+b) (Abrogé)
 
 c) Dispose d'une raison médicale dûment justifiée.
 

@@ -24,4 +24,3 @@
 - [Article L332-19](article-l332-19.md)
 - [Article L332-20](article-l332-20.md)
 - [Article L332-21](article-l332-21.md)
-- [Article L332-22](article-l332-22.md)
