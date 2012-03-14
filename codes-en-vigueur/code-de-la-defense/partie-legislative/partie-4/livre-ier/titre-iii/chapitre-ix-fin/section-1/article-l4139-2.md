@@ -6,4 +6,6 @@ Les contingents annuels de ces emplois sont fixés par voie réglementaire pour 
 
 Après un an de détachement, le militaire peut demander, dans les conditions fixées par décret en Conseil d'Etat, son intégration ou sa titularisation dans le corps ou le cadre d'emploi dont relève l'emploi considéré, sous réserve de la vérification de son aptitude. Pour l'intégration ou la titularisation dans un corps enseignant, la durée du détachement est portée à deux ans. La période initiale de détachement peut être prolongée pour une période de même durée.
 
+Le militaire du rang détaché dans un corps ou un cadre d'emplois depuis deux ans en application de l'article 13 ter de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires peut demander son intégration dans ce corps ou ce cadre d'emplois dans les conditions prévues au troisième alinéa du présent article.
+
 En cas d'intégration ou de titularisation, l'intéressé est reclassé à un échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui détenu dans le corps d'origine.

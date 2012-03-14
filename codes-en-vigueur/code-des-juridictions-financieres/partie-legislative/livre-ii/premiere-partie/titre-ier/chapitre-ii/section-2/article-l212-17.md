@@ -12,7 +12,7 @@ Le Conseil supérieur des chambres régionales des comptes comprend :
 
 - un conseiller maître à la Cour des comptes ;
 
-- deux magistrats exerçant les fonctions de président de chambre régionale des comptes ou de vice-président de la chambre régionale des comptes d'Ile-de-France, dont un conseiller maître et un conseiller référendaire ;
+- deux magistrats exerçant les fonctions de président de chambre  régionale des comptes ou de vice-président de chambre régionale des  comptes, dont un conseiller maître et un conseiller référendaire ;
 
 - six représentants des magistrats de chambre régionale des comptes.
 

@@ -6,4 +6,4 @@ Une vacance sur dix-huit est pourvue par un magistrat de chambre régionale des 
 
 Pour les magistrats de la Cour des comptes en service détaché, l'avancement au grade de conseiller maître s'effectue hors tour.
 
-En dehors des conseillers référendaires et des magistrats de chambre régionale des comptes ayant le grade de président de section, nul ne peut être nommé conseiller maître s'il n'est âgé de quarante ans accomplis.
+En dehors des conseillers référendaires et des magistrats de chambre régionale des comptes ayant le grade de président de section, nul ne peut être nommé conseiller maître s'il n'est âgé de quarante-cinq ans accomplis.

@@ -2,7 +2,7 @@
 
 Sont soumis aux dispositions de l'article L. 2131-1 les actes suivants :
 
-1° Les délibérations du conseil municipal ou les décisions prises par délégation du conseil municipal en application de l'article L. 2122-22  à l'exception :
+1° Les délibérations du conseil municipal ou les décisions prises par délégation du conseil municipal en application de l'article L. 2122-22 à l'exception :
 
 a) Des délibérations relatives aux tarifs des droits de voirie et de stationnement, au classement, au déclassement, à l'établissement des plans d'alignement et de nivellement, à l'ouverture, au redressement et à l'élargissement des voies communales ;
 
@@ -18,7 +18,7 @@ b) Des délibérations relatives aux taux de promotion pour l'avancement de grad
 
 4° Les conventions relatives aux emprunts, aux marchés et aux accords-cadres, à l'exception des conventions relatives à des marchés et à des accords-cadres d'un montant inférieur à un seuil défini par décret, ainsi que les conventions de concession ou d'affermage de services publics locaux et les contrats de partenariat ;
 
-5° Les décisions individuelles relatives à la nomination, au recrutement, y compris le contrat d'engagement, et au licenciement des agents non titulaires, à l'exception de celles prises dans le cadre d'un besoin saisonnier ou occasionnel, en application du deuxième alinéa de l'article 3 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale ;
+5° Les décisions individuelles relatives à la nomination, au recrutement, y compris le contrat d'engagement, et au licenciement des agents non titulaires, à l'exception de celles prises pour faire face à un besoin lié à un accroissement temporaire ou saisonnier d'activité, en application des 1° et 2° de l'article 3 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale ;
 
 6° Le permis de construire et les autres autorisations d'utilisation du sol et le certificat d'urbanisme délivrés par le maire ou le président de l'établissement public de coopération intercommunale, lorsqu'il a reçu compétence dans les conditions prévues aux articles L. 422-1 et L. 422-3 du code de l'urbanisme ;
 
