@@ -13,7 +13,7 @@
 - [Section XI : Prélèvement spécial sur les bénéfices résultant de la vente, la location ou l'exploitation d'oeuvres pornographiques ou d'incitation à la violence](section-xi)
 - [Section XIV : Taxe sur les excédents de provisions des entreprises d'assurances de dommages](section-xiv)
 - [Section XIV bis : Prélèvement spécial relatif aux écarts de conversion sur les prêts en monnaie étrangère](section-xiv-bis)
-- [Section XX : Taxe sur les transactions sur devises](section-xx)
+- [Section XX : Taxe sur les transactions financières](section-xx)
 - [Section XIX : Contribution sociale sur l'impôt sur les sociétés](section-xix)
 - [Section XXI : Taxe de risque systémique](section-xxi)
 - [Section XXII : Taxe sur le résultat des entreprises ferroviaires](section-xxii)
