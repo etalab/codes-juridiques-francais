@@ -14,9 +14,13 @@ Toutefois, lorsqu'une livraison de biens ou une prestation de services mentionn�
 
 2 quinquies. Pour les livraisons mentionnées au III de l'article 258, la taxe est acquittée par l'acquéreur qui dispose d'un numéro d'identification à la taxe sur la valeur ajoutée en France lorsque son fournisseur est établi hors de France.
 
+Pour les livraisons de gaz naturel ou d'électricité mentionnées au b du même III, ainsi que pour les services définis au 13° de l'article 259 B qui leur sont directement liés, la taxe est acquittée par l'acquéreur qui dispose d'un numéro d'identification à la taxe sur la valeur ajoutée en France, y compris lorsque son fournisseur est établi en France.
+
 2 sexies. Pour les livraisons et les prestations de façon portant sur des déchets neufs d'industrie et des matières de récupération, la taxe est acquittée par le destinataire ou le preneur qui dispose d'un numéro d'identification à la taxe sur la valeur ajoutée en France.
 
 2 septies. Pour les transferts de quotas autorisant les exploitants à émettre des gaz à effet de serre, au sens de l'article 3 de la directive 2003/87/ CE du Parlement européen et du Conseil du 13 octobre 2003 établissant un système d'échange de quotas d'émission de gaz à effet de serre dans la Communauté et modifiant la directive 96/61/ CE du Conseil, et d'autres unités pouvant être utilisées par les opérateurs en vue de se conformer à cette directive, la taxe est acquittée par l'assujetti bénéficiaire du transfert.
+
+2 octies. - Pour les services de communications électroniques, à l'exclusion de ceux soumis à la taxe prévue à l'article 302 bis KH, la taxe est acquittée par l'acquéreur qui dispose d'un numéro d'identification à la taxe sur la valeur ajoutée en France.
 
 3. Toute personne qui mentionne la taxe sur la valeur ajoutée sur une facture est redevable de la taxe du seul fait de sa facturation.
 

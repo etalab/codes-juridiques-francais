@@ -10,19 +10,19 @@ III.-Les montants de revenus prévus aux I et II sont indexés, chaque année, c
 
 Les majorations mentionnées aux I et II sont divisées par deux pour les quarts de part.
 
-IV. 1° Pour l'application du présent article, le montant des revenus s'entend du montant net après application éventuelle des règles de quotient définies à l'article 163-0 A  des revenus et plus-values retenus pour l'établissement de l'impôt sur le revenu au titre de l'année précédente.
+IV. 1° Pour l'application du présent article, le montant des revenus s'entend du montant net après application éventuelle des règles de quotient définies à l'article 163-0 A des revenus et plus-values retenus pour l'établissement de l'impôt sur le revenu au titre de l'année précédente.
 
 Ce montant est majoré :
 
 a) du montant des charges déduites en application des articles 163 unvicies et 163 duovicies ainsi que du montant des cotisations ou des primes déduites en application de l'article 163 quatervicies ;
 
-a bis) Du montant de l'abattement mentionné au 2° du 3 de l'article 158 pour sa fraction qui excède l'abattement non utilisé prévu au 5° du 3 du même article et du montant des plus-values en report d'imposition en application du I de l'article 150-0 D bis  ;
+a bis) Du montant de l'abattement mentionné au 2° du 3 de l'article 158 pour sa fraction qui excède l'abattement non utilisé prévu au 5° du 3 du même article et du montant des plus-values en report d'imposition en application du I de l'article 150-0 D bis ;
 
 b) du montant des bénéfices exonérés en application des articles 44 sexies, 44 sexies A, 44 octies, 44 octies A, 44 decies, 44 undecies, 44 terdecies à 44 quindecies, ainsi que de l'article 93-0 A et du 9 de l'article 93 ;
 
-c) du montant des revenus soumis aux prélèvements libératoires prévus aux articles 117 quater  , 125 A et au II de l'article 163 bis, de ceux soumis aux versements libératoires prévus par l'article 151-0 retenus pour leur montant diminué, selon le cas, de l'abattement prévu au 1 de l'article 50-0 ou de la réfaction forfaitaire prévue au 1 de l'article 102 ter, de ceux visés aux articles 81 quater, 81 A, 81 B, 81 D et 155 B, de ceux mentionnés au I de l'article 204-0 bis retenus pour leur montant net de frais d'emploi et pour lesquels l'option prévue au III du même article n'a pas été exercée, de ceux perçus par les fonctionnaires des organisations internationales, de ceux exonérés par application d'une convention internationale relative aux doubles impositions ainsi que de ceux exonérés en application des articles 163 quinquies B à 163 quinquies C bis ;
+c) du montant des revenus soumis aux prélèvements libératoires prévus aux articles 117 quater , 125 A et au II de l'article 163 bis, de ceux soumis aux versements libératoires prévus par l'article 151-0 retenus pour leur montant diminué, selon le cas, de l'abattement prévu au 1 de l'article 50-0 ou de la réfaction forfaitaire prévue au 1 de l'article 102 ter, de ceux visés aux articles 81 quater, 81 A, 81 B, 81 D et 155 B, de ceux mentionnés au I de l'article 204-0 bis retenus pour leur montant net de frais d'emploi et pour lesquels l'option prévue au III du même article n'a pas été exercée, de ceux perçus par les fonctionnaires des organisations internationales, de ceux exonérés par application d'une convention internationale relative aux doubles impositions ainsi que de ceux exonérés en application des articles 163 quinquies B à 163 quinquies C bis ;
 
-d) Du montant des gains nets exonérés en application du I bis de l'article 150-0 A ainsi que du montant des plus-values exonérées en application du 3 du I et des 1,1 bis et 7 du III du même article ;
+d) Du montant des plus-values exonérées en application du 3 du I et des 1,1 bis et 7 du III de l'article 150-0 A  ;
 
 e) Des sommes correspondant aux droits visés au dernier alinéa de l'article L. 3153-3 du code du travail.
 

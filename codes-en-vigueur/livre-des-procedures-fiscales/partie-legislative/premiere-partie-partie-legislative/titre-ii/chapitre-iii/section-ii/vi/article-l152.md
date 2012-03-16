@@ -10,9 +10,13 @@ Les agents des administrations fiscales communiquent aux organismes et services 
 
 4° à la détermination de l'assiette et du montant des cotisations et contributions ainsi qu'à leur recouvrement ;
 
-5° Au recouvrement des prestations indûment versées.
+5° Au recouvrement des prestations indûment versées ;
 
-Le numéro d'inscription au répertoire national d'identification des personnes physiques peut être utilisé pour les demandes, échanges et traitements nécessaires à la communication des informations mentionnées aux 1° à 5°, lorsqu'elles concernent des personnes physiques.
+6° A l'appréciation des conditions d'ouverture et de maintien des prestations versées dans le cadre de leur mission légale en matière d'action sanitaire et sociale ;
+
+7° Au calcul des prestations versées dans le cadre de leur mission légale en matière d'action sanitaire et sociale.
+
+Le numéro d'inscription au répertoire national d'identification des personnes physiques peut être utilisé pour les demandes, échanges et traitements nécessaires à la communication des informations mentionnées aux 1° à 7°, lorsqu'elles concernent des personnes physiques.
 
 Dans le but de contrôler les conditions d'ouverture, de maintien ou d'extinction des droits aux prestations de sécurité sociale de toute nature, ainsi que le paiement des cotisations et contributions, les organismes et services mentionnés au premier alinéa peuvent demander aux administrations fiscales de leur communiquer une liste des personnes qui ont déclaré soit n'avoir plus leur domicile en France, soit n'avoir perçu que des revenus du patrimoine ou de placement.
 

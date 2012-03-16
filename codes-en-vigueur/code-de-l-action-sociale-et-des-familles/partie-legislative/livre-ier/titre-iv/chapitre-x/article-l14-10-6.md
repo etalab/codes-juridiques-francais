@@ -8,7 +8,7 @@ b) Le montant des dépenses d'allocation personnalisée d'autonomie ;
 
 c) Le potentiel fiscal, déterminé selon les modalités définies à l'article L. 3334-6 du code général des collectivités territoriales ;
 
-d) Le nombre de bénéficiaires du revenu minimum d'insertion.
+d) Le nombre de foyers bénéficiaires du revenu de solidarité active dont les ressources sont inférieures au montant forfaitaire mentionné au 2° de l'article L. 262-2 du présent code, à l'exception de ceux ouvrant droit à la majoration prévue à l'article L. 262-9.
 
 En aucun cas, le rapport entre, d'une part, les dépenses réalisées au titre de l'allocation personnalisée d'autonomie de chaque département après déduction du montant ainsi réparti et, d'autre part, leur potentiel fiscal ne peut être supérieur à un taux fixé par voie réglementaire. Les dépenses correspondant à la fraction de ce rapport qui dépasse ce seuil sont prises en charge en totalité par la caisse.
 

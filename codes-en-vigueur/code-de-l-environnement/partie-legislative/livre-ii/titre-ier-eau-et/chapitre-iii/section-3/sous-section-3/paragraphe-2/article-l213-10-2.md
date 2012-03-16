@@ -139,6 +139,15 @@ IV.-Pour chaque élément constitutif de la pollution, le tarif maximum de la re
 </td>
 </tr>
 <tr>
+<td>
+<p>Toxicité aiguë rejetée en mer au-delà de 5 km du littoral et à plus de 250 mètres de profondeur (par kiloéquitox)</p>
+</td>
+<td>
+<p align="center"> 4</p>
+</td>
+<td> 50 kiloéquitox</td>
+</tr>
+<tr>
 <td width="398">
 <p>Rejet en masse d'eau souterraine de toxicité aiguë (par kiloéquitox) </p>
 </td>

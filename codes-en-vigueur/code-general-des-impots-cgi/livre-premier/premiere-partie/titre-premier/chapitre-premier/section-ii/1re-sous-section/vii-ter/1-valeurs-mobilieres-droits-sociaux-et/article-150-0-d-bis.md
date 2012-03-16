@@ -32,7 +32,7 @@ d) Les titres représentatifs de l'apport en numéraire doivent être détenus d
 
 Lorsque les titres font l'objet d'une transmission, d'un rachat ou d'une annulation ou, si cet événement est antérieur, lorsque le contribuable transfère son domicile fiscal hors de France dans les conditions prévues à l'article 167 bis, avant le délai prévu au premier alinéa du présent d, le report d'imposition prévu au I du présent article est remis en cause dans les conditions du deuxième alinéa du III ;
 
-e) Le contribuable, son conjoint, leurs ascendants et descendants ou leurs frères et sœurs ne doivent ni être associés de la société bénéficiaire de l'apport préalablement à l'opération d'apport, ni y exercer les fonctions énumérées au 1° de l'article 885 O bis depuis sa création et pendant une période de cinq ans suivant la date de réalisation de l'apport ;
+e) (abrogé)
 
 f) La société bénéficiaire de l'apport ne doit pas avoir procédé à un remboursement d'apport au bénéfice du cédant, de son conjoint, de leurs ascendants et descendants ou de leurs frères et sœurs au cours des douze mois précédant le remploi du produit de la cession.
 

@@ -34,7 +34,7 @@ Les perceptions mentionnées au I ne sont pas applicables aux cessions de droits
 
 Les perceptions mentionnées aux 1° et 1° bis du I ne sont pas applicables :
 
-― aux acquisitions de droits sociaux réalisées dans le cadre du rachat de ses propres titres par une société ou d'une augmentation de capital ;
+― aux acquisitions de droits sociaux réalisées dans le cadre du rachat de ses propres titres par une société ou d'une augmentation de capital, à l'exception des rachats d'actions effectués dans les conditions prévues à l'article L. 225-209-2 du code de commerce ;
 
 ― aux acquisitions de droits sociaux de sociétés placées sous procédure de sauvegarde ou en redressement judiciaire ;
 
