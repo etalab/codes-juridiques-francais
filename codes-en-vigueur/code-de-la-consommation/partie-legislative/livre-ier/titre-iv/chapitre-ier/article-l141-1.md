@@ -4,7 +4,7 @@ I.-Sont recherchés et constatés, dans les conditions fixées par les articles 
 
 1° Le chapitre préliminaire du titre II du livre Ier ;
 
-2° Les sections 1, 2, 3, 8,9 et 12 du chapitre Ier du titre II du livre Ier ;
+2° Les sections 1, 2, 3, 8, 9 et 12 du chapitre Ier du titre II du livre Ier ;
 
 3° Les sections 3, 4 et 5 du chapitre II du titre II du livre Ier ;
 
@@ -22,7 +22,7 @@ II.-Sont recherchés et constatés, dans les mêmes conditions qu'au I, à l'exc
 
 1° Le chapitre III du titre Ier du livre Ier ;
 
-2° Les sections 5,6 et 11 du chapitre Ier du titre II du livre Ier ;
+2° Les sections 5, 6 et 11 du chapitre Ier du titre II du livre Ier ;
 
 3° Les sections 1 et 2 du chapitre II du titre II du livre Ier et l'article R. 122-1 ;
 
@@ -42,7 +42,9 @@ III.-Sont recherchés et constatés, dans les conditions fixées au I, les infra
 
 4° Du titre II de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique ;
 
-5° Du 1 de l'article 8 du règlement (CE) n° 1371/2007 du Parlement européen et du Conseil du 23 octobre 2007 sur les droits et obligations des voyageurs ferroviaires, et du 3 du même article pour ce qui concerne son application aux dispositions du 1 précité.
+5° Du 1 de l'article 8 du règlement (CE) n° 1371/2007 du Parlement européen et du Conseil du 23 octobre 2007 sur les droits et obligations des voyageurs ferroviaires, et du 3 du même article pour ce qui concerne son application aux dispositions du 1 précité ;
+
+6° De l'article 23 du règlement (CE) n° 1008/2008 du Parlement européen et du Conseil, du 24 septembre 2008, établissant des règles communes pour l'exploitation de services aériens dans la Communauté.
 
 IV.-Le secret professionnel ne peut être opposé aux agents agissant dans le cadre des pouvoirs qui leur sont conférés par le présent article.
 
