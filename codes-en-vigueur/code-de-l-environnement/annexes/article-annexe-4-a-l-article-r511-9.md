@@ -145,7 +145,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>1. supérieure à 25 000 m³ <sup/>
+<p>1. supérieure à 25 000 m ³ <sup/>
 </p>
 </td>
 <td valign="top" width="32">
@@ -251,8 +251,7 @@
 <td>
 <p align="left">2518</p>
 </td>
-<td>a) Supérieure à 3 m<sup>3</sup>
-</td>
+<td>a) Supérieure à 3 m3</td>
 <td>
 <p align="center">E</p>
 </td>
@@ -263,8 +262,7 @@
 <tr>
 <td/>
 <td>
-<p align="left">b) Inférieure ou égale à 3 m<sup>3</sup>
-</p>
+<p align="left">b) Inférieure ou égale à 3 m3</p>
 </td>
 <td>
 <p align="center">D</p>
@@ -1638,7 +1636,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>1. Lorsqu'il y a mise en oeuvre de cadmium </p>
+<p>1. Lorsqu'il y a mise en œuvre de cadmium </p>
 </td>
 <td valign="top" width="32">
 <p align="center">A</p>
@@ -1655,7 +1653,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>2. Procédés utilisant des liquides (sans mise en oeuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant : </p>
+<p>2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant : </p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -2010,11 +2008,12 @@
 <td valign="top" width="29">
 <p align="center">3</p>
 </td>
-<td valign="top" width="155">1. Quelle que soit la capacité </td>
+<td valign="top" width="155">
+<p align="left">1. Quelle que soit la capacité </p>
+</td>
 <td valign="top" width="26">
-<br/>
-<div align="center">6<br/>
-</div>
+<p align="center">6<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -2027,7 +2026,9 @@
 <td valign="top" width="29">
 <p align="center">2</p>
 </td>
-<td valign="top" width="155">2. Quelle que soit la capacité <br/>
+<td valign="top" width="155">
+<p align="left">2. Quelle que soit la capacité <br/>
+</p>
 </td>
 <td valign="top" width="26">
 <br/>
@@ -2688,7 +2689,7 @@
 <p>2680 </p>
 </td>
 <td valign="top" width="437">
-<p>Organismes génétiquement modifiés (installations où sont mis en oeuvre dans un processus de production industrielle ou commercial des) à l'exclusion de l'utilisation de produits contenant des organismes génétiquement modifiés qui ont reçu une autorisation de mise sur le marché conformément à la loi n° 92-654 du 13 juillet 1992 et utilisés dans les conditions prévues par cette autorisation de mise sur le marché </p>
+<p align="left">Organismes génétiquement modifiés (installations où sont utilisés de manière confinée dans un processus de production industrielle des), à l'exclusion de l'utilisation d'organismes génétiquement modifiés qui ont reçu une autorisation de mise sur le marché conformément au titre III du livre V du code de l'environnement et utilisés dans les conditions prévues par cette autorisation de mise sur le marché.</p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -2706,7 +2707,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>1. organismes et notamment micro-organismes génétiquement modifiés du groupe I </p>
+<p>1. Utilisation d'organismes génétiquement modifiés de classe de confinement 1</p>
 </td>
 <td valign="top" width="32">
 <p align="center">D</p>
@@ -2724,13 +2725,13 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>2. organismes et notamment micro-organismes génétiquement modifiés du groupe II </p>
+<p>2. Utilisation d'organismes génétiquement modifiés de classe de confinement 2, 3, 4</p>
 </td>
 <td valign="top" width="32">
 <p align="center">A</p>
 </td>
 <td valign="top" width="29">
-<p align="center">4</p>
+<br/>
 </td>
 <td valign="top" width="155">
 <p>2. Quelle que soit la capacité </p>
@@ -2741,7 +2742,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>Les organismes génétiquement modifiés visés sont ceux définis par la loi n° 92-654 du 13 juillet 1992 et par le décret n° 93-744 du 27 mars 1993 fixant la liste des techniques de modification génétique et les critères de classement des organismes génétiquement modifiés en groupe I et II </p>
+<p>Les organismes génétiquement modifiés visés sont ceux définis par l'article D. 531-1 du code de l'environnement, à l'exclusion des organismes visés à l'article D. 531-2 du même code.</p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -2759,7 +2760,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>On entend par mise en œuvre au sens de la présente rubrique toute opération ou ensemble d'opérations faisant partie d'un processus de production industrielle ou commercial au cours desquelles des organismes sont génétiquement modifiés ou au cours desquelles des organismes génétiquement modifiés sont cultivés, utilisés, stockés, détruits ou éliminés. </p>
+<p align="left">On entend par utilisation au sens de la présente rubrique toute opération ou ensemble d'opérations faisant partie d'un processus de production industrielle au cours desquelles des organismes sont génétiquement modifiés ou au cours desquelles des organismes génétiquement modifiés sont cultivés, mis en œuvre, stockés, détruits, éliminés, ou utilisés de toute autre manière, à l'exclusion du transport.</p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -2849,11 +2850,11 @@
 </td>
 </tr>
 <tr>
-<td rowspan="7" valign="top" width="21">
+<td rowspan="10" valign="top" width="21">
 <p>2710 </p>
 </td>
 <td valign="top" width="437">
-<p>Décheteries aménagées pour la collecte des encombrants, matériaux ou produits triés et apportés par les usagers :</p>
+<p>Installations de collecte de déchets apportés par le producteur initial de ces déchets.</p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -2871,7 +2872,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>- monstres (mobilier, éléments de véhicules), déchets de jardin, déchets de démolition, déblais, gravats, terre ;</p>
+<p>1. Collecte de déchets dangereux :</p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -2889,7 +2890,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>- bois, métaux, papiers-cartons, plastiques, textiles, verres, amiante lié ;</p>
+<p>La quantité de déchets susceptibles d'être présents dans l'installation étant :</p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -2907,44 +2908,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>- déchets ménagers spéciaux (huiles usagées, piles et batteries, médicaments, solvants, peintures, acides et bases, produits phytosanitaires, etc.) usés ou non ;</p>
-</td>
-<td valign="top" width="32">
-<br/>
-<br/>
-</td>
-<td valign="top" width="29">
-<br/>
-<br/>
-</td>
-<td valign="top" width="155"/>
-<td valign="top" width="26">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="437">
-<p>- déchets d'équipements électriques et électroniques. </p>
-</td>
-<td valign="top" width="32">
-<br/>
-<br/>
-</td>
-<td valign="top" width="29">
-<br/>
-<br/>
-</td>
-<td valign="top" width="155"/>
-<td valign="top" width="26">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="437">
-<p>1. la superficie de l'installation hors espaces verts étant supérieure à 3 500 m²<sup/>
-</p>
+<p>a) Supérieure ou égale à 7 t</p>
 </td>
 <td valign="top" width="32">
 <p align="center">A</p>
@@ -2960,11 +2924,10 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>2. la superficie de l'installation hors espaces verts étant supérieure à 100 m², mais inférieure ou égale à 3 500 m²<sup/>
-</p>
+<p>b) Supérieure ou égale à 1 t et inférieure à 7 t</p>
 </td>
 <td valign="top" width="32">
-<p align="center">D</p>
+<p align="center">DC</p>
 </td>
 <td valign="top" width="29">
 <br/>
@@ -2975,13 +2938,91 @@
 <br/>
 <br/>
 </td>
+</tr>
+<tr>
+<td valign="top" width="437">
+<p>2. Collecte de déchets non dangereux :</p>
+</td>
+<td valign="top" width="32">
+<br/>
+<br/>
+</td>
+<td valign="top" width="29">
+<br/>
+<br/>
+</td>
+<td valign="top" width="155"/>
+<td valign="top" width="26">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="437">
+<p>Le volume de déchets susceptibles d'être présents dans l'installation étant :<br/>
+<sup/>
+</p>
+</td>
+<td valign="top" width="32">
+<br/>
+<br/>
+</td>
+<td valign="top" width="29">
+<br/>
+<br/>
+</td>
+<td valign="top" width="155"/>
+<td valign="top" width="26">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">a) Supérieur ou égal à 600 m³</p>
+</td>
+<td>
+<p align="center">A</p>
+</td>
+<td>
+<p align="center">1 </p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">b) Supérieur ou égal à 300 m³ et inférieur à 600 m³</p>
+</td>
+<td>
+<p align="center">E</p>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">c) Supérieur ou égal à 100 m³ et inférieur à 300 m³</p>
+</td>
+<td>
+<p align="center">DC</p>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td rowspan="4" valign="top" width="21">
 <p>2711 </p>
 </td>
 <td valign="top" width="437">
-<p>Transit, regroupement, tri, désassemblage, remise en état d'équipements électriques et électroniques mis au rebut. </p>
+<p>Installations de transit, regroupement ou tri de déchets d'équipements électriques et électroniques.</p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -2999,7 +3040,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>Le volume susceptible d'être entreposé étant : </p>
+<p>Le volume susceptible d'être entreposé étant :</p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -3017,7 +3058,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>1. Supérieur ou égal à 1 000 m³ <sup/>
+<p>1. Supérieur ou égal à 1 000 m³<sup/>
 </p>
 </td>
 <td valign="top" width="32">
@@ -3034,11 +3075,12 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>2. Supérieur ou égal à 200 m³, mais inférieur à 1 000 m³<sup/>
+<p>2. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³<br/>
+<sup/>
 </p>
 </td>
 <td valign="top" width="32">
-<p align="center">D</p>
+<p align="center">DC</p>
 </td>
 <td valign="top" width="29">
 <br/>
@@ -3939,11 +3981,30 @@
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td align="left" valign="top">
 <p>2780 </p>
 </td>
+<td align="left" valign="top">
+<p align="left">Installations de compostage de déchets non dangereux ou de matière végétale, ayant, le cas échéant, subi une étape de méthanisation.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">4<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top"/>
 <td valign="top" width="437">
-<p>Installations de traitement aérobie (compostage ou stabilisation biologique) de déchets non dangereux ou matière végétale brute, ayant le cas échéant subi une étape de méthanisation </p>
+<p>1. Compostage de matière végétale ou déchets végétaux, d'effluents d'élevage, de matières stercoraires :</p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -3962,80 +4023,7 @@
 <tr>
 <td valign="top"/>
 <td valign="top" width="437">
-<p>1. Compostage de matière végétale brute, effluents d'élevage, matières stercoraires : </p>
-</td>
-<td valign="top" width="32">
-<br/>
-<br/>
-</td>
-<td valign="top" width="29">
-<br/>
-<br/>
-</td>
-<td valign="top" width="155"/>
-<td valign="top" width="26">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top" width="437">
-<p>a) La quantité de matières traitées étant supérieure ou égale à 30 t/j </p>
-</td>
-<td valign="top" width="32">
-<p align="center">A</p>
-</td>
-<td valign="top" width="29">
-<p align="center">3</p>
-</td>
-<td valign="top" width="155"/>
-<td valign="top" width="26">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top" width="437">
-<p>b) La quantité de matières traitées étant supérieure ou égale à 3 t/j et inférieure à 30 t/j </p>
-</td>
-<td valign="top" width="32">
-<p align="center">D</p>
-</td>
-<td valign="top" width="29">
-<br/>
-<br/>
-</td>
-<td valign="top" width="155"/>
-<td valign="top" width="26">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top" width="437">
-<p>2. Compostage de la fraction fermentescible des ordures ménagères (FFOM), de denrées végétales déclassées, de rebuts de fabrication de denrées alimentaires végétales, de boues de station d'épuration des eaux urbaines, de papeteries, d'industries agroalimentaires, seuls ou en mélange avec des déchets végétaux ou des effluents d'élevages ou des matières stercoraires : </p>
-</td>
-<td valign="top" width="32">
-<br/>
-<br/>
-</td>
-<td valign="top" width="29">
-<br/>
-<br/>
-</td>
-<td valign="top" width="155"/>
-<td valign="top" width="26">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top" width="437">
-<p>a) La quantité de matières traitées étant supérieure ou égale à 20 t/j </p>
+<p>a) La quantité de matières traitées étant supérieure ou égale à 50 t/j</p>
 </td>
 <td valign="top" width="32">
 <p align="center">A</p>
@@ -4052,10 +4040,41 @@
 <tr>
 <td valign="top"/>
 <td valign="top" width="437">
-<p>b) La quantité de matières traitées étant supérieure ou égale à 2 t/j et inférieure à 20 t/j </p>
+<p align="left">b) La quantité de matières traitées étant supérieure ou égale à 30 t/j et inférieure à 50 t/j</p>
 </td>
 <td valign="top" width="32">
+<p align="center">E</p>
+</td>
+<td valign="top" width="29">
+<br/>
+<br/>
+</td>
+<td valign="top" width="155"/>
+<td valign="top" width="26">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="left">c) La quantité de matières traitées étant supérieure ou égale à 3 t/j et inférieure à 30 t/j</p>
+</td>
+<td>
 <p align="center">D</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td valign="top"/>
+<td valign="top" width="437">
+<p>2. Compostage de fraction fermentescible de déchets triés à la source ou sur site, de boues de station d'épuration des eaux urbaines, de papeteries, d'industries agroalimentaires, seuls ou en mélange avec des déchets admis dans une installation relevant de la rubrique 2780-1 :</p>
+</td>
+<td valign="top" width="32">
+<br/>
+<br/>
 </td>
 <td valign="top" width="29">
 <br/>
@@ -4070,7 +4089,41 @@
 <tr>
 <td valign="top"/>
 <td valign="top" width="437">
-<p>3. Compostage d'autres déchets ou stabilisation biologique </p>
+<p>a) La quantité de matières traitées étant supérieure ou égale à 20 t/j</p>
+</td>
+<td valign="top" width="32">
+<p align="center">A</p>
+</td>
+<td valign="top" width="29">
+<p align="center">3</p>
+</td>
+<td valign="top" width="155"/>
+<td valign="top" width="26">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top"/>
+<td valign="top" width="437">
+<p>b) La quantité de matières traitées étant supérieure ou égale à 2 t/j et inférieure à 20 t/j</p>
+</td>
+<td valign="top" width="32">
+<p align="center">D</p>
+</td>
+<td valign="top" width="29">
+<br/>
+</td>
+<td valign="top" width="155"/>
+<td valign="top" width="26">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top"/>
+<td valign="top" width="437">
+<p>3. Compostage d'autres déchets</p>
 </td>
 <td valign="top" width="32">
 <p align="center">A</p>
@@ -4415,9 +4468,7 @@
 <td/>
 <td/>
 <td/>
-<td>
-<p align="left">a) Supérieure ou égale à 50 t/j</p>
-</td>
+<td>a) Supérieure ou égale à 50 t/j</td>
 <td>
 <p align="center">6</p>
 </td>
@@ -4437,9 +4488,7 @@
 <td/>
 <td/>
 <td/>
-<td>
-<p align="left">2. Non soumis à la taxe</p>
-</td>
+<td>2. Non soumis à la taxe</td>
 <td>
 <p align="center">-</p>
 </td>
@@ -5276,7 +5325,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>1. Lorsque les produits mis en œuvre sont à base de liquides et lorsque l'application est faite par procédé "au trempé". Si la quantité maximale de produits susceptible d'être présente dans l'installation est : </p>
+<p>1. Lorsque les produits mis en oeuvre sont à base de liquides et lorsque l'application est faite par procédé "au trempé". Si la quantité maximale de produits susceptible d'être présente dans l'installation est : </p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -5339,7 +5388,7 @@
 <br/>
 </td>
 <td valign="top" width="155">
-<p>2. La quantité maximale de produits susceptible d'être mise en œuvre est : </p>
+<p>2. La quantité maximale de produits susceptible d'être mise en oeuvre est : </p>
 </td>
 <td valign="top" width="26">
 <br/>
@@ -5415,7 +5464,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>3. Lorsque les produits mis en œuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits susceptible d'être mise en œuvre est : </p>
+<p>3. Lorsque les produits mis en oeuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits susceptible d'être mise en oeuvre est : </p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -5611,6 +5660,47 @@
 </tr>
 <tr>
 <td align="left" valign="top">
+<p align="left">2960</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Captage de flux de CO2 provenant d'installations classées soumises à autorisation en vue de leur stockage géologique ou captant annuellement une quantité de CO2 égale ou supérieure à 1,5 Mt</p>
+</td>
+<td align="left" valign="top">
+<p align="center">A</p>
+</td>
+<td align="left" valign="top">
+<p align="center">3</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">2970</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Stockage géologique de dioxyde de carbone à des fins de lutte contre le réchauffement climatique, y compris les installations de surface nécessaires à son fonctionnement, à l'exclusion de celles déjà visées par d'autres rubriques de la nomenclature<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">AS</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="left" rowspan="5" valign="top">
 <p align="left">2980</p>
 </td>
 <td align="left" valign="top">
@@ -5622,7 +5712,6 @@
 <td align="left" valign="top"/>
 </tr>
 <tr>
-<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p align="left">1. Comprenant au moins un aérogénérateur dont le mât a une hauteur supérieure ou égale à 50 m </p>
 </td>
@@ -5636,7 +5725,6 @@
 <td align="left" valign="top"/>
 </tr>
 <tr>
-<td/>
 <td>
 <p align="left">2. Comprenant uniquement des aérogénérateurs dont le mât a une hauteur inférieure à 50 m et au moins un aérogénérateur dont le mât a une hauteur maximale supérieure ou égale à 12 m et pour une puissance totale installée : </p>
 </td>
@@ -5646,7 +5734,6 @@
 <td/>
 </tr>
 <tr>
-<td/>
 <td>
 <p align="left">a) Supérieure ou égale à 20 MW </p>
 </td>
@@ -5660,13 +5747,98 @@
 <td/>
 </tr>
 <tr>
-<td/>
 <td>
 <p align="left">b) Inférieure à 20 MW </p>
 </td>
 <td>
 <p align="center">D</p>
 </td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">3642</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Traitement et transformation, à l'exclusion du seul conditionnement des matières premières ci-après, qu'elles aient été ou non préalablement transformées, en vue de la fabrication de produits alimentaires ou d'aliments pour animaux issus :</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">1. Uniquement de matières premières animales (autre que le lait exclusivement), avec une capacité de production supérieure à 75 t de produits finis par jour</p>
+</td>
+<td align="left" valign="top">
+<p align="center">A</p>
+</td>
+<td align="left" valign="top">
+<p align="center">3 </p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">2. Uniquement de matières premières végétales, avec une capacité de production supérieure à 300 t de produits finis par jour ou 600 t par jour lorsque l'installation fonctionne pendant une durée maximale de 90 jours consécutifs en un an</p>
+</td>
+<td align="left" valign="top">
+<p align="center">A</p>
+</td>
+<td align="left" valign="top">
+<p align="center">3</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="left">3. Matières premières animales et végétales, aussi bien en produits combinés qu'en produits séparés, avec une capacité de production, exprimée en tonnes de produits finis par jour, supérieure à :</p>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="left">- 75 si A est égal ou supérieur à 10, ou</p>
+</td>
+<td>
+<p align="center">A</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="left">- [300 - (22,5 × A)] dans tous les autres cas </p>
+<p>où "A" est la proportion de matière animale (en pourcentage de poids) dans la quantité entrant dans le calcul de la capacité de production de produits finis.</p>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="left">Nota 1. - L'emballage n'est pas compris dans le poids final du produit.</p>
+<p>Nota 2. - La présente rubrique ne s'applique pas si la matière première est seulement du lait.</p>
+</td>
+<td/>
 <td/>
 <td/>
 <td/>
