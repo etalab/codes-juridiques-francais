@@ -2,4 +2,4 @@
 
 - [TITRE II : Des commerçants.](titre-ii)
 - [TITRE III : Des courtiers, des commissionnaires, des transporteurs et des agents commerciaux.](titre-iii)
-- [ANNEXE 1-2 (ANNEXE AUX ARTICLES A. 123-63 ET A. 134-2)](annexe)
+- [ANNEXE 1-4 (ANNEXE A L'ARTICLE A. 131-1)](annexe)
