@@ -2,7 +2,7 @@
 
 Les règles relatives aux secteurs sauvegardés sont fixées aux articles L. 313-1 à L. 313-3 et L. 313-11 à L. 313-15 du code de l'urbanisme, ci-après reproduits :
 
-" Art. L. 313-1-I.-Des secteurs dits " secteurs sauvegardés " peuvent être créés lorsqu'ils présentent un caractère historique, esthétique ou de nature à justifier la conservation, la restauration et la mise en valeur de tout ou partie d'un ensemble d'immeubles bâtis ou non.
+" Art. L. 313-1. - I. - Des secteurs dits " secteurs sauvegardés " peuvent être créés lorsqu'ils présentent un caractère historique, esthétique ou de nature à justifier la conservation, la restauration et la mise en valeur de tout ou partie d'un ensemble d'immeubles bâtis ou non.
 
 Le secteur sauvegardé est créé par l'autorité administrative sur demande ou avec l'accord de la commune ou, le cas échéant, de l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme après avis de la Commission nationale des secteurs sauvegardés.
 
@@ -36,7 +36,7 @@ Un décret détermine le délai de saisine du représentant de l'Etat dans la r�
 
 Les prescriptions imposées en application du présent article ne peuvent faire obstacle à l'application des règles d'accessibilité d'un immeuble bâti aux personnes handicapées mentionnées à l'article L. 111-7-2 du code de la construction et de l'habitation, sauf pour prévenir la dégradation du patrimoine concerné."
 
-" Art. L. 313-2-1-Les immeubles situés dans le périmètre d'un secteur sauvegardé dont le plan de sauvegarde et de mise en valeur a été approuvé ne sont pas soumis aux servitudes d'utilité publique instituées en application de l'article L. 621-30-1, des articles L. 621-31 et L. 621-32 du code du patrimoine et de l'article L. 341-1 du code de l'environnement. "
+" Art. L. 313-2-1-Les immeubles situés dans le périmètre d'un secteur sauvegardé dont le plan de sauvegarde et de mise en valeur a été approuvé ne sont pas soumis aux servitudes d'utilité publique instituées en application de l'article L. 621-30, des articles L. 621-31 et L. 621-32 du code du patrimoine et de l'article L. 341-1 du code de l'environnement. "
 
 " Art. L. 313-3-Les opérations de conservation, de restauration et de mise en valeur des secteurs sauvegardés peuvent être menées soit à l'initiative des collectivités publiques, soit à l'initiative d'un ou plusieurs propriétaires, groupés ou non en association syndicale. Dans ce dernier cas, ce ou ces propriétaires y sont spécialement autorisés dans les conditions fixées par un décret en Conseil d'Etat qui précise notamment les engagements exigés d'eux quant à la nature et à l'importance des travaux. (1) "
 

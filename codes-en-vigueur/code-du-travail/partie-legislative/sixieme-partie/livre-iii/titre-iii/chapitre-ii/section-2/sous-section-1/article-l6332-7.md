@@ -12,7 +12,7 @@ Ils sont agréés par l'autorité administrative, dans les conditions prévues p
 
 2° Pour les contributions dues au titre du plan de formation des employeurs occupant de dix à moins de cinquante salariés ;
 
-3° Pour les contributions dues au titre du plan de formation des employeurs occupant cinquante salariés et plus ;
+3° Pour les contributions dues au titre du plan de formation des employeurs occupant au moins cinquante salariés ;
 
 4° Pour les contributions dues au titre de la professionnalisation ;
 

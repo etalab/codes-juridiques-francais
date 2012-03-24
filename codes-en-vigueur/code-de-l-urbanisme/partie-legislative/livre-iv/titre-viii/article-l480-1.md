@@ -8,6 +8,6 @@ Lorsque l'autorité administrative et, au cas où il est compétent pour délivr
 
 Copie du procès-verbal constatant une infraction est transmise sans délai au ministère public.
 
-Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 252-1 du code rural et de la pêche maritime peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction à l'alinéa 1er du présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de défendre.
+Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 141-1 du code de l'environnement peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction à l'alinéa 1er du présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de défendre.
 
 La commune ainsi que l'établissement public de coopération intercommunale compétent en matière d'urbanisme peuvent exercer les droits reconnus à la partie civile, en ce qui concerne les faits commis sur leur territoire et constituant une infraction à l'alinéa premier du présent article.

@@ -15,3 +15,5 @@ IV.-Lorsqu'un immeuble bâti a subi un sinistre ayant donné lieu au versement d
 V.-En cas de non-respect des dispositions du présent article, l'acquéreur ou le locataire peut poursuivre la résolution du contrat ou demander au juge une diminution du prix.
 
 VI.-Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+VII. ― Le présent article n'est pas applicable aux conventions mentionnées aux articles L. 323-14 et L. 411-37 du code rural et de la pêche maritime.

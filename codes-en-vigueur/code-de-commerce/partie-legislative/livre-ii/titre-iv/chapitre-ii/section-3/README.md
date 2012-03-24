@@ -2,4 +2,3 @@
 
 - [Article L242-9](article-l242-9.md)
 - [Article L242-10](article-l242-10.md)
-- [Article L242-15](article-l242-15.md)

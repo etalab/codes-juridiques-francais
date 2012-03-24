@@ -4,6 +4,6 @@ L'employeur laisse le temps nécessaire à l'exercice de leurs fonctions, dans l
 
 1° Aux membres titulaires du comité d'entreprise ;
 
-2° Aux représentants syndicaux au comité d'entreprise, dans les entreprises de cinq cent un salariés et plus ;
+2° Aux représentants syndicaux au comité d'entreprise, dans les entreprises d'au moins cinq cent un salariés ;
 
-3° Aux représentants syndicaux au comité central d'entreprise dans les entreprises de cinq cent un salariés et plus, mais dont aucun des établissements distincts n'atteint ce seuil.
+3° Aux représentants syndicaux au comité central d'entreprise dans les entreprises d'au moins cinq cent un salariés, mais dont aucun des établissements distincts n'atteint ce seuil.

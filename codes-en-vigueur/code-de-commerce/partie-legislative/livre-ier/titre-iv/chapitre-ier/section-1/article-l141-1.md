@@ -8,7 +8,7 @@ I. - Dans tout acte constatant une cession amiable de fonds de commerce, consent
 
 3° Le chiffre d'affaires qu'il a réalisé durant les trois exercices comptables précédant celui de la vente, ce nombre étant réduit à la durée de la possession du fonds si elle a été inférieure à trois ans ;
 
-4° Les bénéfices commerciaux réalisés pendant le même temps ;
+4° Les résultats d'exploitation réalisés pendant le même temps ;
 
 5° Le bail, sa date, sa durée, le nom et l'adresse du bailleur et du cédant, s'il y a lieu.
 

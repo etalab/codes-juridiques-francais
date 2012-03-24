@@ -6,4 +6,4 @@ Lors de son audition, le salarié peut se faire assister par une personne de son
 
 Au cours de l'entretien, l'employeur indique le motif de la sanction envisagée et recueille les explications du salarié.
 
-La sanction ne peut intervenir moins d'un jour franc, ni plus d'un mois après le jour fixé pour l'entretien. Elle est motivée et notifiée à l'intéressé.
+La sanction ne peut intervenir moins de deux jours ouvrables, ni plus d'un mois après le jour fixé pour l'entretien. Elle est motivée et notifiée à l'intéressé.

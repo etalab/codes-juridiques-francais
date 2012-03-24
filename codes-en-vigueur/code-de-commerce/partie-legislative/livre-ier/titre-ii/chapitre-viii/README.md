@@ -1,4 +1,4 @@
-# Chapitre VIII : Des incapacités d'exercer une profession commerciale ou industrielle.
+# Chapitre VIII : Du fichier national des interdits de gérer
 
 - [Article L128-1](article-l128-1.md)
 - [Article L128-2](article-l128-2.md)

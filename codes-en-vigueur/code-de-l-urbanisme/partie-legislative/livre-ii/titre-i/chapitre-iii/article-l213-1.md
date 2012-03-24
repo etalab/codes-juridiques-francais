@@ -4,7 +4,7 @@ Sont soumis au droit de préemption institué par l'un ou l'autre des deux préc
 
 Sont également soumises à ce droit de préemption les cessions de droits indivis portant sur un immeuble ou une partie d'immeuble, bâti ou non bâti, sauf lorsqu'elles sont consenties à l'un des coindivisaires, ainsi que les cessions de tantièmes contre remise de locaux à construire.
 
-En cas d'adjudication, lorsque cette procédure est rendue obligatoire par une disposition législative ou réglementaire, l'acquisition par le titulaire du droit de préemption a lieu au prix de la dernière enchère, par substitution à l'adjudicataire. Cette disposition n'est toutefois pas applicable à la vente mettant fin à une indivision créée volontairement, à moins que celle-ci résulte d'une donation-partage.
+En cas d'adjudication, lorsque cette procédure est autorisée ou ordonnée par un juge, l'acquisition par le titulaire du droit de préemption a lieu au prix de la dernière enchère, par substitution à l'adjudicataire. Cette disposition n'est toutefois pas applicable à la vente mettant fin à une indivision créée volontairement, à moins que celle-ci résulte d'une donation-partage.
 
 En cas de contrat de location-accession régi par les dispositions de la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière, le droit de préemption s'exerce avant la signature de ce contrat et non au moment de la levée de l'option par l'accédant. Le délai de dix ans mentionné au a) et au c) de l'article L. 211-4 s'apprécie à la date de la signature du contrat.
 

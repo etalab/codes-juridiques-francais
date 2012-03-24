@@ -5,5 +5,4 @@
 - [Article L734-3](article-l734-3.md)
 - [Article L734-4](article-l734-4.md)
 - [Article L734-6](article-l734-6.md)
-- [Article L734-7](article-l734-7.md)
 - [Article L734-8](article-l734-8.md)

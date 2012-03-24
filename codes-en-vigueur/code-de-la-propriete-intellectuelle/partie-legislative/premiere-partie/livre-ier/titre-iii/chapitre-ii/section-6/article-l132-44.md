@@ -4,6 +4,8 @@ Il est créé une commission, présidée par un représentant de l'Etat, et comp
 
 Le représentant de l'Etat est nommé parmi les membres de la Cour de cassation, du Conseil d'Etat ou de la Cour des comptes, par arrêté du ministre chargé de la communication.
 
+Par dérogation au dernier alinéa de l'article L. 2232-21 et à l'article L. 2232-22 du code du travail, la commission se prononce, en lieu et place de la commission paritaire de branche, sur la validité des accords relatifs aux droits d'auteur des journalistes conclus dans les conditions prévues à l'article L. 2232-21 du même code, dans les deux mois qui suivent leur transmission ; à défaut, les accords sont réputés avoir été validés. La commission contrôle que ces accords collectifs n'enfreignent pas les dispositions législatives, réglementaires ou conventionnelles applicables.
+
 A défaut de conclusion d'un accord d'entreprise dans un délai de six mois à compter de la publication de la loi n° 2009-669 du 12 juin 2009 favorisant la diffusion et la protection de la création sur internet, et en l'absence de tout autre accord collectif applicable, l'une des parties à la négociation de l'accord d'entreprise peut saisir la commission aux fins de déterminer les modes et bases de la rémunération due en contrepartie des droits d'exploitation. La demande peut également porter sur l'identification des titres composant une famille cohérente de presse au sein du groupe, en application de l'article L. 132-39.
 
 En l'absence d'engagement de négociation, sont considérés comme des parties à la négociation de l'accord d'entreprise l'employeur et le délégué syndical. En l'absence de délégué syndical, peuvent saisir la commission :

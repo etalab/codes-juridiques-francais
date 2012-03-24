@@ -1,6 +1,6 @@
 # Article L6331-9
 
-Les employeurs de dix salariés et plus consacrent au financement des actions définies à l'article L. 6331-1 un pourcentage au moins égal à 1,60 % du montant des rémunérations versées pendant l'année en cours.
+Les employeurs d'au moins dix salariés consacrent au financement des actions définies à l'article L. 6331-1 un pourcentage au moins égal à 1,60 % du montant des rémunérations versées pendant l'année en cours.
 
 Pour les entreprises de travail temporaire, ce taux est fixé à 2 % des rémunérations versées pendant l'année en cours, quelles que soient la nature et la date de la conclusion des contrats de mission.
 

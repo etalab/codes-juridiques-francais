@@ -12,6 +12,8 @@ b) Ou, si aucun accord interprofessionnel ayant le même objet n'a été étendu
 
 L'accord interprofessionnel mentionné au a ou le décret en Conseil d'Etat mentionné au b fixe, par produit ou catégorie de produits et par catégorie d'acheteurs, la durée minimale du contrat qui est de un à cinq ans, ainsi que les modes de commercialisation pour lesquels une durée inférieure est admise.
 
+Les  dispositions relatives à la durée minimale du contrat prévues à  l'avant-dernier alinéa ne sont applicables ni aux produits soumis à  accises, ni aux raisins, moûts et vins dont ils résultent. Pour  l'ensemble de ces produits, tant des contrats pluriannuels que des  contrats ponctuels peuvent être conclus.
+
 II. ― La conclusion de contrats soumis aux dispositions du I doit être précédée d'une proposition écrite de l'acheteur conforme aux stipulations de l'accord interprofessionnel mentionné au a du I ou aux dispositions du décret en Conseil d'Etat mentionné au b du I.
 
 Si le contrat prévoit la fourniture à l'acheteur des avantages mentionnés au premier alinéa de l'article L. 441-2-1 du code de commerce, il comporte pour les produits mentionnés au même article des clauses relatives aux modalités de détermination du prix en fonction des volumes et des qualités des produits et des services concernés et à la fixation d'un prix. Il indique les avantages tarifaires consentis par le fournisseur au distributeur ou au prestataire de services au regard des engagements de ce dernier.

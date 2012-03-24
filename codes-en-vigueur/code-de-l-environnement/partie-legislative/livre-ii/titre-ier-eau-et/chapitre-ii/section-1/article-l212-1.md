@@ -32,11 +32,13 @@ VI.-Lorsque la réalisation des objectifs mentionnés aux 1°, 2° et 3° du IV 
 
 VII.-Des modifications dans les caractéristiques physiques des eaux ou l'exercice de nouvelles activités humaines peuvent justifier, dans des conditions définies par le décret prévu au XIII, des dérogations motivées au respect des objectifs mentionnés aux 1° à 4° du IV et au VI.
 
+L'autorité administrative arrête la liste de ces dérogations après l'avoir mise à disposition du public, notamment par voie électronique, pendant une durée minimale de six mois afin de recueillir ses observations.
+
 VIII.-Le schéma directeur d'aménagement et de gestion des eaux indique comment sont pris en charge par les utilisateurs les coûts liés à l'utilisation de l'eau, en distinguant au moins le secteur industriel, le secteur agricole et les usages domestiques. Ces données sont actualisées lors des mises à jour du schéma directeur.
 
 IX.-Le schéma directeur détermine les aménagements et les dispositions nécessaires, comprenant la mise en place de la trame bleue figurant dans les schémas régionaux de cohérence écologique adoptés mentionnés à l'article L. 371-3, pour prévenir la détérioration et assurer la protection et l'amélioration de l'état des eaux et milieux aquatiques, pour atteindre et respecter les objectifs de qualité et de quantité des eaux mentionnées aux IV à VII. En particulier, le schéma directeur identifie les sous-bassins ou parties de sous-bassins dans lesquels une gestion coordonnée des ouvrages, notamment hydroélectriques, est nécessaire.
 
-X.-Le schéma directeur d'aménagement et de gestion des eaux détermine les eaux maritimes intérieures et territoriales et les sous-bassins ou groupements de sous-bassins pour lesquels un schéma d'aménagement et de gestion des eaux défini à l'article L. 212-3 est nécessaire pour respecter les orientations fondamentales et les objectifs fixés en application du présent article, et fixe le délai dans lequel le schéma d'aménagement et de gestion des eaux doit être élaboré et révisé.A défaut, l'autorité administrative arrête le périmètre et le délai selon les modalités prévues à l'article L. 212-3.
+X.-Le schéma directeur d'aménagement et de gestion des eaux détermine les eaux maritimes intérieures et territoriales et les sous-bassins ou groupements de sous-bassins pour lesquels un schéma d'aménagement et de gestion des eaux défini à l'article L. 212-3 est nécessaire pour respecter les orientations fondamentales et les objectifs fixés en application du présent article, et fixe le délai dans lequel le schéma d'aménagement et de gestion des eaux doit être élaboré et révisé. A défaut, l'autorité administrative arrête le périmètre et le délai selon les modalités prévues à l'article L. 212-3.
 
 XI.-Les programmes et les décisions administratives dans le domaine de l'eau doivent être compatibles ou rendus compatibles avec les dispositions des schémas directeurs d'aménagement et de gestion des eaux.
 

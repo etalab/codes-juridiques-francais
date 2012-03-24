@@ -4,9 +4,9 @@ En cas de redressement ou de liquidation judiciaire, l'employeur, l'administrate
 
 1° L. 1233-8, pour un licenciement collectif de moins de dix salariés ;
 
-2° L. 1233-29, premier alinéa, pour un licenciement de dix salariés ou plus dans une entreprise de moins de cinquante salariés ;
+2° L. 1233-29, premier alinéa, pour un licenciement d'au moins dix salariés dans une entreprise de moins de cinquante salariés ;
 
-3° L. 1233-30, premier, deuxième et huitième alinéas, pour un licenciement de dix salariés ou plus dans une entreprise de cinquante salariés et plus ;
+3° L. 1233-30, premier, deuxième et huitième alinéas, pour un licenciement d'au moins dix salariés dans une entreprise d'au moins cinquante salariés ;
 
 4° L. 1233-31 à L. 1233-33, L. 1233-48 et L. 1233-63, relatifs à la nature des renseignements et au contenu des mesures sociales adressés aux représentants du personnel et à l'autorité administrative ;
 

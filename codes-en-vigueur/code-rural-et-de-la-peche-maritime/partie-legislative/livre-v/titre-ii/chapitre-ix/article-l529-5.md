@@ -1,11 +1,9 @@
 # Article L529-5
 
-Sont punis d'une peine de trois mois d'emprisonnement et de 25 000 F d'amende :
+Toute  personne intéressée peut demander au président du tribunal compétent  statuant en référé d'enjoindre, le cas échéant sous astreinte, à la  personne concernée de faire cesser l'usage irrégulier des mentions  suivantes :
 
-1° Ceux qui, en récidive, ont employé le terme de "coopérative" avec l'un des qualificatifs "agricole", "paysanne", "rurale", ou "forestière", ou toute autre dénomination de nature à laisser entendre qu'il s'agit d'une société coopérative agricole au sujet d'un organisme qui n'est pas agréé conformément à la réglementation relative au statut juridique de la coopération agricole ;
+1° La mention : " coopérative ” employée  avec l'un des qualificatifs : " agricole ”, " paysanne ”, " rurale ” ou  " forestière ”, ou toute autre appellation de nature à assimiler à une  société coopérative agricole un organisme qui n'est pas agréé  conformément à la réglementation relative au statut juridique de la  coopération agricole ;
 
-2° Ceux qui, en récidive, ont employé les termes d'"union de coopératives agricoles" ou de "fédération de coopératives agricoles" ou toute autre dénomination de nature à laisser entendre qu'il s'agit d'une telle union ou fédération au sujet d'une union ou d'une fédération qui n'est pas agréée ou constituée conformément à la réglementation relative au statut juridique de la coopération agricole.
+2° La mention : " union de  coopératives agricoles ” ou " fédération de coopératives agricoles ” ou  toute autre dénomination de nature à créer la confusion avec une union  ou une fédération agréée ou constituée conformément à la réglementation  relative au statut juridique de la coopération agricole.
 
-Les dispositions de l'article 131-35 du code pénal sont applicables.
-
-Le tribunal peut, en outre, ordonner la fermeture temporaire ou définitive de l'établissement.
+Le président du tribunal peut, en outre, ordonner la publication de la  décision, son affichage dans les lieux qu'il désigne, son insertion  intégrale ou par extraits dans les journaux et sa diffusion par un ou  plusieurs services de communication au public en ligne qu'il indique, le  tout aux frais des dirigeants de l'organisme ayant utilisé la  dénomination en cause.

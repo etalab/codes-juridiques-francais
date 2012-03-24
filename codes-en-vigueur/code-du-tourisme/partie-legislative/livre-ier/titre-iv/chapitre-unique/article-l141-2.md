@@ -6,11 +6,11 @@ L'agence poursuit un triple objectif de promotion du tourisme en France, de réa
 
 ― fournir une expertise à l'Etat, aux collectivités territoriales et aux partenaires privés ou associatifs membres du groupement, pour la définition et la mise en œuvre de leur politique touristique, concevoir et développer leurs projets, les conseiller en matière de formation, de recherche, d'innovation et de développement durable dans le secteur du tourisme et exporter son savoir-faire à l'international ;
 
-― élaborer, mettre en œuvre et assurer le suivi des actions d'information et de promotion des territoires et destinations de la métropole et des collectivités ultramarines sur les marchés étranger et national.A ce titre, l'agence encourage la démarche de classement et promeut la qualité de l'offre touristique dans les hébergements, la restauration, l'accueil des touristes et les prestations annexes ;
+― élaborer, mettre en œuvre et assurer le suivi des actions d'information et de promotion des territoires et destinations de la métropole et des collectivités ultramarines sur les marchés étranger et national. A  ce titre, l'agence promeut la qualité de l'offre touristique dans les  hébergements, la restauration, l'accueil des touristes et les  prestations annexes, conduit les procédures de classement prévues au  livre III du présent code et prononce le classement des hébergements  touristiques marchands concernés, à l'exception des meublés de tourisme ;
 
 ― observer les phénomènes touristiques, mettre en place des données chiffrées fiables et utilisables par ses membres, produire des études, notamment prospectives, sur l'offre et la demande dans les filières et les territoires touristiques, diffuser le résultat de ses travaux par tous moyens qu'elle juge appropriés ;
 
-― concevoir et tenir à jour les tableaux de classement des offices de tourisme, des hôtels, des résidences de tourisme, des meublés de tourisme, des villages résidentiels de tourisme, des villages de vacances, des terrains de camping et caravanage, des parcs résidentiels de loisirs et des chambres d'hôtes, et diffuser librement et gratuitement la liste des hébergements classés.
+― concevoir et tenir à jour les tableaux de classement des offices de tourisme, des hôtels, des résidences de tourisme, des meublés de tourisme, des villages résidentiels de tourisme, des villages de vacances, des terrains de camping et caravanage et des parcs résidentiels de loisirs, et diffuser librement et gratuitement la liste des hébergements classés, à l'exception des meublés de tourisme.
 
 L'Etat, les collectivités territoriales ainsi que leurs établissements publics peuvent par convention confier à l'agence d'autres missions d'intérêt général compatibles avec son objet.
 
@@ -27,3 +27,5 @@ Un commissaire du Gouvernement est désigné auprès de l'agence. Sa mission et 
 L'agence est soumise au contrôle économique et financier de l'Etat, sans préjudice des dispositions de l'article L. 251-12 du code de commerce.
 
 Le contrat constitutif de l'agence de développement touristique de la France est approuvé par arrêté du ministre chargé du tourisme.
+
+Le  directeur général de l'agence, nommé par le ministre chargé du tourisme  sur proposition du conseil d'administration, assure, sous l'autorité de  ce conseil et de son président, le fonctionnement du groupement. Dans  les rapports avec les tiers, le directeur général engage le groupement  pour tout acte entrant dans l'objet de celui-ci.

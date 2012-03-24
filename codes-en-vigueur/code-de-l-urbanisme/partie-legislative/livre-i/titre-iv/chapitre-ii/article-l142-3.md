@@ -10,7 +10,7 @@ A titre exceptionnel, l'existence d'une construction ne fait pas obstacle à l'e
 
 Lorsque la mise en oeuvre de la politique prévue à l'article L. 142-1 le justifie, le droit de préemption peut s'exercer pour acquérir la fraction d'une unité foncière comprise à l'intérieur de la zone de préemption. Dans ce cas, le propriétaire peut exiger que le titulaire du droit de préemption se porte acquéreur de l'ensemble de l'unité foncière. Le prix d'acquisition fixé par la juridiction compétente en matière d'expropriation tient compte de l'éventuelle dépréciation subie, du fait de la préemption partielle, par la fraction restante de l'unité foncière.
 
-En cas d'adjudication, lorsque cette procédure est rendue obligatoire par une disposition législative ou réglementaire, l'acquisition par le titulaire du droit de préemption a lieu au prix de la dernière enchère, par substitution à l'adjudicataire. Cette disposition n'est toutefois pas applicable à la vente mettant fin à une indivision créée volontairement, à moins que celle-ci ne résulte d'une donation-partage.
+En cas d'adjudication, lorsque cette procédure est autorisée ou ordonnée par un juge, l'acquisition par le titulaire du droit de préemption a lieu au prix de la dernière enchère, par substitution à l'adjudicataire. Cette disposition n'est toutefois pas applicable à la vente mettant fin à une indivision créée volontairement, à moins que celle-ci ne résulte d'une donation-partage.
 
 Les échanges d'immeubles ruraux situés dans les zones de préemption définies au présent article réalisés dans les conditions prévues au titre 1er du livre Ier du code rural et de la pêche maritime ne sont pas soumis à ce droit.
 
@@ -26,6 +26,6 @@ Le département peut déléguer son droit de préemption à l'occasion de l'ali�
 
 Si, à son expiration, le décret de classement d'un parc naturel régional n'est pas renouvelé, les biens que ce parc a acquis par exercice de ce droit de préemption deviennent propriété du département.
 
-Dans les articles L. 142-1 et suivants, l'expression "titulaire du droit de préemption" s'entend également du délégataire en application du précédent alinéa, s'il y a lieu.
+Dans les articles L. 142-1 et suivants, l'expression " titulaire du droit de préemption " s'entend également du délégataire en application du précédent alinéa, s'il y a lieu.
 
 Les représentants des organisations professionnelles agricoles et forestières sont consultés sur la délimitation de ces zones de préemption.

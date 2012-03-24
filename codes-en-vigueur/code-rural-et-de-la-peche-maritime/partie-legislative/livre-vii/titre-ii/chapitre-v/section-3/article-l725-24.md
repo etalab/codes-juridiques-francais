@@ -10,7 +10,11 @@ Les caisses de mutualité sociale agricole doivent se prononcer de manière expl
 
 4° Aux mesures réglementaires spécifiques relatives aux avantages en nature et aux frais professionnels prises en application de l'article L. 741-10 du présent code ;
 
-5° Aux exemptions d'assiette mentionnées au même article L. 741-10.
+5° Aux exemptions d'assiette mentionnées au même article L. 741-10 ;
+
+6° Aux cotisations et contributions dues sur les rémunérations mentionnées à l'article L. 242-1-4 ;
+
+7° Aux règles de déclaration et de paiement des cotisations prévues au présent chapitre.
 
 Les caisses de mutualité sociale agricole doivent également se prononcer de manière explicite sur toute demande d'un cotisant ou futur cotisant relative à sa situation au regard des mesures d'exonération dont peuvent bénéficier les jeunes chefs d'exploitation ou d'entreprises agricoles en vertu de l'article L. 731-13.
 
@@ -26,4 +30,4 @@ Un cotisant affilié auprès d'une nouvelle caisse de mutualité sociale agricol
 
 Lorsque la caisse de mutualité sociale agricole entend modifier pour l'avenir sa décision, elle en informe le cotisant.
 
-Un décret en Conseil d'Etat définit les modalités d'application du présent article, notamment les conditions dans lesquelles les décisions rendues par les organismes de recouvrement font l'objet d'une publicité.
+Un décret en Conseil d'Etat définit les modalités d'application du présent article, notamment les conditions dans lesquelles les décisions rendues par les organismes de recouvrement font l'objet d'une publicité. Ce décret peut également prévoir les modalités suivant lesquelles certaines demandes qu'il détermine peuvent faire l'objet de décisions d'acceptation tacite.

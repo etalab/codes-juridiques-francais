@@ -1,6 +1,6 @@
 # Article L225-8
 
-En cas d'apports en nature comme au cas de stipulation d'avantages particuliers au profit de personnes associées ou non, un ou plusieurs commissaires aux apports sont désignés par décision de justice, à la demande des fondateurs ou de l'un d'entre eux. Ils sont soumis aux incompatibilités prévues à l'article L. 822-11.
+En cas d'apports en nature comme au cas de stipulation d'avantages particuliers au profit de personnes associées ou non, un ou plusieurs commissaires aux apports sont désignés à l'unanimité des fondateurs ou, à défaut, par décision de justice, à la demande des fondateurs ou de l'un d'entre eux. Ils sont soumis aux incompatibilités prévues à l'article L. 822-11.
 
 Les commissaires apprécient, sous leur responsabilité, la valeur des apports en nature et les avantages particuliers. Le rapport déposé au greffe, avec le projet de statuts, est tenu à la disposition des souscripteurs, dans les conditions déterminées par décret en Conseil d'Etat.
 

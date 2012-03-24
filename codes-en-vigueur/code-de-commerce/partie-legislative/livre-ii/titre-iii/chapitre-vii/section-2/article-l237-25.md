@@ -5,3 +5,5 @@ Le liquidateur, dans les trois mois de la clôture de chaque exercice, établit 
 Sauf dispense accordée par décision de justice, le liquidateur convoque selon les modalités prévues par les statuts, au moins une fois par an et dans les six mois de la clôture de l'exercice l'assemblée des associés qui statue sur les comptes annuels, donne les autorisations nécessaires et éventuellement renouvelle le mandat des contrôleurs, commissaires aux comptes ou membres du conseil de surveillance.
 
 Si l'assemblée n'est pas réunie, le rapport prévu au premier alinéa ci-dessus est déposé au greffe du tribunal de commerce et communiqué à tout intéressé.
+
+A défaut d'accomplir ces diligences, le liquidateur peut être déchu de tout ou partie de son droit à rémunération pour l'ensemble de sa mission par le président du tribunal saisi en application de l'article L. 238-2. Il peut en outre être révoqué selon les mêmes formes.

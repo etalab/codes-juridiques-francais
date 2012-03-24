@@ -4,7 +4,7 @@ En cas d'infraction aux dispositions des projets d'aménagement et des plans d'u
 
 Les sanctions édictées à l'article L. 480-4 s'appliquent également :
 
-a) En cas d'exécution de travaux ou d'utilisation du sol en méconnaissance des obligations imposées par les articles L. 111-1 à L. 111-1-4, L111-3 et L. 111-5-2 ainsi que par les règlements pris pour leur application ;
+a) En cas d'exécution de travaux ou d'utilisation du sol en méconnaissance des obligations imposées par les articles L. 111-1 à L. 111-1-4, L. 111-3 et L. 111-5-2 ainsi que par les règlements pris pour leur application ;
 
 b) En cas de coupes et d'abattages d'arbres effectués en infraction aux dispositions du cinquième alinéa de l'article L. 130-1, sur les territoires des communes, parties de communes ou ensemble de communes où l'établissement d'un plan d'occupation des sols a été prescrit mais où ce plan n'a pas encore été rendu public ;
 
@@ -14,7 +14,7 @@ d) En cas d'exécution de travaux ou d'utilisation du sol en infraction aux pres
 
 e) En cas d'exécution, dans une zone d'aménagement concerté, de travaux dont la réalisation doit obligatoirement être précédée d'une étude de sécurité publique en application de l'article L. 111-3-1, avant la réception de cette étude par la commission compétente en matière de sécurité publique.
 
-Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 252-1 du code rural et de la pêche maritime, peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction aux alinéas premier et second du présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de défendre.
+Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 141-1 du code de l'environnement, peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction aux alinéas premier et second du présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de défendre.
 
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles les associations visées à l'alinéa précédent pourront être agréées. Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, la procédure d'agrément est applicable aux associations inscrites depuis trois ans au moins.
 
