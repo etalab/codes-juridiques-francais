@@ -3,4 +3,3 @@
 - [Article D3171-8](article-d3171-8.md)
 - [Article D3171-9](article-d3171-9.md)
 - [Article D3171-10](article-d3171-10.md)
-- [Article R3171-9-1](article-r3171-9-1.md)

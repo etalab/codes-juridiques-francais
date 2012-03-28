@@ -3,4 +3,3 @@
 - [Article R3173-1](article-r3173-1.md)
 - [Article R3173-2](article-r3173-2.md)
 - [Article R3173-3](article-r3173-3.md)
-- [Article R3173-4](article-r3173-4.md)
