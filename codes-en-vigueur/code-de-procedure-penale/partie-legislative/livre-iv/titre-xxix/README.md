@@ -7,3 +7,4 @@
 ou droits mobiliers incorporels](chapitre-iv)
 - [Chapitre V : Des saisies sans dépossession](chapitre-v)
 - [Article 706-141](article-706-141.md)
+- [Article 706-141-1](article-706-141-1.md)

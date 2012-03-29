@@ -6,7 +6,7 @@ L'agence est chargée d'assurer, sur l'ensemble du territoire et sur mandat de j
 
 2° La gestion centralisée de toutes les sommes saisies lors de procédures pénales ;
 
-3° L'aliénation ou la destruction des biens dont elle a été chargée d'assurer la gestion au titre du 1° et qui sont ordonnées, sans préjudice de l'affectation de ces biens dans les conditions prévues par l'article L. 2222-9 du code général de la propriété des personnes publiques ;
+3° L'aliénation ou la destruction des biens dont elle a été chargée d'assurer la gestion au titre du 1° et qui sont ordonnées, sans préjudice de l'affectation de ces biens dans les conditions prévues aux articles L. 2222-9 du code général de la propriété des personnes publiques et 707-1 du présent code ;
 
 4° L'aliénation des biens ordonnée ou autorisée dans les conditions prévues aux articles 41-5 et 99-2 du présent code.
 
