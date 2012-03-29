@@ -3,3 +3,4 @@
 - [Article 46 AZA octies](article-46-aza-octies.md)
 - [Article 46 AZA octies A](article-46-aza-octies-a.md)
 - [Article 46 AZA nonies](article-46-aza-nonies.md)
+- [Article 46 AZA decies](article-46-aza-decies.md)
