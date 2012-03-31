@@ -1,6 +1,6 @@
 # Article R221-2-1
 
-Les sanctions administratives susceptibles d'être prononcées à l'encontre des personnes titulaires d'une carte professionnelle, en cas de manquement à leurs obligations professionnelles, sont les suivantes :
+Les sanctions administratives susceptibles d'être prononcées à l'encontre des personnes titulaires de la carte professionnelle de guide-conférencier, en cas de manquement à leurs obligations professionnelles, sont les suivantes :
 
 1° L'avertissement ;
 
