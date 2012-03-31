@@ -6,7 +6,7 @@ a) Frais d'ouverture des portes ;
 
 b) Notification au saisi en cas de saisie-vente hors de son domicile et en son absence ;
 
-c) Notification au maire, au parquet ou par procès-verbal dans les cas prévus par les articles 656, 659, 660, 684 et 691 du code de procédure civile ;
+c) Notification au maire, au parquet ou par procès-verbal dans les cas prévus par les articles 656,659,660,684 et 691 du code de procédure civile ;
 
 d) Remise des actes sous enveloppe ;
 
@@ -38,4 +38,4 @@ q) Honoraires du notaire chargé de l'adjudication de valeurs mobilières non ad
 
 r) Frais de publicité provisoire et définitive des sûretés judiciaires.
 
-Ces frais sont comptés aux redevables en conformité du tarif des huissiers de justice, des agents huissiers du Trésor, des commissaires-priseurs judiciaires, des notaires, ou des règles de rémunérations applicables aux avocats.
+Ces frais sont comptés aux redevables en conformité du tarif des huissiers de justice, des   agents des finances publiques chargés des fonctions d'huissier, des commissaires-priseurs judiciaires, des notaires, ou des règles de rémunérations applicables aux avocats.
