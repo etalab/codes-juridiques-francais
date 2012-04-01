@@ -12,6 +12,6 @@ III. - 1. La commission se réunit sur convocation de son président, qui arrêt
 
 2. La commission réside à Paris.
 
-3. Les représentants de l'administration appelés à siéger au sein de la commission sont désignés par le directeur chargé de la direction spécialisée des impôts pour la région Ile-de-France et pour Paris.
+3. Les représentants de l'administration appelés à siéger au sein de la commission sont désignés par le directeur chargé de la direction régionale des finances publiques d'Ile-de-France et du département de Paris.
 
 IV. - Le quorum est égal à la moitié du nombre des membres appelés à siéger, quelle que soit la formation.

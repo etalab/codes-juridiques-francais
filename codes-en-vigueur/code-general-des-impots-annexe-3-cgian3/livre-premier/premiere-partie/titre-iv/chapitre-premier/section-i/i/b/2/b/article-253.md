@@ -8,6 +8,8 @@ Le bureau où la formalité fusionnée est exécutée perçoit la totalité des 
 
 L'extrait d'acte visé à l'article 860 du code général des impôts est déposé en double exemplaire à la conservation où la formalité fusionnée est requise ; un exemplaire supplémentaire est remis à chacune des autres conservations intéressées.
 
+L'autorité compétente de l'Etat mentionnée aux premier et deuxième alinéas de l'article 860 du code général des impôts est le directeur général des finances publiques.
+
 III. Quand la formalité fusionnée est applicable à des actes portant sur des immeubles situés en partie dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin, elle est exécutée dans les conditions fixées au II, à la conservation ou à l'une des conservations compétentes qui perçoit la totalité des droits et taxes exigibles sur l'acte. Les dispositions du même paragraphe sont applicables à la publicité requise dans les autres bureaux des hypothèques en ce qui concerne les immeubles situés en dehors des trois départements visés ci-dessus.
 
 IV. Une réquisition de formalité fusionnée est obligatoire en cas de présentation à cette formalité d'actes qui y sont soumis facultativement.

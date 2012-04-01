@@ -1,16 +1,16 @@
 # Article 369
 
-1. Sous réserve des dispositions de l'article 406 terdecies, les sommes dues au titre de la taxe sur les salaires sont versées au comptable de la direction générale des impôts du lieu dont relève le siège de l'entreprise ou le principal établissement ou le domicile de l'employeur.
+1. Sous réserve des dispositions de l'article 406 terdecies, les sommes dues au titre de la taxe sur les salaires sont versées au comptable chargé du service des impôts des entreprises du lieu dont relève le siège de l'entreprise ou le principal établissement ou le domicile de l'employeur, ou, pour les entreprises qui relèvent des dispositions de l'article 344-0 A, le comptable de la direction des grandes entreprises.
 
 Lorsque le montant total de la taxe sur les salaires acquittée l'année précédente :
 
-a) Est inférieur à 1 000 Euros, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison des rémunérations payées pendant l'année en cours dans les quinze premiers jours de l'année suivante ;
+a) Est inférieur à 1 000 €, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison des rémunérations payées pendant l'année en cours dans les quinze premiers jours de l'année suivante ;
 
-b) Est compris entre 1 000 Euros et 4 000 Euros, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison des rémunérations payées pendant un trimestre déterminé dans les quinze premiers jours du trimestre suivant ;
+b) Est compris entre 1 000 € et 4 000 €, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison des rémunérations payées pendant un trimestre déterminé dans les quinze premiers jours du trimestre suivant ;
 
-c) Est supérieur à 4 000 Euros, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison des rémunérations payées pendant un mois déterminé dans les quinze premiers jours du mois suivant.
+c) Est supérieur à 4 000 €, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison des rémunérations payées pendant un mois déterminé dans les quinze premiers jours du mois suivant.
 
-Toutefois, si les sommes dues au titre de la taxe sur les salaires à raison des rémunérations payées depuis le 1er janvier de l'année en cours sont supérieures à 10 000 Euros, les employeurs versent la totalité de ces sommes dans les quinze premiers jours du mois suivant le dépassement de ce seuil. Le versement des échéances restantes jusqu'à la fin de l'année s'effectue mensuellement.
+Toutefois, si les sommes dues au titre de la taxe sur les salaires à raison des rémunérations payées depuis le 1er janvier de l'année en cours sont supérieures à 10 000 €, les employeurs versent la totalité de ces sommes dans les quinze premiers jours du mois suivant le dépassement de ce seuil. Le versement des échéances restantes jusqu'à la fin de l'année s'effectue mensuellement.
 
 2. Chaque versement, mensuel ou trimestriel, est accompagné d'un relevé dont le modèle est fixé par l'administration, daté et signé par l'employeur et indiquant notamment sa désignation, sa profession et son adresse, la période à laquelle s'applique ce versement et le montant de la taxe sur les salaires versés.
 
@@ -22,7 +22,7 @@ Elle est accompagnée, le cas échéant, de l'impôt ou du complément d'impôt 
 
 4. En cas de :
 
-a) Transfert du siège, du principal établissement ou du domicile, les versements s'effectuent auprès du comptable des impôts dont dépend la nouvelle adresse ;
+a) Transfert du siège, du principal établissement ou du domicile, les versements s'effectuent auprès du comptable du service des impôts des entreprises dont dépend la nouvelle adresse ;
 
 b) Cession ou de cessation d'activité, l'employeur est tenu de souscrire dans les soixante jours, et au plus tard le 15 janvier de l'année suivante, la déclaration prévue au 3 accompagnée du paiement y afférent ;
 

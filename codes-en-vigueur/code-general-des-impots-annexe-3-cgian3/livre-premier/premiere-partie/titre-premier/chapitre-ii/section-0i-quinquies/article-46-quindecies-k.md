@@ -14,6 +14,6 @@ e. La date et le montant des versements effectués au titre de la souscription d
 
 f. Le cas échéant, le nombre et les numéros des actions cédées par l'actionnaire ainsi que le montant et la date des cessions.
 
-Lorsque les actions cédées au cours d'une année ont été souscrites depuis moins de cinq ans par le cédant, la société pour le financement de la pêche artisanale adresse, avant le 16 février de l'année suivante, à la direction des services fiscaux du domicile du cédant le relevé mentionné au premier alinéa ou un duplicata de ce relevé.
+Lorsque les actions cédées au cours d'une année ont été souscrites depuis moins de cinq ans par le cédant, la société pour le financement de la pêche artisanale adresse, avant le 16 février de l'année suivante, à la direction départementale ou, le cas échéant, régionale des finances publiques du domicile du cédant le relevé mentionné au premier alinéa ou un duplicata de ce relevé.
 
 Ce relevé est établi sur papier libre, conformément au modèle fixé par l'administration.
