@@ -1,6 +1,5 @@
 # Sous-section 1 : Dispositions communes aux établissements organisant la pratique de la plongée subaquatique à l'air, à l'oxygène ou aux mélanges autres que l'air
 
-- [Article A322-71](article-a322-71.md)
 - [Article A322-72](article-a322-72.md)
 - [Article A322-73](article-a322-73.md)
 - [Article A322-74](article-a322-74.md)
@@ -11,9 +10,3 @@
 - [Article A322-79](article-a322-79.md)
 - [Article A322-80](article-a322-80.md)
 - [Article A322-81](article-a322-81.md)
-- [Article A322-82](article-a322-82.md)
-- [Article A322-83](article-a322-83.md)
-- [Article A322-84](article-a322-84.md)
-- [Article A322-85](article-a322-85.md)
-- [Article A322-86](article-a322-86.md)
-- [Article A322-87](article-a322-87.md)
