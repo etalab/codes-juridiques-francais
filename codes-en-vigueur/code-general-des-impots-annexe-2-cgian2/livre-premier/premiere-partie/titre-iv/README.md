@@ -1,4 +1,4 @@
-# Titre IV : Enregistrement, publicité foncière, timbre
+# Titre IV : Enregistrement, publicité foncière, Impôt de solidarité sur la fortune, timbre
 
 - [Chapitre Ier bis : Impôt de solidarité sur la fortune](chapitre-ier-bis)
 - [Chapitre II : Droits de timbre](chapitre-ii)

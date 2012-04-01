@@ -4,4 +4,4 @@ En cas de caducité de la déclaration visée au II de l'article 202 A du fait d
 
 Cette décision a pour effet de remettre en cause l'exonération de TVA des opérations mentionnées à l'article 202 B, qui deviennent imposables à la TVA à partir de la date de sa notification.
 
-Un exemplaire de cette notification est adressé à la direction des services fiscaux dont relève le titulaire.
+Un exemplaire de cette notification est adressé à la   direction départementale ou, le cas échéant, régionale des finances publiques dont relève le titulaire.

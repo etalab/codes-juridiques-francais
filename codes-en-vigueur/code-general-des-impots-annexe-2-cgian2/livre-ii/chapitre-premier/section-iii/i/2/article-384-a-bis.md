@@ -8,7 +8,7 @@ II. L'offre est adressée par le service des impôts ou la conservation des hypo
 
 Avant de se prononcer, cette commission consulte le Conservatoire de l'espace littoral et des rivages lacustres.
 
-La commission émet un avis sur la situation et l'intérêt écologique ou paysager du bien offert ainsi que, après avoir consulté le service des domaines, sur sa valeur libératoire.
+La commission émet un avis sur la situation et l'intérêt écologique ou paysager du bien offert ainsi que, après avoir consulté le directeur départemental ou, le cas échéant, régional des finances publiques, sur sa valeur libératoire.
 
 III. Au vu de l'avis de la commission, le ministre chargé de la protection de la nature propose au ministre chargé du budget l'octroi ou le refus de l'agrément.
 

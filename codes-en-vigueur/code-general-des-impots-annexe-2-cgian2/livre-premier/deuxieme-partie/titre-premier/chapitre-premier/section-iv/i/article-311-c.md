@@ -4,6 +4,6 @@ Les exploitants concessionnaires, amodiataires ou sous-amodiataires de mines, le
 
 Cette déclaration fait ressortir, pour chaque exploitation ou exploration et pour l'ensemble de l'année, en le décomposant par communes intéressées, le tonnage net du produit extrait, et, s'il y a lieu, le tonnage contenu de chacun des métaux dont la taxation est prévue par l'arrêté visé au II de l'article 1519 du code général des impôts, ces divers chiffres étant évalués comme il est prescrit à l'article 311 A.
 
-L'ingénieur en chef, après avoir vérifié la déclaration, transmet à la direction des services fiscaux, pour chaque exploitation ou exploration, les éléments nécessaires au calcul des deux redevances départementale et communale, ainsi qu'à la répartition de la redevance communale (1).
+L'ingénieur en chef, après avoir vérifié la déclaration, transmet à la direction départementale ou, le cas échéant, régionale des finances publiques, pour chaque exploitation ou exploration, les éléments nécessaires au calcul des deux redevances départementale et communale, ainsi qu'à la répartition de la redevance communale (1).
 
 (1) Voir Annexe II, art. 312 et 315.

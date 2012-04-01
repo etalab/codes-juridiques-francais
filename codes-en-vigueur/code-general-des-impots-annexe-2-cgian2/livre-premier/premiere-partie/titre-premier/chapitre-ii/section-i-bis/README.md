@@ -1,4 +1,4 @@
-# Section I bis : Bénéfices réalisés par l'intermédiaire de sociétés établies dans des pays à régime fiscal privilégié
+# Section I bis : Bénéfices réalisés par l'intermédiaire d'entités juridiques établies dans des pays à régime fiscal privilégié
 
 - [Article 102 V](article-102-v.md)
 - [Article 102 X](article-102-x.md)

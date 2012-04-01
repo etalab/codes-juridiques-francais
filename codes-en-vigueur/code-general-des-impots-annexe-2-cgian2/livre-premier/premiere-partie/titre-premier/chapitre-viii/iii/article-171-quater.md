@@ -8,4 +8,4 @@ A l'appui de la réquisition de publier ou de la présentation à l'enregistreme
 
 Au service des impôts dont relève le domicile du représentant accrédité dans le cas contraire.
 
-Il est fait application, dans le premier cas, des règles d'exigibilité et de recouvrement prévues aux articles 1701 à 1712 du code général des impôts et, dans le second cas, de celles qui sont prévues au titre IV du livre des procédures fiscales pour les impôts recouvrés par les comptables de la direction générale des impôts.
+Il est fait application, dans le premier cas, des règles d'exigibilité et de recouvrement prévues aux articles 1701 à 1712 du code général des impôts et, dans le second cas, de celles qui sont prévues au titre IV du livre des procédures fiscales pour les impôts recouvrés par voie d'avis de mise en recouvrement.
