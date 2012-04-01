@@ -1,27 +1,31 @@
 # Article A322-78
 
-Les pratiquants ont à leur disposition sur les lieux de plongée le matériel de secours suivant :
+I. - Les pratiquants ont à leur disposition sur le lieu de mise à l'eau ou d'immersion un plan de secours ainsi que le matériel de secours suivant :
 
-― un moyen de communication permettant de prévenir les secours ;
+- un moyen de communication permettant de prévenir les secours. Une VHF est nécessaire lorsque la plongée se déroule en mer au départ d'une embarcation support de plongée ;
 
-― une trousse de secours dont le contenu minimum est fixé en annexe III-17 du présent code ;
+- de l'eau douce potable ;
 
-― de l'eau douce potable non gazeuse ;
+- un ballon auto-remplisseur à valve unidirectionnelle avec sac de réserve d'oxygène et trois masques (grand, moyen, petit) ;
 
-― un ballon autoremplisseur à valve unidirectionnelle (BAVU) avec sac de réserve d'oxygène ;
+- un masque à haute concentration ;
 
-― une bouteille d'oxygène gonflée d'une capacité suffisante pour permettre, en cas d'accident, un traitement adapté à la plongée, avec manodétendeur et tuyau de raccordement au BAVU ;
+- un ensemble d'oxygénothérapie médicale normobare d'une capacité suffisante pour permettre, en cas d'accident, une prise en charge adaptée à la situation jusqu'à l'arrivée des secours médicaux, avec manodétendeur, débit-litre et tuyau de raccordement au ballon auto-remplisseur à valve unidirectionnelle ou au masque à haute concentration ;
 
-― une bouteille d'air de secours équipée de son détendeur ;
+- une couverture isothermique ;
 
-― une couverture isothermique ;
+- des fiches d'évacuation selon un modèle type en annexe III-19.
 
-― un moyen de rappeler un plongeur en immersion depuis la surface, lorsque la plongée se déroule en milieu naturel, au départ d'une embarcation, ainsi que, éventuellement, un aspirateur de mucosités.
+Le plan de secours est un document écrit, adapté au lieu et à la plongée pratiquée, régulièrement mis à jour et porté à la connaissance du directeur de plongée, des personnes encadrant les palanquées et des plongeurs autonomes. Il précise notamment les modalités d'alerte en cas d'accident, les coordonnées des services de secours et les procédures d'urgence à appliquer en surface à la victime.
 
-Ils ont en outre le matériel d'assistance suivant :
+II. - Ils ont en outre le matériel d'assistance suivant :
 
-― une tablette de notation ;
+- une bouteille d'air de secours équipée de son détendeur et, en cas de plongée effectuée avec un mélange respiratoire autre que l'air, une ou plusieurs bouteilles de secours équipées de détendeurs, dont le contenu prévu par le plan de secours est adapté à la plongée organisée ;
 
-― un jeu de tables permettant de vérifier ou de recalculer les procédures de remontées des plongées réalisées au-delà    de la profondeur de 6 mètres.
+- un moyen de rappeler un plongeur en immersion depuis la surface, lorsque la plongée se déroule en milieu naturel, au départ d'une embarcation ;
 
-Les matériels et équipements nautiques des plongeurs sont conformes à la réglementation en vigueur et correctement entretenus.
+- une tablette de notation immergeable ;
+
+- en milieu naturel, au-delà de la profondeur de 6 mètres, un jeu de tables de décompression.
+
+III. - Le matériel de secours est régulièrement vérifié et correctement entretenu.
