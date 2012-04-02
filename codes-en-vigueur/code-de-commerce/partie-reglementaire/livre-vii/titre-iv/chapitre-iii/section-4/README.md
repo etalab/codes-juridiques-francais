@@ -1,4 +1,4 @@
-# Section 4 : De la modification du ressort des juridictions commerciales par suite d'une nouvelle délimitation de circonscriptions administratives ou judiciaires.
+# Section 4 : De la modification du ressort des juridictions commerciales par suite d'une nouvelle délimitation de circonscriptions administratives ou judiciaires et du transfert du greffe des tribunaux mixtes de commerce.
 
 - [Article R743-158](article-r743-158.md)
 - [Article R743-159](article-r743-159.md)
