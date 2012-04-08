@@ -7,4 +7,4 @@
 - [V : Plan d'épargne populaire.](v)
 - [V bis : Plan d'épargne en actions](v-bis)
 - [VI : Déduction des pensions alimentaires](vi)
-- [VIII : Modalités d'imposition des revenus et plus-values en cas de transfert du domicile fiscal hors de France](viii)
+- [VIII : Modalités d'imposition des revenus et plus-values en cas de transfert du domicile hors de France](viii)
