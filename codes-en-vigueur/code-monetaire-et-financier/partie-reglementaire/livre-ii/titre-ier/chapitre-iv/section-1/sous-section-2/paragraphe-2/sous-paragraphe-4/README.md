@@ -10,5 +10,3 @@
 - [Article D214-80-7](article-d214-80-7.md)
 - [Article D214-80-8](article-d214-80-8.md)
 - [Article D214-80-9](article-d214-80-9.md)
-- [Article D214-80-10](article-d214-80-10.md)
-- [Article D214-80-11](article-d214-80-11.md)
