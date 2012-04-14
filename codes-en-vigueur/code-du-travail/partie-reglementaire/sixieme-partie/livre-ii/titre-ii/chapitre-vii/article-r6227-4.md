@@ -1,4 +1,4 @@
-# Article R6226-4
+# Article R6227-4
 
 Le fait de verser un salaire à l'apprenti inférieur au minimum prévu par l'article L. 6222-27, est puni de l'amende prévue pour les contraventions de la cinquième classe.
 

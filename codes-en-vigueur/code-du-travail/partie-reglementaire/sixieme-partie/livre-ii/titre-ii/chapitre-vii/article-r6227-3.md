@@ -1,4 +1,4 @@
-# Article R6226-3
+# Article R6227-3
 
 Le fait d'employer un apprenti âgé de moins de dix-huit ans à un travail de nuit, en méconnaissance des dispositions de l'article L. 6222-26, est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
