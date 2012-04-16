@@ -2,9 +2,9 @@
 
 Le Conseil supérieur du service de santé des armées comprend :
 
-1° Le chef d'état-major des armées, vice-président ;
+1° Le directeur central du service de santé des armées, vice-président ;
 
-2° Le directeur central du service de santé des armées, membre de droit ;
+2° Le major général des armées, membre de droit ;
 
 3° L'inspecteur général du service de santé des armées, membre de droit ;
 

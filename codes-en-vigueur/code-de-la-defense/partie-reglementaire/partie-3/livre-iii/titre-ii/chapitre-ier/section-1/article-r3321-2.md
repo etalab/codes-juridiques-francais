@@ -12,4 +12,12 @@ Le Conseil supérieur interarmées, présidé par le ministre de la défense, co
 
 5° L'inspecteur général des armées de chacune des trois armées ;
 
-6° Le major général des armées.
+6° Le major général des armées ;
+
+7° Le directeur central du service de santé des armées ;
+
+8° Le directeur central du service des essences des armées ;
+
+9° Le directeur central du service du commissariat des armées ;
+
+10° L'inspecteur général du service de santé des armées.

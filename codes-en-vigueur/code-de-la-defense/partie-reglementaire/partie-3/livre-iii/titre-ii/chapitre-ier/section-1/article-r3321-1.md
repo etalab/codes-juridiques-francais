@@ -1,6 +1,6 @@
 # Article R3321-1
 
-Le Conseil supérieur interarmées est consulté par le ministre de la défense pour l'avancement aux grades d'officier général de chacune des trois armées.
+Le Conseil supérieur interarmées est consulté par le ministre de la défense pour l'avancement aux grades d'officier général de chacune des trois armées, du service de santé des armées, du service des essences des armées et du service du commissariat des armées.
 
 Il peut être consulté par le ministre ou le chef d'état-major des armées sur les sujets d'ordre général à caractère interarmées ou sur toute autre question, à l'exclusion des questions relatives à l'exercice du pouvoir disciplinaire.
 
