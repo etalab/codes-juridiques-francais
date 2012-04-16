@@ -8,9 +8,7 @@ Les journaux et écrits périodiques présentant un lien direct avec l'actualit�
 
 a) Porter l'indication du nom et du domicile de l'imprimeur ; ces indications doivent se rapporter à l'imprimeur qui imprime réellement la publication ;
 
-b) Avoir un directeur de la publication dont le nom est imprimé sur tous les exemplaires ;
-
-c) Avoir fait l'objet du dépôt prévu aux articles 7 et 10 de la loi précitée ;
+b) Avoir un directeur de la publication dont le nom est imprimé sur tous les exemplaires.
 
 3° Paraître régulièrement au moins une fois par trimestre sans qu'il puisse y avoir un intervalle supérieur à quatre mois entre deux parutions ;
 
