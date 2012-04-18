@@ -12,21 +12,21 @@ Conditions d'évolution en enseignement en plongée au trimix ou à l'héliox en
 <p align="center">APTITUDES MINIMALES DES PLONGEURS</p>
 </td>
 <td>
-<p align="center">COMPÉTENCE<br/>minimale<br/>de la personne encadrant<br/>la palanquée</p>
+<p align="center">COMPÉTENCE<br/>minimale de la personne encadrant<br/>la palanquée</p>
 </td>
 <td>
-<p align="center">EFFECTIF<br/>maximal<br/>de la palanquée<br/>(personne encadrant<br/>la palanquée<br/>non comprise)</p>
+<p align="center">EFFECTIF<br/>maximal <br/>de la palanquée<br/>(personne encadrant<br/>la palanquée<br/>non comprise)</p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p>Espace de 0 à 40 mètres </p>
+<p>Espace de 0 à 40 ètres </p>
 </td>
 <td valign="top">
 <p>PE-40 + PN-C en cours de formation vers les aptitudes PTH-40</p>
 </td>
 <td valign="top">
-<p align="center">E-3 + PTH-60</p>
+<p align="center">E-3 + PTH-70</p>
 </td>
 <td valign="top">
 <p align="center">4</p>
@@ -34,13 +34,13 @@ Conditions d'évolution en enseignement en plongée au trimix ou à l'héliox en
 </tr>
 <tr>
 <td valign="top">
-<p>Espace de 0 à 60 mètres</p>
+<p>Espace de 0 à 70 mètres</p>
 </td>
 <td valign="top">
-<p>PE-60 + PTH-40 en cours de formation vers les aptitudes PTH-60</p>
+<p>PE-60 + PTH-40 en cours de formation vers les aptitudes PTH-70</p>
 </td>
 <td valign="top">
-<p align="center">E-4 + PTH-120</p>
+<p align="center">E-4 + PTH-120 </p>
 </td>
 <td valign="top">
 <p align="center">4</p>
@@ -51,7 +51,7 @@ Conditions d'évolution en enseignement en plongée au trimix ou à l'héliox en
 <p>Espace de 0 à 80 mètres</p>
 </td>
 <td valign="top">
-<p>PE-60 + PTH-60 en cours de formation vers les aptitudes PTH-120 </p>
+<p>PE-60 + PTH-70 en cours de formation vers les aptitudes PTH-120</p>
 </td>
 <td valign="top">
 <p align="center">E-4 + PTH-120</p>

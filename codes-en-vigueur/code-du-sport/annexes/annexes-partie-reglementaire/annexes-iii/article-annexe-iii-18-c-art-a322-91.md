@@ -35,7 +35,7 @@ Conditions d'évolution en exploration en plongée au trimix ou à l'héliox en 
 </tr>
 <tr>
 <td valign="top">
-<p>Espace de 0<br/>à 40 mètres</p>
+<p>Espace de 0 à 40 mètres</p>
 </td>
 <td valign="top">
 <p align="center">PE-40 + PTH-40</p>
@@ -55,19 +55,19 @@ Conditions d'évolution en exploration en plongée au trimix ou à l'héliox en 
 </tr>
 <tr>
 <td valign="top">
-<p>Espace de 0<br/>à 60 mètres</p>
+<p>Espace de 0 à 70 mètres</p>
 </td>
 <td valign="top">
-<p align="center">PE-60 + PTH-60</p>
+<p align="center">PE-60 + PTH-70</p>
 </td>
 <td valign="top">
 <p align="center">4</p>
 </td>
 <td valign="top">
-<p align="center">E4 + PTH-60</p>
+<p align="center">E4 + PTH-70</p>
 </td>
 <td valign="top">
-<p align="center">PA-60 + PTH-60</p>
+<p align="center">PA-60 + PTH-70</p>
 </td>
 <td valign="top">
 <p align="center">3</p>
@@ -75,7 +75,7 @@ Conditions d'évolution en exploration en plongée au trimix ou à l'héliox en 
 </tr>
 <tr>
 <td valign="top">
-<p>Espace de 0<br/>à 80 mètres</p>
+<p>Espace de 0 à 80 mètres</p>
 </td>
 <td valign="top">
 <p align="center">PE-60 + PTH-120</p>

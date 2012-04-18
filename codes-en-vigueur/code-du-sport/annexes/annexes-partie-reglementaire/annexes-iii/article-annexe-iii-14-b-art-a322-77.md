@@ -12,7 +12,7 @@ Brevets de pratiquants délivrés par la Fédération française d'études et de
 <p align="center">BREVETS DÉLIVRÉS<br/>par la CMAS</p>
 </td>
 <td>
-<p align="center">APTITUDES À PLONGER ENCADRÉ<br/>par un guide de palanquée</p>
+<p align="center">APTITUDES À PLONGER ENCADRÉ<br/>(avec une personne<br/>encadrant la palanquée)</p>
 </td>
 <td>
 <p align="center">APTITUDES À PLONGER<br/>en autonomie<br/>(sans personne<br/>encadrant la palanquée)</p>

@@ -6,7 +6,7 @@ Conditions d'évolution en enseignement en plongée à l'air en milieu naturel
 <tbody>
 <tr>
 <td>
-<p align="center">ESPACES<br/>d'évolution</p>
+<p align="center">ESPACES d'évolution</p>
 </td>
 <td>
 <p align="center">APTITUDES MINIMALES DES PLONGEURS</p>
@@ -101,7 +101,7 @@ Conditions d'évolution en enseignement en plongée à l'air en milieu naturel
 </tr>
 <tr>
 <td colspan="4">
-<p>(*) Possibilité d'ajouter dans la palanquée un ou plusieurs plongeurs supplémentaires, au minimum titulaires d'une qualification de guide de palanquée (GP) ou de plongeur niveau 4 (P4).</p>
+<p align="left">(*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au minimum titulaire d'une qualification de guide de palanquée (GP) ou de plongeur niveau 4 (P4).</p>
 </td>
 </tr>
 </tbody>

@@ -15,7 +15,7 @@ Conditions d'évolution en enseignement en plongée au nitrox en milieu naturel
 <p align="center">COMPÉTENCE<br/>minimale<br/>de la personne encadrant<br/>la palanquée</p>
 </td>
 <td>
-<p align="center">EFFECTIF<br/>maximal<br/>de la palanquée<br/>(personne encadrant<br/>la palanquée non comprise)</p>
+<p align="center">EFFECTIF<br/>maximal <br/>de la palanquée<br/>(personne encadrant<br/>la palanquée<br/>non comprise)</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +48,7 @@ Conditions d'évolution en enseignement en plongée au nitrox en milieu naturel
 <p>Espace de 0 à 12 mètres </p>
 </td>
 <td>
-<p>PE-12 en cours de formation vers les aptitudes PN-20</p>
+<p>PE-12 en cours de formation vers les aptitudes PN</p>
 </td>
 <td>
 <p align="center">E-2 + PN-C</p>
@@ -62,7 +62,7 @@ Conditions d'évolution en enseignement en plongée au nitrox en milieu naturel
 <p>Espace de 0 à 20 mètres</p>
 </td>
 <td>
-<p>PE-20 en cours de formation vers les aptitudes PN-20</p>
+<p>PE-20 en cours de formation vers les aptitudes PN</p>
 </td>
 <td>
 <p align="center">E-2 + PN-C</p>
@@ -76,7 +76,7 @@ Conditions d'évolution en enseignement en plongée au nitrox en milieu naturel
 <p>Espace de 0 à 40 mètres</p>
 </td>
 <td>
-<p>PE-40 + PN-C</p>
+<p>PE-40 + PN</p>
 </td>
 <td>
 <p align="center">E-3 + PN-C</p>
@@ -87,10 +87,10 @@ Conditions d'évolution en enseignement en plongée au nitrox en milieu naturel
 </tr>
 <tr>
 <td>
-<p align="left">Espace au-delà de 40 mètres et dans la limite de 60 mètres</p>
+<p>Espace au-delà de 40 mètres et dans la limite de 60 mètres</p>
 </td>
 <td>
-<p>PE-60 + PN-C</p>
+<p>PE-60 + PN</p>
 </td>
 <td>
 <p align="center">E-4 + PN-C</p>

@@ -30,15 +30,15 @@ Conditions d'évolution en exploration en plongée au nitrox en milieu naturel
 <br/>Aptitudes minimales<br/>des plongeurs<br/>en autonomie</p>
 </td>
 <td>
-<p align="center">Effectif minimal<br/>de la palanquée</p>
+<p align="center">Effectif maximal<br/>de la palanquée</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Espace de 0<br/>à 12 mètres</p>
+<p>Espace de 0 à 12 mètres</p>
 </td>
 <td>
-<p align="center">PE-12 + PN-20</p>
+<p align="center">PE-12 + PN</p>
 </td>
 <td>
 <p align="center">4 (*)</p>
@@ -47,7 +47,7 @@ Conditions d'évolution en exploration en plongée au nitrox en milieu naturel
 <p align="center">E2 ou GP ou<br/>P4 + PN-C</p>
 </td>
 <td>
-<p align="center">PA-12 + PN-20</p>
+<p align="center">PA-12 + PN</p>
 </td>
 <td>
 <p align="center">3</p>
@@ -55,10 +55,10 @@ Conditions d'évolution en exploration en plongée au nitrox en milieu naturel
 </tr>
 <tr>
 <td>
-<p>Espace de 0<br/>à 20 mètres</p>
+<p>Espace de 0 à 20 mètres</p>
 </td>
 <td>
-<p align="center">PE-20 + PN-20</p>
+<p align="center">PE-20 + PN</p>
 </td>
 <td>
 <p align="center">4 (*)</p>
@@ -67,7 +67,7 @@ Conditions d'évolution en exploration en plongée au nitrox en milieu naturel
 <p align="center">E2 ou GP ou<br/>P4 + PN-C</p>
 </td>
 <td>
-<p align="center">PA-20 + PN-20</p>
+<p align="center">PA-20 + PN</p>
 </td>
 <td>
 <p align="center">3</p>
@@ -75,10 +75,10 @@ Conditions d'évolution en exploration en plongée au nitrox en milieu naturel
 </tr>
 <tr>
 <td>
-<p>Espace de 0<br/>à 40 mètres</p>
+<p>Espace de 0 à 40 mètres</p>
 </td>
 <td>
-<p align="center">PE-40 + PN-C</p>
+<p align="center">PE-40 + PN</p>
 </td>
 <td>
 <p align="center">4 (*)</p>
@@ -87,7 +87,7 @@ Conditions d'évolution en exploration en plongée au nitrox en milieu naturel
 <p align="center">E3 ou GP ou<br/>P4 + PN-C</p>
 </td>
 <td>
-<p align="center">PA-40 + PN-C</p>
+<p align="center">PA-40 + PN</p>
 </td>
 <td>
 <p align="center">3</p>
@@ -98,7 +98,7 @@ Conditions d'évolution en exploration en plongée au nitrox en milieu naturel
 <p>Espace au-delà de 40 mètres et dans la limite de 60 mètres</p>
 </td>
 <td>
-<p align="center">PE-60 + PN-C</p>
+<p align="center">PE-60 + PN</p>
 </td>
 <td>
 <p align="center">4</p>
@@ -107,7 +107,7 @@ Conditions d'évolution en exploration en plongée au nitrox en milieu naturel
 <p align="center">E4 + PN-C</p>
 </td>
 <td>
-<p align="center">PA-60 + PN-C</p>
+<p align="center">PA-60 + PN</p>
 </td>
 <td>
 <p align="center">3 </p>

@@ -29,7 +29,7 @@ Conditions d'évolution en exploration en plongée à l'air en milieu naturel
 <p align="center">Aptitudes minimales<br/>des plongeurs<br/>en autonomie</p>
 </td>
 <td>
-<p align="center">Effectif maximal de la palanquée</p>
+<p align="center">Effectif maximal<br/>de la palanquée</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@ Conditions d'évolution en exploration en plongée à l'air en milieu naturel
 <p align="center">PE-60</p>
 </td>
 <td>
-<p align="center">4 (*)</p>
+<p align="center">4 </p>
 </td>
 <td>
 <p align="center">E4</p>
@@ -130,7 +130,7 @@ Conditions d'évolution en exploration en plongée à l'air en milieu naturel
 </tr>
 <tr>
 <td colspan="6">
-<p>(*) Possibilité d'ajouter dans la palanquée un ou plusieurs plongeurs supplémentaires, au minimum titulaires d'une qualification de guide de palanquée (GP) ou de plongeur niveau 4 (P4).</p>
+<p align="left">(*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au minimum titulaire d'une qualification de guide de palanquée (GP) ou de plongeur niveau 4 (P4). </p>
 </td>
 </tr>
 </tbody>

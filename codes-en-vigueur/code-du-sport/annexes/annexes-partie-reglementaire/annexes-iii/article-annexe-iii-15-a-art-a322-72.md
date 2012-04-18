@@ -1,6 +1,6 @@
 # Article Annexe III-15 a (art. A322-72)
 
-Qualification minimale du directeur de plongée
+Qualification minimale du directeur de plongée en milieu naturel
 
 <table>
 <tbody>
@@ -25,7 +25,7 @@ Qualification minimale du directeur de plongée
 </tr>
 <tr>
 <td valign="top">
-<p>Directeur de plongée en milieu naturel </p>
+<p>Directeur de plongée </p>
 </td>
 <td valign="top">
 <p>Directeur de plongée en exploration - DPE (*)<br/>Plongeur de niveau 5 (P5) (*)</p>
@@ -36,14 +36,16 @@ Qualification minimale du directeur de plongée
 <tr>
 <td colspan="4">
 <p align="center">Plongées à l'air ou au nitrox en enseignement ou en exploration</p>
+<p align="center">Plongées au trimix ou à l'héliox en enseignement jusqu'à 40 mètres</p>
+<p align="center">Plongées au trimix ou à l'héliox en exploration jusqu'à 70 mètres</p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p>Directeur de plongée en milieu naturel </p>
+<p>Directeur de plongée</p>
 </td>
 <td valign="top">
-<p>MF1 (*) FFESSM ou FSGT</p>
+<p>MF1 (*) FFESSM ou FSGT (*)</p>
 </td>
 <td valign="top">
 <p>Moniteur 2 étoiles</p>
@@ -54,7 +56,8 @@ Qualification minimale du directeur de plongée
 </tr>
 <tr>
 <td colspan="4">
-<p align="center">Plongées au trimix en enseignement ou en exploration</p>
+<p align="center">Plongées au trimix ou à l'héliox en enseignement</p>
+<p align="center">Plongées au trimix ou à l'héliox en exploration</p>
 </td>
 </tr>
 <tr>
@@ -62,7 +65,7 @@ Qualification minimale du directeur de plongée
 <p>Directeur de plongée</p>
 </td>
 <td valign="top">
-<p>MF2 (*) FFESSM ou FSGT</p>
+<p>MF2 FFESSM ou FSGT (*)</p>
 </td>
 <td valign="top"/>
 <td valign="top">
