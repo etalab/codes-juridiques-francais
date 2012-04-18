@@ -1,6 +1,7 @@
-# Section 5 : Plans de protection
+# Section 5 : Mesures de protection
 
 - [Sous-section 1 : Plan de sécurité d'opérateur](sous-section-1)
+- [Sous-section 1 bis : Accès aux points d'importance vitale](sous-section-1-bis)
 - [Sous-section 2 : Elaboration et approbation du plan particulier de protection](sous-section-2)
 - [Sous-section 3 : Mise en oeuvre du plan particulier de protection](sous-section-3)
 - [Sous-section 4 : Révision du plan de sécurité et du plan particulier de protection](sous-section-4)

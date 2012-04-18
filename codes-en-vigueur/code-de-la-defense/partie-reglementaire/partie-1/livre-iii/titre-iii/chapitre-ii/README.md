@@ -4,7 +4,7 @@
 - [Section 2 : Désignation des opérateurs d'importance vitale, des délégués pour la défense et la sécurité et des points d'importance vitale](section-2)
 - [Section 3 : Organismes consultatifs](section-3)
 - [Section 4 : Directives nationales de sécurité](section-4)
-- [Section 5 : Plans de protection](section-5)
+- [Section 5 : Mesures de protection](section-5)
 - [Section 6 : Zone d'importance vitale](section-6)
 - [Section 7 : Zones civiles sensibles](section-7)
 - [Section 8 : Dispositions pénales](section-8)
