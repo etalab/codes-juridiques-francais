@@ -6,8 +6,6 @@ Toutefois, ne sont pas soumis à ces déclarations :
 
 1° Les usines qui fabriquent des quantités de produits chimiques organiques définis non inscrits à l'un des trois tableaux inférieures à des seuils fixés au III de l'article D. 2342-39 ;
 
-2° Les usines qui fabriquent uniquement des mélanges contenant au moins un des produits chimiques organiques définis non inscrits à l'un des trois tableaux à une concentration inférieure à un seuil fixé au III de l'article D. 2342-40 ;
-
-3° Les sites d'usines dans lesquels sont exclusivement fabriqués des hydrocarbures ou des produits explosifs.
+2° Les sites d'usines dans lesquels sont exclusivement fabriqués des hydrocarbures ou des produits explosifs.
 
 La forme, la périodicité, les délais et les conditions d'élaboration de ces déclarations sont fixés en application des articles de la section 4 du présent chapitre, selon le cas, par arrêté du ministre de la défense ou du ministre chargé de l'industrie.
