@@ -18,4 +18,6 @@ Les dispositions relatives à chacun des parcs nationaux sont énoncées aux dé
 
 8° Décret n° 2007-266 du 27 février 2007 créant le parc amazonien de Guyane ;
 
-9° Décret n° 2007-296 du 5 mars 2007 créant le parc national de la Réunion.
+9° Décret n° 2007-296 du 5 mars 2007 créant le parc national de la Réunion ;
+
+10° Décret n° 2012-507 du 18 avril 2012 créant le Parc national des Calanques.
