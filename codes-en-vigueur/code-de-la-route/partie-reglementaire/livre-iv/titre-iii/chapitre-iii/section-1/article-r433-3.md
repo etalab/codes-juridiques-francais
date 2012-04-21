@@ -14,4 +14,4 @@ II.-Le cas échéant, pour les besoins de l'exploitation, ce déplacement peut s
 
 III.-L'arrêté du préfet est établi conformément à l'un des arrêtés types prévu au 7° de l'article R. 433-5.
 
-IV.-Le fait de faire circuler un véhicule visé au présent article sans respecter les prescriptions de l'arrêté préfectoral est puni conformément aux dispositions des III, IV et V de l'article R. 433-1.
+IV.-Le fait de faire circuler un véhicule visé au présent article sans respecter les prescriptions de l'arrêté préfectoral est puni conformément aux dispositions des III,  V et VI de l'article R. 433-1.
