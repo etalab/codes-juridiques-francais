@@ -8,7 +8,7 @@ Est puni de la peine d'amende prévue pour les contraventions de la troisième c
 
 3° Pour le propriétaire d'une étude visée au premier alinéa de l'article 30 du règlement (CE) n° 1907 / 2006, le refus de communiquer cette étude ou la preuve des coûts de cette étude en méconnaissance de ce même article ;
 
-4° Pour un fabricant, importateur, utilisateur en aval, distributeur, le fait de ne pas conserver les informations en méconnaissance du 1 de l'article 36 du règlement (CE) n° 1907 / 2006 ;
+4° Pour un fabricant, importateur, utilisateur en aval, distributeur, le fait de ne pas conserver les informations en méconnaissance du 1 de l'article 36 du règlement (CE) n° 1907 / 2006 et du 1 de l'article 49 du règlement (CE) n° 1272/2008 ;
 
 5° Pour tout acteur de la chaîne d'approvisionnement d'une substance ou d'un mélange, de ne pas communiquer à l'acteur ou au distributeur situé immédiatement en amont dans la chaîne d'approvisionnement les informations prévues à l'article 34 du règlement (CE) n° 1907 / 2006 ;
 

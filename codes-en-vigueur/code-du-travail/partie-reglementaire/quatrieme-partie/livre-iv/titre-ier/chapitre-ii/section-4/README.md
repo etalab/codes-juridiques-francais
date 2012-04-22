@@ -4,5 +4,3 @@
 - [Sous-section 2 : Fixation des valeurs limites biologiques](sous-section-2)
 - [Sous-section 3 : Silice cristalline](sous-section-3)
 - [Sous-section 4 : Plomb et ses composés](sous-section-4)
-- [Sous-section 5 : Benzène](sous-section-5)
-- [Sous-section 6 : Chrome et ses composés](sous-section-6)

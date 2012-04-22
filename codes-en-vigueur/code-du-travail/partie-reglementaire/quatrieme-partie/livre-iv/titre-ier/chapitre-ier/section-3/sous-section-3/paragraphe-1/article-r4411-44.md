@@ -1,6 +1,6 @@
 # Article R4411-44
 
-Les dispositions de la présente sous-section ne s'appliquent pas aux substances et aux préparations suivantes :
+Les dispositions de la présente sous-section ne s'appliquent pas aux substances et aux mélanges suivants :
 
 1° Produits radioactifs auxquels s'applique le titre V du présent livre ;
 
