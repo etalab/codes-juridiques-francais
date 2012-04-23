@@ -16,4 +16,4 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 
 7° Le titre II du livre VII, à l'exception des articles R. 721-2 à R. 721-4 et R. 721-7 à R. 724-21 ;
 
-8° Le livre VIII, à l'exception des articles R. 811-27 à R. 811-29, et des articles R. 812-1 à R. 812-23.
+8° Le livre VIII, à l'exception des articles R. 811-27 à R. 811-29, des articles R. 812-1 à R. 812-23, et des articles R. 814-158 à R. 814-169.
