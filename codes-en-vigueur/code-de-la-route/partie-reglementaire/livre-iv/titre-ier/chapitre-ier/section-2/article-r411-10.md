@@ -12,4 +12,8 @@ I. - La commission départementale de la sécurité routière est consultée pr�
 
 5° D'agrément des personnes et des organismes dispensant aux conducteurs responsables d'infractions la formation spécifique à la sécurité routière.
 
-II. - La commission peut également être consultée pour la mise en place d'itinéraires de déviation pour les poids lourds.
+II. - La commission peut également être consultée sur tout autre sujet relatif à la sécurité routière, tel que :
+
+- la mise en place d'itinéraires de déviation pour les poids lourds ;
+
+- l'harmonisation des limitations de vitesse des véhicules sur les voies ouvertes à la circulation publique.
