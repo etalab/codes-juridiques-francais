@@ -1,6 +1,6 @@
 # Article R5323-8
 
-L'organisme de droit privé exerçant à titre principal une fonction de placement adresse au préfet chaque année, avant le 31 mars de l'année suivante, et selon un modèle fixé par arrêté du ministre chargé de l'emploi :
+L'organisme de droit privé exerçant une fonction de placement adresse au préfet chaque année, avant le 31 mars de l'année suivante, et selon un modèle fixé par arrêté du ministre chargé de l'emploi :
 
 1° Le chiffre d'affaires relatif au placement, réalisé sur l'année écoulée, rapporté s'il y a lieu au chiffre d'affaire total ;
 
