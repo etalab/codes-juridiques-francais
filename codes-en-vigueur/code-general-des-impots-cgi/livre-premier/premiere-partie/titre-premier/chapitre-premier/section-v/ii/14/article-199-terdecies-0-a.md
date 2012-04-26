@@ -1,6 +1,6 @@
 # Article 199 terdecies-0 A
 
-I. 1° Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 22 % des versements effectués au titre de souscriptions en numéraire au capital initial ou aux augmentations de capital de sociétés.
+I. 1° Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 18 % des versements effectués au titre de souscriptions en numéraire au capital initial ou aux augmentations de capital de sociétés.
 
 2° Le bénéfice de l'avantage fiscal prévu au 1° est subordonné au respect, par la société bénéficiaire de la souscription, des conditions suivantes :
 
@@ -72,7 +72,7 @@ Lorsque le contribuable opte pour l'exonération mentionnée au 7 du III de l'ar
 
 V. Un décret fixe les modalités d'application du présent article, notamment les obligations déclaratives incombant aux contribuables et aux sociétés.
 
-VI. 1. Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 22 % des versements effectués au titre de souscriptions en numéraire de parts de fonds communs de placement dans l'innovation mentionnés à l'article L. 214-30 du code monétaire et financier lorsque les conditions suivantes sont remplies :
+VI. 1. Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 18 % des versements effectués au titre de souscriptions en numéraire de parts de fonds communs de placement dans l'innovation mentionnés à l'article L. 214-30 du code monétaire et financier lorsque les conditions suivantes sont remplies :
 
 a. les personnes physiques prennent l'engagement de conserver les parts de fonds, pendant cinq ans au moins à compter de leur souscription ;
 
@@ -92,13 +92,13 @@ VI bis.-Les dispositions du 1, du 2 bis et du 3 du VI s'appliquent aux versement
 
 Les présentes dispositions ne s'appliquent pas aux parts de fonds d'investissement de proximité donnant lieu à des droits différents sur l'actif net ou sur les produits du fonds, attribuées en fonction de la qualité de la personne.
 
-VI ter.-Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 45 % des versements effectués au titre de souscriptions en numéraire de parts de fonds d'investissement de proximité, mentionnés à l'article L. 214-31 du code monétaire et financier, dont l'actif est constitué pour 60 % au moins de valeurs mobilières, parts de société à responsabilité limitée et avances en compte courant émises par des sociétés qui exercent leurs activités exclusivement dans des établissements situés en Corse.
+VI ter.-Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 38 % des versements effectués au titre de souscriptions en numéraire de parts de fonds d'investissement de proximité, mentionnés à l'article L. 214-31 du code monétaire et financier, dont l'actif est constitué pour 60 % au moins de valeurs mobilières, parts de société à responsabilité limitée et avances en compte courant émises par des sociétés qui exercent leurs activités exclusivement dans des établissements situés en Corse.
 
 Les dispositions du 1, du 2 bis et du 3 du VI sont applicables.
 
 Les versements ouvrant droit à réduction d'impôt sont ceux effectués jusqu'au 31 décembre 2012. Ils sont retenus, après imputation des droits ou frais d'entrée, dans les limites annuelles de 12 000 euros pour les contribuables célibataires, veufs ou divorcés et de 24 000 euros pour les contribuables mariés soumis à imposition commune. Les réductions d'impôts prévues aux VI, VI bis et au présent VI ter sont exclusives les unes des autres pour les souscriptions dans un même fonds. Les présentes dispositions ne s'appliquent pas aux parts de fonds d'investissement de proximité donnant lieu à des droits différents sur l'actif net ou sur les produits du fonds, attribuées en fonction de la qualité de la personne.
 
-VI ter A. ― A compter de l'imposition des revenus de 2011, les contribuables domiciliés fiscalement en Guadeloupe, Guyane, Martinique, à La Réunion, Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, Polynésie française et dans les îles Wallis et Futuna peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 50 % des souscriptions en numéraire de parts de fonds d'investissement de proximité, mentionnés à l'article L. 214-41-1 du code monétaire et financier, dont l'actif est constitué pour 60 % au moins de titres financiers, parts de société à responsabilité limitée et avances en compte courant émises par des sociétés qui exercent leurs activités exclusivement dans des établissements situés dans les départements d'outre-mer, à Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna et dans les secteurs retenus pour l'application de la réduction d'impôt sur le revenu prévue au I de l'article 199 undecies B du présent code.
+VI ter A. ― A compter de l'imposition des revenus de 2011, les contribuables domiciliés fiscalement en Guadeloupe, Guyane, Martinique, à La Réunion, Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, Polynésie française et dans les îles Wallis et Futuna peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 42 % des souscriptions en numéraire de parts de fonds d'investissement de proximité, mentionnés à l'article L. 214-41-1 du code monétaire et financier, dont l'actif est constitué pour 60 % au moins de titres financiers, parts de société à responsabilité limitée et avances en compte courant émises par des sociétés qui exercent leurs activités exclusivement dans des établissements situés dans les départements d'outre-mer, à Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna et dans les secteurs retenus pour l'application de la réduction d'impôt sur le revenu prévue au I de l'article 199 undecies B du présent code.
 
 Les a à c du 1 et le 3 du VI du présent article sont applicables.
 

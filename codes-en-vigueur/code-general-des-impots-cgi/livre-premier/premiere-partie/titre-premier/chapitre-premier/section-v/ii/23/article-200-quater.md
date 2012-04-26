@@ -72,90 +72,98 @@ Pour un même logement donné en location, le montant des dépenses ouvrant droi
 
 a. (Abrogé)
 
-b) 12 % du montant des équipements, matériaux et appareils mentionnés aux 1° et 2° du b du 1 ;
+b) 10 % du montant des équipements, matériaux et appareils mentionnés aux 1° et 2° du b du 1 ;
 
-c) 18 % du montant des équipements, matériaux et appareils mentionnés aux 3° et 4° du b du 1 ;
+c) 15 % du montant des équipements, matériaux et appareils mentionnés aux 3° et 4° du b du 1 ;
 
 d) Pour le montant des équipements de production d'énergie utilisant une source d'énergie renouvelable mentionnés au c du 1 :
 
 <table>
 <tbody>
 <tr>
-<th/>
-<th>2010</th>
-<th>
-<p>2011</p>
-</th>
-<th>
-<br/>
-<p>A compter de 2012 <br/>
-</p>
-</th>
-</tr>
-<tr>
-<td align="center">Cas général </td>
-<td align="center">
-<br/>50 % </td>
-<td align="center">
-<br/>
-<p>45 % <br/>
-</p>
+<td/>
+<td>
+<p align="center">2010</p>
 </td>
-<td align="center">
-<p>38 % </p>
+<td>
+<p align="center">2011</p>
+</td>
+<td>
+<p align="center">A compter<br/>de 2012 </p>
 </td>
 </tr>
 <tr>
-<td>Equipements de production d'électricité utilisant l'énergie radiative du soleil </td>
+<td align="center">
+<p align="left">Cas général </p>
+</td>
+<td align="center">
+<p align="center">50 % </p>
+</td>
+<td align="center">
+<p align="center">45 % </p>
+</td>
+<td align="center">
+<p>32 % </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Equipements de production d'électricité utilisant l'énergie radiative du soleil </p>
+</td>
 <td align="center">
 <p>50 % (1) </p>
 <p>25 % (2) </p>
 </td>
 <td align="center">22 % <br/>
 </td>
-<td align="center">13 % </td>
+<td align="center">11 % </td>
 </tr>
 <tr>
-<td align="center">Pompes à chaleur (autres que air/ air) dont la finalité essentielle est la production de chaleur, à l'exception des pompes à chaleur géothermiques. </td>
+<td align="center">
+<p align="left">Pompes à chaleur (autres que air/ air) dont la finalité essentielle est la production<br/>de chaleur, à l'exception des pompes à chaleur géothermiques. </p>
+</td>
 <td align="center">25 % </td>
 <td align="center">
-<p> 22 % <br/>
+<p>22 % <br/>
 </p>
 </td>
-<td align="center">18 %</td>
+<td align="center">15 %</td>
 </tr>
 <tr>
-<td align="center">Pompes à chaleur géothermiques dont la finalité essentielle est la production de chaleur. </td>
+<td align="center">
+<p align="left">Pompes à chaleur géothermiques dont la finalité essentielle est la production de chaleur. </p>
+</td>
 <td align="center">40 % </td>
 <td align="center">
 <p>36 % <br/>
 </p>
 </td>
-<td align="center">31 % </td>
+<td align="center">26 % </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Pompes à chaleur (autres que air/ air) thermodynamiques dédiées à la production d'eau chaude sanitaire. </td>
+<p>Pompes à chaleur (autres que air/ air) thermodynamiques dédiées à la production<br/>d'eau chaude sanitaire. </p>
+</td>
 <td align="center">40 % </td>
 <td align="center">
-<p>36 % <br/>
-</p>
+<p>36 % </p>
 </td>
-<td align="center">31 % </td>
+<td align="center">26 % </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques. </td>
+<p>Pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques. </p>
+</td>
 <td align="center">40 % </td>
 <td align="center">
-<p>36 % <br/>
-</p>
+<p>36 % </p>
 </td>
-<td align="center">31 % </td>
+<td align="center">26 % </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chaudières et équipements de chauffage ou de production d'eau chaude fonctionnant au bois ou autres biomasses :</td>
+<p>Chaudières et équipements de chauffage ou de production d'eau chaude fonctionnant<br/>au bois ou autres biomasses :</p>
+</td>
 <td align="center">
 <br/>
 </td>
@@ -163,7 +171,9 @@ d) Pour le montant des équipements de production d'énergie utilisant une sourc
 <td align="center"/>
 </tr>
 <tr>
-<td align="center">-cas général ; </td>
+<td align="center">
+<p align="left">-cas général ; </p>
+</td>
 <td align="center">
 <p>25 % </p>
 </td>
@@ -171,23 +181,26 @@ d) Pour le montant des équipements de production d'énergie utilisant une sourc
 <p>22 %<br/>
 </p>
 </td>
-<td align="center">18 % </td>
+<td align="center">15 % </td>
 </tr>
 <tr>
-<td align="center">-en cas de remplacement des mêmes matériels. </td>
+<td align="center">
+<p align="left">-en cas de remplacement des mêmes matériels. </p>
+</td>
 <td align="center">
 <p>40 % </p>
 </td>
 <td align="center">
-<p> 36 % <br/>
-</p>
+<p>36 % </p>
 </td>
-<td align="center">31 % </td>
+<td align="center">26 % </td>
 </tr>
 <tr>
-<td>(1) Pour les dépenses payées jusqu'au 28 septembre 2010 inclus, ainsi que celles pour lesquelles le contribuable peut justifier jusqu'à cette date : <p>a) De l'acceptation d'un devis et du versement d'arrhes ou d'un acompte à l'entreprise ; </p>
-<p>b) De la signature d'un contrat dans le cadre d'un démarchage mentionné aux articles L. 121-21 à L. 121-33 du code de la consommation, à la condition de justifier d'un paiement total ou partiel jusqu'au 6 octobre 2010 ; </p>
-<p>c) Ou d'un moyen de financement accordé à raison des dépenses concernées par un établissement de crédit. </p>
+<td>
+<p align="left">(1) Pour les dépenses payées jusqu'au 28 septembre 2010 inclus, ainsi que celles<br/>pour lesquelles le contribuable peut justifier jusqu'à cette date : </p>
+<p>a) De l'acceptation d'un devis et du versement d'arrhes ou d'un acompte à l'entreprise ; </p>
+<p>b) De la signature d'un contrat dans le cadre d'un démarchage mentionné<br/>aux articles L. 121-21 à L. 121-33 du code de la consommation, à la condition de justifier d'un paiement total ou partiel jusqu'au 6 octobre 2010 ; </p>
+<p>c) Ou d'un moyen de financement accordé à raison des dépenses concernées par<br/>un établissement de crédit. </p>
 <p>(2) Pour les dépenses payées à compter du 29 septembre 2010. </p>
 </td>
 <td/>
@@ -197,13 +210,13 @@ d) Pour le montant des équipements de production d'énergie utilisant une sourc
 </tbody>
 </table>
 
-e) 18 % du montant des équipements mentionnés aux d et e du 1 ;
+e) 15 % du montant des équipements mentionnés aux d et e du 1 ;
 
-f) 38 % du montant des dépenses mentionnées au 2° du f du 1 ;
+f) 32 % du montant des dépenses mentionnées au 2° du f du 1 ;
 
-g) 21 % du montant des équipements mentionnés au g du 1.
+g) 17 % du montant des équipements mentionnés au g du 1.
 
-5 bis. Les taux mentionnés au 5 sont majorés de dix points si, pour un même logement achevé depuis plus de deux ans et au titre d'une même année, le contribuable réalise des dépenses relevant d'au moins deux des catégories suivantes :
+5 bis. Les taux de 10 %, 15 %, 17 %, 26 % et 32 % mentionnés au 5 sont respectivement portés à 18 %, 23 %, 26 %, 34 % et 40 % si, pour un même logement achevé depuis plus de deux ans et au titre d'une même année, le contribuable réalise des dépenses relevant d'au moins deux des catégories suivantes :
 
 a) Dépenses d'acquisition de matériaux d'isolation thermique des parois vitrées, mentionnées au 2° du b du 1 ;
 
@@ -217,7 +230,7 @@ e) Dépenses au titre de l'acquisition d'équipements de production d'eau chaude
 
 f) Dépenses d'acquisition de chaudières à condensation mentionnées au 1° du b du 1, de chaudières à micro-cogénération gaz mentionnées au g du même 1 et d'équipements de production d'énergie utilisant une source d'énergie renouvelable ou de pompes à chaleur mentionnées au c dudit 1, à l'exception de celles visées aux d et e du présent 5 bis et des dépenses d'acquisition d'équipements de production d'électricité utilisant l'énergie radiative du soleil.
 
-Ces majorations s'appliquent dans la limite d'un taux de 50 % pour un même matériau, équipement ou appareil.
+Ces taux majorés s'appliquent dans la limite d'un taux de 42 % pour un même matériau, équipement ou appareil.
 
 6. a. Les équipements, matériaux, appareils et travaux de pose mentionnés au 1 s'entendent de ceux figurant sur la facture d'une entreprise ou, le cas échéant, dans les cas prévus aux 2° et 3° des c, d et e du 1, des équipements figurant sur une attestation fournie par le vendeur ou le constructeur du logement. Les dépenses de diagnostic de performance énergétique mentionnées au 2° du f du 1 s'entendent de celles figurant sur la facture délivrée par une personne mentionnée à l'article L. 271-6 du code de la construction et de l'habitation. Cette facture comporte la mention que le diagnostic de performance énergétique a été réalisé en dehors des cas où la réglementation le rend obligatoire.
 

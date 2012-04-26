@@ -2,7 +2,7 @@
 
 1. Il est institué une réduction d'impôt sur le revenu pour les contribuables domiciliés en France au sens de l'article 4 B qui réalisent des travaux de reconstruction, d'agrandissement, de réparation ou d'amélioration entre le 1er janvier 2005 et le 31 décembre 2012. Cette réduction d'impôt s'applique :
 
-a) Aux dépenses afférentes à un logement, faisant partie d'une résidence de tourisme classée dans une zone de revitalisation rurale ou dans une zone, autre qu'une zone de revitalisation rurale, inscrite sur la liste pour la France des zones concernées par l'objectif n° 2 prévue à l'article 4 du règlement (CE) n° 1260 / 1999 du Conseil, du 21 juin 1999, portant dispositions générales sur les fonds structurels, à l'exclusion des communes situées dans des agglomérations de plus de 5 000 habitants, qui est destiné à la location dont le produit est imposé dans la catégorie des revenus fonciers ;
+a) Aux dépenses afférentes à un logement, faisant partie d'une résidence de tourisme classée dans une zone de revitalisation rurale ou dans une zone, autre qu'une zone de revitalisation rurale, inscrite sur la liste pour la France des zones concernées par l'objectif n° 2 prévue à l'article 4 du règlement (CE) n° 1260/1999 du Conseil, du 21 juin 1999, portant dispositions générales sur les fonds structurels, à l'exclusion des communes situées dans des agglomérations de plus de 5 000 habitants, qui est destiné à la location dont le produit est imposé dans la catégorie des revenus fonciers ;
 
 b) Aux dépenses afférentes à un logement, achevé depuis quinze ans au moins et situé dans une zone mentionnée au a, qui est destiné à la location en qualité de meublé de tourisme au sens de l'arrêté du 28 décembre 1976 ;
 
@@ -12,11 +12,11 @@ Pour les logements visés aux a et c, l'indexation d'une part minoritaire du loy
 
 2. La réduction d'impôt est accordée au titre de l'année du paiement des dépenses de travaux. Les dispositions du 5 du I de l'article 197 sont applicables.
 
-3. Le montant des dépenses de reconstruction, d'agrandissement, de réparation ou d'amélioration effectivement supportées par le propriétaire ouvrant droit à réduction d'impôt ne peut excéder, au titre d'une année, 50 000 Euros pour une personne célibataire, veuve ou divorcée et 100 000 Euros pour un couple marié. Son taux est égal à :
+3. Le montant des dépenses de reconstruction, d'agrandissement, de réparation ou d'amélioration effectivement supportées par le propriétaire ouvrant droit à réduction d'impôt ne peut excéder, au titre d'une année, 50 000 € pour une personne célibataire, veuve ou divorcée et 100 000 € pour un couple marié. Son taux est égal à :
 
-a) 18 % du montant des dépenses afférentes à des logements mentionnés aux a et b du 1 ;
+a) 15 % du montant des dépenses afférentes à des logements mentionnés aux a et b du 1 ;
 
-b) 36 % du montant des dépenses afférentes à des logements mentionnés au c du 1, sans qu'il y ait toutefois lieu de le diminuer des subventions publiques accordées aux contribuables.
+b) 30 % du montant des dépenses afférentes à des logements mentionnés au c du 1, sans qu'il y ait toutefois lieu de le diminuer des subventions publiques accordées aux contribuables.
 
 4. Pour les logements mentionnés aux a et c du 1, le propriétaire doit selon le cas s'engager à les louer nus pendant au moins neuf ans à l'exploitant de la résidence de tourisme ou du village résidentiel de tourisme classé. Cette location doit prendre effet dans le mois qui suit la date d'achèvement des travaux. Le paiement d'une partie du loyer par compensation avec le prix des prestations d'hébergement facturées par l'exploitant de la résidence ou du village résidentiel au propriétaire, lorsque le logement est mis à la disposition de ce dernier pour une durée totale n'excédant pas huit semaines par an, ne fait pas obstacle au bénéfice de la réduction à condition que le revenu brut foncier déclaré par le bailleur corresponde au loyer annuel normalement dû par l'exploitant en l'absence de toute occupation par le propriétaire.
 

@@ -8,7 +8,7 @@ a) Au logement que le contribuable fait construire et qui fait l'objet d'un dép
 
 b) Au logement que le contribuable acquiert entre le 1er janvier 2009 et le 31 décembre 2012 et qui fait ou qui a fait l'objet, entre ces mêmes dates, de travaux concourant à la production ou à la livraison d'un immeuble neuf au sens du 2° du 2 du I de l'article 257 ;
 
-c) Au logement qui ne satisfait pas aux caractéristiques de décence, prévues à l'article 6 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986, que le contribuable acquiert entre le 1er janvier 2009 et le 31 décembre 2012 et qui fait l'objet, entre ces mêmes dates, de travaux de réhabilitation définis par décret permettant au logement d'acquérir des performances techniques voisines de celles d'un logement neuf ou que le contribuable acquiert en 2012 et qui a fait l'objet, entre ces mêmes dates, de tels travaux ;
+c) Au logement qui ne satisfait pas aux caractéristiques de décence, prévues à l'article 6 de la loi n° 89-462 du  6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986, que le contribuable acquiert entre le 1er janvier 2009 et le 31 décembre 2012 et qui fait l'objet, entre ces mêmes dates, de travaux de réhabilitation définis par décret permettant au logement d'acquérir des performances techniques voisines de celles d'un logement neuf ou que le contribuable acquiert en 2012 et qui a fait l'objet, entre ces mêmes dates, de tels travaux ;
 
 d) Au local affecté à un usage autre que l'habitation que le contribuable acquiert entre le 1er janvier 2009 et le 31 décembre 2012 et qui fait l'objet, entre ces mêmes dates, de travaux de transformation en logement ou que le contribuable acquiert en 2012 et qui a fait l'objet, entre ces mêmes dates, de tels travaux.
 
@@ -40,11 +40,11 @@ Le taux de la réduction d'impôt est de :
 
 Toutefois, lorsque le contribuable acquiert ou fait construire un logement neuf à raison duquel il justifie du niveau de performance énergétique globale mentionné au dernier alinéa du II, ce taux est porté à 22 % ;
 
--16 % pour les logements acquis en 2012 qui font l'objet d'un dépôt de demande de permis de construire au plus tard le 31 décembre 2011 et pour lesquels le contribuable justifie du niveau de performance énergétique globale mentionné au dernier alinéa du II.
+-13 % pour les logements acquis en 2012 qui font l'objet d'un dépôt de demande de permis de construire au plus tard le 31 décembre 2011 et pour lesquels le contribuable justifie du niveau de performance énergétique globale mentionné au dernier alinéa du II.
 
-Toutefois, pour les logements qui font l'objet d'un dépôt de permis de construire au plus tard le 31 décembre 2011 pour lesquels le contribuable ne justifie pas d'un tel niveau de performance énergétique globale, la réduction d'impôt s'applique au taux de 8 % ;
+Toutefois, pour les logements qui font l'objet d'un dépôt de permis de construire au plus tard le 31 décembre 2011 pour lesquels le contribuable ne justifie pas d'un tel niveau de performance énergétique globale, la réduction d'impôt s'applique au taux de 6 % ;
 
--16 % pour les logements acquis ou construits en 2012 qui font l'objet d'un dépôt de demande de permis de construire à compter du 1er janvier 2012.
+-13 % pour les logements acquis ou construits en 2012 qui font l'objet d'un dépôt de demande de permis de construire à compter du 1er janvier 2012.
 
 Lorsque le logement est détenu en indivision, chaque indivisaire bénéficie de la réduction d'impôt dans la limite de la quote-part du prix de revient correspondant à ses droits dans l'indivision.
 
@@ -58,7 +58,7 @@ Lorsque la fraction de la réduction d'impôt imputable au titre d'une année d'
 
 Lorsque la réduction d'impôt est acquise au titre d'un local affecté à un usage autre que l'habitation et que le contribuable transforme en logement, d'un logement ne satisfaisant pas aux caractéristiques de décence prévues à l'article 6 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 et faisant l'objet de travaux de réhabilitation définis par décret permettant aux logements d'acquérir des performances techniques voisines de celles des logements neufs ou d'un logement qui fait l'objet de travaux concourant à la production ou à la livraison d'un immeuble neuf au sens du 2° du 2 du I de l'article 257, elle est calculée sur le prix d'acquisition du local ou du logement augmenté du montant des travaux et elle est accordée au titre de l'année d'achèvement de ces travaux.
 
-V. ― Lorsque le logement reste loué, à l'issue de la période couverte par l'engagement de location mentionnée au I, dans les conditions mentionnées au deuxième alinéa du l du 1° du I de l'article 31, par période de trois ans, le contribuable continue à bénéficier de la réduction d'impôt prévue au présent article pendant au plus six années supplémentaires. Dans ce cas, la réduction d'impôt annuelle est égale à 5 % du prix de revient du logement par période triennale, imputée à raison d'un tiers de son montant sur l'impôt dû au titre de chacune des années comprises dans ladite période.
+V. ― Lorsque le logement reste loué, à l'issue de la période couverte par l'engagement de location mentionnée au I, dans les conditions mentionnées au deuxième alinéa du l du 1° du I de l'article 31, par période de trois ans, le contribuable continue à bénéficier de la réduction d'impôt prévue au présent article pendant au plus six années supplémentaires. Dans ce cas, la réduction d'impôt annuelle est égale à 4 % du prix de revient du logement par période triennale, imputée à raison d'un tiers de son montant sur l'impôt dû au titre de chacune des années comprises dans ladite période.
 
 VI. ― Un contribuable ne peut, pour un même logement ou une même souscription de parts, bénéficier à la fois de l'une des réductions d'impôt prévues aux articles 199 decies E à 199 decies G, 199 decies I, 199 undecies A ou 199 tervicies et des dispositions du présent article.
 
@@ -80,11 +80,11 @@ Le taux de la réduction d'impôt est de :
 
 Toutefois, lorsque 95 % de la souscription sert exclusivement à financer les logements mentionnés au cinquième alinéa du IVce taux est porté à 22 % ;
 
--16 % pour les souscriptions réalisées en 2012, à la condition que 95 % de la souscription serve exclusivement à financer des logements qui font l'objet d'un dépôt de demande de permis de construire au plus tard le 31 décembre 2011 et qui respectent le niveau de performance énergétique globale mentionné au dernier alinéa du II.
+-13 % pour les souscriptions réalisées en 2012, à la condition que 95 % de la souscription serve exclusivement à financer des logements qui font l'objet d'un dépôt de demande de permis de construire au plus tard le 31 décembre 2011 et qui respectent le niveau de performance énergétique globale mentionné au dernier alinéa du II.
 
-Toutefois, pour les souscriptions réalisées en 2012 autres que celles mentionnées au sixième alinéa qui servent à financer des logements qui ont fait l'objet d'un dépôt de demande de permis de construire au plus tard le 31 décembre 2011, la réduction d'impôt s'applique au taux de 8 % ;
+Toutefois, pour les souscriptions réalisées en 2012 autres que celles mentionnées au sixième alinéa qui servent à financer des logements qui ont fait l'objet d'un dépôt de demande de permis de construire au plus tard le 31 décembre 2011, la réduction d'impôt s'applique au taux de 6 % ;
 
--16 % pour les souscriptions réalisées en 2012 qui servent à financer des logements faisant l'objet d'un dépôt de demande de permis de construire à compter du 1er janvier 2012.
+-13 % pour les souscriptions réalisées en 2012 qui servent à financer des logements faisant l'objet d'un dépôt de demande de permis de construire à compter du 1er janvier 2012.
 
 La réduction d'impôt, qui n'est pas applicable aux titres dont le droit de propriété est démembré, est subordonnée à la condition que 95 % de la souscription serve exclusivement à financer un investissement pour lequel les conditions d'application du présent article sont réunies. En outre, la société doit prendre l'engagement de louer le logement dans les conditions prévues au présent article. L'associé doit s'engager à conserver la totalité de ses titres jusqu'au terme de l'engagement de location souscrit par la société. Le produit de la souscription annuelle doit être intégralement investi dans les dix-huit mois qui suivent la clôture de celle-ci.
 
@@ -100,7 +100,7 @@ IX. ― Le montant total des dépenses retenu pour l'application du présent art
 
 X. ― A compter de la publication d'un arrêté des ministres chargés du budget et du logement classant les communes par zones géographiques en fonction de l'offre et de la demande de logements, la réduction d'impôt prévue au présent article n'est plus accordée au titre des logements situés dans des communes classées dans des zones géographiques ne se caractérisant pas par un déséquilibre entre l'offre et la demande de logements et acquis à compter du lendemain de la date de publication de cet arrêté.
 
-Toutefois, cette réduction d'impôt est également acquise au titre des logements situés dans les communes mentionnées au premier alinéa lorsqu'elles ont fait l'objet d'un agrément délivré par le ministre chargé du logement, dans des conditions définies par décret, après avis du maire de la commune d'implantation ou du président de l'établissement public de coopération intercommunale territorialement compétent en matière d'urbanisme. La décision du ministre de délivrer ou non l'agrément doit tenir compte des besoins en logements adaptés à la population (1).
+Toutefois, cette réduction d'impôt est également acquise au titre des logements situés dans les communes mentionnées au premier alinéa lorsqu'elles ont fait l'objet d'un agrément délivré par le ministre chargé du logement, dans des conditions définies par décret, après avis du maire de la commune d'implantation ou du président de l'établissement public de coopération intercommunale territorialement compétent en matière d'urbanisme. La décision du ministre de délivrer ou non l'agrément doit tenir compte des besoins en logements adaptés à la population.
 
 XI.-Les investissements mentionnés aux I et VIII et afférents à des logements situés dans les départements d'outre-mer, à Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ou à des souscriptions employées dans les conditions définies au neuvième alinéa du VIII pour le financement de tels logements ouvrent droit à la réduction d'impôt prévue au présent article dans les mêmes conditions, sous réserve des adaptations prévues au présent XI.
 
@@ -108,7 +108,7 @@ a) Pour ces investissements, le taux de la réduction est égal :
 
 1° A 36 % pour les logements acquis ou construits et pour les souscriptions réalisées entre la date de promulgation de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer et le 31 décembre 2011 ;
 
-2° A 29 % pour les logements acquis ou construits et pour les souscriptions réalisées en 2012 ;
+2° A 24 % pour les logements acquis ou construits et pour les souscriptions réalisées en 2012 ;
 
 3° (Abrogé).
 

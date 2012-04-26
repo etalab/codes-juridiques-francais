@@ -76,7 +76,7 @@ b) Au titre des huit années suivant celle du paiement des travaux en cas de sin
 
 Les dépenses et la fraction des dépenses mentionnées au f du 3 sont globalement retenues dans la limite de 2 000 € pour une personne célibataire, veuve ou divorcée et de 4 000 € pour un couple marié ou les partenaires liés par un pacte civil de solidarité, soumis à une imposition commune, sous réserve que soient produites avec la déclaration prévue à l'article 170 la facture du contrat de gestion et l'attestation délivrée par l'opérateur certifiant que la cession et la commercialisation des coupes sont réalisées dans les conditions du f du 2.
 
-3 ter. Le taux de la réduction d'impôt est de 22 % à l'exception de la réduction d'impôt afférente aux dépenses prévues au g du 2 pour lesquelles ce taux est porté à 90 %.
+3 ter. Le taux de la réduction d'impôt est de 18 % à l'exception de la réduction d'impôt afférente aux dépenses prévues au g du 2 pour lesquelles ce taux est porté à 76 %.
 
 4. La réduction d'impôt s'applique pour le calcul de l'impôt dû :
 
