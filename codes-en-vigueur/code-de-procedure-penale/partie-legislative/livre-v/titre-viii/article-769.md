@@ -4,7 +4,7 @@ Il est fait mention sur les fiches du casier judiciaire des peines ou dispenses 
 
 Il est fait mention, sur les fiches du casier judiciaire relatives à des décisions de rétention de sûreté ou de surveillance de sûreté, des décisions de renouvellement de ces mesures.
 
-Sont retirées du casier judiciaire les fiches relatives à des condamnations effacées par une amnistie ou réformées en conformité d'une décision de rectification du casier judiciaire. Il en est de même, sauf en ce qui concerne les condamnations prononcées pour des faits imprescriptibles, des fiches relatives à des condamnations prononcées depuis plus de quarante ans et qui n'ont pas été suivies d'une nouvelle condamnation à une peine criminelle ou correctionnelle.
+Sont retirées du casier judiciaire les fiches relatives à des condamnations effacées par une amnistie ou réformées en conformité d'une décision de rectification du casier judiciaire. Il en est de même, sauf en ce qui concerne les condamnations prononcées pour des faits imprescriptibles ou par une juridiction étrangère, des fiches relatives à des condamnations prononcées depuis plus de quarante ans et qui n'ont pas été suivies d'une nouvelle condamnation à une peine criminelle ou correctionnelle.
 
 Sont également retirés du casier judiciaire :
 
@@ -22,8 +22,11 @@ Toutefois, si la durée de la faillite personnelle ou de l'interdiction est sup�
 
 6° Les mentions relatives à la composition pénale, à l'expiration d'un délai de trois ans à compter du jour où l'exécution de la mesure a été constatée, si la personne n'a pas, pendant ce délai, soit subi de condamnation à une peine criminelle ou correctionnelle, soit exécuté une nouvelle composition pénale ;
 
-7° Les fiches relatives aux mesures prononcées en application des articles 8, 15, 15-1, 16, 16 bis et 28 de l'ordonnance n° 45-174 du 2 février 1945 précitée à l'expiration d'un délai de trois ans à compter du jour où la mesure a été prononcée si la personne n'a pas, pendant ce délai, soit subi de condamnation à une peine criminelle ou correctionnelle, soit exécuté une composition pénale, soit fait l'objet d'une nouvelle mesure prononcée en application des dispositions précitées de ladite ordonnance ;
+7° Les fiches relatives aux mesures prononcées en application des articles 8,
+15,15-1,16,16 bis et 28 de l'ordonnance n° 45-174 du 2 février 1945 précitée à l'expiration d'un délai de trois ans à compter du jour où la mesure a été prononcée si la personne n'a pas, pendant ce délai, soit subi de condamnation à une peine criminelle ou correctionnelle, soit exécuté une composition pénale, soit fait l'objet d'une nouvelle mesure prononcée en application des dispositions précitées de ladite ordonnance ;
 
 8° Les condamnations ayant fait l'objet d'une réhabilitation judiciaire, lorsque la juridiction a expressément ordonné la suppression de la condamnation du casier judiciaire conformément au deuxième alinéa de l'article 798 ;
 
-9° Les fiches relatives aux jugements ou arrêts de déclaration d'irresponsabilité pénale pour cause de trouble mental, lorsque l'hospitalisation d'office ordonnée en application de l'article 706-135 a pris fin ou lorsque les mesures de sûreté prévues par l'article 706-136 ont cessé leurs effets.
+9° Les fiches relatives aux jugements ou arrêts de déclaration d'irresponsabilité pénale pour cause de trouble mental, lorsque l'hospitalisation d'office ordonnée en application de l'article 706-135 a pris fin ou lorsque les mesures de sûreté prévues par l'article 706-136 ont cessé leurs effets ;
+
+10° Les condamnations prononcées par les juridictions étrangères, dès réception d'un avis d'effacement de l'Etat de condamnation ou d'une décision de retrait de mention ordonnée par une juridiction française. Toutefois, si la condamnation a été prononcée par une juridiction d'un Etat membre de l'Union européenne, le retrait ordonné par une juridiction française ne fait pas obstacle à sa retransmission aux autres Etats membres de l'Union européenne.

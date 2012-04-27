@@ -7,3 +7,5 @@ L'exclusion de la mention d'une condamnation au bulletin n° 2 emporte relèveme
 Les dispositions du présent article ne sont pas applicables aux personnes condamnées pour l'une des infractions mentionnées à l'article 706-47.
 
 Le présent article est également applicable aux jugements ou arrêts de déclaration d'irresponsabilité pénale pour cause de trouble mental.
+
+Si un ressortissant français a été condamné par une juridiction étrangère, il peut également, selon la même procédure, demander au tribunal correctionnel de son domicile, ou de Paris s'il réside à l'étranger, que la mention soit exclue du bulletin n° 2.
