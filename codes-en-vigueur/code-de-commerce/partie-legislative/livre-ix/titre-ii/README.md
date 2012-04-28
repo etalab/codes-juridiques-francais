@@ -1,4 +1,4 @@
-# TITRE II : Dispositions applicables à Mayotte.
+# TITRE II : Dispositions spécifiques au Département de Mayotte.
 
 - [Chapitre Ier : Dispositions d'adaptation du livre Ier.](chapitre-ier)
 - [Chapitre II : Dispositions d'adaptation du livre II.](chapitre-ii)
@@ -10,7 +10,6 @@
 - [Article L920-1](article-l920-1.md)
 - [Article L920-1-1](article-l920-1-1.md)
 - [Article L920-2](article-l920-2.md)
-- [Article L920-3](article-l920-3.md)
 - [Article L920-4](article-l920-4.md)
 - [Article L920-5](article-l920-5.md)
 - [Article L920-7](article-l920-7.md)

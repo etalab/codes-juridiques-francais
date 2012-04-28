@@ -1,16 +1,11 @@
 # Chapitre Ier : Dispositions d'adaptation du livre Ier.
 
-- [Article L921-1](article-l921-1.md)
 - [Article L921-2](article-l921-2.md)
-- [Article L921-3](article-l921-3.md)
 - [Article L921-4](article-l921-4.md)
-- [Article L921-5](article-l921-5.md)
 - [Article L921-6](article-l921-6.md)
-- [Article L921-7](article-l921-7.md)
 - [Article L921-8](article-l921-8.md)
 - [Article L921-9](article-l921-9.md)
 - [Article L921-10](article-l921-10.md)
 - [Article L921-11](article-l921-11.md)
-- [Article L921-12](article-l921-12.md)
 - [Article L921-13](article-l921-13.md)
 - [Article L921-14](article-l921-14.md)
