@@ -1,3 +1,5 @@
 # Article D432-2
 
-La durée cumulée des contrats conclus par un même titulaire ne peut excéder quatre-vingts jours sur une période de douze mois consécutifs.
+La rémunération des personnes titulaires d'un contrat d'engagement éducatif ne peut être inférieure à 2,20 fois le montant du salaire minimum de croissance par jour.
+
+Lorsque les fonctions exercées supposent une présence continue auprès des publics accueillis, la nourriture et l'hébergement sont intégralement à la charge de l'organisateur de l'accueil et ne peuvent en aucun cas être considérés comme des avantages en nature.
