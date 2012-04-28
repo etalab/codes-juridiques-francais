@@ -1,4 +1,4 @@
-# Chapitre II : Départements d'Outre-Mer.
+# Chapitre II : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-Martin et à Saint-Pierre-et-Miquelon.
 
 - [Article L472-1](article-l472-1.md)
 - [Article L472-1-1](article-l472-1-1.md)
@@ -11,3 +11,4 @@
 - [Article L472-1-8](article-l472-1-8.md)
 - [Article L472-1-9](article-l472-1-9.md)
 - [Article L472-2](article-l472-2.md)
+- [Article L472-3](article-l472-3.md)

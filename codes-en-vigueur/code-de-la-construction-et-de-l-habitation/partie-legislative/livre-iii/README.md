@@ -4,4 +4,4 @@
 - [Titre II : Amélioration de l'habitat.](titre-ii)
 - [Titre IV : Reversement de l'aide de l'Etat.](titre-iv)
 - [Titre V : Aide personnalisée au logement.](titre-v)
-- [Titre VII : Dispositions diverses ou particulières aux départements d'outre-mer, à Saint-Pierre-et-Miquelon et à Mayotte.](titre-vii)
+- [Titre VII : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-Martin et à Saint-Pierre-et-Miquelon.](titre-vii)

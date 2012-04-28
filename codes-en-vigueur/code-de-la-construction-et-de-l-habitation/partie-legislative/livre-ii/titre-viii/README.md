@@ -1,3 +1,3 @@
-# Titre VIII : Dispositions particulières aux départements d'outre-mer.
+# Titre VIII : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-Martin et à Saint-Pierre-et-Miquelon.
 
 - [Chapitre unique.](chapitre-unique)
