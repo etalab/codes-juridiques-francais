@@ -6,7 +6,7 @@ Les activités accessoires susceptibles d'être autorisées sont les suivantes :
 
 2° Mission d'intérêt public de coopération internationale ou auprès d'organismes d'intérêt général à caractère international ou d'un Etat étranger, pour une durée limitée ;
 
-3° Expertises ou consultations auprès d'une entreprise ou d'un organisme privés ;
+3° Expertises ou consultations, dans les conditions prévues au sixième alinéa de l'article L. 4122-2 du code de la défense ;
 
 4° Enseignements ou formations ;
 
@@ -18,4 +18,6 @@ Les activités accessoires susceptibles d'être autorisées sont les suivantes :
 
 8° Activité de conjoint collaborateur au sein d'une entreprise artisanale, commerciale ou libérale mentionnée à l'article R. 121-1 du code de commerce et, s'agissant des artisans, à l'article 14 du décret du 2 avril 1998 susvisé ;
 
-9° Activités sportives d'enseignement, d'animation, d'encadrement et d'entraînement exercées au profit d'une entreprise ou d'une association.
+9° Activités sportives d'enseignement, d'animation, d'encadrement et d'entraînement exercées au profit d'une entreprise ou d'une association ;
+
+10° Vente de biens fabriqués personnellement par le militaire.
