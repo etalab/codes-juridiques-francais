@@ -46,7 +46,7 @@ Les musées nationaux ci-après sont soumis, en matière de projets d'acquisitio
 
 22° Le musée Magnin à Dijon ;
 
-23° Le musée de la porcelaine Adrien Dubouché à Limoges ;
+23° Le musée Adrien Dubouché à Limoges ;
 
 24° Le musée Clemenceau et de Lattre de Tassigny à Mouilleron-en-Pareds ;
 
