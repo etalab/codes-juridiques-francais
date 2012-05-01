@@ -2,6 +2,7 @@
 
 - [Code de l'énergie](code-de-l-energie)
 - [Code de la consommation](code-de-la-consommation)
+- [Code de la sécurité intérieure](code-de-la-securite-interieure)
 - [Code des transports](code-des-transports)
 - [Code forestier](code-forestier)
 - [Code général des collectivités territoriales](code-general-des-collectivites-territoriales)

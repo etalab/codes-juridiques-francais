@@ -9,7 +9,6 @@
 - [Article L6161-34](article-l6161-34.md)
 - [Article L6161-35](article-l6161-35.md)
 - [Article L6161-36](article-l6161-36.md)
-- [Article L6161-37](article-l6161-37.md)
 - [Article L6161-38](article-l6161-38.md)
 - [Article L6161-39](article-l6161-39.md)
 - [Article L6161-40](article-l6161-40.md)

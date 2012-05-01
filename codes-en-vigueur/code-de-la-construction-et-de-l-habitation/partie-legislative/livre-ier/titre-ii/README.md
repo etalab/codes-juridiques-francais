@@ -5,6 +5,5 @@
 - [Chapitre IV : Adaptation des constructions au temps de guerre.](chapitre-iv)
 - [Chapitre V : Sécurité de certains équipements d'immeubles par destination.](chapitre-v)
 - [Chapitre VI : Intervention de la police et de la gendarmerie dans les immeubles à usage d'habitation.](chapitre-vi)
-- [Chapitre VII : Gardiennage ou surveillance des immeubles.](chapitre-vii)
 - [Chapitre VIII : Sécurité des piscines.](chapitre-viii)
 - [Chapitre IX : Sécurité des immeubles collectifs à usage principal d'habitation.](chapitre-ix)

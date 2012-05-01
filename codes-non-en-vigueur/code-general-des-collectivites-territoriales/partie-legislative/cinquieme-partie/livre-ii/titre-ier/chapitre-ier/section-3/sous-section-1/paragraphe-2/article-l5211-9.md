@@ -10,6 +10,6 @@ Il est le chef des services de l'établissement public de coopération intercomm
 
 Il représente en justice l'établissement public de coopération intercommunale.
 
-Le président de l'établissement public de coopération intercommunale procède à la nomination des gardes champêtres dans le cas et les conditions prévus à l'article L. 2213-17.
+Le président de l'établissement public de coopération intercommunale procède à la nomination des gardes champêtres dans le cas et les conditions prévus à l'article L. 522-2 du code de la sécurité intérieure.
 
 A partir de l'installation de l'organe délibérant et jusqu'à l'élection du président, les fonctions de président sont assurées par le doyen d'âge.

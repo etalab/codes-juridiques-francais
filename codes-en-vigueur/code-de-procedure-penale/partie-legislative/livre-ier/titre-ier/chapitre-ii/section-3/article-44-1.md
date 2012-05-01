@@ -1,6 +1,6 @@
 # Article 44-1
 
-Pour les contraventions que les agents de la police municipale sont habilités à constater par procès-verbal conformément aux dispositions de l'article L. 2212-5 du code général des collectivités territoriales et qui sont commises au préjudice de la commune au titre de l'un de ses biens, le maire peut, tant que l'action publique n'a pas été mise en mouvement, proposer au contrevenant une transaction consistant en la réparation de ce préjudice.
+Pour les contraventions que les agents de la police municipale sont habilités à constater par procès-verbal conformément aux dispositions des articles L. 511-1 et L. 512-2 du code de la sécurité intérieure et qui sont commises au préjudice de la commune au titre de l'un de ses biens, le maire peut, tant que l'action publique n'a pas été mise en mouvement, proposer au contrevenant une transaction consistant en la réparation de ce préjudice.
 
 La transaction proposée par le maire et acceptée par le contrevenant doit être homologuée par le procureur de la République.
 
@@ -12,6 +12,6 @@ La transaction peut également consister en l'exécution, au profit de la commun
 
 Lorsqu'une de ces contraventions n'a pas été commise au préjudice de la commune mais a été commise sur le territoire de celle-ci, le maire peut proposer au procureur de la République de procéder à une des mesures prévues par les articles 41-1 ou 41-3 du présent code. Il est avisé par le procureur de la République de la suite réservée à sa proposition.
 
-Les dispositions du présent article s'appliquent aux contraventions de même nature que les agents de la ville de Paris chargés d'un service de police et les agents de surveillance de Paris sont habilités à constater par procès-verbal conformément aux dispositions des articles L. 2512-16 et L. 2512-16-1 du code général des collectivités territoriales. Ces dispositions s'appliquent également aux contraventions de même nature que les gardes champêtres sont habilités à constater par procès-verbal conformément à l'article L. 2213-18 du code général des collectivités territoriales.
+Les dispositions du présent article s'appliquent aux contraventions de même nature que les agents de la ville de Paris chargés d'un service de police et les agents de surveillance de Paris sont habilités à constater par procès-verbal conformément aux dispositions des articles L. 531-1 et L. 532-1 du code de la sécurité intérieure. Ces dispositions s'appliquent également aux contraventions de même nature que les gardes champêtres sont habilités à constater par procès-verbal conformément à l'article L. 2213-18 du code général des collectivités territoriales.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent article.
