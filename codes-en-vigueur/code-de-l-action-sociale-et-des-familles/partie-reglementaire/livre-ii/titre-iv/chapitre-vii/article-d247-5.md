@@ -14,13 +14,13 @@ d) Les agents des administrations centrales des ministères chargés de l'assura
 
 e) Les agents de l'Institut de veille sanitaire nommément désignés par le directeur de l'institut ;
 
-f) Les agents des agences régionales de santé nommément désignés par le  directeur général de chaque agence.
+f) Les agents des agences régionales de santé nommément désignés par le directeur général de chaque agence.
 
 2° Pour l'ensemble des informations, uniquement sous forme de données statistiques agrégées :
 
 a) Les agents des collectivités territoriales dans le cadre de leurs missions concernant le handicap ;
 
-b) Les agents de l'Agence française de sécurité sanitaire des produits de santé et de la Haute Autorité de santé nommément désignés par le directeur de l'agence et par le directeur de la haute autorité ;
+b) Les agents de l'Agence nationale de sécurité du médicament et des produits de santé et de la Haute Autorité de santé nommément désignés par le directeur de l'agence et par le directeur de la haute autorité ;
 
 c) Les agents de la direction du budget et les agents de la direction de la prévision des ministères chargés du budget et de la prévision nommément désignés par le directeur du budget et par le directeur de la prévision ;
 

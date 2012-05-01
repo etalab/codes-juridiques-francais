@@ -8,7 +8,7 @@ Les articles R. 235-1 à R. 235-13 sont applicables dans les îles Wallis et Fut
 
 "Art. R. 235-3 - Les épreuves de dépistage prévues par l'article L. 235-2 sont effectuées par un médecin ou un biologiste, requis à cet effet par un officier ou agent de police judiciaire qui leur fournit les matériels nécessaires au dépistage.
 
-"Art. R. 235-4 - Les épreuves de dépistage réalisées à la suite d'un recueil de liquide biologique sont effectuées conformément aux méthodes et dans les conditions prescrites par un arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence française de sécurité sanitaire des produits de santé, qui précise notamment les critères de choix des réactifs et le modèle des fiches présentant les résultats.
+"Art. R. 235-4 - Les épreuves de dépistage réalisées à la suite d'un recueil de liquide biologique sont effectuées conformément aux méthodes et dans les conditions prescrites par un arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence nationale de sécurité du médicament et des produits de santé, qui précise notamment les critères de choix des réactifs et le modèle des fiches présentant les résultats.
 
 "Ces fiches sont remises à l'officier ou l'agent de police judiciaire mentionné à l'article R. 235-3.
 
@@ -22,7 +22,7 @@ Les articles R. 235-1 à R. 235-13 sont applicables dans les îles Wallis et Fut
 
 "Art. R. 235-6 - L'examen clinique et le prélèvement biologique sont effectués par un médecin requis à cet effet par un officier ou un agent de police judiciaire. Le prélèvement biologique peut également être effectué par un biologiste requis dans les mêmes conditions.
 
-"Ce praticien effectue le prélèvement biologique à l'aide d'un nécessaire mis à sa disposition par un officier ou un agent de police judiciaire, en se conformant aux méthodes prescrites par un arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence française de sécurité sanitaire des produits de santé.
+"Ce praticien effectue le prélèvement biologique à l'aide d'un nécessaire mis à sa disposition par un officier ou un agent de police judiciaire, en se conformant aux méthodes prescrites par un arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence nationale de sécurité du médicament et des produits de santé.
 
 "Un officier ou un agent de police judiciaire assiste au prélèvement biologique.
 
@@ -30,13 +30,13 @@ Les articles R. 235-1 à R. 235-13 sont applicables dans les îles Wallis et Fut
 
 "Art. R. 235-8 - En cas de décès du ou des conducteurs impliqués, le prélèvement des échantillons biologiques et l'examen du corps sont effectués soit dans les conditions fixées par les articles R. 235-5 et R. 235-6, soit par un médecin légiste au cours de l'autopsie judiciaire.
 
-"Les méthodes particulières de prélèvement et de conservation des échantillons biologiques applicables en cas de décès du ou des conducteurs impliqués sont fixées par un arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence française de sécurité sanitaire des produits de santé.
+"Les méthodes particulières de prélèvement et de conservation des échantillons biologiques applicables en cas de décès du ou des conducteurs impliqués sont fixées par un arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence nationale de sécurité du médicament et des produits de santé.
 
 "Art. R. 235-9 - L'officier ou l'agent de police judiciaire adresse les deux échantillons biologiques prélevés, accompagnés des résultats des épreuves de dépistage, à un expert inscrit sous une rubrique spéciale en toxicologie, sur la liste de la cour d'appel, ou à un laboratoire de police technique et scientifique.
 
 "Le laboratoire ou l'expert conserve un des deux flacons mentionnés à l'article R. 235-7 en vue d'une demande éventuelle d'un examen technique ou d'une expertise. Les conditions dans lesquelles est conservé cet échantillon sont fixées par un arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence française de sécurité sanitaire des produits de santé.
 
-"Art. R. 235-10 - La recherche et le dosage des produits stupéfiants sont pratiqués dans les conditions définies par un arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence française de sécurité sanitaire des produits de santé.
+"Art. R. 235-10 - La recherche et le dosage des produits stupéfiants sont pratiqués dans les conditions définies par un arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence nationale de sécurité du médicament et des produits de santé.
 
 "Les résultats des analyses et examens médicaux, cliniques et biologiques sont consignés sur les fiches mentionnées à l'article R. 235-4. Ces fiches sont ensuite transmises à l'officier ou à l'agent de police judiciaire ayant assisté au prélèvement biologique.
 

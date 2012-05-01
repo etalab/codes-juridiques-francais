@@ -8,7 +8,7 @@ I.-Les autorités ou organismes que le procureur de la République ou le juge d'
 
 3° Le président du Conseil national des transports, pour l'élaboration du rapport annuel sur la sécurité des transports d'enfants ;
 
-4° Le chef de la mission des transports des matières dangereuses, pour l'élaboration des rapports annuels relevant de sa compétence et le contrôle des obligations de déclaration d'accident ;
+4° Le chef de la mission des transports des matières dangereuses, pour l'élaboration des rapports annuels relevant de sa compétence et le contrôle des obligatifons de déclaration d'accident ;
 
 5° Le directeur général de l'Institut national de recherche sur les transports et leur sécurité, pour la réalisation d'enquêtes concernant des accidents ou des types d'accidents déterminés ;
 
@@ -24,7 +24,7 @@ I.-Les autorités ou organismes que le procureur de la République ou le juge d'
 
 11° Le chef de l'inspection de la défense et de la sécurité civiles du ministère de l'intérieur, pour la réalisation d'enquêtes techniques destinées à prévenir des accidents mettant en cause des sapeurs-pompiers civils ou militaires ;
 
-12° Le directeur général de l'Agence française de sécurité sanitaire des produits de santé, pour la réalisation de recherches ou enquêtes scientifiques ou techniques, permettant d'adopter, à des fins de protection de la santé publique, toute mesure utile, notamment les mesures de police sanitaires nécessaires, destinée à prévenir des accidents ou incidents mettant en cause un produit ou une activité relevant de sa compétence.
+12° Le directeur général de l'Agence nationale de sécurité du médicament et des produits de santé, pour la réalisation de recherches ou enquêtes scientifiques ou techniques, permettant d'adopter, à des fins de protection de la santé publique, toute mesure utile, notamment les mesures de police sanitaires nécessaires, destinée à prévenir des accidents ou incidents mettant en cause un produit ou une activité relevant de sa compétence.
 
 II.-L'autorisation accordée par le procureur de la République peut être délivrée sans limitation de temps sous réserve de la possibilité d'y mettre fin à tout moment, ou pendant une période de temps déterminée, pour des catégories de procédures concernant des infractions dont elle précise la nature.
 
