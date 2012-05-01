@@ -36,7 +36,7 @@ b) Un représentant de l'organisme agréé par le ministre chargé du travail au
 
 c) Un représentant de l'Institut national de l'environnement industriel et des risques ;
 
-d) Un représentant de l'Agence française de sécurité sanitaire des produits de santé ;
+d) Un représentant de l'Agence nationale de sécurité du médicament et des produits de santé ;
 
 e) Un représentant des centres antipoison ;
 

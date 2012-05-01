@@ -28,6 +28,7 @@
 - [Code de la recherche](code-de-la-recherche)
 - [Code de la route.](code-de-la-route)
 - [Code de la santé publique](code-de-la-sante-publique)
+- [Code de la sécurité intérieure](code-de-la-securite-interieure)
 - [Code de la sécurité sociale.](code-de-la-securite-sociale)
 - [Code de la voirie routière](code-de-la-voirie-routiere)
 - [Code de procédure civile](code-de-procedure-civile)
