@@ -2,4 +2,3 @@
 
 - [Article A211-2](article-a211-2.md)
 - [Article A211-3](article-a211-3.md)
-- [Article A211-4](article-a211-4.md)
