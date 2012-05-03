@@ -26,7 +26,5 @@
 - [Article Annexe II-16-6 (art. A212-225)](article-annexe-ii-16-6-art-a212-225.md)
 - [Article Annexe II-17-1 (Article A211-54)](article-annexe-ii-17-1-article-a211-54.md)
 - [Article Annexe II-17 (art. A211-3)](article-annexe-ii-17-art-a211-3.md)
-- [Article Annexe II-17 (art. A222-6)](article-annexe-ii-17-art-a222-6.md)
 - [Article Annexe II-18 (art. A211-73)](article-annexe-ii-18-art-a211-73.md)
-- [Article Annexe II-18 (art. A222-7)](article-annexe-ii-18-art-a222-7.md)
 - [Article Annexe II-19 (art. A222-14)](article-annexe-ii-19-art-a222-14.md)
