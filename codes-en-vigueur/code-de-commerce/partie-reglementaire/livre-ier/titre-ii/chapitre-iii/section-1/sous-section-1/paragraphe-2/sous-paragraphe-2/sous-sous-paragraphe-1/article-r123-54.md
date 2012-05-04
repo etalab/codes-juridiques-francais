@@ -10,6 +10,8 @@ a) Directeurs généraux, directeurs généraux délégués, membres du directoi
 
 b) Le cas échéant, administrateurs, président du conseil d'administration, président du conseil de surveillance, membres du conseil de surveillance et commissaire aux comptes ;
 
+En ce qui concerne le commissaire aux comptes, l'adresse professionnelle peut être déclarée en lieu et place du domicile ;
+
 3° Lorsque les personnes mentionnées aux a et b ci-dessus sont des personnes morales, la dénomination sociale, la forme juridique, l'adresse du siège, le cas échéant leur représentant permanent ainsi que :
 
 a) Pour les personnes morales de droit français immatriculées au registre, les renseignements mentionnés aux 1° et 2° de l'article R. 123-237 ;
