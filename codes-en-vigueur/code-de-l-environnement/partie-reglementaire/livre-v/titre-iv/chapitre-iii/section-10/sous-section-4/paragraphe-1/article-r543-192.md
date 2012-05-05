@@ -1,6 +1,6 @@
 # Article R543-192
 
-L'approbation est subordonnée à un engagement du producteur relatif :
+L'approbation est délivrée dès lors que le producteur établit, à l'appui de sa demande, qu'il dispose des capacités techniques et financières pour répondre aux exigences d'un cahier des charges relatif :
 
 1° Aux conditions d'enlèvement des déchets d'équipements électriques et électroniques collectés séparément dans les conditions définies aux articles R. 543-179 à R. 543-181 ;
 
@@ -10,7 +10,7 @@ L'approbation est subordonnée à un engagement du producteur relatif :
 
 4° Aux moyens qui seront mis en oeuvre afin de satisfaire aux obligations d'information prévues aux articles R. 543-178 et R. 543-187 ;
 
-5° A sa capacité financière à assurer ses obligations pour l'année en cours ;
+5° Au respect de ses obligations pour les déchets issus de ses propres équipements électriques et électroniques ménagers ;
 
 6° A l'obligation de communiquer au ministre chargé de l'environnement un bilan annuel d'activité destiné à être rendu public, ainsi que les résultats obtenus en matière de réutilisation, de recyclage, de valorisation ou d'élimination des déchets d'équipements électriques et électroniques.
 
