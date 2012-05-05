@@ -12,7 +12,7 @@ Constituent les activités prévues au 1° de l'article L. 162-1, lorsqu'elles r
 
 5° Le rejet ou l'introduction de polluants dans les eaux de surface ou souterraines soumis à permis, autorisation ou enregistrement en vertu de la directive 2000/60/ CE du Parlement européen et du Conseil du 23 octobre 2000 établissant un cadre pour une politique communautaire dans le domaine de l'eau ;
 
-6° L'exploitation des installations ou des ouvrages, l'exercice des activités et la réalisation des travaux soumis à autorisation en application de l'article L. 214-3, mentionnés au titre Ier ainsi qu'aux rubriques 3.1.1.0, 3.1.2.0, 3.1.3.0, 3.1.4.0, 3.2.2.0, 3.2.5.0, 3.2.6.0 du titre III du tableau annexé à l'article R. 214-1 ;
+6° L'exploitation des installations ou des ouvrages, l'exercice des activités et la réalisation des travaux soumis à autorisation en application de l'article L. 214-3, mentionnés au titre Ier ainsi qu'aux rubriques 3.1.1.0,3.1.2.0,3.1.3.0,3.1.4.0,3.2.2.0,3.2.5.0,3.2.6.0 du titre III du tableau annexé à l'article R. 214-1 ;
 
 7° La fabrication, l'utilisation, le stockage, la transformation, le conditionnement, le rejet dans l'environnement et le transport sur site :
 
@@ -46,4 +46,6 @@ g) La réglementation relative aux conditions techniques d'exploitation d'hélic
 
 12° Les opérations liées aux mouvements transfrontaliers de déchets à l'entrée et à la sortie de l'Union européenne régies par les articles L. 541-40 à L. 541-42-2 et par les dispositions du règlement (CE) n° 1013/2006 du Parlement et du Conseil du 14 juin 2006 concernant les transferts de déchets sous réserve des dispositions transitoires prévues en son article 62 ;
 
-13° L'exploitation des sites de stockage géologique de dioxyde de carbone conformément à la section 6 du chapitre IX du titre II du livre II.
+13° L'exploitation des sites de stockage géologique de dioxyde de carbone conformément à la section 6 du chapitre IX du titre II du livre II ;
+
+14° Le transport par canalisation de gaz naturel, d'hydrocarbures liquides ou liquéfiés, ou de produits chimiques.
