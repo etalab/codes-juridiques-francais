@@ -10,7 +10,7 @@ Aux fins de la présente section, on entend par :
 
 4° " Périmètre alternatif " le périmètre du site d'inspection, établi conformément aux dispositions du paragraphe 17 de la dixième partie de l'annexe sur la vérification, proposé par le chef de l'équipe d'accompagnement, désigné conformément à l'article D. 2342-63, à la place du " périmètre demandé ".
 
-Un tel " périmètre alternatif " ne peut être proposé par le chef de l'équipe d'accompagnement qu'après qu'il a pris, dans la mesure du possible, l'avis des personnes concernées conformément à l'article D. 2342-64 ;
+Un tel " périmètre alternatif " ne peut être proposé par le chef de l'équipe d'accompagnement qu'après qu'il a pris, dans la mesure du possible, l'avis des personnes concernées ;
 
 5° " Périmètre déclaré ", la limite extérieure de toute installation déclarée à l'Organisation pour l'interdiction des armes chimiques conformément à la sixième partie de l'annexe sur la vérification ainsi que la limite extérieure des usines spécifiées dans les déclarations faites à cette organisation conformément aux paragraphes 7 et aux alinéas c des paragraphes 10 des septième et huitième parties de l'annexe sur la vérification ;
 

@@ -10,5 +10,4 @@
 - [Sous-section 8 : Prélèvements](sous-section-8)
 - [Sous-section 9 : Activités de fin d'inspection](sous-section-9)
 - [Article D2342-59](article-d2342-59.md)
-- [Article D2342-60](article-d2342-60.md)
 - [Article D2342-61](article-d2342-61.md)
