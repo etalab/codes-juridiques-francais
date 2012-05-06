@@ -1,6 +1,6 @@
 # Article R2524-12
 
-Les recours devant la Cour supérieure d'arbitrage sont formés par requêtes écrites et signées par les parties ou un mandataire. Ce dernier justifie d'un mandat spécial et écrit s'il n'est ni avocat au Conseil d'Etat et à la Cour de cassation, ni avocat régulièrement inscrit à un barreau, ni avoué.
+Les recours devant la Cour supérieure d'arbitrage sont formés par requêtes écrites et signées par les parties ou un mandataire. Ce dernier justifie d'un mandat spécial et écrit s'il n'est ni avocat au Conseil d'Etat et à la Cour de cassation, ni avocat régulièrement inscrit à un barreau.
 
 La requête est adressée au président de la cour par lettre recommandée avec avis de réception.
 

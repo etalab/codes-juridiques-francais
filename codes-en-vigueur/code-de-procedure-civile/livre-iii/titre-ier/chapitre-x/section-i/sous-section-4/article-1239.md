@@ -6,4 +6,4 @@ Sans préjudice des dispositions prévues par les articles 1239-1 à 1239-3, l'a
 
 Le délai d'appel est de quinze jours.
 
-Les parties ne sont pas tenues de constituer avocat ou avoué.
+Les parties ne sont pas tenues de constituer avocat.

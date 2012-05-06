@@ -2,4 +2,4 @@
 
 Le premier président désigne la chambre à laquelle l'affaire est distribuée.
 
-Le greffe en avise les avoués constitués.
+Le greffe en avise les avocats constitués.

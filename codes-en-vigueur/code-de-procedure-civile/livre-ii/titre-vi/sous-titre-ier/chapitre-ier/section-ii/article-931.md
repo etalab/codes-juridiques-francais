@@ -2,6 +2,6 @@
 
 Les parties se défendent elles-mêmes.
 
-Elles ont la faculté de se faire assister ou représenter selon les règles applicables devant la juridiction dont émane le jugement ; elles peuvent aussi se faire assister ou représenter par un avoué.
+Elles ont la faculté de se faire assister ou représenter selon les règles applicables devant la juridiction dont émane le jugement.
 
-Le représentant doit, s'il n'est avocat ou avoué, justifier d'un pouvoir spécial.
+Le représentant doit, s'il n'est avocat, justifier d'un pouvoir spécial.

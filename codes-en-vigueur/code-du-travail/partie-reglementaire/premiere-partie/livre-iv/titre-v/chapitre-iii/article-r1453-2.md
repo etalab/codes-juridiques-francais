@@ -11,5 +11,3 @@ Les personnes habilitées à assister ou à représenter les parties sont :
 4° Les avocats.
 
 L'employeur peut également se faire assister ou représenter par un membre de l'entreprise ou de l'établissement.
-
-Devant la cour d'appel, les parties peuvent aussi se faire assister ou représenter par un avoué.
