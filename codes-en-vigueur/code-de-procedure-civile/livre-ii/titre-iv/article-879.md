@@ -4,7 +4,7 @@ Les dispositions particulières aux juridictions statuant en matière prud'homal
 
 ###<font size="1">" PREMIÈRE PARTIE : LES RELATIONS INDIVIDUELLES DE TRAVAIL </font>
 
-LIVRE IV : LA RÉSOLUTION DES LITIGES LE CONSEIL DE PRUD'HOMMES
+LIVRE IV : LA RÉSOLUTION DES LITIGES - LE CONSEIL DE PRUD'HOMMES
 
 TITRE V : PROCÉDURE DEVANT LE CONSEIL DE PRUD'HOMMES
 
@@ -142,9 +142,7 @@ Lorsque deux conseillers rapporteurs sont désignés dans la même affaire, l'un
 
 Art.R. 1454-3
 
-Le conseiller rapporteur peut entendre les parties. Il peut les inviter à fournir les explications nécessaires à la solution du litige. Il peut les mettre en demeure de produire
-
-dans le délai qu'il détermine tous documents ou justifications propres à éclairer le conseil de prud'hommes.
+Le conseiller rapporteur peut entendre les parties. Il peut les inviter à fournir les explications nécessaires à la solution du litige. Il peut les mettre en demeure de produire dans le délai qu'il détermine tous documents ou justifications propres à éclairer le conseil de prud'hommes.
 
 En cas de non-production des documents et justifications mentionnés au premier alinéa, le rapporteur peut renvoyer l'affaire devant le bureau de jugement. Ce bureau tire toute conséquence de l'abstention de la partie ou de son refus.
 
@@ -306,7 +304,7 @@ Art.R. 1454-24
 
 En l'absence du président ou du vice-président appelé à présider la séance du bureau de jugement, la présidence peut être exercée par un conseiller faisant partie de l'assemblée à laquelle appartient le président ou le vice-président défaillant et désigné comme suppléant dans les formes prévues aux articles L. 1423-3 à L. 1423-8 et R. 1423-13.
 
-A défaut de cette désignation, la présidence revient au conseiller le plus ancien en fonctions dans la même assemblée.S'il y a égalité dans la durée des fonctions, la présidence revient au conseiller le plus âgé.
+A défaut de cette désignation, la présidence revient au conseiller le plus ancien en fonctions dans la même assemblée. S'il y a égalité dans la durée des fonctions, la présidence revient au conseiller le plus âgé.
 
 Art.R. 1454-25
 
