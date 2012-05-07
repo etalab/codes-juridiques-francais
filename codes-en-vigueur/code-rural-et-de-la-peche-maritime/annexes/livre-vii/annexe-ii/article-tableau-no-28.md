@@ -17,7 +17,7 @@ Affections provoquées par l'aldéhyde formique et ses polymères
 </tr>
 <tr>
 <td valign="top" width="280">
-<p>Ulcérations cutanées.</p>
+<p>Dermatites irritatives.</p>
 </td>
 <td valign="top" width="120">
 <p align="center">7 jours</p>
