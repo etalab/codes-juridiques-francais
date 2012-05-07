@@ -4,7 +4,7 @@ I. - Les créances de l'Etat ou celles qu'il est chargé de recouvrer pour le co
 
 La saisie à tiers détenteur est notifiée, avec mention des délais et voies de recours, au débiteur ainsi qu'aux personnes physiques ou morales qui détiennent des fonds pour son compte, qui ont une dette envers lui ou qui lui versent une rémunération.
 
-Elle emporte l'effet d'attribution immédiate, prévu à l'article 43 de la loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution, des sommes saisies disponibles à concurrence des sommes pour lesquelles la saisie est pratiquée.
+Elle emporte l'effet d'attribution immédiate, prévu à l'article L. 211-2 du code des procédures civiles d'exécution, des sommes saisies disponibles à concurrence des sommes pour lesquelles la saisie est pratiquée.
 
 Sous peine de se voir réclamer les sommes saisies majorées du taux d'intérêt légal, les fonds doivent être reversés dans les trente jours qui suivent la réception de la saisie par le tiers détenteur auprès du comptable chargé du recouvrement.
 
