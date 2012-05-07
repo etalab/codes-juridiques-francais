@@ -42,7 +42,7 @@ VIII.-Pour les sociétés coopératives d'intérêt collectif, la part des excé
 
 IX.-1. Les charges financières afférentes à l'acquisition des titres de participation mentionnés au troisième alinéa du a quinquies du I de l'article 219 sont rapportées au bénéfice de l'exercice lorsque l'entreprise n'est pas en mesure de démontrer par tous moyens, au titre de l'exercice ou des exercices couvrant une période de douze mois à compter de la date d'acquisition des titres ou, pour les titres acquis au cours d'un exercice ouvert avant le 1er janvier 2012, du premier exercice ouvert après cette date, que les décisions relatives à ces titres sont effectivement prises par elle ou par une société établie en France la contrôlant au sens du I de l'article L. 233-3 du code de commerce ou par une société établie en France directement contrôlée par cette dernière au sens du même article L. 233-3 et, lorsque le contrôle ou une influence est exercé sur la société dont les titres sont détenus, que ce contrôle ou cette influence est effectivement exercé par la société détenant les titres ou par une société établie en France la contrôlant au sens du I dudit article L. 233-3 ou par une société établie en France directement contrôlée par cette dernière au sens de ce même article.
 
-2. Pour l'application du 1 du présent IX, les charges financières afférentes à l'acquisition des titres acquis sont réputées égales à une fraction des charges financières de l'entreprise les ayant acquis égale au rapport du prix d'acquisition de ces titres au montant moyen au cours de l'exercice de la dette de l'entreprise les ayant acquis.
+2. Pour l'application du 1, les charges financières afférentes à l'acquisition des titres acquis sont réputées égales à une fraction des charges financières de l'entreprise les ayant acquis égale au rapport du prix d'acquisition de ces titres au montant moyen au cours de l'exercice de la dette de l'entreprise les ayant acquis.
 
 La réintégration s'applique au titre de l'exercice au titre duquel la démonstration mentionnée au même 1 doit être apportée et des exercices clos jusqu'au terme de la huitième année suivant celle de l'acquisition.
 
@@ -54,8 +54,8 @@ La réintégration s'applique au titre de l'exercice au titre duquel la démonst
 
 6. Le présent IX ne s'applique pas au titre des exercices pour lesquels l'entreprise apporte la preuve :
 
--que les acquisitions mentionnées au 1 n'ont pas été financées par des emprunts dont elle ou une autre société du groupe auquel elle appartient supporte les charges ;
+a) que les acquisitions mentionnées au 1 n'ont pas été financées par des emprunts dont elle ou une autre société du groupe auquel elle appartient supporte les charges ;
 
--ou que le ratio d'endettement du groupe auquel elle appartient est supérieur ou égal à son propre ratio d'endettement.
+b) ou que le ratio d'endettement du groupe auquel elle appartient est supérieur ou égal à son propre ratio d'endettement.
 
 Pour l'application des deuxième et troisième alinéas du présent 6, le groupe et les ratios d'endettement s'entendent conformément aux dispositions des deux derniers alinéas du III de l'article 212.

@@ -8,7 +8,7 @@ II. ― Le montant payé par chaque contribuable est :
 
 1° Du montant des dégrèvements accordés la même année en application de l'article 1586 quater du code général des impôts, sous réserve :
 
-a. Pour les entreprises soumises à la cotisation sur la valeur ajoutée des entreprises en application du I de l'article vent1586 ter du code général des impôts et visées au a du I de l'article vent1586 quater du même code : d'avoir dûment renseigné le montant de la valeur ajoutée sur la déclaration prévue au II de l'article 1586 octies du même code souscrite au cours de la même année civile ou, pour les entreprises qui en sont dispensées, sur la dernière déclaration de résultat exigée ;
+a. Pour les entreprises soumises à la cotisation sur la valeur ajoutée des entreprises en application du I de l'article 1586 ter du code général des impôts et visées au a du I de l'article 1586 quater  du même code : d'avoir dûment renseigné le montant de la valeur ajoutée sur la déclaration prévue au II de l'article 1586 octies du même code souscrite au cours de la même année civile ou, pour les entreprises qui en sont dispensées, sur la dernière déclaration de résultat exigée ;
 
 b. Pour les entreprises visées aux I et I bis de l'article 1586 quater du code général des impôts, à l'exception de celles visées au a du I de cet article : d'avoir dûment renseigné le montant de la valeur ajoutée sur la déclaration prévue au dernier alinéa de l'article 1679 septies du même code souscrite au cours de la même année civile ou sur l'un des deux relevés d'acompte acquittés au cours de cette même année ;
 

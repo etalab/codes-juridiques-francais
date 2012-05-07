@@ -26,7 +26,7 @@ III.-1. La personne qui demande le bénéfice pour la première fois des disposi
 
 2° Les éléments mentionnés aux b à d du 2 du I de l'article 299 octies ;
 
-3° Le respect par le fonds des conditions mentionnées, selon la nature du fonds concerné, aux articles L. 214-36, L. 214-37, L. 214-41 ou L. 214-41-1 du code monétaire et financier et au 3 ou au 4 du I de l'article 885 I ter précité ;
+3° Le respect par le fonds des conditions mentionnées, selon la nature du fonds concerné, aux  articles L. 214-28, L. 214-38, L. 214-30 ou L. 214-31 du code monétaire et financier et au 3 ou au 4 du I de l'article 885 I ter précité ;
 
 4° Le détail de la fraction mentionnée au second alinéa du 4 du I de l'article 885 I ter précité.
 
@@ -34,6 +34,6 @@ III.-1. La personne qui demande le bénéfice pour la première fois des disposi
 
 1° Le nombre de parts détenues par le demandeur au 1er janvier de l'année d'imposition reçues en contrepartie de souscriptions satisfaisant aux conditions prévues par l'article 885 I ter précité ;
 
-2° Le respect par le fonds des conditions mentionnées, selon la nature du fonds concerné, aux articles L. 214-36, L. 214-37, L. 214-41 ou L. 214-41-1 du code monétaire et financier et au 3 ou au 4 du I de l'article 885 I ter précité.
+2° Le respect par le fonds des conditions mentionnées, selon la nature du fonds concerné, aux articles L. 214-28, L. 214-38, L. 214-30 ou L. 214-31 du code monétaire et financier et au 3 ou au 4 du I de l'article 885 I ter précité.
 
 IV.- (Abrogé à compter du 6 août 2010).

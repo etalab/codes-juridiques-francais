@@ -1,6 +1,7 @@
 # Chapitre premier : Obligations des contribuables
 
 - [0I : Déclaration des comptes financiers et des contrats d'assurance-vie souscrits auprès d'organismes établis hors de France](0i)
+- [I : Achat au détail de métaux ferreux et non ferreux](i)
 - [I bis : Déclaration des ventes autres que les ventes au détail](i-bis)
 - [I ter : Apposition de marques](i-ter)
 - [I quater : Opérations réalisées sur les marchés à terme](i-quater)

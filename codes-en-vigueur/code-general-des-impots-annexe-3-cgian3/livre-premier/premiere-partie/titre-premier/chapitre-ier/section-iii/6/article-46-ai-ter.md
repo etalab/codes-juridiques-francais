@@ -18,10 +18,10 @@ c) L'identité et l'adresse du souscripteur ;
 
 d) Le nombre de parts souscrites, le montant et la date de leur souscription.
 
-Cet état précise que les conditions mentionnées à l'article L. 214-41 du code monétaire et financier et au 1 du VI de l'article 199 terdecies-0 A du code général des impôts sont remplies.
+Cet état précise que les conditions mentionnées à l'article L. 214-30 du code monétaire et financier et au 1 du VI de l'article 199 terdecies-0 A du code général des impôts sont remplies.
 
 VI. La société de gestion du fonds ou le dépositaire des actifs de ce fonds isole dans un compte spécial les parts dont la souscription ouvre droit au bénéfice de la réduction d'impôt. Il tient ce compte jusqu'à l'expiration de la cinquième année qui suit celle de la souscription.
 
-VII. Lorsque, au cours des cinq années qui suivent leur souscription, les parts du fonds sont cédées ou rachetées ou lorsque, dans ce même délai, l'une des conditions prévues à l'article L. 214-41 du code monétaire et financier cesse d'être remplie, la société de gestion du fonds ou le dépositaire des actifs de ce fonds adresse, au souscripteur et à la direction départementale ou, le cas échéant, régionale des finances publiques désignée au I, un état individuel qui comprend, outre les informations indiquées au V, le nombre des parts cédées ou rachetées, le montant et la date de la cession ou du rachat ainsi que, le cas échéant, la nature de la condition qui cesse d'être remplie.
+VII. Lorsque, au cours des cinq années qui suivent leur souscription, les parts du fonds sont cédées ou rachetées ou lorsque, dans ce même délai, l'une des conditions prévues à l'article L. 214-30 du code monétaire et financier cesse d'être remplie, la société de gestion du fonds ou le dépositaire des actifs de ce fonds adresse, au souscripteur et à la direction départementale ou, le cas échéant, régionale des finances publiques désignée au I, un état individuel qui comprend, outre les informations indiquées au V, le nombre des parts cédées ou rachetées, le montant et la date de la cession ou du rachat ainsi que, le cas échéant, la nature de la condition qui cesse d'être remplie.
 
-Cet état doit être délivré avant le 16 février de l'année qui suit celle de la cession ou du rachat des parts ou du non-respect de l'une des conditions prévues à l'article L. 214-41 du code monétaire et financier.
+Cet état doit être délivré avant le 16 février de l'année qui suit celle de la cession ou du rachat des parts ou du non-respect de l'une des conditions prévues à l'article L. 214-30 du code monétaire et financier.

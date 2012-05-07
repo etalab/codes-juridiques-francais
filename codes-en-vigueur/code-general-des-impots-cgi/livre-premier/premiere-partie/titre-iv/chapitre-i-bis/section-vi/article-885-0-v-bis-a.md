@@ -1,6 +1,6 @@
 # Article 885-0 V bis A
 
-I.-Le redevable peut imputer sur l'impôt de solidarité sur la fortune, dans la limite de 50 000 euros, 75 % du montant des dons en numéraire et dons en pleine propriété de titres de sociétés admis aux négociations sur un marché réglementé français ou étranger effectués au profit :
+I.-Le redevable peut imputer sur l'impôt de solidarité sur la fortune, dans la limite de 50 000 €, 75 % du montant des dons en numéraire et dons en pleine propriété de titres de sociétés admis aux négociations sur un marché réglementé français ou étranger effectués au profit :
 
 1° Des établissements de recherche ou d'enseignement supérieur ou d'enseignement artistique publics ou privés, d'intérêt général, à but non lucratif ;
 
@@ -26,13 +26,13 @@ Ouvrent également droit à la réduction d'impôt les dons et versements effect
 
 Lorsque les dons et versements ont été effectués au profit d'un organisme non agréé dont le siège est situé dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, la réduction d'impôt obtenue fait l'objet d'une reprise, sauf lorsque le contribuable a produit dans le délai de dépôt de déclaration les pièces justificatives attestant que cet organisme poursuit des objectifs et présente des caractéristiques similaires aux organismes dont le siège est situé en France répondant aux conditions fixées par le présent article.
 
-Un décret fixe les conditions d'application des onzième et douzième alinéas et notamment la durée de validité ainsi que les modalités de délivrance, de publicité et de retrait de l'agrément.
+Un décret fixe les conditions d'application des douzième et treizième alinéas et notamment la durée de validité ainsi que les modalités de délivrance, de publicité et de retrait de l'agrément.
 
 II.-Les dons ouvrant droit à l'avantage fiscal mentionné au I sont ceux effectués entre la date limite de dépôt de la déclaration de l'année précédant celle de l'imposition et la date limite de dépôt de la déclaration de l'année d'imposition.
 
 III.-La fraction du versement ayant donné lieu à l'avantage fiscal mentionné au I ne peut donner lieu à un autre avantage fiscal au titre d'un autre impôt.
 
-Le redevable peut bénéficier de l'avantage fiscal prévu au présent article et de celui prévu à l'article 885-0 V bis au titre de la même année, sous réserve que le montant imputé sur l'impôt de solidarité sur la fortune résultant des deux avantages n'excède pas 45 000 euros.
+Le redevable peut bénéficier de l'avantage fiscal prévu au présent article et de celui prévu à l'article 885-0 V bis au titre de la même année, sous réserve que le montant imputé sur l'impôt de solidarité sur la fortune résultant des deux avantages n'excède pas 45 000 €.
 
 Par dérogation à l'alinéa précédent, la fraction des versements pour laquelle le redevable demande le bénéfice de l'avantage fiscal prévu au présent article ne peut donner lieu à l'application de l'article 885-0 V bis.
 

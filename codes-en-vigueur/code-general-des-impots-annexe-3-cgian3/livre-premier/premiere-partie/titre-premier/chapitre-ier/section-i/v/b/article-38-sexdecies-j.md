@@ -4,7 +4,7 @@ I.-Les aléas non assurés reconnus par une autorité administrative compétente
 
 1° Aléas climatiques et naturels ayant affecté l'exploitation :
 
-a) Sinistre, constaté dans les conditions prévues à l'article R. 361-41 du code rural et de la pêche maritime ;
+a) Sinistre, constaté dans les conditions prévues à l'article D. 361-41 du code rural et de la pêche maritime ;
 
 b) Calamité agricole, constatée dans les conditions prévues en application de l'article L. 361-5 du code rural et de la pêche maritime ;
 

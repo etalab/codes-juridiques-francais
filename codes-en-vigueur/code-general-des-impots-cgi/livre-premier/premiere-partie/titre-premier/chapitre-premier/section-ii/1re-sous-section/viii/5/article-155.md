@@ -20,7 +20,7 @@ b) Et de la valeur d'origine de cet élément, multipliée par le rapport entre,
 
 2° La valeur comptable de l'élément d'actif cédé est réputée majorée du montant des amortissements, autres que ceux soumis au 2° du 1 du III du présent article, qui ont été réintégrés au bénéfice en application du 2° du 1 du présent II ; ces amortissements sont néanmoins considérés ne pas avoir été expressément exclus des charges déductibles.
 
-3. Le 1° du 1 du présent II n'est pas applicable, d'une part, et le 2° du même 1 n'est applicable qu'à la quote-part des charges afférentes à un bien qui excède le montant des produits afférents au même bien, d'autre part :
+3. Le 1° du 1 n'est pas applicable, d'une part, et le 2° du même 1 n'est applicable qu'à la quote-part des charges afférentes à un bien qui excède le montant des produits afférents au même bien, d'autre part :
 
 1° Lorsque les produits mentionnés au 1° du même 1 n'excèdent pas 5 % de l'ensemble des produits de l'exercice, y compris ceux pris en compte pour la détermination des résultats mentionnés au I mais hors plus-values de cession ;
 
@@ -34,9 +34,9 @@ III.-1. Les charges et produits mentionnés au 1 du II sont retenus, suivant leu
 
 2. Sous réserve du VII de l'article 151 septies, en cas de cession d'un élément d'actif immobilisé, la différence entre le prix de cession réel de l'élément d'actif et le montant déterminé dans les conditions du 1° du 2 du II du présent article est retenue pour la détermination des plus-values de cession à titre onéreux de biens ou droits de toute nature selon les règles applicables à cette catégorie de revenus.
 
-3. Les revenus, profits et plus-values mentionnés au 1° du 1 ou au 2 du présent III sont réputés avoir été perçus ou réalisés à la date de la clôture de l'exercice ou de la période d'imposition pour l'application des obligations déclaratives et pour le recouvrement de l'impôt dû.
+3. Les revenus, profits et plus-values mentionnés au 1° du 1 ou au 2 sont réputés avoir été perçus ou réalisés à la date de la clôture de l'exercice ou de la période d'imposition pour l'application des obligations déclaratives et pour le recouvrement de l'impôt dû.
 
-IV.-1. Sous réserve du 2 du présent IV, l'exercice à titre professionnel implique la participation personnelle, directe et continue à l'accomplissement des actes nécessaires à l'activité.
+IV.-1. Sous réserve du 2, l'exercice à titre professionnel implique la participation personnelle, directe et continue à l'accomplissement des actes nécessaires à l'activité.
 
 2.L'activité de location directe ou indirecte de locaux d'habitation meublés ou destinés à être loués meublés est exercée à titre professionnel lorsque les trois conditions suivantes sont réunies :
 

@@ -40,7 +40,7 @@ La demande d'agrément contient l'adresse des entrepôts suspensifs des droits d
 
 IV.-1° Les entrepositaires agréés doivent effectuer la balance du compte principal et des comptes de production ou de transformation de leur comptabilité matières en y inscrivant, pour chaque produit, selon son tarif d'imposition ou selon sa nature, au plus tard le cinquième jour de chaque mois, le stock théorique en début du mois précédent, le stock théorique en fin du mois précédent et le total des entrées et des sorties du mois précédent.
 
-Cette balance ne peut servir à elle seule d'élément de preuve pour la constatation de manquants entraînant, conformément au 2° du 1 du I de l'article 302 D du code général des impôts, l'exigibilité de l'impôt.
+Cette balance ne peut servir à elle seule d'élément de preuve pour la constatation de manquants entraînant, conformément au 2° bis du 1 du I de l'article 302 D du code général des impôts, l'exigibilité de l'impôt.
 
 Les entrepositaires agréés transmettent, pour chaque entrepôt fiscal suspensif des droits d'accises, au service des douanes et droits indirects territorialement compétent, au plus tard le cinquième jour de chaque mois, une déclaration récapitulative comportant les renseignements mentionnés au premier alinéa, et, le cas échéant, ceux prévus par les règlements ou accords interprofessionnels et ceux prévus au 7° du VII.
 

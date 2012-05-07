@@ -64,7 +64,7 @@ Afin de garantir la qualité de l'installation ou de la pose des équipements, m
 
 3. Le crédit d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année du paiement de la dépense par le contribuable ou, dans les cas prévus aux 2° et 3° des c, d et e du 1, au titre de l'année d'achèvement du logement ou de son acquisition si elle est postérieure.
 
-4. Pour un même logement que le propriétaire, le locataire ou l'occupant à titre gratuit affecte à son habitation principale, le montant des dépenses ouvrant droit au crédit d'impôt ne peut excéder, au titre d'une période de cinq années consécutives comprises entre le 1er janvier 2005 et le 31 décembre 2015, la somme de 8 000 € pour une personne célibataire, veuve ou divorcée et de 16 000 € pour un couple soumis à imposition commune. Cette somme est majorée de 400 euros par personne à charge au sens des articles 196 à 196 B. La somme de 400 Euros est divisée par deux lorsqu'il s'agit d'un enfant réputé à charge égale de l'un et l'autre de ses parents.
+4. Pour un même logement que le propriétaire, le locataire ou l'occupant à titre gratuit affecte à son habitation principale, le montant des dépenses ouvrant droit au crédit d'impôt ne peut excéder, au titre d'une période de cinq années consécutives comprises entre le 1er janvier 2005 et le 31 décembre 2015, la somme de 8 000 € pour une personne célibataire, veuve ou divorcée et de 16 000 € pour un couple soumis à imposition commune. Cette somme est majorée de 400 € par personne à charge au sens des articles 196 à 196 B. La somme de 400 € est divisée par deux lorsqu'il s'agit d'un enfant réputé à charge égale de l'un et l'autre de ses parents.
 
 Pour un même logement donné en location, le montant des dépenses ouvrant droit au crédit d'impôt pour le bailleur ne peut excéder, pour la période du 1er janvier 2009 au 31 décembre 2015, la somme de 8 000 €. Au titre de la même année, le nombre de logements donnés en location et faisant l'objet de dépenses ouvrant droit au crédit d'impôt est limité à trois par foyer fiscal.
 
@@ -236,7 +236,7 @@ Ces taux majorés s'appliquent dans la limite d'un taux de 42 % pour un même ma
 
 b. Le crédit d'impôt est accordé sur présentation de l'attestation du vendeur ou du constructeur du logement ou de la facture, autre que des factures d'acompte, de l'entreprise qui a procédé à la fourniture et à l'installation des équipements, matériaux et appareils ou de la personne qui a réalisé le diagnostic de performance énergétique.
 
-Cette facture comporte, outre les mentions prévues à l'article 289 du présent code :
+Cette facture comporte, outre les mentions prévues à l'article 289 :
 
 1° Le lieu de réalisation des travaux ou du diagnostic de performance énergétique ;
 
@@ -250,7 +250,7 @@ Cette facture comporte, outre les mentions prévues à l'article 289 du présent
 
 6° Dans le cas du remplacement d'une chaudière à bois ou autres biomasses ou d'un équipement de chauffage ou de production d'eau chaude indépendant fonctionnant au bois ou autres biomasses, et pour le bénéfice du taux de 31 % mentionné à la dernière ligne du tableau du d du 5, outre les mentions précitées, la mention de la reprise, par l'entreprise qui a réalisé les travaux, de l'ancien matériel et des coordonnées de l'entreprise qui procède à sa destruction.
 
-c. Lorsque le bénéficiaire du crédit d'impôt n'est pas en mesure de produire une facture ou une attestation comportant les mentions prévues au b du présent 6 selon la nature des travaux, équipements, matériaux et appareils concernés, il fait l'objet, au titre de l'année d'imputation et dans la limite du crédit d'impôt obtenu, d'une reprise égale au montant de l'avantage fiscal accordé à raison de la dépense non justifiée.
+c. Lorsque le bénéficiaire du crédit d'impôt n'est pas en mesure de produire une facture ou une attestation comportant les mentions prévues au b selon la nature des travaux, équipements, matériaux et appareils concernés, il fait l'objet, au titre de l'année d'imputation et dans la limite du crédit d'impôt obtenu, d'une reprise égale au montant de l'avantage fiscal accordé à raison de la dépense non justifiée.
 
 6 bis. La durée de l'engagement de location mentionné au premier alinéa du 1 s'apprécie à compter de la date de réalisation des dépenses ou, lorsque le logement n'est pas loué à cette date, à compter de la mise en location qui doit prendre effet, pour chaque logement concerné, dans les douze mois qui suivent la réalisation des dépenses. En cas de non-respect de cet engagement, le ou les crédits d'impôt obtenus pour chaque logement concerné font l'objet d'une reprise au titre de l'année au cours de laquelle l'engagement n'est pas respecté.
 

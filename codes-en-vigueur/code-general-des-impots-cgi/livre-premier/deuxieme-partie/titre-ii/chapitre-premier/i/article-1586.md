@@ -16,4 +16,4 @@ I. - Les départements perçoivent :
 
 6° Une fraction égale à 48,5 % de la cotisation sur la valeur ajoutée des entreprises, prévue à l'article 1586 ter, due au titre de la valeur ajoutée imposée dans chaque commune de son territoire, en application de l'article 1586 octies.
 
-II. - Les départements peuvent instituer la taxe pour le financement des conseils d'architecture, d'urbanisme et de l'environnement, prévue à l'article 1599 B.
+II. - (Sans objet).

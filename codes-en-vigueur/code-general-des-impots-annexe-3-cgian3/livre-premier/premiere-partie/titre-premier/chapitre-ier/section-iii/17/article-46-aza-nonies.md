@@ -6,13 +6,13 @@ I.-Pour l'application de l'article 199 sexvicies du code général des impôts, 
 
 a. Ses identité et adresse ;
 
-b.L'adresse du logement concerné ;
+b. L'adresse du logement concerné ;
 
 c. Pour les logements acquis en l'état futur d'achèvement ou les logements achevés depuis au moins quinze ans, la date d'achèvement du logement ;
 
 d. Le nom et le type d'établissement ou de résidence dans lequel le logement est situé ;
 
-e.L'engagement de louer le logement meublé pendant une durée de neuf ans au moins à l'exploitant de l'établissement ou de la résidence ;
+e. L'engagement de louer le logement meublé pendant une durée de neuf ans au moins à l'exploitant de l'établissement ou de la résidence ;
 
 f. Le prix d'acquisition ou de revient du logement retenu pour la détermination de la base de la réduction d'impôt ;
 
@@ -34,7 +34,7 @@ b. Lorsque le logement fait l'objet de travaux de la part de l'acquéreur, une c
 
 6° Pour les logements situés dans les résidences de tourisme, une copie de l'arrêté préfectoral portant classement de la résidence ;
 
-7° Pour les logements situés dans des résidences avec services pour personnes âgées ou handicapées, une copie attestant de la délivrance de l'agrément prévue à l'article L. 7232-3 du code du travail, par le gestionnaire des services.
+7° Pour les logements situés dans des résidences avec services pour personnes âgées ou handicapées, une copie attestant de la délivrance de l'agrément prévue à l'article L. 7232-1 du code du travail, par le gestionnaire des services.
 
 II.-En cas de changement d'exploitant au cours de la période couverte par l'engagement de location, le contribuable joint à sa déclaration des revenus de l'année au cours de laquelle le changement est intervenu une copie du bail conclu avec le nouvel exploitant comportant les mentions définies au 2° du I.
 

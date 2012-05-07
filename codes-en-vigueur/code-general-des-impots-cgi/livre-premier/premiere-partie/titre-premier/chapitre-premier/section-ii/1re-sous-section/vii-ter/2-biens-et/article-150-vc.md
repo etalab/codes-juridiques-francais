@@ -10,7 +10,7 @@ I.-La plus-value brute réalisée sur les biens ou droits mentionnés aux articl
 
 La plus-value brute réalisée sur les biens ou droits mentionnés à l'article 150 UA est réduite d'un abattement de 10 % pour chaque année de détention au-delà de la deuxième.
 
-Pour l'application des abattements mentionnés aux premier et deuxième alinéas, la durée de détention est décomptée :
+Pour l'application des abattements mentionnés aux deuxième à cinquième alinéas, la durée de détention est décomptée :
 
 1° En cas de cession de biens ou droits réalisée par une fiducie, à partir de la date d'acquisition de ces biens ou droits par la fiducie ou, si les biens ou droits ont été transférés dans le patrimoine fiduciaire dans les conditions prévues à l'article 238 quater N, à partir de la date d'acquisition des biens ou droits par le constituant ;
 

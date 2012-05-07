@@ -10,4 +10,4 @@ Dans l'hypothèse où le salarié exerce son activité dans plusieurs établisse
 
 Lorsque le salarié exerce son activité dans un ou plusieurs lieux d'exercice d'activité hors de l'entreprise pendant des durées d'au plus trois mois, il est déclaré au niveau de l'établissement retenu pour la déclaration annuelle des données sociales transmise selon le procédé informatique mentionné à l'article 89 A du code général des impôts et dans lequel la durée d'activité est la plus élevée. En l'absence de recours au procédé informatique mentionné à l'article 89 A du code précité, le salarié est déclaré au niveau de l'établissement qui aurait été retenu si ce procédé avait été utilisé et dans lequel la durée d'activité est la plus élevée.
 
-La notion d'établissement s'entend au sens de la cotisation foncière des entreprises telle que mentionnée à l'article 310 HA de l'annexe II au présent code.
+La notion d'établissement s'entend au sens de la cotisation foncière des entreprises telle que mentionnée à l'article 310 HA de l'annexe II au code général des impôts.

@@ -1,6 +1,6 @@
 # Article 286 I
 
-I.-1° Pour les entrepositaires agréés produisant des produits vitivinicoles régis par le règlement (CE) n° 1493 / 1999 du Conseil du 17 mai 1999 portant organisation commune du marché vitivinicole, la comptabilité matières est constituée par les registres vitivinicoles prévus par le règlement (CE) n° 884 / 2001 de la Commission du 24 avril 2001 portant modalités d'application relatives aux documents accompagnant les transports des produits vitivinicoles et aux registres à tenir dans le secteur vitivinicole.
+I.-1° Pour les entrepositaires agréés produisant des produits vitivinicoles régis par le règlement (CE) n° 1493/1999 du Conseil du 17 mai 1999 portant organisation commune du marché vitivinicole, la comptabilité matières est constituée par les registres vitivinicoles prévus par le règlement (CE) n° 884/2001 de la Commission du 24 avril 2001 portant modalités d'application relatives aux documents accompagnant les transports des produits vitivinicoles et aux registres à tenir dans le secteur vitivinicole.
 
 2° L'entrepositaire agréé doit remettre une copie des documents constituant la comptabilité matières aux agents des douanes et droits indirects, sur leur demande.
 
@@ -16,7 +16,7 @@ Sans préjudice d'autres dispositions prévues par les règlements et accords in
 
 Les registres comportent, le cas échéant, les références aux comptes d'âges ou de vieillissement prévus par les textes réglementaires en vigueur et les règlements des organismes interprofessionnels.
 
-En cas d'application des dispositions de l'article 450 du code général des impôts ou des articles 661 et 662 du code rural ancien, les registres doivent faire référence, pour chaque mouvement de produits vitivinicoles mentionnés au règlement (CE) n° 1493 / 1999 du Conseil du 17 mai 1999 portant organisation commune du marché vitivinicole, à l'avis de blocage, à l'engagement de garantie ou de mainlevée du porteur du warrant agricole ou du porteur de l'engagement de garantie.
+En cas d'application des dispositions de l'article 450 du code général des impôts ou des articles 661 et 662 du code rural ancien, les registres doivent faire référence, pour chaque mouvement de produits vitivinicoles mentionnés au règlement (CE) n° 1493/1999 du Conseil du 17 mai 1999 portant organisation commune du marché vitivinicole, à l'avis de blocage, à l'engagement de garantie ou de mainlevée du porteur du warrant agricole ou du porteur de l'engagement de garantie.
 
 L'identité du détenteur des registres doit figurer sur la première page de chacun des registres.
 
@@ -26,13 +26,13 @@ Les personnes qui tiennent les registres informatisés doivent, à toute réquis
 
 3° Ces registres vitivinicoles peuvent être constitués par des éléments d'une comptabilité commerciale informatisée dès lors qu'elle comporte :
 
-a) Toutes les indications nécessaires relatives aux mouvements des produits et au déroulement des manipulations conformément aux dispositions communautaires et aux informations prévues au 1° du II ;
+a) Toutes les indications nécessaires relatives aux mouvements des produits et au déroulement des manipulations conformément aux dispositions européennes et aux informations prévues au 1° du II ;
 
 b) La reprise des inventaires physiques des produits réalisés au moment de la clôture de l'exercice comptable.
 
 III.-Les entrepositaires agréés doivent effectuer la balance des registres en y inscrivant pour tous les produits vitivinicoles, au plus tard le cinquième jour de chaque mois, le stock théorique en début du mois précédent, le stock théorique en fin du mois précédent et le total des entrées et des sorties du mois précédent.
 
-Cette balance ne peut servir à elle seule d'élément de preuve pour la constatation de manquants entraînant, conformément au 2° du 1 du I de l'article 302 D du code général des impôts, l'exigibilité de l'impôt.
+Cette balance ne peut servir à elle seule d'élément de preuve pour la constatation de manquants entraînant, conformément au 2° bis du 1 du I de l'article 302 D du code général des impôts, l'exigibilité de l'impôt.
 
 Les entrepositaires agréés transmettent au service des douanes et droits indirects territorialement compétent, au plus tard le cinquième jour de chaque mois, une déclaration récapitulative comportant les renseignements mentionnés au premier alinéa et, le cas échéant, ceux prévus au 1° du II.
 

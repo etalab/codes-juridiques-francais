@@ -11,6 +11,7 @@
 - [VI bis : Primes de remboursement et intérêts capitalisés](vi-bis)
 - [VI ter : Détermination du résultat réalisé par les entreprises à l'occasion de la cession de certains titres de placements à revenu fixe](vi-ter)
 - [VII : Plus-values réalisées par les entreprises à l'occasion de la construction et de la vente d'immeubles affectés principalement à l'habitation](vii)
+- [VII bis : Imposition de la plus-value réalisée lors de la cession d'un droit de surélévation](vii-bis)
 - [VII ter : Modalités d'imposition de la plus value professionnelle provenant de la transmission ou du rachat de droits relatifs à une société relevant des articles 8 à 8 ter et exerçant une activité immobilière](vii-ter)
 - [VIII : Imposition des plus-values dégagées à l'occasion de l'aliénation de terrains à bâtir](viii)
 - [VIII bis : Exonération des plus-values réalisées lors de la cession d'une entreprise individuelle ou d'une branche complète d'activité](viii-bis)

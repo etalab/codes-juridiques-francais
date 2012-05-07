@@ -24,7 +24,7 @@ Ouvrent également droit à la réduction d'impôt les frais engagés dans le ca
 
 1 bis. Pour l'application des dispositions du 1, lorsque les dons et versements effectués au cours d'une année excèdent la limite de 20 %, l'excédent est reporté successivement sur les années suivantes jusqu'à la cinquième inclusivement et ouvre droit à la réduction d'impôt dans les mêmes conditions.
 
-1 ter Le taux de la réduction d'impôt visée au 1 est porté à 75 % pour les versements effectués au profit d'organismes sans but lucratif qui procèdent à la fourniture gratuite de repas à des personnes en difficulté, qui contribuent à favoriser leur logement ou qui procèdent, à titre principal, à la fourniture gratuite des soins mentionnés au 1° du 4 de l'article 261 à des personnes en difficulté. Ces versements sont retenus dans la limite de 513 € à compter de l'imposition des revenus de l'année 2010. Il n'en est pas tenu compte pour l'application de la limite mentionnée au 1.
+1 ter Le taux de la réduction d'impôt visée au 1 est porté à 75 % pour les versements effectués au profit d'organismes sans but lucratif qui procèdent à la fourniture gratuite de repas à des personnes en difficulté, qui contribuent à favoriser leur logement ou qui procèdent, à titre principal, à la fourniture gratuite des soins mentionnés au 1° du 4 de l'article 261 à des personnes en difficulté. Ces versements sont retenus dans la limite de 521 € à compter de l'imposition des revenus de l'année 2011. Il n'en est pas tenu compte pour l'application de la limite mentionnée au 1.
 
 La limite de versements mentionnée au premier alinéa est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu de l'année précédant celle des versements. Le montant obtenu est arrondi, s'il y a lieu, à l'euro supérieur.
 
@@ -60,11 +60,11 @@ Un décret fixe les conditions d'application du présent 4 bis et notamment la d
 
 5. Le bénéfice des dispositions du 1, du 1 ter, du 2 bis et du 4 bis est subordonné à la condition que soient jointes à la déclaration des revenus des pièces justificatives, répondant à un modèle fixé par un arrêté attestant le total du montant et la date des versements ainsi que l'identité des bénéficiaires. A défaut, la réduction d'impôt est refusée sans proposition de rectification préalable.
 
-Toutefois, pour l'application du 3, les reçus délivrés pour les dons et les cotisations d'un montant égal ou inférieur à 3 000 euros ne mentionnent pas la dénomination du bénéficiaire. Un décret en Conseil d'Etat détermine les modalités d'application de cette disposition.
+Toutefois, pour l'application du 3, les reçus délivrés pour les dons et les cotisations d'un montant égal ou inférieur à 3 000 € ne mentionnent pas la dénomination du bénéficiaire. Un décret en Conseil d'Etat détermine les modalités d'application de cette disposition.
 
 6. Par dérogation aux dispositions du premier alinéa du 5, le bénéfice de la réduction d'impôt est accordé aux contribuables qui transmettent la déclaration de leurs revenus par voie électronique, en application de l'article 1649 quater B ter, à la condition que soient mentionnés sur cette déclaration l'identité de chaque organisme bénéficiaire et le montant total des versements effectués au profit de chacun d'entre eux au titre de l'année d'imposition des revenus.
 
-L'identité du bénéficiaire n'est pas mentionnée pour les dons et cotisations versés à des organismes visés au e du 1 et au 3 lorsque, dans ce dernier cas, les versements sont d'un montant égal ou inférieur à 3 000 euros.
+L'identité du bénéficiaire n'est pas mentionnée pour les dons et cotisations versés à des organismes visés au e du 1 et au 3 lorsque, dans ce dernier cas, les versements sont d'un montant égal ou inférieur à 3 000 €.
 
 La réduction d'impôt accordée est remise en cause lorsque ces contribuables ne peuvent pas justifier des versements effectués par la présentation des pièces justificatives mentionnées au premier alinéa du 5.
 

@@ -4,7 +4,7 @@ I.-Afin d'inciter au retour à l'emploi ou au maintien de l'activité, il est in
 
 A.-Le montant des revenus du foyer fiscal tel que défini au IV de l'article 1417 ne doit pas excéder 16 251 euros pour la première part de quotient familial des personnes célibataires, veuves ou divorcées et 32 498 euros pour les deux premières parts de quotient familial des personnes soumises à imposition commune. Ces limites sont majorées de 4 490 euros pour chacune des demi-parts suivantes et de la moitié de cette somme pour chacun des quarts de part suivants.
 
-Pour l'appréciation de ces limites, lorsqu'au cours d'une année civile survient l'un des événements mentionnés aux 4, 5 et 6 de l'article 6, le montant des revenus, tel que défini au IV de l'article 1417, déclaré au titre de chacune des déclarations souscrites est converti en base annuelle.
+Pour l'appréciation de ces limites, lorsqu'au cours d'une année civile survient l'événement mentionné au 8 de l'article 6, le montant des revenus, tel que défini au IV de l'article 1417, déclaré au titre de chacune des déclarations souscrites est converti en base annuelle.
 
 B.-1° Le montant des revenus déclarés par chacun des membres du foyer fiscal bénéficiaire de la prime majoré du montant des revenus soumis aux versements libératoires prévus par l'article 151-0, à raison de l'exercice d'une ou plusieurs activités professionnelles, ne doit être ni inférieur à 3 743 euros ni supérieur à 17 451 euros.
 

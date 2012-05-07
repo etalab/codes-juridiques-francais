@@ -1,6 +1,5 @@
 # Chapitre II : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés
 
-- [Section 00I : Sociétés d'investissement](section-00i)
 - [Section 0I : Sociétés de personnes et assimilées](section-0i)
 - [Section I : Déclarations des commissions, courtages, ristournes, honoraires et droits d'auteur](section-i)
 - [Section II : Déclaration de certaines rémunérations d'associés et parts de bénéfices](section-ii)

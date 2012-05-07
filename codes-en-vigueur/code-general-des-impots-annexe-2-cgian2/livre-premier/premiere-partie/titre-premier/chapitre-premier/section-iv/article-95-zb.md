@@ -4,4 +4,4 @@ Le tiers de confiance conserve les pièces mentionnées au I de l'article 170 te
 
 Les pièces conservées sous forme dématérialisée doivent pouvoir être éditées à tout moment dans le délai de conservation. Le tiers de confiance garantit la parfaite conformité et inaltérabilité de ces éditions.
 
-Les pièces conservées sous forme dématérialisée doivent pouvoir être éditées à tout moment dans le délai de conservation. Le tiers de confiance garantit la parfaite conformité et inaltérabilité de ces éditions.
+(Alinéa disjoint).

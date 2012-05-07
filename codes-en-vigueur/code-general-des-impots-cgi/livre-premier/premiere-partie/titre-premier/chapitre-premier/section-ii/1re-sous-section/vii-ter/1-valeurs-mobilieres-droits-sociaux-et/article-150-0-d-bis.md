@@ -1,6 +1,6 @@
 # Article 150-0 D bis
 
-I.-1. L'imposition de la plus-value retirée de la cession à titre onéreux d'actions ou de parts de sociétés ou de droits démembrés portant sur ces actions ou parts peut être reportée si les conditions prévues au II du présent article sont remplies.
+I.-1. L'imposition de la plus-value retirée de la cession à titre onéreux d'actions ou de parts de sociétés ou de droits démembrés portant sur ces actions ou parts peut être reportée si les conditions prévues au II sont remplies.
 
 Le report est subordonné à la condition que le contribuable en fasse la demande et déclare le montant de la plus-value dans la déclaration prévue à l'article 170.
 
@@ -24,13 +24,13 @@ c) A son siège social dans un Etat membre de l'Union européenne ou dans un aut
 
 a) Le produit de la cession des titres ou droits doit être investi, dans un délai de trente-six mois et à hauteur de 80 % du montant de la plus-value net des prélèvements sociaux, dans la souscription en numéraire au capital initial ou dans l'augmentation de capital en numéraire d'une société ;
 
-b) La société bénéficiaire de l'apport doit exercer l'une des activités mentionnées au b du 2° du présent II et répondre aux conditions prévues aux a et c du même 2° ;
+b) La société bénéficiaire de l'apport doit exercer l'une des activités mentionnées au b du 2° et répondre aux conditions prévues aux a et c du même 2° ;
 
 c) Les titres représentatifs de l'apport en numéraire doivent être entièrement libérés au moment de la souscription ou de l'augmentation de capital ou, au plus tard, à l'issue du délai mentionné au a du présent 3° et représenter au moins 5 % des droits de vote et des droits dans les bénéfices sociaux de la société ;
 
 d) Les titres représentatifs de l'apport en numéraire doivent être détenus directement et en pleine propriété par le contribuable pendant au moins cinq ans.
 
-Lorsque les titres font l'objet d'une transmission, d'un rachat ou d'une annulation ou, si cet événement est antérieur, lorsque le contribuable transfère son domicile fiscal hors de France dans les conditions prévues à l'article 167 bis, avant le délai prévu au premier alinéa du présent d, le report d'imposition prévu au I du présent article est remis en cause dans les conditions du deuxième alinéa du III ;
+Lorsque les titres font l'objet d'une transmission, d'un rachat ou d'une annulation ou, si cet événement est antérieur, lorsque le contribuable transfère son domicile fiscal hors de France dans les conditions prévues à l'article 167 bis, avant le délai prévu au premier alinéa, le report d'imposition prévu au I est remis en cause dans les conditions du deuxième alinéa du III ;
 
 e) (abrogé)
 
@@ -38,13 +38,13 @@ f) La société bénéficiaire de l'apport ne doit pas avoir procédé à un rem
 
 III. ― Le report d'imposition prévu au présent article est exclusif de l'application des articles 199 terdecies-0 A et 885-0 V bis.
 
-Le non-respect de l'une des conditions prévues au II du présent article entraîne l'exigibilité immédiate de l'impôt sur la plus-value, sans préjudice de l'intérêt de retard prévu à l'article 1727, décompté de la date à laquelle cet impôt aurait dû être acquitté.
+Le non-respect de l'une des conditions prévues au II entraîne l'exigibilité immédiate de l'impôt sur la plus-value, sans préjudice de l'intérêt de retard prévu à l'article 1727, décompté de la date à laquelle cet impôt aurait dû être acquitté.
 
-L'imposition de la plus-value antérieurement reportée peut, à la demande du contribuable, être reportée de nouveau lorsque les titres souscrits conformément au 3° du II du présent article font l'objet d'une opération d'échange dans les conditions prévues à l'article 150-0 B. Dans ce cas, le délai de cinq ans est apprécié à compter de la date de souscription des titres échangés.
+L'imposition de la plus-value antérieurement reportée peut, à la demande du contribuable, être reportée de nouveau lorsque les titres souscrits conformément au 3° du II font l'objet d'une opération d'échange dans les conditions prévues à l'article 150-0 B. Dans ce cas, le délai de cinq ans est apprécié à compter de la date de souscription des titres échangés.
 
 III bis. ― Lorsque les titres ayant fait l'objet de l'apport prévu au a du 3° du II sont détenus depuis plus de cinq ans, la plus-value en report d'imposition est définitivement exonérée. Cette exonération est applicable avant l'expiration du délai de cinq ans en cas de licenciement, d'invalidité correspondant au classement dans les deuxième ou troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, du décès du contribuable ou de l'un des époux soumis à imposition commune ou en cas de liquidation judiciaire de la société.
 
-Le premier alinéa du présent III bis ne s'applique pas en cas de remboursement des apports avant la dixième année suivant celle de l'apport en numéraire.
+Le premier alinéa ne s'applique pas en cas de remboursement des apports avant la dixième année suivant celle de l'apport en numéraire.
 
 IV.-En cas de cession de titres ou droits mentionnés au 1 du I appartenant à une série de titres ou droits de même nature, acquis ou souscrits à des dates différentes, les titres ou droits cédés sont ceux acquis ou souscrits aux dates les plus anciennes.
 

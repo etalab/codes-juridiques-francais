@@ -8,7 +8,7 @@ b) Le navire est livré au plus tard trente mois après la souscription et sa du
 
 c) Les parts de copropriété sont conservées par le souscripteur, qui prend un engagement en ce sens, jusqu'au 31 décembre de la quatrième année suivant celle de la livraison du navire à la copropriété ;
 
-d) Le navire est, dès sa livraison et pendant la période prévue au c, exploité ou frété par la copropriété selon les modalités prévues au titre premier de la loi n° 66-420 du 18 juin 1966 sur les contrats d'affrètement et de transport maritimes ;
+d) Le navire est, dès sa livraison et pendant la période prévue au c, exploité ou frété par la copropriété selon les modalités prévues aux articles L. 5423-1 et L. 5423-3 à L. 5423-14 du code des transports;
 
 e) Le navire bat pavillon français dès sa livraison à la copropriété et jusqu'au 31 décembre de la quatrième année qui suit celle de cette livraison ;
 

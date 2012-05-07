@@ -46,167 +46,143 @@ Dans chaque circonscription, pour le calcul de la taxe relative aux locaux à us
 
 b. (Abrogé)
 
-2. Les tarifs au mètre carré sont fixés conformément aux dispositions ci-dessous :
+2. Les tarifs au mètre carré sont fixés, pour l'année 2012, conformément aux dispositions ci-dessous :
 
 a) Pour les locaux à usage de bureaux :
 
-(En euros)
+(en euros)
 
+<div align="left"/>
+<div align="left"/>
+<div align="center">
 <table>
 <tbody>
 <tr>
-<th colspan="2">
-<br/>1re CIRCONSCRIPTION<br/>
+<th colspan="2">1re CIRCONSCRIPTION<br/>
 </th>
-<th colspan="2">
-<br/>2e CIRCONSCRIPTION<br/>
+<th colspan="2"> 										2e CIRCONSCRIPTION<br/>
 </th>
-<th colspan="2">
-<p align="left">3e CIRCONSCRIPTION </p>
+<th colspan="5"> 										3e CIRCONSCRIPTION<br/>
 </th>
 </tr>
 <tr>
-<td>
-<p align="center">Tarif<br/>normal </p>
+<td align="center">
+<b>Tarif normal</b>
 </td>
-<td>
-<p align="center">Tarif<br/>réduit</p>
+<td align="center">
+<b>Tarif réduit</b>
 </td>
-<td>
-<p align="center">Tarif<br/>normal </p>
+<td align="center">
+<b>Tarif normal</b>
 </td>
-<td>
-<p align="center">Tarif<br/>réduit</p>
+<td align="center">
+<b>Tarif réduit</b>
 </td>
-<td>
-<p align="center">Tarif<br/>normal </p>
+<td align="center">
+<b>Tarif normal</b>
 </td>
-<td>
-<p align="center">Tarif<br/>réduit </p>
+<td align="center">
+<b>Tarif réduit</b>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>15,91 <br/>
-</td>
-<td align="center">
-<br/>7,88 <br/>
-</td>
-<td align="center">
-<br/>9,43 <br/>
-</td>
-<td align="center">
-<br/>5,63 <br/>
-</td>
-<td align="center">
-<br/>4,51 <br/>
-</td>
-<td align="center">
-<br/>4,08 <br/>
-</td>
+<td align="center"> 16,71</td>
+<td align="center"> 8,28</td>
+<td align="center"> 9,91</td>
+<td align="center"> 5,92</td>
+<td align="center"> 4,74</td>
+<td align="center"> 4,29</td>
 </tr>
 </tbody>
 </table>
-
-b) Pour les locaux commerciaux :
-
-(En euros)
+</div>
+<div align="left"/>
+<div align="left">b) Pour les locaux commerciaux : </div>
+<div align="left">(en euros) </div>
 
 <table>
 <tbody>
 <tr>
 <th>
-<br/>1re CIRCONSCRIPTION <br/>
+<br/>1re CIRCONSCRIPTION<br/>
 </th>
 <th>
-<br/>2e CIRCONSCRIPTION <br/>
+<br/>2e CIRCONSCRIPTION<br/>
 </th>
-<th>
-<br/>3e CIRCONSCRIPTION <br/>
+<th colspan="7">
+<br/>3e CIRCONSCRIPTION<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>7,00 <br/>
+<br/>7,36<br/>
 </td>
 <td align="center">
-<br/>3,60 <br/>
+<br/>3,79<br/>
 </td>
-<td align="center">
-<br/>1,80 <br/>
-</td>
+<td align="center">1,90</td>
 </tr>
 </tbody>
 </table>
 
 c) Pour les locaux de stockage :
 
-(En euros)
+(en euros)
 
 <table>
 <tbody>
 <tr>
 <th>
-<br/>1re CIRCONSCRIPTION <br/>
+<p>1re CIRCONSCRIPTION</p>
 </th>
-<th>
-<br/>2e CIRCONSCRIPTION <br/>
-</th>
-<th>
-<br/>3e CIRCONSCRIPTION <br/>
-</th>
+<th>2e CIRCONSCRIPTION</th>
+<th colspan="7">3e CIRCONSCRIPTION</th>
 </tr>
 <tr>
 <td align="center">
-<br/>3,60 <br/>
+<br/>3,79<br/>
 </td>
 <td align="center">
-<br/>1,80 <br/>
+<br/>1,90<br/>
 </td>
 <td align="center">
-<br/>0,90 <br/>
-</td>
+<br/>0,95</td>
 </tr>
 </tbody>
 </table>
-
-d) Pour les surfaces de stationnement annexées aux catégories de locaux mentionnées aux a à c :
-
-(En euros)
+<div align="left">d) Pour les surfaces de stationnement annexées aux catégories de locaux mentionnées aux a à c : </div>
+<div align="left">(en euros) </div>
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>1re CIRCONSCRIPTION <br/>
+<th>1re CIRCONSCRIPTION<br/>
 </th>
 <th>
-<br/>2e CIRCONSCRIPTION <br/>
+<br/>2e CIRCONSCRIPTION<br/>
 </th>
-<th>
-<br/>3e CIRCONSCRIPTION <br/>
+<th colspan="7">
+<br/>3e CIRCONSCRIPTION<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>2,10 <br/>
+<br/>2,21<br/>
 </td>
 <td align="center">
-<br/>1,20 <br/>
+<br/>1,27<br/>
 </td>
 <td align="center">
-<br/>0,60 <br/>
-</td>
+<br/>0,64</td>
 </tr>
 </tbody>
 </table>
 
-e) Ces tarifs, fixés au 1er janvier 2011, sont actualisés par arrêté du ministre chargé de l'économie au 1er janvier de chaque année en fonction du dernier indice du coût de la construction publié par l'Institut national de la statistique et des études économiques. Les valeurs sont arrondies, s'il y a lieu, au centime d'euro supérieur.
-
-VI bis-Pour l'application des dispositions des V et VI, les parcs d'exposition et locaux à usage principal de congrès sont assimilés à des locaux de stockage.
-
-VII.-Les redevables sont tenus de déposer une déclaration accompagnée du paiement de la taxe, avant le 1er mars de chaque année, auprès du comptable public compétent du lieu de situation des locaux imposables.
-
-VIII.-Le contrôle, le recouvrement, le contentieux, les garanties et les sanctions relatifs à la taxe sont régis par les règles applicables en matière de taxe sur les salaires jusqu'au 31 décembre 2003.
-
-Le privilège prévu au 1° du 2 de l'article 1920 peut être exercé pour le recouvrement de la taxe.
+<div align="left">e) Ces tarifs sont actualisés par arrêté du ministre chargé de l'économie au 1er janvier de chaque année en fonction du dernier indice du coût de la construction publié par l'Institut national de la statistique et des études économiques. Les valeurs sont arrondies, s'il y a lieu, au centime d'euro supérieur. </div>
+<div align="left"/>
+<div align="left">VI bis-Pour l'application des dispositions des V et VI, les parcs d'exposition et locaux à usage principal de congrès sont assimilés à des locaux de stockage. </div>
+<div align="left"/>
+<div align="left">VII.-Les redevables sont tenus de déposer une déclaration accompagnée du paiement de la taxe, avant le 1er mars de chaque année, auprès du comptable public compétent du lieu de situation des locaux imposables.</div>
+<div align="left"/>
+<div align="left">VIII.-Le contrôle, le recouvrement, le contentieux, les garanties et les sanctions relatifs à la taxe sont régis par les règles applicables en matière de taxe sur les salaires jusqu'au 31 décembre 2003. </div>
+<div align="left">Le privilège prévu au 1° du 2 de l'article 1920 peut être exercé pour le recouvrement de la taxe.</div>

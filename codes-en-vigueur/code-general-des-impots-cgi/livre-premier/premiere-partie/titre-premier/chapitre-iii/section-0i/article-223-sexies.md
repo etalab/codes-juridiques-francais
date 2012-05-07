@@ -10,7 +10,7 @@ I.-1. Il est institué à la charge des contribuables passibles de l'impôt sur 
 
 II.-1. Toutefois si, au titre de l'année d'imposition à la contribution mentionnée au 1 du I, le revenu fiscal de référence du contribuable est supérieur ou égal à une fois et demie la moyenne des revenus fiscaux de référence des deux années précédentes, la fraction du revenu fiscal de l'année d'imposition supérieure à cette moyenne est divisée par deux, puis le montant ainsi obtenu est ajouté à cette même moyenne. La cotisation supplémentaire ainsi obtenue est alors multipliée par deux.
 
-Le premier alinéa du présent 1 est applicable aux contribuables dont le revenu fiscal de référence au titre de chacune des deux années précédant celle de l'imposition n'a pas excédé 250 000 € pour les contribuables célibataires, veufs, séparés ou divorcés et 500 000 € pour les contribuables soumis à imposition commune.
+Le premier alinéa est applicable aux contribuables dont le revenu fiscal de référence au titre de chacune des deux années précédant celle de l'imposition n'a pas excédé 250 000 € pour les contribuables célibataires, veufs, séparés ou divorcés et 500 000 € pour les contribuables soumis à imposition commune .
 
 Cette disposition est applicable aux contribuables qui ont été passibles de l'impôt sur le revenu au titre des deux années précédant celle de l'imposition pour plus de la moitié de leurs revenus de source française ou étrangère de même nature que ceux entrant dans la composition du revenu fiscal de référence.
 

@@ -8,4 +8,4 @@ Pour l'application des premier et deuxième alinéas du I de l'article 220 quinq
 
 2° La fraction non distribuée du bénéfice défini au 1° bis est obtenue en déduisant de ce bénéfice le montant des distributions effectuées par prélèvement sur ce même bénéfice ;
 
-3° Seule la fraction du déficit qui n'a pu être imputée sur les bénéfices des exercices précédant l'exercice déficitaire continue d'être reportable dans les conditions prévues au I de l'article 209 du code général des impôts.
+3° Seule la fraction du déficit qui n'a pu être imputée sur le bénéfice de l'exercice précédant l'exercice déficitaire continue d'être reportable dans les conditions prévues au I de l'article 209 du code général des impôts.
