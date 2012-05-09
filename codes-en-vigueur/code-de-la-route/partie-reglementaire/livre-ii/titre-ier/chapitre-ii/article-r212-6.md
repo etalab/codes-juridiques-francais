@@ -1,6 +1,6 @@
 # Article R212-6
 
-Le brevet d'animateur pour la formation des conducteurs responsables d'infractions (BAFCRI) est délivré par le ministre chargé des transports aux personnes ayant subi avec succès les épreuves d'un examen.
+Le brevet d'animateur pour la formation des conducteurs responsables d'infractions (BAFCRI) est délivré par le   ministre chargé de la sécurité routière aux personnes ayant subi avec succès les épreuves d'un examen.
 
 Seuls peuvent se présenter à cet examen, en vue de l'obtention de ce brevet, les titulaires du brevet pour l'exercice de la profession d'enseignant de la conduite automobile et de la sécurité routière (BEPECASER) ou d'un titre ou diplôme reconnu équivalent en application de l'article R. 212-3.
 
@@ -10,4 +10,4 @@ Les épreuves écrites d'admissibilité portent l'une sur la réglementation de 
 
 L'épreuve orale d'admission consiste en un entretien destiné à évaluer l'aptitude du candidat à animer un groupe de stagiaires.
 
-Un arrêté du ministre chargé des transports précise le contenu détaillé des épreuves et les modalités de l'examen.
+Un arrêté du   ministre chargé de la sécurité routière précise le contenu détaillé des épreuves et les modalités de l'examen.

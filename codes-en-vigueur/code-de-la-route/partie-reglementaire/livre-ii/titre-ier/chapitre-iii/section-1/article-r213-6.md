@@ -8,4 +8,4 @@ Lors du renouvellement quinquennal de l'agrément mentionné à l'article L. 213
 
 3° Justifier, en outre, pour les personnes désignées nommément par l'exploitant pour l'encadrement administratif des stages de sensibilisation à la sécurité routière, d'une attestation de réactualisation de leurs connaissances professionnelles dans ce domaine spécifique.
 
-Les conditions fixées au présent article sont précisées par arrêté du ministre chargé des transports.
+Les conditions fixées au présent article sont précisées par arrêté du   ministre chargé de la sécurité routière.

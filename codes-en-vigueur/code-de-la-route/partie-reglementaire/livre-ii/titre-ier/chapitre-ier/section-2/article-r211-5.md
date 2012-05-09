@@ -10,6 +10,6 @@ Cette formation initiale est validée si l'élève conducteur a réussi l'épreu
 
 2° Une période d'apprentissage en conduite accompagnée sous la surveillance constante et directe d'un accompagnateur titulaire depuis au moins cinq ans sans interruption du permis de conduire de la catégorie B.
 
-Cette période commence par un rendez-vous pédagogique préalable entre l'enseignant de la conduite, l'accompagnateur et l'élève conducteur. Deux autres rendez-vous pédagogiques doivent avoir lieu au cours de cette période, pendant laquelle l'élève conducteur doit parcourir une distance minimale pendant une durée minimale, précisées par arrêté du ministre chargé des transports.
+Cette période commence par un rendez-vous pédagogique préalable entre l'enseignant de la conduite, l'accompagnateur et l'élève conducteur. Deux autres rendez-vous pédagogiques doivent avoir lieu au cours de cette période, pendant laquelle l'élève conducteur doit parcourir une distance minimale pendant une durée minimale, précisées par arrêté du   ministre chargé de la sécurité routière.
 
-III.-Les conditions dans lesquelles les établissements d'enseignement de la conduite peuvent proposer et encadrer un apprentissage anticipé de la conduite sont fixées par arrêté du ministre chargé des transports.
+III.-Les conditions dans lesquelles les établissements d'enseignement de la conduite peuvent proposer et encadrer un apprentissage anticipé de la conduite sont fixées par arrêté du   ministre chargé de la sécurité routière.

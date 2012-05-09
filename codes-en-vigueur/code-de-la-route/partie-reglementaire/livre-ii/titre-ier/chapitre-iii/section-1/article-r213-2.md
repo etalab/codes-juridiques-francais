@@ -10,7 +10,7 @@ I.-Pour les exploitants des établissements d'enseignement, à titre onéreux, d
 
 -soit en justifiant d'une formation agréée, portant sur la gestion et l'exploitation des établissements d'enseignement de la conduite.
 
-Un arrêté du ministre chargé des transports précise le programme, la durée minimale ainsi que les conditions d'agrément de cette formation ;
+Un arrêté du   ministre chargé de la sécurité routière précise le programme, la durée minimale ainsi que les conditions d'agrément de cette formation ;
 
 3° Etre âgé d'au moins vingt-trois ans ;
 
@@ -22,7 +22,7 @@ Un arrêté du ministre chargé des transports précise le programme, la durée 
 
 -pour les établissements d'enseignement de la conduite, les enseignants doivent être titulaires de l'autorisation d'enseigner mentionnée à l'article L. 212-1 pour assurer les prestations d'enseignement théorique et pratique ;
 
--pour les établissements de formation des candidats à l'un des titres ou diplômes exigés pour l'exercice de la profession d'enseignant de la conduite des véhicules à moteur et de la sécurité routière, les personnels enseignants doivent satisfaire à des conditions particulières fixées par un arrêté du ministre chargé des transports. Dans chacun de ces établissements un directeur pédagogique est désigné. Il organise et encadre effectivement la formation. Ce directeur doit être titulaire du brevet d'aptitude à la formation des moniteurs (BAFM). Nul ne peut être directeur pédagogique dans plus d'un établissement.
+-pour les établissements de formation des candidats à l'un des titres ou diplômes exigés pour l'exercice de la profession d'enseignant de la conduite des véhicules à moteur et de la sécurité routière, les personnels enseignants doivent satisfaire à des conditions particulières fixées par un arrêté du   ministre chargé de la sécurité routière. Dans chacun de ces établissements un directeur pédagogique est désigné. Il organise et encadre effectivement la formation. Ce directeur doit être titulaire du brevet d'aptitude à la formation des moniteurs (BAFM). Nul ne peut être directeur pédagogique dans plus d'un établissement.
 
 II.-Pour les personnes assurant l'exploitation effective d'au moins un établissement organisant des stages de sensibilisation à la sécurité routière mentionnés aux articles L. 223-6 et R. 223-5 et, le cas échéant, pour les personnes qu'elles désignent nommément pour l'encadrement administratif des stages, à l'exclusion des 5° et 6° pour ces dernières, l'agrément prévu à l'article L. 213-1 est délivré si celles-ci remplissent les conditions suivantes :
 
@@ -38,4 +38,4 @@ II.-Pour les personnes assurant l'exploitation effective d'au moins un établiss
 
 6° Justifier de la qualification des personnels animateurs qui doivent être titulaires de l'autorisation mentionnée au II de l'article R. 212-2.
 
-Les conditions fixées au présent article sont précisées par arrêté du ministre chargé des transports.
+Les conditions fixées au présent article sont précisées par arrêté du   ministre chargé de la sécurité routière.

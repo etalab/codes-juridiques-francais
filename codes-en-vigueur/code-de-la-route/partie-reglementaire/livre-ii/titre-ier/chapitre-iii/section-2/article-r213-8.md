@@ -10,6 +10,6 @@ La délivrance de l'agrément aux associations mentionnées à l'article L. 213-
 
 4° Dispenser un enseignement conforme au programme de formation de l'enseignement de la conduite et de la sécurité routière visé à l'article R. 213-4 ;
 
-5° Justifier de garanties minimales concernant les moyens de l'établissement. Ces garanties concernent les locaux, les véhicules, les moyens matériels. Ces garanties sont fixées par un arrêté du ministre chargé des transports ;
+5° Justifier de garanties minimales concernant les moyens de l'établissement. Ces garanties concernent les locaux, les véhicules, les moyens matériels. Ces garanties sont fixées par un arrêté du   ministre chargé de la sécurité routière ;
 
 6° Remplir les conditions prévues à l'article R. 213-2 (1°). Ces conditions sont exigées du président et de toute personne qu'il a, le cas échéant, dûment mandatée pour encadrer l'activité réglementée au présent chapitre.

@@ -4,7 +4,7 @@ Les titres ou diplômes prévus au I, 1°, de l'article R. 212-2 sont :
 
 I.-Le brevet pour l'exercice de la profession d'enseignant de la conduite automobile et de la sécurité routière (BEPECASER).
 
-Ce diplôme est délivré par le préfet qui a organisé les épreuves aux personnes ayant subi avec succès lesdites épreuves organisées dans des conditions fixées par un arrêté du ministre chargé des transports. Cet arrêté détermine en outre les conditions de dépôt, d'instruction des dossiers de candidature, le programme de formation, les épreuves et leur organisation.
+Ce diplôme est délivré par le préfet qui a organisé les épreuves aux personnes ayant subi avec succès lesdites épreuves organisées dans des conditions fixées par un arrêté du ministre chargé de la sécurité routière. Cet arrêté détermine en outre les conditions de dépôt, d'instruction des dossiers de candidature, le programme de formation, les épreuves et leur organisation.
 
 Ce diplôme porte, le cas échéant, la ou les mentions suivantes :
 
@@ -20,7 +20,7 @@ II.-L'un des titres ou diplômes énumérés ci-après reconnus équivalents de 
 
 2° La carte professionnelle et le certificat d'aptitude professionnelle et pédagogique (CAPP) ;
 
-3° Le brevet de spécialiste de l'armée de terre (BSAT), mention instruction élémentaire de conduite, ou les diplômes militaires reconnus équivalents à celui-ci par arrêté conjoint du ministre chargé des transports et du ministre de la défense ;
+3° Le brevet de spécialiste de l'armée de terre (BSAT), mention instruction élémentaire de conduite, ou les diplômes militaires reconnus équivalents à celui-ci par arrêté conjoint du ministre chargé de la sécurité routière et du ministre de la défense ;
 
 4° Les diplômes d'enseignement de la conduite délivrés dans les territoires d'outre-mer et dans les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon.
 
@@ -28,4 +28,4 @@ L'équivalence avec le brevet pour l'exercice de la profession d'enseignant de l
 
 III.-Un titre acquis dans un autre Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen et reconnu par le préfet comme équivalent au BEPECASER dans les conditions définies à l'article R. 212-3-1.
 
-IV.-Un diplôme d'enseignement de la conduite délivré par un Etat qui n'est ni membre de la Communauté européenne ni partie à l'accord sur l'Espace économique européen, reconnu équivalent au brevet pour l'exercice de la profession d'enseignant de la conduite automobile et de la sécurité routière (BEPECASER), par décision du ministre chargé des transports prise sur avis d'une commission interministérielle créée à cet effet par arrêté conjoint du ministre chargé des Transports et du ministre chargé des Affaires étrangères.
+IV.-Un diplôme d'enseignement de la conduite délivré par un Etat qui n'est ni membre de la Communauté européenne ni partie à l'accord sur l'Espace économique européen, reconnu équivalent au brevet pour l'exercice de la profession d'enseignant de la conduite automobile et de la sécurité routière (BEPECASER), par décision du ministre chargé de la sécurité routière prise sur avis d'une commission interministérielle créée à cet effet par arrêté conjoint du ministre chargé de la sécurité routière et du ministre chargé des Affaires étrangères.

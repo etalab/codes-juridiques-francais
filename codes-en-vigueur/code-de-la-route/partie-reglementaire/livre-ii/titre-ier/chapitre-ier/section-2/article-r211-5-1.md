@@ -6,6 +6,6 @@ La formation initiale est validée si l'élève conducteur a réussi l'épreuve 
 
 La période d'apprentissage en conduite supervisée est accessible à partir de l'âge de dix-huit ans. Elle commence par un rendez-vous pédagogique préalable entre l'enseignant de la conduite, l'accompagnateur et l'élève conducteur.
 
-Au cours de cette période, l'élève doit participer à au moins un autre rendez-vous pédagogique et parcourir une distance minimale pendant une durée minimale, précisées par arrêté du ministre chargé des transports.
+Au cours de cette période, l'élève doit participer à au moins un autre rendez-vous pédagogique et parcourir une distance minimale pendant une durée minimale, précisées par arrêté du   ministre chargé de la sécurité routière.
 
-Les conditions dans lesquelles les établissements d'enseignement de la conduite peuvent proposer et encadrer une phase de conduite supervisée sont fixées par arrêté du ministre chargé des transports.
+Les conditions dans lesquelles les établissements d'enseignement de la conduite peuvent proposer et encadrer une phase de conduite supervisée sont fixées par arrêté du   ministre chargé de la sécurité routière.

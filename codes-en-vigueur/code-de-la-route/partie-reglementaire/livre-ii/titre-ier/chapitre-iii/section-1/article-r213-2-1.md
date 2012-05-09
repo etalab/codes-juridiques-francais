@@ -36,4 +36,4 @@ Le contenu du stage d'adaptation ou de l'épreuve d'aptitude tient compte des co
 
 Le candidat est dispensé du stage d'adaptation ou de l'épreuve d'aptitude si les connaissances qu'il a acquises au cours de son expérience professionnelle couvrent l'intégralité de la différence substantielle constatée entre la formation qu'il a reçue et la formation dispensée sur le territoire français et requise pour l'enseignement de la conduite ou l'animation de stages de sensibilisation à la sécurité routière.
 
-Les dispositions fixées au présent article sont précisées par arrêté du ministre chargé des transports.
+Les dispositions fixées au présent article sont précisées par arrêté du   ministre chargé de la sécurité routière.
