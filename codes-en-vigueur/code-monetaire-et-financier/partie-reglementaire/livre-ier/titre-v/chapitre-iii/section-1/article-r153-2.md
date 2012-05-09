@@ -2,7 +2,7 @@
 
 Relèvent d'une procédure d'autorisation au sens du I de l'article L. 151-3 les investissements étrangers mentionnés à l'article R. 153-1 réalisés par une personne physique qui n'est pas ressortissante d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ayant conclu une convention d'assistance administrative avec la France, par une entreprise dont le siège social ne se situe pas dans l'un de ces mêmes Etats ou par une personne physique de nationalité française qui n'y est pas résidente, dans les activités suivantes :
 
-1° Activités dans les secteurs des jeux d'argent ;
+1° Activités dans les secteurs des jeux d'argent à l'exception des casinos ;
 
 2° Activités réglementées de sécurité privée ;
 
@@ -14,7 +14,7 @@ Relèvent d'une procédure d'autorisation au sens du I de l'article L. 151-3 les
 
 6° Activités de production de biens ou de prestation de services de sécurité dans le secteur de la sécurité des systèmes d'information d'une entreprise liée par contrat passé avec un opérateur public ou privé gérant des installations au sens des articles L. 1332-1 à L. 1332-7 du code de la défense ;
 
-7° Activités relatives aux biens et technologies à double usage énumérés à l'annexe IV du règlement (CE) n° 1334 / 2000 du Conseil du 22 juin 2000 modifié instituant un régime communautaire de contrôle des exportations de biens et technologies à double usage ;
+7° Activités relatives aux biens et technologies à double usage énumérés à l'annexe IV du règlement (CE) n° 428/2009 du Conseil du 5 mai 2009 instituant un régime communautaire de contrôle des exportations, des transferts, du courtage et du transit de biens à double usage ;
 
 8° Activités relatives aux moyens de cryptologie et les prestations de cryptologie mentionnés aux paragraphes III, IV de l'article 30 et I de l'article 31 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique ;
 
