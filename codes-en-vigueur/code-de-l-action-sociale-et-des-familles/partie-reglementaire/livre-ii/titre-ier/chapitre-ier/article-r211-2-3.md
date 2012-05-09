@@ -1,0 +1,7 @@
+# Article R211-2-3
+
+Le système de vote électronique comporte les mesures physiques et logiques permettant d'assurer la confidentialité des données transmises, notamment la confidentialité des fichiers constitués pour établir les listes électorales, ainsi que la sécurité de l'adressage des moyens d'authentification, de l'émargement, de l'enregistrement et du dépouillement des votes.
+
+Les fonctions de sécurité des systèmes de vote électronique doivent être conformes au référentiel général de sécurité prévu à l'article 9 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives.
+
+Le système de vote électronique comporte un dispositif de secours offrant les mêmes garanties et les mêmes caractéristiques que le système principal et capable d'en prendre automatiquement le relais en cas de panne n'entraînant pas d'altération des données. En cas d'altération des données résultant, notamment, d'une panne, d'une infection virale ou d'une attaque du système par un tiers, le bureau de vote électronique a compétence, après consultation des personnes désignées préalablement à cette fin par le directeur de l'union départementale ou de l'union nationale, pour prendre toute mesure d'information et de sauvegarde et pour décider la suspension, l'arrêt ou la reprise des opérations de vote électronique.
