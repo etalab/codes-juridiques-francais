@@ -28,4 +28,4 @@ II.-Conformément au 6° de l'article L. 711-8, les chambres de commerce et d'in
 
 Le champ de ces missions ne couvre pas obligatoirement les services publics industriels et commerciaux gérés par les établissements publics du réseau.
 
-Conformément au I de l'article L. 711-10, elles peuvent déléguer une partie de ces fonctions de soutien, à l'exception de la paie qui est centralisée à leur niveau, à l'une des chambres qui leur sont rattachées, mais sans qu'une fonction de soutien puisse être fractionnée, ou déléguée à plusieurs chambres rattachées. Ce transfert de charge à une chambre de commerce et d'industrie territoriale ou départementale d'Ile-de-France peut faire l'objet de contreparties budgétaires.
+Conformément au I de l'article L. 711-10, elles peuvent déléguer une partie de ces fonctions de soutien, à l'exception de la paie qui est centralisée à leur niveau, à l'une des chambres qui leur sont rattachées, mais sans qu'une fonction de soutien puisse être fractionnée, ou déléguée à plusieurs chambres rattachées.
