@@ -6,4 +6,6 @@ Les dispositions des articles R. 114-2 à R. 114-10 sont applicables :
 
 -aux zones humides d'intérêt environnemental particulier définies par le a du 4° du II de l'article L. 211-3 du code de l'environnement ;
 
--aux zones de protection des aires d'alimentation des captages définies par le 5° du II de l'article L. 211-3 du code de l'environnement.
+-aux zones de protection des aires d'alimentation des captages définies par le 5° du II de l'article L. 211-3 du code de l'environnement ;
+
+-aux bassins connaissant d'importantes marées vertes mentionnés au 8° du II de l'article L. 211-3 du code de l'environnement.

@@ -29,3 +29,5 @@ Il présente les moyens prévus pour atteindre ces objectifs et indique notammen
 Il expose les effets escomptés sur le milieu et précise les indicateurs quantitatifs qui permettront de les évaluer.
 
 Il comprend une évaluation sommaire de l'impact technique et financier des mesures envisagées sur les propriétaires et exploitants concernés.
+
+Les  modalités d'établissement du programme d'action, notamment le contenu  des mesures, sont, en tant que de besoin, précisées par arrêté pris  conjointement par les ministres chargés de l'agriculture et de  l'environnement.
