@@ -1,3 +1,4 @@
-# CHAPITRE V : Avances et emprunts
+# CHAPITRE V : Péréquation des ressources fiscales
 
-- [Section 1 : Avances (R)](section-1)
+- [Article R3335-1](article-r3335-1.md)
+- [Article R3335-2](article-r3335-2.md)
