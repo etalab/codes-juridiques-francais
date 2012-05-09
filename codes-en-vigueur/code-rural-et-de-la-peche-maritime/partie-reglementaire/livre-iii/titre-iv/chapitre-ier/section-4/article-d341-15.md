@@ -2,7 +2,7 @@
 
 Lorsque le bénéficiaire ne respecte pas les obligations définies au 4° de l'article D. 341-10, le préfet réduit le montant ou refuse les paiements annuels.
 
-La réduction des paiements est déterminée en fonction de la gravité, de l'étendue et du caractère persistant du manquement constatés, tels que définis à l'article 18 du règlement (CE) n° 1975/2006 de la Commission du 7 décembre 2006 susmentionné, selon des modalités définies par arrêté conjoint des ministres chargés de l'agriculture, du budget et de l'écologie.
+La réduction des paiements est déterminée en fonction de la gravité, de l'étendue et du caractère persistant du manquement constatés, tels que définis aux articles 16, paragraphes 2 à 7, 17 et 18 du règlement (UE) n° 65/2011 de la Commission du 27 janvier 2011 susmentionné, selon des modalités définies par arrêté conjoint des ministres chargés de l'agriculture, du budget et de l'écologie.
 
 Si, compte tenu de l'étendue des obligations non respectées, la cohérence d'un engagement agroenvironnemental est remise en cause, le préfet peut le résilier. Si la décision d'engagement a été prise après consultation de la commission départementale d'orientation de l'agriculture, l'avis de celle-ci est également requis avant que la décision de résiliation soit prise.
 
