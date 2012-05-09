@@ -10,4 +10,4 @@ La déclaration mentionnée à l'article R. 411-7 est établie sur un formulaire
 
 4° Des informations relatives aux couvertures d'assurance ou autres moyens de protection personnelle ou collective concernant la responsabilité professionnelle.
 
-Le prestataire doit également préciser si la profession est réglementée dans l'Etat où il est établi. Dans le cas contraire, il doit justifier de l'exercice de la profession pendant au moins deux années au cours des dix années qui précèdent la prestation.
+Le prestataire doit également préciser si la profession ou la formation y conduisant est réglementée dans l'Etat où il est établi. Dans le cas contraire, il doit justifier de l'exercice de la profession pendant au moins deux années au cours des dix années qui précèdent la prestation.
