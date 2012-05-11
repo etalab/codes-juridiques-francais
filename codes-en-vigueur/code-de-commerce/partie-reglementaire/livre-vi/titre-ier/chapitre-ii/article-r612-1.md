@@ -4,7 +4,7 @@ Les personnes morales de droit privé non commerçantes ayant une activité éco
 
 1° Cinquante pour le nombre de salariés ; les salariés pris en compte sont ceux qui sont liés à la personne morale par un contrat de travail à durée indéterminée ; le nombre de salariés est égal à la moyenne arithmétique des effectifs à la fin de chaque trimestre de l'année civile ou de l'exercice comptable lorsque celui-ci ne coïncide pas avec l'année civile ;
 
-2° 3 100 000 euros pour le montant hors taxes du chiffre d'affaires ou des ressources ; le montant hors taxes du chiffre d'affaires est égal au montant des ventes de produits et services liés à l'activité courante ; le montant des ressources est égal au montant des cotisations, subventions et produits de toute nature liés à l'activité courante ; toutefois, pour les associations professionnelles ou interprofessionnelles collectant la participation des employeurs à l'effort de construction, le montant des ressources, qui s'entendent des sommes recueillies au sens de l'article R. 313-25 du code de la construction et de l'habitation, est fixé à 750 000 euros ;
+2° 3 100 000 euros pour le montant hors taxes du chiffre d'affaires ou des ressources ; le montant hors taxes du chiffre d'affaires est égal au montant des ventes de produits et services liés à l'activité courante ; le montant des ressources est égal au montant des cotisations, subventions et produits de toute nature liés à l'activité courante ;
 
 3° 1 550 000 euros pour le total du bilan ; celui-ci est égal à la somme des montants nets des éléments d'actif.
 
