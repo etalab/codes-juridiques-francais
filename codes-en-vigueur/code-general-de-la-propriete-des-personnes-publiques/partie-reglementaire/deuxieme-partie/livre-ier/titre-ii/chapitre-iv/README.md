@@ -5,3 +5,4 @@
 - [Section 3 : Utilisation du domaine public hertzien](section-3)
 - [Section 4 : Exploitation des ressources naturelles](section-4)
 - [Section 5 : Concessions de logement](section-5)
+- [Section 6 : Autres utilisations du domaine public](section-6)
