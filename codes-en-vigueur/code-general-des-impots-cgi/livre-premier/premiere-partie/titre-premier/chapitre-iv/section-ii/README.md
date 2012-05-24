@@ -15,6 +15,7 @@
 - [VII ter : Modalités d'imposition de la plus value professionnelle provenant de la transmission ou du rachat de droits relatifs à une société relevant des articles 8 à 8 ter et exerçant une activité immobilière](vii-ter)
 - [VIII : Imposition des plus-values dégagées à l'occasion de l'aliénation de terrains à bâtir](viii)
 - [VIII bis : Exonération des plus-values réalisées lors de la cession d'une entreprise individuelle ou d'une branche complète d'activité](viii-bis)
+- [VIII ter : Exonération des plus-values réalisées lors de la cession de bateaux de navigation intérieure affectés au transport de marchandises](viii-ter)
 - [XI bis : Régime fiscal de certaines sociétés à responsabilité limitée - Option pour le régime des sociétés de personnes](xi-bis)
 - [XI ter : Régime fiscal de certaines sociétés anonymes, sociétés par actions simplifiées et sociétés à responsabilité limitée. Option pour le régime des sociétés de personnes](xi-ter)
 - [XIII : Régime fiscal des sociétés civiles ayant pour objet la construction d'immeubles en vue de la vente](xiii)
