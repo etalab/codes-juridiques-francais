@@ -13,6 +13,7 @@
 - [VII : Plus-values réalisées par les entreprises à l'occasion de la construction et de la vente d'immeubles affectés principalement à l'habitation](vii)
 - [VII bis : Imposition de la plus-value réalisée lors de la cession d'un droit de surélévation](vii-bis)
 - [VII ter : Modalités d'imposition de la plus value professionnelle provenant de la transmission ou du rachat de droits relatifs à une société relevant des articles 8 à 8 ter et exerçant une activité immobilière](vii-ter)
+- [VII quater : Report d'imposition des plus-values réalisées à l'occasion d'opérations d'échange de biens immobiliers effectuées avec l'Etat, les collectivités territoriales et les établissements publics](vii-quater)
 - [VIII : Imposition des plus-values dégagées à l'occasion de l'aliénation de terrains à bâtir](viii)
 - [VIII bis : Exonération des plus-values réalisées lors de la cession d'une entreprise individuelle ou d'une branche complète d'activité](viii-bis)
 - [VIII ter : Exonération des plus-values réalisées lors de la cession de bateaux de navigation intérieure affectés au transport de marchandises](viii-ter)
