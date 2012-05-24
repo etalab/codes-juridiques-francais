@@ -3,5 +3,4 @@
 - [Chapitre I bis : Pénalités](chapitre-i-bis)
 - [Chapitre II : Procédures](chapitre-ii)
 - [Chapitre II bis : Sûretés et privilèges](chapitre-ii-bis)
-- [Chapitre V : Compétence des fonctionnaires de la direction générale des impôts ou de la direction générale des douanes et droits indirects](chapitre-v)
 - [Chapitre premier : Paiement de l'impôt](chapitre-premier)
