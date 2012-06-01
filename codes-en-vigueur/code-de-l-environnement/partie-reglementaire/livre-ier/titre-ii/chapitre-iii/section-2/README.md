@@ -3,7 +3,7 @@
 - [Sous-section 1 : Ouverture et organisation de l'enquête](sous-section-1)
 - [Sous-section 2 : Personnes susceptibles d'exercer les fonctions de commissaire enquêteur](sous-section-2)
 - [Sous-section 3 : Désignation du commissaire enquêteur ou d'une commission d'enquête](sous-section-3)
-- [Sous-section 4 : Personnes susceptibles d'exercer les fonctions de commissaire enquêteur](sous-section-4)
+- [Sous-section 4 : Durée de l'enquête](sous-section-4)
 - [Sous-section 5 : Enquête publique unique](sous-section-5)
 - [Sous-section 6 : Composition du dossier d'enquête](sous-section-6)
 - [Sous-section 7 : Organisation de l'enquête](sous-section-7)
