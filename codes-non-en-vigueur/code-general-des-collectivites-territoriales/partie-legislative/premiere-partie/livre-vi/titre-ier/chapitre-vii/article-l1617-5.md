@@ -26,7 +26,7 @@ Seul le bordereau de titres de recettes est signé pour être produit en cas de 
 
 La mise en demeure de payer interrompt la prescription de l'action en recouvrement.
 
-L'envoi de la mise en demeure de payer tient lieu du commandement prescrit par le code de procédure civile préalablement à une saisie-vente. Dans ce cas, la mise en demeure de payer n'est pas soumise aux conditions générales de validité des actes des huissiers de justice ;
+L'envoi de la mise en demeure de payer tient lieu du commandement prescrit par le code des procédures civiles d'exécution préalablement à une saisie-vente. Dans ce cas, la mise en demeure de payer n'est pas soumise aux conditions générales de validité des actes des huissiers de justice ;
 
 6° Pour les créances d'un montant inférieur à 15 000 €, la mise en demeure de payer est précédée d'une lettre de relance adressée par le comptable public compétent ou d'une phase comminatoire, par laquelle il demande à un huissier de justice d'obtenir du redevable qu'il s'acquitte auprès de lui du montant de sa dette.
 
@@ -40,7 +40,7 @@ Les comptables publics compétents chargés du recouvrement de ces titres peuven
 
 Le comptable public chargé du recouvrement notifie cette opposition au redevable en même temps qu'elle est adressée au tiers détenteur.
 
-L'opposition à tiers détenteur emporte l'effet d'attribution immédiate, prévu à l'article 43 de la loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution, des sommes saisies disponibles au profit de la collectivité ou de l'établissement public local créancier à concurrence des sommes pour lesquelles l'opposition est pratiquée.
+L'opposition à tiers détenteur emporte l'effet d'attribution immédiate, prévu à l'article 43 de la loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution, des sommes saisies disponibles au profit de la collectivité ou de l'établissement public local créancier à concurrence des sommes pour lesquelles l'opposition est pratiquée. Les dispositions des articles L. 162-1 et L. 162-2 du code des procédures civiles d'exécution sont en outre applicables.
 
 Sous peine de se voir réclamer les sommes saisies majorées du taux d'intérêt légal, les fonds doivent être reversés dans les trente jours qui suivent la réception de l'opposition par le tiers détenteur auprès du comptable chargé du recouvrement.
 
