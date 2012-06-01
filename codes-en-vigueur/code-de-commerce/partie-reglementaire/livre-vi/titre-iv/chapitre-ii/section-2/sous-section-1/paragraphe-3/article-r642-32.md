@@ -1,6 +1,6 @@
 # Article R642-32
 
-Avant l'ouverture des enchères le notaire se fait remettre par les enchérisseurs une caution bancaire irrévocable ou un chèque de banque conformément à l'article 74 du décret n° 2006-936 du 27 juillet 2006 relatif aux procédures de saisie immobilière et de distribution du prix d'un immeuble. Lorsque l'adjudicataire est défaillant, la somme versée ou la caution apportée est acquise pour être distribuée avec l'actif réalisé.
+Avant l'ouverture des enchères le notaire se fait remettre par les enchérisseurs une caution bancaire irrévocable ou un chèque de banque conformément à l'article R. 322-41 du code des procédures civiles d'exécution. Lorsque l'adjudicataire est défaillant, la somme versée ou la caution apportée est acquise pour être distribuée avec l'actif réalisé.
 
 Le notaire rappelle que les enchères partiront du montant de la mise à prix fixé conformément à l'article R. 642-22.
 
