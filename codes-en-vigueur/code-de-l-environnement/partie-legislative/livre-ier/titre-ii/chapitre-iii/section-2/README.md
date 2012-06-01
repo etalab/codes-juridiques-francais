@@ -1,5 +1,6 @@
 # Section 2 : Procédure et déroulement de l'enquête publique
 
+- [Article L123-3](article-l123-3.md)
 - [Article L123-4](article-l123-4.md)
 - [Article L123-5](article-l123-5.md)
 - [Article L123-6](article-l123-6.md)
@@ -13,3 +14,6 @@
 - [Article L123-14](article-l123-14.md)
 - [Article L123-15](article-l123-15.md)
 - [Article L123-16](article-l123-16.md)
+- [Article L123-17](article-l123-17.md)
+- [Article L123-18](article-l123-18.md)
+- [Article L123-19](article-l123-19.md)
