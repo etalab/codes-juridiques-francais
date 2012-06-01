@@ -1,3 +1,3 @@
 # Sous-section 2 : Autorité chargée d'organiser l'enquête
 
-- [Article R123-26](article-r123-26.md)
+- [Article R123-27-3](article-r123-27-3.md)

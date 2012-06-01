@@ -1,6 +1,6 @@
 # Article R515-44
 
-I.-Le projet de plan, éventuellement modifié pour tenir compte des résultats de la concertation et des avis émis par les personnes et organismes associés, est soumis à une enquête publique organisée dans les formes prévues par les articles R. 123-1 à R. 123-33.
+I.-Le projet de plan, éventuellement modifié pour tenir compte des résultats de la concertation et des avis émis par les personnes et organismes associés, est soumis à une enquête publique organisée dans les formes prévues par la section 2 du chapitre III du titre II du livre Ier .
 
 Le dossier de l'enquête comprend les documents et informations mentionnés à l'article R. 515-41, les documents établis à l'issue de la concertation et les avis émis en application du II de l'article R. 515-43. Lorsque le projet comporte des mesures supplémentaires de prévention des risques, le dossier est complété par une note indiquant les mesures prévues aux I, II, III et IV de l'article L. 515-16 qu'elles permettent d'éviter et par les documents graphiques mentionnés au 2° du I de l'article R. 515-41 tels qu'ils se présenteraient en l'absence de mesures supplémentaires.
 

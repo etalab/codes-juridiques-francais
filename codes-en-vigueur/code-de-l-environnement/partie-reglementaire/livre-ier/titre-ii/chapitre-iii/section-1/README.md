@@ -1,4 +1,4 @@
-# Section 1 : Champ d'application et objet de l'enquête publique
+# Section 1 : Champ d'application de l'enquête publique
 
 - [Article R123-1](article-r123-1.md)
 - [Article R123-2](article-r123-2.md)

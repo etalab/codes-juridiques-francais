@@ -2,7 +2,6 @@
 
 - [Article Annexe I à l'article D432-4](article-annexe-i-a-l-article-d432-4.md)
 - [Article Annexe I à l'article D523-8](article-annexe-i-a-l-article-d523-8.md)
-- [Article Annexe I à l'article R123-1](article-annexe-i-a-l-article-r123-1.md)
 - [Article Annexe I à l'article R432-3](article-annexe-i-a-l-article-r432-3.md)
 - [Article Annexe (1) à l'article R511-9](article-annexe-1-a-l-article-r511-9.md)
 - [Article Annexe I à l'article R541-8](article-annexe-i-a-l-article-r541-8.md)

@@ -8,4 +8,4 @@
 - [Sous-section 6 : Visite des lieux par le commissaire enquêteur](sous-section-6)
 - [Sous-section 7 : Communication de documents à la demande du commissaire enquêteur](sous-section-7)
 - [Sous-section 8 : Publicité du rapport et des conclusions](sous-section-8)
-- [Article R123-24](article-r123-24.md)
+- [Article R123-27-1](article-r123-27-1.md)
