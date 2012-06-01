@@ -1,7 +1,12 @@
-# Section 1 : Etudes d'impact des travaux et projets d'aménagement
+# Section 1 : Etudes d'impact des projets de travaux, d'ouvrages ou d'aménagements
 
+- [Sous-section 1 : Dispositions générales](sous-section-1)
+- [Sous-section 2 : Projets relevant d'un examen au cas par cas](sous-section-2)
+- [Sous-section 3 : Contenu de l'étude d'impact](sous-section-3)
+- [Sous-section 4 : Autorité environnementale](sous-section-4)
+- [Sous-section 5 : Information et participation du public](sous-section-5)
+- [Sous-section 6 : Décision d'autorisation](sous-section-6)
 - [Article R122-1](article-r122-1.md)
-- [Article R122-1-1](article-r122-1-1.md)
 - [Article R122-2](article-r122-2.md)
 - [Article R122-3](article-r122-3.md)
 - [Article R122-4](article-r122-4.md)
@@ -16,4 +21,3 @@
 - [Article R122-13](article-r122-13.md)
 - [Article R122-14](article-r122-14.md)
 - [Article R122-15](article-r122-15.md)
-- [Article R122-16](article-r122-16.md)

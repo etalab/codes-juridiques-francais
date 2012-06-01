@@ -6,7 +6,7 @@ I.-La liste nationale des documents de planification, programmes ou projets ains
 
 2° Les cartes communales prévues aux articles L. 124-1 et suivants du code de l'urbanisme, lorsqu'elles permettent la réalisation de travaux, ouvrages ou aménagements soumis aux obligations définies par l'article L. 414-4 ;
 
-3° Les travaux et projets devant faire l'objet d'une étude ou d'une notice d'impact au titre des articles L. 122-1 à L. 122-3 et des articles R. 122-1 à R. 122-16 ;
+3° Les travaux et projets devant faire l'objet d'une étude d'impact au titre des articles R. 122-2 et R. 122-3 ;
 
 4° Les installations, ouvrages, travaux et activités soumis à autorisation ou déclaration au titre des articles L. 214-1 à L. 214-11 ;
 
@@ -14,7 +14,7 @@ I.-La liste nationale des documents de planification, programmes ou projets ains
 
 6° Les schémas des structures des exploitations de cultures marines prévus par le décret n° 83-228 du 22 mars 1983 fixant le régime de l'autorisation des exploitations de cultures marines ;
 
-7° Les documents départementaux de gestion de l'espace agricole et forestier prévus par l'article L. 112-1 du code rural et de la pêche maritime  ;
+7° Les documents départementaux de gestion de l'espace agricole et forestier prévus par l'article L. 112-1 du code rural et de la pêche maritime ;
 
 8° Les travaux, constructions ou installations soumis aux autorisations prévues par les dispositions du 1° et du 2° du I de l'article L. 331-4, des articles L. 331-5, L. 331-6, L. 331-14, L. 332-6, L. 332-9, L. 341-7 et L. 341-10 ;
 
@@ -26,9 +26,9 @@ I.-La liste nationale des documents de planification, programmes ou projets ains
 
 12° Les coupes de plantes aréneuses soumises à autorisation par l'article L. 431-2 du code forestier, lorsqu'elles sont localisées en site Natura 2000 ;
 
-13° Les délimitations d'aires géographiques de production prévues à l'article L. 641-6 du code rural et de la pêche maritime , dès lors que ces aires sont localisées en site Natura 2000 et qu'elles concernent une production viticole ;
+13° Les délimitations d'aires géographiques de production prévues à l'article L. 641-6 du code rural et de la pêche maritime, dès lors que ces aires sont localisées en site Natura 2000 et qu'elles concernent une production viticole ;
 
-14° Les traitements aériens soumis à déclaration préalable prévus à l'article 2 de l'arrêté du 5 mars 2004 relatif à l'utilisation par voie aérienne de produits mentionnés à l'article L. 253-1 du code rural et de la pêche maritime , à l'exception des cas d'urgence ;
+14° Les traitements aériens soumis à déclaration préalable prévus à l'article 2 de l'arrêté du 5 mars 2004 relatif à l'utilisation par voie aérienne de produits mentionnés à l'article L. 253-1 du code rural et de la pêche maritime, à l'exception des cas d'urgence ;
 
 15° La délimitation des zones de lutte contre les moustiques prévues à l'article 1er du décret n° 65-1046 du 1er décembre 1965 modifié pris pour l'application de la loi n° 64-1246 du 16 décembre 1964 relative à la lutte contre les moustiques ;
 
