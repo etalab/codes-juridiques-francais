@@ -1,4 +1,4 @@
-# Chapitre III : Saisie-arrêt
+# Chapitre III : Saisies des produits d'exploitation
 
 - [Article L333-1](article-l333-1.md)
 - [Article L333-2](article-l333-2.md)

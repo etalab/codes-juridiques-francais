@@ -8,7 +8,7 @@ Le recouvrement par le comptable de l'agence peut être assuré par voie d'oppos
 
 Le comptable notifie cette opposition au contribuable en même temps qu'elle est adressée au tiers détenteur.
 
-L'opposition à tiers détenteur emporte l'effet d'attribution immédiate, prévue à l'article 43 de la loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution, des sommes saisies disponibles au profit de l'agence à concurrence des sommes pour lesquelles l'opposition est pratiquée. Sous peine de se voir réclamer les sommes saisies majorées du taux d'intérêt légal, le tiers détenteur doit verser les fonds auprès du comptable chargé du recouvrement dans les trente jours qui suivent la réception de l'opposition.
+L'opposition à tiers détenteur emporte l'effet d'attribution immédiate, prévue à l'article 43 de la loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution, des sommes saisies disponibles au profit de l'agence à concurrence des sommes pour lesquelles l'opposition est pratiquée. Les dispositions des articles L. 162-1 et L. 162-2 de ce code sont en outre applicables. Sous peine de se voir réclamer les sommes saisies majorées du taux d'intérêt légal, le tiers détenteur doit verser les fonds auprès du comptable chargé du recouvrement dans les trente jours qui suivent la réception de l'opposition.
 
 L'opposition à tiers détenteur peut s'exercer sur les créances conditionnelles ou à terme ; dans ce cas, les fonds sont versés au comptable chargé du recouvrement lorsque ces créances deviennent exigibles.
 

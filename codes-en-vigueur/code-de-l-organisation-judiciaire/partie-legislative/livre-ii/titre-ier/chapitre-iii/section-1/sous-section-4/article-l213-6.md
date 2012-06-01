@@ -7,3 +7,5 @@ Dans les mêmes conditions, il autorise les mesures conservatoires et connaît d
 Le juge de l'exécution connaît, sous la même réserve, de la procédure de saisie immobilière, des contestations qui s'élèvent à l'occasion de celle-ci et des demandes nées de cette procédure ou s'y rapportant directement, même si elles portent sur le fond du droit ainsi que de la procédure de distribution qui en découle.
 
 Il connaît, sous la même réserve, des demandes en réparation fondées sur l'exécution ou l'inexécution dommageables des mesures d'exécution forcée ou des mesures conservatoires.
+
+Le juge de l'exécution exerce également les compétences particulières qui lui sont dévolues par le code des procédures civiles d'exécution.
