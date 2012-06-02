@@ -8,7 +8,7 @@ La chambre de discipline peut appliquer les peines disciplinaires suivantes :
 
 3° La suspension temporaire du droit d'exercer la profession pour une durée maximum de dix ans dans un périmètre qui ne pourra excéder le ressort de la chambre régionale qui a prononcé la suspension. Cette sanction entraîne l'inéligibilité de l'intéressé à un conseil de l'ordre pendant toute la durée de la suspension ;
 
-4° La suspension temporaire du droit d'exercer la profession pour une durée maximum de dix ans sur tout le territoire des départements métropolitains et d'outre-mer. Cette sanction comporte l'interdiction définitive de faire partie d'un conseil de l'ordre.
+4° La suspension temporaire du droit d'exercer la profession pour une durée maximum de dix ans            dans les départements de métropole et en Guadeloupe, en Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-Barthélemy, à Saint-Martin ou à Saint-Pierre-et-Miquelon. Cette sanction comporte l'interdiction définitive de faire partie d'un conseil de l'ordre.
 
 L'exercice de la profession en période de suspension est passible des peines applicables à l'exercice illégal de la médecine et de la chirurgie des animaux.
 

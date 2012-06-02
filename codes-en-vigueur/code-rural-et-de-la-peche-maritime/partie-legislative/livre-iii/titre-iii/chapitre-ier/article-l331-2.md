@@ -1,6 +1,6 @@
 # Article L331-2
 
-I. - Sont soumises à autorisation préalable les opérations suivantes :
+I.-Sont soumises à autorisation préalable les opérations suivantes :
 
 1° Les installations, les agrandissements ou les réunions d'exploitations agricoles au bénéfice d'une exploitation agricole mise en valeur par une ou plusieurs personnes physiques ou morales, lorsque la surface totale qu'il est envisagé de mettre en valeur excède le seuil fixé par le schéma directeur départemental des structures.
 
@@ -30,9 +30,9 @@ Il en est de même pour les exploitants pluriactifs remplissant les conditions d
 
 7° La mise en valeur de biens agricoles reçus d'une société d'aménagement foncier et d'établissement rural, ayant pour conséquence la suppression d'une unité économique égale ou supérieure au seuil fixé en application du 2°, ou l'agrandissement, par attribution d'un bien préempté par la société d'aménagement foncier et d'établissement rural, d'une exploitation dont la surface totale après cette cession excède deux fois l'unité de référence définie à l'article L. 312-5.
 
-Pour déterminer la superficie totale mise en valeur, il est tenu compte des superficies exploitées par le demandeur sous quelque forme que ce soit ainsi que des ateliers de production hors sol évalués par application des coefficients mentionnés au dernier alinéa de l'article L. 312-6. En sont exclus les bois, landes, taillis et friches, sauf les terres situées dans les départements d'outre-mer et mentionnées par l'article L. 128-3 ; en sont également exclus les étangs autres que ceux servant à l'élevage piscicole.
+Pour déterminer la superficie totale mise en valeur, il est tenu compte des superficies exploitées par le demandeur sous quelque forme que ce soit ainsi que des ateliers de production hors sol évalués par application des coefficients mentionnés au dernier alinéa de l'article L. 312-6. En sont exclus les bois, landes, taillis et friches, sauf les terres situées en Guadeloupe, en Guyane, à la Martinique ou à La Réunion et mentionnées à l'article L. 181-4 ainsi que celles situées à Mayotte et mentionnées à l'article L. 182-16 ; en sont également exclus les étangs autres que ceux servant à l'élevage piscicole.
 
-II. - Par dérogation au I, est soumise à déclaration préalable la mise en valeur d'un bien agricole reçu par donation, location, vente ou succession d'un parent ou allié jusqu'au troisième degré inclus lorsque les conditions suivantes sont remplies :
+II.-Par dérogation au I, est soumise à déclaration préalable la mise en valeur d'un bien agricole reçu par donation, location, vente ou succession d'un parent ou allié jusqu'au troisième degré inclus lorsque les conditions suivantes sont remplies :
 
 1° Le déclarant satisfait aux conditions de capacité ou d'expérience professionnelle mentionnée au 3° du I ;
 
