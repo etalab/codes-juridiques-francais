@@ -1,19 +1,27 @@
 # Article L182-3
 
-Le président du conseil général, sur l'initiative du conseil général ou à la demande de la chambre d'agriculture, sollicite, après une procédure contradictoire destinée à recueillir les observations des propriétaires et exploitants et une enquête sur l'état d'inculture ou de sous-exploitation manifeste du fonds et la publication pendant une durée minimale de quinze jours, le cas échéant par voie électronique, d'une note présentant les éléments ainsi recueillis, l'avis de la commission départementale d'aménagement foncier prévue par l'article L. 121-8 sur l'opportunité de mettre en œuvre la procédure définie ci-après :
+Pour son application à Mayotte, l'article L. 121-4 est ainsi rédigé :
 
-Le préfet met en demeure tout titulaire du droit d'exploitation de parcelles susceptibles d'une remise en état et incultes ou manifestement sous-exploitées depuis au moins trois ans par comparaison avec les conditions d'exploitation des parcelles de valeur culturale similaire des exploitations agricoles à caractère familial situées à proximité, lorsque, dans l'un ou l'autre cas, aucune raison de force majeure ne peut justifier cette situation, soit de les mettre en valeur, soit de renoncer à son droit d'exploitation. Le délai de trois ans mentionné ci-dessus est réduit à deux ans dans les zones de montagne.
+" Art. L. 121-4. - Lorsque l'aménagement foncier concerne le territoire de plusieurs communes limitrophes, les terres peuvent être comprises dans un même périmètre d'aménagement foncier. Dans ce cas, le conseil général peut créer une commission intercommunale dotée des mêmes pouvoirs que la commission communale et associant des représentants de la commune principalement intéressée par l'aménagement ainsi que de chacune des communes dont le vingtième du territoire au moins est compris dans les limites territoriales de celui-ci. Cette création est de droit lorsque l'une de ces communes le demande, ou si plus du quart du territoire de l'une des communes autres que la commune principalement intéressée par l'aménagement est inclus dans ces limites.
 
-Le préfet met également en demeure le propriétaire de telles terres s'il en est lui-même l'exploitant soit de les mettre en valeur, soit de les donner à bail.
+Le président et le président suppléant de la commission intercommunale d'aménagement foncier sont désignés dans les mêmes conditions que le président et le président suppléant de la commission communale.
 
-Si l'identité ou l'adresse du titulaire du droit d'exploitation est inconnue de l'administration ou si le titulaire du droit d'exploitation a renoncé à son droit, n'a pas mis en valeur le fonds dans le délai fixé par la mise en demeure ou, après l'expiration de ce délai, a laissé à nouveau les terres dans un état de sous-exploitation manifeste, le propriétaire reprend, sans indemnité de ce fait, la disposition de ses terres ainsi que celle des bâtiments nécessaires à leur exploitation et la mise en demeure mentionnée à l'alinéa précédent lui est alors notifiée.
+La commission intercommunale comprend également :
 
-A la requête du préfet, le juge compétent de l'ordre judiciaire peut désigner un mandataire chargé de représenter, dans la procédure tendant à la mise en valeur des terres incultes ou manifestement sous-exploitées, le propriétaire ou les indivisaires dont l'enquête n'a pas permis de déterminer l'adresse ou l'identité de l'un d'entre eux et, le cas échéant, de mettre en valeur les terres du propriétaire ou des indivisaires ou de les donner à bail. S'il ne peut désigner un indivisaire comme mandataire, le juge peut confier ces fonctions à toute autre personne physique ou morale. Il peut à tout moment remplacer le mandataire ou mettre fin à sa mission.
+1° Le maire de chaque commune intéressée ou l'un des conseillers municipaux désignés par lui ;
 
-Le préfet fixe le délai dans lequel la mise en demeure doit être suivie d'effet ainsi que les conditions de la mise en valeur.
+2° Deux exploitants titulaires et un suppléant ainsi qu'un propriétaire titulaire et un suppléant, pour chaque commune, désignés ou élus dans les conditions prévues pour la commission communale ;
 
-Dans le délai de deux mois à compter de la notification de la mise en demeure, le propriétaire, le mandataire ou le titulaire du droit d'exploitation fait connaître au préfet qu'il s'engage à mettre en valeur le fonds ou qu'il renonce. L'absence de réponse vaut renonciation.
+3° Deux personnes qualifiées en matière de faune, de flore et de protection de la nature et des paysages, désignées par le président du conseil général, dont une sur proposition du président de la chambre de l'agriculture, de la pêche et de l'aquaculture ;
 
-Lorsque les conditions de mise en valeur qui ont été acceptées par le propriétaire, le mandataire ou le titulaire du droit d'exploitation ne sont pas respectées, le président du conseil général peut, sans avoir à procéder de nouveau aux formalités mentionnées au premier alinéa, recueillir l'avis de la commission mentionnée à l'article L. 121-8 sur l'opportunité de mettre en œuvre la procédure de mise en demeure.
+4° Un fonctionnaire désigné par le président du conseil général ;
 
-A défaut d'intervention du président du conseil général après une mise en demeure restée infructueuse au terme d'un délai d'un an, la procédure est mise en œuvre par le préfet.
+5° Un représentant de la direction départementale des finances publiques ;
+
+6° Un représentant du président du conseil général désigné par le président de cette assemblée.
+
+La commission peut appeler à titre consultatif toute personne dont il lui paraît utile de provoquer l'avis.
+
+Lorsque le périmètre de l'aménagement foncier comprend une aire d'appellation d'origine protégée, la composition de la commission est complétée par un représentant de l'Institut national de l'origine et de la qualité.
+
+Lorsque le périmètre d'aménagement foncier comprend des terrains situés sur le territoire des communes d'un parc naturel régional, la composition de la commission est complétée par un représentant de ce parc désigné par le président de l'organisme de gestion du parc. "

@@ -1,4 +1,4 @@
-# Section 2 : Mise en valeur des terres incultes ou manifestement sous-exploitées
+# Section 2 : Aménagement rural et aménagement foncier
 
 - [Article L182-2](article-l182-2.md)
 - [Article L182-3](article-l182-3.md)
