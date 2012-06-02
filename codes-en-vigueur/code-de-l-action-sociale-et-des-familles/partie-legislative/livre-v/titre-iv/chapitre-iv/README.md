@@ -6,7 +6,3 @@
 - [Section 4 : Particuliers accueillant des personnes âgées ou handicapées](section-4)
 - [Section 5 : Formation des travailleurs sociaux](section-5)
 - [Section 7 : Mandataires judiciaires à la protection des majeurs et délégués aux prestations familiales](section-7)
-- [Article L544-1](article-l544-1.md)
-- [Article L544-2](article-l544-2.md)
-- [Article L544-3](article-l544-3.md)
-- [Article L544-4](article-l544-4.md)
