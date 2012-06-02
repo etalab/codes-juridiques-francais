@@ -8,11 +8,11 @@ Les contributions de ces deux organismes ainsi que le montant du fonds spécial 
 
 a) Une première part, destinée à couvrir les missions générales mentionnées à l'article L. 211-3 du présent code, évolue chaque année dans les conditions définies au premier alinéa de l'article L. 551-1 du code de la sécurité sociale ;
 
-b) Une deuxième part est destinée à financer des actions définies par voie conventionnelle entre, d'une part, l'Union nationale des associations familiales et le ministre chargé de la famille et, d'autre part, chaque union départementale d'association familiale et l'Union nationale des associations familiales, après avis du directeur départemental des affaires sanitaires et sociales concerné. Elle est revalorisée chaque année dans la limite du taux d'évolution constaté au titre de l'année civile précédente du montant des prestations familiales. En cas de création ou de suppression d'une de ces prestations, le taux d'évolution retenu au titre de l'année au cours de laquelle intervient cette création ou cette suppression est celui correspondant à la moyenne des taux d'évolution retenus pour les trois années civiles précédentes.
+b) Une deuxième part est destinée à financer des actions définies par voie conventionnelle entre, d'une part, l'Union nationale des associations familiales et le ministre chargé de la famille et, d'autre part, chaque union départementale d'association familiale et l'Union nationale des associations familiales, après avis de l'autorité compétente de l'Etat. Elle est revalorisée chaque année dans la limite du taux d'évolution constaté au titre de l'année civile précédente du montant des prestations familiales. En cas de création ou de suppression d'une de ces prestations, le taux d'évolution retenu au titre de l'année au cours de laquelle intervient cette création ou cette suppression est celui correspondant à la moyenne des taux d'évolution retenus pour les trois années civiles précédentes.
 
 Les prestations familiales prises en compte pour l'application du présent article sont :
 
--les prestations que mentionne l'article L. 511-1 du code de la sécurité sociale, y compris celles qui sont versées dans les départements mentionnés à l'article L. 751-1 du même code ;
+-les prestations que mentionne l'article L. 511-1 du code de la sécurité sociale, y compris celles qui sont versées dans les départements mentionnés à l'article L. 751-1 du même code ainsi que celles versées à Mayotte ;
 
 -l'allocation pour jeune enfant, l'allocation d'adoption et l'allocation parentale d'éducation versées en vertu de la réglementation applicable antérieurement au 1er janvier 2004.
 
