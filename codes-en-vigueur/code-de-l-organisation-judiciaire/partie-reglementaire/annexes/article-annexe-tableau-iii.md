@@ -269,7 +269,7 @@ Liste des maisons de justice et du droit
 <p align="center">Albertville</p>
 </td>
 <td align="center">
-<p align="left">Albertville (La Tarentaise).</p>
+<p align="left">Albertville (La Tarentaise), Saint-Jean-de-Maurienne (La Maurienne).</p>
 </td>
 </tr>
 <tr>
@@ -549,7 +549,7 @@ Liste des maisons de justice et du droit
 <p align="center">Metz</p>
 </td>
 <td align="center">
-<p>Faulquemont, Woippy.</p>
+<p align="left">Faulquemont, Woippy.</p>
 </td>
 </tr>
 <tr>
