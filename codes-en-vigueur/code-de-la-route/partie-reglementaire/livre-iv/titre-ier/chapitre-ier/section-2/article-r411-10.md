@@ -6,7 +6,7 @@ I. - La commission départementale de la sécurité routière est consultée pr�
 
 2° D'agrément d'exploitation d'un établissement destiné à la formation de moniteurs d'enseignement de la conduite des véhicules à moteur ;
 
-3° D'autorisation d'organisation d'épreuves ou compétitions sportives dont la délivrance relève de la compétence du préfet ;
+3° D'autorisation d'organisation de manifestations sportives, dans les conditions prévues aux articles R. 331-11 et R. 331-26 du code du sport ;
 
 4° D'agrément des gardiens et des installations de fourrière ;
 
