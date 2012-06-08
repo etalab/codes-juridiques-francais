@@ -1,6 +1,6 @@
 # Article A331-18
 
-Tout dossier de demande d'autorisation comprend :
+Tout dossier de demande d'autorisation de concentration ou de manifestation présenté par l'organisateur comprend:
 
 I.-Pour l'organisation d'une manifestation de véhicules terrestres à moteur :
 
@@ -16,11 +16,13 @@ I.-Pour l'organisation d'une manifestation de véhicules terrestres à moteur :
 
 6° Le recensement des dispositions assurant la sécurité et la protection des participants et des tiers ainsi que les mesures prises par l'organisateur pour garantir la tranquillité publique pendant toute la durée de la manifestation ;
 
-7° Les nom et qualités de la personne désignée comme « organisateur technique » par l'organisateur de la manifestation qui est chargée de s'assurer que les règles techniques et de sécurité prescrites par l'autorité administrative compétente après avis de la commission départementale de la sécurité routière sont respectées ;
+7° Les nom et qualités de la personne désignée comme organisateur technique par l'organisateur de la manifestation qui est chargée de s'assurer que les règles techniques et de sécurité prescrites par l'autorité administrative compétente après avis de la commission départementale de la sécurité routière sont respectées ;
 
 8° Une attestation de police d'assurance souscrite par l'organisateur de la manifestation qui couvre sa responsabilité civile, celle des participants à la manifestation et de toute personne nommément désignée par l'organisateur qui prête son concours à l'organisation de celle-ci. Cette attestation de police d'assurance doit être présentée à l'autorité administrative au plus tard six jours francs avant le début de la manifestation. Le non-respect de ce délai entraîne le refus d'autorisation par l'autorité administrative compétente.
 
-L'organisateur de cette manifestation est tenu de transmettre en trois exemplaires le dossier complet de demande d'autorisation au préfet territorialement compétent au plus tard trois mois avant la date prévue pour son organisation. Si cette manifestation se déroule sur un terrain homologué, ce délai est réduit à deux mois.
+9° Si l'itinéraire prévoit un ou plusieurs parcours de liaison au sens de l'article R. 331-21, la liste des participants comportant leur nom, prénom, date et lieu de naissance, numéro de permis de conduire, nationalité et adresse de domicile ainsi que le numéro d'inscription de leur véhicule délivré par l'organisateur. Cette liste doit être présentée à l'autorité préfectorale au moins six jours francs avant le début de la manifestation. L'organisateur doit veiller à ce que le numéro d'inscription attribué soit reporté sur le véhicule correspondant, de manière clairement lisible et visible, à l'avant et à l'arrière pour les véhicules de catégorie M, à l'arrière ou sur un dossard porté par le conducteur pour les véhicules de catégorie L, au sens de l'article R. 311-1 du code de la route. A défaut du respect de l'ensemble des dispositions définies par le présent alinéa, la dérogation prévue à l'article R. 411-29 du même code n'est pas applicable.
+
+L'organisateur de cette manifestation est tenu de transmettre le dossier complet de demande d'autorisation au préfet territorialement compétent au plus tard trois mois avant la date prévue pour son organisation. Si cette manifestation se déroule sur un terrain homologué, ce délai est réduit à deux mois.
 
 II.-Pour l'organisation d'une concentration de véhicules terrestres à moteur dont le nombre est égal ou supérieur à deux cents véhicules automobiles ou quatre cents véhicules à moteur de deux ou quatre roues, y compris les véhicules d'accompagnement :
 
@@ -38,4 +40,4 @@ II.-Pour l'organisation d'une concentration de véhicules terrestres à moteur d
 
 7° Une attestation de police d'assurance souscrite par l'organisateur de la concentration.
 
-L'organisateur de cette concentration est tenu de transmettre en trois exemplaires le dossier complet de demande d'autorisation au préfet territorialement compétent au plus tard trois mois avant la date prévue pour son organisation.
+L'organisateur de cette concentration est tenu de transmettre le dossier complet de demande d'autorisation au préfet territorialement compétent au plus tard trois mois avant la date prévue pour son organisation.
