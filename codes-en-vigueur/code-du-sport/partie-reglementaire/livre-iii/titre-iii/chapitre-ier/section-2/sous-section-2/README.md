@@ -1,6 +1,7 @@
-# Sous-section 2 : Epreuves et compétitions sur la voie publique
+# Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur
 
 - [Paragraphe 1 : Dispositions générales](paragraphe-1)
-- [Paragraphe 2 : Dispositions spéciales aux épreuves et compétitions sportives  organisées par des groupements ayant leur siège à l'étranger](paragraphe-2)
-- [Paragraphe 3 : Dispositions concernant les manifestations sportives  visées à l'article R. 331-13](paragraphe-3)
+- [Article A331-2](article-a331-2.md)
+- [Article A331-3](article-a331-3.md)
+- [Article A331-4](article-a331-4.md)
 - [Article A331-5](article-a331-5.md)
