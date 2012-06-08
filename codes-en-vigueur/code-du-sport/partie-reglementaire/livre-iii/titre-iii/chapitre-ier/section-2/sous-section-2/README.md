@@ -1,6 +1,5 @@
 # Sous-section 2 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur
 
-- [Paragraphe 1 : Dispositions générales](paragraphe-1)
 - [Article A331-2](article-a331-2.md)
 - [Article A331-3](article-a331-3.md)
 - [Article A331-4](article-a331-4.md)
