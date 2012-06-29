@@ -6,4 +6,3 @@
 - [Chapitre V : Mise en valeur des terres incultes ou manifestement sous-exploitées](chapitre-v)
 - [Chapitre VI : Aménagement agricole et forestier](chapitre-vi)
 - [Chapitre VII : Dispositions diverses et communes.](chapitre-vii)
-- [Chapitre VIII : Dispositions particulières à certaines collectivités territoriales](chapitre-viii)
