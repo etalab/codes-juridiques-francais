@@ -8,7 +8,7 @@ Les dispositions de la présente sous-section ne s'appliquent pas aux substances
 
 3° Médicaments à usage humain ou vétérinaire mentionnés à l'article L. 5111-1 du code de la santé publique et produits cosmétiques mentionnés à l'article L. 5131-1 du même code ;
 
-4° Produits phytopharmaceutiques au sens de l'article L. 253-1 du code rural et de la pêche maritime ;
+4° Produits phytopharmaceutiques définis au 1 de l'article 2 du règlement (CE) n° 1107/2009 ;
 
 5° Munitions, matières explosives et explosifs ;
 

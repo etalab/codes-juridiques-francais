@@ -1,6 +1,6 @@
-# Sous-section 3 : Essais et analyses.
+# Sous-section 3 : Mise sur le marché des produits phytopharmaceutiques composés en tout ou partie d'organismes génétiquement modifiés
 
-- [Article R253-10](article-r253-10.md)
-- [Article R253-11](article-r253-11.md)
-- [Article R253-12](article-r253-12.md)
-- [Article R253-12-1](article-r253-12-1.md)
+- [Article D253-18](article-d253-18.md)
+- [Article D253-19](article-d253-19.md)
+- [Article D253-20](article-d253-20.md)
+- [Article D253-21](article-d253-21.md)

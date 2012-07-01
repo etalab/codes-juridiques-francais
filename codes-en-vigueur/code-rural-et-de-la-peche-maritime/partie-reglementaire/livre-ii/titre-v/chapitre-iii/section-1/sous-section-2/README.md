@@ -1,7 +1,15 @@
-# Sous-section 2 : Procédure d'inscription d'une substance active sur la liste communautaire.
+# Sous-section 2 : Dispositions générales applicables aux autorisations de mise sur le marché et d'utilisation des produits phytopharmaceutiques
 
+- [Article D253-8](article-d253-8.md)
+- [Article D253-9](article-d253-9.md)
+- [Article D253-10](article-d253-10.md)
+- [Article D253-11](article-d253-11.md)
+- [Article D253-12](article-d253-12.md)
+- [Article D253-13](article-d253-13.md)
+- [Article D253-14](article-d253-14.md)
+- [Article D253-15](article-d253-15.md)
+- [Article D253-16](article-d253-16.md)
+- [Article D253-17](article-d253-17.md)
 - [Article R253-5](article-r253-5.md)
 - [Article R253-6](article-r253-6.md)
 - [Article R253-7](article-r253-7.md)
-- [Article R253-8](article-r253-8.md)
-- [Article R253-9](article-r253-9.md)

@@ -1,4 +1,3 @@
-# Section 5 : Dispositions pénales.
+# Section 5 : Plan d'action national pour une utilisation durable des produits phytopharmaceutiques
 
-- [Article R253-83](article-r253-83.md)
-- [Article R253-84](article-r253-84.md)
+- [Article D253-44](article-d253-44.md)

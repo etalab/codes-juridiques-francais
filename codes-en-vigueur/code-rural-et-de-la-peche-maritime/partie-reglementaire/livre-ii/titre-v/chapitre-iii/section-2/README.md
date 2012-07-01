@@ -1,4 +1,6 @@
-# Section 2 : Expérimentations
+# Section 2 : Confidentialité, information et protection des données
 
 - [Sous-section 1 : Autorisations de distribution pour expérimentation.](sous-section-1)
-- [Sous-section 2 : Autorisation de dissémination volontaire de produits phytopharmaceutiques composés en tout ou partie d'organismes génétiquement modifiés](sous-section-2)
+- [Article D253-35](article-d253-35.md)
+- [Article D253-36](article-d253-36.md)
+- [Article R253-34](article-r253-34.md)

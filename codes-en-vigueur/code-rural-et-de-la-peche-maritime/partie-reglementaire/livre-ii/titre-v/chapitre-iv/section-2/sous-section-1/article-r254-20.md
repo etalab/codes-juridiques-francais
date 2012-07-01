@@ -5,3 +5,5 @@ Les distributeurs ne peuvent mettre en vente, vendre ou distribuer à des utilis
 Préalablement à la vente de produits dont l'autorisation ne comporte pas la mention : " emploi autorisé dans les jardins ", le distributeur s'assure de la qualité d'utilisateur professionnel de l'acheteur, sur présentation par celui-ci de justificatifs dont la liste est arrêtée par le ministre chargé de l'agriculture.
 
 Par dérogation au premier alinéa, sous réserve de justificatifs précisés par arrêté du ministre chargé de l'agriculture, les distributeurs peuvent céder des produits dont l'autorisation ne comporte pas la mention : " emploi autorisé dans les jardins " à des personnes pour le compte desquelles des utilisateurs professionnels vont utiliser les produits phytopharmaceutiques en cause.
+
+Les dispositions du présent article ne s'appliquent pas aux produits phytopharmaceutiques visés par un arrêté de lutte obligatoire contre les organismes nuisibles pris en application de l'article L. 251-8.
