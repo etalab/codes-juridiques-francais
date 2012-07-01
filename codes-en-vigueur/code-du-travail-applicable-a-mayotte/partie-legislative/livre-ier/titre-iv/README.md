@@ -1,4 +1,4 @@
-# TITRE IV : SALAIRE
+# TITRE IV : SALAIRES ET AVANTAGES DIVERS
 
 - [CHAPITRE PRÉLIMINAIRE : Egalité de rémunération entre les hommes et les femmes.](chapitre-preliminaire)
 - [CHAPITRE Ier : Salaire minimum interprofessionnel garanti *SMIG*.](chapitre-ier)
