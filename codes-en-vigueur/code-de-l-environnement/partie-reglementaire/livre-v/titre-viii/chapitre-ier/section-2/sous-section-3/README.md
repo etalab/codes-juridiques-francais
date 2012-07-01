@@ -1,15 +1,8 @@
 # Sous-section 3 : Conditions d'utilisation du mobilier urbain comme support publicitaire
 
-- [Article R581-36](article-r581-36.md)
-- [Article R581-37](article-r581-37.md)
-- [Article R581-38](article-r581-38.md)
-- [Article R581-39](article-r581-39.md)
-- [Article R581-40](article-r581-40.md)
-- [Article R581-41](article-r581-41.md)
 - [Article R581-42](article-r581-42.md)
 - [Article R581-43](article-r581-43.md)
 - [Article R581-44](article-r581-44.md)
 - [Article R581-45](article-r581-45.md)
 - [Article R581-46](article-r581-46.md)
 - [Article R581-47](article-r581-47.md)
-- [Article R581-48](article-r581-48.md)

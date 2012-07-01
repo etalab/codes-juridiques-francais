@@ -6,4 +6,3 @@
 - [Sous-section 4 : Documents et rapports.](sous-section-4)
 - [Sous-section 5 : Dossier médical et fichier commun.](sous-section-5)
 - [Sous-section 6 : Communication d'informations entre entreprises de travail temporaire et entreprises utilisatrices.](sous-section-6)
-- [Article D4625-1](article-d4625-1.md)

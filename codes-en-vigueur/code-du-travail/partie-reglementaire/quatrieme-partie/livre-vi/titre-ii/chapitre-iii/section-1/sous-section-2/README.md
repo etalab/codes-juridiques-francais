@@ -4,4 +4,3 @@
 - [Paragraphe 2 : Nomination.](paragraphe-2)
 - [Paragraphe 3 : Changement d'affectation.](paragraphe-3)
 - [Paragraphe 4 : Modalités d'exercice.](paragraphe-4)
-- [Paragraphe 5 : Conditions d'exercice.](paragraphe-5)

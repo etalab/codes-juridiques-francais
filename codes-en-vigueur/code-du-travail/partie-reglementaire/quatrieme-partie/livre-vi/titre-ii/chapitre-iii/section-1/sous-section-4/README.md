@@ -7,4 +7,3 @@
 - [Article R4623-22](article-r4623-22.md)
 - [Article R4623-23](article-r4623-23.md)
 - [Article R4623-24](article-r4623-24.md)
-- [Article R4623-25](article-r4623-25.md)

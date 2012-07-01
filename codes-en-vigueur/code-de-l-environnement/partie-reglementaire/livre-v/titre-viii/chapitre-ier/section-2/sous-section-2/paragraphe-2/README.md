@@ -1,8 +1,5 @@
 # Paragraphe 2 : Dispositions particulières applicables à la publicité non lumineuse
 
-- [Article R581-14](article-r581-14.md)
-- [Article R581-15](article-r581-15.md)
-- [Article R581-16](article-r581-16.md)
 - [Article R581-26](article-r581-26.md)
 - [Article R581-27](article-r581-27.md)
 - [Article R581-28](article-r581-28.md)

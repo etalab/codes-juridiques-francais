@@ -6,4 +6,3 @@
 - [Paragraphe 4 : Plan de démolition, de retrait   ou d'encapsulage](paragraphe-4)
 - [Paragraphe 5 : Dispositions applicables en fin de travaux](paragraphe-5)
 - [Paragraphe 6 : Formation](paragraphe-6)
-- [Paragraphe 7 : Surveillance médicale](paragraphe-7)

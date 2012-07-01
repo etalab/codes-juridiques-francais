@@ -6,4 +6,3 @@
 - [Sous-section 4 : Personnels concourant au service de santé au travail](sous-section-4)
 - [Sous-section 5 : Premiers secours.](sous-section-5)
 - [Sous-section 6 : Financement de l'échelon national, des sections et des associations spécialisées de santé au travail.](sous-section-6)
-- [Sous-section 7 : Financement de l'échelon national, des sections et des associations spécialisées de santé au travail.](sous-section-7)
