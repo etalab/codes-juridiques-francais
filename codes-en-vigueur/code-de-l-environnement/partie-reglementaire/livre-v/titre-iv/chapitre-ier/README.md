@@ -5,4 +5,5 @@
 - [Section 3 : Traitement des déchets](section-3)
 - [Section 4 : Collecte, transport, négoce et courtage de déchets](section-4)
 - [Section 5 : Stockage de déchets inertes](section-5)
+- [Section 6 : Stockage de déchets inertes](section-6)
 - [Section 7 : Dispositions pénales.](section-7)
