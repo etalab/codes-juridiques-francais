@@ -2,7 +2,7 @@
 
 - [Chapitre Ier : Epidémiologie](chapitre-ier)
 - [Chapitre II : Laboratoires et réactifs](chapitre-ii)
-- [Chapitre III : Réactifs](chapitre-iii)
+- [Chapitre III : Vétérinaires sanitaires et vétérinaires mandatés](chapitre-iii)
 - [Chapitre IV : Libre prestation de services](chapitre-iv)
 - [Chapitre V : Dispositions pénales](chapitre-v)
 - [Chapitre VI : Dispositions relatives aux pouvoirs de police administrative](chapitre-vi)

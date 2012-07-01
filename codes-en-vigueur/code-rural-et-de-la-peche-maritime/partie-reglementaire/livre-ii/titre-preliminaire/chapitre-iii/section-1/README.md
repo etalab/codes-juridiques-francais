@@ -1,7 +1,7 @@
-# Section 1 : Dispositions générales
+# Section 1 : Le vétérinaire sanitaire
 
-- [Article R203-1](article-r203-1.md)
-- [Article R203-2](article-r203-2.md)
-- [Article R203-3](article-r203-3.md)
-- [Article R203-4](article-r203-4.md)
+- [Sous-section 1 : Désignation](sous-section-1)
+- [Sous-section 2 : Conditions de délivrance et portée de l'habilitation](sous-section-2)
+- [Sous-section 3 : Conditions d'exercice de leurs missions par les vétérinaires sanitaires](sous-section-3)
+- [Sous-section 4 : Suspension et retrait de l'habilitation](sous-section-4)
 - [Article R203-5](article-r203-5.md)

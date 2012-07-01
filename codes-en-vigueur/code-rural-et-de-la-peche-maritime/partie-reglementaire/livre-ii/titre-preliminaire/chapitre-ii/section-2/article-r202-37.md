@@ -1,4 +1,4 @@
-# Article R203-3
+# Article R202-37
 
 La mise sur le marché d'un réactif de catégorie B ou C est subordonnée à la présentation d'une attestation initiale de conformité visant à en garantir la performance et la sécurité, délivrée par le laboratoire national de référence compétent.
 

@@ -1,4 +1,4 @@
-# Article R203-4
+# Article R202-38
 
 Le fabricant, l'importateur ou le distributeur d'un réactif classé en catégorie A, B ou C est tenu d'informer le laboratoire national de référence compétent en cas de perte ou de suspension de la certification de son système de management de la qualité.
 

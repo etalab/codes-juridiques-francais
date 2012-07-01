@@ -1,4 +1,3 @@
-# Chapitre III : Réactifs
+# Chapitre III : Vétérinaires sanitaires et vétérinaires mandatés
 
-- [Section 1 : Dispositions générales](section-1)
-- [Section 2 : Dispositions pénales](section-2)
+- [Section 1 : Le vétérinaire sanitaire](section-1)

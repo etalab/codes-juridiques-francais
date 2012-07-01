@@ -1,10 +1,10 @@
-# Article R203-1
+# Article R202-35
 
-Au titre du présent chapitre, on entend par :
+Au titre de la présente section, on entend par :
 
 1° Réactif tout produit ou ensemble de produits destinés aux analyses utilisé exclusivement in vitro dans le cadre du dépistage ou du diagnostic dans les domaines de la santé publique vétérinaire et de la protection des végétaux ;
 
-Sont exclus du champ d'application de ce chapitre :
+Sont exclus du champ d'application de cette section :
 
 - les médicaments vétérinaires tels que définis à l'article L. 5141-1 du code de la santé publique ;
 
