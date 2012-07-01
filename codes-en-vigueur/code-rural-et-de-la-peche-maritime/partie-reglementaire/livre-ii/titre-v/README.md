@@ -6,3 +6,4 @@
 - [Chapitre V : La mise sur le marché des matières fertilisantes et des supports de culture](chapitre-v)
 - [Chapitre VI : Règles relatives aux matériels destinés à l'application de produits phytopharmaceutiques](chapitre-vi)
 - [Chapitre VII : Le contrôle de la production primaire des denrées alimentaires et des produits destinés à l'alimentation animale ou des aliments pour animaux d'origine végétale](chapitre-vii)
+- [Chapitre VIII : Macro-organismes non indigènes utiles aux végétaux, notamment dans le cadre de la lutte biologique](chapitre-viii)
