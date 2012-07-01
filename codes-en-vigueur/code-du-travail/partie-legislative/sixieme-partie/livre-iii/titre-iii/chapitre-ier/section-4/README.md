@@ -5,3 +5,4 @@
 - [Sous-section 3 : Employeurs occupant des salariés intermittents du spectacle.](sous-section-3)
 - [Sous-section 4 : Particuliers employeurs.](sous-section-4)
 - [Sous-section 5 : Employeurs de la pêche maritime et des cultures marines.](sous-section-5)
+- [Sous-section 6 : Artistes auteurs.](sous-section-6)
