@@ -1,5 +1,5 @@
-# Chapitre III : Règles particulières aux diverses assurances maritimes
+# Chapitre III : Règles particulières aux assurances maritime, fluviale et lacustre, et sur marchandises transportées par tous modes
 
-- [Section I : Assurances sur corps.](section-i)
-- [Section II : Assurances sur facultés.](section-ii)
-- [Section III : Assurance de responsabilité.](section-iii)
+- [Section I : Assurances sur corps maritimes, fluviaux et lacustres](section-i)
+- [Section II : Assurances sur marchandises transportées par tous modes](section-ii)
+- [Section III : Assurances de responsabilité civile maritime, fluviale et lacustre](section-iii)

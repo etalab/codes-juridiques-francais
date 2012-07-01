@@ -1,4 +1,4 @@
-# Section III : Assurance de responsabilité.
+# Section III : Assurances de responsabilité civile maritime, fluviale et lacustre
 
 - [Article L173-23](article-l173-23.md)
 - [Article L173-24](article-l173-24.md)
