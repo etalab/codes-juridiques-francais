@@ -1,5 +1,6 @@
 # Section 2 : Services de santé au travail
 
+- [Sous-section 1 : Champ d'application.](sous-section-1)
 - [Sous-section 2 : Missions des services de santé au travail.](sous-section-2)
 - [Sous-section 4 : Personnels concourant au service de santé au travail](sous-section-4)
 - [Sous-section 5 : Premiers secours.](sous-section-5)
