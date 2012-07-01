@@ -13,6 +13,7 @@ L'âge maximal de maintien en première section est de soixante-sept ans ;
 <tr>
 <td width="190">
 <br/>
+<br/>
 </td>
 <td width="102">
 <p align="center">OFFICIERS<br/>subalternes ou dénomination correspondante</p>
@@ -193,11 +194,16 @@ Le chef des orchestres de la garde républicaine et le chef adjoint des orchestr
 </td>
 </tr>
 <tr>
+<td>Infirmiers en soins généraux et spécialisés <br/>
+</td>
+<td align="center" colspan="5">62</td>
+</tr>
+<tr>
 <td align="center">
-<p align="left">Militaires infirmiers et techniciens des hôpitaux des armées (sous-officiers), major des ports (marine) et officiers mariniers de carrière des ports (marine)</p>
+<p>Militaires infirmiers et techniciens des hôpitaux des armées (sous-officiers) excepté ceux du corps des infirmiers en soins généraux et spécialisés, majors des ports (marine) et officiers mariniers de carrière des ports (marine) </p>
 </td>
 <td align="center" colspan="5" valign="bottom">
-<p align="center">59</p>
+<p>59</p>
 </td>
 </tr>
 <tr>
