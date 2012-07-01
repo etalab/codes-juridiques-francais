@@ -13,5 +13,6 @@
 - [Article 371 T](article-371-t.md)
 - [Article 371 U](article-371-u.md)
 - [Article 371 W](article-371-w.md)
+- [Article 371 W bis](article-371-w-bis.md)
 - [Article 371 Y](article-371-y.md)
 - [Article 371 Z](article-371-z.md)
