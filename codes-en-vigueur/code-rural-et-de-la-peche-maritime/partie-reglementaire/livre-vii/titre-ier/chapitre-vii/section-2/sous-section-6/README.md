@@ -1,5 +1,10 @@
-# Sous-section 6 : Salariés liés par un contrat de travail temporaire.
+# Sous-section 6 : Financement de l'échelon national, des sections et des associations spécialisées de santé au travail.
 
+- [Article D717-68](article-d717-68.md)
+- [Article D717-69](article-d717-69.md)
+- [Article D717-70](article-d717-70.md)
+- [Article D717-71](article-d717-71.md)
+- [Article D717-72](article-d717-72.md)
 - [Article R717-59](article-r717-59.md)
 - [Article R717-60](article-r717-60.md)
 - [Article R717-61](article-r717-61.md)
@@ -8,3 +13,4 @@
 - [Article R717-65](article-r717-65.md)
 - [Article R717-66](article-r717-66.md)
 - [Article R717-67](article-r717-67.md)
+- [Article R717-73](article-r717-73.md)
