@@ -192,7 +192,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </td>
 <td>
 <br/>
-<p align="center">27 </p>
+<p align="center">28</p>
 </td>
 <td>
 <br/>
@@ -767,11 +767,11 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </td>
 <td>
 <br/>
-<p align="center">18 </p>
+<p align="center">14</p>
 </td>
 <td>
 <br/>
-<p align="center">3 </p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
