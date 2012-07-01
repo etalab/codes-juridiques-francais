@@ -1,7 +1,7 @@
 # Titre préliminaire : Dispositions communes
 
 - [Chapitre Ier : Epidémiologie](chapitre-ier)
-- [Chapitre II : Laboratoires](chapitre-ii)
+- [Chapitre II : Laboratoires et réactifs](chapitre-ii)
 - [Chapitre III : Réactifs](chapitre-iii)
 - [Chapitre IV : Libre prestation de services](chapitre-iv)
 - [Chapitre V : Dispositions pénales](chapitre-v)
