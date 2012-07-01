@@ -11,3 +11,4 @@
 - [Article L132-25](article-l132-25.md)
 - [Article L132-26](article-l132-26.md)
 - [Article L132-27](article-l132-27.md)
+- [Article L132-28](article-l132-28.md)

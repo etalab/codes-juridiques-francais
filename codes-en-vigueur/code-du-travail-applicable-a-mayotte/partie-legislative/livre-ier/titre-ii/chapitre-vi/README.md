@@ -7,3 +7,4 @@
 - [Article L126-5](article-l126-5.md)
 - [Article L126-6](article-l126-6.md)
 - [Article L126-7](article-l126-7.md)
+- [Article L126-8](article-l126-8.md)

@@ -8,4 +8,4 @@ Dans le cas d'un renouvellement du comité, cette invitation doit être faite un
 
 Dans le cas où, en l'absence de comité, l'employeur est invité à organiser des élections à la suite d'une demande émanant d'un salarié ou d'une organisation syndicale, il est tenu d'engager la procédure ci-dessus définie dans le mois suivant la réception de ladite demande.
 
-Lorsque le comité n'a pas été constitué ou renouvelé, un procès-verbal de carence est établi par le chef d'entreprise ; celui-ci l'affiche dans l'entreprise et le transmet dans les quinze jours à l'inspecteur du travail qui en envoie copie aux organisations syndicales de salariés représentatives au sens de l'article L. 412-3.
+Lorsque le comité n'a pas été constitué ou renouvelé, un procès-verbal de carence est établi par le chef d'entreprise ; celui-ci l'affiche dans l'entreprise et le transmet dans les quinze jours à l'inspecteur du travail qui en envoie copie aux organisations syndicales de salariés représentatives au sens de l'article L. 412-1.

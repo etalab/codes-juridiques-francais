@@ -1,5 +1,5 @@
-# CHAPITRE Ier : Statut juridique des syndicats
+# CHAPITRE Ier : Champ d'application
 
 - [Section 1 : Objet et constitution.](section-1)
-- [Section 2 : Capacité civile.](section-2)
-- [Section 3 : Unions de syndicats.](section-3)
+- [Article L411-1](article-l411-1.md)
+- [Article L411-2](article-l411-2.md)

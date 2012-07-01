@@ -7,5 +7,3 @@
 - [Article L620-5](article-l620-5.md)
 - [Article L620-6](article-l620-6.md)
 - [Article L620-7](article-l620-7.md)
-- [Article L620-8](article-l620-8.md)
-- [Article L620-9](article-l620-9.md)

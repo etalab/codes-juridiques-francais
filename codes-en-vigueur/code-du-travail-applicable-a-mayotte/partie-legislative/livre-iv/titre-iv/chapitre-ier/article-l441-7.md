@@ -4,4 +4,4 @@ Lorsque le chef d'entreprise procède à une annonce publique portant exclusivem
 
 Le chef d'entreprise ne peut procéder à une annonce publique dont les mesures de mise en oeuvre sont de nature à affecter de façon importante les conditions de travail ou d'emploi des salariés qu'après avoir informé le comité d'entreprise.
 
-L'absence d'information du comité d'entreprise, en application des dispositions qui précèdent, est passible des peines prévues aux articles L. 450-3 et L. 450-4.
+L'absence d'information du comité d'entreprise, en application des dispositions qui précèdent, est passible des peines prévues aux articles L. 450-1 et L. 450-2.

@@ -1,8 +1,7 @@
 # LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES.
 
-- [Article L000-1](article-l000-1.md)
-- [Article L000-2](article-l000-2.md)
-- [Article L000-3](article-l000-3.md)
-- [Article L000-4](article-l000-4.md)
-- [Article L000-5](article-l000-5.md)
-- [Article L000-6](article-l000-6.md)
+- [TITRE Ier : CHAMP D'APPLICATION ET CALCUL DES SEUILS D'EFFECTIFS](titre-ier)
+- [TITRE II : DROITS ET LIBERTÉS DANS L'ENTREPRISE](titre-ii)
+- [TITRE III :  DISCRIMINATIONS](titre-iii)
+- [TITRE V : HARCÈLEMENTS](titre-v)
+- [TITRE VI : CORRUPTION ET VIOLATION   DES SECRETS DE FABRIQUE](titre-vi)

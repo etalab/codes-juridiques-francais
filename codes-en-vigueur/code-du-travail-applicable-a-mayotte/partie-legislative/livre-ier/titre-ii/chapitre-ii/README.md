@@ -7,5 +7,4 @@
 - [Section 4 bis : Dispositions particulières applicables aux personnes participant à des opérations de secours ou ayant souscrit un engagement dans la réserve de sécurité civile](section-4-bis)
 - [Section 6 : Protection de la maternité et éducation des enfants.](section-6)
 - [Section 7 : Règles particulières aux salariés victimes d'un accident du travail ou d'une maladie professionnelle.](section-7)
-- [Section 8 : Règlement intérieur, protection des salariés et droit disciplinaire](section-8)
-- [Section 9 : Congé pour la création d'entreprise.](section-9)
+- [Section 8 : Congé pour la création d'entreprise.](section-8)

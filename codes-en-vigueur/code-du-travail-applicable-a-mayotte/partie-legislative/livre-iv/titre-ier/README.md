@@ -1,5 +1,6 @@
 # TITRE Ier : LES SYNDICATS PROFESSIONNELS
 
-- [CHAPITRE Ier : Statut juridique des syndicats](chapitre-ier)
-- [CHAPITRE II : Droit syndical et représentativité.](chapitre-ii)
-- [CHAPITRE III : Marques syndicales.](chapitre-iii)
+- [CHAPITRE Ier : Champ d'application](chapitre-ier)
+- [CHAPITRE II : Représentativité syndicale](chapitre-ii)
+- [CHAPITRE III : Statut juridique, ressources et moyens](chapitre-iii)
+- [Chapitre IV : Exercice du droit syndical](chapitre-iv)

@@ -2,17 +2,17 @@
 
 Il est créé un titre de travail simplifié pour assurer la rémunération et pour la déclaration en vue du paiement des cotisations sociales :
 
-- des personnes employées par les entreprises, employeurs et organismes mentionnés à l'article L. 000-1 occupant moins de onze salariés ;
+-des personnes employées par les entreprises, employeurs et organismes mentionnés à l'article L. 011-1 occupant moins de onze salariés ;
 
-- des personnes effectuant des travaux et services au domicile des particuliers.
+-des personnes effectuant des travaux et services au domicile des particuliers.
 
 L'activité de ces personnes est réputée être salariée. Si elle excède, pour la même personne, dans la même entreprise, cent jours, consécutifs ou non, par année civile, le contrat de travail est réputé être à durée indéterminée à compter du premier jour de dépassement de cette limite.
 
-Le titre de travail simplifié ne peut être utilisé qu'avec l'accord du salarié. Il se substitue à la remise du bulletin de paie prévu par l'article L. 143-3. L'entreprise est tenue de procéder à une déclaration nominative préalable à l'embauche, auprès de la caisse de prévoyance sociale.
+Le titre de travail simplifié ne peut être utilisé qu'avec l'accord du salarié. Il se substitue à la remise du bulletin de paie prévu par l'article L. 143-7. L'entreprise est tenue de procéder à une déclaration nominative préalable à l'embauche, auprès de la caisse de prévoyance sociale.
 
 L'employeur et le salarié qui utilisent le titre de travail simplifié sont réputés satisfaire aux obligations mises à la charge de l'un ou de l'autre par l'article L. 122-4, ainsi qu'aux déclarations au titre de la médecine du travail et du régime des prestations mentionnées à l'article L. 327-1.
 
-La rémunération portée sur le titre de travail simplifié inclut une indemnité de congés payés dont le montant est égal à un dixième de la rémunération. Lorsque le contrat de travail est à durée indéterminée, les dispositions des articles L. 223-1 à L. 223-12 restent applicables.
+La rémunération portée sur le titre de travail simplifié inclut une indemnité de congés payés dont le montant est égal à un dixième de la rémunération. Lorsque le contrat de travail est à durée indéterminée, les dispositions des articles L. 223-1 à L. 223-27 restent applicables.
 
 Les titres de travail simplifiés sont émis et délivrés par les établissements de crédit ou par les institutions ou services du Trésor public, des services financiers de la Poste, de l'institut d'émission des départements d'outre-mer, de l'institut d'émission d'outre-mer ou de la Caisse des dépôts et consignations, qui ont passé convention avec l'Etat.
 

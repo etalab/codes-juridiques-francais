@@ -6,5 +6,4 @@
 - [CHAPITRE III : Paiement du salaire](chapitre-iii)
 - [CHAPITRE IV : Retenues sur le salaire.](chapitre-iv)
 - [CHAPITRE V : Saisie-arrêt et cession de rémunérations dues par un employeur.](chapitre-v)
-- [CHAPITRE VI : Règles particulières au contrôle et à la répartition des pourboires.](chapitre-vi)
-- [CHAPITRE VII : Economats.](chapitre-vii)
+- [CHAPITRE VI : Economats.](chapitre-vi)

@@ -6,7 +6,7 @@ A cet effet, il étudie les incidences sur les conditions de travail des projets
 
 Le comité d'entreprise peut confier au comité d'hygiène, de sécurité et des conditions de travail le soin de procéder à des études portant sur des matières de la compétence de ce dernier comité.
 
-Le comité d'entreprise est consulté sur la durée et l'aménagement du temps de travail ainsi que sur le plan d'étalement des congés dans les conditions prévues à l'article L. 223-7.
+Le comité d'entreprise est consulté sur la durée et l'aménagement du temps de travail ainsi que sur le plan d'étalement des congés dans les conditions prévues aux articles L. 223-17 à L. 223-20.
 
 Il est également consulté, en liaison avec le comité d'hygiène, de sécurité et des conditions de travail, sur les mesures prises en vue de faciliter la mise ou la remise au travail des accidentés du travail, des invalides de guerre et assimilés, des invalides civils et des travailleurs handicapés.
 

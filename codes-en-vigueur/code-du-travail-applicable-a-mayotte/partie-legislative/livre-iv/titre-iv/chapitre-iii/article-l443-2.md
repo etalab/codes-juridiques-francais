@@ -2,7 +2,7 @@
 
 Les représentants du personnel sont élus, d'une part, par les ouvriers et employés, d'autre part, par les ingénieurs, chefs de service, techniciens, agents de maîtrise et assimilés sur des listes établies par les organisations syndicales représentatives pour chaque catégorie de personnel.
 
-Tout syndicat affilié à une organisation représentative sur le plan national ou reconnu représentatif à Mayotte en application de l'article L. 412-3 est considéré comme représentatif dans l'entreprise pour l'application du présent chapitre.
+Tout syndicat affilié à une organisation représentative sur le plan national ou reconnu représentatif à Mayotte en application de l'article L. 412-1 est considéré comme représentatif dans l'entreprise pour l'application du présent chapitre.
 
 Dans les entreprises occupant plus de cinq cents salariés, les ingénieurs, les chefs de service et cadres administratifs, commerciaux ou techniques assimilés ont au moins un délégué titulaire élu dans les mêmes conditions.
 

@@ -5,4 +5,3 @@
 - [Article L122-69](article-l122-69.md)
 - [Article L122-70](article-l122-70.md)
 - [Article L122-71](article-l122-71.md)
-- [Article L122-72](article-l122-72.md)
