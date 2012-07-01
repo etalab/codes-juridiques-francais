@@ -2,4 +2,3 @@
 
 - [Paragraphe 1 : Véhicules terrestres.](paragraphe-1)
 - [Paragraphe 2 : Publicité sur les eaux intérieures.](paragraphe-2)
-- [Paragraphe 3 : Dispositions diverses.](paragraphe-3)

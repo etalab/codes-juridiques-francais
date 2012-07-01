@@ -1,4 +1,4 @@
-# Sous-section 3 : Procédure d'institution de zones de publicité autorisée, de publicité restreinte ou de publicité élargie.
+# Sous-section 3 : Conditions d'utilisation du mobilier urbain comme support publicitaire
 
 - [Article R581-36](article-r581-36.md)
 - [Article R581-37](article-r581-37.md)

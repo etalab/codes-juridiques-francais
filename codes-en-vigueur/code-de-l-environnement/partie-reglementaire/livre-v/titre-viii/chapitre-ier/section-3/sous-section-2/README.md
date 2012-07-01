@@ -1,4 +1,4 @@
-# Sous-section 2 : Dispositions particulières relatives aux enseignes soumises à autorisation.
+# Sous-section 2 :  Dispositions relatives aux préenseignes
 
 - [Article R581-62](article-r581-62.md)
 - [Article R581-63](article-r581-63.md)
