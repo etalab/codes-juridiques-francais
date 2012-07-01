@@ -6,7 +6,7 @@ Ne peuvent faire l'objet d'un droit de préemption :
 
 2° Les aliénations moyennant rente viagère servie pour totalité ou pour l'essentiel sous forme de prestations de services personnels ;
 
-3° Les acquisitions effectuées par des cohéritiers sur licitation amiable ou judiciaire et les cessions consenties à des parents ou alliés jusqu'au quatrième degré inclus, ou à des cohéritiers ou à leur conjoint survivant ainsi que les actes conclus entre indivisaires en application des articles 815-14, 815-15 et 883 du code civil ;
+3° Les acquisitions effectuées par des cohéritiers sur licitation amiable ou judiciaire et les cessions consenties à des parents ou alliés jusqu'au quatrième degré inclus, ou à des cohéritiers ou à leur conjoint survivant ainsi que les actes conclus entre indivisaires en application des articles 815-14,815-15 et 883 du code civil ;
 
 4° Sous réserve, dans tous les cas, que l'exploitation définitive ainsi constituée ait une surface inférieure à la superficie mentionnée au I, 1° de l'article L331-2 du code rural et de la pêche maritime, les acquisitions réalisées :
 
@@ -26,7 +26,7 @@ a) Si ces dernières sont mises en vente avec d'autres parcelles non boisées d�
 
 b) S'il s'agit soit de semis ou plantations sur les parcelles de faible étendue dont la commission communale d'aménagement foncier a décidé la destruction en application de l'article L. 123-7, soit de semis ou plantations effectués en violation des dispositions de l'article L. 126-1 ;
 
-c) Si elles ont fait l'objet d'une autorisation de défrichement ou si elles sont dispensées d'une déclaration de défrichement en application de l'article L. 311-2, 3°, du code forestier ;
+c) Si elles ont fait l'objet d'une autorisation de défrichement ou si elles sont dispensées d'une déclaration de défrichement en application du 1° de l'article L. 342-1 du code forestier ;
 
 d) Si elles sont situées dans un périmètre d'aménagement foncier agricole et forestier en zone forestière prévu aux articles L. 123-18 à L. 123-22 ;
 

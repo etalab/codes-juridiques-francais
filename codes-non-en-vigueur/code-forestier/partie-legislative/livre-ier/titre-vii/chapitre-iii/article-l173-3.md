@@ -1,3 +1,0 @@
-# Article L173-3
-
-Lorsque la délimitation entre les bois, forêts et terrains relevant du régime forestier et les propriétés riveraines consiste à ouvrir et à rouvrir les lignes anciennes dites "du sommet des montagnes", ne sont pris en considération que les plans et les actes officiels détenus par l'Office national des forêts, l'administration chargée des domaines et les archives départementales.

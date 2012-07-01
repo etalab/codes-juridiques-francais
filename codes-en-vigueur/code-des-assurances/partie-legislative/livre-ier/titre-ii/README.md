@@ -1,4 +1,4 @@
-# Titre II : Règles relatives aux assurances de dommages non maritimes
+# Titre II : Règles relatives aux assurances de dommages
 
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Les assurances contre l'incendie.](chapitre-ii)

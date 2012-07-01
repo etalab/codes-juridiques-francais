@@ -1,3 +1,0 @@
-# Article L161-1
-
-Les dispositions législatives du présent code, relatives à la conservation et à la régie des biens forestiers et agroforestiers qui font partie du domaine de l'Etat, ainsi qu'à la poursuite des délits et contraventions qui y sont commis, s'appliquent aux biens forestiers et agroforestiers indivis mentionnés à l'article L. 111-1, sous réserve des dispositions particulières prévues aux chapitres Ier à IV du titre IV du présent livre concernant les biens forestiers et agroforestiers des collectivités et personnes morales mentionnées à l'article L. 141-1.

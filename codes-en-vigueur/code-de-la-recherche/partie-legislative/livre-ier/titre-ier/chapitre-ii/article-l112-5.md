@@ -1,8 +1,8 @@
 # Article L112-5
 
-La recherche appliquée sur la forêt et le bois est régie par les dispositions de l'article L. 521-3 du code forestier, ci-après reproduites :
+La recherche appliquée sur la forêt et le bois est régie par les dispositions de l'article L. 152-1 du nouveau code forestier, ci-après reproduites :
 
-" Art. L. 521-3. - La recherche appliquée sur la forêt et le bois concourt à la gestion durable des forêts, au renforcement de la compétitivité de la filière de production, de récolte, de valorisation des produits forestiers et dérivés du bois et à la satisfaction des demandes sociales. Elle s'appuie sur le développement de la recherche fondamentale.
+" Art. L. 152-1.-La recherche appliquée sur la forêt et le bois concourt à la gestion durable des forêts, au renforcement de la compétitivité de la filière de production, de récolte, de valorisation des produits forestiers et dérivés du bois et à la satisfaction des demandes sociales. Elle s'appuie sur le développement de la recherche fondamentale.
 
 " Elle est conduite dans les organismes publics ou privés exerçant des missions de recherche et les établissements d'enseignement supérieur, et avec le concours des instituts et centres techniques liés aux professions. Elle fait l'objet d'évaluations périodiques mettant en regard les différents moyens engagés et les résultats.
 

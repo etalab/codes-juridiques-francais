@@ -1,5 +1,0 @@
-# Article L541-2
-
-Si les propriétaires s'en remettent à l'Etat ou à la collectivité départementale du soin de la réalisation des travaux ou s'ils ne répondent pas ou déclarent renoncer à leur exécution, ou ne se conforment pas dans les délais fixés aux prescriptions de l'administration, le reboisement est poursuivi par l'Etat ou par la collectivité départementale, qui peuvent soit exproprier les terrains suivant les dispositions relatives à l'expropriation pour cause d'utilité publique applicables à Mayotte et effectuer les travaux pour leur compte, soit effectuer les travaux pour le compte des propriétaires.
-
-Dans ce dernier cas, l'administration notifie sa décision au propriétaire en indiquant la date à partir de laquelle les travaux seront commencés. L'exécution de ces travaux fait l'objet d'un procès-verbal établi par ses soins, indiquant notamment la date de leur achèvement. Une copie en est remise au propriétaire. Ces documents sont, d'autre part, publiés à la conservation des hypothèques à la diligence de l'administration.

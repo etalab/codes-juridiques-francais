@@ -1,6 +1,6 @@
 # Article L121-19
 
-Le président du conseil général fixe la liste des travaux dont la préparation et l'exécution sont interdites jusqu'à la clôture des opérations. Il peut interdire la destruction de tous les espaces boisés mentionnés à l'article L. 311-2 du code forestier, ainsi que de tous boisements linéaires, haies et plantations d'alignement et arbres isolés.
+Le président du conseil général fixe la liste des travaux dont la préparation et l'exécution sont interdites jusqu'à la clôture des opérations. Il peut interdire la destruction de tous les espaces boisés mentionnés à l'article L. 342-1 du code forestier, ainsi que de tous boisements linéaires, haies et plantations d'alignement et arbres isolés.
 
 Les travaux forestiers, y compris les travaux d'exploitation forestière et les plantations, peuvent être soumis par le président du conseil général à son autorisation, après avis de la commission communale ou intercommunale d'aménagement foncier. Les autres travaux de nature à modifier l'état des lieux sont soumis par le président du conseil général à son autorisation, après avis de la commission communale ou intercommunale d'aménagement foncier. En l'absence d'une décision de rejet émise par le président du conseil général dans le délai de quatre mois à compter de la réception par celui-ci de la demande d'autorisation, celle-ci est considérée comme accordée.
 

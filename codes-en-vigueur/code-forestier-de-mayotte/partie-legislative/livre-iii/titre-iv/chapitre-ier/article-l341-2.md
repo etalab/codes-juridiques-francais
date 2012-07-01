@@ -1,3 +1,0 @@
-# Article L341-2
-
-Les dispositions de l'article précédent sont applicables aux techniciens et agents de l'Etat et de la collectivité départementale chargés des forêts.

@@ -8,7 +8,7 @@ Ces dispositions ne s'appliquent pas :
 
 2° Aux immeubles qui dépendent soit du domaine public autre que maritime, soit du domaine privé de l'Etat affecté aux services publics ;
 
-3° Aux terrains domaniaux relevant de plein droit du régime forestier, conformément aux dispositions de l'article L. 111-1 du code forestier applicable à Mayotte.
+3° Aux terrains domaniaux relevant de plein droit du régime forestier, conformément aux dispositions de l'article L. 275-1 du nouveau code forestier.
 
 Lors de la disparition de l'affectation justifiant que les immeubles mentionnés aux 2° et 3° ci-dessus ne fassent pas partie du domaine public maritime, les immeubles sont incorporés de plein droit à ce domaine.
 

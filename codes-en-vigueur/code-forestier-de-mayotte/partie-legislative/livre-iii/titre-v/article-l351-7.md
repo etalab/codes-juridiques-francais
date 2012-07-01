@@ -1,3 +1,0 @@
-# Article L351-7
-
-Les peines que le présent code prononce dans certains cas spéciaux contre des fonctionnaires, ingénieurs, techniciens et agents de l'Etat ou de la collectivité départementale chargés des forêts sont indépendantes des poursuites et peines dont ces personnels seraient passibles d'ailleurs pour malversations, concussion ou abus de pouvoir. Il en est de même quant aux poursuites qui pourraient être dirigées aux termes des articles 179 et 180 du code pénal contre tout délinquant ou contrevenant pour fait de tentative de corruption envers ces fonctionnaires, ingénieurs, techniciens et agents.
