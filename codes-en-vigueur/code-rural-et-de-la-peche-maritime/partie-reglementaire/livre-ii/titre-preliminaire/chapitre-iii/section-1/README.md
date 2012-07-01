@@ -5,4 +5,3 @@
 - [Article R203-3](article-r203-3.md)
 - [Article R203-4](article-r203-4.md)
 - [Article R203-5](article-r203-5.md)
-- [Article R203-6](article-r203-6.md)
