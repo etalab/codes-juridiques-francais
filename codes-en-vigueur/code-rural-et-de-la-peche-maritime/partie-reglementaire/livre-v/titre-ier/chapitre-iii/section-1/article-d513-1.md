@@ -40,6 +40,8 @@ Elle délibère notamment sur :
 
 18° Les montants des indemnités versées aux membres de l'assemblée permanente, au président, aux membres du bureau et aux membres des comités de l'assemblée permanente ;
 
-19° Les modalités de remboursement des frais de déplacement et de séjour du personnel, sur proposition de la commission paritaire, et des membres de l'assemblée permanente.
+19° Les modalités de remboursement des frais de déplacement et de séjour du personnel, sur proposition de la commission paritaire, et des membres de l'assemblée permanente ;
+
+20° Les cas dans lesquels l'assemblée permanente peut offrir les services d'une centrale d'achat au sens de l'article 9 du code des marchés publics, pour le compte de tout ou partie des établissements du réseau.
 
 Lors du vote du budget, l'assemblée permanente adopte les modalités de calcul de la cotisation à verser par les chambres d'agriculture et, le cas échéant, des cotisations spécifiques pour le fonctionnement des services communs créés en application de l'article L. 513-2.
