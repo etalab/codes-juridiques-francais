@@ -6,5 +6,4 @@
 - [Article R4532-33](article-r4532-33.md)
 - [Article R4532-34](article-r4532-34.md)
 - [Article R4532-35](article-r4532-35.md)
-- [Article R4532-36](article-r4532-36.md)
 - [Article R4532-37](article-r4532-37.md)
