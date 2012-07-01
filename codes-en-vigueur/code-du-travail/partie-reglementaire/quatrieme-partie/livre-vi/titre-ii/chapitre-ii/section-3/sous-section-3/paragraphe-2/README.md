@@ -6,7 +6,6 @@
 - [Article D4622-49](article-d4622-49.md)
 - [Article D4622-50](article-d4622-50.md)
 - [Article D4622-51](article-d4622-51.md)
-- [Article D4622-52](article-d4622-52.md)
 - [Article D4622-53](article-d4622-53.md)
 - [Article D4622-54](article-d4622-54.md)
 - [Article D4622-55](article-d4622-55.md)

@@ -1,7 +1,5 @@
 # Section 4 : Personnel infirmier.
 
-- [Article R4623-51](article-r4623-51.md)
-- [Article R4623-52](article-r4623-52.md)
-- [Article R4623-53](article-r4623-53.md)
-- [Article R4623-54](article-r4623-54.md)
-- [Article R4623-55](article-r4623-55.md)
+- [Sous-section 1 : Dispositions communes.](sous-section-1)
+- [Sous-section 2 : Le personnel infirmier en entreprise.](sous-section-2)
+- [Sous-section 3 : Le personnel infirmier au sein des services de santé au travail interentreprises.](sous-section-3)

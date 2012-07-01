@@ -6,4 +6,3 @@
 - [Article D4622-38](article-d4622-38.md)
 - [Article D4622-39](article-d4622-39.md)
 - [Article D4622-41](article-d4622-41.md)
-- [Article R4622-40](article-r4622-40.md)

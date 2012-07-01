@@ -1,9 +1,7 @@
 # Article R4623-24
 
-La décision de l'inspecteur du travail est motivée. Elle est notifiée par lettre recommandée avec avis de réception :
+Le ministre peut annuler ou réformer la décision de l'inspecteur du travail mentionnée à l'article R. 4623-20 sur le recours de l'employeur ou du médecin du travail.
 
-1° A l'employeur ;
+Ce recours est introduit dans un délai de deux mois à compter de la notification de la décision de l'inspecteur.
 
-2° Au médecin du travail ;
-
-3° Au comité d'entreprise ou à la commission de contrôle.
+Le silence gardé pendant plus de quatre mois sur ce recours vaut décision de rejet.

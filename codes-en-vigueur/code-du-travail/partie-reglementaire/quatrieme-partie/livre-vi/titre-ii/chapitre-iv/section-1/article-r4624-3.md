@@ -1,7 +1,5 @@
 # Article R4624-3
 
-Le médecin du travail est associé :
+Le médecin du travail a libre accès aux lieux de travail.
 
-1° A l'étude de toute nouvelle technique de production ;
-
-2° A la formation à la sécurité prévue à l'article L. 4141-2 et à celle des secouristes.
+Il y réalise des visites soit à son initiative, soit à la demande de l'employeur ou du comité d'hygiène, de sécurité et des conditions de travail ou, à défaut, des délégués du personnel.

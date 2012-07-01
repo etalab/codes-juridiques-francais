@@ -1,7 +1,5 @@
 # Article R4624-4
 
-Afin d'éviter toute altération de la santé des travailleurs du fait de leur travail, le médecin du travail est informé :
+L'employeur ou le président du service interentreprises prend toutes mesures pour permettre au médecin du travail de consacrer à ses missions en milieu de travail le tiers de son temps de travail, dans le cadre des actions mentionnées à l'article R. 4624-1.
 
-1° De la nature et de la composition des produits utilisés ainsi que de leurs modalités d'emploi, indépendamment des dispositions des articles L. 4411-1 à L. 4411-5. L'employeur transmet notamment au médecin du travail les fiches de données de sécurité fournies par le fournisseur de ces produits ;
-
-2° Des résultats de toutes les mesures et analyses réalisées dans les domaines mentionnés à l'article R. 4623-1.
+Ce temps comporte au moins cent cinquante demi-journées de travail effectif chaque année, pour un médecin à plein temps. Pour un médecin à temps partiel, cette obligation est calculée proportionnellement à son temps de travail.

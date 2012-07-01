@@ -1,6 +1,6 @@
-# Chapitre V : Surveillance médicale des salariés temporaires
+# Chapitre V : Surveillance médicale de catégories particulières de travailleurs
 
-- [Section 1 : Champ d'application.](section-1)
+- [Section 1 : Travailleur temporaire.](section-1)
 - [Section 2 : Agrément du service de santé au travail  et secteur médical.](section-2)
 - [Section 3 : Action du médecin du travail.](section-3)
 - [Section 4 : Documents et rapports.](section-4)
