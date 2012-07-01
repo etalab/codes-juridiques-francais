@@ -13,3 +13,5 @@ I.-En vue de l'information des tiers :
 5° Un avis est inséré, par les soins du préfet et aux frais de l'exploitant, dans deux journaux locaux ou régionaux diffusés dans tout le département ou tous les départements intéressés.
 
 II.-A la demande de l'exploitant, certaines dispositions de l'arrêté peuvent être exclues de la publicité prévue par le présent article lorsqu'il pourrait en résulter la divulgation de secrets de fabrication.
+
+III.-Lorsque le comité d'hygiène, de sécurité et des conditions de travail a été consulté en application de l'article R. 512-24, il est informé par le chef d'établissement des arrêtés pris à l'issue de ces consultations.
