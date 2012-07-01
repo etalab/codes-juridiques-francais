@@ -1,6 +1,6 @@
 # Article R751-156
 
-La Caisse centrale de la mutualité sociale agricole est assistée par des comités nationaux compétents pour les différents secteurs d'activités agricoles et composés paritairement de représentants des organisations professionnelles d'employeurs et de salariés agricoles, avec la participation, à titre consultatif, de deux représentants de la direction générale de la forêt et des affaires rurales au ministère de l'agriculture et de deux représentants de la Caisse centrale de la mutualité sociale agricole.
+La Caisse centrale de la mutualité sociale agricole est assistée par des comités nationaux compétents pour les différents secteurs d'activités agricoles et composés paritairement de représentants des organisations professionnelles d'employeurs et de salariés agricoles, avec la participation, à titre consultatif, de deux représentants du service des affaires financières, sociales et logistiques du ministère de l'agriculture et de deux représentants de la Caisse centrale de la mutualité sociale agricole.
 
 Ces comités techniques nationaux sont consultés sur toutes les questions relatives à la mise en oeuvre de la prévention dans les secteurs professionnels relevant de leur compétence. Ils peuvent, également, de leur propre initiative, suggérer toute mesure qui leur paraîtrait opportune, sur le plan national, dans le cadre de cette compétence.
 
