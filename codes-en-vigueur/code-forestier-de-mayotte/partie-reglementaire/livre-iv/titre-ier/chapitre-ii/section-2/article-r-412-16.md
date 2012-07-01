@@ -1,3 +1,0 @@
-# Article R*412-16
-
-Sous réserve de l'application des lois et règlements, la direction de l'agriculture et de la forêt peut exécuter dans les forêts de protection tous les travaux qu'elle juge nécessaires en vue de la réalisation des objectifs mentionnés à l'article L. 411-1, et notamment de la consolidation des sols, de la protection contre les avalanches, de la défense contre les incendies, du repeuplement des vides, de l'amélioration des peuplements, du contrôle de la fréquentation de la forêt par le public et, d'une manière générale, du maintien de l'équilibre biologique ; les frais d'exécution et d'entretien de ces travaux sont à la charge de Mayotte.

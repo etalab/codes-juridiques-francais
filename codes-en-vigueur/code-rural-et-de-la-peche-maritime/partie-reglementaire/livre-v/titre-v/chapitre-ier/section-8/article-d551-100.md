@@ -4,7 +4,7 @@ Outre les dispositions énumérées au 1° de l'article D. 551-2, les statuts de
 
 a) Une adhésion des membres producteurs pour une durée minimum de trois ans, éventuellement renouvelable par tacite reconduction ;
 
-b) La communication par les membres producteurs à l'organisation de producteurs des documents de gestion mentionnés à l'article L. 4 du code forestier concernant les parcelles dont la production est commercialisée ou mise en marché par l'intermédiaire de l'organisation ou, à défaut, tout autre document décrivant ces parcelles et les programmes de travaux et de coupe à y réaliser ;
+b) La communication par les membres producteurs à l'organisation de producteurs des documents de gestion mentionnés à l'article L. 122-3 du code forestier concernant les parcelles dont la production est commercialisée ou mise en marché par l'intermédiaire de l'organisation ou, à défaut, tout autre document décrivant ces parcelles et les programmes de travaux et de coupe à y réaliser ;
 
 c) La mention dans le document d'adhésion à l'organisation du volume de bois ou des parcelles dont sera issue la production que les membres producteurs s'engagent à lui céder ou à commercialiser par son intermédiaire ;
 

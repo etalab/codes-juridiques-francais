@@ -1,3 +1,0 @@
-# Chapitre V : Dispositions relatives aux groupements forestiers constitués dans les périmètres d'actions forestières et les zones dégradées.
-
-- [Article R245-1](article-r245-1.md)
