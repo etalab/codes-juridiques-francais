@@ -1,6 +1,6 @@
 # Article R223-101
 
-1° Lorsque dans une exploitation se trouvent un ou plusieurs équidés suspects de peste équine, le préfet prend, conformément à l'article L. 223-6, un arrêté de mise sous surveillance de cette exploitation, qui entraîne notamment l'application des mesures suivantes :
+1° Lorsque dans une exploitation se trouvent un ou plusieurs équidés suspects de peste équine, le préfet prend, conformément à l'article L. 223-8, un arrêté de mise sous surveillance de cette exploitation, qui entraîne notamment l'application des mesures suivantes :
 
 a) Les équidés sont séquestrés et maintenus dans leurs locaux d'hébergement ou dans d'autres lieux protégés contre le vecteur de la maladie ;
 

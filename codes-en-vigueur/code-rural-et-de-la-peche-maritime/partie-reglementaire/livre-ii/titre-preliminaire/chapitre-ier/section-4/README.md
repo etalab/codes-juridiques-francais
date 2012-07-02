@@ -1,4 +1,3 @@
-# Section 4 : Autocontrôles
+# Section 4 : Dispositions pénales
 
-- [Article R201-12](article-r201-12.md)
-- [Article R201-13](article-r201-13.md)
+- [Article R201-45](article-r201-45.md)

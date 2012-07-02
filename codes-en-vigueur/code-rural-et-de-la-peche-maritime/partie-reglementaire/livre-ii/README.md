@@ -2,7 +2,7 @@
 
 - [Titre préliminaire : Dispositions communes](titre-preliminaire)
 - [Titre Ier : La garde et la circulation des animaux et des produits animaux](titre-ier)
-- [Titre II : La lutte contre les maladies des animaux](titre-ii)
+- [Titre II : Mesures de prévention, de surveillance et de lutte contre les dangers zoosanitaires](titre-ii)
 - [Titre III : Qualité nutritionnelle et sécurité sanitaire des aliments](titre-iii)
 - [Titre IV : L'exercice de la médecine et de la chirurgie des animaux](titre-iv)
 - [Titre V : La protection des végétaux](titre-v)

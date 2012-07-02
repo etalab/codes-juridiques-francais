@@ -1,6 +1,6 @@
 # Article R223-114
 
-L'Etat prend à sa charge les visites du vétérinaire sanitaire, les prélèvements et les analyses de laboratoire qu'implique toute suspicion de peste équine ainsi que, en cas de foyer, les visites des exploitations telles que prévues aux articles R. 223-101, R. 223-104, R. 223-106 et R. 223-107.
+L'Etat prend à sa charge les visites du vétérinaire mandaté, les prélèvements et les analyses de laboratoire qu'implique toute suspicion de peste équine ainsi que, en cas de foyer, les visites des exploitations telles que prévues aux articles R. 223-101, R. 223-104, R. 223-106 et R. 223-107.
 
 Il sera alloué aux propriétaires d'animaux abattus ou euthanasiés sur ordre de l'administration une indemnité fixée dans les conditions prévues à l'article L. 221-2.
 

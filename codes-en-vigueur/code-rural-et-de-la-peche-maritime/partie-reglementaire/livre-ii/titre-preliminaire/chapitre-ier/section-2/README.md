@@ -1,3 +1,3 @@
-# Section 2 : Collecte et traitement de données épidémiologiques
+# Section 2 : Modalités communes de prévention, de surveillance et de lutte contre les dangers sanitaires de première et de deuxième catégorie
 
-- [Article R201-6](article-r201-6.md)
+- [Article R201-5](article-r201-5.md)

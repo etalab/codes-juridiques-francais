@@ -1,8 +1,6 @@
-# Chapitre Ier : Epidémiologie
+# Chapitre Ier : Dispositions générales relatives à la prévention, à la surveillance et à la lutte contre les dangers sanitaires concernant les animaux et les végétaux
 
 - [Section 1 : Réseaux de surveillance et de prévention](section-1)
-- [Section 2 : Collecte et traitement de données épidémiologiques](section-2)
-- [Section 3 : Alerte](section-3)
-- [Section 4 : Autocontrôles](section-4)
-- [Section 5 : Dispositions pénales](section-5)
-- [Article R201-1](article-r201-1.md)
+- [Section 2 : Modalités communes de prévention, de surveillance et de lutte contre les dangers sanitaires de première et de deuxième catégorie](section-2)
+- [Section 3 : Rôle des personnes autres que l'Etat dans la surveillance, la prévention et la lutte contre les dangers sanitaires](section-3)
+- [Section 4 : Dispositions pénales](section-4)

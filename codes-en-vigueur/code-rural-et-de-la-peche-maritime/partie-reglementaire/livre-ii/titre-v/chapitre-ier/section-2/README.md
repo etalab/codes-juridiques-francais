@@ -9,6 +9,7 @@
 - [Article D251-7](article-d251-7.md)
 - [Article D251-14-1](article-d251-14-1.md)
 - [Article D251-14-2](article-d251-14-2.md)
+- [Article R251-2-2](article-r251-2-2.md)
 - [Article R251-8](article-r251-8.md)
 - [Article R251-9](article-r251-9.md)
 - [Article R251-10](article-r251-10.md)
