@@ -1,4 +1,4 @@
-# Article D251-6
+# Article D251-7
 
 Si le contrôle fait apparaître que les végétaux, produits végétaux et autres objets ne sont pas indemnes d'organismes nuisibles ou, le cas échéant, ne respectent pas les exigences particulières mentionnées aux A et B du IV de l'article D. 251-2, le passeport phytosanitaire n'est pas délivré ou est retiré et une ou plusieurs des mesures prévues aux articles L. 251-8 et L. 251-14 sont prises immédiatement.
 

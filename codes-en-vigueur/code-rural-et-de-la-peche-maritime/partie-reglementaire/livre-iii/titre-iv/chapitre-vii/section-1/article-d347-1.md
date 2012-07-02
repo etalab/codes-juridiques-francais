@@ -4,7 +4,7 @@ Les prêts spéciaux d'élevage sont destinés à faciliter le financement des i
 
 1° a) L'accroissement de l'effectif des animaux appartenant aux espèces bovine, ovine et caprine ou issus de l'une des races de chevaux lourds définies par arrêté du ministre de l'agriculture ;
 
-b) Le remplacement des animaux des espèces citées au a éliminés dans le cadre de mesures obligatoires d'éradication d'une maladie contagieuse faisant l'objet soit d'un plan national défini par le ministre de l'agriculture, soit d'un programme régional ou départemental approuvé ou mis en oeuvre en application d'une convention passée au nom de l'Etat.
+b) Le remplacement des animaux des espèces citées au a éliminés dans le cadre de mesures obligatoires d'éradication d'une maladie réglementée au sens de l'article D. 221-2 ou faisant l'objet d'un programme collectif volontaire approuvé en application de l'article D. 201-31.
 
 Pour la détermination du montant du prêt ne peut alors être prise en compte que la différence entre le prix d'acquisition des animaux de remplacement et le produit de la vente des animaux abattus majoré des indemnités obtenues ;
 

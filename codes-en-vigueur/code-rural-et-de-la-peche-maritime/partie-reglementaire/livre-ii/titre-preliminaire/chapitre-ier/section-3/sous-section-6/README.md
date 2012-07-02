@@ -1,5 +1,6 @@
 # Sous-section 6 : La délégation de tâches particulières de contrôle
 
+- [Article D201-44](article-d201-44.md)
 - [Article R201-39](article-r201-39.md)
 - [Article R201-40](article-r201-40.md)
 - [Article R201-41](article-r201-41.md)

@@ -1,4 +1,4 @@
-# Article D251-14-2
+# Article D251-2-3
 
 Pour prétendre à l'indemnisation prévue à l'article L. 251-9, le demandeur qui a cotisé à un mécanisme de solidarité répondant aux conditions de l'article D. 251-14-1 doit l'avoir fait au titre des douze mois précédant la date de notification de la mesure de destruction ordonnée par l'autorité administrative pour la totalité des surfaces affectées à la production contaminée.
 

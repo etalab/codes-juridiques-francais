@@ -1,4 +1,4 @@
-# Article D251-5
+# Article D251-6
 
 Dès leur inscription sur le registre officiel du contrôle phytosanitaire, les établissements doivent :
 
