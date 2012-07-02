@@ -6,4 +6,3 @@
 - [Sous-section 4 : Les associations sanitaires régionales](sous-section-4)
 - [Sous-section 5 : Réseaux de surveillance et de prévention des dangers sanitaires](sous-section-5)
 - [Sous-section 6 : La délégation de tâches particulières de contrôle](sous-section-6)
-- [Article R201-11](article-r201-11.md)

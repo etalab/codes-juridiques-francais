@@ -4,4 +4,3 @@
 - [Article D201-2](article-d201-2.md)
 - [Article D201-3](article-d201-3.md)
 - [Article D201-4](article-d201-4.md)
-- [Article R201-5](article-r201-5.md)
