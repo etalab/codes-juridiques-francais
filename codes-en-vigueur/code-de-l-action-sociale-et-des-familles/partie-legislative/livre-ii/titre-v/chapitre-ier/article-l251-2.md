@@ -21,5 +21,3 @@ La prise en charge mentionnée au premier alinéa est subordonnée, lors de la d
 2° Lorsqu'il existe des médicaments génériques commercialisés dans le groupe dont le prix est supérieur ou égal à celui du princeps ;
 
 3° Dans le cas prévu au troisième alinéa de l'article L. 5125-23 du code de la santé publique.
-
-Sauf pour les soins délivrés aux mineurs et pour les soins inopinés, la prise en charge mentionnée au premier alinéa est subordonnée, pour les soins hospitaliers dont le coût dépasse un seuil fixé par décret en Conseil d'Etat, à l'agrément préalable de l'autorité ou organisme mentionné à l'article L. 252-3 du présent code. Cet agrément est accordé dès lors que la condition de stabilité de la résidence mentionnée au même article L. 252-3 est respectée et que la condition de ressources mentionnée à l'article L. 251-1 est remplie. La procédure de demande d'agrément est fixée par décret en Conseil d'Etat.
