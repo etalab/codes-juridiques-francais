@@ -1,4 +1,4 @@
-# Chapitre Ier : Les conditions de l'enquête technique
+# Chapitre Ier : Les conditions de l'enquête technique et de l'enquête de sécurité
 
 - [Section 1 : Définitions](section-1)
 - [Section 2 : La procédure](section-2)
