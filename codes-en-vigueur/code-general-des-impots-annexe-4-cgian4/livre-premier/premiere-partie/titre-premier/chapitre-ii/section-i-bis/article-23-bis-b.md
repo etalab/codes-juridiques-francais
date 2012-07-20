@@ -18,4 +18,4 @@ c. En application des dispositions des articles 39 octies A ou 39 octies D du co
 
 3. Dans la situation visée au 2, le résultat consolidé est minoré de la fraction des subventions et abandons de créances qui n'est pas déductible, au sens de l'article 216 A du code général des impôts, du résultat imposable de la société qui a accordé la subvention ou consenti l'abandon. Toutefois, le résultat consolidé n'est pas modifié lorsque la société débitrice est susceptible de bénéficier des dispositions de ce même article.
 
-4. Si les résultats d'une exploitation sont imposables selon les modalités prévues à l'article 217 bis du code général des impôts, les sommes qui sont ajoutées ou retranchées pour la détermination du résultat consolidé ne sont retenues que pour les deux tiers de leur montant.
+4. (Sans objet) (1)

@@ -8,6 +8,6 @@ Les collèges territoriaux des finances publiques sont composés :
 
 ― d'un directeur départemental des impôts ou d'un administrateur des finances publiques d'une direction dont le département est de la compétence géographique du collège ;
 
-― de trois directeurs divisionnaires des impôts de directions dont le département est de la compétence géographique du collège.
+― de trois administrateurs des finances publiques adjoints  de directions dont le département est de la compétence géographique du collège.
 
 Les membres du collège sont désignés par le chef des services fiscaux ou l'administrateur général des finances publiques de la direction de rattachement du collège.

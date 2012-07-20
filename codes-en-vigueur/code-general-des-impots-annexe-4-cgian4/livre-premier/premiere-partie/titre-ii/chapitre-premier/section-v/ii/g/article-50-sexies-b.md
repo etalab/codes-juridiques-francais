@@ -2,7 +2,7 @@
 
 I. - Toute entrée sur les lieux où sont organisés des spectacles visés au I de l'article 290 quater du code général des impôts doit être constatée par la remise d'un billet extrait d'un carnet à souches ou d'un distributeur automatique ou, à défaut de remise d'un billet, être enregistrée et conservée dans un système informatisé, avant l'accès au lieu du spectacle.
 
-II. - Les exploitants de spectacles qui utilisent des systèmes de billetterie informatisée comportant ou non l'impression de billets doivent se conformer aux obligations prévues au cahier des charges annexé à l'arrêté du 8 mars 1993 modifié.
+II. - Les exploitants de spectacles qui utilisent des systèmes de billetterie informatisée comportant ou non l'impression de billets doivent se conformer aux obligations prévues au cahier des charges annexé à l'arrêté du 8 mars 1993.
 
 III. - L'entrée doit faire l'objet d'un contrôle manuel ou électronique. Lorsqu'un billet est imprimé, il doit rester entre les mains du spectateur. Si ce billet comporte deux parties, l'une reste entre les mains du spectateur et l'autre est retenue au contrôle.
 

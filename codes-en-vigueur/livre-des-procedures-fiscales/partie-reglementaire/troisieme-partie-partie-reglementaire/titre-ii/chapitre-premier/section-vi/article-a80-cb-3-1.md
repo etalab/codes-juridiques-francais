@@ -14,4 +14,4 @@ Le collège national de la direction générale des finances publiques mentionn�
 
 ― du chef des services fiscaux ou de l'administrateur général des finances publiques de la direction nationale de vérification des situations fiscales personnelles ou de son représentant.
 
-Chaque représentant a au moins le grade de directeur divisionnaire des impôts ou un grade équivalent.
+Chaque représentant a au moins le grade d'administrateur des finances publiques adjoint  ou un grade équivalent.
