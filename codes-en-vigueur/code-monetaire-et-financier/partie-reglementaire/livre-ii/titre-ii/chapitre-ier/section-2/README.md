@@ -2,4 +2,3 @@
 
 - [Sous-section 1 : Le compte sur livret d'épargne populaire.](sous-section-1)
 - [Sous-section 2 : Le plan d'épargne populaire.](sous-section-2)
-- [Article R221-32](article-r221-32.md)
