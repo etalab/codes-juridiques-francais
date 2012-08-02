@@ -1326,7 +1326,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="left" valign="top">
 <br clear="none"/>BP JEPS, spécialité "activités équestres". <br clear="none"/>
 </td>
-<td align="left" valign="top"/>
+<td align="left" valign="top">Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres. </td>
 <td align="left" valign="top"/>
 </tr>
 <tr>
@@ -1339,8 +1339,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <br clear="none"/>Equitation. <br clear="none"/>
 </td>
 <td align="left" valign="top">
-<br clear="none"/>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition en équitation. <br clear="none"/>
-</td>
+<br clear="none"/>Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation. </td>
 <td align="left" valign="top"/>
 </tr>
 <tr>
@@ -1348,7 +1347,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <br clear="none"/>Tourisme équestre. <br clear="none"/>
 </td>
 <td align="left" valign="top">
-<br clear="none"/>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition en tourisme équestre. <br clear="none"/>
+<br clear="none"/>Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en tourisme équestre. Accompagnement de randonnées pour tout public et sur tout itinéraire. <br clear="none"/>
 </td>
 <td align="left" valign="top"/>
 </tr>
@@ -1357,7 +1356,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <br clear="none"/>Equitation western. <br clear="none"/>
 </td>
 <td align="left" valign="top">
-<br clear="none"/>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition en équitation western. <br clear="none"/>
+<br clear="none"/>Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation western. <br clear="none"/>
 </td>
 <td align="left" valign="top"/>
 </tr>
@@ -1366,7 +1365,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <br clear="none"/>Equitation de tradition et de travail. <br clear="none"/>
 </td>
 <td align="left" valign="top">
-<br clear="none"/>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition en équitation de tradition et de travail. <br clear="none"/>
+<br clear="none"/>Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation de tradition et de travail. <br clear="none"/>
 </td>
 <td align="left" valign="top"/>
 </tr>
@@ -1375,7 +1374,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <br clear="none"/>Attelage. <br clear="none"/>
 </td>
 <td align="left" valign="top">
-<br clear="none"/>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition en attelage. <br clear="none"/>
+<br clear="none"/>Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en attelage.<br clear="none"/>
 </td>
 <td align="left" valign="top"/>
 </tr>
@@ -1918,6 +1917,11 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <br clear="none"/>Encadrement et animation d'activités de full contact <br clear="none"/>
 </td>
 <td align="left" valign="top"/>
+</tr>
+<tr>
+<td>Sports de contact</td>
+<td>Animation d'activités de sports de contact.</td>
+<td>A l'exclusion de toute pratique compétitive. </td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -2786,6 +2790,64 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </td>
 </tr>
 <tr>
+<td>BP JEPS, spécialité "activités du cyclisme" </td>
+<td>Préparation et mise en œuvre de cycles d'animation et d'initiation en vélo.</td>
+<td>A l'exclusion de toute pratique compétitive. <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p align="center">Mentions de la spécialité "activités du cyclisme" </p>
+</td>
+</tr>
+<tr>
+<td>BMX.</td>
+<td>Préparation et mise en œuvre de cycles d'apprentissage en BMX.</td>
+<td/>
+</tr>
+<tr>
+<td>Cyclisme traditionnel.</td>
+<td>Préparation et mise en œuvre de cycles d'apprentissage en cyclisme traditionnel.</td>
+<td/>
+</tr>
+<tr>
+<td>VTT.</td>
+<td>Préparation et mise en œuvre de cycles d'apprentissage en VTT.</td>
+<td/>
+</tr>
+<tr>
+<td>BP JEPS, spécialité "lutte et disciplines associées". <br clear="none"/>
+</td>
+<td>Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités de lutte et disciplines associées.</td>
+<td>A l'exclusion de toute pratique compétitive au-delà du niveau régional.</td>
+</tr>
+<tr>
+<td colspan="3">
+<p align="center">Mentions de la spécialité lutte et disciplines associées </p>
+</td>
+</tr>
+<tr>
+<td>Lutte.</td>
+<td>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition régionale en lutte.</td>
+<td/>
+</tr>
+<tr>
+<td>Sambo.</td>
+<td>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition régionale en sambo. <br clear="none"/>
+</td>
+<td/>
+</tr>
+<tr>
+<td>Grappling.</td>
+<td>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition régionale en grappling.</td>
+<td/>
+</tr>
+<tr>
+<td>Lutte bretonne (gouren).</td>
+<td>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition régionale en lutte bretonne (gouren).</td>
+<td/>
+</tr>
+<tr>
 <td colspan="3">
 <p align="center">Unités capitalisables complémentaires associées à la spécialité "activités aquatiques"</p>
 </td>
@@ -3026,6 +3088,43 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </td>
 </tr>
 <tr>
+<td>DE JEPS, spécialité "perfectionnement sportif", mention "escalade en milieux naturels". <br clear="none"/>
+</td>
+<td>Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants. <br clear="none"/>
+</td>
+<td>A l'exclusion des sites naturels situés à une altitude égale ou supérieure à 1 500 m. <p>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. <br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td>DE JEPS, spécialité "perfectionnement sportif", mention "escalade".<br clear="none"/>
+</td>
+<td>Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants. <br clear="none"/>
+</td>
+<td>A l'exclusion des sites naturels situés à une altitude égale ou supérieure à 1 500 m. <p>A l'exclusion de la via ferrata. </p>
+<p>A l'exclusion de l'escalade pratiquée sur les sites sportifs au-delà du premier relais et terrains d'aventure. </p>
+<p>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. <br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td>DES JEPS, spécialité "performance sportive", mention "escalade". <br clear="none"/>
+</td>
+<td>Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants.</td>
+<td>A l'exclusion des sites naturels situés à une altitude égale ou supérieure à 1 500 m. <p>A l'exclusion de la via ferrata. </p>
+<p>A l'exclusion de l'escalade pratiquée sur les sites sportifs au-delà du premier relais et terrains d'aventure. <br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td>DE JEPS, spécialité "performance sportive", "mention spéléologie". <br clear="none"/>
+</td>
+<td>Enseignement, animation, encadrement de la spéléologie ou entraînement de ses pratiquants. <br clear="none"/>
+</td>
+<td>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.<br clear="none"/>
+</td>
+</tr>
+<tr>
 <td align="left" valign="top">
 <p align="left">DES JEPS, spécialité "performance sportive", mention "plongée subaquatique". </p>
 </td>
@@ -3141,52 +3240,43 @@ D-1. Titres à finalité professionnelle délivrés par le ministère chargé de
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">
-<br clear="none"/>Aide-moniteur d'entraînement physique, militaire et sportif. <br clear="none"/>
+<p>Aide-moniteur d'entraînement physique, militaire et sportif. <br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">
-<br clear="none"/>Participation à l'animation des activités physiques ou sportives. <br clear="none"/>
+<p>Participation à l'animation des activités physiques ou sportives. <br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">
-<br clear="none"/>Sous le contrôle d'un titulaire de diplôme ou titre de niveau IV. <br clear="none"/>
+<p>Sous le contrôle d'un titulaire de diplôme ou titre de niveau IV. <br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">
-<br clear="none"/>Moniteur d'entraînement physique, militaire et sportif. <br clear="none"/>
+<p>Moniteur d'entraînement physique, militaire et sportif. <br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">
-<br clear="none"/>Animation auprès de tout public des activités physiques ou sportives à des fins d'initiation, de découverte, de loisir, de développement et de maintien des capacités physiques individuelles. <br clear="none"/>
+<p>Animation auprès de tout public des activités physiques ou sportives à des fins d'initiation, de découverte, de loisir, de développement et de maintien des capacités physiques individuelles. <br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">
-<br clear="none"/>Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique. <br clear="none"/>
+<p>Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique. <br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">
-<br clear="none"/>Moniteur-chef d'entraînement physique, militaire et sportif. <br clear="none"/>
+<p>Moniteur-chef d'entraînement physique, militaire et sportif. <br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">
-<br clear="none"/>Encadrement et coordination auprès de tout public des activités physiques ou sportives. <br clear="none"/>
+<p>Encadrement et coordination auprès de tout public des activités physiques ou sportives. <br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">
-<br clear="none"/>Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique.<br clear="none"/>
+<p>Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique.<br clear="none"/>
 </p>
 </td>
 </tr>
@@ -3211,30 +3301,31 @@ D-2. Titres à finalité professionnelle délivrés par la Fédération françai
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">
-<br clear="none"/>Animateur poney. <br clear="none"/>
-</p>
+<p>Animateur poney délivré jusqu'au 1er septembre 2012. </p>
 </td>
 <td align="left" valign="top">
-<p align="left">
-<br clear="none"/>Initiation au poney dans tout établissement. <br clear="none"/>
-</p>
+<p>Initiation au poney dans tout établissement.</p>
 </td>
 <td align="left" valign="top">
-<p align="left">
-<br clear="none"/>Sous l'autorité d'un titulaire du brevet d'Etat d'éducateur sportif du 1er degré, option "équitation-activités équestres" ou du brevet d'Etat d'éducateur sportif du 2e degré, option "équitation" ou du brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité "activités équestres", toutes mentions. <br clear="none"/>
+<p>Sous l'autorité d'un titulaire du brevet d'Etat d'éducateur sportif du 1er degré, option équitation-activités équestres , ou du brevet d'Etat d'éducateur sportif du 2e degré, option équitation , ou du brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité activités équestres , toutes mentions. </p>
+</td>
+</tr>
+<tr>
+<td>Animateur assistant d'équitation. <br clear="none"/>
+</td>
+<td>Découverte et initiation dans les activités équestres. <br clear="none"/>
+</td>
+<td>Sous l'autorité d'un titulaire d'une certification de niveau IV ou supérieur dans le domaine des activités équestres. <p>A l'exclusion des pratiques compétitives de niveau amateur et plus.<br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">
-<br clear="none"/>Accompagnateur de tourisme équestre. <br clear="none"/>
+<p>Accompagnateur de tourisme équestre. <br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">
-<br clear="none"/>Accompagnement et conduite de randonnées équestres en autonomie dans tout établissement, dans le cadre de parcours identifiés.<br clear="none"/>
+<p>Accompagnement et conduite de randonnées équestres en autonomie dans tout établissement, dans le cadre de parcours identifiés.<br clear="none"/>
 </p>
 </td>
 <td align="left" valign="top"/>
@@ -3604,6 +3695,30 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 <p align="left">Dans la limite de vingt pratiquants. Cette limite est ramenée à dix pour la pratique en embarcations individuelles, sauf dans le cas où la zone d'évolution est un périmètre calme, abrité et délimité.<br clear="none"/>Sur les eaux intérieures ou maritimes en fonction de l'option du permis plaisance.</p>
 </td>
 </tr>
+<tr>
+<td>CQP "moniteur de rugby à XV".</td>
+<td>Animation des activités de rugby à XV pour tout public, à des fins de découverte et d'initiation. <p>Encadrement des activités de rugby à XV jusqu'aux premiers niveaux de compétition dans les catégories d'âge des écoles de rugby (7 à 15 ans). <br clear="none"/>
+</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>CQP "initiateur en motocyclisme". <br clear="none"/>
+</td>
+<td>Encadrement du motocyclisme à des fins de découverte et d'initiation, jusqu'à la maîtrise complète d'un véhicule terrestre motorisé à guidon (moto ou quad).</td>
+<td>A l'exclusion des voies ouvertes à la circulation publique. <p>A l'exclusion de toute pratique compétitive.</p>
+</td>
+</tr>
+<tr>
+<td>CQP "moniteur de squash".</td>
+<td>Encadrement des activités de squash, jusqu'aux premiers niveaux de compétition inclus.</td>
+<td/>
+</tr>
+<tr>
+<td>CQP "animateur de tennis de table" </td>
+<td>Encadrement de séances collectives de tennis de table, de l'initiation jusqu'aux premiers niveaux de compétition inclus.</td>
+<td/>
+</tr>
 </tbody>
 </table>
 
@@ -3624,18 +3739,15 @@ F.-Diplômes délivrés par le ministère chargé de la santé
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br clear="none"/>Diplôme de masseur-kinésithérapeute. <br clear="none"/>
+<p>Diplôme de masseur-kinésithérapeute. <br clear="none"/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br clear="none"/>Encadrement de la pratique de la gymnastique hygiénique d'entretien ou préventive dans les établissements d'activités physiques et sportives déclarés. <br clear="none"/>
+<p>Encadrement de la pratique de la gymnastique hygiénique d'entretien ou préventive dans les établissements d'activités physiques et sportives déclarés. <br clear="none"/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br clear="none"/>Dans le respect de la législation et de la déontologie de la kinésithérapie. <br clear="none"/>
+<p>Dans le respect de la législation et de la déontologie de la kinésithérapie. <br clear="none"/>
 </p>
 </td>
 </tr>
