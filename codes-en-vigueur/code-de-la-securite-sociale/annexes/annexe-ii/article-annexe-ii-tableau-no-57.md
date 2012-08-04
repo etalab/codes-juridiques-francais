@@ -1,21 +1,18 @@
 # Article Annexe II : Tableau n° 57
 
-<font size="2">
-<b>
-<br/>Affections périarticulaires provoquées par certains gestes et postures de travail</b>
-</font>
+Affections périarticulaires provoquées par certains gestes et postures de travail
 
 <table>
 <tbody>
 <tr>
-<td width="246">
+<td>
 <p align="center">DÉSIGNATION DES MALADIES</p>
 </td>
-<td width="76">
-<p align="center">DÉLAI de prise en charge</p>
+<td>
+<p align="center">DÉLAI<br/>de prise en charge</p>
 </td>
-<td width="283">
-<p align="center">LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies</p>
+<td>
+<p align="center">LISTE LIMITATIVE DES TRAVAUX<br/>susceptibles de provoquer ces maladies</p>
 </td>
 </tr>
 <tr>
@@ -66,26 +63,30 @@
 <p>6 mois (sous réserve d'une durée d'exposition de 6 mois)<br/>
 </p>
 </td>
-<td valign="top" width="283">Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (**) :<p>- avec un angle supérieur ou égal à 60° pendant au moins deux heures par jour en cumulé</p>
+<td valign="top" width="283">
+<p align="left">Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (**) : </p>
+<p>- avec un angle supérieur ou égal à 60° pendant au moins deux heures par jour en cumulé</p>
 <p>ou</p>
 <p>- avec un angle supérieur ou égal à 90° pendant au moins une heure par jour en cumulé.</p>
 <br/>
 </td>
 </tr>
 <tr>
-<td>Rupture partielle ou transfixiante de la coiffe des rotateurs objectivée par IRM (*).<br/>
-<br/>
-</td>
+<td>Rupture partielle ou transfixiante de la coiffe des rotateurs objectivée par IRM (*).</td>
 <td>1 an (sous réserve d'une durée d'exposition d'un an)<br/>
 </td>
-<td>Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (**) :<p>- avec un angle supérieur ou égal à 60° pendant au moins deux heures par jour en cumulé</p>
+<td>
+<p align="left">Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (**) : </p>
+<p>- avec un angle supérieur ou égal à 60° pendant au moins deux heures par jour en cumulé</p>
 <p>ou</p>
 <p>- avec un angle supérieur ou égal à 90° pendant au moins une heure par jour en cumulé. </p>
 <br/>
 </td>
 </tr>
 <tr>
-<td colspan="3">(*) Ou un arthroscanner en cas de contre-indication à l'IRM.<p>(**) Les mouvements en abduction correspondent aux mouvements entraînant un décollement des bras par rapport au corps.</p>
+<td colspan="3">
+<p align="left">(*) Ou un arthroscanner en cas de contre-indication à l'IRM. </p>
+<p>(**) Les mouvements en abduction correspondent aux mouvements entraînant un décollement des bras par rapport au corps.</p>
 </td>
 </tr>
 <tr>
@@ -116,64 +117,50 @@
 </tr>
 <tr>
 <td valign="top" width="246">
-<p>Epicondylite.</p>
+<p align="left">Tendinopathie d'insertion des muscles épicondyliens associée ou non à un syndrome du tunnel radial.</p>
 </td>
 <td valign="top" width="76">
-<p>7 jours</p>
+<p>14 jours</p>
 </td>
 <td valign="top" width="283">
-<p>Travaux comportant habituellement des mouvements répétés de préhension ou d'extension de la main sur l'avant-bras ou des mouvements de supination et pronosupination.</p>
+<p>Travaux comportant habituellement des mouvements répétés de préhension ou d'extension de la main sur l'avant-bras ou des mouvements de pronosupination.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="246">
-<p>Epitrochléite.</p>
+<p align="left">Tendinopathie d'insertion des muscles épitrochléens </p>
 </td>
 <td valign="top" width="76">
-<p>7 jours</p>
+<p>14 jours</p>
 </td>
 <td valign="top" width="283">
-<p>Travaux comportant habituellement des mouvements répétés d'adduction ou de flexion et pronation de la main et du poignet ou des mouvements de supination et pronosupination.</p>
+<p>Travaux comportant habituellement des mouvements répétés d'adduction ou de flexion et pronation de la main et du poignet ou des mouvements de pronosupination.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="246">
-<p>Hygromas :</p>
-</td>
-<td valign="top" width="76"/>
-<td valign="top" width="283"/>
-</tr>
-<tr>
-<td valign="top" width="246">
-<p>- hygroma aigu des bourses séreuses ou atteinte inflammatoire des tissus sous-cutanés des zones d'appui du coude ;</p>
+<p align="left">Hygroma : épanchement des bourses séreuses ou atteintes inflammatoires des tissus sous-cutanés des zones d'appui du coude.<br/>
+<br/>- forme aiguë ;<br/>
+<br/>- forme chronique.</p>
 </td>
 <td valign="top" width="76">
-<p>7 jours</p>
+<p align="left">7 jours<br/>
+<br/>90 jours</p>
 </td>
 <td valign="top" width="283">
-<p>Travaux comportant habituellement un appui prolongé sur la face postérieure du coude.</p>
+<p align="left">Travaux comportant habituellement un appui prolongé sur la face postérieure du coude.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="246">
-<p>- hygroma chronique des bourses séreuses.</p>
+<p align="left">Syndrome canalaire du nerf ulnaire dans la gouttière épithrochléo-oléocranienne confirmé par électroneuromyographie (EMG)</p>
 </td>
 <td valign="top" width="76">
-<p>90 jours</p>
+<p align="left">90 jours (sous réserve d'une durée d'exposition de 90 jours)</p>
 </td>
 <td valign="top" width="283">
-<p>Travaux comportant habituellement un appui prolongé sur la face postérieure du coude.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="246">
-<p>Syndrome de la gouttière épitrochléo-olécrânienne (compression du nerf cubital).</p>
-</td>
-<td valign="top" width="76">
-<p>90 jours</p>
-</td>
-<td valign="top" width="283">
-<p>Travaux comportant habituellement un appui prolongé sur la face postérieure du coude.</p>
+<p>Travaux comportant habituellement des mouvements répétitifs et/ou des postures maintenues en flexion forcée.<br/>
+<br/>Travaux comportant habituellement un appui prolongé sur la face postérieure du coude. </p>
 </td>
 </tr>
 <tr>
