@@ -16,9 +16,9 @@ Le viol est puni de vingt ans de réclusion criminelle :
 
 7° Lorsqu'il est commis avec usage ou menace d'une arme ;
 
-8° Lorsque la victime a été mise en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à destination d'un public non déterminé, d'un réseau de communication électronique   ;
+8° Lorsque la victime a été mise en contact avec l'auteur des faits grâce à l'utilisation, pour la diffusion de messages à destination d'un public non déterminé, d'un réseau de communication électronique ;
 
-9° Lorsqu'il a été commis à raison de l'orientation sexuelle de la victime ;
+9° Lorsqu'il a été commis à raison de l'orientation ou identité sexuelle de la victime ;
 
 10° Lorsqu'il est commis en concours avec un ou plusieurs autres viols commis sur d'autres victimes ;
 

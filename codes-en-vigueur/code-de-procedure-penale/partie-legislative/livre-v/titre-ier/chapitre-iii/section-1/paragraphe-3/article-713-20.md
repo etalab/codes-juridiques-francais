@@ -8,7 +8,7 @@ Sans préjudice de l'application de l'article 694-4, l'exécution d'une décisio
 
 3° Si la décision de confiscation se fonde sur des infractions pour lesquelles la personne à l'encontre de laquelle la décision a été rendue a déjà été jugée définitivement par les autorités judiciaires françaises ou par celles d'un Etat autre que l'Etat d'émission, à condition, en cas de condamnation, que la peine ait été exécutée, soit en cours d'exécution ou ne puisse plus être mise à exécution selon les lois de l'Etat de condamnation ;
 
-4° S'il est établi que la décision de confiscation a été émise dans le but de poursuivre ou de condamner une personne en raison de son sexe, de sa race, de sa religion, de son origine ethnique, de sa nationalité, de sa langue, de ses opinions politiques ou de son orientation sexuelle ou que l'exécution de ladite décision peut porter atteinte à la situation de cette personne pour l'une de ces raisons ;
+4° S'il est établi que la décision de confiscation a été émise dans le but de poursuivre ou de condamner une personne en raison de son sexe, de sa race, de sa religion, de son origine ethnique, de sa nationalité, de sa langue, de ses opinions politiques ou de son orientation ou identité sexuelle ou que l'exécution de ladite décision peut porter atteinte à la situation de cette personne pour l'une de ces raisons ;
 
 5° Si la confiscation est fondée sur des faits qui ne constituent pas des infractions permettant, selon la loi française, d'ordonner une telle mesure ;
 

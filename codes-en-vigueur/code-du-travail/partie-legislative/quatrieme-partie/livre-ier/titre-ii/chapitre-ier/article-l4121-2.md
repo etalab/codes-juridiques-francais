@@ -14,7 +14,7 @@ L'employeur met en oeuvre les mesures prévues à l'article L. 4121-1 sur le fon
 
 6° Remplacer ce qui est dangereux par ce qui n'est pas dangereux ou par ce qui est moins dangereux ;
 
-7° Planifier la prévention en y intégrant, dans un ensemble cohérent, la technique, l'organisation du travail, les conditions de travail, les relations sociales et l'influence des facteurs ambiants, notamment les risques liés au harcèlement moral, tel qu'il est défini à l'article L. 1152-1 ;
+7° Planifier la prévention en y intégrant, dans un ensemble cohérent, la technique, l'organisation du travail, les conditions de travail, les relations sociales et l'influence des facteurs ambiants, notamment les risques liés au harcèlement moral et au harcèlement sexuel, tels qu'ils sont définis aux articles L. 1152-1 et L. 1153-1 ;
 
 8° Prendre des mesures de protection collective en leur donnant la priorité sur les mesures de protection individuelle ;
 

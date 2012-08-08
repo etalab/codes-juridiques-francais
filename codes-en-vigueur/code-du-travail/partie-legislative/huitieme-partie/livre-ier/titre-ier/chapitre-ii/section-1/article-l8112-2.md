@@ -2,7 +2,7 @@
 
 Les inspecteurs du travail constatent également :
 
-1° Les infractions commises en matière de discriminations prévues au 3° et au 6° de l'article 225-2 du code pénal, ainsi que les infractions relatives aux conditions de travail et d'hébergement contraires à la dignité des personnes, prévues par les articles 225-13 à 225-15-1 du même code ;
+1° Les infractions commises en matière de discriminations prévues au 3° et au 6° de l'article 225-2 du code pénal, les délits de harcèlement sexuel ou moral prévus, dans le cadre des relations de travail, par les articles 222-33 et 222-33-2 du même code ainsi que les infractions relatives aux conditions de travail et d'hébergement contraires à la dignité des personnes, prévues par les articles 225-13 à 225-15-1 du même code ;
 
 2° Les infractions aux mesures de prévention édictées par les caisses régionales d'assurance maladie et étendues sur le fondement de l'article L. 422-1 du code de la sécurité sociale ainsi que les infractions aux dispositions relatives à la déclaration des accidents du travail et à la délivrance d'une feuille d'accident, prévues aux articles L. 441-2 et L. 441-5 du même code ;
 

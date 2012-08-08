@@ -1,6 +1,6 @@
 # Article L2313-2
 
-Si un délégué du personnel constate, notamment par l'intermédiaire d'un salarié, qu'il existe une atteinte aux droits des personnes, à leur santé physique et mentale ou aux libertés individuelles dans l'entreprise qui ne serait pas justifiée par la nature de la tâche à accomplir, ni proportionnée au but recherché, il en saisit immédiatement l'employeur. Cette atteinte peut notamment résulter de toute mesure discriminatoire en matière d'embauche, de rémunération, de formation, de reclassement, d'affectation, de classification, de qualification, de promotion professionnelle, de mutation, de renouvellement de contrat, de sanction ou de licenciement.
+Si un délégué du personnel constate, notamment par l'intermédiaire d'un salarié, qu'il existe une atteinte aux droits des personnes, à leur santé physique et mentale ou aux libertés individuelles dans l'entreprise qui ne serait pas justifiée par la nature de la tâche à accomplir, ni proportionnée au but recherché, il en saisit immédiatement l'employeur. Cette atteinte peut notamment résulter de faits de harcèlement sexuel ou moral ou de toute mesure discriminatoire en matière d'embauche, de rémunération, de formation, de reclassement, d'affectation, de classification, de qualification, de promotion professionnelle, de mutation, de renouvellement de contrat, de sanction ou de licenciement.
 
 L'employeur procède sans délai à une enquête avec le délégué et prend les dispositions nécessaires pour remédier à cette situation.
 
