@@ -54,7 +54,7 @@ L'importance des activités de coordination dans le champ de l'entraînement fai
 
 Leurs actions s'inscrivent dans le cadre des valeurs et des objectifs fixés par les instances dirigeantes de l'organisation au regard des attendus en termes de résultats.
 
-Les modes d'intervention qu'ils développent s'inscrivent dans une logique de travail collectif pour :
+Les modes d'intervention qu'ils développent s'inscrivent dans une logique de travail collectif et de sensibilisation à l'environnement et au développement durable pour :
 
 ― concevoir des programmes de perfectionnement sportif ;
 

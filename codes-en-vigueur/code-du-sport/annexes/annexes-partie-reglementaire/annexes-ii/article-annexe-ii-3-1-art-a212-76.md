@@ -62,7 +62,7 @@ Si les fonctions de direction sont par nature multiples et complexes, elles s'av
 
 - ils sont responsables de la qualité des relations individuelles et / ou collectives avec les compétiteurs.
 
-Dans ce cadre, les modes d'intervention de ce professionnel s'inscrivent dans une logique de travail collectif et partenarial pour :
+Dans ce cadre, les modes d'intervention de ce professionnel s'inscrivent dans une logique de travail collectif et partenarial et de sensibilisation à l'environnement et au développement durable pour :
 
 - préparer le projet stratégique de performance dans un champ disciplinaire ;
 
@@ -74,7 +74,7 @@ Dans ce cadre, les modes d'intervention de ce professionnel s'inscrivent dans un
 
 - organiser des actions de formation de formateurs dans le cadre des réseaux professionnels de l'organisation.
 
-(2) Cf. rapport d'étude sur les référentiels professionnel et de formation des entraîneurs nationaux Chef de projet performance  (2006), MJSVA-INSEP.
+(2) Cf. rapport d'étude sur les référentiels professionnel et de formation des entraîneurs nationaux Chef de projet performance (2006), MJSVA-INSEP.
 
 2.5. Situation fonctionnelle
 
