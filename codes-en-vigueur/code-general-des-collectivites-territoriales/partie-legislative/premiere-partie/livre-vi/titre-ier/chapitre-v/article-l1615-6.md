@@ -4,8 +4,6 @@ I.-Jusqu'au 31 décembre 2001, les attributions du Fonds de compensation pour la
 
 Le taux de compensation forfaitaire de 15,482 % est applicable aux dépenses d'investissement éligibles réalisées à compter du 1er avril 2000 par les communautés de communes, les communautés de villes et les communautés d'agglomération.
 
-Le taux de compensation forfaitaire est fixé à 16,586 % pour les dépenses éligibles réalisées à compter de 2013.
-
 II.-Pour les bénéficiaires du Fonds de compensation pour la taxe sur la valeur ajoutée mentionnés à l'article L. 1615-2, autres que ceux mentionnés aux deuxième, troisième, sixième, neuvième, dixième et onzième alinéas du présent II, les dépenses réelles d'investissement à prendre en considération pour la détermination des attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au titre d'une année déterminée sont celles afférentes à la pénultième année.
 
 Pour les communautés de communes et les communautés d'agglomération instituées respectivement aux articles L. 5214-1 et L. 5216-1 et pour les communes nouvelles mentionnées à l'article L. 2113-1, les dépenses réelles d'investissement à prendre en considération sont celles afférentes à l'exercice en cours. Les communes nouvelles mentionnées au même article L. 2113-1 sont subrogées dans les droits des communes auxquelles elles se substituent pour les attributions du fonds de compensation pour la taxe sur la valeur ajoutée au titre de leurs dépenses d'investissement.
