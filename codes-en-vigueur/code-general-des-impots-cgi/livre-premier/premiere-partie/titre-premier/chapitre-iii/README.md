@@ -17,4 +17,5 @@
 - [Section XX : Taxe sur les transactions financières](section-xx)
 - [Section XIX : Contribution sociale sur l'impôt sur les sociétés](section-xix)
 - [Section XXI : Taxe de risque systémique](section-xxi)
+- [Section XIX bis : Contribution additionnelle à l'impôt sur les sociétés au titre des montants distribués](section-xix-bis)
 - [Section XXII : Taxe sur le résultat des entreprises ferroviaires](section-xxii)

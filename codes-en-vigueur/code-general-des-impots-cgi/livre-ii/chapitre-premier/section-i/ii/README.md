@@ -1,7 +1,7 @@
 # II : Exigibilité de l'impôt
 
 - [1 : Impôts directs et taxes assimilées. Impôt sur le revenu. Impôt sur les sociétés. Droits et pénalités](1)
-- [1 bis : Contribution sur l'impôt sur les sociétés. Droits et pénalités](1-bis)
+- [1 bis : Contribution exceptionnelle sur l'impôt sur les sociétés.](1-bis)
 - [1 quater : Contribution sociale sur l'impôt sur les sociétés. Droits et pénalités](1-quater)
 - [3 bis : Retenues à la source sur les salaires, rémunérations, pensions, rentes, produits, et gains versés à des personnes non-domiciliés fiscalement en France.](3-bis)
 - [3 ter : Retenues à la source sur les salaires, droits d'auteur et rémunérations versés aux auteurs, artistes et sportifs domiciliés fiscalement en France](3-ter)

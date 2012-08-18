@@ -28,6 +28,8 @@ e) Les appareillages de recueil pour incontinents et stomisés digestifs ou urin
 
 f) Les ascenseurs et matériels assimilés, spécialement conçus pour les personnes handicapées et dont les caractéristiques sont fixées par arrêté du ministre chargé de l'économie et des finances ;
 
+3° Les livres, y compris leur location. Le présent 3° s'applique aux livres sur tout type de support physique, y compris ceux fournis par téléchargement.
+
 B. ― Les abonnements relatifs aux livraisons d'électricité d'une puissance maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 50 % à partir de la biomasse, de la géothermie, des déchets et d'énergie de récupération.
 
 La puissance maximale prise en compte correspond à la totalité des puissances maximales souscrites par un même abonné sur un même site ;
@@ -36,4 +38,8 @@ C. ― La fourniture de logement et de nourriture dans les maisons de retraite e
 
 D. ― Les prestations de services exclusivement liées aux gestes essentiels de la vie quotidienne des personnes handicapées et des personnes âgées dépendantes qui sont dans l'incapacité de les accomplir, fournies par des associations, des entreprises ou des organismes déclarés en application de l'article L. 7232-1-1 du code du travail, dont la liste est fixée par décret, à titre exclusif ou à titre non exclusif pour celles qui bénéficient d'une dérogation à la condition d'activité exclusive selon l'article L. 7232-1-2 du même code ;
 
-E. ― La fourniture de repas par des prestataires dans les établissements publics ou privés d'enseignement du premier et du second degré.
+E. ― La fourniture de repas par des prestataires dans les établissements publics ou privés d'enseignement du premier et du second degré ;
+
+F. - 1° Les spectacles suivants : théâtres, théâtres de chansonniers, cirques, concerts ; spectacles de variétés à l'exception de ceux qui sont donnés dans les établissements où il est d'usage de consommer pendant les séances ;
+
+2° Le prix du billet d'entrée donnant exclusivement accès à des concerts donnés dans des établissements où il est servi facultativement des consommations pendant le spectacle et dont l'exploitant est titulaire de la licence de la catégorie mentionnée au  1° de l'article D. 7122-1 du code du travail.

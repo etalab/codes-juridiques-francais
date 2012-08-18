@@ -21,4 +21,3 @@
 - [Article 81](article-81.md)
 - [Article 81 bis](article-81-bis.md)
 - [Article 81 ter](article-81-ter.md)
-- [Article 81 quater](article-81-quater.md)

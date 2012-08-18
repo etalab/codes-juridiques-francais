@@ -58,7 +58,7 @@ Par exception aux dispositions du premier alinéa, lorsque, en application du si
 
 5° Les provisions constituées en vue de faire face à des pertes ou charges nettement précisées et que des événements en cours rendent probables, à condition qu'elles aient été effectivement constatées dans les écritures de l'exercice. Toutefois, ne sont pas déductibles les provisions que constitue une entreprise en vue de faire face au versement d'allocations en raison du départ à la retraite ou préretraite des membres ou anciens membres de son personnel, ou de ses mandataires sociaux. Les provisions pour pertes afférentes à des opérations en cours à la clôture d'un exercice ne sont déductibles des résultats de cet exercice qu'à concurrence de la perte qui est égale à l'excédent du coût de revient des travaux exécutés à la clôture du même exercice sur le prix de vente de ces travaux compte tenu des révisions contractuelles certaines à cette date. S'agissant des produits en stock à la clôture d'un exercice, les dépenses non engagées à cette date en vue de leur commercialisation ultérieure ne peuvent, à la date de cette clôture, être retenues pour l'évaluation de ces produits en application des dispositions du 3 de l'article 38, ni faire l'objet d'une provision pour perte.
 
-La dépréciation des oeuvres d'art inscrites à l'actif d'une entreprise peut donner lieu à la constitution d'une provision. Cette dépréciation doit être constatée par un expert agréé près les tribunaux lorsque le coût d'acquisition de l'oeuvre est supérieur à 7 600 euros.
+La dépréciation des oeuvres d'art inscrites à l'actif d'une entreprise peut donner lieu à la constitution d'une provision. Cette dépréciation doit être constatée par un expert agréé près les tribunaux lorsque le coût d'acquisition de l'oeuvre est supérieur à 7 600 €.
 
 Un décret fixe les règles d'après lesquelles des provisions pour fluctuation des cours peuvent être retranchées des bénéfices des entreprises dont l'activité consiste essentiellement à transformer directement des matières premières acquises sur les marchés internationaux ou des matières premières acquises sur le territoire national et dont les prix sont étroitement liés aux variations des cours internationaux.
 
@@ -66,7 +66,7 @@ Pour les entreprises dont l'objet principal est de faire subir en France la prem
 
 Les dispositions des troisième et quatrième alinéas cessent de s'appliquer pour la détermination des résultats des exercices clos à compter du 31 décembre 1997. Les provisions pour fluctuation des cours inscrites au bilan à l'ouverture du premier exercice clos à compter de cette même date sont rapportées, par fractions égales, aux résultats imposables de ce même exercice et des deux exercices suivants.
 
-Toutefois, les dispositions de la dernière phrase de l'alinéa qui précède ne sont pas applicables au montant des provisions visées à la même phrase qui sont portées, à la clôture du premier exercice clos à compter du 31 décembre 1997, à un compte de réserve spéciale. Les sommes inscrites à cette réserve ne peuvent excéder 9 146 941 euros.
+Toutefois, les dispositions de la dernière phrase de l'alinéa qui précède ne sont pas applicables au montant des provisions visées à la même phrase qui sont portées, à la clôture du premier exercice clos à compter du 31 décembre 1997, à un compte de réserve spéciale. Les sommes inscrites à cette réserve ne peuvent excéder 9 146 941 €.
 
 Les sommes prélevées sur la réserve mentionnée à l'alinéa précédent sont rapportées aux résultats de l'exercice en cours lors de ce prélèvement. Cette disposition n'est toutefois pas applicable :
 
@@ -148,7 +148,7 @@ Pour l'application de cette disposition, les dirigeants s'entendent, dans les so
 
 Sauf justifications, les dispositions du premier alinéa sont applicables :
 
-a) A l'amortissement des véhicules de tourisme au sens de l'article 1010 pour la fraction de leur prix d'acquisition qui dépasse 18 300 euros. Lorsque ces véhicules ont un taux d'émission de dioxyde de carbone supérieur à 200 grammes par kilomètre, cette somme est ramenée à 9 900 Euros ;
+a) A l'amortissement des véhicules de tourisme au sens de l'article 1010 pour la fraction de leur prix d'acquisition qui dépasse 18 300 €. Lorsque ces véhicules ont un taux d'émission de dioxyde de carbone supérieur à 200 grammes par kilomètre, cette somme est ramenée à 9 900 € ;
 
 b) En cas d'opérations de crédit bail ou de location, à l'exception des locations de courte durée n'excédant pas trois mois non renouvelables, portant sur des véhicules de tourisme au sens de l'article 1010, à la part du loyer supportée par le locataire et correspondant à l'amortissement pratiqué par le bailleur pour la fraction du prix d'acquisition du véhicule qui excède les limites déterminées conformément au a.
 
@@ -231,3 +231,9 @@ b-lorsqu'elles sont placées l'une et l'autre, dans les conditions définies au 
 L'excédent éventuel du montant total des redevances sur le résultat net mentionné au premier alinéa du présent 12 bis n'est déductible du résultat imposable de l'entreprise mentionnée au même premier alinéa que dans le rapport existant entre le taux réduit prévu au deuxième alinéa du a du I de l'article 219 et le taux normal prévu au deuxième alinéa du même I.
 
 Une fraction égale à [18,1/3]/ [33,1/3] du montant des redevances déduites du résultat imposable au taux normal et afférentes à des licences et procédés donnés en concession au cours d'un exercice ultérieur est rapportée au résultat imposable au taux normal de l'exercice en cours à la date à laquelle l'entreprise qui en est concessionnaire les concède, sauf si cette entreprise satisfait à la condition mentionnée à la seconde phrase du premier alinéa du 12 à raison de la période couverte par les exercices au cours desquels ces redevances ont été déduites au taux normal. Le présent alinéa est applicable au montant des redevances déduites au cours des exercices couvrant l'une des trois années précédant la date à laquelle l'entreprise concessionnaire concède les licences ou procédés.
+
+13. Sont exclues des charges déductibles pour l'établissement de l'impôt les aides de toute nature consenties à une autre entreprise, à l'exception des aides à caractère commercial.
+
+Le premier alinéa du présent 13 ne s'applique pas aux aides consenties en application d'un accord homologué dans les conditions prévues au II de l'article L. 611-8 du code de commerce ni aux aides consenties aux entreprises pour lesquelles une procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire est ouverte.
+
+Les aides mentionnées au deuxième alinéa du présent 13 qui ne revêtent pas un caractère commercial sont déductibles à hauteur de la situation nette négative de l'entreprise qui en bénéficie et, pour le montant excédant cette situation nette négative, à proportion des participations détenues par d'autres personnes que l'entreprise qui consent les aides.
