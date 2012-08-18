@@ -24,7 +24,7 @@ a) D'une part, le chiffre d'affaires tel qu'il est défini au 1, majoré :
 
 -de la production immobilisée, à hauteur des seules charges qui ont concouru à sa formation et qui figurent parmi les charges déductibles de la valeur ajoutée ; il n'est pas tenu compte de la production immobilisée, hors part des coproducteurs, afférente à des œuvres audiovisuelles ou cinématographiques inscrites à l'actif du bilan d'une entreprise de production audiovisuelle ou cinématographique, ou d'une entreprise de distribution cinématographique pour le montant correspondant au versement du minimum garanti au profit d'un producteur, à condition que ces œuvres soient susceptibles de bénéficier de l'amortissement fiscal pratiqué sur une durée de douze mois ;
 
--des subventions d'exploitation et des abandons de créances à caractère financier à la hauteur du montant déductible des résultats imposables à l'impôt sur le revenu ou à l'impôt sur les sociétés de l'entreprise qui les consent ;
+-des subventions d'exploitation ;
 
 -de la variation positive des stocks ;
 
@@ -45,8 +45,6 @@ b) Et, d'autre part :
 -les taxes sur le chiffre d'affaires et assimilées, les contributions indirectes, la taxe intérieure de consommation sur les produits énergétiques [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2009-599 DC du 29 décembre 2009] ;
 
 -les autres charges de gestion courante, autres que les quotes-parts de résultat sur opérations faites en commun ;
-
--les abandons de créances à caractère financier, à la hauteur du montant déductible des résultats imposables à l'impôt sur le revenu ou à l'impôt sur les sociétés ;
 
 -les dotations aux amortissements pour dépréciation afférentes aux biens corporels donnés en location ou sous-location pour une durée de plus de six mois, donnés en crédit-bail ou faisant l'objet d'un contrat de location-gérance, en proportion de la seule période de location, de sous-location, de crédit-bail ou de location-gérance ;
 
@@ -180,6 +178,6 @@ Ne sont toutefois pas déductibles de la valeur ajoutée :
 
 -les dotations aux provisions autres que les provisions techniques.
 
-c) Pour les mutuelles et les institutions de prévoyance visées au  premier alinéa du présent VI, les produits et les charges ne sont pris  en compte, pour le calcul de la valeur ajoutée, qu'à raison de 40 % de  leur montant en 2013 et de 60 % en 2014. Ils sont pris en compte en  totalité à partir de 2015 (1).
+c) Pour les mutuelles et les institutions de prévoyance visées au premier alinéa du présent VI, les produits et les charges ne sont pris en compte, pour le calcul de la valeur ajoutée, qu'à raison de 40 % de leur montant en 2013 et de 60 % en 2014. Ils sont pris en compte en totalité à partir de 2015 (1).
 
 VII.-Lorsque les plus-values de cession d'immobilisations ou de titres de nature à être comprises dans le chiffre d'affaires et la valeur ajoutée en application des I et III à VI sont réalisées l'année de création de l'entreprise, elles sont comprises dans le chiffre d'affaires et la valeur ajoutée retenus au titre de l'année suivante.
