@@ -1,5 +1,6 @@
 # Titre V : La protection des végétaux
 
+- [Chapitre préliminaire : Inspections et contrôles](chapitre-preliminaire)
 - [Chapitre Ier : La surveillance biologique du territoire](chapitre-ier)
 - [Chapitre III : Mise sur le marché et utilisation des produits phytopharmaceutiques](chapitre-iii)
 - [Chapitre IV : La mise en vente, la vente, la distribution à titre gratuit, l'application et le conseil à l'utilisation des produits phytopharmaceutiques](chapitre-iv)
