@@ -6,7 +6,7 @@ I. ― Le responsable du projet adresse une déclaration de projet de travaux à
 
 ― si les travaux sont sans impact sur les réseaux souterrains ;
 
-― ou s'il s'agit de travaux de réfection des voies communales dans lesquelles des tranchées ont été ouvertes, lorsque ces travaux sont effectués en application de l'article L. 141-11 du code de la voirie routière, ou de travaux de contrôle de la qualité du compactage des remblais de tranchées, à condition qu'ils n'agrandissent pas les tranchées concernées, et que l'exécutant de ces travaux dispose des informations relatives à la localisation prévues au I de l'article R. 554-22 et à l'article R. 554-26 ou du relevé topographique prévu à l'article R. 554-34 pour chacun des ouvrages présents dans ces tranchées et entrant dans le champ du présent chapitre ;
+― ou s'il s'agit de travaux de réfection des voiries routières dans lesquelles des tranchées ont été ouvertes, lorsque ces travaux sont effectués en application de l'article L. 141-11 du code de la voirie routière, ou de travaux de contrôle de la qualité du compactage des remblais de tranchées, à condition qu'ils n'agrandissent pas les tranchées concernées, et que l'exécutant de ces travaux dispose des informations relatives à la localisation prévues au I de l'article R. 554-22 et à l'article R. 554-26 ou du relevé topographique prévu à l'article R. 554-34 pour chacun des ouvrages présents dans ces tranchées et entrant dans le champ du présent chapitre ;
 
 ― ou s'il s'agit de travaux non soumis à permis de construire sur un terrain privé sous la direction du propriétaire de ce terrain, à condition que celui-ci ait passé une convention sur la sécurité des travaux avec ces exploitants, et en prescrive l'application à l'exécutant des travaux ;
 
