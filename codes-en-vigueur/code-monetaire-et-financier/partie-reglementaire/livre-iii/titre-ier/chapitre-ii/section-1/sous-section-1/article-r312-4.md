@@ -6,6 +6,10 @@ Art. R. 162-1.-Pour l'application de l'article L. 162-1, en cas de diminution de
 
 Ce relevé d'opérations est communiqué par lettre recommandée avec demande d'avis de réception au créancier saisissant au plus tard huit jours après l'expiration du délai de contre-passation.
 
+<div id="LEGIARTI000025947309_corps">
+<p>Sous réserve des dispositions de l'article 748-7 du code de procédure civile, si l'acte de saisie est signifié par voie électronique, le tiers saisi communique le relevé par voie électronique dans ce même délai. </p>
+</div>
+
 Art. R. 162-2.-Aucune demande du débiteur n'est nécessaire lorsqu'il est fait application des dispositions de l'article L. 162-2. Le tiers saisi avertit aussitôt le débiteur de la mise à disposition de la somme mentionnée à cet article.
 
 En cas de pluralité de comptes, il est opéré une mise à disposition au regard de l'ensemble des soldes créditeurs ; la somme est imputée en priorité sur les fonds disponibles à vue.
