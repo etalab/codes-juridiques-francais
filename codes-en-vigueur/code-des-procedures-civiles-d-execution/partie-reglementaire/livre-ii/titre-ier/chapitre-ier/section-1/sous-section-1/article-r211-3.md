@@ -4,7 +4,7 @@ A peine de caducité, la saisie est dénoncée au débiteur par acte d'huissier 
 
 Cet acte contient à peine de nullité :
 
-1° Une copie du procès-verbal de saisie ;
+1° Une copie du procès-verbal de saisie et la reproduction des renseignements communiqués par le tiers saisi si l'acte a été signifié par voie électronique ;
 
 2° En caractères très apparents, l'indication que les contestations doivent être soulevées, à peine d'irrecevabilité, dans le délai d'un mois qui suit la signification de l'acte par assignation, et la date à laquelle expire ce délai ainsi que l'indication que l'assignation est dénoncée par lettre recommandée avec demande d'avis de réception le même jour à l'huissier de justice ayant procédé à la saisie ;
 
