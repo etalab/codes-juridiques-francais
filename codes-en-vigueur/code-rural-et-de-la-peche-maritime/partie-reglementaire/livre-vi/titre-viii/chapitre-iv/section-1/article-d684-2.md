@@ -1,4 +1,4 @@
-# Article R684-2
+# Article D684-2
 
 L'office est placé sous la tutelle des ministres chargés de l'agriculture et de l'outre-mer.
 

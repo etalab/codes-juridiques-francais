@@ -14,7 +14,7 @@ c) Deux représentants de la transformation des produits agricoles parmi les mem
 
 2° Au titre des personnalités extérieures au Conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire :
 
-a) Trois représentants des établissements mentionnés à l'article R. 621-1 ;
+a) Trois représentants des établissements mentionnés à l'article    D. 621-1 ;
 
 b) Un représentant de la coopération agricole ;
 

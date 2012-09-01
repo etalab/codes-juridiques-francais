@@ -1,4 +1,4 @@
-# Article R684-3
+# Article D684-3
 
 I.-En ce qui concerne l'application des mesures communautaires prévues au 4° de l'article L. 621-3, la compétence de l'office est limitée aux interventions spécifiques dans le domaine de l'agriculture décidées par l'Union européenne en faveur des régions ultrapériphériques au sens de l'article 349 du traité sur le fonctionnement de l'Union, y compris la délivrance des certificats utilisés dans le cadre du régime spécifique d'approvisionnement, à l'exception des primes aux éleveurs de ruminants et des aides à la surface pour la production de riz dès lors qu'un texte en confie le paiement à l'établissement mentionné à l'article L. 313-1.
 

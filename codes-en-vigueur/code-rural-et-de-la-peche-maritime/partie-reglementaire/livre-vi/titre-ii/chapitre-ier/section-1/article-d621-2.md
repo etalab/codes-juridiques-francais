@@ -1,4 +1,4 @@
-# Article R621-2
+# Article D621-2
 
 Les missions de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer), définies aux articles L. 621-2 et L. 621-3, s'étendent aux productions suivantes :
 

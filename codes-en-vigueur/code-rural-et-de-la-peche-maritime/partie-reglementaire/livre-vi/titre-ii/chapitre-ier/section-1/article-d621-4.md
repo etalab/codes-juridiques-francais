@@ -1,4 +1,4 @@
-# Article R621-4
+# Article D621-4
 
 L'établissement peut être agréé comme organisme payeur au sens du règlement (CE) n° 1290 / 2005 du Conseil, par arrêté conjoint des ministres chargés de l'agriculture et du budget.
 

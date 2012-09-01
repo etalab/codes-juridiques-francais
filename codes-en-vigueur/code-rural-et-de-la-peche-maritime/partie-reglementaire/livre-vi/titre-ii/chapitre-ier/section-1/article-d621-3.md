@@ -1,4 +1,4 @@
-# Article R621-3
+# Article D621-3
 
 Pour l'exercice des missions mentionnées au 1° de l'article L. 621-3, l'établissement assure :
 
