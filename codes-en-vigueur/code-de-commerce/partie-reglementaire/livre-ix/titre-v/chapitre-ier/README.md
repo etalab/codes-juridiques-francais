@@ -2,5 +2,4 @@
 
 - [Article R951-1](article-r951-1.md)
 - [Article R951-2](article-r951-2.md)
-- [Article R951-3](article-r951-3.md)
 - [Article R951-4](article-r951-4.md)
