@@ -6,3 +6,4 @@
 - [Section 4 : Comités régionaux de l'enseignement agricole.](section-4)
 - [Section 5 : Conseils des délégués et des élèves
 et étudiants de l'enseignement agricole public](section-5)
+- [Section 6 : Commission professionnelle consultative des métiers de l'agriculture, de la transformation, des services et de l'aménagement des espaces](section-6)
