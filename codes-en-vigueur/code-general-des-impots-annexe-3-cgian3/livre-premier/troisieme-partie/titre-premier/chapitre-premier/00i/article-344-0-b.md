@@ -10,9 +10,9 @@ Les dispositions de l'article 344-0 A s'appliquent :
 
 4° Aux déclarations de taxe sur la valeur ajoutée et taxes assimilées prévues à l'article 287 du même code, ainsi qu'aux déclarations et documents se rapportant aux taxes, contributions et redevances assises et contrôlées comme en matière de taxe sur la valeur ajoutée ;
 
-5° Aux déclarations de taxes et participations assises sur les salaires prévues à l'article 235 ter J du code précité,161 de l'annexe II et 369 de l'annexe III au même code ;
+5° Aux déclarations de taxes et participations assises sur les salaires prévues à l'article 235 ter J du code précité, 161 de l'annexe II et 369 de l'annexe III au même code ;
 
-6° A la déclaration de cotisation minimale de taxe professionnelle prévue au IV de l'article 1647 E du même code ;
+6° A la déclaration prévue au II de l'article 1586 octies du même code ;
 
 7° A la déclaration des sociétés immobilières mentionnée aux articles 172 bis du même code et 46 C ;
 
