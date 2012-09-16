@@ -7,3 +7,4 @@
 - [II : Déclaration des ventes autres que les ventes au détail](ii)
 - [III : Date de dépôt des déclarations](iii)
 - [0I bis : Déclaration des avances remboursables ne portant pas intérêt](0i-bis)
+- [0I ter : Obligations déclaratives des administrateurs de trusts](0i-ter)
