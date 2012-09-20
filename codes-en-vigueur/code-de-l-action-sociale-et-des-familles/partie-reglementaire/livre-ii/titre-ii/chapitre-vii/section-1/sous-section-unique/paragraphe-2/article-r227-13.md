@@ -2,7 +2,7 @@
 
 Dans les accueils mentionnés à l'article R. 227-1, l'encadrement des activités physiques est assuré, selon les activités pratiquées, par une ou des personnes majeures répondant chacune aux conditions prévues à l'un des alinéas ci-après, qu'elles exercent ou non également des fonctions d'animation au sens des articles R. 227-15, R. 227-16 et R. 227-19 :
 
-1° Etre titulaire d'un diplôme, d'un titre à finalité professionnelle ou d'un certificat de qualification inscrit sur la liste mentionnée à l'article R. 212-2 du code du sport et exercer dans les conditions prévues à ce même article ;
+1° Etre titulaire d'un diplôme, d'un titre à finalité professionnelle ou d'un certificat de qualification inscrit sur la liste mentionnée à l'article R. 212-2 du code du sport et exercer dans les conditions prévues à ce même article ou être en cours de formation préparant à l'un de ces diplômes, titres ou certificats de qualification dans les conditions prévues à l'article R. 212-4 du même code ;
 
 2° Etre ressortissant d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen et répondre aux conditions exigées par le code du sport pour exercer la profession d'éducateur sportif sur le territoire national ;
 
