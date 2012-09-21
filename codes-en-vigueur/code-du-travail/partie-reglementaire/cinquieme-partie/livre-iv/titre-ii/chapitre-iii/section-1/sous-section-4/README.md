@@ -7,6 +7,5 @@
 - [Article R5423-42](article-r5423-42.md)
 - [Article R5423-43](article-r5423-43.md)
 - [Article R5423-44](article-r5423-44.md)
-- [Article R5423-45](article-r5423-45.md)
 - [Article R5423-46](article-r5423-46.md)
 - [Article R5423-47](article-r5423-47.md)

@@ -2,4 +2,3 @@
 
 - [Article R5423-28](article-r5423-28.md)
 - [Article R5423-29](article-r5423-29.md)
-- [Article R5423-30](article-r5423-30.md)
