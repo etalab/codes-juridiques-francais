@@ -8,6 +8,6 @@ Pour le calcul de cette formule :
 
 -C est égal à la somme des cotisations employeurs dues au titre des assurances sociales, des accidents du travail et maladies professionnelles et des allocations familiales ;
 
--le SMIC et la rémunération mensuelle brute sont déterminés dans les conditions prévues à l'article D. 242-7 du code de la sécurité sociale.
+-le SMIC et la rémunération mensuelle brute sont déterminés dans les conditions prévues à l'article D. 241-8 du code de la sécurité sociale.
 
 Pour l'application des dispositions de l'article L. 741-16-1, le montant C figurant dans la formule ci-dessus est remplacé par la somme des cotisations mentionnées aux 1° à 7° du même article.
