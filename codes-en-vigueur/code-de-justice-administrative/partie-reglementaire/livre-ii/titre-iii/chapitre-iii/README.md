@@ -4,4 +4,3 @@
 - [Section 2 : Nomination au tour extérieur](section-2)
 - [Section 3 : Recrutement après détachement](section-3)
 - [Section 4 : Recrutement direct](section-4)
-- [Section 6 : Fin de fonctions](section-6-fin)
