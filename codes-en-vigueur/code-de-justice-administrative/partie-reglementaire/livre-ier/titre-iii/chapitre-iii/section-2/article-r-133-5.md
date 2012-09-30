@@ -1,3 +1,0 @@
-# Article R*133-5
-
-Lorsque, entre deux nominations faites au titre de l'article R. * 133-4, un emploi vacant ne peut être pourvu ni par la nomination d'un auditeur justifiant de trois années de services effectifs dans le corps ni par une nomination au tour de l'extérieur, il peut être procédé à la nomination d'encore un maître des requêtes pris parmi les membres du corps des tribunaux administratifs et des cours administratives d'appel cités à l'article R.* 133-4. Cette nomination est décomptée comme celle d'un auditeur pour l'application des dispositions du deuxième alinéa de l'article L. 133-4.
