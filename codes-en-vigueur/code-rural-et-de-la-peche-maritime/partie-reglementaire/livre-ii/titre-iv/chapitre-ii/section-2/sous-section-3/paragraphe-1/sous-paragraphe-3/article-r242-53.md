@@ -6,6 +6,6 @@ Le domicile professionnel d'exercice est le lieu où se déroule habituellement 
 
 Le domicile professionnel d'exercice mobile est interdit sauf en cas de transport d'urgence médicalisé.
 
-Un vétérinaire praticien d'exercice libéral ou un groupe de vétérinaires associés ayant pour but l'exercice professionnel en commun peuvent avoir plusieurs domiciles professionnels d'exercice. Chaque domicile professionnel d'exercice doit comporter un vétérinaire ayant la fonction de vétérinaire administrateur de domicile professionnel d'exercice.
+Un vétérinaire praticien d'exercice libéral ou un groupe de vétérinaires associés ayant pour but l'exercice professionnel en commun peuvent avoir plusieurs domiciles professionnels d'exercice.
 
 L'aménagement des locaux du domicile professionnel d'exercice doit permettre le respect du secret professionnel.
