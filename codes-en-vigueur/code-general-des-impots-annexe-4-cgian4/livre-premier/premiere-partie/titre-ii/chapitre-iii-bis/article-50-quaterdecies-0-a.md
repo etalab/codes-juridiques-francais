@@ -5,19 +5,19 @@ Le tarif de la redevance sanitaire de première mise sur le marché des produits
 <table>
 <tbody>
 <tr>
-<td valign="top" width="529">
-<p>Pour les 50 premières tonnes dans le mois</p>
+<td align="center">
+<br/>Pour les 50 premières tonnes dans le mois <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">0,76 euro</p>
+<td align="center">
+<br/>1 € <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="529">
-<p>Pour les tonnes suivantes</p>
+<td align="center">
+<br/>Pour les tonnes suivantes <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">0,38 euro</p>
+<td align="center">
+<br/>0,50 € <br/>
 </td>
 </tr>
 </tbody>
@@ -28,19 +28,19 @@ Le tarif de la redevance sanitaire pour les opérations de première vente réal
 <table>
 <tbody>
 <tr>
-<td valign="top" width="529">
-<p>Pour les 50 premières tonnes dans le mois</p>
+<td align="center">
+<br/>Pour les 50 premières tonnes dans le mois <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">0,46 euro</p>
+<td align="center">
+<br/>0,50 € <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="529">
-<p>Pour les tonnes suivantes</p>
+<td align="center">
+<br/>Pour les tonnes suivantes <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">0,23 euro</p>
+<td align="center">
+<br/>0,25 € <br/>
 </td>
 </tr>
 </tbody>
@@ -51,22 +51,22 @@ Le tarif majoré de la redevance sanitaire pour les opérations de première ven
 <table>
 <tbody>
 <tr>
-<td valign="top" width="529">
-<p>Pour les 50 premières tonnes dans le mois</p>
+<td align="center">
+<br/>Pour les 50 premières tonnes dans le mois <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">0,76 euro</p>
+<td align="center">
+<br/>1 € <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="529">
-<p>Pour les tonnes suivantes</p>
+<td align="center">
+<br/>Pour les tonnes suivantes <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">0,38 euro</p>
+<td align="center">
+<br/>0,50 € <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-Le montant maximum perçu par lot de poissons des espèces visées au II de l'article 267 quater F de l'annexe II au code général des impôts est fixé à 50 euros.
+Le montant maximum perçu par lot de poissons des espèces visées au II de l'article 267 quater F de l'annexe II au code général des impôts est fixé à 50 €.

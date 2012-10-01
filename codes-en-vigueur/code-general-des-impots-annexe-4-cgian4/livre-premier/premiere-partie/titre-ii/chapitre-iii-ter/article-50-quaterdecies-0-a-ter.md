@@ -5,35 +5,19 @@ Le tarif de la redevance sanitaire pour le contrôle de certaines substances et 
 <table>
 <tbody>
 <tr>
-<td valign="top" width="529">
-<p>Pour les viandes de boucherie, de volaille, de lapin et de gibier d'élevage ou sauvage</p>
+<td align="center">
+<br/>Pour le lait <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">1,35 euro par tonne</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="529">
-<p>Pour les produits de l'aquaculture</p>
-</td>
-<td valign="top" width="151">
-<p align="center">0,10 euro par tonne</p>
+<td align="center">
+<br/>0,02 € par mètre cube <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="529">
-<p>Pour le lait</p>
+<td align="center">
+<br/>Pour les ovoproduits <br/>
 </td>
-<td valign="top" width="151">
-<p align="center">0,02 euro par mètre cube</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="529">
-<p>Pour les ovoproduits</p>
-</td>
-<td valign="top" width="151">
-<p align="center">0,46 euro par tonne<br/>d'œufs en coquille</p>
+<td align="center">
+<br/>0,46 € par tonne d'œufs en coquille<br/>
 </td>
 </tr>
 </tbody>
