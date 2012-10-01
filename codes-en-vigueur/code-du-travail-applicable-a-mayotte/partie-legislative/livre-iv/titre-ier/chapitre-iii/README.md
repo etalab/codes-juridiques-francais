@@ -6,4 +6,3 @@
 - [Section 4 : Marques syndicales](section-4)
 - [Section 5 : Ressources et moyens](section-5)
 - [Section 6 : Dispositions pénales](section-6)
-- [Article L413-2](article-l413-2.md)
