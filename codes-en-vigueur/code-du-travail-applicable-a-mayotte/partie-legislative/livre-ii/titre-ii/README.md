@@ -2,6 +2,6 @@
 
 - [CHAPITRE Ier : Repos hebdomadaire.](chapitre-ier)
 - [CHAPITRE II : Jours fériés](chapitre-ii)
-- [CHAPITRE III : Congés annuels](chapitre-iii)
+- [CHAPITRE III : Congés payés](chapitre-iii)
 - [CHAPITRE IV : Congés pour événements familiaux.](chapitre-iv)
-- [CHAPITRE V : Congés non rémunérés](chapitre-v)
+- [CHAPITRE V : Autres congés](chapitre-v)
