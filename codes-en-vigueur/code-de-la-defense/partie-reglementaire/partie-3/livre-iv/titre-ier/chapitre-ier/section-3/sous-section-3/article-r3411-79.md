@@ -1,6 +1,6 @@
 # Article R3411-79
 
-Les recettes de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement comprennent notamment :
+Les recettes de             l'Ecole nationale supérieure de techniques avancées Bretagne comprennent notamment :
 
 1° Les subventions de l'Etat, des collectivités publiques et de tout organisme public ou privé, français, étranger ou international ;
 

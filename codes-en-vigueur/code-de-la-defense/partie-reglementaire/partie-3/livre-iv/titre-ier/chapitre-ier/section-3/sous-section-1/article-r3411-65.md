@@ -1,6 +1,6 @@
 # Article R3411-65
 
-Le directeur de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement est choisi parmi les ingénieurs généraux et les ingénieurs en chef appartenant soit au corps militaire des ingénieurs de l'armement, soit au corps militaire des ingénieurs des études et techniques d'armement. Il est nommé par décret pour une durée de cinq ans renouvelable.
+Le directeur de             l'Ecole nationale supérieure de techniques avancées Bretagne est choisi parmi les ingénieurs généraux et les ingénieurs en chef appartenant soit au corps militaire des ingénieurs de l'armement, soit au corps militaire des ingénieurs des études et techniques d'armement. Il est nommé par décret pour une durée de cinq ans renouvelable.
 
 Le directeur dirige l'école dans le cadre des orientations définies par le conseil d'administration. Il rend compte chaque année de sa gestion à ce conseil. Il exerce les compétences qui ne sont pas attribuées à une autre autorité par la présente section.
 

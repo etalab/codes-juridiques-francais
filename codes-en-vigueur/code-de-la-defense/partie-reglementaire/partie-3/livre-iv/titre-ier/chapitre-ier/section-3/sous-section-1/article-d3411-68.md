@@ -1,6 +1,6 @@
 # Article D3411-68
 
-Le conseil de la formation de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement comprend :
+Le conseil de la formation de             l'Ecole nationale supérieure de techniques avancées Bretagne comprend :
 
 1° Le directeur de l'école ou son représentant, président ;
 
@@ -10,7 +10,7 @@ Le conseil de la formation de l'Ecole nationale supérieure des ingénieurs des 
 
 4° Trois représentants du personnel enseignant de l'école désignés par ce personnel ;
 
-5° Trois représentants de la     direction générale de l'armement ;
+5° Trois représentants de la direction générale de l'armement ;
 
 6° Cinq personnalités extérieures, dont une ayant la qualité d'ancien élève de l'école, choisies par le conseil d'administration, après avis du directeur ;
 

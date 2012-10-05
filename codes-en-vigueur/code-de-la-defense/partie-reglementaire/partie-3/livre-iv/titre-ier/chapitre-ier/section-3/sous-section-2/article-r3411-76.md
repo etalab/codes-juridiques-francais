@@ -1,6 +1,6 @@
 # Article R3411-76
 
-Le personnel enseignant, administratif, scientifique et technique de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement comprend :
+Le personnel enseignant, administratif, scientifique et technique de             l'Ecole nationale supérieure de techniques avancées Bretagne comprend :
 
 1° Des fonctionnaires affectés ou détachés, hors cadre ou mis à disposition ;
 

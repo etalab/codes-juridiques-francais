@@ -1,4 +1,4 @@
-# Section 3 : Ecole nationale supérieure des ingénieurs des études et techniques d'armement
+# Section 3 : Ecole nationale supérieure de techniques avancées Bretagne
 
 - [Sous-section 1 : Organisation administrative](sous-section-1)
 - [Sous-section 2 : Personnel](sous-section-2)

@@ -1,14 +1,14 @@
 # Article R3411-61
 
-I. ― Le conseil d'administration de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement est composé de vingt-quatre membres.
+I. ― Le conseil d'administration de l'Ecole nationale supérieure de techniques avancées Bretagne est composé de vingt-cinq membres.
 
 Il comprend :
 
 1° Neuf représentants de l'Etat :
 
-a) Le directeur des ressources humaines de la     direction générale de l'armement, ou son représentant ;
+a) Le directeur des ressources humaines de la direction générale de l'armement, ou son représentant ;
 
-b) Un directeur de l'administration centrale de la     direction générale de l'armement, ou son représentant ;
+b) Un directeur de l'administration centrale de la direction générale de l'armement, ou son représentant ;
 
 c) Le directeur des affaires financières du ministère de la défense, ou son représentant ;
 
@@ -24,15 +24,17 @@ h) Un représentant du ministre chargé de la mer ;
 
 i) Un représentant du ministre chargé du budget ;
 
-2° Sept personnalités :
+2° Huit membres extérieurs :
 
-a) Le directeur général de l'institut supérieur de l'aéronautique et de l'espace ;
+a) Le directeur général de l'Institut supérieur de l'aéronautique et de l'espace ou son représentant ;
 
-b) Quatre personnalités qualifiées, désignées en raison de leur compétence dans les branches professionnelles correspondant aux activités de l'école ;
+b) Le directeur de l'Ecole nationale supérieure de techniques avancées ou son représentant ;
 
-c) Un représentant de l'association des anciens élèves de l'école ;
+c) Quatre personnalités qualifiées, désignées en raison de leur compétence dans les branches professionnelles correspondant aux activités de l'école ;
 
-d) Un représentant du conseil régional de la région Bretagne ;
+d) Le président du conseil régional de Bretagne ou son représentant ;
+
+e) Le président de l'association des anciens élèves de l'école ou son représentant ;
 
 3° Huit représentants du personnel et des étudiants :
 

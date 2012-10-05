@@ -1,14 +1,14 @@
 # Article R3411-33
 
-I. ― Le conseil d'administration de l'Ecole nationale supérieure de techniques avancées est composé de vingt-quatre membres.
+I. ― Le conseil d'administration de l'Ecole nationale supérieure de techniques avancées est composé de vingt-cinq membres.
 
 Il comprend :
 
 1° Huit représentants de l'Etat :
 
-a) Le directeur des ressources humaines de la     direction générale de l'armement, ou son représentant ;
+a) Le directeur des ressources humaines de la direction générale de l'armement, ou son représentant ;
 
-b) Un directeur de l'administration centrale de la     direction générale de l'armement, ou son représentant ;
+b) Un directeur de l'administration centrale de la direction générale de l'armement, ou son représentant ;
 
 c) Le directeur des affaires financières du ministère de la défense, ou son représentant ;
 
@@ -22,15 +22,17 @@ g) Un représentant du ministre chargé de la mer ;
 
 h) Un représentant du ministre chargé du budget.
 
-2° Huit personnalités :
+2° Neuf membres extérieurs :
 
 a) Le directeur général de l'Ecole polytechnique ou son représentant ;
 
-b) Cinq personnalités qualifiées, désignées en raison de leur compétence dans les branches professionnelles correspondant aux activités de l'école ;
+b) Le directeur de l'Ecole nationale supérieure de techniques avancées Bretagne ou son représentant ;
 
-c) Un représentant du conseil régional de la région Ile-de-France ;
+c) Cinq personnalités qualifiées, désignées en raison de leur compétence dans les branches professionnelles correspondant aux activités de l'école ;
 
-d) Un représentant de l'association des anciens élèves de l'école.
+d) Le président du conseil régional d'Ile-de-France ou son représentant ;
+
+e) Le président de l'association des anciens élèves de l'école ou son représentant.
 
 3° Huit représentants du personnel et des étudiants :
 

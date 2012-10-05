@@ -1,6 +1,6 @@
 # Article R3411-62
 
-Le président du conseil d'administration de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement est choisi parmi les personnalités qualifiées, désignées en raison de leur compétence membres du conseil. L'inspecteur de l'armement mentionné au I de l'article R. 3411-61 est vice-président du conseil d'administration.
+Le président du conseil d'administration de             l'Ecole nationale supérieure de techniques avancées Bretagne est choisi parmi les personnalités qualifiées, désignées en raison de leur compétence membres du conseil. L'inspecteur de l'armement mentionné au I de l'article R. 3411-61 est vice-président du conseil d'administration.
 
 Le président du conseil d'administration est nommé par décret pour une période de trois ans renouvelable une fois.
 
