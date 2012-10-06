@@ -1,6 +1,6 @@
 # Article D531-50
 
-La commission nationale est présidée par le directeur de l'agence. Elle comprend en outre vingt et un membres :
+La commission nationale est présidée par le directeur de l'agence. Elle comprend en outre vingt-trois membres :
 
 1° Le directeur des relations européennes et internationales et de la coopération au ministère de l'éducation nationale ou son représentant ;
 
@@ -14,7 +14,7 @@ La commission nationale est présidée par le directeur de l'agence. Elle compre
 
 6° Le directeur des Français à l'étranger et des étrangers en France au ministère des affaires étrangères ou son représentant ;
 
-7° Deux sénateurs représentant les Français établis hors de France ;
+7° Deux députés et deux sénateurs représentant les Français établis hors de France ;
 
 8° Deux membres de l'Assemblée des Français de l'étranger ;
 
