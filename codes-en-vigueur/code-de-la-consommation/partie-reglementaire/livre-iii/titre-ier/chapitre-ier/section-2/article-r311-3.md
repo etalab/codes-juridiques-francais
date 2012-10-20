@@ -1,6 +1,6 @@
 # Article R311-3
 
-I. - Pour l'application de l'article L. 311-6, le prêteur ou l'intermédiaire de crédit communique à l'emprunteur des informations concernant :
+I.-Pour l'application de l'article L. 311-6, le prêteur ou l'intermédiaire de crédit communique à l'emprunteur des informations concernant :
 
 1° L'identité et l'adresse du prêteur ainsi que, le cas échéant, l'identité et l'adresse de l'intermédiaire de crédit concerné ;
 
@@ -44,12 +44,12 @@ I. - Pour l'application de l'article L. 311-6, le prêteur ou l'intermédiaire d
 
 21° Le délai pendant lequel le prêteur est engagé par les informations précontractuelles.
 
-II. - Pour l'application du 11° du I, le prêteur tient compte du ou des éléments du crédit que l'emprunteur lui a indiqué privilégier le cas échéant, tels que la durée du contrat de crédit et le montant total du crédit.
+II.-Pour l'application du 11° du I, le prêteur tient compte du ou des éléments du crédit que l'emprunteur lui a indiqué privilégier le cas échéant, tels que la durée du contrat de crédit et le montant total du crédit.
 
 Pour le calcul du taux effectif global, si le contrat prévoit la possibilité pour l'emprunteur de disposer des sommes disponibles en vertu du contrat de crédit selon des modalités différentes assorties de frais ou de taux débiteurs différents, le prêteur précise la modalité qu'il a prise comme référence conformément à l'hypothèse figurant au 4° de l'annexe à l'article R. 313-1 et indique que les autres modalités peuvent avoir pour conséquence l'application de taux annuels effectifs globaux plus élevés.
 
-III. - Dans le cas d'un contrat de crédit en vertu duquel les échéances n'entraînent pas immédiatement un amortissement correspondant du montant total du crédit, mais servent à reconstituer le capital aux périodes et dans les conditions prévues par le contrat de crédit ou par un contrat accessoire, l'information précontractuelle indique que cette modalité d'exécution ne garantit pas le remboursement du montant total du crédit consenti, sauf si une telle garantie est donnée.
+III.-Dans le cas d'un contrat de crédit en vertu duquel les échéances n'entraînent pas immédiatement un amortissement correspondant du montant total du crédit, mais servent à reconstituer le capital aux périodes et dans les conditions prévues par le contrat de crédit ou par un contrat accessoire, l'information précontractuelle indique que cette modalité d'exécution ne garantit pas le remboursement du montant total du crédit consenti, sauf si une telle garantie est donnée.
 
-IV. - L'ensemble des informations prévues au présent article est présenté conformément à la fiche d'information mentionnée à l'article L. 311-6 annexée au présent code. Avant la remise de cette fiche, et sauf s'il apparaît manifestement que tel n'est pas le cas, le prêteur ou l'intermédiaire de crédit demande à l'emprunteur si l'opération a pour objet le remboursement d'un ou plusieurs crédits et, le cas échéant, d'autres dettes.
+IV.-L'ensemble des informations prévues au présent article est présenté conformément à la fiche d'information mentionnée à l'article L. 311-6 annexée au présent code. Avant la remise de cette fiche, et sauf s'il apparaît manifestement que tel n'est pas le cas, le prêteur ou l'intermédiaire de crédit demande à l'emprunteur si l'opération a pour objet le remboursement d'au moins deux créances antérieures dont un crédit en cours.
 
-V. - Toute information complémentaire apportée à l'emprunteur par le prêteur ou l'intermédiaire de crédit, notamment en cas d'application des règles relatives au démarchage ou celles relatives au regroupement de crédits, prévues aux articles R. 313-12 et suivants, figure sur un document distinct, qui peut être annexé à la fiche mentionnée au IV.
+V.-Toute information complémentaire apportée à l'emprunteur par le prêteur ou l'intermédiaire de crédit, notamment en cas d'application des règles relatives au démarchage ou celles relatives au regroupement de crédits, prévues aux articles R. 313-12 et suivants, figure sur un document distinct, qui peut être annexé à la fiche mentionnée au IV.
