@@ -3,3 +3,4 @@
 - [Section 1 : Crédit à la consommation](section-1)
 - [Section 2 : Crédit immobilier](section-2)
 - [Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier](section-3)
+- [Section 4 : Prêt viager hypothécaire](section-4)
