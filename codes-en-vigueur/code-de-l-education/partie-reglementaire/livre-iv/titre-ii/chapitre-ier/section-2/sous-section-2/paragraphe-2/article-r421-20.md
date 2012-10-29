@@ -12,7 +12,7 @@ En qualité d'organe délibérant de l'établissement, le conseil d'administrati
 
 a) Le budget et le compte financier de l'établissement ;
 
-b) Les tarifs des ventes des produits et de prestations de services réalisés par l'établissement ;
+b) Les tarifs des ventes des produits et de prestations de services réalisés par l'établissement, sous réserve des compétences réservées à la collectivité territoriale de rattachement en vertu du II de l'article L. 421-23 ;
 
 5° Il adopte le règlement intérieur de l'établissement ;
 
@@ -22,15 +22,19 @@ a) Les orientations relatives à la conduite du dialogue avec les parents d'él�
 
 b) Le programme de l'association sportive fonctionnant au sein de l'établissement ;
 
-c) L'adhésion à tout groupement d'établissements ou la passation des conventions dont l'établissement est signataire, à l'exception :
+c) L'adhésion à tout groupement d'établissements ;
 
-― des marchés qui figurent sur un état prévisionnel de la commande publique annexé au budget ou qui s'inscrivent dans le cadre d'une décision modificative adoptée conformément au 2° de l'article R. 421-60 ;
+d) La passation des marchés, contrats et conventions dont l'établissement est signataire, à l'exception :
 
-― en cas d'urgence, des marchés qui se rattachent à des opérations de gestion courante dont le montant est inférieur à 5 000 euros hors taxes, ou à 15 000 euros hors taxes pour les travaux et les équipements ;
+-des marchés qui s'inscrivent dans le cadre d'une décision modificative adoptée conformément au 2° de l'article R. 421-60 ;
 
-d) Les modalités de participation au plan d'action du groupement d'établissements pour la formation des adultes auquel l'établissement adhère, le programme annuel des activités de formation continue et l'adhésion de l'établissement à un groupement d'intérêt public ;
+-en cas d'urgence, des marchés qui se rattachent à des opérations de gestion courante dont le montant est inférieur à 5 000 euros hors taxes pour les services et 15 000 euros hors taxes pour les travaux et équipements ;
 
-e) La programmation et les modalités de financement des voyages scolaires ;
+-des marchés dont l'incidence financière est annuelle et pour lesquelles il a donné délégation au chef d'établissement.
+
+e) Les modalités de participation au plan d'action du groupement d'établissements pour la formation des adultes auquel l'établissement adhère, le programme annuel des activités de formation continue et l'adhésion de l'établissement à un groupement d'intérêt public ;
+
+f) La programmation et les modalités de financement des voyages scolaires ;
 
 7° Il délibère sur :
 
@@ -42,7 +46,7 @@ c) Les questions relatives à l'hygiène, à la santé, à la sécurité : le co
 
 8° Il peut définir, dans le cadre du projet d'établissement et, le cas échéant, des orientations de la collectivité territoriale de rattachement en matière de fonctionnement matériel, toutes actions particulières propres à assurer une meilleure utilisation des moyens alloués à l'établissement et une bonne adaptation à son environnement ;
 
-9° Il autorise l'acceptation des dons et legs, l'acquisition ou l'aliénation des biens ainsi que les actions à intenter ou à défendre en justice ;
+9° Il autorise l'acceptation des dons et legs, l'acquisition ou l'aliénation des biens, ainsi que les actions à intenter ou à défendre en justice et la conclusion de transactions ;
 
 10° Il peut décider la création d'un organe de concertation et de proposition sur les questions ayant trait aux relations de l'établissement avec le monde social, économique et professionnel ainsi que sur le programme de formation continue des adultes. Dans le cas où cet organe comprendrait des personnalités représentant le monde économique, il sera fait appel, à parité, à des représentants des organisations représentatives au plan départemental des employeurs et des salariés ;
 

@@ -16,8 +16,8 @@ Le compte financier comprend :
 
 Le compte financier est visé par l'ordonnateur, qui certifie que le montant des ordres de dépenses et des ordres de recettes est conforme à ses écritures.
 
-Avant l'expiration du quatrième mois suivant la clôture de l'exercice, le conseil d'administration arrête le compte financier après avoir entendu l'agent comptable.
+Avant l'expiration du quatrième mois suivant la clôture de l'exercice, le conseil d'administration arrête le compte financier après avoir entendu l'agent comptable ou son représentant et affecte le résultat.
 
 Le compte financier accompagné éventuellement des observations du conseil d'administration et de celles de l'agent comptable est transmis à la collectivité territoriale de rattachement et à l'autorité académique dans les trente jours suivant son adoption.
 
-L'agent comptable adresse le compte financier et les pièces annexes nécessaires, avant l'expiration du sixième mois suivant la clôture de l'exercice, au comptable supérieur du Trésor territorialement compétent qui, après l'avoir mis en état d'examen, le transmet à la chambre régionale des comptes avant l'expiration du dixième mois suivant la clôture de l'exercice.
+Avant l'expiration du sixième mois suivant la clôture de l'exercice, l'agent comptable adresse le compte financier et les pièces annexes nécessaires au directeur départemental des finances publiques. Sauf si le compte financier de l'établissement relève du 4° de l'article L. 211-2 du code des juridictions financières, il est transmis à la chambre régionale des comptes territorialement compétente.
