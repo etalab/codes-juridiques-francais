@@ -6,4 +6,3 @@
 - [CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes](chapitre-iv)
 - [CHAPITRE V : Dispositions relatives à la création d'entreprises et à la création d'emplois](chapitre-v)
 - [CHAPITRE VI : Placement](chapitre-vi)
-- [CHAPITRE VII : Indemnisation du chômage](chapitre-vii)
