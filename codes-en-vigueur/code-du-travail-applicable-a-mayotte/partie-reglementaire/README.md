@@ -7,4 +7,3 @@
 - [LIVRE IV : Les groupements professionnels - La représentation des salariés](livre-iv)
 - [LIVRE V : Conflits du travail](livre-v)
 - [LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail](livre-vi)
-- [LIVRE VII : Formation professionnelle](livre-vii)
