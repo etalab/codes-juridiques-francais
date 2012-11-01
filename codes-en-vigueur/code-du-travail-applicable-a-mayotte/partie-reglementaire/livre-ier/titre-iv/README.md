@@ -4,4 +4,3 @@
 - [CHAPITRE Ier : Salaire minimum interprofessionnel garanti](chapitre-ier)
 - [CHAPITRE III : Paiement du salaire](chapitre-iii)
 - [CHAPITRE V : Saisie-arrêt et cession de rémunérations dues par un employeur](chapitre-v)
-- [CHAPITRE VI : Règles particulières au contrôle et à la répartition des pourboires](chapitre-vi)
