@@ -1,6 +1,6 @@
 # Article R5522-17
 
-Lorsque l'Etat concourt à la prise en charge d'une formation au titre de l'article L. 5522-19, sont précisés dans la convention ou dans un avenant conclu ultérieurement :
+Lorsque l'Etat concourt à la prise en charge d'une formation au titre de l'article L. 5522-19, sont précisés dans      la décision d'attribution de l'aide à l'insertion professionnelle ou une décision modificatrice prise ultérieurement :
 
 1° La nature de cette formation, sa durée et les modalités de son organisation ;
 

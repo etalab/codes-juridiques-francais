@@ -1,4 +1,4 @@
-# Sous-section 1 : Convention individuelle
+# Sous-section 1 : Aide à l'insertion professionnelle
 
 - [Article R5134-26](article-r5134-26.md)
 - [Article R5134-27](article-r5134-27.md)
