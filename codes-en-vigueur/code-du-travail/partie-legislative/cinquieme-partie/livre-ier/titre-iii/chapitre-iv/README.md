@@ -6,3 +6,5 @@
 - [Section 4 : Contrat jeune en entreprise](section-4)
 - [Section 5 : Contrat initiative-emploi](section-5)
 - [Section 7 : Contrat relatif aux activités d'adultes-relais](section-7)
+- [Section 8 : Emploi d'avenir](section-8)
+- [Section 9 : Emploi d'avenir professeur](section-9)

@@ -12,4 +12,4 @@ Dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à 
 
 5° D'autres personnes déterminées par décret en Conseil d'Etat rencontrant des difficultés particulières d'accès à l'emploi.
 
-A cette fin, il comporte des actions d'accompagnement professionnel. Les actions de formation nécessaires à la réalisation du projet professionnel de la personne peuvent être mentionnées dans la convention.
+A cette fin, il comporte des actions d'accompagnement professionnel. Les actions de formation nécessaires à la réalisation du projet professionnel de la personne peuvent être mentionnées dans le contrat.

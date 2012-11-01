@@ -1,4 +1,4 @@
-# Sous-section 2 : Convention.
+# Sous-section 2 : Décision d'attribution de l'aide à l'insertion professionnelle.
 
 - [Article L5134-66](article-l5134-66.md)
 - [Article L5134-66-1](article-l5134-66-1.md)

@@ -7,3 +7,5 @@ Le contrat d'accompagnement dans l'emploi peut être suspendu, à la demande du 
 2° D'accomplir une période d'essai afférente à une offre d'emploi visant une embauche en contrat de travail à durée indéterminée ou à durée déterminée au moins égale à six mois.
 
 En cas d'embauche à l'issue de cette évaluation en milieu de travail ou de cette période d'essai, le contrat est rompu sans préavis.
+
+L'aide à l'insertion professionnelle n'est pas versée pendant la période de suspension du contrat d'accompagnement dans l'emploi.

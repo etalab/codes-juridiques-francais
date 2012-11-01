@@ -1,4 +1,4 @@
-# Titre II : Départements d'outre-mer
+# Titre II : Guadeloupe, Guyane, Martinique et La Réunion
 
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Revenu de solidarité active](chapitre-ii)
