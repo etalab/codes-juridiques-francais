@@ -2,7 +2,7 @@
 
 Les catégories de données à caractère personnel enregistrées sont les suivantes :
 
-1° Le nom de famille et, le cas échéant, le nom marital, les prénoms, le sexe et la date de naissance ;
+1° Le nom de famille et, le cas échéant, le nom d'usage, les prénoms, le sexe et la date de naissance ;
 
 2° La nationalité, sous l'une des formes suivantes :
 
@@ -24,6 +24,6 @@ Les catégories de données à caractère personnel enregistrées sont les suiva
 
 8° Le cas échéant, l'indication de la qualité de bénéficiaire de l'allocation de solidarité spécifique, de l'allocation aux adultes handicapés ou de l'allocation temporaire d'attente et la durée pendant laquelle il a bénéficié de cette allocation ;
 
-9° Le cas échéant, l'indication que le bénéficiaire déclare être reconnu en tant que travailleur handicapé ;
+9° Le cas échéant, l'indication de la reconnaissance de la qualité de bénéficiaire de l'obligation d'emploi des travailleurs handicapés, pour les personnes mentionnées à l'article L. 5212-13 ;
 
 10° Les données mentionnées aux 2°, 3° et 4° de l'article R. 5134-17.
