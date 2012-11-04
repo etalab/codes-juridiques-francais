@@ -22,4 +22,6 @@ Le règlement qui réprime une contravention peut prévoir, lorsque le coupable 
 
 10° La confiscation de l'animal ayant été utilisé pour commettre l'infraction ou à l'encontre duquel l'infraction a été commise ;
 
-11° L'interdiction, pour une durée de trois ans au plus, de détenir un animal.
+11° L'interdiction, pour une durée de trois ans au plus, de détenir un animal ;
+
+12°  Le retrait pour une durée d'un an au plus des titres de conduite en mer  des navires de plaisance à moteur et, à l'encontre de toute personne  embarquée sur un navire étranger, l'interdiction pour un an au plus de  pratiquer la navigation dans les eaux territoriales ou les eaux  intérieures maritimes françaises.

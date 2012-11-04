@@ -2,7 +2,7 @@
 
 Outre les officiers et agents de police judiciaire, sont habilités à constater les infractions aux dispositions du présent titre et aux dispositions réglementaires prises pour leur application :
 
-1° Les commandants des bâtiments de l'Etat ;
+1° Les commandants ou commandants en second des bâtiments de l'Etat et les chefs de bord des aéronefs de l'Etat ;
 
 2° Les administrateurs des affaires maritimes ;
 
@@ -16,4 +16,10 @@ Outre les officiers et agents de police judiciaire, sont habilités à constater
 
 7° Les syndics des gens de mer ;
 
-8° Les capitaines des navires à bord desquels les délits ont été commis.
+8° Le délégué à la mer et au littoral ;
+
+9° Les inspecteurs de l'environnement et les agents publics  commissionnés et assermentés des parcs nationaux, des parcs naturels  marins et des réserves naturelles marines ;
+
+10° Les agents publics commissionnés à cet effet par décision du directeur interrégional de la mer et assermentés ;
+
+11° Les capitaines des navires à bord desquels les délits ont été commis.

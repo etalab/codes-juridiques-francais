@@ -10,4 +10,4 @@ Outre les officiers et agents de police judiciaire, sont habilités à recherche
 
 4° Les techniciens experts du service de la sécurité de la navigation maritime.
 
-Les infractions réprimées par les articles L. 5242-1 à L. 5242-8 ou par les dispositions réglementaires prises pour leur application peuvent en outre être recherchées et constatées par les agents mentionnés à l'article L. 5222-1, dans les conditions prévues par l'article L. 5222-2.
+Les infractions réprimées par les articles L. 5242-1 à L. 5242-8 ou par les dispositions réglementaires prises pour leur application peuvent en outre être recherchées et constatées par les agents mentionnés à l'article L. 5222-1.
