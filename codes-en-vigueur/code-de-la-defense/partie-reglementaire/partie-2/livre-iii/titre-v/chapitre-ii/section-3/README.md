@@ -1,7 +1,7 @@
 # Section 3 : Produits explosifs destinés à un usage civil
 
 - [Sous-section 1 : Autorisation des opérations de production, transfert, importation, vente et exportation](sous-section-1)
-- [Sous-section 2 : Marquage des produits explosifs](sous-section-2)
+- [Sous-section 2 : Identification et traçabilité  des produits explosifs](sous-section-2)
 - [Sous-section 3 : Acquisition, détention et transport des produits explosifs](sous-section-3)
 - [Sous-section 4 : Utilisation des produits explosifs](sous-section-4)
 - [Sous-section 5 : Conservation des produits explosifs](sous-section-5)
