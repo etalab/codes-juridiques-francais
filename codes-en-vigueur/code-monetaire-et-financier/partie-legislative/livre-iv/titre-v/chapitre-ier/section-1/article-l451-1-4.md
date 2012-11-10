@@ -10,4 +10,4 @@ Les obligations prévues à l'article L. 451-1-2 ne s'appliquent pas aux émette
 
 4° Les émetteurs de titres de créance inconditionnellement et irrévocablement garantis par l'Etat ou par une collectivité territoriale française ;
 
-5° Les émetteurs dont des titres de créance ont une valeur nominale supérieure ou égale à 50 000 euros et dont aucun autre instrument financier mentionné aux I et II de l'article L. 451-1-2 n'est admis aux négociations sur un marché réglementé.
+5° Les entités qui émettent uniquement des titres de créance admis à la négociation sur un marché réglementé, dont la valeur nominale unitaire est au moins égale à 100 000 € ou, pour les titres de créance libellés dans une devise autre que l'euro, dont la valeur nominale unitaire est équivalente à au moins 100 000 € à la date de l'émission.
