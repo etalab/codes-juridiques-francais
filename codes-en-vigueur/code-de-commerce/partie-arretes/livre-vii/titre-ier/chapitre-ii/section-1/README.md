@@ -9,6 +9,5 @@
 - [Article A712-13](article-a712-13.md)
 - [Article A712-14](article-a712-14.md)
 - [Article A712-15](article-a712-15.md)
-- [Article A712-16](article-a712-16.md)
 - [Article A712-17](article-a712-17.md)
 - [Article A712-18](article-a712-18.md)
