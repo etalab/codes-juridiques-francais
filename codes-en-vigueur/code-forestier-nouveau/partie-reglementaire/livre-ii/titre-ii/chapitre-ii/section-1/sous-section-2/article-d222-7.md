@@ -4,7 +4,7 @@ Le conseil d'administration délibère sur les matières suivantes :
 
 1° Les programmes généraux d'activité et d'investissement, le contrat pluriannuel passé avec l'Etat, les programmes d'action pluriannuels de l'établissement ainsi que les moyens nécessaires à la mise en œuvre de ces actions ;
 
-2° L'état de prévision des recettes et des dépenses et les modifications à lui apporter ;
+2°         Le budget et les modifications à lui apporter ;
 
 3° Le compte financier ;
 

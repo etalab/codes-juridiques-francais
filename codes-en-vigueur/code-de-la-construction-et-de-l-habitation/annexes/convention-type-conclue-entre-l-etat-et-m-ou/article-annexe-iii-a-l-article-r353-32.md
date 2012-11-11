@@ -56,7 +56,7 @@ En application de l'article L. 353-2 dudit code, en cas de non-respect de ses ob
 
 Dans le cas de non-respect du quota pour reprise pour occupation personnelle, le bailleur s'engage à verser au fonds national de l'habitation une somme correspondante, pour chacun des logements indûment occupés, au loyer maximum dû pour toute la durée de l'infraction.
 
-En cas de défaut de versement de la somme visée aux alinéas 2 et 3 du présent article, leur recouvrement sera opéré dans les conditions prévues par les décrets n° 62-1587 du 29 décembre 1962 et n° 63-608 du 24 juin 1963 modifié.
+En cas de défaut de versement de la somme visée aux alinéas 2 et 3 du présent article, leur recouvrement sera opéré dans les conditions prévues par le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Article 7.
 

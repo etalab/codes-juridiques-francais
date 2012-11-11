@@ -4,6 +4,6 @@ La communication des pièces justificatives détenues par la Cour des comptes pe
 
 Cette communication est effectuée soit sur place dans les locaux de la juridiction, soit par envoi de photocopies, soit par envoi des pièces originales. Dans ce dernier cas, le président de la chambre décide la communication et fixe le délai de réintégration des pièces ; dans les autres cas, le secrétaire général fixe les modalités de communication des pièces.
 
-Les pièces justificatives afférentes aux comptes arrêtés par les trésoriers-payeurs généraux peuvent être communiquées par ces comptables aux personnes ou juridictions visées au premier alinéa du présent article ; les conditions de cette communication sont précisées par instruction du ministre chargé du budget.
+Les pièces justificatives afférentes aux comptes arrêtés par les   directeurs départementaux ou, le cas échéant, régionaux des finances publiques  peuvent être communiquées par ces comptables aux personnes ou juridictions visées au premier alinéa du présent article ; les conditions de cette communication sont précisées par instruction du ministre chargé du budget.
 
 Les communications, quelles qu'en soient les formes, s'effectuent aux frais du demandeur.

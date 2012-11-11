@@ -166,7 +166,7 @@ En application de l'article L. 353-2 dudit code, en cas de non-respect par lui-m
 
 En cas de non-versement au fonds national de l'habitation de la contribution prévue à l'article 7 de la présente convention et après mise en demeure restée sans effet, une somme de ... p. 100 du montant de la contribution est payable par mois de retard.
 
-En cas de défaut de versement des sommes visées au deuxième et troisième alinéas du présent article, leur recouvrement sera opéré dans les conditions prévues par les décrets n° 62-1587 du 29 décembre 1962 et n° 63-608 du 24 juin 1963 modifié.
+En cas de défaut de versement des sommes visées au deuxième et troisième alinéas du présent article, leur recouvrement sera opéré dans les conditions prévues par le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Article 9.
 
