@@ -1,12 +1,12 @@
 # Article R121-20
 
-Le directeur général est nommé par décret sur proposition des ministres de tutelle.
+Le directeur général est nommé par décret sur proposition du ministre de tutelle.
 
 Il assure la gestion et la conduite générale de l'agence, il la représente en justice et dans tous les actes de la vie civile. Il est ordonnateur des recettes et des dépenses de l'agence. Il recrute le personnel placé sous son autorité. Il passe les actes, contrats ou marchés et conclut les transactions nécessaires au bon fonctionnement de l'agence.
 
 Il prépare les séances du conseil d'administration. Il exécute ses délibérations et lui rend compte, à chaque réunion, de l'activité de l'agence et des décisions prises sur le fondement des délégations qu'il a reçues.
 
-Il signe les conventions mentionnées aux quatrième et cinquième alinéas de l'article L. 121-14 du code de l'action sociale et des familles, à l'exception de celles mentionnées au dernier alinéa de l'article L. 121-15.
+Il signe les conventions mentionnées au quatrième alinéa de l'article L. 121-14, à l'exception de celles mentionnées au dernier alinéa de l'article L. 121-15.
 
 Il décide des concours financiers dont le montant est inférieur au seuil mentionné au 8° de l'article R. 121-17.
 

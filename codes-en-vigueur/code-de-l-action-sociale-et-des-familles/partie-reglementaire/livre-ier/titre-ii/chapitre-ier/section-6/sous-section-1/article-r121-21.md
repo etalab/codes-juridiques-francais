@@ -2,6 +2,8 @@
 
 Le représentant de l'Etat dans la région, le département et la collectivité territoriale de Corse est le délégué territorial de l'agence pour son action dans la collectivité, notamment dans les conditions fixées à l'article L. 121-15 et à l'article 59-2 du décret n° 2004-374 du 29 avril 2004 modifié relatif aux pouvoirs des préfets, à l'organisation et à l'action de l'Etat dans les régions et départements.
 
+Le représentant de l'Etat dans les départements d'outre-mer, à Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna est le délégué territorial de l'agence pour son action dans la collectivité.
+
 En outre, le représentant de l'Etat, en qualité de délégué territorial, est l'ordonnateur secondaire pour les programmes d'intervention et les crédits qui lui sont délégués par le directeur général.
 
 Le délégué assure l'instruction des demandes de financement et des dossiers de convention. Il attribue les subventions allouées par l'agence et signe avec la personne bénéficiaire les conventions dont ces subventions sont assorties.

@@ -8,24 +8,22 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 3° Il autorise les emprunts, dans les limites d'un plafond fixé par décret ;
 
-4° Il délibère sur le projet de contrat pluriannuel d'objectifs et de moyens conclu avec l'Etat ;
+4° Il délibère sur le projet de contrat pluriannuel d'objectifs et de performance conclu avec l'Etat ;
 
 5° Il fixe les programmes pluriannuels et annuels des interventions de l'agence ;
 
 6° Il détermine la part des crédits destinés aux concours financiers qu'il attribue au niveau national et celle destinée au niveau territorial ;
 
-7° Il approuve la répartition des dotations financières que le directeur général délègue aux délégués de l'agence         ;
+7° Il approuve la répartition des dotations financières que le directeur général délègue aux délégués de l'agence ;
 
 8° Il approuve les concours financiers attribués au niveau national et dont le montant est supérieur à un seuil fixé par arrêté ministériel conjoint du ministre chargé du budget et des ministres de tutelle ;
 
-9° Il est tenu informé, lors de chacune de ses réunions, des conventions pluriannuelles mentionnées aux alinéas 4 et 5 de l'article L. 121-14 du code de l'action sociale et des familles signées au nom de l'agence depuis sa dernière réunion ;
+9° Il est tenu informé, lors de chacune de ses réunions, des conventions pluriannuelles mentionnées au quatrième alinéa de l'article L. 121-14 signées au nom de l'agence depuis sa dernière réunion ;
 
 10° Il approuve les transactions et accepte les dons et legs ;
 
-11° Il délivre les agréments de service civil volontaire dans des conditions prévues à l'article L. 121-19 ;
+11° Il délibère sur le rapport annuel d'activité présenté par le directeur général qui retrace l'exécution du programme de subventions et d'interventions ainsi que la gestion de l'établissement ;
 
-12° Il délibère sur le rapport annuel d'activité présenté par le directeur général qui retrace l'exécution du programme de subventions et d'interventions ainsi que la gestion de l'établissement ;
+12° Il autorise les programmes d'actions de l'agence au titre de ses relations internationales.
 
-13° Il autorise les programmes d'actions de l'agence au titre de ses relations internationales.
-
-Le conseil d'administration peut déléguer au directeur général de l'agence les compétences prévues aux 7°, 10° et 11° du présent article, dans des conditions et limites qu'il détermine.
+Le conseil d'administration peut déléguer au directeur général de l'agence les compétences prévues aux 7° et 10° du présent article, dans des conditions et limites qu'il détermine.

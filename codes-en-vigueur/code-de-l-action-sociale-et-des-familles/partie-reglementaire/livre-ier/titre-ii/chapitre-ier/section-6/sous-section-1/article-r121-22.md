@@ -1,6 +1,6 @@
 # Article R121-22
 
-Le délégué de l'agence dans chaque région ou en Corse assure la coordination de l'action des délégués départementaux et veille à la mise en œuvre par ceux-ci des orientations définies par le conseil d'administration de l'agence et des instructions fixées par le directeur général.
+Le délégué de l'agence dans chaque région métropolitaine, y compris en Corse, assure la coordination de l'action des délégués départementaux et veille à la mise en œuvre par ceux-ci des orientations définies par le conseil d'administration de l'agence et des instructions fixées par le directeur général.
 
 A ce titre :
 
