@@ -5,3 +5,4 @@
 - [Section 3 : Dispositions relatives à l'euro à Mayotte, à Saint-Barthélemy et à Saint-Pierre-et-Miquelon](section-3)
 - [Section 4 : Dispositions communes à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon et à Mayotte](section-4)
 - [Section 5](section-5)
+- [Section 6 :  Des tarifs des services bancaires de base](section-6)

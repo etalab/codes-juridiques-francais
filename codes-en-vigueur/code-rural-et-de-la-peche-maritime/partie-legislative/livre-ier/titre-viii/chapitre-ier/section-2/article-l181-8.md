@@ -6,7 +6,7 @@ L'Etat confie le suivi des opérations d'aménagement et de remise en état des 
 
 A cet effet, ces sociétés deviennent cessionnaires en propriété des terres expropriées dans des conditions définies par décret en Conseil Etat.
 
-En vue d'assurer la pérennité de la remise en valeur des terres, en cas de retour à l'inculture ou à la sous-exploitation manifeste de terres qui ont fait l'objet d'une autorisation d'exploiter en application de l'article L. 181-5, le préfet peut, dans un délai fixé par décret, sans reprendre la procédure prévue à la présente section, procéder à leur expropriation pour cause d'utilité publique conformément aux dispositions du présent article.
+En vue d'assurer la pérennité de la remise en valeur des terres, en cas de retour à l'inculture ou à la sous-exploitation manifeste de terres qui ont fait l'objet d'une autorisation d'exploiter en application de l'article L. 181-6, le préfet peut, dans un délai fixé par décret, sans reprendre la procédure prévue à la présente section, procéder à leur expropriation pour cause d'utilité publique conformément aux dispositions du présent article.
 
 Le préfet peut également, dans le délai de dix ans à partir du constat d'inculture dressé par la commission visée à l'article L. 121-8, procéder à l'expropriation pour cause d'utilité publique de terres dont la mise en valeur intervenue en dehors du cadre de l'autorisation d'exploiter a été interrompue.
 
