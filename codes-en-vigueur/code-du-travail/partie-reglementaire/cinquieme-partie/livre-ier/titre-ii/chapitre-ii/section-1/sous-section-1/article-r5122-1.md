@@ -1,6 +1,6 @@
 # Article R5122-1
 
-L'allocation spécifique de chômage partiel prévue à l'article L. 5122-1 peut être attribuée aux salariés des entreprises qui sont contraintes de réduire ou suspendre temporairement leur activité pour l'une des raisons suivantes :
+L'employeur peut placer ses salariés en position de chômage partiel lorsque l'entreprise est contrainte de réduire ou de suspendre temporairement son activité pour l'un des motifs suivants :
 
 1° La conjoncture économique ;
 
