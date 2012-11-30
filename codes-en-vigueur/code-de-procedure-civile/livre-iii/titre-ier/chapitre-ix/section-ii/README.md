@@ -21,5 +21,6 @@
 - [Article 1198](article-1198.md)
 - [Article 1199](article-1199.md)
 - [Article 1199-1](article-1199-1.md)
+- [Article 1199-2](article-1199-2.md)
 - [Article 1200](article-1200.md)
 - [Article 1200-1](article-1200-1.md)
