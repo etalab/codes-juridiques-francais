@@ -2,3 +2,4 @@
 
 - [CHAPITRE Ier : Dispositions générales](chapitre-ier)
 - [CHAPITRE UNIQUE](chapitre-unique)
+- [CHAPITRE II : La coopération intercommunale](chapitre-ii)
