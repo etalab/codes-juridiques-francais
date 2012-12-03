@@ -14,7 +14,7 @@ Est puni de la peine d'amende prévue pour les contraventions de la troisième c
 
 6° Pour tout propriétaire ou détenteur d'équidé présenté à l'abattoir, de n'avoir pas remis à l'exploitant ou au gestionnaire de l'abattoir, lorsqu'il est exigible, le document d'identification de l'équidé ou son attestation d'identification ;
 
-7° Pour tout exploitant ou gestionnaire d'abattoir d'abattre un équidé non identifié, sauf dans le cas prévu au 2° du V de l'article D. 212-53 ;
+7° Pour tout exploitant ou gestionnaire d'abattoir d'abattre un équidé non identifié, sauf si son abattage est autorisé en application du II de l'article L. 221-4 ou en application de l'article D. 212-57 ;
 
 8° Détenir un équidé sevré non identifié ;
 
@@ -24,6 +24,8 @@ Est puni de la peine d'amende prévue pour les contraventions de la troisième c
 
 11° Pour tout détenteur de faire circuler un équidé non identifié ;
 
-12° Pour toute personne détenant un ou plusieurs équidés domestiques, de ne pas se déclarer conformément aux dispositions de l'article D. 212-50-1 ou de ne pas signaler, conformément aux dispositions de l'article D. 212-50-2, toute modification des informations déclarées ;
+12° Pour toute personne détenant un ou plusieurs équidés domestiques, de ne pas se déclarer conformément aux dispositions de l'article D. 212-47 ou de ne pas signaler, conformément aux dispositions de l'article D. 212-48, toute modification des informations déclarées ;
 
-13° Pour toute personne responsable d'un établissement d'équarrissage, de ne pas avoir respecté ses obligations prévues au 3° du V de l'article D. 212-53.
+13° Pour toute personne responsable d'un établissement d'équarrissage, de ne pas avoir respecté ses obligations prévues en application des a, b et c du paragraphe 1 de l'article 19 du règlement (CE) n° 504/2008 de la Commission du 6 juin 2008.
+
+.
