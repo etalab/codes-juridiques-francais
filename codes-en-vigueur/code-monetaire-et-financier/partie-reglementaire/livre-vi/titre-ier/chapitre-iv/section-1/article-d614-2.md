@@ -1,6 +1,6 @@
 # Article D614-2
 
-I. - Le comité consultatif de la législation et de la réglementation financières est présidé par le ministre chargé de l'économie ou son représentant. Le comité comprend quatorze autres membres :
+I. - Le comité consultatif de la législation et de la réglementation financières est présidé par le ministre chargé de l'économie ou son représentant. Le comité comprend dix-sept autres membres :
 
 1° Un député, désigné par le président de l'Assemblée nationale ;
 
@@ -12,9 +12,11 @@ I. - Le comité consultatif de la législation et de la réglementation financi�
 
 5° Le directeur des affaires civiles et du sceau au ministère de la justice, ou son représentant ;
 
-6° Deux représentants des établissements de crédit et des entreprises d'investissement ;
+5° bis Le directeur de la sécurité sociale ou son représentant ;
 
-7° Deux représentants des sociétés d'assurance régies par le code des assurances ;
+6° Trois représentants des établissements de crédit et des entreprises d'investissement ;
+
+7° Trois représentants des organismes d'assurance ;
 
 8° Un représentant des organisations syndicales représentatives au plan national du personnel des secteurs bancaire et de l'assurance, et des entreprises d'investissement ;
 
@@ -28,7 +30,7 @@ Les membres désignés aux 1° et 2° participent aux travaux du comité lorsque
 
 Les membres du comité désignés aux 1°, 2°, 3°, 6°, 7°, 8°, 9° et 10° et leurs suppléants sont nommés par arrêté du ministre chargé de l'économie.
 
-II. - Le comité consultatif de la législation et de la réglementation financières dispose d'un secrétariat général dirigé par un secrétaire général nommé par arrêté du ministre chargé de l'économie. Le secrétaire général est assisté de deux secrétaires généraux adjoints nommés dans les mêmes conditions.
+II. - Le comité consultatif de la législation et de la réglementation financières dispose d'un secrétariat général dirigé par un secrétaire général nommé par arrêté du ministre chargé de l'économie. Le secrétaire général est assisté d'un secrétaire général adjoint nommé dans les mêmes conditions.
 
 III. - Le comité se réunit sur convocation de son président. Il ne peut délibérer que sur les questions inscrites à l'ordre du jour annexé à la convocation. En cas de partage égal des voix, celle du président est prépondérante.
 
