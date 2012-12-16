@@ -8,10 +8,10 @@ Le collège national de la direction générale des finances publiques mentionn�
 
 ― du chef du service juridique de la fiscalité ou de son représentant ;
 
-― du          chef du service du contrôle fiscal ou de son représentant ;
+― du chef du service du contrôle fiscal ou de son représentant ;
 
 ― du directeur en charge de la direction des vérifications nationales et internationales ou de son représentant ;
 
-― du chef des services fiscaux ou de l'administrateur général des finances publiques de la direction nationale de vérification des situations fiscales personnelles ou de son représentant.
+― du directeur en charge de la direction nationale de vérification des situations fiscales personnelles ou de son représentant.
 
-Chaque représentant a au moins le grade d'administrateur des finances publiques adjoint  ou un grade équivalent.
+Chaque représentant a au moins le grade d'administrateur des finances publiques adjoint ou un grade équivalent.
