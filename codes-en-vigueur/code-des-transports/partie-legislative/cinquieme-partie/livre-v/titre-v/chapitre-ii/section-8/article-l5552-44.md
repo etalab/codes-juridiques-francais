@@ -1,6 +1,7 @@
 # Article L5552-44
 
-Sous réserve des dispositions des articles L. 5552-7, L. 5552-10, L. 5552-31 et L. 5552-38, les pensions sont définitivement acquises et ne peuvent être révisées ou supprimées que dans les conditions suivantes :
+Sous réserve des dispositions des articles L. 5552-7,
+L. 5552-10,  L. 5552-31, L. 5552-36, L. 5552-37 et L. 5552-38, les pensions sont définitivement acquises et ne peuvent être révisées ou supprimées que dans les conditions suivantes :
 
 1° A tout moment, en cas d'erreur matérielle ;
 

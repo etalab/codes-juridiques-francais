@@ -6,7 +6,7 @@ Les employeurs détachant temporairement des salariés sur le territoire nationa
 
 2° Discriminations et égalité professionnelle entre les femmes et les hommes ;
 
-3° Protection de la maternité, congés de maternité et de paternité, congés pour événements familiaux ;
+3° Protection de la maternité, congés de maternité et de paternité et d'accueil de l'enfant, congés pour événements familiaux ;
 
 4° Conditions de mise à disposition et garanties dues aux salariés par les entreprises exerçant une activité de travail temporaire ;
 
