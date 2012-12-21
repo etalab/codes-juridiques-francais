@@ -12,12 +12,12 @@ b) tables établies ou non par sexe par l'institution ou l'union et certifiées 
 
 Les tables mentionnées au b sont établies d'après des données d'expérience de l'institution ou de l'union, ou des données d'expérience démographiquement équivalentes.
 
-Lorsque les tarifs sont établis d'après des tables mentionnées au a, et dès lors qu'est retenue une table unique pour tous les membres participants, celle-ci correspond à la table appropriée conduisant au tarif le plus prudent.
+Lorsque les tarifs sont établis d'après des tables mentionnées au a, et dès lors qu'est retenue une table unique pour tous les membres participants, celle-ci correspond à la table par sexe appropriée conduisant au tarif le plus prudent.
 
 Pour les contrats en cas de vie autres que les contrats de rente viagère, les tables mentionnées au a sont utilisées en corrigeant l'âge du membre participant conformément aux décalages d'âge ci-annexés.
 
-Ces décalages d'âge sont appliqués de telle sorte que chaque taux de mortalité annuel à un âge donné soit égal au taux de mortalité annuel à l'âge ayant subi le décalage dans la table appropriée.
+Ces décalages d'âge sont appliqués de telle sorte que chaque taux de mortalité annuel à un âge donné soit égal au taux de mortalité annuel à l'âge ayant subi le décalage dans la table par sexe appropriée.
 
-Pour les rentes viagères, en ce compris celles revêtant un caractère temporaire, et à l'exception des contrats relevant de la section 9 du chapitre II du titre III du livre IX, les tarifs et les provisions techniques déterminés en utilisant les tables mentionnées au b ne peuvent être inférieurs à ceux qui résulteraient de l'utilisation des tables appropriées mentionnées au a.
+Pour les rentes viagères, en ce compris celles revêtant un caractère temporaire, et à l'exception des contrats relevant de la section 9 du chapitre II du titre III du livre IX, les tarifs et les provisions techniques déterminés en utilisant les tables mentionnées au b ne peuvent être inférieurs à ceux qui résulteraient de l'utilisation des tables par sexe appropriées mentionnées au a.
 
 Pour l'élaboration des tarifs des opérations collectives en cas de décès résiliables annuellement, l'institution ou l'union peut utiliser les tables mentionnées au a avec une méthode forfaitaire dès lors que celle-ci est justifiable.
