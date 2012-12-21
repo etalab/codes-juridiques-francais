@@ -2,7 +2,7 @@
 
 La demande de carte de stationnement pour personnes handicapées, instituée par l'article L. 241-3-2, est adressée :
 
-1° Soit à la maison départementale des personnes handicapées prévue à l'article L. 146-3 du département de résidence du demandeur ;
+1° Soit à la maison départementale des personnes handicapées compétente dans les conditions prévues à l'article L. 146-3 du présent code ;
 
 2° Soit, pour les personnes relevant du code des pensions militaires d'invalidité et de victimes de la guerre, au service départemental de l'Office national des anciens combattants et victimes de guerre de son lieu de résidence.
 

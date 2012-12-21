@@ -1,12 +1,12 @@
 # Article R241-28
 
-Conformément aux dispositions prévues au sixième alinéa de l'article L. 241-5, la commission peut décider de constituer une ou plusieurs formations comprenant au minimum trois de ses membres ayant voix délibérative, au nombre desquels figurent au moins un représentant du département et un représentant de l'Etat, à laquelle elle peut déléguer le pouvoir de prendre en son nom tout ou partie des décisions dans les matières suivantes :
+La commission peut décider de constituer une ou plusieurs formations restreintes composées au minimum de trois membres ayant voix délibérative, au nombre desquels figurent au moins un représentant du département, au moins un représentant de l'Etat, et pour au moins un tiers, des représentants des personnes handicapées et de leurs familles désignés par les membres de la commission mentionnés au 6° de l'article R. 241-24, Ces formations peuvent prendre tout ou partie des décisions dans les matières suivantes :
 
 1° Renouvellement d'un droit ou d'une prestation dont bénéficie une personne handicapée lorsque son handicap ou sa situation n'a pas évolué de façon significative ;
 
 2° Reconnaissance des conditions prévues au 2° de l'article L. 381-1 du code de la sécurité sociale ;
 
-3° Attribution de la carte d'invalidité ou de la carte portant la mention "Priorité pour personnes handicapées", mentionnées respectivement aux articles L. 241-3 et L. 241-3-1 du présent code ;
+3° Attribution de la carte d'invalidité ou de la carte portant la mention " Priorité pour personnes handicapées ", mentionnées respectivement aux articles L. 241-3 et L. 241-3-1 du présent code ;
 
 4° Reconnaissance de la qualité de travailleur handicapé répondant aux conditions définies par l'article L. 323-10 du code du travail ;
 

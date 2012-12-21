@@ -12,4 +12,6 @@ Le préfet délivre la carte de stationnement pour personnes handicapées confor
 
 La carte de stationnement pour personnes handicapées est attribuée à titre définitif ou pour une durée déterminée ne pouvant être inférieure à un an.
 
+A défaut de réponse dans un délai de deux mois à compter de la date où la demande est recevable en application des dispositions de l'article R. 146-26 du présent code, la carte de stationnement est attribuée à titre provisoire, pour une durée de deux ans. Cette carte peut être retirée à tout instant s'il est établi que son bénéficiaire ne répond pas aux conditions d'attribution prévues à l'alinéa suivant.
+
 Un arrêté des ministres chargés des personnes handicapées et des anciens combattants définit les modalités d'appréciation d'une mobilité pédestre réduite et de la perte d'autonomie dans le déplacement individuel, en tenant compte notamment de la limitation du périmètre de marche de la personne ou de la nécessité pour celle-ci de recourir systématiquement à certaines aides techniques ou à une aide humaine lors de tous ses déplacements à l'extérieur.
