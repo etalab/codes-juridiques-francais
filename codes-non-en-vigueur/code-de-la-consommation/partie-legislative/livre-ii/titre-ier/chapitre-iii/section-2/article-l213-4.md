@@ -6,11 +6,11 @@ Seront punis d'une amende de 4500 euros et d'un emprisonnement de trois mois au 
 
 2° Soit de denrées servant à l'alimentation de l'homme ou des animaux, de boissons, de produits agricoles ou naturels qu'ils savaient être falsifiés, corrompus ou toxiques ;
 
-3° Soit de substances médicamenteuses falsifiées ;
+3° (Abrogé) ;
 
 4° Soit de produits, objets ou appareils propres à effectuer la falsification des denrées servant à l'alimentation de l'homme ou des animaux, des boissons ou des produits agricoles ou naturels.
 
-Si la substance alimentaire falsifiée ou corrompue ou si la substance médicamenteuse falsifiée est nuisible à la santé de l'homme ou de l'animal, l'emprisonnement sera de deux ans et l'amende de 37500 euros.
+Si la substance alimentaire falsifiée ou corrompue est nuisible à la santé de l'homme ou de l'animal, l'emprisonnement sera de deux ans et l'amende de 37500 euros.
 
 Les dispositions du présent article ne sont pas applicables aux fruits frais et légumes frais, fermentés ou corrompus.
 
