@@ -31,3 +31,5 @@ f) PCd représente le nombre de personnes bénéficiaires, dans le département,
 g) PFd représente, pour ce département, le potentiel fiscal de l'année au titre de laquelle la répartition est effectuée, tel que défini à l'article L. 3334-6 du code général des collectivités territoriales.
 
 Le montant du concours attribué à un département est égal à la fraction attribuée à ce département en application de la formule définie ci-dessus, par rapport au montant total du concours afférent à la prestation de compensation.
+
+Ce montant ne peut être supérieur au montant de la dépense de prestation de compensation du département.

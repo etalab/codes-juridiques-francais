@@ -8,9 +8,9 @@ Le montant du concours mentionné au II de l'article L. 14-10-5 et à l'article 
 
 - du potentiel fiscal, pour 25 % ;
 
-- du nombre de bénéficiaires de l'allocation de revenu minimum d'insertion, pour 5 %, selon la formule suivante :
+- du nombre de foyers bénéficiaires du revenu de solidarité active, dont les ressources sont inférieures au montant forfaitaire mentionné au 2° de l'article L. 262-2, à l'exception de ceux ouvrant droit à la majoration prévue à l'article L. 262-9, pour 5 %, selon la formule suivante :
 
-Fd = (PAd/S  PAd) x 50 % + (Dd/Dd)S  x 20 %) - (PFd/S PFd) x 25 % +  (RMI d/S RMId) x 5 %
+Fd = [(PAd/ ∑ PAd) × 50 % + (Dd/ ∑ Dd) × 20 % - (PFd/ ∑ PFd) × 25 % + (RSA d/ ∑ RSAd) × 5 %] × 2
 
 dans laquelle :
 
@@ -22,7 +22,7 @@ c) Dd représente les dépenses d'allocation personnalisée d'autonomie réalis�
 
 d) PFd représente, pour ce département, le potentiel fiscal de l'année précédant l'année au titre de laquelle la répartition est effectuée, tel que défini à l'article L. 3334-6 du code général des collectivités territoriales ;
 
-e) RMId représente le nombre de bénéficiaires de l'allocation de revenu minimum d'insertion depuis plus de trois mois, résidant dans ce département, de l'année précédant celle au titre de laquelle la répartition est effectuée, publié par la Caisse nationale des allocations familiales et la Caisse centrale de la mutualité sociale agricole.
+e) RSAd représente le nombre de foyers bénéficiaires du revenu de solidarité active, dont les ressources sont inférieures au montant forfaitaire mentionné au 2° de l'article L. 262-2, à l'exception de ceux ouvrant droit à la majoration prévue à l'article L. 262-9, résidant dans ce département au 31 décembre de l'année au titre de laquelle la répartition est effectuée.
 
 Le montant attribué à un département est égal à la fraction attribuée à ce département en application du calcul ci-dessus, rapportée à la somme des fractions et multipliée par le montant total des concours.
 
