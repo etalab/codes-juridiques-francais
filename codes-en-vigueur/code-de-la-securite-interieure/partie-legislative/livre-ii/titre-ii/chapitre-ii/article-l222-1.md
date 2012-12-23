@@ -22,4 +22,4 @@ Un arrêté du ministre de l'intérieur et du ministre de la défense détermine
 
 Un arrêté du ministre de l'intérieur désigne les services de renseignement du ministère de l'intérieur spécialement chargés de la prévention des atteintes à l'indépendance de la Nation, à l'intégrité de son territoire, à sa sécurité, à la forme républicaine de ses institutions, aux moyens de sa défense et de sa diplomatie, à la sauvegarde de sa population en France et à l'étranger et aux éléments essentiels de son potentiel scientifique.
 
-Les dispositions du présent article sont applicables jusqu'au 31 décembre 2012.
+Les dispositions du présent article sont applicables jusqu'au 31 décembre 2015.
