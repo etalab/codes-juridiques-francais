@@ -1,41 +1,43 @@
 # Article 18
 
-Pour l'année 2012, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires, pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme suit :
+Pour l'année 2013, les limites de chaque tranche du tarif de la retenue à la source applicable aux traitements, salaires, pensions et rentes viagères servis à des personnes qui ne sont pas fiscalement domiciliées en France sont fixées comme suit :
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>
-</th>
-<th colspan="5">
-<br/>LIMITE DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS <br/>
-</th>
+<td/>
+<td colspan="5">
+<p align="center">LIMITE DES TRANCHES SELON LA PÉRIODE À LAQUELLE SE RAPPORTENT LES PAIEMENTS </p>
+</td>
 </tr>
 <tr>
-<th>
-<br/>Taux applicables <br/>
-</th>
-<th>
-<br/>Année <p>(en euros) <br/>
+<td>
+<p align="center"> Taux applicables </p>
+</td>
+<td>
+<p align="center"> Année </p>
+<p align="center">(en euros) <br/>
 </p>
-</th>
-<th>
-<br/>Trimestre <p>(en euros) <br/>
+</td>
+<td>
+<p align="center"> Trimestre </p>
+<p align="center">(en euros) <br/>
 </p>
-</th>
-<th>
-<br/>Mois <p>(en euros) <br/>
+</td>
+<td>
+<p align="center"> Mois </p>
+<p align="center">(en euros) <br/>
 </p>
-</th>
-<th>
-<br/>Semaine <p>(en euros) <br/>
+</td>
+<td>
+<p align="center"> Semaine </p>
+<p align="center">(en euros) <br/>
 </p>
-</th>
-<th>
-<br/>Jour ou fraction de jour <p>(en euros) <br/>
-</p>
-</th>
+</td>
+<td>
+<p align="center"> Jour ou fraction de jour </p>
+<p align="center">(en euros) </p>
+</td>
 </tr>
 <tr>
 <td align="center">
