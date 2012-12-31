@@ -4,7 +4,7 @@ Les praticiens-conseils et les médecins-conseils chefs de service exercent leur
 
 Les praticiens-conseils et les médecins-conseils chefs de service exerçant leurs fonctions à temps plein sont tenus de consacrer à leurs fonctions la totalité de leur activité professionnelle ; cette disposition ne s'applique pas aux fonctions officielles d'enseignement de la médecine et de la chirurgie dentaire.
 
-Les praticiens-conseils et les médecins-conseils chefs de service occupés à temps partiel ne peuvent exercer simultanément la médecine libérale ou la fonction de médecin du travail dans la même circonscription de la caisse.
+Les praticiens-conseils et les médecins-conseils chefs de service occupés à temps partiel ne peuvent exercer simultanément, sur un même département, ni la médecine libérale ni la fonction de médecin du travail.
 
 Les praticiens-conseils et les médecins-conseils chefs de service à temps partiel ne peuvent cumuler leur fonction avec celle d'expert judiciaire ou de praticien d'une compagnie d'assurances.
 
