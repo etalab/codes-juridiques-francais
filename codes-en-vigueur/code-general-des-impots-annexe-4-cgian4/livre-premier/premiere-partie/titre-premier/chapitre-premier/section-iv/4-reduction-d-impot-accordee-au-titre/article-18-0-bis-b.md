@@ -1,4 +1,4 @@
-# Article 18-0 ter
+# Article 18-0 bis B
 
 I.-Pour l'application de l'article 199 septvicies et du dernier alinéa du h du 1° du I de l'article 31 du code général des impôts, les communes se caractérisant par un déséquilibre entre l'offre et la demande de logements s'entendent de celles classées dans les zones A, B1 et B2 délimitées conformément à l'annexe à l'arrêté du 29 avril 2009 relatif au classement des communes par zone applicable à certaines aides au logement.
 
