@@ -6,7 +6,7 @@ Sont obligatoires pour le département :
 
 2° Les dépenses relatives aux indemnités de fonction prévues aux articles L. 3123-15 à L. 3123-18 et aux frais de formation des élus visés à l'article L. 3123-12 ainsi que les cotisations au fonds institué par l'article L. 1621-2 ;
 
-3° Les cotisations au régime général de la sécurité sociale en application de l'article L. 3123-20-2 et les cotisations aux régimes de retraites des élus en application des articles L. 3123-21 à L. 3123-24 ;
+3° Les cotisations au régime général de la sécurité sociale en application de l'article L. 3123-20-2 et les cotisations aux régimes de retraites des élus en application des articles L. 3123-22 à L. 3123-24 ;
 
 4° La cotisation au Centre national de la fonction publique territoriale ;
 
@@ -46,6 +46,8 @@ Sont obligatoires pour le département :
 
 20° Les dotations aux provisions ;
 
-21° La reprise des subventions d'équipement reçues.
+21° La reprise des subventions d'équipement reçues ;
+
+22° La contribution prévue à l'article 6 quater de la loi n° 83-634 du 13 juillet 1983 précitée.
 
 Un décret détermine les modalités d'application des dispositions des 19°, 20° et 21°.

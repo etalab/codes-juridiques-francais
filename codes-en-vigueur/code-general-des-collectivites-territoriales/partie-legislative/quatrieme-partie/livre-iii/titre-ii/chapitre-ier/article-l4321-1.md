@@ -6,7 +6,7 @@ Sont obligatoires pour la région :
 
 2° Les dépenses relatives aux indemnités de fonction prévues aux articles L. 4135-15 à L. 4135-18 et aux frais de formation des élus visés à l'article L. 4135-12 ainsi que les cotisations des régions au fonds institué par l'article L. 1621-2 ;
 
-3° Les cotisations au régime général de la sécurité sociale en application de l'article L. 4135-20-2 et aux régimes de retraites des élus en application des articles L. 4135-21 à L. 4135-24 ;
+3° Les cotisations au régime général de la sécurité sociale en application de l'article L. 4135-20-2 et aux régimes de retraites des élus en application des articles L. 4135-22 à L. 4135-24 ;
 
 4° La cotisation au Centre national de la fonction publique territoriale ;
 
@@ -20,4 +20,6 @@ Sont obligatoires pour la région :
 
 8° Les dépenses résultant de l'entretien des biens transférés à la région en application des dispositions de l'article L. 318-2 du code de l'urbanisme ;
 
-9° Les dettes exigibles.
+9° Les dettes exigibles ;
+
+10° La contribution prévue à l'article 6 quater de la loi n° 83-634 du 13 juillet 1983 précitée.
