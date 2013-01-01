@@ -8,4 +8,4 @@ Les versements doivent être effectués par les titulaires de livrets de "domain
 
 Les versements ainsi reçus par les caisses de crédit agricole mutuel sont transférés par elles à la caisse régionale de crédit agricole mutuel de leur circonscription qui les reverse, au cours de la première quinzaine du mois suivant, à la caisse nationale de crédit agricole.
 
-Pendant le temps où ils sont gérés par la caisse nationale de crédit agricole, les versements des titulaires de livrets de "domaine-retraite" sont incessibles et insaisissables et ne peuvent donner lieu à aucune opposition. Les biens ruraux acquis ou aménagés au moyen du livret de "domaine-retraite" peuvent être constitués par les titulaires en biens de famille insaisissables.
+Pendant le temps où ils sont gérés par la caisse nationale de crédit agricole, les versements des titulaires de livrets de "domaine-retraite" sont incessibles et insaisissables et ne peuvent donner lieu à aucune opposition.
