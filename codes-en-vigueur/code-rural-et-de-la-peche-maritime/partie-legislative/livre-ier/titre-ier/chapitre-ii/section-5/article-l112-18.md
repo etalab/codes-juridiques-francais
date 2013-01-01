@@ -6,7 +6,7 @@ Les sociétés d'investissement pour le développement rural ont pour objet de f
 
 2° L'acquisition et la réhabilitation de logements dégradés ou vacants en vue de leur remise sur le marché ;
 
-3° L'acquisition et la transformation en logements de bâtiments à vocation agricole qui ne sont plus exploités, dès lors que l'emprise foncière sur laquelle est implanté le bâtiment concerné a fait l'objet d'un plan d'ensemble précisant les conditions d'utilisation du sol et le type de construction ou de réhabilitation réalisé. Ce projet peut être engagé, notamment, dans le cadre d'une révision simplifiée du plan local d'urbanisme à l'initiative de la collectivité ou du propriétaire concerné ;
+3° L'acquisition et la transformation en logements de bâtiments à vocation agricole qui ne sont plus exploités, dès lors que l'emprise foncière sur laquelle est implanté le bâtiment concerné a fait l'objet d'un plan d'ensemble précisant les conditions d'utilisation du sol et le type de construction ou de réhabilitation réalisé. Ce projet peut être engagé, notamment, dans le cadre de la procédure prévue au deuxième alinéa du II de l'article L. 123-13 du code de l'urbanisme à l'initiative de la collectivité ou du propriétaire concerné ;
 
 4° La réalisation ou la rénovation d'équipements touristiques, culturels, de loisirs et sportifs.
 
