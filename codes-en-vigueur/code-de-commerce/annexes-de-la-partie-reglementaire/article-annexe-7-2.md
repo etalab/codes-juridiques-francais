@@ -1015,33 +1015,15 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </td>
 <td>
 <br/>
-<p align="center">Lille </p>
+<p align="center">Tourcoing </p>
 </td>
 <td>
 <br/>
-<p align="center">41 </p>
+<p align="center">65</p>
 </td>
 <td>
 <br/>
-<p align="center">7 </p>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<br/>
-</td>
-<td>
-<br/>
-<p align="center">Roubaix-Tourcoing </p>
-</td>
-<td>
-<br/>
-<p align="center">29 </p>
-</td>
-<td>
-<br/>
-<p align="center">5 </p>
+<p align="center">11</p>
 </td>
 </tr>
 <tr>
@@ -1115,7 +1097,7 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </td>
 <td>
 <br/>
-<p align="center">11</p>
+<p align="center">11 </p>
 </td>
 <td>
 <br/>
