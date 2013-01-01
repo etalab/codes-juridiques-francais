@@ -1,3 +1,3 @@
 # Article D332-16
 
-Le diplôme national du brevet comporte trois séries : collège, technologique, professionnelle.
+Le diplôme national du brevet comporte deux séries : série générale, série professionnelle.
