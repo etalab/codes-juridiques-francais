@@ -8,6 +8,7 @@
 - [Article L2223-23](article-l2223-23.md)
 - [Article L2223-24](article-l2223-24.md)
 - [Article L2223-25](article-l2223-25.md)
+- [Article L2223-25-1](article-l2223-25-1.md)
 - [Article L2223-26](article-l2223-26.md)
 - [Article L2223-27](article-l2223-27.md)
 - [Article L2223-28](article-l2223-28.md)
