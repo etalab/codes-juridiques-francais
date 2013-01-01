@@ -26,7 +26,7 @@ IV.-L'agence de l'eau fixe les montants de volume prélevé au-dessous desquels 
 
 V.-Pour la fixation du tarif de la redevance, les ressources en eau de chaque bassin sont classées en catégorie 1 lorsqu'elles sont situées hors des zones de répartition des eaux définies en application du 2° du II de l'article L. 211-2 ou en catégorie 2 dans le cas contraire.
 
-Le tarif de la redevance est fixé par l'agence de l'eau en centimes d'euro par mètre cube dans la limite des plafonds suivants, en fonction des différents usages auxquels donnent lieu les prélèvements :
+Le tarif de la redevance est fixé par l'agence de l'eau en centimes d'euros par mètre cube, dans la limite des plafonds suivants, en fonction des différents usages auxquels donnent lieu les prélèvements :
 
 <table>
 <tbody>
@@ -46,10 +46,10 @@ Le tarif de la redevance est fixé par l'agence de l'eau en centimes d'euro par 
 <p>Irrigation (sauf irrigation gravitaire) </p>
 </td>
 <td width="104">
-<p align="center">2 </p>
+<p align="center">3,6 </p>
 </td>
 <td width="105">
-<p align="center">3 </p>
+<p align="center">7,2 </p>
 </td>
 </tr>
 <tr>
@@ -57,10 +57,10 @@ Le tarif de la redevance est fixé par l'agence de l'eau en centimes d'euro par 
 <p>Irrigation gravitaire </p>
 </td>
 <td width="104">
-<p align="center">0,10 </p>
+<p align="center">0,5 </p>
 </td>
 <td width="105">
-<p align="center">0,15 </p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
@@ -68,10 +68,10 @@ Le tarif de la redevance est fixé par l'agence de l'eau en centimes d'euro par 
 <p>Alimentation en eau potable </p>
 </td>
 <td width="104">
-<p align="center">6 </p>
+<p align="center">7,2 </p>
 </td>
 <td width="105">
-<p align="center">8 </p>
+<p align="center">14,4 </p>
 </td>
 </tr>
 <tr>
@@ -79,10 +79,11 @@ Le tarif de la redevance est fixé par l'agence de l'eau en centimes d'euro par 
 <p>Refroidissement industriel conduisant à une restitution supérieure à 99 % </p>
 </td>
 <td width="104">
-<p align="center">0,35 </p>
+<p align="center">0,5 </p>
 </td>
 <td width="105">
-<p align="center">0,5 </p>
+<p align="center">1 <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -90,10 +91,10 @@ Le tarif de la redevance est fixé par l'agence de l'eau en centimes d'euro par 
 <p>Alimentation d'un canal </p>
 </td>
 <td width="104">
-<p align="center">0,015 </p>
+<p align="center">0,03 </p>
 </td>
 <td width="105">
-<p align="center">0,03 </p>
+<p align="center">0,06 </p>
 </td>
 </tr>
 <tr>
@@ -101,10 +102,12 @@ Le tarif de la redevance est fixé par l'agence de l'eau en centimes d'euro par 
 <p>Autres usages économiques </p>
 </td>
 <td width="104">
-<p align="center">3 </p>
+<p align="center">5,4 <br/>
+</p>
 </td>
 <td width="105">
-<p align="center">4 </p>
+<p align="center">10,8 <br/>
+</p>
 </td>
 </tr>
 </tbody>
