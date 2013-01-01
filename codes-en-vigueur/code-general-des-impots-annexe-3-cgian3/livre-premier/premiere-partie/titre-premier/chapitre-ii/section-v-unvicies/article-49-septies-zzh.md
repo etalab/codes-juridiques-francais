@@ -21,18 +21,9 @@ La prime p est fixée, en fonction de l'appartenance à l'une des tranches menti
 <table>
 <tbody>
 <tr>
-<th>
-<br/>TRANCHES <br/>
-</th>
-<th>
-<br/>1 à 2 <br/>
-</th>
-<th>
-<br/>3 à 5 <br/>
-</th>
-<th colspan="4">
-<br/>6<br/>
-</th>
+<td align="center">TRANCHES</td>
+<td align="center">1 à 2</td>
+<td align="center" colspan="3">3 à 5 </td>
 </tr>
 <tr>
 <td align="center">
@@ -43,9 +34,6 @@ La prime p est fixée, en fonction de l'appartenance à l'une des tranches menti
 </td>
 <td align="center">
 <br/>55 points de base <br/>
-</td>
-<td align="center">
-<br/>35 points de base <br/>
 </td>
 </tr>
 </tbody>
