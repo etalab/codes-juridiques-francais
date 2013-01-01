@@ -15,3 +15,4 @@
 - [Section 13 : Biodéchets](section-13)
 - [Section 14 : Déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement](section-14)
 - [Section 15 : Déchets d'éléments d'ameublement](section-15)
+- [Section 16 : Bouteilles rechargeables de gaz destinées   à un usage individuel et déchets de bouteilles de gaz](section-16)
