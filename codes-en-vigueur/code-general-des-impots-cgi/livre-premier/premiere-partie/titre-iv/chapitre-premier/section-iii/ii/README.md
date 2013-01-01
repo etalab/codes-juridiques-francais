@@ -1,7 +1,5 @@
 # II : Service public de la publicité foncière
 
-- [1° : Obligations des conservateurs des hypothèques](1)
-- [2° : Salaires des conservateurs des hypothèques.](2)
 - [Article 878](article-878.md)
 - [Article 879](article-879.md)
 - [Article 880](article-880.md)
