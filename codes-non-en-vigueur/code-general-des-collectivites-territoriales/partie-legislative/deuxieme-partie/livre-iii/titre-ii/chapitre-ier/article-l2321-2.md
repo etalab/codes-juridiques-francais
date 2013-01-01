@@ -6,7 +6,7 @@ Les dépenses obligatoires comprennent notamment :
 
 2° Les frais de bureau et d'impression pour le service de la commune et les frais de conservation des archives communales et du recueil des actes administratifs du département ;
 
-3° Les indemnités de fonction prévues à l'article L. 2123-20, les cotisations au régime général de la sécurité sociale en application de l'article L. 2123-25-2, les cotisations aux régimes de retraites en application des articles L. 2123-26 à L. 2123-28, les cotisations au fonds institué par l'article L. 1621-2 ainsi que les frais de formation des élus mentionnés à l'article L. 2123-14 ;
+3° Les indemnités de fonction prévues à l'article L. 2123-20, les cotisations au régime général de la sécurité sociale en application de l'article L. 2123-25-2, les cotisations aux régimes de retraites en application des articles L. 2123-27 et L. 2123-28, les cotisations au fonds institué par l'article L. 1621-2 ainsi que les frais de formation des élus mentionnés à l'article L. 2123-14 ;
 
 4° La rémunération des agents communaux, les contributions et les cotisations sociales afférentes ;
 
@@ -67,3 +67,5 @@ Les dépenses obligatoires comprennent notamment :
 31° Les dépenses occasionnées par l'application des dispositions des articles 2 et 3 de la loi n° 2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage ;
 
 32° L'acquittement des dettes exigibles.
+
+33° La contribution prévue à l'article 6 quater de la loi n° 83-634 du 13 juillet 1983 précitée.
