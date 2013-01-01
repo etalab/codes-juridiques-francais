@@ -1,6 +1,6 @@
 # Article 779
 
-I. Pour la perception des droits de mutation à titre gratuit, il est effectué un abattement de 159 325 € sur la part de chacun des ascendants et sur la part de chacun des enfants vivants ou représentés par suite de prédécès ou de renonciation.
+I. Pour la perception des droits de mutation à titre gratuit, il est effectué un abattement de 100 000 € sur la part de chacun des ascendants et sur la part de chacun des enfants vivants ou représentés par suite de prédécès ou de renonciation. (1)
 
 Entre les représentants des enfants prédécédés ou renonçants, cet abattement se divise d'après les règles de la dévolution légale.
 
@@ -18,4 +18,4 @@ Entre les représentants des frères et soeurs prédécédés ou renonçants, ce
 
 V.-Pour la perception des droits de mutation à titre gratuit, il est effectué un abattement de 7 967 € sur la part de chacun des neveux et nièces.
 
-VI.-Le montant des abattements prévus aux I à V est actualisé au 1er janvier de chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu et arrondi à l'euro le plus proche.
+VI.- (Abrogé)
