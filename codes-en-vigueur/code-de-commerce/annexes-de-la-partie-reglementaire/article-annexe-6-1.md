@@ -943,16 +943,7 @@ des procédures applicables aux commerçants et artisans
 <tr>
 <td align="center"/>
 <td align="center">
-<br/>TC de Lille <br/>
-</td>
-<td align="center">
-<br/>Ressort du TC <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>TC de Roubaix-Tourcoing <br/>
+<br/>TC de Lille Métropole<br/>
 </td>
 <td align="center">
 <br/>Ressort du TC <br/>
