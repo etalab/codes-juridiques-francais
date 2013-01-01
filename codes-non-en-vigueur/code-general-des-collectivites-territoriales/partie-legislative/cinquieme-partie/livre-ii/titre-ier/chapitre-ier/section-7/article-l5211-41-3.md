@@ -40,7 +40,7 @@ L'établissement public issu de la fusion est substitué de plein droit, pour l'
 
 Les contrats sont exécutés dans les conditions antérieures jusqu'à leur échéance, sauf accord contraire des parties. Les cocontractants sont informés de la substitution de personne morale par l'établissement public issu de la fusion. La substitution de personne morale aux contrats conclus par les établissements publics de coopération intercommunale et les communes n'entraîne aucun droit à résiliation ou à indemnisation pour le cocontractant.
 
-La fusion d'établissements publics est effectuée à titre gratuit et ne donne lieu au paiement d'aucune indemnité, droit, taxe, salaire ou honoraire.
+La fusion d'établissements publics est effectuée à titre gratuit et ne donne lieu au paiement d'aucune indemnité, droit, taxe, contribution prévue à l'article 879 du code général des impôts ou honoraire.
 
 L'ensemble des personnels des établissements publics de coopération intercommunale fusionnés est réputé relever de l'établissement public issu de la fusion dans les conditions de statut et d'emploi qui sont les siennes. Les agents conservent, s'ils y ont intérêt, le bénéfice du régime indemnitaire qui leur était applicable ainsi que, à titre individuel, les avantages acquis en application du troisième alinéa de l'article 111 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.
 
