@@ -6,4 +6,3 @@
 - [Livre IV : Régime applicable aux constructions, aménagements et démolitions](livre-iv)
 - [Livre V : Implantation des services, établissements et entreprises](livre-v)
 - [Livre VI : Dispositions relatives au contentieux de l'urbanisme.](livre-vi)
-- [Livre VII : Dispositions applicables à Mayotte](livre-vii)

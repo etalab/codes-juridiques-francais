@@ -6,3 +6,4 @@
 - [Chapitre IV : Décision.](chapitre-iv)
 - [Chapitre V : Opérations soumises à un régime d'autorisation prévu par une autre législation](chapitre-v)
 - [Chapitre VI : Dispositions diverses](chapitre-vi)
+- [Chapitre VII : Dispositions particulières à Mayotte](chapitre-vii)

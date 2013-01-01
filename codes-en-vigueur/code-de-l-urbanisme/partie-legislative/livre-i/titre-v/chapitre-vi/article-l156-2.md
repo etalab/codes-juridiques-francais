@@ -12,10 +12,12 @@ En l'absence d'un schéma régional approuvé, l'urbanisation peut être réalis
 
 Cet accord est donné après que la commune a motivé sa demande, après avis de la région sur la compatibilité de l'urbanisation envisagée avec les orientations du schéma d'aménagement régional et après avis de la commission départementale compétente en matière de nature, de paysages et de sites appréciant l'impact de l'urbanisation sur la nature. Les communes intéressées peuvent également faire connaître leur avis dans le délai de deux mois suivant le dépôt de la demande d'accord. Le plan local d'urbanisme doit respecter les dispositions de cet accord.
 
-Il est déterminé une bande littorale comprise entre le rivage de la mer et la limite supérieure de la réserve domaniale dite des cinquante pas géométriques définie à l'article L. 86 du code du domaine de l'Etat. A défaut de délimitation ou lorsque la réserve domaniale n'a pas été instituée, cette bande présente une largeur de 81,20 mètres à compter de la limite haute du rivage.
+Il est déterminé une bande littorale comprise entre le rivage de la mer et la limite supérieure de la réserve domaniale dite des cinquante pas géométriques définie à l'article L. 5111-2 du code général de la propriété des personnes publiques et, à Mayotte, à l'article L. 5331-4 de ce code. A défaut de délimitation ou lorsque la réserve domaniale n'a pas été instituée, cette bande présente une largeur de 81,20 mètres à compter de la limite haute du rivage.
 
-En dehors des espaces urbanisés, les terrains situés dans la bande littorale définie à l'alinéa précédent sont réservés aux installation nécessaires à des services publics, à des activités économiques ou à des équipements collectifs, lorsqu'ils sont liés à l'usage de la mer. Ces installations organisent ou préservent l'accès et la libre circulation le long du rivage.
+En dehors des espaces urbanisés, les terrains situés dans la bande littorale définie à l'alinéa précédent sont réservés aux installations nécessaires à des services publics, à des activités économiques ou à des équipements collectifs, lorsqu'ils sont liés à l'usage de la mer. Ces installations organisent ou préservent l'accès et la libre circulation le long du rivage.
 
 Dans tous les cas, des espaces naturels ouverts sur le rivage et présentant le caractère d'une coupure d'urbanisation sont ménagés entre les zones urbanisables.
 
 Les constructions et aménagements sur les pentes proches du littoral sont interdits quand leur implantation porte atteinte au caractère paysager des mornes.
+
+A Mayotte, les constructions et aménagements sont interdits sur le littoral quand leur implantation porte atteinte aux plages de sable, aux mangroves, aux lagons ou aux récifs coralliens.
