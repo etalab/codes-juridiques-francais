@@ -20,13 +20,11 @@ c) Ou par des sociétés de capital-risque, des fonds communs de placement à ri
 
 Ces entreprises peuvent demander le remboursement immédiat de la créance constatée au titre de l'année de création. Il en est de même pour les créances constatées au titre des quatre années suivantes ;
 
-2° Les entreprises ayant fait l'objet d'une procédure de sauvegarde, d'un redressement ou d'une liquidation judiciaires. Ces entreprises peuvent demander le remboursement de leur créance non utilisée à compter de la date du jugement qui a ouvert ces procédures ;
+2° Les entreprises ayant fait l'objet d'une procédure de conciliation ou  de sauvegarde, d'un redressement ou d'une liquidation judiciaires. Ces entreprises peuvent demander le remboursement de leur créance non utilisée à compter de la date de la décision ou  du jugement qui a ouvert ces procédures ;
 
 3° Les jeunes entreprises innovantes mentionnées à l'article 44 sexies-0 A ;
 
-4° Les entreprises qui satisfont à la définition des micro, petites et moyennes entreprises donnée à l'
-annexe I au règlement (CE) n° 800/2008
-de la Commission, du 6 août 2008, déclarant certaines catégories d'aide compatibles avec le marché commun en application des articles 87 et 88 du traité (règlement général d'exemption par catégorie).
+4° Les entreprises qui satisfont à la définition des micro, petites et moyennes entreprises donnée à l'annexe I au règlement (CE) n° 800/2008 de la Commission, du 6 août 2008, déclarant certaines catégories d'aide compatibles avec le marché commun en application des articles 87 et 88 du traité (règlement général d'exemption par catégorie).
 
 Les entreprises créées depuis moins de deux ans qui sollicitent le remboursement immédiat de la créance de crédit d'impôt pour dépenses de recherche doivent présenter à l'appui de leur demande les pièces justificatives attestant de la réalité des dépenses de recherche.
 

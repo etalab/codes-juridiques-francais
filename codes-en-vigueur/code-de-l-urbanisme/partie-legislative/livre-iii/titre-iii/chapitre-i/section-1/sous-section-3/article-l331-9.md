@@ -11,3 +11,7 @@ Par délibération prise dans les conditions prévues au premier alinéa de l'ar
 4° Les commerces de détail d'une surface de vente inférieure à 400 mètres carrés ;
 
 5° Les immeubles classés parmi les monuments historiques ou inscrits à l'inventaire supplémentaire des monuments historiques.
+
+6° Les surfaces annexes à usage de stationnement des locaux mentionnés au 1° et ne bénéficiant pas de l'exonération totale ;
+
+7° Les surfaces des locaux annexes à usage de stationnement des immeubles autres que d'habitations individuelles.

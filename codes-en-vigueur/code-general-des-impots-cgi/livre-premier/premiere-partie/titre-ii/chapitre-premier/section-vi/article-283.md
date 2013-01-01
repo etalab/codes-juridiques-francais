@@ -30,6 +30,8 @@ Pour les livraisons de gaz naturel ou d'électricité mentionnées au b du même
 
 Les dispositions du premier alinéa et celles prévues au 3 de l'article 272 ne peuvent pas être cumulativement mises en oeuvre pour un même bien.
 
+4 ter. L'assujetti en faveur duquel a été effectuée une livraison de véhicules terrestres à moteur et qui savait ou ne pouvait ignorer que tout ou partie de cette livraison ou de toute livraison antérieure des mêmes véhicules ne pouvait pas bénéficier du régime prévu à l'article 297 A est solidairement tenu d'acquitter, avec tout assujetti partie à cette livraison ou à toute autre livraison antérieure des mêmes véhicules, la taxe frauduleusement éludée.
+
 5. Pour les opérations de façon, lorsque le façonnier réalise directement ou indirectement plus de 50 % de son chiffre d'affaires avec un même donneur d'ordre, ce dernier est solidairement tenu au paiement de la taxe à raison des opérations qu'ils ont réalisées ensemble. Le pourcentage de 50 % s'apprécie pour chaque déclaration mensuelle ou trimestrielle.
 
 Toutefois, ces dispositions ne sont pas applicables lorsque le donneur d'ordre établit qu'il n'a pas eu connaissance du non-respect par le façonnier de ses obligations fiscales.

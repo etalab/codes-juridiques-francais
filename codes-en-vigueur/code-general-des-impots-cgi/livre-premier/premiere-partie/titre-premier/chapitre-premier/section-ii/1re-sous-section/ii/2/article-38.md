@@ -38,7 +38,9 @@ Elles ne sont pas non plus applicables aux omissions ou erreurs qui résultent d
 
 Les corrections des omissions ou erreurs mentionnées aux deuxième et troisième alinéas restent sans influence sur le résultat imposable lorsqu'elles affectent l'actif du bilan. Toutefois, elles ne sont prises en compte ni pour le calcul des amortissements ou des provisions, ni pour la détermination du résultat de cession.
 
-5.1° Le profit ou la perte résultant de cessions de titres par un fonds commun de placement est compris dans le résultat de l'exercice au cours duquel les parts du fonds sont cédées par l'entreprise. Le profit ou la perte est déterminé par différence entre le prix de cession et la valeur des parts au bilan de l'entreprise.
+5.1° A l'exception des sommes distribuées en application de l'article L. 214-17-2 du code monétaire et financier, le profit ou la perte résultant de cessions de titres par un fonds commun de placement est compris dans le résultat de l'exercice au cours duquel les parts du fonds sont cédées par l'entreprise. Le profit ou la perte est déterminé par différence entre le prix de cession et la valeur des parts au bilan de l'entreprise.
+
+Les sommes distribuables en application du même article L. 214-17-2 sont comprises dans le résultat imposable de l'exercice au cours duquel elles sont distribuées et sont exclues du régime fiscal des plus-values à long terme, sous réserve des dispositions du 2° du présent 5.
 
 2° Par dérogation aux dispositions du 1°, les sommes correspondant à la répartition, prévue au IX de l'article L. 214-28 du code monétaire et financier d'une fraction des actifs d'un fonds commun de placement à risques qui remplit les conditions prévues au II ou au III bis de l'article 163 quinquies B, sont affectées en priorité au remboursement des apports. L'excédent des sommes réparties sur le montant des apports ou sur le prix d'acquisition des parts s'il est différent du montant des apports est compris dans le résultat imposable de l'exercice au cours duquel cet excédent apparaît. Il est soumis au régime fiscal des plus-values à long terme dans la proportion existant entre le montant des apports effectués depuis au moins deux ans à la date de la répartition et le montant total des apports effectués à cette même date. Le prix de revient des parts est corrélativement diminué à concurrence des sommes réparties qui n'ont pas été imposées en application du présent alinéa.
 
@@ -84,7 +86,7 @@ Lorsqu'une entreprise remet à l'échange plusieurs titres en application des mo
 
 Lorsqu'une entreprise reçoit à l'occasion d'une opération d'échange ou de conversion plusieurs titres en application des modalités d'échange ou des bases de la conversion, la valeur mentionnée à la deuxième phrase du premier alinéa est répartie proportionnellement à la valeur réelle à la date de cette opération ou à la valeur résultant de leur première cotation si les titres reçus sont des actions assorties de droits de souscription d'actions, attachés ou non, émises pour un prix unique à l'occasion d'une telle opération.
 
-Pour les opérations réalisées au cours d'exercices clos à compter du 31 décembre 1994, les dispositions du présent 7 ne sont pas applicables si l'un des coéchangistes remet à l'échange des actions émises lors d'une augmentation de capital réalisée depuis moins de trois ans par une société qui détient directement ou indirectement une participation supérieure à 5 p. 100 du capital de l'autre société avec laquelle l'échange est réalisé ou par une société dont plus de 5 p. 100 du capital est détenu directement ou indirectement par cette autre société.
+Pour les opérations réalisées au cours d'exercices clos à compter du 31 décembre 1994, les dispositions du présent 7 ne sont pas applicables si l'un des coéchangistes remet à l'échange des actions émises lors d'une augmentation de capital réalisée depuis moins de trois ans par une société qui détient directement ou indirectement une participation supérieure à 5% du capital de l'autre société avec laquelle l'échange est réalisé ou par une société dont plus de 5% du capital est détenu directement ou indirectement par cette autre société.
 
 Les augmentations de capital visées au septième alinéa sont celles résultant :
 
@@ -110,7 +112,7 @@ Ces dispositions ne sont pas applicables si la soulte dépasse 10 p. 100 de la v
 
 La fraction afférente aux droits de souscription est égale à la différence entre le prix unique et le prix de la valeur mobilière à la date de la souscription ou de l'acquisition. Le prix s'entend de la valeur actuelle pour les obligations ;
 
-2° La différence entre la valeur actuelle d'une obligation assortie de droits de souscription et sa valeur de remboursement est considérée, pour l'imposition du souscripteur, comme une prime de remboursement. Toutefois, pour les titres émis avant le 1er janvier 1993, celle-ci n'est soumise aux dispositions du I de l'article 238 septies B que si son montant excède 15 p. 100 de la valeur actuelle de l'obligation ;
+2° La différence entre la valeur actuelle d'une obligation assortie de droits de souscription et sa valeur de remboursement est considérée, pour l'imposition du souscripteur, comme une prime de remboursement. Toutefois, pour les titres émis avant le 1er janvier 1993, celle-ci n'est soumise aux dispositions du I de l'article 238 septies B que si son montant excède 15% de la valeur actuelle de l'obligation ;
 
 3° Les sommes reçues par une entreprise lors de l'émission de droits de souscription ou d'acquisition de valeurs mobilières sont comprises dans ses résultats imposables de l'exercice de péremption de ces droits lorsqu'ils n'ont pas été exercés.
 

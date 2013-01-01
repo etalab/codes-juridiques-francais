@@ -6,7 +6,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 7 % en ce qui conc
 
 2° (Abrogé) ;
 
-3° Produits d'origine agricole, de la pêche, de la pisciculture et de l'aviculture n'ayant subi aucune transformation ;
+3° Produits d'origine agricole, de la pêche, de la pisciculture et de l'aviculture n'ayant subi aucune transformation ; Ces dispositions ne s'appliquent pas aux opérations relatives aux équidés lorsque ceux-ci ne sont normalement pas destinés à être utilisés dans la préparation des denrées alimentaires ou dans la production agricole ;
 
 3° bis Produits suivants :
 

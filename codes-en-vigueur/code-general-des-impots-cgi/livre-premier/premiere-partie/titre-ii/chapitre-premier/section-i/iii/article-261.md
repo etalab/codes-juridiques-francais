@@ -138,6 +138,8 @@ Tous les organismes concernés par les a, b et c sont placés sous le régime du
 
 1° ter les opérations effectuées par les associations agréées en application de l'article L. 7232-1 du code du travail, dans les conditions prévues au 1° ;
 
+1° quater Les prestations de services et les livraisons de biens qui leur sont étroitement liées, effectuées dans les lieux de vie et d'accueil mentionnés au III de l'article L. 312-1 du code de l'action sociale et des familles, conformément à leur objet ;
+
 2° (Abrogé) ;
 
 3° les ventes portant sur les articles fabriqués par des groupements d'aveugles ou de travailleurs handicapés, agréés dans les conditions prévues par la loi n° 72-616 du 5 juillet 1972, ainsi que les réparations effectuées par ces groupements. Ils peuvent toutefois, sur leur demande, renoncer à l'exonération dans les conditions et selon les modalités prévues par décret en Conseil d'Etat ;

@@ -10,6 +10,8 @@ Cette déclaration mentionne, par établissement ou par lieu d'emploi, le nombre
 
 Les effectifs affectés aux véhicules sont déclarés par les entreprises de transport au local ou au terrain qui constitue le lieu de stationnement habituel des véhicules ou, s'il n'en existe pas, au local où ils sont entretenus ou réparés par le redevable ; à défaut, les effectifs sont déclarés au principal établissement de l'entreprise.
 
+Par exception aux deuxième et troisième alinéas du présent 1, la déclaration des entreprises de transport national ferroviaire mentionne leurs effectifs par établissement, au prorata de la valeur locative foncière imposée à la cotisation foncière des entreprises de ces établissements.
+
 Un décret précise les conditions d'application du présent 1.
 
 2. En cas de transmission universelle du patrimoine mentionnée à l'article 1844-5 du code civil, de cession ou de cessation d'entreprise ou de l'exercice d'une profession commerciale, d'ouverture d'une procédure de sauvegarde, de redressement ou de liquidation judiciaires, ou de décès du contribuable, les déclarations mentionnées au 1 du présent II et au dernier alinéa de l'article 1679 septies doivent être souscrites dans un délai de soixante jours décompté soit dans les conditions prévues, selon le cas, aux 1 ou 4 de l'article 201 ou au 1 de l'article 202 soit au jour du jugement d'ouverture de la procédure collective.

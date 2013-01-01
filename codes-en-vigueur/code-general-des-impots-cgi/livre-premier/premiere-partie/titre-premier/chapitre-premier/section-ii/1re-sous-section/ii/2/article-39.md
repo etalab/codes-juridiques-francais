@@ -234,6 +234,6 @@ Une fraction égale à [18,1/3]/ [33,1/3] du montant des redevances déduites du
 
 13. Sont exclues des charges déductibles pour l'établissement de l'impôt les aides de toute nature consenties à une autre entreprise, à l'exception des aides à caractère commercial.
 
-Le premier alinéa du présent 13 ne s'applique pas aux aides consenties en application d'un accord homologué dans les conditions prévues au II de l'article L. 611-8 du code de commerce ni aux aides consenties aux entreprises pour lesquelles une procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire est ouverte.
+Le premier alinéa du présent 13 ne s'applique pas aux aides consenties en application d'un accord constaté ou  homologué dans les conditions prévues à  l'article L. 611-8 du code de commerce ni aux aides consenties aux entreprises pour lesquelles une procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire est ouverte.
 
 Les aides mentionnées au deuxième alinéa du présent 13 qui ne revêtent pas un caractère commercial sont déductibles à hauteur de la situation nette négative de l'entreprise qui en bénéficie et, pour le montant excédant cette situation nette négative, à proportion des participations détenues par d'autres personnes que l'entreprise qui consent les aides.

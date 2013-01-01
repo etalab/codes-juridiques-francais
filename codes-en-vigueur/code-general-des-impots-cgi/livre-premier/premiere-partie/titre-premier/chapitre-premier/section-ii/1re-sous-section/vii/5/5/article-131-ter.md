@@ -4,6 +4,6 @@
 
 Les conditions d'application du présent paragraphe sont fixées par décret (1).
 
-2. Les obligations que les organismes étrangers ou internationaux émettent en France avec l'autorisation du ministre de l'économie et des finances sont assimilées à des obligations françaises pour l'application de la retenue à la source.
+2. Les obligations que les organismes étrangers ou internationaux émettent en France avec l'autorisation du ministre de l'économie et des finances sont assimilées à des obligations françaises pour l'application de la retenue à la source prévue au 1 de l'article 119 bis et du prélèvement prévu au I de l'article 125 A.
 
 Des décrets en conseil d'Etat fixent en tant que de besoin, les modalités d'application du présent paragraphe (2).

@@ -4,7 +4,7 @@ I. - Le crédit d'impôt défini à l'article 244 quater E est imputé sur l'imp
 
 Toutefois, sur demande du redevable, le solde non utilisé peut être remboursé à compter de la cinquième année, dans la limite de 35 % du crédit d'impôt et d'un montant de 300 000 €.
 
-La créance sur l'Etat correspondant au crédit d'impôt non utilisé est inaliénable et incessible, sauf dans les cas et selon les conditions prévus aux articles L. 313-23 à L. 313-35 du code monétaire et financier (1). Elle n'est pas imposable.
+La créance sur l'Etat correspondant au crédit d'impôt non utilisé est inaliénable et incessible, sauf dans les cas et selon les conditions prévus aux articles L. 313-23 à L. 313-35 du code monétaire et financier. Elle n'est pas imposable.
 
 Dans le cadre d'une opération mentionnée au deuxième alinéa du III de l'article 244 quater E, la fraction de la créance qui n'a pas encore été imputée est transférée au bénéficiaire de la transmission.
 
@@ -12,7 +12,7 @@ En cas de fusion ou d'opération assimilée bénéficiant du régime prévu à l
 
 En cas de scission ou d'apport partiel d'actif, la créance est transmise en proportion de l'actif net réel apporté à la ou aux sociétés bénéficiaires des apports.
 
-II (2). ― La créance mentionnée au premier alinéa du I est immédiatement remboursable lorsqu'elle est constatée par l'une des entreprises suivantes :
+II. ― La créance mentionnée au premier alinéa du I est immédiatement remboursable lorsqu'elle est constatée par l'une des entreprises suivantes :
 
 1° Les entreprises autres que celles mentionnées au III de l'article 44 sexies et dont le capital est entièrement libéré et détenu de manière continue à 50 % au moins :
 
@@ -24,7 +24,7 @@ c) Ou par des sociétés de capital-risque, des fonds communs de placement à ri
 
 Ces entreprises peuvent demander le remboursement immédiat de la créance constatée au titre de l'année de création. Il en est de même pour les créances constatées au titre des quatre années suivantes ;
 
-2° Les entreprises ayant fait l'objet d'une procédure de sauvegarde, d'un redressement ou d'une liquidation judiciaires. Ces entreprises peuvent demander le remboursement de leur créance non utilisée à compter de la date du jugement qui a ouvert ces procédures ;
+2° Les entreprises ayant fait l'objet d'une procédure de conciliation ou  de sauvegarde, d'un redressement ou d'une liquidation judiciaires. Ces entreprises peuvent demander le remboursement de leur créance non utilisée à compter de la date de la décision ou  du jugement qui a ouvert ces procédures ;
 
 3° Les jeunes entreprises innovantes mentionnées à l'article 44 sexies-0 A ;
 

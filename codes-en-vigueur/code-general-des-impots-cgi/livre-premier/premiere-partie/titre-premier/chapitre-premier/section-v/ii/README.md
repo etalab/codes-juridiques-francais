@@ -13,7 +13,7 @@
 - [25° : Prime pour l'emploi](25)
 - [27° : Réduction d'impôt accordée au titre de l'aide apportée à certains créateurs d'entreprise](27)
 - [28° : Crédit d'impôt au titre des contrats d'assurance pour loyers impayés des logements locatifs conventionnés](28)
-- [3° : Réduction d'impôt accordée au titre des cotisations versées aux organisations syndicales](3)
+- [3° : Crédit d'impôt accordée au titre des cotisations versées aux organisations syndicales](3)
 - [30° : Crédit d'impôt au titre des dépenses de remplacement pour congé de certains exploitants agricoles](30)
 - [31° : Crédit d'impôt pour changement d'habitation principale en vue d'exercer une activité salariée](31)
 - [32° : Crédit d'impôt en faveur des étudiants en vue du financement de leurs études supérieures](32)

@@ -2,7 +2,7 @@
 
 1. La base d'imposition est constituée :
 
-a) Pour les livraisons de biens, les prestations de services et les acquisitions intracommunautaires, par toutes les sommes, valeurs, biens ou services reçus ou à recevoir par le fournisseur ou le prestataire en contrepartie de ces opérations, de la part de l'acheteur, du preneur ou d'un tiers, y compris les subventions directement liées au prix de ces opérations ;
+a. Pour les livraisons de biens, les prestations de services et les acquisitions intracommunautaires, par toutes les sommes, valeurs, biens ou services reçus ou à recevoir par le fournisseur ou le prestataire en contrepartie de ces opérations, de la part de l'acheteur, du preneur ou d'un tiers, y compris les subventions directement liées au prix de ces opérations ;
 
 b. Pour les opérations ci-après, par le montant total de la transaction :
 
@@ -10,9 +10,9 @@ Opérations réalisées par un intermédiaire mentionné au V de l'article 256 e
 
 Opérations réalisées par les personnes établies en France qui s'entremettent dans la livraison de biens ou l'exécution de services par des redevables qui n'ont pas établi dans la Communauté européenne le siège de leur activité, un établissement stable, leur domicile ou leur résidence habituelle ;
 
-b bis) (Abrogé) ;
+b bis. (Abrogé) ;
 
-b ter) Pour les opérations visées au e du 1° de l'article 261 C qui ont fait l'objet de l'option prévue à l'article 260 B, par le montant des profits et autres rémunérations ;
+b ter. Pour les opérations visées au e du 1° de l'article 261 C qui ont fait l'objet de l'option prévue à l'article 260 B, par le montant des profits et autres rémunérations ;
 
 c. Pour les livraisons à soi-même et les acquisitions intracommunautaires mentionnées au 2° du II de l'article 256 bis :
 
@@ -34,7 +34,7 @@ h. (Abrogé à compter du 1er janvier 2001).
 
 Des décrets peuvent fixer des bases minimales ou forfaitaires d'imposition pour les achats imposables.
 
-1 bis. Lorsque les éléments servant à déterminer la base d'imposition sont exprimés dans une monnaie autre que l'euro, le taux de change à appliquer est celui du dernier taux déterminé par référence au cours publié par la Banque de France à partir du cours fixé par la Banque centrale européenne, connu au jour de l'exigibilité de la taxe prévue au 2 de l'article 269.
+1 bis. Lorsque les éléments servant à déterminer la base d'imposition sont exprimés dans une monnaie autre que l'euro, le taux de change à appliquer est celui du dernier taux publié par la Banque centrale européenne, au jour de l'exigibilité de la taxe prévue au 2 de l'article 269.
 
 1 ter a. (Abrogé).
 
