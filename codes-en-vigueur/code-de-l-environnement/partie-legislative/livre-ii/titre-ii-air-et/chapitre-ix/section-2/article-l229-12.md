@@ -2,7 +2,7 @@
 
 Les dispositions du présent article s'appliquent aux exploitants d'aéronef mentionnés à l'article L. 229-5.
 
-I.-Au sens du présent article, on entend par " période " la période de temps au titre de laquelle des quotas sont affectés à des exploitants d'aéronef, la première période étant constituée de l'année 2012 et les périodes à partir de 2013 étant des périodes successives de cinq ans.
+I.-Au sens du présent article, on entend par " période " la période de temps au titre de laquelle des quotas sont affectés à des exploitants d'aéronef, la première période étant constituée de l'année 2012 et les périodes à partir de 2013 étant des périodes successives de huit ans.
 
 II.-Pour chaque période, chaque exploitant d'aéronef peut solliciter l'affectation de quotas délivrés à titre gratuit en soumettant à l'autorité compétente une demande rendant compte, selon les modalités fixées par l'arrêté relatif aux exploitants d'aéronefs prévu à l'article L. 229-6, de son activité aérienne en termes de tonnes-kilomètres pendant " l'année de surveillance ", cette année étant définie comme l'année 2010 pour la première période et l'année civile se terminant vingt-quatre mois avant le début de la période pour les périodes à partir de 2013.
 
