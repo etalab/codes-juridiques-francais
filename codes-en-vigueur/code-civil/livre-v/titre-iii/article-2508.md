@@ -30,6 +30,6 @@ h) Au dixième alinéa, les mots : " des articles L. 122-3-8, deuxième alinéa,
 
 2° A l'article 2332, le 9° n'est pas applicable ;
 
-3° A l'article 2377, les mots : " par une inscription à la conservation des hypothèques, de la manière déterminée par les articles suivants et par les articles 2426 et 2428 " sont remplacés par les mots : " par inscription sur le livre foncier tenu par le conservateur de la propriété immobilière, de la manière déterminée par la loi, et à compter de la date de cette inscription, sous réserve des exceptions prévues par les articles suivants " ;
+3° A l'article 2377, les mots : " par une inscription au fichier immobilier, de la manière déterminée par les articles suivants et par les articles 2426 et 2428 " sont remplacés par les mots : " par inscription sur le livre foncier tenu par le conservateur de la propriété immobilière, de la manière déterminée par la loi, et à compter de la date de cette inscription, sous réserve des exceptions prévues par les articles suivants " ;
 
 4° Aux articles 2425 et 2431, la référence au registre prévu à l'article 2453 est remplacée par la référence au registre des dépôts des actes et documents à inscrire.

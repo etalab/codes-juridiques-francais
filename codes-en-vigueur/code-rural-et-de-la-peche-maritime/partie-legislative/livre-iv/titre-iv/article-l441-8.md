@@ -4,7 +4,7 @@ Par le seul fait de cette transcription, les privilèges et hypothèques de tout
 
 Dans les communes où le bail à complant est translatif de propriété au profit des complanteurs, les privilèges et hypothèques pouvant grever le fonds du chef des complanteurs ou de leurs auteurs sont cantonnés de la même façon sur la parcelle attribuée en toute propriété auxdits complanteurs.
 
-Le conservateur des hypothèques est tenu d'opérer d'office la radiation des inscriptions existant du chef des propriétaires ou de leurs auteurs en tant qu'elles portent sur les biens attribués aux complanteurs, ainsi que celles existant du chef des complanteurs ou de leurs auteurs en tant qu'elles portent sur les biens attribués aux propriétaires.
+Le service chargé de la publicité foncière est tenu d'opérer d'office la radiation des inscriptions existant du chef des propriétaires ou de leurs auteurs en tant qu'elles portent sur les biens attribués aux complanteurs, ainsi que celles existant du chef des complanteurs ou de leurs auteurs en tant qu'elles portent sur les biens attribués aux propriétaires.
 
 Le même cantonnement a lieu de plein droit aux cas d'emphytéose et d'usufruit.
 

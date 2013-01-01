@@ -10,7 +10,7 @@ II.-La personne tenue d'exécuter les mesures prescrites par l'arrêté de péri
 
 III.-Sur le rapport d'un homme de l'art, le maire constate la réalisation des travaux prescrits ainsi que leur date d'achèvement et prononce la mainlevée de l'arrêté de péril et, le cas échéant, de l'interdiction d'habiter et d'utiliser les lieux.
 
-L'arrêté du maire est publié à la conservation des hypothèques ou au livre foncier dont dépend l'immeuble pour chacun des locaux, à la diligence du propriétaire et à ses frais.
+L'arrêté du maire est publié au fichier immobilier ou au livre foncier dont dépend l'immeuble pour chacun des locaux, à la diligence du propriétaire et à ses frais.
 
 IV.-Lorsque l'arrêté de péril n'a pas été exécuté dans le délai fixé, le maire met en demeure le propriétaire d'y procéder dans un délai qu'il fixe et qui ne peut être inférieur à un mois.
 
