@@ -4,13 +4,11 @@
 
 Lorsque le montant total de la taxe sur les salaires acquittée l'année précédente :
 
-a) Est inférieur à 1 000 €, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison des rémunérations payées pendant l'année en cours dans les quinze premiers jours de l'année suivante ;
+a) Est inférieur à 4 000 €, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison des rémunérations payées pendant l'année en cours dans les quinze premiers jours de l'année suivante ;
 
-b) Est compris entre 1 000 € et 4 000 €, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison des rémunérations payées pendant un trimestre déterminé dans les quinze premiers jours du trimestre suivant ;
+b) Est compris entre 4 000 € et 10 000 €, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison des rémunérations payées pendant un trimestre déterminé dans les quinze premiers jours du trimestre suivant ;
 
-c) Est supérieur à 4 000 €, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison des rémunérations payées pendant un mois déterminé dans les quinze premiers jours du mois suivant.
-
-Toutefois, si les sommes dues au titre de la taxe sur les salaires à raison des rémunérations payées depuis le 1er janvier de l'année en cours sont supérieures à 10 000 €, les employeurs versent la totalité de ces sommes dans les quinze premiers jours du mois suivant le dépassement de ce seuil. Le versement des échéances restantes jusqu'à la fin de l'année s'effectue mensuellement.
+c) Est supérieur à 10 000 €, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison des rémunérations payées pendant un mois déterminé dans les quinze premiers jours du mois suivant.
 
 2. Chaque versement, mensuel ou trimestriel, est accompagné d'un relevé dont le modèle est fixé par l'administration, daté et signé par l'employeur et indiquant notamment sa désignation, sa profession et son adresse, la période à laquelle s'applique ce versement et le montant de la taxe sur les salaires versés.
 
