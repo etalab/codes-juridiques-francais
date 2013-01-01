@@ -66,4 +66,6 @@ zd) Au titre de 2010, à 1,012 pour les propriétés non bâties, à 1,012 pour 
 
 ze) Au titre de 2011, à 1,02 pour les propriétés non bâties, à 1,02 pour  les immeubles industriels relevant du 1° de l'article 1500 et à 1,02  pour l'ensemble des autres propriétés bâties ;
 
-zf) Au titre de 2012, à 1,018 pour les propriétés non bâties, à 1,018  pour les immeubles industriels relevant du 1° de l'article 1500 et à  1,018 pour l'ensemble des autres propriétés bâties.
+zf) Au titre de 2012, à 1,018 pour les propriétés non bâties, à 1,018  pour les immeubles industriels relevant du 1° de l'article 1500 et à  1,018 pour l'ensemble des autres propriétés bâties ;
+
+zg) Au titre de 2013, à 1,018 pour les propriétés non bâties, à 1,018 pour les immeubles industriels relevant du 1° de l'article 1500 et à 1,018 pour l'ensemble des autres propriétés bâties.
