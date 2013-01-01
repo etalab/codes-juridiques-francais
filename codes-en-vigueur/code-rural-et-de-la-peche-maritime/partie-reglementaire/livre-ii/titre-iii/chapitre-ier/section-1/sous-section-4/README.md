@@ -2,3 +2,4 @@
 
 - [Paragraphe 1 : Conditions sanitaires de production et de mise en marché des coquillages vivants.](paragraphe-1)
 - [Paragraphe 2 : Production de coquillages vivants.](paragraphe-2)
+- [Paragraphe 3 : Reparcage et purification des coquillages vivants.](paragraphe-3)
