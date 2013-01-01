@@ -4,4 +4,6 @@ Il est institué une taxe due par tout éditeur de services de télévision, au 
 
 Tout éditeur de services de télévision, redevable à ce titre de la taxe mentionnée au présent article, et dont le financement fait appel à une rémunération de la part des usagers et qui encaisse directement le produit des abonnements acquittés par ces usagers, est en outre redevable de cette taxe au titre de son activité de distributeur de services de télévision.
 
-Le produit de la taxe acquittée par les éditeurs de services de télévision est affecté au Centre national du cinéma et de l'image animée. Le produit de la taxe acquittée par les distributeurs de services de télévision est affecté à ce même établissement dans la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
+Le produit de la taxe acquittée par les éditeurs de services de télévision est affecté au Centre national du cinéma et de l'image animée. Le produit de la taxe acquittée par les distributeurs de services de télévision est affecté à ce même établissement.
+
+Est également regardée comme distributeur de services de télévision toute personne proposant un accès à des services de communication au public en ligne ou à des services de téléphonie, dès lors que la souscription à ces services permet de recevoir, au titre de cet accès, des services de télévision (1).
