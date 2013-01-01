@@ -5,184 +5,195 @@ Le tarif de la redevance sanitaire d'abattage s'établit comme suit (par carcass
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="529">
+<td rowspan="2">
+<br/>
 <br/>
 </td>
-<td width="151">
+<td>
 <p align="center">EN EUROS</p>
 </td>
 </tr>
 <tr>
-<td width="151">
-<p align="center">Par carcasse abattue</p>
+<td>
+<p align="center">
+<br/>Par carcasse abattue </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="529">
-<p>a) Animaux de boucherie :</p>
+<td>
+<p align="center">
+<br/>A. - Ongulés domestiques </p>
 </td>
-<td valign="top" width="151">
+<td>
+<p align="center">
 <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="529">
-<p>Pour les gros bovins</p>
+<td>
+<p>Pour les bovins adultes </p>
 </td>
-<td valign="top" width="151">
-<p align="center">4,12</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="529">
-<p>Pour les veaux</p>
-</td>
-<td valign="top" width="151">
-<p align="center">1,68</p>
+<td>
+<p align="center">
+<br/>5 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="529">
-<p>Pour les solipèdes domestiques</p>
+<td>
+<p>Pour les jeunes bovins, au sens de l'annexe VI ter point 1 b du règlement (CE) n° 2074/2005, c'est-à-dire les bovins de moins de 8 mois (usuellement appelés veaux) </p>
 </td>
-<td valign="top" width="151">
-<p align="center">3,05</p>
+<td>
+<p align="center">
+<br/>2 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="529">
-<p>Pour les ovins et caprins :</p>
+<td>
+<p>Pour les solipèdes et équidés </p>
 </td>
-<td valign="top" width="151">
+<td>
+<p align="center">
+<br/>3 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pour les ovins et caprins : </p>
+<p>- d'un poids carcasse inférieur à 12 kilogrammes </p>
+<p>- d'un poids carcasse de 12 kilogrammes ou plus </p>
+</td>
+<td>
+<p align="center">
 <br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="529">
-<p>- d'un poids carcasse inférieur à 12 kilogrammes</p>
-</td>
-<td valign="top" width="151">
-<p align="center">0,14</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="529">
-<p>- d'un poids carcasse de 12 kilogrammes ou plus</p>
-</td>
-<td valign="top" width="151">
-<p align="center">0,24</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="529">
-<p>Pour les porcins :</p>
-</td>
-<td valign="top" width="151">
+</p>
+<p align="center">
 <br/>
+</p>
+<p align="center">0,15 </p>
+<p align="center">
+<br/>0,25 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="529">
-<p>- d'un poids carcasse inférieur à 25 kilogrammes</p>
+<td>
+<p>Pour les porcins : </p>
+<p>- d'un poids carcasse inférieur à 25 kilogrammes </p>
+<p>- d'un poids carcasse de 25 kilogrammes ou plus </p>
 </td>
-<td valign="top" width="151">
-<p align="center">0,38</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="529">
-<p>- d'un poids carcasse de 25 kilogrammes ou plus</p>
-</td>
-<td valign="top" width="151">
-<p align="center">0,79</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="529">
-<p>b) Volailles et lapins :</p>
-</td>
-<td valign="top" width="151">
+<td>
+<p align="center">
 <br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="529">
-<p>Pour les volailles du genre Gallus et les pintades</p>
-</td>
-<td valign="top" width="151">
-<p align="center">0,0046</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="529">
-<p>Pour les canards et les oies</p>
-</td>
-<td valign="top" width="151">
-<p align="center">0,01</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="529">
-<p>Pour les dindes</p>
-</td>
-<td valign="top" width="151">
-<p align="center">0,02</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="529">
-<p>Pour les lapins domestiques</p>
-</td>
-<td valign="top" width="151">
-<p align="center">0,0046</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="529">
-<p>c) Gibier d'élevage et sauvage :</p>
-</td>
-<td valign="top" width="151">
+</p>
+<p align="center">
 <br/>
+</p>
+<p align="center">0,50 </p>
+<p align="center">
+<br/>1 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="529">
-<p>Pour le petit gibier à plumes</p>
+<td>
+<p align="center">
+<br/>B. - Volailles et lagomorphes </p>
 </td>
-<td valign="top" width="151">
-<p align="center">0,0046</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="529">
-<p>Pour le petit gibier à poils</p>
-</td>
-<td valign="top" width="151">
-<p align="center">0,01</p>
+<td>
+<p align="center">
+<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="529">
-<p>Pour les ratites (autruche, émeu, nandou)</p>
+<td>
+<p>Pour les volailles de l'espèce Gallus et les pintades </p>
 </td>
-<td valign="top" width="151">
-<p align="center">0,04</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="529">
-<p>Pour le sanglier</p>
-</td>
-<td valign="top" width="151">
-<p align="center">1,30</p>
+<td>
+<p align="center">
+<br/>0,005 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="529">
-<p>Pour les ruminants</p>
+<td>
+<p>Pour les canards et les oies </p>
 </td>
-<td valign="top" width="151">
-<p align="center">0,46</p>
+<td>
+<p align="center">
+<br/>0,01 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pour les dindes </p>
+</td>
+<td>
+<p align="center">
+<br/>0,025 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pour les lapins d'élevage </p>
+</td>
+<td>
+<p align="center">
+<br/>0,005 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>C. - Gibier ongulé d'élevage et gibier sauvage </p>
+</td>
+<td>
+<p align="center">
+<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pour le petit gibier à plumes </p>
+</td>
+<td>
+<p align="center">
+<br/>0,005 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pour le petit gibier à poils </p>
+</td>
+<td>
+<p align="center">
+<br/>0,01 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pour les ratites (autruche, émeu, nandou) </p>
+</td>
+<td>
+<p align="center">
+<br/>0,5 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pour le sanglier </p>
+</td>
+<td>
+<p align="center">
+<br/>1,5 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pour les ruminants </p>
+</td>
+<td>
+<p align="center">
+<br/>0,5</p>
 </td>
 </tr>
 </tbody>
