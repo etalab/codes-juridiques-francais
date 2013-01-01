@@ -10,7 +10,6 @@
 - [Article D511-78](article-d511-78.md)
 - [Article D511-79](article-d511-79.md)
 - [Article D511-80](article-d511-80.md)
-- [Article D511-81](article-d511-81.md)
 - [Article D511-82](article-d511-82.md)
 - [Article D511-83](article-d511-83.md)
 - [Article D511-84](article-d511-84.md)
@@ -19,5 +18,4 @@
 - [Article D511-92](article-d511-92.md)
 - [Article D511-93](article-d511-93.md)
 - [Article D511-94](article-d511-94.md)
-- [Article D511-95](article-d511-95.md)
 - [Article D511-96](article-d511-96.md)

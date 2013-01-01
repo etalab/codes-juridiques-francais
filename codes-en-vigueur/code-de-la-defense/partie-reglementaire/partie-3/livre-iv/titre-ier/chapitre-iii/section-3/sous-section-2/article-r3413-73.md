@@ -14,7 +14,9 @@ d) A l'autorisation d'acquérir, d'aliéner, d'échanger des biens immobiliers ;
 
 e) A l'approbation des conventions prévues à l'article R. 3413-63.
 
-Les délibérations, à l'exception de celles relatives au compte financier, deviennent exécutoires trente jours après la transmission du procès-verbal au ministre de la défense et au ministre chargé du budget, à moins que ceux-ci n'y fassent opposition.
+Les délibérations, mentionnées aux c, d et e, deviennent exécutoires trente jours après la transmission du procès-verbal au ministre de la défense et au ministre chargé du budget, à moins que ceux-ci n'y fassent opposition.
+
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 S'agissant du compte financier, la mention expresse de l'approbation est requise.
 

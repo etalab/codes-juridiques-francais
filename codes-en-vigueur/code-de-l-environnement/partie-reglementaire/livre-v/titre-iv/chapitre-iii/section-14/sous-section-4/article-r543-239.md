@@ -8,4 +8,4 @@ II.-En cas de non-respect par une personne physique ou morale procédant à la c
 
 Au terme de cette procédure, le préfet peut, par une décision motivée qui indique les voies et délais de recours, prononcer une amende administrative dont le montant tient compte de la gravité des manquements constatés. Ce montant ne peut excéder 750 € pour une personne physique et 3 750 € pour une personne morale par tonne de déchets collectés.
 
-III.-Les décisions prises en application du présent article mentionnent le délai et les modalités de paiement de l'amende. L'amende est recouvrée conformément aux dispositions des articles 76 à 79 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique.
+III.-Les décisions prises en application du présent article mentionnent le délai et les modalités de paiement de l'amende. L'amende est recouvrée conformément aux dispositions du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

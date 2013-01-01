@@ -20,7 +20,7 @@ f) Modalités de financement du crédit-bailleur ;
 
 g) Comptes prévisionnels du crédit-bailleur se rapportant à l'opération ;
 
-h) Avis du membre du corps du contrôle général économique et financier placé auprès de l'organisme demandeur.
+h) Avis du        contrôleur budgétaire placé auprès de l'organisme demandeur.
 
 2° Sous réserve des dispositions du 3°, le dossier mentionné au 1° est adressé pour agrément au ministre du budget par pli recommandé avec demande d'avis de réception.
 

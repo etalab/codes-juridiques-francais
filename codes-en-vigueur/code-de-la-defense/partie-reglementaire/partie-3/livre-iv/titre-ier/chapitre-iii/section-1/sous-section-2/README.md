@@ -11,7 +11,6 @@
 - [Article R3413-16](article-r3413-16.md)
 - [Article R3413-17](article-r3413-17.md)
 - [Article R3413-18](article-r3413-18.md)
-- [Article R3413-19](article-r3413-19.md)
 - [Article R3413-20](article-r3413-20.md)
 - [Article R3413-21](article-r3413-21.md)
 - [Article R3413-22](article-r3413-22.md)

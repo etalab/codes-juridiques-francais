@@ -1,6 +1,6 @@
 # Article R141-11
 
-Le directeur général du Centre des monuments nationaux, le membre du corps du contrôle général économique et financier ou son représentant et l'agent comptable assistent également aux séances du conseil d'administration avec voix consultative.
+Le directeur général du Centre des monuments nationaux, le        contrôleur budgétaire ou son représentant et l'agent comptable assistent également aux séances du conseil d'administration avec voix consultative.
 
 Le président peut appeler à participer aux séances du conseil d'administration avec voix consultative toute personne dont il juge la présence utile.
 

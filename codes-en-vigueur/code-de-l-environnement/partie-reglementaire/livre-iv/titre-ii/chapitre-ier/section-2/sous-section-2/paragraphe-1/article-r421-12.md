@@ -6,4 +6,4 @@ Le conseil ne peut valablement délibérer que si le nombre des membres présent
 
 Les décisions sont prises à la majorité des voix des membres présents ; en cas de partage égal des voix, la voix du président est prépondérante.
 
-Le directeur général de l'office, l'agent comptable, le membre du corps du contrôle général économique et financier  et le commissaire du Gouvernement peuvent assister aux séances du conseil d'administration avec voix consultative.
+Le directeur général de l'office, l'agent comptable, le        contrôleur budgétaire et le commissaire du Gouvernement peuvent assister aux séances du conseil d'administration avec voix consultative.

@@ -25,3 +25,4 @@
 - [Article R571-23](article-r571-23.md)
 - [Article R571-24](article-r571-24.md)
 - [Article R571-25](article-r571-25.md)
+- [Article R571-26](article-r571-26.md)

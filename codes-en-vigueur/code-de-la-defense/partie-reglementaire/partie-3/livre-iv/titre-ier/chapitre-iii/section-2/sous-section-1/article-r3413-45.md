@@ -16,9 +16,9 @@ e) A la fixation annuelle du montant des remises allouées à l'agent comptable 
 
 f) A l'autorisation d'acquérir, d'aliéner, d'échanger des biens immobiliers.
 
-Les délibérations mentionnées ci-dessus, à l'exception de la délibération relative au compte financier, deviennent exécutoires trente jours après la transmission du procès-verbal au ministre de la défense et au ministre chargé de l'économie et des finances, sauf opposition de l'un ou l'autre de ces ministres.
+Les délibérations mentionnées aux c, d, e et f, deviennent exécutoires trente jours après la transmission du procès-verbal au ministre de la défense et au ministre chargé de l'économie et des finances, sauf opposition de l'un ou l'autre de ces ministres.
 
-L'approbation de la délibération relative au compte financier doit faire l'objet d'une mention expresse.
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 2° Sont soumises à l'approbation du ministre de la défense les délibérations qui sont relatives :
 

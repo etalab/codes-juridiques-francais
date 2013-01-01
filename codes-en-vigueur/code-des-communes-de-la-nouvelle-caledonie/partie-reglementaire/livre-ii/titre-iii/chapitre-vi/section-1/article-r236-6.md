@@ -14,4 +14,4 @@ Les pièces mentionnées à l'article précédent comprennent notamment :
 
 6° La copie des délibérations du conseil municipal ou des organes de gestion ;
 
-7° L'avis motivé du trésorier-payeur général ou du membre du corps du contrôle général économique et financier.
+7° L'avis motivé du trésorier-payeur général ou du        contrôleur budgétaire.

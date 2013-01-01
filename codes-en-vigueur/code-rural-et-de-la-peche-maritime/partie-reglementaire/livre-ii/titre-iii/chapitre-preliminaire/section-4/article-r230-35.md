@@ -6,4 +6,4 @@ A défaut de réponse dans le délai imparti par la mise en demeure, le ministre
 
 En cas de réitération du même manquement dans le délai d'un an, le montant de l'amende encourue peut être porté au double.
 
-Ces amendes sont recouvrées au profit du Trésor public selon les procédures prévues pour les créances mentionnées 76 à 79 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique.
+Ces amendes sont recouvrées au profit du Trésor public selon les procédures prévues pour les créances mentionnées au décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

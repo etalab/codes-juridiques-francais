@@ -6,4 +6,4 @@ Le conseil d'administration ne délibère valablement que si la majorité de ses
 
 Les délibérations du conseil sont prises à la majorité absolue des votants ; en cas de partage, la voix du président est prépondérante.
 
-Le lieu, la date et l'heure ainsi que l'ordre du jour des séances sont portés au moins quinze jours à l'avance à la connaissance des membres du conseil d'administration ainsi que du membre du corps du contrôle général économique et financier.
+Le lieu, la date et l'heure ainsi que l'ordre du jour des séances sont portés au moins quinze jours à l'avance à la connaissance des membres du conseil d'administration ainsi que du        contrôleur budgétaire.

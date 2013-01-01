@@ -1,6 +1,6 @@
 # Article R3413-103
 
-Sous réserve des dispositions particulières de la présente section, l'Académie de marine est soumise au régime financier et comptable défini par les textes généraux en vigueur, en particulier les décrets n° 53-1227 du 10 décembre 1953 relatif à la réglementation comptable applicable aux établissements publics nationaux à caractère administratif et n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique.
+Sous réserve des dispositions particulières de la présente section, l'Académie de marine est soumise aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 La commission administrative et financière statue sur toutes les questions financières concernant le fonctionnement matériel de l'académie.
 

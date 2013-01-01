@@ -1,6 +1,6 @@
 # Article R313-29
 
-L'état prévisionnel des recettes et des dépenses est présenté en deux parties (I et II).
+Le budget est présenté en deux parties (I et II).
 
 La partie I correspond aux moyens de l'agence et comporte en dépenses trois enveloppes correspondant respectivement aux a, b, et c du 2° de l'article R. 313-27. Elle comporte en recettes les prévisions concernant les recettes autres que celles mentionnées aux b, c, d et, le cas échéant, une partie des recettes mentionnées aux e, f et j du 1° du même article.
 

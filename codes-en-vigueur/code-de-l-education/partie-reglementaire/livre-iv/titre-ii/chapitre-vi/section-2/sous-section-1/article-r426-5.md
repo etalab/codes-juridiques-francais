@@ -20,4 +20,4 @@ b) Trois représentants des personnels administratifs et techniques ;
 
 Pour chacun des membres mentionnés aux 1° et 2°, un suppléant est désigné dans les mêmes conditions que le titulaire.
 
-Le directeur général, le secrétaire général, l'agent comptable, le membre du corps du contrôle général économique et financier ainsi que tout personne dont la présence est jugée utile par le président assistent aux séances avec voix consultative.
+Le directeur général, le secrétaire général, l'agent comptable, le        contrôleur budgétaire ainsi que tout personne dont la présence est jugée utile par le président assistent aux séances avec voix consultative.

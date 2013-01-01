@@ -10,4 +10,4 @@ Les délibérations sont adoptées à la majorité des membres présents ou repr
 
 Le conseil d'administration peut entendre des experts pour l'examen d'une question figurant à l'ordre du jour.
 
-Le directeur général de l'Institut national de la consommation, le commissaire du Gouvernement, le membre du corps du contrôle général économique et fiancier et l'agent comptable assistent avec voix consultative aux séances du conseil d'administration. Le directeur général peut se faire assister par tout collaborateur de son choix. Il peut se faire représenter en cas d'empêchement.
+Le directeur général de l'Institut national de la consommation, le commissaire du Gouvernement, le contrôleur budgétaire  et l'agent comptable assistent avec voix consultative aux séances du conseil d'administration. Le directeur général peut se faire assister par tout collaborateur de son choix. Il peut se faire représenter en cas d'empêchement.

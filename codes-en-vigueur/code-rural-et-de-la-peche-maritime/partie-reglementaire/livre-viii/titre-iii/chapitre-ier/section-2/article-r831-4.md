@@ -28,6 +28,6 @@ Les membres du conseil d'administration décédés ou démissionnaires et ceux q
 
 Les fonctions de membre du conseil d'administration sont gratuites.
 
-Le ou les directeurs généraux délégués, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
+Le ou les directeurs généraux délégués, le        contrôleur budgétaire et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
 
 Le président de l'institut peut inviter à participer aux réunions de ce conseil tout expert jugé utile en fonction de l'ordre du jour. Les experts ont voix consultative.

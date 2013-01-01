@@ -1,6 +1,6 @@
 # Article D511-83
 
-Les chambres départementales d'agriculture sont soumises au contrôle financier applicable aux établissements publics.
+Les chambres départementales d'agriculture sont soumises au contrôle budgétaire.
 
 Ce contrôle, exercé par l'inspection générale des finances et la mission permanente d'inspection générale et d'audit du              Conseil général de l'alimentation, de l'agriculture et des espaces ruraux, a pour objet de constater l'exacte observation des dispositions législatives et réglementaires.
 

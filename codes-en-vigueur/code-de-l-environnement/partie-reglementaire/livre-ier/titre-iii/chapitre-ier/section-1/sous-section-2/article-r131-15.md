@@ -14,7 +14,7 @@ Chacune d'elles a pour président le président du conseil d'administration ou u
 
 Elle comprend en outre entre huit et douze personnalités désignées par le conseil d'administration pour une durée de cinq ans soit en fonction de leur compétence, soit en tant que représentants des collectivités territoriales, des activités professionnelles concernées ou des associations agréées de protection de l'environnement, de défense des consommateurs ou de surveillance de la qualité de l'air. Chaque personnalité peut se faire remplacer par un membre suppléant, désigné dans les mêmes conditions que le titulaire.
 
-Le   membre du corps du contrôle général économique et financier  et l'agent comptable assistent à titre consultatif aux séances des commissions nationales des aides, ainsi que toute personne invitée par leur président.
+Le        contrôleur budgétaire et l'agent comptable assistent à titre consultatif aux séances des commissions nationales des aides, ainsi que toute personne invitée par leur président.
 
 Les avis des commissions nationales sont rendus à la majorité des membres présents, le président de séance ayant voix prépondérante en cas de partage égal des voix.
 

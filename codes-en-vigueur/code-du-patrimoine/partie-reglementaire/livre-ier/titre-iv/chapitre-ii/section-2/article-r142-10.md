@@ -18,9 +18,9 @@ A ce titre, il délibère notamment sur :
 
 7° Le rapport annuel d'activité ;
 
-8° L'état prévisionnel des recettes et des dépenses et ses modifications ;
+8° Le budget  ;
 
-9° Les comptes de chaque exercice et l'affectation des résultats de l'exercice ;
+9° Le compte financier  ;
 
 10° La politique tarifaire de l'établissement ;
 

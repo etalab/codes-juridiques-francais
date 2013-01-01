@@ -1,8 +1,6 @@
 # Article R411-23
 
-I. - Les fonds de l'agence sont déposés à la Caisse des dépôts et consignations.
-
-L'agence peut demander à la Caisse des dépôts et consignations d'assurer des prestations de gestion de ses fonds.
+I. - Par dérogation au décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, les fonds de l'agence peuvent, sur autorisation délivrée par le ministre chargé de l'économie et le ministre chargé du budget, être déposés à la Caisse des dépôts et consignations.
 
 II. - La gestion financière des fonds peut être confiée à des entreprises d'investissement qui exercent à titre principal l'activité de gestion de portefeuilles pour le compte de tiers. Dans ce cas, l'activité de gestion est confiée par voie de mandats renouvelables périodiquement dans le cadre d'une procédure d'appel à la concurrence.
 

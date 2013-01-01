@@ -1,3 +1,0 @@
-# Article D314-89
-
-Les décisions de modification du budget qui ne comportent ni augmentation du montant total des dépenses, ni accroissement des effectifs, ni diminution du montant total des recettes, ni virement de crédits entre la section de fonctionnement et la section des opérations en capital ou entre les chapitres des dépenses de personnel et les chapitres des dépenses de matériel, sont prises par le directeur général, sous réserve de l'accord du membre du corps du contrôle général économique et financier. Elles sont soumises à ratification par le conseil d'administration lors de sa plus prochaine séance.

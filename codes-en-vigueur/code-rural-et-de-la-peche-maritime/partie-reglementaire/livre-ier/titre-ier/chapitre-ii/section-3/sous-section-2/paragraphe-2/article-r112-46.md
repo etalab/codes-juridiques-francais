@@ -1,6 +1,6 @@
 # Article R112-46
 
-Un membre du corps du contrôle général économique et financier est nommé par arrêté du ministre chargé de l'économie et des finances.
+Un        contrôleur budgétaire est nommé par arrêté du ministre chargé de l'économie et des finances.
 
 Il dispose d'un pouvoir d'information, de conseil et de suggestion sur le fonctionnement économique et financier de l'office. Il transmet ses avis et suggestions au président du conseil d'administration et au commissaire du Gouvernement. L'assemblée de Corse peut, si elle le désire, le consulter sur des sujets relatifs au fonctionnement économique et financier de l'office.
 

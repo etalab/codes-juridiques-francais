@@ -24,4 +24,4 @@ Dans le cas où une élection doit intervenir en application des b et c du 2°, 
 
 Pour chacun des membres mentionnés aux 1°, 2° et 6° ainsi que pour les représentants des parents d'élèves et des lycéens mentionnés au 4°, un suppléant est désigné dans les mêmes conditions que le titulaire.
 
-Le directeur du centre régional, le secrétaire général, l'agent comptable, les directeurs des centres départementaux, le membre du corps du contrôle général économique et financier, ainsi que toute personne dont la présence est jugée utile par le président assistent aux séances avec voix consultative.
+Le directeur du centre régional, le secrétaire général, l'agent comptable, les directeurs des centres départementaux, le        contrôleur budgétaire, ainsi que toute personne dont la présence est jugée utile par le président assistent aux séances avec voix consultative.

@@ -6,4 +6,4 @@ La composition du bureau et les conditions de désignation de ses membres sont p
 
 Le bureau exerce les attributions qui lui ont été déléguées.
 
-Le directeur, l'agent comptable et le membre du corps du contrôle général économique et financier assistent aux réunions du bureau avec voix consultative.
+Le directeur, l'agent comptable et le contrôleur budgétaire  assistent aux réunions du bureau avec voix consultative.

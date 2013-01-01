@@ -12,7 +12,7 @@ Le conseil d'administration de l'Agence pour l'enseignement français à l'étra
 
 5° Le rapport annuel d'activité ;
 
-6° Le budget et les décisions modificatives de celui-ci. Sont soumises au conseil d'administration les décisions modificatives du budget de l'agence qui comportent soit une modification de l'équilibre global, soit une augmentation du montant global des dépenses, soit une diminution des recettes entraînant une perte ou une variation négative du fonds de roulement, soit des virements de crédits entre chapitres. Les autres décisions modificatives du budget de l'agence sont prises par le directeur de l'agence, après visa du membre du corps du contrôle général économique et financier et sont présentées pour information au conseil d'administration lors de sa plus prochaine séance. En cas d'urgence avérée et si le conseil d'administration ne peut se réunir à une date suffisamment proche, une décision modificative d'urgence peut être prise par le directeur de l'agence, après l'autorisation du membre du corps du contrôle général économique et financier, en accord avec le ministre des affaires étrangères et le président du conseil d'administration. Elle doit faire l'objet d'une approbation au cours du plus prochain conseil d'administration ;
+6° Le budget ;
 
 7° Le compte financier et l'affectation des résultats ;
 

@@ -6,4 +6,4 @@ Le président est tenu de convoquer le conseil sur un ordre du jour déterminé,
 
 Sauf en cas d'urgence, le lieu, la date et l'ordre du jour sont portés au moins deux semaines à l'avance à la connaissance des membres du conseil, du commissaire du Gouvernement et du directeur de l'office.
 
-Le commissaire du Gouvernement, ou son représentant, un représentant de l'assemblée de Corse, le membre du corps du contrôle général économique et financier, le chef du service régional de l'aménagement des eaux, les directeurs départementaux de l'agriculture et de la forêt, le directeur de l'office et l'agent comptable assistent aux séances avec voix consultative.
+Le commissaire du Gouvernement, ou son représentant, un représentant de l'assemblée de Corse, le        contrôleur budgétaire, le chef du service régional de l'aménagement des eaux, les directeurs départementaux de l'agriculture et de la forêt, le directeur de l'office et l'agent comptable assistent aux séances avec voix consultative.

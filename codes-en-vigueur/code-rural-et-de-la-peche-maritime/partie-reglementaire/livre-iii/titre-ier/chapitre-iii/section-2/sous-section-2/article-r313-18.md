@@ -12,7 +12,7 @@ d) Le président d'une association agréée de protection de l'environnement dé
 
 e) L'agent comptable ;
 
-f) L'autorité chargée du contrôle économique et financier ;
+f) Le contrôleur budgétaire  ;
 
 g) Un représentant des services déconcentrés désigné par le ministre chargé de l'emploi ;
 

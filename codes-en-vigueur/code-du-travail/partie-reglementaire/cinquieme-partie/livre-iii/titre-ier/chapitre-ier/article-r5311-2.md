@@ -14,4 +14,4 @@ Les membres et le président du comité de suivi sont nommés par arrêté du mi
 
 Le comité de suivi se réunit au moins deux fois par an sur convocation de son président.
 
-Le représentant de l'autorité chargée du contrôle économique et financier assiste aux réunions du comité de suivi.
+Le représentant du contrôleur budgétaire assiste aux réunions du comité de suivi.

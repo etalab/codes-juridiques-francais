@@ -6,7 +6,7 @@ Toutefois, lorsque les recettes annuelles d'exploitation excèdent 75 419,89 eur
 
 L'agent qui remplit les fonctions de comptable spécial est nommé par le haut-commissaire sur proposition du maire.
 
-Il est soumis, sous sa responsabilité personnelle et pécuniaire, à l'ensemble des obligations qui incombent aux comptables publics en vertu du règlement général sur la comptabilité publique.
+Il est soumis, sous sa responsabilité personnelle et pécuniaire, à l'ensemble des obligations qui incombent aux comptables publics en vertu du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Le comptable spécial est soumis à la surveillance du comptable de la commune et du trésorier-payeur général, ainsi qu'au contrôle de l'inspection générale des finances.
 

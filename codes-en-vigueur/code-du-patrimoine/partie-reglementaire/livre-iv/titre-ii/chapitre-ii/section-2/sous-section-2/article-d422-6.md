@@ -12,4 +12,4 @@ Le Conseil artistique des musées nationaux comprend vingt-trois membres, dont l
 
 Les personnalités mentionnées aux 2° à 4° sont nommées pour une durée de trois ans renouvelable.
 
-Le président de l'établissement public de la Réunion des musées nationaux et du Grand Palais des Champs-Elysées, ou son représentant, et le membre du corps du contrôle général économique et financier de cet établissement public assistent aux séances du conseil artistique avec voix consultative.
+Le président de l'établissement public de la Réunion des musées nationaux et du Grand Palais des Champs-Elysées, ou son représentant, et le        contrôleur budgétaire de cet établissement public assistent aux séances du conseil artistique avec voix consultative.

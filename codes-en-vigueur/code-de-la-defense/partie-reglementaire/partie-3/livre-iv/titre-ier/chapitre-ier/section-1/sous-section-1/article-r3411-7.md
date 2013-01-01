@@ -4,13 +4,13 @@ I. ― Le conseil d'administration de l'institut comprend vingt-sept membres :
 
 1° Trois représentants du ministre de la défense, membres de droit :
 
-a) Le directeur des ressources humaines de la     direction générale de l'armement, ou son représentant ;
+a) Le directeur des ressources humaines de la direction générale de l'armement, ou son représentant ;
 
 b) Le directeur des affaires financières du secrétariat général pour l'administration, ou son représentant ;
 
 c) L'inspecteur de l'armement en charge de l'aéronautique et de l'espace.
 
-2° Un directeur de l'administration centrale de la     direction générale de l'armement nommé par arrêté du ministre de la défense, ou son représentant ;
+2° Un directeur de l'administration centrale de la direction générale de l'armement nommé par arrêté du ministre de la défense, ou son représentant ;
 
 3° Cinq autres représentants de l'Etat nommés par arrêté du ministre de la défense sur proposition du ministre intéressé :
 
@@ -40,4 +40,4 @@ e) Un représentant du ministre chargé du budget.
 
 II. ― Un arrêté du ministre de la défense précise les modalités des élections prévues aux 8° et 9° du I.
 
-III. ― Le directeur général de l'institut, l'autorité chargée du contrôle financier de l'établissement ou son représentant et l'agent comptable assistent aux séances du conseil avec voix consultative.
+III. ― Le directeur général de l'institut,      le contrôleur budgétaire  de l'établissement ou son représentant et l'agent comptable assistent aux séances du conseil avec voix consultative.

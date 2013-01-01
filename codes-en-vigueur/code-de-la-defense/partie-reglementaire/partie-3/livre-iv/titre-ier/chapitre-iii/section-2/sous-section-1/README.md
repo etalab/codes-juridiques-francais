@@ -10,7 +10,6 @@
 - [Article R3413-50](article-r3413-50.md)
 - [Article R3413-51](article-r3413-51.md)
 - [Article R3413-52](article-r3413-52.md)
-- [Article R3413-53](article-r3413-53.md)
 - [Article R3413-54](article-r3413-54.md)
 - [Article R3413-55](article-r3413-55.md)
 - [Article R3413-56](article-r3413-56.md)

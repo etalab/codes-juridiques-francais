@@ -5,5 +5,3 @@
 - [Article R426-20](article-r426-20.md)
 - [Article R426-21](article-r426-21.md)
 - [Article R426-22](article-r426-22.md)
-- [Article R426-23](article-r426-23.md)
-- [Article R426-24](article-r426-24.md)

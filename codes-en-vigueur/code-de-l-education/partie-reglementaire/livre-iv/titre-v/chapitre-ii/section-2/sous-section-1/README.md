@@ -1,6 +1,5 @@
 # Sous-section 1 : Agence pour l'enseignement français à l'étranger.
 
-- [Article D452-12](article-d452-12.md)
 - [Article D452-13](article-d452-13.md)
 - [Article D452-14](article-d452-14.md)
 - [Article D452-15](article-d452-15.md)

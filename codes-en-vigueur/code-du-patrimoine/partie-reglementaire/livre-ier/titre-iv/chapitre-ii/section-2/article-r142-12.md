@@ -4,7 +4,7 @@ Les délibérations du conseil d'administration autres que celles mentionnées a
 
 Les décisions du président prises par délégation du conseil d'administration en application du deuxième alinéa de l'article R. 142-11 sont exécutoires dans les mêmes conditions.
 
-Les délibérations portant sur l'état prévisionnel des recettes et des dépenses ou ses modifications ainsi que sur le compte financier sont approuvées par les ministres chargés de la culture et du budget dans les conditions fixées par le décret n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de certaines décisions financières des établissements publics de l'Etat. Toutefois, le délai mentionné au premier alinéa de l'article 1er dudit décret est fixé à quinze jours.
+Les délibérations portant sur le budget sont réputées approuvées à l'expiration d'un délai de quinze jours après leur réception par les ministres de tutelle dans les conditions prévues par l'article 176 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Les délibérations relatives au 14° de l'article R. 142-10 deviennent exécutoires de plein droit un mois après leur réception par les ministres chargés de la culture et du budget si aucun des deux n'y a fait opposition dans ce délai.
 
