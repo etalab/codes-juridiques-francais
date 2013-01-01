@@ -8,7 +8,7 @@ Les contrats sont exécutés dans les conditions antérieures jusqu'à leur éch
 
 L'ensemble des personnels de l'établissement transformé est réputé relever du nouvel établissement dans les conditions de statut et d'emploi qui sont les siennes.
 
-La transformation d'un syndicat intercommunal en communauté de communes ou en communauté d'agglomération est effectuée à titre gratuit et ne donne lieu au paiement d'aucune indemnité, droit, taxe, salaire ou honoraire.
+La transformation d'un syndicat intercommunal en communauté de communes ou en communauté d'agglomération est effectuée à titre gratuit et ne donne lieu au paiement d'aucune indemnité, droit, taxe, contribution prévue à l' article 879 du code général des impôts ou honoraire.
 
 Le nombre et la répartition des membres de l'organe délibérant de la communauté de communes ou de la communauté d'agglomération sont déterminés dans les conditions prévues à l'article L. 5211-6-1.
 
