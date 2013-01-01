@@ -12,7 +12,7 @@ Outre les mentions prescrites pour les actes d'huissier de justice, le commandem
 
 5° La désignation de chacun des biens ou droits sur lesquels porte la saisie immobilière, telle qu'exigée par les règles de la publicité foncière ;
 
-6° L'indication que le commandement vaut saisie de l'immeuble et que le bien est indisponible à l'égard du débiteur à compter de la signification de l'acte et à l'égard des tiers à compter de la publication de celui-ci au bureau des hypothèques ;
+6° L'indication que le commandement vaut saisie de l'immeuble et que le bien est indisponible à l'égard du débiteur à compter de la signification de l'acte et à l'égard des tiers à compter de la publication de celui-ci   au fichier immobilier ;
 
 7° L'indication que le commandement vaut saisie des fruits et que le débiteur en est séquestre ;
 

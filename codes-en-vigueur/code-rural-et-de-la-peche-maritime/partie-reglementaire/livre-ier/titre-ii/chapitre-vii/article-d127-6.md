@@ -4,7 +4,7 @@ Les inscriptions d'hypothèques et privilèges prises avant la date de clôture 
 
 Ces dispositions s'appliquent à tous les immeubles grevés compris dans le périmètre de ces opérations.
 
-Le renouvellement, qui conserve l'hypothèque ou le privilège jusqu'à la date fixée par le créancier conformément à l'article 2435 du code civil, s'opère par le dépôt à la conservation des hypothèques de deux bordereaux signés et certifiés exactement collationnés contenant exclusivement, sous peine de rejet de la formalité :
+Le renouvellement, qui conserve l'hypothèque ou le privilège jusqu'à la date fixée par le créancier conformément à l'article 2435 du code civil, s'opère par le dépôt au service de la publicité foncière de deux bordereaux signés et certifiés exactement collationnés contenant exclusivement, sous peine de rejet de la formalité :
 
 1° Les réquisition et indication liminaires prévues au 1 de l'article 61 du décret n° 55-1350 du 14 octobre 1955 ;
 
@@ -14,6 +14,6 @@ Le renouvellement, qui conserve l'hypothèque ou le privilège jusqu'à la date 
 
 4° Le cas échéant, le capital de la créance garantie, s'il est inférieur à celui qui fait l'objet de l'inscription antérieure.
 
-L'exemplaire du bordereau conservé au bureau des hypothèques doit, sous peine de rejet, être établi sur formule réglementaire.
+L'exemplaire du bordereau conservé dans les registres du service de la publicité foncière doit, sous peine de rejet, être établi sur formule réglementaire.
 
-La radiation des inscriptions antérieures en tant qu'elles grèvent les immeubles échangés ou cédés est effectuée par le conservateur des hypothèques, au vu de ces bordereaux.
+La radiation des inscriptions antérieures en tant qu'elles grèvent les immeubles échangés ou cédés est effectuée par le service de la publicité foncière, au vu de ces bordereaux.

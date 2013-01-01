@@ -8,7 +8,7 @@ Le projet d'échanges et cessions ou l'acte notarié contient notamment :
 
 3° L'estimation, par les parties, de la valeur des immeubles échangés et cédés et, le cas échéant, le montant et les modalités de recouvrement des soultes ;
 
-4° L'indication du mode et, éventuellement, des conditions de l'exploitation, ainsi que l'énumération des inscriptions d'hypothèques et de privilèges, des droits réels, y compris les servitudes actives ou passives, qui portent sur les immeubles, avec l'indication des actes ou décisions judiciaires leur ayant donné naissance et les références de la formalité exécutée à la conservation des hypothèques (date, volume, numéro) ;
+4° L'indication du mode et, éventuellement, des conditions de l'exploitation, ainsi que l'énumération des inscriptions d'hypothèques et de privilèges, des droits réels, y compris les servitudes actives ou passives, qui portent sur les immeubles, avec l'indication des actes ou décisions judiciaires leur ayant donné naissance et les références de la formalité exécutée au service de la publicité foncière (date, volume, numéro) ;
 
 5° Eventuellement, le consentement exprès et sans réserve donné par les bénéficiaires d'hypothèques ou de privilèges inscrits ou de droits réels publiés autres que les servitudes, au transfert de leurs droits sur les immeubles attribués et à la mainlevée des inscriptions grevant les immeubles abandonnés ;
 

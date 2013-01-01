@@ -4,4 +4,4 @@ Le propriétaire, ou tout autre titulaire de droit réel exproprié à titre pri
 
 A défaut de transcription ou de publication du titre précité, l'exproprié bénéficie de la même dispense s'il est inscrit à la matrice des rôles de la commune au titre du bien exproprié. Lorsqu'il n'est pas inscrit à la matrice des rôles, l'exproprié est seulement tenu de justifier des transmissions intervenues depuis la dernière inscription à cette matrice.
 
-A défaut de la production de titres, la justification du droit peut résulter de copies ou d'extraits délivrés par le conservateur des hypothèques, d'attestations notariées ou d'actes de notoriété.
+A défaut de la production des titres, la justification du droit peut résulter de renseignements ou de copies de documents délivrés par le service de la publicité foncière, d'attestations notariées ou d'actes de notoriété.

@@ -4,4 +4,4 @@ L'expropriant adresse au préfet, pour être soumis à enquête dans chacune des
 
 1° Un plan parcellaire régulier des terrains et bâtiments ;
 
-2° La liste des propriétaires établie à l'aide d'extraits des documents cadastraux délivrés par le service du cadastre ou à l'aide des renseignements délivrés par le conservateur des hypothèques au vu du fichier immobilier ou par tous autres moyens.
+2° La liste des propriétaires établie à l'aide d'extraits des documents cadastraux délivrés par le service du cadastre ou à l'aide des renseignements     délivrés par le service de la publicité foncière au vu du fichier immobilier ou par tous autres moyens.

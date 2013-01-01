@@ -4,4 +4,4 @@ Seuls sont mentionnés au procès-verbal, conformément à l'article D. 127-4, l
 
 Les dispositions des alinéas 4 à 7 de l'article 2428 du code civil sont applicables.
 
-La radiation des inscriptions antérieures, en tant qu'elles grèvent les immeubles cédés ou échangés, est effectuée par le conservateur des hypothèques au vu de ces bordereaux.
+La radiation des inscriptions antérieures, en tant qu'elles grèvent les immeubles cédés ou échangés, est effectuée par le service de la publicité foncière au vu de ces bordereaux.

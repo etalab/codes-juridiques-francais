@@ -4,7 +4,7 @@ I. ― Les personnes publiques définies au premier alinéa de l'article L. 2573
 
 II. ― Sauf dispositions contraires de l'arrêté du haut-commissaire de la République prévu au X décidant, dans l'intérêt de l'exploitation de la parcelle que traverse la canalisation, que la servitude n'entraîne pas certains des effets énumérés au présent article, la servitude donne à son bénéficiaire le droit :
 
-1° D'enfouir dans une bande de terrain dont la largeur est fixée par le haut-commissaire de la République, mais qui ne pourra dépasser trois mètres, une ou plusieurs canalisations, une hauteur minimum de 0, 60 mètre étant respectée entre la génératrice supérieure des canalisations et le niveau du sol après les travaux ;
+1° D'enfouir dans une bande de terrain dont la largeur est fixée par le haut-commissaire de la République, mais qui ne pourra dépasser trois mètres, une ou plusieurs canalisations, une hauteur minimum de 0,60 mètre étant respectée entre la génératrice supérieure des canalisations et le niveau du sol après les travaux ;
 
 2° D'essarter, dans la bande de terrain prévue au 1° ci-dessus et, le cas échéant, dans une bande plus large déterminée par l'arrêté du haut-commissaire de la République, les arbres susceptibles de nuire à l'établissement et à l'entretien de la canalisation ;
 
@@ -24,7 +24,7 @@ A cette demande sont annexés :
 
 3° Le plan parcellaire des terrains sur lesquels l'établissement de la servitude est envisagé, avec l'indication du tracé des canalisations à établir, de la profondeur minimum à laquelle les canalisations seront posées, de la largeur des bandes prévues aux 1° et 2° du II et de tous les autres éléments de la servitude. Ces éléments devront être arrêtés de manière que la canalisation soit établie de la façon la plus rationnelle et que la moindre atteinte possible soit portée aux conditions présentes et futures de l'exploitation des terrains ;
 
-4° La liste par commune des propriétaires, établie à l'aide d'extraits des documents cadastraux délivrés par le service du cadastre ou à l'aide des renseignements délivrés par le conservateur des hypothèques au vu du fichier immobilier ou par tous autres moyens.
+4° La liste par commune des propriétaires, établie à l'aide d'extraits des documents cadastraux délivrés par le service du cadastre ou à l'aide des renseignements délivrés par le  service de la publicité foncière au vu du fichier immobilier ou par tous autres moyens.
 
 V. ― Après consultation du président de la Polynésie française, le haut-commissaire de la République prescrit, par arrêté, l'ouverture d'une enquête dans chacune des communes où sont situés les terrains devant être grevés de la servitude et désigne un commissaire enquêteur.
 
