@@ -22,9 +22,7 @@ II.-Le poids total roulant autorisé d'un véhicule articulé d'un ensemble comp
 
 1° 38 tonnes, si l'ensemble considéré ne comporte pas plus de quatre essieux ;
 
-2° 40 tonnes, si l'ensemble considéré comporte cinq essieux ;
-
-3° 44 tonnes, si l'ensemble considéré comporte plus de cinq essieux.
+2° 44 tonnes, si l'ensemble considéré comporte plus de quatre essieux.
 
 III. - Lorsque les exigences de sécurité routière ou de préservation du bon état de la voirie le justifient, un arrêté du représentant de l'Etat dans le département ou un arrêté conjoint des représentants de l'Etat dans les départements intéressés fixe la liste des itinéraires autorisés à la circulation des véhicules mentionnés au 2° du II du présent article et circulant à plus de 40 tonnes, après avis des autorités gestionnaires des voies empruntées. Cet arrêté précise, le cas échéant, les restrictions à la circulation destinées à répondre à ces exigences.
 
