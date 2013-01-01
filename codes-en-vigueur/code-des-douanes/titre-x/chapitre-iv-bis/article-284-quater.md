@@ -10,6 +10,6 @@ Toutefois, la circulation de véhicules dont le poids total en charge dépasse l
 
 Cette majoration n'est mise en recouvrement que lorsque son montant excède 8 euros.
 
-4. Le paiement de la taxe doit être fait par virement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France, lorsque son montant excède 7600 euros.
+4. Le paiement de la taxe doit être effectué par télérèglement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France, lorsque son montant excède 5 000 euros.
 
 5. La méconnaissance de l'obligation prévue au 4 entraine l'application d'une majoration de 0,2 % du montant des sommes dont le versement a été effectué selon un autre moyen de paiement. Cette majoration est recouvrée selon les règles, garanties et sanctions prévues en matière de droits de douane.
