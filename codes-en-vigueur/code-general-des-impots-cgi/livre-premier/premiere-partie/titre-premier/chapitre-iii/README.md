@@ -15,6 +15,8 @@
 - [Section XIV bis : Prélèvement spécial relatif aux écarts de conversion sur les prêts en monnaie étrangère](section-xiv-bis)
 - [Section XVII bis : Contribution exceptionnelle sur l'impôt sur les sociétés](section-xvii-bis)
 - [Section XX : Taxe sur les transactions financières](section-xx)
+- [Section XX bis : Taxe sur les opérations à haute fréquence](section-xx-bis)
+- [Section XX ter : Taxe sur les contrats d'échange sur défaut d'un Etat](section-xx-ter)
 - [Section XIX : Contribution sociale sur l'impôt sur les sociétés](section-xix)
 - [Section XXI : Taxe de risque systémique](section-xxi)
 - [Section XIX bis : Contribution additionnelle à l'impôt sur les sociétés au titre des montants distribués](section-xix-bis)
