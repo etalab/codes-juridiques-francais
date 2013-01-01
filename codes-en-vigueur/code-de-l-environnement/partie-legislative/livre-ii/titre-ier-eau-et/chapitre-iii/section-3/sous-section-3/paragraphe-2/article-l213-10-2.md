@@ -1,8 +1,8 @@
 # Article L213-10-2
 
-I.-Toute personne, à l'exception des propriétaires et occupants d'immeubles à usage principal d'habitation ainsi que des abonnés au service d'eau potable dont les activités impliquent des utilisations de l'eau assimilables aux utilisations à des fins domestiques, dont les activités entraînent le rejet d'un des éléments de pollution mentionnés au IV dans le milieu naturel directement ou par un réseau de collecte, est assujettie à une redevance pour pollution de l'eau d'origine non domestique.
+I. - Toute personne, à l'exception des propriétaires et occupants d'immeubles à usage principal d'habitation ainsi que des abonnés au service d'eau potable dont les activités impliquent des utilisations de l'eau assimilables aux utilisations à des fins domestiques, dont les activités entraînent le rejet d'un des éléments de pollution mentionnés au IV dans le milieu naturel directement ou par un réseau de collecte, est assujettie à une redevance pour pollution de l'eau d'origine non domestique.
 
-II.-L'assiette de la redevance est la pollution annuelle rejetée dans le milieu naturel égale à douze fois la moyenne de la pollution moyenne mensuelle et de la pollution mensuelle rejetée la plus forte. Elle est composée des éléments mentionnés au IV.
+II. - L'assiette de la redevance est la pollution annuelle rejetée dans le milieu naturel égale à douze fois la moyenne de la pollution moyenne mensuelle et de la pollution mensuelle rejetée la plus forte. Elle est composée des éléments mentionnés au IV.
 
 Elle est déterminée directement à partir des résultats du suivi régulier de l'ensemble des rejets, le dispositif de suivi étant agréé et contrôlé par un organisme mandaté par l'agence de l'eau. Toutefois, lorsque le niveau théorique de pollution lié à l'activité est inférieur à un seuil défini par décret ou que le suivi régulier des rejets s'avère impossible, l'assiette est déterminée indirectement par différence entre, d'une part, un niveau théorique de pollution correspondant à l'activité en cause et, d'autre part, le niveau de pollution évitée par les dispositifs de dépollution mis en place par le redevable ou le gestionnaire du réseau collectif.
 
@@ -10,132 +10,132 @@ Le niveau théorique de pollution d'une activité est calculé sur la base de gr
 
 La pollution évitée est déterminée à partir de mesures effectuées chaque année, le dispositif de suivi étant agréé par l'agence de l'eau ou, à défaut, à partir de coefficients évaluant l'efficacité du dispositif de dépollution mis en oeuvre. Lorsque la pollution produite provient d'un épandage direct, elle est calculée indirectement en prenant en compte la qualité des méthodes de récupération des effluents et d'épandage.
 
-III.-Sur demande du redevable, le suivi régulier des rejets visé au II a pour objet de mesurer la pollution annuelle ajoutée par l'activité.
+III. - Sur demande du redevable, le suivi régulier des rejets visé au II a pour objet de mesurer la pollution annuelle ajoutée par l'activité.
 
-IV.-Pour chaque élément constitutif de la pollution, le tarif maximum de la redevance et le seuil au-dessous duquel la redevance n'est pas due sont fixés comme suit :
+IV. - Pour chaque élément constitutif de la pollution, le tarif maximum de la redevance et le seuil au-dessous duquel la redevance n'est pas due sont fixés comme suit :
 
 <table>
 <tbody>
 <tr>
 <td align="center" width="398">
-<p>Eléments constitutifs de la pollution </p>
+<p>Eléments constitutifs de la pollution</p>
 </td>
 <td width="115">
 <p align="center">Tarif </p>
-<p align="center">(en euros par unité) </p>
+<p align="center">(en euros par unité)</p>
 </td>
 <td width="101">
-<p align="center">Seuils </p>
+<p align="center">Seuils</p>
 </td>
 </tr>
 <tr>
 <td width="398">
-<p>Matières en suspension (par kg) </p>
+<p>Matières en suspension (par kg)</p>
 </td>
 <td width="115">
-<p align="center">0,3 </p>
+<p align="center">0,3</p>
 </td>
 <td width="101">
-<p align="center">5 200 kg </p>
+<p align="center">5 200 kg</p>
 </td>
 </tr>
 <tr>
 <td width="398">
-<p>Matières en suspension rejetées en mer au-delà de 5 km du littoral et à plus de 250 m de profondeur (par kg) </p>
+<p>Matières en suspension rejetées en mer au-delà de 5 km du littoral et à plus de 250 m de profondeur (par kg)</p>
 </td>
 <td width="115">
-<p align="center">0,1 </p>
+<p align="center">0,1</p>
 </td>
 <td width="101">
-<p align="center">5 200 kg </p>
+<p align="center">5 200 kg</p>
 </td>
 </tr>
 <tr>
 <td width="398">
-<p>Demande chimique en oxygène (par kg) </p>
+<p>Demande chimique en oxygène (par kg)</p>
 </td>
 <td width="115">
-<p align="center">0,2 </p>
+<p align="center">0,2</p>
 </td>
 <td width="101">
-<p align="center">9 900 kg </p>
+<p align="center">9 900 kg</p>
 </td>
 </tr>
 <tr>
 <td width="398">
-<p>Demande biochimique en oxygène en cinq jours (par kg) </p>
+<p>Demande biochimique en oxygène en cinq jours (par kg)</p>
 </td>
 <td width="115">
-<p align="center">0,4 </p>
+<p align="center">0,4</p>
 </td>
 <td width="101">
-<p align="center">4 400 kg </p>
+<p align="center">4 400 kg</p>
 </td>
 </tr>
 <tr>
 <td width="398">
-<p>Azote réduit (par kg) </p>
+<p>Azote réduit (par kg)</p>
 </td>
 <td width="115">
-<p align="center">0,7 </p>
+<p align="center">0,7</p>
 </td>
 <td width="101">
-<p align="center">880 kg </p>
+<p align="center">880 kg</p>
 </td>
 </tr>
 <tr>
 <td width="398">
-<p>Azote oxydé, nitrites et nitrates (par kg) </p>
+<p>Azote oxydé, nitrites et nitrates (par kg)</p>
 </td>
 <td width="115">
-<p align="center">0,3 </p>
+<p align="center">0,3</p>
 </td>
 <td width="101">
-<p align="center">880 kg </p>
+<p align="center">880 kg</p>
 </td>
 </tr>
 <tr>
 <td width="398">
-<p>Phosphore total, organique ou minéral (par kg) </p>
+<p>Phosphore total, organique ou minéral (par kg)</p>
 </td>
 <td width="115">
-<p align="center">2 </p>
+<p align="center">2</p>
 </td>
 <td width="101">
-<p align="center">220 kg </p>
+<p align="center">220 kg</p>
 </td>
 </tr>
 <tr>
 <td width="398">
-<p>Métox (par kg) </p>
+<p>Métox (par kg)</p>
 </td>
 <td width="115">
-<p align="center">3 </p>
+<p align="center">3,6</p>
 </td>
 <td width="101">
-<p align="center">200 kg </p>
+<p align="center">200 kg</p>
 </td>
 </tr>
 <tr>
 <td width="398">
-<p>Métox rejetées dans les masses d'eau souterraines (par kg) </p>
+<p>Métox rejetées dans les masses d'eau souterraines (par kg)</p>
 </td>
 <td width="115">
-<p align="center">5 </p>
+<p align="center">6</p>
 </td>
 <td width="101">
-<p align="center">200 kg </p>
+<p align="center">200 kg</p>
 </td>
 </tr>
 <tr>
 <td width="398">
-<p>Toxicité aiguë (par kiloéquitox) </p>
+<p>Toxicité aiguë (par kiloéquitox)</p>
 </td>
 <td width="115">
-<p align="center">15 </p>
+<p align="center">18</p>
 </td>
 <td width="101">
-<p align="center">50 kiloéquitox </p>
+<p align="center">50 kiloéquitox</p>
 </td>
 </tr>
 <tr>
@@ -145,72 +145,89 @@ IV.-Pour chaque élément constitutif de la pollution, le tarif maximum de la re
 <td>
 <p align="center"> 4</p>
 </td>
-<td> 50 kiloéquitox</td>
-</tr>
-<tr>
-<td width="398">
-<p>Rejet en masse d'eau souterraine de toxicité aiguë (par kiloéquitox) </p>
-</td>
-<td width="115">
-<p align="center">25 </p>
-</td>
-<td width="101">
-<p align="center">50 kiloéquitox </p>
+<td>
+<p align="center"> 50 kiloéquitox</p>
 </td>
 </tr>
 <tr>
 <td width="398">
-<p>Composés halogénés adsorbables sur charbon actif (par kg) </p>
+<p>Rejet en masse d'eau souterraine de toxicité aiguë (par kiloéquitox)</p>
 </td>
 <td width="115">
-<p align="center">13 </p>
+<p align="center">30</p>
 </td>
 <td width="101">
-<p align="center">50 kg </p>
+<p align="center">50 kiloéquitox</p>
 </td>
 </tr>
 <tr>
 <td width="398">
-<p>Composés halogénés adsorbables sur charbon actif rejetés en masse d'eau souterraine (par kg) </p>
+<p>Composés halogénés adsorbables sur charbon actif (par kg)</p>
 </td>
 <td width="115">
-<p align="center">20 </p>
+<p align="center">13</p>
 </td>
 <td width="101">
-<p align="center">50 kg </p>
+<p align="center">50 kg</p>
 </td>
 </tr>
 <tr>
 <td width="398">
-<p>Sels dissous (m3 [siemens/ centimètre]) </p>
+<p>Composés halogénés adsorbables sur charbon actif rejetés en masse d'eau souterraine (par kg)</p>
 </td>
 <td width="115">
-<p align="center">0,15 </p>
+<p align="center">20</p>
 </td>
 <td width="101">
-<p align="center">2 000 m3*S/ cm </p>
+<p align="center">50 kg</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">Substances dangereuses pour l'environnement rejetées dans les masses d'eau superficielles (par kg) (1)<br/>
+</td>
+<td align="center" valign="top">10<br/>
+</td>
+<td align="center" valign="top">9<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">Substances dangereuses pour l'environnement rejetées dans les masses d'eau souterraines (1)</td>
+<td align="center" valign="top">16,6<br/>
+</td>
+<td align="center" valign="top">9<br/>
 </td>
 </tr>
 <tr>
 <td width="398">
-<p>Chaleur rejetée en mer, excepté en hiver (par mégathermie) </p>
+<p>Sels dissous (m3 [siemens/centimètre])</p>
 </td>
 <td width="115">
-<p align="center">8,5 </p>
+<p align="center">0,15</p>
 </td>
 <td width="101">
-<p align="center">100 Mth </p>
+<p align="center">2 000 m3*S/cm</p>
 </td>
 </tr>
 <tr>
 <td width="398">
-<p>Chaleur rejetée en rivière, excepté en hiver (par mégathermie) </p>
+<p>Chaleur rejetée en mer , excepté en hiver (par mégathermie)</p>
 </td>
 <td width="115">
-<p align="center">85 </p>
+<p align="center">8,5</p>
 </td>
 <td width="101">
-<p align="center">10 Mth </p>
+<p align="center">100 Mth</p>
+</td>
+</tr>
+<tr>
+<td width="398">
+<p>Chaleur rejetée en rivière, excepté en hiver (par mégathermie)</p>
+</td>
+<td width="115">
+<p align="center">85</p>
+</td>
+<td width="101">
+<p align="center">10 Mth</p>
 </td>
 </tr>
 </tbody>
