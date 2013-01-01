@@ -72,7 +72,7 @@ L'âge maximal de maintien en première section est de soixante-sept ans ;
 </tr>
 <tr>
 <td valign="top" width="190">
-<p>Officiers du cadre spécial, commissaires (terre, marine et air), officiers des corps techniques et administratifs, ingénieurs militaires des essences, administrateurs des affaires maritimes</p>
+<p>Officiers du cadre spécial, commissaires des armées, officiers des corps techniques et administratifs, ingénieurs militaires des essences, administrateurs des affaires maritimes</p>
 </td>
 <td colspan="4" valign="bottom" width="398">
 <p align="center">62</p>
