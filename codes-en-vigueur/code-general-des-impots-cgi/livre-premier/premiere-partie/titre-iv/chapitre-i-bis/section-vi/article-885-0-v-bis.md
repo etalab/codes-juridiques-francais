@@ -38,7 +38,7 @@ b) La société a pour objet exclusif de détenir des participations dans des so
 
 c) La société ne compte pas plus de cinquante associés ou actionnaires ;
 
-La condition prévue au premier alinéa du présent c ne s'applique pas si la société détient exclusivement des participations dans une société exerçant une des activités mentionnées au b du 1 dont le capital est détenu pour 10 % au moins par une ou plusieurs sociétés coopératives ou par l'une de leurs unions (1) ;
+La condition prévue au premier alinéa du présent c ne s'applique pas si la société détient exclusivement des participations dans une société exerçant une des activités mentionnées au b du 1 dont le capital est détenu pour 10 % au moins par une ou plusieurs sociétés coopératives ou par l'une de leurs unions ;
 
 d) La société a exclusivement pour mandataires sociaux des personnes physiques ;
 
@@ -60,7 +60,7 @@ II.-1. Le bénéfice de l'avantage fiscal prévu au I est subordonné à la cons
 
 La condition relative à la conservation des titres reçus en contrepartie de la souscription au capital s'applique également à la société mentionnée au premier alinéa du 3 du I et à l'indivision mentionnée au 2 du I.
 
-En cas de remboursement des apports aux souscripteurs avant le 31 décembre de la dixième année suivant celle de la souscription, le bénéfice de l'avantage fiscal prévu au I est remis en cause, sauf si le remboursement fait suite à la liquidation judiciaire de la société.
+En cas de remboursement des apports aux souscripteurs avant le 31 décembre de la dixième année suivant celle de la souscription, le bénéfice de l'avantage fiscal prévu au I est remis en cause, sauf si le remboursement fait suite à la liquidation judiciaire de la société à l'exception des parts investies dans des entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du travail et agréées en vertu du même article avant le 31 décembre 2012, ainsi que dans des établissements de crédit dont 80 % de l'ensemble des prêts et des investissements sont effectués en faveur d'entreprises solidaires mentionnées audit article, pour lesquelles le remboursement doit intervenir après le 31 décembre de la cinquième année suivant celle de la souscription.
 
 2. En cas de non-respect de la condition de conservation prévue au premier alinéa du 1 par suite d'une fusion ou d'une scission au sens de l'article 817 A, l'avantage fiscal mentionné au I accordé au titre de l'année en cours et de celles précédant ces opérations n'est pas remis en cause si les titres reçus en contrepartie sont conservés jusqu'au même terme. Cet avantage fiscal n'est pas non plus remis en cause lorsque la condition de conservation prévue au premier alinéa du 1 n'est pas respectée par suite d'une annulation des titres pour cause de pertes ou de liquidation judiciaire.
 
@@ -76,11 +76,11 @@ a) Les personnes physiques prennent l'engagement de conserver les parts de fonds
 
 b) Le porteur de parts, son conjoint ou son concubin notoire et leurs ascendants et descendants ne doivent pas détenir ensemble plus de 10 % des parts du fonds et, directement ou indirectement, plus de 25 % des droits dans les bénéfices des sociétés dont les titres figurent à l'actif du fonds ou avoir détenu ce montant à un moment quelconque au cours des cinq années précédant la souscription des parts du fonds ;
 
-c) Le fonds doit respecter au minimum le quota d'investissement de 60 % prévu au I de l'article L. 214-30 du code monétaire et financier et au I de l'article L. 214-31 du même code. Si le fonds n'a pas pour objet d'investir plus de 50 % de son actif au capital de jeunes entreprises innovantes définies à l'article 44 sexies-0 A, ce quota doit être atteint à hauteur de 50 % au moins au plus tard huit mois à compter de la date de clôture de la période de souscription fixée dans le prospectus complet du fonds, laquelle ne peut excéder huit mois à compter de la date de constitution du fonds, ou huit mois après la promulgation de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 et à hauteur de 100 % au plus tard le dernier jour du huitième mois suivant.
+c) Le fonds doit respecter au minimum le quota d'investissement de 60 % prévu au I de l'article L. 214-30 du code monétaire et financier et au I de l'article L. 214-31 du même code. Si le fonds n'a pas pour objet d'investir plus de 50 % de son actif au capital de jeunes entreprises innovantes définies à l'article 44 sexies-0 A, ce quota doit être atteint à hauteur de 50 % au moins au plus tard douze mois à compter de la date de clôture de la période de souscription fixée dans le prospectus complet du fonds, laquelle ne peut excéder huit mois à compter de la date de constitution du fonds, ou huit mois après la promulgation de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 et à hauteur de 100 % au plus tard le dernier jour du douzième mois suivant.
 
 Les versements servant de base au calcul de l'avantage fiscal sont retenus après imputation des droits ou frais d'entrée et à proportion du quota d'investissement mentionné au premier alinéa du présent c que le fonds s'engage à atteindre. Un décret fixe les conditions dans lesquelles les porteurs de parts sont informés annuellement du montant détaillé des frais et commissions, directs et indirects, qu'ils supportent et dans lesquelles ces frais sont encadrés.
 
-2. L'avantage fiscal prévu au 1 ne peut être supérieur à 18 000 € par an. Le redevable peut bénéficier de l'avantage fiscal prévu audit 1 et de ceux prévus aux 1,2 et 3 du I au titre de la même année, sous réserve que le montant imputé sur l'impôt de solidarité sur la fortune résultant de ces avantages n'excède pas 45 000 €.
+2. L'avantage fiscal prévu au 1 ne peut être supérieur à 18 000 € par an. Le redevable peut bénéficier de l'avantage fiscal prévu audit 1 et de ceux prévus aux 1, 2 et 3 du I au titre de la même année, sous réserve que le montant imputé sur l'impôt de solidarité sur la fortune résultant de ces avantages n'excède pas 45 000 €.
 
 3. L'avantage fiscal obtenu fait l'objet d'une reprise au titre de l'année au cours de laquelle le fonds ou le redevable cesse de respecter les conditions prévues au 1.
 
@@ -108,7 +108,7 @@ c) La société n'est pas qualifiable d'entreprise en difficulté au sens des li
 
 d) Les versements au titre de souscriptions mentionnés au 1 des I et III n'excèdent pas, par entreprise cible, un montant fixé par décret et qui ne peut dépasser le plafond autorisé par la Commission européenne s'agissant des aides d'Etat visant à promouvoir les investissements en capital-investissement dans les petites et moyennes entreprises ou les entreprises innovantes.
 
-Par dérogation au premier alinéa du présent d, cette condition n'est pas applicable pour les versements au titre de souscriptions effectuées au capital des entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du travail qui ont exclusivement pour objet :
+(1) Par dérogation au premier alinéa du présent d, cette condition n'est pas applicable pour les versements au titre de souscriptions effectuées au capital des entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du travail qui ont exclusivement pour objet :
 
 1° Soit l'étude, la réalisation ou la gestion de construction de logements à destination de personnes défavorisées ou en situation de rupture d'autonomie et sélectionnées par une commission de personnes qualifiées, la société bénéficiant d'un agrément de maîtrise d'ouvrage en application des articles L. 365-1 et suivants du code de la construction et de l'habitation ;
 
@@ -118,6 +118,6 @@ Le bénéfice de la dérogation mentionnée au deuxième alinéa du présent d e
 
 ― la société ne procède pas à la distribution de dividendes ;
 
-― la société réalise son objet social sur l'ensemble du territoire national (2).
+― la société réalise son objet social sur l'ensemble du territoire national.
 
 VII.-Un décret fixe les obligations déclaratives incombant aux redevables et aux sociétés visés au I, ainsi qu'aux gérants et dépositaires de fonds visés au III.
