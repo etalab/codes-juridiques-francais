@@ -1,6 +1,6 @@
 # Article 1649 quater B quater
 
-I.-Les déclarations d'impôt sur les sociétés et leurs annexes relatives à un exercice sont souscrites par voie électronique lorsque le chiffre d'affaires réalisé par l'entreprise au titre de l'exercice précédent est supérieur à 15 millions d'euros hors taxes.
+I.-Les déclarations d'impôt sur les sociétés et leurs annexes relatives à un exercice sont souscrites par voie électronique.
 
 Cette obligation s'applique également aux entreprises qui, quel que soit leur chiffre d'affaires, appartiennent à l'une des catégories suivantes :
 
@@ -22,11 +22,11 @@ Cette obligation s'applique en outre aux personnes morales ou groupements de per
 
 II.-Les déclarations de bénéfices industriels et commerciaux, de bénéfices non commerciaux et de bénéfices agricoles ainsi que leurs annexes sont souscrites par voie électronique par les entreprises définies aux deuxième à dixième alinéas du I.
 
-III.-Les déclarations de taxe sur la valeur ajoutée, leurs annexes et les demandes de remboursement de crédit de cette taxe, ainsi que les déclarations de taxes assimilées aux taxes sur le chiffre d'affaires et leurs annexes sont souscrites par voie électronique lorsque le chiffre d'affaires ou les recettes réalisés par le redevable au titre de l'exercice précédent est supérieur à 230 000 € hors taxes (1).
+III.-Les déclarations de taxe sur la valeur ajoutée, leurs annexes et les demandes de remboursement de crédit de cette taxe, ainsi que les déclarations de taxes assimilées aux taxes sur le chiffre d'affaires et leurs annexes sont souscrites par voie électronique lorsque le chiffre d'affaires ou les recettes réalisés par le redevable au titre de l'exercice précédent est supérieur à 230 000 € hors taxes ou lorsque l'entreprise est soumise à l'impôt sur les sociétés, quel que soit le montant de son chiffre d'affaires (1).
 
 Cette obligation s'applique également aux redevables définis aux deuxième à dixième alinéas du I.
 
-IV.-Les déclarations de cotisation sur la valeur ajoutée des entreprises sont obligatoirement souscrites par voie électronique par les redevables définis aux deuxième à dernier alinéas du I ou lorsque le chiffre d'affaires de l'entreprise redevable est supérieur à 500 000 €.
+IV.-Les déclarations de cotisation sur la valeur ajoutée des entreprises sont obligatoirement souscrites par voie électronique par les redevables définis aux deuxième à dernier alinéas du I ou lorsque le chiffre d'affaires de l'entreprise redevable est supérieur à 500 000 € ou lorsque l'entreprise est soumise à l'impôt sur les sociétés, quel que soit le montant de son chiffre d'affaires.
 
 V.-L'état récapitulatif mentionné au III de l'article 289 B est souscrit par voie électronique. Toutefois, les assujettis bénéficiant du régime visé à l'article 293 B peuvent le déposer sur support papier.
 
