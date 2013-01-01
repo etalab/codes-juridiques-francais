@@ -20,13 +20,13 @@ c. Aux dépenses afférentes à un immeuble collectif achevé depuis plus de deu
 
 4. Pour une même résidence, le montant des dépenses ouvrant droit au crédit d'impôt ne peut excéder, au titre d'une période de cinq années consécutives comprises entre le 1er janvier 2005 et le 31 décembre 2014, la somme de 5 000 € pour une personne célibataire, veuve ou divorcée et de 10 000 € pour un couple marié soumis à imposition commune. Cette somme est majorée de 400 € par personne à charge au sens des articles 196 à 196 B. La somme de 400 € est divisée par deux lorsqu'il s'agit d'un enfant réputé à charge égale de l'un et l'autre de ses parents.
 
-Au titre des dépenses mentionnées au b du 1, la somme mentionnée au premier alinéa du présent 4 est majorée de 5 000 € pour une personne célibataire, veuve ou divorcée et de 10 000 € pour un couple soumis à imposition commune (1).
+Au titre des dépenses mentionnées au b du 1, la somme mentionnée au premier alinéa du présent 4 est majorée de 5 000 € pour une personne célibataire, veuve ou divorcée et de 10 000 € pour un couple soumis à imposition commune.
 
 5. Le crédit d'impôt est égal à :
 
 a. 25 % du montant des dépenses d'installation ou de remplacement d'équipements mentionnées au a du 1 ;
 
-a bis. 30 % du montant des travaux mentionnés au b du 1 ;
+a bis. 40 % (1) du montant des travaux mentionnés au b du 1 ;
 
 b. 15 % du montant des dépenses d'acquisition mentionnées au c du 1.
 
@@ -36,4 +36,8 @@ Le crédit d'impôt est accordé sur présentation de l'attestation mentionnée 
 
 7. Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles 199 quater B à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires.S'il excède l'impôt dû, l'excédent est restitué.
 
-8. Lorsque le bénéficiaire du crédit d'impôt est remboursé dans un délai de cinq ans de tout ou partie du montant des dépenses qui ont ouvert droit à cet avantage, il fait l'objet, au titre de l'année de remboursement et dans la limite du crédit d'impôt obtenu, d'une reprise égale à 15 % ou 25 % de la somme remboursée selon le taux du crédit d'impôt qui s'est appliqué. Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les dépenses ont été payées.
+8. Lorsque le bénéficiaire du crédit d'impôt est remboursé dans un délai de cinq ans de tout ou partie du montant des dépenses qui ont ouvert droit à cet avantage, il fait l'objet, au titre de l'année de remboursement et dans la limite du crédit d'impôt obtenu, d'une reprise égale au montant de l'avantage fiscal accordé à raison de la somme qui a été remboursée. Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les dépenses ont été payées.
+
+9. La durée de l'engagement de location mentionné au premier alinéa du 1 s'apprécie à compter de la date de réalisation des dépenses ou, lorsque le logement n'est pas loué à cette date, à compter de la mise en location qui doit prendre effet, pour chaque logement concerné, dans les douze mois qui suivent la réalisation des dépenses. En cas de non-respect de cet engagement, le ou les crédits d'impôt obtenus pour chaque logement concerné font l'objet d'une reprise au titre de l'année au cours de laquelle l'engagement n'est pas respecté.
+
+10. Pour une même dépense, les dispositions du présent article sont exclusives de celles de l'article 200 quater.

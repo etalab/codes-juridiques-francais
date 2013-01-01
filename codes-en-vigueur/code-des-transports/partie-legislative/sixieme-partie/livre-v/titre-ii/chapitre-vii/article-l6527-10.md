@@ -6,4 +6,4 @@ Le paiement des cotisations dues à la caisse de retraites instituée en applica
 
 1° Par un privilège mobilier prenant rang concurremment avec celui établi par le 4° de l'article 2331 du code civil ;
 
-2° Par une hypothèque légale prenant rang du jour de son inscription au bureau des hypothèques.
+2° Par une hypothèque légale prenant rang du jour de son inscription au fichier immobilier (1).
