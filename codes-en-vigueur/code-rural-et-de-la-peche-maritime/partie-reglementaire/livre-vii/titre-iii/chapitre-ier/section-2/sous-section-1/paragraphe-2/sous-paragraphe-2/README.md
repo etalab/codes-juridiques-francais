@@ -7,4 +7,3 @@
 - [Article D731-41](article-d731-41.md)
 - [Article D731-42](article-d731-42.md)
 - [Article D731-43](article-d731-43.md)
-- [Article D731-44](article-d731-44.md)
