@@ -1,5 +1,6 @@
 # Chapitre IV : Prévention des risques pour la santé et l'environnement résultant de l'exposition aux substances à l'état nanoparticulaire
 
+- [Article D523-22](article-d523-22.md)
 - [Article R523-12](article-r523-12.md)
 - [Article R523-13](article-r523-13.md)
 - [Article R523-14](article-r523-14.md)
