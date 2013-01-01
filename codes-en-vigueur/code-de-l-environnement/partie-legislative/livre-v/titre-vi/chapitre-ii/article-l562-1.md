@@ -22,4 +22,4 @@ VI. ― Les plans de prévention des risques d'inondation sont compatibles ou re
 
 VII. ― Des décrets en Conseil d'Etat définissent en tant que de besoin les modalités de qualification des aléas et des risques, les règles générales d'interdiction, de limitation et d'encadrement des constructions, de prescription de travaux de réduction de la vulnérabilité, ainsi que d'information des populations, dans les zones exposées aux risques définies par les plans de prévention des risques naturels prévisibles.
 
-Les projets de décret sont mis à la disposition du public par voie électronique, pendant une durée d'un mois avant le recueil de l'avis du conseil d'orientation pour la prévention des risques naturels majeurs.
+Les projets de décret sont soumis pour avis au conseil d'orientation pour la prévention des risques naturels majeurs.
