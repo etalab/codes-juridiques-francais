@@ -1,840 +1,832 @@
 # Article L3332-2-1
 
-I. ― A compter du 1er janvier 2011, les départements perçoivent la totalité du produit de la taxe spéciale sur les conventions d'assurance perçue en application du 2° de l'article 1001 du code général des impôts sur les primes ou cotisations échues à compter de cette date.
+I. - Les départements perçoivent une part du produit de la taxe spéciale sur les conventions d'assurance mentionnée aux articles 991 à 1004 du code général des impôts, selon les modalités définies au dernier alinéa de l'article 1001 du même code.
 
 Le département reçoit un produit de la taxe mentionnée au premier alinéa du présent I correspondant à l'application du taux de cette taxe à un pourcentage de l'assiette nationale de cette même taxe, calculé conformément au III.
 
-II. ― A. ― Pour chaque département, est calculée la différence entre les deux termes suivants :
+II. - A. - Pour chaque département, est calculée la différence entre les deux termes suivants :
 
 1° La somme définie au 1° du 1 du II du 1. 2 de l'article 78 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 ;
 
 2° La somme définie au 2° du 1 du II du 1. 2 de l'article 78 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010, le quatrième alinéa de ce 2° relatif à la taxe sur les conventions d'assurance n'étant pas pris en compte.
 
-B. ― La différence ainsi obtenue est rapportée à la somme mentionnée au 1° du A.
+B. - La différence ainsi obtenue est rapportée à la somme mentionnée au 1° du A.
 
-C. ― Pour chaque département, lorsque le rapport calculé conformément au B est supérieur à 10 %, le pourcentage de l'assiette de la taxe, mentionné au I, est égal à la différence calculée conformément au A, rapportée à la somme des différences calculées conformément au même A, des départements pour lesquels le rapport prévu au B est supérieur à 10 %.
+C. - Pour chaque département, lorsque le rapport calculé conformément au B est supérieur à 10 %, le pourcentage de l'assiette de la taxe, mentionné au I, est égal à la différence calculée conformément au A, rapportée à la somme des différences calculées conformément au même A, des départements pour lesquels le rapport prévu au B est supérieur à 10 %.
 
 Ce pourcentage est nul lorsque le rapport calculé conformément au même B est inférieur ou égal à 10 %.
 
-III. ― Ces pourcentages sont fixés comme suit :
+III. - Ces pourcentages sont fixés comme suit :
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>
-<p>DÉPARTEMENT<br/>
-</p>
-</th>
-<th>
-<br/>
-<p>POURCENTAGE<br/>
-</p>
-</th>
+<td width="454">
+<p align="center">DÉPARTEMENT</p>
+</td>
+<td width="227">
+<p align="center">POURCENTAGE</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Ain<br/>
+<td width="454">
+<p>Ain </p>
 </td>
-<td align="center">
-<br/>0,875 2<br/>
+<td width="227">
+<p align="center">0,875 1</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Aisne<br/>
+<td width="454">
+<p>Aisne </p>
 </td>
-<td align="center">
-<br/>0,700 7<br/>
+<td width="227">
+<p align="center">0,703 4</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Allier<br/>
+<td width="454">
+<p>Allier </p>
 </td>
-<td align="center">
-<br/>0,960 8<br/>
+<td width="227">
+<p align="center">0,966 9</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Alpes-de-Haute-Provence<br/>
+<td width="454">
+<p>Alpes-de-Haute-Provence </p>
 </td>
-<td align="center">
-<br/>0,324 3<br/>
+<td width="227">
+<p align="center">0,322 3</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Hautes-Alpes<br/>
+<td width="454">
+<p>Hautes-Alpes </p>
 </td>
-<td align="center">
-<br/>0,239 9<br/>
+<td width="227">
+<p align="center">0,239 3</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Alpes-Maritimes<br/>
+<td width="454">
+<p>Alpes-Maritimes </p>
 </td>
-<td align="center">
-<br/>1,357 2<br/>
+<td width="227">
+<p align="center">1,346 1</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Ardèche<br/>
+<td width="454">
+<p>Ardèche </p>
 </td>
-<td align="center">
-<br/>0,865 1<br/>
+<td width="227">
+<p align="center">0,852 0</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Ardennes<br/>
+<td width="454">
+<p>Ardennes </p>
 </td>
-<td align="center">
-<br/>0,623 2<br/>
+<td width="227">
+<p align="center">0,618 4</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Ariège<br/>
+<td width="454">
+<p>Ariège </p>
 </td>
-<td align="center">
-<br/>0,422 4<br/>
+<td width="227">
+<p align="center">0,424 1</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Aube<br/>
+<td width="454">
+<p>Aube </p>
 </td>
-<td align="center">
-<br/>0,455 9<br/>
+<td width="227">
+<p align="center">0,452 5</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Aude<br/>
+<td width="454">
+<p>Aude </p>
 </td>
-<td align="center">
-<br/>0,919 0<br/>
+<td width="227">
+<p align="center">0,923 4</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Aveyron<br/>
+<td width="454">
+<p>Aveyron </p>
 </td>
-<td align="center">
-<br/>0,603 0<br/>
+<td width="227">
+<p align="center">0,601 7</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Bouches-du-Rhône<br/>
+<td width="454">
+<p>Bouches-du-Rhône </p>
 </td>
-<td align="center">
-<br/>3,420 1<br/>
+<td width="227">
+<p align="center">3,408 2</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Calvados<br/>
+<td width="454">
+<p>Calvados </p>
 </td>
-<td align="center">
-<br/>-<br/>
+<td width="227">
+<p align="center">0,000 0</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cantal<br/>
+<td width="454">
+<p>Cantal </p>
 </td>
-<td align="center">
-<br/>0,344 3<br/>
+<td width="227">
+<p align="center">0,343 9</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Charente<br/>
+<td width="454">
+<p>Charente </p>
 </td>
-<td align="center">
-<br/>0,885 9<br/>
+<td width="227">
+<p align="center">0,889 9</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Charente-Maritime<br/>
+<td width="454">
+<p>Charente-Maritime </p>
 </td>
-<td align="center">
-<br/>0,713 8<br/>
+<td width="227">
+<p align="center">0,715 8</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cher<br/>
+<td width="454">
+<p>Cher </p>
 </td>
-<td align="center">
-<br/>0,493 4<br/>
+<td width="227">
+<p align="center">0,491 7</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Corrèze<br/>
+<td width="454">
+<p>Corrèze </p>
 </td>
-<td align="center">
-<br/>0,534 1<br/>
+<td width="227">
+<p align="center">0,530 5</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Côte-d'Or<br/>
+<td width="454">
+<p>Côte-d'Or </p>
 </td>
-<td align="center">
-<br/>0,344 5<br/>
+<td width="227">
+<p align="center">0,340 4</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Côtes-d'Armor<br/>
+<td width="454">
+<p>Côtes-d'Armor </p>
 </td>
-<td align="center">
-<br/>1,346 8<br/>
+<td width="227">
+<p align="center">1,356 8</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Creuse<br/>
+<td width="454">
+<p>Creuse </p>
 </td>
-<td align="center">
-<br/>0,272 4<br/>
+<td width="227">
+<p align="center">0,273 7</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Dordogne<br/>
+<td width="454">
+<p>Dordogne </p>
 </td>
-<td align="center">
-<br/>0,702 5<br/>
+<td width="227">
+<p align="center">0,705 9</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Doubs<br/>
+<td width="454">
+<p>Doubs </p>
 </td>
-<td align="center">
-<br/>1,235 0<br/>
+<td width="227">
+<p align="center">1,240 8</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Drôme<br/>
+<td width="454">
+<p>Drôme </p>
 </td>
-<td align="center">
-<br/>1,276 9<br/>
+<td width="227">
+<p align="center">1,266 5</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Eure<br/>
+<td width="454">
+<p>Eure </p>
 </td>
-<td align="center">
-<br/>0,541 1<br/>
+<td width="227">
+<p align="center">0,539 5</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Eure-et-Loir<br/>
+<td width="454">
+<p>Eure-et-Loir </p>
 </td>
-<td align="center">
-<br/>0,581 8<br/>
+<td width="227">
+<p align="center">0,582 4</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Finistère<br/>
+<td width="454">
+<p>Finistère </p>
 </td>
-<td align="center">
-<br/>1,541 2<br/>
+<td width="227">
+<p align="center">1,548 1</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Corse-du-Sud<br/>
+<td width="454">
+<p>Corse-du-Sud </p>
 </td>
-<td align="center">
-<br/>0,602 1<br/>
+<td width="227">
+<p align="center">0,601 4</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Haute-Corse<br/>
+<td width="454">
+<p>Haute-Corse </p>
 </td>
-<td align="center">
-<br/>0,446 4<br/>
+<td width="227">
+<p align="center">0,444 6</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Gard<br/>
+<td width="454">
+<p>Gard </p>
 </td>
-<td align="center">
-<br/>1,603 5<br/>
+<td width="227">
+<p align="center">1,602 6</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Haute-Garonne<br/>
+<td width="454">
+<p>Haute-Garonne </p>
 </td>
-<td align="center">
-<br/>2,195 0<br/>
+<td width="227">
+<p align="center">2,190 0</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Gers<br/>
+<td width="454">
+<p>Gers </p>
 </td>
-<td align="center">
-<br/>0,519 5<br/>
+<td width="227">
+<p align="center">0,522 3</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Gironde<br/>
+<td width="454">
+<p>Gironde </p>
 </td>
-<td align="center">
-<br/>1,966 2<br/>
+<td width="227">
+<p align="center">1,962 9</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Hérault<br/>
+<td width="454">
+<p>Hérault </p>
 </td>
-<td align="center">
-<br/>1,883 7<br/>
+<td width="227">
+<p align="center">1,873 4</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Ille-et-Vilaine<br/>
+<td width="454">
+<p>Ille-et-Vilaine </p>
 </td>
-<td align="center">
-<br/>1,897 6<br/>
+<td width="227">
+<p align="center">1,895 8</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Indre<br/>
+<td width="454">
+<p>Indre </p>
 </td>
-<td align="center">
-<br/>0,317 7<br/>
+<td width="227">
+<p align="center">0,321 2</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Indre-et-Loire<br/>
+<td width="454">
+<p>Indre-et-Loire </p>
 </td>
-<td align="center">
-<br/>0,433 1<br/>
+<td width="227">
+<p align="center">0,425 5</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Isère<br/>
+<td width="454">
+<p>Isère </p>
 </td>
-<td align="center">
-<br/>3,191 0<br/>
+<td width="227">
+<p align="center">3,203 0</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Jura<br/>
+<td width="454">
+<p>Jura </p>
 </td>
-<td align="center">
-<br/>0,602 6<br/>
+<td width="227">
+<p align="center">0,606 1</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Landes<br/>
+<td width="454">
+<p>Landes </p>
 </td>
-<td align="center">
-<br/>0,8946<br/>
+<td width="227">
+<p align="center">0,897 4</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Loir-et-Cher<br/>
+<td width="454">
+<p>Loir-et-Cher </p>
 </td>
-<td align="center">
-<br/>0,450 0<br/>
+<td width="227">
+<p align="center">0,444 3</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Loire<br/>
+<td width="454">
+<p>Loire </p>
 </td>
-<td align="center">
-<br/>1,723 2<br/>
+<td width="227">
+<p align="center">1,726 9</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Haute-Loire<br/>
+<td width="454">
+<p>Haute-Loire </p>
 </td>
-<td align="center">
-<br/>0,545 4<br/>
+<td width="227">
+<p align="center">0,549 8</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Loire-Atlantique<br/>
+<td width="454">
+<p>Loire-Atlantique </p>
 </td>
-<td align="center">
-<br/>1,689 7<br/>
+<td width="227">
+<p align="center">1,684 3</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Loiret<br/>
+<td width="454">
+<p>Loiret </p>
 </td>
-<td align="center">
-<br/>-<br/>
+<td width="227">
+<p align="center">0,000 0</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Lot<br/>
+<td width="454">
+<p>Lot </p>
 </td>
-<td align="center">
-<br/>0,345 1<br/>
+<td width="227">
+<p align="center">0,351 0</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Lot-et-Garonne<br/>
+<td width="454">
+<p>Lot-et-Garonne </p>
 </td>
-<td align="center">
-<br/>0,633 2<br/>
+<td width="227">
+<p align="center">0,635 9</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Lozère<br/>
+<td width="454">
+<p>Lozère </p>
 </td>
-<td align="center">
-<br/>0,083 2<br/>
+<td width="227">
+<p align="center">0,083 0</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Maine-et-Loire<br/>
+<td width="454">
+<p>Maine-et-Loire </p>
 </td>
-<td align="center">
-<br/>0,472 6<br/>
+<td width="227">
+<p align="center">0,475 6</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Manche<br/>
+<td width="454">
+<p>Manche </p>
 </td>
-<td align="center">
-<br/>1,027 5<br/>
+<td width="227">
+<p align="center">1,027 3</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Marne<br/>
+<td width="454">
+<p>Marne </p>
 </td>
-<td align="center">
-<br/>-<br/>
+<td width="227">
+<p align="center">0,000 0</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Haute-Marne<br/>
+<td width="454">
+<p>Haute-Marne </p>
 </td>
-<td align="center">
-<br/>0,330 7<br/>
+<td width="227">
+<p align="center">0,332 3</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Mayenne<br/>
+<td width="454">
+<p>Mayenne </p>
 </td>
-<td align="center">
-<br/>0,557 4<br/>
+<td width="227">
+<p align="center">0,563 7</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Meurthe-et-Moselle<br/>
+<td width="454">
+<p>Meurthe-et-Moselle </p>
 </td>
-<td align="center">
-<br/>1,694 7<br/>
+<td width="227">
+<p align="center">1,700 2</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Meuse<br/>
+<td width="454">
+<p>Meuse </p>
 </td>
-<td align="center">
-<br/>0,423 2<br/>
+<td width="227">
+<p align="center">0,423 6</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Morbihan<br/>
+<td width="454">
+<p>Morbihan </p>
 </td>
-<td align="center">
-<br/>1,025 2<br/>
+<td width="227">
+<p align="center">1,026 4</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Moselle<br/>
+<td width="454">
+<p>Moselle </p>
 </td>
-<td align="center">
-<br/>1,370 5<br/>
+<td width="227">
+<p align="center">1,368 4</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Nièvre<br/>
+<td width="454">
+<p>Nièvre </p>
 </td>
-<td align="center">
-<br/>0,695 3<br/>
+<td width="227">
+<p align="center">0,698 1</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Nord<br/>
+<td width="454">
+<p>Nord </p>
 </td>
-<td align="center">
-<br/>5,066 9<br/>
+<td width="227">
+<p align="center">5,056 4</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Oise<br/>
+<td width="454">
+<p>Oise </p>
 </td>
-<td align="center">
-<br/>1,490 2<br/>
+<td width="227">
+<p align="center">1,497 3</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Orne<br/>
+<td width="454">
+<p>Orne </p>
 </td>
-<td align="center">
-<br/>0,375 6<br/>
+<td width="227">
+<p align="center">0,375 2</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Pas-de-Calais<br/>
+<td width="454">
+<p>Pas-de-Calais </p>
 </td>
-<td align="center">
-<br/>3,761 4<br/>
+<td width="227">
+<p align="center">3,779 9</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Puy-de-Dôme<br/>
+<td width="454">
+<p>Puy-de-Dôme </p>
 </td>
-<td align="center">
-<br/>0,924 7<br/>
+<td width="227">
+<p align="center">0,927 0</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Pyrénées-Atlantiques<br/>
+<td width="454">
+<p>Pyrénées-Atlantiques </p>
 </td>
-<td align="center">
-<br/>1,114 6<br/>
+<td width="227">
+<p align="center">1,121 4</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Hautes-Pyrénées<br/>
+<td width="454">
+<p>Hautes-Pyrénées </p>
 </td>
-<td align="center">
-<br/>0,692 7<br/>
+<td width="227">
+<p align="center">0,694 4</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Pyrénées-Orientales<br/>
+<td width="454">
+<p>Pyrénées-Orientales </p>
 </td>
-<td align="center">
-<br/>1,145 4<br/>
+<td width="227">
+<p align="center">1,151 7</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Bas-Rhin<br/>
+<td width="454">
+<p>Bas-Rhin </p>
 </td>
-<td align="center">
-<br/>1,980 1<br/>
+<td width="227">
+<p align="center">1,986 1</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Haut-Rhin<br/>
+<td width="454">
+<p>Haut-Rhin </p>
 </td>
-<td align="center">
-<br/>1,984 6<br/>
+<td width="227">
+<p align="center">1,961 5</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Rhône<br/>
+<td width="454">
+<p>Rhône </p>
 </td>
-<td align="center">
-<br/>-<br/>
+<td width="227">
+<p align="center">0,000 0</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Haute-Saône<br/>
+<td width="454">
+<p>Haute-Saône </p>
 </td>
-<td align="center">
-<br/>0,407 0<br/>
+<td width="227">
+<p align="center">0,406 9</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Saône-et-Loire<br/>
+<td width="454">
+<p>Saône-et-Loire </p>
 </td>
-<td align="center">
-<br/>1,002 7<br/>
+<td width="227">
+<p align="center">1,005 9</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Sarthe<br/>
+<td width="454">
+<p>Sarthe </p>
 </td>
-<td align="center">
-<br/>1,021 5<br/>
+<td width="227">
+<p align="center">1,030 2</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Savoie<br/>
+<td width="454">
+<p>Savoie </p>
 </td>
-<td align="center">
-<br/>0,931 5<br/>
+<td width="227">
+<p align="center">0,922 6</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Haute-Savoie<br/>
+<td width="454">
+<p>Haute-Savoie </p>
 </td>
-<td align="center">
-<br/>1,208 6<br/>
+<td width="227">
+<p align="center">1,208 6</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Paris<br/>
+<td width="454">
+<p>Paris </p>
 </td>
-<td align="center">
-<br/>-<br/>
+<td width="227">
+<p align="center">0,000 0</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Seine-Maritime<br/>
+<td width="454">
+<p>Seine-Maritime </p>
 </td>
-<td align="center">
-<br/>2,105 6<br/>
+<td width="227">
+<p align="center">2,106 8</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Seine-et-Marne<br/>
+<td width="454">
+<p>Seine-et-Marne </p>
 </td>
-<td align="center">
-<br/>1,661 4<br/>
+<td width="227">
+<p align="center">1,620 1</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Yvelines<br/>
+<td width="454">
+<p>Yvelines </p>
 </td>
-<td align="center">
-<br/>-<br/>
+<td width="227">
+<p align="center">0,000 0</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Deux-Sèvres<br/>
+<td width="454">
+<p>Deux-Sèvres </p>
 </td>
-<td align="center">
-<br/>0,570 9<br/>
+<td width="227">
+<p align="center">0,571 5</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Somme<br/>
+<td width="454">
+<p>Somme </p>
 </td>
-<td align="center">
-<br/>1,472 5<br/>
+<td width="227">
+<p align="center">1,478 6</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Tarn<br/>
+<td width="454">
+<p>Tarn </p>
 </td>
-<td align="center">
-<br/>0,903 7<br/>
+<td width="227">
+<p align="center">0,908 9</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Tarn-et-Garonne<br/>
+<td width="454">
+<p>Tarn-et-Garonne </p>
 </td>
-<td align="center">
-<br/>0,557 7<br/>
+<td width="227">
+<p align="center">0,554 4</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Var<br/>
+<td width="454">
+<p>Var </p>
 </td>
-<td align="center">
-<br/>1,418 6<br/>
+<td width="227">
+<p align="center">1,423 6</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Vaucluse<br/>
+<td width="454">
+<p>Vaucluse </p>
 </td>
-<td align="center">
-<br/>1,365 4<br/>
+<td width="227">
+<p align="center">1,373 6</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Vendée<br/>
+<td width="454">
+<p>Vendée </p>
 </td>
-<td align="center">
-<br/>1,512 5<br/>
+<td width="227">
+<p align="center">1,518 6</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Vienne<br/>
+<td width="454">
+<p>Vienne </p>
 </td>
-<td align="center">
-<br/>0,518 1<br/>
+<td width="227">
+<p align="center">0,513 1</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Haute-Vienne<br/>
+<td width="454">
+<p>Haute-Vienne </p>
 </td>
-<td align="center">
-<br/>0,684 9<br/>
+<td width="227">
+<p align="center">0,687 7</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Vosges<br/>
+<td width="454">
+<p>Vosges </p>
 </td>
-<td align="center">
-<br/>1,288 0<br/>
+<td width="227">
+<p align="center">1,295 4</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Yonne<br/>
+<td width="454">
+<p>Yonne </p>
 </td>
-<td align="center">
-<br/>0,571 5<br/>
+<td width="227">
+<p align="center">0,574 7</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Territoire de Belfort<br/>
+<td width="454">
+<p>Territoire de Belfort </p>
 </td>
-<td align="center">
-<br/>0,268 0<br/>
+<td width="227">
+<p align="center">0,269 3</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Essonne<br/>
+<td width="454">
+<p>Essonne </p>
 </td>
-<td align="center">
-<br/>2,356 9<br/>
+<td width="227">
+<p align="center">2,370 2</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Hauts-de-Seine<br/>
+<td width="454">
+<p>Hauts-de-Seine </p>
 </td>
-<td align="center">
-<br/>-<br/>
+<td width="227">
+<p align="center">0,000 0</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Seine-Saint-Denis<br/>
+<td width="454">
+<p>Seine-Saint-Denis </p>
 </td>
-<td align="center">
-<br/>3,371 4<br/>
+<td width="227">
+<p align="center">3,368 2</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Val-de-Marne<br/>
+<td width="454">
+<p>Val-de-Marne </p>
 </td>
-<td align="center">
-<br/>1,887 3<br/>
+<td width="227">
+<p align="center">1,863 4</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Val-d'Oise<br/>
+<td width="454">
+<p>Val-d'Oise </p>
 </td>
-<td align="center">
-<br/>1,012 3<br/>
+<td width="227">
+<p align="center">1,014 6</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Guadeloupe<br/>
+<td width="454">
+<p>Guadeloupe </p>
 </td>
-<td align="center">
-<br/>0,561 6<br/>
+<td width="227">
+<p align="center">0,558 5</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Martinique<br/>
+<td width="454">
+<p>Martinique </p>
 </td>
-<td align="center">
-<br/>0,229 6<br/>
+<td width="227">
+<p align="center">0,232 0</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Guyane<br/>
+<td width="454">
+<p>Guyane </p>
 </td>
-<td align="center">
-<br/>0,374 3<br/>
+<td width="227">
+<p align="center">0,375 6</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>La Réunion<br/>
+<td width="454">
+<p>La Réunion </p>
 </td>
-<td align="center">
-<br/>-<br/>
+<td width="227">
+<p align="center">0,000 0</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-IV. - A compter du 1er janvier 2011, il est attribué aux départements le produit de la taxe spéciale sur les conventions d'assurance perçue, en application du premier alinéa des 2° bis, dans sa rédaction en vigueur au 18 septembre 2011, et 6° de l'article 1001 du code général des impôts, sur les primes ou cotisations échues à compter de cette même date. Chaque département reçoit un produit déterminé dans des conditions identiques à celles prévues au second alinéa du I du présent article, le pourcentage de l'assiette étant celui fixé au III.
-
-A compter du 1er octobre 2011, il est attribué aux départements le produit de la taxe spéciale sur les conventions d'assurance perçue, en application du 6° de l'article 1001 du code général des impôts dans sa rédaction en vigueur à cette même date, sur les primes ou cotisations échues à compter de ladite date. Chaque département reçoit un produit déterminé dans des conditions identiques à celles prévues au second alinéa du I du présent article, le pourcentage de l'assiette étant celui fixé au III.
