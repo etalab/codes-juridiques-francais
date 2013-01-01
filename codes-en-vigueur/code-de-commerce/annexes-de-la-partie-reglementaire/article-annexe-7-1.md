@@ -764,7 +764,7 @@ Siège et ressort des tribunaux de commerce
 </td>
 </tr>
 <tr>
-<td rowspan="5" valign="top" width="148">
+<td rowspan="4" valign="top" width="148">
 <p>Nord </p>
 </td>
 <td valign="top" width="142">
@@ -786,26 +786,18 @@ Siège et ressort des tribunaux de commerce
 <p>Dunkerque </p>
 </td>
 <td valign="top" width="206">
-<p>Ressort du tribunal de grande instance de Dunkerque </p>
+<p>Ressort du tribunal de grande instance de Dunkerque</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="142">
+<td valign="top" width="142">
 <p>Lille </p>
 </td>
 <td valign="top" width="180">
-<p>Lille </p>
+<p>Tourcoing</p>
 </td>
 <td valign="top" width="206">
-<p>Ressort du tribunal d'instance de Lille, à l'exception du canton de Lannoy </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="180">
-<p>Roubaix-Tourcoing </p>
-</td>
-<td valign="top" width="206">
-<p>Ressort des tribunaux d'instance de Roubaix et de Tourcoing et canton de Lannoy </p>
+<p>Ressort du tribunal de grande instance de Lille</p>
 </td>
 </tr>
 <tr>
