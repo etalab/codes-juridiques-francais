@@ -1,7 +1,5 @@
-# Section 1 : Dispositions générales
+# Section 1 : Politique immobilière de la défense
 
-- [Article D5131-4](article-d5131-4.md)
-- [Article D5131-5](article-d5131-5.md)
 - [Article D5131-6](article-d5131-6.md)
 - [Article D5131-7](article-d5131-7.md)
 - [Article R5131-1](article-r5131-1.md)
