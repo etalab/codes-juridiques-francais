@@ -13,3 +13,5 @@ A compter de 2009, pour le calcul du montant de la dotation globale de fonctionn
 En 2011, le montant de la dotation globale de fonctionnement des départements mise en répartition est augmenté de 67 millions d'euros par rapport à 2010.
 
 En 2012, le montant de la dotation globale de fonctionnement des départements est égal à celui mis en répartition en 2011, minoré du montant correspondant aux mouvements effectués en 2012 en application de l'article 199-1 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales.
+
+En 2013, le montant de la dotation globale de fonctionnement des départements est égal à celui mis en répartition en 2012, minoré du montant correspondant aux réductions de dotation à prévoir en 2013 en application de l'article 199-1 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales et majoré d'un montant de dix millions d'euros.

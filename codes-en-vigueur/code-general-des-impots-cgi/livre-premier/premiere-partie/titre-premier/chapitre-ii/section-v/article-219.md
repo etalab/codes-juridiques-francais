@@ -50,7 +50,7 @@ Par dérogation au premier alinéa, le régime des plus ou moins-values à long 
 
 a quinquies. Pour les exercices ouverts à compter du 1er janvier 2006, le montant net des plus-values à long terme afférentes à des titres de participation fait l'objet d'une imposition séparée au taux de 8 %. Ce taux est fixé à 0 % pour les exercices ouverts à compter du 1er janvier 2007.
 
-Pour les exercices ouverts à compter du 1er janvier 2007, une quote-part de frais et charges égale à 5 % du résultat net des plus-values de cession est prise en compte pour la détermination du résultat imposable. Cette quote-part de frais et charges est portée au taux de 10 % pour les exercices ouverts à compter du 1er janvier 2011.
+Une quote-part de frais et charges égale à 12 % du montant brut des plus-values de cession est prise en compte pour la détermination du résultat imposable.
 
 Les titres de participation mentionnés au premier alinéa sont les titres de participation revêtant ce caractère sur le plan comptable, les actions acquises en exécution d'une offre publique d'achat ou d'échange par l'entreprise qui en est l'initiatrice et les titres ouvrant droit au régime des sociétés mères si ces actions ou titres sont inscrits en comptabilité au compte titres de participation ou à une subdivision spéciale d'un autre compte du bilan correspondant à leur qualification comptable, à l'exception des titres des sociétés à prépondérance immobilière définis au troisième alinéa du a.
 

@@ -6,7 +6,7 @@ Cette disposition n'est pas applicable aux cessions d'immeubles réalisées par 
 
 Les organisations internationales, les Etats étrangers, les banques centrales et les institutions financières publiques de ces Etats sont exonérés de ce prélèvement dans les conditions prévues à l'article 131 sexies.
 
-Par dérogation au premier alinéa, les personnes physiques, les associés personnes physiques de sociétés ou groupements dont les bénéfices sont imposés au nom des associés et les porteurs de parts, personnes physiques, de fonds de placement immobilier mentionnés à l'article 239 nonies, résidents d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, sont soumis au prélèvement selon le taux fixé au premier alinéa de l'article 200 B. Par dérogation aux premier et présent alinéas, le taux est porté à 50 % lorsque les plus-values sont réalisées par ces mêmes personnes ou organismes lorsqu'ils sont domiciliés, établis ou constitués hors de France dans un Etat ou territoire non coopératif au sens de l'article 238-0 A.
+Par dérogation au premier alinéa, les personnes physiques, les associés personnes physiques de sociétés ou groupements dont les bénéfices sont imposés au nom des associés et les porteurs de parts, personnes physiques, de fonds de placement immobilier mentionnés à l'article 239 nonies, résidents d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, sont soumis au prélèvement selon le taux fixé au premier alinéa de l'article 200 B. Par dérogation aux premier et présent alinéas, le taux est porté à 75 % lorsque les plus-values sont réalisées par ces mêmes personnes ou organismes lorsqu'ils sont domiciliés, établis ou constitués hors de France dans un Etat ou territoire non coopératif au sens de l'article 238-0 A.
 
 2. Sont soumis au prélèvement mentionné au 1 :
 
@@ -38,7 +38,7 @@ h) De parts, d'actions ou d'autres droits dans des organismes, autres que ceux m
 
 II.-Lorsque le prélèvement mentionné au I est dû par des contribuables assujettis à l'impôt sur le revenu, les plus-values sont déterminées selon les modalités définies :
 
-1° Au I et aux 2° à 9° du II de l'article 150 U (1), aux II et III de l'article 150 UB et aux articles 150 V à 150 VD ;
+1° Au I et aux 2° à 9° du II de l'article 150 U , aux II et III de l'article 150 UB et aux articles 150 V à 150 VD ;
 
 2° Au III de l'article 150 U lorsqu'elles s'appliquent à des ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales.
 

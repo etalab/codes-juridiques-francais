@@ -1,6 +1,6 @@
 # Article L741-16-1
 
-I.-Les caisses de mutualité sociale agricole se substituent, selon les modalités définies au II, aux employeurs de travailleurs définis aux I et II de l'article L. 741-16 pour le paiement de la part patronale des cotisations suivantes, dues pour l'emploi de ces mêmes salariés :
+I. - Les caisses de mutualité sociale agricole se substituent, selon les modalités définies au II, aux employeurs de travailleurs définis aux I et II de l'article L. 741-16 pour le paiement de la part patronale des cotisations suivantes, dues pour l'emploi de ces mêmes salariés :
 
 1° La participation des employeurs au développement de la formation professionnelle continue, prévue à l'article L. 6331-1 du code du travail ;
 
@@ -16,8 +16,8 @@ I.-Les caisses de mutualité sociale agricole se substituent, selon les modalit�
 
 7° La cotisation due au titre du fonctionnement du service de santé et de sécurité au travail prévue à l'article L. 717-2-1.
 
-II.-Cette prise en charge est calculée selon les modalités et le barème dégressif prévus à l'article L. 741-16.
+II. - Cette prise en charge est calculée selon les modalités et le barème dégressif prévus à l'article L. 741-16.
 
-Cette prise en charge donne lieu à compensation intégrale par l'Etat. Elle est cumulable avec le bénéfice des exonérations totales ou partielles de cotisations patronales ou salariales prévues aux articles L. 741-5, L. 741-16 et L. 751-18 du présent code ainsi qu'avec la déduction forfaitaire prévue à l'article L. 241-18 du code de la sécurité sociale.
+Cette prise en charge donne lieu à compensation intégrale par l'Etat. Elle est cumulable avec le bénéfice des exonérations totales ou partielles de cotisations patronales ou salariales prévues aux  articles L. 741-5 et L. 741-16  du présent code ainsi qu'avec la déduction forfaitaire prévue à l'article L. 241-18 du code de la sécurité sociale.
 
 IV. - Les conditions d'application du présent article sont fixées par décret.

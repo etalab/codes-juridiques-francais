@@ -8,6 +8,6 @@ Font l'objet d'un apurement administratif par les autorités compétentes de l'E
 
 3° Les comptes des associations syndicales autorisées et des associations de remembrement ;
 
-4° Les comptes des établissements publics locaux d'enseignement, à compter de l'exercice 2013, dont le montant des ressources de fonctionnement figurant au dernier compte financier est inférieur à trois millions d'euros.
+4° Les comptes des établissements publics locaux d'enseignement, à compter de l'exercice 2012, dont le montant des ressources de fonctionnement figurant au dernier compte financier est inférieur à trois millions d'euros.
 
 Le montant des recettes ordinaires pris en compte pour l'application du présent article est réévalué tous les cinq ans, à compter de 2013, en fonction de l'évolution de l'indice des prix à la consommation hors tabac.

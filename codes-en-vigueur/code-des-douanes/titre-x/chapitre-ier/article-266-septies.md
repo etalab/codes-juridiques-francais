@@ -6,9 +6,9 @@ Le fait générateur de la taxe mentionnée à l'article 266 sexies est constitu
 
 1 bis. Le transfert des déchets à la date figurant sur le document de suivi adressé aux autorités compétentes du pays d'expédition en application du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil, du 14 juin 2006, concernant les transferts de déchets ou, à défaut de document de suivi, à la date de sortie du territoire ;
 
-2. L'émission dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies, d'oxydes de soufre et autres composés soufrés, d'oxydes d'azote et autres composés oxygénés de l'azote, d'acide chlorhydrique, d'hydrocarbures non méthaniques, solvants et autres composés organiques volatils ainsi que de poussières totales en suspension ;
+2. L'émission dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies, d'oxydes de soufre et autres composés soufrés, d'oxydes d'azote et autres composés oxygénés de l'azote, d'acide chlorhydrique, d'hydrocarbures non méthaniques, solvants, de benzène et d'hydrocarbures aromatiques polycycliques et autres composés organiques volatils, d'arsenic, de mercure, de sélénium ainsi que de poussières totales en suspension ;
 
-3. (alinéa abrogé) ;
+3. (Alinéa abrogé) ;
 
 4. a) La première livraison ou la première utilisation des lubrifiants mentionnés au a du 4 du I de l'article 266 sexies ;
 
@@ -22,12 +22,12 @@ c) L'utilisation des huiles et préparations lubrifiantes mentionnées au c du 4
 
 b) La première utilisation de ces matériaux ;
 
-7. Alinéa abrogé ;
+7. (Alinéa abrogé) ;
 
 8. a. La délivrance de l'autorisation prévue par les articles L. 512-1 et L. 512-8 du code de l'environnement ;
 
 b. L'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies ;
 
-9. L'émission d'imprimés papiers et la mise sur le marché des papiers à usage graphique par les personnes et dans les conditions mentionnées au 9 du I de l'article 266 sexies ;
+9. (Alinéa abrogé) ;
 
-10. La première livraison ou la première utilisation des sacs de caisse à usage  unique en matière plastique mentionnés au 10 du I de l'article 266 sexies.
+10. La première livraison ou la première utilisation des sacs de caisse à usage unique en matière plastique mentionnés au 10 du I de l'article 266 sexies.

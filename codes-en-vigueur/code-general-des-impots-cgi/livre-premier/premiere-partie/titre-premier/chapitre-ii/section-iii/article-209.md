@@ -4,7 +4,9 @@ I. Sous réserve des dispositions de la présente section, les bénéfices passi
 
 Toutefois, par dérogation aux dispositions du deuxième alinéa de l'article 37, l'impôt sur les sociétés dû par les entreprises créées à compter du 1er janvier 1984 est établi, lorsqu'aucun bilan n'est dressé au cours de la première année civile d'activité, sur les bénéfices de la période écoulée depuis le commencement des opérations jusqu'à la date de clôture du premier exercice et, au plus tard, jusqu'au 31 décembre de l'année suivant celle de la création.
 
-Sous réserve de l'option prévue à l'article 220 quinquies, en cas de déficit subi pendant un exercice, ce déficit est considéré comme une charge de l'exercice suivant et déduit du bénéfice réalisé pendant ledit exercice dans la limite d'un montant de 1 000 000 € majoré de 60 % du montant correspondant au bénéfice imposable dudit exercice excédant ce premier montant. Si ce bénéfice n'est pas suffisant pour que la déduction puisse être intégralement opérée, l'excédent du déficit est reporté dans les mêmes conditions sur les exercices suivants. Il en est de même de la fraction de déficit non admise en déduction en application de la première phrase du présent alinéa.
+Sous réserve de l'option prévue à l'article 220 quinquies, en cas de déficit subi pendant un exercice, ce déficit est considéré comme une charge de l'exercice suivant et déduit du bénéfice réalisé pendant ledit exercice dans la limite d'un montant de 1 000 000 € majoré de 50 % du montant correspondant au bénéfice imposable dudit exercice excédant ce premier montant. Si ce bénéfice n'est pas suffisant pour que la déduction puisse être intégralement opérée, l'excédent du déficit est reporté dans les mêmes conditions sur les exercices suivants. Il en est de même de la fraction de déficit non admise en déduction en application de la première phrase du présent alinéa.
+
+La limite de 1 000 000 € mentionnée au troisième alinéa est majorée du montant des abandons de créances consentis à une société en application d'un accord constaté ou homologué dans les conditions prévues à l'article L. 611-8 du code de commerce ou dans le cadre d'une procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire ouverte à son nom.
 
 II. En cas de fusion ou opération assimilée placée sous le régime de l'article 210 A, les déficits antérieurs et la fraction d'intérêts mentionnée au sixième alinéa du 1 du II de l'article 212 non encore déduits par la société absorbée ou apporteuse sont transférés, sous réserve d'un agrément délivré dans les conditions prévues à l'article 1649 nonies, à la ou aux sociétés bénéficiaires des apports, et imputables sur ses ou leurs bénéfices ultérieurs dans les conditions prévues respectivement au troisième alinéa du I et au sixième alinéa du 1 du II de l'article 212.
 
@@ -30,7 +32,7 @@ IV.-1. Pour la détermination du résultat imposable des sociétés d'assurance 
 
 2. Les sommes prélevées sur le compte " fonds d'établissement " sont rapportées au résultat imposable de l'exercice en cours à la date de ce prélèvement, dans la limite de celles ayant bénéficié des dispositions du 1.
 
-3. La disposition du 2 n'est pas applicable en cas d'imputation de pertes sur le compte " fonds d'établissement " ; les pertes ainsi annulées cessent d'être reportables.
+3. La disposition du 2 n'est pas applicable en cas d'imputation de pertes sur le compte "fonds d'établissement" ; les pertes ainsi annulées cessent d'être reportables.
 
 V. Pour la détermination du résultat imposable des entreprises bénéficiant ou ayant bénéficié du régime défini à l'article 209-0 B, le montant des plus ou moins-values provenant de la cession de navires éligibles à ce régime et réalisées pendant ou après la période couverte par l'option visée au III de ce même article est réduit à concurrence du rapport existant entre la durée de détention pendant la période couverte par cette option et la durée totale de détention.
 
@@ -41,6 +43,8 @@ VI.-Le vingtième alinéa du 5° du 1 de l'article 39 s'applique distinctement a
 VII.-Les frais liés à l'acquisition de titres de participation définis au dix-huitième alinéa du 5° du 1 de l'article 39 ne sont pas déductibles au titre de leur exercice d'engagement mais sont incorporés au prix de revient de ces titres. Pour l'application des dispositions de la phrase précédente, les frais d'acquisition s'entendent des droits de mutation, honoraires, commissions et frais d'actes liés à l'acquisition.
 
 La fraction du prix de revient des titres mentionnés au premier alinéa correspondant à ces frais d'acquisition peut être amortie sur cinq ans à compter de la date d'acquisition des titres.
+
+VII bis. - Lorsque des titres de participation mentionnés au troisième alinéa du a quinquies du I de l'article 219 ont été acquis dans le cadre d'une opération d'augmentation de capital libérée par compensation avec des créances liquides et exigibles qui ont été acquises auprès d'une entreprise tierce non liée, au sens du 12 de l'article 39, à l'entreprise qui acquiert les titres, ni à l'entreprise émettrice, le profit imposable est déterminé en tenant compte de la valeur réelle des titres reçus en contrepartie. Les liens de dépendance mentionnés à la première phrase du présent VII bis sont appréciés à la date de l'acquisition des titres et au cours des douze mois qui précèdent et qui suivent cette date.
 
 VIII.-Pour les sociétés coopératives d'intérêt collectif, la part des excédents mis en réserves impartageables est déductible de l'assiette de l'impôt sur les sociétés.
 
@@ -63,3 +67,5 @@ a) que les acquisitions mentionnées au 1 n'ont pas été financées par des emp
 b) ou que le ratio d'endettement du groupe auquel elle appartient est supérieur ou égal à son propre ratio d'endettement.
 
 Pour l'application des deuxième et troisième alinéas du présent 6, le groupe et les ratios d'endettement s'entendent conformément aux dispositions des deux derniers alinéas du III de l'article 212.
+
+7. Les fractions d'intérêts non déductibles au cours de l'exercice en application de l'article 212 et des six derniers alinéas de l'article 223 B ne sont pas prises en compte pour le calcul des charges financières devant être rapportées au bénéfice de l'exercice en application du présent article.

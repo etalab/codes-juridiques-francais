@@ -6,7 +6,7 @@ La taxe mentionnée à l'article 266 sexies est assise sur :
 
 2. Le poids des substances émises dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies ;
 
-3. (alinéa abrogé à compter du 1er janvier 2005) ;
+3. (Alinéa abrogé à compter du 1er janvier 2005) ;
 
 4. Le poids net des lubrifiants, huiles et préparations lubrifiantes mentionnés au 4 du I de l'article 266 sexies ;
 
@@ -14,8 +14,8 @@ La taxe mentionnée à l'article 266 sexies est assise sur :
 
 6. Le poids des matériaux d'extraction mentionnés au 6 du I de l'article 266 sexies ;
 
-7. Alinéa abrogé ;
+7. (Alinéa abrogé) ;
 
-8. La masse annuelle, exprimée en kilogrammes, des imprimés papiers et des papiers à usage graphique, respectivement mentionnés au I et au III de l'article L. 541-10-1 du code de l'environnement, pour lesquels la contribution prévue à ce même article n'a pas été acquittée ;
+8. (Alinéa abrogé) ;
 
 9. Le poids des sacs de caisse à usage unique en matière plastique mentionnés au 10 du I de l'article 266 sexies.

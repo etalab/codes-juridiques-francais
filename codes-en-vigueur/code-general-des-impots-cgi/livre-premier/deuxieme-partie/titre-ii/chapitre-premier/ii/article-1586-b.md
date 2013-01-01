@@ -14,4 +14,6 @@ A compter de l'année 2011, les taux à prendre en compte pour les départements
 
 Au titre de 2011, la compensation calculée selon les dispositions du sixième alinéa et à laquelle sont appliqués le taux d'évolution fixé au titre de 2009 et le taux d'évolution fixé au titre de 2010 est minorée par application du taux défini au IV de l'article 51 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011.
 
-Au titre de 2012, la même compensation, à laquelle sont appliqués les taux d'évolution fixés au titre de 2009, 2010 et 2011, est minorée par application du taux prévu pour 2012 au III de l'article 33 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
+Au titre de 2012, la même compensation, à laquelle sont appliqués les taux d'évolution fixés au titre de 2009,2010 et 2011, est minorée par application du taux prévu pour 2012 au III de l'article 33 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
+
+Au titre de 2013, la même compensation, à laquelle sont appliqués les taux d'évolution fixés au titre de 2009,2010,2011 et 2012, est minorée par application du taux prévu pour 2013 au IV de l'article 31 de la loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013.

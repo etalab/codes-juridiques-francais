@@ -2,7 +2,7 @@
 
 Il est créé, dans les comptes de l'établissement public mentionné à l'article L. 523-1, un Fonds national pour l'archéologie préventive.
 
-Les recettes du fonds sont constituées par un prélèvement sur le produit de la redevance d'archéologie préventive prévue à l'article L. 524-2. La part du produit de la redevance qui lui est affectée ne peut être inférieure à 30 %. Elle est fixée chaque année par décision de l'autorité administrative.
+Les recettes du fonds sont constituées par un prélèvement sur le produit de la redevance d'archéologie préventive prévue à l'article L. 524-2. La part du produit de la redevance qui lui est affectée ne peut être inférieure à 30 % du montant à percevoir avant application du plafonnement mentionné au premier alinéa de l'article L. 524-11. Elle est fixée chaque année par décision de l'autorité administrative.
 
 Ce fonds finance les subventions accordées par l'Etat aux personnes projetant d'exécuter des travaux qui ont donné lieu à l'édiction d'une prescription de fouille d'archéologie préventive conformément aux dispositions de l'article L. 522-2. Les interventions de ce fonds visent à faciliter la conciliation entre la préservation du patrimoine archéologique et le développement des territoires, en particulier ruraux.
 

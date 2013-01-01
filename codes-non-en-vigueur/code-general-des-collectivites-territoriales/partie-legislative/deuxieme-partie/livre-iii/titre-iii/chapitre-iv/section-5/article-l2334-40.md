@@ -6,7 +6,11 @@ Peuvent bénéficier de cette dotation les communes de métropole éligibles l'a
 
 Lorsque la compétence en matière de politique de la ville a été transférée par une commune éligible à un établissement public de coopération intercommunale, celui-ci peut bénéficier, sur décision du représentant de l'Etat dans le département, de la dotation de développement urbain pour le compte de cette commune.
 
-Après constitution de la quote-part définie à l'article L. 2334-41, les crédits de la dotation de développement urbain sont répartis entre les départements en tenant compte du nombre de communes éligibles dans chaque département et de leur classement selon les critères prévus au deuxième alinéa.
+Les crédits de la dotation de développement urbain sont répartis entre les départements :
+
+1° Pour deux tiers, en tenant compte de la quote-part définie à l'article L. 2334-41 et du nombre de communes éligibles dans chaque département ainsi que de leur classement selon les critères prévus au deuxième alinéa du présent article ;
+
+2° Pour un tiers, en tenant compte du nombre de communes éligibles dans chaque département comprises dans la première moitié du classement et de leur classement selon les critères prévus au même deuxième alinéa.
 
 Pour l'utilisation de ces crédits, le représentant de l'Etat dans le département conclut une convention avec la commune ou l'établissement public de coopération intercommunale. Ces crédits sont attribués en vue de la réalisation de projets d'investissement ou d'actions dans le domaine économique et social. La subvention accordée ne doit pas avoir pour effet de faire prendre en charge tout ou partie des dépenses de personnel de la commune. Le représentant de l'Etat dans le département arrête les attributions de dotations sur la base d'objectifs prioritaires fixés chaque année par le Premier ministre après avis du Conseil national des villes.
 

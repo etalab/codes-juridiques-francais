@@ -6,3 +6,4 @@
 - [Article 885 G](article-885-g.md)
 - [Article 885 G bis](article-885-g-bis.md)
 - [Article 885 G ter](article-885-g-ter.md)
+- [Article 885 G quater](article-885-g-quater.md)

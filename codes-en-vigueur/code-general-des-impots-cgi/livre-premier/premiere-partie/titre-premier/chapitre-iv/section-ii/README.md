@@ -29,7 +29,7 @@
 - [XVII bis : Personnes morales passibles de l'impôt sur les sociétés ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble.](xvii-bis)
 - [XVII ter : Régime fiscal des fonds de placement immobiliers](xvii-ter)
 - [XVIII : Déclaration des commissions, courtages, ristournes, honoraires, des droits d'auteur, des rémunérations d'associés et des parts de bénéfices](xviii)
-- [XX : Attribution de l'avoir fiscal aux non-résidents](xx)
+- [XX : Information relative au revenu fiscal de référence.](xx)
 - [XX bis : Déclaration des sociétés de gestion de fonds communs de placement à risques, de fonds professionnels de capital investissement et des sociétés de capital-risque](xx-bis)
 - [XX ter : Déclaration des investissements réalisés outre-mer.](xx-ter)
 - [XIX : Déclaration des revenus de capitaux mobiliers (IFU)](xix)

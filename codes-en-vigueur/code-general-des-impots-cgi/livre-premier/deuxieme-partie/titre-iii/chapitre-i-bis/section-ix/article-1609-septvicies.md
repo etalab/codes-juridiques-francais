@@ -12,7 +12,9 @@ V.-La taxe est déclarée et liquidée, selon le cas, sur les déclarations ment
 
 La taxe est constatée, recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties et privilèges que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.
 
-VI.-Le produit de la taxe mentionnée au I est affecté à l'établissement mentionné à l'article L. 621-1 du code rural et de la pêche maritime. Cet établissement crée un fonds à comptabilité distincte auquel est rattaché ce produit, à l'exception d'une part fixée par décret dans la limite de 3 % de ce produit, qui est destinée à financer la gestion des opérations imputées sur le fonds.
+VI.-Le produit de la taxe mentionnée au I est affecté à l'établissement mentionné à l'article L. 621-1 du code rural et de la pêche maritime, dans la limite du plafond prévu au
+I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011
+de finances pour 2012. Cet établissement crée un fonds à comptabilité distincte auquel est rattaché ce produit, à l'exception d'une part fixée par décret dans la limite de 3 % de ce produit, qui est destinée à financer la gestion des opérations imputées sur le fonds.
 
 Ce fonds a pour objet de contribuer au financement des dépenses du service public de l'équarrissage et d'aides à la collecte et au traitement des sous-produits animaux des exploitations agricoles ainsi qu'au financement des mesures concourant au stockage, au transport et à l'élimination des farines d'origine animale.
 

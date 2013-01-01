@@ -10,4 +10,4 @@ Celui prévu au 2° de l'article 219 bis, pour les dividendes qui bénéficient 
 
 -30 % pour tous les autres revenus.
 
-2. Le taux de la retenue à la source prévue au 2 de l'article 119 bis est fixé à 55 % pour les produits mentionnés aux articles 108 à 117 bis et payés hors de France, dans un Etat ou territoire non coopératif au sens de l'article 238-0 A.
+2. Le taux de la retenue à la source prévue au 2 de l'article 119 bis est fixé à 75 % pour les produits mentionnés aux articles 108 à 117 bis et payés hors de France, dans un Etat ou territoire non coopératif au sens de l'article 238-0 A.

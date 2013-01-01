@@ -12,9 +12,9 @@ A compter de la deuxième année, le montant de l'attribution totale par habitan
 
 2° Une dotation de compensation égale à la somme :
 
-a) De la part de la dotation de compensation due au seul titre des établissements publics de coopération intercommunale, telle que prévue au premier alinéa de l'article L. 5211-28-1 et versée l'année précédant la création de la métropole, indexée tous les ans selon le taux mentionné au 3° de l'article L. 2334-7 ;
+a) De la part de la dotation de compensation due au seul titre des établissements publics de coopération intercommunale, telle que prévue au premier alinéa de l'article L. 5211-28-1 et versée l'année précédant la création de la métropole, indexée tous les ans selon le taux mentionné au 3° du I de l'article L. 2334-7 ;
 
-b) Et de la part de la dotation forfaitaire des communes incluses dans le périmètre de la métropole correspondant à la compensation antérieurement perçue en application du I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), indexée tous les ans selon le taux mentionné au 3° de l'article L. 2334-7.
+b) Et de la part de la dotation forfaitaire des communes incluses dans le périmètre de la métropole correspondant à la compensation antérieurement perçue en application du I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), indexée tous les ans selon le taux mentionné au 3° du I de l'article L. 2334-7.
 
 Lorsqu'une ou plusieurs des communes ou un ou plusieurs des établissements publics de coopération intercommunale inclus dans le périmètre de la métropole subissaient un prélèvement sur la fiscalité en application du 1.2.4.2 de l'article 77 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010, la dotation de compensation versée à la métropole est minorée du montant de ce prélèvement. En cas de retrait de communes ou d'établissements publics de coopération intercommunale, la dotation de compensation de la métropole est majorée, le cas échéant, en fonction de la part du prélèvement subi par celle-ci en application du même 1.2.4.2.
 

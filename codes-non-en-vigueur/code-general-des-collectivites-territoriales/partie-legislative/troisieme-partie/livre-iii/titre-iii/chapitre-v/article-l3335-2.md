@@ -4,7 +4,7 @@ I. ― A compter de 2011, il est créé un Fonds national de péréquation des d
 
 Le fonds est alimenté par deux prélèvements selon les modalités prévues aux II et III. Il est réparti entre ses bénéficiaires selon les dispositions du V.
 
-Lorsque le montant total des deux prélèvements est supérieur à 380 millions d'euros, le comité des finances locales peut décider de mettre en réserve, dans un fonds de garantie départemental des corrections conjoncturelles, tout ou partie du montant excédant ce niveau. Sur décision de ce comité, tout ou partie des sommes ainsi mises en réserve vient abonder les ressources mises en répartition au titre des années suivantes lorsque les prélèvements alimentant le fonds sont inférieurs à 300 millions d'euros.
+Lorsque le montant total des deux prélèvements est supérieur à 380 millions d'euros, le comité des finances locales peut décider de mettre en réserve, dans un fonds de garantie départemental des corrections conjoncturelles, tout ou partie du montant excédant ce niveau. Sur décision de ce comité, tout ou partie des sommes ainsi mises en réserve vient abonder les ressources mises en répartition au titre des années suivantes lorsque les prélèvements alimentant le fonds sont inférieurs d'au moins 5 % au montant des ressources réparties au titre de l'année précédente.
 
 II. ― Sont contributeurs au premier prélèvement les départements dont le montant par habitant des droits perçus l'année précédente est supérieur à 0,75 fois le montant moyen par habitant des droits perçus par l'ensemble des départements cette même année.
 
@@ -36,17 +36,19 @@ Ce prélèvement est égal à la moitié de l'excédent constaté au a du prése
 
 IV. ― Les prélèvements définis aux II et III sont effectués sur les douzièmes prévus par l'article L. 3332-1-1. Le montant prélevé au titre de chacun des deux prélèvements calculés aux II et III ne peut excéder, pour un département contributeur, 5 % des droits perçus au titre de l'année précédente.
 
-V. ― Après prélèvement d'un montant égal aux régularisations effectuées l'année précédente, les ressources du Fonds national de péréquation des droits de mutation à titre onéreux sont réparties, chaque année, entre les départements dont le potentiel financier par habitant, tel que défini à l'article L. 3334-6, est inférieur à la moyenne des potentiels financiers par habitant de l'ensemble des départements. Par dérogation, les départements d'outre-mer sont éligibles de droit à cette répartition.
+V. ― Après prélèvement d'un montant égal aux régularisations effectuées l'année précédente et d'un montant correspondant à la garantie prévue au dernier alinéa du présent V, les ressources du Fonds national de péréquation des droits de mutation à titre onéreux sont réparties, chaque année, entre les départements dont le potentiel financier par habitant, tel que défini à l'article L. 3334-6, est inférieur à la moyenne des potentiels financiers par habitant de l'ensemble des départements ou dont le revenu par habitant est inférieur au revenu moyen par habitant de l'ensemble des départements. Par dérogation, les départements d'outre-mer sont éligibles de droit à cette répartition.
 
 Les ressources du fonds sont réparties :
 
-1° Pour un tiers au prorata du rapport entre le potentiel financier par habitant de l'ensemble des départements et le potentiel financier par habitant du département ;
+1° Pour un tiers au prorata du rapport entre le revenu moyen par habitant de l'ensemble des départements et le revenu par habitant du département, multiplié par la population du département ;
 
 2° Pour un tiers au prorata du rapport entre le potentiel financier par habitant de l'ensemble des départements et le potentiel financier par habitant du département, multiplié par la population du département ;
 
 3° Pour un tiers au prorata du rapport entre le montant par habitant des droits de mutation à titre onéreux perçus par l'ensemble des départements en application des articles 1594 A et 1595 du code général des impôts et le montant par habitant de ces mêmes droits perçu par le département.
 
 En 2012, le potentiel financier utilisé pour l'application du 2 est celui calculé pour l'année 2011.
+
+A compter de 2013, les départements qui cessent d'être éligibles à la répartition des ressources du fonds perçoivent, à titre de garantie pour les trois exercices suivants, une attribution égale, respectivement, à 75 %, 50 % et 25 % du montant perçu l'année précédant celle au titre de laquelle ils ont perdu l'éligibilité.
 
 VI. ― Pour l'application du présent article, la population à prendre en compte est celle calculée en application de l'article L. 3334-2.
 

@@ -10,5 +10,4 @@
 - [Article L5211-32](article-l5211-32.md)
 - [Article L5211-32-1](article-l5211-32-1.md)
 - [Article L5211-33](article-l5211-33.md)
-- [Article L5211-34](article-l5211-34.md)
 - [Article L5211-35-1](article-l5211-35-1.md)
