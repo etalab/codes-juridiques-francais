@@ -12,7 +12,7 @@ Ils ne sont pas soumis au quota prévu au I de l'article L. 214-28.
 
 Les deux premiers alinéas de l'article L. 214-38 sont applicables aux fonds communs de placement à risques contractuels.
 
-Par dérogation aux dispositions de l'article L. 214-20, le règlement du fonds commun de placement à risques contractuel fixe les règles d'investissement et d'engagement.
+Par dérogation aux dispositions des articles L. 214-20 et L. 214-21, le règlement du fonds commun de placement à risques contractuel fixe les règles d'investissement et d'engagement.
 
 Par dérogation aux dispositions du premier alinéa de l'article L. 214-8, il prévoit les conditions et les modalités de rachat des parts.
 
