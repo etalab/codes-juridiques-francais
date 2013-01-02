@@ -8,3 +8,4 @@
 - [Section 7 : Livraisons surveillées.](section-7)
 - [Section 7 bis : Equipes communes d'enquête](section-7-bis)
 - [Section 8 : Retenue provisoire des personnes](section-8)
+- [Section 9 : Contrôle des titres](section-9)
