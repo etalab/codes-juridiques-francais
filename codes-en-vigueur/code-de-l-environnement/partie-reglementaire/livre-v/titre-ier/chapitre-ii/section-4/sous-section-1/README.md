@@ -7,3 +7,4 @@
 - [Paragraphe 5 : Agrément des organismes de contrôle](paragraphe-5)
 - [Paragraphe 6 : Surveillance de l'installation](paragraphe-6)
 - [Paragraphe 7 : Caducité](paragraphe-7)
+- [Paragraphe 9 : Déclaration des émissions polluantes et des déchets produits](paragraphe-9)

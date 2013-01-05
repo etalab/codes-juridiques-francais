@@ -18,6 +18,6 @@ A chaque exemplaire de la demande d'enregistrement doivent être jointes les pi�
 
 8° Un document justifiant du respect des prescriptions applicables à l'installation en vertu du présent titre, notamment les prescriptions générales édictées par le ministre chargé des installations classées en application du I de l'article L. 512-7. Ce document présente notamment les mesures retenues et les performances attendues par le demandeur pour garantir le respect de ces prescriptions ;
 
-9° Les éléments permettant au préfet d'apprécier, s'il y a lieu, la compatibilité du projet avec les plans, schémas et programmes mentionnés aux 4° à 15° du tableau du I de l'article R. 122-17 ainsi qu'avec les mesures fixées par l'arrêté prévu à l'article R. 222-36 ;
+9° Les éléments permettant au préfet d'apprécier, s'il y a lieu, la compatibilité du projet avec les plans, schémas et programmes mentionnés aux 4°, 5°, 16° à 23°, 26° et 27° du tableau du I de l'article R. 122-17 ainsi qu'avec les mesures fixées par l'arrêté prévu à l'article R. 222-36 ;
 
 10° L'indication, s'il y a lieu, que l'emplacement de l'installation est situé dans un parc national, un parc naturel régional, une réserve naturelle, un parc naturel marin ou un site Natura 2000.
