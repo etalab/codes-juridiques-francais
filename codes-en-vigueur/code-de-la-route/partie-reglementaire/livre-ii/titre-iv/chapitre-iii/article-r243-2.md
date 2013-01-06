@@ -6,11 +6,13 @@ Les articles R. 235-1 à R. 235-13 sont applicables en Nouvelle-Calédonie dans 
 
 "Art. R. 235-2 - Pour l'application de l'article L. 235-2, doit être regardé comme étant un accident mortel de la circulation celui qui a des conséquences immédiatement mortelles.
 
-"Art. R. 235-3 - Les épreuves de dépistage prévues par l'article L. 235-2 sont effectuées par un médecin ou un biologiste, requis à cet effet par un officier ou agent de police judiciaire qui leur fournit les matériels nécessaires au dépistage.
+"Art. R. 235-3.-Les épreuves de dépistage prévues par l'article L. 235-2 sont effectuées par un médecin ou un biologiste, requis à cet effet par un officier ou agent de police judiciaire ou par un agent de police judiciaire adjoint, sur l'ordre et sous la responsabilité d'un officier de police judiciaire, qui leur fournit les matériels nécessaires au dépistage lorsqu'il s'agit d'un recueil urinaire.
 
-"Art. R. 235-4 - Les épreuves de dépistage réalisées à la suite d'un recueil de liquide biologique sont effectuées conformément aux méthodes et dans les conditions prescrites par un arrêté du ministre chargé de la santé, qui tient compte des particularités locales et qui précise notamment les critères de choix des réactifs et le modèle des fiches présentant les résultats.
+Ces épreuves sont effectuées par un officier ou agent de police judiciaire ou par un agent de police judiciaire adjoint dans les conditions prévues à l'alinéa précédent, lorsqu'il s'agit d'un recueil salivaire.
 
-Ces fiches sont remises à l'officier ou l'agent de police judiciaire mentionné à l'article R. 235-3.
+"Art. R. 235-4.-Les épreuves de dépistage réalisées à la suite d'un recueil de liquide biologique sont effectuées conformément aux méthodes et dans les conditions prescrites par un arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence nationale de sécurité du médicament et des produits de santé, qui tient compte des particularités locales et qui précise notamment les critères de choix des réactifs et le modèle des fiches présentant les résultats. Lorsqu'il s'agit d'un recueil salivaire, cet arrêté est également pris par le ministre de la justice, par le ministre de l'intérieur et par le ministre chargé de l'outre-mer.
+
+Ces fiches sont remises à l'officier ou l'agent de police judiciaire, ou à l'agent de police judiciaire adjoint, ou complétées par ces derniers lorsqu'il s'agit d'un recueil salivaire.
 
 "Art. R. 235-5 - Les analyses et examens médicaux, cliniques et biologiques prévus à l'article L. 235-2 comportent les opérations suivantes :
 
@@ -22,7 +24,7 @@ Ces fiches sont remises à l'officier ou l'agent de police judiciaire mentionné
 
 "Art. R. 235-6 - L'examen clinique et le prélèvement biologique sont effectués par un médecin requis à cet effet par un officier ou un agent de police judiciaire. Le prélèvement biologique peut également être effectué par un biologiste requis dans les mêmes conditions.
 
-Ce praticien effectue le prélèvement biologique à l'aide d'un nécessaire mis à sa disposition par un officier ou un agent de police judiciaire, en se conformant aux méthodes prescrites par un arrêté du ministre chargé de la santé, qui tient compte des particularités locales.
+Ce praticien effectue le prélèvement biologique à l'aide d'un nécessaire mis à sa disposition par un officier ou un agent de police judiciaire, en se conformant aux méthodes prescrites par un arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence nationale de sécurité du médicament et des produits de santé, qui tient compte des particularités locales.
 
 Un officier ou un agent de police judiciaire assiste au prélèvement biologique.
 
@@ -30,13 +32,13 @@ Un officier ou un agent de police judiciaire assiste au prélèvement biologique
 
 "Art. R. 235-8 - En cas de décès du ou des conducteurs impliqués, le prélèvement des échantillons biologiques et l'examen du corps sont effectués soit dans les conditions fixées par les articles R. 235-5 et R. 235-6, soit par un médecin légiste au cours de l'autopsie judiciaire.
 
-Les méthodes particulières de prélèvement et de conservation des échantillons biologiques applicables en cas de décès du ou des conducteurs impliqués sont fixées par un arrêté du ministre chargé de la santé, qui tient compte des particularités locales.
+Les méthodes particulières de prélèvement et de conservation des échantillons biologiques applicables en cas de décès du ou des conducteurs impliqués sont fixées par un arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence nationale de sécurité du médicament et des produits de santé, qui tient compte des particularités locales.
 
 "Art. R. 235-9 - L'officier ou l'agent de police judiciaire adresse les deux échantillons biologiques prélevés, accompagnés des résultats des épreuves de dépistage, à un expert inscrit sous une rubrique spéciale en toxicologie, sur la liste de la cour d'appel, ou à un laboratoire de police technique et scientifique.
 
-Le laboratoire ou l'expert conserve un des deux flacons mentionnés à l'article R. 235-7 en vue d'une demande éventuelle d'un examen technique ou d'une expertise. Les conditions dans lesquelles est conservé cet échantillon sont fixées par un arrêté du ministre chargé de la santé, qui tient compte des particularités locales.
+Le laboratoire ou l'expert conserve un des deux flacons mentionnés à l'article R. 235-7 en vue d'une demande éventuelle d'un examen technique ou d'une expertise. Les conditions dans lesquelles est conservé cet échantillon sont fixées par un arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence nationale de sécurité du médicament et des produits de santé, qui tient compte des particularités locales.
 
-"Art. R. 235-10. - La recherche et le dosage des produits stupéfiants sont pratiqués dans les conditions définies par un arrêté du ministre chargé de la santé, qui tient compte des particularités locales.
+"Art. R. 235-10. - La recherche et le dosage des produits stupéfiants sont pratiqués dans les conditions définies par un arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence nationale de sécurité du médicament et des produits de santé, qui tient compte des particularités locales.
 
 Les résultats des analyses et examens médicaux, cliniques et biologiques sont consignés sur les fiches mentionnées à l'article R. 235-4. Ces fiches sont ensuite transmises à l'officier ou à l'agent de police judiciaire ayant assisté au prélèvement biologique.
 
@@ -50,11 +52,13 @@ La consignation et la transmission de ces résultats sont effectuées dans les c
 
 "Art. R. 235-12. - Les honoraires et indemnités de déplacement afférents aux épreuves de dépistage et aux examens cliniques, médicaux et biologiques prévus aux articles R. 235-4 et R. 235-6 sont calculés par référence aux articles R. 110, R. 111 et R. 117 (1°, c et e) du code de procédure pénale, dans leurs versions applicables localement tirées des articles R. 317 et R. 321 de ce même code.
 
-Lorsqu'il est procédé à un examen clinique et à un prélèvement biologique en application des dispositions de l'article R. 235-6 du code des débits de boissons et des mesures contre l'alcoolisme, il n'est dû qu'une seule indemnité de déplacement et les honoraires pour un seul acte.
+Lorsqu'il est procédé à un examen clinique et à un prélèvement biologique en application des dispositions de l'article R. 235-6, il n'est dû qu'une seule indemnité de déplacement et les honoraires pour un seul acte.
 
 Les frais afférents aux examens de laboratoire prévus par les articles R. 235-10 et R. 235-11 relatifs à la recherche et au dosage des produits stupéfiants et, le cas échéant, les frais afférents à la recherche des médicaments psychoactifs sont fixés par référence aux 10° et 11° de l'article R. 118 du code de procédure pénale.
 
 Les frais afférents à l'acquisition des matériels de recueil et de dépistage prévus par l'article R. 235-3 sont fixés par arrêté conjoint du ministre de la justice et du ministre chargé du budget.
+
+Les dispositions du présent article ne sont pas applicables aux recueils salivaires.
 
 "Art. R. 235-13. - Les dépenses visées à l'article précédent constituent des frais de justice criminelle, correctionnelle et de police.
 
