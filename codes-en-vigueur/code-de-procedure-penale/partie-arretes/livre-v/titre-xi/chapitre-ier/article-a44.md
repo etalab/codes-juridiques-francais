@@ -1058,7 +1058,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td valign="top">
 <p>Circonscription judiciaire de Cahors. </p>
-<p>Maison d'arrêt de Cahors. </p>
 </td>
 </tr>
 <tr>
