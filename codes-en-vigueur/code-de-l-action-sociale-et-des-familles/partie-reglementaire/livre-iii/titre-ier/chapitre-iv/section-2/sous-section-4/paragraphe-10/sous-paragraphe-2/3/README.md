@@ -1,7 +1,17 @@
-# 3  Evaluation du degré de dépendance des personnes hébergées dans les établissements.
+# 3  Evaluation et validation du niveau de perte d'autonomie et des besoins en soins des personnes hébergées. Voies de recours.
 
 - [Article R314-170](article-r314-170.md)
+- [Article R314-170-1](article-r314-170-1.md)
+- [Article R314-170-2](article-r314-170-2.md)
+- [Article R314-170-3](article-r314-170-3.md)
+- [Article R314-170-4](article-r314-170-4.md)
+- [Article R314-170-5](article-r314-170-5.md)
+- [Article R314-170-6](article-r314-170-6.md)
+- [Article R314-170-7](article-r314-170-7.md)
 - [Article R314-171](article-r314-171.md)
+- [Article R314-171-1](article-r314-171-1.md)
+- [Article R314-171-2](article-r314-171-2.md)
+- [Article R314-171-3](article-r314-171-3.md)
 - [Article R314-172](article-r314-172.md)
 - [Article R314-173](article-r314-173.md)
 - [Article R314-174](article-r314-174.md)

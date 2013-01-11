@@ -1,0 +1,4 @@
+# Article R314-170-6
+
+<div align="left">L'indicateur synthétique dit " groupe iso-ressources moyen pondéré soins ” (GMPS) rend compte du niveau de perte d'autonomie moyen des personnes hébergées dans l'établissement, déterminé en application des articles R. 314-170-1 et R. 314-170-2 et de leurs besoins en soins, déterminés en application des articles R. 314-170-4 et R. 314-170-5. <br/>
+<br/>Le nombre de points du " groupe iso-ressources moyen pondéré soins ” (GMPS) résulte de l'addition, d'une part, du nombre de points correspondant au " pathos moyen pondéré ” (PMP) de l'établissement, calculé en application des articles R. 314-170-4 et R. 314-170-5, affecté d'un coefficient de valorisation fixé par arrêté conjoint des ministres chargés de la santé, des personnes âgées et de la sécurité sociale et, d'autre part, du nombre de points correspondant au " groupe iso-ressources moyen pondéré ” (GMP) calculé en application des articles R. 314-170-1 et R. 314-170-2.</div>
