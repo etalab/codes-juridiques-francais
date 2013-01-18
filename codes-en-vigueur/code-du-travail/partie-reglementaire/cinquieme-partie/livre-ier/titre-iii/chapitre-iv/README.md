@@ -6,3 +6,4 @@
 - [Section 3 : Contrat initiative-emploi](section-3)
 - [Section 6 : Contrat relatif aux activités d'adultes-relais](section-6)
 - [Section 7 : Emploi d'avenir](section-7)
+- [Section 8 : Emploi d'avenir professeur](section-8)
