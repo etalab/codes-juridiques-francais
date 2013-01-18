@@ -1,5 +1,7 @@
 # Section 8 : Emploi d'avenir professeur
 
+- [Article D5134-177](article-d5134-177.md)
+- [Article D5134-178](article-d5134-178.md)
 - [Article R5134-169](article-r5134-169.md)
 - [Article R5134-170](article-r5134-170.md)
 - [Article R5134-171](article-r5134-171.md)
