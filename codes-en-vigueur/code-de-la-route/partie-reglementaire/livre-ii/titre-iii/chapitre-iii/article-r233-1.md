@@ -6,7 +6,7 @@ I.-Lorsque les dispositions du présent code l'exigent, tout conducteur est tenu
 
 2° Le certificat d'immatriculation du véhicule et, le cas échéant, celui de la remorque si le poids total autorisé en charge (PTAC) de cette dernière excède 500 kilogrammes, ou de la semi-remorque s'il s'agit d'un véhicule articulé, ou les récépissés provisoires, ou les photocopies des certificats d'immatriculation dans les cas et dans les conditions prévues par un arrêté du ministre de la justice et du ministre de l'intérieur ;
 
-3° L'original ou la copie du certificat constatant l'achèvement d'une formation de conducteur de transport par route quand celui-ci est exigé en application de l'article R. 221-6 ;
+3° (Supprimé)
 
 4° Dans les cas mentionnés aux II et III de l'article R. 221-8, une attestation de la formation pratique ou le document attestant d'une expérience de la conduite conforme aux conditions prévues par ces dispositions ;
 
@@ -14,7 +14,7 @@ I.-Lorsque les dispositions du présent code l'exigent, tout conducteur est tenu
 
 a) A été condamné à une peine d'interdiction de conduire un véhicule qui ne soit pas équipé par un professionnel agréé ou par construction d'un tel dispositif ; ou
 
-b) Est soumis à l'obligation prévue au 4° bis de l'article 41-2 du code de procédure pénale.
+b) Est soumis à l'obligation prévue au 4° bis de l'article 41-2 du code de procédure pénale ;
 
 6° Un éthylotest dans les conditions prévues à l'article R. 234-7 (1).
 
