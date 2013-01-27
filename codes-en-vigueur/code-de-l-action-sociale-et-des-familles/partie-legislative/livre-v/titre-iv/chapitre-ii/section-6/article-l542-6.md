@@ -2,15 +2,13 @@
 
 Pour leur application à Mayotte, les dispositions du titre VI du livre II du présent code sont ainsi modifiées :
 
-I.-Les articles L. 261-1, L. 261-2, L. 261-3 sont remplacés par un article L. 261-1 ainsi rédigé :
-
-" Art. L. 261-1.-L'aide au logement en vigueur à Mayotte est celle prévue par l'article 10 de l'ordonnance n° 2002-149 du 7 février 2002 modifiée relative à l'extension et la généralisation des prestations familiales et à la protection sociale dans la collectivité départementale de Mayotte. "
+I.-(Abrogé)
 
 II. ― A l'article L. 262-3 :
 
 1° Le premier alinéa est complété par les dispositions suivantes : " En outre, il est procédé par décret à des revalorisations spécifiques à Mayotte, en vue de réduire la différence de montant forfaitaire avec la métropole et les autres départements d'outre-mer.
 
-2° Au 3°, les mots : " notamment celles affectées au logement mentionnées aux articles L. 542-1 et L. 831-1 du code de la sécurité sociale ainsi qu'à l'article L. 351-1 du code de la construction et de l'habitation ” sont remplacés par les mots : " notamment celle affectée au logement mentionnée à l'article 10 de l'ordonnance n° 2002-149 du 7 février 2002 relative à l'extension et la généralisation des prestations familiales et à la protection sociale dans la collectivité départementale de Mayotte ” ;
+2° Au 3°, les mots : " notamment celles affectées au logement mentionnées aux articles L. 542-1 et L. 831-1 du code de la sécurité sociale ainsi qu'à l'article L. 351-1 du code de la construction et de l'habitation ” sont remplacés par les mots : " notamment celles affectées au logement mentionnées à l'article 10 de l'ordonnance n° 2002-149 du 7 février 2002 relative à l'extension et la généralisation des prestations familiales et à la protection sociale dans la collectivité départementale de Mayotte ” et au titre VI bis de l'ordonnance n° 2002-411 du 27 mars 2002 relative à la protection sanitaire et sociale à Mayotte.
 
 3° Au dernier alinéa, il est ajouté la phrase : " Il en est de même lorsque les allocations familiales ne sont pas versées pour cause de défaut de production des certificats de santé et de scolarité mentionnés par l'article 6 de l'ordonnance n° 2002-149 du 7 février 2002. ”
 
