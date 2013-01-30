@@ -4,9 +4,9 @@ Les règles relatives au fichier des incidents de paiement caractérisés sont f
 
 " Art. L. 333-4-I.-Il est institué un fichier national recensant les informations sur les incidents de paiement caractérisés liés aux crédits accordés aux personnes physiques pour des besoins non professionnels. Ce fichier est géré par la Banque de France, laquelle est seule habilitée à centraliser ces informations. Il est soumis à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
-Ce fichier a pour finalité de fournir aux établissements de crédit mentionnés au titre Ier du livre V du code monétaire et financier, aux établissements de paiement mentionnés au titre II du même livre V et aux organismes mentionnés au 5 de l'article L. 511-6 du même code un élément d'appréciation de la solvabilité des personnes qui sollicitent un crédit. Toutefois, l'inscription d'une personne physique au sein du fichier n'emporte pas interdiction de délivrer un crédit.
+Ce fichier a pour finalité de fournir aux établissements de crédit mentionnés au titre Ier du livre V du code monétaire et financier, aux établissements de monnaie électronique et aux établissements de paiement mentionnés au titre II du même livre V et aux organismes mentionnés au 5 de l'article L. 511-6 du même code un élément d'appréciation de la solvabilité des personnes qui sollicitent un crédit. Toutefois, l'inscription d'une personne physique au sein du fichier n'emporte pas interdiction de délivrer un crédit.
 
-Le fichier peut fournir un élément d'appréciation à l'usage des établissements de crédit et des établissements de paiement dans leurs décisions d'attribution des moyens de paiement.
+Le fichier peut fournir un élément d'appréciation à l'usage des établissements de crédit, des établissements de monnaie électronique et des établissements de paiement dans leurs décisions d'attribution des moyens de paiement.
 
 Les informations qu'il contient peuvent également être prises en compte par les mêmes établissements et organismes mentionnés au deuxième alinéa pour la gestion des risques liés aux crédits souscrits par leurs clients.
 
