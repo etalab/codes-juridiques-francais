@@ -1,4 +1,4 @@
-# Article A212-175-1
+# Article A212-175-9
 
 La commission de reconnaissance des qualifications mentionnée à l'article R. 212-84 est placée auprès du ministre chargé des sports. Elle est présidée par le directeur des sports ou son représentant. Ses membres sont nommés par arrêté du ministre chargé des sports pour une durée de cinq ans.
 
