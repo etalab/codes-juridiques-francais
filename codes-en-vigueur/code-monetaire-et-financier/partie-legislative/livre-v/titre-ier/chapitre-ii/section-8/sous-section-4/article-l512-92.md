@@ -6,7 +6,7 @@ Elles contribuent à l'élaboration des orientations générales de la caisse d'
 
 Pour faciliter cette détention, les sociétés locales d'épargne sont habilitées à proposer aux sociétaires définis à l'article L. 512-93 une première part sociale à un prix préférentiel.
 
-Les sociétés locales d'épargne ne peuvent faire d'opérations de banque ou fournir des services de paiement. Elles sont dispensées de l'immatriculation au registre du commerce et des sociétés. Elles sont affiliées à la caisse d'épargne et de prévoyance dans la circonscription territoriale de laquelle elles exercent leur activité.
+Les sociétés locales d'épargne ne peuvent faire d'opérations de banque, émettre ou gérer de la monnaie électronique ou fournir des services de paiement. Elles sont dispensées de l'immatriculation au registre du commerce et des sociétés. Elles sont affiliées à la caisse d'épargne et de prévoyance dans la circonscription territoriale de laquelle elles exercent leur activité.
 
 Le niveau de la rémunération des parts sociales détenues par les sociétaires des sociétés locales d'épargne est fixé par l'assemblée générale de la caisse d'épargne et de prévoyance à laquelle ces sociétés locales d'épargne sont affiliées.
 

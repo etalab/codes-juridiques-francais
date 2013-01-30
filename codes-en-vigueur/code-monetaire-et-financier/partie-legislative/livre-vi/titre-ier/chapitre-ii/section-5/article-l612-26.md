@@ -16,7 +16,9 @@ Le secrétaire général de l'Autorité de contrôle prudentiel peut décider d'
 
 7° Aux mutuelles et unions relevant du livre III du code de la mutualité qui lui sont liées ;
 
-8° Aux institutions de gestion de retraite supplémentaire qui lui sont liées.
+8° Aux institutions de gestion de retraite supplémentaire qui lui sont liées ;
+
+9° Aux agents et aux personnes auxquelles des fonctions opérationnelles importantes ou essentielles sont confiées.
 
 Les faits recueillis à l'occasion de cette extension du contrôle peuvent être communiqués par le secrétaire général à la personne mentionnée au premier alinéa du présent article sans que puisse y faire obstacle le secret professionnel mentionné à l'article L. 612-17.
 

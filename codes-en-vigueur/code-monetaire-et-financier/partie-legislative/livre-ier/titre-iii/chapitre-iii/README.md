@@ -11,3 +11,4 @@
 - [Section 9 : Remboursement d'une opération de paiement ordonnée par le bénéficiaire ou par le payeurqui donne un ordre de paiement par l'intermédiaire du bénéficiaire](section-9)
 - [Section 10 : Frais applicables](section-10)
 - [Section 11 : Instruments réservés aux paiements de faibles montants](section-11)
+- [Section 12 : Les modalités de remboursement de la monnaie électronique](section-12)

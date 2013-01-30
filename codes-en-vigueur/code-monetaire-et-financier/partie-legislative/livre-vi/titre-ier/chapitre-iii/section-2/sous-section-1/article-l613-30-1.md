@@ -8,4 +8,6 @@ Pour la créance correspondant aux fonds dont la disposition n'aura pu être ren
 
 Le juge commissaire est informé du résultat de la vérification opérée par l'administrateur judiciaire ou le liquidateur et, le cas échéant, de la répartition proportionnelle des fonds.
 
+Le présent article s'applique aux fonds collectés au profit d'un établissement de monnaie électronique en vue de la fourniture de services de paiement.
+
 Un décret en Conseil d'Etat précise les conditions d'application du présent article.

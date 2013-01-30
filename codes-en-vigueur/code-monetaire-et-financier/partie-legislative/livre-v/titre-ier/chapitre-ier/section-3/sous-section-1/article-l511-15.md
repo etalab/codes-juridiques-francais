@@ -8,6 +8,6 @@ Pendant cette période :
 
 1.L'établissement de crédit demeure soumis au contrôle de l'Autorité de contrôle prudentiel et, le cas échéant, de l'Autorité des marchés financiers.L'Autorité de contrôle prudentiel peut prononcer à son encontre les sanctions disciplinaires prévues à l'article L. 612-39, y compris la radiation ;
 
-2.L'établissement ne peut effectuer que les opérations de banque et de services d'investissement ainsi que les services de paiement strictement nécessaires à l'apurement de sa situation et doit limiter les autres activités mentionnées aux 1 à 6 de l'article L. 311-2 et aux articles L. 511-2 et L. 511-3 ;
+2.L'établissement ne peut effectuer que les opérations de banque et de services d'investissement ainsi que les opérations de gestion de monnaie électronique déjà émise et les services de paiement strictement nécessaires à l'apurement de sa situation et doit limiter les autres activités mentionnées aux 1 à 6 de l'article L. 311-2 et aux articles L. 511-2 et L. 511-3 ;
 
 3. Il ne peut faire état de sa qualité d'établissement de crédit qu'en précisant que son agrément est en cours de retrait.

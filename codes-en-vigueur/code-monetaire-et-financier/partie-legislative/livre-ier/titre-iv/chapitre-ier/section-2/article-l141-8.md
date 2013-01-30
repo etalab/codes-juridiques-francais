@@ -16,4 +16,6 @@ Peuvent être titulaires de comptes à la Banque de France :
 
 7. Tout autre organisme ou personne expressément autorisés par décision du Conseil général à ouvrir un compte à la Banque de France ;
 
-8. Les établissements de paiement régis par le chapitre II du titre II du livre V.
+8. Les établissements de paiement régis par le chapitre II du titre II du livre V ;
+
+9. Les établissements de monnaie électronique régis par le chapitre VI du titre II du livre V.
