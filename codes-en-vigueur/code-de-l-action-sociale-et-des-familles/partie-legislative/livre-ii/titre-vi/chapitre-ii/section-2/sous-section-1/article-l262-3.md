@@ -13,5 +13,3 @@ L'ensemble des ressources du foyer, y compris celles qui sont mentionnées à l'
 4° Les prestations et aides sociales qui ne sont pas incluses dans le calcul des ressources à raison de leur finalité sociale particulière ;
 
 5° La durée pendant laquelle les ressources tirées d'activités professionnelles ou de stages de formation perçues suivant la reprise d'activité ne sont pas prises en compte.
-
-La part des allocations familiales dont le versement fait l'objet d'une mesure de suspension ou de suppression en application de l'article L. 131-8 du code de l'éducation demeure prise en compte pour le calcul du revenu de solidarité active.
