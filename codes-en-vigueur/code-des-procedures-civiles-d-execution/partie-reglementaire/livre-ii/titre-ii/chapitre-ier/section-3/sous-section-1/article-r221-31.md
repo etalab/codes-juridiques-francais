@@ -1,6 +1,6 @@
 # Article R221-31
 
-L'information prévue au troisième alinéa de l'article L. 221-1 est faite par écrit et comporte le nom et l'adresse de l'acquéreur éventuel ainsi que le délai dans lequel ce dernier s'offre à verser le prix proposé.
+L'information prévue au troisième alinéa de l'article L. 221-3 est faite par écrit et comporte le nom et l'adresse de l'acquéreur éventuel ainsi que le délai dans lequel ce dernier s'offre à verser le prix proposé.
 
 L'huissier de justice communique ces indications au créancier saisissant et aux créanciers opposants par lettre recommandée avec demande d'avis de réception.
 
