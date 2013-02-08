@@ -5,3 +5,4 @@
 - [Section 3 : Le transport.](section-3)
 - [Section 4 : L'abattage](section-4)
 - [Section 5 : Les activités soumises à autorisation](section-5)
+- [Section 6 : Utilisation d'animaux vivants à des fins scientifiques](section-6)
