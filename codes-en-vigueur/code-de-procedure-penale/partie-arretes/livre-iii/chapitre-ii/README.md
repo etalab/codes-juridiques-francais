@@ -1,3 +1,3 @@
 # Chapitre II : Des juridictions régionales de la rétention de sûreté
 
-- [Article A37-31](article-a37-31.md)
+- [Article A37-35](article-a37-35.md)

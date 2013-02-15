@@ -1,4 +1,4 @@
-# Article A37-30
+# Article A37-34
 
 Le nombre, le siège et la compétence territoriale des commissions pluridisciplinaires des mesures de sûreté prévues par les articles 706-53-14, 763-10 et R. 61-7 sont fixés comme suit :
 
@@ -6,16 +6,16 @@ Le nombre, le siège et la compétence territoriale des commissions pluridiscipl
 <table>
 <tbody>
 <tr>
-<th>
-<br/>SIÈGE DES COMMISSIONS <p>pluridisciplinaires </p>
-<p>des mesures de sûreté <br/>
-</p>
-</th>
-<th>
-<br/>COMPÉTENCE TERRITORIALE <p>s'étendant au ressort des cours d'appel </p>
-<p>ou des tribunaux supérieurs d'appel <br/>
-</p>
-</th>
+<td>
+<p align="center"> SIÈGE DES COMMISSIONS </p>
+<p align="center">pluridisciplinaires </p>
+<p align="center">des mesures de sûreté </p>
+</td>
+<td>
+<p align="center"> COMPÉTENCE TERRITORIALE </p>
+<p align="center">s'étendant au ressort des cours d'appel </p>
+<p align="center">ou des tribunaux supérieurs d'appel </p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -24,7 +24,7 @@ Le nombre, le siège et la compétence territoriale des commissions pluridiscipl
 </p>
 </td>
 <td align="center">
-<p>Agen, Bordeaux, Limoges, Pau, Toulouse. <br/>
+<p align="left">Agen, Bordeaux, Limoges, Pau, Toulouse. <br/>
 </p>
 </td>
 </tr>
@@ -35,7 +35,7 @@ Le nombre, le siège et la compétence territoriale des commissions pluridiscipl
 </p>
 </td>
 <td align="center">
-<p>Amiens, Douai, Reims, Rouen. <br/>
+<p align="left">Amiens, Douai, Reims, Rouen. <br/>
 </p>
 </td>
 </tr>
@@ -46,7 +46,7 @@ Le nombre, le siège et la compétence territoriale des commissions pluridiscipl
 </p>
 </td>
 <td align="center">
-<p>Chambéry, Grenoble, Lyon, Riom. <br/>
+<p align="left">Chambéry, Grenoble, Lyon, Riom. <br/>
 </p>
 </td>
 </tr>
@@ -57,7 +57,7 @@ Le nombre, le siège et la compétence territoriale des commissions pluridiscipl
 </p>
 </td>
 <td align="center">
-<p>Aix-en-Provence, Bastia, Montpellier, Nîmes. <br/>
+<p align="left">Aix-en-Provence, Bastia, Montpellier, Nîmes. <br/>
 </p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ Le nombre, le siège et la compétence territoriale des commissions pluridiscipl
 </p>
 </td>
 <td align="center">
-<p>Besançon, Colmar, Dijon, Metz, Nancy. <br/>
+<p align="left">Besançon, Colmar, Dijon, Metz, Nancy. <br/>
 </p>
 </td>
 </tr>
@@ -79,7 +79,7 @@ Le nombre, le siège et la compétence territoriale des commissions pluridiscipl
 </p>
 </td>
 <td align="center">
-<p>Bourges, Paris, Orléans, Versailles, Nouméa, Papeete, Saint-Denis-de-la-Réunion, Saint-Pierre-et-Miquelon. <br/>
+<p align="left">Bourges, Paris, Orléans, Versailles, Nouméa, Papeete, Saint-Denis-de-la-Réunion, Saint-Pierre-et-Miquelon. <br/>
 </p>
 </td>
 </tr>
@@ -90,7 +90,7 @@ Le nombre, le siège et la compétence territoriale des commissions pluridiscipl
 </p>
 </td>
 <td align="center">
-<p>Angers, Caen, Poitiers, Rennes. <br/>
+<p align="left">Angers, Caen, Poitiers, Rennes. <br/>
 </p>
 </td>
 </tr>
@@ -101,7 +101,7 @@ Le nombre, le siège et la compétence territoriale des commissions pluridiscipl
 </p>
 </td>
 <td align="center">
-<p>Basse-Terre, Cayenne, Fort-de-France.</p>
+<p align="left">Basse-Terre, Cayenne, Fort-de-France.</p>
 </td>
 </tr>
 </tbody>
