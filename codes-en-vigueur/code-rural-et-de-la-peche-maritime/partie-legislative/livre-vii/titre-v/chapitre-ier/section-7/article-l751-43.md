@@ -4,7 +4,7 @@ I. - La victime d'un accident du travail survenu ou d'une maladie professionnell
 
 1° S'il y a lieu, une allocation portant le montant annuel de sa rente à celui de la rente calculée sur la base du taux d'incapacité permanente totale ;
 
-2° Une majoration calculée conformément aux dispositions de l'article L. 434-2 du code de la sécurité sociale.
+2° La prestation complémentaire pour recours à tierce personne mentionnée à l'article L. 434-2 du code de la sécurité sociale.
 
 II. - Il incombe au demandeur d'apporter la preuve :
 

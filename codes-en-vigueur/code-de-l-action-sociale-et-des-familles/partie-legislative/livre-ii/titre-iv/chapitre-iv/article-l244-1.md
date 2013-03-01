@@ -16,7 +16,7 @@ L'allocation mentionnée au premier alinéa bénéficie aux ressortissants des E
 
 Les ressortissants des Etats membres de la Communauté européenne et des autres Etats parties à l'accord sur l'Espace économique européen entrés en France pour y chercher un emploi et qui s'y maintiennent à ce titre ne peuvent bénéficier de l'allocation aux adultes handicapés.
 
-Le droit à l'allocation aux adultes handicapés est ouvert lorsque la personne ne peut prétendre, au titre d'un régime de sécurité sociale, d'un régime de pension de retraite ou d'une législation particulière, à un avantage de vieillesse ou d'invalidité, à l'exclusion de la majoration pour aide constante d'une tierce personne visée à l'article L. 355-1, ou à une rente d'accident du travail, à l'exclusion de la majoration pour aide d'une tierce personne mentionnée à l'article L. 434-2, d'un montant au moins égal à cette allocation.
+Le droit à l'allocation aux adultes handicapés est ouvert lorsque la personne ne peut prétendre, au titre d'un régime de sécurité sociale, d'un régime de pension de retraite ou d'une législation particulière, à un avantage de vieillesse ou d'invalidité, à l'exclusion de la prestation complémentaire pour recours à constante d'une tierce personne visée à l'article L. 355-1, ou à une rente d'accident du travail, à l'exclusion de la prestation complémentaire pour recours à tierce personne mentionnée à l'article L. 434-2, d'un montant au moins égal à cette allocation.
 
 Lorsque cet avantage est d'un montant inférieur à celui de l'allocation aux adultes handicapés, celle-ci s'ajoute à la prestation sans que le total des deux avantages puisse excéder le montant de l'allocation aux adultes handicapés.
 
