@@ -1,3 +1,13 @@
 # Article L5121-6
 
-Afin d'assurer le remplacement d'un ou plusieurs salariés, du conjoint collaborateur ou du conjoint associé mentionné à l'article L. 121-4 du code de commerce en formation, l'Etat accorde aux entreprises de moins de cinquante salariés une aide calculée sur la base du salaire minimum de croissance pour chaque personne recrutée dans ce but ou mise à leur disposition par des entreprises de travail temporaire ou des groupements d'employeurs.
+Le contrat de génération a pour objectifs :
+
+1° De faciliter l'insertion durable des jeunes dans l'emploi par leur accès à un contrat à durée indéterminée ;
+
+2° De favoriser l'embauche et le maintien dans l'emploi des salariés âgés ;
+
+3° D'assurer la transmission des savoirs et des compétences.
+
+Il est mis en œuvre, en fonction de la taille des entreprises, dans les conditions prévues à la présente section.
+
+Le contrat de génération est applicable aux employeurs de droit privé ainsi qu'aux établissements publics à caractère industriel et commercial mentionnés à l'article L. 5121-9.
