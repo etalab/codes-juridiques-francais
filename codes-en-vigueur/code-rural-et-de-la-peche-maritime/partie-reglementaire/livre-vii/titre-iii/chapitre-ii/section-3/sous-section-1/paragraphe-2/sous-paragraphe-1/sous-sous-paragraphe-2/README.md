@@ -19,5 +19,6 @@
 - [Article D732-50](article-d732-50.md)
 - [Article D732-51](article-d732-51.md)
 - [Article D732-52](article-d732-52.md)
+- [Article D732-52-1](article-d732-52-1.md)
 - [Article R732-43](article-r732-43.md)
 - [Article R732-49](article-r732-49.md)
