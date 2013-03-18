@@ -38,7 +38,7 @@ Elle délibère notamment sur :
 
 17° Les actions en justice à intenter au nom de l'établissement et les transactions ;
 
-18° Les montants des indemnités versées aux membres de l'assemblée permanente, au président, aux membres du bureau et aux membres des comités de l'assemblée permanente ;
+18° Les montants des indemnités versées aux membres de l'assemblée permanente, au président, aux membres du conseil d'administration, aux membres du bureau et aux membres des comités de l'assemblée permanente ;
 
 19° Les modalités de remboursement des frais de déplacement et de séjour du personnel, sur proposition de la commission paritaire, et des membres de l'assemblée permanente ;
 

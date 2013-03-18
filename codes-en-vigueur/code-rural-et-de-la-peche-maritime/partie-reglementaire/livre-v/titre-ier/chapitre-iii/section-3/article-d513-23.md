@@ -4,4 +4,4 @@ Aucune dépense ne peut être engagée que par le président et dans la limite d
 
 Le président liquide et ordonne les dépenses et établit les titres de recettes et les transmet à l'agent comptable.
 
-Il peut désigner des ordonnateurs secondaires.
+Il peut désigner des ordonnateurs suppléants et secondaires.
