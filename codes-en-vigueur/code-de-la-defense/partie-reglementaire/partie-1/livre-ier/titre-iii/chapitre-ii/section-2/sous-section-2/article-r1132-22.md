@@ -10,7 +10,7 @@ Le conseil d'administration de l'institut comprend, outre son président, vingt-
 
 4° Dix représentants de l'Etat désignés par le Premier ministre, sur proposition des ministres concernés :
 
-- quatre représentants du ministre de la défense dont un appartenant à la direction générale de l'armement  ;
+- quatre représentants du ministre de la défense dont un appartenant à la direction générale de l'armement ;
 
 - deux représentants du ministre des affaires étrangères ;
 
@@ -35,3 +35,5 @@ Le conseil d'administration de l'institut comprend, outre son président, vingt-
 - deux personnalités du monde économique, sur proposition du ministre chargé de l'économie ;
 
 - deux auditeurs civils ayant satisfait aux obligations des sessions, sur proposition du secrétaire général de la défense nationale et de la sécurité nationale.
+
+Lorsque le président ne peut présider une séance, le conseil est présidé par le secrétaire général de la défense et de la sécurité nationale. A défaut, un président de séance est élu à la majorité des membres présents, réputés présents ou représentés.
