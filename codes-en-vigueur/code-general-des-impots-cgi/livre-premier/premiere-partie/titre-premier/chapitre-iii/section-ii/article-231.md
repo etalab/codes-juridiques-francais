@@ -22,7 +22,7 @@ Les taux majorés ne sont pas applicables aux rémunérations versées par les p
 
 Un décret en Conseil d'Etat fixera, en tant que de besoin, les modalités selon lesquelles sera déterminé le rapport défini au 1.
 
-b. Un décret pris en conseil des ministres, après avis du Conseil d'Etat, fixe les conditions d'application du premier alinéa du 2 bis.
+b. Un décret en Conseil d'Etat fixe les conditions d'application du premier alinéa du 2 bis.
 
 4. (Abrogé)
 
