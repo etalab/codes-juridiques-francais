@@ -4,6 +4,10 @@ Les produits affectés à la Caisse nationale de solidarité pour l'autonomie so
 
 1° Une contribution au taux de 0,3 % due par les employeurs privés et publics. Cette contribution a la même assiette que les cotisations patronales d'assurance maladie affectées au financement des régimes de base de l'assurance maladie. Elle est recouvrée dans les mêmes conditions et sous les mêmes garanties que lesdites cotisations ;
 
+1° bis Une contribution au taux de 0,3 % due sur les avantages de retraite et d'invalidité ainsi que sur les allocations de préretraite qui ne sont pas assujetties à la contribution mentionnée au 2° et sont perçues par les personnes dont la cotisation d'impôt sur le revenu de l'année précédente est supérieure ou égale au montant mentionné au 1 bis de l'article 1657 du code général des impôts. Elle est recouvrée et contrôlée selon les règles, garanties et sanctions mentionnées pour les mêmes revenus au III de l'article L. 136-5 du code de la sécurité sociale.
+
+Sont exonérées de la contribution mentionnée au premier alinéa du présent 1° bis les pensions mentionnées au a du 4° et aux 12°, 14° et 14° bis de l'article 81 du code général des impôts et les personnes titulaires d'un avantage de vieillesse ou d'invalidité non contributif attribué par le service mentionné au deuxième alinéa de l'article L. 815-7 du code de la sécurité sociale ou par un régime de base de sécurité sociale sous les conditions de ressources mentionnées à l'article L. 815-9 du même code ;
+
 2° Une contribution additionnelle au prélèvement social mentionné à l'article L. 245-14 du code de la sécurité sociale et une contribution additionnelle au prélèvement social mentionné à l'article L. 245-15 du même code. Ces contributions additionnelles sont assises, contrôlées, recouvrées et exigibles dans les mêmes conditions et sous les mêmes sanctions que celles applicables à ces prélèvements sociaux. Leur taux est fixé à 0,3 % ;
 
 3° Une fraction de 0,1 point du produit des contributions sociales mentionnées aux articles L. 136-1, L. 136-6, L. 136-7 et L. 136-7-1 du même code ;
