@@ -1,6 +1,7 @@
-# CHAPITRE II : Règles particulières concernant les contrôles prévus à l'article L. 111-8
+# CHAPITRE II :  Dispositions relatives aux activités juridictionnelles
 
-- [Article D142-5](article-d142-5.md)
-- [Article R142-1](article-r142-1.md)
-- [Article R142-3](article-r142-3.md)
-- [Article R142-4](article-r142-4.md)
+- [Section 1 : Dispositions relatives au jugement des comptes des comptables patents](section-1)
+- [Section 2 : Dispositions relatives au jugement des comptes des comptables de fait](section-2)
+- [Section 3 :  Voies de recours et révisions](section-3)
+- [Section 4 : Notification des arrêts et des ordonnances](section-4)
+- [Section 5 : Dispositions diverses](section-5)

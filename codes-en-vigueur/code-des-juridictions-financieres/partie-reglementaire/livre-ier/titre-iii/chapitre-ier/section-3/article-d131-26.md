@@ -4,7 +4,7 @@ Les comptables supérieurs du Trésor arrêtent par des décisions d'apurement a
 
 Lorsqu'un compte a déjà été arrêté, le droit d'évocation ne peut s'exercer que pendant un an à dater de la décision définitive rendue par le comptable supérieur. La Cour peut aussi demander communication des décisions d'apurement, des comptes et des pièces sur lesquelles ces décisions sont fondées pour les gestions antérieures à la gestion évoquée.
 
-Les décisions d'apurement administratif prises par les comptables supérieurs peuvent faire l'objet de réformation par la Cour des comptes sur réquisition du ministère public dans les conditions fixées à l'article R. 141-12.
+Les décisions d'apurement administratif prises par les comptables supérieurs peuvent faire l'objet de réformation par la Cour des comptes sur réquisition du ministère public dans les conditions fixées à l'article R. 142-4.
 
 La Cour juge les gestions de fait afférentes aux comptes ressortissant à l'apurement administratif des comptables supérieurs. Dans ce cas, les comptes du comptable patent portant sur les opérations effectuées depuis le début de la gestion de fait sont transmis d'office à la Cour.
 

@@ -16,3 +16,4 @@
 - [Article R112-22](article-r112-22.md)
 - [Article R112-23](article-r112-23.md)
 - [Article R112-24](article-r112-24.md)
+- [Article R112-24-1](article-r112-24-1.md)

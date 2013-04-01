@@ -6,4 +6,4 @@ II.-Dans les autres cas que ceux visés au I, la Cour des comptes peut ordonner,
 
 III.-Lorsque la Cour des comptes est saisie en appel d'un jugement ou d'une ordonnance rendu par une chambre régionale ou territoriale des comptes, le magistrat chargé de l'instruction peut demander la production des comptes jugés dans le jugement ou l'ordonnance attaqué ainsi que de toutes pièces qu'il estime nécessaires à l'établissement de son rapport. Ces pièces sont versées au dossier.
 
-IV.-Les règles mentionnées aux articles R. 141-12 à R. 141-21 s'appliquent à l'appel.
+IV.-Les règles mentionnées aux articles R. 142-4 à R. 142-13 s'appliquent à l'appel.
