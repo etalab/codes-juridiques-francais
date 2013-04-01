@@ -8,4 +8,4 @@ Sur proposition du secrétaire général, la formation plénière du collège :
 
 3° Autorise, au-delà d'un montant qu'elle fixe, la conclusion des transactions prévues aux articles 2044 à 2058 du code civil ;
 
-4° Autorise, au-delà d'un montant qu'elle fixe, en matière de recouvrement de la contribution prévue à l'article R. 612-20, les remises gracieuses en application de l'article L. 247 du livre des procédures fiscales.
+4° Autorise, au-delà d'un montant qu'elle fixe, en matière de recouvrement de la contribution prévue à l'article L. 612-20, les remises gracieuses en application de l'article L. 247 du livre des procédures fiscales.
