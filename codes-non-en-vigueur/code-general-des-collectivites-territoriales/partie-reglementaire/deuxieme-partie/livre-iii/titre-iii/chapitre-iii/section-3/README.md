@@ -1,6 +1,5 @@
 # Section 3 : Taxe locale sur la publicité extérieure
 
-- [Sous-section 2 : Assiette de la taxe et exonérations.](sous-section-2)
 - [Article R2333-10](article-r2333-10.md)
 - [Article R2333-11](article-r2333-11.md)
 - [Article R2333-12](article-r2333-12.md)

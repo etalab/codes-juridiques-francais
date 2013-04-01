@@ -4,5 +4,3 @@
 - [Section 2 : Rapports publics de la Cour des comptes](section-2)
 - [Section 3 : Dispositions relatives aux procédures spécifiques à l'assurance de la qualité des comptes des administrations publiques](section-3)
 - [Section 4 : Dispositions relatives aux procédures spécifiques à la contribution à l'évaluation des politiques publiques](section-4)
-- [Article R143-1](article-r143-1.md)
-- [Article R143-3](article-r143-3.md)
