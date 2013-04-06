@@ -64,7 +64,7 @@ II.-D'un autre collège qui comprend :
 
 16° Le directeur général de l'Institut de recherche pour le développement ;
 
-17° Un représentant du personnel élu par le personnel de l'agence sur une liste présentée par les organisations syndicales habilitées à désigner des représentants au comité technique central de l'agence ;
+17° Un représentant du personnel élu par le personnel de l'agence sur une liste présentée par les organisations syndicales habilitées à présenter des candidats à l'élection du comité technique de l'établissement ;
 
 18° Deux personnalités qualifiées en raison de leur compétence dans le domaine de la protection, de la restauration ou de la gestion durable du patrimoine naturel marin.
 

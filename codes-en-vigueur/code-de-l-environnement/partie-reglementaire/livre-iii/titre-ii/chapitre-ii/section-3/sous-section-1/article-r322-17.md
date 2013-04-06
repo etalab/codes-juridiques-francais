@@ -1,8 +1,8 @@
 # Article R322-17
 
-I. - Le conseil d'administration du conservatoire de l'espace littoral et des rivages lacustres comprend trente-quatre  membres :
+I. - Le conseil d'administration du conservatoire de l'espace littoral et des rivages lacustres comprend trente-quatre membres :
 
-1° Un représentant  du ministre chargé de la protection de la nature ;
+1° Un représentant du ministre chargé de la protection de la nature ;
 
 2° Un représentant du ministre chargé de l'aménagement du territoire ;
 
@@ -32,7 +32,7 @@ I. - Le conseil d'administration du conservatoire de l'espace littoral et des ri
 
 15° Deux représentants des communes ou de leurs groupements gestionnaires d'espaces naturels littoraux, désignés par l'Association des maires de France ;
 
-16° Un représentant du personnel élu par le personnel du conservatoire sur des listes présentées par les organisations syndicales habilitées à désigner des représentants au comité technique paritaire central du conservatoire.
+16° Un représentant du personnel élu par le personnel du conservatoire sur des listes présentées par les organisations syndicales habilitées à présenter des candidats à l'élection du comité technique du Conservatoire.
 
 II. - Siègent au conseil d'administration avec voix consultative le directeur du conservatoire, le contrôleur financier, l'agent comptable et le président du conseil scientifique du conservatoire.
 
