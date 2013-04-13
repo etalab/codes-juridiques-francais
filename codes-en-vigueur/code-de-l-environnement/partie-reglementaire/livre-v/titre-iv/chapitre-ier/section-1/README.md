@@ -5,3 +5,4 @@
 - [Sous-section 3 : Dispositions particulières aux groupements d'intérêt public](sous-section-3)
 - [Sous-section 4 : Mélange de déchets](sous-section-4)
 - [Sous-section 5 : Sortie du statut de déchet](sous-section-5)
+- [Sous-Section 6 : Police administrative](sous-section-6)

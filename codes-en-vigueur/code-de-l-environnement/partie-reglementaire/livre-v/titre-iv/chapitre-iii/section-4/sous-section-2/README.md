@@ -1,4 +1,4 @@
-# Sous-section 2 : Mise à jour de l'inventaire et plan national de décontamination et d'élimination des appareils contenant des PCB.
+# Sous-section 2 : Caractérisation, étiquetage, déclaration    et utilisation des appareils contenant des PCB
 
 - [Article R543-26](article-r543-26.md)
 - [Article R543-27](article-r543-27.md)
