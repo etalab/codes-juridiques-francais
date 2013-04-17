@@ -8,7 +8,7 @@ L'offre de fourniture d'électricité ou de gaz naturel précise, dans des terme
 
 3° La description des produits et des services proposés ;
 
-4° Les prix de ces produits et services à la date d'effet du contrat ainsi que, le cas échéant, les conditions d'évolution de ces prix ;
+4° Les prix de ces produits et services à la date    de l'offre ainsi que, le cas échéant, les conditions d'évolution de ces prix ;
 
 5° La mention du caractère réglementé ou non des prix proposés et de la possibilité pour une personne ayant renoncé aux tarifs réglementés de vente pour un site donné de revenir ou non sur ce choix ;
 
@@ -24,13 +24,13 @@ L'offre de fourniture d'électricité ou de gaz naturel précise, dans des terme
 
 11° Les cas d'interruption volontaire de la fourniture d'énergie, sans préjudice des dispositions de l'article L. 115-3 du code de l'action sociale et des familles ;
 
-12° Les conditions de la responsabilité contractuelle du fournisseur et du gestionnaire du réseau de distribution et les modalités de remboursement ou de compensation en cas d'erreur ou de retard de facturation ou lorsque les niveaux de qualité des services prévus dans le contrat ne sont pas atteints  ;
+12° Les conditions de la responsabilité contractuelle du fournisseur et du gestionnaire du réseau de distribution et les modalités de remboursement ou de compensation en cas d'erreur ou de retard de facturation ou lorsque les niveaux de qualité des services prévus dans le contrat ne sont pas atteints ;
 
 13° L'existence du droit de rétractation prévu aux articles L. 121-20 et L. 121-25 du présent code ;
 
 14° Les conditions et modalités de résiliation du contrat ;
 
-15° Les modes de règlement amiable et contentieux  des litiges ;
+15° Les modes de règlement amiable et contentieux des litiges ;
 
 16° Les conditions d'accès à la tarification spéciale " produit de première nécessité " pour l'électricité et au tarif spécial de solidarité pour le gaz naturel ;
 

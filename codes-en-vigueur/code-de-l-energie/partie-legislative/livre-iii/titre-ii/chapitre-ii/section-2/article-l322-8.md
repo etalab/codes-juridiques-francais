@@ -1,6 +1,6 @@
 # Article L322-8
 
-Sans préjudice des dispositions du sixième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales, un gestionnaire de réseau de distribution d'électricité est, dans sa zone de desserte exclusive, notamment chargé, dans le cadre des cahiers des charges de concession et des règlements de service des régies :
+Sans préjudice des dispositions du septième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales, un gestionnaire de réseau de distribution d'électricité est, dans sa zone de desserte exclusive, notamment chargé, dans le cadre des cahiers des charges de concession et des règlements de service des régies :
 
 1° De définir et de mettre en œuvre les politiques d'investissement et de développement des réseaux de distribution afin de permettre le raccordement des installations des consommateurs et des producteurs ainsi que l'interconnexion avec d'autres réseaux ;
 

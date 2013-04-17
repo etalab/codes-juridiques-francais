@@ -16,4 +16,6 @@ Dans le respect des dispositions législatives et réglementaires, la Commission
 
 7° La méthode de calcul des coûts de production de l'électricité nucléaire historique mentionnés à l'article L. 337-14 et les règles de calcul et d'ajustement des droits des fournisseurs à l'accès régulé à l'électricité nucléaire historique prévu à l'article L. 336-1 ;
 
-8° Les conditions d'accès et de raccordement aux réseaux publics des nouvelles interconnexions mentionnées à l'article 17 du règlement (CE) n° 714/2009 du Parlement européen et du Conseil du 13 juillet 2009 sur les conditions d'accès au réseau pour les échanges transfrontaliers d'électricité.
+8° Les conditions d'accès et de raccordement aux réseaux publics des nouvelles interconnexions mentionnées à l'article 17 du règlement (CE) n° 714/2009 du Parlement européen et du Conseil du 13 juillet 2009 sur les conditions d'accès au réseau pour les échanges transfrontaliers d'électricité ;
+
+9° La valorisation des effacements de consommation mentionnés à l'article L. 271-1. Ces règles définissent les modalités du versement mentionné au deuxième alinéa du même article.

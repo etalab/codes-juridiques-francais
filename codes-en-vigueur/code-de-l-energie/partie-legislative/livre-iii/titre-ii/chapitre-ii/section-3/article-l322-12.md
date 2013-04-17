@@ -1,6 +1,6 @@
 # Article L322-12
 
-Sans préjudice des dispositions du sixième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales, les gestionnaires des réseaux publics de distribution d'électricité conçoivent et exploitent ces réseaux de façon à assurer une desserte en électricité d'une qualité régulière, définie et compatible avec les utilisations usuelles de l'énergie électrique.
+Sans préjudice des dispositions du septième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales, les gestionnaires des réseaux publics de distribution d'électricité conçoivent et exploitent ces réseaux de façon à assurer une desserte en électricité d'une qualité régulière, définie et compatible avec les utilisations usuelles de l'énergie électrique.
 
 Les niveaux de qualité et les prescriptions techniques en matière de qualité qui doivent être respectés par les gestionnaires des réseaux publics de distribution sont définis par voie réglementaire. Les niveaux de qualité peuvent être modulés par zone géographique.
 

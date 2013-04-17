@@ -1,6 +1,6 @@
 # Article L134-27
 
-Lorsque l'intéressé ne se conforme pas dans les délais fixés à cette mise en demeure, le comité peut prononcer à son encontre, en fonction de la gravité du manquement :
+Lorsque l'intéressé ne se conforme pas dans les délais fixés à cette mise en demeure ou en cas de manquement constaté dans les conditions prévues à l'article L. 135-12, et après l'envoi d'une notification des griefs à l'intéressé, le comité peut prononcer à son encontre, en fonction de la gravité du manquement :
 
 1° Soit une interdiction temporaire d'accès aux réseaux, ouvrages et installations mentionnés à l'article L. 134-19 pour une durée n'excédant pas un an ;
 
