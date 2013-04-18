@@ -7,7 +7,6 @@
 - [Article D711-67-4](article-d711-67-4.md)
 - [Article D711-67-5](article-d711-67-5.md)
 - [Article D711-67-6](article-d711-67-6.md)
-- [Article D711-69](article-d711-69.md)
 - [Article D711-71-1](article-d711-71-1.md)
 - [Article D711-75](article-d711-75.md)
 - [Article D711-75-2](article-d711-75-2.md)
