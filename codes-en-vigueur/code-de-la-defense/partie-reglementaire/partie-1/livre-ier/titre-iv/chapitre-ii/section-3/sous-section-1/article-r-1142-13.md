@@ -14,8 +14,8 @@ a) Du ministre chargé de l'économie ou de son représentant, président ;
 
 b) Des représentants des ministres de l'intérieur et de la défense, ainsi que des ministres chargés de l'équipement, des transports et de l'industrie, de l'agriculture, des postes et communications électroniques et, en tant que de besoin, de ceux d'autres départements ministériels ;
 
-c) Du représentant du directeur général du centre d'analyse stratégique ;
+c) Du représentant du Commissaire général à la stratégie et à la prospective ;
 
-d) Du représentant du     secrétaire général de la défense et de la sécurité nationale.
+d) Du représentant du secrétaire général de la défense et de la sécurité nationale.
 
 Le ministre chargé de l'outre-mer est représenté lorsque la commission examine des affaires intéressant les départements, les régions et les collectivités d'outre-mer, la Nouvelle-Calédonie et les Terres australes et antarctiques françaises.

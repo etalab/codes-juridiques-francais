@@ -70,7 +70,7 @@ a) Le directeur général de la cohésion sociale ;
 
 b) Le directeur général du Trésor ;
 
-c) Le directeur général du Centre d'analyse stratégique ;
+c) Le Commissaire général à la stratégie et à la prospective ;
 
 d) Le directeur de la sécurité sociale ;
 
@@ -86,4 +86,4 @@ h) Le directeur de l'Institut national d'études démographiques ;
 
 8° Deux représentants d'organismes intervenant dans le champ de la petite enfance, proposés par le ministre chargé de la famille.
 
-Les membres du haut conseil autres que les membres mentionnés au 5° et au 6° sont désignés pour trois ans. En outre, la désignation des députés mentionnés au 3° est renouvelée à chaque renouvellement général de l'Assemblée nationale et la désignation des sénateurs est renouvelée à chaque renouvellement par tiers ou par moitié du Sénat.  Les membres du haut conseil mentionnés aux 7° et 8° sont nommés par arrêté du Premier ministre.
+Les membres du haut conseil autres que les membres mentionnés au 5° et au 6° sont désignés pour trois ans. En outre, la désignation des députés mentionnés au 3° est renouvelée à chaque renouvellement général de l'Assemblée nationale et la désignation des sénateurs est renouvelée à chaque renouvellement par tiers ou par moitié du Sénat. Les membres du haut conseil mentionnés aux 7° et 8° sont nommés par arrêté du Premier ministre.

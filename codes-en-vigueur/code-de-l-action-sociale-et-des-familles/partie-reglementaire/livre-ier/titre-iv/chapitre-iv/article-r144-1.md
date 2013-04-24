@@ -8,7 +8,7 @@ L'observatoire national de la pauvreté et de l'exclusion sociale prévu à l'ar
 
 a) Le directeur général de l'institut national de la statistique et des études économiques, ou son représentant ;
 
-b) Le directeur général du Centre d'analyse stratégique, ou son représentant ;
+b) Le Commissaire général à la stratégie et à la prospective, ou son représentant ;
 
 c) Le directeur de la recherche, des études, de l'évaluation et des statistiques au ministère des affaires sociales, ou son représentant ;
 
