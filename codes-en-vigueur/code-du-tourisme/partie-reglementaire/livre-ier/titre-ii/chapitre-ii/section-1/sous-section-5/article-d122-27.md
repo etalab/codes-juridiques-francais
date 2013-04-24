@@ -20,7 +20,7 @@ La commission des comptes du tourisme comprend :
 
 -le directeur général de l'Institut national de la statistique et des études économiques (INSEE) ;
 
--le        directeur général du Trésor ;
+-le directeur général du Trésor ;
 
 -le directeur général des collectivités locales ;
 
@@ -32,7 +32,7 @@ La commission des comptes du tourisme comprend :
 
 -le délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ;
 
--le directeur général du Centre d'analyse stratégique ;
+-le commissaire général à la stratégie et à la prospective ;
 
 -le directeur général des études et des relations internationales de la Banque de France ;
 
