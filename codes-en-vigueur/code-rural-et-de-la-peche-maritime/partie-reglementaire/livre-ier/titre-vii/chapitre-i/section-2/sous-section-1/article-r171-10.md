@@ -14,4 +14,4 @@ La pratique professionnelle exigée au présent 1° s'entend de l'exercice, soit
 
 4° Ne pas avoir été frappé de faillite personnelle ou d'une autre mesure d'interdiction en application du chapitre III du titre V du livre VI du code de commerce.
 
-Les experts peuvent, le cas échéant, exercer leurs missions dans le cadre de l'une des sociétés prévues par les décrets n° 86-636 du 14 mars 1986 et n° 92-789 du 4 août 1992, ou de toute autre société dont le capital est détenu en majorité par des experts fonciers et agricoles, ou des experts forestiers, ou des anciens experts, sous réserve que ceux-ci n'aient pas été radiés.
+Les experts peuvent, le cas échéant, exercer leurs missions dans le cadre de l'une des sociétés prévues par les dispositions du chapitre III du présent titre, ou de toute autre société dont le capital est détenu en majorité par des experts fonciers et agricoles, ou des experts forestiers, ou des anciens experts, sous réserve que ceux-ci n'aient pas été radiés.
