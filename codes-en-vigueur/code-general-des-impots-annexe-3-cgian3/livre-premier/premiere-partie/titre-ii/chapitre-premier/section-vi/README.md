@@ -1,7 +1,7 @@
 # Section VI : Obligations des redevables
 
 - [1° : Entreprises de spectacles](1)
-- [2° : Factures transmises par voie télématique](2)
+- [2° : Factures transmises par voie électronique](2)
 - [3° : Déclaration des échanges de biens entre Etats membres de l'Union européenne](3)
 - [4° : Déclaration européenne des services](4)
 - [5° : Demande de remboursement de la taxe sur la valeur ajoutée supportée dans un autre Etat membre de l'Union européenne](5)
