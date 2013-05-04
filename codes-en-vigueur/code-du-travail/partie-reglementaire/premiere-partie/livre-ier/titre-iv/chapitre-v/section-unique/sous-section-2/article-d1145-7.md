@@ -12,7 +12,7 @@ c) Le ministre chargé de l'emploi ou son représentant, vice-président ;
 
 d) Le ministre chargé de la formation professionnelle ou son représentant, vice-président ;
 
-e) Le directeur de l'action sociale ;
+e) Le directeur général de la cohésion sociale  ;
 
 f) Le directeur général de la forêt et des affaires rurales du ministère chargé de l'agriculture ;
 
@@ -50,4 +50,4 @@ d) Un membre représentant les professions agricoles désigné sur proposition d
 
 e) Un membre représentant les employeurs artisans désigné sur proposition de l'Union professionnelle artisanale (UPA) ;
 
-5° Neuf personnalités désignées en raison de leur compétence ou de leur expérience, notamment dans la vie associative.
+5° Neuf personnalités désignées en raison de leur compétence ou de leur expérience.

@@ -10,4 +10,6 @@ La commission permanente est présidée par le président du Conseil supérieur 
 
 3° Cinq membres du Conseil supérieur représentant les employeurs, choisis parmi les membres mentionnés au 4° de ce même article ;
 
-4° Cinq membres du Conseil supérieur, choisis parmi les personnalités désignées en raison de leur compétence mentionnées au 5° de ce même article.
+4° Cinq membres du Conseil supérieur, choisis parmi les personnalités désignées en raison de leur compétence mentionnées au 5° de ce même article ;
+
+5° Le secrétaire général du conseil supérieur mentionné à l'article D. 1145-18.
