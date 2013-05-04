@@ -2,4 +2,3 @@
 
 - [Article D459-1](article-d459-1.md)
 - [Article D459-2](article-d459-2.md)
-- [Article D459-3](article-d459-3.md)

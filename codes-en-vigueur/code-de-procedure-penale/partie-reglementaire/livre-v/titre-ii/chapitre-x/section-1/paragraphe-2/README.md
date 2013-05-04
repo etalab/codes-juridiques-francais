@@ -6,7 +6,6 @@
 - [Article D433-3](article-d433-3.md)
 - [Article D433-4](article-d433-4.md)
 - [Article D433-5](article-d433-5.md)
-- [Article D433-6](article-d433-6.md)
 - [Article D433-7](article-d433-7.md)
 - [Article D433-8](article-d433-8.md)
 - [Article D433-9](article-d433-9.md)
