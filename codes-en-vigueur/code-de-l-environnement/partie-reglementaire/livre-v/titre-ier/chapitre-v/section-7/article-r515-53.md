@@ -20,7 +20,7 @@ a) La somme des effectifs des différentes installations après le regroupement 
 
 b) L'augmentation de l'effectif présent sur l'installation du regroupement est inférieure à deux fois l'effectif qui détermine le seuil de l'autorisation de la rubrique dont relève l'installation, sans toutefois dépasser le seuil fixé par l'arrêté pris en application du II de l'article R. 512-33 ;
 
-c) Du fait du regroupement, aucun des seuils figurant au point 6.6 de l'annexe I de la directive 2008/1/ CE du 15 janvier 2008 relative à la prévention et à la réduction intégrées de la pollution n'est franchi sur l'installation de regroupement ;
+c) Du fait du regroupement, aucun des seuils figurant au point 6.6 de l'annexe I de la directive 2010/75/ UE du 24 novembre 2010 relative aux émissions industrielles n'est franchi sur l'installation de regroupement ;
 
 d) L'effectif de l'installation de regroupement est, après regroupement, inférieur à deux fois l'effectif initial de cette installation.
 
