@@ -2,7 +2,7 @@
 
 Les listes sont déposées à la préfecture, au plus tard à douze heures, vingt-huit jours francs avant la date de clôture du scrutin. Lorsque le dernier jour du délai imparti est un samedi, un dimanche ou un jour férié ou chômé, ce délai est prorogé jusqu'au premier jour ouvrable suivant.
 
-Elles doivent comporter un nombre de noms égal à celui des membres à élire dans le collège concerné, auxquels s'ajoutent un nom supplémentaire pour le collège mentionné au 5 a de l'article R. 511-6 et deux noms supplémentaires pour les autres collèges. Chaque liste de candidats comporte au moins un candidat de chaque sexe par tranche de trois candidats.
+Elles doivent comporter un nombre de noms égal à celui des membres à élire dans le collège concerné, auxquels s'ajoutent un nom supplémentaire pour le collège mentionné au 5 a de l'article R. 511-6 et deux noms supplémentaires pour les autres collèges.
 
 Les listes des candidats à l'élection au titre du collège des chefs d'exploitation et assimilés défini au 1° de l'article R. 511-6 doivent préciser ceux des candidats se présentant également à l'élection aux chambres régionales d'agriculture dans les conditions prévues à l'article R. 512-4. Le nombre de ces candidats doit être au moins égal au nombre de sièges à pourvoir à la chambre régionale dans ce collège et pour le département. Ces candidats doivent compter au moins un candidat de chaque sexe par groupe de trois.
 
