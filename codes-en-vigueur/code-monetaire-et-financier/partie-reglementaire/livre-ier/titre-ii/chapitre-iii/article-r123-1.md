@@ -1,6 +1,6 @@
 # Article R123-1
 
-Les établissements de crédit, La Poste, les établissements de paiement et les prestataires effectuant au nom et pour le compte de ceux-ci des opérations de traitement des billets et des pièces en euros, ainsi que les changeurs manuels remettent sans délai à la Banque de France ou à l'établissement public La Monnaie de Paris, respectivement les billets et pièces en euros dont ils ont des raisons suffisantes de penser qu'ils sont faux.
+Les établissements de crédit, La Poste, les établissements de monnaie électronique, les établissements de paiement et les prestataires effectuant au nom et pour le compte de ceux-ci des opérations de traitement des billets et des pièces en euros, ainsi que les changeurs manuels remettent sans délai à la Banque de France ou à l'établissement public La Monnaie de Paris, respectivement les billets et pièces en euros dont ils ont des raisons suffisantes de penser qu'ils sont faux.
 
 A cet effet, ils établissent des règles écrites internes, dont ils contrôlent la mise en oeuvre, qui organisent les procédures de remise sans délai à la Banque de France et à l'établissement public La Monnaie de Paris des billets et pièces mentionnés à l'alinéa précédent. Ces procédures tiennent compte des recommandations faites par le Comité français d'organisation et de normalisation bancaire.
 
