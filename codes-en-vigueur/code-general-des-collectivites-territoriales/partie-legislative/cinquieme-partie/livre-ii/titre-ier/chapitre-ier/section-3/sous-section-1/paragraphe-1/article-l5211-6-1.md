@@ -1,6 +1,6 @@
 # Article L5211-6-1
 
-I. - Sans préjudice des dispositions de l'article L. 5212-7, le nombre et la répartition des délégués sont établis :
+I. - Sans préjudice des dispositions de l'article L.  5212-7, le nombre et la répartition des délégués sont établis :
 
 - soit, dans les communautés de communes et les communautés d'agglomération, par accord des deux tiers au moins des conseils municipaux des communes intéressées représentant la moitié de la population totale de celles-ci ou de la moitié des conseils municipaux des communes intéressées représentant les deux tiers de la population totale. Cette répartition tient compte de la population de chaque commune. Chaque commune dispose d'au moins un siège et aucune commune ne peut disposer de plus de la moitié des sièges. Le nombre de sièges total ne peut excéder de plus de 25 % le nombre de sièges qui serait attribué en application des III et IV du présent article ;
 
@@ -174,7 +174,7 @@ IV. - La répartition des sièges est établie selon les modalités suivantes :
 
 2° Les communes n'ayant pu bénéficier de la répartition de sièges prévue au 1° du présent IV se voient attribuer un siège, au-delà de l'effectif fixé par le tableau du III ;
 
-3° Si, après application des modalités prévues aux 1° et 2° du présent IV, une commune obtient plus de la moitié des sièges du conseil :
+3° Si, après application des modalités prévues aux 1° et 2° du présent IV, une commune obtient plus de la moitié des sièges du conseil  :
 
 - seul un nombre de sièges portant le nombre total de ses délégués à la moitié des sièges du conseil, arrondie à l'entier inférieur, lui est finalement attribué ;
 
@@ -190,6 +190,6 @@ VI. - Les communes peuvent créer et répartir un nombre de sièges inférieur o
 
 Pour les communautés urbaines et les métropoles, cette décision peut fixer pour une commune un nombre de sièges supérieur à la moitié des sièges de l'organe délibérant.
 
-VII. - Au plus tard six mois avant le 31 décembre de l'année précédant celle du renouvellement général des conseils municipaux, il est procédé aux opérations prévues aux I, IV et VI. Au regard des délibérations sur le nombre et la répartition des sièges prévues aux I et VI et de la population municipale authentifiée par le plus récent décret publié en application de l'article 156 de la loi n° 2002-276 du 27 février 2002 précitée, le nombre total de sièges que comptera l'organe délibérant de l'établissement public de coopération intercommunale ainsi que celui attribué à chaque commune membre lors du prochain renouvellement général des conseils municipaux est constaté par arrêté du représentant de l'Etat dans le département lorsque les communes font partie du même département ou par arrêté conjoint des représentants de l'Etat dans les départements concernés dans le cas contraire, au plus tard le 30 septembre de l'année précédant celle du renouvellement général des conseils municipaux.
+VII. - Au plus tard le 31 août de l'année précédant celle du renouvellement général des conseils municipaux, il est procédé aux opérations prévues aux I, IV et VI. Au regard des délibérations sur le nombre et la répartition des sièges prévues aux I et VI et de la population municipale authentifiée par le plus récent décret publié en application de l'article 156 de la loi n° 2002-276 du 27 février 2002 précitée, le nombre total de sièges que comptera l'organe délibérant de l'établissement public de coopération intercommunale ainsi que celui attribué à chaque commune membre lors du prochain renouvellement général des conseils municipaux est constaté par arrêté du représentant de l'Etat dans le département lorsque les communes font partie du même département ou par arrêté conjoint des représentants de l'Etat dans les départements concernés dans le cas contraire, au plus tard le 31 octobre de l'année précédant celle du renouvellement général des conseils municipaux.
 
 En cas de création d'un nouvel établissement public de coopération intercommunale par application des articles L. 5211-5, L. 5211-41, L. 5211-41-1 ou L. 5211-41-3, les délibérations prévues aux I, IV et VI du présent article s'effectuent en même temps que celle relative au projet de périmètre de l'établissement public de coopération intercommunale à fiscalité propre. L'acte de création ou de fusion mentionne le nombre total de sièges de l'organe délibérant de l'établissement public de coopération intercommunale ainsi que celui attribué à chaque commune membre.
