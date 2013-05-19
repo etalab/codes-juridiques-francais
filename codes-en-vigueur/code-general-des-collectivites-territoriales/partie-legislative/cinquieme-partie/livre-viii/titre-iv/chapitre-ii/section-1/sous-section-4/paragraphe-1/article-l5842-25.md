@@ -4,9 +4,9 @@ I.-Les articles L. 5216-1 à L. 5216-2 sont applicables en Polynésie française
 
 II.-Pour l'application de l'article L. 5216-1 :
 
-1° A la fin de la deuxième phrase, les mots : " du département ou la commune la plus importante du département ” sont remplacés par les mots : de la Polynésie française ;
+1° A la fin de la deuxième phrase du premier alinéa, les mots : " du département ou la commune la plus importante du département ” sont remplacés par les mots : de la Polynésie française ;
 
-2° A la fin de la troisième phrase, les mots : " du département ” sont remplacés par les mots : " de la Polynésie française ” ;
+2° A la fin de la troisième phrase du premier alinéa et au second alinéa, les mots : " du département ” sont remplacés par les mots : " de la Polynésie française ” ;
 
 2° bis La cinquième phrase est supprimée ;
 
