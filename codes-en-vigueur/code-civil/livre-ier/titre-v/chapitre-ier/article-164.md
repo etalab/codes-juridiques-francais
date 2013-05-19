@@ -6,4 +6,4 @@ Néanmoins, il est loisible au Président de la République de lever, pour des c
 
 2° (Abrogé) ;
 
-3° Par l'article 163 aux mariages entre l'oncle et la nièce, la tante et le neveu.
+3° Par l'article 163.

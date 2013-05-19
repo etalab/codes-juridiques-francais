@@ -4,7 +4,7 @@ Les actes de l'état civil énonceront l'année, le jour et l'heure où ils sero
 
 Les dates et lieux de naissance :
 
-a) Des père et mère dans les actes de naissance et de reconnaissance ;
+a) Des parents dans les actes de naissance et de reconnaissance ;
 
 b) De l'enfant dans les actes de reconnaissance ;
 
