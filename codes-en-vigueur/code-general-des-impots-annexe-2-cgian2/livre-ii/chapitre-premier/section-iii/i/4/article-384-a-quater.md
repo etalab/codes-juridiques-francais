@@ -1,16 +1,14 @@
 # Article 384 A quater
 
-I.-L'héritier, le donataire, le légataire ou le copartageant qui désire acquitter tout ou partie des droits de mutation ou de partage dont il est redevable par la remise de blocs de titres de sociétés cotées, de titres d'organismes de placement collectif en valeurs mobilières investis en titres de sociétés cotées ou en obligations négociables, ainsi que d'obligations négociables, mentionnés à l'article 1716 bis du code général des impôts, doit déposer au service des impôts ou    au service de la publicité foncière compétent pour enregistrer l'acte constatant la mutation, le partage ou la déclaration de succession, une offre de dation à l'Etat indiquant le marché sur lequel sont cotés les titres qu'il envisage de remettre à l'Etat ainsi que leur nombre et leur code d'identification sur ce marché. L'offre est accompagnée de la copie du dernier relevé de compte titres sur lequel les titres sont inscrits. Il en est délivré récépissé.
+I.-L'héritier, le donataire, le légataire ou le copartageant qui désire acquitter tout ou partie des droits de mutation ou de partage dont il est redevable par la remise de blocs de titres de sociétés cotées, de titres d'organismes de placement collectif en valeurs mobilières investis en titres de sociétés cotées ou en obligations négociables, ainsi que d'obligations négociables, mentionnés à l'article 1716 bis du code général des impôts, doit déposer au service des impôts ou au service de la publicité foncière compétent pour enregistrer l'acte constatant la mutation, le partage ou la déclaration de succession, une offre de dation à l'Etat indiquant le marché sur lequel sont cotés les titres qu'il envisage de remettre à l'Etat ainsi que leur nombre et leur code d'identification sur ce marché. L'offre est accompagnée de la copie du dernier relevé de compte titres sur lequel les titres sont inscrits. Il en est délivré récépissé.
 
 Toutefois, l'offre n'est recevable que si l'imposition due et la valeur liquidative ou le cours de bourse des titres offerts en dation de la veille du jour du dépôt de l'offre sont supérieurs ou égaux à un montant fixé par arrêté conjoint des ministres chargés du budget, de l'enseignement supérieur et de la recherche.
 
 L'offre de dation en paiement doit être faite dans le délai prévu pour l'enregistrement de la déclaration de la succession ou de l'acte constatant la mutation ou le partage.
 
-II.-L'offre est adressée par l'administration fiscale à une commission dont la composition est fixée par arrêté conjoint du Premier ministre et des ministres chargés du budget, de l'enseignement supérieur et de la recherche.
+II.-Abrogé.
 
-La commission émet un avis sur l'opportunité d'accepter ces titres et sur leur attribution à un établissement public à caractère scientifique, culturel et professionnel, à un établissement à caractère scientifique et technologique ou à une fondation de recherche reconnue d'utilité publique ou assimilée, aux fins de financer un projet de recherche ou d'enseignement.
-
-III.-Au vu de l'avis de la commission, le ministre chargé de l'enseignement supérieur et de la recherche ou, le cas échéant, le ministre chargé de l'enseignement supérieur ou celui chargé de la recherche ou ces deux ministres conjointement, suivant la nature du projet, proposent au ministre chargé du budget l'octroi ou le refus de l'agrément.
+III.-Le ministre chargé de l'enseignement supérieur et de la recherche ou, le cas échéant, le ministre chargé de l'enseignement supérieur ou celui chargé de la recherche ou ces deux ministres conjointement, suivant la nature du projet, proposent au ministre chargé du budget l'octroi ou le refus de l'agrément.
 
 IV.-La décision est notifiée au demandeur par pli recommandé avec demande d'avis de réception.
 

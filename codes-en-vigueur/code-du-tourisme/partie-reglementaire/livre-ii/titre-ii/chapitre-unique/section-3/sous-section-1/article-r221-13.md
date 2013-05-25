@@ -6,4 +6,4 @@ Le préfet informe le demandeur le cas échéant de tout document manquant, dans
 
 Il se prononce dans les quatre mois à compter de la date de réception du dossier complet de demande. Le silence gardé par le préfet pendant plus de quatre mois vaut octroi de la carte professionnelle.
 
-Le programme et la composition des jurys mentionnés à l'article R. 221-4, les modalités d'organisation de l'épreuve d'aptitude et du stage d'adaptation et la composition du dossier mentionné à l'alinéa ci-dessus sont fixés par un arrêté des ministres chargés de la culture et du tourisme.
+Le programme et la composition des jurys, les modalités d'organisation de l'épreuve d'aptitude et du stage d'adaptation et la composition du dossier mentionné à l'alinéa ci-dessus sont fixés par un arrêté des ministres chargés de la culture et du tourisme.

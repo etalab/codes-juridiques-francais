@@ -2,7 +2,7 @@
 
 Il est statué sur les demandes d'agrément présentées pour l'application du II de l'article 209 du code général des impôts :
 
-a) Par le ministre chargé du budget après avis du comité des investissements à caractère économique et social :
+a) Par le ministre chargé du budget :
 
 1° Lorsque la demande est présentée par une société tête de groupe au sens de l'article 223 A du code général des impôts, à raison d'un déficit d'ensemble au sens de l'article 223 C ou sur une créance de report en arrière des déficits d'ensemble au sens de l'article 223 G, quel que soit leur montant ;
 

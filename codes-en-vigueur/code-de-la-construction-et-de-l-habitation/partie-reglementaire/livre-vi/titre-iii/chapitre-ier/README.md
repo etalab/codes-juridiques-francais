@@ -26,4 +26,3 @@
 - [Article R*631-24](article-r-631-24.md)
 - [Article R*631-25](article-r-631-25.md)
 - [Article R*631-26](article-r-631-26.md)
-- [Article R*631-27](article-r-631-27.md)

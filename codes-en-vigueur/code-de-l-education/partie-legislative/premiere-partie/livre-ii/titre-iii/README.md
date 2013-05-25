@@ -8,5 +8,4 @@
 - [Chapitre VI : Dispositions communes aux organismes collégiaux nationaux et locaux.](chapitre-vi)
 - [Chapitre VII : Les instances consultatives en matière de formation professionnelle](chapitre-vii)
 - [Chapitre VIII : Les instances consultatives en matière d'enseignement agricole](chapitre-viii)
-- [Chapitre IX : Le conseil territorial de l'éducation nationale et les autres instances consultatives](chapitre-ix)
 - [Chapitre X : Le médiateur de l'éducation nationale et de l'enseignement supérieur.](chapitre-x)
