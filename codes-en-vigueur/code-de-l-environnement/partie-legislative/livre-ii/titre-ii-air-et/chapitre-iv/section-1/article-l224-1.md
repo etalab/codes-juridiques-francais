@@ -21,5 +21,3 @@ II.-Les décrets mentionnés au I peuvent aussi :
 III.-Un décret en Conseil d'Etat fixe les conditions dans lesquelles le fioul domestique, le gazole, l'essence et les supercarburants doivent comporter un taux minimal d'oxygène.
 
 IV.-Un décret fixe les conditions dans lesquelles les spécifications des carburants mentionnées au III doivent être redéfinies à compter du 1er janvier 2000.
-
-V.-Pour répondre aux objectifs du présent titre, un décret en Conseil d'Etat fixe les conditions dans lesquelles certaines constructions nouvelles doivent comporter une quantité minimale de matériaux en bois.
