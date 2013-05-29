@@ -123,7 +123,9 @@ Liste des maisons de justice et du droit
 </tr>
 <tr>
 <td align="center" colspan="2">
-<br/>Cour d'appel d'Angers <p>Maine-et-Loire<br/>
+<p align="center">
+<br/>Cour d'appel d'Angers </p>
+<p>Maine-et-Loire<br/>
 </p>
 </td>
 </tr>
@@ -227,6 +229,19 @@ Liste des maisons de justice et du droit
 </td>
 <td align="center">
 <p align="left">Hérouville-Saint-Clair.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Manche</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Coutances.</p>
+</td>
+<td>
+<p align="left">Saint-Lô.</p>
 </td>
 </tr>
 <tr>
