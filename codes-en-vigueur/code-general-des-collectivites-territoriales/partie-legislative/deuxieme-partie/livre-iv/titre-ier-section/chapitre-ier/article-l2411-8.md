@@ -6,7 +6,7 @@ Le président de la commission syndicale, en vertu de la délibération de cette
 
 Il peut, sans autorisation préalable de la commission syndicale, faire tous actes conservatoires ou interruptifs de déchéance.
 
-Tout contribuable inscrit au rôle de la commune a le droit d'exercer, tant en demande qu'en défense, les actions qu'il croit appartenir à la section dans laquelle il est électeur.
+Tout contribuable inscrit au rôle de la commune a le droit d'exercer, tant en demande qu'en défense, les actions qu'il croit appartenir à la section dans laquelle il est membre, dès lors qu'il ne dispose pas d'un intérêt à agir en son nom propre.
 
 Le contribuable qui souhaite exercer l'action doit, au préalable, en saisir le président de la commission syndicale. Celle-ci dispose d'un délai de deux mois, sauf risque de forclusion, pour délibérer sur le mérite de l'action.
 
@@ -16,6 +16,8 @@ Si le contribuable a été autorisé à exercer l'action, la section est mise en
 
 Si la commune est partie à l'action, l'article L. 2411-9 est applicable.
 
-Lorsque la section a obtenu une condamnation contre la commune ou une autre section de la commune, les charges ou contributions imposées pour l'acquittement des frais et dommages-intérêts qui résultent du procès ne peuvent être inscrites au budget de la section. Il en est de même de toute partie qui plaide contre la section.
-
 Lorsqu'un jugement est intervenu, le contribuable ne peut se pourvoir en appel ou en cassation qu'en vertu d'une nouvelle autorisation.
+
+Si la commission syndicale n'est pas constituée, le maire peut être habilité par le conseil municipal à représenter la section en justice, sauf si les intérêts de la commune se trouvent en opposition avec ceux de la section. Dans ce dernier cas, une commission syndicale spéciale est désignée par le représentant de l'Etat dans le département uniquement pour exercer l'action en justice contre la commune. Cette commission est dissoute lorsque le jugement est définitif. Les conditions de désignation de cette commission et ses modalités de fonctionnement sont fixées par décret en Conseil d'Etat.
+
+Dans le cas où le maire de la commune est personnellement intéressé à l'affaire, le représentant de l'Etat dans le département peut autoriser un autre membre du conseil municipal à exercer l'action en justice.

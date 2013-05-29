@@ -10,4 +10,4 @@ Pour les rôles postérieurs, la taxe foncière est supportée par la commune.
 
 Le paiement de la taxe foncière afférente aux marais et terres vaines et vagues qui n'ont aucun propriétaire particulier ainsi qu'aux terrains connus sous le nom de biens communaux, incombe à la commune tant qu'ils ne sont point partagés.
 
-La taxe due pour des terrains qui ne sont communs qu'à certaines portions des habitants d'une commune est acquittée par ces habitants.
+La taxe due pour des terrains qui ne sont communs qu'à certaines portions des habitants d'une commune est acquittée par la section de commune.

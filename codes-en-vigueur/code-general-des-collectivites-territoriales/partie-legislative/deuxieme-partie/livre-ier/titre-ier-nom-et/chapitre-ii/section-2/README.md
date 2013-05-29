@@ -7,8 +7,6 @@
 - [Article L2112-5-1](article-l2112-5-1.md)
 - [Article L2112-6](article-l2112-6.md)
 - [Article L2112-7](article-l2112-7.md)
-- [Article L2112-8](article-l2112-8.md)
-- [Article L2112-9](article-l2112-9.md)
 - [Article L2112-10](article-l2112-10.md)
 - [Article L2112-11](article-l2112-11.md)
 - [Article L2112-12](article-l2112-12.md)

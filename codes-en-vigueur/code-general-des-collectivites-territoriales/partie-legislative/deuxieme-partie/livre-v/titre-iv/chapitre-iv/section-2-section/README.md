@@ -7,4 +7,3 @@
 - [Article L2544-6](article-l2544-6.md)
 - [Article L2544-7](article-l2544-7.md)
 - [Article L2544-8](article-l2544-8.md)
-- [Article L2544-9](article-l2544-9.md)
