@@ -16,7 +16,7 @@ I.-Sont habilités à exercer les contrôles mentionnés à l'article L. 231-1 :
 
 7° Les vétérinaires, contrôleurs sanitaires et préposés sanitaires contractuels de l'Etat pour les missions définies dans leur contrat ;
 
-8° Les administrateurs des affaires maritimes, les inspecteurs des affaires maritimes, les officiers du corps technique et administratif des affaires maritimes, les contrôleurs des affaires maritimes, les syndics des gens de mer, pour les contrôles officiels liés à la production de coquillages vivants ;
+8° Les administrateurs des affaires maritimes, les officiers du corps technique et administratif des affaires maritimes et les fonctionnaires affectés dans les services exerçant des missions de contrôle dans le domaine des affaires maritimes sous l'autorité ou à la disposition du ministre chargé de la mer, pour les contrôles officiels liés à la production de coquillages vivants ;
 
 9° Les vétérinaires des armées, pour les organismes relevant de l'autorité ou de la tutelle du ministère de la défense.
 
@@ -26,4 +26,4 @@ III. (Supprimé)
 
 IV.-Des agents appartenant aux catégories énumérées aux 1° à 7° du I nommément désignés peuvent recevoir du ministre chargé de l'agriculture une compétence territoriale excédant les limites de celle du service où ils sont affectés et qui peut s'étendre à la totalité du territoire national.
 
-V.-Les agents appartenant aux catégories énumérées aux 1° à 7° du I qui détiennent un diplôme mentionné à l'article L. 241-2 ont la qualité de " vétérinaires officiels " au sens du règlement (CE) n° 854 / 2004 du 29 avril 2004 lorsqu'ils sont placés sous l'autorité d'un directeur de service déconcentré chargé de l'alimentation ou de la protection des populations ou celle du directeur général de l'alimentation du ministère de l'agriculture.
+V.-Les agents appartenant aux catégories énumérées aux 1° à 7° du I qui détiennent un diplôme mentionné à l'article L. 241-2 ont la qualité de " vétérinaires officiels " au sens du règlement (CE) n° 854/2004 du 29 avril 2004 lorsqu'ils sont placés sous l'autorité d'un directeur de service déconcentré chargé de l'alimentation ou de la protection des populations ou celle du directeur général de l'alimentation du ministère de l'agriculture.

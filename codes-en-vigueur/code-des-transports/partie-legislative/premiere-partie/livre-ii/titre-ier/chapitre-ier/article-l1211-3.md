@@ -4,7 +4,7 @@ I. ― La politique globale des transports prévoit le développement des modes 
 
 II. ― A cette fin, elle favorise, selon une logique intermodale :
 
-1° La complémentarité des modes de transports individuels et collectifs ainsi que leur coopération, notamment par les choix d'infrastructures, par l'aménagement des lieux d'échanges et de correspondances et par le développement rationnel des transports combinés ;
+1° La complémentarité des modes de transports individuels et collectifs ainsi que leur coopération, notamment par les choix d'infrastructures, par l'aménagement des lieux d'échanges et de correspondances, par la création d'aires de stationnement sécurisé pour les vélos dans les nouvelles gares et les réaménagements de gares existantes du réseau ferré et par le développement rationnel des transports combinés ;
 
 2° La coopération entre les opérateurs, la tarification combinée et l'information des usagers sur les différents modes de transports, par la coordination de l'exploitation des réseaux ;
 

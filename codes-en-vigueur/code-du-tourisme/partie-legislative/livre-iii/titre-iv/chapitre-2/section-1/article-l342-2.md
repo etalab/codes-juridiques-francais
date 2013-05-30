@@ -4,7 +4,7 @@ Les contrats établis à cet effet et, si un contrat porte sur plusieurs des obj
 
 1° L'objet du contrat, sa durée et les conditions dans lesquelles il peut éventuellement être prorogé ou révisé ;
 
-2° Les conditions de résiliation, de déchéance et de dévolution, le cas échéant, des biens en fin de contrat ainsi que les conditions d'indemnisation du cocontractant. Dans le cas des conventions de remontées mécaniques, l'indemnisation pour les biens matériels est préalable à la résiliation du contrat ;
+2° Les conditions de résiliation, de déchéance et de dévolution, le cas échéant, des biens en fin de contrat ainsi que les conditions d'indemnisation du cocontractant dont, le cas échéant, celles relatives aux biens financés par l'aménageur ou l'exploitant et non amortis en fin de contrat. Dans le cas des conventions de remontées mécaniques, l'indemnisation pour les biens matériels est préalable à la résiliation du contrat ;
 
 3° Les obligations de chacune des parties et, le cas échéant, le montant de leurs participations financières ;
 

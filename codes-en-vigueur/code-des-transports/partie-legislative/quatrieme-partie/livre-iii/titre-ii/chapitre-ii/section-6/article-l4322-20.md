@@ -12,4 +12,6 @@ Les ressources de Port autonome de Paris sont :
 
 5° Les participations conventionnelles à certaines dépenses d'exploitation du port versées par les collectivités locales, les établissements publics, ainsi que les personnes privées ;
 
-6° Toutes autres recettes d'exploitation.
+6° Toutes autres recettes d'exploitation ;
+
+7° Les droits de port dont les conditions d'assiette et les modalités d'application et de recouvrement sont fixées par décret en Conseil d'Etat.

@@ -18,6 +18,8 @@ Par dérogation aux dispositions de l'article L. 112-1 et des premier et deuxiè
 
 8° Les prêts accordés aux personnes morales ainsi qu'aux personnes physiques pour les besoins de leur activité professionnelle ;
 
-9° Les loyers prévus par les conventions portant sur un local d'habitation ou sur un local affecté à des activités commerciales  ou artisanales relevant du décret prévu au premier alinéa de l'article L. 112-2 ;
+9° Les loyers prévus par les conventions portant sur un local d'habitation ou sur un local affecté à des activités commerciales ou artisanales relevant du décret prévu au premier alinéa de l'article L. 112-2 ;
 
-10°  Les loyers prévus par les conventions portant sur un local à usage des  activités prévues au deuxième alinéa de l'article L. 112-2.
+10° Les loyers prévus par les conventions portant sur un local à usage des activités prévues au deuxième alinéa de l'article L. 112-2 ;
+
+11° Les rémunérations des cocontractants de l'Etat et de ses établissements publics ainsi que les rémunérations des cocontractants des collectivités territoriales, de leurs établissements publics et de leurs groupements, au titre des contrats de délégation de service public, des contrats de partenariat et des concessions de travaux publics conclus dans le domaine des infrastructures et des services de transport.

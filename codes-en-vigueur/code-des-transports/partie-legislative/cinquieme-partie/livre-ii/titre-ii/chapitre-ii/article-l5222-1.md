@@ -8,17 +8,13 @@ Outre les officiers et agents de police judiciaire, sont habilités à constater
 
 3° Les officiers du corps technique et administratif des affaires maritimes ;
 
-4° Les inspecteurs des affaires maritimes ;
+4° Les fonctionnaires affectés dans les services exerçant des missions de contrôle dans le domaine des affaires maritimes sous l'autorité ou à la disposition du ministre chargé de la mer ;
 
-5° Les techniciens experts du service de la sécurité de la navigation maritime ;
-
-6° Les contrôleurs des affaires maritimes ;
-
-7° Les syndics des gens de mer ;
+5° à 7° (Abrogés) ;
 
 8° Le délégué à la mer et au littoral ;
 
-9° Les inspecteurs de l'environnement et les agents publics  commissionnés et assermentés des parcs nationaux, des parcs naturels  marins et des réserves naturelles marines ;
+9° Les inspecteurs de l'environnement et les agents publics commissionnés et assermentés des parcs nationaux, des parcs naturels marins et des réserves naturelles marines ;
 
 10° Les agents publics commissionnés à cet effet par décision du directeur interrégional de la mer et assermentés ;
 

@@ -6,11 +6,11 @@ Indépendamment des officiers et agents de police judiciaire, qui exercent leurs
 
 2° Les officiers du corps technique et administratif des affaires maritimes ;
 
-3° Les inspecteurs des affaires maritimes ;
+3° Les fonctionnaires affectés dans les services exerçant des missions de contrôle dans le domaine des affaires maritimes sous l'autorité ou à la disposition du ministre chargé de la mer ;
 
-4° Les contrôleurs des affaires maritimes ;
+4° (Abrogé)
 
-5° Les syndics des gens de mer ;
+5° (Abrogé)
 
 6° Les fonctionnaires et agents assermentés et commissionnés des services maritimes, des ports autonomes maritimes et des grands ports maritimes ;
 

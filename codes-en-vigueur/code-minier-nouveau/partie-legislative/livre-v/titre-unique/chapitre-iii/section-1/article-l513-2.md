@@ -4,7 +4,7 @@ I. ― Outre les officiers et agents de police judiciaire agissant conformément
 
 1° Les administrateurs des affaires maritimes ;
 
-2° Les inspecteurs des affaires maritimes, les officiers du corps technique et administratif des affaires maritimes ;
+2° Les fonctionnaires de catégorie A affectés dans les services exerçant des missions de contrôle dans le domaine des affaires maritimes sous l'autorité ou à la disposition du ministre chargé de la mer et les officiers du corps technique et administratif des affaires maritimes ;
 
 3° Les ingénieurs des mines ou les ingénieurs placés sous leurs ordres et qu'ils ont désignés à cet effet ;
 
@@ -22,4 +22,4 @@ I. ― Outre les officiers et agents de police judiciaire agissant conformément
 
 10° Les officiers de port et les officiers de port adjoints.
 
-II.-Les procès-verbaux constatant les infractions mentionnées à l'article L. 513-1 sont transmis sans délai au procureur de la République.
+II. - Les procès-verbaux constatant les infractions mentionnées à l'article L. 513-1 sont transmis sans délai au procureur de la République.
