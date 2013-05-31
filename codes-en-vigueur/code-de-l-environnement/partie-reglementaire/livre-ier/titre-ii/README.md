@@ -6,3 +6,4 @@
 - [Chapitre V : Autres modes d'information](chapitre-v)
 - [Chapitre VI : Déclaration de projet](chapitre-vi)
 - [Chapitre VII : De l'infrastructure d'information géographique](chapitre-vii)
+- [Article D120-1](article-d120-1.md)
