@@ -1,15 +1,9 @@
 # Article D215-8
 
-La médaille de la famille comporte trois modèles.
+La médaille de la famille est d'un module de 33 millimètres et frappée dans un métal bronze doré.
 
-Aux personnes qui réunissent les conditions prévues à l'article D. 215-7, sont attribuées :
+Elle porte sur l'avers la représentation d'un groupe familial entouré de branches de laurier et l'inscription " Médaille de la famille  "    et, sur le revers, les mots : " République française ".
 
-1° La médaille de bronze, lorsqu'elles élèvent ou ont élevé quatre ou cinq enfants ;
+La médaille se porte, suspendue à un ruban, sur le côté gauche de la poitrine. Le ruban, de 32 millimètres de largeur, est divisé, dans le sens vertical, en trois parties égales par une bande médiane vert lumière placée entre deux bandes rouge ponceau.
 
-2° La médaille d'argent, lorsque le nombre des enfants est de six ou de sept ;
-
-3° La médaille d'or, lorsque le nombre des enfants est de huit ou plus.
-
-La médaille de bronze est également accordée aux personnes veuves de guerre, qui, ayant au décès de leur mari trois enfants, les ont élevés seules.
-
-La médaille de la famille peut être accordée à titre posthume si la proposition est faite dans les deux ans du décès de la mère ou du père.
+L'insigne est constitué par un ruban aux couleurs du ruban de la médaille.
