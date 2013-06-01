@@ -15,3 +15,5 @@ A ce titre :
 5° Il formule, le cas échéant, après réception des rapports d'inspection, des observations, qui sont transmises au ministre des affaires étrangères.
 
 Il préserve les intérêts de défense dans les sites où ont été ou sont exécutées des activités de défense, et, en particulier, des marchés classifiés de défense.A cet effet, il désigne un représentant au sein de l'équipe d'accompagnement organisée par le ministre chargé de l'industrie au titre de l'article D. 2342-101.
+
+Il est responsable du site de destruction des armes chimiques.
