@@ -24,7 +24,7 @@ III.-Dans les zones de revitalisation rurale mentionnées à l'article 1465 A, l
 
 1° Les locaux mis en location à titre de gîte rural ;
 
-2° Les locaux mis en location en qualité de meublés de tourisme au sens de l'article D. 324-1 du code du tourisme ;
+2° Les locaux mis en location en qualité de meublés de tourisme au sens de l'article D. 324-2 du code du tourisme ;
 
 3° Les chambres d'hôtes au sens de l'article L. 324-3 du code du tourisme.
 
