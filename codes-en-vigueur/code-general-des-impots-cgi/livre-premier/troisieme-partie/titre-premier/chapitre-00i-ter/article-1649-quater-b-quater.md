@@ -10,11 +10,11 @@ Cette obligation s'applique également aux entreprises qui, quel que soit leur c
 
 3° Les personnes morales ou groupements de personnes de droit ou de fait dont plus de la moitié du capital ou des droits de vote est détenue à la clôture de leur exercice, directement ou indirectement, par une personne ou un groupement mentionné au 1° ;
 
-4° Les sociétés bénéficiant de l'agrément prévu à l'article 209 quinquies ainsi que toutes les personnes morales imposables en France faisant partie du périmètre de consolidation ;
+4° (Périmé)
 
-5° Les personnes morales qui appartiennent à un groupe relevant du régime fiscal prévu à l'article 223 A lorsque celui-ci comprend au moins une personne mentionnée aux 1°, 2°, 3° et 4°.
+5° Les personnes morales qui appartiennent à un groupe relevant du régime fiscal prévu à l'article 223 A lorsque celui-ci comprend au moins une personne mentionnée aux 1°, 2° et 3°.
 
-Pour les entreprises mentionnées aux 1° à 4°, cette obligation s'applique aux déclarations qui doivent être souscrites à compter du 1er février de la deuxième année suivant celle au cours de laquelle l'une au moins des conditions prévues aux 1° à 4° est remplie à la clôture de l'exercice. Pour les entreprises mentionnées au 5°, cette obligation s'applique à compter du 1er février de la première année suivant celle de leur entrée dans le groupe.
+Pour les entreprises mentionnées aux 1° à 3°, cette obligation s'applique aux déclarations qui doivent être souscrites à compter du 1er février de la deuxième année suivant celle au cours de laquelle l'une au moins des conditions prévues aux 1° à 3° est remplie à la clôture de l'exercice. Pour les entreprises mentionnées au 5°, cette obligation s'applique à compter du 1er février de la première année suivant celle de leur entrée dans le groupe.
 
 Pour les entreprises mentionnées aux 1° à 5°, cette obligation continue à s'appliquer jusqu'au 31 janvier de la quatrième année suivant celle au cours de laquelle les conditions ont cessé d'être remplies à la clôture de l'exercice. Par dérogation aux dispositions de l'alinéa précédent, si, au cours de cette période, les conditions sont à nouveau remplies à la clôture d'un exercice, cette obligation continue de s'appliquer à compter du début du premier exercice suivant.
 

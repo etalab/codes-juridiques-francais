@@ -10,7 +10,7 @@ Cette déclaration mentionne, par établissement ou par lieu d'emploi, le nombre
 
 Les effectifs affectés aux véhicules sont déclarés par les entreprises de transport au local ou au terrain qui constitue le lieu de stationnement habituel des véhicules ou, s'il n'en existe pas, au local où ils sont entretenus ou réparés par le redevable ; à défaut, les effectifs sont déclarés au principal établissement de l'entreprise.
 
-Par exception aux deuxième et troisième alinéas du présent 1, la déclaration des entreprises de transport national ferroviaire mentionne leurs effectifs par établissement, au prorata de la valeur locative foncière imposée à la cotisation foncière des entreprises de ces établissements.
+Par exception aux deuxième et troisième alinéas, la déclaration des entreprises de transport national ferroviaire mentionne leurs effectifs par établissement, au prorata de la valeur locative foncière imposée à la cotisation foncière des entreprises de ces établissements.
 
 Un décret précise les conditions d'application du présent 1.
 
@@ -26,7 +26,7 @@ Toutefois, lorsqu'un contribuable dispose, dans plus de dix communes, d'établis
 
 Le quatrième alinéa, à l'exception de sa troisième phrase, est également applicable aux contribuables disposant, dans plus de dix communes, d'établissements comprenant des installations de production d'électricité utilisant l'énergie mécanique du vent mentionnées à l'article 1519 D ou des installations de production d'électricité d'origine photovoltaïque mentionnées à l'article 1519 F. Lorsqu'un établissement de production d'électricité d'origine photovoltaïque mentionné à l'article 1519 F est établi sur plusieurs communes, sa valeur ajoutée est répartie entre les communes en fonction de la puissance électrique installée sur chaque commune. Les modalités d'application de ces dispositions sont définies par décret.
 
-Lorsque la déclaration par établissement mentionnée au II fait défaut, la valeur ajoutée du contribuable est répartie entre les communes à partir des éléments mentionnés dans la déclaration de l'année précédente. A défaut, la valeur ajoutée du contribuable est répartie entre les communes où le contribuable dispose d'immobilisations imposables à la cotisation foncière des entreprises au prorata de leur valeur locative. Dans ce second cas, la valeur locative des immobilisations industrielles évaluée dans les conditions prévues aux articles 1499 et 1501 est pondérée par un coefficient de 2 (1).
+Lorsque la déclaration par établissement mentionnée au II fait défaut, la valeur ajoutée du contribuable est répartie entre les communes à partir des éléments mentionnés dans la déclaration de l'année précédente. A défaut, la valeur ajoutée du contribuable est répartie entre les communes où le contribuable dispose d'immobilisations imposables à la cotisation foncière des entreprises au prorata de leur valeur locative. Dans ce second cas, la valeur locative des immobilisations industrielles évaluée dans les conditions prévues aux articles 1499 et 1501 est pondérée par un coefficient de 2.
 
 Pour les contribuables qui n'emploient aucun salarié en France et ne disposent d'aucun établissement en France mais qui y exercent une activité de location d'immeubles ou de vente d'immeubles :
 
