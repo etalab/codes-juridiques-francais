@@ -26,8 +26,6 @@ d) Le montant des sommes payées pendant l'année en distinguant :
 
 le montant brut des rémunérations entendu au sens des articles 231 et suivants du code général des impôts ;
 
-Le montant des salaires et éléments de rémunération afférent aux heures supplémentaires et complémentaires exonéré en application de l'article 81 quater du code général des impôts ;
-
 le total des versements en argent et en nature après déduction des cotisations ouvrières aux assurances sociales et au chômage et des retenues pour la retraite ;
 
 Le montant net des rémunérations ainsi déterminé, après déduction des allocations chômage et de préretraite, ainsi que des indemnités et rémunérations mentionnées au 3° du II de l'article L. 136-2 du code de la sécurité sociale ;
@@ -64,4 +62,4 @@ j) Au titre de l'année d'acquisition définitive des actions gratuites définie
 
 k) Au titre de l'année de souscription des titres définis à l'article 163 bis G du code général des impôts, les date, nombre et prix d'acquisition des titres correspondants, la fraction du gain constaté lors de l'exercice des bons de source française ainsi que la durée d'exercice de l'activité du bénéficiaire dans la société, conformément aux dispositions du 2° de l'article 41 V bis ;
 
-3° Le total pour l'ensemble des salariés de l'établissement et de l'entreprise des sommes mentionnées au 2° ci-dessus.
+3° Le total pour l'ensemble des salariés de l'établissement et de l'entreprise des sommes mentionnées au 2°.

@@ -12,7 +12,7 @@ a. Aux dépenses d'installation ou de remplacement d'équipements spécialement 
 
 b. Aux dépenses payées entre le 1er janvier 2005 et le 31 décembre 2014 pour la réalisation de travaux prescrits aux propriétaires d'habitation au titre du IV de l'article L. 515-16 du code de l'environnement ;
 
-c. Aux dépenses afférentes à un immeuble collectif achevé depuis plus de deux ans, payées entre le 1er janvier 2005 et le 31 décembre 2011, au titre de l'acquisition d'ascenseurs électriques à traction possédant un contrôle avec variation de fréquence.
+c. (Périmé)
 
 2. Un arrêté du ministre chargé du budget fixe la liste des équipements pour lesquels les dépenses d'installation ou de remplacement ouvrent droit à cet avantage fiscal.
 
@@ -28,7 +28,7 @@ a. 25 % du montant des dépenses d'installation ou de remplacement d'équipement
 
 a bis. 40 % (1) du montant des travaux mentionnés au b du 1 ;
 
-b. 15 % du montant des dépenses d'acquisition mentionnées au c du 1.
+b. (Périmé)
 
 6. Les travaux et les dépenses d'acquisition, d'installation ou de remplacement mentionnés au 1 s'entendent de ceux figurant sur la facture d'une entreprise ou, le cas échéant, dans les cas prévus aux 2° et 3° du a du 1, des dépenses figurant sur une attestation fournie par le vendeur ou le constructeur du logement.
 

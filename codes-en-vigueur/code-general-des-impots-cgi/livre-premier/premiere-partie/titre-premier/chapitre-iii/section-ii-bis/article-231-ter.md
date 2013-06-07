@@ -46,7 +46,7 @@ Dans chaque circonscription, pour le calcul de la taxe relative aux locaux à us
 
 b. (Abrogé)
 
-2. Les tarifs au mètre carré sont fixés, pour l'année 2012, conformément aux dispositions ci-dessous :
+2. Les tarifs au mètre carré sont fixés, pour l'année 2013, conformément aux dispositions ci-dessous :
 
 a) Pour les locaux à usage de bureaux :
 
@@ -58,40 +58,31 @@ a) Pour les locaux à usage de bureaux :
 <table>
 <tbody>
 <tr>
-<th colspan="2">1re CIRCONSCRIPTION<br/>
-</th>
-<th colspan="2"> 										2e CIRCONSCRIPTION<br/>
-</th>
-<th colspan="5"> 										3e CIRCONSCRIPTION<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<b>Tarif normal</b>
+<td colspan="2">
+<p align="center">  1re CIRCONSCRIPTION</p>
 </td>
-<td align="center">
-<b>Tarif réduit</b>
+<td colspan="2">
+<p align="center"> 2e CIRCONSCRIPTION</p>
 </td>
-<td align="center">
-<b>Tarif normal</b>
-</td>
-<td align="center">
-<b>Tarif réduit</b>
-</td>
-<td align="center">
-<b>Tarif normal</b>
-</td>
-<td align="center">
-<b>Tarif réduit</b>
+<td colspan="5">
+<p align="center"> 3e CIRCONSCRIPTION</p>
 </td>
 </tr>
 <tr>
-<td align="center"> 16,71</td>
-<td align="center"> 8,28</td>
-<td align="center"> 9,91</td>
-<td align="center"> 5,92</td>
-<td align="center"> 4,74</td>
-<td align="center"> 4,29</td>
+<td align="center">Tarif normal </td>
+<td align="center">Tarif réduit </td>
+<td align="center">Tarif normal </td>
+<td align="center">Tarif réduit </td>
+<td align="center">Tarif normal </td>
+<td align="center">Tarif réduit </td>
+</tr>
+<tr>
+<td align="center">17,48</td>
+<td align="center">8,66</td>
+<td align="center">10,37</td>
+<td align="center">6,20</td>
+<td align="center">4,96</td>
+<td align="center">4,49</td>
 </tr>
 </tbody>
 </table>
@@ -103,24 +94,24 @@ a) Pour les locaux à usage de bureaux :
 <table>
 <tbody>
 <tr>
-<th>
-<br/>1re CIRCONSCRIPTION<br/>
-</th>
-<th>
-<br/>2e CIRCONSCRIPTION<br/>
-</th>
-<th colspan="7">
-<br/>3e CIRCONSCRIPTION<br/>
-</th>
+<td>
+<p align="center">  1re CIRCONSCRIPTION</p>
+</td>
+<td>
+<p align="center"> 2e CIRCONSCRIPTION</p>
+</td>
+<td colspan="7">
+<p align="center"> 3e CIRCONSCRIPTION</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>7,36<br/>
+<br/>7,70<br/>
 </td>
 <td align="center">
-<br/>3,79<br/>
+<br/>3,96<br/>
 </td>
-<td align="center">1,90</td>
+<td align="center">1,99</td>
 </tr>
 </tbody>
 </table>
@@ -132,21 +123,25 @@ c) Pour les locaux de stockage :
 <table>
 <tbody>
 <tr>
-<th>
-<p>1re CIRCONSCRIPTION</p>
-</th>
-<th>2e CIRCONSCRIPTION</th>
-<th colspan="7">3e CIRCONSCRIPTION</th>
+<td>
+<p align="center">  1re CIRCONSCRIPTION</p>
+</td>
+<td>
+<p align="center"> 2e CIRCONSCRIPTION</p>
+</td>
+<td colspan="7">
+<p align="center"> 3e CIRCONSCRIPTION</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>3,79<br/>
+<br/>3,97<br/>
 </td>
 <td align="center">
-<br/>1,90<br/>
+<br/>1,99<br/>
 </td>
 <td align="center">
-<br/>0,95</td>
+<br/>1,00</td>
 </tr>
 </tbody>
 </table>
@@ -156,24 +151,25 @@ c) Pour les locaux de stockage :
 <table>
 <tbody>
 <tr>
-<th>1re CIRCONSCRIPTION<br/>
-</th>
-<th>
-<br/>2e CIRCONSCRIPTION<br/>
-</th>
-<th colspan="7">
-<br/>3e CIRCONSCRIPTION<br/>
-</th>
+<td>
+<p align="center">  1re CIRCONSCRIPTION</p>
+</td>
+<td>
+<p align="center"> 2e CIRCONSCRIPTION</p>
+</td>
+<td colspan="7">
+<p align="center"> 3e CIRCONSCRIPTION</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>2,21<br/>
+<br/>2,32<br/>
 </td>
 <td align="center">
-<br/>1,27<br/>
+<br/>1,33<br/>
 </td>
 <td align="center">
-<br/>0,64</td>
+<br/>0,67</td>
 </tr>
 </tbody>
 </table>
@@ -184,5 +180,6 @@ c) Pour les locaux de stockage :
 <div align="left"/>
 <div align="left">VII.-Les redevables sont tenus de déposer une déclaration accompagnée du paiement de la taxe, avant le 1er mars de chaque année, auprès du comptable public compétent du lieu de situation des locaux imposables.</div>
 <div align="left"/>
-<div align="left">VIII.-Le contrôle, le recouvrement, le contentieux, les garanties et les sanctions relatifs à la taxe sont régis par les règles applicables en matière de taxe sur les salaires jusqu'au 31 décembre 2003. </div>
+<div align="left">VIII.-Le contrôle, le recouvrement, le contentieux, les garanties et les sanctions relatifs à la taxe sont régis par les règles applicables en matière de taxe sur les salaires jusqu'au 31 décembre 2003. <br/>
+</div>
 <div align="left">Le privilège prévu au 1° du 2 de l'article 1920 peut être exercé pour le recouvrement de la taxe.</div>

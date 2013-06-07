@@ -12,7 +12,7 @@ a ter) Le montant des dépenses supportées pour le compte du locataire par le p
 
 a quater) Les provisions pour dépenses, comprises ou non dans le budget prévisionnel de la copropriété, prévues aux articles 14-1 et 14-2 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis, supportées par le propriétaire, diminuées du montant des provisions déduites l'année précédente qui correspond à des charges non déductibles ;
 
-b) Les dépenses d'amélioration afférentes aux locaux d'habitation, à l'exclusion des frais correspondant à des travaux de construction, de reconstruction ou d'agrandissement ainsi que des dépenses au titre desquelles le propriétaire bénéficie du crédit d'impôt sur le revenu prévu à l'article 200 quater  ou de celui prévu à l'article 200 quater A;
+b) Les dépenses d'amélioration afférentes aux locaux d'habitation, à l'exclusion des frais correspondant à des travaux de construction, de reconstruction ou d'agrandissement ainsi que des dépenses au titre desquelles le propriétaire bénéficie du crédit d'impôt sur le revenu prévu à l'article 200 quater ou de celui prévu à l'article 200 quater A ;
 
 b bis) Les dépenses d'amélioration afférentes aux locaux professionnels et commerciaux destinées à protéger ces locaux des effets de l'amiante ou à faciliter l'accueil des handicapés, à l'exclusion des frais correspondant à des travaux de construction, de reconstruction ou d'agrandissement ;
 
@@ -112,7 +112,7 @@ Pour un même logement, les dispositions du présent h sont exclusives de l'appl
 
 La déduction au titre de l'amortissement des logements acquis neufs, en l'état futur d'achèvement ou que le contribuable fait construire n'est applicable qu'aux logements dont les caractéristiques thermiques et la performance énergétique sont conformes aux prescriptions de l'article L. 111-9 du code de la construction et de l'habitation. Le respect de cette condition est justifié par le contribuable selon des modalités définies par décret.
 
-Le présent h s'applique aux logements situés dans des communes classées dans des zones géographiques se caractérisant par un déséquilibre entre l'offre et la demande de logements. Un arrêté des ministres chargés du budget et du logement, révisé au moins tous les trois ans, établit le classement des communes par zone (1).
+Le présent h s'applique aux logements situés dans des communes classées dans des zones géographiques se caractérisant par un déséquilibre entre l'offre et la demande de logements. Un arrêté des ministres chargés du budget et du logement, révisé au moins tous les trois ans, établit le classement des communes par zone.
 
 i) Lorsque le contribuable, domicilié en France au sens de l'article 4 B, transfère son habitation principale pour des raisons professionnelles, une déduction fixée à 10 % des revenus bruts annuels tirés de la location de son ancienne habitation principale jusqu'au 31 décembre de la troisième année qui suit la date de sa mise en location ou jusqu'à la date de l'acquisition d'une nouvelle habitation principale si elle est antérieure.
 
@@ -182,7 +182,7 @@ c ter) Les dépenses engagées pour la construction d'un nouveau bâtiment d'exp
 
 c quater) Les dépenses d'amélioration afférentes aux propriétés non bâties et effectivement supportées par le propriétaire ;
 
-c quinquies) Les travaux de restauration et de gros entretien effectués sur des espaces naturels mentionnés aux articles L. 331-2, L. 332-2, L. 341-2 et L. 414-1 du code de l'environnement et dans leurs textes d'application, ainsi que des espaces mentionnés à l'article L. 146-6 du code de l'urbanisme, en vue de leur maintien en bon état écologique et paysager qui ont reçu l'accord préalable de l'autorité administrative compétente.
+c quinquies) Les travaux de restauration et de gros entretien effectués sur des espaces naturels mentionnés aux articles L. 331-2, L. 332-2 à L. 332-2-2, L. 341-2 et L. 414-1 du code de l'environnement et dans leurs textes d'application, ainsi que des espaces mentionnés à l'article L. 146-6 du code de l'urbanisme, en vue de leur maintien en bon état écologique et paysager qui ont reçu l'accord préalable de l'autorité administrative compétente.
 
 d) (abrogé)
 

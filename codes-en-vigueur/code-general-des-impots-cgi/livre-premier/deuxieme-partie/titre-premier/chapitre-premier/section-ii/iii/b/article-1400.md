@@ -8,4 +8,4 @@ III. Dans les sociétés immobilières de copropriété visées à l'article 165
 
 IV.-Lorsqu'un immeuble a été transféré en application d'un contrat de fiducie, la taxe foncière est établie au nom du fiduciaire.
 
-V.-L'Office national des forêts est le redevable de la taxe foncière afférente aux forêts et terrains visés à l'article L. 121-2 du code forestier.
+V.-L'Office national des forêts est le redevable de la taxe foncière afférente aux forêts et terrains visés à l'article L. 221-2 du code forestier.

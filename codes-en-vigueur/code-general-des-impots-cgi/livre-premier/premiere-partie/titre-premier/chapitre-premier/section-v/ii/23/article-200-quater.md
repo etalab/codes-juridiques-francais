@@ -81,131 +81,163 @@ d) Pour le montant des équipements de production d'énergie utilisant une sourc
 <table>
 <tbody>
 <tr>
-<td/>
-<td>
+<td width="454">
+<br/>
+</td>
+<td width="76">
 <p align="center">2010</p>
 </td>
-<td>
+<td width="76">
 <p align="center">2011</p>
 </td>
-<td>
+<td width="76">
 <p align="center">A compter<br/>de 2012 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Cas général </p>
+<td width="454">
+<p>Cas général </p>
 </td>
-<td align="center">
+<td width="76">
 <p align="center">50 % </p>
 </td>
-<td align="center">
+<td width="76">
 <p align="center">45 % </p>
 </td>
-<td align="center">
-<p>32 % </p>
+<td width="76">
+<p align="center">32 % </p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Equipements de production d'électricité utilisant l'énergie radiative du soleil </p>
+<td width="454">
+<p>Equipements de production d'électricité utilisant l'énergie radiative du soleil </p>
 </td>
-<td align="center">
-<p>50 % (1) </p>
-<p>25 % (2) </p>
+<td width="76">
+<p align="center">50 % (1) </p>
+<p align="center">25 % (2) </p>
 </td>
-<td align="center">22 % <br/>
+<td width="76">
+<p align="center">22 % </p>
 </td>
-<td align="center">11 % </td>
+<td width="76">
+<p align="center">11 % </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Pompes à chaleur (autres que air/ air) dont la finalité essentielle est la production<br/>de chaleur, à l'exception des pompes à chaleur géothermiques. </p>
+<td width="454">
+<p>Pompes à chaleur (autres que air/ air) dont la finalité essentielle est la production<br/>de chaleur, à l'exception des pompes à chaleur géothermiques. </p>
 </td>
-<td align="center">25 % </td>
-<td align="center">
-<p>22 % <br/>
-</p>
+<td width="76">
+<p align="center">25 % </p>
 </td>
-<td align="center">15 %</td>
+<td width="76">
+<p align="center">22 % </p>
+</td>
+<td width="76">
+<p align="center">15 %</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Pompes à chaleur géothermiques dont la finalité essentielle est la production de chaleur. </p>
+<td width="454">
+<p>Pompes à chaleur géothermiques dont la finalité essentielle est la production de chaleur. </p>
 </td>
-<td align="center">40 % </td>
-<td align="center">
-<p>36 % <br/>
-</p>
+<td width="76">
+<p align="center">40 % </p>
 </td>
-<td align="center">26 % </td>
+<td width="76">
+<p align="center">36 % </p>
+</td>
+<td width="76">
+<p align="center">26 % </p>
+</td>
 </tr>
 <tr>
-<td align="center">
+<td width="454">
 <p>Pompes à chaleur (autres que air/ air) thermodynamiques dédiées à la production<br/>d'eau chaude sanitaire. </p>
 </td>
-<td align="center">40 % </td>
-<td align="center">
-<p>36 % </p>
+<td width="76">
+<p align="center">40 % </p>
 </td>
-<td align="center">26 % </td>
+<td width="76">
+<p align="center">36 % </p>
+</td>
+<td width="76">
+<p align="center">26 % </p>
+</td>
 </tr>
 <tr>
-<td align="center">
+<td width="454">
 <p>Pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques. </p>
 </td>
-<td align="center">40 % </td>
-<td align="center">
-<p>36 % </p>
+<td width="76">
+<p align="center">40 % </p>
 </td>
-<td align="center">26 % </td>
+<td width="76">
+<p align="center">36 % </p>
+</td>
+<td width="76">
+<p align="center">26 % </p>
+</td>
 </tr>
 <tr>
-<td align="center">
+<td width="454">
 <p>Chaudières et équipements de chauffage ou de production d'eau chaude fonctionnant<br/>au bois ou autres biomasses :</p>
 </td>
-<td align="center">
+<td width="76">
 <br/>
 </td>
-<td align="center"/>
-<td align="center"/>
+<td width="76">
+<br/>
+</td>
+<td width="76">
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">-cas général ; </p>
+<td width="454">
+<p>-cas général ; </p>
 </td>
-<td align="center">
-<p>25 % </p>
+<td width="76">
+<p align="center">25 % </p>
 </td>
-<td align="center">
-<p>22 %<br/>
-</p>
+<td width="76">
+<p align="center">22 %</p>
 </td>
-<td align="center">15 % </td>
+<td width="76">
+<p align="center">15 % </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">-en cas de remplacement des mêmes matériels. </p>
+<td width="454">
+<p>-en cas de remplacement des mêmes matériels. </p>
 </td>
-<td align="center">
-<p>40 % </p>
+<td width="76">
+<p align="center">40 % </p>
 </td>
-<td align="center">
-<p>36 % </p>
+<td width="76">
+<p align="center">36 % </p>
 </td>
-<td align="center">26 % </td>
+<td width="76">
+<p align="center">26 % </p>
+</td>
 </tr>
 <tr>
-<td>
-<p align="left">(1) Pour les dépenses payées jusqu'au 28 septembre 2010 inclus, ainsi que celles<br/>pour lesquelles le contribuable peut justifier jusqu'à cette date : </p>
+<td width="454">
+<p>(1) Pour les dépenses payées jusqu'au 28 septembre 2010 inclus, ainsi que celles<br/>pour lesquelles le contribuable peut justifier jusqu'à cette date : </p>
 <p>a) De l'acceptation d'un devis et du versement d'arrhes ou d'un acompte à l'entreprise ; </p>
-<p>b) De la signature d'un contrat dans le cadre d'un démarchage mentionné<br/>aux articles L. 121-21 à L. 121-33 du code de la consommation, à la condition de justifier d'un paiement total ou partiel jusqu'au 6 octobre 2010 ; </p>
+<p>b) De la signature d'un contrat dans le cadre d'un démarchage mentionné<br/>aux  articles L. 121-21 à L. 121-33 du code de la consommation, à la condition de justifier d'un paiement total ou partiel jusqu'au 6 octobre 2010 ; </p>
 <p>c) Ou d'un moyen de financement accordé à raison des dépenses concernées par<br/>un établissement de crédit. </p>
 <p>(2) Pour les dépenses payées à compter du 29 septembre 2010. </p>
 </td>
-<td/>
-<td/>
-<td/>
+<td width="76">
+<br/>
+</td>
+<td width="76">
+<br/>
+</td>
+<td width="76">
+<br/>
+</td>
 </tr>
 </tbody>
 </table>
@@ -248,7 +280,7 @@ Cette facture comporte, outre les mentions prévues à l'article 289 :
 
 5° Lorsque les travaux d'installation des équipements, matériaux et appareils y sont soumis, les critères de qualification de l'entreprise ou de qualité de l'installation ;
 
-6° Dans le cas du remplacement d'une chaudière à bois ou autres biomasses ou d'un équipement de chauffage ou de production d'eau chaude indépendant fonctionnant au bois ou autres biomasses, et pour le bénéfice du taux de 31 % mentionné à la dernière ligne du tableau du d du 5, outre les mentions précitées, la mention de la reprise, par l'entreprise qui a réalisé les travaux, de l'ancien matériel et des coordonnées de l'entreprise qui procède à sa destruction.
+6° Dans le cas du remplacement d'une chaudière à bois ou autres biomasses ou d'un équipement de chauffage ou de production d'eau chaude indépendant fonctionnant au bois ou autres biomasses, et pour le bénéfice du taux de 26 % mentionné à la dernière ligne du tableau du d du 5, outre les mentions précitées, la mention de la reprise, par l'entreprise qui a réalisé les travaux, de l'ancien matériel et des coordonnées de l'entreprise qui procède à sa destruction.
 
 c. Lorsque le bénéficiaire du crédit d'impôt n'est pas en mesure de produire une facture ou une attestation comportant les mentions prévues au b selon la nature des travaux, équipements, matériaux et appareils concernés, il fait l'objet, au titre de l'année d'imputation et dans la limite du crédit d'impôt obtenu, d'une reprise égale au montant de l'avantage fiscal accordé à raison de la dépense non justifiée.
 

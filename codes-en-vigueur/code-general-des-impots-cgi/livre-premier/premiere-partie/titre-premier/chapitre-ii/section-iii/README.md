@@ -6,7 +6,6 @@
 - [Article 209 C](article-209-c.md)
 - [Article 209 quater](article-209-quater.md)
 - [Article 209 quater D](article-209-quater-d.md)
-- [Article 209 quinquies](article-209-quinquies.md)
 - [Article 209 B](article-209-b.md)
 - [Article 210](article-210.md)
 - [Article 210-0 A](article-210-0-a.md)

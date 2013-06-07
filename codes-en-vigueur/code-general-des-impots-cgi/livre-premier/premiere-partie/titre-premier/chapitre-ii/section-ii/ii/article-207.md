@@ -6,7 +6,7 @@
 
 1° bis Les syndicats professionnels, quelle que soit leur forme juridique, et leurs unions pour leurs activités portant sur l'étude et la défense des droits et des intérêts collectifs matériels ou moraux de leurs membres ou des personnes qu'ils représentent et à condition qu'ils fonctionnent conformément aux dispositions qui les régissent ;
 
-2° Sauf pour les opérations effectuées avec des non-sociétaires et à  condition qu'elles fonctionnent conformément aux dispositions qui les  régissent :
+2° Sauf pour les opérations effectuées avec des non-sociétaires et à condition qu'elles fonctionnent conformément aux dispositions qui les régissent :
 
 a. les sociétés coopératives agricoles d'approvisionnement et d'achat ;
 
@@ -28,7 +28,7 @@ Les sociétés coopératives agricoles et leurs unions sont tenues de produire, 
 
 3° bis. Lorsqu'elles fonctionnent conformément aux dispositions de la loi n° 83-657 du 20 juillet 1983 relative au développement de certaines activités d'économie sociale, les coopératives artisanales et leurs unions, les coopératives d'entreprises de transports, les coopératives artisanales de transport fluvial ainsi que les coopératives maritimes et leurs unions, visées aux articles L. 931-5 à L. 931-27 du code rural et de la pêche maritime, sauf pour les affaires effectuées avec des non-sociétaires ;
 
-4° Les organismes d'habitations à loyer modéré mentionnés à l'article L. 411-2 du code de la construction et de l'habitation, à l'exception des sociétés anonymes de crédit immobilier, les sociétés d'économie mixte visées à l'article L. 481-1-1 du même code et les sociétés anonymes de coordination entre les organismes d'habitations à loyer modéré mentionnées à l'article L. 423-1-1 du même code pour :
+4° Les organismes d'habitations à loyer modéré mentionnés à l'article L. 411-2 du code de la construction et de l'habitation, à l'exception des sociétés anonymes de crédit immobilier, les sociétés d'économie mixte visées à l'article L. 481-1 du même code et les sociétés anonymes de coordination entre les organismes d'habitations à loyer modéré mentionnées à l'article L. 423-1-1 du même code pour :
 
 a.-les opérations réalisées au titre du service d'intérêt général défini aux septième, huitième et neuvième alinéas de l'article L. 411-2 du même code ainsi que les services accessoires à ces opérations ;
 
@@ -100,7 +100,7 @@ Les résultats sont déterminés selon les règles fixées par l'article 209, av
 
 Les résultats sont déterminés selon les règles visées à l'article 209 avant déduction des ristournes.
 
-1 quater. Pour les sociétés coopératives et leurs unions autres que celles qui sont mentionnées au 4° du 1, l'exonération prévue au 1 n'est pas applicable lorsque les associés non coopérateurs et les titulaires de certificats coopératifs d'investissement détiennent plus de 50 p. 100 du capital et que leurs parts sociales peuvent donner lieu à rémunération.
+1 quater. Pour les sociétés coopératives et leurs unions autres que celles qui sont mentionnées au 4° du 1, l'exonération prévue au 1 n'est pas applicable lorsque les associés non coopérateurs et les titulaires de certificats coopératifs d'investissement détiennent plus de 50% du capital et que leurs parts sociales peuvent donner lieu à rémunération.
 
 1 quinquies. Pour l'application des dispositions du 1 ter et du 1 quater, sont regardées comme associés non coopérateurs les personnes physiques ou morales qui n'ont pas vocation à recourir aux services de la coopérative ou dont celle-ci n'utilise pas le travail, mais qui entendent contribuer par l'apport de capitaux à la réalisation des objectifs de celle-ci.
 

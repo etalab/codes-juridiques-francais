@@ -14,7 +14,7 @@ Par exception aux dispositions du cinquième alinéa, les entreprises ayant fait
 
 La créance est inaliénable et incessible, sauf dans les conditions prévues par les articles L. 313-23 à L. 313-35 du code monétaire et financier, ou dans des conditions fixées par décret.
 
-II.L'option visée au I est exercée au titre de l'exercice au cours duquel le déficit est constaté et dans les mêmes délais que ceux prévus pour le dépôt de la déclaration de résultats de cet exercice. Elle ne peut pas être exercée au titre d'un exercice au cours duquel intervient une cession ou une cessation totale d'entreprise, une fusion de sociétés ou une opération assimilée, ou un jugement prononçant la liquidation judiciaire de la société.
+II. L'option visée au I est exercée au titre de l'exercice au cours duquel le déficit est constaté et dans les mêmes délais que ceux prévus pour le dépôt de la déclaration de résultats de cet exercice. Elle ne peut pas être exercée au titre d'un exercice au cours duquel intervient une cession ou une cessation totale d'entreprise, une fusion de sociétés ou une opération assimilée, ou un jugement prononçant la liquidation judiciaire de la société.
 
 En cas de fusion, de scission ou d'opération assimilée intervenant au cours des cinq années suivant celle de la clôture de l'exercice au titre duquel l'option visée au I a été exercée, la créance de la société absorbée, scindée ou apporteuse peut être transférée à la ou les sociétés bénéficiaires des apports. Le transfert de la créance est effectué pour sa valeur nominale.
 
@@ -24,4 +24,4 @@ En cas de scission ou d'apport partiel d'actif, la créance est transmise au pro
 
 III. (Abrogé).
 
-IV. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives des entreprises ainsi que les modalités et limites dans lesquelles les dispositions du I sont applicables aux sociétés agréées visées à l'article 209 quinquies.
+IV. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives des entreprises.

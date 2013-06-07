@@ -8,7 +8,7 @@ Sont exonérés les redevables ayant réalisé un chiffre d'affaires de moins de
 
 II.-Pour les entreprises placées sous le régime prévu à l'article 223 A, la contribution est due par la société mère. Elle est assise sur l'impôt sur les sociétés afférent au résultat d'ensemble et à la plus-value nette d'ensemble définis aux articles 223 B, 223 B bis et 223 D.
 
-III.-Pour les entreprises placées sous le régime prévu à l'article 209 quinquies, la contribution est calculée d'après le montant de l'impôt sur les sociétés, déterminé selon les modalités prévues au I, qui aurait été dû en l'absence d'application de ce régime. Elle n'est ni imputable ni remboursable.
+III (Périmé)
 
 III bis-Les sociétés ayant opté pour le régime prévu au II de l'article 208 C ainsi que les sociétés de placement à prépondérance immobilière à capital variable mentionnées au 3° nonies de l'article 208 ne sont pas assujetties à la présente contribution sur les plus-values imposées en application du IV de l'article 219.
 

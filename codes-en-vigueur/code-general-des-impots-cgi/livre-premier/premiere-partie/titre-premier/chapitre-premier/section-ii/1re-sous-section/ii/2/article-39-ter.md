@@ -10,7 +10,7 @@ Dans le cas contraire, les fonds non utilisés sont rapportés au bénéfice imp
 
 2. Les entreprises qui réalisent des investissements amortissables en emploi de la provision définie au 1 doivent rapporter à leurs résultats imposables, au même rythme que l'amortissement, une somme égale au montant de ces investissements. Lorsque la provision est employée sous une autre forme, la même réintégration est effectuée en une seule fois.
 
-3. Les entreprises soumises à l'un des régimes prévus à l'article 209 quinquies dotent et emploient leurs provisions pour reconstitution des gisements dans les conditions prévues aux 1 et 2 pour la détermination de leur résultat mondial ou consolidé.
+3. (périmé)
 
 4. La partie non encore libérée des provisions constituées au titre des exercices antérieurs au premier exercice clos à compter du 31 décembre 2000 doit être employée dans les conditions prévues au 1. Dans le cas contraire, les fonds non utilisés sont rapportés au résultat imposable de l'exercice au cours duquel expire le délai de deux ans défini au deuxième alinéa du 1.L'impôt correspondant à la réintégration des sommes non employées dans ce délai est majoré de l'intérêt de retard prévu à l'article 1727.
 

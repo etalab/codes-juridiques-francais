@@ -3,7 +3,6 @@
 - [Article 790](article-790.md)
 - [Article 790 D](article-790-d.md)
 - [Article 790 A](article-790-a.md)
-- [Article 790 A bis](article-790-a-bis.md)
 - [Article 790 B](article-790-b.md)
 - [Article 790 E](article-790-e.md)
 - [Article 790 F](article-790-f.md)

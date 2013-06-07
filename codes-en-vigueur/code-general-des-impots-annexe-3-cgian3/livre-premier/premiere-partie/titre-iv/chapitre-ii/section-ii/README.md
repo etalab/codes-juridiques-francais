@@ -7,4 +7,3 @@
 - [IX : Véhicules à moteur](ix)
 - [X : Régies de recettes des préfectures et sous-préfectures](x)
 - [XI : Formules de chèques](xi)
-- [XII : Aide médicale de l'Etat](xii)

@@ -6,6 +6,5 @@
 - [7° : Impatriés non salariés](7)
 - [8° : Option pour le versement forfaitaire libératoire de l'impôt sur le revenu](8)
 - [6 bis : Taux minimal d'investissement dans certaines structures de capital-risque](6-bis)
-- [Article 41-00 A ter](article-41-00-a-ter.md)
 - [2° bis : Indemnité compensatrice versée aux agents généraux d'assurances à l'occasion du départ à la retraite](2-bis)
 - [3° bis : Plus-values réalisées sur des droits ou parts de sociétés de personnes dans lesquelles les contribuables exercent leur activité professionnelle](3-bis)

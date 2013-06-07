@@ -4,6 +4,6 @@ Est réputé, au point de vue fiscal, faire partie, jusqu'à preuve contraire, d
 
 La preuve contraire peut notamment résulter d'une donation des deniers constatée par un acte ayant date certaine, quel qu'en soit l'auteur, en vue de financer, plus de trois mois avant le décès, l'acquisition de tout ou partie de la nue-propriété d'un bien, sous réserve de justifier de l'origine des deniers dans l'acte en constatant l'emploi.
 
-Sont réputées personnes interposées les personnes désignées dans les articles 911, deuxième alinéa, et 1100 du code civil.
+Sont réputées personnes interposées les personnes désignées dans l'article 911, deuxième alinéa, du code civil.
 
 Toutefois, si la nue-propriété provient à l'héritier, au donataire, au légataire ou à la personne interposée d'une vente ou d'une donation à lui consentie par le défunt, les droits de mutation acquittés par le nu-propriétaire et dont il est justifié sont imputés sur l'impôt de transmission par décès exigible à raison de l'incorporation des biens dans la succession.

@@ -16,7 +16,7 @@ L'impôt devient immédiatement exigible lorsque intervient, dans le délai de c
 
 La société adresse chaque année au service des impôts des non-résidents un état conforme au modèle fourni par l'administration faisant apparaître les renseignements nécessaires au suivi des plus-values latentes sur les éléments de l'actif immobilisé transférés, mentionnées au troisième alinéa.
 
-2 bis Qu'elle s'accompagne ou non d'un changement de forme juridique, la modification des statuts tendant à assigner à une société quelconque un objet conforme aux prévisions de l'article 1655 ter est assimilée, du point de vue fiscal, à une cessation d'entreprise (1).
+2 bis Qu'elle s'accompagne ou non d'un changement de forme juridique, la modification des statuts tendant à assigner à une société quelconque un objet conforme aux prévisions de l'article 1655 ter est assimilée, du point de vue fiscal, à une cessation d'entreprise.
 
 2 ter La transformation d'une société de capitaux ou d'une association constituée conformément à la loi du 1er juillet 1901 en groupement d'intérêt économique est considérée comme une cessation d'entreprise et entraîne l'établissement de l'impôt sur les sociétés dans les conditions prévues aux 1 et 3 l'article 201.
 
@@ -32,22 +32,22 @@ Toutefois, dans les situations mentionnées au premier alinéa du présent a, l'
 
 b) Le changement d'activité réelle d'une société s'entend notamment :
 
-i) De l'adjonction d'une activité entraînant, au titre de l'exercice de sa survenance ou de l'exercice suivant, une augmentation de plus de 50 % par rapport à l'exercice précédant celui de l'adjonction :
+1°) De l'adjonction d'une activité entraînant, au titre de l'exercice de sa survenance ou de l'exercice suivant, une augmentation de plus de 50 % par rapport à l'exercice précédant celui de l'adjonction :
 
-- soit du chiffre d'affaires de la société ;
+soit du chiffre d'affaires de la société ;
 
-- soit de l'effectif moyen du personnel et du montant brut des éléments de l'actif immobilisé de la société ;
+soit de l'effectif moyen du personnel et du montant brut des éléments de l'actif immobilisé de la société ;
 
-ii) De l'abandon ou du transfert, même partiel, d'une ou de plusieurs activités entraînant, au titre de l'exercice de sa survenance ou de l'exercice suivant, une diminution de plus de 50 % par rapport à l'exercice précédant celui de l'abandon ou du transfert :
+2°) De l'abandon ou du transfert, même partiel, d'une ou de plusieurs activités entraînant, au titre de l'exercice de sa survenance ou de l'exercice suivant, une diminution de plus de 50 % par rapport à l'exercice précédant celui de l'abandon ou du transfert :
 
-- soit du chiffre d'affaires de la société ;
+soit du chiffre d'affaires de la société ;
 
-- soit de l'effectif moyen du personnel et du montant brut des éléments de l'actif immobilisé de la société.
+soit de l'effectif moyen du personnel et du montant brut des éléments de l'actif immobilisé de la société.
 
 c) Sur agrément délivré par le ministre chargé du budget selon les modalités prévues à l'article 1649 nonies, ne sont pas considérées comme emportant cessation d'entreprise :
 
-i) La disparition temporaire des moyens de production pendant une durée de plus de douze mois mentionnée au a lorsque l'interruption et la reprise sont justifiées par des motivations principales autres que fiscales ;
+1°) La disparition temporaire des moyens de production pendant une durée de plus de douze mois mentionnée au a lorsque l'interruption et la reprise sont justifiées par des motivations principales autres que fiscales ;
 
-ii) Les opérations mentionnées au b lorsqu'elles sont indispensables à la poursuite de l'activité à l'origine des déficits et à la pérennité des emplois.
+2°) Les opérations mentionnées au b lorsqu'elles sont indispensables à la poursuite de l'activité à l'origine des déficits et à la pérennité des emplois.
 
 6 Lorsqu'une société d'intérêt collectif agricole renonce au statut défini aux articles L. 531-1 à L. 535-4 du code rural et de la pêche maritime, les dispositions du premier alinéa du 2 ne s'appliquent pas si cette renonciation ne s'accompagne pas d'un changement de régime fiscal.

@@ -1,6 +1,6 @@
 # Article 1519 G
 
-I.-L'imposition forfaitaire mentionnée à l'article 1635-0 quinquies s'applique aux transformateurs électriques relevant des réseaux publics de transport et de distribution d'électricité au sens de la loi n° 2000-108 du 10 février 2000 relative à lamodernisation et au développement du service public de l'électricité.
+I.-L'imposition forfaitaire mentionnée à l'article 1635-0 quinquies s'applique aux transformateurs électriques relevant des réseaux publics de transport et de distribution d'électricité au sens du code de l'énergie.
 
 II.-L'imposition forfaitaire est due par le propriétaire des transformateurs au 1er janvier de l'année d'imposition. Toutefois, pour les transformateurs qui font l'objet d'un contrat de concession, l'imposition est due par le concessionnaire.
 
@@ -11,36 +11,43 @@ III.-Le montant de l'imposition est fixé en fonction de la tension en amont des
 <table>
 <tbody>
 <tr>
-<th>TENSION EN AMONT <p>(en kilovolts) <br/>
-</p>
-</th>
-<th>
-<br/>TARIF PAR TRANSFORMATEUR <p>(en euros) <br/>
-</p>
-</th>
+<td>
+<p align="center">TENSION EN AMONT </p>
+<p align="center">(en kilovolts)</p>
+</td>
+<td>
+<p align="center">TARIF PAR TRANSFORMATEUR </p>
+<p align="center">(en euros)</p>
+</td>
 </tr>
 <tr>
 <td align="center">
+<p align="left">
 <br/>Supérieure à 350 <br/>
+</p>
 </td>
 <td align="center">
-<br/>138 500 <br/>
+<br/>140 924 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
+<p align="left">
 <br/>Supérieure à 130 et inférieure ou égale à 350 <br/>
+</p>
 </td>
 <td align="center">
-<br/>47 000 <br/>
+<br/>47 823 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
+<p align="left">
 <br/>Supérieure à 50 et inférieure ou égale à 130 <br/>
+</p>
 </td>
 <td align="center">
-<br/>13 500 <br/>
+<br/>13 736 <br/>
 </td>
 </tr>
 </tbody>

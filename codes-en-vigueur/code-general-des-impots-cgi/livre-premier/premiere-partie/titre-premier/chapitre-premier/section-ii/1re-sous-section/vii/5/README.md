@@ -1,6 +1,5 @@
 # 5 : Exonérations et régimes spéciaux
 
-- [1° : Epargne-construction](1)
 - [10° : Obligations reçues en échange d'actions de sociétés concernées par l'extension du secteur public](10)
 - [11° : Emprunts des départements, communes et établissements publics](11)
 - [12° : Emprunts regroupés](12)

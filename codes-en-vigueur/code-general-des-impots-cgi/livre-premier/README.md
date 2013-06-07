@@ -3,4 +3,3 @@
 - [Première Partie : Impôts d'État](premiere-partie)
 - [Deuxième Partie : Impositions perçues au profit des collectivités locales et de divers organismes](deuxieme-partie)
 - [Troisième partie : Dispositions communes aux première et deuxième parties](troisieme-partie)
-- [Dispositions préliminaires](dispositions-preliminaires)

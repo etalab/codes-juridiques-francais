@@ -4,7 +4,7 @@ Les logements mentionnés au II de l'article 199 novovicies du code général de
 
 1° Pour les logements acquis neufs, ou, sous réserve du 2°, pour les logements acquis en l'état futur d'achèvement ou que le contribuable fait construire :
 
-a) Soit de ceux qui bénéficient du label mentionné au 1° du de l'article 46 AZA octies ;
+a) Soit de ceux qui bénéficient du label mentionné au 1° du I de l'article 46 AZA octies ;
 
 b) Soit de ceux qui respectent les caractéristiques thermiques et conditions mentionnées au I de l'article R. 111-20 du code de la construction et de l'habitation, selon les prescriptions fixées par l'arrêté prévu au II du même article.
 
