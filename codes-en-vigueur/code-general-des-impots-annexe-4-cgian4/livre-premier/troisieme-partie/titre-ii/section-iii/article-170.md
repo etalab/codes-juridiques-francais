@@ -18,7 +18,7 @@ la caisse générale de garantie des assurances sociales ;
 
 la caisse de compensation pour la décentralisation de l'industrie aéronautique ;
 
-les      chambres de commerce et d'industrie territoriales et ports autonomes ;
+les chambres de commerce et d'industrie territoriales et ports autonomes ;
 
 les chambres d'agriculture ;
 
@@ -28,7 +28,7 @@ le comité national interprofessionnel des viandes ;
 
 l'entreprise de recherches et d'activités pétrolières (ERAP) ;
 
-l'entreprise minière et chimique ;
+(l'entreprise minière et chimique) (1) ;
 
 les sections de l'office central de répartition des produits industriels ;
 
