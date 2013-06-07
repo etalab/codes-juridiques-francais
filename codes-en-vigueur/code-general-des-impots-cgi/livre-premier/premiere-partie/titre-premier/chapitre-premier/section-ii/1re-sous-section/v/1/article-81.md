@@ -92,7 +92,7 @@ Les dispositions du premier alinéa bénéficient également, dans les mêmes co
 
 19° Dans la limite de 5,29 € par titre, le complément de rémunération résultant de la contribution de l'employeur à l'acquisition par le salarié des titres-restaurant émis conformément aux dispositions du chapitre II du titre VI du livre II de la troisième partie du code du travail, lorsque cette contribution est comprise entre un minimum et un maximum fixés par arrêté du ministre chargé du budget. La limite d'exonération est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu de l'année précédant celle de l'acquisition des titres-restaurant et arrondie, s'il y a lieu, au centime d'euro le plus proche.
 
-Cette exonération est subordonnée à la condition que le salarié se conforme aux obligations qui sont mises à sa charge par le même chapitre II  ;
+Cette exonération est subordonnée à la condition que le salarié se conforme aux obligations qui sont mises à sa charge par le même chapitre II ;
 
 19° bis l'avantage résultant de la contribution de l'employeur à l'acquisition des chèques-vacances dans les conditions et limite prévues à la section 1 du chapitre Ier du titre Ier du livre IV du code du tourisme ;
 
@@ -132,7 +132,7 @@ d. (disjoint) ;
 
 30° bis L'indemnité de départ volontaire versée en application du I de l'article 150 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 ;
 
-31° Les avantages résultant des opérations définies au 1° du 11 de l'article 39, dans la limite globale de 1 525 € par salarié, appréciée sur l'ensemble de la période couverte par l'accord mentionné au 2° du même article ;
+31° (Périmé)
 
 31° bis L'avantage résultant pour le salarié de la remise gratuite par son employeur de matériels informatiques et de logiciels nécessaires à leur utilisation entièrement amortis et pouvant permettre l'accès à des services de communications électroniques et de communication au public en ligne, dans la limite d'un prix de revient global des matériels et logiciels reçus dans l'année de 2 000 € ;
 
