@@ -7,6 +7,7 @@
 - [Article 2 terdecies A](article-2-terdecies-a.md)
 - [Article 2 terdecies B](article-2-terdecies-b.md)
 - [Article 2 terdecies E](article-2-terdecies-e.md)
+- [Article 2 terdecies F](article-2-terdecies-f.md)
 - [Article 2 quaterdecies](article-2-quaterdecies.md)
 - [Article 2 quaterdecies B](article-2-quaterdecies-b.md)
 - [Article 2 quindecies](article-2-quindecies.md)
