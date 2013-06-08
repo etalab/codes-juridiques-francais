@@ -4,4 +4,4 @@ Les forces françaises stationnées sur le territoire de la République de Djibo
 
 Cet officier relève directement du chef d'état-major des armées.
 
-Il est assisté par trois adjoints, officiers supérieurs appartenant à chacune des armées.
+Il est assisté par un adjoint interarmées et par un chef d'état-major interarmées.
