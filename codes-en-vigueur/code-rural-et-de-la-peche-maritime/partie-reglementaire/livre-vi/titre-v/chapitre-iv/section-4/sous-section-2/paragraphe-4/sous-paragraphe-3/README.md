@@ -1,4 +1,4 @@
-# Sous-paragraphe 3 : Réduction des quantités de référence inutilisées par les producteurs.
+# Sous-paragraphe 3 : Réduction des quotas individuels inutilisés par les producteurs.
 
 - [Article D654-81](article-d654-81.md)
 - [Article D654-82](article-d654-82.md)

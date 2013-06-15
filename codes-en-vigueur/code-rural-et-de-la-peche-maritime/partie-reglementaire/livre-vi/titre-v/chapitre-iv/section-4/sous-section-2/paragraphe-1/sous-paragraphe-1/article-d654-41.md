@@ -1,6 +1,6 @@
 # Article D654-41
 
-Conformément aux règlements (CE) n° 1788 / 2003 du 29 septembre 2003 et (CE) n° 595 / 2004 de la Commission du 30 mars 2004 pris pour son application, tout acheteur de lait doit être agréé. Cet agrément est délivré sur demande de l'intéressé par le directeur général de FranceAgriMer. Outre les pièces justifiant qu'il remplit les conditions d'agrément mentionnées à l'article 24 du règlement (CE) n° 595 / 2004, l'acheteur doit fournir à l'appui de sa demande :
+Conformément aux règlements (CE) n° 1234/2007 du Conseil du 22 octobre 2007 susmentionné et (CE) n° 595 / 2004 de la Commission du 30 mars 2004 pris pour son application, tout acheteur de lait doit être agréé. Cet agrément est délivré sur demande de l'intéressé par le directeur général de FranceAgriMer. Outre les pièces justifiant qu'il remplit les conditions d'agrément mentionnées à l'article 24 du règlement (CE) n° 595 / 2004, l'acheteur doit fournir à l'appui de sa demande :
 
 1° Les pièces justifiant qu'il a la qualité de commerçant et dispose de locaux où pourront être consultés les documents tenus en application des articles D. 654-53 à D. 654-56, les pièces qui permettent d'apprécier les modalités de fonctionnement qu'il met en place pour remplir ses obligations d'acheteur et, si la demande émane d'un groupement d'acheteurs, ses statuts et son règlement intérieur ;
 
@@ -12,7 +12,8 @@ Conformément aux règlements (CE) n° 1788 / 2003 du 29 septembre 2003 et (CE) 
 
 5° L'engagement de tenir en permanence, de conserver et de présenter aux autorités de contrôle, au cours de la campagne à laquelle ces documents se rapportent et pendant les trois années civiles suivant la fin de celle-ci, la comptabilité matière et les autres documents mentionnés aux articles D. 654-53 à D. 654-56 ;
 
-6° L'engagement de fournir à FranceAgriMer les informations mentionnées aux articles D. 654-50, D. 654-60, D. 654-64, D. 654-65, D. 654-82 et D. 654-84 ;
+6° L'engagement de fournir à FranceAgriMer les informations mentionnées aux articles D. 654-50, D. 654-60, D. 654-64, D. 654-65,
+D. 654-82 et D. 654-84 ;
 
 7° L'engagement de communiquer sans délai à FranceAgriMer toute modification de sa situation au regard des règles d'agrément, ainsi que de la nature et la portée des obligations et des engagements mentionnés aux articles D. 654-41 et D. 654-42 ;
 
