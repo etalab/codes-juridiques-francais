@@ -7,5 +7,4 @@
 - [Sous-paragraphe 5 : Recouvrement du prélèvement  en cas de dépassement du quota national.](sous-paragraphe-5)
 - [Sous-paragraphe 6 : Habilitation pour les contrôles.](sous-paragraphe-6)
 - [Sous-paragraphe 7 : Fixation et recouvrement du montant de l'amende.](sous-paragraphe-7)
-- [Sous-paragraphe 8 : Composition et fonctionnement de la commission de conciliation des litiges.](sous-paragraphe-8)
 - [Sous-paragraphe 9 : Composition et fonctionnement de la commission de conciliation des litiges.](sous-paragraphe-9)
