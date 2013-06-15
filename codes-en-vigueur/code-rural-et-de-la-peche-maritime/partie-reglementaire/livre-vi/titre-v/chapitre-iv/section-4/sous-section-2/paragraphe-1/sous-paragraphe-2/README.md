@@ -1,4 +1,4 @@
-# Sous-paragraphe 2 : Décompte des livraisons et paiement du prélèvement.
+# Sous-paragraphe 2 : Décompte des livraisons et paiement du prélèvement  en cas de dépassement du quota national.
 
 - [Article D654-48](article-d654-48.md)
 - [Article D654-49](article-d654-49.md)
