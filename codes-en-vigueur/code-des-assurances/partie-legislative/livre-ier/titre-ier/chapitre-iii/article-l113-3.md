@@ -8,4 +8,6 @@ L'assureur a le droit de résilier le contrat dix jours après l'expiration du d
 
 Le contrat non résilié reprend pour l'avenir ses effets, à midi le lendemain du jour où ont été payés à l'assureur ou au mandataire désigné par lui à cet effet, la prime arriérée ou, en cas de fractionnement de la prime annuelle, les fractions de prime ayant fait l'objet de la mise en demeure et celles venues à échéance pendant la période de suspension ainsi que, éventuellement, les frais de poursuites et de recouvrement.
 
-Les dispositions des alinéas 2 à 4 du présent article ne sont pas applicables aux assurances sur la vie.
+Lorsque l'adhésion au contrat résulte d'une obligation prévue par une convention de branche ou un accord professionnel ou interprofessionnel, l'assureur ne peut faire usage des dispositions du présent article relatives à la suspension de la garantie et à la résiliation du contrat.
+
+Les dispositions des deuxième à avant-dernier alinéas  du présent article ne sont pas applicables aux assurances sur la vie.
