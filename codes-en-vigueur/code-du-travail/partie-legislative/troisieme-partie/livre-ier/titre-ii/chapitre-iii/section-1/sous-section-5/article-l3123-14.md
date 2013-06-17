@@ -11,3 +11,5 @@ Il mentionne :
 3° Les modalités selon lesquelles les horaires de travail pour chaque journée travaillée sont communiqués par écrit au salarié. Dans les associations et entreprises d'aide à domicile, les horaires de travail sont communiqués par écrit chaque mois au salarié ;
 
 4° Les limites dans lesquelles peuvent être accomplies des heures complémentaires au-delà de la durée de travail fixée par le contrat.
+
+L'avenant au contrat de travail prévu à l'article L. 3123-25 mentionne les modalités selon lesquelles des compléments d'heures peuvent être accomplis au-delà de la durée fixée par le contrat.

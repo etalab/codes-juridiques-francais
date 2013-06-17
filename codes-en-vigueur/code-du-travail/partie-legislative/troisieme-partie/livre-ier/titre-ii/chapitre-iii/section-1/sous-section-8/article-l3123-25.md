@@ -1,21 +1,11 @@
 # Article L3123-25
 
-Une convention ou un accord collectif de travail étendu ou un accord d'entreprise ou d'établissement peut prévoir que la durée hebdomadaire ou mensuelle peut varier dans certaines limites sur tout ou partie de l'année à condition que, sur un an, la durée hebdomadaire ou mensuelle n'excède pas en moyenne la durée stipulée au contrat de travail.
+Une convention ou un accord de branche étendu peut prévoir la possibilité, par un avenant au contrat de travail, d'augmenter temporairement la durée du travail prévue par le contrat. Par dérogation au dernier alinéa de l'article L. 3123-17, les heures complémentaires accomplies au-delà de la durée déterminée par l'avenant donnent lieu à une majoration de salaire qui ne peut être inférieure à 25 %.
 
-Cette convention ou cet accord prévoit :
+1° La convention ou l'accord :
 
-1° Les catégories de salariés concernés ;
+1° Détermine le nombre maximal d'avenants pouvant être conclus, dans la limite de huit par an et par salarié, en dehors des cas de remplacement d'un salarié absent nommément désigné ;
 
-2° Les modalités selon lesquelles la durée du travail est décomptée ;
+2° Peut prévoir la majoration salariale des heures effectuées dans le cadre de cet avenant ;
 
-3° La durée minimale de travail hebdomadaire ou mensuelle ;
-
-4° La durée minimale de travail pendant les jours travaillés. Une convention de branche ou un accord professionnel étendu ou une convention ou un accord d'entreprise ou d'établissement peut prévoir plus d'une interruption d'activité ou une interruption supérieure à deux heures ;
-
-5° Les limites à l'intérieur desquelles la durée du travail peut varier, l'écart entre chacune de ces limites et la durée stipulée au contrat de travail ne pouvant excéder le tiers de cette durée. La durée du travail du salarié ne peut être portée à un niveau égal ou supérieur à la durée légale hebdomadaire ;
-
-6° Les modalités selon lesquelles le programme indicatif de la répartition de la durée du travail est communiqué par écrit au salarié ;
-
-7° Les conditions et les délais dans lesquels les horaires de travail sont notifiés par écrit au salarié ;
-
-8° Les modalités et les délais selon lesquels ces horaires peuvent être modifiés, cette modification ne pouvant intervenir moins de sept jours après la date à laquelle le salarié en a été informé. Ce délai peut être ramené à trois jours par convention ou accord collectif de branche étendu ou convention ou accord d'entreprise ou d'établissement.
+3° Détermine les modalités selon lesquelles les salariés peuvent bénéficier prioritairement des compléments d'heures.

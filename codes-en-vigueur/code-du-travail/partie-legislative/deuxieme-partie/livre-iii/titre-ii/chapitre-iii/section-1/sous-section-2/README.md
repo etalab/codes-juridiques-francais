@@ -8,3 +8,4 @@
 - [Paragraphe 6 : Intéressement, participation et épargne salariale.](paragraphe-6)
 - [Paragraphe 7 : Modification dans l'organisation économique ou juridique de l'entreprise.](paragraphe-7)
 - [Paragraphe 8 : Offre publique d'acquisition.](paragraphe-8)
+- [Paragraphe 9 : Crédit d'impôt compétitivité emploi](paragraphe-9)

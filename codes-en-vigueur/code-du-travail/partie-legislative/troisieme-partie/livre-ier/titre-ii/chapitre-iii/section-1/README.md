@@ -7,6 +7,6 @@
 - [Sous-section 5 : Contrat de travail et horaire de travail.](sous-section-5)
 - [Sous-section 6 : Heures complémentaires.](sous-section-6)
 - [Sous-section 7 : Modification de la répartition de la durée du travail.](sous-section-7)
-- [Sous-section 8 : Modulation de la durée du travail.](sous-section-8)
+- [Sous-section 8 : Compléments d'heures par avenant](sous-section-8)
 - [Sous-section 9 : Exercice d'un mandat.](sous-section-9)
 - [Sous-section 10 : Dispositions d'application.](sous-section-10)

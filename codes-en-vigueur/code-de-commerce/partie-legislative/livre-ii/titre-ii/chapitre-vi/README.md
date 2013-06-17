@@ -5,6 +5,7 @@
 - [Article L226-3](article-l226-3.md)
 - [Article L226-4](article-l226-4.md)
 - [Article L226-5](article-l226-5.md)
+- [Article L226-5-1](article-l226-5-1.md)
 - [Article L226-6](article-l226-6.md)
 - [Article L226-7](article-l226-7.md)
 - [Article L226-8](article-l226-8.md)
