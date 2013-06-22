@@ -18,13 +18,13 @@ Pour l'application du présent livre en Nouvelle-Calédonie :
 
 " La Nouvelle-Calédonie et les provinces concourent à la prévision des risques de sécurité civile dans le cadre des compétences qui leur sont dévolues, notamment en matière de protection de l'environnement, d'aménagement du territoire et d'urbanisme.
 
-" Sans préjudice des dispositions relatives à l'organisation de l'Etat en temps de crise et de celles du code des communes de la Nouvelle-Calédonie, le haut-commissaire de la République en Nouvelle-Calédonie coordonne les opérations de secours excédant le territoire d'une commune ou dont l'ampleur excède les moyens de la commune. " ;
+" Sans préjudice des dispositions relatives à l'organisation de l'Etat en temps de crise et de celles du code des communes de la Nouvelle-Calédonie, le haut-commissaire de la République en Nouvelle-Calédonie coordonne les opérations de secours excédant le territoire d'une commune ou dont l'ampleur excède les moyens de la commune. ";
 
 5° Au premier alinéa de l'article L. 113-1, les mots : " ainsi que les agents de police municipale et les gardes champêtres, en vertu de l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires " sont remplacés par les mots : " en vertu de l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, ainsi que les agents de police municipale et les gardes champêtres, en vertu des dispositions applicables localement " ;
 
 6° A l'article L. 122-1 :
 
-a) Au premier alinéa, les mots : " des dispositions du code général des collectivités territoriales relatives à la prévention de la délinquance " sont remplacés par les mots : " des dispositions du code des communes de la Nouvelle-Calédonie relatives à la prévention de la délinquance " ;
+a) Au premier alinéa, les mots : " des dispositions du code général des collectivités territoriales relatives à la prévention de la délinquance " sont remplacés par les mots : " des dispositions du code des communes de la Nouvelle-Calédonie relatives à la prévention de la délinquance "
 
 b) A la fin du deuxième alinéa, est insérée une phrase ainsi rédigée : " Il en informe le président du gouvernement de la Nouvelle-Calédonie en tant que de besoin. " ;
 
@@ -41,6 +41,8 @@ d) Le dernier alinéa est ainsi rédigé :
 8° L'article L. 131-6 est ainsi rédigé :
 
 " Art. L. 131-6. ― L'exercice des pouvoirs de police dans les communes où le régime de la police d'Etat a été établi est régi par les articles L. 132-5 et L. 132-6 du code des communes de la Nouvelle-Calédonie. "
+
+8° bis A l'article L. 132-1, les mots : " articles L. 742-2 à L. 742-7 ” sont remplacés par les mots : " articles L. 742-2, L. 742-3, L. 742-5 et L. 742-6 ” ;
 
 9° L'article L. 132-4 est ainsi rédigé :
 

@@ -14,7 +14,7 @@ Pour l'application du présent livre à Mayotte :
 
 6° A l'article L. 723-8, les mots : " code du travail " sont remplacés par les mots : " code du travail applicable à Mayotte " ;
 
-7° A l'article L. 723-13, jusqu'au 31 décembre 2013, les références aux articles L. 1224-37 et L. 1424-37-1 du code général des collectivités territoriales sont remplacées par la référence à l'article L. 6161-39 du même code ;
+7° A l'article L. 723-13, jusqu'au 31 décembre 2013, les références aux articles    L. 1424-37 et L. 1424-37-1 du code général des collectivités territoriales sont remplacées par la référence à l'article L. 6161-39 du même code ;
 
 8° A l'article L. 724-2, jusqu'au 31 décembre 2013 :
 

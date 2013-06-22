@@ -14,11 +14,17 @@ Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, et le titre II
 
 6° Au 5° de l'article L. 612-16, les mots : " du code de l'entrée et du séjour des étrangers et du droit d'asile " sont remplacés par les mots : " de l'ordonnance n° 2002-388 du 20 mars 2002 relative aux conditions d'entrée et de séjour des étrangers en Nouvelle-Calédonie " et les mots : " celles du code du travail " sont remplacés par les mots : " celles relatives aux contrat de travail, salaire, conditions de travail, repos et congés, emploi, embauche de la main d'œuvre étrangère, obligations des employeurs, conformément aux dispositions applicables localement " ;
 
-7° A l'article L. 612-20, après les mots : " territoire national ", la fin du 4° est supprimée et l'avant-dernier alinéa est supprimé ;
+7° A l'article L. 612-20 :
+
+a) Le 4° est ainsi rédigé :
+
+" 4° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de  séjour lui permettant d'exercer une activité sur le territoire de la  Nouvelle-Calédonie et s'il ne dispose pas d'une autorisation de travail  prévue par les dispositions applicables localement ; ” ;
+
+b) A l'avant-dernier alinéa, les mots : " prévues à l'article L. 214-1 du code rural et de la pêche maritime ” sont remplacés par les mots : " applicables localement ” ;
 
 8° A l'article L. 612-21, les mots : " dans les conditions prévues à l'article L. 1234-9 du code du travail " et les mots : " dans les conditions prévues à l'article L. 5421-1 de ce code " sont remplacés par les mots : " conformément aux dispositions applicables localement " ;
 
-9° Au deuxième alinéa de l'article L. 613-7, les mots : " des articles L. 214-2 et L. 214-3 du code rural et de la pêche maritime " sont remplacés par les mots : " des dispositions applicables localement " ;
+9° Au deuxième alinéa de l'article L. 613-7, les mots : " des articles L. 214-2 et L. 214-3 du code rural et de la pêche maritime " sont remplacés par les mots : " des dispositions applicables localement "  ;
 
 10° L'article L. 614-1 est ainsi rédigé :
 

@@ -22,7 +22,7 @@ b) Au deuxième alinéa, après les mots : " gendarmerie nationale, " sont insé
 
 8° L'article L. 723-3 est ainsi rédigé :
 
-" Art. L. 723-3.-Les sapeurs-pompiers volontaires relèvent d'un corps communal ou intercommunal de sapeurs-pompiers. Ils ont vocation à participer à l'ensemble des missions dévolues aux services d'incendie et de secours. Ils ont l'obligation de suivre les formations nécessaires à l'exercice de leurs missions. Les coûts de ces formations font partie des dépenses obligatoires des communes ou de leurs groupements au titre des services d'incendie et de secours. Chacun peut devenir sapeur-pompier volontaire, sous réserve de satisfaire aux conditions d'aptitude fixées par arrêté du haut-commissaire de la République en Polynésie française, afin de participer aux missions et actions relevant du service public de sécurité civile.
+" Art. L. 723-3. - Les sapeurs-pompiers volontaires relèvent d'un corps communal ou intercommunal de sapeurs-pompiers. Ils ont vocation à participer à l'ensemble des missions dévolues aux services d'incendie et de secours. Ils ont l'obligation de suivre les formations nécessaires à l'exercice de leurs missions. Les coûts de ces formations font partie des dépenses obligatoires des communes ou de leurs groupements au titre des services d'incendie et de secours. Chacun peut devenir sapeur-pompier volontaire, sous réserve de satisfaire aux conditions d'aptitude fixées par arrêté du haut-commissaire de la République en Polynésie française, afin de participer aux missions et actions relevant du service public de sécurité civile.
 
 " Les règles applicables aux sapeurs-pompiers volontaires sont définies par arrêté du haut-commissaire de la République en Polynésie française, sous réserve des compétences dévolues à la Polynésie française notamment en matière de protection sociale. " ;
 
@@ -34,15 +34,21 @@ b) Au deuxième alinéa, après les mots : " gendarmerie nationale, " sont insé
 
 12° A l'article L. 731-3 :
 
-a) Au deuxième alinéa, après les mots : " le maire de la commune " sont insérés les mots : " après avis du haut-commissaire de la République en Polynésie française " ;
+a) Les deuxième et quatrième alinéas sont supprimés ;
 
-b) Au dernier alinéa, les mots : " décret en Conseil d'Etat " sont remplacés par les mots : " arrêté pris par le haut-commissaire de la République en Polynésie française " ;
+b) Au troisième alinéa, après les mots : " le maire de la commune ”, la fin de la phrase est ainsi rédigée : " après avis du haut-commissaire de la République en Polynésie française. ” ;
+
+c) Aux cinquième et dernier alinéas, les mots : " ou intercommunal ” sont supprimés ;
+
+d) Au dernier alinéa, les mots : " décret en Conseil d'Etat ” sont remplacés par les mots : " arrêté pris par le haut-commissaire de la République en Polynésie française ” ;
 
 13° Au second alinéa de l'article L. 732-1, les mots : " par un décret en Conseil d'Etat " sont remplacés par les mots : " par un arrêté du haut-commissaire de la République en Polynésie française pris après avis du gouvernement de la Polynésie française " et les mots : " Ce décret " sont remplacés par les mots : " Cet arrêté " ;
 
 14° A l'article L. 732-2, les mots : ", ainsi qu'au représentant de l'Etat dans le département du siège de la zone de défense et de sécurité lorsque leur activité dépasse les limites du département " sont supprimés ;
 
-15° A l'article L. 732-5, les mots : " Un décret " sont remplacés par les mots : " Un arrêté du haut-commissaire de la République en Polynésie française " ;
+15° L'article L. 732-5 est ainsi rédigé :
+
+" Art. L. 732-5. - Un arrêté du haut-commissaire de la République en Polynésie française fixe les règles et les normes techniques permettant d'assurer l'interopérabilité des réseaux de communication radioélectriques et des systèmes d'information des services publics qui concourent aux missions de sécurité civile. ”
 
 16° L'article L. 732-6 est ainsi rédigé :
 
@@ -50,13 +56,11 @@ b) Au dernier alinéa, les mots : " décret en Conseil d'Etat " sont remplacés 
 
 " Les modalités et les délais d'application du présent article sont fixés par arrêté du haut-commissaire de la République en Polynésie française pour chaque catégorie d'établissements concernés. "
 
-17° A l'article L. 732-7 :
+17° L'article L. 732-7 est ainsi rédigé :
 
-a) Il est ajouté un premier alinéa ainsi rédigé :
+" Art. L. 732-7. - En cas de risque majeur ou de déclenchement d'un plan Orsec justifiant d'informer sans délai la population, les services de radiodiffusion sonore et de télévision sont tenus de diffuser à titre gracieux, dans des conditions fixées par un arrêté du haut-commissaire de la République en Polynésie française, les messages d'alerte et consignes de sécurité liés à la situation.
 
-" En cas de risque majeur ou de déclenchement d'un plan Orsec justifiant d'informer sans délai la population, les services de radiodiffusion sonore et de télévision sont tenus de diffuser à titre gracieux, dans des conditions fixées par un arrêté du haut-commissaire de la République en Polynésie française, les messages d'alerte et consignes de sécurité liés à la situation. " ;
-
-b) Au second alinéa, les mots : " par décret " sont remplacés par les mots : " par un arrêté du haut-commissaire de la République en Polynésie française " ;
+" Les obligations auxquelles sont assujettis les détenteurs de moyens de publication et de diffusion sont fixées dans un code d'alerte défini par arrêté du haut-commissaire. "
 
 18° A l'article L. 741-1, les mots : " dans chaque département, dans chaque zone de défense et de sécurité " sont remplacés par les mots : " dans la zone de défense et de sécurité de la Polynésie française " ;
 
@@ -76,7 +80,7 @@ b) Au second alinéa, les mots : " par décret " sont remplacés par les mots : 
 
 25° L'article L. 742-11 est ainsi rédigé :
 
-" Art. 742-11. ― Dans le cadre de ses compétences, la commune pourvoit aux dépenses directement imputables aux opérations de secours et aux dépenses relatives aux besoins immédiats des populations, y compris en cas de réquisition faite pour son propre compte.
+" Art. 742-11. - Dans le cadre de ses compétences, la commune pourvoit aux dépenses directement imputables aux opérations de secours et aux dépenses relatives aux besoins immédiats des populations, y compris en cas de réquisition faite pour son propre compte.
 
 " Lorsque la Polynésie française et ses établissements publics participent à des missions de sécurité civile dans les conditions prévues par le présent livre et par l'ordonnance n° 2006-173 du 15 février 2006, les dépenses qu'ils engagent à ce titre restent à leur charge. A la demande de la Polynésie française, ces dépenses peuvent être partiellement prises en charge par la commune bénéficiaire dans les conditions prévues par convention.
 
