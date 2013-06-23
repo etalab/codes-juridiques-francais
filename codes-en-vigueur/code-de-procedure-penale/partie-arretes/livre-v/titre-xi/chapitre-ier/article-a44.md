@@ -1450,30 +1450,25 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top">
+<td rowspan="2" valign="top">
 <p>Service pénitentiaire d'insertion et de probation de l'Orne. </p>
 </td>
-<td rowspan="3" valign="top">
+<td rowspan="2" valign="top">
 <p>Alençon.</p>
 </td>
-<td rowspan="2" valign="top">
-<p>Antenne d'Argentan. </p>
-</td>
-<td valign="top">
-<p>Circonscription judiciaire d'Argentan. </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>(Arr. 17 sept. 2003, art. 5) Centre de détention d'Argentan. </p>
-</td>
-</tr>
-<tr>
 <td valign="top">
 <p>Antenne d'Alençon. </p>
 </td>
 <td valign="top">
-<p>Circonscription judiciaire d'Alençon. </p>
+<p>Circonscription judiciaire d'Alençon. </p>Centre pénitentiaire d'Alençon - Condé-sur-Sarthe</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Antenne d'Argentan</p>
+</td>
+<td valign="top">
+<p>Circonscription judiciaire d'Argentan. </p>
+<p>Centre de détention d'Argentan.</p>
 </td>
 </tr>
 <tr>
