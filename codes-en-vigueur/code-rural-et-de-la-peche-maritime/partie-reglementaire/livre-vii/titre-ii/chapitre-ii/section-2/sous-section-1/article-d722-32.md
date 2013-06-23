@@ -12,6 +12,6 @@ b) Soit être titulaire d'un diplôme de niveau V dans une option relative aux t
 
 3° Justifier par tous moyens appropriés, avant le 1er janvier 2012, de trois années d'activité professionnelle d'au moins 800 heures chacune dans une ou plusieurs exploitations ou entreprises de travaux forestiers, et avoir suivi la formation de gestion d'entreprise forestière mentionnée au b du 2° du présent article ;
 
-4° Posséder, compte tenu notamment de diplômes autres que ceux mentionnés ci-dessus ou de ses activités et travaux antérieurs, une capacité ou une expérience professionnelle reconnue par la commission mentionnée à l'article D. 722-3.
+4° Posséder, compte tenu notamment de diplômes autres que ceux mentionnés ci-dessus ou de ses activités et travaux antérieurs, une capacité ou une expérience professionnelle suffisante.
 
 Les niveaux de diplômes mentionnés au présent article sont ceux figurant au répertoire national des certifications professionnelles visé à l'article L. 335-6 du code de l'éducation.
