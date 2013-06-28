@@ -112,7 +112,7 @@ Siège et ressort des tribunaux de commerce
 <p>Grasse </p>
 </td>
 <td valign="top" width="206">
-<p>Ressort du tribunal d'instance de Grasse </p>
+<p>Ressort du tribunal d'instance de Grasse et des cantons de Carros, de Coursegoules et de Vence </p>
 </td>
 </tr>
 <tr>
@@ -120,7 +120,7 @@ Siège et ressort des tribunaux de commerce
 <p>Antibes </p>
 </td>
 <td valign="top" width="206">
-<p>Ressort des tribunaux d'instance d'Antibes et de Cagnes-sur-Mer </p>
+<p>Ressort des tribunaux d'instance d'Antibes et de Cagnes-sur-Mer à l'exception des cantons de Carros, de Coursegoules et de Vence </p>
 </td>
 </tr>
 <tr>
