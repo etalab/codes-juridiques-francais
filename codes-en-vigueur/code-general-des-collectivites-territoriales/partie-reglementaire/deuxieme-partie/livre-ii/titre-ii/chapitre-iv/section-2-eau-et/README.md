@@ -27,6 +27,7 @@
 - [Article R2224-19-10](article-r2224-19-10.md)
 - [Article R2224-19-11](article-r2224-19-11.md)
 - [Article R2224-20](article-r2224-20.md)
+- [Article R2224-20-1](article-r2224-20-1.md)
 - [Article R2224-21](article-r2224-21.md)
 - [Article R2224-22](article-r2224-22.md)
 - [Article R2224-22-1](article-r2224-22-1.md)
