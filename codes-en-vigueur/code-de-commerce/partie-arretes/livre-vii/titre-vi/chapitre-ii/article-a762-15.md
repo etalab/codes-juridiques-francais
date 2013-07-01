@@ -6,4 +6,4 @@ Peuvent obtenir communication, en ligne ou sur demande écrite auprès de la dir
 
 2° L'organisateur d'une manifestation commerciale déclarée ;
 
-3° L'organisme de certification visé à l'article A. 762-12.
+3° L'organisme de contrôle visé à l'article A. 762-12.
