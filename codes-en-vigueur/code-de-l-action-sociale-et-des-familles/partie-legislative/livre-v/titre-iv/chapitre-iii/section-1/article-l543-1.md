@@ -92,7 +92,7 @@ XXI.-L'article L. 314-8 est ainsi modifié :
 
 3° Au septième alinéa, les mots : " Ces dispositions s'appliquent à compter du 1er janvier 2008. Elles sont applicables aux conventions mentionnées au I de l'article L. 313-12 en cours à cette date. " sont supprimés ;
 
-4° Les huitième, neuvième et dixième alinéas ne sont pas applicables ;
+4° (Abrogé)
 
 5° Au dernier alinéa, les mots : " de droit commun prévues par la section 4 du chapitre II du titre VI du livre Ier du code de la sécurité sociale " sont remplacés par les mots : " prévues à l'article 20-5 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à l'amélioration de la santé publique, à l'assurance maladie, maternité, invalidité et décès, au financement de la sécurité sociale à Mayotte et à la caisse de sécurité sociale de Mayotte " ;
 
