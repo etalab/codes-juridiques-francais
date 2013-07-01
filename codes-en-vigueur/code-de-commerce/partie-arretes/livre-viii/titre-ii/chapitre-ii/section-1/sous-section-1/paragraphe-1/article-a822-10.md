@@ -4,7 +4,9 @@ Le stagiaire est tenu de faire connaître au président du conseil régional, pa
 
 1° Son nom et son adresse ;
 
-2° Le nom et l'adresse de son maître de stage.
+2° Le nom et l'adresse de son maître de stage ;
+
+3° Les justificatifs des titres, diplômes, attestations de formation ou autorisations exigées pour se présenter au certificat d'aptitude aux fonctions de commissaire aux comptes.
 
 Il accompagne cette lettre d'une attestation du maître de stage indiquant qu'il accepte de recevoir le stagiaire et la date du début du stage.
 
