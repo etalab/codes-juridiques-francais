@@ -16,7 +16,7 @@ L'opposition à l'état exécutoire pris en application d'une mesure de consigna
 
 4° Ordonner le versement d'une astreinte journalière au plus égale à 1 500 € courant à compter d'une date fixée par la décision jusqu'à ce qu'il ait été satisfait aux mesures prescrites par la mise en demeure. Le montant maximal de l'astreinte mise en recouvrement ne peut être supérieur au montant maximal de l'amende applicable pour l'infraction considérée ;
 
-5° Ordonner le paiement d'une amende au plus égale à 150 000 €. La décision mentionne le délai de paiement de l'amende et ses modalités.
+5° Ordonner le paiement d'une amende au plus égale à 150 000 €. La décision mentionne le délai de paiement de l'amende et ses modalités. L'amende ne peut être prononcée plus d'un an à compter de la constatation des manquements.
 
 L'exécution des travaux ordonnés d'office peut être confiée par le ministre chargé de l'environnement à l'Agence de l'environnement et de la maîtrise de l'énergie ou à un autre établissement public compétent. Les sommes consignées leur sont alors reversées à leur demande.
 
@@ -24,6 +24,6 @@ II.-En cas d'urgence, l'autorité titulaire du pouvoir de police compétente fix
 
 III.-Est réputé abandon tout acte tendant, sous le couvert d'une cession à titre gratuit ou onéreux, à soustraire son auteur aux prescriptions du présent chapitre et des règlements pris pour son application.
 
-IV.-Lorsque l'exploitant d'une installation de traitement de déchets fait l'objet d'une mesure de consignation en application du présent article ou de l'article L. 514-1, il ne peut obtenir d'autorisation pour exploiter une autre installation de traitement de déchets avant d'avoir versé la somme consignée.
+IV.-Lorsque l'exploitant d'une installation de traitement de déchets fait l'objet d'une mesure de consignation en application du présent article ou de l'article L. 171-8, il ne peut obtenir d'autorisation pour exploiter une autre installation de traitement de déchets avant d'avoir versé la somme consignée.
 
 V.-Si le producteur ou le détenteur des déchets ne peut être identifié ou s'il est insolvable, l'Etat peut, avec le concours financier éventuel des collectivités territoriales, confier la gestion des déchets et la remise en état du site pollué par ces déchets à l'Agence de l'environnement et de la maîtrise de l'énergie ou à un autre établissement public compétent.

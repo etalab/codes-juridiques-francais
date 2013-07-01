@@ -1,3 +1,0 @@
-# Article L216-11
-
-En cas de condamnation pour infraction aux dispositions mentionnées à l'article L. 216-5, le tribunal peut ordonner, aux frais du condamné, la publication intégrale ou par extraits de sa décision et éventuellement la diffusion d'un message, dont il fixe explicitement les termes, informant le public des motifs et du contenu de sa décision, dans un ou plusieurs journaux qu'il désigne ainsi que son affichage dans les conditions et sous les peines prévues à l'article 131-35 du code pénal sans toutefois que les frais de cette publicité puissent excéder le montant de l'amende encourue.

@@ -20,7 +20,7 @@ I.-Est puni de deux ans d'emprisonnement et de 75 000 euros d'amende le fait de 
 
 9° Méconnaître les prescriptions des articles L. 541-30-1 et L. 541-31 ;
 
-10° Mettre obstacle à l'accomplissement des contrôles ou à l'exercice des fonctions des agents prévus à l'article L. 541-44 ;
+10° (Abrogé)
 
 11° a) De procéder ou faire procéder à un transfert de déchets sans avoir notifié ce transfert aux autorités compétentes françaises ou étrangères ou sans avoir obtenu le consentement préalable desdites autorités alors que cette notification et ce consentement sont requis ;
 
@@ -56,6 +56,6 @@ IV.-En cas de condamnation prononcée pour les infractions visées aux 6°, 7°,
 
 V.-En cas de condamnation prononcée pour les infractions mentionnées au 11° du I, le tribunal peut, en outre, ordonner l'interdiction, suivant les modalités prévues par l'article 131-27 du code pénal, d'intervenir dans un transfert transfrontalier de déchets à titre de notifiant ou de personne responsable d'un transfert au sens du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets.
 
-VI.-Le tribunal peut ordonner l'affichage ou la diffusion intégrale ou partielle de la décision prononcée dans les conditions prévues par l'article 131-35 du code pénal.
+VI (Abrogé)
 
 VII.-La peine mentionnée au I est portée à sept ans d'emprisonnement et à 150 000 € d'amende lorsque l'infraction est commise en bande organisée, au sens de l'article 132-71 du code pénal.
