@@ -2,6 +2,8 @@
 
 - [Article R822-60](article-r822-60.md)
 - [Article R822-61](article-r822-61.md)
+- [Article R822-61-1](article-r822-61-1.md)
+- [Article R822-61-2](article-r822-61-2.md)
 - [Article R822-62](article-r822-62.md)
 - [Article R822-63](article-r822-63.md)
 - [Article R822-64](article-r822-64.md)

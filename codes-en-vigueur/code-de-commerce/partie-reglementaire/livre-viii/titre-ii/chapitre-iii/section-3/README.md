@@ -14,3 +14,4 @@
 - [Article R823-19](article-r823-19.md)
 - [Article R823-20](article-r823-20.md)
 - [Article R823-21](article-r823-21.md)
+- [Article R823-22](article-r823-22.md)
