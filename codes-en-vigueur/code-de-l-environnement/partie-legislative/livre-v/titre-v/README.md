@@ -7,3 +7,4 @@
 - [Chapitre V : Canalisations de transport de gaz, 
 d'hydrocarbures et de produits chimiques](chapitre-v)
 - [Chapitre VI : Sites et sols pollués](chapitre-vi)
+- [Chapitre VII :  Produits et équipements à risques](chapitre-vii)
