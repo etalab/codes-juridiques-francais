@@ -1,6 +1,5 @@
 # Chapitre II : Aide aux salariés placés en activité partielle
 
-- [Section 1 : Allocation spécifique de chômage partiel](section-1)
 - [Article D5122-13](article-d5122-13.md)
 - [Article R5122-1](article-r5122-1.md)
 - [Article R5122-2](article-r5122-2.md)

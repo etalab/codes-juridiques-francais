@@ -2,4 +2,3 @@
 
 - [Article L1233-53](article-l1233-53.md)
 - [Article L1233-56](article-l1233-56.md)
-- [Article L1233-57](article-l1233-57.md)
