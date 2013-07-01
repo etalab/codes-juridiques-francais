@@ -6,4 +6,4 @@ Il n'est pas procédé à la vérification des créances chirographaires s'il ap
 
 Le liquidateur exerce les missions dévolues à l'administrateur et au mandataire judiciaire par les articles L. 622-6, L. 622-20, L. 622-22, L. 622-23, L. 624-17, L. 625-3, L. 625-4 et L. 625-8.
 
-Les licenciements auxquels procède le liquidateur en application de la décision ouvrant ou prononçant la liquidation, le cas échéant au terme du maintien provisoire de l'activité autorisé par le tribunal, sont soumis aux dispositions des articles L. 321-8 et L. 321-9 du code du travail.
+Les licenciements auxquels procède le liquidateur en application de la décision ouvrant ou prononçant la liquidation, le cas échéant au terme du maintien provisoire de l'activité autorisé par le tribunal, sont soumis aux dispositions de l'article L. 1233-58 du code du travail.

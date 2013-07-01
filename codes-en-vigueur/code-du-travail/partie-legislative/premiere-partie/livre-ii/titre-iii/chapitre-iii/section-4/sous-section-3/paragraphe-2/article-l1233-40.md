@@ -1,3 +1,0 @@
-# Article L1233-40
-
-Lorsque le comité d'entreprise recourt à l'assistance d'un expert-comptable, les délais d'envoi des lettres de licenciement prévus à l'article L. 1233-39 courent à compter du quatorzième jour suivant la notification du projet de licenciement à l'autorité administrative prévue à l'article L. 1233-46.
