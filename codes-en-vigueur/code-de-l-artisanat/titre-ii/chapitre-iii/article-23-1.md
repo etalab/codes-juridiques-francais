@@ -1,6 +1,6 @@
 # Article 23-1
 
-I. - Les chambres régionales de métiers et de l'artisanat exercent les missions mentionnées au I de l'article 23, à l'exception de celles mentionnées aux 1° et 2°.
+I. - Les chambres régionales de métiers et de l'artisanat exercent les missions mentionnées au I de l'article 23, à l'exception de celles mentionnées aux 1° et 2°.  Elles peuvent exercer les attributions mentionnées au III de l'article 23 à condition, pour chaque opération, d'y être autorisées par l'autorité de tutelle.
 
 II. - Les chambres régionales de métiers et de l'artisanat exercent les fonctions administratives suivantes, dans le respect des prérogatives de l'assemblée permanente des chambres de métiers et de l'artisanat :
 
