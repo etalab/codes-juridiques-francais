@@ -1,4 +1,4 @@
-# Sous-section 3 : Dispositions spécifiques aux activités d'encapsulage et de retrait d'amiante ou d'articles en contenant
+# Sous-section 3 : Dispositions spécifiques aux travaux d'encapsulage et de retrait d'amiante ou d'articles en contenant
 
 - [Paragraphe 1 : Champ d'application](paragraphe-1)
 - [Paragraphe 2 : Evaluation des risques et mesurage des empoussièrements](paragraphe-2)
