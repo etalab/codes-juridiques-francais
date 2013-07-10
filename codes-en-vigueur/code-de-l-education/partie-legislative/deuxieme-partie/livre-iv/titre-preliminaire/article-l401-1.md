@@ -6,4 +6,4 @@ Le projet d'école ou d'établissement définit les modalités particulières de
 
 Sous réserve de l'autorisation préalable des autorités académiques, le projet d'école ou d'établissement peut prévoir la réalisation d'expérimentations, pour une durée maximum de cinq ans, portant sur l'enseignement des disciplines, l'interdisciplinarité, l'organisation pédagogique de la classe, de l'école ou de l'établissement, la coopération avec les partenaires du système éducatif, les échanges ou le jumelage avec des établissements étrangers d'enseignement scolaire. Ces expérimentations font l'objet d'une évaluation annuelle.
 
-Le Haut Conseil de l'éducation établit chaque année un bilan des expérimentations menées en application du présent article.
+Le Conseil national d'évaluation du système scolaire  établit chaque année un bilan des expérimentations menées en application du présent article.

@@ -1,3 +1,3 @@
-# Section 3 : Les enseignements de technologie et d'informatique.
+# Section 3 : La formation à l'utilisation des outils et des ressources numériques.
 
 - [Article L312-9](article-l312-9.md)

@@ -6,6 +6,6 @@ Ceux des disciplines technologiques sont recrutés en fonction d'exigences de fo
 
 Ils doivent posséder une qualification correspondant à celles des maîtres de l'enseignement général de même niveau.
 
-Les uns et les autres, après recrutement, reçoivent une formation soit dans les mêmes établissements, soit dans les instituts universitaires de formation des maîtres.
+Les uns et les autres, après recrutement, reçoivent une formation soit dans les mêmes établissements, soit dans une école supérieure du professorat et de l'éducation.
 
 Ils sont appelés à accomplir des stages en milieu professionnel.

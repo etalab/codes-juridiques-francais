@@ -10,6 +10,8 @@ L'établissement public de coopération scientifique assure la mise en commun de
 
 3° La valorisation des activités de recherche menées en commun ;
 
-4° La promotion internationale du pôle.
+4° La promotion internationale du pôle ;
+
+5° La formation des personnels enseignants et d'éducation lorsqu'il comprend une école supérieure du professorat et de l'éducation.
 
 Dans le cadre de la politique contractuelle prévue à l'article L. 711-1 du code de l'éducation, il peut être habilité à délivrer des diplômes nationaux dans les conditions fixées à l'article L. 613-1 du même code.

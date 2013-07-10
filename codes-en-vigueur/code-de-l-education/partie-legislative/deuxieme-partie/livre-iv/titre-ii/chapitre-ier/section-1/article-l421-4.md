@@ -10,6 +10,8 @@ A ce titre, il exerce notamment les attributions suivantes :
 
 3° Il adopte le budget dans les conditions fixées par le présent chapitre ;
 
-4° Il se prononce sur le contrat d'objectifs conclu entre l'établissement et l'autorité académique, après en avoir informé la collectivité territoriale de rattachement.
+4° Il se prononce sur le contrat d'objectifs conclu entre l'établissement, l'autorité académique et, lorsqu'elle souhaite y être partie, la collectivité territoriale de rattachement ;
+
+5° Il établit chaque année un bilan des actions menées à destination des parents des élèves de l'établissement.
 
 Le conseil d'administration peut déléguer certaines de ses attributions à une commission permanente.

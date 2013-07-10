@@ -5,3 +5,5 @@ Plusieurs établissements ou organismes de recherche ou d'enseignement supérieu
 Les pôles de recherche et d'enseignement supérieur sont créés par convention entre les établissements et organismes fondateurs. D'autres partenaires, en particulier des entreprises et des collectivités territoriales ou des associations, peuvent y être associés.
 
 Ces pôles peuvent être dotés de la personnalité morale, notamment sous la forme d'un groupement d'intérêt public, d'un établissement public de coopération scientifique régi par la section 2 ou d'une fondation de coopération scientifique régie par la section 3 du présent chapitre.
+
+Lorsqu'il prend la forme d'un établissement public de coopération scientifique, le pôle de recherche et d'enseignement supérieur peut comprendre une école supérieure du professorat et de l'éducation dans les conditions fixées au chapitre Ier du titre II du livre VII de la troisième partie du code de l'éducation.
