@@ -14,7 +14,7 @@ Sur les unités foncières dont le côté bordant la voie ouverte à la circulat
 
 Ces dispositifs peuvent être installés librement sur l'unité foncière.
 
-II. - Il ne peut être installé qu'un seul dispositif publicitaire sur le domaine public au droit des unités foncières dont la longueur est inférieure à 80 mètres linéaire.
+II. - Il ne peut être installé qu'un seul dispositif publicitaire sur le domaine public au droit des unités foncières dont le côté bordant la voie ouverte à la circulation publique est d'une longueur au plus égale à 80 mètres linéaires.
 
 Lorsque l'unité foncière dont le côté bordant la voie ouverte à la circulation publique est d'une longueur supérieure à 80 mètres linéaire, il peut être installé sur le domaine public un dispositif publicitaire supplémentaire par tranche de 80 mètres au-delà de la première.
 

@@ -1,4 +1,4 @@
-# Sous-section 5 : Dispositions particulières applicables aux bâches, aux dispositifs de dimension exceptionnelle et de petit format
+# Sous-section 5 : Dispositions particulières applicables aux bâches, aux dispositifs de dimensions exceptionnelles et de petit format
 
 - [Article R581-53](article-r581-53.md)
 - [Article R581-54](article-r581-54.md)
