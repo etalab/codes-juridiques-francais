@@ -2,7 +2,7 @@
 
 La pression partielle d'oxygène d'un mélange respiré ne doit pas :
 
-I. ― Etre inférieure à 160 hectopascals et, dans une enceinte hyperbare de travail, être supérieure à 25 pour 100 de la pression relative.
+I. ― Etre inférieure à 160 hectopascals et, dans une enceinte hyperbare de travail, être supérieure à 25 pour 100 de la pression absolue.
 
 II. ― Dépasser les valeurs suivantes :
 
