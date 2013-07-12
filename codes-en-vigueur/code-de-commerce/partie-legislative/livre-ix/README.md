@@ -1,7 +1,7 @@
 # LIVRE IX : Dispositions relatives à l'outre-mer.
 
 - [TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon.](titre-ier)
-- [TITRE Ier A : Observatoire des prix et des revenus dans les outre-mer.](titre-ier-a)
+- [Titre Ier A : Observatoire des prix, des marges et des revenus dans les outre-mer](titre-ier-a)
 - [TITRE II : Dispositions spécifiques au Département de Mayotte.](titre-ii)
 - [TITRE III : Dispositions applicables en Nouvelle-Calédonie.](titre-iii)
 - [TITRE IV : Dispositions applicables en Polynésie française.](titre-iv)
