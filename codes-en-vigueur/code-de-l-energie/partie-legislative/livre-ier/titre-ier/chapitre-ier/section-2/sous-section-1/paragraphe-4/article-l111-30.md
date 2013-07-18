@@ -8,7 +8,7 @@ I. ― L'exercice des fonctions de dirigeants de la société gestionnaire d'un 
 
 3° Pendant leur mandat, les dirigeants ne peuvent exercer d'activités, ni de responsabilités professionnelles dans les autres sociétés composant l'entreprise verticalement intégrée d'électricité ou de gaz définie à l'article L. 111-10 ;
 
-4° Tous les dirigeants sont soumis aux règles fixées par les deuxième et troisième alinéas de l'article L. 111-33.
+4° Tous les dirigeants sont soumis aux règles fixées par l'article L. 111-33.
 
 II. ― La liste des emplois de dirigeants ainsi que celle des emplois de la majorité mentionnée au 1° du I sont approuvées par la Commission de régulation de l'énergie dans des conditions fixées par décret en Conseil d'Etat.
 

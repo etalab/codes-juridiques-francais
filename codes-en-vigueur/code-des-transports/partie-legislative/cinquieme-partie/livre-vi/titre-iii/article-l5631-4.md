@@ -10,12 +10,12 @@ b) En cas d'accident, la compensation du salaire de base jusqu'à la guérison o
 
 2° Le versement d'une indemnité en cas de décès consécutif à une maladie ou à un accident survenu au service du navire :
 
-a) Au conjoint du marin ou, à défaut, à ses ayants droit ;
+a) Au conjoint du salarié ou, à défaut, à ses ayants droit ;
 
 b) A chaque enfant à charge, âgé de moins de vingt et un ans, dans la limite de trois enfants ;
 
-3° La prise en charge en cas de maternité de la femme navigante des frais médicaux et d'hospitalisation correspondants et la compensation de son salaire de base pendant une durée de deux mois ;
+3° La prise en charge en cas de maternité de la salariée des frais médicaux et d'hospitalisation correspondants et la compensation de son salaire de base pendant une durée de deux mois ;
 
 4° Le versement d'une rente viagère ou d'une indemnité proportionnelle à cette incapacité définies dans le contrat d'engagement, en cas d'incapacité permanente consécutive à une maladie ou à un accident survenu au service du navire ;
 
-5° L'attribution d'une pension de vieillesse dont le niveau n'est pas inférieur, pour chaque année de service à la mer, à un pourcentage de la rémunération brute perçue chaque année par le marin diffère selon l'âge auquel intervient la cessation d'activité.
+5° L'attribution d'une pension de vieillesse dont le niveau n'est pas inférieur, pour chaque année de service à la mer, à un pourcentage de la rémunération brute perçue chaque année par le salarié diffère selon l'âge auquel intervient la cessation d'activité.

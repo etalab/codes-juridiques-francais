@@ -1,10 +1,11 @@
 # Article L332-20
 
-I.-Les agents des réserves naturelles sont habilités à rechercher et constater, sur le territoire de la réserve dans laquelle ils sont affectés, les infractions aux dispositions du présent chapitre.
+I. - Les agents des réserves naturelles sont habilités à rechercher et constater, sur le territoire des réserves naturelles dans lesquelles ils sont affectés, ainsi que sur leur périmètre de protection, les infractions au présent chapitre.
 
 Ils sont commissionnés à cet effet par l'autorité administrative et assermentés.
 
-Les agents des réserves n'ayant pas la qualité de fonctionnaire ou d'agent public agissent dans les conditions prévues aux articles L. 172-7 et L. 172-8, L. 172-12 et L. 172-16 et peuvent constater les infractions en quelque lieu qu'elles soient commises, sans pouvoir accéder aux locaux et aux moyens de transport.
+Les agents des réserves n'ayant pas la qualité de fonctionnaire ou d'agent public agissent dans les conditions prévues aux articles L. 172-7 et L. 172-8,
+L. 172-12 et L. 172-16 et peuvent constater les infractions en quelque lieu qu'elles soient commises, sans pouvoir accéder aux locaux et aux moyens de transport.
 
 II.-Outre les officiers et agents de police judiciaire, les inspecteurs de l'environnement mentionnés à l'article L. 172-1 et les agents des réserves naturelles, sont habilités à constater sur le territoire des réserves naturelles les infractions mentionnées au I :
 

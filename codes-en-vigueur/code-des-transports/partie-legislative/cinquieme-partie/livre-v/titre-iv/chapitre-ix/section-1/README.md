@@ -1,4 +1,3 @@
-# Section 1 : Obligations de l'armateur
+# Section 1 : Dispositions générales applicables
 
 - [Article L5549-1](article-l5549-1.md)
-- [Article L5549-1-1](article-l5549-1-1.md)

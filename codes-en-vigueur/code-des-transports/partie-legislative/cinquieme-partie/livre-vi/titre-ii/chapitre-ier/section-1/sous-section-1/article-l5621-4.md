@@ -1,6 +1,6 @@
 # Article L5621-4
 
-La mise à disposition de tout navigant fait l'objet d'un contrat conclu par écrit entre l'armateur et l'entreprise de travail maritime, mentionnant :
+La mise à disposition de tout gens de mer fait l'objet d'un contrat conclu par écrit entre l'armateur et l'entreprise de travail maritime, mentionnant :
 
 1° Les conditions générales d'engagement, d'emploi, de travail et de vie à bord du navire ;
 

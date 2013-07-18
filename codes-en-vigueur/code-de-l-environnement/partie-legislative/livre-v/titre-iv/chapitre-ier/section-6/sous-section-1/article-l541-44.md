@@ -10,4 +10,6 @@ Outre les officiers et agents de police judiciaire et les inspecteurs de l'envir
 
 4° Les chercheurs, ingénieurs et techniciens assermentés de l'Institut français de recherche pour l'exploitation de la mer ;
 
-5° Les agents de police judiciaire adjoints mentionnés à l'article 21 du code de procédure pénale, qui exercent ces missions dans les limites et selon les modalités fixées par le code de procédure pénale. ;
+5° Les agents de police judiciaire adjoints mentionnés à l'article 21 du code de procédure pénale, qui exercent ces missions dans les limites et selon les modalités fixées par le code de procédure pénale ;
+
+6° Les agents de l'Office national des forêts commissionnés à cet effet.

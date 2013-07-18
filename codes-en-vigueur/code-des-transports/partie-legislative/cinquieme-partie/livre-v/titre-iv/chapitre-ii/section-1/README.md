@@ -1,4 +1,4 @@
-# Section 1 : Le contrat de travail
+# Section 1 : Le contrat d'engagement maritime
 
 - [Sous-section 1 : Formation et contenu du contrat](sous-section-1)
 - [Sous-section 2 : Le contrat à durée déterminée ou au voyage](sous-section-2)

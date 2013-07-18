@@ -10,7 +10,7 @@ Chaque année, le schéma décennal est soumis à l'examen de la Commission de r
 
 Elle vérifie si le schéma décennal couvre tous les besoins en matière d'investissements et s'il est cohérent avec le plan européen non contraignant élaboré par le Réseau européen des gestionnaires de réseau de transport institué par le règlement (CE) n° 714/2009 du Parlement européen et du Conseil du 13 juillet 2009. En cas de doute sur cette cohérence, la Commission de régulation de l'énergie peut consulter l'Agence de coopération des régulateurs de l'énergie, instituée par le règlement (CE) n° 713/2009 du Parlement européen et du Conseil du 13 juillet 2009. Elle peut imposer au gestionnaire du réseau public de transport la modification du schéma décennal de développement du réseau.
 
-Le schéma décennal de développement du réseau est également soumis, à intervalle maximal de quatre ans, à l'approbation du ministre chargé de l'énergie, après avis de la Commission de régulation de l'énergie.
+Le schéma décennal de développement du réseau est également soumis, à intervalle maximal de quatre ans, à l'approbation du ministre chargé de l'énergie.
 
 II. ― Pour l'application du schéma décennal, la direction générale ou le directoire de la société gestionnaire du réseau public de transport établit un programme annuel d'investissements, qu'il soumet à l'approbation préalable de la Commission de régulation de l'énergie.
 

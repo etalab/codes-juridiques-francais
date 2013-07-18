@@ -4,6 +4,4 @@
 - [Article L5621-7](article-l5621-7.md)
 - [Article L5621-8](article-l5621-8.md)
 - [Article L5621-9](article-l5621-9.md)
-- [Article L5621-10](article-l5621-10.md)
-- [Article L5621-11](article-l5621-11.md)
 - [Article L5621-12](article-l5621-12.md)

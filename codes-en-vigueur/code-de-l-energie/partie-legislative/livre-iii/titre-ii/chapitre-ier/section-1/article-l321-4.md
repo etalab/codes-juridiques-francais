@@ -10,7 +10,7 @@ Sont exclus du réseau public de transport :
 
 a) Les lignes directes mentionnées à l'article L. 343-1 ;
 
-b) Les ouvrages des concessions de distribution de service public mentionnées à l'article L. 324-1 ;
+b) Les ouvrages des concessions de distribution aux services publics mentionnées à l'article L. 324-1 ;
 
 c) Les ouvrages déclassés en application de l'article L. 321-5.
 

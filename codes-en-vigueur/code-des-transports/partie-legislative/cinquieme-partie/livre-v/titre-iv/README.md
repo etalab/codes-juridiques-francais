@@ -9,4 +9,4 @@
 - [Chapitre VII : La formation professionnelle 
 tout au long de la vie](chapitre-vii)
 - [Chapitre VIII : Contrôle de l'application de la législation du travail](chapitre-viii)
-- [Chapitre IX : Dispositions applicables aux gens de mer autres que les marins](chapitre-ix)
+- [Chapitre IX : Dispositions applicables aux gens de mer autres que marins](chapitre-ix)

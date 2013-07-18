@@ -4,6 +4,6 @@ Les contributions des consommateurs finals ayant exercé leur droit de choisir l
 
 Les contributions des consommateurs finals qui n'ont pas exercé leur droit de choisir leur fournisseur sont recouvrées par l'organisme en charge de la fourniture d'électricité qui les alimente, sous la forme d'un prélèvement additionnel aux tarifs réglementés de vente d'électricité.
 
-Le montant de la contribution est liquidé par l'organisme mentionné à l'alinéa précédent en fonction de la quantité d'électricité livrée au contributeur qui l'acquitte lors du règlement de sa facture d'électricité ou d'utilisation des réseaux.
+Le montant de la contribution est liquidé par l'opérateur ou par l'organisme mentionnés aux deux premiers alinéas en fonction de la quantité d'électricité livrée au contributeur qui l'acquitte lors du règlement de sa facture d'électricité ou d'utilisation des réseaux.
 
 Les contributions effectivement recouvrées sont reversées aux opérateurs qui supportent les charges de service public par l'intermédiaire de la Caisse des dépôts et consignations.

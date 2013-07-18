@@ -18,6 +18,6 @@ I.-Outre les officiers et agents de police judiciaire, les inspecteurs de l'envi
 
 8° Les infractions mentionnées à l'article L. 362-5 relatif à la circulation des véhicules terrestres à moteur dans les espaces naturels ;
 
-9° Les infractions mentionnées à l'article L. 415-2 relatif à la protection de la faune et de la flore.
+9° Les infractions mentionnées à l'article L. 415-3 relatif à la protection de la faune et de la flore.
 
 II (Abrogé)

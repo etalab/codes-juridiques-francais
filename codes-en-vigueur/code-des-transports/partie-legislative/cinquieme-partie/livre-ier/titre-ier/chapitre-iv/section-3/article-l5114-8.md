@@ -6,7 +6,7 @@ Sont privilégiés sur le navire, sur le fret du voyage pendant lequel est née 
 
 2° Les droits de tonnage ou de port et les autres taxes et impôts publics de mêmes espèces, les frais de pilotage, les frais de garde et de conservation depuis l'entrée du navire dans le dernier port ;
 
-3° Les créances nées du contrat d'engagement du capitaine, de l'équipage et du contrat de travail des autres personnes employées à bord ;
+3° Les créances nées du contrat des gens de mer et de toutes personnes employées à bord ;
 
 4° Les rémunérations dues pour sauvetage et assistance et la contribution du navire aux avaries communes ;
 

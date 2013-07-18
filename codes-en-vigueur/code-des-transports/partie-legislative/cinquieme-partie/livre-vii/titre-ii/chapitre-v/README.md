@@ -5,3 +5,4 @@
 - [Article L5725-2-2](article-l5725-2-2.md)
 - [Article L5725-3](article-l5725-3.md)
 - [Article L5725-4](article-l5725-4.md)
+- [Article L5725-5](article-l5725-5.md)

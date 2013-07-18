@@ -8,7 +8,7 @@ Pour statuer sur les demandes de dérogation autorisées par l'article L. 111-10
 
 3° La gravité des difficultés économiques et financières dont sont menacés le demandeur ou ses clients, ainsi que les mesures prises par le demandeur en vue de trouver d'autres débouchés pour la vente du gaz naturel qu'il achète ;
 
-4° La date de conclusion des engagements contractuels mentionnés au premier alinéa de l'article L. 111-105 et les conditions d'adaptation de ces engagements en cas d'évolution des débouchés du demandeur ;
+4° La date de conclusion des engagements contractuels mentionnés à l'article L. 111-105 et les conditions d'adaptation de ces engagements en cas d'évolution des débouchés du demandeur ;
 
 5° Des difficultés techniques liées à l'interconnexion ou à l'interopérabilité des réseaux ;
 

@@ -1,7 +1,13 @@
 # Article L5612-6
 
-Les navigants résidant en France sont soumis aux dispositions des titres IV et V du livre V de la présente partie.
+I. - L'armateur est responsable, à l'égard de l'ensemble des gens de mer travaillant à bord, du respect des règles définies au présent livre, indépendamment de la responsabilité de chacun de leurs employeurs.
 
-Les navigants résidant hors de France sont soumis aux dispositions des titres II et III du présent livre.
+II. - Toute clause prévue dans les contrats conclus entre un armateur et le ou les employeurs de gens de mer à bord d'un navire exploité par cet armateur, qui a pour effet de faire échec aux dispositions d'ordre public du présent article, est nulle.
 
-Les navigants ressortissants d'un Etat de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique européen, de la Confédération suisse ou d'un Etat lié à la France par une convention bilatérale de sécurité sociale bénéficient des dispositions du présent chapitre, sous réserve des dispositions plus favorables prises en application du traité sur l'Union européenne.
+III. - En cas de défaillance du ou des employeurs mentionnés au II, l'armateur assure les conséquences financières, dans les conditions prévues au présent livre :
+
+1° D'une maladie, d'un accident ou du décès d'un marin survenant en relation avec son embarquement ;
+
+2° Du paiement des arriérés de salaires et de cotisations sociales, liées aux périodes d'embarquement ;
+
+3° Du rapatriement du marin.

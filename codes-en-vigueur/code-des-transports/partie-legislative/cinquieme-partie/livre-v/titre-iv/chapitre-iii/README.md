@@ -4,3 +4,4 @@
 - [Section 2 : Les institutions représentatives du personnel](section-2)
 - [Section 3 : Les salariés protégés](section-3)
 - [Section 4 : Les conflits collectifs](section-4)
+- [Section 5 : Sanctions pénales](section-5)

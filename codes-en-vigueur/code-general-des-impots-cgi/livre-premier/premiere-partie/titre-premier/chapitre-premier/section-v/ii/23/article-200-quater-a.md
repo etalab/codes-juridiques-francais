@@ -10,7 +10,7 @@ a. Aux dépenses d'installation ou de remplacement d'équipements spécialement 
 
 3° Intégrés à un logement acquis en l'état futur d'achèvement ou que le contribuable fait construire, achevé entre le 1er janvier 2005 et le 31 décembre 2014 ;
 
-b. Aux dépenses payées entre le 1er janvier 2005 et le 31 décembre 2014 pour la réalisation de travaux prescrits aux propriétaires d'habitation au titre du IV de l'article L. 515-16 du code de l'environnement ;
+b. Aux dépenses payées entre le 1er janvier 2005 et le 31 décembre 2014 pour la réalisation de diagnostics préalables aux travaux et de travaux prescrits aux propriétaires d'habitation au titre du IV de l'article L. 515-16 du code de l'environnement, sans qu'en soit déduit le montant des participations versées, le cas échéant, en application du I bis de l'article L. 515-19 du même code ;
 
 c. (Périmé)
 
@@ -34,9 +34,9 @@ b. (Périmé)
 
 Le crédit d'impôt est accordé sur présentation de l'attestation mentionnée au premier alinéa ou des factures, autres que les factures d'acompte, des entreprises ayant réalisé les travaux et comportant, outre les mentions prévues à l'article 289, l'adresse de réalisation des travaux, leur nature ainsi que la désignation et le montant des équipements et travaux mentionnés au 1.
 
-7. Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles 199 quater B à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires.S'il excède l'impôt dû, l'excédent est restitué.
+7. Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles 199 quater B à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.
 
-8. Lorsque le bénéficiaire du crédit d'impôt est remboursé dans un délai de cinq ans de tout ou partie du montant des dépenses qui ont ouvert droit à cet avantage, il fait l'objet, au titre de l'année de remboursement et dans la limite du crédit d'impôt obtenu, d'une reprise égale au montant de l'avantage fiscal accordé à raison de la somme qui a été remboursée. Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les dépenses ont été payées.
+8. Lorsque le bénéficiaire du crédit d'impôt est remboursé dans un délai de cinq ans de tout ou partie du montant des dépenses qui ont ouvert droit à cet avantage, il fait l'objet, au titre de l'année de remboursement et dans la limite du crédit d'impôt obtenu, d'une reprise égale au montant de l'avantage fiscal accordé à raison de la somme qui a été remboursée. Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les dépenses ont été payées ou lorsque les sommes remboursées ont été versées en application du I bis de l'article L. 515-19 du code de l'environnement.
 
 9. La durée de l'engagement de location mentionné au premier alinéa du 1 s'apprécie à compter de la date de réalisation des dépenses ou, lorsque le logement n'est pas loué à cette date, à compter de la mise en location qui doit prendre effet, pour chaque logement concerné, dans les douze mois qui suivent la réalisation des dépenses. En cas de non-respect de cet engagement, le ou les crédits d'impôt obtenus pour chaque logement concerné font l'objet d'une reprise au titre de l'année au cours de laquelle l'engagement n'est pas respecté.
 

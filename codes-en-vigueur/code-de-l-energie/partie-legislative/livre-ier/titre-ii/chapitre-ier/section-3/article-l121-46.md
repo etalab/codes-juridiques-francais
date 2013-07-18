@@ -1,6 +1,6 @@
 # Article L121-46
 
-I. ― Les objectifs et les modalités permettant d'assurer la mise en œuvre des missions de service public définies aux sections 1 et 2 du présent chapitre font l'objet de contrats conclus entre l'Etat, d'une part, et Electricité de France, GDF-Suez ainsi que les sociétés gestionnaires des réseaux de transport et de distribution, d'autre part, chacune à raison des missions de service public qui lui sont assignées, sans préjudice des contrats de concession mentionnés à l'article L. 2224-31 du code général des collectivités territoriales.
+I. ― Les objectifs et les modalités permettant d'assurer la mise en œuvre des missions de service public définies aux sections 1 et 2 du présent chapitre font l'objet de contrats conclus entre l'Etat, d'une part, et Electricité de France, GDF-Suez ainsi que les filiales gestionnaires de réseaux de transport ou de distribution issues de la séparation juridique imposée à Electricité de France et à GDF en application des articles L. 111-7 et L. 111-57 du présent code, d'autre part, chacune à raison des missions de service public qui lui sont assignées, sans préjudice des contrats de concession mentionnés à l'article L. 2224-31 du code général des collectivités territoriales.
 
 II. ― Les contrats prévus au I portent, notamment, sur :
 

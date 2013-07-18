@@ -1,6 +1,6 @@
 # Article L111-72
 
-Chaque gestionnaire du réseau public de transport d'électricité préserve la confidentialité des informations d'ordre économique, commercial, industriel, financier ou technique dont la communication serait de nature à porter atteinte aux règles de concurrence libre et loyale et de non-discrimination.
+Le gestionnaire du réseau public de transport d'électricité préserve la confidentialité des informations d'ordre économique, commercial, industriel, financier ou technique dont la communication serait de nature à porter atteinte aux règles de concurrence libre et loyale et de non-discrimination.
 
 La liste de ces informations est déterminée par décret en Conseil d'Etat.
 

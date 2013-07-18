@@ -2,7 +2,7 @@
 
 Sans préjudice des dispositions du septième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales, un gestionnaire de réseau de distribution de gaz naturel est notamment chargé, dans le cadre des cahiers des charges de concession et des règlements de service des régies mentionnés au I du même article L. 2224-31 :
 
-1° De définir et de mettre en œuvre les politiques d'investissement et de développement des réseaux de distribution ;
+1° De définir et de mettre en œuvre les politiques d'investissement et de développement des réseaux de distribution, dans le respect de l'environnement et de l'efficacité énergétique ;
 
 2° D'assurer la conception et la construction des ouvrages ainsi que la maîtrise d'œuvre des travaux relatifs à ces réseaux, en informant annuellement l'autorité organisatrice de la distribution de leur réalisation ;
 

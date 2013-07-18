@@ -18,4 +18,4 @@ Ce cahier des charges détermine notamment :
 
 7° L'étendue et les conditions d'exercice du contrôle technique et financier auquel la concession est soumise ;
 
-Il est, en outre, stipulé dans l'acte de concession que, s'il était ultérieurement établi, à la charge des usines hydrauliques, un impôt spécial instituant une redevance proportionnelle aux kilowattheures produits ou aux dividendes et bénéfices répartis, les sommes dues à l'Etat au titre des redevances contractuelles résultant des dispositions de l'article L. 521-22 et de celles qui précèdent seraient réduites du montant de cet impôt.
+Il est, en outre, stipulé dans l'acte de concession que, s'il était ultérieurement établi, à la charge des usines hydrauliques, un impôt spécial instituant une redevance proportionnelle aux kilowattheures produits ou aux dividendes et bénéfices répartis, les sommes dues à l'Etat au titre des redevances contractuelles résultant des dispositions de l'article L. 523-1 et de celles qui précèdent seraient réduites du montant de cet impôt.

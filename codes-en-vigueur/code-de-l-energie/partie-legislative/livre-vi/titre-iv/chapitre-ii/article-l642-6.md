@@ -2,7 +2,7 @@
 
 Le comité professionnel prévu à l'article L. 642-5 constitue et conserve, pour chaque produit figurant dans la liste énoncée à l'article L. 642-3, un stock correspondant à l'obligation qui pèse sur l'opérateur qui a payé la rémunération mentionnée au dernier alinéa.
 
-Ce comité peut recourir aux services de la société anonyme de gestion de stocks de sécurité mentionnée à l'article 1655 quater du code général des impôts, dans le cadre d'une convention approuvée par l'autorité administrative.
+Afin de s'acquitter de sa mission, ce comité recourt aux services de l'entité centrale de stockage, qui est la société anonyme de gestion des stocks de sécurité mentionnée à l'article 1655 quater du code général des impôts, dans le cadre d'une convention approuvée par l'autorité administrative.
 
 La localisation des stocks stratégiques placés sous sa responsabilité est soumise à l'approbation de l'autorité administrative.
 

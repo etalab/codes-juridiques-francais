@@ -17,3 +17,5 @@ d) Les coûts supportés par les fournisseurs d'électricité en raison de la mi
 Les conditions de rémunération du capital immobilisé dans les moyens de production, de stockage d'électricité ou nécessaires aux actions de maîtrise de la demande définis aux a, b et d du présent 2° utilisées pour calculer la compensation des charges à ce titre sont définies par arrêté du ministre chargé de l'énergie afin de garantir la sécurité de l'approvisionnement en électricité des zones non interconnectées au réseau métropolitain continental.
 
 Un décret en Conseil d'Etat précise les modalités d'application des a à d.
+
+3° La rémunération versée par Electricité de France aux installations de cogénération dans le cadre des contrats transitoires, en application de l'article L. 314-1-1.
