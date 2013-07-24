@@ -18,6 +18,6 @@ Le Conseil d'Etat est compétent en premier et dernier ressort pour connaître d
 
 8° Les élections au conseil territorial de Saint-Pierre-et-Miquelon, conformément à l'article LO 552 du même code, ainsi que l'élection du président du conseil territorial et des membres du conseil exécutif et les recours concernant la démission d'office des membres du conseil territorial conformément à l'article LO 550 du même code ;
 
-9° Les élections à l'Assemblée des Français de l'étranger, conformément à l'article 9 de la loi n° 82-471 du 7 juin 1982 relative à l'Assemblée des Français de l'étranger ;
+9° Les élections des conseillers et délégués consulaires et des conseillers à l'Assemblée des Français de l'étranger ;
 
 10° Les consultations organisées en application des articles 72-4 et 73 de la Constitution.
