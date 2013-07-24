@@ -8,4 +8,5 @@
 - [Chapitre VI : Les écoles normales supérieures.](chapitre-vi)
 - [Chapitre VII : Les grands établissements.](chapitre-vii)
 - [Chapitre VIII : Les écoles françaises à l'étranger.](chapitre-viii)
+- [Chapitre VIII bis : Coopération et regroupements des établissements](chapitre-viii-bis)
 - [Chapitre IX : Dispositions communes](chapitre-ix)

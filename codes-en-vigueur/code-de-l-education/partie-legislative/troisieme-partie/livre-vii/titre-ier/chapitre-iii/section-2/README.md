@@ -1,4 +1,4 @@
-# Section 2 : Dispositions propres aux unités de formation et de recherche de médecine, pharmacie et odontologie.
+# Section 2 : Dispositions propres aux unités de formation et de recherche de médecine, pharmacie, odontologie et maïeutique
 
 - [Article L713-4](article-l713-4.md)
 - [Article L713-5](article-l713-5.md)

@@ -1,7 +1,5 @@
 # Chapitre IV : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée, les centres thématiques de recherche et de soins, les établissements publics de coopération scientifique et les fondations de coopération scientifique
 
-- [Section 1 : Les pôles de recherche et d'enseignement supérieur, les réseaux thématiques de recherche avancée et les centres thématiques de recherche et de soins.](section-1)
-- [Section 2 : Les établissements publics de coopération scientifique.](section-2)
 - [Article L344-11](article-l344-11.md)
 - [Article L344-12](article-l344-12.md)
 - [Article L344-13](article-l344-13.md)

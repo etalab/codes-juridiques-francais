@@ -1,3 +1,3 @@
-# Chapitre préliminaire : Le Haut Conseil de la science et de la technologie.
+# Chapitre préliminaire : Le Conseil stratégique de la recherche.
 
 - [Article L120-1](article-l120-1.md)

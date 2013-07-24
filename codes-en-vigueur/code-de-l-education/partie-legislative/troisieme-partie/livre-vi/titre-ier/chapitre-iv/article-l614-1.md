@@ -1,6 +1,6 @@
 # Article L614-1
 
-Les pouvoirs publics prennent les mesures indispensables à la cohésion du service public de l'enseignement supérieur, dans le cadre de la planification nationale ou régionale, et du respect des engagements européens.
+Les pouvoirs publics prennent les mesures indispensables à la cohésion du service public de l'enseignement supérieur, dans le cadre de la planification nationale et régionale, et du respect des engagements européens.
 
 Ils favorisent le rapprochement des règles d'organisation et de fonctionnement des établissements d'enseignement supérieur tout en respectant la nécessaire diversité de ceux-ci.
 

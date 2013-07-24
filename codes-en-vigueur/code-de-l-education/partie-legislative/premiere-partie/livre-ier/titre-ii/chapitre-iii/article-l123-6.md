@@ -6,4 +6,8 @@ Il favorise l'innovation, la création individuelle et collective dans le domain
 
 Il veille à la promotion et à l'enrichissement de la langue française et des langues et cultures régionales. Il participe à l'étude et à la mise en valeur des éléments du patrimoine national et régional. Il assure la conservation et l'enrichissement des collections confiées aux établissements.
 
+Il promeut des valeurs d'éthique, de responsabilité et d'exemplarité.
+
+Il mène une action contre les stéréotypes sexués, tant dans les enseignements que dans les différents aspects de la vie de la communauté éducative.
+
 Les établissements qui participent à ce service public peuvent être prestataires de services pour contribuer au développement socio-économique de leur environnement. Ils peuvent également assurer l'édition et la commercialisation d'ouvrages et de périodiques scientifiques ou techniques ou de vulgarisation, ainsi que la création, la rénovation, l'extension de musées, de centres d'information et de documentation et de banques de données. Ils sont autorisés à transiger au sens de l'article 2044 du code civil et à recourir à l'arbitrage en cas de litiges nés de l'exécution de contrats passés avec des organismes étrangers, dans des conditions fixées par décret.

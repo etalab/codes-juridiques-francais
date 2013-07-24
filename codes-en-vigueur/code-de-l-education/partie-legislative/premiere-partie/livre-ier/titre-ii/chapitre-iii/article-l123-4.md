@@ -4,7 +4,7 @@ Le service public de l'enseignement supérieur offre des formations à la fois s
 
 A cet effet, le service public :
 
-1° Accueille les étudiants et concourt à leur orientation ;
+1° Accueille les étudiants et concourt à leur réussite et à leur orientation ;
 
 2° Dispense la formation initiale ;
 
