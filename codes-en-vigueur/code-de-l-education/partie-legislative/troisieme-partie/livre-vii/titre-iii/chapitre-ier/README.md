@@ -13,6 +13,7 @@
 - [Article L731-10](article-l731-10.md)
 - [Article L731-11](article-l731-11.md)
 - [Article L731-12](article-l731-12.md)
+- [Article L731-13](article-l731-13.md)
 - [Article L731-14](article-l731-14.md)
 - [Article L731-15](article-l731-15.md)
 - [Article L731-16](article-l731-16.md)
