@@ -1,4 +1,4 @@
-# Livre Ier : De l'exercice de l'action publique et de l'instruction
+# Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction
 
 - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction](titre-ier)
 - [Titre II : Des enquêtes et des contrôles d'identité](titre-ii)
