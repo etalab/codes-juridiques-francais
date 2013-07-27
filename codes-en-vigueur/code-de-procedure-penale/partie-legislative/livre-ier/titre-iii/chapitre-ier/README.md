@@ -11,5 +11,5 @@
 - [Section 9 : De l'expertise](section-9)
 - [Section 10 : Des nullités de l'information](section-10)
 - [Section 11 : Des ordonnances de règlement](section-11)
-- [Section 12 : De l'appel des ordonnances du juge d'instruction](section-12)
+- [Section 12 : De l'appel des ordonnances du juge d'instruction ou du juge des libertés et de la détention](section-12)
 - [Section 13 : De la reprise de l'information sur charges nouvelles](section-13)
