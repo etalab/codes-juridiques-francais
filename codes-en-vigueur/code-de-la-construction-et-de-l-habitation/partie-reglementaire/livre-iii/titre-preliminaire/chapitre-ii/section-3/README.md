@@ -1,4 +1,4 @@
-# Section 3 : Dispositions particulières à certaines agglomérations.
+# Section 3 : Dispositions particulières à certaines communes.
 
 - [Article R302-14](article-r302-14.md)
 - [Article R302-15](article-r302-15.md)
