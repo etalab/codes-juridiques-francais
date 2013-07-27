@@ -1,4 +1,4 @@
-# Section 4 : Du ministère public près le tribunal de police
+# Section 4 : Du ministère public près le tribunal de police et la juridiction de proximité
 
 - [Article 45](article-45.md)
 - [Article 46](article-46.md)
