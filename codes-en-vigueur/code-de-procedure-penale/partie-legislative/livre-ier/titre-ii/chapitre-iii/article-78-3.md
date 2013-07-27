@@ -4,7 +4,7 @@ Si l'intéressé refuse ou se trouve dans l'impossibilité de justifier de son i
 
 Lorsqu'il s'agit d'un mineur de dix-huit ans, le procureur de la République doit être informé dès le début de la rétention. Sauf impossibilité, le mineur doit être assisté de son représentant légal.
 
-La personne qui fait l'objet d'une vérification ne peut être retenue que pendant le temps strictement exigé par l'établissement de son identité. La rétention ne peut excéder quatre heures à compter du contrôle effectué en application de l'article 78-2 et le procureur de la République peut y mettre fin à tout moment.
+La personne qui fait l'objet d'une vérification ne peut être retenue que pendant le temps strictement exigé par l'établissement de son identité. La rétention ne peut excéder quatre heures, ou huit heures à Mayotte, à compter du contrôle effectué en application de l'article 78-2 et le procureur de la République peut y mettre fin à tout moment.
 
 Si la personne interpellée maintient son refus de justifier de son identité ou fournit des éléments d'identité manifestement inexacts, les opérations de vérification peuvent donner lieu, après autorisation du procureur de la République ou du juge d'instruction, à la prise d'empreintes digitales ou de photographies lorsque celle-ci constitue l'unique moyen d'établir l'identité de l'intéressé.
 
@@ -19,3 +19,5 @@ Le procès-verbal est transmis au procureur de la République, copie en ayant é
 Si elle n'est suivie à l'égard de la personne qui a été retenue d'aucune procédure d'enquête ou d'exécution adressée à l'autorité judiciaire, la vérification d'identité ne peut donner lieu à une mise en mémoire sur fichiers et le procès-verbal ainsi que toutes les pièces se rapportant à la vérification sont détruits dans un délai de six mois sous le contrôle du procureur de la République.
 
 Dans le cas où il y a lieu à procédure d'enquête ou d'exécution adressée à l'autorité judiciaire et assortie du maintien en garde à vue, la personne retenue doit être aussitôt informée de son droit de faire aviser le procureur de la République de la mesure dont elle fait l'objet.
+
+Les prescriptions énumérées au présent article sont imposées à peine de nullité.
