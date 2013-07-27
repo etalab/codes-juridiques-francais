@@ -1,15 +1,29 @@
 # Article 78-2
 
-Les officiers de police judiciaire et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire et agents de police judiciaire adjoints mentionnés aux articles 20 et 21-1° peuvent inviter à justifier, par tout moyen, de son identité toute personne à l'égard de laquelle existe un indice faisant présumer :
+Les officiers de police judiciaire et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire et agents de police judiciaire adjoints mentionnés aux articles 20 et 21-1° peuvent inviter à justifier, par tout moyen, de son identité toute personne à l'égard de laquelle existe une ou plusieurs raisons plausibles de soupçonner :
 
-- qu'elle a commis ou tenté de commettre une infraction ;
+-qu'elle a commis ou tenté de commettre une infraction ;
 
-- ou qu'elle se prépare à commettre un crime ou un délit ;
+-ou qu'elle se prépare à commettre un crime ou un délit ;
 
-- ou qu'elle est susceptible de fournir des renseignements utiles à l'enquête en cas de crime ou de délit ;
+-ou qu'elle est susceptible de fournir des renseignements utiles à l'enquête en cas de crime ou de délit ;
 
-- ou qu'elle fait l'objet de recherches ordonnées par une autorité judiciaire.
+-ou qu'elle fait l'objet de recherches ordonnées par une autorité judiciaire.
 
-L'identité de toute personne peut également être contrôlée, selon les mêmes modalités, pour prévenir une atteinte à l'ordre public, notamment une atteinte à la sécurité des personnes et des biens.
+Sur réquisitions écrites du procureur de la République aux fins de recherche et de poursuite d'infractions qu'il précise, l'identité de toute personne peut être également contrôlée, selon les mêmes modalités, dans les lieux et pour une période de temps déterminés par ce magistrat. Le fait que le contrôle d'identité révèle des infractions autres que celles visées dans les réquisitions du procureur de la République ne constitue pas une cause de nullité des procédures incidentes.
 
-La personne de nationalité étrangère dont l'identité est contrôlée en application des dispositions du présent article doit être en mesure de présenter les pièces ou documents sous le couvert desquels elle est autorisée à séjourner en France.
+L'identité de toute personne, quel que soit son comportement, peut également être contrôlée, selon les modalités prévues au premier alinéa, pour prévenir une atteinte à l'ordre public, notamment à la sécurité des personnes ou des biens.
+
+Dans une zone comprise entre la frontière terrestre de la France avec les Etats parties à la convention signée à Schengen le 19 juin 1990 et une ligne tracée à 20 kilomètres en deçà, ainsi que dans les zones accessibles au public des ports, aéroports et gares ferroviaires ou routières ouverts au trafic international et désignés par arrêté, pour la prévention et la recherche des infractions liées à la criminalité transfrontalière, l'identité de toute personne peut également être contrôlée, selon les modalités prévues au premier alinéa, en vue de vérifier le respect des obligations de détention, de port et de présentation des titres et documents prévues par la loi. Lorsque ce contrôle a lieu à bord d'un train effectuant une liaison internationale, il peut être opéré sur la portion du trajet entre la frontière et le premier arrêt qui se situe au-delà des vingt kilomètres de la frontière. Toutefois, sur celles des lignes ferroviaires effectuant une liaison internationale et présentant des caractéristiques particulières de desserte, le contrôle peut également être opéré entre cet arrêt et un arrêt situé dans la limite des cinquante kilomètres suivants. Ces lignes et ces arrêts sont désignés par arrêté ministériel (1). Lorsqu'il existe une section autoroutière démarrant dans la zone mentionnée à la première phrase du présent alinéa (1) et que le premier péage autoroutier se situe au-delà de la ligne des 20 kilomètres, le contrôle peut en outre avoir lieu jusqu'à ce premier péage sur les aires de stationnement ainsi que sur le lieu de ce péage et les aires de stationnement attenantes. Les péages concernés par cette disposition sont désignés par arrêté. Le fait que le contrôle d'identité révèle une infraction autre que celle de non-respect des obligations susvisées ne constitue pas une cause de nullité des procédures incidentes. Pour l'application du présent alinéa, le contrôle des obligations de détention, de port et de présentation des titres et documents prévus par la loi ne peut être pratiqué que pour une durée n'excédant pas six heures consécutives dans un même lieu et ne peut consister en un contrôle systématique des personnes présentes ou circulant dans les zones ou lieux mentionnés au même alinéa.
+
+Dans une zone comprise entre les frontières terrestres ou le littoral du département de la Guyane et une ligne tracée à vingt kilomètres en-deçà, et sur une ligne tracée à cinq kilomètres de part et d'autre, ainsi que sur la route nationale 2 sur le territoire de la commune de Régina, l'identité de toute personne peut être contrôlée, selon les modalités prévues au premier alinéa, en vue de vérifier le respect des obligations de détention, de port et de présentation des titres et documents prévus par la loi.
+
+L'identité de toute personne peut également être contrôlée, selon les modalités prévues au premier alinéa du présent article, en vue de vérifier le respect des obligations de détention, de port et de présentation des titres et documents prévus par la loi :
+
+1° En Guadeloupe, dans une zone comprise entre le littoral et une ligne tracée à un kilomètre en deçà, ainsi que dans une zone d'un kilomètre de part et d'autre, d'une part, de la route nationale 1 sur le territoire des communes de Basse-Terre, Gourbeyre et Trois-Rivières et, d'autre part, de la route nationale 4 sur le territoire des communes du Gosier et de Sainte-Anne et Saint-François ;
+
+2° A Mayotte, dans une zone comprise entre le littoral et une ligne tracée à un kilomètre en deçà ;
+
+3° A Saint-Martin, dans une zone comprise entre le littoral et une ligne tracée à un kilomètre en deçà ;
+
+4° A Saint-Barthélemy, dans une zone comprise entre le littoral et une ligne tracée à un kilomètre en deçà.
