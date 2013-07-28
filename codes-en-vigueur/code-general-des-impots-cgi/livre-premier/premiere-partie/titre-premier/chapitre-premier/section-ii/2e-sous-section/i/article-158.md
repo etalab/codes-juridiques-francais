@@ -30,7 +30,7 @@ f. Abrogé ;
 
 4° Les dispositions du 2° sont également applicables pour la part des revenus de la nature et de l'origine de ceux mentionnés au 2°, sous réserve du 3°, prélevés sur des bénéfices n'ayant pas supporté l'impôt sur les sociétés ou un impôt équivalent, distribués ou répartis par :
 
-a. Les organismes de placement collectif en valeurs mobilières régis par les articles L. 214-2 et suivants du code monétaire et financier ;
+a. Les organismes de placement collectif en valeurs mobilières ou les placements collectifs relevant des paragraphes 1, 2 et 6 de la sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3, ou de la sous-section 4 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier ;
 
 b. Les organismes de placement collectif en valeurs mobilières établis dans d'autres Etats membres de la Communauté européenne, ou dans un Etat non membre de cette Communauté partie à l'accord sur l'Espace économique européen ayant conclu une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, qui bénéficient de la procédure de reconnaissance mutuelle des agréments prévue par la directive 85/611/ CE du Conseil du 20 décembre 1985 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) ;
 
