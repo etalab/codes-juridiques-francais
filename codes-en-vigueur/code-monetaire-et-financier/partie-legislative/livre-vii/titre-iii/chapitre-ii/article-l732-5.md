@@ -4,7 +4,7 @@ L'article L. 221-31 est applicable dans les conditions suivantes :
 
 1° Le c du 2° du I est ainsi rédigé :
 
-c) De parts ou actions d'organismes de placement collectif en valeurs mobilières établis en France ;
+c) De parts ou actions d' OPCVM, de FIA relevant des paragraphes 1, 2 et 6 de la sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3, ou de la sous-section 4 de la section 2 du chapitre IV du titre Ier du livre II établis en France ;
 
 2° Le 4° du I est ainsi rédigé :
 

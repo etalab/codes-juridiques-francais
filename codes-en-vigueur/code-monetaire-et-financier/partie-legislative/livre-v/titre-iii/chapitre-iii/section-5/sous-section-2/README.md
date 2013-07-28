@@ -3,3 +3,4 @@
 - [Article L533-21](article-l533-21.md)
 - [Article L533-22](article-l533-22.md)
 - [Article L533-22-1](article-l533-22-1.md)
+- [Article L533-22-2](article-l533-22-2.md)

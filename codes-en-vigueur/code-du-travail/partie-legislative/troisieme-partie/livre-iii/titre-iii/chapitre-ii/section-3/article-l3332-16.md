@@ -6,7 +6,7 @@ Les sommes ou valeurs inscrites aux comptes des participants, sur décision indi
 
 Par dérogation aux dispositions de l'article L. 3332-17, l'actif de ce fonds peut être investi à 95 % en titres de l'entreprise.
 
-Par dérogation aux dispositions de l'article L. 214-40 du code monétaire et financier, les membres du conseil de surveillance sont élus par l'ensemble des salariés porteurs de parts.
+Par dérogation aux dispositions de l'article L. 214-165 du code monétaire et financier, les membres du conseil de surveillance sont élus par l'ensemble des salariés porteurs de parts.
 
 La mise en place de ce fonds est subordonnée aux conditions suivantes :
 

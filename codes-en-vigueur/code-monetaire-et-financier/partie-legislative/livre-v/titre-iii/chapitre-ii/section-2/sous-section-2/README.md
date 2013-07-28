@@ -10,4 +10,5 @@
 - [Article L532-21](article-l532-21.md)
 - [Article L532-21-1](article-l532-21-1.md)
 - [Article L532-21-2](article-l532-21-2.md)
+- [Article L532-21-3](article-l532-21-3.md)
 - [Article L532-22](article-l532-22.md)

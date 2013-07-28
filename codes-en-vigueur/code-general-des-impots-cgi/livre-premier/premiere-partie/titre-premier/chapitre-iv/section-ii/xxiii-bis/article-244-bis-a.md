@@ -38,7 +38,7 @@ h) De parts, d'actions ou d'autres droits dans des organismes, autres que ceux m
 
 II.-Lorsque le prélèvement mentionné au I est dû par des contribuables assujettis à l'impôt sur le revenu, les plus-values sont déterminées selon les modalités définies :
 
-1° Au I et aux 2° à 9° du II de l'article 150 U , aux II et III de l'article 150 UB et aux articles 150 V à 150 VD ;
+1° Au I et aux 2° à 9° du II de l'article 150 U, aux II et III de l'article 150 UB et aux articles 150 V à 150 VD ;
 
 2° Au III de l'article 150 U lorsqu'elles s'appliquent à des ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales.
 
@@ -54,7 +54,7 @@ IV.-L'impôt dû en application du présent article est acquitté lors de l'enre
 
 Par dérogation aux dispositions du premier alinéa :
 
-1° L'impôt dû au titre des cessions que réalise un fonds de placement immobilier est acquitté pour le compte des porteurs au service des impôts des entreprises du lieu du siège social du dépositaire du fonds de placement immobilier et par celui-ci, dans un délai de dix jours à compter de la date de mise en paiement mentionnée à l'article L. 214-141 du code monétaire et financier des plus-values distribuées aux porteurs afférentes à ces cessions ;
+1° L'impôt dû au titre des cessions que réalise un fonds de placement immobilier est acquitté pour le compte des porteurs au service des impôts des entreprises du lieu du siège social du dépositaire du fonds de placement immobilier et par celui-ci, dans un délai de dix jours à compter de la date de mise en paiement mentionnée à l'article L. 214-82 du code monétaire et financier des plus-values distribuées aux porteurs afférentes à ces cessions ;
 
 2° L'impôt dû au titre des cessions de parts que réalise un porteur de parts de fonds de placement immobilier est acquitté pour le compte de ce porteur au service des impôts des entreprises du lieu du siège social de l'établissement payeur et par celui-ci, dans un délai d'un mois à compter de la cession.
 

@@ -26,7 +26,7 @@ d) Les intérêts de dettes contractées pour la conservation, l'acquisition, la
 
 e) Les frais de gestion, fixés à 20 € par local, majorés, lorsque ces dépenses sont effectivement supportées par le propriétaire, des frais de rémunération des gardes et concierges, des frais de procédure et des frais de rémunération, honoraire et commission versés à un tiers pour la gestion des immeubles ;
 
-e bis) Les dépenses supportées par un fonds de placement immobilier mentionné à l'article 239 nonies au titre des frais de fonctionnement et de gestion à proportion des actifs mentionnés au a du 1° du II de l'article L. 214-140 du code monétaire et financier détenus directement ou indirectement par le fonds, à l'exclusion des frais de gestion variables perçus par la société de gestion mentionnée à l'article L. 214-119 du même code en fonction des performances réalisées.
+e bis) Les dépenses supportées par un fonds de placement immobilier mentionné à l'article 239 nonies au titre des frais de fonctionnement et de gestion à proportion des actifs mentionnés au a du 1° du II de l'article L. 214-81 du code monétaire et financier détenus directement ou indirectement par le fonds, à l'exclusion des frais de gestion variables perçus par la société de gestion mentionnée à l'article L. 214-61 du même code en fonction des performances réalisées.
 
 Les frais de gestion, de souscription et de transaction supportés directement par les porteurs de parts d'un fonds de placement immobilier mentionné à l'article 239 nonies ne sont pas compris dans les charges de la propriété admises en déduction ;
 
@@ -144,7 +144,7 @@ Lorsque l'immeuble est la propriété d'une société non soumise à l'impôt su
 
 A l'issue de la période couverte par l'engagement de location des logements pour lesquels le contribuable a exercé l'option prévue au h, tant que les conditions de loyer et de ressources du locataire prévues au deuxième alinéa restent remplies, le propriétaire peut, par périodes de trois ans et pendant une durée maximale de six ans, bénéficier d'un complément de la déduction au titre de l'amortissement prévue au h égal à 2,5 % du prix d'acquisition ou de revient du logement en cas de poursuite, de renouvellement du bail ou de changement de titulaire du bail. En cas de non-respect des conditions de location ou de cession du logement, les compléments de déductions pratiqués pendant l'ensemble de la période triennale sont remis en cause dans les conditions de droit commun.
 
-Les trois premiers alinéas sont applicables, dans les mêmes conditions et limites, aux sociétés civiles de placement immobilier régies par les articles L. 214-50 et suivants du code monétaire et financier au prorata des revenus bruts correspondant aux droits des associés qui ont opté pour la déduction au titre de l'amortissement prévue à l'article 31 bis du présent code.
+Les trois premiers alinéas sont applicables, dans les mêmes conditions et limites, aux sociétés civiles de placement immobilier régies par les articles L. 214-114 et suivants du code monétaire et financier au prorata des revenus bruts correspondant aux droits des associés qui ont opté pour la déduction au titre de l'amortissement prévue à l'article 31 bis du présent code.
 
 Pour un même logement, les dispositions du présent l sont exclusives de l'application de celles prévues aux i, j et k.
 

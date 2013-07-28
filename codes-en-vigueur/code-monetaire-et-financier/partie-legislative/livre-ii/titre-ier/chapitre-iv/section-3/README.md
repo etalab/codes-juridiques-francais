@@ -1,4 +1,4 @@
-# Section 3 : Les sociétés civiles de placement immobilier
+# Section 3 : Autres placements collectifs
 
 - [Sous-section 1 : Régime général](sous-section-1)
 - [Sous-section 2 : Souscription des parts](sous-section-2)
@@ -6,5 +6,4 @@
 - [Sous-section 4 : Assemblée générale](sous-section-4)
 - [Sous-section 5 : Dispositions comptables](sous-section-5)
 - [Sous-section 6 : Fusion](sous-section-6)
-- [Sous-section 7 : Règles de bonne conduite](sous-section-7)
-- [Sous-section 8 : Dispositions transitoires](sous-section-8)
+- [Article L214-191](article-l214-191.md)

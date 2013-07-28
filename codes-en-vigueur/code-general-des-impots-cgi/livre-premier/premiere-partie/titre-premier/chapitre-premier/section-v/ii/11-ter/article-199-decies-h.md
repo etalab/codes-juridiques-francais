@@ -18,9 +18,9 @@ Toutefois, lorsque les terrains boisés possédés et acquis par le contribuable
 
 b) Aux souscriptions ou acquisitions en numéraire de parts d'intérêt de groupements forestiers qui ont pris l'engagement d'appliquer pendant quinze ans un plan simple de gestion agréé par le centre régional de la propriété forestière ou, si au moment de la souscription, aucun plan simple de gestion n'est agréé pour la forêt en cause, d'en faire agréer un dans un délai de trois ans à compter de la date de souscription et de l'appliquer pendant quinze ans. Dans cette situation, le groupement doit prendre, en outre, l'engagement d'appliquer à la forêt le régime d'exploitation normale prévu par le décret du 28 juin 1930 jusqu'à la date d'agrément du plan simple de gestion de cette forêt. Le souscripteur ou l'acquéreur doit s'engager à conserver les parts jusqu'au 31 décembre de la huitième année suivant la date de la souscription ;
 
-c) Aux souscriptions en numéraire au capital initial ou aux augmentations de capital des sociétés d'épargne forestière définies par l'article L. 214-85 du code monétaire et financier et aux acquisitions en numéraire des parts de ces sociétés, lorsque la société et le souscripteur ou l'acquéreur prennent les engagements mentionnés au b.
+c) Aux souscriptions en numéraire au capital initial ou aux augmentations de capital des sociétés d'épargne forestière définies par l'article L. 214-121 du code monétaire et financier et aux acquisitions en numéraire des parts de ces sociétés, lorsque la société et le souscripteur ou l'acquéreur prennent les engagements mentionnés au b.
 
-d) Aux dépenses de travaux forestiers effectués dans une propriété lorsqu'elle constitue une unité de gestion d'au moins 10 hectares d'un seul tenant et qu'elle présente l'une des garanties de gestion durable prévues aux articles L. 124-1 à L. 124-3 8 du code forestier, sous réserve des deux conditions suivantes :
+d) Aux dépenses de travaux forestiers effectués dans une propriété lorsqu'elle constitue une unité de gestion d'au moins 10 hectares d'un seul tenant et qu'elle présente l'une des garanties de gestion durable prévues aux articles L. 124-1 à L. 124-3 du code forestier, sous réserve des deux conditions suivantes :
 
 1° le contribuable doit prendre l'engagement de conserver cette propriété jusqu'au 31 décembre de la huitième année suivant celle des travaux et d'appliquer, pendant la même durée, l'une des garanties de gestion durable prévues aux articles L. 124-1 à L. 124-3 du même code ;
 
@@ -86,7 +86,7 @@ b) Au titre de l'année du paiement des dépenses mentionnées aux d et e du 2 e
 
 c) Au titre de l'année du paiement des dépenses de rémunération ou de la cotisation d'assurance mentionnées aux f et g du 2.
 
-5. La réduction d'impôt fait l'objet d'une reprise au titre de l'année où le contribuable, le groupement ou la société d'épargne forestière cesse de respecter l'un des engagements mentionnés au 2. Il en est de même en cas de dissolution des groupements ou des sociétés concernés ou lorsque ces dernières ne respectent pas les dispositions prévues par les articles L. 214-85 et L. 214-87 du code monétaire et financier.
+5. La réduction d'impôt fait l'objet d'une reprise au titre de l'année où le contribuable, le groupement ou la société d'épargne forestière cesse de respecter l'un des engagements mentionnés au 2. Il en est de même en cas de dissolution des groupements ou des sociétés concernés ou lorsque ces dernières ne respectent pas les dispositions prévues par les articles L. 214-121 et L. 214-123 à L. 214-125 du code monétaire et financier.
 
 Toutefois, la réduction d'impôt n'est pas reprise :
 

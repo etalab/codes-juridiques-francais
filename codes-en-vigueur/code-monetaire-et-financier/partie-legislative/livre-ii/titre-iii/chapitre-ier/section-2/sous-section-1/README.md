@@ -1,4 +1,4 @@
-# Sous-section 1 : Dispositions relatives aux organismes de placement collectif en valeurs mobilières, aux fonds communs de créances et aux organismes de placement collectif immobilier
+# Sous-section 1 : Dispositions relatives aux OPCVM, aux fonds communs de créances et aux organismes de placement collectif immobilier
 
 - [Article L231-3](article-l231-3.md)
 - [Article L231-4](article-l231-4.md)

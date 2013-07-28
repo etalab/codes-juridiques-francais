@@ -14,7 +14,7 @@ d. Les opérations, y compris la négociation, portant sur les devises, les bill
 
 e. Les opérations, autres que celles de garde et de gestion portant sur les actions, les parts de sociétés ou d'associations, les obligations et les autres titres, à l'exclusion des titres représentatifs de marchandises et des parts d'intérêt dont la possession assure en droit ou en fait l'attribution en propriété ou en jouissance d'un bien immeuble ou d'une fraction d'un bien immeuble ;
 
-f. La gestion des organismes de placement collectif en valeurs mobilières et de fonds communs de créances ;
+f. La gestion des organismes de placement collectif en valeurs mobilières et des placements collectifs relevant des paragraphes 1, 2 et 6 de la sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3, ou de la sous-section 4 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier  et de fonds communs de créances ;
 
 g. Les opérations relatives à l'or, autre que l'or à usage industriel, lorsqu'elles sont réalisées par les établissements de crédit, prestataires de services d'investissement, changeurs, escompteurs et remisiers, ou par toute autre personne qui en fait son activité principale ;
 

@@ -2,7 +2,7 @@
 
 I.-Les dispositions du I et des 4° à 9° du II de l'article 150 U s'appliquent :
 
-a) Aux plus-values réalisées lors de la cession de biens mentionnés au a du 1° du II de l'article L. 214-140 du code monétaire et financier par un fonds de placement immobilier mentionné à l'article 239 nonies ;
+a) Aux plus-values réalisées lors de la cession de biens mentionnés au a du 1° du II de l'article L. 214-81 du code monétaire et financier par un fonds de placement immobilier mentionné à l'article 239 nonies ;
 
 b) Aux plus-values de même nature réalisées par les sociétés ou groupements à prépondérance immobilière au sens de l'article 150 UB ou par un fonds de placement immobilier, détenus directement ou indirectement par un fonds de placement immobilier, pour la fraction correspondant à ses droits.
 

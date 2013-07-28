@@ -30,7 +30,7 @@ La location ne peut pas être conclue avec un membre du foyer fiscal, un ascenda
 
 La location doit prendre effet dans les douze mois suivant l'achèvement des travaux.
 
-IV bis.-1. La réduction d'impôt est applicable, dans les mêmes conditions, au titre de la souscription par les contribuables de parts de sociétés civiles de placement immobilier régies par les articles L. 214-50 et suivants du code monétaire et financier dont la quote-part de revenu est, en application de l'article 8 du présent code, soumise en leur nom à l'impôt sur le revenu dans la catégorie des revenus fonciers.
+IV bis.-1. La réduction d'impôt est applicable, dans les mêmes conditions, au titre de la souscription par les contribuables de parts de sociétés civiles de placement immobilier régies par les articles L. 214-114 et suivants du code monétaire et financier dont la quote-part de revenu est, en application de l'article 8 du présent code, soumise en leur nom à l'impôt sur le revenu dans la catégorie des revenus fonciers.
 
 La réduction d'impôt, qui n'est pas applicable aux titres dont le droit de propriété est démembré, est subordonnée à la condition qu'au minimum 65 % du montant de la souscription servent exclusivement à financer des dépenses mentionnées au I et que 30 % au minimum servent exclusivement à financer l'acquisition d'immeubles mentionnés au même I. Le produit de la souscription doit être intégralement affecté dans les dix-huit mois qui suivent la clôture de celle-ci.
 

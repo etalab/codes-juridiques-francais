@@ -8,7 +8,7 @@ a) Au logement que le contribuable fait construire et qui fait l'objet d'un dép
 
 b) Au logement que le contribuable acquiert entre le 1er janvier 2009 et le 31 décembre 2012 et qui fait ou qui a fait l'objet, entre ces mêmes dates, de travaux concourant à la production ou à la livraison d'un immeuble neuf au sens du 2° du 2 du I de l'article 257 ;
 
-c) Au logement qui ne satisfait pas aux caractéristiques de décence, prévues à l'article 6 de la loi n° 89-462 du  6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986, que le contribuable acquiert entre le 1er janvier 2009 et le 31 décembre 2012 et qui fait l'objet, entre ces mêmes dates, de travaux de réhabilitation définis par décret permettant au logement d'acquérir des performances techniques voisines de celles d'un logement neuf ou que le contribuable acquiert en 2012 et qui a fait l'objet, entre ces mêmes dates, de tels travaux ;
+c) Au logement qui ne satisfait pas aux caractéristiques de décence, prévues à l'article 6 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986, que le contribuable acquiert entre le 1er janvier 2009 et le 31 décembre 2012 et qui fait l'objet, entre ces mêmes dates, de travaux de réhabilitation définis par décret permettant au logement d'acquérir des performances techniques voisines de celles d'un logement neuf ou que le contribuable acquiert en 2012 et qui a fait l'objet, entre ces mêmes dates, de tels travaux ;
 
 d) Au local affecté à un usage autre que l'habitation que le contribuable acquiert entre le 1er janvier 2009 et le 31 décembre 2012 et qui fait l'objet, entre ces mêmes dates, de travaux de transformation en logement ou que le contribuable acquiert en 2012 et qui a fait l'objet, entre ces mêmes dates, de tels travaux.
 
@@ -70,7 +70,7 @@ VII. ― La réduction d'impôt obtenue fait l'objet d'une reprise au titre de l
 
 2° Le démembrement du droit de propriété de l'immeuble concerné ou des parts. Toutefois, aucune remise en cause n'est effectuée lorsque le démembrement de ce droit ou le transfert de la propriété du bien résulte du décès de l'un des membres du couple soumis à imposition commune et que le conjoint survivant attributaire du bien ou titulaire de son usufruit s'engage à respecter les engagements prévus au I et, le cas échéant, au VIII, dans les mêmes conditions et selon les mêmes modalités, pour la période restant à courir à la date du décès.
 
-VIII. ― La réduction d'impôt est applicable, dans les mêmes conditions, à l'associé d'une société civile de placement immobilier régie par les articles L. 214-50 et suivants du code monétaire et financier dont la quote-part de revenu est, en application de l'article 8, soumise en son nom à l'impôt sur le revenu dans la catégorie des revenus fonciers.
+VIII. ― La réduction d'impôt est applicable, dans les mêmes conditions, à l'associé d'une société civile de placement immobilier régie par les articles L. 214-114 et suivants du code monétaire et financier dont la quote-part de revenu est, en application de l'article 8, soumise en son nom à l'impôt sur le revenu dans la catégorie des revenus fonciers.
 
 Le taux de la réduction d'impôt est de :
 
