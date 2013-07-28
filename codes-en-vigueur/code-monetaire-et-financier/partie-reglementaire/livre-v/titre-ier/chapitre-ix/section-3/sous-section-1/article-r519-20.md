@@ -14,4 +14,4 @@ article L. 233-3 du code de commerce
 
 4° Les procédures de recours et de réclamation, y compris, pour les réclamations, les coordonnées et l'adresse des personnes auxquelles elles doivent être transmises ;
 
-5° Les coordonnées et l'adresse de l'Autorité de contrôle prudentiel.
+5° Les coordonnées et l'adresse de l'Autorité de contrôle prudentiel et de résolution.

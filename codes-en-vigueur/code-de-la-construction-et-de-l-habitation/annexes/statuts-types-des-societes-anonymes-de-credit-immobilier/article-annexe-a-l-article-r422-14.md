@@ -14,13 +14,13 @@ Société anonyme de crédit immobilier.
 
 En application des dispositions de l'article L. 422-4 du code de la construction et de l'habitation, la société a pour objet :
 
-I. - A titre principal.
+I.-A titre principal.
 
 1° De consentir aux personnes physiques des prêts susceptibles d'ouvrir droit à l'aide personnalisée au logement, ainsi que des prêts complémentaires à ces prêts ;
 
 2° D'accorder tout prêt que la société sera habilitée à distribuer par arrêté conjoint du ministre chargé du logement et du ministre chargé du Trésor et aux fins mentionnées à l'article L. 411-1 du même code ;
 
-3° D'effectuer, pour le compte d'organismes d'H.L.M., le recouvrement des sommes dues par les acquéreurs de logements cédés dans les conditions prévues à l'article L. 443-13 ;
+3° D'effectuer, pour le compte d'organismes d'H. L. M., le recouvrement des sommes dues par les acquéreurs de logements cédés dans les conditions prévues à l'article L. 443-13 ;
 
 4° De réaliser des constructions pour l'accession à la propriété susceptibles d'être financées à l'aide de prêts pouvant ouvrir droit à l'aide personnalisée au logement ; ces constructions peuvent comprendre les dépendances et annexes définies à l'article L. 411-1 du code de la construction et de l'habitation.
 
@@ -36,19 +36,19 @@ La société peut consentir aux sociétés visées ci-dessus des avances rémun�
 
 6° De réaliser des hébergements de loisirs à vocation sociale dans les conditions définies à l'article L. 421-1 et précisées aux articles R. 421-4 et R. 421-4-1 du code de la construction et de l'habitation ;
 
-7° De prendre, dans le respect des dispositions prévues à cet effet par la clause 5 ci-après, des participations dans d'autres sociétés de crédit immobilier, des sociétés anonymes d'habitations à loyer modéré, des sociétés coopératives d'habitations à loyer modéré ou des sociétés d'économie mixte d'aménagement et de construction, dans les conditions prévues à l'article R. 423-75-1 du code de la construction et de l'habitation, et de consentir, à celles d'entre ces sociétés dans lesquelles la société détient au moins 5 p. 100 du capital, des prêts ou avances rémunérés dans les conditions fixées par la chambre syndicale des sociétés anonymes de crédit immobilier, et de leur délivrer avals, cautions et garanties, à l'exception de la garantie de bon achèvement mentionnée ci-dessus ;
+7° De prendre, dans le respect des dispositions prévues à cet effet par la clause 5 ci-après, des participations dans d'autres sociétés de crédit immobilier, des sociétés anonymes d'habitations à loyer modéré, des sociétés coopératives d'habitations à loyer modéré ou des sociétés d'économie mixte d'aménagement et de construction, dans les conditions prévues à l'article R. 423-75-1 du code de la construction et de l'habitation, et de consentir, à celles d'entre ces sociétés dans lesquelles la société détient au moins 5 % du capital, des prêts ou avances rémunérés dans les conditions fixées par la chambre syndicale des sociétés anonymes de crédit immobilier, et de leur délivrer avals, cautions et garanties, à l'exception de la garantie de bon achèvement mentionnée ci-dessus ;
 
 8° De réaliser des opérations de prestation de services dans les domaines suivants :
 
 1. Assistance de personnes physiques accédant à la propriété à l'aide de prêts susceptibles d'ouvrir droit à l'aide personnalisée au logement, pour tout ou partie des opérations juridiques, administratives, financières, foncières et techniques nécessaires à la réalisation de leur construction ;
 
-2. Gestion de prêts d'accession à la propriété pour le compte d'autres organismes H.L.M. ;
+2. Gestion de prêts d'accession à la propriété pour le compte d'autres organismes H. L. M. ;
 
 3. Exécution des fonctions de syndic ou d'administrateur de biens, sur demande des copropriétaires intéressés, à l'égard des immeubles réalisés en application du I de la présente clause.
 
 4. Maîtrise d'ouvrage et conduite d'opérations pour le compte d'autres organismes d'habitations à loyer modéré.
 
-II. - A titre accessoire.
+II.-A titre accessoire.
 
 La société a pour objet :
 
@@ -56,7 +56,7 @@ La société a pour objet :
 
 2° De construire, de faire construire ou d'acquérir des logements ainsi que leurs annexes et accessoires, de réaliser ou faire réaliser des travaux dans des logements ou dans leurs annexes et accessoires, de gérer et de vendre des logements et leurs annexes ou accessoires ;
 
-3° De réaliser pour son compte ou pour le compte de tiers, toutes opérations d'aménagement définies au code de l'urbanisme, avec l'accord de la (ou des) collectivité(s) locale(s) concernée(s) ;
+3° De réaliser pour son compte ou pour le compte de tiers, toutes opérations d'aménagement définies au code de l'urbanisme, avec l'accord de la (ou des) collectivité (s) locale (s) concernée (s) ;
 
 4° De réaliser, pour le compte de personnes physiques ou morales, toutes opérations de prestation de services liées à l'activité de crédit effectuée en application du 1° ci-dessus, ou liées aux activités d'acquisition, de construction, de réalisation de travaux, de gestion ou de vente visées au 2° ci-dessus ;
 
@@ -64,13 +64,13 @@ La société a pour objet :
 
 6° De consentir aux filiales constituées en application de l'alinéa précédent des prêts ou avances, rémunérés dans des conditions fixées par la chambre syndicale des sociétés anonymes de crédit immobilier et de leur délivrer des avals, cautions et garanties, à l'exception de la garantie de bon achèvement mentionnée ci-dessus.
 
-La société ne pourra réaliser chaque année, au titre des opérations accessoires telles que définies ci-dessus, qu'au plus 20 p. 100 de son chiffre d'affaires calculé en prenant en compte :
+La société ne pourra réaliser chaque année, au titre des opérations accessoires telles que définies ci-dessus, qu'au plus 20 % de son chiffre d'affaires calculé en prenant en compte :
 
-- la totalité des produits d'exploitation de l'année en cause, non compris le produit des ventes immobilières réalisées directement par la société ;
+-la totalité des produits d'exploitation de l'année en cause, non compris le produit des ventes immobilières réalisées directement par la société ;
 
-- 10 p. 100 du produit des ventes immobilières réalisées directement par la société, dans l'année en cause, augmentés de 10 p. 100 du produit des ventes immobilières que la société a réalisées au cours de chacune des neuf années précédant l'année en cause, ce dernier produit n'étant pris en compte que pour les ventes réalisées lors d'exercices ouverts après la publication du décret n° 92-529 du 15 juin 1992.
+-10 % du produit des ventes immobilières réalisées directement par la société, dans l'année en cause, augmentés de 10 % du produit des ventes immobilières que la société a réalisées au cours de chacune des neuf années précédant l'année en cause, ce dernier produit n'étant pris en compte que pour les ventes réalisées lors d'exercices ouverts après la publication du décret n° 92-529 du 15 juin 1992.
 
-Si les activités accessoires dépassent la limite de 20 p. 100 définie aux alinéas précédents, ces opérations doivent être réalisées dans des sociétés filiales, constituées dans les conditions fixées à la clause 5 ci-dessous.
+Si les activités accessoires dépassent la limite de 20 % définie aux alinéas précédents, ces opérations doivent être réalisées dans des sociétés filiales, constituées dans les conditions fixées à la clause 5 ci-dessous.
 
 Les activités accessoires ne peuvent avoir pour effet de constituer un patrimoine locatif pour la société ni pour les sociétés dans lesquelles elle prend des participations.
 
@@ -126,23 +126,23 @@ En revanche, la société peut détenir des participations dans des organismes d
 
 Les établissements de crédit que la société contrôle, seule ou avec d'autres sociétés anonymes de crédit immobilier, au sens de l'article 355-1 de la loi du 24 juillet 1966 précitée, sont affiliés au réseau prévu par l'article L. 422-4-1 du code de la construction et de l'habitation.
 
-En application du quatrième alinéa de l'article L. 422-4-1 et du deuxième alinéa de l'article L. 422-4-2 du code de la construction et de l'habitation, les statuts de ces établissements de crédit contiennent les quatre premiers alinéas de la clause 5 des présents statuts et les quatre premiers alinéas de la clause 7 et les clauses 8, 9 et 16 desdits statuts. Toutefois, la limitation du prix de cession des actions, prévue au quatrième alinéa du I de la clause 8 et au dernier alinéa du II de la même clause, ne s'applique pas aux cessions d'actions de ces établissements.
+En application du quatrième alinéa de l'article L. 422-4-1 et du deuxième alinéa de l'article L. 422-4-2 du code de la construction et de l'habitation, les statuts de ces établissements de crédit contiennent les quatre premiers alinéas de la clause 5 des présents statuts et les quatre premiers alinéas de la clause 7 et les clauses 8,9 et 16 desdits statuts. Toutefois, la limitation du prix de cession des actions, prévue au quatrième alinéa du I de la clause 8 et au dernier alinéa du II de la même clause, ne s'applique pas aux cessions d'actions de ces établissements.
 
-A l'occasion et pour les besoins d'un contrôle ou d'une inspection de la ou des société(s) anonyme(s) de crédit immobilier détentrice(s) de leur capital, les sociétés dans lesquelles la société détient des participations peuvent être contrôlées par la l'Autorité de contrôle prudentiel en application de la loi du 24 janvier 1984 précitée, par l'administration en application de l'article L. 451-1 du code de la construction et de l'habitation, ou par la chambre syndicale des sociétés anonymes de crédit immobilier en application de la loi du 15 mai 1991 précitée.
+A l'occasion et pour les besoins d'un contrôle ou d'une inspection de la ou des société (s) anonyme (s) de crédit immobilier détentrice (s) de leur capital, les sociétés dans lesquelles la société détient des participations peuvent être contrôlées par la l'Autorité de contrôle prudentiel et de résolution en application de la loi du 24 janvier 1984 précitée, par l'administration en application de l'article L. 451-1 du code de la construction et de l'habitation, ou par la chambre syndicale des sociétés anonymes de crédit immobilier en application de la loi du 15 mai 1991 précitée.
 
-6. Compétence territoriale - Siège social.
+6. Compétence territoriale-Siège social.
 
 L'activité de la société s'exerce sur la région de son siège.
 
 Elle peut être également étendue par application des dispositions des articles R. 422-10 et R. 422-11 du code de la construction et de l'habitation.
 
-Le siège de la société est fixé à : ....
+Le siège de la société est fixé à :....
 
 Il ne peut être transféré qu'à l'intérieur de la ou des régions où la société exerce sa compétence.
 
 7. Composition et modification du capital.
 
-Le capital social de la société est composé de ... actions de ... F chacune, entièrement libérées.
+Le capital social de la société est composé de... actions de... F chacune, entièrement libérées.
 
 Le conseil d'administration (du directoire) (1) ne peut convoquer une assemblée générale en vue de décider une augmentation de capital social qu'après avoir obtenu l'agrément de la chambre syndicale sur l'augmentation projetée ; cet agrément est sollicité par le conseil d'administration (de surveillance) (1), et délivré, dans les conditions et délais fixés au troisième alinéa de la clause 5 des présents statuts.
 
@@ -158,7 +158,7 @@ La société ne peut procéder à l'amortissement de son capital.
 
 8. Cessions d'actions.
 
-I. - Agrément par la société.
+I.-Agrément par la société.
 
 Le prix de cession des actions ne peut dépasser celui fixé en application de l'article L. 423-4 du code de la construction et de l'habitation, sauf dérogation accordée dans les conditions prévues par cet article.
 
@@ -168,25 +168,25 @@ L'agrément de la cession est acquis ou réputé tel en cas de décision favorab
 
 Il est conféré sous condition suspensive de l'agrément de l'organe central prévu au II ci-dessous, si celui-ci est requis.
 
-En cas de refus d'agrément, le conseil d'administration (ou de surveillance) est tenu, dans un délai de deux mois à compter de son refus, de faire acquérir les actions soit par un actionnaire, soit par une ou plusieurs personnes qu'il aura désignée(s) ou agréée(s). Dans ce cas, le prix ne peut être inférieur à celui de la cession non autorisée.
+En cas de refus d'agrément, le conseil d'administration (ou de surveillance) est tenu, dans un délai de deux mois à compter de son refus, de faire acquérir les actions soit par un actionnaire, soit par une ou plusieurs personnes qu'il aura désignée (s) ou agréée (s). Dans ce cas, le prix ne peut être inférieur à celui de la cession non autorisée.
 
-II. - Agrément par la chambre syndicale.
+II.-Agrément par la chambre syndicale.
 
 A chaque fois qu'un transfert d'actions conduit à donner à un actionnaire, agissant seuk ou de concert avec un ou plusieurs autres actionnaires, un nombre d'actions représentant plus du dixième, du cinquième, du tiers, de la moitié ou des deux tiers du capital ou des droits de vote, il est également agréé par la chambre syndicale.
 
 Dans ce cas, le projet de cession est alors notifié par pli recommandé avec avis de réception, à la chambre syndicale des sociétés anonymes de crédit immobilier :
 
-- par la société, en cas de transfert d'actions entre actionnaires ;
+-par la société, en cas de transfert d'actions entre actionnaires ;
 
-- par le conseil d'administration (ou de surveillance), lorsqu'il a agréé une cession ou proposé l'acquisition par un autre acheteur, en cas de cession à un tiers non actionnaire.
+-par le conseil d'administration (ou de surveillance), lorsqu'il a agréé une cession ou proposé l'acquisition par un autre acheteur, en cas de cession à un tiers non actionnaire.
 
 Cette notification est effectuée dans les dix jours qui suivent :
 
-- soit par la décision expresse favorable du conseil d'administration (ou de surveillance) en cas d'agrément exprès par le conseil ;
+-soit par la décision expresse favorable du conseil d'administration (ou de surveillance) en cas d'agrément exprès par le conseil ;
 
-- soit l'expiration du délai de deux mois mentionné au deuxième alinéa du I, en cas d'agrément tacite du conseil ; soit, en cas d'acquisition par un acquéreur proposé par le conseil, la désignation par le conseil de ce nouvel acquéreur ;
+-soit l'expiration du délai de deux mois mentionné au deuxième alinéa du I, en cas d'agrément tacite du conseil ; soit, en cas d'acquisition par un acquéreur proposé par le conseil, la désignation par le conseil de ce nouvel acquéreur ;
 
-- soit la date à laquelle la société est informée du transfert d'actions, en cas de transfert d'actions entre actionnaires.
+-soit la date à laquelle la société est informée du transfert d'actions, en cas de transfert d'actions entre actionnaires.
 
 La chambre syndicale dispose pour notifier sa décision d'un délai de quatre mois à compter de la réception de la notification mentionnée ci-dessus.
 
@@ -256,7 +256,7 @@ En cas de report de l'assemblée générale des actionnaires, la décision de ju
 
 13. Résultat d'exercice et réserves.
 
-Lorsque la société a réalisé un bénéfice distribuable au sens de l'article 346 de la loi du 24 juillet 1966 précité, il peut être distribué un dividende, qui, exprimé en pourcentage du capital nominal, ne peut être supérieur à 90 p. 100 du taux de rendement des emprunts d'Etat à l'émission (T.M.E.) publié mensuellement à la cote officielle de la Société des bourses françaises.
+Lorsque la société a réalisé un bénéfice distribuable au sens de l'article 346 de la loi du 24 juillet 1966 précité, il peut être distribué un dividende, qui, exprimé en pourcentage du capital nominal, ne peut être supérieur à 90 p. 100 du taux de rendement des emprunts d'Etat à l'émission (T. M. E.) publié mensuellement à la cote officielle de la Société des bourses françaises.
 
 Le bénéfice non distribué est affecté à une réserve spéciale destinée à assurer le développement de l'activité de la société.
 
@@ -266,11 +266,11 @@ Conformément à l'article L. 423-5 du code de la construction et de l'habitatio
 
 14. Gestion comptable de la société.
 
-Lorsque la société a réalisé un bénéfice distribuable au sens de l'article 346 de la loi du 24 juillet 1966 précité, il peut être distribué un dividende, qui, exprimé en pourcentage du capital nominal, ne peut être supérieur à 90 p. 100 du taux de rendement des emprunts d'Etat à l'émission (T.M.E.) publié mensuellement à la cote officielle de la Société des bourses françaises.
+Lorsque la société a réalisé un bénéfice distribuable au sens de l'article 346 de la loi du 24 juillet 1966 précité, il peut être distribué un dividende, qui, exprimé en pourcentage du capital nominal, ne peut être supérieur à 90 p. 100 du taux de rendement des emprunts d'Etat à l'émission (T. M. E.) publié mensuellement à la cote officielle de la Société des bourses françaises.
 
 Le bénéfice non distribué est affecté à une réserve spéciale destinée à assurer le développement de l'activité de la société.
 
-15. Cessions d'actifs - Attribution de l'actif.
+15. Cessions d'actifs-Attribution de l'actif.
 
 Au cours de la vie sociale les cessions d'actifs de la société sont soumis à l'agrément préalable de la chambre syndicale des sociétés anonymes de crédit immobilier, sollicité et accordé dans les conditions fixées à la clause 5 des présents statuts.
 

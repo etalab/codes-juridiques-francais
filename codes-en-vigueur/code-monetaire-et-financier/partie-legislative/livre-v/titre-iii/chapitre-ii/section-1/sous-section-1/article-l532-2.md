@@ -1,6 +1,6 @@
 # Article L532-2
 
-Pour délivrer l'agrément à une entreprise d'investissement, l'Autorité de contrôle prudentiel vérifie si celle-ci :
+Pour délivrer l'agrément à une entreprise d'investissement, l'Autorité de contrôle prudentiel et de résolution vérifie si celle-ci :
 
 1. A son siège social et sa direction effective en France ;
 
@@ -12,7 +12,7 @@ Pour délivrer l'agrément à une entreprise d'investissement, l'Autorité de co
 
 5. Dispose d'un programme d'activité pour chacun des services qu'elle entend exercer qui précise les conditions dans lesquelles elle envisage de fournir les services d'investissement concernés et indique le type d'opérations envisagées et la structure de son organisation ;
 
-6. Adhère à un mécanisme de garantie des titres géré par le Fonds de garantie des dépôts conformément aux articles L. 322-1 à L. 322-4.
+6. Adhère à un mécanisme de garantie des titres géré par le Fonds de garantie des dépôts et de résolution conformément aux articles L. 322-1 à L. 322-4.
 
 L'Autorité peut assortir l'agrément de conditions particulières visant à préserver l'équilibre de la structure financière de l'entreprise. L'Autorité peut également subordonner l'octroi de l'agrément au respect d'engagements souscrits par l'entreprise requérante.
 

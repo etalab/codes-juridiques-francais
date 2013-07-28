@@ -114,7 +114,7 @@ IV.-L'assureur doit également indiquer, pour les contrats d'assurance vie les i
 
 V.-Un décret en Conseil d'Etat fixe les informations communiquées au souscripteur en cas de communication par téléphonie vocale.
 
-VI.-Les infractions aux dispositions du présent article sont constatées et sanctionnées par l'Autorité de contrôle prudentiel dans les conditions prévues à la section 2 du chapitre unique du titre Ier du livre III.
+VI.-Les infractions aux dispositions du présent article sont constatées et sanctionnées par l'Autorité de contrôle prudentiel et de résolution dans les conditions prévues à la section 2 du chapitre unique du titre Ier du livre III.
 
 Les infractions constituées par l'absence matérielle des éléments d'information prévus au III du présent article, ainsi que le refus de l'assureur de rembourser le souscripteur personne physique dans les conditions fixées à l'article L. 121-20-13 du code de la consommation peuvent également être constatées et poursuivies dans les conditions prévues à l'article L. 121-20-17 du même code.
 
