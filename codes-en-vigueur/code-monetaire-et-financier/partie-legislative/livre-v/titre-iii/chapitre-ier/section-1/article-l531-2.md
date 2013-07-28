@@ -10,7 +10,7 @@ c) L'Institut d'émission des départements d'outre-mer et l'Institut d'émissio
 
 2° a) Les entreprises d'assurance et de réassurance régies par le code des assurances ;
 
-b) Les organismes de placement collectif mentionnés à l'article L. 214-1, ainsi que les sociétés chargées de la gestion des organismes de placement collectif mentionnés aux 2,3 et 4 du I de l'article L. 214-1 ;
+b) Les organismes de placement collectif mentionnés au II de l'article L. 214-1, ainsi que les sociétés chargées de la gestion des FIA relevant du paragraphe 4 de la sous-section 2, et de la sous-section 5 de la section 2 du chapitre IV du titre Ier du livre II ;
 
 c) Les institutions de retraites professionnelles mentionnées à l'article L. 370-1 du code des assurances pour leurs opérations mentionnées à l'article L. 370-2 du même code, ainsi que les personnes morales administrant une institution de retraite professionnelle mentionnée à l'article 8 de l'ordonnance n° 2006-344 du 23 mars 2006 relative aux retraites professionnelles supplémentaires ;
 
@@ -35,3 +35,5 @@ l) Les personnes, autres que les conseillers en investissements financiers, four
 m) Les personnes dont l'activité principale consiste à négocier pour compte propre des marchandises ou des instruments dérivés sur marchandises. La présente exception ne s'applique pas lorsque la personne qui négocie pour compte propre des marchandises ou des instruments dérivés sur marchandises fait partie d'un groupe, au sens du III de l'article L. 511-20, dont l'activité principale est la fourniture de services d'investissement, la réalisation d'opérations de banque ou la fourniture de services de paiement ;
 
 n) Les entreprises dont les services d'investissement consistent exclusivement à négocier pour compte propre sur des marchés d'instruments financiers à terme, ou sur des marchés au comptant aux seules fins de couvrir des positions sur des marchés dérivés, ou qui négocient ou assurent la formation des prix pour le compte d'autres membres de ces marchés, et qui sont couvertes par la garantie d'un adhérent d'une chambre de compensation, lorsque la responsabilité des contrats conclus par ces entreprises est assumée par un adhérent d'une chambre de compensation.
+
+Les filiales mentionnées à l'article L. 511-47 ne peuvent bénéficier de l'exemption d'agrément prévue au présent article.
