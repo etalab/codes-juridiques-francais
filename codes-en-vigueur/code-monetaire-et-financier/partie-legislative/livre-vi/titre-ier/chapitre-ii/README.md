@@ -1,4 +1,4 @@
-# Chapitre II : L'Autorité de contrôle prudentiel
+# Chapitre II : L'Autorité de contrôle prudentiel et de résolution
 
 - [Section 1 : Missions et champ d'application](section-1)
 - [Section 2 : Composition et fonctionnement](section-2)
