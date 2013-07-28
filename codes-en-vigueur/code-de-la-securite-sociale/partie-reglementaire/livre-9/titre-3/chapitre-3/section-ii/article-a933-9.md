@@ -10,4 +10,4 @@ Les autorités compétentes collectent et s'échangent des informations concoura
 
 En cas d'urgence, ou lorsque cette consultation risque de compromettre l'efficacité de la décision, une autorité compétente peut décider de ne pas consulter ses homologues, sous réserve de les informer sans délai de cette décision.
 
-3° l'Autorité de contrôle prudentiel coopère étroitement avec les autres autorités compétentes en vue de rechercher l'effectivité des sanctions ou mesures adoptées conformément aux articles L. 933-4-13 et L. 933-4-14.
+3° l'Autorité de contrôle prudentiel et de résolution coopère étroitement avec les autres autorités compétentes en vue de rechercher l'effectivité des sanctions ou mesures adoptées conformément aux articles L. 933-4-13 et L. 933-4-14.

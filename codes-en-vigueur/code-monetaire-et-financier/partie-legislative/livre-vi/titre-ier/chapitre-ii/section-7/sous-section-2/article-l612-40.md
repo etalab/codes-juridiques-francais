@@ -1,6 +1,6 @@
 # Article L612-40
 
-S'il apparaît qu'une compagnie financière ou une compagnie financière holding mixte a enfreint les dispositions législatives et réglementaires afférentes à son activité, la commission des sanctions peut prononcer à son encontre, en fonction de la gravité du manquement, un avertissement, un blâme, la suspension temporaire d'un ou plusieurs dirigeants, avec ou sans nomination d'administrateur provisoire, ou la démission d'office d'un ou plusieurs dirigeants, avec ou sans nomination d'administrateur provisoire.
+S'il apparaît qu'une compagnie financière ou une compagnie financière holding mixte a enfreint les dispositions européennes, législatives et réglementaires afférentes à son activité, la commission des sanctions peut prononcer à son encontre, en fonction de la gravité du manquement, un avertissement, un blâme, la suspension temporaire d'un ou plusieurs dirigeants, avec ou sans nomination d'administrateur provisoire, ou la démission d'office d'un ou plusieurs dirigeants, avec ou sans nomination d'administrateur provisoire.
 
 Lorsque la procédure de sanction engagée peut conduire à l'application à des dirigeants d'une suspension ou d'une démission d'office, la formation de l'Autorité qui a décidé de l'engagement de la procédure l'indique expressément dans la notification de griefs, en précisant les éléments susceptibles de fonder leur responsabilité directe et personnelle dans les manquements ou infractions en cause, et la commission des sanctions veille au respect à leur égard du caractère contradictoire de la procédure.
 

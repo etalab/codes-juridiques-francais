@@ -20,4 +20,4 @@ La liste des documents dont une copie a été délivrée lui est annexée.
 
 Le procès-verbal est signé par les agents des douanes ayant procédé au contrôle ainsi que par le changeur manuel ou, s'il s'agit d'une personne morale, son représentant. La personne intéressée peut faire valoir ses observations dans un délai de trente jours. Celles-ci sont jointes au dossier. En cas de refus de signer, mention en est faite au procès-verbal. Copie de celui-ci est remise à l'intéressé.
 
-V.-Le procès-verbal ainsi que le ou les comptes rendus d'audition et les observations du changeur manuel sont transmis dans les meilleurs délais à l'Autorité de contrôle prudentiel.
+V.-Le procès-verbal ainsi que le ou les comptes rendus d'audition et les observations du changeur manuel sont transmis dans les meilleurs délais à l'Autorité de contrôle prudentiel et de résolution.

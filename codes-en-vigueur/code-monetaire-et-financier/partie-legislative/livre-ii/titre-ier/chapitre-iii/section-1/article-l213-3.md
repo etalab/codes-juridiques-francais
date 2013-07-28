@@ -24,6 +24,8 @@ Sont habilités à émettre des titres de créances négociables :
 
 11. Les organismes de titrisation ;
 
-12.L'Agence centrale des organismes de sécurité sociale.
+12. L'Agence centrale des organismes de sécurité sociale ;
 
-Un décret précise les conditions que doivent remplir les émetteurs mentionnés aux 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 et 12 et fixe les conditions d'émission des titres de créances négociables.
+13. Les centres hospitaliers régionaux dont la liste est fixée par décret, dans la limite d'un plafond global d'émissions fixé pour chacun d'entre eux par le même décret.
+
+Un décret précise les conditions que doivent remplir les émetteurs mentionnés aux 2 à 13 et fixe les conditions d'émission des titres de créances négociables.

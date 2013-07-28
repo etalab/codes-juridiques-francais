@@ -8,7 +8,7 @@ I. - Le comité consultatif de la législation et de la réglementation financi�
 
 3° Un membre du Conseil d'Etat en activité, désigné sur proposition du vice-président du Conseil d'Etat ;
 
-4° Le gouverneur de la Banque de France, président de l'Autorité de contrôle prudentiel, ainsi qu'un autre membre de l'Autorité qu'il désigne, ou leurs représentants ;
+4° Le gouverneur de la Banque de France, président de l'Autorité de contrôle prudentiel et de résolution, ainsi qu'un autre membre de l'Autorité qu'il désigne, ou leurs représentants ;
 
 5° Le directeur des affaires civiles et du sceau au ministère de la justice, ou son représentant ;
 

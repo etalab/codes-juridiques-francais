@@ -6,4 +6,4 @@ Les arrêtés du ministre chargé de l'économie pris en application des article
 
 Les services financiers de l'office des postes et télécommunications sont soumis aux vérifications de l'inspection générale des finances.
 
-Le titre VI du livre V relatif à la lutte contre le blanchiment de capitaux, à l'exception de l'article L. 563-2, ainsi que le chapitre IV du titre VII du même livre sont applicables à l'office des postes et télécommunications. En cas de méconnaissance par l'office de ses obligations à ce titre, l'inspection générale des finances peut saisir l'Autorité de contrôle prudentiel pour faire prononcer une des sanctions prévues à l'article L. 612-39.
+Le titre VI du livre V relatif à la lutte contre le blanchiment de capitaux, à l'exception de l'article L. 563-2, ainsi que le chapitre IV du titre VII du même livre sont applicables à l'office des postes et télécommunications. En cas de méconnaissance par l'office de ses obligations à ce titre, l'inspection générale des finances peut saisir l'Autorité de contrôle prudentiel et de résolution pour faire prononcer une des sanctions prévues à l'article L. 612-39.

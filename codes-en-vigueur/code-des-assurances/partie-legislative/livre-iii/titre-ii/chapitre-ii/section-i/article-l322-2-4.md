@@ -4,4 +4,4 @@ A la clôture de chaque exercice, le conseil d'administration ou le directoire �
 
 Les dispositions du premier alinéa sont applicables aux entreprises mentionnées au 1° de l'article L. 310-2 et à l'article L. 310-1-1, ainsi qu'aux succursales des entreprises étrangères mentionnées aux 3° et 4° de l'article L. 310-2. Pour ces dernières, le rapport de solvabilité est établi par le mandataire général représentant la société.
 
-Le rapport de solvabilité mentionné au premier alinéa est communiqué aux commissaires aux comptes et à         l'Autorité de contrôle prudentiel.
+Le rapport de solvabilité mentionné au premier alinéa est communiqué aux commissaires aux comptes et à l'Autorité de contrôle prudentiel et de résolution.

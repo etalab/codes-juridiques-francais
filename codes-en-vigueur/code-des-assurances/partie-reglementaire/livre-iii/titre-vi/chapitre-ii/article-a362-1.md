@@ -4,11 +4,11 @@ I. Les informations requises visées à l'article L. 362-1 doivent être rédig�
 
 a) La dénomination et l'adresse du siège social de l'entreprise ;
 
-b) L'adresse de la succursale en France, à laquelle l'Autorité de contrôle prudentiel et le ministre chargé de l'économie et des finances peuvent demander des informations pour l'exercice de leurs compétences ;
+b) L'adresse de la succursale en France, à laquelle l'Autorité de contrôle prudentiel et de résolution et le ministre chargé de l'économie et des finances peuvent demander des informations pour l'exercice de leurs compétences ;
 
 c) Le nom et les pouvoirs du mandataire général ;
 
-d) Un programme d'activité comportant les pièces mentionnées aux a et g (1, 3, 4, 5, 6 et 7) de l'article A. 321-1 ;
+d) Un programme d'activité comportant les pièces mentionnées aux a et g (1,3,4,5,6 et 7) de l'article A. 321-1 ;
 
 e) Dans le cas où l'entreprise se proposerait de couvrir les risques définis à la branche 10 de l'article R. 321-1, à l'exception de la responsabilité civile du transporteur, une attestation d'adhésion au bureau national d'assurance mentionné à l'article L. 421-15 du présent code et au Fonds national de garantie contre les accidents de circulation ;
 

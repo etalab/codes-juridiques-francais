@@ -2,7 +2,7 @@
 
 Tout membre d'un conseil d'administration et, selon le cas, d'un conseil de surveillance et toute personne qui à un titre quelconque participe à la direction ou à la gestion d'une entreprise d'investissement ou qui est employée par celle-ci est tenu au secret professionnel.
 
-Outre les cas où la loi le prévoit, le secret professionnel ne peut être opposé ni à l'Autorité de contrôle prudentiel, ni à la Banque de France, ni à l'autorité judiciaire agissant dans le cadre d'une procédure pénale.
+Outre les cas où la loi le prévoit, le secret professionnel ne peut être opposé ni à l'Autorité de contrôle prudentiel et de résolution, ni à la Banque de France, ni à l'autorité judiciaire agissant dans le cadre d'une procédure pénale.
 
 Les entreprises d'investissement peuvent par ailleurs communiquer des informations couvertes par le secret professionnel, d'une part, aux agences de notation pour les besoins de la notation des produits financiers et, d'autre part, aux personnes avec lesquelles elles négocient, concluent ou exécutent les opérations ci-après énoncées, dès lors que ces informations sont nécessaires à celles-ci :
 

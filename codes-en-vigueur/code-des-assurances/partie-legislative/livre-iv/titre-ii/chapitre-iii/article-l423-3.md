@@ -4,4 +4,4 @@ En cas de transfert de portefeuille, la partie des droits des assurés, souscrip
 
 Lorsque la procédure de transfert de portefeuille n'a pas abouti, les droits des assurés, souscripteurs de contrats, adhérents et bénéficiaires de prestations sont garantis par un versement, à leur profit, du fonds de garantie, dans les limites prévues par décret en Conseil d'Etat.
 
-Le fonds de garantie dispose d'un droit d'accès aux documents justificatifs du calcul de sa contribution, dont le montant est arrêté par         l'Autorité de contrôle prudentiel.
+Le fonds de garantie dispose d'un droit d'accès aux documents justificatifs du calcul de sa contribution, dont le montant est arrêté par l'Autorité de contrôle prudentiel et de résolution.

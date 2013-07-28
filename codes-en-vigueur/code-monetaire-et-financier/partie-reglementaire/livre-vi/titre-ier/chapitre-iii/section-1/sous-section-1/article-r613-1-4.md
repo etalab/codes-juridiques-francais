@@ -1,6 +1,6 @@
 # Article R613-1-4
 
-Pour prendre sa décision relative à l'importance significative de cette succursale, l'Autorité de contrôle prudentiel tient notamment compte, dans la mesure où ils sont pertinents, des éléments suivants :
+Pour prendre sa décision relative à l'importance significative de cette succursale, l'Autorité de contrôle prudentiel et de résolution tient notamment compte, dans la mesure où ils sont pertinents, des éléments suivants :
 
 1° La part de marché de la succursale en termes de dépôts si celle-ci est supérieure à 2 % des dépôts de l'Etat d'accueil ;
 

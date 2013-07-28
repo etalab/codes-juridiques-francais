@@ -1,8 +1,8 @@
 # Article L522-6
 
-I.-Avant de fournir des services de paiement, les établissements de paiement doivent obtenir un agrément qui est délivré par l'Autorité de contrôle prudentiel, après avis de la Banque de France au titre du troisième alinéa du I de l'article L. 141-4. Cet agrément ne peut être accordé qu'à une personne morale.
+I.-Avant de fournir des services de paiement, les établissements de paiement doivent obtenir un agrément qui est délivré par l'Autorité de contrôle prudentiel et de résolution, après avis de la Banque de France au titre du troisième alinéa du I de l'article L. 141-4. Cet agrément ne peut être accordé qu'à une personne morale.
 
-II.-Pour délivrer l'agrément à un établissement de paiement, l'Autorité de contrôle prudentiel vérifie que, compte tenu de la nécessité de garantir une gestion saine et prudente de l'établissement de paiement, celui-ci dispose pour son activité de prestation de services de paiement :
+II.-Pour délivrer l'agrément à un établissement de paiement, l'Autorité de contrôle prudentiel et de résolution vérifie que, compte tenu de la nécessité de garantir une gestion saine et prudente de l'établissement de paiement, celui-ci dispose pour son activité de prestation de services de paiement :
 
 a) D'un solide dispositif de gouvernement d'entreprise, comprenant notamment une structure organisationnelle claire avec un partage des responsabilités bien défini, transparent et cohérent ;
 
@@ -10,7 +10,7 @@ b) De procédures efficaces de détection, de gestion, de contrôle et de décla
 
 Ce dispositif et ces procédures sont proportionnés à la nature et à la complexité des services de paiement fournis par l'établissement de paiement.
 
-L'Autorité de contrôle prudentiel vérifie également si :
+L'Autorité de contrôle prudentiel et de résolution vérifie également si :
 
 a) L'établissement de paiement remplit les conditions de l'article L. 522-7 et du I de l'article L. 522-8 ;
 
@@ -18,4 +18,4 @@ b) Les personnes déclarées comme chargées de la direction effective de l'éta
 
 c) L'exercice de la mission de contrôle de l'entreprise requérante n'est pas susceptible d'être entravée soit par l'existence de liens de capital ou de contrôle directs ou indirects entre l'entreprise et d'autres personnes soit par l'existence de dispositions législatives ou réglementaires d'un Etat qui n'est pas partie à l'accord sur l'Espace économique européen et dont relèvent une ou plusieurs personnes.
 
-L'Autorité de contrôle prudentiel apprécie également, afin de garantir une gestion saine et prudente de l'établissement de paiement, la qualité des actionnaires ou associés qui détiennent une participation qualifiée.
+L'Autorité de contrôle prudentiel et de résolution apprécie également, afin de garantir une gestion saine et prudente de l'établissement de paiement, la qualité des actionnaires ou associés qui détiennent une participation qualifiée.

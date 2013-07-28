@@ -12,7 +12,7 @@ b) Un taux égal, pour chacune des échéances futures de paiement, à la moyenn
 
 -pour les autres actifs, coupons et amortissements d'obligation, 75 % du taux moyen semestriel des emprunts d'Etat si la date d'échéance considérée est inférieure à cinq ans, 60 % du taux moyen semestriel des emprunts d'Etat sinon ;
 
-c) Sur demande de l'entreprise et après accord de    l'Autorité de contrôle prudentiel, un taux égal au taux de rendement futur prudemment estimé des actifs affectés à la représentation des engagements réglementés.
+c) Sur demande de l'entreprise et après accord de l'Autorité de contrôle prudentiel et de résolution, un taux égal au taux de rendement futur prudemment estimé des actifs affectés à la représentation des engagements réglementés.
 
 2° Les provisions mathématiques à l'inventaire.
 

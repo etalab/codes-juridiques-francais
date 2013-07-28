@@ -1,6 +1,6 @@
 # Article R311-5
 
-I. - Le contrat de crédit prévu à l'article L. 311-18 est rédigé en caractères dont la hauteur ne peut être inférieure à celle du corps huit. Il comporte de manière claire et lisible, dans l'ordre précisé ci-dessous :
+I.-Le contrat de crédit prévu à l'article L. 311-18 est rédigé en caractères dont la hauteur ne peut être inférieure à celle du corps huit. Il comporte de manière claire et lisible, dans l'ordre précisé ci-dessous :
 
 1° L'identité et l'adresse géographique des parties contractantes ainsi que, le cas échéant, l'identité et l'adresse de l'intermédiaire de crédit concerné ;
 
@@ -60,10 +60,10 @@ a) La procédure de la médiation mentionnée à l'article L. 315-1 du code mon�
 
 b) Les dispositions de l'article L. 311-52 ;
 
-c) L'adresse de l'Autorité de contrôle prudentiel mentionnée à l'article L. 612-1 du code monétaire et financier et celle de l'autorité administrative chargée de la concurrence et de la consommation, au sens de l'article L. 141-1 du présent code ;
+c) L'adresse de l'Autorité de contrôle prudentiel et de résolution mentionnée à l'article L. 612-1 du code monétaire et financier et celle de l'autorité administrative chargée de la concurrence et de la consommation, au sens de l'article L. 141-1 du présent code ;
 
-II. - S'il y a paiement de frais et d'intérêts sans amortissement du capital, le contrat comprend un relevé des périodes et conditions de paiement des intérêts débiteurs et des frais annexes récurrents et non récurrents.
+II.-S'il y a paiement de frais et d'intérêts sans amortissement du capital, le contrat comprend un relevé des périodes et conditions de paiement des intérêts débiteurs et des frais annexes récurrents et non récurrents.
 
 Lorsque les échéances versées par l'emprunteur n'entraînent pas immédiatement un amortissement correspondant du montant total du crédit, mais servent à reconstituer le capital aux périodes et dans les conditions prévues par le contrat de crédit ou par un contrat accessoire, et que cette modalité d'exécution ne garantit pas le remboursement du montant total du crédit consenti, le contrat le précise expressément.
 
-III. - Le tableau mentionné au e du 6° du I indique les montants, périodes et conditions des échéances ainsi que la ventilation de chaque échéance entre l'amortissement du capital, les intérêts calculés sur la base du taux débiteur et, le cas échéant, les coûts additionnels. Si le taux d'intérêt n'est pas fixe ou si les coûts additionnels peuvent être modifiés en vertu du contrat de crédit, le tableau indique de manière claire et concise que les données mentionnées dans le tableau ne seront valables que jusqu'à la modification suivante du taux débiteur ou des coûts additionnels.
+III.-Le tableau mentionné au e du 6° du I indique les montants, périodes et conditions des échéances ainsi que la ventilation de chaque échéance entre l'amortissement du capital, les intérêts calculés sur la base du taux débiteur et, le cas échéant, les coûts additionnels. Si le taux d'intérêt n'est pas fixe ou si les coûts additionnels peuvent être modifiés en vertu du contrat de crédit, le tableau indique de manière claire et concise que les données mentionnées dans le tableau ne seront valables que jusqu'à la modification suivante du taux débiteur ou des coûts additionnels.

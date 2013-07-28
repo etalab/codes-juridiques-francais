@@ -1,4 +1,4 @@
-# Section II : Autorité de contrôle prudentiel.
+# Section II : Autorité de contrôle prudentiel et de résolution.
 
 - [Article L310-12](article-l310-12.md)
 - [Article L310-12-1](article-l310-12-1.md)

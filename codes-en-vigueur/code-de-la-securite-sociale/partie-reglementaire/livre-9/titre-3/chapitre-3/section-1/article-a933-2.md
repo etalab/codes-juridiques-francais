@@ -4,6 +4,6 @@ La déclaration des opérations mentionnées à l'article R. 933-6 est jointe au
 
 Chacune de ces opérations doit être déclarée en précisant l'organisme vendeur, l'organisme acheteur, la valeur comptable dans le premier, le prix de vente et la référence ayant permis d'établir celui-ci.
 
-Les opérations nouvelles visées à cet article sont déclarées à l'issue de chaque trimestre dans les 30 jours à l'Autorité de contrôle prudentiel.
+Les opérations nouvelles visées à cet article sont déclarées à l'issue de chaque trimestre dans les 30 jours à l'Autorité de contrôle prudentiel et de résolution.
 
 En outre, dans tous les cas, les rachats ou remboursements des titres et emprunts subordonnés effectués directement ou indirectement entre organismes apparentés du même ensemble formé par les institutions ou unions et les organismes auxquels elles sont apparentées ou subordonnées sont déclarés sans délai par l'institution ou union soumise à surveillance complémentaire.

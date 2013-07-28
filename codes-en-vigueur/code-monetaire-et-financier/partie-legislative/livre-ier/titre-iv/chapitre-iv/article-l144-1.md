@@ -8,4 +8,4 @@ Elle peut aussi communiquer ces renseignements aux entreprises d'assurance habil
 
 Elle établit au préalable les modalités de communication de ces renseignements et fixe les obligations déclaratives de ces entreprises.
 
-Les méthodes et modèles de notation du risque de ces entreprises sont transmis à l'Autorité de contrôle prudentiel.
+Les méthodes et modèles de notation du risque de ces entreprises sont transmis à l'Autorité de contrôle prudentiel et de résolution.

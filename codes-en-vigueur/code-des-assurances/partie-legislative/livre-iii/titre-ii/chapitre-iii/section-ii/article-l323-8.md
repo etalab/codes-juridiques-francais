@@ -4,7 +4,7 @@ Les mesures d'assainissement mentionnées à la présente section sont les mesur
 
 Lorsqu'elles sont prises en France, ces mesures sont, lorsqu'elles affectent ces droits :
 
-1° Les mesures mentionnées au 2°, 3° et 4° de l'article L. 612-33 du code monétaire et financier ;
+1° Les mesures mentionnées au 2°, 3° et 4° du I de l'article L. 612-33 du code monétaire et financier ;
 
 2° La sanction prévue au 3° de l'article L. 612-39 du code monétaire et financier ou le retrait partiel d'agrément mentionné au 6° du même article ;
 

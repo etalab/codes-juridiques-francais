@@ -10,6 +10,6 @@ Le calcul des provisions techniques de prestations d'incapacité de travail et d
 
 1° Une loi de survie en invalidité définie par la table TD 88-90 homologuée par l'arrêté du 27 avril 1993 réactualisant les tables de mortalité ;
 
-Toutefois, il est possible pour une entreprise d'assurances d'utiliser une loi de survie en invalidité établie par l'entreprise d'assurance et certifiée par un actuaire indépendant de cette entreprise, agréé à cet effet par l'une des associations d'actuaires reconnues par l'Autorité de contrôle prudentiel ;
+Toutefois, il est possible pour une entreprise d'assurances d'utiliser une loi de survie en invalidité établie par l'entreprise d'assurance et certifiée par un actuaire indépendant de cette entreprise, agréé à cet effet par l'une des associations d'actuaires reconnues par l'Autorité de contrôle prudentiel et de résolution ;
 
 2° Un taux d'actualisation qui ne peut excéder 60 % du taux moyen au cours des vingt-quatre derniers mois des emprunts de l'Etat français, sans pouvoir dépasser 3,5 %.

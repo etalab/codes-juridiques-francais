@@ -2,7 +2,7 @@
 
 COMPTE RENDU DETAILLE ANNUEL : RENSEIGNEMENTS GENERAUX.
 
-Les renseignements généraux du compte rendu détaillé annuel à produire à              l'Autorité de contrôle prudentiel par les institutions de prévoyance et les unions d'institutions de prévoyance sont les suivants :
+Les renseignements généraux du compte rendu détaillé annuel à produire à l'Autorité de contrôle prudentiel et de résolution par les institutions de prévoyance et les unions d'institutions de prévoyance sont les suivants :
 
 a) La dénomination sociale de l'institution ou de l'union, son adresse, la date de son agrément, les modifications apportées aux statuts en cours d'exercice et, si de telles modifications sont intervenues, un exemplaire à jour des statuts ;
 

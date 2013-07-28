@@ -1,4 +1,4 @@
-# Chapitre II : L'Autorité de contrôle prudentiel
+# Chapitre II : L'Autorité de contrôle prudentiel et de résolution
 
 - [Section 2 : Composition et fonctionnement](section-2)
 - [Section 3 : Moyens de fonctionnement](section-3)

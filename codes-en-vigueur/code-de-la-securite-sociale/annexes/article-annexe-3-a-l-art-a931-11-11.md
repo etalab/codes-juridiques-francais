@@ -4,7 +4,7 @@ MODELES TYPES DE COMPTES ANNUELS.
 
 3. ANNEXE.
 
-L'annexe est établie conformément aux dispositions de l'article 25 du décret n° 83-1020 du 29 novembre 1983 ; elle est constituée de toutes les informations d'importance significative permettant d'avoir une juste appréciation du patrimoine et de la situation financière de l'institution de prévoyance ou de l'union d'institutions de prévoyance, des risques qu'elle assume et de ses résultats. Sans préjudice des obligations légales et réglementaires qui leur sont applicables, la production de ces informations par les institutions ou les unions n'est requise que pour autant qu'elles ont une importance significative.L'annexe comporte notamment les éléments prévus ci-après.A chaque fois que ceci est utile à la compréhension, et notamment lorsque l'annexe donne le détail d'un poste de bilan ou du compte de résultat, les chiffres correspondants relatifs à l'exercice précédent sont indiqués de manière à pouvoir être directement comparés à ceux de l'exercice sous revue.
+L'annexe est établie conformément aux dispositions de l'article 25 du décret n° 83-1020 du 29 novembre 1983 ; elle est constituée de toutes les informations d'importance significative permettant d'avoir une juste appréciation du patrimoine et de la situation financière de l'institution de prévoyance ou de l'union d'institutions de prévoyance, des risques qu'elle assume et de ses résultats. Sans préjudice des obligations légales et réglementaires qui leur sont applicables, la production de ces informations par les institutions ou les unions n'est requise que pour autant qu'elles ont une importance significative.L'annexe comporte notamment les éléments prévus ci-après. A chaque fois que ceci est utile à la compréhension, et notamment lorsque l'annexe donne le détail d'un poste de bilan ou du compte de résultat, les chiffres correspondants relatifs à l'exercice précédent sont indiqués de manière à pouvoir être directement comparés à ceux de l'exercice sous revue.
 
 1. Informations sur le choix des méthodes utilisées.
 
@@ -38,7 +38,7 @@ Les institutions et les unions indiquent, pour chacune de ces catégories d'acti
 
 1. 3. Les institutions et les unions établissent un état détaillé et un état récapitulatif de l'ensemble des placements inscrits à leur bilan.L'état récapitulatif figure obligatoirement dans l'annexe.
 
-Lorsqu'une institution ou une union décide de ne pas le faire figurer dans l'annexe, l'état détaillé doit, dans les mêmes délais que les comptes annuels, être établi par l'institution ou l'union et communiqué aux commissaires aux comptes, qui en vérifient la sincérité et la concordance avec les comptes annuels dans les conditions définies au troisième alinéa de l'article L. 823-10 du code de commerce ; dans ce cas, l'état détaillé est délivré à toute personne qui en fait la demande et à              l'Autorité de contrôle prudentiel dans les conditions définies à l'article R. 931-11-8.
+Lorsqu'une institution ou une union décide de ne pas le faire figurer dans l'annexe, l'état détaillé doit, dans les mêmes délais que les comptes annuels, être établi par l'institution ou l'union et communiqué aux commissaires aux comptes, qui en vérifient la sincérité et la concordance avec les comptes annuels dans les conditions définies au troisième alinéa de l'article L. 823-10 du code de commerce ; dans ce cas, l'état détaillé est délivré à toute personne qui en fait la demande et à l'Autorité de contrôle prudentiel et de résolution dans les conditions définies à l'article R. 931-11-8.
 
 A.-L'état détaillé comporte :
 
@@ -64,7 +64,7 @@ j) Des tableaux pour les valeurs gérées par l'institution ou l'union et appart
 
 Dans chaque tableau, les valeurs et actifs sont groupés par rubrique correspondant à chaque compte divisionnaire (3 chiffres) ou, le cas échéant, sous-compte de la nomenclature des comptes (4 chiffres) présentés dans l'ordre du plan de comptes et comportant en clair l'intitulé du compte divisionnaire ou du sous-compte.
 
-Dans chaque rubrique, les actifs sont groupés en sous-rubrique par devise.A la fin de chaque sous-rubrique sont portés, sur des lignes distinctes, les éléments à déduire (part non libérée des titres, intérêts courus non échus), la totalisation des valeurs en devises et la contre-valeur en francs des totalisations au cours de change retenu pour l'établissement des comptes annuels (colonnes C, D, E, F, G).A la fin de chaque rubrique, figure une ligne de totalisation des valeurs ou contre-valeurs en francs français (colonnes C, D, E, F, G). Aucun actif ne peut figurer dans plus d'un seul tableau. Chacun des tableaux comporte une ligne de totalisation générale des valeurs ou contre-valeurs en francs français (C, D, E, F, G). Les institutions et les unions agréées pour pratiquer les opérations visées au a de l'article L. 931-1 indiquent à la suite des tableaux la quote-part (en %) définie à l'article R. 931-11-9.
+Dans chaque rubrique, les actifs sont groupés en sous-rubrique par devise. A la fin de chaque sous-rubrique sont portés, sur des lignes distinctes, les éléments à déduire (part non libérée des titres, intérêts courus non échus), la totalisation des valeurs en devises et la contre-valeur en francs des totalisations au cours de change retenu pour l'établissement des comptes annuels (colonnes C, D, E, F, G). A la fin de chaque rubrique, figure une ligne de totalisation des valeurs ou contre-valeurs en francs français (colonnes C, D, E, F, G). Aucun actif ne peut figurer dans plus d'un seul tableau. Chacun des tableaux comporte une ligne de totalisation générale des valeurs ou contre-valeurs en francs français (C, D, E, F, G). Les institutions et les unions agréées pour pratiquer les opérations visées au a de l'article L. 931-1 indiquent à la suite des tableaux la quote-part (en %) définie à l'article R. 931-11-9.
 
 Les tableaux sont présentés selon le modèle ci-dessous :
 
@@ -150,6 +150,7 @@ Les tableaux sont présentés selon le modèle ci-dessous :
 </td>
 <td width="67">
 <br/>
+<br/>
 </td>
 <td width="67">
 <p align="center">(6) </p>
@@ -191,7 +192,7 @@ Les actifs transférés avec un portefeuille de bulletins d'adhésion à un règ
 
 (3) Etat de localisation du titre de propriété de l'actif (notamment Etat d'établissement du dépositaire pour les valeurs mobilières).
 
-(4) Les valeurs brutes, nettes et de réalisation ainsi que les corrections de valeur sont à inscrire dans la monnaie de comptabilisation, c'est-à-dire, notamment pour les titres dont l'acquisition a fait l'objet d'une opération en devise au sens de l'article A. 931-11-2, dans la devise de l'opération initiale. Pour chacun des titres non libérés, le montant non libéré doit figurer dans la colonne " Valeur inscrite au bilan (Valeur brute) " immédiatement au-dessous de la ligne du libellé de la valeur.A chaque sous-totalisation (voir ci-dessus), le total des parties non libérées des valeurs totalisées est retranché globalement de cette colonne.
+(4) Les valeurs brutes, nettes et de réalisation ainsi que les corrections de valeur sont à inscrire dans la monnaie de comptabilisation, c'est-à-dire, notamment pour les titres dont l'acquisition a fait l'objet d'une opération en devise au sens de l'article A. 931-11-2, dans la devise de l'opération initiale. Pour chacun des titres non libérés, le montant non libéré doit figurer dans la colonne " Valeur inscrite au bilan (Valeur brute) " immédiatement au-dessous de la ligne du libellé de la valeur. A chaque sous-totalisation (voir ci-dessus), le total des parties non libérées des valeurs totalisées est retranché globalement de cette colonne.
 
 (5) La colonne " Correction de valeur " inclut les amortissements et provisions pour dépréciation ainsi que les amortissements et reprises de différences sur prix de remboursement constatés pour les titres évalués conformément à l'article R. 931-10-40.
 
@@ -357,17 +358,22 @@ c) Les institutions et les unions agréées pour la branche mentionnée au 16 (a
 </td>
 <td width="69">
 <br/>
-</td>
-<td width="69">
-<br/>
-</td>
-<td width="70">
 <br/>
 </td>
 <td width="69">
 <br/>
+<br/>
 </td>
 <td width="70">
+<br/>
+<br/>
+</td>
+<td width="69">
+<br/>
+<br/>
+</td>
+<td width="70">
+<br/>
 <br/>
 </td>
 </tr>
@@ -427,17 +433,22 @@ c) Les institutions et les unions agréées pour la branche mentionnée au 16 (a
 </td>
 <td width="69">
 <br/>
-</td>
-<td width="69">
-<br/>
-</td>
-<td width="70">
 <br/>
 </td>
 <td width="69">
 <br/>
+<br/>
 </td>
 <td width="70">
+<br/>
+<br/>
+</td>
+<td width="69">
+<br/>
+<br/>
+</td>
+<td width="70">
+<br/>
 <br/>
 </td>
 </tr>
@@ -497,17 +508,22 @@ c) Les institutions et les unions agréées pour la branche mentionnée au 16 (a
 </td>
 <td width="69">
 <br/>
-</td>
-<td width="69">
-<br/>
-</td>
-<td width="70">
 <br/>
 </td>
 <td width="69">
 <br/>
+<br/>
 </td>
 <td width="70">
+<br/>
+<br/>
+</td>
+<td width="69">
+<br/>
+<br/>
+</td>
+<td width="70">
+<br/>
 <br/>
 </td>
 </tr>
@@ -592,6 +608,7 @@ b) A chaque fois que cela est utile à la compréhension et à l'appréciation d
 <tbody>
 <tr>
 <td width="265">
+<br/>
 <br/>
 </td>
 <td width="151">

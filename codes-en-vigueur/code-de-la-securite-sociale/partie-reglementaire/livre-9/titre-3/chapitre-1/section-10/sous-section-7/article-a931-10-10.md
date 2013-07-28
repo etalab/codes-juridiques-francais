@@ -8,7 +8,7 @@ Les tarifs pratiqués par les institutions de prévoyance et leurs unions effect
 
 a) Tables homologuées par arrêté du ministre chargé de la sécurité sociale, établies par sexe, sur la base de populations de membres participants et bénéficiaires pour les contrats de rente viagère et sur la base de données publiées par l'Institut national de la statistique et des études économiques pour les autres contrats ;
 
-b) tables établies ou non par sexe par l'institution ou l'union et certifiées par un actuaire indépendant de celle-ci, agréé à cet effet par l'une des associations d'actuaires reconnues par l'Autorité de contrôle prudentiel.
+b) tables établies ou non par sexe par l'institution ou l'union et certifiées par un actuaire indépendant de celle-ci, agréé à cet effet par l'une des associations d'actuaires reconnues par l'Autorité de contrôle prudentiel et de résolution.
 
 Les tables mentionnées au b sont établies d'après des données d'expérience de l'institution ou de l'union, ou des données d'expérience démographiquement équivalentes.
 

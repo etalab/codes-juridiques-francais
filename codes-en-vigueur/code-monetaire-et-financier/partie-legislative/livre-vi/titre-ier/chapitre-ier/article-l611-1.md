@@ -10,7 +10,7 @@ Le ministre chargé de l'économie arrête, pour les établissements de crédit,
 
 4. Les conditions des opérations que peuvent effectuer les établissements de crédit ou leurs agents, en particulier dans leurs relations avec la clientèle, ainsi que les conditions de la concurrence ;
 
-5.L'organisation des services communs ;
+5. L'organisation des services communs ;
 
 6. Les normes de gestion que les établissements de crédit doivent respecter en vue notamment de garantir leur liquidité, leur solvabilité et l'équilibre de leur structure financière ainsi que les conditions dans lesquelles ces normes sont respectées sur une base consolidée, y compris en l'absence d'une entreprise mère ayant son siège social en France ;
 
@@ -20,4 +20,8 @@ Le ministre chargé de l'économie arrête, pour les établissements de crédit,
 
 9. Les règles relatives à la protection des déposants mentionnées à l'article L. 312-4 ;
 
-10. Les règles applicables à l'organisation comptable, aux mécanismes de contrôle et de sécurité dans le domaine informatique ainsi que les procédures de contrôle interne.
+10. Les règles applicables à l'organisation comptable, aux mécanismes de contrôle et de sécurité dans le domaine informatique ainsi que les procédures de contrôle interne ;
+
+11. Les conditions dans lesquelles les établissements de crédit peuvent établir des succursales dans des Etats qui ne sont pas parties à l'accord sur l'Espace économique européen ;
+
+12. Les conditions dans lesquelles les établissements de crédit peuvent acquérir tout ou partie d'une branche d'activité significative sans qu'il soit porté préjudice à la gestion saine et prudente de ces établissements.

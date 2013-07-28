@@ -1,6 +1,7 @@
 # Section 5 :  Exercice du contrôle
 
 - [Article L612-23](article-l612-23.md)
+- [Article L612-23-1](article-l612-23-1.md)
 - [Article L612-24](article-l612-24.md)
 - [Article L612-25](article-l612-25.md)
 - [Article L612-26](article-l612-26.md)

@@ -1,6 +1,6 @@
 # Article R612-24
 
-I. ― Lorsque, pour l'exercice de ses contrôles, le secrétaire général décide de faire appel à des personnes qui n'appartiennent ni à ses services ni à ceux d'une autre autorité compétente mentionnée à l'article L. 612-23, le recours à ces personnes s'inscrit dans le cadre d'un protocole d'accord conclu avec l'Autorité de contrôle prudentiel, qui énonce les missions à mener et précise les conditions dans lesquelles elles doivent être exécutées.
+I. ― Lorsque, pour l'exercice de ses contrôles, le secrétaire général décide de faire appel à des personnes qui n'appartiennent ni à ses services ni à ceux d'une autre autorité compétente mentionnée à l'article L. 612-23, le recours à ces personnes s'inscrit dans le cadre d'un protocole d'accord conclu avec l'Autorité de contrôle prudentiel et de résolution, qui énonce les missions à mener et précise les conditions dans lesquelles elles doivent être exécutées.
 
 Le protocole d'accord comporte une clause stipulant que ces personnes agissent et s'organisent de manière à éviter tout conflit d'intérêts, sont averties des obligations de secret professionnel auquel elles sont soumises, notamment en application des dispositions de l'article L. 612-17, et s'assurent que les informations obtenues dans l'exercice des missions qui leur sont confiées ne sont utilisées que pour l'accomplissement de celles-ci.
 

@@ -9,3 +9,5 @@ III. - Au cours du mois de janvier de chaque année, est porté à la connaissan
 Ces dispositions sont appliquées pour la première fois par les établissements de crédit ne tenant pas de comptes de dépôt et les établissements de paiement au cours du mois de janvier 2011 au titre de l'année 2010.
 
 IV. - Lorsque le bénéficiaire propose au payeur un service de conversion monétaire, il est tenu de l'informer de tous les frais appliqués, ainsi que du taux de change qui sera utilisé aux fins de la conversion de l'opération de paiement.
+
+V. - Un décret pris sur avis du comité consultatif du secteur financier établit une dénomination commune des principaux frais et services bancaires que les banques sont tenues de respecter.

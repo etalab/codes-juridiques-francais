@@ -410,7 +410,7 @@ Paiements, au cours de l'exercice, par année de survenance des sinistres
 </tbody>
 </table>
 
-Lorsque la faiblesse du montant des prestations périodiques servies le justifie,              l'Autorité de contrôle prudentiel peut dispenser l'institution ou l'union de remplir le tableau C.
+Lorsque la faiblesse du montant des prestations périodiques servies le justifie, l'Autorité de contrôle prudentiel et de résolution peut dispenser l'institution ou l'union de remplir le tableau C.
 
 ETAT C 10
 

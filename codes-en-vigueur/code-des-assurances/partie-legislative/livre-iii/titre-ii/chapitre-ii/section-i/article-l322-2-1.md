@@ -10,4 +10,4 @@ II.-Nonobstant l'article L. 228-41 du code précité, l'assemblée générale de
 
 III.-En ce qui concerne la rémunération des titres participatifs, la partie variable ne peut être calculée par référence à un critère représentatif du volume d'activité de la société émettrice.
 
-IV.-Un décret en Conseil d'Etat fixe les modalités d'application du présent article, notamment le contrôle exercé par l'Autorité de contrôle prudentiel sur ces émissions.
+IV.-Un décret en Conseil d'Etat fixe les modalités d'application du présent article, notamment le contrôle exercé par l'Autorité de contrôle prudentiel et de résolution sur ces émissions.
