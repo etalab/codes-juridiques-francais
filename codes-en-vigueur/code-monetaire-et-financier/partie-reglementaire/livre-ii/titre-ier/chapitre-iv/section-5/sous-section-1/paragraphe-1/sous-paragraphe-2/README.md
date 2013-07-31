@@ -7,7 +7,3 @@
 - [Article R214-175](article-r214-175.md)
 - [Article R214-176](article-r214-176.md)
 - [Article R214-177](article-r214-177.md)
-- [Article R214-178](article-r214-178.md)
-- [Article R214-179](article-r214-179.md)
-- [Article R214-180](article-r214-180.md)
-- [Article R214-181](article-r214-181.md)

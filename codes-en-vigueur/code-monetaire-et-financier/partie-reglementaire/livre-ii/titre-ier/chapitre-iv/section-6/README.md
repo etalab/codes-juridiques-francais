@@ -1,17 +1,9 @@
 # Section 6 : Sociétés d'investissement à capital fixe.
 
-- [Article D214-224](article-d214-224.md)
-- [Article D214-225](article-d214-225.md)
-- [Article D214-226](article-d214-226.md)
 - [Article D214-227](article-d214-227.md)
 - [Article D214-228](article-d214-228.md)
 - [Article D214-229](article-d214-229.md)
-- [Article D214-230](article-d214-230.md)
-- [Article D214-231](article-d214-231.md)
-- [Article D214-232](article-d214-232.md)
-- [Article D214-233](article-d214-233.md)
 - [Article D214-234](article-d214-234.md)
-- [Article D214-235](article-d214-235.md)
 - [Article D214-236](article-d214-236.md)
 - [Article D214-237](article-d214-237.md)
 - [Article D214-238](article-d214-238.md)

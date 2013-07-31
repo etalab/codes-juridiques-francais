@@ -8,7 +8,7 @@ a) Etablissements de crédit et entreprises d'investissement, en leur nom et pou
 
 b) Entreprises d'assurance ;
 
-c) Organismes de placement collectif en valeurs mobilières ;
+c) OPCVM et FIA relevant des paragraphes 1, 2 et 6 de la sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3, ou de la sous-section 4 de la section 2 du chapitre IV du titre Ier du livre II ;
 
 d) Organismes de retraite et fonds de pension ;
 
