@@ -18,7 +18,7 @@ Le comité de coordination régional de l'emploi et de la formation professionne
 
 8° Le directeur de l'agriculture et de la forêt ;
 
-9° Le trésorier-payeur général ;
+9° (Abrogé) ;
 
 10° Le directeur de l'agence départementale d'insertion ;
 
@@ -26,7 +26,7 @@ Le comité de coordination régional de l'emploi et de la formation professionne
 
 12° Sept membres au titre des organisations d'employeurs et des chambres régionales d'agriculture, de commerce et d'industrie et des métiers ;
 
-13° Le président du    conseil économique, social et environnemental régional ;
+13° Le président du conseil économique, social et environnemental régional ;
 
 14° Dix représentants élus des collectivités territoriales, à raison de :
 
