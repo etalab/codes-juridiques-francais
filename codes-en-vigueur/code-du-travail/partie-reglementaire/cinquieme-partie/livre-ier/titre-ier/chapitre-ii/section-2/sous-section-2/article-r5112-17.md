@@ -2,11 +2,11 @@
 
 La formation spécialisée compétente en matière d'insertion par l'activité économique, dénommée conseil départemental de l'insertion par l'activité économique, comprend, outre le préfet :
 
-1° Le             directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ;
+1° Le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ;
 
 2° Le directeur départemental des affaires sanitaires et sociales ;
 
-3° Le trésorier-payeur général ;
+3° Abrogé ;
 
 4° Des élus, représentants des collectivités territoriales et de leurs groupements, dont un membre du conseil général, élu par ce conseil, un membre du conseil régional, élu par ce conseil, et des élus, représentants de communes et d'établissements publics de coopération intercommunale du département, sur proposition de l'association départementale des maires. En cas de pluralité d'associations, ces représentants sont désignés par accord des présidents d'associations des maires du département ou, à défaut d'accord, par le préfet ;
 
