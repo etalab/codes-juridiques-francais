@@ -10,23 +10,23 @@ a) Deux représentants du ministre chargé des sports :
 
 ― le chef du bureau chargé des affaires juridiques, de la direction des sports ou son représentant ;
 
-b) Deux représentants du ministre chargé de l'intérieur :
+b) Trois représentants du ministre de l'intérieur :
 
-― le directeur de la défense et de la sécurité civile ou son représentant ;
+- le directeur de la défense et de la sécurité civile ou son représentant ;
 
-― le directeur général de la police nationale ou son représentant ;
+- le directeur général de la police nationale ou son représentant ;
+
+- le directeur général de la gendarmerie nationale ou son représentant.
 
 c) Un représentant du ministre chargé de l'équipement :
 
 ― le directeur général de l'urbanisme, de l'habitat et de la construction ou son représentant ;
 
-d) Un représentant du ministre chargé de la défense :
-
-― le directeur général de la gendarmerie nationale ou son représentant ;
+d) Abrogé ;
 
 e) Un représentant du ministre chargé de la santé :
 
-― le           directeur général de l'offre de soins  ou son représentant ;
+― le directeur général de l'offre de soins ou son représentant ;
 
 2° Quatre membres nommés par arrêté du ministre chargé des sports ;
 
