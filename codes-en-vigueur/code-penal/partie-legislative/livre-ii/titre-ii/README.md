@@ -1,6 +1,7 @@
 # Titre II : Des atteintes à la personne humaine
 
 - [Chapitre Ier : Des atteintes à la vie de la personne](chapitre-ier)
+- [Chapitre Ier bis : Des atteintes à la personne constituées par les disparitions forcées.](chapitre-ier-bis)
 - [Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne](chapitre-ii)
 - [Chapitre III : De la mise en danger de la personne](chapitre-iii)
 - [Chapitre IV : Des atteintes aux libertés de la personne](chapitre-iv)

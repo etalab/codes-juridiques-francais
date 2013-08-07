@@ -7,3 +7,4 @@
 - [Paragraphe 5 : Responsabilité pénale des personnes morales.](paragraphe-5)
 - [Article 222-22](article-222-22.md)
 - [Article 222-22-1](article-222-22-1.md)
+- [Article 222-22-2](article-222-22-2.md)
