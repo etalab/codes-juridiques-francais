@@ -8,7 +8,7 @@ Pour être agréée, l'association intercommunale, ayant rempli les formalités 
 
 3° Son règlement intérieur et son règlement de chasse en double exemplaire ;
 
-4° La liste des associations communales qui la composent ;
+4° La liste des associations communales ou intercommunales concernées ;
 
 5° La liste des parcelles cadastrales constituant le territoire de chasse de l'association intercommunale ;
 
