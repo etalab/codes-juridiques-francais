@@ -5,4 +5,3 @@
 - [Section 5 : Indemnité au preneur sortant.](section-5)
 - [Section 6 : Droit de préemption.](section-6)
 - [Section 7 : Dispositions diverses.](section-7)
-- [Section 8 : Dispositions diverses.](section-8)

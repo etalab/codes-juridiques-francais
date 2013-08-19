@@ -1,4 +1,4 @@
-# Chapitre V : Dispositions particulières aux départements d'outre-mer.
+# Chapitre V : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique, à La Réunion, à Mayotte et à Saint-Martin.
 
 - [Article R555-1](article-r555-1.md)
 - [Article R555-2](article-r555-2.md)

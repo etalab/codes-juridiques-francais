@@ -4,9 +4,9 @@ L'office est doté d'un conseil d'administration qui comprend, outre son présid
 
 1° Onze personnalités représentant la production, la transformation, la coopération et le commerce des produits agricoles des départements et collectivités territoriales d'outre-mer, nommées conjointement par le ministre chargé de l'outre-mer et le ministre chargé de l'agriculture, sur proposition des organisations professionnelles représentatives après avis des préfets concernés à raison de :
 
--deux représentants pour chacun des départements d'outre-mer ;
+a) Guadeloupe, Guyane, Martinique, La Réunion, Mayotte : deux représentants chacune ;
 
--trois représentants des collectivités d'outre-mer ;
+b) Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon : un représentant pour l'ensemble des trois collectivités ;
 
 La représentation des producteurs doit être majoritaire ;
 

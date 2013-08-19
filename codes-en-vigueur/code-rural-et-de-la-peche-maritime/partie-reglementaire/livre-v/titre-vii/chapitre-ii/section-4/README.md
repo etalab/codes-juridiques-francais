@@ -1,5 +1,6 @@
-# Section 4 : Administration.
+# Section 4 :  Jardins familiaux.
 
+- [Article D572-10](article-d572-10.md)
 - [Article R572-11](article-r572-11.md)
 - [Article R572-12](article-r572-12.md)
 - [Article R572-13](article-r572-13.md)

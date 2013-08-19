@@ -6,4 +6,3 @@
 - [Chapitre V : Aides à la réalisation d'opérations foncières](chapitre-v)
 - [Chapitre VI : Aides à l'habitat rural](chapitre-vi)
 - [Chapitre VII : Aides aux investissements de production](chapitre-vii)
-- [Chapitre VIII : Dispositions spécifiques à l'outre-mer](chapitre-viii)

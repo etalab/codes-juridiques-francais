@@ -1,4 +1,4 @@
-# Chapitre II : Protection sociale des non-salariés dans les départements d'outre-mer
+# Chapitre II : Protection sociale des non-salariés en Guadeloupe, en Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-Barthélemy et à Saint-Martin
 
 - [Section 1 : Dispositions communes et diverses](section-1)
 - [Section 2 : Prestations familiales.](section-2)

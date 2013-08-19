@@ -1,9 +1,9 @@
-# Chapitre II : Sociétés coopératives agricoles
+# Chapitre II : Dispositions diverses
 
-- [Section 1 : Dispositions générales, constitution.](section-1)
-- [Section 2 : Associés, tiers non coopérateur.](section-2)
-- [Section 3 : Capital social et dispositions financières.](section-3)
-- [Section 4 : Administration.](section-4)
+- [Section 1 : Sociétés coopératives agricoles.](section-1)
+- [Section 2 : Sociétés d'intérêt collectif agricole.](section-2)
+- [Section 3 : Groupements de producteurs  et organisations économiques agricoles.](section-3)
+- [Section 4 :  Jardins familiaux.](section-4)
 - [Section 5 : Agrément, contrôle.](section-5)
 - [Section 6 : Dissolution, liquidation.](section-6)
 - [Section 7 : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle.](section-7)
