@@ -1,6 +1,8 @@
-# Sous-Section 5 : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences
+# Sous-section 5 : Jugement.
 
-- [Article R733-20-1](article-r733-20-1.md)
-- [Article R733-20-2](article-r733-20-2.md)
-- [Article R733-20-3](article-r733-20-3.md)
-- [Article R733-20-4](article-r733-20-4.md)
+- [Article R733-28](article-r733-28.md)
+- [Article R733-29](article-r733-29.md)
+- [Article R733-30](article-r733-30.md)
+- [Article R733-31](article-r733-31.md)
+- [Article R733-32](article-r733-32.md)
+- [Article R733-33](article-r733-33.md)
