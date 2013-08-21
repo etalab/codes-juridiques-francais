@@ -1,0 +1,16 @@
+# Section 1 : Les études d'architecture
+
+- [Article R672-1](article-r672-1.md)
+- [Article R672-2](article-r672-2.md)
+- [Article R672-3](article-r672-3.md)
+- [Article R672-4](article-r672-4.md)
+- [Article R672-5](article-r672-5.md)
+- [Article R672-6](article-r672-6.md)
+- [Article R672-7](article-r672-7.md)
+- [Article R672-8](article-r672-8.md)
+- [Article R672-9](article-r672-9.md)
+- [Article R672-10](article-r672-10.md)
+- [Article R672-11](article-r672-11.md)
+- [Article R672-12](article-r672-12.md)
+- [Article R672-13](article-r672-13.md)
+- [Article R672-14](article-r672-14.md)

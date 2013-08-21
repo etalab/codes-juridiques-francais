@@ -1,16 +1,14 @@
 # Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.
 
-- [Article D*264-8](article-d-264-8.md)
-- [Article D*264-9](article-d-264-9.md)
 - [Article D264-4](article-d264-4.md)
 - [Article D264-7](article-d264-7.md)
-- [Article D264-10](article-d264-10.md)
 - [Article D264-11](article-d264-11.md)
 - [Article R264-1](article-r264-1.md)
 - [Article R264-2](article-r264-2.md)
 - [Article R264-3](article-r264-3.md)
 - [Article R264-5](article-r264-5.md)
 - [Article R264-6](article-r264-6.md)
+- [Article R264-8](article-r264-8.md)
 - [Article R264-12](article-r264-12.md)
 - [Article R264-13](article-r264-13.md)
 - [Article R264-14](article-r264-14.md)

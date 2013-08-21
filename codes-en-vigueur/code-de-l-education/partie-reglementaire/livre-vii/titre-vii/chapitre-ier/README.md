@@ -1,0 +1,18 @@
+# Chapitre Ier : Dispositions applicables  dans les îles Wallis et Futuna
+
+- [Article D771-2](article-d771-2.md)
+- [Article D771-4](article-d771-4.md)
+- [Article D771-6](article-d771-6.md)
+- [Article D771-7](article-d771-7.md)
+- [Article D771-8](article-d771-8.md)
+- [Article D771-9](article-d771-9.md)
+- [Article D771-10](article-d771-10.md)
+- [Article D771-11](article-d771-11.md)
+- [Article D771-12](article-d771-12.md)
+- [Article R771-1](article-r771-1.md)
+- [Article R771-3](article-r771-3.md)
+- [Article R771-5](article-r771-5.md)
+- [Article R771-13](article-r771-13.md)
+- [Article R771-14](article-r771-14.md)
+- [Article R771-15](article-r771-15.md)
+- [Article R771-16](article-r771-16.md)

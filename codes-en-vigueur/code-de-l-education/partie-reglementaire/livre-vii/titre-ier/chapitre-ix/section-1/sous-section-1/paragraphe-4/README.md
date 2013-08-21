@@ -1,0 +1,18 @@
+# Paragraphe 4 : Déroulement et régularité des scrutins
+
+- [Article D719-22](article-d719-22.md)
+- [Article D719-23](article-d719-23.md)
+- [Article D719-24](article-d719-24.md)
+- [Article D719-25](article-d719-25.md)
+- [Article D719-26](article-d719-26.md)
+- [Article D719-27](article-d719-27.md)
+- [Article D719-28](article-d719-28.md)
+- [Article D719-29](article-d719-29.md)
+- [Article D719-30](article-d719-30.md)
+- [Article D719-31](article-d719-31.md)
+- [Article D719-32](article-d719-32.md)
+- [Article D719-33](article-d719-33.md)
+- [Article D719-34](article-d719-34.md)
+- [Article D719-35](article-d719-35.md)
+- [Article D719-36](article-d719-36.md)
+- [Article D719-37](article-d719-37.md)

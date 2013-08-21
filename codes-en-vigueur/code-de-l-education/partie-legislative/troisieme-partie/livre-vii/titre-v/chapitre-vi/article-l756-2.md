@@ -1,6 +1,6 @@
 # Article L756-2
 
-L'Ecole des hautes études en santé publique, établissement public de l'Etat à caractère scientifique, culturel et professionnel, est placée sous la tutelle des ministres chargés de la santé, des affaires sociales, de l'éducation et de la recherche. Elle a pour mission :
+L'Ecole des hautes études en santé publique, établissement public de l'Etat à caractère scientifique, culturel et professionnel, est placée sous la tutelle des ministres chargés de la santé, des affaires sociales, de l'enseignement supérieur et de la recherche. Elle a pour mission :
 
 1° D'assurer la formation des personnes ayant à exercer des fonctions de direction, de gestion, d'inspection ou de contrôle dans les domaines sanitaires, sociaux ou médico-sociaux et notamment de celles relevant du ministre chargé de la santé et du ministre chargé des affaires sociales ;
 

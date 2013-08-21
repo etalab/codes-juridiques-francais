@@ -1,0 +1,15 @@
+# Section 4 : Les bibliothèques et autres structures de documentation des établissements d'enseignement supérieur créées sous forme de services communs
+
+- [Article D714-28](article-d714-28.md)
+- [Article D714-29](article-d714-29.md)
+- [Article D714-30](article-d714-30.md)
+- [Article D714-31](article-d714-31.md)
+- [Article D714-32](article-d714-32.md)
+- [Article D714-33](article-d714-33.md)
+- [Article D714-34](article-d714-34.md)
+- [Article D714-35](article-d714-35.md)
+- [Article D714-36](article-d714-36.md)
+- [Article D714-37](article-d714-37.md)
+- [Article D714-38](article-d714-38.md)
+- [Article D714-39](article-d714-39.md)
+- [Article D714-40](article-d714-40.md)
