@@ -4,4 +4,3 @@
 - [Paragraphe 2 : Concours internes.](paragraphe-2)
 - [Paragraphe 3 : Troisième concours.](paragraphe-3-troisieme)
 - [Paragraphe 4 : Stage](paragraphe-4)
-- [Paragraphe 5 : Cycle préparatoire](paragraphe-5)

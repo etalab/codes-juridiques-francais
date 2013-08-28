@@ -12,4 +12,6 @@ La nomination de maîtres délégués dans la discipline concernée ne peut inte
 
 La situation des maîtres mentionnés à l'alinéa précédent qui refusent, sans motif légitime, le service qui leur est proposé dans l'académie d'affectation ne peut faire l'objet d'un nouvel examen par la commission nationale d'affectation.
 
-Celle-ci donne également son avis sur les demandes de changement présentées par des maîtres, pour un motif médical, de l'échelle de rémunération ou de la discipline au titre de laquelle ils sont titulaires d'un contrat définitif.
+Celle-ci donne également son avis sur les demandes de changement présentées par des maîtres, pour un motif médical, de l'échelle de rémunération ou de la discipline au titre de laquelle ils sont titulaires d'un contrat définitif ;
+
+3° Pour la nomination des lauréats des concours qui n'ont pu obtenir un contrat ou un agrément provisoire.
