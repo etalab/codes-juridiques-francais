@@ -6,3 +6,4 @@
 - [Section 4 : Dispositions relatives aux services de la marine](section-4)
 - [Section 5 : Relations entre commandements et services](section-5)
 - [Section 6 : Dispositions particulières à certaines formations](section-6)
+- [Section 7 : Dispositions relatives aux ports militaires](section-7)

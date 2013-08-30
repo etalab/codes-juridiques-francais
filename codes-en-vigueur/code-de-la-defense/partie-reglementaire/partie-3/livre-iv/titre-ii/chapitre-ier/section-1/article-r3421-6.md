@@ -4,4 +4,4 @@ Le conseil d'administration ne peut valablement délibérer ou émettre des avis
 
 Les délibérations ou avis sont adoptés à la majorité relative des voix.
 
-Le président a voix prépondérante en cas de partage égal des voix.
+Le président a voix prépondérante en cas de partage égal des voix. En cas d'absence ou d'empêchement du président, la séance est présidée par le vice-président.

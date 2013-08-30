@@ -16,7 +16,9 @@ Le directeur général dirige l'établissement dans le cadre des orientations d�
 
 7° Il exerce le pouvoir hiérarchique sur les personnes affectées à l'établissement, à l'exception des agents comptables ;
 
-8° Il pourvoit aux emplois et gère le personnel de l'établissement.
+8° Il pourvoit aux emplois et gère le personnel de l'établissement ;
+
+9° Il prépare le rapport annuel d'activité de l'établissement.
 
 Par délégation du conseil d'administration, le directeur général peut conclure des transactions.
 
@@ -24,4 +26,4 @@ Le directeur général n'est pas autorisé à subdéléguer les attributions qui
 
 Le directeur général peut déléguer sa signature. Toutefois, pour l'exercice de ses attributions mentionnées au 5° du présent article, l'objet précis et le montant maximum de la délégation doivent avoir été préalablement approuvés par le conseil d'administration.
 
-Le directeur général est assisté par un directeur général adjoint, nommé par arrêté du ministre de la défense, et qui le remplace en cas d'absence.
+Le directeur général est assisté par un directeur général adjoint, nommé par arrêté du ministre de la défense, et qui le le supplée en cas de besoin.

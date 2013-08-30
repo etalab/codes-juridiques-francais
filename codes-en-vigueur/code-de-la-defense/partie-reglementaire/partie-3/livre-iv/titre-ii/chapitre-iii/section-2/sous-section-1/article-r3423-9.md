@@ -27,3 +27,5 @@ Sont obligatoirement soumis à l'approbation du conseil d'administration :
 12° L'acceptation de dons et de legs.
 
 Doivent, en outre, être soumises à l'examen du conseil d'administration les questions estimées importantes par le délégué général pour l'armement, par le président du conseil d'administration ou par le directeur général de l'aviation civile.
+
+Le conseil d'administration, sur la proposition de son président, peut décider la création de comités consultatifs dont il fixe la composition et les modalités de fonctionnement.
