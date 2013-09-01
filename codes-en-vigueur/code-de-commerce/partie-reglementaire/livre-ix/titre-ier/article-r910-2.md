@@ -16,6 +16,6 @@ Pour l'application du présent code à Saint-Pierre-et-Miquelon, les termes énu
 
 7° " Bulletin officiel des annonces civiles et commerciales " par " Recueil des actes administratifs de la collectivité territoriale " ;
 
-8° " Préfet du département " par " préfet de la collectivité " ;
+8° "Préfet du département" ou "préfet de région" par "préfet de la collectivité" ;
 
 9° " Chambre de commerce et d'industrie " par " chambre d'agriculture, de commerce, d'industrie, de métiers et de l'artisanat ".

@@ -10,10 +10,10 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 
 4° Le livre IV, à l'exception des articles R. 463-16, R. 470-2 à R. 470-7 ;
 
-5° Le livre V                  ;
+5° Le livre V ;
 
 6° Le livre VI, à l'exception des articles R. 625-4, R. 670-1 à R. 670-7 ;
 
-7° Les titres Ier à IV du livre VII, à l'exception des articles R. 711-32 à R. 711-52, R. 712-21 à R. 712-24, R. 713-7.
+7° Les titres Ier à IV du livre VII, à l'exception des dispositions relatives aux chambres de commerce et d'industrie de région et des articles R. 712-24 et R. 713-7 ;
 
 8° Le livre VIII.
