@@ -2,9 +2,9 @@
 
 I.-Les articles L. 631-1, L. 631-2, L. 631-2-1, L. 631-2-2, L. 632-3, L. 632-7, L. 632-13 à L. 632-17 sont applicables en Polynésie française, sous réserve des adaptations prévues au II.
 
-II.-1° Au I et au II de l'article L. 632-7 et à l'article L. 632-13, les mots : " non membre de la Communauté européenne et non partie à l'accord sur l'Espace économique européen, " sont remplacés par les mots : " autre que la France " ;
+II.-1° Au I et au II de l'article L. 632-7 et à l'article L. 632-13, les mots : " non membre de l'Union européenne et non partie à l'accord sur l'Espace économique européen " sont remplacés par les mots : " autre que la France " ;
 
-2° Au III de l'article L. 632-7, les mots : " d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ou d'un pays tiers " sont remplacés par les mots : " autre que la France " ;
+2° Au III de l'article L. 632-7, les mots : " d'un autre Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ou d'un pays tiers " sont remplacés par les mots : " autre que la France " ;
 
 3° A l'article L. 632-14 :
 
