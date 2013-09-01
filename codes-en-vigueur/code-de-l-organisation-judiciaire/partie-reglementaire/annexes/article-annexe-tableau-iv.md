@@ -1,6 +1,6 @@
 # Article Annexe Tableau IV
 
-SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TRIBUNAUX DE GRANDE INSTANCE ET DE PREMIÈRE INSTANCE, DES CHAMBRES DÉTACHÉES DES TRIBUNAUX DE GRANDE INSTANCE, DES SECTIONS DÉTACHÉES DES TRIBUNAUX DE PREMIÈRE INSTANCE, DES TRIBUNAUX D'INSTANCE ET DES JURIDICTIONS DE PROXIMITÉ (ANNEXE DES ARTICLES D. 211-1, D. 221-1, D. 231-1, D. 311-1, D. 522-1, D. 522-10, D. 522-22, D. 532-2, D. 552-1, D. 552-17, D. 562-1 ET D. 562-26)
+SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TRIBUNAUX DE GRANDE INSTANCE ET DE PREMIÈRE INSTANCE, DES CHAMBRES DÉTACHÉES DES TRIBUNAUX DE GRANDE INSTANCE, DES SECTIONS DÉTACHÉES DES TRIBUNAUX DE PREMIÈRE INSTANCE, DES TRIBUNAUX D'INSTANCE ET DES JURIDICTIONS DE PROXIMITÉ (ANNEXE DES ARTICLES D. 211-1, D. 212-19, D. 221-1, D. 231-1, D. 311-1, D. 522-1, D. 522-10, D. 522-22, D. 532-2, D. 552-1, D. 552-17, D. 562-1 ET D. 562-26)
 
 <table>
 <tbody>
@@ -969,56 +969,56 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td rowspan="5" valign="top" width="154">
-<p align="left">Besançon </p>
+<p>Besançon </p>
 </td>
 <td valign="top" width="109">
-<p align="left">[Baume-les-Dames </p>
+<p>[Baume-les-Dames </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons de Baume-les-Dames, Clerval, L'Isle-sur-le-Doubs, Pierrefontaine-les-Varans, Rougemont, Roulans et Vercel-Villedieu le-Camp. (3)] </p>
+<p>Cantons de Baume-les-Dames, Clerval, L'Isle-sur-le-Doubs, Pierrefontaine-les-Varans, Rougemont, Roulans et Vercel-Villedieu le-Camp. (3)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p align="left">[Besançon </p>
+<p>[Besançon </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons d'Amancey, Audeux, Besançon-Est, Besançon-Nord-Est, Besançon-Nord-Ouest, Besançon-Ouest, Besançon-Planoise, Besançon-Sud, Boussières, Marchaux, Ornans et Quingey. (3)] </p>
+<p>Cantons d'Amancey, Audeux, Besançon-Est, Besançon-Nord-Est, Besançon-Nord-Ouest, Besançon-Ouest, Besançon-Planoise, Besançon-Sud, Boussières, Marchaux, Ornans et Quingey. (3)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p align="left">[Besançon </p>
+<p>[Besançon </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons d'Amancey, Audeux, Baume-les-Dames, Besançon-Est, Besançon-Nord-Est, Besançon-Nord-Ouest, Besançon-Ouest, Besançon-Planoise, Besançon-Sud, Boussières, Clerval, L'Isle-sur-le Doubs, Marchaux, Ornans, Quingey, Rougemont et Roulans. (4)] </p>
+<p>Cantons d'Amancey, Audeux, Baume-les-Dames, Besançon-Est, Besançon-Nord-Est, Besançon-Nord-Ouest, Besançon-Ouest, Besançon-Planoise, Besançon-Sud, Boussières, Clerval, L'Isle-sur-le Doubs, Marchaux, Ornans, Quingey, Rougemont et Roulans. (4)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p align="left">[Pontarlier </p>
+<p>[Pontarlier </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons de Levier, Montbenoît, Morteau, Mouthe et Pontarlier. (3)] </p>
+<p>Cantons de Levier, Montbenoît, Morteau, Mouthe et Pontarlier. (3)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p align="left">[Pontarlier </p>
+<p>[Pontarlier </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons de Levier, Montbenoît, Morteau, Mouthe, Pontarlier, Pierrefontaine-les-Varans et Vercel-Villedieu-le-Camp. (4)] </p>
+<p>Cantons de Levier, Montbenoît, Morteau, Mouthe, Pontarlier, Pierrefontaine-les-Varans et Vercel-Villedieu-le-Camp. (4)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="154">
-<p align="left">Montbéliard </p>
+<p>Montbéliard </p>
 </td>
 <td valign="top" width="109">
-<p align="left">Montbéliard </p>
+<p>Montbéliard </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons d'Audincourt, Étupes, Hérimoncourt, Le Russey, Maîche, Montbéliard-Est, Montbéliard-Ouest, Pont-de-Roide, Saint-Hippolyte, Sochaux-Grand-Charmont de Valentigney. </p>
+<p>Cantons d'Audincourt, Étupes, Hérimoncourt, Le Russey, Maîche, Montbéliard-Est, Montbéliard-Ouest, Pont-de-Roide, Saint-Hippolyte, Sochaux-Grand-Charmont de Valentigney. </p>
 </td>
 </tr>
 <tr>
@@ -1028,56 +1028,56 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td rowspan="4" valign="top" width="154">
-<p align="left">Vesoul </p>
+<p>Vesoul </p>
 </td>
 <td valign="top" width="109">
-<p align="left">[Gray </p>
+<p>[Gray </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons d'Autrey-Iès-Gray, Champlitte, Dampierre-sur-Salon, Fresne Saint-Mamès, Gray, Gy, Marnay et Pesmes. (3)] </p>
+<p>Cantons d'Autrey-Iès-Gray, Champlitte, Dampierre-sur-Salon, Fresne Saint-Mamès, Gray, Gy, Marnay et Pesmes. (3)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p align="left">[Lure (6)] </p>
+<p>[Lure (6)] </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons de Champagney, Faucogney-et-la-Mer, Héricourt-Est, Héricourt-Ouest, Lure-Nord, Lure-Sud, Luxeuil-les-Bains, Mélisey, Saint-Loup-sur-Semouse, Saint-Sauveur, Saulx, Vauvillers et Villersexel. </p>
+<p>Cantons de Champagney, Faucogney-et-la-Mer, Héricourt-Est, Héricourt-Ouest, Lure-Nord, Lure-Sud, Luxeuil-les-Bains, Mélisey, Saint-Loup-sur-Semouse, Saint-Sauveur, Saulx, Vauvillers et Villersexel. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p align="left">[Vesoul </p>
+<p>[Vesoul </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons d'Amante, Combeaufontaine, Jussey, Montbozon, Noroy-le Bourg, Port-sur-Saône, Rioz, Scey-sur-Saône-et-Saint-Albin, Vesoul Est, Vesoul-Ouest et Vitrey-sur-Mance. (3)] </p>
+<p>Cantons d'Amante, Combeaufontaine, Jussey, Montbozon, Noroy-le Bourg, Port-sur-Saône, Rioz, Scey-sur-Saône-et-Saint-Albin, Vesoul Est, Vesoul-Ouest et Vitrey-sur-Mance. (3)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p align="left">[Vesoul </p>
+<p>[Vesoul </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons d'Amante, Autrey-lès-Gray, Champlitte, Combeaufontaine, Dampierre-sur-Salon, Fresne-Saint-Mamès, Gray, Gy, Jussey, Marnay, Montbozon, Noroy-le-Bourg, Pesmes, Port-sur-Saône, Rioz, Scey-sur-Saône-et-Saint-Albin, Vesoul-Est, Vesoul-Ouest et Vitrey sur-Mance. (4)] </p>
+<p>Cantons d'Amante, Autrey-lès-Gray, Champlitte, Combeaufontaine, Dampierre-sur-Salon, Fresne-Saint-Mamès, Gray, Gy, Jussey, Marnay, Montbozon, Noroy-le-Bourg, Pesmes, Port-sur-Saône, Rioz, Scey-sur-Saône-et-Saint-Albin, Vesoul-Est, Vesoul-Ouest et Vitrey sur-Mance. (4)] </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3" valign="top" width="154">
-<p align="left">[Lure (5)] </p>
+<p>[Lure (5)] </p>
 </td>
 <td valign="top" width="109">
-<p align="left">[Lure </p>
+<p>[Lure </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons de Champagney, Héricourt-Est, Héricourt-Ouest, Lure-Nord, Lure-Sud, Mélisey et Villersexel. (3)] </p>
+<p>Cantons de Champagney, Héricourt-Est, Héricourt-Ouest, Lure-Nord, Lure-Sud, Mélisey et Villersexel. (3)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p align="left">[Lure </p>
+<p>[Lure </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons de Champagney, Faucogney-et-la-Mer, Héricourt-Est, Héricourt-Ouest, Lure-Nord, Lure-Sud, Luxeuil-les-Bains, Mélisey, Saint-Loup-sur-Semouse, Saint-Sauveur, Saulx, Vauvillers et Villersexel. (4)] </p>
+<p>Cantons de Champagney, Faucogney-et-la-Mer, Héricourt-Est, Héricourt-Ouest, Lure-Nord, Lure-Sud, Luxeuil-les-Bains, Mélisey, Saint-Loup-sur-Semouse, Saint-Sauveur, Saulx, Vauvillers et Villersexel. (4)] </p>
 </td>
 </tr>
 <tr>
@@ -1362,29 +1362,29 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td rowspan="3" valign="top" width="154">
-<p align="left">Bourges </p>
+<p>Bourges </p>
 </td>
 <td valign="top" width="109">
-<p align="left">[Bourges </p>
+<p>[Bourges </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons de Baugy, Bourges 1er canton, Bourges 2e canton, Bourges 3e canton, Bourges 4e canton, Bourges 5e canton, Chârost, Les Aix d'Angillon, Levet, Mehun-sur-Yèvre, Saint-Doulchard et Saint-Martin-d'Auxigny. (11)] </p>
+<p>Cantons de Baugy, Bourges 1er canton, Bourges 2° canton, Bourges 3e canton, Bourges 4e canton, Bourges 5e canton, Chârost, Les Aix d'Angillon, Levet, Mehun-sur-Yèvre, Saint-Doulchard et Saint-Martin-d'Auxigny. (11)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p align="left">[Bourges </p>
+<p>[Bourges </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons de Baugy, Bourges 1er canton, Bourges 2e canton, Bourges 3e canton, Bourges 4e canton, Bourges 5e canton, Chârost, Graçay, Les Aix-d'Angillon, Levet, Lury-sur-Arnon, Mehun sur-Yèvre, Saint-Doulchard, Saint-Martin-d'Auxigny, Vierzon 1er canton et Vierzon 2e canton. (12 et 3)] </p>
+<p>Cantons de Baugy, Bourges 1er canton, Bourges 2e canton, Bourges 3e canton, Bourges 4e canton, Bourges 5e canton, Chârost, Graçay, Les Aix-d'Angillon, Levet, Lury-sur-Arnon, Mehun sur-Yèvre, Saint-Doulchard, Saint-Martin-d'Auxigny, Vierzon 1er canton et Vierzon 2e canton. (12 et 3)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p align="left">[Vierzon </p>
+<p>[Vierzon </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons de Graçay, Lury-sur-Arnon, Vierzon 1er canton et Vierzon 2e canton. (11)] </p>
+<p>Cantons de Graçay, Lury-sur-Arnon, Vierzon 1er canton et Vierzon 2e canton. (11)] </p>
 </td>
 </tr>
 <tr>
@@ -1517,7 +1517,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>[Caen </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Bourguébus, Cabourg, Caen 1er canton, Caen 2e canton, Caen 3e canton, Caen 4e canton, Caen 7e canton, Caen 8e canton, Caen 9e canton, Caen 10e canton, Caen-Hérouville Caen 6e canton, Creully, Douvres-la-Délivrande, Évrecy, Hérouville-Saint-Clair Caen 5e canton, Ouistreham, Tilly-sur-Seulles, Troarn et Villers-Bocage. (11)] </p>
+<p>Cantons de Bourguébus, Cabourg, Caen 1er canton, Caen 2e canton, Caen 3e canton, Caen 4e canton, Caen 7e canton, Caen 8e canton, Caen 9° canton, Caen 10e canton, Caen-Hérouville Caen 6e canton, Creully, Douvres-la-Délivrande, Évrecy, Hérouville-Saint-Clair Caen 5e canton, Ouistreham, Tilly-sur-Seulles, Troarn et Villers-Bocage. (11)] </p>
 </td>
 </tr>
 <tr>
@@ -1726,19 +1726,35 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td colspan="3">
-<p align="center">Cour d'appel de Cayenne<br/>
+<p align="center">Cour d'appel de Cayenne <br/>
 </p>
 </td>
 </tr>
 <tr>
+<td colspan="3">
+<p align="center">Guyane</p>
+</td>
+</tr>
+<tr>
 <td align="left" valign="top">
-<p align="left">Cayenne</p>
+<p align="left">Cayenne </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Cayenne</p>
+<p align="left">Cayenne </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest,<br/>Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest,<br/>Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne<br/>6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula,<br/>Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura,<br/>Saint-Georges-Oyapoc, Saint-Laurent-du-Maroni et Sinnamary.</p>
+<p align="left">Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest,<br/>Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest,<br/>Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne<br/>6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana,<br/>Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly,<br/>Roura, Saint-Georges-Oyapoc, Saint-Laurent-du-Maroni et<br/>Sinnamary. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Dont une chambre détachée à Saint-Laurent-du-Maroni </p>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Ressort de la chambre détachée à Saint-Laurent-du-Maroni :<br/>Mana, Maripasoula, Saint-Laurent-du-Maroni</p>
 </td>
 </tr>
 <tr>
@@ -2496,7 +2512,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td colspan="3" valign="top" width="596">
-<p align="center">Cour d'appel de Fort-de-France (Martinique)</p>
+<p align="center">Cour d'appel de Fort-de-France (Martinique) </p>
 </td>
 </tr>
 <tr>
@@ -2507,7 +2523,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>Fort-de-France </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Basse-Pointe, Case-Pilote-Bellefontaine, Ducos, Fort-de-France 1er canton, Fort-de-France 2e canton, Fort-de-France 3e canton, Fort-de-France 4e canton, Fort-de-France 5e canton, Fort-de-France 6e canton, Fort-de-France 7e canton, Fort-de-France 8e canton, Fort-de-France 9e canton, Fort-de-France 10e canton, Gros-Morne, L'Ajoupa-Bouillon, La Trinité, Le Carbet, Le Diamant, Le François 1er canton Nord, Le François 2e canton Sud, Le Lamentin 1er canton Sud-Bourg, Le Lamentin 2e canton Nord, Le Lamentin 3e canton Est, Le Lorrain, Le Marigot, Le Marin, Le Morne-Rouge, Le Prêcheur, Le Robert 1er canton Sud, Le Robert 2e canton Nord, Le Vauclin, Les Anses-d'Arlet, Les Trois-Îlets, Macouba, Rivière-Pilote, Rivière-Salée, Sainte-Anne, Sainte-Luce, Sainte-Marie 1er canton Nord, Sainte-Marie 2e canton Sud, Saint-Esprit, Saint-Joseph, Saint-Pierre, Schœlcher 1er canton et Schœlcher 2e canton.</p>
+<p>Cantons de Basse-Pointe, Case-Pilote-Bellefontaine, Ducos, Fort-de-France 1er canton, Fort-de-France 2e canton, Fort-de-France 3e canton, Fort-de-France 4e canton, Fort-de-France 5e canton, Fort-de-France 6e canton, Fort-de-France 7e canton, Fort-de-France 8e canton, Fort-de-France 9e canton, Fort-de-France 10e canton, Gros-Morne, L'Ajoupa-Bouillon, La Trinité, Le Carbet, Le Diamant, Le François 1er canton Nord, Le François 2e canton Sud, Le Lamentin 1er canton Sud-Bourg, Le Lamentin 2e canton Nord, Le Lamentin 3e canton Est, Le Lorrain, Le Marigot, Le Marin, Le Morne-Rouge, Le Prêcheur, Le Robert 1er canton Sud, Le Robert 2e canton Nord, Le Vauclin, Les Anses-d'Arlet, Les Trois-Îlets, Macouba, Rivière-Pilote, Rivière-Salée, Sainte-Anne, Sainte-Luce, Sainte-Marie 1er canton Nord, Sainte-Marie 2e canton Sud, Saint-Esprit, Saint-Joseph, Saint-Pierre, Schœlcher 1er canton et Schœlcher 2e canton. </p>
 </td>
 </tr>
 <tr>
@@ -2681,7 +2697,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <tr>
 <td rowspan="3" valign="top" width="154">
 <p align="left">[Vienne (19)] </p>
-<p align="left">[Villefontaine (20)]<br/>
+<p align="left">[Villefontaine (20)] <br/>
 </p>
 </td>
 <td valign="top" width="109">
@@ -2704,7 +2720,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p align="left">[Vienne </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Cantons de Beaurepaire, Heyrieux, La Côte-Saint-André,<br/>La Verpillière, L'Isle-d'Abeau, Pont-de-Chéruy, Roussillon,<br/>Saint-Jean-de-Bournay, Vienne-Nord et Vienne-Sud.<br/>
+<p align="left">Cantons de Beaurepaire, Heyrieux, La Côte-Saint-André,<br/>La Verpillière, L'Isle-d'Abeau, Pont-de-Chéruy, Roussillon,<br/>Saint-Jean-de-Bournay, Vienne-Nord et Vienne-Sud. <br/>
 </p>
 </td>
 </tr>
@@ -2850,11 +2866,9 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </td>
 </tr>
 <tr>
-<td valign="top" width="154">
-<p>Ain </p>
+<td colspan="3">
+<p align="center">Ain</p>
 </td>
-<td valign="top" width="109"/>
-<td valign="top" width="333"/>
 </tr>
 <tr>
 <td valign="top" width="154">
@@ -3517,13 +3531,13 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td valign="top" width="154">
-<p>[Saint-Dié-des-Vosges (5)] </p>
+<p align="left">[Saint-Dié-des-Vosges (5)] </p>
 </td>
 <td valign="top" width="109">
-<p>Saint-Dié-des-Vosges </p>
+<p align="left">Saint-Dié-des-Vosges </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Brouvelieures, Corcieux, Fraize, Gérardmer, Provenchères-sur-Fave, Raon-l'Étape, Saint-Dié-des-Vosges-Est, Saint-Dié-des-Vosges-Ouest et Senones. </p>
+<p align="left">Cantons de Brouvelieures, Corcieux, Fraize, Gérardmer, Provenchères-sur-Fave, Raon-l'Étape, Saint-Dié-des-Vosges-Est, Saint-Dié-des-Vosges-Ouest et Senones. </p>
 </td>
 </tr>
 <tr>
@@ -3854,7 +3868,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>[Vendôme </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1 ` t canton et Vendôme 2e canton. (3)] </p>
+<p>Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1er canton et Vendôme 2e canton. (3)] </p>
 </td>
 </tr>
 <tr>
@@ -5157,7 +5171,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>Redon </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Bain-de-Bretagne, Grand-Fougeray, Guichen, Le Sel-de-Bretagne, Maure-de-Bretagne, Pipriac et Redon.</p>
+<p>Cantons de Bain-de-Bretagne, Grand-Fougeray, Guichen, Le Sel-de-Bretagne, Maure-de-Bretagne, Pipriac et Redon. </p>
 </td>
 </tr>
 <tr>
@@ -5966,10 +5980,10 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Montauban</p>
+<p align="left">Montauban </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Cantons de Caussade, Caylus, Lafrançaise, Molières,<br/>Monclar-de-Quercy, Montauban, 1er canton, Montauban 2e<br/>canton, Montauban 3ème canton, Montauban 4e canton,<br/>Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy,<br/>Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier.<br/>
+<p align="left">Cantons de Caussade, Caylus, Lafrançaise, Molières,<br/>Monclar-de-Quercy, Montauban, 1er canton, Montauban 2e<br/>canton, Montauban 3ème canton, Montauban 4e canton,<br/>Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy, Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier. <br/>
 </p>
 </td>
 </tr>
@@ -6236,9 +6250,6 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 </tbody>
 </table>
-<div align="center"/>
-<div align="center"/>
-<div align="center"/>
 <div align="center">
 <table>
 <tbody>
@@ -6265,30 +6276,30 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td rowspan="3" valign="top" width="216">
-<p align="left">Nouméa </p>
+<p>Nouméa </p>
 </td>
 <td width="178">
 <br/>
 <br/>
 </td>
 <td width="210">
-<p align="left">Nouvelle-Calédonie. </p>
+<p>Nouvelle-Calédonie. </p>
 </td>
 </tr>
 <tr>
 <td width="178">
-<p align="left">Koné </p>
+<p>Koné </p>
 </td>
 <td width="210">
-<p align="left">Province Nord. </p>
+<p>Province Nord. </p>
 </td>
 </tr>
 <tr>
 <td width="178">
-<p align="left">Lifou </p>
+<p>Lifou </p>
 </td>
 <td width="210">
-<p align="left">Province des Îles Loyauté. </p>
+<p>Province des Îles Loyauté. </p>
 </td>
 </tr>
 <tr>
@@ -6298,10 +6309,10 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td colspan="2" width="394">
-<p align="left">Mata-Utu </p>
+<p>Mata-Utu </p>
 </td>
 <td width="210">
-<p align="left">Territoire des îles Wallis et Futuna. </p>
+<p align="center">Territoire des îles Wallis et Futuna. </p>
 </td>
 </tr>
 <tr>
@@ -6316,38 +6327,35 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td rowspan="3" valign="top" width="216">
-<p align="left">Papeete </p>
+<p>Papeete </p>
 </td>
 <td width="178">
 <br/>
 <br/>
 </td>
 <td width="210">
-<p align="left">Collectivité d'outre-mer de la Polynésie française. </p>
+<p>Collectivité d'outre-mer de la Polynésie française. </p>
 </td>
 </tr>
 <tr>
 <td width="178">
-<p align="left">Uturoa </p>
+<p>Uturoa </p>
 </td>
 <td width="210">
-<p align="left">Îles Sous-le-Vent. </p>
+<p>Îles Sous-le-Vent. </p>
 </td>
 </tr>
 <tr>
 <td width="178">
-<p align="left">Nuku-Hiva </p>
+<p>Nuku-Hiva </p>
 </td>
 <td width="210">
-<p align="left">Îles Marquises. </p>
+<p>Îles Marquises. </p>
 </td>
 </tr>
 </tbody>
 </table>
 </div>
-
-..
-
 <table>
 <tbody>
 <tr>
