@@ -12,6 +12,7 @@
 - [Article D774-13](article-d774-13.md)
 - [Article D774-14](article-d774-14.md)
 - [Article D774-19](article-d774-19.md)
+- [Article D774-20](article-d774-20.md)
 - [Article R774-1](article-r774-1.md)
 - [Article R774-3](article-r774-3.md)
 - [Article R774-5](article-r774-5.md)

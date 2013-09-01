@@ -12,6 +12,7 @@
 - [Article D773-13](article-d773-13.md)
 - [Article D773-14](article-d773-14.md)
 - [Article D773-19](article-d773-19.md)
+- [Article D773-20](article-d773-20.md)
 - [Article R773-1](article-r773-1.md)
 - [Article R773-3](article-r773-3.md)
 - [Article R773-5](article-r773-5.md)
