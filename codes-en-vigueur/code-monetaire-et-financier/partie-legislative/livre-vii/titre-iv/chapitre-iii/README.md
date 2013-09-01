@@ -1,6 +1,6 @@
 # Chapitre III : Les services
 
-- [Section 1 : Les opérations de banque](section-1)
+- [Section 1 : Les opérations de banque, les services de paiement, l'émission et la gestion de la monnaie électronique](section-1)
 - [Section 2  : Les services de paiement](section-2)
 - [Section 3 : Dispositions communes aux établissements de crédit  et aux établissements de paiement](section-3)
 - [Section 4 : Les services d'investissement et leurs services connexes.](section-4)

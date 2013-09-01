@@ -1,4 +1,4 @@
-# Section 2 : Prestataires de services de paiement et changeurs manuels
+# Section 2 :  Prestataires de services de paiement, changeurs manuels et émetteurs de monnaie électronique
 
 - [Sous-section 1 : Prestataires de services de paiement](sous-section-1)
 - [Sous-section 2 : Les établissements de paiement](sous-section-2)
