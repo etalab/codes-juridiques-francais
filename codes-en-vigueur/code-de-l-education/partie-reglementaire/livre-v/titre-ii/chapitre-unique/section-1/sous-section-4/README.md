@@ -4,5 +4,3 @@
 - [Article D521-11](article-d521-11.md)
 - [Article D521-12](article-d521-12.md)
 - [Article D521-13](article-d521-13.md)
-- [Article D521-14](article-d521-14.md)
-- [Article D521-15](article-d521-15.md)
