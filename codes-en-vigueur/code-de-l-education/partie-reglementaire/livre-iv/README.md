@@ -1,5 +1,6 @@
 # Livre IV : Les établissements d'enseignement scolaire.
 
+- [Titre Préliminaire : Dispositions communes](titre-preliminaire)
 - [Titre Ier : Les écoles.](titre-ier)
 - [Titre II : Les collèges et les lycées.](titre-ii)
 - [Titre III : Les centres de formation d'apprentis.](titre-iii)
