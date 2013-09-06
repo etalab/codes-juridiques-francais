@@ -8,3 +8,4 @@
 - [Section 6 : Sanctions pénales de la récidive](section-6)
 - [Section 7 : Protection des personnes bénéficiant de réduction de peines pour avoir permis d'éviter la réalisation d'infractions, de faire cesser ou d'atténuer le dommage causé par une infraction, ou d'identifier les auteurs ou complices d'infractions](section-7)
 - [Section 8 : De la prolifération des vecteurs d'armes de destruction massive.](section-8)
+- [Section 9 : Peines complémentaires applicables aux personnes physiques](section-9)
