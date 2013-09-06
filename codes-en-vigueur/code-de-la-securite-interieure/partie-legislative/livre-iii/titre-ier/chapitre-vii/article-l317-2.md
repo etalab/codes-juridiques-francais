@@ -1,8 +1,8 @@
 # Article L317-2
 
-Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende :
+Est puni de cinq ans d'emprisonnement et de 75 000 € d'amende :
 
-1° Le fait de contrevenir aux dispositions des articles L. 312-5 et L. 313-3 ;
+1° Le fait de contrevenir aux dispositions des articles L. 312-5 et L. 317-1 ;
 
 2° Le fait de vendre ou d'acheter des matériels de guerre, des armes, des munitions ou leurs éléments en méconnaissance des dispositions des articles L. 313-4 et L. 313-5 ;
 

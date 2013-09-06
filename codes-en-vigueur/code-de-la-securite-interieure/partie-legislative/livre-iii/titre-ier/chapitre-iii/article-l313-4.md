@@ -1,6 +1,6 @@
 # Article L313-4
 
-Le commerce de détail des matériels de guerre, armes, munitions ou de leurs éléments des 1re, 2e, 3e, 4e, 5e ou 7e catégories ainsi que des armes de 6e catégorie énumérées par décret en Conseil d'Etat ne peut se faire que dans les locaux mentionnés aux premier et troisième alinéas de l'article L. 313-3.
+Le commerce de détail des matériels de guerre, armes, munitions ou de leurs éléments essentiels des catégories A, B, C ainsi que des armes de catégorie D énumérées par décret en Conseil d'Etat ne peut se faire que dans les locaux mentionnés aux premier et troisième alinéas de l'article L. 313-3.
 
 Les dispositions du premier alinéa ne sont pas applicables aux ventes organisées en application du code du domaine de l'Etat et aux ventes aux enchères publiques.
 

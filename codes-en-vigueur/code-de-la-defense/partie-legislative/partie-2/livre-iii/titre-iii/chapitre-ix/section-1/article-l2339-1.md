@@ -14,6 +14,8 @@ Les agents habilités de l'Etat qui ont connaissance à titre quelconque des ren
 
 Par dérogation à l'alinéa précédent, les agents des douanes et les agents habilités du ministère de la défense mentionnés au présent article peuvent se communiquer spontanément tous les renseignements et documents détenus ou recueillis dans le cadre de leurs missions respectives.
 
+Les procès-verbaux des infractions constatées aux prescriptions du présent titre sont transmis au représentant de l'Etat dans le département ou, à Paris, au préfet de police.
+
 En cas d'infraction aux dispositions du présent titre, les services compétents du ministère de la défense adressent au procureur de la République les procès-verbaux des constatations effectuées. Une expédition est également transmise au ministre de la défense.
 
 Sans préjudice de l'application de l'article 36 du code de procédure pénale, l'action publique en matière d'infraction aux dispositions des chapitres II à V du présent titre relatives aux matériels de guerre et aux matériels assimilés visés aux I et III de l'article L. 2331-1 du présent code et commise par une personne morale visée au I de l'article L. 2332-1 ou par une personne morale fabricant de matériels assimilés est mise en mouvement par le procureur de la République territorialement compétent.
@@ -24,4 +26,4 @@ A défaut de cette dénonciation, le procureur de la République informe le mini
 
 Hormis le cas d'urgence, le ministre de la défense ou l'autorité habilitée par lui donne son avis dans le délai d'un mois, par tout moyen.
 
-L'autorité visée au huitième alinéa du présent article est habilitée par arrêté du ministre de la défense.
+L'autorité visée au neuvième alinéa du présent article est habilitée par arrêté du ministre de la défense.

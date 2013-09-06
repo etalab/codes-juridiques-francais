@@ -1,6 +1,6 @@
 # Article L313-3
 
-L'ouverture de tout local destiné au commerce de détail des armes et munitions, ou de leurs éléments, des 5e et 7e catégories ainsi que des armes de 6e catégorie énumérées par décret en Conseil d'Etat est soumise à autorisation. Celle-ci est délivrée par le représentant de l'Etat dans le département où est situé ce local, ou, à Paris, par le préfet de police, après avis du maire.
+L'ouverture de tout local destiné au commerce de détail des armes et munitions, ou de leurs éléments essentiels, des catégories C ou D énumérés  par décret en Conseil d'Etat est soumise à autorisation. Celle-ci est délivrée par le représentant de l'Etat dans le département où est situé ce local, ou, à Paris, par le préfet de police, après avis du maire.
 
 Cette autorisation est refusée si la protection de ce local contre le risque de vol ou d'intrusion est insuffisante. Elle peut, en outre, être refusée s'il apparaît que l'exploitation de ce local présente, notamment du fait de sa localisation, un risque particulier pour l'ordre et la sécurité publics.
 

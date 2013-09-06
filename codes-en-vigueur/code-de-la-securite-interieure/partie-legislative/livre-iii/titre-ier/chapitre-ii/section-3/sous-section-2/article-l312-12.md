@@ -2,7 +2,7 @@
 
 Lorsque l'intéressé ne s'est pas dessaisi de l'arme dans le délai fixé par le représentant de l'Etat dans le département, celui-ci lui ordonne de la remettre, ainsi que ses munitions, aux services de police ou de gendarmerie.
 
-Le commissaire de police ou le commandant de la brigade de gendarmerie peut demander au juge des libertés et de la détention l'autorisation de procéder à la saisie de l'arme et des munitions, entre 6 heures et 22 heures, au domicile du détenteur. La demande d'autorisation comporte toutes les informations en leur possession de nature à justifier cette saisie afin de permettre au juge des libertés et de la détention de vérifier que cette demande est fondée.
+Le commissaire de police ou le commandant de la brigade de gendarmerie peut demander au juge des libertés et de la détention l'autorisation de procéder à la saisie de l'arme et des munitions, entre 6 heures et 21 heures, au domicile du détenteur. La demande d'autorisation comporte toutes les informations en leur possession de nature à justifier cette saisie afin de permettre au juge des libertés et de la détention de vérifier que cette demande est fondée.
 
 La saisie de l'arme désignée à l'alinéa précédent s'effectue sous l'autorité et le contrôle du juge des libertés et de la détention qui l'a autorisée ou d'un juge par lui désigné. Ce magistrat peut se rendre sur les lieux. A tout moment, il peut suspendre ou interrompre la saisie au domicile.
 
