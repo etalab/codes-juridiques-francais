@@ -4,6 +4,7 @@
 - [2° : Dispositions relatives aux vérifications des comptabilités](2)
 - [3° : Dispositions relatives aux institutions et organismes qui n'ont pas la qualité de commerçant](3)
 - [2° bis : Dispositions relatives au contrôle sur demande](2-bis)
+- [2° ter : Dispositions relatives au contrôle des factures électroniques](2-ter)
 - [Article L10](article-l10.md)
 - [Article L10-0 A](article-l10-0-a.md)
 - [Article L10 A](article-l10-a.md)
