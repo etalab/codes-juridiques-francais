@@ -3,8 +3,8 @@
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="21">
-<p align="center">N° </p>
+<td align="center" rowspan="2" valign="middle">
+<p align="center">N°</p>
 </td>
 <td colspan="3" width="498">
 <p align="center">A-NOMENCLATURE DES INSTALLATIONS CLASSEES </p>
@@ -114,15 +114,12 @@
 </td>
 <td valign="top" width="31">
 <br/>
-<br/>
 </td>
 <td valign="top" width="34">
-<br/>
 <br/>
 </td>
 <td valign="top" width="148"/>
 <td valign="top" width="33">
-<br/>
 <br/>
 </td>
 </tr>
@@ -132,33 +129,27 @@
 </td>
 <td valign="top" width="31">
 <br/>
-<br/>
 </td>
 <td valign="top" width="34">
-<br/>
 <br/>
 </td>
 <td valign="top" width="148"/>
 <td valign="top" width="33">
-<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>-comprise entre 24,5 % et 28 % en poids et qui contiennent au plus 0,4 % de substances combustibles ;</p>
+<p>- comprise entre 24,5 % et 28 % en poids et qui contiennent au plus 0,4 % de substances combustibles ;</p>
 </td>
 <td valign="top" width="31">
-<br/>
 <br/>
 </td>
 <td valign="top" width="34">
 <br/>
-<br/>
 </td>
 <td valign="top" width="148"/>
 <td valign="top" width="33">
-<br/>
 <br/>
 </td>
 </tr>
@@ -168,15 +159,12 @@
 </td>
 <td valign="top" width="31">
 <br/>
-<br/>
 </td>
 <td valign="top" width="34">
-<br/>
 <br/>
 </td>
 <td valign="top" width="148"/>
 <td valign="top" width="33">
-<br/>
 <br/>
 </td>
 </tr>
@@ -243,11 +231,9 @@
 </td>
 <td valign="top" width="34">
 <br/>
-<br/>
 </td>
 <td valign="top" width="148"/>
 <td valign="top" width="33">
-<br/>
 <br/>
 </td>
 </tr>
@@ -263,9 +249,7 @@
 <br/>
 <br/>
 </td>
-<td valign="top" width="148">
-<p>2. La quantité totale susceptible d'être présente dans l'installation étant : </p>
-</td>
+<td valign="top" width="148"/>
 <td valign="top" width="33">
 <br/>
 <br/>
@@ -277,15 +261,14 @@
 </td>
 <td valign="top" width="31">
 <br/>
-<br/>
 </td>
 <td valign="top" width="34">
 <br/>
-<br/>
 </td>
-<td valign="top" width="148"/>
+<td valign="top" width="148">
+<p>2. La quantité totale susceptible d'être présente dans l'installation étant : </p>
+</td>
 <td valign="top" width="33">
-<br/>
 <br/>
 </td>
 </tr>
@@ -332,11 +315,9 @@
 </td>
 <td valign="top" width="34">
 <br/>
-<br/>
 </td>
 <td valign="top" width="148"/>
 <td valign="top" width="33">
-<br/>
 <br/>
 </td>
 </tr>
@@ -345,7 +326,7 @@
 <p>1331 </p>
 </td>
 <td valign="top" width="433">
-<p>Engrais solides simples et composés à base de nitrate d'ammonium correspondant aux spécifications du règlement européen n°<sup/>2003/2003 du Parlement européen et du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme française équivalente NF U 42-001 (stockage de) : </p>
+<p>Engrais solides simples et composés à base de nitrate d'ammonium correspondant aux spécifications du règlement européen n° 2003/2003 du Parlement européen et du Conseil du 13 octobre 2003 relatif aux engrais ou à la norme française équivalente NF U 42-001 (stockage de) : </p>
 </td>
 <td valign="top" width="31">
 <br/>
@@ -648,7 +629,7 @@
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>(*) Annexe III-2 relative à l'essai de détonabilité décrit dans la section 3 (méthode 1, point 3) et la section 4 de l'annexe III du règlement européen n° 2003/2003. </p>
+<p>(*) Annexe III-2 relative à l'essai de détonabilité décrit dans la section 3 (méthode 1, point 3) et la section 4 de l'annexe III du règlement européen no 2003/2003. </p>
 </td>
 <td valign="top" width="31">
 <br/>
@@ -666,7 +647,7 @@
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>(**) Cette conformité n'est pas exigée dans le cas des engrais solides simples à base de nitrate d'ammonium dans lesquels la teneur en azote due au nitrate d'ammonium est comprise entre 24,5 % et 28 % et les matières inertes ajoutées sont du type dolomie, calcaire et/ ou carbonate de calcium dont la pureté est d'au moins 90 %. </p>
+<p>(**) Cette conformité n'est pas exigée dans le cas des engrais solides simples à base de nitrate d'ammonium dans lesquels la teneur en azote due au nitrate d'ammonium est comprise entre 24,5 % et 28 % et les matières inertes ajoutées sont du type dolomie, calcaire et/ou carbonate de calcium dont la pureté est d'au moins 90 %. </p>
 </td>
 <td valign="top" width="31">
 <br/>
@@ -709,21 +690,18 @@
 </td>
 <td valign="top" width="31">
 <br/>
-<br/>
 </td>
 <td valign="top" width="34">
-<br/>
 <br/>
 </td>
 <td valign="top" width="148"/>
 <td valign="top" width="33">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>-aux matières rejetées ou écartées au cours du processus de fabrication, au nitrate d'ammonium et aux préparations à base de nitrate d'ammonium, aux engrais simples à base de nitrate d'ammonium et aux engrais composés à base de nitrate d'ammonium qui sont ou ont été renvoyés par l'utilisateur final à un fabricant, à une installation de stockage temporaire ou à une usine de retraitement pour subir un nouveau processus, un recyclage ou un traitement en vue de pouvoir être utilisés sans danger, parce qu'ils ne satisfaisaient plus aux prescriptions des rubriques 1330 et 1331-II ;</p>
+<p>- aux matières rejetées ou écartées au cours du processus de fabrication, au nitrate d'ammonium et aux préparations à base de nitrate d'ammonium, aux engrais simples à base de nitrate d'ammonium et aux engrais composés à base de nitrate d'ammonium qui sont ou ont été renvoyés par l'utilisateur final à un fabricant, à une installation de stockage temporaire ou à une usine de retraitement pour subir un nouveau processus, un recyclage ou un traitement en vue de pouvoir être utilisés sans danger, parce qu'ils ne satisfaisaient plus aux prescriptions des rubriques 1330 et 1331-II ;</p>
 </td>
 <td valign="top" width="31">
 <br/>
@@ -741,8 +719,8 @@
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>-aux engrais simples à base de nitrate d'ammonium dans lesquels la teneur en azote due au nitrate d'ammonium est supérieure à 28 % qui ne satisfont pas aux exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ;</p>
-<p>-aux engrais visés dans les rubriques 1331-I, deuxième alinéa, 1331-II qui ne satisfont pas aux exigences de l'annexe III-2 (**). </p>
+<p>- aux engrais simples à base de nitrate d'ammonium dans lesquels la teneur en azote due au nitrate d'ammonium est supérieure à 28 % qui ne satisfont pas aux exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ;</p>
+<p>- aux engrais visés dans les rubriques 1331-I, deuxième alinéa, 1331-II qui ne satisfont pas aux exigences de l'annexe III-2 (**). </p>
 </td>
 <td valign="top" width="31">
 <br/>
@@ -1425,15 +1403,12 @@
 </td>
 <td valign="top" width="31">
 <br/>
-<br/>
 </td>
 <td valign="top" width="34">
-<br/>
 <br/>
 </td>
 <td valign="top" width="148"/>
 <td valign="top" width="33">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1485,7 +1460,6 @@
 <td valign="top" width="148"/>
 <td valign="top" width="33">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -1497,11 +1471,9 @@
 </td>
 <td valign="top" width="34">
 <br/>
-<br/>
 </td>
 <td valign="top" width="148"/>
 <td valign="top" width="33">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1817,15 +1789,12 @@
 </td>
 <td valign="top" width="31">
 <br/>
-<br/>
 </td>
 <td valign="top" width="34">
-<br/>
 <br/>
 </td>
 <td valign="top" width="148"/>
 <td valign="top" width="33">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1872,11 +1841,9 @@
 </td>
 <td valign="top" width="34">
 <br/>
-<br/>
 </td>
 <td valign="top" width="148"/>
 <td valign="top" width="33">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1950,7 +1917,6 @@
 </td>
 <td valign="top" width="148"/>
 <td valign="top" width="33">
-<br/>
 <br/>
 </td>
 </tr>
@@ -2506,7 +2472,7 @@
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>3. Supérieur à 100 m³ mais inférieur ou égal à 3 500 m³. </p>
+<p>3. Supérieur à 100 m ³ mais inférieur ou égal à 3 500 m ³. </p>
 </td>
 <td valign="top" width="31">
 <p align="center">DC </p>
@@ -2985,7 +2951,7 @@
 <p align="center">2 </p>
 </td>
 <td valign="top" width="148">
-<p>A. La quantité totale susceptible d'être présente dans l'installation étant supérieure ou égale à 2,5 t </p>
+<p>A. La quantité totale susceptible d'être présente dans l'installation étant supérieure ou égale à<br/>2,5 t </p>
 </td>
 <td valign="top" width="33">
 <p align="center">3 </p>
@@ -3293,15 +3259,12 @@
 </td>
 <td valign="top" width="31">
 <br/>
-<br/>
 </td>
 <td valign="top" width="34">
-<br/>
 <br/>
 </td>
 <td valign="top" width="148"/>
 <td valign="top" width="33">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3318,7 +3281,6 @@
 <td valign="top" width="148"/>
 <td valign="top" width="33">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -3326,15 +3288,13 @@
 <p>2. Supérieur à 20 000 m³ mais inférieur ou égal à 50 000 m³ ; </p>
 </td>
 <td valign="top" width="31">
-<p align="center">E </p>
+<p align="center">E</p>
 </td>
 <td valign="top" width="34">
-<br/>
 <br/>
 </td>
 <td valign="top" width="148"/>
 <td valign="top" width="33">
-<br/>
 <br/>
 </td>
 </tr>
@@ -3347,13 +3307,9 @@
 </td>
 <td valign="top" width="34">
 <br/>
-<br/>
 </td>
 <td valign="top" width="148"/>
-<td valign="top" width="33">
-<br/>
-<br/>
-</td>
+<td valign="top" width="33"/>
 </tr>
 <tr>
 <td valign="top" width="21">
@@ -3376,11 +3332,11 @@
 </td>
 </tr>
 <tr>
-<td rowspan="4" valign="top" width="21">
+<td rowspan="5" valign="top" width="21">
 <p>1532 </p>
 </td>
 <td valign="top" width="433">
-<p>Bois sec ou matériaux combustibles analogues, y compris les produits finis conditionnés (dépôt de), à l'exception des établissements recevant du public. </p>
+<p>Bois ou matériaux combustibles analogues y compris les produits finis conditionnés et les produits ou déchets répondant à la définition de la biomasse et visés par la rubrique 2910-A, ne relevant pas de la rubrique 1531 (stockage de), à l'exception des établissements recevant du public.</p>
 </td>
 <td valign="top" width="31">
 <br/>
@@ -3416,7 +3372,7 @@
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>1. Supérieur à 20 000 m³ ; </p>
+<p>1. Supérieur à 50 000 m³ </p>
 </td>
 <td valign="top" width="31">
 <p align="center">A </p>
@@ -3432,10 +3388,10 @@
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>2. Supérieur à 1 000 m³ mais inférieur ou égal à 20 000 m³. </p>
+<p>2. Supérieur à 20 000 m³ mais inférieur ou égal à 50 000 m³ </p>
 </td>
 <td valign="top" width="31">
-<p align="center">D </p>
+<p align="center">E </p>
 </td>
 <td valign="top" width="34">
 <br/>
@@ -3446,6 +3402,16 @@
 <br/>
 <br/>
 </td>
+</tr>
+<tr>
+<td>
+<p align="left">3. Supérieur à 1 000 m³ mais inférieur ou égal à 20 000 m³ <br/>
+</p>
+</td>
+<td align="center">D</td>
+<td/>
+<td/>
+<td/>
 </tr>
 <tr>
 <td rowspan="3" valign="top" width="21">
