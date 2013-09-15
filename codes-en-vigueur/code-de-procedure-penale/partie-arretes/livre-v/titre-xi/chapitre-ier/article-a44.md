@@ -1454,7 +1454,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p>Service pénitentiaire d'insertion et de probation de l'Orne. </p>
 </td>
 <td rowspan="2" valign="top">
-<p>Alençon.</p>
+<p>Argentan.</p>
 </td>
 <td valign="top">
 <p>Antenne d'Alençon. </p>
