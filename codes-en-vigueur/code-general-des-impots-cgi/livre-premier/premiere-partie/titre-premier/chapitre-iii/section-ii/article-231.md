@@ -26,6 +26,6 @@ b. Un décret en Conseil d'Etat fixe les conditions d'application du premier ali
 
 4. (Abrogé)
 
-5. Le taux de 4,25 % prévu au 1 est réduit à 2,95 %, dans les départements de la Guadeloupe, de la Martinique et de la Réunion, et à 2,55 % dans le département de la Guyane.
+5. Le taux de 4,25 % prévu au 1 est réduit à 2,95 %, dans les départements de la Guadeloupe, de la Martinique et de la Réunion, et à 2,55 % dans les départements de la Guyane et de Mayotte.
 
 6. Les dispositions de l'article 1er de la loi n° 68-1043 du 29 novembre 1968, qui, sous réserve du 1, ont supprimé la taxe sur les salaires pour les rémunérations versées à compter du 1er décembre 1968, n'apportent aucune modification aux textes législatifs et réglementaires en vigueur, autres que ceux repris sous le présent article, et qui se réfèrent à la taxe sur les salaires.

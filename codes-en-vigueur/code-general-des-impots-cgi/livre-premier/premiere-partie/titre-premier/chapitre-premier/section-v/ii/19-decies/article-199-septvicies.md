@@ -102,7 +102,7 @@ X. ― A compter de la publication d'un arrêté des ministres chargés du budge
 
 Toutefois, cette réduction d'impôt est également acquise au titre des logements situés dans les communes mentionnées au premier alinéa lorsqu'elles ont fait l'objet d'un agrément délivré par le ministre chargé du logement, dans des conditions définies par décret, après avis du maire de la commune d'implantation ou du président de l'établissement public de coopération intercommunale territorialement compétent en matière d'urbanisme. La décision du ministre de délivrer ou non l'agrément doit tenir compte des besoins en logements adaptés à la population.
 
-XI.-Les investissements mentionnés aux I et VIII et afférents à des logements situés dans les départements d'outre-mer, à Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ou à des souscriptions employées dans les conditions définies au neuvième alinéa du VIII pour le financement de tels logements ouvrent droit à la réduction d'impôt prévue au présent article dans les mêmes conditions, sous réserve des adaptations prévues au présent XI.
+XI.-Les investissements mentionnés aux I et VIII et afférents à des logements situés dans les départements d'outre-mer, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ou à des souscriptions employées dans les conditions définies au neuvième alinéa du VIII pour le financement de tels logements ouvrent droit à la réduction d'impôt prévue au présent article dans les mêmes conditions, sous réserve des adaptations prévues au présent XI.
 
 a) Pour ces investissements, le taux de la réduction est égal :
 

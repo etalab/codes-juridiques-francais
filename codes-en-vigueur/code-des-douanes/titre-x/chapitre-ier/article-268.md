@@ -1,6 +1,6 @@
 # Article 268
 
-1. Les cigarettes, les cigares, cigarillos, les tabacs à mâcher, les tabacs à priser, les tabacs fine coupe destinés à rouler les cigarettes et les autres tabacs à fumer, destinés à être consommés dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, sont passibles d'un droit de consommation.
+1. Les cigarettes, les cigares, cigarillos, les tabacs à mâcher, les tabacs à priser, les tabacs fine coupe destinés à rouler les cigarettes et les autres tabacs à fumer, destinés à être consommés dans les départements de la Guadeloupe, de la Guyane, de la Martinique, de Mayotte et de la Réunion, sont passibles d'un droit de consommation.
 
 Les taux et l'assiette du droit de consommation sont fixés par délibération des conseils généraux des départements. Ces délibérations prennent effet au plus tôt au 1er janvier 2001.
 
@@ -18,7 +18,7 @@ Les conseils généraux des départements d'outre-mer peuvent également établi
 
 3. Le droit de consommation est recouvré comme en matière de droit de douane. Les infractions sont constatées et réprimées et les instances instruites et jugées conformément aux dispositions du code des douanes.
 
-4. Le produit du droit de consommation perçu à la Guyane et à la Réunion sur les cigarettes, cigares et cigarillos, tabac à fumer, tabac à mâcher et tabac à priser, est affecté au budget de ces départements. Il en est de même à la Guadeloupe et à la Martinique à compter du 1er janvier 2001.
+4. Le produit du droit de consommation perçu à la Guyane et à la Réunion sur les cigarettes, cigares et cigarillos, tabac à fumer, tabac à mâcher et tabac à priser, est affecté au budget de ces départements. Il en est de même à la Guadeloupe et à la Martinique à compter du 1er janvier 2001 et à Mayotte à compter du 1er janvier 2014.
 
 Les conseils généraux des départements d'outre-mer peuvent fixer, par délibération, un prix de détail des cigarettes exprimé aux 1 000 unités et un prix de détail des tabacs fine coupe destinés à rouler des cigarettes exprimé aux 1 000 grammes, en deçà duquel ces différents produits du tabac ne peuvent être vendus dans leur circonscription administrative. Pour chacun de ces produits, ce prix est supérieur à 66 % et au plus égal à 110 % de la moyenne pondérée des prix homologués mentionnée au 1.
 

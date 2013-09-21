@@ -30,7 +30,7 @@ d) Des bénéfices agricoles mentionnés à l'article 63 ;
 
 e) Des bénéfices tirés de l'exercice d'une profession non commerciale mentionnés au 1 de l'article 92.
 
-Les revenus exonérés en application des articles 44 sexies à 44 undecies , 44 terdecies à 44 quindecies ou du 9 de l'article 93 sont retenus pour l'appréciation du montant des revenus définis aux c, d et e. Il n'est pas tenu compte des déficits des années antérieures ainsi que des plus-values et moins-values professionnelles à long terme.
+Les revenus exonérés en application des articles 44 sexies à 44 undecies, 44 terdecies à 44 quindecies ou du 9 de l'article 93 sont retenus pour l'appréciation du montant des revenus définis aux c, d et e. Il n'est pas tenu compte des déficits des années antérieures ainsi que des plus-values et moins-values professionnelles à long terme.
 
 Pour l'appréciation du montant des revenus définis aux c et e, les revenus soumis aux versements libératoires prévus par l'article 151-0 sont retenus pour leur montant diminué, selon le cas, de l'abattement prévu au 1 de l'article 50-0 ou de la réfaction forfaitaire prévue au 1 de l'article 102 ter.
 
@@ -38,15 +38,15 @@ C.-Les membres du foyer fiscal ne doivent pas être passibles de l'impôt de sol
 
 II.-Lorsque les conditions définies au I sont réunies, la prime, au titre des revenus professionnels, est calculée, le cas échéant, après application de la règle fixée au III, selon les modalités suivantes :
 
-A. 1° Pour chaque personne dont les revenus professionnels évalués conformément au 1° du B du I, et convertis, en tant que de besoin, en équivalent temps plein sont inférieurs à 12 475 €, la prime est égale à 7, 7 % du montant de ces revenus.
+A. 1° Pour chaque personne dont les revenus professionnels évalués conformément au 1° du B du I, et convertis, en tant que de besoin, en équivalent temps plein sont inférieurs à 12 475 €, la prime est égale à 7,7 % du montant de ces revenus.
 
-Lorsque ces revenus sont supérieurs à 12 475 € et inférieurs à 17 451 €, la prime est égale à 19, 3 % de la différence entre 17 451 € et le montant de ces revenus ;
+Lorsque ces revenus sont supérieurs à 12 475 € et inférieurs à 17 451 €, la prime est égale à 19,3 % de la différence entre 17 451 € et le montant de ces revenus ;
 
 2° Pour les personnes dont les revenus ont fait l'objet d'une conversion en équivalent temps plein, le montant de la prime est divisé par les coefficients de conversion définis au 2° du B du I ;
 
 Lorsque ces coefficients sont supérieurs ou égaux à 2, le montant de la prime ainsi obtenu est majoré de 85 %.
 
-Lorsque ces coefficients sont inférieurs à 2 et supérieurs à 1, le montant résultant des dispositions du premier alinéa est multiplié par un coefficient égal à 0, 15. La prime est égale au produit ainsi obtenu, majoré de 85 % du montant de la prime calculé dans les conditions prévues au 1° ;
+Lorsque ces coefficients sont inférieurs à 2 et supérieurs à 1, le montant résultant des dispositions du premier alinéa est multiplié par un coefficient égal à 0,15. La prime est égale au produit ainsi obtenu, majoré de 85 % du montant de la prime calculé dans les conditions prévues au 1° ;
 
 3° Pour les couples dont l'un des membres n'exerce aucune activité professionnelle ou dispose de revenus d'activité professionnelle d'un montant inférieur à 3 743 € :
 
@@ -54,7 +54,7 @@ a) Lorsque les revenus professionnels de l'autre membre du couple, évalués con
 
 b) Lorsque ces revenus sont supérieurs à 17 451 € et inférieurs ou égaux à 24 950 €, le montant de la prime est fixé forfaitairement à 83 € ;
 
-c) Lorsque ces revenus sont supérieurs à 24 950 € et inférieurs à 26 572 €, la prime est égale à 5, 1 % de la différence entre 26 572 € et le montant de ces revenus.
+c) Lorsque ces revenus sont supérieurs à 24 950 € et inférieurs à 26 572 €, la prime est égale à 5,1 % de la différence entre 26 572 € et le montant de ces revenus.
 
 B.-Le montant total de la prime déterminé pour le foyer fiscal conformément aux 1°, 2° et a du 3° du A est majoré de 36 € par personne à charge au sens des articles 196 à 196 B, n'exerçant aucune activité professionnelle ou disposant de revenus d'activité professionnelle d'un montant inférieur à 3 743 €. Toutefois, la majoration est divisée par deux pour les enfants réputés à charge égale de l'un et l'autre de leurs parents.
 
@@ -64,7 +64,7 @@ C.-Pour les personnes placées dans les situations mentionnées aux b et c du 3�
 
 D.-Le montant total de la prime accordée au foyer fiscal est minoré des sommes perçues au cours de l'année civile par les membres de ce foyer fiscal au sens des 1 et 3 de l'article 6 au titre de la prestation mentionnée à l'article L. 262-1 du code de l'action sociale et des familles, à l'exclusion des montants correspondant à la différence entre le montant forfaitaire mentionné au 2° de l'article L. 262-2 du même code et les ressources du foyer définies à l'article L. 262-3 du même code.
 
-III.-Pour l'application du B du I et du II, les revenus des activités professionnelles mentionnées aux c, d et e du 3° du B du I sont majorés, ou diminués en cas de déficits, de 11, 11 %.
+III.-Pour l'application du B du I et du II, les revenus des activités professionnelles mentionnées aux c, d et e du 3° du B du I sont majorés, ou diminués en cas de déficits, de 11,11 %.
 
 IV.-Le montant total de la prime accordée au foyer fiscal s'impute en priorité sur le montant de l'impôt sur le revenu dû au titre de l'année d'imposition des revenus d'activité déclarés. La prime n'est pas due lorsque son montant avant imputation est inférieur à 30 €.
 
@@ -76,4 +76,16 @@ Ce versement suit les règles applicables en matière d'excédent de versement.
 
 V.-Le bénéfice de la prime est subordonné à l'indication par les contribuables, sur la déclaration prévue au 1 de l'article 170, du montant des revenus d'activité professionnelle définis au 3° du B du I et des éléments relatifs à la durée d'exercice de ces activités. Pour bénéficier de la prime pour l'emploi, les contribuables peuvent adresser ces indications à l'administration fiscale au plus tard le 31 décembre de la deuxième année suivant celle de la mise en recouvrement du rôle.
 
-VI.(Abrogé)
+VI. (Abrogé)
+
+VII.-Le montant total de la prime accordée aux contribuables domiciliés dans le Département de Mayotte au 31 décembre de l'année de l'imposition est multiplié par :
+
+0,74 au titre de l'imposition des revenus de l'année 2013 ;
+
+0,81 au titre de l'imposition des revenus de l'année 2014 ;
+
+0,88 au titre de l'imposition des revenus de l'année 2015 ;
+
+0,94 au titre de l'imposition des revenus de l'année 2016.
+
+Le montant de la prime calculé dans ces conditions est arrondi à l'euro le plus proche.

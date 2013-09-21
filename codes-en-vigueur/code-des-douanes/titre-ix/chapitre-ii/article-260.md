@@ -6,7 +6,9 @@ a) à l'intérieur des ports ou des eaux territoriales de la métropole et des d
 
 b) entre les ports d'un de ces mêmes territoires ;
 
-c) entre les ports de la Guadeloupe, de la Guyane et de la Martinique.
+c) entre les ports de la Guadeloupe, de la Guyane et de la Martinique ;
+
+d) Entre les ports de Mayotte et de La Réunion.
 
 2. Les escales ou relâches volontaires à l'étranger n'ont pas pour effet de modifier le caractère de ces opérations, à moins qu'il ne soit justifié qu'au cours desdites escales ou relâches, le navire remorqué a embarqué ou débarqué des marchandises représentant ensemble, en tonneaux d'affrètement, le tiers au moins de la jauge nette ou subi des réparations dont le coût excède 0,46 euro par tonneau de jauge brute totale.
 
