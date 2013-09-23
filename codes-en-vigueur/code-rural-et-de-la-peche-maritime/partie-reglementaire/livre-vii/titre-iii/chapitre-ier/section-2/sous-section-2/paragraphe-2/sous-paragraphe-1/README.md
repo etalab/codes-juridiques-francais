@@ -10,6 +10,7 @@
 - [Article D731-95](article-d731-95.md)
 - [Article D731-96](article-d731-96.md)
 - [Article D731-97](article-d731-97.md)
+- [Article D731-98](article-d731-98.md)
 - [Article D731-99](article-d731-99.md)
 - [Article R731-80](article-r731-80.md)
 - [Article R731-81](article-r731-81.md)
