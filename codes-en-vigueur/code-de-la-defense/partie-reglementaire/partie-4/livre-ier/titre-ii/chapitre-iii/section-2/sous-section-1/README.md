@@ -5,6 +5,7 @@
 - [Article D4123-4](article-d4123-4.md)
 - [Article D4123-5](article-d4123-5.md)
 - [Article D4123-6](article-d4123-6.md)
+- [Article D4123-6-1](article-d4123-6-1.md)
 - [Article D4123-7](article-d4123-7.md)
 - [Article D4123-8](article-d4123-8.md)
 - [Article D4123-9](article-d4123-9.md)
