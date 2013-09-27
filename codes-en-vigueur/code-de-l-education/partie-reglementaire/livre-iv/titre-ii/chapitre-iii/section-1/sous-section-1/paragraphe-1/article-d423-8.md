@@ -1,7 +1,3 @@
 # Article D423-8
 
-Dans le cadre de l'organisation du groupement d'établissements, les chefs d'établissement élaborent au sein du conseil interétablissements la politique du groupement.
-
-Les chefs des établissements adhérents du groupement informent régulièrement et au moins deux fois par an les membres de leur conseil d'administration de l'exécution des conventions qu'ils auront passées dans le cadre du programme annuel d'activité du groupement.
-
-Par ailleurs, les chefs d'établissement assurent, avec leurs adjoints, la responsabilité du déroulement des activités de formation professionnelle continue des adultes relevant de leur établissement.
+Les chefs des établissements membres du groupement informent régulièrement et au moins deux fois par an le conseil d'administration de leur établissement de l'exécution des prestations qu'ils ont réalisées dans le cadre du programme annuel ou pluriannuel d'activité du groupement. Les chefs d'établissement assurent la responsabilité des activités de formation continue des adultes, confiées par l'assemblée générale à leur établissement, dans le respect des clauses des contrats dont elles font l'objet. Ils sont garants de la qualité du service rendu.

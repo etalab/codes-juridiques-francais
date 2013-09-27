@@ -1,4 +1,4 @@
-# Paragraphe 1 : Les groupements d'établissements  relevant du ministère de l'éducation nationale.
+# Paragraphe 1 : Les groupements d'établissements relevant du ministère de l'éducation nationale
 
 - [Article D423-1](article-d423-1.md)
 - [Article D423-2](article-d423-2.md)
