@@ -1,6 +1,7 @@
 # Section 2 : Dispositions générales applicables aux bâtiments d'habitation.
 
 - [Article R*111-1-1](article-r-111-1-1.md)
+- [Article R111-1-2](article-r111-1-2.md)
 - [Article R*111-2](article-r-111-2.md)
 - [Article R*111-3](article-r-111-3.md)
 - [Article R*111-4](article-r-111-4.md)
