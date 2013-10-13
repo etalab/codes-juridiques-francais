@@ -10,6 +10,7 @@
 - [Article 131-24](article-131-24.md)
 - [Article 131-25](article-131-25.md)
 - [Article 131-26](article-131-26.md)
+- [Article 131-26-1](article-131-26-1.md)
 - [Article 131-27](article-131-27.md)
 - [Article 131-28](article-131-28.md)
 - [Article 131-29](article-131-29.md)

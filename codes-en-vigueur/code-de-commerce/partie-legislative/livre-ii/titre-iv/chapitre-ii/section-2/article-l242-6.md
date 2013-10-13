@@ -9,3 +9,5 @@ Est puni d'un emprisonnement de cinq ans et d'une amende de 375 000 euros le fai
 3° Le président, les administrateurs ou les directeurs généraux d'une société anonyme de faire, de mauvaise foi, des biens ou du crédit de la société, un usage qu'ils savent contraire à l'intérêt de celle-ci, à des fins personnelles ou pour favoriser une autre société ou entreprise dans laquelle ils sont intéressés directement ou indirectement ;
 
 4° Le président, les administrateurs ou les directeurs généraux d'une société anonyme de faire, de mauvaise foi, des pouvoirs qu'ils possèdent ou des voix dont ils disposent, en cette qualité, un usage qu'ils savent contraire aux intérêts de la société, à des fins personnelles ou pour favoriser une autre société ou entreprise dans laquelle ils sont intéressés directement ou indirectement.
+
+Outre les peines complémentaires prévues à l'article L. 249-1, le tribunal peut également prononcer à titre de peine complémentaire, dans les cas prévus au présent article, l'interdiction des droits civiques, civils et de famille prévue à l'article 131-26 du code pénal.

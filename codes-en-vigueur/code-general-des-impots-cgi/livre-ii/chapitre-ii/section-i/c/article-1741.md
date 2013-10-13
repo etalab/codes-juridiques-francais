@@ -4,7 +4,7 @@ Sans préjudice des dispositions particulières relatées dans la présente codi
 
 Toutefois, cette disposition n'est applicable, en cas de dissimulation, que si celle-ci excède le dixième de la somme imposable ou le chiffre de 153 €.
 
-Toute personne condamnée en application des dispositions du présent article peut être privée des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 du code pénal.
+Toute personne condamnée en application des dispositions du présent article peut être privée des droits civiques, civils et de famille, suivant les modalités prévues aux articles 131-26 et 131-26-1  du code pénal.
 
 La juridiction peut, en outre, ordonner l'affichage de la décision prononcée et la diffusion de celle-ci dans les conditions prévues aux articles 131-35 ou 131-39 du code pénal.
 

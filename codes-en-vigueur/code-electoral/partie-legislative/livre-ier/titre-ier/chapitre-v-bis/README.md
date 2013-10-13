@@ -5,6 +5,7 @@
 - [Article L52-6](article-l52-6.md)
 - [Article L52-7](article-l52-7.md)
 - [Article L52-8](article-l52-8.md)
+- [Article L52-8-1](article-l52-8-1.md)
 - [Article L52-9](article-l52-9.md)
 - [Article L52-10](article-l52-10.md)
 - [Article L52-11](article-l52-11.md)
