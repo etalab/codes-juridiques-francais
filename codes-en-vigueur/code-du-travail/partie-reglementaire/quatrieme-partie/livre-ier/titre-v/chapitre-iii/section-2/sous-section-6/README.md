@@ -1,6 +1,3 @@
 # Sous-section 6 : Travaux en milieu hyperbare
 
 - [Article D4153-23](article-d4153-23.md)
-- [Article D4153-30](article-d4153-30.md)
-- [Article D4153-31](article-d4153-31.md)
-- [Article D4153-32](article-d4153-32.md)

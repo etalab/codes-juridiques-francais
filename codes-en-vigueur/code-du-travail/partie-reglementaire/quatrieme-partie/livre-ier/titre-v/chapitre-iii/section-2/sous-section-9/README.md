@@ -2,4 +2,3 @@
 
 - [Article D4153-26](article-d4153-26.md)
 - [Article D4153-27](article-d4153-27.md)
-- [Article D4153-36](article-d4153-36.md)
