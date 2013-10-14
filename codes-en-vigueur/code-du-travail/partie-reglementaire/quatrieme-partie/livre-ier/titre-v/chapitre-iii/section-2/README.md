@@ -10,5 +10,3 @@
 - [Sous-section 8 : Travaux au contact d'animaux](sous-section-8)
 - [Sous-section 9 : Travaux du bâtiment et travaux publics](sous-section-9)
 - [Sous-section 10 : Travail du verre](sous-section-10)
-- [Sous-section 11 : Travaux au contact du métal en fusion](sous-section-11)
-- [Sous-section 12 : Manutention des charges](sous-section-12)

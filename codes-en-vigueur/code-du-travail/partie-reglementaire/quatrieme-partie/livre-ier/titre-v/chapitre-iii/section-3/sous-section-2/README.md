@@ -1,4 +1,6 @@
-# Sous-section 2 : Autres dérogations
+# Sous-section 2 : Dérogations permanentes pour les jeunes travailleurs
 
-- [Article D4153-48](article-d4153-48.md)
-- [Article D4153-49](article-d4153-49.md)
+- [Article R4153-49](article-r4153-49.md)
+- [Article R4153-50](article-r4153-50.md)
+- [Article R4153-51](article-r4153-51.md)
+- [Article R4153-52](article-r4153-52.md)

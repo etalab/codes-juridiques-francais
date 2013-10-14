@@ -1,9 +1,12 @@
-# Sous-section 1 : Dérogations accordées pour les élèves et apprentis
+# Sous-section 1 : Autorisation de dérogation pour les jeunes en formation professionnelle
 
-- [Article D4153-41](article-d4153-41.md)
-- [Article D4153-42](article-d4153-42.md)
-- [Article D4153-43](article-d4153-43.md)
-- [Article D4153-45](article-d4153-45.md)
-- [Article D4153-46](article-d4153-46.md)
-- [Article D4153-47](article-d4153-47.md)
-- [Article R4153-44](article-r4153-44.md)
+- [Article R4153-38](article-r4153-38.md)
+- [Article R4153-39](article-r4153-39.md)
+- [Article R4153-40](article-r4153-40.md)
+- [Article R4153-41](article-r4153-41.md)
+- [Article R4153-42](article-r4153-42.md)
+- [Article R4153-43](article-r4153-43.md)
+- [Article R4153-45](article-r4153-45.md)
+- [Article R4153-46](article-r4153-46.md)
+- [Article R4153-47](article-r4153-47.md)
+- [Article R4153-48](article-r4153-48.md)
