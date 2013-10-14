@@ -1,5 +1,6 @@
-# Sous-section 3 : Utilisation d'équipements de travail
+# Sous-section 3 : Travaux exposant à des agents biologiques
 
+- [Article D4153-19](article-d4153-19.md)
 - [Article D4153-20](article-d4153-20.md)
 - [Article D4153-21](article-d4153-21.md)
 - [Article D4153-22](article-d4153-22.md)
