@@ -4,7 +4,7 @@ En qualité d'organe délibérant de l'établissement, le conseil d'administrati
 
 1° Il fixe les principes de mise en œuvre de l'autonomie pédagogique et éducative dont disposent les établissements dans les domaines définis à l'article R. 421-2 et, en particulier, les règles d'organisation de l'établissement ;
 
-2° Il adopte le projet d'établissement et approuve le contrat d'objectifs qui doit avoir été communiqué à la collectivité territoriale au moins un mois avant la réunion du conseil ;
+2° Il adopte le projet d'établissement et approuve le contrat d'objectifs. Lorsque la collectivité territoriale de rattachement n'a pas souhaité y être partie, ce contrat doit lui avoir été communiqué au moins un mois avant la réunion du conseil ;
 
 3° Il délibère chaque année sur le rapport relatif au fonctionnement pédagogique de l'établissement et à ses conditions matérielles de fonctionnement. Ce rapport rend compte notamment de la mise en œuvre du projet d'établissement, des expérimentations menées par l'établissement et du contrat d'objectifs ;
 
@@ -36,11 +36,13 @@ e) Les modalités de participation au plan d'action du groupement d'établisseme
 
 f) La programmation et les modalités de financement des voyages scolaires ;
 
+g) Le programme d'actions établi chaque année par le conseil école-collège.
+
 7° Il délibère sur :
 
 a) Toute question dont il a à connaître en vertu des lois et règlements en vigueur ainsi que celles ayant trait à l'information des membres de la communauté éducative et à la création de groupes de travail au sein de l'établissement ;
 
-b) Les questions relatives à l'accueil et à l'information des parents d'élèves, les modalités générales de leur participation à la vie scolaire ;
+b) Les questions relatives à l'accueil et à l'information des parents d'élèves, les modalités générales de leur participation à la vie scolaire et le bilan annuel des actions menées dans ces domaines  ;
 
 c) Les questions relatives à l'hygiène, à la santé, à la sécurité : le conseil d'administration peut décider la création d'un organe compétent composé notamment de représentants de l'ensemble des personnels de l'établissement pour proposer les mesures à prendre en ce domaine au sein de l'établissement ;
 
@@ -52,4 +54,4 @@ c) Les questions relatives à l'hygiène, à la santé, à la sécurité : le co
 
 11° Il adopte son règlement intérieur ;
 
-12° Il adopte un plan de prévention de la violence.
+12° Il adopte un plan de prévention de la violence, qui inclut notamment un programme d'action contre toutes les formes de harcèlement.
