@@ -6,4 +6,6 @@ Le statut d'école normale supérieure fixé par l'article L. 716-1 s'applique a
 
 2° Ecole normale supérieure de Cachan ;
 
-3° Ecole normale supérieure de Lyon.
+3° Ecole normale supérieure de Lyon ;
+
+4° Ecole normale supérieure de Rennes.
