@@ -20,4 +20,3 @@
 - [Article R15-6](article-r15-6.md)
 - [Article R16](article-r16.md)
 - [Article R17](article-r17.md)
-- [Article R17-1](article-r17-1.md)

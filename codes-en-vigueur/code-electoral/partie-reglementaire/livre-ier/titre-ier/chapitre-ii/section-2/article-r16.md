@@ -4,7 +4,7 @@ Le dernier jour de février de chaque année, la commission administrative de ch
 
 La liste électorale et le tableau définitif des rectifications apportées à la précédente liste électorale sont déposés en mairie.
 
-Le maire transmet sans délai au préfet une copie de la liste électorale générale de la commune soit sur support papier, soit sur support informatique, accompagnée d'une copie du ou des tableaux définitifs des rectifications apportées à la précédente liste électorale.
+Le maire transmet dans les huit jours au préfet une copie de la liste électorale générale de la commune soit sur support papier, soit sur support informatique, soit par voie dématérialisée dans les conditions fixées par un arrêté du ministre de l'intérieur, accompagnée d'une copie du ou des tableaux définitifs des rectifications apportées à la précédente liste électorale.
 
 A la demande du préfet, le maire lui transmet la liste électorale établie par bureau de vote.
 
