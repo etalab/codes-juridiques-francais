@@ -1,12 +1,12 @@
 # Article 155 bis A
 
-Les tarifs de la taxe minière sur l'or en Guyane applicables en 2012 sont fixés comme suit :
+Les tarifs de la taxe minière sur l'or en Guyane applicables en 2013 sont fixés comme suit :
 
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center"> CATÉGORIES D'ENTREPRISES </p>
+<p align="center">CATÉGORIES D'ENTREPRISES </p>
 </td>
 <td>
 <p align="center">PAR KILOGRAMME </p>
@@ -19,14 +19,14 @@ Les tarifs de la taxe minière sur l'or en Guyane applicables en 2012 sont fixé
 <p align="left">Petites et moyennes entreprises </p>
 </td>
 <td align="center">
-<br/>363,41</td>
+<br/>417,42</td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">Autres entreprises </p>
 </td>
 <td align="center">
-<br/>726,82</td>
+<br/>834,84</td>
 </tr>
 </tbody>
 </table>
