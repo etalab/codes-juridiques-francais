@@ -24,8 +24,6 @@ Quartier des mineurs de la maison d'arrêt de Brest (Finistère) ;
 
 Quartier des mineurs de la maison d'arrêt de Caen (Calvados) ;
 
-Quartier des mineurs de la maison d'arrêt de Chambéry (Savoie) ;
-
 Quartier des mineurs de la maison d'arrêt de Chaumont (Haute-Marne) ;
 
 Quartier des mineurs de la maison d'arrêt de Dijon (Côte-d'Or) ;
@@ -55,8 +53,6 @@ Quartier des mineurs de la maison d'arrêt de Majicavo (Mayotte) ;
 Quartier des mineurs du centre de semi-liberté de Maxéville (Meurthe-et-Moselle) ;
 
 Quartier des mineurs du centre pénitentiaire de Metz (Moselle) ;
-
-Alinéa abrogé le 24 août 2012 ;
 
 Quartier des mineurs de la maison d'arrêt de Mulhouse (Haut-Rhin) ;
 
