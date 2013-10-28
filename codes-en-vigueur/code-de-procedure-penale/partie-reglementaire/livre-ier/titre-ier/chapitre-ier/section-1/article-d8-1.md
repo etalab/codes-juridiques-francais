@@ -24,4 +24,6 @@ Les offices centraux de police judiciaire relevant des articles R. 15-18 et R. 1
 
 11° Office central de lutte contre le travail illégal, de la sous-direction de la police judiciaire de la direction générale de la gendarmerie nationale ;
 
-12° Office central de lutte contre le crime organisé.
+12° Office central de lutte contre le crime organisé ;
+
+13° Office central de lutte contre la corruption et les infractions financières et fiscales.
