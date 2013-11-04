@@ -2,4 +2,4 @@
 
 - [Section 1 : Surveillance des groupes transnationaux](section-1)
 - [Section 2 : Dispositions relatives au traitement des établissements de crédit, des établissements de monnaie électronique, des établissements de paiement et des entreprises d'investissement en difficulté](section-2)
-- [Section 3 : Régime du contrôle spécifique](section-3)
+- [Section 3 :  Dispositions relatives à la résolution des crises bancaires](section-3)

@@ -4,7 +4,7 @@ I. ― Afin de permettre au comptable public d'émettre un avis de mise en recou
 
 II. ― Le comptable public compétent pour effectuer le recouvrement de la contribution, des astreintes et des sanctions prévues aux articles L. 612-20, L. 612-25 et L. 612-39 à L. 612-41 est désigné par arrêté du ministre chargé du budget.
 
-III. ― Une convention entre la Banque de France, l'Autorité de contrôle prudentiel et de résolution et l'Etat représenté par le ministre chargé du recouvrement des impôts détermine notamment les modalités de transmission des documents et de reversement des fonds collectés. Elle est approuvée par le collège de l'autorité.
+III. ― Une convention entre la Banque de France, l'Autorité de contrôle prudentiel et de résolution et l'Etat représenté par le ministre chargé du recouvrement des impôts détermine notamment les modalités de transmission des documents et de reversement des fonds collectés. Elle est approuvée par le collège de supervision de l'autorité.
 
 IV. ― Lorsque les créances mentionnées au II sont irrécouvrables, le comptable public compétent adresse à l'Autorité de contrôle prudentiel et de résolution ses propositions d'admission en non-valeur.
 
