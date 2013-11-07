@@ -4,13 +4,17 @@ Dans chaque école, le conseil d'école est composé des membres suivants :
 
 1° Le directeur de l'école, président ;
 
-2° Le maire ou son représentant et un conseiller municipal désigné par le conseil municipal ;
+2° Deux élus :
+
+a) Le maire ou son représentant ;
+
+b) Un conseiller municipal désigné par le conseil municipal ou, lorsque les dépenses de fonctionnement de l'école ont été transférées à un établissement public de coopération intercommunale, le président de cet établissement ou son représentant ;
 
 3° Les maîtres de l'école et les maîtres remplaçants exerçant dans l'école au moment des réunions du conseil ;
 
 4° Un des maîtres du réseau d'aides spécialisées intervenant dans l'école choisi par le conseil des maîtres de l'école ;
 
-5° Les représentants des parents d'élèves en nombre égal à celui des classes de l'école, élus selon les modalités fixées par arrêté du ministre chargé de l'éducation. Ces représentants constituent au sein du conseil d'école le comité des parents prévu par l'article L. 411-1 ;
+5° Les représentants des parents d'élèves en nombre égal à celui des classes de l'école, élus selon les modalités fixées par arrêté du ministre chargé de l'éducation ;
 
 6° Le délégué départemental de l'éducation nationale chargé de visiter l'école.
 
