@@ -26,4 +26,6 @@ Les offices centraux de police judiciaire relevant des articles R. 15-18 et R. 1
 
 12° Office central de lutte contre le crime organisé ;
 
-13° Office central de lutte contre la corruption et les infractions financières et fiscales.
+13° Office central de lutte contre la corruption et les infractions financières et fiscales ;
+
+14° Office central de lutte contre les crimes contre l'humanité, les génocides et les crimes de guerre.
