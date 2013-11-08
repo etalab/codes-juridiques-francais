@@ -6,6 +6,3 @@
 - [Paragraphe 4 : Dispositions relatives à l'enlèvement et au traitement des déchets d'équipements électriques et électroniques](paragraphe-4)
 - [Paragraphe 5 : Dispositions relatives au suivi et au contrôle](paragraphe-5)
 - [Paragraphe 6 : Dispositions pénales](paragraphe-6)
-- [Article R543-176](article-r543-176.md)
-- [Article R543-177](article-r543-177.md)
-- [Article R543-178](article-r543-178.md)

@@ -10,6 +10,3 @@
 - [Paragraphe 8 : Obligations imposées à l'ensemble des opérateurs économiques](paragraphe-8)
 - [Paragraphe 9 : Attestation de conformité des équipements électriques et électroniques](paragraphe-9)
 - [Paragraphe 10 : Dispositions pénales](paragraphe-10)
-- [Article R543-172](article-r543-172.md)
-- [Article R543-173](article-r543-173.md)
-- [Article R543-174](article-r543-174.md)
