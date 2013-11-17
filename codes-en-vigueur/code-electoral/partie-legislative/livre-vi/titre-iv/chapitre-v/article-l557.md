@@ -2,7 +2,7 @@
 
 Par dérogation à l'article L. 280, le sénateur est élu par un collège électoral composé :
 
-1° Du député ;
+1° Du député et du sénateur ;
 
 2° Des conseillers territoriaux de Saint-Pierre-et-Miquelon ;
 

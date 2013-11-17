@@ -2,7 +2,7 @@
 
 Pour l'application des dispositions du chapitre V bis du titre Ier du livre Ier :
 
-1° Dans l'article L. 52-8, les sommes de 4 600 euros,150 euros et 15 000 euros sont respectivement remplacées par les sommes de 545 000 francs CFP, de 18 180 francs CFP et de 1 818 000 francs CFP.
+1° Dans l'article L. 52-8, les sommes de 4 600 euros, 150 euros et 15 000 euros sont respectivement remplacées par les sommes de 545 000 francs CFP, de 18 180 francs CFP et de 1 818 000 francs CFP.
 
 2° Dans l'article L. 52-10, la somme de 3 000 euros est remplacée par la somme de 363 600 francs CFP.
 
@@ -23,7 +23,7 @@ Pour l'application des dispositions du chapitre V bis du titre Ier du livre Ier 
 <p align="center">Election des conseillers municipaux</p>
 </td>
 <td rowspan="2" valign="top" width="227">
-<p>Election des membres du congrès et des assemblées de province de la Nouvelle-Calédonie</p>
+<p align="center">Election des membres du congrès et des assemblées de province de la Nouvelle-Calédonie</p>
 </td>
 </tr>
 <tr>
@@ -107,25 +107,24 @@ Pour l'application des dispositions du chapitre V bis du titre Ier du livre Ier 
 </tr>
 <tr>
 <td colspan="2">
-<p align="center">Election des conseillers municipaux <br/>
-</p>
+<p align="center">Election des conseillers municipaux</p>
 </td>
 <td colspan="2">
-<p align="center">Election des membres<br/>de l'assemblée de la Polynésie française </p>
+<p align="center">Election des membres<br/>de l'assemblée de la Polynésie française</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Listes présentes<br/>au premier tour </p>
+<p align="center">Listes présentes<br/>au premier tour</p>
 </td>
 <td>
 <p align="center">Listes présentes<br/>au second tour</p>
 </td>
 <td>
-<p align="center">Listes présentes<br/>au premier tour </p>
+<p align="center">Listes présentes<br/>au premier tour</p>
 </td>
 <td>
-<p align="center">Listes présentes<br/>au second tour </p>
+<p align="center">Listes présentes<br/>au second tour</p>
 </td>
 </tr>
 <tr>
@@ -209,6 +208,6 @@ b) En Polynésie française, par la référence à l'indice des prix à la conso
 
 c) Dans les îles Wallis et Futuna, par la référence à l'indice local des prix à la consommation.
 
-7° Les frais de transport aérien et maritime dûment justifiés, exposés à l'intérieur de la collectivité intéressée par les candidats aux élections législatives en Nouvelle-Calédonie, en Polynésie française et aux îles Wallis et Futuna et aux élections au congrès et aux assemblées de province de Nouvelle-Calédonie ou à l'assemblée de la Polynésie française ou à l'assemblée territoriale des îles Wallis et Futuna, ne sont pas inclus dans le plafond des dépenses électorales fixé par l'article L. 52-11.
+7° Les frais de transport aérien et maritime dûment justifiés, exposés à l'intérieur de la collectivité intéressée par les candidats aux élections législatives et aux élections sénatoriales en Nouvelle-Calédonie, en Polynésie française et aux îles Wallis et Futuna et aux élections au congrès et aux assemblées de province de Nouvelle-Calédonie ou à l'assemblée de la Polynésie française ou à l'assemblée territoriale des îles Wallis et Futuna, ne sont pas inclus dans le plafond des dépenses électorales fixé par l'article L. 52-11.
 
 8° Par dérogation aux dispositions du deuxième alinéa de l'article L. 52-12, le compte de campagne peut également être déposé auprès des services du représentant de l'Etat.
