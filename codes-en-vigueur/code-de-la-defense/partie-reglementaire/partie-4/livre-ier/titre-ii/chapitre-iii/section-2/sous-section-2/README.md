@@ -12,6 +12,7 @@
 - [Article R4123-23](article-r4123-23.md)
 - [Article R4123-24](article-r4123-24.md)
 - [Article R4123-25](article-r4123-25.md)
+- [Article R4123-25-1](article-r4123-25-1.md)
 - [Article R4123-26](article-r4123-26.md)
 - [Article R4123-27](article-r4123-27.md)
 - [Article R4123-28](article-r4123-28.md)

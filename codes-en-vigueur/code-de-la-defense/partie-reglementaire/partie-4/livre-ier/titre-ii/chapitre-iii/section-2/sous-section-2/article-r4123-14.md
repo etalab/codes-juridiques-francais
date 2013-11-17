@@ -1,6 +1,6 @@
 # Article R4123-14
 
-Le fonds de prévoyance de l'aéronautique a pour objet de verser hors le cas de mobilisation générale ou de participation à des opérations qualifiées d'opérations de guerre par décret en conseil des ministres des allocations et des secours en cas d'infirmité résultant du service aérien aux personnels militaires et civils affiliés à ce fonds ou en cas de décès survenu en service aérien à leurs ayants cause.
+Le fonds de prévoyance de l'aéronautique a pour objet de verser hors le cas de mobilisation générale ou de participation à des opérations qualifiées d'opérations de guerre par décret en conseil des ministres des allocations et des secours en cas de blessure ou d'infirmité résultant du service aérien aux personnels militaires et civils affiliés à ce fonds ou en cas de décès survenu en service aérien à leurs ayants cause.
 
 Les personnels militaires mentionnés au 1° de l'article R. 4123-15 cessent d'être affiliés au fonds de prévoyance militaire.
 
