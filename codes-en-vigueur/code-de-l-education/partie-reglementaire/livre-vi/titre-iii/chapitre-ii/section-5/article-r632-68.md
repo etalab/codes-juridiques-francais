@@ -1,6 +1,6 @@
 # Article R632-68
 
-Dans chaque unité de formation et de recherche de médecine, une commission de sélection des candidats à un contrat d'engagement de service public, présidée par le directeur de l'unité ou son représentant, comprend :
+Dans chaque unité de formation et de recherche de médecine, une commission de sélection, présidée par le directeur de l'unité ou son représentant, comprend :
 
 1° Le directeur général de l'agence régionale de santé ou son représentant ;
 
@@ -10,6 +10,6 @@ Dans chaque unité de formation et de recherche de médecine, une commission de 
 
 4° Un directeur d'un établissement public de santé de la région désigné par la Fédération hospitalière de France ;
 
-5° Un interne en médecine désigné par le directeur de l'unité sur proposition des organisations syndicales représentatives ;
+5° Un interne en médecine générale et un interne en médecine d'une autre spécialité, désignés par le directeur de l'unité sur proposition des organisations représentatives ;
 
-6° Un étudiant en médecine désigné par le directeur de l'unité sur proposition des organisations syndicales représentatives.
+6° Un étudiant en médecine désigné par le directeur de l'unité sur proposition des organisations représentatives de ces étudiants.
