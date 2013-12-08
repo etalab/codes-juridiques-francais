@@ -27,3 +27,4 @@
 - [6° ter : Artisans](6-ter)
 - [26° Agences immobilières](26-agences-immobilieres)
 - [25° Fabricants et marchands de métaux précieux](25-fabricants-et)
+- [27° Concepteurs et éditeurs de logiciels de comptabilité ou de caisse](27-concepteurs-et)

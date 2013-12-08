@@ -7,3 +7,4 @@
 - [Article 223 quater](article-223-quater.md)
 - [Article 223 quinquies](article-223-quinquies.md)
 - [Article 223 quinquies A](article-223-quinquies-a.md)
+- [Article 223 quinquies B](article-223-quinquies-b.md)
