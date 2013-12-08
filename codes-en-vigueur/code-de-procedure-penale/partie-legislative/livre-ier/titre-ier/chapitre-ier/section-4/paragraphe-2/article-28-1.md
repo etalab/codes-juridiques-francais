@@ -16,6 +16,8 @@ Ils sont compétents pour rechercher et constater :
 
 5° Les infractions prévues par les articles 324-1 à 324-9 du code pénal ;
 
+5° bis Les délits d'association de malfaiteurs prévus à l'article 450-1 du code pénal, lorsqu'ils ont pour objet la préparation de l'une des infractions mentionnées aux 1° à 5° et 6° à 8° du présent I ;
+
 6° Les infractions prévues au code de la propriété intellectuelle ;
 
 7° Les infractions prévues aux articles 56 et 57 de la loi n° 2010-476 du 12 mai 2010 relative à l'ouverture à la concurrence et à la régulation du secteur des jeux d'argent et de hasard en ligne ;
@@ -34,7 +36,7 @@ IV.-Les agents des douanes désignés dans les conditions prévues au I doivent,
 
 La décision d'habilitation est prise par le procureur général près la cour d'appel du siège de leur fonction. Elle est accordée, suspendue ou retirée dans des conditions fixées par décret en Conseil d'Etat.
 
-Dans le mois qui suit la notification de la décision de suspension ou de retrait de l'habilitation, l'agent concerné peut demander au procureur général de rapporter cette décision. Le procureur général doit statuer dans un délai d'un mois.A défaut, son silence vaut rejet de la demande. Dans un délai d'un mois à partir du rejet de la demande, l'agent concerné peut former un recours devant la commission prévue à l'article 16-2. La procédure applicable devant cette commission est celle prévue par l'article 16-3 et ses textes d'application.
+Dans le mois qui suit la notification de la décision de suspension ou de retrait de l'habilitation, l'agent concerné peut demander au procureur général de rapporter cette décision. Le procureur général doit statuer dans un délai d'un mois. A défaut, son silence vaut rejet de la demande. Dans un délai d'un mois à partir du rejet de la demande, l'agent concerné peut former un recours devant la commission prévue à l'article 16-2. La procédure applicable devant cette commission est celle prévue par l'article 16-3 et ses textes d'application.
 
 V.-Pour l'exercice des missions mentionnées aux I et II, les agents des douanes sont placés sous la direction du procureur de la République, sous la surveillance du procureur général et sous le contrôle de la chambre de l'instruction du siège de leur fonction dans les conditions prévues par les articles 224 à 230.
 

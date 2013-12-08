@@ -1,6 +1,6 @@
 # Article 432-12
 
-Le fait, par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public ou par une personne investie d'un mandat électif public, de prendre, recevoir ou conserver, directement ou indirectement, un intérêt quelconque dans une entreprise ou dans une opération dont elle a, au moment de l'acte, en tout ou partie, la charge d'assurer la surveillance, l'administration, la liquidation ou le paiement, est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende.
+Le fait, par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public ou par une personne investie d'un mandat électif public, de prendre, recevoir ou conserver, directement ou indirectement, un intérêt quelconque dans une entreprise ou dans une opération dont elle a, au moment de l'acte, en tout ou partie, la charge d'assurer la surveillance, l'administration, la liquidation ou le paiement, est puni de cinq ans d'emprisonnement et d'une amende de 500 000 €, dont le montant peut être porté au double du produit tiré de l'infraction.
 
 Toutefois, dans les communes comptant 3 500 habitants au plus, les maires, adjoints ou conseillers municipaux délégués ou agissant en remplacement du maire peuvent chacun traiter avec la commune dont ils sont élus pour le transfert de biens mobiliers ou immobiliers ou la fourniture de services dans la limite d'un montant annuel fixé à 16 000 euros.
 

@@ -24,6 +24,7 @@
 - [Article 2-20](article-2-20.md)
 - [Article 2-21](article-2-21.md)
 - [Article 2-22](article-2-22.md)
+- [Article 2-23](article-2-23.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 4-1](article-4-1.md)

@@ -44,6 +44,8 @@ L'opposition à tiers détenteur emporte l'effet d'attribution immédiate, prév
 
 Sous peine de se voir réclamer les sommes saisies majorées du taux d'intérêt légal, les fonds doivent être reversés dans les trente jours qui suivent la réception de l'opposition par le tiers détenteur auprès du comptable chargé du recouvrement.
 
+L'opposition à tiers détenteur peut s'exercer sur les sommes versées par un redevable souscripteur ou adhérent d'un contrat d'assurance rachetable, y compris si la possibilité de rachat fait l'objet de limitations, dans la limite de la valeur de rachat des droits à la date de la notification de l'opposition.
+
 L'opposition à tiers détenteur peut s'exercer sur les créances conditionnelles ou à terme : dans ce cas, les fonds sont versés au comptable public chargé du recouvrement lorsque ces créances deviennent exigibles.
 
 Lorsqu'une même personne est simultanément destinataire de plusieurs oppositions à tiers détenteur établies au nom du même redevable, elle doit, en cas d'insuffisance des fonds, exécuter ces oppositions en proportion de leurs montants respectifs.

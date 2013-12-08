@@ -9,6 +9,7 @@
 - [Article 40-3](article-40-3.md)
 - [Article 40-4](article-40-4.md)
 - [Article 40-5](article-40-5.md)
+- [Article 40-6](article-40-6.md)
 - [Article 41](article-41.md)
 - [Article 41-1](article-41-1.md)
 - [Article 41-2](article-41-2.md)

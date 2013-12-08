@@ -6,7 +6,7 @@ II.-En cas de constatation de l'infraction mentionnée au I par les agents des d
 
 La somme consignée est saisie et sa confiscation peut être prononcée par la juridiction compétente si, pendant la durée de la consignation, il est établi que l'auteur de l'infraction mentionnée au I est ou a été en possession d'objets laissant présumer qu'il est ou a été l'auteur d'une ou plusieurs infractions prévues et réprimées par le code des douanes ou qu'il participe ou a participé à la commission de telles infractions ou s'il y a des raisons plausibles de penser que l'auteur de l'infraction visée au I a commis une infraction ou plusieurs infractions prévues et réprimées par le code des douanes ou qu'il a participé à la commission de telles infractions.
 
-La décision de non-lieu ou de relaxe emporte de plein droit, aux frais du Trésor, mainlevée des mesures de consignation et saisie ordonnées. Il en est de même en cas d'extinction de l'action pour l'application des sanctions fiscales.
+La décision de non-lieu ou de relaxe emporte de plein droit, aux frais du Trésor, mainlevée des mesures de consignation et saisie ordonnées. Il en est de même en cas d'extinction de l'action pour l'application des sanctions fiscales. Les agents des douanes procèdent à la retenue, pour les besoins de l'enquête, des documents se rapportant aux sommes consignées ou en prennent copie.
 
 III.-La recherche, la constatation et la poursuite des infractions mentionnées au I sont effectuées dans les conditions fixées par le code des douanes.
 

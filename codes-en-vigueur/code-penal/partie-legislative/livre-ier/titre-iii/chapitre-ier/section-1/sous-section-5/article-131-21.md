@@ -16,7 +16,7 @@ La confiscation est obligatoire pour les objets qualifiés de dangereux ou nuisi
 
 La peine complémentaire de confiscation s'applique dans les mêmes conditions à tous les droits incorporels, quelle qu'en soit la nature, divis ou indivis.
 
-La confiscation peut être ordonnée en valeur. Pour le recouvrement de la somme représentative de la valeur de la chose confisquée, les dispositions relatives à la contrainte judiciaire sont applicables.
+La confiscation peut être ordonnée en valeur. La confiscation en valeur peut être exécutée sur tous biens, quelle qu'en soit la nature, appartenant au condamné ou, sous réserve des droits du propriétaire de bonne foi, dont il a la libre disposition. Pour le recouvrement de la somme représentative de la valeur de la chose confisquée, les dispositions relatives à la contrainte judiciaire sont applicables.
 
 La chose confisquée est, sauf disposition particulière prévoyant sa destruction ou son attribution, dévolue à l'Etat, mais elle demeure grevée, à concurrence de sa valeur, des droits réels licitement constitués au profit de tiers.
 

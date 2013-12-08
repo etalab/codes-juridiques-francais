@@ -1,6 +1,6 @@
 # Article L38
 
-1. Pour la recherche et la constatation des infractions aux dispositions du titre III de la première partie du livre Ier du code général des impôts et aux législations édictant les mêmes règles en matière de procédure et de recouvrement, les agents habilités à cet effet par le ministre chargé des douanes peuvent procéder à des visites en tous lieux, même privés, où les pièces, documents, objets ou marchandises se rapportant à ces infractions ainsi que les biens et avoirs en provenant directement ou indirectement sont susceptibles d'être détenus et procéder à leur saisie, quel qu'en soit le support. Ils sont accompagnés d'un officier de police judiciaire.
+1. Pour la recherche et la constatation des infractions aux dispositions du titre III de la première partie du livre Ier du code général des impôts et aux législations édictant les mêmes règles en matière de procédure et de recouvrement, les agents habilités à cet effet par le ministre chargé des douanes peuvent procéder à des visites en tous lieux, même privés, où les pièces, documents, objets ou marchandises se rapportant à ces infractions ainsi que les biens et avoirs en provenant directement ou indirectement sont susceptibles d'être détenus ou d'être accessibles ou disponibles et procéder à leur saisie, quel qu'en soit le support. Ils sont accompagnés d'un officier de police judiciaire.
 
 Les agents habilités peuvent procéder, à l'occasion de la visite, à la saisie des pièces et documents, quel qu'en soit le support, ainsi que des objets ou des marchandises se rapportant aux infractions précitées. Ils peuvent saisir les biens et avoirs provenant directement ou indirectement des infractions précitées uniquement dans le cas de visites autorisées en application du 2.
 
@@ -50,13 +50,27 @@ L'ordonnance du premier président de la cour d'appel est susceptible d'un pourv
 
 3. La visite ne peut être commencée avant six heures ni après vingt et une heures ; dans les lieux ouverts au public elle peut également être commencée pendant les heures d'ouverture de l'établissement. Elle est effectuée en présence de l'occupant des lieux ou de son représentant ; en cas d'impossibilité, l'officier de police judiciaire requiert deux témoins choisis en dehors des personnes relevant de son autorité ou de celle de l'administration des douanes et droits indirects.
 
-Les agents de l'administration des douanes et droits indirects mentionnés au 1, l'occupant des lieux ou son représentant et l'officier de police judiciaire peuvent seuls prendre connaissance des pièces et documents avant leur saisie.
+Les agents de l'administration des douanes et droits indirects mentionnés au 1, les personnes auxquelles ils ont éventuellement recours en application de l'article L. 103 B, l'occupant des lieux ou son représentant et l'officier de police judiciaire peuvent seuls prendre connaissance des pièces et documents avant leur saisie.
 
 L'officier de police judiciaire veille au respect du secret professionnel et des droits de la défense conformément aux dispositions du troisième alinéa de l'article 56 du code de procédure pénale ; l'article 58 de ce code est applicable.
 
 4. Le procès-verbal de visite relatant les modalités et le déroulement de l'opération est dressé sur-le-champ par les agents de l'administration des douanes et droits indirects. Un inventaire des pièces et documents saisis, ainsi que des biens et avoirs provenant directement ou indirectement des infractions dont la preuve est recherchée, lui est annexé. Le procès-verbal et l'inventaire sont signés par les agents de l'administration des douanes et droits indirects et par l'officier de police judiciaire ainsi que par les personnes mentionnées au premier alinéa du 3 ; en cas de refus de signer, mention en est faite au procès-verbal.
 
 Si l'inventaire sur place présente des difficultés, les pièces, documents, biens et avoirs saisis sont placés sous scellés. L'occupant des lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu en présence de l'officier de police judiciaire ; l'inventaire est alors établi.
+
+4 bis. Lorsque l'occupant des lieux ou son représentant fait obstacle à l'accès aux pièces ou documents présents sur un support informatique, à leur lecture ou à leur saisie, mention en est portée au procès-verbal.
+
+Les agents habilités peuvent alors procéder à la copie de ce support et saisir ce dernier, qui est placé sous scellés. Ils disposent de quinze jours à compter de la date de la visite pour accéder aux pièces ou documents présents sur le support informatique placé sous scellés, à leur lecture et à leur saisie, ainsi qu'à la restitution de ce dernier et de sa copie. Ce délai est prorogé sur autorisation délivrée par le juge des libertés et de la détention.
+
+A la seule fin de permettre la lecture des pièces ou documents présents sur le support informatique placé sous scellés, les agents habilités procèdent aux opérations nécessaires à leur accès ou à leur mise au clair. Ces opérations sont réalisées sur la copie du support.
+
+L'occupant des lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés, à la lecture et à la saisie des pièces et documents présents sur ce support informatique, qui ont lieu en présence de l'officier de police judiciaire.
+
+Un procès-verbal décrivant les opérations réalisées pour accéder à ces pièces et documents, à leur mise au clair et à leur lecture est dressé par les agents habilités. Un inventaire des pièces et documents saisis lui est annexé, s'il y a lieu.
+
+Le procès-verbal et l'inventaire sont signés par les agents habilités et par un officier de police judiciaire ainsi que par l'occupant des lieux ou son représentant ; en l'absence de celui-ci ou en cas de refus de signer, mention en est faite au procès-verbal.
+
+Il est procédé concomitamment à la restitution du support informatique et de sa copie. En l'absence de l'occupant des lieux ou de son représentant, l'administration accomplit alors sans délai toutes diligences pour les restituer.
 
 5. Les originaux du procès-verbal de visite et de l'inventaire sont, dès qu'ils ont été établis, adressés au juge qui a délivré l'ordonnance ; une copie de ces mêmes documents est remise à l'occupant des lieux ou à son représentant. Une copie est également adressée par lettre recommandée avec demande d'avis de réception à l'auteur présumé des infractions mentionnées au 1, nonobstant les dispositions de l'article L. 103.
 

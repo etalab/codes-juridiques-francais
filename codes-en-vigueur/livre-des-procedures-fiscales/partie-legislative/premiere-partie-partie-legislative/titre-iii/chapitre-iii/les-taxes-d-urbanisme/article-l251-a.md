@@ -1,5 +1,3 @@
 # Article L251 A
 
-I. Les assemblées délibérantes des collectivités territoriales ou établissements publics au profit desquels sont perçus les taxes et versements visés aux articles 1585 A, 1599-0 B, 1599 B, 1599 octies et 1723 octies du code général des impôts peuvent accorder la remise gracieuse des pénalités liquidées à défaut de paiement à la date d'exigibilité.
-
-II. Les décisions des assemblées délibérantes sont prises sur proposition du comptable public chargé du recouvrement et dans des conditions fixées par décret en conseil d'Etat.
+Chaque année, le ministre chargé du budget publie un rapport sur l'application de la politique de remises et de transactions à titre gracieux par l'administration fiscale. Ce rapport peut faire l'objet d'un débat chaque année devant les commissions permanentes compétentes en matière de finances de l'Assemblée nationale et du Sénat. [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2013-679 DC du 4 décembre 2013].

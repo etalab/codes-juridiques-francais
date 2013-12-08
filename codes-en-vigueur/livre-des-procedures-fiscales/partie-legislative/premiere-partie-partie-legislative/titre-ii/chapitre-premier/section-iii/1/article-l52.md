@@ -20,6 +20,8 @@ II.-Par dérogation au I, l'expiration du délai de trois mois n'est pas opposab
 
 5° Elle ne l'est pas non plus pour la vérification de comptabilité de l'année ou de l'exercice au cours duquel l'administration a dressé un procès-verbal de flagrance fiscale dans les conditions prévues à l'article L. 16-0 BA, ainsi que pour la vérification des années antérieures ;
 
-6° Lorsqu'à la date d'expiration de ce délai, une enquête judiciaire ou une information ouverte par l'autorité judiciaire dans le cas mentionné à l'article L. 188 B est en cours.
+6° Lorsqu'à la date d'expiration de ce délai, une enquête judiciaire ou une information ouverte par l'autorité judiciaire dans le cas mentionné à l'article L. 188 B est en cours ;
+
+7° Si le contribuable s'est livré à une activité occulte, au sens du troisième alinéa de l'article L. 169.
 
 III.-En cas de mise en oeuvre du II de l'article L. 47 A, la limitation à trois mois de la durée de la vérification sur place est prorogée de la durée comprise entre la date du choix du contribuable pour l'une des options prévues à cet article pour la réalisation du traitement et, respectivement selon l'option choisie, soit celle de la mise à disposition du matériel et des fichiers nécessaires par l'entreprise, soit celle de la remise des résultats des traitements réalisés par l'entreprise à l'administration, soit celle de la remise des copies de fichiers nécessaires à la réalisation des traitements par l'administration. Cette dernière date fait l'objet d'une consignation par écrit.

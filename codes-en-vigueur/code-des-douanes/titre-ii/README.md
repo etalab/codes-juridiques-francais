@@ -6,3 +6,4 @@
 - [Chapitre IV : Pouvoirs des agents des douanes](chapitre-iv)
 - [Chapitre IV bis : Consultation des traitements automatisés de données aux fins de contrôles douaniers](chapitre-iv-bis)
 - [Chapitre V : Procédure préalable à la prise de décision :  le droit d'être entendu.](chapitre-v)
+- [Chapitre VI : Sécurisation des contrôles et enquêtes](chapitre-vi)
