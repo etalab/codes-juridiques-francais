@@ -1,7 +1,7 @@
 # Article A332-3
 
-La liste mentionnée au 22° de l'article R. 332-2 est établie comme suit :
+Le passif d'un fonds de prêts à l'économie mentionné à l'article R. 332-14-2 peut revêtir l'une des structures suivantes :
 
-Bons émis par la banque française du commerce extérieur, la caisse centrale de crédit coopératif, la caisse française des matières premières, la caisse nationale de crédit agricole, le crédit foncier de France, le crédit national et la société française de financement des télécommunications (Francetel).
+1° Des parts, donnant lieu à des droits identiques sur le capital et les intérêts, et provenant soit d'une ou plusieurs émissions d'un montant nominal à l'émission au moins égal à 30 millions d'euros, soit d'un programme d'émission dont la valeur minimale est au moins égale à 30 millions d'euros ;
 
-Billets de la société nationale des chemins de fer français.
+2° Des obligations, donnant lieu à des droits identiques sur le capital et les intérêts, et provenant d'une ou plusieurs émissions d'un montant nominal à l'émission au moins égal à 30 millions d'euros, soit d'un programme d'émission dont la valeur minimale est au moins égale à 30 millions d'euros, et des parts ou des actions dans la mesure où leur montant nominal ne représente pas plus de 0,5 % en valeur du montant nominal des obligations émises par le fonds de prêt à l'économie, et où elles sont souscrites ou acquises par chaque titulaire d'obligations émises par le fonds proportionnellement au montant des obligations que ce titulaire détient.
