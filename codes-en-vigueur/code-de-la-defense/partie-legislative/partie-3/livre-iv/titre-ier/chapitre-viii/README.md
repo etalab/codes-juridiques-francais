@@ -1,5 +1,5 @@
-# Chapitre VIII : Autres établissements publics à caractère administratif
+# Chapitre VIII :  Foyer d'entraide de la légion étrangère
 
-- [Article L3418-1](article-l3418-1.md)
-- [Article L3418-2](article-l3418-2.md)
-- [Article L3418-3](article-l3418-3.md)
+- [Section 1 : Dispositions générales](section-1)
+- [Section 2 : Organisation administrative et financière](section-2)
+- [Section 3 : Dispositions diverses](section-3)

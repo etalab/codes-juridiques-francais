@@ -2,7 +2,7 @@
 
 I.-L'importation sans autorisation préalable des matériels des catégories A, B ainsi que des matériels des catégories C et D figurant sur une liste fixée par un décret en Conseil d'Etat mentionnés à l'article L. 2331-1 provenant des Etats non membres de l'Union européenne est prohibée.
 
-Un décret en Conseil d'Etat détermine les conditions dans lesquelles il peut être dérogé à cette prohibition et les conditions dans lesquelles une autorisation d'importation peut être délivrée.
+L'autorité administrative détermine les conditions dans lesquelles il peut être dérogé à cette prohibition et les conditions dans lesquelles une autorisation d'importation peut être délivrée.
 
 II.-Aucun des matériels de catégories A ou B mentionnés au même article L. 2331-1 dont l'importation en France est prohibée ne peut figurer dans une vente publique à moins d'avoir été au préalable rendu impropre à son usage normal.
 
