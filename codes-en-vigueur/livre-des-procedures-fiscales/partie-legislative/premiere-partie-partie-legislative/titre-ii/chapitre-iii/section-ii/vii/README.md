@@ -6,4 +6,4 @@
 - [5° : Prévention de la multidétention de produits d'épargne générale à régime fiscal spécifique](5)
 - [6° : Groupement d'intérêt public France Télé numérique](6)
 - [7° : Professionnels de l'expertise comptable autorisés](7)
-- [8° : Agence nationale de sécurité du médicament et des produits de santé](8)
+- [8° : Agence nationale de sécurité du médicament et des produits de santé et Haute Autorité de santé](8)

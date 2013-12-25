@@ -18,7 +18,7 @@ Le financement des prestations d'assurance maladie, invalidité et maternité du
 
 8° Une fraction, fixée à l'article L. 131-8 du code de la sécurité sociale, du produit du droit de consommation mentionné à l'article 575 du code général des impôts ;
 
-9° Le produit des taxes mentionnées aux articles 1010, 1609 vicies et 1618 septies du code général des impôts ;
+9° Le produit des taxes mentionnées aux  articles 1609 vicies  et 1618 septies du code général des impôts ;
 
 10° Une fraction égale à 30,89 % du produit de la contribution sociale de solidarité mentionnée à l'article L. 651-1 du code de la sécurité sociale ;
 

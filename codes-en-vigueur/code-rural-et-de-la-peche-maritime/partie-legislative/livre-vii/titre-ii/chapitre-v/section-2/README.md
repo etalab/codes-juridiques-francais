@@ -9,5 +9,4 @@
 - [Article L725-19](article-l725-19.md)
 - [Article L725-20](article-l725-20.md)
 - [Article L725-21](article-l725-21.md)
-- [Article L725-22](article-l725-22.md)
 - [Article L725-22-1](article-l725-22-1.md)

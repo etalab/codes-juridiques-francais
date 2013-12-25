@@ -6,4 +6,4 @@ Les règles relatives à la déclaration du chèque emploi-service universel et 
 
 La déclaration prévue au premier alinéa peut être faite par voie électronique dans les conditions prévues à l'article L. 133-5.
 
-A réception de la déclaration, l'organisme de recouvrement transmet au salarié une attestation d'emploi se substituant à la remise du bulletin de paie prévue à l'article L. 3243-2 du code du travail. "
+A réception de la déclaration, l'organisme de recouvrement transmet au salarié un document valant bulletin de paie, au sens de l'article L. 3243-2 du code du travail."
