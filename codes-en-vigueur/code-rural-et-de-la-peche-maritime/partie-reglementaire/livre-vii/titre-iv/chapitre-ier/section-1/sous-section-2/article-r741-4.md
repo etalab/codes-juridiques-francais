@@ -7,3 +7,5 @@ Pour la détermination des effectifs du mois, il est tenu compte des salariés t
 Pour une entreprise créée en cours d'année, l'effectif est apprécié à la date de sa création. Au titre de l'année suivante, l'effectif de cette entreprise est apprécié dans les conditions définies aux deux alinéas précédents.
 
 Pour la détermination de la moyenne mentionnée aux premier et troisième alinéas, les mois au cours desquels aucun salarié n'est employé ne sont pas pris en compte.
+
+Les changements de régime de versement des cotisations entraînés par les modifications constatées d'une année sur l'autre prennent effet à compter du 1er avril suivant.
