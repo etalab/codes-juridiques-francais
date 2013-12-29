@@ -1,14 +1,14 @@
 # Article L621-3
 
-Les missions de l'établissement mentionné à l'article L. 621-1 sont les suivantes :
+Les missions de l'établissement mentionné à l'article L. 621-1  relevant des domaines définis au premier alinéa de l'article L. 621-2 sont les suivantes :
 
 1° Assurer la connaissance des marchés ;
 
 2° Améliorer le fonctionnement des marchés de façon à assurer, en conformité avec les intérêts des consommateurs, une juste rémunération du travail des professionnels et des conditions normales d'activité aux différents opérateurs des filières ; à cette fin, l'établissement :
 
--favorise l'organisation des producteurs ainsi que l'organisation des relations entre les diverses professions de chaque filière ;
+- favorise l'organisation des producteurs ainsi que l'organisation des relations entre les diverses professions de chaque filière ;
 
--encourage l'organisation de la mise en marché au niveau national et international et participe à l'élaboration et à la mise en œuvre des mesures relatives à l'amélioration des conditions de concurrence et à la protection et à l'information des consommateurs ;
+- encourage l'organisation de la mise en marché au niveau national et international et participe à l'élaboration et à la mise en œuvre des mesures relatives à l'amélioration des conditions de concurrence et à la protection et à l'information des consommateurs ;
 
 3° Renforcer l'efficacité économique des filières, notamment en contribuant à la mise en place d'une politique de développement durable et de qualité ;
 
