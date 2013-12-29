@@ -4,7 +4,7 @@ Peuvent être inscrits sur la liste d'aptitude les maîtres contractuels ou agr�
 
 Pour l'application de la condition de durée de service mentionnée ci-dessus, sont assimilées à des services effectifs d'instituteur à temps plein les années de service en qualité de chef d'établissement d'enseignement primaire sous contrat ou de formateur de maîtres de ces établissements exercées par des maîtres contractuels ou agréés.
 
-La liste d'aptitude est arrêtée chaque année par le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, après avis de la commission consultative mixte départementale.
+La liste d'aptitude est arrêtée chaque année par le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, après avis de la commission consultative mixte départementale ou interdépartementale.
 
 Le nombre de candidats inscrits sur la liste d'aptitude départementale ne peut excéder de plus de 50 % le contingent des promotions fixé pour l'année considérée.
 
