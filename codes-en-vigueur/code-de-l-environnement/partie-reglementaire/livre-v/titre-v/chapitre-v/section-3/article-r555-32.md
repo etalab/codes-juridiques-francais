@@ -6,4 +6,4 @@ Lorsque le pétitionnaire de l'autorisation prévue à l'article L. 555-1 demand
 
 2° Les pièces non mentionnées aux articles R. 555-8 et R. 555-9 prévues à l'article R. 11-3 du code de l'expropriation pour cause d'utilité publique.
 
-Le préfet ou le préfet coordonnateur de l'instruction demande, le cas échéant, au pétitionnaire de fournir les pièces complémentaires nécessaires en vue de l'examen conjoint préalable à la mise en compatibilité du plan local d'urbanisme d'une ou plusieurs communes concernées par le tracé de la canalisation, lorsque cette mise en compatibilité est nécessaire en application de l'article L. 123-16 du code de l'urbanisme.
+Le préfet ou le préfet coordonnateur de l'instruction demande, le cas échéant, au pétitionnaire de fournir les pièces complémentaires nécessaires en vue de l'examen conjoint préalable à la mise en compatibilité du plan local d'urbanisme d'une ou plusieurs communes concernées par le tracé de la canalisation, lorsque cette mise en compatibilité est nécessaire en application des articles L. 123-14 et L. 123-14-2 du code de l'urbanisme.

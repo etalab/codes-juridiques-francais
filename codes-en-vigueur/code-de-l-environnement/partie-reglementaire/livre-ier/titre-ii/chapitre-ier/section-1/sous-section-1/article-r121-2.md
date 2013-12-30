@@ -88,7 +88,7 @@ Le maître d'ouvrage ou, lorsque celui-ci n'est pas désigné, la personne publi
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">5. Création de canalisations de transport de gaz, d'hydrocarbures ou de produits chimiques </p>
+<p align="left">5. Création de            canalisations de transport de gaz naturel ou assimilé, d'hydrocarbures ou de produits chimiques </p>
 </td>
 <td align="left" valign="top">
 <p align="left">Canalisations de transport de diamètre supérieur ou égal à 600 millimètres et de longueur supérieure à 200 kilomètres. </p>

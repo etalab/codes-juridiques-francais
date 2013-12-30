@@ -6,4 +6,4 @@ Les agents chargés de l'instruction des dossiers et du contrôle sont les inspe
 
 Toutefois, le contrôle technique de l'exploitation des ouvrages relevant du ministre de la défense ou dont l'intérêt pour la défense nationale est reconnu par l'acte d'autorisation ainsi que celui de leurs conduites de raccordement et de leurs extensions est assuré par les services désignés à cet effet par le ministre de la défense.
 
-Le contrôle de la construction et de l'exploitation de toute canalisation concernée par le présent chapitre est exercé auprès du maître d'ouvrage lors de la construction et auprès du transporteur défini à l'article R. 555-2 lorsque la canalisation est en service.
+Le contrôle de la construction et de l'exploitation de toute canalisation concernée par le présent chapitre est exercé auprès du maître d'ouvrage lors de la construction et auprès du transporteur défini à l'article R. 555-1 lorsque la canalisation est en service.

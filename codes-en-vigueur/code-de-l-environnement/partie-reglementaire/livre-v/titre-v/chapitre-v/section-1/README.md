@@ -1,3 +1,3 @@
-# Section 1 : Seuils de l'autorisation
+# Section 1 : Dispositions générales
 
 - [Article R555-1](article-r555-1.md)
