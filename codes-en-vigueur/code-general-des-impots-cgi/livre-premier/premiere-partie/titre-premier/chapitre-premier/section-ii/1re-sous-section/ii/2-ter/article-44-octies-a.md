@@ -18,17 +18,18 @@ Si l'exonération est consécutive au transfert, à la reprise, à la concentrat
 
 Lorsque l'activité non sédentaire d'un contribuable est implantée dans une zone franche urbaine mais est exercée en tout ou partie en dehors d'une telle zone, l'exonération s'applique si ce contribuable emploie au moins un salarié sédentaire à temps plein ou équivalent, exerçant ses fonctions dans les locaux affectés à l'activité, ou si ce contribuable réalise au moins 25 % de son chiffre d'affaires auprès de clients situés dans les zones franches urbaines.
 
-II.-L'exonération s'applique au bénéfice d'un exercice ou d'une année d'imposition, déclaré selon les modalités prévues aux articles 50-0,53 A, 96 à 100,102 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les conditions de droit commun :
+II.-L'exonération s'applique au bénéfice d'un exercice ou d'une année d'imposition, déclaré selon les modalités prévues aux articles 50-0,53 A,
+96 à 100,102 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les conditions de droit commun :
 
 a) Produits des actions ou parts de sociétés, résultats de sociétés ou organismes soumis au régime prévu à l'article 8, lorsqu'ils ne proviennent pas d'une activité exercée dans l'une des zones franches urbaines, et résultats de cession des titres de ces sociétés ;
 
 b) Produits correspondant aux subventions, libéralités et abandons de créances ;
 
-c) Produits de créances et d'opérations financières pour le montant qui excède le montant des frais financiers engagés au cours du même exercice ou de la même année d'imposition, si le contribuable n'est pas un établissement de crédit visé à l'article L. 511-1 du code monétaire et financier ;
+c) Produits de créances et d'opérations financières pour le montant qui excède le montant des frais financiers engagés au cours du même exercice ou de la même année d'imposition, si le contribuable n'est pas un établissement de crédit ou une société de financement visé à l'article L. 511-1 du code monétaire et financier ;
 
 d) Produits tirés des droits de la propriété industrielle et commerciale, lorsque ces droits n'ont pas leur origine dans l'activité exercée dans l'une des zones franches urbaines.
 
-Lorsque le contribuable n'exerce pas l'ensemble de son activité dans une zone franche urbaine, le bénéfice exonéré est déterminé en affectant le montant résultant du calcul ainsi effectué du rapport entre, d'une part, la somme des éléments d'imposition à la cotisation foncière des entreprises définis à l'article 1467 afférents à l'activité exercée dans les zones franches urbaines et relatifs à la période d'imposition des bénéfices et, d'autre part, la somme des éléments d'imposition à la cotisation foncière des entreprises du contribuable définis au même article pour ladite période. Pour la fixation de ce rapport, la valeur locative des immobilisations passibles d'une taxe foncière est déterminée conformément à l'article 1467, au 1er janvier de l'année au cours de laquelle est clos l'exercice ou au 1er janvier de l'année d'imposition des bénéfices.
+Lorsque le contribuable n'exerce pas l'ensemble de son activité dans les zones franches urbaines, les bénéfices réalisés sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés, dans les conditions de droit commun, en proportion du montant hors taxes du chiffre d'affaires ou de recettes réalisé en dehors de ces zones.
 
 Par exception aux dispositions du sixième alinéa, le contribuable exerçant une activité de location d'immeubles n'est exonéré qu'à raison des bénéfices provenant des seuls immeubles situés dans une zone franche urbaine. Cette disposition s'applique quel que soit le lieu d'établissement du bailleur.
 
