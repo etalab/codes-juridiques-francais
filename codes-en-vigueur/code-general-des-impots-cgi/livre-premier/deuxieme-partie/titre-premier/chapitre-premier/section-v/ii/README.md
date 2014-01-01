@@ -30,5 +30,4 @@
 - [Article 1466 C](article-1466-c.md)
 - [Article 1466 D](article-1466-d.md)
 - [Article 1466 A](article-1466-a.md)
-- [Article 1466 E](article-1466-e.md)
 - [Article 1466 F](article-1466-f.md)

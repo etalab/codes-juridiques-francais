@@ -18,13 +18,13 @@ Les membres d'un couple marié ou les partenaires liés par un pacte civil de so
 
 b) La différence, lorsqu'elle est positive, constatée au titre d'une année entre, d'une part, la limite définie au a et, d'autre part, les cotisations ou primes mentionnées au 1 peut être utilisée au cours de l'une des trois années suivantes.
 
-c) Lorsque le montant des cotisations ou primes mentionnées au 1 excède la limite définie au a, l'excédent qui correspond à des rachats de cotisations ou de primes mentionnés au c du 1 effectués par les personnes affiliées à ces régimes au 31 décembre 2004 n'est pas réintégré, en totalité au titre de l'année 2004, et, pour les années 2005 à 2013, dans la limite de :
+c) Lorsque le montant des cotisations ou primes mentionnées au 1 excède la limite définie au a, l'excédent qui correspond à des rachats de cotisations ou de primes mentionnés au c du 1 effectués par les personnes affiliées à ces régimes au 31 décembre 2004 n'est pas réintégré, en totalité au titre de l'année 2004, et, pour les années 2005 à 2014, dans la limite de :
 
 1° six années de cotisations au titre de chacune des années 2005 et 2006 ;
 
 2° quatre années de cotisations au titre de chacune des années 2007 à 2009 incluse ;
 
-3° deux années de cotisations au titre de chacune des années 2010 à 2013 incluse.
+3° deux années de cotisations au titre de chacune des années 2010 à 2014 incluse.
 
 Les dispositions des quatre premiers alinéas s'appliquent aux personnes ayant la qualité de fonctionnaire ou d'agent public, en activité, affiliées après le 31 décembre 2004.
 

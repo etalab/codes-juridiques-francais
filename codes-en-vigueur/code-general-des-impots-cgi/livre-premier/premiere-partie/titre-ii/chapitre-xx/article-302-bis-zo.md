@@ -1,9 +1,5 @@
 # Article 302 bis ZO
 
-Il est institué une taxe due par les personnes qui exploitent un ou plusieurs établissements hôteliers.
+Dans les conditions fixées à l'article 15 de la loi de finances pour 1965 (n° 64-1279 du 23 décembre 1964), il est institué pour les paris engagés depuis l'étranger et regroupés en France un prélèvement égal à 12 % de la commission revenant aux sociétés de courses, nette de toute rémunération des organismes habilités et détenteurs de droits étrangers.
 
-La taxe est assise sur le montant hors taxes des sommes encaissées en rémunération des prestations relatives à la fourniture de logement mentionnées au premier alinéa du a de l'article 279 d'une valeur supérieure ou égale à 200 € par nuitée de séjour.
-
-Le taux est fixé à 2 %.
-
-Le fait générateur et l'exigibilité de la taxe interviennent dans les mêmes conditions que celles applicables en matière de taxe sur la valeur ajoutée. La taxe est déclarée, recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.
+Le prélèvement est dû par le groupement d'intérêt économique Pari mutuel urbain pour le compte des sociétés de courses intéressées pour les paris organisés dans les conditions fixées à l'article 5 de la loi du 2 juin 1891 ayant pour objet de réglementer l'autorisation et le fonctionnement des courses de chevaux.
