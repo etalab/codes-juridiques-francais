@@ -40,7 +40,7 @@ VI.-Les tarifs sont applicables dans les conditions suivantes :
 
 3° Troisième circonscription : les autres communes de la région d'Ile-de-France.
 
-Par dérogation, les communes de la région d'Ile-de-France éligibles à la fois, pour l'année en cause, à la dotation de solidarité urbaine et de cohésion sociale et au bénéfice du fonds de solidarité des communes de la région d'Ile-de-France, respectivement prévus aux articles L. 2334-15 et L. 2531-12 du code général des collectivités territoriales, sont, quelle que soit leur situation géographique, classées pour le calcul de la taxe dans la troisième circonscription.
+Par dérogation, les communes de la région d'Ile-de-France éligibles à la fois, pour l'année précédant celle de l'imposition (1), à la dotation de solidarité urbaine et de cohésion sociale et au bénéfice du fonds de solidarité des communes de la région d'Ile-de-France, respectivement prévus aux articles L. 2334-15 et L. 2531-12 du code général des collectivités territoriales, sont, quelle que soit leur situation géographique, classées pour le calcul de la taxe dans la troisième circonscription.
 
 Dans chaque circonscription, pour le calcul de la taxe relative aux locaux à usage de bureaux, un tarif réduit est appliqué pour les locaux possédés par l'Etat, les collectivités territoriales, les organismes ou les établissements publics sans caractère industriel ou commercial, les organismes professionnels ainsi que les associations ou organismes privés sans but lucratif à caractère sanitaire, social, éducatif, sportif ou culturel et dans lesquels ils exercent leur activité.
 
@@ -59,13 +59,13 @@ a) Pour les locaux à usage de bureaux :
 <tbody>
 <tr>
 <td colspan="2">
-<p align="center">  1re CIRCONSCRIPTION</p>
+<p align="center">1re CIRCONSCRIPTION</p>
 </td>
 <td colspan="2">
-<p align="center"> 2e CIRCONSCRIPTION</p>
+<p align="center">2e CIRCONSCRIPTION</p>
 </td>
 <td colspan="5">
-<p align="center"> 3e CIRCONSCRIPTION</p>
+<p align="center">3e CIRCONSCRIPTION</p>
 </td>
 </tr>
 <tr>
@@ -95,13 +95,13 @@ a) Pour les locaux à usage de bureaux :
 <tbody>
 <tr>
 <td>
-<p align="center">  1re CIRCONSCRIPTION</p>
+<p align="center">1re CIRCONSCRIPTION</p>
 </td>
 <td>
-<p align="center"> 2e CIRCONSCRIPTION</p>
+<p align="center">2e CIRCONSCRIPTION</p>
 </td>
 <td colspan="7">
-<p align="center"> 3e CIRCONSCRIPTION</p>
+<p align="center">3e CIRCONSCRIPTION</p>
 </td>
 </tr>
 <tr>
@@ -124,13 +124,13 @@ c) Pour les locaux de stockage :
 <tbody>
 <tr>
 <td>
-<p align="center">  1re CIRCONSCRIPTION</p>
+<p align="center">1re CIRCONSCRIPTION</p>
 </td>
 <td>
-<p align="center"> 2e CIRCONSCRIPTION</p>
+<p align="center">2e CIRCONSCRIPTION</p>
 </td>
 <td colspan="7">
-<p align="center"> 3e CIRCONSCRIPTION</p>
+<p align="center">3e CIRCONSCRIPTION</p>
 </td>
 </tr>
 <tr>
@@ -152,13 +152,13 @@ c) Pour les locaux de stockage :
 <tbody>
 <tr>
 <td>
-<p align="center">  1re CIRCONSCRIPTION</p>
+<p align="center">1re CIRCONSCRIPTION</p>
 </td>
 <td>
-<p align="center"> 2e CIRCONSCRIPTION</p>
+<p align="center">2e CIRCONSCRIPTION</p>
 </td>
 <td colspan="7">
-<p align="center"> 3e CIRCONSCRIPTION</p>
+<p align="center">3e CIRCONSCRIPTION</p>
 </td>
 </tr>
 <tr>
@@ -174,7 +174,7 @@ c) Pour les locaux de stockage :
 </tbody>
 </table>
 
-<div align="left">e) Ces tarifs sont actualisés par arrêté du ministre chargé de l'économie au 1er janvier de chaque année en fonction du dernier indice du coût de la construction publié par l'Institut national de la statistique et des études économiques. Les valeurs sont arrondies, s'il y a lieu, au centime d'euro supérieur. </div>
+<div align="left">e) Ces tarifs sont actualisés au 1er janvier de chaque année en fonction du dernier indice du coût de la construction publié par l'Institut national de la statistique et des études économiques. Les valeurs sont arrondies, s'il y a lieu, au centime d'euro supérieur. </div>
 <div align="left"/>
 <div align="left">VI bis-Pour l'application des dispositions des V et VI, les parcs d'exposition et locaux à usage principal de congrès sont assimilés à des locaux de stockage. </div>
 <div align="left"/>
