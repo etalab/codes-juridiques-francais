@@ -1,4 +1,4 @@
-# Sous-section 1 : Mesures spécifiques à la sauvegarde, au redressement ou à la liquidation judiciaires des établissements de crédit, des entreprises d'investissement, des établissements de monnaie électronique et des établissements de paiement
+# Sous-section 1 : Mesures spécifiques à la sauvegarde, au redressement ou à la liquidation judiciaires des établissements de crédit, des sociétés de financement, des entreprises d'investissement, des établissements de monnaie électronique et des établissements de paiement
 
 - [Article L613-24](article-l613-24.md)
 - [Article L613-25](article-l613-25.md)

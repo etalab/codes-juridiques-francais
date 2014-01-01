@@ -1,4 +1,4 @@
-# Chapitre Ier : Dispositions relatives aux établissements du secteur bancaire
+# Chapitre Ier : Dispositions relatives aux prestataires de services bancaires
 
 - [Section 1 : Dispositions générales](section-1)
 - [Section 2 : Banques mutualistes ou coopératives](section-2)
