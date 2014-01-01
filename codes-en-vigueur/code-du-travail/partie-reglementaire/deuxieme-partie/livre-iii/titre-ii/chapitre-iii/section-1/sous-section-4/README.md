@@ -1,4 +1,4 @@
-# Sous-section 4 : Information et consultation périodiques du comité d'entreprise.
+# Sous-section 4 : Information et consultation en matière  de formation professionnelle et d'apprentissage
 
-- [Paragraphe 1 : Rapports et information dans les entreprises  de moins de trois cents salariés](paragraphe-1)
-- [Paragraphe 2 : Rapports et information dans les entreprises  de trois cents salariés et plus](paragraphe-2)
+- [Paragraphe 1 : Orientation de la formation professionnelle](paragraphe-1)
+- [Paragraphe 2 : Plan de formation](paragraphe-2)
