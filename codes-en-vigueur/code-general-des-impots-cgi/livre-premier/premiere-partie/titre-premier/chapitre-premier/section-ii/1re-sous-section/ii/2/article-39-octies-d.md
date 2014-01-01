@@ -28,6 +28,6 @@ Pour la détermination des résultats des exercices ouverts à compter du 1er ja
 
 Les dispositions du premier alinéa ne sont plus applicables aux investissements qui n'ont pas fait l'objet d'une demande d'agrément déposée avant le 1er janvier 2004.
 
-V. Le bénéfice des dispositions du présent article peut également être accordé sur agrément du ministre chargé du budget dans les conditions et limites prévues par cet agrément, aux établissements de crédit et aux entreprises mentionnées au V de l'article 39 octies A qui réalisent des opérations prévues à ce même V, ainsi qu'aux groupements d'entreprises.
+V. Le bénéfice des dispositions du présent article peut également être accordé sur agrément du ministre chargé du budget dans les conditions et limites prévues par cet agrément, aux établissements de crédit, aux sociétés de financement et aux entreprises mentionnées au V de l'article 39 octies A qui réalisent des opérations prévues à ce même V, ainsi qu'aux groupements d'entreprises.
 
 VI. Les dispositions du présent article s'appliquent aux investissements qui sont réalisés à compter du 1er janvier 1992, sous réserve des dispositions du cinquième alinéa du I quater et du deuxième alinéa du II bis de l'article 39 octies A et du quatrième alinéa du IV du présent article.

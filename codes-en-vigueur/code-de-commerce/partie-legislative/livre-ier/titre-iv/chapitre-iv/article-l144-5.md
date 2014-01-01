@@ -6,7 +6,7 @@ L'article L. 144-3 n'est pas applicable :
 
 2° Aux collectivités territoriales ;
 
-3° Aux établissements de crédit ;
+3° Aux établissements de crédit et aux sociétés de financement ;
 
 4° Aux majeurs faisant l'objet d'une mesure de protection légale ou aux personnes faisant l'objet de soins psychiatriques en raison de troubles mentaux dans les conditions fixées par les articles L. 3211-2 et L. 3212-1 à L. 3212-12 du code de la santé publique, en ce qui concerne le fonds dont ils étaient propriétaires avant la mesure de protection légale ou avant la survenance de l'hospitalisation ;
 

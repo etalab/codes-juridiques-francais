@@ -8,7 +8,7 @@ I.-Les interdictions définies à l'article L. 511-5 ne font pas obstacle à ce 
 
 3. Procéder à des opérations de trésorerie avec des sociétés ayant avec elle, directement ou indirectement, des liens de capital conférant à l'une des entreprises liées un pouvoir de contrôle effectif sur les autres ;
 
-4. Emettre des titres financiers ;
+4. Emettre des titres financiers si elle n'effectue pas d'opération de crédit mentionnée à l'article L. 313-1 ;
 
 5. Emettre des instruments de paiement délivrés pour l'achat auprès d'elle ou auprès d'entreprises liées avec elle par un accord de franchise commerciale, d'un bien ou d'un service déterminé ;
 

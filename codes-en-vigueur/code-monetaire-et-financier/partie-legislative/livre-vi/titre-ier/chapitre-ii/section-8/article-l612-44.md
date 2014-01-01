@@ -20,6 +20,6 @@ II. ― Les commissaires aux comptes sont tenus de signaler dans les meilleurs d
 
 La même obligation s'applique aux faits et aux décisions mentionnés ci-dessus dont les commissaires aux comptes viendraient à avoir connaissance dans l'exercice de leur mission auprès d'une société mère ou d'une filiale de la personne contrôlée ou dans un organisme subordonné à une mutuelle, à une union, à une fédération ou dans un organisme relevant de l'article L. 212-7 du code de la mutualité.
 
-Lorsque les commissaires aux comptes exercent leur mission dans un établissement de crédit affilié à l'un des organes centraux mentionnés à l'article L. 511-30, les faits et décisions mentionnés aux alinéas précédents sont transmis simultanément à cet organe central.
+Lorsque les commissaires aux comptes exercent leur mission dans un établissement de crédit ou une société de financement, affilié à l'un des organes centraux mentionnés à l'article L. 511-30, les faits et décisions mentionnés aux alinéas précédents sont transmis simultanément à cet organe central.
 
 III. ― Pour l'application des dispositions de la présente section, les commissaires aux comptes sont déliés du secret professionnel à l'égard de l'Autorité de contrôle prudentiel et de résolution et, le cas échéant, des organes centraux mentionnés à l'article L. 511-30 ; leur responsabilité ne peut être engagée pour les informations ou divulgations de faits auxquelles ils procèdent en exécution des obligations qui résultent de ces dispositions.

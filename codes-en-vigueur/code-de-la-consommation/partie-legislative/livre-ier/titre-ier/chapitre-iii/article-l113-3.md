@@ -6,4 +6,4 @@ Dans les collectivités relevant de l'article 73 de la Constitution et dans les 
 
 Le premier alinéa du présent article s'applique à toutes les activités visées au dernier alinéa de l'article L. 113-2. Il est également applicable aux manquements au règlement (CE) n° 1008/2008 du Parlement européen et du Conseil, du 24 septembre 2008, établissant des règles communes pour l'exploitation de services aériens dans la Communauté.
 
-Les règles relatives à l'obligation de renseignements par les établissements de crédit, les établissements de monnaie électronique, les établissements de paiement et les organismes mentionnés à l'article L. 518-1 du code monétaire et financier sont fixées par l'article L. 312-1-1 et les sections 3 et 4 du chapitre IV du titre Ier du livre III du même code.
+Les règles relatives à l'obligation de renseignements par    les établissements de crédit, les sociétés de financement, les établissements de monnaie électronique, les établissements de paiement et les organismes mentionnés à l'article L. 518-1 du code monétaire et financier sont fixées par l'article L. 312-1-1 et les sections 3 et 4 du chapitre IV du titre Ier du livre III du même code.

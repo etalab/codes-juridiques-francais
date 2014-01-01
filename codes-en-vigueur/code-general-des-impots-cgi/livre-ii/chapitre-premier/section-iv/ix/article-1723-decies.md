@@ -6,6 +6,6 @@ Le recouvrement, tant de la créance du Trésor que de l'intérêt de retard et 
 
 Sont tenus solidairement au versement prévu à l'article L. 112-2 du code de l'urbanisme :
 
-a. Les établissements de crédit ou sociétés de caution mutuelle qui sont garants de l'achèvement de la construction ;
+a. Les établissements de crédit, sociétés de financement ou sociétés de caution mutuelle qui sont garants de l'achèvement de la construction ;
 
 b. Les titulaires successifs de l'autorisation de construire ainsi que leurs ayants cause autres que les personnes qui ont acquis les droits sur l'immeuble à construire en vertu d'un contrat régi par les articles L. 261-9 à L. 261-22 du code de la construction et de l'habitation.

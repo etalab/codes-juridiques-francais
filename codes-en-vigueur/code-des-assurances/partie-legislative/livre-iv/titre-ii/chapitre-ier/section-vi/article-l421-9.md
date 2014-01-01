@@ -1,10 +1,10 @@
 # Article L421-9
 
-I. - Le Fonds de garantie des assurances obligatoires de dommages institué par l'article L. 421-1 est chargé de protéger les personnes assurées, souscriptrices, adhérentes ou bénéficiaires de prestations de contrats d'assurance dont la souscription est rendue obligatoire par une disposition législative ou réglementaire, contre les conséquences de la défaillance des entreprises d'assurance agréées en France et soumises au contrôle de l'Etat en vertu de l'article L. 310-1, à l'exception de celles qui sont agréées pour des opérations citées au 1° et au dernier alinéa du même article et, à titre exclusif, pour les opérations citées au 2° dudit article ou pour les activités d'assistance mentionnées au 3° de cet article.
+I.-Le Fonds de garantie des assurances obligatoires de dommages institué par l'article L. 421-1 est chargé de protéger les personnes assurées, souscriptrices, adhérentes ou bénéficiaires de prestations de contrats d'assurance dont la souscription est rendue obligatoire par une disposition législative ou réglementaire, contre les conséquences de la défaillance des entreprises d'assurance agréées en France et soumises au contrôle de l'Etat en vertu de l'article L. 310-1, à l'exception de celles qui sont agréées pour des opérations citées au 1° et au dernier alinéa du même article et, à titre exclusif, pour les opérations citées au 2° dudit article ou pour les activités d'assistance mentionnées au 3° de cet article.
 
 Ne sont couverts par le fonds de garantie que les sinistres garantis par le contrat dont le fait dommageable intervient au plus tard à midi le quarantième jour suivant la publication au Journal officiel de la décision de retrait de l'agrément de l'assureur, et qui donnent lieu à déclaration de la part de l'assuré ou à une première réclamation de la part d'un tiers victime moins de cinq ans après cette date.
 
-II. - Sont exclus de toute indemnisation au titre de la présente section les contrats d'assurance :
+II.-Sont exclus de toute indemnisation au titre de la présente section les contrats d'assurance :
 
 1° Pour lesquels un assuré, un souscripteur, un adhérent, un bénéficiaire de prestations ou un tiers agissant pour le compte d'une de ces personnes a pu bénéficier d'informations sur la situation de l'entreprise défaillante ou d'avantages particuliers ;
 
@@ -22,10 +22,10 @@ c) Entreprises d'assurance relevant du présent code, institutions de prévoyanc
 
 d) Sociétés entrant dans le périmètre de consolidation défini à l'article L. 233-16 du code de commerce dont relève l'entreprise d'assurance, sauf s'il s'agit de contrats souscrits au profit de leurs salariés ou de leurs clients ;
 
-e) Etablissements de crédit et personnes mentionnées à l'article L. 518-1 du code monétaire et financier, sauf pour les contrats souscrits pour le compte d'un emprunteur, d'un client ou de leurs salariés ;
+e) Etablissements de crédit, sociétés de financement et personnes mentionnées à l'article L. 518-1 du code monétaire et financier, sauf pour les contrats souscrits pour le compte d'un emprunteur, d'un client ou de leurs salariés ;
 
 5° Assurant les personnes morales et les personnes physiques, souscriptrices, adhérentes ou bénéficiaires, en ce qui concerne leurs activités professionnelles ; sont couverts en revanche les contrats souscrits au profit d'une personne physique, cliente ou adhérente hors du cadre de ses activités professionnelles ou au profit des salariés des personnes morales ou physiques mentionnées ci-dessus.
 
-III. - Dans les cas prévus aux 1° , 4° et 5° du II, les personnes victimes d'un dommage dont l'assuré est responsable et qui ne se trouvent pas avec lui dans une situation contractuelle à raison de leur activité professionnelle sont indemnisées par le fonds.
+III.-Dans les cas prévus aux 1°, 4° et 5° du II, les personnes victimes d'un dommage dont l'assuré est responsable et qui ne se trouvent pas avec lui dans une situation contractuelle à raison de leur activité professionnelle sont indemnisées par le fonds.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article.

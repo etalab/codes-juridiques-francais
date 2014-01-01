@@ -24,7 +24,7 @@ Le montant total des dotations ou des souscriptions versées par une ou plusieur
 
 La région passe avec la société gestionnaire du fonds d'investissement une convention déterminant notamment l'objet, le montant et le fonctionnement du fonds ainsi que les conditions de restitution des dotations versées en cas de modification ou de cessation d'activité de ce fonds ;
 
-10° La participation, par le versement de dotations, à la constitution d'un fonds de garantie auprès d'un établissement de crédit ayant pour objet exclusif de garantir des concours financiers accordés à des entreprises.
+10° La participation, par le versement de dotations, à la constitution d'un fonds de garantie auprès d'un établissement de crédit ou d'une société de financement ayant pour objet exclusif de garantir des concours financiers accordés à des entreprises.
 
 La région passe avec la société gestionnaire du fonds de garantie une convention déterminant notamment l'objet, le montant et le fonctionnement du fonds, les modalités d'information du conseil régional par la société ainsi que les conditions de restitution des dotations versées en cas de modification ou de cessation d'activité de ce fonds.
 

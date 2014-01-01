@@ -8,7 +8,7 @@ Toutefois, les dispositifs d'augmentation du capital prévus aux articles L. 333
 
 2° Article L. 233-16 du code de commerce pour les entreprises régies par ce code ;
 
-3° Article L. 511-36 du code monétaire et financier pour les établissements de crédit ;
+3° Article L. 511-36 du code monétaire et financier pour les établissements de crédit et les sociétés de financement ;
 
 4° Dispositions du code de la mutualité pour les mutuelles ;
 

@@ -10,7 +10,7 @@ Les entreprises d'investissement peuvent par ailleurs communiquer des informatio
 
 2° Opérations sur instruments financiers, de garanties ou d'assurance destinées à la couverture d'un risque de crédit ;
 
-3° Prises de participation ou de contrôle dans un établissement de crédit ou une entreprise d'investissement ;
+3° Prises de participation ou de contrôle dans un établissement de crédit, une société de financement ou une entreprise d'investissement ;
 
 4° Cessions d'actifs ou de fonds de commerce ;
 

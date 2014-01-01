@@ -26,7 +26,9 @@ d) Les personnes habilitées à exercer les activités de conservation ou d'admi
 
 7° Les personnes morales mentionnées à l'article L. 313-21-1 ;
 
-8° Les établissements de monnaie électronique.
+8° Les établissements de monnaie électronique ;
+
+9° Les sociétés de financement.
 
 Le contrôle de l'Autorité s'exerce sur l'activité de prestation de services d'investissement des personnes mentionnées aux 1° et 2° sous réserve de la compétence de l'Autorité des marchés financiers en matière de contrôle des règles de bonne conduite et autres obligations professionnelles.
 
@@ -56,8 +58,8 @@ II.-L'Autorité peut soumettre à son contrôle :
 
 2° Toute personne qui s'entremet, directement ou indirectement, entre un organisme mentionné au 3° ou au 4° du B et une personne qui souhaite adhérer ou adhère à cet organisme ;
 
-3° Tout intermédiaire en opération de banque et en services de paiement ;
+3° Tout intermédiaire en opération de banque et en services de paiement.
 
 Lorsqu'elle a soumis à son contrôle l'une des personnes mentionnées aux 1° à 3° du présent II, la section 2 du chapitre III du présent titre est applicable.
 
-III.-L'Autorité de contrôle prudentiel et de résolution est chargée de veiller au respect par les personnes mentionnées aux I et II exerçant en France en libre prestation de service ou libre établissement des dispositions qui leur sont applicables, en tenant compte de la surveillance exercée par les autorités compétentes de l'Etat membre où elles ont leur siège social qui sont seules chargées notamment de l'examen de leurs situation financière, conditions d'exploitation, solvabilité et de leur capacité à tenir à tout moment leurs engagements à l'égard de leurs assurés, adhérents, bénéficiaires et entreprises réassurées.
+III.-L'Autorité de contrôle prudentiel est chargée de veiller au respect par les personnes mentionnées aux I et II exerçant en France en libre prestation de service ou libre établissement des dispositions qui leur sont applicables, en tenant compte de la surveillance exercée par les autorités compétentes de l'Etat membre où elles ont leur siège social qui sont seules chargées notamment de l'examen de leurs situation financière, conditions d'exploitation, solvabilité et de leur capacité à tenir à tout moment leurs engagements à l'égard de leurs assurés, adhérents, bénéficiaires et entreprises réassurées.

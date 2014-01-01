@@ -6,8 +6,10 @@ Le ministre chargé de l'économie précise les conditions d'application des art
 
 2. Outre la faculté de recourir aux autres modes légaux de cession et d'opposabilité aux tiers, la cession de créances résultant des opérations de crédit mentionnées à l'article L. 313-1 peut être rendue opposable aux tiers par accord écrit du débiteur ou par décision de l'Autorité de contrôle prudentiel et de résolution ;
 
-3. Les plans et comptes d'épargne logement, les livrets d'épargne d'entreprise, les plans et livrets d'épargne populaire, les plans d'épargne en actions, ainsi que les engagements par signature peuvent être transférés, sans préjudice des droits des titulaires ou bénéficiaires, à un ou plusieurs autres établissements de crédit ;
+3. Les plans et comptes d'épargne logement, les livrets d'épargne d'entreprise, les plans et livrets d'épargne populaire, les plans d'épargne en actions peuvent être transférés, sans préjudice des droits des titulaires ou bénéficiaires, à un ou plusieurs autres établissements de crédit ;
 
-4. Les instruments financiers inscrits en compte auprès de l'établissement peuvent être transférés chez un autre prestataire de services d'investissement ou chez l'émetteur ;
+4. Les engagements par signature peuvent être transférés, sans préjudice des droits des bénéficiaires, à un ou plusieurs autres établissements de crédit ou sociétés de financement ;
 
-5. Les opérations prévues aux 1 à 6 de l'article L. 311-2 et aux articles L. 511-2 et L. 511-3 sont limitées.
+5. Les instruments financiers inscrits en compte auprès de l'établissement peuvent être transférés chez un autre prestataire de services d'investissement ou chez l'émetteur ;
+
+6. Les opérations prévues aux 1 à 6 de l'article L. 311-2 et aux articles L. 511-2 et L. 511-3 sont limitées.

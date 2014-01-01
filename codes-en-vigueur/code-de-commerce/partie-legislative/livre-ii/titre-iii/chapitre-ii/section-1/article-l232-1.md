@@ -2,7 +2,7 @@
 
 I. - A la clôture de chaque exercice le conseil d'administration, le directoire ou les gérants dressent l'inventaire, les comptes annuels conformément aux dispositions de la section 2 du chapitre III du titre II du livre Ier et établissent un rapport de gestion écrit. Ils annexent au bilan :
 
-1° Un état des cautionnements, avals et garanties donnés par la société. Cette disposition n'est pas applicable aux sociétés exploitant un établissement de crédit ou une entreprise d'assurance ;
+1° Un état des cautionnements, avals et garanties donnés par la société. Cette disposition n'est pas applicable aux sociétés exploitant un établissement de crédit, une société de financement ou une entreprise d'assurance ;
 
 2° Un état des sûretés consenties par elle.
 
