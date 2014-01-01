@@ -1,3 +1,15 @@
 # Chapitre VI : Dispositions applicables en Nouvelle-Calédonie
 
+- [Article D156-3](article-d156-3.md)
+- [Article D156-4](article-d156-4.md)
+- [Article D156-9](article-d156-9.md)
+- [Article D156-10](article-d156-10.md)
+- [Article D156-11](article-d156-11.md)
+- [Article D156-12](article-d156-12.md)
 - [Article R*156-1](article-r-156-1.md)
+- [Article R156-2](article-r156-2.md)
+- [Article R156-5](article-r156-5.md)
+- [Article R156-6](article-r156-6.md)
+- [Article R156-7](article-r156-7.md)
+- [Article R156-8](article-r156-8.md)
+- [Article R156-13](article-r156-13.md)

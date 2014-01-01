@@ -5,3 +5,4 @@
 - [Section 3 : Préfet de département](section-3)
 - [Section 4 : Préfet de police](section-4)
 - [Section 5 : Préfet de police des Bouches-du-Rhône](section-5)
+- [Section 6 : Comité départemental de sécurité](section-6)

@@ -1,6 +1,5 @@
 # Section 1 : Participation des forces armées au maintien de l'ordre
 
-- [Article D1321-2](article-d1321-2.md)
 - [Article D1321-3](article-d1321-3.md)
 - [Article D1321-4](article-d1321-4.md)
 - [Article D1321-6](article-d1321-6.md)
