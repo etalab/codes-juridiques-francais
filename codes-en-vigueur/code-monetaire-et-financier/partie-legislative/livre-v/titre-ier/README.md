@@ -1,6 +1,6 @@
-# Titre Ier : Etablissements du secteur bancaire
+# Titre Ier : Prestataires de services bancaire
 
-- [Chapitre Ier : Règles générales applicables aux établissements de crédit](chapitre-ier)
+- [Chapitre Ier : Dispositions générales](chapitre-ier)
 - [Chapitre II : Les banques mutualistes ou coopératives](chapitre-ii)
 - [Chapitre IV : Les caisses de crédit municipal](chapitre-iv)
 - [Chapitre V : Les sociétés financières](chapitre-v)

@@ -1,4 +1,4 @@
-# Chapitre Ier : Règles générales applicables aux établissements de crédit
+# Chapitre Ier : Dispositions générales
 
 - [Section 1 : Définitions et activités](section-1)
 - [Section 2 : Interdictions](section-2)
