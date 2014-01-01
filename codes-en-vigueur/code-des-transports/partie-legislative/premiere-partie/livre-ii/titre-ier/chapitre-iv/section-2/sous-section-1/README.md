@@ -10,3 +10,4 @@
 - [Article L1214-21](article-l1214-21.md)
 - [Article L1214-22](article-l1214-22.md)
 - [Article L1214-23](article-l1214-23.md)
+- [Article L1214-23-1](article-l1214-23-1.md)

@@ -12,4 +12,5 @@
 - [Article L300-5-1](article-l300-5-1.md)
 - [Article L300-5-2](article-l300-5-2.md)
 - [Article L300-6](article-l300-6.md)
+- [Article L300-6-1](article-l300-6-1.md)
 - [Article L300-7](article-l300-7.md)

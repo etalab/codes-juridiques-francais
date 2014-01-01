@@ -16,7 +16,9 @@ III. ― Si le représentant de l'ensemble des organismes mentionnés à l'artic
 
 IV. ― Il est rendu public et mis à jour au moins tous les cinq ans.
 
-V. ― Il est compatible avec le schéma régional du climat, de l'air et de l'énergie défini à l'article L. 222-1 du présent code.
+V.-Il peut être adapté dans les conditions définies à l'article L. 300-6-1 du code de l'urbanisme.
+
+VI. ― Il est compatible avec le schéma régional du climat, de l'air et de l'énergie défini à l'article L. 222-1 du présent code.
 
 Les départements intègrent ce plan dans le rapport sur la situation en matière de développement durable prévu par l'article L. 3311-2 du code général des collectivités territoriales.
 
