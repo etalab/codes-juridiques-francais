@@ -7,4 +7,5 @@
 - [Section 5 : Liquidation de la taxe.](section-5)
 - [Section 6 : Paiement de la taxe.](section-6)
 - [Section 7 : Recherche, constatation, sanction et poursuite.](section-7)
+- [Section 8 : Affectation du produit de la taxe.](section-8)
 - [Section 9 : Dispositions diverses.](section-9)
